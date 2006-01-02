@@ -118,7 +118,3 @@ Section 543(b) of Pub. L. 98–525 provided that: “The amendments made by subs
 
 Amendment by section 1401(h) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1475, 1478, 2103, 2103a, 2105, 2106, 2109, 4342, 6954, 9342 of this title; title 37 section 209.
-

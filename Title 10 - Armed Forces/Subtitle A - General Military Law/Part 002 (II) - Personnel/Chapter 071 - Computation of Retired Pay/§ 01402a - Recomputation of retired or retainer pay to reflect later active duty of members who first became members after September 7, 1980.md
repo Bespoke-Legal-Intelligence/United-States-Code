@@ -68,7 +68,7 @@ Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—(1) 
 
 (3) The determination of the Secretary concerned as to extraordinary heroism is conclusive for all purposes.
 
-(Added Pub. L. 96–342, title VIII, §813(b)(3)(A), Sept. 8, 1980, 94 Stat. 1102; amended Pub. L.96–513, title V, §511(51)(A), (B), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(1), (2), July 1, 1986, 100 Stat. 693; Pub. L. 102–484, div. A, title VI, §642(b), Oct. 23, 1992, 106 Stat. 2425.)
+(Added Pub. L. 96–342, title VIII, §813(b)(3)(A), Sept. 8, 1980, 94 Stat. 1102; amended Pub. L. 96–513, title V, §511(51)(A), (B), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 98–94, title IX, §§922(a)(5), (6), 923(a)(1), (2)(D), (E), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 99–348, title II, §201(b)(1), (2), July 1, 1986, 100 Stat. 693; Pub. L. 102–484, div. A, title VI, §642(b), Oct. 23, 1992, 106 Stat. 2425.)
 
 #### Amendments
 
@@ -109,8 +109,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Accrual of Benefits; Prospective Applicability
 
 No benefits to accrue for months beginning before Oct. 23, 1992, by reason of the amendment by Pub. L. 102–484, see section 642(c) of Pub. L. 102–484, set out as a note under section 1402 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1373, 1403, 6330 of this title; title 37 section 205.
 

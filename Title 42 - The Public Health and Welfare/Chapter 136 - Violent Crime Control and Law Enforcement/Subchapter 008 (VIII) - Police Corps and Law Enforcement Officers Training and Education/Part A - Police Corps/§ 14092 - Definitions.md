@@ -8,7 +8,7 @@ In this part—
 
 &emsp;&emsp;(A) was no more than 21 years old; or
 
-&emsp;&emsp;(B) if older than 21 years, was in fact dependent on the child's parents for at least one-half of the child's support (excludingeducational expenses), as determined by the Director.
+&emsp;&emsp;(B) if older than 21 years, was in fact dependent on the child's parents for at least one-half of the child's support (excluding educational expenses), as determined by the Director.
 
 &emsp;“Director” means the Director of the Office of the Police Corps and Law Enforcement Education appointed under section 14093 <sup>1</sup> of this title.
 

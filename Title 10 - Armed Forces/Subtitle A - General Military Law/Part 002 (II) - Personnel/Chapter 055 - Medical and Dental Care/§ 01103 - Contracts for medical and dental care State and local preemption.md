@@ -2,7 +2,7 @@
 
 (a)
 
-Occurrence of Preemption.—A law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery or financing methods shall not apply to any contract entered into pursuant to this chapter by the Secretary of Defense or the administering Secretaries to the extent that the Secretary of Defense or the administering Secretaries determine that—
+Occurrence of Preemption.—A law or regulation of a State or local government relatingto health insurance, prepaid health plans, or other health care delivery or financing methods shall not apply to any contract entered into pursuant to this chapter by the Secretary of Defense or the administering Secretaries to the extent that the Secretary of Defense or the administering Secretaries determine that—
 
 &emsp;(1) the State or local law or regulation is inconsistent with a specific provision of the contract or a regulation promulgated by the Secretary of Defense or the administering Secretaries pursuant to this chapter; or
 
@@ -14,11 +14,13 @@ Effect of Preemption.—In the case of the preemption under subsection (a) of a 
 
 (c)
 
-State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each Territory and possession of the United States.
+State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
 
-(Added Pub. L. 100–180, div. A, title VII, §725(a)(1), Dec. 4, 1987, 101 Stat. 1116; amended Pub. L. 103–160, div. A, title VII, §715(a), Nov. 30, 1993, 107 Stat. 1690.)
+(Added Pub. L. 100–180, div. A, title VII, §725(a)(1), Dec. 4, 1987, 101 Stat. 1116; amended Pub. L. 103–160, div. A, title VII, §715(a), Nov. 30, 1993, 107 Stat. 1690; Pub. L. 109–163, div. A, title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–163 struck out “Territory and” before “possession”.
 
 1993—Pub. L. 103–160 amended section generally. Prior to amendment, section read as follows:
 

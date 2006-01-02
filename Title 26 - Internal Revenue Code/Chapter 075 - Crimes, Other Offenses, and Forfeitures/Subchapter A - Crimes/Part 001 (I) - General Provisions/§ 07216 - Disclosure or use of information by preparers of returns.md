@@ -56,7 +56,3 @@ Amendment by Pub. L. 98–369 applicable with respect to taxable years beginning
 
 Section 316(c) of Pub. L. 92–178 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month which begins after the date of the enactment of this Act \[Dec. 10, 1971\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6713, 7213 of this title.
-

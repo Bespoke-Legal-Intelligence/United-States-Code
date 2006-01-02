@@ -44,7 +44,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 &emsp;&emsp;(M) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of July 2, 1862 (7 U.S.C. 301 et seq.).
 
-&emsp;&emsp;(N) 1 member representing the land-grant colleges and universities eligible to receivefunds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University.
+&emsp;&emsp;(N) 1 member representing the land-grant colleges and universities eligible to receive funds under the Act of August 30, 1890 (7 U.S.C. 321 et seq.), including Tuskegee University.
 
 &emsp;&emsp;(O) 1 member representing the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (Public Law 103–382; 7 U.S.C. 301 note)).
 
@@ -90,7 +90,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 #### (6) Executive committee
 
-&emsp;The Advisory Board shall establish an executive committee charged with the responsibility of working with the Secretary and officers and employees of the Department of Agriculture to summarize and disseminate the recommendations of the Advisory Board.
+&emsp;The Advisory Board shall establish an executive committee charged with the responsibility of working with the Secretary and officersand employees of the Department of Agriculture to summarize and disseminate the recommendations of the Advisory Board.
 
 #### (7) Equal representation of public and private sector members
 
@@ -198,7 +198,7 @@ Subsec. (f)(2)(G). Pub. L. 99–198, §1406(b), added subpar. (G).
 
 1981—Subsec. (a). Pub. L. 97–98, §1408(a), substituted “that expires September 30, 1985” for “of five years”.
 
-Subsec. (b). Pub. L. 97–98, §1408(b), in provision preceding par. (1) substituted “twenty-five” for “twenty-one” and inserted “to serve staggered terms” and inpar. (1) substituted “eight” for “four” and “agricultural, forestry, and aquacultural products, from various geographical regions” for “agricultural commodities, forest products, and aquacultural products”.
+Subsec. (b). Pub. L. 97–98, §1408(b), in provision preceding par. (1) substituted “twenty-five” for “twenty-one” and inserted “to serve staggered terms” and in par. (1) substituted “eight” for “four” and “agricultural, forestry, and aquacultural products, from various geographical regions” for “agricultural commodities, forest products, and aquacultural products”.
 
 Subsec. (f)(2)(E). Pub. L. 97–98, §1408(c)(1), substituted “July 1” for “October 1”.
 

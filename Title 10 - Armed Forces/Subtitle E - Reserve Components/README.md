@@ -55,6 +55,7 @@
 | :--- | :---: | ---: |
 | [<b>1601.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201601%20-%20Training%20Generally/README.md) | <b>Training Generally. \[No present sections\]</b> |  |
 | [<b>1606.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201606%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>16131</b> |
+| [<b>1607.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201607%20-%20Educational%20Assistance%20for%20Reserve%20Component%20Members%20Supporting%20Contingency%20Operations%20and%20Certain%20Other%20Operations/README.md) | <b>Educational Assistance for Reserve Component Members Supporting Contingency Operations and Certain Other Operations</b> | <b>16161</b> |
 | [<b>1608.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201608%20-%20Health%20Professions%20Stipend%20Program/README.md) | <b>Health Professions Stipend Program</b> | <b>16201</b> |
 | [<b>1609.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201609%20-%20Education%20Loan%20Repayment%20Programs/README.md) | <b>Education Loan Repayment Programs</b> | <b>16301</b> |
 | [<b>1611.</b>](Part%20004%20%28IV%29%20-%20Training%20for%20Reserve%20Components%20and%20Educational%20Assistance%20Programs/Chapter%201611%20-%20Other%20Educational%20Assistance%20Programs/README.md) | <b>Other Educational Assistance Programs</b> | <b>16401</b> |
@@ -73,6 +74,8 @@
 
 #### Amendments
 
+2004—Pub. L. 108–375, div. A, title V, §527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
+
 1999—Pub. L. 106–65, div. A, title V, §551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
 
 1997—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “\[No present sections\]” in item for chapter 1215.
@@ -80,10 +83,6 @@
 1996—Pub. L. 104–201, div. A, title XII, §1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
 
 Pub. L. 104–106, div. A, title V, §512(a)(2), title XV, §1501(b)(1), Feb. 10, 1996, 110 Stat. 305, 495, added item for chapter 1214 and substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
-
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in section 1406 of this title.
 
 
 ---

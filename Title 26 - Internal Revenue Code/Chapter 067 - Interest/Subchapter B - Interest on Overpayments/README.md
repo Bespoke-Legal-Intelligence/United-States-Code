@@ -7,10 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6512, 6621 of this title.
-
 
 ---
 

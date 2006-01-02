@@ -40,7 +40,7 @@ The Advisory Committee shall coordinate with other Federal advisory committees t
 
 #### (g) Compensation
 
-The members of the Advisory Committee shall serve without compensation, but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
+The members of the Advisory Committee shall serve without compensation, but shall receivetravel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
 #### (h) Meetings
 

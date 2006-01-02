@@ -14,7 +14,7 @@ Any person who is an income tax return preparer with respect to a return or clai
 
 #### (c) Regulations
 
-The Secretary shall prescribe regulations under which, in cases where 2 or more personsare income tax return preparers with respect to the same return or claim for refund, compliance with the requirements of subsection (a) or (b), as the case may be, of one such person shall be deemed to be compliance with the requirements of such subsection by the other persons.
+The Secretary shall prescribe regulations under which, in cases where 2 or more persons are income tax return preparers with respect to the same return or claim for refund, compliance with the requirements of subsection (a) or (b), as the case may be, of one such person shall be deemed to be compliance with the requirements of such subsection by the other persons.
 
 #### (d) Definitions
 
@@ -29,8 +29,4 @@ A prior section 6107, acts Aug. 16, 1954, ch. 736, 68A Stat. 756; Nov. 2, 1966, 
 #### Effective Date
 
 Section applicable to documents prepared after Dec. 31, 1976, see section 1203(j) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 7701 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6695 of this title.
 

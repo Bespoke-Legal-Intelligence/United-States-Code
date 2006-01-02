@@ -6,9 +6,9 @@
 
 &emsp;(A) Six members appointed by the majority leader of the Senate, 1 of whom shall be a recipient of the Congressional Award.
 
-&emsp;(B) Six members appointed by the minority leader of the Senate, 1 of whom shall be a a <sup>1</sup> local Congressional Award program volunteer.
+&emsp;(B) Six members appointed by the minority leader of the Senate, 1 of whom shall be a local Congressional Award program volunteer.
 
-&emsp;(C) Six members appointed by the Speaker of the House of Representatives, 1 of whom shall be a a <sup>1</sup> local Congressional Award program volunteer.
+&emsp;(C) Six members appointed by the Speaker of the House of Representatives, 1 of whom shall be a local Congressional Award program volunteer.
 
 &emsp;(D) Six members appointed by the minority leader of the House of Representatives, 1 of whom shall be a recipient of the Congressional Award.
 
@@ -34,7 +34,7 @@
 
 (3)(A) Subject to the limitations in subparagraphs (B) and (C) of this paragraph, members of the Board may be reappointed, provided that no member may serve more than 2 consecutive terms.
 
-(B) Members of the Board covered under paragraph (2)(A) of this section <sup>2</sup> shall not be eligible for reappointment to the Board. Members of the Board covered under subparagraphs (B) and (C) of paragraph (2) of this section <sup>2</sup> may be reappointed for 1 additional consecutive 4 year term.
+(B) Members of the Board covered under paragraph (2)(A) of this subsection shall not be eligible for reappointment to the Board. Members of the Board covered under subparagraphs (B) and (C) of paragraph (2) of this subsection may be reappointed for 1 additional consecutive 4 year term.
 
 (C) Members of the Board who serve as chairman of the Board shall not have the time during which they serve as chairman used in the computation of their period of service for purposes of this paragraph and paragraph (2).
 
@@ -62,7 +62,7 @@ Members of the Board shall serve without pay but may be compensated for reasonab
 
 #### (f) Meetings
 
-The Board shall meet at least twice a year at the call of the Chairman (with at least one meeting in the District of Columbia) and at such other times as the Chairman may determine to be appropriate. The Chairman shall call a meeting of the Board whenever one-third of the members of the Board submit written requests for such a meeting.
+The Board shall meet at least twice a year at the call of the Chairman (with at least onemeeting in the District of Columbia) and at such other times as the Chairman may determine to be appropriate. The Chairman shall call a meeting of the Board whenever one-third of the members of the Board submit written requests for such a meeting.
 
 #### (g) Chairman and Vice Chairman
 
@@ -82,9 +82,13 @@ The Board shall establish such bylaws and other regulations as may be appropriat
 
 Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent. The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
 
-(Pub. L. 96–114, title I, §103, formerly §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §103, and amended Pub. L. 106–533, §1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554.)
+(Pub. L. 96–114, title I, §103, formerly §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §103, and amended Pub. L. 106–533, §1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554; Pub. L. 109–143, §1(c)(1), Dec. 22, 2005, 119 Stat. 2659.)
 
 #### Amendments
+
+2005—Subsec. (a)(1)(B), (C). Pub. L. 109–143, §1(c)(1)(A), substituted “a local” for “a a local”.
+
+Subsec. (b)(3)(B). Pub. L. 109–143, §1(c)(1)(B), substituted “subsection” for “section” in two places.
 
 2000—Subsec. (i). Pub. L. 106–533, §1(b)(5), made technical amendment to reference in original act which appears in text as reference to section 806 of this title.
 
@@ -100,7 +104,7 @@ Subsec. (b). Pub. L. 101–525, §5, designated existing provision as par. (1) a
 
 Subsec. (j). Pub. L. 101–525, §6, added subsec. (j).
 
-1988—Subsec. (a)(1). Pub. L. 100–674, §2(b)(1), in introductory provisions, substituted “25” for “thirty-three”,in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
+1988—Subsec. (a)(1). Pub. L. 100–674, §2(b)(1), in introductory provisions, substituted “25” for “thirty-three”, in subpars. (A) to (D), substituted “Six members” for “Eight members”, in subpars. (A) and (D), inserted “, 1 of whom shall be a member of the Congressional Award Association”, and in subpars. (B) and (C), inserted “, 1 of whom shall be a representative of a local Congressional Award Council”.
 
 Subsec. (d). Pub. L. 100–674, §2(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A majority of the members of the Board shall constitute a quorum.”
 
@@ -127,8 +131,4 @@ Section 3 of Pub. L. 100–674 provided that: “Not later than 120 days after t
 #### Exceptional Terms for Certain Board Members
 
 Section 2 of Pub. L. 98–33, relating to exceptional terms for certain individuals appointed to the Congressional Award Board, was repealed by Pub. L. 99–161, §5, Nov. 25, 1985, 99 Stat. 936.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
 

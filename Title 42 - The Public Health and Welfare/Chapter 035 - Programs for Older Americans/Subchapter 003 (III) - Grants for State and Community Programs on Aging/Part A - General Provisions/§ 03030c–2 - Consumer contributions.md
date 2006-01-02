@@ -24,7 +24,7 @@
 
 #### (4) Payment rates
 
-&emsp;If a State permits the cost sharing described in paragraph (1), such State shall establish a sliding scale, based solely on individual income and the cost of delivering services.
+&emsp;If a State permits the cost sharing described in paragraph (1), such State shall establish asliding scale, based solely on individual income and the cost of delivering services.
 
 #### (5) Requirements
 

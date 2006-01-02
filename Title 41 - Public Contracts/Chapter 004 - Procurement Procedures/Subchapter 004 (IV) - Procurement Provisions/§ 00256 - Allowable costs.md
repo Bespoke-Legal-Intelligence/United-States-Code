@@ -68,7 +68,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providingsimilar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country.
 
@@ -148,7 +148,7 @@ The regulations referred to in subsections (e) and (f)(1) of this section shall 
 
 #### (h) Contractor certification required
 
-(1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
+(1) A proposal for settlement of indirect costs applicable to a covered contract shall include acertification by an official of the contractor that, to the best of the certifying official's knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
 (2) An executive agency may, in an exceptional case, waive the requirement for certification under paragraph (1) in the case of any contract if the agency—
 
@@ -298,5 +298,5 @@ Definitions.—In this section:
 
 “(c)
 
-Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurred after the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
+Effective Date.—Any amendments to the Federal Acquisition Regulation made pursuant to subsection (a) shall apply with respect to costs incurredafter the date on which the amendments made by section 2101 apply (as provided in section 10001) \[set out as an Effective Date of 1994 Amendment note under section 251 of this title\]) or the date on which the amendments made by section 2151 apply (as provided in section 10001), whichever is later.”
 

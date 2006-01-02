@@ -132,7 +132,7 @@ Contents.—The plan submitted under subsection (a) shall include—
 
 “(c)
 
-Implementation.—The Secretary of Homeland Security shall implement the plan submitted under subsection (a) as a pilot program as soon as sufficient funds are appropriated and available for this purpose.
+Implementation.—The Secretary of Homeland Security shall implement the plan submitted undersubsection (a) as a pilot program as soon as sufficient funds are appropriated and available for this purpose.
 
 “(d)
 

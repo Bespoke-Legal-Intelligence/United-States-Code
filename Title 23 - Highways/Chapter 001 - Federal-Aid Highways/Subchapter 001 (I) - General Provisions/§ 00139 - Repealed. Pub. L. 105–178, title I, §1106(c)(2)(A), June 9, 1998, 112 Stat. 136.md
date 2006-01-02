@@ -1,4 +1,0 @@
-### \[§139. Repealed. Pub. L. 105–178, title I, §1106(c)(2)(A), June 9, 1998, 112 Stat. 136\]
-
-Section, added Pub. L. 90–495, §16(a), Aug. 23, 1968, 82 Stat. 823; amended Pub. L. 91–605, title I, §§106(b)(1), 140, Dec. 31, 1970, 84 Stat. 1716, 1736; Pub. L. 94–280, title I, §125, May 5, 1976, 90 Stat. 440; Pub. L. 97–134, §10, Dec. 29, 1981, 95 Stat. 1702; Pub. L. 97–424, title I, §116(a)(3), Jan. 6, 1983, 96 Stat. 2109; Pub. L. 98–229, §8(a), Mar. 9, 1984, 98 Stat. 56, related to additions to the Interstate System.
-

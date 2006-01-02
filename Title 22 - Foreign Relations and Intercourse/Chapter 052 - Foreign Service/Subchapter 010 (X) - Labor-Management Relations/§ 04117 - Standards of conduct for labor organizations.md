@@ -58,7 +58,7 @@ The Assistant Secretary of Labor shall prescribe such regulations as are necessa
 
 #### (f) Willful and intentional violations
 
-If the Board finds that any labor organization has willfully and intentionally violated section 4115(b)(7) of this title by omission or commission with regard to any strike, work stoppage, slowdown, the Board shall—
+If the Board finds that any labor organization has willfully and intentionally violated section4115(b)(7) of this title by omission or commission with regard to any strike, work stoppage, slowdown, the Board shall—
 
 &emsp;(1) revoke the exclusive recognition status of the labor organization, which shall then immediately cease to be legally entitled and obligated to represent employees in the unit; or
 

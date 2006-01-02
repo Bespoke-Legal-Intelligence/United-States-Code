@@ -30,7 +30,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 #### (2) Withdrawal
 
-&emsp;The lands depicted and designated “Withdrawal Area” on the map dated October 19, 1999, along with their legal descriptions, onfile with the Bureau of Land Management, and entitled “Land Withdrawal Elim Native Corporation”, are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as “Elim”).
+&emsp;The lands depicted and designated “Withdrawal Area” on the map dated October 19, 1999, along with their legal descriptions, on file with the Bureau of Land Management, and entitled “Land Withdrawal Elim Native Corporation”, are hereby withdrawn, subject to valid existing rights, from all forms of appropriation or disposition under the public land laws, including the mining and mineral leasing laws, for a period of 2 years from May 2, 2000, for selection by the Elim Native Corporation (hereinafter referred to as “Elim”).
 
 #### (3) Authority to select and convey
 
@@ -64,7 +64,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;&emsp;(C) In cooperation with Elim, the right, but not the obligation, to reforest in the event previously existing Merchantable Timber is destroyed by fire, wind, insects, disease, or other similar manmade or natural occurrence (excluding manmade occurrences resulting from the exercise by Elim of its lawful rights to use the Conveyance Lands).
 
-&emsp;&emsp;(D) The right of ingress and egress over easements under section 1616(b) <sup>1</sup> of this title for the public to visit, for noncommercialpurposes, hot springs located on the Conveyance Lands and to use any part of the hot springs that is not commercially developed.
+&emsp;&emsp;(D) The right of ingress and egress over easements under section 1616(b) <sup>1</sup> of this title for the public to visit, for noncommercial purposes, hot springs located on the Conveyance Lands and to use any part of the hot springs that is not commercially developed.
 
 &emsp;&emsp;(E) The right to enter upon the lands containing hot springs for the purpose of conducting scientific research on such hot springs and to use the results of such research without compensation to Elim. Elim shall have an equal right to conduct research on the hot springs and to use the results of such research without compensation to the United States.
 
@@ -120,7 +120,7 @@ Section 1616(b) of this title, referred to in subsec. (c)(5)(D), (6)(C) was omit
 
 #### Grants to Native Group Corporations for Planning, Development, and Other Purposes
 
-Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: “The Secretary shall pay by grant to each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the NativeGroup Corporations are organized under the Settlement Act \[this chapter\].”
+Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: “The Secretary shall pay by grant to each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\].”
 
 #### Grants to Village Corporations for Planning, Development and Other Purposes
 

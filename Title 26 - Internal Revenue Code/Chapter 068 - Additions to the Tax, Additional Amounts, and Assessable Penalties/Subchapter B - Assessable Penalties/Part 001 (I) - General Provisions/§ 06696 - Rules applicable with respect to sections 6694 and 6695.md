@@ -36,7 +36,3 @@ For purposes of sections 6694 and 6695—
 
 (Added Pub. L. 94–455, title XII, §1203(f), Oct. 4, 1976, 90 Stat. 1693.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6107, 6109, 6504, 6511 of this title.
-

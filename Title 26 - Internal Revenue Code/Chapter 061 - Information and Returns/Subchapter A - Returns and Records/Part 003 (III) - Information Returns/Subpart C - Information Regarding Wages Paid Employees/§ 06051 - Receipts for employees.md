@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-Every person required to deduct and withhold from an employee a tax under section 3101 or 3402, or who would have been required to deduct and withhold a tax under section 3402 (determined without regard to subsection (n)) if the employee had claimed no more than one withholding exemption, or every employer engaged in a trade or business who pays remuneration for services performed by an employee, including the cash value of such remuneration paid in any medium other than cash, shall furnish to each such employee in respect of the remuneration paid by such person to such employee during the calendar year, on or before January 31 of the succeeding year, or, if his employment is terminated before the close of such calendar year, within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31, a written statement showing the following:
+Every person required to deduct and withhold from an employee a tax under section 3101 or 3402, or who would have been required to deduct and withhold a tax under section 3402 (determined without regard to subsection (n)) if the employee had claimed no more than one withholding exemption, or every employer engaged in a trade or business who pays remuneration for services performed by an employee, including the cash value of such remuneration paid in any medium other than cash, shall furnish to each such employee in respect of the remuneration paid by such person to such employee during the calendar year, on or before January 31 ofthe succeeding year, or, if his employment is terminated before the close of such calendar year, within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31, a written statement showing the following:
 
 &emsp;(1) the name of such person,
 
@@ -18,17 +18,19 @@ Every person required to deduct and withhold from an employee a tax under sectio
 
 &emsp;(7) the total amount paid to the employee under section 3507 (relating to advance payment of earned income credit),
 
-&emsp;(8) the total amount of elective deferrals (within the meaning of section 402(g)(3)) and compensation deferred under section 457,
+&emsp;(8) the total amount of elective deferrals (within the meaning of section 402(g)(3)) and compensation deferred under section 457, including the amount of designated Roth contributions (as defined in section 402A),
 
 &emsp;(9) the total amount incurred for dependent care assistance with respect to such employee under a dependent care assistance program described in section 129(d),
 
 &emsp;(10) in the case of an employee who is a member of the Armed Forces of the United States, such employee's earned income as determined for purposes of section 32 (relating to earned income credit),
 
-&emsp;(11) the amount contributed to any Archer MSA (as defined in section 220(d)) of such employee or such employee's spouse, and
+&emsp;(11) the amount contributed to any Archer MSA (as defined in section 220(d)) of such employee or such employee's spouse,
 
-&emsp;(12) the amount contributed to any health savings account (as defined in section 223(d)) of such employee or such employee's spouse.
+&emsp;(12) the amount contributed to any health savings account (as defined in section 223(d)) of such employee or such employee's spouse, and
 
-> In the case of compensation paid for service as a member of a uniformed service, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(2). In the case of compensation paid for service as a volunteer or volunteer leader within the meaning of the Peace Corps Act, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(3). In the case of tips received by an employee in the course of his employment, the amounts required to be shown by paragraphs (3) and (5) shall include only such tips as are included in statements furnished to the employer pursuant to section 6053(a). The amounts required to be shown by paragraph (5) shall not include wages which are exempted pursuant to sections 3101(c) and 3111(c) from the taxes imposed by sections 3101 and 3111.
+&emsp;(13) the total amount of deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)).
+
+> In the case of compensation paid for service as a member of a uniformed service, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(2). In the case of compensation paid for service as a volunteer or volunteer leader within the meaning of the Peace Corps Act, the statement shall show, in lieu of the amount required to be shown by paragraph (5), the total amount of wages as defined in section 3121(a), computed in accordance with such section and section 3121(i)(3). In the case of tips received by an employee in the course of his employment, the amounts required to be shown by paragraphs (3) and (5) shall include only such tips as are included in statements furnished to the employer pursuant to section 6053(a). The amounts required to be shown by paragraph (5) shall not include wages which are exempted pursuant to sections 3101(c) and 3111(c) from the taxes imposed by sections 3101 and 3111. In the case of the amounts required to be shown by paragraph (13), the Secretary may (by regulation) establish a minimum amount of deferrals below which paragraph (13) does not apply.
 
 #### (b) Special rule as to compensation of members of Armed Forces
 
@@ -56,7 +58,7 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 &emsp;&emsp;(B) the total amount deducted as tax under section 3201, and
 
-&emsp;&emsp;(C) the portion of the total amount deducted as tax under section 3201 which is for financing the cost of hospital insurance under part A of title XVIII of the Social Security Act.
+&emsp;&emsp;(C) the portion of the total amount deducted as tax under section 3201 which is forfinancing the cost of hospital insurance under part A of title XVIII of the Social Security Act.
 
 #### (f) Statements required in case of sick pay paid by third parties
 
@@ -94,11 +96,11 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 > &emsp;To the extent practicable, the information required under the preceding sentence shall be furnished on or with the statement (if any) required under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c), Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I, §107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title VI, §617(d)(1), June 7, 2001, 115 Stat. 105; Pub. L. 108–173, title XII, §1201(d)(3), Dec. 8, 2003, 117 Stat. 2477.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c), Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I, §107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title VI, §617(d)(1), June 7, 2001, 115 Stat. 105; Pub. L. 108–173, title XII, §1201(d)(3), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title VIII, §885(b)(1), Oct. 22, 2004, 118 Stat. 1639.)
 
-#### Amendment of Subsection (a)(8)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title VI, §617(d)(1), (f), title IX, §901, June 7, 2001, 115 Stat. 106, 150, provided that, applicable to taxable years beginning after Dec. 31, 2005, subsection (a)(8) of this section is temporarily amended by inserting “, including the amount of designated Roth contributions (as defined in section 402A)” before the comma at the end. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -108,7 +110,13 @@ The Social Security Act, referred to in subsecs. (c) and (e)(2)(C), is act Aug. 
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–357, §885(b)(1)(B), inserted at end of concluding provisions “In the case of the amounts required to be shown by paragraph (13), the Secretary may (by regulation) establish a minimum amount of deferrals below which paragraph (13) does not apply.”
+
+Subsec. (a)(13). Pub. L. 108–357, §885(b)(1)(A), added par. (13).
+
 2003—Subsec. (a)(12). Pub. L. 108–173 added par. (12).
+
+2001—Subsec. (a)(8). Pub. L. 107–16, §§617(d)(1), 901, temporarily inserted “, including the amount of designated Roth contributions (as defined in section 402A)” before comma at end. See Effective and Termination Dates of 2001 Amendment note below.
 
 2000—Subsec. (a)(11). Pub. L. 106–554 substituted “Archer MSA” for “medical savings account”.
 
@@ -162,6 +170,10 @@ Subsec. (c). Pub. L. 89–97, §107, required the statements to show the proport
 
 Subsec. (b). Act Aug. 1, 1956, §412(b), required the furnishing of a statement if during the calendar year any amount was required to be withheld as tax under section 3101 of this title.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to amounts deferred after Dec. 31, 2004, with special rules relating to earnings and material modifications and exception for nonelective deferred compensation, see section 885(d) of Pub. L. 108–357, set out as an Effective Date note under section 409A of this title.
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
@@ -184,7 +196,7 @@ Amendment by Pub. L. 103–465 applicable to remuneration paid after Dec. 31, 19
 
 Amendment by section 1011B(c)(2)(B) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1987, see section 1011B(c)(2)(C) of Pub. L. 100–647, set out as a note under section 129 of this title.
 
-Amendment by section 1018(u)(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(u)(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -200,7 +212,7 @@ Amendment by Pub. L. 96–601 applicable to payments made on or after first day 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 effective with respect to remuneration paid after June 30, 1979, see section 105(g)(2) of Pub. L. 95–600, set out as an Effective Date note under section 3507 of this title.
+Amendment by Pub. L. 95–600 effective with respect to remuneration paid after June 30, 1979, see section105(g)(2) of Pub. L. 95–600, set out as an Effective Date note under section 3507 of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -237,8 +249,4 @@ Section 202(a)(4) of Pub. L. 87–293, cited as a credit to this section, was re
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 408, 3102, 3121, 3202, 3402, 3509, 6040, 6041A, 6045, 6053, 6103, 6314, 6674, 6724, 7204 of this title; title 42 section 1395y.
 

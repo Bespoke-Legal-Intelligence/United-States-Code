@@ -36,7 +36,7 @@ Fees for Health Care Services.—
 
 &emsp;(1)
 
-In general.—The Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee for health care services provided in connection with each health care visit requested by a prisoner.
+In general.—The Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee for health care services provided in connectionwith each health care visit requested by a prisoner.
 
 &emsp;(2)
 
@@ -92,7 +92,7 @@ Notice to Prisoners of Law.—Each person who is or becomes a prisoner shall be 
 
 (i)
 
-Notice to Prisoners of Regulations.—The regulations promulgated by the Director under subsection (b)(1), and any amendments to those regulations, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of those regulations (or amendments, as the case may be). A fee under this section may not be assessed against, or collected from, a prisoner pursuant to such regulations (oramendments, as the case may be) for services provided before the expiration of such period.
+Notice to Prisoners of Regulations.—The regulations promulgated by the Director under subsection (b)(1), and any amendments to those regulations, shall not take effect until the expiration of the 30-day period beginning on the date on which each prisoner in the prison system is provided with written and oral notices of the provisions of those regulations (or amendments, as the case may be). A fee under this section may not be assessed against, or collected from, a prisoner pursuant to such regulations (or amendments, as the case may be) for services provided before the expiration of such period.
 
 (j)
 

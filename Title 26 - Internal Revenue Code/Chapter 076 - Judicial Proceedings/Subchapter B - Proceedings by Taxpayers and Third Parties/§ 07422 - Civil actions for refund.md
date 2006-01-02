@@ -48,7 +48,7 @@ If the Secretary prior to the hearing of a suit brought by a taxpayer in a distr
 
 #### (3) Final determination of issues
 
-&emsp;For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (orfailure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
+&emsp;For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (or failure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
 
 #### (h) Special rule for actions with respect to partnership items
 
@@ -120,7 +120,7 @@ Subsecs. (h), (i). Pub. L. 97–248 added subsec. (h) and redesignated former su
 
 1980—Subsec. (e). Pub. L. 96–223 inserted reference to chapter 45.
 
-Subsec. (g). Pub. L. 96–596 substituted in par. (1) provision authorizing, with respect to any taxable event, payment of the full amount of the first tier tax as constituting sufficient payment in order to maintain an action under this section with respect to the second tier tax and defining the terms “taxable event”, “first tier tax”, and “second tier tax” as having the respective meanings given to such terms by section 4962 ofthis title for provision authorizing, with respect to any act or failure to act giving rise to liability under sections 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4971, or 4975 of this title, payment of the full amount of tax imposed under specified subsections of those sections as constituting sufficient payment in order to maintain an action under this section with respect to such act or failure to act.
+Subsec. (g). Pub. L. 96–596 substituted in par. (1) provision authorizing, with respect to any taxable event, payment of the full amount of the first tier tax as constituting sufficient payment in order to maintain an action under this section with respect to the second tier tax and defining the terms “taxable event”, “first tier tax”, and “second tier tax” as having the respective meanings given to such terms by section 4962 of this title for provision authorizing, with respect to any act or failure to act giving rise to liability under sections 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4971, or 4975 of this title, payment of the full amount of tax imposed under specified subsections of those sections as constituting sufficient payment in order to maintain an action under this section with respect to such act or failure to act.
 
 Pub. L. 96–222 substituted in pars. (1) to (3) “4944, 4945, 4951, 4952” for “4944, 4945” and in par. (1) “section 4945(a) (relating to initial taxes on taxable expenditures), section 4951(a) (relating to initial taxes on self dealing), 4952(a) (relating to initial taxes on taxable expenditures)” for “section 4945(a) (relating to initial taxes on taxable expenditures)” and “section 4945(b) (relating to additional taxes on taxable expenditures), section 4951(b) (relating to additional taxes on self-dealing), 4952(b) (relating to additional taxes on taxable expenditures)” for “section 4945(b) (relating to additional taxes on taxable expenditures)”.
 
@@ -194,7 +194,7 @@ Amendment by section 1906(a)(44), (b)(13)(A) of Pub. L. 94–455 effective on fi
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L.93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 #### Effective Date of 1971 Amendment
 
@@ -215,8 +215,4 @@ Amendment by Pub. L. 85–866 as effective Aug. 17, 1954, see section 1(c)(2) of
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4961, 6228, 6234, 6532, 7426 of this title; title 28 section 2502.
 

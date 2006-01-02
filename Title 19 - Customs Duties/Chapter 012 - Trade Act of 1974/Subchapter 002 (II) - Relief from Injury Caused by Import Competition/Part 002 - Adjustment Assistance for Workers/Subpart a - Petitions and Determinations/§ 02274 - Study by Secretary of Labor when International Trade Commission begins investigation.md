@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 100–418 substituted “section 2252(f)” for “section 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of this subchapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiatedunder part 1 (§2251 et seq.) of this subchapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 

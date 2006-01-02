@@ -102,7 +102,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) In general
 
-&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) ofparagraph (1) may be removed at the will of the President.
+&emsp;&emsp;Any member of the Oversight Board appointed under subparagraph (A) or (D) of paragraph (1) may be removed at the will of the President.
 
 #### (B) Secretary and Commissioner
 
@@ -180,7 +180,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 &emsp;&emsp;(A) recommend to the President candidates for appointment as the Commissioner of Internal Revenue and recommend to the President the removal of the Commissioner;
 
-&emsp;&emsp;(B) review the Commissioner's selection, evaluation, and compensation of Internal Revenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Service; and
+&emsp;&emsp;(B) review the Commissioner's selection, evaluation, and compensation of InternalRevenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Service; and
 
 &emsp;&emsp;(C) review and approve the Commissioner's plans for any major reorganization of the Internal Revenue Service.
 
@@ -216,7 +216,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 #### (B) Chairperson
 
-&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the OversightBoard shall be compensated at a rate of $50,000 per year.
+&emsp;&emsp;In lieu of the amount specified in subparagraph (A), the Chairperson of the Oversight Board shall be compensated at a rate of $50,000 per year.
 
 #### (2) Travel expenses
 
@@ -276,7 +276,7 @@ The Oversight Board shall have the following specific responsibilities:
 
 &emsp;&emsp;Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, §1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, §6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, §101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, §1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, §1(a)(7) \[title III, §319(27)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, §1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §2(f)(2), Sept.13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, §6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, §101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, §1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, §1(a)(7) \[title III, §319(27)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648.)
 
 #### References in Text
 
@@ -303,6 +303,8 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 1974—Pub. L. 93–406 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
@@ -333,8 +335,4 @@ Section 6235(c) of Pub. L. 100–647 provided that: “The amendment made by sub
 #### Effective Date of 1974 Amendment
 
 Section 1051(d) of Pub. L. 93–406 provided that: “The amendments made by this section \[amending this section and sections 5108 and 5109 of Title 5, Government Organization and Employees\] shall take effect on the 90th day after the date of the enactment of this Act \[Sept. 2, 1974\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 7803 of this title.
 

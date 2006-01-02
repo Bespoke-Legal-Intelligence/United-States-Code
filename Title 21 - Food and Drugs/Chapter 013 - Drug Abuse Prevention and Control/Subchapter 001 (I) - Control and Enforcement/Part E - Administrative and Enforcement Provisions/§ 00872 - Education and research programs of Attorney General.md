@@ -30,7 +30,7 @@ Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotrop
 
 #### (e) Use of controlled substances in research
 
-The Attorney General, on his own motion or at the request of the Secretary, may authorize the possession, distribution, and dispensing of controlled substances by persons engaged in research. Persons who obtain this authorizationshall be exempt from State or Federal prosecution for possession, distribution, and dispensing of controlled substances to the extent authorized by the Attorney General.
+The Attorney General, on his own motion or at the request of the Secretary, may authorize the possession, distribution, and dispensing of controlled substances by persons engaged in research. Persons who obtain this authorization shall be exempt from State or Federal prosecution for possession, distribution, and dispensing of controlled substances to the extent authorized by the Attorney General.
 
 #### (f) Program to curtail diversion of precursor and essential chemicals
 
@@ -74,7 +74,7 @@ Covered Programs.—The programs described in this subsection are as follows:
 
 &emsp;“(1)
 
-Advanced mobile clandestine laboratory training teams.—A program of advanced mobile clandestine laboratory training teams, which shall provide information and training to State and local law enforcement personnel in techniques utilized in conducting undercover investigations and conspiracy cases, and other information designed to assist in the investigation of the illegal manufacturing and trafficking of amphetamine and methamphetamine.
+Advanced mobile clandestine laboratory training teams.—A program of advanced mobile clandestine laboratory training teams, which shallprovide information and training to State and local law enforcement personnel in techniques utilized in conducting undercover investigations and conspiracy cases, and other information designed to assist in the investigation of the illegal manufacturing and trafficking of amphetamine and methamphetamine.
 
 &emsp;“(2)
 

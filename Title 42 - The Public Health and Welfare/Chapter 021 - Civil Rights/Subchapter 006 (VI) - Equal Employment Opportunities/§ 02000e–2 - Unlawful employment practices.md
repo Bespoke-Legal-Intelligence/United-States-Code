@@ -18,7 +18,7 @@ It shall be an unlawful employment practice for a labor organization—
 
 &emsp;(1) to exclude or to expel from its membership, or otherwise to discriminate against, any individual because of his race, color, religion, sex, or national origin;
 
-&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limitsuch employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
+&emsp;(2) to limit, segregate, or classify its membership or applicants for membership, or to classify or fail or refuse to refer for employment any individual, in any way which would deprive or tend to deprive any individual of employment opportunities, or would limit such employment opportunities or otherwise adversely affect his status as an employee or as an applicant for employment, because of such individual's race, color, religion, sex, or national origin; or
 
 &emsp;(3) to cause or attempt to cause an employer to discriminate against an individual in violation of this section.
 
@@ -52,7 +52,7 @@ Nothing contained in this subchapter shall apply to any business or enterprise o
 
 #### (j) Preferential treatment not to be granted on account of existing number or percentage imbalance
 
-Nothing contained in this subchapter shall be interpreted to require any employer, employment agency, labor organization, or joint labor-management committee subject to this subchapter to grant preferential treatment to any individual or to any group because of the race,color, religion, sex, or national origin of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified by any labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community, State, section, or other area, or in the available work force in any community, State, section, or other area.
+Nothing contained in this subchapter shall be interpreted to require any employer, employment agency, labor organization, or joint labor-management committee subject to this subchapter to grant preferential treatment to any individual or to any group because of the race, color, religion, sex, or national origin of such individual or group on account of an imbalance which may exist with respect to the total number or percentage of persons of any race, color, religion, sex, or national origin employed by any employer, referred or classified for employment by any employment agency or labor organization, admitted to membership or classified by any labor organization, or admitted to, or employed in, any apprenticeship or other training program, in comparison with the total number or percentage of persons of such race, color, religion, sex, or national origin in any community, State, section, or other area, or in the available work force in any community, State, section, or other area.
 
 #### (k) Burden of proof in disparate impact cases
 
@@ -70,7 +70,7 @@ Nothing contained in this subchapter shall be interpreted to require any employe
 
 (2) A demonstration that an employment practice is required by business necessity may not be used as a defense against a claim of intentional discrimination under this subchapter.
 
-(3) Notwithstanding any other provision of this subchapter, a rule barring the employment of an individual who currently and knowingly uses or possesses a controlled substance, as defined in schedules I and II of section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or possession of a drug taken under the supervision of a licensed health care professional, or any other use or possession authorized by the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or any other provision of Federal law, shall be considered an unlawful employment practice under this subchapter only if such rule is adopted or applied with an intent to discriminate because of race, color, religion, sex, or national origin.
+(3) Notwithstanding any other provision of this subchapter, a rule barring the employment of an individual who currently and knowingly uses or possesses a controlled substance, as defined in schedules I and II of section 102(6) of the Controlled Substances Act (21 U.S.C. 802(6)), other than the use or possession of a drug taken under the supervision of a licensed health care professional, or any other use or possession authorized by the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or any other provision of Federal law, shall be considered an unlawful employment practice under this subchapter only ifsuch rule is adopted or applied with an intent to discriminate because of race, color, religion, sex, or national origin.
 
 #### (<i>l</i>) Prohibition of discriminatory use of test scores
 
@@ -98,7 +98,7 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 &emsp;(A) alter the standards for intervention under rule 24 of the Federal Rules of Civil Procedure or apply to the rights of parties who have successfully intervened pursuant to such rule in the proceeding in which the parties intervened;
 
-&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgment or order was entered, or of members of a class represented or sought to be represented insuch action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
+&emsp;(B) apply to the rights of parties to the action in which a litigated or consent judgment or order was entered, or of members of a class represented or sought to be represented in such action, or of members of a group on whose behalf relief was sought in such action by the Federal Government;
 
 &emsp;(C) prevent challenges to a litigated or consent judgment or order on the ground that such judgment or order was obtained through collusion or fraud, or is transparently invalid or was entered by a court lacking subject matter jurisdiction; or
 

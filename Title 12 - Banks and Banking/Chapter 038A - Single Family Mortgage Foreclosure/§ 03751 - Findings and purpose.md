@@ -50,7 +50,7 @@ Section is based on section 802 of title VIII of S. 2281, One Hundred Third Cong
 
 #### Effective Date
 
-Title II of Pub. L. 103–327, Sept. 28, 1994, 108 Stat. 2316, provided in part that title VIII of S. 2281, One HundredThird Congress, as reported July 13, 1994, which is classified to this chapter, is incorporated into Pub. L. 103–327 and deemed enacted into law upon enactment of Pub. L. 103–327, which was approved Sept. 28, 1994.
+Title II of Pub. L. 103–327, Sept. 28, 1994, 108 Stat. 2316, provided in part that title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which is classified to this chapter, is incorporated into Pub. L. 103–327 and deemed enacted into law upon enactment of Pub. L. 103–327, which was approved Sept. 28, 1994.
 
 #### Short Title
 

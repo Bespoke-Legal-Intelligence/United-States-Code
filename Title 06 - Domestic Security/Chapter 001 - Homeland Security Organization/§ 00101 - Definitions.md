@@ -90,9 +90,9 @@ Pub. L. 107–296, title VIII, §861, Nov. 25, 2002, 116 Stat. 2238, provided th
 
 For short title of part I of subchapter VIII of this chapter as the “Homeland Security Information Sharing Act”, see section 481(a) of this title.
 
-Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out as notes under section 3531 of Title 44\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
+Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out asnotes under section 3531 of Title 44\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
 
-\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a noteunder section 101 of Title 44, Public Printing and Documents.\]
+\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
 
 #### National Commission on Terrorist Attacks Upon the United States
 

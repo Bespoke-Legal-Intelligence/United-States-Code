@@ -28,7 +28,7 @@
 
 #### (B) Certain rules made applicable
 
-&emsp;&emsp;Rules similar to the rules of paragraphs (2) through (7) of section 402(c) shall apply for purposes of subparagraph (A).
+&emsp;&emsp;The rules of paragraphs (2) through (7) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
 
 #### (5) Direct trustee-to-trustee transfer
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
 
-&emsp;&emsp;&emsp;(ii) under the custodial account no such amounts may be paid or made available to any distributee before the employee dies, attains age 591/2, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(1)(D)), encounters financial hardship.
+&emsp;&emsp;&emsp;(ii) under the custodial account no such amounts may be paid or made available to any distributee before the employee dies, attains age 591/2, has a severance from employment, becomes disabled (within the meaning of section 72(m)(7)), or in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), encounters financial hardship.
 
 #### (B) Account treated as plan
 
@@ -132,7 +132,7 @@
 
 #### (B) Retirement income account
 
-&emsp;&emsp;For purposes of this paragraph, the term “retirement income account” means a defined contribution program established or maintained by a church, a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) or his beneficiaries.
+&emsp;&emsp;For purposes of this paragraph, the term “retirement income account” means a defined contribution program established or maintained by a church, or a convention or association of churches, including an organization described in section 414(e)(3)(A), to provide benefits under section 403(b) for an employee described in paragraph (1) or his beneficiaries.
 
 #### (10) Distribution requirements
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(ii) all employees of the organization may elect to have the employer make contributions of more than $200 pursuant to a salary reduction agreement if any employee of the organization may elect to have the organization make contributions for such contracts pursuant to such agreement.
 
-> &emsp;&emsp;For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or aqualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4), there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week.
+> &emsp;&emsp;For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or a qualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4), there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week.
 
 #### (B) Church
 
@@ -178,15 +178,21 @@
 
 #### (c) Taxability of beneficiary under nonqualified annuities or under annuities purchased by exempt organizations
 
-Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
+Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to suchpremiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 137; Pub. L. 85–866, title I, §23(a)–(c), Sept. 2, 1958, 72 Stat. 1620–1622; Pub. L. 87–370, §3(a), Oct. 4, 1961, 75 Stat. 801; Pub. L. 87–792, §4(d), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §232(e)(4)–(6), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §321(b)(2), title V, §515(a)(2), Dec. 30, 1969, 83 Stat. 591, 644; Pub. L. 93–406, title II, §§1022(e), 2002(g)(6), 2004(c)(4), 2005(b)(2), Sept. 2, 1974, 88 Stat. 940, 969, 986, 991; Pub. L. 94–267, §1(b), Apr. 15, 1976, 90 Stat. 366; Pub. L. 94–455, title XIV, §1402(b)(1)(D), (2), title XV, §1504(a), title XIX, §§1901(a)(58), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1738, 1774, 1794, 1834; Pub. L. 95–458, §4(b), Oct. 14, 1978, 92 Stat. 1259; Pub. L. 95–600, title I, §§154(a), 156(a), (b), 157(g)(2), Nov. 6, 1978, 92 Stat. 2801, 2802, 2808; Pub. L. 96–222, title I, §101(a)(12), (13)(C), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(b)(3)(B), Aug. 13, 1981, 95 Stat. 280; Pub. L. 97–248, title II, §251(a), (b), (c)(3), Sept. 3, 1982, 96 Stat. 529–531; Pub. L. 97–448, title I, §103(c)(8)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–21, title I, §122(c)(4), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §491(d)(12), title V, §§521(c), 522(a)(2), (3), (d)(9)–(11), title X, §1001(b)(4), (e), July 18, 1984, 98 Stat. 849, 867, 869–871, 1011, 1012; Pub. L. 99–514, title XI, §§1120(a), (b), 1122(b)(1)(B), (d), 1123(c), title XVIII, §1852(a)(3)(A), (B), (5)(B), (b)(10), Oct. 22, 1986, 100 Stat. 2463, 2466, 2469, 2474, 2865, 2867; Pub. L. 100–647, title I, §1011(c)(7)(B), (12), (m)(1), (2), title VI, §6052(a)(1), Nov. 10, 1988, 102 Stat. 3458, 3459, 3471, 3696; Pub. L. 101–508, title XI, §11701(k), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 102–318, title V, §§521(b)(12), (13), 522(a)(3), (c)(2), (3), July 3, 1992, 106 Stat. 311, 314, 315; Pub. L. 104–188, title I, §§1450(c)(1), 1704(t)(69), Aug. 20, 1996, 110 Stat. 1815, 1891; Pub. L. 105–34, title XV, §§1504(a)(1), 1505(c), title XVI, §1601(d)(6)(B), Aug. 5, 1997, 111 Stat. 1063, 1064, 1090; Pub. L. 105–206, title VI, §6005(c)(2)(B), July 22, 1998, 112 Stat. 800; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§632(a)(2), 641(b)(1), (e)(7), 642(b)(1), 646(a)(2), 647(a), June 7, 2001, 115 Stat. 113, 120, 121, 126, 127; Pub. L. 107–147, title IV, §411(p)(1)–(3), Mar. 9, 2002, 116 Stat. 49, 50.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 137; Pub. L. 85–866, title I, §23(a)–(c), Sept. 2, 1958, 72 Stat. 1620–1622; Pub. L. 87–370, §3(a), Oct. 4, 1961, 75 Stat. 801; Pub. L. 87–792, §4(d), Oct. 10, 1962, 76 Stat. 825; Pub. L. 88–272, title II, §232(e)(4)–(6), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §321(b)(2), title V, §515(a)(2), Dec. 30, 1969, 83 Stat. 591, 644; Pub. L. 93–406, title II, §§1022(e), 2002(g)(6), 2004(c)(4), 2005(b)(2), Sept. 2, 1974, 88 Stat. 940, 969, 986, 991; Pub. L. 94–267, §1(b), Apr. 15, 1976, 90 Stat. 366; Pub. L. 94–455, title XIV, §1402(b)(1)(D), (2), title XV, §1504(a), title XIX, §§1901(a)(58), (b)(8)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1731, 1732, 1738, 1774, 1794, 1834; Pub. L. 95–458, §4(b), Oct. 14, 1978, 92 Stat. 1259; Pub. L. 95–600, title I, §§154(a), 156(a), (b), 157(g)(2), Nov. 6, 1978, 92 Stat. 2801, 2802, 2808; Pub. L. 96–222, title I, §101(a)(12), (13)(C), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §311(b)(3)(B), Aug. 13, 1981, 95 Stat. 280; Pub. L. 97–248, title II, §251(a), (b), (c)(3), Sept. 3, 1982, 96 Stat. 529–531; Pub. L. 97–448, title I, §103(c)(8)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–21, title I, §122(c)(4), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §491(d)(12), title V, §§521(c), 522(a)(2), (3), (d)(9)–(11), title X, §1001(b)(4), (e), July 18, 1984, 98 Stat. 849, 867, 869–871, 1011, 1012; Pub. L. 99–514, title XI, §§1120(a), (b), 1122(b)(1)(B), (d), 1123(c), title XVIII, §1852(a)(3)(A), (B), (5)(B), (b)(10), Oct. 22, 1986, 100 Stat. 2463, 2466, 2469, 2474, 2865, 2867; Pub. L. 100–647, title I, §1011(c)(7)(B), (12), (m)(1), (2), title VI, §6052(a)(1), Nov. 10, 1988, 102 Stat. 3458, 3459, 3471, 3696; Pub. L. 101–508, title XI, §11701(k), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 102–318, title V, §§521(b)(12), (13), 522(a)(3), (c)(2), (3), July 3, 1992, 106 Stat. 311, 314, 315; Pub. L. 104–188, title I, §§1450(c)(1), 1704(t)(69), Aug. 20, 1996, 110 Stat. 1815, 1891; Pub. L. 105–34, title XV, §§1504(a)(1), 1505(c), title XVI, §1601(d)(6)(B), Aug. 5, 1997, 111 Stat. 1063, 1064, 1090; Pub. L. 105–206, title VI, §6005(c)(2)(B), July 22, 1998, 112 Stat. 800; Pub. L. 106–554, §1(a)(7) \[title III, §314(e)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §§632(a)(2), 641(b)(1), (e)(7), 642(b)(1), 646(a)(2), 647(a), June 7, 2001, 115 Stat. 113, 120, 121, 126, 127; Pub. L. 107–147, title IV, §411(p)(1)–(3), Mar. 9, 2002, 116 Stat. 49, 50; Pub. L. 108–311, title IV, §§404(e), 408(a)(11), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–135, title IV, §412(w), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2005—Subsec. (b)(9)(B). Pub. L. 109–135 inserted “or” before “a convention”.
+
+2004—Subsec. (a)(4)(B). Pub. L. 108–311, §404(e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Rules similar to the rules of paragraphs (2) through (7) of section 402(c) shall apply for purposes of subparagraph (A).”
+
+Subsec. (b)(7)(A)(ii). Pub. L. 108–311, §408(a)(11), substituted “3121(a)(5)(D)” for “3121(a)(1)(D)”.
 
 2002—Subsec. (b)(1). Pub. L. 107–147, §411(p)(1), inserted concluding provisions and struck out former concluding provisions which read as follows: “then amounts contributed by such employer for such annuity contract on or after such rights become nonforfeitable shall be excluded from the gross income of the employee for the taxable year to the extent that the aggregate of such amounts does not exceed the applicable limit under section 415. The amount actually distributed to any distributee under such contract shall be taxable to the distributee (in the year in which so distributed) under section 72 (relating to annuities). For purposes of applying the rules of this subsection to amounts contributed by an employer for a taxable year, amounts transferred to a contract described in this paragraph by reason of a rollover contribution described in paragraph (8) of this subsection or section 408(d)(3)(A)(ii) shall not be considered contributed by such employer.”
 
@@ -296,7 +302,7 @@ Pub. L. 99–514, §1852(a)(3)(A), added par. (10) relating to distribution requ
 
 Subsec. (b)(11). Pub. L. 99–514, §1123(c)(1), added par. (11).
 
-Subsec. (c). Pub. L. 99–514, §1122(d)(3), amended last sentence generally. Prior to amendment, last sentence read as follows: “The amount actually paid or made available to any beneficiary under such contract shall be taxable to him in the year in which so paid or made available under section 72 (relating to annuities).”
+Subsec. (c). Pub. L. 99–514, §1122(d)(3), amended last sentence generally. Prior to amendment, last sentenceread as follows: “The amount actually paid or made available to any beneficiary under such contract shall be taxable to him in the year in which so paid or made available under section 72 (relating to annuities).”
 
 1984—Subsec. (a)(2)(A). Pub. L. 98–369, §1001(b)(4), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
@@ -390,6 +396,10 @@ Subsec. (b)(3). Pub. L. 87–370, §(3)(a)(2), substituted “the employer descr
 
 Subsecs. (b) to (d). Pub. L. 85–866, §23(a), added subsec. (b), redesignated former subsec. (b) as (c), and added subsec. (d).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 404(e) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
@@ -414,7 +424,7 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 6005 of Pub. L. 105–206 applicable to distributions after Dec. 31, 1998, see section6005(c)(2)(C) of Pub. L. 105–206, set out as a note under section 402 of this title.
+Amendment by section 6005 of Pub. L. 105–206 applicable to distributions after Dec. 31, 1998, see section 6005(c)(2)(C) of Pub. L. 105–206, set out as a note under section 402 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -528,7 +538,7 @@ Section 154(b) of Pub. L. 95–600 provided that: “The amendment made by this 
 
 Section 156(d) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §101(a)(13)(A), Apr. 1, 1980, 94 Stat. 204, provided that: “The amendments made by this section \[amending this section and sections 219, 220, 408, 409, 2039, and 4973\] shall apply to distributions or transfers made after December 31, 1977, in taxable years beginning after such date.”
 
-Amendment by section 157(g)(2) of Pub. L. 95–600 applicable to lump-sum distributions completed after Dec. 31, 1978, in taxable years ending after such date, see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
+Amendment by section 157(g)(2) of Pub. L. 95–600 applicable to lump-sum distributions completed afterDec. 31, 1978, in taxable years ending after such date, see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
 
 Amendment by Pub. L. 95–458 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 4(d) of Pub. L. 95–458, set out as a note under section 402 of this title.
 
@@ -624,7 +634,7 @@ In general.—In the case of any contract purchased in a plan year beginning bef
 
 &emsp;“(2)
 
-Rollovers.—Solely for purposes of applying section 403(b)(8) of such Code to a contract to which paragraph (1) applies, a qualified cash or deferred arrangement under section 401(k) of such Code shall be treated as if it were a plan or contract described in clause (ii) of section 403(b)(8)(A) of such Code.”
+Rollovers.—Solely for purposes of applying section 403(b)(8) of such Code to a contract to whichparagraph (1) applies, a qualified cash or deferred arrangement under section 401(k) of such Code shall be treated as if it were a plan or contract described in clause (ii) of section 403(b)(8)(A) of such Code.”
 
 #### Sampling To Determine Whether Plan Meets Subsection (b)(12) Requirements
 
@@ -661,8 +671,4 @@ Section 101(a)(13)(B) of Pub. L. 96–222, as amended by Pub. L. 99–514, §2, 
 #### Transitional Rule in Case of Rollover Contributions to Employee Trusts or Annuities
 
 Applicable period specified in section 402(a)(5)(C) of this title shall not expire before close of Dec. 31, 1980 in case of any payment described in subsec. (a)(4)(A) of this section or section 402(a)(5)(A) of this title, see section 157(h)(3)(B) of Pub. L. 95–600, set out as a note under section 402 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 72, 104, 219, 280G, 401, 402, 402A, 404, 406, 407, 408, 411, 412, 414, 415, 457, 818, 871, 911, 3121, 3306, 3401, 3405, 4972, 4973, 4974, 4975, 4979, 4980, 6047, 6104, 7476, 7871 of this title; title 4 section 114; title 11 section 522; title 12 section 1831f; title 15 sections 77c, 78c; title 28 section 3010; title 29 sections 1053, 1103, 1132, 1344; title 42 section 409.
 

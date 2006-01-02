@@ -30,13 +30,23 @@ A farmers’ cooperative organization described in subsection (b)(1) shall be ex
 
 &emsp;Exemption shall not be denied any such association because such association computes its net earnings for purposes of determining any amount available for distribution to patrons in the manner described in paragraph (1) of section 1388(j).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 176; Pub. L. 87–834, §17(b)(1), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 99–272, title XIII, §13210(b), Apr. 7, 1986, 100 Stat. 324.)
+#### (7) Cross reference
+
+&emsp;&emsp;<b>For treatment of value-added processing involving animals, see section 1388(k).</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 176; Pub. L. 87–834, §17(b)(1), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 99–272, title XIII, §13210(b), Apr. 7, 1986, 100 Stat. 324; Pub. L. 108–357, title III, §316(b), Oct. 22, 2004, 118 Stat. 1469.)
 
 #### Amendments
+
+2004—Subsec. (b)(7). Pub. L. 108–357 added par. (7).
 
 1986—Subsec. (b)(6). Pub. L. 99–272 added par. (6).
 
 1962—Subsec. (a). Pub. L. 87–834 substituted “part I of subchapter T (sec. 1381 and following)” for “section 522” in two places.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title III, §316(c), Oct. 22, 2004, 118 Stat. 1469, provided that: “The amendments made by this section \[amending this section and section 1388 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1986 Amendment
 
@@ -45,8 +55,4 @@ Amendment by Pub. L. 99–272 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–834 applicable, except as otherwise provided, to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as an Effective Date note under section 1381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 50, 52, 168, 246, 337, 854, 860E, 1022, 1245, 1250, 1381, 1388, 3306, 4421, 6044 of this title; title 15 section 77c.
 

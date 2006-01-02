@@ -50,7 +50,7 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary of State for Human Rights and Humanitarian Affairs” in introductory provisions.
 
-1986—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification wastranslated as “title 26” thus requiring no change in text.
+1986—Subsecs. (a), (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1977—Subsec. (d)(1). Pub. L. 95–105 substituted “Assistant Secretary of State” for “Coordinator” in introductory provisions.
 

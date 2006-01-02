@@ -4,7 +4,7 @@
 
 (2) Members of the council shall serve for terms established by a majority vote of all judges of the circuit in regular active service.
 
-(3) Except for the chief judge of the circuit, either judges in regular active service or judges retired from regular active service under section 371(b) of this title may serve as members of the council. Service as a member of a judicial council by a judge retired from regular active service under section 371(b) may not be considered for meeting the requirements of section 371(f)(1)(A), (B), or (C).<sup>1</sup>
+(3) Except for the chief judge of the circuit, either judges in regular active service or judgesretired from regular active service under section 371(b) of this title may serve as members of the council. Service as a member of a judicial council by a judge retired from regular active service under section 371(b) may not be considered for meeting the requirements of section 371(f)(1)(A), (B), or (C).<sup>1</sup>
 
 (4) No more than one district judge from any one district shall serve simultaneously on the council, unless at least one district judge from each district within the circuit is already serving as a member of the council.
 
@@ -54,7 +54,7 @@ All duties delegated to the circuit executive shall be subject to the general su
 
 (3) The circuit executive may appoint, with the approval of the council, necessary employees in such number as may be approved by the Director of the Administrative Office of the United States Courts.
 
-(4) The circuit executive and his staff shall be deemed to be officers and employees of the judicial branch of the United States Government within the meaning of subchapter III of chapter83 (relating to civil service retirement), chapter 87 (relating to Federal employees’ life insurance program), and chapter 89 (relating to Federal employees’ health benefits program) of title 5, United States Code.
+(4) The circuit executive and his staff shall be deemed to be officers and employees of the judicial branch of the United States Government within the meaning of subchapter III of chapter 83 (relating to civil service retirement), chapter 87 (relating to Federal employees’ life insurance program), and chapter 89 (relating to Federal employees’ health benefits program) of title 5, United States Code.
 
 (g) No later than January 31 of each year, each judicial council shall submit a report to the Administrative Office of the United States Courts on the number and nature of orders entered under this section during the preceding calendar year that relate to judicial misconduct or disability.
 

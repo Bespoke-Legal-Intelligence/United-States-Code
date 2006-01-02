@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) any international military headquarters or organization to which the Protocol on the Status of International Military Headquarters Set Up Pursuant to the North Atlantic Treaty, signed at Paris on August 28, 1952 (TIAS 2978; 5 UST 870), applies.
 
-&emsp;(3) The term “military region” means the geographical area of responsibility assigned tothe commander of a unified combatant command (excluding Europe and adjacent waters).
+&emsp;(3) The term “military region” means the geographical area of responsibility assigned to the commander of a unified combatant command (excluding Europe and adjacent waters).
 
 &emsp;(4) The term “transfer” means selling (whether for payment in currency, replacement-in-kind, or exchange of supplies or services of equal value), leasing, loaning, or otherwise temporarily providing logistic support, supplies, and services under the terms of a cross-servicing agreement.
 
@@ -39,8 +39,4 @@ Par. (4). Pub. L. 103–337, §1317(h)(2), added par. (4).
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable with regard to any acquisition or transfer of logistic support, supplies, and services under authority of this subchapter that is initiated after Oct. 5, 1994, see section 1317(j) of Pub. L. 103–337, set out as a note under section 2341 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2350a, 2350c of this title.
 

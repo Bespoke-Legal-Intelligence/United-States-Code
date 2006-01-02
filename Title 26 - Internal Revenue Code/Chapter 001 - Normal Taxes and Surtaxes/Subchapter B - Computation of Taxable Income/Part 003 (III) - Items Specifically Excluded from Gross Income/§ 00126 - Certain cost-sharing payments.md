@@ -94,9 +94,5 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 Section 543(d) of Pub. L. 95–600 provided that: “The amendments made by this section \[enacting this section and section 1255 of this title\] shall apply with respect to grants made under the programs after September 30, 1979.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1255 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

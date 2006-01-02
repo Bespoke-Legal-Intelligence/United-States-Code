@@ -4,19 +4,23 @@
 
 #### (1) Imposition of tax
 
-&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by the manufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
-
-#### (2) 3 percent rate of tax for electric outboard motors and sonar devices suitable for finding fish
-
 #### (A) In general
 
-&emsp;&emsp;In the case of an electric outboard motor or a sonar device suitable for finding fish, paragraph (1) shall be applied by substituting “3 percent” for “10 percent”.
+&emsp;&emsp;There is hereby imposed on the sale of any article of sport fishing equipment by the manufacturer, producer, or importer a tax equal to 10 percent of the price for which so sold.
 
-#### (B) $30 limitation on tax imposed on sonar devices suitable for finding fish
+#### (B) Limitation on tax imposed on fishing rods and poles
 
-&emsp;&emsp;The tax imposed by paragraph (1) on any sonar device suitable for finding fish shall not exceed $30.
+&emsp;&emsp;The tax imposed by subparagraph (A) on any fishing rod or pole shall not exceed $10.
 
-#### (3) Parts or accessories sold in connection with taxable sale
+#### (2) 3 percent rate of tax for electric outboard motors
+
+&emsp;In the case of an electric outboard motor, paragraph (1) shall be applied by substituting “3 percent” for “10 percent”.
+
+#### (3) 3 percent rate of tax for tackle boxes
+
+&emsp;In the case of fishing tackle boxes, paragraph (1) shall be applied by substituting “3 percent” for “10 percent”.
+
+#### (4) Parts or accessories sold in connection with taxable sale
 
 &emsp;In the case of any sale by the manufacturer, producer, or importer of any article of sport fishing equipment, such article shall be treated as including any parts or accessories of such article sold on or in connection therewith or with the sale thereof.
 
@@ -26,35 +30,83 @@
 
 #### (A) In general
 
-&emsp;&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer of any bow which has a draw weight of 10 pounds or more, a tax equal to 11 percent of the price for which so sold.
+&emsp;&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer of any bow which has a peak draw weight of 30 pounds or more, a tax equal to 11 percent of the price for which so sold.
 
-#### (B) Parts and accessories
+#### (B) Archery equipment
 
-&emsp;&emsp;There is hereby imposed upon the sale by the manufacturer, producer, or importer—
+&emsp;&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer—
 
-&emsp;&emsp;&emsp;(i) of any part of accessory suitable for inclusion in or attachment to a bow described in subparagraph (A), and
+&emsp;&emsp;&emsp;(i) of any part or accessory suitable for inclusion in or attachment to a bow described in subparagraph (A), and
 
-&emsp;&emsp;&emsp;(ii) of any quiver suitable for use with arrows described in paragraph (2),
+&emsp;&emsp;&emsp;(ii) of any quiver, broadhead, or point suitable for use with an arrow described in paragraph (2),
 
-> &emsp;&emsp;a tax equivalent to 11 percent of the price for which so sold.
+> &emsp;&emsp;a tax equal to 11 percent of the price for which so sold.
 
 #### (2) Arrows
 
-&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer of any shaft, point, nock, or vane of a type used in the manufacture of any arrow which after its assembly—
+#### (A) In general
 
-&emsp;&emsp;(A) measures 18 inches overall or more in length, or
+&emsp;&emsp;There is hereby imposed on the first sale by the manufacturer, producer, or importer of any shaft (whether sold separately or incorporated as part of a finished or unfinished product) of a type used in the manufacture of any arrow which after its assembly—
 
-&emsp;&emsp;(B) measures less than 18 inches overall in length but is suitable for use with a bow described in paragraph (1)(A),
+&emsp;&emsp;&emsp;(i) measures 18 inches overall or more in length, or
 
-> &emsp;a tax equal to 12.4 percent of the price for which so sold.
+&emsp;&emsp;&emsp;(ii) measures less than 18 inches overall in length but is suitable for use with a bow described in paragraph (1)(A),
+
+> &emsp;&emsp;a tax equal to 39 cents per shaft.
+
+#### (B) Adjustment for inflation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of any calendar year beginning after 2005, the 39-cent amount specified in subparagraph (A) shall be increased by an amount equal to the product of—
+
+&emsp;&emsp;&emsp;&emsp;(I) such amount, multiplied by
+
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “2004” for “1992” in subparagraph (B) thereof.
+
+#### (ii) Rounding
+
+&emsp;&emsp;&emsp;If any increase determined under clause (i) is not a multiple of 1 cent, such increase shall be rounded to the nearest multiple of 1 cent.
 
 #### (3) Coordination with subsection (a)
 
 &emsp;No tax shall be imposed under this subsection with respect to any article taxable under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 489; Pub. L. 89–44, title II, §205(a), June 21, 1965, 79 Stat. 140; Pub. L. 92–558, title II, §201(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 98–369, div. A, title X, §§1015(a), 1017(a), (b), July 18, 1984, 98 Stat. 1017, 1021; Pub. L. 99–514, title XVIII, §1899A(48), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 105–34, title XIV, §1433(a), Aug. 5, 1997, 111 Stat. 1051; Pub. L. 108–357, title III, §§332(a)–(c), 333(a), Oct. 22, 2004, 118 Stat. 1477, 1478; Pub. L. 108–493, §1(a)–(c), Dec. 23, 2004, 118 Stat. 3984; Pub. L. 109–59, title XI, §11117(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 109–135, title IV, §412(uu), Dec. 21, 2005, 119 Stat. 2640.)
+
+#### Adjustment of Tax on Arrow Shafts for Calendar Year 2006
+
+<i>For adjustment of tax on arrow shafts under subsection (b)(2)(A) of this section for calendar year 2006, see section 3.29 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59, §11117(a), reenacted heading without change and amended text of par. (1) generally, designating existing provisions as subpar. (A), inserting subpar. heading, and adding subpar. (B).
+
+Subsec. (a)(2). Pub. L. 109–135 amended heading and text of par. (2) generally. Prior to amendment, text read as follows:
+
+“(A)
+
+In general.—In the case of an electric outboard motor or a sonar device suitable for finding fish, paragraph (1)(A) shall be applied by substituting ‘3 percent’ for ‘10 percent’.
+
+“(B) $30
+
+limitation on tax imposed on sonar devices suitable for finding fish.—The tax imposed by paragraph (1)(A) on any sonar device suitable for finding fish shall not exceed $30.”
+
+Pub. L. 109–59, §11117(b), substituted “paragraph (1)(A)” for “paragraph (1)” in two places.
+
+2004—Subsec. (a)(3), (4). Pub. L. 108–357, §333(a), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (b)(1). Pub. L. 108–357, §332(a), reenacted heading without change and amended text of par. (1) generally, substituting provisions imposing a tax on the sale of any bow which has a peak draw weight of 30 pounds or more, any part or accessory, and any quiver or broadhead suitable for use with an arrow described in par. (2), for provisions imposing a tax on the sale of any bow which has a draw weight of 10 pounds or more, any part of accessory, and any quiver suitable for use with arrows described in par. (2).
+
+Subsec. (b)(1)(B)(ii). Pub. L. 108–493, §1(c), substituted “quiver, broadhead, or point” for “quiver or broadhead”.
+
+Subsec. (b)(2). Pub. L. 108–493, §1(b), amended heading and text of par. (2) generally, substituting provisions relating to arrows for provisions relating to arrow components.
+
+Pub. L. 108–357, §332(c), substituted “Arrow components” for “Arrows” in heading and inserted “(other than broadheads)” after “point” in introductory provisions.
+
+Subsec. (b)(3), (4). Pub. L. 108–493, §1(a), repealed Pub. L. 108–357, §332(b). See note below.
+
+Pub. L. 108–357, §332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by Pub. L. 108–493, §1(a). See Construction of 2004 Amendment note below.
 
 1997—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
 
@@ -73,6 +125,18 @@ Subsec. (b)(3). Pub. L. 98–369, §1017(b)(1), added par. (3).
 Subsec. (b). Pub. L. 92–558, §201(a)(2), added subsec. (b).
 
 1965—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11117(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after September 30, 2005.”
+
+#### Effective Date of 2004 Amendments
+
+Pub. L. 108–493, §1(d), Dec. 23, 2004, 118 Stat. 3985, provided that: “The amendments made by subsections (b) and (c) \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after March 31, 2005.”
+
+Pub. L. 108–357, title III, §332(d), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made by this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after the date which is 30 days after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title III, §333(b), Oct. 22, 2004, 118 Stat. 1478, provided that: “The amendments made this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004.”
 
 #### Effective Date of 1997 Amendment
 
@@ -118,7 +182,7 @@ Installment sales, etc.—For purposes of paragraphs (1) and (2), an article sha
 
 Electric light bulbs used in manufacture of articles upon which tax is repealed.—For purposes of applying section 4218(a) of the Code with respect to the use of an electric light bulb or tube by the manufacturer, producer, or importer thereof, and for purposes of applying section 4221(d)(6)(A) of the Code with respect to the sale of an electric light bulb or tube for use in further manufacture, an article which was taxable under chapter 32 of the Code on the date of the enactment of this Act \[June 21, 1965\] shall, during the period beginning with the day after the date of the enactment of this Act through December 31, 1965, be treated as an article taxable under such chapter.”
 
-#### Section Referred to in Other Sections
+#### Construction of 2004 Amendment
 
-This section is referred to in sections 4162, 6302, 9504 of this title; title 16 section 669b.
+Pub. L. 108–493, §1(a), Dec. 23, 2004, 118 Stat. 3984, provided that: “Subsection (b) of section 332 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\], and the amendments made by such subsection \[amending this section\], are hereby repealed; and the Internal Revenue Code of 1986 shall be applied as if such subsection and amendments had never been enacted.”
 

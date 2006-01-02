@@ -16,7 +16,7 @@ For purposes of this title in the case of income, estate, and gift taxes imposed
 
 For purposes of this section—
 
-&emsp;(1) The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to payments on account of estimated tax, without regard to the credit under section 31, without regard to the credit under section 33, and without regard to any credits resulting from the collection ofamounts assessed under section 6851 or 6852 (relating to termination assessments).
+&emsp;(1) The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to payments on account of estimated tax, without regard to the credit under section 31, without regard to the credit under section 33, and without regard to any credits resulting from the collection of amounts assessed under section 6851 or 6852 (relating to termination assessments).
 
 &emsp;(2) The term “rebate” means so much of an abatement, credit, refund, or other repayment, as was made on the ground that the tax imposed by subtitle A or B or chapter 41, 42, 43, or 44 was less than the excess of the amount specified in subsection (a)(1) over the rebates previously made.
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (c) Coordination with subchapters C and D
 
-In determining the amount of any deficiency for purposes of this subchapter, adjustments to partnership items shall be made only as provided in subchapters C and D.
+In determining the amount of any deficiency for purposes of this subchapter, adjustments topartnership items shall be made only as provided in subchapters C and D.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 89–44, title VIII, §809(d)(5)(A), June 21, 1965, 79 Stat. 168; Pub. L. 89–368, title I, §102(b)(4), Mar. 15, 1966, 80 Stat. 64; Pub. L. 91–172, title I, §101(f)(1), (j)(39), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(9), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XII, §1204(c)(4), title XIII, §1307(d)(2)(E), (F)(i), title XVI, §1605(b)(4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1728, 1754, 1834; Pub. L. 96–223, title I, §101(f)(1)(A), (B), (2), (3), Apr. 2, 1980, 94 Stat. 252; Pub. L. 98–369, div. A, title IV, §474(r)(33), July 18, 1984, 98 Stat. 845; Pub. L. 100–203, title X, §10713(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(i), (ii), (C), (D), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(2), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title XII, §1231(b), Aug. 5, 1997, 111 Stat. 1023; Pub. L. 105–206, title VI, §6012(f), July 22, 1998, 112 Stat. 819; Pub. L. 106–554, §1(a)(7) \[title III, §314(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643.)
 
@@ -137,8 +137,4 @@ Amendment by Pub. L. 89–368 applicable with respect to taxable years beginning
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after July 1, 1965, see section 809(f) of Pub. L. 89–44, set out as a note under section 6420 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1314, 6213, 6234, 6503, 6601, 6662, 6665, 6861 of this title.
 

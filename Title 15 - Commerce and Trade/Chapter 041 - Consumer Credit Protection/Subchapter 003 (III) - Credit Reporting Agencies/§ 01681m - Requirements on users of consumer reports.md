@@ -70,7 +70,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;&emsp;(C) if applicable, the credit or insurance may not be extended if, after the consumer responds to the offer, the consumer does not meet the criteria used to select the consumer for the offer or any applicable criteria bearing on credit worthiness <sup>2</sup> or insurability or does not furnish any required collateral;
 
-&emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency from being used in connection with any credit or insurance transaction that is not initiated by the consumer; and
+&emsp;&emsp;(D) the consumer has a right to prohibit information contained in the consumer's file with any consumer reporting agency frombeing used in connection with any credit or insurance transaction that is not initiated by the consumer; and
 
 &emsp;&emsp;(E) the consumer may exercise the right referred to in subparagraph (D) by notifying a notification system established under section 1681b(e) of this title.
 
@@ -136,7 +136,7 @@ No person shall be held liable for any violation of this section if he shows by 
 
 &emsp;Nothing in this subsection shall be construed to prohibit—
 
-&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires such repurchase because the debt has resulted from identity theft;
+&emsp;&emsp;(A) the repurchase of a debt in any case in which the assignee of the debt requires suchrepurchase because the debt has resulted from identity theft;
 
 &emsp;&emsp;(B) the securitization of a debt or the pledging of a portfolio of debt as collateral in connection with a borrowing; or
 
@@ -218,7 +218,7 @@ If a person acting as a debt collector (as that term is defined in subchapter V 
 
 &emsp;&emsp;This section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials identified in that section.
 
-(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012.)
+(Pub. L. 90–321, title VI, §615, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133;amended Pub. L. 104–208, div. A, title II, §2411, Sept. 30, 1996, 110 Stat. 3009–443; Pub. L. 108–159, title I, §§114, 154(b), 155, title II, §213(a), title III, §311(a), title VIII, §811(h), Dec. 4, 2003, 117 Stat. 1960, 1967, 1978, 1988, 2012.)
 
 #### Amendments
 

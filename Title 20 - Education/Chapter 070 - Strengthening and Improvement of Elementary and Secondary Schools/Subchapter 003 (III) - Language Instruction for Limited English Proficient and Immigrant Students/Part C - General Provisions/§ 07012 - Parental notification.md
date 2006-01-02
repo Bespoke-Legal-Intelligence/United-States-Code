@@ -44,7 +44,7 @@ For a child who has not been identified for participation in a language instruct
 
 #### (1) In general
 
-&emsp;Each eligible entity using funds provided under this subchapter to provide a languageinstruction educational program shall implement an effective means of outreach to parents of limited English proficient children to inform such parents of how they can—
+&emsp;Each eligible entity using funds provided under this subchapter to provide a language instruction educational program shall implement an effective means of outreach to parents of limited English proficient children to inform such parents of how they can—
 
 &emsp;&emsp;(A) be involved in the education of their children; and
 

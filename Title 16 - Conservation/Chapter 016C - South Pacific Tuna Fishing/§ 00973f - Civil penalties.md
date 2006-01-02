@@ -32,7 +32,7 @@ If a vessel used in a violation of section 973c(a)(1), (2), (3), (4), (5), (6), 
 
 &emsp;(2) within 60 days after the penalty assessment has become final, leaves and remains outside of the Licensing Area, all Limited Areas closed to fishing, and all Closed Areas until the final penalty has been paid,
 
-> there shall be no referral to the Attorney General under subsection (c) of this section or inrem action under subsection (d) of this section in connection with such civil penalty.
+> there shall be no referral to the Attorney General under subsection (c) of this section or in rem action under subsection (d) of this section in connection with such civil penalty.
 
 (Pub. L. 100–330, §8, June 7, 1988, 102 Stat. 594; Pub. L. 100–350, §4(1), (2), June 27, 1988, 102 Stat. 660.)
 

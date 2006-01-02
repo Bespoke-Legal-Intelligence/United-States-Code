@@ -12,7 +12,7 @@
 
 &emsp;(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
 
-&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at the lowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
+&emsp;(iii) by a permittee, in the form and manner of processing which is utilized by such permittee in the normal conduct of his business, the Secretary shall pay such permittee the reasonable cost of reproducing such data and information for the Secretary and shall pay at thelowest rate available to any purchaser for processing such data and information the costs attributable to such processing; and
 
 &emsp;(iv) by a permittee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay such permittee the reasonable cost of processing and reproducing such data and information for the Secretary,
 
@@ -24,7 +24,7 @@
 
 (1) Data and information provided to the Secretary pursuant to subsection (a) of this section shall be processed, analyzed, and interpreted by the Secretary for purposes of carrying out his duties under this subchapter.
 
-(2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production. Such summary shall include estimates of (A) the oil and gas reserves inareas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
+(2) As soon as practicable after information provided to the Secretary pursuant to subsection (a) of this section is processed, analyzed, and interpreted, the Secretary shall make available to the affected States, and upon request, to any affected local government, a summary of data designed to assist them in planning for the onshore impacts of possible oil and gas development and production. Such summary shall include estimates of (A) the oil and gas reserves in areas leased or to be leased, (B) the size and timing of development if and when oil or gas, or both, is found, (C) the location of pipelines, and (D) the general location and nature of onshore facilities.
 
 #### (c) Confidentiality of information; regulations
 

@@ -20,7 +20,7 @@ No employer may discharge any employee or otherwise discriminate against any emp
 
 #### (c) Review
 
-(1) Any person adversely affected or aggrieved by an order issued under subsection (b) of this section may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
+(1) Any person adversely affected or aggrieved by an order issued under subsection (b) of this section may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph <sup>1</sup> shall not, unless ordered by the court, operate as a stay of the Secretary's order.
 
 (2) An order of the Secretary with respect to which review could have been obtained under paragraph (1) shall not be subject to judicial review in any criminal or other civil proceeding.
 
@@ -47,4 +47,6 @@ Subsection (a) of this section shall not apply with respect to any employee who,
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

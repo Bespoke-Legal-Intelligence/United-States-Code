@@ -58,7 +58,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 (C) The Secretary shall encourage, but may not require, States and units of local government to include in their existing procedures for the review and approval of newly constructed covered multifamily dwellings, determinations as to whether the design and construction of such dwellings are consistent with paragraph (3)(C), and shall provide technical assistance to States and units of local government and other persons to implement the requirements of paragraph (3)(C).
 
-(D) Nothing in this subchapter shall be construed to require the Secretary to review or approve the plans, designs or construction of all covered multifamily dwellings, to determine whether the design and construction of such dwellings are consistent with the requirements of paragraph 3(C).
+(D) Nothing in this subchapter shall be construed to require the Secretary to review or approve the plans, designs or construction of all covered multifamily dwellings, to determinewhether the design and construction of such dwellings are consistent with the requirements of paragraph 3(C).
 
 (6)(A) Nothing in paragraph (5) shall be construed to affect the authority and responsibility of the Secretary or a State or local public agency certified pursuant to section 3610(f)(3) of this title to receive and process complaints or otherwise engage in enforcement activities under this subchapter.
 
@@ -70,7 +70,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 &emsp;(B) ground floor units in other buildings consisting of 4 or more units.
 
-(8) Nothing in this subchapter shall be construed to invalidate or limit any law of a Stateor political subdivision of a State, or other jurisdiction in which this subchapter shall be effective, that requires dwellings to be designed and constructed in a manner that affords handicapped persons greater access than is required by this subchapter.
+(8) Nothing in this subchapter shall be construed to invalidate or limit any law of a State or political subdivision of a State, or other jurisdiction in which this subchapter shall be effective, that requires dwellings to be designed and constructed in a manner that affords handicapped persons greater access than is required by this subchapter.
 
 (9) Nothing in this subsection requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.
 

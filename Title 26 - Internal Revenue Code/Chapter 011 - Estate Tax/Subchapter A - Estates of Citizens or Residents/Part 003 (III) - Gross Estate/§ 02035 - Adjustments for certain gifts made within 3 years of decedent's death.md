@@ -112,7 +112,3 @@ Pub. L. 96–222, title I, §107(a)(2)(F), Apr. 1, 1980, 94 Stat. 223, as amende
 
 &emsp;&emsp;“(II) the day which is 120 days after the date of the enactment of this Act \[Apr. 1, 1980\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2001, 2036, 2041, 2043, 2045, 2056, 2104, 2107, 2642, 6166, 6324 of this title.
-

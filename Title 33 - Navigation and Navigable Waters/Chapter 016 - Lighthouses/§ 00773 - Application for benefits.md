@@ -1,6 +1,6 @@
 ### §773. Application for benefits
 
-Application for the benefits of sections 771 to 775 of this title shall be made in such mannerand form as the Director of the Office of Personnel Management shall prescribe.
+Application for the benefits of sections 771 to 775 of this title shall be made in such manner and form as the Director of the Office of Personnel Management shall prescribe.
 
 (Aug. 19, 1950, ch. 761, §3, 64 Stat. 466; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 

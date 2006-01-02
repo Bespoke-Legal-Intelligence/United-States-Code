@@ -12,7 +12,7 @@
 
 &emsp;(D) Standards under section 7411 of this title and this section applicable to solid waste incineration units combusting commercial or industrial waste shall be proposed not later than 36 months after November 15, 1990, and promulgated not later than 48 months after November 15, 1990.
 
-&emsp;(E) Not later than 18 months after November 15, 1990, the Administrator shall publish a schedule for the promulgation of standards under section 7411 of this title and this sectionapplicable to other categories of solid waste incineration units.
+&emsp;(E) Not later than 18 months after November 15, 1990, the Administrator shall publish a schedule for the promulgation of standards under section 7411 of this title and this section applicable to other categories of solid waste incineration units.
 
 #### (2) Emissions standard
 
@@ -46,9 +46,9 @@
 
 #### (c) Monitoring
 
-The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 of this title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
+The Administrator shall, as part of each performance standard promulgated pursuant to subsection (a) of this section and section 7411 ofthis title, promulgate regulations requiring the owner or operator of each solid waste incineration unit—
 
-&emsp;(1) to monitor emissions from the unit at the point at which such emissions are emittedinto the ambient air (or within the stack, combustion chamber or pollution control equipment, as appropriate) and at such other points as necessary to protect public health and the environment;
+&emsp;(1) to monitor emissions from the unit at the point at which such emissions are emitted into the ambient air (or within the stack, combustion chamber or pollution control equipment, as appropriate) and at such other points as necessary to protect public health and the environment;
 
 &emsp;(2) to monitor such other parameters relating to the operation of the unit and its pollution control technology as the Administrator determines are appropriate; and
 
@@ -80,7 +80,7 @@ Beginning (1) 36 months after the promulgation of a performance standard under s
 
 #### (4) Coordination with other authorities
 
-&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or a State or local government, shall be treated in the same manner as a standard of performance under section 7411 of this title which is an emission limitation.
+&emsp;For purposes of sections 7411(e), 7413, 7414, 7416, 7420, 7603, 7604, 7607 of this title and other provisions for the enforcement of this chapter, each performance standard, emission limitation or other requirement established pursuant to this section by the Administrator or aState or local government, shall be treated in the same manner as a standard of performance under section 7411 of this title which is an emission limitation.
 
 #### (g) Definitions
 
@@ -126,11 +126,11 @@ For purposes of section 306 of the Clean Air Act Amendments of 1990 and this sec
 
 &emsp;&emsp;(A) the performance standards under subsection (a) of this section and section 7411 of this title applicable to a category of solid waste incineration units shall be deemed standards under section 7412(d)(2) of this title, and
 
-&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listed under subsection (a)(4) of this section and no others.
+&emsp;&emsp;(B) the Administrator shall consider and regulate, if required, the pollutants listedunder subsection (a)(4) of this section and no others.
 
 #### (4) Acid rain
 
-&emsp;A solid waste incineration unit shall not be a utility unit as defined in subchapter IV–A ofthis chapter: <i>Provided</i>, That, more than 80 per centum of its annual average fuel consumption measured on a Btu basis, during a period or periods to be determined by the Administrator, is from a fuel (including any waste burned as a fuel) other than a fossil fuel.
+&emsp;A solid waste incineration unit shall not be a utility unit as defined in subchapter IV–A of this chapter: <i>Provided</i>, That, more than 80 per centum of its annual average fuel consumption measured on a Btu basis, during a period or periods to be determined by the Administrator, is from a fuel (including any waste burned as a fuel) other than a fossil fuel.
 
 #### (5) Requirements of parts C and D
 

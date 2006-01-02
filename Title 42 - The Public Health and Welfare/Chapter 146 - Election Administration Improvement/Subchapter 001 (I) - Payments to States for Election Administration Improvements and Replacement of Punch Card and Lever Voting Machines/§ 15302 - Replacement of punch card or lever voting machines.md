@@ -42,7 +42,7 @@
 
 #### (2) Compliance of states that require changes to State law
 
-&emsp;In the case of a State that requires State legislation to carry out an activity covered byany certification submitted under this subsection, the State shall be permitted to make the certification notwithstanding that the legislation has not been enacted at the time the certification is submitted and such State shall submit an additional certification once such legislation is enacted.
+&emsp;In the case of a State that requires State legislation to carry out an activity covered by any certification submitted under this subsection, the State shall be permitted to make the certification notwithstanding that the legislation has not been enacted at the time the certification is submitted and such State shall submit an additional certification once such legislation is enacted.
 
 #### (c) Amount of payment
 

@@ -20,7 +20,7 @@ This chapter does not apply to a claim for personal injury or for wrongful death
 
 #### (2) Interpretation of contract
 
-&emsp;In any Y2K action in which a contract to which paragraph (1) applies is silent as to aparticular issue, the interpretation of the contract as to that issue shall be determined by applicable law in effect at the time the contract was executed.
+&emsp;In any Y2K action in which a contract to which paragraph (1) applies is silent as to a particular issue, the interpretation of the contract as to that issue shall be determined by applicable law in effect at the time the contract was executed.
 
 #### (3) Unconscionability
 
@@ -102,7 +102,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (5) Length of Y2K upset
 
-&emsp;The maximum allowable length of the Y2K upset shall be not more than 15 days beginningon the date of the upset unless specific relief by the appropriate regulatory authority is granted.
+&emsp;The maximum allowable length of the Y2K upset shall be not more than 15 days beginning on the date of the upset unless specific relief by the appropriate regulatory authority is granted.
 
 #### (6) Fraudulent invocation of Y2K upset defense
 
@@ -160,5 +160,5 @@ In any Y2K action in which the underlying claim arises under the securities laws
 
 #### References in Text
 
-The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (f), is Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, which is set out as a note under section 1 of this title.
+The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (f), is Pub. L. 105–271, Oct. 19,1998, 112 Stat. 2386, which is set out as a note under section 1 of this title.
 

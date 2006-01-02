@@ -48,7 +48,3 @@ Amendment by section 1905(a)(28) of Pub. L. 94–455 effective on first day of f
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5751, 5763 of this title.
-

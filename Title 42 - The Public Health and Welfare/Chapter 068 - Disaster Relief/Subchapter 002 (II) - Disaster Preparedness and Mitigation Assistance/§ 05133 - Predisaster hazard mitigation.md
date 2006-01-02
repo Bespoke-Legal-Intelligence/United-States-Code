@@ -2,7 +2,7 @@
 
 #### (a) Definition of small impoverished community
 
-In this section, the term “small impoverished community” means a community of 3,000 or fewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
+In this section, the term “small impoverished community” means a community of 3,000 orfewer individuals that is economically disadvantaged, as determined by the State in which the community is located and based on criteria established by the President.
 
 #### (b) Establishment of program
 
@@ -48,7 +48,7 @@ If the President determines that a State or local government has identified natu
 
 &emsp;Technical and financial assistance provided under this section—
 
-&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures thatare cost-effective and are described in proposals approved by the President under this section; and
+&emsp;&emsp;(A) shall be used by States and local governments principally to implement predisaster hazard mitigation measures that are cost-effective and are described in proposals approved by the President under this section; and
 
 &emsp;&emsp;(B) may be used—
 
@@ -90,7 +90,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 &emsp;(5) the extent to which the technical and financial assistance is consistent with other assistance provided under this chapter;
 
-&emsp;(6) the extent to which prioritized, cost-effective mitigation activities that produce meaningful and definable outcomes are clearly identified;
+&emsp;(6) the extent to which prioritized, cost-effective mitigation activities that producemeaningful and definable outcomes are clearly identified;
 
 &emsp;(7) if the State or local government has submitted a mitigation plan under section 5165 of this title, the extent to which the activities identified under paragraph (6) are consistent with the mitigation plan;
 
@@ -154,7 +154,7 @@ In determining whether to provide technical and financial assistance to a State 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amounts required to be transferred to the Fund under this subsection shall betransferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
+&emsp;&emsp;&emsp;The amounts required to be transferred to the Fund under this subsection shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
 
 #### (ii) Adjustments
 
@@ -196,19 +196,21 @@ The President shall not provide financial assistance under this section in an am
 
 #### (<i>l</i>) Report on Federal and State administration
 
-Not later than 18 months after October 30, 2000, the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
+Not later than 18 months after October 30, 2000, the President, in consultation with Stateand local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
 
 #### (m) Termination of authority
 
-The authority provided by this section terminates December 31, 2005.
+The authority provided by this section terminates September 30, 2008.
 
-(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343.)
+(Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (g)(5), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (m). Pub. L. 109–139 substituted “September 30, 2008” for “December 31, 2005”.
 
 2004—Subsec. (m). Pub. L. 108–447 substituted “2005” for “2004”.
 

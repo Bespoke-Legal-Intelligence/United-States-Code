@@ -34,7 +34,7 @@ In this chapter:
 
 &emsp;The term “extra long staple cotton” means cotton that—
 
-&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for variousend uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
 
 &emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
 

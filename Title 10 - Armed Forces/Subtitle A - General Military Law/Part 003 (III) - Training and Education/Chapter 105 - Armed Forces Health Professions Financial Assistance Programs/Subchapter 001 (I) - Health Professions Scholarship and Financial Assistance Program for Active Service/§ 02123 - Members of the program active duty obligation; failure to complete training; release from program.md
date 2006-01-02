@@ -14,15 +14,17 @@
 
 &emsp;(B) A service obligation in a component of the Selected Reserve for a period not less than twice as long as the member's remaining active duty service obligation.
 
-&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member equal to the percentage of the member's total active duty service obligation being relieved, plus interest.
+&emsp;(C) Repayment to the Secretary of Defense of a percentage of the total cost incurred by the Secretary under this subchapter on behalf of the member pursuant to the repayment provisions of section 303a(e) of title 37.
 
 (2) In addition to the alternative obligations specified in paragraph (1), if the member is relieved of an active duty obligation by reason of the separation of the member because of a physical disability, the Secretary of the military department concerned may give the member a service obligation as a civilian employee employed as a health care professional in a facility of the uniformed services for a period of time equal to the member's remaining active duty service obligation.
 
 (3) The Secretary of Defense shall prescribe regulations describing the manner in which an alternative obligation may be given under this subsection.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, §741(a), Sept. 23, 1996, 110 Stat. 2599.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 96–513, title V, §511(67), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 100–180, div. A, title VII, §711(a)(2), Dec. 4, 1987, 101 Stat. 1108; Pub. L. 101–597, title IV, §401(b), Nov. 16, 1990, 104 Stat. 3035; Pub. L. 104–201, div. A, title VII, §741(a), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 109–163, div. A, title VI, §687(c)(5), Jan. 6, 2006, 119 Stat. 3334.)
 
 #### Amendments
+
+2006—Subsec. (e)(1)(C). Pub. L. 109–163 substituted “pursuant to the repayment provisions of section 303a(e) of title 37.” for “equal to the percentage of the member's total active duty service obligation being relieved, plus interest.”
 
 1996—Subsec. (e). Pub. L. 104–201 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any member of the program relieved of his active duty obligation under this subchapter before the completion of such obligation may, under regulations prescribed by the Secretary of Defense, be assigned to a health professional shortage area designated by the Secretary of Health and Human Services for a period equal to the period of obligation from which he was relieved.”
 
@@ -40,11 +42,11 @@ Amendment by Pub. L. 104–201 applicable with respect to individuals who first 
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
 #### Transition Provisions
 
 Section 741(d)(1) of Pub. L. 104–201 provided that: “In the case of any member of the Armed Forces Health Professions Scholarship and Financial Assistance program who, as of October 1, 1996, is serving an active duty obligation under the program or is incurring an active duty obligation as a participant in the program, and who is subsequently relieved of the active duty obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (a) \[amending this section\] may be used by the Secretary of the military department concerned with the agreement of the member.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 632, 2114, 2126, 2173 of this title.
 

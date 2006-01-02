@@ -28,7 +28,7 @@ The Council shall—
 
 &emsp;(6) not later than 90 days after the last day of each fiscal year, submit to the President and to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives, a report containing—
 
-&emsp;&emsp;(A) a detailed description of the activities of the council,<sup>2</sup> including a status report onthe Council's progress toward meeting its duties outlined in subsections (a) and (d) of this section;
+&emsp;&emsp;(A) a detailed description of the activities of the council,<sup>2</sup> including a status report on the Council's progress toward meeting its duties outlined in subsections (a) and (d) of this section;
 
 &emsp;&emsp;(B) the findings, conclusions, and recommendations of the Council; and
 

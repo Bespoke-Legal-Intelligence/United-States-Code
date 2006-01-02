@@ -2,7 +2,7 @@
 
 For the purpose of this title—
 
-&emsp;(1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of theUnited States, except positions in the uniformed services;
+&emsp;(1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;
 
 &emsp;(2) “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard; and
 

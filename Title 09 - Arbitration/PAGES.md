@@ -1,6 +1,6 @@
 # Printed pages - Title 09 - Arbitration
 
-GPO's 2004 edition (laws in effect as of 2005-01-03), from its printed page marks. The exact position of
+GPO's 2005 edition (laws in effect as of 2006-01-02), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title9.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 

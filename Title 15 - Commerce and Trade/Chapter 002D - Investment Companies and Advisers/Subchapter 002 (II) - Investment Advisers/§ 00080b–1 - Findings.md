@@ -1,6 +1,6 @@
 ### §80b–1. Findings
 
-Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 79z–4 of this title, and facts otherwise disclosed and ascertained, it is found that investment advisers are of national concern, in that, among other things—
+Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 79z–4 <sup>1</sup> of this title, and facts otherwise disclosed and ascertained, it is found that investment advisers are of national concern, in that, among other things—
 
 &emsp;(1) their advice, counsel, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and means and instrumentalities of interstate commerce;
 
@@ -10,7 +10,13 @@ Upon the basis of facts disclosed by the record and report of the Securities and
 
 (Aug. 22, 1940, ch. 686, title II, §201, 54 Stat. 847.)
 
+#### References in Text
+
+Section 79z–4 of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
+
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

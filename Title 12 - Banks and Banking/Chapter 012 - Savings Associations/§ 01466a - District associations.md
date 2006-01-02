@@ -20,7 +20,7 @@ Nothing in this section shall cause, or permit the Director to cause, District o
 
 #### Prior Provisions
 
-A prior section 8 of act June 13, 1933, ch. 64, 48 Stat. 134, was classified to section 1467 of this title, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
+A prior section 8 of act June 13, 1933, ch. 64, 48 Stat. 134, was classified to section 1467 of this title, prior torepeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
 
 #### Amendments
 

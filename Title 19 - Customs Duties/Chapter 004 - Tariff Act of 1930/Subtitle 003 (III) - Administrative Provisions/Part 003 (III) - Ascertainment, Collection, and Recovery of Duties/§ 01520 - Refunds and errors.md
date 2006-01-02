@@ -20,17 +20,19 @@ The necessary moneys to make such refunds are authorized to be appropriated annu
 
 #### (d) Goods qualifying under free trade agreement rules of origin
 
-Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title or section 202 of the United States-Chile Free Trade Agreement Implementation Act for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
+Notwithstanding the fact that a valid protest was not filed, the Customs Service may, in accordance with regulations prescribed by the Secretary, reliquidate an entry to refund any excess duties (including any merchandise processing fees) paid on a good qualifying under the rules of origin set out in section 3332 of this title, section 202 of the United States-Chile Free Trade Agreement Implementation Act, or section 4033 of this title for which no claim for preferential tariff treatment was made at the time of importation if the importer, within 1 year after the date of importation, files, in accordance with those regulations, a claim that includes—
 
 &emsp;(1) a written declaration that the good qualified under the applicable rules at the time of importation;
 
-&emsp;(2) copies of all applicable NAFTA Certificates of Origin (as defined in section 1508(b)(1) of this title), or other certificates of origin, as the case may be; and
+&emsp;(2) copies of all applicable NAFTA Certificates of Origin (as defined in section 1508(b)(1) of this title), or other certificates or certifications of origin, as the case may be; and
 
 &emsp;(3) such other documentation relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 109–53, title II, §207, Aug. 2, 2005, 119 Stat. 485.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
@@ -46,7 +48,7 @@ Act June 26, 1934, effective July 1, 1935, provided for repeal of certain perman
 
 This section, as originally enacted, contained a paragraph (b) making a permanent appropriation of the moneys necessary to make refunds. Effective July 1, 1935, paragraph (b) was repealed by act June 26, 1934, ch. 756, §2, 48 Stat. 1225, such act authorizing, in lieu thereof, an annual appropriation from the general fund of the Treasury.
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §520, 42Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §520, 42 Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions somewhat similar to those in subdivisions (1) and (3) of paragraph (a) for refund of moneys paid on account of unascertained or estimated duties or payments on appeal, and for correction of clerical errors within one year, with further provisions making an appropriation and requiring reports to Congress of moneys refunded, were contained in act Oct. 3, 1913, ch. 16, §III, Y, 38 Stat. 191, which reenacted the provisions of Customs Administrative Act June 10, 1890, ch. 407, §24, 26 Stat. 140, as renumbered and reenacted by Payne-Aldrich Tariff Act of August 5, 1909, ch. 6, §28, 36 Stat. 103. Said section III, Y, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
@@ -57,6 +59,8 @@ R.S. §3011 (as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, and act
 Act June 7, 1924, ch. 357, 43 Stat. 660, authorizing the remission of unpaid customs duties on material belonging to the United States and theretofore imported by the War Department, was omitted from the Code as temporary.
 
 #### Amendments
+
+2005—Subsec. (d). Pub. L. 109–53, §§107(d), 207, temporarily substituted “, section 202 of the United States-Chile Free Trade Agreement Implementation Act, or section 4033 of this title” for “or section 202 of the United States-Chile Free Trade Agreement Implementation Act” in introductory provisions and inserted “or certifications” after “other certificates” in par. (2). See Effective and Termination Dates of 2005 Amendment note below.
 
 2004—Subsec. (c). Pub. L. 108–429 struck out subsec. (c) which related to reliquidation of entry or reconciliation.
 
@@ -91,6 +95,10 @@ Subsec. (d). Pub. L. 98–573, §210(b), added subsec. (d).
 Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on household or personal effects which are subject to duty.
 
 1938—Subsecs. (b), (c). Act June 25, 1938, added subsecs. (b) and (c).
+
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective Date of 2004 Amendment
 

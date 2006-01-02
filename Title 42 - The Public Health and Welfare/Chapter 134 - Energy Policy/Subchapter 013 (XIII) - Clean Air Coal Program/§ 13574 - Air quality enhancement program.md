@@ -1,0 +1,40 @@
+### §13574. Air quality enhancement program
+
+#### (a) Eligible projects
+
+Projects supported under section 13572(a)(2) of this title shall—
+
+&emsp;(1) utilize technologies that meet relevant Federal and State clean air requirements applicable to the unit or facility, including being adequately demonstrated for purposes of section 7411 of this title, achievable for purposes of section 7479 of this title, or achievable in practice for purposes of section 7501 of this title; or
+
+&emsp;(2) utilize equipment or processes that exceed relevant Federal or State clean air requirements applicable to the unit or facilities included in the projects by achieving greater efficiency or environmental performance.
+
+#### (b) Priority in project selection
+
+In making an award under section 13572(a)(2) of this title, the Secretary shall give priority to—
+
+&emsp;(1) projects whose installation is likely to result in significant air quality improvements in nonattainment air quality areas or substantially reduce the emission level of criteria pollutants and mercury air emissions;
+
+&emsp;(2) projects for pollution control that result in the mitigation or collection of more than 1 pollutant; and
+
+&emsp;(3) projects designed to allow the use of the waste byproducts or other byproducts of the equipment.
+
+#### (c) Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary to carry out section 13572(a)(2) of this title—
+
+&emsp;(1) $300,000,000 for fiscal year 2007;
+
+&emsp;(2) $100,000,000 for fiscal year 2008;
+
+&emsp;(3) $40,000,000 for fiscal year 2009;
+
+&emsp;(4) $30,000,000 for fiscal year 2010; and
+
+&emsp;(5) $30,000,000 for fiscal year 2011.
+
+#### (d) Applicability
+
+No technology, or level of emission reduction under subsection (a)(2) of this section shall be treated as adequately demonstrated for purpose of Section <sup>1</sup> 7411 of this title, achievable for purposes of section 7479 of this title, or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(2) of this title.
+
+(Pub. L. 102–486, title XXXI, §3104, as added Pub. L. 109–58, title IV, §421(a), Aug. 8, 2005, 119 Stat. 759.)
+

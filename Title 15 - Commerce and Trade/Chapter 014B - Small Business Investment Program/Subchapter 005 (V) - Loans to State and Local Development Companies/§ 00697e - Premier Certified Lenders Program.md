@@ -24,7 +24,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;(C) if the company agrees to assume and to reimburse the Administration for 10 percent of any loss sustained by the Administration as a result of default by the company in the payment of principal or interest on a debenture issued by such company and guaranteed by the Administration under this section (15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company); and
 
-&emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) of this section is sufficient for the companyto meet its obligations to protect the Federal Government from risk of loss.
+&emsp;&emsp;(D) the <sup>1</sup> Administrator determines, with respect to the company, that the loss reserve established in accordance with subsection (c) of this section is sufficient for the company to meet its obligations to protect the Federal Government from risk of loss.
 
 #### (3) Applicability of criteria after designation
 
@@ -128,7 +128,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;&emsp;(ii) the company has established and is utilizing an appropriate and effective process for analyzing the risk of loss associated with its portfolio of PCLP loans and for grading each PCLP loan made by the company on the basis of the risk of loss associated with such loan; and
 
-&emsp;&emsp;&emsp;(iii) the company meets or exceeds 4 or more of the specified risk management benchmarks as of the most recent assessment by the Administration or the Administration has issued a waiver with respect to the requirement of this clause.
+&emsp;&emsp;&emsp;(iii) the company meets or exceeds 4 or more of the specified risk managementbenchmarks as of the most recent assessment by the Administration or the Administration has issued a waiver with respect to the requirement of this clause.
 
 #### (G) Specified risk management benchmarks
 
@@ -200,7 +200,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;&emsp;Not later than 90 days after May 28, 2004—
 
-&emsp;&emsp;&emsp;(i) the Administrator shall ensure that the Bureau of PCLP Oversight is preparedto carry out any functions designated under subparagraph (B), and
+&emsp;&emsp;&emsp;(i) the Administrator shall ensure that the Bureau of PCLP Oversight is prepared to carry out any functions designated under subparagraph (B), and
 
 &emsp;&emsp;&emsp;(ii) the Office of the Inspector General of the Administration shall report to the Congress on the preparedness of the Bureau of PCLP Oversight to carry out such functions.
 
@@ -274,7 +274,7 @@ October 22, 1994, referred to in subsec. (j), was in the original “the date of
 
 #### Amendments
 
-2004—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted “(15 percent in the case of any such loss attributable toa debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
+2004—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
 
 Subsec. (b)(2)(D). Pub. L. 108–232, §3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
 

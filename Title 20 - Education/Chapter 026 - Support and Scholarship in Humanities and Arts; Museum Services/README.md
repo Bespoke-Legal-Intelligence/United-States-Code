@@ -78,6 +78,7 @@
 | (d) | Endowment activities reports. |
 | (e) | Council activities reports. |
 | (f) | Post-award evaluation of assisted projects, productions, and programs; reports; extension of time for compliance; failure to satisfy purposes of assistance. |
+| [959a.](Subchapter%20001%20%28I%29%20-%20National%20Foundation%20on%20the%20Arts%20and%20the%20Humanities/%C2%A7%2000959a%20-%20Gifts%2C%20bequests%2C%20and%20devises.md) | Gifts, bequests, and devises. |
 | [960\.](Subchapter%20001%20%28I%29%20-%20National%20Foundation%20on%20the%20Arts%20and%20the%20Humanities/%C2%A7%2000960%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Contracts, grants-in-aid, and loans to groups, individuals, public agencies, and private nonprofit organizations; availability of appropriations; guidelines. |
 | (b) | Availability of appropriated unexpended funds; notice of availability of funds by advance appropriation. |

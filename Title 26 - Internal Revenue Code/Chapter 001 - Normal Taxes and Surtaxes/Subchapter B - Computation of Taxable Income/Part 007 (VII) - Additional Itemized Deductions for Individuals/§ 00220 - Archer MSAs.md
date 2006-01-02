@@ -168,7 +168,7 @@ For purposes of this section—
 
 #### (i) Controlled groups
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as 1 employer.
+&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer undersubsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as 1 employer.
 
 #### (ii) Predecessors
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise.
+&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account holder, amounts paid by such holder for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 #### (2) Inclusion of amounts not used for qualified medical expenses
 
-&emsp;Any amount paid or distributed out of an Archer MSA which is not used exclusively to pay the qualified medical expenses of the account holder shall be included in the gross income of such holder.
+&emsp;Any amount paid or distributed out of an Archer MSA which is not used exclusively topay the qualified medical expenses of the account holder shall be included in the gross income of such holder.
 
 #### (3) Excess contributions returned before due date of return
 
@@ -328,13 +328,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such account shall cease to be an Archer MSA as of the date of death, and
 
-&emsp;&emsp;&emsp;&emsp;(II) an amount equal to the fair market value of the assets in such account on such date shall be includible if such person is not the estate of such holder, insuch person's gross income for the taxable year which includes such date, or if such person is the estate of such holder, in such holder's gross income for the last taxable year of such holder.
+&emsp;&emsp;&emsp;&emsp;(II) an amount equal to the fair market value of the assets in such account on such date shall be includible if such person is not the estate of such holder, in such person's gross income for the taxable year which includes such date, or if such person is the estate of such holder, in such holder's gross income for the last taxable year of such holder.
 
 #### (ii) Special rules
 
 #### (I) Reduction of inclusion for pre-death expenses
 
-&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (other than the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death and paid by such person within 1 year after such date.
+&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (otherthan the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death and paid by such person within 1 year after such date.
 
 #### (II) Deduction for estate taxes
 
@@ -368,9 +368,9 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;For purposes of paragraph (1), the term “cut-off year” means the earlier of—
 
-&emsp;&emsp;(A) calendar year 2003, or
+&emsp;&emsp;(A) calendar year 2005, or
 
-&emsp;&emsp;(B) the first calendar year before 2003 for which the Secretary determines under subsection (j) that the numerical limitation for such year has been exceeded.
+&emsp;&emsp;(B) the first calendar year before 2005 for which the Secretary determines under subsection (j) that the numerical limitation for such year has been exceeded.
 
 #### (3) Active MSA participant
 
@@ -380,9 +380,9 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;The term “active MSA participant” means, with respect to any taxable year, any individual who is the account holder of any Archer MSA into which any contribution was made which was excludable from gross income under section 106(b), or allowable as a deduction under this section, for such taxable year.
 
-#### (B) Special rule for cut-off years before 2003
+#### (B) Special rule for cut-off years before 2005
 
-&emsp;&emsp;In the case of a cut-off year before 2003—
+&emsp;&emsp;In the case of a cut-off year before 2005—
 
 &emsp;&emsp;&emsp;(i) an individual shall not be treated as an eligible individual for any month of such year or an active MSA participant under paragraph (1)(A) unless such individual is, on or before the cut-off date, covered under a high deductible health plan, and
 
@@ -416,7 +416,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;For purposes of this subsection, the term “MSA-participating employer” means any small employer if—
 
-&emsp;&emsp;(A) such employer made any contribution to the Archer MSA of any employee duringthe cut-off year or any preceding calendar year which was excludable from gross income under section 106(b), or
+&emsp;&emsp;(A) such employer made any contribution to the Archer MSA of any employee during the cut-off year or any preceding calendar year which was excludable from gross income under section 106(b), or
 
 &emsp;&emsp;(B) at least 20 percent of the employees of such employer who are eligible individuals for any month of the cut-off year by reason of coverage under a high deductible health plan of such employer each made a contribution of at least $100 to their Archer MSAs for any taxable year ending with or within the cut-off year which was allowable as a deduction under this section.
 
@@ -440,11 +440,11 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;&emsp;(B) June 30, 1997, exceeds 525,000.
 
-#### (2) Determination of whether limit exceeded for 1998, 1999, 2001, or 2002
+#### (2) Determination of whether limit exceeded for 1998, 1999, 2001, 2002, or 2004
 
 #### (A) In general
 
-&emsp;&emsp;The numerical limitation for 1998, 1999, 2001, or 2002 is exceeded if the sum of—
+&emsp;&emsp;The numerical limitation for 1998, 1999, 2001, 2002, or 2004 is exceeded if the sum of—
 
 &emsp;&emsp;&emsp;(i) the number of MSA returns filed on or before April 15 of such calendar year for taxable years ending with or within the preceding calendar year, plus
 
@@ -454,7 +454,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (B) Alternative computation of limitation
 
-&emsp;&emsp;The numerical limitation for 1998, 1999, 2001, or 2002 is also exceeded if the sum of—
+&emsp;&emsp;The numerical limitation for 1998, 1999, 2001, 2002, or 2004 is also exceeded if the sum of—
 
 &emsp;&emsp;&emsp;(i) 90 percent of the sum determined under subparagraph (A) for such calendar year, plus
 
@@ -462,9 +462,9 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 > &emsp;&emsp;exceeds 750,000.
 
-#### (C) No limitation for 2000
+#### (C) No limitation for 2000 or 2003
 
-&emsp;&emsp;The numerical limitation shall not apply for 2000.
+&emsp;&emsp;The numerical limitation shall not apply for 2000 or 2003.
 
 #### (3) Previously uninsured individuals not included in determination
 
@@ -480,7 +480,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (A) In general
 
-&emsp;&emsp;Not later than August 1 of 1997, 1998, 1999, 2001, and 2002, each person who is the trustee of an Archer MSA established before July 1 of such calendar year shall make a report to the Secretary (in such form and manner as the Secretary shall specify) which specifies—
+&emsp;&emsp;Not later than August 1 of 1997, 1998, 1999, 2001, 2002, and 2004, each person who is the trustee of an Archer MSA established before July 1 of such calendar year shall make a report to the Secretary (in such form and manner as the Secretary shall specify) which specifies—
 
 &emsp;&emsp;&emsp;(i) the number of Archer MSAs established before such July 1 (for taxable years beginning in such calendar year) of which such person is the trustee,
 
@@ -502,17 +502,17 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (D) Aggregation of accounts
 
-&emsp;&emsp;To the extent practicable, in determining the number of Archer MSAs on the basis ofthe reports under this paragraph, all Archer MSAs of an individual shall be treated as 1 account and all accounts of individuals who are married to each other shall be treated as 1 account.
+&emsp;&emsp;To the extent practicable, in determining the number of Archer MSAs on the basis of the reports under this paragraph, all Archer MSAs of an individual shall be treated as 1 account and all accounts of individuals who are married to each other shall be treated as 1 account.
 
 #### (5) Date of making determinations
 
-&emsp;Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
+&emsp;Any determination under this subsection that a calendar year is a cut-off year shall bemade by the Secretary and shall be published not later than October 1 of such year.
 
-(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476.)
+(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–147, title VI, §612(a), (b), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–173, title XII, §1201(c), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title II, §207(19), title III, §322(a), (b), Oct. 4, 2004, 118 Stat. 1178, 1183.)
 
-#### Adjustment of Annual Deductible Amounts for Taxable Years Beginning in 2004
+#### Adjustment of Annual Deductible Amounts for Taxable Years Beginning in 2006
 
-<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsection (c)(2)(A) of this section for taxable years beginning in 2004, see section 3.19 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsection (c)(2)(A) of this section for taxable years beginning in 2006, see section 3.20 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -527,6 +527,18 @@ Another prior section 220, added Pub. L. 100–647, title VI, §6007(a), Nov. 10
 Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L. 95–600, title I, §§156(c)(3), 157(a)(2), (b)(2), title VII, §703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, §311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under section 220 of this title, as in effect prior to its repeal, treated as deductions under section 219 of this title.
 
 #### Amendments
+
+2004—Subsec. (d)(2)(A). Pub. L. 108–311, §207(19), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+Subsec. (i)(2), (3)(B). Pub. L. 108–311, §322(a), substituted “2005” for “2003” wherever appearing in headings and text.
+
+Subsec. (j)(2). Pub. L. 108–311, §322(b)(1)(B), substituted “2002, or 2004” for “or 2002” in heading.
+
+Subsec. (j)(2)(A), (B). Pub. L. 108–311, §322(b)(1)(A), substituted “2002, or 2004” for “or 2002” in introductory provisions.
+
+Subsec. (j)(2)(C). Pub. L. 108–311, §322(b)(3), amended heading and text of subpar. (C) generally. Prior to amendment text read as follows: “The numerical limitation shall not apply for 2000.”
+
+Subsec. (j)(4)(A). Pub. L. 108–311, §322(b)(2), substituted “2002, and 2004” for “and 2002” in introductory provisions.
 
 2003—Subsec. (f)(5)(A). Pub. L. 108–173 inserted “or a health savings account (as defined in section 223(d))” after “paid into an Archer MSA”.
 
@@ -620,6 +632,12 @@ Subsec. (c)(3). Pub. L. 105–34, §1602(a)(2), redesignated subpars. (B) to (D)
 
 Subsec. (d)(2)(C). Pub. L. 105–34, §1602(a)(3), substituted “described in clauses (i) and (ii) of subsection (c)(1)(A)” for “an eligible individual”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 207(19) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
+Pub. L. 108–311, title III, §322(c), Oct. 4, 2004, 118 Stat. 1183, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2004.”
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
@@ -641,6 +659,14 @@ Amendment by Pub. L. 105–33 applicable to taxable years beginning after Dec. 3
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as an Effective Date of 1996 Amendment note under section 62 of this title.
+
+#### Time for Filing Reports, Etc.
+
+Pub. L. 108–311, title III, §322(d), Oct. 4, 2004, 118 Stat. 1183, provided that:
+
+“(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2004, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Oct. 4, 2004\].
+
+“(2) The determination and publication required by section 220(j)(5) of such Code with respect to calendar year 2004 shall be treated as timely if made before the close of the 120-day period beginning on the date of the enactment of this Act. If the determination under the preceding sentence is that 2004 is a cut-off year under section 220(i) of such Code, the cut-off date under such section 220(i) shall be the last day of such 120-day period.”
 
 #### Monitoring of Participation in Medical Savings Accounts
 
@@ -667,8 +693,4 @@ Section 301(<i>l</i>) of Pub. L. 104–191 provided that: “The Comptroller Gen
 &emsp;“(6) other relevant items.
 
 > A report on the results of the study conducted under this subsection shall be submitted to the Congress no later than January 1, 1999.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 35, 62, 106, 138, 223, 530, 848, 4973, 4975, 4980E, 6051, 6693 of this title; title 42 section 300e.
 

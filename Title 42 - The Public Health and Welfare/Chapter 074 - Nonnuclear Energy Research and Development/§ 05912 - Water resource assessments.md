@@ -38,9 +38,11 @@ The Council shall include a broad survey and analysis of regional and national w
 
 The Secretary shall, upon enactment of this subsection, be a member of the Council.
 
-(Pub. L. 93–577, §13, Dec. 31, 1974, 88 Stat. 1893; Pub. L. 95–39, title I, §110, June 3, 1977, 91 Stat. 186; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
+(Pub. L. 93–577, §13, Dec. 31, 1974, 88 Stat. 1893; Pub. L. 95–39, title I, §110, June 3, 1977, 91 Stat. 186; Pub. L. 109–58, title X, §1009(b)(9), Aug. 8, 2005, 119 Stat. 935.)
 
 #### Amendments
+
+2005—Subsecs. (b) to (d), (f). Pub. L. 109–58 substituted “Secretary” for “Administrator”.
 
 1977—Subsec. (a). Pub. L. 95–39, §110(1), substituted “The Water Resources Council” for “At the request of the Administrator, the Water Resources Council”.
 
@@ -49,8 +51,6 @@ Subsec. (b). Pub. L. 95–39, §110(2), substituted “the Administrator shall, 
 Subsec. (f). Pub. L. 95–39, §110(3), added subsec. (f).
 
 #### Transfer of Functions
-
-“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Energy Research and Development Administration, in subsecs. (b) to (d) and (f) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 Functions of Council on Environmental Quality and Office of Environmental Quality relating to evaluation provided for by section 5910 of this title transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 1 of 1977, §5E, 42 F.R. 56101, 91 Stat. 1634, set out in the Appendix to Title 5, Government Organization and Employees, effective Feb. 26, 1978, pursuant to Ex. Ord. No. 12040, Feb. 24, 1978, 43 F.R. 8097, formerly set out under section 5910 of this title.
 

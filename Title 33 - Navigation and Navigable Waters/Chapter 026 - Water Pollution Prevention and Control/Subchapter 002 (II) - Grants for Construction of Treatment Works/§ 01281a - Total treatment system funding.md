@@ -16,5 +16,5 @@ Section 3102 of title 42, referred to in par. (2), was omitted from the Code pur
 
 #### Codification
 
-Section was enacted as part of the Clean Water Act of 1977, Pub. L. 95–217, and not as part of the FederalWater Pollution Control Act which comprises this chapter.
+Section was enacted as part of the Clean Water Act of 1977, Pub. L. 95–217, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 

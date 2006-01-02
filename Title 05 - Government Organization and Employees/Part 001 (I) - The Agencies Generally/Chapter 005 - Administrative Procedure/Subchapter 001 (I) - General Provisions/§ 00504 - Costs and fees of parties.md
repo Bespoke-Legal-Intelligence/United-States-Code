@@ -1,6 +1,6 @@
 ### §504. Costs and fees of parties
 
-(a)(1) An agency that conducts an adversary adjudication shall award, to a prevailing party other than the United States, fees and other expenses incurred by that party in connection with that proceeding, unless the adjudicative officer of the agency finds that the position of the agency was substantially justified or that special circumstances make an award unjust. Whether or not the position of the agency wassubstantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
+(a)(1) An agency that conducts an adversary adjudication shall award, to a prevailing party other than the United States, fees and other expenses incurred by that party in connection with that proceeding, unless the adjudicative officer of the agency finds that the position of the agency was substantially justified or that special circumstances make an award unjust. Whether or not the position of the agency was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
 
 (2) A party seeking an award of fees and other expenses shall, within thirty days of a final disposition in the adversary adjudication, submit to the agency an application which shows that the party is a prevailing party and is eligible to receive an award under this section, and the amount sought, including an itemized statement from any attorney, agent, or expert witness representing or appearing in behalf of the party stating the actual time expended and the rate at which fees and other expenses were computed. The party shall also allege that the position of the agency was not substantially justified. When the United States appeals the underlying merits of an adversary adjudication, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made under this section until a final and unreviewable decision is rendered by the court on the appeal or until the underlying merits of the case have been finally determined pursuant to the appeal.
 
@@ -24,7 +24,7 @@
 
 (2) Except as otherwise provided in paragraph (1), the definitions provided in section 551 of this title apply to this section.
 
-(c)(1) After consultation with the Chairman of the Administrative Conference of the United States, each agency shall by rule establish uniform procedures for the submission and consideration of applications for an award of fees and other expenses. If a court reviews the underlying decision of the adversary adjudication, an award for fees and other expenses may be made only pursuant to section 2412(d)(3) of title 28, United States Code.
+(c)(1) After consultation with the Chairman of the Administrative Conference of the United States, each agency shall by rule establish uniform procedures for the submission and consideration of applications for an award of fees and other expenses. If a court reviews the underlying decision of the adversary adjudication, an award for fees and other expenses may be made onlypursuant to section 2412(d)(3) of title 28, United States Code.
 
 (2) If a party other than the United States is dissatisfied with a determination of fees and other expenses made under subsection (a), that party may, within 30 days after the determination is made, appeal the determination to the court of the United States having jurisdiction to review the merits of the underlying decision of the agency adversary adjudication. The court's determination on any appeal heard under this paragraph shall be based solely on the factual record made before the agency. The court may modify the determination of fees and other expenses only if the court finds that the failure to make an award of fees and other expenses, or the calculation of the amount of the award, was unsupported by substantial evidence.
 
@@ -76,7 +76,7 @@ Subsec. (c)(2). Pub. L. 99–80, §1(d), amended par. (2) generally. Prior to am
 
 Subsec. (d). Pub. L. 99–80, §1(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(1) Fees and other expenses awarded under this section may be paid by any agency over which the partyprevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of final judgments is made pursuant to section 2414 of title 28, United States Code.
+“(1) Fees and other expenses awarded under this section may be paid by any agency over which the party prevails from any funds made available to the agency, by appropriation or otherwise, for such purpose. If not paid by any agency, the fees and other expenses shall be paid in the same manner as the payment of finaljudgments is made pursuant to section 2414 of title 28, United States Code.
 
 “(2) There is authorized to be appropriated to each agency for each of the fiscal years 1982, 1983, and 1984, such sums as may be necessary to pay fees and other expenses awarded under this section in such fiscal years.”
 
@@ -154,7 +154,7 @@ Section 202 of title II of Pub. L. 96–481 provided that:
 
 “(a) The Congress finds that certain individuals, partnerships, corporations, and labor and other organizations may be deterred from seeking review of, or defending against, unreasonable governmental action because of the expense involved in securing the vindication of their rights in civil actions and in administrative proceedings.
 
-“(b) The Congress further finds that because of the greater resources and expertise of the United States the standard for an award of fees against the United States should be different from the standard governingan award against a private litigant, in certain situations.
+“(b) The Congress further finds that because of the greater resources and expertise of the United States the standard for an award of fees against the United States should be different from the standard governing an award against a private litigant, in certain situations.
 
 “(c) It is the purpose of this title \[see Short Title note above\]—
 

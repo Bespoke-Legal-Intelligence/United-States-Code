@@ -20,5 +20,13 @@ Grant funds received under this subchapter shall not be used for land acquisitio
 
 The Attorney General shall not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.
 
-(Pub. L. 90–351, title I, §1903, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1899.)
+#### (e) Priority for partnerships with community-based drug treatment programs
+
+In considering an application submitted by a State under section 3796ff–1 of this title, the Attorney General shall give priority to an application that involves a partnership between the State and a community-based drug treatment program within the State.
+
+(Pub. L. 90–351, title I, §1903, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1899; amended Pub. L. 109–162, title XI, §1145(c), Jan. 5, 2006, 119 Stat. 3112.)
+
+#### Amendments
+
+2006—Subsec. (e). Pub. L. 109–162 added subsec. (e).
 

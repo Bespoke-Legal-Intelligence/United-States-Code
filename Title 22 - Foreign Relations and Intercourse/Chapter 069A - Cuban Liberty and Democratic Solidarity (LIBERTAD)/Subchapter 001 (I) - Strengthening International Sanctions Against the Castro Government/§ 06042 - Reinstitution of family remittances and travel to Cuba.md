@@ -6,7 +6,7 @@ It is the sense of the Congress that the President should—
 
 &emsp;(B) if licenses described in subparagraph (A) are reinstituted, require a specific license for remittances described in subparagraph (A) in amounts of more than $500; and
 
-&emsp;(2) before considering the reinstitution of general licenses for travel to Cuba by individuals resident in the United States who are family members of Cuban nationals who are resident in Cuba, insist on such actions by the Cuban Government as abrogation of the sanction for departure from Cuba by refugees, release of political prisoners, recognition of the right of association, and other fundamental freedoms.
+&emsp;(2) before considering the reinstitution of general licenses for travel to Cuba by individuals resident in the United States who are family members of Cuban nationals who are resident in Cuba, insist on such actions by the Cuban Government as abrogation of the sanction for departure from Cuba by refugees, release of political prisoners, recognition of theright of association, and other fundamental freedoms.
 
 (Pub. L. 104–114, title I, §112, Mar. 12, 1996, 110 Stat. 802.)
 

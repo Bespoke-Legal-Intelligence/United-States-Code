@@ -14,7 +14,7 @@
 
 Funds provided under section 13703 or 13704 of this title may be applied to the cost of—
 
-&emsp;(1) altering existing correctional facilities to provide separate facilities for juveniles under the jurisdiction of an adult criminal court who are detained or are serving sentences in adult prisons or jails;
+&emsp;(1) altering existing correctional facilities to provide separate facilities for juveniles underthe jurisdiction of an adult criminal court who are detained or are serving sentences in adult prisons or jails;
 
 &emsp;(2) providing correctional staff who are responsible for supervising juveniles who are detained or serving sentences under the jurisdiction of an adult criminal court with orientation and ongoing training regarding the unique needs of such offenders; and
 

@@ -42,13 +42,13 @@ Existing water-related range improvements inside the park may be maintained by t
 
 #### (h) Reservation to United States of new express or implied water or water-related right not established; exception
 
-Nothing in this subchapter shall be construed to establish a new express or implied reservation to the United States of any water or water-related right with respect to the land described insection 410mm of this title: <i>Provided</i>, That the United States shall be entitled to only that express or implied reserved water right which may have been associated with the initial establishment and withdrawal of Humboldt National Forest and the Lehman Caves National Monument from the public domain with respect to the land described in section 410mm of this title. No provision of this subchapter shall be construed as authorizing the appropriation of water, except in accordance with the substantive and procedural law of the State of Nevada.
+Nothing in this subchapter shall be construed to establish a new express or implied reservation to the United States of any water or water-related right with respect to the land described in section 410mm of this title: <i>Provided</i>, That the United States shall be entitled to only that express or implied reserved water right which may have been associated with the initial establishment and withdrawal of Humboldt National Forest and the Lehman Caves National Monument from the public domain with respect to the land described in section 410mm of this title. No provision of this subchapter shall be construed as authorizing the appropriation of water, except in accordance with the substantive and procedural law of the State of Nevada.
 
 #### (i) Cooperative agreements with Federal and other agencies; interpretation of Great Basin physiographic region
 
 In order to encourage unified and cost-effective interpretation of the Great Basin physiographic region, the Secretary is authorized and encouraged to enter into cooperative agreements with other Federal, State, and local public departments and agencies providing for the interpretation of the Great Basin physiographic region. Such agreements shall include, but not be limited to, authority for the Secretary to develop and operate interpretive facilities and programs on lands and waters outside of the boundaries of such park, with the concurrence of the owner or administrator thereof.
 
-(Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\],Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 

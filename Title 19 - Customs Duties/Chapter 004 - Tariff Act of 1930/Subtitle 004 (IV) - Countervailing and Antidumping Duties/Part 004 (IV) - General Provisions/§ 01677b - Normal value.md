@@ -38,7 +38,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (2) Fictitious markets
 
-&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may beconsidered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
+&emsp;No pretended sale or offer for sale, and no sale or offer for sale intended to establish a fictitious market, shall be taken into account in determining normal value. The occurrence of different movements in the prices at which different forms of the foreign like product are sold (or, in the absence of sales, offered for sale) in the exporting country after the issuance of an antidumping duty order may be considered by the administering authority as evidence of the establishment of a fictitious market for the foreign like product if the movement in such prices appears to reduce the amount by which the normal value exceeds the export price (or the constructed export price) of the subject merchandise.
 
 #### (3) Exportation from an intermediate country
 
@@ -122,7 +122,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;There are reasonable grounds to believe or suspect that sales of the foreign like product were made at prices that are less than the cost of production of the product, if—
 
-&emsp;&emsp;&emsp;(i) in an investigation initiated under section 1673a of this title or a review conducted under section 1675 of this title, an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title provides information, based upon observed prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
+&emsp;&emsp;&emsp;(i) in an investigation initiated under section 1673a of this title or a review conducted under section 1675 of this title, an interested party described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title provides information, based uponobserved prices or constructed prices or costs, that sales of the foreign like product under consideration for the determination of normal value have been made at prices which represent less than the cost of production of the product; or
 
 &emsp;&emsp;&emsp;(ii) in a review conducted under section 1675 of this title involving a specific exporter, the administering authority disregarded some or all of the exporter's sales pursuant to paragraph (1) in the investigation or if a review has been completed, in the most recently completed review.
 
@@ -226,7 +226,7 @@ For purposes of this subtitle, the constructed value of imported merchandise sha
 
 &emsp;(3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
 
-> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposedon such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
+> For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials.
 
 #### (f) Special rules for calculation of cost of production and for calculation of constructed value
 
@@ -302,7 +302,7 @@ Amendment by sections 1316(a) and 1318 of Pub. L. 100–418 applicable with resp
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 615 of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 620(b) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+Amendment by section 615 of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 620(b) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct.30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

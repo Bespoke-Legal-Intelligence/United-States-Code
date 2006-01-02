@@ -15,10 +15,6 @@
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(15), Feb. 10, 1996, 110 Stat. 496, substituted “promotion” for “promotions” in item 12243.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 591 of this title.
-
 
 ---
 

@@ -38,7 +38,7 @@ Victim Defined.—In this section, the term “victim” has the meaning given t
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–184, §5(1), substituted “to all victims of any offense for which an enhancedpenalty is provided under section 2326” for “for any offense under this chapter”.
+1998—Subsec. (a). Pub. L. 105–184, §5(1), substituted “to all victims of any offense for which an enhanced penalty is provided under section 2326” for “for any offense under this chapter”.
 
 Subsec. (c). Pub. L. 105–184, §5(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
 

@@ -10,7 +10,7 @@ The Secretary shall prescribe requirements for the eligibility of United States 
 
 #### (c) Limitation on loans guaranteed
 
-The Secretary may not guarantee a loan for a United States commercial provider under thissection unless the Secretary determines that credit would not otherwise be reasonably available at the time of the guarantee for the commercial reusable in-space transportation service or system to be produced utilizing the proceeds of the loan.
+The Secretary may not guarantee a loan for a United States commercial provider under this section unless the Secretary determines that credit would not otherwise be reasonably available at the time of the guarantee for the commercial reusable in-space transportation service or system to be produced utilizing the proceeds of the loan.
 
 #### (d) Credit subsidy
 
@@ -20,7 +20,7 @@ The Secretary may not guarantee a loan for a United States commercial provider u
 
 #### (2) Periodic disbursements
 
-&emsp;In the case of a loan guarantee in which proceeds of the loan are disbursed over time, the Secretary shall collect the amount required under this subsection on a pro rata basis, as determined by the Secretary, at the time of each disbursement.
+&emsp;In the case of a loan guarantee in which proceeds of the loan are disbursed over time, the Secretary shall collect the amount requiredunder this subsection on a pro rata basis, as determined by the Secretary, at the time of each disbursement.
 
 #### (e) Other terms and conditions
 

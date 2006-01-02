@@ -18,7 +18,7 @@ The Directors shall deposit fees collected under subsection (a) of this section 
 
 #### (d) Transitional fee structures
 
-(1) Until different fees are prescribed and take effect under subsection (c) of this section, the percentages and limitations on maximummonthly amount that are applicable to fees charged residents of the Retirement Home are (subject to any adjustment that the Secretary of Defense determines appropriate) as follows:
+(1) Until different fees are prescribed and take effect under subsection (c) of this section, the percentages and limitations on maximum monthly amount that are applicable to fees charged residents of the Retirement Home are (subject to any adjustment that the Secretary of Defense determines appropriate) as follows:
 
 &emsp;(A) For months beginning before January 1, 2002—
 

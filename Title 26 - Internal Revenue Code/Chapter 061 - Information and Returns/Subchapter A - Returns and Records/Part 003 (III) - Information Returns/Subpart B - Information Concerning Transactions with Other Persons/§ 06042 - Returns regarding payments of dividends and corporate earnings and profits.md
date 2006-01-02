@@ -14,7 +14,7 @@
 
 #### (2) Returns required by the Secretary
 
-&emsp;Every person who makes payments of dividends aggregating less than $10 to any other person during any calendar year shall, when required by the Secretary, make a return setting forth the aggregate amount of such payments, and the name and address of the person to whom paid.
+&emsp;Every person who makes payments of dividends aggregating less than $10 to any otherperson during any calendar year shall, when required by the Secretary, make a return setting forth the aggregate amount of such payments, and the name and address of the person to whom paid.
 
 #### (b) Dividend defined
 
@@ -113,8 +113,4 @@ Dividends and interest.—The amendments made by this section \[enacting section
 “(2)
 
 Patronage dividends.—The amendments made by this section shall apply to payments of amounts described in section 6044(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made on or after January 1, 1963, with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after January 1, 1963.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3406, 6041, 6652, 6724 of this title.
 

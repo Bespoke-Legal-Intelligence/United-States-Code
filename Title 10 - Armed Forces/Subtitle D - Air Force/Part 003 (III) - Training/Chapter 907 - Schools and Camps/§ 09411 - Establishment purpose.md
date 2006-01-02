@@ -20,7 +20,3 @@ June 3, 1916, ch. 134, §47d (words before 1st semicolon of 1st sentence); added
 
 The words “upon military reservations or elsewhere” are omitted as surplusage. The words “of the Air Force” are inserted for clarity. The words “or enlistment as” are inserted for clarity.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9412, 9413, 9414 of this title.
-

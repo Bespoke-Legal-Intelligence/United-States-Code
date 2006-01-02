@@ -10,7 +10,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 &emsp;(A) be a citizen of the United States or an alien lawfully admitted for permanent residence in the United States;
 
-&emsp;(B) meet the requirements for admission as a trainee of the State or local police force towhich the participant will be assigned pursuant to section 14099(5) of this title, including achievement of satisfactory scores on any applicable examination, except that failure to meet the age requirement for a trainee of the State or local police shall not disqualify the applicant if the applicant will be of sufficient age upon completing an undergraduate course of study;
+&emsp;(B) meet the requirements for admission as a trainee of the State or local police force to which the participant will be assigned pursuant to section 14099(5) of this title, including achievement of satisfactory scores on any applicable examination, except that failure to meet the age requirement for a trainee of the State or local police shall not disqualify the applicant if the applicant will be of sufficient age upon completing an undergraduate course of study;
 
 &emsp;(C) possess the necessary mental and physical capabilities and emotional characteristics to discharge effectively the duties of a law enforcement officer;
 
@@ -34,7 +34,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 (ii) Clause (i) shall not be construed to preclude counting a participant's previous period of law enforcement experience for purposes other than satisfaction of the requirements of section 14098 of this title, such as for purposes of determining such a participant's pay and other benefits, rank, and tenure.
 
-(3) It is the intent of this part that there shall be no more than 20,000 participants in each graduating class. The Director shall approve State plans providing in the aggregate for such enrollment of applicants as shall assure, as nearly as possible, annual graduating classes of 20,000. In a year in which applications are received in a number greater than that which will produce, in the judgment of the Director, a graduating class of more than 20,000, the Director shall, in deciding which applications to grant, give preference to those who will be participating in State plans that provide law enforcement personnel to areas of greatest need.
+(3) It is the intent of this part that there shall be no more than 20,000 participants in each graduating class. The Director shall approve State plans providing in the aggregate for such enrollment of applicants as shall assure, as nearly aspossible, annual graduating classes of 20,000. In a year in which applications are received in a number greater than that which will produce, in the judgment of the Director, a graduating class of more than 20,000, the Director shall, in deciding which applications to grant, give preference to those who will be participating in State plans that provide law enforcement personnel to areas of greatest need.
 
 #### (c) Recruitment of minorities
 

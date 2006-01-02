@@ -44,13 +44,13 @@
 
 &emsp;(ix) Section 20 of this title.
 
-(B)(i) Except as provided in clause (ii) of this subparagraph, but notwithstanding any other provision of this chapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any broker or dealer subject to the registration requirement of paragraph (2), or any broker or dealer exempt from registration pursuant to paragraph (3), from any provision of this chapter or of any rule or regulation thereunder, to the extent the exemption is necessary or appropriate in the public interest and is consistent with the protection of investors.
+(B)(i) Except as provided in clause (ii) of this subparagraph, but notwithstanding any other provision of this chapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any broker or dealersubject to the registration requirement of paragraph (2), or any broker or dealer exempt from registration pursuant to paragraph (3), from any provision of this chapter or of any rule or regulation thereunder, to the extent the exemption is necessary or appropriate in the public interest and is consistent with the protection of investors.
 
 (ii) The Commission shall, by rule or regulation, determine the procedures under which an exemptive order under this section shall be granted and may, in its sole discretion, decline to entertain any application for an order of exemption under this section.
 
 (C)(i) A broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3), shall not be required to become a member of any futures association registered under section 21 of this title.
 
-(ii) No futures association registered under section 21 of this title shall limit its membersfrom carrying an account, accepting an order, or transacting business with a broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3).
+(ii) No futures association registered under section 21 of this title shall limit its members from carrying an account, accepting an order, or transacting business with a broker or dealer that is registered as a futures commission merchant or introducing broker pursuant to paragraph (2) or an associated person thereof, or that is a floor broker or floor trader exempt from registration pursuant to paragraph (3).
 
 #### (b) Financial requirements for futures commission merchants and introducing brokers
 

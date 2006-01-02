@@ -34,7 +34,7 @@ Acquisition of Housing With Special Features.—(1) Subject to paragraph (3), th
 
 (b)
 
-Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secretary shallassist any disabled veteran described in paragraph (2) (other than a veteran who is eligible for assistance under subsection (a))—
+Adaptations to Residence of Veteran.—(1) Subject to paragraph (3), the Secretary shall assist any disabled veteran described in paragraph (2) (other than a veteran who is eligible for assistance under subsection (a))—
 
 &emsp;(A) in acquiring such adaptations to such veteran's residence as are determined by the Secretary to be reasonably necessary because of such disability; or
 

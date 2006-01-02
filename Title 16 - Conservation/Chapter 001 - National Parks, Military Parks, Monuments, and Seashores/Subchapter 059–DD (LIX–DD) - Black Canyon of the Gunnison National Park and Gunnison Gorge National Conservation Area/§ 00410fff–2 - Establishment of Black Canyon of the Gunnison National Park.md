@@ -22,7 +22,7 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 (1)(A) Consistent with the requirements of this subsection, including the limitation in paragraph (3), the Secretary shall allow the grazing of livestock within the park to continue where authorized under permits or leases in existence as of October 21, 1999. Grazing shall be at no more than the current level, and subject to applicable laws and National Park Service regulations.
 
-(B) Nothing in this subsection shall be construed as extending grazing privileges for anyparty or their assignee in any area of the park where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
+(B) Nothing in this subsection shall be construed as extending grazing privileges for any party or their assignee in any area of the park where, prior to October 21, 1999, such use was scheduled to expire according to the terms of a settlement by the United States Claims Court affecting property incorporated into the boundary of the Black Canyon of the Gunnison National Monument.
 
 (C) Nothing in this subsection shall prohibit the Secretary from accepting the voluntary termination of leases or permits for grazing within the park.
 
@@ -36,7 +36,7 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 &emsp;(B) with respect to the permit or lease issued to LeValley Ranch Ltd., for the lifetime of the last surviving limited partner as of October 21, 1999;
 
-&emsp;(C) with respect to the permit or lease issued to Sanburg Herefords, L.L.P., for the lifetime of the last surviving general partner as of October 21, 1999; and
+&emsp;(C) with respect to the permit or lease issued to Sanburg Herefords, L.L.P., for the lifetimeof the last surviving general partner as of October 21, 1999; and
 
 &emsp;(D) with respect to a permit or lease issued to a corporation or other legal entity, for a period which shall terminate on the same date that the last permit or lease held under subparagraphs (A), (B), or (C) terminates, unless the corporation or legal entity dissolves or terminates before such time, in which case the permit or lease shall terminate with the corporation or legal entity.
 

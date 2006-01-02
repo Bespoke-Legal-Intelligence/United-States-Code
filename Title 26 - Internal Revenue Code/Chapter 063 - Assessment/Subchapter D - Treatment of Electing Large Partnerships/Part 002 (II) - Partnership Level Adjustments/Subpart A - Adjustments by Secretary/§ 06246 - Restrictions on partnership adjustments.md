@@ -34,7 +34,3 @@ If no proceeding under section 6247 is begun with respect to any notice of a par
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1013.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6245, 6255, 7421 of this title.
-

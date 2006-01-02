@@ -58,7 +58,7 @@ Other circumstances.—Any person who, in the course of a violation of subsectio
 
 &emsp;(3)
 
-Special circumstances.—If the death of another results from a person's violation of subsection (a), the person shall be fined not more than $2,000,000 and punished by imprisonment for life.
+Special circumstances.—If the death of another results from a person's violation of subsection (a), the person shall be fined notmore than $2,000,000 and punished by imprisonment for life.
 
 (d)
 

@@ -20,7 +20,7 @@ If any part of any understatement of liability with respect to any return or cla
 
 &emsp;(2) to any reckless or intentional disregard of rules or regulations by any such person,
 
-> such person shall pay a penalty of $1,000 with respect to such return or claim. With respect toany return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).
+> such person shall pay a penalty of $1,000 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a).
 
 #### (c) Extension of period of collection where preparer pays 15 percent of penalty
 
@@ -65,8 +65,4 @@ Subsec. (c)(1). Pub. L. 101–239, §7737(a), inserted at end “Nothing in this
 #### Effective Date of 1989 Amendment
 
 Section 7732(b) of Pub. L. 101–239 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to documents prepared after December 31, 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6503, 6511, 6696, 6701, 7407, 7421 of this title.
 

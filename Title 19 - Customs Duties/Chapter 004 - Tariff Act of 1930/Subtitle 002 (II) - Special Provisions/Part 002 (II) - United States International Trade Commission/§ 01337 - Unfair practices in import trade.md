@@ -46,7 +46,7 @@
 
 #### (c) Determinations; review
 
-The Commission shall determine, with respect to each investigation conducted by it under this section, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) of this section shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) of this section may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) of this section with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with section 706 of title 5. Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.
+The Commission shall determine, with respect to each investigation conducted by it under thissection, whether or not there is a violation of this section, except that the Commission may, by issuing a consent order or on the basis of an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration, terminate any such investigation, in whole or in part, without making such a determination. Each determination under subsection (d) or (e) of this section shall be made on the record after notice and opportunity for a hearing in conformity with the provisions of subchapter II of chapter 5 of title 5. All legal and equitable defenses may be presented in all cases. A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection. Any person adversely affected by a final determination of the Commission under subsection (d), (e), (f), or (g) of this section may appeal such determination, within 60 days after the determination becomes final, to the United States Court of Appeals for the Federal Circuit for review in accordance with chapter 7 of title 5. Notwithstanding the foregoing provisions of this subsection, Commission determinations under subsections (d), (e), (f), and (g) of this section with respect to its findings on the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the amount and nature of bond, or the appropriate remedy shall be reviewable in accordance with section 706 of title 5. Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.
 
 #### (d) Exclusion of articles from entry
 
@@ -88,7 +88,7 @@ The Commission shall determine, with respect to each investigation conducted by 
 
 &emsp;(E) the complainant seeks relief limited solely to that person;
 
-> the Commission shall presume the facts alleged in the complaint to be true and shall, upon request, issue an exclusion from entry or a ceaseand desist order, or both, limited to that person unless, after considering the effect of such exclusion or order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the Commission finds that such exclusion or order should not be issued.
+> the Commission shall presume the facts alleged in the complaint to be true and shall, upon request, issue an exclusion from entry or a cease and desist order, or both, limited to that person unless, after considering the effect of such exclusion or order upon the public health and welfare, competitive conditions in the United States economy, the production of like or directly competitive articles in the United States, and United States consumers, the Commission finds that such exclusion or order should not be issued.
 
 (2) In addition to the authority of the Commission to issue a general exclusion from entry of articles when a respondent appears to contest an investigation concerning a violation of the provisions of this section, a general exclusion from entry of articles, regardless of the source or importer of the articles, may be issued if—
 
@@ -174,7 +174,7 @@ For purposes of this section and sections 1338 and 1340 <sup>1</sup> of this ti
 
 &emsp;&emsp;(ii) the administration of a bond posted pursuant to subsection (e), (f), or (j) of this section,
 
-&emsp;&emsp;(iii) the administration or enforcement of an exclusion order issued pursuant to subsection (d), (e), or (g) of this section, a cease and desist order issued pursuant to subsection (f) of this section, or a consent order issued pursuant to subsection (c) of this section,
+&emsp;&emsp;(iii) the administration or enforcement of an exclusion order issued pursuant to subsection (d), (e), or (g) of this section, a ceaseand desist order issued pursuant to subsection (f) of this section, or a consent order issued pursuant to subsection (c) of this section,
 
 &emsp;&emsp;(iv) proceedings for the modification or rescission of a temporary or permanent order issued under subsection (d), (e), (f), (g), or (i) of this section, or a consent order issued under this section, or
 
@@ -202,7 +202,7 @@ The reference to the Philippine Islands, formerly contained in subsec. (k), was 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title III, §316, 42Stat. 943. That section was superseded by section 337 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title III, §316, 42 Stat. 943. That section was superseded by section 337 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 #### Amendments
 
@@ -236,7 +236,7 @@ Pub. L. 103–465, §261(d)(1)(B)(ii)(II)–(V), in second sentence, struck out 
 
 Pub. L. 103–465, §261(d)(1)(B)(ii)(I), as amended by Pub. L. 104–295, §20(b)(11), in first sentence, struck out reference to section 1303 of this title after “within the purview” and made technical amendment to reference to part II of subtitle IV of this chapter by substituting in the original “of subtitle B of title VII of this Act” for “of section 303 or of subtitle B of title VII of the Tariff Act of 1930”.
 
-Subsec. (c). Pub. L. 103–465, §321(a)(2), in first sentence, substituted “an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration” for “a settlement agreement”, inserted after third sentence “A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raising such counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection.”, and inserted at end “Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.”
+Subsec. (c). Pub. L. 103–465, §321(a)(2), in first sentence, substituted “an agreement between the private parties to the investigation, including an agreement to present the matter for arbitration” for “a settlement agreement”, inserted after third sentence “A respondent may raise any counterclaim in a manner prescribed by the Commission. Immediately after a counterclaim is received by the Commission, the respondent raisingsuch counterclaim shall file a notice of removal with a United States district court in which venue for any of the counterclaims raised by the party would exist under section 1391 of title 28. Any counterclaim raised pursuant to this section shall relate back to the date of the original complaint in the proceeding before the Commission. Action on such counterclaim shall not delay or affect the proceeding under this section, including the legal and equitable defenses that may be raised under this subsection.”, and inserted at end “Determinations by the Commission under subsections (e), (f), and (j) of this section with respect to forfeiture of bonds and under subsection (h) of this section with respect to the imposition of sanctions for abuse of discovery or abuse of process shall also be reviewable in accordance with section 706 of title 5.”
 
 Subsec. (d). Pub. L. 103–465, §321(a)(5)(A), designated existing provisions as par. (1), substituted “there is a violation” for “there is violation” in first sentence, and added par. (2).
 
@@ -258,7 +258,7 @@ Subsec. (n)(2)(A). Pub. L. 103–465, §321(a)(7)(A), amended subpar. (A) genera
 
 Subsec. (n)(2)(C). Pub. L. 103–465, §321(a)(7)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “an officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under this section resulting from the investigation in connection with which the information is submitted.”
 
-1992—Subsec. (b)(3). Pub. L. 102–563 amended second sentence generally. Prior to amendment, second sentence read as follows: “If the Commission has reason to believe the matter before it is based solely on allegedacts and effects which are within the purview of section 1303, 1671, or 1673 of this title, it shall terminate, or not institute, any investigation into the matter.”
+1992—Subsec. (b)(3). Pub. L. 102–563 amended second sentence generally. Prior to amendment, second sentence read as follows: “If the Commission has reason to believe the matter before it is based solely on alleged acts and effects which are within the purview of section 1303, 1671, or 1673 of this title, it shall terminate, or not institute, any investigation into the matter.”
 
 1988—Subsec. (a). Pub. L. 100–418, §1342(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unfair methods of competition and unfair acts in the importation of articles into the United States, or in their sale by the owner, importer, consignee, or agent of either, the effect or tendency of which is to destroy or substantially injure an industry, efficiently and economically operated, in the United States, or to prevent the establishment of such an industry, or to restrain or monopolize trade and commerce in the United States, are declared unlawful, and when found by the Commission to exist shall be dealt with, in addition to any other provisions of law, as provided in this section.”
 
@@ -342,7 +342,7 @@ Subsec. (j). Pub. L. 93–618 added subsec. (j) defining “United States”, fo
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 261(d)(1)(B)(ii) of Pub. L. 103–465 effective on effective date of title II of Pub. L.103–465, Jan. 1, 1995, see section 261(d)(2) of Pub. L. 103–465, set out as a note under section 1315 of this title.
+Amendment by section 261(d)(1)(B)(ii) of Pub. L. 103–465 effective on effective date of title II of Pub. L. 103–465, Jan. 1, 1995, see section 261(d)(2) of Pub. L. 103–465, set out as a note under section 1315 of this title.
 
 Section 322 of title III of Pub. L. 103–465 provided that: “The amendments made by this subtitle \[subtitle C (§§321, 322) of title III of Pub. L. 103–465, enacting sections 1368 and 1659 of Title 28, Judiciary and Judicial Procedure, and amending this section and section 1446 of Title 28\] apply—
 
@@ -409,6 +409,18 @@ Findings.—The Congress finds that—
 “(b)
 
 Purpose.—The purpose of this part \[part 3 (§§1341, 1342) of subtitle C of title I of Pub. L. 100–418, amending this section, repealing section 1337a of this title, and enacting provisions set out as a note above\] is to amend section 337 of the Tariff Act of 1930 to make it a more effective remedy for the protection of United States intellectual property rights.”
+
+#### Assignment of Certain Functions
+
+Memorandum of President of the United States, July 21, 2005, 70 F.R. 43251, provided:
+
+Memorandum for the United States Trade Representative
+
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 337(j)(1)(B), section 337(j)(2), and section 337(j)(4) of the Tariff Act of 1930, as amended (19 U.S.C. 1337(j)(1), (j)(2), and (j)(4)).
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

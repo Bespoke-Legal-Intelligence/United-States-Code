@@ -40,7 +40,7 @@ The Securities and Exchange Commission shall assure that accounting practices de
 
 &emsp;(3) Such other information, projections, and relationships of collected data as shall be necessary to facilitate the compilation of such data base.
 
-(Pub. L. 94–163, title V, §503, Dec. 22, 1975, 89 Stat. 958; Pub. L. 95–91, title III, §301, title IV, §402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607; Pub. L. 105–388, §5(a)(15), Nov.13, 1998, 112 Stat. 3479; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 94–163, title V, §503, Dec. 22, 1975, 89 Stat. 958; Pub. L. 95–91, title III, §301, title IV, §402, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 583, 606, 607; Pub. L. 105–388, §5(a)(15), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 

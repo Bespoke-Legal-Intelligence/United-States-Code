@@ -72,7 +72,7 @@ For definition of “this chapter”, referred to in subsecs. (c)(2), see note s
 
 Subsec. (a)(3). Pub. L. 102–554, §21(a)(2), added par. (3).
 
-Subsec. (e)(1). Pub. L. 102–554, §21(b), substituted “, ethnic, or gener” for “or ethnic”.
+Subsec. (e)(1). Pub. L. 102–554, §21(b), substituted “, ethnic, or gender” for “or ethnic”.
 
 1990—Subsec. (b)(3). Pub. L. 101–624, §1817, added par. (3).
 

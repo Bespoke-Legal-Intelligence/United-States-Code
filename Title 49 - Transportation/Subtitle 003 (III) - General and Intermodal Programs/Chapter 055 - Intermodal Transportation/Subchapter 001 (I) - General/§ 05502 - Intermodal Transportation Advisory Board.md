@@ -14,15 +14,17 @@ Membership.—The Board consists of the Secretary, who serves as chairman, and t
 
 &emsp;(3) the Maritime Administration;
 
-&emsp;(4) the Federal Railroad Administration; and
+&emsp;(4) the Federal Railroad Administration;
 
-&emsp;(5) the Federal Transit Administration.
+&emsp;(5) the Federal Transit Administration; and
+
+&emsp;(6) the Federal Motor Carrier Safety Administration.
 
 (c)
 
 Duties and Powers.—The Board shall provide recommendations for carrying out the duties of the Secretary described in section 301(3) of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 849.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 849; Pub. L. 109–59, title IV, §4145(a), Aug. 10, 2005, 119 Stat. 1749.)
 
 Historical and Revision Notes
 
@@ -39,6 +41,10 @@ Historical and Revision Notes
 49:301 (note).
 
 Dec. 18, 1991, Pub. L. 102–240, §5002(b), 105 Stat. 2158.
+
+#### Amendments
+
+2005—Subsec. (b)(6). Pub. L. 109–59 added par. (6).
 
 #### Termination of Advisory Boards
 

@@ -42,7 +42,7 @@ Assistance made available under this subpart may be used for any of the followin
 
 &emsp;(5) The development of model inservice professional development programs for arts educators and other instructional staff.
 
-&emsp;(6) Supporting collaborative activities with Federal agencies or institutions involved inarts education, arts educators, and organizations representing the arts, including State and local arts agencies involved in arts education.
+&emsp;(6) Supporting collaborative activities with Federal agencies or institutions involved in arts education, arts educators, and organizations representing the arts, including State and local arts agencies involved in arts education.
 
 &emsp;(7) Supporting model projects and programs in the performing arts for children and youth through arrangements made with the John F. Kennedy Center for the Performing Arts.
 
@@ -60,7 +60,7 @@ If the amount made available to the Secretary to carry out this subpart for any 
 
 As conditions of receiving assistance made available under this subpart, the Secretary shall require each entity receiving such assistance—
 
-&emsp;(1) to coordinate, to the extent practicable, each project or program carried out with such assistance with appropriate activities of public or private cultural agencies, institutions, and organizations, including museums, arts education associations, libraries, and theaters; and
+&emsp;(1) to coordinate, to the extent practicable, each project or program carried out with suchassistance with appropriate activities of public or private cultural agencies, institutions, and organizations, including museums, arts education associations, libraries, and theaters; and
 
 &emsp;(2) to use such assistance only to supplement, and not to supplant, any other assistance or funds made available from non-Federal sources for the activities assisted under this subpart.
 

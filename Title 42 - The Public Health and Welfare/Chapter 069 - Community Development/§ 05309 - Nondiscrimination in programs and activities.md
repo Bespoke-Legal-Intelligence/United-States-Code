@@ -6,7 +6,7 @@ No person in the United States shall on the ground of race, color, national orig
 
 #### (b) Compliance procedures available to Secretary
 
-Whenever the Secretary determines that a State or unit of general local government which is a recipient of assistance under this chapter has failed to comply with subsection (a) of this section or an applicable regulation, he shall notify the Governor of such State or the chief executive officer of such unit of local government of the noncompliance and shall request the Governor or the chief executive officer to secure compliance. If within a reasonable period of time, not to exceed sixty days, the Governor or the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to (1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted; (2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d); (3) exercise the powers and functions provided for in section 5311(a) of this title; or (4) take such other action as may be provided by law.
+Whenever the Secretary determines that a State or unit of general local government which is a recipient of assistance under this chapter has failed to comply with subsection (a) or (e) of this section or an applicable regulation, he shall notify the Governor of such State or the chief executive officer of such unit of local government of the noncompliance and shall request the Governor or the chief executive officer to secure compliance. If within a reasonable period of time, not to exceed sixty days, the Governor or the chief executive officer fails or refuses to secure compliance, the Secretary is authorized to (1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted; (2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d); (3) exercise the powers and functions provided for in section 5311(a) of this title; or (4) take such other action as may be provided by law.
 
 #### (c) Civil action by Attorney General
 
@@ -16,15 +16,33 @@ When a matter is referred to the Attorney General pursuant to subsection (b) of 
 
 The provisions of this section and section 5304(b)(2) of this title which relate to discrimination on the basis of race shall not apply to the provision of assistance by grantees under this chapter to the Hawaiian Home Lands.
 
-(Pub. L. 93–383, title I, §109, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §306, Aug. 13, 1981, 95 Stat. 392; Pub. L. 101–625, title IX, §§911, 912(a), Nov. 28, 1990, 104 Stat. 4392.)
+#### (e) Equal access
+
+#### (1) Definition
+
+&emsp;In this subsection, the term “youth organization” means an organization described under part B of subtitle II of title 36 that is intended to serve individuals under the age of 21 years.
+
+#### (2) In general
+
+&emsp;No State or unit of general local government that has a designated open forum, limited public forum, or nonpublic forum and that is a recipient of assistance under this chapter shall deny equal access or a fair opportunity to meet to, or discriminate against, any youth organization, including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America, that wishes to conduct a meeting or otherwise participate in that designated open forum, limited public forum, or nonpublic forum.
+
+(Pub. L. 93–383, title I, §109, Aug. 22, 1974, 88 Stat. 649; Pub. L. 97–35, title III, §306, Aug. 13, 1981, 95 Stat. 392; Pub. L. 101–625, title IX, §§911, 912(a), Nov. 28, 1990, 104 Stat. 4392; Pub. L. 109–148, div. A, title VIII, §8126(d), Dec. 30, 2005, 119 Stat. 2730; Pub. L. 109–163, div. A, title X, §1058(d), Jan. 6, 2006, 119 Stat. 3443.)
 
 #### References in Text
 
 The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended.Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–163, §1058(d)(1), inserted “or (e)” after “subsection (a)” in first sentence.
+
+Subsec. (e). Pub. L. 109–163, §1058(d)(2), added subsec. (e).
+
+2005—Subsec. (b). Pub. L. 109–148, §8126(d)(1), which directed amendment identical to amendment by Pub. L. 109–163, §1058(d)(1), was not executed. See 2006 Amendment note above.
+
+Subsec. (e). Pub. L. 109–148, §8126(d)(2), which directed addition of subsec. (e) substantially identical to subsec. (e) added by Pub. L. 109–163, §1058(d)(2), was not executed. See 2006 Amendment note above.
 
 1990—Subsec. (a). Pub. L. 101–625, §912(a), inserted “religion,” after “national origin,”.
 

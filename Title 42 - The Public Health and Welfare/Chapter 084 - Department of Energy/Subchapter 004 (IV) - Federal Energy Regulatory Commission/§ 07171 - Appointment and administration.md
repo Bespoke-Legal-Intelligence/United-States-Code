@@ -18,7 +18,7 @@ There is established within the Department an independent regulatory commission 
 
 #### (c) Duties and responsibilities of Chairman
 
-The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1) the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed byor assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
+The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1) the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed by or assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
 
 #### (d) Supervision and direction of members, employees, or other personnel of Commission
 
@@ -68,7 +68,7 @@ Pub. L. 101–549, title VIII, §808, Nov. 15, 1990, 104 Stat. 2690, provided th
 
 “(a)
 
-Definition.—For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solarthermal, wind, geothermal, and biomass energy production technologies.
+Definition.—For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies.
 
 “(b)
 
@@ -80,13 +80,15 @@ Model Regulations.—In conjunction with the study in subsection (b), the Commis
 
 “(d)
 
-Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
+Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmentalbenefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 108–447, div. C, title III, Dec. 8, 2004, 118 Stat. 2957, provided in part: “That notwithstanding any other provision of law, not to exceed $210,000,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2005 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the general fund shall be reduced as revenues are received during fiscal year 2005 so as to result in a final fiscal year 2005 appropriation from the general fund estimated at not more than $0.”
+Pub. L. 109–103, title III, Nov. 19, 2005, 119 Stat. 2277, provided in part: “That notwithstanding any other provision of law, not to exceed $220,400,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2006 shall be retained and used for necessary expenses in this account, and shall remain available until expended: <i>Provided further</i>, That the sum herein appropriated from the general fund shall be reduced as revenues are received during fiscal year 2006 so as to result in a final fiscal year 2006 appropriation from the general fund estimated at not more than $0.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. C, title III, Dec. 8, 2004, 118 Stat. 2957.
 
 Pub. L. 108–137, title III, Dec. 1, 2003, 117 Stat. 1859.
 

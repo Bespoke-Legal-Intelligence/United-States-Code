@@ -94,5 +94,5 @@ Purposes.—The purposes of this Act \[see Short Title of 2000 Amendment note se
 
 #### Special Rule for Fiscal Years 2000 and 2001
 
-Pub. L. 106–531, §3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: “Notwithstanding paragraph (1) of section3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001.”
+Pub. L. 106–531, §3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: “Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001.”
 

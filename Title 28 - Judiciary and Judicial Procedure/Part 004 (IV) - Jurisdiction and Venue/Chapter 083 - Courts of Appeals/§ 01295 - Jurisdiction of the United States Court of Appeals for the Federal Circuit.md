@@ -18,7 +18,7 @@
 
 &emsp;(5) of an appeal from a final decision of the United States Court of International Trade;
 
-&emsp;(6) to review the final determinations of the United States International Trade Commission relating to unfair practices in importtrade, made under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337);
+&emsp;(6) to review the final determinations of the United States International Trade Commission relating to unfair practices in import trade, made under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337);
 
 &emsp;(7) to review, by appeal on questions of law only, findings of the Secretary of Commerce under U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States (relating to importation of instruments or apparatus);
 

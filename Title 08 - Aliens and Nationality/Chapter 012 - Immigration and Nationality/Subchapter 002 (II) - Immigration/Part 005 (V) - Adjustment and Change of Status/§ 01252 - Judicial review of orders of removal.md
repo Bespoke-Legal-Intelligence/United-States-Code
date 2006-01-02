@@ -10,7 +10,7 @@
 
 #### (A) Review relating to section 1225(b)(1)
 
-&emsp;&emsp;Notwithstanding any other provision of law, no court shall have jurisdiction to review—
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to review—
 
 &emsp;&emsp;&emsp;(i) except as provided in subsection (e) of this section, any individual determination or to entertain any other cause or claim arising from or relating to the implementation or operation of an order of removal pursuant to section 1225(b)(1) of this title,
 
@@ -22,19 +22,31 @@
 
 #### (B) Denials of discretionary relief
 
-&emsp;&emsp;Notwithstanding any other provision of law, no court shall have jurisdiction to review—
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), and regardless of whether the judgment, decision, or action is made in removal proceedings, no court shall have jurisdiction to review—
 
 &emsp;&emsp;&emsp;(i) any judgment regarding the granting of relief under section 1182(h), 1182(i), 1229b, 1229c, or 1255 of this title, or
 
-&emsp;&emsp;&emsp;(ii) any other decision or action of the Attorney General the authority for which is specified under this subchapter to be in the discretion of the Attorney General, other than the granting of relief under section 1158(a) of this title.
+&emsp;&emsp;&emsp;(ii) any other decision or action of the Attorney General or the Secretary of Homeland Security the authority for which is specified under this subchapter to be in the discretion of the Attorney General or the Secretary of Homeland Security, other than the granting of relief under section 1158(a) of this title.
 
 #### (C) Orders against criminal aliens
 
-&emsp;&emsp;Notwithstanding any other provision of law, no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission, otherwise covered by section 1227(a)(2)(A)(i) of this title.
+&emsp;&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D), no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed a criminal offense covered in section 1182(a)(2) or 1227(a)(2)(A)(iii), (B), (C), or (D) of this title, or any offense covered by section 1227(a)(2)(A)(ii) of this title for which both predicate offenses are, without regard to their date of commission, otherwise covered by section 1227(a)(2)(A)(i) of this title.
+
+#### (D) Judicial review of certain legal claims
+
+&emsp;&emsp;Nothing in subparagraph (B) or (C), or in any other provision of this chapter (other than this section) which limits or eliminates judicial review, shall be construed as precluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with this section.
 
 #### (3) Treatment of certain decisions
 
-&emsp;No alien shall have a right to appeal from a decision of an immigration judge which is based solely on a certification described in section 1229a(c)(1)(B) of this title.
+&emsp;No alien shall have a right to appeal from a decision of an immigration judge which isbased solely on a certification described in section 1229a(c)(1)(B) of this title.
+
+#### (4) Claims under the United Nations Convention
+
+&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of any cause or claim under the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman, or Degrading Treatment or Punishment, except as provided in subsection (e) of this section.
+
+#### (5) Exclusive means of review
+
+&emsp;Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, a petition for review filed with an appropriate court of appeals in accordance with this section shall be the sole and exclusive means for judicial review of an order of removal entered or issued under any provision of this chapter, except as provided in subsection (e) of this section. For purposes of this chapter, in every provision that limits or eliminates judicial review or jurisdiction to review, the terms “judicial review” and “jurisdiction to review” include habeas corpus review pursuant to section 2241 of title 28, or any other habeas corpus provision, sections 1361 and 1651 of such title, and review pursuant to any other provision of law (statutory or nonstatutory).
 
 #### (b) Requirements for review of orders of removal
 
@@ -73,6 +85,8 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 &emsp;&emsp;(C) a decision that an alien is not eligible for admission to the United States is conclusive unless manifestly contrary to law, and
 
 &emsp;&emsp;(D) the Attorney General's discretionary judgment whether to grant relief under section 1158(a) of this title shall be conclusive unless manifestly contrary to the law and an abuse of discretion.
+
+> &emsp;No court shall reverse a determination made by a trier of fact with respect to the availability of corroborating evidence, as described in section 1158(b)(1)(B), 1229a(c)(4)(B), or 1231(b)(3)(C) of this title, unless the court finds, pursuant to subsection (b)(4)(B) of this section, that a reasonable trier of fact is compelled to conclude that such corroborating evidence is unavailable.
 
 #### (5) Treatment of nationality claims
 
@@ -128,7 +142,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (9) Consolidation of questions for judicial review
 
-&emsp;Judicial review of all questions of law and fact, including interpretation and application of constitutional and statutory provisions, arising from any action taken or proceeding brought to remove an alien from the United States under this subchapter shall be available only in judicial review of a final order under this section.
+&emsp;Judicial review of all questions of law and fact, including interpretation and application of constitutional and statutory provisions, arising from any action taken or proceeding brought to remove an alien from the United States under this subchapter shall be available only in judicial review of a final order under this section. Except as otherwise provided in this section, no court shall have jurisdiction, by habeas corpus under section 2241 of title 28 or any other habeas corpus provision, by section 1361 or 1651 of such title, or by any other provision of law (statutory or nonstatutory), to review such an order or such questions of law or fact.
 
 #### (c) Requirements for petition
 
@@ -212,9 +226,9 @@ A court may review a final order of removal only if—
 
 #### (g) Exclusive jurisdiction
 
-Except as provided in this section and notwithstanding any other provision of law, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
+Except as provided in this section and notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645; Pub. L. 109–13, div. B, title I, §§101(e), (f), 106(a), May 11, 2005, 119 Stat. 305, 310.)
 
 #### References in Text
 
@@ -222,9 +236,29 @@ Section 1253 of this title, referred to in subsec. (b)(8)(B), was amended genera
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (e)(1)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (f)(1), is div. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
+The Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (f)(1), isdiv. C of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–546. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1101 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (a)(2)(A). Pub. L. 109–13, §106(a)(1)(A)(i), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title” after “Notwithstanding any other provision of law” in introductory provisions.
+
+Subsec. (a)(2)(B). Pub. L. 109–13, §106(a)(1)(A)(ii), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D)” after “Notwithstanding any other provision of law” in introductory provisions.
+
+Pub. L. 109–13, §101(f)(2), inserted “and regardless of whether the judgment, decision, or action is made in removal proceedings,” before “no court shall” in introductory provisions.
+
+Subsec. (a)(2)(B)(ii). Pub. L. 109–13, §101(f)(1), inserted “or the Secretary of Homeland Security” after “Attorney General” in two places.
+
+Subsec. (a)(2)(C). Pub. L. 109–13, §106(a)(1)(A)(ii), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title, and except as provided in subparagraph (D)” after “Notwithstanding any other provision of law”.
+
+Subsec. (a)(2)(D). Pub. L. 109–13, §106(a)(1)(A)(iii), added subpar. (D).
+
+Subsec. (a)(4), (5). Pub. L. 109–13, §106(a)(1)(B), added pars. (4) and (5).
+
+Subsec. (b)(4). Pub. L. 109–13, §101(e), added concluding provisions.
+
+Subsec. (b)(9). Pub. L. 109–13, §106(a)(2), inserted at end “Except as otherwise provided in this section, no court shall have jurisdiction, by habeas corpus under section 2241 of title 28 or any other habeas corpus provision, by section 1361 or 1651 of such title, or by any other provision of law (statutory or nonstatutory), to review such an order or such questions of law or fact.”
+
+Subsec. (g). Pub. L. 109–13, §106(a)(3), inserted “(statutory or nonstatutory), including section 2241 of title 28, or any other habeas corpus provision, and sections 1361 and 1651 of such title” after “notwithstanding any other provision of law”.
 
 1996—Pub. L. 104–208, §306(a)(2), amended section generally, substituting subsecs. (a) to (g) relating to judicial review of orders of removal for former subsecs. (a) to (i) relating to apprehension and deportation of aliens.
 
@@ -270,7 +304,7 @@ Subsec. (h). Pub. L. 102–232, §309(b)(9), inserted a comma after “Parole”
 
 Subsec. (b). Pub. L. 101–649, §603(b)(2)(A), substituted “(2), (3), or (4)” for “(4), (5), (6), (7), (11), (12), (14), (15), (16), (17), (18), or (19)”.
 
-Pub. L. 101–649, §545(e), amended eighth sentence generally. Prior to amendment, eighth sentence read as follows: “Such regulations shall include requirements that—
+Pub. L. 101–649, §545(e), amended eighth sentence generally. Prior to amendment, eighth sentence read asfollows: “Such regulations shall include requirements that—
 
 &emsp;“(1) the alien shall be given notice, reasonable under all the circumstances, of the nature of the charges against him and of the time and place at which the proceedings will be held;
 
@@ -296,13 +330,23 @@ Subsec. (e). Pub. L. 97–116, §18(h)(1)(B), substituted “(18), or (19)” fo
 
 1954—Subsec. (d). Act Sept. 3, 1954, struck out “shall upon conviction be guilty of a felony.”
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–13, div. B, title I, §101(h)(3), (4), May 11, 2005, 119 Stat. 305, 306, provided that:
+
+“(3) The amendment made by subsection (e) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to all cases in which the final administrative removal order is or was issued before, on, or after such date.
+
+“(4) The amendments made by subsection (f) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to all cases pending before any court on or after such date.”
+
+Pub. L. 109–13, div. B, title I, §106(b), May 11, 2005, 119 Stat. 311, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect upon the date of the enactment of this division \[May 11, 2005\] and shall apply to cases in which the final administrative order of removal, deportation, or exclusion was issued before, on, or after the date of the enactment of this division.”
+
 #### Effective Date of 1996 Amendments
 
 Section 306(c) of div. C of Pub. L. 104–208, as amended by Pub. L. 104–302, §2(1), Oct. 11, 1996, 110 Stat. 3657, provided that:
 
 “(1)
 
-In general.—Subject to paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 1231 of this title and repealing section 1105a of this title\] shall apply as provided under section 309 \[8 U.S.C. 1101 note\], except that subsection\(g) of section 242 of the Immigration and Nationality Act \[8 U.S.C. 1252(g)\] (as added by subsection (a)), shall apply without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under such Act \[8 U.S.C. 1101 et seq.\].
+In general.—Subject to paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 1231 of this title and repealing section 1105a of this title\] shall apply as provided under section 309 \[8 U.S.C. 1101 note\], except that subsection (g) of section 242 of the Immigration and Nationality Act \[8 U.S.C. 1252(g)\] (as added by subsection (a)), shall apply without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under such Act \[8 U.S.C. 1101 et seq.\].
 
 “(2)
 
@@ -346,7 +390,7 @@ Notice-related provisions.—
 
 &emsp;“(A) Subsections (a), (b), (c), and (e)(1) of section 242B of the Immigration and Nationality Act \[former 8 U.S.C. 1252b(a), (b), (c) and (e)(1)\] (as inserted by the amendment made by subsection (a)), and the amendment made by subsection (e) \[amending this section\], shall be effective on a date specified by the Attorney General in the certification described in subparagraph (B), which date may not be earlier than 6 months after the date of such certification.
 
-&emsp;“(B) The Attorney General shall certify to the Congress when the central address file system (described in section 239(a)(4) \[probably means 239(a)(3)\] of the Immigration and Nationality Act) \[8 U.S.C. 1229(a)(3)\] has been established.
+&emsp;“(B) The Attorney General shall certify to the Congress when the central address file system (describedin section 239(a)(4) \[probably means 239(a)(3)\] of the Immigration and Nationality Act) \[8 U.S.C. 1229(a)(3)\] has been established.
 
 &emsp;“(C) The Comptroller General shall submit to Congress, within 3 months after the date of the Attorney General's certification under subparagraph (B), a report on the adequacy of such system.
 
@@ -386,7 +430,15 @@ Section 545(d) of Pub. L. 101–649 provided that: “Within 6 months after the 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Transfer of Cases
+
+Pub. L. 109–13, div. B, title I, §106(c), May 11, 2005, 119 Stat. 311, provided that: “If an alien's case, brought under section 2241 of title 28, United States Code, and challenging a final administrative order of removal, deportation, or exclusion, is pending in a district court on the date of the enactment of this division \[May 11, 2005\], then the district court shall transfer the case (or the part of the case that challenges the order of removal, deportation, or exclusion) to the court of appeals for the circuit in which a petition for review could have been properly filed under section 242(b)(2) of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section, or under section 309(c)(4)(D) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1101 note). The court of appeals shall treat the transferred case as if it had been filed pursuant to a petition for review under such section 242, except that subsection (b)(1) of such section shall not apply.”
+
+#### Transitional Rule Cases
+
+Pub. L. 109–13, div. B, title I, §106(d), May 11, 2005, 119 Stat. 311, provided that: “A petition for review filed under former section 106(a) of the Immigration and Nationality Act \[8 U.S.C. 1105a(a)\] (as in effect before its repeal by section 306(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C\] (8 U.S.C. 1252 note)) shall be treated as if it had been filed as a petition for review under section 242 of the Immigration and Nationality Act (8 U.S.C. 1252), as amended by this section. Notwithstanding any other provision of law (statutory or nonstatutory), including section 2241 of title 28, United States Code, or any other habeas corpus provision, and sections 1361 and 1651 of such title, such petition for review shall be the sole and exclusive means for judicial review of an order of deportation or exclusion.”
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

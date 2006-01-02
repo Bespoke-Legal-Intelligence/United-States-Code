@@ -78,7 +78,7 @@ Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: “The Con
 
 &emsp;“(5) A number of Federal departments and agencies support imaging and engineering research with potential medical applications, but a central coordinating body, preferably housed at the NIH, is needed to coordinate these disparate efforts and facilitate the transfer of technologies with medical applications.
 
-&emsp;“(6) Several breakthrough imaging technologies, including magnetic resonance imaging (‘MRI’) and computed tomography (‘CT’), have been developedprimarily abroad, in large part because of the absence of a home at the NIH for basic research in imaging and related fields. The establishment of a central focus for imaging and bioengineering research at the NIH would promote both scientific advance and United States economic development.
+&emsp;“(6) Several breakthrough imaging technologies, including magnetic resonance imaging (‘MRI’) and computed tomography (‘CT’), have been developed primarily abroad, in large part because of the absence of a home at the NIH for basic research in imaging and related fields. The establishment of a central focus for imaging and bioengineering research at the NIH would promote both scientific advance and United States economic development.
 
 &emsp;“(7) At a time when a consensus exists to add significant resources to the NIH in coming years, it is appropriate to modernize the structure of the NIH to ensure that research dollars are expended more effectively and efficiently and that the fields of medical science that have contributed the most to the detection, diagnosis, and treatment of disease in recent years receive appropriate emphasis.
 

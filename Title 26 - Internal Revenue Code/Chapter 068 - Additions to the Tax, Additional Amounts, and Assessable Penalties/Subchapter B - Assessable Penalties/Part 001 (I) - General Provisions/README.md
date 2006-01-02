@@ -13,7 +13,7 @@
 | [6679\.](%C2%A7%2006679%20-%20Failure%20to%20file%20returns%2C%20etc.%2C%20with%20respect%20to%20foreign%20corporations%20or%20foreign%20partnerships.md) | Failure to file returns, etc., with respect to foreign corporations or foreign partnerships. |
 | \[6680, 6681. Repealed.\] |  |
 | [6682\.](%C2%A7%2006682%20-%20False%20information%20with%20respect%20to%20withholding.md) | False information with respect to withholding. |
-| [6683\.](%C2%A7%2006683%20-%20Failure%20of%20foreign%20corporation%20to%20file%20return%20of%20personal%20holding%20company%20tax.md) | Failure of foreign corporation to file return of personal holding company tax. |
+| \[6683. | Repealed.\] |
 | [6684\.](%C2%A7%2006684%20-%20Assessable%20penalties%20with%20respect%20to%20liability%20for%20tax%20under%20chapter%2042.md) | Repeated liability for tax under chapter 42.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,8 +42,9 @@
 | [6704\.](%C2%A7%2006704%20-%20Failure%20to%20keep%20records%20necessary%20to%20meet%20reporting%20requirements%20under%20section%206047%28d%29.md) | Failure to keep records necessary to meet reporting requirements under section 6047(d). |
 | [6705\.](%C2%A7%2006705%20-%20Failure%20by%20broker%20to%20provide%20notice%20to%20payors.md) | Failure by broker to provide notice to payors. |
 | [6706\.](%C2%A7%2006706%20-%20Original%20issue%20discount%20information%20requirements.md) | Original issue discount information requirements. |
-| [6707\.](%C2%A7%2006707%20-%20Failure%20to%20furnish%20information%20regarding%20tax%20shelters.md) | Failure to furnish information regarding tax shelters. |
-| [6708\.](%C2%A7%2006708%20-%20Failure%20to%20maintain%20lists%20of%20investors%20in%20potentially%20abusive%20tax%20shelters.md) | Failure to maintain lists of investors in potentially abusive tax shelters. |
+| [6707\.](%C2%A7%2006707%20-%20Failure%20to%20furnish%20information%20regarding%20reportable%20transactions.md) | Failure to furnish information regarding reportable transactions. |
+| [6707A.](%C2%A7%2006707A%20-%20Penalty%20for%20failure%20to%20include%20reportable%20transaction%20information%20with%20return.md) | Penalty for failure to include reportable transaction information with return. |
+| [6708\.](%C2%A7%2006708%20-%20Failure%20to%20maintain%20lists%20of%20advisees%20with%20respect%20to%20reportable%20transactions.md) | Failure to maintain lists of advisees with respect to reportable transactions. |
 | [6709\.](%C2%A7%2006709%20-%20Penalties%20with%20respect%20to%20mortgage%20credit%20certificates.md) | Penalties with respect to mortgage credit certificates. |
 | [6710\.](%C2%A7%2006710%20-%20Failure%20to%20disclose%20that%20contributions%20are%20nondeductible.md) | Failure to disclose that contributions are nondeductible. |
 | [6711\.](%C2%A7%2006711%20-%20Failure%20by%20tax-exempt%20organization%20to%20disclose%20that%20certain%20information%20or%20service%20available%20from%20Federal%20Government.md) | Failure by tax-exempt organization to disclose that certain information or service available from Federal Government. |
@@ -51,11 +52,23 @@
 | [6713\.](%C2%A7%2006713%20-%20Disclosure%20or%20use%20of%20information%20by%20preparers%20of%20returns.md) | Disclosure or use of information by preparers of returns. |
 | [6714\.](%C2%A7%2006714%20-%20Failure%20to%20meet%20disclosure%20requirements%20applicable%20to%20quid%20pro%20quo%20contributions.md) | Failure to meet disclosure requirements applicable to quid pro quo contributions. |
 | [6715\.](%C2%A7%2006715%20-%20Dyed%20fuel%20sold%20for%20use%20or%20used%20in%20taxable%20use%2C%20etc.md) | Dyed fuel sold for use or used in taxable use, etc. |
+| [6715A.](%C2%A7%2006715A%20-%20Tampering%20with%20or%20failing%20to%20maintain%20security%20requirements%20for%20mechanical%20dye%20injection%20systems.md) | Tampering with or failing to maintain security requirements for mechanical dye injection systems. |
 | [6716\.](%C2%A7%2006716%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20transfers%20at%20death%20and%20gifts.md) | Failure to file information with respect to certain transfers at death and gifts. |
+| [6717\.](%C2%A7%2006717%20-%20Refusal%20of%20entry.md) | Refusal of entry. |
+| [6718\.](%C2%A7%2006718%20-%20Failure%20to%20display%20tax%20registration%20on%20vessels.md) | Failure to display tax registration on vessels. |
+| [6719\.](%C2%A7%2006719%20-%20Failure%20to%20register%20or%20reregister.md) | Failure to register or reregister. |
+| [6720\.](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md) | Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes. |
+| [6720A.](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md) | Penalty with respect to certain adulterated fuels. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–135, title IV, §403(n)(3)(B), Dec. 21, 2005, 119 Stat. 2626, struck out item 6683 “Failure of foreign corporation to file return of personal holding company tax”.
+
+Pub. L. 109–59, title XI, §§11164(b)(4), 11167(c), Aug. 10, 2005, 119 Stat. 1976, 1977, inserted “or reregister” after “register” in item 6719 and added item 6720A.
+
+2004—Pub. L. 108–357, title VIII, §§811(b), 815(b)(5)(B), 816(b), 854(c)(2), 859(b)(2), 861(b)(2), 863(c)(2), 884(b)(2), Oct. 22, 2004, 118 Stat. 1577, 1583, 1584, 1616, 1618–1620, 1634, added items 6707A, 6715A, and 6717 to 6720 and substituted “reportable transactions” for “tax shelters” in item 6707 and “advisees with respect to reportable transactions” for “investors in potentially abusive tax shelters” in item 6708.
 
 2001—Pub. L. 107–16, title V, §542(b)(5)(A), June 7, 2001, 115 Stat. 83, added item 6716.
 
@@ -135,10 +148,6 @@ Pub. L. 89–368, title I, §101(e)(4)(B), Mar. 15, 1966, 80 Stat. 62, added ite
 
 Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6166 of this title.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
@@ -158,7 +167,7 @@ This subchapter is referred to in section 6166 of this title.
 - [&sect; 06680 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(10)(A)(vi)(I), Oct. 4, 1976, 90 Stat. 1817](%C2%A7%2006680%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%2810%29%28A%29%28vi%29%28I%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201817.md)
 - [&sect; 06681 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(10)(D)(i), Oct. 4, 1976, 90 Stat. 1817](%C2%A7%2006681%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%2810%29%28D%29%28i%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201817.md)
 - [&sect; 06682 - False information with respect to withholding](%C2%A7%2006682%20-%20False%20information%20with%20respect%20to%20withholding.md)
-- [&sect; 06683 - Failure of foreign corporation to file return of personal holding company tax](%C2%A7%2006683%20-%20Failure%20of%20foreign%20corporation%20to%20file%20return%20of%20personal%20holding%20company%20tax.md)
+- [&sect; 06683 - Repealed. Pub. L. 109&#8211;135, title IV, &sect;403(n)(3)(A), Dec. 21, 2005, 119 Stat. 2626](%C2%A7%2006683%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93135%2C%20title%20IV%2C%20%C2%A7403%28n%29%283%29%28A%29%2C%20Dec.%2021%2C%202005%2C%20119%20Stat.%202626.md)
 - [&sect; 06684 - Assessable penalties with respect to liability for tax under chapter 42](%C2%A7%2006684%20-%20Assessable%20penalties%20with%20respect%20to%20liability%20for%20tax%20under%20chapter%2042.md)
 - [&sect; 06685 - Assessable penalty with respect to public inspection requirements for certain tax-exempt organizations](%C2%A7%2006685%20-%20Assessable%20penalty%20with%20respect%20to%20public%20inspection%20requirements%20for%20certain%20tax-exempt%20organizations.md)
 - [&sect; 06686 - Failure to file returns or supply information by DISC or FSC](%C2%A7%2006686%20-%20Failure%20to%20file%20returns%20or%20supply%20information%20by%20DISC%20or%20FSC.md)
@@ -183,8 +192,9 @@ This subchapter is referred to in section 6166 of this title.
 - [&sect; 06704 - Failure to keep records necessary to meet reporting requirements under section 6047(d)](%C2%A7%2006704%20-%20Failure%20to%20keep%20records%20necessary%20to%20meet%20reporting%20requirements%20under%20section%206047%28d%29.md)
 - [&sect; 06705 - Failure by broker to provide notice to payors](%C2%A7%2006705%20-%20Failure%20by%20broker%20to%20provide%20notice%20to%20payors.md)
 - [&sect; 06706 - Original issue discount information requirements](%C2%A7%2006706%20-%20Original%20issue%20discount%20information%20requirements.md)
-- [&sect; 06707 - Failure to furnish information regarding tax shelters](%C2%A7%2006707%20-%20Failure%20to%20furnish%20information%20regarding%20tax%20shelters.md)
-- [&sect; 06708 - Failure to maintain lists of investors in potentially abusive tax shelters](%C2%A7%2006708%20-%20Failure%20to%20maintain%20lists%20of%20investors%20in%20potentially%20abusive%20tax%20shelters.md)
+- [&sect; 06707 - Failure to furnish information regarding reportable transactions](%C2%A7%2006707%20-%20Failure%20to%20furnish%20information%20regarding%20reportable%20transactions.md)
+- [&sect; 06707A - Penalty for failure to include reportable transaction information with return](%C2%A7%2006707A%20-%20Penalty%20for%20failure%20to%20include%20reportable%20transaction%20information%20with%20return.md)
+- [&sect; 06708 - Failure to maintain lists of advisees with respect to reportable transactions](%C2%A7%2006708%20-%20Failure%20to%20maintain%20lists%20of%20advisees%20with%20respect%20to%20reportable%20transactions.md)
 - [&sect; 06709 - Penalties with respect to mortgage credit certificates](%C2%A7%2006709%20-%20Penalties%20with%20respect%20to%20mortgage%20credit%20certificates.md)
 - [&sect; 06710 - Failure to disclose that contributions are nondeductible](%C2%A7%2006710%20-%20Failure%20to%20disclose%20that%20contributions%20are%20nondeductible.md)
 - [&sect; 06711 - Failure by tax-exempt organization to disclose that certain information or service available from Federal Government](%C2%A7%2006711%20-%20Failure%20by%20tax-exempt%20organization%20to%20disclose%20that%20certain%20information%20or%20service%20available%20from%20Federal%20Government.md)
@@ -192,4 +202,10 @@ This subchapter is referred to in section 6166 of this title.
 - [&sect; 06713 - Disclosure or use of information by preparers of returns](%C2%A7%2006713%20-%20Disclosure%20or%20use%20of%20information%20by%20preparers%20of%20returns.md)
 - [&sect; 06714 - Failure to meet disclosure requirements applicable to quid pro quo contributions](%C2%A7%2006714%20-%20Failure%20to%20meet%20disclosure%20requirements%20applicable%20to%20quid%20pro%20quo%20contributions.md)
 - [&sect; 06715 - Dyed fuel sold for use or used in taxable use, etc](%C2%A7%2006715%20-%20Dyed%20fuel%20sold%20for%20use%20or%20used%20in%20taxable%20use%2C%20etc.md)
+- [&sect; 06715A - Tampering with or failing to maintain security requirements for mechanical dye injection systems](%C2%A7%2006715A%20-%20Tampering%20with%20or%20failing%20to%20maintain%20security%20requirements%20for%20mechanical%20dye%20injection%20systems.md)
 - [&sect; 06716 - Failure to file information with respect to certain transfers at death and gifts](%C2%A7%2006716%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20transfers%20at%20death%20and%20gifts.md)
+- [&sect; 06717 - Refusal of entry](%C2%A7%2006717%20-%20Refusal%20of%20entry.md)
+- [&sect; 06718 - Failure to display tax registration on vessels](%C2%A7%2006718%20-%20Failure%20to%20display%20tax%20registration%20on%20vessels.md)
+- [&sect; 06719 - Failure to register or reregister](%C2%A7%2006719%20-%20Failure%20to%20register%20or%20reregister.md)
+- [&sect; 06720 - Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md)
+- [&sect; 06720A - Penalty with respect to certain adulterated fuels](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md)

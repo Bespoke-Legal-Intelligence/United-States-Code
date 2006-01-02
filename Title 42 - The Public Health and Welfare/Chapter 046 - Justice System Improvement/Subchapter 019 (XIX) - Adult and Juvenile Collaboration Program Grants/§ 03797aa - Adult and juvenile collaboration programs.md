@@ -208,7 +208,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) ensure mechanisms are in place to capture data, consistent with the methodology and outcome measures under clause (i); and
 
-&emsp;&emsp;&emsp;(iii) submit specific agreements from affected agencies to provide the data needed by the Attorney General and the Secretary to accomplish the evaluation under clause (i).
+&emsp;&emsp;&emsp;(iii) submit specific agreements from affected agencies to provide the data neededby the Attorney General and the Secretary to accomplish the evaluation under clause (i).
 
 #### (H) State plans
 

@@ -86,7 +86,7 @@ Amendment by Pub. L. 93–618 effective on 90th day after Jan. 3, 1975, see sect
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to an annual report to Congress on the first Monday of December of each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 194 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to an annual report to Congress on the first Monday of December ofeach year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 194 of House Document No. 103–7.
 
 #### Delegation of Functions
 

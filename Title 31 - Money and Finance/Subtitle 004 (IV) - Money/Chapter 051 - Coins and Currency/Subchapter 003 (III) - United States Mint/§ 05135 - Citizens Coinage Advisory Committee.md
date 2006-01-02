@@ -32,7 +32,7 @@ Appointment.—The Advisory Committee shall consist of 11 members appointed by t
 
 &emsp;&emsp;&emsp;(v) three of whom shall be appointed from among individuals who can represent the interests of the general public in the coinage of the United States.
 
-&emsp;&emsp;(B) Four persons appointed by the Secretary on the basis of the recommendations of the following officials who shall make the selection for such recommendation from among citizens who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience:
+&emsp;&emsp;(B) Four persons appointed by the Secretary on the basis of the recommendationsof the following officials who shall make the selection for such recommendation from among citizens who are specially qualified to serve on the Advisory Committee by virtue of their education, training, or experience:
 
 &emsp;&emsp;&emsp;(i) One person recommended by the Speaker of the House of Representatives.
 
@@ -144,7 +144,7 @@ Required.—Not later than September 30 of each year, the Advisory Committee sha
 
 &emsp;(2)
 
-Contents.—The report required by paragraph (1) shall describe the activities of the Advisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
+Contents.—The report required by paragraph (1) shall describe the activities of theAdvisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
 
 (h)
 
@@ -180,7 +180,7 @@ Continuity of Members of Citizens Commemorative Coin Advisory Committee.—Subje
 
 #### Staggered Terms for Members of Citizens Commemorative Coin Advisory Committee
 
-Pub. L. 104–329, title III, §303(b), Oct. 20, 1996, 110 Stat. 4014, provided that members serving on the CitizensCommemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
+Pub. L. 104–329, title III, §303(b), Oct. 20, 1996, 110 Stat. 4014, provided that members serving on the Citizens Commemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
 
 #### Status of Members of Citizens Commemorative Coin Advisory Committee
 

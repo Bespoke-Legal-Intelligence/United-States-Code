@@ -12,7 +12,19 @@ Upon application of the Commission the district courts of the United States and 
 
 The Commission may employ such attorneys as it finds necessary for proper legal aid and service of the Commission or its members in the conduct of their work, or for proper representation of the public interest in investigations made by it, or cases or proceedings pending before it, whether at the Commission's own instance or upon complaint, or to appear for or represent the Commission in any case in court; and the expenses of such employment shall be paid out of the appropriation for the Commission.
 
-(June 21, 1938, ch. 556, §20, 52 Stat. 832; June 25, 1948, ch. 646, §1, 62 Stat. 875, 895.)
+#### (d) Violation of market manipulation provisions
+
+In any proceedings under subsection (a) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as the court determines, any individual who is engaged or has engaged in practices constituting a violation of section 717c–1 of this title (including related rules and regulations) from—
+
+&emsp;(1) acting as an officer or director of a natural gas company; or
+
+&emsp;(2) engaging in the business of—
+
+&emsp;&emsp;(A) the purchasing or selling of natural gas; or
+
+&emsp;&emsp;(B) the purchasing or selling of transmission services subject to the jurisdiction of the Commission.
+
+(June 21, 1938, ch. 556, §20, 52 Stat. 832; June 25, 1948, ch. 646, §1, 62 Stat. 875, 895; Pub. L. 109–58, title III, §318, Aug. 8, 2005, 119 Stat. 693.)
 
 #### References in Text
 
@@ -20,11 +32,9 @@ The Federal antitrust laws, referred to in subsec. (a), are classified generally
 
 #### Codification
 
-The words “the District Court of the United States for the District of Columbia” in subsec. (a) following “district court of the United States” and in subsec. (b) following “district courts of the United States” omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that“There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of title 28 which states that “The District of Columbia constitutes one judicial district”.
+The words “the District Court of the United States for the District of Columbia” in subsec. (a) following “district court of the United States” and in subsec. (b) following “district courts of the United States” omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of title 28 which states that “The District of Columbia constitutes one judicial district”.
 
-#### Transfer of Functions
+#### Amendments
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
+2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 

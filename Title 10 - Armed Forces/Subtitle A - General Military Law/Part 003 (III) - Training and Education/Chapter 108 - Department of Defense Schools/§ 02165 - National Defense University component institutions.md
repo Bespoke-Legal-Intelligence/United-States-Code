@@ -30,9 +30,25 @@ Source of Funds for Center for Hemispheric Defense Studies.—Funds available fo
 
 Source of Funds for Professional Development Education Operations.—Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
 
-(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, §527(c)(1), Dec. 28, 2001, 115 Stat. 1102.)
+(e)
+
+Acceptance of Faculty Research Grants.—(1) The Secretary of Defense may authorize the President of the National Defense University to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of one of the institutions comprising the University for a scientific, literary, or educational purpose.
+
+(2) A qualifying research grant under this subsection is a grant that is awarded on a competitive basis by an entity referred to in paragraph (3) for a research project with a scientific, literary, or educational purpose.
+
+(3) A grant may be accepted under this subsection only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
+
+(4) The Secretary shall establish an account for administering funds received as research grants under this subsection. The President of the University shall use the funds in the account in accordance with applicable provisions of the regulations and the terms and condition of the grants received.
+
+(5) Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Defense University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
+
+(6) The Secretary shall prescribe regulations for the administration of this subsection.
+
+(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, §527(c)(1), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 109–163, div. A, title V, §522(a), Jan. 6, 2006, 119 Stat. 3240.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
 2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
@@ -85,8 +101,4 @@ Startup of Center.—The Secretary of Defense shall establish the Center for the
 Implementation Report.—(1) Not later than January 1, 2001, the President of the National Defense University shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
 
 “(2) The Secretary of Defense shall transmit the report under paragraph (1), together with whatever comments the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than February 1, 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2167, 2612 of this title.
 

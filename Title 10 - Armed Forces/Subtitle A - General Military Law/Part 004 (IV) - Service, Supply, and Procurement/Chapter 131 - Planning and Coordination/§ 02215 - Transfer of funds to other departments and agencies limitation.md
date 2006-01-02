@@ -1,18 +1,8 @@
 ### §2215. Transfer of funds to other departments and agencies: limitation
 
-(a)
+Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the congressional defense committees a certification that making those funds available to such other department or agency is in the national security interest of the United States.
 
-Certification Required.—Funds available for military functions of the Department of Defense may not be made available to any other department or agency of the Federal Government pursuant to a provision of law enacted after November 29, 1989, unless, not less than 30 days before such funds are made available to such other department or agency, the Secretary of Defense submits to the congressional committees specified in subsection (b) a certification that making those funds available to such other department or agency is in the national security interest of the United States.
-
-(b)
-
-Congressional Committees.—The committees referred to in subsection (a) are—
-
-&emsp;(1) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-
-&emsp;(2) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-(Added Pub. L. 103–160, div. A, title XI, §1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, §1502(a)(14), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 103–160, div. A, title XI, §1106(a)(1), Nov. 30, 1993, 107 Stat. 1750; amended Pub. L. 104–106, div. A, title XV, §1502(a)(14), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(b)(1), Oct. 28, 2004, 118 Stat. 2060.)
 
 #### Prior Provisions
 
@@ -22,11 +12,13 @@ Provisions similar to those in this section were contained in Pub. L. 101–189,
 
 #### Amendments
 
+2004—Pub. L. 108–375 struck out subsec. (a) designation and heading before “Funds available”, substituted “congressional defense committees” for “congressional committees specified in subsection (b)”, and struck out heading and text of subsec. (b). Text of subsec. (b) read as follows: “The committees referred to in subsection (a) are—
+
+&emsp;“(1) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;“(2) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+
 1999—Subsec. (b)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Pub. L. 104–106 designated existing provisions as subsec. (a), inserted heading, substituted “to the congressional committees specified in subsection (b)” for “to the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”, and added subsec. (b).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2645, 9514 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and coordination of Federal agency actions
 
-(1) The President shall, to the extent of his authority under other law, establish or coordinateFederal agency actions to develop mandatory standards with respect to energy conservation and energy efficiency to govern the procurement policies and decisions of the Federal Government and all Federal agencies, and shall take such steps as are necessary to cause such standards to be implemented.
+(1) The President shall, to the extent of his authority under other law, establish or coordinate Federal agency actions to develop mandatory standards with respect to energy conservation and energy efficiency to govern the procurement policies and decisions of the Federal Government and all Federal agencies, and shall take such steps as are necessary to cause such standards to be implemented.
 
 (2) The President shall develop and, to the extent of his authority under other law, implement a 10-year plan for energy conservation with respect to buildings owned or leased by an agency of the United States. Such plan shall include mandatory lighting efficiency standards, mandatory thermal efficiency standards and insulation requirements, restrictions on hours of operation, thermostat controls, and other conditions of operation, and plans for replacing or retrofitting to meet such standards.
 
@@ -80,7 +80,7 @@ Responsibilities of the Administrator of General Services
 
 1–205. The Administrator shall take into consideration the advice of the Environmental Protection Agency under the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\] in performing his responsibilities under this Order.
 
-1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) a comparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
+1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) acomparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

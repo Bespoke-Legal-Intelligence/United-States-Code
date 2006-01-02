@@ -4,7 +4,7 @@
 
 (2) Except as provided in paragraph (3) of this subsection, prior to initiating any proceedings under paragraph (1) of this subsection to collect any indebtedness of an individual, the head of the agency holding the debt or his designee, shall provide the individual with—
 
-&emsp;(A) a minimum of thirty days written notice, informing such individual of the natureand amount of the indebtedness determined by such agency to be due, the intention of the agency to initiate proceedings to collect the debt through deductions from pay, and an explanation of the rights of the individual under this subsection;
+&emsp;(A) a minimum of thirty days written notice, informing such individual of the nature and amount of the indebtedness determined by such agency to be due, the intention of the agency to initiate proceedings to collect the debt through deductions from pay, and an explanation of the rights of the individual under this subsection;
 
 &emsp;(B) an opportunity to inspect and copy Government records relating to the debt;
 
@@ -62,7 +62,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(1) and (d), is cl
 
 #### Amendments
 
-1996—Subsec. (a)(1). Pub. L. 104–134, §31001(h)(A)(i), inserted at end “All Federal agencies to which debts are owed and which have outstanding delinquent debts shall participate in a computer match at least annually of their delinquent debt records with records of Federal employees to identify those employees who are delinquent in repayment of those debts. The preceding sentence shall not apply to any debt under the InternalRevenue Code of 1986. Matched Federal employee records shall include, but shall not be limited to, records of active Civil Service employees government-wide, military active duty personnel, military reservists, United States Postal Service employees, employees of other government corporations, and seasonal and temporary employees. The Secretary of the Treasury shall establish and maintain an interagency consortium to implement centralized salary offset computer matching, and promulgate regulations for this program. Agencies that perform centralized salary offset computer matching services under this subsection are authorized to charge a fee sufficient to cover the full cost for such services.”
+1996—Subsec. (a)(1). Pub. L. 104–134, §31001(h)(A)(i), inserted at end “All Federal agencies to which debts are owed and which have outstanding delinquent debts shall participate in a computer match at least annually of their delinquent debt records with records of Federal employees to identify those employees who are delinquent in repayment of those debts. The preceding sentence shall not apply to any debt under the Internal Revenue Code of 1986. Matched Federal employee records shall include, but shall not be limited to, records of active Civil Service employees government-wide, military active duty personnel, military reservists, United States Postal Service employees, employees of other government corporations, and seasonal and temporary employees. The Secretary of the Treasury shall establish and maintain an interagency consortium to implement centralized salary offset computer matching, and promulgate regulations for this program. Agencies that perform centralized salary offset computer matching services under this subsection are authorized to charge a fee sufficient to cover the full cost for such services.”
 
 Subsec. (a)(3), (4). Pub. L. 104–134, §31001(h)(A)(ii), (iii), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Short Title of 1982 Amendment
 
-Section 1 of Pub. L. 97–365 provided: “That this Act \[enacting sections 954 and 955 of former Title 31, Money and Finance, amending this section and section 552a of this title, section 1114 of Title 18, Crimes and Criminal Procedure, sections 6103 and 7213 of Title 26, Internal Revenue Code, section 2415 of Title 28, Judiciary and Judicial Procedure, and sections 484, 951, and 952 of former Title 31, and enacting provisions set out as notes under this section and section 6103 of Title 26\] may be cited as the ‘Debt Collection Act of 1982’.”
+Section 1 of Pub. L. 97–365 provided: “That this Act \[enacting sections 954 and 955 of former Title 31, Moneyand Finance, amending this section and section 552a of this title, section 1114 of Title 18, Crimes and Criminal Procedure, sections 6103 and 7213 of Title 26, Internal Revenue Code, section 2415 of Title 28, Judiciary and Judicial Procedure, and sections 484, 951, and 952 of former Title 31, and enacting provisions set out as notes under this section and section 6103 of Title 26\] may be cited as the ‘Debt Collection Act of 1982’.”
 
 #### Delegation of Functions
 

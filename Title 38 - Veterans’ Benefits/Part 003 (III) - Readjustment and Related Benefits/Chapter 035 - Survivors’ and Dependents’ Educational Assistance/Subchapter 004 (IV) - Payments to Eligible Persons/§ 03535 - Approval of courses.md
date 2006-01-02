@@ -10,7 +10,7 @@ An eligible person shall receive the benefits of this chapter while enrolled in 
 
 1972—Pub. L. 92–540 substituted reference to section 1736 of this title for reference to section 1737 of this title.
 
-1966—Pub. L. 89–358 redesignated former subsec. (a) as the entire section, struck out therefrom the introductory phrase “Until the date for the expiration of all education and training under chapter 33 of this title,”, substituted “An eligible person” for “and eligible person”, “chapter” for “subchapter”, and “subchapter I of chapter 36 of this title” for “this section or subchapter VII of this chapter”, and struck out former subsec. (b)which provided for scope of approval and is now incorporated in section 1770(b) of this title.
+1966—Pub. L. 89–358 redesignated former subsec. (a) as the entire section, struck out therefrom the introductory phrase “Until the date for the expiration of all education and training under chapter 33 of this title,”, substituted “An eligible person” for “and eligible person”, “chapter” for “subchapter”, and “subchapter I of chapter 36 of this title” for “this section or subchapter VII of this chapter”, and struck out former subsec. (b) which provided for scope of approval and is now incorporated in section 1770(b) of this title.
 
 1963—Subsec. (a). Pub. L. 88–126, §2(1), (2), inserted “Until the date for the expiration of all education and training under chapter 33 of this title, and” before “eligible person”, and “or subchapter VII of this chapter” after “this section”.
 

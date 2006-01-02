@@ -108,7 +108,7 @@ Nothing in this section is intended or shall be construed to expand or alter exi
 
 #### (<i>l</i>) Incorporate self-determination provisions
 
-At the option of a participating tribe or tribes, any or all provisions of part A of this subchapter shall be made part of an agreement entered intounder title III of this Act or this part. The Secretary is obligated to include such provisions at the option of the participating tribe or tribes. If such provision is incorporated it shall have the same force and effect as if set out in full in title III or this part.
+At the option of a participating tribe or tribes, any or all provisions of part A of this subchapter shall be made part of an agreement entered into under title III of this Act or this part. The Secretary is obligated to include such provisions at the option of the participating tribe or tribes. If such provision is incorporated it shall have the same force and effect as if set out in full in title III or this part.
 
 (Pub. L. 93–638, title IV, §403, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4272; amended Pub. L. 104–109, §19, Feb. 12, 1996, 110 Stat. 766; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 106–568, title VIII, §812(b), Dec. 27, 2000, 114 Stat. 2917.)
 

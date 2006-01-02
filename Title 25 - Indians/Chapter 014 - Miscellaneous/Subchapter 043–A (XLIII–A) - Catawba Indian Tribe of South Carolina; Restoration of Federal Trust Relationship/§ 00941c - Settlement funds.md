@@ -14,7 +14,7 @@ The Secretary shall, on behalf of the Tribe, collect those contributions toward 
 
 #### (d) Nonpayment of State, local, or private contributions
 
-The Secretary shall not be accountable or incur any liability for the collection, deposit, or management of the non-Federal contributions made pursuant to section 5.2 of the Settlement Agreement, or payment of such funds pursuant to section 941d(g) of this title, until such time as such funds are received by the Secretary.
+The Secretary shall not be accountable or incur any liability for the collection, deposit, ormanagement of the non-Federal contributions made pursuant to section 5.2 of the Settlement Agreement, or payment of such funds pursuant to section 941d(g) of this title, until such time as such funds are received by the Secretary.
 
 (Pub. L. 103–116, §5, Oct. 27, 1993, 107 Stat. 1122.)
 

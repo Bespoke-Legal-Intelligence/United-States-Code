@@ -18,7 +18,7 @@ As used in this subchapter:
 
 &emsp;(4)(A) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
 
-&emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003:
+&emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users:
 
 &emsp;&emsp;(i) 69–8083–0–7–401 (Federal-Aid Highways).
 
@@ -28,25 +28,43 @@ As used in this subchapter:
 
 &emsp;&emsp;(iv) 69–8016–0–7–401 (Operations and Research NHTSA).
 
-&emsp;(C) The term “mass transit category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003 or for which appropriations are provided pursuant to authorizations contained in those Acts (except that appropriations provided pursuant to section 5338(h) of title 49, as amended by the Transportation Equity Act for the 21st Century, shall not be included in this category):
+&emsp;&emsp;(v) 69–8362–0–7–401 (National Driver Registry).
 
-&emsp;&emsp;(i) 69–8191–0–7–401 (Mass Transit Capital Fund).
+&emsp;&emsp;(vi) 69–8159–0–7–401 (Motor Carrier Safety Operations and Programs).
 
-&emsp;&emsp;(ii) 69–8350–0–7–401 (Trust Fund Share of Expenses).
+&emsp;&emsp;(vii) 06–8158–0–7–401 (Motor Carrier Safety Grants).
 
-&emsp;&emsp;(iii) 69–1129–0–1–401 (Formula Grants).
+&emsp;(C)
 
-&emsp;&emsp;(iv) 69–1120–0–1–401 (Administrative Expenses).
+Mass transit category.—The term “mass transit category” means the following budget accounts, or portions of the accounts, that are subject to the obligation limitations on contract authority provided in the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users or for which appropriations are provided in accordance with authorizations contained in that Act:
 
-&emsp;&emsp;(v) 69–1136–0–1–401 (University Transportation Centers).
+&emsp;&emsp;(i) 69–1120–0–1–401 (Administrative Expenses).
 
-&emsp;&emsp;(vi) 69–1137–0–1–401 (Transit Planning and Research).
+&emsp;&emsp;(ii) 69–1134–0–1–401 (Capital Investment Grants).
 
-> &emsp;Such term also refers to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
+&emsp;&emsp;(iii) 69–8191–0–7–401 (Discretionary Grants).
+
+&emsp;&emsp;(iv) 69–1129–0–1–401 (Formula Grants).
+
+&emsp;&emsp;(v) 69–1127–0–1–401 (Interstate Transfer Grants—Transit).
+
+&emsp;&emsp;(vi) 69–1125–0–1–401 (Job Access and Reverse Commute).
+
+&emsp;&emsp;(vii) 69–1122–0–1–401 (Miscellaneous Expired Accounts).
+
+&emsp;&emsp;(viii) 69–1121–0–1–401 (Research, Training and Human Resources).
+
+&emsp;&emsp;(ix) 69–8350–0–7–401 (Trust Fund Share of Expenses).
+
+&emsp;&emsp;(x) 69–1137–0–1–401 (Transit Planning and Research).
+
+&emsp;&emsp;(xi) 69–1136–0–1–401 (University Transportation Research).
+
+&emsp;&emsp;(xii) 69–1128–0–1–401 (Washington Metropolitan Area Transit Authority).
 
 &emsp;(D)
 
-Special rule.—(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefense category outlays or discretionary category outlays.
+Special rule.—(i) Any outlays in excess of the discretionary spending limit set forth in section 901(c) of this title for the highway or mass transit category, as adjusted, for the budget year shall be considered nondefensecategory outlays or discretionary category outlays.
 
 &emsp;(ii) If the obligation limitations for accounts in the highway or mass transit category provided in an appropriation Act for a fiscal year exceed the obligation limitations set forth in section 8103 of the Transportation Equity Act for the 21st Century for that year, as adjusted, the estimated outlays flowing for each outyear from such excess obligations calculated pursuant to clause (iii) shall be attributed to the discretionary category in that outyear.
 
@@ -118,7 +136,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(10) The term “real economic growth”, with respect to any fiscal year, means the growth in the gross national product during such fiscal year, adjusted for inflation, consistent with Department of Commerce definitions.
 
-&emsp;(11) The term “account” means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget account identification code number in the President's budget.
+&emsp;(11) The term “account” means an item for which appropriations are made in any appropriation Act and, for items not provided for in appropriation Acts, such term means an item for which there is a designated budget accountidentification code number in the President's budget.
 
 &emsp;(12) The term “budget year” means, with respect to a session of Congress, the fiscal year of the Government that starts on October 1 of the calendar year in which that session begins.
 
@@ -136,7 +154,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, §10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §8001(b), Aug. 10, 2005, 119 Stat. 1915.)
 
 #### Termination of Section
 
@@ -148,15 +166,9 @@ House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, 
 
 The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(A), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
-The Transportation Equity Act for the 21st Century, referred to in subsec. (c)(4)(B), (C), (D)(ii), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. Section 8103 of the Act is set out as a note under section 901 of this title. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of Title 23, Highways, and Tables.
+The Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsec. (c)(4)(B), (C), is Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1144. For complete classification of this Act to the Code, see Short Title of 2005 Amendments note set out under section 101 of Title 23, Highways, and Tables.
 
-The Surface Transportation Extension Act of 2004, Part V, referred to in subsec. (c)(4)(B), (C), is Pub. L. 108–310, Sept. 20, 2004, 118 Stat. 1144. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 101 of Title 23, Highways, and Tables.
-
-The Surface Transportation Extension Act of 2003, referred to in subsec. (c)(4)(B), (C), is Pub. L. 108–88, Sept. 30, 2003, 117 Stat. 1110. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 101 of Title 23, Highways, and Tables.
-
-Section 14 of Public Law 96–184, referred to in subsec. (c)(4)(C), probably means section 14 of Pub. L. 91–143, as added by Pub. L. 96–184, §2, Jan. 3, 1980, 93 Stat. 1320, which is not classified to the Code.
-
-Public Law 101–551, referred to in subsec. (c)(4)(C), is Pub. L. 101–551, Nov. 15, 1990, 104 Stat. 2733, which is not classified to the Code.
+Section 8103 of the Transportation Equity Act for the 21st Century, referred to in subsec. (c)(4)(D)(ii), is section 8103 of Pub. L. 105–178, which is set out as a note under section 901 of this title.
 
 The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in subsec. (c)(4)(E)(xiv), is Pub. L. 106-291, Oct. 11, 2000, 114 Stat. 922. Title VIII of the Act amended this section and section 901 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -169,6 +181,12 @@ Subsection (a) of this section, which provided a partial table of contents for t
 Pub. L. 101–508, §13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to section 907(12) of this title, to subsec. (c)(21) (now (c)(19)) of this section.
 
 #### Amendments
+
+2005—Subsec. (c)(4)(B). Pub. L. 109–59, §8001(b)(1)(A), substituted “the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users:” for “the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003:” in introductory provisions.
+
+Subsec. (c)(4)(B)(v) to (vii). Pub. L. 109–59, §8001(b)(1)(B), added cls. (v) to (vii).
+
+Subsec. (c)(4)(C). Pub. L. 109–59, §8001(b)(2), added heading and text of subpar. (C) and struck out former subpar. (C) which provided that the term “mass transit category” referred to the budget accounts as listed in cls. (i) to (vi) that were subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2004, Part V, and the Surface Transportation Extension Act of 2003, or for which appropriations were provided pursuant to authorizations contained in those Acts, with certain exceptions, and that such term also referred to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
 
 2004—Subsec. (c)(4)(B). Pub. L. 108–310, §10(c)(1), inserted “and the Surface Transportation Extension Act of 2004, Part V” after “Century”.
 
@@ -302,11 +320,11 @@ Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of th
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
-Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or PublicLaw 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
+Pub. L. 102–377, title V, §503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 \[see Short Title note above\] or Public Law 100–119 \[see section 213 of Pub. L. 100–119 set out below\] unless such reports expressly provide otherwise.”
 
 #### Waivers and Suspensions in the Senate
 
-Section 271(b) of Pub. L. 99–177, as amended by Pub. L. 100–119, title II, §211, Sept. 29, 1987, 101 Stat. 787, provided that: “Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. This subsection shall not apply to any joint resolution reported or discharged pursuant to section 254(a) of this joint resolution \[section 904(a) of this title\].”
+Section 271(b) of Pub. L. 99–177, as amended by Pub. L. 100–119, title II, §211, Sept. 29, 1987, 101 Stat. 787, provided that: “Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 \[sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title\] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn.This subsection shall not apply to any joint resolution reported or discharged pursuant to section 254(a) of this joint resolution \[section 904(a) of this title\].”
 
 \[For effective and termination dates of section 271(b) of Pub. L. 99–177, see section 275(a)(1), (b) of Pub. L. 99–177, as amended, set out as a note above.\]
 
@@ -436,7 +454,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12858, Aug. 4, 1993, 58 F.R. 42185, provided:
 
-By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including sections 1104 and 1105 of title 31, United States Code, it is hereby ordered as follows:
+By the authority vested in me as President of the United States by the Constitution and the laws of theUnited States of America, including sections 1104 and 1105 of title 31, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Purpose</i>. It is essential to guarantee that the net deficit reduction achieved by the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\] is dedicated exclusively to reducing the deficit.
 

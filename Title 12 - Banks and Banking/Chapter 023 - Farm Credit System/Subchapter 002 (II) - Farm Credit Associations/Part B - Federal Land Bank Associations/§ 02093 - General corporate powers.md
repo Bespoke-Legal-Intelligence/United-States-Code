@@ -1,6 +1,6 @@
 ### §2093. General corporate powers
 
-Each Federal land bank association shall be a body corporate and, subject to supervision of the Farm Credit Bank for the district and the regulation of the Farm Credit Administration, shall have the power to—
+Each Federal land bank association shall be a body corporate and, subject to supervision of theFarm Credit Bank for the district and the regulation of the Farm Credit Administration, shall have the power to—
 
 &emsp;(1) adopt and use a corporate seal;
 
@@ -42,7 +42,7 @@ Each Federal land bank association shall be a body corporate and, subject to sup
 
 &emsp;(14) receive such compensation and deduct such sums from loan proceeds with respect to each loan as may be agreed between the association and the bank and make such other charges for services as may be approved by the bank;
 
-&emsp;(15) provide technical assistance to members, borrowers, applicants, and other eligible persons and make available to them, at theiroption, such financial related services appropriate to their operations as it determines, with Farm Credit Bank approval, are feasible, under regulations of the Farm Credit Administration;
+&emsp;(15) provide technical assistance to members, borrowers, applicants, and other eligible persons and make available to them, at their option, such financial related services appropriate to their operations as it determines, with Farm Credit Bank approval, are feasible, under regulations of the Farm Credit Administration;
 
 &emsp;(16) borrow money from the bank and, with the approval of such bank, borrow from and issue association notes or other obligations to any commercial bank or other financial institution;
 

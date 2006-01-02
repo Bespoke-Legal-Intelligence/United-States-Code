@@ -2,7 +2,7 @@
 
 #### (a) State actions
 
-(1) Any State may institute an action in the appropriate district court of the United States,including actions for declaratory judgment, for judicial review of—
+(1) Any State may institute an action in the appropriate district court of the United States, including actions for declaratory judgment, for judicial review of—
 
 &emsp;(A) any target established by the President under section 8511(a) of this title;
 

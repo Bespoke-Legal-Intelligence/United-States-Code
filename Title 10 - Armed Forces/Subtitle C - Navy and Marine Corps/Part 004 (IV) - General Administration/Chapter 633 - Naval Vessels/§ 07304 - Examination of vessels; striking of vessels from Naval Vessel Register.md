@@ -18,7 +18,3 @@ Action by Secretary.—If the Secretary concurs with a recommendation by a board
 
 A prior section 7304, act Aug. 10, 1956, ch. 1041, 70A Stat. 451, related to examination of vessels by board and striking of unfit vessels from Naval Vessel Register, prior to repeal by Pub. L. 103–160, §824(b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7305 of this title; title 42 section 6939d.
-

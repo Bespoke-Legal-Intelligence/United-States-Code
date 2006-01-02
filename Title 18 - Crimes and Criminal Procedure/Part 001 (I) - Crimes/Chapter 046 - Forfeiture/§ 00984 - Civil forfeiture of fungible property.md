@@ -16,7 +16,7 @@
 
 &emsp;(A) the term “financial institution” includes a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(b)(7))); <sup>1</sup> and
 
-&emsp;(B) the term “interbank account” means an account held by one financial institution atanother financial institution primarily for the purpose of facilitating customer transactions.
+&emsp;(B) the term “interbank account” means an account held by one financial institution at another financial institution primarily for the purpose of facilitating customer transactions.
 
 (d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
 

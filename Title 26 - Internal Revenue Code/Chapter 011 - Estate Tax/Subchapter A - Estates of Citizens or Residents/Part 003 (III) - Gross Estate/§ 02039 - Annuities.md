@@ -96,7 +96,7 @@ Exception for participants in pay status.—The amendments made by this section 
 
 Irrevocable election.—For purposes of paragraph (2) \[set out above\] and section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982 \[see Effective Date of 1982 Amendment note below\], an individual who—
 
-&emsp;“(A) separated from service before January 1, 1985, with respect to paragraph (2), or January 1, 1983, withrespect to section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982, and
+&emsp;“(A) separated from service before January 1, 1985, with respect to paragraph (2), or January 1, 1983, with respect to section 245(c) of the Tax Equity and Fiscal Responsibility Act of 1982, and
 
 &emsp;“(B) meets the requirements of such paragraph or such section other than the requirement that there be an irrevocable election, and that the individual be in pay status,
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1966 Amendment
 
-Section 2(c) of Pub. L. 89–365 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to decedents dying after December 31, 1965. The amendments made by subsection (b) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1965.”
+Section 2(c) of Pub. L. 89–365 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to decedents dying after December 31, 1965. The amendments made by subsection (b) \[amending section 2517 of this title\] shall apply with respect to calendar years after 1965.”
 
 #### Effective Date of 1962 Amendment
 
@@ -161,8 +161,4 @@ Section 67(b) of Pub. L. 85–866 provided that: “The amendment made by subsec
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 406, 407, 2045, 2056, 6324 of this title.
 

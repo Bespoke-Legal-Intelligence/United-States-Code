@@ -40,11 +40,11 @@ As used in this chapter:
 
 &emsp;(8) The term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
 
-&emsp;(9)(A) The term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need, which elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property; and
+&emsp;(9)(A) The term “major system” means a combination of elements that will function together to produce the capabilities required tofulfill a mission need, which elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property; and
 
 &emsp;(B) a system shall be considered a major system if (i) the Department of Defense is responsible for the system and the total expenditures for research, development, test and evaluation for the system are estimated to be more than $75,000,000 (based on fiscal year 1980 constant dollars) or the eventual total expenditure for procurement of more than $300,000,000 (based on fiscal year 1980 constant dollars); (ii) a civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $750,000 (based on fiscal year 1980 constant dollars) or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”, whichever is greater; or (iii) the system is designated a “major system” by the head of the agency responsible for the system.
 
-&emsp;(10) The term “item”, “item of supply”, or “supplies” means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service lifeof the system, and includes spare parts and replenishment spare parts, but does not include packaging or labeling associated with shipment or identification of an “item”.
+&emsp;(10) The term “item”, “item of supply”, or “supplies” means any individual part, component, subassembly, assembly, or subsystem integral to a major system, and other property which may be replaced during the service life of the system, and includes spare parts and replenishment spare parts, but does not include packaging or labeling associated with shipment or identification of an “item”.
 
 &emsp;(11) The term “simplified acquisition threshold” means $100,000.
 
@@ -100,7 +100,7 @@ As used in this chapter:
 
 &emsp;&emsp;(B) includes—
 
-&emsp;&emsp;&emsp;(i) the process of acquiring property or services that are already in existence, or that must be created, developed, demonstrated, and evaluated;
+&emsp;&emsp;&emsp;(i) the process of acquiring property or services that are already in existence, orthat must be created, developed, demonstrated, and evaluated;
 
 &emsp;&emsp;&emsp;(ii) the description of requirements to satisfy agency needs;
 
@@ -118,7 +118,7 @@ As used in this chapter:
 
 &emsp;(17) The term “Federal Acquisition Regulatory Council” means the Federal Acquisition Regulatory Council established under section 421 of this title.
 
-(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct.13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, div. A, title VIII, §805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, div. A, title XIV, §§1411, 1433, Nov. 24, 2003, 117 Stat. 1663, 1673; Pub. L. 108–375, div. A, title VIII, §807(b), Oct. 28, 2004, 118 Stat. 2011.)
+(Pub. L. 93–400, §4, Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §3, Oct. 10, 1979, 93 Stat. 649; Pub. L. 98–191, §4, Dec. 1, 1983, 97 Stat. 1326; Pub. L. 98–369, div. B, title VII, §2731, July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title I, §102, Oct. 30, 1984, 98 Stat. 3067; Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, div. A, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001, Oct. 13, 1994, 108 Stat. 3338, 3384; Pub. L. 104–106, div. D, title XLII, §4204, Feb. 10, 1996, 110 Stat. 655; Pub. L. 106–65, div. A, title VIII, §805, Oct. 5, 1999, 113 Stat. 705; Pub. L. 108–136, div. A, title XIV, §§1411, 1433, Nov. 24, 2003, 117 Stat. 1663, 1673; Pub. L. 108–375, div. A, title VIII, §807(b), Oct. 28, 2004, 118 Stat. 2011.)
 
 #### References in Text
 

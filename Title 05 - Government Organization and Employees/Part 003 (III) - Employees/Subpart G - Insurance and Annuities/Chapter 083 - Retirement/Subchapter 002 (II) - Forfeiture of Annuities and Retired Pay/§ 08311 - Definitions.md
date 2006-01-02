@@ -18,7 +18,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) pay or compensation which may not be diminished under section 1 of Article III of the Constitution of the United States;
 
-&emsp;&emsp;(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 whichwould be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
+&emsp;&emsp;(C) that portion of a benefit payable under subchapter II of chapter 7 of title 42 which would be payable without taking into account, for any of the purposes of that subchapter, including determinations of periods of disability under section 416(i) of title 42, pay for services as an employee;
 
 &emsp;&emsp;(D) monthly annuity awarded under section 228b or 228e of title 45 before September 26, 1961, whether or not computed under section 228c(e) of title 45;
 
@@ -36,7 +36,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) violated section 8315(a)(2) of this title; and
 
-&emsp;(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay, payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary of the member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—
+&emsp;(3) “retired pay” means retired pay, retirement pay, retainer pay, or equivalent pay, payable under a statute to a member or former member of a uniformed service, and an annuity payable to an eligible beneficiary ofthe member or former member under chapter 73 of title 10 or section 5 of the Uniformed Services Contingency Option Act of 1953 (67 Stat. 504), but does not include—
 
 &emsp;&emsp;(A) a benefit provided under statutes administered by the Department of Veterans Affairs;
 

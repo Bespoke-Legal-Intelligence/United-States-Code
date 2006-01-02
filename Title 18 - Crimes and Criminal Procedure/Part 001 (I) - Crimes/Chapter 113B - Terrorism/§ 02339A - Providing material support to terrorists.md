@@ -22,7 +22,7 @@ Definitions.—As used in this section—
 
 #### Amendments
 
-2004—Subsec. (a). Pub. L. 108–458, §6603(a)(2)(B), (g), which temporarily directed amendment of this sectionby inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) of title 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress. See Termination Date of 2004 Amendment note below.
+2004—Subsec. (a). Pub. L. 108–458, §6603(a)(2)(B), (g), which temporarily directed amendment of this section by inserting “or any offense listed in section 2332b(g)(5)(B) (except for sections 2339A and 2339B)” after “section 60123(b) of title 49,”, was executed by making the insertion in subsec. (a) after “section 46502 or 60123(b) of title 49,” to reflect the probable intent of Congress. See Termination Date of 2004 Amendment note below.
 
 Pub. L. 108–458, §6603(a)(2)(A), (g), temporarily struck out “or” before “section 46502”. See Termination Date of 2004 Amendment note below.
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 107–273, §4002(c)(1), repealed amendment by Pub. L. 104�
 
 Pub. L. 107–56, §810(c)(1), substituted “15 years” for “10 years”.
 
-Pub. L. 107–56, §810(c)(2), which directed substitution of “, and, if the death of any person results, shall be imprisoned for any term of years or for life.” for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
+Pub. L. 107–56, §810(c)(2), which directed substitution of “, and, if the death of any person results, shall beimprisoned for any term of years or for life.” for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
 
 Pub. L. 107–56, §805(a)(1)(F), inserted at end “A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.”
 

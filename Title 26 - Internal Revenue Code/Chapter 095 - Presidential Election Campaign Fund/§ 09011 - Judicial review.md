@@ -28,9 +28,5 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9005, 9010 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “construe”.</i>
 

@@ -48,7 +48,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;(2) with respect to subsection (a)(1)(B) of this section—
 
-&emsp;&emsp;(A) the extent of knowledge by the government of the country with respect to terroristactivities in the territory of the country; and
+&emsp;&emsp;(A) the extent of knowledge by the government of the country with respect to terrorist activities in the territory of the country; and
 
 &emsp;&emsp;(B) the actions by the country—
 
@@ -216,7 +216,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §805\], Nov. 29, 
 
 “(a)
 
-In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees\[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
+In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
 
 &emsp;“(1) A list of formal commitments the Palestinian Authority has made to combat terrorism.
 

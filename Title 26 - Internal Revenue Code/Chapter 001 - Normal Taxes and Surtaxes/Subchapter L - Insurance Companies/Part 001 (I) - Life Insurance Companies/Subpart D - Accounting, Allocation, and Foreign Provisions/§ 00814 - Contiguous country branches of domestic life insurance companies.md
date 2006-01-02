@@ -66,7 +66,7 @@ If the aggregate fair market value of all the invested assets and tangible prope
 
 #### (A) In general
 
-&emsp;&emsp;No income, war profits, or excess profits taxes paid or accrued to any foreign country or possession of the United States which is attributable to income excluded under subsection (a) shall be taken into account for purposes of subpart A of part III of subchapter N (relating to foreign tax credit) or allowable as a deduction.
+&emsp;&emsp;No income, war profits, or excess profits taxes paid or accrued to any foreign countryor possession of the United States which is attributable to income excluded under subsection (a) shall be taken into account for purposes of subpart A of part III of subchapter N (relating to foreign tax credit) or allowable as a deduction.
 
 #### (B) Treatment of repatriated amounts
 
@@ -78,7 +78,7 @@ If the aggregate fair market value of all the invested assets and tangible prope
 
 #### (g) Election
 
-A taxpayer may make the election provided by this subsection with respect to any contiguous country for any taxable year. An election made under this subsection for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with theconsent of the Secretary. The election provided by this subsection shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made, and such election and any approved revocation thereof shall be made in the manner provided by the Secretary.
+A taxpayer may make the election provided by this subsection with respect to any contiguous country for any taxable year. An election made under this subsection for any taxable year shall remain in effect for all subsequent taxable years, except that it may be revoked with the consent of the Secretary. The election provided by this subsection shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made, and such election and any approved revocation thereof shall be made in the manner provided by the Secretary.
 
 #### (h) Special rule for domestic stock life insurance companies
 

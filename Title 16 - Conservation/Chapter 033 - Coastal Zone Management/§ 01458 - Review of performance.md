@@ -32,7 +32,7 @@ Management program approval and financial assistance may not be withdrawn under 
 
 #### Amendments
 
-1992—Subsecs. (b), (c)(1). Pub. L. 102–587 substituted “coastal state's” for “coastal State's” in subsec. (b) and “coastal state” for “coastal State” after “any” in subsec. (c)(1).
+1992—Subsecs. (b), (c)(1). Pub. L. 102–587 substituted “coastal state's” for “coastal State's” in subsec. (b)and “coastal state” for “coastal State” after “any” in subsec. (c)(1).
 
 1990—Subsec. (a). Pub. L. 101–508, §6216(b), substituted “through (K)” for “through (I)”.
 

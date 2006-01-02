@@ -2,7 +2,7 @@
 
 #### (a) Waiver of requirements in event of business hardship
 
-If an employer, or in the case of a multi-employer plan, 10 percent or more of the number of employers contributing to or under the plan are unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan) and if application of the standard would be adverse to the interests of plan participants in the aggregate, the Secretary of the Treasury may waive the requirements of section 1082(a) of this title for such year with respect to all or any portion of the minimum funding standard other than the portion thereof determined under section 1082(b)(2)(C) of this title. The Secretary of the Treasury shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years. The interest rate used for purposes of computing the amortization charge described in subsection (b)(2)(C) of this section for any plan year shall be—
+If an employer, or in the case of a multi-employer plan, 10 percent or more of the number of employers contributing to or under the plan are unable to satisfy the minimum funding standard for a plan year without temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan) and if application of the standard would be adverse to the interests of plan participants in the aggregate, the Secretary of the Treasury may waive the requirements of section 1082(a) of this title for such year with respect to all or any portion of the minimum funding standard other than the portion thereof determined under section 1082(b)(2)(C) of this title. The Secretary of theTreasury shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years. The interest rate used for purposes of computing the amortization charge described in subsection (b)(2)(C) of this section for any plan year shall be—
 
 &emsp;(1) in the case of a plan other than a multiemployer plan, the greater of (A) 150 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of such plan year), or (B) the rate of interest used under the plan in determining costs (including adjustments under section 1082(b)(5)(B) of this title), and
 
@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Co
 
 Pub. L. 101–239, §7881(b)(8), transferred subsec. (f) to follow immediately after subsec. (e).
 
-1987—Subsec. (a). Pub. L. 100–203, §9306(a)(2)(B), substituted “temporary substantial business hardship (substantial business hardship in the case of a multiemployer plan)” for “substantial business hardship”.
+1987—Subsec. (a). Pub. L. 100–203, §9306(a)(2)(B), substituted “temporary substantial business hardship\(substantial business hardship in the case of a multiemployer plan)” for “substantial business hardship”.
 
 Pub. L. 100–203, §9306(b)(2), substituted “more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan)” for “more than 5 of any 15”.
 

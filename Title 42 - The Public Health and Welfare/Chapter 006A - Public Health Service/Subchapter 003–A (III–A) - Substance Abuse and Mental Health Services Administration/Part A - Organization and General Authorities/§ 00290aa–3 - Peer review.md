@@ -6,7 +6,7 @@ The Secretary, after consultation with the Administrator, shall require appropri
 
 #### (b) Members
 
-The members of any peer review group established under subsection (a) of this section shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of the group. Not more than one-fourth of the members of any such peerreview group shall be officers or employees of the United States.
+The members of any peer review group established under subsection (a) of this section shall be individuals who by virtue of their training or experience are eminently qualified to perform the review functions of the group. Not more than one-fourth of the members of any such peer review group shall be officers or employees of the United States.
 
 #### (c) Advisory council review
 
@@ -20,7 +20,7 @@ If the direct cost of a grant or cooperative agreement (described in subsection 
 
 The Secretary may establish limited exceptions to the limitations contained in this section regarding participation of Federal employees and advisory council approval. The circumstances under which the Secretary may make such an exception shall be made public.
 
-(July 1, 1944, ch. 373, title V, §504, formerly §506, as added Pub. L. 98–24, §2(b)(7), Apr. 26, 1983, 97 Stat. 178; amended Pub. L. 99–158, §3(c), Nov. 20, 1985, 99 Stat. 879; renumbered §507 and amended Pub. L. 99–570, title IV, §§4004(a), 4007, Oct. 27, 1986, 100 Stat. 3207–109, 3207–115; renumbered §504 and amended Pub. L. 102–321, title I, §104, July 10, 1992, 106 Stat. 333; Pub. L. 102–352, §2(a)(7), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–392, title IV, §412, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 106–310, div. B, title XXXIV, §3401(b), Oct. 17, 2000, 114 Stat. 1218.)
+(July 1, 1944, ch. 373, title V, §504, formerly §506, as added Pub. L. 98–24, §2(b)(7), Apr. 26, 1983, 97 Stat. 178; amended Pub. L. 99–158, §3(c), Nov. 20,1985, 99 Stat. 879; renumbered §507 and amended Pub. L. 99–570, title IV, §§4004(a), 4007, Oct. 27, 1986, 100 Stat. 3207–109, 3207–115; renumbered §504 and amended Pub. L. 102–321, title I, §104, July 10, 1992, 106 Stat. 333; Pub. L. 102–352, §2(a)(7), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–392, title IV, §412, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 106–310, div. B, title XXXIV, §3401(b), Oct. 17, 2000, 114 Stat. 1218.)
 
 #### Codification
 

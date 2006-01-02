@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grantmade for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
+&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grant made for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) an amount equal to the amount available for distribution under paragraph (2) for the fiscal year involved; and
 
@@ -58,7 +58,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than July 1, 2004, the Secretary shall determine whether there is data on cases of HIV disease from all eligible areas (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) sufficiently accurate and reliable for use for purposes of subparagraph (C)(i). In making such a determination, the Secretary shall take into consideration the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease).
+&emsp;&emsp;&emsp;Not later than July 1, 2004, the Secretary shall determine whether there is data oncases of HIV disease from all eligible areas (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) sufficiently accurate and reliable for use for purposes of subparagraph (C)(i). In making such a determination, the Secretary shall take into consideration the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease).
 
 #### (ii) Effect of adverse determination
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(D) demonstrates the ability of the area to utilize such supplemental financial resources in a manner that is immediately responsive and cost effective;
 
-&emsp;&emsp;(E) demonstrates that resources will be allocated in accordance with the local demographic incidence of AIDS including appropriate allocations for services for infants, children, youth, women, and families with HIV disease;
+&emsp;&emsp;(E) demonstrates that resources will be allocated in accordance with the local demographic incidence of AIDS including appropriate allocations for services for infants,children, youth, women, and families with HIV disease;
 
 &emsp;&emsp;(F) demonstrates the inclusiveness of the planning council membership, with particular emphasis on affected communities and individuals with HIV disease; and
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of this part, the Secretary, in carrying out
 
 #### References in Text
 
-Section 300ff–15 of this title, referred to in subsecs. (a)(2) and (b)(3)(A), was amended by Pub. L. 104–146, §3(b)(5)(C), (D), May 20, 1996, 110 Stat. 1353, to add a new subsec. (c), relating to single application and grant awards, and redesignate former subsec. (c), relating to date for submission of grant applications, as (d).
+Section 300ff–15 of this title, referred to in subsecs. (a)(2) and (b)(3)(A), was amended by Pub. L. 104–146, §3(b)(5)(C), (D), May 20, 1996, 110 Stat. 1353, to add a newsubsec. (c), relating to single application and grant awards, and redesignate former subsec. (c), relating to date for submission of grant applications, as (d).
 
 Section 501(b) of the Ryan White CARE Act Amendments of 2000, referred to in subsecs. (a)(3)(D)(i) and (b)(2)(C), is section 501(b) of Pub. L. 106–345, which is set out in a note under section 300ff–11 of this title.
 
@@ -230,7 +230,7 @@ Pub. L. 106–345, §112(a)(2), redesignated subpar. (B) as (C). Former subpar. 
 
 Subsec. (b)(2)(D). Pub. L. 106–345, §112(a)(2), (6), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
 
-Subsec. (b)(4). Pub. L. 106–345, §112(c)(1), (2), redesignated par. (5) as (4) and struck out heading and text offormer par. (4). Text read as follows: “The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on the application submitted by the eligible area under section 300ff–15(b) of this title.”
+Subsec. (b)(4). Pub. L. 106–345, §112(c)(1), (2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on the application submitted by the eligible area under section 300ff–15(b) of this title.”
 
 Subsec. (b)(4)(B). Pub. L. 106–345, §112(c)(3), substituted “an expedited grant” for “an expedited grants”.
 
@@ -286,7 +286,7 @@ Amount relating to cumulative number of cases.—The amount referred to in claus
 
 &emsp;“(ii) a percentage equal to the quotient of—
 
-&emsp;&emsp;“(I) the cumulative number of cases of acquired immune deficiency syndrome in the eligible area involved, as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control on the applicable date described in section 300ff–11(a) of this title; divided by
+&emsp;&emsp;“(I) the cumulative number of cases of acquired immune deficiency syndrome in the eligible area involved, as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control on the applicable datedescribed in section 300ff–11(a) of this title; divided by
 
 &emsp;&emsp;“(II) the sum of the cumulative number of such cases in all eligible areas for which an application for a grant under paragraph (1) has been approved.
 

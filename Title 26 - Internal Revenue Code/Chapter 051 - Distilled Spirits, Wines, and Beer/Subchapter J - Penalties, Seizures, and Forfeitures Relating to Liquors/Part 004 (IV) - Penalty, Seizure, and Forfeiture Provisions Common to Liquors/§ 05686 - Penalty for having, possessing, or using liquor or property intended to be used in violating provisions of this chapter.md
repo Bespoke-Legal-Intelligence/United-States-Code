@@ -16,7 +16,3 @@ A prior section 5686, act Aug. 16, 1954, ch. 736, 68A Stat. 700, consisted in su
 
 Prior section 5686(a) related to offenses as to operation of industrial alcohol or denaturing plants or unlawful withdrawal of taxable alcohol. See section 5687 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5505 of this title.
-

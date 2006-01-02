@@ -2,7 +2,7 @@
 
 (a) Medical students at the University shall be selected under procedures prescribed by the Secretary of Defense. In so prescribing, the Secretary shall consider the recommendations of the Board. However, selection procedures prescribed by the Secretary of Defense shall emphasize the basic requirement that students demonstrate sincere motivation and dedication to a career in the uniformed services (as defined in section 1072(1) of this title).
 
-(b) Medical students shall be commissioned officers of a uniformed service as determined under regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. Notwithstanding any other provision of law, they shall serve on active duty in pay grade O–1 with full pay and allowances of that grade. Upon graduation they shall be appointed in a regular component, if qualified, unless they are covered by section 2115 of this title. Medical students who graduate shall be required, except as provided in section 2115 of this title, to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table:
+(b) Medical students shall be commissioned officers of a uniformed service as determined under regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade. Upon graduation they shall be required to serve on active duty unless they are covered by section 2115 of this title. Medical students who graduate shall be required, except as provided in section 2115 of this title, to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table:
 
 <b>Period of Service</b>
 
@@ -48,9 +48,11 @@
 
 (h) A graduate of the University who is relieved of the graduate's active-duty service obligation under subsection (b) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e) of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII,§803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696; Pub. L. 104–106, div. A, title X, §1072(b)(3), Feb. 10, 1996, 110 Stat. 446; Pub. L. 104–201, div. A, title VII, §741(b), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 105–85, div. A, title X, §1073(a)(38), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII, §803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696; Pub. L. 104–106, div. A, title X, §1072(b)(3), Feb. 10, 1996, 110 Stat. 446; Pub. L. 104–201, div. A, title VII, §741(b), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 105–85, div. A, title X, §1073(a)(38), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 108–375, div. A, title V, §501(e), Oct. 28, 2004, 118 Stat. 1874.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–375, in introductory provisions, substituted “They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade. Upon graduation they shall be required to serve on active duty” for “Notwithstanding any other provision of law, they shall serve on active duty in pay grade O–1 with full pay and allowances of that grade. Upon graduation they shall be appointed in a regular component, if qualified,”.
 
 1997—Subsec. (h). Pub. L. 105–85 substituted “section 2123(e)” for “section 2123(e)(1)”.
 
@@ -84,6 +86,10 @@ Pub. L. 96–513, §114, struck out provision under which officers attending the
 
 1979—Subsec. (b). Pub. L. 96–107 substituted “uniformed” for “uniform”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Section 741(c) of Pub. L. 104–201 provided that: “The amendments made by this section \[amending this section and section 2123 of this title\] shall apply with respect to individuals who first become members of the Armed Forces Health Professions Scholarship and Financial Assistance program or students of the Uniformed Services University of the Health Sciences on or after October 1, 1996.”
@@ -113,8 +119,4 @@ For transfer of authority of Board of Regents of Uniformed Services University o
 #### Transition Provisions
 
 Section 741(d)(2) of Pub. L. 104–201 provided that: “In the case of any person who, as of October 1, 1996, is serving an active-duty service obligation as a graduate of the Uniformed Services University of the Health Sciences or is incurring an active-duty service obligation as a student of the University, and who is subsequently relieved of the active-duty service obligation before the completion of the obligation, the alternative obligations authorized by the amendment made by subsection (b) \[amending this section\] may be implemented by the Secretary of Defense with the agreement of the person.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 632 of this title.
 

@@ -6,7 +6,7 @@ Any person who—
 
 &emsp;(2) knowingly withdraws any denatured distilled spirits free of tax under section 5214(a)(1) for beverage purposes; or
 
-&emsp;(3) knowingly sells any denatured distilled spirits withdrawn free of tax under section5214(a)(1), or any articles containing such denatured distilled spirits, for beverage purposes; or
+&emsp;(3) knowingly sells any denatured distilled spirits withdrawn free of tax under section 5214(a)(1), or any articles containing such denatured distilled spirits, for beverage purposes; or
 
 &emsp;(4) recovers or attempts to recover by redistillation or by any other process or means (except as authorized in section 5223 or in section 5273(c)) any distilled spirits from any denatured distilled spirits withdrawn free of tax under section 5214(a)(1), or from any articles manufactured therefrom, or knowingly uses, sells, conceals, or otherwise disposes of distilled spirits so recovered or redistilled;
 
@@ -19,8 +19,4 @@ Any person who—
 A prior section 5607, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to penalty for distilling on prohibited premises, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5505(i) and 5601(a)(6) of this title.
 
 Provisions similar to those comprising this section were contained in prior section 5647, act Aug. 16, 1954, ch. 736, 68A Stat. 693, prior to the general revision of this chapter by Pub. L. 85–859.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5273 of this title.
 

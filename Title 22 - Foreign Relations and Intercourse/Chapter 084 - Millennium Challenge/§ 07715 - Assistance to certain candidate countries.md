@@ -8,7 +8,7 @@ The Board, acting through the Chief Executive Officer, is authorized to provide 
 
 A candidate country referred to in subsection (a) is a candidate country that—
 
-&emsp;(1) satisfies the requirements contained in subparagraphs (A) and (B) of section 7705(a)(1) of this title; and
+&emsp;(1) satisfies the requirements contained in subsection (a) or (b) of section 7705 of this title; and
 
 &emsp;(2) demonstrates a significant commitment to meet the requirements of section 7706(b) of this title but fails to meet such requirements (including by reason of the absence or unreliability of data).
 
@@ -20,5 +20,9 @@ Assistance under this section may be provided through the United States Agency f
 
 Not more than 10 percent of the amount appropriated pursuant to the authorization of appropriations under section 7718(a) of this title for fiscal year 2004 is authorized to be made available to carry out this section.
 
-(Pub. L. 108–199, div. D, title VI, §616, Jan. 23, 2004, 118 Stat. 224.)
+(Pub. L. 108–199, div. D, title VI, §616, Jan. 23, 2004, 118 Stat. 224; Pub. L. 109–13, div. A, title II, §2109, May 11, 2005, 119 Stat. 268.)
+
+#### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–13 substituted “subsection (a) or (b) of section 7705” for “subparagraphs (A) and (B) of section 7705(a)(1)”.
 

@@ -1,6 +1,6 @@
 ### §327. Courts-martial of National Guard not in Federal service: convening authority
 
-(a) In the National Guard not in Federal service, general, special, and summary courts-martial may be convened as provided by the laws of the respective States and Territories, Puerto Rico, and the District of Columbia.
+(a) In the National Guard not in Federal service, general, special, and summary courts-martial may be convened as provided by the laws of the respective States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
 
 (b) In the National Guard not in Federal service—
 
@@ -20,7 +20,7 @@
 
 (c) The convening authorities provided under subsection (b) are in addition to the convening authorities provided under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 608; Pub. L. 100–456, div. A, title XII, §1234(b)(4), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 107–314, div. A, title V, §512(b), Dec. 2, 2002, 116 Stat. 2537.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 608; Pub. L. 100–456, div. A, title XII, §1234(b)(4), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 107–314, div. A, title V, §512(b), Dec. 2, 2002, 116 Stat. 2537; Pub. L. 109–163, div. A, title X, §1057(b)(7), Jan. 6, 2006, 119 Stat. 3442.)
 
 Historical and Revision Notes
 
@@ -45,6 +45,8 @@ In subsection (a), the words “Federal service” are substituted for the words
 In subsection (b), the words “A general court-martial may sentence to—” are substituted for the words “and such courts shall have the power to impose \* \* \* to sentence”. The words “any combination of these punishments” are substituted for the words “or any two or more of such punishments may be combined in the sentences imposed by such courts”.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “States and Territories, Puerto Rico, and the District of Columbia”.
 
 2002—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text read as follows:
 

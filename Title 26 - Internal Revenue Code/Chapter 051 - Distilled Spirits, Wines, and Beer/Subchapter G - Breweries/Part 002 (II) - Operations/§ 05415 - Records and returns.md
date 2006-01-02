@@ -18,7 +18,3 @@ A prior section 5415, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5671, 5672 of this title.
-

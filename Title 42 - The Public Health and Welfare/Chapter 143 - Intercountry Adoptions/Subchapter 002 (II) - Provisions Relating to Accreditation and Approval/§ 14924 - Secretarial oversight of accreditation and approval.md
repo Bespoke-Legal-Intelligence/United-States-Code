@@ -44,7 +44,7 @@ The Secretary shall—
 
 #### (3) Effect of debarment
 
-&emsp;An accrediting entity may take into account the circumstances of the debarment of an agency or person that has been debarred pursuant to this subsection in considering any subsequent application of the agency or person, or of any other entity in which the agency or person has an ownership or control interest, for accreditation or approval under this subchapter.
+&emsp;An accrediting entity may take into account the circumstances of the debarment of anagency or person that has been debarred pursuant to this subsection in considering any subsequent application of the agency or person, or of any other entity in which the agency or person has an ownership or control interest, for accreditation or approval under this subchapter.
 
 #### (d) Judicial review
 

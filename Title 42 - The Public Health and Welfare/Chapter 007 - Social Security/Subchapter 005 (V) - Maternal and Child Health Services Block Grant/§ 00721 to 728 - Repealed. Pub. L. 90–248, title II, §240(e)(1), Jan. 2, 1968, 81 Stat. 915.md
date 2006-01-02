@@ -4,7 +4,7 @@ Section 721, acts Aug. 14, 1935, ch. 531, title V, §521, 49 Stat. 633; Aug. 10,
 
 Section 722, act Aug. 14, 1935, ch. 531, title V, §522, as added Aug. 28, 1958, Pub. L. 85–840, title VI, §601, 72 Stat. 1053; amended Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(3)(B), 74 Stat. 996; July 25, 1962, Pub. L. 87–543, title I, §102(c)(1), 76 Stat. 183; July 30, 1965, Pub. L. 89–97, title II, §208(b), 79 Stat. 355, provided for allotments to States. See section 621 of this title.
 
-Section 723, act Aug. 14, 1935, ch. 531, title V, §523, as added Aug. 28, 1958, Pub. L. 85–840, title VI, §601, 72 Stat. 1053; amended July 25, 1962, Pub. L. 87–543, title I, §102(b), 76 Stat. 182; July 30, 1965, Pub. L. 89–97, title II,§208(c), 79 Stat. 356, provided for payment to States and computation of amounts. See section 622 of this title.
+Section 723, act Aug. 14, 1935, ch. 531, title V, §523, as added Aug. 28, 1958, Pub. L. 85–840, title VI, §601, 72 Stat. 1053; amended July 25, 1962, Pub. L. 87–543, title I, §102(b), 76 Stat. 182; July 30, 1965, Pub. L. 89–97, title II, §208(c), 79 Stat. 356, provided for payment to States and computation of amounts. See section 622 of this title.
 
 Section 724, act Aug. 14, 1935, ch. 531, title V, §524, as added Aug. 28, 1958, Pub. L. 85–840, title VI, §601, 72 Stat. 1054; amended June 25, 1959, Pub. L. 86–70, §32(b), 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §30(b), 74 Stat. 420, provided for allotment percentage and Federal share. See section 623 of this title.
 

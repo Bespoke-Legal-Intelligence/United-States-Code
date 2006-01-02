@@ -2,7 +2,7 @@
 
 #### (a) Authorization for periodic interest reduction payments on behalf of owner of rental housing project
 
-For the purpose of reducing rentals for lower income families, the Secretary is authorized to make, and to contract to make, periodic interest reduction payments on behalf of the owner of a rental housing project designed for occupancy by lower income families, which shall be accomplished through payments to morgagees <sup>1</sup> holding mortgages meeting the special requirements specified in this section.
+For the purpose of reducing rentals for lower income families, the Secretary is authorized to make, and to contract to make, periodic interest reduction payments on behalf of the owner of a rental housing project designed for occupancy by lower income families, which shall be accomplished through payments to morgagees <sup>1</sup>holding mortgages meeting the special requirements specified in this section.
 
 #### (b) Restrictions on payments; payments with respect to projects financed under State or local programs; mortgage insurance premium
 
@@ -38,7 +38,7 @@ The Secretary may include in the payment to the mortgagee such amount, in additi
 
 &emsp;(II) an amount greater than that determined under clause (iii)(I), but not greater than the market rent for a comparable unassisted unit.
 
-(iv) The Secretary may approve a basic rental charge and fair market rental charge for a unitthat exceeds the minimum amounts permitted by this subparagraph for such charges only if—
+(iv) The Secretary may approve a basic rental charge and fair market rental charge for a unit that exceeds the minimum amounts permitted by this subparagraph for such charges only if—
 
 &emsp;(I) the approved basic rental charge and fair market rental charges each exceed the applicable minimum charge by the same amount; and
 
@@ -46,7 +46,7 @@ The Secretary may include in the payment to the mortgagee such amount, in additi
 
 (v) The Secretary may approve a basic rental charge and fair market rental charge under this paragraph for a unit with assistance under section 1437f of title 42 that differs from the basic rental charge and fair market rental charge for a unit in the same project that is similar in size and amenities but without such assistance, as needed to ensure equitable treatment of tenants in units without such assistance.
 
-(B)(i) The rental charge for each dwelling unit shall be at the basic rental charge or such greater amount, not exceeding the fair market rental charge determined pursuant to subparagraph (A), as represents 30 percent of the tenant's adjusted income, except as otherwise provided in this subparagraph.
+(B)(i) The rental charge for each dwelling unit shall be at the basic rental charge or such greater amount, not exceeding the fair market rental charge determined pursuant to subparagraph\(A), as represents 30 percent of the tenant's adjusted income, except as otherwise provided in this subparagraph.
 
 (ii) In the case of a project which contains more than 5000 units, is subject to an interest reduction payments contract, and is financed under a State or local project, the Secretary may reduce the rental charge ceiling, but in no case shall the rental charge be below the basic rental charge set forth in subparagraph (A)(ii)(I).
 
@@ -84,7 +84,7 @@ The Secretary may include in the payment to the mortgagee such amount, in additi
 
 &emsp;(iii) limited to not more than 10 percent per year if such increase is more than 10 percent but less than 30 percent.
 
-(B) Assistance under section 1437f of title 42 shall be provided, to the extent available under appropriations Acts, if necessary to mitigate any adverse effects on income-eligible tenants.
+(B) Assistance under section 1437f of title 42 shall be provided, to the extent available underappropriations Acts, if necessary to mitigate any adverse effects on income-eligible tenants.
 
 (6) Repealed. Pub. L. 104–99, title IV, §405(d)(2), Jan. 26, 1996, 110 Stat. 45.
 
@@ -108,7 +108,7 @@ In addition to establishing the requirements specified in subsection (e) of this
 
 (2) Contracts for assistance payments under this section may be entered into only with respect to tenants whose incomes do not exceed 80 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 per centum of the median for the area on the basis of his findings that such variations are necessary because of prevailing levels of construction costs, unusually high or low family incomes, or other factors.
 
-(3) Not less than 10 per centum of the total amount of contracts for assistance payments authorized by appropriation Acts to be made after June 30, 1974, shall be available for use only withrespect to dwellings, or dwelling units in projects, which are approved by the Secretary prior to rehabilitation.
+(3) Not less than 10 per centum of the total amount of contracts for assistance payments authorized by appropriation Acts to be made after June 30, 1974, shall be available for use only with respect to dwellings, or dwelling units in projects, which are approved by the Secretary prior to rehabilitation.
 
 (4) At least 20 per centum of the total amount of contracts for assistance payments authorized in appropriation Acts to be made after June 30, 1974, shall be available for use only with respect to projects which are planned in whole or in part for occupancy by elderly or handicapped families. As used in this paragraph, the term “elderly families” means families which consist of two or more persons the head of which (or his spouse) is sixty-two years of age or over or is handicapped. Such term also means a single person who is sixty-two years of age or over or is handicapped. A person shall be considered handicapped if such person is determined, pursuant to regulations issued by the Secretary, to have an impairment which (A) is expected to be of long-continued and indefinite duration, (B) substantially impedes his ability to live independently, and (C) is of such a nature that such ability could be improved by more suitable housing conditions.
 
@@ -144,7 +144,7 @@ In addition to establishing the requirements specified in subsection (e) of this
 
 > In any case in which it is determined in accordance with regulations of the Secretary that facilities in existence or under construction on December 31, 1970, which could appropriately be used for classroom purposes are available in any such property or project and that public schools in the community are overcrowded due in part to the attendance at such schools of residents of the property or project, such facilities may be used for such purposes to the extent permitted in such regulations (without being subject to any of the requirements of the first proviso in subparagraph (A) except the requirement that the project be predominantly residential).
 
-(6) With the approval of the Secretary, the mortgagor may sell the individual dwelling units to lower income or elderly or handicapped purchasers. The Secretary may consent to the release of the mortgagor from his liability underthe mortgage and the credit instrument secured thereby, or consent to the release of parts of the mortgaged property from the lien of the mortgage, upon such terms and conditions as he may prescribe, and the mortgage may provide for such release.
+(6) With the approval of the Secretary, the mortgagor may sell the individual dwelling units to lower income or elderly or handicapped purchasers. The Secretary may consent to the release of the mortgagor from his liability under the mortgage and the credit instrument secured thereby, or consent to the release of parts of the mortgaged property from the lien of the mortgage, upon such terms and conditions as he may prescribe, and the mortgage may provide for such release.
 
 #### (k) Definitions
 
@@ -182,7 +182,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 &emsp;(2) existing allocation under section 236 contracts on projects whose mortgages were made by State or local housing finance agencies or State or local government agencies which are not being funded, to the extent of such excess allocation, for any purposes permitted under the provisions of this section, including without limitation rent supplement and rental assistance payment unit increases and mortgage increases for any eligible purpose under this section, including without limitation operating deficit loans.
 
-> An application shall be eligible for assistance under the previous sentence only if the mortgagee submits the application within 548 days after February 5, 1988, along with a certification of the mortgagee that amounts hereunder are to be utilized only for the purpose of either (A) reducing rents or rent increases to tenants, or (B) making repairs or otherwise increasing the economic viability of a related project. Unexpended balances referred to in the first sentence of this subsection which remain after disposition of all such applications is favorably concluded shall be rescinded. The calculation of the amount of assistance to be provided under an interest reduction contract pursuant to this subsection shall be made on the basis of an assumed mortgage term equal to the lesser of a 40-year amortization period or the term of that part of the mortgage which relates to the additional assistance provided under this subsection, even though the additional assistance may be provided for a shorter period. The authority conferred by this subsection to provide interest reduction and rental assistance payments shall be available only to the extent approved in appropriation Acts.
+> An application shall be eligible for assistance under the previous sentence only if the mortgagee submits the application within 548 days after February 5, 1988, along with a certification of the mortgagee that amounts hereunder are to be utilized only for the purpose of either (A) reducing rents or rent increases to tenants, or (B) making repairs or otherwise increasing the economic viability of a related project. Unexpended balances referred to in the first sentence of this subsection which remain after disposition of all such applications is favorably concluded shall be rescinded. The calculation of the amount of assistance to be provided under an interest reduction contract pursuant to this subsection shall be made on the basis of an assumed mortgageterm equal to the lesser of a 40-year amortization period or the term of that part of the mortgage which relates to the additional assistance provided under this subsection, even though the additional assistance may be provided for a shorter period. The authority conferred by this subsection to provide interest reduction and rental assistance payments shall be available only to the extent approved in appropriation Acts.
 
 #### (s) Grants and loans for rehabilitation of multifamily projects
 
@@ -246,7 +246,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide in any grant or loan agreement under this subsection that the grant or loan shall be terminated if the project fails to meet housing quality standards, as applicable on October 27, 1997, or any successor standards for the physical conditions of projects, as are determined by the Secretary.
+&emsp;&emsp;The Secretary shall provide in any grant or loan agreement under this subsection that the grant or loan shall be terminated ifthe project fails to meet housing quality standards, as applicable on October 27, 1997, or any successor standards for the physical conditions of projects, as are determined by the Secretary.
 
 #### (B) Affordability and use clauses
 
@@ -310,7 +310,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 &emsp;&emsp;&emsp;(ii) the Secretary may make loans in any fiscal year only to the extent or in such amounts that amounts are used under clause (i) to cover costs of such loans.
 
-(June 27, 1934, ch. 847, title II, §236, as added Pub. L. 90–448, title II, §201(a), Aug. 1, 1968, 82 Stat. 498; amended Pub. L. 91–152, title I, §§101(e), 107(b), 108, title IV, §§412(c), 418(b), Dec.24, 1969, 83 Stat. 379, 381, 398, 402; Pub. L. 91–609, title I, §§101(e), 102(b), 108, 114(b), 114\[115\](b), 117(c), 118(a), 121, Dec. 31, 1970, 84 Stat. 1770, 1772–1776; Pub. L. 92–503, §1(e), Oct. 18, 1972, 86 Stat. 906; Pub. L. 93–85, §1(e), Aug. 10, 1973, 87 Stat. 220; Pub. L. 93–117, §1(e), Oct. 2, 1973, 87 Stat. 421; Pub. L. 93–383, title II, §212, Aug. 22, 1974, 88 Stat. 672; Pub. L. 94–173, §4(b), Dec. 23, 1975, 89 Stat. 1027; Pub. L. 94–375, §4, Aug. 3, 1976, 90 Stat. 1070; Pub. L. 95–128, title II, §206(a)–(c), title III, §301(e), Oct. 12, 1977, 91 Stat. 1130, 1131; Pub. L. 95–406, §1(e), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title II, §201(k), formerly (i), title III, §301(e), Oct. 31, 1978, 92 Stat. 2087, 2096, as renumbered Pub. L. 97–35, title III, §321(f)(2)(A), Aug. 13, 1981, 95 Stat. 400; Pub. L. 96–71, §1(e), Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(e), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title II, §§203(b), 205(b), title III, §301(e), Dec. 21, 1979, 93 Stat. 1107, 1108, 1111; Pub. L. 96–372, §§1(e), 2, Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title II, §204(b), 211, title III, §301(e), Oct. 8, 1980, 94 Stat. 1629, 1636, 1638; Pub. L. 97–35, title III, §§321(f)(3), 322(f), 331(e), Aug. 13, 1981, 95 Stat. 400, 403, 413; Pub. L. 97–289, §1(e), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(e), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(e), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title II, §§217(c), 218, Nov. 30, 1983, 97 Stat. 1186, 1187; Pub. L. 98–479, title I, §§102(a)(2), 104(a)(4), title II, §204(a)(9), Oct. 17, 1984, 98 Stat. 2221, 2225, 2232; Pub. L. 100–242, title I, §§167(a)(1), (b), 170(b), 186(a), title IV, §§429(f), 430(a), Feb. 5, 1988, 101 Stat. 1864, 1867, 1877, 1919; Pub. L. 101–235, title II, §203(a)(1), title III, §301, Dec. 15, 1989, 103 Stat. 2037, 2043; Pub. L. 101–625, title V, §578(a), title VI, §§611(a), (b)(1), 612(a), Nov. 28, 1990, 104 Stat. 4244, 4278, 4279; Pub. L. 102–550, title III, §331, title IV, §408(b), Oct. 28, 1992, 106 Stat. 3773, 3778; Pub. L. 104–99, title IV, §405(d), Jan. 26, 1996, 110 Stat. 44; Pub. L. 104–134, title I, §101(e) \[title II, §228\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–292; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §221, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–65, title V, §531, Oct. 27, 1997, 111 Stat. 1409; Pub. L. 105–276, title II, §227, Oct. 21, 1998, 112 Stat. 2490; Pub. L. 106–74, title V, §§532(a)–(d), 533, Oct. 20, 1999, 113 Stat. 1116, 1117, 1119; Pub. L. 106–377, §1(a)(1) \[title II, §216\], Oct. 27, 2000, 114 Stat. 1441, 1441A–28; Pub. L. 106–569, title VIII, §861(a), Dec. 27, 2000, 114 Stat. 3025.)
+(June 27, 1934, ch. 847, title II, §236, as added Pub. L. 90–448, title II, §201(a), Aug. 1, 1968, 82 Stat. 498; amended Pub. L. 91–152, title I, §§101(e), 107(b), 108, title IV, §§412(c), 418(b), Dec. 24, 1969, 83 Stat. 379, 381, 398, 402; Pub. L. 91–609, title I, §§101(e), 102(b), 108, 114(b), 114\[115\](b), 117(c), 118(a), 121, Dec. 31, 1970, 84 Stat. 1770, 1772–1776; Pub. L. 92–503, §1(e), Oct. 18, 1972, 86 Stat. 906; Pub. L. 93–85, §1(e), Aug. 10, 1973, 87 Stat. 220; Pub. L. 93–117, §1(e), Oct. 2, 1973, 87 Stat. 421; Pub. L. 93–383, title II, §212, Aug. 22, 1974, 88 Stat. 672; Pub. L. 94–173, §4(b), Dec. 23, 1975, 89 Stat. 1027; Pub. L. 94–375, §4, Aug. 3, 1976, 90 Stat. 1070; Pub. L. 95–128, title II, §206(a)–(c), title III, §301(e), Oct. 12, 1977, 91 Stat. 1130, 1131; Pub. L. 95–406, §1(e), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title II, §201(k), formerly (i), title III, §301(e), Oct. 31, 1978, 92 Stat. 2087, 2096, as renumbered Pub. L. 97–35, title III, §321(f)(2)(A), Aug. 13, 1981, 95 Stat. 400; Pub. L. 96–71, §1(e),Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(e), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title II, §§203(b), 205(b), title III, §301(e), Dec. 21, 1979, 93 Stat. 1107, 1108, 1111; Pub. L. 96–372, §§1(e), 2, Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title II, §204(b), 211, title III, §301(e), Oct. 8, 1980, 94 Stat. 1629, 1636, 1638; Pub. L. 97–35, title III, §§321(f)(3), 322(f), 331(e), Aug. 13, 1981, 95 Stat. 400, 403, 413; Pub. L. 97–289, §1(e), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(e), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(e), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title II, §§217(c), 218, Nov. 30, 1983, 97 Stat. 1186, 1187; Pub. L. 98–479, title I, §§102(a)(2), 104(a)(4), title II, §204(a)(9), Oct. 17, 1984, 98 Stat. 2221, 2225, 2232; Pub. L. 100–242, title I, §§167(a)(1), (b), 170(b), 186(a), title IV, §§429(f), 430(a), Feb. 5, 1988, 101 Stat. 1864, 1867, 1877, 1919; Pub. L. 101–235, title II, §203(a)(1), title III, §301, Dec. 15, 1989, 103 Stat. 2037, 2043; Pub. L. 101–625, title V, §578(a), title VI, §§611(a), (b)(1), 612(a), Nov. 28, 1990, 104 Stat. 4244, 4278, 4279; Pub. L. 102–550, title III, §331, title IV, §408(b), Oct. 28, 1992, 106 Stat. 3773, 3778; Pub. L. 104–99, title IV, §405(d), Jan. 26, 1996, 110 Stat. 44; Pub. L. 104–134, title I, §101(e) \[title II, §228\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–292; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–204, title II, §221, Sept. 26, 1996, 110 Stat. 2906; Pub. L. 105–65, title V, §531, Oct. 27, 1997, 111 Stat. 1409; Pub. L. 105–276, title II, §227, Oct. 21, 1998, 112 Stat. 2490; Pub. L. 106–74, title V, §§532(a)–(d), 533, Oct. 20, 1999, 113 Stat. 1116, 1117, 1119; Pub. L. 106–377, §1(a)(1) \[title II, §216\], Oct. 27, 2000, 114 Stat. 1441, 1441A–28; Pub. L. 106–569, title VIII, §861(a), Dec. 27, 2000, 114 Stat. 3025.)
 
 #### References in Text
 
@@ -426,7 +426,7 @@ Subsec. (f)(4). Pub. L. 100–242, §167(a)(1), substituted “100 percent” fo
 
 Subsec. (i)(1). Pub. L. 100–242, §§170(b), 429(f), amended par. (1) identically, substituting “subsection (f)(4) of this section” for “subsection (h) of this section”.
 
-Subsec. (n). Pub. L. 100–242, §167(b), inserted at end “A mortgage may be insured under this section after the date in the preceding sentence in order to refinancea mortgage insured under this section or to finance pursuant to subsection (j)(3) of this section the purchase, by a cooperative or nonprofit corporation or association, of a project assisted under this section.”
+Subsec. (n). Pub. L. 100–242, §167(b), inserted at end “A mortgage may be insured under this section after the date in the preceding sentence in order to refinance a mortgage insured under this section or to finance pursuant to subsection (j)(3) of this section the purchase, by a cooperative or nonprofit corporation or association, of a project assisted under this section.”
 
 Subsec. (r). Pub. L. 100–242, §430(a), added subsec. (r).
 
@@ -494,7 +494,7 @@ Subsec. (g). Pub. L. 95–128, §206(c), substituted date of enactment of Pub. L
 
 Subsec. (n). Pub. L. 95–128, §301(e), substituted “September 30, 1978” for “September 30, 1977”.
 
-1976—Subsec. (f)(2). Pub. L. 94–375, §4(b), inserted “(including the amount allowed for utilities in the case of a project with separate utility metering)” after “basic rentals” and “reduce the rental payment”, andstruck out “or such lower per centum as may be established pursuant to the provisions of clause (ii) of the last sentence of paragraph (1)” after “25 per centum of their income” and “25 per centum of the tenant's income”.
+1976—Subsec. (f)(2). Pub. L. 94–375, §4(b), inserted “(including the amount allowed for utilities in the case of a project with separate utility metering)” after “basic rentals” and “reduce the rental payment”, and struck out “or such lower per centum as may be established pursuant to the provisions of clause (ii) of the last sentence of paragraph (1)” after “25 per centum of their income” and “25 per centum of the tenant's income”.
 
 Subsec. (n). Pub. L. 94–375, §4(a), substituted “September 30, 1977” for “June 30, 1976”.
 
@@ -574,9 +574,11 @@ Section 206(d) of Pub. L. 95–128 provided that: “The amendments made by this
 
 #### Uncommitted Balances of Excess Rental Charges
 
-Pub. L. 108–447, div. I, title II, Dec. 8, 2004, 118 Stat. 3308, provided in part that: “From the Rental HousingAssistance Fund, all uncommitted balances of excess rental charges as of September 30, 2004, and any collections made during fiscal year 2005 and all subsequent fiscal years, shall be transferred to the Flexible Subsidy Fund, as authorized by section 236(g) of the National Housing Act \[12 U.S.C. 1715z–1(g)\], as amended.”
+Pub. L. 109–115, div. A, title III, Nov. 30, 2005, 119 Stat. 2453, provided in part that: “From the Rental Housing Assistance Fund, all uncommitted balances of excess rental charges as of September 30, 2005, and any collections made during fiscal year 2006 and all subsequent fiscal years, shall be transferred to the Flexible Subsidy Fund, as authorized by section 236(g) of the National Housing Act \[12 U.S.C. 1715z–1(g)\], as amended.”
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 108–447, div. I, title II, Dec. 8, 2004, 118 Stat. 3308.
 
 Pub. L. 108–199, div. G, title II, Jan. 23, 2004, 118 Stat. 385.
 
@@ -593,6 +595,10 @@ Pub. L. 105–276, title II, Oct. 21, 1998, 112 Stat. 2480.
 Pub. L. 105–65, title II, Oct. 27, 1997, 111 Stat. 1361.
 
 Pub. L. 104–134, title I, §101(e) \[title II\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–270.
+
+#### Submission of Electronic Invoices
+
+Pub. L. 109–115, div. A, title III, §325, Nov. 30, 2005, 119 Stat. 2466, provided that: “Notwithstanding any other provision of law, for fiscal year 2006 and thereafter, all mortgagees receiving interest reduction payments under section 236 of the National Housing Act (12 U.S.C. 1715z–1) shall submit only electronic invoices to the Department of Housing and Development in order to receive such payments. The mortgagees shall comply with this requirement no later than 90 days from the date of enactment of this provision \[Nov. 30, 2005\].”
 
 #### Treatment of Excess Charges Previously Collected
 

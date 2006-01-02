@@ -12,7 +12,7 @@ The Commission is authorized to—
 
 &emsp;(4) carry out research on and development of technologies needed for the effective negotiation and verification of international agreements on control of special nuclear materials and nuclear weapons; and
 
-&emsp;(5) under applicable law (other than this paragraph) and consistent with other missions of the Department of Energy, make transfers of federally owned or originated technology to State and local governments, private industry, and universities or other nonprofit organizations so that the prospects for commercialization of such technology are enhanced.
+&emsp;(5) under applicable law (other than this paragraph) and consistent with other missionsof the Department of Energy, make transfers of federally owned or originated technology to State and local governments, private industry, and universities or other nonprofit organizations so that the prospects for commercialization of such technology are enhanced.
 
 #### (b) Material for Department of Defense use
 
@@ -62,7 +62,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3195\], Oct. 30, 2000, 114 Stat. 
 
 #### Nuclear Weapons Stockpile Life Extension Program
 
-Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat. 1758, and is classified to section 2524 of Title 50, War and National Defense.
+Pub. L. 106–65, div. C, title XXXI, §3133, Oct. 5, 1999, 113 Stat. 926, which was formerly set out as a note under this section, was renumbered section 4204 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(5)(A)–(C), Nov. 24, 2003, 117 Stat.1758, and is classified to section 2524 of Title 50, War and National Defense.
 
 #### Report on Stockpile Stewardship Criteria
 
@@ -98,7 +98,7 @@ Report.—Not later than October 1 of 1999 and 2000, and not later than February
 
 “(e)
 
-Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy,the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
+Cooperation of Other Agencies.—(1) The panel may secure directly from the Department of Energy, the Department of Defense, or any of the national weapons laboratories or plants or any other Federal department or agency information that the panel considers necessary to carry out its duties.
 
 “(2) For carrying out its duties, the panel shall be provided full and timely cooperation by the Secretary of Energy, the Secretary of Defense, the Commander of United States Strategic Command, the Directors of the Los Alamos National Laboratory, the Lawrence Livermore National Laboratory, the Sandia National Laboratories, the Savannah River Site, the Y–12 Plant, the Pantex Facility, and the Kansas City Plant, and any other official of the United States that the chairman of the panel determines as having information described in paragraph (1).
 
@@ -186,7 +186,7 @@ Applicability of FACA.—The provisions of the Federal Advisory Committee Act (5
 
 “(h)
 
-Funding.—Of the amounts authorized to be appropriated pursuant to section 3101 \[110 Stat. 2820\], not more than $1,000,000 shall be available for the activitiesof the Commission under this section. Funds made available to the Commission under this section shall remain available until expended.”
+Funding.—Of the amounts authorized to be appropriated pursuant to section 3101 \[110 Stat. 2820\], not more than $1,000,000 shall be available for the activities of the Commission under this section. Funds made available to the Commission under this section shall remain available until expended.”
 
 \[Section 3163(a) of Pub. L. 105–85 provided that the amendment made by that section to section 3162(b)(1) of Pub. L. 104–201, set out above, is effective Jan. 1, 1998.\]
 

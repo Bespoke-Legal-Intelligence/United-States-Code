@@ -10,7 +10,7 @@ Each State or unit of local government which receives a grant under this subchap
 
 #### (b) Reports to Congress
 
-Not later than 90 days after the end of each fiscal year for which grants are made under thissubchapter, the Attorney General shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report that includes—
+Not later than 90 days after the end of each fiscal year for which grants are made under this subchapter, the Attorney General shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report that includes—
 
 &emsp;(1) the aggregate amount of grants made under this subchapter to each State or unit of local government for such fiscal year; and
 

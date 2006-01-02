@@ -10,13 +10,9 @@ Authority to make grants.—Subject to the requirements of this section, the Sec
 
 &emsp;(2)
 
-Maintenance of effort.—No grant may be made to a State under this section in any fiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for alcohol traffic safety programs at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the Transportation Equity Act for the 21st Century.
+Maintenance of effort.—No grant may be made to a State under this subsection in any fiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for alcohol traffic safety programs at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the SAFETEA–LU.
 
 &emsp;(3)
-
-Maximum period of eligibility.—No State may receive grants under this section in more than 8 fiscal years beginning after September 30, 1997.
-
-&emsp;(4)
 
 Federal share.—The Federal share of the cost of implementing and enforcing in a fiscal year a program adopted by a State pursuant to paragraph (1) shall not exceed—
 
@@ -24,121 +20,163 @@ Federal share.—The Federal share of the cost of implementing and enforcing in 
 
 &emsp;&emsp;(B) in each of the third and fourth fiscal years in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth, sixth,,<sup>1</sup> seventh, and eighth fiscal years in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth, sixth, seventh, and eighth fiscal years in which the State receives a grant under this section, 25 percent.
 
 (b)
 
-Basic Grant Eligibility.—
+Eligibility Requirements.—To be eligible for a grant under subsection (a), a State shall—
 
-&emsp;(1)
+&emsp;(1) have an alcohol related fatality rate of 0.5 or less per 100,000,000 vehicle miles traveled as of the date of the grant, as determined by the Secretary using the most recent Fatality Analysis Reporting System of the National Highway Traffic Safety Administration; or
 
-Basic grant a.—A State shall become eligible for a grant under this paragraph by adopting or demonstrating to the satisfaction of the Secretary at least 5 of the following:
+&emsp;(2)(A) for fiscal year 2006 by carrying out 3 of the programs and activities under subsection (c);
 
-&emsp;&emsp;(A)
+&emsp;(B) for fiscal year 2007 by carrying out 4 of the programs and activities under subsection (c); or
 
-Administrative license revocation.—An administrative driver's license suspension or revocation system for individuals who operate motor vehicles while under the influence of alcohol that requires that—
-
-&emsp;&emsp;&emsp;(i) in the case of an individual who, in any 5-year period beginning after the date of enactment of the Transportation Equity Act for the 21st Century, is determined on the basis of a chemical test to have been operating a motor vehicle while under the influence of alcohol or is determined to have refused to submit to such a test as proposed by a law enforcement officer, the State agency responsible for administering drivers’ licenses, upon receipt of the report of the law enforcement officer—
-
-&emsp;&emsp;&emsp;&emsp;(I) shall suspend the driver's license of such individual for a period of not less than 90 days if such individual is a first offender in such 5-year period; and
-
-&emsp;&emsp;&emsp;&emsp;(II) shall suspend the driver's license of such individual for a period of not less than 1 year, or revoke such license, if such individual is a repeat offender in such 5-year period; and
-
-&emsp;&emsp;&emsp;(ii) the suspension and revocation referred to under clause (i) shall take effect not later than 30 days after the day on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
-
-&emsp;&emsp;(B)
-
-Underage drinking program.—An effective system, as determined by the Secretary, for preventing operators of motor vehicles under age 21 from obtaining alcoholic beverages and for preventing persons from making alcoholic beverages available to individuals under age 21. Such system may include the issuance of drivers’ licenses to individuals under age 21 that are easily distinguishable in appearance from drivers’ licenses issued to individuals age 21 or older and the issuance of drivers’ licenses that are tamper resistant.
-
-&emsp;&emsp;(C)
-
-Enforcement program.—Either—
-
-&emsp;&emsp;&emsp;(i) a statewide program for stopping motor vehicles on a nondiscriminatory, lawful basis for the purpose of determining whether the operators of such motor vehicles are driving while under the influence of alcohol; or
-
-&emsp;&emsp;&emsp;(ii) a statewide special traffic enforcement program for impaired driving that emphasizes publicity for the program.
-
-&emsp;&emsp;(D)
-
-Graduated licensing system.—A 3-stage graduated licensing system for young drivers that includes nighttime driving restrictions during the first 2 stages, requires all vehicle occupants to be properly restrained, and makes it unlawful for a person under age 21 to operate a motor vehicle with a blood alcohol concentration of .02 percent or greater.
-
-&emsp;&emsp;(E)
-
-Drivers with high bac.—Programs to target individuals with high blood alcohol concentrations who operate a motor vehicle. Such programs may include implementation of a system of graduated penalties and assessment of individuals convicted of driving under the influence of alcohol.
-
-&emsp;&emsp;(F)
-
-Young adult drinking programs.—Programs to reduce driving while under the influence of alcohol by individuals age 21 through 34. Such programs may include awareness campaigns; traffic safety partnerships with employers, colleges, and the hospitality industry; assessments of first-time offenders; and incorporation of treatment into judicial sentencing.
-
-&emsp;&emsp;(G)
-
-Testing for bac.—An effective system for increasing the rate of testing of the blood alcohol concentrations of motor vehicle drivers involved in fatal accidents and, in fiscal year 2001 and each fiscal year thereafter, a rate of such testing that is equal to or greater than the national average.
-
-&emsp;(2)
-
-Basic grant b.—A State shall become eligible for a grant under this paragraph by adopting or demonstrating to the satisfaction of the Secretary each of the following:
-
-&emsp;&emsp;(A)
-
-Fatal impaired driver percentage reduction.—The percentage of fatally injured drivers with 0.10 percent or greater blood alcohol concentration in the State has decreased in each of the 3 most recent calendar years for which statistics for determining such percentages are available.
-
-&emsp;&emsp;(B)
-
-Fatal impaired driver percentage comparison.—The percentage of fatally injured drivers with 0.10 percent or greater blood alcohol concentration in the State has been lower than the average percentage for all States in each of the calendar years referred to in subparagraph (A).
-
-&emsp;(3)
-
-Basic grant amount.—The amount of a basic grant made to a State for a fiscal year under this subsection shall equal up to 25 percent of the amount apportioned to the State for fiscal year 1997 under section 402.
+&emsp;(C) for fiscal years 2008 and 2009 by carrying out 5 of the programs and activities under subsection (c).
 
 (c)
 
-Supplemental Grants.—
+State Programs and Activities.—The programs and activities referred to in subsection (b) are the following:
 
 &emsp;(1)
 
-In general.—Upon receiving an application from a State, the Secretary may make supplemental grants to the State for meeting 1 or more of the following criteria:
+Check point, saturation patrol program.—A State program to conduct a series of high visibility, statewide law enforcement campaigns in which law enforcement personnel monitor for impaired driving, either through the use of sobriety check points or saturation patrols, on a nondiscriminatory, lawful basis for the purpose of determining whether the operators of the motor vehicles are driving while under the influence of alcohol—
 
-&emsp;&emsp;(A)
+&emsp;&emsp;(A) if the State organizes the campaigns in cooperation with related periodic national campaigns organized by the National Highway Traffic Safety Administration, except that this subparagraph does not preclude a State from initiating sustained high visibility, Statewide law enforcement campaigns independently of the cooperative efforts; and
 
-Video equipment for detection of drunk drivers.—The State provides for a program to acquire video equipment to be used in detecting persons who operate motor vehicles while under the influence of alcohol and in prosecuting those persons, and to train personnel in the use of that equipment.
-
-&emsp;&emsp;(B)
-
-Self-sustaining drunk driving prevention program.—The State provides for a self-sustaining drunk driving prevention program under which a significant portion of the fines or surcharges collected from individuals apprehended and fined for operating a motor vehicle while under the influence of alcohol are returned to those communities which have comprehensive programs for the prevention of such operations of motor vehicles.
-
-&emsp;&emsp;(C)
-
-Reducing driving with a suspended license.—The State enacts and enforces a law to reduce driving with a suspended license. Such law, as determined by the Secretary, may require a “zebra” stripe that is clearly visible on the license plate of any motor vehicle owned and operated by a driver with a suspended license.
-
-&emsp;&emsp;(D)
-
-Use of passive alcohol sensors.—The State provides for a program to acquire passive alcohol sensors to be used by police officers in detecting persons who operate motor vehicles while under the influence of alcohol, and to train police officers in the use of that equipment.
-
-&emsp;&emsp;(E)
-
-Effective dwi tracking system.—The State demonstrates an effective driving while intoxicated (DWI) tracking system. Such a system, as determined by the Secretary, may include data covering arrests, case prosecutions, court dispositions and sanctions, and provide for the linkage of such data and traffic records systems to appropriate jurisdictions and offices within the State.
-
-&emsp;&emsp;(F)
-
-Other programs.—The State provides for other innovative programs to reduce traffic safety problems resulting from individuals driving while under the influence of alcohol or controlled substances, including programs that seek to achieve such a reduction through legal, judicial, enforcement, educational, technological, or other approaches.
+&emsp;&emsp;(B) if, for each fiscal year, the State demonstrates to the Secretary that the State and the political subdivisions of the State that receive funds under this section have increased, in the aggregate, the total number of impaired driving law enforcement activities at high incident locations (or any other similar activity approved by the Secretary) initiated in such State during the preceding fiscal year by a factor that the Secretary determines meaningful for the State over the number of such activities initiated in such State during the preceding fiscal year.
 
 &emsp;(2)
 
-Eligibility.—A State shall be eligible to receive a grant under this subsection in a fiscal year only if the State is eligible to receive a grant under subsection (b) in such fiscal year.
+Prosecution and adjudication outreach program.—A State prosecution and adjudication program under which—
+
+&emsp;&emsp;(A) the State works to reduce the use of diversion programs by educating and informing prosecutors and judges through various outreach methods about the benefits and merits of prosecuting and adjudicating defendants who repeatedly commit impaired driving offenses;
+
+&emsp;&emsp;(B) the courts in a majority of the judicial jurisdictions of the State are monitored on the courts’ adjudication of cases of impaired driving offenses; or
+
+&emsp;&emsp;(C) annual statewide outreach is provided for judges and prosecutors on innovative approaches to the prosecution and adjudication of cases of impaired driving offenses that have the potential for significantly improving the prosecution and adjudication of such cases.
 
 &emsp;(3)
 
-Funding.—Of the amounts made available to carry out this section in a fiscal year, not to exceed 10 percent shall be available for making grants under this subsection.
+Testing of bac.—An effective system for increasing from the previous year the rate of blood alcohol concentration testing of motor vehicle drivers involved in fatal accidents.
+
+&emsp;(4)
+
+High risk drivers.—A law that establishes stronger sanctions or additional penalties for individuals convicted of operating a motor vehicle while under the influence of alcohol whose blood alcohol concentration is 0.15 percent or more than for individuals convicted of the same offense but with a lower blood alcohol concentration. For purposes of this paragraph, “additional penalties” includes—
+
+&emsp;&emsp;(A) a 1-year suspension of a driver's license, but with the individual whose license is suspended becoming eligible after 45 days of such suspension to obtain a provisional driver's license that would permit the individual to drive—
+
+&emsp;&emsp;&emsp;(i) only to and from the individual's place of employment or school; and
+
+&emsp;&emsp;&emsp;(ii) only in an automobile equipped with a certified alcohol ignition interlock device; and
+
+&emsp;&emsp;(B) a mandatory assessment by a certified substance abuse official of whether the individual has an alcohol abuse problem with possible referral to counseling if the official determines that such a referral is appropriate.
+
+&emsp;(5)
+
+Programs for effective alcohol rehabilitation and dwi courts.—A program for effective inpatient and outpatient alcohol rehabilitation based on mandatory assessment and appropriate treatment for repeat offenders or a program to refer impaired driving cases to courts that specialize in driving while impaired cases that emphasize the close supervision of high-risk offenders.
+
+&emsp;(6)
+
+Underage drinking program.—An effective strategy, as determined by the Secretary, for preventing operators of motor vehicles under age 21 from obtaining alcoholic beverages and for preventing persons from making alcoholic beverages available to individuals under age 21. Such a strategy may include—
+
+&emsp;&emsp;(A) the issuance of tamper-resistant drivers’ licenses to individuals under age 21 thatare easily distinguishable in appearance from drivers’ licenses issued to individuals age 21 or older; and
+
+&emsp;&emsp;(B) a program provided by a nonprofit organization for training point of sale personnel concerning, at a minimum—
+
+&emsp;&emsp;&emsp;(i) the clinical effects of alcohol;
+
+&emsp;&emsp;&emsp;(ii) methods of preventing second party sales of alcohol;
+
+&emsp;&emsp;&emsp;(iii) recognizing signs of intoxication;
+
+&emsp;&emsp;&emsp;(iv) methods to prevent underage drinking; and
+
+&emsp;&emsp;&emsp;(v) Federal, State, and local laws that are relevant to such personnel; and
+
+&emsp;&emsp;(C) having a law in effect that creates a 0.02 percent blood alcohol content limit for drivers under 21 years old.
+
+&emsp;(7)
+
+Administrative license revocation.—An administrative driver's license suspension or revocation system for individuals who operate motor vehicles while under the influence of alcohol that requires that—
+
+&emsp;&emsp;(A) in the case of an individual who, in any 5-year period beginning after the date of enactment of the Transportation Equity Act for the 21st Century, is determined on the basis of a chemical test to have been operating a motor vehicle while under the influence of alcohol or is determined to have refused to submit to such a test as proposed by a law enforcement officer, the State agency responsible for administering drivers’ licenses, upon receipt of the report of the law enforcement officer—
+
+&emsp;&emsp;&emsp;(i) suspend the driver's license of such individual for a period of not less than 90 days if such individual is a first offender in such 5-year period; except that under such suspension an individual may operate a motor vehicle, after the 15-day period beginning on the date of the suspension, to and from employment, school, or an alcohol treatment program if an ignition interlock device is installed on each of the motor vehicles owned or operated, or both, by the individual; and
+
+&emsp;&emsp;&emsp;(ii) suspend the driver's license of such individual for a period of not less than 1 year, or revoke such license, if such individual is a repeat offender in such 5–year period; except that such individual to operate a motor vehicle, after the 45-day period beginning on the date of the suspension or revocation, to and from employment, school, or an alcohol treatment program if an ignition interlock device is installed on each of the motor vehicles owned or operated, or both, by the individual; and
+
+&emsp;&emsp;(B) the suspension and revocation referred to under clause (i) take effect not later than 30 days after the date on which the individual refused to submit to a chemical test or received notice of having been determined to be driving under the influence of alcohol, in accordance with the procedures of the State.
+
+&emsp;(8)
+
+Self sustaining impaired driving prevention program.—A program under which a significant portion of the fines or surcharges collected from individuals who are fined for operating a motor vehicle while under the influence of alcohol are returned to communities for comprehensive programs for the prevention of impaired driving.
 
 (d)
 
-Administrative Expenses.—Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.
+Uses of Grants.—Subject to subsection (g)(2), grants made under this section may be used for all programs and activities described in subsection (c), and to defray the following costs:
+
+&emsp;(1) Labor costs, management costs, and equipment procurement costs for the high visibility, Statewide law enforcement campaigns under subsection (c)(1).
+
+&emsp;(2) The costs of the training of law enforcement personnel and the procurement of technology and equipment, including video equipment and passive alcohol sensors, to counter directly impaired operation of motor vehicles.
+
+&emsp;(3) The costs of public awareness, advertising, and educational campaigns that publicize use of sobriety check points or increased law enforcement efforts to counter impaired operation of motor vehicles.
+
+&emsp;(4) The costs of public awareness, advertising, and educational campaigns that target impaired operation of motor vehicles by persons under 34 years of age.
+
+&emsp;(5) The costs of the development and implementation of a State impaired operator information system.
+
+&emsp;(6) The costs of operating programs that result in vehicle forfeiture or impoundment or license plate impoundment.
 
 (e)
 
-Applicability of Chapter 1.—The provisions contained in section 402(d) shall apply to this section.
+Additional Authorities for Certain Authorized Uses.—
+
+&emsp;(1)
+
+Combination of grant proceeds.—Grant funds used for a campaign under subsection (d)(3) may be combined, or expended in coordination, with proceeds of grants under section 402.
+
+&emsp;(2)
+
+Coordination of uses.—Grant funds used for a campaign under paragraph (3) or (4) of subsection (d) may be expended—
+
+&emsp;&emsp;(A) in coordination with employers, schools, entities in the hospitality industry, and nonprofit traffic safety groups; and
+
+&emsp;&emsp;(B) in coordination with sporting events and concerts and other entertainment events.
 
 (f)
+
+Allocation.—Subject to subsection (g), funds made available to carry out this section shall be allocated among States that meet the eligibility criteria in subsection (b) on the basis of the apportionment formula under section 402(c).
+
+(g)
+
+Grants to High Fatality Rate States.—
+
+&emsp;(1)
+
+In general.—The Secretary shall make a separate grant under this section to each State that—
+
+&emsp;&emsp;(A) is among the 10 States with the highest impaired driving related fatalities as determined by the Secretary using the most recent Fatality Analysis Reporting System of the National Highway Traffic Safety Administration; and
+
+&emsp;&emsp;(B) prepares a plan for grant expenditures under this subsection that is approved by the Administrator of the National Highway Traffic Safety Administration.
+
+&emsp;(2)
+
+Required uses.—At least one-half of the amounts allocated to States under this subsection may only be used for the program described in subsection (c)(1).
+
+&emsp;(3)
+
+Allocation.—Funds made available under this subsection shall be allocated among States described in paragraph (1) on the basis of the apportionment formula under section 402(c), except that no State shall be allocated more than 30 percent of the funds made available to carry out this subsection for a fiscal year.
+
+&emsp;(4)
+
+Funding.—Not more than 15 percent per fiscal year of amounts made available to carry out this section for a fiscal year shall be made available by the Secretary for making grants under this subsection.
+
+(h)
+
+Applicability of Chapter 1.—The provisions contained in section 402(d) shall apply to this section.
+
+(i)
 
 Definitions.—In this section, the following definitions apply:
 
@@ -154,13 +192,33 @@ Controlled substances.—The term “controlled substances” has the meaning gi
 
 Motor vehicle.—The term “motor vehicle” has the meaning given such term in section 405.
 
-(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152.)
+&emsp;(4)
+
+Impaired operator.—The term “impaired operator” means a person who, while operating a motor vehicle—
+
+&emsp;&emsp;(A) has a blood alcohol content of 0.08 percent or higher; or
+
+&emsp;&emsp;(B) is under the influence of a controlled substance.
+
+&emsp;(5)
+
+Impaired driving related fatality rate.—The term “impaired driving related fatality rate” means the rate of alcohol related fatalities, as calculated in accordance with regulations which the Administrator of the National Highway Traffic Safety Administration shall prescribe.
+
+(Added Pub. L. 100–690, title IX, §9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, §336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, §2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, §324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, §8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, §6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, §2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, §6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, §6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, §2007(a), (b), Aug. 10, 2005, 119 Stat. 1529.)
 
 #### References in Text
 
-The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsecs. (a)(2) and (b)(1)(A)(i), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (c)(7)(A), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
+
+2005—Subsec. (a)(2). Pub. L. 109–59, §2007(a), substituted “under this subsection” for “under this section” and “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
+
+Subsec. (a)(3), (4). Pub. L. 109–59, §2007(b)(1), redesignated par. (4) as (3), substituted “sixth,” for “sixth,,”, and struck out heading and text of former par. (3). Text read as follows: “No State may receive grants under this section in more than 8 fiscal years beginning after September 30, 1997.”
+
+Subsec. (b) to (i). Pub. L. 109–59, §2007(b)(2)–(4), added subsecs. (b) to (g), redesignated former subsecs. (e) and (f) as (h) and (i), respectively, added pars. (4) and (5) to subsec. (i), and struck out former subsecs. (b) to (d), which related to eligibility for basic grant, supplemental grants, and administrative expenses, respectively.
 
 2004—Subsec. (a)(3). Pub. L. 108–310, §6(e)(1)(A), substituted “8” for “7”.
 
@@ -200,7 +258,7 @@ Subsec. (d). Pub. L. 102–388, §§601(2), 602, redesignated subsec. (c) as (d)
 
 Subsec. (e). Pub. L. 102–388, §§601(2), 603, redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “
 
-Amount of Basic Grants.—The amount of a basic grant to be made in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of the amount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
+Amount of Basic Grants.—The amount of a basic grant to bemade in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of the amount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 102–388, §§601(2), 604, redesignated subsec. (e) as (f) and substituted “Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title” for “A State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in the fiscal year under this section” in pars. (1) to (7). Former subsec. (f) redesignated (g).
 
@@ -215,6 +273,10 @@ Funding for Fiscal Years 1993–1997.—From sums made available to carry out se
 1990—Subsec. (e)(1)(C). Pub. L. 101–516 struck out “within the time period specified in subparagraph (F)” after “revocation”.
 
 Subsec. (e)(2). Pub. L. 101–516 inserted “a significant portion of” after “under which” and substituted “apprehended and fined for” for “convicted of”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L. 109–59, set out as a note under section 402 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -238,6 +300,12 @@ Before Date of Enactment.—A State that received a basic grant in fiscal year 1
 
 Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and not applicable to funds appropriated or made available on or before Dec. 18, 1991, see section 2008 of Pub. L. 102–240, set out as a note under section 402 of this title.
 
+#### Regulations
+
+Pub. L. 109–59, title II, §2007(c), Aug. 10, 2005, 119 Stat. 1533, provided that: “Not later than 12 months after the date of enactment of this Act \[Aug. 10, 2005\], the National Highway Traffic Safety Administration shall issue guidelines to the States specifying the types and formats of data that States should collect relating to drivers who are arrested or convicted for violation of laws prohibiting the impaired operation of motor vehicles.”
+
+Pub. L. 100–690, title IX, §9002(c), Nov. 18, 1988, 102 Stat. 4525, provided that: “The Secretary of Transportation shall issue and publish in the Federal Register proposed regulations to implement section 410 of title 23, United States Code, not later than 6 months after the date of the enactment of this section \[Nov. 18, 1988\]. The final regulations for such implementation shall be issued, published in the Federal Register, and transmitted to Congress not later than 12 months after such date of enactment.”
+
 #### Effectiveness of Laws Establishing Maximum Blood Alcohol Concentrations
 
 Pub. L. 105–178, title II, §2008, June 9, 1998, 112 Stat. 337, provided that:
@@ -254,15 +322,15 @@ Study.—The Comptroller General shall conduct a study to evaluate the effective
 
 “(b)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, andTransportation of the Senate a report containing the results of the study conducted under this section.”
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the results of the study conducted under this section.”
+
+#### Effectiveness of Drunk Driving Laws
+
+Pub. L. 104–59, title III, §358(d), Nov. 28, 1995, 109 Stat. 626, provided that: “The Secretary shall conduct a study to evaluate the effectiveness on reducing drunk driving and appropriateness of laws enacted in the States which allow a health care provider who treats an individual involved in a vehicular accident to report the blood alcohol level, if known, of such individual to the local law enforcement agency which has jurisdiction over the accident site if the blood alcohol concentration level exceeds the maximum level permitted under State law.”
 
 #### States Eligible for Grants Before December 18, 1991
 
 Section 2004(b) of Pub. L. 102–240 provided that: “A State which, before the date of the enactment of this Act \[Dec. 18, 1991\], was eligible to receive a grant under section 410 of title 23, United States Code, as in effect on the day before such date of enactment, may elect to receive in a fiscal year grants under such section 410, as so in effect, in lieu of receiving in such fiscal year grants under such section 410, as amended by this Act.”
-
-#### Issuance of Regulations
-
-Section 9002(c) of Pub. L. 100–690 provided that: “The Secretary of Transportation shall issue and publish in the Federal Register proposed regulations to implement section 410 of title 23, United States Code, not later than 6 months after the date of the enactment of this section \[Nov. 18, 1988\]. The final regulations for such implementation shall be issued, published in the Federal Register, and transmitted to Congress not later than 12 months after such date of enactment.”
 
 #### Alcohol Impairment Standards and Information Exchange
 
@@ -296,5 +364,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 Authorization of Appropriation.—There is authorized to be appropriated to carry out this section $300,000 for fiscal year 1989.”
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Minimum Drinking Age
+
+Pub. L. 97–424, title II, §209, Jan. 6, 1983, 96 Stat. 2140, provided that: “The Congress strongly encourages each State to prohibit the sale of alcoholic beverages to persons who are less than 21 years of age.”
 

@@ -78,7 +78,7 @@ Subsec. (b)(6)(A). Pub. L. 102–538, §206(1), struck out “so long as such vi
 
 1982—Subsec. (b)(5). Pub. L. 97–259 inserted “, or is a cable television system operator” after “other authorization is required”.
 
-1980—Subsec. (b). Pub. L. 96–507 conformed references in first paragraph to sections 509(a) and 507 of this title to reflect renumbering of those sections which required no change in text.
+1980—Subsec. (b). Pub. L. 96–507 conformed references in first paragraph to sections 509(a) and 507 of this titleto reflect renumbering of those sections which required no change in text.
 
 1978—Subsec. (b). Pub. L. 95–234 substituted provisions relating to activities making persons liable for forfeiture penalties, amounts of forfeiture penalties, procedures applicable for imposition of forfeiture penalties, and exemptions from liability from imposition of forfeiture penalties, for provisions relating to activities of licensees or permittees constituting violations and authorizing forfeiture to the United States of a sum not to exceed $1,000 for each separate offense, procedures applicable for imposition of forfeiture liability, and limitations on imposition of forfeiture liability.
 

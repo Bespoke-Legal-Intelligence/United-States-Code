@@ -30,7 +30,3 @@ Grade and Rank.—The Chairman, while so serving, holds the grade of general or,
 
 1987—Pub. L. 100–180 substituted “grade and rank” for “rank” in section catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 163 of this title.
-

@@ -28,35 +28,39 @@ It shall be the duty of the Joint Committee—
 
 #### (3) Reports
 
-&emsp;(A) To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or House of Representatives, or both,the results of its investigations, together with such recommendations as it may deem advisable.
+&emsp;(A) To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or House of Representatives, or both, the results of its investigations, together with such recommendations as it may deem advisable.
 
 &emsp;(B) Subject to amounts specifically appropriated to carry out this subparagraph, to report, at least once each Congress, to the Committee on Finance and the Committee on Ways and Means on the overall state of the Federal tax system, together with recommendations with respect to possible simplification proposals and other matters relating to the administration of the Federal tax system as it may deem advisable.
 
-&emsp;(C) To report, for each calendar year after 1998 and before 2004, to the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and to the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives, with respect to—
-
-&emsp;&emsp;(i) strategic and business plans for the Internal Revenue Service;
-
-&emsp;&emsp;(ii) progress of the Internal Revenue Service in meeting its objectives;
-
-&emsp;&emsp;(iii) the budget for the Internal Revenue Service and whether it supports its objectives;
-
-&emsp;&emsp;(iv) progress of the Internal Revenue Service in improving taxpayer service and compliance;
-
-&emsp;&emsp;(v) progress of the Internal Revenue Service on technology modernization; and
-
-&emsp;&emsp;(vi) the annual filing season.
+&emsp;(C) To report, for each calendar year after 1998 and before 2005, to the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and to the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives, with respect to the matters addressed in the joint review referred to in section 8021(f)(2).
 
 #### (4) Cross reference
 
 &emsp;&emsp;<b>For duties of the Joint Committee relating to refunds of income and estate taxes, see section 6405.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 105–206, title IV, §4002(a), July 22, 1998, 112 Stat. 784.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 105–206, title IV, §4002(a), July 22, 1998, 112 Stat. 784; Pub. L. 108–311, title III, §321(b), Oct. 4, 2004, 118 Stat. 1182.)
 
 #### Amendments
+
+2004—Par. (3)(C). Pub. L. 108–311 substituted “2005” for “2004” and “with respect to the matters addressed in the joint review referred to in section 8021(f)(2).” for “with respect to—
+
+&emsp;“(i) strategic and business plans for the Internal Revenue Service;
+
+&emsp;“(ii) progress of the Internal Revenue Service in meeting its objectives;
+
+&emsp;“(iii) the budget for the Internal Revenue Service and whether it supports its objectives;
+
+&emsp;“(iv) progress of the Internal Revenue Service in improving taxpayer service and compliance;
+
+&emsp;“(v) progress of the Internal Revenue Service on technology modernization; and
+
+&emsp;“(vi) the annual filing season.”
 
 1998—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable.”
 
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

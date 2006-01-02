@@ -24,7 +24,7 @@ For purposes of this part—
 
 &emsp;(7) The term “technical assistance” means assistance under rules, promulgated by the Secretary, to States, units of local government and public care institutions—
 
-&emsp;&emsp;(A) to conduct specialized studies identifying and specifying energy savings and related cost savings that are likely to be realized as a result of (i) modification or maintenance and operating procedures in a building, (ii) the acquisition and installation ofone or more specified energy conservation measures in such building or (iii) both, or
+&emsp;&emsp;(A) to conduct specialized studies identifying and specifying energy savings and related cost savings that are likely to be realized as a result of (i) modification or maintenance and operating procedures in a building, (ii) the acquisition and installation of one or more specified energy conservation measures in such building or (iii) both, or
 
 &emsp;&emsp;(B) the planning or administration of such specialized studies.
 

@@ -20,7 +20,7 @@ The Advisory Committee shall recommend grant policies for the advancement of the
 
 #### Amendments
 
-1993—Pub. L. 103–199, §302(5)(A), substituted “Establishment of Advisory Committee” for “Establishment of the Soviet-Eastern European Studies Advisory Committee” in section catchline.
+1993—Pub. L. 103–199, §302(5)(A), substituted “Establishment of Advisory Committee” for “Establishmentof the Soviet-Eastern European Studies Advisory Committee” in section catchline.
 
 Subsec. (a). Pub. L. 103–199, §302(5)(B), substituted “Advisory Committee for Studies of Eastern Europe and the Independent States of the Former Soviet Union” for “Soviet-Eastern European Studies Advisory Committee”.
 

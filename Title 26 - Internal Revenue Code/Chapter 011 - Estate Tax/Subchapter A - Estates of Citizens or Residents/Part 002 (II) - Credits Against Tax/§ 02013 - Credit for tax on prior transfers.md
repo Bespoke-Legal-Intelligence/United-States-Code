@@ -22,7 +22,7 @@ Subject to the limitation prescribed in subsection (c), the credit provided by t
 
 &emsp;The credit provided in this section shall not exceed the amount by which—
 
-&emsp;&emsp;(A) the estate tax imposed by section 2001 or section 2101 (after deducting the credits provided for in sections 2010, 2011, 2012, and 2014) computed without regard to this section, exceeds
+&emsp;&emsp;(A) the estate tax imposed by section 2001 or section 2101 (after deducting the credits provided for in sections 2010, 2012, and 2014) computed without regard to this section, exceeds
 
 &emsp;&emsp;(B) such tax computed by excluding from the decedent's gross estate the value of such property transferred and, if applicable, by making the adjustment hereinafter indicated.
 
@@ -56,11 +56,13 @@ If section 2032A applies to any property included in the gross estate of the tra
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, title XIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title V, §532(c)(2), June 7, 2001, 115 Stat. 74.)
 
-#### Amendment of Subsection (c)(1)(A)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §532(c)(2), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (c)(1)(A) of this section is temporarily amended by striking out “2011,” after “sections 2010,”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (c)(1)(A). Pub. L. 107–16, §§532(c)(2), 901, temporarily struck out “2011,” after “sections 2010,”.See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (g). Pub. L. 105–34 struck out heading and text of subsec. (g). Prior to amendment, text read as follows: “For purposes of this section, the estate tax paid shall not include any portion of such tax attributable to section 4980A(d).”
 
@@ -95,8 +97,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2056, 2102, 2107 of this title.
 

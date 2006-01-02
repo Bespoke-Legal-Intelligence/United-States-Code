@@ -6,7 +6,7 @@ The Secretary shall make grants for providing services for the prevention and tr
 
 #### (b) Services through Indian health facilities
 
-For purposes of subsection (a) of this section, services under such subsection are provided inaccordance with this subsection if the services are provided through any of the following entities:
+For purposes of subsection (a) of this section, services under such subsection are provided in accordance with this subsection if the services are provided through any of the following entities:
 
 &emsp;(1) The Indian Health Service.
 
@@ -30,7 +30,7 @@ For purposes of subsection (a) of this section, services under such subsection a
 
 &emsp;&emsp;(C) $150,000,000 for each of fiscal years 2004 through 2008.
 
-(July 1, 1944, ch. 373, title III, §330C, as added Pub. L. 105–33, title IV, §4922, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–174, title III, §3001, May 1, 1998, 112 Stat. 82; Pub. L. 106–554, §1(a)(6) \[title IX, §931(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(b), Dec. 17, 2002, 116 Stat. 3019.)
+(July 1, 1944, ch. 373, title III, §330C, as added Pub. L. 105–33, title IV, §4922, Aug. 5, 1997, 111 Stat. 574; amended Pub. L. 105–174, title III,§3001, May 1, 1998, 112 Stat. 82; Pub. L. 106–554, §1(a)(6) \[title IX, §931(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585; Pub. L. 107–360, §1(b), Dec. 17, 2002, 116 Stat. 3019.)
 
 #### References in Text
 

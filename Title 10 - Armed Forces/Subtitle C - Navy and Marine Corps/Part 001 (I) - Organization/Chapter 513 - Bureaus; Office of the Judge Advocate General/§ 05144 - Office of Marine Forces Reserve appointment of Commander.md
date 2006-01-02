@@ -16,7 +16,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 (3) An officer on active duty for service as the Commander, Marine Forces Reserve, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
-(4) Until December 31, 2004, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
+(4) Until December 31, 2006, the Secretary of Defense may waive subparagraph (B) of paragraph (2) with respect to the appointment of an officer as Commander, Marine Forces Reserve, if the Secretary of the Navy requests the waiver and, in the judgment of the Secretary of Defense—
 
 &emsp;(A) the officer is qualified for service in the position; and
 
@@ -36,13 +36,15 @@ Annual Report.—(1) The Commander, Marine Forces Reserve, shall submit to the S
 
 (2) The Secretary of Defense shall transmit the annual report of the Commander, Marine Forces Reserve, under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 
-(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529.)
+(Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §536(a), Oct. 28, 2004, 118 Stat. 1901.)
 
 #### Prior Provisions
 
 A prior section 5144, act Aug. 10, 1956, ch. 1041, 70A Stat. 289, related to appointment and term of Chief of Bureau of Ordnance, and authorized detail of an officer as Deputy Chief of Bureau, prior to repeal by Pub. L. 86–174, §2(3), Aug. 18, 1959, 73 Stat. 396, effective July 1, 1960, or any earlier date on which the Secretary of the Navy made a formal finding that all the functions of the Bureau of Aeronautics and the Bureau of Ordnance had been transferred to the Bureau of Naval Weapons or elsewhere.
 
 #### Amendments
+
+2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
 2002—Subsec. (b)(4). Pub. L. 107–314 substituted “December 31, 2004” for “October 1, 2003”.
 
@@ -64,13 +66,9 @@ Term of Office; Grade.—(1) The Commander, Marine Forces Reserve, holds office 
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(19)\], substituted “has the grade of” for “has a grade”.
 
-1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted at end “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
+1999—Subsec. (c)(2). Pub. L. 106–65 substituted “major general” for “above brigadier general” and inserted atend “However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general.”
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
 Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 3038 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 641 of this title.
 

@@ -74,7 +74,3 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 For effective date of section with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as a note under section 4961 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4942, 6213, 6214, 6503, 7422 of this title.
-

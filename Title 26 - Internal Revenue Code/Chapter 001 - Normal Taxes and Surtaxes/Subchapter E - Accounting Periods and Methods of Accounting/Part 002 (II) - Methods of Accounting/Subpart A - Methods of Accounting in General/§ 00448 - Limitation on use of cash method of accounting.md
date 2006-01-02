@@ -224,7 +224,3 @@ Treatment of affiliated group providing engineering services.—Each member of a
 
 Special rule for paragraphs (2) and (3).—If any loan, lease, contract, or evidence of any transaction to which paragraph (2) or (3) applies is transferred after June 10, 1987, to a person other than a related party (within the meaning of paragraph (2)), paragraph (2) or (3) shall cease to apply on and after the date of such transfer.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11, 55, 172, 263A, 474, 5081, 5731, 5801, 6721 of this title.
-

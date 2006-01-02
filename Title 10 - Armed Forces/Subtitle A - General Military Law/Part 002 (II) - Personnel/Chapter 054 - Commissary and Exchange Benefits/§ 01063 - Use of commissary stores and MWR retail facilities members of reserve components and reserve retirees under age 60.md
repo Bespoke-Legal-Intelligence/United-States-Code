@@ -6,7 +6,7 @@ Members of the Selected Reserve.—A member of the Selected Reserve in good stan
 
 (b)
 
-Members of Ready Reserve Not in Selected Reserve.—Subject to such regulations as the Secretary of Defense may prescribe, a member of the Ready Reserve (other than members of the Selected Reserve) may be permitted to use commissary stores and MWR retail facilities on the same basis as members serving on active duty.
+Members of Ready Reserve Not in Selected Reserve.—Subject to such regulationsas the Secretary of Defense may prescribe, a member of the Ready Reserve (other than members of the Selected Reserve) may be permitted to use commissary stores and MWR retail facilities on the same basis as members serving on active duty.
 
 (c)
 
@@ -16,7 +16,7 @@ Reserve Retirees Under Age 60.—A member or former member of a reserve componen
 
 Dependents.—(1) Dependents of a member who is permitted under subsection (a) or (b) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members on active duty.
 
-(2) Dependents of a member who is permitted under subsection (c) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members of the armed forcesentitled to retired pay under any other provision of law.
+(2) Dependents of a member who is permitted under subsection (c) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members of the armed forces entitled to retired pay under any other provision of law.
 
 (e)
 
@@ -53,8 +53,4 @@ Pub. L. 101–510, div. A, title III, §321(e)(1), Nov. 5, 1990, 104 Stat. 1528,
 #### Regulations
 
 Pub. L. 101–510, div. A, title III, §321(e)(2), Nov. 5, 1990, 104 Stat. 1528, provided that: “The Secretary of Defense shall prescribe such regulations as may be necessary for the proper administration of sections \[former\] 1064 and 1065 \[now 1063\] of title 10, United States Code, as added by this section, not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1064 of this title.
 

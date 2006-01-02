@@ -85,10 +85,6 @@ Pub. L. 87–456, title III, §302(d), May 24, 1962, 76 Stat. 77, struck out ite
 
 Pub. L. 85–321, §3(a), Feb. 11, 1958, 72 Stat. 6, added item 7512.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7801, 7851 of this title.
-
 <i><sup>1</sup></i><i> Section repealed by Pub. L. 94–455 without corresponding amendment of analysis.</i>
 
 

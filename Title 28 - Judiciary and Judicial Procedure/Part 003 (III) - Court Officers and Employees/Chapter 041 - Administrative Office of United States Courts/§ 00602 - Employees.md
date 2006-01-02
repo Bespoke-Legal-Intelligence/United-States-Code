@@ -120,7 +120,7 @@ Sections 1 to 4 and 6 of Pub. L. 101–474 provided that:
 
 #### “SEC. 6. AUTHORIZATION.
 
-“There are authorized to be appropriated for fiscal year 1990 and for each fiscal year thereafter such sumsas may be necessary to carry out the provisions of this Act.”
+“There are authorized to be appropriated for fiscal year 1990 and for each fiscal year thereafter such sums as may be necessary to carry out the provisions of this Act.”
 
 #### Contract Limitations
 

@@ -26,7 +26,7 @@ Subsection (a) shall not apply to any distribution to which section 337(a) appli
 
 #### (1) In general
 
-&emsp;In the case of a disposition of an installment obligation by any person other than a life insurance company (as defined in section 816(a)) to such an insurance company or to a partnership of which such an insurance company is a partner, no provision of this subtitle providing for the nonrecognition of gain shall apply with respect to any gain resulting under subsection (a). If a corporation which is a life insurance company for the taxable year was (for the preceding taxable year) a corporation which was not a life insurance company, such corporation shall, for purposes of this subsection and subsection (a), be treated as having transferred to a life insurance company, on the last day of the preceding taxable year, all installment obligations which it held on such last day. A partnership of which a life insurance company becomes a partner shall, for purposes of this subsection and subsection (a), be treated as having transferred to a life insurance company, on the last day of the preceding taxable year of such partnership, all installment obligations which it holds at the time such insurance company becomes a partner.
+&emsp;In the case of a disposition of an installment obligation by any person other than a life insurance company (as defined in section 816(a))to such an insurance company or to a partnership of which such an insurance company is a partner, no provision of this subtitle providing for the nonrecognition of gain shall apply with respect to any gain resulting under subsection (a). If a corporation which is a life insurance company for the taxable year was (for the preceding taxable year) a corporation which was not a life insurance company, such corporation shall, for purposes of this subsection and subsection (a), be treated as having transferred to a life insurance company, on the last day of the preceding taxable year, all installment obligations which it held on such last day. A partnership of which a life insurance company becomes a partner shall, for purposes of this subsection and subsection (a), be treated as having transferred to a life insurance company, on the last day of the preceding taxable year of such partnership, all installment obligations which it holds at the time such insurance company becomes a partner.
 
 #### (2) Special rule where life insurance company elects to treat income as not related to insurance business
 
@@ -98,7 +98,7 @@ Subsec. (g). Pub. L. 98–369, §421(b)(3), added subsec. (g).
 
 1983—Subsec. (d)(2). Pub. L. 97–448 substituted “under subsection (a)” for “under paragraph (1)” in second sentence.
 
-1980—Subsec. (d). Pub. L. 96–471, §2(c)(3), inserted last sentence providing that in the case of any installment obligation which would have met the requirements of subpars. (A) and (B) of par. (2) but for sections 337(f), gain shall be recognized to such corporation by reason of such distribution only to the extent gain would have been recognized under sections 337(f) if such corporation had sold or exchanged such installment obligation on the date of such distribution.
+1980—Subsec. (d). Pub. L. 96–471, §2(c)(3), inserted last sentence providing that in the case of any installment obligation which would have met the requirements of subpars. (A) and (B) of par. (2) but for sections 337(f),gain shall be recognized to such corporation by reason of such distribution only to the extent gain would have been recognized under sections 337(f) if such corporation had sold or exchanged such installment obligation on the date of such distribution.
 
 #### Effective Date of 1990 Amendment
 
@@ -157,8 +157,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Treatment of Elections Under Section 453B(e)(2)
 
 Section 217(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an election is made under section 453B(e)(2) before January 1, 1984, with respect to any installment obligation, any income from such obligation shall be treated as attributable to a noninsurance business (as defined in section 806(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 691, 1278 of this title.
 

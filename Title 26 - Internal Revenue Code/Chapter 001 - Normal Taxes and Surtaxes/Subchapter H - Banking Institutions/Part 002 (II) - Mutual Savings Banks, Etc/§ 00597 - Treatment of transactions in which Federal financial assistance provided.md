@@ -116,7 +116,7 @@ Pub. L. 99–514, title IX, §904(c)(2), Oct. 22, 1986, 100 Stat. 2385, as amend
 
 #### Effective Date
 
-Section 246(c) of Pub. L. 97–34 provided that: “The amendment made by section 244 \[enacting this section\] shall apply to any payment made on or after January 1, 1981.”
+Section 246(c) of Pub. L. 97–34 provided that: “The amendment made by section 244 \[enacting this section\]shall apply to any payment made on or after January 1, 1981.”
 
 #### Transfer of Functions
 
@@ -133,8 +133,4 @@ Section 1401(c)(7) of Pub. L. 101–73 provided that: “Any reference to the Fe
 #### Annual Reports on Transactions in Which Federal Financial Assistance Provided
 
 Pub. L. 101–73, title XIV, §1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury to submit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 593 of this title.
 

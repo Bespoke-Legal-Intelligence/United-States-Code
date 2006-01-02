@@ -22,7 +22,7 @@ The purposes of the technology transfer program under this section are to—
 
 &emsp;(7) serve to ensure the introduction of United States firms and expertise in foreign countries;
 
-&emsp;(8) provide financial assistance by the Federal Government to foster greater participation by United States firms in the financing, ownership, design, construction, or operation of clean coal technology projects in foreign countries;
+&emsp;(8) provide financial assistance by the Federal Government to foster greater participation by United States firms in the financing,ownership, design, construction, or operation of clean coal technology projects in foreign countries;
 
 &emsp;(9) assist foreign countries in meeting their energy needs through the use of coal in an environmentally acceptable manner, consistent with sustainable development policies; and
 
@@ -58,7 +58,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (e) Solicitations for project proposals
 
-(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for thedesign, construction, testing, and operation of the project or projects identified under subsection (c) of this section which propose to utilize a United States technology. Each solicitation under this section shall establish a closing date for receipt of proposals.
+(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, within one year after October 24, 1992, and subsequently as appropriate thereafter, shall solicit proposals from United States firms for the design, construction, testing, and operation of the project or projects identified under subsection (c) of this section which propose to utilize a United States technology. Each solicitation under this section shall establish a closing date for receipt of proposals.
 
 (2) The solicitation under this subsection shall, to the extent appropriate, be modeled after the RFP No. DE–PS01–90FE62271 Clean Coal Technology IV as administered by the Department of Energy.
 
@@ -84,7 +84,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 &emsp;(3) consult with government officials in host countries and, as appropriate, with representatives of utilities or other entities in host countries, to determine interest in and support for potential projects; and
 
-&emsp;(4) determine whether each project selected under this section is developmentally sound, as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
+&emsp;(4) determine whether each project selected under this section is developmentally sound,as determined under the criteria developed by the Development Assistance Committee of the Organization for Economic Cooperation and Development.
 
 #### (h) Selection of projects
 

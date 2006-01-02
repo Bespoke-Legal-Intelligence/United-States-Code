@@ -10,7 +10,7 @@
 
 > &emsp;if such disclosure is not specifically prohibited by law and if such information is not specifically required by Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs; and
 
-&emsp;(2) any disclosure by an employee, former employee, or applicant for employment to the Special Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee,former employee, or applicant reasonably believes evidences—
+&emsp;(2) any disclosure by an employee, former employee, or applicant for employment to the Special Counsel or to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures of information which the employee, former employee, or applicant reasonably believes evidences—
 
 &emsp;&emsp;(A) a violation of any law, rule, or regulation; or
 
@@ -60,7 +60,7 @@
 
 (3) The Special Counsel shall transmit any agency report received pursuant to subsection (c) of this section, any comments provided by the complainant pursuant to subsection (e)(1), and any appropriate comments or recommendations by the Special Counsel to the President and the congressional committees with jurisdiction over the agency which the disclosure involves.
 
-(4) Whenever the Special Counsel does not receive the report of the agency within the time prescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
+(4) Whenever the Special Counsel does not receive the report of the agency within the timeprescribed in subsection (c)(2) of this section, the Special Counsel shall transmit a copy of the information which was transmitted to the agency head to the President and the congressional committees with jurisdiction over the agency which the disclosure involves together with a statement noting the failure of the head of the agency to file the required report.
 
 (f) In any case in which evidence of a criminal violation obtained by an agency in an investigation under subsection (c) of this section is referred to the Attorney General—
 

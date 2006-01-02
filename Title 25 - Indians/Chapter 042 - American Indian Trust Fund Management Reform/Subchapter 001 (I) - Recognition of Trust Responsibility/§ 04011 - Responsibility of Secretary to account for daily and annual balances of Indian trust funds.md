@@ -2,7 +2,7 @@
 
 #### (a) Requirement to account
 
-The Secretary shall account for the daily and annual balance of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title.
+The Secretary shall account for the daily and annual balance of all funds held in trust by theUnited States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title.
 
 #### (b) Periodic statement of performance
 
@@ -26,9 +26,11 @@ The Secretary shall cause to be conducted an annual audit on a fiscal year basis
 
 #### Performance and Account Statements for Inactive Accounts
 
-Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3061, provided in part: “That, notwithstanding any other provision of law, the Secretary shall not be required to provide a quarterly statement of performance for any Indian trust account that has not had activity for at least 18 months and has a balance of $1.00 or less: <i>Provided further</i>, That the Secretary shall issue an annual account statement and maintain a record of any such accounts and shall permit the balance in each such account to be withdrawn upon the express written request of the account holder”.
+Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 519, provided in part: “That, notwithstanding any other provision of law, the Secretary shall not be required to provide a quarterly statement of performance for any Indian trust account that has not had activity for at least 18 months and has a balance of $1.00 or less: <i>Provided further</i>, That the Secretary shall issue an annual account statement and maintain a record of any such accounts and shall permit the balance in each such account to be withdrawn upon the express written request of the account holder”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3061.
 
 Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1263.
 

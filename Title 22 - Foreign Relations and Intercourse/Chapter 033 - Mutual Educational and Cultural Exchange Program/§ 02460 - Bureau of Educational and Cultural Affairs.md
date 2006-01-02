@@ -8,7 +8,7 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 &emsp;(2) the Hubert H. Humphrey Fellowship Program which finances (A) study at American universities and institutions of higher learning, including study in degree granting programs, and (B) participation in fellowships, internships, or other programs in American governmental and nongovernmental institutions for public managers and other individuals from developing countries;
 
-&emsp;(3) the International Visitors Program which provides grants for short-term visits to the United States for foreign nationals who are, or have the potential to be, leaders in their respective fields in their own countries;
+&emsp;(3) the International Visitors Program which provides grants for short-term visits to theUnited States for foreign nationals who are, or have the potential to be, leaders in their respective fields in their own countries;
 
 &emsp;(4) the American Cultural Centers and Libraries which make available at selected foreign locations, books, films, sound recordings, and other materials about the United States, its people and culture, and about other topics;
 
@@ -18,7 +18,7 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 &emsp;(7) a program of working with private, not-for-profit groups through contracts, grants, or cooperative agreements, as authorized by section 2452 of this title, so as to provide financial assistance to nongovernmental organizations engaged in implementing and enhancing exchange-of-persons programs;
 
-&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons underthe age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
+&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
 
 &emsp;(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries.
 
@@ -52,7 +52,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
 
-(2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
+(2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed whollyor in part, directly or indirectly, with United States Government funds.
 
 (3) The Working Group shall be composed as follows:
 
@@ -108,7 +108,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia andEmerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
@@ -122,7 +122,7 @@ Subsec. (g)(1). Pub. L. 107–228, §229(1), substituted “Department of State�
 
 Subsec. (g)(3)(A). Pub. L. 107–228, §229(2)(A), substituted “Assistant Secretary of State for Educational and Cultural Affairs” for “Associate Director for Educational and Cultural Affairs of the United States Information Agency”.
 
-Subsec. (g)(3)(B) to (G). Pub. L. 107–228, §229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department ofState, who shall be designated by the Secretary of State.”
+Subsec. (g)(3)(B) to (G). Pub. L. 107–228, §229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department of State, who shall be designated by the Secretary of State.”
 
 Subsec. (g)(5). Pub. L. 107–228, §229(3), substituted “Department of State” for “United States Information Agency”.
 
@@ -178,7 +178,7 @@ Sec. 3. The Working Group shall consist of the Associate Director for Educationa
 
 Sec. 4. The Working Group shall have the following responsibilities:
 
-(a) Collect, analyze, and report data provided by all United States Government departments and agencies conducting international exchanges and training programs;
+(a) Collect, analyze, and report data provided by all United States Government departments and agenciesconducting international exchanges and training programs;
 
 (b) Promote greater understanding of and cooperation on, among concerned United States Government departments and agencies, common issues and challenges faced in conducting international exchanges and training programs, including through the establishment of a clearinghouse for information on international exchange and training activities in the governmental and nongovernmental sectors;
 

@@ -60,7 +60,7 @@ In any civil action arising under State law, the courts of the State involved ha
 
 #### (1) Perceived medical emergency
 
-&emsp;For purposes of this section, the term “perceived medical emergency” means circumstances in which the behavior of an individual leads a reasonable person to believe that the individual is experiencing a life-threatening medical condition that requires an immediate medical response regarding the heart or othercardiopulmonary functioning of the individual.
+&emsp;For purposes of this section, the term “perceived medical emergency” means circumstances in which the behavior of an individual leads a reasonable person to believe that the individual is experiencing a life-threatening medical condition that requires an immediate medical response regarding the heart or other cardiopulmonary functioning of the individual.
 
 #### (2) Other definitions
 

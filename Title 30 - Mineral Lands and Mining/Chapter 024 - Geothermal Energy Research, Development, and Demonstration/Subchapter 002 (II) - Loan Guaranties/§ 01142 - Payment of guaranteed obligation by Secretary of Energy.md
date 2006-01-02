@@ -10,7 +10,7 @@ If the Secretary of Energy makes a payment under subsection (a) of this subsecti
 
 #### (c) Rights and authorities of Attorney General upon default on any guarantee
 
-In the event of a default on any guarantee under this subchapter, the Secretary of Energy shall notify the Attorney General, who shall take such action as may be appropriate to recover the amounts of any payments made under subsection (a) of this section, including any payment of principal and interest under subsection (d) of this section, from such assets of the defaulting borrower as are associated with the project, or from any other security included in the terms of the guarantee.
+In the event of a default on any guarantee under this subchapter, the Secretary of Energyshall notify the Attorney General, who shall take such action as may be appropriate to recover the amounts of any payments made under subsection (a) of this section, including any payment of principal and interest under subsection (d) of this section, from such assets of the defaulting borrower as are associated with the project, or from any other security included in the terms of the guarantee.
 
 #### (d) Contracts to pay, and payment, from Geothermal Resources Development Fund of principal and interest of unpaid balance of obligation; preconditions
 
@@ -34,7 +34,7 @@ Subsecs. (c), (d). Pub. L. 95–238 added subsecs. (c) and (d).
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in text for “Administrator” (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91,which are classified to sections 7151(a), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+“Secretary of Energy” substituted in text for “Administrator” (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this section,”.</i>
 

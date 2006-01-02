@@ -2,17 +2,17 @@
 
 (a)
 
-First Fiscal Year.—The Secretary of Transportation shall withhold 5 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) of title 23 on the first day of the fiscal year after the first fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
+First Fiscal Year.—The Secretary of Transportation shall withhold up to 5 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) of title 23 on the first day of the fiscal year after the first fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
 
 (b)
 
-Second Fiscal Year.—The Secretary shall withhold 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) of title 23 on the first day of each fiscal year after the 2d fiscal year beginning afterSeptember 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
+Second Fiscal Year.—The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
 
 (c)
 
 Availability for Apportionment.—Amounts withheld under this section from apportionment to a State after September 30, 1995, are not available for apportionment to the State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1028; Pub. L. 105–178, title IV, §4011(g), (h), June 9, 1998, 112 Stat. 408; Pub. L. 105–206, title IX, §9010, July 22, 1998, 112 Stat. 863.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1028; Pub. L. 105–178, title IV, §4011(g), (h), June 9, 1998, 112 Stat. 408; Pub. L. 105–206, title IX, §9010, July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title IV, §4124(c), Aug. 10, 2005, 119 Stat. 1738.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,8 @@ In this section, the word “amounts” is substituted for “funds” and “su
 In subsection (e), the words “by the Secretary” are omitted as surplus.
 
 #### Amendments
+
+2005—Subsecs. (a), (b). Pub. L. 109–59 inserted “up to” after “withhold”.
 
 1998—Subsecs. (a), (b). Pub. L. 105–178, §4011(h)(1), as added by Pub. L. 105–206, substituted “section 104(b)(1), (3), and (4) of title 23” for “section 104(b)(1), (3), and (5) of title 23”.
 

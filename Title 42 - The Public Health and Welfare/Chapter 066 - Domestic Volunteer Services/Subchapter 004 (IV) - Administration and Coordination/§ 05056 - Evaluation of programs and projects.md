@@ -14,7 +14,7 @@ In carrying out evaluations under this subchapter, the Director shall, whenever 
 
 #### (d) Summaries of results; publication
 
-The Director shall publish summaries of the results of evaluations of program and projectimpact and effectiveness no later than sixty days after the completion thereof.
+The Director shall publish summaries of the results of evaluations of program and project impact and effectiveness no later than sixty days after the completion thereof.
 
 #### (e) Federal property
 

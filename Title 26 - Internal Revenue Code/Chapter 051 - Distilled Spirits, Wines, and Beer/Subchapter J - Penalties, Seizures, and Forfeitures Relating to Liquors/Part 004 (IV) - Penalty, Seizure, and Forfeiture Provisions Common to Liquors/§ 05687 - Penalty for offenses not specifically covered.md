@@ -12,7 +12,3 @@ Prior section 5687 also related to forfeitures applicable to distillers, rectifi
 
 Provisions similar to those comprising this section were contained in prior sections 5602, 5608(c), 5612 to 5619, 5627, 5628, 5630, 5631, 5643, 5684(a) and 5686(a), act Aug. 16, 1954, ch. 736, 68A Stat. 683, 685, 686, 689, 692, 693, 699, 700, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5101, 5117, 5203, 5505 of this title.
-

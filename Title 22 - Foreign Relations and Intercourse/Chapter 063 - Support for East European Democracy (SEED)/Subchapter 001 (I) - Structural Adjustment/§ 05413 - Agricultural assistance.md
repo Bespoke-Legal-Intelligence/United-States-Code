@@ -42,7 +42,7 @@ Subsection (c) of this section should not be construed to authorize or require a
 
 #### References in Text
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (c), is act July 10,1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d), is H. Con. Res. 106, May 18, 1989, 103 Stat. 2450, which is not classified to the Code.
 

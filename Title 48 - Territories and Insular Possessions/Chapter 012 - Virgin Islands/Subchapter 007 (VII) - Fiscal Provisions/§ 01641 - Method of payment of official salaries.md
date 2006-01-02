@@ -38,7 +38,7 @@ Pub. L. 96–597, title VI, §607, Dec. 24, 1980, 94 Stat. 3483, as amended by P
 
 &emsp;“(4) quarterly goals and timetables for implementing the plan. The plan shall also indicate that the Governor has the necessary authority to implement the plan.
 
-“(c) Not later than thirty days after the close of each quarter which occurs after the plan has been transmitted to the Congress, the respective Governor shall submit a report to the Secretary of the Interior and the Congress describing in detail the success or failure of such territory in meeting the goals and timetables described in such plan.”
+“(c) Not later than thirty days after the close of each quarter which occurs after the plan has been transmitted to the Congress, the respective Governor shall submit a report to the Secretary of the Interior and the Congress describing in detail the success or failure ofsuch territory in meeting the goals and timetables described in such plan.”
 
 #### Authorization of Appropriations for Grants for Anticipated Deficits During Fiscal Years 1979 Through 1981; Terms and Conditions; Report on Financial Condition; Contents
 

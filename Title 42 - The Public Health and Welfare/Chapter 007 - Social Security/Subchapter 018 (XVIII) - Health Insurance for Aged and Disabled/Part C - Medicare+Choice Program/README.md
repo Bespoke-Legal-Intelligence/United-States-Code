@@ -24,7 +24,7 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 - [&sect; 01395w&#8211;21 - Eligibility, election, and enrollment](%C2%A7%2001395w%E2%80%9321%20-%20Eligibility%2C%20election%2C%20and%20enrollment.md)
 - [&sect; 01395w&#8211;22 - Benefits and beneficiary protections](%C2%A7%2001395w%E2%80%9322%20-%20Benefits%20and%20beneficiary%20protections.md)
 - [&sect; 01395w&#8211;23 - Payments to Medicare+Choice organizations](%C2%A7%2001395w%E2%80%9323%20-%20Payments%20to%20Medicare%2BChoice%20organizations.md)
-- [&sect; 01395w&#8211;24 - Premiums](%C2%A7%2001395w%E2%80%9324%20-%20Premiums.md)
+- [&sect; 01395w&#8211;24 - Premiums and bid amounts](%C2%A7%2001395w%E2%80%9324%20-%20Premiums%20and%20bid%20amounts.md)
 - [&sect; 01395w&#8211;25 - Organizational and financial requirements for Medicare+Choice organizations; provider-sponsored organizations](%C2%A7%2001395w%E2%80%9325%20-%20Organizational%20and%20financial%20requirements%20for%20Medicare%2BChoice%20organizations%3B%20provider-sponsored%20organizations.md)
 - [&sect; 01395w&#8211;26 - Establishment of standards](%C2%A7%2001395w%E2%80%9326%20-%20Establishment%20of%20standards.md)
 - [&sect; 01395w&#8211;27 - Contracts with Medicare+Choice organizations](%C2%A7%2001395w%E2%80%9327%20-%20Contracts%20with%20Medicare%2BChoice%20organizations.md)

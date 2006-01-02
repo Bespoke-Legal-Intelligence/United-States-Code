@@ -40,7 +40,7 @@ Each State and unit of general local government receiving a grant under this sec
 
 #### (h) Reports to Secretary
 
-Each State and unit of general local government receiving a grant under this section shall submit a report to the Secretary, not less than 12 months after receiving the grant, describing any activities carried out with the grant amounts. The report shall contain an assessment of the impact of any regulatory barriers identified by the grantee on the housing patterns of minorities.
+Each State and unit of general local government receiving a grant under this section shallsubmit a report to the Secretary, not less than 12 months after receiving the grant, describing any activities carried out with the grant amounts. The report shall contain an assessment of the impact of any regulatory barriers identified by the grantee on the housing patterns of minorities.
 
 (Pub. L. 102–550, title XII, §1204, Oct. 28, 1992, 106 Stat. 3938; Pub. L. 106–569, title I, §102(a)–(e), Dec. 27, 2000, 114 Stat. 2946, 2947.)
 

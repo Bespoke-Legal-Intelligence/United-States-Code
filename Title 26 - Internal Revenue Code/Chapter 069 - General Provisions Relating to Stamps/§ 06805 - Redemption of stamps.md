@@ -6,7 +6,7 @@ The Secretary, subject to regulations prescribed by him, may, upon receipt of sa
 
 #### (b) Method and conditions of allowance
 
-Such allowance or redemption may be made, either by giving other stamps in lieu of the stamps so allowed for or redeemed, or by refunding the amount or value to the owner thereof,deducting therefrom, in case of repayment, the percentage, if any, allowed to the purchaser thereof; but no allowance or redemption shall be made in any case until the stamps so spoiled or rendered useless shall have been returned to the Secretary, or until satisfactory proof has been made showing the reason why the same cannot be returned; or, if so required by the Secretary, when the person presenting the same cannot satisfactorily trace the history of said stamps from their issuance to the presentation of his claim as aforesaid.
+Such allowance or redemption may be made, either by giving other stamps in lieu of the stamps so allowed for or redeemed, or by refunding the amount or value to the owner thereof, deducting therefrom, in case of repayment, the percentage, if any, allowed to the purchaser thereof; but no allowance or redemption shall be made in any case until the stamps so spoiled or rendered useless shall have been returned to the Secretary, or until satisfactory proof has been made showing the reason why the same cannot be returned; or, if so required by the Secretary, when the person presenting the same cannot satisfactorily trace the history of said stamps from their issuance to the presentation of his claim as aforesaid.
 
 #### (c) Time for filing claims
 
@@ -29,8 +29,4 @@ Subsec. (c). Pub. L. 85–859, §165(c), inserted “under this section” after
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6040 of this title.
 

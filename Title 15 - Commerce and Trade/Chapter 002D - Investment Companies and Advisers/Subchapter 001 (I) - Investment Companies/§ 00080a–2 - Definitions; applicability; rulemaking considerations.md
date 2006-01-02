@@ -162,7 +162,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(43) “Wholly-owned subsidiary” of a person means a company 95 per centum or more of the outstanding voting securities of which are owned by such person, or by a company which, within the meaning of this paragraph, is a wholly-owned subsidiary of such person.
 
-&emsp;(44) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], “Public Utility Holding Company Act of 1935” \[15 U.S.C. 79 et seq.\], and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\] mean those acts, respectively, as heretofore or hereafter amended.
+&emsp;(44) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], “Public Utility Holding Company Act of 1935”,<sup>2</sup> and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\] mean those acts, respectively, as heretofore or hereafter amended.
 
 &emsp;(45) “Savings and loan association” means a savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, which is supervised and examined by State or Federal authority having supervision over any such institution, and a receiver, conservator, or other liquidating agent of any such institution.
 
@@ -184,7 +184,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(47) “Making available significant managerial assistance” by a business development company means—
 
-&emsp;&emsp;(A) any arrangement whereby a business development company, through its directors, officers, employees, or general partners, offers to provide, and, if accepted, does so provide, significant guidance and counsel concerning the management, operations, or business objectives and policies of a portfolio company;
+&emsp;&emsp;(A) any arrangement whereby a business development company, through its directors,officers, employees, or general partners, offers to provide, and, if accepted, does so provide, significant guidance and counsel concerning the management, operations, or business objectives and policies of a portfolio company;
 
 &emsp;&emsp;(B) the exercise by a business development company of a controlling influence over the management or policies of a portfolio company by the business development company acting individually or as part of a group acting together which controls such portfolio company; or
 
@@ -216,7 +216,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(B) The Commission may adopt such rules and regulations applicable to the persons and trusts specified in clauses (i) through (iv) of subparagraph (A) as it determines are necessary or appropriate in the public interest or for the protection of investors.
 
-&emsp;(C) The term “qualified purchaser” does not include a company that, but for the exceptions provided for in paragraph (1) or (7) of section 80a–3(c) of this title, would be an investment company (hereafter in this paragraph referred to as an “excepted investment company”), unless all beneficial owners of its outstanding securities (other than short-term paper), determined in accordance with section 80a–3(c)(1)(A) of this title, that acquired such securities on or before April 30, 1996 (hereafter in this paragraph referred to as “pre-amendment beneficial owners”), and all pre-amendment beneficial owners of the outstanding securities (other than short-term paper) of any excepted investment company that, directly or indirectly, owns any outstanding securities of such excepted investment company, haveconsented to its treatment as a qualified purchaser. Unanimous consent of all trustees, directors, or general partners of a company or trust referred to in clause (ii) or (iii) of subparagraph (A) shall constitute consent for purposes of this subparagraph.
+&emsp;(C) The term “qualified purchaser” does not include a company that, but for the exceptions provided for in paragraph (1) or (7) of section 80a–3(c) of this title, would be an investment company (hereafter in this paragraph referred to as an “excepted investment company”), unless all beneficial owners of its outstanding securities (other than short-term paper), determined in accordance with section 80a–3(c)(1)(A) of this title, that acquired such securities on or before April 30, 1996 (hereafter in this paragraph referred to as “pre-amendment beneficial owners”), and all pre-amendment beneficial owners of the outstanding securities (other than short-term paper) of any excepted investment company that, directlyor indirectly, owns any outstanding securities of such excepted investment company, have consented to its treatment as a qualified purchaser. Unanimous consent of all trustees, directors, or general partners of a company or trust referred to in clause (ii) or (iii) of subparagraph (A) shall constitute consent for purposes of this subparagraph.
 
 &emsp;(52) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
 
@@ -236,7 +236,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (a)(11), (44), is ac
 
 The Securities Act of 1933, referred to in subsec. (a)(31), (44), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(44), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(44), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 The Trust Indenture Act of 1939, referred to in subsec. (a)(44), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 
@@ -341,4 +341,6 @@ Section 209(d)(2) of Pub. L. 104–290 provided that: “Not later than 180 days
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by the word “and”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

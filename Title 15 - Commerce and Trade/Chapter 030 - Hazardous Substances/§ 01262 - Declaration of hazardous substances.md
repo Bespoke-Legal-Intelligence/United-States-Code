@@ -56,7 +56,7 @@ A proceeding for the promulgation of a regulation under section 1261(q)(1) of th
 
 #### (g) Publication of standard; termination of proceeding for promulgation of regulation; monitoring of compliance
 
-(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under section 1261(q)(1) of this title or subsection (e) of this section, as the case may be, would eliminate oradequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
+(1) If the Commission determines that any standard submitted to it in response to an invitation in a notice published under subsection (f)(5) of this section if promulgated (in whole, in part, or in combination with any other standard submitted to the Commission or any part of such a standard) as a regulation under section 1261(q)(1) of this title or subsection (e) of this section, as the case may be, would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section, the Commission may publish such standard, in whole, in part, or in such combination and with nonmaterial modifications, as a proposed regulation under such section or subsection.
 
 (2) If the Commission determines that—
 
@@ -80,7 +80,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
-&emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) of this section was not published by the Commission as the proposed regulation or part of the proposed regulation;
+&emsp;(2) a discussion of the reasons any standard or portion of a standard submitted to the Commission under subsection (f)(5) of this sectionwas not published by the Commission as the proposed regulation or part of the proposed regulation;
 
 &emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (f)(6) of this section and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary standard that would eliminate or adequately reduce the risk of injury identified in the notice provided under subsection (f)(1) of this section; and
 
@@ -104,7 +104,7 @@ No regulation under section 1261(q)(1) of this title classifying an article or s
 
 &emsp;(A) in the case of a regulation which relates to a risk of injury with respect to which persons who would be subject to such regulation have adopted and implemented a voluntary standard, that—
 
-&emsp;&emsp;(i) compliance with such voluntary standard is not likely to result in the eliminationor adequate reduction of such risk of injury; or
+&emsp;&emsp;(i) compliance with such voluntary standard is not likely to result in the elimination or adequate reduction of such risk of injury; or
 
 &emsp;&emsp;(ii) it is unlikely that there will be substantial compliance with such voluntary standard;
 

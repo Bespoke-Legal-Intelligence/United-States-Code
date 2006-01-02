@@ -19,7 +19,7 @@
 | [212\.](%C2%A7%2000212%20-%20Inter-American%20Highway.md) | Inter-American Highway. |
 | \[213. | Repealed.\] |
 | [214\.](%C2%A7%2000214%20-%20Public%20lands%20development%20roads%20and%20trails.md) | Public lands development roads and trails. |
-| [215\.](%C2%A7%2000215%20-%20Territorial%20highway%20program.md) | Territories highway development program.<sup>1</sup> |
+| [215\.](%C2%A7%2000215%20-%20Territorial%20highway%20program.md) | Territorial highway program. |
 | [216\.](%C2%A7%2000216%20-%20Darien%20Gap%20Highway.md) | Darien Gap Highway. |
 | [217\.](%C2%A7%2000217%20-%20Bicycle%20transportation%20and%20pedestrian%20walkways.md) | Bicycle transportation and pedestrian walkways. |
 | [218\.](%C2%A7%2000218%20-%20Alaska%20Highway.md) | Alaska Highway. |
@@ -28,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title I, §1118(b)(3), Aug. 10, 2005, 119 Stat. 1181, substituted “Territorial highway program” for “Territories highway development program” in item 215.
 
 1998—Pub. L. 105–178, title I, §1112(b), June 9, 1998, 112 Stat. 151, substituted “Recreational trails program” for “Repealed” in item 206.
 

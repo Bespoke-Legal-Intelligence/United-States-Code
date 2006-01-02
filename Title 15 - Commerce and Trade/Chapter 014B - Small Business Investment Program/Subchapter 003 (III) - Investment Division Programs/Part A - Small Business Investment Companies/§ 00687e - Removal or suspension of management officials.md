@@ -82,7 +82,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (1) In general
 
-&emsp;Whenever a management official is charged in any information, indictment, or complaint authorized by a United States attorney, with the commission of or participation in a felony involving dishonesty or breach of trust, the Administrator may, by written notice served upon that management official, suspend that management official from office or prohibit that management official from further participation in any manner in the management or conduct of the affairs of the licensee, or both.
+&emsp;Whenever a management official is charged in any information, indictment, or complaintauthorized by a United States attorney, with the commission of or participation in a felony involving dishonesty or breach of trust, the Administrator may, by written notice served upon that management official, suspend that management official from office or prohibit that management official from further participation in any manner in the management or conduct of the affairs of the licensee, or both.
 
 #### (2) Effectiveness
 
@@ -130,7 +130,7 @@ Copies of each notice required to be served on a management official under this 
 
 #### (B) Petition for review
 
-&emsp;&emsp;Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d) of this section), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order ofthe Administrator be modified, terminated, or set aside.
+&emsp;&emsp;Any party to a hearing provided for in this section may obtain a review of any order issued pursuant to paragraph (2) (other than an order issued with the consent of the management official concerned, or an order issued under subsection (d) of this section), by filing in the court of appeals of the United States for the circuit in which the principal office of the licensee is located, or in the United States Court of Appeals for the District of Columbia Circuit, not later than 30 days after the date of service of such order, a written petition praying that the order of the Administrator be modified, terminated, or set aside.
 
 #### (C) Notification to administration
 

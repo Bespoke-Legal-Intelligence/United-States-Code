@@ -102,5 +102,5 @@ Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any inj
 
 #### Personnel Not Affected by 1967 Increase
 
-Increases authorized under amendment by section 1(53)(B), (C) of Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
+Increases authorized under amendment by section 1(53)(B), (C) of Pub. L. 90–83 not applicable to specifiedpersonnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 

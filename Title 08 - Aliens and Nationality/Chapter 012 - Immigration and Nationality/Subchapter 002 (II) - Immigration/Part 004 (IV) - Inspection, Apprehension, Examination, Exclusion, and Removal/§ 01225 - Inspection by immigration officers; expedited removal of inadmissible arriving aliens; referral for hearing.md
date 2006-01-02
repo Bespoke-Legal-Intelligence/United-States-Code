@@ -144,7 +144,7 @@
 
 &emsp;(B) If the Attorney General—
 
-&emsp;&emsp;(i) is satisfied on the basis of confidential information that the alien is inadmissibleunder subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, and
+&emsp;&emsp;(i) is satisfied on the basis of confidential information that the alien is inadmissible under subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, and
 
 &emsp;&emsp;(ii) after consulting with appropriate security agencies of the United States Government, concludes that disclosure of the information would be prejudicial to the public interest, safety, or security,
 
@@ -180,7 +180,7 @@
 
 &emsp;(B) Any United States district court within the jurisdiction of which investigations or inquiries are being conducted by an immigration officer may, in the event of neglect or refusal to respond to a subpoena issued under this paragraph or refusal to testify before an immigration officer, issue an order requiring such persons to appear before an immigration officer, produce books, papers, and documents if demanded, and testify, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 4, §235, 66 Stat. 198; Pub. L. 101–649, title VI, §603(a)(11), Nov. 29,1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §§422(a), 423(b), Apr. 24, 1996, 110 Stat. 1270, 1272; Pub. L. 104–208, div. C, title III, §§302(a), 308(d)(5), 371(b)(4), Sept. 30, 1996, 110 Stat. 3009–579, 3009–619, 3009–645.)
 
 #### Amendments
 
@@ -206,7 +206,7 @@ Section 422(c) of Pub. L. 104–132, which provided that the amendments made by 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, seesection 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Construction of 1996 Amendment
 

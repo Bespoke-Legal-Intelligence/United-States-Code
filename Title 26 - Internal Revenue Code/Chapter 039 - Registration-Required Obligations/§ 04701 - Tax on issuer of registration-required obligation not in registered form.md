@@ -28,13 +28,9 @@ For purposes of this section—
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided,see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 #### Effective Date
 
 Section applicable to obligations issued after Dec. 31, 1982, with an exception for certain warrants, see section 310(d)(1), (3) of Pub. L. 97–248, set out as an Effective Date of 1982 Amendment note under section 103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 165, 1287 of this title.
 

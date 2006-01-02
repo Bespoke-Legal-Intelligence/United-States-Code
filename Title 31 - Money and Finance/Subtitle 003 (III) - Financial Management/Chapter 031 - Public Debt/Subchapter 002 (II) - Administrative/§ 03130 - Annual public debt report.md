@@ -14,7 +14,7 @@ Required Information on Public Debt Activities.—Each report submitted under su
 
 &emsp;(1) A table showing the following information with respect to the total public debt:
 
-&emsp;&emsp;(A) The past levels of such debt and the projected levels of such debt as of the close of the current fiscal year and as of the close of the next 5 fiscal years under the most recent current services baseline projection of the executive branch.
+&emsp;&emsp;(A) The past levels of such debt and the projected levels of such debt as of the close of the current fiscal year and as of the closeof the next 5 fiscal years under the most recent current services baseline projection of the executive branch.
 
 &emsp;&emsp;(B) The past debt to GDP ratios and the projected debt to GDP ratios as of the close of the current fiscal year and as of the close of the next 5 fiscal years under such most recent current services baseline projection.
 

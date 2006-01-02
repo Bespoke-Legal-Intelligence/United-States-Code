@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) existing lobbying disclosure statutes have been ineffective because of unclear statutory language, weak administrative and enforcement provisions, and an absence of clear guidance as to who is required to register and what they are required to disclose; and
 
-&emsp;(3) the effective public disclosure of the identity and extent of the efforts of paid lobbyiststo influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.
+&emsp;(3) the effective public disclosure of the identity and extent of the efforts of paid lobbyists to influence Federal officials in the conduct of Government actions will increase public confidence in the integrity of Government.
 
 (Pub. L. 104–65, §2, Dec. 19, 1995, 109 Stat. 691.)
 

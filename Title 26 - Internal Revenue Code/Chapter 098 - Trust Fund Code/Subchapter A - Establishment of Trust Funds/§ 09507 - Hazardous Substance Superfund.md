@@ -44,7 +44,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (2) Exception for certain transfers, etc., of hazardous substances
 
-&emsp;No amount in the Superfund or derived from the Superfund shall be available or used forthe transfer or disposal of hazardous waste carried out pursuant to a cooperative agreement between the Administrator of the Environmental Protection Agency and a State if the following conditions apply—
+&emsp;No amount in the Superfund or derived from the Superfund shall be available or used for the transfer or disposal of hazardous waste carried out pursuant to a cooperative agreement between the Administrator of the Environmental Protection Agency and a State if the following conditions apply—
 
 &emsp;&emsp;(A) the transfer or disposal, if made on December 13, 1985, would not comply with a State or local requirement,
 
@@ -126,7 +126,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 “(2)
 
-Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
+Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this sectionshall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
 
 #### Authorization of Appropriations
 
@@ -153,10 +153,6 @@ Section 517(b) of Pub. L. 99–499, as amended by Pub. L. 101–508, title XI, �
 > plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
 
 \[Section 11231(d) of Pub. L. 101–508 directed that section 517(b) of Pub. L. 99–499, set out above, be “amended by striking ‘and’ at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ‘, and’, and by adding at the end thereof” new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 “shall be applied as if ‘comma’ appeared instead of ‘period’ \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma”.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 9601, 9611.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

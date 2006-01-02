@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 Aug. 8, 1953, ch. 393, §3(a) (5th sentence), 67 Stat. 502.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1433, 1434 of this title.
-

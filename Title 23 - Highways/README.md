@@ -1,5 +1,5 @@
 
-23 U.S.C.<br>United States Code, 2004 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
+23 U.S.C.<br>United States Code, 2005 Edition<br>Title 23 - HIGHWAYS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 23—HIGHWAYS
 
@@ -16,11 +16,14 @@
 | [<b>2.</b>](Chapter%20002%20-%20Other%20Highways/README.md) | <b>Other Highways</b> | <b>201</b> |
 | [<b>3.</b>](Chapter%20003%20-%20General%20Provisions/README.md) | <b>General Provisions</b> | <b>301</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Highway%20Safety/README.md) | <b>Highway Safety</b> | <b>401</b> |
-| [<b>5.</b>](Chapter%20005%20-%20Research%20and%20Technology/README.md) | <b>Research and Technology</b> | <b>501</b> |
+| [<b>5.</b>](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/README.md) | <b>Research, Technology, and Education</b> | <b>501</b> |
+| [<b>6.</b>](Chapter%20006%20-%20Infrastructure%20Finance/README.md) | <b>Infrastructure Finance</b> | <b>601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title I, §1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, 119 Stat. 1248, 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 “Research and Technology”.
 
 1998—Pub. L. 105–178, title V, §5101(1), June 9, 1998, 112 Stat. 422, added item for chapter 5.
 
@@ -679,4 +682,5 @@ Pub. L. 102–240, title I, §1066, Dec. 18, 1991, 105 Stat. 2006, provided that
 - [Chapter 002 - Other Highways](Chapter%20002%20-%20Other%20Highways/README.md)
 - [Chapter 003 - General Provisions](Chapter%20003%20-%20General%20Provisions/README.md)
 - [Chapter 004 - Highway Safety](Chapter%20004%20-%20Highway%20Safety/README.md)
-- [Chapter 005 - Research and Technology](Chapter%20005%20-%20Research%20and%20Technology/README.md)
+- [Chapter 005 - Research, Technology, and Education](Chapter%20005%20-%20Research%2C%20Technology%2C%20and%20Education/README.md)
+- [Chapter 006 - Infrastructure Finance](Chapter%20006%20-%20Infrastructure%20Finance/README.md)

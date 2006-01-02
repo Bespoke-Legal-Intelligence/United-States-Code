@@ -18,7 +18,7 @@ The credit provided in this section with respect to such taxes paid to any forei
 
 > &emsp;bears to the value of all property subjected to such tax; and
 
-&emsp;(2) shall not, with respect to all such taxes, exceed an amount which bears the same ratio to the tax imposed by section 2001 (after deducting from such tax the credits provided by sections 2010, 2011, and 2012) as the value of property which is—
+&emsp;(2) shall not, with respect to all such taxes, exceed an amount which bears the same ratio to the tax imposed by section 2001 (after deducting from such tax the credits provided by sections 2010 and 2012) as the value of property which is—
 
 &emsp;&emsp;(A) situated within such foreign country,
 
@@ -50,7 +50,7 @@ The credit provided in this section shall be allowed only if the taxpayer establ
 
 The credit provided in this section shall be allowed only for such taxes as were actually paid and credit therefor claimed within 4 years after the filing of the return required by section 6018, except that—
 
-&emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), then within such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
+&emsp;(1) If a petition for redetermination of a deficiency has been filed with the Tax Court within the time prescribed in section 6213(a), thenwithin such 4-year period or before the expiration of 60 days after the decision of the Tax Court becomes final.
 
 &emsp;(2) If, under section 6161, an extension of time has been granted for payment of the tax shown on the return, or of a deficiency, then within such 4-year period or before the date of the expiration of the period of the extension.
 
@@ -78,11 +78,13 @@ Whenever the President finds that—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 378; Pub. L. 85–866, title I, §102(c)(2), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §2, Aug. 21, 1959, 73 Stat. 397; Pub. L. 89–809, title I, §106(b)(3), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 107–16, title V, §532(c)(3), June 7, 2001, 115 Stat. 74.)
 
-#### Amendment of Subsection (b)(2)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §532(c)(3), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (b)(2) of this section is temporarily amended by striking out “, 2011,” after “sections 2010”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–16, §§532(c)(3), 901, temporarily struck out “, 2011,” after “sections 2010” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 1976—Subsec. (b)(2). Pub. L. 94–455, §2001(c)(1)(G), inserted reference to section 2010 in introductory provisions.
 
@@ -113,8 +115,4 @@ Amendment by Pub. L. 86–175 applicable with respect to estates of decedents dy
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 applicable to estates of decedents dying after Sept. 2, 1958, see section 102(d) of Pub. L. 85–866, set out as a note under section 2011 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2013, 2015, 2016, 2053, 2056A, 6511, 6612 of this title.
 

@@ -95,10 +95,11 @@
 | (a) | Sums appropriated to Secretary. |
 | (b) | Limitations. |
 | (c) | Reversion to Secretary of unobligated State funds; availability of funds. |
-| [1465\.](%C2%A7%2001465%20-%20Appeals%20to%20Secretary.md) | Appeals to Secretary. |
+| [1465\.](%C2%A7%2001465%20-%20Appeals%20to%20the%20Secretary.md) | Appeals to the Secretary. |
 | (a) | Notice. |
-| (b) | Deadline. |
-| (c) | Application. |
+| (b) | Closure of record. |
+| (c) | Deadline for decision. |
+| [1466\.](%C2%A7%2001466%20-%20Appeals%20relating%20to%20offshore%20mineral%20development.md) | Appeals relating to offshore mineral development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -129,4 +130,5 @@
 - [&sect; 01463a - Omitted](%C2%A7%2001463a%20-%20Omitted.md)
 - [&sect; 01463b - National Coastal Resources Research and Development Institute](%C2%A7%2001463b%20-%20National%20Coastal%20Resources%20Research%20and%20Development%20Institute.md)
 - [&sect; 01464 - Authorization of appropriations](%C2%A7%2001464%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 01465 - Appeals to Secretary](%C2%A7%2001465%20-%20Appeals%20to%20Secretary.md)
+- [&sect; 01465 - Appeals to the Secretary](%C2%A7%2001465%20-%20Appeals%20to%20the%20Secretary.md)
+- [&sect; 01466 - Appeals relating to offshore mineral development](%C2%A7%2001466%20-%20Appeals%20relating%20to%20offshore%20mineral%20development.md)

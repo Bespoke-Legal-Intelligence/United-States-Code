@@ -36,7 +36,7 @@
 
 (3) In this subsection, the term “new special access program” means a special access program that has not previously been covered in a notice and justification under this subsection.
 
-(c)(1) Whenever a change in the classification of a special access program of the Department of Defense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
+(c)(1) Whenever a change in the classification of a special access program of the Department ofDefense is planned to be made or whenever classified information concerning a special access program of the Department of Defense is to be declassified and made public, the Secretary of Defense shall submit to the defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
 
 (2) Except as provided in paragraph (3), any report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change or public announcement is to occur.
 
@@ -102,5 +102,5 @@ Five-Year Reference Amounts.—The first report under subsection (a) of section 
 
 “(c)
 
-Initial Report on Special Access Program Designations.—The first report under subsection (b) of section 119 of title 10, United States Code (as added bysubsection (a)), shall cover each existing special access program.”
+Initial Report on Special Access Program Designations.—The first report under subsection (b) of section 119 of title 10, United States Code (as added by subsection (a)), shall cover each existing special access program.”
 

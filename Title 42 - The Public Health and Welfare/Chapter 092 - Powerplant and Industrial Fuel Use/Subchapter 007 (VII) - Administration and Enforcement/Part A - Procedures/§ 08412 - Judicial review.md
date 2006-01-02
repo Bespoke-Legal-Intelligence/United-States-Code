@@ -16,7 +16,7 @@ Any final order issued by the Secretary denying any petition for an exemption or
 
 (3) The judgment of the court affirming or setting aside, in whole or in part, any such rule, order, or denial shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
-(4) Subject to the direction and control of the Attorney General, as provided in section 519 of title 28, attorneys appointed by the Secretary may appear for and represent the Secretary in any proceeding instituted under this section in accordance with section 7192(c) of this title.
+(4) Subject to the direction and control of the Attorney General, as provided in section 519 of title 28, attorneys appointed by the Secretarymay appear for and represent the Secretary in any proceeding instituted under this section in accordance with section 7192(c) of this title.
 
 (Pub. L. 95–620, title VII, §702, Nov. 9, 1978, 92 Stat. 3331.)
 

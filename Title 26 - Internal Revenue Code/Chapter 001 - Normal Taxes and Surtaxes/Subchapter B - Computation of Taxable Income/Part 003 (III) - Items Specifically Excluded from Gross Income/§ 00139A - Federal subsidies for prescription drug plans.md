@@ -12,7 +12,3 @@ Section 1860D–22 of the Social Security Act, referred to in text, is classifie
 
 Section applicable to taxable years ending after Dec. 8, 2003, see section 1202(d) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 56 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 56 of this title.
-

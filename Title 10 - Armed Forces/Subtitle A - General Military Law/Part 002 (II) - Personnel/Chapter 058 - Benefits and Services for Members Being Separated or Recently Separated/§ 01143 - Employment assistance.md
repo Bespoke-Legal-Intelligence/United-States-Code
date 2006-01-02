@@ -232,7 +232,7 @@ Purpose.—The purpose of this subtitle is to provide additional means by which 
 
 “(a)
 
-Establishment.—Not later than 60 days after the date of enactment of this Act \[Oct. 23, 1992\], the Secretary shall carry out a program in accordance with this subtitle to assist eligible persons in obtaining employment through participation in programs of significant training for employment in stable and permanent positions. The Secretary may enter into an agreement with the Secretary of Veterans Affairs, the Secretary of Labor, or both, for the implementation of the program. The program shall be carried out through payments to employers who employ and train eligible persons in such positions. Such payments shall be made to assist such employers in defraying the costs of necessary training.
+Establishment.—Not later than 60 days after the date of enactment of this Act \[Oct. 23, 1992\], theSecretary shall carry out a program in accordance with this subtitle to assist eligible persons in obtaining employment through participation in programs of significant training for employment in stable and permanent positions. The Secretary may enter into an agreement with the Secretary of Veterans Affairs, the Secretary of Labor, or both, for the implementation of the program. The program shall be carried out through payments to employers who employ and train eligible persons in such positions. Such payments shall be made to assist such employers in defraying the costs of necessary training.
 
 “(b)
 
@@ -348,7 +348,7 @@ Certification.—An application under subsection (c) shall include a certificati
 
 &emsp;“(9) That there are in the training establishment or place of employment such space, equipment, instructional material, and instructor personnel as are needed to accomplish the training objective certified under subsection (e)(2).
 
-&emsp;“(10) That the employer will keep records adequate to show the progress made by each eligible personparticipating in the program and otherwise to demonstrate compliance with the requirements established under this subtitle.
+&emsp;“(10) That the employer will keep records adequate to show the progress made by each eligible person participating in the program and otherwise to demonstrate compliance with the requirements established under this subtitle.
 
 &emsp;“(11) That the employer will furnish each participating eligible person, before the eligible person's entry into training, with a copy of the employer's certification under this subsection and will obtain and retain the eligible person's signed acknowledgment of having received such certification.
 
@@ -398,7 +398,7 @@ Payments.—(1)(A) Except as provided in subsections (b) and (c) and subject to 
 
 Payment Period.—(1) Except as provided in paragraphs (2) and (3), the implementing official shall pay training assistance to employers under this section on a quarterly basis.
 
-“(2) The implementing official may pay training assistance to an employer on a monthly basis if the implementing official determines (pursuant to regulations prescribed by the implementing official) that the number of employees of the employer is such that the payment of assistance on a quarterly basis would be burdensome to the employer.
+“(2) The implementing official may pay training assistance to an employer on a monthly basis if the implementing official determines (pursuant to regulationsprescribed by the implementing official) that the number of employees of the employer is such that the payment of assistance on a quarterly basis would be burdensome to the employer.
 
 “(3) The implementing official shall withhold 25 percent of each payment due under this subsection with respect to an eligible person. The total amount withheld with respect to an eligible person under this paragraph shall be paid to the employer at the end of the four month period of employment of such person under this subtitle beginning on the date of completion of training, or upon the completion of the 18th month of training under the last training program approved for the person's pursuit with that employer under this subtitle, whichever is earlier.
 
@@ -422,7 +422,7 @@ Overpayments.—(1)(A) Whenever the implementing official finds that an overpaym
 
 “(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any other debt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this subtitle. If there are no such funds, any overpayment recovered shall be deposited into the Treasury.
 
-“(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordancewith the terms and conditions set forth in section 5302 of title 38, United States Code.
+“(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordance with the terms and conditions set forth in section 5302 of title 38, United States Code.
 
 “(e)
 
@@ -462,7 +462,7 @@ Failure To Meet Requirements.—If the implementing official finds at any time t
 
 “(b)
 
-Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons’ successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, such official shall take into account appropriate data, including—
+Rate of Completion.—(1) If the implementing official determines that the rate of eligible persons’successful completion of an employer's programs of job training previously approved for the purposes of this subtitle is disproportionately low because of deficiencies in the quality of such programs, such official shall disapprove participation in such programs on the part of eligible persons who had not begun such participation on the date that the employer is notified of the disapproval. In determining whether any such rate is disproportionately low because of such deficiencies, such official shall take into account appropriate data, including—
 
 &emsp;“(A) the quarterly data provided by the Secretary of Labor with respect to the number of eligible persons who receive counseling in connection with training under this subtitle, are referred to employers under this subtitle, participate in job training under this subtitle, and complete such training or do not complete such training, and the reasons for noncompletion; and
 
@@ -494,7 +494,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 “(a)
 
-Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer onbehalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
+Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
 “(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 
@@ -564,7 +564,7 @@ Coordination.—The Secretary, the Secretary of Veterans Affairs, and the Secret
 
 Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shall make available such personnel as are necessary to facilitate the effective implementation of this subtitle.
 
-“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall takesteps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
+“(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall take steps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
 
 “(d)
 
@@ -613,8 +613,4 @@ Publication in the Federal Register.—If the transfer described in subsection (
 \[Section 610(a)(2)(B) of Pub. L. 103–446 provided that: “The amendment made by subparagraph (A) \[amending section 4486(d)(2) of Pub. L. 102–484, set out above\] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 \[subtitle G of title XLIV of Pub. L. 102–484, set out above\] beginning after the date of the enactment of this Act \[Nov. 2, 1994\].”\]
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1144 of this title.
 

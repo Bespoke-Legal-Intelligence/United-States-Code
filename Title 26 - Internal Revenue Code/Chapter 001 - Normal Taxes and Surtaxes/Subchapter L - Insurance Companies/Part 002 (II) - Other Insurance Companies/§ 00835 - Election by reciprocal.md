@@ -22,7 +22,7 @@ An election may not be made by a reciprocal under subsection (a) unless the atto
 
 #### (d) Credit
 
-Any reciprocal electing to be subject to the limitation provided in subsection (b) shall be credited with so much of the tax paid by the attorney-in-fact as is attributable, under regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal in such taxable year.
+Any reciprocal electing to be subject to the limitation provided in subsection (b) shall becredited with so much of the tax paid by the attorney-in-fact as is attributable, under regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal in such taxable year.
 
 #### (e) Benefits of graduated rates denied
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 #### Effective Date
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1962, see section 8(h) of Pub. L. 87–834, set out as an Effective Date of 1962 Amendment note under section 501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 832 of this title.
 

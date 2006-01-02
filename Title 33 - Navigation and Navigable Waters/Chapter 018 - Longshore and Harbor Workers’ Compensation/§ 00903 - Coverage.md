@@ -14,7 +14,7 @@ No compensation shall be payable if the injury was occasioned solely by the into
 
 #### (d) Small vessels
 
-(1) No compensation shall be payable to an employee employed at a facility of an employer if, as certified by the Secretary, the facility is engaged in the business of building, repairing, or dismantling exclusively small vessels (as defined in paragraph (3) of this subsection), unless the injury occurs while upon the navigable waters of the United States or while upon any adjoining pier, wharf, dock, facility over land for launching vessels, or facility over land for hauling, lifting, or drydocking vessels.
+(1) No compensation shall be payable to an employee employed at a facility of an employer if, as certified by the Secretary, the facility is engaged in the business of building, repairing, or dismantling exclusively small vessels (as defined in paragraph (3) of this subsection), unless the injury occurs while upon the navigable waters ofthe United States or while upon any adjoining pier, wharf, dock, facility over land for launching vessels, or facility over land for hauling, lifting, or drydocking vessels.
 
 (2) Notwithstanding paragraph (1), compensation shall be payable to an employee—
 

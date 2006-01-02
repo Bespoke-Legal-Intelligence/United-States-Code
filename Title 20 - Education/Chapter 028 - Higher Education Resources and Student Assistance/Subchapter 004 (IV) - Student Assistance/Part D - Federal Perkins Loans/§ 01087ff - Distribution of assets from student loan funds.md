@@ -22,11 +22,11 @@ After March 31, 2012, each institution with which the Secretary has made an agre
 
 (2) No finding that the liquid assets of a student loan fund established under this part exceed the amount required under paragraph (1) may be made prior to a date which is 2 years after the date on which the institution of higher education received the funds from such institution's allocation under section 1087bb of this title.
 
-(Pub. L. 89–329, title IV, §466, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat.1453; amended Pub. L. 102–325, title IV, §466, July 23, 1992, 106 Stat. 584; Pub. L. 103–208, §2(f)(15), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §466, Oct. 7, 1998, 112 Stat. 1728.)
+(Pub. L. 89–329, title IV, §466, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1453; amended Pub. L. 102–325, title IV, §466, July 23, 1992, 106 Stat. 584; Pub. L. 103–208, §2(f)(15), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §466, Oct. 7, 1998, 112 Stat. 1728.)
 
 #### Prior Provisions
 
-A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087ff, Pub. L. 89–329, title IV, §466, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 278; amended Pub. L. 94–482, title I, §130(h), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 96–374, title IV, §442(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1503, related to distribution of assets from student loan funds,prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 (2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
 
-(3) Corrections under this section shall be made under procedures established by the Secretary concerned. In the case of the Secretary ofa military department, those procedures must be approved by the Secretary of Defense.
+(3) Corrections under this section shall be made under procedures established by the Secretary concerned. In the case of the Secretary of a military department, those procedures must be approved by the Secretary of Defense.
 
 (4) Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.
 
@@ -22,7 +22,7 @@
 
 (d) Applicable current appropriations are available to continue the pay, allowances, compensation, emoluments, and other pecuniary benefits of any person who was paid under subsection (c), and who, because of the correction of his military record, is entitled to those benefits, but for not longer than one year after the date when his record is corrected under this section if he is not reenlisted in, or appointed or reappointed to, the grade to which those payments relate. Without regard to qualifications for reenlistment, or appointment or reappointment, the Secretary concerned may reenlist a person in, or appoint or reappoint him to, the grade to which payments under this section relate.
 
-(e) No payment may be made under this section for a benefit to which the claimant might later become entitled under the laws and regulations administered by the Secretary of Veterans Affairs.
+(e) No payment may be made under this section for a benefit to which the claimant mightlater become entitled under the laws and regulations administered by the Secretary of Veterans Affairs.
 
 (f) With respect to records of courts-martial and related administrative records pertaining to court-martial cases tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under subsection (a) may extend only to—
 
@@ -94,7 +94,7 @@ In subsection (a), the words “and approved by the Secretary of Defense” are 
 
 In subsection (b), the words “before October 26, 1961” are substituted for the words “or within ten years after the date of enactment of this section”, in 5:191a and 275. The last sentence of the revised subsection is substituted for 5:191a(a) (last proviso) and 275(a) (last proviso).
 
-In subsection (c), the words “if, as a result of correcting a record under this section \* \* \* the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be” are substituted for the words “which are found to be due on account of military or naval service as a result of the action \* \* \* hereafter taken pursuant to subsection (a) of this section”, in 5:191a and 275. The words “heretofore taken pursuant to this section”, in 5:191a and 275, are omitted as executed. The words “of any persons, their heirs at law or legal representative as hereinafter provided”, “(including retired or retirement pay)”, “as thecase may be”, “duly appointed”, “otherwise due hereunder”, “decedent's”, “precedence or succession”, and “of precedence”, in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
+In subsection (c), the words “if, as a result of correcting a record under this section \* \* \* the amount is found to be due the claimant on account of his or another's service in the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be” are substituted for the words “which are found to be due on account of military or naval service as a result of the action \* \* \* hereafter taken pursuant to subsection (a) of this section”, in 5:191a and 275. The words “heretofore taken pursuant to this section”, in 5:191a and 275, are omitted as executed. The words “of any persons, their heirs at law or legal representative as hereinafter provided”, “(including retired or retirement pay)”, “as the case may be”, “duly appointed”, “otherwise due hereunder”, “decedent's”, “precedence or succession”, and “of precedence”, in 5:191a and 275, are omitted as surplusage. The last sentence is substituted for 5:191a(c) and 275(c).
 
 In subsection (d), the word “but” is substituted for the words “That, continuing payments are authorized to be made to such personnel”, in 5:191a and 275. The words “if he is not reenlisted in, or appointed or reappointed to, the grade to which those payments relate” are substituted for the words “without the necessity for reenlistment, appointment, or reappointment to the grade, rank, or office to which such pay (including retired or retirement pay), allowances, compensation, emoluments, and other monetary benefits are attached”, in 5:191a and 275. The words “or one year following the date of enactment of this section”, in 5:191a and 275, are omitted as executed. The words “for payment of such sums as may be due for”, in 5:191a and 275, are omitted as surplusage. The words “(including retired or retirement pay)”, in 5:191a and 275, are omitted as covered by the definition of “pay” in section 101(27) of this title.
 
@@ -114,7 +114,7 @@ Subsec. (g). Pub. L. 105–261, §545(b), added subsec. (g).
 
 1992—Subsec. (a)(2). Pub. L. 102–484 substituted “announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade” for “announcing a decision not to promote an enlisted member to a higher grade”.
 
-1989—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
+1989—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record ofthe Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
 
 Subsec. (b). Pub. L. 101–189, §514(b), substituted “subsection (a)(1)” for “subsection (a)” in two places.
 
@@ -145,8 +145,4 @@ Pub. L. 101–225, title II, §212, Dec. 12, 1989, 103 Stat. 1914, provided that
 &emsp;“(1) amend part 52 of title 33, Code of Federal Regulations, governing the proceedings of the board established by the Secretary under section 1552 of title 10, United States Code, to ensure that a complete application for correction of military records is processed expeditiously and that final action on the application is taken within 10 months of its receipt; and
 
 &emsp;“(2) appoint and maintain a permanent staff, and a panel of civilian officers or employees to serve as members of the board, which are adequate to ensure compliance with paragraph (1) of this subsection.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 628, 1034, 1558, 14502 of this title; title 14 section 425; title 38 sections 3462, 5110; title 42 section 213a.
 

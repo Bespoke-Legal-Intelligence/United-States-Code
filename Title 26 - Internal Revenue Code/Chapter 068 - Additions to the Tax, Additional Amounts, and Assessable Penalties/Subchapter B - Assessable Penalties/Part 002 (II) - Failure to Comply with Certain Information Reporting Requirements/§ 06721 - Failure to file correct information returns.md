@@ -126,7 +126,3 @@ Amendment by Pub. L. 100–690 applicable to actions after Nov. 18, 1988, see se
 
 Section 1501(e) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and sections 6722 to 6724 of this title, amending sections 219, 6031, 6033 to 6034A, 6041, 6042 to 6045, 6047, 6049, 6050A to 6050C, 6050E to 6050I, 6050K, 6052, 6057, 6058, 6652, and 6676 of this title, and repealing section 6678 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1986, except that the amendments made by subsections (c)(2), (c)(3), and (c)(5) \[amending sections 6042, 6044, and 6049 of this title\] shall apply to returns the due \[date\] for which (determined without regard to extensions) is after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1060, 6047, 6724 of this title.
-

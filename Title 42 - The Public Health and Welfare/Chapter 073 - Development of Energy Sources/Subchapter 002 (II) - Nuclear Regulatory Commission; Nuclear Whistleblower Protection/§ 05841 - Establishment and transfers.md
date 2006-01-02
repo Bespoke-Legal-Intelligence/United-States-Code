@@ -58,7 +58,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Au
 
 1975—Subsec. (a). Pub. L. 94–79, §201, designated existing provisions as par. (1) and added pars. (2) to (5).
 
-Subsec. (c). Pub. L. 94–79, §§202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointeeand designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
+Subsec. (c). Pub. L. 94–79, §§202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointee and designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
 
 #### Transfer of Functions
 
@@ -118,7 +118,7 @@ Testing Results: Reports and Public Disclosure.—The Nuclear Regulatory Commiss
 
 “(f)
 
-Alternative Routes and Means of Transportation.—With respect to any shipments of plutonium from a foreign nation to a foreign nation which are subject to United States consent rights contained in an Agreement for Peaceful Nuclear Cooperation, the President is authorized to make every effort to pursue and conclude arrangements for alternative routes and means of transportation, including sea shipment. All such arrangements shall be subject to stringent physical security conditions, and other conditions designed to protect the public health and safety, and provisions of this section, and all other applicable laws.
+Alternative Routes and Means of Transportation.—With respect to any shipments of plutonium from a foreign nation to a foreign nation which are subject to United States consent rights contained in an Agreement for Peaceful Nuclear Cooperation, the President is authorized to make every effort to pursue and conclude arrangements for alternative routes and means of transportation, including sea shipment. All such arrangements shall be subject to stringent physical security conditions, and other conditions designedto protect the public health and safety, and provisions of this section, and all other applicable laws.
 
 “(g)
 
@@ -144,7 +144,7 @@ Pub. L. 97–415, §13, Jan. 4, 1983, 96 Stat. 2074, provided that:
 
 “(b) The Commission shall conduct a study of existing and alternative programs for improving quality assurance and quality control in the construction of commercial nuclear powerplants. In conducting the study, the Commission shall obtain the comments of the public, licensees of nuclear powerplants, the Advisory Committee on Reactor Safeguards, and organizations comprised of professionals having expertise in appropriate fields. The study shall include an analysis of the following:
 
-&emsp;“(1) providing a basis for quality assurance and quality control, inspection, and enforcement actionsthrough the adoption of an approach which is more prescriptive than that currently in practice for defining principal architectural and engineering criteria for the construction of commercial nuclear powerplants;
+&emsp;“(1) providing a basis for quality assurance and quality control, inspection, and enforcement actions through the adoption of an approach which is more prescriptive than that currently in practice for defining principal architectural and engineering criteria for the construction of commercial nuclear powerplants;
 
 &emsp;“(2) conditioning the issuance of construction permits for commercial nuclear powerplants on a demonstration by the licensee that the licensee is capable of independently managing the effective performance of all quality assurance and quality control responsibilities for the powerplant;
 
@@ -172,7 +172,7 @@ Pub. L. 96–295, title III, §301, June 30, 1980, 94 Stat. 789, directed Nuclea
 
 #### Review of Selection and Training of Members of Atomic Safety and Licensing Boards; Report to Congress
 
-Pub. L. 95–601, §7, Nov. 6, 1978, 92 Stat. 2950, directed Commission to undertake a comprehensive review of the existing process for selection and training of members of the Atomic Safety and Licensing Boards, report to Congress on findings of such review by Jan. 1, 1979, and revise such selection and training process as appropriate, based on such findings.
+Pub. L. 95–601, §7, Nov. 6, 1978, 92 Stat. 2950, directed Commission to undertake a comprehensive review ofthe existing process for selection and training of members of the Atomic Safety and Licensing Boards, report to Congress on findings of such review by Jan. 1, 1979, and revise such selection and training process as appropriate, based on such findings.
 
 #### Plutonium Shipments Restrictions
 
@@ -196,7 +196,7 @@ Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter
 
 > shall remain vested in the Commission. The Commission may determine by majority vote, in an area of doubt, whether any matter, action, question or area of inquiry pertains to one of these functions. The performance of any portion of these functions may be delegated by the Commission to a member of the Commission, including the Chairman of the Nuclear Regulatory Commission, hereinafter referred to as the “Chairman”, and to the staff through the Chairman.
 
-(b)(1) With respect to the following officers or successor officers duly established by statute or by the Commission, the Chairman shall initiate the appointment, subject to the approval of the Commission; and theChairman or a member of the Commission may initiate an action for removal, subject to the approval of the Commission:
+(b)(1) With respect to the following officers or successor officers duly established by statute or by the Commission, the Chairman shall initiate the appointment, subject to the approval of the Commission; and the Chairman or a member of the Commission may initiate an action for removal, subject to the approval of the Commission:
 
 &emsp;(i) Executive Director for Operations,
 
@@ -250,7 +250,7 @@ Sec. 2. (a) All other functions of the Commission, not specified by Section 1 of
 
 &emsp;(4) appointing and removing without any further action by the Commission, all officers and employees under the Commission other than those whose appointment and removal are specifically provided for by subsections 1 (b), (c) and 2(a) of this Reorganization Plan.
 
-(c) The Chairman as principal executive officer and the Executive Director for Operations shall be governed by the general policies of the Commission and by such regulatory decisions, findings, and determinations, including those for reorganization proposals, budget revisions and distribution of appropriated funds, as the Commission may by law, including this Plan, be authorized to make. The Chairman and the Executive Director for Operations, through the Chairman, shall be responsible for insuring that the Commission is fully and currently informed about matters within its functions.
+(c) The Chairman as principal executive officer and the Executive Director for Operations shall be governed by the general policies of the Commission and by suchregulatory decisions, findings, and determinations, including those for reorganization proposals, budget revisions and distribution of appropriated funds, as the Commission may by law, including this Plan, be authorized to make. The Chairman and the Executive Director for Operations, through the Chairman, shall be responsible for insuring that the Commission is fully and currently informed about matters within its functions.
 
 Sec. 3. (a) Notwithstanding sections 1 and 2 of this Reorganization Plan, there are hereby transferred to the Chairman all the functions vested in the Commission pertaining to an emergency concerning a particular facility or materials licensed or regulated by the Commission, including the functions of declaring, responding, issuing orders, determining specific policies, advising the civil authorities and the public, directing, and coordinating actions relative to such emergency incident.
 
@@ -296,7 +296,7 @@ Intensive investigations undertaken since the Three Mile Island accident have re
 
 The central theme in all three of these studies is the failure of the Nuclear Regulatory Commission to provide unified leadership and consistent direction of the agency's activities. The present statutes contain conflicting and ambiguous provisions for managing the agency. Important corrective actions cannot or will not be taken by the Commission until the laws are changed. Failure to do so constitutes a continuing nuclear safety hazard.
 
-The present Reorganization Plan would improve the effectiveness of the Nuclear Regulatory Commission by giving the Chairman the powers he needs to ensure efficient and coherent management in a manner that preserves, in fact enhances, the commission form of organization.
+The present Reorganization Plan would improve the effectiveness of the Nuclear Regulatory Commission bygiving the Chairman the powers he needs to ensure efficient and coherent management in a manner that preserves, in fact enhances, the commission form of organization.
 
 #### commission
 
@@ -308,7 +308,7 @@ Under the Plan, the Chairman would act as the principal executive officer and sp
 
 #### emergency management
 
-The Nuclear Regulatory Commission's ability to respond decisively and responsibly to any nuclear emergency must be fully ensured in advance. Experience has shown that the Commission as a whole cannot deal expeditiously with emergencies or communicate in a clear, unified voice to civil authorities or to the public.But present law prevents the Commission from delegating its emergency authority to one of its members. The Plan would correct this situation by specifically authorizing the Chairman to act for the Commission in an emergency. In order to ensure flexibility, the Chairman would be permitted to delegate his authority to deal with a particular emergency to any other Commissioner. Plans for dealing with various contingencies would be approved by the Commission in advance. The Commission would also receive a report from the Chairman or his designee describing the management of the emergency once it was over.
+The Nuclear Regulatory Commission's ability to respond decisively and responsibly to any nuclear emergency must be fully ensured in advance. Experience has shown that the Commission as a whole cannot deal expeditiously with emergencies or communicate in a clear, unified voice to civil authorities or to the public. But present law prevents the Commission from delegating its emergency authority to one of its members. The Plan would correct this situation by specifically authorizing the Chairman to act for the Commission in an emergency. In order to ensure flexibility, the Chairman would be permitted to delegate his authority to deal with a particular emergency to any other Commissioner. Plans for dealing with various contingencies would be approved by the Commission in advance. The Commission would also receive a report from the Chairman or his designee describing the management of the emergency once it was over.
 
 #### actions not included in this plan
 
@@ -338,7 +338,7 @@ The Advisory Committee on Reactor Safeguards advises the Commission as a whole. 
 
 As a means to ensure that the flow of information to the Commission will not be restricted, the Plan has been amended to make explicit that the Chairman, and the Executive Director of Operations through the Chairman, shall keep the Commission fully and currently informed.
 
-The second general purpose of the amendments is to provide for more effective management of the agency by making more explicit the responsibilities of the Chairman and the Executive Director for Operations acting under his direction. As amended, the Plan charges the Chairman with planning for the development of policy for consideration and approval by the Commission. In the past, this responsibility has not been clearly fixed and has consequently been neglected. The amended Plan continues to make clear that the Executive Director for Operations reports to the Chairman. An amendment, however, requires the Chairman to delegate to the Executive Director for Operations the authority to appoint the staff and the day-to-day administration of the agency. Under this arrangement, the Chairman retains responsibility for the delegated functions but will be better able to handle his other leadership tasks.
+The second general purpose of the amendments is to provide for more effective management of the agencyby making more explicit the responsibilities of the Chairman and the Executive Director for Operations acting under his direction. As amended, the Plan charges the Chairman with planning for the development of policy for consideration and approval by the Commission. In the past, this responsibility has not been clearly fixed and has consequently been neglected. The amended Plan continues to make clear that the Executive Director for Operations reports to the Chairman. An amendment, however, requires the Chairman to delegate to the Executive Director for Operations the authority to appoint the staff and the day-to-day administration of the agency. Under this arrangement, the Chairman retains responsibility for the delegated functions but will be better able to handle his other leadership tasks.
 
 In summary, the amendments I am transmitting to Reorganization Plan No. 1 of 1980, based on review and hearings conducted by the Congress and on continued consultations, will help establish a more accountable central management structure for the Nuclear Regulatory Commission as it pursues its statutory objective of ensuring safety in the use of nuclear power.
 

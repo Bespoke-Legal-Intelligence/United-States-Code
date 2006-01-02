@@ -28,9 +28,5 @@ Former subsec. (c), included in the provisions designated as subsec. (a) by Pub.
 
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
-
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

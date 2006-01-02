@@ -20,7 +20,7 @@
 
 (e) A chief warrant officer may not be considered for promotion to the next higher grade under this chapter until the officer has completed two years of service on active duty in the grade in which the officer is serving.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1494; amended Pub. L. 102–484, div. A, title X, §1052(3), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–201, div. A, title V, §506(a), Sept. 23, 1996, 110 Stat. 2512.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1494; amended Pub. L. 102–484, div. A, title X, §1052(3), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L.104–201, div. A, title V, §506(a), Sept. 23, 1996, 110 Stat. 2512.)
 
 #### Amendments
 
@@ -33,8 +33,4 @@
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 573, 575, 576 of this title.
 

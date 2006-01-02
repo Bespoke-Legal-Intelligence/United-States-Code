@@ -26,7 +26,7 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 #### (c) “Reception areas” defined
 
-For purposes of this section, the term “reception areas” means the areas of the Harry S Truman Federal Building, located at 2201 C Street, Northwest, Washington, District of Columbia, known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State's offices (seventh floor), the Deputy Secretary of State's offices (seventh floor), and the seventh floor reception area.
+For purposes of this section, the term “reception areas” means the areas of the Harry S Truman Federal Building, located at 2201 C Street,Northwest, Washington, District of Columbia, known as the Diplomatic Reception Rooms (eighth floor), the Secretary of State's offices (seventh floor), the Deputy Secretary of State's offices (seventh floor), and the seventh floor reception area.
 
 (Aug. 1, 1956, ch. 841, title I, §41, as added Pub. L. 100–204, title I, §126(a)(2), Dec. 22, 1987, 101 Stat. 1341; amended Pub. L. 106–218, §2, June 20, 2000, 114 Stat. 345.)
 
@@ -36,7 +36,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Prior Provisions
 
-A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126(a)(1) of Pub. L. 100–204, andsubsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126(a)(1) of Pub. L. 100–204, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
 

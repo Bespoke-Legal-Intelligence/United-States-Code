@@ -304,7 +304,3 @@ Section 905(c) of Pub. L. 91–172, as amended by Pub. L. 91–675, Jan. 12, 197
 
 &emsp;“(E) at least 50 percent of the outstanding voting stock of the employer corporation is owned by the distributing corporation at any time within the nine-year period ending one year before the date of such distribution.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 351, 355, 361, 646, 852, 1248 of this title.
-

@@ -10,7 +10,11 @@ The Congress finds that—
 
 &emsp;(3) these insular areas are endowed with a variety of renewable sources of energy which, if developed, would alleviate their dependence on imported sources of energy, relieve the fiscal burden on local governments imposed by the costs of imported fuel, and strengthen the base for political, social, and economic development;
 
-&emsp;(4) appropriate technologies are presently available to develop the renewable energy resources of these insular areas but that comprehensive energy plans have not been adequately developed to meet the energy demands of these areas from renewable energy resources.
+&emsp;(4) appropriate technologies are presently available to develop the renewable energy resources of these insular areas but that comprehensive energy plans have not been adequately developed to meet the energy demands of these areas from renewable energy resources;
+
+&emsp;(5) electric power transmission and distribution lines in insular areas are inadequate to withstand damage caused by the hurricanes and typhoons which frequently occur in insular areas and such damage often costs millions of dollars to repair; and
+
+&emsp;(6) the refinement of renewable energy technologies since the publication of the 1982 Territorial Energy Assessment prepared pursuant to subsection (c) of this section reveals the need to reassess the state of energy production, consumption, infrastructure, reliance on imported energy, opportunities for energy conservation and increased energy efficiency, and indigenous sources in regard to the insular areas.
 
 #### (b) Congressional declaration of policy
 
@@ -36,11 +40,69 @@ The Secretary of Energy or any administrative official who may succeed him shall
 
 #### (d) Demonstration of cost effective renewable energy technologies
 
-The Secretary of Energy or any administrative official who may succeed him, with the approval of the Secretary of the Interior, as part of the comprehensive energy planning may demonstrate those indigenous renewable energy technologies which are determined to be most cost effective through the use of existing programs and may implement any projects or programs contained in recommendations of the plan.
+The Secretary of Energy or any administrative official who may succeed him, with the approval of the Secretary of the Interior, as part of the comprehensive energy planning may demonstrate those indigenous renewable energytechnologies which are determined to be most cost effective through the use of existing programs and may implement any projects or programs contained in recommendations of the plan.
 
-#### (e) Submission of comprehensive energy plan to Congress
+#### (e) Updating of plans; submission to Congress
 
-Within two years from December 24, 1980, the Secretary of Energy or any administrative official who may succeed him shall submit the comprehensive energy plan for each insular area to the Congress.
+(1) The Secretary of the Interior, in consultation with the Secretary of Energy and the head of government of each insular area, shall update the plans required under subsection (c) of this section by—
+
+&emsp;(A) updating the contents required by subsection (c) of this section;
+
+&emsp;(B) drafting long-term energy plans for such insular areas with the objective of reducing, to the extent feasible, their reliance on energy imports by the year 2012, increasing energy conservation and energy efficiency, and maximizing, to the extent feasible, use of indigenous energy sources; and
+
+&emsp;(C) drafting long-term energy transmission line plans for such insular areas with the objective that the maximum percentage feasible of electric power transmission and distribution lines in each insular area be protected from damage caused by hurricanes and typhoons.
+
+(2) In carrying out this subsection, the Secretary of Energy shall identify and evaluate the strategies or projects with the greatest potential for reducing the dependence on imported fossil fuels as used for the generation of electricity, including strategies and projects for—
+
+&emsp;(A) improved supply-side efficiency of centralized electrical generation, transmission, and distribution systems;
+
+&emsp;(B) improved demand-side management through—
+
+&emsp;&emsp;(i) the application of established standards for energy efficiency for appliances;
+
+&emsp;&emsp;(ii) the conduct of energy audits for business and industrial customers; and
+
+&emsp;&emsp;(iii) the use of energy savings performance contracts;
+
+&emsp;(C) increased use of renewable energy, including—
+
+&emsp;&emsp;(i) solar thermal energy for electric generation;
+
+&emsp;&emsp;(ii) solar thermal energy for water heating in large buildings, such as hotels, hospitals, government buildings, and residences;
+
+&emsp;&emsp;(iii) photovoltaic energy;
+
+&emsp;&emsp;(iv) wind energy;
+
+&emsp;&emsp;(v) hydroelectric energy;
+
+&emsp;&emsp;(vi) wave energy;
+
+&emsp;&emsp;(vii) energy from ocean thermal resources, including ocean thermal-cooling for community air conditioning;
+
+&emsp;&emsp;(viii) water vapor condensation for the production of potable water;
+
+&emsp;&emsp;(ix) fossil fuel and renewable hybrid electrical generation systems; and
+
+&emsp;&emsp;(x) other strategies or projects that the Secretary may identify as having significant potential; and
+
+&emsp;(D) fuel substitution and minimization with indigenous biofuels, such as coconut oil.
+
+(3) In carrying out this subsection, for each insular area with a significant need for distributed generation, the Secretary of Energy shall identify and evaluate the most promising strategies and projects described in subparagraphs (C) and (D) of paragraph (2) for meeting that need.
+
+(4) In assessing the potential of any strategy or project under paragraphs (2) and (3), the Secretary of Energy shall consider—
+
+&emsp;(A) the estimated cost of the power or energy to be produced, including—
+
+&emsp;&emsp;(i) any additional costs associated with the distribution of the generation; and
+
+&emsp;&emsp;(ii) the long-term availability of the generation source;
+
+&emsp;(B) the capacity of the local electrical utility to manage, operate, and maintain any project that may be undertaken; and
+
+&emsp;(C) other factors the Secretary of Energy considers to be appropriate.
+
+(5) Not later than 1 year after August 8, 2005, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Resources of the House of Representatives, and the Committee on Energy and Commerce of the House of Representatives, the updated plans for each insular area required by this subsection.
 
 #### (f) Authorization of appropriations
 
@@ -64,7 +126,51 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 &emsp;(E) any other factors which the Secretary may determine to be relevant to a particular project.
 
-(4) Notwithstanding the requirements of section 1469a(d) of this title, the Secretary shall require at least 20 percent of the costs of any project under this subsection to be provided from non-Federal sources. Such cost sharing may be in the form of in-kind services, donated equipment, or any combination thereof.
+(4)
+
+Power line grants for insular areas.—
+
+&emsp;(A)
+
+In general.—The Secretary of the Interior is authorized to make grants to governments of insular areas of the United States to carry out eligible projects to protect electric power transmission and distribution lines in such insular areas from damage caused by hurricanes and typhoons.
+
+&emsp;(B)
+
+Eligible projects.—The Secretary of the Interior may award grants under subparagraph (A) only to governments of insular areas of the United States that submit written project plans to the Secretary for projects that meet the following criteria:
+
+&emsp;&emsp;(i) The project is designed to protect electric power transmission and distribution lines located in 1 or more of the insular areas of the United States from damage caused by hurricanes and typhoons.
+
+&emsp;&emsp;(ii) The project is likely to substantially reduce the risk of future damage, hardship, loss, or suffering.
+
+&emsp;&emsp;(iii) The project addresses 1 or more problems that have been repetitive or that pose a significant risk to public health and safety.
+
+&emsp;&emsp;(iv) The project is not likely to cost more than the value of the reduction in direct damage and other negative impacts that the project is designed to prevent or mitigate. The cost benefit analysis required by this criterion shall be computed on a net present value basis.
+
+&emsp;&emsp;(v) The project design has taken into consideration long-term changes to the areas and persons it is designed to protect and has manageable future maintenance and modification requirements.
+
+&emsp;&emsp;(vi) The project plan includes an analysis of a range of options to address the problem it is designed to prevent or mitigate and a justification for the selection of the project in light of that analysis.
+
+&emsp;&emsp;(vii) The applicant has demonstrated to the Secretary that the matching funds required by subparagraph (D) are available.
+
+&emsp;(C)
+
+Priority.—When making grants under this paragraph, the Secretary of the Interior shall give priority to grants for projects which are likely to—
+
+&emsp;&emsp;(i) have the greatest impact on reducing future disaster losses; and
+
+&emsp;&emsp;(ii) best conform with plans that have been approved by the Federal Government or the government of the insular area where the project is to be carried out for development or hazard mitigation for that insular area.
+
+&emsp;(D)
+
+Matching requirement.—The Federal share of the cost for a project for which a grant is provided under this paragraph shall not exceed 75 percent of the total cost of that project. The non-Federal share of the cost may be provided in the form of cash or services.
+
+&emsp;(E)
+
+Treatment of funds for certain purposes.—Grants provided under this paragraph shall not be considered as income, a resource, or a duplicative program when determining eligibility or benefit levels for Federal major disaster and emergency assistance.
+
+&emsp;(F)
+
+Authorization of appropriations.—There are authorized to be appropriated to carry out this paragraph $6,000,000 for each fiscal year beginning after August 8, 2005.
 
 (5) For the purposes of this subsection—
 
@@ -72,9 +178,19 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 &emsp;(B) the term “1982 Territorial Energy Assessment” means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c) of this section.
 
-(Pub. L. 96–597, title VI, §604, Dec. 24, 1980, 94 Stat. 3480; Pub. L. 98–213, §7, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 102–486, title XXVII, §2701, Oct. 24, 1992, 106 Stat. 3118.)
+(Pub. L. 96–597, title VI, §604, Dec. 24, 1980, 94 Stat. 3480; Pub. L. 98–213, §7, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 102–486, title XXVII, §2701, Oct. 24, 1992, 106 Stat. 3118; Pub. L. 109–58, title II, §251, Aug. 8, 2005, 119 Stat. 679.)
+
+#### References in Text
+
+August 8, 2005, referred to in subsecs. (e)(5) and (g)(4)(F), was in the original “the date of enactment of this subsection” and “the date of enactment of this paragraph”, respectively, and was translated as meaning the date of enactment of Pub. L. 109–58 which amended subsecs. (e) and (g)(4) generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2005—Subsec. (a)(5), (6). Pub. L. 109–58, §251(1), (2), added pars. (5) and (6).
+
+Subsec. (e). Pub. L. 109–58, §251(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Within two years from December 24, 1980, the Secretary of Energy or any administrative official who may succeed him shall submit the comprehensive energy plan for each insular area to the Congress.”
+
+Subsec. (g)(4). Pub. L. 109–58, §251(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the requirements of section 1469a(d) of this title, the Secretary shall require at least 20 percent of the costs of any project under this subsection to be provided from non-Federal sources. Such cost sharing may be in the form of in-kind services, donated equipment, or any combination thereof.”
 
 1992—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 

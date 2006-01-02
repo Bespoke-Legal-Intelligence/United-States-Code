@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to section 288(a)(1)(C) of this title, the Secretary, acting through the Director ofNIH may, subject to paragraph (2), carry out a program of entering into contracts with appropriately qualified health professionals who are from disadvantaged backgrounds under which such health professionals agree to conduct clinical research in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of the health professionals.
+&emsp;Subject to section 288(a)(1)(C) of this title, the Secretary, acting through the Director of NIH may, subject to paragraph (2), carry out a program of entering into contracts with appropriately qualified health professionals who are from disadvantaged backgrounds under which such health professionals agree to conduct clinical research in consideration of the Federal Government agreeing to pay, for each year of such service, not more than $35,000 of the principal and interest of the educational loans of the health professionals.
 
 #### (2) Limitation
 
@@ -12,7 +12,7 @@
 
 #### (3) Applicability of certain provisions regarding obligated service
 
-&emsp;Except to the extent inconsistent with this section, the provisions of sections 254<i>l</i>–1, 254m and 254<i>o</i> of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254<i>l</i>–1 of this title.
+&emsp;Except to the extent inconsistent with this section, the provisions of sections 254<i>l</i>–1, 254mand 254<i>o</i> of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254<i>l</i>–1 of this title.
 
 #### (b) Availability of authorization of appropriations
 

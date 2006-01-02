@@ -16,7 +16,7 @@ For purposes of this subchapter, the term “taxable gross weight” when used w
 
 &emsp;(2) the weight of the maximum load customarily carried on highway motor vehicles of the same type as such highway motor vehicle and on the semitrailers and trailers referred to in paragraph (1)(B).
 
-> Taxable gross weight shall be determined under regulations prescribed by the Secretary (which regulations may include formulas or other methods for determining the taxable gross weight of vehicles by classes, specifications, or otherwise).
+> Taxable gross weight shall be determined under regulations prescribed by the Secretary (whichregulations may include formulas or other methods for determining the taxable gross weight of vehicles by classes, specifications, or otherwise).
 
 #### (c) Other definitions and special rule
 
@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (4) Taxable period
 
-&emsp;The term “taxable period” means any year beginning before July 1, 2005, and the period which begins on July 1, 2005, and ends at the close of September 30, 2005.
+&emsp;The term “taxable period” means any year beginning before July 1, 2011, and the period which begins on July 1, 2011, and ends at the close of September 30, 2011.
 
 #### (5) Customary use
 
@@ -44,11 +44,15 @@ For purposes of this subchapter—
 
 #### (d) Special rule for taxable period in which termination date occurs
 
-In the case of the taxable period which ends on September 30, 2005, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
+In the case of the taxable period which ends on September 30, 2011, the amount of the tax imposed by section 4481 with respect to any highway motor vehicle shall be determined by reducing each dollar amount in the table contained in section 4481(a) by 75 percent.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, §303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, §502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, §502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(b)(2)(C), June 29, 1961, 75 Stat. 125; Pub. L. 91–605, title III, §303(a)(9), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(9), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §§1904(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–599, title V, §502(a)(8), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(c), (e), 516(a)(4), Jan. 6, 1983, 96 Stat. 2179, 2182; Pub. L. 100–17, title V, §502(a)(5), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(a)(1)(H), (I), June 9, 1998, 112 Stat. 499; Pub. L. 109–14, §9(c)(2), (3), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(B), (C), Aug. 10, 2005, 119 Stat. 1944.)
 
 #### Amendments
+
+2005—Subsecs. (c)(4), (d). Pub. L. 109–59 substituted “2011” for “2006” wherever appearing.
+
+Pub. L. 109–14 substituted “2006” for “2005” wherever appearing.
 
 1998—Subsecs. (c)(4), (d). Pub. L. 105–178 substituted “2005” for “1999” wherever appearing.
 

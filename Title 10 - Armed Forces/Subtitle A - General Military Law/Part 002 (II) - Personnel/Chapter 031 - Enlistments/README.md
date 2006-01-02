@@ -12,7 +12,8 @@
 | [508\.](%C2%A7%2000508%20-%20Reenlistment%20qualifications.md) | Reenlistment: qualifications. |
 | [509\.](%C2%A7%2000509%20-%20Voluntary%20extension%20of%20enlistments%20periods%20and%20benefits.md) | Voluntary extension of enlistments: periods and benefits. |
 | [510\.](%C2%A7%2000510%20-%20Enlistment%20incentives%20for%20pursuit%20of%20skills%20to%20facilitate%20national%20service.md) | Enlistment incentives for pursuit of skills to facilitate national service. |
-| \[511, 512. Renumbered.\] |  |
+| [511\.](%C2%A7%2000511%20-%20College%20First%20Program.md) | College First Program. |
+| \[512. | Renumbered.\] |
 | [513\.](%C2%A7%2000513%20-%20Enlistments%20Delayed%20Entry%20Program.md) | Enlistments: Delayed Entry Program. |
 | [514\.](%C2%A7%2000514%20-%20Bounties%20prohibited%3B%20substitutes%20prohibited.md) | Bounties prohibited; substitutes prohibited. |
 | [515\.](%C2%A7%2000515%20-%20Reenlistment%20after%20discharge%20as%20warrant%20officer.md) | Reenlistment after discharge as warrant officer. |
@@ -28,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §551(a)(2), Oct. 28, 2004, 118 Stat. 1911, added item 511.
 
 2003—Pub. L. 108–136, div. A, title X, §1031(a)(8)(B), Nov. 24, 2003, 117 Stat. 1597, substituted “provision of meals and refreshments” for “use of funds” in item 520c.
 
@@ -57,6 +60,8 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 
 1958—Pub. L. 85–861, §1(9)(B), (C), Sept. 2, 1958, 72 Stat. 1440, struck out item 513 “Reserve components: promotions” and added item 516.
 
+<i><sup>1</sup></i><i> Chapter 81 amended by Pub. L. 106–65 by adding section 1580 without corresponding amendment of part analysis.</i>
+
 
 ---
 
@@ -72,7 +77,7 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 - [&sect; 00508 - Reenlistment qualifications](%C2%A7%2000508%20-%20Reenlistment%20qualifications.md)
 - [&sect; 00509 - Voluntary extension of enlistments periods and benefits](%C2%A7%2000509%20-%20Voluntary%20extension%20of%20enlistments%20periods%20and%20benefits.md)
 - [&sect; 00510 - Enlistment incentives for pursuit of skills to facilitate national service](%C2%A7%2000510%20-%20Enlistment%20incentives%20for%20pursuit%20of%20skills%20to%20facilitate%20national%20service.md)
-- [&sect; 00511 - Renumbered &sect;12103](%C2%A7%2000511%20-%20Renumbered%20%C2%A712103.md)
+- [&sect; 00511 - College First Program](%C2%A7%2000511%20-%20College%20First%20Program.md)
 - [&sect; 00512 - Renumbered &sect;12104](%C2%A7%2000512%20-%20Renumbered%20%C2%A712104.md)
 - [&sect; 00513 - Enlistments Delayed Entry Program](%C2%A7%2000513%20-%20Enlistments%20Delayed%20Entry%20Program.md)
 - [&sect; 00514 - Bounties prohibited; substitutes prohibited](%C2%A7%2000514%20-%20Bounties%20prohibited%3B%20substitutes%20prohibited.md)

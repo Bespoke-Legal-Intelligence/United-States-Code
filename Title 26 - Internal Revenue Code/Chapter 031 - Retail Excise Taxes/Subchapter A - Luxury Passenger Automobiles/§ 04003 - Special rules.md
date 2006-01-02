@@ -104,7 +104,3 @@ Section 1401(b) of Pub. L. 105–34 provided that: “The amendments made by sub
 
 Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under section 4001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4001, 4002 of this title.
-

@@ -42,7 +42,7 @@
 
 #### (3) Amount equal to or exceeds $250,000,000
 
-&emsp;If the amount appropriated under section 6553 of this title for a fiscal year equals or exceeds $250,000,000, then the Secretary shall use such amount to award a grant to each State educational agency in an amount that bears the same relation to such appropriated amount as the amount the State educationalagency received under part A of this subchapter for the preceding fiscal year bears to the amount received by all State educational agencies under such part for the preceding fiscal year, to enable the State educational agency to award subgrants under subsection (b) of this section.
+&emsp;If the amount appropriated under section 6553 of this title for a fiscal year equals or exceeds $250,000,000, then the Secretary shall use such amount to award a grant to each State educational agency in an amount that bears the same relation to such appropriated amount as the amount the State educational agency received under part A of this subchapter for the preceding fiscal year bears to the amount received by all State educational agencies under such part for the preceding fiscal year, to enable the State educational agency to award subgrants under subsection (b) of this section.
 
 #### (b) Subgrants to local educational agencies
 
@@ -90,7 +90,7 @@
 
 #### (3) Duration
 
-&emsp;A subgrant under this subpart shall be awarded for a period of 3 years, and may be continued for a period of 2 additional years if the State educational agency determines, based on the annual reports described in section 6561i(a) of this title, that significant progress has been made in lowering the annual school dropout rate for secondary schools participating in the program assisted under this subpart.
+&emsp;A subgrant under this subpart shall be awarded for a period of 3 years, and may be continued for a period of 2 additional years if the State educational agency determines, based on the annual reports described in section 6561i(a) of this title, that significantprogress has been made in lowering the annual school dropout rate for secondary schools participating in the program assisted under this subpart.
 
 (Pub. L. 89–10, title I, §1822, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1612.)
 

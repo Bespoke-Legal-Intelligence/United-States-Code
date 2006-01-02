@@ -90,9 +90,9 @@ For purposes of this section:
 
 &emsp;&emsp;(iii) The provider will, upon request, make such records available to the State and to the Secretary, subject to section 1396a(a)(7) of this title.
 
-&emsp;&emsp;(B)(i) Subject to clause (ii), the provider will comply with the schedule, regarding the appropriate periodicity, dosage, and contraindications applicable to pediatric vaccines, that is established and periodically reviewed and, as appropriate, revised by the advisory committee referred to in subsection (e) of this section, except in such cases as, in the provider's medical judgment subject to accepted medical practice, such compliance is medically inappropriate.
+&emsp;&emsp;(B)(i) Subject to clause (ii), the provider will comply with the schedule, regarding the appropriate periodicity, dosage, and contraindications applicable to pediatric vaccines, that is established and periodically reviewedand, as appropriate, revised by the advisory committee referred to in subsection (e) of this section, except in such cases as, in the provider's medical judgment subject to accepted medical practice, such compliance is medically inappropriate.
 
-&emsp;&emsp;(ii) The provider will provide pediatric vaccines in compliance with applicableState law, including any such law relating to any religious or other exemption.
+&emsp;&emsp;(ii) The provider will provide pediatric vaccines in compliance with applicable State law, including any such law relating to any religious or other exemption.
 
 &emsp;&emsp;(C)(i) In administering a qualified pediatric vaccine to a vaccine-eligible child, the provider will not impose a charge for the cost of the vaccine. A program-registered provider is not required under this section to administer such a vaccine to each child for whom an immunization with the vaccine is sought from the provider.
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) the Secretary shall provide, consistent with paragraph (6), for the purchase and delivery on behalf of States (and tribes and tribal organizations) of quantities of pediatric vaccines for federally vaccine-eligible children; and
 
-&emsp;&emsp;(B) each State, at the option of the State, shall be permitted to obtain additional quantities of pediatric vaccines (subject to amounts specified to the Secretary by the State in advance of negotiations) through purchasing the vaccines from the manufacturers at the applicable price negotiated by the Secretary consistent with paragraph (3), if (i) the State agrees that the vaccines will be used to provide immunizations only for children who are not federally vaccine-eligible children and (ii) the State provides to the Secretary such information (at a time and manner specified by the Secretary, including in advance of negotiations under paragraph (1)) as the Secretary determines to be necessary, to provide for quantities ofpediatric vaccines for the State to purchase pursuant to this subsection and to determine annually the percentage of the vaccine market that is purchased pursuant to this section and this subparagraph.
+&emsp;&emsp;(B) each State, at the option of the State, shall be permitted to obtain additional quantities of pediatric vaccines (subject to amounts specified to the Secretary by the State in advance of negotiations) through purchasing the vaccines from the manufacturers at the applicable price negotiated by the Secretary consistent with paragraph (3),if (i) the State agrees that the vaccines will be used to provide immunizations only for children who are not federally vaccine-eligible children and (ii) the State provides to the Secretary such information (at a time and manner specified by the Secretary, including in advance of negotiations under paragraph (1)) as the Secretary determines to be necessary, to provide for quantities of pediatric vaccines for the State to purchase pursuant to this subsection and to determine annually the percentage of the vaccine market that is purchased pursuant to this section and this subparagraph.
 
 > &emsp;The Secretary shall enter into the initial negotiations under the preceding sentence not later than 180 days after August 10, 1993.
 
@@ -196,7 +196,7 @@ For purposes of this section:
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(2)(B)(ii)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(2)(B)(ii)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which isclassified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (c)(3)(A), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 

@@ -12,6 +12,7 @@
 | [1585a.](%C2%A7%2001585a%20-%20Special%20agents%20of%20the%20Defense%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests. |
 | [1586\.](%C2%A7%2001586%20-%20Rotation%20of%20career-conditional%20and%20career%20employees%20assigned%20to%20duty%20outside%20the%20United%20States.md) | Rotation of career-conditional and career employees assigned to duty outside the United States. |
 | [1587\.](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20reprisals.md) | Employees of nonappropriated fund instrumentalities: reprisals. |
+| [1587a.](%C2%A7%2001587a%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20senior%20executive%20pay%20levels.md) | Employees of nonappropriated fund instrumentalities: senior executive pay levels. |
 | [1588\.](%C2%A7%2001588%20-%20Authority%20to%20accept%20certain%20voluntary%20services.md) | Authority to accept certain voluntary services. |
 | [1589\.](%C2%A7%2001589%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md) | Participation in management of specified non-Federal entities: authorized activities. |
 | \[1590. | Repealed.\] |
@@ -35,7 +36,13 @@
 
 #### Amendments
 
-2002—Pub. L. 107–314, div. A, title X, §1064(a)(2), title XI, §1104(a)(2), Dec. 2, 2002, 116 Stat. 2654, 2661, added items 1596b and 1599d.
+2004—Pub. L. 108–375, div. A, title XI, §1104(b), Oct. 28, 2004, 118 Stat. 2074, added item 1587a.
+
+Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, amended directory language of Pub. L. 107–314, §1064(a)(2), effective Dec. 2, 2002, as if included in Pub. L. 107–314 as enacted. See 2002 Amendment note below.
+
+2002—Pub. L. 107–314, div. A, title XI, §1104(a)(2), Dec. 2, 2002, 116 Stat. 2661, added item 1599d.
+
+Pub. L. 107–314, div. A, title X, §1064(a)(2), Dec. 2, 2002, 116 Stat. 2654, as amended by Pub. L. 108–375, div. A, title X, §1084(g), Oct. 28, 2004, 118 Stat. 2064, added item 1596b.
 
 2001—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
@@ -87,9 +94,49 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 1958—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
-#### Chapter Referred to in Other Sections
+#### Strategic Human Capital Plan for Civilian Employees of the Department of Defense
 
-This chapter is referred to in section 1552 of this title.
+Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, provided that:
+
+“(a)
+
+Plan Required.—(1) Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic plan to shape and improve the civilian employee workforce of the Department of Defense.
+
+“(2) The plan shall be known as the ‘strategic human capital plan’.
+
+“(b)
+
+Contents.—The strategic human capital plan required by subsection (a) shall include—
+
+&emsp;“(1) an assessment of—
+
+&emsp;&emsp;“(A) the critical skills and competencies that will be needed in the future civilian employee workforce of the Department of Defense to support national security requirements and effectively manage the Department over the next decade;
+
+&emsp;&emsp;“(B) the skills and competencies of the existing civilian employee workforce of the Department and projected trends in that workforce based on expected losses due to retirement and other attrition; and
+
+&emsp;&emsp;“(C) gaps in the existing or projected civilian employee workforce of the Department that should be addressed to ensure that the Department has continued access to the critical skills and competencies described in subparagraph (A); and
+
+&emsp;“(2) a plan of action for developing and reshaping the civilian employee workforce of the Department to address the gaps in critical skills and competencies identified under paragraph (1)(C), including—
+
+&emsp;&emsp;“(A) specific recruiting and retention goals, including the program objectives of the Department to be achieved through such goals; and
+
+&emsp;&emsp;“(B) specific strategies for development, training, deploying, compensating, and motivating the civilian employee workforce of the Department, including the program objectives of the Department to be achieved through such strategies.
+
+“(c)
+
+Annual Updates.—Not later than March 1 of each year from 2007 through 2010, the Secretary shall update the strategic human capital plan required by subsection (a), as previously updated under this subsection.
+
+“(d)
+
+Annual Reports.—Not later than March 1 of each year from 2007 through 2010, the Secretary shall submit to the appropriate committees of Congress—
+
+&emsp;“(1) the update of the strategic human capital plan prepared in such year under subsection (c); and
+
+&emsp;“(2) the assessment of the Secretary, using results-oriented performance measures, of the progress of the Department of Defense in implementing the strategic human capital plan.
+
+“(e)
+
+Comptroller General Review.—Not later than 90 days after the Secretary submits under subsection (a) the strategic human capital plan required by that subsection, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the plan.”
 
 
 ---
@@ -106,6 +153,7 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 01585a - Special agents of the Defense Criminal Investigative Service authority to execute warrants and make arrests](%C2%A7%2001585a%20-%20Special%20agents%20of%20the%20Defense%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md)
 - [&sect; 01586 - Rotation of career-conditional and career employees assigned to duty outside the United States](%C2%A7%2001586%20-%20Rotation%20of%20career-conditional%20and%20career%20employees%20assigned%20to%20duty%20outside%20the%20United%20States.md)
 - [&sect; 01587 - Employees of nonappropriated fund instrumentalities reprisals](%C2%A7%2001587%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20reprisals.md)
+- [&sect; 01587a - Employees of nonappropriated fund instrumentalities senior executive pay levels](%C2%A7%2001587a%20-%20Employees%20of%20nonappropriated%20fund%20instrumentalities%20senior%20executive%20pay%20levels.md)
 - [&sect; 01588 - Authority to accept certain voluntary services](%C2%A7%2001588%20-%20Authority%20to%20accept%20certain%20voluntary%20services.md)
 - [&sect; 01589 - Participation in management of specified non-Federal entities authorized activities](%C2%A7%2001589%20-%20Participation%20in%20management%20of%20specified%20non-Federal%20entities%20authorized%20activities.md)
 - [&sect; 01590 - Repealed. Pub. L. 104&#8211;201, div. A, title XVI, &sect;1633(a), Sept. 23, 1996, 110 Stat. 2751](%C2%A7%2001590%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71633%28a%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202751.md)

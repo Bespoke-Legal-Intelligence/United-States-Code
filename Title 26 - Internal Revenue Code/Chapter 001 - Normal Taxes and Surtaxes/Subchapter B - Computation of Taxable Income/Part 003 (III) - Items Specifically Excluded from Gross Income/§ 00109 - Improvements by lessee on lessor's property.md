@@ -4,7 +4,3 @@ Gross income does not include income (other than rent) derived by a lessor of re
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 33.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1019 of this title.
-

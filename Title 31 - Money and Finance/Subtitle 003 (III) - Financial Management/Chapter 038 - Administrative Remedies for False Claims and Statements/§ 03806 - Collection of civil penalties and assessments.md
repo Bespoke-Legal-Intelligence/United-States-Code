@@ -20,7 +20,7 @@
 
 (C) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with disability benefits under title II of the Social Security Act shall be deposited in the Federal Disability Insurance Trust Fund.
 
-(D) Any amount of a penalty or assessment imposed by the Secretary of Health and HumanServices under this chapter with respect to a claim or statement made in connection with benefits under part A of title XVIII of the Social Security Act shall be deposited in the Federal Hospital Insurance Trust Fund.
+(D) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part A of title XVIII of the Social Security Act shall be deposited in the Federal Hospital Insurance Trust Fund.
 
 (E) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with benefits under part B of title XVIII of the Social Security Act shall be deposited in the Federal Supplementary Medical Insurance Trust Fund.
 

@@ -34,7 +34,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Effective Date of 1958 Amendment
 
-Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
+Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency\[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
 
 #### Termination of Trust Territory of the Pacific Islands
 

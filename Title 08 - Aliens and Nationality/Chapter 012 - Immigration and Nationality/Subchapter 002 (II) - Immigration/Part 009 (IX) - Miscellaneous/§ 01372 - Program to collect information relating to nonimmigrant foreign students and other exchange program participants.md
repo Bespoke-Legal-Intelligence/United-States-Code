@@ -56,7 +56,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(E) the date of entry and port of entry;
 
-&emsp;&emsp;(F) the date of the alien's enrollment in an approved institution of higher education,other approved educational institution, or designated exchange visitor program in the United States;
+&emsp;&emsp;(F) the date of the alien's enrollment in an approved institution of higher education, other approved educational institution, or designated exchange visitor program in the United States;
 
 &emsp;&emsp;(G) the degree program, if applicable, and field of study; and
 

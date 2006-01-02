@@ -95,6 +95,10 @@
 | (g) | Oversight by the Commission. |
 | (h) | Resumption of Commission authority. |
 | (i) | Determination by the Commission. |
+| (j) | Fish and wildlife. |
+| [823d.](Subchapter%20001%20%28I%29%20-%20Regulation%20of%20the%20Development%20of%20Water%20Power%20and%20Resources/%C2%A7%2000823d%20-%20Alternative%20conditions%20and%20prescriptions.md) | Alternative conditions and prescriptions. |
+| (a) | Alternative conditions. |
+| (b) | Alternative prescriptions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -138,6 +142,8 @@
 | (j) | New dams and diversions. |
 | (k) | “New dam or diversion” defined. |
 | (<i>l</i>) | Definitions. |
+| (m) | Termination of mandatory purchase and sale requirements. |
+| (n) | Rulemaking for new qualifying facilities. |
 | 824a–4. | Seasonal diversity electricity exchange. |
 | (a) | Authority. |
 | (b) | Permit. |
@@ -145,7 +151,7 @@
 | (d) | Payments by permittees. |
 | (e) | Federal law governing Federal lands. |
 | [824b.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824b%20-%20Disposition%20of%20property%3B%20consolidations%3B%20purchase%20of%20securities.md) | Disposition of property; consolidations; purchase of securities. |
-| (a) | Authorizations. |
+| (a) | Authorization. |
 | (b) | Orders of Commission. |
 | [824c.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824c%20-%20Issuance%20of%20securities%3B%20assumption%20of%20liabilities.md) | Issuance of securities; assumption of liabilities. |
 | (a) | Authorization by Commission. |
@@ -168,6 +174,7 @@
 | (b) | Refund effective date; preferential proceedings; statement of reasons for delay; burden of proof; scope of refund order; refund orders in cases of dilatory behavior; interest. |
 | (c) | Refund considerations; shifting costs; reduction in revenues; “electric utility companies” and “registered holding company” defined. |
 | (d) | Investigation of costs. |
+| (e) | Short-term sales. |
 | [824f.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824f%20-%20Ordering%20furnishing%20of%20adequate%20service.md) | Ordering furnishing of adequate service. |
 | [824g.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824g%20-%20Ascertainment%20of%20cost%20of%20property%20and%20depreciation.md) | Ascertainment of cost of property and depreciation. |
 | (a) | Investigation of property costs. |
@@ -188,6 +195,17 @@
 | (c) | Replacement of electric energy. |
 | (d) | Termination or modification of order; notice, hearing and findings of Commission; contents of order; inclusion in order of terms and conditions agreed upon by parties. |
 | (e) | “Facilities” defined. |
+| 824j–1. | Open access by unregulated transmitting utilities. |
+| (a) | Definition of unregulated transmitting utility. |
+| (b) | Transmission operation services. |
+| (c) | Exemption. |
+| (d) | Local distribution facilities. |
+| (e) | Exemption termination. |
+| (f) | Application to unregulated transmitting utilities. |
+| (g) | Remand. |
+| (h) | Other requests. |
+| (i) | Limitation. |
+| (j) | Transfer of control of transmitting facilities. |
 | [824k.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824k%20-%20Orders%20requiring%20interconnection%20or%20wheeling.md) | Orders requiring interconnection or wheeling. |
 | (a) | Rates, charges, terms, and conditions for wholesale transmission services. |
 | (b) | Repealed. |
@@ -204,7 +222,67 @@
 | (a) | Requests for wholesale transmission services. |
 | (b) | Transmission capacity and constraints. |
 | [824m.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824m%20-%20Sales%20by%20exempt%20wholesale%20generators.md) | Sales by exempt wholesale generators. |
-| [824n.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824n%20-%20Authority%20relating%20to%20formation%20and%20operation%20of%20regional%20transmission%20organizations.md) | Authority relating to formation and operation of regional transmission organizations. |
+| [824n.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824n%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20XII%2C%20%C2%A71232%28e%29%283%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20957.md) | Repealed. |
+| 824<i>o.</i> | Electric reliability. |
+| (a) | Definitions. |
+| (b) | Jurisdiction and applicability. |
+| (c) | Certification. |
+| (d) | Reliability standards. |
+| (e) | Enforcement. |
+| (f) | Changes in Electric Reliability Organization rules. |
+| (g) | Reliability reports. |
+| (h) | Coordination with Canada and Mexico. |
+| (i) | Savings provisions. |
+| (j) | Regional advisory bodies. |
+| (k) | Alaska and Hawaii. |
+| [824p.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824p%20-%20Siting%20of%20interstate%20electric%20transmission%20facilities.md) | Siting of interstate electric transmission facilities. |
+| (a) | Designation of national interest electric transmission corridors. |
+| (b) | Construction permit. |
+| (c) | Permit applications. |
+| (d) | Comments. |
+| (e) | Rights-of-way. |
+| (f) | Compensation. |
+| (g) | State law. |
+| (h) | Coordination of Federal authorizations for transmission facilities. |
+| (i) | Interstate compacts. |
+| (j) | Relationship to other laws. |
+| (k) | ERCOT. |
+| [824q.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824q%20-%20Native%20load%20service%20obligation.md) | Native load service obligation. |
+| (a) | Definitions. |
+| (b) | Meeting service obligations. |
+| (c) | Allocation of transmission rights. |
+| (d) | Certain transmission rights. |
+| (e) | Obligation to build. |
+| (f) | Contracts. |
+| (g) | Water pumping facilities. |
+| (h) | ERCOT. |
+| (i) | Jurisdiction. |
+| (j) | TVA area. |
+| (k) | Effect of exercising rights. |
+| [824r.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824r%20-%20Protection%20of%20transmission%20contracts%20in%20the%20Pacific%20Northwest.md) | Protection of transmission contracts in the Pacific Northwest. |
+| (a) | Definition of electric utility or person. |
+| (b) | Protection of transmission contracts. |
+| [824s.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824s%20-%20Transmission%20infrastructure%20investment.md) | Transmission infrastructure investment. |
+| (a) | Rulemaking requirement. |
+| (b) | Contents. |
+| (c) | Incentives. |
+| (d) | Just and reasonable rates. |
+| [824t.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824t%20-%20Electricity%20market%20transparency%20rules.md) | Electricity market transparency rules. |
+| (a) | In general. |
+| (b) | Exemption of information from disclosure. |
+| (c) | Information sharing. |
+| (d) | Exemption from reporting requirements. |
+| (e) | Penalties for violations occurring before notice. |
+| (f) | ERCOT utilities. |
+| [824u.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824u%20-%20Prohibition%20on%20filing%20false%20information.md) | Prohibition on filing false information. |
+| [824v.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824v%20-%20Prohibition%20of%20energy%20market%20manipulation.md) | Prohibition of energy market manipulation. |
+| (a) | In general. |
+| (b) | No private right of action. |
+| [824w.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824w%20-%20Joint%20boards%20on%20economic%20dispatch.md) | Joint boards on economic dispatch. |
+| (a) | In general. |
+| (b) | Membership. |
+| (c) | Powers. |
+| (d) | Report to the Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -244,6 +322,7 @@
 | (a) | Enjoining and restraining violations. |
 | (b) | Writs of mandamus. |
 | (c) | Employment of attorneys. |
+| (d) | Prohibitions on violators. |
 | [825n.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825n%20-%20Forfeiture%20for%20violations%3B%20recovery%3B%20applicability.md) | Forfeiture for violations; recovery; applicability. |
 | (a) | Forfeiture. |
 | (b) | Recovery. |
@@ -251,12 +330,11 @@
 | 825<i>o.</i> | Penalties for violations; applicability of section. |
 | (a) | Statutory violations. |
 | (b) | Rules violations. |
-| (c) | Applicability. |
 | 825<i>o</i>–1. | Enforcement of certain provisions. |
 | (a) | Violations. |
 | (b) | Civil penalties. |
 | [825p.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825p%20-%20Jurisdiction%20of%20offenses%3B%20enforcement%20of%20liabilities%20and%20duties.md) | Jurisdiction of offenses; enforcement of liabilities and duties. |
-| [825q.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825q%20-%20Conflict%20of%20jurisdiction.md) | Conflict of jurisdiction. |
+| [825q.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825q%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20XII%2C%20%C2%A71277%28a%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20978.md) | Repealed. |
 | 825q–1. | Office of Public Participation. |
 | [825r.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825r%20-%20Separability.md) | Separability. |
 | [825s.](Subchapter%20003%20%28III%29%20-%20Licensees%20and%20Public%20Utilities%3B%20Procedural%20and%20Administrative%20Provisions/%C2%A7%2000825s%20-%20Sale%20of%20electric%20power%20from%20reservoir%20projects%3B%20rate%20schedules%3B%20preference%20in%20sale%3B%20construction%20of%20transmission%20lines%3B%20disposition%20of%E2%80%A6.md) | Sale of electric power from reservoir projects; rate schedules; preference in sale; construction of transmission lines; disposition of moneys. |

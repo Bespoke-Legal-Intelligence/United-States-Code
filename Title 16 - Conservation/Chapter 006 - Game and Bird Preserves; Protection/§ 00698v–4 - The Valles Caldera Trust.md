@@ -34,7 +34,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (B) Use of Federal employees
 
-&emsp;&emsp;At the request of the Trust, the employees of any Federal agency may be provided forimplementation of sections 698v to 698v–10 of this title. Such employees detailed to the Trust for more than 30 days shall be provided on a reimbursable basis.
+&emsp;&emsp;At the request of the Trust, the employees of any Federal agency may be provided for implementation of sections 698v to 698v–10 of this title. Such employees detailed to the Trust for more than 30 days shall be provided on a reimbursable basis.
 
 #### (e) Government Corporation
 
@@ -56,19 +56,27 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 &emsp;&emsp;The Secretary shall provide necessary assistance (including detailees as necessary) to the Trust for the timely formulation and submission of the annual budget request for appropriations, as authorized under section 698v–9(a) of this title, to support the administration, operation, and maintenance of the Preserve.
 
+#### (4) Obligations and expenditures
+
+&emsp;Subject to the laws applicable to Government corporations, the Trust shall determine—
+
+&emsp;&emsp;(A) the character of, and the necessity for, any obligations and expenditures of the Trust; and
+
+&emsp;&emsp;(B) the manner in which obligations and expenditures shall be incurred, allowed, and paid.
+
 #### (f) Taxes
 
-The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the State of New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
+The Trust and all properties administered by the Trust shall be exempt from all taxes and special assessments of every kind by the Stateof New Mexico, and its political subdivisions including the counties of Sandoval and Rio Arriba.
 
 #### (g) Donations
 
-The Trust may solicit and accept donations of funds, property, supplies, or services from individuals, foundations, corporations, and other private or public entities for the purposes of carrying out its duties. The Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, may accept donations from such entities notwithstanding that such donors may conduct business with the Department of Agriculture or any other department or agency of the United States.
+The members of the Board of Trustees, the executive director, and one additional employee of the Trust in an executive position designated by the Board of Trustees or the executive director may solicit and accept donations of funds, property, supplies, or services from individuals, foundations, corporations, and other private or public entities for the purposes of carrying out its duties. The Secretary, prior to assumption of management of the Preserve by the Trust, and the Trust thereafter, may accept donations from such entities notwithstanding that such donors may conduct business with the Department of Agriculture or any other department or agency of the United States.
 
 #### (h) Proceeds
 
 #### (1) In general
 
-&emsp;Notwithstanding sections 1341 and 3302 of title 31, all monies received from donations under subsection (g) of this section or from the management of the Preserve shall be retained and shall be available, without further appropriation, for the administration, preservation, restoration, operation and maintenance, improvement, repair, and related expenses incurred with respect to properties under its management jurisdiction.
+&emsp;Notwithstanding sections 1341 and 3302 of title 31, all monies received from donations under subsection (g) of this section, from claims, judgments, or settlements arising from activities occurring on the Baca Ranch or the Preserve after October 27, 1999, or from the management of the Preserve shall be retained and shall be available, without further appropriation, for the administration, preservation, restoration, operation and maintenance, improvement, repair, and related expenses incurred with respect to properties under its management jurisdiction.
 
 #### (2) Fund
 
@@ -98,11 +106,19 @@ The Trust shall require that all holders of leases from, or parties in contract 
 
 #### (m) Name and insignia
 
-The Trust shall have the sole and exclusive right to use the words “Valles Caldera Trust”, and any seal, emblem, or other insignia adopted by the Board of Trustees. Without express written authority of the Trust, no person may use the words “Valles Caldera Trust” as the name under which that person shall do or purport to do business, for the purpose of trade, or by wayof advertisement, or in any manner that may falsely suggest any connection with the Trust.
+The Trust shall have the sole and exclusive right to use the words “Valles Caldera Trust”, and any seal, emblem, or other insignia adopted by the Board of Trustees. Without express written authority of the Trust, no person may use the words “Valles Caldera Trust” as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust.
 
-(Pub. L. 106–248, title I, §106, July 25, 2000, 114 Stat. 603.)
+(Pub. L. 106–248, title I, §106, July 25, 2000, 114 Stat. 603; Pub. L. 109–132, §2(b)–(d), Dec. 20, 2005, 119 Stat. 2570, 2571.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2005—Subsec. (e)(4). Pub. L. 109–132, §2(b), added par. (4).
+
+Subsec. (g). Pub. L. 109–132, §2(c), substituted “The members of the Board of Trustees, the executive director, and one additional employee of the Trust in an executive position designated by the Board of Trustees or the executive director may solicit” for “The Trust may solicit”.
+
+Subsec. (h)(1). Pub. L. 109–132, §2(d), substituted “subsection (g) of this section, from claims, judgments, or settlements arising from activities occurring on the Baca Ranch or the Preserve after October 27, 1999,” for “subsection (g) of this section”.
 

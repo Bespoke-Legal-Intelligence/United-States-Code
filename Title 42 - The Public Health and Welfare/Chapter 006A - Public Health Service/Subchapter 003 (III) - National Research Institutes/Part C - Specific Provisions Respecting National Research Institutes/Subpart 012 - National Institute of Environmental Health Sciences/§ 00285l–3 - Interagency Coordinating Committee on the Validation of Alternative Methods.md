@@ -86,7 +86,7 @@ The ICCVAM shall, consistent with the purposes described in subsection (b) of th
 
 &emsp;(1) Review and evaluate new or revised or alternative test methods, including batteries of tests and test screens, that may be acceptable for specific regulatory uses, including the coordination of technical reviews of proposed new or revised or alternative test methods of interagency interest.
 
-&emsp;(2) Facilitate appropriate interagency and international harmonization of acute orchronic toxicological test protocols that encourage the reduction, refinement, or replacement of animal test methods.
+&emsp;(2) Facilitate appropriate interagency and international harmonization of acute or chronic toxicological test protocols that encourage the reduction, refinement, or replacement of animal test methods.
 
 &emsp;(3) Facilitate and provide guidance on the development of validation criteria, validation studies and processes for new or revised or alternative test methods and help facilitate the acceptance of such scientifically valid test methods and awareness of accepted test methods by Federal agencies and other stakeholders.
 

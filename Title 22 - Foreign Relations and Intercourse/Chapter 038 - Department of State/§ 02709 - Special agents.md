@@ -76,7 +76,7 @@ Subsec. (a)(5). Pub. L. 107–228, §202(a)(3), amended par. (5) generally. Prio
 
 &emsp;“(B) in the case of a felony or misdemeanor violation, if the violation is committed in the presence of the special agent.”
 
-Subsec. (b). Pub. L. 107–228, §202(b), substituted “Agreements with Attorney General and Secretary ofthe Treasury and firearms regulations” for “Agreement with Attorney General and firearms regulations” in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
+Subsec. (b). Pub. L. 107–228, §202(b), substituted “Agreements with Attorney General and Secretary of the Treasury and firearms regulations” for “Agreement with Attorney General and firearms regulations” in heading, added pars. (1) and (2), struck out former par. (1), which related to agreement with the Attorney General, and redesignated former par. (2) as (3).
 
 2000—Subsec. (a)(3)(E), (F). Pub. L. 106–553, as renumbered by Pub. L. 106–554, added subpars. (E) and (F).
 

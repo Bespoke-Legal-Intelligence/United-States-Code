@@ -122,7 +122,7 @@
 
 &emsp;(B) The second highest priority for allocation shall be for commercial fisheries that have incidental mortality and serious injury of marine mammals from strategic stocks.
 
-&emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level ofincidental mortality and serious injury is uncertain.
+&emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level of incidental mortality and serious injury is uncertain.
 
 (5) The Secretary may establish an alternative observer program to provide statistically reliable information on the species and number of marine mammals incidentally taken in the course of commercial fishing operations. The alternative observer program may include direct observation of fishing activities from vessels, airplanes, or points on shore.
 
@@ -162,7 +162,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (f) Take reduction plans
 
-(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
+(1) The Secretary shall develop and implement a take reduction plan designed to assist in the recovery or prevent the depletion of each strategic stock which interacts with a commercial fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, and may develop and implement such a plan for any other marine mammal stocks which interact with a commercial fisherylisted under subsection (c)(1)(A)(i) of this section which the Secretary determines, after notice and opportunity for public comment, has a high level of mortality and serious injury across a number of such marine mammal stocks.
 
 (2) The immediate goal of a take reduction plan for a strategic stock shall be to reduce, within 6 months of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to levels less than the potential biological removal level established for that stock under section 1386 of this title. The long-term goal of the plan shall be to reduce, within 5 years of its implementation, the incidental mortality or serious injury of marine mammals incidentally taken in the course of commercial fishing operations to insignificant levels approaching a zero mortality and serious injury rate, taking into account the economics of the fishery, the availability of existing technology, and existing State or regional fishery management plans.
 
@@ -178,7 +178,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) recommended dates for achieving the specific objectives of the plan.
 
-(5)(A) For any stock in which incidental mortality and serious injury from commercial fisheries exceeds the potential biological removallevel established under section 1386 of this title, the plan shall include measures the Secretary expects will reduce, within 6 months of the plan's implementation, such mortality and serious injury to a level below the potential biological removal level.
+(5)(A) For any stock in which incidental mortality and serious injury from commercial fisheries exceeds the potential biological removal level established under section 1386 of this title, the plan shall include measures the Secretary expects will reduce, within 6 months of the plan's implementation, such mortality and serious injury to a level below the potential biological removal level.
 
 (B) For any stock in which human-caused mortality and serious injury exceeds the potential biological removal level, other than a stock to which subparagraph (A) applies, the plan shall include measures the Secretary expects will reduce, to the maximum extent practicable within 6 months of the plan's implementation, the incidental mortality and serious injury by such commercial fisheries from that stock. For purposes of this subparagraph, the term “maximum extent practicable” means to the lowest level that is feasible for such fisheries within the 6-month period.
 
@@ -198,7 +198,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
 
-&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary, consistent with the other provisions of this section.
+&emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary,consistent with the other provisions of this section.
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
@@ -214,7 +214,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
-(8) Where the human-caused mortality and serious injury from a strategic stock is estimatedto be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
+(8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) of this section for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
 &emsp;(A)(i) Not later than 11 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for the stock to the Secretary, consistent with the other provisions of this section.
 
@@ -252,7 +252,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (E) Subparagraph (D) shall not apply for any period beyond two years during which a final stock assessment for such stock has not been published due to review of a proceeding on such stock assessment by a Federal court. Immediately upon final action by such court, the Secretary shall proceed under subparagraph (C).
 
-(11) Take reduction plans developed under this section for a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) shall be consistent with any recovery plandeveloped for such species or stock under section 4 of such Act \[16 U.S.C. 1533\].
+(11) Take reduction plans developed under this section for a species or stock listed as a threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) shall be consistent with any recovery plan developed for such species or stock under section 4 of such Act \[16 U.S.C. 1533\].
 
 #### (g) Emergency regulations
 
@@ -292,7 +292,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 #### (h) Penalties
 
-Except as provided in subsection (c) of this section, any person who violates this section shall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
+Except as provided in subsection (c) of this section, any person who violates this sectionshall be subject to the provisions of sections 1375 and 1377 of this title, and may be subject to section 1376 of this title as the Secretary shall establish by regulations.
 
 #### (i) Assistance
 

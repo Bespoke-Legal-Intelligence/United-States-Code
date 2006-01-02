@@ -128,7 +128,7 @@ Subsec. (f). Pub. L. 90–623, §3(1), substituted “Secretary of Transportatio
 
 1965—Subsec. (c). Pub. L. 89–26, §1(6)(A), empowered the Secretary concerned or his designee to waive any right of recovery of not more than one month's basic pay advanced if he finds that recovery of the advance would be against equity and good conscience or against the public interest.
 
-Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the last day of the pay period falls on a Saturday, Sunday, or legal holiday.
+Subsec. (g). Pub. L. 89–193 added subsec. (g) relating to the payment of pay and allowances when the lastday of the pay period falls on a Saturday, Sunday, or legal holiday.
 
 Pub. L. 89–26, §1(6)(B), added subsec. (g) relating to advance payment of the dislocation allowance.
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 89–26 effective Feb. 1, 1965, see section 2 of Pub. L. 89
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Fiscal Year of Recordation of Obligations
 

@@ -45,7 +45,7 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 
 1992—Pub. L. 102–484, div. A, title III, §304(c)(2), div. D, title XLIII, §4304(b), Oct. 23, 1992, 106 Stat. 2362, 2700, added items 2551 and 2552.
 
-1991—Pub. L. 102–190, div. A, title VIII, §821(e)(1), (2), Dec. 5, 1991, 105 Stat. 1431, substituted “152” for “150” as chapter number, “ISSUE OF SUPPLIES, SERVICES, AND FACILITIES” for “ISSUE TO ARMED FORCES” as chapter heading, added subchapter analysis and subchapter I heading, renumbered item 2521 as 2540, and substituted subchapter II heading for formerchapter 151 heading “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO ARMED FORCES”.
+1991—Pub. L. 102–190, div. A, title VIII, §821(e)(1), (2), Dec. 5, 1991, 105 Stat. 1431, substituted “152” for “150” as chapter number, “ISSUE OF SUPPLIES, SERVICES, AND FACILITIES” for “ISSUE TO ARMED FORCES” as chapter heading, added subchapter analysis and subchapter I heading, renumbered item 2521 as 2540, and substituted subchapter II heading for former chapter 151 heading “ISSUE OF SERVICEABLE MATERIAL OTHER THAN TO ARMED FORCES”.
 
 1990—Pub. L. 101–510, div. A, title VIII, §823(a)(1), (b)(2), title XIV, §1481(f)(2), (g)(2), Nov. 5, 1990, 104 Stat. 1600, 1602, 1707, substituted “150” for “149” as chapter number, renumbered item 2511 as 2521, and added items 2549 and 2550.
 

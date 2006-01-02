@@ -1,10 +1,10 @@
 ### §651. Members: required service
 
-(a) Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)) shall serve in the armed forces for a total initial period of not less than six yearsnor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
+(a) Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. App. 456(d)(1)) shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 
 (b) Each person covered by subsection (a) who is not a Reserve, and who is qualified, shall, upon his release from active duty, be transferred to a reserve component of his armed force to complete the service required by subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes<br>1956
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 96–107 applicable to individuals who become members of an
 #### Effective Date of 1977 Amendment
 
 Section 803(b) of Pub. L. 95–79 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted \[July 1977\] and shall apply to any female person who becomes a member of an Armed Force on or after such day.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1174, 4348, 6959, 9348, 12104, 12208, 12645 of this title; title 14 section 182; title 37 section 308e; title 50 App. section 456.
 

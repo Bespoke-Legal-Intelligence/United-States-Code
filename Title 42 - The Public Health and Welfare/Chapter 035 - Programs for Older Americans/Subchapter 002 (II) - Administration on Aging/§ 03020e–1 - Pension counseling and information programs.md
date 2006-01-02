@@ -44,7 +44,7 @@ The Assistant Secretary shall establish a citizen advisory panel to advise the A
 
 #### (e) Application
 
-To be eligible to receive a grant under this section, an entity shall submit an application to the Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
+To be eligible to receive a grant under this section, an entity shall submit an application tothe Assistant Secretary at such time, in such manner, and containing such information as the Assistant Secretary may require, including—
 
 &emsp;(1) a plan to establish a pension counseling and information program that—
 

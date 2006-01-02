@@ -30,9 +30,15 @@ Consideration for Use.—(1) To the extent provided in a contract entered into u
 
 &emsp;(C) Reductions in product cost.
 
+&emsp;(D) The demilitarization and storage of conventional ammunition.
+
 (3) The authority under paragraph (1) may be exercised without regard to section 3302(b) of title 31 and any other provision of law.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–69.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–69; amended Pub. L. 109–163, div. A, title III, §323(b), Jan. 6, 2006, 119 Stat. 3194.)
+
+#### Amendments
+
+2006—Subsec. (b)(2)(D). Pub. L. 109–163 added subpar. (D).
 
 #### Implementation Report
 

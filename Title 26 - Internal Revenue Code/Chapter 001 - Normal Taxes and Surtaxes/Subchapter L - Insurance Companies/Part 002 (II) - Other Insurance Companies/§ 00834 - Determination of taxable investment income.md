@@ -12,7 +12,7 @@ For purposes of subsection (a), the term “gross investment income” means the
 
 &emsp;&emsp;(A) interest, dividends, rents, and royalties,
 
-&emsp;&emsp;(B) the entering into of any lease, mortgage, or other instrument or agreementfrom which the insurance company derives interest, rents, or royalties,
+&emsp;&emsp;(B) the entering into of any lease, mortgage, or other instrument or agreement from which the insurance company derives interest, rents, or royalties,
 
 &emsp;&emsp;(C) the alteration or termination of any instrument or agreement described in subparagraph (B), and
 
@@ -112,7 +112,7 @@ Subsec. (a). Pub. L. 99–514, §1024(c)(7), amended subsec. (a) generally. Prio
 
 &emsp;“(2) The term ‘investment loss’ means the amount by which the deductions provided in subsection (c) exceed the gross investment income.”
 
-Subsec. (d). Pub. L. 99–514, §1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), and inserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
+Subsec. (d). Pub. L. 99–514, §1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), andinserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
 
 1976—Subsec. (c)(2). Pub. L. 94–455, §1901(b)(1)(P), struck out “partially tax-exempt interest and” before “dividends received allowed by”.
 
@@ -165,8 +165,4 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years beginning
 #### Effective Date of 1956 Amendment
 
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note set out under section 316 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 832, 842 of this title.
 

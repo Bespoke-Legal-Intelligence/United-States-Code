@@ -140,15 +140,11 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 &emsp;&emsp;(B) except as provided in subsection (d)(2)(B), any existing indebtedness.
 
-#### (6) Treatment of sports franchises
-
-&emsp;A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.
-
-#### (7) Mortgage servicing
+#### (6) Mortgage servicing
 
 &emsp;Any right to service indebtedness which is secured by residential real property unless such right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
 
-#### (8) Certain transaction costs
+#### (7) Certain transaction costs
 
 &emsp;Any fees for professional services, and any transaction costs, incurred by parties to a transaction with respect to which any portion of the gain or loss is not recognized under part III of subchapter C.
 
@@ -198,7 +194,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (B) Treatment of renewals
 
-&emsp;&emsp;Any renewal of a franchise, trademark, or trade name (or of a license, a permit, or other right referred to in subsection (d)(1)(D)) shall be treated as an acquisition. The preceding sentence shall only apply with respect to costs incurred in connection with such renewal.
+&emsp;&emsp;Any renewal of a franchise, trademark, or trade name (or of a license, a permit, orother right referred to in subsection (d)(1)(D)) shall be treated as an acquisition. The preceding sentence shall only apply with respect to costs incurred in connection with such renewal.
 
 #### (C) Certain amounts not taken into account
 
@@ -220,7 +216,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (7) Treatment as depreciable
 
-&emsp;For purposes of this chapter, any amortizable section 197 intangible shall be treated as property which is of a character subject to theallowance for depreciation provided in section 167.
+&emsp;For purposes of this chapter, any amortizable section 197 intangible shall be treated as property which is of a character subject to the allowance for depreciation provided in section 167.
 
 #### (8) Treatment of certain increments in value
 
@@ -286,15 +282,39 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 &emsp;&emsp;The term “amortizable section 197 intangible” does not include any section 197 intangible acquired in a transaction, one of the principal purposes of which is to avoid the requirement of subsection (c)(1) that the intangible be acquired after the date of the enactment of this section or to avoid the provisions of subparagraph (A).
 
+#### (10) Tax-exempt use property subject to lease
+
+&emsp;In the case of any section 197 intangible which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such intangible, the amortization period under this section shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+
 #### (g) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including such regulations as may be appropriate to prevent avoidance of the purposes of this section through related persons or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13261(a), Aug. 10, 1993, 107 Stat. 532.)
+(Added Pub. L. 103–66, title XIII, §13261(a), Aug. 10, 1993, 107 Stat. 532; amended Pub. L. 108–357, title VIII, §§847(b)(3), 886(a), Oct. 22, 2004, 118 Stat. 1602, 1641.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (c)(1)(A) and (f)(9)(A), (F), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
+
+#### Amendments
+
+2004—Subsec. (e)(6) to (8). Pub. L. 108–357, §886(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows: “A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.”
+
+Subsec. (f)(10). Pub. L. 108–357, §847(b)(3), added par. (10).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 847(b)(3) of Pub. L. 108–357 applicable to leases entered into after Oct. 3, 2004, see section 849(b)(4) of Pub. L. 108–357, set out as an Effective Date note under section 470 of this title.
+
+Pub. L. 108–357, title VIII, §886(c), Oct. 22, 2004, 118 Stat. 1641, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1245 and 1253 of this title and repealing section 1056 of this title\] shall apply to property acquired after the date of the enactment of this Act \[Oct. 22, 2004\].
+
+“(2)
+
+Section 1245.—The amendment made by subsection (b)(2) \[amending section 1245 of this title\] shall apply to franchises acquired after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date
 
@@ -347,8 +367,4 @@ Election.—An election under this paragraph shall be made at such time and in s
 &emsp;&emsp;“(i) may be revoked only with the consent of the Secretary, and
 
 &emsp;&emsp;“(ii) shall apply to all property acquired pursuant to the contract with respect to which such election was made.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167, 170, 179, 642, 848, 1060 of this title.
 

@@ -42,7 +42,7 @@ Subsec. (c)(11). Pub. L. 102–83, §5(c)(1), substituted “1712A” for “612
 
 1989—Subsec. (c)(2), (10). Pub. L. 101–237 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1988—Pub. L. 100–323, §15(c)(3)(A), substituted “Directors and Assistant Directors” for “State and AssistantState Directors” and inserted “and Training” after “for Veterans’ Employment” in section catchline.
+1988—Pub. L. 100–323, §15(c)(3)(A), substituted “Directors and Assistant Directors” for “State and Assistant State Directors” and inserted “and Training” after “for Veterans’ Employment” in section catchline.
 
 Subsec. (a). Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “The Secretary” at beginning.
 

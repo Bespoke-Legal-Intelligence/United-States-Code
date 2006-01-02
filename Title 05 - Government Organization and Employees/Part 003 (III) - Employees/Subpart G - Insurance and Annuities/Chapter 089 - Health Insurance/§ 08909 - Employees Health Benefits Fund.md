@@ -26,7 +26,7 @@
 
 (3) The Office shall prescribe regulations in accordance with which this subsection shall be applied in the case of any plan which is discontinued before being credited with the full amount to which it would otherwise be entitled based on the discontinuation of any other plan.
 
-(f)(1) No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, orthe Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
+(f)(1) No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
 
 (2) Paragraph (1) shall not be construed to exempt any carrier or underwriting or plan administration subcontractor of an approved health benefits plan from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such carrier or underwriting or plan administration subcontractor from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 

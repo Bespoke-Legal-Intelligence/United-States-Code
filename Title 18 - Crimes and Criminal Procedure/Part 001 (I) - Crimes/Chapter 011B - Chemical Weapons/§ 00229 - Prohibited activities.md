@@ -14,7 +14,7 @@ Exempted Agencies and Persons.—
 
 &emsp;(1)
 
-In general.—Subsection (a) does not apply to the retention, ownership, possession, transfer, or receipt of a chemical weapon by a department, agency, or other entity of the United States, or by a person described in paragraph (2), pending destruction of the weapon.
+In general.—Subsection (a) does not apply to the retention, ownership, possession, transfer, or receipt of a chemical weapon by a department, agency, or other entity of theUnited States, or by a person described in paragraph (2), pending destruction of the weapon.
 
 &emsp;(2)
 

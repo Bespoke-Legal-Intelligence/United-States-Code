@@ -14,13 +14,17 @@
 
 (c) The Attorney General may appoint officials to perform the functions authorized by this section.
 
-(d) For purposes of this section, the term “other institutions” includes—
+(d)
+
+Indian Law Enforcement Agencies.—The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.
+
+(e) <sup>1</sup> For purposes of this section, the term “other institutions” includes—
 
 &emsp;(1) railroad police departments which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers; and
 
 &emsp;(2) police departments of private colleges or universities which perform the administration of criminal justice and have arrest powers pursuant to a State statute, which allocate a substantial part of their annual budget to the administration of criminal justice, and which meet training requirements established by law or ordinance for law enforcement officers.
 
-(e)(1) Information from national crime information databases consisting of identification records, criminal history records, protection orders, and wanted person records may be disseminated to civil or criminal courts for use in domestic violence or stalking cases. Nothing in this subsection shall be construed to permit access to such records for any other purpose.
+(e) <sup>1</sup> (1) Information from national crime information databases consisting of identification records, criminal history records, protection orders, and wanted person records may be disseminated to civil or criminal courts for use in domestic violence or stalking cases. Nothing in this subsection shall be construed to permit access to such records for any other purpose.
 
 (2) Federal and State criminal justice agencies authorized to enter information into criminal information databases may include—
 
@@ -32,9 +36,13 @@
 
 &emsp;(A) the term “national crime information databases” means the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
 
-&emsp;(B) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
+&emsp;(B) the term “protection order” includes—
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816.)
+&emsp;&emsp;(i) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence or contact or communication with or physical proximity to, another person, including any temporary or final orders issued by civil or criminal courts whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+
+&emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
+
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079.)
 
 Historical and Revision Notes
 
@@ -62,6 +70,12 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 #### Amendments
 
+2006—Subsec. (d). Pub. L. 109–162, §905(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 109–162, §905(a)(1), redesignated subsec. (d), relating to the term “other institutions”, as (e).
+
+Subsec. (e)(3)(B). Pub. L. 109–162, §118, added subpar. (B) and struck out former subpar. (B) which read as follows: “the term ‘protection order’ includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+
 2002—Subsec. (a)(3). Pub. L. 107–273, §§204(c) and 4003(b)(4), amended par. (3) identically, inserting “and” at end.
 
 Subsec. (a)(4). Pub. L. 107–273, §11004, added par. (4) and struck out former par. (4) which read as follows: “exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.”
@@ -75,6 +89,74 @@ Subsec. (a)(4). Pub. L. 107–273, §11004, added par. (4) and struck out former
 Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
 Subsec. (b). Pub. L. 97–292, §2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
+
+#### Tribal Registry
+
+Pub. L. 109–162, title IX, §905(b), Jan. 5, 2006, 119 Stat. 3080, provided that:
+
+“(1)
+
+Establishment.—The Attorney General shall contract with any interested Indian tribe, tribal organization, or tribal nonprofit organization to develop and maintain—
+
+&emsp;“(A) a national tribal sex offender registry; and
+
+&emsp;“(B) a tribal protection order registry containing civil and criminal orders of protection issued by Indian tribes and participating jurisdictions.
+
+“(2)
+
+Authorization of appropriations.—There is authorized to be appropriated to carry out this section \[amending this section\] $1,000,000 for each of fiscal years 2007 through 2011, to remain available until expended.”
+
+#### National Gang Intelligence Center
+
+Pub. L. 109–162, title XI, §1107, Jan. 5, 2006, 119 Stat. 3093, provided that:
+
+“(a)
+
+Establishment.—The Attorney General shall establish a National Gang Intelligence Center and gang information database to be housed at and administered by the Federal Bureau of Investigation to collect, analyze, and disseminate gang activity information from—
+
+&emsp;“(1) the Federal Bureau of Investigation;
+
+&emsp;“(2) the Bureau of Alcohol, Tobacco, Firearms, and Explosives;
+
+&emsp;“(3) the Drug Enforcement Administration;
+
+&emsp;“(4) the Bureau of Prisons;
+
+&emsp;“(5) the United States Marshals Service;
+
+&emsp;“(6) the Directorate of Border and Transportation Security of the Department of Homeland Security;
+
+&emsp;“(7) the Department of Housing and Urban Development;
+
+&emsp;“(8) State and local law enforcement;
+
+&emsp;“(9) Federal, State, and local prosecutors;
+
+&emsp;“(10) Federal, State, and local probation and parole offices;
+
+&emsp;“(11) Federal, State, and local prisons and jails; and
+
+&emsp;“(12) any other entity as appropriate.
+
+“(b)
+
+Information.—The Center established under subsection (a) shall make available the information referred to in subsection (a) to—
+
+&emsp;“(1) Federal, State, and local law enforcement agencies;
+
+&emsp;“(2) Federal, State, and local corrections agencies and penal institutions;
+
+&emsp;“(3) Federal, State, and local prosecutorial agencies; and
+
+&emsp;“(4) any other entity as appropriate.
+
+“(c)
+
+Annual Report.—The Center established under subsection (a) shall annually submit to Congress a report on gang activity.
+
+“(d)
+
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2006 and for each fiscal year thereafter.”
 
 #### Reviews of Criminal Records of Applicants for Private Security Officer Employment
 
@@ -276,7 +358,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 #### Compilation of Statistics Relating to Intimidation of Government Employees
 
-Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
+Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, andlocal government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
 
 #### Rulemaking Relating to Access to Federal Criminal Information Databases
 
@@ -382,7 +464,7 @@ Distribution of data.—The Attorney General shall distribute data received purs
 
 “(d)
 
-Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section andmay appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
+Role of Federal Bureau of Investigation.—The Attorney General may designate the Federal Bureau of Investigation as the lead agency for purposes of performing the functions authorized by this section and may appoint or establish such advisory and oversight boards as may be necessary to assist the Bureau in ensuring uniformity, quality, and maximum use of the data collected.
 
 “(e)
 
@@ -441,4 +523,6 @@ Definition.—As used in this section, the term ‘State’ means a State of the
 #### Funds for Exchange of Identification Records
 
 Pub. L. 92–544, title II, §201, Oct. 25, 1972, 86 Stat. 1115, provided that: “The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.”
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

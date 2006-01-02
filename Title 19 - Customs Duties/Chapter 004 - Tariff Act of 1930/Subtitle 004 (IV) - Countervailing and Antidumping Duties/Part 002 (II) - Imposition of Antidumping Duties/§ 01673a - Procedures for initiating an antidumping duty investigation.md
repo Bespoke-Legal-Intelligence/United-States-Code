@@ -106,7 +106,7 @@
 
 #### (ii) Producers who are importers
 
-&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producersof a domestic like product who are importers of the subject merchandise.
+&emsp;&emsp;&emsp;The administering authority may disregard the position of domestic producers of a domestic like product who are importers of the subject merchandise.
 
 #### (C) Special rule for regional industries
 
@@ -122,7 +122,7 @@
 
 #### (E) Comments by interested parties
 
-&emsp;&emsp;Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
+&emsp;&emsp;Before the administering authority makes a determination with respect to initiatingan investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
 #### (5) “Domestic producers or workers” defined
 
@@ -176,7 +176,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(2), amended heading and text of subsec.
 
 Subsec. (e). Pub. L. 103–465, §233(a)(5)(R), in concluding provisions, substituted “subject merchandise” for “class or kind of merchandise that is the subject of the investigation” in two places.
 
-Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kindof the merchandise which is the subject of the investigation”.
+Subsec. (e)(1). Pub. L. 103–465, §233(a)(5)(P), substituted “the subject merchandise” for “class or kind of the merchandise which is the subject of the investigation”.
 
 Subsec. (e)(2). Pub. L. 103–465, §233(a)(5)(Q), substituted “subject merchandise” for “merchandise which is the subject of the investigation”.
 

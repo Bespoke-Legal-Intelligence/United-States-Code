@@ -2,27 +2,47 @@
 
 (a)
 
-Authority.—Upon the recommendation of the Director and faculty of the Command and Staff College of the Marine Corps University, the President of the Marine Corps University may confer the degree of master of military studies upon graduates of the Command and Staff College who fulfill the requirements for that degree.
+Master of Military Studies.—Upon the recommendation of the Director and faculty of the Command and Staff College of the Marine Corps University, the President of the Marine Corps University may confer the degree of master of military studies upon graduates of the Command and Staff College who fulfill the requirements for that degree.
 
 (b)
 
-Marine Corps War College.—Upon the recommendation of the Director and faculty of the Marine Corps War College of the Marine Corps University, the President of the Marine Corps University may confer the degree of master of strategic studies upon graduates of the Marine Corps War College who fulfill the requirements for that degree.
+Master of Strategic Studies.—Upon the recommendation of the Director and faculty of the Marine Corps War College of the Marine Corps University, the President of the Marine Corps University may confer the degree of master of strategic studies upon graduates of the Marine Corps War College who fulfill the requirements for that degree.
 
 (c)
 
-Command and Staff College of the Marine Corps University.—Upon the recommendation of the Director and faculty of the Command and Staff College of the Marine Corps University, the President of the Marine Corps University may confer the degree of master of operational studies upon graduates of the Command and Staff College's School of Advanced Warfighting who fulfill the requirements for that degree.
+Master of Operational Studies.—Upon the recommendation of the Director and faculty of the Command and Staff College of the Marine Corps University, the President of the Marine Corps University may confer the degree of master of operational studies upon graduates of the Command and Staff College's School of Advanced Warfighting who fulfill the requirements for that degree.
 
 (d)
 
-Regulations.—The authority provided by subsections (a) and (b) shall be exercised under regulations prescribed by the Secretary of the Navy.
+Regulations.—The authority provided by subsections (a), (b), and (c) shall be exercised under regulations prescribed by the Secretary of the Navy.
 
 (e)
 
 Board of Advisors.—The Secretary of the Navy shall establish a board of advisors for the Marine Corps University. The Secretary shall ensure that the board is established so as to meet all requirements of the appropriate regional accrediting association.
 
-(Added Pub. L. 103–337, div. A, title IX, §911(a)(1), Oct. 5, 1994, 108 Stat. 2828; amended Pub. L. 107–107, div. A, title V, §532(a)–(b)(3)(A), (c)(1), Dec. 28, 2001, 115 Stat. 1104, 1105; Pub. L. 108–136, div. A, title V, §531(a), Nov. 24, 2003, 117 Stat. 1472.)
+(Added Pub. L. 103–337, div. A, title IX, §911(a)(1), Oct. 5, 1994, 108 Stat. 2828; amended Pub. L. 107–107, div. A, title V, §532(a)–(b)(3)(A), (c)(1), Dec. 28, 2001, 115 Stat. 1104, 1105; Pub. L. 108–136, div. A, title V, §531(a), Nov. 24, 2003, 117 Stat. 1472; Pub. L. 108–375, div. A, title X, §1084(d)(31), Oct. 28, 2004, 118 Stat. 2063.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375, §1084(d)(31)(A), substituted “
+
+Master of Military Studies” for “
+
+Authority” in heading.
+
+Subsec. (b). Pub. L. 108–375, §1084(d)(31)(B), substituted “
+
+Master of Strategic Studies” for “
+
+Marine Corps War College” in heading.
+
+Subsec. (c). Pub. L. 108–375, §1084(d)(31)(C), substituted “
+
+Master of Operational Studies” for “
+
+Command and Staff College of the Marine Corps University” in heading.
+
+Subsec. (d). Pub. L. 108–375, §1084(d)(31)(D), substituted “subsections (a), (b), and (c)” for “subsections (a) and (b)”.
 
 2003—Subsecs. (c) to (e). Pub. L. 108–136 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

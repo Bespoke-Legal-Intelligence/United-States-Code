@@ -20,11 +20,11 @@ For purposes of subsection (a), the following property shall be considered to ha
 
 &emsp;(2) Property transferred by the decedent during his lifetime in trust to pay the income for life to or on the order or direction of the decedent, with the right reserved to the decedent at all times before his death to revoke the trust;
 
-&emsp;(3) In the case of decedents dying after December 31, 1951, property transferred by the decedent during his lifetime in trust to pay the income for life to or on the order or direction of the decedent with the right reserved to the decedent at all times before his death to makeany change in the enjoyment thereof through the exercise of a power to alter, amend, or terminate the trust;
+&emsp;(3) In the case of decedents dying after December 31, 1951, property transferred by the decedent during his lifetime in trust to pay the income for life to or on the order or direction of the decedent with the right reserved to the decedent at all times before his death to make any change in the enjoyment thereof through the exercise of a power to alter, amend, or terminate the trust;
 
 &emsp;(4) Property passing without full and adequate consideration under a general power of appointment exercised by the decedent by will;
 
-&emsp;(5) In the case of decedents dying after August 26, 1937, property acquired by bequest, devise, or inheritance or by the decedent's estate from the decedent, if the property consists of stock or securities of a foreign corporation, which with respect to its taxable year next preceding the date of the decedent's death was, under the law applicable to such year, a foreign personal holding company. In such case, the basis shall be the fair market value of such property at the date of the decedent's death or the basis in the hands of the decedent, whichever is lower;
+&emsp;(5) In the case of decedents dying after August 26, 1937, and before January 1, 2005, property acquired by bequest, devise, or inheritance or by the decedent's estate from the decedent, if the property consists of stock or securities of a foreign corporation, which with respect to its taxable year next preceding the date of the decedent's death was, under the law applicable to such year, a foreign personal holding company. In such case, the basis shall be the fair market value of such property at the date of the decedent's death or the basis in the hands of the decedent, whichever is lower;
 
 &emsp;(6) In the case of decedents dying after December 31, 1947, property which represents the surviving spouse's one-half share of community property held by the decedent and the surviving spouse under the community property laws of any State, or possession of the United States or any foreign country, if at least one-half of the whole of the community interest in such property was includible in determining the value of the decedent's gross estate under chapter 11 of subtitle B (section 2001 and following, relating to estate tax) or section 811 of the Internal Revenue Code of 1939;
 
@@ -68,7 +68,7 @@ If stock owned by a decedent in a DISC or former DISC (as defined in section 992
 
 #### (A) Appreciated property
 
-&emsp;&emsp;The term “appreciated property” means any property if the fair market value of suchproperty on the day it was transferred to the decedent by gift exceeds its adjusted basis.
+&emsp;&emsp;The term “appreciated property” means any property if the fair market value of such property on the day it was transferred to the decedent by gift exceeds its adjusted basis.
 
 #### (B) Treatment of certain property sold by estate
 
@@ -78,7 +78,7 @@ If stock owned by a decedent in a DISC or former DISC (as defined in section 992
 
 This section shall not apply with respect to decedents dying after December 31, 2009.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76; Pub. L. 108–357, title IV, §413(c)(18), Oct. 22, 2004, 118 Stat. 1508.)
 
 #### Amendment of Section
 
@@ -95,6 +95,8 @@ Revenue Act of 1948, referred to in subsec. (b)(7), is act Apr. 2, 1948, ch. 168
 The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 #### Amendments
+
+2004—Subsec. (b)(5). Pub. L. 108–357 inserted “and before January 1, 2005,” after “August 26, 1937,”.
 
 2001—Subsec. (f). Pub. L. 107–16, §§541, 901, temporarily added subsec. (f). See Termination Date of 2001 Amendment note below.
 
@@ -120,6 +122,10 @@ Subsec. (d). Pub. L. 94–455, §2005(a)(1), substituted provision relating to t
 
 1958—Subsec. (d). Pub. L. 85–320 repealed subsec. (d) which made section inapplicable to restricted stock options described in section 421 which the employee has not exercised at death.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Termination Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
@@ -130,7 +136,7 @@ Section 508(e)(1) of Pub. L. 105–34 provided that: “The amendments made by s
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -144,7 +150,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 702(c)(10) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amendingthis section and sections 1001, 1223, and 2614 of this title\] shall take effect as if included in the amendments and additions made by, and the appropriate provisions of the Tax Reform Act of 1976 \[Pub. L. 94–455, Oct. 4, 1976, 90 Stat 1525\].”
+Section 702(c)(10) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section and sections 1001, 1223, and 2614 of this title\] shall take effect as if included in the amendments and additions made by, and the appropriate provisions of the Tax Reform Act of 1976 \[Pub. L. 94–455, Oct. 4, 1976, 90 Stat 1525\].”
 
 #### Effective Date of 1976 Amendment
 
@@ -167,8 +173,4 @@ Pub. L. 94–455, §2005(a)(1), cited as a credit to this section, and the amend
 #### Election of Carryover Basis Rules by Certain Estates
 
 Pub. L. 96–223, title IV, §401(d), Apr. 2, 1980, 94 Stat. 300, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any other provision of law, in the case of a decedent dying after December 31, 1976, and before November 7, 1978, the executor (within the meaning of section 2203 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) of such decedent's estate may irrevocably elect, within 120 days following the date of enactment of this Act \[Apr. 2, 1980\] and in such manner as the Secretary of the Treasury or his delegate shall prescribe, to have the basis of all property acquired from or passing from the decedent (within the meaning of section 1014(b) of the Internal Revenue Code of 1986) determined for all purposes under such Code as though the provisions of section 2005 of the Tax Reform Act of 1976 \[Pub. L. 94–455\] (as amended by the provisions of section 702(c) of the Revenue Act of 1978 \[Pub. L. 95–600\] applied to such property acquired or passing from such decedent.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 179, 197, 338, 355, 382, 551, 1001, 1223, 1246, 1291, 1296, 1367, 1400C, 2032A, 2654 of this title.
 

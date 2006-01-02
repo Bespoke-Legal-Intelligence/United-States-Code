@@ -22,7 +22,7 @@
 
 &emsp;Christmas Day, December 25.
 
-(b) For the purpose of statutes relating to pay and leave of employees, with respect to a legal public holiday and any other day declared to bea holiday by Federal statute or Executive order, the following rules apply:
+(b) For the purpose of statutes relating to pay and leave of employees, with respect to a legal public holiday and any other day declared to be a holiday by Federal statute or Executive order, the following rules apply:
 
 &emsp;(1) Instead of a holiday that occurs on a Saturday, the Friday immediately before is a legal holiday for—
 
@@ -46,7 +46,7 @@
 
 (2) An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, §1107, Oct. 17, 1998, 112 Stat. 2142.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L.94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, §1107, Oct. 17, 1998, 112 Stat. 2142.)
 
 Historical and Revision Notes
 
@@ -128,7 +128,7 @@ Section 2 of Pub. L. 90–363 provided that: “The amendment made by subsection
 
 #### References in Laws of the United States to Observances of Legal Public Holidays
 
-Section 1(b) of Pub. L. 90–363 provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of alegal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
+Section 1(b) of Pub. L. 90–363 provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) \[January 1, 1971\] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
 
 #### Executive Order No. 10358
 

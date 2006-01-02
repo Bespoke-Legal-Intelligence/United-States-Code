@@ -12,7 +12,7 @@ The President is authorized to take such actions as may be necessary to increase
 
 #### (2) Availability
 
-&emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph\(1) are authorized to remain available until expended.
+&emsp;Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
 
 #### (c) Report
 

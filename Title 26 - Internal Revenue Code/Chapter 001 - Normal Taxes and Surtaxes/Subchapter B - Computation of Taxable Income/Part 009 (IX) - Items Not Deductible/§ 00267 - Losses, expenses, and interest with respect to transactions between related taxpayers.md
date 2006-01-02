@@ -18,7 +18,19 @@
 
 #### (3) Payments to foreign persons
 
-&emsp;The Secretary shall by regulations apply the matching principle of paragraph (2) in cases in which the person to whom the payment is to be made is not a United States person.
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall by regulations apply the matching principle of paragraph (2) in cases in which the person to whom the payment is to be made is not a United States person.
+
+#### (B) Special rule for certain foreign entities
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), in the case of any item payable to a controlled foreign corporation (as defined in section 957) or a passive foreign investment company (as defined in section 1297), a deduction shall be allowable to the payor with respect to such amount for any taxable year before the taxable year in which paid only to the extent that an amount attributable to such item is includible (determined without regard to properly allocable deductions and qualified deficits under section 952(c)(1)(B)) during such prior taxable year in the gross income of a United States person who owns (within the meaning of section 958(a)) stock in such corporation.
+
+#### (ii) Secretarial authority
+
+&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged and in which the payment of the accrued amounts occurs within 81/2 months after accrual or within such other period as the Secretary may prescribe.
 
 #### (b) Relationships
 
@@ -40,7 +52,7 @@ The persons referred to in subsection (a) are:
 
 &emsp;(8) A fiduciary of a trust and a corporation more than 50 percent in value of the outstanding stock of which is owned, directly or indirectly, by or for the trust or by or for a person who is a grantor of the trust;
 
-&emsp;(9) A person and an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such person or (if suchperson is an individual) by members of the family of such individual;
+&emsp;(9) A person and an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such person or (if such person is an individual) by members of the family of such individual;
 
 &emsp;(10) A corporation and a partnership if the same persons own—
 
@@ -122,7 +134,7 @@ If—
 
 #### (A) In general
 
-&emsp;&emsp;This subsection shall not apply with respect to qualified expenses and interest paidor incurred by a partnership owning low-income housing to—
+&emsp;&emsp;This subsection shall not apply with respect to qualified expenses and interest paid or incurred by a partnership owning low-income housing to—
 
 &emsp;&emsp;&emsp;(i) any qualified 5-percent or less partner of such partnership, or
 
@@ -174,7 +186,7 @@ If—
 
 &emsp;&emsp;(A) subsections (a)(1) and (d) shall not apply to such loss, but
 
-&emsp;&emsp;(B) such loss shall be deferred until the property is transferred outside such controlled group and there would be recognition of loss under consolidated return principles or until such other time as may be prescribed in regulations.
+&emsp;&emsp;(B) such loss shall be deferred until the property is transferred outside such controlled group and there would be recognition of loss under consolidated return principlesor until such other time as may be prescribed in regulations.
 
 #### (3) Loss deferral rules not to apply in certain cases
 
@@ -206,13 +218,15 @@ If—
 
 Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s),July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title VIII, §841(b), Oct. 22, 2004, 118 Stat. 1598.)
 
 #### References in Text
 
 Sections 24(b) and 118 of the Internal Revenue Code of 1939, referred to in subsec. (d), were classified to sections 24(b) and 118 of former Title 26, Internal Revenue Code. Sections 24(b) and 118 were repealed by section 7851(a)(1) of this title. For table of comparisons of the 1939 Code to the 1986 Code \[formerly I.R.C. 1954\], see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 #### Amendments
+
+2004—Subsec. (a)(3). Pub. L. 108–357 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 1999—Subsec. (f)(3)(B)(i), (iii). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
@@ -261,6 +275,10 @@ Pub. L. 98–369, §721(s), in closing provision of par. (1) substituted “then
 Subsec. (f). Pub. L. 97–354, §3(h)(2), added subsec. (f).
 
 1978—Subsec. (e). Pub. L. 95–628 added subsec. (e).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to payments accrued on or after Oct. 22, 2004, see section 841(c) of Pub. L. 108–357, set out as a note under section 163 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -338,7 +356,7 @@ Section 2(b) of Pub. L. 95–628 provided that: “The amendment made by subsect
 
 #### Construction of Section 806 of Pub. L. 99–514
 
-Nothing in section 806 of Pub. L. 99–514 \[amending this section\] or in any legislative history relating thereto to be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year, see section 1008(e)(9) of Pub. L. 100–647, set out as a note under section 1378 of this title.
+Nothing in section 806 of Pub. L. 99–514 \[amending this section\] or in any legislative history relating thereto to be construed as requiring the Secretary ofthe Treasury or his delegate to permit an automatic change of a taxable year, see section 1008(e)(9) of Pub. L. 100–647, set out as a note under section 1378 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -347,8 +365,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Exception for Certain Indebtedness
 
 Section 1812(c)(5) of Pub. L. 99–514 provided that: “Clause (i) of section 174(c)(3)(A) of the Tax Reform Act of 1984 \[section 174(c)(3)(A)(i) of Pub. L. 98–369, set out as a note above\] shall be applied by substituting ‘December 31, 1983’ for ‘September 29, 1983’ in the case of indebtedness which matures on January 1, 1999, the payments on which from January 1989 through November 1993 equal U/L plus $77,600, the payments on which from December 1993 to maturity equal U/L plus $50,100, and which accrued interest at 13.75 percent through December 31, 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 40, 42, 45D, 51, 56, 108, 121, 144, 147, 163, 165, 167, 168, 170, 179, 179A, 197, 213, 221, 263A, 274, 280A, 280F, 304, 336, 351, 355, 409, 447, 453, 464, 465, 468B, 469, 475, 483, 503, 514, 613A, 631, 643, 664, 685, 707, 860L, 864, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1237, 1239, 1259, 1397, 1400B, 1400C, 2057, 4946, 4951, 4975, 5881, 6038, 6038A, 6111, 6166, 7612 of this title; title 29 sections 1108, 1384.
 

@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(C) resides in the service area of the PACE program; and
 
-&emsp;&emsp;(D) meets such other eligibility conditions as may be imposed under the PACE programagreement for the program under subsection (e)(2)(A)(ii) of this section.
+&emsp;&emsp;(D) meets such other eligibility conditions as may be imposed under the PACE program agreement for the program under subsection (e)(2)(A)(ii) of this section.
 
 #### (6) “PACE protocol” defined
 
@@ -258,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -268,7 +268,7 @@
 
 #### (A) Annual, close oversight during trial period
 
-&emsp;&emsp;During the trial period (as defined in subsection (a)(9) of this section) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with theState administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements of this section and regulations. Such a review shall include—
+&emsp;&emsp;During the trial period (as defined in subsection (a)(9) of this section) with respect to a PACE program operated by a PACE provider, the Secretary (in cooperation with the State administering agency) shall conduct a comprehensive annual review of the operation of the PACE program by the provider in order to assure compliance with the requirements of this section and regulations. Such a review shall include—
 
 &emsp;&emsp;&emsp;(i) an onsite visit to the program site;
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -392,7 +392,7 @@
 
 With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
-&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
+&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs orPACE program services be provided in all areas of a State.
 
 &emsp;(2) Section 1396a(a)(10) of this title, insofar as such section relates to comparability of services among different population groups.
 
@@ -406,7 +406,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (1) In general
 
-&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity, the Secretary (in close consultation with State administering agencies) shall grantwaivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
+&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity, the Secretary (in close consultation with State administering agencies) shall grant waivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
 
 #### (2) Similar terms and conditions
 

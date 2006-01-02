@@ -100,7 +100,7 @@ Subsection (a) shall not apply—
 
 #### (3) Certain stock acquired in section 351 exchange
 
-&emsp;The term “section 306 stock” also includes any stock which is not common stock acquired in an exchange to which section 351 applied if receipt of money (in lieu of the stock) would have been treated as a dividend to any extent. Rules similar to the rules of section 304(b)(2) shall apply—
+&emsp;The term “section 306 stock” also includes any stock which is not common stock acquired in an exchange to which section 351 applied if receipt of money (in lieu of the stock) would have been treated as a dividend to anyextent. Rules similar to the rules of section 304(b)(2) shall apply—
 
 &emsp;&emsp;(A) for purposes of the preceding sentence, and
 
@@ -214,9 +214,5 @@ Pub. L. 95–600, §702(a)(1), (2), cited as a credit to this section, and the a
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302, 318, 356 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

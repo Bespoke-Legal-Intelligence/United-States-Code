@@ -44,7 +44,15 @@
 
 &emsp;(3) The elective correction of minor dermatological blemishes and marks or minor anatomical anomalies.
 
-(c) A dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the United States, and dental care that is not covered by such plan.
+(c)(1) Except as specified in paragraph (2), a dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the United States, and dental care that is not covered by such plan.
+
+(2)(A) Dependents who are 12 years of age or younger and are covered by a dental plan established under section 1076a of this title may be treated by postgraduate dental residents in a dental treatment facility of the uniformed services under a graduate dental education program accredited by the American Dental Association if—
+
+&emsp;(i) treatment of pediatric dental patients is necessary in order to satisfy an accreditation standard of the American Dental Association that is applicable to such program, or training in pediatric dental care is necessary for the residents to be professionally qualified to provide dental care for dependent children accompanying members of the uniformed services outside the United States; and
+
+&emsp;(ii) the number of pediatric patients at such facility is insufficient to support satisfaction of the accreditation or professional requirements in pediatric dental care that apply to such program or students.
+
+(B) The total number of dependents treated in all facilities of the uniformed services under subparagraph (A) in a fiscal year may not exceed 2,000.
 
 (d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed services to a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient's terminal illness.
 
@@ -84,7 +92,7 @@
 
 &emsp;(C) otherwise assuring the proper functioning of the equipment.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162; Pub. L. 108–375, div. A, title VII, §715, Oct. 28, 2004, 118 Stat. 1985.)
 
 Historical and Revision Notes
 
@@ -134,6 +142,8 @@ A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to dist
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–375 designated existing provisions as par. (1), substituted “Except as specified in paragraph (2), a” for “A”, and added par. (2).
+
 2001—Subsec. (a)(12). Pub. L. 107–107, §703(a)(1), substituted “which” for “such as wheelchairs, iron lungs, and hospital beds”.
 
 Subsec. (a)(16). Pub. L. 107–107, §702(1), added par. (16).
@@ -180,7 +190,7 @@ Subsec. (a)(13), (14). Pub. L. 98–525, §633(a)(2), redesignated cls. (13) and
 
 Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
-1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses\(1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
+1966—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
 
 #### Effective Date of 1984 Amendment
 
@@ -192,6 +202,60 @@ Amendment by section 1401(e)(3) of Pub. L. 98–525 effective Oct. 1, 1985, see 
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
+#### Program for Mental Health Awareness for Dependents and Pilot Project on Post Traumatic Stress Disorder
+
+Pub. L. 109–163, div. A, title VII, §721, Jan. 6, 2006, 119 Stat. 3346, provided that:
+
+“(a)
+
+Program on Mental Health Awareness.—
+
+&emsp;“(1)
+
+Requirement.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop a program to improve awareness of the availability of mental health services for, and warning signs about mental health problems in, dependents of members of the Armed Forces whose sponsor served or will serve in a combat theater during the previous or next 60 days.
+
+&emsp;“(2)
+
+Matters covered.—The program developed under paragraph (1) shall be designed to—
+
+&emsp;&emsp;“(A) increase awareness of mental health services available to dependents of members of the Armed Forces on active duty;
+
+&emsp;&emsp;“(B) increase awareness of mental health services available to dependents of Reservists and National Guard members whose sponsors have been activated; and
+
+&emsp;&emsp;“(C) increase awareness of mental health issues that may arise in dependents referred to in subparagraphs (A) and (B) whose sponsor is deployed to a combat theater.
+
+&emsp;“(3)
+
+Coordination.—The Secretary may permit the Department of Defense to coordinate the program developed under paragraph (1) with an accredited college, university, hospital-based, or community-based mental health center or engage mental health professionals to develop programs to help implement this section.
+
+&emsp;“(4)
+
+Availability in other languages.—The Secretary shall evaluate whether the effectiveness of the program developed under paragraph (1) would be improved by providing materials in languages other than English and take action accordingly\[.\]
+
+&emsp;“(5)
+
+Report.—Not later than one year after implementation of the program developed under paragraph (1), the Secretary shall submit to Congress a report on the effectiveness of the program, including the extent to which the program is used by low-English-proficient individuals.
+
+“(b)
+
+Pilot Project on Post Traumatic Stress Disorder.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary of Defense shall carry out a pilot project to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provide early diagnosis and treatment of post traumatic stress disorder (PTSD) and other mental health conditions.
+
+&emsp;“(2)
+
+Internet-based diagnosis and treatment.—The pilot project shall be designed to evaluate—
+
+&emsp;&emsp;“(A) Internet-based automated tools available to military and civilian health care providers for the early diagnosis and treatment of post traumatic stress disorder, and for tracking patients who suffer from post traumatic stress disorder; and
+
+&emsp;&emsp;“(B) Internet-based tools available to family members of members of the Armed Forces in order to assist such family members in the identification of the emergence of post traumatic stress disorder.
+
+&emsp;“(3)
+
+Report.—Not later than June 1, 2006, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot project. The report shall include a description of the pilot project, including the location of the pilot project and the scope and objectives of the pilot project.”
+
 #### Provision of Domiciliary and Custodial Care for Certain CHAMPUS Beneficiaries
 
 Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, § 701(a), (b), (c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, related to the continued provision of domiciliary and custodial care for certain CHAMPUS beneficiaries, prohibited the establishment of a limited transition period for such program, required a survey and report of case management and custodial care policies, and provided for cost limitations for each fiscal year, prior to repeal by Pub. L. 107–107, div. A, title VII, §701(g)(1)(A), Dec. 28, 2001, 115 Stat. 1161.
@@ -199,8 +263,4 @@ Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amen
 #### Obstetrical Care Facilities
 
 Pub. L. 89–188, title VI, §610, Sept. 16, 1965, 79 Stat. 818, required that military hospitals in the United States and its possessions be constructed so as to include facilities for obstetrical care, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1075, 1076, 1079, 1080, 1086 of this title.
 

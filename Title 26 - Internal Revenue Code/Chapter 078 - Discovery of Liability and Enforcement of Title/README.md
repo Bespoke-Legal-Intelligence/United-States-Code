@@ -18,10 +18,6 @@
 
 Pub. L. 94–455, title XIX, §1906(b)(13), Oct. 4, 1976, 90 Stat. 1834, struck out subchapter C relating to supervision of operations of certain manufacturers.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7801, 7811, 7851 of this title.
-
 
 ---
 

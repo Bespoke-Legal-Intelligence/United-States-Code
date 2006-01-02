@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 11, 1996, Pub. L. 104–285, title II, §204(a)(4), (a) (last par.), 110 Stat. 3384.
 
-The words “at all times” are omitted as unnecessary. The word “have” is substituted for “maintain”, the words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” aresubstituted for “shall be deemed as service upon or notice to”, for consistency in the revised title.
+The words “at all times” are omitted as unnecessary. The word “have” is substituted for “maintain”, the words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed as service upon or notice to”, for consistency in the revised title.
 

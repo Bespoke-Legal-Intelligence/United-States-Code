@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B)(i) not fewer than 1/3 of the members are persons chosen in accordance with democratic selection procedures adequate to assure that these members are representative of low-income individuals and families in the neighborhood served; and
 
-&emsp;&emsp;(ii) each representative of low-income individuals and families selected to represent a specific neighborhood within a communityunder clause (i) resides in the neighborhood represented by the member; and
+&emsp;&emsp;(ii) each representative of low-income individuals and families selected to represent a specific neighborhood within a community under clause (i) resides in the neighborhood represented by the member; and
 
 &emsp;&emsp;(C) the remainder of the members are officials or members of business, industry, labor, religious, law enforcement, education, or other major groups and interests in the community served.
 

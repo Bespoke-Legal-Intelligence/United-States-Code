@@ -92,7 +92,3 @@ Section effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set o
 
 Applicability of subsec. (a) of this section to testamentary trusts, see section 101(<i>l</i>)(7) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 170, 501, 507, 508, 514, 527, 542, 2055, 2503, 3121, 4940, 4942, 4945, 4947, 4958, 6033, 6043, 6104, 6111, 7428 of this title; title 16 sections 3838h, 3838q; title 42 section 410.
-

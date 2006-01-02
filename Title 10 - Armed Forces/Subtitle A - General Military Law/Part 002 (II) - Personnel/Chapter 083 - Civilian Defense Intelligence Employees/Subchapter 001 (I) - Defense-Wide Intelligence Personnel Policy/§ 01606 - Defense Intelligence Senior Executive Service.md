@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense may establish a Defense Intelligence Senior Executive Service for defense intelligence positions established pursuant to section 1601(a) of this title that are equivalent to Senior Executive Service positions. The number of positions in the Defense Intelligence Senior Executive Service may not exceed 544.
+Establishment.—The Secretary of Defense may establish a Defense Intelligence Senior Executive Service for defense intelligence positions established pursuant to section 1601(a) of this title that are equivalent to Senior Executive Service positions. The number of positions in the Defense Intelligence Senior Executive Service may not exceed 594.
 
 (b)
 
@@ -14,7 +14,13 @@ Provisions.—The Secretary of Defense shall prescribe regulations for the Defen
 
 Award of Rank to Members of the Defense Intelligence Senior Executive Service.—The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in section 4507 of title 5 to members of the Defense Intelligence Senior Executive Service. The award of such rank shall be made in a manner consistent with the provisions of that section.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747; amended Pub. L. 106–398, §1 \[\[div. A\], title XI, §1142\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319; Pub. L. 107–107, div. A, title XI, §1121, Dec. 28, 2001, 115 Stat. 1242.)
+(d)
+
+Performance Appraisals.—(1) The Defense Intelligence Senior Executive Service shall be subject to a performance appraisal system which, as designed and applied, is certified by the Secretary of Defense under section 5307 of title 5 as making meaningful distinctions based on relative performance.
+
+(2) The performance appraisal system applicable to the Defense Intelligence Senior Executive Service under paragraph (1) may be the same performance appraisal system that is established and implemented within the Department of Defense for members of the Senior Executive Service.
+
+(Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747; amendedPub. L. 106–398, §1 \[\[div. A\], title XI, §1142\], Oct. 30, 2000, 114 Stat. 1654, 1654A–319; Pub. L. 107–107, div. A, title XI, §1121, Dec. 28, 2001, 115 Stat. 1242; Pub. L. 108–375, div. A, title XI, §1103(b), Oct. 28, 2004, 118 Stat. 2073; Pub. L. 109–163, div. A, title XI, §1125, Jan. 6, 2006, 119 Stat. 3454.)
 
 #### Prior Provisions
 
@@ -24,6 +30,10 @@ Provisions similar to those in this section were contained in sections 1590(f), 
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–163 substituted “594” for “544”.
+
+2004—Subsec. (d). Pub. L. 108–375 added subsec. (d).
+
 2001—Subsec. (a). Pub. L. 107–107 substituted “544” for “517”.
 
 2000—Subsec. (a). Pub. L. 106–398 substituted “517” for “492”.
@@ -31,8 +41,4 @@ Provisions similar to those in this section were contained in sections 1590(f), 
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1613 of this title.
 

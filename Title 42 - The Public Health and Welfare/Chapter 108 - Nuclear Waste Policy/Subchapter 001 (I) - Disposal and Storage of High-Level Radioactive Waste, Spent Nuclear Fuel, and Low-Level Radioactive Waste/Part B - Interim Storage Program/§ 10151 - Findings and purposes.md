@@ -6,7 +6,7 @@
 
 &emsp;(2) the Federal Government has the responsibility to encourage and expedite the effective use of existing storage facilities and the addition of needed new storage capacity at the site of each civilian nuclear power reactor; and
 
-&emsp;(3) the Federal Government has the responsibility to provide, in accordance with the provisions of this part, not more than 1,900 metric tons of capacity for interim storage of spentnuclear fuel for civilian nuclear power reactors that cannot reasonably provide adequate storage capacity at the sites of such reactors when needed to assure the continued, orderly operation of such reactors.
+&emsp;(3) the Federal Government has the responsibility to provide, in accordance with the provisions of this part, not more than 1,900 metric tons of capacity for interim storage of spent nuclear fuel for civilian nuclear power reactors that cannot reasonably provide adequate storage capacity at the sites of such reactors when needed to assure the continued, orderly operation of such reactors.
 
 (b) The purposes of this part are—
 

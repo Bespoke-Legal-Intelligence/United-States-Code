@@ -48,7 +48,7 @@ In subsection (b) the words “on the active list” are inserted in order to ex
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–513, §324(a), substituted provision allowing the appointment of “persons” in the line of the Navy as regular officers for provision allowing the appointment of males only to the active list in the line of the Navy as officers, struck out provision specifying the rank designation of appointees, and struck out provision limiting the number of appointments under subsec. (a) to the number of vacancies that the Secretary of the Navy estimated would occur in a particular fiscal year in the grades and designations concerned.
+1980—Subsec. (a). Pub. L. 96–513, §324(a), substituted provision allowing the appointment of “persons” in the line of the Navy as regular officers for provision allowing the appointment of males only to the active list in the line of the Navy as officers, struck out provision specifying the rank designation of appointees, and struck out provision limiting the number of appointments under subsec. (a) to the number of vacanciesthat the Secretary of the Navy estimated would occur in a particular fiscal year in the grades and designations concerned.
 
 Subsec. (b). Pub. L. 96–513, §324(b), substituted “a regular officer” for “any officer on the active list”.
 

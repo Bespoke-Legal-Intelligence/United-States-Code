@@ -2,7 +2,7 @@
 
 Section 2971a, Pub. L. 88–452, title VI, §621, formerly §622, as added Pub. L. 91–177, title I, §111(a), Dec. 30, 1969, 83 Stat. 831; renumbered §621, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, set forth advance funding requirements.
 
-Section 2971b, Pub. L. 88–452, title VI, §622, formerly §623, as added Pub. L. 92–424, §22, Sept. 19, 1972, 86 Stat. 696; renumbered §622, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, related to publication of guidelines in the Federal Register.
+Section 2971b, Pub. L. 88–452, title VI, §622, formerly §623, as added Pub. L. 92–424, §22, Sept. 19, 1972, 86 Stat.696; renumbered §622, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, related to publication of guidelines in the Federal Register.
 
 Section 2971c, Pub. L. 88–452, title VI, §623, formerly §624, as added Pub. L. 92–424, §23, Sept. 19, 1972, 86 Stat. 696; renumbered §623, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, set forth nondiscrimination provisions.
 

@@ -12,11 +12,7 @@ For purposes of this section—
 
 &emsp;The term “specified foreign corporation” means any foreign corporation—
 
-&emsp;&emsp;(A) which is—
-
-&emsp;&emsp;&emsp;(i) treated as a controlled foreign corporation for any purpose under subpart F of part III of this subchapter, or
-
-&emsp;&emsp;&emsp;(ii) a foreign personal holding company (as defined in section 552), and
+&emsp;&emsp;(A) which is treated as a controlled foreign corporation for any purpose under subpart F of part III of this subchapter, and
 
 &emsp;&emsp;(B) with respect to which the ownership requirements of paragraph (2) are met.
 
@@ -32,57 +28,65 @@ For purposes of this section—
 
 #### (B) Ownership
 
-&emsp;&emsp;For purposes of subparagraph (A), the rules of subsections (a) and (b) of section 958 and sections 551(f) and 554, whichever are applicable, shall apply in determining ownership.
+&emsp;&emsp;For purposes of subparagraph (A), the rules of subsections (a) and (b) of section 958 shall apply in determining ownership.
 
 #### (3) United States shareholder
 
-#### (A) In general
-
-&emsp;&emsp;The term “United States shareholder” has the meaning given to such term by section 951(b), except that, in the case of a foreign corporation having related person insurance income (as defined in section 953(c)(2)), the Secretary may treat any person as a United States shareholder for purposes of this section if such person is treated as a United States shareholder under section 953(c)(1).
-
-#### (B) Foreign personal holding companies
-
-&emsp;&emsp;In the case of any foreign personal holding company (as defined in section 552) which is not a specified foreign corporation by reason of paragraph (1)(A)(i), the term “United States shareholder” means any person who is treated as a United States shareholder under section 551.
+&emsp;The term “United States shareholder” has the meaning given to such term by section 951(b), except that, in the case of a foreign corporation having related person insurance income (as defined in section 953(c)(2)), the Secretary may treat any person as a United States shareholder for purposes of this section if such person is treated as a United States shareholder under section 953(c)(1).
 
 #### (c) Determination of required year
 
-#### (1) Controlled foreign corporations
+#### (1) In general
+
+&emsp;The required year is—
+
+&emsp;&emsp;(A) the majority U.S. shareholder year, or
+
+&emsp;&emsp;(B) if there is no majority U.S. shareholder year, the taxable year prescribed under regulations.
+
+#### (2) 1-month deferral allowed
+
+&emsp;A specified foreign corporation may elect, in lieu of the taxable year under paragraph (1)(A), a taxable year beginning 1 month earlier than the majority U.S. shareholder year.
+
+#### (3) Majority U.S. shareholder year
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a specified foreign corporation described in subsection (b)(1)(A)(i), the required year is—
+&emsp;&emsp;For purposes of this subsection, the term “majority U.S. shareholder year” means the taxable year (if any) which, on each testing day, constituted the taxable year of—
 
-&emsp;&emsp;&emsp;(i) the majority U.S. shareholder year, or
+&emsp;&emsp;&emsp;(i) each United States shareholder described in subsection (b)(2)(A), and
 
-&emsp;&emsp;&emsp;(ii) if there is no majority U.S. shareholder year, the taxable year prescribed under regulations.
+&emsp;&emsp;&emsp;(ii) each United States shareholder not described in clause (i) whose stock was treated as owned under subsection (b)(2)(B) by any shareholder described in such clause.
 
-#### (B) 1-month deferral allowed
+#### (B) Testing day
 
-&emsp;&emsp;A specified foreign corporation may elect, in lieu of the taxable year under subparagraph (A)(i), a taxable year beginning 1 month earlier than the majority U.S. shareholder year.
+&emsp;&emsp;The testing days shall be—
 
-#### (C) Majority U.S. shareholder year
+&emsp;&emsp;&emsp;(i) the first day of the corporation's taxable year (determined without regard to this section), or
 
-#### (i) In general
+&emsp;&emsp;&emsp;(ii) the days during such representative period as the Secretary may prescribe.
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the term “majority U.S. shareholder year” means the taxable year (if any) which, on each testing day, constituted the taxable year of—
+(Added Pub. L. 101–239, title VII, §7401(a), Dec. 19, 1989, 103 Stat. 2355; amended Pub. L. 108–357, title IV, §413(c)(13), Oct. 22, 2004, 118 Stat. 1507.)
 
-&emsp;&emsp;&emsp;&emsp;(I) each United States shareholder described in subsection (b)(2)(A), and
+#### Amendments
 
-&emsp;&emsp;&emsp;&emsp;(II) each United States shareholder not described in subclause (I) whose stock was treated as owned under subsection (b)(2)(B) by any shareholder described in such subclause.
+2004—Subsec. (b)(1)(A). Pub. L. 108–357, §413(c)(13)(A), amended subpar. (A) generally. Prior to amendment, subpar (A) read as follows:
 
-#### (ii) Testing day
+“(A) which is—
 
-&emsp;&emsp;&emsp;The testing days shall be—
+&emsp;“(i) treated as a controlled foreign corporation for any purpose under subpart F of part III of this subchapter, or
 
-&emsp;&emsp;&emsp;&emsp;(I) the first day of the corporation's taxable year (determined without regard to this section), or
+&emsp;“(ii) a foreign personal holding company (as defined in section 552), and”.
 
-&emsp;&emsp;&emsp;&emsp;(II) the days during such representative period as the Secretary may prescribe.
+Subsec. (b)(2)(B). Pub. L. 108–357, §413(c)(13)(B), struck out “and sections 551(f) and 554, whichever are applicable,” after “section 958”.
 
-#### (2) Foreign personal holding companies
+Subsec. (b)(3). Pub. L. 108–357, §413(c)(13)(C), reenacted heading without change, struck out “(A) In general” before “The term”, and struck out heading and text of subpar. (B). Text read as follows: “In the case of any foreign personal holding company (as defined in section 552) which is not a specified foreign corporation by reason of paragraph (1)(A)(i), the term ‘United States shareholder’ means any person who is treated as a United States shareholder under section 551.”
 
-&emsp;In the case of a foreign personal holding company described in subsection (b)(3)(B), the required year shall be determined under paragraph (1), except that subparagraph (B) of paragraph (1) shall not apply.
+Subsec. (c). Pub. L. 108–357, §413(c)(13)(D), reenacted heading without change and amended text of subsec. (c) generally, substituting provisions stating general rule and relating to 1-month deferral and majority U.S. shareholder year, consisting of pars. (1) to (3), for provisions stating general rule and relating to 1-month deferral and majority U.S. shareholder year, consisting of par. (1), and provisions relating to required year in the case of a foreign personal holding company, consisting of par. (2).
 
-(Added Pub. L. 101–239, title VII, §7401(a), Dec. 19, 1989, 103 Stat. 2355.)
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date
 
@@ -101,8 +105,4 @@ Special rules.—If any foreign corporation is required by the amendments made b
 &emsp;“(B) such change shall be treated as having been made with the consent of the Secretary of the Treasury or his delegate, and
 
 &emsp;“(C) if, by reason of such change, any United States person is required to include in gross income for 1 taxable year amounts attributable to 2 taxable years of such foreign corporation, the amount which would otherwise be required to be included in gross income for such 1 taxable year by reason of the short taxable year of the foreign corporation resulting from such change shall be included in gross income ratably over the 4-taxable-year period beginning with such 1 taxable year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6038 of this title.
 

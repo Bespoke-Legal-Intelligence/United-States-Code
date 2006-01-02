@@ -48,7 +48,3 @@ If the taxpayer does not file with the Secretary a request to change the method 
 
 Section 161(b) of Pub. L. 98–369 provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 404A, 6110 of this title.
-

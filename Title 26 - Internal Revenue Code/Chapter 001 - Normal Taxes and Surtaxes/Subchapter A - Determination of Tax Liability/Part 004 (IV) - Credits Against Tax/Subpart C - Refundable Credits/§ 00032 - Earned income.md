@@ -108,41 +108,23 @@ For purposes of this section—
 
 &emsp;&emsp;If an individual is the qualifying child of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall not be treated as an eligible individual for any taxable year of such individual beginning in such calendar year.
 
-#### (C) 2 or more claiming qualifying child
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if (but for this paragraph) an individual may be claimed, and is claimed, as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
-
-&emsp;&emsp;&emsp;&emsp;(I) a parent of the individual, or
-
-&emsp;&emsp;&emsp;&emsp;(II) if subclause (I) does not apply, the taxpayer with the highest adjusted gross income for such taxable year.
-
-#### (ii) More than 1 claiming credit
-
-&emsp;&emsp;&emsp;If the parents claiming the credit with respect to any qualifying child do not file a joint return together, such child shall be treated as the qualifying child of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the parent with whom the child resided for the longest period of time during the taxable year, or
-
-&emsp;&emsp;&emsp;&emsp;(II) if the child resides with both parents for the same amount of time during such taxable year, the parent with the highest adjusted gross income.
-
-#### (D) Exception for individual claiming benefits under section 911
+#### (C) Exception for individual claiming benefits under section 911
 
 &emsp;&emsp;The term “eligible individual” does not include any individual who claims the benefits of section 911 (relating to citizens or residents living abroad) for the taxable year.
 
-#### (E) Limitation on eligibility of nonresident aliens
+#### (D) Limitation on eligibility of nonresident aliens
 
 &emsp;&emsp;The term “eligible individual” shall not include any individual who is a nonresident alien individual for any portion of the taxable year unless such individual is treated for such taxable year as a resident of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
 
-#### (F) Identification number requirement
+#### (E) Identification number requirement
 
-&emsp;&emsp;No credit shall be allowed under this section to an eligible individual who does notinclude on the return of tax for the taxable year—
+&emsp;&emsp;No credit shall be allowed under this section to an eligible individual who does not include on the return of tax for the taxable year—
 
 &emsp;&emsp;&emsp;(i) such individual's taxpayer identification number, and
 
 &emsp;&emsp;&emsp;(ii) if the individual is married (within the meaning of section 7703), the taxpayer identification number of such individual's spouse.
 
-#### (G) Individuals who do not include TIN, etc., of any qualifying child
+#### (F) Individuals who do not include TIN, etc., of any qualifying child
 
 &emsp;&emsp;No credit shall be allowed under this section to any eligible individual who has one or more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D).
 
@@ -162,59 +144,31 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) no amount to which section 871(a) applies (relating to income of nonresident alien individuals not connected with United States business) shall be taken into account,
 
-&emsp;&emsp;(iv) no amount received for services provided by an individual while the individual is an inmate at a penal institution shall be taken into account, and
+&emsp;&emsp;(iv) no amount received for services provided by an individual while the individual is an inmate at a penal institution shall be taken into account,
 
-&emsp;&emsp;(v) no amount described in subparagraph (A) received for service performed in work activities as defined in paragraph (4) or (7) of section 407(d) of the Social Security Act to which the taxpayer is assigned under any State program under part A of title IV of such Act shall be taken into account, but only to the extent such amount is subsidized under such State program.
+&emsp;&emsp;(v) no amount described in subparagraph (A) received for service performed in work activities as defined in paragraph (4) or (7) of section 407(d) of the Social Security Act to which the taxpayer is assigned under any State program under part A of title IV of such Act shall be taken into account, but only to the extent such amount is subsidized under such State program, and
+
+&emsp;&emsp;(vi) in the case of any taxable year ending—
+
+&emsp;&emsp;&emsp;(I) after the date of the enactment of this clause, and
+
+&emsp;&emsp;&emsp;(II) before January 1, 2007,
+
+> &emsp;&emsp;a taxpayer may elect to treat amounts excluded from gross income by reason of section 112 as earned income.
 
 #### (3) Qualifying child
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualifying child” means, with respect to any taxpayer for any taxable year, an individual—
+&emsp;&emsp;The term “qualifying child” means a qualifying child of the taxpayer (as defined in section 152(c), determined without regard to paragraph (1)(D) thereof and section 152(e)).
 
-&emsp;&emsp;&emsp;(i) who bears a relationship to the taxpayer described in subparagraph (B),
+#### (B) Married individual
 
-&emsp;&emsp;&emsp;(ii) who has the same principal place of abode as the taxpayer for more than one-half of such taxable year, and
+&emsp;&emsp;The term “qualifying child” shall not include an individual who is married as of the close of the taxpayer's taxable year unless the taxpayer is entitled to a deduction under section 151 for such taxable year with respect to such individual (or would be so entitled but for section 152(e)).
 
-&emsp;&emsp;&emsp;(iii) who meets the age requirements of subparagraph (C).
+#### (C) Place of abode
 
-#### (B) Relationship test
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;An individual bears a relationship to the taxpayer described in this subparagraph if such individual is—
-
-&emsp;&emsp;&emsp;&emsp;(I) a son, daughter, stepson, or stepdaughter, or a descendant of any such individual,
-
-&emsp;&emsp;&emsp;&emsp;(II) a brother, sister, stepbrother, or stepsister, or a descendant of any such individual, who the taxpayer cares for as the taxpayer's own child, or
-
-&emsp;&emsp;&emsp;&emsp;(III) an eligible foster child of the taxpayer.
-
-#### (ii) Married children
-
-&emsp;&emsp;&emsp;Clause (i) shall not apply to any individual who is married as of the close of the taxpayer's taxable year unless the taxpayer is entitled to a deduction under section 151 for such taxable year with respect to such individual (or would be so entitled but for paragraph (2) or (4) of section 152(e)).
-
-#### (iii) Eligible foster child
-
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “eligible foster child” means an individual not described in subclause (I) or (II) of clause (i) who—
-
-&emsp;&emsp;&emsp;&emsp;(I) is placed with the taxpayer by an authorized placement agency, and
-
-&emsp;&emsp;&emsp;&emsp;(II) the taxpayer cares for as the taxpayer's own child.
-
-#### (iv) Adoption
-
-&emsp;&emsp;&emsp;For purposes of this subparagraph, a child who is legally adopted, or who is placed with the taxpayer by an authorized placement agency for adoption by the taxpayer, shall be treated as a child by blood.
-
-#### (C) Age requirements
-
-&emsp;&emsp;An individual meets the requirements of this subparagraph if such individual—
-
-&emsp;&emsp;&emsp;(i) has not attained the age of 19 as of the close of the calendar year in which the taxable year of the taxpayer begins,
-
-&emsp;&emsp;&emsp;(ii) is a student (as defined in section 151(c)(4)) who has not attained the age of 24 as of the close of such calendar year, or
-
-&emsp;&emsp;&emsp;(iii) is permanently and totally disabled (as defined in section 22(e)(3)) at any time during the taxable year.
+&emsp;&emsp;For purposes of subparagraph (A), the requirements of section 152(c)(1)(B) shall be met only if the principal place of abode is in the United States.
 
 #### (D) Identification requirements
 
@@ -226,13 +180,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The Secretary may prescribe other methods for providing the information described in clause (i).
 
-#### (E) Abode must be in the United States
-
-&emsp;&emsp;The requirements of subparagraph (A)(ii) shall be met only if the principal place of abode is in the United States.
-
 #### (4) Treatment of military personnel stationed outside the United States
 
-&emsp;For purposes of paragraphs (1)(A)(ii)(I) and (3)(E), the principal place of abode of a member of the Armed Forces of the United Statesshall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term “extended active duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
+&emsp;For purposes of paragraphs (1)(A)(ii)(I) and (3)(C), the principal place of abode of a member of the Armed Forces of the United States shall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term “extended active duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
 
 #### (d) Married individuals
 
@@ -364,21 +314,25 @@ For purposes of—
 
 #### (m) Identification numbers
 
-Solely for purposes of subsections (c)(1)(F) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
+Solely for purposes of subsections (c)(1)(E) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
 
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B),11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57; Pub. L. 107–147, title IV, §416(a)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title I, §104(b), title II, §205, Oct. 4, 2004, 118 Stat. 1169, 1176; Pub. L. 109–135, title III, §302(a), Dec. 21, 2005, 119 Stat. 2608.)
 
-#### Earned Income Taxable Credit Adjustment for Taxable Years Beginning in 2004
+#### Earned Income Taxable Credit Adjustment for Taxable Years Beginning in 2006
 
-<i>For adjustment of earned income tax credit under this section for taxable years beginning in 2004, see section 3.06 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of earned income tax credit under this section for taxable years beginning in 2006, see section 3.06 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 105 of Pub. L. 108–311, see Effective and Termination Dates of 2004 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c)(2)(B)(v) and (m), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+The date of the enactment of this clause, referred to in subsec. (c)(2)(B)(vi)(I), is the date of enactment of Pub. L. 108–311, which was approved Oct. 4, 2004.
 
 The United States Housing Act of 1937, referred to in subsec. (<i>l</i>)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
 
@@ -395,6 +349,18 @@ The Food Stamp Act of 1977, referred to in subsec. (<i>l</i>)(5), is Pub. L. 88�
 A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments
+
+2005—Subsec. (c)(2)(B)(vi)(II). Pub. L. 109–135 substituted “January 1, 2007” for “January 1, 2006”.
+
+2004—Subsec. (c)(1)(C) to (G). Pub. L. 108–311, §205(b)(1), redesignated subpars. (D) to (G) as (C) to (F), respectively, and struck out former subpar. (C) which related to 2 or more claiming qualifying child.
+
+Subsec. (c)(2)(B)(vi). Pub. L. 108–311, §§104(b), 105, temporarily added cl. (vi). See Effective and Termination Dates of 2004 Amendment note below.
+
+Subsec. (c)(3). Pub. L. 108–311, §205(a), amended par. (3) generally, substituting subpars. (A) to (D) for former subpars. (A) to (E), relating to qualifying child in general, relationship test, age requirements, identification requirements, and place of abode requirements.
+
+Subsec. (c)(4). Pub. L. 108–311, §205(b)(2), substituted “(3)(C)” for “(3)(E)”.
+
+Subsec. (m). Pub. L. 108–311, §205(b)(3), substituted “(c)(1)(E)” for “(c)(1)(F)”.
 
 2002—Subsec. (g)(2). Pub. L. 107–147 substituted “part” for “subpart”.
 
@@ -440,7 +406,7 @@ Subsec. (j)(2)(A). Pub. L. 107–16, §§303(a)(3), 901, temporarily substituted
 
 Subsec. (n). Pub. L. 107–16, §§201(c)(3), 901, temporarily struck out heading and text of subsec. (n), which had increased credit allowable under this section in the case of a taxpayer with respect to whom a child tax credit is allowed under section 24(a), described amount of increase, and set forth provisions relating to coordination with other credits allowable under this part. See Effective and Termination Dates of 2001 Amendment note below.
 
-I211999—Subsec. (c)(3)(B)(iii). Pub. L. 106–170 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
+1999—Subsec. (c)(3)(B)(iii). Pub. L. 106–170 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
 1998—Subsec. (c)(1)(F). Pub. L. 105–206, §6021(a), added introductory provisions and struck out former introductory provisions which read as follows: “The term ‘eligible individual’ does not include any individual who does not include on the return of tax for the taxable year—”.
 
@@ -566,7 +532,7 @@ Subsec. (i)(1). Pub. L. 103–66, §13131(c)(1), added par. (1) and struck out t
 
 &emsp;“(A) such dollar amount, multiplied by
 
-&emsp;“(B) the cost-of-living adjustment determined under section 1(f)(3), for the calendar year in whichthe taxable year begins, by substituting ‘calendar year 1984’ for ‘calendar year 1989’ in subparagraph (B) thereof.”
+&emsp;“(B) the cost-of-living adjustment determined under section 1(f)(3), for the calendar year in which the taxable year begins, by substituting ‘calendar year 1984’ for ‘calendar year 1989’ in subparagraph (B) thereof.”
 
 Subsec. (i)(2), (3). Pub. L. 103–66, §13131(c), redesignated par. (3) as (2) and struck out former par. (2) which defined terms for purposes of the inflation adjustment in par. (1).
 
@@ -678,9 +644,21 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–135, title III, §302(b), Dec. 21, 2005, 119 Stat. 2608, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
+
+#### Effective and Termination Dates of 2004 Amendment
+
+Pub. L. 108–311, title I, §104(c)(2), Oct. 4, 2004, 118 Stat. 1169, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 2004\].”
+
+Amendment by section 104(b) of Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title.
+
+Amendment by section 205 of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §416(a)(2), Mar. 9, 2002, 116 Stat. 55, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in section 474 of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
+Pub. L. 107–147, title IV, §416(a)(2), Mar. 9, 2002, 116 Stat. 55, provided that: “The amendment made by thissubsection \[amending this section\] shall take effect as if included in section 474 of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -768,7 +746,7 @@ Section 742(c) of Pub. L. 103–465 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 6109 of this title\] shall apply to returns for taxable years beginning after December 31, 1994.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 6109 of this title\] shall apply to returns for taxable years beginning after December 31, 1994.
 
 “(2)
 
@@ -794,7 +772,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by sections 104(b)(1)(B) and 111(a)–(d)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by sections 104(b)(1)(B) and 111(a)–(d)(1) of Pub. L. 99–514 applicable to taxable years beginningafter Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1272(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -840,21 +818,75 @@ Section 2(g) of Pub. L. 94–164, as amended by Pub. L. 94–455, §402(b), prov
 
 Section 209(b) of Pub. L. 94–12, as amended by Pub. L. 94–164, §2(f), Dec. 23, 1975, 89 Stat. 972; Pub. L. 94–455, title IV, §401(c)(1)(A), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–30, title I, §103(b), May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §103(a), Nov. 6, 1978, 92 Stat. 2771, provided that: “The amendments made by section 204 \[enacting this section and amending sections 6201 and 6401 of this title\] shall apply to taxable years beginning after December 31, 1974.”
 
+#### Study on Earned Income Tax Credit Certification Program
+
+Pub. L. 108–199, div. F, title II, §206, Jan. 23, 2004, 118 Stat. 319, provided that:
+
+“(a)
+
+Study.—The Internal Revenue Service shall conduct a study, as a part of any program that requires certification (including pre-certification) in order to claim the earned income tax credit under section 32 of the Internal Revenue Code of 1986, on the following matters:
+
+&emsp;“(1) The costs (in time and money) incurred by the participants in the program.
+
+&emsp;“(2) The administrative costs incurred by the Internal Revenue Service in operating the program.
+
+&emsp;“(3) The percentage of individuals included in the program who were not certified for the credit, including the percentage of individuals who were not certified due to—
+
+&emsp;&emsp;“(A) ineligibility for the credit; and
+
+&emsp;&emsp;“(B) failure to complete the requirements for certification.
+
+&emsp;“(4) The percentage of individuals to whom paragraph (3)(B) applies who were—
+
+&emsp;&emsp;“(A) otherwise eligible for the credit; and
+
+&emsp;&emsp;“(B) otherwise ineligible for the credit.
+
+&emsp;“(5) The percentage of individuals to whom paragraph (3)(B) applies who—
+
+&emsp;&emsp;“(A) did not respond to the request for certification; and
+
+&emsp;&emsp;“(B) responded to such request but otherwise failed to complete the requirements for certification.
+
+&emsp;“(6) The reasons—
+
+&emsp;&emsp;“(A) for which individuals described in paragraph (5)(A) did not respond to requests for certification; and
+
+&emsp;&emsp;“(B) for which individuals described in paragraph (5)(B) had difficulty in completing the requirements for certification.
+
+&emsp;“(7) The characteristics of those individuals who were denied the credit due to—
+
+&emsp;&emsp;“(A) failure to complete the requirements for certification; and
+
+&emsp;&emsp;“(B) ineligibility for the credit.
+
+&emsp;“(8) The impact of the program on non-English speaking participants.
+
+&emsp;“(9) The impact of the program on homeless and other highly transient individuals.
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+Preliminary report.—Not later than July 30, 2004, the Commissioner of the Internal Revenue Service shall submit to Congress a preliminary report on the study conducted under subsection (a).
+
+&emsp;“(2)
+
+Final report.—Not later than June 30, 2005, the Commissioner of the Internal Revenue Service shall submit to Congress a final report detailing the findings of the study conducted under subsection (a).”
+
 #### Program To Increase Public Awareness
 
 Secretary of the Treasury, or Secretary's delegate, to establish taxpayer awareness program to inform taxpaying public of availability of earned income credit and child health insurance under this section, see section 11114 of Pub. L. 101–508, set out as a note under section 21 of this title.
 
 #### Employee Notification
 
-Section 111(e) of Pub. L. 99–514 provided that: “The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who hasnot had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit.”
+Section 111(e) of Pub. L. 99–514 provided that: “The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit.”
 
 #### Disregard of Refund for Determination of Eligibility for Federal Benefits or Assistance
 
 Section 2(d) of Pub. L. 94–164, as amended by Pub. L. 94–455, title IV, §402(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–600, title I, §105(f), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any refund of Federal income taxes made to any individual by reason of section 43 \[now 32\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to earned income credit), and any payment made by an employer under section 3507 of such Code (relating to advance payment of earned income credit) shall not be taken into account in any year ending before 1980 as income or receipts for purposes of determining the eligibility, for the month in which such refund is made or any month thereafter of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds, but only if such individual (or the family unit of which he is a member) is a recipient of benefits or assistance under such a program for the month before the month in which such refund is made.”
 
 \[Section 105(g)(3) of Pub. L. 95–600 provided that: “Subsection (f) \[amending section 2(d) of Pub. L. 94–164, set out above\] shall take effect on the date of enactment of this Act \[Nov. 6, 1978\].”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 86, 129, 151, 995, 3507, 6051, 6211, 6213, 6695 of this title; title 2 section 905; title 42 sections 502, 653, 1382a, 1382b.
 

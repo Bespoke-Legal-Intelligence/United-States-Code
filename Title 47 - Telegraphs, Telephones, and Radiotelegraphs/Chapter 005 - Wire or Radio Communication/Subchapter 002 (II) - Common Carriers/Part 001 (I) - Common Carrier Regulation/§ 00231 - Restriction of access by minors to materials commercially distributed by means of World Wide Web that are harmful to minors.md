@@ -24,7 +24,7 @@ For purposes of subsection (a) of this section, a person shall not be considered
 
 &emsp;(3) a person engaged in the business of providing an Internet information location tool; or
 
-&emsp;(4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person's deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this sectionor section 230 of this title shall not constitute such selection or alteration of the content of the communication.
+&emsp;(4) similarly engaged in the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication made by another person, without selection or alteration of the content of the communication, except that such person's deletion of a particular communication or material made by another person in a manner consistent with subsection (c) of this section or section 230 of this title shall not constitute such selection or alteration of the content of the communication.
 
 #### (c) Affirmative defense
 
@@ -96,11 +96,11 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (6) Material that is harmful to minors
 
-&emsp;The term “material that is harmful to minors” means any communication, picture, image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—
+&emsp;The term “material that is harmful to minors” means any communication, picture,image, graphic image file, article, recording, writing, or other matter of any kind that is obscene or that—
 
 &emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, is designed to appeal to, or is designed to pander to, the prurient interest;
 
-&emsp;&emsp;(B) depicts, describes, or represents, in a manner patently offensive with respect tominors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+&emsp;&emsp;(B) depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
 &emsp;&emsp;(C) taken as a whole, lacks serious literary, artistic, political, or scientific value for minors.
 

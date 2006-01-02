@@ -60,7 +60,7 @@ Section 1428(a) of Pub. L. 100–418 provided that:
 
 &emsp;“(B) undertake negotiations with any foreign country that has entered into a free trade agreement with the United States under subtitle A \[§§1101 to 1125, of title I of Pub. L. 100–418, see Tables for classification\] or under section 102 of the Trade Act of 1974 \[19 U.S.C. 2112\] to obtain the consent of such country to the imposition of such a fee by the United States.
 
-“(2) In the report that is submitted under section 163 of the Trade Act of 1974 \[19 U.S.C. 2213\] for 1989 and 1990,the President shall include a statement on the progress of negotiations conducted under paragraph (1).
+“(2) In the report that is submitted under section 163 of the Trade Act of 1974 \[19 U.S.C. 2213\] for 1989 and 1990, the President shall include a statement on the progress of negotiations conducted under paragraph (1).
 
 “(3)(A) On the first day after the date of enactment of this Act \[Aug. 23, 1988\] on which the General Agreement on Tariffs and Trade allows any country to impose a fee described in paragraph (1), the President shall submit to the Congress, and publish in the Federal Register, a written statement certifying such allowance.
 

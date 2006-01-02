@@ -6,9 +6,11 @@ If—
 
 &emsp;(1) any dyed fuel is sold or held for sale by any person for any use which such person knows or has reason to know is not a nontaxable use of such fuel,
 
-&emsp;(2) any dyed fuel is held for use or used by any person for a use other than a nontaxable use and such person knew, or had reason to know, that such fuel was so dyed, or
+&emsp;(2) any dyed fuel is held for use or used by any person for a use other than a nontaxable use and such person knew, or had reason to know, that such fuel was so dyed,
 
-&emsp;(3) any person willfully alters, or attempts to alter, the strength or composition of any dye or marking done pursuant to section 4082 in any dyed fuel,
+&emsp;(3) any person willfully alters, chemically or otherwise, or attempts to so alter, the strength or composition of any dye or marking done pursuant to section 4082 in any dyed fuel, or
+
+&emsp;(4) any person who has knowledge that a dyed fuel which has been altered as described in paragraph (3) sells or holds for sale such fuel for any use which the person knows or has reason to know is not a nontaxable use of such fuel,
 
 > then such person shall pay a penalty in addition to the tax (if any).
 
@@ -42,13 +44,41 @@ For purposes of this section—
 
 If a penalty is imposed under this section on any business entity, each officer, employee, or agent of such entity who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
 
-(Added Pub. L. 103–66, title XIII, §13242(b)(1), Aug. 10, 1993, 107 Stat. 520, §6714; renumbered §6715, Pub. L. 104–188, title I, §1703(n)(9)(A), Aug. 20, 1996, 110 Stat. 1877; amended Pub. L. 105–34, title X, §1032(e)(11), Aug. 5, 1997, 111 Stat. 935.)
+#### (e) No administrative appeal for third and subsequent violations
+
+In the case of any person who is found to be subject to the penalty under this section after a chemical analysis of such fuel and who has been penalized under this section at least twice after the date of the enactment of this subsection, no administrative appeal or review shall be allowed with respect to such finding except in the case of a claim regarding—
+
+&emsp;(1) fraud or mistake in the chemical analysis, or
+
+&emsp;(2) mathematical calculation of the amount of the penalty.
+
+(Added Pub. L. 103–66, title XIII, §13242(b)(1), Aug. 10, 1993, 107 Stat. 520, §6714; renumbered §6715, Pub. L. 104–188, title I, §1703(n)(9)(A), Aug. 20, 1996, 110 Stat. 1877; amended Pub. L. 105–34, title X, §1032(e)(11), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §§855(a), 856(a), (b), Oct. 22, 2004, 118 Stat. 1616, 1617.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (e), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–357, §856(a), which directed amendment of par. (2) by striking “or”, was executed by striking “or” at the end.
+
+Subsec. (a)(3). Pub. L. 108–357, §856(b), substituted “alters, chemically or otherwise, or attempts to so alter,” for “alters, or attempts to alter,”.
+
+Pub. L. 108–357, §856(a), inserted “or” at end.
+
+Subsec. (a)(4). Pub. L. 108–357, §856(a), added par. (4).
+
+Subsec. (e). Pub. L. 108–357, §855(a), added subsec. (e).
 
 1997—Subsec. (c)(1). Pub. L. 105–34 inserted “or kerosene” after “diesel fuel”.
 
 1996—Pub. L. 104–188 renumbered section 6714 of this title as this section.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §855(b), Oct. 22, 2004, 118 Stat. 1616, provided that: “The amendment made by this section \[amending this section\] shall apply to penalties assessed after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title VIII, §856(c), Oct. 22, 2004, 118 Stat. 1617, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1997 Amendment
 

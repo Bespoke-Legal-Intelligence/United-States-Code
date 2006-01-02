@@ -71,7 +71,3 @@ Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 effective for taxable yea
 
 Section 214(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1969.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 170, 751 of this title.
-

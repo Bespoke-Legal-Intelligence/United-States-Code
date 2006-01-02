@@ -114,7 +114,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 &emsp;For purposes of this subsection, if—
 
-&emsp;&emsp;(A) a corporation acquired substantially all the assets of a qualified farming trade or business from another corporation in a transaction in which no gain or loss was recognized to the transferor or transferee corporation, or
+&emsp;&emsp;(A) a corporation acquired substantially all the assets of a qualified farming trade or business from another corporation in atransaction in which no gain or loss was recognized to the transferor or transferee corporation, or
 
 &emsp;&emsp;(B) a qualified partnership acquired substantially all the assets of a qualified farming trade or business from one of its partners in a transaction to which section 721 applies,
 
@@ -182,7 +182,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (3) Corporation must be engaged in farming
 
-&emsp;This subsection shall apply only in the case of a corporation which was, on October 4, 1976,and at all times thereafter, engaged in the trade or business of farming.
+&emsp;This subsection shall apply only in the case of a corporation which was, on October 4, 1976, and at all times thereafter, engaged in the trade or business of farming.
 
 #### (i) Suspense account for family corporations
 
@@ -270,7 +270,7 @@ Subsec. (i)(5), (6). Pub. L. 105–34 added par. (5) and redesignated former par
 
 1990—Subsec. (g)(1)(A). Pub. L. 101–508, §11702(b)(2), substituted “trade or business of farming” for “qualified farming trade or business”.
 
-Subsec. (g)(4)(B). Pub. L. 101–508, §11702(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘qualified farming trade or business’ means the trade or business of farming sugar cane.”
+Subsec. (g)(4)(B). Pub. L. 101–508, §11702(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘qualified farming tradeor business’ means the trade or business of farming sugar cane.”
 
 1988—Subsec. (b). Pub. L. 100–647, §1008(b)(5), substituted “period expenses” for “period of expenses” in heading and in text.
 
@@ -338,7 +338,7 @@ Section 10205(d) of Pub. L. 100–203 provided that: “The amendments made by t
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub.L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
 
@@ -448,11 +448,7 @@ Coordination with section 447 of the code.—A corporation which elects under su
 
 &emsp;“(C)
 
-Certain corporate reorganizations.—For purposes of this paragraph, if a corporation acquired substantially all the assets of a farming trade or business from another corporation in a transaction in which no gain or loss was recognized to the transferor or transferee corporation, the transferee corporation shall be deemed to have computed its taxable income on an annual accrual method of accounting together with a static value method of accounting for deferred costs of growing crops during the period for which the transferor corporation computed its taxable income from such trade or business on such accrual and static value method.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263A, 354, 4972 of this title.
+Certain corporate reorganizations.—For purposes of this paragraph, if a corporation acquired substantially all the assets of a farming trade or business from another corporation in a transaction in which no gain or loss was recognized to the transferor or transferee corporation, the transferee corporation shall be deemed to have computed its taxable incomeon an annual accrual method of accounting together with a static value method of accounting for deferred costs of growing crops during the period for which the transferor corporation computed its taxable income from such trade or business on such accrual and static value method.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -62,11 +62,13 @@ If the option price of a share of stock acquired by an individual pursuant to a 
 
 &emsp;(2) the excess of the fair market value of the share at the time the option was granted over the option price.
 
-> If the option price is not fixed or determinable at the time the option is granted, then for purposes of this subsection, the option price shall be determined as if the option were exercised at such time. In the case of the disposition of such share by the individual, the basis of the share in his hands at the time of such disposition shall be increased by an amount equal to the amount so includible in his gross income.
+> If the option price is not fixed or determinable at the time the option is granted, then for purposes of this subsection, the option price shall be determined as if the option were exercised at such time. In the case of the disposition of such share by the individual, the basis of the share in his hands at the time of such disposition shall be increased by an amount equal to the amount so includible in his gross income. No amount shall be required to be deducted and withheld under chapter 24 with respect to any amount treated as compensation under this subsection.
 
-(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 67; amended Pub. L. 94–455, title XIV, §1402(b)(1)(E), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 98–369, div. A, title X, §1001(b)(5), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title XI, §1114(b)(13), Oct. 22, 1986, 100 Stat. 2451; Pub. L. 101–508, title XI, §11801(c)(9)(D), (E), Nov. 5, 1990, 104 Stat. 1388–525.)
+(Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 67; amended Pub. L. 94–455, title XIV, §1402(b)(1)(E), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 98–369, div. A, title X, §1001(b)(5), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title XI, §1114(b)(13), Oct. 22, 1986, 100 Stat. 2451; Pub. L. 101–508, title XI, §11801(c)(9)(D), (E), Nov. 5, 1990, 104 Stat. 1388–525; Pub. L. 108–357, title II, §251(c), Oct. 22, 2004, 118 Stat. 1459.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–357 inserted at end of concluding provisions “No amount shall be required to be deducted and withheld under chapter 24 with respect to any amount treated as compensation under this subsection.”
 
 1990—Subsec. (a). Pub. L. 101–508, §11801(c)(9)(D)(i), struck out “(other than a restricted stock option granted pursuant to a plan described in section 424(c)(3)(B))” after “December 31, 1963”.
 
@@ -81,6 +83,10 @@ Subsec. (b)(3). Pub. L. 101–508, §11801(c)(9)(E), substituted “424(d)” fo
 1976—Subsec. (a)(1). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
 Pub. L. 94–455, §1402(b)(1)(E), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to stock acquired pursuant to options exercised after Oct. 22, 2004, see section 251(d) of Pub. L. 108–357, set out as a note under section 421 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -106,13 +112,9 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 421, 424, 1042, 6039 of this title.
 

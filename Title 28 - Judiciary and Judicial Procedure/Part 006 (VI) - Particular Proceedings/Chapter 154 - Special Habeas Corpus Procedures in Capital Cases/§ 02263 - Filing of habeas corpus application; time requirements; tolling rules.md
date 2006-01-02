@@ -10,7 +10,7 @@
 
 &emsp;(3) during an additional period not to exceed 30 days, if—
 
-&emsp;&emsp;(A) a motion for an extension of time is filed in the Federal district court that would have jurisdiction over the case upon the filing of a habeas corpus application under section 2254; and
+&emsp;&emsp;(A) a motion for an extension of time is filed in the Federal district court that wouldhave jurisdiction over the case upon the filing of a habeas corpus application under section 2254; and
 
 &emsp;&emsp;(B) a showing of good cause is made for the failure to file the habeas corpus application within the time period established by this section.
 

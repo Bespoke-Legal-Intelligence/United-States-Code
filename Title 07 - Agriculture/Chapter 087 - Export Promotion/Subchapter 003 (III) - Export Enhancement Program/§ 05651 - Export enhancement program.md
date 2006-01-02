@@ -42,7 +42,7 @@ The Commodity Credit Corporation shall carry out an export enhancement program i
 
 #### (7) Avoidance of preferential application
 
-&emsp;When using the authorities of this section to promote the exporting of wheat, the Secretary shall make reasonable efforts to avoid giving apreference to one class of wheat disproportionately more than another class.
+&emsp;When using the authorities of this section to promote the exporting of wheat, the Secretary shall make reasonable efforts to avoid giving a preference to one class of wheat disproportionately more than another class.
 
 #### (8) Displacement
 
@@ -96,7 +96,7 @@ Any price restrictions that otherwise may be applicable to dispositions of agric
 
 #### (f) Effect on third countries
 
-It is not the purpose of the program established under this section to affect adversely the exports of fairly traded agricultural commodities.
+It is not the purpose of the program established under this section to affect adversely theexports of fairly traded agricultural commodities.
 
 #### (g) Consistency with international obligations
 

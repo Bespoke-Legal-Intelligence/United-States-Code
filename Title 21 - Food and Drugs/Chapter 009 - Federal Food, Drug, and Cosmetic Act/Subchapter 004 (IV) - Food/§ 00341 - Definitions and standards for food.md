@@ -18,7 +18,7 @@ Section 3 of act Aug. 1, 1956, provided that: “In any case in which, prior to 
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Food Safety and Security Strategy
 
@@ -260,7 +260,7 @@ Ex. Ord. No. 13100, Aug. 25, 1998, 63 F.R. 45661, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve the safety of the food supply through science-based regulation and well-coordinated inspection, enforcement, research, and education programs, it is hereby ordered as follows:
 
-Section 1. <i>Establishment of President's Council on Food Safety</i>. (a) There is established the President's Council on Food Safety (“Council”). The Council shall comprise the Secretaries of Agriculture, Commerce, Health and Human Services, and Homeland Security, the Director of the Office of Management and Budget (OMB), the Administrator of the Environmental Protection Agency, the Assistant to the President for Science and Technology/Director of the Office of Science and TechnologyPolicy, the Assistant to the President for Domestic Policy, and the Director of the National Partnership for Reinventing Government. The Council shall consult with other Federal agencies and State, local, and tribal government agencies, and consumer, producer, scientific, and industry groups, as appropriate.
+Section 1. <i>Establishment of President's Council on Food Safety</i>. (a) There is established the President's Council on Food Safety (“Council”). The Council shall comprise the Secretaries of Agriculture, Commerce, Health and Human Services, and Homeland Security, the Director of the Office of Management and Budget (OMB), the Administrator of the Environmental Protection Agency, the Assistant to the President for Science and Technology/Director of the Office of Science and Technology Policy, the Assistant to the President for Domestic Policy, and the Director of the National Partnership for Reinventing Government. The Council shall consult with other Federal agencies and State, local, and tribal government agencies, and consumer, producer, scientific, and industry groups, as appropriate.
 
 (b) The Secretaries of Agriculture and of Health and Human Services and the Assistant to the President for Science and Technology/Director of the Office of Science and Technology Policy shall serve as Joint Chairs of the Council.
 

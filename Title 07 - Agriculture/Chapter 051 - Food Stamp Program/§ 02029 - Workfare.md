@@ -14,7 +14,7 @@ A household member shall be exempt from workfare requirements imposed under this
 
 &emsp;(1) exempt from section 2015(d)(1) of this title as the result of clause (B), (C), (D), (E), or (F) of section 2015(d)(2) of this title;
 
-&emsp;(2) at the option of the operating agency, subject to and currently actively and satisfactorily participating at least 20 hours a week in a work activity required under title IV of the Social Security Act (42 U.S.C. 601 et seq.);
+&emsp;(2) at the option of the operating agency, subject to and currently actively and satisfactorily participating at least 20 hours a week ina work activity required under title IV of the Social Security Act (42 U.S.C. 601 et seq.);
 
 &emsp;(3) mentally or physically unfit;
 
@@ -26,7 +26,7 @@ A household member shall be exempt from workfare requirements imposed under this
 
 #### (c) Valuation or duration of work
 
-No operating agency shall require any participating member to work in any workfare position to the extent that such work exceeds in value the allotment to which the household is otherwise entitled or that such work, when added to any other hours worked during such week by such member for compensation (in cash or inkind) in any other capacity, exceeds thirty hours a week.
+No operating agency shall require any participating member to work in any workfare position to the extent that such work exceeds in value the allotment to which the household is otherwise entitled or that such work, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week.
 
 #### (d) Nature, conditions, and costs of work
 

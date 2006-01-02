@@ -6,7 +6,7 @@ In carrying out this part, the Research Commissioner shall—
 
 &emsp;(1) ensure that all research conducted under the direction of the Research Center follows scientifically based research standards;
 
-&emsp;(2) develop such other standards as may be necessary to govern the conduct and evaluation of all research, development, and widedissemination activities carried out by the Research Center to assure that such activities meet the highest standards of professional excellence;
+&emsp;(2) develop such other standards as may be necessary to govern the conduct and evaluation of all research, development, and wide dissemination activities carried out by the Research Center to assure that such activities meet the highest standards of professional excellence;
 
 &emsp;(3) review the procedures utilized by the National Institutes of Health, the National Science Foundation, and other Federal departments or agencies engaged in research and development, and actively solicit recommendations from research organizations and members of the general public in the development of the standards described in paragraph (2); and
 

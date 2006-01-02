@@ -32,7 +32,3 @@ The following substitutions are made: “spent” for “expended”; “United 
 
 1996—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2343 of this title.
-

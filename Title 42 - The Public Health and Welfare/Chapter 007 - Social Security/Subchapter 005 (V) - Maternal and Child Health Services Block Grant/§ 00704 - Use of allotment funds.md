@@ -34,7 +34,7 @@ A State may use a portion of the amounts described in subsection (a) of this sec
 
 Of the amounts paid to a State under section 703 of this title from an allotment for a fiscal year under section 702(c) of this title, not more than 10 percent may be used for administering the funds paid under such section.
 
-(Aug. 14, 1935, ch. 531, title V, §504, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 821; amended Pub. L. 99–272, title IX, §9527(e),Apr. 7, 1986, 100 Stat. 219; Pub. L. 100–93, §8(a), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §4118(e)(12), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 796, and amended Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–239, title VI, §6503(a), (c)(2), (4), Dec. 19, 1989, 103 Stat. 2276, 2278.)
+(Aug. 14, 1935, ch. 531, title V, §504, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 821; amended Pub. L. 99–272, title IX, §9527(e), Apr. 7, 1986, 100 Stat. 219; Pub. L. 100–93, §8(a), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §4118(e)(12), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 796, and amended Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–239, title VI, §6503(a), (c)(2), (4), Dec. 19, 1989, 103 Stat. 2276, 2278.)
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) National inventory
 
-Not later than one year after October 24, 1992, the Secretary, through the Energy Information Administration, shall develop, based on data available to, and obtained by, the Energy Information Administration, an inventory of the national aggregate emissions of each greenhouse gas for each calendar year of the baseline periodof 1987 through 1990. The Administrator of the Energy Information Administration shall annually update and analyze such inventory using available data. This subsection does not provide any new data collection authority.
+Not later than one year after October 24, 1992, the Secretary, through the Energy Information Administration, shall develop, based on data available to, and obtained by, the Energy Information Administration, an inventory of the national aggregate emissions of each greenhouse gas for each calendar year of the baseline period of 1987 through 1990. The Administrator of the Energy Information Administration shall annually update and analyze such inventory using available data. This subsection does not provide any new data collection authority.
 
 #### (b) Voluntary reporting
 
@@ -32,7 +32,7 @@ Not later than one year after October 24, 1992, the Secretary, through the Energ
 
 #### (2) Reporting procedures
 
-&emsp;The Administrator of the Energy Information Administration shall develop forms for voluntary reporting under the guidelines established under paragraph (1), and shall make such forms available to entities wishing to report such information. Persons reporting under this subsection shall certify the accuracy of the information reported.
+&emsp;The Administrator of the Energy Information Administration shall develop forms forvoluntary reporting under the guidelines established under paragraph (1), and shall make such forms available to entities wishing to report such information. Persons reporting under this subsection shall certify the accuracy of the information reported.
 
 #### (3) Confidentiality
 

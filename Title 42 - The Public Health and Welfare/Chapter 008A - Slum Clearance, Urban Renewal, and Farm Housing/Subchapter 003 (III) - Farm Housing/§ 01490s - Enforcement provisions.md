@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may, after notice and opportunity for a hearing, impose a civil monetary penalty in accordance with this subsection against any individual or entity, including its owners, officers, directors, general partners, limited partners, or employees, who knowingly and materially violate, or participate in the violation of, the provisions of this subchapter, the regulations issued by the Secretary pursuant to this subchapter, or agreements made in accordance with this subchapter, by—
+&emsp;The Secretary may, after notice and opportunity for a hearing, impose a civil monetary penalty in accordance with this subsectionagainst any individual or entity, including its owners, officers, directors, general partners, limited partners, or employees, who knowingly and materially violate, or participate in the violation of, the provisions of this subchapter, the regulations issued by the Secretary pursuant to this subchapter, or agreements made in accordance with this subchapter, by—
 
 &emsp;&emsp;(A) submitting information to the Secretary that is false;
 

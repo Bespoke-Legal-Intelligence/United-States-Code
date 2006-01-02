@@ -26,7 +26,7 @@ The Secretary of State is authorized to—
 
 &emsp;&emsp;(i) United States Government employees and their dependents; and
 
-&emsp;&emsp;(ii) private United States citizens or third-country nationals, on a reimbursable basis to the maximum extent practicable, with such reimbursements to be credited to theapplicable Department of State appropriation and to remain available until expended, except that no reimbursement under this clause shall be paid that is greater than the amount the person evacuated would have been charged for a reasonable commercial air fare immediately prior to the events giving rise to the evacuation;
+&emsp;&emsp;(ii) private United States citizens or third-country nationals, on a reimbursable basis to the maximum extent practicable, with such reimbursements to be credited to the applicable Department of State appropriation and to remain available until expended, except that no reimbursement under this clause shall be paid that is greater than the amount the person evacuated would have been charged for a reasonable commercial air fare immediately prior to the events giving rise to the evacuation;
 
 &emsp;(B) loans made to destitute citizens of the United States who are outside the United States and made to provide for the return to the United States of its citizens;
 

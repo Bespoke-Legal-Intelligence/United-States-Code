@@ -54,7 +54,7 @@ Interest on overpayments.—For purposes of section 6611(b) in the case of any o
 
 &emsp;&emsp;“(i) the date on which application for refund or credit of such overpayment is filed,
 
-&emsp;&emsp;“(ii) the due date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 of the Internal Revenue Code of1986 for the taxable year the tax of which is being refunded or credited, or
+&emsp;&emsp;“(ii) the due date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 of the Internal Revenue Code of 1986 for the taxable year the tax of which is being refunded or credited, or
 
 &emsp;&emsp;“(iii) the date of the enactment of this Act \[Oct. 2, 1976\].
 
@@ -65,8 +65,4 @@ Extension of period of limitations.—If any refund or credit of tax attributabl
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–713 effective Nov. 2, 1966, see section 6 of Pub. L. 89–713, set out as a note under section 6091 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6161, 6166, 6324A of this title.
 

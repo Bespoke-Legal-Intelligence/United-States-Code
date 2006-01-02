@@ -2,7 +2,7 @@
 
 Within two years from November 10, 1978, the Secretary shall submit, in writing, to the House Committee on Interior and Insular Affairs, the Senate Committee on Energy and Natural Resources and the Committees on Appropriations of the United States Congress, a detailed plan which shall indicate—
 
-&emsp;(i) the lands and areas which he deems essential to the protection and public enjoyment ofthe natural, scenic, and historic values and objects of this national river;
+&emsp;(i) the lands and areas which he deems essential to the protection and public enjoyment of the natural, scenic, and historic values and objects of this national river;
 
 &emsp;(ii) the lands which he has previously acquired by purchase, donation, exchange, or transfer for the purpose of this national river;
 

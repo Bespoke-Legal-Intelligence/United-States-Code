@@ -32,7 +32,7 @@ Pub. L. 91–375 inserted “or by the Postal Service,” after “Post Office D
 
 #### Change of Name
 
-Post Office Department redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(<i>o</i>), Aug. 12,1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
+Post Office Department redesignated United States Postal Service pursuant to Pub. L. 91–375, §6(<i>o</i>), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1970 Amendment
 

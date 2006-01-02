@@ -2,7 +2,7 @@
 
 (a) The Chief of the Bureau of Naval Personnel shall be known as the Chief of Naval Personnel. The Chief of Naval Personnel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years, from officers on the active-duty list in the line of the Navy not below the grade of commander.
 
-(b) The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel. An officer on the active-duty list in the line of the Navy not below the grade of commander may be detailed as Deputy Chief of Naval Personnel.
+(b) The Deputy Chief of the Bureau of Naval Personnel shall be known as the Deputy Chief of Naval Personnel. An officer on the active-dutylist in the line of the Navy not below the grade of commander may be detailed as Deputy Chief of Naval Personnel.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 287; Pub. L. 96–513, title V, §503(11), Dec. 12, 1980, 94 Stat. 2912.)
 

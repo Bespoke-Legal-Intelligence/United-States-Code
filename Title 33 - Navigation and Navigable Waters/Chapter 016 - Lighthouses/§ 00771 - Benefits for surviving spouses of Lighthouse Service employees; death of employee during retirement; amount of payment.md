@@ -22,7 +22,7 @@ Pub. L. 90–163 substituted “$100 per month” for “$75 per month”.
 
 #### Effective Date of 1967 Amendments
 
-Section 2 of Pub. L. 90–167 provided that: “No payment shall be made by reason of the amendments made by this section \[amending this section and section 772 of this title\] for any period prior to the first day of thefirst month following the month in which this Act is enacted \[Nov. 29, 1967\].”
+Section 2 of Pub. L. 90–167 provided that: “No payment shall be made by reason of the amendments made by this section \[amending this section and section 772 of this title\] for any period prior to the first day of the first month following the month in which this Act is enacted \[Nov. 29, 1967\].”
 
 Section 1 of Pub. L. 90–163 provided that the amendment made by that section is effective on the first day of the month following Nov. 29, 1967.
 

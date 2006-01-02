@@ -118,7 +118,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 <i>(1) in subsection (b), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”; and</i>
 
-<i>(2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28,</i><i>1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.</i>
+<i>(2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.</i>
 
 #### Amendments
 
@@ -172,7 +172,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
 
 &emsp;&emsp;“(B) entering into bilateral and multilateral treaties with such countries to protect such species;
 
-&emsp;“(3) seek agreements calling for an international ban on shark-finning and other fishing practices adversely affecting these species through the United Nations, the Food and Agriculture Organization's Committee on Fisheries, and appropriate regional fishery management bodies;
+&emsp;“(3) seek agreements calling for an international ban on shark-finning and other fishing practices adversely affecting these species through the United Nations, the Food and Agriculture Organization'sCommittee on Fisheries, and appropriate regional fishery management bodies;
 
 &emsp;“(4) initiate the amendment of any existing international treaty for the protection and conservation of species of sharks to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section;
 
@@ -210,7 +210,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, provided that:
 
 #### “SEC. 8. WESTERN PACIFIC LONGLINE FISHERIES COOPERATIVE RESEARCH PROGRAM.
 
-“The National Marine Fisheries Service, in consultation with the Western Pacific Fisheries ManagementCouncil, shall initiate a cooperative research program with the commercial longlining industry to carry out activities consistent with this Act, including research described in section 7 of this Act. The service \[Service\] may initiate such shark cooperative research programs upon the request of any other fishery management council.
+“The National Marine Fisheries Service, in consultation with the Western Pacific Fisheries Management Council, shall initiate a cooperative research program with the commercial longlining industry to carry out activities consistent with this Act, including research described in section 7 of this Act. The service \[Service\] may initiate such shark cooperative research programs upon the request of any other fishery management council.
 
 #### “SEC. 9. SHARK-FINNING DEFINED.
 
@@ -256,7 +256,7 @@ Regulations.—The Secretary of Commerce shall, within 180 days after the date o
 
 “(e)
 
-Report Required.—The Secretary of Commerce, after consultation with the Secretary of the Treasury, shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], submit to the Congress a report—
+Report Required.—The Secretary of Commerce, after consultation with the Secretary of the Treasury,shall, within 180 days after the date of enactment of this Act \[Nov. 28, 1990\], submit to the Congress a report—
 
 &emsp;“(1) making recommendations as to the need for the adoption of United States import and export restrictions on anadromous fish and anadromous fish products consistent with subsection (a); and
 
@@ -320,7 +320,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Commerce.
 
 “(a)
 
-Negotiations.—The Secretary, through the Secretary of State and in consultation with the Secretary of the Interior, shall immediately initiate, negotiationswith each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for statistically reliable cooperative monitoring and assessment of the numbers of marine resources of the United States killed and retrieved, discarded, or lost by the foreign government's driftnet fishing vessels. Such agreements shall provide for—
+Negotiations.—The Secretary, through the Secretary of State and in consultation with the Secretary of the Interior, shall immediately initiate, negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for statistically reliable cooperative monitoring and assessment of the numbers of marine resources of the United States killed and retrieved, discarded, or lost by the foreign government's driftnet fishing vessels. Such agreements shall provide for—
 
 &emsp;“(1) the use of a sufficient number of vessels from which scientists of the United States and the foreign governments may observe and gather statistically reliable information; and
 
@@ -372,7 +372,7 @@ Negotiations.—The Secretary shall immediately initiate, through the Secretary 
 
 “(b)
 
-Certification for Purposes of Fishermen's Protective Act of 1967.—If the Secretary, in consultation with the Secretary of State, determines that a foreign government has failed, within 18 months after the date of the enactment of this Act \[Dec. 29, 1987\], to enter into and implement an agreement under subsection (a) or section 4004(a) that is adequate, the Secretary shall certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 8(a) of the Fishermen's Protective Act of 1967 (22 U.S.C. 1978(a)).
+Certification for Purposes of Fishermen's Protective Act of 1967.—If the Secretary, in consultation with the Secretary of State, determines that a foreign government has failed, within 18 months after thedate of the enactment of this Act \[Dec. 29, 1987\], to enter into and implement an agreement under subsection (a) or section 4004(a) that is adequate, the Secretary shall certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 8(a) of the Fishermen's Protective Act of 1967 (22 U.S.C. 1978(a)).
 
 #### “SEC. 4007. EVALUATIONS AND RECOMMENDATIONS.
 

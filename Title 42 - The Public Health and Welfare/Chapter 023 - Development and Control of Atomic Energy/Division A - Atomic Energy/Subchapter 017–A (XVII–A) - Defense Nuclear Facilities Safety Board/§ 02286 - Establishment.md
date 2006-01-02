@@ -108,7 +108,7 @@ Comments on Report.—Before submission of the report to Congress under subsecti
 
 “(c)
 
-Submission to Congress.—Not later than six months after the date of the enactment of this Act\[Nov. 18, 1997\], the Board shall provide to Congress an interim report on the status of the implementation of this section. Not later than one year after the date of the enactment of this Act, and not earlier than 30 days after receipt of comments from the Secretary of Energy and the Nuclear Regulatory Commission under subsection (b), the Board shall submit to Congress the report required under subsection (a).
+Submission to Congress.—Not later than six months after the date of the enactment of this Act \[Nov. 18, 1997\], the Board shall provide to Congress an interim report on the status of the implementation of this section. Not later than one year after the date of the enactment of this Act, and not earlier than 30 days after receipt of comments from the Secretary of Energy and the Nuclear Regulatory Commission under subsection (b), the Board shall submit to Congress the report required under subsection (a).
 
 “(d)
 

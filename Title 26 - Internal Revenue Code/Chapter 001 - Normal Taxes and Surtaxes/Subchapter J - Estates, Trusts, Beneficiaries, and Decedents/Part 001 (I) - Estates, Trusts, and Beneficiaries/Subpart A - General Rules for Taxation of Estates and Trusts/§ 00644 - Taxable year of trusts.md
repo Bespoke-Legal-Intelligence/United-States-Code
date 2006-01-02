@@ -48,7 +48,3 @@ Pub. L. 100–647, title I, §1014(c), Nov. 10, 1988, 102 Stat. 3559, provided t
 
 “(4) If any trust was required to change its taxable year by the amendments made by section 1403 of the Reform Act \[Pub. L. 99–514, which enacted this section\], such change shall be treated as initiated by such trust and approved by the Secretary of the Treasury or his delegate.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 706 of this title.
-

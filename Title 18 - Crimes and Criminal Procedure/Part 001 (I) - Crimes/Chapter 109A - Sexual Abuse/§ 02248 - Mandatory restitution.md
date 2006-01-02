@@ -10,7 +10,7 @@ Scope and Nature of Order.—
 
 &emsp;(1)
 
-Directions.—The order of restitution under this section shall direct the defendantto pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court pursuant to paragraph (2).
+Directions.—The order of restitution under this section shall direct the defendant to pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court pursuant to paragraph (2).
 
 &emsp;(2)
 

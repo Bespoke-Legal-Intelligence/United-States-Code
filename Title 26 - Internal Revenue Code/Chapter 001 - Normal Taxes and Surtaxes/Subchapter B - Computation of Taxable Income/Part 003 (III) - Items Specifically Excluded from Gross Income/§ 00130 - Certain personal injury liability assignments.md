@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any amount received for agreeing to a qualified assignment shall not be included in grossincome to the extent that such amount does not exceed the aggregate cost of any qualified funding assets.
+Any amount received for agreeing to a qualified assignment shall not be included in gross income to the extent that such amount does not exceed the aggregate cost of any qualified funding assets.
 
 #### (b) Treatment of qualified funding asset
 
@@ -75,8 +75,4 @@ Section 1002(b) of Pub. L. 99–514 provided that: “The amendment made by this
 #### Effective Date
 
 Section 101(c) of Pub. L. 97–473 provided that: “The amendments made by this section \[enacting this section and amending section 104 of this title\] shall apply to taxable years ending after December 31, 1982.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 72, 5891 of this title.
 

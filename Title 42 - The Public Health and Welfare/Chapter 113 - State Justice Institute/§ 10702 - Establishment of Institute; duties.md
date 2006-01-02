@@ -62,7 +62,7 @@ Pub. L. 102–527, Oct. 27, 1992, 106 Stat. 3459, provided that:
 
 &emsp;“(1) collect nationwide and analyze information regarding—
 
-&emsp;&emsp;“(A) the admissibility and quality of expert testimony on the experiences of battered women offeredas part of the defense in criminal cases under State law, and
+&emsp;&emsp;“(A) the admissibility and quality of expert testimony on the experiences of battered women offered as part of the defense in criminal cases under State law, and
 
 &emsp;&emsp;“(B) sources of, and methods to obtain, funds to pay costs incurred to provide such testimony, particularly in cases involving indigent women defendants,
 

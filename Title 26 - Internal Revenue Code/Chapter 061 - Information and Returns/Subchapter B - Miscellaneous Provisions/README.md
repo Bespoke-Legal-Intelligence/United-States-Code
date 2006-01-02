@@ -22,8 +22,8 @@
 | :--- | ---: |
 | [6109\.](%C2%A7%2006109%20-%20Identifying%20numbers.md) | Identifying numbers. |
 | [6110\.](%C2%A7%2006110%20-%20Public%20inspection%20of%20written%20determinations.md) | Public inspection of written determinations. |
-| [6111\.](%C2%A7%2006111%20-%20Registration%20of%20tax%20shelters.md) | Registration of tax shelters. |
-| [6112\.](%C2%A7%2006112%20-%20Organizers%20and%20sellers%20of%20potentially%20abusive%20tax%20shelters%20must%20keep%20lists%20of%20investors.md) | Organizers and sellers of potentially abusive tax shelters must keep lists of investors. |
+| [6111\.](%C2%A7%2006111%20-%20Disclosure%20of%20reportable%20transactions.md) | Disclosure of reportable transactions. |
+| [6112\.](%C2%A7%2006112%20-%20Material%20advisors%20of%20reportable%20transactions%20must%20keep%20lists%20of%20advisees%2C%20etc.md) | Material advisors of reportable transactions must keep lists of advisees, etc. |
 | [6113\.](%C2%A7%2006113%20-%20Disclosure%20of%20nondeductibility%20of%20contributions.md) | Disclosure of nondeductibility of contributions. |
 | [6114\.](%C2%A7%2006114%20-%20Treaty-based%20return%20positions.md) | Treaty-based return positions. |
 | [6115\.](%C2%A7%2006115%20-%20Disclosure%20related%20to%20quid%20pro%20quo%20contributions.md) | Disclosure related to quid pro quo contributions. |
@@ -32,6 +32,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §815(b)(1), (4), Oct. 22, 2004, 118 Stat. 1582, 1583, substituted “Disclosure of reportable transactions” for “Registration of tax shelters” in item 6111 and “Material advisors of reportable transactions must keep lists of advisees, etc.” for “Organizers and sellers of potentially abusive tax shelters must keep lists of investors” in item 6112.
 
 2000—Pub. L. 106–554, §1(a)(7) \[title III, §304(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, added item 6105.
 
@@ -70,8 +72,8 @@
 - [&sect; 06108 - Statistical publications and studies](%C2%A7%2006108%20-%20Statistical%20publications%20and%20studies.md)
 - [&sect; 06109 - Identifying numbers](%C2%A7%2006109%20-%20Identifying%20numbers.md)
 - [&sect; 06110 - Public inspection of written determinations](%C2%A7%2006110%20-%20Public%20inspection%20of%20written%20determinations.md)
-- [&sect; 06111 - Registration of tax shelters](%C2%A7%2006111%20-%20Registration%20of%20tax%20shelters.md)
-- [&sect; 06112 - Organizers and sellers of potentially abusive tax shelters must keep lists of investors](%C2%A7%2006112%20-%20Organizers%20and%20sellers%20of%20potentially%20abusive%20tax%20shelters%20must%20keep%20lists%20of%20investors.md)
+- [&sect; 06111 - Disclosure of reportable transactions](%C2%A7%2006111%20-%20Disclosure%20of%20reportable%20transactions.md)
+- [&sect; 06112 - Material advisors of reportable transactions must keep lists of advisees, etc](%C2%A7%2006112%20-%20Material%20advisors%20of%20reportable%20transactions%20must%20keep%20lists%20of%20advisees%2C%20etc.md)
 - [&sect; 06113 - Disclosure of nondeductibility of contributions](%C2%A7%2006113%20-%20Disclosure%20of%20nondeductibility%20of%20contributions.md)
 - [&sect; 06114 - Treaty-based return positions](%C2%A7%2006114%20-%20Treaty-based%20return%20positions.md)
 - [&sect; 06115 - Disclosure related to quid pro quo contributions](%C2%A7%2006115%20-%20Disclosure%20related%20to%20quid%20pro%20quo%20contributions.md)

@@ -16,7 +16,7 @@ The Secretary shall carry out this section in consultation with the Administrato
 
 #### (d) Report
 
-The Secretary shall include with the budget justification materials submitted to Congress insupport of the Department of Energy budget for fiscal year 2005 (as submitted with the budget of the President under section 1105(a) of title 31) a report on the policy that the Secretary plans to have in effect under subsection (a) as of October 1, 2005. The report shall specify the officers and responsibilities referred to in subsection (a).
+The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for fiscal year 2005 (as submitted with the budget of the President under section 1105(a) of title 31) a report on the policy that the Secretary plans to have in effect under subsection (a) as of October 1, 2005. The report shall specify the officers and responsibilities referred to in subsection (a).
 
 (Pub. L. 108–136, div. C, title XXXI, §3132, Nov. 24, 2003, 117 Stat. 1750.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Development of procedures
 
-Not later than 180 days after October 28, 1991, each department, agency, or other entity of theUnited States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
+Not later than 180 days after October 28, 1991, each department, agency, or other entity of the United States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
 
 &emsp;(1) to coordinate with the State Department's Office of the Historian in selecting records for possible inclusion in the FRUS series;
 
@@ -30,5 +30,5 @@ Not later than 180 days after October 28, 1991, each department, agency, or othe
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, seesection 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

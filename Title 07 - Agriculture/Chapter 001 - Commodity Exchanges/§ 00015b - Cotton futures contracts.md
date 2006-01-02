@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) Cotton futures contract
 
-&emsp;The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.
+&emsp;The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contractmarket” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.
 
 #### (2) Future delivery
 
@@ -70,11 +70,11 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (D) Provision for settlement on basis of actual commercial differences
 
-&emsp;&emsp;Provide that in case cotton of grade other than the basis grade be tendered or delivered in settlement of such contract, the differences above or below the contract price which the receiver shall pay for such grades other than the basis grade shall be the actual commercial differences, determined as here-inafter provided.
+&emsp;&emsp;Provide that in case cotton of grade other than the basis grade be tendered or delivered in settlement of such contract, the differences above or below the contract price which the receiver shall pay for such grades other than the basis grade shall be the actual commercial differences, determined as hereinafter provided.
 
 #### (E) Prohibition of delivery of inferior cotton
 
-&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the officialcotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cotton that is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
+&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cotton that is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade
 

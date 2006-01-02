@@ -14,7 +14,7 @@ The Secretary of Health and Human Services (in this section referred to as the �
 
 &emsp;&emsp;(i) information that may assist individuals in obtaining benefits and filing claims under this subchapter and subchapter XIX of this chapter;
 
-&emsp;&emsp;(ii) policy comparison information for medicare supplemental policies (as described in section 1395ss(g)(1) of this title) and information that may assist individuals in filing claims under such medicare supplemental policies;
+&emsp;&emsp;(ii) policy comparison information for medicare supplemental policies (as describedin section 1395ss(g)(1) of this title) and information that may assist individuals in filing claims under such medicare supplemental policies;
 
 &emsp;&emsp;(iii) information regarding long-term care insurance; and
 
@@ -130,7 +130,7 @@ Subsec. (g). Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1994 Amendment
 

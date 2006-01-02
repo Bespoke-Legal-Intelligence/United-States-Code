@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2004, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $10,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $5,000.
+Bonus Authorized.—(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2006, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $10,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $5,000.
 
 (2) In addition to the accession bonus payable under paragraph (1), a person selected under such paragraph shall be entitled to a monthly stipend of not more than $1,000 for each month the individual is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution by the Secretary selecting the person. The continuation bonus may be paid for not more than 24 months.
 
@@ -10,7 +10,7 @@ Bonus Authorized.—(1) A person described in subsection (b) who, during the per
 
 Eligible Students.—A person eligible to enter into an agreement under subsection (a) is a person who—
 
-&emsp;(1) is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution that does not have a Senior Reserve Officers’ Training Program established under section 2102 of this title by the Secretary selecting the person or that has a Senior Reserve Officers’ Training Program for which the student is ineligible;
+&emsp;(1) is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution that does not have a Senior Reserve Officers’ Training Program established under section 2102 of this title by the Secretary selecting theperson or that has a Senior Reserve Officers’ Training Program for which the student is ineligible;
 
 &emsp;(2) has completed the second year of an accredited baccalaureate degree program in nursing and has more than 6 months of academic work remaining before graduation; and
 
@@ -34,25 +34,21 @@ Required Agreement.—The agreement referred to in subsection (a) shall provide 
 
 (d)
 
-Refund of Payments.—(1) A person shall refund any bonus or stipend paid under subsection (a) if the person—
-
-&emsp;(A) fails to complete a nursing degree program in which the person is enrolled in accordance with the agreement entered into under such subsection;
-
-&emsp;(B) having completed the nursing degree program, fails to accept an appointment, if tendered, as an officer of the Nurse Corps of theArmy or the Navy or as an officer designated as a nurse officer of the Air Force or commissioned corps of the Public Health Service; or
-
-&emsp;(C) fails to complete the period of obligated active service required under the agreement.
-
-(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after November 29, 1989.
+Repayment.—A person who does not complete a nursing degree program in which the person is enrolled in accordance with the agreement entered into under subsection (a), or having completed the nursing degree program, does not become an officer in the Nurse Corps of the Army or the Navy or an officer designated as a nurse officer of the Air Force or commissioned corps of the Public Health Service or does not complete the period of obligated active service required under the agreement, shall be subject to the repayment provisions of section 303a(e) of title 37.
 
 (e)
 
 Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(a), title XV, §1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, §612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §622(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, §538, title VI, §612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(a), Nov. 24, 2003, 117 Stat. 1501.)
+(Added Pub. L. 101–189, div. A, title VII, §707(a), Nov. 29, 1989, 103 Stat. 1474; amended Pub. L. 101–510, div. A, title VI, §613(c), title XIV, §1484(d)(1), Nov. 5, 1990, 104 Stat. 1577, 1716; Pub. L. 102–190, div. A, title VI, §612(c)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(h), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(a), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(a), title XV, §1501(c)(23), Feb. 10, 1996, 110 Stat. 359, 499; Pub. L. 104–201, div. A, title VI, §612(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(a), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(a), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §622(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title V, §538, title VI, §612(a), Dec. 28, 2001, 115 Stat. 1107, 1135; Pub. L. 107–314, div. A, title VI, §§612(a), 615(h), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(a), 687(c)(6), Jan. 6, 2006, 119 Stat. 3294, 3334.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163, §622(a), substituted “December 31, 2006” for “December 31, 2005”.
+
+Subsec. (d). Pub. L. 109–163, §687(c)(6), amended heading and text of subsec. (d) generally. Prior to amendment, text related to persons required to refund accession bonuses or stipends in par. (1), treatment of a reimbursement obligation as a debt owed to the United States in par. (2), and the effect of a discharge in bankruptcy in par. (3).
+
+2004—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
 2003—Subsec. (a)(1). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
 
@@ -99,6 +95,10 @@ Subsec. (d)(3). Pub. L. 101–510, §1484(d)(1)(B), substituted “November 29, 
 #### Effective Date of 1996 Amendment
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
 #### Application of Increase
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment as independent agency
 
-The Export-Import Bank of the United States shall constitute an independent agency of the United States and neither the Bank nor any of its functions, powers, or duties shall be transferred to or consolidated with any other department, agency, or corporation of the Government unless the Congress shall otherwise by law provide.
+The Export-Import Bank of the United States shall constitute an independent agency of the United States and neither the Bank nor any of its functions, powers, or duties shall be transferred to or consolidated with any other department, agency, or corporation of the Governmentunless the Congress shall otherwise by law provide.
 
 #### (b) President and First Vice President of the Bank; appointment; duties
 
@@ -64,7 +64,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (1) No director, officer, attorney, agent, or employee of the Bank shall in any manner, directly or indirectly, participate in the deliberation upon or the determination of any question affecting such individual's personal interests, or the interests of any corporation, partnership or association in which such individual is directly or indirectly personally interested.
 
-(2) The General Counsel of the Bank shall ensure that the directors, officers, and employees of the Bank have available appropriate legal counsel for advice on, and oversight of, issues relating to personnel matters and other administrative law matters by designating an attorney to serve as Assistant General Counsel for Administration, whose duties, under the supervision of the General Counsel, shall be concerned solely or primarily with such issues.
+(2) The General Counsel of the Bank shall ensure that the directors, officers, and employees of the Bank have available appropriate legal counsel for advice on, and oversight of, issues relating to personnel matters and other administrative law matters by designating an attorney to serve as Assistant General Counsel forAdministration, whose duties, under the supervision of the General Counsel, shall be concerned solely or primarily with such issues.
 
 (July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709.)
 
@@ -146,9 +146,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 108–447, div. D, title I, Dec. 8, 2004, 118 Stat. 2969, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2005.”\]
+\[Pub. L. 109–102, title I, Nov. 14, 2005, 119 Stat. 2173, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2006.”\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 108–447, div. D, title I, Dec. 8, 2004, 118 Stat. 2969.
 
 \[Pub. L. 108–199, div. D, title I, Jan. 23, 2004, 118 Stat. 143.
 
@@ -228,9 +230,9 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 #### Sec. 8. Effective Date
 
-Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
+Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Directorfirst appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director ofthe Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 

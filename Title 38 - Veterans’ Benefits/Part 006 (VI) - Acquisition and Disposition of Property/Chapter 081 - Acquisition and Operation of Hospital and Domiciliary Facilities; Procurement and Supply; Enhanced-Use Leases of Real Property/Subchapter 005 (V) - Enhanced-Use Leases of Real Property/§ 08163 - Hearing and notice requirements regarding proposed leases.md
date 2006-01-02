@@ -8,7 +8,7 @@
 
 &emsp;(3) services to veterans in the community.
 
-(b) Before conducting such a hearing, the Secretary shall provide reasonable notice to the congressional veterans’ affairs committees and to the public of the proposed lease and of the hearing. The notice shall include the following:
+(b) Before conducting such a hearing, the Secretary shall provide reasonable notice to thecongressional veterans’ affairs committees and to the public of the proposed lease and of the hearing. The notice shall include the following:
 
 &emsp;(1) The time and place of the hearing.
 
@@ -64,7 +64,7 @@
 
 &emsp;(G) A summary of a cost-benefit analysis of the proposed lease.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, titleII, §208(c), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–419, title II, §241, title IV, §404(b)(1), Nov. 1, 2000, 114 Stat. 1847, 1865; Pub. L. 108–170, title II, §202(a), (d)(1), Dec. 6, 2003, 117 Stat. 2047, 2048.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, title II, §208(c), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–419, title II, §241, title IV, §404(b)(1), Nov. 1, 2000, 114 Stat. 1847, 1865; Pub. L. 108–170, title II, §202(a), (d)(1), Dec. 6, 2003, 117 Stat. 2047, 2048.)
 
 #### Amendments
 

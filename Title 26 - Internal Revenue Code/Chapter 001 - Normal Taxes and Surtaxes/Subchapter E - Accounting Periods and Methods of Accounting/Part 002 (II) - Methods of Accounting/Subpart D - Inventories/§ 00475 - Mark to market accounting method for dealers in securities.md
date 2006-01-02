@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) is a hedge with respect to such a security, and
 
-&emsp;&emsp;&emsp;(iii) is clearly identified in the dealer's records as being described in this subparagraph before the close of the day on whichit was acquired or entered into (or such other time as the Secretary may by regulations prescribe).
+&emsp;&emsp;&emsp;(iii) is clearly identified in the dealer's records as being described in this subparagraph before the close of the day on which it was acquired or entered into (or such other time as the Secretary may by regulations prescribe).
 
 > &emsp;Subparagraph (E) shall not include any contract to which section 1256(a) applies.
 
@@ -363,8 +363,4 @@ Qualified security.—For purposes of this paragraph, the term ‘qualified secu
 &emsp;&emsp;&emsp;“(II) the taxpayer is registered as a market maker in such security with the National Association of Security Dealers, and
 
 &emsp;&emsp;&emsp;“(III) as of the last day of the taxable year preceding the taxpayer's first taxable year ending on or after December 31, 1993, the taxpayer (or any predecessor) has been actively and regularly engaged as a market maker in such security for the 2-year period ending on such date (or, if shorter, the period beginning 61 days after the security was listed in such quotation system and ending on such date).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 860L, 954, 956, 988, 1291 of this title.
 

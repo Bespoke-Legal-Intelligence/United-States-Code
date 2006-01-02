@@ -2,7 +2,7 @@
 
 (a) Not later than six months after the Board of Actuaries is first appointed, the Board shall determine the amount that is the present value (as of October 1, 1984) of future benefits payable from the Fund that are attributable to service in the armed forces performed before October 1, 1984. That amount is the original unfunded liability of the Fund. The Board shall determine the period of time over which the original unfunded liability should be liquidated and shall determine an amortization schedule for the liquidation of such liability over that period. Contributions to the Fund for the liquidation of the original unfunded liability in accordance with such schedule shall be made as provided in section 1466(b) of this title.
 
-(b)(1) The Secretary of Defense shall determine each year, in sufficient time for inclusionin budget requests for the following fiscal year, the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1466(a) of this title. That amount shall be the sum of the following:
+(b)(1) The Secretary of Defense shall determine each year, in sufficient time for inclusion in budget requests for the following fiscal year, the total amount of Department of Defense contributions to be made to the Fund during that fiscal year under section 1466(a) of this title. That amount shall be the sum of the following:
 
 &emsp;(A) The product of—
 
@@ -22,9 +22,9 @@
 
 (c)(1) Not less often than every four years, the Secretary of Defense shall carry out an actuarial valuation of Department of Defense military retirement and survivor benefit programs. Each actuarial valuation of such programs shall include—
 
-&emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only), to be determined without regard to section 1413, 1413a, or 1414 of this title; and
+&emsp;(A) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only), to be determined without regard to section 1413a or 1414 of this title; and
 
-&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A), to be determined without regard to section 1413, 1413a, or 1414 of this title.
+&emsp;(B) a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) for members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described by subparagraph (A), to be determined without regard to section 1413a or 1414 of this title.
 
 > Such single level percentages shall be used for the purposes of subsection (b)(1) and section 1466(a) of this title.
 
@@ -34,19 +34,19 @@
 
 (4) Whenever the Secretary carries out an actuarial valuation under paragraph (1), the Secretary shall include as part of such valuation the following:
 
-&emsp;(A) A determination of a single level percentage determined in the same manner as applies under subparagraph (A) of paragraph (1), but based only upon the provisions of sections 1413, 1413a, and 1414 of this title.
+&emsp;(A) A determination of a single level percentage determined in the same manner as applies under subparagraph (A) of paragraph (1), but based only upon the provisions of sections 1413a and 1414 of this title.
 
-&emsp;(B) A determination of a single level percentage determined in the same manner as applies under subparagraph (B) of paragraph (1), but based only upon the provisions of sections 1413, 1413a, and 1414 of this title.
+&emsp;(B) A determination of a single level percentage determined in the same manner as applies under subparagraph (B) of paragraph (1), but based only upon the provisions of sections 1413a and 1414 of this title.
 
 > Such single level percentages shall be used for the purposes of subsection (b)(3).
 
-(5) Contributions to the Fund in accordance with amortization schedules under paragraphs\(2) and (3) shall be made as provided in section 1466(b) of this title.
+(5) Contributions to the Fund in accordance with amortization schedules under paragraphs (2) and (3) shall be made as provided in section 1466(b) of this title.
 
 (d) All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 
 (e) The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 646; amended Pub. L. 98–525, title XIV, §1405(28), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–500, §101(c) \[title IX, §9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–128; Pub. L. 99–661, div. A, title VI, §661(a), Nov. 14, 1986, 100 Stat. 3891; Pub. L. 108–136, div. A, title VI, §641(c)(3), (4), Nov. 24, 2003, 117 Stat. 1515.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 646; amended Pub. L. 98–525, title XIV, §1405(28), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–500, §101(c) \[title IX, §9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–128; Pub. L. 99–661, div. A, title VI, §661(a), Nov. 14, 1986, 100 Stat. 3891; Pub. L. 108–136, div.A, title VI, §641(c)(3), (4), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062.)
 
 #### Codification
 
@@ -55,6 +55,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on section 642 of S. 2638, Ninety-ninth Congress, as passed by the Senate on Aug. 9, 1986, which was enacted into permanent law by Pub. L. 99–500 and Pub. L. 99–591. S. 2638 was subsequently enacted as Pub. L. 99–661.
 
 #### Amendments
+
+2004—Subsec. (c)(1)(A), (B), (4)(A), (B). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
 2003—Subsec. (b)(3). Pub. L. 108–136, §641(c)(3), added par. (3).
 
@@ -87,8 +89,4 @@ Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enact
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1464, 1466 of this title.
 

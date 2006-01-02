@@ -60,7 +60,7 @@ Military installation.—The term “military installation” has the meaning gi
 
 &emsp;&emsp;(B)
 
-Base closure law.—The term “base closure law” has the meaning given that term in section 2667(h)(2) of title 10.
+Base closure law.—The term “base closure law” has the meaning given that term in section 101(a)(17) of title 10.
 
 &emsp;(2)
 
@@ -110,7 +110,7 @@ Availability of amount deposited.—To the extent provided in an appropriation l
 
 Report.—As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made. The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105; Pub. L. 108–447, div. H, title IV, §408, Dec. 8, 2004, 118 Stat. 3258.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105; Pub. L. 108–447, div. H, title IV, §408, Dec. 8, 2004, 118 Stat. 3258; Pub. L. 109–13, div. A, title VI, §6068, May 11, 2005, 119 Stat. 299; Pub. L. 109–163, div. A, title X, §1056(a)(5)(B), Jan. 6, 2006, 119 Stat. 3439.)
 
 Historical and Revision Notes
 
@@ -138,5 +138,9 @@ In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 
 
 #### Amendments
 
-2004—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, which directed the amendment of subsec. (a)(2)(ii) of this section by inserting “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period, was executed to subsec. (a)(2)(A)(ii), to reflect the probable intent of Congress.
+2006—Subsec. (b)(1)(B). Pub. L. 109–163 substituted “section 101(a)(17) of title 10” for “section 2667(h)(2) of title 10”.
+
+2005—Subsec. (a)(2)(A)(ii). Pub. L. 109–13 made technical correction to directory language of Pub. L. 108–447, §408. See 2004 Amendment note below.
+
+2004—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, §408, as amended by Pub. L. 109–13, inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
 

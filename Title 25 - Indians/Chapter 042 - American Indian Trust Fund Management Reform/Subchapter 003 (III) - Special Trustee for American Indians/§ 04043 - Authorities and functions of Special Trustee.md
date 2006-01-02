@@ -26,7 +26,7 @@
 
 #### (A) Monitor reconciliation of trust accounts
 
-&emsp;&emsp;The Special Trustee shall monitor the reconciliation of tribal and Individual Indian Money trust accounts to ensure that the Bureau provides the account holders, with a fair and accurate accounting of all trust accounts.
+&emsp;&emsp;The Special Trustee shall monitor the reconciliation of tribal and Individual Indian Money trust accounts to ensure that the Bureau provides the account holders, with afair and accurate accounting of all trust accounts.
 
 #### (B) Investments
 
@@ -186,7 +186,7 @@ Duties.—The Commission shall analyze the system of the Bureau of Indian Affair
 
 &emsp;“(2) to eliminate any backlog of requests for title status reports; and
 
-&emsp;“(3) to ensure that the administration of the system will not in any way impair or restrict the ability of Native Americans to obtain conventional loans forpurchase of residences located on Indian trust lands, including any actions necessary to ensure that the system will promptly be able to meet future demands for certified title status reports, taking into account the anticipated complexity and volume of such requests.
+&emsp;“(3) to ensure that the administration of the system will not in any way impair or restrict the ability of Native Americans to obtain conventional loans for purchase of residences located on Indian trust lands, including any actions necessary to ensure that the system will promptly be able to meet future demands for certified title status reports, taking into account the anticipated complexity and volume of such requests.
 
 “(e)
 
@@ -198,7 +198,7 @@ Powers.—
 
 &emsp;“(1)
 
-Hearings and sessions.—The Commission may, for the purpose of carrying out this section, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
+Hearings and sessions.—The Commission may, for the purpose of carrying out this section,hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
 
 &emsp;“(2)
 

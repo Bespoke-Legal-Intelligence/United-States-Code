@@ -12,7 +12,7 @@ After the approval of a comprehensive enhancement plan, the State of Washington,
 
 &emsp;&emsp;(C) a projection of the expected impacts on each type of commercial, recreational and treaty Indian fishing;
 
-&emsp;(3) evidence that the State of Washington, the State of Oregon, or the treaty tribe, acting through its chosen agency or agencies, has obtained or is likely to obtain any necessary titles to, interests in rights-of-way over, or licenses covering the use of the relevant land;
+&emsp;(3) evidence that the State of Washington, the State of Oregon, or the treaty tribe, acting through its chosen agency or agencies, has obtained or is likely to obtain any necessarytitles to, interests in rights-of-way over, or licenses covering the use of the relevant land;
 
 &emsp;(4) an analysis of, and supporting data for, the economic and biological integrity and viability of the project;
 

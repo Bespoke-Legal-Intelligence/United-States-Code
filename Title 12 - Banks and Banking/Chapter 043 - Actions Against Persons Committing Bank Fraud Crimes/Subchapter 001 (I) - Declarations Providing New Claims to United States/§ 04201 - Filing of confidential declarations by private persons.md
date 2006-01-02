@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person may file a declaration of a violation giving rise to an action for civil penaltiesunder section 1833a of this title affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States.
+Any person may file a declaration of a violation giving rise to an action for civil penalties under section 1833a of this title affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States.
 
 #### (b) Place of filing
 

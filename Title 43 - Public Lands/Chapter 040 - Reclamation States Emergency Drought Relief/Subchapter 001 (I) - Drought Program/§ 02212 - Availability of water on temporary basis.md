@@ -12,7 +12,7 @@ In order to mitigate losses and damages resulting from drought conditions, the S
 
 #### (2) Ownership and acreage limitations
 
-&emsp;Lands not subject to Reclamation law that receive temporary irrigation water supplies under temporary contracts under this sectionshall not become subject to the ownership and acreage limitations or pricing provisions of Federal Reclamation law because of the delivery of such temporary water supplies. Lands that are subject to the ownership and acreage limitations of Federal Reclamation law shall not be exempted from those limitations because of the delivery of such temporary water supplies.
+&emsp;Lands not subject to Reclamation law that receive temporary irrigation water supplies under temporary contracts under this section shall not become subject to the ownership and acreage limitations or pricing provisions of Federal Reclamation law because of the delivery of such temporary water supplies. Lands that are subject to the ownership and acreage limitations of Federal Reclamation law shall not be exempted from those limitations because of the delivery of such temporary water supplies.
 
 #### (3) Treatment under Reclamation Reform Act of 1982
 
@@ -20,7 +20,7 @@ In order to mitigate losses and damages resulting from drought conditions, the S
 
 #### (4) Amendments of existing contracts
 
-&emsp;Any amendment to an existing contract to allow a contractor to carry out the provisions of this subchapter shall not be considered a new and supplemental benefit for purposes of the Reclamation Reform Act of 1982 (Public Law 97–293) \[43 U.S.C. 390aa et seq.\].
+&emsp;Any amendment to an existing contract to allow a contractor to carry out the provisions of this subchapter shall not be considered anew and supplemental benefit for purposes of the Reclamation Reform Act of 1982 (Public Law 97–293) \[43 U.S.C. 390aa et seq.\].
 
 #### (c) Contract price
 

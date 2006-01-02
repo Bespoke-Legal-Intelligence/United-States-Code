@@ -92,7 +92,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (2) Civil money penalties for intentional violations
 
-&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has intentionally failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, or to exercise proper credit or underwriting judgment, the Secretary may impose a civil money penalty onsuch lender or holder in the manner and amount provided under section 536 of the National Housing Act \[12 U.S.C. 1735f–14\] with respect to mortgagees and lenders under such Act.
+&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has intentionally failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, or to exercise proper credit or underwriting judgment, the Secretary may impose a civil money penalty on such lender or holder in the manner and amount provided under section 536 of the National Housing Act \[12 U.S.C. 1735f–14\] with respect to mortgagees and lenders under such Act.
 
 #### (3) Payment on loans made in good faith
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (4) Investment
 
-&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess of amounts currently required to carry out thissection may be invested in obligations of the United States.
+&emsp;Any amounts in the Guarantee Fund determined by the Secretary to be in excess ofamounts currently required to carry out this section may be invested in obligations of the United States.
 
 #### (5) Limitation on commitments to guarantee loans and mortgages
 

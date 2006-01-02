@@ -64,7 +64,3 @@ Section 806 of Pub. L. 98–115 provided that:
 
 Amounts of $300,000 or more for contracts for architectural and engineering services or construction design subject to the reporting requirement under this section during the period beginning on Oct. 1, 1982, and ending on the date of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(2) of Pub. L. 97–214, set out as a note under section 2828 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 114, 2687 of this title.
-

@@ -28,7 +28,7 @@
 
 #### (C) Certain deductions treated as amortization
 
-&emsp;&emsp;Any deduction allowable under section 179, 179A, 190, or 193 shall be treated as if it were a deduction allowable for amortization.
+&emsp;&emsp;Any deduction allowable under section 179, 179A, 179B, 179C, 179D, 181, 190, 193, or 194 shall be treated as if it were a deduction allowable for amortization.
 
 #### (3) Section 1245 property
 
@@ -44,39 +44,13 @@
 
 &emsp;&emsp;&emsp;(iii) constituted a facility used in connection with any of the activities referred to in clause (i) for the bulk storage of fungible commodities (including commodities in a liquid or gaseous state),
 
-&emsp;&emsp;(C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179A, 185,<sup>1</sup> 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,<sup>2</sup>
+&emsp;&emsp;(C) so much of any real property (other than any property described in subparagraph (B)) which has an adjusted basis in which there are reflected adjustments for amortization under section 169, 179, 179A, 179B, 179C, 179D, 185,<sup>1</sup> 188 (as in effect before its repeal by the Revenue Reconciliation Act of 1990), 190, 193, or 194,<sup>2</sup>
 
 &emsp;&emsp;(D) a single purpose agricultural or horticultural structure (as defined in section 168(i)(13)),
 
 &emsp;&emsp;(E) a storage facility (not including a building or its structural components) used in connection with the distribution of petroleum or any primary product of petroleum, or
 
 &emsp;&emsp;(F) any railroad grading or tunnel bore (as defined in section 168(e)(4)).
-
-#### (4) Special rule for player contracts
-
-#### (A) In general
-
-&emsp;&emsp;For purposes of this section, if a franchise to conduct any sports enterprise is sold or exchanged, and if, in connection with such sale or exchange, there is a transfer of any player contracts, the recomputed basis of such player contracts in the hands of the transferor shall be the adjusted basis of such contracts increased by the greater of—
-
-&emsp;&emsp;&emsp;(i) the previously unrecaptured depreciation with respect to player contracts acquired by the transferor at the time of acquisition of such franchise, or
-
-&emsp;&emsp;&emsp;(ii) the previously unrecaptured depreciation with respect to the player contracts involved in such transfer.
-
-#### (B) Previously unrecaptured depreciation with respect to initial contracts
-
-&emsp;&emsp;For purposes of subparagraph (A)(i), the term “previously unrecaptured depreciation” means the excess (if any) of—
-
-&emsp;&emsp;&emsp;(i) the sum of the deduction allowed or allowable to the taxpayer transferor for the depreciation attributable to periods after December 31, 1975, of any player contracts acquired by him at the time of acquisition of such franchise, plus the deduction allowed or allowable for losses incurred after December 31, 1975, with respect to such player contracts acquired at the time of such acquisition, over
-
-&emsp;&emsp;&emsp;(ii) the aggregate of the amounts described in clause (i) treated as ordinary income by reason of this section with respect to prior dispositions of such player contracts acquired upon acquisition of the franchise.
-
-#### (C) Previously unrecaptured depreciation with respect to contracts transferred
-
-&emsp;&emsp;For purposes of subparagraph (A)(ii), the term “previously unrecaptured depreciation” means the amount of any deduction allowed or allowable to the taxpayer transferor for the depreciation of any contracts involved in such transfer.
-
-#### (D) Player contract
-
-&emsp;&emsp;For purposes of this paragraph, the term “player contract” means any contract for the services of an athlete which, in the hands of the taxpayer, is of a character subject to the allowance for depreciation provided in section 167.
 
 #### (b) Exceptions and limitations
 
@@ -90,7 +64,7 @@
 
 #### (3) Certain tax-free transactions
 
-&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a)(1) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (7), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a)(1) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (6), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
 
 #### (4) Like kind exchanges; involuntary conversions, etc.
 
@@ -100,11 +74,7 @@
 
 &emsp;&emsp;(B) the fair market value of property acquired which is not section 1245 property and which is not taken into account under subparagraph (A).
 
-#### (5) Section 1081 transactions
-
-&emsp;Under regulations prescribed by the Secretary, rules consistent with paragraphs (3) and (4) of this subsection shall apply in the case of transactions described in section 1081 (relating to exchanges in obedience to SEC orders).
-
-#### (6) Property distributed by a partnership to a partner
+#### (5) Property distributed by a partnership to a partner
 
 #### (A) In general
 
@@ -118,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(ii) the amount of such gain to which section 751(b) applied.
 
-#### (7) Transfers to tax-exempt organization where property will be used in unrelated business
+#### (6) Transfers to tax-exempt organization where property will be used in unrelated business
 
 #### (A) In general
 
@@ -128,9 +98,19 @@
 
 &emsp;&emsp;If any property with respect to the disposition of which gain is not recognized by reason of subparagraph (A) ceases to be used in an unrelated trade or business of the organization acquiring such property, such organization shall be treated for purposes of this section as having disposed of such property on the date of such cessation.
 
-#### (8) Timber property
+#### (7) Timber property
 
 &emsp;In determining, under subsection (a)(2), the recomputed basis of property with respect to which a deduction under section 194 was allowed for any taxable year, the taxpayer shall not take into account adjustments under section 194 to the extent such adjustments are attributable to the amortizable basis of the taxpayer acquired before the 10th taxable year preceding the taxable year in which gain with respect to the property is recognized.
+
+#### (8) Disposition of amortizable section 197 intangibles
+
+#### (A) In general
+
+&emsp;&emsp;If a taxpayer disposes of more than 1 amortizable section 197 intangible (as defined in section 197(c)) in a transaction or a series of related transactions, all such amortizable 197 intangibles shall be treated as 1 section 1245 property for purposes of this section.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any amortizable section 197 intangible (as so defined) with respect to which the adjusted basis exceeds the fair market value.
 
 #### (c) Adjustments to basis
 
@@ -140,7 +120,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to provi
 
 This section shall apply notwithstanding any other provision of this subtitle.
 
-(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097.)
+(Added Pub. L. 87–834, §13(a)(1), Oct. 16, 1962, 76 Stat. 1032; amended Pub. L. 88–272, title II, §203(d), Feb. 26, 1964, 78 Stat. 35; Pub. L. 91–172, title II, §212(a)(1), (2), title VII, §704(b)(4), Dec. 30, 1969, 83 Stat. 571, 670; Pub. L. 92–178, title I, §104(a)(2), title III, §303(c)(1), (2), Dec. 10, 1971, 85 Stat. 501, 522; Pub. L. 94–81, §2(a), Aug. 9, 1975, 89 Stat. 417; Pub. L. 94–455, title II, §212(b)(1), title XIX, §§1901(a)(140), (b)(3)(K), (11)(D), 1906(b) (13)(A), 1951(c)(2)(C), title XXI, §§2122(b)(3), 2124(a)(2), Oct. 4, 1976, 90 Stat. 1546, 1787, 1793, 1795, 1834, 1840, 1915, 1917; Pub. L. 95–600, title VII, §701(f)(3)(A), (B), (w)(1), (2), Nov. 6, 1978, 92 Stat. 2901, 2920; Pub. L. 96–223, title II, §251(a)(2)(C), Apr. 2, 1980, 94 Stat. 287; Pub. L. 96–451, title III, §301(c)(1), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 97–34, title II, §§201(b), 202(b), 204(a)–(d), 212(d)(2)(F), Aug. 13, 1981, 95 Stat. 218, 220, 222, 223, 239; Pub. L. 97–448, title I, §102(e)(2)(B), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title I, §111(e)(5), (10), July 18, 1984, 98 Stat. 633; Pub. L. 99–121, title I, §103(b)(1)(D), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §201(d)(11), Oct. 22, 1986, 100 Stat. 2141; Pub. L. 100–647, title I, §1002(i)(2)(I), Nov. 10, 1988, 102 Stat. 3371; Pub. L. 101–239, title VII, §7622(b)(2)\[(d)(2)\], Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §§11704(a)(13), 11801(c)(6)(E), (8)(H), 11813(b)(21), Nov. 5, 1990, 104 Stat. 1388–518, 1388–524, 1388–555; Pub. L. 103–66, title XIII, §13261(f)(4), (5), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–7, §2(b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1703(n)(6), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title XVI, §1604(a)(3), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(5), title VIII, §886(b)(2), Oct. 22, 2004, 118 Stat. 1481, 1641; Pub. L. 109–58, title XIII, §§1323(b)(1), 1331(b)(2), 1363(a), Aug. 8, 2005, 119 Stat. 1014, 1024, 1060; Pub. L. 109–135, title IV, §§402(a)(6), 403(e)(2), (i)(2), Dec. 21, 2005, 119 Stat. 2610, 2623, 2625.)
 
 #### References in Text
 
@@ -149,6 +129,28 @@ Section 185 of this title, referred to in subsec. (a)(3)(C), was repealed by Pub
 The Revenue Reconciliation Act of 1990, referred to in subsec. (a)(3)(C), is title XI of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–400. Section 11801(a)(13) of the Act repealed section 188 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (a)(2)(C). Pub. L. 109–135, §403(e)(2), (i)(2), inserted “181,” after “179B,” and substituted “193, or 194” for “or 193”.
+
+Pub. L. 109–58, §1331(b)(2), inserted “179D,” after “179C,”.
+
+Pub. L. 109–58, §1323(b)(1), inserted “179C,” after “179B,”.
+
+Subsec. (a)(3)(C). Pub. L. 109–58, §1331(b)(2), inserted “179D,” after “179C,”.
+
+Pub. L. 109–58, §1323(b)(1), inserted “179C,” after “179B,”.
+
+Subsec. (b)(3). Pub. L. 109–135, §402(a)(6)(B), substituted “paragraph (6)” for “paragraph (7)”.
+
+Subsec. (b)(5) to (8). Pub. L. 109–135, §402(a)(6)(A), redesignated pars. (6) to (9) as (5) to (8), respectively, and struck out heading and text of former par. (5). Text read as follows: “Under regulations prescribed by the Secretary, rules consistent with paragraphs (3) and (4) of this subsection shall apply in the case of transactions described in section 1081 (relating to exchanges in obedience to SEC orders).”
+
+Subsec. (b)(9). Pub. L. 109–135, §402(a)(6)(A), redesignated par. (9) as (8).
+
+Pub. L. 109–58, §1363(a), added par. (9).
+
+2004—Subsec. (a)(2)(C), (3)(C). Pub. L. 108–357, §338(b)(5), inserted “179B,” after “179A,”.
+
+Subsec. (a)(4). Pub. L. 108–357, §886(b)(2), struck out par. (4) which related to special rule for player contracts if a franchise to conduct any sports enterprise is sold or exchanged.
 
 1997—Subsec. (a)(2)(C), (3)(C). Pub. L. 105–34 inserted “179A,” after “179,”.
 
@@ -250,6 +252,24 @@ Subsec. (a)(3). Pub. L. 91–172, §§212(a)(2), 704(b)(4)(C)–(F), struck out 
 
 1964—Subsec. (a)(2), (3)(C). Pub. L. 88–272 redefined “recomputed basis” with respect to elevators or escalators in par. (2), and inserted subpar. (C) in par. (3).
 
+#### Effective Date of 2005 Amendments
+
+Amendment by section 402(a)(6) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+
+Amendments by section 403(e)(2), (i)(2) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+Amendment by section 1323(b)(1) of Pub. L. 109–58 applicable to properties placed in service after Aug. 8, 2005, see section 1323(c) of Pub. L. 109–58, set out as an Effective Date note under section 179C of this title.
+
+Amendment by section 1331(b)(2) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
+
+Pub. L. 109–58, title XIII, §1363(b), Aug. 8, 2005, 119 Stat. 1060, provided that: “The amendment made by this section \[amending this section\] shall apply to dispositions of property after the date of the enactment of this Act \[Aug. 8, 2005\].”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 338(b)(5) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
+
+Amendment by section 886(b)(2) of Pub. L. 108–357 applicable to franchises acquired after Oct. 22, 2004, see section 886(c)(2) of Pub. L. 108–357, set out as a note under section 197 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 effective as if included in the amendments made by section 1913 of the Energy Policy Act of 1992, Pub. L. 102–486, see section 1604(a)(4) of Pub. L. 105–34, set out as a note under section 263 of this title.
@@ -268,7 +288,7 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(21) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(21) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -298,7 +318,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 201(b), 202(b), and 204(a)–(d) of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by sections 201(b), 202(b), and 204(a)–(d) of Pub. L. 97–34 applicable to property placed in serviceafter Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 Amendment by section 212(d)(2)(F) of Pub. L. 97–34 applicable to expenditures incurred after Dec. 31, 1981, in taxable years ending after such date, see section 212(e) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
@@ -318,7 +338,7 @@ Section 701(w)(3) of Pub. L. 95–600 provided that: “The amendments made by t
 
 Section 212(b)(2) of Pub. L. 94–455 provided that: “The amendment made by this subsection \[amending this section\] applies to transfers of player contracts in connection with any sale or exchange of a franchise after December 31, 1975.”
 
-Amendment by section 1901(a)(140), (b)(3)(K), (11)(D) of Pub. L. 94–455 effective for taxable years beginningafter Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(140), (b)(3)(K), (11)(D) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(c)(2)(C) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 
@@ -352,11 +372,7 @@ Section 13(g) of Pub. L. 87–834 provided that: “The amendments made by this 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by sections 11801 and 11813 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 50, 108, 168, 169, 170, 179, 179A, 198, 263A, 291, 453, 465, 467, 512, 613, 617, 751, 861, 1017, 1250, 1252, 1255, 1257, 1276, 1400B of this title.
+For provisions that nothing in amendment by sections 11801 and 11813 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

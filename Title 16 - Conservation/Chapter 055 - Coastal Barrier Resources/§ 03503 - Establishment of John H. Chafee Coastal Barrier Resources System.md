@@ -44,7 +44,7 @@ The Secretary may add a parcel of real property to the System, if—
 
 The Secretary shall—
 
-&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
+&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) of this section and of each parcel of real property added to the System under subsection (d) or (e) of this section on file and available for public inspection in the Office of the Director of the United States Fish andWildlife Service and in such other offices of the Service as the Director considers appropriate;
 
 &emsp;(2) provide a copy of the map to—
 
@@ -222,7 +222,7 @@ References.—Any reference in a law, map, regulation, document, paper, or other
 
 #### Revision of Maps for Units of System
 
-The following acts directed the Secretary of the Interior to make technical revisions and corrections tomaps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
+The following acts directed the Secretary of the Interior to make technical revisions and corrections to maps relating to particular units of the John H. Chafee Coastal Barrier Resources System:
 
 Pub. L. 108–380, §1, Oct. 30, 2004, 118 Stat. 2210.
 
@@ -344,11 +344,11 @@ Effective date of modifications.—A modification of the boundaries of a unit of
 
 #### Pacific Coastal Barrier Protection Study and Maps
 
-Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to preparemaps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C. 3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
+Section 6 of Pub. L. 101–591 directed Secretary of the Interior, not later than 6 months after Nov. 16, 1990, to prepare and submit to Congress a study examining the need for protecting undeveloped coastal barriers along the Pacific coast of the United States south of 49 degrees north latitude through inclusion in the System; as soon as practicable after Nov. 16, 1990, to prepare maps identifying the boundaries of those undeveloped coastal barriers (as that term is defined in 16 U.S.C. 3502(1)) of the United States bordering the Pacific Ocean south of 49 degrees north latitude; and, not later than 12 months after Nov. 16, 1990, to submit to Congress maps identifying the boundaries of those undeveloped coastal barriers of the United States bordering the Pacific Ocean south of 49 degrees north latitude which the Secretary and the appropriate Governor consider to be appropriate for inclusion in the System.
 
 #### Report Regarding Coastal Barrier Management
 
-Pub. L. 101–591, §8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission of the report, was repealed by Pub. L. 106–514, §4(b), Nov. 13, 2000, 114 Stat. 2396.
+Pub. L. 101–591, §8, Nov. 16, 1990, 104 Stat. 2937, which established the Coastal Barriers Task Force, provided for its membership, required the Task Force to submit a report to Congress regarding the Coastal Barrier Resources System not later than the expiration of the 2-year period beginning on Nov. 16, 1990, and required the Task Force to terminate 90 days after submission ofthe report, was repealed by Pub. L. 106–514, §4(b), Nov. 13, 2000, 114 Stat. 2396.
 
 #### Definitions
 

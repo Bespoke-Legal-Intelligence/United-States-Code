@@ -86,7 +86,3 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 Section applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 64(e) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under section 172 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
-

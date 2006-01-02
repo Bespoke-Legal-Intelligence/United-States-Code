@@ -52,7 +52,7 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 #### (4) Consultation required
 
-&emsp;The Secretary shall consult with the Board in advance whenever the Secretary establishes or changes, or considers the establishment ofor a change to, quality and handling standards for peanuts.
+&emsp;The Secretary shall consult with the Board in advance whenever the Secretary establishes or changes, or considers the establishment of or a change to, quality and handling standards for peanuts.
 
 #### (5) Federal Advisory Committee Act
 

@@ -10,7 +10,3 @@ Any person who forcibly rescues or causes to be rescued any property after it sh
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 855.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6531, 7601 of this title.
-

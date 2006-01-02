@@ -10,7 +10,7 @@
 
 #### (B) Authorized sales or assignments
 
-&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\]and the jurisdiction of the Commission under such Act shall not apply by reason of any sale of natural gas—
+&emsp;&emsp;For purposes of section 1(b) of the Natural Gas Act \[15 U.S.C. 717(b)\], the provisions of the Natural Gas Act \[15 U.S.C. 717 et seq.\] and the jurisdiction of the Commission under such Act shall not apply by reason of any sale of natural gas—
 
 &emsp;&emsp;&emsp;(i) authorized under section 3362(a) or 3371(b) of this title; or
 

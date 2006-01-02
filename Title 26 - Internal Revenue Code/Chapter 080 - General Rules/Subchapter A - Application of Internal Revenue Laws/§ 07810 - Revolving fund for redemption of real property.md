@@ -2,7 +2,7 @@
 
 #### (a) Establishment of fund
 
-There is established a revolving fund, under the control of the Secretary, which shall be available without fiscal year limitation for all expenses necessary for the redemption (by the Secretary) of real property as provided in section 7425(d) and section 2410 of title 28 of the United States Code. There are authorized to be appropriated from time to time such sums (not to exceed $10,000,000 in the aggregate) as may be necessary to carry out the purposes of this section.
+There is established a revolving fund, under the control of the Secretary, which shall beavailable without fiscal year limitation for all expenses necessary for the redemption (by the Secretary) of real property as provided in section 7425(d) and section 2410 of title 28 of the United States Code. There are authorized to be appropriated from time to time such sums (not to exceed $10,000,000 in the aggregate) as may be necessary to carry out the purposes of this section.
 
 #### (b) Reimbursement of fund
 
@@ -23,8 +23,4 @@ The Secretary shall maintain an adequate system of accounts for such fund and pr
 #### Effective Date
 
 Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7809 of this title.
 

@@ -4,7 +4,7 @@
 
 (1) Within 18 months after November 8, 1984, each owner of an underground storage tank shall notify the State or local agency or department designated pursuant to subsection (b)(1) of this section of the existence of such tank, specifying the age, size, type, location, and uses of such tank.
 
-(2)(A) For each underground storage tank taken out of operation after January 1, 1974, the owner of such tank shall, within eighteen months after November 8, 1984, notify the State or local agency, or department designated pursuant to subsection (b)(1) of this section of the existence of such tanks (unless the owner knows the tank subsequently was removed from the ground). The owner of a tank taken out of operation on or before January 1, 1974, shall not be required to notify the State or local agency under this subsection.
+(2)(A) For each underground storage tank taken out of operation after January 1, 1974, theowner of such tank shall, within eighteen months after November 8, 1984, notify the State or local agency, or department designated pursuant to subsection (b)(1) of this section of the existence of such tanks (unless the owner knows the tank subsequently was removed from the ground). The owner of a tank taken out of operation on or before January 1, 1974, shall not be required to notify the State or local agency under this subsection.
 
 (B) Notice under subparagraph (A) shall specify, to the extent known to the owner—
 
@@ -28,15 +28,37 @@
 
 (1) Within one hundred and eighty days after November 8, 1984, the Governors of each State shall designate the appropriate State agency or department or local agencies or departments to receive the notifications under subsection (a)(1), (2), or (3) of this section.
 
-(2) Within twelve months after November 8, 1984, the Administrator, in consultation with State and local officials designated pursuant to subsection (b)(1) of this section, and after noticeand opportunity for public comment, shall prescribe the form of the notice and the information to be included in the notifications under subsection (a)(1), (2), or (3) of this section. In prescribing the form of such notice, the Administrator shall take into account the effect on small businesses and other owners and operators.
+(2) Within twelve months after November 8, 1984, the Administrator, in consultation with State and local officials designated pursuant to subsection (b)(1) of this section, and after notice and opportunity for public comment, shall prescribe the form of the notice and the information to be included in the notifications under subsection (a)(1), (2), or (3) of this section. In prescribing the form of such notice, the Administrator shall take into account the effect on small businesses and other owners and operators.
 
 #### (c) State inventories
 
 Each State shall make 2 separate inventories of all underground storage tanks in such State containing regulated substances. One inventory shall be made with respect to petroleum and one with respect to other regulated substances. In making such inventories, the State shall utilize and aggregate the data in the notification forms submitted pursuant to subsections (a) and (b) of this section. Each State shall submit such aggregated data to the Administrator not later than 270 days after October 17, 1986.
 
-(Pub. L. 89–272, title II, §9002, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3278; amended Pub. L. 99–499, title II, §205(b), Oct. 17, 1986, 100 Stat. 1696.)
+#### (d) Public record
+
+#### (1) In general
+
+&emsp;The Administrator shall require each State that receives Federal funds to carry out this subchapter to maintain, update at least annually, and make available to the public, in such manner and form as the Administrator shall prescribe (after consultation with States), a record of underground storage tanks regulated under this subchapter.
+
+#### (2) Considerations
+
+&emsp;To the maximum extent practicable, the public record of a State, respectively, shall include, for each year—
+
+&emsp;&emsp;(A) the number, sources, and causes of underground storage tank releases in the State;
+
+&emsp;&emsp;(B) the record of compliance by underground storage tanks in the State with—
+
+&emsp;&emsp;&emsp;(i) this subchapter; or
+
+&emsp;&emsp;&emsp;(ii) an applicable State program approved under section 6991c of this title; and
+
+&emsp;&emsp;(C) data on the number of underground storage tank equipment failures in the State.
+
+(Pub. L. 89–272, title II, §9002, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3278; amended Pub. L. 99–499, title II, §205(b), Oct. 17, 1986, 100 Stat. 1696; Pub. L. 109–58, title XV, §1526(c), Aug. 8, 2005, 119 Stat. 1098.)
 
 #### Amendments
+
+2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 
 1986—Subsec. (c). Pub. L. 99–499 added subsec. (c).
 

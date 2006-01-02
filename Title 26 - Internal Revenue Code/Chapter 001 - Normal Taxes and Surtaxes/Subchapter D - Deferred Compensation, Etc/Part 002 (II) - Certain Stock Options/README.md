@@ -4,8 +4,10 @@
 | :--- | ---: |
 | [421\.](%C2%A7%2000421%20-%20General%20rules.md) | General rules. |
 | [422\.](%C2%A7%2000422%20-%20Incentive%20stock%20options.md) | Incentive stock options. |
+| \[422A. | Renumbered.\] |
 | [423\.](%C2%A7%2000423%20-%20Employee%20stock%20purchase%20plans.md) | Employee stock purchase plans. |
 | [424\.](%C2%A7%2000424%20-%20Definitions%20and%20special%20rules.md) | Definitions and special rules. |
+| \[425. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

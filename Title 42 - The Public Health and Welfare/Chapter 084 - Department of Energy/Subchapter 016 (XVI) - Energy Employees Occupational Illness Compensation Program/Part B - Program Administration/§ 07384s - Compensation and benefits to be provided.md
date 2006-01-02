@@ -2,7 +2,7 @@
 
 #### (a) Compensation provided
 
-(1) Except as provided in paragraph (2), a covered employee, or the survivor of that covered employee if the employee is deceased, shall receive compensation for the disability or death of that employee from that employee's occupational illness in the amount of $150,000.
+(1) Except as provided in paragraph (2), a covered employee, or the survivor of that coveredemployee if the employee is deceased, shall receive compensation for the disability or death of that employee from that employee's occupational illness in the amount of $150,000.
 
 (2) A covered employee shall, to the extent that employee's occupational illness is established beryllium sensitivity, receive beryllium sensitivity monitoring under subsection (c) of this section in lieu of compensation under paragraph (1).
 
@@ -44,7 +44,7 @@ The compensation provided under this section, when authorized or approved by the
 
 > &emsp;then half of such payment shall be made to such surviving spouse, and the other half of such payment shall be made in equal shares to each child of the covered employee who is living and a minor at the time of payment.
 
-(2) If a covered employee eligible for payment dies before filing a claim under this subchapter,a survivor of that employee who may receive payment under paragraph (1) may file a claim for such payment.
+(2) If a covered employee eligible for payment dies before filing a claim under this subchapter, a survivor of that employee who may receive payment under paragraph (1) may file a claim for such payment.
 
 (3) For purposes of this subsection—
 

@@ -14,7 +14,7 @@ In evaluating applications submitted under section 6143 of this title, the Secre
 
 The Secretaries—
 
-&emsp;(1) shall approve only those applications submitted under section 6143 of this title that demonstrate the highest levels of collaboration by the individuals and entities described in section 6143(b)(4) of this title in the development and implementation of the statewide School-to-Work system;
+&emsp;(1) shall approve only those applications submitted under section 6143 of this title that demonstrate the highest levels of collaboration by the individuals and entities describedin section 6143(b)(4) of this title in the development and implementation of the statewide School-to-Work system;
 
 &emsp;(2) shall approve an application submitted under section 6143 of this title only if the State provides the assurances described in section 6126(a) of this title (relating to maintenance of effort) in accordance with such section, except that this requirement may be waived in accordance with section 6126(b) of this title; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Trustees and insurance companies
 
-The trustee of a trust described in section 401(a) which is exempt from tax under section501(a) to which contributions have been paid under a plan on behalf of any owner-employee (as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, or purchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keep such records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
+The trustee of a trust described in section 401(a) which is exempt from tax under section 501(a) to which contributions have been paid under a plan on behalf of any owner-employee (as defined in section 401(c)(3)), and each insurance company or other person which is the issuer of a contract purchased by such a trust, or purchased under a plan described in section 403(a), contributions for which have been paid on behalf of any owner-employee, shall file such returns (in such form and at such times), keep such records, make such identification of contracts and funds (and accounts within such funds), and supply such information, as the Secretary shall by forms or regulations prescribe.
 
 #### (b) Owner-employees
 
@@ -44,7 +44,11 @@ The Secretary shall require—
 
 > to make returns and reports regarding such plan, transaction, or loan to the Secretary and to such other persons as the Secretary may prescribe. Such returns and reports shall be made in such form, shall be made at such time, and shall contain such information as the Secretary may prescribe.
 
-#### (f) Cross references
+#### (f) Designated Roth contributions
+
+The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns and reports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.
+
+#### (g) Cross references
 
 &emsp;&emsp;<b>(1) For provisions relating to penalties for failures to file returns and reports required under this section, see sections 6652(e), 6721, and 6722.</b>
 
@@ -56,15 +60,11 @@ The Secretary shall require—
 
 #### Amendment of Section
 
-<i>Pub. L. 107–16, title VI, §617(d)(2), (f), title IX, §901, June 7, 2001, 115 Stat. 106, 150, provided that, applicable to taxable years beginning after Dec. 31, 2005, this section is temporarily amended by redesignating subsection (f) as subsection (g) and by inserting after subsection (e) the following new subsection:</i>
-
-#### <i>(f) Designated Roth contributions</i>
-
-<i>The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns and reports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.</i>
-
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsecs. (f), (g). Pub. L. 107–16, §§617(d)(2), 901, temporarily added subsec. (f) and redesignated former subsec. (f) as (g). See Effective and Termination Dates of 2001 Amendment note below.
 
 1996—Subsec. (d)(1). Pub. L. 104–188, §1455(b)(2), inserted at end “No return or report may be required under the preceding sentence with respect to distributions to any person during any year unless such distributions aggregate $10 or more.”
 
@@ -177,8 +177,4 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6041, 6652, 6704, 6724, 7207 of this title.
 

@@ -1,5 +1,5 @@
 
-25 U.S.C.<br>United States Code, 2004 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
+25 U.S.C.<br>United States Code, 2005 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 25—INDIANS
 
@@ -43,7 +43,7 @@
 | [<b>34.</b>](Chapter%20034%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention/README.md) | <b>Indian Child Protection and Family Violence Prevention</b> | <b>3201</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Indian%20Higher%20Education%20Programs/README.md) | <b>Indian Higher Education Programs</b> | <b>3301</b> |
 | [<b>36.</b>](Chapter%20036%20-%20Indian%20Employment%2C%20Training%20and%20Related%20Services/README.md) | <b>Indian Employment, Training and Related Services</b> | <b>3401</b> |
-| [<b>37.</b>](Chapter%20037%20-%20Indian%20Energy%20Resources/README.md) | <b>Indian Energy Resources</b> | <b>3501</b> |
+| [<b>37.</b>](Chapter%20037%20-%20Indian%20Energy/README.md) | <b>Indian Energy</b> | <b>3501</b> |
 | [<b>38.</b>](Chapter%20038%20-%20Indian%20Tribal%20Justice%20Support/README.md) | <b>Indian Tribal Justice Support</b> | <b>3601</b> |
 | [<b>38A.</b>](Chapter%20038A%20-%20Indian%20Tribal%20Justice%20Technical%20and%20Legal%20Assistance/README.md) | <b>Indian Tribal Justice Technical and Legal Assistance</b> | <b>3651</b> |
 | [<b>39.</b>](Chapter%20039%20-%20American%20Indian%20Agricultural%20Resource%20Management/README.md) | <b>American Indian Agricultural Resource Management</b> | <b>3701</b> |
@@ -98,7 +98,7 @@
 - [Chapter 034 - Indian Child Protection and Family Violence Prevention](Chapter%20034%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention/README.md)
 - [Chapter 035 - Indian Higher Education Programs](Chapter%20035%20-%20Indian%20Higher%20Education%20Programs/README.md)
 - [Chapter 036 - Indian Employment, Training and Related Services](Chapter%20036%20-%20Indian%20Employment%2C%20Training%20and%20Related%20Services/README.md)
-- [Chapter 037 - Indian Energy Resources](Chapter%20037%20-%20Indian%20Energy%20Resources/README.md)
+- [Chapter 037 - Indian Energy](Chapter%20037%20-%20Indian%20Energy/README.md)
 - [Chapter 038 - Indian Tribal Justice Support](Chapter%20038%20-%20Indian%20Tribal%20Justice%20Support/README.md)
 - [Chapter 038A - Indian Tribal Justice Technical and Legal Assistance](Chapter%20038A%20-%20Indian%20Tribal%20Justice%20Technical%20and%20Legal%20Assistance/README.md)
 - [Chapter 039 - American Indian Agricultural Resource Management](Chapter%20039%20-%20American%20Indian%20Agricultural%20Resource%20Management/README.md)

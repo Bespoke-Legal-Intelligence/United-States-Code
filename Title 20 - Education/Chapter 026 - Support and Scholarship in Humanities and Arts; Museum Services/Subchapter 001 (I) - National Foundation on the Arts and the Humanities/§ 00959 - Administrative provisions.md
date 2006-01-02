@@ -78,7 +78,7 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 (B) Such recipient shall comply with the requirements of this paragraph not later than 90 days after the end of the period for which such financial assistance is provided. The Chairperson may extend the 90-day period only if the recipient shows good cause why such an extension should be granted.
 
-(3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified in subsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
+(3) If such recipient substantially fails to satisfy the purposes for which such financial assistance is provided and the criteria specified insubsection (c)(3)(A) <sup>1</sup> of this section, as determined by the Chairperson of the Endowment that provided such financial assistance, then such Chairperson may—
 
 &emsp;(A) for purposes of determining whether to provide any subsequent financial assistance, take into consideration the results of the post-award evaluation conducted under this subsection;
 
@@ -154,7 +154,7 @@ Amendment by section 5(a)(3) of Pub. L. 91–346 effective after June 30, 1970, 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (d) of this section are listed in item 7 on page 183), see section 3003 of Pub. L. 104–66,as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (d) of this section are listed in item 7 on page 183), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Delegation of Certain Reporting Authority
 

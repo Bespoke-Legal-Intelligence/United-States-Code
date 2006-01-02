@@ -32,7 +32,7 @@ The management plan shall include—
 
 &emsp;(9) cave resources management strategies prepared in compliance with the goals and objectives of the Federal Cave Resources Protection Act of 1988 (16 U.S.C. 4301 et seq.); and
 
-&emsp;(10) provisions designed to ensure that if a road or trail located on public lands within the Conservation Area, or any portion of such a road or trail, is removed, consideration shall be given to providing similar alternative access to the portion of the Conservation Area serviced by such removed road or trail.
+&emsp;(10) provisions designed to ensure that if a road or trail located on public lands withinthe Conservation Area, or any portion of such a road or trail, is removed, consideration shall be given to providing similar alternative access to the portion of the Conservation Area serviced by such removed road or trail.
 
 #### (c) Cooperative agreements
 

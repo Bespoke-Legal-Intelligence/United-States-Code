@@ -60,7 +60,7 @@ Notwithstanding any other provision of law, any loan insured under this section 
 
 #### (j) Authorization of appropriations for payment of losses
 
-Effective after the fiscal year 1981 there are authorized to be appropriated, such sums as maybe necessary to cover payments incurred pursuant to subsection (e) of this section.
+Effective after the fiscal year 1981 there are authorized to be appropriated, such sums as may be necessary to cover payments incurred pursuant to subsection (e) of this section.
 
 #### (k) Eligibility of debt obligation for purchase, etc., by Federal Financing Bank
 

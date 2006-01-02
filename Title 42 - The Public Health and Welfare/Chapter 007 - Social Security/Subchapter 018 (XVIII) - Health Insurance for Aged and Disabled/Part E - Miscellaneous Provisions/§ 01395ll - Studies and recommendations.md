@@ -238,7 +238,7 @@ Pub. L. 96–499, title IX, §931(f), Dec. 5, 1980, 94 Stat. 2634, which related
 
 #### Legislative Recommendations Regarding Reimbursement for Optometrists’ Services
 
-Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
+Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursementunder title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
 
 #### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
 
@@ -250,7 +250,7 @@ Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secreta
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 
-Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13,1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
 #### Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress
 

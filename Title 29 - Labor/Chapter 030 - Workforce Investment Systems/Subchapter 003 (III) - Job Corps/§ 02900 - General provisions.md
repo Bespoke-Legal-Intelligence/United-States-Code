@@ -4,7 +4,7 @@ The Secretary is authorized to—
 
 &emsp;(1) disseminate, with regard to the provisions of section 3204 of title 39, data and information in such forms as the Secretary shall determine to be appropriate, to public agencies, private organizations, and the general public;
 
-&emsp;(2) subject to section 2897(b) of this title, collect or compromise all obligations to or held by the Secretary and exercise all legal or equitable rights accruing to the Secretary in connection with the payment of obligations until such time as such obligations may be referred to the Attorney General for suit or collection; and
+&emsp;(2) subject to section 2897(b) of this title, collect or compromise all obligations to or heldby the Secretary and exercise all legal or equitable rights accruing to the Secretary in connection with the payment of obligations until such time as such obligations may be referred to the Attorney General for suit or collection; and
 
 &emsp;(3) expend funds made available for purposes of this subchapter—
 
@@ -14,7 +14,7 @@ The Secretary is authorized to—
 
 &emsp;&emsp;&emsp;(i) except when necessary to obtain an item, service, or facility, that is required in the proper administration of this subchapter, and that otherwise could not be obtained, or could not be obtained in the quantity or quality needed, or at the time, in the form, or under the conditions in which the item, service, or facility is needed; and
 
-&emsp;&emsp;&emsp;(ii) prior to having given written notification to the Administrator of General Services (if the expenditure would affect an activity that otherwise would be under the jurisdiction of the General Services Administration) of the intention of theSecretary to make the expenditure, and the reasons and justifications for the expenditure.
+&emsp;&emsp;&emsp;(ii) prior to having given written notification to the Administrator of General Services (if the expenditure would affect an activity that otherwise would be under the jurisdiction of the General Services Administration) of the intention of the Secretary to make the expenditure, and the reasons and justifications for the expenditure.
 
 (Pub. L. 105–220, title I, §160, Aug. 7, 1998, 112 Stat. 1020.)
 

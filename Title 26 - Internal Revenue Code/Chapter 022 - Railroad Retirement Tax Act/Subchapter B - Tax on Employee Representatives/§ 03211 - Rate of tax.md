@@ -48,7 +48,7 @@ Pub. L. 98–76, §211(c), substituted “12.75 percent” for “11.75 percent�
 
 1975—Subsec. (a). Pub. L. 94–93 inserted “in any calendar month” after “compensation paid”.
 
-1973—Subsec. (a). Pub. L. 93–69 substituted new tax rate provisions on income of employee representatives for services rendered after Sept. 30, 1973, for former provisions which prescribed 121/2, 13, 14, 141/2, and 15 percent on income for services rendered after Sept. 30, 1965, Dec. 31, 1965, Dec. 31, 1966, Dec. 31, 1967, and Dec. 31,1968, respectively, as is not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965: <i>Provided</i>, That the rate of tax imposed by this section shall be increased, with respect to compensation paid for services rendered after September 30, 1965, by a number of percentage points (including fractional points) equal at any given time to twice the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) at such time exceeds 23/4 percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956).
+1973—Subsec. (a). Pub. L. 93–69 substituted new tax rate provisions on income of employee representatives for services rendered after Sept. 30, 1973, for former provisions which prescribed 121/2, 13, 14, 141/2, and 15 percent on income for services rendered after Sept. 30, 1965, Dec. 31, 1965, Dec. 31, 1966, Dec. 31, 1967, and Dec. 31, 1968, respectively, as is not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965: <i>Provided</i>, That the rate of tax imposed by this section shall be increased, with respect to compensation paid for services rendered after September 30, 1965, by a number of percentage points (including fractional points) equal at any given time to twice the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section3101(a) plus the rate imposed by section 3101(b) at such time exceeds 23/4 percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956).
 
 1970—Subsec. (b). Pub. L. 91–215 substituted the rate of excise tax imposed on every employer under section 3221(c) of this title for a flat 2-cents per man hour tax as the rate for additional taxes imposed on the income of employee representatives for each man hour of compensation paid.
 
@@ -102,7 +102,7 @@ Section 301(f) of Pub. L. 89–699, as amended by section 8 of Pub. L. 91–215,
 
 #### Effective Date of 1965 Amendments
 
-Amendment by section 4 of Pub. L. 89–212 effective only with respect to calendar months after month inwhich Pub. L. 89–212 is enacted \[September 1965\], and amendment by section 5(b) of Pub. L. 89–212 effective only with respect to compensation paid for services rendered after Sept. 30, 1965, see section 6 of Pub. L. 89–212, set out as a note under section 3201 of this title.
+Amendment by section 4 of Pub. L. 89–212 effective only with respect to calendar months after month in which Pub. L. 89–212 is enacted \[September 1965\], and amendment by section 5(b) of Pub. L. 89–212 effective only with respect to compensation paid for services rendered after Sept. 30, 1965, see section 6 of Pub. L. 89–212, set out as a note under section 3201 of this title.
 
 Amendment by section 105(b)(2) of Pub. L. 89–97 effective with respect to compensation paid for services rendered after Dec. 31, 1965, see section 105(b)(4) of Pub. L. 89–97, set out as a note under section 3201 of this title.
 
@@ -123,8 +123,4 @@ Section 9 of Pub. L. 91–215 provided that: “If any provision of this Act \[a
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 72, 275, 1402, 3231, 3241, 3502, 6051 of this title; title 45 sections 231, 231e, 231f–1, 231n–1.
 

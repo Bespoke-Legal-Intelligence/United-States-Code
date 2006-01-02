@@ -1,6 +1,6 @@
 ### §763. General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat
 
-The President and the Commission shall secure a pro-competitive privatization of INTELSAT and Inmarsat that meets the criteria set forth in this section and sections 763a through 763c of this title. In securing such privatizations, the following criteria shall be applied as licensing criteria for purposes of part A of this subchapter:
+The President and the Commission shall secure a pro-competitive privatization of INTELSAT and Inmarsat that meets the criteria set forth in this section and sections 763a through 763c <sup>1</sup> of this title. In securing such privatizations, the following criteria shall be applied as licensing criteria for purposes of part A of this subchapter:
 
 #### (1) Dates for privatization
 
@@ -36,11 +36,11 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 #### (5) Conversion to stock corporations
 
-&emsp;Any successor entity or separated entity created out of INTELSAT or Inmarsat shall bea national corporation or similar accepted commercial structure, subject to the laws of the nation in which incorporated, as follows:
+&emsp;Any successor entity or separated entity created out of INTELSAT or Inmarsat shall be a national corporation or similar accepted commercial structure, subject to the laws of the nation in which incorporated, as follows:
 
 &emsp;&emsp;(A) An initial public offering of securities of any successor entity or separated entity—
 
-&emsp;&emsp;&emsp;(i) shall be conducted, for the successor entities of INTELSAT, on or about June 30, 2005, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than December 31, 2005; and
+&emsp;&emsp;&emsp;(i) shall be conducted, for the successor entities of INTELSAT, on or about June 30, 2005, except that the Commission mayextend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than December 31, 2005; and
 
 &emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than June 30, 2005, except that the Commission may extend this deadline to not later than December 31, 2004.
 
@@ -52,11 +52,9 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;&emsp;(i) have a board of directors with a fiduciary obligation;
 
-&emsp;&emsp;&emsp;(ii) have no officers or managers who (I) are officers or managers of any signatories or former signatories, or (II) have any direct financial interest in or financial relationship to any signatories or former signatories, except that such interest may be managed through a blind trust or similar mechanism;
+&emsp;&emsp;&emsp;(ii) have no officers or managers who are officers or managers of any signatories or former signatories; and
 
-&emsp;&emsp;&emsp;(iii) have no directors, officers, or managers who hold such positions in any intergovernmental organization; and
-
-&emsp;&emsp;&emsp;(iv) in the case of a separated entity, have no officers or directors, who (I) are officers or managers of any intergovernmental organization, or (II) have any direct financial interest in or financial relationship to any international organization, except that such interest may be managed through a blind trust or similar mechanism.
+&emsp;&emsp;&emsp;(iii) have no directors, officers, or managers who hold such positions in any intergovernmental organization.
 
 &emsp;&emsp;(E) Any transactions or other relationships between or among any successor entity, separated entity, INTELSAT, or Inmarsat shall be conducted on an arm's length basis.
 
@@ -90,9 +88,21 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;(C) have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
 
-(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480; Pub. L. 108–39, §2, June 30, 2003, 117 Stat. 835; Pub. L. 108–228, §1, May 18, 2004, 118 Stat. 644; Pub. L. 108–371, §1, Oct. 25, 2004, 118 Stat. 1752.)
+(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804; Pub. L. 107–233, §1, Oct. 1, 2002, 116 Stat. 1480; Pub. L. 108–39, §2, June 30, 2003, 117 Stat. 835; Pub. L. 108–228, §1, May 18, 2004, 118 Stat. 644; Pub. L. 108–371, §1, Oct. 25, 2004, 118 Stat. 1752; Pub. L. 109–34, §1, July 12, 2005, 119 Stat. 377.)
+
+#### References in Text
+
+Section 763b of this title, referred to in text, was repealed by Pub. L. 109–34, §2, July 12, 2005, 119 Stat. 377.
+
+Section 763c of this title, referred to in text, was amended generally by Pub. L. 109–34, §3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.
 
 #### Amendments
+
+2005—Par. (5)(D)(ii). Pub. L. 109–34, §1(1), (2), struck out subcl. (I) designation after “managers who” and substituted “signatories; and” for “signatories, or (II) have any direct financial interest in or financial relationship to any signatories or former signatories, except that such interest may be managed through a blind trust or similar mechanism;”.
+
+Par. (5)(D)(iii). Pub. L. 109–34, §1(3), substituted “organization.” for “organization; and”.
+
+Par. (5)(D)(iv). Pub. L. 109–34, §1(4), struck out cl. (iv) which read as follows: “in the case of a separated entity, have no officers or directors, who (I) are officers or managers of any intergovernmental organization, or (II) have any direct financial interest in or financial relationship to any international organization, except that such interest may be managed through a blind trust or similar mechanism.”
 
 2004—Par. (5)(A)(i). Pub. L. 108–228 substituted “June 30, 2005” for “December 31, 2003” and “December 31, 2005” for “June 30, 2004”.
 
@@ -109,4 +119,6 @@ Par. (5)(F), (G). Pub. L. 108–371, §1(2), added subpars. (F) and (G).
 #### Immigration Status of Alien Employees of INTELSAT after Privatization
 
 Title III of Pub. L. 106–396, Oct. 30, 2000, 114 Stat. 1645, provided for maintenance of nonimmigrant and special immigrant status of alien employees of INTELSAT and their immediate family members after privatization, and for treatment of employment for purposes of obtaining immigrant status as a multinational executive or manager.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

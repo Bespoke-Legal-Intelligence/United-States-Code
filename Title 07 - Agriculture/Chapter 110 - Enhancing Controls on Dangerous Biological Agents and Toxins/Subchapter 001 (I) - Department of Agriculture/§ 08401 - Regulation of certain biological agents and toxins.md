@@ -40,7 +40,7 @@ The Secretary shall by regulation provide for—
 
 &emsp;(2) the establishment and enforcement of safeguard and security measures to prevent access to such agents and toxins for use in domestic or international terrorism or for any other criminal purpose;
 
-&emsp;(3) the establishment of procedures to protect animal and plant health, and animal and plant products, in the event of a transfer or potential transfer of such an agent or toxin in violation of the safety procedures established under paragraph (1) or the safeguard and security measures established under paragraph (2); and
+&emsp;(3) the establishment of procedures to protect animal and plant health, and animal and plant products, in the event of a transfer or potential transfer of such an agent or toxin inviolation of the safety procedures established under paragraph (1) or the safeguard and security measures established under paragraph (2); and
 
 &emsp;(4) appropriate availability of biological agents and toxins for research, education, and other legitimate purposes.
 
@@ -102,7 +102,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (C) Notification by Attorney General regarding submitted names
 
-&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B), the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
+&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B), the Attorney General shall promptly notifythe Secretary whether the individual is within any of the categories specified in subparagraph (B).
 
 #### (4) Notifications by Secretary
 
@@ -140,7 +140,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Ex parte review
 
-&emsp;&emsp;&emsp;During a review under clause (i), the Secretary may consider information relevant to the review ex parte to the extentthat disclosure of the information could compromise national security or an investigation by any law enforcement agency.
+&emsp;&emsp;&emsp;During a review under clause (i), the Secretary may consider information relevant to the review ex parte to the extent that disclosure of the information could compromise national security or an investigation by any law enforcement agency.
 
 #### (iii) Final agency action
 
@@ -154,7 +154,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (ii) Disclosure of information
 
-&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>2</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) of this section shall not be disclosed under section 552 of title 5.
+&emsp;&emsp;&emsp;In a review under subparagraph (A), and in any judical <sup>2</sup> proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may berequired to disclose to the public any information that under subsection (h) of this section shall not be disclosed under section 552 of title 5.
 
 #### (8) Notifications regarding theft or loss of agents
 
@@ -236,7 +236,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (D) Agricultural emergencies
 
-&emsp;&emsp;The Secretary may temporarily exempt a person from the applicability of the requirements of this section with respect to an overlap agent or toxin, in whole or in part, if the Secretary determines that such exemption is necessary to provide for the timely participation of the person in a response to a domestic or foreign agricultural emergency that involves such an agent or toxin. With respect to the emergency involved, the exemption under this subparagraph for a person may not exceed 30 days, except that the Secretary, after review of whether such exemption remains necessary, may provide one extension of an additional 30 days.
+&emsp;&emsp;The Secretary may temporarily exempt a person from the applicability of the requirements of this section with respect to anoverlap agent or toxin, in whole or in part, if the Secretary determines that such exemption is necessary to provide for the timely participation of the person in a response to a domestic or foreign agricultural emergency that involves such an agent or toxin. With respect to the emergency involved, the exemption under this subparagraph for a person may not exceed 30 days, except that the Secretary, after review of whether such exemption remains necessary, may provide one extension of an additional 30 days.
 
 #### (E) Public health emergencies
 
@@ -268,7 +268,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(A) The Department of Health and Human Services, the Department of Justice, the Department of Agriculture, and the Department of Transportation.
 
-&emsp;&emsp;(B) Any Federal agency to which information specified in paragraph (1) is transferredby any agency specified in subparagraph (A) of this paragraph.
+&emsp;&emsp;(B) Any Federal agency to which information specified in paragraph (1) is transferred by any agency specified in subparagraph (A) of this paragraph.
 
 &emsp;&emsp;(C) Any Federal agency that is a registered person, or has a sub-agency component that is a registered person.
 
@@ -344,7 +344,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 Section 262a(a)(1) of title 42, referred to in subsec. (g)(1)(A)(ii), was in the original “section 315A(a)(1) of the Public Health Service Act”, and was translated as meaning section 351A(a)(1) of that Act to reflect the probable intent of Congress, because the Public Health Service Act does not contain a section 315A and section 351A refers to a list of biological agents and toxins.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs.For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(1)(C)(ii)(III), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
@@ -370,7 +370,7 @@ Pub. L. 107–188, title II, §213, June 12, 2002, 116 Stat. 656, provided that:
 
 “(a)
 
-Date Certain for Promulgation of List.—Not later than 60 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) \[7 U.S.C. 8401(a)(1)\]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
+Date Certain for Promulgation of List.—Not later than 60 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Agriculture\(referred to in this section as the ‘Secretary’) shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) \[7 U.S.C. 8401(a)(1)\]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
 
 “(b)
 

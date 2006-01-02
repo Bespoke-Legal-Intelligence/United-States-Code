@@ -30,7 +30,7 @@ In the performance of its functions, the Central Intelligence Agency is authoriz
 
 &emsp;(A) such lease shall include a clause that provides that the contract shall be terminated if budget authority (as defined by section 622(2) of title 2) is not provided specifically for that project in an appropriations Act in advance of an obligation of funds in respect thereto;
 
-&emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying termination costs with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
+&emsp;(B) notwithstanding section 1552 of title 31, amounts obligated for paying terminationcosts with respect to such lease shall remain available until the costs associated with termination of such lease are paid;
 
 &emsp;(C) funds available for termination liability shall remain available to satisfy rental obligations with respect to such lease in subsequent fiscal years in the event such lease is not terminated early, but only to the extent those funds are in excess of the amount of termination liability at the time of their use to satisfy such rental obligations; and
 
@@ -58,7 +58,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 2003—Subsec. (a)(1). Pub. L. 108–177 substituted “(c)(7)” for “(c)(6)”.
 
-2002—Subsec. (c)(2). Pub. L. 107–306 substituted “a report on the transfer of sums described in paragraph (1)each time that authority is exercised.” for “an annual report on the transfers of sums described in paragraph (1).”
+2002—Subsec. (c)(2). Pub. L. 107–306 substituted “a report on the transfer of sums described in paragraph (1) each time that authority is exercised.” for “an annual report on the transfers of sums described in paragraph (1).”
 
 2000—Pub. L. 106–567 added subsec. (a) and (b) headings and subsec. (c).
 
@@ -96,9 +96,11 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
 
-Pub. L. 108–287, title VIII, §8057(b), Aug. 5, 2004, 118 Stat. 983, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 109–148, div. A, title VIII, §8052(b), Dec. 30, 2005, 119 Stat. 2710, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction and counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–287, title VIII, §8057(b), Aug. 5, 2004, 118 Stat. 983.
 
 Pub. L. 108–87, title VIII, §8057(b), Sept. 30, 2003, 117 Stat. 1085.
 

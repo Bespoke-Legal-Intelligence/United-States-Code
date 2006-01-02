@@ -70,7 +70,3 @@ Section effective July 1, 1985, applicable only to members of the Armed Forces w
 
 Section 313(b) of Pub. L. 102–568 provided that: “The amendments made by paragraphs (2) through (6) of subsection (a) of this section \[enacting section 3680A of Title 38, Veterans’ Benefits, amending this section and sections 3034 and 3241 of Title 38, and repealing section 3473 of Title 38\] shall not apply to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on the date of enactment of this section \[Oct. 29, 1992\] for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under title 38, United States Code, or title 10, United States Code, in effect on that date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 510, 16131 of this title.
-

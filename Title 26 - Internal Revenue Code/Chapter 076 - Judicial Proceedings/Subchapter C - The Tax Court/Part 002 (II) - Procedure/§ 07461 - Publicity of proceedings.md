@@ -26,7 +26,3 @@ Except as provided in subsection (b), all reports of the Tax Court and all evide
 
 Section 465(b) of Pub. L. 98–369 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6110 of this title.
-

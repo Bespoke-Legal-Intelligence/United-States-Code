@@ -16,7 +16,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (1)(A) The Secretary shall make grants to the State of Nevada and any affected unit of local government for the purpose of participating in activities required by this section and section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such State or affected unit of local government, may not be considered eligible for funding under this paragraph.
 
-(B) The Secretary shall make grants to the State of Nevada and any affected unit of localgovernment for purposes of enabling such State or affected unit of local government—
+(B) The Secretary shall make grants to the State of Nevada and any affected unit of local government for purposes of enabling such State or affected unit of local government—
 
 &emsp;(i) to review activities taken under this part with respect to the Yucca Mountain site for purposes of determining any potential economic, social, public health and safety, and environmental impacts of a repository on such State, or affected unit of local government and its residents;
 

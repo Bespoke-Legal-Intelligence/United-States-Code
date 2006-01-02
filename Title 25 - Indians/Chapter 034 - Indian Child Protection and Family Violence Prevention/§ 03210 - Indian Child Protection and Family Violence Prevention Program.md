@@ -96,7 +96,7 @@ Funds provided pursuant to this section may be used for—
 
 #### (g) Maintenance of effort
 
-Services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for the same general purposes, including, but not limited to—
+Services provided under contracts made under this section shall supplement, not supplant, services from any other funds available for thesame general purposes, including, but not limited to—
 
 &emsp;(1) treatment, including, but not limited to—
 

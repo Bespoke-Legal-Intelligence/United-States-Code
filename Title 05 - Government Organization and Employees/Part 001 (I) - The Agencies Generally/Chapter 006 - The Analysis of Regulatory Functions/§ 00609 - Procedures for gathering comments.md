@@ -2,7 +2,7 @@
 
 (a) When any rule is promulgated which will have a significant economic impact on a substantial number of small entities, the head of the agency promulgating the rule or the official of the agency with statutory responsibility for the promulgation of the rule shall assure that small entities have been given an opportunity to participate in the rulemaking for the rule through the reasonable use of techniques such as—
 
-&emsp;(1) the inclusion in an advanced notice of proposed rulemaking, if issued, of a statement that the proposed rule may have a significant economic effect on a substantial number of small entities;
+&emsp;(1) the inclusion in an advanced notice of proposed rulemaking, if issued, of a statement that the proposed rule may have a significanteconomic effect on a substantial number of small entities;
 
 &emsp;(2) the publication of general notice of proposed rulemaking in publications likely to be obtained by small entities;
 
@@ -24,7 +24,7 @@
 
 &emsp;(5) not later than 60 days after the date a covered agency convenes a review panel pursuant to paragraph (3), the review panel shall report on the comments of the small entity representatives and its findings as to issues related to subsections 603(b), paragraphs (3), (4) and (5) and 603(c), provided that such report shall be made public as part of the rulemaking record; and
 
-&emsp;(6) where appropriate, the agency shall modify the proposed rule, the initial regulatoryflexibility analysis or the decision on whether an initial regulatory flexibility analysis is required.
+&emsp;(6) where appropriate, the agency shall modify the proposed rule, the initial regulatory flexibility analysis or the decision on whether an initial regulatory flexibility analysis is required.
 
 (c) An agency may in its discretion apply subsection (b) to rules that the agency intends to certify under subsection 605(b), but the agency believes may have a greater than de minimis impact on a substantial number of small entities.
 

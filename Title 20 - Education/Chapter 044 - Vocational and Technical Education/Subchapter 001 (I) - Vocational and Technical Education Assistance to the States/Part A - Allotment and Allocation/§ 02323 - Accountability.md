@@ -94,7 +94,7 @@ The purpose of this section is to establish a State performance accountability s
 
 &emsp;&emsp;(A) the progress of the State in achieving the State adjusted levels of performance on the core indicators of performance; and
 
-&emsp;&emsp;(B) information on the levels of performance achieved by the State with respect tothe additional indicators of performance, including the levels of performance for special populations.
+&emsp;&emsp;(B) information on the levels of performance achieved by the State with respect to the additional indicators of performance, including the levels of performance for special populations.
 
 #### (2) Special populations
 
@@ -114,7 +114,7 @@ The purpose of this section is to establish a State performance accountability s
 
 #### Prior Provisions
 
-A prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332. See section 2342 of this title.
+A prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445;amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332. See section 2342 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) A detailed statement of the funds expended and personnel resources (stated in terms of full-time equivalent employees) used during the fiscal year preceding the fiscal year during which the report is submitted in preparation for a domestic medical response to an attack involving weapons of mass destruction or in response to such an attack, including identification of the source of those funds and a description of how those funds were expended.
 
-&emsp;(3) A detailed statement of the funds expended and expected to be expended, and the personnel resources (stated in terms of full-time equivalent employees) used and expected to be used, during the fiscal year during which the report is submitted in preparation for a domestic medical response to an attack involving weapons of mass destruction or in response to such an attack, including identification of the source of funds expended and a description of how those funds were expended.
+&emsp;(3) A detailed statement of the funds expended and expected to be expended, and thepersonnel resources (stated in terms of full-time equivalent employees) used and expected to be used, during the fiscal year during which the report is submitted in preparation for a domestic medical response to an attack involving weapons of mass destruction or in response to such an attack, including identification of the source of funds expended and a description of how those funds were expended.
 
 (c) This section shall expire on January 1, 2009.
 

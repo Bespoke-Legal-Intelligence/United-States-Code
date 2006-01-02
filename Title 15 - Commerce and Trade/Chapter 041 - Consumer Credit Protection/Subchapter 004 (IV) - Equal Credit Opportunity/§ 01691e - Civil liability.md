@@ -2,7 +2,7 @@
 
 #### (a) Individual or class action for actual damages
 
-Any creditor who fails to comply with any requirement imposed under this subchapter shallbe liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class.
+Any creditor who fails to comply with any requirement imposed under this subchapter shall be liable to the aggrieved applicant for any actual damages sustained by such applicant acting either in an individual capacity or as a member of a class.
 
 #### (b) Recovery of punitive damages in individual and class action for actual damages; exemptions; maximum amount of punitive damages in individual actions; limitation on total recovery in class actions; factors determining amount of award
 

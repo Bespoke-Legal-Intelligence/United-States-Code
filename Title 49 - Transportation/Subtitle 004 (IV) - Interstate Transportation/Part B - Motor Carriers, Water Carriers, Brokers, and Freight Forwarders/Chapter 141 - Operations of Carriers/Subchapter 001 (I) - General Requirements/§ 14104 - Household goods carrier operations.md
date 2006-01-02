@@ -6,7 +6,7 @@ General Regulatory Authority.—
 
 &emsp;(1)
 
-Paperwork minimization.—The Secretary may issue regulations, including regulations protecting individual shippers, in order to carry out this part with respect to the transportation of household goods by motor carriers subject to jurisdiction under subchapterI of chapter 135. The regulations and paperwork required of motor carriers providing transportation of household goods shall be minimized to the maximum extent feasible consistent with the protection of individual shippers.
+Paperwork minimization.—The Secretary may issue regulations, including regulations protecting individual shippers, in order to carry out this part with respect to the transportation of household goods by motor carriers subject to jurisdiction under subchapter I of chapter 135. The regulations and paperwork required of motor carriers providing transportation of household goods shall beminimized to the maximum extent feasible consistent with the protection of individual shippers.
 
 &emsp;(2)
 
@@ -42,9 +42,37 @@ Estimates.—
 
 &emsp;(1)
 
-Authority to provide without compensation.—Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.
+Required to be in writing.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as otherwise provided in this subsection, every motor carrier providing transportation of household goods described in section 13102(10)(A) as a household goods motor carrier and subject to jurisdiction under subchapter I of chapter 135 shall conduct a physical survey of the household goods to be transported on behalf of a prospective individual shipper and shall provide the shipper with a written estimate of charges for the transportation and all related services.
+
+&emsp;&emsp;(B)
+
+Waiver.—A shipper may elect to waive a physical survey under this paragraph by written agreement signed by the shipper before the shipment is loaded. A copy of the waiver agreement must be retained as an addendum to the bill of lading and shall be subject to the same record inspection and preservation requirements of the Secretary as are applicable to bills of lading.
+
+&emsp;&emsp;(C)
+
+Estimate.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Notwithstanding a waiver under subparagraph (B), a carrier's statement of charges for transportation must be submitted to the shipper in writing and must indicate whether it is binding or nonbinding. The written estimate shall be based on a physical survey of the household goods if the household goods are located within a 50-mile radius of the location of the carrier's household goods agent preparing the estimate.
+
+&emsp;&emsp;&emsp;(ii)
+
+Binding.—A binding estimate under this paragraph must indicate that the carrier and shipper are bound by such charges. The carrier may impose a charge for providing a written binding estimate.
+
+&emsp;&emsp;&emsp;(iii)
+
+Nonbinding.—A nonbinding estimate under this paragraph must indicate that the actual charges will be based upon the actual weight of the individual shipper's shipment and the carrier's lawful tariff charges. The carrier may not impose a charge for providing a nonbinding estimate.
 
 &emsp;(2)
+
+Other information.—At the time that a motor carrier provides the written estimate required by paragraph (1), the motor carrier shall provide the shipper a copy of the Department of Transportation publication FMCSA–ESA–03–005 (or its successor publication) entitled “Ready to Move?”. Before the execution of a contract for service, the motor carrier shall provide the shipper copy of the Department of Transportation publication OCE 100, entitled “Your Rights and Responsibilities When You Move” required by section 375.213 of title 49, Code of Federal Regulations (or any successor regulation).
+
+&emsp;(3)
 
 Applicability of antitrust laws.—Any charge for an estimate of charges provided by a motor carrier to a shipper for transportation of household goods subject to jurisdiction under subchapter I of chapter 135 shall be subject to the antitrust laws, as defined in the first section of the Clayton Act (15 U.S.C. 12).
 
@@ -52,11 +80,15 @@ Applicability of antitrust laws.—Any charge for an estimate of charges provide
 
 Flexibility in Weighing Shipments.—The Secretary shall issue regulations that provide motor carriers providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 with the maximum possible flexibility in weighing shipments, consistent with assurance to the shipper of accurate weighing practices. The Secretary shall not prohibit such carriers from backweighing shipments or from basing their charges on the reweigh weights if the shipper observes both the tare and gross weighings (or, prior to such weighings, waives in writing the opportunity to observe such weighings) and such weighings are performed on the same scale.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 891.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 891; amended Pub. L. 109–59, title IV, §4205, Aug. 10, 2005, 119 Stat. 1753.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11110 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+2005—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate ofcharges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.”
 
 #### Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry
 

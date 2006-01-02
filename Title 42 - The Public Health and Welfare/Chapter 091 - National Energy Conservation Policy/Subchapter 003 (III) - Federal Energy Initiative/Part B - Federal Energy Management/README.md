@@ -16,6 +16,8 @@ Part B—Federal Energy Management
 - [&sect; 08258a - Demonstration of new technology](%C2%A7%2008258a%20-%20Demonstration%20of%20new%20technology.md)
 - [&sect; 08258b - Survey of energy saving potential](%C2%A7%2008258b%20-%20Survey%20of%20energy%20saving%20potential.md)
 - [&sect; 08259 - Definitions](%C2%A7%2008259%20-%20Definitions.md)
+- [&sect; 08259a - Energy and water savings measures in congressional buildings](%C2%A7%2008259a%20-%20Energy%20and%20water%20savings%20measures%20in%20congressional%20buildings.md)
+- [&sect; 08259b - Federal procurement of energy efficient products](%C2%A7%2008259b%20-%20Federal%20procurement%20of%20energy%20efficient%20products.md)
 - [&sect; 08260, 8261 - Omitted](%C2%A7%2008260%2C%208261%20-%20Omitted.md)
 - [&sect; 08262 - Definitions](%C2%A7%2008262%20-%20Definitions.md)
 - [&sect; 08262a - Report by General Services Administration](%C2%A7%2008262a%20-%20Report%20by%20General%20Services%20Administration.md)

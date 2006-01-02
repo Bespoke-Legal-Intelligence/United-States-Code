@@ -148,7 +148,7 @@ Whenever the PBO anticipates that commercial items will be offered for a procure
 
 #### (B) Exception
 
-&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use of procedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module for the system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
+&emsp;&emsp;Publication of a notice is not required under this paragraph with respect to a use of procedures authorized under paragraph (4) if the contractor referred to in that subparagraph (who is to be solicited to submit an offer) has previously provided a module forthe system under a contract that contained cost, schedule, and performance goals and the contractor met those goals.
 
 #### (C) Content of notice
 

@@ -10,7 +10,7 @@
 
 #### (2) Payment of portion of amounts collected
 
-&emsp;If an individual reports information to the Secretary under the program established under paragraph (1) which serves as the basis for the collection by the Secretary or the Attorney General of any amount of at least $100 (other than any amount paid as a penalty under section 1320a–7b of this title), the Secretary may pay a portion of the amount collected to the individual (under procedures similar to those applicable under section 7623 of the Internal Revenue Code of 1986 to payments to individuals providing information on violations of such Code).
+&emsp;If an individual reports information to the Secretary under the program established under paragraph (1) which serves as the basisfor the collection by the Secretary or the Attorney General of any amount of at least $100 (other than any amount paid as a penalty under section 1320a–7b of this title), the Secretary may pay a portion of the amount collected to the individual (under procedures similar to those applicable under section 7623 of the Internal Revenue Code of 1986 to payments to individuals providing information on violations of such Code).
 
 #### (c) Program to collect information on program efficiency
 

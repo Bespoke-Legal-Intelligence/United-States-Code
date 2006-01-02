@@ -32,9 +32,13 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(i) a party to the Agreement, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States;
 
-&emsp;&emsp;&emsp;(ii) a party to the North American Free Trade Agreement, a product or service of that country or instrumentality which is covered under the North American Free Trade Agreement for procurement by the United States; or
+&emsp;&emsp;&emsp;(ii) a party to the North American Free Trade Agreement, a product or service of that country or instrumentality which is covered under the North American Free Trade Agreement for procurement by the United States;
 
-&emsp;&emsp;&emsp;(iii) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003, and before January 2, 2005, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States.
+&emsp;&emsp;&emsp;(iii) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2003, and before January 2, 2005, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States;
+
+&emsp;&emsp;&emsp;(iv) a party to the Dominican Republic-Central America-United States Free Trade Agreement, a product or service of that country or instrumentality which is covered under that Agreement for procurement by the United States; or
+
+&emsp;&emsp;&emsp;(v) a party to a free trade agreement that entered into force with respect to the United States after December 31, 2005, and before July 2, 2006, a product or service of that country or instrumentality which is covered under the free trade agreement for procurement by the United States.
 
 #### (B) Rule of origin
 
@@ -64,17 +68,25 @@ As used in this subchapter—
 
 &emsp;The term “major industrial country” means any such country as defined in section 2136 of this title and any instrumentality of such a country.
 
-(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950.)
+(Pub. L. 96–39, title III, §308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, §7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, §306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, §381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, §20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, §401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, §401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, §401, Jan. 11, 2006, 119 Stat. 3599.)
 
 #### Termination of Amendment
+
+<i>For termination of amendment by section 106(c) of Pub. L. 109–169, see Effective and Termination Dates of 2006 Amendment note below.</i>
+
+<i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 106(c) of Pub. L. 108–286, see Effective and Termination Dates of 2004 Amendment note below.</i>
 
 #### References in Text
 
-Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
+Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by theHarmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
 
 #### Amendments
+
+2006—Par. (4)(A)(v). Pub. L. 109–169, §§106(c), 401, temporarily added cl. (v). See Effective and Termination Dates of 2006 Amendment note set out below.
+
+2005—Par. (4)(A)(iv). Pub. L. 109–53, §§107(d), 401, temporarily added cl. (iv). See Effective and Termination Dates of 2005 Amendment note below.
 
 2004—Par.(4)(A)(iii). Pub. L. 108–286, §§106(c), 401, temporarily added cl. (iii). See Effective and Termination Dates of 2004 Amendment note set out below.
 
@@ -91,6 +103,14 @@ Par. (4)(D). Pub. L. 103–465, §342(f)(2)(B), substituted “the Agreement (as
 1988—Par. (4)(D). Pub. L. 100–449 added subpar. (D).
 
 1985—Par. (4)(C). Pub. L. 99–47 added subpar. (C).
+
+#### Effective and Termination Dates of 2006 Amendment
+
+Amendment by Pub. L. 109–169 effective on the date on which the United States-Bahrain Free Trade Agreement enters into force (Aug. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 109–169, set out in a note under section 3805 of this title.
+
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective and Termination Dates of 2004 Amendment
 

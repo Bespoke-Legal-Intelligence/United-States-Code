@@ -148,7 +148,7 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;&emsp;(i) an issuer and all entities which issue obligations on behalf of such issuer shall be treated as 1 issuer,
 
-&emsp;&emsp;&emsp;(ii) all obligations issued by a subordinate entity shall, for purposes of applying subparagraphs (C) and (D) to each other entity to which such entity is subordinate, be treated as issued by such other entity, and
+&emsp;&emsp;&emsp;(ii) all obligations issued by a subordinate entity shall, for purposes of applying subparagraphs (C) and (D) to each other entity to which such entity is subordinate,be treated as issued by such other entity, and
 
 &emsp;&emsp;&emsp;(iii) an entity formed (or, to the extent provided by the Secretary, availed of) to avoid the purposes of subparagraph (C) or (D) and all entities benefiting thereby shall be treated as 1 issuer.
 
@@ -166,7 +166,7 @@ No deduction shall be allowed for—
 
 #### (A) Interest expense
 
-&emsp;&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayeras a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term “interest” includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
+&emsp;&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as a deduction for interest for the taxable year (determined without regard to this subsection, section 264, and section 291). For purposes of the preceding sentence, the term “interest” includes amounts (whether or not designated as interest) paid in respect of deposits, investment certificates, or withdrawable or repurchasable shares.
 
 #### (B) Tax-exempt obligation
 
@@ -234,7 +234,7 @@ Pub. L. 97–34, §301(b)(2), inserted “, or to purchase or carry any certifi
 
 Pars. (3), (4). Pub. L. 94–455, §2137(e), added pars. (3) and (4).
 
-1964—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by suchinstitution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
+1964—Par. (2). Pub. L. 88–272 provided that interest on face-amount certificates issued by a face-amount certificate company, and interest on amounts received for the purchase of such certificates to be issued by such institution, shall not be considered interest on indebtedness to purchase or carry obligations the interest on which is wholly exempt from the taxes under this subtitle, to the extent the average amount of such obligations held by such institution during the taxable year doesn't exceed 15 percent of the average total assets held by such institution during the taxable year.
 
 #### Effective Date of 1997 Amendment
 
@@ -360,7 +360,7 @@ Conforming amendments.—The amendments made by subsection (b)(6) \[amending sec
 
 #### Effective and Termination Dates of 1980 Amendment
 
-Section 404(c) of Pub. L. 96–223, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272,provided that: “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
+Section 404(c) of Pub. L. 96–223, as amended by Pub. L. 97–34, title III, §302(b)(1), Aug. 13, 1981, 95 Stat. 272, provided that: “The amendments made by this section \[amending this section and sections 116, 584, 643, 702, 854, and 857 of this title\] shall apply with respect to taxable years beginning after December 31, 1980, and before January 1, 1982.”
 
 #### Effective Date of 1976 Amendment
 
@@ -374,13 +374,9 @@ Section 216(b) of Pub. L. 88–272 provided that: “The amendment made by subse
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Clarification of Treatment of Amounts Excluded Under Section 597
 
 Section 904(c)(2)(B) of Pub. L. 99–514 provided that this section shall not deny any deduction by reason of such deduction being allocable to amounts excluded from gross income under section 597 of this title as in effect on Oct. 21, 1986, prior to repeal by Pub. L. 101–73, title XIV, §1401(a)(3)(B), Aug. 9, 1989, 103 Stat. 549.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 163, 264, 291, 643, 852, 871, 1277, 4940, 4942 of this title; title 20 section 1087–2.
 

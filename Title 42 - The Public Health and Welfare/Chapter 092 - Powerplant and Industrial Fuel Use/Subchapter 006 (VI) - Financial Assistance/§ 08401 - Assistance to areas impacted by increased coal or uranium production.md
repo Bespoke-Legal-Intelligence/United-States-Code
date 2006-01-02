@@ -98,7 +98,7 @@ For the purposes of this section—
 
 #### (f) Reports
 
-Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days after a written request to such person by the Governor of the State in which such area is located. Such report shall include—
+Any person regularly engaged in any coal or uranium development activity within an area designated and approved under subsection (a) of this section shall prepare and transmit a report to the Secretary of Energy within 90 days aftera written request to such person by the Governor of the State in which such area is located. Such report shall include—
 
 &emsp;(1) projected employment levels for such activity by such person within such area during each of the following 3 calendar years;
 

@@ -6,7 +6,7 @@ Except as provided in subsections (b) and (d), there shall be allowed as a deduc
 
 #### (b) Election of taxpayer
 
-At the election of the taxpayer, made in accordance with regulations prescribed by the Secretary, expenditures described in subsection (a) paid or incurred during the taxable year shall betreated as deferred expenses and shall be deductible on a ratable basis as the units of produced ores or minerals benefited by such expenditures are sold. In the case of such expenditures paid or incurred during the development stage of the mine or deposit, the election shall apply only with respect to the excess of such expenditures during the taxable year over the net receipts during the taxable year from the ores or minerals produced from such mine or deposit. The election under this subsection, if made, must be for the total amount of such expenditures, or the total amount of such excess, as the case may be, with respect to the mine or deposit, and shall be binding for such taxable year.
+At the election of the taxpayer, made in accordance with regulations prescribed by the Secretary, expenditures described in subsection (a) paid or incurred during the taxable year shall be treated as deferred expenses and shall be deductible on a ratable basis as the units of produced ores or minerals benefited by such expenditures are sold. In the case of such expenditures paid or incurred during the development stage of the mine or deposit, the election shall apply only with respect to the excess of such expenditures during the taxable year over the net receipts during the taxable year from the ores or minerals produced from such mine or deposit. The election under this subsection, if made, must be for the total amount of such expenditures, or the total amount of such excess, as the case may be, with respect to the mine or deposit, and shall be binding for such taxable year.
 
 #### (c) Adjusted basis of mine or deposit
 
@@ -53,8 +53,4 @@ Amendment by Pub. L. 99–514 applicable to costs paid or incurred after Dec. 31
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 59, 263, 263A, 291, 312, 381, 1016, 1254 of this title.
 

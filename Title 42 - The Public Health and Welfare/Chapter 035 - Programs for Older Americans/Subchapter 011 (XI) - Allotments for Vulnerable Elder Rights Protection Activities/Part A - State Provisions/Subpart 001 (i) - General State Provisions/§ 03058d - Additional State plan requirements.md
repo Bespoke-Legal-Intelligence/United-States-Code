@@ -22,7 +22,7 @@ In order to be eligible to receive an allotment under this part, a State shall i
 
 &emsp;&emsp;&emsp;(ii) receipt of reports of elder abuse;
 
-&emsp;&emsp;&emsp;(iii) active participation of older individuals participating in programs under this chapter through outreach, conferences, and referral of such individuals to other social service agencies or sources of assistance if appropriate and if the individuals to be referred consent; and
+&emsp;&emsp;&emsp;(iii) active participation of older individuals participating in programs under this chapter through outreach, conferences,and referral of such individuals to other social service agencies or sources of assistance if appropriate and if the individuals to be referred consent; and
 
 &emsp;&emsp;&emsp;(iv) referral of complaints to law enforcement or public protective service agencies if appropriate;
 
@@ -56,7 +56,7 @@ A prior section 705 of Pub. L. 89–73 was classified to section 3045d of this t
 
 Subsec. (a)(6)(C)(iii). Pub. L. 106–501, §703(2), inserted “and” at end.
 
-Subsec. (a)(7), (8). Pub. L. 106–501, §703(3) to (5), redesignated par. (8) as (7), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (7)”, and struck out former par. (7) which required inclusion in the State plan of assurances that the State agencywould make funds available to carry out subpart V, giving priority to area agencies on aging based on greatest need for funds, would require certain conditions of eligibility, would distribute eligibility information to area agencies on aging, and would submit certain reports.
+Subsec. (a)(7), (8). Pub. L. 106–501, §703(3) to (5), redesignated par. (8) as (7), substituted “paragraphs (1) through (6)” for “paragraphs (1) through (7)”, and struck out former par. (7) which required inclusion in the State plan of assurances that the State agency would make funds available to carry out subpart V, giving priority to area agencies on aging based on greatest need for funds, would require certain conditions of eligibility, would distribute eligibility information to area agencies on aging, and would submit certain reports.
 
 1993—Subsec. (a)(7)(D). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
 

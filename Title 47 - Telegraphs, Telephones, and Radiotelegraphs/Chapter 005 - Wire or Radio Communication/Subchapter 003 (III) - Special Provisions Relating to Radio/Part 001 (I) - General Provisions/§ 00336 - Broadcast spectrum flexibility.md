@@ -76,7 +76,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;&emsp;(i) the license shall be subject to the same license terms and renewal standards as the licenses for full-power television stations except as provided in this subsection; and
 
-&emsp;&emsp;&emsp;(ii) each such class A licensee shall be accorded primary status as a television broadcaster as long as the station continues to meet the requirements for a qualifying low-power station in paragraph (2).
+&emsp;&emsp;&emsp;(ii) each such class A licensee shall be accorded primary status as a televisionbroadcaster as long as the station continues to meet the requirements for a qualifying low-power station in paragraph (2).
 
 #### (B) Notice to and certification by licensees
 
@@ -132,7 +132,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (A) Stations operating within certain bandwidth
 
-&emsp;&emsp;The Commission may not grant a class A license to a low-power television station for operation between 698 and 806 megahertz, but the Commission shall provide to low-power television stations assigned to and temporarily operating in that bandwidth the opportunity to meet the qualification requirements for a class A license. If such a qualified applicant for a class A license is assigned a channel within the core spectrum (as such term is defined in MM Docket No. 87–286, February 17, 1998), the Commission shall issue a class A license simultaneously with the assignment of such channel.
+&emsp;&emsp;The Commission may not grant a class A license to a low-power television station foroperation between 698 and 806 megahertz, but the Commission shall provide to low-power television stations assigned to and temporarily operating in that bandwidth the opportunity to meet the qualification requirements for a class A license. If such a qualified applicant for a class A license is assigned a channel within the core spectrum (as such term is defined in MM Docket No. 87–286, February 17, 1998), the Commission shall issue a class A license simultaneously with the assignment of such channel.
 
 #### (B) Certain channels off-limits
 
@@ -276,7 +276,7 @@ As used in this section:
 
 #### (1) Advanced television services
 
-&emsp;The term “advanced television services” means television services provided using digital or other advanced technology as further defined in the opinion, report, and order of the Commission entitled “Advanced Television Systems and Their Impact Upon the Existing Television Broadcast Service”, MM Docket 87–268, adopted September 17, 1992, and successor proceedings.
+&emsp;The term “advanced television services” means television services provided using digital or other advanced technology as furtherdefined in the opinion, report, and order of the Commission entitled “Advanced Television Systems and Their Impact Upon the Existing Television Broadcast Service”, MM Docket 87–268, adopted September 17, 1992, and successor proceedings.
 
 #### (2) Designated frequencies
 
@@ -358,7 +358,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 1
 
 #### Executive Order No. 13038
 
-Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex. Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex.Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

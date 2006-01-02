@@ -2,7 +2,7 @@
 
 (a)
 
-Offering Shippers Arbitration.—As a condition of registration under section 13902 or 13903, a carrier providing transportation of household goods subject to jurisdiction under subchapter I or III of chapter 135 must agree to offer in accordance with this section to shippers of household goods arbitration as a means of settling disputes between such carriers and shippers of household goods concerning damage or loss to the household goods transported.
+Offering Shippers Arbitration.—As a condition of registration under section 13902 or 13903, a carrier providing transportation of household goods subject to jurisdiction under subchapter I or III of chapter 135 must agree to offer in accordance with this section to shippers of household goods arbitration as a means of settling disputes between such carriers and shippers of household goods concerning damage or loss to the household goods transported and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods.
 
 (b)
 
@@ -30,7 +30,7 @@ Apportionment of costs.—No shipper may be charged more than half of the cost f
 
 &emsp;(6)
 
-Requests.—The carrier must not require the shipper to agree to utilize arbitration prior to the time that a dispute arises. If the dispute involves a claim for $5,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $5,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
+Requests.—The carrier must not require the shipper to agree to utilize arbitrationprior to the time that a dispute arises. If the dispute involves a claim for $10,000 or less and the shipper requests arbitration, such arbitration shall be binding on the parties. If the dispute involves a claim for more than $10,000 and the shipper requests arbitration, such arbitration shall be binding on the parties only if the carrier agrees to arbitration.
 
 &emsp;(7)
 
@@ -38,7 +38,7 @@ Oral presentation of evidence.—The arbitrator may provide for an oral presenta
 
 &emsp;(8)
 
-Deadline for decision.—The arbitrator must, as expeditiously as possible but at least within 60 days of receipt of written notification of the dispute, render a decision based on the information gathered; except that, in any case in which a party to the dispute fails to provide in a timely manner any information concerning such dispute which the person settling the dispute may reasonably require to resolve the dispute, the arbitrator may extend such 60-day period for a reasonable period of time. A decision resolving a dispute may include any remedies appropriate under the circumstances, including repair, replacement, refund, reimbursement for expenses, and compensation for damages.
+Deadline for decision.—The arbitrator must, as expeditiously as possible but at least within 60 days of receipt of written notification of the dispute, render a decision based on the information gathered; except that, in any case in which a party to the dispute fails to provide in a timely manner any information concerning such dispute which the person settling the dispute may reasonably require to resolve the dispute, the arbitrator may extend such 60-day period for a reasonable period of time. A decision resolving a dispute may include any remedies appropriate under the circumstances, including repair, replacement, refund, reimbursement for expenses, compensation for damages, and an order requiring the payment of additional carrier charges.
 
 (c)
 
@@ -52,9 +52,11 @@ Attorney's Fees to Shippers.—In any court action to resolve a dispute between 
 
 &emsp;(2) the shipper prevails in such court action; and
 
-&emsp;(3)(A) a decision resolving the dispute was not rendered through arbitration under this section within the period provided under subsection (b)(8) of this section or an extension of such period under such subsection; or
+&emsp;(3)(A) the shipper was not advised by the carrier during the claim settlement process that a dispute settlement program was available to resolve the dispute;
 
-&emsp;(B) the court proceeding is to enforce a decision rendered through arbitration under this section and is instituted after the period for performance under such decision has elapsed.
+&emsp;(B) a decision resolving the dispute was not rendered through arbitration under this section within the period provided under subsection (b)(8) of this section or an extension of such period under such subsection; or
+
+&emsp;(C) the court proceeding is to enforce a decision rendered through arbitration under this section and is instituted after the period for performance under such decision has elapsed.
 
 (e)
 
@@ -76,13 +78,21 @@ Limitation of Applicability to Collect-on-Delivery Transportation.—The provisi
 
 Review by Secretary.—Not later than 18 months after January 1, 1996, the Secretary shall complete a review of the dispute settlement program established under this section. If, after notice and opportunity for comment, the Secretary determines that changes are necessary to such program to ensure the fair and equitable resolution of disputes under this section, the Secretary shall implement such changes and transmit a report to Congress on such changes.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §4208, Aug. 10, 2005, 119 Stat. 1757.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11711 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §4208(a), inserted “and to determine whether carrier charges, in addition to those collected at delivery, must be paid by shippers for transportation and services related to transportation of household goods” before period at end.
+
+Subsec. (b)(6). Pub. L. 109–59, §4208(b), substituted “$10,000” for “$5,000” in two places.
+
+Subsec. (b)(8). Pub. L. 109–59, §4208(c), substituted “compensation for damages, and an order requiring the payment of additional carrier charges” for “and compensation for damages”.
+
+Subsec. (d)(3). Pub. L. 109–59, §4208(d), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 1999—Subsec. (b)(6). Pub. L. 106–159 substituted “$5000” for “$1000” in two places.
 

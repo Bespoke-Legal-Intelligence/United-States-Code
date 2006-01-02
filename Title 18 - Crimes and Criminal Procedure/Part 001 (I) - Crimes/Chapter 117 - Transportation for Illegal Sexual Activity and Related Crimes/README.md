@@ -9,10 +9,13 @@
 | [2425\.](%C2%A7%2002425%20-%20Use%20of%20interstate%20facilities%20to%20transmit%20information%20about%20a%20minor.md) | Use of interstate facilities to transmit information about a minor. |
 | [2426\.](%C2%A7%2002426%20-%20Repeat%20offenders.md) | Repeat offenders. |
 | [2427\.](%C2%A7%2002427%20-%20Inclusion%20of%20offenses%20relating%20to%20child%20pornography%20in%20definition%20of%20sexual%20activity%20for%20which%20any%20person%20can%20be%20charged%20with%20a%20criminal%E2%80%A6.md) | Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal offense. |
+| [2428\.](%C2%A7%2002428%20-%20Forfeitures.md) | Forfeitures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–164, title I, §103(d)(2), Jan. 10, 2006, 119 Stat. 3563, added item 2428.
 
 1998—Pub. L. 105–314, title I, §§101(b), 104(b), 105(b), Oct. 30, 1998, 112 Stat. 2975–2977, added items 2425, 2426, and 2427.
 
@@ -34,3 +37,4 @@
 - [&sect; 02425 - Use of interstate facilities to transmit information about a minor](%C2%A7%2002425%20-%20Use%20of%20interstate%20facilities%20to%20transmit%20information%20about%20a%20minor.md)
 - [&sect; 02426 - Repeat offenders](%C2%A7%2002426%20-%20Repeat%20offenders.md)
 - [&sect; 02427 - Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal&#8230;](%C2%A7%2002427%20-%20Inclusion%20of%20offenses%20relating%20to%20child%20pornography%20in%20definition%20of%20sexual%20activity%20for%20which%20any%20person%20can%20be%20charged%20with%20a%20criminal%E2%80%A6.md)
+- [&sect; 02428 - Forfeitures](%C2%A7%2002428%20-%20Forfeitures.md)

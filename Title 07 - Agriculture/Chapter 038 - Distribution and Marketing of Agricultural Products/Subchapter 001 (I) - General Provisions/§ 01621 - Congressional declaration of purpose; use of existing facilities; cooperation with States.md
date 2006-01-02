@@ -58,7 +58,7 @@ Purpose.—It is the purpose of this Act \[see Short Title of 2004 Amendment not
 
 “(a)
 
-Availability and Purpose of Grants.—Subject to the appropriation of funds to carry out this section, the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2009 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
+Availability and Purpose of Grants.—Subject to the appropriation of funds to carry out this section,the Secretary of Agriculture shall make grants to States for each of the fiscal years 2005 through 2009 to be used by State departments of agriculture solely to enhance the competitiveness of specialty crops.
 
 “(b)
 
@@ -352,7 +352,7 @@ Agricultural Marketing Resource Center Pilot Project.—
 
 &emsp;“(1)
 
-Establishment.—Notwithstanding the limitation on grants in subsection (b)(2), the Secretaryshall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2) that will—
+Establishment.—Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2) that will—
 
 &emsp;&emsp;“(A) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
 

@@ -10,7 +10,7 @@ The Congress finds and declares the following:
 
 &emsp;(4) Democracy demands wisdom and vision in its citizens. It must therefore foster and support a form of education, and access to the arts and the humanities, designed to make people of all backgrounds and wherever located masters of their technology and not its unthinking servants.
 
-&emsp;(5) It is necessary and appropriate for the Federal Government to complement, assist, and add to programs for the advancement of the humanities and the arts by local, State, regional, and private agencies and their organizations. In doing so, the Government must be sensitive to the nature of public sponsorship. Public funding of the arts and humanities is subject to the conditions that traditionally govern the use of public money. Such funding should contribute to public support and confidence in the use of taxpayer funds. Public funds provided by the Federal Government must ultimately serve public purposes the Congress defines.
+&emsp;(5) It is necessary and appropriate for the Federal Government to complement, assist, and add to programs for the advancement ofthe humanities and the arts by local, State, regional, and private agencies and their organizations. In doing so, the Government must be sensitive to the nature of public sponsorship. Public funding of the arts and humanities is subject to the conditions that traditionally govern the use of public money. Such funding should contribute to public support and confidence in the use of taxpayer funds. Public funds provided by the Federal Government must ultimately serve public purposes the Congress defines.
 
 &emsp;(6) The arts and the humanities reflect the high place accorded by the American people to the nation's rich cultural heritage and to the fostering of mutual respect for the diverse beliefs and values of all persons and groups.
 
@@ -74,7 +74,7 @@ Section 1 of Pub. L. 98–306 provided that: “This Act \[enacting section 955b
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–496, §1, Dec. 4, 1980, 94 Stat. 2583, provided that: “This Act \[amending sections 952, 954, 955, 956, 957, 958 to 960, 962, 963, 964, 965, 967, 974, and 3473 of this title\] may be cited as the ‘Arts and Humanities Act of 1980’.”
+Pub. L. 96–496, §1, Dec. 4, 1980, 94 Stat. 2583, provided that: “This Act \[amending sections 952, 954, 955, 956, 957,958 to 960, 962, 963, 964, 965, 967, 974, and 3473 of this title\] may be cited as the ‘Arts and Humanities Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 
@@ -90,7 +90,7 @@ Section 1 of Pub. L. 91–346 provided: “That this Act \[amending this section
 
 #### Short Title
 
-Section 1 of Pub. L. 89–209, as renumbered title I, §1, and amended by Pub. L. 98–306, §2, May 31, 1984, 98 Stat.223; renumbered §1 and amended by Pub. L. 99–194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
+Section 1 of Pub. L. 89–209, as renumbered title I, §1, and amended by Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §1 and amended by Pub. L. 99–194, title I, §101, Dec. 20, 1985, 99 Stat. 1332, provided that: “This Act \[enacting this subchapter, amending sections 784 to 786 of this title, repealing section 789 of this title, and enacting provisions formerly set out as a note under section 785 of this title\] may be cited as the ‘National Foundation on the Arts and the Humanities Act of 1965’.”
 
 #### Sense of Congress Regarding Purchase of American-Made Equipment and Products
 

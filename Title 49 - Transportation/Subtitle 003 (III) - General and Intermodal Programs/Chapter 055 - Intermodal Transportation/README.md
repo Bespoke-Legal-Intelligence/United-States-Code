@@ -8,8 +8,8 @@
 | [5502\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005502%20-%20Intermodal%20Transportation%20Advisory%20Board.md) | Intermodal Transportation Advisory Board. |
 | [5503\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005503%20-%20Office%20of%20Intermodalism.md) | Office of Intermodalism. |
 | [5504\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005504%20-%20Model%20intermodal%20transportation%20plans.md) | Model intermodal transportation plans. |
-| [5505\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005505%20-%20University%20transportation%20research.md) | University transportation research. |
-| [5506\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005506%20-%20Advanced%20vehicle%20technologies%20program.md) | Advanced vehicle technologies program. |
+| [5505\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005505%20-%20National%20university%20transportation%20centers.md) | National university transportation centers. |
+| [5506\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005506%20-%20University%20transportation%20research.md) | University transportation research. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title V, §§5401(c), 5402(c), Aug. 10, 2005, 119 Stat. 1815, 1820, substituted “National university transportation centers” for “University transportation research” in item 5505 and “University transportation research” for “Advanced vehicle technologies program” in item 5506.
 
 1998—Pub. L. 105–178, title V, §§5110(b), 5111(b), June 9, 1998, 112 Stat. 444, 445, added items 5505 and 5506.
 

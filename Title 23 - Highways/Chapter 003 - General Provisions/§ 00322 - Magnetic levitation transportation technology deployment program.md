@@ -20,7 +20,7 @@ Full project costs.—The term “full project costs” means the total capital 
 
 &emsp;(4)
 
-Partnership potential.—The term “partnership potential” has the meaning given the term in the commercial feasibility study of high-speed ground transportation conducted under section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1978).
+Partnership potential.—The term “partnership potential” has the meaninggiven the term in the commercial feasibility study of high-speed ground transportation conducted under section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1978).
 
 (b)
 
@@ -212,9 +212,65 @@ Subsec. (i). Pub. L. 105–178, §1218(c)(4), as added by Pub. L. 105–206, §9
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
+#### Deployment of Magnetic Levitation Transportation Projects
+
+Pub. L. 109–59, title I, §1307, Aug. 10, 2005, 119 Stat. 1217, provided that:
+
+“(a)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;“(1)
+
+Eligible project costs.—The term ‘eligible project costs’—
+
+&emsp;&emsp;“(A) means the capital cost of the fixed guideway infrastructure of a MAGLEV project, including land, piers, guideways, propulsion equipment and other components attached to guideways, power distribution facilities (including substations), control and communications facilities, access roads, and storage, repair, and maintenance facilities, but not including costs incurred for a new station; and
+
+&emsp;&emsp;“(B) includes the costs of preconstruction planning activities.
+
+&emsp;“(2)
+
+Full project costs.—The term ‘full project costs’ means the total capital costs of a MAGLEV project, including eligible project costs and the costs of stations, vehicles, and equipment.
+
+&emsp;“(3) MAGLEV.—The term ‘MAGLEV’ means transportation systems employing magnetic levitation that would be capable of safe use by the public at a speed in excess of 240 miles per hour.
+
+&emsp;“(4)
+
+State.—The term ‘State’ has the meaning such term has under section 101(a) of title 23, United States Code.
+
+“(b)
+
+In General.—
+
+&emsp;“(1)
+
+Assistance for eligible projects.—The Secretary \[of Transportation\] shall make available financial assistance to pay the Federal share of full project costs of eligible projects authorized by this section.
+
+&emsp;“(2)
+
+Use of assistance.—Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects authorized by this section.
+
+&emsp;“(3)
+
+Applicability of other laws.—Financial assistance made available under this section, and projects assisted with such assistance, shall be subject to section 5333(a) of title 49, United States Code.
+
+“(c)
+
+Project Eligibility.—To be eligible to receive financial assistance under subsection (b), a project shall—
+
+&emsp;“(1) involve a segment or segments of a high-speed ground transportation corridor;
+
+&emsp;“(2) result in an operating transportation facility that provides a revenue producing service; and
+
+&emsp;“(3) be approved by the Secretary \[of Transportation\] based on an application submitted to the Secretary by a State or authority designated by one or more States.
+
+“(d)
+
+Allocation.—Of the amounts made available to carry out this section for a fiscal year, the Secretary \[of Transportation\] shall allocate 50 percent for the MAGLEV project between Las Vegas and Primm, Nevada, and 50 percent for a MAGLEV project located east of the Mississippi River.”
+
 #### Advanced Technology Pilot Project
 
-Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, §8(q), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(q), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(q), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(q), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(q), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(q), Sept. 30, 2004, 118 Stat. 1158, provided that:
+Pub. L. 105–178, title III, §3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, §9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, §8(q), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(q), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(q), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(q), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(q), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(q), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(p), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(p), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(p), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(p), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(p), July 28, 2005, 119 Stat. 420, provided that:
 
 “(1)
 
@@ -222,11 +278,15 @@ In general.—The Secretary shall make grants for the development of low speed m
 
 “(2)
 
-Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\] for each of fiscal years 1998 through 2004, and for the period of October 1, 2004, through May 31, 2005, $5,000,000 per fiscal year and $3,333,333 for such period shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
+Funding.—Of the amounts made available under section 5001(a)(2) of this Act \[112 Stat. 419\] for each of fiscal years 1998 through 2004, and for the period of October 1, 2004, through July 30, 2005,, \[sic\] $5,000,000 per fiscal year and $4,150,685 for such period shall be available to carry out this subsection. Financial assistance made available under this subsection and projects assisted with the assistance shall be subject to section 5333(a) of title 49, United States Code.
 
 “(3)
 
 Federal share.—The Federal share payable on account of activities carried out using a grant made under this subsection shall be 80 percent of the cost of such activities.”
+
+\[Pub. L. 109–35, §7(p)(1), which directed amendment of Pub. L. 105–178, §3015(c)(2), set out above, by substituting “July 21, 2005” for “July 19, 2005,” was executed by making the substitution for “July 19, 2005”, to reflect the probable intent of Congress.\]
+
+\[Pub. L. 109–20, §7(p)(1), which directed amendment of Pub. L. 105–178, §3015(c)(2), set out above, by substituting “July 19, 2005” for “June 30, 2005,” was executed by making the substitution for “June 30, 2005”, to reflect the probable intent of Congress.\]
 
 \[Pub. L. 108–280, §7(q), which directed amendment of Pub. L. 105–178, §3015(c)(2), set out above, by substituting “2004, $5,000,000 per fiscal year” for “2003, and for the period of October 1, 2003, through July 31, 2004 $5,000,000 per fiscal year and $4,142,083 for such period”, was executed by making the substitution for “2003, and for the period of October 1, 2003, through July 31, 2004, $5,000,000 per fiscal year and $4,142,083 for such period”, to reflect the probable intent of Congress.\]
 

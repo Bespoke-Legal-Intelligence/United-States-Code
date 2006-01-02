@@ -36,7 +36,7 @@ For the purpose of carrying out part A of this subchapter, there are authorized 
 
 #### (c) Education of migratory children
 
-For the purpose of carrying out part C of this subchapter, there are authorized to be appropriated $410,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+For the purpose of carrying out part C of this subchapter, there are authorized to be appropriated $410,000,000 for fiscal year 2002 and suchsums as may be necessary for each of the 5 succeeding fiscal years.
 
 #### (d) Prevention and intervention programs for youth who are neglected, delinquent, or at risk
 
@@ -56,7 +56,7 @@ For the purpose of carrying out part D of this subchapter, there are authorized 
 
 #### (B) Special rule
 
-&emsp;&emsp;Of the funds appropriated pursuant to subparagraph (A), not more than 30 percent may be used for teachers associated with students participating in the programs described insubsections (a)(1), (b)(1), and (c)(1) of this section.
+&emsp;&emsp;Of the funds appropriated pursuant to subparagraph (A), not more than 30 percent may be used for teachers associated with students participating in the programs described in subsections (a)(1), (b)(1), and (c)(1) of this section.
 
 #### (f) Comprehensive school reform
 

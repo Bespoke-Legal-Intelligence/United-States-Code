@@ -28,7 +28,7 @@
 
 &emsp;(3) the terms “President-elect” and “Vice President-elect” have the meanings given those terms in section 871(b) of this title.
 
-(Added Pub. L. 97–297, §1(a), Oct. 12, 1982, 96 Stat. 1317; amended Pub. L. 98–587, §3(a), Oct. 30, 1984,98 Stat. 3111; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–544, §2(a), (b)(1), Dec. 19, 2000, 114 Stat. 2715.)
+(Added Pub. L. 97–297, §1(a), Oct. 12, 1982, 96 Stat. 1317; amended Pub. L. 98–587, §3(a), Oct. 30, 1984, 98 Stat. 3111; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub.L. 106–544, §2(a), (b)(1), Dec. 19, 2000, 114 Stat. 2715.)
 
 #### Amendments
 

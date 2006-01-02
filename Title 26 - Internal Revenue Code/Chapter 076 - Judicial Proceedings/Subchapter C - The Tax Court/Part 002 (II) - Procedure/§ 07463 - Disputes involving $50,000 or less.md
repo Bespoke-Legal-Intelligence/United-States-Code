@@ -24,7 +24,7 @@ In any case in which the proceedings are conducted under this section, notwithst
 
 #### (d) Discontinuance of proceedings
 
-At any time before a decision entered in a case in which the proceedings are conducted underthis section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearing such case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
+At any time before a decision entered in a case in which the proceedings are conducted under this section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearing such case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
 
 #### (e) Amount of deficiency in dispute
 
@@ -132,9 +132,5 @@ Section 962(e) of Pub. L. 91–172 provided that: “The amendments made by sect
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6214, 6512, 7430, 7436, 7443A, 7453, 7481, 7487, 7526 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

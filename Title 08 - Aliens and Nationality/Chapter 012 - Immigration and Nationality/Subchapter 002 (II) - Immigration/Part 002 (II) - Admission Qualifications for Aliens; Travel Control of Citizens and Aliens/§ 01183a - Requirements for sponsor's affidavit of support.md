@@ -4,7 +4,7 @@
 
 #### (1) Terms of affidavit
 
-&emsp;No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludable as a public charge under section 1182(a)(4) of this title unless such affidavit is executed by a sponsor of the alien as a contract—
+&emsp;No affidavit of support may be accepted by the Attorney General or by any consular officer to establish that an alien is not excludableas a public charge under section 1182(a)(4) of this title unless such affidavit is executed by a sponsor of the alien as a contract—
 
 &emsp;&emsp;(A) in which the sponsor agrees to provide support to maintain the sponsored alien at an annual income that is not less than 125 percent of the Federal poverty line during the period in which the affidavit is enforceable;
 
@@ -68,7 +68,7 @@
 
 #### (c) Remedies
 
-Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include corresponding remedies available under State law. A Federal agency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
+Remedies available to enforce an affidavit of support under this section include any or all of the remedies described in section 3201, 3203, 3204, or 3205 of title 28, as well as an order for specific performance and payment of legal fees and other costs of collection, and include corresponding remedies available under State law. A Federalagency may seek to collect amounts owed under this section in accordance with the provisions of subchapter II of chapter 37 of title 31.
 
 #### (d) Notification of change of address
 
@@ -116,7 +116,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (3) Active duty armed services case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph\(1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
 
 #### (4) Certain employment-based immigrants case
 
@@ -146,7 +146,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (i) Method of demonstration
 
-&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permitted under penalty of perjury under section 1746 of title 28 that the copies are certified copies of such returns.
+&emsp;&emsp;&emsp;For purposes of this section, a demonstration of the means to maintain income shall include provision of a certified copy of the individual's Federal income tax return for the individual's 3 most recent taxable years and a written statement, executed under oath or as permittedunder penalty of perjury under section 1746 of title 28 that the copies are certified copies of such returns.
 
 #### (ii) Flexibility
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) meets the requirements to maintain proficiency as described in paragraph (2) while serving in an assignment that includes diving duty other than as a primary duty.
 
-(b) Special pay payable under subsection (a) shall be paid at a rate of not more than $240 a month, in the case of an officer, and at a rate ofnot more than $340 a month, in the case of an enlisted member.
+(b) Special pay payable under subsection (a) shall be paid at a rate of not more than $240 a month, in the case of an officer, and at a rate of not more than $340 a month, in the case of an enlisted member.
 
 (c) If, in addition to diving duty, a member is assigned by orders to one or more hazardous duties described in section 301 of this title, the member may be paid, for the same period of service, special pay under this section and incentive pay under such section 301 for each hazardous duty for which the member is qualified.
 

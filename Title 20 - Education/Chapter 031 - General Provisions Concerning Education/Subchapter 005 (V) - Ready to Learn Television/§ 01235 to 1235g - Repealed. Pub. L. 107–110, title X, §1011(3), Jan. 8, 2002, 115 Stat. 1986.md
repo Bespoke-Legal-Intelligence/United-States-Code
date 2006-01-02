@@ -10,7 +10,7 @@ Section 1235c, Pub. L. 90–247, title IV, §474, formerly Pub. L. 89–10, titl
 
 Section 1235d, Pub. L. 90–247, title IV, §475, formerly Pub. L. 89–10, title IV, §4705, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3588; renumbered §475 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(C), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, §1062(5), Jan. 8, 2002, 115 Stat. 2088, required annual report to Secretary by any entity receiving funds and biannual report to Congress by Secretary.
 
-Section 1235e, Pub. L. 90–247, title IV, §476, formerly Pub. L. 89–10, title IV, §4706, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589; renumbered §476 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(D), (c), May 18, 1994, 108 Stat. 649, authorized appropriations.
+Section 1235e, Pub. L. 90–247, title IV, §476, formerly Pub. L. 89–10, title IV, §4706, as added Pub. L. 102–545,§3, Oct. 27, 1992, 106 Stat. 3589; renumbered §476 of Pub. L. 90–247 and amended Pub. L. 103–252, title I, §121(a)(1), (2)(D), (c), May 18, 1994, 108 Stat. 649, authorized appropriations.
 
 Section 1235f, Pub. L. 90–247, title IV, §477, formerly Pub. L. 89–10, title IV, §4707, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589; renumbered §477 of Pub. L. 90–247, Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649; Pub. L. 107–110, title X, §1062(6), Jan. 8, 2002, 115 Stat. 2088, related to administrative costs.
 

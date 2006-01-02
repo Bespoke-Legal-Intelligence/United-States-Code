@@ -14,7 +14,7 @@ For purposes of this section, “cost information” means information with resp
 
 #### (d) Power of Secretary to obtain or require submission of information under other provisions unaffected
 
-Nothing in this section shall be construed to restrict the authority of the Secretary to obtain or require submission of information under any other provision of this chapter.
+Nothing in this section shall be construed to restrict the authority of the Secretary to obtainor require submission of information under any other provision of this chapter.
 
 (Pub. L. 93–383, title VI, §607, Aug. 22, 1974, 88 Stat. 703; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §606, Dec. 27, 2000, 114 Stat. 3009.)
 

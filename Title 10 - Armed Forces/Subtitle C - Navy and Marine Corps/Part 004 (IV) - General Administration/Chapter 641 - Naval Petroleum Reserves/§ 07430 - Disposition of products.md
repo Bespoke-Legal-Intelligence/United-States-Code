@@ -190,7 +190,3 @@ Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2525.
 
 Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7422 of this title; title 42 section 6506; title 43 section 1601.
-

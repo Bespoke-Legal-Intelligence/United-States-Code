@@ -26,7 +26,3 @@ A prior section 5370, act Aug. 16, 1954, ch. 736, 68A Stat. 666, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5042 of this title.
-

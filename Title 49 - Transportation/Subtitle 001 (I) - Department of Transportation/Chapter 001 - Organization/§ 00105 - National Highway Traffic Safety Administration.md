@@ -14,7 +14,7 @@
 
 (e) The Administrator shall consult with the Federal Highway Administrator on all matters related to the design, construction, maintenance, and operation of highways.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §5(m)(3), July 5, 1994, 108 Stat. 1375.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §5(m)(3), July 5, 1994, 108 Stat. 1375.)
 
 Historical and Revision Notes
 

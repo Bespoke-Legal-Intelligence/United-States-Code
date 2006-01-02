@@ -4,7 +4,7 @@
 
 (b) This section does not give the consent of the United States to the application of a statute which imposes more burdensome requirements on the United States than on other employers, or which subjects the United States or its employees to a penalty or liability because of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 478; Pub. L. 90–623, §1(9), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 94–455, title XII, §1207(a)(2), Oct. 4, 1976, 90 Stat. 1705; Pub. L. 96–54, §2(a)(30), Aug. 14, 1979, 93 Stat. 383.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 478; Pub. L. 90–623, §1(9), Oct. 22, 1968, 82 Stat. 1312; Pub. L.94–455, title XII, §1207(a)(2), Oct. 4, 1976, 90 Stat. 1705; Pub. L. 96–54, §2(a)(30), Aug. 14, 1979, 93 Stat. 383.)
 
 Historical and Revision Notes
 

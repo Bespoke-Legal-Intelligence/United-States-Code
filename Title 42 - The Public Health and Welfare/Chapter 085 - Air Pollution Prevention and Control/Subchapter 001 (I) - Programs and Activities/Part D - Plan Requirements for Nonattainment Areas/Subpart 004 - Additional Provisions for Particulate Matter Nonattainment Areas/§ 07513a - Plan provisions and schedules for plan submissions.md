@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) Either (i) a demonstration (including air quality modeling) that the plan will provide for attainment by the applicable attainment date; or (ii) a demonstration that attainment by such date is impracticable.
 
-&emsp;&emsp;(C) Provisions to assure that reasonably available control measures for the control of PM–10 shall be implemented no later than December 10, 1993, or 4 years after designation in the case of an area classified as moderate after November 15, 1990.
+&emsp;&emsp;(C) Provisions to assure that reasonably available control measures for the control of PM–10 shall be implemented no later thanDecember 10, 1993, or 4 years after designation in the case of an area classified as moderate after November 15, 1990.
 
 #### (2) Schedule for plan submissions
 
@@ -52,7 +52,7 @@
 
 #### (d) Failure to attain
 
-In the case of a Serious PM–10 nonattainment area in which the PM–10 standard is not attained by the applicable attainment date, the State in which such area is located shall, after notice and opportunity for public comment, submit within 12 months after the applicable attainment date, plan revisions which provide for attainment of the PM–10 air quality standard and, from the date of such submission until attainment, for an annual reduction in PM–10 or PM–10 precursor emissions within the area of not less than 5 percent of the amount of suchemissions as reported in the most recent inventory prepared for such area.
+In the case of a Serious PM–10 nonattainment area in which the PM–10 standard is not attained by the applicable attainment date, the State in which such area is located shall, after notice and opportunity for public comment, submit within 12 months after the applicable attainment date, plan revisions which provide for attainment of the PM–10 air quality standard and, from the date of such submission until attainment, for an annual reduction in PM–10 or PM–10 precursor emissions within the area of not less than 5 percent of the amount of such emissions as reported in the most recent inventory prepared for such area.
 
 #### (e) PM–10 precursors
 

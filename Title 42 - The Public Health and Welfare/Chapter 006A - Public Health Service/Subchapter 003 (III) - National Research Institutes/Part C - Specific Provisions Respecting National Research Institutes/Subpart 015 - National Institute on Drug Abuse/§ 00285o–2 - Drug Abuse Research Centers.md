@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Director of the Institute may designate National Drug Abuse Research Centers for the purpose of interdisciplinary research relating to drug abuse and other biomedical, behavioral, and social issues related to drug abuse. No entity may be designated as a Center unless an application therefore has been submitted to, and approved by, the Secretary. Such an application shall be submitted in such manner and contain such information as the Secretary may reasonably require. The Secretary may not approve such an application unless—
+The Director of the Institute may designate National Drug Abuse Research Centers for the purpose of interdisciplinary research relating to drug abuse and other biomedical, behavioral, and social issues related to drug abuse. No entity may be designated as a Center unless an application therefore has been submitted to, and approved by, the Secretary. Such an applicationshall be submitted in such manner and contain such information as the Secretary may reasonably require. The Secretary may not approve such an application unless—
 
 &emsp;(1) the application contains or is supported by reasonable assurances that—
 

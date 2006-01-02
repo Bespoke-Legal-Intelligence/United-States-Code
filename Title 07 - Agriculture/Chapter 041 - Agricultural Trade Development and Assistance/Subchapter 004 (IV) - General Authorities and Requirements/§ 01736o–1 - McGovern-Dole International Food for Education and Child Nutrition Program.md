@@ -2,7 +2,7 @@
 
 #### (a) Definition of agricultural commodity
 
-In this section, the term “agricultural commodity” means an agricultural commodity, or a product of an agricultural commodity, that is produced in the United States.
+In this section, the term “agricultural commodity” means an agricultural commodity, or aproduct of an agricultural commodity, that is produced in the United States.
 
 #### (b) Program
 
@@ -28,7 +28,7 @@ Notwithstanding any other provision of law—
 
 &emsp;&emsp;(iv) the vessel freight charges from United States ports or designated Canadian transshipment ports, as determined by the Secretary, to designated ports of entry abroad;
 
-&emsp;&emsp;(v) the costs associated with transporting agricultural commodities from UnitedStates ports to designated points of entry abroad in the case—
+&emsp;&emsp;(v) the costs associated with transporting agricultural commodities from United States ports to designated points of entry abroad in the case—
 
 &emsp;&emsp;&emsp;(I) of landlocked countries;
 
@@ -84,7 +84,7 @@ Assistance may be provided under this section to private voluntary organizations
 
 &emsp;&emsp;(E) ensure monitoring and reporting by eligible entities on the use of commodities and other assistance provided under this section; and
 
-&emsp;&emsp;(F) allow for the sale or barter of commodities by eligible entities to acquire funds to implement activities that improve the food security of women and children or otherwise enhance the effectiveness of programs and activities authorized under this section.
+&emsp;&emsp;(F) allow for the sale or barter of commodities by eligible entities to acquire funds to implement activities that improve the food security of women and children or otherwiseenhance the effectiveness of programs and activities authorized under this section.
 
 #### (2) Priorities for program funding
 
@@ -162,7 +162,7 @@ Memorandum for the Secretary of Agriculture
 
 Effective upon the publication of this memorandum in the Federal Register, there is established the program relating to food for education and child nutrition authorized by subsection 3107(b) of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171) (7 U.S.C. 17360–1 \[1736<i>o</i>–1\]). Pursuant to subsection 3107(d) of the Act, the Department of Agriculture is designated to take actions specified in that subsection. The authorities and duties of the President under section 3107 (except the authority to designate under 3107(d)) are delegated to the Secretary of Agriculture.
 
-In the implementation of a program for which section 3107 provides, the Secretary of Agriculture shall consult as appropriate with the Food Policy Assistance Council established by section 3 of Executive Order 12752 of February 25, 1991, as amended \[7 U.S.C. 1691 note\], and such heads of Federal departments and agencies as the Secretary determines appropriate.
+In the implementation of a program for which section 3107 provides, the Secretary of Agriculture shall consult as appropriate with the Food Policy Assistance Council established by section 3 of Executive Order12752 of February 25, 1991, as amended \[7 U.S.C. 1691 note\], and such heads of Federal departments and agencies as the Secretary determines appropriate.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

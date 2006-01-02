@@ -1,5 +1,5 @@
 
-1 U.S.C.<br>United States Code, 2004 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
+1 U.S.C.<br>United States Code, 2005 Edition<br>Title 1 - GENERAL PROVISIONS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 1—GENERAL PROVISIONS
 

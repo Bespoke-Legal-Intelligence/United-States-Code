@@ -56,7 +56,3 @@ Amendment by section 107(b) of Pub. L. 98–67 effective Aug. 5, 1983, see secti
 
 Amendment by Pub. L. 97–34 applicable to acts and failures to act after Dec. 31, 1981, see section 721(d) of Pub. L. 97–34, set out as a note under section 6682 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3406 of this title; title 7 section 12a.
-

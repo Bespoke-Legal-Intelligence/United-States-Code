@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 #### (4) Facility
 
-&emsp;The term “facility” means all buildings, equipment, structures, and other stationary items which are located on a single site or on contiguous or adjacent sites and which are owned or operated by the same person (or by any person which controls, is controlled by, or under common control with, such person). For purposes of section 11004 of this title, the term includes motor vehicles, rolling stock, and aircraft.
+&emsp;The term “facility” means all buildings, equipment, structures, and other stationaryitems which are located on a single site or on contiguous or adjacent sites and which are owned or operated by the same person (or by any person which controls, is controlled by, or under common control with, such person). For purposes of section 11004 of this title, the term includes motor vehicles, rolling stock, and aircraft.
 
 #### (5) Hazardous chemical
 

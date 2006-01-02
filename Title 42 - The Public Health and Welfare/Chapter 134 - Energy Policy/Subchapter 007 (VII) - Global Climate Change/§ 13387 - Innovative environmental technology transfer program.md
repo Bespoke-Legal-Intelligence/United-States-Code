@@ -32,7 +32,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 (1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall—
 
-&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects, and services related thereto, that substantially reduce environmental pollutants, including greenhouse gases in foreign countries;
+&emsp;(A) establish appropriate financial mechanisms to increase the participation of United States firms in energy projects, and servicesrelated thereto, that substantially reduce environmental pollutants, including greenhouse gases in foreign countries;
 
 &emsp;(B) utilize available financial assistance authorized by this section to counterbalance assistance provided by foreign governments to non-United States firms; and
 
@@ -78,7 +78,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 #### (h) Eligible technologies
 
-Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligibletechnologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
+Not later than 6 months after October 24, 1992, the Secretary shall prepare a list of eligible technologies and services under this section. In preparing such a list, the Secretary shall consider fuel cell powerplants, aeroderivitive gas turbines and catalytic combustion technologies for aeroderivitive gas turbines, ocean thermal energy conversion technology, anaerobic digester and storage tanks, and other renewable energy and energy efficiency technologies.
 
 #### (i) Selection of projects
 

@@ -2,7 +2,7 @@
 
 #### Prior Provisions
 
-A prior subchapter IV, consisting of sections 3741 to 3748, related to block grants by Bureau of Justice Assistance, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328. For similar provisions, see part A (§3751 et seq.) of subchapter V of this chapter.
+A prior subchapter IV, consisting of sections 3741 to 3748, related to block grants by Bureau of Justice Assistance, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328. For similar provisions, see part A (§3750 et seq.) of subchapter V of this chapter.
 
 Section 3741, Pub. L. 90–351, title I, §401, as added Pub. L. 98–473, title II, §606, Oct. 12, 1984, 98 Stat. 2080; amended Pub. L. 99–570, title I, §1552(b)(1), Oct. 27, 1986, 100 Stat. 3207–46, related to establishment of Bureau of Justice Assistance, appointment of Director, and authority and restrictions with regard to Director.
 
@@ -42,7 +42,7 @@ Section 3743, Pub. L. 90–351, title I, §403, June 19, 1968, 82 Stat. 203; Pub
 
 Section 3744, Pub. L. 90–351, title I, §404, June 19, 1968, 82 Stat. 204; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, provided for Federal Bureau of Investigation law enforcement training programs.
 
-Section 3745, Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, repealed Law Enforcement Assistance Act of 1965 and provided for funds to continue projects started thereunder.
+Section 3745, Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, repealed Law Enforcement Assistance Act of 1965 andprovided for funds to continue projects started thereunder.
 
 Section 3746, Pub. L. 90–351, title I, §406, June 19, 1968, 82 Stat. 204; Pub. L. 91–644, title I, §5(1), Jan. 2, 1971, 84 Stat. 1884; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 207, provided for academic educational assistance.
 
@@ -60,7 +60,7 @@ Section 3750b, Pub. L. 90–351, title I, §453, as added Pub. L. 91–644, titl
 
 Section 3750c, Pub. L. 90–351, title I, §454, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1886; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 210; Pub. L. 94–237, §4(c)(5)(C), Mar. 19, 1976, 90 Stat. 244, set out guidelines and basic criteria for applicants and grantees.
 
-Section 3750d, Pub. L. 90–351, title I, §455, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1886;amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 210; Pub. L. 94–503, title I, §119(a), Oct. 15, 1976, 90 Stat. 2417, related to allocation and reallocation of funds.
+Section 3750d, Pub. L. 90–351, title I, §455, as added Pub. L. 91–644, title I, §6(a), Jan. 2, 1971, 84 Stat. 1886; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 210; Pub. L. 94–503, title I, §119(a), Oct. 15, 1976, 90 Stat. 2417, related to allocation and reallocation of funds.
 
 
 ---
@@ -69,3 +69,4 @@ Section 3750d, Pub. L. 90–351, title I, §455, as added Pub. L. 91–644, titl
 
 - [&sect; 03741 - Establishment of Bureau of Justice Assistance](%C2%A7%2003741%20-%20Establishment%20of%20Bureau%20of%20Justice%20Assistance.md)
 - [&sect; 03742 - Duties and functions of Director](%C2%A7%2003742%20-%20Duties%20and%20functions%20of%20Director.md)
+- [&sect; 03743 - Grants for young witness assistance](%C2%A7%2003743%20-%20Grants%20for%20young%20witness%20assistance.md)

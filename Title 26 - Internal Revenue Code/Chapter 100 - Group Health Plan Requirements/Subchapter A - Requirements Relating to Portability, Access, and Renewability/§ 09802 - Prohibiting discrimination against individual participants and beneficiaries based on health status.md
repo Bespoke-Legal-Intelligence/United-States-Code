@@ -68,7 +68,3 @@ A church plan (as defined in section 414(e)) shall not be treated as failing to 
 
 Section 1532(b) of Pub. L. 105–34 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9803 of this title.
-

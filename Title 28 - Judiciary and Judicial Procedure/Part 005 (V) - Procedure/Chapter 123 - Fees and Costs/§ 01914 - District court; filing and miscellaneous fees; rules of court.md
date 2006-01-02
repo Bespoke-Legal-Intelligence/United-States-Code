@@ -46,7 +46,7 @@ Pub. L. 108–447, div. B, title III, §307(c), Dec. 8, 2004, 118 Stat. 2895, pr
 
 #### Effective Date of 1996 Amendment
 
-Section 401(c) of Pub. L. 104–317 provided that: “This section \[amending this section and section 1931 of thistitle\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 19, 1996\].”
+Section 401(c) of Pub. L. 104–317 provided that: “This section \[amending this section and section 1931 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 19, 1996\].”
 
 #### Effective Date of 1986 Amendment
 

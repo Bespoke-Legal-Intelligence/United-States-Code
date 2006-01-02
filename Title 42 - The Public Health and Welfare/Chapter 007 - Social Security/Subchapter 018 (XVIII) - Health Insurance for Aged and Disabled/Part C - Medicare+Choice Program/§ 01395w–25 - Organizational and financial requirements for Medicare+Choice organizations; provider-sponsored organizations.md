@@ -30,7 +30,7 @@
 
 #### (D) Denial of application based on application of solvency requirements
 
-&emsp;&emsp;With respect to waiver applications filed on or after the date of publication of solvency standards under section 1395w–26(a) of this title, the ground for approval of such awaiver application described in this subparagraph is that the State has denied such a licensing application based (in whole or in part) on the organization's failure to meet applicable solvency requirements and—
+&emsp;&emsp;With respect to waiver applications filed on or after the date of publication of solvency standards under section 1395w–26(a) of this title, the ground for approval of such a waiver application described in this subparagraph is that the State has denied such a licensing application based (in whole or in part) on the organization's failure to meet applicable solvency requirements and—
 
 &emsp;&emsp;&emsp;(i) such requirements are not the same as the solvency standards established under section 1395w–26(a) of this title; or
 
@@ -82,7 +82,7 @@
 
 #### (iii) Enforcement
 
-&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary may enter into an agreement with the State under which the State agrees to provide for monitoring and enforcement activities with respect to compliance of such an organization and its Medicare+Choice plans with such standards. Such monitoring and enforcement shall be conducted by the State in the same manner as the State enforces such standards with respect to other Medicare+Choice organizations and plans, without discrimination based on the type of organization to which the standards apply. Such an agreement shall specify or establish mechanisms by which compliance activities are undertaken, while not lengthening the time required to review and process applications for waivers under this paragraph.
+&emsp;&emsp;&emsp;In the case of such a waiver granted to an organization with respect to a State, the Secretary may enter into an agreement with the State under which the State agrees to provide for monitoring and enforcement activities with respect to compliance of such an organization and its Medicare+Choice plans with such standards. Such monitoring and enforcement shall be conducted by the State in the same manner as the State enforces such standards with respect to otherMedicare+Choice organizations and plans, without discrimination based on the type of organization to which the standards apply. Such an agreement shall specify or establish mechanisms by which compliance activities are undertaken, while not lengthening the time required to review and process applications for waivers under this paragraph.
 
 #### (H) Report
 
@@ -94,7 +94,7 @@
 
 #### (b) Assumption of full financial risk
 
-The Medicare+Choice organization shall assume full financial risk on a prospective basis for the provision of the health care services forwhich benefits are required to be provided under section 1395w–22(a)(1) of this title, except that the organization—
+The Medicare+Choice organization shall assume full financial risk on a prospective basis for the provision of the health care services for which benefits are required to be provided under section 1395w–22(a)(1) of this title, except that the organization—
 
 &emsp;(1) may obtain insurance or make other arrangements for the cost of providing to any enrolled member such services the aggregate value of which exceeds such aggregate level as the Secretary specifies from time to time,
 

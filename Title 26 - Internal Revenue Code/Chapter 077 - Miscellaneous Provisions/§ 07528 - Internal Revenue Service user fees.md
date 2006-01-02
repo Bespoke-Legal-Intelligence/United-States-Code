@@ -72,9 +72,17 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### (c) Termination
 
-No fee shall be imposed under this section with respect to requests made after December 31, 2004.
+No fee shall be imposed under this section with respect to requests made after September 30, 2014.
 
-(Added Pub. L. 108–89, title II, §202(a), Oct. 1, 2003, 117 Stat. 1132.)
+(Added Pub. L. 108–89, title II, §202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, §891(a), Oct. 22, 2004, 118 Stat. 1644.)
+
+#### Amendments
+
+2004—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: “The amendment made by this section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 2003 Amendment
 

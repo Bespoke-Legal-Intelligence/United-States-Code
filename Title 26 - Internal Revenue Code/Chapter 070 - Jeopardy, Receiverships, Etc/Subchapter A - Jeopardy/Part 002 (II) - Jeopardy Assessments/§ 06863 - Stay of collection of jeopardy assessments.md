@@ -96,9 +96,5 @@ Amendment by section 1204(c)(7)–(9) of Pub. L. 94–455 applicable with respec
 
 Amendment by section 1906(a)(38), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6861, 7103 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

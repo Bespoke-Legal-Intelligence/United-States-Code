@@ -40,7 +40,7 @@ In carrying out subsection (a) of this section, the Council may—
 
 #### (c) Reports
 
-(1) Within 90 days after July 22, 1987, and annually thereafter, the head of each Federal agency that is a member of the Council shall prepareand transmit to the Congress and the Council a report that describes—
+(1) Within 90 days after July 22, 1987, and annually thereafter, the head of each Federal agency that is a member of the Council shall prepare and transmit to the Congress and the Council a report that describes—
 
 &emsp;(A) each program to assist homeless individuals administered by such agency and the number of homeless individuals served by such program;
 

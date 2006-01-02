@@ -14,7 +14,3 @@ Any person exempted under the provisions of section 4905 from the payment of a s
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5141, 7272 of this title.
-

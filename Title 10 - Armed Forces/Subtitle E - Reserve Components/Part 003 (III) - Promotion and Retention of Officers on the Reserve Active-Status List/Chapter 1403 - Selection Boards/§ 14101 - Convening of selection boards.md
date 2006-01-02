@@ -2,7 +2,7 @@
 
 (a)
 
-Promotion Boards.—(1) Whenever the needs of the Army, Navy, Air Force, or Marine Corps require, the Secretary concerned shall convene a selection board to recommend for promotion to the next higher grade, under chapter 1405 of this title, officers on the reserve active-status list of that armed force in a permanent grade from first lieutenant through brigadier general or, in the case of the Naval Reserve, lieutenant (junior grade) through rear admiral (lower half). A selection board convened under this subsection shall be known as a “promotion board”.
+Promotion Boards.—(1) Whenever the needs of the Army, Navy, Air Force, or Marine Corps require, the Secretary concerned shall convene a selection board to recommend for promotion to the next higher grade, under chapter 1405 of this title, officers on the reserve active-status list of that armed force in a permanent grade from first lieutenant through brigadier general or, in the case of the Navy Reserve, lieutenant (junior grade) through rear admiral (lower half). A selection board convened under this subsection shall be known as a “promotion board”.
 
 (2) A promotion board convened to recommend reserve officers of the Army or reserve officers of the Air Force for promotion (A) to fill a position vacancy under section 14315 of this title, or (B) to the grade of brigadier general or major general, shall be known as a “vacancy promotion board”. Any other promotion board convened under this subsection shall be known as a “mandatory promotion board”.
 
@@ -16,9 +16,11 @@ Selective Early Separation Boards.—Whenever the needs of the Army, Navy, Air F
 
 &emsp;(2) for selective early retirement under section 14705 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, §514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §505(b)(3), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 108–136, div. A, title V, §511(b)(1), Nov. 24, 2003, 117 Stat. 1459.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2924; amended Pub. L. 105–85, div. A, title V, §514(a), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §505(b)(3), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 108–136, div. A, title V, §511(b)(1), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, §515(b)(1)(PP), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2003—Subsec. (b). Pub. L. 108–136, §511(b)(1)(A), (D), substituted “Selective Early Separation Boards” for “Continuation Boards” in heading and struck out concluding provisions which read as follows: “A selection board convened under this subsection shall be known as a ‘continuation board’.”
 
@@ -31,8 +33,4 @@ Subsec. (b)(1) to (3). Pub. L. 108–136, §511(b)(1)(B), (C), redesignated pars
 #### Effective Date
 
 Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 991, 1558, 14102, 14103, 14104, 14105, 14106, 14107, 14108, 14109, 14110, 14301, 14304, 14305, 14306, 14307, 14308, 14312, 14315, 14316, 14317, 14501, 14502, 14504, 14704, 14705 of this title.
 

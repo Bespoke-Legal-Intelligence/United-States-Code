@@ -38,7 +38,7 @@ In carrying on activities which further the purposes of this chapter, subject to
 
 #### References in Text
 
-The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general orspecial, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”.
+The Subsistence Expenses Act of 1926, as amended, referred to in subsec. (a)(3), was repealed and superseded by the Travel Expense Act of 1949, which is covered by subchapter I of chapter 57 of Title 5, Government Organization and Employees. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”.
 
 #### Amendments
 

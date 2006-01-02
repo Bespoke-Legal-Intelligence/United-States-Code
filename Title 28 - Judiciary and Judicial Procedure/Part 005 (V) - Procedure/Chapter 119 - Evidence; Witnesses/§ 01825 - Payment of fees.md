@@ -14,7 +14,7 @@
 
 (c) Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the United States marshal under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I,§104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I, §104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 

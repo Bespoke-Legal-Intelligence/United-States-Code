@@ -92,7 +92,3 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1967, 
 
 For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6655 of this title.
-

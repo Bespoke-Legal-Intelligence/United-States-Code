@@ -8,7 +8,7 @@ Copyright protection under this title is not available for any work of the Unite
 
 I74house report no. 94–1476
 
-<b>Scope of the Prohibition.</b> The basic premise of section 105 of the bill is the same as that of section 8 of thepresent law \[section 8 of former title 17\]—that works produced for the U.S. Government by its officers and employees should not be subject to copyright. The provision applies the principle equally to unpublished and published works.
+<b>Scope of the Prohibition.</b> The basic premise of section 105 of the bill is the same as that of section 8 of the present law \[section 8 of former title 17\]—that works produced for the U.S. Government by its officers and employees should not be subject to copyright. The provision applies the principle equally to unpublished and published works.
 
 The general prohibition against copyright in section 105 applies to “any work of the United States Government,” which is defined in section 101 as “a work prepared by an officer or employee of the United States Government as part of that person's official duties.” Under this definition a Government official or employee would not be prevented from securing copyright in a work written at that person's own volition and outside his or her duties, even though the subject matter involves the Government work or professional field of the official or employee. Although the wording of the definition of “work of the United States Government” differs somewhat from that of the definition of “work made for hire,” the concepts are intended to be construed in the same way.
 

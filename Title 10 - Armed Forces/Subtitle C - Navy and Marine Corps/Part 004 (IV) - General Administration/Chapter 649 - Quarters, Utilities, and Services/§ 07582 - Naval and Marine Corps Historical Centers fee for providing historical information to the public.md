@@ -18,7 +18,7 @@ Limitation on Amount.—A fee charged for providing information under this secti
 
 (d)
 
-Retention of Fees.—Amounts received under subsection (a) for providing informationfrom the United States Naval Historical Center or the Marine Corps Historical Center in any fiscal year shall be credited to the appropriation or appropriations charged the costs of providing information to the public from that historical center during that fiscal year.
+Retention of Fees.—Amounts received under subsection (a) for providing information from the United States Naval Historical Center or the Marine Corps Historical Center in any fiscal year shall be credited to the appropriation or appropriations charged the costs of providing information to the public from that historical center during that fiscal year.
 
 (e)
 

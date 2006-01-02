@@ -34,7 +34,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 #### (1) Commencement of repayment
 
-&emsp;Repayment of principal on loans made under this section shall commence not later than 60days after the date such loan is disbursed by the lender, subject to deferral during any period during which the parent meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title.
+&emsp;Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral during any period during which the parent meets the conditions required for a deferral under section 1077(a)(2)(C) or 1078(b)(1)(M) of this title.
 
 #### (2) Capitalization of interest
 
@@ -110,7 +110,7 @@ October 17, 1986, referred to in subsec. (e)(5), was in the original “the date
 
 #### Prior Provisions
 
-A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94 Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -158,7 +158,7 @@ Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” afte
 
 Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted “under this section before July 1, 1987, or” before “under this section” and substituted “to reissue a loan or loans” for “to reissue a loan” and “reissuing such loan or loans” for “reissuing such loan”.
 
-Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly andtotal payments for a set of loan examples” before semicolon at end.
+Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
 
 #### Effective Date of 1998 Amendment
 

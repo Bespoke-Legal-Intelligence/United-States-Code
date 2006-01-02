@@ -1,8 +1,8 @@
 ### §5113. Unsatisfactory safety rating
 
-See section 31144.
+A violation of section 31144(c)(3) shall be considered a violation of this chapter, and shall be subject to the penalties in sections 5123 and 5124.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 771; Pub. L. 105–178, title IV, §4009(b), June 9, 1998, 112 Stat. 407.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 771; Pub. L. 105–178, title IV, §4009(b), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title VII, §7112(a), Aug. 10, 2005, 119 Stat. 1899.)
 
 Historical and Revision Notes
 
@@ -43,6 +43,8 @@ In subsection (b), the words “from the Secretary” and “conditions and othe
 In subsection (d), the words “Not later than 1 year after the date of enactment of this Act” are omitted as obsolete.
 
 #### Amendments
+
+2005—Pub. L. 109–59 amended text generally. Prior to amendment, text read as follows: “See section 31144.”
 
 1998—Pub. L. 105–178 substituted “See section 31144.” for subsecs. (a) to (d) which related to unsatisfactory safety ratings.
 

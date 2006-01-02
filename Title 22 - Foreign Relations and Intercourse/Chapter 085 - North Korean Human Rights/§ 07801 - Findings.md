@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(4) The Government of North Korea divides its population into categories, based on perceived loyalty to the leadership, which determines access to food, employment, higher education, place of residence, medical facilities, and other resources.
 
-&emsp;(5) According to the Department of State, “\[t\]he \[North Korean\] Penal Code is \[d\]raconian, stipulating capital punishment and confiscation of assets for a wide variety of ‘crimes against the revolution,’ including defection, attempted defection, slander of thepolicies of the Party or State, listening to foreign broadcasts, writing ‘reactionary’ letters, and possessing reactionary printed matter”.
+&emsp;(5) According to the Department of State, “\[t\]he \[North Korean\] Penal Code is \[d\]raconian, stipulating capital punishment and confiscation of assets for a wide variety of ‘crimes against the revolution,’ including defection, attempted defection, slander of the policies of the Party or State, listening to foreign broadcasts, writing ‘reactionary’ letters, and possessing reactionary printed matter”.
 
 &emsp;(6) The Government of North Korea executes political prisoners, opponents of the regime, some repatriated defectors, some members of underground churches, and others, sometimes at public meetings attended by workers, students, and schoolchildren.
 

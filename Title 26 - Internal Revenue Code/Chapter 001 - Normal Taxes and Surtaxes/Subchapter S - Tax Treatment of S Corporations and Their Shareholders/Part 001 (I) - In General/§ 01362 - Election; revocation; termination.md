@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) either—
 
-&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election was made the corporation did not meet the requirements of subsection (b) of section 1361, or
+&emsp;&emsp;&emsp;(i) on 1 or more days in such taxable year before the day on which the election wasmade the corporation did not meet the requirements of subsection (b) of section 1361, or
 
 &emsp;&emsp;&emsp;(ii) 1 or more of the persons who held stock in the corporation during such taxable year and before the election was made did not consent to the election,
 
@@ -130,7 +130,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investment income” means gross receipts derived from royalties, rents, dividends, interest, annuities, and sales or exchanges of stock or securities (gross receipts from such sales or exchanges being taken into account for purposes of this paragraph only to the extent of gains therefrom).
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “passive investmentincome” means gross receipts derived from royalties, rents, dividends, interest, annuities, and sales or exchanges of stock or securities (gross receipts from such sales or exchanges being taken into account for purposes of this paragraph only to the extent of gains therefrom).
 
 #### (ii) Exception for interest on notes from sales of inventory
 
@@ -170,6 +170,14 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 &emsp;&emsp;If an S corporation holds stock in a C corporation meeting the requirements of section 1504(a)(2), the term “passive investment income” shall not include dividends from such C corporation to the extent such dividends are attributable to the earnings and profits of such C corporation derived from the active conduct of a trade or business.
 
+#### (F) Exception for banks; etc.
+
+&emsp;&emsp;In the case of a bank (as defined in section 581),<sup>1</sup> a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),<sup>2</sup> the term “passive investment income” shall not include—
+
+&emsp;&emsp;&emsp;(i) interest income earned by such bank or company, or
+
+&emsp;&emsp;&emsp;(ii) dividends on assets required to be held by such bank or company, including stock in the Federal Reserve Bank, the Federal Home Loan Bank, or the Federal Agricultural Mortgage Bank or participation certificates issued by a Federal Intermediate Credit Bank.
+
 #### (e) Treatment of S termination year
 
 #### (1) In general
@@ -182,7 +190,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (B) C short year
 
-&emsp;&emsp;The portion of such year beginning on such 1st day shall be treated as a short taxableyear for which the corporation is a C corporation.
+&emsp;&emsp;The portion of such year beginning on such 1st day shall be treated as a short taxable year for which the corporation is a C corporation.
 
 #### (2) Pro rata allocation
 
@@ -244,31 +252,49 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 If—
 
-&emsp;(1) an election under subsection (a) by any corporation—
+&emsp;(1) an election under subsection (a), section 1361(b)(3)(B)(ii), or section 1361(c)(1)(A)(ii) by any corporation—
 
 &emsp;&emsp;(A) was not effective for the taxable year for which made (determined without regard to subsection (b)(2)) by reason of a failure to meet the requirements of section 1361(b) or to obtain shareholder consents, or
 
-&emsp;&emsp;(B) was terminated under paragraph (2) or (3) of subsection (d),
+&emsp;&emsp;(B) was terminated under paragraph (2) or (3) of subsection (d), section 1361(b)(3)(C), or section 1361(c)(1)(D)(iii),
 
 &emsp;(2) the Secretary determines that the circumstances resulting in such ineffectiveness or termination were inadvertent,
 
 &emsp;(3) no later than a reasonable period of time after discovery of the circumstances resulting in such ineffectiveness or termination, steps were taken—
 
-&emsp;&emsp;(A) so that the corporation is a small business corporation, or
+&emsp;&emsp;(A) so that the corporation for which the election was made or the termination occurred is a small business corporation or a qualified subchapter S subsidiary, as the case may be, or
 
 &emsp;&emsp;(B) to acquire the required shareholder consents, and
 
-&emsp;(4) the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,
+&emsp;(4) the corporation for which the election was made or the termination occurred, and each person who was a shareholder in such corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such corporation as an S corporation or a qualified subchapter S subsidiary, as the case may be) as may be required by the Secretary with respect to such period,
 
-> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation during the period specified by the Secretary.
+> then, notwithstanding the circumstances resulting in such ineffectiveness or termination, such corporation shall be treated as an S corporation or a qualified subchapter S subsidiary, as the case may be <sup>3</sup> during the period specified by the Secretary.
 
 #### (g) Election after termination
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (<i>l</i>), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641.)
 
 #### Amendments
+
+2005—Subsec. (d)(3)(F). Pub. L. 109–135 substituted “a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” for “a bank holding company (withinthe meaning of section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a))), or a financial holding company (within the meaning of section 2(p) of such Act)”.
+
+2004—Subsec. (d)(3)(F). Pub. L. 108–357, §237(a), added subpar. (F).
+
+Subsec. (f). Pub. L. 108–357, §238(a)(5), inserted “or a qualified subchapter S subsidiary, as the case may be” after “S corporation” in concluding provisions.
+
+Subsec. (f)(1). Pub. L. 108–357, §238(a)(1), inserted “, section 1361(b)(3)(B)(ii),” after “subsection (a)” in introductory provisions.
+
+Pub. L. 108–357, §231(b)(1), inserted “or section 1361(c)(1)(A)(ii)” after “section 1361(b)(3)(B)(ii),” in introductory provisions.
+
+Subsec. (f)(1)(B). Pub. L. 108–357, §238(a)(2), inserted “, section 1361(b)(3)(C),” after “subsection (d)”.
+
+Pub. L. 108–357, §231(b)(2), inserted “or section 1361(c)(1)(D)(iii)” after “section 1361(b)(3)(C),”.
+
+Subsec. (f)(3)(A). Pub. L. 108–357, §238(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “so that the corporation is a small business corporation, or”.
+
+Subsec. (f)(4). Pub. L. 108–357, §238(a)(4), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the corporation, and each person who was a shareholder in the corporation at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of the corporation as an S corporation) as may be required by the Secretary with respect to such period,”.
 
 1999—Subsec. (d)(3)(C)(ii). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
@@ -324,6 +350,18 @@ Subsec. (e)(6)(C). Pub. L. 98–369, §721(g)(1), added subpar. (C).
 
 Subsec. (e)(6)(D). Pub. L. 98–369, §721(t), added subpar. (D).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 413(d) of Pub. L. 109–135, set out as a note under section 1361 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §231(c)(2), Oct. 22, 2004, 118 Stat. 1434, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to elections and terminations made after December 31, 2004.”
+
+Pub. L. 108–357, title II, §237(b), Oct. 22, 2004, 118 Stat. 1436, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+
+Pub. L. 108–357, title II, §238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: “The amendments made by this section \[amending this section\] shall apply to elections made and terminations made after December 31, 2004.”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
@@ -342,7 +380,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 102(d)(2) of Pub. L. 98–369 applicable to positions established after July 18, 1984, in taxable years ending after that date except as otherwise provided, see section 102(f), (g) of Pub. L. 98–369, set out as a note under section 1256 of this title.
 
-Amendment by section 721(g), (h), (<i>l</i>), (t) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, except that amendment by section 721(g)(1) is not applicable to certain qualified stock purchases, amendment by section 721(<i>l</i>) is applicable to any election under this section (or any corresponding provision of prior law) made after Oct. 19, 1982, and amendment by section 721(t) is not applicable to certain S termination years, see section 721(y) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(g), (h), (<i>l</i>), (t) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, except that amendmentby section 721(g)(1) is not applicable to certain qualified stock purchases, amendment by section 721(<i>l</i>) is applicable to any election under this section (or any corresponding provision of prior law) made after Oct. 19, 1982, and amendment by section 721(t) is not applicable to certain S termination years, see section 721(y) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date
 
@@ -356,13 +394,15 @@ Section 1317(b) of Pub. L. 104–188 provided that: “For purposes of section 1
 
 Section 102(d)(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1808(a)(2), Oct. 22, 1986, 100 Stat. 2095, 2817, provided that: “If a commodities dealer or an options dealer—
 
-&emsp;“(A) becomes a small business corporation (as defined in section 1361(b) of the Internal Revenue Codeof 1986 \[formerly I.R.C. 1954\]) at any time before the close of the 75th day after the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;“(A) becomes a small business corporation (as defined in section 1361(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) at any time before the close of the 75th day after the date of the enactment of this Act \[July 18, 1984\], and
 
 &emsp;“(B) makes the election under section 1362(a) of such Code before the close of such 75th day,
 
 > then such dealer shall be treated as having received approval for and adopted a taxable year beginning on the first day during 1984 on which it was a small business corporation (as so defined) or such other day as may be permitted under regulations and ending on the date determined under section 1378 of such Code and such election shall be effective for such taxable year.”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. The comma probably should be “or”.</i>
 
-This section is referred to in sections 943, 1042, 1361, 1363, 1371, 1374, 1375, 1377, 1379, 6103 of this title.
+<i><sup>2</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -80,7 +80,7 @@ Electronic submission.—Plans described in paragraph (2) may be submitted elect
 
 &emsp;“(4)
 
-Model form.—Not later than March 31, 2002, the Secretary of Health and Human Services shallpromulgate a model form that persons may use in drafting a plan described in paragraph (2). The promulgation of such form shall be made without regard to chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+Model form.—Not later than March 31, 2002, the Secretary of Health and Human Services shall promulgate a model form that persons may use in drafting a plan described in paragraph (2). The promulgation of such form shall be made without regard to chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
 
 &emsp;“(5)
 
@@ -208,5 +208,5 @@ Definitions.—In this section—
 
 &emsp;“(2) the terms ‘small health plan’ and ‘transaction’ have the meaning given those terms in section 160.103 of title 45, Code of Federal Regulations; and
 
-&emsp;“(3) the terms ‘health care claims or equivalent encounter information transaction’, ‘health care payment and remittance advice transaction’, ‘coordination of benefits transaction’, ‘health care claim status transaction’, ‘enrollment and disenrollment in a health plan transaction’, ‘eligibility for a health plan transaction’, ‘health plan premium paymentstransaction’, and ‘referral certification and authorization transaction’ have the meanings given those terms in sections 162.1101, 162.1601, 162.1801, 162.1401, 162.1501, 162.1201, 162.1701, and 162.1301 of title 45, Code of Federal Regulations, respectively.”
+&emsp;“(3) the terms ‘health care claims or equivalent encounter information transaction’, ‘health care payment and remittance advice transaction’, ‘coordination of benefits transaction’, ‘health care claim status transaction’, ‘enrollment and disenrollment in a health plan transaction’, ‘eligibility for a health plan transaction’, ‘health plan premium payments transaction’, and ‘referral certification and authorization transaction’ have the meanings given those terms in sections 162.1101, 162.1601, 162.1801, 162.1401, 162.1501, 162.1201, 162.1701, and 162.1301 of title 45, Code of Federal Regulations, respectively.”
 

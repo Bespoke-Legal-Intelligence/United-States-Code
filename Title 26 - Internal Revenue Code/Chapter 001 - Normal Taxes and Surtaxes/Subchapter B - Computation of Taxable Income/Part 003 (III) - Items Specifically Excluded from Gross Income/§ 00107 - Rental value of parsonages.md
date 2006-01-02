@@ -32,7 +32,3 @@ Returns positions.—The amendment made by this section also shall apply to any 
 
 Other years before 2002.—Except as provided in paragraph (2), notwithstanding any prior regulation, revenue ruling, or other guidance issued by the Internal Revenue Service, no person shall be subject to the limitations added to section 107 of such Code by this Act for any taxable year beginning before January 1, 2002.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 265, 1402 of this title; title 42 section 411.
-

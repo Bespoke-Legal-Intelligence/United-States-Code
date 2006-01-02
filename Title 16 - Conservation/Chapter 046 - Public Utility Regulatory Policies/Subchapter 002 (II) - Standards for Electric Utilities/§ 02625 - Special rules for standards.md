@@ -14,7 +14,7 @@ In undertaking the consideration and making the determination under section 2621
 
 #### (b) Time-of-day rates
 
-In undertaking the consideration and making the determination required under section 2621 of this title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering costs and other costs associated with the use of such rates.
+In undertaking the consideration and making the determination required under section 2621 of this title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title and the standard for time-based metering and communications established by section 2621(d)(14) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering and communications costs and other costs associated with the use of such rates.
 
 #### (c) Load management techniques
 
@@ -44,7 +44,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 (2) In making a review under subparagraph (B) of paragraph (1) with respect to an electric utility, the reviewing authority shall examine and, if appropriate, cause to be audited the practices of such electric utility relating to costs subject to an automatic adjustment clause, and shall require such reports as may be necessary to carry out such review (including a disclosure of any ownership or corporate relationship between such electric utility and the seller to such utility of fuel, electric energy, or other items).
 
-(3) As used in this subsection and section 2623(b) of this title, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include an interim rate which takes effect subject to a later determination of the appropriate amount of the rate.
+(3) As used in this subsection and section 2623(b) of this title, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflectingincreases or decreases (or both) in costs incurred by an electric utility. Such term does not include an interim rate which takes effect subject to a later determination of the appropriate amount of the rate.
 
 #### (f) Information to consumers
 
@@ -84,7 +84,7 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 (1) For purposes of this section and section 2623(b)(5) of this title—
 
-&emsp;(A) The term “advertising” means the commercial use, by an electric utility, of anymedia, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
+&emsp;(A) The term “advertising” means the commercial use, by an electric utility, of any media, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
 
 &emsp;(B) The term “political advertising” means any advertising for the purpose of influencing public opinion with respect to legislative, administrative, or electoral matters, or with respect to any controversial issue of public importance.
 
@@ -104,9 +104,19 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 &emsp;(F) any explanation or justification of existing or proposed rate schedules, or notifications of hearings thereon.
 
-(Pub. L. 95–617, title I, §115, Nov. 9, 1978, 92 Stat. 3125.)
+#### (i) Time-based metering and communications
+
+In making a determination with respect to the standard established by section 2621(d)(14) of this title, the investigation requirement of section 2621(d)(14)(F) of this title shall be as follows: Each State regulatory authority shall conduct an investigation and issue a decision whether or not it is appropriate for electric utilities to provide and install time-based metersand communications devices for each of their customers which enable such customers to participate in time-based pricing rate schedules and other demand response programs.
+
+(Pub. L. 95–617, title I, §115, Nov. 9, 1978, 92 Stat. 3125; Pub. L. 109–58, title XII, §1252(b), Aug. 8, 2005, 119 Stat. 965.)
 
 #### References in Text
 
 The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+
+#### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58, §1252(b)(1), (2), inserted “and the standard for time-based metering and communications established by section 2621(d)(14) of this title” after “section 2621(d)(3) of this title” and substituted “metering and communications costs” for “metering costs”.
+
+Subsec. (i). Pub. L. 109–58, §1252(b)(3), added subsec. (i).
 

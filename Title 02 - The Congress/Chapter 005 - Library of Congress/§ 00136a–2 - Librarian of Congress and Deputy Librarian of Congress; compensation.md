@@ -34,5 +34,5 @@ Pub. L. 98–63, title I, §904(c), July 30, 1983, 97 Stat. 337, provided that s
 
 1977—Salaries of Librarian and Deputy Librarian increased respectively to $50,000 and $47,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
 
-1969—Salaries of Librarian and Deputy Librarian increased respectively to $38,000 and $36,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of this title.
+1969—Salaries of Librarian and Deputy Librarian increased respectively to $38,000 and $36,000 per annum, onrecommendation of the President of the United States, see note set out under section 358 of this title.
 

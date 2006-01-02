@@ -40,7 +40,7 @@ If the Secretary determines that there is a deficiency in respect of any tax imp
 
 The Secretary may, with the consent of the taxpayer, rescind any notice of deficiency mailed to the taxpayer. Any notice so rescinded shall not be treated as a notice of deficiency for purposes of subsection (c)(1) (relating to further deficiency letters restricted), section 6213(a) (relating to restrictions applicable to deficiencies; petition to Tax Court), and section 6512(a) (relating to limitations in case of petition to Tax Court), and the taxpayer shall have no right to file a petition with the Tax Court based on such notice. Nothing in this subsection shall affect any suspension of the running of any period of limitations during any period during which the rescinded notice was outstanding.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 85–866, title I, §§76, 89(b), Sept. 2, 1958, 72 Stat. 1661, 1665; Pub. L. 88–272, title I, §112(d)(1), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title I, §101(f)(2), (j)(40), (41), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 91–614, title I, §102(d)(5), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(10), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title II, §214(b), title XII, §§1204(c)(5), 1206(c)(3), title XIII, §1307(d)(2)(F)(ii), (G), title XVI, §1605(b)(5), title XIX, §§1901(b)(31)(C), (37)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1549, 1698, 1704, 1728, 1754, 1800, 1803, 1834; Pub. L. 95–30, title I, §101(d)(15), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title IV, §405(c)(5), title VII, §701(t)(3)(C), Nov. 6, 1978, 92 Stat. 2871, 2912; Pub. L. 96–223, title I, §101(f)(1)(C), (4), (5), Apr. 2, 1980, 94 Stat. 252, 253; Pub. L. 96–589, §6(d)(2), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 97–34, title IV, §442(d)(4), Aug. 13, 1981, 95 Stat. 323; Pub. L. 99–514, title I, §104(b)(17), title XV, §1562(a), Oct. 22, 1986, 100 Stat. 2106, 2761; Pub. L. 100–203, title X, §10713(b)(2)(C), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iii), (E), (F), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(m), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title III, §312(d)(12), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title I, §1102(b), July 22, 1998, 112 Stat. 703.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 770; Pub. L. 85–866, title I, §§76, 89(b), Sept. 2, 1958, 72 Stat. 1661, 1665; Pub. L. 88–272, title I, §112(d)(1), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title I, §101(f)(2), (j)(40), (41), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 91–614, title I, §102(d)(5), Dec. 31, 1970, 84 Stat. 1842; Pub. L. 93–406, title II, §1016(a)(10), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title II, §214(b), title XII, §§1204(c)(5), 1206(c)(3), title XIII, §1307(d)(2)(F)(ii), (G), titleXVI, §1605(b)(5), title XIX, §§1901(b)(31)(C), (37)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1549, 1698, 1704, 1728, 1754, 1800, 1803, 1834; Pub. L. 95–30, title I, §101(d)(15), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title IV, §405(c)(5), title VII, §701(t)(3)(C), Nov. 6, 1978, 92 Stat. 2871, 2912; Pub. L. 96–223, title I, §101(f)(1)(C), (4), (5), Apr. 2, 1980, 94 Stat. 252, 253; Pub. L. 96–589, §6(d)(2), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 97–34, title IV, §442(d)(4), Aug. 13, 1981, 95 Stat. 323; Pub. L. 99–514, title I, §104(b)(17), title XV, §1562(a), Oct. 22, 1986, 100 Stat. 2106, 2761; Pub. L. 100–203, title X, §10713(b)(2)(C), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iii), (E), (F), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(m), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 105–34, title III, §312(d)(12), Aug. 5, 1997, 111 Stat. 840; Pub. L. 105–206, title I, §1102(b), July 22, 1998, 112 Stat. 703.)
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 199
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
+Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, seesection 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -186,15 +186,11 @@ Amendment by section 89(b) of Pub. L. 85–866 applicable only if mailing occurs
 
 #### Notice of Deficiency To Specify Deadlines for Filing Tax Court Petition
 
-Pub. L. 105–206, title III, §3463(a), July 22, 1998, 112 Stat. 767, provided that: “The Secretary of the Treasury or the Secretary's delegate shall include on eachnotice of deficiency under section 6212 of the Internal Revenue Code of 1986 the date determined by such Secretary (or delegate) as the last day on which the taxpayer may file a petition with the Tax Court.”
+Pub. L. 105–206, title III, §3463(a), July 22, 1998, 112 Stat. 767, provided that: “The Secretary of the Treasury or the Secretary's delegate shall include on each notice of deficiency under section 6212 of the Internal Revenue Code of 1986 the date determined by such Secretary (or delegate) as the last day on which the taxpayer may file a petition with the Tax Court.”
 
 \[Section 3463(a) of Pub. L. 105–206, set out above, applicable to notices mailed after Dec. 31, 1998, see section 3463(c) of Pub. L. 105–206, set out as an Effective Date of 1998 Amendment note under section 6213 of this title.\]
 
 #### Explanations of Appeals and Collection Process
 
 Pub. L. 105–206, title III, §3504, July 22, 1998, 112 Stat. 771, provided that: “The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], include with any first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals an explanation of the entire process from examination through collection with respect to such proposed deficiency, including the assistance available to the taxpayer from the National Taxpayer Advocate at various points in the process.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1033, 1311, 2513, 4941, 4942, 4943, 4945, 4951, 4952, 4955, 4958, 4963, 4975, 6013, 6040, 6155, 6213, 6234, 6404, 6503, 6512, 6621, 6672, 6851, 6861, 6901, 7421, 7422, 7463, 7522 of this title; title 29 section 1342.
 

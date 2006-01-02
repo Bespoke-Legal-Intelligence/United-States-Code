@@ -104,7 +104,7 @@ In carrying out the demonstration program under this section, the Secretary may 
 
 &emsp;(2) the Administrator of the Agency for Healthcare Research and Quality to, where possible and appropriate, use the program under this section as a laboratory for the study of quality improvement strategies and to evaluate, monitor, and disseminate information relevant to such program; and
 
-&emsp;(3) the Administrator of the Centers for Medicare \& Medicaid Services and the Administrator of the Center for Medicare Choices to support linkages of relevant medicare data to registry information from participating health care groups for the beneficiary populations served by the participating groups, for analysis supporting the purposes of the demonstration program, consistent with the applicable provisions of the Health Insurance Portability and Accountability Act of 1996.
+&emsp;(3) the Administrator of the Centers for Medicare \& Medicaid Services and the Administrator of the Center for Medicare Choices to support linkages of relevant medicare data to registry information from participating healthcare groups for the beneficiary populations served by the participating groups, for analysis supporting the purposes of the demonstration program, consistent with the applicable provisions of the Health Insurance Portability and Accountability Act of 1996.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1866C, as added Pub. L. 108–173, title VI, §646, Dec. 8, 2003, 117 Stat. 2324.)
 

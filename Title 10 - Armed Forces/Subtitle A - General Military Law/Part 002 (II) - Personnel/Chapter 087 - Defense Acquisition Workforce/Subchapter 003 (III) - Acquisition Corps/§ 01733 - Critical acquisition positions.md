@@ -10,7 +10,7 @@ Designation of Critical Acquisition Positions.—(1) The Secretary of Defense sh
 
 &emsp;(A) Any acquisition position which—
 
-&emsp;&emsp;(i) in the case of employees, is required to be filled by an employee in a position within grade GS–14 or above of the General Schedule, or in the Senior Executive Service; or
+&emsp;&emsp;(i) in the case of employees, is required to be filled by an employee in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary, or in the Senior Executive Service; or
 
 &emsp;&emsp;(ii) in the case of members of the armed forces, is required to be filled by a commissioned officer of the Army, Navy, Air Force, or Marine Corps who is serving in the grade of lieutenant colonel, or, in the case of the Navy, commander, or a higher grade.
 
@@ -26,13 +26,11 @@ Designation of Critical Acquisition Positions.—(1) The Secretary of Defense sh
 
 (2) The Secretary shall periodically publish a list of the positions designated under this subsection.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title X, §1052(22), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–89, §3(b)(3)(C), Sept. 30, 1993, 107 Stat. 983; Pub. L. 104–201, div. A, title X, §1074(a)(9)(C), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 108–136, div. A, title VIII, §833(2), Nov. 24, 2003, 117 Stat. 1550.)
-
-#### References in Text
-
-The General Schedule, referred to in subsec. (b)(1)(A)(i), is set out under section 5332 of Title 5, Government Organization and Employees.
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title X, §1052(22), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–89, §3(b)(3)(C), Sept. 30, 1993, 107 Stat. 983; Pub. L. 104–201, div. A, title X, §1074(a)(9)(C), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 108–136, div. A, title VIII, §833(2), Nov. 24, 2003, 117 Stat. 1550; Pub. L. 108–375, div. A, title VIII, §812(a)(2), Oct. 28, 2004, 118 Stat. 2013.)
 
 #### Amendments
+
+2004—Subsec. (b)(1)(A)(i). Pub. L. 108–375 substituted “in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary,” for “in a position within grade GS–14 or above of the General Schedule,”.
 
 2003—Subsec. (a). Pub. L. 108–136 substituted “the Acquisition Corps” for “an Acquisition Corps”.
 
@@ -44,7 +42,7 @@ The General Schedule, referred to in subsec. (b)(1)(A)(i), is set out under sect
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note undersection 3372 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of Title 5, Government Organization and Employees.
 
 #### Effective Date for Requirement for Corps Members To Fill Critical Acquisition Positions
 
@@ -53,8 +51,4 @@ Pub. L. 101–510, div. A, title XII, §1209(f), Nov. 5, 1990, 104 Stat. 1666, a
 #### Publication of List of Critical Acquisition Positions
 
 Section 1209(g) of Pub. L. 101–510 provided that: “The Secretary of Defense shall publish the first list of positions designated as critical acquisition positions under section 1733(b)(2) of title 10, United States Code (as added by section 1202), not later than October 1, 1992.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1723 of this title; title 37 section 317.
 

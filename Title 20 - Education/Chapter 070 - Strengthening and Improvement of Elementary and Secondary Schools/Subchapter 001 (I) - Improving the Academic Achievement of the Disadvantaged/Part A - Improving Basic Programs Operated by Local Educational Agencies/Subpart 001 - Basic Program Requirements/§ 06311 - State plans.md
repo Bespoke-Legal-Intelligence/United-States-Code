@@ -68,7 +68,7 @@
 
 #### (B) Adequate yearly progress
 
-&emsp;&emsp;Each State plan shall demonstrate, based on academic assessments described in paragraph (3), and in accordance with this paragraph, what constitutes adequate yearly progress of the State, and of all public elementary schools, secondary schools, and local educational agencies in the State, toward enabling all public elementary school and secondary school students to meet the State's student academic achievement standards, while working toward the goal of narrowing the achievement gaps in theState, local educational agencies, and schools.
+&emsp;&emsp;Each State plan shall demonstrate, based on academic assessments described in paragraph (3), and in accordance with this paragraph, what constitutes adequate yearly progress of the State, and of all public elementary schools, secondary schools, and local educational agencies in the State, toward enabling all public elementary school and secondary school students to meet the State's student academic achievement standards, while working toward the goal of narrowing the achievement gaps in the State, local educational agencies, and schools.
 
 #### (C) Definition
 
@@ -120,7 +120,7 @@
 
 #### (F) Timeline
 
-&emsp;&emsp;Each State shall establish a timeline for adequate yearly progress. The timeline shall ensure that not later than 12 years after the end of the 2001–2002 school year, all students in each group described in subparagraph (C)(v) will meet or exceed the State's proficient level of academic achievement on the State assessments under paragraph (3).
+&emsp;&emsp;Each State shall establish a timeline for adequate yearly progress. The timeline shall ensure that not later than 12 years after the end of the 2001–2002 school year, all students in each group described in subparagraph\(C)(v) will meet or exceed the State's proficient level of academic achievement on the State assessments under paragraph (3).
 
 #### (G) Measurable objectives
 
@@ -234,7 +234,7 @@
 
 #### (D) Deferral
 
-&emsp;&emsp;A State may defer the commencement, or suspend the administration, but not ceasethe development, of the assessments described in this paragraph, that were not required prior to January 8, 2002, for 1 year for each year for which the amount appropriated for grants under section 7301b(a)(2) of this title is less than—
+&emsp;&emsp;A State may defer the commencement, or suspend the administration, but not cease the development, of the assessments described in this paragraph, that were not required prior to January 8, 2002, for 1 year for each year for which the amount appropriated for grants under section 7301b(a)(2) of this title is less than—
 
 &emsp;&emsp;&emsp;(i) $370,000,000 for fiscal year 2002;
 
@@ -274,13 +274,13 @@
 
 &emsp;&emsp;(A) how the State educational agency will assist each local educational agency and school affected by the State plan to develop the capacity to comply with each of the requirements of sections 6312(c)(1)(D), 6314(b), and 6315(c) of this title that is applicable to such agency or school;
 
-&emsp;&emsp;(B) how the State educational agency will assist each local educational agency and school affected by the State plan to provide additional educational assistance to individual students assessed as needing help to achieve the State's challenging academic achievement standards;
+&emsp;&emsp;(B) how the State educational agency will assist each local educational agency and school affected by the State plan to provideadditional educational assistance to individual students assessed as needing help to achieve the State's challenging academic achievement standards;
 
 &emsp;&emsp;(C) the specific steps the State educational agency will take to ensure that both schoolwide programs and targeted assistance schools provide instruction by highly qualified instructional staff as required by sections 6314(b)(1)(C) and 6315(c)(1)(E) of this title, including steps that the State educational agency will take to ensure that poor and minority children are not taught at higher rates than other children by inexperienced, unqualified, or out-of-field teachers, and the measures that the State educational agency will use to evaluate and publicly report the progress of the State educational agency with respect to such steps;
 
 &emsp;&emsp;(D) an assurance that the State educational agency will assist local educational agencies in developing or identifying high-quality effective curricula aligned with State academic achievement standards and how the State educational agency will disseminate such curricula to each local educational agency and school within the State; and
 
-&emsp;&emsp;(E) such other factors the State educational agency determines appropriate to provide students an opportunity to achieve the knowledge and skills described in thechallenging academic content standards adopted by the State.
+&emsp;&emsp;(E) such other factors the State educational agency determines appropriate to provide students an opportunity to achieve the knowledge and skills described in the challenging academic content standards adopted by the State.
 
 #### (9) Factors affecting student achievement
 
@@ -454,7 +454,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than the beginning of the 2002–2003 school year, a local educational agency that receives assistance under this part shall prepare and disseminate an annual local educational agency report card, except that the State educational agency may provide the local educational agency 1 additional year if the local educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency, prevented full implementation of this paragraph by that deadline and that the local educational agency will complete implementation within the additional 1-year period.
+&emsp;&emsp;&emsp;Not later than the beginning of the 2002–2003 school year, a local educational agency that receives assistance under this part shall prepare and disseminate an annual local educational agency report card, except that the State educational agency may provide the local educational agency 1 additional year if the local educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency, preventedfull implementation of this paragraph by that deadline and that the local educational agency will complete implementation within the additional 1-year period.
 
 #### (ii) Special rule
 
@@ -578,7 +578,7 @@ The Head Start Act, referred to in subsec. (a)(1), is subchapter B (§§635–65
 
 The Adult Education and Family Literacy Act, referred to in subsec. (a)(1), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Education Flexibility Partnership Act of 1999, referred to in subsec. (c)(12), is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41, as amended, which enacted sections 5891a and 5891b of this title, amended section 1415 of this title, and enacted provisions set out as notes under sections 1415 and 5891a of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 5801 of this title and Tables.
 

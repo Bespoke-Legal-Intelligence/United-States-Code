@@ -38,9 +38,14 @@
 | (a) | In general. |
 | (b) | Grantee organizations. |
 | (c) | Grant criteria. |
+| (d) | Background checks. |
+| [13013a.](Subchapter%20002%20%28II%29%20-%20Court-Appointed%20Special%20Advocate%20Program/%C2%A7%2013013a%20-%20Report.md) | Report. |
+| (a) | Report required. |
+| (b) | Elements of report. |
 | [13014\.](Subchapter%20002%20%28II%29%20-%20Court-Appointed%20Special%20Advocate%20Program/%C2%A7%2013014%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Authorization. |
 | (b) | Limitation. |
+| (c) | Prohibition on lobbying. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

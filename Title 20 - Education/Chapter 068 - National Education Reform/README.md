@@ -70,37 +70,9 @@
 
 #### SUBCHAPTER V—NATIONAL SKILL STANDARDS BOARD
 
-|  |  |
-| :--- | ---: |
-| [5931\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005931%20-%20Short%20title.md) | Short title. |
-| [5932\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005932%20-%20Purpose.md) | Purpose. |
-| [5933\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005933%20-%20Establishment%20of%20National%20Board.md) | Establishment of National Board. |
-| (a) | In general. |
-| (b) | Composition. |
-| (c) | Chairperson and Vice Chairpersons. |
-| (d) | Compensation and expenses. |
-| (e) | Executive Director and staff. |
-| (f) | Voluntary and uncompensated services. |
-| (g) | Agency support. |
-| (h) | Conflict of interest. |
-| (i) | Procurement of temporary and intermittent services. |
-| (j) | Termination. |
-| [5934\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005934%20-%20Functions%20of%20National%20Board.md) | Functions of National Board. |
-| (a) | Identification of occupational clusters. |
-| (b) | Establishment of voluntary partnerships to develop standards. |
-| (c) | Research, dissemination, and coordination. |
-| (d) | Endorsement of skill standards systems. |
-| (e) | Relationship with civil rights laws. |
-| (f) | Financial assistance. |
-| [5935\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005935%20-%20Deadlines.md) | Deadlines. |
-| [5936\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005936%20-%20Reports.md) | Reports. |
-| [5937\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005937%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Availability. |
-| [5938\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005938%20-%20Definitions.md) | Definitions. |
-| [5939\.](Subchapter%20005%20%28V%29%20-%20National%20Skill%20Standards%20Board/%C2%A7%2005939%20-%20Sunset%20provision.md) | Sunset provision. |
-| (a) | Repeal. |
-| (b) | Review of repeal. |
+|  |
+| :--- |
+| 5931 to 5939. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,7 +124,7 @@
 | (b) | Authorization of appropriations. |
 | [5984\.](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/%C2%A7%2005984%20-%20Definitions.md) | Definitions. |
 | [5985\.](Subchapter%20008%20%28VIII%29%20-%20Minority-Focused%20Civics%20Education/%C2%A7%2005985%20-%20Applications.md) | Applications. |
-| (a) | Aplication required. |
+| (a) | Application required. |
 | (b) | Contents of application. |
 | (c) | Priority. |
 

@@ -44,7 +44,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(2) The international financial community has become engaged in the global fight against terrorist financing. The Financial Action Task Force has focused on the new threat posed by terrorist financing to the international financial system, resulting in the establishment of the FATF's Eight Special Recommendations on Terrorist Financing as the international standard on combating terrorist financing. The Group of Seven and the Group of Twenty Finance Ministers are developing action plans to curb the financing of terror. In addition, other economic and regional fora, such as the Asia-Pacific Economic Cooperation (APEC) Forum, and the Western Hemisphere Financial Ministers, have been used to marshal political will and actions in support of combating the financing of terrorism (CFT) standards.
 
-&emsp;“(3) FATF's Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing are the recognized global standards for fighting money laundering and terroristfinancing. The FATF has engaged in an assessment process for jurisdictions based on their compliance with these standards.
+&emsp;“(3) FATF's Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing are the recognized global standards for fighting money laundering and terrorist financing. The FATF has engaged in an assessment process for jurisdictions based on their compliance with these standards.
 
 &emsp;“(4) In March 2004, the IMF and IBRD Boards agreed to make permanent a pilot program of collaboration with the FATF to assess global compliance with the FATF Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing. As a result, anti-money laundering (AML) and combating the financing of terrorism (CFT) assessments are now a regular part of their Financial Sector Assessment Program (FSAP) and Offshore Financial Center assessments, which provide for a comprehensive analysis of the strength of a jurisdiction's financial system. These reviews assess potential systemic vulnerabilities, consider sectoral development needs and priorities, and review the state of implementation of and compliance with key financial codes and regulatory standards, among them the AML and CFT standards.
 
@@ -66,7 +66,7 @@ Sense of Congress Regarding Success in Multilateral Organizations.—It is the s
 
 &emsp;“(2) the term ‘Financial Action Task Force’ means the international policy-making and standard-setting body dedicated to combating money laundering and terrorist financing that was created by the Group of Seven in 1989; and
 
-&emsp;“(3) the terms ‘Interagency Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System’ and ‘Interagency Paper’ mean the interagency paper prepared by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Securities and Exchange Commission that was announced in the Federal Register on April 8, 2003.
+&emsp;“(3) the terms ‘Interagency Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System’ and ‘Interagency Paper’ mean the interagency paper prepared by the Board of Governors ofthe Federal Reserve System, the Comptroller of the Currency, and the Securities and Exchange Commission that was announced in the Federal Register on April 8, 2003.
 
 #### “SEC. 7704. COORDINATION OF UNITED STATES GOVERNMENT EFFORTS.
 
@@ -94,7 +94,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(7) private banking services can be susceptible to manipulation by money launderers, for example corrupt foreign government officials, particularly if those services include the creation of offshore accounts and facilities for large personal funds transfers to channel funds into accounts around the globe;
 
-&emsp;“(8) United States anti-money laundering efforts are impeded by outmoded and inadequate statutoryprovisions that make investigations, prosecutions, and forfeitures more difficult, particularly in cases in which money laundering involves foreign persons, foreign banks, or foreign countries;
+&emsp;“(8) United States anti-money laundering efforts are impeded by outmoded and inadequate statutory provisions that make investigations, prosecutions, and forfeitures more difficult, particularly in cases in which money laundering involves foreign persons, foreign banks, or foreign countries;
 
 &emsp;“(9) the ability to mount effective counter-measures to international money launderers requires national, as well as bilateral and multilateral action, using tools specially designed for that effort; and
 
@@ -194,7 +194,7 @@ Reports to the Financial Services Industry on Suspicious Financial Activities.�
 
 #### Report and Recommendation on Legislative Action on International Counter Money Laundering Provisions
 
-Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
+Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
 
 #### International Cooperation on Identification of Originators of Wire Transfers
 
@@ -226,7 +226,7 @@ Pub. L. 107–56, title III, §356(c), Oct. 26, 2001, 115 Stat. 324, as amended 
 
 “(1)
 
-In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companiespursuant to section 5312(a)(2)(I) of title 31, United States Code.
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to section 5312(a)(2)(I) of title 31, United States Code.
 
 “(2)
 
@@ -434,7 +434,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 &emsp;“(6) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by analysis of the reports referred to in paragraphs (1) and (2); and
 
-&emsp;“(7) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part,from investigations initiated by information regarding suspicious financial transactions provided voluntarily by financial institutions.”
+&emsp;“(7) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by information regarding suspicious financial transactions provided voluntarily by financial institutions.”
 
 #### International Currency Transaction Reporting
 
@@ -470,7 +470,7 @@ Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 
 
 &emsp;“(1) with respect to which the Secretary determines there is evidence that the financial institutions in such countries are engaging in currency transactions involving the proceeds of international narcotics trafficking; and
 
-&emsp;“(2) which have not reached agreement with United States authorities on a mechanism for exchanging adequate records on international currency transactions in connection with narcotics investigations and proceedings.
+&emsp;“(2) which have not reached agreement with United States authorities on a mechanism for exchangingadequate records on international currency transactions in connection with narcotics investigations and proceedings.
 
 “(e)
 

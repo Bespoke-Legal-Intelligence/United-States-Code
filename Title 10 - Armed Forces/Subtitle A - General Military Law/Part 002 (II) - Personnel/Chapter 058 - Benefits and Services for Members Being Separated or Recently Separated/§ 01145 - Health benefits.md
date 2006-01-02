@@ -2,7 +2,7 @@
 
 (a)
 
-Transitional Health Care.—(1) For the applicable time period described in paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member) shall be entitled to receive—
+Transitional Health Care.—(1) For the time period described in paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member) shall be entitled to receive—
 
 &emsp;(A) medical and dental care under section 1076 of this title in the same manner as a dependent described in subsection (a)(2) of such section; and
 
@@ -18,11 +18,25 @@ Transitional Health Care.—(1) For the applicable time period described in para
 
 &emsp;(D) A member who is separated from active duty served pursuant to a voluntary agreement of the member to remain on active duty for a period of less than one year in support of a contingency operation.
 
-(3) Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
+(3) Transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.
 
-&emsp;(A) For members separated with less than six years of active service, 60 days.
+(4)(A) The Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
 
-&emsp;(B) For members separated with six or more years of active service, 120 days.
+(B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member's unit commander.
+
+(5)(A) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, ensure that appropriate actions are taken to assist a member of the armed forces who, as a result of a medical examination under paragraph (4), receives an indication for a referral for follow up treatment from the health care provider who performs the examination.
+
+(B) Assistance provided to a member under paragraph (1) shall include the following:
+
+&emsp;(i) Information regarding, and any appropriate referral for, the care, treatment, and other services that the Secretary of Veterans Affairs may provide to such member under any other provision of law, including—
+
+&emsp;&emsp;(I) clinical services, including counseling and treatment for post-traumatic stress disorder and other mental health conditions; and
+
+&emsp;&emsp;(II) any other care, treatment, and services.
+
+&emsp;(ii) Information on the private sector sources of treatment that are available to the member in the member's community.
+
+&emsp;(iii) Assistance to enroll in the health care system of the Department of Veterans Affairs for health care benefits for which the member is eligible under laws administered by the Secretary of Veterans Affairs.
 
 (b)
 
@@ -60,9 +74,21 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 Coast Guard.—The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L.107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, §706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, §706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §749, Jan. 6, 2006, 119 Stat. 3364.)
 
 #### Amendments
+
+2006—Subsec. (a)(5). Pub. L. 109–163 added par. (5).
+
+2004—Subsec. (a)(1). Pub. L. 108–375, §706(a)(3), struck out “applicable” before “time period” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 108–375, §706(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
+
+&emsp;“(A) For members separated with less than six years of active service, 60 days.
+
+&emsp;“(B) For members separated with six or more years of active service, 120 days.”
+
+Subsec. (a)(4). Pub. L. 108–375, §706(b), added par. (4).
 
 2002—Subsec. (a)(1). Pub. L. 107–314, §706(a), amended Pub. L. 107–107, §736(a)(1). See 2001 Amendment note below.
 
@@ -108,7 +134,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Application of Amendments by Pub. L. 102–484 to Existing Contracts
 
-For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) of this section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
+For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) ofthis section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
 
 #### Transitional Provision
 
@@ -120,23 +146,7 @@ For provisions prohibiting purchase of, and allowing cancellation of, conversion
 
 #### Temporary Extension of Transitional Health Care Benefits
 
-Pub. L. 108–136, div. A, title VII, §704, Nov. 24, 2003, 117 Stat. 1527, provided that:
+Pub. L. 108–136, div. A, title VII, §704, Nov. 24, 2003, 117 Stat. 1527, which provided during the period beginning on Nov. 24, 2003, and ending on Dec. 31, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, §706(a)(2)(A), Oct. 28, 2004, 118 Stat. 1983.
 
-“(a)
-
-Extension.—Subject to subsection (b), and notwithstanding section 1117 of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 \[Pub. L. 108–106, see below\], during the period beginning on the date of the enactment of this Act \[Nov. 24, 2003\] and ending on December 31, 2004, section 1145(a) of title 10, United States Code, shall be administered by substituting for paragraph (3) the following:
-
-“ ‘(3) Transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty.’.
-
-“(b)
-
-Effective Date.—(1) Subsection (a) shall apply with respect to separations from active duty that take effect on or after the date of the enactment of this Act \[Nov. 24, 2003\].
-
-“(2) Beginning on January 1, 2005, the period for which a member is provided transitional health care benefits under section 1145(a) of title 10, United States Code, shall be adjusted as necessary to comply with the limits provided under paragraph (3) of such section.”
-
-Similar provisions were contained in Pub. L. 108–106, title I, §1117, Nov. 6, 2003, 117 Stat. 1218.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1076b, 1078a, 1142 of this title.
+Pub. L. 108–106, title I, §1117, Nov. 6, 2003, 117 Stat. 1218, which provided during the period beginning on Nov. 6, 2003, and ending on Sept. 30, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, §706(a)(2)(B), Oct. 28, 2004, 118 Stat. 1983.
 

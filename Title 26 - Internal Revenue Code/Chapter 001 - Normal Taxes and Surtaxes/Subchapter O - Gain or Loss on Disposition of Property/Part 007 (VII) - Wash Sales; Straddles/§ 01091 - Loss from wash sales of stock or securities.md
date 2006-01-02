@@ -2,7 +2,7 @@
 
 #### (a) Disallowance of loss deduction
 
-In the case of any loss claimed to have been sustained from any sale or other disposition ofshares of stock or securities where it appears that, within a period beginning 30 days before the date of such sale or disposition and ending 30 days after such date, the taxpayer has acquired (by purchase or by an exchange on which the entire amount of gain or loss was recognized by law), or has entered into a contract or option so to acquire, substantially identical stock or securities, then no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business. For purposes of this section, the term “stock or securities” shall, except as provided in regulations, include contracts or options to acquire or sell stock or securities.
+In the case of any loss claimed to have been sustained from any sale or other disposition of shares of stock or securities where it appears that, within a period beginning 30 days before the date of such sale or disposition and ending 30 days after such date, the taxpayer has acquired (by purchase or by an exchange on which the entire amount of gain or loss was recognized by law), or has entered into a contract or option so to acquire, substantially identical stock or securities, then no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business. For purposes of this section, the term “stock or securities” shall, except as provided in regulations, include contracts or options to acquire or sell stock or securities.
 
 #### (b) Stock acquired less than stock sold
 
@@ -48,7 +48,7 @@ Subsec. (e). Pub. L. 98–369, §106(a), added subsec. (e).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], to which such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], towhich such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -65,8 +65,4 @@ Subsection (a).—The amendment made by subsection (a) \[amending this section\]
 “(2)
 
 Subsection (b).—The amendment made by subsection (b) \[amending this section\] shall apply to sales after December 31, 1984, in taxable years ending after such date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 267, 312, 475, 860F, 1092, 1223, 1256 of this title.
 

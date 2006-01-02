@@ -12,7 +12,7 @@ Congressional Consent.—Subject to subsection (b), Congress consents to the fol
 
 (b)
 
-Approval Required.—A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
+Approval Required.—A person described in subsection (a) may accept employment orcompensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
 
 (c)
 

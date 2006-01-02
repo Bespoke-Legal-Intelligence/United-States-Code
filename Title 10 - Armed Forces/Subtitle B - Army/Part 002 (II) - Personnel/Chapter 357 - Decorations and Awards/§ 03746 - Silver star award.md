@@ -28,7 +28,7 @@ The words “may award” are inserted to conform to other sections of this chap
 
 #### Amendments
 
-1963—Pub. L. 88–77 substituted provisions permitting the issuance of a silver star for gallantry while engaged in an action against an enemy of the United States,while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and requiring it to be of appropriate design, for provisions which authorized the issuance of the silver star for gallantry in action and which required that the silver star be three-sixteenths of an inch in diameter, the citation thereof be published in orders issued from the headquarters of a force that is the appropriate command of a general officer, and that it be worn as directed by the President.
+1963—Pub. L. 88–77 substituted provisions permitting the issuance of a silver star for gallantry while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and requiring it to be of appropriate design, for provisions which authorized the issuance of the silver star for gallantry in action and which required that the silver star be three-sixteenths of an inch in diameter, the citation thereof be published in orders issued from the headquarters of a force that is the appropriate command of a general officer, and that it be worn as directed by the President.
 
 #### Executive Order No. 9419
 
@@ -55,8 +55,4 @@ By virtue of the authority vested in me as President of the United States and as
 4\. The Bronze Star Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of the department concerned.
 
 5\. This order shall supersede Executive Order No. 9419 of February 4, 1944, entitled “Bronze Star Medal”. However, existing regulations prescribed under that order shall, so far as they are not inconsistent with this order, remain in effect until modified or revoked by regulations prescribed under this order by the Secretary of the department concerned.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3748 of this title.
 

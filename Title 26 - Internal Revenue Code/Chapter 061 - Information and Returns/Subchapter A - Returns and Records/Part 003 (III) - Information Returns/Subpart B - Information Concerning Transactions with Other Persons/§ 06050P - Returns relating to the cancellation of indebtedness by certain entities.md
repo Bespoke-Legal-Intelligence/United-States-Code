@@ -88,7 +88,3 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Governmental entities.—In the case of an entity referred to in section 6050P(c)(1)(B) of the Internal Revenue Code of 1986 (as added by this section), the amendments made by this section shall apply to discharges of indebtedness after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
-

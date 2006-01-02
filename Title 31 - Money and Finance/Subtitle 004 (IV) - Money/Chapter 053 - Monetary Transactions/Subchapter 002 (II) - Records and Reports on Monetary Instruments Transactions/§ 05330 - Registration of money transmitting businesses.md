@@ -76,7 +76,7 @@ Money transmitting business.—The term “money transmitting business” means 
 
 &emsp;(2)
 
-Money transmitting service.—The term “money transmitting service” includes accepting currency or funds denominated in the currency of any country and transmitting the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors of the Federal Reserve System, or an electronic funds transfer network.
+Money transmitting service.—The term “money transmitting service” includes accepting currency or funds denominated in the currency of any country and transmitting the currency or funds, or the value of the currency or funds, by any means through a financial agency or institution, a Federal reserve bank or other facility of the Board of Governors ofthe Federal Reserve System, or an electronic funds transfer network.
 
 (e)
 

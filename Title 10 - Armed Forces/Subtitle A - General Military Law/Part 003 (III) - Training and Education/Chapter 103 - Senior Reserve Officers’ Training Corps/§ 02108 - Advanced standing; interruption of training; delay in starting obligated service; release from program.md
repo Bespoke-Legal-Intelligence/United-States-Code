@@ -1,6 +1,6 @@
 ### §2108. Advanced standing; interruption of training; delay in starting obligated service; release from program
 
-(a) The Secretary of the military department concerned may give to any enlisted member of an armed force under his jurisdiction, or anyperson who has served on active duty in any armed force, such advanced standing in the program as may be justified by his education and training.
+(a) The Secretary of the military department concerned may give to any enlisted member of an armed force under his jurisdiction, or any person who has served on active duty in any armed force, such advanced standing in the program as may be justified by his education and training.
 
 (b) In determining a member's eligibility for advanced training, the Secretary of the military department concerned may credit him with any military training that is substantially equivalent in kind to that prescribed for admission to advanced training and was received while he was taking a course of instruction in a program under the jurisdiction of another armed force or while he was on active duty in the armed forces.
 
@@ -19,8 +19,4 @@
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–357 effective Oct. 1, 1980, see section 1(e) of Pub. L. 96–357, set out as a note under section 2107a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2107 of this title.
 

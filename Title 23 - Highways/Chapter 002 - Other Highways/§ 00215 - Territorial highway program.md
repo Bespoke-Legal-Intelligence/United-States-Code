@@ -1,54 +1,152 @@
 ### §215. Territorial highway program
 
-(a) Recognizing the mutual benefits that will accrue to the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and to the United States from the improvement of highways in such territories of the United States, the Secretary is authorized to assist each such territorial government in a program for the construction and improvement of a system of arterial highways, and necessary interisland connectors designated by the Governor of such territory and approved by the Secretary. Federal financial assistance shall be granted under this subsection to such territories upon the basis of a Federal contribution of 100 per centum of the cost of any project.
+(a)
 
-(b) In order to establish a long-range highway development program, the Secretary is authorized to provide technical assistance for the establishment of an appropriate agency to administer on a continuing basis highway planning, design, construction and maintenance operations, the development of a system of arterial and collector highways, including necessary interisland connectors, and the establishment of advance acquisition of right-of-way and relocation assistance programs.
+Definitions.—In this section, the following definitions apply:
 
-(c) No part of the appropriations authorized under this section shall be available for obligation or expenditure with respect to any territory until the Governor enters into an agreement with the Secretary providing that the government of such territory (1) will design and construct a system of arterial and collector highways, including necessary interisland connectors, built in accordance with standards approved by the Secretary; (2) will not impose any toll, or permit any such toll to be charged, for use by vehicles or persons of any portion of the facilities constructed or operated under the provisions of this section; (3) will provide for the maintenance of such facilities in a condition to adequately serve the needs of present and future traffic; (4) will implement standards for traffic operations and uniform traffic control devices which are approved by the Secretary.
+&emsp;(1)
 
-(d)(1) Three per centum of the sums authorized to be appropriated for each fiscal year for carrying out subsection (a) of this section shall be available for expenditure only for engineering and economic surveys and investigations, for the planning of future highway programs and the financing thereof, for studies of the economy, safety, and convenience of highway usage and the desirable regulation and equitable taxation thereof, and for research and development, necessary in connection with the planning, design, and maintenance of the highway system, and the regulation and taxation of their use.
+Program.—The term “program” means the territorial highway program established under subsection (b).
 
-(2) In addition to the percentage provided in paragraph (1) of the subsection, not to exceed 2 per centum of sums authorized to be appropriated for each fiscal year for carrying out subsection (a) of this section may be expended upon request of the Governor and with the approval of the Secretary for the purposes enumerated in paragraph (1) of this subsection.
+&emsp;(2)
 
-(e) None of the funds authorized to be appropriated for carrying out this section shall be obligated or expended for maintenance of the highway system.
+Territory.—The term “territory” means any of the following territories of the United States:
 
-(f) The provisions of chapter 1 of this title that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section.
+&emsp;&emsp;(A) American Samoa.
 
-(Added Pub. L. 91–605, title I, §112(a), Dec. 31, 1970, 84 Stat. 1720; amended Pub. L. 95–599, title I, §129(f), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 96–106, §9, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, §133(b)(16), Apr. 2, 1987, 101 Stat. 172.)
+&emsp;&emsp;(B) The Commonwealth of the Northern Mariana Islands.
 
-#### Amendments
+&emsp;&emsp;(C) Guam.
 
-1987—Subsec. (a). Pub. L. 100–17 inserted reference in first sentence to Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;(D) The United States Virgin Islands.
 
-1979—Subsec. (f). Pub. L. 96–106 substituted “chapter 1” for “chapters 1 and 5”.
+(b)
 
-1978—Subsec. (a). Pub. L. 95–599 substituted “100 per centum” for “70 per centum”.
+Program.—
 
-#### Effective Date of 1978 Amendment
+&emsp;(1)
 
-Amendment by Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
+In general.—Recognizing the mutual benefits that will accrue to the territories and the United States from the improvement of highways in the territories, the Secretary may carry out a program to assist each government of a territory in the construction and improvement of a system of arterial and collector highways, and necessary inter-island connectors, that is—
 
-#### Authorization of Appropriations for Fiscal Years Ending September 30, 1979, 1980, and 1982
+&emsp;&emsp;(A) designated by the Governor or chief executive officer of each territory; and
 
-Pub. L. 95–599, title I, §104(a)(12), Nov. 6, 1978, 92 Stat. 2691, provided that: “For carrying out section 215(a) of title 23, United States Code—
+&emsp;&emsp;(B) approved by the Secretary.
 
-&emsp;“(A) for the Virgin Islands, not to exceed $5,000,000 per fiscal year for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, and September 30, 1982.
+&emsp;(2)
 
-&emsp;“(B) for Guam, not to exceed $5,000,000 per fiscal year for each of the fiscal years ending September 30,1979, September 30, 1980, September 30, 1981, and September 30, 1982.
+Federal share.—The Federal share of Federal financial assistance provided to territories under this section shall be in accordance with section 120(h).
 
-&emsp;“(C) for American Samoa, not to exceed $1,000,000 per fiscal year for each of the fiscal years ending September 30, 1979, September 30, 1980, September 30, 1981, and September 30, 1982.
+(c)
 
-“Sums authorized by this paragraph shall be available for obligation at the beginning of the period for which authorized in the same manner and to the same extent as if such sums were apportioned under chapter 1 of title 23, United States Code.”
+Technical Assistance.—
 
-#### Authorization of Appropriations, Three-Month Period Ending September 30, 1976, and Fiscal Years Ending September 30, 1977, and 1978
+&emsp;(1)
 
-Pub. L. 94–280, title I, §105(a)(12), May 5, 1976, 90 Stat. 427, authorized the appropriation of not to exceed $1,250,000 for the Virgin Islands and Guam and not to exceed $250,000 for American Samoa for the three-month period ending Sept. 30, 1976, and not to exceed $5,000,000 for the Virgin Islands and Guam and not to exceed $1,000,000 for American Samoa for the fiscal years ending Sept. 30, 1977, and 1978, such sums to be available for obligation at the beginning of the fiscal year for which authorized.
+In general.—To continue a long-range highway development program, the Secretary may provide technical assistance to the governments of the territories to enable the territories to, on a continuing basis—
 
-#### Authorization of Appropriations, Fiscal Years Ending June 30, 1974, 1975, and 1976
+&emsp;&emsp;(A) engage in highway planning;
 
-Pub. L. 93–87, title I, §104(a)(12), Aug. 13, 1973, 87 Stat. 252, authorized the appropriation for each of fiscal years ending June 30, 1974, 1975, and 1976 of not to exceed $5,000,000 for the Virgin Islands, not to exceed $2,000,000 for Guam, and not to exceed $1,000,000 for American Samoa, such sums to be available for obligation at the beginning of the fiscal year for which authorized.
+&emsp;&emsp;(B) conduct environmental evaluations;
 
-#### Authorization of Appropriations, Fiscal Years Ending June 30, 1971, 1972, and 1973
+&emsp;&emsp;(C) administer right-of-way acquisition and relocation assistance programs; and
 
-Section 112(c), (d) of Pub. L. 91–605 authorized the appropriation of not to exceed $2,000,000 for each of fiscal years ending June 30, 1971, 1972, and 1973, for the Virgin Islands and Guam, and $500,000 for American Samoa, to carry out section 215(a) of this title; the sums appropriated for fiscal 1971 to be made available immediately and sums appropriated for fiscal 1972 and 1973 to be available at the beginning of the fiscal year for which authorized.
+&emsp;&emsp;(D) design, construct, operate, and maintain a system of arterial and collector highways, including necessary inter-island connectors.
+
+&emsp;(2)
+
+Form and terms of assistance.—Technical assistance provided under paragraph (1), and the terms for the sharing of information among territories receiving the technical assistance, shall be included in the agreement required by subsection (e).
+
+(d)
+
+Nonapplicability of Certain Provisions.—
+
+&emsp;(1)
+
+In general.—Except to the extent that provisions of chapter 1 are determined by the Secretary to be inconsistent with the needs of the territories and the intent of the program, chapter 1 (other than provisions of chapter 1 relating to the apportionment and allocation of funds) shall apply to funds authorized to be appropriated for the program.
+
+&emsp;(2)
+
+Applicable provisions.—The agreement required by subsection (e) for each territory shall identify the sections of chapter 1 that are applicable to that territory and the extent of the applicability of those sections.
+
+(e)
+
+Agreement.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (4), none of the funds made available for the program shall be available for obligation or expenditure with respect to any territory until the chief executive officer of the territory enters into an agreement with the Secretary (not later than 1 year after the date of enactment of SAFETEA–LU), providing that the government of the territory shall—
+
+&emsp;&emsp;(A) implement the program in accordance with applicable provisions of chapter 1 and subsection (d);
+
+&emsp;&emsp;(B) design and construct a system of arterial and collector highways, including necessary inter-island connectors, in accordance with standards that are—
+
+&emsp;&emsp;&emsp;(i) appropriate for each territory; and
+
+&emsp;&emsp;&emsp;(ii) approved by the Secretary;
+
+&emsp;&emsp;(C) provide for the maintenance of facilities constructed or operated under this section in a condition to adequately serve the needs of present and future traffic; and
+
+&emsp;&emsp;(D) implement standards for traffic operations and uniform traffic control devices that are approved by the Secretary.
+
+&emsp;(2)
+
+Technical assistance.—The agreement required by paragraph (1) shall—
+
+&emsp;&emsp;(A) specify the kind of technical assistance to be provided under the program;
+
+&emsp;&emsp;(B) include appropriate provisions regarding information sharing among the territories; and
+
+&emsp;&emsp;(C) delineate the oversight role and responsibilities of the territories and the Secretary.
+
+&emsp;(3)
+
+Review and revision of agreement.—The agreement entered into under paragraph (1) shall be reevaluated and, as necessary, revised, at least every 2 years.
+
+&emsp;(4)
+
+Existing agreements.—With respect to an agreement under the section between the Secretary and the chief executive officer of a territory that is in effect as of the date of enactment of the SAFETEA–LU—
+
+&emsp;&emsp;(A) the agreement shall continue in force until replaced by an agreement entered into in accordance with paragraph (1); and
+
+&emsp;&emsp;(B) amounts made available for the program under the existing agreement shall be available for obligation or expenditure so long as the agreement, or the existing agreement entered into under paragraph (1), is in effect.
+
+(f)
+
+Permissible Uses of Funds.—
+
+&emsp;(1)
+
+In general.—Funds made available for the program may be used only for the following projects and activities carried out in a territory:
+
+&emsp;&emsp;(A) Eligible surface transportation program projects described in section 133(b).
+
+&emsp;&emsp;(B) Cost-effective, preventive maintenance consistent with section 116(d).
+
+&emsp;&emsp;(C) Ferry boats, terminal facilities, and approaches, in accordance with subsections (b) and (c) of section 129.
+
+&emsp;&emsp;(D) Engineering and economic surveys and investigations for the planning, and the financing, of future highway programs.
+
+&emsp;&emsp;(E) Studies of the economy, safety, and convenience of highway use.
+
+&emsp;&emsp;(F) The regulation and equitable taxation of highway use.
+
+&emsp;&emsp;(G) Such research and development as are necessary in connection with the planning, design, and maintenance of the highway system.
+
+&emsp;(2)
+
+Prohibition on use of funds for routine maintenance.—None of the funds made available for the program shall be obligated or expended for routine maintenance.
+
+(g)
+
+Location of Projects.—Territorial highway projects (other than those described in paragraphs (1), (3), and (4) of section 133(b)) may not be undertaken on roads functionally classified as local.
+
+(Added Pub. L. 109–59, title I, §1118(a), Aug. 10, 2005, 119 Stat. 1179.)
+
+#### References in Text
+
+The date of enactment of the SAFETEA–LU, referred to in subsec. (e)(1), (4), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+#### Prior Provisions
+
+A prior section 215, added Pub. L. 91–605, title I, §112(a), Dec. 31, 1970, 84 Stat. 1720; amended Pub. L. 95–599, title I, §129(f), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 96–106, §9, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, §133(b)(16), Apr. 2, 1987, 101 Stat. 172, related to territorial highway program, prior to repeal by Pub. L. 109–59, title I, §1118(a), Aug. 10, 2005, 119 Stat. 1179.
 

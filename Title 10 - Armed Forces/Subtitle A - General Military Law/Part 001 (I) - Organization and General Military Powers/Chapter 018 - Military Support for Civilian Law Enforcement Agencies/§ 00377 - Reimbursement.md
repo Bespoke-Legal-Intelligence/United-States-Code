@@ -14,7 +14,3 @@
 
 1988—Pub. L. 100–456 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense shall issue regulations providing that reimbursement may be a condition of assistance to a civilian law enforcement official under this chapter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 382, 2564 of this title.
-

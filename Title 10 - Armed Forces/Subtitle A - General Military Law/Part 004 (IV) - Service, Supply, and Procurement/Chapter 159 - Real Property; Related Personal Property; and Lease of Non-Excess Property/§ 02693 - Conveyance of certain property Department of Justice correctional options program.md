@@ -6,7 +6,7 @@
 
 &emsp;(2) if the real property or facility remains available after such notification, notify the Attorney General of its availability; and
 
-&emsp;(3) if the Attorney General certifies to the Secretary of Defense that a determination hasbeen made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facility under the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3762a), convey the real property or facility, without reimbursement, to a public agency referred to in paragraph (1) or (3) of subsection (a) of such section for such utilization.
+&emsp;(3) if the Attorney General certifies to the Secretary of Defense that a determination has been made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facility under the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3762a), convey the real property or facility, without reimbursement, to a public agency referred to in paragraph (1) or (3) of subsection (a) of such section for such utilization.
 
 (b) The provisions of this section shall not apply—
 

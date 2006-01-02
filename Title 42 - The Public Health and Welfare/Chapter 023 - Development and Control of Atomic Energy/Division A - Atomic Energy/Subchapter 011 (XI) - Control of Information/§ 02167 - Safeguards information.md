@@ -10,7 +10,7 @@ In addition to any other authority or requirement regarding protection from disc
 
 &emsp;(3) security measures (including security plans, procedures, and equipment) for the physical protection of and the location of certain plant equipment vital to the safety of production or utilization facilities involving nuclear materials covered by paragraphs (1) and (2) <sup>1</sup>
 
-> if the unauthorized disclosure of such information could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility. The Commission shall exercise the authority of this subsection—
+> if the unauthorized disclosure of such information could reasonably be expected to have a significant adverse effect on the health and safetyof the public or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility. The Commission shall exercise the authority of this subsection—
 
 &emsp;(A) so as to apply the minimum restrictions needed to protect the health and safety of the public or the common defense and security, and
 
@@ -28,7 +28,7 @@ Any determination by the Commission concerning the applicability of this section
 
 #### (d) Reports to Congress; contents
 
-Upon prescribing or issuing any regulation or order under subsection (a) of this section, theCommission shall submit to Congress a report that:
+Upon prescribing or issuing any regulation or order under subsection (a) of this section, the Commission shall submit to Congress a report that:
 
 &emsp;(1) specifically identifies the type of information the Commission intends to protect from disclosure under the regulation or order;
 

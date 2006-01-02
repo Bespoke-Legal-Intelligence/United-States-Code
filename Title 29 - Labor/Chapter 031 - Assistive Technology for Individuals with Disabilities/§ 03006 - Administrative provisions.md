@@ -32,7 +32,7 @@
 
 #### (2) Provision of information
 
-&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States to provide relevant information, including the information required under subsection (d).
+&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under thissection, the Secretary may require States to provide relevant information, including the information required under subsection (d).
 
 #### (c) Corrective action and sanctions
 

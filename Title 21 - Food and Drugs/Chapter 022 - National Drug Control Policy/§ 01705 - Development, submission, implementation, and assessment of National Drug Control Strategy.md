@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(B) any modifications of the National Drug Control Strategy or the performance measurement system described in subsection (c) of this section;
 
-&emsp;&emsp;(C) an assessment of the manner in which the budget proposal submitted under section 1703(c) of this title is intended to implement the National Drug Control Strategy and whether the funding levels contained in such proposal are sufficient to implement such Strategy;
+&emsp;&emsp;(C) an assessment of the manner in which the budget proposal submitted under section 1703(c) of this title is intended to implementthe National Drug Control Strategy and whether the funding levels contained in such proposal are sufficient to implement such Strategy;
 
 &emsp;&emsp;(D) measurable data evaluating the success or failure in achieving the annual measurable objectives described in subsection (a)(2)(A)(ii) of this section;
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) the number of cocaine and methamphetamine processing laboratories destroyed domestically and in other countries;
 
-&emsp;&emsp;&emsp;&emsp;(VI) changes in the price and purity of heroin and cocaine, changes in the priceof methamphetamine, and changes in tetrahydrocannabinol level of marijuana;
+&emsp;&emsp;&emsp;&emsp;(VI) changes in the price and purity of heroin and cocaine, changes in the price of methamphetamine, and changes in tetrahydrocannabinol level of marijuana;
 
 &emsp;&emsp;&emsp;&emsp;(VII) the amount and type of controlled substances diverted from legitimate retail and wholesale sources; and
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;(F) coordinates the development and implementation of national drug control data collection and reporting systems to support policy formulation and performance measurement, including an assessment of—
 
-&emsp;&emsp;&emsp;(i) the quality of current drug use measurement instruments and techniques tomeasure supply reduction and demand reduction activities;
+&emsp;&emsp;&emsp;(i) the quality of current drug use measurement instruments and techniques to measure supply reduction and demand reduction activities;
 
 &emsp;&emsp;&emsp;(ii) the adequacy of the coverage of existing national drug use measurement instruments and techniques to measure the casual drug user population and groups that are at risk for drug use; and
 

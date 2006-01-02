@@ -72,7 +72,7 @@ Regulations.—(1) The Secretary of each military department shall prescribe reg
 
 Judicial Review.—(1) A person seeking to challenge an action or recommendation of a selection board, or an action taken by the Secretary of the military department concerned on the report of a selection board, is not entitled to relief in any judicial proceeding unless the action or recommendation has first been considered by a special board under this section or the Secretary concerned has denied the convening of such a board for such consideration.
 
-(2)(A) A court of the United States may review a determination by the Secretary of a military department not to convene a special board inthe case of any person. In any such case, the court may set aside the Secretary's determination only if the court finds the determination to be—
+(2)(A) A court of the United States may review a determination by the Secretary of a military department not to convene a special board in the case of any person. In any such case, the court may set aside the Secretary's determination only if the court finds the determination to be—
 
 &emsp;(i) arbitrary or capricious;
 

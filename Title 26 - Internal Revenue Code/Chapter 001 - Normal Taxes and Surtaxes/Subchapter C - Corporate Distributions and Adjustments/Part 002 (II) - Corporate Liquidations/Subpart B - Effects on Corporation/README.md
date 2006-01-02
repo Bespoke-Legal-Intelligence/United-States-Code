@@ -14,10 +14,6 @@ Subpart B—Effects on Corporation
 
 1982—Pub. L. 97–248, title II, §224(c)(9), Sept. 3, 1982, 96 Stat. 489, substituted “Certain stock purchases treated as asset acquisitions” for “Effect on earnings and profits” in item 338.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 361 of this title.
-
 
 ---
 

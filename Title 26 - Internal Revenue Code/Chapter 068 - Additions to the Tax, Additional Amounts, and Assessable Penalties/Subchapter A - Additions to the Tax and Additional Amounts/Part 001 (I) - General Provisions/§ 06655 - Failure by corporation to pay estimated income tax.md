@@ -50,7 +50,7 @@ For purposes of this section—
 | :--- | ---: |
 | &nbsp;&nbsp;&nbsp;1st | April 15&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;2nd | June 15&nbsp;&nbsp; |
-| &nbsp;&nbsp;&nbsp;3rd | September 15   |
+| &nbsp;&nbsp;&nbsp;3rd | September 15&nbsp;&nbsp; |
 | &nbsp;&nbsp;&nbsp;4th | December 15. |
 
 #### (d) Amount of required installments
@@ -171,7 +171,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(III) subclause (IV) of subparagraph (A)(i) shall be applied by substituting “11 months” for “9 months”.
 
-&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for which made and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
+&emsp;&emsp;(iii) An election under clause (i) or (ii) shall apply to the taxable year for whichmade and such an election shall be effective only if made on or before the date required for the payment of the first required installment for such taxable year.
 
 #### (3) Determination of adjusted seasonal installment
 
@@ -249,11 +249,11 @@ For purposes of this section—
 
 #### (B) Closely held REIT
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “closely held real estate investment trust”means a real estate investment trust with respect to which 5 or fewer persons own (after application of subsection (d)(5) of section 856) 50 percent or more (by vote or value) of the stock or beneficial interests in the trust.
+&emsp;&emsp;For purposes of subparagraph (A), the term “closely held real estate investment trust” means a real estate investment trust with respect to which 5 or fewer persons own (after application of subsection (d)(5) of section 856) 50 percent or more (by vote or value) of the stock or beneficial interests in the trust.
 
 #### (f) Exception where tax is small amount
 
-No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax) is less than $500.
+No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shownon the return for such taxable year (or, if no return is filed, the tax) is less than $500.
 
 #### (g) Definitions and special rules
 
@@ -501,7 +501,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable for purposes of determining underpayments of estimated tax fortaxable years beginning after Dec. 31, 1994, see section 711(c) of Pub. L. 103–465, set out as a note under section 6654 of this title.
+Amendment by Pub. L. 103–465 applicable for purposes of determining underpayments of estimated tax for taxable years beginning after Dec. 31, 1994, see section 711(c) of Pub. L. 103–465, set out as a note under section 6654 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -668,8 +668,4 @@ Requirement of making a declaration or amended declaration of estimated tax or o
 #### Estimated Tax of Life Insurance Companies for 1958
 
 Pub. L. 86–69, June 25, 1959, §3(h), 73 Stat. 140, provided that in the case of a taxpayer subject to tax under section 811 of this title, as in effect before June 25, 1959, no additional tax was to be payable under this section with respect to estimated tax for a taxable year beginning in 1958.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167, 338, 460, 585, 809, 847, 1446, 6201, 6425, 6601, 6622, 6651, 6658, 6665, 6751, 7203, 7704 of this title.
 

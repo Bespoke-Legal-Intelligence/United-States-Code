@@ -48,7 +48,7 @@
 
 &emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as an ethics advisory board (in this paragraph referred to as an “ethics board”).
 
-&emsp;(B)(i) An ethics board shall advise, consult with, and make recommendations to the Secretary regarding the ethics of the project of biomedical or behavioral research with respect to which the board has been convened.
+&emsp;(B)(i) An ethics board shall advise, consult with, and make recommendations to the Secretary regarding the ethics of the project ofbiomedical or behavioral research with respect to which the board has been convened.
 
 &emsp;(ii) Not later than 180 days after the date on which the statement required in paragraph (4)(A) is made with respect to an ethics board, the board shall submit to the Secretary, and to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, a report describing the findings of the board regarding the project of research involved and making a recommendation under clause (i) of whether the Secretary should or should not withhold funds for the project. The report shall include the information considered in making the findings.
 

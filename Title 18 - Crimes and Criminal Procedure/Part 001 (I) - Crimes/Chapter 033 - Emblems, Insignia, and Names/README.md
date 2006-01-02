@@ -24,11 +24,13 @@
 | [713\.](%C2%A7%2000713%20-%20Use%20of%20likenesses%20of%20the%20great%20seal%20of%20the%20United%20States%2C%20the%20seals%20of%20the%20President%20and%20Vice%20President%2C%20the%20seal%20of%20the%20United%20States%E2%80%A6.md) | Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress. |
 | \[714. | Repealed.\] |
 | [715\.](%C2%A7%2000715%20-%20%E2%80%9CThe%20Golden%20Eagle%20Insignia%E2%80%9D.md) | “The Golden Eagle Insignia”. |
-| [716\.](%C2%A7%2000716%20-%20Police%20badges.md) | Police badges. |
+| [716\.](%C2%A7%2000716%20-%20Public%20employee%20insignia%20and%20uniform.md) | Public employee insignia and uniform. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–162, title XI, §1191(b), Jan. 5, 2006, 119 Stat. 3129, substituted “Public employee insignia and uniform” for “Police badges” in item 716.
 
 2000—Pub. L. 106–547, §3(b), Dec. 19, 2000, 114 Stat. 2740, added item 716.
 
@@ -86,4 +88,4 @@
 - [&sect; 00713 - Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States&#8230;](%C2%A7%2000713%20-%20Use%20of%20likenesses%20of%20the%20great%20seal%20of%20the%20United%20States%2C%20the%20seals%20of%20the%20President%20and%20Vice%20President%2C%20the%20seal%20of%20the%20United%20States%E2%80%A6.md)
 - [&sect; 00714 - Repealed. Pub. L. 97&#8211;258, &sect;2(d)(1)(B), Sept. 13, 1982, 96 Stat. 1058](%C2%A7%2000714%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93258%2C%20%C2%A72%28d%29%281%29%28B%29%2C%20Sept.%2013%2C%201982%2C%2096%20Stat.%201058.md)
 - [&sect; 00715 - &#8220;The Golden Eagle Insignia&#8221;](%C2%A7%2000715%20-%20%E2%80%9CThe%20Golden%20Eagle%20Insignia%E2%80%9D.md)
-- [&sect; 00716 - Police badges](%C2%A7%2000716%20-%20Police%20badges.md)
+- [&sect; 00716 - Public employee insignia and uniform](%C2%A7%2000716%20-%20Public%20employee%20insignia%20and%20uniform.md)

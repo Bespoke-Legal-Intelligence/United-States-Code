@@ -16,7 +16,7 @@ Not later than 90 days after October 25, 2004, the Director shall establish an I
 
 &emsp;(2) The National Science Foundation shall support research in engineering and the atmospheric sciences to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
 
-&emsp;(3) The National Oceanic and Atmospheric Administration shall support atmospheric sciences research to improve the understandingof the behavior of windstorms and their impact on buildings, structures, and lifelines.
+&emsp;(3) The National Oceanic and Atmospheric Administration shall support atmospheric sciences research to improve the understanding of the behavior of windstorms and their impact on buildings, structures, and lifelines.
 
 &emsp;(4) The Federal Emergency Management Agency shall support the development of risk assessment tools and effective mitigation techniques, windstorm-related data collection and analysis, public outreach, information dissemination, and implementation of mitigation measures consistent with the Agency's all-hazards approach.
 
@@ -66,7 +66,7 @@ Not later than 1 year after October 25, 2004, the Interagency Working Group shal
 
 #### (f) Biennial report
 
-The Interagency Working Group shall, on a biennial basis, and not later than 180 days after the end of the preceding 2 fiscal years, transmit a report to the Congress describing the status of the windstorm impact reduction program, including progress achieved during the preceding two fiscal years. Each such report shall include any recommendations for legislative and other action the Interagency Working Group considers necessary and appropriate. In developing the biennial report, the Interagency Working Group shall consider the recommendations of the Advisory Committee established under section 15704 of this title.
+The Interagency Working Group shall, on a biennial basis, and not later than 180 days afterthe end of the preceding 2 fiscal years, transmit a report to the Congress describing the status of the windstorm impact reduction program, including progress achieved during the preceding two fiscal years. Each such report shall include any recommendations for legislative and other action the Interagency Working Group considers necessary and appropriate. In developing the biennial report, the Interagency Working Group shall consider the recommendations of the Advisory Committee established under section 15704 of this title.
 
 (Pub. L. 108–360, title II, §204, Oct. 25, 2004, 118 Stat. 1676.)
 

@@ -50,5 +50,5 @@ Each eligible agency shall evaluate annually, using the State adjusted levels of
 
 Provisions similar to this section were contained in section 2327 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-A prior section 2343, Pub. L. 88–210, title II, §240, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104 Stat. 784, related to local applications, prior to the general amendment of this chapter by Pub. L. 105–332.
+A prior section 2343, Pub. L. 88–210, title II, §240, as added Pub. L. 101–392, title II, §201, Sept. 25, 1990, 104Stat. 784, related to local applications, prior to the general amendment of this chapter by Pub. L. 105–332.
 

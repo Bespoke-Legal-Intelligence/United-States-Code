@@ -16,5 +16,5 @@ The Secretary of the Interior may—
 
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939,see Transfer of Functions note set out under section 715a of this title.
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 715a of this title.
 

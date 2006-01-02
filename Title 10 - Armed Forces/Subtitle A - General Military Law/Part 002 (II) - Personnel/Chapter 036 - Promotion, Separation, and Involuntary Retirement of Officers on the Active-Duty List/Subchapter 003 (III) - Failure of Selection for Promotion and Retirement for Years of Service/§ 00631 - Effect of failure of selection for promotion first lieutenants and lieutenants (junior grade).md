@@ -28,7 +28,3 @@ Subsec. (d). Pub. L. 107–107, §505(a)(2), added subsec. (d).
 
 1984—Subsec. (c). Pub. L. 98–525 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 619 of this title.
-

@@ -20,7 +20,7 @@ The Task Force shall report to Congress annually on its work under subsection (b
 
 #### (d) Definition
 
-For purposes of this section, the term “domestic violence” has the meaning given such term by section 3796gg–2 of this title.
+For purposes of this section, the term “domestic violence” has the meaning given such term by section 3796gg–2 <sup>1</sup> of this title.
 
 #### (e) Authorization of Appropriations
 
@@ -28,35 +28,19 @@ There is authorized to be appropriated to carry out this section $500,000 for ea
 
 (Pub. L. 103–322, title IV, §40901, as added Pub. L. 106–386, div. B, title IV, §1407, Oct. 28, 2000, 114 Stat. 1517.)
 
+#### References in Text
+
+Section 3796gg–2 of this title, referred to in subsec. (d), was subsequently repealed and a new section 3796gg–2 enacted which does not define “domestic violence”. However, such term is defined in section 13925 of this title.
+
 #### Study of State Laws Regarding Insurance Discrimination Against Victims of Violence Against Women
 
-Pub. L. 106–386, div. B, title II, §1206, Oct. 28, 2000, 114 Stat. 1507, provided that:
-
-“(a)
-
-In General.—The Attorney General shall conduct a national study to identify State laws that address discrimination against victims of domestic violence and sexual assault related to issuance or administration of insurance policies.
-
-“(b)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 28, 2000\], the Attorney General shall submit to Congress a report on the findings and recommendations of the study required by subsection (a).”
+Pub. L. 106–386, div. B, title II, §1206, Oct. 28, 2000, 114 Stat. 1507, directed the Attorney General to conduct a national study to identify State laws that address insurance discrimination against victims of domestic violence and sexual assault and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
 
 #### Study of Workplace Effects From Violence Against Women
 
-Pub. L. 106–386, div. B, title II, §1207, Oct. 28, 2000, 114 Stat. 1507, provided that: “The Attorney General shall—
-
-&emsp;“(1) conduct a national survey of plans, programs, and practices developed to assist employers and employees on appropriate responses in the workplace related to victims of domestic violence, stalking, or sexual assault; and
-
-&emsp;“(2) not later than 18 months after the date of the enactment of this Act \[Oct. 28, 2000\], submit to Congress a report describing the results of that survey, which report shall include the recommendations of the Attorney General to assist employers and employees affected in the workplace by incidents of domestic violence, stalking, and sexual assault.”
+Pub. L. 106–386, div. B, title II, §1207, Oct. 28, 2000, 114 Stat. 1507, directed the Attorney General to conduct a national survey of programs to assist employers and employees on appropriate responses in the workplace to victims of domestic violence, stalking, or sexual assault, and not later than 18 months after Oct. 28, 2000, to submit to Congress a report and recommendations based on that survey.
 
 #### Study of Unemployment Compensation for Victims of Violence Against Women
 
-Pub. L. 106–386, div. B, title II, §1208, Oct. 28, 2000, 114 Stat. 1508, provided that: “The Secretary of Labor, in consultation with the Attorney General, shall—
-
-&emsp;“(1) conduct a national study to identify State laws that address the separation from employment of an employee due to circumstances directly resulting from the experience of domestic violence by the employee and circumstances governing that receipt (or nonreceipt) by the employee of unemployment compensation based on such separation; and
-
-&emsp;“(2) not later than 1 year after the date of the enactment of this Act \[Oct. 28, 2000\], submit to Congress a report describing the results of that study, together with any recommendations based on that study.”
-
-#### Definitions of Terms in Pub. L. 106–386
-
-For definitions of “domestic violence” and “sexual assault” as used in sections 1206, 1207, and 1208 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.
+Pub. L. 106–386, div. B, title II, §1208, Oct. 28, 2000, 114 Stat. 1508, directed the Secretary of Labor, in consultation with the Attorney General, to conduct a national study to identify the impact of State unemployment compensation laws on victims of domestic violence when the victim's separation from employment is a direct result of the domestic violence and to submit to Congress a report and recommendations based on that study not later than 1 year after Oct. 28, 2000.
 

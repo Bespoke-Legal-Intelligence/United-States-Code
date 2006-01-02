@@ -200,9 +200,9 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 (Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59.)
 
-#### Inflation Adjusted Items for Taxable Years Beginning in 2004
+#### Inflation Adjusted Items for Taxable Years Beginning in 2006
 
-<i>For inflation adjustment of amounts in subsection (b)(1) of this section used in determining Hope Scholarship Credit and amounts in subsection (d)(2)(A)(ii) of this section used in determining reduction in amount of credits otherwise allowable for taxable years beginning in 2004, see section 3.05 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (b)(1) of this section used in determining Hope Scholarship Credit and amounts in sub</i><i>section (d)(2)(A)(ii) of this section used in determining reduction in amount of credits otherwise allowable for taxable years beginning in 2006, see section 3.05 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -245,8 +245,4 @@ In general.—The amendments made by this section \[enacting this section and se
 “(2)
 
 Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 1986 shall apply to expenses paid after June 30, 1998 (in taxable years ending after such date), for education furnished in academic periods beginning after such dates.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 72, 135, 221, 222, 529, 530, 6050S, 6213 of this title; title 20 sections 1087<i>oo</i>, 1087pp, 1087qq, 1087ss, 1087vv.
 

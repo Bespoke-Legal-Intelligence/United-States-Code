@@ -18,10 +18,6 @@
 
 1958—Pub. L. 85–861, §1(191)(B), Sept. 2, 1958, 72 Stat. 1534, added item 8819.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 113 of this title.
-
 
 ---
 

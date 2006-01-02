@@ -28,7 +28,7 @@
 
 &emsp;For purposes of paragraph (2), adjusted gross income shall be determined—
 
-&emsp;&emsp;(A) without regard to this section and sections 221, 222, 911, 931, and 933, and
+&emsp;&emsp;(A) without regard to this section and sections 199, 221, 222, 911, 931, and 933, and
 
 &emsp;&emsp;(B) after the application of sections 86, 135, 219, and 469.
 
@@ -44,7 +44,7 @@ For purposes of this section, an adoption assistance program is a separate writt
 
 #### (d) Qualified adoption expenses
 
-For purposes of this section, the term “qualified adoption expenses” has the meaning given such term by section 23(d) (determined without regard to reimbursements under this section).
+For purposes of this section, the term “qualified adoption expenses” has the meaning givensuch term by section 23(d) (determined without regard to reimbursements under this section).
 
 #### (e) Certain rules to apply
 
@@ -60,11 +60,11 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 > If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
 
-(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57.)
+(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
-#### Adjustment for Adoption Assistance Program Expenses Exclusion for Taxable Years Beginning in 2004
+#### Adjustment for Adoption Assistance Program Expenses Exclusion for Taxable Years Beginning in 2006
 
-<i>For inflation adjustment for taxable years beginning in 2004 of maximum exclusion in subsection (a)(2) of this section in connection with employee's adoption of a child with special needs, of maximum exclusion in subsection (b)(1) of this section in connection with adoption assistance program for other adoptions, and of phaseout of exclusion in subsection (b)(2)(A) of this section, see section 3.14 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment for taxable years beginning in 2006 of maximum exclusion in subsection (a)(2) of this section in connection with employee's adoption of a child with special needs, of maximum exclusion in subsection (b)(1) of this section in connection with adoption assistance program for other adoptions, and of phaseout of exclusion in subsection (b)(2)(A) of this section, see section 3.14 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -76,13 +76,17 @@ A prior section 137 was renumbered section 140 of this title.
 
 #### Amendments
 
+2004—Subsec. (b)(1). Pub. L. 108–311 amended directory language of Pub. L. 107–147, §411(c)(2)(B). See 2002 Amendment note below.
+
+Subsec. (b)(3)(A). Pub. L. 108–357 inserted “199,” before “221”.
+
 2002—Subsec. (a). Pub. L. 107–147, §411(c)(2)(A), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Gross income of an employee does not include amounts paid or expenses incurred by the employer for adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program. The amount of the exclusion shall be—
 
 &emsp;“(1) in the case of an adoption of a child other than a child with special needs, the amount of the qualified adoption expenses paid or incurred by the taxpayer, and
 
 &emsp;“(2) in the case of an adoption of a child with special needs, $10,000.”
 
-Subsec. (b)(1). Pub. L. 107–147, §411(c)(2)(B), which directed the substitution of “subsection (a)” for “subsection (a)(1)” in par. (2) of subsec. (b), was executed to par. (1), to reflect the probable intent of Congress because par. (2) contains no reference to “subsection (a)(1)”.
+Subsec. (b)(1). Pub. L. 107–147, §411(c)(2)(B), as amended by Pub. L. 108–311, substituted “subsection (a)” for “subsection (a)(1)”.
 
 Subsec. (f). Pub. L. 107–147, §418(a)(2), inserted at end “If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.”
 
@@ -100,6 +104,12 @@ Subsec. (f). Pub. L. 107–16, §§202(d)(2), (e)(2), 901, temporarily added sub
 
 1997—Subsec. (b)(1). Pub. L. 105–34 substituted “of the amounts paid or expenses incurred which may be taken into account” for “amount excludable from gross income”.
 
+#### Effective Date of 2004 Amendments
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Job Creation and Worker Assistance Act of 2002, Pub. L. 107–147, to which such amendment relates, see section 403(f) of Pub. L. 108–311, set out as a note under section 56 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by section 411(c)(2) of Pub. L. 107–147 applicable to taxable years beginning after Dec. 31, 2002, except that amendment by section 411(c)(2)(B) applicable to taxable years beginning after Dec. 31, 2001, see section 411(c)(3) of Pub. L. 107–147, set out as a note under section 23 of this title.
@@ -108,7 +118,7 @@ Amendment by section 418(a)(2) of Pub. L. 107–147 effective as if included in 
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
+Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginningafter Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
 Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 202(g)(2) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
@@ -131,8 +141,4 @@ Section applicable to taxable years beginning after Dec. 31, 1996, see section 1
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 23, 86, 135, 219, 221, 222, 414, 469, 1016, 6039D of this title.
 

@@ -20,7 +20,7 @@
 
 (2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $220,000,000.
 
-(B) If, during any fiscal year, the Secretary estimates that the amount of funds necessary to pay the costs of training approved under this section will exceed the amount of the limitation imposed under subparagraph (A), the Secretary shall decide how the portion of such limitation that has not been expended at the time of such estimate is to be apportioned among the States for the remainder of such fiscal year.
+(B) If, during any fiscal year, the Secretary estimates that the amount of funds necessary topay the costs of training approved under this section will exceed the amount of the limitation imposed under subparagraph (A), the Secretary shall decide how the portion of such limitation that has not been expended at the time of such estimate is to be apportioned among the States for the remainder of such fiscal year.
 
 (3) For purposes of applying paragraph (1)(C), a reasonable expectation of employment does not require that employment opportunities for a worker be available, or offered, immediately upon the completion of training approved under this paragraph (1).
 
@@ -92,7 +92,7 @@ The Secretary shall pay the costs of any on-the-job training of an adversely aff
 
 &emsp;(2) such training does not impair existing contracts for services or collective bargaining agreements,
 
-&emsp;(3) in the case of training which would be inconsistent with the terms of a collective bargaining agreement, the written concurrence of the labor organization concerned has been obtained,
+&emsp;(3) in the case of training which would be inconsistent with the terms of a collective bargaining agreement, the written concurrence ofthe labor organization concerned has been obtained,
 
 &emsp;(4) no other individual is on layoff from the same, or any substantially equivalent, job for which such adversely affected worker is being trained,
 
@@ -102,7 +102,7 @@ The Secretary shall pay the costs of any on-the-job training of an adversely aff
 
 &emsp;(7) such training is not for the same occupation from which the worker was separated and with respect to which such worker's group was certified pursuant to section 2272 of this title,
 
-&emsp;(8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providingthe training and additional supervision related to the training,
+&emsp;(8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providing the training and additional supervision related to the training,
 
 &emsp;(9) the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of paragraphs (1), (2), (3), (4), (5), and (6), and
 
@@ -160,7 +160,7 @@ Subsec. (a)(1)(F). Pub. L. 100–418, §1424(a)(2)–(4), added subpar. (F).
 
 Subsec. (a)(2). Pub. L. 100–418, §1424(a)(11), (12), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (a)(2)(A). Pub. L. 100–418, §1424(b), directed the amendment of subpar. (A) by substituting “$120,000,000” for “$80,000,000”, which amendment did not become effective pursuant to section 1430(d) of Pub.L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
+Subsec. (a)(2)(A). Pub. L. 100–418, §1424(b), directed the amendment of subpar. (A) by substituting “$120,000,000” for “$80,000,000”, which amendment did not become effective pursuant to section 1430(d) of Pub. L. 100–418, as amended, set out as an Effective Date note under section 2397 of this title.
 
 Subsec. (a)(3), (4). Pub. L. 100–418, §1424(a)(11), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 

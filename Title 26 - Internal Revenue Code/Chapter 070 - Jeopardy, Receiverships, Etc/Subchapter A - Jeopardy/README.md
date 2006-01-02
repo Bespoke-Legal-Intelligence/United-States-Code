@@ -12,10 +12,6 @@
 
 1982—Pub. L. 97–248, title III, §330(b), Sept. 3, 1982, 96 Stat. 620, added item for part III.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6155, 6216, 6331 of this title.
-
 
 ---
 

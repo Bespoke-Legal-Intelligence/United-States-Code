@@ -22,7 +22,3 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Section 1422(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5043 of this title.
-

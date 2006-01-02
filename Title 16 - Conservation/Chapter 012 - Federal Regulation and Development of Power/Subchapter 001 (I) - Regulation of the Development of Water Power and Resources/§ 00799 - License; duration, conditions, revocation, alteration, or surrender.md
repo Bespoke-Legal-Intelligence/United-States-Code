@@ -18,7 +18,3 @@ Pub. L. 104–106 struck out at end “Copies of all licenses issued under the p
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
-

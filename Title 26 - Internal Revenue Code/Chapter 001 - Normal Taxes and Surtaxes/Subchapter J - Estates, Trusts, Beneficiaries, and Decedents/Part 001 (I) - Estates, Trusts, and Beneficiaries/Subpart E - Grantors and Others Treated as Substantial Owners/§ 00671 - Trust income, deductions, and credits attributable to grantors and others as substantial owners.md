@@ -104,7 +104,3 @@ Special Rule for Persons Holding Income Interests.—In applying subpart E of pa
 
 &emsp;“(2) all items of income, gain, loss, deduction, and credit shall be allocated to persons holding income interests for the period of the allocation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 170, 678, 684 of this title.
-

@@ -1,6 +1,6 @@
 ### §494. Authorization of appropriations
 
-There are authorized to be appropriated to carry out sections 488 to 494 of this title$8,000,000 for each of the fiscal years 1991 through 1995.
+There are authorized to be appropriated to carry out sections 488 to 494 of this title $8,000,000 for each of the fiscal years 1991 through 1995.
 
 (Pub. L. 91–229, §6, as added Pub. L. 101–624, title XVIII, §1854(b), Nov. 28, 1990, 104 Stat. 3837.)
 

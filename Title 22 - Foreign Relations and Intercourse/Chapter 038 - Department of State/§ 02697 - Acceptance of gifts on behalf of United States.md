@@ -26,7 +26,7 @@ For the purpose of Federal income, estate, and gift taxes, any gift, devise, or 
 
 The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Broadcasting Board of Governors and the Administrator of the Agency for International Development with respect to the Board and the Agency.
 
-(Aug. 1, 1956, ch. 841, title I, §25, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2153; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 100–204, title I, §125, Dec. 22, 1987, 101 Stat. 1341; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(<i>l</i>)(2), title XIV, §1422(b)(3)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792.)
+(Aug. 1, 1956, ch. 841, title I, §25, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat.2153; renumbered title I and amended Pub. L. 97–241, title II, §202(a), title III, §303(b), Aug. 24, 1982, 96 Stat. 282, 291; Pub. L. 100–204, title I, §125, Dec. 22, 1987, 101 Stat. 1341; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(<i>l</i>)(2), title XIV, §1422(b)(3)(A), Oct. 21, 1998, 112 Stat. 2681–789, 2681–792.)
 
 #### Amendments
 

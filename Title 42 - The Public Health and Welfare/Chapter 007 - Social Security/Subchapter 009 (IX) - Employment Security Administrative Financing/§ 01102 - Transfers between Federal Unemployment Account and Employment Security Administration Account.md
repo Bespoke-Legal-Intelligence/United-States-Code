@@ -2,7 +2,7 @@
 
 #### (a) Determination of excess; amount transferred
 
-Whenever the Secretary of the Treasury determines pursuant to section 1101(f) of this title that there is an excess in the employment security administration account as of the close of any fiscal year and the entire amount of such excess is not retained in the employment security administration account or transferred to the extended unemployment compensation account as provided in section 1101(f)(3) of this title, there shall be transferred (as of the beginning of the succeeding fiscal year) to the Federal unemployment account the balance of such excess or so much thereof as is required to increase the amount in the Federal unemployment account to whichever of the following is the greater:
+Whenever the Secretary of the Treasury determines pursuant to section 1101(f) of this title that there is an excess in the employment security administration account as of the close of any fiscal year and the entire amount of such excess is not retained in the employment security administration account or transferred tothe extended unemployment compensation account as provided in section 1101(f)(3) of this title, there shall be transferred (as of the beginning of the succeeding fiscal year) to the Federal unemployment account the balance of such excess or so much thereof as is required to increase the amount in the Federal unemployment account to whichever of the following is the greater:
 
 &emsp;(1) $550 million, or
 
@@ -30,7 +30,7 @@ A prior section 1102, act Aug. 14, 1935, ch. 531, title IX, §902, 49 Stat. 639,
 
 1987—Subsec. (a)(2). Pub. L. 100–203 substituted “five-eighths” for “one-eighth”.
 
-1970—Subsec. (a). Pub. L. 91–373, §304(a), inserted, in provisions preceding par. (1), reference to the retention of the entire amount of the excess in the employmentsecurity administration account or the transfer to the extended unemployment compensation account as provided in section 1101(f)(3) of this title and, in par. (2), substituted “one-eighth of 1 percent” for “four-tenths of 1 per centum”.
+1970—Subsec. (a). Pub. L. 91–373, §304(a), inserted, in provisions preceding par. (1), reference to the retention of the entire amount of the excess in the employment security administration account or the transfer to the extended unemployment compensation account as provided in section 1101(f)(3) of this title and, in par. (2), substituted “one-eighth of 1 percent” for “four-tenths of 1 per centum”.
 
 Subsec. (c). Pub. L. 91–373, §304(b), added subsec. (c).
 

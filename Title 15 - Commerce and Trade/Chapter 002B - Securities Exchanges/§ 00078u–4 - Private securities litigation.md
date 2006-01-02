@@ -42,7 +42,7 @@
 
 #### (ii) Multiple actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
 
 #### (iii) Additional notices may be required under Federal rules
 
@@ -178,7 +178,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unlessotherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
+&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
 
 #### (ii) Sanction for willful violation
 
@@ -236,7 +236,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (2) Exception
 
-&emsp;In any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, if the plaintiff sells or repurchases the subject security prior to the expiration of the 90-day period described in paragraph (1), the plaintiff's damages shall not exceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the security and the mean trading price of the security during the period beginning immediately after dissemination of information correcting the misstatement oromission and ending on the date on which the plaintiff sells or repurchases the security.
+&emsp;In any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, if the plaintiff sells or repurchases the subject security prior to the expiration of the 90-day period described in paragraph (1), the plaintiff's damages shall not exceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the security and the mean trading price of the security during the period beginning immediately after dissemination of information correcting the misstatement or omission and ending on the date on which the plaintiff sells or repurchases the security.
 
 #### (3) “Mean trading price” defined
 
@@ -298,7 +298,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;Each covered person shall be jointly and severally liable for the uncollectible share if the plaintiff establishes that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the final judgment are equal to more than 10 percent of the net worth of the plaintiff; and
+&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the finaljudgment are equal to more than 10 percent of the net worth of the plaintiff; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the net worth of the plaintiff is equal to less than $200,000.
 
@@ -372,7 +372,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;&emsp;(II) persons are likely to reasonably rely on that misrepresentation or omission; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances that make the conduct of that covered person a violation of the securities laws;
+&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances thatmake the conduct of that covered person a violation of the securities laws;
 
 &emsp;&emsp;(B) reckless conduct by a covered person shall not be construed to constitute a knowing commission of a violation of the securities laws by that covered person;
 

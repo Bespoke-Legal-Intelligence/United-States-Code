@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) establish procedures under which the general public may make recommendations to the Board regarding the inclusion of films in the National Film Registry; and
 
-&emsp;&emsp;(D) determine which films satisfy the criteria established under subparagraph (B) and qualify for inclusion in the National Film Registry, except that the Librarian shall not select more than 25 films each year for inclusion in the Registry.
+&emsp;&emsp;(D) determine which films satisfy the criteria established under subparagraph (B) andqualify for inclusion in the National Film Registry, except that the Librarian shall not select more than 25 films each year for inclusion in the Registry.
 
 #### (2) Publication of films in Registry
 
@@ -32,15 +32,31 @@
 
 #### (b) Use of seal
 
-The seal provided under subsection (a)(3) of this section may only be used on film copies of the Registry version of a film. Such seal may be used only after the Librarian has given approval to those persons seeking to apply the seal in accordance with the guidelines under subsection (a)(3) of this section. In the case of copyrighted works, only the copyright owner or an authorized licensee of the copyright owner may place or authorize the placement of the seal on any film copy of a Registry version of a film selected for inclusion in the National Film Registry, and the Librarian may place the seal on any film copy of the Registry version of any film that is maintained in the National Film Registry Collection in the Library of Congress. Anyone authorized to place the seal on any film copy of any Registry version of a film may accompany such seal with the following language: “This film was selected for inclusion in the National Film Registry by the National Film Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.”.
+The seal provided under subsection (a)(3) of this section may only be used on film or other approved copies of the Registry version of a film. Such seal may be used only after the Librarian has given approval to those persons seeking to apply the seal in accordance with the guidelines under subsection (a)(3) of this section. In the case of copyrighted, mass distributed, broadcast, or published works, only the copyright owner or an authorized licensee of the copyright owner may place or authorize the placement of the seal on any film or other approved copy of a Registry version of a film selected for inclusion in the National Film Registry, and the Librarian may place the seal on any film or other approved copy of the Registry version of any film that is maintained in the National Film Registry Collection in the Library of Congress. Anyone authorized to place the seal on any film or other approved copy of any Registry version of a film may accompany such seal with the following language: “This film was selected for inclusion in the National Film Registry by the National Film Preservation Board of the Library of Congress because of its cultural, historical, or aesthetic significance.”.
 
-(Pub. L. 104–285, title I, §103, Oct. 11, 1996, 110 Stat. 3377.)
+#### (c) Coordination of program with other collection, preservation, and accessibility activities
+
+In carrying out the comprehensive national film preservation program for motion pictures established under the National Film Preservation Act of 1992, the Librarian, in consultation with the Board established pursuant to section 179n of this title, shall—
+
+&emsp;(1) carry out activities to make films included in the National Film registry more broadly accessible for research and educational purposes, and to generate public awareness and support of the Registry and the comprehensive national film preservation program;
+
+&emsp;(2) review the comprehensive national film preservation plan, and amend it to the extent necessary to ensure that it addresses technological advances in the preservation and storage of, and access to film collections in multiple formats; and
+
+&emsp;(3) wherever possible, undertake expanded initiatives to ensure the preservation of the moving image heritage of the United States, including film, videotape, television, and born digital moving image formats, by supporting the work of the National Audio-Visual Conservation Center of the Library of Congress, and other appropriate nonprofit archival and preservation organizations.
+
+(Pub. L. 104–285, title I, §103, Oct. 11, 1996, 110 Stat. 3377; Pub. L. 109–9, title III, §302(a), Apr. 27, 2005, 119 Stat. 224.)
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title.</i>
 
 #### References in Text
 
-The National Film Preservation Act of 1992, referred to in subsec. (a)(1)(A), is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.
+The National Film Preservation Act of 1992, referred to in subsecs. (a)(1)(A) and (c), is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.
+
+#### Amendments
+
+2005—Subsec. (b). Pub. L. 109–9, §302(a)(1), substituted “film or other approved copies” for “film copies” and “copyrighted, mass distributed, broadcast, or published” for “copyrighted” and substituted “film or other approved copy” for “film copy” wherever appearing.
+
+Subsec. (c). Pub. L. 109–9, §302(a)(2), added subsec. (c).
 

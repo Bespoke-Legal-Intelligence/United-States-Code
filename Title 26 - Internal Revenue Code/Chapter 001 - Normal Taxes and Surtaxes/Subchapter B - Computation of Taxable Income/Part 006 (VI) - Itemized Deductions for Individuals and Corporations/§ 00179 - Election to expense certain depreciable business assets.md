@@ -8,11 +8,11 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxableyear shall not exceed $25,000 ($100,000 in the case of taxable years beginning after 2002 and before 2006).
+&emsp;The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $25,000 ($100,000 in the case of taxable years beginning after 2002 and before 2008).
 
 #### (2) Reduction in limitation
 
-&emsp;The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $200,000 ($400,000 in the case of taxable years beginning after 2002 and before 2006).
+&emsp;The limitation under paragraph (1) for any taxable year shall be reduced (but not below zero) by the amount by which the cost of section 179 property placed in service during such taxable year exceeds $200,000 ($400,000 in the case of taxable years beginning after 2002 and before 2008).
 
 #### (3) Limitation based on income from trade or business
 
@@ -48,7 +48,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2003 and before 2006, the $100,000 and $400,000 amounts in paragraphs (1) and (2) shall each be increased by an amount equal to—
+&emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2003 and before 2008, the $100,000 and $400,000 amounts in paragraphs (1) and (2) shall each be increased by an amount equal to—
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
@@ -64,6 +64,36 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;If the amount in paragraph (2) as increased under subparagraph (A) is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.
 
+#### (6) Limitation on cost taken into account for certain passenger vehicles
+
+#### (A) In general
+
+&emsp;&emsp;The cost of any sport utility vehicle for any taxable year which may be taken into account under this section shall not exceed $25,000.
+
+#### (B) Sport utility vehicle
+
+&emsp;&emsp;For purposes of subparagraph (A)—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “sport utility vehicle” means any 4-wheeled vehicle—
+
+&emsp;&emsp;&emsp;&emsp;(I) which is primarily designed or which can be used to carry passengers over public streets, roads, or highways (except any vehicle operated exclusively on a rail or rails),
+
+&emsp;&emsp;&emsp;&emsp;(II) which is not subject to section 280F, and
+
+&emsp;&emsp;&emsp;&emsp;(III) which is rated at not more than 14,000 pounds gross vehicle weight.
+
+#### (ii) Certain vehicles excluded
+
+&emsp;&emsp;&emsp;Such term does not include any vehicle which—
+
+&emsp;&emsp;&emsp;&emsp;(I) is designed to have a seating capacity of more than 9 persons behind the driver's seat,
+
+&emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
+
+&emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
+
 #### (c) Election
 
 #### (1) In general
@@ -78,7 +108,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (2) Election irrevocable
 
-&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2006 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
+&emsp;Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2008 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
 
 #### (d) Definitions and special rules
 
@@ -90,7 +120,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;(i) tangible property (to which section 168 applies), or
 
-&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2006,
+&emsp;&emsp;&emsp;(ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2008,
 
 &emsp;&emsp;(B) which is section 1245 property (as defined in section 1245(a)(3)), and
 
@@ -152,13 +182,19 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659.)
 
-#### Adjustment of Limitation on Election To Expense Certain Depreciable Assets for Taxable Years Beginning in 2004
+#### Adjustment of Limitation on Election To Expense Certain Depreciable Assets for Taxable Years Beginning in 2006
 
-<i>For adjustment of limitation on aggregate cost under subsection (b)(1) of this section and the reduction of the limitation under subsection (b)(2) of this section for taxable years beginning in 2004, see section 3.17 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on aggregate cost under subsection (b)(1) of this section and the reduction of the limitation under subsection (b)(2) of this section for taxable years beginning in 2006, see section 3.18 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendments
+
+2004—Subsec. (b)(1), (2), (5)(A). Pub. L. 108–357, §201, substituted “2008” for “2006”.
+
+Subsec. (b)(6). Pub. L. 108–357, §910(a), added par. (6).
+
+Subsecs. (c)(2), (d)(1)(A)(ii). Pub. L. 108–357, §201, substituted “2008” for “2006”.
 
 2003—Subsec. (b)(1). Pub. L. 108–27, §202(a), reenacted heading without change and amended text generally. Prior to amendment, par. (1) contained a table specifying the maximum amounts for taxable years 1997 to 2003 and thereafter which could be taken into account as the aggregate costs under subsec. (a).
 
@@ -168,7 +204,7 @@ Subsec. (b)(5). Pub. L. 108–27, §202(d), added par. (5).
 
 Subsec. (c)(2). Pub. L. 108–27, §202(e), inserted at end “Any such election or specification with respect to any taxable year beginning after 2002 and before 2006 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.”
 
-Subsec. (d)(1). Pub. L. 108–27, §202(c), reenacted heading without change and amended text generally. Priorto amendment, text read as follows: “For purposes of this section, the term ‘section 179 property’ means any tangible property (to which section 168 applies) which is section 1245 property (as defined in section 1245(a)(3)) and which is acquired by purchase for use in the active conduct of a trade or business. Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units.”
+Subsec. (d)(1). Pub. L. 108–27, §202(c), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘section 179 property’ means any tangible property (to which section 168 applies) which is section 1245 property (as defined in section 1245(a)(3)) and which is acquired by purchase for use in the active conduct of a trade or business. Such term shall not include any property described in section 50(b) and shall not include air conditioning or heating units.”
 
 1996—Subsec. (b)(1). Pub. L. 104–188, §1111(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The aggregate cost which may be taken into account under subsection (a) for any taxable year shall not exceed $17,500.”
 
@@ -226,6 +262,10 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted “section 167(g)” for “section 167(f)”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §910(b), Oct. 22, 2004, 118 Stat. 1660, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–27, title II, §202(f), May 28, 2003, 117 Stat. 758, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
@@ -242,11 +282,11 @@ Section 13116(b) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicableto any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -288,9 +328,5 @@ Section 204(c) of Pub. L. 85–866 provided that: “The amendments made by this
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30, 42, 142, 179A, 263, 280F, 1245, 1397A, 1397D, 1400B, 1400F, 1400J, 1400L of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

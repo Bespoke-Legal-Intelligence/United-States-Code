@@ -15,7 +15,7 @@ Part A—Motor Vehicle Emission and Fuel Standards
 - [&sect; 07543 - State standards](%C2%A7%2007543%20-%20State%20standards.md)
 - [&sect; 07544 - State grants](%C2%A7%2007544%20-%20State%20grants.md)
 - [&sect; 07545 - Regulation of fuels](%C2%A7%2007545%20-%20Regulation%20of%20fuels.md)
-- [&sect; 07546 - Repealed. Pub. L. 101&#8211;549, title II, &sect;230(10), Nov. 15, 1990, 104 Stat. 2529](%C2%A7%2007546%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93549%2C%20title%20II%2C%20%C2%A7230%2810%29%2C%20Nov.%2015%2C%201990%2C%20104%20Stat.%202529.md)
+- [&sect; 07546 - Renewable fuel](%C2%A7%2007546%20-%20Renewable%20fuel.md)
 - [&sect; 07547 - Nonroad engines and vehicles](%C2%A7%2007547%20-%20Nonroad%20engines%20and%20vehicles.md)
 - [&sect; 07548 - Study of particulate emissions from motor vehicles](%C2%A7%2007548%20-%20Study%20of%20particulate%20emissions%20from%20motor%20vehicles.md)
 - [&sect; 07549 - High altitude performance adjustments](%C2%A7%2007549%20-%20High%20altitude%20performance%20adjustments.md)

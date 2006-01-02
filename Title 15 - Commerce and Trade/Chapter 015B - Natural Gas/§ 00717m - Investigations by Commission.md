@@ -14,7 +14,7 @@ For the purpose of any investigation or any other proceeding under this chapter,
 
 #### (d) Jurisdiction of courts of United States
 
-In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. Such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found or may be doing business. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
+In case of contumacy by, or refusal to obey a subpena issued to, any person, the Commission may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or wheresuch person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, contracts, agreements, and other records. Such court may issue an order requiring such person to appear before the Commission or member or officer designated by the Commission, there to produce records, if so ordered, or to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found or may be doing business. Any person who willfully shall fail or refuse to attend and testify or to answer any lawful inquiry or to produce books, papers, correspondence, memoranda, contracts, agreements, or other records, if in his or its power so to do, in obedience to the subpena of the Commission, shall be guilty of a misdemeanor and upon conviction shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than one year, or both.
 
 #### (e) Testimony of witnesses
 
@@ -37,12 +37,6 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Study and Report on Natural Gas Pipeline and Storage Facilities in New England
 

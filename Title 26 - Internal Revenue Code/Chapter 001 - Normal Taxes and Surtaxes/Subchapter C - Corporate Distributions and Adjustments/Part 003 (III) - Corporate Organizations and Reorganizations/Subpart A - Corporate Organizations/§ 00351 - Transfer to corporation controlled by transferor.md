@@ -58,7 +58,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(iv) any interest in a real estate investment trust, a common trust fund, a regulated investment company, a publicly-traded partnership (as defined in section 7704(b)) or any other equity interest (other than in a corporation) which pursuant to its terms or any other arrangement is readily convertible into, or exchangeable for, any asset described in any preceding clause, this clause or clause (v) or (viii),
 
-&emsp;&emsp;&emsp;(v) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal, unless such metal is used or held in the active conduct of a trade or business after the contribution,
+&emsp;&emsp;&emsp;(v) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal, unless suchmetal is used or held in the active conduct of a trade or business after the contribution,
 
 &emsp;&emsp;&emsp;(vi) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all of the assets of such entity consist (directly or indirectly) of any assets described in any preceding clause or clause (viii),
 
@@ -140,7 +140,7 @@ If—
 
 #### (A) Preferred stock
 
-&emsp;&emsp;The term “preferred stock” means stock which is limited and preferred as to dividends and does not participate in corporate growth to any significant extent.
+&emsp;&emsp;The term “preferred stock” means stock which is limited and preferred as to dividends and does not participate in corporate growth to any significant extent. Stock shall not be treated as participating in corporate growth to any significant extent unless there is a real and meaningful likelihood of the shareholder actually participating in the earnings and growth of the corporation. If there is not a real and meaningful likelihood that dividends beyond any limitation or preference will actually be paid, the possibility of such payments willbe disregarded in determining whether stock is limited and preferred as to dividends.
 
 #### (B) Related person
 
@@ -162,9 +162,13 @@ If—
 
 &emsp;&emsp;<b>(5) For coordination of this section with section 304, see section 304(b)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, §203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, §1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, §5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, §226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, §1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, §7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, §11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, §6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, §4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(d)(1), June 25, 1999, 113 Stat. 183; Pub. L. 107–147, title IV, §417(9), Mar. 9, 2002, 116 Stat. 56.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, §203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, §1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, §5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, §226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, §1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, §7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, §11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, §6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, §4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(d)(1), June 25, 1999, 113 Stat. 183; Pub. L. 107–147, title IV, §417(9), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–357, title VIII, §899(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, §403(kk), Dec. 21, 2005, 119 Stat. 2632.)
 
 #### Amendments
+
+2005—Subsec. (g)(3)(A). Pub. L. 109–135 inserted at end “If there is not a real and meaningful likelihood that dividends beyond any limitation or preference will actually be paid, the possibility of such payments will be disregarded in determining whether stock is limited and preferred as to dividends.”
+
+2004—Subsec. (g)(3)(A). Pub. L. 108–357 inserted at end “Stock shall not be treated as participating in corporate growth to any significant extent unless there is a real and meaningful likelihood of the shareholder actually participating in the earnings and growth of the corporation.”
 
 2002—Subsec. (h)(1). Pub. L. 107–147 inserted comma after “liability”.
 
@@ -221,6 +225,14 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(48)(B), among other changes, substitute
 1966—Subsec. (a). Pub. L. 89–809, §203(a), inserted “(including, in the case of transfers made on or before June 30, 1967, an investment company)” after “if property is transferred to a corporation”.
 
 Subsecs. (d), (e). Pub. L. 89–809, §203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §899(b), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendment made by this section \[amending this section\] shall apply to transactions after May 14, 2003.”
 
 #### Effective Date of 1999 Amendment
 
@@ -317,8 +329,4 @@ Section 1901(a)(48)(C) of Pub. L. 94–455 provided that: “The amendments made
 #### Effective Date of 1966 Amendment
 
 Section 203(c) of Pub. L. 89–809 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to transfers of property to investment companies whether made before, on, or after the date of the enactment of this Act \[Nov. 13, 1966\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45D, 168, 197, 304, 306, 336, 338, 346, 354, 355, 356, 357, 358, 362, 367, 368, 382, 683, 721, 724, 735, 995, 1036, 1202, 1245, 1250, 1276, 6038B of this title.
 

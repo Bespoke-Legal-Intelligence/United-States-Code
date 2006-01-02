@@ -38,7 +38,3 @@ Provisions similar to those in this section were contained in section 1604(f)(1)
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1601, 1613 of this title.
-

@@ -18,15 +18,23 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 &emsp;Under regulations prescribed by the Secretary—
 
-&emsp;&emsp;(A) income, gain, loss, and deduction with respect to property contributed to the partnership by a partner shall be shared among the partners so as to take account of the variation between the basis of the property to the partnership and its fair market value at the time of contribution, and
+&emsp;&emsp;(A) income, gain, loss, and deduction with respect to property contributed to the partnership by a partner shall be shared among the partners so as to take account of the variation between the basis of the property to the partnership and its fair market value at the time of contribution,
 
 &emsp;&emsp;(B) if any property so contributed is distributed (directly or indirectly) by the partnership (other than to the contributing partner) within 7 years of being contributed—
 
 &emsp;&emsp;&emsp;(i) the contributing partner shall be treated as recognizing gain or loss (as the case may be) from the sale of such property in an amount equal to the gain or loss which would have been allocated to such partner under subparagraph (A) by reason of the variation described in subparagraph (A) if the property had been sold at its fair market value at the time of the distribution,
 
-&emsp;&emsp;&emsp;(ii) the character of such gain or loss shall be determined by reference to the character of the gain or loss which would have resulted if such property had been sold by the partnership to the distributee, and
+&emsp;&emsp;&emsp;(ii) the character of such gain or loss shall be determined by reference to thecharacter of the gain or loss which would have resulted if such property had been sold by the partnership to the distributee, and
 
-&emsp;&emsp;&emsp;(iii) appropriate adjustments shall be made to the adjusted basis of the contributing partner's interest in the partnership and to the adjusted basis of the property distributed to reflect any gain or loss recognized under this subparagraph.
+&emsp;&emsp;&emsp;(iii) appropriate adjustments shall be made to the adjusted basis of the contributing partner's interest in the partnership and to the adjusted basis of the property distributed to reflect any gain or loss recognized under this subparagraph, and
+
+&emsp;&emsp;(C) if any property so contributed has a built-in loss—
+
+&emsp;&emsp;&emsp;(i) such built-in loss shall be taken into account only in determining the amount of items allocated to the contributing partner, and
+
+&emsp;&emsp;&emsp;(ii) except as provided in regulations, in determining the amount of items allocated to other partners, the basis of the contributed property in the hands of the partnership shall be treated as being equal to its fair market value at the time of contribution.
+
+> &emsp;For purposes of subparagraph (C), the term “built-in loss” means the excess of the adjusted basis of the property (determined without regard to subparagraph (C)(ii)) over its fair market value at the time of contribution.
 
 #### (2) Special rule for distributions where gain or loss would not be recognized outside partnerships
 
@@ -68,9 +76,11 @@ A partner's distributive share of partnership loss (including capital loss) shal
 
 &emsp;&emsp;<b>For rules in the case of the sale, exchange, liquidation, or reduction of a partner's interest, see section 706(c)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947; Pub. L. 108–357, title VIII, §833(a), Oct. 22, 2004, 118 Stat. 1589.)
 
 #### Amendments
+
+2004—Subsec. (c)(1)(C). Pub. L. 108–357 added subpar. (C).
 
 1997—Subsec. (c)(1)(B). Pub. L. 105–34 substituted “7 years” for “5 years” in introductory provisions.
 
@@ -91,6 +101,10 @@ Subsec. (c)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 Subsec. (d). Pub. L. 94–455, §213(e), inserted provision relating to the determination of the adjusted basis of a partner's liability where there is no personal liability and the applicability of such determination where section 465 of this title applies or the principal activity of the partnership is real estate investment.
 
 Subsec. (f). Pub. L. 94–455, §213(c)(3)(A), added subsec. (f).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §833(d)(1), Oct. 22, 2004, 118 Stat. 1592, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to contributions made after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -129,8 +143,4 @@ Amendment by section 213(e) of Pub. L. 94–455 applicable to liabilities incurr
 #### Transitional Rule for Limitation on Allowance of Losses
 
 Section 201(b)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a loss which was not allowed for any taxable year by reason of the last 2 sentences of section 704(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the date of the enactment of this Act \[Nov. 6, 1978\]), such loss shall be treated as a deduction (subject to section 465(a) of such Code) for the first taxable year beginning after December 31, 1978. Section 465(a) of such Code (as amended by this section) shall not apply with respect to partnership liabilities to which the last 2 sentences of section 704(d) of such Code (as in effect on the day before the date of enactment of this Act) did not apply because of the provisions of section 213(f)(2) of the Tax Reform Act of 1976 \[set out as a note under section 709 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 59, 168, 461, 514, 613A, 737, 743, 761, 1366, 1446, 6241 of this title.
 

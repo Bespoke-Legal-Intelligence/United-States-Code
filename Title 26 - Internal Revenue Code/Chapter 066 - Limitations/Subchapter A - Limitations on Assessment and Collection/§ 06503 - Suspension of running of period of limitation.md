@@ -114,7 +114,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;&emsp;<b>(5) Deficiency dividends in the case of a regulated investment company or a real estate investment trust, see section 860(h).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719, title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719,title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734.)
 
 #### Codification
 
@@ -256,7 +256,7 @@ Amendment by section 1875(d)(2)(B)(ii) of Pub. L. 99–514 effective as if inclu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984, see section 305(c) of Pub. L. 98–369, set out as an Effective Date note under section 4962 of this title.
+Amendment by Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984, see section 305(c) ofPub. L. 98–369, set out as an Effective Date note under section 4962 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -312,11 +312,11 @@ Amendment by act Aug. 6, 1956, applicable in the case of decedents dying after A
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Annual Report to Congress Concerning Designated Summonses
 
-Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Codeof 1986) which were issued during the preceding 12 months.”
+Section 1003 of Pub. L. 104–168 provided that: “Not later than December 31 of each calendar year after 1995, the Secretary of the Treasury or his delegate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the number of designated summonses (as defined in section 6503(j) of the Internal Revenue Code of 1986) which were issued during the preceding 12 months.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -325,10 +325,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Application of Prior Amendments
 
 Section 2(a)(4)(F) of Pub. L. 96–596, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by sections 1203(h)(1) and 1601(f)(2) of the Tax Reform Act of 1976 \[Pub. L. 94–455\], and the amendment made by section 362(d)(5) of the Revenue Act of 1978 \[Pub. L. 95–600\], shall be deemed to be amendments to section 6503(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, subsec. (j), as redesignated by section 6(a) of Pub. L. 96–589\] (as redesignated by subparagraph (E) \[redesignating subsec. (j) as (i)\]).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1505, 6166, 6167, 6873, 7436 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

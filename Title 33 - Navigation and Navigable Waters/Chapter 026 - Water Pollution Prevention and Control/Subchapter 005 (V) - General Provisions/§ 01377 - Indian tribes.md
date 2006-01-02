@@ -36,7 +36,7 @@ The Administrator shall make grants to an Indian tribe under section 1329 of thi
 
 No provision of this chapter shall be construed to—
 
-&emsp;(1) grant, enlarge, or diminish, or in any way affect the scope of the governmental authority, if any, of any Alaska Native organization, including any federally-recognized tribe, traditional Alaska Native council, or Native council organized pursuant to the Act of June 18,1934 (48 Stat. 987), over lands or persons in Alaska;
+&emsp;(1) grant, enlarge, or diminish, or in any way affect the scope of the governmental authority, if any, of any Alaska Native organization, including any federally-recognized tribe, traditional Alaska Native council, or Native council organized pursuant to the Act of June 18, 1934 (48 Stat. 987), over lands or persons in Alaska;
 
 &emsp;(2) create or validate any assertion by such organization or any form of governmental authority over lands or persons in Alaska; or
 
@@ -68,11 +68,17 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 
 1988—Subsec. (c). Pub. L. 100–581 inserted “, as defined in subsection (h) of this section and former Indian reservations in Oklahoma (as determined by the Secretary of the Interior) and Alaska Native Villages as defined in Public Law 92–203” before period at end.
 
+#### Grants for Construction of Water Facilities and for Water Quality Protection
+
+Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 530, provided in part: “That, notwithstanding this or any other appropriations Act, heretofore and hereafter, after consultation with the House and Senate Committees on Appropriations and for the purpose of making technical corrections, the Administrator is authorized to award grants under this heading \[State and Tribal Assistance Grants\] to entities and for purposes other than those listed in the joint explanatory statements of the managers accompanying the Agency's appropriations Acts for the construction of drinking water, wastewater and stormwater infrastructure and for water quality protection.”
+
 #### Grants to Indian Tribes
 
-Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3330, provided in part: “That for fiscal year 2005, and notwithstanding section 518(f) of the Act \[Federal Water Pollution Control Act, 33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to sections 319(h) and 518(e) of that Act”.
+Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 530, provided in part: “That for fiscal year 2006, and notwithstanding section 518(f) of the Act \[Federal Water Pollution Control Act, 33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to sections 319(h) and 518(e) of that Act”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3330.
 
 Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 406.
 

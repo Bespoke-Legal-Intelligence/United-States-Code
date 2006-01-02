@@ -76,7 +76,7 @@ In the case of returns of tax required under authority of part II of this subcha
 
 #### (4) Hand-carried returns
 
-&emsp;Notwithstanding paragraph (1), (2), or (3), a return to which paragraph (1)(A), (2)(A), or (3)(A) would apply, but for this paragraph, which is made to the Secretary by handcarrying shall, under regulations prescribed by the Secretary, be made in the internal revenue district referred to in paragraph (1)(A)(i), (2)(A)(i), or (3)(A)(i), as the case may be.
+&emsp;Notwithstanding paragraph (1), (2), or (3), a return to which paragraph (1)(A), (2)(A), or\(3)(A) would apply, but for this paragraph, which is made to the Secretary by handcarrying shall, under regulations prescribed by the Secretary, be made in the internal revenue district referred to in paragraph (1)(A)(i), (2)(A)(i), or (3)(A)(i), as the case may be.
 
 #### (5) Exceptional cases
 
@@ -106,7 +106,7 @@ Subsec. (b)(6). Pub. L. 99–514, §1879(r)(1), added par. (6).
 
 Subsec. (b)(1)(B). Pub. L. 94–455, §§1204(c)(3)(A), 1906(b)(13)(A), added cl. (v) and struck out in provision following cl. (v) “or his delegate” after “Secretary”.
 
-Subsec. (b)(2)(B). Pub. L. 94–455, §1503(d)(4), in cl. (ii), struck out provision which permitted returns of a corporation claiming the benefits of section 941 of thistitle, relating to the special deduction for China Trade corporations, to be made at such place as the Secretary may designate by regulation.
+Subsec. (b)(2)(B). Pub. L. 94–455, §1503(d)(4), in cl. (ii), struck out provision which permitted returns of a corporation claiming the benefits of section 941 of this title, relating to the special deduction for China Trade corporations, to be made at such place as the Secretary may designate by regulation.
 
 Pub. L. 94–455, §§1052(c)(6), struck out provision which permitted returns of a corporation claiming the benefits of section 922 of this title, relating to the special deduction for Western Hemisphere trade corporations to be made at such place as the Secretary may designate by regulation.
 

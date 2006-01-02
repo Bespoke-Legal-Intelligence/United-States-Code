@@ -142,7 +142,7 @@ Certification of Persons and Entities.—The Secretary of Defense may sell aircr
 
 “(d)
 
-Regulations.—(1) As soon as practicable after October 14, 1996, the Secretary of Defense shall, in consultation with the Secretary of Agriculture and the Administrator of General Services, prescribe regulations relating to the sale of aircraft and aircraft parts under this section. The regulations prescribed under this paragraph shall be effective until the end of the period specified in subsection (a)(1).
+Regulations.—(1) As soon as practicable after October 14, 1996, the Secretary of Defense shall, in consultation with the Secretary of Agriculture and the Administrator of General Services, prescribe regulations relating to the sale of aircraft and aircraft parts underthis section. The regulations prescribed under this paragraph shall be effective until the end of the period specified in subsection (a)(1).
 
 “(2) The regulations shall—
 

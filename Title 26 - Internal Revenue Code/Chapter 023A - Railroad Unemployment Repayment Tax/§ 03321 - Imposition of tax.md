@@ -88,7 +88,3 @@ Surtax rate.—For purposes of paragraph (1), the surtax rate shall be—
 
 &emsp;“(B) zero for any other calendar month.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 45 section 358; title 49 section 24104.
-

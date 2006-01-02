@@ -30,7 +30,7 @@
 
 #### (3) Alternative credentialing requirements
 
-&emsp;The Secretary shall ensure that, for center-based programs, each Head Start classroomthat does not have a teacher that meets the requirements of clause (i) or (ii) of paragraph (2)(A) is assigned one teacher who has—
+&emsp;The Secretary shall ensure that, for center-based programs, each Head Start classroom that does not have a teacher that meets the requirements of clause (i) or (ii) of paragraph (2)(A) is assigned one teacher who has—
 
 &emsp;&emsp;(A) a child development associate credential that is appropriate to the age of the children being served in center-based programs;
 
@@ -148,5 +148,5 @@ Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted “staff or that are
 
 #### Effective Date
 
-Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
+Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 etseq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under section 9832 of this title.
 

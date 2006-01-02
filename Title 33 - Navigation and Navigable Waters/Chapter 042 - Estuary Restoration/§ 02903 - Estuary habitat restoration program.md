@@ -24,7 +24,7 @@ A proposed estuary habitat restoration project shall originate from a non-Federa
 
 &emsp;&emsp;(C) include a monitoring plan that is consistent with standards for monitoring developed under section 2906 of this title to ensure that short-term and long-term restoration goals are achieved; and
 
-&emsp;&emsp;(D) include satisfactory assurance from the non-Federal interests proposing the project that the non-Federal interests will have adequate personnel, funding, and authority to carry out items of local cooperation and properly maintain the project.
+&emsp;&emsp;(D) include satisfactory assurance from the non-Federal interests proposing theproject that the non-Federal interests will have adequate personnel, funding, and authority to carry out items of local cooperation and properly maintain the project.
 
 #### (3) Factors for selection of projects
 

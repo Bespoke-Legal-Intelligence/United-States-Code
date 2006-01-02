@@ -28,7 +28,7 @@ Medical and Dental School Students.—(1) Under the stipend program under this c
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as an officer for service in the Ready Reserve;
 
-&emsp;(C) the participant shall be subject to such active duty requirements as may be specifiedin the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
 &emsp;(D) the participant shall agree to serve in the Selected Reserve, upon successful completion of the program, for the period of service applicable under paragraph (3).
 
@@ -66,7 +66,7 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 &emsp;&emsp;(i) a Reserve officer for service in the Army Reserve in the Army Nurse Corps;
 
-&emsp;&emsp;(ii) a Reserve officer for service in the Naval Reserve in the Navy Nurse Corps; or
+&emsp;&emsp;(ii) a Reserve officer for service in the Navy Reserve in the Navy Nurse Corps; or
 
 &emsp;&emsp;(iii) a Reserve officer for service in the Air Force Reserve with a view to designation as an Air Force nurse under section 8067(e) of this title; and
 
@@ -104,7 +104,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before enlistment in the Ready Reserve;
 
-&emsp;(C) the participant shall be subject to such active duty requirements as may be specifiedin the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
 &emsp;(D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
 
@@ -116,9 +116,11 @@ Amount of Stipend.—The amount of a stipend under an agreement under subsection
 
 &emsp;(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
 
-(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108.)
+(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Amendments
+
+2006—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2001—Subsec. (a). Pub. L. 107–107, §539(a), struck out “specialties critically needed in wartime” after “qualified in health professions” and substituted “training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime” for “training in such specialties” and “health care education and training” for “training in certain health care specialties”.
 
@@ -162,9 +164,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Payments for Period Prior to December 4, 1987
 
-Section 711(e)(2) of Pub. L. 100–180 provided that: “An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 16202 of this title.
+Section 711(e)(2) of Pub. L. 100–180 provided that: “An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), maynot obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\].”
 

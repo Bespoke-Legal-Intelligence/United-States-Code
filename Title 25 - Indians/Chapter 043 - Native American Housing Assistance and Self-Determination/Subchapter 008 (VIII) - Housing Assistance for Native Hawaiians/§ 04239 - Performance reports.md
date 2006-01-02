@@ -28,7 +28,7 @@ The Secretary shall—
 
 &emsp;(2) review each such report; and
 
-&emsp;(3) with respect to each such report, make recommendations as the Secretary considersappropriate to carry out the purposes of this subchapter.
+&emsp;(3) with respect to each such report, make recommendations as the Secretary considers appropriate to carry out the purposes of this subchapter.
 
 #### (d) Public availability
 

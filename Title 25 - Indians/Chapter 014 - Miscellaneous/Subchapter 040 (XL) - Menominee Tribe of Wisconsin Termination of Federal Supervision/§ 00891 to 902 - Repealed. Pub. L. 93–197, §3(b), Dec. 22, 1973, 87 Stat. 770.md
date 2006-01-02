@@ -12,7 +12,7 @@ Section 895, acts June 17, 1954, ch. 303, §6, 68 Stat. 251; July 14, 1956, ch. 
 
 Section 896, acts June 17, 1954, ch. 303, §7, 68 Stat. 251; July 14, 1956, ch. 604, §1, 70 Stat. 549; July 2, 1958, Pub. L. 85–488, §1(b), 72 Stat. 290; Sept. 8, 1960, Pub. L. 86–733, §1, 74 Stat. 867, required tribe to formulate and submit a plan to Secretary for control of tribal property and service functions conducted by United States.
 
-Section 897, acts June 17, 1954, ch. 303, §8, 68 Stat. 252; July 14, 1956, ch. 604, §2, 70 Stat. 550; July 2, 1958, Pub.L. 85–488, §1(c), 72 Stat. 291; Sept. 8, 1960, Pub. L. 86–733, §2, 74 Stat. 867, authorized transfer of all tribal property by Secretary on or before Apr. 30, 1961, to tribal corporation or a trustee selected by Secretary.
+Section 897, acts June 17, 1954, ch. 303, §8, 68 Stat. 252; July 14, 1956, ch. 604, §2, 70 Stat. 550; July 2, 1958, Pub. L. 85–488, §1(c), 72 Stat. 291; Sept. 8, 1960, Pub. L. 86–733, §2, 74 Stat. 867, authorized transfer of all tribal property by Secretary on or before Apr. 30, 1961, to tribal corporation or a trustee selected by Secretary.
 
 Section 898, acts June 17, 1954, ch. 303, §9, 68 Stat. 252; Sept. 8, 1960, Pub. L. 86–733, §3, 74 Stat. 867, set forth conditions for tax exemptions for distributions, conveyances, and transfer of title to assets.
 

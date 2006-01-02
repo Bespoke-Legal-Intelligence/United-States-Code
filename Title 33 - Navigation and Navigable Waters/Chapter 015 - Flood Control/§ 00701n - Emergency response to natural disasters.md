@@ -28,7 +28,7 @@
 
 &emsp;(A) the term “construction” includes construction, reconstruction, or repair;
 
-&emsp;(B) the term “distressed area” means an area which the Secretary determines due to drought conditions has an inadequate water supply which is causing, or is likely to cause, a substantial threat to the health and welfare of the inhabitants of the area including threat of damage or loss of property;
+&emsp;(B) the term “distressed area” means an area which the Secretary determines due todrought conditions has an inadequate water supply which is causing, or is likely to cause, a substantial threat to the health and welfare of the inhabitants of the area including threat of damage or loss of property;
 
 &emsp;(C) the term “political subdivision” means a city, town, borough, county, parish, district, association, or other public body created by or pursuant to State law and having jurisdiction over the water supply of such public body;
 
@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after October 12, 1996, in accordance with chapter 5 of title 5, the Secretary of the Army shall prepare a manual describing the maintenance and upkeep responsibilities that the Corps of Engineers requires of a non-Federal interest in order for the non-Federal interest to receive Federal assistance under this section. The Secretaryshall provide a copy of the manual at no cost to each non-Federal interest that is eligible to receive Federal assistance under this section.
+&emsp;Not later than 1 year after October 12, 1996, in accordance with chapter 5 of title 5, the Secretary of the Army shall prepare a manual describing the maintenance and upkeep responsibilities that the Corps of Engineers requires of a non-Federal interest in order for the non-Federal interest to receive Federal assistance under this section. The Secretary shall provide a copy of the manual at no cost to each non-Federal interest that is eligible to receive Federal assistance under this section.
 
 #### (2) Authorization of appropriations
 
@@ -120,7 +120,7 @@ Review.—The Secretary shall undertake a comprehensive review of the current po
 
 “(2)
 
-Cooperation and consultation.—The review under this section \[subsection\] shall be undertaken incooperation with interested Federal agencies and in consultation with interested representatives of State and local governments and the public.
+Cooperation and consultation.—The review under this section \[subsection\] shall be undertaken in cooperation with interested Federal agencies and in consultation with interested representatives of State and local governments and the public.
 
 “(3)
 

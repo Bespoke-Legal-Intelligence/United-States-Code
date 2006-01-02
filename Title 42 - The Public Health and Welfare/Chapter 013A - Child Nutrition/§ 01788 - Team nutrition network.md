@@ -34,7 +34,7 @@ In this section, the term “team nutrition network” means a statewide multidi
 
 #### (3) Funds from nongovernmental sources
 
-&emsp;In carrying out this subsection, the Secretary may accept cash contributions fromnongovernmental organizations made expressly to further the purposes of this section, to be managed by the Food and Nutrition Service, for use by the Secretary and the States in carrying out this section.
+&emsp;In carrying out this subsection, the Secretary may accept cash contributions from nongovernmental organizations made expressly to further the purposes of this section, to be managed by the Food and Nutrition Service, for use by the Secretary and the States in carrying out this section.
 
 #### (d) Allocation
 
@@ -104,7 +104,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds to carry out this subsection, the Secretary, in consultation with the Secretary of Education, shall provide assistance to selected local educational agencies to create healthy school nutrition environments, promote healthy eating habits, and increase physical activity, consistent with the Dietary Guidelines for Americanspublished under section 5341 of title 7, among elementary and secondary education students.
+&emsp;Subject to the availability of funds to carry out this subsection, the Secretary, in consultation with the Secretary of Education, shall provide assistance to selected local educational agencies to create healthy school nutrition environments, promote healthy eating habits, and increase physical activity, consistent with the Dietary Guidelines for Americans published under section 5341 of title 7, among elementary and secondary education students.
 
 #### (2) Selection of schools
 
@@ -176,7 +176,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 &emsp;Not later than 18 months after completion of the projects and evaluations under this subsection, the Secretary shall—
 
-&emsp;&emsp;(A) submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and theCommittee on Agriculture, Nutrition and Forestry of the Senate a report describing the results of the evaluation under this subsection; and
+&emsp;&emsp;(A) submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Agriculture, Nutrition and Forestry of the Senate a report describing the results of the evaluation under this subsection; and
 
 &emsp;&emsp;(B) make the report available to the public, including through the Internet.
 
@@ -250,7 +250,7 @@ Subsec. (b). Pub. L. 104–193, §731(a)(2), substituted “establish” for “
 
 Subsec. (f)(1). Pub. L. 104–193, §731(b)(1)(B), struck out “(A)” before “The funds made available” in introductory provisions, redesignated cls. (i) to (viii) and (xx) as subpars. (A) to (H) and (I), respectively, added subpar. (J), and struck out cls. (ix) to (xix) which related to use of funds for a nutrition component usable in consumer, homemaking and health education programs, instructing staff on working with children from different backgrounds, developing means of providing nutrition education in materials to children through after-school programs, training about healthy and nutritious meals, creating instructional programming for school staff and parents, aspects of the Strategic Plan for Nutrition and Education, encouraging public service advertisements, coordinating and promoting nutrition activities in local school districts, contracting with public and private nonprofit educational institutions for nutrition education, increasing awareness of importance of breakfasts, and coordinating and promoting nutrition education under child nutrition programs.
 
-Pub. L. 104–193, §731(b)(1)(A), struck out subpar. (B) which read as follows: “As used in this paragraph, the term ‘language appropriate’ used with respect to materials, programming, or advertisements means materials, programming, or advertisements, respectively, using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program.”
+Pub. L. 104–193, §731(b)(1)(A), struck out subpar. (B) which read as follows: “As used in this paragraph, the term ‘language appropriate’ used with respect to materials, programming, or advertisements means materials, programming, or advertisements, respectively,using a language other than the English language in a case in which the language is dominant for a large percentage of individuals participating in the program.”
 
 Subsec. (f)(2), (3). Pub. L. 104–193, §731(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any State desiring to receive grants authorized by this section may, from the funds appropriated to carry out this section, receive a planning and assessment grant for the purposes of carrying out the responsibilities described in clauses (A), (B), (C), and (D) of paragraph (1) of this subsection. Any State receiving a planning and assessment grant, may, during the first year of participation, be advanced a portion of the funds necessary to carry out such responsibilities: <i>Provided</i>, That in order to receive additional funding, the State must carry out such responsibilities.”
 
@@ -332,7 +332,7 @@ Subsec. (d)(2). Pub. L. 101–147, §§124(1)(B), 327(1)(A), substituted “reco
 
 Subsec. (d)(4). Pub. L. 101–147, §§124(1)(C), 327(1)(B), struck out “(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307 and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)” after “Act of August 30, 1890” and inserted “, in coordination with the activities authorized under section 21 of the National School Lunch Act”.
 
-Subsec. (d)(5). Pub. L. 101–147, §327(1)(C), struck out “(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307, and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)” after “act of August 30, 1890”.
+Subsec. (d)(5). Pub. L. 101–147, §327(1)(C), struck out “(12 Stat. 503, as amended; 7 U.S.C. 301–305, 307, and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, asamended; 7 U.S.C. 321–326 and 328)” after “act of August 30, 1890”.
 
 Subsec. (h)(3). Pub. L. 101–147, §327(2), in subpar. (E), struck out “(12 Stat. 503; 7 U.S.C. 301–305, 307, and 308)” after “Act of July 2, 1862” and “(26 Stat. 417, as amended; 7 U.S.C. 321–326 and 328)” after “act of August 30, 1890”.
 

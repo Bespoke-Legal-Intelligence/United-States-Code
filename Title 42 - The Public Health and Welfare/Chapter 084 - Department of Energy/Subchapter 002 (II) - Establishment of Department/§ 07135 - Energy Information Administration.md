@@ -130,7 +130,27 @@ In order to improve the ability to evaluate the effectiveness of the Nation's en
 
 &emsp;(3) expanding the scope of data collection on energy efficiency and load-management programs, including the effects of building construction practices such as those designed to obtain peak load shifting.
 
-(Pub. L. 95–91, title II, §205, Aug. 4, 1977, 91 Stat. 572; Pub. L. 99–509, title III, §3101(a), Oct. 21, 1986, 100 Stat. 1888; Pub. L. 102–486, title I, §171, Oct. 24, 1992, 106 Stat. 2864.)
+#### (m) Renewable fuels survey
+
+(1) In order to improve the ability to evaluate the effectiveness of the Nation's renewable fuels mandate, the Administrator shall conduct and publish the results of a survey of renewable fuels demand in the motor vehicle fuels market in the United States monthly, and in a manner designed to protect the confidentiality of individual responses. In conducting the survey, the Administrator shall collect information both on a national and regional basis, including each of the following:
+
+&emsp;(A) The quantity of renewable fuels produced.
+
+&emsp;(B) The quantity of renewable fuels blended.
+
+&emsp;(C) The quantity of renewable fuels imported.
+
+&emsp;(D) The quantity of renewable fuels demanded.
+
+&emsp;(E) Market price data.
+
+&emsp;(F) Such other analyses or evaluations as the Administrator finds are necessary to achieve the purposes of this section.
+
+(2) The Administrator shall also collect or estimate information both on a national and regional basis, pursuant to subparagraphs (A) through (F) of paragraph (1), for the 5 years prior to implementation of this subsection.
+
+(3) This subsection does not affect the authority of the Administrator to collect data under section 52 of the Federal Energy Administration Act of 1974 (15 U.S.C. 790a).
+
+(Pub. L. 95–91, title II, §205, Aug. 4, 1977, 91 Stat. 572; Pub. L. 99–509, title III, §3101(a), Oct. 21, 1986, 100 Stat. 1888; Pub. L. 102–486, title I, §171, Oct. 24, 1992, 106 Stat. 2864; Pub. L. 109–58, title XV, §1508, Aug. 8, 2005, 119 Stat. 1083.)
 
 #### References in Text
 
@@ -142,6 +162,8 @@ The Energy Policy and Conservation Act, referred to in subsec. (h)(3), is Pub. L
 
 #### Amendments
 
+2005—Subsec. (m). Pub. L. 109–58 added subsec. (m).
+
 1992—Subsec. (i)(1). Pub. L. 102–486, §171(a)(1), in introductory provisions, substituted “at least once every two years” for “on at least a triennial basis”.
 
 Subsec. (i)(1)(D). Pub. L. 102–486, §171(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “use of nonpurchased sources of energy, such as cogeneration and waste by-products.”
@@ -152,7 +174,7 @@ Subsecs. (j) to (<i>l</i>). Pub. L. 102–486, §171(b), added subsecs. (j) to (
 
 #### End Use Consumption Surveys; Manufacturing Energy Consumption Survey
 
-Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–188; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)) or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY,
+Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–188; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 4(d) of the Service Contract Act of 1965 (41 U.S.C. 353(d)) or any other provision of law, funds appropriated under this heading \[DEPARTMENT OF ENERGY,
 
 energy information administration\] hereafter may be used to enter into a contract for end use consumption surveys for a term not to exceed eight years: <i>Provided further</i>, That notwithstanding any other provision of law, hereafter the Manufacturing Energy Consumption Survey shall be conducted on a triennial basis.”
 

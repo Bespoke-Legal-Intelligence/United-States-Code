@@ -44,15 +44,11 @@ Only tips received at food and beverage establishments taken into account.—In 
 
 #### Effective Date of 1996 Amendment
 
-Section 1112(a)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amending this section and provisions set out as a note under section 38 of this title\] shall take effect as if included in the amendments made by, and the provisions of, section 13443 of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66\].”
+Section 1112(a)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[amendingthis section and provisions set out as a note under section 38 of this title\] shall take effect as if included in the amendments made by, and the provisions of, section 13443 of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66\].”
 
 Section 1112(b)(2) of Pub. L. 104–188 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to tips received for services performed after December 31, 1996.”
 
 #### Effective Date
 
 Section applicable with respect to taxes paid after Dec. 31, 1993, with respect to services performed before, on, or after such date, see section 13443(d) of Pub. L. 103–66, as amended, set out as an Effective Date of 1993 Amendment note under section 38 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 39, 196, 6501 of this title.
 

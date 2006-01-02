@@ -48,7 +48,3 @@ Pub. L. 99–145, title VI, §672(a)–(h), (j), Nov. 8, 1985, 99 Stat. 663, 664
 
 Pub. L. 100–180, div. A, title VII, §711(c)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “The repeal of section 672 of the Department of Defense Authorization Act, 1986 \[section 672 of Pub. L. 99–145, see above\], by paragraph (1) does not affect an agreement entered into under that section before such repeal, and the provisions of such section as in effect before such repeal shall continue to apply with respect to such agreement.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2005, 2127, 2173, 16201 of this title; title 37 sections 415, 1006.
-

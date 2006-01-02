@@ -24,7 +24,3 @@ For purposes of this section, the term “trade or business” shall not include
 
 Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 501 of this title.
-

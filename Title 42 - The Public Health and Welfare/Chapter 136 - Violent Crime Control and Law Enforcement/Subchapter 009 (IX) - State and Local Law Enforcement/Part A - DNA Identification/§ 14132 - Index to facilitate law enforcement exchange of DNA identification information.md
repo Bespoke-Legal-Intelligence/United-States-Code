@@ -10,7 +10,7 @@ The Director of the Federal Bureau of Investigation may establish an index of—
 
 &emsp;&emsp;(B) persons who have been charged in an indictment or information with a crime; and
 
-&emsp;&emsp;(C) other persons whose DNA samples are collected under applicable legal authorities, provided that DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and DNA samples that are voluntarily submitted solely for elimination purposes shall not be included in the National DNA Index System;
+&emsp;&emsp;(C) other persons whose DNA samples are collected under applicable legal authorities, provided that DNA samples that are voluntarily submitted solely for elimination purposes shall not be included in the National DNA Index System;
 
 &emsp;(2) analyses of DNA samples recovered from crime scenes;
 
@@ -48,7 +48,11 @@ Access to the index established by this section is subject to cancellation if th
 
 #### (1) By Director
 
-&emsp;(A) The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) of this section the DNA analysis of a person included in the index on the basis of a qualifying Federal offense or a qualifying District of Columbia offense (as determined under sections 14135a and 14135b of this title, respectively) if the Director receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.
+&emsp;(A) The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) of this section the DNA analysis of a person included in the index—
+
+&emsp;&emsp;(i) on the basis of conviction for a qualifying Federal offense or a qualifying District of Columbia offense (as determined under sections 14135a and 14135b of this title, respectively), if the Director receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned; or
+
+&emsp;&emsp;(ii) on the basis of an arrest under the authority of the United States, if the Attorney General receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.
 
 &emsp;(B) For purposes of subparagraph (A), the term “qualifying offense” means any of the following offenses:
 
@@ -66,27 +70,21 @@ Access to the index established by this section is subject to cancellation if th
 
 &emsp;&emsp;(i) the responsible agency or official of that State receives, for each conviction of the person of an offense on the basis of which that analysis was or could have been included in the index, a certified copy of a final court order establishing that such conviction has been overturned; or
 
-&emsp;&emsp;(ii) the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and all charges for which the analysis was or could have been included in the index have been dismissed or resulted in acquittal.
+&emsp;&emsp;(ii) the person has not been convicted of an offense on the basis of which that analysis was or could have been included in the index, and the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal orthat no charge was filed within the applicable time period.
 
 &emsp;(B) For purposes of subparagraph (A), a court order is not “final” if time remains for an appeal or application for discretionary review with respect to the order.
 
-#### (e) Authority for keyboard searches
-
-#### (1) In general
-
-&emsp;The Director shall ensure that any person who is authorized to access the index described in subsection (a) of this section for purposes of including information on DNA identification records or DNA analyses in that index may also access that index for purposes of carrying out a one-time keyboard search on information obtained from any DNA sample lawfully collected for a criminal justice purpose except for a DNA sample voluntarily submitted solely for elimination purposes.
-
-#### (2) Definition
-
-&emsp;For purposes of paragraph (1), the term “keyboard search” means a search under which information obtained from a DNA sample is compared with information in the index without resulting in the information obtained from a DNA sample being included in the index.
-
-#### (3) No preemption
-
-&emsp;This subsection shall not be construed to preempt State law.
-
-(Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, §6(b), Dec. 19, 2000, 114 Stat. 2733; Pub. L. 108–405, title II, §203(a), (d), title III, §302, Oct. 30, 2004, 118 Stat. 2269, 2270, 2272.)
+(Pub. L. 103–322, title XXI, §210304, Sept. 13, 1994, 108 Stat. 2069; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §120\], Nov. 29, 1999, 113 Stat. 1535, 1501A–23; Pub. L. 106–546, §6(b), Dec. 19, 2000, 114 Stat. 2733; Pub. L. 108–405, title II, §203(a), (d), title III, §302, Oct. 30, 2004, 118 Stat. 2269, 2270, 2272; Pub. L. 109–162, title X, §1002, Jan. 5, 2006, 119 Stat. 3084.)
 
 #### Amendments
+
+2006—Subsec. (a)(1)(C). Pub. L. 109–162, §1002(1), struck out “DNA profiles from arrestees who have not been charged in an indictment or information with a crime, and” after “provided that”.
+
+Subsec. (d)(1)(A). Pub. L. 109–162, §1002(2), added subpar. (A) and struck out former subpar. (A), which read as follows: “The Director of the Federal Bureau of Investigation shall promptly expunge from the index described in subsection (a) of this section the DNA analysis of a person included in the index on the basis of a qualifying Federal offense or a qualifying District of Columbia offense (as determined under sections 14135a and 14135b of this title, respectively) if the Director receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.”
+
+Subsec. (d)(2)(A)(ii). Pub. L. 109–162, §1002(3), substituted “the responsible agency or official of that State receives, for each charge against the person on the basis of which the analysis was or could have been included in the index, a certified copy of a final court order establishing that such charge has been dismissed or has resulted in an acquittal or that no charge was filed within the applicable time period.” for “all charges for which the analysis was or could have been included in the index have been dismissed or resulted in acquittal.”
+
+Subsec. (e). Pub. L. 109–162, §1002(4), struck out heading and text of subsec. (e). Prior to amendment, text related to authority for keyboard searches.
 
 2004—Subsec. (a)(1). Pub. L. 108–405, §203(a)(1), substituted “of—” for “of persons convicted of crimes;” and added subpars (A) to (C).
 

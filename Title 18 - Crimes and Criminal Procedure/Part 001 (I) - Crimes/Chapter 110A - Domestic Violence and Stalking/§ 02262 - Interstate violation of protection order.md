@@ -6,7 +6,7 @@ Offenses.—
 
 &emsp;(1)
 
-Travel or conduct of offender.—A person who travels in interstate or foreign commerce, or enters or leaves Indian country, with the intent to engage in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, and subsequently engages in such conduct, shall be punished as provided in subsection (b).
+Travel or conduct of offender.—A person who travels in interstate or foreign commerce, or enters or leaves Indian country or within the special maritime and territorial jurisdiction of the United States, with the intent to engage in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, and subsequently engages in such conduct, shall be punished as provided in subsection (b).
 
 &emsp;(2)
 
@@ -28,9 +28,11 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 > or both fined and imprisoned.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1927; amended Pub. L. 104–201, div. A, title X, §1069(b)(2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 104–294, title VI, §605(d), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–386, div. B, title I, §1107(c), Oct. 28, 2000, 114 Stat. 1498.)
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1927; amended Pub. L. 104–201, div. A, title X, §1069(b)(2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 104–294, title VI, §605(d), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–386, div. B, title I, §1107(c), Oct. 28, 2000, 114 Stat. 1498; Pub. L. 109–162, title I, §117(b), Jan. 5, 2006, 119 Stat. 2989.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–162 inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
 
 2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
@@ -38,7 +40,7 @@ Penalties.—A person who violates this section shall be fined under this title,
 
 Crossing a state line.—A person who travels across a State line or enters or leaves Indian country with the intent to engage in conduct that—
 
-&emsp;“(A)(i) violates the portion of a protection order that involves protection against credible threats ofviolence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued; or
+&emsp;“(A)(i) violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued; or
 
 &emsp;“(ii) would violate this subparagraph if the conduct occurred in the jurisdiction in which the order was issued; and
 

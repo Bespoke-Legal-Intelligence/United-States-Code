@@ -10,7 +10,7 @@ Whoever willfully or maliciously injures, tears down or destroys any letter box 
 
 Based on title 18, U.S.C., 1940 ed., §321 (Mar. 4, 1909, ch. 321, §198, 35 Stat. 1126; May 18, 1916, ch. 126, §10, 39 Stat. 162; July 28, 1916, ch. 261, §1, 39 Stat. 418; May 7, 1934, ch. 220, §1, 48 Stat. 667).
 
-Words “or shall willfully take or steal such mail from or out of such letter box or other receptacle” wereomitted as covered by section 1702 of this title. Prosecutions for theft of mail matter are invariably made under that section whereas this section is used as basis for prosecutions for malicious mischief to mail boxes or receptacles. By Postal Regulations (1928), section 700, paragraph 2, an ordinary letter box is within this section and also section 1702 of this title. <i>Huebner v. United States</i> (C.C.A. 1928, 28 F. 2d 929).
+Words “or shall willfully take or steal such mail from or out of such letter box or other receptacle” were omitted as covered by section 1702 of this title. Prosecutions for theft of mail matter are invariably made under that section whereas this section is used as basis for prosecutions for malicious mischief to mail boxes or receptacles. By Postal Regulations (1928), section 700, paragraph 2, an ordinary letter box is within this section and also section 1702 of this title. <i>Huebner v. United States</i> (C.C.A. 1928, 28 F. 2d 929).
 
 Reference to persons assisting or aiding was omitted. Such persons are principals under definitive section 2 of this title.
 

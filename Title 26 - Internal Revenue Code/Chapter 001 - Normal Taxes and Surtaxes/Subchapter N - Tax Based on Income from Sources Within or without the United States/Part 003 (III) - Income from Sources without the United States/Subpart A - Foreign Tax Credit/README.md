@@ -9,7 +9,7 @@ Subpart A—Foreign Tax Credit
 | [905\.](%C2%A7%2000905%20-%20Applicable%20rules.md) | Applicable rules. |
 | [906\.](%C2%A7%2000906%20-%20Nonresident%20alien%20individuals%20and%20foreign%20corporations.md) | Nonresident alien individuals and foreign corporations. |
 | [907\.](%C2%A7%2000907%20-%20Special%20rules%20in%20case%20of%20foreign%20oil%20and%20gas%20income.md) | Special rules in case of foreign oil and gas income. |
-| [908\.](%C2%A7%2000908%20-%20Reduction%20of%20credit%20for%20participation%20in%20or%20co-operation%20with%20an%20international%20boycott.md) | Reduction of credit for participation in or cooperation with an international boycott. |
+| [908\.](%C2%A7%2000908%20-%20Reduction%20of%20credit%20for%20participation%20in%20or%20cooperation%20with%20an%20international%20boycott.md) | Reduction of credit for participation in or cooperation with an international boycott. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,10 +22,6 @@ Subpart A—Foreign Tax Credit
 1975—Pub. L. 94–12, title VI, §601(c), Mar. 29, 1975, 89 Stat. 57, added item 907.
 
 1966—Pub. L. 89–809, title I, §106(a)(2), Nov. 13, 1966, 80 Stat. 1569, added item 906.
-
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 78, 338, 667, 814, 861, 960, 1351, 1373 of this title.
 
 <i><sup>1</sup></i><i> See 1976 Amendment note below.</i>
 
@@ -41,4 +37,4 @@ This subpart is referred to in sections 78, 338, 667, 814, 861, 960, 1351, 1373 
 - [&sect; 00905 - Applicable rules](%C2%A7%2000905%20-%20Applicable%20rules.md)
 - [&sect; 00906 - Nonresident alien individuals and foreign corporations](%C2%A7%2000906%20-%20Nonresident%20alien%20individuals%20and%20foreign%20corporations.md)
 - [&sect; 00907 - Special rules in case of foreign oil and gas income](%C2%A7%2000907%20-%20Special%20rules%20in%20case%20of%20foreign%20oil%20and%20gas%20income.md)
-- [&sect; 00908 - Reduction of credit for participation in or co-operation with an international boycott](%C2%A7%2000908%20-%20Reduction%20of%20credit%20for%20participation%20in%20or%20co-operation%20with%20an%20international%20boycott.md)
+- [&sect; 00908 - Reduction of credit for participation in or cooperation with an international boycott](%C2%A7%2000908%20-%20Reduction%20of%20credit%20for%20participation%20in%20or%20cooperation%20with%20an%20international%20boycott.md)

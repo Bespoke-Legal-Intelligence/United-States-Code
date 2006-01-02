@@ -42,7 +42,7 @@
 
 #### (A) Application
 
-&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract to provide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information asthe Commissioner may determine is necessary to meet the requirements of this section.
+&emsp;&emsp;An entity shall submit an application for a grant, cooperative agreement, or contract to provide benefits planning and assistance to the Commissioner at such time, in such manner, and containing such information as the Commissioner may determine is necessary to meet the requirements of this section.
 
 #### (B) Statewideness
 

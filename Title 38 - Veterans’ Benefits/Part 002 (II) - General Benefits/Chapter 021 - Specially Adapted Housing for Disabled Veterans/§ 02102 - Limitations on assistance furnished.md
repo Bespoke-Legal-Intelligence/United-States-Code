@@ -6,13 +6,13 @@
 
 &emsp;(2) where the veteran elects to construct a housing unit on land acquired by such veteran prior to application for assistance under this chapter, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the total cost to the veteran of the housing unit and the land necessary for such housing unit, or (B) 50 percent of the cost to the veteran of the housing unit plus the full amount of the unpaid balance, if any, of the cost to the veteran of the land necessary for such housing unit;
 
-&emsp;(3) where the veteran elects to remodel a dwelling which is not adapted to the requirements of such veteran's disability, acquired by such veteran prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the veteran of such remodeling; or (B) 50 percent of the cost to the veteran of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the veteran of such dwelling and the necessary land upon which it issituated, or (ii) the full amount of the unpaid balance, if any, of the cost to the veteran of such dwelling and the necessary land upon which it is situated; and
+&emsp;(3) where the veteran elects to remodel a dwelling which is not adapted to the requirements of such veteran's disability, acquired by such veteran prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the veteran of such remodeling; or (B) 50 percent of the cost to the veteran of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the veteran of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the veteran of such dwelling and the necessary land upon which it is situated; and
 
 &emsp;(4) where the veteran has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the veteran of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the veteran of such housing unit and the necessary land upon which it is situated.
 
 (b) Except as provided in section 2104(b) of this title, the assistance authorized by section 2101(b) of this title shall be limited to the lesser of—
 
-&emsp;(1) the actual cost, or, in the case of a veteran acquiring a residence already adapted with special features, the fair market value, of the adaptations determined by the Secretary under such section 2101(b) to be reasonably necessary, or
+&emsp;(1) the actual cost, or, in the case of a veteran acquiring a residence already adaptedwith special features, the fair market value, of the adaptations determined by the Secretary under such section 2101(b) to be reasonably necessary, or
 
 &emsp;(2) $10,000.
 

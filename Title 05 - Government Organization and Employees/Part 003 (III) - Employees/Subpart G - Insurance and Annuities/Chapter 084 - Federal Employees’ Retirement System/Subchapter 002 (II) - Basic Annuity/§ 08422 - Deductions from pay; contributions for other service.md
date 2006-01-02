@@ -56,7 +56,7 @@
 
 (3) Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
 
-(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, orthe Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
+(4) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
 
 (5) For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
@@ -100,7 +100,7 @@ The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 
 
 Parts A, B, and C of title I of the Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), are classified to part A (§4951 et seq.), part B (§4971 et seq.), and part C (§4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42.
 
-The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse.Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first dayafter the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1993 Amendment
 

@@ -14,7 +14,7 @@
 
 (d)(1) An agency may finance initial human capital performance payments using monies from the Human Capital Performance Fund, as available.
 
-(2) In subsequent years, continuation of previously awarded human capital performancepayments shall be financed from other agency funds available for salaries and expenses.
+(2) In subsequent years, continuation of previously awarded human capital performance payments shall be financed from other agency funds available for salaries and expenses.
 
 (Added Pub. L. 108–136, div. A, title XI, §1129(a), Nov. 24, 2003, 117 Stat. 1643.)
 

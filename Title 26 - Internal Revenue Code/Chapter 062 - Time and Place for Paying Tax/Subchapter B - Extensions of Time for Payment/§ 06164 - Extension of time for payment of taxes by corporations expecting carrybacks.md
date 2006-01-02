@@ -22,7 +22,7 @@ The statement shall be filed at such time and in such manner and form as the Sec
 
 #### (c) Amount to which extension relates and installment payments
 
-The amount the time for payment of which may be extended under subsection (a) with respect to any tax shall not exceed the amount of such tax shown on the return, increased by any amount assessed as a deficiency (or as interest or addition to the tax) prior to the date of filing the statement and decreased by any amount paid or required to be paid prior to the date ofsuch filing, and the total amount of the tax the time for payment of which may be extended shall not exceed the amount stated under subsection (b)(3). For purposes of this subsection, an amount shall not be considered as required to be paid unless shown on the return or assessed as a deficiency (or as interest or addition to the tax), and an amount assessed as a deficiency (or as interest or addition to the tax) shall be considered to be required to be paid prior to the date of filing of the statement if the 10th day after notice and demand for its payment occurs prior to such date. If an extension of time under this section relates to only a part of the tax, the time for payment of the remainder shall be the date on which payment would have been required if such remainder had been the tax.
+The amount the time for payment of which may be extended under subsection (a) with respect to any tax shall not exceed the amount of such tax shown on the return, increased by any amount assessed as a deficiency (or as interest or addition to the tax) prior to the date of filing the statement and decreased by any amount paid or required to be paid prior to the date of such filing, and the total amount of the tax the time for payment of which may be extended shall not exceed the amount stated under subsection (b)(3). For purposes of this subsection, an amount shall not be considered as required to be paid unless shown on the return or assessed as a deficiency (or as interest or addition to the tax), and an amount assessed as a deficiency (or as interest or addition to the tax) shall be considered to be required to be paid prior to the date of filing of the statement if the 10th day after notice and demand for its payment occurs prior to such date. If an extension of time underthis section relates to only a part of the tax, the time for payment of the remainder shall be the date on which payment would have been required if such remainder had been the tax.
 
 #### (d) Period of extension
 
@@ -75,8 +75,4 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6040, 6411, 6864 of this title.
 

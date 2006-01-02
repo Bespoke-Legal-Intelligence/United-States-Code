@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the value of an interest in a closely held business which is included in determining the gross estate of a decedent who was (at the date of his death) a citizen or resident of the United States exceeds 35 percent of the adjusted gross estate, the executor may elect to pay part or all of the tax imposed by section 2001 in 2 or more (but not exceeding 10) equal installments.
+&emsp;If the value of an interest in a closely held business which is included in determining the gross estate of a decedent who was (at the date of his death) a citizen or resident of the United States exceeds 35 percent of the adjusted grossestate, the executor may elect to pay part or all of the tax imposed by section 2001 in 2 or more (but not exceeding 10) equal installments.
 
 #### (2) Limitation
 
@@ -258,7 +258,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;(A) If—
 
-&emsp;&emsp;&emsp;(i)(I) any portion of an interest in a closely held business which qualifies under subsection (a)(1) is distributed, sold, exchanged, or otherwise disposed of, or
+&emsp;&emsp;&emsp;(i)(I) any portion of an interest in a closely held business which qualifies undersubsection (a)(1) is distributed, sold, exchanged, or otherwise disposed of, or
 
 &emsp;&emsp;&emsp;(II) money and other property attributable to such an interest is withdrawn from such trade or business, and
 
@@ -302,7 +302,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;(A) If an election is made under this section and the estate has undistributed net income for any taxable year ending on or after the due date for the first installment, the executor shall, on or before the date prescribed by law for filing the income tax return for such taxable year (including extensions thereof), pay an amount equal to such undistributed net income in liquidation of the unpaid portion of the tax payable in installments.
 
-&emsp;&emsp;(B) For purposes of subparagraph (A), the undistributed net income of the estate for any taxable year is the amount by which thedistributable net income of the estate for such taxable year (as defined in section 643) exceeds the sum of—
+&emsp;&emsp;(B) For purposes of subparagraph (A), the undistributed net income of the estate for any taxable year is the amount by which the distributable net income of the estate for such taxable year (as defined in section 643) exceeds the sum of—
 
 &emsp;&emsp;&emsp;(i) the amounts for such taxable year specified in paragraphs (1) and (2) of section 661(a) (relating to deductions for distributions, etc.);
 
@@ -386,7 +386,7 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 &emsp;&emsp;&emsp;<b>For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, see section 2035(c)(2).</b>
 
-(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, titleI, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
+(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
 
 #### Amendment of Section
 
@@ -531,8 +531,4 @@ Section 2004(g) of Pub. L. 94–455 provided that: “The amendments made by thi
 #### Land Diverted Under 1983 Payment-in-Kind Program
 
 Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to be treated, for purposes of this section, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 163, 303, 2011, 2032A, 2035, 2053, 2056A, 2057, 2058, 6324A, 6503, 6601, 7403, 7422, 7479, 7481 of this title.
 

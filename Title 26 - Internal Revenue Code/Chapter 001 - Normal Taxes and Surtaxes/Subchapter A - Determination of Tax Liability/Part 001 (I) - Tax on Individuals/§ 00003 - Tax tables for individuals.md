@@ -138,7 +138,7 @@ Section 508 of Pub. L. 94–455 provided that: “Except as otherwise provided, 
 
 #### Effective and Termination Dates of 1975 Amendment
 
-Section 209(a) of Pub. L. 94–12, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: “The amendments made by sections 201, 202(a), and 203 \[enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title\] shall apply to taxable years ending after December 31, 1974. The amendments made by sections 201(a) and 202(a) \[amending section 141 of this title\] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 \[enacting section 42 of this title and amending this section and sections 56, 6012, and 6096 of this title\] shall cease to apply to taxable years ending after December 31, 1976.”
+Section 209(a) of Pub. L. 94–12, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: “The amendments made by sections 201, 202(a), and 203 \[enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title\] shall apply to taxable years ending after December 31, 1974. The amendments made by sections 201(a) and 202(a) \[amending section 141 of this title\] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 \[enacting section 42 of this title and amending this section andsections 56, 6012, and 6096 of this title\] shall cease to apply to taxable years ending after December 31, 1976.”
 
 #### Effective Date of 1969 Amendment
 
@@ -147,8 +147,4 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1964 Amendment
 
 Section 301(c) of Pub. L. 88–272, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by this section \[amending this section and sections 4 and 6014 of this title\] shall apply to taxable years beginning after December 31, 1963.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 891 of this title.
 

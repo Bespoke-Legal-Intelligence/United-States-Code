@@ -14,10 +14,6 @@
 
 1962—Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045, added headings of subchapter T and of parts I to III.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 12 section 3019.
-
 
 ---
 

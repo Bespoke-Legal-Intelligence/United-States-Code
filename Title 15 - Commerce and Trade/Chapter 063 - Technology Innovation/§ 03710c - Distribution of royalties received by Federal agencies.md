@@ -10,7 +10,7 @@
 
 &emsp;(iii) The agency or laboratory shall retain the royalties and other payments received from an invention until the agency or laboratory makes payments to employees of a laboratory under clause (i) or (ii).
 
-&emsp;(B) The balance of the royalties or other payments shall be transferred by the agency to its laboratories, with the majority share of the royalties or other payments from any invention going to the laboratory where the invention occurred. The royalties or other payments so transferred to any laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—
+&emsp;(B) The balance of the royalties or other payments shall be transferred by the agency to its laboratories, with the majority share of the royalties or other payments from any invention going to the laboratory where the invention occurred. The royalties or other payments so transferred to any laboratory may beused or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—
 
 &emsp;&emsp;(i) to reward scientific, engineering, and technical employees of the laboratory, including developers of sensitive or classified technology, regardless of whether the technology has commercial applications;
 

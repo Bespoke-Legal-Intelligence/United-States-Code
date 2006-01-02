@@ -24,7 +24,7 @@
 
 &emsp;(D) not less than 50 percent of the families to be served in the community are eligible under the eligibility criteria established by the Secretary under paragraph (1);
 
-> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994, and unless specifically authorized in any statute of the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.
+> the Head Start program in each such locality shall establish the criteria for eligibility, except that no child residing in such community whose family is eligible under such eligibility criteria shall, by virtue of such project's eligibility criteria, be denied an opportunity to participate in such program. During the period beginning on October 30, 1984, and ending on October 1, 1994, and unless specifically authorized in any statuteof the United States enacted after October 30, 1984, the Secretary may not make any change in the method, as in effect on April 25, 1984, of calculating income used to prescribe eligibility for the participation of persons in the Head Start programs assisted under this subchapter if such change would result in any reduction in, or exclusion from, participation of persons in any of such programs.
 
 #### (b) Establishment of fee schedule or charging of fees; payment by families willing and able to pay
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 103–252, §111(2), added subsec. (d).
 
 Subsec. (a)(2)(B). Pub. L. 101–597 substituted “health professional shortage area” for “health manpower shortage area”.
 
-Subsec. (c). Pub. L. 101–501, §114, inserted at end “The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids any Head Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
+Subsec. (c). Pub. L. 101–501, §114, inserted at end “The Secretary may not issue or enforce any rule (as defined in section 551(4) of title 5) or guideline that forbids anyHead Start agency to carry out a Head Start program in accordance with the authority described in the preceding sentence.”
 
 1986—Subsec. (a)(2). Pub. L. 99–425 substituted “1990” for “1986” in closing provisions.
 

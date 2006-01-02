@@ -2,7 +2,7 @@
 
 #### (a) Procedure in House after report of Committee; debate
 
-(1) When a concurrent resolution on the budget has been reported by the Committee on the Budget of the House of Representatives and has been referred to the appropriate calendar of the House, it shall be in order on any day thereafter, subject to clause 2(<i>l</i>)(6) of rule XI <sup>1</sup> of the Rules of the House of Representatives, to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) When a concurrent resolution on the budget has been reported by the Committee on theBudget of the House of Representatives and has been referred to the appropriate calendar of the House, it shall be in order on any day thereafter, subject to clause 2(<i>l</i>)(6) of rule XI <sup>1</sup> of the Rules of the House of Representatives, to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) General debate on any concurrent resolution on the budget in the House of Representatives shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority parties, plus such additional hours of debate as are consumed pursuant to paragraph (3). A motion further to limit debate is not debatable. A motion to recommit the concurrent resolution is not in order, and it is not in order to move to reconsider the vote by which the concurrent resolution is agreed to or disagreed to.
 
@@ -26,7 +26,7 @@
 
 (4) Subject to the other limitations of this Act, only if a concurrent resolution on the budget reported by the Committee on the Budget of the Senate sets forth the economic goals (as described in sections 1022(a)(2) and 1022a(b) of title 15) which the estimates, amounts, and levels (as described in section 632(a) of this title) set forth in such resolution are designed to achieve, shall it be in order to offer to such resolution an amendment relating to such goals, and such amendment shall be in order only if it also proposes to alter such estimates, amounts, and levels in germane fashion in order to be consistent with the goals proposed in such amendment.
 
-(5) A motion to further limit debate is not debatable. A motion to recommit (except a motion to recommit with instructions to report back within a specified number of days, not to exceed 3, not counting any day on which the Senate is not in session) is not in order. Debate on any such motion to recommit shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution.
+(5) A motion to further limit debate is not debatable. A motion to recommit (except a motion to recommit with instructions to report back within a specified number of days, not to exceed 3, not counting any day on which the Senate is not in session) is not in order. Debate on any such motion to recommit shall be limited to 1hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution.
 
 (6) Notwithstanding any other rule, an amendment or series of amendments to a concurrent resolution on the budget proposed in the Senate shall always be in order if such amendment or series of amendments proposes to change any figure or figures then contained in such concurrent resolution so as to make such concurrent resolution mathematically consistent or so as to maintain such consistency.
 
@@ -60,13 +60,13 @@ This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 
 
 #### Codification
 
-Section was formerly classified to section 1326 of Title 31 prior to the general revision and enactment ofTitle 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1326 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 
 1997—Subsec. (a)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “When the Committee on the Budget of the House of Representatives has reported any concurrent resolution on the budget, it is in order at any time after the fifth day (excluding Saturdays, Sundays, and legal holidays) following the day on which the report upon such resolution by the Committee on the Budget has been available to Members of the House and, if applicable, after the first day (excluding Saturdays, Sundays, and legal holidays) following the day on which a report upon such resolution by the Committee on Rules pursuant to section 632(c) of this title has been available to Members of the House (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.”
 
-1990—Subsec. (c)(1). Pub. L. 101–508, §13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
+1990—Subsec. (c)(1). Pub. L. 101–508, §13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “onany concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
 
 Subsec. (c)(2). Pub. L. 101–508, §13209(2), inserted “(or a message between Houses)” after “conference report” wherever appearing.
 

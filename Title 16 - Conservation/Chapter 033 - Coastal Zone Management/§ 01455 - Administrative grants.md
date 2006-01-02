@@ -20,7 +20,7 @@ Grants under this section shall be allocated to coastal states with approved pro
 
 Before approving a management program submitted by a coastal state, the Secretary shall find the following:
 
-&emsp;(1) The State has developed and adopted a management program for its coastal zone inaccordance with rules and regulations promulgated by the Secretary, after notice, and with the opportunity of full participation by relevant Federal agencies, State agencies, local governments, regional organizations, port authorities, and other interested parties and individuals, public and private, which is adequate to carry out the purposes of this chapter and is consistent with the policy declared in section 1452 of this title.
+&emsp;(1) The State has developed and adopted a management program for its coastal zone in accordance with rules and regulations promulgated by the Secretary, after notice, and with the opportunity of full participation by relevant Federal agencies, State agencies, local governments, regional organizations, port authorities, and other interested parties and individuals, public and private, which is adequate to carry out the purposes of this chapter and is consistent with the policy declared in section 1452 of this title.
 
 &emsp;(2) The management program includes each of the following required program elements:
 
@@ -54,7 +54,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;&emsp;(i) the management agency, before implementing any management program decision which would conflict with any local zoning ordinance, decision, or other action, shall send a notice of the management program decision to any local government whose zoning authority is affected;
 
-&emsp;&emsp;&emsp;(ii) within the 30-day period commencing on the date of receipt of that notice, the local government may submit to the management agency written comments on the management program decision, and any recommendation for alternatives; and
+&emsp;&emsp;&emsp;(ii) within the 30-day period commencing on the date of receipt of that notice, thelocal government may submit to the management agency written comments on the management program decision, and any recommendation for alternatives; and
 
 &emsp;&emsp;&emsp;(iii) the management agency, if any comments are submitted to it within the 30-day period by any local government—
 
@@ -80,7 +80,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(A) to administer land use and water use regulations to control development <sup>1</sup> to ensure compliance with the management program, and to resolve conflicts among competing uses; and
 
-&emsp;&emsp;(B) to acquire fee simple and less than fee simple interests in land, waters, and otherproperty through condemnation or other means when necessary to achieve conformance with the management program.
+&emsp;&emsp;(B) to acquire fee simple and less than fee simple interests in land, waters, and other property through condemnation or other means when necessary to achieve conformance with the management program.
 
 &emsp;(11) The management program provides for any one or a combination of the following general techniques for control of land uses and water uses within the coastal zone:
 

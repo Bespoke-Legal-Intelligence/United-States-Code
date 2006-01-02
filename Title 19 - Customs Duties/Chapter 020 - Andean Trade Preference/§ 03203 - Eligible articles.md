@@ -122,7 +122,7 @@
 
 #### (I) Exception for findings and trimmings
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled product. Examples of findings and trimmings are sewing thread, hooks and eyes, snaps, buttons, “bow buds”, decorative lace, trim, elastic strips, zippers, including zipper tapes and labels, and other similar products.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled product. Examples of findings and trimmings are sewing thread, hooksand eyes, snaps, buttons, “bow buds”, decorative lace, trim, elastic strips, zippers, including zipper tapes and labels, and other similar products.
 
 #### (II) Certain interlining
 
@@ -138,7 +138,7 @@
 
 #### (IV) Special origin rule
 
-&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30,5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
+&emsp;&emsp;&emsp;&emsp;An article otherwise eligible for preferential treatment under clause (i) or (iii) shall not be ineligible for such treatment because the article contains nylon filament yarn (other than elastomeric yarn) that is classifiable under subheading 5402.10.30, 5402.10.60, 5402.31.30, 5402.31.60, 5402.32.30, 5402.32.60, 5402.41.10, 5402.41.90, 5402.51.00, or 5402.61.00 of the HTS from a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995.
 
 #### (vii) Textile luggage
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;The United States Commissioner of Customs shall conduct a study analyzing the extent to which each ATPDEA beneficiary country—
 
-&emsp;&emsp;&emsp;(i) has cooperated fully with the United States, consistent with its domestic laws and procedures, in instances of circumvention or alleged circumvention of existing quotas on imports of textile and apparel goods, to establish necessary relevant facts in the places of import, export, and, where applicable, transshipment, including investigation of circumvention practices, exchanges of documents, correspondence, reports, and other relevant information, to the extent such information is available;
+&emsp;&emsp;&emsp;(i) has cooperated fully with the United States, consistent with its domestic laws and procedures, in instances of circumvention or alleged circumvention of existing quotas on imports of textile and apparel goods, to establish necessary relevant facts in the places of import, export, and, where applicable, transshipment, including investigation of circumvention practices,exchanges of documents, correspondence, reports, and other relevant information, to the extent such information is available;
 
 &emsp;&emsp;&emsp;(ii) has taken appropriate measures, consistent with its domestic laws and procedures, against exporters and importers involved in instances of false declaration concerning quantities, description, classification, or origin of textile and apparel goods; and
 
@@ -276,7 +276,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) participate in negotiations toward the completion of the FTAA or another free trade agreement.
 
-&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual propertyrights consistent with or greater than the protection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
+&emsp;&emsp;&emsp;(ii) The extent to which the country provides protection of intellectual property rights consistent with or greater than the protection afforded under the Agreement on Trade-Related Aspects of Intellectual Property Rights described in section 3511(d)(15) of this title.
 
 &emsp;&emsp;&emsp;(iii) The extent to which the country provides internationally recognized worker rights, including—
 
@@ -328,7 +328,7 @@
 
 (3) For purposes of section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
-(4) No proclamation providing solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the Trade Act of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
+(4) No proclamation providing solely for a suspension referred to in paragraph (3) of this subsection with respect to any article shall be taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] unless the United States International Trade Commission, in addition to making an affirmative determination with respect to such article under section 202(b) of the TradeAct of 1974 \[19 U.S.C. 2252(b)\], determines in the course of its investigation under such section that the serious injury (or threat thereof) substantially caused by imports to the domestic industry producing a like or directly competitive article results from the duty-free treatment provided by this chapter.
 
 (5)(A) Any action taken under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] that is in effect when duty-free treatment is proclaimed under section 3201 of this title shall remain in effect until modified or terminated.
 
@@ -422,7 +422,7 @@ Subsecs. (c) to (g). Pub. L. 107–210, §3103(a)(1), redesignated subsecs. (d) 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
 
 #### Transfer of Functions
 
@@ -468,7 +468,7 @@ Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec.
 
 1\. Section 3103 of the Andean Trade Promotion and Drug Eradication Act (title XXXI of the Trade Act of 2002, Public Law 107–210) \[see Tables for classification\] (ATPDEA) amended section 204(b) of the Andean Trade Preference Act (19 U.S.C. 3203(b)) (ATPA) to provide that certain preferential tariff treatment may be provided to eligible articles that are the product of any country that the President designates as an “ATPDEA beneficiary country” pursuant to section 204(b)(6)(B) of the ATPA, as amended, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the North American Free Trade Agreement (NAFTA).
 
-2\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to authorize the President to proclaim duty-free treatment for any article described in section 204(b)(1)(A) through (D) of the ATPA, as amended, that is the growth, product, or manufacture of an ATPDEA beneficiary country, that is imported directly into the customs territory of the United States from an ATPDEA beneficiary country, and that meets the requirements of section 204 of the ATPA, as amended, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
+2\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to authorize the President to proclaim duty-free treatment for any article described in section 204(b)(1)(A) through (D) of the ATPA, as amended, that is the growth, product, or manufacture of anATPDEA beneficiary country, that is imported directly into the customs territory of the United States from an ATPDEA beneficiary country, and that meets the requirements of section 204 of the ATPA, as amended, if the President determines that such article is not import-sensitive in the context of imports from ATPDEA beneficiary countries, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 
 3\. Section 3103(a)(2) of the ATPDEA amended section 204(b) of the ATPA to provide that eligible textile and apparel articles of a designated ATPDEA beneficiary country shall enter the United States free of duty and free of quantitative limitations, provided that the President determines that the country has satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA.
 
@@ -480,7 +480,7 @@ Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, as amended by Proc. No. 7748, Dec.
 
 7\. Section 604 of the Trade Act of 1974 (19 U.S.C. 2483) (1974 Trade Act) authorizes the President to embody in the HTS the substance of the relevant provisions of that Act, and of other acts affecting import treatment, and actions thereunder, including the removal, modification, continuance, or imposition of any rate of duty or other import restriction.
 
-NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the lawsof the United States of America, including section 604 of the 1974 Trade Act, do proclaim as follows:
+NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including section 604 of the 1974 Trade Act, do proclaim as follows:
 
 (1) I have designated the following countries as ATPDEA beneficiary countries pursuant to section 204(b)(6)(B) of the ATPA, as amended, and have determined that these countries have satisfied the requirements of section 204(b)(5)(A)(ii)(I) of the ATPA, as amended, relating to the implementation of procedures and requirements similar to those in chapter 5 of the NAFTA:
 

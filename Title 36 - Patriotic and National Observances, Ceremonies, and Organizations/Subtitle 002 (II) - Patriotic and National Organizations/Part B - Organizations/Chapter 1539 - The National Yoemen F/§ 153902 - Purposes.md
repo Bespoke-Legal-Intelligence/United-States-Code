@@ -34,3 +34,7 @@ In clauses (1) and (2), the term “Yoemen (f)” is used (despite the inconsist
 
 In clause (1), the words “World War I” are substituted for “the World War” for clarity.
 
+#### Change of Name
+
+References to Naval Reserve, other than references to Naval Reserve regarding the United States Naval Reserve Retired List, deemed to refer to Navy Reserve, see section 515(h) of Pub. L. 109–163, set out as a note under section 10101 of Title 10, Armed Forces.
+

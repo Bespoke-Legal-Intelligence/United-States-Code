@@ -42,7 +42,7 @@ In subsec. (b)(4), “section 8141 of title 40” substituted for “the Act of 
 
 1989—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment” and “in section 242k of this title and in subchapter VII of this chapter” for “in sections 242c, 242k, and 242n of this title”.
 
-Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) whichrequired Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
+Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) which required Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
 
 Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted “subsection (a) of this section and section 242k of this title” for “subsection (a) of this section”.
 
@@ -96,7 +96,7 @@ Subsecs. (c), (d). Pub. L. 91–515, §§201(a)(3)(A), (c), 202(1), redesignated
 
 Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for evaluation of program authorized by this section. See section 229b of this title.
 
-1967—Pub. L. 90–174 substituted provisions of subsecs. (a) to (d) for research and demonstrations relating tohealth facilities (incorporated from former section 291n of this title) for provisions of former subsecs. (a) to (d) for mental health study including grants for special projects, conditions thereof, and definition of “organization”, authorization of appropriations, terms of grant, availability of amounts otherwise appropriated and noninterference with research and study programs of the National Institute of Mental Health, and acceptance of additional financial support.
+1967—Pub. L. 90–174 substituted provisions of subsecs. (a) to (d) for research and demonstrations relating to health facilities (incorporated from former section 291n of this title) for provisions of former subsecs. (a) to (d) for mental health study including grants for special projects, conditions thereof, and definition of “organization”, authorization of appropriations, terms of grant, availability of amounts otherwise appropriated and noninterference with research and study programs of the National Institute of Mental Health, and acceptance of additional financial support.
 
 1956—Act Aug. 2, 1956, changed heading of section 304 of act July 1, 1944 from “Grants for special projects in mental health” to “Mental health study grants”. Section heading has been changed for purposes of codification.
 
@@ -116,147 +116,7 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 #### Commission on Systemic Interoperability
 
-Pub. L. 108–173, title X, §1012, Dec. 8, 2003, 117 Stat. 2435, provided that:
-
-“(a)
-
-Establishment.—The Secretary \[of Health and Human Services\] shall establish a commission to be known as the ‘Commission on Systemic Interoperability’ (in this section referred to as the ‘Commission’).
-
-“(b)
-
-Duties.—
-
-&emsp;“(1)
-
-In general.—The Commission shall develop a comprehensive strategy for the adoption and implementation of health care information technology standards, that includes a timeline and prioritization for such adoption and implementation.
-
-&emsp;“(2)
-
-Considerations.—In developing the comprehensive health care information technology strategy under paragraph (1), the Commission shall consider—
-
-&emsp;&emsp;“(A) the costs and benefits of the standards, both financial impact and quality improvement;
-
-&emsp;&emsp;“(B) the current demand on industry resources to implement this Act \[see Tables for classification\] and other electronic standards, including HIPAA standards; and
-
-&emsp;&emsp;“(C) the most cost-effective and efficient means for industry to implement the standards.
-
-&emsp;“(3)
-
-Noninterference.—In carrying out this section, the Commission shall not interfere with any standards development of adoption processes underway in the private or public sector and shall not replicate activities related to such standards or the national health information infrastructure underway within the Department of Health and Human Services.
-
-&emsp;“(4)
-
-Report.—Not later than October 31, 2005, the Commission shall submit to the Secretary \[of Health and Human Services\] and to Congress a report describing the strategy developed under paragraph (1), including an analysis of the matters considered under paragraph (2).
-
-“(c)
-
-Membership.—
-
-&emsp;“(1)
-
-Number and appointment.—The Commission shall be composed of 11 members appointed as follows:
-
-&emsp;&emsp;“(A) The President shall appoint three members, one of whom the President shall designate as Chairperson.
-
-&emsp;&emsp;“(B) The Majority Leader of the Senate shall appoint two members.
-
-&emsp;&emsp;“(C) The Minority Leader of the Senate shall appoint two members.
-
-&emsp;&emsp;“(D) The Speaker of the House of Representatives shall appoint two members.
-
-&emsp;&emsp;“(E) The Minority Leader of the House of Representatives shall appoint two members.
-
-&emsp;“(2)
-
-Qualifications.—The membership of the Commission shall include individuals with national recognition for their expertise in health finance and economics, health plans and integrated delivery systems, reimbursement of health facilities, practicing physicians, practicing pharmacists, and other providers of health services, health care technology and information systems, and other related fields, who provide a mix of different professionals, broad geographic representation, and a balance between urban and rural representatives.
-
-“(d)
-
-Terms.—Each member shall be appointed for the life of the Commission.
-
-“(e)
-
-Compensation.—
-
-&emsp;“(1)
-
-Rates of pay.—Members shall each be paid at a rate not to exceed the daily equivalent of the rate of basic pay for level IV of the Executive Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Commission.
-
-&emsp;“(2)
-
-Prohibition of compensation of federal employees.—Members of the Commission who are full-time officers or employees of the United States or Members of Congress may not receive additional pay, allowances, or benefits by reason of their service on the Commission.
-
-&emsp;“(3)
-
-Travel expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
-
-“(f)
-
-Quorum.—A majority of the members of the Commission shall constitute a quorum but a lesser number may hold hearings.
-
-“(g)
-
-Director and Staff of Commission; Experts and Consultants.—
-
-&emsp;“(1)
-
-Director.—The Commission shall have a Director who shall be appointed by the Chairperson. The Director shall be paid at a rate not to exceed the rate of basic pay for level IV of the Executive Schedule.
-
-&emsp;“(2)
-
-Staff.—With the approval of the Commission, the Director may appoint and fix the pay of such additional personnel as the Director considers appropriate.
-
-&emsp;“(3)
-
-Applicability of certain civil service laws.—The Director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of level IV of the Executive Schedule.
-
-&emsp;“(4)
-
-Experts and consultants.—With the approval of the Commission, the Director may procure temporary and intermittent services under section 3109(b) of title 5, United States Code.
-
-&emsp;“(5)
-
-Staff of federal agencies.—Upon request of the Chairperson, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act \[see Tables for classification\].
-
-“(h)
-
-Powers of Commission.—
-
-&emsp;“(1)
-
-Hearings and sessions.—The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
-
-&emsp;“(2)
-
-Powers of members and agents.—Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take by this section.
-
-&emsp;“(3)
-
-Obtaining official data.—The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out this Act. Upon request of the Chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
-
-&emsp;“(4)
-
-Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission. For purposes of Federal income, estate, and gift taxes, property accepted under this subsection shall be considered as a gift, bequest, or devise to the United States.
-
-&emsp;“(5)
-
-Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
-
-&emsp;“(6)
-
-Administrative support services.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
-
-&emsp;“(7)
-
-Contract authority.—The Commission may enter into contracts or make other arrangements, as may be necessary for the conduct of the work of the Commission (without regard to section 3709 of the Revised Statutes (41 U.S.C. 5)).
-
-“(i)
-
-Termination.—The Commission shall terminate on 30 days after submitting its report pursuant to subsection (b)(3) \[(b)(4)\].
-
-“(j)
-
-Authorization of Appropriations.—There is authorized to be appropriated such sums as may be necessary to carry out this section.”
+Pub. L. 108–173, title X, §1012, Dec. 8, 2003, 117 Stat. 2435, directed the Secretary of Health and Human Services to establish a commission to be known as the “Commission on Systemic Interoperability”, which would develop a comprehensive strategy for the adoption and implementation of health care information technology standards, and which would terminate 30 days after submitting a report, not later than Oct. 31, 2005, to the Secretary and to Congress, describing the strategy developed.
 
 #### Model Standards With Respect to Preventive Health Services in Communities
 

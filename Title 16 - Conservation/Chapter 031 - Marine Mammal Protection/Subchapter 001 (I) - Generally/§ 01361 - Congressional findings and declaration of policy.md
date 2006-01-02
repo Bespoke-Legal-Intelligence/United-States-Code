@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) certain species and population stocks of marine mammals are, or may be, in danger of extinction or depletion as a result of man's activities;
 
-&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, andareas of similar significance for each species of marine mammal from the adverse effect of man's actions;
+&emsp;(2) such species and population stocks should not be permitted to diminish beyond the point at which they cease to be a significant functioning element in the ecosystem of which they are a part, and, consistent with this major objective, they should not be permitted to diminish below their optimum sustainable population. Further measures should be immediately taken to replenish any species or population stock which has already diminished below that population. In particular, efforts should be made to protect essential habitats, including the rookeries, mating grounds, and areas of similar significance for each species of marine mammal from the adverse effect of man's actions;
 
 &emsp;(3) there is inadequate knowledge of the ecology and population dynamics of such marine mammals and of the factors which bear upon their ability to reproduce themselves successfully;
 
@@ -42,7 +42,7 @@ Pub. L. 106–555, title II, §201, Dec. 21, 2000, 114 Stat. 2767, provided that
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title\] may be cited as the ‘International Dolphin Conservation Program Act’.”
+Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: “This Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of thistitle, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title\] may be cited as the ‘International Dolphin Conservation Program Act’.”
 
 #### Short Title of 1994 Amendment
 
@@ -110,7 +110,7 @@ Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Sec
 
 #### Study on Mortality of Atlantic Dolphin
 
-Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributed to epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of the House of Representatives a plan for conducting the study.
+Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributed to epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of theHouse of Representatives a plan for conducting the study.
 
 #### International Discussion To Advance Understanding of Cetacean Life
 

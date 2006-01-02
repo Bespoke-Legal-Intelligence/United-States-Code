@@ -4,7 +4,7 @@
 
 In any taxable year there shall be allowed as a deduction in computing the taxable income of an estate or trust (other than a trust to which subpart B applies), the sum of—
 
-&emsp;(1) any amount of income for such taxable year required to be distributed currently (including any amount required to be distributed which may be paid out of income or corpus to the extent such amount is paid out of income for such taxable year); and
+&emsp;(1) any amount of income for such taxable year required to be distributed currently (including any amount required to be distributedwhich may be paid out of income or corpus to the extent such amount is paid out of income for such taxable year); and
 
 &emsp;(2) any other amounts properly paid or credited or required to be distributed for such taxable year;
 
@@ -27,8 +27,4 @@ No deduction shall be allowed under subsection (a) in respect of any portion of 
 1982—Subsec. (a). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (a) is amended by inserting at end “For purposes of paragraph (1), the amount of distributable net income shall be computed without the deduction allowed by section 642(c).”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 (this title) shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 67, 642, 643, 646, 662, 663, 665, 666, 677, 678, 6166 of this title.
 

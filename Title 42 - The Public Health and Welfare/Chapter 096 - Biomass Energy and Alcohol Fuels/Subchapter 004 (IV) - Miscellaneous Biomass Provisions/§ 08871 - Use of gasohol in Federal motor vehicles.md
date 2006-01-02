@@ -52,7 +52,7 @@ By the authority vested in me as President of the United States of America by Se
 
 1–110. (a) The Secretary of Defense with respect to gasohol use by the Department of Defense, and the Administrator of General Services with respect to gasohol use by other agencies, shall issue such guidelines for the implementation of this Order as they deem appropriate.
 
-(b) Such guidelines shall provide for a determination of reasonable prices and reasonable quantities based on the local prevailing price of unleaded gasolines, the octane requirements for vehicles in the Federal fleet, local market availability of gasohol or its components, and other such factors, as may be appropriate.
+(b) Such guidelines shall provide for a determination of reasonable prices and reasonable quantities based onthe local prevailing price of unleaded gasolines, the octane requirements for vehicles in the Federal fleet, local market availability of gasohol or its components, and other such factors, as may be appropriate.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

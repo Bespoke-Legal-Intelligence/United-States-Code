@@ -54,7 +54,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (6) Indian Self-Determination Act agreement
 
-&emsp;No sooner than two years after September 30, 1996, the Secretary may, upon a satisfactory showing of management competence and pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], enter into a binding Indian self-determination agreement (agreement) with the Coquille Indian Tribe. Such agreement may provide for the tribe to carryout all or a portion of the forest management for the Coquille Forest.
+&emsp;No sooner than two years after September 30, 1996, the Secretary may, upon a satisfactory showing of management competence and pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], enter into a binding Indian self-determination agreement (agreement) with the Coquille Indian Tribe. Such agreement may provide for the tribe to carry out all or a portion of the forest management for the Coquille Forest.
 
 &emsp;&emsp;(A) Prior to entering such an agreement, and as a condition of maintaining such an agreement, the Secretary must find that the Coquille Tribe has entered into a binding memorandum of agreement (MOA) with the State of Oregon, as required under paragraph 7.<sup>5</sup>
 
@@ -78,7 +78,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;(B) The United States District Court for the District of Oregon shall have jurisdiction over actions between the State of Oregon and the Tribe arising out of claims of breach of the MOA.
 
-&emsp;(C) Unless otherwise provided for by law, remedies available under this subsection shall be limited to equitable relief and shall not include damages.
+&emsp;(C) Unless otherwise provided for by law, remedies available under this subsection shallbe limited to equitable relief and shall not include damages.
 
 #### (10) State regulatory and civil jurisdiction
 

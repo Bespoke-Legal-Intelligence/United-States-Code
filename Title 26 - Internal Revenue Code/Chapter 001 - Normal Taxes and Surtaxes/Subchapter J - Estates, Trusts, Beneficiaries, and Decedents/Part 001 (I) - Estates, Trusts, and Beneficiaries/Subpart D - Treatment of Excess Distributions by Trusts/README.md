@@ -18,10 +18,6 @@ Subpart D—Treatment of Excess Distributions by Trusts
 
 1962—Pub. L. 87–834, §7(i)(1), Oct. 16, 1962, 76 Stat. 988, added item 669.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 643, 671, 685, 1312 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

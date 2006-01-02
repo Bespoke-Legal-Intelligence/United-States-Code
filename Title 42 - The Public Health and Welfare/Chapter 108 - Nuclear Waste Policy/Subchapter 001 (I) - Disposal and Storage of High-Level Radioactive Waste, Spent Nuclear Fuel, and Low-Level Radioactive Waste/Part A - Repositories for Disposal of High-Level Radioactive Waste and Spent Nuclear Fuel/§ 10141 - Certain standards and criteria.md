@@ -14,7 +14,7 @@ Not later than 1 year after January 7, 1983, the Administrator, pursuant to auth
 
 &emsp;(iii) applications for authorization for closure and decommissioning of such repositories.
 
-(B) Such criteria shall provide for the use of a system of multiple barriers in the design of the repository and shall include such restrictions on the retrievability of the solidified high-level radioactive waste and spent fuel emplaced in the repository as the Commission deems appropriate.
+(B) Such criteria shall provide for the use of a system of multiple barriers in the design of therepository and shall include such restrictions on the retrievability of the solidified high-level radioactive waste and spent fuel emplaced in the repository as the Commission deems appropriate.
 
 (C) Such requirements and criteria shall not be inconsistent with any comparable standards promulgated by the Administrator under subsection (a) of this section.
 
@@ -42,7 +42,7 @@ Environmental Protection Agency Standards.—
 
 &emsp;“(1)
 
-Promulgation.—Notwithstanding the provisions of section 121(a) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10141(a)), section 161 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2201(b)), and any other authority of the Administrator of the Environmental Protection Agency to set generally applicable standards for the Yucca Mountain site, the Administrator shall, based upon and consistent with the findings and recommendations of the National Academy of Sciences, promulgate, by rule, public health and safety standards for protection of the public from releases from radioactive materials stored or disposed of in the repository at the Yucca Mountain site. Such standards shall prescribe the maximum annual effective dose equivalent to individual members of the public from releases to the accessible environment from radioactive materials stored or disposed of in the repository. The standards shall be promulgated not later than 1 year after the Administrator receives the findings and recommendations of the NationalAcademy of Sciences under paragraph (2) and shall be the only such standards applicable to the Yucca Mountain site.
+Promulgation.—Notwithstanding the provisions of section 121(a) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10141(a)), section 161 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2201(b)), and any other authority of the Administrator of the Environmental Protection Agency to set generally applicable standards for the Yucca Mountain site, the Administrator shall, based upon and consistent with the findings and recommendations of the National Academy of Sciences, promulgate, by rule, public health and safety standards for protection of the public from releases from radioactive materials stored or disposed of in the repository at the Yucca Mountain site. Such standards shall prescribe the maximum annual effective dose equivalent to individual members of the public from releases to the accessible environment from radioactive materials stored or disposed of in the repository. The standards shall be promulgated not later than 1 year after the Administrator receives the findings and recommendations of the National Academy of Sciences under paragraph (2) and shall be the only such standards applicable to the Yucca Mountain site.
 
 &emsp;“(2)
 

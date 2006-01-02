@@ -12,7 +12,7 @@ This section is a consolidation of section 179 of title 18, U.S.C., 1940 ed., wi
 
 Other provisions of said section 355 of title 18, U.S.C., 1940 ed., are incorporated in section 1711 of this title.
 
-Words in second sentence of said section 355 of title 18, U.S.C., 1940 ed., which preceded the semicolon therein and which read “Any failure to produce or to pay over any such money or property, when required so to do as above provided, shall be taken to be prima facie evidence of such embezzlement” were omitted as surplusage, because such failure to produce or to pay over such money or property constitutes embezzlement. (See sections 653 and 1711 of this title.)
+Words in second sentence of said section 355 of title 18, U.S.C., 1940 ed., which preceded the semicolon therein and which read “Any failure to produce or to pay over any such money or property, when required so todo as above provided, shall be taken to be prima facie evidence of such embezzlement” were omitted as surplusage, because such failure to produce or to pay over such money or property constitutes embezzlement. (See sections 653 and 1711 of this title.)
 
 #### Amendments
 

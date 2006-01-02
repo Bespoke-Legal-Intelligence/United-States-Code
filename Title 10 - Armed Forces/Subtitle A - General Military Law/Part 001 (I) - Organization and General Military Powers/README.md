@@ -18,12 +18,14 @@
 | [<b>18.</b>](Chapter%20018%20-%20Military%20Support%20for%20Civilian%20Law%20Enforcement%20Agencies/README.md) | <b>Military Support for Civilian Law Enforcement Agencies</b> | <b>371</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
-| [<b>22.</b>](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial-Intelligence Agency</b> | <b>441</b> |
-| [<b>23.</b>](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>481 </b><b><sup>1</sup></b> |
+| [<b>22.</b>](Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial  -  Intelligence Agency</b> | <b>441</b> |
+| [<b>23.</b>](Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>480</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title X, §1084(d)(1), Oct. 28, 2004, 118 Stat. 2061, substituted “480” for “481” in item for chapter 23.
 
 2003—Pub. L. 108–136, div. A, title IX, §921(d)(8), Nov. 24, 2003, 117 Stat. 1569, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22.
 

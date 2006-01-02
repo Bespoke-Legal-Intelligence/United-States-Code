@@ -16,7 +16,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 Conspiracy.—A person who conspires to commit an offense under this section shall be subject to the same penalties (other than the penalty of death) as the penalties prescribed for the offense, the commission of which was the object of the conspiracy.
 
-(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–322, titleVI, §60020, Sept. 13, 1994, 108 Stat. 1979; Pub. L. 107–56, title VIII, §811(g), Oct. 26, 2001, 115 Stat. 381.)
+(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–322, title VI, §60020, Sept. 13, 1994, 108 Stat. 1979; Pub. L. 107–56, title VIII, §811(g), Oct. 26, 2001, 115 Stat. 381.)
 
 #### Amendments
 

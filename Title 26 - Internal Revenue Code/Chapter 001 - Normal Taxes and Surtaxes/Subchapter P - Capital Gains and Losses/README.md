@@ -17,10 +17,6 @@
 
 1984—Pub. L. 98–369, div. A, title I, §42(b)(1), July 18, 1984, 98 Stat. 557, added item for part V.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 832, 834, 1011, 1012 of this title.
-
 
 ---
 

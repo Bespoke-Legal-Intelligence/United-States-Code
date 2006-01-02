@@ -26,9 +26,115 @@ In this chapter:
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Naval Petroleum Reserve
+
+Pub. L. 109–58, title III, subtitle D, Aug. 8, 2005, 119 Stat. 694, provided that:
+
+#### “SEC. 331. TRANSFER OF ADMINISTRATIVE JURISDICTION AND ENVIRONMENTAL REMEDIATION, NAVAL PETROLEUM RESERVE NUMBERED 2, KERN COUNTY, CALIFORNIA.
+
+“(a)
+
+Administration Jurisdiction Transfer to Secretary of the Interior.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], administrative jurisdiction and control over all public domain lands included within Naval Petroleum Reserve Numbered 2 located in Kern County, California (other than the lands specified in subsection (b)), are transferred from the Secretary to the Secretary of the Interior for management, subject to subsection (c), in accordance with the laws governing management of the public lands, and the regulations promulgated under such laws, including the Mineral Leasing Act (30 U.S.C. 181 et seq.) and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
+
+“(b)
+
+Exclusion of Certain Reserve Lands.—The transfer of administrative jurisdiction made by subsection (a) does not include the following lands:
+
+&emsp;“(1) That portion of Naval Petroleum Reserve Numbered 2 authorized for disposal under section 3403(a) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 10 U.S.C. 7420 note).
+
+&emsp;“(2) That portion of the surface estate of Naval Petroleum Reserve Numbered 2 conveyed to the City of Taft, California, by section 333.
+
+“(c)
+
+Purpose of Transfer.—
+
+&emsp;“(1)
+
+Production of hydrocarbon resources.—Notwithstanding any other provision of law, the principal purpose of the lands subject to transfer under subsection (a) is the production of hydrocarbon resources, and the Secretary of the Interior shall manage the lands in a fashion consistent with this purpose. In managing the lands, the Secretary of the Interior shall regulate operations to prevent unnecessary degradation and to provide for ultimate economic recovery of the resources.
+
+&emsp;“(2)
+
+Disposal authority and surface use.—The Secretary of the Interior may make disposals of lands subject to transfer under subsection (a), or allow commercial or non-profit surface use of such lands, not to exceed 10 acres each, so long as the disposals or surface uses do not materially interfere with the ultimate economic recovery of the hydrocarbon resources of such lands. All revenues received from the disposal of lands under this paragraph or from allowing the surface use of such lands shall be deposited in the Naval Petroleum Reserve Numbered 2 Lease Revenue Account established by section 332.
+
+“(d)
+
+Conforming Amendment.—\[Amended section 3403 of Pub. L. 105–261, set out below.\]
+
+#### “SEC. 332. NAVAL PETROLEUM RESERVE NUMBERED 2 LEASE REVENUE ACCOUNT.
+
+“(a)
+
+Establishment.—There is established in the Treasury a special deposit account to be known as the ‘Naval Petroleum Reserve Numbered 2 Lease Revenue Account’ (in this section referred to as the ‘lease revenue account’). The lease revenue account is a revolving account, and amounts in the lease revenue account shall be available to the Secretary of the Interior, without further appropriation, for the purposes specified in subsection (b).
+
+“(b)
+
+Purposes of Account.—
+
+&emsp;“(1)
+
+Environmental-related costs.—The lease revenue account shall be the sole and exclusive source of funds to pay for any and all costs and expenses incurred by the United States for—
+
+&emsp;&emsp;“(A) environmental investigations (other than any environmental investigations that were conducted by the Secretary before the transfer of the Naval Petroleum Reserve Numbered 2 lands under section 331), remediation, compliance actions, response, waste management, impediments, fines or penalties, or any other costs or expenses of any kind arising from, or relating to, conditions existing on or below the Naval Petroleum Reserve Numbered 2 lands, or activities occurring or having occurred on such lands, on or before the date of the transfer of such lands; and
+
+&emsp;&emsp;“(B) any future remediation necessitated as a result of pre-transfer and leasing activities on such lands.
+
+&emsp;“(2)
+
+Transition costs.—The lease revenue account shall also be available for use by the Secretary of the Interior to pay for transition costs incurred by the Department of the Interior associated with the transfer and leasing of the Naval Petroleum Reserve Numbered 2 lands.
+
+“(c)
+
+Funding.—The lease revenue account shall consist of the following:
+
+&emsp;“(1) Notwithstanding any other provision of law, for a period of three years after the date of the transfer of the Naval Petroleum Reserve Numbered 2 lands under section 331, the sum of $500,000 per year of revenue from leases entered into before that date, including bonuses, rents, royalties, and interest charges collected pursuant to the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et. seq.), derived from the Naval Petroleum Reserve Numbered 2 lands, shall be deposited into the lease revenue account.
+
+&emsp;“(2) Subject to subsection (d), all revenues derived from leases on Naval Petroleum Reserve Numbered 2 lands issued on or after the date of the transfer of such lands, including bonuses, rents, royalties, and interest charges collected pursuant to the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.), shall be deposited into the lease revenue account.
+
+“(d)
+
+Limitation.—Funds in the lease revenue account shall not exceed $3,000,000 at any one time. Whenever funds in the lease revenue account are obligated or expended so that the balance in the account falls below that amount, lease revenues referred to in subsection (c)(2) shall be deposited in the account to maintain a balance of $3,000,000.
+
+“(e)
+
+Termination of Account.—At such time as the Secretary of the Interior certifies that remediation of all environmental contamination of Naval Petroleum Reserve Numbered 2 lands in existence as of the date of the transfer of such lands under section 331 has been successfully completed, that all costs and expenses of investigation, remediation, compliance actions, response, waste management, impediments, fines, or penalties associated with environmental contamination of such lands in existence as of the date of the transfer have been paid in full, and that the transition costs of the Department of the Interior referred to in subsection (b)(2) have been paid in full, the lease revenue account shall be terminated and any remaining funds shall be distributed in accordance with subsection (f).
+
+“(f)
+
+Distribution of Remaining Funds.—Section 35 of the Mineral Leasing Act (30 U.S.C. 191) shall apply to the payment and distribution of all funds remaining in the lease revenue account upon its termination under subsection (e).
+
+#### “SEC. 333. LAND CONVEYANCE, PORTION OF NAVAL PETROLEUM RESERVE NUMBERED 2, TO CITY OF TAFT, CALIFORNIA.
+
+“(a)
+
+Conveyance.—Effective on the date of the enactment of this Act \[Aug. 8, 2005\], there is conveyed to the City of Taft, California (in this section referred to as the ‘City’), all surface right, title, and interest of the United States in and to a parcel of real property consisting of approximately 220 acres located in the NE1/4, the NE1/4 of the NW1/4, and the N1/2 of the SE1/4 of the NW1/4 of section 18, township 32 south, range 24 east, Mount Diablo meridian, Kern County, California.
+
+“(b)
+
+Consideration.—The conveyance under subsection (a) is made without the payment of consideration by the City.
+
+“(c)
+
+Treatment of Existing Rights.—The conveyance under subsection (a) is subject to valid existing rights, including Federal oil and gas lease SAC–019577.
+
+“(d)
+
+Treatment of Minerals.—All coal, oil, gas, and other minerals within the lands conveyed under subsection (a) are reserved to the United States, except that the United States and its lessees, licensees, permittees, or assignees shall have no right of surface use or occupancy of the lands. Nothing in this subsection shall be construed to require the United States or its lessees, licensees, permittees, or assignees to support the surface of the conveyed lands.
+
+“(e)
+
+Indemnify and Hold Harmless.—The City shall indemnify, defend, and hold harmless the United States for, from, and against, and the City shall assume all responsibility for, any and all liability of any kind or nature, including all loss, cost, expense, or damage, arising from the City's use or occupancy of, or operations on, the land conveyed under subsection (a), whether such use or occupancy of, or operations on, occurred before or occur after the date of the enactment of this Act.
+
+“(f)
+
+Instrument of Conveyance.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall execute, file, and cause to be recorded in the appropriate office a deed or other appropriate instrument documenting the conveyance made by this section.
+
+#### “SEC. 334. REVOCATION OF LAND WITHDRAWAL.
+
+“Effective on the date of the enactment of this Act \[Aug. 8, 2005\], the Executive Order of December 13, 1912, which created Naval Petroleum Reserve Numbered 2, is revoked in its entirety.”
+
 #### Disposal of Naval Petroleum Reserves
 
-Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489, provided that:
+Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, §129, Mar. 2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695, provided that:
 
 #### “SEC. 3401. DEFINITIONS.
 
@@ -40,7 +146,7 @@ Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amende
 
 &emsp;“(3) The term ‘Naval Petroleum Reserve Numbered 3’ means the naval petroleum reserve, commonly referred to as the Teapot Dome unit, that is located in the State of Wyoming and was established by Executive order of the President, dated April 30, 1915.
 
-&emsp;“(4) The term ‘Oil Shale Reserve Numbered 2’ means the naval petroleum reserve that is located in the State of Utah and was established by Executive order of the President, dated December 6, 1916.
+&emsp;“(4) The term ‘Oil Shale Reserve Numbered 2’ means the naval petroleum reserve that is located inthe State of Utah and was established by Executive order of the President, dated December 6, 1916.
 
 &emsp;“(5) The term ‘antitrust laws’ has the meaning given the term in section 1(a) of the Clayton Act (15 U.S.C. 12(a)), except that the term also includes—
 
@@ -76,11 +182,7 @@ Disposal of Ford City Lots Authorized.—(1) Subject to section 3406, the Secret
 
 “(3) Section 2696(a) of title 10, United States Code, regarding the screening of real property for further Federal use before disposal, shall apply to the disposal authorized by paragraph (1).
 
-“(b)
-
-Transfer of Administrative Jurisdiction Authorized.—(1) The Secretary of Energy shall continue to administer Naval Petroleum Reserve Numbered 2 (other than the portion of the reserve authorized for disposal under subsection (a)) in accordance with chapter 641 of title 10, United States Code, until such time as the Secretary makes a determination to abandon oil and gas operations in Naval Petroleum Reserve Numbered 2 in accordance with commercial operating practices.
-
-“(2) After oil and gas operations are abandoned in Naval Petroleum Reserve Numbered 2, the Secretary of Energy may transfer to the Secretary of the Interior administrative jurisdiction and control over all public domain lands included within Naval Petroleum Reserve Numbered 2 (other than the portion of the reserve authorized for disposal under subsection (a)) for management in accordance with the general land laws.
+“\[(b) Repealed. Pub. L. 109–58, title III, §331(d), Aug. 8, 2005, 119 Stat. 695.\]
 
 “(c)
 
@@ -142,7 +244,11 @@ Conditions on Conveyance.—(1) The conveyance under subsection (b) is subject t
 
 “(2) On completion of the conveyance under subsection (b), the United States relinquishes all management authority over the conveyed land, including tribal activities conducted on the land.
 
-“(3) The land conveyed to the Tribe under subsection (b) shall not revert to the United States for management in trust status.
+“(3) With respect to the land conveyed to the Tribe under subsection (b)—
+
+&emsp;“(A) the land shall not be subject to any Federal restriction on alienation; and
+
+&emsp;“(B) notwithstanding any provision to the contrary in the constitution, bylaws, or charter of the Tribe, the Act of May 11, 1938 (commonly known as the ‘Indian Mineral Leasing Act of 1938’) (25 U.S.C. 396a et seq.), the Indian Mineral Development Act of 1982 (25 U.S.C. 2101 et seq.), section 2103 of the Revised Statutes (25 U.S.C. 81), or section 2116 of the Revised Statutes (25 U.S.C. 177), or any other law, no purchase, grant, lease, or other conveyance of the land (or anyinterest in the land), and no exploration, development, or other agreement relating to the land that is authorized by resolution by the governing body of the Tribe, shall require approval by the Secretary of the Interior or any other Federal official.
 
 “(4) The reservation of the easement under subsection (b)(2)(C) shall not affect the right of the Tribe to use and maintain access to the Green River through the use of the road within the easement, as depicted on the map.
 
@@ -312,7 +418,7 @@ Establishment of Minimum Sale Price.—(1) Not later than seven months after the
 
 “(2) The independent experts retained under paragraph (1) shall also determine and submit to the Secretary the estimated total amount of the cost of any environmental restoration and remediation necessary at the reserve. The Secretary shall report the estimate to the Director of the Office of Management and Budget, the Secretary of the Treasury, and Congress.
 
-“(3) The Secretary, in consultation with the Director of the Office of Management and Budget, shall set theminimum acceptable price for the reserve. The Secretary may not set the minimum acceptable price below the higher of—
+“(3) The Secretary, in consultation with the Director of the Office of Management and Budget, shall set the minimum acceptable price for the reserve. The Secretary may not set the minimum acceptable price below the higher of—
 
 &emsp;“(A) the average of the five assessments prepared under paragraph (1); and
 
@@ -372,7 +478,7 @@ Effect on Existing Contracts.—(1) In the case of any contract, in effect on th
 
 “(b)
 
-Effect on Antitrust Laws.—Nothing in this subtitle shall be construed to alter the application of the antitrust laws of the United States to the purchaser or purchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 or to the lands in the reserve subject to sale under section 3412 upon the completion of the sale.
+Effect on Antitrust Laws.—Nothing in this subtitle shall be construed to alter the application ofthe antitrust laws of the United States to the purchaser or purchasers (as the case may be) of Naval Petroleum Reserve Numbered 1 or to the lands in the reserve subject to sale under section 3412 upon the completion of the sale.
 
 “(c)
 

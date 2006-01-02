@@ -42,7 +42,7 @@
 
 #### (2) Reporting requirements
 
-&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposed under section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
+&emsp;Each branch or agency of a foreign bank, other than a Federal branch or agency, shall be subject to section 335 of this title and the provision requiring the reports of condition contained in section 324 of this title to the same extent and in the same manner as if the branch or agency were a State member bank. In addition to any requirements imposedunder section 3102 of this title, each Federal branch and agency shall be subject to section 248(a) of this title and to section 483 of this title to the same extent and in the same manner as if it were a member bank.
 
 #### (d) Establishment of foreign bank offices in United States
 
@@ -90,7 +90,7 @@
 
 #### (B) Other considerations
 
-&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank hasadopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
+&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
 
 #### (C) Additional conditions
 
@@ -108,7 +108,7 @@
 
 #### (B) Failure to submit information
 
-&emsp;&emsp;The Board may deny any application if it does not receive information requested from the applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit the Board to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).
+&emsp;&emsp;The Board may deny any application if it does not receive information requested from the applicant foreign bank or appropriate authorities in the home country of the foreign bank in sufficient time to permit theBoard to evaluate such information adequately within the time periods for final action set forth in subparagraph (A).
 
 #### (C) Waiver
 
@@ -178,7 +178,7 @@
 
 &emsp;&emsp;(C) against which the Comptroller of the Currency has issued an order under section 3102(i) of this title,
 
-> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company that has been required by such order to terminate its activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
+> &emsp;may obtain a review of such order in the United States court of appeals for any circuit in which such foreign bank operates a branch, agency, or commercial lending company thathas been required by such order to terminate its activities, or in the United States Court of Appeals for the District of Columbia Circuit, by filing a petition for review in the court before the end of the 30-day period beginning on the date the order was issued.
 
 #### (2) Scope of judicial review
 

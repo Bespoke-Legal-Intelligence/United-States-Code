@@ -202,7 +202,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;&emsp;&emsp;(ii) the spouses of such employees, and
 
-&emsp;&emsp;&emsp;(iii) individuals bearing a relationship to such employees or spouses which is described in any of paragraphs (1) through (8) of section 152(a).
+&emsp;&emsp;&emsp;(iii) individuals bearing a relationship to such employees or spouses which is described in any of subparagraphs (A) through (G) of section 152(d)(2).
 
 #### (g) Consumer protection provisions
 
@@ -288,7 +288,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;&emsp;&emsp;(i) The nonforfeiture provision shall be appropriately captioned.
 
-&emsp;&emsp;&emsp;(ii) The nonforfeiture provision shall provide for a benefit available in the event of a default in the payment of any premiums and the amount of the benefit may be adjusted subsequent to being initially granted only as necessary to reflect changes in claims, persistency, and interest as reflected in changes in rates for premium paying contracts approved by the appropriate State regulatory agency for the same contract form.
+&emsp;&emsp;&emsp;(ii) The nonforfeiture provision shall provide for a benefit available in the eventof a default in the payment of any premiums and the amount of the benefit may be adjusted subsequent to being initially granted only as necessary to reflect changes in claims, persistency, and interest as reflected in changes in rates for premium paying contracts approved by the appropriate State regulatory agency for the same contract form.
 
 &emsp;&emsp;&emsp;(iii) The nonforfeiture provision shall provide at least one of the following:
 
@@ -304,17 +304,19 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;&emsp;<b>For coordination of the requirements of this subsection with State requirements, see section 4980C(f).</b>
 
-(Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826.)
+(Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826; Pub. L. 108–311, title II, §207(25), Oct. 4, 2004, 118 Stat. 1178.)
 
-#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2004
+#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2006
 
-<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2004, see section 3.34 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2006, see section 3.37 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat.620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (f)(2)(C)(iii). Pub. L. 108–311 substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
 
 1998—Subsec. (e)(2). Pub. L. 105–206 inserted “section” after “Application of” in heading.
 
@@ -323,6 +325,10 @@ The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug
 Subsec. (g)(4)(B)(ii), (iii)(IV). Pub. L. 105–34, §1602(e), substituted “appropriate State regulatory agency” for “Secretary”.
 
 1996—Subsec. (g). Pub. L. 104–191, §325, added subsec. (g).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -379,8 +385,4 @@ Application of per diem limitation to existing contracts.—The amount of per di
 #### Long-Term Care Study Request
 
 Section 321(g) of Pub. L. 104–191 provided that: “The Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate shall jointly request the National Association of Insurance Commissioners, in consultation with representatives of the insurance industry and consumer organizations, to formulate, develop, and conduct a study to determine the marketing and other effects of per diem limits on certain types of long-term care policies. If the National Association of Insurance Commissioners agrees to the study request, the National Association of Insurance Commissioners shall report the results of its study to such committees not later than 2 years after accepting the request.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 106, 162, 213, 220, 223, 807, 818, 4980B, 4980C of this title; title 5 sections 9001, 9002; title 12 section 1715z–20; title 29 section 1167; title 42 section 300bb–8.
 

@@ -18,7 +18,7 @@ The Board shall advise, consult with, and make recommendations to the Secretary 
 
 Each appointed member of the Board shall hold office for a term of four years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which the predecessor of such member was appointed shall be appointed for the remainder of such term. None of the appointed members shall be eligible for reappointment within one year after the end of the preceding term of such member.
 
-(July 1, 1944, ch. 373, title IV, §466, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 859; amendedPub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XX, §2008(b)(11), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §466, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 859; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XX, §2008(b)(11), June 10, 1993, 107 Stat. 211.)
 
 #### Amendments
 

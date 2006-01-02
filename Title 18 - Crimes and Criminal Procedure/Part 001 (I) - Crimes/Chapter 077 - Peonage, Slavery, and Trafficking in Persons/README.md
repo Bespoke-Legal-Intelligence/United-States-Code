@@ -26,7 +26,7 @@ It was felt that further revision of this chapter should be considered at an opp
 
 #### Amendments
 
-2003—Pub. L. 108–193, §§4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted “PEONAGE, SLAVERY,AND TRAFFICKING IN PERSONS” for “PEONAGE AND SLAVERY” as chapter heading and added item 1595.
+2003—Pub. L. 108–193, §§4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted “PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS” for “PEONAGE AND SLAVERY” as chapter heading and added item 1595.
 
 2000—Pub. L. 106–386, div. A, §112(a)(3), Oct. 28, 2000, 114 Stat. 1489, added items 1589 to 1594.
 

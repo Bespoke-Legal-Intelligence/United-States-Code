@@ -116,11 +116,11 @@
 
 #### (B) Effect on earnings and profits
 
-&emsp;&emsp;For purposes of this chapter, the earnings and profits of a foreign corporation to which the intangible property was transferred shall be reduced by the amount required to be included in the income of the transferor of the intangible property under subparagraph (A)(ii).
+&emsp;&emsp;For purposes of this chapter, the earnings and profits of a foreign corporation to whichthe intangible property was transferred shall be reduced by the amount required to be included in the income of the transferor of the intangible property under subparagraph (A)(ii).
 
 #### (C) Amounts received treated as ordinary income
 
-&emsp;&emsp;For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income.
+&emsp;&emsp;For purposes of this chapter, any amount included in gross income by reason of this subsection shall be treated as ordinary income. For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty.
 
 #### (3) Regulations relating to transfers of intangibles to partnerships
 
@@ -144,13 +144,15 @@ To the extent provided in regulations, if a United States person transfers prope
 
 &emsp;(2) the adjusted basis (for purposes of determining gain) of such property in the hands of the transferor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, §1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, §1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, §213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, §631(d)(1), title XII, §1231(e)(2), title XVIII, §1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, §1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, §11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, §1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, §532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, §1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, §1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, §213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, §631(d)(1), title XII, §1231(e)(2), title XVIII, §1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, §1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, §11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, §1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, §532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §406(a), Oct. 22, 2004, 118 Stat. 1498.)
 
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 
 #### Amendments
+
+2004—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end “For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty.”
 
 1999—Subsec. (a)(3)(B)(i). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
 
@@ -192,6 +194,10 @@ Subsec. (c). Pub. L. 91–681 designated as subsec. (c) provisions relating to d
 
 Subsec. (d). Pub. L. 91–681 added subsec. (d).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §406(b), Oct. 22, 2004, 118 Stat. 1498, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts treated as received pursuant to section 367(d)(2) of the Internal Revenue Code of 1986 on or after August 5, 1997.”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
@@ -230,7 +236,7 @@ Special rule for certain transfers of intangibles.—
 
 &emsp;“(A)
 
-In general.—If, after June 6, 1984, and before January 1, 1985, a United States person transfers any intangible property (within the meaning of section 936(h)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a foreign corporation or in a transfer described in section 1491, such transfer shallbe treated for purposes of sections 367(a), 1492(2), and 1494(b) of such Code as pursuant to a plan having as 1 of its principal purposes the avoidance of Federal income tax.
+In general.—If, after June 6, 1984, and before January 1, 1985, a United States person transfers any intangible property (within the meaning of section 936(h)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a foreign corporation or in a transfer described in section 1491, such transfer shall be treated for purposes of sections 367(a), 1492(2), and 1494(b) of such Code as pursuant to a plan having as 1 of its principal purposes the avoidance of Federal income tax.
 
 &emsp;“(B)
 
@@ -258,13 +264,9 @@ Section 1(c) of Pub. L. 91–681, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 #### Applicability of Subsection (e)(2)
 
-Section 1006(e)(13)(C) of Pub. L. 100–647 provided that: “Section 367(e)(2) of the 1986 Code (as amended by the Reform Act \[Pub. L. 99–514\]) shall not apply in the case of any corporation completely liquidated before June 10, 1987, into a corporation organized in a country which has an income tax treaty with the United States.”
+Section 1006(e)(13)(C) of Pub. L. 100–647 provided that: “Section 367(e)(2) of the 1986 Code (as amended by theReform Act \[Pub. L. 99–514\]) shall not apply in the case of any corporation completely liquidated before June 10, 1987, into a corporation organized in a country which has an income tax treaty with the United States.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 721, 814, 936, 943, 953 of this title.
 

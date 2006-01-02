@@ -74,7 +74,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;(i) addresses State-specific information requests concerning assistive technology from entities funded under this chapter and public entities not funded under this chapter, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) requests for information on effective approaches to Federal-State coordination of programs for individuals with disabilities, related to improving funding for or access to assistive technology devices and assistive technology services for individuals with disabilities of all ages;
+&emsp;&emsp;&emsp;&emsp;(I) requests for information on effective approaches to Federal-State coordination of programs for individuals with disabilities, related to improving funding for or access to assistive technology devices and assistive technology servicesfor individuals with disabilities of all ages;
 
 &emsp;&emsp;&emsp;&emsp;(II) requests for state-of-the-art, or model, Federal, State, and local laws, regulations, policies, practices, procedures, and organizational structures, that facilitate, and overcome barriers to, funding for, and access to, assistive technology devices and assistive technology services;
 
@@ -82,7 +82,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(IV) requests for examples of policies, practices, procedures, regulations, or judicial decisions that have enhanced or may enhance access to funding for assistive technology devices and assistive technology services for individuals with disabilities;
 
-&emsp;&emsp;&emsp;&emsp;(V) requests for information on effective approaches to the development ofconsumer-controlled systems that increase access to, funding for, and awareness of, assistive technology devices and assistive technology services; and
+&emsp;&emsp;&emsp;&emsp;(V) requests for information on effective approaches to the development of consumer-controlled systems that increase access to, funding for, and awareness of, assistive technology devices and assistive technology services; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) other requests for training and technical assistance from entities funded under this chapter and public and private entities not funded under this chapter;
 
@@ -228,7 +228,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;(ii) experience in collecting and analyzing data associated with implementing required and discretionary activities;
 
-&emsp;&emsp;&emsp;(iii) expertise necessary to identify additional data elements needed to providecomprehensive reporting of State activities and outcomes; and
+&emsp;&emsp;&emsp;(iii) expertise necessary to identify additional data elements needed to provide comprehensive reporting of State activities and outcomes; and
 
 &emsp;&emsp;&emsp;(iv) experience in utilizing data to provide annual reports to State policymakers.
 

@@ -34,6 +34,9 @@
 | (a) | Request for consideration and determination. |
 | (b) | Time limitations. |
 | (c) | Failure to comply. |
+| (d) | Prior State actions relating to standard under section 2621(d)(11) to (13). |
+| (e) | Prior State actions relating to standard under section 2621(d)(14). |
+| (f) | Prior State actions relating to standard under section 2621(d)(15). |
 | [2623\.](Subchapter%20002%20%28II%29%20-%20Standards%20for%20Electric%20Utilities/%C2%A7%2002623%20-%20Adoption%20of%20certain%20standards.md) | Adoption of certain standards. |
 | (a) | Adoption of standards. |
 | (b) | Establishment. |
@@ -51,6 +54,7 @@
 | (f) | Information to consumers. |
 | (g) | Procedures for termination of electric service. |
 | (h) | Advertising. |
+| (i) | Time-based metering and communications. |
 | [2626\.](Subchapter%20002%20%28II%29%20-%20Standards%20for%20Electric%20Utilities/%C2%A7%2002626%20-%20Reports%20respecting%20standards.md) | Reports respecting standards. |
 | (a) | State authorities and nonregulated utilities. |
 | (b) | Secretary. |
@@ -93,6 +97,7 @@
 | (a) | Authority. |
 | (b) | Technical assistance. |
 | (c) | Appropriations. |
+| (d) | Demand response. |
 | [2643\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002643%20-%20Gathering%20information%20on%20costs%20of%20service.md) | Gathering information on costs of service. |
 | (a) | Information required to be gathered. |
 | (b) | Commission rules. |

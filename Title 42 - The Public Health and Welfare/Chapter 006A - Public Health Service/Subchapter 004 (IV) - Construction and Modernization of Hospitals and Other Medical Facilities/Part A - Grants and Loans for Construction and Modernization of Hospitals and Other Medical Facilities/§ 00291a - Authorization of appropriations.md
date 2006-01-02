@@ -20,7 +20,7 @@ In order to assist the States in carrying out the purposes of section 291 of thi
 
 A prior section 291a, act July 1, 1944, ch. 373, title VI, §611, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, authorized appropriations for surveys and planning, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 897; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, related to subject matter similar to thissection, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 897; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291p, act July 1, 1944, ch. 373, title VI, §646, as added July 12, 1954, ch. 471, §2, 68 Stat. 461, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -34,7 +34,7 @@ Subsec. (b). Pub. L. 93–45, §108(a)(2), authorized appropriations of $41,400,
 
 Subsec. (c). Pub. L. 93–45, §108(a)(3), authorized appropriations of $50,000,000 for fiscal year ending June 30, 1974.
 
-1970—Par. (a). Pub. L. 91–296, §§101(a)(1), (2), 116(a), substituted “outpatient facilities” for “diagnostic or treatment centers” in enumeration of facilities eligible for construction grants, extended through fiscal year ending June 30, 1973, authority to appropriate funds for construction grants, increased from $70,000,000 to $85,000,000 annual authority to make grants for public or other nonprofit facilities for long-term care, from $20,000,000 to $70,000,000 authority for public or other nonprofit outpatient facilities, and from $10,000,000 to $15,000,000 authority for public or other nonprofit rehabilitation facilities.
+1970—Par. (a). Pub. L. 91–296, §§101(a)(1), (2), 116(a), substituted “outpatient facilities” for “diagnostic or treatment centers” in enumeration of facilities eligible for construction grants, extended through fiscal year ending June 30, 1973, authority to appropriate funds for construction grants, increased from $70,000,000 to $85,000,000 annual authority to make grants for public or other nonprofit facilities for long-term care, from $20,000,000 to $70,000,000 authority for public or other nonprofit outpatient facilities, and from $10,000,000 to$15,000,000 authority for public or other nonprofit rehabilitation facilities.
 
 Par. (b). Pub. L. 91–296, §§101(a)(3), 102(a)(1), struck out provisions authorizing grants for modernization of facilities and inserted provisions authorizing appropriation of $147,500,000 for fiscal year ending June 30, 1971, $152,500,000 for fiscal year ending June 30, 1972, and $157,500,000 for fiscal year ending June 30, 1973, for grants for construction of public or other nonprofit hospitals and public health centers
 

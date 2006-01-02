@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Not later than 180 days after October 6, 1992, the Secretary of Energy shall submit to the Administrator and to the Governor of each State in which the Department of Energy stores or generates mixed wastes the following reports:
+&emsp;Not later than 180 days after October 6, 1992, the Secretary of Energy shall submit to the Administrator and to the Governor of each State in which the Department of Energystores or generates mixed wastes the following reports:
 
 &emsp;&emsp;(A) A report containing a national inventory of all such mixed wastes, regardless of the time they were generated, on a State-by-State basis.
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) Each plan shall contain the following:
 
-&emsp;&emsp;(i) For mixed wastes for which treatment technologies exist, a schedule for submitting all applicable permit applications, entering into contracts, initiating construction, conducting systems testing, commencing operations, and processing backlogged and currently generated mixed wastes.
+&emsp;&emsp;(i) For mixed wastes for which treatment technologies exist, a schedule for submitting all applicable permit applications, enteringinto contracts, initiating construction, conducting systems testing, commencing operations, and processing backlogged and currently generated mixed wastes.
 
 &emsp;&emsp;(ii) For mixed wastes for which no treatment technologies exist, a schedule for identifying and developing such technologies, identifying the funding requirements for the identification and development of such technologies, submitting treatability study exemptions, and submitting research and development permit applications.
 
@@ -86,7 +86,7 @@
 
 #### (3) Public participation
 
-&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, andbefore approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of the submitted plan and make such submitted plan available to the public on request.
+&emsp;Upon submission of a plan by the Secretary of Energy to the Administrator or a State, and before approval of the plan by the Administrator or a State, the Administrator or State shall publish a notice of the availability of the submitted plan and make such submitted plan available to the public on request.
 
 #### (4) Revisions of plan
 

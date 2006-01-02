@@ -208,7 +208,3 @@ Section 8033(c)(2) of Pub. L. 99–509 provided that: “If the Superfund Amendm
 
 #### “ ‘Sec. 9509. Oil Spill Liability Trust Fund.’ ”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 sections 1321, 2701, 2718.
-

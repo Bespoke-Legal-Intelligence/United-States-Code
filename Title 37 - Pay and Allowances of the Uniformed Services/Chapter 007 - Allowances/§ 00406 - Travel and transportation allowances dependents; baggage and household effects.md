@@ -32,7 +32,7 @@
 
 &emsp;(i) from the old duty station to—
 
-&emsp;&emsp;(I) the customary port of embarkation which is nearest the old duty station if delivery of the motor vehicle to the port of embarkation is not made in conjunctionwith the member's travel to the member's port of embarkation; or
+&emsp;&emsp;(I) the customary port of embarkation which is nearest the old duty station if delivery of the motor vehicle to the port of embarkation is not made in conjunction with the member's travel to the member's port of embarkation; or
 
 &emsp;&emsp;(II) the customary port of embarkation which is nearest to the member's port of embarkation if delivery of the motor vehicle to the port of embarkation is made in conjunction with the member's travel to the member's port of embarkation;
 
@@ -59,9 +59,9 @@
 | W–3 | 13,000 | 14,500 |
 | W–2 | 12,500 | 13,500 |
 | W–1 | 10,000 | 12,000 |
-| E–9 | 12,000 | 14,500 |
-| E–8 | 11,000 | 13,500 |
-| E–7 | 10,500 | 12,500 |
+| E–9 | 13,000 | 15,000 |
+| E–8 | 12,000 | 14,000 |
+| E–7 | 11,000 | 13,000 |
 | E–6 | &nbsp;8,000 | 11,000 |
 | E–5 | &nbsp;7,000 | &nbsp;9,000 |
 | E–4 | &nbsp;7,000 | &nbsp;8,000 |
@@ -75,7 +75,7 @@
 
 (F) A member entitled to transportation of baggage and household effects under subparagraph (A) may, as an alternative to the provision of transportation, be paid reimbursement or, at the member's request, a monetary allowance in advance for the cost of transportation of the baggage and household effects. The monetary allowance may be paid only if the amount of the allowance does not exceed the cost that would be incurred by the Government under subparagraph (A) for the transportation of the baggage and household effects. Appropriations available to the Department of Defense, the Department of Homeland Security, and the Department of Health and Human Services for providing transportation of baggage or household effects of members of the uniformed services shall be available to pay a reimbursement or monetary allowance under this subparagraph. The Secretary concerned may prescribe the manner in which the risk of liability for damage, destruction, or loss of baggage or household effects arranged, packed, crated, or loaded by a member is allocated among the member, the United States, and any contractor when a reimbursement or monetary allowance is elected under this subparagraph.
 
-(G) Under regulations prescribed by the Secretary of Defense, the Secretary concerned may pay a member a share (determined pursuant to such regulations) of the savings resulting to the United States when the total weights of the member's baggage and household effects shipped and stored under subparagraph (A) are less than the average weights of the baggage and household effects that are shipped and stored, respectively, by other members in the same grade and with the same dependents status as the member in connection with changes of station that are comparable to the member's change of station. The total savings shall be equal to the difference between the cost of shipping and cost of storing such average weights of baggage and householdeffects, respectively, and the corresponding costs associated with the weights of the member's baggage and household effects. For the administration of this subparagraph, the Secretary of Defense shall annually determine the average weights of baggage and household effects shipped and stored in connection with a change of temporary or permanent station.
+(G) Under regulations prescribed by the Secretary of Defense, the Secretary concerned may pay a member a share (determined pursuant to such regulations) of the savings resulting to the United States when the total weights of the member's baggage and household effects shipped and stored under subparagraph (A) are less than the average weights of the baggage and household effects that are shipped and stored, respectively, by other members in the same grade and with the same dependents status as the member in connection with changes of station that are comparable to the member's change of station. The total savings shall be equal to the difference between the cost of shipping and cost of storing such average weights of baggage and household effects, respectively, and the corresponding costs associated with the weights of the member's baggage and household effects. For the administration of this subparagraph, the Secretary of Defense shall annually determine the average weights of baggage and household effects shipped and stored in connection with a change of temporary or permanent station.
 
 (2) The transportation and allowances authorized under paragraph (1) may be paid or provided to a member upon his separation from the service or release from active duty only if the member applies for the transportation and allowances not later than 180 days after the date of his separation or release from active duty. If a member to whom this paragraph applies has been authorized nontemporary storage under subsection (d), the 180-day period shall not begin until such authorization for nontemporary storage expires. This paragraph does not apply to a member to whom subsection (g)(1) applies.
 
@@ -105,7 +105,9 @@
 
 &emsp;(3) the member is serving on permanent duty at a station outside the United States, in Hawaii or Alaska, or on sea duty.
 
-(f) Under regulations prescribed by the Secretary concerned, transportation for dependents, baggage, and household effects of a member, plus a per diem for the member's dependents, is authorized if he dies while entitled to basic pay under chapter 3 of this title.
+(f)(1) Under regulations prescribed by the Secretary concerned, transportation for dependents, baggage, and household effects of a member, plus a per diem for the member's dependents, is authorized if the member dies while entitled to basic pay under chapter 3 of this title.
+
+(2) The Secretary concerned shall give the dependents of a member described in paragraph (1) a period of not less than three years, beginning on the date of the death of the member, duringwhich to select a home for the purposes of the travel and transportation allowances authorized by this section.
 
 (g)(1) Under uniform regulations prescribed by the Secretaries concerned, a member who—
 
@@ -119,7 +121,7 @@
 
 (2) If baggage and household effects of a member are shipped to a place selected by a member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title or to a location other than the home selected by the member, or if transportation is provided for a member's dependents to a place selected by the member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title, and the costs of that shipment or transportation are in excess of those that would have been incurred if the shipment had been made or the transportation had been provided to a location in the United States (other than Alaska or Hawaii), the member shall pay that excess cost.
 
-(3) If a member authorized to select a home under section 404(c) of this title accrues that right or any entitlement under this subsection but dies before he exercises it, that right or entitlement accrues to and may be exercised by his surviving dependents or, if there are no surviving dependents, his baggage and household effects may be shipped to the home of the person legally entitled to such baggage and effects. However, if baggage and household effects are shipped under circumstances described in paragraph (2) in which the member would have been required to pay the excess costs of that shipment, the surviving dependents or the person legally entitled to the baggage and household effects, as the case may be, shall pay that excess cost.
+(3) If a member authorized to select a home under section 404(c) of this title accrues that right or any entitlement under this subsection but dies before the member exercises the right or entitlement, that right or entitlement accrues to and may be exercised by the surviving dependents at any time before the end of the three-year period beginning on the date on which the member accrued that right or entitlement. If there are no surviving dependents, the baggage and household effects of the deceased member may be shipped to the home of the person legally entitled to such baggage and effects. However, if baggage and household effects are shipped under circumstances described in paragraph (2) in which the member would have been required to pay the excess costs of that shipment, the surviving dependents or the person legally entitled to the baggage and household effects, as the case may be, shall pay that excess cost.
 
 (h)(1) If the Secretary concerned determines that it is in the best interests of a member described in paragraph (2) or the member's dependents and the United States, the Secretary may, when orders directing a change of permanent station for the member concerned have not been issued, or when they have been issued but cannot be used as authority for the transportation of the member's dependents, baggage, and household effects—
 
@@ -143,7 +145,7 @@
 
 &emsp;&emsp;(iii) to be dismissed from a uniformed service.
 
-(3) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this subsection does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the member for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
+(3) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this subsection does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the member for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
 
 (4)(A) If a determination described in subparagraph (B) is made with respect to a dependent of a member described in that subparagraph and a request described in subparagraph (C) is made by or on behalf of that dependent, the Secretary may provide a benefit authorized for a member under paragraph (1) or (3) to that dependent in lieu of providing such benefit to the member.
 
@@ -171,7 +173,7 @@
 
 (<i>l</i>) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §571, title VI, §631(b), Nov. 24, 2003, 117 Stat. 1484, 1508.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §571, title VI, §631(b), Nov. 24, 2003, 117 Stat. 1484, 1508; Pub. L. 109–163, div. A, title VI, §§652, 654(a), Jan. 6, 2006, 119 Stat. 3312, 3313.)
 
 Historical and Revision Notes<br>1962
 
@@ -297,6 +299,12 @@ July 1, 1937, ch. 423, 50 Stat. 448.
 
 #### Amendments
 
+2006—Subsec. (b)(1)(C). Pub. L. 109–163, §654(a), in table, increased the weight allowances for pay grades E–7, E–8, and E–9. Prior to amendment, the weight allowances for members without dependents and for members with dependents, respectively, were 10,500 and 12,500 for pay grade E–7, 11,000 and 13,500 for pay grade E–8, and 12,000 and 14,500 for pay grade E–9.
+
+Subsec. (f). Pub. L. 109–163, §652(a), designated existing provisions as par. (1), substituted “the member” for “he”, and added par. (2).
+
+Subsec. (g)(3). Pub. L. 109–163, §652(b), in first sentence, substituted “the member exercises the right or entitlement” for “he exercises it”, “the surviving dependents at any time before the end of the three-year period beginning on the date on which the member accrued that right or entitlement. If” for “his surviving dependents or, if”, and “the baggage and household effects of the deceased member” for “his baggage and household effects”.
+
 2003—Subsec. (b)(1)(B). Pub. L. 108–136, §631(b), inserted last sentence.
 
 Subsec. (h)(4). Pub. L. 108–136, §571, added par. (4).
@@ -305,7 +313,7 @@ Subsec. (h)(4). Pub. L. 108–136, §571, added par. (4).
 
 2001—Subsec. (a)(1). Pub. L. 107–107, §633(a), substituted “$550” for “$275”.
 
-Subsec. (b)(1)(C). Pub. L. 107–107, §634(a), in table, struck out footnotes relating to pay grade E–4 and increased the weight allowances for pay grades E–1, E–2, E–3, and E–4. Prior to amendment, the weight allowances for members with dependents and for members without dependents, respectively, were 1,500 and 5,000 for pay grade E–1, 1,500 and 5,000 for pay grade E–2, 2,000 and 5,000 for pay grade E–3, 3,500 and 7,000 for pay grade E–4 members with less than two years of service, and 7,000 and 8,000 for E–4 members with more than two years of service.
+Subsec. (b)(1)(C). Pub. L. 107–107, §634(a), in table, struck out footnotes relating to pay grade E–4 and increased the weight allowances for pay grades E–1, E–2, E–3, and E–4. Prior to amendment, the weight allowances for members without dependents and for members with dependents, respectively, were 1,500 and 5,000 for pay grade E–1, 1,500 and 5,000 for pay grade E–2, 2,000 and 5,000 for pay grade E–3, 3,500 and 7,000 for pay grade E–4 members with less than two years of service, and 7,000 and 8,000 for E–4 members with more than two years of service.
 
 2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §642(a)\], inserted at end “The Secretary concerned may also reimburse the member for mandatory pet quarantine fees for household pets, but not to exceed $275 per change of station, when the member incurs the fees incident to such change of station.”
 
@@ -459,7 +467,7 @@ Subsec. (a)(1). Pub. L. 97–86, §404(1), struck out “and subsection (i) of t
 
 Subsec. (b). Pub. L. 97–60, §121(b)(2), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) of this subsection, in” for “In”, inserted provision relating to temporary storage in excess of 180 days and to monetary allowances in the case of the transportation of motor vehicles in cases in which transportation is authorized under section 2634 of title 10, and added par. (2).
 
-Subsec. (g). Pub. L. 97–60, §121(b)(3), designated existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B) thereof, struck out provisions following par. (1)(B), that, in any case in which the costs were in excess of those which would have been incurred if shipment had been made to his selected home, the member paid that excess cost, that if a member authorized to select a home under section 404(c) of this title accrued that right or any entitlement under this subsection but died before he exercised it, that right or entitlement accrued to and could be exercised by his surviving dependents, or his baggage and household effects could be shipped to the home of the person legally entitled thereto if there were no surviving dependents, and that, in any case in which the costs were in excess of those which would have been incurred if shipment had been made to the member's selected home, the surviving dependents or the person legally entitled to the baggage and household effects, as the case may be, paid that excess cost, and added pars. (2) and (3).
+Subsec. (g). Pub. L. 97–60, §121(b)(3), designated existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B) thereof, struck out provisions following par. (1)(B), that, in any case in which the costs were in excess of those which would have been incurred if shipment had been made to his selected home, the member paid that excess cost, that if a member authorized to select a home under section 404(c) of this title accrued that right or any entitlement under this subsection but died before he exercised it, that right or entitlement accrued to and could be exercised by his surviving dependents, or his baggage and household effects could be shipped to the home of the person legally entitled thereto if there were no surviving dependents, and that, in any case in which the costs were in excess of those which would have been incurred if shipmenthad been made to the member's selected home, the surviving dependents or the person legally entitled to the baggage and household effects, as the case may be, paid that excess cost, and added pars. (2) and (3).
 
 Subsec. (h). Pub. L. 97–86, §404(2), substituted “In the case of a member” for “Except as provided in subsection (i) of this section, in the case of a member”.
 
@@ -488,6 +496,10 @@ Pub. L. 89–680, §1(3), inserted, in authorization for transportation for depe
 1965—Subsec. (h)(2). Pub. L. 89–101 substituted “by means of transportation authorized under section 2634 of title 10” for “on a vessel owned, leased, or chartered by the United States or by privately owned American shipping services”.
 
 1964—Subsec. (h). Pub. L. 88–431 added subsec. (h).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title VI, §654(b), Jan. 6, 2006, 119 Stat. 3313, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2006, and apply with respect to an order in connection with a change of temporary or permanent station issued on or after that date.”
 
 #### Effective Date of 2002 Amendment
 
@@ -531,7 +543,7 @@ Section 622(b) of Pub. L. 101–510 provided that: “The amendment made by subs
 
 #### Effective Date of 1989 Amendment
 
-Section 623(c) of Pub. L. 101–189 provided that: “The authority provided in subparagraph (D) \[37 U.S.C. 406(b)(1)(D)\], as added by subsection (a), shall apply with respect to the transportation of baggage and household effects occurring after June 30, 1989.”
+Section 623(c) of Pub. L. 101–189 provided that: “The authority provided in subparagraph (D) \[37 U.S.C. 406(b)(1)(D)\], as added by subsection (a), shall applywith respect to the transportation of baggage and household effects occurring after June 30, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -601,7 +613,7 @@ Section 614(c) of Pub. L. 99–145 prohibited payment of allowances to members b
 
 #### Allowances for Labor in Connection With Transportation of Members’ Baggage and Effects; Report to Congress
 
-Section 614(d) of Pub. L. 99–145 required Secretary of Defense to submit a report to Congress not later than Sept. 30, 1988, regarding the operation of any program carried out by the military departments under which payment of a monetary allowance is made to a member who provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member and to include recommendations for legislative action the Secretary considers appropriate.
+Section 614(d) of Pub. L. 99–145 required Secretary of Defense to submit a report to Congress not later than Sept. 30, 1988, regarding the operation of any program carried out by the military departments under which payment of a monetary allowance is made to a memberwho provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member and to include recommendations for legislative action the Secretary considers appropriate.
 
 #### Monetary Allowance in Lieu of Transportation of Household Effects
 

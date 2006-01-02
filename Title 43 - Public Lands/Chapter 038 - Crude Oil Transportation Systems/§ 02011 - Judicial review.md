@@ -22,3 +22,7 @@ An action under subsection (b) of this section shall be barred unless a petition
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
+#### Definitions
+
+The definition of “State” in section 2602 of Title 16, Conservation, applies to this section.
+

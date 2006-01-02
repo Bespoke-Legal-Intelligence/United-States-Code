@@ -14,7 +14,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (d) Collection of fees
 
-The Administration shall not collect a fee for any guarantee under this section: <i>Provided</i>, Thatnothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
+The Administration shall not collect a fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
 
 #### (e) Subrogation rights; ownership rights in debentures or participating securities
 
@@ -28,7 +28,7 @@ The Administration shall not collect a fee for any guarantee under this section:
 
 (2) The Administrator shall contract with an agent or agents to carry out on behalf of the Administration the pooling and the central registration functions of this section including, notwithstanding any other provision of law, maintenance on behalf of and under the direction of the Administration, such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate trusts or pools backed by debentures or participating securities guaranteed under this chapter, and the issuance of trust certificates to facilitate such poolings. Such agent or agents shall provide a fidelity bond or insurance in such amounts as the Administration determines to be necessary to fully protect the interests of the Government.
 
-(3) Prior to any sale, the Administrator shall require the seller to disclose to a purchaser of a trust certificate issued pursuant to this section, information on the terms, conditions, and yield of such instrument.
+(3) Prior to any sale, the Administrator shall require the seller to disclose to a purchaser of atrust certificate issued pursuant to this section, information on the terms, conditions, and yield of such instrument.
 
 (4) The Administrator is authorized to regulate brokers and dealers in trust certificates sold pursuant to this section.
 
@@ -90,5 +90,5 @@ Section 18005(b) of Pub. L. 99–272 provided that:
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 
-Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or tootherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
+Nothing in amendment by Pub. L. 102–366 to be construed to affect applicability of securities laws or to otherwise supersede or limit jurisdiction of Securities and Exchange Commission, see section 418 of Pub. L. 102–366, set out as a note under section 661 of this title.
 

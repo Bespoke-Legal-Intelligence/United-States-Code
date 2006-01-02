@@ -34,7 +34,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (4) Coverage year defined
 
-&emsp;For purposes of this section, the term “coverage year” means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) ismade not later than such period after the end of such year as the Secretary specifies.
+&emsp;For purposes of this section, the term “coverage year” means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) is made not later than such period after the end of such year as the Secretary specifies.
 
 #### (c) Adjustments relating to bids
 
@@ -112,7 +112,7 @@ In order to reduce premium levels applicable to qualified prescription drug cove
 
 #### (B) Allowable risk corridor costs
 
-&emsp;&emsp;For purposes of this subsection, the term “allowable risk corridor costs” means, withrespect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
+&emsp;&emsp;For purposes of this subsection, the term “allowable risk corridor costs” means, with respect to a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of costs (not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year) incurred by the sponsor or organization under the plan that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were basic prescription drug coverage taking into account the adjustment under section 1395w–111(c)(2) of this title. In computing allowable costs under this paragraph, the Secretary shall compute such costs based upon imposition under paragraphs (1)(D) and (2)(E) of section 1395w–114(a) of this title of the maximum amount of copayments permitted under such paragraphs.
 
 #### (2) Adjustment of payment
 

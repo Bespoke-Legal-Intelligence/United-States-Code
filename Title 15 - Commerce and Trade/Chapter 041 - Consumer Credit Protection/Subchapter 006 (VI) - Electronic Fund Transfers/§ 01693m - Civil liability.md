@@ -40,7 +40,7 @@ A person has no liability under this section for any failure to comply with any 
 
 #### (f) Action in bad faith or for harassment; attorney's fees
 
-On a finding by the court that an unsuccessful action under this section was brought in bad faith or for purposes of harassment, the court shall award to the defendant attorney's fees reasonable in relation to the work expended and costs.
+On a finding by the court that an unsuccessful action under this section was brought in badfaith or for purposes of harassment, the court shall award to the defendant attorney's fees reasonable in relation to the work expended and costs.
 
 #### (g) Jurisdiction of courts; time for maintenance of action
 

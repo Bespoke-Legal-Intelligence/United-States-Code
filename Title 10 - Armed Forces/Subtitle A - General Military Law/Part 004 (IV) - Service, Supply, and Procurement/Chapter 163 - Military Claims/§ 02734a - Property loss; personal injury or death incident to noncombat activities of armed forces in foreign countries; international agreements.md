@@ -52,7 +52,7 @@ In subsection (c), the words “pro rata” are omitted as surplusage. The follo
 
 Subsec. (d). Pub. L. 101–510, §1481(j)(4)(B)(ii), substituted “appropriations as provided in section 2732 of this title” for “the appropriation for claims of the Department of Defense”.
 
-1984—Pub. L. 98–525 substituted “in foreign countries” for “; foreign coun-countries” in section catchline.
+1984—Pub. L. 98–525 substituted “in foreign countries” for “; foreign countries” in section catchline.
 
 1976—Subsec. (a). Pub. L. 94–390 substituted provisions authorizing the Secretary of Defense or the Secretary of Transportation to reimburse or pay, including arbitration costs, claims arising under international agreements to which the United States is a party and providing for settlement or adjudication and cost sharing based on the responsibility of the United States under the law of the other party to the international agreement, for provisions authorizing the Secretary of Defense to reimburse or pay claims arising under international agreements to which the United States is a party and providing for adjudication by the other country under its laws and regulations.
 
@@ -63,8 +63,4 @@ Subsec. (d). Pub. L. 90–521, §4(b), added subsec. (d).
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2735 of this title.
 

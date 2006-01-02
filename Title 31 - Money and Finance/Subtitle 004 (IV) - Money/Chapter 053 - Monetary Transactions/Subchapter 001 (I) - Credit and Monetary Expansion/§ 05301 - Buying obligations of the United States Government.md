@@ -44,7 +44,7 @@ In subsection (b), before clause (1), the words “(and the Board is authorized 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6201, Dec. 17, 2004, 118 Stat. 3745, provided that: “This subtitle \[subtitle C (§§6201–6205) of title VI of Pub. L. 108–458, amending sections 310, 5312, 5318, 5318A, 5324, and 5332 of this title, sections 1828, 1829b, and 1953 of Title 12, Banks and Banking, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, enacting provisions set out as a noteunder section 1828 of Title 12, amending provisions set out as notes under sections 310, 5311, and 5331 of this title and sections 1828 and 1842 of Title 12, and repealing provisions set out as a note under section 5311 of this title\] may be cited as the ‘International Money Laundering Abatement and Financial Antiterrorism Technical Corrections Act of 2004’.”
+Pub. L. 108–458, title VI, §6201, Dec. 17, 2004, 118 Stat. 3745, provided that: “This subtitle \[subtitle C (§§6201–6205) of title VI of Pub. L. 108–458, amending sections 310, 5312, 5318, 5318A, 5324, and 5332 of this title, sections 1828, 1829b, and 1953 of Title 12, Banks and Banking, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, enacting provisions set out as a note under section 1828 of Title 12, amending provisions set out as notes under sections 310, 5311, and 5331 of this title and sections 1828 and 1842 of Title 12, and repealing provisions set out as a note under section 5311 of this title\] may be cited as the ‘International Money Laundering Abatement and Financial Antiterrorism Technical Corrections Act of 2004’.”
 
 #### Short Title of 2001 Amendment
 

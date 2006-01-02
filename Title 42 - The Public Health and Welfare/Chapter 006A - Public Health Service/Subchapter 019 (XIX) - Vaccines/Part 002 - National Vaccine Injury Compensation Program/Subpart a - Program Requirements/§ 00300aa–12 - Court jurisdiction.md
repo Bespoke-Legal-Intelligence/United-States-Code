@@ -6,7 +6,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (b) Parties
 
-(1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title,the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
+(1) In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.
 
 (2) Within 30 days after the Secretary receives service of any petition filed under section 300aa–11 of this title the Secretary shall publish notice of such petition in the Federal Register. The special master designated with respect to such petition under subsection (c) of this section shall afford all interested persons an opportunity to submit relevant, written information—
 
@@ -42,7 +42,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (1) Following the receipt and filing of a petition under section 300aa–11 of this title, the clerk of the United States Court of Federal Claims shall forward the petition to the chief special master who shall designate a special master to carry out the functions authorized by paragraph (3).
 
-(2) The special masters shall recommend rules to the Court of Federal Claims and, taking into account such recommended rules, the Court of Federal Claims shall promulgate rules pursuant to section 2071 of title 28. Such rules shall—
+(2) The special masters shall recommend rules to the Court of Federal Claims and, taking into account such recommended rules, the Court ofFederal Claims shall promulgate rules pursuant to section 2071 of title 28. Such rules shall—
 
 &emsp;(A) provide for a less-adversarial, expeditious, and informal proceeding for the resolution of petitions,
 
@@ -108,7 +108,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 > The court shall complete its action on a petition within 120 days of the filing of a response under paragraph (1) excluding any days the petition is before a special master as a result of a remand under subparagraph (C). The court may allow not more than 90 days for remands under subparagraph (C).
 
-(3) In the absence of a motion under paragraph (1) respecting the special master's decision or if the United States Court of Federal Claims takes the action described in paragraph (2)(A) with respect to the special master's decision, the clerk of the United States Court of Federal Claims shall immediately enter judgment in accordance with the special master's decision.
+(3) In the absence of a motion under paragraph (1) respecting the special master's decision or if the United States Court of Federal Claims takes the action described in paragraph (2)(A) with respect to the special master's decision, the clerk of the United States Court of Federal Claimsshall immediately enter judgment in accordance with the special master's decision.
 
 #### (f) Appeals
 
@@ -118,7 +118,7 @@ The findings of fact and conclusions of law of the United States Court of Federa
 
 If—
 
-&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and\(B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
+&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) of this section (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section), or
 
 &emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D) of this section, and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C) of this section) after the date on which the petition was filed,
 
@@ -176,7 +176,7 @@ Subsec. (e). Pub. L. 101–239, §6601(h), substituted “Action by United State
 
 Pub. L. 101–239, §6601(e)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–239, §6601(i), inserted “within 60 days of the date of entry of the United States Claims Court's judgment with such court of appeals” after “with such court of appeals”.
+Subsec. (f). Pub. L. 101–239, §6601(i), inserted “within 60 days of the date of entry of the United States ClaimsCourt's judgment with such court of appeals” after “with such court of appeals”.
 
 Pub. L. 101–239, §6601(e)(1), redesignated subsec. (e) as (f).
 

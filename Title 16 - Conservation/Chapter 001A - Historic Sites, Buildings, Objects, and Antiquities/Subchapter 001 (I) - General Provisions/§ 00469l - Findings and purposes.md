@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(4) The Underground Railroad Advisory Committee found that—
 
-&emsp;&emsp;(A) although a few elements of the Underground Railroad story are represented in existing National Park Service units and other sites, many sites are in imminent danger of being lost or destroyed, and many important resource types are not adequately represented and protected;
+&emsp;&emsp;(A) although a few elements of the Underground Railroad story are represented in existing National Park Service units and other sites, many sites are in imminent danger ofbeing lost or destroyed, and many important resource types are not adequately represented and protected;
 
 &emsp;&emsp;(B) there are many important sites which have high potential for preservation and visitor use in 29 States, the District of Columbia, and the Virgin Islands;
 

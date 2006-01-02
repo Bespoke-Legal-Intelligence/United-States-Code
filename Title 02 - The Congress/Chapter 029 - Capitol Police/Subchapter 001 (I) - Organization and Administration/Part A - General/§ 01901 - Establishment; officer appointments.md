@@ -88,11 +88,11 @@ Assistance of Comptroller General.—Upon request, the Comptroller General shall
 
 References in Law; Effect on Other Laws.—(1) Any reference in any law or resolution in effect as of the date of the enactment of this Act \[Feb. 20, 2003\] to the ‘Capitol Police Board’ shall be deemed to refer to the Capitol Police Board as composed under subsection (a)(2).
 
-“(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein.”
+“(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of theCapitol Police Board or its individual members unless specifically provided herein.”
 
 #### Transfer of Library of Congress Police to Capitol Police
 
-Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179, provided that:
+Pub. L. 108–83, title I, §1006, Sept. 30, 2003, 117 Stat. 1023, as amended by Pub. L. 108–447, div. G, title I, §1002, Dec. 8, 2004, 118 Stat. 3179; Pub. L. 109–55, title I, §1006(a), Aug. 2, 2005, 119 Stat. 576, provided that:
 
 “(a)
 
@@ -155,6 +155,14 @@ Limitation for fiscal year 2005.—During fiscal year 2005, the number of indivi
 &emsp;&emsp;&emsp;“(i) the number of Library of Congress Police employees who separated from service or transferred to a position other than a Library of Congress Police employee position during fiscal year 2004 for whom a corresponding hire was not made under this subsection; and
 
 &emsp;&emsp;&emsp;“(ii) the number of Library of Congress Police employees who separate from service or transfer to a position other than a Library of Congress Police employee position during fiscal year 2005.
+
+&emsp;&emsp;“(E)
+
+Limitation for fiscal year 2006.—During fiscal year 2006, the number of individuals hired under this subsection may not exceed—
+
+&emsp;&emsp;&emsp;“(i) the number of Library of Congress Police employees who separated from service or transferred to a position other than a Library of Congress Police employee position during fiscal year 2005 for whom a corresponding hire was not made under this subsection; and
+
+&emsp;&emsp;&emsp;“(ii) the number of Library of Congress Police employees who separate from service or transfer to a position other than a Library of Congress Police employee position during fiscal year 2006.
 
 &emsp;“(4)
 

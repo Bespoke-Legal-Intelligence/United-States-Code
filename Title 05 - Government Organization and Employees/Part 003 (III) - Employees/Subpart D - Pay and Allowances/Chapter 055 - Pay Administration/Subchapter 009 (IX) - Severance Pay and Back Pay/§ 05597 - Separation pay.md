@@ -112,7 +112,7 @@ Section 1612(b) of Pub. L. 104–201 provided that: “The amendment made by sub
 
 #### Limitations for Fiscal Years 2002 and 2003 on VSIP and VERA
 
-Pub. L. 106–398, §1 \[\[div. A\], title XI, §1153(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–323, as amended by Pub. L. 107–107, div. A, title XI, §1133(a), Dec. 28, 2001, 115 Stat. 1244, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title XI, §1153(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–323, as amended by Pub. L.107–107, div. A, title XI, §1133(a), Dec. 28, 2001, 115 Stat. 1244, provided that:
 
 “The Secretary of Defense shall ensure that, in fiscal year 2002 not more than 2000 employees of the Department of Defense are, and in fiscal year 2003 not more than 6000 employees of the Department of Defense are, as a result of workforce restructuring, separated from service entitled to one or more of the following benefits:
 
@@ -180,7 +180,7 @@ First method.—The amount required under this subparagraph shall be determined 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) The amount equal to 8 percent of the final basic pay of each employee described in paragraph (2) who retires on an immediate annuity under section 8412 of such title 5.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) The amount equal to 211 percent of the final basic pay of each employee described in paragraph (2), who is covered by chapter 84 of such title 5, and who resigns
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) The amount equal to 211 percent of the final basic pay of each employee described in paragraph (2), who is covered by chapter 84 of such title 5, and who resigns.
 
 &emsp;&emsp;“(B)
 
@@ -248,9 +248,9 @@ Pub. L. 106–58, title IV, §411, Sept. 29, 1999, 113 Stat. 456, as amended by 
 
 Pub. L. 105–206, title I, §1202, July 22, 1998, 112 Stat. 719, authorized Commissioner of Internal Revenue to pay voluntary separation incentive payments to any qualifying employee of the Internal Revenue Service who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2003, provided for pertinent definitions, additional Internal Revenue Service contributions to the Retirement Fund, effect of subsequent employment with the Government, and effect on Internal Revenue Service employment levels.
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, as amended by Pub. L. 105–78, title V, §517, Nov. 13, 1997, 111 Stat. 1519; Pub. L. 106–113, div. B, §1000(a)(4) \[title V, §515\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276, authorized Railroad Retirement Board and Office of Inspector General of Railroad Retirement Board to provide voluntary separation incentive payments to any qualifying employee who voluntarily separated (whether by retirement or resignation) before Mar. 31, 2000, directed the Railroad Retirement Board, prior to obligating any resources for voluntary separation incentive payments, to submit to Congress a strategic plan outlining intended use of such incentive payments and a proposed organizationalchart for agency once such incentive payments have been completed, and further provided for pertinent definitions, additional contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
+Pub. L. 104–208, div. A, title I, §101(e) \[title V, §520\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–272, as amended by Pub. L. 105–78, title V, §517, Nov. 13, 1997, 111 Stat. 1519; Pub. L. 106–113, div. B, §1000(a)(4) \[title V, §515\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276, authorized Railroad Retirement Board and Office of Inspector General of Railroad Retirement Board to provide voluntary separation incentive payments to any qualifying employee who voluntarily separated (whether by retirement or resignation) before Mar. 31, 2000, directed the Railroad Retirement Board, prior to obligating any resources for voluntary separation incentive payments, to submit to Congress a strategic plan outlining intended use of such incentive payments and a proposed organizational chart for agency once such incentive payments have been completed, and further provided for pertinent definitions, additional contributions to the Retirement Fund, effect of subsequent employment with the Government, reduction of agency employment levels, and that program would take effect Oct. 1, 1996.
 
-Pub. L. 106–65, div. C, title XXXI, §3161, Oct. 5, 1999, 113 Stat. 942, as amended by Pub. L. 107–107, div. C, title XXXI, §3153(a), Dec. 28, 2001, 115 Stat. 1377, provided that notwithstanding section 101(f) \[title VI, §663(c)(2)(D)\] of Public Law 104–208, set out below, Department of Energy could pay voluntary separation incentive payments under such section 663 to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2004, and that not later than Mar. 15, 2000, Secretary of Energy was to submit to Director of Office of Personnel Management and Congress a report describing how the Department has paid voluntary separation payments under such section 663.
+Pub. L. 106–65, div. C, title XXXI, §3161, Oct. 5, 1999, 113 Stat. 942, as amended by Pub. L. 107–107, div. C, title XXXI, §3153(a), Dec. 28, 2001, 115 Stat. 1377, provided that notwithstanding section 101(f) \[title VI, §663(c)(2)(D)\] of Public Law 104–208, set out below, Department of Energy could pay voluntary separation incentive payments under such section 663 to qualifying employees who voluntarily separated (whether by retirement or resignation) before Jan. 1, 2004, and that not later than Mar. 15, 2000, Secretary of Energy was to submit to Director of Office of Personnel Management and Congress a report describing how the Departmenthas paid voluntary separation payments under such section 663.
 
 \[Pub. L. 107–107, div. C, title XXXI, §3153(b), Dec. 28, 2001, 115 Stat. 1377, provided that: “The amendment made by subsection (a) \[amending section 3161 of Pub. L. 106–65, set out above\] may be superseded by another provision of law that takes effect after the date of the enactment of this Act \[Dec. 28, 2001\], and before January 1, 2004, establishing a uniform system for providing voluntary separation incentives (including a system for requiring approval of plans by the Office of Management and Budget) for employees of the Federal Government.”\]
 
@@ -348,9 +348,7 @@ Reduction of Agency Employment Levels.—
 
 &emsp;“(1)
 
-In general.—The total number of funded employee positions in the agency shall be reduced by one position for each vacancy created by the separation of any employee who
-
-has received, or is due to receive, a voluntary separation incentive payment under this section. For the purposes of this subsection, positions shall be counted on a full-time-equivalent basis.
+In general.—The total number of funded employee positions in the agency shall be reduced by one position for each vacancy created by the separation of any employee who has received, or is due to receive, a voluntary separation incentive payment under this section. For the purposes of this subsection, positions shall be counted on a full-time-equivalent basis.
 
 &emsp;“(2)
 
@@ -388,7 +386,7 @@ Section 6 of Pub. L. 103–226 provided that: “No later than December 31st of 
 
 &emsp;&emsp;“(B) the geographic location of such employee's official duty station, by region, State, and city (or foreign nation, if applicable); and
 
-&emsp;“(4)(A) the number of waivers made (in the repayment upon subsequent employment) by each agency or other authority under section 3 \[set out above\] or the amendments made by section 8 \[amending thissection and provisions set out as a note under section 403–4 of Title 50, War and National Defense\]; and
+&emsp;“(4)(A) the number of waivers made (in the repayment upon subsequent employment) by each agency or other authority under section 3 \[set out above\] or the amendments made by section 8 \[amending this section and section 403x of Title 50, War and National Defense\]; and
 
 &emsp;“(B) the title and the grade or pay level of the position filled by the employee to whom such waiver applied.”
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) are owned separately by two or more owners.
 
-(b)(1)(A) Whenever the interest of the United States in a tract of real property or easementreferred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of the real property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
+(b)(1)(A) Whenever the interest of the United States in a tract of real property or easement referred to in subsection (a) is available for disposition under this section, the Administrator shall transmit a notice of the availability of the real property or easement to each person described in subsection (a)(2)(D)(i) who owns lands adjacent to that real property or easement.
 
 (B) The Administrator shall convey, for fair market value, the interest of the United States in a tract of land referred to in subsection (a), or in any easement in connection with such a tract of land, to any person or persons described in subsection (a)(2)(D)(i) who, with respect to such land, are ready, willing, and able to purchase such interest for the fair market value of such interest.
 
@@ -38,7 +38,7 @@
 
 (g) If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
-(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, §3(b)(40), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, §4(b)(7), Dec. 15, 2003, 117 Stat. 2641.)
+(Added Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, §2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, §3(b)(40),Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, §4(b)(7), Dec. 15, 2003, 117 Stat. 2641.)
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 In this subchapter, “aeronautics”, “air commerce”, and “air navigation facility” have the same meanings given those terms in section 40102(a) of this title.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(8), July 5, 1994, 108 Stat. 1376; Pub. L. 103–429, §6(2), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2422; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(8), July 5, 1994, 108 Stat. 1376; Pub. L. 103–429, §6(2), Oct. 31, 1994, 108 Stat. 4378.)
 
 Historical and Revision Notes
 

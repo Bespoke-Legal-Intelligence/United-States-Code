@@ -12,12 +12,23 @@
 | [2608\.](%C2%A7%2002608%20-%20Acceptance%20of%20contributions%20for%20defense%20programs%2C%20projects%2C%20and%20activities%3B%20Defense%20Cooperation%20Account.md) | Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account. |
 | \[2609. | Repealed.\] |
 | [2610\.](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md) | Competitions for excellence: acceptance of monetary awards. |
-| [2611\.](%C2%A7%2002611%20-%20Asia-Pacific%20Center%20for%20Security%20Studies%20acceptance%20of%20gifts%20and%20donations.md) | Asia-Pacific Center for Security Studies: acceptance of gifts and donations. |
+| [2611\.](%C2%A7%2002611%20-%20Regional%20centers%20for%20security%20studies%20acceptance%20of%20gifts%20and%20donations.md) | Regional centers for security studies: acceptance of gifts and donations. |
 | [2612\.](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md) | National Defense University: acceptance of gifts. |
+| 2613\.<sup>1</sup> | Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 2613\.<sup>1</sup> | Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title IX, §903(a)(2), Jan. 6, 2006, 119 Stat. 3399, substituted “Regional centers for security studies” for “Asia-Pacific Center for Security Studies” in item 2611.
+
+2004—Pub. L. 108–375, div. A, title V, §585(a)(2), title X, §1051(b), Oct. 28, 2004, 118 Stat. 1931, 2054, added two items 2613.
 
 2003—Pub. L. 108–136, div. A, title IX, §931(c), Nov. 24, 2003, 117 Stat. 1581, struck out “foreign” before “gifts” in item 2611.
 
@@ -47,6 +58,36 @@ Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, ad
 
 1962—Pub. L. 87–555, §1(2), July 27, 1962, 76 Stat. 244, added item 2603.
 
+#### Regulations To Clarify Gift Acceptance Policy for Service Members and Their Families
+
+Pub. L. 109–148, div. A, title VIII, §8127, Dec. 30, 2005, 119 Stat. 2730, provided that:
+
+“(a)
+
+Regulations.—The Secretary of Defense shall prescribe regulations to provide that, subject to such limitations as may be specified in such regulations, members of the Armed Forces described in subsection (c), and the family members of such a member, may accept gifts from non-profit organizations, private parties, and other sources outside the Department of Defense, other than foreign governments and their agents. Such regulations shall apply uniformly to the Army, Navy, Air Force, and Marine Corps, and, to the maximum extent feasible, to the Coast Guard, and shall apply uniformly to the active and reserve components.
+
+“(b)
+
+Authority.—A member of the Armed Forces described in subsection (c) may accept gifts as provided in the regulations authorized in subsection (a), notwithstanding section 7353 of title 5, United States Code.
+
+“(c)
+
+Covered Members.—A member of the Armed Forces is described in this subsection in the case of a member who is on active duty and who on or after September 11, 2001, and while on active duty, incurred an injury or illness—
+
+&emsp;“(1) as described in section 1413a(e)(2) of title 10, United States Code; or
+
+&emsp;“(2) in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a).
+
+“(d)
+
+Deadline for Regulations.—Regulations under subsection (a) shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 30, 2005\].
+
+“(e)
+
+Retroactive Applicability of Regulations.—Regulations under subsection (a) shall, to the extent provided in such regulations, also apply to the acceptance of gifts during the period beginning on September 11, 2001, and ending on the date on which such regulations go into effect.”
+
+<i><sup>1</sup></i><i> So in original. Two sections 2613 have been enacted.</i>
+
 
 ---
 
@@ -62,5 +103,7 @@ Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, ad
 - [&sect; 02608 - Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account](%C2%A7%2002608%20-%20Acceptance%20of%20contributions%20for%20defense%20programs%2C%20projects%2C%20and%20activities%3B%20Defense%20Cooperation%20Account.md)
 - [&sect; 02609 - Repealed. Pub. L. 104&#8211;106, div. A, title II, &sect;253(9), Feb. 10, 1996, 110 Stat. 235](%C2%A7%2002609%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20II%2C%20%C2%A7253%289%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20235.md)
 - [&sect; 02610 - Competitions for excellence acceptance of monetary awards](%C2%A7%2002610%20-%20Competitions%20for%20excellence%20acceptance%20of%20monetary%20awards.md)
-- [&sect; 02611 - Asia-Pacific Center for Security Studies acceptance of gifts and donations](%C2%A7%2002611%20-%20Asia-Pacific%20Center%20for%20Security%20Studies%20acceptance%20of%20gifts%20and%20donations.md)
+- [&sect; 02611 - Regional centers for security studies acceptance of gifts and donations](%C2%A7%2002611%20-%20Regional%20centers%20for%20security%20studies%20acceptance%20of%20gifts%20and%20donations.md)
 - [&sect; 02612 - National Defense University acceptance of gifts](%C2%A7%2002612%20-%20National%20Defense%20University%20acceptance%20of%20gifts.md)
+- [&sect; 02613 - 1 Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and&#8230;](%C2%A7%2002613%20-%201%20Acceptance%20of%20frequent%20traveler%20miles%2C%20credits%2C%20and%20tickets%3B%20use%20to%20facilitate%20rest%20and%20recuperation%20travel%20of%20deployed%20members%20and%E2%80%A6.md)
+- [&sect; 02613 - 1 Emergency communications equipment acceptance from local public safety agencies for temporary use related to disasters](%C2%A7%2002613%20-%201%20Emergency%20communications%20equipment%20acceptance%20from%20local%20public%20safety%20agencies%20for%20temporary%20use%20related%20to%20disasters.md)

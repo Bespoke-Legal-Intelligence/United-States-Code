@@ -64,7 +64,7 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 #### (e) “Qualified State or local development company” defined; exception for rural company; authority
 
-(1) For purposes of this section, the term “qualified State or local development company” means any State or local development company which, as determined by the Administration, has—
+(1) For purposes of this section, the term “qualified State or local development company”means any State or local development company which, as determined by the Administration, has—
 
 &emsp;(A) a full-time professional staff;
 
@@ -112,7 +112,7 @@ All fees, interest, and profits received and retained by the Administration unde
 
 The Administration may not assess or collect any up front guarantee fee with respect to loans made under this subchapter during the 2-year period beginning on October 1, 2002.
 
-(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735,3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 107–100, §6(b), Dec. 21, 2001, 115 Stat. 971; Pub. L. 108–199, div. B, title VI, §631, Jan. 23, 2004, 118 Stat. 100; Pub. L. 108–205, §2, Mar. 15, 2004, 118 Stat. 553; Pub. L. 108–217, §2, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–306, §2, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. B, title V, div. K, title II, §204, Dec. 8, 2004, 118 Stat. 2911, 3466.)
+(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 107–100, §6(b), Dec. 21, 2001, 115 Stat. 971; Pub. L. 108–199, div. B, title VI, §631, Jan. 23, 2004, 118 Stat. 100; Pub. L. 108–205, §2, Mar. 15, 2004, 118 Stat. 553; Pub. L. 108–217, §2, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–306, §2, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. B, title V, div. K, title II, §204, Dec. 8, 2004, 118 Stat. 2911, 3466.)
 
 #### References in Text
 

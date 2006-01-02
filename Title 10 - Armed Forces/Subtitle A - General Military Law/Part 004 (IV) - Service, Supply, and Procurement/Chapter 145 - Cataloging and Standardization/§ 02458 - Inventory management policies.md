@@ -168,7 +168,7 @@ Covered Supplies and Equipment.—Subsection (a) shall apply to the following ty
 
 “(c)
 
-Definition.—For purposes of this section, the term ‘best commercial inventory practice’ includes aso-called prime vendor arrangement and any other practice that the Director determines will enable the Defense Logistics Agency to reduce inventory levels and holding costs while improving the responsiveness of the supply system to user needs.
+Definition.—For purposes of this section, the term ‘best commercial inventory practice’ includes a so-called prime vendor arrangement and any other practice that the Director determines will enable the Defense Logistics Agency to reduce inventory levels and holding costs while improving the responsiveness of the supply system to user needs.
 
 “(d)
 

@@ -108,7 +108,7 @@ Each Board shall cease to exist on October 1, 1999, unless extended by Congress.
 
 #### References in Text
 
-This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted this chapter, chapter 32 (§1431 et seq.) of this title, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters.
+This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted this chapter, chapter 32 (§1431 etseq.) of this title, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

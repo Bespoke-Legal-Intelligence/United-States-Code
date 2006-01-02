@@ -2,7 +2,7 @@
 
 #### (a) Application for adjustment
 
-A taxpayer may file an application for a tentative carryback adjustment of the tax for theprior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
+A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified inthe manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
 
 &emsp;(1) The amount of the net operating loss, net capital loss, or unused business credit;
 
@@ -16,7 +16,7 @@ A taxpayer may file an application for a tentative carryback adjustment of the t
 
 &emsp;(6) Such other information for purposes of carrying out the provisions of this section as may be required by such regulations.
 
-> Except for purposes of applying section 6611(f)(3)(B),<sup>1</sup> an application under this subsection shall not constitute a claim for credit or refund.
+> Except for purposes of applying section 6611(f)(4)(B), an application under this subsection shall not constitute a claim for credit or refund.
 
 #### (b) Allowance of adjustments
 
@@ -64,13 +64,11 @@ If the corporation seeking a tentative carryback adjustment under this section, 
 
 &emsp;The provisions of subsection (c) shall apply to an adjustment under this subsection to the same extent and manner as the Secretary may by regulations provide.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 794; Pub. L. 89–721, §2(a)–(e), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, §2(b), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title V, §512(d), Dec. 30, 1969, 83 Stat. 639; Pub. L. 92–178, title VI, §601(e)(1), Dec. 10, 1971, 85 Stat. 560; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2107(g)(1), Oct. 4, 1976, 90 Stat. 1834, 1904; Pub. L. 95–30, title II, §202(d)(5)(A), May 23, 1977, 91 Stat. 150; Pub. L. 95–600, title V, §504(a), (b)(1)(A), Nov. 6, 1978, 92 Stat. 2880, 2881; Pub. L. 96–222, title I, §§103(a)(6)(G)(xiii), 105(a)(2), Apr. 1, 1980, 94 Stat. 211, 218; Pub. L. 97–34, title II, §221(b)(2)(B), title III, §331(d)(2)(B), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 98–369, div. A, title IV, §474(r)(37), title VII, §714(n)(2)(B), July 18, 1984, 98 Stat. 846, 964; Pub. L. 99–514, title II, §231(d)(3)(H), title XVIII, §1847(b)(10), Oct. 22, 1986, 100 Stat. 2180, 2857; Pub. L. 100–647, title I, §1002(h)(2), Nov. 10, 1988, 102 Stat. 3370; Pub. L. 106–554, §1(a)(7) \[title III, §318(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645.)
-
-#### References in Text
-
-Section 6611(f)(3)(B), referred to in subsec. (a), was redesignated section 6611(f)(4)(B) of this title by Pub. L. 105–34, title X, §1055(b)(1), Aug. 5, 1997, 111 Stat. 944.
+(Aug. 16, 1954, ch. 736, 68A Stat. 794; Pub. L. 89–721, §2(a)–(e), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, §2(b), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–172, title V, §512(d), Dec. 30, 1969, 83 Stat. 639; Pub. L. 92–178, title VI, §601(e)(1), Dec. 10, 1971, 85 Stat. 560; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2107(g)(1), Oct. 4, 1976, 90 Stat. 1834, 1904; Pub. L. 95–30, title II, §202(d)(5)(A), May 23, 1977, 91 Stat. 150; Pub. L. 95–600, title V, §504(a), (b)(1)(A), Nov. 6, 1978, 92 Stat. 2880, 2881; Pub. L. 96–222, title I, §§103(a)(6)(G)(xiii), 105(a)(2), Apr. 1, 1980, 94 Stat. 211, 218; Pub. L. 97–34, title II, §221(b)(2)(B), title III, §331(d)(2)(B), Aug. 13, 1981, 95 Stat. 247, 295; Pub. L. 98–369, div. A, title IV, §474(r)(37), title VII, §714(n)(2)(B), July 18, 1984, 98 Stat. 846, 964; Pub. L. 99–514, title II, §231(d)(3)(H), title XVIII, §1847(b)(10), Oct. 22, 1986, 100 Stat. 2180, 2857; Pub. L. 100–647, title I, §1002(h)(2), Nov. 10, 1988, 102 Stat. 3370; Pub. L. 106–554, §1(a)(7) \[title III, §318(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 109–135, title IV, §409(a)(1), Dec. 21, 2005, 119 Stat. 2635.)
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–135 substituted “6611(f)(4)(B)” for “6611(f)(3)(B)” in concluding provisions.
 
 2000—Subsec. (a). Pub. L. 106–554 substituted “subsection (a)(1) or (c) of section 1212” for “section 1212(a)(1)” in introductory provisions.
 
@@ -136,6 +134,10 @@ Subsec. (b). Pub. L. 89–721, §2(d), inserted “or unused investment credit�
 
 Subsec. (c). Pub. L. 89–721, §2(d), (e), inserted “or unused investment credit” after “net operating loss” and “or credit” after “such loss”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 409(d) of Pub. L. 109–135, set out as a note under section 961 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(7) \[title III, §318(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 504 of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, amending section 1212 of this title\].”
@@ -195,10 +197,4 @@ Section 2(g) of Pub. L. 89–721, as amended by Pub. L. 99–514, §2, Oct. 22, 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6040, 6164, 6213, 6405, 6501, 6511, 6515, 6611 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

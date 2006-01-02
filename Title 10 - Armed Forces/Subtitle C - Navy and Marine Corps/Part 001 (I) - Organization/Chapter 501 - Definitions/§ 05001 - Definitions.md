@@ -2,7 +2,7 @@
 
 (a) In this subtitle:
 
-&emsp;(1) The term “Navy” means the United States Navy. It includes the Regular Navy, the Fleet Reserve, and the Naval Reserve.
+&emsp;(1) The term “Navy” means the United States Navy. It includes the Regular Navy, the Fleet Reserve, and the Navy Reserve.
 
 &emsp;(2) The term “Marine Corps” means the United States Marine Corps. It includes the Regular Marine Corps, the Fleet Marine Corps Reserve, and the Marine Corps Reserve.
 
@@ -18,11 +18,13 @@
 
 &emsp;(8) The term “officer restricted in the performance of duty” means an officer of the Navy designated for engineering duty, aeronautical engineering duty, special duty, or limited duty, or an officer of the Marine Corps designated for limited duty.
 
-(b) For the purposes of this subtitle, a member of the naval service who holds a temporary appointment in a grade higher than his permanentgrade is considered, unless otherwise specified, to be serving in the higher grade.
+(b) For the purposes of this subtitle, a member of the naval service who holds a temporary appointment in a grade higher than his permanent grade is considered, unless otherwise specified, to be serving in the higher grade.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 276; Pub. L. 87–123, §5(1), Aug. 3, 1961, 75 Stat. 264; Pub. L. 96–513, title III, §371, title V, §513(2), Dec. 12, 1980, 94 Stat. 2903, 2931; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 276; Pub. L. 87–123, §5(1), Aug. 3, 1961, 75 Stat. 264; Pub. L. 96–513, title III, §371, title V, §513(2), Dec. 12, 1980, 94 Stat. 2903, 2931; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 109–163, div. A, title V, §515(b)(1)(E), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1987—Subsec. (a). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in pars. (3) to (8) and substituted lowercase letter.
 
@@ -37,8 +39,4 @@ Subsec. (a)(9), (10). Pub. L. 96–513, §371, struck out pars. (9) and (10) whi
 Amendment by section 371 of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 Amendment by section 513(2) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5143, 5144 of this title.
 

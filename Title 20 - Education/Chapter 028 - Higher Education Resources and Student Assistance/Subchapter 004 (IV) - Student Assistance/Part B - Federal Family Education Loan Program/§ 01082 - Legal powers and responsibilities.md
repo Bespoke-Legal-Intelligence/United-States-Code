@@ -24,7 +24,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### (1) Collection by category of loan
 
-&emsp;(A) For loans insured after December 31, 1976, or in the case of each insurer after suchearlier date where the data required by this subsection are available, the Secretary and all other insurers under this part shall collect and accumulate all data relating to (i) loan volume insured and (ii) defaults reimbursed or default rates according to the categories of loans listed in subparagraph (B) of this paragraph.
+&emsp;(A) For loans insured after December 31, 1976, or in the case of each insurer after such earlier date where the data required by this subsection are available, the Secretary and all other insurers under this part shall collect and accumulate all data relating to (i) loan volume insured and (ii) defaults reimbursed or default rates according to the categories of loans listed in subparagraph (B) of this paragraph.
 
 &emsp;(B) The data indicated in subparagraph (A) of this paragraph shall be accumulated according to the category of lender making the loan and shall be accumulated separately for lenders who are (i) eligible institutions, (ii) State or private, nonprofit direct lenders, (iii) commercial financial institutions who are banks, savings and loan associations, or credit unions, and (iv) all other types of institutions or agencies.
 
@@ -160,7 +160,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(i) if such review is waived; or
 
-&emsp;&emsp;(ii) if such review is not waived, unless the Secretary determines that the limitation, suspension, or termination was not imposed in accordance with requirements of such section.
+&emsp;&emsp;(ii) if such review is not waived, unless the Secretary determines that the limitation, suspension, or termination was not imposedin accordance with requirements of such section.
 
 &emsp;(B) The Secretary's review under this paragraph of the limitation, suspension, or termination imposed by a guaranty agency pursuant to section 1078(b)(1)(U) of this title shall be limited to—
 
@@ -296,7 +296,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note formsfor loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part C of this subchapter. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part C of this subchapter as directed by the Secretary.
 
 #### (ii) Consultation
 
@@ -304,7 +304,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (iii) Sale; assignment; enforceability
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, each loan made under a master promissory note under this subsection may be sold or assigned independently of any other loan made under the same promissory note and each such loan shall be separately enforceable in all Federal and State courts on the basis of an original or copy of the master promissory note in accordance with the terms of the master promissory note.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, each loan made under a master promissory note under this subsection may be sold or assigned independently of anyother loan made under the same promissory note and each such loan shall be separately enforceable in all Federal and State courts on the basis of an original or copy of the master promissory note in accordance with the terms of the master promissory note.
 
 #### (E) Perfection of security interests in student loans
 

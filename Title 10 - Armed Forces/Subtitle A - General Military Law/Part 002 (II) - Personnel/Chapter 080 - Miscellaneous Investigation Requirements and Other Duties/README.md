@@ -16,7 +16,7 @@
 
 #### Prior Provisions
 
-A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, wasrepealed by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
+A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, the Secretary shall distri
 
 #### (b) Payments to minors or persons under legal disability
 
-A share payable to a person under twenty-one years of age or to a person under legal disability shall be paid in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
+A share payable to a person under twenty-one years of age or to a person under legal disabilityshall be paid in accordance with such procedures as the Secretary determines will adequately protect the best interests of such persons.
 
 (Pub. L. 89–659, §8, Oct. 14, 1966, 80 Stat. 910.)
 

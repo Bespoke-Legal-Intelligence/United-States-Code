@@ -44,7 +44,3 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 Section 323(d) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to benefits paid after December 31, 1996.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
-

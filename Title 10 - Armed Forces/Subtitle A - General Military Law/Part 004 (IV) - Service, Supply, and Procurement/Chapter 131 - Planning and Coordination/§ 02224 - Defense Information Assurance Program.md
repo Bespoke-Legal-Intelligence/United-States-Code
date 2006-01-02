@@ -10,7 +10,7 @@ Objectives of the Program.—The objectives of the program shall be to provide c
 
 (c)
 
-Program Strategy.—In carrying out the program, the Secretary shall develop a program strategy that encompasses those actions necessary to assure the readiness, reliability, continuity, and integrity of Defense information systems, networks, and infrastructure, including through compliance with subchapter III of chapter 35 of title 44. The program strategy shall include the following:
+Program Strategy.—In carrying out the program, the Secretary shall develop a program strategy that encompasses those actions necessary to assure the readiness, reliability, continuity, and integrity of Defense information systems, networks, and infrastructure, including through compliance with subchapter II of chapter 35 of title 44, including through compliance with subchapter III of chapter 35 of title 44. The program strategy shall include the following:
 
 &emsp;(1) A vulnerability and threat assessment of elements of the defense and supporting nondefense information infrastructures that are essential to the operations of the Department and the armed forces.
 
@@ -38,23 +38,23 @@ Information Assurance Test Bed.—The Secretary shall develop an information ass
 
 &emsp;(2) organization and planning means for the conduct by the Department of the integrated or joint exercises and experiments with elements of the national information systems infrastructure and other non-Department of Defense organizations that are responsible for the oversight and management of critical information systems and infrastructures on which the Department, the armed forces, and supporting activities depend for the conduct of daily operations and operations during crisis.
 
-(Added Pub. L. 106–65, div. A, title X, §1043(a), Oct. 5, 1999, 113 Stat. 760; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1063\], Oct. 30, 2000, 114 Stat. 1654, 1654A–274; Pub. L. 107–296, title X, §1001(c)(1)(B), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 107–347, title III, §301(c)(1)(B), Dec. 17, 2002, 116 Stat. 2955; Pub. L. 108–136, div. A, title X, §1031(a)(12), Nov. 24, 2003, 117 Stat. 1597.)
+(Added Pub. L. 106–65, div. A, title X, §1043(a), Oct. 5, 1999, 113 Stat. 760; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1063\], Oct. 30, 2000, 114 Stat. 1654, 1654A–274; Pub. L. 107–296, title X, §1001(c)(1)(B), Nov. 25, 2002, 116 Stat. 2267; Pub. L. 107–347, title III, §301(c)(1)(B), Dec. 17, 2002, 116 Stat. 2955; Pub. L. 108–136, div. A, title X, §1031(a)(12), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 108–375, div. A, title X, §1084(d)(17), Oct. 28, 2004, 118 Stat. 2062.)
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–375 substituted “subchapter II” for “subtitle II” in introductory provisions.
+
 2003—Subsec. (e). Pub. L. 108–136 struck out subsec. (e) which directed the Secretary of Defense to annually submit to Congress a report on the Defense Information Assurance Program.
 
-2002—Subsec. (b)(1). Pub. L. 107–347, §301(c)(1)(B)(i), substituted “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and struck out par. (1) designation.
-
-Pub. L. 107–296, §1001(c)(1)(B)(i), which directed substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation, could not be executed. See above par.
+2002—Subsec. (b). Pub. L. 107–296, §1001(c)(1)(B)(i), and Pub. L. 107–347, §301(c)(1)(B)(i), amended subsec. (b) identically, substituting “Objectives of the Program” for “Objectives and Minimum Requirements” in heading and striking out par. (1) designation before “The objectives”.
 
 Subsec. (b)(2). Pub. L. 107–347, §301(c)(1)(B)(ii), struck out par. (2) which read as follows: “The program shall at a minimum meet the requirements of sections 3534 and 3535 of title 44.”
 
-Pub. L. 107–296, §1101(c)(1)(B)(ii), which directed the striking out of “(2) the program shall at a minimum meet the requirements of section 3534 and 3535 of title 44, United States Code.” could not be executed. See above par.
+Pub. L. 107–296, §1001(c)(1)(B)(ii), which directed the striking out of “(2) the program shall at a minimum meet the requirements of section 3534 and 3535 of title 44, United States Code.” could not be executed. See above par.
 
 Subsec. (c). Pub. L. 107–347, §301(c)(1)(B)(iii), inserted “, including through compliance with subchapter III of chapter 35 of title 44” after “infrastructure” in introductory provisions.
 
-Pub. L. 107–296, §1101(c)(1)(B)(iii), which directed the insertion of “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in subsec. (c), was not executed, to reflect the probable intent of Congress and the amendment by Pub. L. 107–347. See above par.
+Pub. L. 107–296, §1001(c)(1)(B)(iii), inserted “, including through compliance with subtitle II of chapter 35 of title 44” after “infrastructure” in introductory provisions.
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title X, §1063(a)\], substituted “
 

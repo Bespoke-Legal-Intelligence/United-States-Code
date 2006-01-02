@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (ii) Special rule for phased rehabilitation
 
-&emsp;&emsp;&emsp;In the case of any rehabilitation which may reasonably be expected to be completed in phases set forth in architectural plans and specifications completed before the rehabilitation begins, clause (i) shall be applied by substituting “60-month period” for “24-month period”.
+&emsp;&emsp;&emsp;In the case of any rehabilitation which may reasonably be expected to be completed in phases set forth in architecturalplans and specifications completed before the rehabilitation begins, clause (i) shall be applied by substituting “60-month period” for “24-month period”.
 
 #### (iii) Lessees
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary of the Interior certified to the Secretary that such building is not of historic significance to the district, and
 
-&emsp;&emsp;&emsp;&emsp;(III) if the certification referred to in subclause (II) occurs after the beginningof the rehabilitation of such building, the taxpayer certifies to the Secretary that, at the beginning of such rehabilitation, he in good faith was not aware of the requirements of subclause (II).
+&emsp;&emsp;&emsp;&emsp;(III) if the certification referred to in subclause (II) occurs after the beginning of the rehabilitation of such building, the taxpayer certifies to the Secretary that, at the beginning of such rehabilitation, he in good faith was not aware of the requirements of subclause (II).
 
 #### (v) Tax-exempt use property
 
@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) at a time not earlier than the time at which it becomes irrevocably devoted to use in the building, and
 
-&emsp;&emsp;&emsp;(ii) as if (at the time referred to in clause (i)) the taxpayer had expended an amount equal to that portion of the cost to the taxpayer of such component or other property which, for purposes of this subpart, isproperly chargeable (during such taxable year) to capital account with respect to such building.
+&emsp;&emsp;&emsp;(ii) as if (at the time referred to in clause (i)) the taxpayer had expended an amount equal to that portion of the cost to the taxpayer of such component or other property which, for purposes of this subpart, is properly chargeable (during such taxable year) to capital account with respect to such building.
 
 #### (B) Certain borrowing disregarded
 
@@ -338,7 +338,7 @@ Subsec. (a)(4). Pub. L. 91–172, §703(c)(1), inserted provision making subpars
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(a) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(a) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -376,7 +376,7 @@ Amendment by Pub. L. 97–248 applicable to agreements entered into after July 1
 
 Amendment by section 211(g) of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, see section 211(i)(1) of Pub. L. 97–34, set out in a note under section 46 of this title.
 
-Amendment by section 211(f)(2) of Pub. L. 97–34 not to apply to property placed in service by the taxpayer on or before Feb. 18, 1981, and property placed in service by the taxpayer after Feb. 18, 1981, where such property was acquired by the taxpayer pursuant to a binding contract entered into on or before that date, see section 211(i)(5) of Pub. L. 97–34, set out as a note under section 46 of this title.
+Amendment by section 211(f)(2) of Pub. L. 97–34 not to apply to property placed in service by the taxpayer onor before Feb. 18, 1981, and property placed in service by the taxpayer after Feb. 18, 1981, where such property was acquired by the taxpayer pursuant to a binding contract entered into on or before that date, see section 211(i)(5) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -408,11 +408,11 @@ Section applicable with respect to taxable years ending after Dec. 31, 1961, see
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 
@@ -421,8 +421,4 @@ For provision that nothing in the amendments made by section 474(<i>o</i>) of Pu
 #### Transfer of Functions
 
 Functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof transferred by Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, to Secretary of Transportation, with functions, powers, and duties of Secretary of Transportation pertaining to aviation safety to be exercised by Federal Aviation Administrator in Department of Transportation, see section 106 of Title 49, Transportation.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49, 50, 170, 469, 772, 1400I of this title.
 

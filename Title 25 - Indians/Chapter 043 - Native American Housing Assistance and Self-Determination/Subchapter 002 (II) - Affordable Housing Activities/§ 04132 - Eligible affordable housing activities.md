@@ -8,7 +8,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (2) Development
 
-&emsp;The acquisition, new construction, reconstruction, or moderate or substantial rehabilitation of affordable housing, which may include real property acquisition, site improvement, development of utilities and utility services, conversion, demolition, financing, administration and planning, and other related activities.
+&emsp;The acquisition, new construction, reconstruction, or moderate or substantial rehabilitation of affordable housing, which may include real property acquisition, site improvement, development of utilities and utility services, conversion, demolition, financing, administration and planning, improvement to achieve greater energy efficiency, and other related activities.
 
 #### (3) Housing services
 
@@ -16,7 +16,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (4) Housing management services
 
-&emsp;The provision of management services for affordable housing, including preparation of work specifications, loan processing, inspections, tenant selection, management of tenant-based rental assistance, and management of affordable housing projects.
+&emsp;The provision of management services for affordable housing, including preparation ofwork specifications, loan processing, inspections, tenant selection, management of tenant-based rental assistance, and management of affordable housing projects.
 
 #### (5) Crime prevention and safety activities
 
@@ -46,7 +46,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 &emsp;&emsp;Not later than 1 year after November 13, 2002, the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
 
-(Pub. L. 104–330, title II, §202, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 107–292, §8, Nov. 13, 2002, 116 Stat. 2055.)
+(Pub. L. 104–330, title II, §202, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 107–292, §8, Nov. 13, 2002, 116 Stat. 2055; Pub. L. 109–58, title V, §506(b), Aug. 8, 2005, 119 Stat. 779.)
 
 #### References in Text
 
@@ -55,6 +55,8 @@ The Native American Housing Assistance and Self-Determination Reauthorization Ac
 The Indian Self-Determination and Education Assistance Act, referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
+
+2005—Par. (2). Pub. L. 109–58, which directed amendment of section 202 of the Native American Housing and Self-Determination Act of 1996 by inserting “improvement to achieve greater energy efficiency,” after “planning,” in par. (2), was executed by making the insertion in par. (2) of this section, which is section 202 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
 2002—Pars. (7), (8). Pub. L. 107–292 added pars. (7) and (8).
 

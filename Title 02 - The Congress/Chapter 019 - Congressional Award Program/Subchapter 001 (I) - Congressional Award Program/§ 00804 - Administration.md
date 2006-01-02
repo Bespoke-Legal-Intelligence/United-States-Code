@@ -18,11 +18,11 @@ The Director shall, in consultation with the Board—
 
 (1) The Director shall, in consultation with the Board, ensure that appropriate procedures for fiscal control and fund accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not, for any calendar year, exceed the assets of the Board.
 
-(2)(A) The Comptroller General of the United States shall determine, for calendar years 1993 <sup>1</sup> 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, and 2004, whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the first report submitted under section 807(b) <sup>2</sup> of this title after December 31, 1994.
+(2)(A) The Comptroller General of the United States shall determine, for calendar years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, and 2009, whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the first report submitted under section 807(b) <sup>1</sup> of this title after December 31, 1994.
 
-(B) If the Director fails to substantially comply with paragraph (1), the Board shall take such actions as may be necessary to prepare, pursuant to section 808 <sup>2</sup> of this title, for the orderly cessation of the activities of the Board.
+(B) If the Director fails to substantially comply with paragraph (1), the Board shall take such actions as may be necessary to prepare, pursuant to section 808 <sup>1</sup> of this title, for the orderly cessation of the activities of the Board.
 
-(Pub. L. 96–114, title I, §104, formerly §5, Nov. 16, 1979, 93 Stat. 853; Pub. L. 102–457, §2, Oct. 23, 1992, 106 Stat. 2265; Pub. L. 104–208, div. A, title V, §5401(a), Sept. 30, 1996, 110 Stat. 3009–511; Pub. L. 106–63, §1(c), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §104, Pub. L. 106–533, §1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553.)
+(Pub. L. 96–114, title I, §104, formerly §5, Nov. 16, 1979, 93 Stat. 853; Pub. L. 102–457, §2, Oct. 23, 1992, 106 Stat. 2265; Pub. L. 104–208, div. A, title V, §5401(a), Sept. 30, 1996, 110 Stat. 3009–511; Pub. L. 106–63, §1(c), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §104, Pub. L. 106–533, §1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 109–143, §1(a), (c)(2), Dec. 22, 2005, 119 Stat. 2659.)
 
 #### References in Text
 
@@ -30,13 +30,13 @@ Sections 807(b) and 808 of this title, referred to in subsec. (c)(2), were in th
 
 #### Amendments
 
+2005—Subsec. (c)(2)(A). Pub. L. 109–143 inserted comma after “1993” and substituted “2004, 2005, 2006, 2007, 2008, and 2009” for “and 2004”.
+
 1999—Subsec. (c)(2)(A). Pub. L. 106–63 substituted “1998, 1999, 2000, 2001, 2002, 2003, and 2004” for “and 1998”.
 
 1996—Subsec. (c)(2)(A). Pub. L. 104–208 substituted “1994, 1995, 1996, 1997, and 1998” for “and 1994”.
 
 1992—Subsec. (c). Pub. L. 102–457 added subsec. (c).
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

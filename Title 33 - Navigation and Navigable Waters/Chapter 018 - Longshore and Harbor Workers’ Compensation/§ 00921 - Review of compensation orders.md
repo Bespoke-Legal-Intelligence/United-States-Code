@@ -2,7 +2,7 @@
 
 #### (a) Effectiveness and finality of orders
 
-A compensation order shall become effective when filed in the office of the deputy commissioner as provided in section 919 of this title, and, unless proceedings for the suspension or setting aside of such order are instituted as provided in subsection (b) of this section, shall become final at the expiration of the thirtieth day thereafter.
+A compensation order shall become effective when filed in the office of the deputy commissioner as provided in section 919 of this title, and, unless proceedings for the suspension orsetting aside of such order are instituted as provided in subsection (b) of this section, shall become final at the expiration of the thirtieth day thereafter.
 
 #### (b) Benefits Review Board; establishment; members; chairman; quorum; voting; questions reviewable; record; conclusiveness of findings; stay of payments; remand
 
@@ -28,7 +28,7 @@ If any employer or his officers or agents fails to comply with a compensation or
 
 Proceedings for suspending, setting aside, or enforcing a compensation order, whether rejecting a claim or making an award, shall not be instituted otherwise than as provided in this section and section 918 of this title.
 
-(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972, 86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, §21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 92–576, §15(a), (b), Oct. 27, 1972,86 Stat. 1261, 1262; Pub. L. 95–251, §2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, §15, Sept. 28, 1984, 98 Stat. 1649.)
 
 #### Codification
 
@@ -44,7 +44,7 @@ Subsec. (b)(5). Pub. L. 98–426, §15(4), added par. (5).
 
 1978—Subsec. (b)(4). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-1972—Subsec. (b). Pub. L. 92–576, §15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting service of process and stay of payments, except for the procedural requirement of an interlocutory injunction to the court and hearing on at least three days’ notice to theparties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
+1972—Subsec. (b). Pub. L. 92–576, §15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting service of process and stay of payments, except for the procedural requirement of an interlocutory injunction to the court and hearing on at least three days’ notice to the parties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
 
 Subsecs. (c) to (e). Pub. L. 92–576, §15(a), (b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

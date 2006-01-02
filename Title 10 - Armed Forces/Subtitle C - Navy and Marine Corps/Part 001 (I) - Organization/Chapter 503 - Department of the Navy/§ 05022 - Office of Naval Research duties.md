@@ -12,7 +12,7 @@
 
 &emsp;(3) the supervision, administration, and control of activities within or for the Department relating to patents, inventions, trademarks, copyrights, and royalty payments, and matters connected therewith; and
 
-&emsp;(4) the execution of, and management responsibility for, programs for which funds are provided in the basic and applied research and advanced technology categories of the Department of the Navy research, development, test,and evaluation budget in such a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
+&emsp;(4) the execution of, and management responsibility for, programs for which funds are provided in the basic and applied research and advanced technology categories of the Department of the Navy research, development, test, and evaluation budget in such a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
 (c) Sufficient information relative to estimates of appropriations for research by the several bureaus and offices shall be furnished to the Office of Naval Research to assist it in coordinating naval research and carrying out its other duties.
 
@@ -87,8 +87,4 @@ Period of Project.—The demonstration project shall be carried out during the t
 “(d)
 
 Report.—Not later than February 1, 2004, the Secretary shall submit to Congress a report on the demonstration project. The report shall include a description of the activities carried out under the demonstration project and any recommendations for the improvement or expansion of the demonstration project that the Secretary considers appropriate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5023 of this title.
 

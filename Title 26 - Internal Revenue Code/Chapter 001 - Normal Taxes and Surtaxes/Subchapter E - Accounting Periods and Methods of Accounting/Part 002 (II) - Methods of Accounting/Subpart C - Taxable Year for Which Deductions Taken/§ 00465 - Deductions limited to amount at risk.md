@@ -72,7 +72,7 @@
 
 #### (4) Exception
 
-&emsp;Notwithstanding any other provision of this section, a taxpayer shall not be considered at risk with respect to amounts protected against loss through nonrecourse financing, guarantees, stop loss agreements, or other similar arrangements.
+&emsp;Notwithstanding any other provision of this section, a taxpayer shall not be considered at risk with respect to amounts protectedagainst loss through nonrecourse financing, guarantees, stop loss agreements, or other similar arrangements.
 
 #### (5) Amounts at risk in subsequent years
 
@@ -292,11 +292,9 @@
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “qualified C corporation” means any corporation described in subparagraph (B) of subsection (a)(1) which is not—
 
-&emsp;&emsp;&emsp;(i) a personal holding company (as defined in section 542(a)),
+&emsp;&emsp;&emsp;(i) a personal holding company (as defined in section 542(a)), or
 
-&emsp;&emsp;&emsp;(ii) a foreign personal holding company (as defined in section 552(a)), or
-
-&emsp;&emsp;&emsp;(iii) a personal service corporation (as defined in section 269A(b) but determined by substituting “5 percent” for “10 percent” in section 269A(b)(2)).
+&emsp;&emsp;&emsp;(ii) a personal service corporation (as defined in section 269A(b) but determined by substituting “5 percent” for “10 percent” in section 269A(b)(2)).
 
 #### (C) Qualifying business
 
@@ -428,9 +426,11 @@ For purposes of this section, the term “loss” means the excess of the deduct
 
 &emsp;&emsp;(B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558.)
+(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558; Pub. L. 108–357, title IV, §413(c)(7), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
+
+2004—Subsec. (c)(7)(B). Pub. L. 108–357 inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “a foreign personal holding company (as defined in section 552(a)), or”.
 
 1990—Subsec. (b)(6)(D). Pub. L. 101–508, §11813(b)(15), substituted “49(a)(1)(D)(iv)” for “46(c)(8)(D)(iv)” wherever appearing.
 
@@ -488,9 +488,13 @@ Subsec. (d). Pub. L. 95–600, §701(k)(2), substituted “(determined without r
 
 Subsec. (e). Pub. L. 95–600, §203, added subsec. (e).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(15) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -552,7 +556,7 @@ Special transitional rules for movies and video tapes.—
 
 In general.—In the case of any activity described in section 465(c)(1)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by this section shall not apply to—
 
-&emsp;&emsp;&emsp;“(i) deductions for depreciation or amortization with respect to property the principal production of which began before September 11, 1975, and forthe purchase of which there was on September 11, 1975, and at all times thereafter a binding contract, and
+&emsp;&emsp;&emsp;“(i) deductions for depreciation or amortization with respect to property the principal production of which began before September 11, 1975, and for the purchase of which there was on September 11, 1975, and at all times thereafter a binding contract, and
 
 &emsp;&emsp;&emsp;“(ii) deductions attributable to producing or distributing property the principal production of which began before September 11, 1975.
 
@@ -592,7 +596,7 @@ Special rule for operating leases.—In the case of a lease described in section
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Transitional Rules for Recapture Provisions and Leasing Activities
 
@@ -617,8 +621,4 @@ Rule for leases.—In the case of any activity described in section 465(c)(1)(C)
 &emsp;“(B)
 
 Holding of interests for purposes of subparagraph (a).—Subparagraph (A) shall apply only to taxpayers who held their interests in the property on October 31, 1978.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 49, 59, 162, 163, 168, 461, 467, 469, 773, 1256, 1366, 4162, 6111 of this title.
 

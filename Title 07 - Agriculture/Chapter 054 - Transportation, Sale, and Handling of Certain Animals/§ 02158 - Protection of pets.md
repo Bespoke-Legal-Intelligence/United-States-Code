@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;A dealer may not sell, provide, or make available to any individual or entity a random source dog or cat unless such dealer providesthe recipient with a valid certification that meets the requirements of paragraph (2) and indicates compliance with subsection (a) of this section.
+&emsp;A dealer may not sell, provide, or make available to any individual or entity a random source dog or cat unless such dealer provides the recipient with a valid certification that meets the requirements of paragraph (2) and indicates compliance with subsection (a) of this section.
 
 #### (2) Requirements
 

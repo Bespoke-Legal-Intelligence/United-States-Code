@@ -6,13 +6,13 @@
 
 (c) No person may be enlisted or designated as an aviation cadet unless—
 
-&emsp;(1) he agrees in writing that, upon his successful completion of the course of training as an aviation cadet, he will accept a commission as an ensign in the Naval Reserve or a second lieutenant in the Marine Corps Reserve, and will serve on active duty as such for at least three years, unless sooner released; and
+&emsp;(1) he agrees in writing that, upon his successful completion of the course of training as an aviation cadet, he will accept a commission as an ensign in the Navy Reserve or a second lieutenant in the Marine Corps Reserve, and will serve on active duty as such for at least three years, unless sooner released; and
 
 &emsp;(2) if under 21 years of age, he has the consent of his parent or guardian to his agreement.
 
 (d) Under such regulations as the Secretary prescribes, an aviation cadet may be transferred to another enlisted grade or rating in the naval service, released from active duty, or discharged.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 426; Pub. L. 85–578, July 31, 1958, 72 Stat. 456; Pub. L. 96–513, title III, §373(f), Dec. 12, 1980, 94 Stat. 2903.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 426; Pub. L. 85–578, July 31, 1958, 72 Stat. 456; Pub. L. 96–513, title III, §373(f), Dec. 12, 1980, 94 Stat. 2903; Pub. L. 109–163, div. A, title V, §515(b)(1)(N), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes
 
@@ -42,21 +42,19 @@ Subsection (c) is written as a condition precedent to enlistment or transfer, an
 
 #### Amendments
 
+2006—Subsec. (c)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 1980—Subsec. (a). Pub. L. 96–513 struck out “male” before “citizens” and “enlisted”.
 
 1958—Subsec. (a). Pub. L. 85–578 substituted “naval service” for “Naval Reserve and the Marine Corps Reserve”, made changes in phraseology including the substitution of “designated” for “transferred”, and specified consent as requisite for designation as aviation cadet.
 
 Subsec. (b). Pub. L. 85–578 struck out “at least” before “20 percent” and “who, with their consent, are discharged for the purpose of enlisting as aviation cadets” after “Regular Marine Corps”.
 
-Subsec. (c). Pub. L. 85–578 designated existing provisions as cls. (1) and (2), made phraseological changes including the substitution of “designated” for “transferred”, and prescribed consent for one under 21 years of age instead of one described as minor and active duty service with commissioned status for minimum three year period instead of maximum four year period and unspecified grade.
+Subsec. (c). Pub. L. 85–578 designated existing provisions as cls. (1) and (2), made phraseological changes including the substitution of “designated” for “transferred”, and prescribed consent for one under 21 yearsof age instead of one described as minor and active duty service with commissioned status for minimum three year period instead of maximum four year period and unspecified grade.
 
 Subsec. (d). Pub. L. 85–578 substituted “naval service” for “Naval Reserve or the Marine Corps Reserve” and struck out “as appropriate” after such term.
 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 301a.
 

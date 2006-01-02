@@ -32,7 +32,7 @@
 
 (2)(A) Any local law enforcement agency or local child protective services agency that receives a report alleging abuse described in section 3202(3) <sup>1</sup> of this title shall immediately initiate an investigation of such allegation and shall take immediate, appropriate steps to secure the safety and well-being of the child or children involved.
 
-(B) Upon completion of the investigation of any report of alleged abuse that is made to alocal law enforcement agency or local child protective services agency, such agency shall prepare a final written report on such allegation.
+(B) Upon completion of the investigation of any report of alleged abuse that is made to a local law enforcement agency or local child protective services agency, such agency shall prepare a final written report on such allegation.
 
 #### (d) Confidentiality of informant
 

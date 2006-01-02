@@ -176,7 +176,3 @@ Transition rule.—In the case of a structured settlement factoring transaction 
 
 1980—Pub. L. 96–589, §6(g)(3)(E), Dec. 24, 1980, 94 Stat. 3410, substituted “Jeopardy, receiverships, etc.” for “Jeopardy, bankruptcy and receiverships” in item for chapter 70.
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 167, 408, 460, 468A, 468B, 527, 643, 810, 852, 860E, 860F, 860K, 874, 882, 911, 1397E, 2661, 3121, 3402, 3405, 3406, 3510, 4405, 4414, 4462, 4484, 4980, 4999, 5067, 5148, 5560, 5881, 7851 of this title; title 42 sections 401, 408, 1307, 1395i; title 48 section 1421i.
-

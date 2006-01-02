@@ -44,33 +44,33 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(i) section 6041A(a) or (b) (relating to returns of direct sellers),
 
-&emsp;&emsp;&emsp;(ii) section 6045(a) or (d) (relating to returns of brokers),
+&emsp;&emsp;&emsp;(ii) section 6043A(a) (relating to returns relating to taxable mergers and acquisitions),
 
-&emsp;&emsp;&emsp;(iii) section 6050H(a) (relating to mortgage interest received in trade or business from individuals),
+&emsp;&emsp;&emsp;(iii) section 6045(a) or (d) (relating to returns of brokers),
 
-&emsp;&emsp;&emsp;(iv) section 6050I(a) or (g)(1) (relating to cash received in trade or business, etc.),
+&emsp;&emsp;&emsp;(iv) section 6050H(a) (relating to mortgage interest received in trade or business from individuals),
 
-&emsp;&emsp;&emsp;(v) section 6050J(a) (relating to foreclosures and abandonments of security),
+&emsp;&emsp;&emsp;(v) section 6050I(a) or (g)(1) (relating to cash received in trade or business, etc.),
 
-&emsp;&emsp;&emsp;(vi) section 6050K(a) (relating to exchanges of certain partnership interests),
+&emsp;&emsp;&emsp;(vi) section 6050J(a) (relating to foreclosures and abandonments of security),
 
-&emsp;&emsp;&emsp;(vii) section 6050L(a) (relating to returns relating to certain dispositions of donated property),
+&emsp;&emsp;&emsp;(vii) section 6050K(a) (relating to exchanges of certain partnership interests),
 
-&emsp;&emsp;&emsp;(viii) section 6050P (relating to returns relating to the cancellation of indebtedness by certain financial entities),
+&emsp;&emsp;&emsp;(viii) section 6050L(a) (relating to returns relating to certain dispositions of donated property),
 
-&emsp;&emsp;&emsp;(ix) section 6050Q (relating to certain long-term care benefits),
+&emsp;&emsp;&emsp;(ix) section 6050P (relating to returns relating to the cancellation of indebtedness by certain financial entities),
 
-&emsp;&emsp;&emsp;(x) section 6050S (relating to returns relating to payments for qualified tuition and related expenses),
+&emsp;&emsp;&emsp;(x) section 6050Q (relating to certain long-term care benefits),
 
-&emsp;&emsp;&emsp;(xi) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals),
+&emsp;&emsp;&emsp;(xi) section 6050S (relating to returns relating to payments for qualified tuition and related expenses),
 
-&emsp;&emsp;&emsp;(xii) section 6052(a) (relating to reporting payment of wages in the form of group-life insurance),
+&emsp;&emsp;&emsp;(xii) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals),
 
-&emsp;&emsp;&emsp;(xiii) section 6053(c)(1) (relating to reporting with respect to certain tips),
+&emsp;&emsp;&emsp;(xiii) section 6052(a) (relating to reporting payment of wages in the form of group-life insurance),
 
-&emsp;&emsp;&emsp;(xiv) subsection (b) or (e) of section 1060 (relating to reporting requirements of transferors and transferees in certain asset acquisitions),
+&emsp;&emsp;&emsp;(xiv) section 6053(c)(1) (relating to reporting with respect to certain tips),
 
-&emsp;&emsp;&emsp;(xv) subparagraph (A) or (C) of subsection (c)(4) of section 4093 (relating to information reporting with respect to tax on diesel and aviation fuels),
+&emsp;&emsp;&emsp;(xv) subsection (b) or (e) of section 1060 (relating to reporting requirements of transferors and transferees in certain asset acquisitions),
 
 &emsp;&emsp;&emsp;(xvi) section 4101(d) (relating to information reporting with respect to fuels taxes),
 
@@ -100,43 +100,43 @@ For purposes of this part—
 
 &emsp;&emsp;(E) section 6042(c) (relating to returns regarding payments of dividends and corporate earnings and profits),
 
-&emsp;&emsp;(F) section 6044(e) (relating to returns regarding payments of patronage dividends),
+&emsp;&emsp;(F) subsections (b) and (d) of section 6043A (relating to returns relating to taxable mergers and acquisitions).<sup>1</sup>
 
-&emsp;&emsp;(G) section 6045(b) or (d) (relating to returns of brokers),
+&emsp;&emsp;(G) section 6044(e) (relating to returns regarding payments of patronage dividends),
 
-&emsp;&emsp;(H) section 6049(c) (relating to returns regarding payments of interest),
+&emsp;&emsp;(H) section 6045(b) or (d) (relating to returns of brokers),
 
-&emsp;&emsp;(I) section 6050A(b) (relating to reporting requirements of certain fishing boat operators),
+&emsp;&emsp;(I) section 6049(c) (relating to returns regarding payments of interest),
 
-&emsp;&emsp;(J) section 6050H(d) relating to returns relating to mortgage interest received in trade or business from individuals),
+&emsp;&emsp;(J) section 6050A(b) (relating to reporting requirements of certain fishing boat operators),
 
-&emsp;&emsp;(K) section 6050I(e) or paragraph (4) or (5) of section 6050I(g) (relating to cash received in trade or business, etc.),
+&emsp;&emsp;(K) section 6050H(d) relating <sup>2</sup> to returns relating to mortgage interest received in trade or business from individuals),
 
-&emsp;&emsp;(L) section 6050J(e) (relating to returns relating to foreclosures and abandonments of security),
+&emsp;&emsp;(L) section 6050I(e) or paragraph (4) or (5) of section 6050I(g) (relating to cash received in trade or business, etc.),
 
-&emsp;&emsp;(M) section 6050K(b) (relating to returns relating to exchanges of certain partnership interests),
+&emsp;&emsp;(M) section 6050J(e) (relating to returns relating to foreclosures and abandonments of security),
 
-&emsp;&emsp;(N) section 6050L(c) (relating to returns relating to certain dispositions of donated property),
+&emsp;&emsp;(N) section 6050K(b) (relating to returns relating to exchanges of certain partnership interests),
 
-&emsp;&emsp;(O) section 6050N(b) (relating to returns regarding payments of royalties),
+&emsp;&emsp;(O) section 6050L(c) (relating to returns relating to certain dispositions of donated property),
 
-&emsp;&emsp;(P) section 6050P(d) (relating to returns relating to the cancellation of indebtedness by certain financial entities),
+&emsp;&emsp;(P) section 6050N(b) (relating to returns regarding payments of royalties),
 
-&emsp;&emsp;(Q) section 6050Q(b) (relating to certain long-term care benefits),
+&emsp;&emsp;(Q) section 6050P(d) (relating to returns relating to the cancellation of indebtedness by certain financial entities),
 
-&emsp;&emsp;(R) section 6050R(c) (relating to returns relating to certain purchases of fish),
+&emsp;&emsp;(R) section 6050Q(b) (relating to certain long-term care benefits),
 
-&emsp;&emsp;(S) section 6051 (relating to receipts for employees),
+&emsp;&emsp;(S) section 6050R(c) (relating to returns relating to certain purchases of fish),
 
-&emsp;&emsp;(T) section 6052(b) (relating to returns regarding payment of wages in the form of group-term life insurance),
+&emsp;&emsp;(T) section 6051 (relating to receipts for employees),
 
-&emsp;&emsp;(U) section 6053(b) or (c) (relating to reports of tips),
+&emsp;&emsp;(U) section 6052(b) (relating to returns regarding payment of wages in the form of group-term life insurance),
 
-&emsp;&emsp;(V) section 6048(b)(1)(B) (relating to foreign trust reporting requirements),
+&emsp;&emsp;(V) section 6053(b) or (c) (relating to reports of tips),
 
-&emsp;&emsp;(W) section 4093(c)(4)(B) (relating to certain purchasers of diesel and aviation fuels),
+&emsp;&emsp;(W) section 6048(b)(1)(B) (relating to foreign trust reporting requirements),
 
-&emsp;&emsp;(X) section 408(i) (relating to reports with respect to individual retirement plans) toany person other than the Secretary with respect to the amount of payments made to such person,
+&emsp;&emsp;(X) section 408(i) (relating to reports with respect to individual retirement plans) to any person other than the Secretary with respect to the amount of payments made to such person,
 
 &emsp;&emsp;(Y) section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
 
@@ -182,13 +182,33 @@ For purposes of this part—
 
 If any partnership return under section 6031(a) is required under section 6011(e) to be filed on magnetic media or in other machine-readable form, for purposes of this part, each schedule required to be included with such return with respect to each partner shall be treated as a separate information return.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(<i>o</i>)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2734; amended Pub. L. 100–418, title I, §1941(b)(2)(M), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §§1006(h)(3)(A), 1015(a), title III, §3001(b)(1), (2), Nov. 10, 1988, 102 Stat. 3410, 3568, 3614; Pub. L. 101–239, title VII, §§7711(a), 7811(c)(3), 7813(a), Dec. 19, 1989, 103 Stat. 2391, 2407, 2412; Pub. L. 101–508, title XI, §§11212(e)(1), 11323(b)(2), (c)(2), Nov. 5, 1990, 104 Stat. 1388–432, 1388–465; Pub. L. 102–486, title XIX, §1933(b), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–66, title XIII, §13252(b), Aug. 10, 1993, 107 Stat. 532; Pub. L. 103–322, title II, §20415(b)(1), (2), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–188, title I, §§1116(b)(2)(A), (B), 1455(a), 1615(a)(2)(B), 1702(b)(1), (c)(2), 1704(j)(3), 1901(c)(1), Aug. 20, 1996, 110 Stat. 1764, 1817, 1853, 1868, 1869, 1881, 1908; Pub. L. 104–191, title III, §323(b), Aug. 21, 1996, 110 Stat. 2062; Pub. L. 105–34, title II, §201(c)(2), title XII, §§1213(b), 1223(b), title XVI, §1602(d)(2)(A), Aug. 5, 1997, 111 Stat. 805, 1001, 1019, 1094; Pub. L. 105–206, title VI, §§6004(a)(3), 6010(<i>o</i>)(4)(B), (C), 6012(b)(5), (d), July 22, 1998, 112 Stat. 792, 816, 819; Pub. L. 106–554, §1(a)(7) \[title III, §319(23)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–210, div. A, title II, §202(c)(2), Aug. 6, 2002, 116 Stat. 962; Pub. L. 108–357, title VIII, §§805(b), 853(d)(2)(L), (M), Oct. 22, 2004, 118 Stat. 1574, 1613.)
 
 #### Codification
 
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2004—Subsec. (d)(1)(B)(ii) to (xv). Pub. L. 108–357, §805(b)(1), added cl. (ii) and redesignated former cls. (ii) to (xiv) as (iii) to (xv), respectively. Former cl. (xv) redesignated (xvi).
+
+Subsec. (d)(1)(B)(xvi). Pub. L. 108–357, §853(d)(2)(L), redesignated cl. (xvii) as (xvi) and struck out former cl. (xvi) which read as follows: “subparagraph (A) or (C) of subsection (c)(4) of section 4093 (relating to information reporting with respect to tax on diesel and aviation fuels),”.
+
+Pub. L. 108–357, §805(b)(1), redesignated cl. (xv) as (xvi). Former cl. (xvi) redesignated (xvii).
+
+Subsec. (d)(1)(B)(xvii) to (xix). Pub. L. 108–357, §853(d)(2)(L), redesignated cls. (xviii) and (xix) as (xvii) and (xviii), respectively. Former cl. (xvii) redesignated (xvi).
+
+Pub. L. 108–357, §805(b)(1), redesignated cls. (xvi) to (xviii) as (xvii) to (xix), respectively.
+
+Subsec. (d)(2)(F) to (W). Pub. L. 108–357, §805(b)(2), added subpar. (F) and redesignated former subpars. (F) to (V) as (G) to (W), respectively. Former subpar. (W) redesignated (X).
+
+Subsec. (d)(2)(X). Pub. L. 108–357, §853(d)(2)(M), redesignated subpar. (Y) as (X) and struck out former subpar. (X) which read as follows: “section 4093(c)(4)(B) (relating to certain purchasers of diesel and aviation fuels),”.
+
+Pub. L. 108–357, §805(b)(2), redesignated subpar. (W) as (X). Former subpar. (X) redesignated (Y).
+
+Subsec. (d)(2)(Y) to (CC). Pub. L. 108–357, §853(d)(2)(M), redesignated subpars. (Z) to (CC) as (Y) to (BB), respectively. Former subpar. (Y) redesignated (X).
+
+Pub. L. 108–357, §805(b)(2), redesignated subpars. (X) to (BB) as (Y) to (CC), respectively.
 
 2002—Subsec. (d)(1)(B)(xi) to (xviii). Pub. L. 107–210, §202(c)(2)(A), added cl. (xi) and redesignated former cls. (xi) to (xvii) as (xii) to (xviii), respectively.
 
@@ -314,7 +334,7 @@ Pub. L. 104–188, §1704(j)(3), substituted “section 6109(h)” for “sectio
 
 1994—Subsec. (d)(1)(B)(iv). Pub. L. 103–322, §20415(b)(1), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “section 6050I(a) (relating to cash received in trade or business),”.
 
-Subsec. (d)(2)(K). Pub. L. 103–322, §20415(b)(2), amended subpar. (K) generally. Prior to amendment, subpar. (K) read as follows: “section 6050I(e) (relating to returns relating to cash received in trade or business),”.
+Subsec. (d)(2)(K). Pub. L. 103–322, §20415(b)(2), amended subpar. (K) generally. Prior to amendment, subpar.\(K) read as follows: “section 6050I(e) (relating to returns relating to cash received in trade or business),”.
 
 1993—Subsec. (d)(1)(B)(viii) to (xiv). Pub. L. 103–66, §13252(b)(1), which directed amendment of subsec. (d)(1)(B) by adding a new cl. (viii) after cl. (vii) and redesignating the following cls. accordingly, was executed by adding cl. (viii) and redesignating former cls. (viii), (ix), (x), (xi), (xii) (relating to section 4101(d)), and (xii) (relating to subpar. (C) of section 338(h)(10)) as (ix), (x), (xi), (xii), (xiii), and (xiv), respectively, to reflect the probable intent of Congress.
 
@@ -356,6 +376,12 @@ Pub. L. 100–418, §1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A) 
 
 Subsec. (d)(2)(B). Pub. L. 100–647, §1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 805(b) of Pub. L. 108–357 applicable to acquisitions after Oct. 22, 2004, see section 805(d) of Pub. L. 108–357, set out as an Effective Date note under section 6043A of this title.
+
+Amendment by section 853(d)(2)(L), (M) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
@@ -382,7 +408,7 @@ Amendment by section 1615(a)(2)(B) of Pub. L. 104–188 applicable with respect 
 
 Amendment by section 1702(b)(1), (c)(2) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
-Amendment by section 1901(c)(1) of Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportable events (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable years of United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section 1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
+Amendment by section 1901(c)(1) of Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportable events (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable yearsof United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section 1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -404,7 +430,7 @@ Amendment by section 11323(b)(2), (c)(2) of Pub. L. 101–508 applicable to acqu
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7711(a) of Pub. L. 101–239 applicable to returns and statements the due date forwhich (determined without regard to extensions) is after Dec. 31, 1989, see section 7711(c) of Pub. L. 101–239, set out as a note under section 6721 of this title.
+Amendment by section 7711(a) of Pub. L. 101–239 applicable to returns and statements the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7711(c) of Pub. L. 101–239, set out as a note under section 6721 of this title.
 
 Amendment by sections 7811(c)(3) and 7813(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -412,7 +438,35 @@ Amendment by sections 7811(c)(3) and 7813(a) of Pub. L. 101–239 effective, exc
 
 Amendment by sections 1006(h)(3)(A) and 1015(a) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Amendment by section 3001(b)(1), (2) of Pub. L. 100–647 effective Jan. 1, 1989, see section 3001(c) of Pub. L. 100–647, set out as a note under section 4093 of this title.
+Pub. L. 100–647, title III, §3001(c), Nov. 10, 1988, 102 Stat. 3615, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and sections 4093 and 7232 of this title\] shall take effect on January 1, 1989.
+
+“(2)
+
+Refunds with interest for pre-effective date purchases.—
+
+&emsp;“(A)
+
+In general.—In the case of fuel—
+
+&emsp;&emsp;“(i) which is purchased from a producer or importer during the period beginning on April 1, 1988, and ending on December 31, 1988,
+
+&emsp;&emsp;“(ii) which is used (before the claim under this subparagraph is filed) by any person in a nontaxable use (as defined in section 6427(<i>l</i>)(2) of the 1986 Code), and
+
+&emsp;&emsp;“(iii) with respect to which a claim is not permitted to be filed for any quarter under section 6427(i) of the 1986 Code,
+
+> &emsp;the Secretary of the Treasury or the Secretary's delegate shall pay (with interest) to such person the amount of tax imposed on such fuel under section 4091 of the 1986 Code (to the extent not attributable to amounts described in section 6427(<i>l</i>)(3) of the 1986 Code) if claim therefor is filed not later than June 30, 1989. Not more than 1 claim may be filed under the preceding sentence and such claim shall not be taken into account under section 6427(i) of the 1986 Code. Any claim for refund filed under this paragraph shall be considered a claim for refund under section 6427(<i>l</i>) of the 1986 Code.
+
+&emsp;“(B)
+
+Interest.—The amount of interest payable under subparagraph (A) shall be determined under section 6611 of the 1986 Code except that the date of the overpayment with respect to fuel purchased during any month shall be treated as being the 1st day of the succeeding month. No interest shall be paid under this paragraph with respect to fuel used by any agency of the United States.
+
+&emsp;“(C)
+
+Registration procedures required to be specified.—Not later than the 30th day after the date of the enactment of this Act \[Nov. 10, 1988\], the Secretary of the Treasury or the Secretary's delegate shall prescribe the procedures for complying with the requirements of section 4093(c)(3) of the 1986 Code (as added by this section).”
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
@@ -428,7 +482,7 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 
 For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 
-This section is referred to in sections 904, 6652, 6693, 6721, 7434 of this title.
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by an opening parenthesis.</i>
 

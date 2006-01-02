@@ -28,7 +28,7 @@ The registry and new domain shall be subject to the following requirements:
 
 &emsp;(5) A process for removing from the new domain any content that is not in accordance with the standards and requirements of the registry.
 
-&emsp;(6) A process to provide registrants to the new domain with an opportunity for a prompt,expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
+&emsp;(6) A process to provide registrants to the new domain with an opportunity for a prompt, expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
 
 &emsp;(7) Continuous and uninterrupted service for the new domain during any transition to a new registry selected to operate and maintain new domain or the United States country code domain.
 
@@ -94,7 +94,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appeal to, or is designed to pander to, the prurient interest;
 
-&emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulatedsexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+&emsp;&emsp;(B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
 
 &emsp;&emsp;(C) taken as a whole, the material lacks serious, literary, artistic, political, or scientific value for minors.
 

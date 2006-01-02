@@ -16,7 +16,7 @@ Computation of High-Three Average for Members Entitled to Retired or Retainer Pa
 
 General rule.—The high-three average of a member entitled to retired or retainer pay under any provision of law other than section 1204 or 1205 or section 12731 of this title is the amount equal to—
 
-&emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled for the 36 months (whether or not consecutive) out of all the months of active service of the member for which the monthly basic pay to which the member was entitled was the highest, divided by
+&emsp;&emsp;(A) the total amount of monthly basic pay to which the member was entitled for the 36 months (whether or not consecutive) out ofall the months of active service of the member for which the monthly basic pay to which the member was entitled was the highest, divided by
 
 &emsp;&emsp;(B) 36.
 
@@ -27,6 +27,10 @@ Special rule for short-term disability retirees.—In the case of a member who i
 &emsp;&emsp;(A) the total amount of basic pay to which the member was entitled during the period of the member's active service, divided by
 
 &emsp;&emsp;(B) the number of months (including any fraction thereof) of the member's active service.
+
+&emsp;(3)
+
+Special Rule for Reserve Component Members.—In the case of a member of a reserve component who is entitled to retired pay under section 1201 or 1202 of this title, the member's high-three average (notwithstanding paragraphs (1) and (2)) is computed in the same manner as prescribed in paragraphs (2) and (3) of subsection (d) for a member entitled to retired pay under section 1204 or 1205 of this title.
 
 (d)
 
@@ -86,13 +90,15 @@ Affected members.—A member or former member referred to in paragraph (1) is a 
 
 Special rule for enlisted members.—In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member's high-36 average for the period of the member's service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499; Pub. L. 106–398, §1 \[\[div. A\], title VI, §651\], Oct. 30, 2000, 114 Stat. 1654, 1654A–163; Pub. L. 107–107, div. A, title X, §1048(c)(8), Dec. 28, 2001, 115 Stat. 1226.)
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499; Pub. L. 106–398, §1 \[\[div. A\], title VI, §651\], Oct. 30, 2000, 114 Stat. 1654, 1654A–163; Pub. L. 107–107, div. A, title X, §1048(c)(8), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–375, div. A, title VI, §641(a), Oct. 28, 2004, 118 Stat. 1957.)
 
 #### Prior Provisions
 
 A prior section 1407, added Pub. L. 96–342, title VIII, §813(a)(1), Sept. 8, 1980, 94 Stat. 1100; amended Pub. L. 96–513, title I, §113(c), title V, §§501(21), 511(53), Dec. 12, 1980, 94 Stat. 2877, 2908, 2925, related to determination of retired base pay, prior to repeal by Pub. L. 99–348, §104(b).
 
 #### Amendments
+
+2004—Subsec. (c)(3). Pub. L. 108–375 added par. (3).
 
 2001—Subsec. (f)(2). Pub. L. 107–107 substituted “October 30, 2000—” for “the date of the enactment of this subsection—” in introductory provisions.
 
@@ -122,6 +128,14 @@ Subsec. (e). Pub. L. 101–189, §651(a)(2), (3), redesignated subsec. (d) as (e
 
 Subsecs. (f), (g). Pub. L. 101–189, §651(a)(2), struck out subsec. (f) which related to special rule for members retiring with non-regular service, and subsec. (g) which defined the term “years of creditable service”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title VI, §641(b), Oct. 28, 2004, 118 Stat. 1957, provided that: “Paragraph (3) of section 1407(c) of title 10, United States Code, as added by subsection (a), shall take effect—
+
+&emsp;“(1) for purposes of determining an annuity under subchapter II or III of chapter 73 of that title, with respect to deaths on active duty on or after September 10, 2001; and
+
+&emsp;“(2) for purposes of determining the amount of retired pay of a member of a reserve component entitled to retired pay under section 1201 or 1202 of such title, with respect to such entitlement that becomes effective on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
+
 #### Effective Date of 1996 Amendment
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
@@ -129,8 +143,4 @@ Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that se
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1401a, 1402a, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 14 sections 357, 423, 424; title 33 section 3045; title 42 sections 211, 212.
 

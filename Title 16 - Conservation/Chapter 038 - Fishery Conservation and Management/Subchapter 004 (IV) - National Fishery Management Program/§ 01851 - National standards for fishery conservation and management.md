@@ -138,7 +138,7 @@ Sea Lion Protection Measures.—$20,000,000 is hereby appropriated to the Secret
 
 “(e)
 
-Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary of Commerce to make available as a direct payment to the Southwest Alaska Municipal Conference to distribute to fishing communities, businesses, community development quota groups, individuals, and other entities to mitigate the economic losses caused by Steller sea lion protection measures heretofore incurred; provided that the President of such organization shall provide a written reportto the Secretary and the House and Senate Appropriations Committee within 6 months of receipt of these funds.”
+Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary of Commerce to make available as a direct payment to the Southwest Alaska Municipal Conference to distribute to fishing communities, businesses, community development quota groups, individuals, and other entities to mitigate the economic losses caused by Steller sea lion protection measures heretofore incurred; provided that the President of such organization shall provide a written report to the Secretary and the House and Senate Appropriations Committee within 6 months of receipt of these funds.”
 
 #### Limitation on Fishing Permits
 
@@ -162,7 +162,7 @@ Eligible Vessels.—Only vessels that are 60 feet or less in length overall and 
 
 “(c)
 
-Groundfish Optimum Yield Limitation.—The optimum yield for groundfish in the Bering Sea and Aleutian Islands Management Area shall not exceed 2 million metric tons. For the purposes of implementing subsections (a) and (b) without adversely affecting current fishery participants, the allocation under subsection (a) may be in addition to such optimum yield during the years 2004 through 2008 upon recommendation by the North Pacific Council and approval by the Secretary of Commerce (if consistent with the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)).
+Groundfish Optimum Yield Limitation.—The optimum yield for groundfish in the Bering Sea andAleutian Islands Management Area shall not exceed 2 million metric tons. For the purposes of implementing subsections (a) and (b) without adversely affecting current fishery participants, the allocation under subsection (a) may be in addition to such optimum yield during the years 2004 through 2008 upon recommendation by the North Pacific Council and approval by the Secretary of Commerce (if consistent with the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)).
 
 “(d)
 
@@ -206,7 +206,7 @@ Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681�
 
 “(a)
 
-Pollock Community Development Quota.—Effective January 1, 1999, 10 percent of the total allowablecatch of pollock in the Bering Sea and Aleutian Islands Management Area shall be allocated as a directed fishing allowance to the western Alaska community development quota program established under section 305(i) of the Magnuson-Stevens Act (16 U.S.C. 1855(i)).
+Pollock Community Development Quota.—Effective January 1, 1999, 10 percent of the total allowable catch of pollock in the Bering Sea and Aleutian Islands Management Area shall be allocated as a directed fishing allowance to the western Alaska community development quota program established under section 305(i) of the Magnuson-Stevens Act (16 U.S.C. 1855(i)).
 
 “(b)
 
@@ -222,7 +222,7 @@ Inshore/Offshore.—Effective January 1, 1999, the remainder of the pollock tota
 
 “(a)
 
-Federal Loan.—Under the authority of sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g) and notwithstanding the requirements of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a), the Secretary shall, subject to the availability of appropriations for the cost of the direct loan, provide up to $75,000,000 through a direct loan obligation for the payments required under subsection (d).
+Federal Loan.—Under the authority of sections 1111 and 1112 \[now 1113, 1114\] of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g) and notwithstanding the requirements of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a), the Secretary shall, subject to the availability of appropriations for the cost of the direct loan, provide up to $75,000,000 through a direct loan obligation for the payments required under subsection (d).
 
 “(b)
 
@@ -260,11 +260,11 @@ Penalty.—If the catcher/processor under paragraph (1) of section 209 is used o
 
 “(f)
 
-Program Defined; Maturity.—For the purposes of section 1111 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f), the fishing capacity reduction program in this subtitle shall be within the meaning of the term ‘program’ as defined and used in such section. Notwithstanding section 1111(b)(4) of such Act (46 U.S.C. App. 1279f(b)(4)), the debt obligation under subsection (a) of this section may have a maturity not to exceed 30 years.
+Program Defined; Maturity.—For the purposes of section 1111 \[now 1113\] of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f), the fishing capacity reduction program in this subtitle shall be within the meaning of the term ‘program’ as defined and used in such section. Notwithstanding section 1111(b)(4) \[now 1113(b)(4)\] of such Act (46 U.S.C. App. 1279f(b)(4)), the debt obligation under subsection (a) of this section may have a maturity not to exceed 30 years.
 
 “(g)
 
-Fishery Capacity Reduction Regulations.—The Secretary of Commerce shall by not later than October 15, 1998 publish proposed regulations to implement subsections (b), (c), (d), and (e) of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a) and sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g).
+Fishery Capacity Reduction Regulations.—The Secretary of Commerce shall by not later than October 15, 1998 publish proposed regulations to implement subsections (b), (c), (d), and (e) of section 312 of the Magnuson-Stevens Act (16 U.S.C. 1861a) and sections 1111 and 1112 \[now 1113, 1114\] of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f and 1279g).
 
 #### “SEC. 208. ELIGIBLE VESSELS AND PROCESSORS.
 
@@ -424,7 +424,7 @@ Shoreside Processors.—(1) Effective January 1, 2000 and except as provided in 
 
 &emsp;“(A) shoreside processors (including vessels in a single geographic location in Alaska State waters) determined by the Secretary to have processed more than 2,000 metric tons round-weight of pollock in the inshore component of the directed pollock fishery during each of 1996 and 1997; and
 
-&emsp;“(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997,but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metric tons round-weight from such directed fishing allowance in any year.
+&emsp;“(B) shoreside processors determined by the Secretary to have processed pollock in the inshore component of the directed pollock fishery in 1996 or 1997, but to have processed less than 2,000 metric tons round-weight of such pollock in each year, except that effective January 1, 2000, each such shoreside processor may not process more than 2,000 metric tons round-weight from such directed fishing allowance in any year.
 
 “(2) Upon recommendation by the North Pacific Council, the Secretary may approve measures to allow catcher vessels eligible under subsection (a) to deliver pollock harvested from the directed fishing allowance under section 206(b)(1) to shoreside processors not eligible under paragraph (1) if the total allowable catch for pollock in the Bering Sea and Aleutian Islands Management Area increases by more than 10 percent above the total allowable catch in such fishery in 1997, or in the event of the actual total loss or constructive total loss of a shoreside processor eligible under paragraph (1)(A).
 
@@ -534,7 +534,7 @@ Catcher Vessels to Motherships.—
 
 &emsp;“(1)
 
-Processing.—Effective January 1, 2000, the authority in section 1 of the Act of June 25, 1934 (48 Stat. 1213 and 1214; 15 U.S.C. 521 et seq.) shall extend to processing by motherships eligible under section 208(d) solely for the purposes of forming or participating in a fishery cooperative in the directed pollock fishery upon the filing of a contract to implement a fishery cooperative under subsection (a) which has been entered into by the owners of 80 percent or more of the catcher vessels eligible under section 208(c) for the duration of such contract, provided that such owners agree to the terms of the fishery cooperative involving processing by the motherships.
+Processing.—Effective January 1, 2000, the authority in section 1 of the Act of June 25, 1934 (48 Stat. 1213 and 1214; 15 U.S.C. 521 et seq.) shall extend to processing by motherships eligible under section208(d) solely for the purposes of forming or participating in a fishery cooperative in the directed pollock fishery upon the filing of a contract to implement a fishery cooperative under subsection (a) which has been entered into by the owners of 80 percent or more of the catcher vessels eligible under section 208(c) for the duration of such contract, provided that such owners agree to the terms of the fishery cooperative involving processing by the motherships.
 
 &emsp;“(2)
 
@@ -562,7 +562,7 @@ Landing Tax Jurisdiction.—Any contract filed under subsection (a) shall includ
 
 “(g)
 
-Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered thecommission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
+Penalties.—The violation of any of the requirements of this subtitle or any regulation or permit issued pursuant to this subtitle shall be considered the commission of an act prohibited by section 307 of the Magnuson-Stevens Act (16 U.S.C. 1857), and sections 308, 309, 310, and 311 of such Act (16 U.S.C. 1858, 1859, 1860, and 1861) shall apply to any such violation in the same manner as to the commission of an act prohibited by section 307 of such Act (16 U.S.C. 1857). In addition to the civil penalties and permit sanctions applicable to prohibited acts under section 308 of such Act (16 U.S.C. 1858), any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, United States Code, to have violated a requirement of this section shall be subject to the forfeiture to the Secretary of Commerce of any fish harvested or processed during the commission of such act.
 
 #### “SEC. 211. PROTECTIONS FOR OTHER FISHERIES; CONSERVATION MEASURES.
 
@@ -662,7 +662,7 @@ Bycatch Information.—Notwithstanding section 402 of the Magnuson-Stevens Act (
 
 “(e)
 
-Community Development Loan Program.—Under the authority of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.), and subject to the availability of appropriations, the Secretary is authorized to provide direct loan obligations to communities eligible to participate in the western Alaska community development quota program established under 304(i) \[305(i)\] of the Magnuson-Stevens Act (16 U.S.C. 1855(i)) for the purposes of purchasing all or part of an ownership interest in vessels and shoreside processors eligible under subsections (a), (b), (c), (d), (e), or (f) of section 208. Notwithstanding the eligibility criteria in section 208(a) and section 208(c), the LISA MARIE (United States official number 1038717) shall be eligible under such sections in the same manner as other vessels eligible under such sections.
+Community Development Loan Program.—Under the authority of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1271 et seq.), and subject to the availability of appropriations, the Secretary is authorized to provide direct loan obligations to communitieseligible to participate in the western Alaska community development quota program established under 304(i) \[305(i)\] of the Magnuson-Stevens Act (16 U.S.C. 1855(i)) for the purposes of purchasing all or part of an ownership interest in vessels and shoreside processors eligible under subsections (a), (b), (c), (d), (e), or (f) of section 208. Notwithstanding the eligibility criteria in section 208(a) and section 208(c), the LISA MARIE (United States official number 1038717) shall be eligible under such sections in the same manner as other vessels eligible under such sections.
 
 #### “SEC. 212. RESTRICTION ON FEDERAL LOANS.
 
@@ -720,7 +720,7 @@ Pub. L. 100–589, §5, Nov. 3, 1988, 102 Stat. 2984, related to requirement of 
 
 #### Exclusive Economic Zone: Atlantic Striped Bass Protection
 
-Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, §3(c), Dec. 16, 1997, 111 Stat. 2677.
+Pub. L. 100–589, §6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, §4, Oct. 17, 1991, 105 Stat.627; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, §3(c), Dec. 16, 1997, 111 Stat. 2677.
 
 #### Atlantic Striped Bass Conservation
 

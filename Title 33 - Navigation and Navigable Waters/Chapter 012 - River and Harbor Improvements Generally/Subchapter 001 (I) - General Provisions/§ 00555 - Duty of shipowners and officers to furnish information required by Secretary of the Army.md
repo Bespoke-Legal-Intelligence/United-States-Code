@@ -4,7 +4,7 @@ Owners, agents, masters, and clerks of vessels and other craft plying upon the n
 
 Every person or persons offending against the provisions of this section shall, for each and every offense, be liable to a fine of not more than $5,000, or imprisonment not exceeding two months, to be enforced in any district court in the United States within whose territorial jurisdiction such offense may have been committed. In addition, the Secretary may assess a civil penalty of up to $2,500, per violation, against any person or entity that fails to provide timely, accurate statements required to be submitted pursuant to this section by the Secretary.
 
-(Sept. 22, 1922, ch. 427, §11, 42 Stat. 1043; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L.99–662, title IX, §919(f), Nov. 17, 1986, 100 Stat. 4193.)
+(Sept. 22, 1922, ch. 427, §11, 42 Stat. 1043; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §919(f), Nov. 17, 1986, 100 Stat. 4193.)
 
 #### Codification
 

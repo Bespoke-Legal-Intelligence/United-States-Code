@@ -1,6 +1,6 @@
 ### §708. Educational leave of absence
 
-(a) Under such regulations as the Secretary of Defense may prescribe after consultation with the Secretary of Homeland Security and subject to subsection (b), the Secretary concerned may grant to any eligible member (as defined in subsection (e)) a leave of absence for a period of not to exceed two years for the purpose of permitting the member to pursue a program of education.
+(a) Under such regulations as the Secretary of Defense may prescribe after consultation with the Secretary of Homeland Security and subject to subsection (b), the Secretary concerned may grant to any eligible member (as defined in subsection (e)) a leave of absence for the purpose of permitting the member to pursue a program of education. The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.
 
 (b)(1) A member may not be granted a leave of absence under this section unless—
 
@@ -24,9 +24,13 @@
 
 &emsp;(2) in the case of an officer, has completed the officer's initial period of obligated service on active duty.
 
-(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 105–85, div. A, title VI, §603(d)(2)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 98–525, title VII, §707(a)(1), Oct. 19, 1984, 98 Stat. 2571; amended Pub. L. 100–26, §7(i)(2), (k)(3), Apr. 21, 1987, 101 Stat. 282, 284; Pub. L. 103–337, div. A, title X, §1070(e)(2), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 105–85, div. A, title VI, §603(d)(2)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §554, Oct. 28, 2004, 118 Stat. 1913.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375, §554(2), inserted at end “The period of a leave of absence granted under this section may not exceed two years, except that the period may exceed two years but may not exceed three years in the case of an eligible member pursuing a program of education in a health care profession.”
+
+Pub. L. 108–375, §554(1), which directed striking out “for a period not to exceed two years”, was executed by striking out “for a period of not to exceed two years” after “leave of absence” to reflect the probable intent of Congress.
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 

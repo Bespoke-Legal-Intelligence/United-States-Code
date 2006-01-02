@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Attorney General shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshal of the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
+In General.—The Attorney General or the Secretary of Homeland Security, as applicable, shall allow and pay only the reasonable and actual cost of the subsistence of prisoners in the custody of any marshal of the United States, and shall prescribe such regulations for the government of the marshals as will enable him to determine the actual and reasonable expenses incurred.
 
 (b)
 
@@ -10,17 +10,13 @@ Health Care Items and Services.—
 
 &emsp;(1)
 
-In general.—Payment for costs incurred for the provision of health care items and services for individuals in the custody of the United States Marshals Service, the Federal Bureau of Investigation and the Immigration and Naturalization Service shall not exceed the lesser of the amount that would be paid for the provision of similar health care items and services under—
-
-&emsp;&emsp;(A) the Medicare program under title XVIII of the Social Security Act; or
-
-&emsp;&emsp;(B) the Medicaid program under title XIX of such Act of the State in which the services were provided.
+In general.—Payment for costs incurred for the provision of health care items and services for individuals in the custody of the United States Marshals Service, the Federal Bureau of Investigation and the Department of Homeland Security shall be the amount billed, not to exceed the amount that would be paid for the provision of similar health care items and services under the Medicare program under title XVIII of the Social Security Act.
 
 &emsp;(2)
 
 Full and final payment.—Any payment for a health care item or service made pursuant to this subsection, shall be deemed to be full and final payment.
 
-(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §114\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–553, §1(a)(2) \[title VI, §626\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108.)
+(June 25, 1948, ch. 645, 62 Stat. 848; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §114\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20; Pub. L. 106–553, §1(a)(2) \[title VI, §626\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108; Pub. L. 109–162, title XI, §1157, Jan. 5, 2006, 119 Stat. 3114.)
 
 #### Historical and Revision Notes
 
@@ -32,15 +28,19 @@ Changes of phraseology were made.
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–162, §1157(1), inserted “or the Secretary of Homeland Security, as applicable,” after “The Attorney General”.
+
+Subsec. (b)(1). Pub. L. 109–162, §1157(2), substituted “the Department of Homeland Security” for “the Immigration and Naturalization Service”, “shall be the amount billed, not to exceed the amount” for “shall not exceed the lesser of the amount”, and “items and services under the Medicare program” for “items and services under—
+
+&emsp;“(A) the Medicare program”
+
+> and struck out subpar. (B) which read as follows: “the Medicaid program under title XIX of such Act of the State in which the services were provided.”
 
 2000—Subsec. (b)(1). Pub. L. 106–553 inserted “, the Federal Bureau of Investigation” after “United States Marshals Service”.
 
 1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
-
-#### Abolition of Immigration and Naturalization Service and Transfer of Functions
-
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

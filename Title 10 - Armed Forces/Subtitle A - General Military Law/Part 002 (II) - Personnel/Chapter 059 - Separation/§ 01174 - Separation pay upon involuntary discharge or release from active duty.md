@@ -18,7 +18,7 @@ Regular Enlisted Members.—(1) A regular enlisted member of an armed force who 
 
 (c)
 
-Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of an armedforce other than a regular member who is discharged or released from active duty and who has completed six or more, but fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary concerned, if—
+Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of an armed force other than a regular member who is discharged or released from active duty and who has completed six or more, but fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary concerned, if—
 
 &emsp;(A) the member's discharge or release from active duty is involuntary; or
 
@@ -52,7 +52,7 @@ Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As
 
 &emsp;(A) is discharged or released from active duty at his request;
 
-&emsp;(B) is discharged or released from active duty during an initial term of enlistment or an initial period of obligated service;
+&emsp;(B) is discharged or released from active duty during an initial term of enlistment or an initial period of obligated service, unless the member is an officer discharged or released under the authority of section 647 of this title;
 
 &emsp;(C) is released from active duty for training; or
 
@@ -78,13 +78,15 @@ Regulations; Crediting of Other Commissioned Service.—(1) The Secretary of Def
 
 (2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
-(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107.)
+(Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, §501(c)(2), Oct. 28, 2004, 118 Stat. 1874.)
 
 #### References in Text
 
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified generally to chapter 24 (§3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2004—Subsec. (e)(2)(B). Pub. L. 108–375 inserted “, unless the member is an officer discharged or released under the authority of section 647 of this title” after “obligated service”.
 
 2000—Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a)\], added par. (4).
 
@@ -152,13 +154,17 @@ Subsec. (i). Pub. L. 101–510, §501(h)(6), inserted heading.
 
 1983—Subsec. (c). Pub. L. 98–94, §911(a), amended subsec. (c) generally, designating existing provisions as par. (1) and existing pars. (1) and (2) as subpars. (A) and (B), respectively, and in provisions preceding subpar. (A) substituted “Except as provided in paragraphs (2) and (3), a member” for “A member” and “fewer than 20, years of active service immediately before that discharge or release is entitled to separation pay” for “less than twenty, years of active service immediately before that discharge or release is entitled, unless the Secretary concerned determines that the conditions under which the member is discharged or separated do not warrant such pay, to separation pay”, and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months ormore is counted as a whole year and a part of a year that is less than six months is disregarded”.
+Subsec. (f). Pub. L. 98–94, §923(b), amended subsec. (f) generally, substituting “each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded” for “a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded”.
 
 Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted “, other than section 1212 of this title,” after “any other provision of law”.
 
 Subsec. (i). Pub. L. 98–94, §1007(c)(2), designated existing provisions as par. (1) and added par. (2).
 
 1981—Subsec. (c). Pub. L. 97–22 substituted “after September 14, 1981,” for “on or after the effective date of the Defense Officer Personnel Management Act”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -206,13 +212,9 @@ Section 10(b) of Pub. L. 97–22 provided that the amendment made by that sectio
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 580, 642, 1165, 1166, 1174a, 1186, 6383, 14517, 14905 of this title; title 14 sections 286, 286a; title 33 section 3042.
 

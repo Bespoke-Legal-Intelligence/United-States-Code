@@ -32,7 +32,7 @@ Any permit issued under this section shall—
 
 &emsp;(ii) is registered or holds a license issued under 7 U.S.C. 2131 et seq.; and
 
-&emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and that access to such facilities is not limited or restricted other than by charging of an admission fee.
+&emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and thataccess to such facilities is not limited or restricted other than by charging of an admission fee.
 
 (B) A permit under this paragraph shall grant to the person to which it is issued the right, without obtaining any additional permit or authorization under this chapter, to—
 
@@ -58,7 +58,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) finds in concurrence with the Secretary of Agriculture, that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(ii) and is not reasonably likely to meet those requirements in the near future, or
 
-&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonablylikely to meet those requirements in the near future,
+&emsp;(ii) finds that a person that holds a permit under this paragraph for a marine mammal, or a person exercising rights under subparagraph (C), no longer meets the requirements of subparagraph (A)(i) or (iii) and is not reasonably likely to meet those requirements in the near future,
 
 > the Secretary may revoke the permit in accordance with subsection (e) of this section, seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
 

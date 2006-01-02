@@ -64,7 +64,7 @@ Notwithstanding any other provision of this subchapter, medical assistance for i
 
 #### References in Text
 
-Section 8801 of title 20, referred to in subsec. (b)(3)(A)(i)(I), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
+Section 8801 of title 20, referred to in subsec. (b)(3)(A)(i)(III), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
 
 The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 

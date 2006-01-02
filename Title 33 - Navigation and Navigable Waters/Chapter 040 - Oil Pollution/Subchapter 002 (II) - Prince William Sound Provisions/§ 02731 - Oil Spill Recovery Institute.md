@@ -74,7 +74,7 @@ Employees of the Institute shall not, by reason of such employment, be considere
 
 #### (i) Termination
 
-The authorization in section 2736(b) of this title providing funding for the Institute shall terminate September 30, 2012.
+The authorization in section 2736(b) of this title providing funding for the Institute shall terminate 1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased.
 
 #### (j) Use of funds
 
@@ -88,9 +88,11 @@ The Institute shall publish and make available to any person upon request the re
 
 In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.
 
-(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, §427, Nov. 25, 2002, 116 Stat. 2127.)
+(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, §427, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 109–58, title III, §389(1), Aug. 8, 2005, 119 Stat. 747.)
 
 #### Amendments
+
+2005—Subsec. (i). Pub. L. 109–58 substituted “1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased” for “September 30, 2012”.
 
 2002—Subsec. (i). Pub. L. 107–295 substituted “September 30, 2012” for “10 years after October 19, 1996”.
 

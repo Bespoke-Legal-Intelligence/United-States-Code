@@ -12,7 +12,7 @@ In general.—The responsibilities of an eligible agency under this subchapter s
 
 &emsp;&emsp;(B) consultation with the Governor and appropriate agencies, groups, and individuals including parents, students, teachers, representatives of businesses, labor organizations, eligible recipients, State and local officials, and local program administrators, involved in the planning, administration, evaluation, and coordination of programs funded under this subchapter;
 
-&emsp;&emsp;(C) convening and meeting as an eligible agency (consistent with State law and procedure for the conduct of such meetings) at such time as the eligible agency determinesnecessary to carry out the eligible agency's responsibilities under this subchapter, but not less than four times annually; and
+&emsp;&emsp;(C) convening and meeting as an eligible agency (consistent with State law and procedure for the conduct of such meetings) at such time as the eligible agency determines necessary to carry out the eligible agency's responsibilities under this subchapter, but not less than four times annually; and
 
 &emsp;&emsp;(D) the adoption of such procedures as the eligible agency considers necessary to—
 

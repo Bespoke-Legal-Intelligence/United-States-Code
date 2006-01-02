@@ -14,7 +14,7 @@ As used in this part:
 
 &emsp;(6) The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings prescribed for such terms by paragraphs (4), (5), and (6), respectively, of section 102 <sup>1</sup> of the Older Americans Act of 1965 \[42 U.S.C. 3002\].
 
-&emsp;(7) The term “low-income” means that income in relation to family size which (A) is at or below 125 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget, except that the Secretary may establish a higher level if the Secretary, after consulting with the Secretary of Agriculture and the Director of the Community Services Administration, determines that such a higher level is necessary to carry out the purposes of this part and is consistent with the eligibility criteria established for the weatherization program under section 2809(a)(12) of this title, (B) is the basis on which cash assistance payments have been paid during the preceding 12-month period under titles IV and XVI of the Social Security Act \[42 U.S.C. 601 et seq., 1381 et seq.\] or applicable State or local law, or (C) if a State elects, is the basis for eligibility for assistance under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621), provided that such basis is at least 125 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget.
+&emsp;(7) The term “low-income” means that income in relation to family size which (A) is at or below 150 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget, except that the Secretary may establish a higher level if the Secretary, after consulting with the Secretary of Agriculture and the Director of the Community Services Administration, determines that such a higher level is necessary to carry out the purposes of this part and is consistent with the eligibility criteria established for the weatherization program under section 2809(a)(12) of this title, (B) is the basis on which cash assistance payments have been paid during the preceding 12-month period under titles IV and XVI of the Social Security Act \[42 U.S.C. 601 et seq., 1381 et seq.\] or applicable State or local law, or (C) if a State elects, is the basis for eligibility for assistance under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621), provided that such basis is at least 150 percent of the poverty level determined in accordance with criteria established by the Director of the Office of Management and Budget.
 
 &emsp;(8) The term “State” means each of the States and the District of Columbia.
 
@@ -46,7 +46,7 @@ As used in this part:
 
 &emsp;&emsp;(J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
 
-(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242.)
+(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat.2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 109–58, title I, §122(b), Aug. 8, 2005, 119 Stat. 616.)
 
 #### References in Text
 
@@ -61,6 +61,8 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 The Low-Income Home Energy Assistance Act of 1981, referred to in par. (7), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of this title and Tables.
 
 #### Amendments
+
+2005—Par. (7). Pub. L. 109–58 substituted “150 percent” for “125 percent” in two places.
 
 1998—Par. (5)(A). Pub. L. 105–220 substituted “an individual with a disability, as defined in section 705 of title 29” for “a handicapped individual as defined in section 7(7) of the Rehabilitation Act of 1973”.
 

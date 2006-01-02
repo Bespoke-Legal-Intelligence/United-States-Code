@@ -156,7 +156,7 @@ In awarding grants under this section, the Secretary—
 
 #### (3) Reservation of funds for national program purposes
 
-&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance tograntees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
+&emsp;The Secretary may use not more than 3 percent of funds appropriated to carry out this section for providing technical assistance to grantees, obtaining assistance of experts and consultants, holding meetings, developing of tools, disseminating of information, evaluation, and carrying out activities that will extend the benefits of programs funded under this section to communities other than the community served by the program funded.
 
 #### (f) Grantee requirements
 
@@ -184,7 +184,7 @@ In awarding grants under this section, the Secretary—
 
 #### (g) Maintenance of effort
 
-With respect to activities for which a grant under this section is authorized, the Secretary may award such a grant only if the applicant for the grant, and each of the participating providers, agree that the grantee and each such provider will maintain its expenditures of non-Federal funds for such activities at a level that is not less than the level of such expenditures during the fiscal year immediately preceding the fiscal year for which the applicant is applying to receive such grant.
+With respect to activities for which a grant under this section is authorized, the Secretary may award such a grant only if the applicant forthe grant, and each of the participating providers, agree that the grantee and each such provider will maintain its expenditures of non-Federal funds for such activities at a level that is not less than the level of such expenditures during the fiscal year immediately preceding the fiscal year for which the applicant is applying to receive such grant.
 
 #### (h) Technical assistance
 
@@ -224,7 +224,7 @@ Another prior section 256, act July 1, 1944, ch. 373, title III, §340, formerly
 
 #### Purpose
 
-Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: “The purpose of this title \[enactingthis subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
+Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: “The purpose of this title \[enacting this subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
 
 &emsp;“(1) coordination of services to allow individuals to receive efficient and higher quality care and to gain entry into and receive services from a comprehensive system of care;
 

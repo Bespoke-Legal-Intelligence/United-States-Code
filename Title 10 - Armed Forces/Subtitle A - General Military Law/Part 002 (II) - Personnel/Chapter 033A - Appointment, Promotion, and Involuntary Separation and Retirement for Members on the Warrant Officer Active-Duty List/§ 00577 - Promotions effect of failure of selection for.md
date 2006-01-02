@@ -8,7 +8,3 @@ A warrant officer who has been considered for promotion by a selection board con
 
 Provisions similar to those in this section were contained in section 561 of this title prior to repeal by Pub. L. 102–190, §1112(a).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 575 of this title.
-

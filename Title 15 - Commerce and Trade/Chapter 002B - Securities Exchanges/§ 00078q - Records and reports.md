@@ -40,7 +40,7 @@
 
 &emsp;(B) Any recordkeeping rules adopted under this subsection for a broker or dealer registered pursuant to section 78<i>o</i>(b)(11) of this title, an exchange registered pursuant to section 78f(g) of this title, or a national securities association registered pursuant to section 78<i>o</i>–3(k) of this title shall be limited to records with respect to persons, accounts, agreements, contracts, and transactions involving security futures products.
 
-&emsp;(C) Nothing in the proviso in paragraph (1) shall be construed to impair or limit (other than by the requirement of prior consultation) the power of the Commission under this subsection to examine any clearing agency, transfer agent, or municipal securities dealer or to affect in any way the power of the Commission under any other provision of this chapter or otherwise to inspect, examine, or investigate any such clearing agency, transfer agent, or municipal securities dealer.
+&emsp;(C) Nothing in the proviso in paragraph (1) shall be construed to impair or limit (otherthan by the requirement of prior consultation) the power of the Commission under this subsection to examine any clearing agency, transfer agent, or municipal securities dealer or to affect in any way the power of the Commission under any other provision of this chapter or otherwise to inspect, examine, or investigate any such clearing agency, transfer agent, or municipal securities dealer.
 
 #### (c) Copies of reports filed with other regulatory agencies
 
@@ -178,11 +178,11 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 &emsp;&emsp;&emsp;(iii) a foreign bank that controls, directly or indirectly, a corporation chartered under section 25A of the Federal Reserve Act \[12 U.S.C. 611 et seq.\],
 
-> &emsp;&emsp;may elect to become supervised by filing with the Commission a notice of intention to become supervised, pursuant to subparagraph (B) of this paragraph. Any investment bank holding company filing such a notice shall be supervised in accordance with this section and comply with the rules promulgated by the Commission applicable to supervised investment bank holding companies.
+> &emsp;&emsp;may elect to become supervised by filing with the Commission a notice of intention to become supervised, pursuant to subparagraph (B) of this paragraph. Any investmentbank holding company filing such a notice shall be supervised in accordance with this section and comply with the rules promulgated by the Commission applicable to supervised investment bank holding companies.
 
 #### (B) Notification of status as a supervised investment bank holding company
 
-&emsp;&emsp;An investment bank holding company that elects under subparagraph (A) to become supervised by the Commission shall file with the Commission a written notice of intention to become supervised by the Commission in such form and containing such information and documents concerning such investment bank holding company as the Commission, by rule, may prescribe as necessary or appropriate in furtherance of the purposes of this section. Unless the Commission findsthat such supervision is not necessary or appropriate in furtherance of the purposes of this section, such supervision shall become effective 45 days after the date of receipt of such written notice by the Commission or within such shorter time period as the Commission, by rule or order, may determine.
+&emsp;&emsp;An investment bank holding company that elects under subparagraph (A) to become supervised by the Commission shall file with the Commission a written notice of intention to become supervised by the Commission in such form and containing such information and documents concerning such investment bank holding company as the Commission, by rule, may prescribe as necessary or appropriate in furtherance of the purposes of this section. Unless the Commission finds that such supervision is not necessary or appropriate in furtherance of the purposes of this section, such supervision shall become effective 45 days after the date of receipt of such written notice by the Commission or within such shorter time period as the Commission, by rule or order, may determine.
 
 #### (2) Election not to be supervised by the Commission as an investment bank holding company
 
@@ -296,7 +296,7 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (2) Coordination of examinations
 
-&emsp;The Commission and the examining authorities shall share such information, including reports of examinations, customer complaint information, and other nonpublic regulatory information, as appropriate to foster a coordinated approach to regulatory oversight of brokers and dealers that are subject to examination by more than one examining authority.
+&emsp;The Commission and the examining authorities shall share such information, includingreports of examinations, customer complaint information, and other nonpublic regulatory information, as appropriate to foster a coordinated approach to regulatory oversight of brokers and dealers that are subject to examination by more than one examining authority.
 
 #### (3) Examinations for cause
 
@@ -310,7 +310,7 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (B) Appropriate disclosure not prohibited
 
-&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority towithhold information from the Congress, or prevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
+&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority to withhold information from the Congress, or prevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
 #### (5) “Examining authority” defined
 

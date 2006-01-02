@@ -92,7 +92,7 @@ The purposes of this section are as follows:
 
 &emsp;&emsp;(D) An analysis of the statements and writing of the People's Republic of China officials and officially-sanctioned writings that bear on the intentions, if any, of the Government of the People's Republic of China regarding the pursuit of military competition with, and leverage over, or cooperation with, the United States and the Asian allies of the United States.
 
-&emsp;&emsp;(E) The military actions taken by the Government of the People's Republic of China during the preceding year that bear on the national security of the United States and the regional stability of the Asian allies of the United States.
+&emsp;&emsp;(E) The military actions taken by the Government of the People's Republic of Chinaduring the preceding year that bear on the national security of the United States and the regional stability of the Asian allies of the United States.
 
 &emsp;&emsp;(F) The effects, if any, on the national security interests of the United States of the use by the People's Republic of China of financial transactions and capital flow and currency manipulations.
 
@@ -160,21 +160,21 @@ The purposes of this section are as follows:
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to the Commission for fiscal year 2001, and for each fiscal year thereafter, such sums as may be necessary to enable the Commission to carry out its functions under this section.
+&emsp;There is authorized to be appropriated to the Commission for fiscal year 2001, and for eachfiscal year thereafter, such sums as may be necessary to enable the Commission to carry out its functions under this section.
 
 #### (2) Availability
 
 &emsp;Amounts appropriated to the Commission shall remain available until expended.
 
-#### (g) Federal Advisory Committee Act
+#### (g) Applicability of FACA
 
-The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Commission.
 
 #### (h) Effective date
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556; Pub. L. 108–7, div. P, §2(b)(1), (c)(1), Feb. 20, 2003, 117 Stat. 552; Pub. L. 109–108, title VI, §635(b), Nov. 22, 2005, 119 Stat. 2347.)
 
 #### References in Text
 
@@ -189,6 +189,8 @@ The first day of the 107th Congress, referred to in subsec. (h), was Jan. 3, 200
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the U.S.-China Relations Act of 2000 which comprises this chapter.
 
 #### Amendments
+
+2005—Subsec. (g). Pub. L. 109–108 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.”
 
 2003—Pub. L. 108–7, §2(b)(1)(A), inserted “Economic and” before “Security” in section catchline.
 
@@ -238,11 +240,11 @@ Proliferation practices.—The Commission shall analyze and assess the Chinese r
 
 &emsp;“(B)
 
-Economic reforms and united states economic transfers.—The Commission shall analyze and assess the qualitative and quantitative nature of the shift of United States production activities to China, including the relocation of high-technology,manufacturing, and R\&D facilities; the impact of these transfers on United States national security, including political influence by the Chinese Government over American firms, dependence of the United States national security industrial base on Chinese imports, the adequacy of United States export control laws, and the effect of these transfers on United States economic security, employment, and the standard of living of the American people; analyze China's national budget and assess China's fiscal strength to address internal instability problems and assess the likelihood of externalization of such problems.
+Economic reforms and united states economic transfers.—The Commission shall analyze and assess the qualitative and quantitative nature of the shift of United States production activities to China, including the relocation of high-technology, manufacturing, and R\&D facilities; the impact of these transfers on United States national security, including political influence by the Chinese Government over American firms, dependence of the United States national security industrial base on Chinese imports, the adequacy of United States export control laws, and the effect of these transfers on United States economic security, employment, and the standard of living of the American people; analyze China's national budget and assess China's fiscal strength to address internal instability problems and assess the likelihood of externalization of such problems.
 
 &emsp;“(C)
 
-Energy.—The Commission shall evaluate and assess how China's large and growing economy will impact upon world energy supplies and the role the United States can play, including joint R\&D efforts and technological assistance, in influencing China's energy policy.
+Energy.—The Commission shall evaluate and assess how China's large and growing economy will impact upon world energy supplies and the role theUnited States can play, including joint R\&D efforts and technological assistance, in influencing China's energy policy.
 
 &emsp;“(D)
 
@@ -267,4 +269,8 @@ World trade organization compliance.—The Commission shall review China's recor
 &emsp;“(I)
 
 Media control.—The Commission shall evaluate Chinese government efforts to influence and control perceptions of the United States and its policies through the internet, the Chinese print and electronic media, and Chinese internal propaganda.”
+
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 109–108, title VI, §635(a), Nov. 22, 2005, 119 Stat. 2346.
 

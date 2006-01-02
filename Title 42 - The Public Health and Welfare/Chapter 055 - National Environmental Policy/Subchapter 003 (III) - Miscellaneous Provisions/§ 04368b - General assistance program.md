@@ -16,7 +16,7 @@ The purposes of this section are to—
 
 For purposes of this section:
 
-&emsp;(1) The term “Indian tribal government” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C.A. 1601, et seq.)), which is recognized as eligible for the special services provided by the United States to Indians because of their status as Indians.
+&emsp;(1) The term “Indian tribal government” means any Indian tribe, band, nation, or otherorganized group or community, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C.A. 1601, et seq.)), which is recognized as eligible for the special services provided by the United States to Indians because of their status as Indians.
 
 &emsp;(2) The term “intertribal consortia” or “intertribal consortium” means a partnership between two or more Indian tribal governments authorized by the governing bodies of those tribes to apply for and receive assistance pursuant to this section.
 
@@ -24,7 +24,7 @@ For purposes of this section:
 
 #### (d) General assistance program
 
-(1) The Administrator of the Environmental Protection Agency shall establish an Indian Environmental General Assistance Program thatprovides grants to eligible Indian tribal governments or intertribal consortia to cover the costs of planning, developing, and establishing environmental protection programs consistent with other applicable provisions of law providing for enforcement of such laws by Indian tribes on Indian lands.
+(1) The Administrator of the Environmental Protection Agency shall establish an Indian Environmental General Assistance Program that provides grants to eligible Indian tribal governments or intertribal consortia to cover the costs of planning, developing, and establishing environmental protection programs consistent with other applicable provisions of law providing for enforcement of such laws by Indian tribes on Indian lands.
 
 (2) Each grant awarded for general assistance under this subsection for a fiscal year shall be no less than $75,000, and no single grant may be awarded to an Indian tribal government or intertribal consortium for more than 10 percent of the funds appropriated under subsection (h) of this section.
 

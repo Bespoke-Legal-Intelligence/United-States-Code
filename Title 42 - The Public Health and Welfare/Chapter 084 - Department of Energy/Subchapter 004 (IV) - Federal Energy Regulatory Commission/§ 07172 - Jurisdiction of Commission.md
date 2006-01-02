@@ -36,7 +36,7 @@ The Commission shall have jurisdiction to hear and determine any other matter ar
 
 &emsp;(1) involving any agency determination required by law to be made on the record after an opportunity for an agency hearing; or
 
-&emsp;(2) involving any other agency determination which the Secretary determines shall be made on the record after an opportunity for an agency hearing,
+&emsp;(2) involving any other agency determination which the Secretary determines shall bemade on the record after an opportunity for an agency hearing,
 
 > except that nothing in this subsection shall require that functions under sections 6213 and 6214 <sup>1</sup> of this title shall be within the jurisdiction of the Commission unless the Secretary assigns such a function to the Commission.
 
@@ -130,7 +130,7 @@ Withdrawal of complaints.—If a complaint which is filed under section 13 of th
 
 “(e)
 
-Alternative Dispute Resolution.—To the maximum extent practicable, the Commission shall establish appropriate alternative dispute resolution procedures, including required negotiations and voluntary arbitration, early in an oil pipeline rate proceeding as a method preferable to adjudication in resolving disputes relating to the rate. Any proposed rates derived from implementation of such procedures shall be considered by the Commission on an expedited basis for approval.
+Alternative Dispute Resolution.—To the maximum extent practicable, the Commission shall establish appropriate alternative dispute resolution procedures, including required negotiations and voluntaryarbitration, early in an oil pipeline rate proceeding as a method preferable to adjudication in resolving disputes relating to the rate. Any proposed rates derived from implementation of such procedures shall be considered by the Commission on an expedited basis for approval.
 
 #### “SEC. 1803. PROTECTION OF CERTAIN EXISTING RATES.
 

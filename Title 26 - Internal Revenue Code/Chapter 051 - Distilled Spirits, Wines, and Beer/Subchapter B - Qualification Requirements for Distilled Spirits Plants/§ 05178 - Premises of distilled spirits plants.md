@@ -6,7 +6,7 @@
 
 &emsp;(A) The premises of a distilled spirits plant shall be as described in the application required by section 5171(c). The Secretary shall prescribe such regulations relating to the location, construction, arrangement, and protection of distilled spirits plants as he deems necessary to facilitate inspection and afford adequate security to the revenue.
 
-&emsp;(B) No distilled spirits plant for the production of distilled spirits shall be located in any dwelling house, in any shed, yard, or inclosure connected with any dwelling house, or on board any vessel or boat, or on premises where beer or wine is made or produced, or liquors of any description are retailed, or on premiseswhere any other business is carried on (except when authorized under subsection (b)).
+&emsp;(B) No distilled spirits plant for the production of distilled spirits shall be located in any dwelling house, in any shed, yard, or inclosure connected with any dwelling house, or on board any vessel or boat, or on premises where beer or wine is made or produced, or liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under subsection (b)).
 
 &emsp;(C) Notwithstanding any other provision of this chapter relating to distilled spirits plants the Secretary may approve the location, construction, arrangement, and method of operation of any establishment which was qualified to operate on the date preceding the effective date of this section if he deems that such location, construction, arrangement, and method of operation will afford adequate security to the revenue.
 
@@ -103,8 +103,4 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 #### Effective Date of 1971 Amendment
 
 Amendment by Pub. L. 91–659 effective on first day of first calendar month which begins more than 90 days after Jan. 8, 1971, see section 6 of Pub. L. 91–659, set out as an Effective Date note under section 5066 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5511, 5601 of this title.
 

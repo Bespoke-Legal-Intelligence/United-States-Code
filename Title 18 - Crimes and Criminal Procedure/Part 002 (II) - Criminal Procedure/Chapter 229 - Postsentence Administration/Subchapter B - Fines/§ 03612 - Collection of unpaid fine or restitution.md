@@ -80,7 +80,7 @@ Penalty for Delinquent Fine.—If a fine or restitution becomes delinquent, the 
 
 (h)
 
-Waiver of Interest or Penalty by Attorney General.—The Attorney General maywaive all or part of any interest or penalty under this section or any interest or penalty relating to a fine imposed under any prior law if, as determined by the Attorney General, reasonable efforts to collect the interest or penalty are not likely to be effective.
+Waiver of Interest or Penalty by Attorney General.—The Attorney General may waive all or part of any interest or penalty under this section or any interest or penalty relating to a fine imposed under any prior law if, as determined by the Attorney General, reasonable efforts to collect the interest or penalty are not likely to be effective.
 
 (i)
 
@@ -182,7 +182,7 @@ Section 237 of Pub. L. 98–473 provided that:
 
 &emsp;“(A) pay the fine in full;
 
-&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court beforeenactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
+&emsp;“(B) specify, and demonstrate compliance with, an installment schedule established by a court before enactment of the amendments made by this Act \[Oct. 12, 1984\], specifying the dates on which designated partial payments will be made; or
 
 &emsp;“(C) establish with the concurrence of the Attorney General, a new installment schedule of a duration not exceeding two years, except in special circumstances, and specifying the dates on which designated partial payments will be made.
 

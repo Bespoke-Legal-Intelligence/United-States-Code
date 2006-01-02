@@ -70,7 +70,7 @@
 
 #### (iii) Coverage election periods
 
-&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B) and (C) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initial periods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
+&emsp;&emsp;&emsp;Subject to paragraphs (2) and (3) of this subsection, section 1395w–21(e) of this title (other than subparagraphs (B) and (C) of paragraph (2) and the second sentence of paragraph (4) of such section), relating to coverage election periods, including initialperiods, annual coordinated election periods, special election periods, and election periods for exceptional circumstances.
 
 #### (iv) Coverage periods
 
@@ -88,7 +88,7 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The process established under subparagraph (A) shall include, in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed toenroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
+&emsp;&emsp;The process established under subparagraph (A) shall include, in the case of a part D eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) who has failed to enroll in a prescription drug plan or an MA–PD plan, for the enrollment in a prescription drug plan that has a monthly beneficiary premium that does not exceed the premium assistance available under section 1395w–114(a)(1)(A) of this title).<sup>1</sup> If there is more than one such plan available, the Secretary shall enroll such an individual on a random basis among all such plans in the PDP region. Nothing in the previous sentence shall prevent such an individual from declining or changing such enrollment.
 
 #### (2) Initial enrollment period
 
@@ -142,7 +142,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of law but subject to subparagraph (B), the Secretary may provide to each PDP sponsor and MA organization such identifying information about part D eligible individuals as the Secretary determines to be necessary to facilitate efficient marketing of prescription drug plans and MA–PD plans to such individuals and enrollment of such individuals in such plans.
+&emsp;&emsp;Notwithstanding any other provision of law but subject to subparagraph (B), the Secretary may provide to each PDP sponsor and MA organization such identifying information about part D eligible individuals as the Secretary determines to be necessary to facilitate efficient marketing of prescriptiondrug plans and MA–PD plans to such individuals and enrollment of such individuals in such plans.
 
 #### (B) Limitation
 
@@ -236,7 +236,7 @@ Pub. L. 108–173, title I, §101(c), Dec. 8, 2003, 117 Stat. 2150, provided tha
 
 #### Report on Progress in Implementation of Prescription Drug Benefit
 
-Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submit a report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
+Pub. L. 108–173, title I, §101(d), Dec. 8, 2003, 117 Stat. 2150, provided that: “Not later than March 1, 2005, the Secretary \[of Health and Human Services\] shall submita report to Congress on the progress that has been made in implementing the prescription drug benefit under this title \[see Tables for classification\]. The Secretary shall include in the report specific steps that have been taken, and that need to be taken, to ensure a timely start of the program on January 1, 2006. The report shall include recommendations regarding an appropriate transition from the program under section 1860D–31 of the Social Security Act \[section 1395w–141 of this title\] to prescription drug benefits under subpart 1 of part D of title XVIII of such Act \[this subpart\].”
 
 #### State Pharmaceutical Assistance Transition Commission
 

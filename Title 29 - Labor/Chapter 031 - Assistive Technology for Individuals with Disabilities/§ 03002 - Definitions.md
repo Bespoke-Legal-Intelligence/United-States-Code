@@ -62,7 +62,7 @@ In this chapter:
 
 &emsp;&emsp;(A) with regard to policies, means that the policies are consistent with the principles of—
 
-&emsp;&emsp;&emsp;(i) respect for individual dignity, personal responsibility, self-determination, and pursuit of meaningful careers, based on informed choice, of individuals with disabilities;
+&emsp;&emsp;&emsp;(i) respect for individual dignity, personal responsibility, self-determination,and pursuit of meaningful careers, based on informed choice, of individuals with disabilities;
 
 &emsp;&emsp;&emsp;(ii) respect for the privacy, rights, and equal access (including the use of accessible formats) of such individuals;
 
@@ -174,7 +174,7 @@ In this chapter:
 
 #### (19) Universal design
 
-&emsp;The term “universal design” means a concept or philosophy for designing and deliveringproducts and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
+&emsp;The term “universal design” means a concept or philosophy for designing and delivering products and services that are usable by people with the widest possible range of functional capabilities, which include products and services that are directly accessible (without requiring assistive technologies) and products and services that are interoperable with assistive technologies.
 
 (Pub. L. 105–394, §3, Nov. 13, 1998, 112 Stat. 3631; Pub. L. 106–402, title IV, §401(b)(4)(A), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1709.)
 

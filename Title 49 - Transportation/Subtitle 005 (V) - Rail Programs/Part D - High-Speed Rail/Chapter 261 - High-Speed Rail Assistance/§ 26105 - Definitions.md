@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “financial assistance” includes grants, contracts, and cooperative agreements;
+&emsp;(1) the term “financial assistance” includes grants, contracts,,<sup>1</sup> cooperative agreements, and other transactions;
 
 &emsp;(2) the term “high-speed rail” means all forms of nonhighway ground transportation that run on rails or electromagnetic guideways providing transportation service which is—
 
@@ -18,11 +18,13 @@ For purposes of this chapter—
 
 &emsp;(5) the term “State” means any of the several States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States; and
 
-&emsp;(6) the term “United States private business” means a business entity organized under the laws of the United States, or of a State, and conducting substantial business operations in the United States.
+&emsp;(6) the term “United States private business” means a business entity organized underthe laws of the United States, or of a State, and conducting substantial business operations in the United States.
 
-(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(b), June 9, 1998, 112 Stat. 470.)
+(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(b), June 9, 1998, 112 Stat. 470; Pub. L. 109–59, title IX, §9001(c), Aug. 10, 2005, 119 Stat. 1919.)
 
 #### Amendments
+
+2005—Par. (1). Pub. L. 109–59 substituted “, cooperative agreements, and other transactions” for “and cooperative agreements”.
 
 1998—Par. (2). Pub. L. 105–178 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘high-speed rail’ has the meaning given such term under section 511(n) of the Railroad Revitalization and Regulatory Reform Act of 1976;”.
 

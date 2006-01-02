@@ -100,7 +100,7 @@ The determination of the amount of a loan by an eligible institution under subse
 
 #### (6) Repayment period
 
-&emsp;For purposes of calculating the repayment period under section 1078(b)(9) of this title,such period shall commence at the time the first payment of principal is due from the borrower.
+&emsp;For purposes of calculating the repayment period under section 1078(b)(9) of this title, such period shall commence at the time the first payment of principal is due from the borrower.
 
 #### (7) Qualification for forbearance
 
@@ -182,7 +182,7 @@ Subsec. (f)(3). Pub. L. 103–66, §4102(b)(1)(E), substituted “origination fe
 
 Subsec. (f)(4). Pub. L. 103–66, §4102(b)(1)(F), in heading substituted “origination fee” for “insurance premium” and in text substituted “origination fees” for “combined origination fee and insurance premiums” and “to pay” for “and premiums to pay”.
 
-Subsec. (f)(5). Pub. L. 103–66, §4102(b)(1)(G), inserted “origination fee and” in heading and in text substituted “do not exceed the combined origination fee under this subsection and the insurance premium under subsection (h) of this section, the Secretary is directed to lower the origination fee and insurance premium accordingly” for “do not exceed the 6.5 percent insurance premium, the Secretary is directed to lower the insurance premium accordingly”.
+Subsec. (f)(5). Pub. L. 103–66, §4102(b)(1)(G), inserted “origination fee and” in heading and in text substituted “do not exceed the combined origination fee under this subsection and the insurance premium undersubsection (h) of this section, the Secretary is directed to lower the origination fee and insurance premium accordingly” for “do not exceed the 6.5 percent insurance premium, the Secretary is directed to lower the insurance premium accordingly”.
 
 Subsec. (h). Pub. L. 103–208, §2(c)(45), redesignated subsec. (<i>l</i>) as (h). See Codification note above.
 

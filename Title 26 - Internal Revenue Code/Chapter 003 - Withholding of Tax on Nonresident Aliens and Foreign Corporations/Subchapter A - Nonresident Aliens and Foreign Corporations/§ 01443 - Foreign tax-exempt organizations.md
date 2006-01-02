@@ -24,7 +24,3 @@ Amendment by section 101(j)(22) of Pub. L. 91–172 effective Jan. 1, 1970, see 
 
 Amendment by section 121(d)(2)(C) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7701 of this title; title 48 section 1421i.
-

@@ -10,7 +10,7 @@ Not later than April 1, 1996, and annually thereafter, the Secretary shall prepa
 
 &emsp;(4) describes actions taken by the Secretary under section 971d of this title.
 
-(Pub. L. 94–70, §11, as added Pub. L. 104–43, title III, §308, Nov. 3, 1995, 109 Stat. 386; amended Pub.L. 105–384, title II, §202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453.)
+(Pub. L. 94–70, §11, as added Pub. L. 104–43, title III, §308, Nov. 3, 1995, 109 Stat. 386; amended Pub. L. 105–384, title II, §202(b)(1)(E), Nov. 13, 1998, 112 Stat. 3453.)
 
 #### Prior Provisions
 

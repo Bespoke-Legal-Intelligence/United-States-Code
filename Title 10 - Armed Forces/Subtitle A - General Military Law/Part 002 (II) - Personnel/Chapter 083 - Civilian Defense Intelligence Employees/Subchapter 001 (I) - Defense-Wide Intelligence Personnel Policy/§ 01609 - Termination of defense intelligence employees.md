@@ -14,7 +14,7 @@ Finality.—A decision by the Secretary of Defense to terminate the employment o
 
 (c)
 
-Notification to Congressional Committees.—Whenever the Secretary of Defense terminates the employment of an employee under the authority of this section, the Secretary shall promptly notify the congressional oversight committees of such termination.
+Notification to Congressional Committees.—Whenever the Secretary of Defense terminates the employment of an employee under the authority of this section, the Secretary shallpromptly notify the congressional oversight committees of such termination.
 
 (d)
 
@@ -33,8 +33,4 @@ Provisions similar to those in this section were contained in sections 1590(e) a
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1613 of this title.
 

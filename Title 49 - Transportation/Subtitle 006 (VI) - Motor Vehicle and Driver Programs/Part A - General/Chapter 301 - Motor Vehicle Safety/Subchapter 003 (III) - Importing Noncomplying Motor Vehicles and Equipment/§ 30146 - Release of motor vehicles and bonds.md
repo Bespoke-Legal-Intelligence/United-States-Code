@@ -20,7 +20,7 @@ Reliance on Manufacturer's Certification.—In making a certification under subs
 
 Evidence of Compliance.—(1) The Secretary of Transportation may require that the certification under subsection (a)(1) of this section be accompanied by evidence of compliance the Secretary considers appropriate or may inspect the certified motor vehicle, or both. If the Secretary gives notice of an inspection, an importer may release the vehicle only after—
 
-&emsp;(A) an inspection showing the motor vehicle complies with applicable motor vehicle safety standards prescribed under this chapter for which the inspection was made; and
+&emsp;(A) an inspection showing the motor vehicle complies with applicable motor vehicle safetystandards prescribed under this chapter for which the inspection was made; and
 
 &emsp;(B) release of the vehicle by the Secretary.
 
@@ -28,7 +28,7 @@ Evidence of Compliance.—(1) The Secretary of Transportation may require that t
 
 (d)
 
-Challenging the Certification.—A motor vehicle or bond may not be released under subsection (a) of this section if the Secretary of Transportation, not later than 30 days after receiving a certification under subsection (a)(1) of this section, gives written notice that the Secretary believes or has reason to believe that the certification is false or contains a mispresentation. The vehicle and bond may be released only after the Secretary is satisfied with the certification and any modification of the certification.
+Challenging the Certification.—A motor vehicle or bond may not be released under subsection (a) of this section if the Secretary of Transportation, not later than 30 days after receiving a certification under subsection (a)(1) of this section, gives written notice that the Secretary believes or has reason to believe that the certification is false or contains a mispresentation.<sup>1</sup> The vehicle and bond may be released only after the Secretary is satisfied with the certification and any modification of the certification.
 
 (e)
 
@@ -71,4 +71,6 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(c)(3)(E); added Oct. 31, 19
 In subsection (a)(1), the words “Except as provided in subsections (c) and (d) of this section” are added because of the restatement.
 
 In subsection (a)(2)(B), the words “showing compliance with the standards” are substituted for “showing no such failure to comply” for clarity.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “misrepresentation.”</i>
 

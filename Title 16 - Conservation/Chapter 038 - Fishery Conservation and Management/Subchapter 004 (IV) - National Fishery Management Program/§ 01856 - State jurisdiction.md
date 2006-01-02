@@ -20,7 +20,7 @@
 
 &emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fishery management plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
 
-&emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is notconsistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was a fishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
+&emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is not consistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was a fishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
 
 &emsp;(C) The fishing vessel is not registered under the law of the State of Alaska and is operating in a fishery in the exclusive economic zone off Alaska for which there was no fishery management plan in place on August 1, 1996, and the Secretary and the North Pacific Council find that there is a legitimate interest of the State of Alaska in the conservation and management of such fishery. The authority provided under this subparagraph shall terminate when a fishery management plan under this chapter is approved and implemented for such fishery.
 
@@ -34,7 +34,7 @@
 
 > the Secretary shall promptly notify such State and the appropriate Council of such finding and of his intention to regulate the applicable fishery within the boundaries of such State (other than its internal waters), pursuant to such fishery management plan and the regulations promulgated to implement such plan.
 
-(2) If the Secretary, pursuant to this subsection, assumes responsibility for the regulation of any fishery, the State involved may at any time thereafter apply to the Secretary for reinstatement of its authority over such fishery. If the Secretary finds that the reasons for which he assumed such regulation no longer prevail, he shall promptly terminate such regulation.
+(2) If the Secretary, pursuant to this subsection, assumes responsibility for the regulation of any fishery, the State involved may atany time thereafter apply to the Secretary for reinstatement of its authority over such fishery. If the Secretary finds that the reasons for which he assumed such regulation no longer prevail, he shall promptly terminate such regulation.
 
 (3) If the State involved requests that a hearing be held pursuant to paragraph (1), the Secretary shall conduct such hearing prior to taking any action under paragraph (1).
 
@@ -72,7 +72,7 @@
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–297, §112(a), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
+1996—Subsec. (a)(3). Pub. L. 104–297, §112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
 
 Subsec. (b)(3). Pub. L. 104–297, §112(b), added par. (3).
 
@@ -108,7 +108,7 @@ In General.—Subject to the provisions of this section and notwithstanding sect
 
 Requirements for State Management.—Any law or regulation adopted by a State under this section for a Dungeness crab fishery—
 
-&emsp;“(1) except as provided in paragraph (2), shall apply equally to vessels engaged in the fishery in the exclusive economic zone and vessels engaged in the fishery in the waters of the State, and without regard to the State that issued the permit under which a vessel is operating;
+&emsp;“(1) except as provided in paragraph (2), shall apply equally to vessels engaged in the fishery in the exclusive economic zone and vessels engaged in the fisheryin the waters of the State, and without regard to the State that issued the permit under which a vessel is operating;
 
 &emsp;“(2) shall not apply to any fishing by a vessel in exercise of tribal treaty rights except as provided in United States v. Washington, D.C. No. CV–70–09213, United States District Court for the Western District of Washington; and
 

@@ -36,7 +36,7 @@ The Commission, or upon the authorization and direction of the Commission, a reg
 
 In this section—
 
-&emsp;(1) the term “securities analyst” means any associated person of a registered broker or dealer that is principally responsible for, and any associated person who reports directly or indirectly to a securities analyst in connection with, the preparation of the substance of a research report, whether or not any such person has the job title of “securities analyst”; and
+&emsp;(1) the term “securities analyst” means any associated person of a registered broker ordealer that is principally responsible for, and any associated person who reports directly or indirectly to a securities analyst in connection with, the preparation of the substance of a research report, whether or not any such person has the job title of “securities analyst”; and
 
 &emsp;(2) the term “research report” means a written or electronic communication that includes an analysis of equity securities of individual companies or industries, and that provides information reasonably sufficient upon which to base an investment decision.
 
@@ -44,5 +44,5 @@ In this section—
 
 #### Commission Authority
 
-Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: “The Commission may promulgateand amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–6\], as added by this section, as is necessary for the protection of investors and in the public interest.”
+Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: “The Commission may promulgate and amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–6\], as added by this section, as is necessary for the protection of investors and in the public interest.”
 

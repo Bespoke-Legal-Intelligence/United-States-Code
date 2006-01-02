@@ -8,7 +8,7 @@
 
 #### (2) Initial Budget Committee action
 
-&emsp;After the submission of such a report, the Committee on the Budget of the Senate may, not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report, in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall containinstructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
+&emsp;After the submission of such a report, the Committee on the Budget of the Senate may, not later than October 15, report to the Senate a resolution. The resolution may affirm the impact of the order envisioned by such report, in whole or in part. To the extent that any part is not affirmed, the resolution shall state which parts are not affirmed and shall contain instructions to committees of the Senate of the type referred to in section 641(a) of this title, sufficient to achieve at least the total level of deficit reduction contained in those sections which are not affirmed.
 
 #### (3) Response of committees
 
@@ -46,7 +46,7 @@
 
 #### (2) Limit on debate
 
-&emsp;Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
+&emsp;Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of thissection, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
 
 #### (3) Limitation on amendments
 

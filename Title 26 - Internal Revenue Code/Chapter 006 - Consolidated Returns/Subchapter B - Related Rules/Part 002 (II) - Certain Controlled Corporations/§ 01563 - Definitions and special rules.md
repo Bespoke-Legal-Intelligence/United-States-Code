@@ -8,17 +8,13 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;One or more chains of corporations connected through stock ownership with a common parent corporation if—
 
-&emsp;&emsp;(A) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of each of the corporations, except the common parent corporation, isowned (within the meaning of subsection (d)(1)) by one or more of the other corporations; and
+&emsp;&emsp;(A) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of each of the corporations, except the common parent corporation, is owned (within the meaning of subsection (d)(1)) by one or more of the other corporations; and
 
 &emsp;&emsp;(B) the common parent corporation owns (within the meaning of subsection (d)(1)) stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of stock of at least one of the other corporations, excluding, in computing such voting power or value, stock owned directly by such other corporations.
 
 #### (2) Brother-sister controlled group
 
-&emsp;Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2)) stock possessing—
-
-&emsp;&emsp;(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and
-
-&emsp;&emsp;(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.
+&emsp;Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2)) stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.
 
 #### (3) Combined group
 
@@ -88,7 +84,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in anothercorporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as “parent corporation”) owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as “subsidiary corporation”), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
@@ -104,7 +100,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(i) stock in such corporation held by an employees’ trust described in section 401(a) which is exempt from tax under section 501(a), if such trust is for the benefit of the employees of such corporation,
 
-&emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one which restricts or limits the employee's right to dispose of such stock, or
+&emsp;&emsp;&emsp;(ii) stock in such corporation owned (within the meaning of subsection (d)(2))by an employee of the corporation if such stock is subject to conditions which run in favor of any of such common owners (or such corporation) and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock. If a condition which limits or restricts the employee's right (or the direct owner's right) to dispose of such stock also applies to the stock held by any of the common owners pursuant to a bona fide reciprocal stock purchase arrangement, such condition shall not be treated as one which restricts or limits the employee's right to dispose of such stock, or
 
 &emsp;&emsp;&emsp;(iii) stock in such corporation owned (within the meaning of subsection (d)(2)) by an organization to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by such corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of subparagraph (A)(ii)) of such corporation, by an officer of such corporation, or by any combination thereof.
 
@@ -168,7 +164,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (B) Adult children and grandchildren
 
-&emsp;&emsp;An individual who owns (within the meaning of subsection (d)(2), but without regard to this subparagraph) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock in a corporation shall be considered as owning the stock in such corporation owned, directly or indirectly, by or for his parents, grandparents, grandchildren, and children who have attained the age of 21 years.
+&emsp;&emsp;An individual who owns (within the meaning of subsection (d)(2), but without regardto this subparagraph) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock in a corporation shall be considered as owning the stock in such corporation owned, directly or indirectly, by or for his parents, grandparents, grandchildren, and children who have attained the age of 21 years.
 
 #### (C) Adopted child
 
@@ -222,9 +218,31 @@ For purposes of this part, the term “controlled group of corporations” means
 
 > &emsp;then such franchised corporation shall be treated as an excluded member of such group, under subsection (b)(2), for such taxable year.
 
-(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 120; amended Pub. L. 91–172, title IV, §401(c), (d), Dec. 30, 1969, 83 Stat. 602; Pub. L. 91–373, title I, §102(b), Aug. 10, 1970, 84 Stat. 696; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(22), July 18, 1984, 98 Stat. 757; Pub. L. 99–514, title X, §1024(c)(17), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–647, title I, §1018(s)(3)(A), Nov. 10, 1988, 102 Stat. 3587.)
+#### (5) Brother-sister controlled group definition for provisions other than this part
+
+#### (A) In general
+
+&emsp;&emsp;Except as specifically provided in an applicable provision, subsection (a)(2) shall be applied to an applicable provision as if it read as follows:
+
+#### “(2) Brother-sister controlled group
+
+&emsp;“Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
+
+&emsp;&emsp;“(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
+
+&emsp;&emsp;“(B) more than 50 percent of the total combined voting power of all classes of stockentitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
+
+#### (B) Applicable provision
+
+&emsp;&emsp;For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
+
+(Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 120; amended Pub. L. 91–172, title IV, §401(c), (d), Dec. 30, 1969, 83 Stat. 602; Pub. L. 91–373, title I, §102(b), Aug. 10, 1970, 84 Stat. 696; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(22), July 18, 1984, 98 Stat. 757; Pub. L. 99–514, title X, §1024(c)(17), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–647, title I, §1018(s)(3)(A), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 108–357, title VIII, §900(a), (b), Oct. 22, 2004, 118 Stat. 1650.)
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–357, §900(a), substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
+
+Subsec. (f)(5). Pub. L. 108–357, §900(b), added par. (5).
 
 1988—Subsec. (d)(1)(B). Pub. L. 100–647 substituted “paragraphs (1), (2), and (3) of subsection (e)” for “subsection (e)(1)”.
 
@@ -241,6 +259,10 @@ For purposes of this part, the term “controlled group of corporations” means
 Subsec. (c)(2)(A)(iv). Pub. L. 91–172, §401(d)(1), added cl. (iv).
 
 Subsec. (c)(2)(B). Pub. L. 91–172, §401(d)(2), substituted “5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as ‘common owners’) own” for “a person who is an individual, estate, or trust (referred to in this paragraph as ‘common owner’) owns” and in cl. (ii), substituted “any of such common owners”, “any of the common owners” for “such common owner” and “the common owner”, respectively and added cl. (iii).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -261,8 +283,4 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years ending on
 #### Effective Date
 
 Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 1551 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 41, 52, 120, 127, 129, 144, 147, 179, 194, 243, 263A, 267, 269B, 368, 382, 384, 404, 409, 414, 447, 460, 465, 585, 593, 613A, 806, 831, 848, 861, 904, 936, 943, 993, 1042, 1202, 1504, 1551, 1561, 5061 of this title; title 2 section 691e; title 29 sections 1060, 1107, 1322; title 42 section 1395w–25.
 

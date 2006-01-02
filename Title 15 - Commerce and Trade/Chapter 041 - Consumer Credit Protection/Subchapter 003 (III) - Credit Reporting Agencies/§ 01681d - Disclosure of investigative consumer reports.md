@@ -14,7 +14,7 @@ A person may not procure or cause to be prepared an investigative consumer repor
 
 #### (b) Disclosure on request of nature and scope of investigation
 
-Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1) of this section, make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from the consumer or such report was first requested, whichever is the later.
+Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request made by the consumer within a reasonable period of time after the receipt by him of the disclosure required by subsection (a)(1) of this section, make a complete and accurate disclosure of the nature and scope of the investigation requested. This disclosure shall be made in a writing mailed, or otherwise delivered, to the consumer not later than five days after the date on which the request for such disclosure was received from theconsumer or such report was first requested, whichever is the later.
 
 #### (c) Limitation on liability upon showing of reasonable procedures for compliance with provisions
 
@@ -36,7 +36,7 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 #### (4) Certain adverse information
 
-&emsp;A consumer reporting agency shall not prepare or furnish an investigative consumer report on a consumer that contains information that is adverse to the interest of the consumer and that is obtained through a personal interview with a neighbor, friend, or associate of the consumer or with another person withwhom the consumer is acquainted or who has knowledge of such item of information, unless—
+&emsp;A consumer reporting agency shall not prepare or furnish an investigative consumer report on a consumer that contains information that is adverse to the interest of the consumer and that is obtained through a personal interview with a neighbor, friend, or associate of the consumer or with another person with whom the consumer is acquainted or who has knowledge of such item of information, unless—
 
 &emsp;&emsp;(A) the agency has followed reasonable procedures to obtain confirmation of the information, from an additional source that has independent and direct knowledge of the information; or
 

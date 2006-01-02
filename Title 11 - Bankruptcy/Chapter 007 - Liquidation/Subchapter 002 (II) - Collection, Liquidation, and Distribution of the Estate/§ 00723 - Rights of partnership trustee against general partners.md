@@ -4,7 +4,7 @@
 
 (b) To the extent practicable, the trustee shall first seek recovery of such deficiency from any general partner in such partnership that is not a debtor in a case under this title. Pending determination of such deficiency, the court may order any such partner to provide the estate with indemnity for, or assurance of payment of, any deficiency recoverable from such partner, or not to dispose of property.
 
-(c) Notwithstanding section 728(c) of this title, the trustee has a claim against the estate of each general partner in such partnership that is a debtor in a case under this title for the full amount of all claims of creditors allowed in the case concerning such partnership. Notwithstanding section 502 of this title, there shall not be allowed in such partner's case a claim against such partner on which both such partner and such partnership are liable, except to any extent that such claim is secured only by property of such partner and not by property of such partnership. The claim of the trustee under this subsection is entitled to distribution in such partner's case under section 726(a) of this title the same as any other claim of a kind specified in such section.
+(c) Notwithstanding section 728(c) <sup>1</sup> of this title, the trustee has a claim against the estate of each general partner in such partnership that is a debtor in a case under this title for the full amount of all claims of creditors allowed in the case concerning such partnership. Notwithstanding section 502 of this title, there shall not be allowed in such partner's case a claim against such partner on which both such partner and such partnership are liable, except to any extent that such claim is secured only by property of such partner and not by property of such partnership. The claim of the trustee under this subsection is entitled to distribution in such partner's case under section 726(a) of this title the same as any other claim of a kind specified in such section.
 
 (d) If the aggregate that the trustee recovers from the estates of general partners under subsection (c) of this section is greater than any deficiency not recovered under subsection (b) of this section, the court, after notice and a hearing, shall determine an equitable distribution of the surplus so recovered, and the trustee shall distribute such surplus to the estates of the general partners in such partnership according to such determination.
 
@@ -28,6 +28,10 @@ Subsection (c) requires the partnership trustee to seek recovery of the full amo
 
 Subsection (d) provides for the case where the total recovery from all of the bankrupt general partners is greater than the deficiency of which the trustee sought recovery. This case would most likely occur for a partnership with a large number of general partners. If the situation arises, the court is required to determine an equitable redistribution of the surplus to the estate of the general partners. The determination will be based on factors such as the relative liability of each of the general partners under the partnership agreement and the relative rights of each of the general partners in the profits of the enterprise under the partnership agreement.
 
+#### References in Text
+
+Section 728(c) of this title, referred to in subsec. (c), was repealed by Pub. L. 109–8, title VII, §719(b)(1), Apr. 20, 2005, 119 Stat. 133.
+
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–394 substituted “to the extent that under applicable nonbankruptcy law such general partner is personally liable for such deficiency” for “for the full amount of the deficiency”.
@@ -43,4 +47,6 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

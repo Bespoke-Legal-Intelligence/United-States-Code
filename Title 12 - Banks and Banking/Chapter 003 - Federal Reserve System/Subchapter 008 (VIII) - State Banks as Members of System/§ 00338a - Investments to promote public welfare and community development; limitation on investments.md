@@ -2,7 +2,11 @@
 
 State member banks may make investments designed primarily to promote the public welfare, including the welfare of low- and moderate-income communities or families (such as by providing housing, services, or jobs), to the extent permissible under State law, and subject to such restrictions and requirements as the Board ofGovernors of the Federal Reserve System may prescribe by regulation or order. A bank shall not make any such investment if the investment would expose the bank to unlimited liability. The Board shall limit a bank's investments in any 1 project and <sup>1</sup> bank's aggregate investments under this paragraph. A bank's aggregate investments under this paragraph shall not exceed an amount equal to the sum of 5 percent of the bank's capital stock actually paid in and unimpaired and 5 percent of the bank's unimpaired surplus fund, unless the Board determines by order that the higher amount will pose no significant risk to the affected deposit insurance fund, and the bank is adequately capitalized. In no case shall a bank's aggregate investments under this paragraph exceed an amount equal to the sum of 10 percent of the bank's capital stock actually paid in and unimpaired and 10 percent of the bank's unimpaired surplus fund.
 
-(Dec. 23, 1913, ch. 6, §9 (par.), as added Pub. L. 102–485, §6(b), Oct. 23, 1992, 106 Stat. 2774; amended Pub. L. 104–208, div. A, title II, §2704(d)(8), Sept. 30, 1996, 110 Stat. 3009–489.)
+(Dec. 23, 1913, ch. 6, §9 (par.), as added Pub. L. 102–485, §6(b), Oct. 23, 1992, 106 Stat. 2774; amended Pub. L. 104–208, div. A, title II, §2704(d)(8), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–173, §9(b), Feb. 15, 2006, 119 Stat. 3616.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §9(b), (j), Feb. 15, 2006, 119 Stat. 3616, 3618, provided that, effective Mar. 31, 2006, the fourth sentence of this section is amended by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### Codification
 
@@ -11,6 +15,10 @@ Section is comprised of the twenty-third par. of section 9 of act Dec. 23, 1913,
 #### Amendments
 
 1996—Pub. L. 104—208, which directed the amendment of the fourth sentence by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 1996 Amendment
 

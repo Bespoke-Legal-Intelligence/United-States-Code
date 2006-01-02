@@ -12,7 +12,3 @@ Section consists of subsec. (a) of section 23 of act June 10, 1920, as so design
 
 1935—Act Aug. 26, 1935, §210, amended section generally, substituting “part” for “chapter” wherever appearing, substituting “heretofore” for “then”, and substituting the last sentence for “Such fair value may, in the discretion of the commission, be determined by mutual agreement between the commission and the applicant or, in case they cannot agree, jurisdiction is hereby conferred upon the district court of the United States in the district within which such project or projects may be located, upon the application of either party, to hear and determine the amount of such fair value.”
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
-

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. TheSecretary shall identify projects to be conducted as part of the program.
+Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 2501(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 2371 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
 (b)
 
@@ -116,7 +116,7 @@ Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secret
 
 “(2) The report for a fiscal year shall contain, at a minimum, the following:
 
-&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research programs in the Department of Defense for that fiscal year.
+&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amountappropriated for the applied research programs in the Department of Defense for that fiscal year.
 
 &emsp;“(B) For each military department, the value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research program of the military department for that fiscal year.
 
@@ -151,8 +151,4 @@ Definitions.—In this section:
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 
 Section 1315(g) of Pub. L. 103–160 provided that in the case of projects funded under section 2511, 2512, 2513, 2523, or 2524 of this title with funds appropriated for a fiscal year beginning before Oct. 1, 1993, the amendments made by section 1315 of Pub. L. 103–160 would not alter the financial commitment requirements in effect on Nov. 30, 1993, for the non-Federal Government participants in the project.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2519 of this title.
 

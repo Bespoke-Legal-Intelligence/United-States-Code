@@ -54,7 +54,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 #### Effective Date of 1981 Amendment
 
-Section 2(b) of Pub. L. 97–108 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
+Section 2(b) of Pub. L. 97–108 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
 
 #### Effective Date
 

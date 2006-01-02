@@ -22,6 +22,68 @@ Section 10 of Pub. L. 93–148 provided that: “This joint resolution \[enactin
 
 Section 1 of Pub. L. 93–148 provided that: “This joint resolution \[enacting this chapter\] may be cited as the ‘War Powers Resolution’.”
 
+#### United States Policy on Iraq
+
+Pub. L. 109–163, div. A, title XII, §1227, Jan. 6, 2006, 119 Stat. 3465, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘United States Policy in Iraq Act’.
+
+“(b)
+
+Sense of Congress.—It is the sense of the Congress that, in order to succeed in Iraq—
+
+&emsp;“(1) members of the United States Armed Forces who are serving or have served in Iraq and their families deserve the utmost respect and the heartfelt gratitude of the American people for their unwavering devotion to duty, service to the Nation, and selfless sacrifice under the most difficult circumstances; the United States Congress supports our troops and supports a successful conclusion to their mission;
+
+&emsp;“(2) it is important to recognize that the Iraqi people have made enormous sacrifices and that the overwhelming majority of Iraqis want to live in peace and security; and that the Iraqi security forces in a growing number of incidences are fighting side-by-side with coalition forces, are increasing in numbers and improving in military capability;
+
+&emsp;“(3) the terrorists seeking to prevent the emergence of a secure, stable, peaceful, and democratic Iraq are led by individuals seeking to restore dictatorship in Iraq or who want to advance al Qaeda's broad vision of violently extreme Islam in the Middle East;
+
+&emsp;“(4) calendar year 2006 should be a period of significant transition to full Iraqi sovereignty, with Iraqi security forces taking the lead for the security of a free and sovereign Iraq, thereby creating the conditions for the phased redeployment of United States forces from Iraq;
+
+&emsp;“(5) United States military forces should not stay in Iraq any longer than required and the professional military judgment of our senior military should be a key factor in future decisions;
+
+&emsp;“(6) the Administration should tell the leaders of all groups and political parties in Iraq that they need to make the compromises necessary to achieve the broad-based and sustainable political settlement that is essential for defeating the insurgency in Iraq, within the schedule they set for themselves; and
+
+&emsp;“(7) the President has committed to continue to explain to Congress and the American people progress toward a successful completion of the mission in Iraq.
+
+“(c)
+
+Reports to Congress on United States Policy and Military Operations in Iraq.—Not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\], and every three months thereafter until all United States combat brigades have redeployed from Iraq, the President shall submit to Congress a report on United States policy and military operations in Iraq. To the maximum extent practicable, the report required in (c) shall be unclassified, with a classified annex if necessary. Each report shall include to the extent practical, the following information:
+
+&emsp;“(1) The current military mission and the diplomatic, political, economic, and military measures that are being or have been undertaken to successfully complete or support that mission, including:
+
+&emsp;&emsp;“(A) Efforts to convince Iraq's main communities to make the compromises necessary for a broad-based and sustainable political settlement.
+
+&emsp;&emsp;“(B) Engaging the international community and the region in efforts to stabilize Iraq and to forge a broad-based and sustainable political settlement.
+
+&emsp;&emsp;“(C) Strengthening the capacity of Iraq's government ministries.
+
+&emsp;&emsp;“(D) Accelerating the delivery of basic services.
+
+&emsp;&emsp;“(E) Securing the delivery of pledged economic assistance from the international community and additional pledges of assistance.
+
+&emsp;&emsp;“(F) Training Iraqi security forces and transferring additional security responsibilities to those forces and the government of Iraq.
+
+&emsp;“(2) Whether the Iraqis have made the compromises necessary to achieve the broad-based and sustainable political settlement that is essential for defeating the insurgency in Iraq.
+
+&emsp;“(3) Any specific conditions included in the April 2005 Multi-National Forces-Iraq campaign action plan (referred to in United States Government Accountability Office October 2005 report on Rebuilding Iraq: DOD Reports Should Link Economic, Governance, and Security Indicators to Conditions for Stabilizing Iraq), and any subsequent updates to that campaign plan, that must be met in order to provide for the transition of additional security responsibility to Iraqi security forces.
+
+&emsp;“(4) To the extent that these conditions are not covered under paragraph (3), the following should also be addressed:
+
+&emsp;&emsp;“(A) The number of battalions of the Iraqi Armed Forces that must be able to operate independently or to take the lead in counterinsurgency operations and the defense of Iraq's territory.
+
+&emsp;&emsp;“(B) The number of Iraqi special police units that must be able to operate independently or to take the lead in maintaining law and order and fighting the insurgency.
+
+&emsp;&emsp;“(C) The number of regular police that must be trained and equipped to maintain law and order.
+
+&emsp;&emsp;“(D) The ability of Iraq's Federal ministries and provincial and local governments to independently sustain, direct, and coordinate Iraq's security forces.
+
+&emsp;“(5) The criteria to be used to evaluate progress toward meeting such conditions.
+
+&emsp;“(6) A plan for meeting such conditions, an assessment of the extent to which such conditions have been met, information regarding variables that could alter that plan, and the reasons for any subsequent changes to that plan.”
+
 #### Authorization for Use of Military Force Against Iraq Resolution of 2002
 
 Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
@@ -34,7 +96,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 “Whereas Iraq, in direct and flagrant violation of the cease-fire, attempted to thwart the efforts of weapons inspectors to identify and destroy Iraq's weapons of mass destruction stockpiles and development capabilities, which finally resulted in the withdrawal of inspectors from Iraq on October 31, 1998;
 
-“Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuing weapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in ‘material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations’;
+“Whereas in Public Law 105–235 (August 14, 1998) \[112 Stat. 1538\], Congress concluded that Iraq's continuingweapons of mass destruction programs threatened vital United States interests and international peace and security, declared Iraq to be in ‘material and unacceptable breach of its international obligations’ and urged the President ‘to take appropriate action, in accordance with the Constitution and relevant laws of the United States, to bring Iraq into compliance with its international obligations’;
 
 “Whereas Iraq both poses a continuing threat to the national security of the United States and international peace and security in the Persian Gulf region and remains in material and unacceptable breach of its international obligations by, among other things, continuing to possess and develop a significant chemical and biological weapons capability, actively seeking a nuclear weapons capability, and supporting and harboring terrorist organizations;
 
@@ -84,7 +146,7 @@ Pub. L. 107–243, Oct. 16, 2002, 116 Stat. 1498, provided that:
 
 &emsp;“(1) strictly enforce through the United Nations Security Council all relevant Security Council resolutions regarding Iraq and encourages him in those efforts; and
 
-&emsp;“(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategy of delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
+&emsp;“(2) obtain prompt and decisive action by the Security Council to ensure that Iraq abandons its strategyof delay, evasion and noncompliance and promptly and strictly complies with all relevant Security Council resolutions regarding Iraq.
 
 #### “SEC. 3. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
 
@@ -360,7 +422,7 @@ Authorization.—The President is authorized, subject to subsection (b), to use 
 
 “(b)
 
-Requirement for Determination That Use of Military Force Is Necessary.—Before exercising the authority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
+Requirement for Determination That Use of Military Force Is Necessary.—Before exercising theauthority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
 
 &emsp;“(1) the United States has used all appropriate diplomatic and other peaceful means to obtain compliance by Iraq with the United Nations Security Council resolutions cited in subsection (a); and
 
@@ -456,7 +518,7 @@ Sec. 3. The President is authorized, for purposes of section 5(b) of the War Pow
 
 “
 
-Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on the status, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
+Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 1543(c)\], the President shall report periodically to the Congress with respect to the situation in Lebanon, but in no event shall he report less often than once every three months. In addition to providing the information required by that section on thestatus, scope, and duration of hostilities involving United States Armed Forces, such reports shall describe in detail—
 
 &emsp;“(1) the activities being performed by the Multinational Force in Lebanon;
 
@@ -484,7 +546,7 @@ Sec. 5. (a) The Congress declares that the participation of the armed forces of 
 
 Sec. 6. The participation of United States Armed Forces in the Multinational Force in Lebanon shall be authorized for purposes of the War Powers Resolution \[50 U.S.C. 1541 et seq.\] until the end of the eighteen-month period beginning on the date of enactment of this resolution \[Oct. 12, 1983\] unless the Congress extends such authorization, except that such authorization shall terminate sooner upon the occurrence of any one of the following:
 
-&emsp;“(1) the withdrawal of all foreign forces from Lebanon, unless the President determines and certifies to the Congress that continued United States Armed Forces participation in the Multinational Force in Lebanon is required after such withdrawal in order to accomplish the purposes specified in the September25, 1982, exchange of letters providing for the establishment of the Multinational Force in Lebanon; or
+&emsp;“(1) the withdrawal of all foreign forces from Lebanon, unless the President determines and certifies to the Congress that continued United States Armed Forces participation in the Multinational Force in Lebanon is required after such withdrawal in order to accomplish the purposes specified in the September 25, 1982, exchange of letters providing for the establishment of the Multinational Force in Lebanon; or
 
 &emsp;“(2) the assumption by the United Nations or the Government of Lebanon of the responsibilities of the Multinational Force in Lebanon; or
 
@@ -522,7 +584,7 @@ Memorandum of President of the United States, July 2, 2004, 69 F.R. 43723, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military Force Against Iraq Resolution, Public Law 102–1 \[set out in a note above\], to make the specified reports to the Congress.
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, I hereby delegate to you the functions and authority conferred upon the President by section 4 of the Authorization for Use of Military Force Against Iraq Resolution of 2002, Public Law 107–243 \[set out in a note above\], and by section 3 of the Authorization for Use of Military ForceAgainst Iraq Resolution, Public Law 102–1 \[set out in a note above\], to make the specified reports to the Congress.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

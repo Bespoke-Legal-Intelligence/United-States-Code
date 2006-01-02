@@ -84,6 +84,110 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Plans for Test and Evaluation of Operational Capability of the Ballistic Missile Defense System
+
+Pub. L. 109–163, div. A, title II, §234, Jan. 6, 2006, 119 Stat. 3174, provided that:
+
+“(a)
+
+Test and Evaluation Plans for Blocks.—
+
+&emsp;“(1)
+
+Plans required.—With respect to block 06 and each subsequent block of the Ballistic Missile Defense System, the appropriate joint and service operational test and evaluation components of the Department of Defense concerned with the block shall prepare a plan, appropriate for the level of technological maturity of the block, to test, evaluate, and characterize the operational capability of the block.
+
+&emsp;“(2)
+
+Consultation and review.—The preparation of each plan under this subsection shall be—
+
+&emsp;&emsp;“(A) carried out in coordination with the Missile Defense Agency; and
+
+&emsp;&emsp;“(B) subject to the review and approval of the Director of Operational Test and Evaluation.
+
+“(b)
+
+Reports on Test and Evaluation of Blocks.—At the conclusion of the test and evaluation of block 06 and each subsequent block of the Ballistic Missile Defense System, the Director of Operational Test and Evaluation shall submit to the Secretary of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report providing—
+
+&emsp;“(1) the assessment of the Director as to whether or not the test and evaluation was adequate to evaluate the operational capability of the block; and
+
+&emsp;“(2) the characterization of the Director as to the operational effectiveness, suitability, and survivability of the block, as appropriate for the level of technological maturity of the block tested.”
+
+#### Integration of Patriot Advanced Capability-3 and Medium Extended Air Defense System Into Ballistic Missile Defense System
+
+Pub. L. 108–375, div. A, title II, §232, Oct. 28, 2004, 118 Stat. 1835, provided that:
+
+“(a)
+
+Relationship to Ballistic Missile Defense System.—The combined program of the Department of the Army known as the Patriot Advanced Capability-3/Medium Extended Air Defense System air and missile defense program (hereinafter in this section referred to as the ‘PAC–3/MEADS program’) is an element of the Ballistic Missile Defense System.
+
+“(b)
+
+Management of Configuration Changes.—The Director of the Missile Defense Agency, in consultation with the Secretary of the Army (acting through the Assistant Secretary of the Army for Acquisition, Logistics and Technology) shall ensure that any configuration change for the PAC–3/MEADS program is subject to the configuration control board processes of the Missile Defense Agency so as to ensure integration of the PAC–3/MEADS element with appropriate elements of the Ballistic Missile Defense System.
+
+“(c)
+
+Required Procedures.—(1) Except as otherwise directed by the Secretary of Defense, the Secretary of the Army (acting through the Assistant Secretary of the Army for Acquisition, Logistics and Technology) may make a significant change to the baseline technical specifications or the baseline schedule for the PAC–3/MEADS program only with the concurrence of the Director of the Missile Defense Agency.
+
+“(2) With respect to a proposal by the Secretary of the Army to make a significant change to the procurement quantity (including any quantity in any future block procurement) that, as of the date of such proposal, is planned for the PAC–3/MEADS program, the Secretary of Defense shall establish—
+
+&emsp;“(A) procedures for a determination of the effect of such change on Ballistic Missile Defense System capabilities and on the cost of the PAC–3/MEADS program; and
+
+&emsp;“(B) procedures for review of the proposed change by all relevant commands and agencies of the Department of Defense, including determination of the concurrence or nonconcurrence of each such command and agency with respect to such proposed change.
+
+“(d)
+
+Report.—Not later than February 1, 2005, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report describing the procedures developed pursuant to subsection (c)(2).
+
+“(e)
+
+Definitions.—For purpose of this section:
+
+&emsp;“(1) The term ‘significant change’ means, with respect to the PAC–3/MEADS program, a change that would substantially alter the role or contribution of that program in the Ballistic Missile Defense System.
+
+&emsp;“(2) The term ‘baseline technical specifications’ means, with respect to the PAC–3/MEADS program, those technical specifications for that program that have been approved by the configuration control board of the Missile Defense Agency and are in effect as of the date of the review.
+
+&emsp;“(3) The term ‘baseline schedule’ means, with respect to the PAC–3/MEADS program, the development and production schedule for the PAC–3/MEADS program in effect at the time of a review of such program conducted pursuant to subsection (b) or (c)(2)(B).”
+
+#### Baselines and Operational Test and Evaluation for Ballistic Missile Defense System
+
+Pub. L. 108–375, div. A, title II, §234, Oct. 28, 2004, 118 Stat. 1837, provided that:
+
+“(a)
+
+Testing Criteria.—Not later than February 1, 2005, the Secretary of Defense, in consultation with the Director of Operational Test and Evaluation, shall prescribe appropriate criteria for operationally realistic testing of fieldable prototypes developed under the ballistic missile defense spiral development program. The Secretary shall submit a copy of the prescribed criteria to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\].
+
+“(b)
+
+Use of Criteria.—(1) The Secretary of Defense shall ensure that, not later than October 1, 2005, a test of the ballistic missile defense system is conducted consistent with the criteria prescribed under subsection (a).
+
+“(2) The Secretary of Defense shall ensure that each block configuration of the ballistic missile defense system is tested consistent with the criteria prescribed under subsection (a).
+
+“(c)
+
+Relationship to Other Law.—Nothing in this section shall be construed to exempt any spiral development program of the Department of Defense, after completion of the spiral development, from the applicability of any provision of chapter 144 of title 10, United States Code, or section 139, 181, 2366, 2399, or 2400 of such title in accordance with the terms and conditions of such provision.
+
+“(d)
+
+Evaluation.—(1) The Director of Operational Test and Evaluation shall evaluate the results of each test conducted under subsection (a) as soon as practicable after the completion of such test.
+
+“(2) The Director shall submit to the Secretary of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the evaluation of each test conducted under subsection (a) upon completion of the evaluation of such test under paragraph (1).
+
+“(e)
+
+Cost, Schedule, and Performance Baselines.—(1) The Director of the Missile Defense Agency shall establish cost, schedule, and performance baselines for each block configuration of the Ballistic Missile Defense System being fielded. The cost baseline for a block configuration shall include full life cycle costs for the block configuration.
+
+“(2) The Director shall include the baselines established under paragraph (1) in the first Selected Acquisition Report for the Ballistic Missile Defense System that is submitted to Congress under section 2432 of title 10, United States Code, after the establishment of such baselines.
+
+“(3) The Director shall also include in the Selected Acquisition Report submitted to Congress under paragraph (2) the significant assumptions used in determining the performance baseline under paragraph (1), including any assumptions regarding threat missile countermeasures and decoys.
+
+“(f)
+
+Variations Against Baselines.—In the event the cost, schedule, or performance of any block configuration of the Ballistic Missile Defense System varies significantly (as determined by the Director of the Ballistic Missile Defense Agency) from the applicable baseline established under subsection (d), the Director shall include such variation, and the reasons for such variation, in the Selected Acquisition Report submitted to Congress under section 2432 of title 10, United States Code.
+
+“(g)
+
+Modifications of Baselines.—In the event the Director of the Missile Defense Agency elects to undertake any modification of a baseline established under subsection (d), the Director shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report setting forth the reasons for such modification.”
+
 #### Report Requirements Relating to Ballistic Missile Defense Programs
 
 Pub. L. 107–314, div. A, title II, §221, Dec. 2, 2002, 116 Stat. 2484, provided that:
@@ -134,13 +238,13 @@ Content.—Information provided under subsection (a) on the results of a flight 
 
 #### Missile Defense Agency Test Program
 
-Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, §225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419, provided that:
+Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, as amended by Pub. L. 107–314, div. A, title II, §225(b)(2)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(b)(2), (c)(2), Nov. 24, 2003, 117 Stat. 1419; Pub. L. 108–375, div. A, title II, §233, Oct. 28, 2004, 118 Stat. 1836; Pub. L. 109–163, div. A, title II, §232, Jan. 6, 2006, 119 Stat. 3174, provided that:
 
 “(c)
 
 Requirement for Annual Program Goals.—(1) The Secretary of Defense shall each year establish cost, schedule, testing, and performance goals for the ballistic missile defense programs of the Department of Defense for the period covered by the future-years defense program that is submitted to Congress that year under section 221 of title 10, United States Code. Not later than February 1 each year, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a statement of the goals so established.
 
-“(2) The statement of goals submitted under paragraph (1) for any year after 2002 shall be an update ofthe statement submitted under that paragraph for the preceding year.
+“(2) The statement of goals submitted under paragraph (1) for any year after 2002 shall be an update of the statement submitted under that paragraph for the preceding year.
 
 “(3) Each statement of goals submitted under paragraph (1) shall set forth cost, schedule, testing, and performance goals that pertain to each then-current program element for ballistic missile defense systems in effect pursuant to subsection (a) or (b) of section 223 of title 10, United States Code.
 
@@ -198,9 +302,9 @@ Demonstration of Critical Technologies.—(1) The Director of the Missile Defens
 
 “(g)
 
-Comptroller General Assessment.—(1) At the conclusion of each of fiscal years 2002 and 2003, the Comptroller General of the United States shall assess the extent to which the Missile Defense Agency achieved the goals established under subsection (c) for such fiscal year.
+Comptroller General Assessment.—(1) At the conclusion of each of fiscal years 2002 through 2007, the Comptroller General of the United States shall carry out an assessment of the extent to which the Missile Defense Agency achieved the goals established under subsection (c) for that fiscal year for each ballistic missile defense program of the Department of Defense.
 
-“(2) Not later than February 15, 2003, and February 15, 2004, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the Comptroller General's assessment under paragraph (1) with respect to the preceding fiscal year.
+“(2) Not later than March 15 of each of 2003 through 2008, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the Comptroller General's assessment under paragraph (1) with respect to the preceding fiscal year.
 
 “(h)
 
@@ -276,7 +380,7 @@ Elements of NMD System.—The national missile defense system architecture speci
 
 “(c)
 
-Plan for NMD System Development and Deployment.—Not later than February 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003. The plan shall include the following matters:
+Plan for NMD System Development and Deployment.—Not later than February 15, 1998, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services andAppropriations of Senate and House of Representatives\] a plan for the development and deployment of a national missile defense system that could achieve initial operational capability in fiscal year 2003. The plan shall include the following matters:
 
 &emsp;“(1) A detailed description of the system architecture selected for development.
 
@@ -372,7 +476,7 @@ Subtitle C of title II of div. A of Pub. L. 104–106, as amended by Pub. L. 105
 
 &emsp;“(3) The deployment of effective Theater Missile Defense systems can deter potential adversaries of the United States from escalating a conflict by threatening or attacking United States forces or the forces or territory of coalition partners or allies of the United States with ballistic missiles armed with weapons of mass destruction to offset the operational and technical advantages of the United States and its coalition partners and allies.
 
-&emsp;“(4) United States intelligence officials have provided intelligence estimates to congressional committees that (A) the trend in missile proliferation is toward longer range and more sophisticated ballistic missiles, (B) North Korea may deploy an intercontinental ballistic missile capable of reaching Alaska or beyond within five years, and (C) although a new, indigenously developed ballistic missile threat to the continental United States is not foreseen within the next ten years, determined countries can acquire intercontinental ballistic missiles in the near future and with little warning by means other than indigenous development.
+&emsp;“(4) United States intelligence officials have provided intelligence estimates to congressional committees that (A) the trend in missile proliferation is toward longer range and more sophisticated ballistic missiles, (B) North Korea may deploy an intercontinental ballistic missile capable of reaching Alaska or beyond within five years, and (C) although a new, indigenously developed ballistic missile threat to the continental United States is not foreseen within thenext ten years, determined countries can acquire intercontinental ballistic missiles in the near future and with little warning by means other than indigenous development.
 
 &emsp;“(5) The development and deployment by the United States and its allies of effective defenses against ballistic missiles of all ranges will reduce the incentives for countries to acquire such missiles or to augment existing missile capabilities.
 
@@ -518,7 +622,7 @@ General Limitation.—Funds appropriated to the Department of Defense for fiscal
 
 &emsp;“(1) for any development or testing of anti-ballistic missile systems or components except for development and testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the July 13, 1993, ACDA letter; or
 
-&emsp;“(2) for the acquisition of any material or equipment (including long lead materials, components, piece parts, or test equipment, or any modified space launch vehicle) required or to be used for the development or testing of anti-ballistic missile systems orcomponents, except for material or equipment required for development or testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
+&emsp;“(2) for the acquisition of any material or equipment (including long lead materials, components, piece parts, or test equipment, or any modified space launch vehicle) required or to be used for the development or testing of anti-ballistic missile systems or components, except for material or equipment required for development or testing consistent with the interpretation of the ABM Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
 
 “(b)
 
@@ -538,7 +642,7 @@ Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense sha
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director of the Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation of the ABM Treaty and accompanied by an enclosure setting forth such interpretation.
+&emsp;“(1) The term ‘July 13, 1993, ACDA letter’ means the letter dated July 13, 1993, from the Acting Director of the Arms Control and Disarmament Agency to the chairman of the Committee on Foreign Relations of the Senate relating to the correct interpretation ofthe ABM Treaty and accompanied by an enclosure setting forth such interpretation.
 
 &emsp;“(2) The term ‘ABM Treaty’ means the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missiles, signed in Moscow on May 26, 1972.
 
@@ -612,7 +716,7 @@ Objectives of Plan.—In preparing the master plan, the Secretary shall—
 
 “(g)
 
-Review and Report on Deployment of Ballistic Missile Defenses.—(1) The Secretary of Defenseshall conduct an intensive and extensive review of opportunities to streamline the weapon systems acquisition process applicable to the development, testing, and deployment of theater ballistic missile defenses with the objective of reducing the cost of deployment and accelerating the schedule for deployment without significantly increasing programmatic risk or concurrency.
+Review and Report on Deployment of Ballistic Missile Defenses.—(1) The Secretary of Defense shall conduct an intensive and extensive review of opportunities to streamline the weapon systems acquisition process applicable to the development, testing, and deployment of theater ballistic missile defenses with the objective of reducing the cost of deployment and accelerating the schedule for deployment without significantly increasing programmatic risk or concurrency.
 
 “(2) In conducting the review, the Secretary shall obtain recommendations and advice from—
 
@@ -626,7 +730,7 @@ Review and Report on Deployment of Ballistic Missile Defenses.—(1) The Secreta
 
 #### Cooperation of United States Allies on Development of Tactical and Theater Missile Defenses
 
-Pub. L. 103–160, div. A, title II, §242(a)–(e), Nov. 30, 1993, 107 Stat. 1603–1605, stated congressional findings, required Secretary of Defense to develop plan to coordinate development and implementation of Theater Missile Defense programs of United States with theater missile defense programs of allies of United States, specified contents of such plan, required Secretary to submit to Congress report on such plan in both classified and unclassified versions, required Secretary to include in each annual Theater Missile Defense Initiative report to Congress report on actions taken to implement such plan, specified contents of such report, related to restriction on funds, stated sense of Congress that whenever United States deployed theater ballistic missile defenses to protect country that had not provided support for development of such defenses United States was to consider seeking reimbursement from such country to cover at least incremental cost of such deployment, and related to congressional encouragement of allies of United States to participate in cooperative Theater Missile Defense programs of United States and encouragement of participation by United States in cooperative theater missile defense efforts of allied nations, prior to repeal by Pub. L. 104–106, div. A, title II, §253(7), Feb. 10, 1996, 110 Stat. 235.
+Pub. L. 103–160, div. A, title II, §242(a)–(e), Nov. 30, 1993, 107 Stat. 1603–1605, stated congressional findings, required Secretary of Defense to develop plan to coordinate development and implementation of Theater Missile Defense programs of United States with theater missile defense programs of allies of United States, specified contents of such plan, required Secretary to submit to Congress report on such plan in both classified and unclassified versions, required Secretary to include in each annual Theater Missile Defense Initiative report to Congress report on actions taken to implement such plan, specified contents of such report, related to restriction on funds, stated sense of Congress that whenever United States deployed theater ballistic missile defenses to protect country that had not provided support for development of such defenses United Stateswas to consider seeking reimbursement from such country to cover at least incremental cost of such deployment, and related to congressional encouragement of allies of United States to participate in cooperative Theater Missile Defense programs of United States and encouragement of participation by United States in cooperative theater missile defense efforts of allied nations, prior to repeal by Pub. L. 104–106, div. A, title II, §253(7), Feb. 10, 1996, 110 Stat. 235.
 
 #### Transfer of Follow-On Technology Programs
 
@@ -690,7 +794,7 @@ Effective Date.—The provisions of subsections (a), (b), and (c) shall be imple
 
 #### Missile Defense Program
 
-Pub. L. 102–190, div. A, title II, part C, Dec. 5, 1991, 105 Stat. 1321, as amended by Pub. L. 102–484, div. A, title II, §234(a)–(d)(1), (e), (f), title X, §1053(1), (2), Oct. 23, 1992, 106 Stat. 2356, 2357, 2501; Pub. L. 103–35, title II,§§202(a)(2), 203(b)(1), May 31, 1993, 107 Stat. 101, 102; Pub. L. 103–160, div. A, title II, §§232, 243(e), Nov. 30, 1993, 107 Stat. 1593, 1606; Pub. L. 103–337, div. A, title II, §233, Oct. 5, 1994, 108 Stat. 2700, specified that such provisions could be cited as the “Missile Defense Act of 1991”, and related to missile defense goal of United States, implementation of goal, review of follow-on deployment options, definition of term “ABM Treaty”, and interpretation of such provisions, prior to repeal by Pub. L. 104–106, div. A, title II, §238, Feb. 10, 1996, 110 Stat. 233.
+Pub. L. 102–190, div. A, title II, part C, Dec. 5, 1991, 105 Stat. 1321, as amended by Pub. L. 102–484, div. A, title II, §234(a)–(d)(1), (e), (f), title X, §1053(1), (2), Oct. 23, 1992, 106 Stat. 2356, 2357, 2501; Pub. L. 103–35, title II, §§202(a)(2), 203(b)(1), May 31, 1993, 107 Stat. 101, 102; Pub. L. 103–160, div. A, title II, §§232, 243(e), Nov. 30, 1993, 107 Stat. 1593, 1606; Pub. L. 103–337, div. A, title II, §233, Oct. 5, 1994, 108 Stat. 2700, specified that such provisions could be cited as the “Missile Defense Act of 1991”, and related to missile defense goal of United States, implementation of goal, review of follow-on deployment options, definition of term “ABM Treaty”, and interpretation of such provisions, prior to repeal by Pub. L. 104–106, div. A, title II, §238, Feb. 10, 1996, 110 Stat. 233.
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -710,7 +814,7 @@ SDI Contracts With Foreign Entities.—Funds appropriated to or for the use of t
 
 “(b)
 
-Temporary Suspension of Prohibition Upon Certification of the Secretary of Defense.—The prohibition in subsection (a) shall not apply to a contract in any fiscal year if the Secretary of Defense certifies to Congress in writing at any time during such fiscal year that the research, development, testing, or evaluation to be performed under such contract cannot be competently performed by a United States firm at a price equal to or less than the price at which the research, development, testing, or evaluation would be performed by a foreign firm.
+Temporary Suspension of Prohibition Upon Certification of the Secretary of Defense.—The prohibition in subsection (a) shall not apply to a contract in any fiscal year if the Secretary of Defense certifies to Congress in writing at any time during suchfiscal year that the research, development, testing, or evaluation to be performed under such contract cannot be competently performed by a United States firm at a price equal to or less than the price at which the research, development, testing, or evaluation would be performed by a foreign firm.
 
 “(c)
 
@@ -896,7 +1000,7 @@ Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
-Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative programcould not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
 
 #### Annual Report on Ballistic Missile Defense Program
 
@@ -968,7 +1072,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 S
 
 “(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be used to conduct more than three tests of that warhead against objects in space.
 
-“(c) The limitation on the expenditure of funds provided by subsection (a) of this section shall cease to apply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or March 1, 1985, whichever occurs later.”
+“(c) The limitation on the expenditure of funds provided by subsection (a) of this section shall cease toapply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or March 1, 1985, whichever occurs later.”
 
 Similar provisions were contained in the following prior authorization act:
 
@@ -1014,7 +1118,7 @@ Pub. L. 96–342, title II, §202, Sept. 8, 1980, 94 Stat. 1079, provided that:
 
 “(a) The Congress finds that a survivable land-based intercontinental ballistic missile (ICBM) system is vital to the security of the United States and to a stable strategic balance between the United States and the Soviet Union and that timely deployment of a new basing mode is essential to the survivability of this Nation's land-based intercontinental ballistic missiles. It is, therefore, the purpose of this section to commit the Congress to the development and deployment of the MX missile system, consisting of 200 missiles and 4,600 hardened shelters, and to insure that deployment of the entire MX system is carried out as soon as practicable.
 
-“(b) The Secretary of Defense shall proceed immediately with the full-scale engineering development ofthe MX missile and a Multiple Protective Structure (MPS) basing mode and shall continue such development in a manner that will achieve an Initial Operational Capability of such missile and basing mode not later than December 31, 1986.
+“(b) The Secretary of Defense shall proceed immediately with the full-scale engineering development of the MX missile and a Multiple Protective Structure (MPS) basing mode and shall continue such development in a manner that will achieve an Initial Operational Capability of such missile and basing mode not later than December 31, 1986.
 
 “(c) Notwithstanding any other provision of law, the initial phase of construction shall be limited to 2,300 protective shelters for the MX missile in the initial deployment area.
 
@@ -1028,7 +1132,7 @@ Pub. L. 96–29, title II, §202, June 27, 1979, 93 Stat. 79, provided that:
 
 “(b) In addition, it is the sense of the Congress that the basing mode for the MX missile should be restricted to location on the least productive land available that is suitable for such purpose.
 
-“(c) In accordance with the sense of Congress expressed in subsection (a), the Secretary of Defense shall proceed immediately with full scale engineering development of the missile basing mode known as the Multiple Protective Structure (MPS) system concurrently with full scale engineering development of the MX missile, unless and until the Secretary of Defense certifies to the Congress that an alternative basing mode is militarily or technologically superior to, and is more cost effective than, the MPS system or the President informs the Congress that in his view the MPS system is not consistent with United States national security interests.
+“(c) In accordance with the sense of Congress expressed in subsection (a), the Secretary of Defense shall proceed immediately with full scale engineering development of the missile basing mode known as the Multiple Protective Structure (MPS) system concurrently with full scale engineering development of the MX missile, unless and until the Secretary of Defense certifies to the Congress that an alternative basing mode is militarily or technologically superior to, and is more cost effective than, the MPS system or the Presidentinforms the Congress that in his view the MPS system is not consistent with United States national security interests.
 
 “(d) Nothing in this section shall be construed to prohibit or restrict the study of alternative basing modes for land-based intercontinental ballistic missiles.”
 
@@ -1049,8 +1153,4 @@ Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provide
 “(d) Any funds appropriated to the Department of Defense for the fiscal year beginning July 1, 1974, for carrying out the TRIDENT Weapon System shall be utilized by the Secretary of Defense in carrying out the provisions of this section to the extent that funds are unavailable under other Federal programs. Funds appropriated to the Department of Defense for any fiscal year beginning after June 30, 1975, for carrying out the TRIDENT Weapon System may, to the extent specifically authorized in an annual Military Construction Authorization Act, be utilized by the Secretary of Defense in carrying out the provision of this section to the extent that funds are unavailable under other Federal programs.
 
 “(e) The Secretary shall transmit to the Committees on Armed Services of the Senate and the House of Representatives semiannual reports indicating the total amount expended in the case of each local community which was provided assistance under the authority of this section during the preceding six-month period, the specific projects for which assistance was provided during such period, and the total amount provided for each such project during such period.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2432 of this title.
 

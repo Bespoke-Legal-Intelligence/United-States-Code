@@ -6,7 +6,7 @@ In any case in which the United States is authorized or required by law to furni
 
 #### (b) Recovery of cost of pay for member of uniformed services unable to perform duties
 
-If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the UnitedStates and except employers of seamen referred to in subsection (a) of this section) for damages for such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amount equal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
+If a member of the uniformed services is injured, or contracts a disease, under circumstances creating a tort liability upon a third person (other than or in addition to the United States and except employers of seamen referred to in subsection (a) of this section) for damages for such injury or disease and the member is unable to perform the member's regular military duties as a result of the injury or disease, the United States shall have a right (independent of the rights of the member) to recover from the third person or an insurer of the third person, or both, the amount equal to the total amount of the pay that accrues and is to accrue to the member for the period for which the member is unable to perform such duties as a result of the injury or disease and is not assigned to perform other military duties.
 
 #### (c) United States deemed third party beneficiary under alternative system of compensation
 
@@ -40,9 +40,7 @@ For the purposes of this section:
 
 &emsp;(1) The term “uniformed services” has the meaning given such term in section 101 of title 10.
 
-&emsp;(2) The term “tortious conduct” includes any tortious
-
-omission.
+&emsp;(2) The term “tortious conduct” includes any tortious omission.
 
 &emsp;(3) The term “pay”, with respect to a member of the uniformed services, means basic pay, special pay, and incentive pay that the member is authorized to receive under title 37 or any other law providing pay for service in the uniformed services.
 

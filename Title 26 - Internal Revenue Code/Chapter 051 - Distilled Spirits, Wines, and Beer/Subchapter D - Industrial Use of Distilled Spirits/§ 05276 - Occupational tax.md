@@ -22,6 +22,10 @@ Subsection (a) shall not apply with respect to any scientific university, colleg
 
 (Added Pub. L. 100–203, title X, §10512(e)(1), Dec. 22, 1987, 101 Stat. 1330–448; amended Pub. L. 100–647, title II, §2004(t)(1), title VI, §6105(a), (b), Nov. 10, 1988, 102 Stat. 3609, 3711; Pub. L. 101–239, title VII, §7816(<i>o</i>), Dec. 19, 1989, 103 Stat. 2422.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–59, title XI, §11125(a)(3), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed.</i>
+
 #### Prior Provisions
 
 A prior section 5281, act Aug. 16, 1954, ch. 736, 68A Stat. 651, related to regulation of business rectifier, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -65,8 +69,4 @@ Section 6105(c) of Pub. L. 100–647 provided that: “The amendments made by th
 #### Effective Date
 
 Section effective Jan. 1, 1988, see section 10512(h) of Pub. L. 100–203, set out as a note under section 5081 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5691 of this title.
 

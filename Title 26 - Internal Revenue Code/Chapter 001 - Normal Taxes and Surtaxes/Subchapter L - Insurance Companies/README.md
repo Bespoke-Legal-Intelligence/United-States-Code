@@ -14,10 +14,6 @@
 
 1962—Pub. L. 87–834, §8(g)(4)(A), Oct. 16, 1962, 76 Stat. 999, substituted “and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies or premium deposits” for “or marine or fire insurance companies issuing perpetual policies” in heading of part II.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 72, 264, 501, 594, 817, 953, 954, 1042, 1275, 1297, 1361, 1381, 1397E, 6425, 6655 of this title.
-
 
 ---
 

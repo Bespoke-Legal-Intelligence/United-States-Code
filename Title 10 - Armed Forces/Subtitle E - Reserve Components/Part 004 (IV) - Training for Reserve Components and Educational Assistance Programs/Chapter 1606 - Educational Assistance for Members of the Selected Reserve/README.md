@@ -18,10 +18,6 @@
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(33), Feb. 10, 1996, 110 Stat. 498, substituted “limitation” for “limitations” in item 16133.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 510, 2006, 2131 of this title; title 20 section 6674; title 26 section 25A; title 38 sections 3485, 3692, 3695.
-
 
 ---
 

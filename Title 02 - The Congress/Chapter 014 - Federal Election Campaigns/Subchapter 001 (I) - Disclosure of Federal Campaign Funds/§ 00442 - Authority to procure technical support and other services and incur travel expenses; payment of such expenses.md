@@ -6,7 +6,7 @@ For the purpose of carrying out his duties under the Federal Election Campaign A
 
 #### References in Text
 
-The Federal Election Campaign Act of 1971, referred to in text, is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, asamended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
+The Federal Election Campaign Act of 1971, referred to in text, is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 431 of this title and Tables.
 
 #### Codification
 

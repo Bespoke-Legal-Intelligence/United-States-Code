@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to theprovisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
 
 &emsp;&emsp;(A) to enter and complete a residency training program in primary health care not later than 4 years after the date on which the student graduates from such school; and
 
@@ -52,7 +52,7 @@
 
 &emsp;With respect to graduates described in paragraph (1) (in this paragraph referred to as “designated graduates”), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
 
-&emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion ofeither being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
+&emsp;&emsp;(A) Not less than 50 percent of designated graduates of the school meet the criterion of either being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
 
 &emsp;&emsp;(B) Not less than 25 percent of the designated graduates of the school meet such criterion, and such percentage is not less than 5 percentage points above the percentage of such graduates meeting such criterion for the preceding 1-year period.
 
@@ -64,7 +64,7 @@
 
 #### (4) Noncompliance by school
 
-&emsp;(A)(i) Subject to subparagraph (C), each agreement under section 292q of this title with a school of medicine or osteopathic medicine shall provide that, if the school fails to comply with paragraph (1) for a 1-year period under such paragraph, the school—
+&emsp;(A)(i) Subject to subparagraph (C), each agreement under section 292q of this title witha school of medicine or osteopathic medicine shall provide that, if the school fails to comply with paragraph (1) for a 1-year period under such paragraph, the school—
 
 &emsp;&emsp;(I) will pay to the Secretary the amount applicable under subparagraph (B) for the period; and
 

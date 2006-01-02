@@ -2,7 +2,7 @@
 
 #### (a) Procurement of supplies; costs advantageous to United States
 
-Each executive agency shall procure supplies in such quantity as (A) will result in the total cost and unit cost most advantageous to the United States, where practicable, and (B) does not exceed the quantity reasonably expected to be required by the agency.
+Each executive agency shall procure supplies in such quantity as (A) will result in the totalcost and unit cost most advantageous to the United States, where practicable, and (B) does not exceed the quantity reasonably expected to be required by the agency.
 
 #### (b) Opinions; economic advantage to United States
 

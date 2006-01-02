@@ -10,7 +10,7 @@ Hereinafter, referred to in text, means act Mar. 4, 1929 which is classified to 
 
 #### Change of Name
 
-Words “park” and “Park” substituted in text for “monument” and “Monument”, respectively, pursuantto Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated the Badlands National Monument as the Badlands National Park.
+Words “park” and “Park” substituted in text for “monument” and “Monument”, respectively, pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated the Badlands National Monument as the Badlands National Park.
 
 #### Ben Reifel Visitor Center
 

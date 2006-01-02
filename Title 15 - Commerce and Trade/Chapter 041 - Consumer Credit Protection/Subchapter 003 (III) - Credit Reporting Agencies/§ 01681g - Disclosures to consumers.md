@@ -92,7 +92,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (1) In general
 
-&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumers under this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
+&emsp;The Commission, in consultation with the Federal banking agencies and the National Credit Union Administration, shall prepare a model summary of the rights of consumersunder this subchapter with respect to the procedures for remedying the effects of fraud or identity theft involving credit, an electronic fund transfer, or an account or transaction at or with a financial institution or other creditor.
 
 #### (2) Summary of rights and contact information
 
@@ -168,7 +168,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (7) Limitation on civil liability
 
-&emsp;No business entity may be held civilly liable under any provision of Federal, State, or other law for disclosure, made in good faith pursuant to this subsection.
+&emsp;No business entity may be held civilly liable under any provision of Federal, State, or otherlaw for disclosure, made in good faith pursuant to this subsection.
 
 #### (8) No new recordkeeping obligation
 
@@ -194,7 +194,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (11) Definition of victim
 
-&emsp;For purposes of this subsection, the term “victim” means a consumer whose means of identification or financial information hasbeen used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
+&emsp;For purposes of this subsection, the term “victim” means a consumer whose means of identification or financial information has been used or transferred (or has been alleged to have been used or transferred) without the authority of that consumer, with the intent to commit, or to aid or abet, an identity theft or a similar crime.
 
 #### (12) Effective date
 
@@ -280,7 +280,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (9) Use of enquiries as a key factor
 
-&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be includedin the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
+&emsp;If a key factor that adversely affects the credit score of a consumer consists of the number of enquiries made with respect to a consumer report, that factor shall be included in the disclosure pursuant to paragraph (1)(C) without regard to the numerical limitation in such paragraph.
 
 #### (g) Disclosure of credit scores by certain mortgage lenders
 
@@ -354,7 +354,7 @@ The requirements of subsection (a) of this section respecting the disclosure of 
 
 #### (ii) Limit on liability
 
-&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that informationor for the omission of any information within the report provided by the consumer reporting agency.
+&emsp;&emsp;&emsp;No person has liability under this subsection for the content of that information or for the omission of any information within the report provided by the consumer reporting agency.
 
 #### (G) Person defined as excluding enterprise
 

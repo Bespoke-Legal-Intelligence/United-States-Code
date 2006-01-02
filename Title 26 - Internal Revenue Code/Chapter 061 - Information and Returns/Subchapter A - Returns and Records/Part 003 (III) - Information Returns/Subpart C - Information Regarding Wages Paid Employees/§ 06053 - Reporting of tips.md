@@ -2,7 +2,7 @@
 
 #### (a) Reports by employees
 
-Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined in section 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
+Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined in section 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under suchregulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
 
 #### (b) Statements furnished by employers
 
@@ -60,7 +60,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (C) The Secretary may lower the percentage required to be allocated
 
-&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, the Secretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentageof gross receipts constituting tips is less than 8 percent.
+&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, the Secretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentage of gross receipts constituting tips is less than 8 percent.
 
 #### (4) Large food or beverage establishment
 
@@ -90,7 +90,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 &emsp;The Secretary shall prescribe regulations for the application of this subsection to new businesses.
 
-(Added Pub. L. 89–97, title III, §313(e)(2)(A), July 30, 1965, 79 Stat. 384; amended Pub. L. 89–212, §2(d), Sept. 29, 1965, 79 Stat. 859; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §314(a), Sept. 3, 1982, 96 Stat. 603; Pub. L. 98–369, div. A, title X, §1072(a), (c)(1), July 18, 1984, 98 Stat. 1052.)
+(Added Pub. L. 89–97, title III, §313(e)(2)(A), July 30, 1965, 79 Stat. 384; amended Pub. L. 89–212,§2(d), Sept. 29, 1965, 79 Stat. 859; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §314(a), Sept. 3, 1982, 96 Stat. 603; Pub. L. 98–369, div. A, title X, §1072(a), (c)(1), July 18, 1984, 98 Stat. 1052.)
 
 #### Amendments
 
@@ -149,8 +149,4 @@ Pub. L. 99–514, title XV, §1571, Oct. 22, 1986, 100 Stat. 2765, provided that
 #### Study of Tip Compliance
 
 Section 314(c) of Pub. L. 97–248 directed Secretary of the Treasury or his delegate to submit before Jan. 1, 1987, to Committee on Ways and Means of House of Representatives and to Committee on Finance of Senate a report with respect to tip compliance in food and beverage service industry. Such study to include, but not be limited to, an analysis of tipping patterns, tip-sharing arrangements, and tip compliance patterns.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45B, 451, 3306, 3102, 3121, 3202, 3231, 3401, 3402, 6001, 6041, 6041A, 6051, 6652, 6674, 6678, 6724 of this title; title 42 section 409; title 45 section 231.
 

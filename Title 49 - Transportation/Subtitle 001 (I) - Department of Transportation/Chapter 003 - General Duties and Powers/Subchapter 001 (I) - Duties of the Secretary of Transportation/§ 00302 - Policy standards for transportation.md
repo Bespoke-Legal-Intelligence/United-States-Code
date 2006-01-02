@@ -26,7 +26,7 @@
 
 Intermodal Transportation.—It is the policy of the United States Government to encourage and promote development of a national intermodal transportation system in the United States to move people and goods in an energy-efficient manner, provide the foundation for improved productivity growth, strengthen the Nation's ability to compete in the global economy, and obtain the optimum yield from the Nation's transportation resources.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2419; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 102–240, title I, §1036(a), title V, §5001, Dec. 18, 1991, 105 Stat. 1978, 2158; Pub. L. 103–272, §5(m)(6), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §308(a), Dec. 29, 1995, 109 Stat. 946.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 102–240, title I, §1036(a), title V, §5001, Dec. 18, 1991, 105 Stat. 1978, 2158; Pub. L. 103–272, §5(m)(6), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §308(a), Dec. 29, 1995, 109 Stat. 946.)
 
 Historical and Revision Notes
 
@@ -52,7 +52,7 @@ Oct. 15, 1966, Pub. L. 89–670, §4(b), 80 Stat. 933.
 
 49:1653(b)(3).
 
-In subsection (a), the words “In carrying out his duties and responsibilities under this chapter” before “Secretary of Transportation” are omitted as surplus. The words “the transportation policy of sections 10101 and 10101a of this title in addition to other laws” are substituted for “all applicable statutes including the policy standards set forth in the Federal Aviation Act of 1958, as amended \[49 U.S.C. 1301 et seq.\]; the national transportation policy of the Interstate Commerce Act, as amended; title 23, relating to Federal-aid highways; and title 14, titles 52 and 53 of the Revised Statutes, the Act of April 25, 1940, as amended, and the Act of September 2, 1958, as amended, relating to the United States Coast Guard” because each of the omitted laws is now applicable to the Secretary of Transportation and the Department of Transportation as the result of the restatement of those laws, and the Secretary is therefore bound to follow those laws by their own terms.
+In subsection (a), the words “In carrying out his duties and responsibilities under this chapter” before “Secretary of Transportation” are omitted as surplus. The words “the transportation policy of sections 10101 and 10101a of this title in addition to other laws” are substituted for “all applicable statutes including the policy standards set forth in the Federal Aviation Act of 1958, as amended \[49 U.S.C. 1301 et seq.\]; the national transportation policy of the Interstate Commerce Act, as amended; title 23, relating to Federal-aid highways; and title 14, titles 52 and 53 of the Revised Statutes, the Act of April 25, 1940, as amended, and the Act of September 2, 1958, as amended, relating to the United States Coast Guard” because each of the omitted laws is now applicable to the Secretary of Transportationand the Department of Transportation as the result of the restatement of those laws, and the Secretary is therefore bound to follow those laws by their own terms.
 
 In subsection (c), the words “In exercising the functions, powers, and duties conferred on and transferred to the Secretary by this chapter” before “Secretary” are omitted as surplus. The word “consider” is substituted for “give full consideration to” to eliminate surplus words. The words “for operational continuity of the functions transferred” after “the needs” are omitted as executed.
 

@@ -20,7 +20,7 @@ When used in this subchapter—
 
 (i) Whale products: The words “whale products” mean any unprocessed part of a whale and blubber, meat, bones, whale oil, sperm oil, spermaceti, meal, and baleen.
 
-(j) Whaling: The word “whaling” means the scouting for, hunting, killing, taking, towing, holding onto, and flensing of whales, and the possession, treatment, or processing of whales or of whale products.
+(j) Whaling: The word “whaling” means the scouting for, hunting, killing, taking, towing,holding onto, and flensing of whales, and the possession, treatment, or processing of whales or of whale products.
 
 (k) Regulations of the Commission: The words “regulations of the Commission” mean the whaling regulations in the schedule annexed to and constituting a part of the convention in their original form or as modified, revised, or amended by the Commission from time to time, in pursuance of article V of the convention.
 
@@ -62,7 +62,7 @@ Pub. L. 96–60, title IV, §405, Aug. 15, 1979, 93 Stat. 403, provided that:
 
 &emsp;“(6) the United Nations Governing Council for Environment Programs in 1973 and 1974 confirmed such call for a ten-year moratorium, and the Council continues to support ongoing efforts relating to whale conservation;
 
-&emsp;“(7) the International Convention for the Regulation of Whaling, signed in 1946, as implemented bythe International Whaling Commission, is not providing adequate protection to whales;
+&emsp;“(7) the International Convention for the Regulation of Whaling, signed in 1946, as implemented by the International Whaling Commission, is not providing adequate protection to whales;
 
 &emsp;“(8) the data-gathering structure established under the International Whaling Commission has not provided all the available data necessary for sound whale conservation;
 

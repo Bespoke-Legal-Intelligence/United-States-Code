@@ -6,13 +6,21 @@ Such rules shall not abridge, enlarge, or modify any substantive right.
 
 The Supreme Court shall transmit to Congress not later than May 1 of the year in which a rule prescribed under this section is to become effective a copy of the proposed rule. The rule shall take effect no earlier than December 1 of the year in which it is transmitted to Congress unless otherwise provided by law.
 
-(Added Pub. L. 88–623, §1, Oct. 3, 1964, 78 Stat. 1001; amended Pub. L. 95–598, title II, §247, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 103–394, title I, §104(f), Oct. 22, 1994, 108 Stat. 4110.)
+The bankruptcy rules promulgated under this section shall prescribe a form for the statement required under section 707(b)(2)(C) of title 11 and may provide general rules on the content of such statement.
+
+(Added Pub. L. 88–623, §1, Oct. 3, 1964, 78 Stat. 1001; amended Pub. L. 95–598, title II, §247, Nov. 6, 1978, 92 Stat. 2672; Pub. L. 103–394, title I, §104(f), Oct. 22, 1994, 108 Stat. 4110; Pub. L. 109–8, title XII, §1232, Apr. 20, 2005, 119 Stat. 202.)
 
 #### Amendments
+
+2005—Pub. L. 109–8 inserted at end “The bankruptcy rules promulgated under this section shall prescribe a form for the statement required under section 707(b)(2)(C) of title 11 and may provide general rules on the content of such statement.”
 
 1994—Pub. L. 103–394 amended third par. generally. Prior to amendment, third par. read as follows: “Such rules shall not take effect until they have been reported to Congress by the Chief Justice at or after the beginning of a regular session thereof but not later than the first day of May and until the expiration of ninety days after they have been thus reported.”
 
 1978—Pub. L. 95–598 substituted “in cases under title 11” for “under the Bankruptcy Act” and struck out provisions directing that all laws in conflict with bankruptcy rules be of no further force or effect after such rules have taken effect.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1994 Amendment
 

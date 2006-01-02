@@ -170,9 +170,33 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 (1) Notwithstanding any other provision of this chapter or of State law, the Board may authorize an institution whose deposits or accounts are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation to purchase any of the assets of or assume any of the liabilities of an insured credit union which is insolvent or in danger of insolvency, except that prior to exercising this authority the Board must attempt to effect the merger or consolidation of an insured credit union which is insolvent or in danger of insolvency with another insured credit union, as provided in subsection (h) of this section.
 
-(2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured depositsor other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
+(2) For purposes of the authority contained in paragraph (1), insured accounts of the credit union may upon consummation of the purchase and assumption be converted to insured deposits or other comparable accounts in the acquiring institution, and the Board and the National Credit Union Share Insurance Fund shall be absolved of any liability to the credit union's members with respect to those accounts.
 
-(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919.)
+(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 109–173, §2(d)(3), (e), Feb. 15, 2006, 119 Stat. 3604, 3605, provided that, effective Apr. 1, 2006, subsection (a) of this section is amended to read as follows:</i>
+
+#### <i>“(a) Insurance logo</i>
+
+#### <i>“(1) Insured credit unions</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“Each insured credit union shall display at each place of business maintained by that credit union a sign or signs relating to the insurance of the share accounts of the institution, in accordance with regulations to be prescribed by the Board.</i>
+
+#### <i>“(B) Statement to be included</i>
+
+&emsp;&emsp;<i>“Each sign required under subparagraph (A) shall include a statement that insured share accounts are backed by the full faith and credit of the United States Government.</i>
+
+#### <i>“(2) Regulations</i>
+
+&emsp;<i>“The Board shall prescribe regulations to carry out this subsection, including regulations governing the substance of signs required by paragraph (1) and the manner of display or use of such signs.</i>
+
+#### <i>“(3) Penalties</i>
+
+&emsp;<i>“For each day that an insured credit union continues to violate this subsection or any regulation issued under this subsection, it shall be subject to a penalty of not more than $100, which the Board may recover for its use.”</i>
 
 #### References in Text
 
@@ -213,6 +237,10 @@ Pub. L. 97–320, §141(a)(8), which directed that, effective Oct. 13, 1986, the
 Subsec. (g). Pub. L. 96–221, §523, added subsec. (g).
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–173, §2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This section \[amending this section and sections 1787, 1817, 1821, 1828, 1831t, and 3104 of this title\] and the amendments made by this section shall take effect on the date on which the final regulations required under section 2109(a)(2) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 20\] take effect \[Apr. 1, 2006, see 71 F.R. 14629\].”
 
 #### Effective Date of 1980 Amendment
 

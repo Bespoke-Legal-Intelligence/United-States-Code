@@ -36,7 +36,7 @@
 
 &emsp;For purposes of paragraph (1), the term “express statement”, with respect to information or records, means—
 
-&emsp;&emsp;(A) in the case of written information or records, a written marking on the information or records substantially similar to the following: “This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure asprovided by the provisions of the Critical Infrastructure Information Act of 2002.”; or
+&emsp;&emsp;(A) in the case of written information or records, a written marking on the information or records substantially similar to the following: “This information is voluntarily submitted to the Federal Government in expectation of protection from disclosure as provided by the provisions of the Critical Infrastructure Information Act of 2002.”; or
 
 &emsp;&emsp;(B) in the case of oral information, a similar written statement submitted within a reasonable period following the oral communication.
 

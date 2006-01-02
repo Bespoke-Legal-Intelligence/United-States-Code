@@ -32,7 +32,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(M) other Federal agencies with specific statutory authority to investigate violations of Federal criminal laws,
 
-&emsp;(3) the term “law enforcement emergency” means an uncommon situation which requires law enforcement, which is or threatens to become of serious or epidemic proportions, and with respect to which State and local resources are inadequate to protect the lives and property of citizens or to enforce the criminal law, except that such term does not include—
+&emsp;(3) the term “law enforcement emergency” means an uncommon situation which requires law enforcement, which is or threatens to become of serious or epidemic proportions, andwith respect to which State and local resources are inadequate to protect the lives and property of citizens or to enforce the criminal law, except that such term does not include—
 
 &emsp;&emsp;(A) the perceived need for planning or other activities related to crowd control for general public safety projects, or
 

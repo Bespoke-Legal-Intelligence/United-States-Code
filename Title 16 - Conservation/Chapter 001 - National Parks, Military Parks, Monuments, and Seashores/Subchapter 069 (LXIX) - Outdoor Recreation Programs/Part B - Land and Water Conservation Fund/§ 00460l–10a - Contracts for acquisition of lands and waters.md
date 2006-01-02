@@ -1,6 +1,6 @@
 ### §460<i>l</i>–10a. Contracts for acquisition of lands and waters
 
-Not to exceed $30,000,000 of the money authorized to be appropriated from the fund by section 460<i>l</i>–6 of this title may be obligated by contract during each fiscal year for the acquisition of lands, waters, or interests therein within areas specified in section 460<i>l</i>–9(a)(1) of this title. Any such contract may be executed by the head of the department concerned, within limitations prescribed by the Secretary of the Interior. Any such contract so entered into shall be deemed a contractual obligation of the United States and shall be liquidated with money appropriated from the fund specifically for liquidation of suchcontract obligation. No contract may be entered into for the acquisition of property pursuant to this section unless such acquisition is otherwise authorized by Federal law.
+Not to exceed $30,000,000 of the money authorized to be appropriated from the fund by section 460<i>l</i>–6 of this title may be obligated by contract during each fiscal year for the acquisition of lands, waters, or interests therein within areas specified in section 460<i>l</i>–9(a)(1) of this title. Any such contract may be executed by the head of the department concerned, within limitations prescribed by the Secretary of the Interior. Any such contract so entered into shall be deemed a contractual obligation of the United States and shall be liquidated with money appropriated from the fund specifically for liquidation of such contract obligation. No contract may be entered into for the acquisition of property pursuant to this section unless such acquisition is otherwise authorized by Federal law.
 
 (Pub. L. 88–578, title I, §9, formerly §8, as added Pub. L. 90–401, §4, July 15, 1968, 82 Stat. 355; amended Pub. L. 91–308, §3, July 7, 1970, 84 Stat. 410; renumbered §9, Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459, and amended Pub. L. 93–303, §3, June 7, 1974, 88 Stat. 194.)
 
@@ -17,6 +17,8 @@ A prior section 9 of Pub. L. 88–578 was renumbered section 10 and is classifie
 #### Rescission of Contract Authority
 
 Provisions rescinding contract authority provided for specific fiscal years by 16 U.S.C. 460<i>l</i>–10a were contained in the following appropriation acts:
+
+Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 509.
 
 Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3050.
 

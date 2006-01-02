@@ -12,7 +12,7 @@ Section 3785, acts Aug. 10, 1956, ch. 1041, 70A Stat. 219; July 12, 1960, Pub. L
 
 Section 3786, acts Aug. 10, 1956, ch. 1041, 70A Stat. 219; July 12, 1960, Pub. L. 86–616, §2(a), 74 Stat. 387, authorized Secretary of the Army, at any time during proceedings under this chapter and before removal of an officer from active list of Regular Army, to grant that officer's request for voluntary retirement, if he is otherwise qualified therefor, or for honorable discharge with severance benefits. See section 1186 of this title.
 
-Section 3787, added Pub. L. 96–616, §2(a), July 12, 1960, 74 Stat. 388, provided that no officer serve on a board under this chapter unless he holds a regular or temporary grade above lieutenant colonel, and is senior in regular grade to, and outranks, any officer considered by board and that no person be a member of more than one board convened under this chapter for same officer. See section 1187 of this title.
+Section 3787, added Pub. L. 86–616, §2(a), July 12, 1960, 74 Stat. 388, provided that no officer serve on a board under this chapter unless he holds a regular or temporary grade above lieutenant colonel, and is senior in regular grade to, and outranks, any officer considered by board and that no person be a member of more than one board convened under this chapter for same officer. See section 1187 of this title.
 
 #### Effective Date of Repeal
 

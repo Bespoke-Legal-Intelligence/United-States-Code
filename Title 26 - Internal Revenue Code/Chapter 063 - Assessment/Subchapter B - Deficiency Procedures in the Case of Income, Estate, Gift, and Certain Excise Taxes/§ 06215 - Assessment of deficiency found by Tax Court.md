@@ -14,7 +14,7 @@ If the taxpayer files a petition with the Tax Court, the entire amount redetermi
 
 &emsp;&emsp;<b>(4) For assessment of damages awarded by Tax Court for instituting proceedings merely for delay, see section 6673.</b>
 
-&emsp;&emsp;<b>(5) For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).</b>
+&emsp;&emsp;<b>(5) For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-</b><b>built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).</b>
 
 &emsp;&emsp;<b>(6) For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.</b>
 
@@ -33,8 +33,4 @@ Subsec. (b)(5). Pub. L. 94–455, §1906(a)(16), struck out “60 Stat. 48;” b
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1404(d) of Pub. L. 99–514, set out as a note under section 643 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7436, 7481 of this title.
 

@@ -12,7 +12,7 @@ There is hereby imposed a tax on any taxable vaccine sold by the manufacturer, p
 
 #### (2) Combinations of vaccines
 
-&emsp;If any taxable vaccine is described in more than 1 subparagraph of section 4132(a)(1), theamount of the tax imposed by subsection (a) on such vaccine shall be the sum of the amounts for the vaccines which are so included.
+&emsp;If any taxable vaccine is described in more than 1 subparagraph of section 4132(a)(1), the amount of the tax imposed by subsection (a) on such vaccine shall be the sum of the amounts for the vaccines which are so included.
 
 #### (c) Application of section
 
@@ -114,13 +114,9 @@ Time for payment.—The tax imposed by paragraph (1) shall be paid on or before 
 
 “(3)
 
-Definitions.—For purposes of this subsection, terms used in this subsection which are also used in section 4131 of such Code shall have the respective meanings such terms have in such section.
+Definitions.—For purposes of this subsection, terms used in this subsection which are also used insection 4131 of such Code shall have the respective meanings such terms have in such section.
 
 “(4)
 
 Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 4131 of such Code shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1), to the same extent as if such taxes were imposed by such section 4131.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4132, 4221, 6416, 9510 of this title; title 42 section 1396s.
 

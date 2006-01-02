@@ -8,7 +8,3 @@ If a taxpayer changes his annual accounting period, the new accounting period sh
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 859, 1398, 6110 of this title.
-

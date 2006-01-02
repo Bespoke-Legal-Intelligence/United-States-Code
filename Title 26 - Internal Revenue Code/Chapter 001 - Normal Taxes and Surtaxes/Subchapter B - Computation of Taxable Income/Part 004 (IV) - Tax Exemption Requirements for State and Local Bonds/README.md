@@ -14,10 +14,6 @@
 
 1977—Pub. L. 95–30, title I, §101(e)(2), May 23, 1977, 91 Stat. 134, substituted “DETERMINATION OF MARITAL STATUS” for “STANDARD DEDUCTION FOR INDIVIDUALS” as heading for part IV.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 103, 1394, 1503 of this title.
-
 
 ---
 

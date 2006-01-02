@@ -1,6 +1,6 @@
 ### §288. False claims for postal losses
 
-Whoever makes, alleges, or presents any claim or application for indemnity for the loss of anyregistered or insured letter, parcel, package, or other article or matter, or the contents thereof, knowing such claim or application to be false, fictitious, or fraudulent; or
+Whoever makes, alleges, or presents any claim or application for indemnity for the loss of any registered or insured letter, parcel, package, or other article or matter, or the contents thereof, knowing such claim or application to be false, fictitious, or fraudulent; or
 
 Whoever for the purpose of obtaining or aiding to obtain the payment or approval of any such claim or application, makes or uses any false statement, certificate, affidavit, or deposition; or
 

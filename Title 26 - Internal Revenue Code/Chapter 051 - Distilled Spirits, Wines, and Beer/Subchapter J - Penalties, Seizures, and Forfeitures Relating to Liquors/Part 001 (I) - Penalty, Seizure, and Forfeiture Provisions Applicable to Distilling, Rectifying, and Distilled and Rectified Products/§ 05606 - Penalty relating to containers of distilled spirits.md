@@ -10,7 +10,3 @@ A prior section 5606, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to pena
 
 Provisions similar to those comprising this section were contained in prior section 5641, act Aug. 16, 1954, ch. 736, 68A Stat. 692, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5301 of this title.
-

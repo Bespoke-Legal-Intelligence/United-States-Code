@@ -50,7 +50,3 @@ A prior section 1055 was renumbered section 1061 of this title.
 
 Section 2 of Pub. L. 88–9 provided that: “The amendments made by subsection (a) of the first section of this Act \[amending section 163 of this title\] shall take effect as of January 1, 1962, and shall apply with respect to taxable years ending on or after such date. The amendments made by subsection (b) of the first section of this Act \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Apr. 10, 1963\] and shall apply with respect to taxable years ending after such date of enactment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 163, 7701 of this title.
-

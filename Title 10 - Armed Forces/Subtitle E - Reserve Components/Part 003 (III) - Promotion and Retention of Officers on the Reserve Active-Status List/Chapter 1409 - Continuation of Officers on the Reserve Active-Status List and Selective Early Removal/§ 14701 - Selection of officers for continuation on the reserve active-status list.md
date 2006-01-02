@@ -44,7 +44,3 @@ Instructions To Continuation Boards.—A continuation board convened under secti
 
 Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1558, 14505, 14506, 14507 of this title.
-

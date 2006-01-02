@@ -36,11 +36,13 @@ Operations Tempo and Personnel Tempo Defined.—Until such time as the Secretary
 
 (d)
 
-Other Definitions.—In this section, the term “armed forces” does not include the CoastGuard when it is not operating as a service in the Department of the Navy.
+Inapplicability to Coast Guard.—In this section, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Department of the Navy.
 
-(Added Pub. L. 106–65, div. A, title IX, §923(b)(1), Oct. 5, 1999, 113 Stat. 724; amended Pub. L. 108–136, div. A, title V, §541(c), Nov. 24, 2003, 117 Stat. 1477.)
+(Added Pub. L. 106–65, div. A, title IX, §923(b)(1), Oct. 5, 1999, 113 Stat. 724; amended Pub. L. 108–136, div. A, title V, §541(c), Nov. 24, 2003, 117 Stat. 1477; Pub. L. 108–375, div. A, title X, §1084(d)(4), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–375 substituted “Inapplicability to Coast Guard” for “Other Definitions” in heading.
 
 2003—Subsec. (b)(5). Pub. L. 108–136 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For each of the armed forces, the description shall indicate the average number of days a member of that armed force was deployed away from the member's home station during the period covered by the report as compared to recent previous years for which such information is available.”
 

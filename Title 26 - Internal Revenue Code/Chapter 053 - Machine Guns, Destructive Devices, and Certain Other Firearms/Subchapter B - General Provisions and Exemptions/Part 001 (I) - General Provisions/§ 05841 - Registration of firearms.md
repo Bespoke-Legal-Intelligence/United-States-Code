@@ -20,7 +20,7 @@ Each manufacturer shall notify the Secretary of the manufacture of a firearm in 
 
 #### (d) Firearms registered on effective date of this Act
 
-A person shown as possessing a firearm by the records maintained by the Secretary pursuant to the National Firearms Act in force on the day immediately prior to the effective date of the National Firearms Act of 1968 shall be considered to have registered under this section the firearms in his possession which are disclosed by that record as being in his possession.
+A person shown as possessing a firearm by the records maintained by the Secretary pursuant to the National Firearms Act in force on the day immediately prior to the effective date of the National Firearms Act of 1968 <sup>1</sup> shall be considered to have registered under this section the firearms in his possession which are disclosed by that record as being in his possession.
 
 #### (e) Proof of registration
 
@@ -30,11 +30,9 @@ A person possessing a firearm registered as required by this section shall retai
 
 #### References in Text
 
-The National Firearms Act in force prior to the effective date of the National Firearms Act of 1968, referred to in subsec. (d), is act Aug. 16, 1954, ch. 736, 68A Stat. 721, as amended, which was classified generally to prior chapter 53 (prior §5801 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The National Firearms Act in force prior to the effective date of the National Firearms Act of 1968, referred to in subsec. (d), probably means the National Firearms Act in force prior to the effective date of the National Firearms Act Amendments of 1968, which is act Aug. 16, 1954, ch. 736, 68A Stat. 721, as amended, and which was classified generally to prior chapter 53 (prior §5801 et seq.) of this title.
 
-The National Firearms Act of 1968, referred to in subsec. (d), means title II of Pub. L. 90–618, Oct. 22, 1968, 82 Stat. 1227, as amended, cited as the National Firearms Act Amendments of 1968, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5849 of this title and Tables.
-
-The effective date of this Act and the effective date of the National Firearms Act of 1968, referred to in subsec. (d) catchline and text, means the effective date of the National Firearms Act of 1968, which is Nov. 1, 1968. See section 207(a) of Pub. L. 90–618, set out as an Effective Date note under section 5801 of this title.
+The effective date of this Act and the effective date of the National Firearms Act of 1968, referred to in subsec. (d) catchline and text, probably means the effective date of the National Firearms Act Amendments of 1968, which is Nov. 1, 1968. See section 207(a) of Pub. L. 90–618, set out as an Effective Date note under section 5801 of this title.
 
 #### Prior Provisions
 
@@ -48,7 +46,5 @@ A prior section 5841, act Aug. 16, 1954, ch. 736, 68A Stat. 725, consisted of pr
 
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7012 of this title.
+<i><sup>1</sup></i><i> So in original. See References in Text notes below.</i>
 

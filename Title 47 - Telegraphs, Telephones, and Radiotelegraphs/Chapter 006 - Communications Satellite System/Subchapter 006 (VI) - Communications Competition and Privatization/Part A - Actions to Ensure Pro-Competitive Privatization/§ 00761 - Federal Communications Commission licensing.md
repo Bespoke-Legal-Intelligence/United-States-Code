@@ -8,7 +8,7 @@
 
 #### (2) Criteria for competition test
 
-&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b of this title, and shall not make such a determination unless the Commission determines that the privatization of any separated entity is consistent with such criteria.
+&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <sup>1</sup> of this title, and shall not make such a determination unless the Commission determines that the privatization of any separated entity is consistent with such criteria.
 
 #### (b) Licensing for INTELSAT, Inmarsat, and successor entities
 
@@ -36,7 +36,7 @@
 
 #### (2) Criteria for competition test
 
-&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763, 763a, and 763c of this title, and shall determine that competition in the telecommunications markets of the United States will be harmed unless the Commission finds that the privatization referred to in paragraph (1) is consistent with such criteria.
+&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763, 763a, and 763c <sup>1</sup> of this title, and shall determine that competition in the telecommunications markets of the United States will be harmed unless the Commission finds that the privatization referred to in paragraph (1) is consistent with such criteria.
 
 #### (3) Clarification: competitive safeguards
 
@@ -48,11 +48,19 @@ In making its determinations and licensing decisions under subsections (a) and (
 
 #### (d) Independent facilities competition
 
-Nothing in this section shall be construed as precluding COMSAT from investing in or owning satellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.
+Nothing in this section shall be construed as precluding COMSAT from investing in or owningsatellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.
 
 (Pub. L. 87–624, title VI, §601, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 48.)
+
+#### References in Text
+
+Section 763b of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 109–34, §2, July 12, 2005, 119 Stat. 377.
+
+Section 763c of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 109–34, §3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.
 
 #### Purpose
 
 Pub. L. 106–180, §2, Mar. 17, 2000, 114 Stat. 48, provided that: “It is the purpose of this Act \[see Short Title of 2000 Amendment note set out under section 701 of this title\] to promote a fully competitive global market for satellite communication services for the benefit of consumers and providers of satellite services and equipment by fully privatizing the intergovernmental satellite organizations, INTELSAT and Inmarsat.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

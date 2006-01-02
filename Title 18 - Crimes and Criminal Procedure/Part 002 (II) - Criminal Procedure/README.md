@@ -17,6 +17,7 @@
 | [<b>209.</b>](Chapter%20209%20-%20Extradition/README.md) | <b>Extradition</b> | <b>3181</b> |
 | [<b>211.</b>](Chapter%20211%20-%20Jurisdiction%20and%20Venue/README.md) | <b>Jurisdiction and venue</b> | <b>3231</b> |
 | [<b>212.</b>](Chapter%20212%20-%20Military%20Extraterritorial%20Jurisdiction/README.md) | <b>Military extraterritorial jurisdiction</b> | <b>3261</b> |
+| [<b>212A.</b>](Chapter%20212A%20-%20Extraterritorial%20Jurisdiction%20Over%20Certain%20Trafficking%20in%20Persons%20Offenses/README.md) | <b>Extraterritorial jurisdiction over certain trafficking in persons offenses</b> | <b>3271</b> |
 | [<b>213.</b>](Chapter%20213%20-%20Limitations/README.md) | <b>Limitations</b> | <b>3281</b> |
 | [<b>215.</b>](Chapter%20215%20-%20Grand%20Jury/README.md) | <b>Grand jury</b> | <b>3321</b> |
 | [<b>216.</b>](Chapter%20216%20-%20Special%20Grand%20Jury/README.md) | <b>Special grand jury</b> | <b>3331</b> |
@@ -45,6 +46,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–164, title I, §103(a)(2), Jan. 10, 2006, 119 Stat. 3563, added item for chapter 212A.
 
 2004—Pub. L. 108–405, title I, §102(b), title IV, §411(a)(2), Oct. 30, 2004, 118 Stat. 2264, 2284, added items for chapters 228A and 237.
 
@@ -91,6 +94,7 @@ Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984,
 - [Chapter 209 - Extradition](Chapter%20209%20-%20Extradition/README.md)
 - [Chapter 211 - Jurisdiction and Venue](Chapter%20211%20-%20Jurisdiction%20and%20Venue/README.md)
 - [Chapter 212 - Military Extraterritorial Jurisdiction](Chapter%20212%20-%20Military%20Extraterritorial%20Jurisdiction/README.md)
+- [Chapter 212A - Extraterritorial Jurisdiction Over Certain Trafficking in Persons Offenses](Chapter%20212A%20-%20Extraterritorial%20Jurisdiction%20Over%20Certain%20Trafficking%20in%20Persons%20Offenses/README.md)
 - [Chapter 213 - Limitations](Chapter%20213%20-%20Limitations/README.md)
 - [Chapter 215 - Grand Jury](Chapter%20215%20-%20Grand%20Jury/README.md)
 - [Chapter 216 - Special Grand Jury](Chapter%20216%20-%20Special%20Grand%20Jury/README.md)

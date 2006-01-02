@@ -28,7 +28,7 @@ Section was formerly classified to section 79 of this title.
 
 #### Amendments
 
-1967—Pub. L. 90–201, §8, clarified application to brand manufacturers and printers of existing prohibition against counterfeiting official marks, labels or certificates, the provisions with respect to forgery, unauthorized use or failure to use official marks, or similar items, and similar offenses, and existing prohibitions with respect to false statements in official or nonofficial certificates, and added restriction upon possession of official devices, or devices, labels, meat, or other articles bearing counterfeit official marks, counterfeit official certificates, or similar items, and prohibition against false representations.
+1967—Pub. L. 90–201, §8, clarified application to brand manufacturers and printers of existing prohibition against counterfeiting official marks, labels or certificates, the provisions with respect to forgery, unauthorized use or failure to use official marks, or similar items, and similar offenses, and existing prohibitions with respect to false statements in official or nonofficial certificates, and added restriction upon possession of official devices, or devices, labels, meat, or other articles bearing counterfeit official marks, counterfeitofficial certificates, or similar items, and prohibition against false representations.
 
 #### Effective Date of 1967 Amendment
 

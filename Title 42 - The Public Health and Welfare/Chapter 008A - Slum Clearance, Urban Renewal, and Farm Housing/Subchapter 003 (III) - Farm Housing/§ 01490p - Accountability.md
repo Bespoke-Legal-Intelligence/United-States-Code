@@ -18,7 +18,7 @@
 
 &emsp;(A) The Secretary shall award or allocate assistance only in response to a written application in a form approved in advance by the Secretary, except where other award or allocation procedures are specified in statute.
 
-&emsp;(B) The Secretary shall ensure that documentation and other information regardingeach application for assistance is sufficient to indicate the basis on which any award or allocation was made or denied. The preceding sentence shall apply to—
+&emsp;(B) The Secretary shall ensure that documentation and other information regarding each application for assistance is sufficient to indicate the basis on which any award or allocation was made or denied. The preceding sentence shall apply to—
 
 &emsp;&emsp;(i) any application for an award or allocation of assistance made by the Secretary to a State, unit of general local government, or other recipient of assistance, and
 
@@ -88,7 +88,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (4) Nonexclusiveness of remedies
 
-&emsp;This subsection may not be construed to limit the applicability of any requirements, sanctions, penalties, or remedies established under any other law. The Secretary shall notbe relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
+&emsp;This subsection may not be construed to limit the applicability of any requirements, sanctions, penalties, or remedies established under any other law. The Secretary shall not be relieved of any obligation to carry out the requirements of this section because such other requirements, sanctions, penalties, or remedies apply.
 
 #### (f) Limitation of assistance
 

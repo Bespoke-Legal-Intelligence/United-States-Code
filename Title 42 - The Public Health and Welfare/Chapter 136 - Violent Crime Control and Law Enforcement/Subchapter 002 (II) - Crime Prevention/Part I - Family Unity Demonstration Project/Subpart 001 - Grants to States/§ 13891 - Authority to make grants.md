@@ -28,7 +28,7 @@ For the purpose of making grants under subsection (a) of this section, the Attor
 
 &emsp;&emsp;(D) not more than 50 days after reviewing such applications approve or disapprove the application; and
 
-&emsp;(7) for the purposes of selecting eligible offenders to participate in such project, the State has authorized State courts to sentence an eligible offender directly to a community correctional facility, provided that the court gives assurances that the offender would have otherwise served a term of imprisonment.
+&emsp;(7) for the purposes of selecting eligible offenders to participate in such project, theState has authorized State courts to sentence an eligible offender directly to a community correctional facility, provided that the court gives assurances that the offender would have otherwise served a term of imprisonment.
 
 #### (c) Selection of grantees
 

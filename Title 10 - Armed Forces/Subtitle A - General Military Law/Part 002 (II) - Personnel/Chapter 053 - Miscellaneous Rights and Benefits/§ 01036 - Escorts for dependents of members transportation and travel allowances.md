@@ -42,13 +42,9 @@ Sec. 7. No regulations under section 1 of this Act \[enacting this section\] rel
 
 #### Public Health Service
 
-Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretaryof Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 3071; title 42 section 213a.
 

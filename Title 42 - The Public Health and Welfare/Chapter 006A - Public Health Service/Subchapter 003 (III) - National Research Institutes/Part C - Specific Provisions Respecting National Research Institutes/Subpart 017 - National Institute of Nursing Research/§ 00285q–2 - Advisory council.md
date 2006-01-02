@@ -56,7 +56,7 @@ The Director of the Institute shall designate a member of the staff of the Insti
 
 The advisory council may prepare, for inclusion in the biennial report made under section 285q–3 of this title, (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the Institute in meeting its objectives, and (3) recommendations respecting the future directions and program and policy emphasis of the Institute. The advisory council may prepare such additional reports as it may determine appropriate.
 
-(July 1, 1944, ch. 373, title IV, §464X, formerly §485, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99Stat. 867; amended Pub. L. 101–381, title I, §102(4), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–54, §13(q)(1)(E), June 13, 1991, 105 Stat. 279; renumbered §464X and amended Pub. L. 103–43, title XV, §1511(a)(3), (b)(2), (4)(B), title XX, §§2008(b)(13), 2010(b)(5), June 10, 1993, 107 Stat. 178, 179, 211, 214.)
+(July 1, 1944, ch. 373, title IV, §464X, formerly §485, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 867; amended Pub. L. 101–381, title I, §102(4), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–54, §13(q)(1)(E), June 13, 1991, 105 Stat. 279; renumbered §464X and amended Pub. L. 103–43, title XV, §1511(a)(3), (b)(2), (4)(B), title XX, §§2008(b)(13), 2010(b)(5), June 10, 1993, 107 Stat. 178, 179, 211, 214.)
 
 #### Codification
 
@@ -66,7 +66,7 @@ Section was formerly classified to section 285c–2 of this title prior to renum
 
 1993—Subsec. (a). Pub. L. 103–43, §1511(a)(3)(A), substituted “Institute” for “Center” wherever appearing.
 
-Subsec. (a)(2). Pub. L. 103–43, §2010(b)(5), which directed the substitution of “section 238” for “section 300aaa” in section 287c–2(a)(2) of this title, was executed to subsec. (a)(2) of this section to reflect the probable intent of Congress and the renumbering of this section. See Codification note above.
+Subsec. (a)(2). Pub. L. 103–43, §2010(b)(5), which directed the substitution of “section 238” for “section300aaa” in section 287c–2(a)(2) of this title, was executed to subsec. (a)(2) of this section to reflect the probable intent of Congress and the renumbering of this section. See Codification note above.
 
 Subsec. (b)(2)(A). Pub. L. 103–43, §2008(b)(13), which directed the substitution of “Department of Veterans Affairs” for “Veterans’ Administration” in section 287c–2(b)(2)(A) of this title could not be executed because the words “Veterans’ Administration” do not appear in subsec. (b)(2)(A) of this section subsequent to amendment by Pub. L. 102–54 and because of the renumbering of this section. See Codification note above and 1991 Amendment note below.
 

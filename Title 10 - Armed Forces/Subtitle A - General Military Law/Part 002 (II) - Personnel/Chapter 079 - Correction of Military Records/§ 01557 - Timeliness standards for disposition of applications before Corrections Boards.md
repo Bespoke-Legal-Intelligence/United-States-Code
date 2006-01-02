@@ -30,7 +30,7 @@ Ten-Month Clearance Percentage.—Of the applications received by a Corrections 
 
 &nbsp;&nbsp;the period of fiscal years 2005, 2006, and     2007
 
-70&nbsp;&nbsp;
+70  
 
 &nbsp;&nbsp;the period of fiscal years 2008, 2009, and     2010
 
@@ -44,7 +44,7 @@ Ten-Month Clearance Percentage.—Of the applications received by a Corrections 
 
 (b)
 
-Clearance Deadline for All Applications.—Effective October 1, 2002, final action by a Corrections Board on all applications received by the Corrections Board (other than those applications considered suitable for administrative correction) shall be completed within 18 months of receipt.
+Clearance Deadline for All Applications.—Final action by a Corrections Board on all applications received by the Corrections Board (other than those applications considered suitable for administrative correction) shall be completed within 18 months of receipt.
 
 (c)
 
@@ -68,9 +68,11 @@ Corrections Board Defined.—In this section, the term “Corrections Board” m
 
 &emsp;(3) with respect to the Department of the Air Force, the Air Force Board for Correction of Military Records.
 
-(Added Pub. L. 105–261, div. A, title V, §544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 105–261, div. A, title V, §544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(d)(12), Oct. 28, 2004, 118 Stat. 2062.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–375 substituted “Final” for “Effective October 1, 2002, final”.
 
 1999—Subsec. (e). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

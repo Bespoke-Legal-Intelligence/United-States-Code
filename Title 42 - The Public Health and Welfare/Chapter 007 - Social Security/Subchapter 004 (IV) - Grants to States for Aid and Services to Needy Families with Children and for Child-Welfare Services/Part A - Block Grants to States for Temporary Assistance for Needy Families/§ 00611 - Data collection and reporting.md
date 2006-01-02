@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(xii) Information necessary to calculate participation rates under section 607 of this title.
 
-&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including theamount of and reason for any reduction of assistance (including sanctions).
+&emsp;&emsp;&emsp;(xiii) The type and amount of assistance received under the program, including the amount of and reason for any reduction of assistance (including sanctions).
 
 &emsp;&emsp;&emsp;(xiv) Any amount of unearned income received by any member of the family.
 
@@ -88,7 +88,7 @@
 
 #### (2) Report on use of Federal funds to cover administrative costs and overhead
 
-&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of the percentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title.
+&emsp;The report required by paragraph (1) for a fiscal quarter shall include a statement of thepercentage of the funds paid to the State under this part for the quarter that are used to cover administrative costs or overhead, with a separate statement of the percentage of such funds that are used to cover administrative costs or overhead incurred for programs operated with funds provided under section 603(a)(5) of this title.
 
 #### (3) Report on State expenditures on programs for needy families
 
@@ -140,7 +140,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;(4) the trends in employment and earnings of needy families with minor children living at home.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[titleVIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284.)
 
 #### References in Text
 

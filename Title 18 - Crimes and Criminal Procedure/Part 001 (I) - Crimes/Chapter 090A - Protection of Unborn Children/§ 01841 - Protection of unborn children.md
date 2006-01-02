@@ -10,7 +10,7 @@
 
 &emsp;(ii) the defendant intended to cause the death of, or bodily injury to, the unborn child.
 
-(C) If the person engaging in the conduct thereby intentionally kills or attempts to kill the unborn child, that person shall instead of being punished under subparagraph (A), be punished as provided under sections 1111, 1112, and1113 of this title for intentionally killing or attempting to kill a human being.
+(C) If the person engaging in the conduct thereby intentionally kills or attempts to kill the unborn child, that person shall instead of being punished under subparagraph (A), be punished as provided under sections 1111, 1112, and 1113 of this title for intentionally killing or attempting to kill a human being.
 
 (D) Notwithstanding any other provision of law, the death penalty shall not be imposed for an offense under this section.
 

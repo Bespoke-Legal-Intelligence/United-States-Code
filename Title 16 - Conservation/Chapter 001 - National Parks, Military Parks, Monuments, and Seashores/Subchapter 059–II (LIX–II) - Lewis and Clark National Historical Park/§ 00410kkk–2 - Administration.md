@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The park shall be administered by the Secretary in accordance with this subchapter andwith laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The park shall be administered by the Secretary in accordance with this subchapter and with laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (b) Management plan
 

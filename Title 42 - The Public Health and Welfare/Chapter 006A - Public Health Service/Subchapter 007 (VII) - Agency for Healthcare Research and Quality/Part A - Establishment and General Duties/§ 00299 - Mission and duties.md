@@ -160,7 +160,7 @@ Findings.—Congress finds the following:
 
 Purposes.—The purposes of this section are—
 
-&emsp;“(1) to provide for a nationwide public debate about improving the health care system to provide everyAmerican with the ability to obtain quality, affordable health care coverage; and
+&emsp;“(1) to provide for a nationwide public debate about improving the health care system to provide every American with the ability to obtain quality, affordable health care coverage; and
 
 &emsp;“(2) to provide for a vote by Congress on the recommendations that result from the debate.
 
@@ -184,7 +184,7 @@ Qualifications.—
 
 In general.—The membership of the Working Group shall include—
 
-&emsp;&emsp;&emsp;“(i) consumers of health services that represent those individuals who have not had insurance within 2 years of appointment, that have had chronic illnesses, including mental illness, are disabled, and those who receive insurance coverage through medicare and medicaid; and
+&emsp;&emsp;&emsp;“(i) consumers of health services that represent those individuals who have not had insurance within 2 years of appointment, that have had chronic illnesses, including mental illness, aredisabled, and those who receive insurance coverage through medicare and medicaid; and
 
 &emsp;&emsp;&emsp;“(ii) individuals with expertise in financing and paying for benefits and access to care, business and labor perspectives, and providers of health care.
 
@@ -302,7 +302,7 @@ Topics.—The community meetings shall, at a minimum, address the following ques
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) How should health care coverage be financed?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) What trade-offs are the American public willing to make in either benefits or financingto ensure access to affordable, high quality health care coverage and services?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) What trade-offs are the American public willing to make in either benefits or financing to ensure access to affordable, high quality health care coverage and services?
 
 &emsp;&emsp;&emsp;“(iv)
 

@@ -14,7 +14,7 @@ Pub. L. 104–76, §1, Dec. 28, 1995, 109 Stat. 787, provided that: “This Act 
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–430, §1, Sept. 13, 1988, 102 Stat. 1619, provided that: “This Act \[enacting sections 3610 to 3614a of this title, amending sections 3602, 3604 to 3608, 3615 to 3619, and 3631 of this title and sections 2341 and 2342 of Title 28, Judiciary and Judicial Procedure, repealing former sections 3610 to 3613 of this title, and enacting provisions set out as notes under this section and section 3602 of this title\] may be cited as the ‘Fair Housing Amendments Act of 1988’.”
+Pub. L. 100–430, §1, Sept. 13, 1988, 102 Stat. 1619, provided that: “This Act \[enacting sections 3610 to 3614a ofthis title, amending sections 3602, 3604 to 3608, 3615 to 3619, and 3631 of this title and sections 2341 and 2342 of Title 28, Judiciary and Judicial Procedure, repealing former sections 3610 to 3613 of this title, and enacting provisions set out as notes under this section and section 3602 of this title\] may be cited as the ‘Fair Housing Amendments Act of 1988’.”
 
 #### Short Title
 

@@ -8,7 +8,7 @@ The Secretary shall, in consultation with the Interagency Energy Management Task
 
 &emsp;(2) making recommendations for cost effective energy efficiency and renewable energy improvements in those buildings and in other similar Federal buildings; and
 
-&emsp;(3) identifying barriers which may prevent an agency's ability to comply with section 8253of this title and other energy management goals.
+&emsp;(3) identifying barriers which may prevent an agency's ability to comply with section 8253 of this title and other energy management goals.
 
 #### (b) Implementation
 
@@ -48,19 +48,23 @@ The Secretary shall, in consultation with the Interagency Energy Management Task
 
 #### (d) Report
 
-As soon as practicable after the completion of the project carried out under this section, the Secretary shall transmit a report of the findings and conclusions of the project to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate, the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, and the agencies who own the buildings involved in such project. Such report shall include an analysis of the probability of each agency achieving the 20 percent reduction goal established under section 8253(a) of this title.
+As soon as practicable after the completion of the project carried out under this section, the Secretary shall transmit a report of the findings and conclusions of the project to the Committee on Energy and Natural Resources and the Committee on Governmental Affairs of the Senate, the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives, and the agencies who own the buildings involved in such project. Such report shall include an analysis of the probability of each agency achieving each of the energy reduction goals established under section 8253(a) of this title.
 
-(Pub. L. 95–619, title V, §550, as added Pub. L. 102–486, title I, §152(h)(2), Oct. 24, 1992, 106 Stat. 2850.)
+(Pub. L. 95–619, title V, §550, as added Pub. L. 102–486, title I, §152(h)(2), Oct. 24, 1992, 106 Stat. 2850; amended Pub. L. 109–58, title I, §102(h), Aug. 8, 2005, 119 Stat. 608.)
 
 #### Prior Provisions
 
 A prior section 550 of Pub. L. 95–619 was classified to section 8260 of this title prior to the general amendment of this part by Pub. L. 100–615.
 
+#### Amendments
+
+2005—Subsec. (d). Pub. L. 109–58 substituted “each of the energy reduction goals” for “the 20 percent reduction goal”.
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

@@ -24,7 +24,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(1) the manner in which interested persons may examine data and other information on which the notice or findings is based, and
 
-&emsp;(2) the period within which interested persons may present their comments on the notice or findings (including the need therefor) orally or in writing, which period shall be atleast sixty days but may not exceed ninety days unless the time is extended by the Secretary by a notice published in the Federal Register stating good cause therefor.
+&emsp;(2) the period within which interested persons may present their comments on the notice or findings (including the need therefor) orally or in writing, which period shall be at least sixty days but may not exceed ninety days unless the time is extended by the Secretary by a notice published in the Federal Register stating good cause therefor.
 
 #### (e) Restricted devices
 
@@ -52,7 +52,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 > The Secretary shall provide the advisory committee a reasonable time to make its recommendation with respect to proposed regulations under subparagraph (A).
 
-(2)(A) Any person subject to any requirement prescribed by regulations under paragraph (1) may petition the Secretary for an exemption or variance from such requirement. Such a petition shall be submitted to the Secretary in such form and manner as he shall prescribe and shall—
+(2)(A) Any person subject to any requirement prescribed by regulations under paragraph (1) may petition the Secretary for an exemption orvariance from such requirement. Such a petition shall be submitted to the Secretary in such form and manner as he shall prescribe and shall—
 
 &emsp;(i) in the case of a petition for an exemption from a requirement, set forth the basis for the petitioner's determination that compliance with the requirement is not required to assure that the device will be safe and effective and otherwise in compliance with this chapter,
 
@@ -78,7 +78,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 (D) After the issuance of an order under subparagraph (B) respecting a petition, the petitioner shall have an opportunity for an informal hearing on such order.
 
-(3) The Secretary shall establish an advisory committee for the purpose of advising and making recommendations to him with respect to regulations proposed to be promulgated under paragraph (1)(A) and the approval or disapproval of petitions submitted under paragraph (2). Theadvisory committee shall be composed of nine members as follows:
+(3) The Secretary shall establish an advisory committee for the purpose of advising and making recommendations to him with respect to regulations proposed to be promulgated under paragraph (1)(A) and the approval or disapproval of petitions submitted under paragraph (2). The advisory committee shall be composed of nine members as follows:
 
 &emsp;(A) Three of the members shall be appointed from persons who are officers or employees of any State or local government or of the Federal Government.
 
@@ -136,7 +136,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(ii) changes or modifications to clinical protocols that do not affect—
 
-&emsp;&emsp;(I) the validity of data or information resulting from the completion of an approved protocol, or the relationship of likely patient risk to benefit relied upon to approve a protocol;
+&emsp;&emsp;(I) the validity of data or information resulting from the completion of an approvedprotocol, or the relationship of likely patient risk to benefit relied upon to approve a protocol;
 
 &emsp;&emsp;(II) the scientific soundness of an investigational plan submitted under paragraph (3)(A); or
 
@@ -160,7 +160,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 #### (h) Release of information respecting safety and effectiveness
 
-(1) The Secretary shall promulgate regulations under which a detailed summary of informationrespecting the safety and effectiveness of a device which information was submitted to the Secretary and which was the basis for—
+(1) The Secretary shall promulgate regulations under which a detailed summary of information respecting the safety and effectiveness of a device which information was submitted to the Secretary and which was the basis for—
 
 &emsp;(A) an order under section 360e(d)(1)(A) of this title approving an application for premarket approval for the device or denying approval of such an application or an order under section 360e(e) of this title withdrawing approval of such an application for the device,
 
@@ -248,7 +248,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (4) Repealed. Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.
 
-(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph (B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data forwhich a summary and citation were submitted, if such data are available to the manufacturer.
+(5)(A) Before December 1, 1991, the Secretary shall by order require manufacturers of devices described in paragraph (1), which are subject to revision of classification under subparagraph (B), to submit to the Secretary a summary of and citation to any information known or otherwise available to the manufacturers respecting the devices, including adverse safety or effectiveness information which has not been submitted under section 360i of this title. The Secretary may require a manufacturer to submit the adverse safety or effectiveness data for which a summary and citation were submitted, if such data are available to the manufacturer.
 
 (B) Except as provided in subparagraph (C), after the issuance of an order under subparagraph (A) but before December 1, 1992, the Secretary shall publish a regulation in the Federal Register for each device which is classified in class III under paragraph (1) revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this subparagraph and provide an opportunity for the submission of comments on any such regulation. No regulation under this subparagraph requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of the publication in the Federal Register of the proposed regulation.
 
@@ -268,7 +268,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 > The request shall be in the form of an application submitted to the Secretary. Not later than 75 days after the date of the receipt of the application, the Secretary shall issue an order approving or denying the application.
 
-(3) No person granted an exemption under paragraph (2) with respect to a device may sell the device for an amount that exceeds the costs of research and development, fabrication, and distribution of the device.
+(3) No person granted an exemption under paragraph (2) with respect to a device may sell the device for an amount that exceeds the costsof research and development, fabrication, and distribution of the device.
 
 (4) Devices granted an exemption under paragraph (2) may only be used—
 
@@ -282,7 +282,13 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (6) The Secretary may suspend or withdraw an exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.
 
-(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372.)
+#### (n) Regulation of contact lenses as devices
+
+(1) All contact lenses shall be deemed to be devices under section 321(h) of this title.
+
+(2) Paragraph (1) shall not be construed as bearing on or being relevant to the question of whether any product other than a contact lens is a device as defined by section 321(h) of this title or a drug as defined by section 321(g) of this title.
+
+(June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119.)
 
 #### References in Text
 
@@ -293,6 +299,8 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(3),
 In subsec. (k), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 of the Revised Statutes (31 U.S.C. 529) on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2005—Subsec. (n). Pub. L. 109–96 added subsec. (n).
 
 1997—Subsec. (f)(1)(B)(iii). Pub. L. 105–115, §410(a), added cl. (iii).
 

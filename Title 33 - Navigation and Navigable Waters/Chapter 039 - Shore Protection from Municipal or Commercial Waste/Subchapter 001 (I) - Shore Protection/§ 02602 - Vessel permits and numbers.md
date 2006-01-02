@@ -92,7 +92,7 @@ The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in sub
 
 The Rivers and Harbors Appropriation Act of 1899, referred to in subsec. (d)(4), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816,which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 #### Effective Date
 

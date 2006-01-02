@@ -8,7 +8,3 @@ The privilege existing by provision of law on December 1, 1873, or thereafter of
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5001, 5002, 5003, 5004, 5005, 5173, 5214 of this title.
-

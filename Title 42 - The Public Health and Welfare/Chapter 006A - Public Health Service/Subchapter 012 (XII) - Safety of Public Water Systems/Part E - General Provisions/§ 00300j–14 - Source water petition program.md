@@ -34,7 +34,7 @@
 
 &emsp;A petition submitted to a State under this subsection may address only those contaminants—
 
-&emsp;&emsp;(A) that are pathogenic organisms for which a national primary drinking waterregulation has been established or is required under section 300g–1 of this title; or
+&emsp;&emsp;(A) that are pathogenic organisms for which a national primary drinking water regulation has been established or is required under section 300g–1 of this title; or
 
 &emsp;&emsp;(B) for which a national primary drinking water regulation has been promulgated or proposed and that are detected by adequate monitoring methods in the source water at the intake structure or in any collection, treatment, storage, or distribution facilities by the community water systems at levels—
 

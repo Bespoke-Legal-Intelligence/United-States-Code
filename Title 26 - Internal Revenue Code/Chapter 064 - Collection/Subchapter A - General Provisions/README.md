@@ -7,10 +7,13 @@
 | [6303\.](%C2%A7%2006303%20-%20Notice%20and%20demand%20for%20tax.md) | Notice and demand for tax. |
 | [6304\.](%C2%A7%2006304%20-%20Fair%20tax%20collection%20practices.md) | Fair tax collection practices. |
 | [6305\.](%C2%A7%2006305%20-%20Collection%20of%20certain%20liability.md) | Collection of certain liability. |
+| [6306\.](%C2%A7%2006306%20-%20Qualified%20tax%20collection%20contracts.md) | Qualified tax collection contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §881(a)(2)(B), Oct. 22, 2004, 118 Stat. 1626, added item 6306.
 
 1998—Pub. L. 105–206, title III, §3466(b), July 22, 1998, 112 Stat. 769, added item 6304.
 
@@ -30,3 +33,4 @@
 - [&sect; 06303 - Notice and demand for tax](%C2%A7%2006303%20-%20Notice%20and%20demand%20for%20tax.md)
 - [&sect; 06304 - Fair tax collection practices](%C2%A7%2006304%20-%20Fair%20tax%20collection%20practices.md)
 - [&sect; 06305 - Collection of certain liability](%C2%A7%2006305%20-%20Collection%20of%20certain%20liability.md)
+- [&sect; 06306 - Qualified tax collection contracts](%C2%A7%2006306%20-%20Qualified%20tax%20collection%20contracts.md)

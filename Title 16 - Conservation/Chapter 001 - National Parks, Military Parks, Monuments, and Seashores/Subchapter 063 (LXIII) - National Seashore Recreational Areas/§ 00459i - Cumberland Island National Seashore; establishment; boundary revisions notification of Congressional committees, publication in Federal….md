@@ -18,5 +18,5 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–447, div. E, title I, §145(c), Dec. 8, 2004, 118 Stat. 3074, provided that: “This section \[amending section 459i–5 of this title and provisions listed in a table of Wildernesss Areas set out under section 1132 of this title\] may be cited as the ‘Cumberland Island Wilderness Boundary Adjustment Act of 2004’.”
+Pub. L. 108–447, div. E, title I, §145(c), Dec. 8, 2004, 118 Stat. 3074, provided that: “This section \[amending section 459i–5 of this title and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘Cumberland Island Wilderness Boundary Adjustment Act of 2004’.”
 

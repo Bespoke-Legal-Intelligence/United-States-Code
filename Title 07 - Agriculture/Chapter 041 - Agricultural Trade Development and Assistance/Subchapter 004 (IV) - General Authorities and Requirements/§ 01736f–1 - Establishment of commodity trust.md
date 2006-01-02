@@ -144,7 +144,7 @@ Any determination by the Secretary under this section shall be final.
 
 The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2578, which enacted former section 1736f–1 of this title and provisions set out as notes under that section, prior to the general amendment of title III by Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959.
 
-The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (b)(2)(B)(i), (c)(1)(A), (2), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title II of the Act is classified to subchapter III (§1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (b)(2)(B)(i), (c)(1)(A),\(2), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified generally to this chapter (§1691 et seq.). Title II of the Act is classified to subchapter III (§1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 #### Codification
 
@@ -178,7 +178,7 @@ Subsec. (b)(2). Pub. L. 105–385, §212(b)(3)(C)(iii), substituted “trust” 
 
 Subsec. (b)(2)(A). Pub. L. 105–385, §212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 105–385, §212(a)(1)(C), added subpar. (B) and struck out heading and text of formersubpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
+Subsec. (b)(2)(B). Pub. L. 105–385, §212(a)(1)(C), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
 
 Subsec. (c)(1)(B). Pub. L. 105–385, §212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 

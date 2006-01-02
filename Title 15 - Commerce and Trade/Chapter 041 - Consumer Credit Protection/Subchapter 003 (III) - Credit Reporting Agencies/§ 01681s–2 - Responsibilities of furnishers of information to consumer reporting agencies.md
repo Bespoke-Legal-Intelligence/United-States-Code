@@ -78,7 +78,7 @@
 
 #### (ii) Notice effective for subsequent submissions
 
-&emsp;&emsp;&emsp;After providing such notice, the financial institution may submit additional negative information to a consumer reporting agency described in section 1681a(p) of this title with respect to the same transaction, extension of credit, account, or customer without providing additional notice to the customer.
+&emsp;&emsp;&emsp;After providing such notice, the financial institution may submit additionalnegative information to a consumer reporting agency described in section 1681a(p) of this title with respect to the same transaction, extension of credit, account, or customer without providing additional notice to the customer.
 
 #### (B) Time of notice
 
@@ -166,7 +166,7 @@
 
 #### (E) Duty of person after receiving notice of dispute
 
-&emsp;&emsp;After receiving a notice of dispute from a consumer pursuant to subparagraph (D), the person that provided the information in dispute to a consumer reporting agency shall—
+&emsp;&emsp;After receiving a notice of dispute from a consumer pursuant to subparagraph (D), theperson that provided the information in dispute to a consumer reporting agency shall—
 
 &emsp;&emsp;&emsp;(i) conduct an investigation with respect to the disputed information;
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the personhas already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
+&emsp;&emsp;&emsp;&emsp;(II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person's duties under this paragraph or subsection (b) of this section, as applicable.
 
 #### (ii) Notice of determination
 
@@ -258,7 +258,7 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 #### (2) Coordination
 
-&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistentand comparable with the regulations prescribed by each other such agency.
+&emsp;Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
 
 #### (3) Criteria
 

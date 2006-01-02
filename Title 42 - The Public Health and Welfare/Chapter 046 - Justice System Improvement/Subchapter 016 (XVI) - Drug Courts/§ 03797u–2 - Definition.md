@@ -16,11 +16,15 @@ Except as provided in subsection (b) of this section, in this subchapter, the te
 
 #### (b) Definition for purposes of juvenile drug courts
 
-For purposes of juvenile drug courts, the term “violent offender” means a juvenile who has been convicted of, or adjudicated delinquent for, an offense that—
+For purposes of juvenile drug courts, the term “violent offender” means a juvenile who has been convicted of, or adjudicated delinquent for, a felony-level offense that—
 
 &emsp;(1) has as an element, the use, attempted use, or threatened use of physical force against the person or property of another, or the possession or use of a firearm; or
 
 &emsp;(2) by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
-(Pub. L. 90–351, title I, §2953, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1795.)
+(Pub. L. 90–351, title I, §2953, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1795; amended Pub. L. 109–162, title XI, §1141, Jan. 5, 2006, 119 Stat. 3110.)
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–162 substituted “a felony-level offense that” for “an offense that” in introductory provisions.
 

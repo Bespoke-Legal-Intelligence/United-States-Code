@@ -2,7 +2,7 @@
 
 #### (a) Transfer to distilled spirits plant without payment of tax
 
-Distilled spirits imported or brought into the United States in bulk containers may, under such regulations as the Secretary shall prescribe, be withdrawn from customs custody and transferred in such bulk containers or by pipeline to the bonded premises of a distilled spirits plant without payment of the internal revenue tax imposed on such distilled spirits. The person operating the bonded premises of the distilled spirits plant to which such spirits are transferred shall become liable for the tax on distilled spirits withdrawn from customs custody under this section upon release of the spirits from customs custody, and the importer, or the person bringing such distilled spirits into the United States, shall thereupon be relieved of his liability for such tax.
+Distilled spirits imported or brought into the United States in bulk containers may, undersuch regulations as the Secretary shall prescribe, be withdrawn from customs custody and transferred in such bulk containers or by pipeline to the bonded premises of a distilled spirits plant without payment of the internal revenue tax imposed on such distilled spirits. The person operating the bonded premises of the distilled spirits plant to which such spirits are transferred shall become liable for the tax on distilled spirits withdrawn from customs custody under this section upon release of the spirits from customs custody, and the importer, or the person bringing such distilled spirits into the United States, shall thereupon be relieved of his liability for such tax.
 
 #### (b) Withdrawals, etc.
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–630 applicable only to withdrawals from customs custody on or after first day of first calendar month which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5001, 5003, 5007 of this title.
 

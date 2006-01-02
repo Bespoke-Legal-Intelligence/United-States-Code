@@ -4,7 +4,7 @@
 
 (2) The Secretary may enter into a contract or other agreement under paragraph (1) if such resources are not, or would not be, used to their maximum effective capacity.
 
-(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard to any law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
+(3)(A) If the health-care resource required is a commercial service, the use of medical equipment or space, or research, and is to be acquired from an institution affiliated with the Department in accordance with section 7302 of this title, including medical practice groups and other entities associated with affiliated institutions, blood banks, organ banks, or research centers, the Secretary may make arrangements for acquisition of the resource without regard toany law or regulation (including any Executive order, circular, or other administrative policy) that would otherwise require the use of competitive procedures for acquiring the resource.
 
 (B)(i) If the health-care resource required is a commercial service or the use of medical equipment or space, and is not to be acquired from an entity described in subparagraph (A), any procurement of the resource may be conducted without regard to any law or regulation that would otherwise require the use of competitive procedures for procuring the resource, but only if the procurement is conducted in accordance with the simplified procedures prescribed pursuant to clause (ii).
 
@@ -46,7 +46,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitleXVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 104–262, §301(c)(3), substituted “preclude such paymen
 
 Subsecs. (e) to (g). Pub. L. 104–262, §301(c)(4), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
-1993—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1)and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
+1993—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1) and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
 
 &emsp;“(1) for the mutual use, or exchange of use, of specialized medical resources when such an agreement will obviate the need for a similar resource to be provided in a Department health care facility; or
 

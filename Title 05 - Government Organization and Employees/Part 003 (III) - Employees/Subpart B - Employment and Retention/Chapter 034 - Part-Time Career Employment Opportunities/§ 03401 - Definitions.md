@@ -28,13 +28,13 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(vi) the National Security Agency, Department of Defense; and
 
-&emsp;(2) “part-time career employment” means part-time employment of 16 to 32 hours a week\(or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title) under a schedule consisting of an equal or varied number of hours per day, whether in a position which would be part-time without regard to this section or one established to allow job-sharing or comparable arrangements, but does not include employment on a temporary or intermittent basis.
+&emsp;(2) “part-time career employment” means part-time employment of 16 to 32 hours a week (or 32 to 64 hours during a biweekly pay period in the case of a flexible or compressed work schedule under subchapter II of chapter 61 of this title) under a schedule consisting of an equal or varied number of hours per day, whether in a position which would be part-time without regard to this section or one established to allow job-sharing or comparable arrangements, but does not include employment on a temporary or intermittent basis.
 
 (Added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1056, §3391; renumbered §3401 and amended Pub. L. 95–454, title IX, §906(c)(1)(B), (2)(A), Oct. 13, 1978, 92 Stat. 1226; Pub. L. 97–221, §3, July 23, 1982, 96 Stat. 233; Pub. L. 97–468, title VI, §615(b)(1)(B), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 102–378, §2(15), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 104–201, div. C, title XXXV, §3548(a)(1), Sept. 23, 1996, 110 Stat. 2868.)
 
 #### Amendments
 
-1996—Par. (1). Pub. L. 104–201, which directed amendment of par. (1) by striking cl. (v) and redesignating cls. (vi), (vii), and (viii) as (v), (vi), and (vii), respectively, was executed by striking cl. (iv), relating to the Panama Canal Company, and redesignating cls. (v), (vi), and (vii) as (iv), (v), and (vi), respectively, to reflect the probable intent of Congress, because par. (1) does not contain a cl. (viii) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
+1996—Par. (1). Pub. L. 104–201, which directed amendment of par. (1) by striking cl. (v) and redesignating cls.\(vi), (vii), and (viii) as (v), (vi), and (vii), respectively, was executed by striking cl. (iv), relating to the Panama Canal Company, and redesignating cls. (v), (vi), and (vii) as (iv), (v), and (vi), respectively, to reflect the probable intent of Congress, because par. (1) does not contain a cl. (viii) and the amendments were included in a series of conforming amendments relating to the Panama Canal.
 
 1992—Par. (1)(iii). Pub. L. 102–378, which directed the amendment of cl. (iv) by substituting “Virgin Islands” for “Virgin Island”, was executed by making the substitution in cl. (iii) to reflect the probable intent of Congress.
 

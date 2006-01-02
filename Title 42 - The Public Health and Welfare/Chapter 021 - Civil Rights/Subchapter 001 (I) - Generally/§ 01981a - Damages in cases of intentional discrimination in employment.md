@@ -22,7 +22,7 @@
 
 #### (2) Exclusions from compensatory damages
 
-&emsp;Compensatory damages awarded under this section shall not include backpay, interest on backpay, or any other type of relief authorizedunder section 706(g) of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5(g)\].
+&emsp;Compensatory damages awarded under this section shall not include backpay, interest on backpay, or any other type of relief authorized under section 706(g) of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5(g)\].
 
 #### (3) Limitations
 
@@ -68,7 +68,7 @@ As used in this section:
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, asamended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 

@@ -16,7 +16,7 @@
 
 (c) The Secretary shall immediately invest, in interest-bearing securities of the United States such currently available portions of the Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
-(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with due regard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
+(d) The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are extended to authorize the issuance at par of public-debt obligations for purchase by the Fund. The obligations issued for purchase by the Fund shall have maturities fixed with dueregard for the needs of the Fund and bear interest at a rate equal to the average market yield computed as of the end of the calendar month next preceding the date of the issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of 4 years from the end of that calendar month. If the average market yield is not a multiple of 1/8 of 1 percent, the rate of interest on the obligations shall be the multiple of 1/8 of 1 percent nearest the average market yield.
 
 (e) The Secretary may purchase other interest-bearing obligations of the United States, or obligations guaranteed as to both principal and interest by the United States, on original issue or at the market price only if he determines that the purchases are in the public interest.
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(IV) any other appropriate amount, as determined by the Office in accordance with generally accepted actuarial practices and principles.
 
-(B)(i) In computing the actuarial present value of future benefits, the Office shall include the full value of benefits attributable to military and volunteer service for United States Postal Service employees first employed after June 30,1971, and a prorated share of the value of benefits attributable to military and volunteer service for United States Postal Service employees first employed before July 1, 1971.
+(B)(i) In computing the actuarial present value of future benefits, the Office shall include the full value of benefits attributable to military and volunteer service for United States Postal Service employees first employed after June 30, 1971, and a prorated share of the value of benefits attributable to military and volunteer service for United States Postal Service employees first employed before July 1, 1971.
 
 (ii) Military service so included shall not be included in the computation of any amount under subsection (g)(2).
 
@@ -90,7 +90,7 @@
 
 &emsp;(A) the term “public debt limit” means the limitation imposed by section 3101(b) of title 31; and
 
-&emsp;(B) the term “debt issuance suspension period” means any period for which the Secretary of the Treasury determines for purposesof this subsection that the issuance of obligations of the United States may not be made without exceeding the public debt limit.
+&emsp;(B) the term “debt issuance suspension period” means any period for which the Secretary of the Treasury determines for purposes of this subsection that the issuance of obligations of the United States may not be made without exceeding the public debt limit.
 
 (k)(1) Subject to paragraph (2) of this subsection, the Secretary of the Treasury may sell or redeem securities, obligations, or other invested assets of the Fund before maturity in order to prevent the public debt of the United States from exceeding the public debt limit.
 
@@ -100,7 +100,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g),Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626.)
 
 Historical and Revision Notes<br>1966
 
@@ -174,7 +174,7 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read as follows:
 
-“(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for thatportion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
+“(m)(1) Notwithstanding any other provision of law, the United States Postal Service shall be liable for that portion of any estimated increase in the unfunded liability of the Fund which is attributable to any benefits payable from the Fund to former employees of the Postal Service who first become annuitants by reason of separation from the Postal Service on or after July 1, 1971, or to their survivors, or to the survivors of individuals who die on or after July 1, 1971, while employed by the Postal Service, when the increase results from a cost-of-living adjustment under section 8340 of this title.
 
 “(2) The estimated increase in the unfunded liability referred to in paragraph (1) of this subsection shall be determined by the Office after consultation with the Postal Service. The Postal Service shall pay the amount so determined to the Office in 15 equal annual installments with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System, and with the first payment thereof due at the end of the fiscal year in which the cost-of-living adjustment with respect to which the payment relates becomes effective.
 
@@ -198,7 +198,7 @@ Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted “July 1, 1971” for
 
 1987—Subsec. (i)(2). Pub. L. 100–203 substituted “The Panama Canal Commission shall pay to the Fund from funds available to it” for “The Secretary of the Treasury shall pay to the Fund from appropriations”.
 
-1986—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV of chapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
+1986—Subsec. (a). Pub. L. 99–335 inserted reference to provisions of chapter 84 of this title which relate to benefits payable out of the Fund in par. (1)(A), inserted “or 8462” and reference to subchapters II and IV ofchapter 84 of this title in par. (1)(B), and inserted reference to chapter 84 of this title in par. (2).
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 99–509 added subsecs. (j) to (<i>l</i>).
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions 
 
 Amendment by Pub. L. 97–346 effective Sept. 8, 1982, see section 3(n) of Pub. L. 97–346, set out as a note under section 8332 of this title.
 
-Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Managementwithin 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1979 Amendment
 

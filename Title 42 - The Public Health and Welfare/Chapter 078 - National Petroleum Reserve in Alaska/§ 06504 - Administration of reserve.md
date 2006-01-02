@@ -1,16 +1,12 @@
 ### §6504. Administration of reserve
 
-#### (a) Congressional authorization as precondition for production and development of petroleum
-
-Except as provided in subsection (e) of this section, production of petroleum from the reserve is prohibited and no development leading to production of petroleum from the reserve shall be undertaken until authorized by an Act of Congress.
-
-#### (b) Conduct of exploration within designated areas to protect surface values
+#### (a) Conduct of exploration within designated areas to protect surface values
 
 Any exploration within the Utukok River, the Teshekpuk Lake areas, and other areas designated by the Secretary of the Interior containing any significant subsistence, recreational, fish and wildlife, or historical or scenic value, shall be conducted in a manner which will assure the maximum protection of such surface values to the extent consistent with the requirements of this Act for the exploration of the reserve.
 
-#### (c) Continuation of ongoing petroleum exploration program by Secretary of Navy prior to date of transfer of jurisdiction; duties of Secretary of Navy prior to transfer date
+#### (b) Continuation of ongoing petroleum exploration program by Secretary of Navy prior to date of transfer of jurisdiction; duties of Secretary of Navy prior to transfer date
 
-The Secretary of the Navy shall continue the ongoing petroleum exploration program within the reserve until the date of the transfer of jurisdiction specified in section 6503(a) of this title. Prior to the date of such transfer of jurisdiction the Secretary of the Navy shall—
+The Secretary of the Navy shall continue the ongoing petroleum exploration program withinthe reserve until the date of the transfer of jurisdiction specified in section 6503(a) of this title. Prior to the date of such transfer of jurisdiction the Secretary of the Navy shall—
 
 &emsp;(1) cooperate fully with the Secretary of the Interior providing him access to such facilities and such information as he may request to facilitate the transfer of jurisdiction;
 
@@ -18,7 +14,7 @@ The Secretary of the Navy shall continue the ongoing petroleum exploration progr
 
 &emsp;(3) cooperate and consult with the Secretary of the Interior before executing any new contract or amendment to any existing contract pertaining to the reserve and allow him a reasonable opportunity to comment on such contract or amendment, as the case may be.
 
-#### (d) Commencement of petroleum exploration by Secretary of the Interior as of date of transfer of jurisdiction; powers and duties of Secretary of the Interior in conduct of exploration
+#### (c) Commencement of petroleum exploration by Secretary of the Interior as of date of transfer of jurisdiction; powers and duties of Secretary of the Interior in conduct of exploration
 
 The Secretary of the Interior shall commence further petroleum exploration of the reserve as of the date of transfer of jurisdiction specified in section 6503(a) of this title. In conducting this exploration effort, the Secretary of the Interior—
 
@@ -28,15 +24,15 @@ The Secretary of the Interior shall commence further petroleum exploration of th
 
 &emsp;(3) shall report annually to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives on the progress of, and future plans for, exploration of the reserve.
 
-(Pub. L. 94–258, title I, §104, Apr. 5, 1976, 90 Stat. 304; Pub. L. 98–366, §4(b), July 17, 1984, 98 Stat. 470; Pub. L. 103–437, §15(q), Nov. 2, 1994, 108 Stat. 4594.)
+(Pub. L. 94–258, title I, §104, Apr. 5, 1976, 90 Stat. 304; Pub. L. 98–366, §4(b), July 17, 1984, 98 Stat. 470; Pub. L. 103–437, §15(q), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 109–58, title III, §347(c), Aug. 8, 2005, 119 Stat. 708.)
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Note set out under section 6501 of this title and Tables.
-
-The antitrust laws, referred to in subsec. (d), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
+This Act, referred to in subsec. (a), is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Note set out under section 6501 of this title and Tables.
 
 #### Amendments
+
+2005—Pub. L. 109–58 redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows: “Except as provided in subsection (e) of this section, production of petroleum from the reserve is prohibited and no development leading to production of petroleum from the reserve shall be undertaken until authorized by an Act of Congress.”
 
 1994—Subsecs. (c)(2), (d)(2), (3). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House” for “Committees on Interior and Insular Affairs of the Senate and the House”.
 

@@ -52,7 +52,7 @@
 
 (5)(A) The provisions of section 8435 of this title that require a waiver or consent by the spouse of an employee or Member (or former employee or Member) shall not apply with respect to sums in the Thrift Savings Fund contributed by the employee or Member (or former employee or Member) and earnings in the fund attributable to such sums.
 
-(B) An election or change of election authorized by subchapter III of chapter 84 of this title shall be effective in the case of a married employee or Member, and a loan or withdrawal may be approved under section 8433(g) and (h) of this title in such case, only after the Executive Director notifies the employee's or Member's spouse that the election or change of election has been made or that the Executive Director has received an application for such loan or withdrawal, as the case may be.
+(B) An election or change of election authorized by subchapter III of chapter 84 of this title shall be effective in the case of a married employee or Member, and a loan or withdrawal may be approved under section 8433(g) and (h) of this title in such case, only after the Executive Director notifies the employee's or Member's spouse that the election or change of electionhas been made or that the Executive Director has received an application for such loan or withdrawal, as the case may be.
 
 (C) Subparagraph (B) may be waived with respect to a spouse if the employee or Member establishes to the satisfaction of the Executive Director of the Federal Retirement Thrift Investment Board that the whereabouts of such spouse cannot be determined.
 
@@ -82,7 +82,7 @@
 
 (e) The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out this section.
 
-(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65,div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; Pub. L. 107–304, §1(a), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(1), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(d)(1), Dec. 21, 2004, 118 Stat. 3891.)
+(Added Pub. L. 99–335, title II, §206(a)(1), June 6, 1986, 100 Stat. 593; amended Pub. L. 100–238, title I, §111(a), Jan. 8, 1988, 101 Stat. 1750; Pub. L. 101–335, §§3(b)(1), 6(b)(1), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–183, title III, §308(a), Dec. 4, 1991, 105 Stat. 1265; Pub. L. 102–484, div. D, title XLIV, §4437(c), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(a), (i)(1), (2), Mar. 30, 1994, 108 Stat. 118, 121; Pub. L. 103–353, §4(d), Oct. 13, 1994, 108 Stat. 3172; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §202\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(3)(B), Oct. 5, 1999, 113 Stat. 671; Pub. L. 106–168, title II, §203(b), Dec. 12, 1999, 113 Stat. 1820; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; Pub. L. 107–304, §1(a), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, §405(b)(1), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, §1(d)(1), Dec. 21, 2004, 118 Stat. 3891.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Subsec. (b)(11). Pub. L. 106–65, §661(a)(3)(B)(i), and Pub. L. 106–168, ame
 
 Subsec. (b)(5)(D). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(1)(B)\]\], inserted “or withdrawals” after “of loans” and “or (h)” after “8433(g)”.
 
-Subsec. (b)(6). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(2)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)” before period at end.
+Subsec. (b)(6). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §202(2)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the employee or Member elects, at such time and otherwise in suchmanner as the Executive Director prescribes, one of the options available under subsection (b)” before period at end.
 
 1994—Subsec. (b)(4). Pub. L. 103–226, §9(a)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Section 8433(b) of this title applies to any employee or Member who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and separates from Government employment entitled to an immediate annuity under this subchapter (including a disability retirement annuity under section 8337 of this title), separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, or separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title.”
 
@@ -150,7 +150,7 @@ Subsec. (b)(9), (10). Pub. L. 101–335, §6(b)(1)(A), added pars. (9) and (10).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–304, §1(c), Nov. 27, 2002, 116 Stat. 2363, provided that: “The amendments made by this section\[amending this section and sections 8432 and 8440f of this title\] shall take effect as of the earliest practicable date, as determined by the Executive Director (appointed under section 8474(a) of title 5, United States Code) in regulations.”
+Pub. L. 107–304, §1(c), Nov. 27, 2002, 116 Stat. 2363, provided that: “The amendments made by this section \[amending this section and sections 8432 and 8440f of this title\] shall take effect as of the earliest practicable date, as determined by the Executive Director (appointed under section 8474(a) of title 5, United States Code) in regulations.”
 
 #### Effective Date of 2000 Amendment
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 Amendment by Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
 
-Section 9(j) of Pub. L. 103–226 provided that: “This section \[amending this section and sections 8433 to 8435, 8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.” \[Implementing regulations were published in the Federal Register Feb. 21, 1995, 60 F.R. 9595, effective Mar. 10, 1995.\]
+Section 9(j) of Pub. L. 103–226 provided that: “This section \[amending this section and sections 8433 to 8435,8437, and 8440a to 8440d of this title\] shall take effect 1 year after the date of the enactment of this Act \[Mar. 30, 1994\] or on such earlier date as the Executive Director of the Federal Retirement Thrift Investment Board shall provide in regulation.” \[Implementing regulations were published in the Federal Register Feb. 21, 1995, 60 F.R. 9595, effective Mar. 10, 1995.\]
 
 #### Effective Date of 1992 Amendment
 

@@ -34,9 +34,9 @@ Upon the transfer of an agency to the Department—
 
 #### (2) Limitation
 
-&emsp;This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering,and development, and to any funds provided to the Coast Guard from the Aquatic Resources Trust Fund of the Highway Trust Fund for boating safety programs.
+&emsp;This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering, and development, and to any funds provided to the Coast Guard from the Sport Fish Restoration and Boating Trust Fund for boating safety programs.
 
-(Pub. L. 107–296, title XV, §1511, Nov. 25, 2002, 116 Stat. 2309; Pub. L. 108–7, div. L, §103(4), Feb. 20, 2003, 117 Stat. 529.)
+(Pub. L. 107–296, title XV, §1511, Nov. 25, 2002, 116 Stat. 2309; Pub. L. 108–7, div. L, §103(4), Feb. 20, 2003, 117 Stat. 529; Pub. L. 109–59, title XI, §11115(b)(2)(F), Aug. 10, 2005, 119 Stat. 1950.)
 
 #### References in Text
 
@@ -44,5 +44,11 @@ The effective date of this chapter, referred to in subsecs. (a) and (c)(1), is 6
 
 #### Amendments
 
+2005—Subsec. (e)(2). Pub. L. 109–59 substituted “Sport Fish Restoration and Boating Trust Fund” for “Aquatic Resources Trust Fund of the Highway Trust Fund”.
+
 2003—Subsec. (e)(2). Pub. L. 108–7 inserted before period at end “, and to any funds provided to the Coast Guard from the Aquatic Resources Trust Fund of the Highway Trust Fund for boating safety programs”.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11115(d), Aug. 10, 2005, 119 Stat. 1950, provided that: “The amendments made by this section \[amending this section and sections 9503 and 9504 of Title 26, Internal Revenue Code\] shall take effect on October 1, 2005.”
 

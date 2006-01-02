@@ -28,7 +28,7 @@ Designated Entities.—(1) The Secretary of Defense, and the Secretary of Homela
 
 &emsp;(D) An entity that (i) regulates the performance, standards, and policies of military health care (including health care associations and professional societies), and (ii) has designated the position or capacity in that entity in which a member of the armed forces may serve if authorized under subsection (a).
 
-&emsp;(E) An entity that, operating in a foreign nation where United States military personnel are serving at United States military activities, promotes understanding and tolerance between such personnel (and their families) and the citizens of that host foreign nation through programs that foster social relations between those persons.
+&emsp;(E) An entity that, operating in a foreign nation where United States military personnelare serving at United States military activities, promotes understanding and tolerance between such personnel (and their families) and the citizens of that host foreign nation through programs that foster social relations between those persons.
 
 (c)
 
@@ -53,8 +53,4 @@ A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Rese
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1589 of this title.
 

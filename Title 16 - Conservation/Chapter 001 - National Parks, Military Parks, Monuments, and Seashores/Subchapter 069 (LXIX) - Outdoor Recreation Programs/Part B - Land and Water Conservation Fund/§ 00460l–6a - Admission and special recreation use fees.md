@@ -1,10 +1,26 @@
 ### §460<i>l</i>–6a. Admission and special recreation use fees
 
-#### (a) to (g). Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390
+#### (a) to (g). Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526
 
 #### (h) Repealed. Pub. L. 104–66, title I, §1081(f), Dec. 21, 1995, 109 Stat. 721
 
-#### (i) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390
+#### (i) Covering of fees collected into special account for agency established in Treasury
+
+(1)(A), (B) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2205, 119 Stat. 526.
+
+(C)
+
+Units at which entrance fees or admissions fees cannot be collected
+
+&emsp;(i)
+
+Withholding of amounts.—Notwithstanding section 107 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (16 U.S.C. 460<i>l</i>–6a note; Public Law 105–83), the Secretary of the Interior shall withhold from the special account under section 6806(a) of this title 100 percent of the fees and charges collected in connection with any unit of the National Park System at which entrance fees or admission fees cannot be collected by reason of deed restrictions.
+
+&emsp;(ii)
+
+Use of amounts.—Amounts withheld under clause (i) shall be retained by the Secretary and shall be available, without further Act of appropriation, for expenditure by the Secretary for the unit with respect to whichthe amounts were collected for the purposes of enhancing the quality of the visitor experience, protection of resources, repair and maintenance, interpretation, signage, habitat or facility enhancement, resource preservation, annual operation (including fee collection), maintenance, and law enforcement.
+
+(2) to (4) Repealed. Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2205, 119 Stat. 526.
 
 #### (j) Funds available to National Park Service; required allocations; computations; unexpended funds
 
@@ -62,11 +78,11 @@ Where the primary public access to a unit of the National Park System is provide
 
 (B) The provisions of this subsection shall also apply to aircraft entering the airspace of other units of the National Park System for the specific purpose of providing commercial tour services if the Secretary determines that the level of such services is equal to or greater than the level at those units of the National Park System specified in subparagraph (A).
 
-(Pub. L. 88–578, title I, §4, as added Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–81, §§1, 2, Aug. 1, 1973, 87 Stat. 178, 179; Pub. L. 93–303, §1, June 7, 1974, 88 Stat. 192; Pub. L. 96–344, §9, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 100–203, title V, §5201(a)–(c), Dec. 22, 1987, 101 Stat. 1330–263, 1330–264; Pub. L. 103–66, title V, §5001(b), title X, §§10001, 10002, Aug. 10, 1993, 107Stat. 379, 402, 403; Pub. L. 103–437, §6(p)(1), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–66, title I, §1081(f), Dec. 21, 1995, 109 Stat. 721; Pub. L. 105–327, §1, Oct. 30, 1998, 112 Stat. 3055; Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390.)
+(Pub. L. 88–578, title I, §4, as added Pub. L. 92–347, §2, July 11, 1972, 86 Stat. 459; amended Pub. L. 93–81, §§1, 2, Aug. 1, 1973, 87 Stat. 178, 179; Pub. L. 93–303, §1, June 7, 1974, 88 Stat. 192; Pub. L. 96–344, §9, Sept. 8, 1980, 94 Stat. 1135; Pub. L. 100–203, title V, §5201(a)–(c), Dec. 22, 1987, 101 Stat. 1330–263, 1330–264; Pub. L. 103–66, title V, §5001(b), title X, §§10001, 10002, Aug. 10, 1993, 107 Stat. 379, 402, 403; Pub. L. 103–437, §6(p)(1), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 104–66, title I, §1081(f), Dec. 21, 1995, 109 Stat. 721; Pub. L. 105–327, §1, Oct. 30, 1998, 112 Stat. 3055; Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390; Pub. L. 109–54, title I, §132(a), (b), Aug. 2, 2005, 119 Stat. 526.)
 
 #### References in Text
 
-Subsections (a) and (i) of this section, referred to in subsecs. (<i>l</i>) to (n), were repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390.
+Subsections (a) and (i) (except par. (1)(C)) of this section, referred to in subsecs. (<i>l</i>) to (n), were repealed by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390.
 
 Act of October 9, 1965, referred to in subsec. (n)(4)(B), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, known as the National Park System Concessions Policy Act, which was classified generally to subchapter IV (§20 et seq.) of this chapter, prior to repeal by Pub. L. 105–391, title IV, §415(a), Nov. 13, 1998, 112 Stat. 3515.
 
@@ -78,9 +94,13 @@ A prior section 4 of Pub. L. 88–578 was renumbered section 5 and is classified
 
 #### Amendments
 
-2004—Subsecs. (a) to (g). Pub. L. 108–447 struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees, subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
+2005—Pub. L. 109–54, §132(a), amended Pub. L. 108–447, §813(a). See 2004 Amendment notes below.
 
-Subsec. (i). Pub. L. 108–447 struck out subsec. (i), relating to covering fees collected into special account for agency established in Treasury, covered agencies, availability of funds, and allocation of National Park Service funds.
+Subsec. (i)(1)(C)(i). Pub. L. 109–54, §132(b), substituted “Notwithstanding section 107” for “Notwithstanding subparagraph (A), section 315(c) of section 101(c) of the Omnibus Consolidated Recessions and Appropriations Act of 1996 (16 U.S.C. 460<i>l</i>–6a note; Public Law 104–134), or section 107” and “account under section 6806(a) of this title” for “account under subparagraph (A)”.
+
+2004—Subsecs. (a) to (g). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees, subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
+
+Subsec. (i). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (i), relating to covering fees collected into special account for agency established in Treasury, covered agencies, availability of funds, and allocation of National Park Service funds, except for paragraph (1)(C), relating to units at which entrance fees or admissions fees cannot be collected.
 
 1998—Subsec. (i)(1)(C). Pub. L. 105–327 added subpar. (C).
 
@@ -94,7 +114,7 @@ Subsec. (a)(1)(A). Pub. L. 103–66, §10002(d), (e), designated existing provis
 
 Subsec. (a)(4). Pub. L. 103–66, §10001(b), substituted “for a one-time charge of $10” for “without charge”.
 
-Subsec. (b). Pub. L. 103–66, §10002(a)(1), in first sentence, substituted “or toilet facilities, nor shall there be any such charge solely for the use of picnic tables: <i>Provided</i>, That in no event shall there be a charge for the use of any campground not having a majority of the following: tent or trailer spaces, picnic tables, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).” for “toilet facilities, picnic tables, or boat ramps: <i>Provided, however</i>, That a fee shall be charged for boat launching facilities only where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided: <i>And provided further</i>, That in no event shall there be a charge for the use of any campground not having the following—tent or trailer spaces, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).”, and inserted new second sentence defining “specialized outdoor recreation sites”.
+Subsec. (b). Pub. L. 103–66, §10002(a)(1), in first sentence, substituted “or toilet facilities, nor shall there be any such charge solely for the use of picnic tables: <i>Provided</i>, That in no event shall there be a charge for the use of any campground not having a majority of the following: tent or trailer spaces, picnic tables, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).” for “toilet facilities, picnic tables, or boat ramps: <i>Provided, however</i>, That a fee shall be charged for boat launching facilities only where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided: <i>And provided fur</i><i>ther</i>, That in no event shall there be a charge for the use of any campground not having the following—tent or trailer spaces, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).”, and inserted new second sentence defining “specialized outdoor recreation sites”.
 
 Pub. L. 102–66, §§5001(b) and 10002(a)(2), amended subsec. (b) identically, striking out second sentence which read as follows: “At each lake or reservoir under the jurisdiction of the Corps of Engineers, United States Army, where camping is permitted, such agency shall provide at least one primitive campground, containing designated campsites, sanitary facilities, and vehicular access, where no charge shall be imposed.”
 
@@ -110,7 +130,7 @@ Subsec. (a)(3). Pub. L. 100–203, §5201(a)(4), inserted at end “Notwithstand
 
 Subsec. (a)(6) to (12). Pub. L. 100–203, §5201(a)(5), added pars. (6) to (12).
 
-Subsec. (f). Pub. L. 100–203, §5201(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as otherwise provided by law or as may be required by lawful contracts entered into prior to September 3, 1964, providing that revenues collected at particular Federal areas shall be credited to specific purposes, all fees which are collected by any Federal agency shall be covered into a special account in the Treasury of the United States to be administered in conjunction with, but separate from, the revenues in the Land and Water Conservation Fund: <i>Provided</i>, That the head of any Federal agency, under such terms and conditions as he deems appropriate, may contract with any public or private entity to provide visitor reservation services; and any such contract may provide that the contractor shall be permitted to deduct a commission to be fixed by the agency head from the amountcharged the public for providing such services and to remit the net proceeds therefrom to the contracting agency. Revenues in the special account shall be available for appropriation, without prejudice to appropriations from other sources for the same purposes, for any authorized outdoor recreation function of the agency by which the fees were collected: <i>Provided, however</i>, That not more than forty per centum of the amount so credited may be appropriated during the five fiscal years following the enactment of this Act for the enhancement of the fee collection system established by this section, including the promotion and enforcement thereof.”
+Subsec. (f). Pub. L. 100–203, §5201(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as otherwise provided by law or as may be required by lawful contracts entered into prior to September 3, 1964, providing that revenues collected at particular Federal areas shall be credited to specific purposes, all fees which are collected by any Federal agency shall be covered into a special account in the Treasury of the United States to be administered in conjunction with, but separate from, the revenues in the Land and Water Conservation Fund: <i>Provided</i>, That the head of any Federal agency, under such terms and conditions as he deems appropriate, may contract with any public or private entity to provide visitor reservation services; and any such contract may provide that the contractor shall be permitted to deduct a commission to be fixed by the agency head from the amount charged the public for providing such services and to remit the net proceeds therefrom to the contracting agency. Revenues in the special account shall be available for appropriation, without prejudice to appropriations from other sources for the same purposes, for any authorized outdoor recreation function of the agency by which the fees were collected: <i>Provided, however</i>, That not more than forty per centum of the amount so credited may be appropriated during the five fiscal years following the enactment of this Act for the enhancement of the fee collection system established by this section, including the promotion and enforcement thereof.”
 
 Subsecs. (i) to (m). Pub. L. 100–203, §5201(c), added subsecs. (i) to (m).
 
@@ -144,9 +164,17 @@ Subsecs. (g), (h). Pub. L. 93–303, §1(g), redesignated subsecs. (f) and (g) a
 
 Subsec. (b). Pub. L. 93–81, §1, inserted in opening paragraph the proviso that there shall be no charge for the day use or recreational use of facilities such as picnic areas, boat ramps, where no mechanical or hydraulic equipment is provided, drinking water, wayside exhibits, roads, trails, overlook sites, visitors’ centers, scenic drives and toilet facilities and that no fee be charged for access to or use of campground not having flush restrooms, showers, access and circulatory roads, sanitary disposal stations, visitor protection control, designated tent or trailer spaces, refuse containers and potable water.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–54, title I, §132(d), Aug. 2, 2005, 119 Stat. 526, provided that: “This section \[amending this section and section 6812 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section take effect as of December 8, 2004.”
+
 #### Savings Provision for 2004 Amendment
 
 For authority of Secretary to continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under this section until date the notice required by section 6804(a)(3) of this title is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass, see section 6812(a) of this title.
+
+#### Construction
+
+Pub. L. 109–54, title I, §132(c), Aug. 2, 2005, 119 Stat. 526, provided that: “Except as provided in this section \[amending this section and section 6812 of this title and enacting provisions set out as a note under this section\], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–6a(i)(1)(C)) shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6812(a)) (and the amendments made by that section \[Pub. L. 108–447, amending this section\]) had not been enacted.”
 
 #### Transfer of Functions
 
@@ -156,7 +184,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 Pub. L. 106–176, title III, §310, Mar. 10, 2000, 114 Stat. 34, provided that:
 
-“(a) The Secretary of the Interior is authorized to retain and expend revenues from entrance and recreation use fees at units of the National Park System where such fees are collected under section 4 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a),notwithstanding the provisions of section 4(i) of such Act. Fees shall be retained and expended in the same manner and for the same purposes as provided under the Recreational Fee Demonstration Program (section 315 of Public Law 104–134, as amended (16 U.S.C. 460l–6a note)\[)\].
+“(a) The Secretary of the Interior is authorized to retain and expend revenues from entrance and recreation use fees at units of the National Park System where such fees are collected under section 4 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a), notwithstanding the provisions of section 4(i) of such Act. Fees shall be retained and expended in the same manner and for the same purposes as provided under the Recreational Fee Demonstration Program (section 315 of Public Law 104–134, as amended (16 U.S.C. 460l–6a note)\[)\].
 
 “(b) Nothing in this section shall affect the collection of fees at units of the National Park System designated as fee demonstration projects under the Recreational Fee Demonstration Program.
 
@@ -244,7 +272,7 @@ Section 5201(e) of Pub. L. 100–203 directed Secretary of the Interior to asses
 
 #### Prohibition on Entrance Fee at Statue of Liberty National Monument
 
-Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstanding any other provision of law, after the date of enactment of this Act \[June 19, 1987\],the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
+Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstanding any other provision of law, after the date of enactment of this Act \[June 19, 1987\], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
 
 #### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of “Golden Eagle Insignia”
 

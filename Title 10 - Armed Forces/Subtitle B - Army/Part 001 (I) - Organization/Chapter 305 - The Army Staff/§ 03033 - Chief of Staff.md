@@ -84,7 +84,7 @@ In subsection (b), the words “so serving” are substituted for the words “h
 
 In subsection (c), the provisions of 10:21d relating to the direction of the Secretary of the Army over the Chief of Staff are combined. The words “and of subsection (c) of this section” and “state of” are omitted as surplusage.
 
-In subsection (d), 10:38 (last par.) is omitted as covered by 10:21d(a). The words “by sections 1a–1g, 19, 21a–21h, 61–1, 81–1, 231a and 316–1 of this title and section 181–3 to 181–5 of Title 5” are omitted as covered by the words “other provisions of law”.
+In subsection (d), 10:38 (last par.) is omitted as covered by 10:21d(a). The words “by sections 1a–1g, 19,21a–21h, 61–1, 81–1, 231a and 316–1 of this title and section 181–3 to 181–5 of Title 5” are omitted as covered by the words “other provisions of law”.
 
 #### 1962 Act
 

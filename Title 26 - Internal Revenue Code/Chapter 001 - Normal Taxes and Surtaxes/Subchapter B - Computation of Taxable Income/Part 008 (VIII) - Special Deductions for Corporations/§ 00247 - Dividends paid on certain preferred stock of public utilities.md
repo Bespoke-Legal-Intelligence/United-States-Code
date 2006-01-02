@@ -42,15 +42,17 @@ For purposes of this section and section 244—
 
 #### (D) Issuance of stock
 
-&emsp;&emsp;For purposes of subparagraph (B), issuance of stock includes issuance either by the same or another corporation in a transaction which is a reorganization (as defined in section 368(a)) or a transaction subject to part VI of subchapter O (relating to exchanges in SEC obedience orders), or the respectively corresponding provisions of the Internal Revenue Code of 1939.
+&emsp;&emsp;For purposes of subparagraph (B), issuance of stock includes issuance either by the same or another corporation in a transaction which is a reorganization (as defined in section 368(a)) or a transaction subject to part VI of subchapter O as in effect before its repeal (relating to exchanges in SEC obedience orders), or the respectively corresponding provisions of the Internal Revenue Code of 1939.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 75; Pub. L. 94–455, title XIX, §1901(a)(35), Oct. 4, 1976, 90 Stat. 1770; Pub. L. 95–600, title III, §301(b)(4), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 101–508, title XI, §11801(c)(8)(C), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–188, title I, §1704(t)(49), Aug. 20, 1996, 110 Stat. 1890.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 75; Pub. L. 94–455, title XIX, §1901(a)(35), Oct. 4, 1976, 90 Stat. 1770; Pub. L. 95–600, title III, §301(b)(4), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 101–508, title XI, §11801(c)(8)(C), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–188, title I, §1704(t)(49), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–135, title IV, §402(a)(5), Dec. 21, 2005, 119 Stat. 2610.)
 
 #### References in Text
 
 The Internal Revenue Code of 1939, referred to in subsec. (b)(2)(D), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 #### Amendments
+
+2005—Subsec. (b)(2)(D). Pub. L. 109–135 inserted “as in effect before its repeal” after “part VI of subchapter O”.
 
 1996—Subsec. (b)(2)(D). Pub. L. 104–188 provided that section 11801(c)(8)(C) of Pub. L. 101–508 shall be applied as if “reorganizations” appeared instead of “reorganization” in the material proposed to be stricken. See 1990 Amendment note below.
 
@@ -60,19 +62,19 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(2)(D), is act Feb.
 
 1976—Subsec. (b)(2). Pub. L. 94–455 divided existing provisions into subpars. (A), (B), (C), and (D), added headings for subpars. (A), (B), (C), and (D), and, in subpar. (C) as so redesignated, substituted “prescribed by the Secretary” for “prescribed by the Secretary or his delegate”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) ofPub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 172, 244, 246 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

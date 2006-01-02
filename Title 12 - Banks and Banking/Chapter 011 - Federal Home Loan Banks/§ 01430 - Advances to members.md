@@ -30,7 +30,7 @@
 
 #### (4) Additional bank authority
 
-&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any FederalHome Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
+&emsp;Subparagraphs (A) through (E) of paragraph (3) shall not affect the ability of any Federal Home Loan Bank to take such steps as it deems necessary to protect its security position with respect to outstanding advances, including requiring deposits of additional collateral security, whether or not such additional security would be eligible to originate an advance. If an advance existing on August 9, 1989, matures and the member does not have sufficient eligible collateral to fully secure a renewal of such advance, a Bank may renew such advance secured by such collateral as the Bank determines is appropriate. A member that has an advance secured by such insufficient eligible collateral must reduce its level of outstanding advances promptly and prudently in accordance with a schedule determined by the Federal home loan bank.
 
 #### (5) Review of certain collateral standards
 
@@ -64,7 +64,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Before the end of the 2-year period beginning on August 9, 1989, the Board shall adopt regulations establishing standards of community investment or service for members of Banks to maintain continued access to long-term advances.
+&emsp;Before the end of the 2-year period beginning on August 9, 1989, the Board shall adopt regulations establishing standards of community investment or service for members of Banks tomaintain continued access to long-term advances.
 
 #### (2) Factors to be included
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (2) Interest on and security for special liquidity advances
 
-&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a) of this section, and shall be at an interest rate no less favorable than those made available for similarshort-term liquidity advances to savings associations that do not present such supervisory concern.
+&emsp;Any loan by a Federal Home Loan Bank pursuant to paragraph (1) shall be subject to all applicable collateral requirements, including the requirements of subsection (a) of this section, and shall be at an interest rate no less favorable than those made available for similar short-term liquidity advances to savings associations that do not present such supervisory concern.
 
 #### (i) Community investment program
 
@@ -226,7 +226,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (C) Low- or moderate-income neighborhood
 
-&emsp;&emsp;The term “low- or moderate-income neighborhood” means any neighborhood in which51 percent or more of the households are low- or moderate-income households.
+&emsp;&emsp;The term “low- or moderate-income neighborhood” means any neighborhood in which 51 percent or more of the households are low- or moderate-income households.
 
 #### (D) Affordable for very-low income households
 
@@ -262,7 +262,7 @@ Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 
 Subsec. (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
-Subsec. (e). Pub. L. 101–73, §714(b), which directed the general amendment of subsec. (e), was executed to the subsec. (e) added by section 105 of Pub. L. 100–86, as the probable intent of Congress. As thus executed, the amendment substituted provisions relating to qualified thrift lender status for provisions relating to reduced eligibility for advances for certain members which were not qualified thrift lenders.
+Subsec. (e). Pub. L. 101–73, §714(b), which directed the general amendment of subsec. (e), was executed to the subsec. (e) added by section 105 of Pub. L. 100–86, as theprobable intent of Congress. As thus executed, the amendment substituted provisions relating to qualified thrift lender status for provisions relating to reduced eligibility for advances for certain members which were not qualified thrift lenders.
 
 Subsec. (g). Pub. L. 101–73, §710(c), added subsec. (g).
 
@@ -278,7 +278,7 @@ Pub. L. 100–86, §105, added subsec. (e) relating to reduced eligibility for a
 
 &emsp;“(1) If secured by a mortgage insured under the provisions of title I, title II, title VI, title VIII, or title IX of the National Housing Act \[12 U.S.C. 1702 et seq., 1707 et seq., 1736 et seq., 1748 et seq., and 1750 et seq., respectively\], the advance may be for an amount not in excess of 90 per centum of the unpaid principal of the mortgage loan.
 
-&emsp;“(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
+&emsp;“(2) If secured by a home mortgage given in respect of an amortized home mortgage loan which was for an original term of six years or more, or in cases where shares of stock, which are pledged as security for such loan, mature in a period of six years or more, the advance may be for an amount not in excess of 65 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of the advance exceed 60 per centum of the value of the real estate securing the home mortgage loan.
 
 &emsp;“(3) If secured by a home mortgage given in respect of any other home mortgage loan, the advance shall not be for an amount in excess of 50 per centum of the unpaid principal of the home mortgage loan; but in no case shall the amount of such advance exceed 40 per centum of the value of the real estate securing the home mortgage loan.
 
@@ -334,7 +334,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (j)(12)(A) of 
 
 Pub. L. 91–351, title I, §101, July 24, 1970, 84 Stat. 450, provided that:
 
-“(a) There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as may be prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have been adjusted pursuant to the provisions of this section to make any loan, if—
+“(a) There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as may be prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have beenadjusted pursuant to the provisions of this section to make any loan, if—
 
 &emsp;“(1) the effective rate of interest on such loan exceeds the effective rate of interest on such funds payable by such member by a percentile amount which is in excess of such amount as the Board determines to be appropriate in furtherance of the purposes of this section; or
 

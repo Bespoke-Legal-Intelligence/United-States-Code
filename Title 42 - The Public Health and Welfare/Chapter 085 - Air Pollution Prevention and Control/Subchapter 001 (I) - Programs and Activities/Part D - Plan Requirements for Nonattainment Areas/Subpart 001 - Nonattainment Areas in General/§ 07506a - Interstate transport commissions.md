@@ -14,7 +14,7 @@ Whenever, on the Administrator's own motion or by petition from the Governor of 
 
 #### (1) Establishment
 
-&emsp;Whenever the Administrator establishes a transport region under subsection (a) of this section, the Administrator shall establish a transport commission comprised of (at a minimum) each of the following members:
+&emsp;Whenever the Administrator establishes a transport region under subsection (a) of thissection, the Administrator shall establish a transport commission comprised of (at a minimum) each of the following members:
 
 &emsp;&emsp;(A) The Governor of each State in the region or the designee of each such Governor.
 

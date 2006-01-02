@@ -1,0 +1,266 @@
+### §31106. Information systems
+
+(a)
+
+Information Systems and Data Analysis.—
+
+&emsp;(1)
+
+In general.—Subject to the provisions of this section, the Secretary shall establish and operate motor carrier, commercial motor vehicle, and driver information systems and data analysis programs to support safety regulatory and enforcement activities required under this title.
+
+&emsp;(2)
+
+Network coordination.—In cooperation with the States, the information systems under this section shall be coordinated into a network providing accurate identification of motor carriers and drivers, commercial motor vehicle registration and license tracking, and motor carrier, commercial motor vehicle, and driver safety performance data.
+
+&emsp;(3)
+
+Data analysis capacity and programs.—The Secretary shall develop and maintain under this section data analysis capacity and programs that provide the means to—
+
+&emsp;&emsp;(A) identify and collect necessary motor carrier, commercial motor vehicle, and driver data;
+
+&emsp;&emsp;(B) evaluate the safety fitness of motor carriers and drivers;
+
+&emsp;&emsp;(C) develop strategies to mitigate safety problems and to use data analysis to address and measure the effectiveness of such strategies and related programs;
+
+&emsp;&emsp;(D) determine the cost-effectiveness of Federal and State safety compliance and enforcement programs and other countermeasures;
+
+&emsp;&emsp;(E) adapt, improve, and incorporate other information and information systems as the Secretary determines appropriate;
+
+&emsp;&emsp;(F) ensure, to the maximum extent practical, all the data is complete, timely, and accurate across all information systems and initiatives; and
+
+&emsp;&emsp;(G) establish and implement a national motor carrier safety data correction system.
+
+&emsp;(4)
+
+Standards.—To implement this section, the Secretary shall prescribe technical and operational standards to ensure—
+
+&emsp;&emsp;(A) uniform, timely, and accurate information collection and reporting by the States and other entities as determined appropriate by the Secretary;
+
+&emsp;&emsp;(B) uniform Federal, State, and local policies and procedures necessary to operate the information system; and
+
+&emsp;&emsp;(C) the reliability and availability of the information to the Secretary and States.
+
+(b)
+
+Performance and Registration Information Program.—
+
+&emsp;(1)
+
+Information clearinghouse.—The Secretary shall include, as part of the motor carrier information system authorized by this section, a program to establish and maintain a clearinghouse and repository of information related to State registration and licensing of commercial motor vehicles, the registrants of such vehicles, and the motor carriers operating such vehicles. The clearinghouse and repository may include information on the safety fitness of each of the motor carriers and registrants and other information the Secretary considers appropriate, including information on motor carrier, commercial motor vehicle, and driver safety performance.
+
+&emsp;(2)
+
+Design.—The program shall link Federal motor carrier safety information systems with State commercial vehicle registration and licensing systems and shall be designed to enable a State to—
+
+&emsp;&emsp;(A) determine the safety fitness of a motor carrier or registrant when licensing or registering the registrant or motor carrier or while the license or registration is in effect; and
+
+&emsp;&emsp;(B) deny, suspend, or revoke the commercial motor vehicle registrations of a motor carrier or registrant that has been issued an operations out-of-service order by the Secretary.
+
+&emsp;(3)
+
+Conditions for participation.—The Secretary shall require States, as a condition of participation in the program, to—
+
+&emsp;&emsp;(A) comply with the uniform policies, procedures, and technical and operational standards prescribed by the Secretary under subsection (a)(4);
+
+&emsp;&emsp;(B) possess or seek the authority to possess for a time period no longer than determined reasonable by the Secretary, to impose sanctions relating to commercial motor vehicle registration on the basis of a Federal safety fitness determination; and
+
+&emsp;&emsp;(C) establish and implement a process to cancel the motor vehicle registration andseize the registration plates of a vehicle when an employer is found liable under section 31310(i)(2)(C) for knowingly allowing or requiring an employee to operate such a commercial motor vehicle in violation of an out-of-service order.
+
+&emsp;(4)
+
+Grants.—From the funds authorized by section 31104(i), the Secretary may make a grant in a fiscal year to a State to implement the performance and registration information system management requirements of this subsection.
+
+(c)
+
+Commercial Motor Vehicle Driver Safety Program.—In coordination with the information system under section 31309, the Secretary is authorized to establish a program to improve commercial motor vehicle driver safety. The objectives of the program shall include—
+
+&emsp;(1) enhancing the exchange of driver licensing information among the States, the Federal Government, and foreign countries;
+
+&emsp;(2) providing information to the judicial system on commercial motor vehicle drivers;
+
+&emsp;(3) evaluating any aspect of driver performance that the Secretary determines appropriate; and
+
+&emsp;(4) developing appropriate strategies and countermeasures to improve driver safety.
+
+(d)
+
+Cooperative Agreements, Grants, and Contracts.—The Secretary may carry out this section either independently or in cooperation with other Federal departments, agencies, and instrumentalities, or by making grants to, and entering into contracts and cooperative agreements with, States, local governments, associations, institutions, corporations, and other persons.
+
+(e)
+
+Information Availability and Privacy Protection Policy.—The Secretary shall develop a policy on making information available from the information systems authorized by this section and section 31309. The policy shall be consistent with existing Federal information laws, including regulations, and shall provide for review and correction of such information in a timely manner.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 991; Pub. L. 105–178, title IV, §4004(a), June 9, 1998, 112 Stat. 398; Pub. L. 109–59, title IV, §§4108(a), 4109(a), Aug. 10, 2005, 119 Stat. 1720.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+31106(a)
+
+49 App.:2306(f).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, §407; added Dec. 18, 1991, Pub. L. 102–240, §4003, 105 Stat. 2144.
+
+31106(b)
+
+49 App.:2306(a) (2)–(5).
+
+31106(c)
+
+49 App.:2306(b).
+
+31106(d)
+
+49 App.:2306(a)(1).
+
+31106(e)
+
+49 App.:2306(c).
+
+31106(f)
+
+49 App.:2306(d).
+
+31106(g)
+
+49 App.:2306(e).
+
+In subsection (b)(2), the word “schedule” is substituted for “system” for clarity.
+
+#### Amendments
+
+2005—Subsec. (a)(3)(F), (G). Pub. L. 109–59, §4108(a), added subpars. (F) and (G).
+
+Subsec. (b)(2) to (4). Pub. L. 109–59, §4109(a), added pars. (2) to (4) and struck out former pars. (2) to (4), which related to design of program with State licensing systems in par. (2), conditions of participation in par. (3), and funding for fiscal years 1998 to 2003 in par. (4).
+
+1998—Pub. L. 105–178 amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
+
+#### Commercial Vehicle Information Systems and Networks Deployment
+
+Pub. L. 109–59, title IV, §4126, Aug. 10, 2005, 119 Stat. 1738, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] shall carry out a commercial vehicle information systems and networks program to—
+
+&emsp;“(1) improve the safety and productivity of commercial vehicles and drivers; and
+
+&emsp;“(2) reduce costs associated with commercial vehicle operations and Federal and State commercial vehicle regulatory requirements.
+
+“(b)
+
+Purpose.—The program shall advance the technological capability and promote the deployment of intelligent transportation system applications for commercial vehicle operations, including commercial vehicle, commercial driver, and carrier-specific information systems and networks.
+
+“(c)
+
+Core Deployment Grants.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall make grants to eligible States for the core deployment of commercial vehicle information systems and networks.
+
+&emsp;“(2)
+
+Amount of grants.—The maximum aggregate amount the Secretary may grant to a State for the core deployment of commercial vehicle information systems and networks under this subsection and sections 5001(a)(5) and 5001(a)(6) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (112 Stat. 420) may not exceed $2,500,000.
+
+&emsp;“(3)
+
+Use of funds.—Funds from a grant under this subsection may only be used for the core deployment of commercial vehicle information systems and networks. An eligible State that has either completed the core deployment of commercial vehicle information systems and networks or completed such deployment before grant funds are expended under this subsection may use the grant funds for the expanded deployment of commercial vehicle information systems and networks in the State.
+
+“(d)
+
+Expanded Deployment Grants.—
+
+&emsp;“(1)
+
+In general.—For each fiscal year, from the funds remaining after the Secretary has made grants under subsection (c), the Secretary may make grants to each eligible State, upon request, for the expanded deployment of commercial vehicle information systems and networks.
+
+&emsp;“(2)
+
+Eligibility.—Each State that has completed the core deployment of commercial vehicle information systems and networks in such State is eligible for an expanded deployment grant under this subsection.
+
+&emsp;“(3)
+
+Amount of grants.—Each fiscal year, the Secretary may distribute funds available for expanded deployment grants equally among the eligible States, but not to exceed $1,000,000 per State.
+
+&emsp;“(4)
+
+Use of funds.—A State may use funds from a grant under this subsection only for the expanded deployment of commercial vehicle information systems and networks.
+
+“(e)
+
+Eligibility.—To be eligible for a grant under this section, a State—
+
+&emsp;“(1) shall have a commercial vehicle information systems and networks program plan approved by the Secretary that describes the various systems and networks at the State level that need to be refined, revised, upgraded, or built to accomplish deployment of core capabilities;
+
+&emsp;“(2) shall certify to the Secretary that its commercial vehicle information systems and networks deployment activities, including hardware procurement, software and system development, and infrastructure modifications—
+
+&emsp;&emsp;“(A) are consistent with the national intelligent transportation systems and commercial vehicle information systems and networks architectures and available standards; and
+
+&emsp;&emsp;“(B) promote interoperability and efficiency to the extent practicable; and
+
+&emsp;“(3) shall agree to execute interoperability tests developed by the Federal Motor Carrier Safety Administration to verify that its systems conform with the national intelligent transportation systems architecture, applicable standards, and protocols for commercial vehicle information systems and networks.
+
+“(f)
+
+Federal Share.—The Federal share of the cost of a project payable from funds made available to carry out this section shall not exceed 50 percent. The total Federal share of the cost of a project payable from all eligible Federal sources shall not exceed 80 percent.
+
+“(g)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;“(1)
+
+Commercial vehicle information systems and networks.—The term ‘commercial vehicle information systems and networks’ means the information systems and communications networks that provide the capability to—
+
+&emsp;&emsp;“(A) improve the safety of commercial motor vehicle operations;
+
+&emsp;&emsp;“(B) increase the efficiency of regulatory inspection processes to reduce administrative burdens by advancing technology to facilitate inspections and increase the effectiveness of enforcement efforts;
+
+&emsp;&emsp;“(C) advance electronic processing of registration information, driver licensing information, fuel tax information, inspection and crash data, and other safety information;
+
+&emsp;&emsp;“(D) enhance the safe passage of commercial motor vehicles across the United States and across international borders; and
+
+&emsp;&emsp;“(E) promote the communication of information among the States and encourage multistate cooperation and corridor development.
+
+&emsp;“(2)
+
+Commercial motor vehicle operations.—The term ‘commercial motor vehicle operations’—
+
+&emsp;&emsp;“(A) means motor carrier operations and motor vehicle regulatory activities associated with the commercial motor vehicle movement of goods, including hazardous materials, and passengers; and
+
+&emsp;&emsp;“(B) with respect to the public sector, includes the issuance of operating credentials, the administration of motor vehicle and fuel taxes, and roadside safety and border crossing inspection and regulatory compliance operations.
+
+&emsp;“(3)
+
+Core deployment.—The term ‘core deployment’ means the deployment of systems in a State necessary to provide the State with the following capabilities:
+
+&emsp;&emsp;“(A) Safety information exchange to—
+
+&emsp;&emsp;&emsp;“(i) electronically collect and transmit commercial motor vehicle and driver inspection data at a majority of inspection sites in the State;
+
+&emsp;&emsp;&emsp;“(ii) connect to the safety and fitness electronic records system for access to interstate carrier and commercial motor vehicle data, summaries of past safety performance, and commercial motor vehicle credentials information; and
+
+&emsp;&emsp;&emsp;“(iii) exchange carrier data and commercial motor vehicle safety and credentials information within the State and connect to such system for access to interstate carrier and commercial motor vehicle data.
+
+&emsp;&emsp;“(B) Interstate credentials administration to—
+
+&emsp;&emsp;&emsp;“(i) perform end-to-end processing, including carrier application, jurisdiction application processing, and credential issuance, of at least the international registration plan and international fuel tax agreement credentials and extend this processing to other credentials, including intrastate registration, vehicle titling, oversize vehicle permits, overweight vehicle permits, carrier registration, and hazardous materials permits;
+
+&emsp;&emsp;&emsp;“(ii) connect to such plan and agreement clearinghouses; and
+
+&emsp;&emsp;&emsp;“(iii) have at least 10 percent of the credentialing transaction volume in the State handled electronically and have the capability to add more carriers and to extend to branch offices where applicable.
+
+&emsp;&emsp;“(C) Roadside electronic screening to electronically screen transponder-equipped commercial vehicles at a minimum of one fixed or mobile inspection site in the State and to replicate this screening at other sites in the State.
+
+&emsp;“(4)
+
+Expanded deployment.—The term ‘expanded deployment’ means the deployment of systems in a State that exceed the requirements of a core deployment of commercial vehicle information systems and networks, improve safety and the productivity of commercial motor vehicle operations, and enhance transportation security.”
+

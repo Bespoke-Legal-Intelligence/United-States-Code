@@ -30,7 +30,7 @@ In carrying out section 299(b) of this title, the Director shall conduct and sup
 
 #### (2) Requirements
 
-&emsp;In developing priorities for the allocation of training funds under this subsection, the Director shall take into consideration shortages in the number of trained researchers who are addressing health care issues for the priority populations identified in section 299(c)(1)(B) of this title and in addition, shall take into consideration indications of long-term commitment, amongst applicants for training funds, to addressing health care needs of the priority populations.
+&emsp;In developing priorities for the allocation of training funds under this subsection, the Director shall take into consideration shortages in the number of trained researchers who are addressing health care issues for the priority populations identified in section 299(c)(1)(B) ofthis title and in addition, shall take into consideration indications of long-term commitment, amongst applicants for training funds, to addressing health care needs of the priority populations.
 
 #### (c) Multidisciplinary centers
 

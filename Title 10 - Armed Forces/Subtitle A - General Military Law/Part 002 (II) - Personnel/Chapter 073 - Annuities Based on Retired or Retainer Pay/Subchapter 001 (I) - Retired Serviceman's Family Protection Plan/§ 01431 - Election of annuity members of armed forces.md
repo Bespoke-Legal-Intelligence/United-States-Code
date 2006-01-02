@@ -8,7 +8,7 @@
 
 &emsp;(3) midshipmen.
 
-(b) To provide an annuity under section 1434 of this title, a person covered by subsection (a) may elect to receive a reduced amount of the retired pay or retainer pay to which he may become entitled as a result of service in his armed force. Except as otherwise provided in this section, unless it is made before he completes nineteen years of service for which he is entitled to credit in the computation of his basic pay, the election must be made at least two years before the first day for which retired pay or retainer pay is granted. However, if, because of military operations, a member is assigned to an isolated station or is missing, interned in a neutral country, captured by a hostile force, or beleaguered or besieged, and for that reason is unable to make an election before completing nineteen years of that service, he may make the election, to become effective immediately, within one year after he ceases to be assigned to that station or returns to the jurisdiction of his armed force, as the case may be. A member to whom retired pay or retainer pay is granted retroactively, and who is otherwise eligible to make an election, may make the election within ninety days after receiving notice that such pay has been granted to him. An election made after August 13, 1968, is not effective if—
+(b) To provide an annuity under section 1434 of this title, a person covered by subsection (a) may elect to receive a reduced amount of the retired pay or retainer pay to which he may become entitled as a result of service in his armed force. Except as otherwise provided in this section, unless it is made before he completes nineteen years of service for which he is entitled to credit in the computation of his basic pay, the election must be made at least two years before the first day for which retired pay or retainer pay is granted. However, if, because of military operations, a member is assigned to an isolated station or is missing, interned in a neutral country, captured by a hostile force, or beleaguered or besieged, and for that reason is unable to make an election before completing nineteen years of that service, he may make the election, to become effective immediately, within one year after he ceases to be assigned to that station or returns to the jurisdiction of his armed force, as the case may be. A member to whomretired pay or retainer pay is granted retroactively, and who is otherwise eligible to make an election, may make the election within ninety days after receiving notice that such pay has been granted to him. An election made after August 13, 1968, is not effective if—
 
 &emsp;(1) the elector dies during the first thirty-day period he is entitled to retired pay as a result of a physical condition which led to his being granted retired pay under chapter 61 of title 10 with a disability of 100 per centum under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination of the per centum of his disability;
 
@@ -20,7 +20,7 @@
 
 (d) If an election made under this section is found to be void for any reason except fraud or willful intent of the member making the election, he may make a corrected election at any time within 90 days after he is notified in writing that the election is void. A corrected election made under this subsection is effective as of the date of the voided election it replaces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Pub. L. 85–861, §33(a)(11), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–381, §2, Oct. 4, 1961, 75 Stat. 810; Pub. L. 90–485, §1(1), (2), Aug. 13, 1968, 82 Stat. 751; Pub.L. 96–513, title V, §511(55), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–145, title XIII, §1301(a)(2), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, §1501(c)(17), Feb. 10, 1996, 110 Stat. 499.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 108; Pub. L. 85–861, §33(a)(11), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–381, §2, Oct. 4, 1961, 75 Stat. 810; Pub. L. 90–485, §1(1), (2), Aug. 13, 1968, 82 Stat. 751; Pub. L. 96–513, title V, §511(55), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–145, title XIII, §1301(a)(2), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, §1501(c)(17), Feb. 10, 1996, 110 Stat. 499.)
 
 Historical and Revision Notes<br>1956
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1968 Amendment
 
-Section 6 of Pub. L. 90–485 provided in part that: “Clause (1) and clause (6) of section 1 \[amending this section and section 1436 of this title\], and sections 2, 3, and 4 of this Act \[amending section 1331 \[now 12731\] ofthis title and enacting material set out as notes under this section\] are effective on the date of enactment \[Aug. 13, 1968\]. Remaining provisions of this Act \[amending this section and sections 1434, 1435, 1437, and 1446 of this title, and enacting provisions set out as a note under this section\] are effective on the first day of the third calendar month following the date of enactment.”
+Section 6 of Pub. L. 90–485 provided in part that: “Clause (1) and clause (6) of section 1 \[amending this section and section 1436 of this title\], and sections 2, 3, and 4 of this Act \[amending section 1331 \[now 12731\] of this title and enacting material set out as notes under this section\] are effective on the date of enactment \[Aug. 13, 1968\]. Remaining provisions of this Act \[amending this section and sections 1434, 1435, 1437, and 1446 of this title, and enacting provisions set out as a note under this section\] are effective on the first day of the third calendar month following the date of enactment.”
 
 #### Effective Date of 1958 Amendment
 
@@ -124,7 +124,7 @@ Section 4 of Pub. L. 90–485 provided that: “A retired member who elected an 
 
 #### Elections Subject to Cost Tables Applicable on Date of Retirement; Annuities Payable to Beneficiaries Eligible Under Law in Effect the Day Prior to August 13, 1968
 
-Section 5 of Pub. L. 90–485 provided, effective on the first day of the third calendar month following Aug. 13, 1968, that: “Notwithstanding any other provision of this Act \[see Effective Date of 1968 Amendment note set out above\], elections in effect on the date of enactment \[Aug. 13, 1968\] will remain under the cost tables applicable on the date of retirement, and the annuities provided thereunder shall be payable to those eligible beneficiaries prescribed under the law in effect on the day prior to the date of enactment of this Act.”
+Section 5 of Pub. L. 90–485 provided, effective on the first day of the third calendar month following Aug. 13, 1968, that: “Notwithstanding any other provision of this Act \[see Effective Date of 1968 Amendment note set out above\], elections in effect on the date of enactment\[Aug. 13, 1968\] will remain under the cost tables applicable on the date of retirement, and the annuities provided thereunder shall be payable to those eligible beneficiaries prescribed under the law in effect on the day prior to the date of enactment of this Act.”
 
 #### Applicability of Provisions in Effect on the Day Prior to August 13, 1968
 
@@ -171,8 +171,4 @@ Authority vested by this chapter in “military departments”, “the Secretary
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1432, 1433, 1434 of this title.
 

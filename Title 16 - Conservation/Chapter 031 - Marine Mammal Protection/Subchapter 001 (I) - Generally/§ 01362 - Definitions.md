@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(C) a species or population stock is listed as an endangered species or a threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\].
 
-(2) The terms “conservation” and “management” means the collection and application of biological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research,census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
+(2) The terms “conservation” and “management” means the collection and application of biological information for the purposes of increasing and maintaining the number of animals within species and populations of marine mammals at their optimum sustainable population. Such terms include the entire scope of activities that constitute a modern scientific resource program, including, but not limited to, research, census, law enforcement, and habitat acquisition and improvement. Also included within these terms, when and where appropriate, is the periodic or total protection of species or populations as well as regulated taking.
 
 (3) The term “district court of the United States” includes the District Court of Guam, District Court of the Virgin Islands, District Court of Puerto Rico, District Court of the Canal Zone, and, in the case of American Samoa and the Trust Territory of the Pacific Islands, the District Court of the United States for the District of Hawaii.
 
@@ -36,7 +36,7 @@ For the purposes of this chapter—
 
 &emsp;(ii) the Secretary of the Interior as to all responsibility, authority, funding, and duties under this chapter with respect to all other marine mammals covered by this chapter.
 
-(B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter (other than section 1421f–1 of this title) the term “Secretary” means the Secretary of Commerce.
+(B) in <sup>1</sup> section 1387 of this title and subchapter V of this chapter (other than section 1421f–1 ofthis title) the term “Secretary” means the Secretary of Commerce.
 
 (13) The term “take” means to harass, hunt, capture, or kill, or attempt to harass, hunt, capture, or kill any marine mammal.
 

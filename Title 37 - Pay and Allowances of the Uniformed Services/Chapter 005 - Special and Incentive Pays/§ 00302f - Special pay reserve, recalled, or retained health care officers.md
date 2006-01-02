@@ -24,15 +24,17 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 (c)
 
-Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. The officer shall refund any amount received under this section in excess of the amount that corresponds to the actual period of active duty served by the officer.
+Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. The officer shall repay in the manner provided in section 303a(e) of this title any amount received under this section in excess of the amount that corresponds to the actual period of active duty served by the officer.
 
 (d)
 
 Special Rule for Reserve Medical and Dental Officers.—While a reserve medical or dental officer receives a special pay under section 302 or 302b of this title by reason of subsection (a), the officer shall not be entitled to special pay under section 302(h) or 302b(h) of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §634(a), Dec. 5, 1991, 105 Stat. 1381; amended Pub. L. 104–106, div. A, title XV, §1501(d)(4)(A), Feb. 10, 1996, 110 Stat. 500; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
+(Added Pub. L. 102–190, div. A, title VI, §634(a), Dec. 5, 1991, 105 Stat. 1381; amended Pub. L. 104–106, div. A, title XV, §1501(d)(4)(A), Feb. 10, 1996, 110 Stat. 500; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 109–163, div. A, title VI, §687(b)(9), Jan. 6, 2006, 119 Stat. 3329.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–163 substituted “repay in the manner provided in section 303a(e) of this title” for “refund”.
 
 2000—Subsec. (d). Pub. L. 106–398 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “While a reserve medical officer receives a special pay under section 302 of this title by reason of subsection (a), the officer shall not be entitled to special pay under subsection (h) of that section.”
 
@@ -41,6 +43,10 @@ Special Rule for Reserve Medical and Dental Officers.—While a reserve medical 
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Active Duty in Connection With Operation Desert Storm
 

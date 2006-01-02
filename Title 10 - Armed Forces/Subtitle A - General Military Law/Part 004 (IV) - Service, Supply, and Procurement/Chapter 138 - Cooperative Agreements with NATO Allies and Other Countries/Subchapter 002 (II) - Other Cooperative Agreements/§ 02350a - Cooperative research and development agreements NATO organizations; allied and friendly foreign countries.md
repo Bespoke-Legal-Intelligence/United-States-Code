@@ -18,7 +18,7 @@ Projects.—(1) The Secretary of Defense may enter into a memorandum of understa
 
 &emsp;(E) Any other friendly foreign country.
 
-(3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to theCommittees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
+(3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 
 (b)
 
@@ -46,7 +46,7 @@ Cooperative Opportunities Document.—(1)(A) In order to ensure that opportuniti
 
 &emsp;(A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
+&emsp;(B) If a project similar to the one under consideration by the Department of Defense is indevelopment or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
@@ -100,7 +100,7 @@ Provisions relating to major non-NATO allies were contained in section 2767a of 
 
 Subsec. (g)(4). Pub. L. 107–314, §1041(a)(9), struck out par. (4) which read as follows: “The Secretary of Defense shall submit to Congress each year, not later than March 1, a report containing information on—
 
-&emsp;“(A) the equipment, munitions, and technologies manufactured and developed by countries referred to in subsection (a)(2) that were evaluated under this subsection during the previous fiscal year;
+&emsp;“(A) the equipment, munitions, and technologies manufactured and developed by countries referred toin subsection (a)(2) that were evaluated under this subsection during the previous fiscal year;
 
 &emsp;“(B) the obligation of any funds under this subsection during the previous fiscal year; and
 
@@ -179,8 +179,4 @@ Pub. L. 107–314, div. A, title X, §1062(f), Dec. 2, 2002, 116 Stat. 2651, pro
 #### Termination Date of 1992 Amendment
 
 Section 843(c) of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2349, 2540 of this title; title 22 section 2349aa–10.
 

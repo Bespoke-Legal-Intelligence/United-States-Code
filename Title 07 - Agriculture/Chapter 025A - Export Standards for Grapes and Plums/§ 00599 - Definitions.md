@@ -6,7 +6,7 @@ When used in this chapter—
 
 &emsp;(2) The term “Secretary” means the Secretary of Agriculture.
 
-&emsp;(3) Except as provided herein, the term “foreign commerce” means commerce between any State, or the District of Columbia, andany place outside of the United States or its possessions.
+&emsp;(3) Except as provided herein, the term “foreign commerce” means commerce between any State, or the District of Columbia, and any place outside of the United States or its possessions.
 
 &emsp;(4) The term “grapes” means vinifera species table grapes, European type, whether or not they have been in storage.
 

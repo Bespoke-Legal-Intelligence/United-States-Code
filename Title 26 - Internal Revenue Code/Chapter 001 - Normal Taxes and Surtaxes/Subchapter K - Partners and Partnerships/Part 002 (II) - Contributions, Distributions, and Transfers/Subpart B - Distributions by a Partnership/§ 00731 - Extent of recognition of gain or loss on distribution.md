@@ -100,7 +100,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;&emsp;(V) foreign currencies,
 
-&emsp;&emsp;&emsp;&emsp;(VI) interests in or derivative financial instruments (including options, forward or futures contracts, short positions, and similar financial instruments) in any asset described in any other subclause of this clause or in any commodity traded on or subject to the rules of a board of trade or commodity exchange,
+&emsp;&emsp;&emsp;&emsp;(VI) interests in or derivative financial instruments (including options, forward or futures contracts, short positions, andsimilar financial instruments) in any asset described in any other subclause of this clause or in any commodity traded on or subject to the rules of a board of trade or commodity exchange,
 
 &emsp;&emsp;&emsp;&emsp;(VII) other assets specified in regulations prescribed by the Secretary, or
 
@@ -122,7 +122,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (II) Exception for certain nonrecognition transactions
 
-&emsp;&emsp;&emsp;&emsp;The term “eligible partner” shall not include the transferor or transferee in a nonrecognition transaction involving atransfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
+&emsp;&emsp;&emsp;&emsp;The term “eligible partner” shall not include the transferor or transferee in a nonrecognition transaction involving a transfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
 
 #### (iv) Look-thru of partnership tiers
 
@@ -192,7 +192,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 “(2)
 
-Certain distributions before january 1, 1995.—The amendments made by this section shall not apply to any marketable security distributed before January 1, 1995, by the partnership which held such security on July 27, 1994.
+Certain distributions before january 1, 1995.—The amendments made by this section shall not applyto any marketable security distributed before January 1, 1995, by the partnership which held such security on July 27, 1994.
 
 “(3)
 
@@ -237,8 +237,4 @@ Marketable securities.—For purposes of this subsection, the term ‘marketable
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–486 applicable to distributions on or after June 25, 1992, see section 1937(c) of Pub. L. 102–486, set out as a note under section 704 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 168, 197, 734, 737, 751, 1245, 1250 of this title; title 11 section 548.
 

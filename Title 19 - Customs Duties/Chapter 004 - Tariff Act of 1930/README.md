@@ -478,7 +478,8 @@ I74subpart a—definitions
 | (d) | Limitation. |
 | (e) | Subsection (b) penalties. |
 | (f) | Certificates of origin for goods exported under the United States-Chile Free Trade Agreement. |
-| (g) | Penalties. |
+| (g) | Certifications of origin for goods exported under the Dominican Republic-Central America-United States Free Trade Agreement. |
+| (h) | Penalties. |
 | [1509\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001509%20-%20Examination%20of%20books%20and%20witnesses.md) | Examination of books and witnesses. |
 | (a) | Authority. |
 | (b) | Regulatory audit procedures. |
@@ -501,6 +502,7 @@ I74subpart a—definitions
 | (e) | Advance notice of certain determinations. |
 | (f) | Denial of preferential treatment. |
 | (g) | Denial of preferential tariff treatment under United States-Chile Free Trade Agreement. |
+| (h) | Denial of preferential tariff treatment under the Dominican Republic-Central America-United States Free Trade Agreement. |
 | [1515\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001515%20-%20Review%20of%20protests.md) | Review of protests. |
 | (a) | Administrative review and modification of decisions. |
 | (b) | Request for accelerated disposition of protest. |
@@ -637,6 +639,7 @@ I74subpart a—definitions
 | (e) | Court of International Trade proceedings. |
 | (f) | False certifications regarding exports to NAFTA countries. |
 | (g) | False certifications of origin under the United States-Chile Free Trade Agreement. |
+| (h) | False certifications of origin under the Dominican Republic-Central America-United States Free Trade Agreement. |
 | [1592a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001592a%20-%20Special%20provisions%20regarding%20certain%20violations.md) | Special provisions regarding certain violations. |
 | (a) | Publication of names of certain violators. |
 | (b) | List of high risk countries. |

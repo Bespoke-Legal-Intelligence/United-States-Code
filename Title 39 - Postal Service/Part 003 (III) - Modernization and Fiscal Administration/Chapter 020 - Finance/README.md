@@ -44,7 +44,7 @@ Amounts Saved.—
 
 In general.—The amounts representing any savings accruing to the Postal Service in any fiscal year as a result of the enactment of this Act shall be computed by the Office of Personnel Management for each such fiscal year in accordance with paragraph (2).
 
-&emsp;(2)
+&emsp;“(2)
 
 Methodology.—Not later than July 31, 2003, the Office of Personnel Management shall—
 

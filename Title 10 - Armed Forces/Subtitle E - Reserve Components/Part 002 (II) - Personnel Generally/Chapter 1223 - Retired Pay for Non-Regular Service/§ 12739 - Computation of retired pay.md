@@ -34,7 +34,3 @@ Pub. L. 107–314, div. A, title VI, §632(c), Dec. 2, 2002, 116 Stat. 2572, pro
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1209, 12731 of this title.
-

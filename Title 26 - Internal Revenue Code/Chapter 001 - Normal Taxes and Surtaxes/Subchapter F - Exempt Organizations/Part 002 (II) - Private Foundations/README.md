@@ -12,10 +12,6 @@
 
 1969—Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 492, added part heading and analysis for part II.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 501, 511, 4947 of this title.
-
 
 ---
 

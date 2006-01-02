@@ -58,7 +58,7 @@ Recovery of overpayments under this part may not be made from an individual when
 
 (5) A participant who is married at the time of retiring under this part and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 4046(n) of this title, subject to the deposit requirement thereunder.
 
-(6) Notwithstanding any other provision of law, any lump-sum credit provided pursuant toan election under this subsection shall not preclude an individual from receiving any other benefits under this subsection.
+(6) Notwithstanding any other provision of law, any lump-sum credit provided pursuant to an election under this subsection shall not preclude an individual from receiving any other benefits under this subsection.
 
 (Pub. L. 96–465, title I, §807, Oct. 17, 1980, 94 Stat. 2109; Ex. Ord. No. 12446, §3(a), Oct. 17, 1983, 48 F.R. 48443; Pub. L. 99–335, title IV, §§402(a)(2), 408, June 6, 1986, 100 Stat. 609, 612; Pub. L. 103–66, title XI, §11002(b), Aug. 10, 1993, 107 Stat. 409.)
 

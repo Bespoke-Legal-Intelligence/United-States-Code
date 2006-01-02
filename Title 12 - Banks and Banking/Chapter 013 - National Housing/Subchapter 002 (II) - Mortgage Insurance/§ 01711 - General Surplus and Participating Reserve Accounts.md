@@ -6,7 +6,7 @@ The Secretary shall establish as of July 1, 1954, in the Mutual Mortgage Insuran
 
 #### (b) Credits and charges
 
-The aggregate net income thereafter received or any net loss thereafter sustained by the Mutual Mortgage Insurance Fund in any semiannual period shall be credited or charged to the General Surplus Account and/or the Participating Reserve Account in such manner and amounts as the Secretary may determine to be in accord with sound actuarial and accounting practice.
+The aggregate net income thereafter received or any net loss thereafter sustained by the Mutual Mortgage Insurance Fund in any semiannual period shall be credited or charged to theGeneral Surplus Account and/or the Participating Reserve Account in such manner and amounts as the Secretary may determine to be in accord with sound actuarial and accounting practice.
 
 #### (c) Distribution of funds to terminating mortgagors
 
@@ -64,7 +64,7 @@ Section 2103(b) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101�
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–550 inserted at end “The Secretary shall not distribute any share to an eligible mortgagor under this subsection beginning on the date which is 6 years after the date the Secretary first transmitted written notification of eligibility to the last known address of the mortgagor, unless the mortgagor has applied in accordance with procedures prescribed by the Secretary for payment of the share within the 6-year period. The Secretary shall transfer any amounts no longer eligible for distribution under the previous sentence from the Participating Reserve Account to the General Surplus Account.”
+1992—Subsec. (c). Pub. L. 102–550 inserted at end “The Secretary shall not distribute any share to an eligible mortgagor under this subsection beginning on the datewhich is 6 years after the date the Secretary first transmitted written notification of eligibility to the last known address of the mortgagor, unless the mortgagor has applied in accordance with procedures prescribed by the Secretary for payment of the share within the 6-year period. The Secretary shall transfer any amounts no longer eligible for distribution under the previous sentence from the Participating Reserve Account to the General Surplus Account.”
 
 1990—Subsec. (e). Pub. L. 101–508, §2104, added subsec. (e).
 

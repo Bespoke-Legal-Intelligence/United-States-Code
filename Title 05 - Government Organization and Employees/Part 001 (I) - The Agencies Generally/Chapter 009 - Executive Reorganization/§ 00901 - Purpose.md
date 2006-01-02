@@ -14,7 +14,7 @@
 
 &emsp;(6) to eliminate overlapping and duplication of effort.
 
-(b) Congress declares that the public interest demands the carrying out of the purposes of subsection (a) of this section and that the purposes may be accomplished in great measure by proceeding under this chapter, and can be accomplished more speedily thereby than by the enactment of specific legislation.
+(b) Congress declares that the public interest demands the carrying out of the purposes of subsection (a) of this section and that the purposesmay be accomplished in great measure by proceeding under this chapter, and can be accomplished more speedily thereby than by the enactment of specific legislation.
 
 (c) It is the intent of Congress that the President should provide appropriate means for broad citizen advice and participation in restructuring and reorganizing the executive branch.
 
@@ -62,7 +62,7 @@ Section 1 of Pub. L. 95–17 provided: “That this Act \[amending this chapter\
 
 #### National Commission on Executive Organization
 
-Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Cogress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
+Pub. L. 100–527, §17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. \[President did not transmit such notification to Congress and thus section ceased to be effective 30 days after Mar. 15, 1989.\]
 
 #### Ex. Ord. No. 6166. Reorganization of Executive Agencies Generally
 
@@ -96,7 +96,7 @@ Ex. Ord. No. 6623, Mar. 1, 1934, revoked a final paragraph of section 1 of Ex. O
 
 #### Effective Date
 
-The effective date of Ex. Ord. No. 6166, §1, as provided for in section 22, post, was extended to Dec. 31, 1933, by Ex. Ord. No. 6224, of July 27, 1933, and the effective date of the last paragraph, subsequently revoked by Ex. Ord. No. 6623, was deferred by Ex. Ord. No. 6624 of Mar. 1, 1934, until such revocation could become effective.
+The effective date of Ex. Ord. No. 6166, §1, as provided for in section 22, post, was extended to Dec. 31, 1933, byEx. Ord. No. 6224, of July 27, 1933, and the effective date of the last paragraph, subsequently revoked by Ex. Ord. No. 6623, was deferred by Ex. Ord. No. 6624 of Mar. 1, 1934, until such revocation could become effective.
 
 \[Subsequent to the effective date of Ex. Ord. No. 6166, §1, certain functions affected thereby were again transferred as follows: The Public Buildings Branch of the Procurement Division was transferred to Public Buildings Administration within the Federal Works Administration by 1939 Reorg. Plan No. 1, §§301, 303, 4 Fed. Reg. 2729; 53 Stat. 1426, 1427; the Federal Employment Stabilization Office, created by Ex. Ord. No. 6166, §1, as amended by Ex. Ord. No. 6624, was abolished by 1939 Reorg. Plan No. 1, §4, 4 Fed. Reg. 2727, 53 Stat. 1423, and its functions transferred to the Executive Office of the President.\]
 
@@ -252,7 +252,7 @@ Investigations
 
 All functions now exercised by the Bureau of Prohibition of the Department of Justice with respect to the granting of permits under the national prohibition laws are transferred to the Division of Internal Revenue in the Treasury Department.
 
-All functions now exercised by the Bureau of Prohibition with respect to investigations and all the functions now performed by the Bureau of Investigation of the Department of Justice are transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation.
+All functions now exercised by the Bureau of Prohibition with respect to investigations and all the functions now performed by the Bureau of Investigation ofthe Department of Justice are transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation.
 
 All other functions now performed by the Bureau of Prohibition are transferred to such divisions in the Department of Justice as in the judgment of the Attorney General may be desirable.
 
@@ -332,7 +332,7 @@ The function of preparation of the Official Register is transferred from the Bur
 
 Statistics of Cities
 
-The function of the Bureau of the Census of the Department of Commerce of compiling statistics of cities under 100,000 population is abolished for the period ending June 30, 1935.
+The function of the Bureau of the Census of the Department of Commerce of compiling statistics of citiesunder 100,000 population is abolished for the period ending June 30, 1935.
 
 #### §12.
 
@@ -388,7 +388,7 @@ Each agency, all the functions of which are transferred to or consolidated with 
 
 The records pertaining to an abolished agency or a function disposed of, disposition of which is not elsewhere herein provided for, shall be transferred to the successor. If there be no successor agency, and such abolished agency be within a department, said records shall be disposed of as the head of such department may direct.
 
-The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extentrequired, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
+The property, facilities, equipment, and supplies employed in the work of an abolished agency or the exercise of a function disposed of, disposition of which is not elsewhere herein provided for, shall, to the extent required, be transferred to the successor agency. Other such property, facilities, equipment, and supplies shall be transferred to the Procurement Division.
 
 All personnel employed in connection with the work of an abolished agency or function disposed of shall be separated from the service of the United States, except that the head of any successor agency, subject to my approval, may, within a period of four months after transfer or consolidation, reappoint any of such personnel required for the work of the successor agency without reexamination or loss of civil-service status.
 
@@ -430,7 +430,7 @@ Executive Order No. 7261, promulgated December 31, 1935, provided that “except
 
 Executive Order No. 7980, promulgated September 29, 1938, provided: “That the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice.”
 
-Functions relating to disbursement by United States marshals which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, were transferred to and vested in Department of Justice to be exercised by United States marshals under supervision of Attorney General in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §3, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
+Functions relating to disbursement by United States marshals which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, were transferred to and vested in Department of Justice to be exercised by United States marshals under supervision of Attorney General in accordance with existing statutes pertaining to suchfunctions, by Reorg. Plan No. IV of 1940, §3, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
 Functions relating to disbursement of postal revenues and all other funds under jurisdiction of Post Office Department, Postmaster General, and Board of Trustees of Postal Savings System which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, set out in note under this section, were transferred to and vested in (a) said Board of Trustees as to postal savings disbursements, and (b) Post Office Department as to all other disbursements involved, such functions to be exercised by postmasters and other authorized disbursing agents of Post Office Department and of Postal Savings System in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §4, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 

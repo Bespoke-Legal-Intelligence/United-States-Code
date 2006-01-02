@@ -322,9 +322,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Pipeline Bridge Risk Study
 
-Pub. L. 107–355, §25, Dec. 17, 2002, 116 Stat. 3011, required the
-
-Secretary of Transportation to conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges and to transmit a report detailing the results of the completed study within 2 years after Dec. 17, 2002.
+Pub. L. 107–355, §25, Dec. 17, 2002, 116 Stat. 3011, required the Secretary of Transportation to conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges and to transmit a report detailing the results of the completed study within 2 years after Dec. 17, 2002.
 
 #### Study of Underwater Abandoned Pipeline Facilities
 

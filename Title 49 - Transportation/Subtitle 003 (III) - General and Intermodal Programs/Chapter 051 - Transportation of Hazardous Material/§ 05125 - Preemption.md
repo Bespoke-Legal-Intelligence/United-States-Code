@@ -6,7 +6,7 @@ General.—Except as provided in subsections (b), (c), and (e) of this section a
 
 &emsp;(1) complying with a requirement of the State, political subdivision, or tribe and a requirement of this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security is not possible; or
 
-&emsp;(2) the requirement of the State, political subdivision, or tribe, as applied or enforced, is an obstacle to accomplishing and carrying out this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security.
+&emsp;(2) the requirement of the State, political subdivision, or tribe, as applied or enforced, is an obstacle to accomplishing and carrying out this chapter, a regulation prescribed underthis chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security.
 
 (b)
 
@@ -20,9 +20,9 @@ Substantive Differences.—(1) Except as provided in subsection (c) of this sect
 
 &emsp;(D) the written notification, recording, and reporting of the unintentional release in transportation of hazardous material.
 
-&emsp;(E) the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.
+&emsp;(E) the designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce.
 
-(2) If the Secretary of Transportation prescribes or has prescribed under section 5103(b),5104, 5110, or 5112 of this title or prior comparable provision of law a regulation or standard related to a subject referred to in paragraph (1) of this subsection, a State, political subdivision of a State, or Indian tribe may prescribe, issue, maintain, and enforce only a law, regulation, standard, or order about the subject that is substantively the same as a provision of this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall decide on and publish in the Federal Register the effective date of section 5103(b) of this title for any regulation or standard about any of those subjects that the Secretary prescribes after November 16, 1990. However, the effective date may not be earlier than 90 days after the Secretary prescribes the regulation or standard nor later than the last day of the 2-year period beginning on the date the Secretary prescribes the regulation or standard.
+(2) If the Secretary prescribes or has prescribed under section 5103(b), 5104, 5110, or 5112 of this title or prior comparable provision of law a regulation or standard related to a subject referred to in paragraph (1) of this subsection, a State, political subdivision of a State, or Indian tribe may prescribe, issue, maintain, and enforce only a law, regulation, standard, or order about the subject that is substantively the same as a provision of this chapter or a regulation prescribed or order issued under this chapter. The Secretary shall decide on and publish in the Federal Register the effective date of section 5103(b) of this title for any regulation or standard about any of those subjects that the Secretary prescribes. The effective date may not be earlier than 90 days after the Secretary prescribes the regulation or standard nor later than the last day of the 2-year period beginning on the date the Secretary prescribes the regulation or standard.
 
 (3) If a State, political subdivision of a State, or Indian tribe imposes a fine or penalty the Secretary decides is appropriate for a violation related to a subject referred to in paragraph (1) of this subsection, an additional fine or penalty may not be imposed by any other authority.
 
@@ -40,7 +40,7 @@ Regulations.—(1) Except as provided in paragraph (2) of this subsection, after
 
 (d)
 
-Decisions on Preemption.—(1) A person (including a State, political subdivision of a State, or Indian tribe) directly affected by a requirement of a State, political subdivision, or tribe may apply to the Secretary, as provided by regulations prescribed by the Secretary, for a decision on whether the requirement is preempted by subsection (a), (b)(1), or (c) of this section. The Secretary shall publish notice of the application in the Federal Register. The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made. After notice is published, an applicant may not seek judicial relief on the same or substantially the same issue until the Secretary takes final action on the application or until 180 days after the application is filed, whichever occurs first.
+Decisions on Preemption.—(1) A person (including a State, political subdivision of a State, or Indian tribe) directly affected by a requirement of a State, political subdivision, or tribe may apply to the Secretary, as provided by regulations prescribed by the Secretary, for a decision on whether the requirement is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(e). The Secretary shall publish notice of the application in the Federal Register. The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made. After notice is published, an applicant may not seek judicial relief on the same or substantially the same issue until the Secretary takes final action on the application or until 180 days after the application is filed, whichever occurs first.
 
 (2) After consulting with States, political subdivisions of States, and Indian tribes, the Secretary shall prescribe regulations for carrying out paragraph (1) of this subsection.
 
@@ -48,7 +48,7 @@ Decisions on Preemption.—(1) A person (including a State, political subdivisio
 
 (e)
 
-Waiver of Preemption.—A State, political subdivision of a State, or Indian tribe may apply to the Secretary for a waiver of preemption of a requirement the State, political subdivision, or tribe acknowledges is preempted by subsection (a), (b)(1), or (c) of this section. Under a procedure the Secretary prescribes by regulation, the Secretary may waive preemption on deciding the requirement—
+Waiver of Preemption.—A State, political subdivision of a State, or Indian tribe may apply to the Secretary for a waiver of preemption of a requirement the State, political subdivision, or tribe acknowledges is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(b). Under a procedure the Secretary prescribes by regulation, the Secretary may waive preemption on deciding the requirement—
 
 &emsp;(1) provides the public at least as much protection as do requirements of this chapter and regulations prescribed under this chapter; and
 
@@ -56,11 +56,7 @@ Waiver of Preemption.—A State, political subdivision of a State, or Indian tri
 
 (f)
 
-Judicial Review.—A party to a proceeding under subsection (d) or (e) of this section may bring a civil action in an appropriate district court of the United States for judicial review of the decision of the Secretary not later than 60 days after the decision becomes final.
-
-(g)
-
-Fees.—(1) A State, political subdivision of a State, or Indian tribe may impose a fee related to transporting hazardous material only if the fee is fair and used for a purpose related to transporting hazardous material, including enforcement and planning, developing, and maintaining a capability for emergency response.
+Fees.—(1) A State, political subdivision of a State, or Indian tribe may impose a fee related to transporting hazardous material only if the fee is fair and used for a purpose related totransporting hazardous material, including enforcement and planning, developing, and maintaining a capability for emergency response.
 
 (2) A State or political subdivision thereof or Indian tribe that levies a fee in connection with the transportation of hazardous materials shall, upon the Secretary's request, report to the Secretary on—
 
@@ -72,7 +68,15 @@ Fees.—(1) A State, political subdivision of a State, or Indian tribe may impos
 
 &emsp;(D) such other matters as the Secretary requests.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320.)
+(g)
+
+Application of Each Preemption Standard.—Each standard for preemption in subsection (b), (c)(1), or (d), and in section 5119(b), is independent in its application to a requirement of a State, political subdivision of a State, or Indian tribe.
+
+(h)
+
+Non-Federal Enforcement Standards.—This section does not apply to any procedure, penalty, required mental state, or other standard utilized by a State, political subdivision of a State, or Indian tribe to enforce a requirement applicable to the transportation of hazardous material.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320; Pub. L. 109–59, title VII, §§7122, 7123(a), 7126, Aug. 10, 2005, 119 Stat. 1907, 1909.)
 
 Historical and Revision Notes
 
@@ -137,6 +141,24 @@ In subsection (f), the words “may bring a civil action for judicial review” 
 This amends 49:5125(a) and (b)(1) to clarify the restatement of 49 App.:1804(a)(4) and 1811(a) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 781).
 
 #### Amendments
+
+2005—Subsec. (b)(1)(E). Pub. L. 109–59, §7122(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “the design, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing of a packaging or a container represented, marked, certified, or sold as qualified for use in transporting hazardous material.”
+
+Subsec. (b)(2). Pub. L. 109–59, §7126, substituted “If the Secretary” for “If the Secretary of Transportation”.
+
+Pub. L. 109–59, §7122(a)(2), substituted “subjects that the Secretary prescribes. The” for “subjects that the Secretary prescribes after November 16, 1990. However, the”.
+
+Subsec. (d)(1). Pub. L. 109–59, §7122(b), inserted “or section 5119(e)” before period at end of first sentence.
+
+Subsec. (e). Pub. L. 109–59, §7122(c), inserted “or section 5119(b)” before period at end of first sentence.
+
+Subsec. (f). Pub. L. 109–59, §7123(a), redesignated subsec. (g) as (f), realigned margins, and struck out heading and text of former subsec. (f). Text read as follows: “A party to a proceeding under subsection (d) or (e) of this section may bring a civil action in an appropriate district court of the United States for judicial review of the decision of the Secretary not later than 60 days after the decision becomes final.”
+
+Subsec. (g). Pub. L. 109–59, §7123(a)(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Subsecs. (h), (i). Pub. L. 109–59, §7123(a)(2), redesignated subsecs. (h) and (i) as (g) and (h), respectively.
+
+Pub. L. 109–59, §7122(d), added subsecs. (h) and (i).
 
 2002—Subsecs. (a), (b)(1). Pub. L. 107–296 substituted “chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security” for “chapter or a regulation prescribed under this chapter” wherever appearing.
 

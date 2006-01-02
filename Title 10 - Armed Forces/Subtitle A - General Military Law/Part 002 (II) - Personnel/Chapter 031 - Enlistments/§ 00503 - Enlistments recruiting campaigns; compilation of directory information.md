@@ -28,7 +28,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).
 
-(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local education <sup>1</sup> agency shall notify parents of the rights provided under the preceding sentence.
+(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
@@ -74,13 +74,15 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 Directory Information Defined.—In this section, the term “directory information” has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(1)(B). Pub. L. 108–375 substituted “educational” for “education” after “Each local”.
 
 2003—Subsec. (c)(5). Pub. L. 108–136, §543(a), substituted “apply to a private secondary school that” for “apply to—
 
@@ -90,7 +92,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1
 
 Subsec. (c)(6)(A)(i). Pub. L. 108–136, §543(b), substituted “9101” and “7801” for “14101” and “8801”, respectively.
 
-2001—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows:“Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+2001—Subsec. (c). Pub. L. 107–107, §544(a), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
 Subsec. (c)(6)(A)(i). Pub. L. 107–107, §1048(a)(5)(A), substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
 
@@ -128,7 +130,71 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Sta
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Recruitment and Enlistment of Home-Schooled Students in the Armed Forces
+
+Pub. L. 109–163, div. A, title V, §591, Jan. 6, 2006, 119 Stat. 3280, provided that:
+
+“(a)
+
+Policy on Recruitment and Enlistment.—
+
+&emsp;“(1)
+
+Policy required.—The Secretary of Defense shall prescribe a policy on the recruitment and enlistment of home-schooled students in the Armed Forces.
+
+&emsp;“(2)
+
+Uniformity across the armed forces.—The Secretary shall ensure that the policy prescribed under paragraph (1) applies, to the extent practicable, uniformly across the Armed Forces.
+
+“(b)
+
+Elements.—The policy under subsection (a) shall include the following:
+
+&emsp;“(1) An identification of a graduate of home schooling for purposes of recruitment and enlistment in the Armed Forces that is in accordance with the requirements described in subsection (c).
+
+&emsp;“(2) A communication plan to ensure that the policy described in subsection (c) is understood by recruiting officials of all the Armed Forces, to include field recruiters at the lowest level of command.
+
+&emsp;“(3) An exemption of graduates of home schooling from the requirement for a secondary school diploma or an equivalent (GED) as a precondition for enlistment in the Armed Forces.
+
+“(c)
+
+Home School Graduates.—In prescribing the policy under subsection (a), the Secretary of Defense shall prescribe a single set of criteria to be used by the Armed Forces in determining whether an individual is a graduate of home schooling. The Secretary concerned shall ensure compliance with education credential coding requirements.
+
+“(d)
+
+Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given such term in section 101(a)(9) of title 10, United States Code.”
+
+#### Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients
+
+Pub. L. 108–375, div. A, title V, §593, Oct. 28, 2004, 118 Stat. 1934, provided that:
+
+“(a)
+
+Enhanced Screeing \[sic\]
+
+Methods and Process Improvements.—(1) The Secretary of the Army shall carry out an initiative—
+
+&emsp;“(A) to develop screening methods and process improvements for recruiting specified GED recipients so as to achieve attrition patterns, among the GED recipients so recruited, that match attrition patterns for Army recruits who are high school diploma graduates; and
+
+&emsp;“(B) subject to subsection (b), to implement such screening methods and process improvements on a test basis.
+
+“(2) For purposes of this section, the term ‘specified GED recipients’ means persons who receive a General Educational Development (GED) certificate as a result of home schooling or the completion of a program under the National Guard Challenge program.
+
+“(b)
+
+Secretary of Defense Review.—Before the screening methods and process improvements developed under subsection (a)(1) are put into effect under subsection (a)(2), the Secretary of Defense shall review the proposed screening methods and process improvements. Based on such review, the Secretary of Defense either shall approve the use of such screening methods and process improvements for testing (with such modifications as the Secretary may direct) or shall disapprove the use of such methods and process improvements on a test basis.
+
+“(c)
+
+Secretary of Defense Decision.—If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should be implemented on a test basis, then upon completion of the test period, the Secretary of Defense shall, after reviewing the results of the test program, determine whether the new screening methods and process improvements developed by the Army should be extended throughout the Department for recruit candidates identified by the new procedures to be considered tier 1 recruits.
+
+“(d)
+
+Reports.—(1) If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should not be implemented on a test basis, the Secretary of Defense shall, not later than 90 days thereafter, notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of such determination, together with the reasons of the Secretary for such determination.
+
+“(2) If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should be implemented on a test basis, the Secretary of the Army shall submit to the committees specified in paragraph (1) a report on the results of the testing. The report shall be submitted not later than March 31, 2009, except that if the Secretary of Defense directs an earlier termination of the testing initiative, the Secretary of the Army shall submit the report under this paragraph not later than 180 days after such termination. Such report shall include the determination of the Secretary of Defense under subsection (c). If that determination is that the methods and processes tested should not be extended to the other services, the report shall include the Secretary's rationale for not recommending such extension.”
 
 #### Department of Defense Joint Advertising, Market Research, and Studies Program
 
@@ -338,7 +404,7 @@ Specific Steps.—As part of those improvements, the Secretary shall take the fo
 
 &emsp;“(2) Develop a range of incentives for new recruits to participate in physical fitness programs, as well as for those recruits who improve their level of fitness while in the Delayed Entry Program, which may include access to Department of Defense military fitness facilities, and access to military medical facilities in the case of a recruit who is injured while participating in physical activities with recruiters or other military personnel.
 
-&emsp;“(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical training programs for new recruits in the Delayed Entry Program.”
+&emsp;“(3) Evaluate whether partnerships between recruiters and reserve components, or other innovative arrangements, could provide a pool of qualified personnel to assist in the conduct of physical trainingprograms for new recruits in the Delayed Entry Program.”
 
 #### Denial of Funds for Preventing ROTC Access to Campus or Federal Military Recruiting on Campus; Exceptions
 
@@ -346,7 +412,7 @@ Pub. L. 104–208, div. A, title I, §101(e) \[title V, §514\], Sept. 30, 1996,
 
 #### Military Recruiting on Campus
 
-Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II,§206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
+Pub. L. 103–337, div. A, title V, §558, Oct. 5, 1994, 108 Stat. 2776, as amended by Pub. L. 104–324, title II, §206(a), Oct. 19, 1996, 110 Stat. 3908, which provided that no funds available to the Department of Defense or the Department of Transportation could be provided by grant or contract to any institution of higher education that had a policy of denying or preventing the Secretary of Defense or the Secretary of Transportation from obtaining for military recruiting purposes entry to campuses or access to students on campuses or access to directory information pertaining to students, was repealed and restated in section 983 of this title by Pub. L. 106–65, div. A, title V, §549(a)(1), (b)(1), Oct. 5, 1999, 113 Stat. 609, 611.
 
 #### Military Recruiting Information
 
@@ -363,6 +429,4 @@ Pub. L. 96–342, title III, §302(d), Sept. 8, 1980, 94 Stat. 1083, provided th
 &emsp;“(1) that secondary educational institutions in the United States, the Commonwealth of Puerto Rico, and the territories of the United States should cooperate with the Armed Forces by allowing recruiting personnel access to such institutions; and
 
 &emsp;“(2) that it is appropriate for such institutions to release to the Armed Forces information regarding students at such institutions (including such data as names, addresses, and education levels) which is relevant to recruiting individuals for service in the Armed Forces.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “educational”.</i>
 

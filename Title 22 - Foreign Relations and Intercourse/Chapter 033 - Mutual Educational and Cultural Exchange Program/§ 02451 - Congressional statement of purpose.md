@@ -6,7 +6,7 @@ The purpose of this chapter is to enable the Government of the United States to 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
@@ -94,7 +94,7 @@ Compensation.—Members of the Advisory Committee shall be allowed travel expens
 
 “(h)
 
-Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App.U.S.C.\] shall not apply to the Advisory Committee to the extent that the provisions of this section are inconsistent with that Act.
+Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App. U.S.C.\] shall not apply to the Advisory Committee to the extent that the provisions of this section are inconsistent with that Act.
 
 “(i)
 

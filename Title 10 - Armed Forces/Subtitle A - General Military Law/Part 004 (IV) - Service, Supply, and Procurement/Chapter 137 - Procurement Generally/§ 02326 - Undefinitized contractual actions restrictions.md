@@ -114,7 +114,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Limitation on Use of Funds for Undefinitized Contractual Actions; Oversight by Inspector General; Waiver Authority
 
-Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div.D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
+Section 101(c) \[title X, §908(a)–(c), (e)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 908(a)–(c), (e) of title IX, formerly title IV, of Pub. L. 99–661; renumbered title IX and amended by Pub. L. 100–26, §§3(5), 5(2), Apr. 21, 1987, 101 Stat. 273, 274; Pub. L. 104–106, div. D, title XLIII, §4322(b)(2), Feb. 10, 1996, 110 Stat. 677, provided that:
 
 “(a)
 
@@ -132,7 +132,7 @@ Limitation on Use of Funds for Undefinitized Contractual Actions.—(1) On the l
 
 &emsp;“(A) shall, not later than the end of the 45-day period beginning on the first day following the six-month period, submit to the defense committees an unclassified report concerning—
 
-&emsp;&emsp;“(i) the amount of funds obligated for contractual actions under the jurisdiction of the Secretary that were entered into during the six-month period with respect to which the report is submitted; and
+&emsp;&emsp;“(i) the amount of funds obligated for contractual actions under the jurisdiction of the Secretary thatwere entered into during the six-month period with respect to which the report is submitted; and
 
 &emsp;&emsp;“(ii) the amount of such funds obligated for undefinitized contractual actions; and
 

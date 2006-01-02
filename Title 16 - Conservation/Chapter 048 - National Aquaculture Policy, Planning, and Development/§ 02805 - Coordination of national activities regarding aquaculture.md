@@ -68,5 +68,5 @@ Executive Order 12039, dated February 24, 1978, referred to in subsec. (a), is E
 
 1985—Subsec. (a)(1). Pub. L. 99–198, §1736(1), inserted “, who shall be the permanent chairman of the coordinating group”.
 
-Subsecs. (c) to (f). Pub. L. 99–198, §1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to (f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c) of this section” for “subsection (d) of this section”.
+Subsecs. (c) to (f). Pub. L. 99–198, §1736(2)–(4), struck out subsec. (c) which provided that each of the Secretaries or their designees, on such rotating basis as determined by the Director, shall serve as the chairman of the coordinating group, with the term of office of the chairman set at two years, redesignated subsecs. (d) to\(f) as (c) to (e), respectively, and in subsec. (e), as redesignated, substituted “subsection (c) of this section” for “subsection (d) of this section”.
 

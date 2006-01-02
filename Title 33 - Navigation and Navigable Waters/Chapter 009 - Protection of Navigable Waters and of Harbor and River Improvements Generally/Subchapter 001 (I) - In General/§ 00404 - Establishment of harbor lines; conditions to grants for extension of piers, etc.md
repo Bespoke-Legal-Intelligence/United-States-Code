@@ -10,7 +10,7 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 #### Prior Provisions
 
-This section and section 406 of this title, superseded act Aug. 11, 1888, ch. 860, §12, 25 Stat. 425, as amended by act Sept. 19, 1890, ch. 907, §12, 26 Stat. 455, which authorized the establishment of harbor lines, and prescribed a penalty for a violation of the section or any rule made in pursuance of it.
+This section and section 406 of this title, superseded act Aug. 11, 1888, ch. 860, §12, 25 Stat. 425, as amendedby act Sept. 19, 1890, ch. 907, §12, 26 Stat. 455, which authorized the establishment of harbor lines, and prescribed a penalty for a violation of the section or any rule made in pursuance of it.
 
 Section also superseded act Aug. 18, 1894, ch. 299, §9, 28 Stat. 364, which contained provisions for compensation for tide water displaced similar to the proviso in this section.
 

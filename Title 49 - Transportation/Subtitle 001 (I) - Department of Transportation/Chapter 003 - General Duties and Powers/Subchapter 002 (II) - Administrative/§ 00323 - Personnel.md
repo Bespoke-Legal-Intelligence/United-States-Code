@@ -4,7 +4,7 @@
 
 (b) The Secretary may procure services under section 3109 of title 5. However, an individual may be paid not more than $100 a day for services.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2423.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2423.)
 
 Historical and Revision Notes
 
@@ -48,7 +48,7 @@ In the section, the word “pay” is substituted for “compensation” for con
 
 In subsection (a), the words “In addition to the authority contained in any other Act which is transferred to and vested in the Secretary, the National Transportation Safety Board, or any other officer in the Department” before “the Secretary” and “subject to the civil service and classification laws” before “to select” in 49:1657(a) are omitted as unnecessary because of title 5, especially sections 3301, 5101, and 5331. The word “appoint” is substituted for “select, employ, appoint” because it is inclusive. The words “attorneys, and agents” after “employees” in 49:1343(d) and “including investigators, attorneys, and administrative law judges” after “employees” in 49:1657(a) are omitted as included in “officers and employees”. The words “of the Department of Transportation” are substituted for “as are necessary to carry out the provisions of this chapter” for consistency.
 
-The text of 49:1343(d) (words after 1st comma) is omitted because of section 414(a)(1)(B) of the Civil Service Reform Act of 1978 (Pub. L. 95–454, 92 Stat. 1177). The text of 49:1343(f) is omitted because of section 414(a)(2)(A) of that Act.
+The text of 49:1343(d) (words after 1st comma) is omitted because of section 414(a)(1)(B) of the Civil Service Reform Act of 1978 (Pub. L. 95–454, 92 Stat. 1177). Thetext of 49:1343(f) is omitted because of section 414(a)(2)(A) of that Act.
 
 In subsection (b), the word “procure” is substituted for “obtain” to conform to 5:3109. The words “unless otherwise specified in an appropriation Act” after “individuals” in 49:1657(b) are omitted as surplus.
 

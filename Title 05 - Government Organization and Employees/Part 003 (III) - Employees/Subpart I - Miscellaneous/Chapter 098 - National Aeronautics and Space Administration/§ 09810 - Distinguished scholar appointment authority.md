@@ -20,7 +20,7 @@
 
 &emsp;(2) with respect to a position at the GS–9 level, the individual—
 
-&emsp;&emsp;(A) received, within 2 years before the effective date of the appointment, from an accredited institution authorized to grant graduate degrees, a graduate degree in afield of study for which possession of that degree meets the qualification standards at this grade level as prescribed by the Office of Personnel Management for the position to which the individual is being appointed; and
+&emsp;&emsp;(A) received, within 2 years before the effective date of the appointment, from an accredited institution authorized to grant graduate degrees, a graduate degree in a field of study for which possession of that degree meets the qualification standards at this grade level as prescribed by the Office of Personnel Management for the position to which the individual is being appointed; and
 
 &emsp;&emsp;(B) achieved a cumulative grade point average of 3.5 or higher on a 4.0 scale in graduate coursework in the field of study required for the position;
 

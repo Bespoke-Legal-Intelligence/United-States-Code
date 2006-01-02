@@ -14,7 +14,7 @@ Pub. L. 105–178, title I, §1214(c), June 9, 1998, 112 Stat. 205, provided tha
 
 “(1)
 
-In general.—The Secretary shall allocate to the Secretary of the Interior amounts made available by this subsection for the planning, design, and construction of a visitor center, and such other related facilities as may be necessary, to facilitate visitor understanding and enjoyment of the scenic, historic, cultural, and recreational resources of the New River Gorge National River in the State of West Virginia. The center and related facilities shall be located at a site for which title is held by the United States in the vicinity of the I–64 Sandstone intersection.
+In general.—The Secretary shall allocate to the Secretary of the Interior amounts made available by this subsection for the planning, design, and construction of a visitor center, and such other related facilities as may be necessary, to facilitate visitor understanding and enjoyment of the scenic, historic, cultural, and recreational resources of the New River Gorge National River in the State of West Virginia. The center and related facilities shall be located at a site for which titleis held by the United States in the vicinity of the I–64 Sandstone intersection.
 
 “(2)
 

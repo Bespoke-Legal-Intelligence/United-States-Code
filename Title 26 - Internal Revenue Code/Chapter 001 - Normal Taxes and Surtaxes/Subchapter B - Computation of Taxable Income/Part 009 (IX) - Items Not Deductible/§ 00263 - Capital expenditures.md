@@ -18,9 +18,15 @@ No deduction shall be allowed for—
 
 &emsp;&emsp;(F) expenditures for tertiary injectants with respect to which a deduction is allowed under section 193; <sup>1</sup>
 
-&emsp;&emsp;(G) expenditures for which a deduction is allowed under section 179; <sup>1</sup> or
+&emsp;&emsp;(G) expenditures for which a deduction is allowed under section 179; <sup>1</sup>
 
-&emsp;&emsp;(H) expenditures for which a deduction is allowed under section 179A.
+&emsp;&emsp;(H) expenditures for which a deduction is allowed under section 179A,
+
+&emsp;&emsp;(I) expenditures for which a deduction is allowed under section 179B,
+
+&emsp;&emsp;(J) expenditures for which a deduction is allowed under section 179C, or
+
+&emsp;&emsp;(K) expenditures for which a deduction is allowed under section 179D.
 
 &emsp;(2) Any amount expended in restoring property or in making good the exhaustion thereof for which an allowance is or has been made.
 
@@ -60,7 +66,7 @@ In the case of a domestic common carrier by rail (including a railroad switching
 
 &emsp;&emsp;&emsp;(i) the amount of interest (including original issue discount) includible in gross income for the taxable year with respect to the property described in subparagraph (A),
 
-&emsp;&emsp;&emsp;(ii) any amount treated as ordinary income under section 1271(a)(3)(A), 1278, or 1281(a) with respect to such property for the taxable year,
+&emsp;&emsp;&emsp;(ii) any amount treated as ordinary income under section 1271(a)(3)(A), 1276, or 1281(a) with respect to such property for the taxable year,
 
 &emsp;&emsp;&emsp;(iii) the excess of any dividends includible in gross income with respect to such property for the taxable year over the amount of any deduction allowable with respect to such dividends under section 243, 244, or 245, and
 
@@ -142,9 +148,17 @@ In the case of intangible drilling and development costs paid or incurred with r
 
 > This subsection shall not apply to costs paid or incurred with respect to a nonproductive well.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 86–779, §6(c), Sept. 14, 1960, 74 Stat. 1001; Pub. L. 87–834, §21(b), Oct. 16, 1962, 76 Stat. 1064; Pub. L. 88–563, §4, Sept. 2, 1964, 78 Stat. 845; Pub. L. 89–243,§4(p)(1), (2), Oct. 9, 1965, 79 Stat. 964; Pub. L. 91–172, title VII, §706(a), Dec. 30, 1969, 83 Stat. 674; Pub. L. 92–178, title I, §109(b), (c), Dec. 10, 1971, 85 Stat. 509; Pub. L. 94–455, title XVII, §1701(a), title XIX, §§1904(b)(10)(A)(i), 1906(b)(13)(A), title XXI, §2122(b)(2), Oct. 4, 1976, 90 Stat. 1759, 1817, 1834, 1915; Pub. L. 95–618, title IV, §402(a), Nov. 9, 1978, 92 Stat. 3201; Pub. L. 96–223, title II, §251(a)(2)(B), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§201(c), 202(d)(1), title V, §502, Aug. 13, 1981, 95 Stat. 219, 221, 327; Pub. L. 97–248, title II, §204(c)(1), Sept. 3, 1982, 96 Stat. 426; Pub. L. 97–448, title I, §105(b)(1), title III, §306(a)(9)(A), Jan. 12, 1983, 96 Stat. 2385, 2403; Pub. L. 98–369, div. A, title I, §§56(a), 102(e)(7), (8), July 18, 1984, 98 Stat. 573, 624, 625; Pub. L. 99–514, title IV, §§402(b)(1), 411(b)(1), title VII, §701(e)(4)(D), title XVIII, §1808(b), Oct. 22, 1986, 100 Stat. 2221, 2225, 2343, 2817; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §§11801(a)(16), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–520, 1388–558; Pub. L. 105–34, title XVI, §1604(a)(1), Aug. 5, 1997, 111 Stat. 1097.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 86–779, §6(c), Sept. 14, 1960, 74 Stat. 1001; Pub. L. 87–834, §21(b), Oct. 16, 1962, 76 Stat. 1064; Pub. L. 88–563, §4, Sept. 2, 1964, 78 Stat. 845; Pub. L. 89–243, §4(p)(1), (2), Oct. 9, 1965, 79 Stat. 964; Pub. L. 91–172, title VII, §706(a), Dec. 30, 1969, 83 Stat.674; Pub. L. 92–178, title I, §109(b), (c), Dec. 10, 1971, 85 Stat. 509; Pub. L. 94–455, title XVII, §1701(a), title XIX, §§1904(b)(10)(A)(i), 1906(b)(13)(A), title XXI, §2122(b)(2), Oct. 4, 1976, 90 Stat. 1759, 1817, 1834, 1915; Pub. L. 95–618, title IV, §402(a), Nov. 9, 1978, 92 Stat. 3201; Pub. L. 96–223, title II, §251(a)(2)(B), Apr. 2, 1980, 94 Stat. 287; Pub. L. 97–34, title II, §§201(c), 202(d)(1), title V, §502, Aug. 13, 1981, 95 Stat. 219, 221, 327; Pub. L. 97–248, title II, §204(c)(1), Sept. 3, 1982, 96 Stat. 426; Pub. L. 97–448, title I, §105(b)(1), title III, §306(a)(9)(A), Jan. 12, 1983, 96 Stat. 2385, 2403; Pub. L. 98–369, div. A, title I, §§56(a), 102(e)(7), (8), July 18, 1984, 98 Stat. 573, 624, 625; Pub. L. 99–514, title IV, §§402(b)(1), 411(b)(1), title VII, §701(e)(4)(D), title XVIII, §1808(b), Oct. 22, 1986, 100 Stat. 2221, 2225, 2343, 2817; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, §§11801(a)(16), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–520, 1388–558; Pub. L. 105–34, title XVI, §1604(a)(1), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–311, title IV, §408(a)(10), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 108–357, title III, §338(b)(1), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §§1323(b)(2), 1331(b)(4), Aug. 8, 2005, 119 Stat. 1015, 1024.)
 
 #### Amendments
+
+2005—Subsec. (a)(1)(J). Pub. L. 109–58, §1323(b)(2), added subpar. (J).
+
+Subsec. (a)(1)(K). Pub. L. 109–58, §1331(b)(4), added subpar. (K).
+
+2004—Subsec. (a)(1)(I). Pub. L. 108–357 added subpar. (I).
+
+Subsec. (g)(2)(B)(ii). Pub. L. 108–311 substituted “1276” for “1278”.
 
 1997—Subsec. (a)(1)(H). Pub. L. 105–34 added subpar. (H).
 
@@ -211,6 +225,16 @@ Subsec. (d). Pub. L. 89–243, §4(p)(2), added subsec. (d).
 1962—Subsec. (a)(1)(E). Pub. L. 87–834 added subpar. (E).
 
 1960—Subsec. (a)(1)(D). Pub. L. 86–779 added subpar. (D).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by section 1323(b)(2) of Pub. L. 109–58 applicable to properties placed in service after Aug. 8,2005, see section 1323(c) of Pub. L. 109–58, set out as an Effective Date note under section 179C of this title.
+
+Amendment by section 1331(b)(4) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -302,7 +326,7 @@ Section 4(q) of Pub. L. 89–243 provided in part that: “Except as otherwise s
 
 #### Effective Date of 1962 Amendment
 
-Section 21(d) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 182of this title and amending this section\] shall apply with respect to taxable years beginning after December 31, 1962.”
+Section 21(d) of Pub. L. 87–834 provided that: “The amendments made by this section \[enacting section 182 of this title and amending this section\] shall apply with respect to taxable years beginning after December 31, 1962.”
 
 #### Effective Date of 1960 Amendment
 
@@ -318,7 +342,7 @@ Section 1(a) of Pub. L. 88–563 provided that: “This Act \[enacting sections 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -327,10 +351,6 @@ For applicability of amendment by section 701(e)(4)(D) of Pub. L. 99–514 notwi
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 43, 57, 59, 173, 193, 263A, 291, 312, 475, 707, 1092, 1256, 1258 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

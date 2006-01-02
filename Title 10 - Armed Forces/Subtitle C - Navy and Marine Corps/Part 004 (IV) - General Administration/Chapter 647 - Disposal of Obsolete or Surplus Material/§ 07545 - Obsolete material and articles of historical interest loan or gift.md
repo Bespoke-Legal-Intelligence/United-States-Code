@@ -4,7 +4,7 @@
 
 Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give, without expense to the United States, items described in subsection (b) that are not needed by the Department of the Navy to any of the following:
 
-&emsp;(1) A State, Territory, Commonwealth, or possession of the United States, or political subdivision or municipal corporation thereof.
+&emsp;(1) A State, Commonwealth, or possession of the United States, or political subdivision or municipal corporation thereof.
 
 &emsp;(2) The District of Columbia.
 
@@ -52,7 +52,7 @@ Alternative Authorities To Make Gifts or Loans.—If any disposition is authoriz
 
 Authority To Transfer a Portion of a Vessel.—The Secretary may lend, give, or otherwise transfer any portion of the hull or superstructure of a vessel stricken from the Naval Vessel Register and designated for scrapping to a qualified organization specified in subsection (a). The terms and conditions of an agreement for the transfer of a portion of a vessel under this section shall include a requirement that the transferee will maintain the material conveyed in a condition that will not diminish the historical value of the material or bring discredit upon the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443; Pub. L. 107–107, div. A, title X, §1043(a)–(c), Dec. 28, 2001, 115 Stat. 1218, 1219; Pub. L. 107–217, §3(b)(34), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 107–314, div. A, title X, §1062(e)(2), Dec. 2, 2002, 116 Stat. 2651.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443; Pub. L. 107–107, div. A, title X, §1043(a)–(c), Dec. 28, 2001, 115 Stat. 1218, 1219; Pub. L. 107–217, §3(b)(34), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 107–314, div. A, title X, §1062(e)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -85,6 +85,8 @@ In subsection (a) the words, “ordnance material” are substituted for the wor
 Subsection (d) is added to note the existence of a later act, codified in §2572 of this title, which provides similar disposal authority, and to give effect to §2 of the Act of February 27, 1948, ch. 76, 62 Stat. 37, which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163 struck out “Territory,” after “A State,”.
 
 2002—Subsec. (c). Pub. L. 107–217, as amended by Pub. L. 107–314, substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
 
@@ -119,8 +121,4 @@ Pub. L. 107–314, div. A, title X, §1062(e), Dec. 2, 2002, 116 Stat. 2651, pro
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7316, 7546 of this title.
 

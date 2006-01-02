@@ -4,7 +4,7 @@
 
 (b) The Secretary may delegate any of the powers and duties conferred on him by sections 171 to 173 of this title to any agency or bureau of the Department of Agriculture.
 
-(c) The Secretary, with the consent of any board, commission, independent establishment, corporation, or executive department of the Government, including any field service thereof, may avail himself of the use of information, services, facilities, officers and employees thereof, in carrying out the provisions of sections 171 to 173 of this title.
+(c) The Secretary, with the consent of any board, commission, independent establishment, corporation, or executive department of theGovernment, including any field service thereof, may avail himself of the use of information, services, facilities, officers and employees thereof, in carrying out the provisions of sections 171 to 173 of this title.
 
 (d) The Secretary may allot to bureaus and offices of the Department of Agriculture, or may transfer to such other agencies of the State and Federal Governments as may be requested by him to assist in carrying out sections 171 to 173 of this title, any funds made available to him under said sections.
 

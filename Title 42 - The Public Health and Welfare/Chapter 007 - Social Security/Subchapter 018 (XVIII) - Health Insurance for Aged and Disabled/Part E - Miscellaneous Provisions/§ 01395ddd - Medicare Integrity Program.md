@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program
 
-There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities to carry outthe activities described in subsection (b) of this section.
+There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b) of this section.
 
 #### (b) Activities described
 
@@ -236,7 +236,7 @@ Notice of overutilization.—Not later than 1 year after the date of the enactme
 
 “(7)
 
-Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means subsec.\(f)(7) of this section\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
+Payment audits.—Section 1893A(f)(7) \[1893(f)(7)\] of the Social Security Act \[probably means subsec. (f)(7) of this section\], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
 
 “(8)
 

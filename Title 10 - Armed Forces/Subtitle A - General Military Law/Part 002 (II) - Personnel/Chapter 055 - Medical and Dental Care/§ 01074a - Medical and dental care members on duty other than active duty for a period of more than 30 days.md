@@ -128,7 +128,3 @@ Section 631(c) of Pub. L. 98–525 provided that: “The amendments made by this
 
 Section 1012(c) of Pub. L. 98–94 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 204 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply only in cases of injuries incurred or aggravated on or after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1074d, 1076, 12322 of this title; title 37 section 204.
-

@@ -40,7 +40,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 1993—Subsec. (a). Pub. L. 103–66 substituted “1997” for “1995” in two places.
 
-1990—Subsec. (a). Pub. L. 101–624 substituted “1991 through 1995 crops” for “1989 and 1990 crops” and inserted “, or under any contract entered into under title XII during the 1989 through 1995 crop years,” after “(16 U.S.C. 3831 et seq.)”.
+1990—Subsec. (a). Pub. L. 101–624 substituted “1991 through 1995 crops” for “1989 and 1990 crops” and inserted “, or under any contract entered into under titleXII during the 1989 through 1995 crop years,” after “(16 U.S.C. 3831 et seq.)”.
 
 #### Effective Date of 1990 Amendment
 

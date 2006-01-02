@@ -70,7 +70,7 @@ Application Requirement.—An entity seeking a grant for a project under this se
 
 (f)
 
-Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant inthe application for the grant agrees to each of the following requirements:
+Program Requirements.—The Secretary may not make a grant for a project to an applicant under this section unless the applicant in the application for the grant agrees to each of the following requirements:
 
 &emsp;(1) To provide the services for which the grant is made at locations accessible to homeless veterans.
 
@@ -109,6 +109,10 @@ Recovery of Unused Grant Funds.—(1) If a grant recipient under this section do
 A prior section 2011 was renumbered section 4211 of this title.
 
 Another prior section 2011 was renumbered section 4102 of this title.
+
+#### Continuation of Authority
+
+Pub. L. 109–114, title II, §230, Nov. 30, 2005, 119 Stat. 2393, provided that: “The authority provided by section 2011 of title 38, United States Code, shall continue in effect through September 30, 2006.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -50,7 +50,3 @@ In subsection (a), the words “As soon as may be practicable after the effectiv
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1001, 12307, 12734 of this title.
-

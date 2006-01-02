@@ -34,7 +34,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 #### (1) Gift or bequest to organizations subject to section 507(c) tax
 
-&emsp;No gift or bequest made to an organization upon which the tax provided by section 507(c) has been imposed shall be allowed as a deduction under section 170, 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
+&emsp;No gift or bequest made to an organization upon which the tax provided by section 507(c) has been imposed shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
 
 &emsp;&emsp;(A) by any person after notification is made under section 507(a), or
 
@@ -42,7 +42,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 #### (2) Gift or bequest to taxable private foundation, section 4947 trust, etc.
 
-&emsp;No gift or bequest made to an organization shall be allowed as a deduction under section 170, 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
+&emsp;No gift or bequest made to an organization shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
 
 &emsp;&emsp;(A) to a private foundation or a trust described in section 4947 in a taxable year for which it fails to meet the requirements of subsection (e) (determined without regard to subsection (e)(2)), or
 
@@ -70,9 +70,11 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 &emsp;&emsp;(B) to any period after the termination of any judicial proceeding described in subparagraph (A) during which its governing instrument or any other instrument does not permit it to meet the requirements of paragraph (1).
 
-(Added Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 494; amended Pub. L. 94–455, title XIX, §§1901(a)(71), (b)(8)(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1794, 1834.)
+(Added Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 494; amended Pub. L. 94–455, title XIX, §§1901(a)(71), (b)(8)(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1794, 1834; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509.)
 
 #### Amendments
+
+2004—Subsec. (d)(1), (2). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),”.
 
 1976—Subsec. (a). Pub. L. 94–455, §1901(a)(71)(A), struck out last sentence providing that for purposes of paragraph (2), the time prescribed for giving notice under this subsection shall not expire before the 90th day after the day on which regulations first prescribed under this subsection become final.
 
@@ -96,6 +98,10 @@ Subsec. (e)(2)(B). Pub. L. 94–455, §1901(a)(71)(B), redesignated subpar. (C) 
 
 Subsec. (e)(2)(C). Pub. L. 94–455, §1901(a)(71)(B), redesignated subpar. (C) as (B).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1901(a)(71)(A)–(C), (b)(8)(E) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
@@ -107,8 +113,4 @@ Section effective Jan. 1, 1970, except that subsecs. (a), (b), and (c) effective
 #### Savings Provision
 
 Limits on inclusion of provisions inconsistent with subsec. (e) of this section in governing instruments, see section 101(<i>l</i>)(6) of Pub. L. 91–172, set out as a note under section 4940 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 170, 663, 681, 2055, 2522, 4947, 4948, 6104 of this title.
 

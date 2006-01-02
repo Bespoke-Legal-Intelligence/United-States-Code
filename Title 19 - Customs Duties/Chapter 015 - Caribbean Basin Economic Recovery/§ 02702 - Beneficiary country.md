@@ -14,6 +14,8 @@
 
 &emsp;(E) The terms “WTO” and “WTO member” have the meanings given those terms in section 3501 of this title.
 
+&emsp;(F) The term “former beneficiary country” means a country that ceases to be designated as a beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
+
 (2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
@@ -94,7 +96,7 @@ Virgin Islands, British
 
 > &emsp;&emsp;a United States citizen or a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of property so owned, or
 
-&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of such property, unless the President determines that—
+&emsp;&emsp;(C) has imposed or enforced taxes or other exactions, restrictive maintenance or operational conditions, or other measures with respect to property so owned, the effect of which is to nationalize, expropriate, or otherwise seize ownership or control of suchproperty, unless the President determines that—
 
 &emsp;&emsp;&emsp;(i) prompt, adequate, and effective compensation has been or is being made to such citizen, corporation, partnership, or association,
 
@@ -106,7 +108,7 @@ Virgin Islands, British
 
 &emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership or association which is 50 per centum or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
-&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverseeffect, and he reports those assurances to the Congress;
+&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, which has, or is likely to have, a significant adverse effect on United States commerce, unless the President has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverse effect, and he reports those assurances to the Congress;
 
 &emsp;(5) if a government-owned entity in such country engages in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent;
 
@@ -192,11 +194,17 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
 
-(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287.)
+(Pub. L. 98–67, title II, §212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, §9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, §621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, §402(a), (b), Aug. 2, 2005, 119 Stat. 495.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–53, title IV, §402(b), Aug. 2, 2005, 119 Stat. 495, provided that, effective on date President terminates designation of Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua as beneficiary country pursuant to section 4031(a)(3) of this title, subsec. (b) of this section is amended by striking out such country from list of countries eligible for designation as beneficiary country.</i>
+
+<i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c) and (f), was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter.
+This chapter, referred to in subsecs. (a) to (c) and (f), was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(1)(C), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
@@ -209,6 +217,8 @@ This chapter, referred to in subsec. (e)(1)(B), was in the original “this subt
 Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedules of the United States. The Tariff Schedules were replaced by the Harmonized Tariff Schedule of the United States. See References in Text note above.
 
 #### Amendments
+
+2005—Subsec. (a)(1)(F). Pub. L. 109–53, §§107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
 
 2000—Subsec. (a)(1)(D), (E). Pub. L. 106–200, §211(e)(2), added subpars. (D) and (E).
 
@@ -233,6 +243,12 @@ Subsec. (f). Pub. L. 101–382, §214, added subsec. (f).
 Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 
 1986—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
+
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
+
+Pub. L. 109–53, title IV, §402(b), Aug. 2, 2005, 119 Stat. 495, provided that the amendment made by section 402(b) is effective on date President terminates designation of Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, or Nicaragua as beneficiary country pursuant to section 4031(a)(3) of this title.
 
 #### Effective Date of 1996 Amendment
 

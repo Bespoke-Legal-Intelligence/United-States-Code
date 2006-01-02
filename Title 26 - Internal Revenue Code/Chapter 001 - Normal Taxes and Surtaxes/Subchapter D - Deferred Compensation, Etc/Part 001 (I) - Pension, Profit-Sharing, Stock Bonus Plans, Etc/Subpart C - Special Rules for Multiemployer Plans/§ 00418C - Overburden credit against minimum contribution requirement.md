@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (2) Treatment of certain withdrawals
 
-&emsp;For purposes of paragraph (1), a complete or partial withdrawal of an employer (within the meaning of part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974) does not impair a plan's eligibility for an overburden credit, unless the Secretary finds that a contribution base reduction described in paragraph (1) resulted from a transfer of liabilities to another plan in connection with the withdrawal.
+&emsp;For purposes of paragraph (1), a complete or partial withdrawal of an employer (within themeaning of part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974) does not impair a plan's eligibility for an overburden credit, unless the Secretary finds that a contribution base reduction described in paragraph (1) resulted from a transfer of liabilities to another plan in connection with the withdrawal.
 
 #### (g) Mergers
 
@@ -93,8 +93,4 @@ Notwithstanding any other provision of this section, if 2 or more multiemployer 
 #### References in Text
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (e)(2)(C), (4), and (f)(2), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Section 4022A of the Employee Retirement Income Security Act of 1974 is classified to section 1322a of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 418A, 418B of this title.
 

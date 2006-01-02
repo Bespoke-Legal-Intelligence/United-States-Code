@@ -20,9 +20,107 @@
 
 &emsp;(2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
 
-(d) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
+(d)(1) In this subsection—
 
-(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850.)
+&emsp;(A) the term “class” means all of the class members in a class action;
+
+&emsp;(B) the term “class action” means any civil action filed under rule 23 of the Federal Rules of Civil Procedure or similar State statute or rule of judicial procedure authorizing an action to be brought by 1 or more representative persons as a class action;
+
+&emsp;(C) the term “class certification order” means an order issued by a court approving the treatment of some or all aspects of a civil action as a class action; and
+
+&emsp;(D) the term “class members” means the persons (named or unnamed) who fall within the definition of the proposed or certified class in a class action.
+
+(2) The district courts shall have original jurisdiction of any civil action in which the matter in controversy exceeds the sum or value of $5,000,000, exclusive of interest and costs, and is a class action in which—
+
+&emsp;(A) any member of a class of plaintiffs is a citizen of a State different from any defendant;
+
+&emsp;(B) any member of a class of plaintiffs is a foreign state or a citizen or subject of a foreign state and any defendant is a citizen of a State; or
+
+&emsp;(C) any member of a class of plaintiffs is a citizen of a State and any defendant is a foreign state or a citizen or subject of a foreign state.
+
+(3) A district court may, in the interests of justice and looking at the totality of the circumstances, decline to exercise jurisdiction under paragraph (2) over a class action in which greater than one-third but less than two-thirds of the members of all proposed plaintiff classes in the aggregate and the primary defendants are citizens of the State in which the action was originally filed based on consideration of—
+
+&emsp;(A) whether the claims asserted involve matters of national or interstate interest;
+
+&emsp;(B) whether the claims asserted will be governed by laws of the State in which the action was originally filed or by the laws of other States;
+
+&emsp;(C) whether the class action has been pleaded in a manner that seeks to avoid Federal jurisdiction;
+
+&emsp;(D) whether the action was brought in a forum with a distinct nexus with the class members, the alleged harm, or the defendants;
+
+&emsp;(E) whether the number of citizens of the State in which the action was originally filed in all proposed plaintiff classes in the aggregate is substantially larger than the number of citizens from any other State, and the citizenship of the other members of the proposed class is dispersed among a substantial number of States; and
+
+&emsp;(F) whether, during the 3-year period preceding the filing of that class action, 1 or more other class actions asserting the same or similar claims on behalf of the same or other persons have been filed.
+
+(4) A district court shall decline to exercise jurisdiction under paragraph (2)—
+
+&emsp;(A)(i) over a class action in which—
+
+&emsp;&emsp;(I) greater than two-thirds of the members of all proposed plaintiff classes in the aggregate are citizens of the State in which the action was originally filed;
+
+&emsp;&emsp;(II) at least 1 defendant is a defendant—
+
+&emsp;&emsp;&emsp;(aa) from whom significant relief is sought by members of the plaintiff class;
+
+&emsp;&emsp;&emsp;(bb) whose alleged conduct forms a significant basis for the claims asserted by the proposed plaintiff class; and
+
+&emsp;&emsp;&emsp;(cc) who is a citizen of the State in which the action was originally filed; and
+
+&emsp;&emsp;(III) principal injuries resulting from the alleged conduct or any related conduct of each defendant were incurred in the State in which the action was originally filed; and
+
+&emsp;(ii) during the 3-year period preceding the filing of that class action, no other class action has been filed asserting the same or similar factual allegations against any of the defendants on behalf of the same or other persons; or
+
+&emsp;(B) two-thirds or more of the members of all proposed plaintiff classes in the aggregate, and the primary defendants, are citizens of the State in which the action was originally filed.
+
+(5) Paragraphs (2) through (4) shall not apply to any class action in which—
+
+&emsp;(A) the primary defendants are States, State officials, or other governmental entities against whom the district court may be foreclosed from ordering relief; or
+
+&emsp;(B) the number of members of all proposed plaintiff classes in the aggregate is less than 100.
+
+(6) In any class action, the claims of the individual class members shall be aggregated to determine whether the matter in controversy exceeds the sum or value of $5,000,000, exclusive of interest and costs.
+
+(7) Citizenship of the members of the proposed plaintiff classes shall be determined for purposes of paragraphs (2) through (6) as of the date of filing of the complaint or amended complaint, or, if the case stated by the initial pleading is not subject to Federal jurisdiction, as of the date of service by plaintiffs of an amended pleading, motion, or other paper, indicating the existence of Federal jurisdiction.
+
+(8) This subsection shall apply to any class action before or after the entry of a class certification order by the court with respect to that action.
+
+(9) Paragraph (2) shall not apply to any class action that solely involves a claim—
+
+&emsp;(A) concerning a covered security as defined under 16(f)(3) <sup>1</sup> of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) <sup>2</sup>) and section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
+
+&emsp;(B) that relates to the internal affairs or governance of a corporation or other form of business enterprise and that arises under or by virtue of the laws of the State in which such corporation or business enterprise is incorporated or organized; or
+
+&emsp;(C) that relates to the rights, duties (including fiduciary duties), and obligations relating to or created by or pursuant to any security (as defined under section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1)) and the regulations issued thereunder).
+
+(10) For purposes of this subsection and section 1453, an unincorporated association shall be deemed to be a citizen of the State where it has its principal place of business and the State under whose laws it is organized.
+
+(11)(A) For purposes of this subsection and section 1453, a mass action shall be deemed to be a class action removable under paragraphs (2) through (10) if it otherwise meets the provisions of those paragraphs.
+
+(B)(i) As used in subparagraph (A), the term “mass action” means any civil action (except a civil action within the scope of section 1711(2)) in which monetary relief claims of 100 or more persons are proposed to be tried jointly on the ground that the plaintiffs’ claims involve common questions of law or fact, except that jurisdiction shall exist only over those plaintiffs whose claims in a mass action satisfy the jurisdictional amount requirements under subsection (a).
+
+(ii) As used in subparagraph (A), the term “mass action” shall not include any civil action in which—
+
+&emsp;(I) all of the claims in the action arise from an event or occurrence in the State in which the action was filed, and that allegedly resulted in injuries in that State or in States contiguous to that State;
+
+&emsp;(II) the claims are joined upon motion of a defendant;
+
+&emsp;(III) all of the claims in the action are asserted on behalf of the general public (and not on behalf of individual claimants or members of a purported class) pursuant to a State statute specifically authorizing such action; or
+
+&emsp;(IV) the claims have been consolidated or coordinated solely for pretrial proceedings.
+
+(C)(i) Any action(s) removed to Federal court pursuant to this subsection shall not thereafter be transferred to any other court pursuant to section 1407, or the rules promulgated thereunder, unless a majority of the plaintiffs in the action request transfer pursuant to section 1407.
+
+(ii) This subparagraph will not apply—
+
+&emsp;(I) to cases certified pursuant to rule 23 of the Federal Rules of Civil Procedure; or
+
+&emsp;(II) if plaintiffs propose that the action proceed as a class action pursuant to rule 23 of the Federal Rules of Civil Procedure.
+
+(D) The limitations periods on any claims asserted in a mass action that is removed to Federal court pursuant to this subsection shall be deemed tolled during the period that the action is pending in Federal court.
+
+(e) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, §4(a), Feb. 18, 2005, 119 Stat. 9.)
 
 #### Historical and Revision Notes
 
@@ -58,9 +156,9 @@ Citizens of a State or Territory, and citizens of the District of Columbia;
 
 Citizens of a State, and foreign states or citizens or subjects thereof.
 
-The revised section removes an uncertainty referred to in the McGarry case, supra, as to whether Congressintended to permit citizens of the Territories or the District of Columbia to sue a State or Territory itself rather than the citizens thereof. The court observed that “Congress could hardly have had such intention.”
+The revised section removes an uncertainty referred to in the McGarry case, supra, as to whether Congress intended to permit citizens of the Territories or the District of Columbia to sue a State or Territory itself rather than the citizens thereof. The court observed that “Congress could hardly have had such intention.”
 
-The sentence “The foregoing provisions as to the sum or value of the matter in controversy shall not be construed to apply to any of the cases mentioned in the succeeding paragraphs of this section” was omitted as unnecessary. Those paragraphs are (2)–(28) of said section 41 of title 28, U.S.C., 1940 ed., which are revised and incorporated in this chapter and, except for those relating to actions against the United States and interpleader, contains no provision as to a sum or value necessary to confer jurisdiction. Consequently the omitted sentence is covered by excluding such requirement.
+The sentence “The foregoing provisions as to the sum or value of the matter in controversy shall not be construed to apply to any of the cases mentioned in thesucceeding paragraphs of this section” was omitted as unnecessary. Those paragraphs are (2)–(28) of said section 41 of title 28, U.S.C., 1940 ed., which are revised and incorporated in this chapter and, except for those relating to actions against the United States and interpleader, contains no provision as to a sum or value necessary to confer jurisdiction. Consequently the omitted sentence is covered by excluding such requirement.
 
 Section 41(1) of title 28, U.S.C., 1940 ed., as originally enacted, purported to include all jurisdictional provisions relating to the district courts. Subsequently, many special jurisdictional provisions were enacted and incorporated in other titles of the U.S.C., 1940 ed., as follows:
 
@@ -702,7 +800,13 @@ D.C. Code
 
 11–324
 
+#### References in Text
+
+Rule 23 of the Federal Rules of Civil Procedure, referred to in subsec. (d)(1)(B), (11)(C)(ii), is set out in the Appendix to this title.
+
 #### Amendments
+
+2005—Subsecs. (d), (e). Pub. L. 109–2 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1996—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
 
@@ -730,6 +834,10 @@ Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignate
 
 1956—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–2, §9, Feb. 18, 2005, 119 Stat. 14, provided that: “The amendments made by this Act \[enacting chapter 114 and section 1453 of this title and amending this section and sections 1335 and 1603 of this title\] shall apply to any civil action commenced on or after the date of enactment of this Act \[Feb. 18, 2005\].”
+
 #### Effective Date of 1996 Amendment
 
 Section 205(b) of Pub. L. 104–317 provided that: “The amendment made by this section \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Oct. 19, 1996\].”
@@ -753,4 +861,8 @@ Section 2 of Pub. L. 88–439 provided that: “The amendment made by this Act t
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–554 applicable only in the case of actions commenced after July 25, 1958, see section 3 of Pub. L. 85–554, set out as a note under section 1331 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “77p(f)(3)”.</i>
 

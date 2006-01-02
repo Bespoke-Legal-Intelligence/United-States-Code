@@ -6,7 +6,7 @@ Notwithstanding any authorization for appropriations for agricultural research i
 
 #### (b) Agricultural research at State agricultural experiment stations
 
-Notwithstanding any authorization for appropriations for agricultural research at State agricultural experiment stations in any Act enacted prior to September 29, 1977, there are authorized to be appropriated for the purpose of conducting agricultural research at State agricultural experiment stations pursuant to the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), such sums as may be necessary for each of fiscal years 1991 through 2007.
+Notwithstanding any authorization for appropriations for agricultural research at State agricultural experiment stations in any Act enacted prior to September 29, 1977, there are authorized to be appropriated for the purpose of conductingagricultural research at State agricultural experiment stations pursuant to the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), such sums as may be necessary for each of fiscal years 1991 through 2007.
 
 #### (c) Funding requirements for programs
 
@@ -28,7 +28,7 @@ The Native Latex Commercialization and Economic Development Act of 1978, referre
 
 2002—Subsec. (a). Pub. L. 107–171, §7113(1), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$850,000,000 for each of the fiscal years 1991 through 2002”.
 
-Subsec. (b). Pub. L. 107–171, §7113(2), substituted “such sums as may be necessary for each of fiscal years1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
+Subsec. (b). Pub. L. 107–171, §7113(2), substituted “such sums as may be necessary for each of fiscal years 1991 through 2007” for “$310,000,000 for each of the fiscal years 1991 through 2002”.
 
 1998—Subsecs. (a), (b). Pub. L. 105–185 substituted “2002” for “1997”.
 

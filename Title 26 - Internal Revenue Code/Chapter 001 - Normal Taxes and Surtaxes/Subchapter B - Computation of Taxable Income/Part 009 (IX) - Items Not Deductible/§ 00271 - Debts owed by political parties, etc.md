@@ -42,7 +42,3 @@ In the case of a taxpayer who uses an accrual method of accounting, subsection (
 
 Section 2104(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 166, 276, 527 of this title.
-

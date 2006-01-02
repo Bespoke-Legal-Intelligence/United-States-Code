@@ -40,6 +40,7 @@
 | [1512\.](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md) | Powers and duties of Department. |
 | [1513\.](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md) | Duties and powers vested in Department. |
 | [1513a.](%C2%A7%2001513a%20-%20Cost%20estimates%20for%20National%20Oceanic%20and%20Atmospheric%20Administration%20programs%20included%20in%20Department%20budget%20justification.md) | Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification. |
+| [1513b.](%C2%A7%2001513b%20-%20Cost%20estimates%20for%20National%20Institute%20of%20Standards%20and%20Technology%20construction%20projects%20included%20in%20Department%20budget%20justification.md) | Cost estimates for National Institute of Standards and Technology construction projects included in Department budget justification. |
 | [1514\.](%C2%A7%2001514%20-%20Basic%20authority%20for%20performance%20of%20certain%20functions%20and%20activities%20of%20Department.md) | Basic authority for performance of certain functions and activities of Department. |
 | [1515\.](%C2%A7%2001515%20-%20Records%2C%20etc.%2C%20of%20bureaus%20transferred%20to%20Department%20of%20Commerce.md) | Records, etc., of bureaus transferred to Department of Commerce. |
 | [1516\.](%C2%A7%2001516%20-%20Statistical%20information.md) | Statistical information. |
@@ -122,6 +123,7 @@
 - [&sect; 01512 - Powers and duties of Department](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md)
 - [&sect; 01513 - Duties and powers vested in Department](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md)
 - [&sect; 01513a - Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification](%C2%A7%2001513a%20-%20Cost%20estimates%20for%20National%20Oceanic%20and%20Atmospheric%20Administration%20programs%20included%20in%20Department%20budget%20justification.md)
+- [&sect; 01513b - Cost estimates for National Institute of Standards and Technology construction projects included in Department budget justification](%C2%A7%2001513b%20-%20Cost%20estimates%20for%20National%20Institute%20of%20Standards%20and%20Technology%20construction%20projects%20included%20in%20Department%20budget%20justification.md)
 - [&sect; 01514 - Basic authority for performance of certain functions and activities of Department](%C2%A7%2001514%20-%20Basic%20authority%20for%20performance%20of%20certain%20functions%20and%20activities%20of%20Department.md)
 - [&sect; 01515 - Records, etc., of bureaus transferred to Department of Commerce](%C2%A7%2001515%20-%20Records%2C%20etc.%2C%20of%20bureaus%20transferred%20to%20Department%20of%20Commerce.md)
 - [&sect; 01516 - Statistical information](%C2%A7%2001516%20-%20Statistical%20information.md)

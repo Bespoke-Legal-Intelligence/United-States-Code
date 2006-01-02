@@ -13,10 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 529, 1015, 2001, 2012, 2035, 2207A, 2612, 2632, 2642, 2651, 2652, 2661, 2663, 2701, 6103, 6161, 6212, 6324, 6501, 6901, 6905, 7463, 7477, 7517, 7851, 7872 of this title.
-
 
 ---
 

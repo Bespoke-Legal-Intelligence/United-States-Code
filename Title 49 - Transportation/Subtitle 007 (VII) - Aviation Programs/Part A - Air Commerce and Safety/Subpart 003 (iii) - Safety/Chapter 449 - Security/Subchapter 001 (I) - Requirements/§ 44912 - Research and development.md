@@ -12,7 +12,7 @@ Program Requirement.—(1) The Under Secretary of Transportation for Security sh
 
 &emsp;(C) seek cost-sharing agreements with those departments, agencies, and instrumentalities.
 
-(3) In carrying out the program established under this subsection, the Under Secretary shall review and consider the annual reports the Secretary of Transportation submits to Congress on transportation security and intelligence.
+(3) In carrying out the program established under this subsection, the Under Secretary shallreview and consider the annual reports the Secretary of Transportation submits to Congress on transportation security and intelligence.
 
 (4)(A) In carrying out the program established under this subsection, the Administrator shall designate an individual to be responsible for engineering, research, and development with respect to security technology under the program.
 
@@ -184,7 +184,7 @@ Funding.—To augment the programs authorized in section 44912(a)(1) of title 49
 
 &emsp;“(2) acceleration of research, development, testing, and evaluation of new screening technology for carry-on items to provide more effective means of detecting and identifying weapons, explosives, and components of weapons of mass destruction, including advanced x-ray technology;
 
-&emsp;“(3) acceleration of research, development, testing, and evaluation of threat screening technology for other categories of items being loaded onto aircraft, including cargo, catering, and duty-free items;
+&emsp;“(3) acceleration of research, development, testing, and evaluation of threat screening technology forother categories of items being loaded onto aircraft, including cargo, catering, and duty-free items;
 
 &emsp;“(4) acceleration of research, development, testing, and evaluation of threats carried on persons boarding aircraft or entering secure areas, including detection of weapons, explosives, and components of weapons of mass destruction;
 

@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after November 13, 1998, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
+&emsp;Not later than February 15, 2006, and annually thereafter for the next 14 years, the head of each Federal agency which is subject to this Act and Executive Order No. 13031 shall prepare, and submit to Congress, a report that—
 
 &emsp;&emsp;(A) summarizes the compliance by such Federal agency with the alternative fuel purchasing requirements for Federal fleets under this Act and Executive Order No. 13031; and
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) publishing the availability of the report, including such website address, in the Federal Register.
 
-(Pub. L. 102–486, title III, §310, Oct. 24, 1992, 106 Stat. 2874; Pub. L. 105–388, §8(a), Nov. 13, 1998, 112 Stat. 3481.)
+(Pub. L. 102–486, title III, §310, Oct. 24, 1992, 106 Stat. 2874; Pub. L. 105–388, §8(a), Nov. 13, 1998, 112 Stat. 3481; Pub. L. 109–58, title VII, §705, Aug. 8, 2005, 119 Stat. 817.)
 
 #### References in Text
 
@@ -51,6 +51,8 @@ Executive Order No. 13031, referred to in subsec. (b)(1), (2)(A), was Ex. Ord. N
 Subsec. (a) of this section, which required the Administrator of General Services to report biennially to Congress on the General Services Administration's alternative fueled vehicle program under the Energy Policy Act of 1992, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 173 of House Document No. 103–7.
 
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–58 substituted “February 15, 2006” for “1 year after November 13, 1998” in introductory provisions.
 
 1998—Pub. L. 105–388 substituted “Reports” for “General Services Administration report” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 

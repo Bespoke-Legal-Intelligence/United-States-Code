@@ -22,7 +22,3 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Section effective on first day of first month following October 1968, see section 207(a) of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5682, 7326 of this title; title 18 section 3051; title 31 section 9703.
-

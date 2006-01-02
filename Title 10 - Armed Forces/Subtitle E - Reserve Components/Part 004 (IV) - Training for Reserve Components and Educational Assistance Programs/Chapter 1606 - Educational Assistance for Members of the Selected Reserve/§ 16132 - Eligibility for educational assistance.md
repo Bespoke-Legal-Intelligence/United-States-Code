@@ -22,7 +22,7 @@
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–419 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “before completing initial active duty for training hascompleted the requirements of a secondary school diploma (or an equivalency certificate), or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension;”.
+2000—Subsec. (a)(2). Pub. L. 106–419 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “before completing initial active duty for training has completed the requirements of a secondary school diploma (or an equivalency certificate), or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension;”.
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “sections 16134” for “section 16134”.
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Savings Provision
 
 Section 643(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall not affect the eligibility for educational assistance of any person who before the date of the enactment of this Act \[Nov. 29, 1989\] is entitled to educational assistance under section 2131(a) \[now 16131(a)\] of title 10, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 16131, 16135 of this title.
 

@@ -40,7 +40,7 @@ Functions.—The Under Secretary shall be responsible for security in all modes 
 
 Screening Operations.—The Under Secretary shall—
 
-&emsp;(1) be responsible for day-to-day Federal security screening operations for passenger air transportation and intrastate air transportation under sections 44901 and 44935;
+&emsp;(1) be responsible for day-to-day Federal security screening operations for passenger airtransportation and intrastate air transportation under sections 44901 and 44935;
 
 &emsp;(2) develop standards for the hiring and retention of security screening personnel;
 
@@ -124,7 +124,7 @@ Management of Security Information.—In consultation with the Transportation Se
 
 (i)
 
-View of NTSB.—In taking any action under this section that could affect safety, the Under Secretary shall give great weight to the timely views of the National Transportation Safety Board.
+View of NTSB.—In taking any action under this section that could affect safety, the UnderSecretary shall give great weight to the timely views of the National Transportation Safety Board.
 
 (j)
 
@@ -206,7 +206,7 @@ Personnel Management System.—The personnel management system established by th
 
 (<i>o</i>)
 
-Acquisition Management System.—The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions of equipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.
+Acquisition Management System.—The acquisition management system established by the Administrator of the Federal Aviation Administration under section 40110 shall apply to acquisitions of equipment, supplies, and materials by the Transportation Security Administration, or, subject to the requirements of such section, the Under Secretary may make such modifications to the acquisition management system with respect to such acquisitions ofequipment, supplies, and materials as the Under Secretary considers appropriate, such as adopting aspects of other acquisition management systems of the Department of Transportation.
 
 (p)
 
@@ -379,6 +379,26 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Lease of Property to Transportation Security Administration Employees
+
+Pub. L. 109–90, title V, §514, Oct. 18, 2005, 119 Stat. 2084, provided that: “Notwithstanding section 3302 of title 31, United States Code, for fiscal year 2006 and thereafter, the Administrator of the Transportation Security Administration may impose a reasonable charge for the lease of real and personal property to Transportation Security Administration employees and for use by Transportation Security Administration employees and may credit amounts received to the appropriation or fund initially charged for operating and maintaining the property, which amounts shall be available, without fiscal year limitation, for expenditure for property management, operation, protection, construction, repair, alteration, and related activities.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–334, title V, §516, Oct. 18, 2004, 118 Stat. 1318.
+
+#### Acquisition Management System of the Transportation Security Administration
+
+Pub. L. 109–90, title V, §515, Oct. 18, 2005, 119 Stat. 2084, provided that: “For fiscal year 2006 and thereafter, the acquisition management system of the Transportation Security Administration shall apply to the acquisition of services, as well as equipment, supplies, and materials.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–334, title V, §517, Oct. 18, 2004, 118 Stat. 1318.
+
+#### Registered Traveler Program Fee
+
+Pub. L. 109–90, title V, §540, Oct. 18, 2005, 119 Stat. 2088, provided that: “For fiscal year 2006 and thereafter, notwithstanding section 553 of title 5, United States Code, the Secretary of Homeland Security shall impose a fee for any registered traveler program undertaken by the Department of Homeland Security by notice in the Federal Register, and may modify the fee from time to time by notice in the Federal Register: <i>Provided</i>, That such fees shall not exceed the aggregate costs associated with the program and shall be credited to the Transportation Security Administration registered traveler fee account, to be available until expended.”
 
 #### Enhanced Security Measures
 

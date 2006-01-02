@@ -32,7 +32,7 @@ In order to carry out the provisions of this chapter, the Center may—
 
 #### Codification
 
-Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money andFinance. See, also, page 143 of House Document No. 103–7.
+Subsection (b), which required the Center to submit an annual report to Congress on its operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 143 of House Document No. 103–7.
 
 #### Amendments
 

@@ -68,7 +68,7 @@ The Farm Credit Administration Board shall ensure that—
 
 &emsp;(1) the Office of Secondary Market Oversight has access to a sufficient number of qualified and trained employees to adequately supervise the secondary market activities of the Corporation; and
 
-&emsp;(2) the supervision of the powers, functions, and duties of the Corporation is performed, tothe extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.
+&emsp;(2) the supervision of the powers, functions, and duties of the Corporation is performed, to the extent practicable, by personnel who are not responsible for the supervision of the banks and associations of the Farm Credit System.
 
 (Pub. L. 92–181, title VIII, §8.11, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1702; amended Pub. L. 101–624, title XVIII, §1840, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–237, title V, §503(a), Dec. 13, 1991, 105 Stat. 1870; Pub. L. 102–552, title III, §308(b)(2), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–105, title I, §111, Feb. 10, 1996, 110 Stat. 165.)
 

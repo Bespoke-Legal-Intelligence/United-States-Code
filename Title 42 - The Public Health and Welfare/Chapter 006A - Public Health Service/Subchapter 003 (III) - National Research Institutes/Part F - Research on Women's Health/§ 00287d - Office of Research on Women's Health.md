@@ -96,7 +96,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) unique to, more serious, or more prevalent in women;
 
-&emsp;&emsp;(B) for which the factors of medical risk or types of medical intervention are different for women, or for which it is unknown whether such factors or types are different for women; or
+&emsp;&emsp;(B) for which the factors of medical risk or types of medical intervention are different for women, or for which it is unknownwhether such factors or types are different for women; or
 
 &emsp;&emsp;(C) with respect to which there has been insufficient clinical research involving women as subjects or insufficient clinical data on women.
 

@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Homeland security research
 
-&emsp;The term “homeland security research” means research relevant to the detection of, prevention of, protection against, response to,attribution of, and recovery from homeland security threats, particularly acts of terrorism.
+&emsp;The term “homeland security research” means research relevant to the detection of, prevention of, protection against, response to, attribution of, and recovery from homeland security threats, particularly acts of terrorism.
 
 #### (3) HSARPA
 
@@ -50,7 +50,7 @@ In this section:
 
 #### (6) Personnel
 
-&emsp;In hiring personnel for HSARPA, the Secretary shall have the hiring and management authorities described in section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note; Public Law 105–261). The term of appointments for employees under subsection (c)(1) of that section may not exceed 5 years before the granting of any extension under subsection (c)(2) of that section.
+&emsp;In hiring personnel for HSARPA, the Secretary shall have the hiring and management authorities described in section 1101 of theStrom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note; Public Law 105–261). The term of appointments for employees under subsection (c)(1) of that section may not exceed 5 years before the granting of any extension under subsection (c)(2) of that section.
 
 #### (7) Demonstrations
 

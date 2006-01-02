@@ -16,7 +16,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (3) Payments
 
-&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall be available for use by such committee in accordance with the provisions of subsection (c).
+&emsp;Upon receipt of certification from the Commission under subsection (g), the Secretary shall make payments from the appropriate account maintained under subsection (a) to the national committee of a major party or minor party which elects to receive its entitlement under this subsection. Such payments shall beavailable for use by such committee in accordance with the provisions of subsection (c).
 
 #### (4) Limitation
 
@@ -99,8 +99,4 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9009, 9012, 9037 of this title.
 

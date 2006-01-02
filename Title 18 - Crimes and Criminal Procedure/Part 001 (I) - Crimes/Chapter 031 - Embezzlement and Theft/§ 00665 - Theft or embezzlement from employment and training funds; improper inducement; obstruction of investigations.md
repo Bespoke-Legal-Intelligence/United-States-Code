@@ -1,6 +1,6 @@
 ### §665. Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations
 
-(a) Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
+(a) Whoever, being an officer, director, agent, or employee of, or connected in any capacitywith any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
 
 (b) Whoever, by threat or procuring dismissal of any person from employment or of refusal to employ or refusal to renew a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 induces any person to give up any money or thing of any value to any person (including such organization or agency receiving funds) shall be fined under this title, or imprisoned not more than 1 year, or both.
 
@@ -22,7 +22,7 @@ Section 711(a) of Pub. L. 93–203, cited as a credit to this section, was omitt
 
 2002—Subsec. (c). Pub. L. 107–273 substituted “a fine under this title” for “a fine of not more than $5,000”.
 
-1998—Subsecs. (a) to (c). Pub. L. 105–277 substituted “the Job Training Partnership Act or title I of theWorkforce Investment Act of 1998” for “the Comprehensive Employment and Training Act or the Job Training Partnership Act”.
+1998—Subsecs. (a) to (c). Pub. L. 105–277 substituted “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act or the Job Training Partnership Act”.
 
 1996—Subsec. (a). Pub. L. 104–294 substituted “$1,000” for “$100”.
 

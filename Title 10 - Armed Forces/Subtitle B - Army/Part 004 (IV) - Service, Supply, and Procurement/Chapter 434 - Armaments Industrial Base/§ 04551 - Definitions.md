@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “ARMS Initiative” means the Armament Retooling and Manufacturing Support Initiative authorized by this chapter.
 
-&emsp;(2) The term “eligible facility” means a Government-owned, contractor-operated ammunition manufacturing facility of the Department of the Army that is in an active, inactive, layaway, or caretaker status.
+&emsp;(2) The term “eligible facility” means a Government-owned, contractor-operated ammunition manufacturing facility, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition, of the Department of the Army that is in an active, inactive, layaway, or caretaker status.
 
 &emsp;(3) The term “property manager” includes any person or entity managing an eligible facility made available under the ARMS Initiative through a property management contract.
 
@@ -12,15 +12,19 @@ In this chapter:
 
 &emsp;(5) The term “Secretary” means the Secretary of the Army.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–67.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–67; amended Pub. L. 109–163, div. A, title III, §323(a), Jan. 6, 2006, 119 Stat. 3193.)
+
+#### Amendments
+
+2006—Par. (2). Pub. L. 109–163, §323(a), inserted “, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition,” after “manufacturing facility”.
 
 #### Arsenal Support Program Initiative
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §343\], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, as amended by Pub. L. 107–314, div. A, title III, §362, Dec. 2, 2002, 116 Stat. 2519, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title III, §343\], Oct. 30, 2000, 114 Stat. 1654, 1654A–65, as amended by Pub. L. 107–314, div. A, title III, §362, Dec. 2, 2002, 116 Stat. 2519; Pub. L. 108–375, div. A, title III, §342, Oct. 28, 2004, 118 Stat. 1857, provided that:
 
 “(a)
 
-Demonstration Program Required.—To help maintain the viability of the Army manufacturing arsenals and the unique capabilities of these arsenals to support the national security interests of the United States, the Secretary of the Army shall carry out a demonstration program under this section during fiscal years 2001 through 2004 at each manufacturing arsenal of the Department of the Army.
+Demonstration Program Required.—To help maintain the viability of the Army manufacturing arsenals and the unique capabilities of these arsenals to support the national security interests of the United States, the Secretary of the Army shall carry out a demonstration program under this section during fiscal years 2001 through 2008 at each manufacturing arsenal of the Department of the Army.
 
 “(b)
 
@@ -86,7 +90,7 @@ Loan Guarantees.—(1) Subject to paragraph (2), the Secretary of the Army may g
 
 &emsp;“(C) provide any other services to the Secretary of the Army to administer this subsection.
 
-“(4) An Administrator referred to in paragraph (3) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers. To the extent practicable, each Administrator shall use thesame procedures for processing loan guarantee applications under this subsection as the Administrator uses for processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
+“(4) An Administrator referred to in paragraph (3) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers. To the extent practicable, each Administrator shall use the same procedures for processing loan guarantee applications under this subsection as the Administrator uses for processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
 
 “(e)
 
@@ -102,7 +106,7 @@ Transfer of Funds.—The Secretary of the Army may transfer to an Administrator 
 
 “(g)
 
-Reporting Requirements.—(1) Not later than July 1 of each year in which a guarantee issued under subsection (d) is in effect, the Secretary of the Army shall submit to Congress a report specifying the amounts of loans guaranteed under such subsection during the preceding calendar year. No report is required after fiscal year 2004.
+Reporting Requirements.—(1) Not later than July 1 of each year in which a guarantee issued under subsection (d) is in effect, the Secretary of the Army shall submit to Congress a report specifying the amounts of loans guaranteed under such subsection during the preceding calendar year. No report is required after fiscal year 2008.
 
-“(2) Not later than July 1, 2003, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the demonstration program since its implementation, including the Secretary's views regarding the benefits of the program for Army manufacturing arsenals and the Department of the Army and the success of the program in achieving the purposes specified in subsection (b). The report shall contain a comprehensive review of contracting at the Army manufacturing arsenals covered by the program and such recommendations as the Secretary considers appropriate regarding changes to the program.”
+“(2) Not later than July 1, 2007, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the demonstration program since its implementation, including the Secretary's views regarding the benefits of the program for Army manufacturing arsenals and the Department of the Army and the success of the program in achieving the purposes specified in subsection (b). The report shall contain a comprehensive review of contracting at the Army manufacturing arsenals covered by the program and such recommendations as the Secretary considers appropriate regarding changes to the program.”
 

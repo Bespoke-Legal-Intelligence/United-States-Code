@@ -6,7 +6,7 @@ As soon as practicable after seizure of property, notice in writing shall be giv
 
 #### (b) Notice of sale
 
-The Secretary shall as soon as practicable after the seizure of the property give notice to the owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearest the place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
+The Secretary shall as soon as practicable after the seizure of the property give notice tothe owner, in the manner prescribed in subsection (a), and shall cause a notification to be published in some newspaper published or generally circulated within the county wherein such seizure is made, or if there be no newspaper published or generally circulated in such county, shall post such notice at the post office nearest the place where the seizure is made, and in not less than two other public places. Such notice shall specify the property to be sold, and the time, place, manner, and conditions of the sale thereof. Whenever levy is made without regard to the 10-day period provided in section 6331(a), public notice of sale of the property seized shall not be made within such 10-day period unless section 6336 (relating to sale of perishable goods) is applicable.
 
 #### (c) Sale of indivisible property
 
@@ -42,7 +42,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (2) Additional rules applicable to sale
 
-&emsp;The Secretary shall by regulations prescribe the manner and other conditions of the sale of property seized by levy. If one or more alternative methods or conditions are permitted byregulations, the Secretary shall select the alternatives applicable to the sale. Such regulations shall provide:
+&emsp;The Secretary shall by regulations prescribe the manner and other conditions of the sale of property seized by levy. If one or more alternative methods or conditions are permitted by regulations, the Secretary shall select the alternatives applicable to the sale. Such regulations shall provide:
 
 &emsp;&emsp;(A) That the sale shall not be conducted in any manner other than—
 
@@ -114,9 +114,5 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 #### Uniform Asset Disposal Mechanism
 
-Pub. L. 105–206, title III, §3443, July 22, 1998, 112 Stat. 762, provided that: “Not later than the date which is 2years after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary's delegate shall implement a uniform asset disposal mechanism for sales under section 6335 of the Internal Revenue Code of 1986. The mechanism should be designed to remove any participation in such sales by revenue officers of the Internal Revenue Service and should consider the use of outsourcing.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6331, 6337, 6338, 6339, 6340, 6343, 6502, 7426 of this title.
+Pub. L. 105–206, title III, §3443, July 22, 1998, 112 Stat. 762, provided that: “Not later than the date which is 2 years after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury or the Secretary's delegate shall implement a uniform asset disposal mechanism for sales under section 6335 of the Internal Revenue Code of 1986. The mechanism should be designed to remove any participation in such sales by revenue officers of the Internal Revenue Service and should consider the use of outsourcing.”
 

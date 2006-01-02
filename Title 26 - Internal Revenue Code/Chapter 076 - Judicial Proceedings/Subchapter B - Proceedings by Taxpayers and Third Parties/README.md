@@ -15,6 +15,7 @@
 | [7431\.](%C2%A7%2007431%20-%20Civil%20damages%20for%20unauthorized%20inspection%20or%20disclosure%20of%20returns%20and%20return%20information.md) | Civil damages for unauthorized inspection or disclosure of returns and return information. |
 | [7432\.](%C2%A7%2007432%20-%20Civil%20damages%20for%20failure%20to%20release%20lien.md) | Civil damages for failure to release lien. |
 | [7433\.](%C2%A7%2007433%20-%20Civil%20damages%20for%20certain%20unauthorized%20collection%20actions.md) | Civil damages for certain unauthorized collection actions. |
+| [7433A.](%C2%A7%2007433A%20-%20Civil%20damages%20for%20certain%20unauthorized%20collection%20actions%20by%20persons%20performing%20services%20under%20qualified%20tax%20collection%20contracts.md) | Civil damages for certain unauthorized collection actions by persons performing services under qualified tax collection contracts. |
 | [7434\.](%C2%A7%2007434%20-%20Civil%20damages%20for%20fraudulent%20filing%20of%20information%20returns.md) | Civil damages for fraudulent filing of information returns. |
 | [7435\.](%C2%A7%2007435%20-%20Civil%20damages%20for%20unauthorized%20enticement%20of%20information%20disclosure.md) | Civil damages for unauthorized enticement of information disclosure. |
 | [7436\.](%C2%A7%2007436%20-%20Proceedings%20for%20determination%20of%20employment%20status.md) | Proceedings for determination of employment status. |
@@ -23,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §881(b)(2), Oct. 22, 2004, 118 Stat. 1626, added item 7433A.
 
 1997—Pub. L. 105–35, §3(d)(5), Aug. 5, 1997, 111 Stat. 1106, inserted “inspection or” before “disclosure” in item 7431.
 
@@ -37,10 +40,6 @@ Pub. L. 105–34, title XIV, §1454(b)(4), Aug. 5, 1997, 111 Stat. 1057, added i
 1976—Pub. L. 94–455, title XII, §§1203(b)(2)(B), 1204(c)(13), title XIII, §1306(b)(6), Oct. 4, 1976, 90 Stat. 1690, 1699, 1719, added items 7427 to 7429 and redesignated former item 7427 as 7430.
 
 1966—Pub. L. 89–719, title I, §110(d)(1), (2), Nov. 2, 1966, 80 Stat. 1145, inserted “and Third Parties” in subchapter heading, substituted “Intervention” for “Civil action to clear title to property” in item 7424, added items 7425 and 7426, and redesignated former item 7425 as 7427.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6103 of this title.
 
 
 ---
@@ -60,6 +59,7 @@ This subchapter is referred to in section 6103 of this title.
 - [&sect; 07431 - Civil damages for unauthorized inspection or disclosure of returns and return information](%C2%A7%2007431%20-%20Civil%20damages%20for%20unauthorized%20inspection%20or%20disclosure%20of%20returns%20and%20return%20information.md)
 - [&sect; 07432 - Civil damages for failure to release lien](%C2%A7%2007432%20-%20Civil%20damages%20for%20failure%20to%20release%20lien.md)
 - [&sect; 07433 - Civil damages for certain unauthorized collection actions](%C2%A7%2007433%20-%20Civil%20damages%20for%20certain%20unauthorized%20collection%20actions.md)
+- [&sect; 07433A - Civil damages for certain unauthorized collection actions by persons performing services under qualified tax collection contracts](%C2%A7%2007433A%20-%20Civil%20damages%20for%20certain%20unauthorized%20collection%20actions%20by%20persons%20performing%20services%20under%20qualified%20tax%20collection%20contracts.md)
 - [&sect; 07434 - Civil damages for fraudulent filing of information returns](%C2%A7%2007434%20-%20Civil%20damages%20for%20fraudulent%20filing%20of%20information%20returns.md)
 - [&sect; 07435 - Civil damages for unauthorized enticement of information disclosure](%C2%A7%2007435%20-%20Civil%20damages%20for%20unauthorized%20enticement%20of%20information%20disclosure.md)
 - [&sect; 07436 - Proceedings for determination of employment status](%C2%A7%2007436%20-%20Proceedings%20for%20determination%20of%20employment%20status.md)

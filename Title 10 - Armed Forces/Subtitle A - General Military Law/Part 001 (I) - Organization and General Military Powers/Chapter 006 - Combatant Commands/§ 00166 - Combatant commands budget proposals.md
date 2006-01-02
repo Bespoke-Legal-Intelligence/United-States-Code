@@ -2,7 +2,7 @@
 
 (a)
 
-Combatant Command Budgets.—The Secretary of Defense shall include in the annualbudget of the Department of Defense submitted to Congress a separate budget proposal for such activities of each of the unified and specified combatant commands as may be determined under subsection (b).
+Combatant Command Budgets.—The Secretary of Defense shall include in the annual budget of the Department of Defense submitted to Congress a separate budget proposal for such activities of each of the unified and specified combatant commands as may be determined under subsection (b).
 
 (b)
 
@@ -29,8 +29,4 @@ SOF Training With Foreign Forces.—A funding proposal for force training under 
 #### Effective Date
 
 Section 214(d) of Pub. L. 99–433 provided that: “Section 166 of title 10, United States Code (as added by section 211 of this Act), shall take effect with budget proposals for fiscal year 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 167 of this title.
 

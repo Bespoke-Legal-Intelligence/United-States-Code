@@ -38,7 +38,3 @@ In subsection (b) the words “of the medal of honor authorized on August 8, 194
 
 Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 1121 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1074h, 6257 of this title; title 18 section 704.
-

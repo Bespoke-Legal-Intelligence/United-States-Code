@@ -6,7 +6,7 @@
 
 &emsp;(2) because disasters often disrupt the normal functioning of governments and communities, and adversely affect individuals and families with great severity;
 
-> special measures, designed to assist the efforts of the affected States in expediting the rendering of aid, assistance, and emergency services,and the reconstruction and rehabilitation of devastated areas, are necessary.
+> special measures, designed to assist the efforts of the affected States in expediting the rendering of aid, assistance, and emergency services, and the reconstruction and rehabilitation of devastated areas, are necessary.
 
 (b) It is the intent of the Congress, by this chapter, to provide an orderly and continuing means of assistance by the Federal Government to State and local governments in carrying out their responsibilities to alleviate the suffering and damage which result from such disasters by—
 
@@ -36,9 +36,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Section 605 of Pub. L. 93–288 provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–139, §1, Dec. 22, 2005, 119 Stat. 2649, provided that: “This Act \[amending section 5133 of this title and provisions set out as a note under this section\] may be cited as the ‘Predisaster Mitigation Program Reauthorization Act of 2005’.”
+
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165 to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
+Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -82,7 +86,7 @@ Pub. L. 106–390, title II, §208, Oct. 30, 2000, 114 Stat. 1571, provided that
 
 #### Study Regarding Cost Reduction
 
-Pub. L. 106–390, title II, §209, Oct. 30, 2000, 114 Stat. 1571, provided that: “Not later than 3 years after the date of the enactment of this Act \[Oct. 30, 2000\], the Director of the Congressional Budget Office shall complete a study estimating the reduction in Federal disaster assistance that has resulted and is likely to result from the enactment of this Act \[see Short Title of 2000 Amendment note above\].”
+Pub. L. 106–390, title II, §209, Oct. 30, 2000, 114 Stat. 1571, as amended by Pub. L. 109–139, §3, Dec. 22, 2005, 119 Stat. 2649, provided that: “Not later than September 30, 2007, the Director of the Congressional Budget Office shall complete a study estimating the reduction in Federal disaster assistance that has resulted and is likely to result from the enactment of this Act \[see Short Title of 2000 Amendment note above\].”
 
 #### Study of Participation by Indian Tribes in Emergency Management
 
@@ -104,7 +108,7 @@ In general.—The Director of the Federal Emergency Management Agency shall cond
 
 Required elements.—The study shall—
 
-&emsp;&emsp;“(A) survey participation by Indian tribes in training, predisaster and postdisaster mitigation, disaster preparedness, and disaster recovery programs at the Federal and State levels; and
+&emsp;&emsp;“(A) survey participation by Indian tribes in training, predisaster and postdisaster mitigation,disaster preparedness, and disaster recovery programs at the Federal and State levels; and
 
 &emsp;&emsp;“(B) review and assess the capacity of Indian tribes to participate in cost-shared emergency management programs and to participate in the management of the programs.
 
@@ -186,7 +190,7 @@ Composition.—The Commission shall be composed of 16 members. The members of th
 
 &emsp;&emsp;“(I) a person nominated by the United States Conference of Mayors and appointed by the President; and
 
-&emsp;&emsp;“(J) six persons, appointed by the Secretary of Agriculture in coordination with the Secretary of the Interior and the Secretary of the Army, who shall be representative of groups acutely affectedby drought emergencies, such as the agricultural production community, the credit community, rural and urban water associations, Native Americans, and fishing and environmental interests.
+&emsp;&emsp;“(J) six persons, appointed by the Secretary of Agriculture in coordination with the Secretary of the Interior and the Secretary of the Army, who shall be representative of groups acutely affected by drought emergencies, such as the agricultural production community, the credit community, rural and urban water associations, Native Americans, and fishing and environmental interests.
 
 &emsp;“(2)
 
@@ -234,7 +238,7 @@ Content of Study and Report.—In conducting the study and report, the Commissio
 
 &emsp;“(6) make recommendations on how Federal drought laws and programs can be better integrated with ongoing State, local, and tribal programs into a comprehensive national policy to mitigate the impacts of and respond to drought emergencies without diminishing the rights of States to control water through State law and considering the need for protection of the environment;
 
-&emsp;“(7) make recommendations on improving public awareness of the need for drought mitigation, and prevention; and response on developing a coordinated approach to drought mitigation, prevention, and response by governmental and nongovernmental entities, including academic, private, and nonprofit interests; and
+&emsp;“(7) make recommendations on improving public awareness of the need for drought mitigation, and prevention; and response on developing a coordinatedapproach to drought mitigation, prevention, and response by governmental and nongovernmental entities, including academic, private, and nonprofit interests; and
 
 &emsp;“(8) include a recommendation on whether all Federal drought preparation and response programs should be consolidated under one existing Federal agency and, if so, identify such agency.
 

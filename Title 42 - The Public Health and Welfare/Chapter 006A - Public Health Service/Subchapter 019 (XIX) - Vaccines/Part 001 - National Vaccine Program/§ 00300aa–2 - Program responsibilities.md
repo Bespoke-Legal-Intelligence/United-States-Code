@@ -12,7 +12,7 @@
 
 #### (3) Safety and efficacy testing of vaccines
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes ofHealth, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for safety and efficacy testing of vaccines carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development.
 
 #### (4) Licensing of vaccine manufacturers and vaccines
 
@@ -82,7 +82,7 @@ In General.—The Secretary of Health and Human Services, acting through the Dir
 
 “(b)
 
-Authorization of Appropriations.—For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
+Authorization of Appropriations.—For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
 
 \[Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.\]
 

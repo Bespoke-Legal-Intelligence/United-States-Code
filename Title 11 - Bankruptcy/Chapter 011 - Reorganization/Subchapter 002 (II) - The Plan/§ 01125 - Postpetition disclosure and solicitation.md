@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) “adequate information” means information of a kind, and in sufficient detail, as far as is reasonably practicable in light of the nature and history of the debtor and the condition of the debtor's books and records, that would enable a hypothetical reasonable investor typical of holders of claims or interests of the relevant class to make an informed judgment about the plan, but adequate information need not include such information about any other possible or proposed plan; and
+&emsp;(1) “adequate information” means information of a kind, and in sufficient detail, as far as is reasonably practicable in light of the nature and history of the debtor and the condition of the debtor's books and records, including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case, that would enable such a hypothetical investor of the relevant class to make an informed judgment about the plan, but adequate information need not include such information about any other possible or proposed plan and in determining whether a disclosure statement provides adequate information, the court shall consider the complexity of the case, the benefit of additional information to creditors and other parties in interest, and the cost of providing additional information; and
 
 &emsp;(2) “investor typical of holders of claims or interests of the relevant class” means investor having—
 
@@ -18,17 +18,23 @@
 
 (d) Whether a disclosure statement required under subsection (b) of this section contains adequate information is not governed by any otherwise applicable nonbankruptcy law, rule, or regulation, but an agency or official whose duty is to administer or enforce such a law, rule, or regulation may be heard on the issue of whether a disclosure statement contains adequate information. Such an agency or official may not appeal from, or otherwise seek review of, an order approving a disclosure statement.
 
-(e) A person that solicits acceptance or rejection of a plan, in good faith and in compliancewith the applicable provisions of this title, or that participates, in good faith and in compliance with the applicable provisions of this title, in the offer, issuance, sale, or purchase of a security, offered or sold under the plan, of the debtor, of an affiliate participating in a joint plan with the debtor, or of a newly organized successor to the debtor under the plan, is not liable, on account of such solicitation or participation, for violation of any applicable law, rule, or regulation governing solicitation of acceptance or rejection of a plan or the offer, issuance, sale, or purchase of securities.
+(e) A person that solicits acceptance or rejection of a plan, in good faith and in compliance with the applicable provisions of this title, or that participates, in good faith and in compliance with the applicable provisions of this title, in the offer, issuance, sale, or purchase of a security, offered or sold under the plan, of the debtor, of an affiliate participating in a joint plan with the debtor, or of a newly organized successor to the debtor under the plan, is not liable, on account of such solicitation or participation, for violation of any applicable law, rule, or regulation governing solicitation of acceptance or rejection of a plan or the offer, issuance, sale, or purchase of securities.
 
-(f) Notwithstanding subsection (b), in a case in which the debtor has elected under section 1121(e) to be considered a small business—
+(f) Notwithstanding subsection (b), in a small business case—
 
-&emsp;(1) the court may conditionally approve a disclosure statement subject to final approval after notice and a hearing;
+&emsp;(1) the court may determine that the plan itself provides adequate information and that a separate disclosure statement is not necessary;
 
-&emsp;(2) acceptances and rejections of a plan may be solicited based on a conditionally approved disclosure statement as long as the debtor provides adequate information to each holder of a claim or interest that is solicited, but a conditionally approved disclosure statement shall be mailed at least 10 days prior to the date of the hearing on confirmation of the plan; and
+&emsp;(2) the court may approve a disclosure statement submitted on standard forms approved by the court or adopted under section 2075 of title 28; and
 
-&emsp;(3) a hearing on the disclosure statement may be combined with a hearing on confirmation of a plan.
+&emsp;(3)(A) the court may conditionally approve a disclosure statement subject to final approval after notice and a hearing;
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, §509, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §217(e), Oct. 22, 1994, 108 Stat. 4127.)
+&emsp;(B) acceptances and rejections of a plan may be solicited based on a conditionally approved disclosure statement if the debtor provides adequate information to each holder of a claim or interest that is solicited, but a conditionally approved disclosure statement shall be mailed not later than 25 days before the date of the hearing on confirmation of the plan; and
+
+&emsp;(C) the hearing on the disclosure statement may be combined with the hearing on confirmation of a plan.
+
+(g) Notwithstanding subsection (b), an acceptance or rejection of the plan may be solicited from a holder of a claim or interest if such solicitation complies with applicable nonbankruptcy law and if such holder was solicited before the commencement of the case in a manner complying with applicable nonbankruptcy law.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, §509, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §217(e), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§408, 431, title VII, §717, Apr. 20, 2005, 119 Stat. 106, 109, 131.)
 
 #### Historical and Revision Notes
 
@@ -46,7 +52,7 @@ Both the kind and form of information are left essentially to the judicial discr
 
 Reporting and audit standards devised for solvent and continuing businesses do not necessarily fit a debtor in reorganization. Subsection (a)(1) expressly incorporates consideration of the nature and history of the debtor and the condition of its books and records into the determination of what is reasonably practicable to supply. These factors are particularly pertinent to historical data and to discontinued operations of no future relevance.
 
-A plan is necessarily predicated on knowledge of the assets and liabilities being dealt with and on factually supported expectations as to the future course of the business sufficient to meet the feasibility standard in section 1130(a)(11) of this title. It may thus be necessary to provide estimates or judgments for that purpose. Yet it remains practicable to describe, in such detail as may be relevant and needed, the basis for the plan and the data on which supporters of the plan rely.
+A plan is necessarily predicated on knowledge of the assets and liabilities being dealt with and on factuallysupported expectations as to the future course of the business sufficient to meet the feasibility standard in section 1130(a)(11) of this title. It may thus be necessary to provide estimates or judgments for that purpose. Yet it remains practicable to describe, in such detail as may be relevant and needed, the basis for the plan and the data on which supporters of the plan rely.
 
 Subsection (b) establishes the jurisdiction of the court over this subject by prohibiting solicitation of acceptance or rejection of a plan after the commencement of the case, unless the person solicited receives, before or at the time of the solicitation, a written disclosure statement approved by the court, after notice and hearing, as containing adequate information. As under present law, determinations of value, by appraisal or otherwise, are not required if not needed to accomplish the purpose specified in subsection (a)(1).
 
@@ -80,6 +86,20 @@ Subsection (e) is a safe harbor provision, and is necessary to make the exemptio
 
 #### Amendments
 
+2005—Subsec. (a)(1). Pub. L. 109–8, §717, inserted “including a discussion of the potential material Federal tax consequences of the plan to the debtor, any successor to the debtor, and a hypothetical investor typical of the holders of claims or interests in the case,” after “records,” and substituted “such a hypothetical investor” for “a hypothetical reasonable investor typical of holders of claims or interests”.
+
+Pub. L. 109–8, §431(1), inserted before semicolon “and in determining whether a disclosure statement provides adequate information, the court shall consider the complexity of the case, the benefit of additional information to creditors and other parties in interest, and the cost of providing additional information”.
+
+Subsec. (f). Pub. L. 109–8, §431(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b), in a case in which the debtor has elected under section 1121(e) to be considered a small business—
+
+&emsp;“(1) the court may conditionally approve a disclosure statement subject to final approval after notice and a hearing;
+
+&emsp;“(2) acceptances and rejections of a plan may be solicited based on a conditionally approved disclosure statement as long as the debtor provides adequate information to each holder of a claim or interest that is solicited, but a conditionally approved disclosure statement shall be mailed at least 10 days prior to the date of the hearing on confirmation of the plan; and
+
+&emsp;“(3) a hearing on the disclosure statement may be combined with a hearing on confirmation of a plan.”
+
+Subsec. (g). Pub. L. 109–8, §408, added subsec. (g).
+
 1994—Subsec. (f). Pub. L. 103–394 added subsec. (f).
 
 1984—Subsec. (a)(1). Pub. L. 98–353, §509(a)(1), inserted “, but adequate information need not include such information about any other possible or proposed plan”.
@@ -91,6 +111,10 @@ Subsec. (a)(2)(C). Pub. L. 98–353, §509(a)(3), inserted “of” after “hol
 Subsec. (d). Pub. L. 98–353, §509(b), inserted “required under subsection (b) of this section” and “, or otherwise seek review of,”.
 
 Subsec. (e). Pub. L. 98–353, §509(c), inserted “acceptance or rejection of a plan” after “solicits”, and “solicitation of acceptance or rejection of a plan or” after “governing”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

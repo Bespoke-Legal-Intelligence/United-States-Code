@@ -6,7 +6,7 @@ The Administrator of the Office of Federal Procurement Policy is authorized and 
 
 #### References in Text
 
-Public Law 93–400, referred to in text, is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, known asthe Office of Federal Procurement Policy Act, which is classified principally to this chapter (§401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+Public Law 93–400, referred to in text, is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, known as the Office of Federal Procurement Policy Act, which is classified principally to this chapter (§401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 #### Codification
 

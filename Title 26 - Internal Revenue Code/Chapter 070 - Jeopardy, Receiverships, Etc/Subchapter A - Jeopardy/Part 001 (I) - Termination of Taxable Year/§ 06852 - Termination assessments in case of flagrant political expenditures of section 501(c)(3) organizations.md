@@ -36,7 +36,3 @@
 
 (Added Pub. L. 100–203, title X, §10713(b)(1), Dec. 22, 1987, 101 Stat. 1330–469.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6091, 6211, 6212, 6213, 6234, 6863, 7429, 7611 of this title.
-

@@ -2,11 +2,11 @@
 
 (a) Except as otherwise prescribed by law or by the Secretary of Defense, the Army shall be divided into such commands, forces, and organizations as may be prescribed by the Secretary of the Army.
 
-(b) For Army purposes, the United States, the Territories, Commonwealths, and possessions, and other places in which the Army is stationed or is operating may be divided into such areas as may be directed by the Secretary. Officers of the Army may be assigned to command Army activities, installations, and personnel in those areas. In the discharge of the Army's functions or other functions authorized by law, officers so assigned have the duties and powers prescribed by the Secretary.
+(b) For Army purposes, the United States, the Commonwealths and possessions, and other places in which the Army is stationed or is operating may be divided into such areas as may be directed by the Secretary. Officers of the Army may be assigned to command Army activities, installations, and personnel in those areas. In the discharge of the Army's functions or other functions authorized by law, officers so assigned have the duties and powers prescribed by the Secretary.
 
 (c) Such part of the Corps of Engineers as the President directs shall be formed into tactical units organized as he prescribes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 170; Pub. L. 99–433, title V, §503, Oct. 1, 1986, 100 Stat. 1042.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 170; Pub. L. 99–433, title V, §503, Oct. 1, 1986, 100 Stat. 1042; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,8 @@ June 3, 1916, ch. 134, §11 (less 1st 41 words); restated June 4, 1920, ch. 227,
 In subsection (b), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “of America”, “other provisions”, and “so assigned” are omitted as surplusage. The word “Commonwealths” is inserted to reflect the present status of Puerto Rico.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
 1986—Subsec. (a). Pub. L. 99–433 inserted reference to Secretary of Defense.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The Director shall establish programs of training for Police Corps participants. Such programs may be carried out at up to 3 training centers established for this purpose and administered by the Director, or by contracting with existing State training facilities. The Director shall contract with a State training facility upon request of such facility if the Director determines that such facility offers a course oftraining substantially equivalent to the Police Corps training program described in this part.
+(1) The Director shall establish programs of training for Police Corps participants. Such programs may be carried out at up to 3 training centers established for this purpose and administered by the Director, or by contracting with existing State training facilities. The Director shall contract with a State training facility upon request of such facility if the Director determines that such facility offers a course of training substantially equivalent to the Police Corps training program described in this part.
 
 (2) The Director may enter into contracts with individuals, institutions of learning, and government agencies (including State and local police forces) to obtain the services of persons qualified to participate in and contribute to the training process.
 
@@ -30,7 +30,7 @@ A participant shall be evaluated during training for mental, physical, and emoti
 
 The Director shall pay participants in training sessions a stipend of $400 a week during training.
 
-(Pub. L. 103–322, title XX, §200108, Sept. 13, 1994, 108 Stat. 2054; Pub. L. 105–277, div. C, title I, §138(a), Oct. 21, 1998, 112 Stat. 2681–597; Pub. L. 107–273, div. C, title I, §11006(2), Nov. 2, 2002, 116 Stat. 1817.)
+(Pub. L. 103–322, title XX, §200108, Sept. 13, 1994, 108 Stat. 2054; Pub. L. 105–277, div. C, title I, §138(a), Oct. 21, 1998, 112 Stat. 2681–597; Pub. L.107–273, div. C, title I, §11006(2), Nov. 2, 2002, 116 Stat. 1817.)
 
 #### References in Text
 

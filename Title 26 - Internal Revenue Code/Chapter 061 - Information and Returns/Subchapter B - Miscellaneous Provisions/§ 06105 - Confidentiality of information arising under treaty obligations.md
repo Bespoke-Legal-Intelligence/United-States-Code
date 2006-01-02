@@ -68,7 +68,3 @@ Subsec. (c)(1)(C), (E). Pub. L. 107–147 struck out “any” after subpar. des
 
 Amendment by Pub. L. 107–134 applicable to disclosures made on or after Jan. 23, 2002, see section 201(d) of Pub. L. 107–134, set out as a note under section 6103 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6110 of this title.
-

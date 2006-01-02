@@ -42,7 +42,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and 6723 of this title and section 7704 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the ‘Arms Control and Nonproliferation Act of 1999’.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This title \[enacting sections 2652c and 2797b–2 of this title and section 1526 of Title 50, War and National Defense, amending sections 2577, 2593a, 2797b, 2797b–1, 2797c, and 3282 of this title, enacting provisions set out as notes under sections 2593a, 2652c, 3282, 5601, 5853, and6723 of this title and section 7704 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 2155 of Title 42\] may be cited as the ‘Arms Control and Nonproliferation Act of 1999’.”
 
 #### Short Title of 1994 Amendment
 
@@ -258,7 +258,7 @@ Reimbursement Arrangements.—Assistance provided under part B to the Soviet Uni
 
 “(b)
 
-Natural Resources, Etc.—The President shall encourage the satisfaction of such reimbursement arrangements through the provision of natural resources, such as oil and petroleum products and critical and strategic materials, and industrial goods. Materials received by the United States Government pursuant to this section that are suitable for inclusion in the Strategic Petroleum Reserve or the National Defense Stockpile may be deposited in the reserve or stockpilewithout reimbursement. Other material and services received may be sold or traded on the domestic or international market with the proceeds to be deposited in the General Fund of the Treasury.
+Natural Resources, Etc.—The President shall encourage the satisfaction of such reimbursement arrangements through the provision of natural resources, such as oil and petroleum products and critical and strategic materials, and industrial goods. Materials received by the United States Government pursuant to this section that are suitable for inclusion in the Strategic Petroleum Reserve or the National Defense Stockpile may be deposited in the reserve or stockpile without reimbursement. Other material and services received may be sold or traded on the domestic or international market with the proceeds to be deposited in the General Fund of the Treasury.
 
 #### “SEC. 223. DIRE EMERGENCY SUPPLEMENTAL APPROPRIATIONS.
 

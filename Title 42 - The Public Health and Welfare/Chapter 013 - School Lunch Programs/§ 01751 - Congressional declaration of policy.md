@@ -10,7 +10,7 @@ It is declared to be the policy of Congress, as a measure of national security, 
 
 #### Effective Date of 1989 Amendment
 
-Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
+Section 2 of Pub. L. 101–147 provided that: “Except as otherwise provided in this Act, the amendments madeby this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\].”
 
 #### Short Title of 2004 Amendment
 
@@ -38,7 +38,7 @@ Section 1(a) of Pub. L. 101–147 provided that: “This Act \[enacting sections
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–661, §4001(a), Nov. 14, 1986, 100 Stat. 4070, provided that: “This division \[div. D (§§4001–4503) of Pub. L. 99–661, amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786,1788, and 1789 of this title, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and section 1431e of Title 7, Agriculture\] may be cited as the ‘Child Nutrition Amendments of 1986’.”
+Pub. L. 99–661, §4001(a), Nov. 14, 1986, 100 Stat. 4070, provided that: “This division \[div. D (§§4001–4503) of Pub. L. 99–661, amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and section 1431e of Title 7, Agriculture\] may be cited as the ‘Child Nutrition Amendments of 1986’.”
 
 Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30, 1986, 100 Stat. 3341–362, provided that: “This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the ‘School Lunch and Child Nutrition Amendments of 1986’.”
 
@@ -68,11 +68,11 @@ Section 1 of act June 4, 1946, as amended by Pub. L. 106–78, title VII, §752(
 
 #### Local Wellness Policy
 
-Pub. L. 108–265, title II, §204, June 30, 2004, 118 Stat. 780, provided that:
+Pub. L. 108–265, title II, §204, June 30, 2004, 118 Stat. 780, as amended by Pub. L. 109–97, title VII, §776, Nov. 10, 2005, 119 Stat. 2161, provided that:
 
 “(a)
 
-In General.—Not later than the first day of the school year beginning after June 30, 2006, each local educational agency participating in a program authorized by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall establish a local school wellness policy for schools under the local educational agency that, at a minimum—
+In General.—Not later than the first day of the school year beginning after June 30, 2006, each localeducational agency participating in a program authorized by the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall establish a local school wellness policy for schools under the local educational agency that, at a minimum—
 
 &emsp;“(1) includes goals for nutrition education, physical activity, and other school-based activities that are designed to promote student wellness in a manner that the local educational agency determines is appropriate;
 
@@ -116,7 +116,7 @@ Funding.—
 
 &emsp;&emsp;“(A)
 
-In general.—On July 1, 2006, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until September 30, 2009.
+In general.—On October 1, 2005, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection $4,000,000, to remain available until September 30, 2009.
 
 &emsp;&emsp;“(B)
 

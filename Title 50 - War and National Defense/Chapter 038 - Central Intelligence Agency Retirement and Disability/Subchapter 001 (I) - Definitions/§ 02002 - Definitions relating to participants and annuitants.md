@@ -112,7 +112,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (B) Treatment of interim period between school years
 
-&emsp;&emsp;A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interimdoes not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
+&emsp;&emsp;A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim does not exceed 5 months and if the child shows to the satisfaction of the Director that the child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately following the interim.
 
 #### (3) “Dependent” defined
 

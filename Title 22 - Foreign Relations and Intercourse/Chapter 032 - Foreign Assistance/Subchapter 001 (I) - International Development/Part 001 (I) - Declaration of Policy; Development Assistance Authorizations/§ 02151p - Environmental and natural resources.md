@@ -166,7 +166,7 @@ Composition.—The Committee shall consist of international investors, lenders, 
 
 “(c)
 
-Functions.—Members of the Committee shall act as field advisers and may form specialized working groups to provide in-country training and technical assistance, and shall serve as a source of technical support to resolve barriers to project development.
+Functions.—Members of the Committee shall act as field advisers and may form specialized workinggroups to provide in-country training and technical assistance, and shall serve as a source of technical support to resolve barriers to project development.
 
 #### “SEC. 649. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -190,7 +190,7 @@ Availability of Funds.—Funds appropriated pursuant to subsection (a) are autho
 
 “(a)
 
-In General.—Except as provided in subsection (b), the authorities of this subtitle shall terminate 3years after the date of establishment of the program described in section 643.
+In General.—Except as provided in subsection (b), the authorities of this subtitle shall terminate 3 years after the date of establishment of the program described in section 643.
 
 “(b)
 

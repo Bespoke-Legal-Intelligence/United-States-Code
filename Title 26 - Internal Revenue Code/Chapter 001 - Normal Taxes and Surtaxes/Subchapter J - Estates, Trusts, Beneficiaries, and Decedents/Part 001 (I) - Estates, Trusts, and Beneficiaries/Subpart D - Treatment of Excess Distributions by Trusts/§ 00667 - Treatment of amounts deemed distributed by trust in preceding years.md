@@ -32,7 +32,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (3) Certain preceding taxable years not taken into account
 
-&emsp;For purposes of paragraph (1), if the amount of the undistributed net income deemed distributed in any preceding taxable year of the trust is less than 25 percent of the amount of the accumulation distribution divided by thenumber of preceding taxable years to which the accumulation distribution is allocated under section 666(a), the number of preceding taxable years of the trust with respect to which an amount is deemed distributed to a beneficiary under section 666(a) shall be determined without regard to such year.
+&emsp;For purposes of paragraph (1), if the amount of the undistributed net income deemed distributed in any preceding taxable year of the trust is less than 25 percent of the amount of the accumulation distribution divided by the number of preceding taxable years to which the accumulation distribution is allocated under section 666(a), the number of preceding taxable years of the trust with respect to which an amount is deemed distributed to a beneficiary under section 666(a) shall be determined without regard to such year.
 
 #### (4) Effect of other accumulation distributions
 
@@ -80,7 +80,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (B) Deduction in lieu of credit
 
-&emsp;&emsp;If the beneficiary did not choose the benefits of subpart A of part III of subchapter N with respect to the computation year, the beneficiary may in lieu of treating the amounts described in subparagraph (A) (without regard to subparagraph (C)) as a credit may treat such amounts as a deduction in computing the beneficiary's taxable income under subsection (b)(1)(C) for the computation year.
+&emsp;&emsp;If the beneficiary did not choose the benefits of subpart A of part III of subchapter Nwith respect to the computation year, the beneficiary may in lieu of treating the amounts described in subparagraph (A) (without regard to subparagraph (C)) as a credit may treat such amounts as a deduction in computing the beneficiary's taxable income under subsection (b)(1)(C) for the computation year.
 
 #### (C) Limitation on credit; retention of character
 
@@ -153,8 +153,4 @@ Section 701(h) of Pub. L. 94–455 provided that: “The amendments made by subs
 #### Effective Date of 1969 Amendment
 
 Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1968, see section 331(d) of Pub. L. 91–172, set out as a note under section 665 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 665, 668, 904 of this title.
 

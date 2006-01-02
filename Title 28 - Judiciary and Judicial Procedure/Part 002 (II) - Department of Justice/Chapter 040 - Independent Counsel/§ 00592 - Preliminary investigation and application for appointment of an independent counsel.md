@@ -72,7 +72,7 @@ Congressional Request.—
 
 &emsp;(1)
 
-By judiciary committee or members thereof.—The Committee on the Judiciary of either House of the Congress, or a majority of majority party members or a majority of all nonmajority party members of either such committee, may request in writing that the Attorney General apply for the appointment of an independent counsel.
+By judiciary committee or members thereof.—The Committee on the Judiciary of either House of the Congress, or a majority of majority party members or a majority of all nonmajority party members of either such committee, may request in writing that theAttorney General apply for the appointment of an independent counsel.
 
 &emsp;(2)
 

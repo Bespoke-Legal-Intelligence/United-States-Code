@@ -19,12 +19,11 @@
 | [607\.](%C2%A7%2000607%20-%20Agency%20boards%20of%20contract%20appeals.md) | Agency boards of contract appeals. |
 | (a) | Establishment; consultation; Tennessee Valley Authority. |
 | (b) | Appointment of members; chairman; compensation. |
-| (c) | Appeals; inter-agency arrangements. |
+| (c) | Postal Service Board of Contract Appeals. |
 | (d) | Jurisdiction. |
 | (e) | Decisions. |
 | (f) | Accelerated appeal disposition. |
 | (g) | Review. |
-| (h) | Procedural guidelines. |
 | [608\.](%C2%A7%2000608%20-%20Small%20claims.md) | Small claims. |
 | (a) | Accelerated disposition of appeals. |
 | (b) | Simplified rules of procedure. |

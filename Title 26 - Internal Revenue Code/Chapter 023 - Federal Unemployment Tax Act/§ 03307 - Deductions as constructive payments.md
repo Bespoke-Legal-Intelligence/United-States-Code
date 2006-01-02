@@ -4,7 +4,3 @@ Whenever under this chapter or any act of Congress, or under the law of any Stat
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 454.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3322 of this title.
-

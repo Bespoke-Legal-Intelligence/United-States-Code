@@ -2,7 +2,7 @@
 
 #### (a) Civil penalty for violation of mandatory health or safety standards
 
-The operator of a coal or other mine in which a violation occurs of a mandatory health or safety standard or who violates any other provision of this chapter, shall be assessed a civil penalty by the Secretary which penalty shall not be more than $50,000 for each such violation. Each occurrence of a violation of a mandatory health or safety standard may constitute a separate offense.
+The operator of a coal or other mine in which a violation occurs of a mandatory health orsafety standard or who violates any other provision of this chapter, shall be assessed a civil penalty by the Secretary which penalty shall not be more than $50,000 for each such violation. Each occurrence of a violation of a mandatory health or safety standard may constitute a separate offense.
 
 #### (b) Civil penalty for failure to correct violation for which citation has been issued
 
@@ -30,7 +30,7 @@ Any miner who willfully violates the mandatory safety standards relating to smok
 
 #### (h) Equipment falsely represented as complying with statute, specification, or regulations
 
-Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce anyequipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
+Whoever knowingly distributes, sells, offers for sale, introduces, or delivers in commerce any equipment for use in a coal or other mine, including, but not limited to, components and accessories of such equipment, which is represented as complying with the provisions of this chapter, or with any specification or regulation of the Secretary applicable to such equipment, and which does not so comply, shall, upon conviction, be subject to the same fine and imprisonment that may be imposed upon a person under subsection (f) of this section.
 
 #### (i) Authority to assess civil penalties
 

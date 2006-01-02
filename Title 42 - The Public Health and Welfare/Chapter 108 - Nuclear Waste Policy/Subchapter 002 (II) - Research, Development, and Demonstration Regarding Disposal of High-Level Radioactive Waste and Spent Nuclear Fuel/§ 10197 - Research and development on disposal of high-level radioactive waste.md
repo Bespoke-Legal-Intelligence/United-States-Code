@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-Not later than 64 months after January 7, 1983, the Secretary is authorized to, to the extent practicable, begin at a site evaluated under section 10194 of this title, as part of and as an extension of siting research activities of such site under such section, the mining and construction of a test and evaluation facility. Prior to the mining and construction of such facility, the Secretary shall prepare an environmental assessment. The purpose of such facility shall be—
+Not later than 64 months after January 7, 1983, the Secretary is authorized to, to the extentpracticable, begin at a site evaluated under section 10194 of this title, as part of and as an extension of siting research activities of such site under such section, the mining and construction of a test and evaluation facility. Prior to the mining and construction of such facility, the Secretary shall prepare an environmental assessment. The purpose of such facility shall be—
 
 &emsp;(1) to supplement and focus the repository site characterization process;
 
@@ -62,7 +62,7 @@ During the conducting of siting research activities under section 10194 of this 
 
 #### (e) Engineered barriers
 
-The system of engineered barriers and selected geology used in a test and evaluation facility shall have a design life at least as long as that which the Commission requires by regulations issued under this chapter, or under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), for repositories.
+The system of engineered barriers and selected geology used in a test and evaluation facility shall have a design life at least as long as thatwhich the Commission requires by regulations issued under this chapter, or under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), for repositories.
 
 #### (f) Role of Commission
 

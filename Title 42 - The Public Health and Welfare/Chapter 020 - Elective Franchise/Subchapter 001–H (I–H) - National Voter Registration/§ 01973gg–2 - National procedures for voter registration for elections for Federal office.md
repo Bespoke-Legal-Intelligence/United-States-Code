@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, notwithstanding any other Federal or State law, in addition to any other method of voter registration provided for under State law, each State shall establish procedures to register to vote in elections for Federal office—
+Except as provided in subsection (b) of this section, notwithstanding any other Federal orState law, in addition to any other method of voter registration provided for under State law, each State shall establish procedures to register to vote in elections for Federal office—
 
 &emsp;(1) by application made simultaneously with an application for a motor vehicle driver's license pursuant to section 1973gg–3 of this title;
 

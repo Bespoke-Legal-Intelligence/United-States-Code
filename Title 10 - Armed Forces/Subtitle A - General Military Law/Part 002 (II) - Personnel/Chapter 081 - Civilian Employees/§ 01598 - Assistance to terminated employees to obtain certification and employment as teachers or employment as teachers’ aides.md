@@ -72,7 +72,7 @@ Stipend for Participants.—(1) Except as provided in paragraph (2), the Secreta
 
 Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) through (k) of section 1151 <sup>1</sup> of this title, as in effect on October 4, 1999, shall apply with respect to the placement program authorized by this section.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amendedPub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(11)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4442(a), Oct. 23, 1992, 106 Stat. 2730; amended Pub. L. 103–35, title II, §201(h)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(2), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(3), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(14), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §576(b), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(11)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 #### References in Text
 
@@ -108,7 +108,7 @@ Pub. L. 103–160, div. A, title XIII, §1331(h), Nov. 30, 1993, 107 Stat. 1793,
 
 #### Savings Provision
 
-Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section \[amending this section and sections 1151 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section \[amending this section and sections 1151and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ In this chapter:
 
 #### (5) Advanced technology user facility
 
-&emsp;The term “advanced technology user facility” means a nanotechnology research and development facility supported, in whole or inpart, by Federal funds that is open to all United States researchers on a competitive, merit-reviewed basis.
+&emsp;The term “advanced technology user facility” means a nanotechnology research and development facility supported, in whole or in part, by Federal funds that is open to all United States researchers on a competitive, merit-reviewed basis.
 
 #### (6) Program component area
 

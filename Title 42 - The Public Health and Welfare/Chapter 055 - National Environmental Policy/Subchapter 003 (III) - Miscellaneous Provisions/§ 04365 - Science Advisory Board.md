@@ -20,7 +20,7 @@ In preparing such advice and comments, the Board shall avail itself of the techn
 
 #### (e) Member committees and investigative panels; establishment; chairmenship
 
-The Board is authorized to constitute such member committees and investigative panels asthe Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.
+The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.
 
 #### (f) Appointment and compensation of secretary and other personnel; compensation of members
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 103–437, §15(<i>o</i>)(2), struck out subsec. (d) which 
 
 Committee on Science, Space, and Technology of House of Representatives treated as referring to Committee on Science of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives byHouse Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2.
 
@@ -76,5 +76,5 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

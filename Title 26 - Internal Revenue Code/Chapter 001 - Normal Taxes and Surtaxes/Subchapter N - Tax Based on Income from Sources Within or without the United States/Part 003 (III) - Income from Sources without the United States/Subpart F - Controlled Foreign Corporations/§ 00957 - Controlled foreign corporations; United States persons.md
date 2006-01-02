@@ -24,19 +24,23 @@ For purposes of this subpart, the term “United States person” has the meanin
 
 &emsp;&emsp;(A) 80 percent or more of the gross income of which for the 3-year period ending at the close of the taxable year (or for such part of such period as such corporation or any predecessor has been in existence) was derived from sources within such a possession or was effectively connected with the conduct of a trade or business in such a possession, and
 
-&emsp;&emsp;(B) 50 percent or more of the gross income of which for such period (or part) was derived from the conduct of an active trade or business within such a possession,
+&emsp;&emsp;(B) 50 percent or more of the gross income of which for such period (or part) was derived from the active conduct of a trade or business within such a possession,
 
 > &emsp;such term does not include an individual who is a bona fide resident of Guam, American Samoa, or the Northern Mariana Islands.
 
-> For purposes of subparagraphs (A) and (B) of paragraph (2), the determination as to whether income was derived from sources within a possession, was effectively connected with the conduct of a trade or business within a possession, or derived from the active conduct of a trade or business within a possession shall be made under regulations prescribed by the Secretary.
+> For purposes of subparagraphs (A) and (B) of paragraph (2), the determination as to whether income was derived from the active conduct of a trade or business within a possession shall be made under regulations prescribed by the Secretary.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1017; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §§1221(b)(3)(C), 1222(a), 1224(a), 1273(a), Oct. 22, 1986, 100 Stat. 2553, 2556, 2558, 2595.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1017; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §§1221(b)(3)(C), 1222(a), 1224(a), 1273(a), Oct. 22, 1986, 100 Stat. 2553, 2556, 2558, 2595; Pub. L. 108–357, title VIII, §908(c)(5), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### References in Text
 
 Section 953(a)(1), referred to in subsec. (b), was subsequently amended, and section 953(a)(1) no longer describes insurance or annuity contracts. However, insurance or annuity contracts are described elsewhere in that section.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–357, §908(c)(5)(B), struck out “derived from sources within a possession, was effectively connected with the conduct of a trade or business within a possession, or” after “whether income was” in concluding provisions.
+
+Subsec. (c)(2)(B). Pub. L. 108–357, §908(c)(5)(A), substituted “active conduct of a” for “conduct of an active”.
 
 1986—Subsec. (a). Pub. L. 99–514, §1222(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For purposes of this subpart, the term ‘controlled foreign corporation’ means any foreign corporation of which more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned (within the meaning of section 958(a)), or is considered as owned by applying the rules of ownership of section 958(b), by United States shareholders on any day during the taxable year of such foreign corporation.”
 
@@ -48,7 +52,7 @@ Subsec. (c). Pub. L. 99–514, §1273(a), added par. (2) and concluding provisio
 
 “(2) with respect to a corporation organized under the laws of the Virgin Islands, such term does not include an individual who is a bona fide resident of the Virgin Islands and whose income tax obligation under this subtitle for the taxable year is satisfied pursuant to section 28(a) of the Revised Organic Act of the Virgin Islands, approved July 22, 1954 (48 U.S.C. 1642), by paying tax on income derived from all sources both within and outside the Virgin Islands into the treasury of the Virgin Islands, and
 
-“(3) with respect to a corporation organized under the laws of any other possession of the United States, such term does not include an individual who is a bona fide resident of any such other possession and whose income derived from sources within possessions of the United States is not, by reason of section 931(a), includible in gross income under this subtitle for the taxable year.”
+“(3) with respect to a corporation organized under the laws of any other possession of the United States, such term does not include an individual who is a bona fide resident of any such other possession and whose incomederived from sources within possessions of the United States is not, by reason of section 931(a), includible in gross income under this subtitle for the taxable year.”
 
 Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term “controlled foreign corporation” would not include certain corporations created or organized in Puerto Rico or a possession of the United States or under the laws of Puerto Rico or a possession of the United States.
 
@@ -56,11 +60,33 @@ Subsec. (d). Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c).
 
 1976—Subsec. (c) Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) of Pub. L. 108–357, set out as an Effective Date note under section 937 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1221(b)(3)(C) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
 
-Amendment by section 1222(a) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except that for purposes of applying sections 951(a)(1)(B) and 956 of this title, amendment effective Aug. 16, 1986, with transitional rule and special rule for beneficiary of trust, see section 1222(c) of Pub. L. 99–514, set out as a note under section 552 of this title.
+Pub. L. 99–514, title XII, §1222(c), Oct. 22, 1986, 100 Stat. 2557, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 552 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1986; except that for purposes of applying sections 951(a)(1)(B) and 956 of the Internal Revenue Code of 1986, such amendments shall take effect on August 16, 1986.
+
+“(2)
+
+Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendments made by this section, property acquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.
+
+“(3)
+
+Special rule for beneficiary of trust.—In the case of an individual—
+
+&emsp;“(A) who is a beneficiary of a trust which was established on December 7, 1979, under the laws of a foreign jurisdiction, and
+
+&emsp;“(B) who was not a citizen or resident of the United States on the date the trust was established,
+
+> amounts which are included in the gross income of such beneficiary under section 951(a) of the Internal Revenue Code of 1986 with respect to stock held by the trust (and treated as distributed to the trust) shall be treated as the first amounts which are distributed by the trust to such beneficiary and as amounts to which section 959(a) of such Code applies.”
 
 Section 1224(b) of Pub. L. 99–514 provided that:
 
@@ -73,10 +99,6 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 Transitional rule.—In the case of any corporation treated as a controlled foreign corporation by reason of the amendment made by subsection (a), property acquired before August 16, 1986, shall not be taken into account under section 956(b) of the Internal Revenue Code of 1986.”
 
 Amendment by section 1273(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 312, 672, 679, 864, 877, 881, 883, 901, 902, 904, 936, 951, 953, 958, 970, 971, 1248, 1291, 1293, 1298 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

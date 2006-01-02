@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to accredited schools of public health, and to other public ornonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3) of this section.
+The Secretary may make grants to accredited schools of public health, and to other public or nonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3) of this section.
 
 #### (b) Certain requirements
 

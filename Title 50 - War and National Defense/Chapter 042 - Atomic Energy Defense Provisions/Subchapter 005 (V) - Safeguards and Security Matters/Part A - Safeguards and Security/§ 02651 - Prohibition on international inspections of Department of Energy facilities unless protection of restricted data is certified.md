@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on inspections
 
-The Secretary of Energy may not allow an inspection of a nuclear weapons facility by the International Atomic Energy Agency until the Secretary certifies to Congress that no restricted data will be revealed during such inspection.
+The Secretary of Energy may not allow an inspection of a nuclear weapons facility by the International Atomic Energy Agency until theSecretary certifies to Congress that no restricted data will be revealed during such inspection.
 
 #### (b) Omitted
 

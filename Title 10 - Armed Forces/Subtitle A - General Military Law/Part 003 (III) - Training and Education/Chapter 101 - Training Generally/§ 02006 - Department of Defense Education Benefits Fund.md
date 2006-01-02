@@ -4,7 +4,7 @@
 
 (b) In this section:
 
-&emsp;(1) The term “armed forces education liabilities” means liabilities of the armed forces for benefits under chapter 30 of title 38 and for Department of Defense benefits under paragraphs (3) and (4) of section 510(e) and chapter 1606 of this title.
+&emsp;(1) The term “armed forces education liabilities” means liabilities of the armed forces for benefits under chapter 30 of title 38 and for Department of Defense benefits under paragraphs (3) and (4) of section 510(e) and chapters 1606 and 1607, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy of this title.<sup>1</sup>
 
 &emsp;(2) The term “normal cost”, with respect to any period of time, means the total of the following:
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) enter a period of service that will establish entitlement to such educational assistance under section 3021(b) of such title, in the case of persons eligible for basic educational assistance under section 3012 of such title.
 
-&emsp;&emsp;(C) The present value of the future Department of Defense benefits payable from the Fund for educational assistance under chapter 1606 of this title to persons who during such period become entitled to such assistance.
+&emsp;&emsp;(C) The present value of the future Department of Defense benefits payable from the Fund (including funds from the Department in which the Coast Guard is operating) for educational assistance under chapters 1606 and 1607 of this title to persons who during such period become entitled to such assistance.
 
 &emsp;&emsp;(D) The present value of future benefits payable from the Fund for the Department of Defense portion of payments of educational assistance under subchapter II of chapter 30 of title 38 attributable to increased usage of benefits as a result of transfers of entitlement to basic educational assistance under section 3020 of that title during such period.
 
@@ -70,9 +70,13 @@
 
 (h) The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474.)
+(Added Pub. L. 98–525, title VII, §706(a)(1), Oct. 19, 1984, 98 Stat. 2568; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–189, div. A, title XVI, §1621(a)(2), (6), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 101–510, div. A, title XIII, §1322(a)(2), title XIV, §1484(j)(2), Nov. 5, 1990, 104 Stat. 1671, 1718; Pub. L. 103–337, div. A, title X, §1070(e)(6), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–106, div. A, title XV, §§1501(c)(21), 1503(a)(17), Feb. 10, 1996, 110 Stat. 499, 512; Pub. L. 106–65, div. A, title V, §550, Oct. 5, 1999, 113 Stat. 611; Pub. L. 107–107, div. A, title VI, §654(b), Dec. 28, 2001, 115 Stat. 1157; Pub. L. 108–136, div. A, title V, §535(b), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §527(b)(1), Oct. 28, 2004, 118 Stat. 1894.)
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–375, §527(b)(1)(A), substituted “chapters 1606 and 1607, including funds provided by the Secretary of Homeland Security for education liabilities for the Coast Guard when it is not operating as a service in the Department of the Navy” for “chapter 1606”.
+
+Subsec. (b)(2)(C). Pub. L. 108–375, §527(b)(1)(B), substituted “(including funds from the Department in which the Coast Guard is operating) for educational assistance under chapters 1606 and 1607” for “for educational assistance under chapter 1606”.
 
 2003—Subsec. (b)(1). Pub. L. 108–136, §535(b)(1), inserted “paragraphs (3) and (4) of section 510(e) and” after “Department of Defense benefits under”.
 
@@ -124,7 +128,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Section 706(b) of Pub. L. 98–525 directed that first payment into Department of Defense Education Benefits Fund under this section be made not later than three months after Board of Actuaries determined amounts needed to be paid into Fund for that portion of fiscal year 1985 beginning on July 1, 1985, with first payment in a lump sum equal to total of amounts that would have been paid to Fund each month between July 1, 1985, and time such first payment was made.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 510, 12521 of this title; title 38 sections 3020, 3035.
+<i><sup>1</sup></i><i> So in original. Words “of this title” probably should appear after “1607”.</i>
 

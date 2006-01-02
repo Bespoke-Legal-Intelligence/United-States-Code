@@ -20,7 +20,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(9) the legitimate reasons why victims of rape, sexual assault, and incest may refuse to testify against a defendant;
 
-&emsp;(10) the nature and incidence of domestic violence and dating violence (as defined in section 3796gg–2 of this title);
+&emsp;(10) the nature and incidence of domestic violence and dating violence (as defined in section 3796gg–2 <sup>1</sup> of this title);
 
 &emsp;(11) the physical, psychological, and economic impact of domestic violence and dating violence on the victim, the costs to society, and the implications for court procedures and sentencing;
 
@@ -38,15 +38,19 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(18) the need for orders of protection, and the implications of mutual orders of protection, dual arrest policies, and mediation in domestic violence and dating violence cases;
 
-&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape,sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims;
+&emsp;(19) recognition of and response to gender-motivated crimes of violence other than rape, sexual assault and domestic violence, such as mass or serial murder motivated by the gender of the victims;
 
-&emsp;(20) the issues raised by domestic violence in determining custody and visitation, including how to protect the safety of the child and of a parent who is not a predominant aggressor of domestic violence, the legitimate reasons parents may report domestic violence, the ways domestic violence may relate to an abuser's desire to seek custody, and evaluating expert testimony in custody and visitation determinations involving domestic violence;
+&emsp;(20) the issues raised by domestic violence in determining custody and visitation, including how to protect the safety of the child and of a parent who is not a predominant aggressor ofdomestic violence, the legitimate reasons parents may report domestic violence, the ways domestic violence may relate to an abuser's desire to seek custody, and evaluating expert testimony in custody and visitation determinations involving domestic violence;
 
-&emsp;(21) the issues raised by child sexual assault in determining custody and visitation, including how to protect the safety of the child, the legitimate reasons parents may report child sexual assault, and evaluating expert testimony in custody and visitation determinations involving child sexual assault, including the current scientifically-accepted and empirically valid research on child sexual assault; <sup>1</sup>
+&emsp;(21) the issues raised by child sexual assault in determining custody and visitation, including how to protect the safety of the child, the legitimate reasons parents may report child sexual assault, and evaluating expert testimony in custody and visitation determinations involving child sexual assault, including the current scientifically-accepted and empirically valid research on child sexual assault; <sup>2</sup>
 
-&emsp;(22) the extent to which addressing domestic violence and victim safety contributes to the efficient administration of justice; <sup>2</sup>
+&emsp;(22) the extent to which addressing domestic violence and victim safety contributes to the efficient administration of justice; <sup>3</sup>
 
 (Pub. L. 103–322, title IV, §40412, Sept. 13, 1994, 108 Stat. 1943; Pub. L. 106–386, div. B, title IV, §1406(a)(1), (d)(2), Oct. 28, 2000, 114 Stat. 1515, 1517.)
+
+#### References in Text
+
+Section 3796gg–2 of this title, referred to in par. (10), was subsequently repealed and a new section 3796gg–2 enacted which does not define the terms “domestic violence” or “dating violence”. However, such terms are defined in section 13925 of this title.
 
 #### Amendments
 
@@ -62,7 +66,9 @@ Par. (18). Pub. L. 106–386, §1406(d)(2)(E), inserted “and dating violence�
 
 Pars. (20) to (22). Pub. L. 106–386, §1406(a)(1), added pars. (20) to (22).
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>3</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

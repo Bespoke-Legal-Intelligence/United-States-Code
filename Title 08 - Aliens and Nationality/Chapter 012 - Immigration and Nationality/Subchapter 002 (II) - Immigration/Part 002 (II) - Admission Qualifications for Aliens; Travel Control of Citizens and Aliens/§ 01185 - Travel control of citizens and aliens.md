@@ -20,7 +20,7 @@ Unless otherwise ordered by the President, it shall be unlawful—
 
 #### (b) Citizens
 
-Except as otherwise provided by the President and subject to such limitations and exceptions as the President may authorize and prescribe, it shall be unlawful for any citizen of the UnitedStates to depart from or enter, or attempt to depart from or enter, the United States unless he bears a valid United States passport.
+Except as otherwise provided by the President and subject to such limitations and exceptions as the President may authorize and prescribe, it shall be unlawful for any citizen of the United States to depart from or enter, or attempt to depart from or enter, the United States unless he bears a valid United States passport.
 
 #### (c) Definitions
 

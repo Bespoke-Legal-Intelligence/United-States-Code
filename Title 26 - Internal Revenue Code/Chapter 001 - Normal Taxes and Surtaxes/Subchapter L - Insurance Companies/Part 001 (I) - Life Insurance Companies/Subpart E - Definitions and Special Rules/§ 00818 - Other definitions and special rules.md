@@ -86,7 +86,7 @@ For purposes of this part, the term “insurance or annuity contract” includes
 
 #### (A) In general
 
-&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat items described in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
+&emsp;&emsp;On or before September 15, 1985, any life insurance company may elect to treat itemsdescribed in paragraph (1) as properly apportioned or allocated among items of gross income to the extent (and in the manner) prescribed in regulations.
 
 #### (B) Election irrevocable
 
@@ -198,7 +198,7 @@ Amendment by section 1010(k) of Pub. L. 100–647 effective, except as otherwise
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1106(d)(3)(C) of Pub. L. 99–514 applicable to benefits accruing in years beginning afterDec. 31, 1988, except as otherwise provided, see section 1106(i)(5) of Pub. L. 99–514 set out as a note under section 415 of this title.
+Amendment by section 1106(d)(3)(C) of Pub. L. 99–514 applicable to benefits accruing in years beginning after Dec. 31, 1988, except as otherwise provided, see section 1106(i)(5) of Pub. L. 99–514 set out as a note under section 415 of this title.
 
 Amendment by section 1112(d)(4) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of the excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
@@ -215,8 +215,4 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 72, 401, 848 of this title.
 

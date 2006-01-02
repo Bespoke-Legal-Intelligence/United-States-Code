@@ -40,11 +40,11 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Effective Date of 1958 Amendment
 
-Section 3 of Pub. L. 85–609 provided that: “This Act \[amending this section and sections 1070, 1071, 1092, and1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
+Section 3 of Pub. L. 85–609 provided that: “This Act \[amending this section and sections 1070, 1071, 1092, and 1113 of this title\] shall take effect on approval \[Aug. 8, 1958\]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
 

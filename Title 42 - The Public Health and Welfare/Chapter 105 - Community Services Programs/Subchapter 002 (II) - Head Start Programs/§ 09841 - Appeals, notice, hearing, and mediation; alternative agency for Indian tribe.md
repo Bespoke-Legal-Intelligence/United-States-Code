@@ -8,7 +8,7 @@ The Secretary shall prescribe procedures to assure that—
 
 &emsp;(2) financial assistance under this subchapter shall not be suspended, except in emergency situations, unless the recipient agency has been given reasonable notice and opportunity to show cause why such action should not be taken;
 
-&emsp;(3) financial assistance under this subchapter shall not be terminated or reduced, an application for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than 30 days, unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing; and
+&emsp;(3) financial assistance under this subchapter shall not be terminated or reduced, anapplication for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than 30 days, unless the recipient has been afforded reasonable notice and opportunity for a full and fair hearing; and
 
 &emsp;(4) the Secretary shall develop and publish procedures (including mediation procedures) to be used in order to—
 
@@ -42,7 +42,7 @@ In any case in which a termination, reduction, or suspension of financial assist
 
 #### (e) Establishment of alternative agency by Indian tribe
 
-(1) The Secretary shall by regulation specify a process by which an Indian tribe may identify and establish an alternative agency, and request that the alternative agency be designated undersection 9836 of this title as the Head Start agency providing services to the tribe, if—
+(1) The Secretary shall by regulation specify a process by which an Indian tribe may identify and establish an alternative agency, and request that the alternative agency be designated under section 9836 of this title as the Head Start agency providing services to the tribe, if—
 
 &emsp;(A) the Secretary terminates financial assistance under this section to the only agency that was receiving financial assistance to provide Head Start services to the Indian tribe; and
 

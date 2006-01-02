@@ -28,7 +28,3 @@ Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—
 
 Section 508(b) of Pub. L. 104–201 provided that: “Subsection (c) of section 14507 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10214, 14514, 14701, 14702 of this title.
-

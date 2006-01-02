@@ -60,7 +60,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(B) The Secretary may also consider such secondary factors as the Secretary deems appropriate.
 
-&emsp;(C) In developing regulations to implement this subchapter, the Secretary shall consider the extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indian tribes, or Native Alaskans in the operation of a concession, contracts should be identified as a factor in the selection of a best proposal under this section.
+&emsp;(C) In developing regulations to implement this subchapter, the Secretary shall consider the extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indian tribes, or Native Alaskans in the operation of a concession, contracts <sup>1</sup> should be identified as a factor in the selection of a best proposal under this section.
 
 #### (6) Congressional notification
 
@@ -96,7 +96,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;&emsp;(i) the Secretary has determined that the concessioner has operated satisfactorily during the term of the contract (including any extension thereof); and
 
-&emsp;&emsp;(ii) the concessioner has submitted a responsive proposal for a proposed new concessions contract which satisfies the minimumrequirements established by the Secretary pursuant to paragraph (4).
+&emsp;&emsp;(ii) the concessioner has submitted a responsive proposal for a proposed new concessions contract which satisfies the minimum requirements established by the Secretary pursuant to paragraph (4).
 
 #### (9) New or additional services
 
@@ -110,7 +110,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;Notwithstanding the provisions of this section, the Secretary may award, without public solicitation, the following:
 
-&emsp;&emsp;(A) A temporary concessions contract or an extension of an existing concessions contract for a term not to exceed 3 years in order to avoid interruption of services to the public at a unit of the National Park System, except that prior to making such an award, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid such interruption.
+&emsp;&emsp;(A) A temporary concessions contract or an extension of an existing concessions contract for a term not to exceed 3 years in order to avoid interruption of services to the public at a unit of the National Park System, except that prior to making such anaward, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid such interruption.
 
 &emsp;&emsp;(B) A concessions contract in extraordinary circumstances where compelling and equitable considerations require the award of a concessions contract to a particular party in the public interest. Such award of a concessions contract shall not be made by the Secretary until at least 30 days after publication in the Federal Register of notice of the Secretary's intention to do so and the reasons for such action, and submission of notice to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives.
 
@@ -119,4 +119,6 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 #### References in Text
 
 This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3503, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 5901 of this title and Tables.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “concessions contract”.</i>
 

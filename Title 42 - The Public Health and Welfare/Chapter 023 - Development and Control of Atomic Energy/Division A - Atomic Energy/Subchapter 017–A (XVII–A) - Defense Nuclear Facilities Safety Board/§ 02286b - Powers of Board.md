@@ -8,7 +8,7 @@
 
 (B) Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
-(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt of the court.
+(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicialdistrict within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt of the court.
 
 (D) The subpoenas of the Board shall be served in the manner provided for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure for the United States district courts.
 

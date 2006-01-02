@@ -4,7 +4,7 @@
 
 (1) Effective with the publication in the Federal Register of the Hoopa tribal resolution as provided in paragraph (2), the joint reservation shall be partitioned as provided in subsections (b) and (c) of this section.
 
-(2)(A) The partition of the joint reservation as provided in this subsection, and the ratificationand confirmation as provided by section 1300i–7 of this title, shall not become effective unless, within 60 days after October 31, 1988, the Hoopa Valley Tribe shall adopt, and transmit to the Secretary, a tribal resolution:
+(2)(A) The partition of the joint reservation as provided in this subsection, and the ratification and confirmation as provided by section 1300i–7 of this title, shall not become effective unless, within 60 days after October 31, 1988, the Hoopa Valley Tribe shall adopt, and transmit to the Secretary, a tribal resolution:
 
 &emsp;(i) waiving any claim such tribe may have against the United States arising out of the provisions of this subchapter, and
 

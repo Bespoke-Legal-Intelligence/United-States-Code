@@ -10,7 +10,7 @@ The Congress finds that, to best achieve these objectives, improve Government op
 
 #### (c) Separation of licensing and regulatory functions of Atomic Energy Commission
 
-The Congress finds that it is in the public interest that the licensing and related regulatoryfunctions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
+The Congress finds that it is in the public interest that the licensing and related regulatory functions of the Atomic Energy Commission be separated from the performance of the other functions of the Commission, and that this separation be effected in an orderly manner, pursuant to this chapter, assuring adequacy of technical and other resources necessary for the performance of each.
 
 #### (d) Small business participation
 

@@ -6,7 +6,7 @@ Federal Charter.—Corporation for the Promotion of Rifle Practice and Firearms 
 
 (b)
 
-Non-Governmental Status.—The corporation is a private corporation, not a department, agency, or instrumentality of the United States Government. An officer or employee of the corporation is not an officer or employee of the Government.
+Non-Governmental Status.—The corporation is a private corporation, not a department,agency, or instrumentality of the United States Government. An officer or employee of the corporation is not an officer or employee of the Government.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1335.)
 

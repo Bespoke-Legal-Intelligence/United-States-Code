@@ -6,7 +6,7 @@ For purposes of this part, the term “dividend” shall, except as otherwise pr
 
 #### (b) Distributions in liquidation
 
-&emsp;(1) Except in the case of a personal holding company described in section 542 or a foreign personal holding company described in section 552—
+&emsp;(1) Except in the case of a personal holding company described in section 542—
 
 &emsp;&emsp;(A) in the case of amounts distributed in liquidation, the part of such distribution which is properly chargeable to earnings and profits accumulated after February 28, 1913, shall be treated as a dividend for purposes of computing the dividends paid deduction, and
 
@@ -28,9 +28,11 @@ In the case where a corporation which is a member of an affiliated group of corp
 
 In the case of a real estate investment trust, in determining the amount of dividends under section 316 for purposes of computing the dividends paid deduction, the earnings and profits of such trust for any taxable year beginning after December 31, 1980, shall be increased by the total amount of gain (if any) on the sale or exchange of real property by such trust during such taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88;Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800; Pub. L. 108–357, title IV, §413(c)(9), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
+
+2004—Subsec. (b)(1). Pub. L. 108–357 struck out “or a foreign personal holding company described in section 552” after “section 542” in introductory provisions.
 
 1986—Subsec. (b)(1). Pub. L. 99–514, §1804(d)(1), inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
 
@@ -41,6 +43,10 @@ Subsec. (c). Pub. L. 99–514, §657(a), inserted at end “In the case of a dis
 1982—Subsec. (b)(1). Pub. L. 97–248 inserted sentence at end providing that, for purposes of subpar. (A), a liquidation includes a redemption of stock to which section 302 applies.
 
 1964—Subsec. (b). Pub. L. 88–272 designated existing provisions as subpars. (A) and (B) of par. (1), excepted personal holding companies in section 542, and foreign personal holding companies in section 552 therefrom, and added par. (2).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -63,8 +69,4 @@ Amendment Pub. L. 88–272 applicable to distributions made in any taxable year 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 316, 543, 561, 563, 565, 852 of this title.
 

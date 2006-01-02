@@ -20,7 +20,7 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 &emsp;(2) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
 
-&emsp;(3) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or ofthis subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
+&emsp;(3) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
 
 &emsp;(4) has been found by a foreign financial regulatory authority to have—
 

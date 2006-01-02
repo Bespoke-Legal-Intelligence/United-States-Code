@@ -2,7 +2,7 @@
 
 #### (a) Civil penalty
 
-In addition to any criminal penalty provided by law, if a claim is made under section 6420 (relating to gasoline used on farms), 6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), or 6427 (relating to fuels not used for taxable purposes) for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable to a penalty in an amount equal to whichever of the following is the greater:
+In addition to any criminal penalty provided by law, if a claim is made under section 6416(a)(4) (relating to certain sales of gasoline), section 6420 (relating to gasoline used on farms),6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), or 6427 (relating to fuels not used for taxable purposes) for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable to a penalty in an amount equal to whichever of the following is the greater:
 
 &emsp;(1) Two times the excessive amount; or
 
@@ -12,7 +12,7 @@ In addition to any criminal penalty provided by law, if a claim is made under se
 
 For purposes of this section, the term “excessive amount” means in the case of any person the amount by which—
 
-&emsp;(1) the amount claimed under section 6420, 6421, or 6427, as the case may be, for any period, exceeds
+&emsp;(1) the amount claimed under section 6416(a)(4), 6420, 6421, or 6427, as the case may be, for any period, exceeds
 
 &emsp;(2) the amount allowable under such section for such period.
 
@@ -20,9 +20,13 @@ For purposes of this section, the term “excessive amount” means in the case 
 
 &emsp;&emsp;<b>For assessment and collection of penalty provided by subsection (a), see section 6206.</b>
 
-(Added Apr. 2, 1956, ch. 160, §3, 70 Stat. 90; amended June 29, 1956, ch. 462, title II, §208(d)(2), 70 Stat. 396; Pub. L. 89–44, title II, §202(c)(3)(A), June 21, 1965, 79 Stat. 139; Pub. L. 91–258, title II, §207(d)(8), May 21, 1970, 84 Stat. 249; Pub. L. 95–618, title II, §233(b)(2)(D), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–424, title V, §515(b)(11)(A)–(C), Jan. 6, 1983, 96 Stat. 2182.)
+(Added Apr. 2, 1956, ch. 160, §3, 70 Stat. 90; amended June 29, 1956, ch. 462, title II, §208(d)(2), 70 Stat. 396; Pub. L. 89–44, title II, §202(c)(3)(A), June 21, 1965, 79 Stat. 139; Pub. L. 91–258, title II, §207(d)(8), May 21, 1970, 84 Stat. 249; Pub. L. 95–618, title II, §233(b)(2)(D), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–424, title V, §515(b)(11)(A)–(C), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 109–59, title XI, §11163(d)(2), (3), Aug. 10, 2005, 119 Stat. 1975.)
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §11163(d)(2), inserted “section 6416(a)(4) (relating to certain sales of gasoline),” after “made under” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 109–59, §11163(d)(3), inserted “6416(a)(4),” after “under section”.
 
 1983—Pub. L. 97–424, §515(b)(11)(C), struck out “or lubricating oil” after “fuels” in section catchline.
 
@@ -50,6 +54,10 @@ Subsec. (a). Act June 29, 1956, §208(d)(2)(B), inserted reference to claims mad
 
 Subsec. (b). Act June 29, 1956, §208(d)(2)(C), inserted reference to amounts claimed under section 6421.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 applicable to sales after Dec. 31, 2005, see section 11163(e) of Pub. L. 109–59, set out as a note under section 4101 of this title.
+
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
@@ -69,8 +77,4 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 701(a)(1), (2) 
 #### Effective Date of 1956 Amendment
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6206, 6420, 6421, 6427, 6504 of this title.
 

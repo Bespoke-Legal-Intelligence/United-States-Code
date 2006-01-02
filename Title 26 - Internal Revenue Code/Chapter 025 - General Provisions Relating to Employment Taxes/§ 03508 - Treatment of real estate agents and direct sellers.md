@@ -18,7 +18,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such individual is a licensed real estate agent,
 
-&emsp;&emsp;(B) substantially all of the remuneration (whether or not paid in cash) for the services performed by such individual as a real estateagent is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and
+&emsp;&emsp;(B) substantially all of the remuneration (whether or not paid in cash) for the services performed by such individual as a real estate agent is directly related to sales or other output (including the performance of services) rather than to the number of hours worked, and
 
 &emsp;&emsp;(C) the services performed by the individual are performed pursuant to a written contract between such individual and the person for whom the services are performed and such contract provides that the individual will not be treated as an employee with respect to such services for Federal tax purposes.
 
@@ -66,9 +66,5 @@ Subsection (c).—The amendments made by subsection (c) \[amending provisions se
 
 #### Rules and Regulations
 
-Section 269(c)(3) of Pub. L. 97–248 provided that: “Nothing in section 530 of the Revenue Act of 1978 \[set out as a note under section 3401 of this title\] shall be construed to prohibit the implementation of the amendments made by this section \[enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 410.
+Section 269(c)(3) of Pub. L. 97–248 provided that: “Nothing in section 530 of the Revenue Act of 1978 \[setout as a note under section 3401 of this title\] shall be construed to prohibit the implementation of the amendments made by this section \[enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title\].”
 

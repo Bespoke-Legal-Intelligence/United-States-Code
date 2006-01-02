@@ -20,7 +20,7 @@ Any officer or employee of the Service authorized under regulations prescribed b
 
 > &emsp;if the officer or employee is performing duties relating to the enforcement of the immigration laws at the time of the arrest and if there is a likelihood of the person escaping before a warrant can be obtained for his arrest.
 
-> Under regulations prescribed by the Attorney General, an officer or employee of the Service may carry a firearm and may execute and serve any order, warrant, subpoena, summons, or other process issued under the authority of the United States. The authority to make arrests under paragraph (5)(B) shall only be effective on and after the date on which the Attorney General publishes final regulations which (i) prescribe the categories of officers and employees of the Service who may use force (including deadly force) and the circumstances under which such force may be used, (ii) establish standards with respect to enforcement activities of the Service, (iii) require that any officer or employee of the Service is not authorized to make arrests under paragraph (5)(B) unless the officer or employee has received certification as having completed a training program which covers such arrests and standards described in clause (ii), and (iv) establish an expedited, internal review process for violations of such standards, which process is consistent with standard agency procedure regarding confidentiality of matters related to internal investigations.
+> Under regulations prescribed by the Attorney General, an officer or employee of the Service may carry a firearm and may execute and serve any order, warrant, subpoena, summons, or other process issued under the authority of theUnited States. The authority to make arrests under paragraph (5)(B) shall only be effective on and after the date on which the Attorney General publishes final regulations which (i) prescribe the categories of officers and employees of the Service who may use force (including deadly force) and the circumstances under which such force may be used, (ii) establish standards with respect to enforcement activities of the Service, (iii) require that any officer or employee of the Service is not authorized to make arrests under paragraph (5)(B) unless the officer or employee has received certification as having completed a training program which covers such arrests and standards described in clause (ii), and (iv) establish an expedited, internal review process for violations of such standards, which process is consistent with standard agency procedure regarding confidentiality of matters related to internal investigations.
 
 #### (b) Administration of oath; taking of evidence
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 #### (g) Performance of immigration officer functions by State officers and employees
 
-(1) Notwithstanding section 1342 of title 31, the Attorney General may enter into a writtenagreement with a State, or any political subdivision of a State, pursuant to which an officer or employee of the State or subdivision, who is determined by the Attorney General to be qualified to perform a function of an immigration officer in relation to the investigation, apprehension, or detention of aliens in the United States (including the transportation of such aliens across State lines to detention centers), may carry out such function at the expense of the State or political subdivision and to the extent consistent with State and local law.
+(1) Notwithstanding section 1342 of title 31, the Attorney General may enter into a written agreement with a State, or any political subdivision of a State, pursuant to which an officer or employee of the State or subdivision, who is determined by the Attorney General to be qualified to perform a function of an immigration officer in relation to the investigation, apprehension, or detention of aliens in the United States (including the transportation of such aliens across State lines to detention centers), may carry out such function at the expense of the State or political subdivision and to the extent consistent with State and local law.
 
 (2) An agreement under this subsection shall require that an officer or employee of a State or political subdivision of a State performing a function under the agreement shall have knowledge of, and adhere to, Federal law relating to the function, and shall contain a written certification that the officers or employees performing the function under the agreement have received adequate training regarding the enforcement of relevant Federal immigration laws.
 
@@ -78,9 +78,15 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 &emsp;(B) otherwise to cooperate with the Attorney General in the identification, apprehension, detention, or removal of aliens not lawfully present in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623.)
+#### (i) <sup>1</sup> Protecting abused juveniles
+
+An alien described in section 1101(a)(27)(J) of this title who has been battered, abused, neglected, or abandoned, shall not be compelled to contact the alleged abuser (or family member of the alleged abuser) at any stage of applying for special immigrant juvenile status, including after a request for the consent of the Secretary of Homeland Security under section 1101(a)(27)(J)(iii)(I) of this title.
+
+(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623; Pub. L. 109–162, title VIII, §826, Jan. 5, 2006, 119 Stat. 3065.)
 
 #### Amendments
+
+2006—Subsec. (i). Pub. L. 109–162, which directed the amendment of this section “as amended by section 726” by adding cl. (i) at end, was executed by adding subsec. (i) at end to reflect the probable intent of Congress. Pub. L. 109–162 does not contain a section 726.
 
 1996—Subsec. (a)(2), (4). Pub. L. 104–208, §308(d)(4)(L)(i), substituted “expulsion, or removal” for “or expulsion”.
 
@@ -110,7 +116,7 @@ Subsec. (e). Pub. L. 99–603, as amended by Pub. L. 100–525, §2(e), added su
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i) of Pub. L. 104–208 effective, with certaintransitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -118,9 +124,11 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 2(e) of Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by section 2(e) of Pub. L. 100–525 effective as if included in enactment of Immigration Reform andControl Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+<i><sup>1</sup></i><i> So in original. No subsec. (h) has been enacted.</i>
 

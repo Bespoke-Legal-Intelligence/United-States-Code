@@ -2,7 +2,7 @@
 
 #### (a) Rule for employment credits
 
-No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the sum of the credits determined for the taxable year under sections 45A(a), 51(a), and and <sup>1</sup> 1396(a). In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 52(a)) or a trade or business which is treated as being under common control with other trades or businesses (within the meaning of section 52(b)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subsections (a) and (b) of section 52.
+No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the sum of the credits determined for the taxable year under sections 45A(a), 51(a), and <sup>1</sup> 1396(a), 1400P(b), and 1400R. In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 52(a)) or a trade or business which is treated as being under common control with other trades or businesses (within the meaning of section 52(b)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subsections (a) and (b) of section 52.
 
 #### (b) Credit for qualified clinical testing expenses for certain drugs
 
@@ -22,7 +22,7 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 #### (3) Controlled groups
 
-&emsp;In the case of a corporation which is a member of a controlled group of corporations\(within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section 41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
+&emsp;In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section 41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
 
 #### (c) Credit for increasing research activities
 
@@ -70,13 +70,23 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 &emsp;Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
 
-(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639.)
+#### (d) Low sulfur diesel fuel production credit
+
+No deduction shall be allowed for that portion of the expenses otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit determined for the taxable year under section 45H(a).
+
+(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639; Pub. L. 108–357, title III, §339(c), Oct. 22, 2004, 118 Stat. 1484; Pub. L. 109–135, title I, §103(b)(2), title II, §201(b)(2), Dec. 21, 2005, 119 Stat. 2595, 2607.)
 
 #### References in Text
 
 Reference in subsec. (a) to section 51 of this title treated as including reference to section 51A of this title, see section 51A(d)(2) of this title.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–135, §201(b)(2), substituted “1400P(b), and 1400R” for “and 1400P(b)”.
+
+Pub. L. 109–135, §103(b)(2), substituted “1396(a), and 1400P(b)” for “and 1396(a)”.
+
+2004—Subsec. (d). Pub. L. 108–357 added subsec. (d).
 
 2000—Subsec. (c)(1). Pub. L. 106–554 struck out “or credit” after “deduction” in two places.
 
@@ -120,6 +130,10 @@ Subsec. (c). Pub. L. 97–414, §4(b)(1), added subsec. (c).
 
 1978—Pub. L. 95–600, as amended by Pub. L. 96–178 and Pub. L. 96–222, substituted “section 40 or 44B” for “section 44B” in section catchline, and in text designated existing provisions as subsec. (b) and added subsec. (a).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 339(f) of Pub. L. 108–357, set out as a note under section 38 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–554 effective as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999, Pub. L. 106–170, to which such amendment relates, see section 1(a)(7) \[title III, §311(d)\] of Pub. L. 106–554, set out as a note under section 30A of this title.
@@ -130,7 +144,7 @@ Amendment by Pub. L. 106–170 applicable to amounts paid or incurred after June
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+Amendment by Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -196,11 +210,7 @@ Section 7814(e)(2)(B) of Pub. L. 101–239 provided that: “In the case of a ta
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 51A, 196 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

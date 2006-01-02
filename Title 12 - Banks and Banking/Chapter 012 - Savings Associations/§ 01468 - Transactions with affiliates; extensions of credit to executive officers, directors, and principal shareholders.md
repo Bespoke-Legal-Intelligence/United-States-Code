@@ -14,7 +14,7 @@
 
 #### (A) Savings associations controlled by bank holding companies
 
-&emsp;&emsp;Every savings association more than 80 percent of the voting stock of which is owned by a company described in section 1467a(c)(8) of this title shall be treated as a bank for purposes of section 23A(d)(1) and section 23B of the Federal Reserve Act, if every savings association and bank controlled by such company complies with all applicable capital requirements on a fully phased-in basis and without reliance on goodwill.
+&emsp;&emsp;Every savings association more than 80 percent of the voting stock of which is owned by a company described in section 1467a(c)(8) of this title shall be treated as abank for purposes of section 23A(d)(1) and section 23B of the Federal Reserve Act, if every savings association and bank controlled by such company complies with all applicable capital requirements on a fully phased-in basis and without reliance on goodwill.
 
 #### (B) Savings associations generally
 
@@ -36,7 +36,7 @@
 
 #### (2) Additional restrictions authorized
 
-&emsp;The Director may impose such additional restrictions on loans or extensions of credit toany director or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the Director determines to be necessary to protect the safety and soundness of the savings association.
+&emsp;The Director may impose such additional restrictions on loans or extensions of credit to any director or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the Director determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (c) Administrative enforcement
 

@@ -28,7 +28,7 @@ The Chief Administrative Officer of the House of Representatives is authorized, 
 
 #### (g) Revolving funds
 
-There is established in the Treasury of the United States, a revolving fund for the House Recording Studio for the purposes of administering the duties of that studio. There is also established in the Treasury of the United States a revolving fund, within the contingent fund of the Senate, which shall be known as the “Senate Photographic Studio Revolving Fund”, for the purpose of administering the duties of the Senate Photographic Studio; and there is established in the Treasury of the United States, a revolving fund, within the contingent fund of the Senate, which shall be known as the “Senate Recording Studio Revolving Fund”, for the purpose of administering the duties of the Senate Recording Studio.
+There is established in the Treasury of the United States, a revolving fund for the House Recording Studio for the purposes of administering the duties of that studio. There is also established in the Treasury of the United States a revolving fund, within the contingent fund of the Senate, which shall be known as the “Senate Photographic Studio Revolving Fund”, for thepurpose of administering the duties of the Senate Photographic Studio; and there is established in the Treasury of the United States, a revolving fund, within the contingent fund of the Senate, which shall be known as the “Senate Recording Studio Revolving Fund”, for the purpose of administering the duties of the Senate Recording Studio.
 
 #### (h) Deposits in funds; availability of funds
 
@@ -60,7 +60,7 @@ The Joint Recording Facility positions and salaries established pursuant to the 
 
 #### (m) Repeals
 
-Effective with the completion of the transfer provided for by subsection (i) of this section thejoint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953, is repealed.
+Effective with the completion of the transfer provided for by subsection (i) of this section the joint resolution entitled “Joint resolution establishing in the Treasury of the United States a revolving fund within the contingent fund of the House of Representatives”, approved August 7, 1953, is repealed.
 
 #### (n) Repealed. Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205
 
@@ -68,7 +68,7 @@ Effective with the completion of the transfer provided for by subsection (i) of 
 
 Such sums as may be necessary to carry out the provisions of this section are authorized to be appropriated.
 
-(June 27, 1956, ch. 453, §105, 70 Stat. 370; Pub. L. 88–652, §16(a), Oct. 13, 1964, 78 Stat. 1084; Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205; Pub. L. 96–304, title I, §108(a), July 8, 1980, 94 Stat. 890; Pub. L. 97–257, title I, §102, Sept. 10, 1982, 96 Stat. 849; Pub. L. 101–520, title I, §7(a), (c), (d), Nov. 5, 1990, 104 Stat. 2258, 2259; Pub. L. 104–186, title II, §204(68), Aug. 20, 1996, 110 Stat. 1740.)
+(June 27, 1956, ch. 453, §105, 70 Stat. 370; Pub. L. 88–652, §16(a), Oct. 13, 1964, 78 Stat. 1084; Pub. L. 92–310, title II, §220(j), June 6, 1972, 86 Stat. 205; Pub. L. 96–304, title I, §108(a), July 8, 1980, 94 Stat. 890; Pub. L. 97–257, title I, §102, Sept. 10,1982, 96 Stat. 849; Pub. L. 101–520, title I, §7(a), (c), (d), Nov. 5, 1990, 104 Stat. 2258, 2259; Pub. L. 104–186, title II, §204(68), Aug. 20, 1996, 110 Stat. 1740.)
 
 #### Amendments
 

@@ -10,7 +10,7 @@ Nothing in subsection (a) of this section shall be construed to affect the autho
 
 #### (c) Consultation with Nuclear Regulatory Commission; interagency agreement; notice and hearing
 
-(1) Before listing any source material, special nuclear, or byproduct material (or component or derivative thereof) as provided in subsection (a) of this section, the Administrator shall consult with the Nuclear Regulatory Commission.
+(1) Before listing any source material, special nuclear, <sup>2</sup> or byproduct material (or component or derivative thereof) as provided in subsection (a) of this section, the Administrator shall consult with the Nuclear Regulatory Commission.
 
 (2) Not later than six months after listing any such material (or component or derivative thereof) the Administrator and the Nuclear Regulatory Commission shall enter into an interagency agreement with respect to those sources or facilities which are under the jurisdiction of the Commission. This agreement shall, to the maximum extent practicable consistent with this chapter, minimize duplication of effort and conserve administrative resources in the establishment, implementation, and enforcement of emission limitations, standards of performance, and other requirements and authorities (substantive and procedural) under this chapter respecting the emission of such material (or component or derivative thereof) from such sources or facilities.
 
@@ -35,4 +35,6 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 Section 120(b) of Pub. L. 95–95 directed Administrator of Environmental Protection Agency to conduct a study, in conjunction with other appropriate agencies, concerning effect on public health and welfare of sulfates, radioactive pollutants, cadmium, arsenic, and polycyclic organic matter which are present or may reasonably be anticipated to occur in the ambient air, such study to include a thorough investigation of how sulfates are formed and how to protect public health and welfare from the injurious effects, if any, of sulfates, cadmium, arsenic, and polycyclic organic matter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “material” probably should precede the comma.</i>
 

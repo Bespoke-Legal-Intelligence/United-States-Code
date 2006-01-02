@@ -26,5 +26,5 @@ Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 858, as amended by Pub. L.
 
 Environmental Protection Agency” and “
 
-construction grants”\] allotted for title VI \[33 U.S.C. 1381 et seq.\] capitalization grants to American Samoa, Commonwealth of the Northern Mariana Islands, Guam, the Republic of Palau (or its successor entity), Virgin Islands and the District of Columbia, may be used for title II \[33 U.S.C. 1281 et seq.\] construction grants at the request of the chief executive of each of the above named entities, and sums appropriated in fiscal year 1989 shall remain available for obligation until September 30, 1992.”
+construction grants”\] allotted for title VI \[33 U.S.C. 1381 et seq.\] capitalization grants to American Samoa, Commonwealth of the Northern Mariana Islands, Guam, the Republic of Palau (or its successor entity), Virgin Islands and the District of Columbia, may be used for title II \[33 U.S.C. 1281 et seq.\] construction grants at the request of the chief executive of each of the above named entities, and sumsappropriated in fiscal year 1989 shall remain available for obligation until September 30, 1992.”
 

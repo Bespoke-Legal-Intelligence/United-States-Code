@@ -26,7 +26,7 @@ The services provided, in a State program under subsection (a) of this section, 
 
 #### (1) Population served
 
-&emsp;Services under a State program under this subpart shall be provided to family caregivers,and grandparents and older individuals who are relative caregivers, and who—
+&emsp;Services under a State program under this subpart shall be provided to family caregivers, and grandparents and older individuals who are relative caregivers, and who—
 
 &emsp;&emsp;(A) are described in paragraph (1) or (2) of subsection (a) of this section; and
 

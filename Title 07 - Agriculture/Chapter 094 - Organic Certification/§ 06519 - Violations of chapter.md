@@ -20,7 +20,7 @@ Any person who makes a false statement under this chapter to the Secretary, a go
 
 &emsp;&emsp;(C) otherwise violates the purposes of the applicable organic certification program as determined by the Secretary;
 
-> &emsp;after notice and an opportunity to be heard, shall not be eligible, for a period of 5 years from the date of such occurrence, to receive certification under this chapter with respect to any farm or handling operation in which such person has an interest.
+> &emsp;after notice and an opportunity to be heard, shall not be eligible, for a period of 5 yearsfrom the date of such occurrence, to receive certification under this chapter with respect to any farm or handling operation in which such person has an interest.
 
 #### (2) Waiver
 

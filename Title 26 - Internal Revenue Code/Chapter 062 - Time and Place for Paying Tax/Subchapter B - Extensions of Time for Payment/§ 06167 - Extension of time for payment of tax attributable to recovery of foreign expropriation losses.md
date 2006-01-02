@@ -12,7 +12,7 @@ If—
 
 #### (b) Extension permitted by Secretary
 
-If a corporation has a recovery of a foreign expropriation loss to which section 1351 appliesand if an election is not made under subsection (a), the Secretary may, upon finding that the payment of the tax attributable to such recovery at the time otherwise provided in this subtitle would result in undue hardship, extend the time for payment of such tax for a reasonable period or periods not in excess of 9 years from the date on which such tax is otherwise payable.
+If a corporation has a recovery of a foreign expropriation loss to which section 1351 applies and if an election is not made under subsection (a), the Secretary may, upon finding that the payment of the tax attributable to such recovery at the time otherwise provided in this subtitle would result in undue hardship, extend the time for payment of such tax for a reasonable period or periods not in excess of 9 years from the date on which such tax is otherwise payable.
 
 #### (c) Acceleration of payments
 
@@ -34,7 +34,7 @@ If—
 
 > &emsp;exceeds the amount of money which may be received under subsection (a)(2),
 
-> an amount of the tax attributable to such recovery equal to such excess shall be payable on the 15th day of the third month of the taxable year following the taxable year in which such sale or exchange occurs. The amount of such tax so paid shall be treated, for purposes of this section, as a payment of the first unpaid installment or installments (or portion thereof) which become payable under subsection (a) following such taxable year.
+> an amount of the tax attributable to such recovery equal to such excess shall be payable on the15th day of the third month of the taxable year following the taxable year in which such sale or exchange occurs. The amount of such tax so paid shall be treated, for purposes of this section, as a payment of the first unpaid installment or installments (or portion thereof) which become payable under subsection (a) following such taxable year.
 
 #### (d) Proration of deficiency to installments
 
@@ -85,8 +85,4 @@ Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts 
 #### Effective Date
 
 Section applicable with respect to amounts received after Dec. 31, 1964, in respect of foreign expropriation losses (as defined in section 1351(b) of this title) sustained after Dec. 31, 1958, see section 2 of Pub. L. 89–384, set out as a note under section 1351 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6503 of this title.
 

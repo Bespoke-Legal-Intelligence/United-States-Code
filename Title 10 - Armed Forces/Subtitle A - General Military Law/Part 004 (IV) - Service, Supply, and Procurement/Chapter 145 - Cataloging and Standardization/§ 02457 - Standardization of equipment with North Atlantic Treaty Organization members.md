@@ -140,7 +140,3 @@ In subsection (f), the words “The Secretary shall submit the results of these 
 
 1990—Subsec. (d). Pub. L. 101–510 substituted “Before February 1, 1989, and biennially thereafter” for “Before February 1 of each year”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2350a, 2533a of this title.
-

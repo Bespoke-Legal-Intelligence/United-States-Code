@@ -16,7 +16,7 @@ Short Title.—This section may be cited as the “Competitive, Special, and Fac
 
 High Priority Research.—For purposes of this subsection, the term “high priority research” means basic and applied research that focuses on both national and multistate research needs (and methods to transfer such research to onfarm or inmarket practice) in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.
 
-&emsp;(A) plant systems, including plant genome structure and function; molecular and cellular genetics and plant biotechnology; plant-pest interactions and biocontrol systems; crop plant response to environmental stresses; unproved nutrient qualities of plant products; and new food and industrial uses of plant products;
+&emsp;(A) plant systems, including plant genome structure and function; molecular and cellulargenetics and plant biotechnology; plant-pest interactions and biocontrol systems; crop plant response to environmental stresses; unproved nutrient qualities of plant products; and new food and industrial uses of plant products;
 
 &emsp;(B) animal systems, including aquaculture, cellular and molecular basis of animal reproduction, growth, disease, and health; identification of genes responsible for improved production traits and resistance to disease; improved nutritional performance of animals; and improved nutrient qualities of animal products, and uses, and the development of new and improved animal husbandry and production systems that take into account production efficiency and animal well-being, and animal systems applicable to aquaculture;
 
@@ -40,7 +40,7 @@ Types of Grants.—In addition to making research grants under paragraph (1), th
 
 &emsp;(D) Grants may be awarded to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching. The Secretary shall use not less than 25 percent, and not more than 40 percent, of the funds made available for grants under this subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences.
 
-&emsp;(E) Grants may be awarded to single investigators or coinvestigators who are beginningtheir research careers and do not have an extensive research publication record. To be eligible for a grant under this subparagraph, an individual shall be within 5 years of the individual's initial career track position.
+&emsp;(E) Grants may be awarded to single investigators or coinvestigators who are beginning their research careers and do not have an extensive research publication record. To be eligible for a grant under this subparagraph, an individual shall be within 5 years of the individual's initial career track position.
 
 &emsp;(F) Grants may be awarded to ensure that the faculty of small and mid-sized institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants.
 
@@ -216,7 +216,7 @@ The Secretary of Agriculture shall make annual grants to support the renovation 
 
 #### (f) Record keeping
 
-Each recipient of assistance under this section shall keep such records as the Secretary of Agriculture shall, by regulation, prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grants, the total cost of the project or undertaking in connection with which such funds are given or used, and the amount of that portion of the costs of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary of Agriculture and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this section.
+Each recipient of assistance under this section shall keep such records as the Secretary of Agriculture shall, by regulation, prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such grants, the total cost of the project or undertaking in connection with which such funds are given or used, and the amount of that portion of the costs of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit. The Secretary of Agriculture and the Comptroller General of the United States or any of their duly authorized representatives shall have access for the purpose of audit and examination to anybooks, documents, papers, and records of the recipients that are pertinent to the grants received under this section.
 
 #### (g) Limits on overhead costs
 
@@ -248,7 +248,7 @@ Act of October 10, 1962, referred to in subsecs. (c)(1)(B) and (d)(1), (3), is P
 
 Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), referred to in subsec. (d)(1), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Act of August 30, 1890 (7 U.S.C. 321 et seq.), referred to in subsec. (d)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the AgriculturalCollege Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 (7 U.S.C. 321 et seq.), referred to in subsec. (d)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 

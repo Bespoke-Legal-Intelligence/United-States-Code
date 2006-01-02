@@ -24,7 +24,3 @@
 
 1990—Subsec. (c). Pub. L. 101–510 substituted “section 1174(a)(2)” for “section 1174(b)”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1174, 1370, 3924, 8924 of this title.
-

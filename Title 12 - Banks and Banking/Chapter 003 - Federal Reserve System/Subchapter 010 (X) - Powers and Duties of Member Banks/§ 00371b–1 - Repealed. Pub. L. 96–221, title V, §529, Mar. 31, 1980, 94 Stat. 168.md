@@ -32,7 +32,7 @@ Prior to its repeal by section 212 of Pub. L. 96–161, section 204 of Pub. L. 9
 
 &emsp;“(2) the date, after the date of the enactment of this Act \[Nov. 5, 1979\], on which such State adopts a law stating in substance that such State does not want the amendments made by this title to apply with respect to such deposits and obligations; or
 
-&emsp;“(3) the date on which such State certifies that the voters of such State, after the date of the enactmentof this Act \[Nov. 5, 1979\], have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which limits the amount of interest which may be charged in connection with such deposits and obligations.”
+&emsp;“(3) the date on which such State certifies that the voters of such State, after the date of the enactment of this Act \[Nov. 5, 1979\], have voted in favor of, or to retain, any law, provision of the constitution of such State, or amendment to the constitution of such State which limits the amount of interest which may be charged in connection with such deposits and obligations.”
 
 #### Effective and Termination Dates of 1974 Amendment
 

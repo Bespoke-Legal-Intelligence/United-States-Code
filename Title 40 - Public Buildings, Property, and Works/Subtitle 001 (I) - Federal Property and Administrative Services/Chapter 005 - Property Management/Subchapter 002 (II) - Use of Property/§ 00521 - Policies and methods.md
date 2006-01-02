@@ -32,7 +32,7 @@ The words “the provisions of” are omitted as unnecessary.
 
 #### Opportunity for the Government of Guam To Acquire Excess Real Property in Guam
 
-Pub. L. 106–504, §1, Nov. 13, 2000, 114 Stat. 2309, provided that:
+Pub. L. 106–504, §1, Nov. 13, 2000, 114 Stat. 2309, as amended by Pub. L. 109–163, div. A, title X, §1056(a)(6), Jan. 6, 2006, 119 Stat. 3439, provided that:
 
 “(a)
 
@@ -42,7 +42,7 @@ Transfer of Excess Real Property.—(1) Except as provided in subsection (d), be
 
 “(b)
 
-Conditions of Transfer.—(1) Any transfer of excess real property to the Government of Guam may beonly for a public purpose and shall be without further consideration.
+Conditions of Transfer.—(1) Any transfer of excess real property to the Government of Guam may be only for a public purpose and shall be without further consideration.
 
 “(2) All transfers of excess real property to the Government of Guam shall be subject to such restrictive covenants as the Administrator, in consultation with the Secretary of Defense, in the case of property reported excess by a military department, determines to be necessary to ensure that: (A) the use of the property is compatible with continued military activities on Guam; (B) the use of the property is consistent with the environmental condition of the property; (C) access is available to the United States to conduct any additional environmental remediation or monitoring that may be required; (D) the property is used only for a public purpose and can not be converted to any other use; and (E) to the extent that facilities on the property have been occupied and used by another Federal agency for a minimum of 2 years, that the transfer to the Government of Guam is subject to the terms and conditions for such use and occupancy.
 
@@ -58,7 +58,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;&emsp;“(B) the head of any Federal agency with the authority to dispose of excess real property on Guam.
 
-&emsp;“(2) The term ‘base closure law’ means the Defense Authorization Amendments and Base Closure and Realignment Act of 1988 (Public Law 100–526) \[see Short Title of 1988 Amendment note set out under section 2687 of Title 10, Armed Forces\], the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510) \[part A of title XXIX of Pub. L. 101–510; 10 U.S.C. 2687 note\], or similar base closure authority.
+&emsp;“(2) The term ‘base closure law’ has the meaning given such term in section 101(a)(17) of title 10, United States Code.
 
 &emsp;“(3) The term ‘excess real property’ means excess property (as that term is defined in section 3 of the Property Act \[now 40 U.S.C. 102\]) that is real property and was acquired by the United States prior to the enactment of this section \[Nov. 13, 2000\].
 

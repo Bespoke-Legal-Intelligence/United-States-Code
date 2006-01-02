@@ -26,7 +26,7 @@ The Federal Coordinator shall be responsible for—
 
 #### (1) Expedited reviews and actions
 
-&emsp;All reviews conducted and actions taken by any Federal agency relating to an Alaska natural gas transportation project authorized under this section shall be expedited, in a manner consistent with completion of the necessary reviews and approvals by the deadlines under this chapter.
+&emsp;All reviews conducted and actions taken by any Federal agency relating to an Alaska natural gas transportation project authorizedunder this section shall be expedited, in a manner consistent with completion of the necessary reviews and approvals by the deadlines under this chapter.
 
 #### (2) Prohibition of certain terms and conditions
 
@@ -68,15 +68,19 @@ On appointment of the Federal Coordinator by the President, all of the functions
 
 #### (g) Temporary authority
 
-The functions, authorities, duties, and responsibilities of the Federal Coordinator shall be vested in the Secretary until the later of the appointment of the Federal Coordinator by the President, or 18 months after October 13, 2004.
+The functions, authorities, duties, and responsibilities of the Federal Coordinator shall be vested in the Secretary until the earlier of the appointment of the Federal Coordinator by the President, or 18 months after October 13, 2004.
 
-(Pub. L. 108–324, div. C, §106, Oct. 13, 2004, 118 Stat. 1259.)
+(Pub. L. 108–324, div. C, §106, Oct. 13, 2004, 118 Stat. 1259; Pub. L. 109–148, div. A, title VIII, §8128, Dec. 30, 2005, 119 Stat. 2731.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original “this division”, meaning division Cof Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
+This chapter, referred to in subsecs. (c)(2) and (d)(1), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
 Reorganization Plan No. 1 of 1979, referred to in subsec. (f), is set out as a note under section 719e of this title.
 
 Executive Order No. 12142, referred to in subsec. (f), is set out as a note under section 719e of this title.
+
+#### Amendments
+
+2005—Subsec. (g). Pub. L. 109–148 substituted “earlier” for “later”.
 

@@ -2,7 +2,7 @@
 
 (a)(1) Records of the identity, diagnosis, prognosis, or treatment of any patient or subject which are maintained in connection with the performance of any program or activity (including education, training, treatment, rehabilitation, or research) relating to drug abuse, alcoholism or alcohol abuse, infection with the human immunodeficiency virus, or sickle cell anemia which is carried out by or for the Department under this title shall, except as provided in subsections (e) and (f), be confidential, and (section 5701 of this title to the contrary notwithstanding) such records may be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
-(2) Paragraph (1) prohibits the disclosure to any person or entity other than the patient or subject concerned of the fact that a special written consent is required in order for such records to be disclosed.
+(2) Paragraph (1) prohibits the disclosure to any person or entity other than the patient orsubject concerned of the fact that a special written consent is required in order for such records to be disclosed.
 
 (b)(1) The content of any record referred to in subsection (a) may be disclosed by the Secretary in accordance with the prior written consent of the patient or subject with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed by the Secretary.
 
@@ -32,7 +32,7 @@
 
 (f)(1) Notwithstanding subsection (a) but subject to paragraph (2), a physician or a professional counselor may disclose information or records indicating that a patient or subject is infected with the human immunodeficiency virus if the disclosure is made to (A) the spouse of the patient or subject, or (B) to an individual whom the patient or subject has, during the process of professional counseling or of testing to determine whether the patient or subject is infected with such virus, identified as being a sexual partner of such patient or subject.
 
-(2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, aftermaking reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
+(2)(A) A disclosure under paragraph (1) may be made only if the physician or counselor, after making reasonable efforts to counsel and encourage the patient or subject to provide the information to the spouse or sexual partner, reasonably believes that the patient or subject will not provide the information to the spouse or sexual partner and that the disclosure is necessary to protect the health of the spouse or sexual partner.
 
 (B) A disclosure under such paragraph may be made by a physician or counselor other than the physician or counselor referred to in subparagraph (A) if such physician or counselor is unavailable by reason of absence or termination of employment to make the disclosure.
 

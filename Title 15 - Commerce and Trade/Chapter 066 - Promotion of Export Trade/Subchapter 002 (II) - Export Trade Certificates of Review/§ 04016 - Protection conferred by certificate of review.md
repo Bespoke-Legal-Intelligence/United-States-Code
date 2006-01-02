@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, no criminal or civil actio
 
 (1) Any person who has been injured as a result of conduct engaged in under a certificate of review may bring a civil action for injunctive relief, actual damages, the loss of interest on actual damages, and the cost of suit (including a reasonable attorney's fee) for the failure to comply with the standards of section 4013(a) of this title. Any action commenced under this subchapter shall proceed as if it were an action commenced under section 15 or section 26 of this title, except that the standards of section 4013(a) of this title and the remedies provided in this paragraph shall be the exclusive standards and remedies applicable to such action.
 
-(2) Any action brought under paragraph (1) shall be filed within two years of the date the plaintiff has notice of the failure to comply with the standards of section 4013(a) of this title but in any event within four years after the cause of action accrues.
+(2) Any action brought under paragraph (1) shall be filed within two years of the date theplaintiff has notice of the failure to comply with the standards of section 4013(a) of this title but in any event within four years after the cause of action accrues.
 
 (3) In any action brought under paragraph (1), there shall be a presumption that conduct which is specified in and complies with a certificate of review does comply with the standards of section 4013(a) of this title.
 

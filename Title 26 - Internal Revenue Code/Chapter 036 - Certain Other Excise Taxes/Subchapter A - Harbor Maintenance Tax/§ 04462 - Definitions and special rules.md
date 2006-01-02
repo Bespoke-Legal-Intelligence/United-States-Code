@@ -102,27 +102,9 @@ For purposes of this subchapter—
 
 No tax shall be imposed under this subchapter with respect to the loading or unloading of any cargo on or from a vessel if any fuel of such vessel has been (or will be) subject to the tax imposed by section 4042 (relating to tax on fuel used in commercial transportation on inland waterways).
 
-#### (d) Nonapplicability of tax to certain cargo
+#### (d) Nonapplicability of tax to exports
 
-#### (1) In general
-
-&emsp;Subject to paragraph (2), the tax imposed by section 4461(a) shall not apply to bonded commercial cargo entering the United States for transportation and direct exportation to a foreign country.
-
-#### (2) Imposition of charges
-
-&emsp;Paragraph (1) shall not apply to any cargo exported to Canada or Mexico—
-
-&emsp;&emsp;(A) during the period—
-
-&emsp;&emsp;&emsp;(i) after the date on which the Secretary determines that the Government of Canada or Mexico (as the case may be) has imposed a substantially equivalent tax, fee, or charge on commercial vessels or commercial cargo utilizing ports of such country, and
-
-&emsp;&emsp;&emsp;(ii) subject to subparagraph (B), before the date on which the Secretary determines that such tax, fee, charge has been discontinued by such country, and
-
-&emsp;&emsp;(B) with respect to a particular United States port (or to any transaction or class of transactions at any such port) to the extent that the study made pursuant to section 1407(a) of the Water Resources Development Act of 1986 (or a review thereof pursuant to section 1407(b) of such Act) finds that—
-
-&emsp;&emsp;&emsp;(i) the imposition of the tax imposed by this subchapter at such port (or to any transaction or class of transactions at such port) is not likely to divert a significant amount of cargo from such port to a port in a country contiguous to the United States, or that any such diversion is not likely to result in significant economic loss to such port, or
-
-&emsp;&emsp;&emsp;(ii) the nonapplicability of such tax at such port (or to any transaction or class of transactions at such port) is likely to result in significant economic loss to any other United States port.
+The tax imposed by section 4461(a) shall not apply to any port use with respect to any commercial cargo to be exported from the United States.
 
 #### (e) Exemption for United States
 
@@ -174,17 +156,15 @@ The Secretary may prescribe such additional regulations as may be necessary to c
 
 &emsp;(4) providing for the remittance or mitigation of penalties and the settlement or compromise of claims.
 
-(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, §1704(i)(1), Aug. 20, 1996, 110 Stat. 1881.)
-
-#### References in Text
-
-Section 1407(a) and (b) of the Water Resources Development Act of 1986, referred to in subsec. (d)(2)(B), is section 1407(a) and (b) of Pub. L. 99–662, title XIV, Nov. 17, 1986, 100 Stat. 4272, 4273, which is set out as a note under section 4461 of this title.
+(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, §1704(i)(1), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 109–59, title XI, §11116(a), Aug. 10, 2005, 119 Stat. 1950.)
 
 #### Prior Provisions
 
 For prior section 4462, see Prior Provisions note set out preceding section 4471 of this title.
 
 #### Amendments
+
+2005—Subsec. (d). Pub. L. 109–59 amended heading and text of subsec. (d) generally, substituting provisions relating to nonapplicability of tax imposed by section 4461(a) to exports for provisions relating to nonapplicability of tax imposed by section 4461(a) to bonded commercial cargo entering the United States for transportation and direct exportation to a foreign country and inapplicability of this provision to certain cargo exported to Canada or Mexico.
 
 1996—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
 
@@ -193,6 +173,10 @@ For prior section 4462, see Prior Provisions note set out preceding section 4471
 Subsec. (g)(3). Pub. L. 100–647, §6110(a), added par. (3).
 
 Subsecs. (h), (i). Pub. L. 100–647, §6109(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective before, on, and after Aug. 10, 2005, see section 11116(c) of Pub. L. 109–59, set out as a note under section 4461 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -213,8 +197,4 @@ Section effective Apr. 1, 1987, see section 1402(c) of Pub. L. 99–662, set out
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 988a.
 

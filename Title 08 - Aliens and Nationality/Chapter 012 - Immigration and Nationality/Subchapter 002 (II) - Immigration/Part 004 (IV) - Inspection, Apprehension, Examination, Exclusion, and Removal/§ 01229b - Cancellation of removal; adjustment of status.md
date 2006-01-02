@@ -20,7 +20,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;(B) has been a person of good moral character during such period;
 
-&emsp;&emsp;(C) has not been convicted of an offense under section 1182(a)(2), 1227(a)(2), or 1227(a)(3) of this title (except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver); and
+&emsp;&emsp;(C) has not been convicted of an offense under section 1182(a)(2), 1227(a)(2), or 1227(a)(3) of this title, subject to paragraph (5); and
 
 &emsp;&emsp;(D) establishes that removal would result in exceptional and extremely unusual hardship to the alien's spouse, parent, or child, who is a citizen of the United States or an alien lawfully admitted for permanent residence.
 
@@ -40,17 +40,17 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(iii) the alien has been a person of good moral character during such period, subject to the provisions of subparagraph (C);
 
-&emsp;&emsp;&emsp;(iv) the alien is not inadmissible under paragraph (2) or (3) of section 1182(a) of this title, is not deportable under paragraphs (1)(G) or (2) through (4) of section 1227(a) of this title (except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver), and has not been convicted of an aggravated felony; and
+&emsp;&emsp;&emsp;(iv) the alien is not inadmissible under paragraph (2) or (3) of section 1182(a) of this title, is not deportable under paragraphs (1)(G) or (2) through (4) of section 1227(a) of this title, subject to paragraph (5), and has not been convicted of an aggravated felony; and
 
 &emsp;&emsp;&emsp;(v) the removal would result in extreme hardship to the alien, the alien's child, or the alien's parent.
 
 #### (B) Physical presence
 
-&emsp;&emsp;Notwithstanding subsection (d)(2) of this section, for purposes of subparagraph (A)(i)(II) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2) of this section. If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in subsection (b)(2)(B) of this section and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
+&emsp;&emsp;Notwithstanding subsection (d)(2) of this section, for purposes of subparagraph (A)(ii) or for purposes of section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence if the alien demonstrates a connection between the absence and the battering or extreme cruelty perpetrated against the alien. No absence or portion of an absence connected to the battering or extreme cruelty shall count toward the 90-day or 180-day limits established in subsection (d)(2) of this section. If any absence or aggregate absences exceed 180 days, the absences or portions of the absences will not be considered to break the period of continuous presence. Any such period of time excluded from the 180-day limit shall be excluded in computing the time during which the alien has been physically present for purposes of the 3-year requirement set forth in this subparagraph, subparagraph (A)(ii), and section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).
 
 #### (C) Good moral character
 
-&emsp;&emsp;Notwithstanding section 1101(f) of this title, an act or conviction that does not bar the Attorney General from granting relief under this paragraph by reason of subparagraph (A)(iv) shall not bar the Attorney General from finding the alien to be of good moral character under subparagraph (A)(i)(III) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty and determines that a waiver is otherwise warranted.
+&emsp;&emsp;Notwithstanding section 1101(f) of this title, an act or conviction that does not bar the Attorney General from granting relief under this paragraph by reason of subparagraph (A)(iv) shall not bar the Attorney General from finding the alien to be of good moral character under subparagraph (A)(iii) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty and determines that a waiver is otherwise warranted.
 
 #### (D) Credible evidence considered
 
@@ -73,6 +73,10 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 #### (B) Duration of parole
 
 &emsp;&emsp;The grant of parole shall extend from the time of the grant of relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to the time the application for adjustment of status filed by aliens covered under this paragraph has been finally adjudicated. Applications for adjustment of status filed by aliens covered under this paragraph shall be treated as if they were applications filed under section 1154(a)(1)(A)(iii), (A)(iv), (B)(ii), or (B)(iii) of this title for purposes of section 1255 (a) and (c) of this title. Failure by the alien granted relief under subsection (b)(2) of this section or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) to exercise due diligence in filing a visa petition on behalf of an alien described in clause (i) or (ii) may result in revocation of parole.
+
+#### (5) Application of domestic violence waiver authority
+
+&emsp;The authority provided under section 1227(a)(7) of this title may apply under paragraphs (1)(B), (1)(C), and (2)(A)(iv) in a cancellation of removal and adjustment of status proceeding.
 
 #### (c) Aliens ineligible for relief
 
@@ -122,7 +126,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (2) Fiscal year 1997
 
-&emsp;For fiscal year 1997, paragraph (1) shall only apply to decisions to cancel the removal of an alien, or suspend the deportation of an alien, made after April 1, 1997. Notwithstanding anyother provision of law, the Attorney General may cancel the removal or suspend the deportation, in addition to the normal allotment for fiscal year 1998, of a number of aliens equal to 4,000 less the number of such cancellations of removal and suspensions of deportation granted in fiscal year 1997 after April 1, 1997.
+&emsp;For fiscal year 1997, paragraph (1) shall only apply to decisions to cancel the removal of an alien, or suspend the deportation of an alien, made after April 1, 1997. Notwithstanding any other provision of law, the Attorney General may cancel the removal or suspend the deportation, in addition to the normal allotment for fiscal year 1998, of a number of aliens equal to 4,000 less the number of such cancellations of removal and suspensions of deportation granted in fiscal year 1997 after April 1, 1997.
 
 #### (3) Exception for certain aliens
 
@@ -132,7 +136,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 &emsp;&emsp;(B) Aliens in deportation proceedings prior to April 1, 1997, who applied for suspension of deportation under section 1254(a)(3) of this title (as in effect before September 30, 1996).
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240A, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–594; amended Pub. L. 105–100, title II, §204(a)–(c), Nov. 19, 1997, 111 Stat. 2200, 2201; Pub. L. 106–386, div. B, title V, §§1504(a), (b), 1505(b)(2), 1506(b)(1), Oct. 28, 2000, 114 Stat. 1522, 1524, 1525, 1527; Pub. L. 109–162, title VIII, §§813(c)(1), 822(a), (b), Jan. 5, 2006, 119 Stat. 3058, 3062, 3063.)
 
 #### References in Text
 
@@ -143,6 +147,18 @@ Section 1182(c) of this title, referred to in subsec. (c)(6), was repealed by Pu
 Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsecs. (b)(2)(B), (C), (4), and (e)(3)(A), is section 309 of title III of div. C of Pub. L. 104–208, as amended, which is set out as a note under section 1101 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(1)(C). Pub. L. 109–162, §813(c)(1)(A), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
+
+Subsec. (b)(2)(A)(iv). Pub. L. 109–162, §813(c)(1)(B), substituted “, subject to paragraph (5)” for “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
+
+Subsec. (b)(2)(B). Pub. L. 109–162, §822(a)(2), which directed amendment of fourth sentence by substituting “this subparagraph, subparagraph (A)(ii),” for “subsection (b)(2)(B) of this section”, was executed by making the substitution for language which read in the original “section 240A(b)(2)(B)”, to reflect the probable intent of Congress.
+
+Pub. L. 109–162, §822(a)(1), substituted “(A)(ii)” for “(A)(i)(II)” in first sentence.
+
+Subsec. (b)(2)(C). Pub. L. 109–162, §822(b), substituted “(A)(iii)” for “(A)(i)(III)”.
+
+Subsec. (b)(5). Pub. L. 109–162, §813(c)(1)(C), added par. (5).
 
 2000—Subsec. (b)(1)(C). Pub. L. 106–386, §1505(b)(2), inserted before semicolon “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
 
@@ -172,7 +188,7 @@ Subsec. (e). Pub. L. 105–100, §204(a), amended heading and text of subsec. (e
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–386, div. B, title V, §1504(c), Oct. 28, 2000, 114 Stat. 1524, provided that: “Any individual who becomes eligible for relief by reason of the enactment of the amendments made by subsections (a) and (b) \[amending this section\], shall be eligible to file a motion to reopen pursuant to section 240(c)(6)(C)(iv) \[8 U.S.C. 1229a(c)(6)(C)(iv)\]. The amendments made by subsections (a) and (b) shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 587 \[3009–587\]). Such portions of the amendments made by subsection (b) that relate to section 244(a)(3) \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) shall take effect as if included in subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\].”
+Pub. L. 106–386, div. B, title V, §1504(c), Oct. 28, 2000, 114 Stat. 1524, provided that: “Any individual who becomes eligible for relief by reason of the enactment of the amendments made by subsections (a) and (b) \[amending this section\], shall be eligible to file a motion to reopen pursuant to section 240(c)(6)(C)(iv) \[now 8 U.S.C. 1229a(c)(7)(C)(iv)\]. The amendments made by subsections (a) and (b) shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 587 \[3009–587\]). Such portions of the amendments made by subsection (b) that relate to section 244(a)(3) \[8 U.S.C. 1254(a)(3)\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996) shall take effect as if included in subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\].”
 
 Pub. L. 106–386, div. B, title V, §1506(b)(2), Oct. 28, 2000, 114 Stat. 1527, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 304 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208; 110 Stat. 587 \[3009–587\]).”
 
@@ -182,11 +198,23 @@ Section 204(e) of Pub. L. 105–100 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision that subsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision that subsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, seesection 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Discretion To Consent to an Alien's Reapplication for Admission
+
+Pub. L. 109–162, title VIII, §813(b), Jan. 5, 2006, 119 Stat. 3058, provided that:
+
+“(1)
+
+In general.—The Secretary of Homeland Security, the Attorney General, and the Secretary of State shall continue to have discretion to consent to an alien's reapplication for admission after a previous order of removal, deportation, or exclusion.
+
+“(2)
+
+Sense of congress.—It is the sense of Congress that the officials described in paragraph (1) should particularly consider exercising this authority in cases under the Violence Against Women Act of 1994 \[Pub. L. 103–322, title IV, see Tables for classification\], cases involving nonimmigrants described in subparagraph (T) or (U) of section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)), and relief under section 240A(b)(2) \[8 U.S.C. 1229b(b)(2)\] or 244(a)(3) \[8 U.S.C. 1254(a)(3)\] of such Act (as in effect on March 31, 1997) pursuant to regulations under section 212.2 of title 8, Code of Federal Regulations.”
 
 #### Definitions
 

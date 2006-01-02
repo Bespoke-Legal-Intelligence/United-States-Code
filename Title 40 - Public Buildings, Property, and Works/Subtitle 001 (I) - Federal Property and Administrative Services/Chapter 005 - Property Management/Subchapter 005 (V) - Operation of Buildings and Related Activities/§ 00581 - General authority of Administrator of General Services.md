@@ -20,11 +20,11 @@ Real estate.—The Administrator may acquire, by purchase, condemnation, or othe
 
 &emsp;(2)
 
-Ground rent.—The Administrator may pay ground rent for buildings owned by theFederal Government or occupied by federal agencies, and pay the rent in advance if required by law or if the Administrator determines that advance payment is in the public interest.
+Ground rent.—The Administrator may pay ground rent for buildings owned by the Federal Government or occupied by federal agencies, and pay the rent in advance if required by law or if the Administrator determines that advance payment is in the public interest.
 
 &emsp;(3)
 
-Rent and repairs under a lease.—The Administrator may pay rent and make repairs, alterations, and improvements under the terms of a lease entered into by, or transferred to, the Administration for the housing of a federal agency.
+Rent and repairs under a lease.—The Administrator may pay rent and make repairs,alterations, and improvements under the terms of a lease entered into by, or transferred to, the Administration for the housing of a federal agency.
 
 &emsp;(4)
 
@@ -122,7 +122,7 @@ Deposit and credit of amounts received.—The Administrator may deposit into the
 
 &emsp;(4)
 
-Furnishing utilities and maintenance.—The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
+Furnishing utilities and maintenance.—The Administrator may furnish utilities,maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, §1706(a), Nov. 25, 2002, 116 Stat. 2316.)
 
@@ -180,7 +180,7 @@ Therefore, to the extent permitted by law, I hereby direct the Administrator of 
 
 The procedures should be developed in accordance with the following:
 
-1\. (a) Upon request, and to the extent permitted by law and where practicable, executive departments and agencies shall make available Federal Government buildings and lands for the siting of mobile service antennas. This should be done in accordance with Federal, State, and local laws and regulations, and consistent with national security concerns (including minimizing mutual electromagnetic interactions), public health and safety concerns, environmental and aesthetic concerns, preservation of historic buildings and monuments, protection of natural and cultural resources, protection of national park and wilderness values, protection of National Wildlife Refuge systems, and subject to any Federal requirements promulgated by the agency managing the facility and the Federal Communications Commission, the Federal Aviation Administration, National Telecommunications and Information Administration, and other relevant departments and agencies.
+1\. (a) Upon request, and to the extent permitted by law and where practicable, executive departments and agencies shall make available Federal Government buildings and lands for the siting of mobile service antennas. This should be done in accordance with Federal, State, and local laws and regulations, and consistent with national security concerns (including minimizing mutual electromagnetic interactions), publichealth and safety concerns, environmental and aesthetic concerns, preservation of historic buildings and monuments, protection of natural and cultural resources, protection of national park and wilderness values, protection of National Wildlife Refuge systems, and subject to any Federal requirements promulgated by the agency managing the facility and the Federal Communications Commission, the Federal Aviation Administration, National Telecommunications and Information Administration, and other relevant departments and agencies.
 
 (b) Antennas on Federal buildings or land may not contain any advertising.
 

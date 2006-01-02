@@ -6,7 +6,7 @@
 
 &emsp;(2) serve as and perform the duties of a trustee in a case under title 11 when required under title 11 to serve as trustee in such a case;
 
-&emsp;(3) supervise the administration of cases and trustees in cases under chapter 7, 11, 12, or 13 of title 11 by, whenever the United States trustee considers it to be appropriate—
+&emsp;(3) supervise the administration of cases and trustees in cases under chapter 7, 11, 12, 13, or 15 of title 11 by, whenever the United States trustee considers it to be appropriate—
 
 &emsp;&emsp;(A)(i) reviewing, in accordance with procedural guidelines adopted by the Executive Office of the United States Trustee (which guidelines shall be applied uniformly by the United States trustee except when circumstances warrant different treatment), applications filed for compensation and reimbursement under section 330 of title 11; and
 
@@ -22,21 +22,45 @@
 
 &emsp;&emsp;(F) notifying the appropriate United States attorney of matters which relate to the occurrence of any action which may constitute a crime under the laws of the United States and, on the request of the United States attorney, assisting the United States attorney in carrying out prosecutions based on such action;
 
-&emsp;&emsp;(G) monitoring the progress of cases under title 11 and taking such actions as the United States trustee deems to be appropriate to prevent undue delay in such progress; and
+&emsp;&emsp;(G) monitoring the progress of cases under title 11 and taking such actions as the United States trustee deems to be appropriate to prevent undue delay in such progress;
 
-&emsp;&emsp;(H) monitoring applications filed under section 327 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to the approval of such applications;
+&emsp;&emsp;(H) in small business cases (as defined in section 101 of title 11), performing the additional duties specified in title 11 pertaining to such cases; and
+
+&emsp;&emsp;(I) monitoring applications filed under section 327 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to the approval of such applications;
 
 &emsp;(4) deposit or invest under section 345 of title 11 money received as trustee in cases under title 11;
 
-&emsp;(5) perform the duties prescribed for the United States trustee under title 11 and this title, and such duties consistent with title 11 and this title as the Attorney General may prescribe; and
+&emsp;(5) perform the duties prescribed for the United States trustee under title 11 and this title, and such duties consistent with title 11 and this title as the Attorney General may prescribe;
 
-&emsp;(6) make such reports as the Attorney General directs.
+&emsp;(6) make such reports as the Attorney General directs, including the results of audits performed under section 603(a) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005;
+
+&emsp;(7) in each of such small business cases—
+
+&emsp;&emsp;(A) conduct an initial debtor interview as soon as practicable after the date of the order for relief but before the first meeting scheduled under section 341(a) of title 11, at which time the United States trustee shall—
+
+&emsp;&emsp;&emsp;(i) begin to investigate the debtor's viability;
+
+&emsp;&emsp;&emsp;(ii) inquire about the debtor's business plan;
+
+&emsp;&emsp;&emsp;(iii) explain the debtor's obligations to file monthly operating reports and other required reports;
+
+&emsp;&emsp;&emsp;(iv) attempt to develop an agreed scheduling order; and
+
+&emsp;&emsp;&emsp;(v) inform the debtor of other obligations;
+
+&emsp;&emsp;(B) if determined to be appropriate and advisable, visit the appropriate business premises of the debtor, ascertain the state of the debtor's books and records, and verify that the debtor has filed its tax returns; and
+
+&emsp;&emsp;(C) review and monitor diligently the debtor's activities, to identify as promptly as possible whether the debtor will be unable to confirm a plan; and
+
+&emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, the United States trustee shall apply promptly after making that finding to the court for relief.
 
 (b) If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
 (c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 
-(d) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11.
+(d)(1) The Attorney General shall prescribe by rule qualifications for membership on the panels established by United States trustees under paragraph (a)(1) of this section, and qualifications for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11. The Attorney General may not require that an individual be an attorney in order to qualify for appointment under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11.
+
+(2) A trustee whose appointment under subsection (a)(1) or under subsection (b) is terminated or who ceases to be assigned to cases filed under title 11, United States Code, may obtain judicial review of the final agency decision by commencing an action in the district court of the United States for the district for which thepanel to which the trustee is appointed under subsection (a)(1), or in the district court of the United States for the district in which the trustee is appointed under subsection (b) resides, after first exhausting all available administrative remedies, which if the trustee so elects, shall also include an administrative hearing on the record. Unless the trustee elects to have an administrative hearing on the record, the trustee shall be deemed to have exhausted all administrative remedies for purposes of this paragraph if the agency fails to make a final agency decision within 90 days after the trustee requests administrative remedies. The Attorney General shall prescribe procedures to implement this paragraph. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based on the administrative record before the agency.
 
 (e)(1) The Attorney General, after consultation with a United States trustee that has appointed an individual under subsection (b) of this section to serve as standing trustee in cases under chapter 12 or 13 of title 11, shall fix—
 
@@ -68,9 +92,25 @@
 
 &emsp;&emsp;(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases. Subject to the approval of the Attorney General, any or all of the interest earned from the deposit of payments under plans by such individual may be utilized to pay actual, necessary expenses without regard to the percentage limitation contained in subparagraph (d)(1)(B) of this section.
 
-(Added Pub. L. 95–598, title II, §224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, §113, Oct. 27, 1986, 100 Stat. 3091; Pub. L. 101–509, title V, §529 \[title I, §110(a)\], Nov. 5, 1990, 104 Stat. 1427, 1452; Pub. L. 103–394, title II, §224(a), title V, §502, Oct. 22, 1994, 108 Stat. 4130, 4147.)
+(3) After first exhausting all available administrative remedies, an individual appointed under subsection (b) may obtain judicial review of final agency action to deny a claim of actual, necessary expenses under this subsection by commencing an action in the district court of the United States for the district where the individual resides. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based upon the administrative record before the agency.
+
+(4) The Attorney General shall prescribe procedures to implement this subsection.
+
+(f)(1) The United States trustee for each district is authorized to contract with auditors to perform audits in cases designated by the United States trustee, in accordance with the procedures established under section 603(a) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005.
+
+(2)(A) The report of each audit referred to in paragraph (1) shall be filed with the court and transmitted to the United States trustee. Each report shall clearly and conspicuously specify any material misstatement of income or expenditures or of assets identified by the person performing the audit. In any case in which a material misstatement of income or expenditures or of assets has been reported, the clerk of the district court (or the clerk of the bankruptcy court if one is certified under section 156(b) of this title) shall give notice of the misstatement to the creditors in the case.
+
+(B) If a material misstatement of income or expenditures or of assets is reported, the United States trustee shall—
+
+&emsp;(i) report the material misstatement, if appropriate, to the United States Attorney pursuant to section 3057 of title 18; and
+
+&emsp;(ii) if advisable, take appropriate action, including but not limited to commencing an adversary proceeding to revoke the debtor's discharge pursuant to section 727(d) of title 11.
+
+(Added Pub. L. 95–598, title II, §224(a), Nov. 6, 1978, 92 Stat. 2663; amended Pub. L. 99–554, title I, §113, Oct. 27, 1986, 100 Stat. 3091; Pub. L. 101–509, title V, §529 \[title I, §110(a)\], Nov. 5, 1990, 104 Stat. 1427, 1452; Pub. L. 103–394, title II, §224(a), title V, §502, Oct. 22, 1994, 108 Stat. 4130, 4147; Pub. L. 109–8, title IV, §439, title VI, §603(b), title VIII, §802(c)(3), title XII, §1231, Apr. 20, 2005, 119 Stat. 113, 122, 146, 201.)
 
 #### References in Text
+
+Section 603(a) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsecs. (a)(6) and (f)(1), is section 603(a) of Pub. L. 109–8, which is set out as a note under this section.
 
 Level V of the Executive Schedule, referred to in subsec. (e)(1)(A)(i), is set out in section 5316 of Title 5, Government Organization and Employees.
 
@@ -79,6 +119,20 @@ Level V of the Executive Schedule, referred to in subsec. (e)(1)(A)(i), is set o
 Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of this section and the deletion of any references to United States Trustees in this title at a prospective date, was repealed by section 307(b) of Pub. L. 99–554. See note set out preceding section 581 of this title.
 
 #### Amendments
+
+2005—Subsec. (a)(3). Pub. L. 109–8, §802(c)(3), substituted “13, or 15” for “or 13” in introductory provisions.
+
+Subsec. (a)(3)(H), (I). Pub. L. 109–8, §439(1), added subpar. (H) and redesignated former subpar. (H) as (I).
+
+Subsec. (a)(6). Pub. L. 109–8, §603(b)(1), added par. (6) and struck out former par. (6) which read as follows: “make such reports as the Attorney General directs;”.
+
+Subsec. (a)(7), (8). Pub. L. 109–8, §439(2)–(4), added pars. (7) and (8).
+
+Subsec. (d). Pub. L. 109–8, §1231(a), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (e)(3), (4). Pub. L. 109–8, §1231(b), added pars. (3) and (4).
+
+Subsec. (f). Pub. L. 109–8, §603(b)(2), added subsec. (f).
 
 1994—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
 
@@ -112,6 +166,12 @@ Subsec. (e). Pub. L. 99–554, §113(c), amended subsec. (e) generally. Prior to
 
 &emsp;&emsp;“(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases.”
 
+#### Effective Date of 2005 Amendment
+
+Amendment by sections 439, 802(c)(3), and 1231 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+
+Amendment by section 603(b) of Pub. L. 109–8 effective 18 months after Apr. 20, 2005, see section 603(e) of Pub. L. 109–8, set out as a note under section 521 of Title 11, Bankruptcy.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
@@ -123,6 +183,26 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 #### Effective Date of 1986 Amendment
 
 Effective date and applicability of amendment by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out as a note under section 581 of this title.
+
+#### Audit Procedures
+
+Pub. L. 109–8, title VI, §603(a), Apr. 20, 2005, 119 Stat. 122, provided that:
+
+“(1)
+
+Establishment of procedures.—The Attorney General (in judicial districts served by United States trustees) and the Judicial Conference of the United States (in judicial districts served by bankruptcy administrators) shall establish procedures to determine the accuracy, veracity, and completeness of petitions, schedules, and other information that the debtor is required to provide under sections 521 and 1322 of title 11, United States Code, and, if applicable, section 111 of such title, in cases filed under chapter 7 or 13 of such title in which the debtor is an individual. Such audits shall be in accordance with generally accepted auditingstandards and performed by independent certified public accountants or independent licensed public accountants, provided that the Attorney General and the Judicial Conference, as appropriate, may develop alternative auditing standards not later than 2 years after the date of enactment of this Act \[Apr. 20, 2005\].
+
+“(2)
+
+Procedures.—Those procedures required by paragraph (1) shall—
+
+&emsp;“(A) establish a method of selecting appropriate qualified persons to contract to perform those audits;
+
+&emsp;“(B) establish a method of randomly selecting cases to be audited, except that not less than 1 out of every 250 cases in each Federal judicial district shall be selected for audit;
+
+&emsp;“(C) require audits of schedules of income and expenses that reflect greater than average variances from the statistical norm of the district in which the schedules were filed if those variances occur by reason of higher income or higher expenses than the statistical norm of the district in which the schedules were filed; and
+
+&emsp;“(D) establish procedures for providing, not less frequently than annually, public information concerning the aggregate results of such audits including the percentage of cases, by district, in which a material misstatement of income or expenditures is reported.”
 
 #### Application to All Standing Trustees
 

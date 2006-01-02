@@ -6,7 +6,7 @@ Scope of Determination.—Before the date of first distribution in the United St
 
 (b)
 
-Initiation of Proceedings.—The parties under subsection (a) shall file the petition with the Copyright Royalty Judges requesting thecommencement of a proceeding. Within 2 weeks after receiving such a petition, the Chief Copyright Royalty Judge shall cause notice to be published in the Federal Register of the initiation of the proceeding.
+Initiation of Proceedings.—The parties under subsection (a) shall file the petition with the Copyright Royalty Judges requesting the commencement of a proceeding. Within 2 weeks after receiving such a petition, the Chief Copyright Royalty Judge shall cause notice to be published in the Federal Register of the initiation of the proceeding.
 
 (c)
 

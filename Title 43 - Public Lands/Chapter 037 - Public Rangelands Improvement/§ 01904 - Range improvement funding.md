@@ -14,7 +14,7 @@ No less than 80 per centum of such funds provided herein shall be used for on-th
 
 #### (d) Environmental assessment record and environmental impact statement requirements
 
-Prior to the use of any funds authorized by this section the Secretary shall cause to haveprepared an environmental assessment record on each range improvement project. Thereafter, improvement projects may be constructed unless the Secretary determines that the project will have a significant impact on the quality of human environment, necessitating an environmental impact statement pursuant to the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\] prior to the expenditure of funds.
+Prior to the use of any funds authorized by this section the Secretary shall cause to have prepared an environmental assessment record on each range improvement project. Thereafter, improvement projects may be constructed unless the Secretary determines that the project will have a significant impact on the quality of human environment, necessitating an environmental impact statement pursuant to the National Environmental Policy Act \[42 U.S.C. 4321 et seq.\] prior to the expenditure of funds.
 
 (Pub. L. 95–514, §5, Oct. 25, 1978, 92 Stat. 1805.)
 

@@ -42,7 +42,7 @@
 
 (b) If an eligible person has attained the person's majority and is under no known legal disability, all references in this chapter to “parent or guardian” shall refer to the eligible person.
 
-(c) Any provision of this chapter which requires any action to be taken by or with respect to the parent or guardian of an eligible person who has not attained such person's majority, or who, having attained such person's majority, is under a legal disability, shall not apply when the Secretary determines that its application would not be in the best interest of the eligible person, would result in undue delay, or wouldnot be administratively feasible. In such a case the Secretary, where necessary to protect the interest of the eligible person, may designate some other person (who may be the eligible person) as the person by or with respect to whom the action so required should be taken.
+(c) Any provision of this chapter which requires any action to be taken by or with respect to the parent or guardian of an eligible person who has not attained such person's majority, or who, having attained such person's majority, is under a legal disability, shall not apply when the Secretary determines that its application would not be in the best interest of the eligible person, would result in undue delay, or would not be administratively feasible. In such a case the Secretary, where necessary to protect the interest of the eligible person, may designate some other person (who may be the eligible person) as the person by or with respect to whom the action so required should be taken.
 
 (d) No eligible person may be afforded educational assistance under this chapter unless such person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
 
@@ -58,7 +58,7 @@ Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title,
 
 #### Amendments
 
-2004—Subsec. (a)(5). Pub. L. 108—454 inserted at end “Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).”
+2004—Subsec. (a)(5). Pub. L. 108–454 inserted at end “Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).”
 
 2001—Subsec. (a)(1)(D). Pub. L. 107–103, §108(a), inserted cl. (i) designation after “(D)” and cl. (ii) designation after “or”.
 

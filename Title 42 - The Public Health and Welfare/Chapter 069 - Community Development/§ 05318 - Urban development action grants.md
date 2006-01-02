@@ -32,7 +32,7 @@ Applications for assistance under this section shall—
 
 (1) Except in the case of a city or urban county eligible under subsection (b)(2) of this section, the Secretary shall establish selection criteria for a national competition for grants under this section which must include—
 
-&emsp;(A) the comparative degree of economic distress among applicants, as measured (in the case of a metropolitan city or urban county) by the differences in the extent of growth lag, the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
+&emsp;(A) the comparative degree of economic distress among applicants, as measured (in thecase of a metropolitan city or urban county) by the differences in the extent of growth lag, the extent of poverty, and the adjusted age of housing in the metropolitan city or urban county;
 
 &emsp;(B) other factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration in cities and urban counties;
 
@@ -128,7 +128,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (1) Speculative projects
 
-&emsp;No assistance may be provided under this section for projects intended to facilitate the relocation of industrial or commercial plants or facilities from one area to another, unless the Secretary finds that the relocation does not significantly and adversely affect the unemployment or economic base of the area fromwhich the industrial or commercial plant or facility is to be relocated. The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.
+&emsp;No assistance may be provided under this section for projects intended to facilitate the relocation of industrial or commercial plants or facilities from one area to another, unless the Secretary finds that the relocation does not significantly and adversely affect the unemployment or economic base of the area from which the industrial or commercial plant or facility is to be relocated. The provisions of this paragraph shall apply only to projects that do not have identified intended occupants.
 
 #### (2) Projects with identified intended occupants
 
@@ -192,7 +192,7 @@ In the case of any application which identifies any property in accordance with 
 
 #### (n) Territories, tribes, and certain Hawaiian counties included in term “city”
 
-(1) For the purposes of this section, the term “city” includes Guam, American Samoa, the Northern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
+(1) For the purposes of this section, the term “city” includes Guam, American Samoa, theNorthern Mariana Islands, the Virgin Islands, and Indian tribes. Such term also includes the counties of Kauai, Maui and Hawaii in the State of Hawaii.
 
 (2) The Secretary may not approve a grant to an Indian tribe under this section unless the tribe (A) is located on a reservation, or on former Indian reservations in Oklahoma as determined by the Secretary of the Interior, or in an Alaskan Native Village, and (B) was an eligible recipient under chapter 67 of title 31 prior to the repeal of such chapter.
 
@@ -238,7 +238,7 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 
 #### References in Text
 
-For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242, set out as an Effective Date of 1988 Amendment note below.
+For effective date of this paragraph, referred to in subsec. (h)(5)(C)(i), see section 516(b) of Pub. L. 100–242,set out as an Effective Date of 1988 Amendment note below.
 
 Chapter 67 of title 31, referred to in subsec. (n)(2)(B), was repealed by Pub. L. 99–272, title XIV, §14001(a)(1), Apr. 7, 1986, 100 Stat. 327.
 
@@ -306,7 +306,7 @@ Subsec. (i). Pub. L. 98–181, §121(f), inserted provisions relating to applica
 
 Subsecs. (p) to (r). Pub. L. 98–181, §121(g), added subsecs. (p) to (r).
 
-1981—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclature and phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
+1981—Pub. L. 97–35 substantially restructured and reorganized provisions, made changes in nomenclatureand phraseology, and revised purposes, selection criteria and standards, application procedures, approval powers of Secretary, covered activities, limitations, allocation computations, funding prerequisites, amounts for grants, waivers, notice requirements, applicable definitions, and special provisions for years after 1983.
 
 1980—Subsec. (c)(7). Pub. L. 96–399, §110(a)(1)–(3), added par. (7).
 
@@ -476,7 +476,7 @@ Approval.—For a plan to be eligible for assistance available under this title,
 
 &emsp;“(3)
 
-Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtainingapproval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
+Amendment.—An approved new town plan for the demonstration program developed by the governing board may be amended by the board by obtaining approval of the amendment in the manner provided under this subsection for approval of plans. If the chief executive officer of the unit of general local government does not approve or return the amended plan within 30 days of submission, the amended plan shall be considered to be approved for purposes of this subsection.
 
 #### “SEC. 1103. NEW TOWN DEVELOPMENT DEMONSTRATION PROGRAM REQUIREMENTS.
 
@@ -588,7 +588,7 @@ In general.—Assistance under this section shall be repaid in accordance with t
 
 &emsp;“(2)
 
-Terms.—During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this section may be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
+Terms.—During the period ending upon repayment of the assistance as provided in this subsection, any building containing rental units that is provided assistance under this section shall be used as rental housing subject to the requirements of section 1103(c)(4). During the period ending upon repayment of the assistance as provided in this subsection, any dwelling unit made available for purchase by the occupant that is provided assistance under this sectionmay be sold only to a family having an income not exceeding the amount specified in section 1103(c)(2).
 
 &emsp;“(3)
 

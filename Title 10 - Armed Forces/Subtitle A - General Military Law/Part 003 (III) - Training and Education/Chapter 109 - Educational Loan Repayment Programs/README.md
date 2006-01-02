@@ -17,10 +17,6 @@
 
 1994—Pub. L. 103–337, div. A, title XVI, §1671(b)(13), Oct. 5, 1994, 108 Stat. 3014, added item 2171 and struck out former items 2171 “General educational loan repayment program” and 2172 “Education loans for certain health professionals who serve in the Selected Reserve”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 38 section 3033.
-
 
 ---
 

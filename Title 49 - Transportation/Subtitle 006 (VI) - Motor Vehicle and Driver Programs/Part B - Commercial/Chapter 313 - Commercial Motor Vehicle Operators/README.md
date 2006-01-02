@@ -14,7 +14,7 @@
 | [31310\.](%C2%A7%2031310%20-%20Disqualifications.md) | Disqualifications. |
 | [31311\.](%C2%A7%2031311%20-%20Requirements%20for%20State%20participation.md) | Requirements for State participation. |
 | [31312\.](%C2%A7%2031312%20-%20Decertification%20authority.md) | Decertification authority. |
-| \[31313. | Repealed.\] |
+| [31313\.](%C2%A7%2031313%20-%20Grants%20for%20commercial%20driver%27s%20license%20program%20improvements.md) | Grants for commercial driver's license program improvements. |
 | [31314\.](%C2%A7%2031314%20-%20Withholding%20amounts%20for%20State%20noncompliance.md) | Withholding amounts for State noncompliance. |
 | [31315\.](%C2%A7%2031315%20-%20Waivers%2C%20exemptions%2C%20and%20pilot%20programs.md) | Waivers, exemptions, and pilot programs. |
 | [31316\.](%C2%A7%2031316%20-%20Limitation%20on%20statutory%20construction.md) | Limitation on statutory construction. |
@@ -23,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title IV, §4124(b), Aug. 10, 2005, 119 Stat. 1738, added item 31313.
 
 1999—Pub. L. 106–159, title II, §203(b), Dec. 9, 1999, 113 Stat. 1762, added item 31312.
 
@@ -45,7 +47,7 @@
 - [&sect; 31310 - Disqualifications](%C2%A7%2031310%20-%20Disqualifications.md)
 - [&sect; 31311 - Requirements for State participation](%C2%A7%2031311%20-%20Requirements%20for%20State%20participation.md)
 - [&sect; 31312 - Decertification authority](%C2%A7%2031312%20-%20Decertification%20authority.md)
-- [&sect; 31313 - Repealed. Pub. L. 105&#8211;178, title IV, &sect;4011(f), June 9, 1998, 112 Stat. 408](%C2%A7%2031313%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93178%2C%20title%20IV%2C%20%C2%A74011%28f%29%2C%20June%209%2C%201998%2C%20112%20Stat.%20408.md)
+- [&sect; 31313 - Grants for commercial driver's license program improvements](%C2%A7%2031313%20-%20Grants%20for%20commercial%20driver%27s%20license%20program%20improvements.md)
 - [&sect; 31314 - Withholding amounts for State noncompliance](%C2%A7%2031314%20-%20Withholding%20amounts%20for%20State%20noncompliance.md)
 - [&sect; 31315 - Waivers, exemptions, and pilot programs](%C2%A7%2031315%20-%20Waivers%2C%20exemptions%2C%20and%20pilot%20programs.md)
 - [&sect; 31316 - Limitation on statutory construction](%C2%A7%2031316%20-%20Limitation%20on%20statutory%20construction.md)

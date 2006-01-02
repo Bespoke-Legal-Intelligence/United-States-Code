@@ -60,7 +60,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### (1) Requirement
 
-&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds from the portion specified in section 9835(a)(6) of this title to monitor the operation of such programs, evaluate their effectiveness, and provide training and technical assistance tailored to the particular needs of such programs.
+&emsp;In order to ensure the successful operation of programs assisted under this section, the Secretary shall use funds from the portionspecified in section 9835(a)(6) of this title to monitor the operation of such programs, evaluate their effectiveness, and provide training and technical assistance tailored to the particular needs of such programs.
 
 #### (2) Training and technical assistance account
 
@@ -84,7 +84,7 @@ In awarding grants to eligible applicants under this section, the Secretary shal
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(8), is title VI of Pub. L. 91–230,Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(8), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 

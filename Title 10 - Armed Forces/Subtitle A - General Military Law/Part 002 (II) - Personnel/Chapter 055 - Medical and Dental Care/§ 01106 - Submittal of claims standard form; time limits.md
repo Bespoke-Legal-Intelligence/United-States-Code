@@ -68,7 +68,7 @@ System Functions.—The claims processing system shall include at least the foll
 
 &emsp;“(3) The ability to process, adjudicate, and pay (by electronic or other means) such claims.
 
-&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the mattersreferred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
+&emsp;“(4) The provision of the information described in paragraphs (1) and (2) and information on the matters referred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
 
 “(c)
 

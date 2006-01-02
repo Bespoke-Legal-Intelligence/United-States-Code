@@ -8,9 +8,9 @@
 
 (c)(1) A labor organization shall be, for purposes of this section, the authorized representative of those persons receiving any retiree benefits covered by any collective bargaining agreement to which that labor organization is signatory, unless (A) such labor organization elects not to serve as the authorized representative of such persons, or (B) the court, upon a motion by any party in interest, after notice and hearing, determines that different representation of such persons is appropriate.
 
-(2) In cases where the labor organization referred to in paragraph (1) elects not to serve as the authorized representative of those persons receiving any retiree benefits covered by any collective bargaining agreement to which that labor organization is signatory, or in cases where the court, pursuant to paragraph (1) finds different representation of such persons appropriate, the court, upon a motion by any party in interest, and after notice and a hearing, shallappoint a committee of retired employees if the debtor seeks to modify or not pay the retiree benefits or if the court otherwise determines that it is appropriate, from among such persons, to serve as the authorized representative of such persons under this section.
+(2) In cases where the labor organization referred to in paragraph (1) elects not to serve as the authorized representative of those persons receiving any retiree benefits covered by any collective bargaining agreement to which that labor organization is signatory, or in cases where the court, pursuant to paragraph (1) finds different representation of such persons appropriate, the court, upon a motion by any party in interest, and after notice and a hearing, shall appoint a committee of retired employees if the debtor seeks to modify or not pay the retiree benefits or if the court otherwise determines that it is appropriate, from among such persons, to serve as the authorized representative of such persons under this section.
 
-(d) The court, upon a motion by any party in interest, and after notice and a hearing, shall appoint a committee of retired employees if the debtor seeks to modify or not pay the retiree benefits or if the court otherwise determines that it is appropriate, to serve as the authorized representative, under this section, of those persons receiving any retiree benefits not covered by a collective bargaining agreement.
+(d) The court, upon a motion by any party in interest, and after notice and a hearing, shall order the appointment of a committee of retired employees if the debtor seeks to modify or not pay the retiree benefits or if the court otherwise determines that it is appropriate, to serve as the authorized representative, under this section, of those persons receiving any retiree benefits not covered by a collective bargaining agreement. The United States trustee shall appoint any such committee.
 
 (e)(1) Notwithstanding any other provision of this title, the debtor in possession, or the trustee if one has been appointed under the provisions of this chapter (hereinafter in this section “trustee” shall include a debtor in possession), shall timely pay and shall not modify any retiree benefits, except that—
 
@@ -56,9 +56,29 @@
 
 (3) The court may enter such protective orders, consistent with the need of the authorized representative of the retirees to evaluate the trustee's proposal and the application for modification, as may be necessary to prevent disclosure of information provided to such representative where such disclosure could compromise the position of the debtor with respect to its competitors in the industry in which it is engaged.
 
-(<i>l</i>) This section shall not apply to any retiree, or the spouse or dependents of such retiree, if such retiree's gross income for the twelve months preceding the filing of the bankruptcy petition equals or exceeds $250,000, unless such retiree can demonstrate to the satisfaction of the court that he is unable to obtain health, medical, life, and disability coverage for himself, his spouse, and his dependents who would otherwise be covered by the employer's insurance plan, comparable to the coverage provided by the employer on the day before the filing of a petition under this title.
+(<i>l</i>) If the debtor, during the 180-day period ending on the date of the filing of the petition—
 
-(Added Pub. L. 100–334, §2(a), June 16, 1988, 102 Stat. 610.)
+&emsp;(1) modified retiree benefits; and
+
+&emsp;(2) was insolvent on the date such benefits were modified;
+
+> the court, on motion of a party in interest, and after notice and a hearing, shall issue an order reinstating as of the date the modification was made, such benefits as in effect immediately before such date unless the court finds that the balance of the equities clearly favors such modification.
+
+(m) This section shall not apply to any retiree, or the spouse or dependents of such retiree, if such retiree's gross income for the twelve months preceding the filing of the bankruptcy petition equals or exceeds $250,000, unless such retiree can demonstrate to the satisfaction of the court that he is unable to obtain health, medical, life, and disability coverage for himself, his spouse, and his dependents who would otherwise be covered by the employer's insurance plan, comparable to the coverage provided by the employer on the day before the filing of a petition under this title.
+
+(Added Pub. L. 100–334, §2(a), June 16, 1988, 102 Stat. 610; amended Pub. L. 109–8, title IV, §447, title XIV, §1403, Apr. 20, 2005, 119 Stat. 118, 215.)
+
+#### Amendments
+
+2005—Subsec. (d). Pub. L. 109–8, §447, substituted “order the appointment of” for “appoint” and inserted “The United States trustee shall appoint any such committee.” at end.
+
+Subsecs. (<i>l</i>), (m). Pub. L. 109–8, §1403, added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by section 1403 of Pub. L. 109–8 effective Apr. 20, 2005, and applicable only with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1406 of Pub. L. 109–8, set out as a note under section 507 of this title.
+
+Amendment by section 447 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date
 

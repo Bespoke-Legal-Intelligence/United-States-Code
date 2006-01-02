@@ -42,7 +42,7 @@ For purposes of this part:
 
 &emsp;&emsp;(F) The development of guidance, policy documents, or regulations to improve the process for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
 
-&emsp;&emsp;(G) The development of voluntary test methods, consensus standards, or mandatory performance standards under section 360d ofthis title in connection with the review of such applications, reports, supplements, or submissions and related activities.
+&emsp;&emsp;(G) The development of voluntary test methods, consensus standards, or mandatory performance standards under section 360d of this title in connection with the review of such applications, reports, supplements, or submissions and related activities.
 
 &emsp;&emsp;(H) The provision of technical assistance to device manufacturers in connection with the submission of such applications, reports, supplements, or submissions.
 
@@ -106,11 +106,23 @@ Pub. L. 107–250, title I, §101, Oct. 26, 2002, 116 Stat. 1589, provided that:
 
 #### Annual Reports
 
-Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, provided that: “Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
+Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, as amended by Pub. L. 109–43, §2(b), Aug. 1, 2005, 119 Stat. 441, provided that:
+
+“(a)
+
+In General.—Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
 
 &emsp;“(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
 
-&emsp;“(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the end of each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].”
+&emsp;“(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the end of each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].
+
+“(b)
+
+Additional Information.—For fiscal years 2006 and 2007, the report described under subsection (a)(2) shall include—
+
+&emsp;“(1) information on the number of different types of applications and notifications, and the total amount of fees paid for each such type of application or notification, from businesses with gross receipts or sales from $0 to $100,000,000, with such businesses categorized in $10,000,000 intervals; and
+
+&emsp;“(2) a certification by the Secretary that the amounts appropriated for salaries and expenses of the Food and Drug Administration for such fiscal year and obligated by the Secretary for the performance of any function relating to devices that is not for the process for the review of device applications, as defined in paragraph (5) of section 737 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i), are not less than such amounts for fiscal year 2002 multiplied by the adjustment factor, as defined in paragraph (7) of such section 737.”
 
 \[Section 103 of Pub. L. 107–250, set out above, ceases to be effective Jan. 31, 2008, see Effective and Termination Dates note above.\]
 

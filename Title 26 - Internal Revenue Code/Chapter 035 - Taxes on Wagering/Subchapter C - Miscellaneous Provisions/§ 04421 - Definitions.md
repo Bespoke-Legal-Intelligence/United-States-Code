@@ -28,7 +28,3 @@ For purposes of this chapter—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 528.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4405, 4414 of this title.
-

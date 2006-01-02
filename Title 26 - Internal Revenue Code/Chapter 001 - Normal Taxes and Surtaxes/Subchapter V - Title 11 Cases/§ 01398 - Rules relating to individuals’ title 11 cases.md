@@ -72,7 +72,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (1) Estate's share of debtor's income
 
-&emsp;The gross income of the estate for each taxable year shall include the gross income of thedebtor to which the estate is entitled under title 11 of the United States Code. The preceding sentence shall not apply to any amount received or accrued by the debtor before the commencement date (as defined in subsection (d)(3)).
+&emsp;The gross income of the estate for each taxable year shall include the gross income of the debtor to which the estate is entitled under title 11 of the United States Code. The preceding sentence shall not apply to any amount received or accrued by the debtor before the commencement date (as defined in subsection (d)(3)).
 
 #### (2) Debtor's share of debtor's income
 
@@ -92,7 +92,7 @@ Except as provided in subsection (b), this section shall apply to any case under
 
 #### (1) Transfer to estate not treated as disposition
 
-&emsp;A transfer (other than by sale or exchange) of an asset from the debtor to the estate shall not be treated as a disposition for purposes of any provision of this title assigning tax consequences to a disposition, and the estate shall be treated as the debtor would be treated with respect to such asset.
+&emsp;A transfer (other than by sale or exchange) of an asset from the debtor to the estate shall not be treated as a disposition for purposes ofany provision of this title assigning tax consequences to a disposition, and the estate shall be treated as the debtor would be treated with respect to such asset.
 
 #### (2) Transfer from estate to debtor not treated as disposition
 
@@ -156,7 +156,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (D) Administrative expense deductions allowed only to estate
 
-&emsp;&emsp;The deductions allowable under this chapter solely by reason of paragraph (1), and thededuction provided by subparagraph (A) of this paragraph, shall be allowable only to the estate.
+&emsp;&emsp;The deductions allowable under this chapter solely by reason of paragraph (1), and the deduction provided by subparagraph (A) of this paragraph, shall be allowable only to the estate.
 
 #### (i) Debtor succeeds to tax attributes of estate
 
@@ -221,8 +221,4 @@ Subchapter applicable to bankruptcy cases commencing more than 90 days after Dec
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 108, 443, 1399, 6103 of this title.
 

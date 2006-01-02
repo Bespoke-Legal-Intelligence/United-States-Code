@@ -44,7 +44,7 @@
 | (9) | “Person” defined. |
 | 608a–1. | Repealed. |
 | [608b.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000608b%20-%20Marketing%20agreements%3B%20exemption%20from%20anti-trust%20laws%3B%20inspection%20requirements%20for%20handlers%20not%20subject%20to%20agreements.md) | Marketing agreements; exemption from antitrust laws; inspection requirements for handlers not subject to agreements. |
-| [608c.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000608c%20-%20Orders%20regulating%20handling%20of%20commodity.md) | Orders regulating handling of commodity. |
+| [608c.](Subchapter%20003%20%28III%29%20-%20Commodity%20Benefits/%C2%A7%2000608c%20-%20Orders.md) | Orders regulating handling of commodity. |
 | (1) | Issuance by Secretary. |
 | (2) | Commodities to which applicable; single commodities and separate agricultural commodities. |
 | (3) | Notice and hearing. |

@@ -44,7 +44,7 @@ The monthly annuity installment, after adjustment under this section, shall be r
 
 &emsp;&emsp;(B) the final pay (or average pay, if higher) of the participant with respect to whom the annuity is paid, increased by the overall annual average percentage adjustments (compounded) in the rates of pay of the General Schedule under subchapter I of chapter 53 of title 5 during the period—
 
-&emsp;&emsp;&emsp;(i) beginning on the date on which the annuity commenced (or, in the case of a survivor of the retired participant, the date on which the participant's annuity commenced), and
+&emsp;&emsp;&emsp;(i) beginning on the date on which the annuity commenced (or, in the case of asurvivor of the retired participant, the date on which the participant's annuity commenced), and
 
 &emsp;&emsp;&emsp;(ii) ending on the effective date of the adjustment under this section.
 

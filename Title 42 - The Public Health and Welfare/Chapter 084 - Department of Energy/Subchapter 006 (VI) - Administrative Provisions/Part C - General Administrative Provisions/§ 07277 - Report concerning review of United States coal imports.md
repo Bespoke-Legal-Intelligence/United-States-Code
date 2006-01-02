@@ -8,7 +8,7 @@ The Energy Information Administration shall issue a report quarterly, and provid
 
 Each report required by this section shall—
 
-&emsp;(1) include current and previous year data on the quantity, quality (including heating value,sulfur content, and ash content), and delivered price of all coals imported by domestic electric utility plants that imported more than 10,000 tons during the previous calendar year into the United States;
+&emsp;(1) include current and previous year data on the quantity, quality (including heating value, sulfur content, and ash content), and delivered price of all coals imported by domestic electric utility plants that imported more than 10,000 tons during the previous calendar year into the United States;
 
 &emsp;(2) identify the foreign nations exporting the coal, the domestic electric utility plants receiving coal from each exporting nation, the domestically produced coal supplied to such plants, and the domestic coal production, by State, displaced by the imported coal;
 

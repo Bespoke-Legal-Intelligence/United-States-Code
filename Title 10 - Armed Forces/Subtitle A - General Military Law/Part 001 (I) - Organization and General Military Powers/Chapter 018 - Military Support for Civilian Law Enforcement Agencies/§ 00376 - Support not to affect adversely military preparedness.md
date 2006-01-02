@@ -8,7 +8,3 @@ Support (including the provision of any equipment or facility or the assignment 
 
 1988—Pub. L. 100–456 substituted “Support” for “Assistance” in section catchline and amended text generally. Prior to amendment, text read as follows: “Assistance (including the provision of any equipment or facility or the assignment of any personnel) may not be provided to any civilian law enforcement official under this chapter if the provision of such assistance will adversely affect the military preparedness of the United States. The Secretary of Defense shall issue such regulations as may be necessary to insure that the provision of any such assistance does not adversely affect the military preparedness of the United States.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2564 of this title.
-

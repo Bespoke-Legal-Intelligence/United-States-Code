@@ -2,7 +2,7 @@
 
 #### (a) Findings
 
-In order to assure (1) that the limitation on interest payments or other conditions (or both) on loans made or insured under this part, do not impede or threaten to impede the carrying out of the purposes of this part or do not cause the return to holders of loans to be less than equitable, (2) that incentive payments on such loans are paid promptly to eligible lenders, and (3) that appropriate consideration of relative administrative costs and money market conditions is made in setting the quarterly rate of such payments, the Congress finds it necessary to establish an improved method for the determination of the quarterly rate of the special allowances on such loans, and to provide for a thorough, expeditious, and objective examination of alternative methods for the determination of the quarterly rate of such allowances.
+In order to assure (1) that the limitation on interest payments or other conditions (or both) onloans made or insured under this part, do not impede or threaten to impede the carrying out of the purposes of this part or do not cause the return to holders of loans to be less than equitable, (2) that incentive payments on such loans are paid promptly to eligible lenders, and (3) that appropriate consideration of relative administrative costs and money market conditions is made in setting the quarterly rate of such payments, the Congress finds it necessary to establish an improved method for the determination of the quarterly rate of the special allowances on such loans, and to provide for a thorough, expeditious, and objective examination of alternative methods for the determination of the quarterly rate of such allowances.
 
 #### (b) Computation and payment
 
@@ -20,7 +20,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(iii) No special allowance may be paid under this subparagraph unless the issuer of such obligations complies with subsection (d) of this section.
 
-&emsp;(iv) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance for holders of loans which are financed with funds obtained by the holder from the issuance of obligations originally issued on or after October 1, 1993, or refunded after September 30, 2004, and before January 1, 2006, the income from which is excluded from gross income under title 26, shall be the quarterly rate of the special allowance established under subparagraph (A), (E), (F), (G), (H), or (I) as the case may be. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, or interest or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds.
+&emsp;(iv) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance for holders of loans which are financed with funds obtained by the holder from the issuance of obligations originally issued on or after October 1, 1993, or refunded after September 30, 2004, and before April 1, 2006, the income from which is excluded from gross income under title 26, shall be the quarterly rate of the special allowance established under subparagraph (A), (E), (F), (G), (H), or (I) as the case may be. Such rate shall also apply to holders of loans which were made or purchased with funds obtained by the holder from collections or default reimbursements on, or interest or other income pertaining to, eligible loans made or purchased with funds described in the preceding sentence of this subparagraph or from income on the investment of such funds.
 
 &emsp;(v) Notwithstanding clauses (i) and (ii), the quarterly rate of the special allowance shall be the rate determined under subparagraph (A), (E), (F), (G), (H), or (I) of this paragraph, or paragraph (4), as the case may be, for a holder of loans that—
 
@@ -32,11 +32,11 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;&emsp;(II) are—
 
-&emsp;&emsp;&emsp;(aa) financed by such an obligation that, after September 30, 2004, and before January 1, 2006, has matured or been retired or defeased;
+&emsp;&emsp;&emsp;(aa) financed by such an obligation that, after September 30, 2004, and before April 1, 2006, has matured or been retired or defeased;
 
-&emsp;&emsp;&emsp;(bb) refinanced after September 30, 2004, and before January 1, 2006, with funds obtained from a source other than funds described in subclause (I) of this clause; or
+&emsp;&emsp;&emsp;(bb) refinanced after September 30, 2004, and before April 1, 2006, with funds obtained from a source other than funds described in subclause (I) of this clause; or
 
-&emsp;&emsp;&emsp;(cc) sold or transferred to any other holder after September 30, 2004, and before January 1, 2006.
+&emsp;&emsp;&emsp;(cc) sold or transferred to any other holder after September 30, 2004, and before April 1, 2006.
 
 &emsp;(C)(i) In the case of loans made before October 1, 1992, pursuant to section 1078–1 <sup>1</sup> or 1078–2 of this title for which the interest rate is determined under section 1077a(c)(4) of this title, a special allowance shall not be paid unless the rate determined for any 12-month period under subparagraph (B) of such section exceeds 12 percent.
 
@@ -250,7 +250,7 @@ Limitation on special allowances for plus loans on or after july 1, 2006.—In t
 
 #### (2) Amount of origination fees
 
-&emsp;Subject to paragraph (6) of this subsection, with respect to any loan (including loans made under section 1078–8 of this title, but excluding loans made under sections 1078–3 and 1087–2(<i>o</i>) of this title) for which a completed note or other written evidence of the loan was sent or delivered to the borrower for signing on or after 10 days after August 13, 1981, each eligible lender under this part is authorized to charge the borrower an origination fee in an amount not to exceed 3.0 percent of the principal amount of the loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payment to the borrower. Except as provided in paragraph (8), a lender that charges an origination fee under this paragraph shall assess the same fee to all student borrowers.
+&emsp;Subject to paragraph (6) of this subsection, with respect to any loan (including loans made under section 1078–8 of this title, but excluding loans made under sections 1078–3 and 1087–2(<i>o</i>) of this title) for which a completed note orother written evidence of the loan was sent or delivered to the borrower for signing on or after 10 days after August 13, 1981, each eligible lender under this part is authorized to charge the borrower an origination fee in an amount not to exceed 3.0 percent of the principal amount of the loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payment to the borrower. Except as provided in paragraph (8), a lender that charges an origination fee under this paragraph shall assess the same fee to all student borrowers.
 
 #### (3) Relation to applicable interest
 
@@ -306,13 +306,13 @@ Limitation on special allowances for plus loans on or after july 1, 2006.—In t
 
 #### (e) Nondiscrimination
 
-In order for the holders of loans which were made or purchased with funds obtained by the holder from an Authority issuing obligations, the income from which is exempt from taxationunder title 26, to be eligible to receive a special allowance under subsection (b)(2) of this section on any such loans, the Authority shall not engage in any pattern or practice which results in a denial of a borrower's access to loans under this part because of the borrower's race, sex, color, religion, national origin, age, disability status, income, attendance at a particular eligible institution within the area served by the Authority, length of the borrower's educational program, or the borrower's academic year in school.
+In order for the holders of loans which were made or purchased with funds obtained by the holder from an Authority issuing obligations, the income from which is exempt from taxation under title 26, to be eligible to receive a special allowance under subsection (b)(2) of this section on any such loans, the Authority shall not engage in any pattern or practice which results in a denial of a borrower's access to loans under this part because of the borrower's race, sex, color, religion, national origin, age, disability status, income, attendance at a particular eligible institution within the area served by the Authority, length of the borrower's educational program, or the borrower's academic year in school.
 
 #### (f) Regulations to prevent denial of loans to eligible students
 
 The Secretary shall adopt or amend appropriate regulations pertaining to programs carried out under this part to prevent, where practicable, any practices which the Secretary finds have denied loans to a substantial number of eligible students.
 
-(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299.)
+(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc),June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299; Pub. L. 109–150, §2(b), (c)(2), Dec. 30, 2005, 119 Stat. 2884.)
 
 #### References in Text
 
@@ -326,7 +326,11 @@ A prior section 1087–1a, Pub. L. 96–374, title IV, §420(b), Oct. 3, 1980, 9
 
 #### Amendments
 
-2004—Subsec. (b)(2)(B). Pub. L. 108–409, which directed amendment of section 438(b)(2)(B) (20 U.S.C. 1087–1(b)(2)(B)) by substituting “this clause” for “this division” in cl. (i) and “clause (i) of this subparagraph” for “division (i) of this subparagraph” in cl. (ii), inserting “or refunded after September 30, 2004, and before January 1, 2006,” after “October 1, 1993,” in cl. (iv), and adding cl. (v), without specifying the Act being amended, was executed by making the amendment to subsec. (b)(2)(B) of this section, which is section 438 of Pub. L. 89–329, to reflect the probable intent of Congress.
+2005—Subsec. (b)(2)(B). Pub. L. 109–150, §2(c)(2), amended directory language of Pub. L. 108–409, §2. See 2004 Amendment note below.
+
+Subsec. (b)(2)(B)(iv), (v)(II). Pub. L. 109–150, §2(b), substituted “April 1, 2006” for “January 1, 2006” wherever appearing.
+
+2004—Subsec. (b)(2)(B). Pub. L. 108–409, §2, as amended by Pub. L. 109–150, substituted “this clause” for “this division” in cl. (i) and “clause (i) of this subparagraph” for “division (i) of this subparagraph” in cl. (ii), inserted “or refunded after September 30, 2004, and before January 1, 2006,” after “October 1, 1993,” in cl. (iv), and added cl. (v).
 
 2002—Subsec. (b)(2)(I). Pub. L. 107–139, §2(1), struck out “
 
@@ -382,13 +386,13 @@ Subsec. (b)(2)(G). Pub. L. 105–178, §8301(b)(1), added subpar. (G).
 
 Subsec. (b)(2)(H). Pub. L. 105–244, §416(b)(1), added subpar. (H).
 
-Subsec. (c)(1). Pub. L. 105–244, §433(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b) of this section, the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder shall be reduced by the Secretary by theamount which the lender is authorized to charge as an origination fee in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount the lender was authorized to charge borrowers for origination fees in that quarter, the Secretary shall deduct the excess amount from the subsequent quarters’ payments until the total amount has been deducted.”
+Subsec. (c)(1). Pub. L. 105–244, §433(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b) of this section, the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder shall be reduced by the Secretary by the amount which the lender is authorized to charge as an origination fee in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount the lender was authorized to charge borrowers for origination fees in that quarter, the Secretary shall deduct the excess amount from the subsequent quarters’ payments until the total amount has been deducted.”
 
 Subsec. (c)(2). Pub. L. 105–244, §433(b)(1), substituted “(including loans made under section 1078–8 of this title, but excluding” for “(other than” and inserted at end “Except as provided in paragraph (8), a lender that charges an origination fee under this paragraph shall assess the same fee to all student borrowers.”
 
 Subsec. (c)(8). Pub. L. 105–244, §433(b)(2), added par. (8).
 
-Subsec. (d)(1). Pub. L. 105–244, §433(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b) of this section, the Secretary shall reduce the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder of a loan by a loan fee in an amount determined in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount of such loan fee, then the Secretary shall deduct such excess amount from subsequent quarters’ payments until the total amount has been deducted.”
+Subsec. (d)(1). Pub. L. 105–244, §433(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding subsection (b) of this section, the Secretary shall reduce the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder of a loan by aloan fee in an amount determined in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount of such loan fee, then the Secretary shall deduct such excess amount from subsequent quarters’ payments until the total amount has been deducted.”
 
 Subsec. (e). Pub. L. 105–244, §433(d)(1), amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) related to lending from proceeds of tax exempt obligations.
 
@@ -435,6 +439,18 @@ Subsec. (b)(2)(C). Pub. L. 100–50, §10(d)(2), substituted “12 percent” fo
 Subsec. (b)(7). Pub. L. 100–50, §10(bb)(2), added par. (7).
 
 Subsec. (d)(4)(C). Pub. L. 100–50, §10(cc), struck out “, as evidenced by the information submitted under paragraph (2)(G) of this subsection” after “fiscal year”.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–150, §2(d), Dec. 30, 2005, 119 Stat. 2884, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and provisions set out as notes under sections 1001 and 1078–10 of this title\] are effective upon enactment \[Dec. 30, 2005\].
+
+“(2)
+
+Exception.—The amendment made by subsection (c)(1) \[amending provisions set out as a note under section 1078–10 of this title\] shall take effect as if enacted on October 1, 2005.”
 
 #### Effective Date of 1999 Amendment
 

@@ -42,5 +42,5 @@ Section 1211(k) of Pub. L. 101–73 provided that: “The amendments made by thi
 
 #### Effective Date of 1988 Amendment
 
-Section 565(a)(4) of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1087(a), Nov. 7, 1988, 102 Stat. 3280, provided that: “The amendments made by this subsection \[amending sections 2802, 2803, and 2810 of this title\] shall be applicable to the portion of calendar year 1988 that begins August 19, 1988, and to each calendar year beginning after December 31, 1988.”
+Section 565(a)(4) of Pub. L. 100–242, as amended by Pub. L. 100–628, title X, §1087(a), Nov. 7, 1988, 102 Stat.3280, provided that: “The amendments made by this subsection \[amending sections 2802, 2803, and 2810 of this title\] shall be applicable to the portion of calendar year 1988 that begins August 19, 1988, and to each calendar year beginning after December 31, 1988.”
 

@@ -88,7 +88,7 @@ Report.—(1) On October 1, 1992, and annually after that date through October 1
 
 (h)
 
-Airbags for Government Cars.—In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of the Government, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government andavailable appropriations, requiring that all passenger cars acquired—
+Airbags for Government Cars.—In cooperation with the Administrator of General Services and the heads of appropriate departments, agencies, and instrumentalities of the Government, the Secretary of Transportation shall establish a program, consistent with applicable procurement laws of the Government and available appropriations, requiring that all passenger cars acquired—
 
 &emsp;(1) after September 30, 1994, for use by the Government be equipped, to the maximum extent practicable, with driver-side inflatable restraints; and
 
@@ -222,7 +222,7 @@ Elements for Consideration.—In the rulemaking proceeding required by subsectio
 
 “(c)
 
-Completion.—The Secretary shall complete the rulemaking proceeding required by subsection (a) not later than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
+Completion.—The Secretary shall complete the rulemaking proceeding required by subsection (a) notlater than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
 
 #### “SEC. 4. DEVELOPMENT OF ANTHROPOMORPHIC TEST DEVICE SIMULATING A 10-YEAR OLD CHILD.
 
@@ -338,7 +338,7 @@ Elements for Consideration.—In the rulemaking required by subsection (a), the 
 
 “(c)
 
-Report to Congress.—If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing the final rule, specifically why the Secretary did not incorporate any such element in the final rule.
+Report to Congress.—If the Secretary does not incorporate any element described in subsection (b) in the final rule, the Secretary shall explain, in a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\] submitted within 30 days after issuing thefinal rule, specifically why the Secretary did not incorporate any such element in the final rule.
 
 “(d)
 

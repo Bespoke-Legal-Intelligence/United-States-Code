@@ -16,15 +16,15 @@ The Director is authorized to employ such officers and employees (including expe
 
 In carrying out his functions the Director shall assist and advise the President on policies and programs of the Federal Government affecting environmental quality by—
 
-&emsp;(1) providing the professional and administrative staff and support for the Council on Environmental Quality established by Public Law 91–190.
+&emsp;(1) providing the professional and administrative staff and support for the Council on Environmental Quality established by Public Law 91–190;
 
 &emsp;(2) assisting the Federal agencies and departments in appraising the effectiveness of existing and proposed facilities, programs, policies, and activities of the Federal Government, and those specific major projects designated by the President which do not require individual project authorization by Congress, which affect environmental quality;
 
 &emsp;(3) reviewing the adequacy of existing systems for monitoring and predicting environmental changes in order to achieve effective coverage and efficient use of research facilities and other resources;
 
-&emsp;(4) promoting the advancement of scientific knowledge of the effects of actions and technology on the environment and encourage the development of the means to prevent or reduce adverse effects that endanger the health and well-being of man;
+&emsp;(4) promoting the advancement of scientific knowledge of the effects of actions and technology on the environment and encourage <sup>1</sup> the development of the means to prevent or reduce adverse effects that endanger the health and well-being of man;
 
-&emsp;(5) assisting in coordinating among the Federal departments and agencies those programs and activities which affect, protect, and improve environmental quality;
+&emsp;(5) assisting in coordinating among the Federal departments and agencies those programsand activities which affect, protect, and improve environmental quality;
 
 &emsp;(6) assisting the Federal departments and agencies in the development and interrelationship of environmental quality criteria and standards established through the Federal Government;
 
@@ -40,7 +40,7 @@ The Director is authorized to contract with public or private agencies, institut
 
 Public Law 91–190, referred to in subsecs. (a), (c), and (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
-The provisions of title 5, governing appointments in the competitive service, referred to in subsec. (c), areclassified to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5, governing appointments in the competitive service, referred to in subsec. (c), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The General Schedule, referred to in subsec. (c), is set out under section 5332 of Title 5.
 
@@ -55,4 +55,6 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “encouraging”.</i>
 

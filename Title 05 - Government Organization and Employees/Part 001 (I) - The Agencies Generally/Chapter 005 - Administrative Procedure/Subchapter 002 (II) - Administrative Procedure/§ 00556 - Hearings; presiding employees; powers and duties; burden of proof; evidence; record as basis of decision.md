@@ -28,7 +28,7 @@
 
 &emsp;(7) inform the parties as to the availability of one or more alternative means of dispute resolution, and encourage use of such methods;
 
-&emsp;(8) require the attendance at any conference held pursuant to paragraph (6) of at least onerepresentative of each party who has authority to negotiate concerning resolution of issues in controversy;
+&emsp;(8) require the attendance at any conference held pursuant to paragraph (6) of at least one representative of each party who has authority to negotiate concerning resolution of issues in controversy;
 
 &emsp;(9) dispose of procedural requests or similar matters;
 

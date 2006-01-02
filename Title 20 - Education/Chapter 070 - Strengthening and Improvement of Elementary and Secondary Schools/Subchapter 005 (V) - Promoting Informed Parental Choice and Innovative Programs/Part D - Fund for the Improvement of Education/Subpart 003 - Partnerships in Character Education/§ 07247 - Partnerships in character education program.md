@@ -180,7 +180,7 @@ Of the total funds received in any fiscal year under this section by an eligible
 
 #### (g) Participation by private school children and teachers
 
-Each eligible entity that receives a grant under this section shall provide, to the extent feasible and appropriate, for the participation in programs and activities under this section of students and teachers in private elementary schools and secondary schools.
+Each eligible entity that receives a grant under this section shall provide, to the extentfeasible and appropriate, for the participation in programs and activities under this section of students and teachers in private elementary schools and secondary schools.
 
 #### (h) Evaluation and program development
 
@@ -224,7 +224,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 &emsp;&emsp;&emsp;(ii) Providing technical assistance to State and local programs, particularly on matters of program evaluation.
 
-&emsp;&emsp;&emsp;(iii) Conducting evaluations of State and local programs receiving funding under this section, that may be conductedthrough a national clearinghouse under clause (iv).
+&emsp;&emsp;&emsp;(iii) Conducting evaluations of State and local programs receiving funding under this section, that may be conducted through a national clearinghouse under clause (iv).
 
 &emsp;&emsp;&emsp;(iv) Compiling and disseminating, through a national clearinghouse or other means—
 

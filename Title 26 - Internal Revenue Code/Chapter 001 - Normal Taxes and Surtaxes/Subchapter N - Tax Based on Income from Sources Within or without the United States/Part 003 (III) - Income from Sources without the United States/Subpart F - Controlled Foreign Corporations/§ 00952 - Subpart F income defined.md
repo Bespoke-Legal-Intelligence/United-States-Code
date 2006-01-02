@@ -24,7 +24,7 @@ For purposes of this subpart, the term “subpart F income” means, in the case
 
 &emsp;(5) the income of such corporation derived from any foreign country during any period during which section 901(j) applies to such foreign country.
 
-> The payments referred to in paragraph (4) are payments which would be unlawful under the Foreign Corrupt Practices Act of 1977 if the payor were a United States person. For purposes of paragraph (5), the income described therein shall be reduced, under regulations prescribed by the Secretary, so as to take into account deductions (including taxes) properly allocable to such income.
+> The payments referred to in paragraph (4) are payments which would be unlawful under theForeign Corrupt Practices Act of 1977 if the payor were a United States person. For purposes of paragraph (5), the income described therein shall be reduced, under regulations prescribed by the Secretary, so as to take into account deductions (including taxes) properly allocable to such income.
 
 #### (b) Exclusion of United States income
 
@@ -52,23 +52,21 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 &emsp;&emsp;&emsp;&emsp;(II) has not previously been taken into account under this subparagraph.
 
-&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in clause (iii)(III) or (IV), deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(II), the rule of the preceding sentence shall apply, except that “1982” shall be substituted for “1962”.
+&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in subclause (II) or (III) of clause (iii), deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(I), the rule of the preceding sentence shall apply, except that “1982” shall be substituted for “1962”.
 
 #### (iii) Qualified activity
 
 &emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified activity” means any activity giving rise to—
 
-&emsp;&emsp;&emsp;&emsp;(I) foreign base company shipping income,
+&emsp;&emsp;&emsp;&emsp;(I) foreign base company oil related income,
 
-&emsp;&emsp;&emsp;&emsp;(II) foreign base company oil related income,
+&emsp;&emsp;&emsp;&emsp;(II) foreign base company sales income,
 
-&emsp;&emsp;&emsp;&emsp;(III) foreign base company sales income,
+&emsp;&emsp;&emsp;&emsp;(III) foreign base company services income,
 
-&emsp;&emsp;&emsp;&emsp;(IV) foreign base company services income,
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of a qualified insurance company, insurance income or foreign personal holding company income, or
 
-&emsp;&emsp;&emsp;&emsp;(V) in the case of a qualified insurance company, insurance income or foreign personal holding company income, or
-
-&emsp;&emsp;&emsp;&emsp;(VI) in the case of a qualified financial institution, foreign personal holding company income.
+&emsp;&emsp;&emsp;&emsp;(V) in the case of a qualified financial institution, foreign personal holding company income.
 
 #### (iv) Pro rata share
 
@@ -100,7 +98,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by the amount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F incomeunder the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
+&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by the amount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
 
 #### (ii) Qualified chain member
 
@@ -126,7 +124,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subsection (a)(5), including regulations which treat income paid through 1 or more entities as derived from a foreign country to which section 901(j) applies if such income was, without regard to such entities, derived from such country.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(j), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title X, §§1062, 1065(a)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1653, 1834; Pub. L. 97–248, title II, §288(b)(1), Sept. 3, 1982, 96 Stat. 571; Pub. L. 99–509, title VIII, §8041(b), Oct. 21, 1986, 100 Stat. 1963; Pub. L. 99–514, title XII, §1221(b)(3)(A), (f), title XVIII, §1876(c)(1), Oct. 22, 1986, 100 Stat. 2552, 2554, 2898; Pub. L. 100–647, title I, §1012(i)(16), (22)–(25)(A), title VI, §6131(a), Nov. 10, 1988, 102 Stat. 3510–3512, 3720; Pub. L. 105–34, title XI, §1112(c)(1), Aug. 5, 1997, 111 Stat. 969.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(j), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title X, §§1062, 1065(a)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1653, 1834; Pub. L. 97–248, title II, §288(b)(1), Sept. 3, 1982, 96 Stat. 571; Pub. L. 99–509, title VIII, §8041(b), Oct. 21, 1986, 100 Stat. 1963; Pub. L. 99–514, title XII, §1221(b)(3)(A), (f), title XVIII, §1876(c)(1), Oct. 22, 1986, 100 Stat. 2552, 2554, 2898; Pub. L. 100–647, title I, §1012(i)(16), (22)–(25)(A), title VI, §6131(a), Nov. 10, 1988, 102 Stat. 3510–3512, 3720; Pub. L. 105–34, title XI, §1112(c)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 108–357, title IV, §415(c)(1), Oct. 22, 2004, 118 Stat. 1511; Pub. L. 109–135, title IV, §412(kk), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### References in Text
 
@@ -135,6 +133,10 @@ The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title 
 Section 921, referred to in subsec. (b), was repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
 #### Amendments
+
+2005—Subsec. (c)(1)(B)(ii). Pub. L. 109–135 substituted “subclause (II) or (III) of clause (iii)” for “clause (iii)(III) or (IV)” and “clause (iii)(I)” for “clause (iii)(II)” in concluding provisions.
+
+2004—Subsec. (c)(1)(B)(iii). Pub. L. 108–357 redesignated subcls. (II) to (VI) as (I) to (V), respectively, and struck out former subcl. (I) which read as follows: “foreign base company shipping income,”.
 
 1997—Subsec. (b). Pub. L. 105–34 inserted at end “For purposes of this subsection, any exemption (or reduction) with respect to the tax imposed by section 884 shall not be taken into account.”
 
@@ -164,7 +166,7 @@ Subsec. (c). Pub. L. 99–514, §1221(f), added subsec. (c) and struck out forme
 
 &emsp;“(2) an amount equal to the sum of the earnings and profits for prior taxable years beginning after December 31, 1962, allocated to other earnings and profits under section 959(c)(3).
 
-> For purposes of the preceding sentence, any deficit in earnings and profits for any prior taxable year shall betaken into account under paragraph (1) for any taxable year only to the extent it has not been taken into account under such paragraph for any preceding taxable year to reduce earnings and profits of such preceding year.”
+> For purposes of the preceding sentence, any deficit in earnings and profits for any prior taxable year shall be taken into account under paragraph (1) for any taxable year only to the extent it has not been taken into account under such paragraph for any preceding taxable year to reduce earnings and profits of such preceding year.”
 
 Subsec. (d). Pub. L. 99–509, §8041(b)(2), added subsec. (d).
 
@@ -185,6 +187,10 @@ Subsec. (a)(4). Pub. L. 94–455, §1065(a)(1), added par. (4).
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1966—Subsec. (b). Pub. L. 89–809 substituted “In the case of a controlled foreign corporation, subpart F income does not include any item of income from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States” for “Subpart F income does not include any item includible in gross income under this chapter (other than this subpart) as income derived from sources within the United States of a foreign corporation engaged in trade or business in the United States”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §415(d), Oct. 22, 2004, 118 Stat. 1511, provided that: “The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.”
 
 #### Effective Date of 1997 Amendment
 
@@ -220,15 +226,11 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 #### Determination of Corporate Earnings and Profits for Purposes of Applying Subsection (c)(1)(A)
 
-Section 1012(i)(6) of Pub. L. 100–647 provided that: “For purposes of applying section 952(c)(1)(A) of the 1986 Code, the earnings and profits of any corporation shall be determined without regard to any increase in earnings and profits under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\].”
+Section 1012(i)(6) of Pub. L. 100–647 provided that: “For purposes of applying section 952(c)(1)(A) of the1986 Code, the earnings and profits of any corporation shall be determined without regard to any increase in earnings and profits under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\].”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 864, 953, 954, 956, 964, 999 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

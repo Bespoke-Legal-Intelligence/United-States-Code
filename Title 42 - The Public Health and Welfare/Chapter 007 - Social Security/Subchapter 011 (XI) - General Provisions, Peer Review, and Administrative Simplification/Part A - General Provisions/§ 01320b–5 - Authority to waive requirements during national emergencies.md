@@ -18,7 +18,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a) of
 
 &emsp;(C) pre-approval requirements;
 
-&emsp;(2) requirements that physicians and other health care professionals be licensed in the State in which they provide such services, if they have equivalent licensing in another State and are not affirmatively excluded from practice in that State or in any State a part of which is included in the emergency area;
+&emsp;(2) requirements that physicians and other health care professionals be licensed in the State in which they provide such services, ifthey have equivalent licensing in another State and are not affirmatively excluded from practice in that State or in any State a part of which is included in the emergency area;
 
 &emsp;(3) actions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for—
 
@@ -88,7 +88,7 @@ The Secretary shall provide a certification and advance written notice to the Co
 
 #### (f) Report to Congress
 
-Within one year after the end of the emergency period in an emergency area in which the Secretary exercised the authority provided under this section, the Secretary shall report to the Congress regarding the approaches used to accomplish the purposes described in subsection (a) of this section, including an evaluation of such approaches and recommendations for improved approaches should the need for such emergency authority arise in the future.
+Within one year after the end of the emergency period in an emergency area in which the Secretary exercised the authority provided under this section, the Secretary shall report to the Congress regarding the approaches used toaccomplish the purposes described in subsection (a) of this section, including an evaluation of such approaches and recommendations for improved approaches should the need for such emergency authority arise in the future.
 
 #### (g) Definitions
 

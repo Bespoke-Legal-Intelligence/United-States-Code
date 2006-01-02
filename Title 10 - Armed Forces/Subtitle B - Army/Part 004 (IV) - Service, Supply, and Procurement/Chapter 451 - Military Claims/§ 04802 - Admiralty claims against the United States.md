@@ -12,7 +12,7 @@
 
 (c) In any case where the amount to be paid is not more than $100,000, the Secretary of the Army may delegate his authority under subsection (a) to any person in the Department of the Army designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 271; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417,§1(1), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 271; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(1), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
 
 Historical and Revision Notes
 
@@ -49,8 +49,4 @@ In subsection (a), the words “consider, ascertain, adjust, determine” are om
 1972—Subsec. (a). Pub. L. 92–417 substituted “Admiralty claims against the United States” for “Damage by United States vessels, towage and salvage of United States vessels” in section catchline, in text preceding par. (1), struck out requirement that the Secretary of the Army discharge his functions under the direction of the Secretary of Defense, in par. (1) inserted “or by other property under the jurisdiction of the Department of the Army,” in par. (2) inserted “or to other property under the jurisdiction of the Department of the Army; or,” and added par. (3).
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4806 of this title.
 

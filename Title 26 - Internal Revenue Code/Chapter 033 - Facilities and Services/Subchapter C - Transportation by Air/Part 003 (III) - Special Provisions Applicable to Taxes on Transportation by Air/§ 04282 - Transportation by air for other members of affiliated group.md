@@ -18,7 +18,7 @@ For purposes of subsection (a), the determination of whether an aircraft is avai
 
 For purposes of subsection (a), the term “affiliated group” has the meaning assigned to such term by section 1504(a), except that all corporations shall be treated as includible corporations (without any exclusion under section 1504(b)).
 
-(Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–188, title I, §1609(f), Aug. 20, 1996, 110 Stat. 1842.)
+(Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 94–455, titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–188, title I, §1609(f), Aug. 20, 1996, 110 Stat. 1842.)
 
 #### Prior Provisions
 
@@ -33,8 +33,4 @@ A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined “fair
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4041, 4261 of this title.
 

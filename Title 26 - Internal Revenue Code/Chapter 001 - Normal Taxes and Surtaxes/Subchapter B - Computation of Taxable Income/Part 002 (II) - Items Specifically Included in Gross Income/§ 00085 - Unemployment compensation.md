@@ -8,7 +8,7 @@ In the case of an individual, gross income includes unemployment compensation.
 
 For purposes of this section, the term “unemployment compensation” means any amount received under a law of the United States or of a State which is in the nature of unemployment compensation.
 
-(Added Pub. L. 95–600, title I, §112(a), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 97–34, title I, §103(c)(1), Aug. 13, 1981, 95 Stat. 188; Pub. L.97–248, title VI, §611(a), Sept. 3, 1982, 96 Stat. 706; Pub. L. 98–21, title I, §§121(f)(1), 122(c)(2), Apr. 20, 1983, 97 Stat. 84, 87; Pub. L. 99–514, title I, §121, Oct. 22, 1986, 100 Stat. 2109.)
+(Added Pub. L. 95–600, title I, §112(a), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 97–34, title I, §103(c)(1), Aug. 13, 1981, 95 Stat. 188; Pub. L. 97–248, title VI, §611(a), Sept. 3, 1982, 96 Stat. 706; Pub. L. 98–21, title I, §§121(f)(1), 122(c)(2), Apr. 20, 1983, 97 Stat. 84, 87; Pub. L. 99–514, title I, §121, Oct. 22, 1986, 100 Stat. 2109.)
 
 #### Amendments
 
@@ -85,8 +85,4 @@ Section 112(d) of Pub. L. 95–600, as amended by Pub. L. 98–369, div. A, titl
 #### Waiver of Statute of Limitations
 
 Pub. L. 98–369, div. A, title X, §1075(b), July 18, 1984, 98 Stat. 1053, provided that: “If credit or refund of any overpayment of tax resulting from the amendment made by subsection (a) \[amending section 112(d) of Pub. L. 95–600, set out as an Effective Date note above\] is barred on the date of the enactment of this Act \[July 18, 1984\] or at any time during the 1-year period beginning on the date of the enactment of this Act by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3402, 6050B of this title; title 42 section 5177.
 

@@ -33,10 +33,6 @@
 
 1961—Pub. L. 87–381, §6(2), (3), Oct. 4, 1961, 75 Stat. 812, inserted “; withdrawal for severe financial hardship” in item 1436, and added items 1445 and 1446.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 38 section 1315.
-
 
 ---
 

@@ -40,7 +40,7 @@ In awarding grants or contracts under this section, the eligible agency shall co
 
 &emsp;&emsp;(A) is of sufficient intensity and duration for participants to achieve substantial learning gains; and
 
-&emsp;&emsp;(B) uses instructional practices, such as phonemic awareness, systematic phonics, fluency, and reading comprehension that research has proven to be effective in teaching individuals to read;
+&emsp;&emsp;(B) uses instructional practices, such as phonemic awareness, systematic phonics,fluency, and reading comprehension that research has proven to be effective in teaching individuals to read;
 
 &emsp;(5) whether the activities are built on a strong foundation of research and effective educational practice;
 

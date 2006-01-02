@@ -56,7 +56,7 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 <i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981.</i>
 
-<i>Pub. L. 96–499, title XI, §1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, §821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, §282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, §26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, §1801(b), Oct.</i><i>22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, §10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, §11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended section 4251 of this title, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.</i>
+<i>Pub. L. 96–499, title XI, §1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, §821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, §282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, §26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, §1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, §10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, §11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended section 4251 of this title, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.</i>
 
 #### Amendments
 
@@ -185,7 +185,7 @@ Section 202(c) of Pub. L. 89–368 provided that: “The amendments made by subs
 
 #### Effective Date of 1965 Amendment
 
-Section 701(b)(2)(A) of Pub. L. 89–44 provided that: “The amendments made by section 302 \[amending this section and sections 4252, 4253, and 4254 of this title\] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
+Section 701(b)(2)(A) of Pub. L. 89–44 provided that: “The amendments made by section 302 \[amending this section and sections 4252, 4253, and 4254 of this title\] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case ofservices rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 
 #### Effective Date of 1958 Amendment
 
@@ -198,8 +198,4 @@ Section 133(b) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4253, 4254, 6302, 6415 of this title.
 

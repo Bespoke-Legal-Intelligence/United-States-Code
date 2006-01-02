@@ -30,11 +30,13 @@ Tax liability incurred to the Virgin Islands pursuant to this subtitle, as made 
 
 #### (4) Determination of income source, etc.
 
-&emsp;The determination as to whether income is derived from sources within the Virgin Islands or the United States or is effectively connected with the conduct of a trade or business within the Virgin Islands or the United States shall be made under regulations prescribed by the Secretary.
+&emsp;The determination as to whether income is derived from sources within the United States or is effectively connected with the conduct of a trade or business within the United States shall be made under regulations prescribed by the Secretary.
 
-(Added Pub. L. 86–779, §4(a)(1), Sept. 14, 1960, 74 Stat. 998; amended Pub. L. 94–455, title XIX, §§1901(a)(118), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat.1784, 1834; Pub. L. 97–248, title II, §213(b), Sept. 3, 1982, 96 Stat. 463; Pub. L. 97–455, §1(c), Jan. 12, 1983, 96 Stat. 2498; Pub. L. 98–369, div. A, title VIII, §801(d)(7), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1275(a)(2)(A), (c)(1), (2), title XVIII, §1876(f)(2), Oct. 22, 1986, 100 Stat. 2598, 2900.)
+(Added Pub. L. 86–779, §4(a)(1), Sept. 14, 1960, 74 Stat. 998; amended Pub. L. 94–455, title XIX, §§1901(a)(118), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1784, 1834; Pub. L. 97–248, title II, §213(b), Sept. 3, 1982, 96 Stat. 463; Pub. L. 97–455, §1(c), Jan. 12, 1983, 96 Stat. 2498; Pub. L. 98–369, div. A, title VIII, §801(d)(7), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1275(a)(2)(A), (c)(1), (2), title XVIII, §1876(f)(2), Oct. 22, 1986, 100 Stat. 2598, 2900; Pub. L. 108–357, title VIII, §908(c)(3), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### Amendments
+
+2004—Subsec. (b)(4). Pub. L. 108–357 struck out “the Virgin Islands or” before “the United States” in two places.
 
 1986—Subsec. (a). Pub. L. 99–514, §1275(c)(2)(A), struck out “or (c) or in section 934A” after “subsection (b)”.
 
@@ -63,6 +65,10 @@ Subsec. (f). Pub. L. 97–248, §213(b)(2), added a temporary subsec. (f) which 
 1976—Subsec. (b). Pub. L. 94–455, §1901(a)(118), struck out “For the purposes of this subsection, all amounts received by such corporation within the United States, whether derived from sources within or without the United States, shall be considered as being derived from sources within the United States”.
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” in two places.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) of Pub. L. 108–357, set out as an Effective Date note under section 937 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -104,9 +110,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Report on Possessions Corporations
 
-For provisions requiring the Secretary of the Treasury to submit a report to Congress respecting the operation and effect of subsec. (b) of this section for the year 1981 and each second calendar year thereafter, see section 441(a) of Pub. L. 98–369, set out as a note under section 936 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 932 of this title.
+For provisions requiring the Secretary of the Treasury to submit a report to Congress respecting the operation and effect of subsec. (b) of this section for the year 1981 and each second calendar year thereafter, seesection 441(a) of Pub. L. 98–369, set out as a note under section 936 of this title.
 

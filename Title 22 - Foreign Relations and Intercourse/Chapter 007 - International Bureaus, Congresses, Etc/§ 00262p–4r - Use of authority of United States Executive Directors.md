@@ -24,10 +24,6 @@ Subsec. (b). Pub. L. 108–458, §6202(<i>l</i>)(2), substituted “at such inst
 
 Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
 
-#### Termination Date
-
-Provisions of title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
-
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Treasury, see section 302(b)(5) of Pub. L. 107–56, set out in a note under section 5311 of Title 31, Money and Finance.

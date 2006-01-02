@@ -21,7 +21,7 @@
 | [<b>20.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20020%20-%20Humanitarian%20and%20Other%20Assistance/README.md) | <b>Humanitarian and Other Assistance</b> | <b>401</b> |
 | [<b>21.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20021%20-%20Department%20of%20Defense%20Intelligence%20Matters/README.md) | <b>Department of Defense Intelligence Matters</b> | <b>421</b> |
 | [<b>22.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20022%20-%20National%20Geospatial-Intelligence%20Agency/README.md) | <b>National Geospatial-Intelligence Agency</b> | <b>441</b> |
-| [<b>23.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>481 </b><b><sup>1</sup></b> |
+| [<b>23.</b>](Part%20001%20%28I%29%20-%20Organization%20and%20General%20Military%20Powers/Chapter%20023%20-%20Miscellaneous%20Studies%20and%20Reports/README.md) | <b>Miscellaneous Studies and Reports</b> | <b>480</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -69,7 +69,12 @@
 | [<b>77.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20077%20-%20Posthumous%20Commissions%20and%20Warrants/README.md) | <b>Posthumous Commissions and Warrants</b> | <b>1521</b> |
 | [<b>79.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20079%20-%20Correction%20of%20Military%20Records/README.md) | <b>Correction of Military Records</b> | <b>1551</b> |
 | [<b>80.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20080%20-%20Miscellaneous%20Investigation%20Requirements%20and%20Other%20Duties/README.md) | <b>Miscellaneous Investigation Requirements and Other Duties</b> | <b>1561</b> |
-| [<b>81.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581</b> |
+| [<b>81.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20081%20-%20Civilian%20Employees/README.md) | <b>Civilian Employees</b> | <b>1581 </b><b><sup>1</sup></b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>83.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20083%20-%20Civilian%20Defense%20Intelligence%20Employees/README.md) | <b>Civilian Defense Intelligence Employees</b> | <b>1601</b> |
 | <b>\[85.</b> | <b>Repealed.\]</b> |  |
 | [<b>87.</b>](Part%20002%20%28II%29%20-%20Personnel/Chapter%20087%20-%20Defense%20Acquisition%20Workforce/README.md) | <b>Defense Acquisition Workforce</b> | <b>1701</b> |
@@ -88,7 +93,8 @@
 | [<b>104.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20104%20-%20Uniformed%20Services%20University%20of%20the%20Health%20Sciences/README.md) | <b>Uniformed Services University of the Health Sciences</b> | <b>2112</b> |
 | [<b>105.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20105%20-%20Armed%20Forces%20Health%20Professions%20Financial%20Assistance%20Programs/README.md) | <b>Armed Forces Health Professions Financial Assistance Programs</b> | <b>2120</b> |
 | [<b>106.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20106%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>2131</b> |
-| [<b>107.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20107%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md) | <b>Educational Assistance for Persons Enlisting for Active Duty</b> | <b>2141</b> |
+| [<b>106A.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20106A%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md) | <b>Educational Assistance for Persons Enlisting for Active Duty</b> | <b>2141</b> |
+| [<b>107.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20107%20-%20Professional%20Military%20Education/README.md) | <b>Professional Military Education</b> | <b>2151</b> |
 | [<b>108.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20108%20-%20Department%20of%20Defense%20Schools/README.md) | <b>Department of Defense Schools</b> | <b>2161</b> |
 | [<b>109.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
 | [<b>110.</b>](Part%20003%20%28III%29%20-%20Training%20and%20Education/Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
@@ -143,6 +149,8 @@
 
 #### Amendments
 
+2004—Pub. L. 108–375, div. A, title V, §532(e), title X, §1084(d)(1), Oct. 28, 2004, 118 Stat. 1900, 2061, substituted “480” for “481” in item for chapter 23, added item for chapter 107, and redesignated former item for chapter 107 as item for chapter 106A.
+
 2003—Pub. L. 108–136, div. A, title IX, §921(d)(8), title X, §1045(a)(1), Nov. 24, 2003, 117 Stat. 1569, 1612, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22 and “2700” for “2701” in item for chapter 160.
 
 2001—Pub. L. 107–107, div. A, title IX, §911(b), title X, §1048(a)(1), Dec. 28, 2001, 115 Stat. 1196, 1222, struck out period after “1111” in item for chapter 56 and added item for chapter 135.
@@ -173,7 +181,7 @@ Pub. L. 102–190, div. A, title VIII, §821(f), title X, §§1002(a)(2), 1061(a
 
 Pub. L. 102–25, title VII, §701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85 and in item for chapter 108 inserted “2161”.
 
-1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
+1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title V, §502(a)(2), title VIII, §823(b)(1), title IX, §911(b)(3), title XII, §1202(b), title XVIII, §1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of DefenseSchools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
 1989—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title IX, §931(e)(2), title XVI, §1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 

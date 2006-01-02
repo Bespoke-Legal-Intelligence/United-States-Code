@@ -36,7 +36,7 @@ Nothing in this chapter or any other Act shall be construed as authorizing the C
 
 #### (2) Other reports generally
 
-&emsp;The Commission shall submit such other reports to the President and the Congress as the Commission, the Congress, or the President shall deem appropriate.
+&emsp;The Commission shall submit such other reports to the President and the Congress as theCommission, the Congress, or the President shall deem appropriate.
 
 #### (d) Advisory committees
 
@@ -68,7 +68,7 @@ Nothing in this chapter or any other Act shall be construed as authorizing the C
 
 #### Prior Provisions
 
-A prior section 1975a, Pub. L. 85–315, pt. I, §102, Sept. 9, 1957, 71 Stat. 634; Pub. L. 88–352, title V, §501, July 2,1964, 78 Stat. 249; Pub. L. 91–521, §4, Nov. 25, 1970, 84 Stat. 1357; Pub. L. 92–496, §1, Oct. 14, 1972, 86 Stat. 813, established rules of procedure for Commission. See Codification note set out preceding section 1975 of this title.
+A prior section 1975a, Pub. L. 85–315, pt. I, §102, Sept. 9, 1957, 71 Stat. 634; Pub. L. 88–352, title V, §501, July 2, 1964, 78 Stat. 249; Pub. L. 91–521, §4, Nov. 25, 1970, 84 Stat. 1357; Pub. L. 92–496, §1, Oct. 14, 1972, 86 Stat. 813, established rules of procedure for Commission. See Codification note set out preceding section 1975 of this title.
 
 #### Amendments
 

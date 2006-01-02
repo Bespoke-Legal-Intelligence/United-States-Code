@@ -46,7 +46,7 @@ Not later than 180 days after December 23, 1985, the Secretary shall issue such 
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in subsec. (b)(1)(A), (D), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b)(1)(A), (D), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, and is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 

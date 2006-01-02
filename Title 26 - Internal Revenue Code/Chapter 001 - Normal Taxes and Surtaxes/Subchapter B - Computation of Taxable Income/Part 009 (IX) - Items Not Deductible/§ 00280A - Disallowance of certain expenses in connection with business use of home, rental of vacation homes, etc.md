@@ -64,7 +64,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 &emsp;&emsp;&emsp;(ii) the deductions allocable to the trade or business (or rental activity) in which such use occurs (but which are not allocable to such use) for such taxable year.
 
-> &emsp;Any amount not allowable as a deduction under this chapter by reason of the preceding sentence shall be taken into account as a deduction (allocable to such use) under this chapter for the succeeding taxable year. Any amount taken into account for any taxable year under the preceding sentence shall be subject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year.
+> &emsp;Any amount not allowable as a deduction under this chapter by reason of the preceding sentence shall be taken into account as a deduction (allocable to such use) under this chapter for the succeeding taxable year. Anyamount taken into account for any taxable year under the preceding sentence shall be subject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year.
 
 #### (6) Treatment of rental to employer
 
@@ -198,7 +198,7 @@ The date of enactment of the Tax Reduction and Simplification Act of 1977, refer
 
 #### Amendments
 
-1997—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative ormanagement activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
+1997—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
 
 Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
 
@@ -269,8 +269,4 @@ Section 306(c) of Pub. L. 95–30 provided that: “The amendments made by this 
 #### Effective Date
 
 Section 601(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and amending the analysis of sections preceding section 261 of this title\] shall apply to taxable years beginning after December 31, 1975.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 136, 163, 280F, 469 of this title.
 

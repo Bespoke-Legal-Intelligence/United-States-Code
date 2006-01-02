@@ -16,11 +16,21 @@ No loan may be provided under this section to a qualifying hospital except pursu
 
 #### (2) Qualifying hospital defined
 
-&emsp;For purposes of this section, the term “qualifying hospital” means a hospital that—
+&emsp;For purposes of this section, the term “qualifying hospital” means a hospital or an entity described in paragraph (3) that—
 
 &emsp;&emsp;(A) is engaged in research in the causes, prevention, and treatment of cancer; and
 
-&emsp;&emsp;(B) is designated as a cancer center for the National Cancer Institute or is designated by the State as the official cancer institute of the State.
+&emsp;&emsp;(B) is designated as a cancer center for the National Cancer Institute or is designated by the State legislature as the official cancer institute of the State and such designation by the State legislature occurred prior to December 8, 2003.
+
+#### (3) Entity described
+
+&emsp;An entity described in this paragraph is an entity that—
+
+&emsp;&emsp;(A) is described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title;
+
+&emsp;&emsp;(B) has at least 1 existing memorandum of understanding or affiliation agreement with a hospital located in the State in which the entity is located; and
+
+&emsp;&emsp;(C) retains clinical outpatient treatment for cancer on site as well as lab research and education and outreach for cancer in the same facility.
 
 #### (d) Projects
 
@@ -64,11 +74,29 @@ The Secretary may forgive a loan provided to a qualifying hospital under this se
 
 #### (h) Report to Congress
 
-Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as towhether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
+Not later than 4 years after December 8, 2003, the Secretary shall submit to Congress a report on the projects for which loans are provided under this section and a recommendation as to whether the Congress should authorize the Secretary to continue loans under this section beyond fiscal year 2008.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1897, as added Pub. L. 108–173, title X, §1016, Dec. 8, 2003, 117 Stat. 2447.)
+#### (i) Limitation on review
+
+There shall be no administrative or judicial review of any determination made by the Secretary under this section.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1897, as added Pub. L. 108–173, title X, §1016, Dec. 8, 2003, 117 Stat. 2447; amended Pub. L. 109–13, div. A, title VI, §6045(a), (b), May 11, 2005, 119 Stat. 294.)
 
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part D of title IV of the Act is classified to part C (§1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### Amendments
+
+2005—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted “legislature” after “designated by the State” and “and such designation by the State legislature occurred prior to December 8, 2003” before period at end.
+
+Subsec. (c)(3). Pub. L. 109–13, §6045(a)(2), added par. (3).
+
+Subsec. (i). Pub. L. 109–13, §6045(b), added subsec. (i).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–13, div. A, title VI, §6045(c), May 11, 2005, 119 Stat. 295, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2447).”
 

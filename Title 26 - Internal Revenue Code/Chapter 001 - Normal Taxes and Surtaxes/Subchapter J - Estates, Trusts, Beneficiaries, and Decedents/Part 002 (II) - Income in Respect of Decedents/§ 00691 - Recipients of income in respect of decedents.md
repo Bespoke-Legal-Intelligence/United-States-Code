@@ -18,7 +18,7 @@
 
 #### (3) Character of income determined by reference to decedent
 
-&emsp;The right, described in paragraph (1), to receive an amount shall be treated, in the hands of the estate of the decedent or any person who acquired such right by reason of the death of the decedent, or by bequest, devise, or inheritance from the decedent, as if it had been acquired by the estate or such person in the transaction in which the right to receive the income was originally derived and the amount includible in gross income under paragraph (1) or (2) shall be considered in the hands of the estate or such person to have the character which it would have had in the hands of the decedent if the decedent had lived and received such amount.
+&emsp;The right, described in paragraph (1), to receive an amount shall be treated, in the handsof the estate of the decedent or any person who acquired such right by reason of the death of the decedent, or by bequest, devise, or inheritance from the decedent, as if it had been acquired by the estate or such person in the transaction in which the right to receive the income was originally derived and the amount includible in gross income under paragraph (1) or (2) shall be considered in the hands of the estate or such person to have the character which it would have had in the hands of the decedent if the decedent had lived and received such amount.
 
 #### (4) Installment obligations acquired from decedent
 
@@ -82,7 +82,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;(A) The term “estate tax” means the tax imposed on the estate of the decedent or any prior decedent under section 2001 or 2101, reduced by the credits against such tax.
 
-&emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
+&emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1)shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
 
 &emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value.
 
@@ -92,7 +92,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### (4) Coordination with capital gain provisions
 
-&emsp;For purposes of sections 1(h), 1201, 1202, and 1211, the amount of any gain taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
+&emsp;For purposes of sections 1(h), 1201, 1202, and 1211, the amount taken into account with respect to any item described in subsection (a)(1) shall be reduced (but not below zero) by the amount of the deduction allowable under paragraph (1) of this subsection with respect to such item.
 
 #### (d) Amounts received by surviving annuitant under joint and survivor annuity contract
 
@@ -124,11 +124,13 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;<b>For application of this section to income in respect of a deceased partner, see section 753.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 108–311, title IV, §402(a)(4), Oct. 4, 2004, 118 Stat. 1184.)
 
 #### Amendments
 
-1997—Subsec. (c)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “Forpurposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).”
+2004—Subsec. (c)(4). Pub. L. 108–311 struck out “of any gain” before “taken into account”.
+
+1997—Subsec. (c)(1)(C). Pub. L. 105–34 struck out heading and text of subpar. (C). Text read as follows: “For purposes of this subsection, no deduction shall be allowed for the portion of the estate tax attributable to the increase in such tax under section 4980A(d).”
 
 1996—Subsec. (c)(5). Pub. L. 104–188, §1704(t)(73), provided that section 521(b)(27) of Pub. L. 102–318 shall be applied as if “Section 691(c)(5)” appeared instead of “Section 691(c)”. See 1992 Amendment note below.
 
@@ -136,7 +138,7 @@ Pub. L. 104–188, §1401(b)(9), struck out par. (5) which read as follows:
 
 “(5)
 
-Coordination with section 402(d).—For purposes of section 402(d) (other than paragraph (1)(C) thereof), the total taxable amount of any lump sum distribution shall be reduced by the amount of the deduction allowable under paragraph (1) of this subsection which is attributable to the total taxable amount (determined without regard to this paragraph).”
+Coordination with section 402(d).—For purposes of section 402(d) (other than paragraph (1)(C) thereof),the total taxable amount of any lump sum distribution shall be reduced by the amount of the deduction allowable under paragraph (1) of this subsection which is attributable to the total taxable amount (determined without regard to this paragraph).”
 
 1993—Subsec. (c)(4). Pub. L. 103–66 inserted “1202,” after “1201,”.
 
@@ -190,6 +192,10 @@ Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) 
 
 Subsecs. (e), (f). Pub. L. 88–570 added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 effective as if included in section 302 of the Jobs and Growth Tax Relief Reconciliation Act of 2003, Pub. L. 108–27, see section 402(b) of Pub. L. 108–311, set out a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
@@ -222,7 +228,7 @@ Amendment by Pub. L. 100–203 applicable to dispositions in taxable years begin
 
 Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
-Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within themeaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 ofPub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -275,8 +281,4 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 67, 220, 223, 224, 421, 453B, 753, 1014, 1022, 1038, 1245, 1250, 1367 of this title.
 

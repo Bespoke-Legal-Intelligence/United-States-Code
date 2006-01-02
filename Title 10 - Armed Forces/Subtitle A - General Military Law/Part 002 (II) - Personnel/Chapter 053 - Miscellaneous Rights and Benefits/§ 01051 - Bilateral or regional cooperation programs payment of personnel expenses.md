@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may pay the travel, subsistence, and similar personal expenses of defense personnel of developing countries in connection with the attendance of such personnel at a bilateral or regional conference, seminar, or similar meeting if the Secretary determines that the attendance of such personnel at such conference, seminar, or similar meeting is in the national security interests of the United States.
 
-(b)(1) Except as provided in paragraphs (2) and (3), expenses authorized to be paid under subsection (a) may be paid on behalf of personnel from a developing country only in connection with travel within the area of responsibility of the unified combatant command (as such term is defined in section 161(c) of this title) in which the developing country is located or in connection with travel to Canada or Mexico.
+(b)(1) Except as provided in paragraphs (2) and (3), expenses authorized to be paid under subsection (a) may be paid on behalf of personnel from a developing country only in connection with travel to and within the area of responsibility of the unified combatant command (as such term is defined in section 161(c) of this title) in which the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located or in connection with travel to Canada or Mexico.
 
 (2) In a case in which the headquarters of a unified combatant command is located within the United States, expenses authorized to be paid under subsection (a) may be paid in connection with travel of personnel to the United States to attend a bilateral or regional conference, seminar, or similar meeting.
 
@@ -14,13 +14,15 @@
 
 (d) The authority to pay expenses under this section is in addition to the authority to pay certain expenses and compensation of officers and students of Latin American countries under section 1050 of this title.
 
-(Added Pub. L. 99–661, div. A, title XIII, §1322(a), Nov. 14, 1986, 100 Stat. 3989; amended Pub. L. 101–189, div. A, title IX, §936, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–510, div. A, title XIII, §1301(5), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–484, div. A, title XIII, §1362, Oct. 23, 1992, 106 Stat. 2560; Pub. L. 107–314, div. A, title XII, §1202(a), Dec. 2, 2002, 116 Stat. 2663.)
+(Added Pub. L. 99–661, div. A, title XIII, §1322(a), Nov. 14, 1986, 100 Stat. 3989; amended Pub. L. 101–189, div. A, title IX, §936, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–510, div. A, title XIII, §1301(5), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–484, div. A, title XIII, §1362, Oct. 23, 1992, 106 Stat. 2560; Pub. L. 107–314, div. A, title XII, §1202(a), Dec. 2, 2002, 116 Stat. 2663; Pub. L. 109–163, div. A, title XII, §1203, Jan. 6, 2006, 119 Stat. 3456.)
 
 #### Codification
 
 Another section 1051 was renumbered section 1032 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–163 inserted “to and” after “in connection with travel” and substituted “in which the bilateral or regional conference, seminar, or similar meeting for which expenses are authorized is located” for “in which the developing country is located”.
 
 2002—Subsec. (b)(1). Pub. L. 107–314, §1202(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 

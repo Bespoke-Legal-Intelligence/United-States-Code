@@ -12,7 +12,7 @@ The Secretary shall offer to enter into a contract with each producer of quota t
 
 #### (2) Effect of multiple producers for same quota tobacco
 
-&emsp;If, on the basis of the applications submitted under paragraph (1) or other information, the Secretary determines that two or more persons are a producer of the same quota tobacco, the Secretary shall provide for an equitabledistribution among the persons of the contract payments made under this section with respect to that quota tobacco, based on relative share of such persons in the risk of producing the quota tobacco and such other factors as the Secretary considers appropriate.
+&emsp;If, on the basis of the applications submitted under paragraph (1) or other information, the Secretary determines that two or more persons are a producer of the same quota tobacco, the Secretary shall provide for an equitable distribution among the persons of the contract payments made under this section with respect to that quota tobacco, based on relative share of such persons in the risk of producing the quota tobacco and such other factors as the Secretary considers appropriate.
 
 #### (c) Base quota level
 
@@ -44,7 +44,7 @@ The Secretary shall offer to enter into a contract with each producer of quota t
 
 #### (2) Annual payment
 
-&emsp;During each of fiscal years 2005 through 2014, the Secretary shall make a contract payment under this section to each eligible producer of tobacco, with respect to a kind of tobacco, in an amount equal to 1/10 of the amount determined under paragraph (1) for the producer for that kind of tobacco.
+&emsp;During each of fiscal years 2005 through 2014, the Secretary shall make a contract payment under this section to each eligible producer oftobacco, with respect to a kind of tobacco, in an amount equal to 1/10 of the amount determined under paragraph (1) for the producer for that kind of tobacco.
 
 #### (3) Variable payment rates
 

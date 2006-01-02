@@ -15,8 +15,13 @@
 | [156\.](%C2%A7%2000156%20-%20Staff%3B%20expenses.md) | Staff; expenses. |
 | [157\.](%C2%A7%2000157%20-%20Procedures.md) | Procedures. |
 | [158\.](%C2%A7%2000158%20-%20Appeals.md) | Appeals. |
+| [159\.](%C2%A7%2000159%20-%20Bankruptcy%20statistics.md) | Bankruptcy statistics. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2005—Pub. L. 109–8, title VI, §601(b), Apr. 20, 2005, 119 Stat. 120, added item 159.
 
 #### Prior Provisions
 
@@ -65,3 +70,4 @@ Pub. L. 98–249, §2, Mar. 31, 1984, 98 Stat. 116.
 - [&sect; 00156 - Staff; expenses](%C2%A7%2000156%20-%20Staff%3B%20expenses.md)
 - [&sect; 00157 - Procedures](%C2%A7%2000157%20-%20Procedures.md)
 - [&sect; 00158 - Appeals](%C2%A7%2000158%20-%20Appeals.md)
+- [&sect; 00159 - Bankruptcy statistics](%C2%A7%2000159%20-%20Bankruptcy%20statistics.md)

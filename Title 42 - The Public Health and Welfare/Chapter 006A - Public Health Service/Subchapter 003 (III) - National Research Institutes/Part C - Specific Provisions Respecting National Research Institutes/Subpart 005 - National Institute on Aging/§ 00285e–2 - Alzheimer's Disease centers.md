@@ -54,7 +54,7 @@ Pub. L. 100–175, title III, Nov. 29, 1987, 101 Stat. 972, provided that:
 
 “(a)
 
-In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
+In General.—The Director of the National Institute on Aging shall provide for the conduct of clinicaltrials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
 
 “(b)
 

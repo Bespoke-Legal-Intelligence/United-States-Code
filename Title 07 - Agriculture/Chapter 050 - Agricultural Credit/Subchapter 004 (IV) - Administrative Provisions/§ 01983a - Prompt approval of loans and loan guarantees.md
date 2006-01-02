@@ -40,7 +40,7 @@ If an application for a loan or loan guarantee under this chapter is disapproved
 
 #### (d) Approved lender designation applications; time for decision by Secretary
 
-In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, the Secretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, not later than 15 days after the Secretary has received a complete application for such designation.
+In carrying out the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations, theSecretary shall ensure that each request of a lending institution for designation as an approved lender under such program is reviewed, and a decision made on the application, not later than 15 days after the Secretary has received a complete application for such designation.
 
 #### (e) Processing loan applications; personnel and other resources made available; use of authorities of law
 

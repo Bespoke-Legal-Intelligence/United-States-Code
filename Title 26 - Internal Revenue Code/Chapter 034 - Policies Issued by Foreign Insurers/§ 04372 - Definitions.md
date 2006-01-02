@@ -46,7 +46,3 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4371 of this title.
-

@@ -24,7 +24,7 @@
 
 (d) Any district court reviewing under this section the decision, findings, and determinations of an authority shall not consider any objection that was not raised in the hearing conducted pursuant to section 3803(f) of this title unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at such hearing, the court shall remand the matter to the authority for consideration of such additional evidence.
 
-(e) Upon a final determination by the district court that a person is liable under section 3802 of this title, the court shall enter a final judgment for the appropriate amount in favor of the United States.
+(e) Upon a final determination by the district court that a person is liable under section 3802 of this title, the court shall enter a final judgmentfor the appropriate amount in favor of the United States.
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1944.)
 

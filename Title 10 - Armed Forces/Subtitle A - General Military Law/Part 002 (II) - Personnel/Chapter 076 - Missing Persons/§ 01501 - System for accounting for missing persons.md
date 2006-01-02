@@ -16,7 +16,9 @@ Office for Missing Personnel.—(1) The Secretary of Defense shall establish wit
 
 (5)(A) The Secretary of Defense shall ensure that the office is provided sufficient military and civilian personnel, and sufficient funding, to enable the office to fully perform the complete range of missions of the office. The Secretary shall ensure that Department of Defense programming, planning, and budgeting procedures are structured so as to ensure compliance with the preceding sentence for each fiscal year.
 
-(B) For any fiscal year, the number of military and civilian personnel assigned or detailed to the office may not be less than the number requested in the President's budget for fiscal year 2003, unless a level below such number is expressly required by law.
+(B)(i) For any fiscal year, the number of military and civilian personnel, whether temporary or permanent, assigned or detailed to the office may not be less than the number requested in the President's budget for fiscal year 2003, unless a level below such number is expressly required by law.
+
+(ii) If for any reason the number of military and civilian personnel assigned or detailed to the office should fall below the required level under clause (i), the Secretary of Defense shall promptly notify the Committees on Armed Services of the Senate and House of Representatives of the number of personnel so assigned or detailed and of the Secretary's plan to restore the staffing level of the office to at least the required minimum number under clause (i). The Secretary shall publish such notice and plan in the Federal Register.
 
 (C) For any fiscal year, the level of funding allocated to the office within the Department of Defense may not be below the level requested for such purposes in the President's budget for fiscal year 2003, unless such a level of funding is expressly required by law.
 
@@ -42,7 +44,7 @@ Covered Persons.—(1) Section 1502 of this title applies in the case of any mem
 
 &emsp;(B) whose status is undetermined or who is unaccounted for.
 
-(2) Section 1502 of this title applies in the case of any other person who is a citizen of theUnited States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
+(2) Section 1502 of this title applies in the case of any other person who is a citizen of the United States and a civilian officer or employee of the Department of Defense or (subject to paragraph (3)) an employee of a contractor of the Department of Defense—
 
 &emsp;(A) who serves in direct support of, or accompanies, the armed forces in the field under orders and becomes involuntarily absent as a result of a hostile action or under circumstances suggesting that the involuntary absence is a result of a hostile action; and
 
@@ -52,7 +54,7 @@ Covered Persons.—(1) Section 1502 of this title applies in the case of any mem
 
 (d)
 
-Primary Next of Kin.—The individual who is primary next of kin of any person described in subsection (c) may for purposes of this chapter designate another individual to act on behalf of that individual as primary next of kin. The Secretary concerned shall treat an individual so designated as if the individual designated were the primary next of kin for purposes of this chapter. A designation under this subsection may be revoked at any time by the person who made the designation.
+Primary Next of Kin.—The individual who is primary next of kin of any person described in subsection (c) may for purposes of this chapter designate another individual to act on behalf of that individual as primary next of kin. The Secretary concerned shall treat an individual so designated as if the individual designated werethe primary next of kin for purposes of this chapter. A designation under this subsection may be revoked at any time by the person who made the designation.
 
 (e)
 
@@ -62,9 +64,11 @@ Termination of Applicability of Procedures When Missing Person Is Accounted for.
 
 Secretary Concerned.—In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, §551, Dec. 2, 2002, 116 Stat. 2551.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, §578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, §1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, §551, Dec. 2, 2002, 116 Stat. 2551; Pub. L. 108–375, div. A, title V, §582(a), Oct. 28, 2004, 118 Stat. 1928.)
 
 #### Amendments
+
+2004—Subsec. (a)(5)(B). Pub. L. 108–375 designated existing provisions as cl. (i), inserted “, whether temporary or permanent,” after “civilian personnel”, and added cl. (ii).
 
 2002—Subsec. (a)(1). Pub. L. 107–314, §551(b), inserted “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after first sentence.
 
@@ -116,11 +120,9 @@ Intelligence Analysis.—The Director of Central Intelligence, in consultation w
 
 Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
+
 #### Congressional Statement of Purpose
 
-Section 569(a) of Pub. L. 104–106 provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1502, 1505, 1510 of this title.
+Section 569(a) of Pub. L. 104–106 provided that: “The purpose of this section \[enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees\] is to ensure that any member of the Armed Forces (and any Department of Defense civilianemployee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
 

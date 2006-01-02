@@ -70,7 +70,7 @@ Energy Saving Activities.—(1) The Secretary of Defense shall permit and encour
 
 (e)
 
-Energy Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
+Energy Conservation Construction Projects.—(1) The Secretary of Defense maycarry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.
 
@@ -100,7 +100,7 @@ Pub. L. 105–85, §371(d)(2), substituted “section 2867(b)(2)” for “secti
 
 Subsec. (b)(3). Pub. L. 105–85, §2804(a)(1)(C), added par. (3).
 
-Subsec. (f). Pub. L. 105–85, §2804(a)(2), inserted at end “The Secretary shall also include in each report thetypes and amount of financial incentives received under subsection (d)(2) and section 2866(a)(2) of this title during the period covered by the report and the appropriation account or accounts to which the incentives were credited.”
+Subsec. (f). Pub. L. 105–85, §2804(a)(2), inserted at end “The Secretary shall also include in each report the types and amount of financial incentives received under subsection (d)(2) and section 2866(a)(2) of this title during the period covered by the report and the appropriation account or accounts to which the incentives were credited.”
 
 1996—Subsec. (a)(3). Pub. L. 104–106, §2819(a), substituted “energy efficient maintenance or water efficient maintenance” for “energy efficient maintenance”.
 
@@ -148,6 +148,34 @@ Subsec. (f). Pub. L. 102–484, §2801(a)(2), (d), (e)(4), redesignated subsec. 
 
 Pub. L. 108–136, div. B, title XXVIII, §2812(b), Nov. 24, 2003, 117 Stat. 1725, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall not apply to funds appropriated for a fiscal year before fiscal year 2004.”
 
+#### Transfer of Funds for Energy and Water Efficiency in Federal Buildings
+
+Pub. L. 109–148, div. A, title VIII, §8054, Dec. 30, 2005, 119 Stat. 2710, provided that: “Appropriations available under the heading ‘Operation and Maintenance, Defense-Wide’ for the current fiscal year and hereafter for increasing energy and water efficiency in Federal buildings may, during their period of availability, be transferred to other appropriations or funds of the Department of Defense for projects related to increasing energy and water efficiency, to be merged with and to be available for the same general purposes, and for the same time period, as the appropriation or fund to which transferred.”
+
+Similar provisions for specified fiscal years were contained in the following appropriation acts:
+
+Pub. L. 108–287, title VIII, §8058, Aug. 5, 2004, 118 Stat. 983.
+
+Pub. L. 108–87, title VIII, §8058, Sept. 30, 2003, 117 Stat. 1085.
+
+Pub. L. 107–248, title VIII, §8059, Oct. 23, 2002, 116 Stat. 1550.
+
+Pub. L. 107–117, div. A, title VIII, §8064, Jan. 10, 2002, 115 Stat. 2261.
+
+Pub. L. 106–259, title VIII, §8063, Aug. 9, 2000, 114 Stat. 688.
+
+Pub. L. 106–79, title VIII, §8066, Oct. 25, 1999, 113 Stat. 1245.
+
+Pub. L. 105–262, title VIII, §8066, Oct. 17, 1998, 112 Stat. 2312.
+
+Pub. L. 105–56, title VIII, §8072, Oct. 8, 1997, 111 Stat. 1235.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8081\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
+
+Pub. L. 104–61, title VIII, §8097, Dec. 1, 1995, 109 Stat. 671.
+
+Pub. L. 103–139, title VIII, §8149, Nov. 11, 1993, 107 Stat. 1475.
+
 #### Department of Defense Energy Efficiency Program
 
 Pub. L. 107–107, div. A, title III, §317, Dec. 28, 2001, 115 Stat. 1054, provided that:
@@ -194,9 +222,5 @@ Strategies for Improving Energy Efficiency.—In order to achieve the goals set 
 
 “(e)
 
-Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123\(64 Fed. Reg. 30851; 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2866, 2867 of this title.
+Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
 

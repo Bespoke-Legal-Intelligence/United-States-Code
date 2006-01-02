@@ -36,7 +36,7 @@
 
 (3) To the extent that an alternative trading system is exempt from any provision of this chapter pursuant to paragraph (2) of this subsection, the futures association registered under section 21 of this title of which the alternative trading system is a member shall set rules governing the conduct of subscribers to the alternative trading system and discipline the subscribers.
 
-(4)(A) Except as provided in subparagraph (B), but notwithstanding any other provision of thischapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any designated contract market in security futures subject to the designation requirement of this section from any provision of this chapter or of any rule or regulation thereunder, to the extent such exemption is necessary or appropriate in the public interest and is consistent with the protection of investors.
+(4)(A) Except as provided in subparagraph (B), but notwithstanding any other provision of this chapter, the Commission, by rule, regulation, or order, may conditionally or unconditionally exempt any designated contract market in security futures subject to the designation requirement of this section from any provision of this chapter or of any rule or regulation thereunder, to the extent such exemption is necessary or appropriate in the public interest and is consistent with the protection of investors.
 
 (B) The Commission shall, by rule or regulation, determine the procedures under which an exemptive order under this section is granted and may, in its sole discretion, decline to entertain any application for an order of exemption under this section.
 

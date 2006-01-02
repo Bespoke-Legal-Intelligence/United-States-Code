@@ -37,16 +37,18 @@
 | (d) | Projects to be carried out. |
 | (e) | Preference for certain projects. |
 | (f) | Consistency. |
-| [1724\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001724%20-%20Conservation%20centers.md) | Conservation centers. |
+| [1724\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001724%20-%20Conservation%20centers%20and%20program%20support.md) | Conservation centers and program support. |
 | (a) | Establishment and use. |
 | (b) | Logistical support. |
 | (c) | Use of military installations. |
+| (d) | Assistance. |
 | [1725\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001725%20-%20Resource%20assistants.md) | Resource assistants. |
 | (a) | Authorization. |
 | (b) | Use of existing nonprofit organizations. |
 | [1726\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001726%20-%20Living%20allowances%20and%20terms%20of%20service.md) | Living allowances and terms of service. |
 | (a) | Living allowances. |
 | (b) | Terms of service. |
+| (c) | Hiring. |
 | [1727\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001727%20-%20National%20service%20educational%20awards.md) | National service educational awards. |
 | (a) | Educational benefits and awards. |
 | (b) | Forbearance in collection of Stafford loans. |
@@ -54,6 +56,11 @@
 | [1729\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001729%20-%20Funding.md) | Funding. |
 | (a) | Cost sharing. |
 | (b) | Funds available under National and Community Service Act. |
+| (c) | Other funds. |
+| [1730\.](Subchapter%20002%20%28II%29%20-%20Public%20Lands%20Corps/%C2%A7%2001730%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Disaster relief or prevention projects. |
+| (c) | Availability of funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

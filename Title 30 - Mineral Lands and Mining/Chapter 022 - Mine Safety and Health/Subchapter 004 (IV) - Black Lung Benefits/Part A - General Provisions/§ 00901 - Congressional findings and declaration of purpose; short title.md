@@ -4,7 +4,7 @@
 
 (b) This subchapter may be cited as the “Black Lung Benefits Act”.
 
-(Pub. L. 91–173, title IV, §401, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§3(a), 4(b)(2), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, §16, Mar. 1, 1978, 92 Stat. 105; Pub. L. 97–119, title II, §203(a)(4), Dec. 29, 1981, 95 Stat. 1644.)
+(Pub. L. 91–173, title IV, §401, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§3(a), 4(b)(2), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, §16, Mar. 1,1978, 92 Stat. 105; Pub. L. 97–119, title II, §203(a)(4), Dec. 29, 1981, 95 Stat. 1644.)
 
 #### Amendments
 
@@ -46,5 +46,5 @@ Section 202(e) of Pub. L. 97–119 directed Secretary of Labor, in consultation 
 
 #### Study of Benefits Under This Subchapter, Other Benefits Received, and Benefits if State Workers’ Compensation Programs Applicable; Report to Congress
 
-Section 203(c) of Pub. L. 97–119 directed Secretary of Labor to undertake a study of the benefits provided bythis subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers’ compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Section 203(c) of Pub. L. 97–119 directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers’ compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 

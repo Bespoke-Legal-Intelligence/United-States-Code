@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) services for children with limited English proficiency, children with disabilities, migratory children, neglected or delinquent youth, Indian children served under part A of subchapter VII of this chapter, homeless children, and immigrant children in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
 
-&emsp;&emsp;(F) an assurance that the local educational agency will participate, if selected, in the State National Assessment of Educational Progress in 4th and 8th grade reading and mathematics carried out under section 9622(b)(2) of this title;
+&emsp;&emsp;(F) an assurance that the local educational agency will participate, if selected, in the State National Assessment of EducationalProgress in 4th and 8th grade reading and mathematics carried out under section 9622(b)(2) of this title;
 
 &emsp;&emsp;(G) a description of the poverty criteria that will be used to select school attendance areas under section 6313 of this title;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(L) ensure, through incentives for voluntary transfers, the provision of professional development, recruitment programs, or other effective strategies, that low-income students and minority students are not taught at higher rates than other students by unqualified, out-of-field, or inexperienced teachers;
 
-&emsp;&emsp;(M) use the results of the student academic assessments required under section 6311(b)(3) of this title, and other measures orindicators available to the agency, to review annually the progress of each school served by the agency and receiving funds under this part to determine whether all of the schools are making the progress necessary to ensure that all students will meet the State's proficient level of achievement on the State academic assessments described in section 6311(b)(3) of this title within 12 years from the end of the 2001–2002 school year;
+&emsp;&emsp;(M) use the results of the student academic assessments required under section 6311(b)(3) of this title, and other measures or indicators available to the agency, to review annually the progress of each school served by the agency and receiving funds under this part to determine whether all of the schools are making the progress necessary to ensure that all students will meet the State's proficient level of achievement on the State academic assessments described in section 6311(b)(3) of this title within 12 years from the end of the 2001–2002 school year;
 
 &emsp;&emsp;(N) ensure that the results from the academic assessments required under section 6311(b)(3) of this title will be provided to parents and teachers as soon as is practicably possible after the test is taken, in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand; and
 
@@ -160,7 +160,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 #### (A) Notice
 
-&emsp;&emsp;Each local educational agency using funds under this part to provide a language instruction educational program as determined in part C of subchapter III of this chapter shall, not later than 30 days after the beginning of the school year, inform a parent or parents of a limited English proficient child identified for participation or participating in, such a program of—
+&emsp;&emsp;Each local educational agency using funds under this part to provide a language instruction educational program as determined in part C of subchapter III of thischapter shall, not later than 30 days after the beginning of the school year, inform a parent or parents of a limited English proficient child identified for participation or participating in, such a program of—
 
 &emsp;&emsp;&emsp;(i) the reasons for the identification of their child as limited English proficient and in need of placement in a language instruction educational program;
 
@@ -214,7 +214,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (a)(1), 
 
 The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (a)(1), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987,101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Education Flexibility Partnership Act of 1999, referred to in subsec. (c)(1)(J), is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41, as amended, which enacted sections 5891a and 5891b of this title, amended section 1415 of this title, and enacted provisions set out as notes under sections 1415 and 5891a of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 5801 of this title and Tables.
 

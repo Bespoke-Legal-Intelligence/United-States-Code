@@ -40,7 +40,7 @@ Each bank shall provide, in accordance with subsection (b), a brief notice about
 
 #### (A) In general
 
-&emsp;&emsp;A bank shall be treated as being in compliance with the requirements of subsection (a) if the bank's substitute check notice uses a model form or clause published by the Board and such model form or clause accurately describes the bank's policies and practices.
+&emsp;&emsp;A bank shall be treated as being in compliance with the requirements of subsection (a)if the bank's substitute check notice uses a model form or clause published by the Board and such model form or clause accurately describes the bank's policies and practices.
 
 #### (B) Deletion or rearrangement
 

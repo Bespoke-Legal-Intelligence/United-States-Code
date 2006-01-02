@@ -34,7 +34,7 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 &emsp;&emsp;(A) the potential for the introduction, establishment or spread of a pest or disease and associated biological and economic consequences; or
 
-&emsp;&emsp;(B) the potential for adverse effects on human or animal life or health arising from the presence of an additive, contaminant, toxin or disease-causing organism in a food, beverage, or feedstuff.
+&emsp;&emsp;(B) the potential for adverse effects on human or animal life or health arising fromthe presence of an additive, contaminant, toxin or disease-causing organism in a food, beverage, or feedstuff.
 
 #### (7) Sanitary or phytosanitary measure
 

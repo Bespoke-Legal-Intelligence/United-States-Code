@@ -2,7 +2,7 @@
 
 #### (a) Storage and handling of poultry products; violation of regulations
 
-The Secretary may by regulations prescribe conditions under which poultry products capable of use as human food, shall be stored or otherwise handled by any person engaged in the business of buying, selling, freezing, storing, or transporting, in or for commerce, or importing, such articles, whenever the Secretary deems such action necessary to assure that such articles will not be adulterated or misbranded whendelivered to the consumer. Violation of any such regulation is prohibited.
+The Secretary may by regulations prescribe conditions under which poultry products capable of use as human food, shall be stored or otherwise handled by any person engaged in the business of buying, selling, freezing, storing, or transporting, in or for commerce, or importing, such articles, whenever the Secretary deems such action necessary to assure that such articles will not be adulterated or misbranded when delivered to the consumer. Violation of any such regulation is prohibited.
 
 #### (b) Other necessary rules and regulations
 
@@ -16,7 +16,7 @@ In applying the provisions of section 553(c) of title 5 to proposed rule making 
 
 #### Amendments
 
-1968—Pub. L. 90–492 designated existing provisions as par. (b), added pars. (a) and (c), and in par. (b), as so designated, substituted “such other rules” for “such rules”.
+1968—Pub. L. 90–492 designated existing provisions as par. (b), added pars. (a) and (c), and in par. (b), as sodesignated, substituted “such other rules” for “such rules”.
 
 #### Effective Date of 1968 Amendment
 

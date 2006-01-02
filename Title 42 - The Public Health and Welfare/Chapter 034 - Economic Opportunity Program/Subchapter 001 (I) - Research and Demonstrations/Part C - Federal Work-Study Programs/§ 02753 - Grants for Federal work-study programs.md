@@ -20,7 +20,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(2) provide that funds granted an institution of higher education, pursuant to this section, may be used only to make payments to students participating in work-study programs, except that—
 
-&emsp;&emsp;(A) for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to suchcommunity service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;
+&emsp;&emsp;(A) for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;
 
 &emsp;&emsp;(B) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
 
@@ -70,7 +70,7 @@ An agreement entered into pursuant to this section shall—
 
 As part of its agreement agreement <sup>2</sup> described in subsection (b) of this section, an institution of higher education may, at its option, enter into an additional agreement with the Secretary which shall—
 
-&emsp;(1) provide for the operation by the institution of a program of part-time employment of its students in work for a private for-profit organization under an arrangement between the institution and such organization that complies with the requirements of subparagraphs\(A) through (D) of subsection (b)(1) of this section and subsection (b)(3) of this section;
+&emsp;(1) provide for the operation by the institution of a program of part-time employment of its students in work for a private for-profit organization under an arrangement between the institution and such organization that complies with the requirements of subparagraphs (A) through (D) of subsection (b)(1) of this section and subsection (b)(3) of this section;
 
 &emsp;(2) provide that the institution will use not more than 25 percent of the funds made available to such institution under this part for any fiscal year for the operation of the program described in paragraph (1);
 

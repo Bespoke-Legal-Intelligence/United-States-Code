@@ -2,11 +2,11 @@
 
 (a)
 
-Authority for Program.—The Secretary of Defense may carry out a program for the administration of counterintelligence polygraph examinations to persons described in subsection (b). The program shall be based on Department of Defense Directive 5210.48, dated December 24, 1984.
+Authority for Program.—The Secretary of Defense may carry out a program for the administration of counterintelligence polygraph examinations to persons described in subsection (b). The program shall be conducted in accordance with the standards specified in subsection (e).
 
 (b)
 
-Persons Covered.—Except as provided in subsection (c), the following persons whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.4(a) of Executive Order 12958 (or a successor Executive order) are subject to this section:
+Persons Covered.—Except as provided in subsection (d), the following persons, if their duties are described in subsection (c), are subject to this section:
 
 &emsp;(1) Military and civilian personnel of the Department of Defense.
 
@@ -17,6 +17,24 @@ Persons Covered.—Except as provided in subsection (c), the following persons w
 &emsp;(4) An applicant for a position in the Department of Defense.
 
 (c)
+
+Covered Types of Duties.—The Secretary of Defense may provide, under standards established by the Secretary, that a person described in subsection (b) is subject to this section if that person's duties involve—
+
+&emsp;(1) access to information that—
+
+&emsp;&emsp;(A) has been classified at the level of top secret; or
+
+&emsp;&emsp;(B) is designated as being within a special access program under section 4.4(a) of Executive Order No. 12958 (or a successor Executive order); or
+
+&emsp;(2) assistance in an intelligence or military mission in a case in which the unauthorized disclosure or manipulation of information, as determined under standards established by the Secretary of Defense, could reasonably be expected to—
+
+&emsp;&emsp;(A) jeopardize human life or safety;
+
+&emsp;&emsp;(B) result in the loss of unique or uniquely productive intelligence sources or methods vital to United States security; or
+
+&emsp;&emsp;(C) compromise technologies, operational plans, or security procedures vital to the strategic advantage of the United States and its allies.
+
+(d)
 
 Exceptions From Coverage for Certain Intelligence Agencies and Functions.—This section does not apply to the following persons:
 
@@ -36,29 +54,61 @@ Exceptions From Coverage for Certain Intelligence Agencies and Functions.—This
 
 &emsp;(4) A person employed by, or assigned or detailed to, an office within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance programs or a contractor of such an office.
 
-(d)
+(e)
+
+Standards.—(1) Polygraph examinations conducted under this section shall comply with all applicable laws and regulations.
+
+(2) Such examinations may be authorized for any of the following purposes:
+
+&emsp;(A) To assist in determining the initial eligibility for duties described in subsection (c) of, and aperiodically thereafter, on a random basis, to assist in determining the continued eligibility of, persons described in subsections (b) and (c).
+
+&emsp;(B) With the consent of, or upon the request of, the examinee, to—
+
+&emsp;&emsp;(i) resolve serious credible derogatory information developed in connection with a personnel security investigation; or
+
+&emsp;&emsp;(ii) exculpate him- or herself of allegations or evidence arising in the course of a counterintelligence or personnel security investigation.
+
+&emsp;(C) To assist, in a limited number of cases when operational exigencies require the immediate use of a person's services before the completion of a personnel security investigation, in determining the interim eligibility for duties described in subsection (c) of the person.
+
+(3) Polygraph examinations conducted under this section shall provide adequate safeguards, prescribed by the Secretary of Defense, for the protection of the rights and privacy of persons subject to this section under subsection (b) who are considered for or administered polygraph examinations under this section. Such safeguards shall include the following:
+
+&emsp;(A) The examinee shall receive timely notification of the examination and its intended purpose and may only be given the examination with the consent of the examinee.
+
+&emsp;(B) The examinee shall be advised of the examinee's right to consult with legal counsel.
+
+&emsp;(C) All questions asked concerning the matter at issue, other than technical questions necessary to the polygraph technique, must have a relevance to the subject of the inquiry.
+
+(f)
 
 Oversight.—(1) The Secretary shall establish a process to monitor responsible and effective application of polygraph examinations within the Department of Defense.
 
 (2) The Secretary shall make information on the use of polygraphs within the Department of Defense available to the congressional defense committees.
 
-(e)
+(g)
 
-Polygraph Research Program.—The Secretary shall carry out a continuing research program to support the polygraph examination activities of the Department of Defense. The program shall include—
+Polygraph Research Program.—The Secretary shall carry out a continuing research program to support the polygraph examination activities of the Department of Defense. The program shall include the following:
 
-&emsp;(1) an on-going evaluation of the validity of polygraph techniques used by the Department;
+&emsp;(1) An on-going evaluation of the validity of polygraph techniques used by the Department.
 
-&emsp;(2) research on polygraph countermeasures and anti-countermeasures; and
+&emsp;(2) Research on polygraph countermeasures and anti-countermeasures.
 
-&emsp;(3) developmental research on polygraph techniques, instrumentation, and analytic methods.
+&emsp;(3) Developmental research on polygraph techniques, instrumentation, and analytic methods.
 
-(Added Pub. L. 108–136, div. A, title X, §1041(a)(1), Nov. 24, 2003, 117 Stat. 1607.)
+(Added Pub. L. 108–136, div. A, title X, §1041(a)(1), Nov. 24, 2003, 117 Stat. 1607; amended Pub. L. 109–163, div. A, title X, §1054(a), Jan. 6, 2006, 119 Stat. 3436.)
 
 #### References in Text
 
-Executive Order 12958, referred to in subsec. (b), is set out as a note under section 435 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in subsec. (c)(1)(B), is set out as a note under section 435 of Title 50, War and National Defense.
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 100–180, title XI, §1121, Dec. 4, 1987, 101 Stat. 1147, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 108–136, div. A, title X, §1041(b), Nov. 24, 2003, 117 Stat. 1608.
+
+#### Amendments
+
+2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section related to authority for program for administration of counterintelligence polygraph examinations in subsec. (a), persons covered in subsec. (b), exceptions from coverage for certain intelligence agencies and functions in subsec. (c), oversight in subsec. (d), and polygraph research program in subsec. (e).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title X, §1054(b), Jan. 6, 2006, 119 Stat. 3438, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to polygraph examinations administered beginning on the date of the enactment of this Act \[Jan. 6, 2006\].”
 

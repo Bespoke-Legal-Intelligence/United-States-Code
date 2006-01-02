@@ -30,7 +30,7 @@
 
 #### (5) Transfers of qualified countermeasures
 
-&emsp;Each agreement for an award of a grant, contract, or cooperative agreement under section 247d–6(h) of this title for the development of a qualified countermeasure shall provide that the recipient of the award will comply with all applicable export-related controls with respect to such countermeasure.
+&emsp;Each agreement for an award of a grant, contract, or cooperative agreement under section 247d–6(h) of this title for the developmentof a qualified countermeasure shall provide that the recipient of the award will comply with all applicable export-related controls with respect to such countermeasure.
 
 #### (b) Expedited procurement authority
 
@@ -128,7 +128,7 @@
 
 #### (2) Subsequent phases of research
 
-&emsp;The Secretary's determination of whether to employ expedited peer review with respect to any subsequent phases of a research grant, contract, or cooperative agreement under this section shall be determined without regard to the peer review procedures used for any prior peer review of that same grant, contract, or cooperative agreement. Nothing in the preceding sentence may be construed to impose any requirement with respect to peer review nototherwise required under any other law or regulation.
+&emsp;The Secretary's determination of whether to employ expedited peer review with respect to any subsequent phases of a research grant, contract, or cooperative agreement under this section shall be determined without regard to the peer review procedures used for any prior peer review of that same grant, contract, or cooperative agreement. Nothing in the preceding sentence may be construed to impose any requirement with respect to peer review not otherwise required under any other law or regulation.
 
 #### (d) Authority for personal services contracts
 
@@ -218,7 +218,7 @@ Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: “The Secr
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures
 
-Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: “Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls.”
+Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: “Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be includedon the list of controlled items subject to such controls.”
 
 #### Ensuring Coordination, Cooperation and the Elimination of Unnecessary Duplication in Programs Designed To Protect the Homeland From Biological, Chemical, Radiological, and Nuclear Agents
 

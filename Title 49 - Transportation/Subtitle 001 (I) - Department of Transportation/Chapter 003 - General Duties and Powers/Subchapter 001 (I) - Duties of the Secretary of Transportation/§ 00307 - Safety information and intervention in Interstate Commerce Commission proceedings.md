@@ -14,7 +14,7 @@
 
 &emsp;(4) make additional safety compliance surveys and inspections the Commission decides are desirable to allow it to act on an application or to make a finding on the fitness of a carrier.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2421.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2421.)
 
 Historical and Revision Notes
 

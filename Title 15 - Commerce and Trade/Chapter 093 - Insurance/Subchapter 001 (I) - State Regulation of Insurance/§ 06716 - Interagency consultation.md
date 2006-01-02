@@ -38,7 +38,7 @@ Nothing in this section shall limit in any respect the authority of the appropri
 
 #### (2) Privilege
 
-&emsp;The provision pursuant to this section of information or material by a Federal banking agency or State insurance regulator shall not constitute a waiver of, or otherwise affect, any privilege to which the information or material is otherwise subject.
+&emsp;The provision pursuant to this section of information or material by a Federal bankingagency or State insurance regulator shall not constitute a waiver of, or otherwise affect, any privilege to which the information or material is otherwise subject.
 
 #### (f) Definitions
 

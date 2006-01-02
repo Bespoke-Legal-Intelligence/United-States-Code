@@ -52,7 +52,7 @@ The district court shall have jurisdiction to grant only such of the following f
 
 #### (5) Substitution of value
 
-&emsp;If the court determines that the Secretary's determination of the value of the interest ofthe United States in the property for purposes of section 6325(b)(4) exceeds the actual value of such interest, the court shall grant a judgment ordering a refund of the amount deposited, and a release of the bond, to the extent that the aggregate of the amounts thereof exceeds such value determined by the court.
+&emsp;If the court determines that the Secretary's determination of the value of the interest of the United States in the property for purposes of section 6325(b)(4) exceeds the actual value of such interest, the court shall grant a judgment ordering a refund of the amount deposited, and a release of the bond, to the extent that the aggregate of the amounts thereof exceeds such value determined by the court.
 
 #### (c) Validity of assessment
 
@@ -138,13 +138,9 @@ Section 350(b) of Pub. L. 97–248 provided that: “The amendment made by subse
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date orarising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
+Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts outstanding on such date or arising thereafter, see section 7(e) of Pub. L. 93–625, set out as an Effective Date note under section 6621 of this title.
 
 #### Effective Date
 
-Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which section would impair a priority held by any person other than United States holding a lien or interest prior to Nov. 2, 1966, operate to increase liability of such person, or shorten time of bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(c) of Pub. L. 89–719, set out as Effective Date of 1966 Amendments note under section 6323 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6325, 6503, 6532, 7421 of this title; title 28 sections 1346, 2409a.
+Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lienor interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which section would impair a priority held by any person other than United States holding a lien or interest prior to Nov. 2, 1966, operate to increase liability of such person, or shorten time of bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(c) of Pub. L. 89–719, set out as Effective Date of 1966 Amendments note under section 6323 of this title.
 

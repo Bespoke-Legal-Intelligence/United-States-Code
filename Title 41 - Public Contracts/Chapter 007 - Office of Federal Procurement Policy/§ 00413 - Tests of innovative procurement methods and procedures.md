@@ -40,7 +40,7 @@ Pub. L. 103–355, title V, §5061, Oct. 13, 1994, 108 Stat. 3352, as amended by
 
 “(a)
 
-In General.—The Administrator for Federal Procurement Policy (in this section referred to as the ‘Administrator’) may conduct a program of tests of alternative and innovative procurement procedures. To the extent consistent with this section, such program shall be conducted consistent with section 15 of the Office of Federal Procurement Policy Act (41 U.S.C. 413). No more than 6 such tests shall be conducted under the authority of this subsection, and not more than 1 suchtest shall be conducted under such authority in an agency.
+In General.—The Administrator for Federal Procurement Policy (in this section referred to as the ‘Administrator’) may conduct a program of tests of alternative and innovative procurement procedures. To the extent consistent with this section, such program shall be conducted consistent with section 15 of the Office of Federal Procurement Policy Act (41 U.S.C. 413). No more than 6 such tests shall be conducted under the authority of this subsection, and not more than 1 such test shall be conducted under such authority in an agency.
 
 “(b)
 

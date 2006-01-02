@@ -26,7 +26,7 @@
 
 (e) The Secretary shall deposit at the end of each fiscal year, in the Treasury as miscellaneous receipts, amounts accruing in the fund that the Secretary decides are in excess of the needs of the fund.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2425.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2425.)
 
 Historical and Revision Notes
 

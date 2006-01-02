@@ -18,7 +18,7 @@ The restrictions required by subsection (a) of this section shall be applied wit
 
 #### (c) Waivers
 
-The Secretary, after consultation with the Director of Central Intelligence and the Directorof the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) of this section if the Secretary determines that the national security and foreign policy interests of the United States so require.
+The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) of this section if the Secretary determines that the national security and foreign policy interests of the United States so require.
 
 #### (d) Repealed. Pub. L. 103–236, title I, §139(3), Apr. 30, 1994, 108 Stat. 397
 

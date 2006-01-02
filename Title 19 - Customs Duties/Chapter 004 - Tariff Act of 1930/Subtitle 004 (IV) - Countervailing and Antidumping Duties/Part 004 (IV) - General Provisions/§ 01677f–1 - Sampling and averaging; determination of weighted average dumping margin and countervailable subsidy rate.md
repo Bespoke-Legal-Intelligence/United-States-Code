@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of determining the export price (or constructed export price) under section 1677a of this title or the normal value under section 1677b of this title, and in carrying out reviewsunder section 1675 of this title, the administering authority may—
+For purposes of determining the export price (or constructed export price) under section 1677a of this title or the normal value under section 1677b of this title, and in carrying out reviews under section 1675 of this title, the administering authority may—
 
 &emsp;(1) use averaging and statistically valid samples, if there is a significant volume of sales of the subject merchandise or a significant number or types of products, and
 

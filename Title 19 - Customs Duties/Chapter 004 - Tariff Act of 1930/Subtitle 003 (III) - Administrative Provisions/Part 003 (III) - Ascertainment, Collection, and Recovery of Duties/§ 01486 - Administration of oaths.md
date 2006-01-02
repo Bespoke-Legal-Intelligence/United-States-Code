@@ -14,7 +14,7 @@ No compensation or fee shall be demanded or accepted for administering any oath 
 
 #### (d) Verification in lieu of oath
 
-The Secretary of the Treasury may by regulation prescribe that any document required by any law administered by the Customs Service to be under oath may be verified by a written declaration in such form as he shall prescribe, such declaration to be in lieu of the oath otherwise required.
+The Secretary of the Treasury may by regulation prescribe that any document required byany law administered by the Customs Service to be under oath may be verified by a written declaration in such form as he shall prescribe, such declaration to be in lieu of the oath otherwise required.
 
 (June 17, 1930, ch. 497, title IV, §486, 46 Stat. 725; Aug. 8, 1953, ch. 397, §17, 67 Stat. 517.)
 

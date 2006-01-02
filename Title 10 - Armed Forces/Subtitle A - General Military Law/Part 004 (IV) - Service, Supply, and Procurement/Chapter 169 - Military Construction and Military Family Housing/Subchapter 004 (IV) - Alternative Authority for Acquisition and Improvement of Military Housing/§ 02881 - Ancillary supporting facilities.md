@@ -6,7 +6,7 @@ Authority To Acquire or Construct.—Any project for the acquisition or construc
 
 (b)
 
-Restriction.—A project referred to in subsection (a) may not include the acquisition or construction of an ancillary supporting facility if, as determined by the Secretary concerned, the facility is to be used for providing merchandise or services in direct competition with—
+Restriction.—A project referred to in subsection (a) may not include the acquisition or construction of an ancillary supporting facility (other than a child development center) if, as determined by the Secretary concerned, the facility is to be used for providing merchandise or services in direct competition with—
 
 &emsp;(1) the Army and Air Force Exchange Service;
 
@@ -18,9 +18,15 @@ Restriction.—A project referred to in subsection (a) may not include the acqui
 
 &emsp;(5) any nonappropriated fund activity of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 106–65, div. B, title XXVIII, §2804, Oct. 5, 1999, 113 Stat. 849.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 548; amended Pub. L. 106–65, div. B, title XXVIII, §2804, Oct. 5, 1999, 113 Stat. 849; Pub. L. 109–163, div. B, title XXVIII, §2805(a), Jan. 6, 2006, 119 Stat. 3507.)
 
 #### Amendments
 
+2006—Subsec. (b). Pub. L. 109–163 inserted “(other than a child development center)” after “ancillary supporting facility” in introductory provisions.
+
 1999—Pub. L. 106–65 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Construction of 2006 Amendment
+
+Pub. L. 109–163, div. B, title XXVIII, §2805(c), Jan. 6, 2006, 119 Stat. 3507, provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] may be construed to alter any law and regulation applicable to the operation of a child development center, as defined in section 2871(2) of title 10, United States Code.”
 

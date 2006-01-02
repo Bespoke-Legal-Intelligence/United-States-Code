@@ -30,7 +30,7 @@ Duration of orders; rulemaking.—Any order by which a special measure described
 
 Process for selecting special measures.—In selecting which special measure or measures to take under this subsection, the Secretary of the Treasury—
 
-&emsp;&emsp;(A) shall consult with the Chairman of the Board of Governors of the Federal Reserve System, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) <sup>1</sup> the Secretary of State, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the National Credit Union Administration Board, and in the sole discretion of the Secretary, such other agencies and interested parties as the Secretary may find to be appropriate; and
+&emsp;&emsp;(A) shall consult with the Chairman of the Board of Governors of the Federal Reserve System, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) <sup>1</sup> the Secretary of State, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the National Credit Union Administration Board, and in the sole discretion of the Secretary, such other agenciesand interested parties as the Secretary may find to be appropriate; and
 
 &emsp;&emsp;(B) shall consider—
 
@@ -66,7 +66,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;&emsp;&emsp;(ii) the legal capacity in which a participant in any transaction is acting;
 
-&emsp;&emsp;&emsp;(iii) the identity of the beneficial owner of the funds involved in any transaction, in accordance with such procedures as the Secretary determines to be reasonable andpracticable to obtain and retain the information; and
+&emsp;&emsp;&emsp;(iii) the identity of the beneficial owner of the funds involved in any transaction, in accordance with such procedures as the Secretary determines to be reasonable and practicable to obtain and retain the information; and
 
 &emsp;&emsp;&emsp;(iv) a description of any transaction.
 
@@ -84,7 +84,7 @@ Information relating to certain payable-through accounts.—If the Secretary fin
 
 &emsp;(4)
 
-Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
+Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or anysuch financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
 
 &emsp;&emsp;(A) to identify each customer (and representative of such customer) of any such financial institution who is permitted to use, or whose transactions are routed through, such correspondent account; and
 

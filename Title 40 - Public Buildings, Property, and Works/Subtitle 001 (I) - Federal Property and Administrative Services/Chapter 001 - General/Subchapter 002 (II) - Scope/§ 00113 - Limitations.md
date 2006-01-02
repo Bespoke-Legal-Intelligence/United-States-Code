@@ -124,7 +124,7 @@ In subsection (e)(3), the words “chapter 137 of title 10” and “that chapte
 
 In subsection (e)(4), the words “Secretary of Defense” are substituted for “National Military Establishment” in section 602(d)(4) of the Federal Property and Administrative Services Act of 1949, because of section 12(a), (g) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591) and because of 10:113(a).
 
-In subsection (e)(5), the words “section 2535 of title 10” are substituted for “the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]” because the National Industrial Reserve Act was renamed “Defense Industrial Reserve Act” by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
+In subsection (e)(5), the words “section 2535 of title 10” are substituted for “the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]” because the National Industrial Reserve Act was renamed “Defense Industrial Reserve Act” by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the NationalDefense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
 In subsection (e)(6), the words “the Munitions Board” are omitted because sections 1 and 2 of Reorganization Plan No. 6 of 1953 (eff. June 30, 1953, 67 Stat. 638) abolished the Munitions Board and transferred the Board's functions to the Secretary of Defense.
 
@@ -172,5 +172,7 @@ The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwiseexpressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
 

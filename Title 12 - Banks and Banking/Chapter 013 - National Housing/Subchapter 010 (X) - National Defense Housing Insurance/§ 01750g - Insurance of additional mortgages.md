@@ -20,11 +20,11 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;(3) The mortgagor shall enter into the agreement required by section 1715r of this title.
 
-> The mortgage shall provide for complete amortization by periodic payments within such term as the Secretary shall prescribe, and shall bear interest (exclusive of premium charges for insurance) at not to exceed 41/2 per centum per annum on the amount of the principal obligation outstanding at any time. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release.
+> The mortgage shall provide for complete amortization by periodic payments within such termas the Secretary shall prescribe, and shall bear interest (exclusive of premium charges for insurance) at not to exceed 41/2 per centum per annum on the amount of the principal obligation outstanding at any time. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release.
 
 #### (c) Default; debentures; cash adjustment; certificate of claim
 
-The mortgagee shall be entitled to receive debentures in connection with mortgages insured under this section in the amount and under the conditions specified in subsection (g) of section 1713 of this title, and the references in said subsection (g) to the cash adjustment provided forin subsection (j) of section 1713 and to the certificate of claim provided for in subsection (h) of section 1713 shall be deemed to refer respectively to the cash adjustment provided for in subsection (c) of section 1750c of this title and to the certificate of claim provided for in subsection (d) of this section.
+The mortgagee shall be entitled to receive debentures in connection with mortgages insured under this section in the amount and under the conditions specified in subsection (g) of section 1713 of this title, and the references in said subsection (g) to the cash adjustment provided for in subsection (j) of section 1713 and to the certificate of claim provided for in subsection (h) of section 1713 shall be deemed to refer respectively to the cash adjustment provided for in subsection (c) of section 1750c of this title and to the certificate of claim provided for in subsection (d) of this section.
 
 #### (d) Certificate of claim; contents and payment
 

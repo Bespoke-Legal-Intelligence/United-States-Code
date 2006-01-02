@@ -72,7 +72,3 @@ If an electing large partnership has income from the discharge of any indebtedne
 
 (Added Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1004.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 772, 774, 776 of this title.
-

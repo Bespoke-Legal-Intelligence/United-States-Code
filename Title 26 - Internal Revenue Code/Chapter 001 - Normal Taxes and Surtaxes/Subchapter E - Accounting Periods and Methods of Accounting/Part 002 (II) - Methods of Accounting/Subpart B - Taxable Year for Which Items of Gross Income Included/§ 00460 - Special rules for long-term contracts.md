@@ -12,7 +12,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(A) the percentage of completion shall be determined by comparing costs allocated to the contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and
 
-&emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
+&emsp;&emsp;(B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properlytaken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2).
 
 > &emsp;In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account).
 
@@ -190,7 +190,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (1) Direct and certain indirect costs
 
-&emsp;In the case of a long-term contract, all costs (including research and experimental costs) which directly benefit, or are incurred by reason of, the long-term contract activities of the taxpayer shall be allocated to such contract in the same manner as costs are allocated to extended period long-term contracts under section 451 and the regulations thereunder.
+&emsp;In the case of a long-term contract, all costs (including research and experimental costs)which directly benefit, or are incurred by reason of, the long-term contract activities of the taxpayer shall be allocated to such contract in the same manner as costs are allocated to extended period long-term contracts under section 451 and the regulations thereunder.
 
 #### (2) Costs identified under cost-plus and certain Federal contracts
 
@@ -200,7 +200,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costsare allocated to property produced by the taxpayer under section 263A(f).
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costs are allocated to property produced by the taxpayer under section 263A(f).
 
 #### (B) Production period
 
@@ -294,7 +294,7 @@ For purposes of this section—
 
 #### (5) Special rule for residential construction contracts which are not home construction contracts
 
-&emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shallapply except that such subsection shall be applied—
+&emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied—
 
 &emsp;&emsp;(A) by substituting “70 percent” for “90 percent” each place it appears, and
 
@@ -386,7 +386,7 @@ In general.—In the case of any long-term contract—
 
 percent look-back method to apply.—Upon completion of any long-term contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest determined by applying the look-back method of subsection (b)(3) to 90 percent of the items with respect to the contract.”
 
-Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when suchamount is so properly taken into account)” after “any long-term contract”.
+Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account)” after “any long-term contract”.
 
 Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2)(A), substituted “paragraph (3)” for “paragraph (4)”.
 
@@ -482,7 +482,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending this section\
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as otherwise expressly provided, as ifincluded in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -588,13 +588,49 @@ Section 804(b) of Pub. L. 99–514 provided that: “The Secretary of the Treasu
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+#### Method of Accounting for Naval Shipbuilders
+
+Pub. L. 108–357, title VII, §708, Oct. 22, 2004, 118 Stat. 1550, as amended by Pub. L. 109–135, title IV, §403(s), Dec. 21, 2005, 119 Stat. 2628, provided that:
+
+“(a)
+
+In General.—In the case of a qualified naval ship contract, the taxable income of such contract during the 5-taxable year period beginning with the taxable year in which the construction commencement date occurs shall be determined under a method identical to the method used in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note above\]).
+
+“(b)
+
+Recapture of Tax Benefit.—In the case of a qualified naval ship contract to which subsection (a) applies, the taxpayer's tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the first taxable yearfollowing the 5-taxable year period described in subsection (a) shall be increased by the excess (if any) of—
+
+&emsp;“(1) the amount of tax which would have been imposed during such period if this section had not been enacted, over
+
+&emsp;“(2) the amount of tax so imposed during such period.
+
+“(c)
+
+Qualified Naval Ship Contract.—For purposes of this section:
+
+&emsp;“(1)
+
+In general.—The term ‘qualified naval ship contract’ means any contract or portion thereof that is for the construction in the United States of 1 ship or submarine for the Federal Government if the taxpayer reasonably expects the acceptance date will occur no later than 9 years after the construction commencement date.
+
+&emsp;“(2)
+
+Acceptance date.—The term ‘acceptance date’ means the date 1 year after the date on which the Federal Government issues a letter of acceptance or other similar document for the ship or submarine.
+
+&emsp;“(3)
+
+Construction commencement date.—The term ‘construction commencement date’ means the date on which the physical fabrication of any section or component of the ship or submarine begins in the taxpayer's shipyard.
+
+“(d)
+
+Certain Adjustments Not to Apply.—Section 481 of the Internal Revenue Code of 1986 shall not apply with respect to any change in the method of accounting which is required by this section.
+
+“(e)
+
+Effective Date.—This section shall apply to contracts for ships or submarines with respect to which the construction commencement date occurs after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Amortization of Past Service Pension Costs
 
 Allocable costs (within the meaning of subsec. (c) of this section) with respect to any property to include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs, see section 10204 of Pub. L. 100–203, set out as a note under section 263A of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 167 of this title.
 

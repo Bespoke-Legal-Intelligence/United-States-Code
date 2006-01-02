@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(C) a trust if the person is a trustee thereof; or
 
-&emsp;&emsp;(D) a savings association or any other company if the Director determines, afterreasonable notice and opportunity for hearing, that such person directly or indirectly exercises a controlling influence over the management or policies of such association or other company.
+&emsp;&emsp;(D) a savings association or any other company if the Director determines, after reasonable notice and opportunity for hearing, that such person directly or indirectly exercises a controlling influence over the management or policies of such association or other company.
 
 #### (3) Exclusions
 
@@ -184,7 +184,7 @@
 
 #### (A) Exception to 2-year grace period for achieving compliance
 
-&emsp;&emsp;Notwithstanding paragraph (1)(C), any company which received approval under subsection (e) of this section to acquire control of a savings association between March 5,1987, and August 10, 1987, shall not continue any business activity other than an activity described in paragraph (2) after August 10, 1987.
+&emsp;&emsp;Notwithstanding paragraph (1)(C), any company which received approval under subsection (e) of this section to acquire control of a savings association between March 5, 1987, and August 10, 1987, shall not continue any business activity other than an activity described in paragraph (2) after August 10, 1987.
 
 #### (B) Exemption for activities lawfully engaged in before March 5, 1987
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;(i) meets and continues to meet the requirements of paragraph (3); and
 
-&emsp;&emsp;&emsp;(ii) continues to control not fewer than 1 savings association that it controlled on May 4, 1999, or that it acquired pursuant to an application pending before the Office on or before that date, or the successor to such savings association.
+&emsp;&emsp;&emsp;(ii) continues to control not fewer than 1 savings association that it controlled onMay 4, 1999, or that it acquired pursuant to an application pending before the Office on or before that date, or the successor to such savings association.
 
 #### (D) Corporate reorganizations permitted
 
@@ -320,7 +320,7 @@ Transactions between any subsidiary savings association of a savings and loan ho
 
 &emsp;No acquisition shall be approved by the Director under this subsection which will result in the formation by any company, through one or more subsidiaries or through one or more transactions, of a multiple savings and loan holding company controlling savings associations in more than one State, unless—
 
-&emsp;&emsp;(A) such company, or a savings association subsidiary of such company, is authorized toacquire control of a savings association subsidiary, or to operate a home or branch office, in the additional State or States pursuant to section 13(k) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(k)\];
+&emsp;&emsp;(A) such company, or a savings association subsidiary of such company, is authorized to acquire control of a savings association subsidiary, or to operate a home or branch office, in the additional State or States pursuant to section 13(k) of the Federal Deposit Insurance Act \[12 U.S.C. 1823(k)\];
 
 &emsp;&emsp;(B) such company controls a savings association subsidiary which operated a home or branch office in the additional State or States as of March 5, 1987; or
 
@@ -364,7 +364,7 @@ Every subsidiary savings association of a savings and loan holding company shall
 
 #### (3) Proceedings
 
-&emsp;(A) In any proceeding under subsection (a)(2)(D) of this section or under paragraph (5)of this section,<sup>6</sup> the Director may administer oaths and affirmations, take or cause to be taken depositions, and issue subpenas. The Director may make regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this paragraph may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted. Any party to such proceedings may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States.
+&emsp;(A) In any proceeding under subsection (a)(2)(D) of this section or under paragraph (5) of this section,<sup>6</sup> the Director may administer oaths and affirmations, take or cause to betaken depositions, and issue subpenas. The Director may make regulations with respect to any such proceedings. The attendance of witnesses and the production of documents provided for in this paragraph may be required from any place in any State or in any territory at any designated place where such proceeding is being conducted. Any party to such proceedings may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district or the United States court in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpena issued pursuant to this paragraph, and such courts shall have jurisdiction and power to order and require compliance therewith. Witnesses subpenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States.
 
 &emsp;(B) Any hearing provided for in subsection (a)(2)(D) of this section or under paragraph (5) of this section <sup>7</sup> shall be held in the Federal judicial district or in the territory in which the principal office of the association or other company is located unless the party afforded the hearing consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5.
 
@@ -394,7 +394,7 @@ It shall be unlawful for—
 
 &emsp;(A) Whoever knowingly violates any provision of this section or being a company, violates any regulation or order issued by the Director under this section, shall be imprisoned not more than 1 year, fined not more than $100,000 per day for each day during which the violation continues, or both.
 
-&emsp;(B) Whoever, with the intent to deceive, defraud, or profit significantly, knowingly violates any provision of this section shall be fined not more than $1,000,000 per day for eachday during which the violation continues, imprisoned not more than 5 years, or both.
+&emsp;(B) Whoever, with the intent to deceive, defraud, or profit significantly, knowingly violates any provision of this section shall be fined not more than $1,000,000 per day for each day during which the violation continues, imprisoned not more than 5 years, or both.
 
 #### (2) <sup>8</sup> Civil money penalty
 
@@ -456,7 +456,7 @@ It shall be unlawful for—
 
 #### (j) Judicial review
 
-Any party aggrieved by an order of the Director under this section may obtain a review of such order by filing in the court of appeals of the United States for the circuit in which the principal office of such party is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Director be modified, terminated, or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Director, and thereupon the Director shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Director. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shallbe subject to review by the Supreme Court upon certiorari as provided in section 1254 of title 28.
+Any party aggrieved by an order of the Director under this section may obtain a review of such order by filing in the court of appeals of the United States for the circuit in which the principal office of such party is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Director be modified, terminated, or set aside. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Director, and thereupon the Director shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Director. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari as provided in section 1254 of title 28.
 
 #### (k) Savings clause
 
@@ -524,7 +524,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (ii) Additional restrictions effective after 3 years
 
-&emsp;&emsp;&emsp;Beginning 3 years after the date on which a savings association should have become a qualified thrift lender, or the date on which the savings association ceases to be a qualified thrift lender, as applicable, the savings association shall not retain any investment (including an investment in any subsidiary) or engage, directly or indirectly, in any activity, unless that investment or activity—
+&emsp;&emsp;&emsp;Beginning 3 years after the date on which a savings association should havebecome a qualified thrift lender, or the date on which the savings association ceases to be a qualified thrift lender, as applicable, the savings association shall not retain any investment (including an investment in any subsidiary) or engage, directly or indirectly, in any activity, unless that investment or activity—
 
 &emsp;&emsp;&emsp;&emsp;(I) would be permissible for the savings association if it were a national bank; and
 
@@ -654,7 +654,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 &emsp;&emsp;(i) Assets of the subsidiary are consolidated with the assets of the savings association in determining the savings association's qualified thrift investments; or
 
-&emsp;&emsp;(ii) Residential mortgage loans originated by the subsidiary are included pursuant to paragraph (4)(C)(iii)(I) in determining the savings association's qualified thrift investments.
+&emsp;&emsp;(ii) Residential mortgage loans originated by the subsidiary are included pursuant to paragraph (4)(C)(iii)(I) in determining thesavings association's qualified thrift investments.
 
 &emsp;(B) In determining the amount of a savings association's portfolio assets and qualified thrift investments, consistent accounting principles shall be applied.
 
@@ -748,7 +748,7 @@ Nothing contained in this section, other than any transaction approved under sub
 
 #### (n) Tying restrictions
 
-A savings and loan holding company and any of its affiliates shall be subject to section 1464(q) of this title and regulations prescribed under such section, in connection with transactionsinvolving the products or services of such company or affiliate and those of an affiliated savings association as if such company or affiliate were a savings association.
+A savings and loan holding company and any of its affiliates shall be subject to section 1464(q) of this title and regulations prescribed under such section, in connection with transactions involving the products or services of such company or affiliate and those of an affiliated savings association as if such company or affiliate were a savings association.
 
 #### (<i>o</i>) Mutual holding companies
 
@@ -1060,7 +1060,29 @@ A savings and loan holding company and any of its affiliates shall be subject to
 
 This section shall not apply to a bank holding company that is subject to the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], or any company controlled by such bank holding company.
 
-(June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609; amended Pub. L. 101–73, title III, §§301, 303(a), title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032.)
+(June 13, 1933, ch. 64, §10, as added Pub. L. 100–86, title IV, §404(a), Aug. 10, 1987, 101 Stat. 609; amended Pub. L. 101–73, title III, §§301, 303(a), title IX, §§905(j), 907(k), Aug. 9, 1989, 103 Stat. 318, 343, 462, 475; Pub. L. 102–242, title II, §211, title IV, §§437–440, title V, §502(a), Dec. 19, 1991, 105 Stat. 2298, 2381, 2392; Pub. L. 102–550, title XVI, §§1606(f)(4), 1607(b), Oct. 28, 1992, 106 Stat. 4088, 4089; Pub. L. 104–201, div. A, title X, §1077, Sept. 23, 1996, 110 Stat. 2664; Pub. L. 104–208, div. A, title II, §§2201(b)(2), 2203(a)–(c), 2303(e), (g), 2704(d)(12)(B), Sept. 30, 1996, 110 Stat. 3009–403, 3009–404, 3009–424, 3009–425, 3009–490; Pub. L. 106–102, title IV, §401(a), (b), title VI, §604(d), Nov. 12, 1999, 113 Stat. 1434, 1436, 1452; Pub. L. 106–569, title XII, §§1201(b)(2), 1202, Dec. 27, 2000, 114 Stat. 3032; Pub. L. 109–173, §9(e)(2), Feb. 15, 2006, 119 Stat. 3617.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §9(e)(2), (j), Feb. 15, 2006, 119 Stat. 3617, 3618, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (c)(6)(D), by striking “this title” and inserting “this chapter”;</i>
+
+<i>(2) in subsection (e)(1)(B), by striking “Savings Association Insurance Fund or Bank Insurance Fund” and inserting “Deposit Insurance Fund”;</i>
+
+<i>(3) in subsection (e)(2), by striking “Savings Association Insurance Fund or the Bank Insurance Fund” and inserting “Deposit Insurance Fund”;</i>
+
+<i>(4) in subsection (e)(4)(B), by striking “subsection (1)” and inserting “subsection (l)”;</i>
+
+<i>(5) in subsection (g)(3)(A), by striking “(5) of this section” and inserting “(5) of this subsection”;</i>
+
+<i>(6) in subsection (i), by redesignating paragraph (5) as paragraph (4);</i>
+
+<i>(7) in subsection (m)(3), by striking subparagraph (E) and by redesignating subparagraphs (F), (G), and (H) as subparagraphs (E), (F), and (G), respectively;</i>
+
+<i>(8) in subsection (m)(7)(A), by striking “during period” and inserting “during the period”; and</i>
+
+<i>(9) in subsection (o)(3)(D), by striking “sections 1464(s) and (t) of this title” and inserting “subsections (s) and (t) of section 1464 of this title”.</i>
 
 #### References in Text
 
@@ -1180,6 +1202,10 @@ Subsec. (i)(5). Pub. L. 101–73, §905(j), added par. (5).
 
 Subsec. (m). Pub. L. 101–73, §303(a), amended subsec. (m) generally, revising and restating as pars. (1) to (7) provisions of former pars. (1) to (6).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 2704(d)(12)(B) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
@@ -1200,7 +1226,7 @@ Amendment by section 907(k) of Pub. L. 101–73 applicable to conduct engaged in
 
 Section 302 of title III of Pub. L. 101–73 provided that: “Notwithstanding the amendment made by this title to section 10 of the Home Owners’ Loan Act \[12 U.S.C. 1467a\] and the repeal of section 416 of the National Housing Act \[12 U.S.C. 1730i\]—
 
-&emsp;“(1) any plan approved by the Federal Home Loan Bank Board under such section 10 for any Federalsavings association shall continue in effect as long as such association adheres to the plan and continues to submit to the Director of the Office of Thrift Supervision regular and complete reports on the association's progress in meeting the association's goals under the plan; and
+&emsp;“(1) any plan approved by the Federal Home Loan Bank Board under such section 10 for any Federal savings association shall continue in effect as long as such association adheres to the plan and continues to submit to the Director of the Office of Thrift Supervision regular and complete reports on the association's progress in meeting the association's goals under the plan; and
 
 &emsp;“(2) any plan approved by the Federal Savings and Loan Insurance Corporation under such section 416 for any State savings association shall continue in effect as long as such association adheres to the plan and continues to submit to the Federal Deposit Insurance Corporation regular and complete reports on the association's progress in meeting the savings association's goals under the plan.”
 

@@ -28,7 +28,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (C) Higher appropriation years
 
-&emsp;&emsp;Except as provided in subparagraph (D), for a fiscal year for which the amount of funds made available to carry out this section is greater than the base year amount, the Secretary shall—
+&emsp;&emsp;Except as provided in subparagraph (D), for a fiscal year for which the amount offunds made available to carry out this section is greater than the base year amount, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) make the allotments described in subparagraph (A);
 
@@ -48,7 +48,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (D) Special rule for fiscal year 2005
 
-&emsp;&emsp;Notwithstanding subparagraph (C), if the amount of funds made available to carry outthis section for fiscal year 2005 is greater than the base year amount, the Secretary may award grants on a competitive basis for periods of 1 year to States or outlying areas in accordance with the requirements of subchapter III of this chapter <sup>1</sup> (as in effect on the day before October 25, 2004) to develop, support, expand, or administer an alternative financing program.
+&emsp;&emsp;Notwithstanding subparagraph (C), if the amount of funds made available to carry out this section for fiscal year 2005 is greater than the base year amount, the Secretary may award grants on a competitive basis for periods of 1 year to States or outlying areas in accordance with the requirements of subchapter III of this chapter <sup>1</sup> (as in effect on the day before October 25, 2004) to develop, support, expand, or administer an alternative financing program.
 
 #### (E) Base year amount
 
@@ -260,7 +260,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (C) Device loan programs
 
-&emsp;&emsp;The State shall directly, or in collaboration with public or private entities, carry out device loan programs that provide short-term loans of assistive technology devices to individuals, employers, public agencies, or others seeking to meet the needs of targeted individuals and entities, including others seeking to comply with the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), and section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794).
+&emsp;&emsp;The State shall directly, or in collaboration with public or private entities, carry out device loan programs that provide short-term loans of assistive technology devices to individuals, employers, public agencies, or others seeking to meet the needs of targetedindividuals and entities, including others seeking to comply with the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), and section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794).
 
 #### (D) Device demonstrations
 
@@ -276,7 +276,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (A) In general
 
-&emsp;&emsp;A State that receives a grant under this section shall use a portion of not more than 40 percent of the funds made availablethrough the grant to carry out the activities described in subparagraph (B). From that portion, the State shall use at least 5 percent of the portion for activities described in subparagraph (B)(i)(III).
+&emsp;&emsp;A State that receives a grant under this section shall use a portion of not more than 40 percent of the funds made available through the grant to carry out the activities described in subparagraph (B). From that portion, the State shall use at least 5 percent of the portion for activities described in subparagraph (B)(i)(III).
 
 #### (B) Required activities
 
@@ -332,7 +332,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (bb) Content
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The system shall deliver information on assistive technology devices, assistive technology services (with specific data regarding provider availability within the State), and the availability of resources, including funding through public and private sources, to obtain assistive technology devices and assistive technology services. The system shall also deliver information on the benefits of assistive technology devices and assistive technology services withrespect to enhancing the capacity of individuals with disabilities of all ages to perform activities of daily living.
+&emsp;&emsp;&emsp;&emsp;&emsp;The system shall deliver information on assistive technology devices, assistive technology services (with specific data regarding provider availability within the State), and the availability of resources, including funding through public and private sources, to obtain assistive technology devices and assistive technology services. The system shall also deliver information on the benefits of assistive technology devices and assistive technology services with respect to enhancing the capacity of individuals with disabilities of all ages to perform activities of daily living.
 
 #### (iii) Coordination and collaboration
 
@@ -394,7 +394,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(iii) the number, type, and length of time of loans of assistive technology devices provided to individuals with disabilities, employers, public agencies, or public accommodations through the device loan program described in subsection (e)(2)(C), and an analysis of the individuals with disabilities who have benefited from the device loan program;
 
-&emsp;&emsp;&emsp;(iv) the number, type, estimated value, and scope of assistive technology devices exchanged, repaired, recycled, or reutilized (including redistributed through device sales, loans, rentals, or donations) through the device reutilization program described in subsection (e)(2)(B), and an analysis of the individuals with disabilities that have benefited from the device reutilization program;
+&emsp;&emsp;&emsp;(iv) the number, type, estimated value, and scope of assistive technology devices exchanged, repaired, recycled, or reutilized (including redistributed through device sales, loans, rentals, or donations) through the device reutilization program describedin subsection (e)(2)(B), and an analysis of the individuals with disabilities that have benefited from the device reutilization program;
 
 &emsp;&emsp;&emsp;(v) the number and type of device demonstrations and referrals provided under subsection (e)(2)(D), and an analysis of individuals with disabilities who have benefited from the demonstrations and referrals;
 

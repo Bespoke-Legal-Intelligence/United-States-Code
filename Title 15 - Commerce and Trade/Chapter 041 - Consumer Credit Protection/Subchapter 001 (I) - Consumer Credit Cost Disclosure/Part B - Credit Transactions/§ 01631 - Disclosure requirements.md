@@ -14,7 +14,7 @@ The Board may provide by regulation that any portion of the information required
 
 #### (d) Tolerances for numerical disclosures
 
-The Board shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Board shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerancesfrom resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
+The Board shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Board shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerances from resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
 
 (Pub. L. 90–321, title I, §121, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(c), (d), title IV, §409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94–205, §11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 174; Pub. L. 104–29, §3(b), Sept. 30, 1995, 109 Stat. 273.)
 
@@ -22,7 +22,7 @@ The Board shall determine whether tolerances for numerical disclosures other tha
 
 1995—Subsec. (c). Pub. L. 104–29 inserted at end “In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction.”
 
-1980—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
+1980—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved,is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
 
 Subsec. (b). Pub. L. 96–221 substituted provisions relating to disclosure requirements of creditor or lessor, for provisions relating to statement of information where more than one obligor is involved.
 

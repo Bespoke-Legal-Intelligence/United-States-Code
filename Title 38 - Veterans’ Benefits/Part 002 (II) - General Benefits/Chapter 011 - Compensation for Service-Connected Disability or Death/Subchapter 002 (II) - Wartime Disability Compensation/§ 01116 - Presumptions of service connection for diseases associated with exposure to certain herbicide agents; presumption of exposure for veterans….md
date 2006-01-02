@@ -32,7 +32,7 @@
 
 (2) In making determinations for the purpose of this subsection, the Secretary shall take into account (A) reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, and (B) all other sound medical and scientific information and analyses available to the Secretary. In evaluating any study for the purpose of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
 
-(3) An association between the occurrence of a disease in humans and exposure to an herbicide agent shall be considered to be positive for the purposes of this section if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
+(3) An association between the occurrence of a disease in humans and exposure to an herbicideagent shall be considered to be positive for the purposes of this section if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
 
 (c)(1)(A) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, the Secretary shall determine whether a presumption of service connection is warranted for each disease covered by the report. If the Secretary determines that such a presumption is warranted, the Secretary, not later than 60 days after making the determination, shall issue proposed regulations setting forth the Secretary's determination.
 
@@ -60,7 +60,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 2001—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
 
-Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which theveteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
+Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out “within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” before period at end.
 
 Subsec. (a)(2)(H). Pub. L. 107–103, §201(b), added subpar. (H).
 
@@ -246,7 +246,7 @@ Section 7 of Pub. L. 102–4 provided that:
 
 “(a)
 
-Establishment of System.—Subject to subsections (e) and (f), for the purpose of facilitating future scientific research on the effects of exposure of veterans to dioxin and other toxic agents in herbicides used in support of United States and allied military operations in the Republic of Vietnam during the Vietnam era, the Secretary of Veterans Affairs shall establish and maintain a system for the collection and storage of voluntarily contributed samples of blood and tissue of veterans who performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
+Establishment of System.—Subject to subsections (e) and (f), for the purpose of facilitating future scientific research on the effects of exposure of veterans to dioxin and other toxic agents in herbicides used in support of United States and allied military operations in the Republic of Vietnam during the Vietnam era, the Secretary of Veterans Affairs shall establish and maintain a system for the collection and storage of voluntarily contributed samples of blood and tissue of veterans who performed active military, naval,or air service in the Republic of Vietnam during the Vietnam era.
 
 “(b)
 
@@ -352,7 +352,7 @@ Funding.—The authority of the Secretary to carry out this section is effective
 
 Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on the date on which the first report of the National Academy of Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
 
-&emsp;“(A) determines that it is not feasible or cost-effective to carry out this section or that carrying out this section would not make a material contribution to the body of scientific knowledge concerning the health effects in humans of herbicide exposure; and
+&emsp;“(A) determines that it is not feasible or cost-effective to carry out this section or that carrying outthis section would not make a material contribution to the body of scientific knowledge concerning the health effects in humans of herbicide exposure; and
 
 &emsp;“(B) notifies the Committees on Veterans’ Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 
@@ -408,7 +408,7 @@ OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol u
 
 “(d)
 
-OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved undersubsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
+OTA Monitoring of Compliance.—(1) In order to ensure compliance with the protocol approved under subsection (b)(1), the Director shall monitor the conduct of the study under subsection (a).
 
 “(2)(A) The Director shall submit to the appropriate committees of the Congress, at each of the times specified in subparagraph (B), a report on the Director's monitoring of the conduct of the study pursuant to paragraph (1).
 

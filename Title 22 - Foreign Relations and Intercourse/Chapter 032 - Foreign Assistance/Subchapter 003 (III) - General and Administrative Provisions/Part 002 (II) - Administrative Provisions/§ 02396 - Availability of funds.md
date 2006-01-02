@@ -24,7 +24,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(10) rent or lease outside the United States for not to exceed ten years of offices, buildings, grounds, and quarters, including living quarters to house personnel, and payments therefor in advance; maintenance, furnishings, necessary repairs, improvements, and alterations to properties owned or rented by the United States Government or made available for use to the United States Government outside the United States; and costs of fuel, water, and utilities for such properties;
 
-&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of care and disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
+&emsp;(11) expenses of preparing and transporting to their former homes, or, with respect to foreign participants engaged in any program under subchapter I of this chapter, to their former homes or places of burial, and of careand disposition of, the remains of persons or members of the families of persons who may die while such persons are away from their homes participating in activities carried out with funds covered by this subsection;
 
 &emsp;(12) purchase of uniforms;
 
@@ -38,7 +38,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 #### (b) Compensation, allowances, and travel of personnel; printing and binding; expenditures outside United States
 
-Funds made available for the purposes of this chapter may be used for compensation, allowances, and travel of personnel including ForeignService personnel whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurement of supplies and services and for other administrative and operating purposes (other than compensation of personnel) without regard to such laws and regulations governing the obligation and expenditure of funds of the United States Government as may be necessary to accomplish the purposes of this chapter.
+Funds made available for the purposes of this chapter may be used for compensation, allowances, and travel of personnel including Foreign Service personnel whose services are utilized primarily for the purposes of this chapter, for printing and binding without regard to the provisions of any other law, and for expenditures outside the United States for the procurement of supplies and services and for other administrative and operating purposes (other than compensation of personnel) without regard to such laws and regulations governing the obligation and expenditure of funds of the United States Government as may be necessary to accomplish the purposes of this chapter.
 
 #### (c) Construction of living quarters, office space, and supporting facilities
 
@@ -60,7 +60,7 @@ Funds made available under part I of subchapter I of this chapter may be used fo
 
 Funds made available for the purposes of subchapter II of this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] shall be available for—
 
-&emsp;(1) administrative, extraordinary (not to exceed $300,000 in any fiscal year), and operating expenses incurred in furnishing defense articles, military education and training and defense services on a grant or sales basis by the agency primarily responsible for administering subchapter II of this chapter;
+&emsp;(1) administrative, extraordinary (not to exceed $300,000 in any fiscal year), and operatingexpenses incurred in furnishing defense articles, military education and training and defense services on a grant or sales basis by the agency primarily responsible for administering subchapter II of this chapter;
 
 &emsp;(2) reimbursement of actual expenses of military officers detailed or assigned as tour directors in connection with orientation visits of foreign military and related civilian personnel, in accordance with provisions of section 5702 of title 5, applicable to civilian officers and employees; and
 
@@ -110,7 +110,7 @@ In subsec. (a)(2), “section 1346(a) and (c) of title 31” substituted for “
 
 #### Amendments
 
-2002—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods, and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
+2002—Subsec. (a)(17). Pub. L. 107–372 struck out par. (17) which read as follows: “expenses in connection with travel of personnel outside the United States, including travel expenses of dependents (including expenses during necessary stopovers while engaged in such travel), and transportation of personal effects, household goods,and automobiles of such personnel when any part of such travel or transportation begins in one fiscal year pursuant to travel orders issued in that fiscal year, notwithstanding the fact that such travel or transportation may not be completed during the same fiscal year, and cost of transporting automobiles to and from a place of storage, and the cost of storing automobiles of such personnel when it is in the public interest or more economical to authorize storage.”
 
 1989—Subsec. (g). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “subchapter II of this chapter” in introductory provisions.
 
@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 95–424, §102(g)(2)(H), struck out “(other than subpart
 
 Subsecs. (d), (e). Pub. L. 95–424, §102(g)(2)(I), struck out “(other than subpart I of part II of subchapter I of this chapter)” after “under this chapter”.
 
-Subsec. (f). Pub. L. 95–424, §102(g)(2)(J), substituted “available under part I of subchapter I of this chapter”for “section 2172 of this title”, and “functions under part I” for “functions under subpart I of part II”.
+Subsec. (f). Pub. L. 95–424, §102(g)(2)(J), substituted “available under part I of subchapter I of this chapter” for “section 2172 of this title”, and “functions under part I” for “functions under subpart I of part II”.
 
 1976—Subsec. (g)(1). Pub. L. 94–329, §106(b)(5)(A), inserted “military education and training” after “articles”.
 

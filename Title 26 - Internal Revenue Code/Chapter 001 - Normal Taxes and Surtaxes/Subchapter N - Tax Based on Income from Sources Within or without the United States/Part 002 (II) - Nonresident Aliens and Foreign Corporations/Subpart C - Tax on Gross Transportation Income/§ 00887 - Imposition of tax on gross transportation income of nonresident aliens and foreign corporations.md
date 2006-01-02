@@ -58,7 +58,3 @@ Section applicable to taxable years beginning after Dec. 31, 1986, see section 1
 
 For nonapplication of amendment by section 1212(b)(1) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6655 of this title.
-

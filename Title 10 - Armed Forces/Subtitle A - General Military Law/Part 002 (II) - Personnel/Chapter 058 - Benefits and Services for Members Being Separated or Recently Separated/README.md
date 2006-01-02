@@ -29,10 +29,6 @@
 
 1992—Pub. L. 102–484, div. D, title XLIV, §§4441(a)(2), 4462(a)(2), Oct. 23, 1992, 106 Stat. 2730, 2740, added items 1143a and 1151.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1174a, 1175 of this title.
-
 
 ---
 

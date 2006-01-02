@@ -4,15 +4,11 @@ When said power or any part thereof shall enter into interstate or foreign comme
 
 The administration of the provisions of this section, so far as applicable, shall be according to the procedure and practice in fixing and regulating the rates, charges, and practices of railroad companies as provided in subtitle IV of title 49, and the parties subject to such regulation shall have the same rights of hearing, defense, and review as said companies in such cases.
 
-In any valuation of the property of any licensee hereunder for purposes of rate making, no value shall be claimed by the licensee or allowed by the commission for any project or projects under license in excess of the value or values prescribed in section 807 of this title for the purposes of purchase by the United States, but there shall be included the cost to such licensee of the construction of the lock or locks or other aids of navigation and all other capital expenditures required by the United States, and no value shall be claimed or allowed for therights granted by the commission or by this chapter.
+In any valuation of the property of any licensee hereunder for purposes of rate making, no value shall be claimed by the licensee or allowed by the commission for any project or projects under license in excess of the value or values prescribed in section 807 of this title for the purposes of purchase by the United States, but there shall be included the cost to such licensee of the construction of the lock or locks or other aids of navigation and all other capital expenditures required by the United States, and no value shall be claimed or allowed for the rights granted by the commission or by this chapter.
 
 (June 10, 1920, ch. 285, pt. I, §20, 41 Stat. 1073; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, §212, 49 Stat. 847.)
 
 #### Codification
 
 “Subtitle IV of title 49” substituted in text for “the Act to regulate commerce, approved February 4, 1887, as amended” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 

@@ -4,7 +4,3 @@ In lieu of any other penalty provided by law (except the penalty provided by sec
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 852.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6051, 6674 of this title; title 7 section 12a.
-

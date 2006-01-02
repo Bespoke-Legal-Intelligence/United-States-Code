@@ -4,7 +4,7 @@
 
 There shall be within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer as follows:
 
-&emsp;(1) Not later than 60 days after December 21, 2000, the Chief Administrative Officer shall be appointed by the Chief of the Capitol Police after consultation with the Capitol Police Board and the Comptroller General, and shall report to and serve at the pleasure of the Chief of the Capitol Police.
+&emsp;(1) Not later than 60 days after December 21, 2000, the Chief Administrative Officer shall beappointed by the Chief of the Capitol Police after consultation with the Capitol Police Board and the Comptroller General, and shall report to and serve at the pleasure of the Chief of the Capitol Police.
 
 &emsp;(2) The Comptroller General shall evaluate the performance of the Chief Administrative Officer in carrying out the duties and responsibilities of the Office of Administration as outlined in this section. The Comptroller General shall meet with the Chief of the Capitol Police and the Capitol Police Board at least quarterly to provide an analysis of the performance of the Chief Administrative Officer. The Comptroller General shall report the results of the evaluation to the Chief of the Capitol Police, the Capitol Police Board, the Committees on Appropriations of the House of Representatives and Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
 
@@ -54,7 +54,7 @@ The Chief Administrative Officer shall have the following areas of responsibilit
 
 &emsp;&emsp;&emsp;(ii) the implementation of Capitol Police asset management systems, including systems for cash management, debt collection, and property and inventory management and control; and
 
-&emsp;&emsp;(D) shall prepare annual financial statements for the Capitol Police and provide for an annual audit of the financial statements by an independent public accountant in accordance with generally accepted government auditing standards.
+&emsp;&emsp;(D) Prepare <sup>1</sup> annual financial statements for the Capitol Police, and such financial statements shall be audited by the Inspector General of the Capitol Police or by an independent public accountant, as determined by the Inspector General.
 
 #### (3) Information technology
 
@@ -108,13 +108,15 @@ The Chief of the Capitol Police shall submit the plan required in subsection (d)
 
 As of October 1, 2002, the role of the Comptroller General, as established by this section, will cease.
 
-(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576; Pub. L. 108–7, div. H, title I, §1013(c), Feb. 20, 2003, 117 Stat. 361; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1004(g), Aug. 2, 2005, 119 Stat. 575.)
 
 #### Codification
 
 Section was classified to section 206a–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
+
+2005—Subsec. (b)(2)(D). Pub. L. 109–55 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “shall prepare annual financial statements for the Capitol Police and provide for an annual audit of the financial statements by an independent public accountant in accordance with generally accepted government auditing standards.”
 
 2004—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -123,6 +125,10 @@ Section was classified to section 206a–9 of former Title 40, prior to the enac
 2001—Subsec. (a)(4). Pub. L. 107–68 substituted “the Chief of the Capitol Police, but not to exceed $1,000 less than the annual rate of pay for the Chief of the Capitol Police” for “the Capitol Police Board, but not to exceed the annual rate of basic pay payable for ES–2 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)”.
 
 2000—Pub. L. 106–346 amended section generally, substituting present provisions for similar provisions establishing within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer, providing that the Chief Administrative Officer would be appointed and his pay rate would be set by the Comptroller General, setting out the powers and duties of the Chief Administrative Officer, and providing that as of Oct. 1, 2002, the Chief Administrative Officer would cease to be an employee of the General Accounting Office, would become an employee of the Capitol Police, and the Capitol Police Board would assume all responsibilities of the Comptroller General under this section.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–55 effective Aug. 2, 2005, see section 1909(f) of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -135,4 +141,6 @@ Pub. L. 107–68, title I, §122(b), Nov. 12, 2001, 115 Stat. 576, provided that
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–346, §101(a) \[title V, §507(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–57, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2001 \[H.R. 5657, as enacted by section 1(a)(2) of Pub. L. 106–554\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

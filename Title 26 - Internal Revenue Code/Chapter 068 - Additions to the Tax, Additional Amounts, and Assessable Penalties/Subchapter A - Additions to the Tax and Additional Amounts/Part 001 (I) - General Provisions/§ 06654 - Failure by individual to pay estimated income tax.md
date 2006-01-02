@@ -713,7 +713,3 @@ With respect to taxable years beginning before Dec. 30, 1969, if a taxpayer is r
 
 Requirement of making a declaration or amended declaration or amended declaration of estimated tax or of payment of any amount or additional amount of estimated tax by reason of amendment of sections 51(a)(1)(A), (B), (2)(A) and 963(b) of this title as calling for payment of such amount or additional amount ratably on or before each of remaining installment dates for taxable year beginning with first installment date on or after the 30th day after Aug. 7, 1969; application of this section without regard to such amendment with respect to any declaration or payment of estimated tax before such first installment date; and definition of “installment date”, see Pub. L. 91–53, §5(c), Aug. 7, 1969, 83 Stat. 95.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167, 460, 3510, 6201, 6601, 6621, 6622, 6651, 6658, 6665, 6751, 7203 of this title; title 42 section 430.
-

@@ -20,7 +20,11 @@ Indian country.—The term “Indian country” has the meaning stated in sectio
 
 &emsp;(5)
 
-Protection order.—The term “protection order” includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
+Protection order.—The term “protection order” includes—
+
+&emsp;&emsp;(A) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence, or contact or communication with or physical proximity to, anotherperson, including any temporary or final order issued by a civil or criminal court whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil or criminal order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+
+&emsp;&emsp;(B) any support, child custody or visitation provisions, orders, remedies or relief issued as part of a protection order, restraining order, or injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, sexual assault, dating violence, or stalking.
 
 &emsp;(6)
 
@@ -32,7 +36,11 @@ Spouse or intimate partner.—The term “spouse or intimate partner” includes
 
 &emsp;&emsp;(A) for purposes of—
 
-&emsp;&emsp;&emsp;(i) sections other than 2261A, a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser; and
+&emsp;&emsp;&emsp;(i) sections other than 2261A—
+
+&emsp;&emsp;&emsp;&emsp;(I) a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser; or
+
+&emsp;&emsp;&emsp;&emsp;(II) a person who is or has been in a social relationship of a romantic or intimate nature with the abuser, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship; and
 
 &emsp;&emsp;&emsp;(ii) section 2261A, a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; and
 
@@ -46,9 +54,31 @@ State.—The term “State” includes a State of the United States, the Distric
 
 Travel in interstate or foreign commerce.—The term “travel in interstate or foreign commerce” does not include travel from 1 State to another by an individual who is a member of an Indian tribe and who remains at all times in the territory of the Indian tribe of which the individual is a member.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1931; amended Pub. L. 106–386, div. B, title I, §1107(d), Oct. 28, 2000, 114 Stat. 1499.)
+&emsp;(10)
+
+Dating partner.—The term “dating partner” refers to a person who is or has been in a social relationship of a romantic or intimate nature with the abuser and the existence of such a relationship based on a consideration of—
+
+&emsp;&emsp;(A) the length of the relationship; and
+
+&emsp;&emsp;(B) the type of relationship; and
+
+&emsp;&emsp;(C) the frequency of interaction between the persons involved in the relationship.
+
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1931; amended Pub. L. 106–386, div. B, title I, §1107(d), Oct. 28, 2000, 114 Stat. 1499; Pub. L. 109–162, title I, §§106(d), 116(b), Jan. 5, 2006, 119 Stat. 2982, 2988.)
 
 #### Amendments
+
+2006—Par. (5). Pub. L. 109–162, §106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+
+Par. (7)(A). Pub. L. 109–162, §106(d)(2), which directed amendment of cls. (i) and (ii) by substituting “2261A—
+
+&emsp;“(I) a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser; or
+
+&emsp;“(II) a person who is or has been in a social relationship of a romantic or intimate nature with the abuser, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship”
+
+> for “2261A, a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser”, was executed only to cl. (i) to reflect the probable intent of Congress because the quoted language to be deleted does not appear in cl. (ii).
+
+Par. (10). Pub. L. 109–162, §116(b), added par. (10).
 
 2000—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “bodily injury”, “Indian country”, “protection order”, “spouse or intimate partner”, “State”, and “travel across State lines”.
 

@@ -1,18 +1,18 @@
 ### §305. Abstention
 
-(a) The court, after notice and a hearing, may dismiss a case under this title, or may suspendall proceedings in a case under this title, at any time if—
+(a) The court, after notice and a hearing, may dismiss a case under this title, or may suspend all proceedings in a case under this title, at any time if—
 
 &emsp;(1) the interests of creditors and the debtor would be better served by such dismissal or suspension; or
 
-&emsp;(2)(A) there is pending a foreign proceeding; and
+&emsp;(2)(A) a petition under section 1515 for recognition of a foreign proceeding has been granted; and
 
-&emsp;(B) the factors specified in section 304(c) of this title warrant such dismissal or suspension.
+&emsp;(B) the purposes of chapter 15 of this title would be best served by such dismissal or suspension.
 
 (b) A foreign representative may seek dismissal or suspension under subsection (a)(2) of this section.
 
 (c) An order under subsection (a) of this section dismissing a case or suspending all proceedings in a case, or a decision not so to dismiss or suspend, is not reviewable by appeal or otherwise by the court of appeals under section 158(d), 1291, or 1292 of title 28 or by the Supreme Court of the United States under section 1254 of title 28.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2561; Pub. L. 101–650, title III, §309(a), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 102–198, §5, Dec. 9, 1991, 105 Stat. 1623.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2561; Pub. L. 101–650, title III, §309(a), Dec. 1, 1990, 104 Stat. 5113; Pub. L. 102–198, §5, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 109–8, title VIII, §802(d)(6), Apr. 20, 2005, 119 Stat. 146.)
 
 #### Historical and Revision Notes
 
@@ -24,7 +24,17 @@ Subsection (b) gives a foreign representative authority to appear in the bankrup
 
 #### Amendments
 
+2005—Subsec. (a)(2). Pub. L. 109–8 added par. (2) and struck out former par. (2) which read as follows:
+
+“(2)(A) there is pending a foreign proceeding; and
+
+“(B) the factors specified in section 304(c) of this title warrant such dismissal or suspension.”
+
 1991—Subsec. (c). Pub. L. 102–198 substituted “title 28” for “this title” in two places.
 
 1990—Subsec. (c). Pub. L. 101–650 inserted before period at end “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 

@@ -16,10 +16,6 @@
 
 1986—Pub. L. 99–514, title XII, §1215(b)(2), Oct. 22, 1986, 100 Stat. 2545, substituted “Definitions and special rules” for “Definitions” in item 864.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 306, 818, 901, 905 of this title.
-
 <i><sup>1</sup></i><i> Editorially supplied. Part IV added by Pub. L. 92–178 without corresponding amendment of subchapter analysis.</i>
 
 

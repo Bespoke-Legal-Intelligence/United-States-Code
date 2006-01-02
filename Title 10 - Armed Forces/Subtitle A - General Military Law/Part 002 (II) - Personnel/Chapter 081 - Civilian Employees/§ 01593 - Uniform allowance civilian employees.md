@@ -44,7 +44,3 @@ Section 336(c) of Pub. L. 101–189 provided that: “The amendments made by thi
 
 Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which made appropriations available to Department of Defense for pay of civilian employees for uniforms, or allowances therefor, as authorized by section 5901 of title 5, was repealed and restated in subsec. (d) of this section by Pub. L. 101–510, §1481(d)(3), (4)(B).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1622 of this title; title 37 sections 417, 418.
-

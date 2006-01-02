@@ -48,5 +48,5 @@ Section 201(b) of title II of Pub. L. 101–627 provided that:
 
 #### Termination of Current Terms and Completion of Pending Appointments
 
-Section 202 of Pub. L. 101–627 provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act\[Nov. 28, 1990\] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
+Section 202 of Pub. L. 101–627 provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act \[Nov. 28, 1990\] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
 

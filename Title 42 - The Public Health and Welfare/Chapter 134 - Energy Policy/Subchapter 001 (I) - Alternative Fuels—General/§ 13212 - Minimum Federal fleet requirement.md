@@ -44,7 +44,7 @@
 
 #### (c) Allocation of incremental costs
 
-The General Services Administration and any other Federal agency that procures motor vehicles for distribution to other Federal agencies may allocate the incremental cost of alternative fueled vehicles over the cost of comparable gasoline vehicles across the entire fleet of motor vehicles distributed by such agency.
+The General Services Administration and any other Federal agency that procures motor vehicles for distribution to other Federal agencies shall allocate the incremental cost of alternative fueled vehicles over the cost of comparable gasoline vehicles across the entire fleet of motor vehicles distributed by such agency.
 
 #### (d) Application of requirements
 
@@ -58,11 +58,15 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 There are authorized to be appropriated for carrying out this section, such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
 
-(Pub. L. 102–486, title III, §303, Oct. 24, 1992, 106 Stat. 2871.)
+(Pub. L. 102–486, title III, §303, Oct. 24, 1992, 106 Stat. 2871; Pub. L. 109–58, title VII, §702, Aug. 8, 2005, 119 Stat. 815.)
+
+#### Amendments
+
+2005—Subsec. (c). Pub. L. 109–58 substituted “shall” for “may”.
 
 #### Executive Order No. 12844
 
-Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion TaskForce to advise on implementation of the program, was revoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
+Ex. Ord. No. 12844, Apr. 21, 1993, 58 F.R. 21885, as amended by Ex. Ord. No. 12974, §3(b), Sept. 29, 1995, 60 F.R. 51876, which required the Federal Government to institute a Federal fleet vehicle acquisition program and established the Federal Fleet Conversion Task Force to advise on implementation of the program, was revoked by Ex. Ord. No. 13031, §9, Dec. 13, 1996, 61 F.R. 66531, formerly set out below.
 
 #### Executive Order No. 13031
 
@@ -128,7 +132,7 @@ Sec. 301. <i>Leadership Responsibilities</i>. The Office of Management and Budge
 
 &emsp;(2) Within 120 days of this order, the Administrator of GSA, in consultation with other agencies, shall:
 
-&emsp;&emsp;(A) provide a summary of agency AFV acquisition plans to potential AFV manufacturers to assist intheir production planning. At least 4 months in advance of agency vehicle ordering cycles, GSA must provide to agencies the best available information on the production plans of AFV manufacturers;
+&emsp;&emsp;(A) provide a summary of agency AFV acquisition plans to potential AFV manufacturers to assist in their production planning. At least 4 months in advance of agency vehicle ordering cycles, GSA must provide to agencies the best available information on the production plans of AFV manufacturers;
 
 &emsp;&emsp;(B) develop, in coordination with DOE and EPA, methods that will help Federal fleet managers to select vehicles to improve fleet fuel efficiency and to meet Tier 2 vehicle standards; and
 
@@ -190,7 +194,7 @@ Sec. 506. <i>Exemptions for Military Tactical, Law Enforcement, and Emergency Ve
 
 Sec. 507. <i>Compliance</i>. (a) If an agency fails to meet requirements of the Energy Policy Act of 1992 or this order, its report to the DOE and OMB under section 302(c) must include an explanation for such failure and an updated strategy for achieving compliance using the agency's current and requested budgets.
 
-(b) OMB, in consultation with DOE, may modify the compliance requirements for an agency under Part 2 of this order, if the agency is unable to comply with the requirements of that part. An agency requesting modification must show that it has made substantial good faith efforts to comply with that part. The availability and costs of alternative fuels and AFVs can be a factorin OMB's decision to modify the agency's compliance with Part 2 of this order.
+(b) OMB, in consultation with DOE, may modify the compliance requirements for an agency under Part 2 of this order, if the agency is unable to comply with the requirements of that part. An agency requesting modification must show that it has made substantial good faith efforts to comply with that part. The availability and costs of alternative fuels and AFVs can be a factor in OMB's decision to modify the agency's compliance with Part 2 of this order.
 
 Sec. 508. <i>Definitions</i>. Terms used in this order shall have the same definitions as those in the Energy Policy Act of 1992 \[see 42 U.S.C. 13211\] and Executive Order 13101 \[42 U.S.C. 6961 note\], unless specifically changed in guidance to be issued by DOE under section 301(b) of this order.
 

@@ -4,7 +4,7 @@
 
 (b) Nothing in this section derogates from the authority of the Attorney General under sections 516 and 519 of title 28 to direct and supervise all litigation to which the United States or an agency or officer of the United States is a party.
 
-(Added Pub. L. 98–369, div. B, title V, §2512(b)(1), July 18, 1984, 98 Stat. 1120, §1830; amended Pub. L. 99–576, title IV, §406, Oct. 28, 1986, 100 Stat. 3282; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3730, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title X, §1005(b)(12), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 98–369, div. B, title V, §2512(b)(1), July 18, 1984, 98 Stat. 1120, §1830; amended Pub. L. 99–576, title IV, §406, Oct. 28, 1986, 100 Stat. 3282; Pub. L. 101–237, title III, §313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2077; renumbered §3730, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L.105–368, title X, §1005(b)(12), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendments
 

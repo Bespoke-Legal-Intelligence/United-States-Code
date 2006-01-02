@@ -28,7 +28,3 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 Section 1661(a)(5)(A) of Pub. L. 103–337 provided that: “Section 10147(a) \[10 U.S.C. 10147(a)\], as added by paragraph (1), applies only to persons who were inducted, enlisted, or appointed in an armed force after August 9, 1955.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1063, 10143, 10148 of this title; title 5 section 5517; title 14 section 712; title 38 section 4312; title 50 App. section 456.
-

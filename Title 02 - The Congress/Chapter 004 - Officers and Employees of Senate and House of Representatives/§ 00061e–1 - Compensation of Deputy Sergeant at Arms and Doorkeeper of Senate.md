@@ -18,5 +18,5 @@ Section 1(c) of Pub. L. 94–226 provided that: “Effective on the date of enac
 
 #### Authority of President Pro Tempore of the Senate To Raise or Adjust Rate of Compensation
 
-Section 1(a) of Pub. L. 94–226 provided in part that: “This subsection \[this section\] does not supersede (1)any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust the rate of compensation referred to in this subsection \[this section\] under section 4 of the Federal Pay Comparability Act of 1970 \[section 60a–1 of this title\].”
+Section 1(a) of Pub. L. 94–226 provided in part that: “This subsection \[this section\] does not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust the rate of compensation referred to in this subsection \[this section\] under section 4 of the Federal Pay Comparability Act of 1970 \[section 60a–1 of this title\].”
 

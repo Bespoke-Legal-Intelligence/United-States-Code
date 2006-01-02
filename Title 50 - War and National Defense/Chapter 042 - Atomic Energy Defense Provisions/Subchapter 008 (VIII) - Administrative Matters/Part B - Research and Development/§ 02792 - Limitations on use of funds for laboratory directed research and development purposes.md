@@ -2,7 +2,7 @@
 
 #### (a) General limitations
 
-(1) No funds authorized to be appropriated or otherwise made available to the Department of Energy in any fiscal year after fiscal year 1997 for weapons activities may be obligated or expended for activities under the Department ofEnergy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the national security mission of the Department of Energy.
+(1) No funds authorized to be appropriated or otherwise made available to the Department of Energy in any fiscal year after fiscal year 1997 for weapons activities may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the national security mission of the Department of Energy.
 
 (2) No funds authorized to be appropriated or otherwise made available to the Department of Energy in any fiscal year after fiscal year 1997 for environmental restoration, waste management, or nuclear materials and facilities stabilization may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the environmental restoration mission, waste management mission, or materials stabilization mission, as the case may be, of the Department of Energy.
 

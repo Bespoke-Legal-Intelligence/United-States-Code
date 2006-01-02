@@ -14,10 +14,6 @@
 
 1979—Pub. L. 96–39, title VIII, §807(b)(1), July 26, 1979, 93 Stat. 290, struck out item relating to subpart B “Rectification”.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 5684 of this title.
-
 
 ---
 

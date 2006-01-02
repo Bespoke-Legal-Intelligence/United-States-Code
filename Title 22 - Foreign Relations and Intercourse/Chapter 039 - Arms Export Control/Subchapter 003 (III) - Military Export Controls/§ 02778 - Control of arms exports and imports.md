@@ -22,7 +22,7 @@
 
 &emsp;(bb) for carrying out any foreign assistance or sales program authorized by law and subject to the control of the President by other means.
 
-(IV) For purposes of this clause, the term “foreign defense article or defense service” includes any non-United States defense article or defense service of a nature described on the United States Munitions List regardless of whether such article or service is of United States origin or whether such article or service contains United States origin components.
+(IV) For purposes of this clause, the term “foreign defense article or defense service” includes any non-United States defense article or defense service of a nature described on the United States Munitions List regardless of whether such article or service is of United States originor whether such article or service contains United States origin components.
 
 (B) <sup>1</sup> The prohibition under such regulations required by the second sentence of subparagraph (A) shall not extend to any military firearms (or ammunition, components, parts, accessories, and attachments for such firearms) of United States manufacture furnished to any foreign government by the United States under this chapter or any other foreign assistance or sales program of the United States if—
 
@@ -154,7 +154,7 @@ In carrying out functions under this section with respect to the export of defen
 
 #### (h) Judicial review of designation of items as defense articles or services
 
-The designation by the President (or by an official to whom the President's functions undersubsection (a) of this section have been duly delegated), in regulations issued under this section, of items as defense articles or defense services for purposes of this section shall not be subject to judicial review.
+The designation by the President (or by an official to whom the President's functions under subsection (a) of this section have been duly delegated), in regulations issued under this section, of items as defense articles or defense services for purposes of this section shall not be subject to judicial review.
 
 #### (i) Report to Department of State
 
@@ -272,7 +272,7 @@ Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first se
 
 Subsec. (h). Pub. L. 101–222, §6, added subsec. (h).
 
-1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and addedsubpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
+1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
 
 Pub. L. 100–202 designated existing provisions as subpar. (A) and added subpar. (B) relating to allowance of return to United States of certain military firearms, etc., under certain circumstances.
 
@@ -448,7 +448,7 @@ Additional Requirement for First Report.—The first annual report required by s
 
 “(d)
 
-Support of Other Agencies.—Upon the request of the officials responsible for preparing the assessments required by subsection (b), the heads of other departments and agencies shall make available to thoseofficials all information necessary to carry out the requirements of this section.
+Support of Other Agencies.—Upon the request of the officials responsible for preparing the assessments required by subsection (b), the heads of other departments and agencies shall make available to those officials all information necessary to carry out the requirements of this section.
 
 “(e)
 
@@ -504,7 +504,7 @@ Updating of State Department Report.—Not later than March 1, 2000, the Secreta
 
 &emsp;&emsp;“(A) report directly to the launch monitor with regard to issues relevant to the technology transfer control plan;
 
-&emsp;&emsp;“(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note and amending provisions set out as a note under section 2404 of Title 50, Appendix, War and National Defense\] referred to as ‘ITAR’).
+&emsp;&emsp;“(B) have received appropriate training in the International Trafficking in Arms Regulations (hereafter in this title \[enacting this note andamending provisions set out as a note under section 2404 of Title 50, Appendix, War and National Defense\] referred to as ‘ITAR’).
 
 &emsp;&emsp;“(C) have significant experience and expertise with satellite launches; and
 
@@ -674,7 +674,7 @@ Definitions.—As used in this section:
 
 &emsp;“(2) The term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.”
 
-\[Memorandum of President of the United States, Jan. 5, 2000, 65 F.R. 2279, delegated to Secretary of Defense the duties and responsibilities of the President under section 1402 of Public Law 106–65 and directed Department of Defense to prepare the report required by section 1402 with the assistance of Department of State, Department of Commerce, Department of Energy, Department of the Treasury, Director of Central Intelligence, and Federal Bureau of Investigation and to obtain concurrence on the report from Department of State, Department of Commerce, Director of Central Intelligence on behalf of Intelligence Community, Department of the Treasury, and Federal Bureau of Investigation prior to submission to Congress.\]
+\[Memorandum of President of the United States, Jan. 5, 2000, 65 F.R. 2279, delegated to Secretary of Defense the duties and responsibilities of the President under section 1402 of Public Law 106–65 and directed Department of Defense to prepare the report required by section 1402 with the assistance of Department of State, Department of Commerce, Department of Energy, Department of the Treasury, Director of Central Intelligence, and Federal Bureau of Investigation and to obtain concurrence on the report from Department ofState, Department of Commerce, Director of Central Intelligence on behalf of Intelligence Community, Department of the Treasury, and Federal Bureau of Investigation prior to submission to Congress.\]
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
@@ -710,7 +710,7 @@ Certification.—The President shall certify to the Congress at least 15 days in
 
 &emsp;“(1) such export is not detrimental to the United States space launch industry; and
 
-&emsp;“(2) the missile equipment or technology, including any indirect technical benefit that could be derivedfrom such export, will not measurably improve the missile or space launch capabilities of the People's Republic of China.
+&emsp;“(2) the missile equipment or technology, including any indirect technical benefit that could be derived from such export, will not measurably improve the missile or space launch capabilities of the People's Republic of China.
 
 “(b)
 
@@ -848,7 +848,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;“(12) The impact of the proposed export on the willingness of the People's Republic of China to modify its commercial and trade laws, practices, and regulations to make United States-made goods and services more accessible to that market.
 
-&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties, and other fees on United States-made goods and services entering that country.
+&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties,and other fees on United States-made goods and services entering that country.
 
 “(b)
 
@@ -1098,7 +1098,7 @@ Annual Reports on Transfers and Regional Military Balance.—Beginning July 15, 
 
 Section 3 of Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, set out as a note under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
 
-Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and other forms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
+Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and otherforms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
 
 Ex. Ord. No. 12924, §3, Aug. 19, 1994, 59 F.R. 43437, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 13206, §1, Apr. 4, 2001, 66 F.R. 18397.
 

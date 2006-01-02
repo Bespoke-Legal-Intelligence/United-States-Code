@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsection (b), no amount shall be included in the gross income ofa participant in a cafeteria plan solely because, under the plan, the participant may choose among the benefits of the plan.
+Except as provided in subsection (b), no amount shall be included in the gross income of a participant in a cafeteria plan solely because, under the plan, the participant may choose among the benefits of the plan.
 
 #### (b) Exception for highly compensated participants and key employees
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (D) Exception for health savings accounts
 
-&emsp;&emsp;Subparagraph (A) shall not apply to a plan to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a health savings account established on behalf of the employee.
+&emsp;&emsp;Subparagraph (A) shall not apply to a plan to the extent of amounts which a covered employee may elect to have the employerpay as contributions to a health savings account established on behalf of the employee.
 
 #### (e) Highly compensated participant and individual defined
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) highly compensated, or
 
-&emsp;&emsp;(D) a spouse or dependent (within the meaning of section 152) of an individual described in subparagraph (A), (B), or (C).
+&emsp;&emsp;(D) a spouse or dependent (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of an individual described in subparagraph (A), (B), or (C).
 
 #### (2) Highly compensated individual
 
@@ -128,17 +128,19 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### Codification
 
-Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) of Pub. L. 99–514 (amending this section generally) had not been enacted. Subsequent to amendment by Pub. L. 99–514, this section was amended by Pub. L. 100–647 and Pub. L. 101–239. See 1989 and 1988 Amendment notes below.
+Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendments made by section 1151(d)(1) of Pub. L. 99–514 (amending this section generally) hadnot been enacted. Subsequent to amendment by Pub. L. 99–514, this section was amended by Pub. L. 100–647 and Pub. L. 101–239. See 1989 and 1988 Amendment notes below.
 
 #### Prior Provisions
 
 A prior section 125 was renumbered section 140 of this title.
 
 #### Amendments
+
+2004—Subsec. (e)(1)(D). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
 2003—Subsec. (d)(2)(D). Pub. L. 108–173, which directed the amendment of section 125(d)(2) by adding subpar. (D), was executed to this section, which is section 125(d)(2) of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
@@ -164,7 +166,7 @@ Subsec. (g)(3)(A). Pub. L. 101–140, §203(a)(3), substituted “section 410(b)
 
 &emsp;&emsp;“(A) paragraph (1) shall not apply, and
 
-&emsp;&emsp;“(B) notwithstanding any other provision of part III of this subchapter, any qualified benefits received under such cafeteria plan by a highly compensated employee for such plan year shall be included in the gross income of such employee for thetaxable year with or within which such plan year ends.”
+&emsp;&emsp;“(B) notwithstanding any other provision of part III of this subchapter, any qualified benefits received under such cafeteria plan by a highly compensated employee for such plan year shall be included in the gross income of such employee for the taxable year with or within which such plan year ends.”
 
 Subsec. (b)(1). Pub. L. 100–647, §1011B(a)(11)(B), substituted “In the case of a highly compensated employee, subsection (a) shall not apply to any benefit attributable to a plan year” for “A plan shall be treated as failing to meet the requirements of this subsection”, see Codification note above.
 
@@ -206,11 +208,15 @@ Pub. L. 98–369, §531(b)(4)(A), added subsec. (h) relating to reporting requir
 
 Subsec. (i). Pub. L. 98–369, §531(b)(4)(A), redesignated subsec. (h) as (i).
 
-1980—Subsec. (d)(2). Pub. L. 96–605, §226(a), inserted provision that the sentence excluding deferred compensation plans not apply in the case of a profit-sharing or stock bonus plan which includes a qualified cash or deferred arrangement, as defined in section 401(k)(2) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
+1980—Subsec. (d)(2). Pub. L. 96–605, §226(a), inserted provision that the sentence excluding deferred compensation plans not apply in the case of a profit-sharing or stock bonus plan which includes a qualified cash or deferred arrangement, as defined in section 401(k)(2) to the extent of amounts which a covered employeemay elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
 
 Subsec. (g)(3)(B). Pub. L. 96–222 substituted “employment requirement” for “service requirement” in cls. (i) and (ii).
 
 Subsec. (g)(4). Pub. L. 96–613, §5(b)(2), and Pub. L. 96–605, §201(b)(2), made identical amendments by substituting “controlled groups, etc.” for “controlled groups” in heading, and by substituting “subsection (b), (c), or (m) of section 414” for “subsection (b) or (c) of section 414” in text.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -238,7 +244,7 @@ Section 6051(c) of Pub. L. 100–647 provided that: “The amendments made by th
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1151(d)(1) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, toyears beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
+Amendment by section 1151(d)(1) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
 Amendment by section 1853(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -264,7 +270,7 @@ Section 134(c) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §1
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
@@ -309,10 +315,6 @@ Collective bargaining agreements.—In the case of any cafeteria plan in existen
 “(E)
 
 Special rule where contributions or reimbursements suspended.—For purposes of subparagraphs (A) and (B), a plan shall not be treated as not continuing to fail to satisfy the rules referred to in such subparagraphs with respect to any benefit provided in the form of a flexible spending arrangement merely because contributions or reimbursements (or both) with respect to such plan were suspended before January 1, 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 35, 79, 403, 414, 415, 3121, 3306, 6039D, 7701 of this title; title 29 section 2918; title 42 section 409.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

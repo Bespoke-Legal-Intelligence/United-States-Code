@@ -24,7 +24,7 @@ In carrying out the program, the Secretary shall address issues including—
 
 #### (c) Early warning system
 
-In carrying out the program, the Secretary shall develop a comprehensive early warningsystem for potential catastrophic environmental threats to forests to increase the likelihood that forest managers will be able to—
+In carrying out the program, the Secretary shall develop a comprehensive early warning system for potential catastrophic environmental threats to forests to increase the likelihood that forest managers will be able to—
 
 &emsp;(1) isolate and treat a threat before the threat gets out of control; and
 

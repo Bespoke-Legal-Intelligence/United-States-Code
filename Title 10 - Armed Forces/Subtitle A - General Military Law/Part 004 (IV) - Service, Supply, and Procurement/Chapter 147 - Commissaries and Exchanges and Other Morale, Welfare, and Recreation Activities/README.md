@@ -1,34 +1,22 @@
 ### <b>CHAPTER 147—COMMISSARIES AND EXCHANGES AND OTHER MORALE, WELFARE, AND RECREATION ACTIVITIES</b>
 
-| Sec. |  |
-| :--- | ---: |
-| [2481\.](%C2%A7%2002481%20-%20Existence%20of%20defense%20commissary%20system%20and%20exchange%20stores%20system.md) | Existence of defense commissary system and exchange stores system. |
-| [2482\.](%C2%A7%2002482%20-%20Commissary%20stores%20operation.md) | Commissary stores: operation. |
-| [2482a.](%C2%A7%2002482a%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20and%20obtain%20goods%20and%20services.md) | Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services. |
-| [2483\.](%C2%A7%2002483%20-%20Commissary%20stores%20reimbursement%20for%20use%20of%20commissary%20facilities%20by%20military%20departments.md) | Commissary stores: reimbursement for use of commissary facilities by military departments. |
-| [2484\.](%C2%A7%2002484%20-%20Commissary%20stores%20use%20of%20appropriated%20funds%20to%20cover%20operating%20expenses.md) | Commissary stores: use of appropriated funds to cover operating expenses. |
-| [2485\.](%C2%A7%2002485%20-%20Donation%20of%20unusable%20food%20commissary%20stores%20and%20other%20activities.md) | Donation of unusable food: commissary stores and other activities. |
-| [2486\.](%C2%A7%2002486%20-%20Commissary%20stores%20merchandise%20that%20may%20be%20sold%3B%20uniform%20surcharges%20and%20pricing.md) | Commissary stores: merchandise that may be sold; uniform surcharges and pricing. |
-| [2487\.](%C2%A7%2002487%20-%20Commissary%20stores%20release%20of%20certain%20commercially%20valuable%20information%20to%20the%20public.md) | Commissary stores: release of certain commercially valuable information to the public. |
-| [2488\.](%C2%A7%2002488%20-%20Nonappropriated%20fund%20instrumentalities%20purchase%20of%20alcoholic%20beverages.md) | Nonappropriated fund instrumentalities: purchase of alcoholic beverages. |
-| [2489\.](%C2%A7%2002489%20-%20Overseas%20package%20stores%20treatment%20of%20United%20States%20wines.md) | Overseas package stores: treatment of United States wines. |
-| [2489a.](%C2%A7%2002489a%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md) | Sale or rental of sexually explicit material prohibited. |
-| \[2490. | Renumbered.\] |
-| [2490a.](%C2%A7%2002490a%20-%20Combined%20exchange%20and%20commissary%20stores.md) | Combined exchange and commissary stores. |
-| \[2491. | Renumbered.\] |
-| [2492\.](%C2%A7%2002492%20-%20Overseas%20commissary%20and%20exchange%20stores%20access%20and%20purchase%20restrictions.md) | Overseas commissary and exchange stores: access and purchase restrictions. |
-| [2493\.](%C2%A7%2002493%20-%20Fisher%20Houses%20administration%20as%20nonappropriated%20fund%20instrumentality.md) | Fisher Houses: administration as nonappropriated fund instrumentality. |
-| [2494\.](%C2%A7%2002494%20-%20Uniform%20funding%20and%20management%20of%20morale%2C%20welfare%2C%20and%20recreation%20programs.md) | Uniform funding and management of morale, welfare, and recreation programs. |
+| Subchapter |  | Sec. |
+| :--- | :---: | ---: |
+| [<b>I.</b>](Subchapter%20001%20%28I%29%20-%20Defense%20Commissary%20and%20Exchange%20Systems/README.md) | <b>Defense Commissary and Exchange Systems</b> | <b>2481</b> |
+| [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Relationship%2C%20Continuation%2C%20and%20Common%20Policies%20of%20Defense%20Commissary%20and%20Exchange%20Systems/README.md) | <b>Relationship, Continuation, and Common Policies of Defense Commissary and Exchange Systems</b> | <b>2487</b> |
+| [<b>III.</b>](Subchapter%20003%20%28III%29%20-%20Morale%2C%20Welfare%2C%20and%20Recreation%20Programs%20and%20Nonappropriated%20Fund%20Instrumentalities/README.md) | <b>Morale, Welfare, and Recreation Programs and Nonappropriated Fund Instrumentalities</b> | <b>2491</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2004—Pub. L. 108–375, div. A, title VI, §651(a)(1), (3), Oct. 28, 2004, 118 Stat. 1964, added items for subchapters I to III and struck out items 2481 “Existence of defense commissary system and exchange stores system”, 2482 “Commissary stores: operation”, 2482a “Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide and obtain goods and services”, 2483 “Commissary stores: reimbursement for use of commissary facilities by military departments”, 2484 “Commissary stores: use of appropriated funds to cover operating expenses”, 2485 “Donation of unusable food: commissary stores and other activities”, 2486 “Commissary stores: merchandise that may be sold; uniform surcharges and pricing”, 2487 “Commissary stores: release of certain commercially valuable information to the public”, 2488 “Nonappropriated fund instrumentalities: purchase of alcoholic beverages”, 2489 “Overseas package stores: treatment of United States wines”, 2489a “Sale or rental of sexually explicit material prohibited”, 2490a “Combined exchange and commissary stores”, 2492 “Overseas commissary and exchange stores: access and purchase restrictions”, 2493 “Fisher Houses: administration as nonappropriated fund instrumentality”, and 2494 “Uniform funding and management of morale, welfare, and recreation programs”.
+
 2003—Pub. L. 108–136, div. A, title VI, §652(b), Nov. 24, 2003, 117 Stat. 1522, added item 2481.
 
 2002—Pub. L. 107–314, div. A, title III, §323(b), Dec. 2, 2002, 116 Stat. 2511, added item 2494.
 
-2001—Pub. L. 107–107, div. A, title III, §§332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 andsubstituted “Commissary stores: release of certain commercially valuable information to the public” for “Commissary stores: limitations on release of sales information” in item 2487.
+2001—Pub. L. 107–107, div. A, title III, §§332(b), 333(b), Dec. 28, 2001, 115 Stat. 1058, 1059, added item 2483 and substituted “Commissary stores: release of certain commercially valuable information to the public” for “Commissary stores: limitations on release of sales information” in item 2487.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §331(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, added item 2484 and struck out former item 2484 “Commissary stores: expenses”.
 
@@ -63,20 +51,6 @@ Pub. L. 98–407, title VIII, §810(b), Aug. 28, 1984, 98 Stat. 1523, added item
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02481 - Existence of defense commissary system and exchange stores system](%C2%A7%2002481%20-%20Existence%20of%20defense%20commissary%20system%20and%20exchange%20stores%20system.md)
-- [&sect; 02482 - Commissary stores operation](%C2%A7%2002482%20-%20Commissary%20stores%20operation.md)
-- [&sect; 02482a - Nonappropriated fund instrumentalities contracts with other agencies and instrumentalities to provide and obtain goods and services](%C2%A7%2002482a%20-%20Nonappropriated%20fund%20instrumentalities%20contracts%20with%20other%20agencies%20and%20instrumentalities%20to%20provide%20and%20obtain%20goods%20and%20services.md)
-- [&sect; 02483 - Commissary stores reimbursement for use of commissary facilities by military departments](%C2%A7%2002483%20-%20Commissary%20stores%20reimbursement%20for%20use%20of%20commissary%20facilities%20by%20military%20departments.md)
-- [&sect; 02484 - Commissary stores use of appropriated funds to cover operating expenses](%C2%A7%2002484%20-%20Commissary%20stores%20use%20of%20appropriated%20funds%20to%20cover%20operating%20expenses.md)
-- [&sect; 02485 - Donation of unusable food commissary stores and other activities](%C2%A7%2002485%20-%20Donation%20of%20unusable%20food%20commissary%20stores%20and%20other%20activities.md)
-- [&sect; 02486 - Commissary stores merchandise that may be sold; uniform surcharges and pricing](%C2%A7%2002486%20-%20Commissary%20stores%20merchandise%20that%20may%20be%20sold%3B%20uniform%20surcharges%20and%20pricing.md)
-- [&sect; 02487 - Commissary stores release of certain commercially valuable information to the public](%C2%A7%2002487%20-%20Commissary%20stores%20release%20of%20certain%20commercially%20valuable%20information%20to%20the%20public.md)
-- [&sect; 02488 - Nonappropriated fund instrumentalities purchase of alcoholic beverages](%C2%A7%2002488%20-%20Nonappropriated%20fund%20instrumentalities%20purchase%20of%20alcoholic%20beverages.md)
-- [&sect; 02489 - Overseas package stores treatment of United States wines](%C2%A7%2002489%20-%20Overseas%20package%20stores%20treatment%20of%20United%20States%20wines.md)
-- [&sect; 02489a - Sale or rental of sexually explicit material prohibited](%C2%A7%2002489a%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md)
-- [&sect; 02490 - Renumbered &sect;2868](%C2%A7%2002490%20-%20Renumbered%20%C2%A72868.md)
-- [&sect; 02490a - Combined exchange and commissary stores](%C2%A7%2002490a%20-%20Combined%20exchange%20and%20commissary%20stores.md)
-- [&sect; 02491 - Renumbered &sect;2500](%C2%A7%2002491%20-%20Renumbered%20%C2%A72500.md)
-- [&sect; 02492 - Overseas commissary and exchange stores access and purchase restrictions](%C2%A7%2002492%20-%20Overseas%20commissary%20and%20exchange%20stores%20access%20and%20purchase%20restrictions.md)
-- [&sect; 02493 - Fisher Houses administration as nonappropriated fund instrumentality](%C2%A7%2002493%20-%20Fisher%20Houses%20administration%20as%20nonappropriated%20fund%20instrumentality.md)
-- [&sect; 02494 - Uniform funding and management of morale, welfare, and recreation programs](%C2%A7%2002494%20-%20Uniform%20funding%20and%20management%20of%20morale%2C%20welfare%2C%20and%20recreation%20programs.md)
+- [Subchapter 001 (I) - Defense Commissary and Exchange Systems](Subchapter%20001%20%28I%29%20-%20Defense%20Commissary%20and%20Exchange%20Systems/README.md)
+- [Subchapter 002 (II) - Relationship, Continuation, and Common Policies of Defense Commissary and Exchange Systems](Subchapter%20002%20%28II%29%20-%20Relationship%2C%20Continuation%2C%20and%20Common%20Policies%20of%20Defense%20Commissary%20and%20Exchange%20Systems/README.md)
+- [Subchapter 003 (III) - Morale, Welfare, and Recreation Programs and Nonappropriated Fund Instrumentalities](Subchapter%20003%20%28III%29%20-%20Morale%2C%20Welfare%2C%20and%20Recreation%20Programs%20and%20Nonappropriated%20Fund%20Instrumentalities/README.md)

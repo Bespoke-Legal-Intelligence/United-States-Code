@@ -108,15 +108,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Report on Implementation of Employment Reforms
 
-Pub. L. 107–288, §7, Nov. 7, 2002, 116 Stat. 2048, provided that:
-
-“(a)
-
-Study.—The Comptroller General of the United States shall conduct a study on the implementation by the Secretary of Labor of the provisions of this Act \[see Short Title of 2002 Amendments note set out under section 101 of this title\] during the program years that begin during fiscal years 2003 and 2004. The study shall include an assessment of the modifications under sections 2 through 5 of this Act of the provisions of title 38, United States Code, and an evaluation of the impact of those modifications, and of the actions of the President's National Hire Veterans Committee under section 6 of this Act \[set out as a note above\], to the provision of employment, training, and placement services provided to veterans under that title.
-
-“(b)
-
-Report.—Not later than 6 months after the conclusion of the program year that begins during fiscal year 2004, the Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include such recommendations as the Comptroller General determines appropriate, including recommendations for legislation or administrative action.”
+Pub. L. 107–288, §7, Nov. 7, 2002, 116 Stat. 2048, directed that the Comptroller General conduct a study on the implementation by the Secretary of Labor of the provisions of Pub. L. 107–288 during the program years beginning during fiscal years 2003 and 2004 and, not later than 6 months after the conclusion of the fiscal year 2004 program, submit to Congress a report on the study with appropriate recommendations.
 
 #### Pilot Program To Furnish Employment and Training Information and Services to Members of Armed Forces Separating From Armed Forces
 

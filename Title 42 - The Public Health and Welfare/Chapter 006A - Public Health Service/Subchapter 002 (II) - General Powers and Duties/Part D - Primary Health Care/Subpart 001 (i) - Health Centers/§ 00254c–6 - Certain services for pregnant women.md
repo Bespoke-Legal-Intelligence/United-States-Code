@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) the purposes for which the adoption organization expends the grant may include the development of a training curriculum, consistent with the guidelines developed under paragraph (2)(B); and
 
-&emsp;&emsp;&emsp;(iii) a condition for the receipt of the grant is that the adoption organization agree that, in providing training for the designated staff of eligible health centers, such organization will make reasonable efforts to ensure that the individuals whoprovide the training are individuals who are knowledgeable in all elements of the adoption process and are experienced in providing adoption information and referrals in the geographic areas in which the eligible health centers are located, and that the designated staff receive the training in such areas.
+&emsp;&emsp;&emsp;(iii) a condition for the receipt of the grant is that the adoption organization agree that, in providing training for the designated staff of eligible health centers, such organization will make reasonable efforts to ensure that the individuals who provide the training are individuals who are knowledgeable in all elements of the adoption process and are experienced in providing adoption information and referrals in the geographic areas in which the eligible health centers are located, and that the designated staff receive the training in such areas.
 
 #### (B) Rule of construction regarding training of trainers
 

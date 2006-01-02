@@ -104,7 +104,7 @@ Subsec. (a)(1). Pub. L. 102–550, §210(a)(1), substituted “, housing rehabi
 
 Subsec. (a)(2). Pub. L. 102–550, §210(a)(2), substituted “30” for “33” and “new construction.” for “substantial rehabilitation; and”.
 
-Subsec. (a)(3). Pub. L. 102–550, §210(a)(3), struck out par. (3) which read as follows: “50 percent of the total funds drawn from the jurisdiction's HOME Investment Trust Fund in that fiscal year with respect to new construction.”
+Subsec. (a)(3). Pub. L. 102–550, §210(a)(3), struck out par. (3) which read as follows: “50 percent of the totalfunds drawn from the jurisdiction's HOME Investment Trust Fund in that fiscal year with respect to new construction.”
 
 Subsec. (b)(2). Pub. L. 102–550, §207(c)(1), substituted “may not be recognized for purposes of subsection (a) of this section” for “shall be recognized only up to an amount equal to 7 percent of funds provided for investment under this subchapter”.
 
@@ -126,7 +126,7 @@ Subsec. (d). Pub. L. 102–550, §210(c), added subsec. (d) and struck out forme
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out suchamendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1992 Amendment
 

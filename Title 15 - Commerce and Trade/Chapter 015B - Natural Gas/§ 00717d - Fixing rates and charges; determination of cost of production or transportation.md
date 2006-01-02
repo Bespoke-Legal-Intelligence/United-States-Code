@@ -10,9 +10,3 @@ The Commission upon its own motion, or upon the request of any State commission,
 
 (June 21, 1938, ch. 556, §5, 52 Stat. 823.)
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and functions with regard to establishment, review, and enforcement of rates and charges for transportation and sale of natural gas by a producer or gatherer or by a natural gas pipeline or natural gas company transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(C) and 7293 of Title 42, The Public Health and Welfare.
-
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
-

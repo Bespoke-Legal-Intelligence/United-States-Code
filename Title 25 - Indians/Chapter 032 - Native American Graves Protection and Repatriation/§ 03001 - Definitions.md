@@ -10,7 +10,7 @@ For purposes of this chapter, the term—
 
 &emsp;&emsp;(A) “associated funerary objects” which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, and both the human remains and associated funerary objects are presently in the possession or control of a Federal agency or museum, except that other items exclusively made for burial purposes or to contain human remains shall be considered as associated funerary objects.<sup>1</sup>
 
-&emsp;&emsp;(B) “unassociated funerary objects” which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed withindividual human remains either at the time of death or later, where the remains are not in the possession or control of the Federal agency or museum and the objects can be identified by a preponderance of the evidence as related to specific individuals or families or to known human remains or, by a preponderance of the evidence, as having been removed from a specific burial site of an individual culturally affiliated with a particular Indian tribe,
+&emsp;&emsp;(B) “unassociated funerary objects” which shall mean objects that, as a part of the death rite or ceremony of a culture, are reasonably believed to have been placed with individual human remains either at the time of death or later, where the remains are not in the possession or control of the Federal agency or museum and the objects can be identified by a preponderance of the evidence as related to specific individuals or families or to known human remains or, by a preponderance of the evidence, as having been removed from a specific burial site of an individual culturally affiliated with a particular Indian tribe,
 
 &emsp;&emsp;(C) “sacred objects” which shall mean specific ceremonial objects which are needed by traditional Native American religious leaders for the practice of traditional Native American religions by their present day adherents, and
 
@@ -62,7 +62,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Alaska Native Claims Settlement Act of 1971, referred to in par. (5), probably means the Alaska Native Claims Settlement Act. See note below.
 
-The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33\(§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Hawaiian Homes Commission Act, 1920, referred to in par. (15)(C), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 

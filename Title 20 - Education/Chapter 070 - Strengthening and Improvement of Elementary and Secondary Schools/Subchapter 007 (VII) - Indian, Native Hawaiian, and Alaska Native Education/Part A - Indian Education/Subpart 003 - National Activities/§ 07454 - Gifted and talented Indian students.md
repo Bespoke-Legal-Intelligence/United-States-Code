@@ -138,5 +138,5 @@ The Tribally Controlled College or University Assistance Act of 1978, referred t
 
 #### Prior Provisions
 
-A prior section 7454, Pub. L. 89–10, title VII, §7134, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3730, related to State grant program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6934 of this title.
+A prior section 7454, Pub. L. 89–10, title VII, §7134, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3730, related to State grant program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6934 of this title.
 

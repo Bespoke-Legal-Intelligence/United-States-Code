@@ -40,7 +40,7 @@ The purpose of this part is—
 
 #### Prior Provisions
 
-A prior section 1461, Pub. L. 91–230, title VI, §661, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 130, related to administrative provisions, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1461, Pub. L. 91–230, title VI, §661, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.130, related to administrative provisions, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1461, Pub. L. 91–230, title VI, §661, as added Pub. L. 99–457, title III, §317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 100–630, title I, §107(b), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title VII, §701, title IX, §901(b)(154)–(156), Oct. 30, 1990, 104 Stat. 1140, 1149; Pub. L. 102–119, §25(a)(15), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to financial assistance for the purpose of advancing use of new technology, media, and materials in education of students with disabilities and provision of related services and early intervention services to infants and toddlers with disabilities, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 

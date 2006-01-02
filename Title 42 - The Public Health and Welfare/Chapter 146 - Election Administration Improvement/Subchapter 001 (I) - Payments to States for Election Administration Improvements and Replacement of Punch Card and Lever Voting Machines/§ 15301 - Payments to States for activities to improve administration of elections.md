@@ -46,7 +46,7 @@ In order to receive a payment under the program under this section, the State sh
 
 #### (1) In general
 
-&emsp;Subject to section 15303(b) of this title, the amount of payment made to a State under this section shall be the minimum payment amount described in paragraph (2) plus the voting age population proportion amount described in paragraph (3).
+&emsp;Subject to section 15303(b) of this title, the amount of payment made to a State under this section shall be the minimum payment amount described in paragraph (2) plus thevoting age population proportion amount described in paragraph (3).
 
 #### (2) Minimum payment amount
 
@@ -54,7 +54,7 @@ In order to receive a payment under the program under this section, the State sh
 
 &emsp;&emsp;(A) in the case of any of the several States or the District of Columbia, one-half of 1 percent of the aggregate amount made available for payments under this section; and
 
-&emsp;&emsp;(B) in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, or theUnited States Virgin Islands, one-tenth of 1 percent of such aggregate amount.
+&emsp;&emsp;(B) in the case of the Commonwealth of Puerto Rico, Guam, American Samoa, or the United States Virgin Islands, one-tenth of 1 percent of such aggregate amount.
 
 #### (3) Voting age population proportion amount
 

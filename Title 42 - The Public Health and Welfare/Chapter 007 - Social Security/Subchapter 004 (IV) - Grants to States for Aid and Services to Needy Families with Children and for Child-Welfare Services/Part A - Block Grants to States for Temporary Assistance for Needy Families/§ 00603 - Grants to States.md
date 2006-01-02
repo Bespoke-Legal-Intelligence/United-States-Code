@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;The term “eligible State” means a State that the Secretary determines meets the following requirements:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) The State demonstrates that the illegitimacy ratio of the State for the most recent 2-year period for which such information is available decreased as compared to the illegitimacy ratio of the State for the previous 2-year period, and the magnitude of the decrease for the State for the period is not exceeded by the magnitude of the corresponding decrease for 5 or more other States for the period. In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to the magnitude of the corresponding decrease for any such territory.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) The State demonstrates that the illegitimacy ratio of the State for the most recent 2-year period for which such information is available decreased as compared to the illegitimacy ratio of the State for the previous 2-year period, and the magnitude of the decrease for the State for the period is not exceeded by the magnitudeof the corresponding decrease for 5 or more other States for the period. In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to the magnitude of the corresponding decrease for any such territory.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) The rate of induced pregnancy terminations in the State for the calendar year for which the most recent data are available is less than the rate of induced pregnancy terminations in the State for calendar year 1995.
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total amount required to be paid to the State under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amount (if any) required to be paid to the State under this paragraph for the fiscal year preceding thefiscal year for which the grant is to be made.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amount (if any) required to be paid to the State under this paragraph for the fiscal year preceding the fiscal year for which the grant is to be made.
 
 #### (B) Preservation of grant without increases for States failing to remain qualifying States
 
@@ -172,7 +172,7 @@
 
 &emsp;&emsp;&emsp;(i) any State that was a qualifying State under this paragraph for fiscal year 2001 or any prior fiscal year shall be entitled to receive from the Secretary for each of fiscal years 2002 and 2003 a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year in which the State was a qualifying State;
 
-&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if “March 31, 2005” were substituted for “fiscal year 2001”; and
+&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if “March 31, 2006” were substituted for “fiscal year 2001”; and
 
 &emsp;&emsp;&emsp;(iii) out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2002 and 2003 such sums as are necessary for grants under this subparagraph.
 
@@ -270,7 +270,7 @@
 
 #### (II) Minimum allotment
 
-&emsp;&emsp;&emsp;&emsp;The allotment of a welfare-to-work State (other than Guam, the Virgin Islands, or American Samoa) for a fiscal year shall not be less than 0.25 percent of the available amount for the fiscal year.
+&emsp;&emsp;&emsp;&emsp;The allotment of a welfare-to-work State (other than Guam, the Virgin Islands, or American Samoa) for a fiscalyear shall not be less than 0.25 percent of the available amount for the fiscal year.
 
 #### (III) Pro rata reduction
 
@@ -306,7 +306,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) may determine the amount to be allocated for the benefit of such an area in proportion to the number of adults residing in the area who have been recipients of assistance under the State program funded under this part (whether in effect before or after the amendments made by section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 first applied to the State) for at least 30 months (whether or not consecutive) relative to the number of such adults residing in the State; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) may determine the amount to be allocated for the benefit of such anarea in proportion to the number of unemployed individuals residing in the area relative to the number of such individuals residing in the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) may determine the amount to be allocated for the benefit of such an area in proportion to the number of unemployed individuals residing in the area relative to the number of such individuals residing in the State.
 
 #### (II) Distribution of funds
 
@@ -392,7 +392,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) 25 percent of the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuant to subparagraphs (E), (F), and (G) for the fiscal year; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount specified in subparagraph (H) for the fiscal year, minus the total of the amounts reserved pursuantto subparagraphs (E), (F), and (G) for the fiscal year; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
 
@@ -494,7 +494,7 @@
 
 #### (vii) Prohibition against use of grant funds for any other fund matching requirement
 
-&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) of this section or section 618 of this title or any other provision of this chapter or other Federal law.
+&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall not use any part of the funds, nor any part of State expenditures made to match the funds, to fulfill any obligation of any State, political subdivision, or private industry council to contribute funds under subsection (b) ofthis section or section 618 of this title or any other provision of this chapter or other Federal law.
 
 #### (viii) Deadline for expenditure
 
@@ -668,7 +668,7 @@
 
 #### (ii) Payments to all States
 
-&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years 1997 through 2005 shall not exceed the total amount appropriated pursuant to paragraph (2).
+&emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal years 1997 through 2006 shall not exceed the total amount appropriated pursuant to paragraph (2).
 
 #### (4) “Eligible month” defined
 
@@ -724,7 +724,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title (other than the expenditures described in subclause (I)(bb) of such section)) under the State program funded under this part for the fiscal year; plus
 
-&emsp;&emsp;&emsp;&emsp;(II) any amount paid to the State under paragraph (3) during the fiscal year that is expended by the State under the State program funded under this part.
+&emsp;&emsp;&emsp;&emsp;(II) any amount paid to the State under paragraph (3) during the fiscalyear that is expended by the State under the State program funded under this part.
 
 #### (C) Adjustment of State remittances
 
@@ -772,7 +772,7 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, titleVI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958.)
 
 #### References in Text
 
@@ -792,9 +792,19 @@ Titles IV and VIII of the Personal Responsibility and Work Opportunity Reconcili
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, titleI, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
+
+2005—Subsec. (a)(3)(H)(ii). Pub. L. 109–161 substituted “March 31, 2006” for “December 31, 2005”.
+
+Pub. L. 109–68, §2(b)(2)(A), substituted “December 31” for “September 30”.
+
+Pub. L. 109–19 substituted “September 30” for “June 30”.
+
+Pub. L. 109–4 substituted “June 30” for “March 31”.
+
+Subsec. (b)(3)(C)(ii). Pub. L. 109–68, §2(b)(2)(B), substituted “2006” for “2005”.
 
 2004—Subsec. (a)(3)(H)(ii). Pub. L. 108–308, §2(b)(1), substituted “March 31, 2005” for “September 30, 2004”.
 
@@ -962,7 +972,7 @@ Subsec. (a)(5)(A)(i)(I), (ii)(II). Pub. L. 105–78 substituted “during the pe
 
 Subsec. (b)(2). Pub. L. 105–89, §404(a), inserted “, reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii)” before period.
 
-Subsec. (b)(4), (5). Pub. L. 105–33, §5502(e)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which required each State to remit to the Secretary at the end of each fiscal year certain excess amounts paid to the State under par. (3) during the fiscal year.
+Subsec. (b)(4), (5). Pub. L. 105–33, §5502(e)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which required each State toremit to the Secretary at the end of each fiscal year certain excess amounts paid to the State under par. (3) during the fiscal year.
 
 Subsec. (b)(6). Pub. L. 105–33, §5502(e)(3), added par. (6).
 

@@ -24,7 +24,3 @@ Section 1051(i) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 “(2) The amendment made by subsection (d)(2) \[amending section 901 of this title\] shall not apply to any tax imposed by a possession of the United States with respect to the complete liquidation occurring before January 1, 1979, of a corporation to the extent that such tax is attributable to earnings and profits accumulated by such corporation during periods ending before January 1, 1976.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 23, 24, 25B, 26, 29, 30, 55, 59, 108, 469, 691, 1351 of this title.
-

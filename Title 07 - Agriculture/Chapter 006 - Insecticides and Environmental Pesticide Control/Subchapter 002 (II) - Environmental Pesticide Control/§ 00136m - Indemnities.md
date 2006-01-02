@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
 
-&emsp;&emsp;(B) the registration in question is suspended under section 136d(c) of this title,and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
+&emsp;&emsp;(B) the registration in question is suspended under section 136d(c) of this title, and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
 
 &emsp;&emsp;(C) any person who owned any quantity of the pesticide immediately before the notice to the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
 

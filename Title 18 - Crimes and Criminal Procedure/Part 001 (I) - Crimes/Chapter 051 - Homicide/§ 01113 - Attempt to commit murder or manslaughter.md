@@ -2,7 +2,7 @@
 
 Except as provided in section 113 of this title, whoever, within the special maritime and territorial jurisdiction of the United States, attempts to commit murder or manslaughter, shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than seven years or fined under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 100–690, title VII, §7058(c), Nov. 18, 1988, 102 Stat.4403; Pub. L. 101–647, title XXXV, §3534, Nov. 29, 1990, 104 Stat. 4925; Pub. L. 104–132, title VII, §705(a)(5), Apr. 24, 1996, 110 Stat. 1295.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 100–690, title VII, §7058(c), Nov. 18, 1988, 102 Stat. 4403; Pub. L. 101–647, title XXXV, §3534, Nov. 29, 1990, 104 Stat. 4925; Pub. L. 104–132, title VII, §705(a)(5), Apr. 24, 1996, 110 Stat. 1295.)
 
 #### Historical and Revision Notes
 

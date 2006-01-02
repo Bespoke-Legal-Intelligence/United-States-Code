@@ -4,7 +4,7 @@
 
 #### (1) Programs
 
-&emsp;Officials of the United States Government carrying out existing Federal programs for emergency training are authorized to specifically provide training and education programs for Federal, State, and local personnel in hazard mitigation, emergency preparedness, fire prevention and control, disaster response, long-term disaster recovery, national security, technological and natural hazards, and emergency processes. Such programs shall provide special emphasis for such training and education with respect to hazardous chemicals.
+&emsp;Officials of the United States Government carrying out existing Federal programs for emergency training are authorized to specifically provide training and education programs for Federal, State, and local personnel in hazard mitigation, emergency preparedness, fire prevention and control, disaster response, long-term disaster recovery, national security, technological and natural hazards, and emergency processes. Such programs shall providespecial emphasis for such training and education with respect to hazardous chemicals.
 
 #### (2) State and local program support
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) The status of public emergency alert devices or systems for providing timely and effective public warning of an accidental release of extremely hazardous substances into the environment, including releases into the atmosphere, surface water, or groundwater from facilities that produce, store, or use significant quantities of such extremely hazardous substances.
 
-&emsp;&emsp;(C) The technical and economic feasibility of establishing, maintaining, and operatingperimeter alert systems for detecting releases of such extremely hazardous substances into the atmosphere, surface water, or groundwater, at facilities that manufacture, use, or store significant quantities of such substances.
+&emsp;&emsp;(C) The technical and economic feasibility of establishing, maintaining, and operating perimeter alert systems for detecting releases of such extremely hazardous substances into the atmosphere, surface water, or groundwater, at facilities that manufacture, use, or store significant quantities of such substances.
 
 #### (3) Recommendations
 

@@ -44,7 +44,7 @@ A participant in the Program shall not be considered to be in violation of the p
 
 #### (1) Bonus authorized
 
-&emsp;Subject to paragraph (2), the Secretary may, in lieu of paying a stipend under subsection (c) of this section, pay a bonus of $10,000 to a participant in the Program selected under section 6673 of this title who agrees in the participation agreement under subsection (a) of this section to become a highly qualified teacher and to accept full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher fornot less than 3 school years in a high-need school.
+&emsp;Subject to paragraph (2), the Secretary may, in lieu of paying a stipend under subsection (c) of this section, pay a bonus of $10,000 to a participant in the Program selected under section 6673 of this title who agrees in the participation agreement under subsection (a) of this section to become a highly qualified teacher and to accept full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher for not less than 3 school years in a high-need school.
 
 #### (2) Limitation
 

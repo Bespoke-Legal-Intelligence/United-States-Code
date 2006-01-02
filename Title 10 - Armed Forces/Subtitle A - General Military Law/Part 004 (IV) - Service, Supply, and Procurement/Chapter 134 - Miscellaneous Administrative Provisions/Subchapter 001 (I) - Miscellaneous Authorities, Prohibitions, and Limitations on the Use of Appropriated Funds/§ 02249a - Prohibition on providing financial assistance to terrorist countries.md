@@ -30,7 +30,7 @@ Waiver.—(1) The President may waive the application of subsection (a) to a cou
 
 (c)
 
-Definition.—In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f(d)).
+Definition.—In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the ForeignRelations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f(d)).
 
 (Added Pub. L. 104–106, div. A, title XIII, §1341(a), Feb. 10, 1996, 110 Stat. 485; amended Pub. L. 105–85, div. A, title X, §1073(a)(40), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 

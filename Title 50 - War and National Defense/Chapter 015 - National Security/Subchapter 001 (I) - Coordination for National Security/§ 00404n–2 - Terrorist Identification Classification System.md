@@ -42,7 +42,7 @@ Subject to section 403–1(i) of this title, relating to the protection of intel
 
 #### (g) Report on status of System
 
-(1) Not later than one year after November 27, 2002, the Director shall, in consultation with the Director of Homeland Security, submit to the congressional intelligence committees a report on the status of the Terrorist Identification Classification System. The report shall contain a certification on the following:
+(1) Not later than one year after November 27, 2002, the Director shall, in consultation with the Director of Homeland Security, submit to thecongressional intelligence committees a report on the status of the Terrorist Identification Classification System. The report shall contain a certification on the following:
 
 &emsp;(A) Whether the System contains the intelligence information necessary to facilitate the contribution of the System to the domestic security of the United States.
 
@@ -81,6 +81,8 @@ Subsec. (c). Pub. L. 108–458, §1072(d)(1)(A), which directed amendment of sub
 2003—Subsecs. (c), (e)(2). Pub. L. 108–177, §377(d), substituted “section 403–3(c)(7) of this title” for “section 403–3(c)(6) of this title”.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

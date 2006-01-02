@@ -24,7 +24,7 @@ Pub. L. 108–194, §2, Dec. 19, 2003, 117 Stat. 2888, provided that: “The Con
 
 &emsp;“(3) Stabilizing the funding structure and increasing accessibility to poison control centers will promote the utilization of poison control centers, and reduce the inappropriate use of emergency medical services and other more costly health care services.
 
-&emsp;“(4) The tragic events of September 11, 2001, and the anthrax cases of October 2001, have dramaticallychanged our Nation. During this time period, poison centers in many areas of the country were answering thousands of additional calls from concerned residents. Many poison centers were relied upon as a source for accurate medical information about the disease and the complications resulting from prophylactic antibiotic therapy.
+&emsp;“(4) The tragic events of September 11, 2001, and the anthrax cases of October 2001, have dramatically changed our Nation. During this time period, poison centers in many areas of the country were answering thousands of additional calls from concerned residents. Many poison centers were relied upon as a source for accurate medical information about the disease and the complications resulting from prophylactic antibiotic therapy.
 
 &emsp;“(5) The 2001 Presidential Task Force on Citizen Preparedness in the War on Terrorism recommended that the Poison Control Centers be used as a source of public information and public education regarding potential biological, chemical, and nuclear domestic terrorism.
 

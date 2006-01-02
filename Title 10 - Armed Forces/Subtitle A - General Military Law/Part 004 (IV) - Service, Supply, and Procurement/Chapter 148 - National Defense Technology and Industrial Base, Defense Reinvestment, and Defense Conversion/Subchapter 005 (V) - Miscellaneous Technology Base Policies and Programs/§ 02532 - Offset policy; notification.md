@@ -124,7 +124,7 @@ Section 825(d) of Pub. L. 100–456 provided that:
 
 &emsp;“(G) A preliminary discussion of the actions referred to in paragraph (2).
 
-“(2) Not later than March 15, 1990, the President shall transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when thatcountry or firm requires an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country. The report shall include a discussion of the following possible actions:
+“(2) Not later than March 15, 1990, the President shall transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when that country or firm requires an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country. The report shall include a discussion of the following possible actions:
 
 &emsp;“(A) A requirement for an offset in favor of the United States or United States firms in any case in which the Department of Defense or any other department or agency of the United States purchases goods from such foreign country or a firm of such country.
 
@@ -139,8 +139,4 @@ Section 825(d) of Pub. L. 100–456 provided that:
 “(4) In this subsection, the terms ‘United States firm’ and ‘foreign firm’ have the same meanings as are provided in section 2505(d) \[now 2532(d)\] of title 10, United States Code, as added by subsection (b).”
 
 \[For delegation of functions of President under section 825(d) of Pub. L. 100–456 to Director of Office of Management and Budget, see section 5–202 of Ex. Ord. No. 12661, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2534 of this title.
 

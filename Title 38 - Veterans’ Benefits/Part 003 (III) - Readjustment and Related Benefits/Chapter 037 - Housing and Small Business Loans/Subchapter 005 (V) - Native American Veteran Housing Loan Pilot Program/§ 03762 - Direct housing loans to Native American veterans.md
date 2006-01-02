@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) to monitor any purchase, construction, or improvements carried out using the proceeds of the loan.
 
-&emsp;(D) That the tribal organization has established standards and procedures that apply to the foreclosure of the interest conveyed by a Native American veteran pursuant to subparagraph (B), including—
+&emsp;(D) That the tribal organization has established standards and procedures that apply tothe foreclosure of the interest conveyed by a Native American veteran pursuant to subparagraph (B), including—
 
 &emsp;&emsp;(i) procedures for foreclosing the interest; and
 
@@ -34,7 +34,7 @@
 
 (2) The Secretary may not enter into a memorandum of understanding with a tribal organization under this subsection unless the Secretary determines that the memorandum provides for such standards and procedures as are necessary for the reasonable protection of the financial interests of the United States.
 
-(c)(1)(A) Except as provided in subparagraph (B), the principal amount of any direct housingloan made to a Native American under this section may not exceed $80,000.
+(c)(1)(A) Except as provided in subparagraph (B), the principal amount of any direct housing loan made to a Native American under this section may not exceed $80,000.
 
 (B) The Secretary may make loans exceeding the amount specified in subparagraph (A) in a geographic area if the Secretary determines that housing costs in the area are significantly higher than average housing costs nationwide. The amount of such increase shall be the amount that the Secretary determines is necessary in order to carry out the pilot program under this subchapter in a manner that demonstrates the advisability of making direct housing loans to Native American veterans who are located in a variety of geographic areas and in geographic areas experiencing a variety of economic conditions.
 

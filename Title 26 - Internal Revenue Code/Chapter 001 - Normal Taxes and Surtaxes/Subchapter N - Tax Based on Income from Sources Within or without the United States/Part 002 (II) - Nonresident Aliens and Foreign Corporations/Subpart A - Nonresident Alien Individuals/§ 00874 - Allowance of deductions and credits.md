@@ -52,7 +52,3 @@ Section 106(a)(6) of Pub. L. 89–809, as amended by Pub. L. 99–514, §2, Oct.
 
 Amendment by Pub. L. 89–44 applicable to taxable years beginning on or after July 1, 1965, see section 809(f) of Pub. L. 89–44, set out as a note under section 6420 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1441 of this title.
-

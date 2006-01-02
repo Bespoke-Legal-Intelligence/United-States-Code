@@ -38,7 +38,7 @@ The person acquiring contractual interests transferred pursuant to subsection (a
 
 For purposes of this section—
 
-(1) The term “just compensation”, when used with respect to any transfer of contractual interests authorized by subsection (a)(1) of thissection, means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
+(1) The term “just compensation”, when used with respect to any transfer of contractual interests authorized by subsection (a)(1) of this section, means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
 
 &emsp;(A) the reasonable costs (excluding capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred under subsection (a)(1) of this section, in direct association with the use of a fuel, other than natural gas, as a primary energy source by the applicable existing electric powerplant, exceed
 

@@ -54,7 +54,7 @@ For purposes of subsection (b)(4)—
 
 &emsp;&emsp;&emsp;(i) the issuing corporation only, if clause (ii) does not apply, or
 
-&emsp;&emsp;&emsp;(ii) both the issuing corporation and the acquired corporation, in any case where the issuing corporation has acquired control (as defined in section 368(c)), or has acquired substantially all of the properties, of the acquired corporation.
+&emsp;&emsp;&emsp;(ii) both the issuing corporation and the acquired corporation, in any case wherethe issuing corporation has acquired control (as defined in section 368(c)), or has acquired substantially all of the properties, of the acquired corporation.
 
 &emsp;&emsp;(B) The average annual earnings referred to in subparagraph (A) is, for any corporation, the amount of its earnings and profits for any 3-year period ending with the last day of a taxable year of the issuing corporation described in paragraph (1), computed without reduction for—
 
@@ -102,7 +102,7 @@ In applying this section—
 
 #### (3) Redetermination where control, etc., is acquired
 
-&emsp;If an obligation is determined to be corporate acquisition indebtedness as of the close of a taxable year of the issuing corporation inwhich clause (i) of subsection (c)(3)(A) applied, but would not be corporate acquisition indebtedness if the determination were made as of the close of the first taxable year of such corporation thereafter in which clause (ii) of subsection (c)(3)(A) could apply, such obligation shall be considered not to be corporate acquisition indebtedness for such later taxable year and all taxable years thereafter.
+&emsp;If an obligation is determined to be corporate acquisition indebtedness as of the close of a taxable year of the issuing corporation in which clause (i) of subsection (c)(3)(A) applied, but would not be corporate acquisition indebtedness if the determination were made as of the close of the first taxable year of such corporation thereafter in which clause (ii) of subsection (c)(3)(A) could apply, such obligation shall be considered not to be corporate acquisition indebtedness for such later taxable year and all taxable years thereafter.
 
 #### (4) Special 3-year rule
 

@@ -6,7 +6,7 @@
 
 (2) Information and data compiled in the bank shall include—
 
-&emsp;(A) technical information (including reports, journal articles, dissertations, monographs, and project descriptions) on solar energy research, development, and applications;
+&emsp;(A) technical information (including reports, journal articles, dissertations, monographs,and project descriptions) on solar energy research, development, and applications;
 
 &emsp;(B) similar technical information on the design, construction, and maintenance of equipment utilizing solar energy;
 

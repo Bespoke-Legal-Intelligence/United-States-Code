@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, to carry out administrativ
 
 #### (b) Exception
 
-If the sum of the amounts appropriated for parts A, C, and D of this subchapter is equal to or greater than $14,000,000,000, then the reservation described in subsection (a)(1) of this section shall not exceed 1 percent of the amount the State would receive, if $14,000,000,000 were allocated among the States for parts A, C, and D of this subchapter.
+If the sum of the amounts appropriated for parts A, C, and D of this subchapter is equal toor greater than $14,000,000,000, then the reservation described in subsection (a)(1) of this section shall not exceed 1 percent of the amount the State would receive, if $14,000,000,000 were allocated among the States for parts A, C, and D of this subchapter.
 
 (Pub. L. 89–10, title I, §1004, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444.)
 

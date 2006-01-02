@@ -42,7 +42,7 @@ In General.—(1) In consideration of the Authority accepting the obligation of 
 
 &emsp;“(A) $34,806,731, if payment is made by the Authority within the 270-day period beginning on the date of the enactment of this Act; or
 
-&emsp;“(B) the amount specified in subparagraph (A) adjusted to include interest on that amount since thedate of the enactment of this Act at the appropriate Treasury bill rate for an equivalent term, if payment is made by the Authority after the period referred to in subparagraph (A).
+&emsp;“(B) the amount specified in subparagraph (A) adjusted to include interest on that amount since the date of the enactment of this Act at the appropriate Treasury bill rate for an equivalent term, if payment is made by the Authority after the period referred to in subparagraph (A).
 
 “(3) If payment under paragraph (1) is not made by the Authority within the period specified in paragraph (1), this Act shall have no force or effect.
 

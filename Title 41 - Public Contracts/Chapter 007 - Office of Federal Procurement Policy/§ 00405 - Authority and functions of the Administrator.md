@@ -2,7 +2,7 @@
 
 #### (a) Development of procurement policy; leadership
 
-The Administrator shall provide overall direction of procurement policy and leadership in thedevelopment of procurement systems of the executive agencies. To the extent that the Administrator considers appropriate, in carrying out the policies and functions set forth in this chapter, and with due regard for applicable laws and the program activities of the executive agencies, the Administrator may prescribe Government-wide procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be followed by executive agencies in the procurement of—
+The Administrator shall provide overall direction of procurement policy and leadership in the development of procurement systems of the executive agencies. To the extent that the Administrator considers appropriate, in carrying out the policies and functions set forth in this chapter, and with due regard for applicable laws and the program activities of the executive agencies, the Administrator may prescribe Government-wide procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be followed by executive agencies in the procurement of—
 
 &emsp;(1) property other than real property in being;
 
@@ -118,7 +118,7 @@ Nothing in this chapter shall be construed to—
 
 #### (j) Policy regarding consideration of contractor past performance
 
-(1) The Administrator shall prescribe for executive agencies guidance regarding consideration of the past contract performance of offerors in awarding contracts. The guidance shall include—
+(1) The Administrator shall prescribe for executive agencies guidance regarding considerationof the past contract performance of offerors in awarding contracts. The guidance shall include—
 
 &emsp;(A) standards for evaluating past performance with respect to cost (when appropriate), schedule, compliance with technical or functional specifications, and other relevant performance factors that facilitate consistent and fair evaluation by all executive agencies;
 
@@ -190,7 +190,7 @@ Subsec. (d)(8), (9). Pub. L. 103–355, §5091, added pars. (8) and (9) at end. 
 
 Subsec. (d)(10), (11). Pub. L. 103–355, §7108(a), added pars. (10) and (11).
 
-Subsec. (d)(12). Pub. L. 103–355, §5091(2), redesiganted par. (8) and (12).
+Subsec. (d)(12). Pub. L. 103–355, §5091(2), redesignated pars. (8) and (12).
 
 Subsec. (j). Pub. L. 103–355, §1091(b)(2), added subsec. (j).
 
@@ -202,7 +202,7 @@ Subsec. (b). Pub. L. 100–679, §3(a)(2), inserted “, including any such reg
 
 Subsec. (d)(4). Pub. L. 100–679, §3(a)(3), added par. (4) and struck out former par. (4) which read as follows: “providing for a computer-based Federal Procurement Data System which shall be located in the General Services Administration (acting as executive agent for the Administrator) and shall collect, develop, and disseminate procurement data;”.
 
-Subsec. (d)(5). Pub. L. 100–679, §3(a)(3), added par. (5) and struck out former par. (5) which read as follows: “providing for a Federal Acquisition Institute whichshall be located in the General Services Administration (acting as executive agent for the Administrator) and shall—
+Subsec. (d)(5). Pub. L. 100–679, §3(a)(3), added par. (5) and struck out former par. (5) which read as follows: “providing for a Federal Acquisition Institute which shall be located in the General Services Administration (acting as executive agent for the Administrator) and shall—
 
 &emsp;“(A) foster and promote Government-wide career management programs for a professional procurement work force; and
 
@@ -260,7 +260,7 @@ Definition.—In this section, the term ‘State or local government’ has the 
 
 #### Statutory and Regulatory Review
 
-Pub. L. 108–136, div. A, title XIV, §1423, Nov. 24, 2003, 117 Stat. 1669, provided that:
+Pub. L. 108–136, div. A, title XIV, §1423, Nov. 24, 2003, 117 Stat. 1669, as amended by Pub. L. 109–163, div. A, title VIII, §843, Jan. 6, 2006, 119 Stat. 3389, provided that:
 
 “(a)
 
@@ -268,7 +268,7 @@ Establishment.—Not later than 90 days after the date of the enactment of this 
 
 “(b)
 
-Membership.—The panel shall be composed of at least nine individuals who are recognized experts in acquisition law and Government acquisition policy. In making appointments to the panel, the Administrator shall—
+Membership.—The panel shall be composed of at least nine individuals who are recognized experts in acquisition law and Government acquisition policy. Inmaking appointments to the panel, the Administrator shall—
 
 &emsp;“(1) consult with the Secretary of Defense, the Administrator of General Services, the Committees on Armed Services and Government Reform of the House of Representatives, and the Committees on Armed Services and Governmental Affairs of the Senate; and
 
@@ -290,7 +290,7 @@ Duties.—The panel shall—
 
 “(d)
 
-Report.—Not later than one year after the establishment of the panel, the panel shall submit to the Administrator and to the Committees on Armed Services and Government Reform of the House of Representatives and the Committees on Armed Services and Governmental Affairs of the Senate a report containing a detailed statement of the findings, conclusions, and recommendations of the panel.”
+Report.—Not later than 18 months after the establishment of the panel, the panel shall submit to the Administrator and to the Committees on Armed Services and Government Reform of the House of Representatives and the Committees on Armed Services and Governmental Affairs of the Senate a report containing a detailed statement of the findings, conclusions, and recommendations of the panel.”
 
 #### Center of Excellence in Service Contracting
 

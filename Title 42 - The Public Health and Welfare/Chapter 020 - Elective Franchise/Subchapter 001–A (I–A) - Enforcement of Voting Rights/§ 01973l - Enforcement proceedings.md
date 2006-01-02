@@ -6,7 +6,7 @@ All cases of criminal contempt arising under the provisions of subchapters I–A
 
 #### (b) Jurisdiction of courts for declaratory judgment, restraining orders, or temporary or permanent injunction
 
-No court other than the District Court for the District of Columbia or a court of appeals in any proceeding under section 1973g of this title shall have jurisdiction to issue any declaratory judgment pursuant to section 1973b or 1973c of this title or any restraining order or temporary or permanent injunction against the execution or enforcement of any provision of subchapters I–A to I–C of this chapter or any action of any Federal officer or employee pursuant hereto.
+No court other than the District Court for the District of Columbia or a court of appeals in any proceeding under section 1973g of this title shall have jurisdiction to issue any declaratory judgment pursuant to section 1973b or 1973c of this title or any restraining order or temporary or permanent injunction against the execution or enforcement of any provision of subchapters I–Ato I–C of this chapter or any action of any Federal officer or employee pursuant hereto.
 
 #### (c) Definitions
 

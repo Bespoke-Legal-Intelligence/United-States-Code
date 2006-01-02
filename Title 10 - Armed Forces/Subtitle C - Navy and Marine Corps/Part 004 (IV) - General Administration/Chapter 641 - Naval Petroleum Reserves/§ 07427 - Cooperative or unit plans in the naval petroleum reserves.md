@@ -46,7 +46,3 @@ Ex. Ord. No. 12784, Dec. 19, 1991, 56 F.R. 66339.
 
 Ex. Ord. No. 12659, Dec. 15, 1988, 53 F.R. 50911.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1601.
-

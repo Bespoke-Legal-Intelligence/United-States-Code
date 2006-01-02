@@ -66,7 +66,11 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 A civil action under this section may not be commenced later than 10 years after the cause of action accrues.
 
-(Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 104–208, div. A, title II, §2704(d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 107–100, §4(b), Dec. 21, 2001, 115 Stat. 966.)
+(Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 104–208, div. A, title II, §2704(d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 107–100, §4(b), Dec. 21, 2001, 115 Stat. 966; Pub. L. 109–173, §9(g)(1), Feb. 15, 2006, 119 Stat. 3618.)
+
+#### Amendment of Subsection (b)(3)(B)
+
+<i>Pub. L. 109–173, §9(g)(1), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (b)(3)(B) of this section is amended by inserting “and after the merger of such funds, the Deposit Insurance Fund,” after “the Savings Association Insurance Fund,”.</i>
 
 #### Codification
 
@@ -91,6 +95,10 @@ Subsec. (d) to (h). Pub. L. 107–100, §4(b)(1), (2)(D), designated concluding 
 Subsec. (c)(2). Pub. L. 101–647, §2596(d)(1), as amended by Pub. L. 103–322, which directed insertion of “287, 1001, 1032,” before “1341;”, was executed by making the insertion before “1341 or 1343” to reflect the probable intent of Congress.
 
 Subsec. (g). Pub. L. 101–647, §2533, added subsec. (g).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 1996 Amendment
 

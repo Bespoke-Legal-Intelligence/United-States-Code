@@ -48,7 +48,7 @@ Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act 
 
 1995—Subsec. (a)(1)(C) to (F). Pub. L. 104–58, §104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
 
-Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “Southwestern Power Administration,”and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
+Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “Southwestern Power Administration,” and struck out “and the Alaska Power Administration” after “Bonneville Power Administration,”.
 
 1981—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
 
@@ -142,7 +142,7 @@ Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Ekl
 
 &emsp;&emsp;“(B) to remain effective for a period equal to the life of Eklutna as extended by improvements, repairs, renewals, or replacements; and
 
-&emsp;&emsp;“(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands andlands managed by the Bureau of Land Management, including lands selected by the State of Alaska.
+&emsp;&emsp;“(C) sufficient for the operation of, maintenance of, repair to, and replacement of, and access to, Eklutna facilities located on military lands and lands managed by the Bureau of Land Management, including lands selected by the State of Alaska.
 
 &emsp;“(2) Fee title to lands at Anchorage Substation shall be transferred to Eklutna Purchasers at no additional cost if the Secretary of the Interior determines that pending claims to, and selections of, those lands are invalid or relinquished.
 
@@ -150,7 +150,7 @@ Eklutna Lands.—With respect to Eklutna lands described in Exhibit A of the Ekl
 
 “(e)
 
-Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select, and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
+Snettisham Lands.—With respect to the Snettisham lands identified in paragraph 1 of Exhibit A of the Snettisham Purchase Agreement and Public Land Order No. 5108, the State of Alaska may select,and the Secretary of the Interior shall convey to the State of Alaska, improved lands under the selection entitlements in section 6 of the Act of July 7, 1958 (commonly referred to as the Alaska Statehood Act, Public Law 85–508; 72 Stat. 339).
 
 “(f)
 

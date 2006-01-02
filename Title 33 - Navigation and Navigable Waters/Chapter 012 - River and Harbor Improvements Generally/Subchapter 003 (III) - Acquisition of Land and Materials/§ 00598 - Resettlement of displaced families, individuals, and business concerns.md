@@ -6,7 +6,7 @@ Whenever any State, or any agency or instrumentality of a State or local governm
 
 #### (b) Acquisition provisions
 
-No acquisition shall be undertaken under the authority of this section unless the Secretary has determined, after consultation with appropriate Federal, State, and local governmental agencies that (1) the development of a site is necessary in order to alleviate hardships to displaced persons; (2) the location of the site is suitable for development in relation to present or potential sources of employment; and (3) a plan for development of the site has been approved by appropriate local governmental authorities in the area or community in which such site is located.
+No acquisition shall be undertaken under the authority of this section unless the Secretaryhas determined, after consultation with appropriate Federal, State, and local governmental agencies that (1) the development of a site is necessary in order to alleviate hardships to displaced persons; (2) the location of the site is suitable for development in relation to present or potential sources of employment; and (3) a plan for development of the site has been approved by appropriate local governmental authorities in the area or community in which such site is located.
 
 #### (c) Conveyance to State, public or private nonprofit body
 

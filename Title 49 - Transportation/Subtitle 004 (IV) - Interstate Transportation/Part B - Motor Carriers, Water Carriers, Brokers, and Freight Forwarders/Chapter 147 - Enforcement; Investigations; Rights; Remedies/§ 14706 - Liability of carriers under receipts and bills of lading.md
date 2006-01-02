@@ -82,7 +82,19 @@ Special rules.—For the purposes of this subsection—
 
 (f)
 
-Limiting Liability of Household Goods Carriers to Declared Value.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
+Limiting Liability of Household Goods Carriers to Declared Value.—
+
+&emsp;(1)
+
+In general.—A carrier or group of carriers subject to jurisdiction under subchapter I or III of chapter 135 may petition the Board to modify, eliminate, or establish rates for the transportation of household goods under which the liability of the carrier for that property is limited to a value established by written declaration of the shipper or by a written agreement.
+
+&emsp;(2)
+
+Full value protection obligation.—Unless the carrier receives a waiver in writing under paragraph (3), a carrier's maximum liability for household goods that are lost, damaged, destroyed, or otherwise not delivered to the final destination is an amount equal to the replacement value of such goods, subject to a maximum amount equal to the declared value of the shipment and to rules issued by the Surface Transportation Board and applicable tariffs.
+
+&emsp;(3)
+
+Application of rates.—The released rates established by the Board under paragraph (1) (commonly known as “released rates”) shall not apply to the transportation of household goods by a carrier unless the liability of the carrier for the full value of such household goods under paragraph (2) is waived, in writing, by the shipper.
 
 (g)
 
@@ -108,7 +120,7 @@ Factors to consider.—In conducting the study, the Secretary, at a minimum, sha
 
 Report.—Not later than 12 months after January 1, 1996, the Secretary shall submit to Congress a report on the results of the study, together with any recommendations of the Secretary (including legislative recommendations) for implementing modifications or reforms identified by the Secretary as being appropriate.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907; amended Pub. L. 104–287, §5(38),Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4207, Aug. 10, 2005, 119 Stat. 1757.)
 
 #### Prior Provisions
 
@@ -116,5 +128,27 @@ Provisions similar to those in this section were contained in sections 10730 and
 
 #### Amendments
 
+2005—Subsec. (f). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
 1996—Subsec. (g)(3). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
+
+#### Review of Liability of Carriers
+
+Pub. L. 109–59, title IV, §4215, Aug. 10, 2005, 119 Stat. 1760, provided that:
+
+“(a)
+
+Review.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Surface Transportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage.
+
+“(b)
+
+Determinations.—The review required by subsection (a) shall include a determination of—
+
+&emsp;“(1) whether the current regulations provide adequate protection;
+
+&emsp;“(2) the benefits of purchase by a shipper of insurance to supplement the carrier's limitations on liability; and
+
+&emsp;“(3) whether there are abuses of the current regulations that leave the shipper unprotected in the event of loss and damage to a shipment of household goods.”
+
+\[For definitions of “carrier”, “household goods”, “motor carrier”, and “transportation” as used in section 4215 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
 

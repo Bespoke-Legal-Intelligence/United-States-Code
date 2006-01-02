@@ -38,6 +38,11 @@
 | (a) | In general. |
 | (b) | Authorization of appropriations. |
 | [918b.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000918b%20-%20Acquisition%20of%20existing%20systems%20in%20rural%20communities%20with%20high%20energy%20costs.md) | Acquisition of existing systems in rural communities with high energy costs. |
+| [918c.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000918c%20-%20Rural%20and%20remote%20communities%20electrification%20grants.md) | Rural and remote communities electrification grants. |
+| (a) | Definitions. |
+| (b) | Grants. |
+| (c) | Grant administration. |
+| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -125,6 +130,10 @@
 | [940e.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940e%20-%20Expansion%20of%20911%20access.md) | Expansion of 911 access. |
 | (a) | In general. |
 | (b) | Authorization of appropriations. |
+| [940f.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940f%20-%20Extension%20of%20period%20of%20existing%20guarantee.md) | Extension of period of existing guarantee. |
+| (a) | In general. |
+| (b) | Limitations. |
+| (c) | Fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

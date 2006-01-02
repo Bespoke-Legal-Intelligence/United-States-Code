@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount which may be excluded under paragraph (1) for dependent care assistance with respect to dependent care services provided during a taxable year shall not exceed$5,000 ($2,500 in the case of a separate return by a married individual).
+&emsp;&emsp;The amount which may be excluded under paragraph (1) for dependent care assistance with respect to dependent care services provided during a taxable year shall not exceed $5,000 ($2,500 in the case of a separate return by a married individual).
 
 #### (B) Year of inclusion
 
@@ -44,7 +44,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 &emsp;(1) with respect to whom, for such taxable year, a deduction is allowable under section 151(c) (relating to personal exemptions for dependents) to such employee or the spouse of such employee, or
 
-&emsp;(2) who is a child of such employee (within the meaning of section 151(c)(3)) under the age of 19 at the close of such taxable year.
+&emsp;(2) who is a child of such employee (within the meaning of section 152(f)(1)) under the age of 19 at the close of such taxable year.
 
 #### (d) Dependent care assistance program
 
@@ -92,7 +92,7 @@ No amount paid or incurred during the taxable year of an employee by an employer
 
 &emsp;&emsp;(A) subject to rules similar to the rules of section 410(b)(4), employees who have not attained the age of 21 and completed 1 year of service (as defined in section 410(a)(3)), and
 
-&emsp;&emsp;(B) employees not included in a dependent care assistance program who are included in a unit of employees covered by an agreementwhich the Secretary finds to be a collective bargaining agreement between employee representatives and 1 or more employees, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;&emsp;(B) employees not included in a dependent care assistance program who are included in a unit of employees covered by an agreement which the Secretary finds to be a collective bargaining agreement between employee representatives and 1 or more employees, if there is evidence that dependent care benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (e) Definitions and special rules
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 > &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
-(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803.)
+(Added Pub. L. 97–34, title I, §124(e)(1), Aug. 13, 1981, 95 Stat. 198; amended Pub. L. 97–448, title I, §101(e), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 98–369, div. A, title IV, §474(r)(6), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title I, §104(b)(1), title XI, §§1114(b)(4), 1151(c)(5), (f), (g)(4), 1163(a), (b), Oct. 22, 1986, 100 Stat. 2104, 2450, 2503, 2506, 2507, 2510; Pub. L. 100–485, title VII, §703(c)(2), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 100–647, title I, §1011B(a)(14), (15), (18), (30), (31)(A), (c)(1), (2)(A), title III, §3021(a)(14), Nov. 10, 1988, 102 Stat. 3485, 3487–3489, 3631; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(a)(1)–(3)(C), Nov. 8, 1989, 103 Stat. 830, 832; Pub. L. 101–239, title VII, §7811(h)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 104–188, title I, §1431(c)(1)(B), Aug. 20, 1996, 110 Stat. 1803; Pub. L. 108–311, title II, §207(12), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### Codification
 
@@ -161,6 +161,8 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 A prior section 129 was renumbered section 140 of this title.
 
 #### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)”.
 
 1996—Subsec. (d)(8)(B). Pub. L. 104–188 substituted “section 414(q)(4)” for “section 414(q)(7)”.
 
@@ -220,7 +222,7 @@ Subsec. (c)(1). Pub. L. 99–514, §104(b)(1)(A), substituted “section 151(c)�
 
 Subsec. (c)(2). Pub. L. 99–514, §104(b)(1)(B), substituted “section 151(c)(3)” for “section 151(e)(3)”.
 
-Subsec. (d)(1). Pub. L. 99–514, §1151(c)(5)(A), added par. (1) and struck out former par. (1) which read as follows: “For purposes of this section a dependent care assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with dependent care assistance which meets the requirements of paragraphs (2) through (7) of this subsection.”
+Subsec. (d)(1). Pub. L. 99–514, §1151(c)(5)(A), added par. (1) and struck out former par. (1) which read as follows: “For purposes of this section a dependent care assistance program is a separate written plan of an employer for the exclusive benefit of his employees to providesuch employees with dependent care assistance which meets the requirements of paragraphs (2) through (7) of this subsection.”
 
 Subsec. (d)(2). Pub. L. 99–514, §1114(b)(4), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, owners, or highly compensated,”.
 
@@ -249,6 +251,10 @@ Subsec. (d)(3). Pub. L. 97–448, §101(e)(1)(A), (B), redesignated former par. 
 Subsec. (d)(4) to (7). Pub. L. 97–448, §101(e)(1)(A), redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
 Subsec. (e)(7). Pub. L. 97–448, §101(e)(2), substituted “shall be allowed to the employee under any other section of this chapter for any amount excluded from the gross income of the employee” for “shall be allowed under any other section of this chapter for any amount excluded from income”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -329,8 +335,4 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21, 51A, 414, 3121, 3306, 3401, 6039D, 6051 of this title; title 42 section 409.
 

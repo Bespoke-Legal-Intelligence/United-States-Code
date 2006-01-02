@@ -10,7 +10,7 @@ Nothing in this chapter shall affect the applicability of the United States mini
 
 &emsp;(iii) subject to valid existing rights, the minerals in Federal lands which are part of the system and constitute the bed or bank or are situated within one-quarter mile of the bank of any river designated a wild river under this chapter or any subsequent Act are hereby withdrawn from all forms of appropriation under the mining laws and from operation of the mineral leasing laws including, in both cases, amendments thereto.
 
-> Regulations issued pursuant to paragraphs (i) and (ii) of this subsection shall, among otherthings, provide safeguards against pollution of the river involved and unnecessary impairment of the scenery within the component in question.
+> Regulations issued pursuant to paragraphs (i) and (ii) of this subsection shall, among other things, provide safeguards against pollution of the river involved and unnecessary impairment of the scenery within the component in question.
 
 #### (b) Withdrawal from appropriation of minerals in Federal river beds or bank areas; prospecting, leases, licenses, and permits
 

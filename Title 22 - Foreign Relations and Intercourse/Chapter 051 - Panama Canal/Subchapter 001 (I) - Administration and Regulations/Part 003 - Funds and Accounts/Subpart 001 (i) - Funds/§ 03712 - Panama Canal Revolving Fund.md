@@ -50,7 +50,7 @@ With the approval of the Secretary of the Treasury, the Commission may deposit a
 
 #### (e) Termination of Commission and Office of Transition Administration; transfer of Fund
 
-(1) The Panama Canal Commission and the Office of Transition Administration (described insection 3504 of Public Law 106–65) shall terminate on October 1, 2004.
+(1) The Panama Canal Commission and the Office of Transition Administration (described in section 3504 of Public Law 106–65) shall terminate on October 1, 2004.
 
 (2) Upon termination pursuant to paragraph (1), the Panama Canal Revolving Fund shall be transferred to the General Services Administration (GSA). GSA shall use the amounts in the Fund to make payments of any outstanding liabilities of the Commission, as well as any expenses associated with the termination of the Office of Transition Administration and the Commission. The fund shall be the exclusive source available for payment of any outstanding liabilities of the Commission.
 

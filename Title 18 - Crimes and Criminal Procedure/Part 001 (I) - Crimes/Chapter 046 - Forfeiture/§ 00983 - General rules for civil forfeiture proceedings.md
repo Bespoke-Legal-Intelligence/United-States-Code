@@ -68,7 +68,7 @@ Notice; Claim; Complaint.—
 
 > &emsp;the Government shall promptly release the property pursuant to regulations promulgated by the Attorney General, and may not take any further action to effect the civil forfeiture of such property in connection with the underlying offense.
 
-&emsp;(C) In lieu of, or in addition to, filing a civil forfeiture complaint, the Government may include a forfeiture allegation in a criminal indictment. If criminal forfeiture is the only forfeiture proceeding commenced by the Government, the Government's right to continued possession of the property shall be governed by the applicable criminal forfeiture statute.
+&emsp;(C) In lieu of, or in addition to, filing a civil forfeiture complaint, the Government may include a forfeiture allegation in a criminal indictment. If criminal forfeiture is the only forfeiture proceeding commenced by the Government, the Government's right to continuedpossession of the property shall be governed by the applicable criminal forfeiture statute.
 
 &emsp;(D) No complaint may be dismissed on the ground that the Government did not have adequate evidence at the time the complaint was filed to establish the forfeitability of the property.
 
@@ -206,7 +206,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(E) none of the conditions set forth in paragraph (8) applies.
 
-&emsp;(2) A claimant seeking release of property under this subsection must request possession of the property from the appropriate official, and the request must set forth the basis on which the requirements of paragraph (1) are met.
+&emsp;(2) A claimant seeking release of property under this subsection must request possession of the property from the appropriate official,and the request must set forth the basis on which the requirements of paragraph (1) are met.
 
 &emsp;(3)(A) If not later than 15 days after the date of a request under paragraph (2) the property has not been released, the claimant may file a petition in the district court in which the complaint has been filed or, if no complaint has been filed, in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
 
@@ -310,7 +310,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561,§3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310.)
 
 #### References in Text
 
@@ -337,10 +337,6 @@ The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the
 2000—Subsec. (a)(2)(C)(ii). Pub. L. 106–561 struck out “(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous” after “such property”.
 
 Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Effective Date of 2000 Amendment
 

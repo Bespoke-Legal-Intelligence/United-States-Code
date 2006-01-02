@@ -56,7 +56,7 @@
 
 (c)(1) Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (d)(1) of this section shall be reduced by $100 for each of the first 12 months that such individual is entitled to such pay.
 
-(2) In the case of an individual covered by paragraph (1) who is a member of the Selected Reserve, the Secretary of Defense shall collect from the individual an amount equal to $1,200not later than one year after completion by the individual of the two years of service on active duty providing the basis for such entitlement. The Secretary of Defense may collect such amount through reductions in basic pay in accordance with paragraph (1) or through such other method as the Secretary of Defense considers appropriate.
+(2) In the case of an individual covered by paragraph (1) who is a member of the Selected Reserve, the Secretary of Defense shall collect from the individual an amount equal to $1,200 not later than one year after completion by the individual of the two years of service on active duty providing the basis for such entitlement. The Secretary of Defense may collect such amount through reductions in basic pay in accordance with paragraph (1) or through such other method as the Secretary of Defense considers appropriate.
 
 (3) Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual.
 
@@ -186,7 +186,7 @@ Subsec. (a)(1)(B). Pub. L. 99–576, §307(a)(2), inserted “and was on active 
 
 Subsec. (b)(1). Pub. L. 99–576, §321(2)(B), inserted “such” after “three and one-half years of”.
 
-Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted “Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual” for “Any amounts withheld from basic pay under this paragraph shall revert to the Treasury”.
+Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted “Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to bewithin the control of such individual” for “Any amounts withheld from basic pay under this paragraph shall revert to the Treasury”.
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 

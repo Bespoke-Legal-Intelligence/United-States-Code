@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-There is hereby imposed a tax on any failure of a group health plan to meet the requirements of chapter 100 (relating to group health plans requirements).
+There is hereby imposed a tax on any failure of a group health plan to meet the requirements of chapter 100 (relating to group health plan requirements).
 
 #### (b) Amount of tax
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the person to whom the failure relates is placed in a financial position which is as good as such person would have been in had such failure not occurred.
 
-(Added Pub. L. 104–191, title IV, §402(a), Aug. 21, 1996, 110 Stat. 2084; amended Pub. L. 105–34, title XV, §1531(b)(2), Aug. 5, 1997, 111 Stat. 1085.)
+(Added Pub. L. 104–191, title IV, §402(a), Aug. 21, 1996, 110 Stat. 2084; amended Pub. L. 105–34, title XV, §1531(b)(2), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 109–135, title IV, §412(ww), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### References in Text
 
@@ -161,6 +161,8 @@ Section 3(40) of the Employee Retirement Income Security Act of 1974, referred t
 The date of the enactment of this section, referred to in subsec. (f)(2)(B), is the date of enactment of Pub. L. 104–191, which was approved Aug. 21, 1996.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–135 substituted “plan requirements” for “plans requirements”.
 
 1997—Subsec. (a). Pub. L. 105–34, §1531(b)(2)(A), substituted “plans” for “plan portability, access, and renewability”.
 
@@ -179,8 +181,4 @@ Section 1531(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 #### Effective Date
 
 Section 402(c) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting this section\] shall apply to failures under chapter 100 of the Internal Revenue Code of 1986 (as added by section 401 of this Act).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9812 of this title.
 

@@ -6,9 +6,10 @@
 | [1072\.](%C2%A7%2001072%20-%20Definitions.md) | Definitions. |
 | [1073\.](%C2%A7%2001073%20-%20Administration%20of%20this%20chapter.md) | Administration of this chapter. |
 | [1073a.](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md) | Contracts for health care: best value contracting. |
+| [1073b.](%C2%A7%2001073b%20-%20Recurring%20reports.md) | Recurring reports. |
 | [1074\.](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md) | Medical and dental care for members and certain former members. |
 | [1074a.](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md) | Medical and dental care: members on duty other than active duty for a period of more than 30 days. |
-| \[1074b. | Repealed.\] |
+| [1074b.](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md) | Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC. |
 | [1074c.](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md) | Medical care: authority to provide a wig. |
 | [1074d.](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md) | Certain primary and preventive health care services. |
 | [1074e.](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md) | Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict. |
@@ -18,11 +19,12 @@
 | [1074i.](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md) | Reimbursement for certain travel expenses. |
 | [1074j.](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md) | Sub-acute care program. |
 | [1074k.](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md) | Long-term care insurance. |
-| [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
+| \[1075. | Repealed.\] |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
-| [1076b.](%C2%A7%2001076b%20-%20TRICARE%20program%20coverage%20for%20members%20of%20the%20Ready%20Reserve.md) | TRICARE program: coverage for members of the Ready Reserve. |
+| [1076b.](%C2%A7%2001076b%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md) | TRICARE program: TRICARE Standard coverage for members of the Selected Reserve. |
 | [1076c.](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md) | Dental insurance plan: certain retirees and their surviving spouses and other dependents. |
+| [1076d.](%C2%A7%2001076d%20-%20TRICARE%20program%20coverage%20for%20members%20of%20reserve%20components%20who%20commit%20to%20continued%20service%20in%20the%20Selected%20Reserve%20after%20release%20from%E2%80%A6.md) | TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation. |
 | [1077\.](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md) | Medical care for dependents: authorized care in facilities of uniformed services. |
 | [1078\.](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md) | Medical and dental care for dependents: charges. |
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
@@ -44,6 +46,7 @@
 | [1090\.](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md) | Identifying and treating drug and alcohol dependence. |
 | [1091\.](%C2%A7%2001091%20-%20Personal%20services%20contracts.md) | Personal services contracts. |
 | [1092\.](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md) | Studies and demonstration projects relating to delivery of health and medical care. |
+| [1092a.](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md) | Persons entering the armed forces: baseline health data. |
 | [1093\.](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md) | Performance of abortions: restrictions. |
 | [1094\.](%C2%A7%2001094%20-%20Licensure%20requirement%20for%20health-care%20professionals.md) | Licensure requirement for health-care professionals. |
 | [1094a.](%C2%A7%2001094a%20-%20Continuing%20medical%20education%20requirements%20system%20for%20monitoring%20physician%20compliance.md) | Continuing medical education requirements: system for monitoring physician compliance. |
@@ -76,6 +79,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title VII, §§701(f)(2), 702(a)(2), Jan. 6, 2006, 119 Stat. 3340, 3342, substituted “TRICARE program: TRICARE Standard coverage for members of the Selected Reserve” for “TRICARE program: coverage for members of the Ready Reserve” in item 1076b and “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation” for “TRICARE program: coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty” in item 1076d.
+
+2004—Pub. L. 108–375, div. A, title V, §555(a)(2), title VI, §607(a)(2), title VII, §§701(a)(2), 733(a)(2), 739(a)(2), title X, §1084(d)(7), Oct. 28, 2004, 118 Stat. 1914, 1946, 1981, 1998, 2002, 2061, added items 1073b, 1074b, 1076d, and 1092a, reenacted item 1076b without change, and struck out item 1075 “Officers and certain enlisted members: subsistence charges”.
 
 2003—Pub. L. 108–136, div. A, title XVI, §1603(b)(2), Nov. 24, 2003, 117 Stat. 1690, added item 1107a.
 
@@ -135,10 +142,6 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 
 1958—Pub. L. 85–861, §1(25)(A), (C), Sept. 2, 1958, 72 Stat. 1445, 1450, substituted “Medical and Dental Care” for “Voting by Members of Armed Forces” in heading of chapter, and substituted items 1071 to 1085 for former items 1071 to 1086.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 129c, 1490 of this title; title 14 sections 668, 705; title 26 sections 35, 9801, 9832; title 29 sections 1181, 1191b, 2918; title 38 sections 1781, 7423, 8111; title 42 sections 300gg, 300gg–91, 1395w–21, 1395w–113, 1395w–134, 1395w–141, 14402, 14405.
-
 
 ---
 
@@ -148,9 +151,10 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01072 - Definitions](%C2%A7%2001072%20-%20Definitions.md)
 - [&sect; 01073 - Administration of this chapter](%C2%A7%2001073%20-%20Administration%20of%20this%20chapter.md)
 - [&sect; 01073a - Contracts for health care best value contracting](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md)
+- [&sect; 01073b - Recurring reports](%C2%A7%2001073b%20-%20Recurring%20reports.md)
 - [&sect; 01074 - Medical and dental care for members and certain former members](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md)
 - [&sect; 01074a - Medical and dental care members on duty other than active duty for a period of more than 30 days](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md)
-- [&sect; 01074b - Repealed. Pub. L. 107&#8211;107, div. A, title VII, &sect;736(c)(1), Dec. 28, 2001, 115 Stat. 1173](%C2%A7%2001074b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20VII%2C%20%C2%A7736%28c%29%281%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201173.md)
+- [&sect; 01074b - Medical and dental care Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md)
 - [&sect; 01074c - Medical care authority to provide a wig](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md)
 - [&sect; 01074d - Certain primary and preventive health care services](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md)
 - [&sect; 01074e - Medical care certain Reserves who served in Southwest Asia during the Persian Gulf Conflict](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md)
@@ -160,11 +164,12 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01074i - Reimbursement for certain travel expenses](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md)
 - [&sect; 01074j - Sub-acute care program](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md)
 - [&sect; 01074k - Long-term care insurance](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md)
-- [&sect; 01075 - Officers and certain enlisted members subsistence charges](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md)
+- [&sect; 01075 - Repealed. Pub. L. 108&#8211;375, div. A, title VI, &sect;607(a)(1), Oct. 28, 2004, 118 Stat. 1946](%C2%A7%2001075%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20VI%2C%20%C2%A7607%28a%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%201946.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
-- [&sect; 01076b - TRICARE program coverage for members of the Ready Reserve](%C2%A7%2001076b%20-%20TRICARE%20program%20coverage%20for%20members%20of%20the%20Ready%20Reserve.md)
+- [&sect; 01076b - TRICARE program TRICARE Standard coverage for members of the Selected Reserve](%C2%A7%2001076b%20-%20TRICARE%20program%20TRICARE%20Standard%20coverage%20for%20members%20of%20the%20Selected%20Reserve.md)
 - [&sect; 01076c - Dental insurance plan certain retirees and their surviving spouses and other dependents](%C2%A7%2001076c%20-%20Dental%20insurance%20plan%20certain%20retirees%20and%20their%20surviving%20spouses%20and%20other%20dependents.md)
+- [&sect; 01076d - TRICARE program coverage for members of reserve components who commit to continued service in the Selected Reserve after release from&#8230;](%C2%A7%2001076d%20-%20TRICARE%20program%20coverage%20for%20members%20of%20reserve%20components%20who%20commit%20to%20continued%20service%20in%20the%20Selected%20Reserve%20after%20release%20from%E2%80%A6.md)
 - [&sect; 01077 - Medical care for dependents authorized care in facilities of uniformed services](%C2%A7%2001077%20-%20Medical%20care%20for%20dependents%20authorized%20care%20in%20facilities%20of%20uniformed%20services.md)
 - [&sect; 01078 - Medical and dental care for dependents charges](%C2%A7%2001078%20-%20Medical%20and%20dental%20care%20for%20dependents%20charges.md)
 - [&sect; 01078a - Continued health benefits coverage](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md)
@@ -186,6 +191,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01090 - Identifying and treating drug and alcohol dependence](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md)
 - [&sect; 01091 - Personal services contracts](%C2%A7%2001091%20-%20Personal%20services%20contracts.md)
 - [&sect; 01092 - Studies and demonstration projects relating to delivery of health and medical care](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md)
+- [&sect; 01092a - Persons entering the armed forces baseline health data](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md)
 - [&sect; 01093 - Performance of abortions restrictions](%C2%A7%2001093%20-%20Performance%20of%20abortions%20restrictions.md)
 - [&sect; 01094 - Licensure requirement for health-care professionals](%C2%A7%2001094%20-%20Licensure%20requirement%20for%20health-care%20professionals.md)
 - [&sect; 01094a - Continuing medical education requirements system for monitoring physician compliance](%C2%A7%2001094a%20-%20Continuing%20medical%20education%20requirements%20system%20for%20monitoring%20physician%20compliance.md)

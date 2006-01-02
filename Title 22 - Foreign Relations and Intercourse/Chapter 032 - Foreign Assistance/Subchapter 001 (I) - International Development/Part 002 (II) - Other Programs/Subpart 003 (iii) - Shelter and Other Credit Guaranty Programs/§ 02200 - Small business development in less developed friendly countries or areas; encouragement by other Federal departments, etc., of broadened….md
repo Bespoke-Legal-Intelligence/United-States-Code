@@ -18,7 +18,7 @@ The Corporation shall collect data on the involvement of minority- and women-own
 
 #### Prior Provisions
 
-A prior section 2200, Pub. L. 87–195, pt. I, §240, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 817; amended Pub. L. 92–226, pt. I, §104(c), Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §6(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, §2(6), Aug. 27, 1974, 88 Stat. 768, provided for agricultural credit and self-help communitydevelopment projects in Latin America, prior to repeal by Pub. L. 93–559, §8(b), Dec. 30, 1974, 88 Stat. 1797. See section 2182a of this title.
+A prior section 2200, Pub. L. 87–195, pt. I, §240, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 817; amended Pub. L. 92–226, pt. I, §104(c), Feb. 7, 1972, 86 Stat. 22; Pub. L. 93–189, §6(2), Dec. 17, 1973, 87 Stat. 717; Pub. L. 93–390, §2(6), Aug. 27, 1974, 88 Stat. 768, provided for agricultural credit and self-help community development projects in Latin America, prior to repeal by Pub. L. 93–559, §8(b), Dec. 30, 1974, 88 Stat. 1797. See section 2182a of this title.
 
 #### Amendments
 

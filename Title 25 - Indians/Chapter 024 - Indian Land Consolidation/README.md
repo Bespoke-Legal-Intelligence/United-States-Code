@@ -9,9 +9,9 @@
 | (b) | Conveyancing requirement; specific findings for nonexecution. |
 | (c) | Below market value conveyance of Cherokee Nation of Oklahoma homesites. |
 | [2204\.](%C2%A7%2002204%20-%20Purchase%20of%20trust%20or%20restricted%20or%20controlled%20lands%20at%20no%20less%20than%20fair%20market%20value%3B%20requisite%20conditions.md) | Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions. |
-| (a) | In general. |
+| (a) | Purchase of land. |
 | (b) | Conditions applicable to purchase. |
-| (d) | Partition of highly fractionated Indian lands. |
+| (c) | Partition of highly fractionated Indian lands. |
 | [2205\.](%C2%A7%2002205%20-%20Tribal%20probate%20codes%3B%20acquisitions%20of%20fractional%20interests%20by%20tribes.md) | Tribal probate codes; acquisitions of fractional interests by tribes. |
 | (a) | Tribal probate codes. |
 | (b) | Secretarial approval. |
@@ -24,16 +24,15 @@
 | (d) | Descent of off-reservation lands. |
 | (e) | Approval of agreements. |
 | (f) | Estate planning assistance. |
-| (g) | Repealed. |
-| (h) | Applicable Federal law. |
-| (i) | Rules of interpretation. |
-| (j) | Heirship by killing. |
-| (k) | General rules governing probate. |
-| (<i>l</i>) | Notification to landowners. |
-| (m) | Pilot project for the management of trust assets of Indian families and relatives. |
-| (n) | Notice to heirs. |
-| (<i>o</i>) | Missing heirs. |
-| (p) | Purchase option at probate. |
+| (g) | Applicable Federal law. |
+| (h) | Rules of interpretation. |
+| (i) | Heirship by killing. |
+| (j) | General rules governing probate. |
+| (k) | Notification to landowners. |
+| (<i>l</i>) | Pilot project for the management of trust assets of Indian families and relatives. |
+| (m) | Notice to heirs. |
+| (n) | Missing heirs. |
+| (<i>o</i>) | Purchase option at probate. |
 | [2207\.](%C2%A7%2002207%20-%20Full%20faith%20and%20credit%20to%20tribal%20actions%20under%20tribal%20ordinances%20limiting%20descent%20and%20distribution%20of%20trust%20or%20restricted%20or%20controlled%E2%80%A6.md) | Full faith and credit to tribal actions under tribal ordinances limiting descent and distribution of trust or restricted or controlled lands. |
 | [2208\.](%C2%A7%2002208%20-%20Conveyancing%20authority%20upon%20sale%20or%20exchange%20of%20tribal%20lands%3B%20removal%20of%20trust%20status%20of%20individually%20owned%20lands.md) | Conveyancing authority upon sale or exchange of tribal lands; removal of trust status of individually owned lands. |
 | [2209\.](%C2%A7%2002209%20-%20Trusteeship%20title%20of%20United%20States%20for%20any%20Indian%20or%20Indian%20tribe.md) | Trusteeship title of United States for any Indian or Indian tribe. |

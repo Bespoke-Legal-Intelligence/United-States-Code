@@ -106,7 +106,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refun
 
 #### Effective Date
 
-Section applicable with respect to refunds payable under section 6402 of Title 26, Internal Revenue Code, after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 6402 of Title 26.
+Section applicable with respect to refunds payable under section 6402 of Title 26, Internal Revenue Code,after Dec. 31, 1985, see section 2653(c) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 6402 of Title 26.
 
 #### Clarification of Congressional Intent as to Scope of Amendments by Section 2653 of Pub. L. 98–369
 

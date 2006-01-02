@@ -22,7 +22,7 @@ Section 6421(i), referred to in subsec. (a)(2), was repealed by Pub. L. 103–66
 
 #### Prior Provisions
 
-A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139; Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repeal by Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
+A prior section 34, acts Aug. 16, 1954, ch. 736, 68A Stat. 13; June 25, 1959, Pub. L. 86–69, §3(a)(1), 73 Stat. 139;Sept. 14, 1960, Pub. L. 86–779, §10(e), 74 Stat. 1009; Feb. 26, 1964, Pub. L. 88–272, title II, §201(a), 78 Stat. 31, related to dividends received by individuals, prior to repeal by Pub. L. 88–272, title II, §201(b), Feb. 26, 1964, 78 Stat. 31, effective with respect to dividends received after Dec. 31, 1964.
 
 #### Amendments
 
@@ -135,10 +135,6 @@ Amendment by Pub. L. 91–258 applicable with respect to taxable years ending af
 #### Effective Date
 
 Section applicable to taxable years beginning on or after July 1, 1965, see section 809(f) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 6420 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 774, 874, 882, 995, 1366, 1374, 1375, 1503, 4682, 6211, 6213, 6420, 6421, 6427, 9502, 9503, 9508 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

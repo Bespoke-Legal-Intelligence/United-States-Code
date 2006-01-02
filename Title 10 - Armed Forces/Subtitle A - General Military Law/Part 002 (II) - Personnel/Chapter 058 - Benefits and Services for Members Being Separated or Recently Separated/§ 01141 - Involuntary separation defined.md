@@ -1,6 +1,6 @@
 ### §1141. Involuntary separation defined
 
-A member of the armed forces shall be considered to be involuntarily separated for purposes of this chapter if the member was on active duty or full-time National Guard duty on September 30, 1990, or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994, and—
+A member of the armed forces shall be considered to be involuntarily separated for purposes of this chapter if the member was on active duty or full-time National Guard duty on September30, 1990, or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994, and—
 
 &emsp;(1) in the case of a regular officer (other than a retired officer), the officer is involuntarily discharged under other than adverse conditions, as characterized by the Secretary concerned;
 
@@ -25,8 +25,4 @@ Section 542(e) of Pub. L. 103–337 provided that: “This section \[amending th
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1174a, 1175 of this title; title 20 section 932; title 29 section 2918; title 37 sections 404, 406; title 38 section 3018A; title 42 section 3796dd.
 

@@ -34,7 +34,7 @@ In conducting an evaluation of a university center or economic development distr
 
 #### Prior Provisions
 
-A prior section 3196, Pub. L. 89–136, title V, §517, as added Pub. L. 94–188, title II, §206, Dec. 31, 1975, 89 Stat. 1090, related to vocational and technical educational demonstration projects, prior to repeal by Pub. L. 97–35, title XVIII, §1821(a)(8), Aug. 13, 1981, 95 Stat. 766, effective Sept. 30, 1981.
+A prior section 3196, Pub. L. 89–136, title V, §517, as added Pub. L. 94–188, title II, §206, Dec. 31, 1975, 89 Stat.1090, related to vocational and technical educational demonstration projects, prior to repeal by Pub. L. 97–35, title XVIII, §1821(a)(8), Aug. 13, 1981, 95 Stat. 766, effective Sept. 30, 1981.
 
 A prior section 506 of Pub. L. 89–136 was classified to section 3186 of this title prior to repeal by Pub. L. 97–35, §1821(a)(8).
 

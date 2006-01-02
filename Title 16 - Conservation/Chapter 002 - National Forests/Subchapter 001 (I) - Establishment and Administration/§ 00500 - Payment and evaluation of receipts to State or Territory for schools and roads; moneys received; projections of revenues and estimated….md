@@ -1,6 +1,6 @@
 ### §500. Payment and evaluation of receipts to State or Territory for schools and roads; moneys received; projections of revenues and estimated payments
 
-On and after May 23, 1908, twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term“moneys received” shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
+On and after May 23, 1908, twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term “moneys received” shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
 (May 23, 1908, ch. 192, 35 Stat. 260; Mar. 1, 1911, ch. 186, §13, 36 Stat. 963; June 30, 1914, ch. 131, 38 Stat. 441; Sept. 21, 1944, ch. 412, title II, §212, 58 Stat. 737; Apr. 24, 1950, ch. 97, §17(b), 64 Stat. 87; Pub. L. 94–588, §16, Oct. 22, 1976, 90 Stat. 2961.)
 
@@ -106,7 +106,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(10) This decline in shared revenues has affected educational funding and road maintenance for many counties.
 
-&emsp;“(11) In the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\], Congress recognized this trend and ameliorated its adverse consequences by providing an alternative annual safety net payment to 72 counties in Oregon, Washington, and northern California in which Federal timber sales had been restricted or prohibited by administrative and judicial decisions to protect the northern spotted owl.
+&emsp;“(11) In the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\], Congress recognized this trend and ameliorated itsadverse consequences by providing an alternative annual safety net payment to 72 counties in Oregon, Washington, and northern California in which Federal timber sales had been restricted or prohibited by administrative and judicial decisions to protect the northern spotted owl.
 
 &emsp;“(12) The authority for these particular safety net payments is expiring and no comparable authority has been granted for alternative payments to counties elsewhere in the United States that have suffered similar losses in shared revenues from the Federal lands and in the funding for schools and roads those revenues provide.
 
@@ -158,7 +158,7 @@ Eligibility period.—The term ‘eligibility period’ means fiscal year 1986 t
 
 &emsp;“(3)
 
-Eligible county.—The term ‘eligible county’ means a county that received 50-percent payments for one or more fiscal years of the eligibility periodor a county that received a portion of an eligible State's 25-percent payments for one or more fiscal years of the eligibility period. The term includes a county established after the date of the enactment of this Act \[Oct. 30, 2000\] so long as the county includes all or a portion of a county described in the preceding sentence.
+Eligible county.—The term ‘eligible county’ means a county that received 50-percent payments for one or more fiscal years of the eligibility period or a county that received a portion of an eligible State's 25-percent payments for one or more fiscal years of the eligibility period. The term includes a county established after the date of the enactment of this Act \[Oct. 30, 2000\] so long as the county includes all or a portion of a county described in the preceding sentence.
 
 &emsp;“(4)
 
@@ -284,7 +284,7 @@ In general.—An eligible county shall notify the Secretary of Agriculture of it
 
 &emsp;&emsp;“(B)
 
-Counties with minor distributions.—Notwithstanding any adjustment made pursuant tosection 101(b) in the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to subsection (c)(1), the eligible county may elect to expend all such funds in accordance with subsection (c)(2).
+Counties with minor distributions.—Notwithstanding any adjustment made pursuant to section 101(b) in the case of each eligible county to which less than $100,000 is distributed for any fiscal year pursuant to subsection (c)(1), the eligible county may elect to expend all such funds in accordance with subsection (c)(2).
 
 “(e)
 
@@ -348,7 +348,7 @@ Treatment of title iii funds.—Funds reserved by an eligible county under parag
 
 &emsp;“(3)
 
-Election.—An eligible county shall notify the Secretary of the Interior of its election under this subsection not later than September 30 of each fiscal year. If the eligible county fails to make an election by that date, the county is deemed to have elected to expend 85 percent of the funds received under subsection (a)(2) in the same manner in which the 50-percent payments are required to be expended and shall remit the balance to the Treasury of the United States in accordance with section 402(b).
+Election.—An eligible county shall notify the Secretary of the Interior of its election under this subsection not later than September 30 of each fiscal year. If the eligible county fails to make an election by that date, the county is deemed to have elected to expend 85 percent of the funds received under subsection (a)(2) in the same manner in which the 50-percent payments are required to be expended and shallremit the balance to the Treasury of the United States in accordance with section 402(b).
 
 “(d)
 
@@ -526,7 +526,7 @@ Annual percentages.—Under the pilot program, the Secretary concerned shall ens
 
 &emsp;&emsp;“(C)
 
-Inclusion in pilot program.—The decision whether to use separate contracts to implement a project involving the sale of merchantable materialshall be made by the Secretary concerned after the approval of the project under this title.
+Inclusion in pilot program.—The decision whether to use separate contracts to implement a project involving the sale of merchantable material shall be made by the Secretary concerned after the approval of the project under this title.
 
 &emsp;&emsp;“(D)
 
@@ -730,7 +730,7 @@ Subsequent transfers for multiyear projects.—For the second and subsequent fis
 
 “(a)
 
-Submission of Proposed Projects To Obligate Funds.—By September 30 of each fiscal year through fiscal year 2006, a resource advisory committee shall submit to the Secretary concerned pursuant to section 203(a)(1) a sufficient number of project proposals that, if approved, would result in the obligation of at least the full amount of the project funds reserved by the participating county in the preceding fiscal year.
+Submission of Proposed Projects To Obligate Funds.—By September 30 of each fiscal year through fiscal year 2006, a resource advisory committee shall submit to the Secretary concerned pursuant to section 203(a)(1) a sufficient number of project proposals that, if approved, would result in the obligation of at leastthe full amount of the project funds reserved by the participating county in the preceding fiscal year.
 
 “(b)
 
@@ -950,7 +950,7 @@ Development of recommendations.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Advisory Committee shall develop recommendations for policy or legislative initiatives (or both) regarding alternatives for, or substitutes to, the payments required to be made to eligible States and eligible counties under the provisions of law referred to in paragraphs (3) and (4) of subsection (a) in order to provide a long-term method to generate annual payments to eligible States and eligible counties.
+In general.—The Advisory Committee shall develop recommendations for policy or legislative initiatives (or both) regarding alternatives for, or substitutes to, the payments required to be made toeligible States and eligible counties under the provisions of law referred to in paragraphs (3) and (4) of subsection (a) in order to provide a long-term method to generate annual payments to eligible States and eligible counties.
 
 &emsp;&emsp;“(B)
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations, as fiscal agents of the United States,
 
-&emsp;(2) such other officers and employees of any executive agency (as defined in section 105 oftitle 5) as the Director and the head of any such agency may from time to time, agree upon, on a reimbursement or other basis, or
+&emsp;(2) such other officers and employees of any executive agency (as defined in section 105 of title 5) as the Director and the head of any such agency may from time to time, agree upon, on a reimbursement or other basis, or
 
 &emsp;(3) both the alternatives specified in paragraphs (1) and (2).
 

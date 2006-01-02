@@ -10,13 +10,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 109–59, title XI, §11125(b)(19)(B), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, the table of parts is amended by striking out the item for part V.</i>
+
 #### Prior Provisions
 
 A prior subchapter J consisted of parts I to V, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5045, 5148 of this title.
 
 
 ---

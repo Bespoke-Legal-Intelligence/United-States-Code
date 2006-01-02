@@ -10,7 +10,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 &emsp;(3) the foreign base company services income for the taxable year (determined under subsection (e) and reduced as provided in subsection (b)(5)),
 
-&emsp;(4) the foreign base company shipping income for the taxable year (determined under subsection (f) and reduced as provided in subsection (b)(5)), and
+&emsp;\[(4) Repealed. Pub. L. 108–357, title IV, §415(a)(1), Oct. 22, 2004, 118 Stat. 1511\]
 
 &emsp;(5) the foreign base company oil related income for the taxable year (determined under subsection (g) and reduced as provided in subsection (b)(5)).
 
@@ -48,21 +48,9 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (5) Deductions to be taken into account
 
-&emsp;For purposes of subsection (a), the foreign personal holding company income, the foreign base company sales income, the foreign base company services income,,<sup>1</sup> the foreign base company shipping income, and the foreign base company oil related income shall be reduced, under regulations prescribed by the Secretary so as to take into account deductions (including taxes) properly allocable to such income. Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.
+&emsp;For purposes of subsection (a), the foreign personal holding company income, the foreign base company sales income, the foreign base company services income,,<sup>1</sup> and the foreign base company oil related income shall be reduced, under regulations prescribed by the Secretary so as to take into account deductions (including taxes) properly allocable to such income. Except to the extent provided in regulations prescribed by the Secretary, any interest which is paid or accrued by the controlled foreign corporation to any United States shareholder in such corporation (or any controlled foreign corporation related to such a shareholder) shall be allocated first to foreign personal holding company income which is passive income (within the meaning of section 904(d)(2)) of such corporation to the extent thereof. The Secretary may, by regulations, provide that the preceding sentence shall apply also to interest paid or accrued to other persons.
 
-#### (6) Special rules for foreign base company shipping income
-
-&emsp;Income of a corporation which is a foreign base company shipping income under paragraph (4) of subsection (a)—
-
-&emsp;&emsp;(A) shall not be considered foreign base company income of such corporation under any other paragraph of subsection (a) and
-
-&emsp;&emsp;(B) if distributed through a chain of ownership described under section 958(a), shall not be included in foreign base company income of another controlled foreign corporation in such chain.
-
-#### (7) Special exclusion for foreign base company shipping income
-
-&emsp;Income of a corporation which is foreign base company shipping income under paragraph (4) of subsection (a) shall be excluded from foreign base company income if derived by a controlled foreign corporation from, or in connection with, the use (or hiring or leasing for use) of an aircraft or vessel in foreign commerce between two points within the foreign country in which such corporation is created or organized and such aircraft or vessel is registered.
-
-#### (8) Foreign base company oil related income not treated as another kind of base company income
+#### (6) Foreign base company oil related income not treated as another kind of base company income
 
 &emsp;Income of a corporation which is foreign base company oil related income shall not be considered foreign base company income of such corporation under paragraph (2),<sup>2</sup> or (3) of subsection (a).
 
@@ -92,9 +80,9 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 &emsp;&emsp;The excess of gains over losses from transactions (including futures, forward, and similar transactions) in any commodities. This subparagraph shall not apply to gains or losses which—
 
-&emsp;&emsp;&emsp;(i) arise out of bona fide hedging transactions reasonably necessary to the conduct of any business by a producer, processor, merchant, or handler of a commodity in the manner in which such business is customarily and usually conducted by others,
+&emsp;&emsp;&emsp;(i) arise out of commodity hedging transactions (as defined in paragraph (5)(A)),
 
-&emsp;&emsp;&emsp;(ii) are active business gains or losses from the sale of commodities, but only if substantially all of the controlled foreign corporation's business is as an active producer, processor, merchant, or handler of commodities, or
+&emsp;&emsp;&emsp;(ii) are active business gains or losses from the sale of commodities, but only if substantially all of the controlled foreign corporation's commodities are property described in paragraph (1), (2), or (8) of section 1221(a), or
 
 &emsp;&emsp;&emsp;(iii) are foreign currency gains or losses (as defined in section 988(b)) attributable to any section 988 transactions.
 
@@ -108,17 +96,29 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (F) Income from notional principal contracts
 
-&emsp;&emsp;Net income from notional principal contracts.<sup>3</sup> Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
+&emsp;&emsp;Any item of income, gain, deduction, or loss from a notional principal contract entered into for purposes of hedging any item described in any preceding subparagraph shall not be taken into account for purposes of this subparagraph but shall be taken into account under such other subparagraph.
 
 #### (G) Payments in lieu of dividends
 
 &emsp;&emsp;Payments in lieu of dividends which are made pursuant to an agreement to which section 1058 applies.
 
+#### (I) <sup>3</sup> Personal service contracts
+
+&emsp;&emsp;(i) Amounts received under a contract under which the corporation is to furnish personal services if—
+
+&emsp;&emsp;&emsp;(I) some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or
+
+&emsp;&emsp;&emsp;(II) the individual who is to perform the services is designated (by name or by description) in the contract, and
+
+&emsp;&emsp;(ii) amounts received from the sale or other disposition of such a contract.
+
+> &emsp;&emsp;This subparagraph shall apply with respect to amounts received for services under a particular contract only if at some time during the taxable year 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for the individual who has performed, is to perform,or may be designated (by name or by description) as the one to perform, such services.
+
 #### (2) Exception for certain amounts
 
 #### (A) Rents and royalties derived in active business
 
-&emsp;&emsp;Foreign personal holding company income shall not include rents and royalties which are derived in the active conduct of a trade or business and which are received from a person other than a related person (within the meaning of subsection (d)(3)).
+&emsp;&emsp;Foreign personal holding company income shall not include rents and royalties which are derived in the active conduct of a trade or business and which are received from a person other than a related person (within the meaning of subsection (d)(3)). For purposes of the preceding sentence, rents derived from leasing an aircraft or vessel in foreign commerce shall not fail to be treated as derived in the active conduct of a trade or business if, as determined under regulations prescribed by the Secretary, the active leasing expenses are not less than 10 percent of the profit on the lease.
 
 #### (B) Certain export financing
 
@@ -128,7 +128,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 &emsp;&emsp;Except as provided by regulations, in the case of a regular dealer in property which is property described in paragraph (1)(B), forward contracts, option contracts, or similar financial instruments (including notional principal contracts and all instruments referenced to commodities), there shall not be taken into account in computing foreign personal holding company income—
 
-&emsp;&emsp;&emsp;(i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions) entered into in the ordinary course of such dealer's trade or business as such a dealer, and
+&emsp;&emsp;&emsp;(i) any item of income, gain, deduction, or loss (other than any item described in subparagraph (A), (E), or (G) of paragraph (1)) from any transaction (including hedging transactions and transactions involving physical settlement) entered into in the ordinary course of such dealer's trade or business as such a dealer, and
 
 &emsp;&emsp;&emsp;(ii) if such dealer is a dealer in securities (within the meaning of section 475), any interest or dividend or equivalent amount described in subparagraph (E) or (G) of paragraph (1) from any transaction (including any hedging transaction or transaction described in section 956(c)(2)(J)) entered into in the ordinary course of such dealer's trade or business as such a dealer in securities, but only if the income from the transaction is attributable to activities of the dealer in the country under the laws of which the dealer is created or organized (or in the case of a qualified business unit described in section 989(a), is attributable to activities of the unit in the country in which the unit both maintains its principal office and conducts substantial business activity).
 
@@ -152,6 +152,40 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 &emsp;&emsp;Subparagraph (A)(i) shall not apply to any dividend with respect to any stock which is attributable to earnings and profits of the distributing corporation accumulated during any period during which the person receiving such dividend did not hold such stock either directly, or indirectly through a chain of one or more subsidiaries each of which meets the requirements of subparagraph (A)(i).
 
+#### (4) Look-thru rule for certain partnership sales
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any sale by a controlled foreign corporation of an interest in a partnership with respect to which such corporation is a 25-percent owner, such corporation shall be treated for purposes of this subsection as selling the proportionate share of the assets of the partnership attributable to such interest. The Secretary shall prescribe such regulations as may be appropriate to prevent abuse of the purposes of this paragraph, including regulations providing for coordination of this paragraph with the provisions of subchapter K.
+
+#### (B) 25-percent owner
+
+&emsp;&emsp;For purposes of this paragraph, the term “25-percent owner” means a controlled foreign corporation which owns directly 25 percent or more of the capital or profits interest in a partnership. For purposes of the preceding sentence, if a controlled foreign corporation is a shareholder or partner of a corporation or partnership, the controlled foreign corporation shall be treated as owning directly its proportionate share of any such capital or profits interest held directly or indirectly by such corporation or partnership. If a controlled foreign corporation is treated as owning a capital or profits interest in a partnership under constructive ownership rules similar to the rules of section 958(b), the controlled foreign corporation shall be treated as owning such interest directly for purposes of this subparagraph.
+
+#### (5) Definition and special rules relating to commodity transactions
+
+#### (A) Commodity hedging transactions
+
+&emsp;&emsp;For purposes of paragraph (1)(C)(i), the term “commodity hedging transaction” means any transaction with respect to a commodity if such transaction—
+
+&emsp;&emsp;&emsp;(i) is a hedging transaction as defined in section 1221(b)(2), determined—
+
+&emsp;&emsp;&emsp;&emsp;(I) without regard to subparagraph (A)(ii) thereof,
+
+&emsp;&emsp;&emsp;&emsp;(II) by applying subparagraph (A)(i) thereof by substituting “ordinary property or property described in section 1231(b)” for “ordinary property”, and
+
+&emsp;&emsp;&emsp;&emsp;(III) by substituting “controlled foreign corporation” for “taxpayer” each place it appears, and
+
+&emsp;&emsp;&emsp;(ii) is clearly identified as such in accordance with section 1221(a)(7).
+
+#### (B) Treatment of dealer activities under paragraph (1)(C)
+
+&emsp;&emsp;Commodities with respect to which gains and losses are not taken into account under paragraph (2)(C) in computing a controlled foreign corporation's foreign personal holding company income shall not be taken into account in applying the substantially all test under paragraph (1)(C)(ii) to such corporation.
+
+#### (C) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (1)(C) in the case of transactions involving related parties.
+
 #### (d) Foreign base company sales income
 
 #### (1) In general
@@ -166,7 +200,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (2) Certain branch income
 
-&emsp;For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a controlled foreign corporation through a branch or similar establishment outside the country of incorporation of the controlled foreign corporation has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch or similar establishment shall be treated as income derived by a wholly owned subsidiary of the controlled foreign corporation and shallconstitute foreign base company sales income of the controlled foreign corporation.
+&emsp;For purposes of determining foreign base company sales income in situations in which the carrying on of activities by a controlled foreign corporation through a branch or similar establishment outside the country of incorporation of the controlled foreign corporation has substantially the same effect as if such branch or similar establishment were a wholly owned subsidiary corporation deriving such income, under regulations prescribed by the Secretary the income attributable to the carrying on of such activities of such branch or similar establishment shall be treated as income derived by a wholly owned subsidiary of the controlled foreign corporation and shall constitute foreign base company sales income of the controlled foreign corporation.
 
 #### (3) Related person defined
 
@@ -192,7 +226,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(3), the term “foreign base company services income” means income (whether in the form of compensation, commissions, fees, or otherwise) derived in connection with the performance of technical, managerial, engineering, architectural, scientific, skilled, industrial, commercial, or like services which—
+&emsp;For purposes of subsection (a)(3), the term “foreign base company services income”means income (whether in the form of compensation, commissions, fees, or otherwise) derived in connection with the performance of technical, managerial, engineering, architectural, scientific, skilled, industrial, commercial, or like services which—
 
 &emsp;&emsp;(A) are performed for or on behalf of any related person (within the meaning of subsection (d)(3)), and
 
@@ -208,15 +242,7 @@ For purposes of section 952(a)(2), the term “foreign base company income” me
 
 > &emsp;Paragraph (1) shall also not apply to income which is exempt insurance income (as defined in section 953(e)) or which is not treated as foreign personal holding income by reason of subsection (c)(2)(C)(ii), (h), or (i).
 
-#### (f) Foreign base company shipping income
-
-For purposes of subsection (a)(4), the term “foreign base company shipping income” means income derived from, or in connection with, the use (or hiring or leasing for use) of any aircraft or vessel in foreign commerce, or from, or in connection with the performance of services directly related to the use of any such aircraft, or vessel, or from the sale, exchange, or other disposition of any such aircraft or vessel. Such term includes, but is not limited to—
-
-&emsp;(1) dividends and interest received from a foreign corporation in respect of which taxes are deemed paid under section 902, and gain from the sale, exchange, or other disposition of stock or obligations of such a foreign corporation to the extent that such dividends, interest, and gains are attributable to foreign base company shipping income, and
-
-&emsp;(2) that portion of the distributive share of the income of a partnership attributable to foreign base company shipping income.
-
-> Such term includes any income derived from a space or ocean activity (as defined in section 863(d)(2)). Except as provided in paragraph (1), such term shall not include any dividend or interest income which is foreign personal holding company income (as defined in subsection (c)).
+#### \[(f) Repealed. Pub. L. 108–357, title IV, §415(a)(2), Oct. 22, 2004, 118 Stat. 1511\]
 
 #### (g) Foreign base company oil related income
 
@@ -240,7 +266,7 @@ For purposes of this section—
 
 #### (B) Large oil producer
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “large oil producer” means any corporationif, for the taxable year or for the preceding taxable year, the average daily production of foreign crude oil and natural gas of the related group which includes such corporation equaled or exceeded 1,000 barrels.
+&emsp;&emsp;For purposes of subparagraph (A), the term “large oil producer” means any corporation if, for the taxable year or for the preceding taxable year, the average daily production of foreign crude oil and natural gas of the related group which includes such corporation equaled or exceeded 1,000 barrels.
 
 #### (C) Related group
 
@@ -315,6 +341,16 @@ For purposes of this section—
 &emsp;&emsp;&emsp;(i) in the case of the eligible controlled foreign corporation, only items of income, deduction, gain, or loss and activities of such corporation not properly allocable or attributable to any qualified business unit of such corporation, and
 
 &emsp;&emsp;&emsp;(ii) in the case of a qualified business unit, only items of income, deduction, gain, or loss and activities properly allocable or attributable to such unit.
+
+#### (E) Direct conduct of activities
+
+&emsp;&emsp;For purposes of subparagraph (A)(ii)(II), an activity shall be treated as conducted directly by an eligible controlled foreign corporation or qualified business unit in its home country if the activity is performed by employees of a related person and—
+
+&emsp;&emsp;&emsp;(i) the related person is an eligible controlled foreign corporation the home country of which is the same as the home country of the corporation or unit to which subparagraph (A)(ii)(II) is being applied,
+
+&emsp;&emsp;&emsp;(ii) the activity is performed in the home country of the related person, and
+
+&emsp;&emsp;&emsp;(iii) the related person is compensated on an arm's-length basis for the performance of the activity by its employees and such compensation is treated as earned by such person in its home country for purposes of the home country's tax laws.
 
 #### (4) Lending or finance business
 
@@ -430,7 +466,7 @@ For purposes of this section—
 
 #### (A) Property and casualty contracts
 
-&emsp;&emsp;The unearned premiums and reserves of a qualifying insurance company or a qualifying insurance company branch with respect to property, casualty, or health insurance contracts shall be determined using the same methods and interest rates which would be used if such company or branch were subject to tax under subchapter L, except that—
+&emsp;&emsp;The unearned premiums and reserves of a qualifying insurance company or a qualifying insurance company branch with respect to property, casualty, or health insurance contracts shall be determined using the same methods and interest rates whichwould be used if such company or branch were subject to tax under subchapter L, except that—
 
 &emsp;&emsp;&emsp;(i) the interest rate determined for the functional currency of the company or branch, and which, except as provided by the Secretary, is calculated in the same manner as the Federal mid-term rate under section 1274(d), shall be substituted for the applicable Federal interest rate, and
 
@@ -470,13 +506,45 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, any term used in this subsection which is also used in section 953(e) shall have the meaning given such term by section 953.
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X,§§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1009; amended Pub. L. 91–172, title IX, §909(a), Dec. 30, 1969, 83 Stat. 718; Pub. L. 94–12, title VI, §602(b), (c)(1), (2), (d)(1), (e), Mar. 29, 1975, 89 Stat. 58, 60, 64; Pub. L. 94–455, title X, §§1023(a), 1024(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1620, 1834; Pub. L. 97–248, title II, §212(a)–(e), Sept. 3, 1982, 96 Stat. 451, 452; Pub. L. 98–369, div. A, title I, §137(a), title VII, §712(f), July 18, 1984, 98 Stat. 672, 947; Pub. L. 99–514, title XII, §§1201(c), 1221(a)(1), (b)(3)(B), (c)(1)–(3)(A), (d), (e), 1223(a), title XVIII, §1810(k), Oct. 22, 1986, 100 Stat. 2525, 2549, 2553, 2557, 2830; Pub. L. 100–647, title I, §§1012(i)(12), (14)(A), (18), (20), (25)(B), 1018(u)(38), Nov. 10, 1988, 102 Stat. 3509–3512, 3592; Pub. L. 101–239, title VII, §7811(i)(3), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 103–66, title XIII, §§13233(a)(1), 13235(a)(3), (b), 13239(d), Aug. 10, 1993, 107 Stat. 502, 504, 505, 509; Pub. L. 104–188, title I, §1704(t)(25), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title X, §1051(a), (b), title XI, §1175(a), (b), Aug. 5, 1997, 111 Stat. 940, 990, 993; Pub. L. 105–277, div. J, title I, §1005(a), (b)(2), (c)–(e), title IV, §4003(j), Oct. 21, 1998, 112 Stat. 2681–890, 2681–897, 2681–899, 2681–900, 2681–910; Pub. L. 106–170, title V, §§503(a), 532(c)(2)(Q), Dec. 17, 1999, 113 Stat. 1921, 1931; Pub. L. 107–147, title IV, §417(24)(B)(ii), title VI, §614(a)(2), (b)(1), Mar. 9, 2002, 116 Stat. 57, 61; Pub. L. 108–357, title IV, §§412(a), 413(b)(2), 414(a)–(c), 415(a), (b), (c)(2), 416(a), Oct. 22, 2004, 118 Stat. 1505, 1506, 1510, 1511; Pub. L. 109–135, title IV, §§403(m), 412(<i>ll</i>), (mm), Dec. 21, 2005, 119 Stat. 2626, 2639.)
 
 #### References in Text
 
 Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (h)(2)(B)(iii), are classified to sections 78<i>o</i>(a) and 78<i>o</i>–5(a), respectively, of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2005—Subsec. (c)(1)(C)(i). Pub. L. 109–135, §412(<i>ll</i>), substituted “paragraph (5)(A)” for “paragraph (4)(A)”.
+
+Subsec. (c)(1)(F). Pub. L. 109–135, §412(mm), struck out “Net income from notional principal contracts.” before “Any item of income”.
+
+Subsec. (c)(4)(B). Pub. L. 109–135, §403(m), inserted at end “If a controlled foreign corporation is treated as owning a capital or profits interest in a partnership under constructive ownership rules similar to the rules of section 958(b), the controlled foreign corporation shall be treated as owning such interest directly for purposes of this subparagraph.”
+
+2004—Subsec. (a)(4). Pub. L. 108–357, §415(a)(1), struck out par. (4) which read as follows: “the foreign base company shipping income for the taxable year (determined under subsection (f) and reduced as provided in subsection (b)(5)), and”.
+
+Subsec. (b)(5). Pub. L. 108–357, §415(c)(2)(A), struck out “the foreign base company shipping income,” after “the foreign base company services income,,”.
+
+Subsec. (b)(6) to (8). Pub. L. 108–357, §415(c)(2)(B), (C), redesignated par. (8) as (6) and struck out former pars. (6) and (7) which set forth special rules and special exclusion for foreign base company shipping income.
+
+Subsec. (c)(1)(C)(i), (ii). Pub. L. 108–357, §414(a), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+
+“(i) arise out of bona fide hedging transactions reasonably necessary to the conduct of any business by a producer, processor, merchant, or handler of a commodity in the manner in which such business is customarily and usually conducted by others,
+
+“(ii) are active business gains or losses from the sale of commodities, but only if substantially all of the controlled foreign corporation's business is as an active producer, processor, merchant, or handler of commodities, or”.
+
+Subsec. (c)(1)(I). Pub. L. 108–357, §413(b)(2), added subpar. (I).
+
+Subsec. (c)(2)(A). Pub. L. 108–357, §415(b), inserted at end “For purposes of the preceding sentence, rents derived from leasing an aircraft or vessel in foreign commerce shall not fail to be treated as derived in the active conduct of a trade or business if, as determined under regulations prescribed by the Secretary, the active leasing expenses are not less than 10 percent of the profit on the lease.”
+
+Subsec. (c)(2)(C)(i). Pub. L. 108–357, §414(c), inserted “and transactions involving physical settlement” after “(including hedging transactions”.
+
+Subsec. (c)(4). Pub. L. 108–357, §412(a), added par. (4).
+
+Subsec. (c)(5). Pub. L. 108–357, §414(b), added par. (5).
+
+Subsec. (f). Pub. L. 108–357, §415(a)(2), struck out subsec. (f) which defined “foreign base company shipping income” for purposes of subsec. (a)(4).
+
+Subsec. (h)(3)(E). Pub. L. 108–357, §416(a), added subpar. (E).
 
 2002—Subsec. (c)(1)(B). Pub. L. 107–147, §417(24)(B)(ii), which directed the amendment of Pub. L. 106–170, §532(c)(2)(Q), was executed to that section as if the amendment were retroactive to the effective date of the amendment by Pub. L. 106–170 to reflect the probable intent of Congress. See 1999 Amendment note below.
 
@@ -536,7 +604,7 @@ Subsec. (c)(3)(A)(ii). Pub. L. 101–239, §7811(i)(3)(B), substituted “from a
 
 1988—Subsec. (b)(6), (7). Pub. L. 100–647, §1012(i)(12), struck out “(determined without regard to the exclusion under paragraph (2) of this subsection)” after “paragraph (4) of subsection (a)”.
 
-Subsec. (c)(1)(B). Pub. L. 100–647, §1012(i)(18), (20), added cl. (ii), redesignated former cl. (ii) as (iii), addedclosing provisions, and struck out former closing provisions which read as follows: “This subparagraph shall not apply to gain from the sale or exchange of any property which, in the hands of the taxpayer, is property described in section 1221(1) or to gain from the sale or exchange of any property by a regular dealer in such property.”
+Subsec. (c)(1)(B). Pub. L. 100–647, §1012(i)(18), (20), added cl. (ii), redesignated former cl. (ii) as (iii), added closing provisions, and struck out former closing provisions which read as follows: “This subparagraph shall not apply to gain from the sale or exchange of any property which, in the hands of the taxpayer, is property described in section 1221(1) or to gain from the sale or exchange of any property by a regular dealer in such property.”
 
 Subsec. (c)(3)(B). Pub. L. 100–647, §1012(i)(25)(B), inserted before period at end “or creates (or increases) a deficit which under section 952(c) may reduce the subpart F income of the payor or another controlled foreign corporation”.
 
@@ -594,7 +662,7 @@ Subsecs. (g), (h). Pub. L. 99–514, §1221(c)(3)(A)(i), redesignated subsec. (h
 
 &emsp;“(2) the qualified investments in foreign base company shipping operations (as so defined) of the controlled foreign corporation at the close of the preceding taxable year.”
 
-1984—Subsec. (e). Pub. L. 98–369, §137(a), inserted provision that for purposes of par. (2) services performedwith respect to any insurance or reinsurance policy be treated as performed in the country of risk.
+1984—Subsec. (e). Pub. L. 98–369, §137(a), inserted provision that for purposes of par. (2) services performed with respect to any insurance or reinsurance policy be treated as performed in the country of risk.
 
 Subsec. (h)(1). Pub. L. 98–369, §712(f), substituted “paragraphs (2) and (3) of section 907(c)” for “section 907(c)(2)”.
 
@@ -632,6 +700,22 @@ Subsecs. (f), (g). Pub. L. 94–12, §602(c)(2), (d)(1)(G), added subsecs. (f) a
 
 1969—Subsec. (b)(4). Pub. L. 91–172 inserted reference to a foreign corporation which is an acquired corporation, and made the effecting of a transaction giving rise to foreign base income through the controlled foreign corporation subject to the Secretary's power to disallow inclusion of any item of such income where such inclusion will have one of the effects prescribed by this section.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by section 403(m) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §412(b), Oct. 22, 2004, 118 Stat. 1506, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years of foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end.”
+
+Amendment by section 413(b)(2) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
+Pub. L. 108–357, title IV, §414(d), Oct. 22, 2004, 118 Stat. 1511, provided that: “The amendments made by this section \[amending this section\] shall apply to transactions entered into after December 31, 2004.”
+
+Amendment by section 415(a), (b), (c)(2) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 415(d) of Pub. L. 108–357, set out as a note under section 952 of this title.
+
+Pub. L. 108–357, title IV, §416(b), Oct. 22, 2004, 118 Stat. 1512, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years of such foreign corporations beginning after December 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of such foreign corporations end.”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by section 614(a)(2), (b)(1) of Pub. L. 107–147 applicable to taxable years beginning after Dec. 31, 2001, see section 614(c) of Pub. L. 107–147, set out as a note under section 953 of this title.
@@ -654,7 +738,7 @@ Section 1175(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1993 Amendment
 
-Section 13233(a)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
+Section 13233(a)(2) of Pub. L. 103–66 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end.”
 
 Amendment by section 13235(a)(3) and (b) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13235(c) of Pub. L. 103–66, set out as a note under section 904 of this title.
 
@@ -770,7 +854,7 @@ Section 1175 of Pub. L. 105–34, amending this section and enacting provisions 
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 1201(c) of Pub. L. 99–514 notwithstanding any treaty obligation ofthe United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 1201(c) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -792,13 +876,9 @@ Qualified Controlled Foreign Corporation.—For purposes of this section, a qual
 
 Effective Date.—The amendment made by this section shall apply to dividends received after December 31, 1986.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 552, 861, 864, 881, 904, 936, 952, 953, 955, 958, 964, 970, 971, 988, 1042, 1296, 1297, 1298, 2057 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>3</sup></i><i> So in original. No subpar. (H) has been enacted.</i>
 

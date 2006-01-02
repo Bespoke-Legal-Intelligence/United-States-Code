@@ -494,6 +494,10 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;&emsp;&emsp;(III) monitoring of a natural resource.
 
+#### (iii) Exception
+
+&emsp;&emsp;&emsp;Notwithstanding clause (i)(IV), the Administrator may use up to 25 percent of the funds made available to carry out this subsection to make a grant or loan under this subsection to eligible entities that satisfy all of the elements set forth in section 9601(40) of this title to qualify as a bona fide prospective purchaser, except that the date of acquisition of the property was on or before January 11, 2002.
+
 #### (C) Assistance for development of local government site remediation programs
 
 &emsp;&emsp;A local government that receives a grant under this subsection may use not to exceed 10 percent of the grant funds to develop and implement a brownfields program that may include—
@@ -646,13 +650,13 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;&emsp;Of the amount made available under subparagraph (A), $50,000,000, or, if the amount made available is less than $200,000,000, 25 percent of the amount made available, shall be used for site characterization, assessment, and remediation of facilities described in section 9601(39)(D)(ii)(II) of this title.
 
-(Pub. L. 96–510, title I, §104, Dec. 11, 1980, 94 Stat. 2774; Pub. L. 99–499, title I, §§104, 110, title II, §207(b), Oct. 17, 1986, 100 Stat. 1617, 1636, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–531, title III, §312(h), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 107–118, title II, §211(b), Jan. 11, 2002, 115 Stat. 2362; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 96–510, title I, §104, Dec. 11, 1980, 94 Stat. 2774; Pub. L. 99–499, title I, §§104, 110, title II, §207(b), Oct. 17, 1986, 100 Stat. 1617, 1636, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–531, title III, §312(h), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 107–118, title II, §211(b), Jan. 11, 2002, 115 Stat. 2362; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–59, title I, §1956, Aug. 10, 2005, 119 Stat. 1515.)
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(11)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsecs. (c)(3), (9)(D), (i)(10)(E), and (k)(11)(B), is title II of Pub.L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitle C of the Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-Title III of the Amendments and Reauthorization Act of 1986, referred to in subsec. (e)(7)(E)(i), probably means title III of the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning andCommunity Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
+Title III of the Amendments and Reauthorization Act of 1986, referred to in subsec. (e)(7)(E)(i), probably means title III of the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g)(2), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -671,6 +675,8 @@ The Safe Drinking Water Act, referred to in subsec. (k)(11)(E), is title XIV of 
 In subsec. (g)(1), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and, in subsec. (g)(2), “section 3145 of title 40” substituted for “section 276c of title 40 of the United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2005—Subsec. (k)(4)(B)(iii). Pub. L. 109–59 added cl. (iii).
 
 2004—Subsec. (k)(7)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -692,7 +698,7 @@ Subsec. (c)(1)(C). Pub. L. 99–499, §104(e)(2), added cl. (C).
 
 Subsec. (c)(3). Pub. L. 99–499, §§104(f), 207(b), substituted text of cl. (C)(ii) and sentence providing that “facility” does not include navigable waters or beds underlying those waters for “(ii) at least 50 per centum or such greater amount as the President may determine appropriate, taking into account the degree of responsibility of the State or political subdivision, of any sums expended in response to a release at a facility that was owned at the time of any disposal of hazardous substances therein by the State or a political subdivision thereof. The President shall grant the State a credit against the share of the costs for which it is responsible under this paragraph for any documented direct out-of-pocket non-Federal funds expended or obligated by the State or a political subdivision thereof after January 1, 1978, and before December 11, 1980, for cost-eligible response actions and claims for damages compensable under section 9611 of this title relating to the specific release in question: <i>Provided, however</i>, That in no event shall the amount of the credit granted exceed the total response costs relating to the release.” and inserted provisions relating to remedial action to be taken on land or water held by an Indian tribe, held by the United States in trust for Indians, held by a member of an Indian Tribe (if such land or water is subject to a trust restriction on alienation), or otherwise within the borders of an Indian reservation.
 
-Subsec. (c)(4). Pub. L. 99–499, §104(g), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public health and welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action.”
+Subsec. (c)(4). Pub. L. 99–499, §104(g), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The President shall select appropriate remedial actions determined to be necessary to carry out this section which are to the extent practicable in accordance with the national contingency plan and which provide for that cost-effective response which provides a balance between the need for protection of public healthand welfare and the environment at the facility under consideration, and the availability of amounts from the Fund established under subchapter II of this chapter to respond to other sites which present or may present a threat to public health or welfare or the environment, taking into consideration the need for immediate action.”
 
 Subsec. (c)(5). Pub. L. 99–499, §104(h), added par. (5).
 

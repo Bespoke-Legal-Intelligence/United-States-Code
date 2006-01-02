@@ -42,7 +42,7 @@
 
 #### (3) Continuation of service
 
-&emsp;The Chairperson, Vice Chairperson, and each appointed member may continue to serve afterthe expiration of the term of office to which such member was appointed until a successor has been appointed and qualified.
+&emsp;The Chairperson, Vice Chairperson, and each appointed member may continue to serve after the expiration of the term of office to which such member was appointed until a successor has been appointed and qualified.
 
 #### (d) Vacancy
 
@@ -86,7 +86,7 @@
 
 #### (1) In general
 
-&emsp;A director, member, officer, or employee of the Corporation has no liability under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] with respect to any claim arising out of or resulting from any act or omission by such person within the scope of such person's employment in connection with any transaction involving the disposition of assets (or any interests in any assets or any obligations backed by any assets) by the Corporation. This subsection shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other acts or omissions outside the scope of such person's employment.
+&emsp;A director, member, officer, or employee of the Corporation has no liability under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] with respect to any claim arising out of or resulting from any act or omission by such person within the scope of such person's employment in connection with any transaction involving the disposition of assets (or any interests in any assets or any obligations backed by anyassets) by the Corporation. This subsection shall not be construed to limit personal liability for criminal acts or omissions, willful or malicious misconduct, acts or omissions for private gain, or any other acts or omissions outside the scope of such person's employment.
 
 #### (2) “Employee of the Corporation” defined
 

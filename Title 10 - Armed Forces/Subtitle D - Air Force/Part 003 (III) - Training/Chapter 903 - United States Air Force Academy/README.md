@@ -29,10 +29,16 @@
 | [9355\.](%C2%A7%2009355%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
 | [9356\.](%C2%A7%2009356%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md) | Acceptance of guarantees with gifts for major projects. |
 | [9357\.](%C2%A7%2009357%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees. |
+| [9359\.](%C2%A7%2009359%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md) | Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds. |
+| [9360\.](%C2%A7%2009360%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Cadets: charges and fees for attendance; limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §545(c)(2), Oct. 28, 2004, 118 Stat. 1909, added item 9360.
+
+Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, which directed addition of item 9359 at end of table of sections at beginning of “such title”, was executed by adding item 9359 at end of table of sections of this chapter, to reflect the probable intent of Congress.
 
 1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(F), div. B, title XXVIII, §2871(c)(2), Oct. 5, 1999, 113 Stat. 604, 877, added items 9333a and 9356.
 
@@ -53,10 +59,6 @@
 1981—Pub. L. 97–60, title II, §203(c)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 9341a.
 
 1958—Pub. L. 85–600, §1(23), Aug. 6, 1958, 72 Stat. 524, inserted “; registrar” in item 9336.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 37 section 209.
 
 
 ---
@@ -90,3 +92,5 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 09355 - Board of Visitors](%C2%A7%2009355%20-%20Board%20of%20Visitors.md)
 - [&sect; 09356 - Acceptance of guarantees with gifts for major projects](%C2%A7%2009356%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md)
 - [&sect; 09357 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2009357%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)
+- [&sect; 09359 - Mixed-funded athletic and recreational extracurricular programs authority to manage appropriated funds in same manner as nonappropriated&#8230;](%C2%A7%2009359%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md)
+- [&sect; 09360 - Cadets charges and fees for attendance; limitation](%C2%A7%2009360%20-%20Cadets%20charges%20and%20fees%20for%20attendance%3B%20limitation.md)

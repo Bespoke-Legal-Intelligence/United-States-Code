@@ -88,7 +88,7 @@ Pub. L. 108–136, div. B, title XXVIII, §2808(e), Nov. 24, 2003, 117 Stat. 172
 
 #### Department of Defense Laboratory Revitalization Demonstration Program
 
-Section 2892 of Pub. L. 104–106, as amended by Pub. L. 105–261, div. B, title XXVIII, §2871, Oct. 17, 1998, 112 Stat. 2225, provided that:
+Pub. L. 104–106, div. B, title XXVIII, §2892, Feb. 10, 1996, 110 Stat. 590, as amended by Pub. L. 105–261, div. B, title XXVIII, §2871, Oct. 17, 1998, 112 Stat. 2225; Pub. L. 108–375, div. B, title XXVIII, §2891, Oct. 28, 2004, 118 Stat. 2154, provided that:
 
 “(a)
 
@@ -134,13 +134,9 @@ Definitions.—In this section:
 
 “(g)
 
-Expiration of Authority.—The Secretary may not commence a construction project under the program after September 30, 2003.”
+Expiration of Authority.—The Secretary may not commence a construction project under the program after September 30, 2005.”
 
 #### Initial Establishment of Certain Amounts Required To Be Specified by Law
 
 Maximum amount of $1,000,000 for unspecified minor military construction project under this section during the period beginning Oct. 1, 1982, and ending on the date of the enactment of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(1) of Pub. L. 97–214, set out as a note under section 2828 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2208, 2806, 2853, 2867, 18233a of this title.
 

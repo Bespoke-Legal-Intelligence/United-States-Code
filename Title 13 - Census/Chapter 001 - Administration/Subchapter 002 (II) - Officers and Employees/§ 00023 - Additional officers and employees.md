@@ -34,7 +34,7 @@ The Classification Act of 1949, referred to in subsec. (a), is act Oct. 28, 1949
 
 The civil service laws, referred to in subsec. (a), are set forth in Title 5. See, particularly, section 3301 et seq. of Title 5.
 
-Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by Pub. L.89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5533 of Title 5.
+Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 5533 of Title 5.
 
 #### Amendments
 

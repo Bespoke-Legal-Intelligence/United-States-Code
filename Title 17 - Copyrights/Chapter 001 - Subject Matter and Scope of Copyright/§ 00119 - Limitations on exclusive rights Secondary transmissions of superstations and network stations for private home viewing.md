@@ -14,7 +14,7 @@ Network stations.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to the provisions of subparagraphs (B) and (C) of this paragraph and paragraphs (5), (6), (7), and (8) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private homeviewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission.
+In general.—Subject to the provisions of subparagraphs (B) and (C) of this paragraph and paragraphs (5), (6), (7), and (8) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission.
 
 &emsp;&emsp;(B)
 
@@ -34,7 +34,7 @@ Accurate predictive model.—In determining presumptively whether a person resid
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Accurate measurements.—For purposes of site measurements to determine whether a person resides in an unserved household under subsection (d)(10)(A), a court shall rely on section 339(c)(4) of the Communications Act of 1934.
+Accurate measurements.—For purposes of site measurements to determine whether a person resides in an unserved household under subsection\(d)(10)(A), a court shall rely on section 339(c)(4) of the Communications Act of 1934.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -148,7 +148,7 @@ For those receiving distant analog signals.—In the case of a subscriber of a s
 
 &emsp;&emsp;&emsp;&emsp;(I) In a case in which the satellite carrier makes available to the subscriber the secondary transmission of the primary analog transmission of a local network station affiliated with the same television network pursuant to the statutory license under section 122, the statutory license under paragraph (2) shall apply only to secondary transmissions by that satellite carrier to that subscriber of the distant analog signal of a station affiliated with the same television network—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) if, within 60 days after receiving the notice of the satellite carrier undersection 338(h)(1) of the Communications Act of 1934, the subscriber elects to retain the distant analog signal; but
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) if, within 60 days after receiving the notice of the satellite carrier under section 338(h)(1) of the Communications Act of 1934, the subscriber elects to retain the distant analog signal; but
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) only until such time as the subscriber elects to receive such local analog signal.
 
@@ -160,7 +160,7 @@ For those receiving distant analog signals.—In the case of a subscriber of a s
 
 &emsp;&emsp;&emsp;(ii)
 
-For those not receiving distant analog signals.—In the case of any subscriber of a satellite carrier who is eligible to receive the distant analog signal of a network station solely by reason of subsection (e) and who did not receive a distant analog signal of a station affiliated with the same network on October 1, 2004, the statutory license under paragraph (2) shall not apply to secondary transmissions by that satellite carrier to that subscriber of the distant analog signal of a station affiliated with the same network.
+For those not receiving distant analog signals.—In the case of any subscriber of a satellite carrier who is eligible to receive the distant analog signal of a network station solely by reason of subsection (e) and who did not receive a distant analog signal of a station affiliatedwith the same network on October 1, 2004, the statutory license under paragraph (2) shall not apply to secondary transmissions by that satellite carrier to that subscriber of the distant analog signal of a station affiliated with the same network.
 
 &emsp;&emsp;(B)
 
@@ -184,7 +184,7 @@ Future applicability.—The statutory license under paragraph (2) shall not appl
 
 &emsp;&emsp;(D)
 
-Special rules for distant digital signals.—The statutory license under paragraph (2) shall apply to secondary transmissions by a satellite carrier to a subscriber of primary digital transmissions of network stations if such secondary transmissions to such subscriber are permitted under section 339(a)(2)(D) of the Communications Act of 1934, as in effect on the day after the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, except that the reference to section 73.683(a) of title 47, Code of Federal Regulations, referred to in section339(a)(2)(D)(i)(I) shall refer to such section as in effect on the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004.
+Special rules for distant digital signals.—The statutory license under paragraph (2) shall apply to secondary transmissions by a satellite carrier to a subscriber of primary digital transmissions of network stations if such secondary transmissions to such subscriber are permitted under section 339(a)(2)(D) of the Communications Act of 1934, as in effect on the day after the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, except that the reference to section 73.683(a) of title 47, Code of Federal Regulations, referred to in section 339(a)(2)(D)(i)(I) shall refer to such section as in effect on the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004.
 
 &emsp;&emsp;(E)
 
@@ -250,7 +250,7 @@ Discrimination by a satellite carrier.—Notwithstanding the provisions of parag
 
 &emsp;(9)
 
-Geographic limitation on secondary transmissions.—The statutory license created by this section shall apply only to secondary transmissions to households located in the United States.
+Geographic limitation on secondary transmissions.—The statutory license createdby this section shall apply only to secondary transmissions to households located in the United States.
 
 &emsp;(10)
 
@@ -380,7 +380,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;&emsp;(B) a royalty fee for that 6-month period, computed by multiplying the total number of subscribers receiving each secondary transmission of each superstation or network station during each calendar month by the appropriate rate in effect under this section.
 
-> &emsp;Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection.
+> &emsp;Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondarytransmissions to a subscriber under paragraph (3) of such subsection.
 
 &emsp;(2)
 
@@ -478,7 +478,7 @@ Persons subject to royalty fee.—The royalty fee referred to in (iii) shall be 
 
 &emsp;(2)
 
-Applicability and determination of royalty fees for digital signals.—The process and requirements for establishing the royalty fee payable under subsection (b)(1)(B) forthe secondary transmission of the primary digital transmissions of network stations and superstations shall be the same as that set forth in paragraph (1) for the secondary transmission of the primary analog transmission of network stations and superstations, except that—
+Applicability and determination of royalty fees for digital signals.—The process and requirements for establishing the royalty fee payable under subsection (b)(1)(B) for the secondary transmission of the primary digital transmissions of network stations and superstations shall be the same as that set forth in paragraph (1) for the secondary transmission of the primary analog transmission of network stations and superstations, except that—
 
 &emsp;&emsp;(A) the initial fee under paragraph (1)(A) shall be the rates set forth in section 298.3(b)(1) and (2) of title 37, Code of Federal Regulations, as in effect on the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004, reduced by 22.5 percent;
 
@@ -568,7 +568,7 @@ Commercial establishment.—The term “commercial establishment”—
 
 (e)
 
-Moratorium on Copyright Liability.—Until December 31, 2009, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47 of the Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
+Moratorium on Copyright Liability.—Until December 31, 2009, a subscriber who doesnot receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47 of the Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.
 
 (f)
 
@@ -672,7 +672,7 @@ Subsec. (d)(9). Pub. L. 108–447, §105(2), amended heading and text of par. (9
 
 &emsp;“(B) except for purposes of computing the royalty fee, includes the Public Broadcasting Service satellite feed.”
 
-Subsec. (d)(10)(B). Pub. L. 108–447, §105(3)(A), substituted “that meets the standards of subsection (a)(14)whether or not the waiver was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004” for “granted under regulations established under section 339(c)(2) of the Communications Act of 1934”.
+Subsec. (d)(10)(B). Pub. L. 108–447, §105(3)(A), substituted “that meets the standards of subsection (a)(14) whether or not the waiver was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004” for “granted under regulations established under section 339(c)(2) of the Communications Act of 1934”.
 
 Subsec. (d)(10)(D). Pub. L. 108–447, §105(3)(B), substituted “(a)(12)” for “(a)(11)”.
 
@@ -702,7 +702,7 @@ Subsec. (a)(12). Pub. L. 107–273, §13209(1)(B), made technical correction to 
 
 Subsec. (b)(1)(A). Pub. L. 107–273, §13210(8), substituted “retransmitted” for “transmitted” and “retransmissions” for “transmissions”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 107–273, §13209(2), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title I, §1006(b)\]. See 1999 Amendment note below.
+Subsec. (b)(1)(B)(ii). Pub. L. 107–273, §13209(2), made technical correction to directory language of Pub. L.106–113, §1000(a)(9) \[title I, §1006(b)\]. See 1999 Amendment note below.
 
 1999—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(A)\], as amended by Pub. L. 107–273, §13209(3)(B), substituted “performance or display of a work embodied in a primary transmission made by a superstation or by the Public Broadcasting Service satellite feed” for “primary transmission made by a superstation and embodying a performance or display of a work”.
 
@@ -818,7 +818,7 @@ Subsec. (c). Pub. L. 103–198, §5(2)(A), substituted “Adjustment” for “D
 
 Subsec. (c)(2). Pub. L. 103–198, §5(2)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in subpars. (A) and (B).
 
-Subsec. (c)(3)(A). Pub. L. 103–198, §5(2)(C)(i), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” and substituted last sentence for former last sentence which read as follows: “Such notice shall include the names and qualifications of potential arbitrators chosen by the Tribunal from a list of available arbitrators obtained from the American ArbitrationAssociation or such similar organization as the Tribunal shall select.”
+Subsec. (c)(3)(A). Pub. L. 103–198, §5(2)(C)(i), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” and substituted last sentence for former last sentence which read as follows: “Such notice shall include the names and qualifications of potential arbitrators chosen by the Tribunal from a list of available arbitrators obtained from the American Arbitration Association or such similar organization as the Tribunal shall select.”
 
 Subsec. (c)(3)(B). Pub. L. 103–198, §5(2)(C)(ii), (iii), redesignated subpar. (D) as (B), substituted “copyright arbitration royalty panel appointed under chapter 8” for “Arbitration Panel” in introductory provisions, and struck out former subpar. (B) which provided for the selection of an Arbitration Panel.
 
@@ -836,7 +836,7 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title I, §§1004, 1006\] of Pub. L. 106–113 effective July 1, 1999, and amendment by section 1000(a)(9) \[title I, §§1005, 1007, 1008(b), 1011(b)(2), (c)\] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) \[title I, §1012\] of Pub. L. 106–113, set out as a note under section 101 of this title.
+Amendment by section 1000(a)(9) \[title I, §§1004, 1006\] of Pub. L. 106–113 effective July 1, 1999, and amendmentby section 1000(a)(9) \[title I, §§1005, 1007, 1008(b), 1011(b)(2), (c)\] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) \[title I, §1012\] of Pub. L. 106–113, set out as a note under section 101 of this title.
 
 #### Effective Date of 1997 Amendment
 

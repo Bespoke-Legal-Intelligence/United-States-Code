@@ -140,7 +140,7 @@ The date of the enactment of the Victims of Terrorism Compensation Act \[title V
 
 Section 802 of the Victims of Terrorism Compensation Act \[Pub. L. 99–399\], referred to in subsec. (d)(2), is set out as a note below.
 
-The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178,as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. Titles IV and V of the Act are classified to sections 541 et seq. and 561 et seq., respectively, of Title 50, Appendix. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 514, 515, 516, 561, 570, and 592, respectively, of Title 50, Appendix. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (e)(1), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. Titles IV and V of the Act are classified to sections 541 et seq. and 561 et seq., respectively, of Title 50, Appendix. Sections 104, 105, 106, 501, 510, and 702 of the Act are classified to sections 514, 515, 516, 561, 570, and 592, respectively, of Title 50, Appendix. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
 #### Amendments
 
@@ -152,7 +152,7 @@ Subsec. (e)(2)(A). Pub. L. 108–189, §2(b)(2)(B), substituted “servicemember
 
 #### Short Title of 1986 Amendment
 
-Section 801 of title VIII of Pub. L. 99–399 provided that: “This title \[enacting this section, section 5570 of this title, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amending section 6325 of this title, and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
+Section 801 of title VIII of Pub. L. 99–399 provided that: “This title \[enacting this section, section 5570 of this title, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, and sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, amendingsection 6325 of this title, and enacting provisions set out as notes under this section, sections 1051, 1095, and 2181 of Title 10, and section 559 of Title 37\] may be cited as the ‘Victims of Terrorism Compensation Act’.”
 
 #### Payment to Individuals Held in Captive Status Between November 4, 1979, and January 21, 1981
 

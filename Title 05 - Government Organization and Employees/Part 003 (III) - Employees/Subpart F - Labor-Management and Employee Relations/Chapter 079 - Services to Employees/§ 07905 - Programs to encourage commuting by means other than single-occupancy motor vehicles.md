@@ -70,13 +70,49 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
 
+#### Transit Pass Transportation Fringe Benefits
+
+Pub. L. 109–59, title III, §3049(a), Aug. 10, 2005, 119 Stat. 1711, provided that:
+
+“(1)
+
+In general.—Effective as of the first day of the next fiscal year beginning after the date of the enactment of this Act \[Aug. 10, 2005\], each covered agency shall implement a program under which all qualified Federal employees serving in or under such agency shall be offered transit pass transportation fringe benefits, as described in paragraph (2).
+
+“(2)
+
+Benefits described.—The benefits described in this paragraph are the transit pass transportation fringe benefits which, under section 2 of Executive Order No. 13150 \[set out below\], are required to be offered by Federal agencies in the National Capital Region on the date of the enactment of this Act.
+
+“(3)
+
+Definitions.—In this subsection—
+
+&emsp;“(A) the term ‘covered agency’ means any agency, to the extent of its facilities in the National Capital Region;
+
+&emsp;“(B) the term ‘agency’ means any agency (as defined by 7905(a)(2) of title 5, United States Code), the Postal Rate Commission, and the Smithsonian Institution;
+
+&emsp;“(C) the term ‘National Capital Region’ includes the District of Columbia and every county or other geographic area covered by section 2 of Executive Order No. 13150;
+
+&emsp;“(D) the term ‘Executive Order No. 13150’ refers to Executive Order No. 13150 (5 U.S.C. 7905 note);
+
+&emsp;“(E) the term ‘Federal agency’ is used in the same way as under section 2 of Executive Order No. 13150; and
+
+&emsp;“(F) any determination as to whether or not one is a ‘qualified Federal employee’ shall be made applying the same criteria as would apply under section 2 of Executive Order No. 13150.
+
+“(4)
+
+Rule of construction.—Nothing in this subsection shall be considered to require that a covered agency—
+
+&emsp;“(A) terminate any program or benefits in existence on the date of the enactment of this Act, or postpone any plans to implement (before the effective date referred to in paragraph (1)) any program or benefits permitted or required under any other provision of law; or
+
+&emsp;“(B) discontinue (on or after the effective date referred to in paragraph (1)) any program or benefits referred to in subparagraph (A), so long as such program or benefits satisfy the requirements of paragraphs (1) through (3).”
+
 #### Transportation Subsidy for Employees of the Senate
 
 Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
 
 #### Transit Subsidies; Appropriations
 
-Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Fundsappropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
+Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
 
 Similar provisions were contained in the following prior appropriations act:
 

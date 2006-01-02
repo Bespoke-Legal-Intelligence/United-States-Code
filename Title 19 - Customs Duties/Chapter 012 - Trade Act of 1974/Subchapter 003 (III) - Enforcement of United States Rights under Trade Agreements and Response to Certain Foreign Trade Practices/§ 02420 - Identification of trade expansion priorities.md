@@ -24,7 +24,7 @@
 
 &emsp;(A) a description of foreign country practices that may in the future warrant identification as priority foreign country practices; and
 
-&emsp;(B) a statement about other foreign country practices that were not identified because they are already being addressed by provisions of United States trade law, by existing bilateral trade agreements, or as part of trade negotiations with other countries and progress is being made toward the elimination of such practices.
+&emsp;(B) a statement about other foreign country practices that were not identified becausethey are already being addressed by provisions of United States trade law, by existing bilateral trade agreements, or as part of trade negotiations with other countries and progress is being made toward the elimination of such practices.
 
 #### (b) Initiation of investigations
 
@@ -78,7 +78,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13116, Mar. 31, 1999, 64 F.R. 16333, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Act of March 3, 1993 \[1933\], as amended (41 U.S.C. 10d), sections 141 and 301–310 of the Trade Act of 1974, as amended (the Act) (19 U.S.C. 2171, 2411–2420), title III of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2511–2518), and section 301 of title 3, United States Code, and to ensure that the trade policies of the United States advance, to the greatest extent possible, the export of the products and services of the United States and that trade policy resources are used efficiently, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including title III of the Act of March 3, 1993 \[1933\], as amended (41 U.S.C. 10d), sections 141 and 301–310 of the Trade Act of 1974, as amended (the Act) (19 U.S.C. 2171, 2411–2420), title III of the Trade Agreements Act of 1979, as amended (19 U.S.C. 2511–2518), and section 301 of title 3, United States Code, and to ensure that the trade policies of the United States advance, to the greatest extent possible, the export of the productsand services of the United States and that trade policy resources are used efficiently, it is hereby ordered as follows:
 
 #### Part I: Identification of Trade Expansion Priorities
 
@@ -136,7 +136,7 @@ Sec. 5. <i>Initiation of Investigations</i>. (a) Within 90 days of the submissio
 
 > unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
 
-(b) For investigations initiated under paragraph (a) of this section (other than an investigation involving the GPA or NAFTA), the Trade Representative shall apply the time limits and procedures in section 304(a)(3) of the Act (19 U.S.C. 2414(a)(3)). The time limits in subsection 304(a)(3)(B) of the Act (19 U.S.C. 2414(a)(3)(B))shall apply if the Trade Representative determines that:
+(b) For investigations initiated under paragraph (a) of this section (other than an investigation involving the GPA or NAFTA), the Trade Representative shall apply the time limits and procedures in section 304(a)(3) of the Act (19 U.S.C. 2414(a)(3)). The time limits in subsection 304(a)(3)(B) of the Act (19 U.S.C. 2414(a)(3)(B)) shall apply if the Trade Representative determines that:
 
 &emsp;(1) complex or complicated issues are involved in the investigation that require additional time;
 

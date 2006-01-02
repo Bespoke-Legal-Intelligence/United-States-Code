@@ -14,7 +14,7 @@
 
 &emsp;(A) permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of perfection; or
 
-&emsp;(B) provides for the maintenance or continuation of perfection of an interest in property to be effective against an entity that acquiresrights in such property before the date on which action is taken to effect such maintenance or continuation.
+&emsp;(B) provides for the maintenance or continuation of perfection of an interest in property to be effective against an entity that acquires rights in such property before the date on which action is taken to effect such maintenance or continuation.
 
 (2) If—
 
@@ -24,19 +24,13 @@
 
 > such interest in such property shall be perfected, or perfection of such interest shall be maintained or continued, by giving notice within the time fixed by such law for such seizure or such commencement.
 
-(c) Except as provided in subsection (d) of this section, the rights and powers of a trustee under sections 544(a), 545, 547, and 549 of this title are subject to any statutory or common-law right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, but—
+(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
 
-&emsp;(1) such a seller may not reclaim any such goods unless such seller demands in writing reclamation of such goods—
+&emsp;(A) not later than 45 days after the date of receipt of such goods by the debtor; or
 
-&emsp;&emsp;(A) before 10 days after receipt of such goods by the debtor; or
+&emsp;(B) not later than 20 days after the date of commencement of the case, if the 45-day period expires after the commencement of the case.
 
-&emsp;&emsp;(B) if such 10-day period expires after the commencement of the case, before 20 days after receipt of such goods by the debtor; and
-
-&emsp;(2) the court may deny reclamation to a seller with such a right of reclamation that has made such a demand only if the court—
-
-&emsp;&emsp;(A) grants the claim of such a seller priority as a claim of a kind specified in section 503(b) of this title; or
-
-&emsp;&emsp;(B) secures such claim by a lien.
+(2) If a seller of goods fails to provide notice in the manner described in paragraph (1), the seller still may assert the rights contained in section 503(b)(9).
 
 (d) In the case of a seller who is a producer of grain sold to a grain storage facility, owned or operated by the debtor, in the ordinary course of such seller's business (as such terms are defined in section 557 of this title) or in the case of a United States fisherman who has caught fish sold to a fish processing facility owned or operated by the debtor in the ordinary course of such fisherman's business, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 of this title are subject to any statutory or common law right of such producer or fisherman to reclaim such grain or fish if the debtor has received such grain or fish while insolvent, but—
 
@@ -44,15 +38,21 @@
 
 &emsp;(2) the court may deny reclamation to such a producer or fisherman with a right of reclamation that has made such a demand only if the court secures such claim by a lien.
 
-(e) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, made by or to a commodity broker, forward contract merchant, stockbroker, financial institution, or securities clearing agency, that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+(e) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, made by or to a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency, that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(f) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, made by or to a repo participant, in connection with a repurchase agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+(f) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) of this title, the trustee may not avoid a transfer that is a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, made by or to a repo participant or financial participant, in connection with a repurchase agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer under a swap agreement, made by or to a swap participant, in connection with a swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
+(g) Notwithstanding sections 544, 545, 547, 548(a)(1)(B) and 548(b) of this title, the trustee may not avoid a transfer, made by or to a swap participant or financial participant, under or in connection with any swap agreement and that is made before the commencement of the case, except under section 548(a)(1)(A) of this title.
 
-(g) <sup>1</sup> Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor, may return goods shipped to the debtor by the creditor before the commencement of the case, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
+(h) Notwithstanding the rights and powers of a trustee under sections 544(a), 545, 547, 549, and 553, if the court determines on a motion by the trustee made not later than 120 days after the date of the order for relief in a case under chapter 11 of this title and after notice and a hearing, that a return is in the best interests of the estate, the debtor, with the consent of a creditor and subject to the prior rights of holders of security interests in such goods or the proceeds of such goods, may return goods shipped to the debtor by the creditor before the commencement of the case, and the creditor may offset the purchase price of such goods against any claim of the creditor against the debtor that arose before the commencement of the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(<i>l</i>), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518.)
+(i)(1) Notwithstanding paragraphs (2) and (3) of section 545, the trustee may not avoid a warehouseman's lien for storage, transportation, or other costs incidental to the storage and handling of goods.
+
+(2) The prohibition under paragraph (1) shall be applied in a manner consistent with any State statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
+
+(j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(<i>l</i>), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L.101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, §406, title IX, §907(e), (<i>o</i>)(2), (3), title XII, §1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199.)
 
 #### Historical and Revision Notes
 
@@ -70,7 +70,29 @@ Subsection (b) \[enacted as (c)\] specifies that the trustee's rights and powers
 
 Subsection (c) \[enacted as (a)\] adds a statute of limitations to the use by the trustee of the avoiding powers. The limitation is two years after his appointment, or the time the case is closed or dismissed, whichever occurs later.
 
+#### References in Text
+
+The date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 109–8, which was approved Apr. 20 2005.
+
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–8, §1227(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) consisted of pars. (1) and (2) relating to reclamation of goods sold to an insolvent debtor.
+
+Subsec. (e). Pub. L. 109–8, §907(<i>o</i>)(3), inserted “financial participant,” after “financial institution,”.
+
+Subsec. (f). Pub. L. 109–8, §907(<i>o</i>)(2), inserted “or financial participant” after “repo participant”.
+
+Subsec. (g). Pub. L. 109–8, §907(e)(1), struck out “under a swap agreement” after “avoid a transfer”, substituted “under or in connection with any swap agreement” for “in connection with a swap agreement”, and inserted “or financial participant” after “swap participant”.
+
+Pub. L. 109–8, §406(1), redesignated subsec. (g) relating to return of goods as (h).
+
+Subsec. (h). Pub. L. 109–8, §406(2), inserted “and subject to the prior rights of holders of security interests in such goods or the proceeds of such goods” after “consent of a creditor”.
+
+Pub. L. 109–8, §406(1), redesignated subsec. (g) relating to return of goods as (h).
+
+Subsec. (i). Pub. L. 109–8, §406(3), added subsec. (i).
+
+Subsec. (j). Pub. L. 109–8, §907(e)(2), added subsec. (j).
 
 1998—Subsecs. (e) to (g). Pub. L. 105–183 substituted “548(a)(1)(B)” for “548(a)(2)” and “548(a)(1)(A)” for “548(a)(1)”.
 
@@ -112,6 +134,10 @@ Subsec. (f). Pub. L. 98–353, §393, added subsec. (f).
 
 1982—Subsec. (d). Pub. L. 97–222 added subsec. (d).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–183 applicable to any case brought under an applicable provision of this title that is pending or commenced on or after June 19, 1998, see section 5 of Pub. L. 105–183, set out as a note under section 544 of this title.
@@ -129,6 +155,4 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(h)”.</i>
 

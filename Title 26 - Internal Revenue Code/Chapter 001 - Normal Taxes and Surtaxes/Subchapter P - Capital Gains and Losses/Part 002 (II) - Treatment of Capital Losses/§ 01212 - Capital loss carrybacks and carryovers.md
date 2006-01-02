@@ -26,7 +26,7 @@
 
 #### (A) Foreign expropriation capital loss defined
 
-&emsp;&emsp;For purposes of this subsection, the term “foreign expropriation capital loss” means,for any taxable year, the sum of the losses taken into account in computing the net capital loss for such year which are—
+&emsp;&emsp;For purposes of this subsection, the term “foreign expropriation capital loss” means, for any taxable year, the sum of the losses taken into account in computing the net capital loss for such year which are—
 
 &emsp;&emsp;&emsp;(i) losses sustained directly by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing, or
 
@@ -44,13 +44,9 @@
 
 &emsp;A net capital loss of a corporation shall not be carried back under paragraph (1)(A) to a taxable year—
 
-&emsp;&emsp;(A) for which it is a foreign personal holding company (as defined in section 552);
+&emsp;&emsp;(A) for which it is a regulated investment company (as defined in section 851), or
 
-&emsp;&emsp;(B) for which it is a regulated investment company (as defined in section 851);
-
-&emsp;&emsp;(C) for which it is a real estate investment trust (as defined in section 856); or
-
-&emsp;&emsp;(D) for which an election made by it under section 1247 is applicable (relating to election by foreign investment companies to distribute income currently).
+&emsp;&emsp;(B) for which it is a real estate investment trust (as defined in section 856).
 
 #### (b) Other taxpayers
 
@@ -158,9 +154,11 @@
 
 &emsp;&emsp;This subsection shall not apply to any estate or trust.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 88–272, title II, §230(a), Feb. 26, 1964, 78 Stat. 99; Pub. L. 88–571, §7(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title V, §§512 (a), (b), (f)(1), 513(b), Dec. 30, 1969, 83 Stat. 638, 639, 641, 642; Pub. L. 94–455, title XIV, §1403 (a), title XIX, §1901(b)(33)(O), Oct. 4, 1976, 90 Stat. 1733, 1802; Pub. L. 95–600, title VII, §703(k), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–34, title V, §504, Aug. 13, 1981, 95 Stat. 330; Pub. L. 97–354, §5(a)(35), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 97–448, title I, §105(c)(7), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §102(e)(3), title X, §1002(a), July 18, 1984, 98 Stat. 624, 1012; Pub. L. 99–514, title III, §301(b)(11), title XVIII, §1899A(67), Oct. 22, 1986, 100 Stat. 2218, 2962; Pub. L. 100–647, title I, §1003(a)(3), Nov. 10, 1988, 102 Stat. 3382.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 88–272, title II, §230(a), Feb. 26, 1964, 78 Stat. 99; Pub. L. 88–571, §7(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title V, §§512 (a), (b), (f)(1), 513(b), Dec. 30, 1969, 83 Stat. 638, 639, 641, 642; Pub. L. 94–455, title XIV, §1403 (a), title XIX, §1901(b)(33)(O), Oct. 4, 1976, 90 Stat. 1733, 1802; Pub. L. 95–600, title VII, §703(k), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–34, title V, §504, Aug. 13, 1981, 95 Stat. 330; Pub. L. 97–354, §5(a)(35), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 97–448, title I, §105(c)(7), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §102(e)(3), title X, §1002(a), July 18, 1984, 98 Stat. 624, 1012; Pub. L. 99–514, title III, §301(b)(11), title XVIII, §1899A(67), Oct. 22, 1986, 100 Stat. 2218, 2962; Pub. L. 100–647, title I, §1003(a)(3), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 108–357, title IV, §413(c)(20)(A), Oct. 22, 2004, 118 Stat. 1509.)
 
 #### Amendments
+
+2004—Subsec. (a)(3). Pub. L. 108–357 reenacted heading without change and amended text of par. (3) generally. Prior to amendment, par. (3) provided that a net capital loss of a corporation would not be carried back under par. (1)(A) to a taxable year for which it was a foreign personal holding company (as defined in section 552), for which it was a regulated investment company (as defined in section 851), for which it was a real estate investment trust (as defined in section 856), or for which an election made by it under section 1247 was applicable (relating to election by foreign investment companies to distribute income currently).
 
 1988—Subsec. (b)(2). Pub. L. 100–647 substituted “Treatment of amounts allowed under section 1211(b)(1) or (2)” for “Special rule” as heading and amended text generally. Prior to amendment, text read as follows: “For purposes of determining the excess referred to in subparagraph (A) or (B) of paragraph (1), an amount equal to the amount allowed for the taxable year under paragraph (1) or (2) of section 1211(b) shall be treated as a short-term capital gain in such year.”
 
@@ -194,7 +192,7 @@ Subsec. (c)(6)(B), (7)(A). Pub. L. 98–369, §102(e)(3)(C), as amended by Pub. 
 
 1978—Subsec. (a)(1)(C)(ii). Pub. L. 95–600 substituted “succeeding the loss year” for “exceeding the loss year”.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text“except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted “capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
+1976—Subsec. (a)(1). Pub. L. 94–455, §§1403(a), 1901(b)(33)(O), in subpar. (B) inserted introductory text “except as provided in subparagraph (C),” and struck out “(10) taxable years to the extent such loss is attributable to a foreign expropriation capital loss)” after “5 taxable years” and added subpar. (C), and substituted“capital gain net income” for “net capital gains”, “net capital gain” and “net capital gain” in last three sentences, respectively.
 
 1969—Pub. L. 91–172, §512(f)(1), substituted “carrybacks and carryovers” for “carryover” in section catchline.
 
@@ -207,6 +205,12 @@ Subsec. (b). Pub. L. 91–172, §513(b), struck out reference to Dec. 31, 1963, 
 1964—Subsec. (a). Pub. L. 88–571 provided that if any portion of a net capital loss is attributable to a foreign expropriation capital loss, such portion shall be a short-term capital loss in each of the 10 succeeding taxable years, defined foreign expropriation capital loss, stated what portion of loss is attributable to foreign expropriation capital loss and the priority of application of the net capital loss, and struck out provisions that net capital losses for taxable years beginning before Oct. 20, 1951, were to be determined under the applicable law relating to the computation of capital gains and losses in effect before such date.
 
 Pub. L. 88–272 designated existing provisions as subsec. (a), limited such subsection to corporations, and added subsec. (b).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §413(c)(20)(B), Oct. 22, 2004, 118 Stat. 1509, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -258,7 +262,7 @@ Section 230(c) of Pub. L. 88–272 provided that: “The amendments made by this
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Election Not To Carryback Certain Net Capital Losses
 
@@ -273,8 +277,4 @@ Pub. L. 91–688, §3, Jan. 12, 1971, 84 Stat. 2073, as amended by Pub. L. 99–
 &emsp;“(2) not later than the time prescribed by law for filing a claim for credit or refund of overpayment of income tax for the first taxable year beginning after December 31, 1969, in which such corporation sustains a net capital loss.
 
 “(c) The Secretary of the Treasury or his delegate shall prescribe such regulations as he determines necessary to carry out the purposes of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 108, 165, 170, 246, 381, 383, 481, 514, 535, 613A, 642, 805, 822, 832, 871, 877, 904, 1022, 1222, 1247, 1314, 1341, 1351, 1398, 1503, 6411, 6655 of this title.
 

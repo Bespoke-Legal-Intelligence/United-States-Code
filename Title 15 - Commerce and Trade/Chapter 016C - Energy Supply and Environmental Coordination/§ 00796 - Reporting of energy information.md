@@ -12,7 +12,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(B) to sign and issue subpenas for the attendance and testimony of witnesses and the production of books, records, papers, and other documents;
 
-&emsp;(C) to require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information; and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as the Federal Energy Administrator may determine; and
+&emsp;(C) to require any person, by general or special order, to submit answers in writing to interrogatories, requests for reports or for other information; and such answers or other submissions shall be made within such reasonable period, and under oath or otherwise, as theFederal Energy Administrator may determine; and
 
 &emsp;(D) to administer oaths.
 
@@ -64,7 +64,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 #### (d) Confidential information
 
-Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portionthereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>4</sup> (2) the Attorney General, the Secretary of the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
+Upon a showing satisfactory to the Federal Energy Administrator by any person that any energy information obtained under this section from such person would, if made public, divulge methods or processes entitled to protection as trade secrets or other proprietary information of such person, such information, or portion thereof, shall be confidential in accordance with the provisions of section 1905 of title 18; except that such information, or part thereof, shall not be deemed confidential for purposes of disclosure, upon request, to (1) any delegate of the Federal Energy Administrator for the purpose of carrying out this chapter and the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>4</sup> (2) the Attorney General, the Secretaryof the Interior, the Federal Trade Commission, the Federal Power Commission, or the Government Accountability Office, when necessary to carry out those agencies’ duties and responsibilities under this and other statutes, and (3) the Congress, or any committee of Congress upon request of the Chairman.
 
 #### (e) Definitions
 

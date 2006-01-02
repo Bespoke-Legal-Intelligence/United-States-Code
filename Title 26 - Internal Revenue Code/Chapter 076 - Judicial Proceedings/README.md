@@ -23,10 +23,6 @@
 
 1966—Pub. L. 89–719, title I, §110(d)(3), Nov. 2, 1966, 80 Stat. 1145, substituted “Taxpayers and Third Parties” for “taxpayers” in item for subchapter B.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7801, 7851 of this title.
-
 
 ---
 

@@ -8,13 +8,7 @@ Selection Criteria and Procedures.—Selection for membership in the Acquisition
 
 Eligibility Criteria.—Except as provided in subsections (c) and (d), only persons who meet all of the following requirements may be considered for service in the Corps:
 
-&emsp;(1)(A) In the case of an employee, the person must be currently serving in a position within grade GS–13 or above of the General Schedule.
-
-&emsp;(B) In the case of a member of the armed forces, the person must be currently serving in the grade of major or, in the case of the Navy, lieutenant commander, or a higher grade.
-
-&emsp;(C) In the case of an applicant for employment, the person must have experience in government or industry equivalent to the experience of a person in a position described in subparagraph (A) or (B).
-
-&emsp;(2) The person must meet the educational requirements prescribed by the Secretary of Defense. Such requirements, at a minimum, shall include both of the following:
+&emsp;(1) The person must meet the educational requirements prescribed by the Secretary of Defense. Such requirements, at a minimum, shall include both of the following:
 
 &emsp;&emsp;(A) A requirement that the person—
 
@@ -28,41 +22,53 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 &emsp;&emsp;&emsp;(ii) at least 24 semester credit hours (or the equivalent) from an accredited institution of higher education in the person's career field and 12 semester credit hours (or the equivalent) from such an institution from among the disciplines listed in clause (i) or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i).
 
-&emsp;(3) The person must meet experience requirements prescribed by the Secretary of Defense. Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
+&emsp;(2) The person must meet experience requirements prescribed by the Secretary of Defense.Such requirements shall, at a minimum, include a requirement for at least four years of experience in an acquisition position in the Department of Defense or in a comparable position in industry or government.
 
-&emsp;(4) The person must meet such other requirements as the Secretary of Defense or the Secretary of the military department concerned prescribes by regulation.
+&emsp;(3) The person must meet such other requirements as the Secretary of Defense or the Secretary of the military department concerned prescribes by regulation.
 
 (c)
 
-Exceptions.—(1) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
+Exceptions.—(1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
-(2) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
-
-(3) Paragraph (1) of subsection (b) shall not apply to an employee who—
-
-&emsp;(A) having previously served in a position within a grade referred to in subparagraph (A) of that paragraph, is currently serving in the same position within a grade below GS–13 of the General Schedule, or in another position within that grade, by reason of a reduction in force or the closure or realignment of a military installation, or for any other reason other than by reason of an adverse personnel action for cause; and
-
-&emsp;(B) except as provided in paragraphs (1) and (2), satisfies the educational, experience, and other requirements prescribed under paragraphs (2), (3), and (4) of that subsection.
+(2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
 
 (d)
 
-Waiver.—(1) Except as provided in paragraph (2), the Secretary of Defense may waive any or all of the requirements of subsection (b) with respect to an employee if the Secretary determines that the employee possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for its decision to waive such requirements.
+Waiver.—(1) Except as provided in paragraph (2), the Secretary of Defense may waive any or all of the requirements of subsection (b) with respect to an employee if the Secretary determines that the employee possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for the decision of the Secretary to waive such requirements.
 
-(2) The Secretary may not waive the requirements of subsection (b)(2)(A)(ii).
+(2) The Secretary may not waive the requirements of subsection (b)(1)(A)(ii).
 
 (e)
 
 Mobility Statements.—(1) The Secretary of Defense is authorized to require civilians in the Acquisition Corps to sign mobility statements.
 
-(2) The Secretary of Defense shall identify which categories of civilians in the Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements.The Secretary shall make available published information on such identification of categories.
+(2) The Secretary of Defense shall identify which categories of civilians in the Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, §824(b), title X, §1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(2), (3), 832(b)(2), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550.)
-
-#### References in Text
-
-The General Schedule, referred to in subsecs. (b)(1)(A) and (c)(3)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, §824(b), title X, §1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(2), (3), 832(b)(2), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 108–375, div. A, title VIII, §812(a)(1), title X, §1084(d)(14), (h)(2), Oct. 28, 2004, 118 Stat. 2013, 2062, 2064; Pub. L. 109–163, div. A, title X, §1056(c)(3), Jan. 6, 2006, 119 Stat. 3439.)
 
 #### Amendments
+
+2006—Subsec. (c)(1), (2). Pub. L. 109–163, §1056(c)(3)(A)(i), substituted “(b)(1)(A) and (b)(1)(B)” for “(b)(2)(A) and (b)(2)(B)”.
+
+Subsec. (c)(3). Pub. L. 109–163, §1056(c)(3)(A)(ii), struck out par. (3) which read as follows: “Paragraph (1) of subsection (b) shall not apply to an employee who—
+
+&emsp;“(A) having previously served in a position within a grade referred to in subparagraph (A) of that paragraph, is currently serving in the same position within a grade below GS–13 of the General Schedule, or in another position within that grade, by reason of a reduction in force or the closure or realignment of a military installation, or for any other reason other than by reason of an adverse personnel action for cause; and
+
+&emsp;“(B) except as provided in paragraphs (1) and (2), satisfies the educational, experience, and other requirements prescribed under paragraphs (2), (3), and (4) of that subsection.”
+
+Subsec. (d)(2). Pub. L. 109–163, §1056(c)(3)(B), substituted “(b)(1)(A)(ii)” for “(b)(2)(A)(ii)”.
+
+2004—Subsec. (a). Pub. L. 108–375, §1084(h)(2), amended directory language of Pub. L. 107–107, §1048(e)(4). See 2001 Amendment note below.
+
+Subsec. (b). Pub. L. 108–375, §812(a)(1), redesignated pars. (2) to (4) as pars. (1) to (3), respectively, and struck out former par. (1) which read as follows:
+
+“(1)(A) In the case of an employee, the person must be currently serving in a position within grade GS–13 or above of the General Schedule.
+
+“(B) In the case of a member of the armed forces, the person must be currently serving in the grade of major or, in the case of the Navy, lieutenant commander, or a higher grade.
+
+“(C) In the case of an applicant for employment, the person must have experience in government or industry equivalent to the experience of a person in a position described in subparagraph (A) or (B).”
+
+Subsec. (d)(1). Pub. L. 108–375, §1084(d)(14), substituted “the decision of the Secretary” for “its decision” before “to waive such requirements.”
 
 2003—Subsec. (a). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps”.
 
@@ -78,7 +84,7 @@ Subsec. (d)(2). Pub. L. 108–136, §831(b)(3)(B), substituted “The Secretary�
 
 Subsec. (e). Pub. L. 108–136, §833(2), substituted “the Acquisition Corps” for “an Acquisition Corps” in pars. (1) and (2).
 
-2001—Subsec. (a). Pub. L. 107–107, §1048(e)(4), struck out at end “Such criteria and procedures shall be in effect on and after October 1, 1993.”
+2001—Subsec. (a). Pub. L. 107–107, §1048(e)(4), as amended by Pub. L. 108–375, §1084(h)(2), struck out atend “Such criteria and procedures shall be in effect on and after October 1, 1993.”
 
 Subsec. (c)(2). Pub. L. 107–107, §824(b), inserted a comma after “business”.
 
@@ -87,6 +93,10 @@ Subsec. (c)(2). Pub. L. 107–107, §824(b), inserted a comma after “business�
 1993—Subsec. (b)(1)(A). Pub. L. 103–89 substituted “Schedule” for “Schedule (including any employee covered by chapter 54 of title 5)”.
 
 1992—Subsec. (b)(2)(B)(ii). Pub. L. 102–484 inserted before period at end “or equivalent training as prescribed by the Secretary to ensure proficiency in the disciplines listed in clause (i)”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title X, §1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(h)(1) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 #### Effective Date of 1993 Amendment
 

@@ -22,7 +22,7 @@ Except as provided in subsection (i), if gasoline is used in an off-highway busi
 
 #### (c) Exempt purposes
 
-If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) or (5) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstandingparagraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
+If gasoline is sold to any person for any purpose described in paragraph (2), (3), (4) or (5) of section 4221(a), the Secretary shall pay (without interest) to such person an amount equal to the product of the number of gallons of gasoline so sold multiplied by the rate at which tax was imposed on such gasoline by section 4081. The preceding sentence shall apply notwithstanding paragraphs (2) and (3) of subsection (f). Subsection (a) shall not apply to gasoline to which this subsection applies.
 
 #### (d) Time for filing claims; period covered
 
@@ -60,11 +60,39 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “off-highway business use” does not include any use in a motorboat.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “off-highway businessuse” does not include any use in a motorboat.
 
 #### (ii) Fisheries and whaling
 
 &emsp;&emsp;&emsp;The term “off-highway business use” shall include any use in a vessel employed in the fisheries or in the whaling business.
+
+#### (C) Uses in mobile machinery
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “off-highway business use” shall include any use in a vehicle which meets the requirements described in clause (ii).
+
+#### (ii) Requirements for mobile machinery
+
+&emsp;&emsp;&emsp;The requirements described in this clause are—
+
+&emsp;&emsp;&emsp;&emsp;(I) the design-based test, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the use-based test.
+
+#### (iii) Design-based test
+
+&emsp;&emsp;&emsp;For purposes of clause (ii)(I), the design-based test is met if the vehicle consists of a chassis—
+
+&emsp;&emsp;&emsp;&emsp;(I) to which there has been permanently mounted (by welding, bolting, riveting, or other means) machinery or equipment to perform a construction, manufacturing, processing, farming, mining, drilling, timbering, or similar operation if the operation of the machinery or equipment is unrelated to transportation on or off the public highways,
+
+&emsp;&emsp;&emsp;&emsp;(II) which has been specially designed to serve only as a mobile carriage and mount (and a power source, where applicable) for the particular machinery or equipment involved, whether or not such machinery or equipment is in operation, and
+
+&emsp;&emsp;&emsp;&emsp;(III) which, by reason of such special design, could not, without substantial structural modification, be used as a component of a vehicle designed to perform a function of transporting any load other than that particular machinery or equipment or similar machinery or equipment requiring such a specially designed chassis.
+
+#### (iv) Use-based test
+
+&emsp;&emsp;&emsp;For purposes of clause (ii)(II), the use-based test is met if the use of the vehicle on public highways was less than 7,500 miles during the taxpayer's taxable year. This clause shall be applied without regard to use of the vehicle by any organization which is described in section 501(c) and exempt from tax under section 501(a).
 
 #### (f) Exempt sales; other payments or refunds available
 
@@ -76,9 +104,9 @@ For purposes of this section—
 
 &emsp;This section shall not apply in respect of gasoline which is used as a fuel in an aircraft—
 
-&emsp;&emsp;(A) in noncommercial aviation (as defined in section 4041(c)(2)), or
+&emsp;&emsp;(A) in aviation which is not commercial aviation (as defined in section 4083(b)), or
 
-&emsp;&emsp;(B) in aviation which is not noncommercial aviation (as so defined) with respect to the tax imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate and, in the case of fuel purchased after September 30, 1995, at so much of the rate specified in section 4081(a)(2)(A) as does not exceed 4.3 cents per gallon.
+&emsp;&emsp;(B) in commercial aviation (as so defined) with respect to the tax imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate and, in the case of fuel purchased after September 30, 1995, at so much of the rate specified in section 4081(a)(2)(A) as does not exceed 4.3 cents per gallon.
 
 #### (3) Gasoline used in trains
 
@@ -86,13 +114,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the Leaking Underground Storage Tank Trust Fund financing rate under section 4081, and
 
-&emsp;&emsp;(B) so much of the rate specified in section 4081(a)(2)(A) as does not exceed—
-
-&emsp;&emsp;&emsp;(i) 6.8 cents per gallon after September 30, 1993, and before October 1, 1995,
-
-&emsp;&emsp;&emsp;(ii) 5.55 cents per gallon after September 30, 1995, and before November 1, 1998, and
-
-&emsp;&emsp;&emsp;(iii) 4.3 cents per gallon after October 31, 1998.
+&emsp;&emsp;(B) so much of the rate specified in section 4081(a)(2)(A) as does not exceed the rate applicable under section 4041(a)(1)(C)(ii).
 
 #### (g) Applicable laws
 
@@ -134,13 +156,27 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;&emsp;<b>(3) For treatment of an Indian tribal government as a State and </b><b><sup>1</sup></b> a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
-(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Pub. L. 85–859, title I, §§163(d)(3), 164(a), Sept. 2, 1958, 72 Stat. 1312; Pub. L. 86–342, title II, §201(d)(2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 87–61, title II, §201(e), June 29, 1961, 75 Stat. 124; Pub. L. 87–508, §5(c)(2), June 28, 1962,76 Stat. 118; Pub. L. 89–44, title VIII, §809(b), June 21, 1965, 79 Stat. 166; Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), May 21, 1970, 84 Stat. 241, 242, 248; Pub. L. 91–605, title III, §303(a)(11), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(11), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1827, 1828, 1834; Pub. L. 95–599, title V, §502(a)(10), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), Nov. 9, 1978, 92 Stat. 3186, 3190; Pub. L. 96–222, title I, §108(c)(1), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), Jan. 6, 1983, 96 Stat. 2170, 2171, 2182, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), Oct. 22, 1986, 100 Stat. 2776, 2777; Pub. L. 100–17, title V, §502(b)(7), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(d)(9), (10), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), Nov. 10, 1988, 102 Stat. 3576, 3577, 3595; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(6), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(6), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), Aug. 10, 1993, 107 Stat. 454, 512, 524; Pub. L. 104–188, title I, §1609(g)(4)(C), Aug. 20, 1996, 110 Stat. 1843; Pub. L. 105–34, title IX, §902(a), Aug. 5, 1997, 111 Stat. 873; Pub. L. 105–178, title IX, §§9006(b)(1), 9009(b)(3), June 9, 1998, 112 Stat. 506, 507; Pub. L. 105–206, title VI, §§6010(g)(3), 6023(24)(A), (C), July 22, 1998, 112 Stat. 814, 826.)
+(Added June 29, 1956, ch. 462, title II, §208(c), 70 Stat. 394; amended July 25, 1956, ch. 725, §2, 70 Stat. 644; Pub. L. 85–859, title I, §§163(d)(3), 164(a), Sept. 2, 1958, 72 Stat. 1312; Pub. L. 86–342, title II, §201(d)(2), Sept. 21, 1959, 73 Stat. 615; Pub. L. 87–61, title II, §201(e), June 29, 1961, 75 Stat. 124; Pub. L. 87–508, §5(c)(2), June 28, 1962,76 Stat. 118; Pub. L. 89–44, title VIII, §809(b), June 21, 1965, 79 Stat. 166; Pub. L. 91–258, title II, §§205(b)(1), (c)(8), 207(b), May 21, 1970, 84 Stat. 241, 242, 248; Pub. L. 91–605, title III, §303(a)(11), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(11), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, §1906(a)(27)(A)(i), (B)–(D), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1827, 1828, 1834; Pub. L. 95–599, title V, §502(a)(10), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §§222(a)(1), 233(a)(1), (3)(A), Nov. 9, 1978, 92 Stat. 3186, 3190; Pub. L. 96–222, title I, §108(c)(1), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–424, title V, §§511(c)(1), (3), 515(b)(7), 516(a)(6), Jan. 6, 1983, 96 Stat. 2170, 2171, 2182, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(2), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 99–514, title XVII, §1703(c)(1), (2)(A), (B), (D), Oct. 22, 1986, 100 Stat. 2776, 2777; Pub. L. 100–17, title V, §502(b)(7), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title X, §10502(d)(9), (10), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(6)–(8), (15), title II, §2001(d)(3)(E), (F), Nov. 10, 1988, 102 Stat. 3576, 3577, 3595; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(6), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(6), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13163(b), 13241(f)(6), (7), 13242(d)(20), (22)–(24), Aug. 10, 1993, 107 Stat. 454, 512, 524; Pub. L. 104–188, title I, §1609(g)(4)(C), Aug. 20, 1996, 110 Stat. 1843; Pub. L. 105–34, title IX, §902(a), Aug. 5, 1997, 111 Stat. 873; Pub. L. 105–178, title IX, §§9006(b)(1), 9009(b)(3), June 9, 1998, 112 Stat. 506, 507; Pub. L. 105–206, title VI, §§6010(g)(3), 6023(24)(A), (C), July 22, 1998, 112 Stat. 814, 826; Pub. L. 108–357, title II, §241(a)(2)(C), title VIII, §851(d)(1), Oct. 22, 2004, 118 Stat. 1438, 1608; Pub. L. 109–59, title XI, §11151(b)(3), Aug. 10, 2005, 119 Stat. 1968.)
 
 #### Prior Provisions
 
 A prior section 6421 was renumbered section 6422 of this title.
 
 #### Amendments
+
+2005—Subsec. (f)(2)(A). Pub. L. 109–59, §11151(b)(3)(A), substituted “aviation which is not commercial aviation (as defined in section 4083(b))” for “noncommercial aviation (as defined in section 4041(c)(2))”.
+
+Subsec. (f)(2)(B). Pub. L. 109–59, §11151(b)(3)(B), substituted “commercial aviation” for “aviation which is not noncommercial aviation”.
+
+2004—Subsec. (e)(2)(C). Pub. L. 108–357, §851(d)(1), added subpar. (C).
+
+Subsec. (f)(3)(B). Pub. L. 108–357, §241(a)(2)(C), amended subpar. (B) generally. Prior to amendment, subpar (B) read as follows: “so much of the rate specified in section 4081(a)(2)(A) as does not exceed—
+
+&emsp;“(i) 6.8 cents per gallon after September 30, 1993, and before October 1, 1995,
+
+&emsp;“(ii) 5.55 cents per gallon after September 30, 1995, and before November 1, 1998, and
+
+&emsp;“(iii) 4.3 cents per gallon after October 31, 1998.”
 
 1998—Subsecs. (a), (b)(1). Pub. L. 105–206, §6023(24)(C), substituted “subsection (i)” for “subsection (j)”.
 
@@ -332,6 +368,16 @@ Subsec. (i)(2), (3). Pub. L. 85–859, §163(d)(3), substituted “section 6416(
 
 1956—Subsec. (d)(2). Act July 25, 1956, substituted “4263(a)” for “4262(b)”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 11151(f)(1) of Pub. L. 109–59, set out as a note under section 4081 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 241(a)(2)(C) of Pub. L. 108–357 effective Jan. 1, 2005, see section 241(c) of Pub. L. 108–357, set out as a note under section 4041 of this title.
+
+Amendment by section 851(d)(1) of Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 851(d)(4) of Pub. L. 108–357, set out as a note under section 4082 of this title.
+
 #### Effective Date of 1998 Amendments
 
 Amendment by section 6023(24)(A), (C) of Pub. L. 105–206 effective July 22, 1998, see section 6023(32) of Pub. L. 105–206, set out as a note under section 34 of this title.
@@ -425,10 +471,6 @@ Section 164(b) of Pub. L. 85–859 provided that: “The amendment made by subse
 #### Effective Date of 1956 Amendment
 
 Amendment by act July 25, 1956, applicable to amounts paid on or after first day of first month which begins more than sixty days after July 25, 1956, for transportation commencing on or after such first day, see section 6 of act July 25, 1956, set out as a note under section 4261 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 34, 4041, 4084, 4483, 6206, 6427, 6504, 6511, 6612, 6675, 7210, 7603, 7604, 7605, 7609, 7610, 9502, 9503, 9508 of this title; title 16 section 460<i>l–</i>11.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(and”.</i>
 

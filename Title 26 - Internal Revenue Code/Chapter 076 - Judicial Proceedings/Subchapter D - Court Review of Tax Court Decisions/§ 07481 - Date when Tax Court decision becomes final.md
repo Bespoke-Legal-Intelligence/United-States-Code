@@ -90,7 +90,7 @@ If with respect to a decedent's estate subject to a decision of the Tax Court—
 
 &emsp;&emsp;(B) interest on any estate, succession, legacy, or inheritance tax imposed by a State on such estate during the period of the extension of time for payment under section 6166,
 
-> then, upon a motion by the petitioner in such case in which such time for payment of tax hasbeen extended under section 6166, the Tax Court may reopen the case solely to modify the Court's decision to reflect such estate's entitlement to a deduction for such administration expenses under section 2053 and may hold further trial solely with respect to the claim for such deduction if, within the discretion of the Tax Court, such a hearing is deemed necessary. An order of the Tax Court disposing of a motion under this subsection shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
+> then, upon a motion by the petitioner in such case in which such time for payment of tax has been extended under section 6166, the Tax Court may reopen the case solely to modify the Court's decision to reflect such estate's entitlement to a deduction for such administration expenses under section 2053 and may hold further trial solely with respect to the claim for such deduction if, within the discretion of the Tax Court, such a hearing is deemed necessary. An order of the Tax Court disposing of a motion under this subsection shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 889; Pub. L. 91–172, title IX, §960(h)(1), Dec. 30, 1969, 83 Stat. 734; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §§6246(a), (b)(2), 6247(a), (b)(2), Nov. 10, 1988, 102 Stat. 3751, 3752; Pub. L. 105–34, title XIV, §§1452(a), 1454(b)(3), Aug. 5, 1997, 111 Stat. 1054, 1057.)
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 105–34, §1452(a), reenacted heading without change and a
 
 &emsp;“(2) the taxpayer has paid the entire amount of the deficiency plus interest claimed by the Secretary, and
 
-&emsp;“(3) within 1 year after the date the decision of the Tax Court becomes final under subsection (a), the taxpayer files a petition in the Tax Court for a determination that the amount of interest claimed by the Secretary exceeds the amount of interest imposed by this title,
+&emsp;“(3) within 1 year after the date the decision of the Tax Court becomes final under subsection (a), the taxpayer files a petition in the Tax Court for a determination that the amount of interest claimed by theSecretary exceeds the amount of interest imposed by this title,
 
 > then the Tax Court may reopen the case solely to determine whether the taxpayer has made an overpayment of such interest and the amount of any such overpayment. If the Tax Court determines under this subsection that the taxpayer has made an overpayment of interest, then that determination shall be treated under section 6512(b)(1) as a determination of an overpayment of tax. An order of the Tax Court redetermining the interest due, when entered upon the records of the court, shall be reviewable in the same manner as a decision of the Tax Court.”
 
@@ -135,8 +135,4 @@ Amendment by section 6247(a), (b)(2) of Pub. L. 100–647 effective with respect
 #### Effective Date of 1969 Amendment
 
 Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section 962(f) of Pub. L. 91–172, set out as a note under section 7483 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6214, 6230, 6255, 6512, 7428, 7436 of this title.
 

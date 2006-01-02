@@ -16,10 +16,6 @@
 
 1989—Pub. L. 101–189, div. A, title XVI, §1621(a)(7)(B), Nov. 29, 1989, 103 Stat. 1603, substituted “programs the Department of Veterans Affairs” for “programs administered by the Veterans’ Administration” in item 2185.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 37 section 1013.
-
 
 ---
 

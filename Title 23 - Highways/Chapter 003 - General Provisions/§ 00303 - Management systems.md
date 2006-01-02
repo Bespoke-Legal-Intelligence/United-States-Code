@@ -62,7 +62,7 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b), 
 
 #### Prior Provisions
 
-A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87–392, §1, Oct. 4, 1961, 75 Stat. 822; Pub. L. 88–426, title III, §305(24), Aug. 14, 1964, 78 Stat.425; Pub. L. 91–605, title I, §114(a), Dec. 31, 1970, 84 Stat. 1722; Pub. L. 93–87, title I, §152(4), Aug. 13, 1973, 87 Stat. 276, provided for administrative organization of the Federal Highway Administration, prior to repeal by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2445. See section 104 of Title 49, Transportation.
+A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87–392, §1, Oct. 4, 1961, 75 Stat. 822; Pub. L. 88–426, title III, §305(24), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–605, title I, §114(a), Dec. 31, 1970, 84 Stat. 1722; Pub. L. 93–87, title I, §152(4), Aug. 13, 1973, 87 Stat. 276, provided for administrative organization of the Federal Highway Administration, prior to repeal by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2445. See section 104 of Title 49, Transportation.
 
 #### Amendments
 
@@ -85,4 +85,54 @@ Section effective Dec. 18, 1991, and applicable to funds authorized to be approp
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (f)(1) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 137 of House Document No. 103–7.
+
+#### Real-time System Management Information Program
+
+Pub. L. 109–59, title I, §1201, Aug. 10, 2005, 119 Stat. 1196, provided that:
+
+“(a)
+
+Establishment.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] shall establish a real-time system management information program to provide, in all States, the capability to monitor, in real-time, the traffic and travel conditions of the major highways of the United States and to share that information to improve the security of the surface transportation system, to address congestion problems, to support improved response to weather events and surface transportation incidents, and to facilitate national and regional highway traveler information.
+
+&emsp;“(2)
+
+Purposes.—The purposes of the real-time system management information program are to—
+
+&emsp;&emsp;“(A) establish, in all States, a system of basic real-time information for managing and operating the surface transportation system;
+
+&emsp;&emsp;“(B) identify longer range real-time highway and transit monitoring needs and develop plans and strategies for meeting such needs; and
+
+&emsp;&emsp;“(C) provide the capability and means to share that data with State and local governments and the traveling public.
+
+“(b)
+
+Data Exchange Formats.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall establish data exchange formats to ensure that the data provided by highway and transit monitoring systems, including statewide incident reporting systems, can readily be exchanged across jurisdictional boundaries, facilitating nationwide availability of information.
+
+“(c)
+
+Regional Intelligent Transportation System Architecture.—
+
+&emsp;“(1)
+
+Addressing information needs.—As State and local governments develop or update regional intelligent transportation system architectures, described in section 940.9 of title 23, Code of Federal Regulations, such governments shall explicitly address real-time highway and transit information needs and the systems needed to meet such needs, including addressing coverage, monitoring systems, data fusion and archiving, and methods of exchanging or sharing highway and transit information.
+
+&emsp;“(2)
+
+Data exchange.—States shall incorporate the data exchange formats established by the Secretary \[of Transportation\] under subsection (b) to ensure that the data provided by highway and transit monitoring systems may readily be exchanged with State and local governments and may be made available to the traveling public.
+
+“(d)
+
+Eligibility.—Subject to project approval by the Secretary \[of Transportation\], a State may obligate funds apportioned to the State under sections 104(b)(1), 104(b)(2), and 104(b)(3) of title 23, United States Code, for activities relating to the planning and deployment of real-time monitoring elements that advance the goals and purposes described in subsection (a).
+
+“(e)
+
+Limitation on Statutory Construction.—Nothing in this section shall be construed as altering or otherwise affecting the applicability of the requirements of chapter 1 of title 23, United States Code (including requirements relating to the eligibility of a project for assistance under the program, the location of the project, and the Federal-share payable on account of the project), to amounts apportioned to a State for a program under section 104(b) that are obligated by the State for activities and projects under this section.
+
+“(f)
+
+Statewide Incident Reporting System Defined.—In this section, the term ‘statewide incident reporting system’ means a statewide system for facilitating the real-time electronic reporting of surface transportation incidents to a central location for use in monitoring the event, providing accurate traveler information, and responding to the incident as appropriate.”
 

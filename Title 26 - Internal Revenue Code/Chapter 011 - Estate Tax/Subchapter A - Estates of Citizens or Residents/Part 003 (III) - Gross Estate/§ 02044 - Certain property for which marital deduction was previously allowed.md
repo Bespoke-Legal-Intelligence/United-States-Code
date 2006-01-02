@@ -38,7 +38,3 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Section applicable to estates of decedents dying after Dec. 31, 1981, see section 403(e) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 2056 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1014, 2053, 2207A, 2523, 2642 of this title.
-

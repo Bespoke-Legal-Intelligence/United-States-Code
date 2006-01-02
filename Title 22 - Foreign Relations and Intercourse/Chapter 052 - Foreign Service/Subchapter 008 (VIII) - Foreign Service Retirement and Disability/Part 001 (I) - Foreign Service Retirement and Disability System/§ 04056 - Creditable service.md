@@ -72,7 +72,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 &emsp;(A) the service of any individual who first became a participant on or after October 17, 1983, without any credit under this section for civilian service performed prior to October 1982; or
 
-&emsp;(B) any military or naval service performed prior to 1957 by an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, or any period of military or naval service performed after 1956 with respect to which the participant hasmade a contribution (with interest if any is required) under section 4045(e) of this title; or
+&emsp;(B) any military or naval service performed prior to 1957 by an individual who first became a participant on or after October 17, 1983, with credit under this section for civilian service performed prior to October 1982, or any period of military or naval service performed after 1956 with respect to which the participant has made a contribution (with interest if any is required) under section 4045(e) of this title; or
 
 &emsp;(C) any military or naval service performed prior to 1977 by any individual who first became a participant before October 17, 1983, or any period of military or naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 4045(e) of this title.
 
@@ -102,7 +102,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 “(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section.”
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446 provided that subsection (d) of this section, applicable (i) to contributions for civilian service per</i><i>formed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under subsec. (a) of this section any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Form, content, and assurances
 
-An application for a grant for a demonstration project for services under this subchapter shall be in such form and contain such information as the Secretary may require, and shall include—
+An application for a grant for a demonstration project for services under this subchapter shallbe in such form and contain such information as the Secretary may require, and shall include—
 
 &emsp;(1) an identification of the incidence of adolescent pregnancy and related problems;
 
@@ -12,7 +12,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;(4) a description of the major unmet needs for services for adolescents at risk of initial or recurrent pregnancies and an estimate of the number of adolescents not being served in the area;
 
-&emsp;(5)(A) in the case of an applicant who will provide care services, a description of how allcore services will be provided in the demonstration project using funds under this subchapter or will otherwise be provided by the grantee in the area to be served, the population to which such services will be provided, how such services will be coordinated, integrated, and linked with other related programs and services and the source or sources of funding of such core services in the public and private sectors; or
+&emsp;(5)(A) in the case of an applicant who will provide care services, a description of how all core services will be provided in the demonstration project using funds under this subchapter or will otherwise be provided by the grantee in the area to be served, the population to which such services will be provided, how such services will be coordinated, integrated, and linked with other related programs and services and the source or sources of funding of such core services in the public and private sectors; or
 
 &emsp;(B) in the case of an applicant who will provide prevention services, a description of the necessary services to be provided and how the applicant will provide such services;
 
@@ -50,7 +50,7 @@ An application for a grant for a demonstration project for services under this s
 
 &emsp;&emsp;(iii) to seek such reimbursement on the basis of the full amount of fees for services without application of any discount; and
 
-&emsp;(C) assurances that the applicant has submitted or will submit to the Secretary such reports as the Secretary may require to determine compliance with this paragraph;
+&emsp;(C) assurances that the applicant has submitted or will submit to the Secretary suchreports as the Secretary may require to determine compliance with this paragraph;
 
 &emsp;(17) assurances that the applicant will make maximum use of funds available under subchapter VIII of this chapter;
 

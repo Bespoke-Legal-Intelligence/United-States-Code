@@ -2,7 +2,7 @@
 
 For purposes of this subpart:
 
-&emsp;(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
+&emsp;(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in healthadministration or behavioral and mental health practice, including clinical psychology.
 
 &emsp;(2) The term “eligible lender” means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
 

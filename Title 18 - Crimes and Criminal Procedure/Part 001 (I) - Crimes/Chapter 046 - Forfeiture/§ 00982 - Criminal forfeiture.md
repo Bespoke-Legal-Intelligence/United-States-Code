@@ -24,7 +24,7 @@
 
 &emsp;(F) section 1343 (relating to wire fraud),
 
-> involving the sale of assets acquired or held by the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the Office of Thrift Supervision, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
+> involving the sale of assets acquired or held by the Resolution Trust Corporation, the FederalDeposit Insurance Corporation, as conservator or receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the Office of Thrift Supervision, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
 
 (4) With respect to an offense listed in subsection (a)(3) committed for the purpose of executing or attempting to execute any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent statements, pretenses, representations, or promises, the gross receipts of such an offense shall include any property, real or personal, tangible or intangible, which is obtained, directly or indirectly, as a result of such offense.
 
@@ -108,7 +108,7 @@ Subsec. (b)(1)(A). Pub. L. 104–191, §249(b), inserted “or (a)(6)” after �
 
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “, 1957, or 1960” for “or 1957”.
 
-Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Thecourt, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
+Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.”
 
 Subsec. (a)(5). Pub. L. 102–519 added par. (5).
 
@@ -125,10 +125,6 @@ Subsec. (b). Pub. L. 101–73, §963(c)(2), struck out “The provisions of subs
 1988—Subsec. (a). Pub. L. 100–690, §6463(c), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The court, in imposing sentence on a person convicted of an offense under section 1956 or 1957 of this title shall order that the person forfeit to the United States any property, real or personal, which represents the gross receipts the person obtained, directly or indirectly, as a result of such offense, or which is traceable to such gross receipts.”
 
 Subsec. (b). Pub. L. 100–690, §6464, substituted “(p)” for “(<i>o</i>)” in two places and inserted at end “However, the substitution of assets provisions of subsection 413(p) not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense.”
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Effective Date of 2000 Amendment
 

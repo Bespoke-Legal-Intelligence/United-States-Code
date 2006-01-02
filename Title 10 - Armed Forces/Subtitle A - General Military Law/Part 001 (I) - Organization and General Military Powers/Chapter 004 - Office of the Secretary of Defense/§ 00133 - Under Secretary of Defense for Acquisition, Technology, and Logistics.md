@@ -16,7 +16,7 @@
 
 (c) The Under Secretary—
 
-&emsp;(1) is the senior procurement executive for the Department of Defense for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3));
+&emsp;(1) is the senior procurement executive for the Department of Defense for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)); <sup>1</sup>
 
 &emsp;(2) is the Defense Acquisition Executive for purposes of regulations and procedures of the Department providing for a Defense Acquisition Executive; and
 
@@ -35,6 +35,8 @@
 (Added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707, §134a; renumbered §133 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, §101(c) \[title X, §901\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, §101(c) \[title X, §901\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, §901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, §904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, §801(a), Dec. 28, 2001, 115 Stat. 1174.)
 
 #### References in Text
+
+Section 16 of the Office of Federal Procurement Policy Act, referred to in subsec. (c)(1), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of title 41.
 
 The Inspector General Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -84,7 +86,5 @@ Pub. L. 103–160, div. A, title IX, §904(a), (f), Nov. 30, 1993, 107 Stat. 172
 
 Section 1006 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel.”
 
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

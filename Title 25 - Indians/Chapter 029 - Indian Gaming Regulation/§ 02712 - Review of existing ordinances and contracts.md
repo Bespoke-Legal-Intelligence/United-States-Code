@@ -2,7 +2,7 @@
 
 #### (a) Notification to submit
 
-As soon as practicable after the organization of the Commission, the Chairman shall notify each Indian tribe or management contractor who, prior to October 17, 1988, adopted an ordinance or resolution authorizing class II gaming or class III gaming or entered into a management contract, that such ordinance, resolution, or contract, including all collateral agreements relating to the gaming activity, must be submitted for his review within 60 days of such notification. Any activity conducted under such ordinance, resolution, contract, or agreement shall be valid under this chapter, or any amendment made by this chapter, unless disapproved under this section.
+As soon as practicable after the organization of the Commission, the Chairman shall notifyeach Indian tribe or management contractor who, prior to October 17, 1988, adopted an ordinance or resolution authorizing class II gaming or class III gaming or entered into a management contract, that such ordinance, resolution, or contract, including all collateral agreements relating to the gaming activity, must be submitted for his review within 60 days of such notification. Any activity conducted under such ordinance, resolution, contract, or agreement shall be valid under this chapter, or any amendment made by this chapter, unless disapproved under this section.
 
 #### (b) Approval or modification of ordinance or resolution
 
@@ -18,7 +18,7 @@ As soon as practicable after the organization of the Commission, the Chairman sh
 
 (2) If the Chairman determines that a management contract submitted under subsection (a) of this section, and the management contractor under such contract, meet the requirements of section 2711 of this title, the Chairman shall approve the management contract.
 
-(3) If the Chairman determines that a contract submitted under subsection (a) of this section, or the management contractor under a contract submitted under subsection (a) of this section, does not meet the requirements of section 2711 of this title, the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180days after notification of necessary modifications to come into compliance.
+(3) If the Chairman determines that a contract submitted under subsection (a) of this section, or the management contractor under a contract submitted under subsection (a) of this section, does not meet the requirements of section 2711 of this title, the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
 
 (Pub. L. 100–497, §13, Oct. 17, 1988, 102 Stat. 2481.)
 

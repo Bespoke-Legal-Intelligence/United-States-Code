@@ -14,7 +14,7 @@ Contracts made pursuant to subsection (a) of this section shall be made with a v
 
 #### (b) Renewal of contracts for electrical energy
 
-The holder of any contract for electrical energy not in default thereunder shall be entitled to a renewal thereof upon such terms and conditions as may be authorized or required under the then existing laws and regulations, unless the property of such holder dependent for its usefulness on a continuation of the contract be purchased or acquired and such holder be compensated for damages to its property, used and useful in the transmission and distribution of such electrical energy and not taken, resulting from the termination of the supply.
+The holder of any contract for electrical energy not in default thereunder shall be entitled to a renewal thereof upon such terms and conditions as may be authorized or required under thethen existing laws and regulations, unless the property of such holder dependent for its usefulness on a continuation of the contract be purchased or acquired and such holder be compensated for damages to its property, used and useful in the transmission and distribution of such electrical energy and not taken, resulting from the termination of the supply.
 
 #### (c) Applicants for purchase of water and electrical energy; preferences
 
@@ -24,7 +24,7 @@ The rights covered by such preference shall be contracted for by such State with
 
 #### (d) Transmission lines for electrical energy; use; rights of way over public and reserved lands
 
-Any agency receiving a contract for electrical energy equivalent to one hundred thousand firm horsepower, or more, may, when deemed feasible by the said Secretary, from engineering and economic considerations and under general regulations prescribed by him, be required to permit any other agency having contracts hereunder for less than the equivalent of twenty-five thousand firm horsepower, upon application to the Secretary of the Interior made within sixty days from the execution of the contract of the agency the use of whose transmission line is applied for, to participate in the benefits and use of any main transmission line constructed or to be constructed by the former for carrying such energy\(not exceeding, however, one-fourth the capacity of such line), upon payment by such other agencies of a reasonable share of the cost of construction, operation, and maintenance thereof.
+Any agency receiving a contract for electrical energy equivalent to one hundred thousand firm horsepower, or more, may, when deemed feasible by the said Secretary, from engineering and economic considerations and under general regulations prescribed by him, be required to permit any other agency having contracts hereunder for less than the equivalent of twenty-five thousand firm horsepower, upon application to the Secretary of the Interior made within sixty days from the execution of the contract of the agency the use of whose transmission line is applied for, to participate in the benefits and use of any main transmission line constructed or to be constructed by the former for carrying such energy (not exceeding, however, one-fourth the capacity of such line), upon payment by such other agencies of a reasonable share of the cost of construction, operation, and maintenance thereof.
 
 The use is authorized of such public and reserved lands of the United States as may be necessary or convenient for the construction, operation, and maintenance of main transmission lines to transmit said electrical energy.
 

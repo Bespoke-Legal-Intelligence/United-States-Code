@@ -24,7 +24,7 @@ The program shall—
 
 &emsp;(6) ensure that the high-end computing activities of the Department of Energy are coordinated with relevant activities in industry and with other Federal agencies, including the National Science Foundation, the Defense Advanced Research Projects Agency, the National Nuclear Security Administration, the National Security Agency, the National Institutes of Health, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the National Institutes of Standards and Technology, and the Environmental Protection Agency.
 
-#### (c) Leadership systems facilities
+#### (c) Leadership Systems facilities
 
 #### (1) In general
 

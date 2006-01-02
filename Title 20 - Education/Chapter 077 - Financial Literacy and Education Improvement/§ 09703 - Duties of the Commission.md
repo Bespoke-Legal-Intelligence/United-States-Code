@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) understand resources that ought to be easily accessible and affordable, and that inform and educate investors as to their rights and avenues of recourse when an investor believes his or her rights have been violated by unprofessional conduct of market intermediaries;
 
-&emsp;&emsp;(H) increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution ofmultilingual financial literacy and education materials;
+&emsp;&emsp;(H) increase awareness of the particular financial needs and financial transactions (such as the sending of remittances) of consumers who are targeted in multilingual financial literacy and education programs and improve the development and distribution of multilingual financial literacy and education materials;
 
 &emsp;&emsp;(I) promote bringing individuals who lack basic banking services into the financial mainstream by opening and maintaining an account with a financial institution; and
 

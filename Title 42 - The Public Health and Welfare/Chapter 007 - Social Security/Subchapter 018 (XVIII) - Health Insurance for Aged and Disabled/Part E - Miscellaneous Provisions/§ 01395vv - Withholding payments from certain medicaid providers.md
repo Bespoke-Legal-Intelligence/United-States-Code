@@ -16,7 +16,7 @@ The Secretary shall by regulation provide procedures for implementation of this 
 
 &emsp;(2) determine the amount of the payment to which the institution or person would otherwise be entitled under this subchapter which shall be treated as a setoff against overpayments under subchapter XIX of this chapter, and
 
-&emsp;(3) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XIX of this chapter and to which the institution or person would otherwise be entitled under this subchapter.
+&emsp;(3) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be inexcess of overpayments under subchapter XIX of this chapter and to which the institution or person would otherwise be entitled under this subchapter.
 
 #### (c) Payment to States of amounts recovered
 

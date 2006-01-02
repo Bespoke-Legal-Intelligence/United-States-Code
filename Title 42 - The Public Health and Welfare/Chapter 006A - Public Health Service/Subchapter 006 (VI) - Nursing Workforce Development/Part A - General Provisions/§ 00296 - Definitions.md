@@ -30,7 +30,7 @@ As used in this subchapter:
 
 #### (B) New programs
 
-&emsp;&emsp;A new program of nursing that, by reason of an insufficient period of operation, is not,at the time of the submission of an application for a grant or contract under this subchapter, eligible for accreditation by such a recognized body or bodies or State agency, shall be deemed accredited for purposes of this subchapter if the Secretary of Education finds, after consultation with the appropriate accreditation body or bodies, that there is reasonable assurance that the program will meet the accreditation standards of such body or bodies prior to the beginning of the academic year following the normal graduation date of students of the first entering class in such a program.
+&emsp;&emsp;A new program of nursing that, by reason of an insufficient period of operation, is not, at the time of the submission of an application for a grant or contract under this subchapter, eligible for accreditation by such a recognized body or bodies or State agency, shall be deemed accredited for purposes of this subchapter if the Secretary of Education finds, after consultation with the appropriate accreditation body or bodies, that there is reasonable assurance that the program will meet the accreditation standards of such body or bodies prior to the beginning of the academic year following the normal graduation date of students of the first entering class in such a program.
 
 #### (7) Nonprofit
 
@@ -50,7 +50,7 @@ As used in this subchapter:
 
 #### (11) Health care facility
 
-&emsp;The term “health care facility” means an Indian Health Service health center, a Native Hawaiian health center, a hospital, a Federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, a State or local department of public health, a skilled nursing facility, an ambulatory surgical center, or any other facility designated by the Secretary.
+&emsp;The term “health care facility” means an Indian Health Service health center, a Native Hawaiian health center, a hospital, a Federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, aState or local department of public health, a skilled nursing facility, an ambulatory surgical center, or any other facility designated by the Secretary.
 
 #### (12) Home health agency
 

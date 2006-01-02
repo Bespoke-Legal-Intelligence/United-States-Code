@@ -214,7 +214,7 @@ Except as provided in regulations—
 
 &emsp;&emsp;(A) if such property is includible in the gross estate of the transferor (other than by reason of section 2035), its value for purposes of chapter 11, or
 
-&emsp;&emsp;(B) if subparagraph (A) does not apply, its value as of the close of the estate tax inclusion period (or, if any allocation of GST exemption to such property is not made on a timely filed gift tax return for the calendar year in which such period ends, its value as of the time such allocation is filed with the Secretary).
+&emsp;&emsp;(B) if subparagraph (A) does not apply, its value as of the close of the estate tax inclusion period (or, if any allocation of GST exemption to such property is not made on atimely filed gift tax return for the calendar year in which such period ends, its value as of the time such allocation is filed with the Secretary).
 
 #### (3) Estate tax inclusion period
 
@@ -286,7 +286,7 @@ Subsec. (d)(2)(B)(i)(I). Pub. L. 101–508, §11704(a)(17), substituted “State
 
 1989—Subsec. (b)(1), (3). Pub. L. 101–239 substituted “a gift tax return filed on or before the date prescribed by section 6075(b)” for “a timely filed gift tax return required by section 6019” in introductory provisions.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3)and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
+1988—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(4)(B), struck out at end “Except as provided in paragraphs (3) and (4) of subsection (b), the value determined under subparagraph (B)(i) shall be of the property as of the time of the transfer to the trust (or the direct skip).”
 
 Subsec. (b). Pub. L. 100–647, §1014(g)(4)(D), inserted “Except as provided in subsection (f)—” as introductory provision.
 
@@ -369,8 +369,4 @@ Amendment by section 1014(g)(4), (18) of Pub. L. 100–647 effective, except as 
 #### Effective Date
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2632, 2654 of this title.
 

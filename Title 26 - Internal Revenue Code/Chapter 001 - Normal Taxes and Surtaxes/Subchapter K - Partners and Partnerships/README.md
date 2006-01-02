@@ -13,10 +13,6 @@
 
 1997—Pub. L. 105–34, title XII, §1221(b), Aug. 5, 1997, 111 Stat. 1008, added item for part IV.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 384, 1011, 1012, 1031 of this title; title 42 section 411; title 46 App. section 1177.
-
 
 ---
 

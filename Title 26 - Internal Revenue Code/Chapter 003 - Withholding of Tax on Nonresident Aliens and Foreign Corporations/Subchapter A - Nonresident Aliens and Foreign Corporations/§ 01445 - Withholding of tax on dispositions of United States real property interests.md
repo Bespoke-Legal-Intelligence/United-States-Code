@@ -74,7 +74,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (B) Request
 
-&emsp;&emsp;At the request of the transferor or transferee, the Secretary shall determine, withrespect to any disposition, the transferor's maximum tax liability.
+&emsp;&emsp;At the request of the transferor or transferee, the Secretary shall determine, with respect to any disposition, the transferor's maximum tax liability.
 
 #### (C) Refund of excess amounts withheld
 
@@ -184,7 +184,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (6) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for exceptions from provisions of this subsection and regulations for the application of this subsection in the case of payments through 1 or more entities.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations providing for exceptions from provisionsof this subsection and regulations for the application of this subsection in the case of payments through 1 or more entities.
 
 #### (f) Definitions
 
@@ -293,8 +293,4 @@ Section 129(c)(1) of Pub. L. 98–369 provided that: “The amendment made by su
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 897, 6039C of this title; title 48 section 1421i.
 

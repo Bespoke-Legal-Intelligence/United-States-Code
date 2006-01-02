@@ -2,7 +2,7 @@
 
 #### (a) Language resource centers authorized
 
-The Secretary is authorized to make grants to and enter into contracts with institutions of higher education, or combinations of such institutions, for the purpose of establishing, strengthening, and operating a small number of national language resource and training centers, which shall serve as resources to improve the capacity to teach and learn foreign languages effectively.
+The Secretary is authorized to make grants to and enter into contracts with institutions of higher education, or combinations of such institutions, for the purpose of establishing, strengthening, and operating a small number of national language resource and training centers, which shall serve as resources to improve thecapacity to teach and learn foreign languages effectively.
 
 #### (b) Authorized activities
 
@@ -24,7 +24,7 @@ The activities carried out by the centers described in subsection (a) of this se
 
 &emsp;&emsp;(F) the development and dissemination of materials designed to serve as a resource for foreign language teachers at the elementary and secondary school levels; and
 
-&emsp;&emsp;(G) the operation of intensive summer language institutes to train advanced foreignlanguage students, to provide professional development, and to improve language instruction through preservice and inservice language training for teachers.
+&emsp;&emsp;(G) the operation of intensive summer language institutes to train advanced foreign language students, to provide professional development, and to improve language instruction through preservice and inservice language training for teachers.
 
 #### (c) Conditions for grants
 

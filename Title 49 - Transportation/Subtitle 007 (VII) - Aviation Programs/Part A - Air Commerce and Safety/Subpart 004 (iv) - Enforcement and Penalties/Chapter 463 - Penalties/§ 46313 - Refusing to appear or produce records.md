@@ -1,6 +1,6 @@
 ### §46313. Refusing to appear or produce records
 
-A person not obeying a subpena or requirement of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal AviationAdministration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
+A person not obeying a subpena or requirement of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239; Pub. L. 107–71, title I, §140(d)(7), Nov. 19, 2001, 115 Stat. 642.)
 

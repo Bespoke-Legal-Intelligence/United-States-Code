@@ -20,10 +20,6 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 2004—Pub. L. 108–357 struck out “(a)” before “In any case”, struck out “, but this clause (6) shall not be applicable in the case of burley tobacco” before period at end of par. (6), and struck out subsecs. (b) and (c), which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
 
-#### Effective Date of 2004 Amendment
-
-Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
-
 1999—Subsec. (b). Pub. L. 106–78 inserted “or flue-cured” after “Burley”.
 
 1991—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out “or” at end of par. (4), substituted “; or” for period at end of par. (5), substituted a period for “; or” at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
@@ -34,11 +30,15 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 1970—Pub. L. 91–524 temporarily inserted provision that term “acreage allotments” include the farm base acreage allotments for upland cotton and the domestic allotment for wheat. See Effective and Termination Dates of 1970 Amendment note below.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
+
 #### Effective and Termination Dates of 1970 Amendment
 
 Sections 404 and 605 of Pub. L. 91–524, as amended by Pub. L. 93–86, §1(11), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by those sections are effective only with respect to 1971 through 1977 crops.
 
 #### Savings Provision
 
-Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
+Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or anearlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 

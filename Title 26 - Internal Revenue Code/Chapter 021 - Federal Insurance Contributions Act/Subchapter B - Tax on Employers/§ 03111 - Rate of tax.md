@@ -30,15 +30,17 @@ In addition to the tax imposed by the preceding subsection, there is hereby impo
 
 #### (c) Relief from taxes in cases covered by certain international agreements
 
-During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement to taxes or contributions for similar purposes under the social security system of such foreign country.
+During any period in which there is in effect an agreement entered into pursuant to section233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530.)
 
 #### References in Text
 
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
 1988—Subsecs. (a), (b). Pub. L. 100–647 made technical correction to directory language of Pub. L. 100–203, §9006(b)(1), see 1987 Amendment note below.
 
@@ -54,7 +56,7 @@ Subsec. (c). Pub. L. 95–216, §317(b)(2), added subsec. (c).
 
 1976—Subsec. (a). Pub. L. 94–455, §1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
-Subsec. (b). Pub. L. 94–455, §1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendaryears 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+Subsec. (b). Pub. L. 94–455, §1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
 1973—Subsec. (a)(4). Pub. L. 93–233, §6(a)(2), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
@@ -78,7 +80,7 @@ Subsec. (a)(3) to (5). Pub. L. 92–336, §204(a)(3), substituted “any of the 
 
 Subsec. (a)(4). Pub. L. 92–603, §135(a)(3)(B), substituted “received during the calendar years 1973, 1974, 1975, 1976, and 1977, the rate shall be 4.85 percent;” for “received during any of the calendar years 1978 through 2010, the rate shall be 4.5 percent; and”.
 
-Subsec. (a)(5). Pub. L. 92–603, §135(a)(3)(B), substituted “received during the calendar years 1978 through 2010, the rate shall be 4.80 percent; and” for “received after December 31, 2010, the rate shall be 5.35 percent”.
+Subsec. (a)(5). Pub. L. 92–603, §135(a)(3)(B), substituted “received during the calendar years 1978 through 2010,the rate shall be 4.80 percent; and” for “received after December 31, 2010, the rate shall be 5.35 percent”.
 
 Subsec. (a)(6). Pub. L. 92–603, §135(a)(3)(B), added par. (6).
 
@@ -177,8 +179,4 @@ Amendment by act Aug. 1, 1956, applicable with respect to remuneration paid afte
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45B, 401, 3112, 3121, 3122, 3125, 3126, 3127, 3211, 3221, 3507, 6051, 6205, 6413, 6674, 6690 of this title; title 2 sections 162b, 658a, 1503, 2064; title 10 section 2467; title 42 sections 401, 401a, 418, 429, 910, 1395i, 1395i–2, 1395ww, 12594.
 

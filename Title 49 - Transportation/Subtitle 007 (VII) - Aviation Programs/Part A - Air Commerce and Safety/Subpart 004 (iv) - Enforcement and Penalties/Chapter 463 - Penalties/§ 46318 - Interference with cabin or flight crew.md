@@ -2,7 +2,7 @@
 
 (a)
 
-General Rule.—An individual who physically assaults or threatens to physically assault a member of the flight crew or cabin crew of a civil aircraft or any other individual on the aircraft, or takes any action that poses an imminent threat to the safety of the aircraft or other individuals on the aircraft is liable to the United States Government for a civil penalty of not more than $25,000.
+General Rule.—An individual who physically assaults or threatens to physically assault a member of the flight crew or cabin crew of a civil aircraft or any other individual on the aircraft, or takes any action that poses an imminent threat to the safety of the aircraft orother individuals on the aircraft is liable to the United States Government for a civil penalty of not more than $25,000.
 
 (b)
 

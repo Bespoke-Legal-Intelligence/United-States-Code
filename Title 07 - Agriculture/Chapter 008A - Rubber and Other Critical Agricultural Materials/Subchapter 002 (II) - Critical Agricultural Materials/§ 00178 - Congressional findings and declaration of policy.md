@@ -12,7 +12,7 @@
 
 (b) In addition, Congress recognizes that the development of a domestic industry or industries for the production and manufacture from native agricultural crops of products other than rubber which are of strategic and industrial importance but for which the Nation is now dependent upon foreign sources, would benefit the economy, the defense, and the general well-being of the Nation, and that additional research efforts in this area should be undertaken or continued and expanded.
 
-(c) It is therefore the policy of the United States to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium andother hydrocarbon-containing plants, along with other native agricultural crops, for the production of critical agricultural materials to benefit the Nation and promote economic development.
+(c) It is therefore the policy of the United States to provide for the development and demonstration of economically feasible means of culturing and manufacturing Parthenium and other hydrocarbon-containing plants, along with other native agricultural crops, for the production of critical agricultural materials to benefit the Nation and promote economic development.
 
 (Pub. L. 95–592, §2, Nov. 4, 1978, 92 Stat. 2529; Pub. L. 98–284, §2, May 16, 1984, 98 Stat. 181.)
 

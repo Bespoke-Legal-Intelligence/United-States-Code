@@ -10,6 +10,22 @@ In general.—A person that violates any of section 30112, 30115, 30117 through 
 
 &emsp;(2)
 
+School buses.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding paragraph (1), the maximum amount of a civil penalty under this paragraph shall be $10,000 in the case of—
+
+&emsp;&emsp;&emsp;(i) the manufacture, sale, offer for sale, introduction or delivery for introduction into interstate commerce, or importation of a school bus or school bus equipment (as those terms are defined in section 30125(a) of this title) in violation of section 30112(a)(1) of this title; or
+
+&emsp;&emsp;&emsp;(ii) a violation of section 30112(a)(2) of this title.
+
+&emsp;&emsp;(B)
+
+Related series of violations.—A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by that section. The maximum penalty under this paragraph for a related series of violations is $15,000,000.
+
+&emsp;(3)
+
 Section 30166.—A person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $15,000,000.
 
 (b)
@@ -26,7 +42,7 @@ Considerations.—In determining the amount of a civil penalty or compromise, th
 
 Subpenas for Witnesses.—In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 103–429, §6(23), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 106–414, §5(a), Nov. 1, 2000, 114 Stat. 1803.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 103–429, §6(23), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 106–414, §5(a), Nov. 1, 2000, 114 Stat. 1803; Pub. L. 109–59, title X, §10309(c), Aug. 10, 2005, 119 Stat. 1942.)
 
 Historical and Revision Notes
 
@@ -64,7 +80,7 @@ Sept. 9, 1966, Pub. L. 89–563, §§109(b), 110(d) (related to §109), 204(b) (
 
 15:1399(d) (related to 15:1398).
 
-In subsection (a), the text of 15:1424(b) (related to civil penalty) is omitted because of the restatement. The words “is liable to the United States Government for” are substituted for “shall be subject to” for consistency. The words “A separate violation occurs for” are substituted for “Such violation of a provision ofsection 1397 of this title, or regulations issued thereunder, shall constitute a separate violation with respect to” to eliminate unnecessary words.
+In subsection (a), the text of 15:1424(b) (related to civil penalty) is omitted because of the restatement. The words “is liable to the United States Government for” are substituted for “shall be subject to” for consistency. The words “A separate violation occurs for” are substituted for “Such violation of a provision of section 1397 of this title, or regulations issued thereunder, shall constitute a separate violation with respect to” to eliminate unnecessary words.
 
 In subsection (b)(2), the words “amount of a civil penalty imposed or compromised” are substituted for “amount of such penalty, when finally determined, or the amount agreed upon in compromise” to eliminate unnecessary words.
 
@@ -79,6 +95,8 @@ This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references
 Section 30123(d) of this title, referred to in subsec. (a)(1), was redesignated section 30123(a) of this title by Pub. L. 105–178, title VII, §7106(b), June 9, 1998, 112 Stat. 467.
 
 #### Amendments
+
+2005—Subsec. (a)(2), (3). Pub. L. 109–59, which directed amendment of section 30165(a), without specifying the title to be amended, by adding par. (2) and redesignating former par. (2) as (3), was executed to this section, to reflect the probable intent of Congress.
 
 2000—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: “A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000.”
 

@@ -7,7 +7,7 @@
 | [14303\.](%C2%A7%2014303%20-%20Eligibility%20for%20consideration%20for%20promotion%20minimum%20years%20of%20service%20in%20grade.md) | Eligibility for consideration for promotion: minimum years of service in grade. |
 | [14304\.](%C2%A7%2014304%20-%20Eligibility%20for%20consideration%20for%20promotion%20maximum%20years%20of%20service%20in%20grade.md) | Eligibility for consideration for promotion: maximum years of service in grade. |
 | [14305\.](%C2%A7%2014305%20-%20Establishment%20of%20promotion%20zones%20mandatory%20consideration%20for%20promotion.md) | Establishment of promotion zones: mandatory consideration for promotion. |
-| [14306\.](%C2%A7%2014306%20-%20Establishment%20of%20promotion%20zones%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20running%20mate%20system.md) | Establishment of promotion zones: Naval Reserve and Marine Corps Reserve running mate system. |
+| [14306\.](%C2%A7%2014306%20-%20Establishment%20of%20promotion%20zones%20Navy%20Reserve%20and%20Marine%20Corps%20Reserve%20running%20mate%20system.md) | Establishment of promotion zones: Navy Reserve and Marine Corps Reserve running mate system. |
 | [14307\.](%C2%A7%2014307%20-%20Number%20of%20officers%20to%20be%20recommended%20for%20promotion.md) | Number of officers to be recommended for promotion. |
 | [14308\.](%C2%A7%2014308%20-%20Promotions%20how%20made.md) | Promotions: how made. |
 | [14309\.](%C2%A7%2014309%20-%20Acceptance%20of%20promotion%3B%20oath%20of%20office.md) | Acceptance of promotion; oath of office. |
@@ -24,11 +24,9 @@
 
 #### Amendments
 
+2006—Pub. L. 109–163, div. A, title V, §515(b)(4)(I), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 14306.
+
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(24), Feb. 10, 1996, 110 Stat. 497, substituted “Number” for “Numbers” in item 14307, a semicolon for a colon in item 14309, and “State” for “state” in item 14314.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 14001, 14004, 14006, 14101, 14108 of this title; title 32 section 310; title 37 section 905.
 
 
 ---
@@ -40,7 +38,7 @@ This chapter is referred to in sections 14001, 14004, 14006, 14101, 14108 of thi
 - [&sect; 14303 - Eligibility for consideration for promotion minimum years of service in grade](%C2%A7%2014303%20-%20Eligibility%20for%20consideration%20for%20promotion%20minimum%20years%20of%20service%20in%20grade.md)
 - [&sect; 14304 - Eligibility for consideration for promotion maximum years of service in grade](%C2%A7%2014304%20-%20Eligibility%20for%20consideration%20for%20promotion%20maximum%20years%20of%20service%20in%20grade.md)
 - [&sect; 14305 - Establishment of promotion zones mandatory consideration for promotion](%C2%A7%2014305%20-%20Establishment%20of%20promotion%20zones%20mandatory%20consideration%20for%20promotion.md)
-- [&sect; 14306 - Establishment of promotion zones Naval Reserve and Marine Corps Reserve running mate system](%C2%A7%2014306%20-%20Establishment%20of%20promotion%20zones%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%20running%20mate%20system.md)
+- [&sect; 14306 - Establishment of promotion zones Navy Reserve and Marine Corps Reserve running mate system](%C2%A7%2014306%20-%20Establishment%20of%20promotion%20zones%20Navy%20Reserve%20and%20Marine%20Corps%20Reserve%20running%20mate%20system.md)
 - [&sect; 14307 - Number of officers to be recommended for promotion](%C2%A7%2014307%20-%20Number%20of%20officers%20to%20be%20recommended%20for%20promotion.md)
 - [&sect; 14308 - Promotions how made](%C2%A7%2014308%20-%20Promotions%20how%20made.md)
 - [&sect; 14309 - Acceptance of promotion; oath of office](%C2%A7%2014309%20-%20Acceptance%20of%20promotion%3B%20oath%20of%20office.md)

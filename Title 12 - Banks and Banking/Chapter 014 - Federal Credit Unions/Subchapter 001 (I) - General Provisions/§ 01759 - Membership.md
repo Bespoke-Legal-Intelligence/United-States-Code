@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, Federal credit union membership shall
 
 #### (b) Membership field
 
-Subject to the other provisions of this section, the membership of any Federal credit unionshall be limited to the membership described in one of the following categories:
+Subject to the other provisions of this section, the membership of any Federal credit union shall be limited to the membership described in one of the following categories:
 
 #### (1) Single common-bond credit union
 
@@ -134,7 +134,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,” before “Federal credit union membership shall consist of”.
+1998—Subsec. (a). Pub. L. 105–219, §101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b) of this section,”before “Federal credit union membership shall consist of”.
 
 Pub. L. 105–219, §101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 

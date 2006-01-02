@@ -44,7 +44,7 @@ There is established a Medal of Valor Review Board (hereinafter in this chapter 
 
 #### (c) Duties
 
-The Board shall select candidates as recipients of the Medal of Valor from among those applications received by the National Medal of Valor Office. Not more often than once each year, the Board shall present to the Attorney General the name or names of those it recommends as Medal of Valor recipients. In a given year, the Board shall not be required to select any recipients but may not select more than 5 recipients. The Attorney General may in extraordinary cases increase the number of recipients in a given year. The Board shall set an annual timetable for fulfilling its duties under this chapter.
+The Board shall select candidates as recipients of the Medal of Valor from among those applications received by the National Medal of Valor Office. Not more often than once each year, the Board shall present to the Attorney General the name or names of those it recommends as Medal of Valor recipients. In a given year, the Board shall not be required to select any recipients but may not select more than 5 individuals, or groups of individuals, as recipients. The Attorney General may in extraordinary cases increase the number of recipients in a given year. The Board shall set an annual timetable for fulfilling its duties under this chapter.
 
 #### (d) Hearings
 
@@ -64,9 +64,13 @@ The Board may secure directly from any Federal department or agency such informa
 
 The Board shall not disclose any information which may compromise an ongoing law enforcement investigation or is otherwise required by law to be kept confidential.
 
-(Pub. L. 107–12, §3, May 30, 2001, 115 Stat. 20.)
+(Pub. L. 107–12, §3, May 30, 2001, 115 Stat. 20; Pub. L. 109–162, title XI, §1112, Jan. 5, 2006, 119 Stat. 3103.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b)(4)(C), and (c), was in the original “this Act”, meaning Pub. L. 107–12, May. 30, 2001, 115 Stat. 20, which enacted this chapter and amended section 2214 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 15201 of this title and Tables.
+
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–162 substituted “more than 5 individuals, or groups of individuals, as recipients” for “more than 5 recipients”.
 

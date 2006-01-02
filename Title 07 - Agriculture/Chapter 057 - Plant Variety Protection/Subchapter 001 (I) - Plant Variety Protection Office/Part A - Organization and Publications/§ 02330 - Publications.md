@@ -12,7 +12,7 @@
 
 (c) The Secretary may exchange any of the publications specified for publications desirable for the use of the Plant Variety Protection Office. The Secretary may exchange copies of descriptions, drawings, and photographs of United States protected plant varieties for copies of descriptions, drawings, and photographs of applications and protected plant varieties of foreign countries.
 
-(Pub. L. 91–577, title I, §10, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, §§5–8, Dec. 22, 1980, 94 Stat.3350; Pub. L. 103–349, §13(b), Oct. 6, 1994, 108 Stat. 3143.)
+(Pub. L. 91–577, title I, §10, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 96–574, §§5–8, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, §13(b), Oct. 6, 1994, 108 Stat. 3143.)
 
 #### Amendments
 

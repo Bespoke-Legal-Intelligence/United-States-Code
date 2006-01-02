@@ -12,10 +12,6 @@ Subpart A—Effects on Recipients
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 311, 351 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 

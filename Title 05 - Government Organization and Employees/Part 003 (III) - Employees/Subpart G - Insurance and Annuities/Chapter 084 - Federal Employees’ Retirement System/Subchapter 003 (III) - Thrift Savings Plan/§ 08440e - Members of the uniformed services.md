@@ -60,7 +60,7 @@ Postponement Authority.—(1) The Secretary of Defense may postpone by up to 180
 
 &emsp;“(B) the date as of which section 211(a)(2) of title 37, United States Code (as added by this subtitle) shall take effect.
 
-“(2) Postponement authority under this subsection may be exercised only to the extent that the failure to do so would prevent the Federal Retirement Thrift Investment Board from being able to provide timely and accurate services to investors or would place an excessive burden on the administrative capacity of theBoard to accommodate participants in the Thrift Savings Plan, as determined by the Secretary of Defense after consultation with the Executive Director (appointed by the Board).
+“(2) Postponement authority under this subsection may be exercised only to the extent that the failure to do so would prevent the Federal Retirement Thrift Investment Board from being able to provide timely and accurate services to investors or would place an excessive burden on the administrative capacity of the Board to accommodate participants in the Thrift Savings Plan, as determined by the Secretary of Defense after consultation with the Executive Director (appointed by the Board).
 
 “(3) Paragraph (1) includes the authority to postpone the effective date of the amendments made by this subtitle (apart from section 211(a)(2) of title 37, United States Code), and the effective date of such section 211(a)(2), by different lengths of time.
 

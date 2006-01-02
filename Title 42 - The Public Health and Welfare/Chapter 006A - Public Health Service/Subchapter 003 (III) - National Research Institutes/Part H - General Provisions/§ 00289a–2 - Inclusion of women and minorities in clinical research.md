@@ -16,7 +16,7 @@
 
 #### (b) Inapplicability of requirement
 
-The requirement established in subsection (a) of this section regarding women and members of minority groups shall not apply to a project of clinical research if the inclusion, as subjects in the project, of women and members of minority groups, respectively—
+The requirement established in subsection (a) of this section regarding women and members ofminority groups shall not apply to a project of clinical research if the inclusion, as subjects in the project, of women and members of minority groups, respectively—
 
 &emsp;(1) is inappropriate with respect to the health of the subjects;
 

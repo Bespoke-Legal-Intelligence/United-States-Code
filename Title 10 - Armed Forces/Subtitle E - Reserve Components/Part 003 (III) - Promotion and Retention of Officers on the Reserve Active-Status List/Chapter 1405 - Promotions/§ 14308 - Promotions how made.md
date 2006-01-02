@@ -2,7 +2,7 @@
 
 (a)
 
-Promotion List.—When the report of a selection board convened under section 14101(a) or 14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list.
+Promotion List.—When the report of a selection board convened under section 14101(a) or14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list.
 
 (b)
 
@@ -73,8 +73,4 @@ Subsec. (g). Pub. L. 105–85, §514(c)(2), inserted “or the Air Force” afte
 #### Effective Date of 2001 Amendment
 
 Subsec. (c)(2) of this section applicable with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after Dec. 28, 2001, and Secretary of the military department concerned may apply subsec. (c)(2) of this section in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before Dec. 28, 2001, if the Secretary determines that such appointment would have been made on an earlier date that is on or after Oct. 1, 2001, and was delayed under the circumstances specified in section 741(d)(4) of this title, see section 506(c) of Pub. L. 107–107, set out as a note under section 741 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14101, 14301, 14304, 14502, 14504 of this title; title 32 section 310; title 37 section 905.
 

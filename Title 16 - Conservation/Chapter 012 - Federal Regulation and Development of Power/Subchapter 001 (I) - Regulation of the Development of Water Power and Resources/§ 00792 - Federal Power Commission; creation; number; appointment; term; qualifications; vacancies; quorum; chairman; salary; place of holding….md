@@ -12,7 +12,7 @@ The principal office of the commission shall be in the District of Columbia, whe
 
 #### Codification
 
-Provisions which prescribed the compensation of commissioners were omitted as obsolete. Compensation of the Chairman and members of the Commission was prescribed by sections 5314 and 5315 of Title 5, Government Organization and Employees, prior to termination of the Commission. See Transfer of Functions note below.
+Provisions which prescribed the compensation of commissioners were omitted as obsolete. Compensation of the Chairman and members of the Commission was prescribed by sections 5314 and 5315 of Title 5, Government Organization and Employees, prior to termination of the Commission. See Termination of Federal Power Commission; Transfer of Functions note below.
 
 #### Amendments
 
@@ -24,7 +24,7 @@ Provisions which prescribed the compensation of commissioners were omitted as ob
 
 Act Oct. 15, 1949, ch. 695, §5(a), 63 Stat. 880, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 655.
 
-#### Transfer of Functions
+#### Termination of Federal Power Commission; Transfer of Functions
 
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
@@ -62,7 +62,7 @@ The functions of the Commission with respect to choosing a chairman from among t
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the ReorganizationAct of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
+I transmit herewith Reorganization Plan No. 10 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Securities and Exchange Commission. My reasons for transmitting this plan are stated in an accompanying general message.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 10 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 

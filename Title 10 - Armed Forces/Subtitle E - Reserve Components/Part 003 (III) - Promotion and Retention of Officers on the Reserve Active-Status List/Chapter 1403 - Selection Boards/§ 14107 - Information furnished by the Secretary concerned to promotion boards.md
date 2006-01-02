@@ -14,17 +14,19 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 &emsp;(D) A factual summary of the information described in subparagraphs (A), (B), and (C) that, in accordance with the regulations prescribed pursuant to paragraph (1) is prepared by administrative personnel for the purpose of facilitating the work of the selection board.
 
-(3) Information provided to a promotion board in accordance with paragraph (2) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
+(3) In the case of an eligible officer considered for promotion to a grade above colonel or, in the case of the Navy, captain, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry, shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
-(4) Paragraphs (2) and (3) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
+(4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
-(5) Information furnished to a promotion board that is described in subparagraph (B), (C), or (D) of paragraph (2) may not be furnished to a later promotion board unless—
+(5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
+
+(6) Information furnished to a promotion board that is described in subparagraph (B), (C), or (D) of paragraph (2), or in paragraph (3), may not be furnished to a later promotion board unless—
 
 &emsp;(A) the information has been properly placed in the official military personnel file of the officer concerned; or
 
-&emsp;(B) the information is provided to the later selection board in accordance with paragraph (2).
+&emsp;(B) the information is provided to the later selection board in accordance with paragraph (2) or (3), as applicable.
 
-(6)(A) Before information described in paragraph (2)(B) regarding an eligible officer is furnished to a selection board, the Secretary of the military department concerned shall ensure—
+(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer is furnished to a selection board, the Secretary of the military department concerned shall ensure—
 
 &emsp;(i) that such information is made available to such officer; and
 
@@ -52,15 +54,33 @@ Limitation on Modifying Furnished Information.—Information or guidelines furni
 
 (d)
 
-Officers in Health-Professions Competitive Categories.—The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Naval Reserve, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
+Officers in Health-Professions Competitive Categories.—The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Navy Reserve, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2926.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2926; amended Pub. L. 109–163, div. A, title V, §§506(b), 515(b)(1)(QQ), Jan. 6, 2006, 119 Stat. 3227, 3234.)
 
 #### Prior Provisions
 
 Provisions similar to those in subsec. (b) of this section were contained in section 5895 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 14108, 14109, 14110 of this title.
+2006—Subsec. (a)(3). Pub. L. 109–163, §506(b)(1)(B), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 109–163, §506(b)(1)(A), (2)(A), redesignated par. (3) as (4) and substituted “paragraphs (2) and (3)” for “paragraph (2)”. Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 109–163, §506(b)(1)(A), (2)(B), redesignated par. (4) as (5) and substituted “, (3), and (4)” for “and (3)”. Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 109–163, §506(b)(1)(A), (2)(C)(i), redesignated par. (5) as (6) and inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions. Former par. (6) redesignated (7).
+
+Subsec. (a)(6)(B). Pub. L. 109–163, §506(b)(2)(C)(ii), inserted “or (3), as applicable” after “paragraph (2)”.
+
+Subsec. (a)(7). Pub. L. 109–163, §506(b)(1)(A), redesignated par. (6) as (7).
+
+Subsec. (a)(7)(A). Pub. L. 109–163, §506(b)(2)(D), inserted “or (3)” after “paragraph (2)(B)”.
+
+Subsec. (d). Pub. L. 109–163, §515(b)(1)(QQ), substituted “Navy Reserve” for “Naval Reserve”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 506(b) of Pub. L. 109–163 effective Oct. 1, 2006, and applicable with respect to promotion selection boards convened on or after that date, see section 506(c) of Pub. L. 109–163, set out as a note under section 615 of this title.
 

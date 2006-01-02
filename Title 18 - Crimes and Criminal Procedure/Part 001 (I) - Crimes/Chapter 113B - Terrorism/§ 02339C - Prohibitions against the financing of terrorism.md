@@ -152,7 +152,7 @@ Definitions.—In this section—
 
 (f)
 
-Civil Penalty.—In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
+Civil Penalty.—In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of theUnited States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
 
 (Added Pub. L. 107–197, title II, §202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, §4006, Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6604, Dec. 17, 2004, 118 Stat. 3764.)
 

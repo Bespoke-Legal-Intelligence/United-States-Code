@@ -30,7 +30,3 @@ General Rule.—Section 752 of the Internal Revenue Code of 1986 \[formerly I.R.
 
 Regulations.—In amending the regulations prescribed under section 752 of such Code to reflect subsection (a), the Secretary of the Treasury or his delegate shall prescribe regulations relating to liabilities, including the treatment of guarantees, assumptions, indemnity agreements, and similar arrangements.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 465 of this title.
-

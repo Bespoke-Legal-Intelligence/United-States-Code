@@ -40,15 +40,19 @@ Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enact
 
 #### Funding to Process Permits
 
-Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836, provided that:
+Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594, as amended by Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169, provided that:
 
 “(a)
 
-In General.—In fiscal years 2001 through 2005, the Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.
+In General.—The Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army.
 
 “(b)
 
-Effect on Permitting.—In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.”
+Effect on Permitting.—In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
+
+“(c)
+
+Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through March 31, 2006.”
 
 #### Monitoring
 
@@ -92,7 +96,7 @@ In General.—In evaluating potential improvements for water control management 
 
 “(b)
 
-Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretaryshall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—
+Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—
 
 &emsp;“(1) a description of the primary objectives of streamlining water control management activities;
 

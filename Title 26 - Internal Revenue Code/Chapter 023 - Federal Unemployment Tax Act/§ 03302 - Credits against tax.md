@@ -480,7 +480,3 @@ Section 110(b) of Pub. L. 94–45 provided that:
 
 “(3) Immediately after he makes a determination with respect to any State under paragraph (1), the Secretary of Labor shall publish such determination, together with his reasons therefor, in the Federal Register.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3303, 3304, 3305, 3306 of this title; title 42 sections 1101, 1322.
-

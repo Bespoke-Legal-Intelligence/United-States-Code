@@ -1,10 +1,10 @@
 ### §101. Definitions
 
-In this title—
+In this title the following definitions shall apply:
 
-&emsp;(1) “accountant” means accountant authorized under applicable law to practice public accounting, and includes professional accounting association, corporation, or partnership, if so authorized;
+&emsp;(1) The term “accountant” means accountant authorized under applicable law to practice public accounting, and includes professional accounting association, corporation, or partnership, if so authorized.
 
-&emsp;(2) “affiliate” means—
+&emsp;(2) The term “affiliate” means—
 
 &emsp;&emsp;(A) entity that directly or indirectly owns, controls, or holds with power to vote, 20 percent or more of the outstanding voting securities of the debtor, other than an entity that holds such securities—
 
@@ -20,23 +20,35 @@ In this title—
 
 &emsp;&emsp;(C) person whose business is operated under a lease or operating agreement by a debtor, or person substantially all of whose property is operated under an operating agreement with the debtor; or
 
-&emsp;&emsp;(D) entity that operates the business or substantially all of the property of the debtor under a lease or operating agreement;
+&emsp;&emsp;(D) entity that operates the business or substantially all of the property of the debtor under a lease or operating agreement.
 
-&emsp;(4) <sup>1</sup> “attorney” means attorney, professional law association, corporation, or partnership, authorized under applicable law to practice law;
+&emsp;(3) The term “assisted person” means any person whose debts consist primarily of consumer debts and the value of whose nonexempt property is less than $150,000.
 
-&emsp;(5) “claim” means—
+&emsp;(4) The term “attorney” means attorney, professional law association, corporation, or partnership, authorized under applicable law to practice law.
+
+&emsp;(4A) The term “bankruptcy assistance” means any goods or services sold or otherwise provided to an assisted person with the express or implied purpose of providing information, advice, counsel, document preparation, or filing, or attendance at a creditors’ meeting or appearing in a case or proceeding on behalf of another or providing legal representation with respect to a case or proceeding under this title.
+
+&emsp;(5) The term “claim” means—
 
 &emsp;&emsp;(A) right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured; or
 
-&emsp;&emsp;(B) right to an equitable remedy for breach of performance if such breach gives rise to a right to payment, whether or not such right to an equitable remedy is reduced to judgment, fixed, contingent, matured, unmatured, disputed, undisputed, secured, or unsecured;
+&emsp;&emsp;(B) right to an equitable remedy for breach of performance if such breach gives rise to a right to payment, whether or not such right to an equitable remedy is reduced to judgment, fixed, contingent, matured, unmatured, disputed, undisputed, secured, or unsecured.
 
-&emsp;(6) “commodity broker” means futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, as defined in section 761 of this title, with respect to which there is a customer, as defined in section 761 of this title;
+&emsp;(6) The term “commodity broker” means futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, as defined in section 761 of this title, with respect to which there is a customer, as defined in section 761 of this title.
 
-&emsp;(7) “community claim” means claim that arose before the commencement of the case concerning the debtor for which property of the kind specified in section 541(a)(2) of this title is liable, whether or not there is any such property at the time of the commencement of the case;
+&emsp;(7) The term “community claim” means claim that arose before the commencement of the case concerning the debtor for which property of the kind specified in section 541(a)(2) of this title is liable, whether or not there is any such property at the time of the commencement of the case.
 
-&emsp;(8) “consumer debt” means debt incurred by an individual primarily for a personal, family, or household purpose;
+&emsp;(7A) The term “commercial fishing operation” means—
 
-&emsp;(9) “corporation”—
+&emsp;&emsp;(A) the catching or harvesting of fish, shrimp, lobsters, urchins, seaweed, shellfish, or other aquatic species or products of such species; or
+
+&emsp;&emsp;(B) for purposes of section 109 and chapter 12, aquaculture activities consisting of raising for market any species or product described in subparagraph (A).
+
+&emsp;(7B) The term “commercial fishing vessel” means a vessel used by a family fisherman to carry out a commercial fishing operation.
+
+&emsp;(8) The term “consumer debt” means debt incurred by an individual primarily for a personal, family, or household purpose.
+
+&emsp;(9) The term “corporation”—
 
 &emsp;&emsp;(A) includes—
 
@@ -50,79 +62,151 @@ In this title—
 
 &emsp;&emsp;&emsp;(v) business trust; but
 
-&emsp;&emsp;(B) does not include limited partnership;
+&emsp;&emsp;(B) does not include limited partnership.
 
-&emsp;(10) “creditor” means—
+&emsp;(10) The term “creditor” means—
 
 &emsp;&emsp;(A) entity that has a claim against the debtor that arose at the time of or before the order for relief concerning the debtor;
 
 &emsp;&emsp;(B) entity that has a claim against the estate of a kind specified in section 348(d), 502(f), 502(g), 502(h) or 502(i) of this title; or
 
-&emsp;&emsp;(C) entity that has a community claim;
+&emsp;&emsp;(C) entity that has a community claim.
 
-&emsp;(11) “custodian” means—
+&emsp;(10A) The term “current monthly income”—
+
+&emsp;&emsp;(A) means the average monthly income from all sources that the debtor receives (or in a joint case the debtor and the debtor's spouse receive) without regard to whether such income is taxable income, derived during the 6-month period ending on—
+
+&emsp;&emsp;&emsp;(i) the last day of the calendar month immediately preceding the date of the commencement of the case if the debtor files the schedule of current income required by section 521(a)(1)(B)(ii); or
+
+&emsp;&emsp;&emsp;(ii) the date on which current income is determined by the court for purposes of this title if the debtor does not file the schedule of current income required by section 521(a)(1)(B)(ii); and
+
+&emsp;&emsp;(B) includes any amount paid by any entity other than the debtor (or in a joint case the debtor and the debtor's spouse), on a regular basis for the household expenses of the debtor or the debtor's dependents (and in a joint case the debtor's spouse if not otherwise a dependent), but excludes benefits received under the Social Security Act, payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes, and payments to victims of international terrorism (as defined in section 2331 of title 18) or domestic terrorism (as defined in section 2331 of title 18) on account of their status as victims of such terrorism.
+
+&emsp;(11) The term “custodian” means—
 
 &emsp;&emsp;(A) receiver or trustee of any of the property of the debtor, appointed in a case or proceeding not under this title;
 
 &emsp;&emsp;(B) assignee under a general assignment for the benefit of the debtor's creditors; or
 
-&emsp;&emsp;(C) trustee, receiver, or agent under applicable law, or under a contract, that is appointed or authorized to take charge of property of the debtor for the purpose of enforcing a lien against such property, or for the purpose of general administration of such property for the benefit of the debtor's creditors;
+&emsp;&emsp;(C) trustee, receiver, or agent under applicable law, or under a contract, that is appointed or authorized to take charge of property of the debtor for the purpose of enforcing a lien against such property, or for the purpose of general administration of such property for the benefit of the debtor's creditors.
 
-&emsp;(12) “debt” means liability on a claim;
+&emsp;(12) The term “debt” means liability on a claim.
 
-&emsp;(12A) “debt for child support” means a debt of a kind specified in section 523(a)(5) of this title for maintenance or support of a child of the debtor;
+&emsp;(12A) The term “debt relief agency” means any person who provides any bankruptcy assistance to an assisted person in return for the payment of money or other valuable consideration, or who is a bankruptcy petition preparer under section 110, but does not include—
 
-&emsp;(13) “debtor” means person or municipality concerning which a case under this title has been commenced;
+&emsp;&emsp;(A) any person who is an officer, director, employee, or agent of a person who provides such assistance or of the bankruptcy petition preparer;
 
-&emsp;(14) “disinterested person” means person that—
+&emsp;&emsp;(B) a nonprofit organization that is exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986;
+
+&emsp;&emsp;(C) a creditor of such assisted person, to the extent that the creditor is assisting such assisted person to restructure any debt owed by such assisted person to the creditor;
+
+&emsp;&emsp;(D) a depository institution (as defined in section 3 of the Federal Deposit Insurance Act) or any Federal credit union or State credit union (as those terms are defined in section 101 of the Federal Credit Union Act), or any affiliate or subsidiary of such depository institution or credit union; or
+
+&emsp;&emsp;(E) an author, publisher, distributor, or seller of works subject to copyright protection under title 17, when acting in such capacity.
+
+&emsp;(13) The term “debtor” means person or municipality concerning which a case under this title has been commenced.
+
+&emsp;(13A) The term “debtor's principal residence”—
+
+&emsp;&emsp;(A) means a residential structure, including incidental property, without regard to whether that structure is attached to real property; and
+
+&emsp;&emsp;(B) includes an individual condominium or cooperative unit, a mobile or manufactured home, or trailer.
+
+&emsp;(14) The term “disinterested person” means a person that—
 
 &emsp;&emsp;(A) is not a creditor, an equity security holder, or an insider;
 
-&emsp;&emsp;(B) is not and was not an investment banker for any outstanding security of the debtor;
+&emsp;&emsp;(B) is not and was not, within 2 years before the date of the filing of the petition, a director, officer, or employee of the debtor; and
 
-&emsp;&emsp;(C) has not been, within three years before the date of the filing of the petition, an investment banker for a security of the debtor, or an attorney for such an investment banker in connection with the offer, sale, or issuance of a security of the debtor;
+&emsp;&emsp;(C) does not have an interest materially adverse to the interest of the estate or of any class of creditors or equity security holders, by reason of any direct or indirect relationship to, connection with, or interest in, the debtor, or for any other reason.
 
-&emsp;&emsp;(D) is not and was not, within two years before the date of the filing of the petition, a director, officer, or employee of the debtor or of an investment banker specified in subparagraph (B) or (C) of this paragraph; and
+&emsp;(14A) The term “domestic support obligation” means a debt that accrues before, on, or after the date of the order for relief in a case under this title, including interest that accrues on that debt as provided under applicable nonbankruptcy law notwithstanding any other provision of this title, that is—
 
-&emsp;&emsp;(E) does not have an interest materially adverse to the interest of the estate or of any class of creditors or equity security holders, by reason of any direct or indirect relationship to, connection with, or interest in, the debtor or an investment banker specified in subparagraph (B) or (C) of this paragraph, or for any other reason;
+&emsp;&emsp;(A) owed to or recoverable by—
 
-&emsp;(15) “entity” includes person, estate, trust, governmental unit, and United States trustee;
+&emsp;&emsp;&emsp;(i) a spouse, former spouse, or child of the debtor or such child's parent, legal guardian, or responsible relative; or
 
-&emsp;(16) “equity security” means—
+&emsp;&emsp;&emsp;(ii) a governmental unit;
+
+&emsp;&emsp;(B) in the nature of alimony, maintenance, or support (including assistance provided by a governmental unit) of such spouse, former spouse, or child of the debtor or such child's parent, without regard to whether such debt is expressly so designated;
+
+&emsp;&emsp;(C) established or subject to establishment before, on, or after the date of the order for relief in a case under this title, by reason of applicable provisions of—
+
+&emsp;&emsp;&emsp;(i) a separation agreement, divorce decree, or property settlement agreement;
+
+&emsp;&emsp;&emsp;(ii) an order of a court of record; or
+
+&emsp;&emsp;&emsp;(iii) a determination made in accordance with applicable nonbankruptcy law by a governmental unit; and
+
+&emsp;&emsp;(D) not assigned to a nongovernmental entity, unless that obligation is assigned voluntarily by the spouse, former spouse, child of the debtor, or such child's parent, legal guardian, or responsible relative for the purpose of collecting the debt.
+
+&emsp;(15) The term “entity” includes person, estate, trust, governmental unit, and United States trustee.
+
+&emsp;(16) The term “equity security” means—
 
 &emsp;&emsp;(A) share in a corporation, whether or not transferable or denominated “stock”, or similar security;
 
 &emsp;&emsp;(B) interest of a limited partner in a limited partnership; or
 
-&emsp;&emsp;(C) warrant or right, other than a right to convert, to purchase, sell, or subscribe to a share, security, or interest of a kind specified in subparagraph (A) or (B) of this paragraph;
+&emsp;&emsp;(C) warrant or right, other than a right to convert, to purchase, sell, or subscribe to a share, security, or interest of a kind specified in subparagraph (A) or (B) of this paragraph.
 
-&emsp;(17) “equity security holder” means holder of an equity security of the debtor;
+&emsp;(17) The term “equity security holder” means holder of an equity security of the debtor.
 
-&emsp;(18) “family farmer” means—
+&emsp;(18) The term “family farmer” means—
 
-&emsp;&emsp;(A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $1,500,000 and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual's or such individual and spouse's gross income for the taxable year preceding the taxable year in which the case concerning such individual or such individual and spouse was filed; or
+&emsp;&emsp;(A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $3,237,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual's or such individual and spouse's gross income for—
+
+&emsp;&emsp;&emsp;(i) the taxable year preceding; or
+
+&emsp;&emsp;&emsp;(ii) each of the 2d and 3d taxable years preceding;
+
+> &emsp;&emsp;the taxable year in which the case concerning such individual or such individual and spouse was filed; or
 
 &emsp;&emsp;(B) corporation or partnership in which more than 50 percent of the outstanding stock or equity is held by one family, or by one family and the relatives of the members of such family, and such family or such relatives conduct the farming operation, and
 
 &emsp;&emsp;&emsp;(i) more than 80 percent of the value of its assets consists of assets related to the farming operation;
 
-&emsp;&emsp;&emsp;(ii) its aggregate debts do not exceed $1,500,000 and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+&emsp;&emsp;&emsp;(ii) its aggregate debts do not exceed $3,237,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
 
-&emsp;&emsp;&emsp;(iii) if such corporation issues stock, such stock is not publicly traded;
+&emsp;&emsp;&emsp;(iii) if such corporation issues stock, such stock is not publicly traded.
 
-&emsp;(19) “family farmer with regular annual income” means family farmer whose annual income is sufficiently stable and regular to enable such family farmer to make payments under a plan under chapter 12 of this title;
+&emsp;(19) The term “family farmer with regular annual income” means family farmer whose annual income is sufficiently stable and regular to enable such family farmer to make payments under a plan under chapter 12 of this title.
 
-&emsp;(20) “farmer” means (except when such term appears in the term “family farmer”) person that received more than 80 percent of such person's gross income during the taxable year of such person immediately preceding the taxable year of such person during which the case under this title concerning such person was commenced from a farming operation owned or operated by such person;
+&emsp;(19A) The term “family fisherman” means—
 
-&emsp;(21) “farming operation” includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry or livestock products in an unmanufactured state;
+&emsp;&emsp;(A) an individual or individual and spouse engaged in a commercial fishing operation—
 
-&emsp;(21A) “farmout agreement” means a written agreement in which—
+&emsp;&emsp;&emsp;(i) whose aggregate debts do not exceed $1,500,000 and not less than 80 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such individual or such individual and spouse; and
 
-&emsp;&emsp;(A) the owner of a right to drill, produce, or operate liquid or gaseous hydrocarbons on property agrees or has agreed to transfer or assign all or a part of such right to another entity; and
+&emsp;&emsp;&emsp;(ii) who receive from such commercial fishing operation more than 50 percent of such individual's or such individual's and spouse's gross income for the taxable year preceding the taxable year in which the case concerning such individual or such individual and spouse was filed; or
 
-&emsp;&emsp;(B) such other entity (either directly or through its agents or its assigns), as consideration, agrees to perform drilling, reworking, recompleting, testing, or similar or related operations, to develop or produce liquid or gaseous hydrocarbons on the property;
+&emsp;&emsp;(B) a corporation or partnership—
 
-&emsp;(21B) “Federal depository institutions regulatory agency” means—
+&emsp;&emsp;&emsp;(i) in which more than 50 percent of the outstanding stock or equity is held by—
+
+&emsp;&emsp;&emsp;&emsp;(I) 1 family that conducts the commercial fishing operation; or
+
+&emsp;&emsp;&emsp;&emsp;(II) 1 family and the relatives of the members of such family, and such family or such relatives conduct the commercial fishing operation; and
+
+&emsp;&emsp;&emsp;(ii)(I) more than 80 percent of the value of its assets consists of assets related to the commercial fishing operation;
+
+&emsp;&emsp;&emsp;(II) its aggregate debts do not exceed $1,500,000 and not less than 80 percent of its aggregate noncontingent, liquidated debts (excluding a debt for 1 dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a commercial fishing operation), on the date the case is filed, arise out of a commercial fishing operation owned or operated by such corporation or such partnership; and
+
+&emsp;&emsp;&emsp;(III) if such corporation issues stock, such stock is not publicly traded.
+
+&emsp;(19B) The term “family fisherman with regular annual income” means a family fisherman whose annual income is sufficiently stable and regular to enable such family fisherman to make payments under a plan under chapter 12 of this title.
+
+&emsp;(20) The term “farmer” means (except when such term appears in the term “family farmer”) person that received more than 80 percent of such person's gross income during the taxable year of such person immediately preceding the taxable year of such person during which the case under this title concerning such person was commenced from a farming operation owned or operated by such person.
+
+&emsp;(21) The term “farming operation” includes farming, tillage of the soil, dairy farming, ranching, production or raising of crops, poultry, or livestock, and production of poultry or livestock products in an unmanufactured state.
+
+&emsp;(21A) The term “farmout agreement” means a written agreement in which—
+
+&emsp;&emsp;(A) the owner of a right to drill, produce, or operate liquid or gaseous hydrocarbons on property agrees or has agreed to transfer orassign all or a part of such right to another entity; and
+
+&emsp;&emsp;(B) such other entity (either directly or through its agents or its assigns), as consideration, agrees to perform drilling, reworking, recompleting, testing, or similar or related operations, to develop or produce liquid or gaseous hydrocarbons on the property.
+
+&emsp;(21B) The term “Federal depository institutions regulatory agency” means—
 
 &emsp;&emsp;(A) with respect to an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act) for which no conservator or receiver has been appointed, the appropriate Federal banking agency (as defined in section 3(q) of such Act);
 
@@ -130,35 +214,91 @@ In this title—
 
 &emsp;&emsp;(C) with respect to any insured depository institution for which the Resolution Trust Corporation has been appointed conservator or receiver, the Resolution Trust Corporation; and
 
-&emsp;&emsp;(D) with respect to any insured depository institution for which the Federal Deposit Insurance Corporation has been appointed conservator or receiver, the Federal Deposit Insurance Corporation;
+&emsp;&emsp;(D) with respect to any insured depository institution for which the Federal Deposit Insurance Corporation has been appointed conservator or receiver, the Federal Deposit Insurance Corporation.
 
-&emsp;(22) the term “financial institution”—
+&emsp;(22) The term “financial institution” means—
 
-&emsp;&emsp;(A) means—
+&emsp;&emsp;(A) a Federal reserve bank, or an entity (domestic or foreign) that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, federally-insured credit union, or receiver, liquidating agent, or conservator for such entity and, when any such Federal reserve bank, receiver, liquidating agent, conservator or entity is acting as agent or custodian for a customer in connection with a securities contract (as defined in section 741) such customer; or
 
-&emsp;&emsp;&emsp;(i) a Federal reserve bank or an entity (domestic or foreign) that is a commercial or savings bank, industrial savings bank, savings and loan association, trust company, or receiver or conservator for such entity and, when any such Federal reserve bank, receiver, conservator, or entity is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, the customer; or
+&emsp;&emsp;(B) in connection with a securities contract (as defined in section 741) an investment company registered under the Investment Company Act of 1940.
 
-&emsp;&emsp;&emsp;(ii) in connection with a securities contract, as defined in section 741 of this title, an investment company registered under the Investment Company Act of 1940; and
+&emsp;(22A) The term “financial participant” means—
 
-&emsp;&emsp;(B) includes any person described in subparagraph (A) which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991;
+&emsp;&emsp;(A) an entity that, at the time it enters into a securities contract, commodity contract, swap agreement, repurchase agreement, or forward contract, or at the time of the date of the filing of the petition, has one or more agreements or transactions described in paragraph (1), (2), (3), (4), (5), or (6) of section 561(a) with the debtor or any other entity (other than an affiliate) of a total gross dollar value of not less than $1,000,000,000 in notional or actual principal amount outstanding on any day during the previous 15-month period, or has gross mark-to-market positions of not less than $100,000,000 (aggregated across counterparties) in one or more such agreements or transactions with the debtor or any other entity (other than an affiliate) on any day during the previous 15-month period; or
 
-&emsp;(23) “foreign proceeding” means proceeding, whether judicial or administrative and whether or not under bankruptcy law, in a foreign country in which the debtor's domicile, residence, principal place of business, or principal assets were located at the commencement of such proceeding, for the purpose of liquidating an estate, adjusting debts by composition, extension, or discharge, or effecting a reorganization;
+&emsp;&emsp;(B) a clearing organization (as defined in section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991).
 
-&emsp;(24) “foreign representative” means duly selected trustee, administrator, or other representative of an estate in a foreign proceeding;
+&emsp;(23) The term “foreign proceeding” means a collective judicial or administrative proceeding in a foreign country, including an interim proceeding, under a law relating to insolvency or adjustment of debt in which proceeding the assets and affairs of the debtor are subject to control or supervision by a foreign court, for the purpose of reorganization or liquidation.
 
-&emsp;(25) “forward contract” means a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any combination thereof or option thereon;
+&emsp;(24) The term “foreign representative” means a person or body, including a person or body appointed on an interim basis, authorized in a foreign proceeding to administer the reorganization or the liquidation of the debtor's assets or affairs or to act as a representative of such foreign proceeding.
 
-&emsp;(26) “forward contract merchant” means a person whose business consists in whole or in part of entering into forward contracts as or with merchants in a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade;
+&emsp;(25) The term “forward contract” means—
 
-&emsp;(27) “governmental unit” means United States; State; Commonwealth; District; Territory; municipality; foreign state; department, agency, or instrumentality of the United States (but not a United States trustee while serving as a trustee in a case under this title), a State, a Commonwealth, a District, a Territory, a municipality, or a foreign state; or other foreign or domestic government;
+&emsp;&emsp;(A) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than two days after the date the contract is entered into, including, but not limited to, a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
-&emsp;(28) “indenture” means mortgage, deed of trust, or indenture, under which there is outstanding a security, other than a voting-trust certificate, constituting a claim against the debtor, a claim secured by a lien on any of the debtor's property, or an equity security of the debtor;
+&emsp;&emsp;(B) any combination of agreements or transactions referred to in subparagraphs (A) and (C);
 
-&emsp;(29) “indenture trustee” means trustee under an indenture;
+&emsp;&emsp;(C) any option to enter into an agreement or transaction referred to in subparagraph (A) or (B);
 
-&emsp;(30) “individual with regular income” means individual whose income is sufficiently stable and regular to enable such individual to make payments under a plan under chapter 13 of this title, other than a stockbroker or a commodity broker;
+&emsp;&emsp;(D) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), or (C), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a forward contract under this paragraph, except that such master agreement shall be considered to be a forward contract under this paragraph only with respect to each agreement or transaction under such master agreement that is referred to in subparagraph (A), (B), or (C); or
 
-&emsp;(31) “insider” includes—
+&emsp;&emsp;(E) any security agreement or arrangement, or other credit enhancement related to any agreement or transaction referred to in subparagraph (A), (B), (C), or (D), including any guarantee or reimbursement obligation by or to a forward contract merchant or financial participant in connection with any agreement or transaction referred to in any such subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562.
+
+&emsp;(26) The term “forward contract merchant” means a Federal reserve bank, or an entity the business of which consists in whole or in part of entering into forward contracts as or with merchants in a commodity (as defined in section 761) or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade.
+
+&emsp;(27) The term “governmental unit” means United States; State; Commonwealth; District; Territory; municipality; foreign state; department, agency, or instrumentality of the United States (but not a United States trustee while serving as a trustee in a case under this title), a State, a Commonwealth, a District, a Territory, a municipality, or a foreign state; or other foreign or domestic government.
+
+&emsp;(27A) The term “health care business”—
+
+&emsp;&emsp;(A) means any public or private entity (without regard to whether that entity is organized for profit or not for profit) that is primarily engaged in offering to the general public facilities and services for—
+
+&emsp;&emsp;&emsp;(i) the diagnosis or treatment of injury, deformity, or disease; and
+
+&emsp;&emsp;&emsp;(ii) surgical, drug treatment, psychiatric, or obstetric care; and
+
+&emsp;&emsp;(B) includes—
+
+&emsp;&emsp;&emsp;(i) any—
+
+&emsp;&emsp;&emsp;&emsp;(I) general or specialized hospital;
+
+&emsp;&emsp;&emsp;&emsp;(II) ancillary ambulatory, emergency, or surgical treatment facility;
+
+&emsp;&emsp;&emsp;&emsp;(III) hospice;
+
+&emsp;&emsp;&emsp;&emsp;(IV) home health agency; and
+
+&emsp;&emsp;&emsp;&emsp;(V) other health care institution that is similar to an entity referred to in subclause (I), (II), (III), or (IV); and
+
+&emsp;&emsp;&emsp;(ii) any long-term care facility, including any—
+
+&emsp;&emsp;&emsp;&emsp;(I) skilled nursing facility;
+
+&emsp;&emsp;&emsp;&emsp;(II) intermediate care facility;
+
+&emsp;&emsp;&emsp;&emsp;(III) assisted living facility;
+
+&emsp;&emsp;&emsp;&emsp;(IV) home for the aged;
+
+&emsp;&emsp;&emsp;&emsp;(V) domiciliary care facility; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) health care institution that is related to a facility referred to in subclause (I), (II), (III), (IV), or (V), if that institution is primarily engaged in offering room, board, laundry, or personal assistance with activities of daily living and incidentals to activities of daily living.
+
+&emsp;(27B) The term “incidental property” means, with respect to a debtor's principal residence—
+
+&emsp;&emsp;(A) property commonly conveyed with a principal residence in the area where the real property is located;
+
+&emsp;&emsp;(B) all easements, rights, appurtenances, fixtures, rents, royalties, mineral rights, oil or gas rights or profits, water rights, escrow funds, or insurance proceeds; and
+
+&emsp;&emsp;(C) all replacements or additions.
+
+&emsp;(28) The term “indenture” means mortgage, deed of trust, or indenture, under which there is outstanding a security, other than a voting-trust certificate, constituting a claim against the debtor, a claim secured by a lien on any of the debtor's property, or an equity security of the debtor.
+
+&emsp;(29) The term “indenture trustee” means trustee under an indenture.
+
+&emsp;(30) The term “individual with regular income” means individual whose income is sufficiently stable and regular to enable such individual to make payments under a plan under chapter 13 of this title, other than a stockbroker or a commodity broker.
+
+&emsp;(31) The term “insider” includes—
 
 &emsp;&emsp;(A) if the debtor is an individual—
 
@@ -200,9 +340,9 @@ In this title—
 
 &emsp;&emsp;(E) affiliate, or insider of an affiliate as if such affiliate were the debtor; and
 
-&emsp;&emsp;(F) managing agent of the debtor;
+&emsp;&emsp;(F) managing agent of the debtor.
 
-&emsp;(32) “insolvent” means—
+&emsp;(32) The term “insolvent” means—
 
 &emsp;&emsp;(A) with reference to an entity other than a partnership and a municipality, financial condition such that the sum of such entity's debts is greater than all of such entity's property, at a fair valuation, exclusive of—
 
@@ -220,23 +360,23 @@ In this title—
 
 &emsp;&emsp;&emsp;(i) generally not paying its debts as they become due unless such debts are the subject of a bona fide dispute; or
 
-&emsp;&emsp;&emsp;(ii) unable to pay its debts as they become due;
+&emsp;&emsp;&emsp;(ii) unable to pay its debts as they become due.
 
-&emsp;(33) “institution-affiliated party”—
+&emsp;(33) The term “institution-affiliated party”—
 
 &emsp;&emsp;(A) with respect to an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act), has the meaning given it in section 3(u) of the Federal Deposit Insurance Act; and
 
-&emsp;&emsp;(B) with respect to an insured credit union, has the meaning given it in section 206(r) of the Federal Credit Union Act;
+&emsp;&emsp;(B) with respect to an insured credit union, has the meaning given it in section 206(r) of the Federal Credit Union Act.
 
-&emsp;(34) “insured credit union” has the meaning given it in section 101(7) of the Federal Credit Union Act;
+&emsp;(34) The term “insured credit union” has the meaning given it in section 101(7) of the Federal Credit Union Act.
 
-&emsp;(35) “insured depository institution”—
+&emsp;(35) The term “insured depository institution”—
 
 &emsp;&emsp;(A) has the meaning given it in section 3(c)(2) of the Federal Deposit Insurance Act; and
 
-&emsp;&emsp;(B) includes an insured credit union (except in the case of paragraphs (21B) and (33)(A) of this subsection);
+&emsp;&emsp;(B) includes an insured credit union (except in the case of paragraphs (23) and (35) of this subsection).
 
-&emsp;(35A) “intellectual property” means—
+&emsp;(35A) The term “intellectual property” means—
 
 &emsp;&emsp;(A) trade secret;
 
@@ -250,19 +390,37 @@ In this title—
 
 &emsp;&emsp;(F) mask work protected under chapter 9 of title 17;
 
-> &emsp;to the extent protected by applicable nonbankruptcy law; and
+> &emsp;to the extent protected by applicable nonbankruptcy law.
 
-&emsp;(36) “judicial lien” means lien obtained by judgment, levy, sequestration, or other legal or equitable process or proceeding;
+&emsp;(36) The term “judicial lien” means lien obtained by judgment, levy, sequestration, or other legal or equitable process or proceeding.
 
-&emsp;(37) “lien” means charge against or interest in property to secure payment of a debt or performance of an obligation;
+&emsp;(37) The term “lien” means charge against or interest in property to secure payment of a debt or performance of an obligation.
 
-&emsp;(38) “margin payment” means, for purposes of the forward contract provisions of this title, payment or deposit of cash, a security or other property, that is commonly known in the forward contract trade as original margin, initial margin, maintenance margin, or variation margin, including mark-to-market payments, or variation payments; and <sup>2</sup>
+&emsp;(38) The term “margin payment” means, for purposes of the forward contract provisions of this title, payment or deposit of cash, a security or other property, that is commonly known in the forward contract trade as original margin, initial margin, maintenance margin, or variation margin, including mark-to-market payments, or variation payments.
 
-&emsp;(39) “mask work” has the meaning given it in section 901(a)(2) of title 17.
+&emsp;(38A) The term “master netting agreement”—
 
-&emsp;(40) “municipality” means political subdivision or public agency or instrumentality of a State;
+&emsp;&emsp;(A) means an agreement providing for the exercise of rights, including rights of netting, setoff, liquidation, termination, acceleration, or close out, under or in connection with one or more contracts that are described in any one or more of paragraphs (1) through (5) of section 561(a), or any security agreement or arrangement or other credit enhancement related to one or more of the foregoing, including any guarantee or reimbursement obligation related to 1 or more of the foregoing; and
 
-&emsp;(41) “person” includes individual, partnership, and corporation, but does not include governmental unit, except that a governmental unit that—
+&emsp;&emsp;(B) if the agreement contains provisions relating to agreements or transactions that are not contracts described in paragraphs (1) through (5) of section 561(a), shall be deemed to be a master netting agreement only with respect to those agreements or transactions that are described in any one or more of paragraphs (1) through (5) of section 561(a).
+
+&emsp;(38B) The term “master netting agreement participant” means an entity that, at any time before the date of the filing of the petition, is a party to an outstanding master netting agreement with the debtor.
+
+&emsp;(39) The term “mask work” has the meaning given it in section 901(a)(2) of title 17.
+
+&emsp;(39A) The term “median family income” means for any year—
+
+&emsp;&emsp;(A) the median family income both calculated and reported by the Bureau of the Census in the then most recent year; and
+
+&emsp;&emsp;(B) if not so calculated and reported in the then current year, adjusted annually after such most recent year until the next year in which median family income is both calculated and reported by the Bureau of the Census, to reflect the percentage change in the Consumer Price Index for All Urban Consumers during the period of years occurring after such most recent year and before such current year.
+
+&emsp;(40) The term “municipality” means political subdivision or public agency or instrumentality of a State.
+
+&emsp;(40A) The term “patient” means any individual who obtains or receives services from a health care business.
+
+&emsp;(40B) The term “patient records” means any written document relating to a patient or a record recorded in a magnetic, optical, or other form of electronic medium.
+
+&emsp;(41) The term “person” includes individual, partnership, and corporation, but does not include governmental unit, except that a governmental unit that—
 
 &emsp;&emsp;(A) acquires an asset from a person—
 
@@ -278,29 +436,67 @@ In this title—
 
 &emsp;&emsp;&emsp;(ii) an eligible deferred compensation plan, as defined in section 457(b) of the Internal Revenue Code of 1986;
 
-> &emsp;shall be considered, for purposes of section 1102 of this title, to be a person with respect to such asset or such benefit;
+> &emsp;shall be considered, for purposes of section 1102 of this title, to be a person with respect to such asset or such benefit.
 
-&emsp;(42) “petition” means petition filed under section 301, 302, 303, or 304 of this title, as the case may be, commencing a case under this title;
+&emsp;(41A) The term “personally identifiable information” means—
 
-&emsp;(42A) “production payment” means a term overriding royalty satisfiable in cash or in kind—
+&emsp;&emsp;(A) if provided by an individual to the debtor in connection with obtaining a product or a service from the debtor primarily for personal, family, or household purposes—
+
+&emsp;&emsp;&emsp;(i) the first name (or initial) and last name of such individual, whether given atbirth or time of adoption, or resulting from a lawful change of name;
+
+&emsp;&emsp;&emsp;(ii) the geographical address of a physical place of residence of such individual;
+
+&emsp;&emsp;&emsp;(iii) an electronic address (including an e-mail address) of such individual;
+
+&emsp;&emsp;&emsp;(iv) a telephone number dedicated to contacting such individual at such physical place of residence;
+
+&emsp;&emsp;&emsp;(v) a social security account number issued to such individual; or
+
+&emsp;&emsp;&emsp;(vi) the account number of a credit card issued to such individual; or
+
+&emsp;&emsp;(B) if identified in connection with 1 or more of the items of information specified in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) a birth date, the number of a certificate of birth or adoption, or a place of birth; or
+
+&emsp;&emsp;&emsp;(ii) any other information concerning an identified individual that, if disclosed, will result in contacting or identifying such individual physically or electronically.
+
+&emsp;(42) The term “petition” means petition filed under section 301, 302, 303, or 304 <sup>1</sup> of this title, as the case may be, commencing a case under this title.
+
+&emsp;(42A) The term “production payment” means a term overriding royalty satisfiable in cash or in kind—
 
 &emsp;&emsp;(A) contingent on the production of a liquid or gaseous hydrocarbon from particular real property; and
 
-&emsp;&emsp;(B) from a specified volume, or a specified value, from the liquid or gaseous hydrocarbon produced from such property, and determined without regard to production costs;
+&emsp;&emsp;(B) from a specified volume, or a specified value, from the liquid or gaseous hydrocarbon produced from such property, and determined without regard to production costs.
 
-&emsp;(43) “purchaser” means transferee of a voluntary transfer, and includes immediate or mediate transferee of such a transferee;
+&emsp;(43) The term “purchaser” means transferee of a voluntary transfer, and includes immediate or mediate transferee of such a transferee.
 
-&emsp;(44) “railroad” means common carrier by railroad engaged in the transportation of individuals or property or owner of trackage facilities leased by such a common carrier;
+&emsp;(44) The term “railroad” means common carrier by railroad engaged in the transportation of individuals or property or owner of trackage facilities leased by such a common carrier.
 
-&emsp;(45) “relative” means individual related by affinity or consanguinity within the third degree as determined by the common law, or individual in a step or adoptive relationship within such third degree;
+&emsp;(45) The term “relative” means individual related by affinity or consanguinity within the third degree as determined by the common law, or individual in a step or adoptive relationship within such third degree.
 
-&emsp;(46) “repo participant” means an entity that, on any day during the period beginning 90 days before the date of the filing of the petition, has an outstanding repurchase agreement with the debtor;
+&emsp;(46) The term “repo participant” means an entity that, at any time before the filing of the petition, has an outstanding repurchase agreement with the debtor.
 
-&emsp;(47) “repurchase agreement” (which definition also applies to a reverse repurchase agreement) means an agreement, including related terms, which provides for the transfer of certificates of deposit, eligible bankers’ acceptances, or securities that are direct obligations of, or that are fully guaranteed as to principal and interest by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, or securities with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, or securities as described above, at a date certain not later than one year after such transfers or on demand, against the transfer of funds;
+&emsp;(47) The term “repurchase agreement” (which definition also applies to a reverse repurchase agreement)—
 
-&emsp;(48) “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934 or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A;
+&emsp;&emsp;(A) means—
 
-&emsp;(49) “security”—
+&emsp;&emsp;&emsp;(i) an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage related securities (as defined in section 3 of the Securities Exchange Act of 1934), mortgage loans, interests in mortgage related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities (defined as a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests, with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptance, securities, mortgage loans, or interests of the kind described in this clause, at a date certain not later than 1 year after such transfer or on demand, against the transfer of funds;
+
+&emsp;&emsp;&emsp;(ii) any combination of agreements or transactions referred to in clauses (i) and (iii);
+
+&emsp;&emsp;&emsp;(iii) an option to enter into an agreement or transaction referred to in clause (i) or (ii);
+
+&emsp;&emsp;&emsp;(iv) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), or (iii), together with all supplements to any such master agreement, without regard to whether such master agreement provides for an agreement or transaction that is not a repurchase agreement under this paragraph, except that such master agreement shall be considered to be a repurchase agreement under this paragraph only with respect to each agreement or transaction under the master agreement that is referred to in clause (i), (ii), or (iii); or
+
+&emsp;&emsp;&emsp;(v) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in clause (i), (ii), (iii), or (iv), including any guarantee or reimbursement obligation by or to a repo participant or financial participant in connection with any agreement or transaction referred to in any such clause, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562 of this title; and
+
+&emsp;&emsp;(B) does not include a repurchase obligation under a participation in a commercial mortgage loan.
+
+&emsp;(48) The term “securities clearing agency” means person that is registered as a clearing agency under section 17A of the Securities Exchange Act of 1934, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission, or whose business is confined to the performance of functions of a clearing agency with respect to exempted securities, as defined in section 3(a)(12) of such Act for the purposes of such section 17A.
+
+&emsp;(48A) The term “securities self regulatory organization” means either a securities association registered with the Securities and Exchange Commission under section 15A of the Securities Exchange Act of 1934 or a nationalsecurities exchange registered with the Securities and Exchange Commission under section 6 of the Securities Exchange Act of 1934.
+
+&emsp;(49) The term “security”—
 
 &emsp;&emsp;(A) includes—
 
@@ -348,23 +544,29 @@ In this title—
 
 &emsp;&emsp;&emsp;(vi) contract or certificate of a kind specified in subparagraph (A)(xii) of this paragraph that is not required to be the subject of a registration statement filed with the Securities and Exchange Commission and is not exempt under section 3(b) of the Securities Act of 1933 from the requirement to file such a statement; or
 
-&emsp;&emsp;&emsp;(vii) debt or evidence of indebtedness for goods sold and delivered or services rendered;
+&emsp;&emsp;&emsp;(vii) debt or evidence of indebtedness for goods sold and delivered or services rendered.
 
-&emsp;(50) “security agreement” means agreement that creates or provides for a security interest;
+&emsp;(50) The term “security agreement” means agreement that creates or provides for a security interest.
 
-&emsp;(51) “security interest” means lien created by an agreement;
+&emsp;(51) The term “security interest” means lien created by an agreement.
 
-&emsp;(51A) “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade;
+&emsp;(51A) The term “settlement payment” means, for purposes of the forward contract provisions of this title, a preliminary settlement payment, a partial settlement payment, an interim settlement payment, a settlement payment on account, a final settlement payment, a net settlement payment, or any other similar payment commonly used in the forward contract trade.
 
-&emsp;(51B) “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental thereto having aggregate noncontingent, liquidated secured debts in an amount no more than $4,000,000;
+&emsp;(51B) The term “single asset real estate” means real property constituting a single property or project, other than residential real property with fewer than 4 residential units, which generates substantially all of the gross income of a debtor who is not a family farmer and on which no substantial business is being conducted by a debtor other than the business of operating the real property and activities incidental.
 
-&emsp;(51C) “small business” means a person engaged in commercial or business activities (but does not include a person whose primary activity is the business of owning or operating real property and activities incidental thereto) whose aggregate noncontingent liquidated secured and unsecured debts as of the date of the petition do not exceed $2,000,000;
+&emsp;(51C) The term “small business case” means a case filed under chapter 11 of this title in which the debtor is a small business debtor.
 
-&emsp;(52) “State” includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title;
+&emsp;(51D) The term “small business debtor”—
 
-&emsp;(53) “statutory lien” means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute;
+&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning or operating real property or activities incidental thereto) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the petition or the date of the order for relief in an amount not more than $2,000,000 (excluding debts owed to 1 or more affiliates or insiders) for a case in which the United States trustee has not appointed under section 1102(a)(1) a committee of unsecured creditors or where the court has determined that the committee of unsecured creditors is not sufficiently active and representative to provide effective oversight of the debtor; and
 
-&emsp;(53A) “stockbroker” means person—
+&emsp;&emsp;(B) does not include any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 (excluding debt owed to 1 or more affiliates or insiders).
+
+&emsp;(52) The term “State” includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
+
+&emsp;(53) The term “statutory lien” means lien arising solely by force of a statute on specified circumstances or conditions, or lien of distress for rent, whether or not statutory, but does not include security interest or judicial lien, whether or not such interest or lien is provided by or is dependent on a statute and whether or not such interest or lien is made fully effective by statute.
+
+&emsp;(53A) The term “stockbroker” means person—
 
 &emsp;&emsp;(A) with respect to which there is a customer, as defined in section 741 of this title; and
 
@@ -372,29 +574,71 @@ In this title—
 
 &emsp;&emsp;&emsp;(i) for the account of others; or
 
-&emsp;&emsp;&emsp;(ii) with members of the general public, from or for such person's own account;
+&emsp;&emsp;&emsp;(ii) with members of the general public, from or for such person's own account.
 
-&emsp;(53B) “swap agreement” means—
+&emsp;(53B) The term “swap agreement”—
 
-&emsp;&emsp;(A) an agreement (including terms and conditions incorporated by reference therein) which is a rate swap agreement, basis swap, forward rate agreement, commodity swap, interest rate option, forward foreign exchange agreement, spot foreign exchange agreement, rate cap agreement, rate floor agreement, rate collar agreement, currency swap agreement, cross-currency rate swap agreement, currency option, any other similar agreement (including any option to enter into any of the foregoing);
+&emsp;&emsp;(A) means—
 
-&emsp;&emsp;(B) any combination of the foregoing; or
+&emsp;&emsp;&emsp;(i) any agreement, including the terms and conditions incorporated by reference in such agreement, which is—
 
-&emsp;&emsp;(C) a master agreement for any of the foregoing together with all supplements;
+&emsp;&emsp;&emsp;&emsp;(I) an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap;
 
-&emsp;(53C) “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor;
+&emsp;&emsp;&emsp;&emsp;(II) a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement;
 
-&emsp;(56A) <sup>3</sup> “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized;
+&emsp;&emsp;&emsp;&emsp;(III) a currency swap, option, future, or forward agreement;
 
-&emsp;(53D) “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan;
+&emsp;&emsp;&emsp;&emsp;(IV) an equity index or equity swap, option, future, or forward agreement;
 
-&emsp;(54) “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the debtor's equity of redemption;
+&emsp;&emsp;&emsp;&emsp;(V) a debt index or debt swap, option, future, or forward agreement;
 
-&emsp;(54A) the term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation; and
+&emsp;&emsp;&emsp;&emsp;(VI) a total return, credit spread or credit swap, option, future, or forward agreement;
 
-&emsp;(55) “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States;
+&emsp;&emsp;&emsp;&emsp;(VII) a commodity index or a commodity swap, option, future, or forward agreement; or
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394.)
+&emsp;&emsp;&emsp;&emsp;(VIII) a weather swap, weather derivative, or weather option;
+
+&emsp;&emsp;&emsp;(ii) any agreement or transaction that is similar to any other agreement or transaction referred to in this paragraph and that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap markets (including terms and conditions incorporated by reference therein); and
+
+&emsp;&emsp;&emsp;&emsp;(II) is a forward, swap, future, or option on one or more rates, currencies, commodities, equity securities, or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+
+&emsp;&emsp;&emsp;(iii) any combination of agreements or transactions referred to in this subparagraph;
+
+&emsp;&emsp;&emsp;(iv) any option to enter into an agreement or transaction referred to in this subparagraph;
+
+&emsp;&emsp;&emsp;(v) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), or (iv), together with all supplements to any such master agreement, and without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this paragraph, except that the master agreement shall be considered to be a swap agreement under this paragraph only with respect to each agreement or transaction under the master agreement that is referred to in clause (i), (ii), (iii), or (iv); or
+
+&emsp;&emsp;&emsp;(vi) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in clause (i) through (v), including any guarantee or reimbursement obligation by or to a swap participant or financial participant in connection with any agreement or transaction referred to in any such clause, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
+
+&emsp;&emsp;(B) is applicable for purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000.
+
+&emsp;(53C) The term “swap participant” means an entity that, at any time before the filing of the petition, has an outstanding swap agreement with the debtor.
+
+&emsp;(56A) <sup>2</sup> The term “term overriding royalty” means an interest in liquid or gaseous hydrocarbons in place or to be produced from particular real property that entitles the owner thereof to a share of production, or the value thereof, for a term limited by time, quantity, or value realized.
+
+&emsp;(53D) The term “timeshare plan” means and shall include that interest purchased in any arrangement, plan, scheme, or similar device, but not including exchange programs, whether by membership, agreement, tenancy in common, sale, lease, deed, rental agreement, license, right to use agreement, or by any other means, whereby a purchaser, in exchange for consideration, receives a right to use accommodations, facilities, or recreational sites, whether improved or unimproved, for a specific period of time less than a full year during any given year, but not necessarily for consecutive years, and which extends for a period of more than three years. A “timeshare interest” is that interest purchased in a timeshare plan which grants the purchaser the right to use and occupy accommodations, facilities, or recreational sites, whether improved or unimproved, pursuant to a timeshare plan.
+
+&emsp;(54) The term “transfer” means—
+
+&emsp;&emsp;(A) the creation of a lien;
+
+&emsp;&emsp;(B) the retention of title as a security interest;
+
+&emsp;&emsp;(C) the foreclosure of a debtor's equity of redemption; or
+
+&emsp;&emsp;(D) each mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with—
+
+&emsp;&emsp;&emsp;(i) property; or
+
+&emsp;&emsp;&emsp;(ii) an interest in property.
+
+&emsp;(54A) The term “uninsured State member bank” means a State member bank (as defined in section 3 of the Federal Deposit Insurance Act) the deposits of which are not insured by the Federal Deposit Insurance Corporation.
+
+&emsp;(55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the UnitedStates extends, including territories and possessions of the United States.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549; Pub. L. 97–222, §1, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§391, 401, 421, July 10, 1984, 98 Stat. 364, 366, 367; Pub. L. 99–554, title II, §§201, 251, 283(a), Oct. 27, 1986, 100 Stat. 3097, 3104, 3116; Pub. L. 100–506, §1(a), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 100–597, §1, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 101–311, title I, §101, title II, §201, June 25, 1990, 104 Stat. 267, 268; Pub. L. 101–647, title XXV, §2522(e), Nov. 29, 1990, 104 Stat. 4867; Pub. L. 102–486, title XXX, §3017(a), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title I, §106, title II, §§208(a), 215, 217(a), 218(a), title III, §304(a), title V, §501(a), (b)(1), (d)(1), Oct. 22, 1994, 108 Stat. 4111, 4124, 4126–4128, 4132, 4141–4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–394; Pub. L. 109–8, title I, §102(b), (k), title II, §§211, 226(a), 231(b), title III, §306(c), title IV, §§401(a), 414, 432(a), title VIII, §802(b), title IX, §907(a)(1), (b), (c), title X, §§1004, 1005, 1007(a), title XI, §1101(a), (b), title XII, §1201, Apr. 20, 2005, 119 Stat. 32, 35, 50, 66, 73, 80, 104, 107, 110, 145, 170, 175, 186, 187, 189, 192.)
 
 #### Historical and Revision Notes
 
@@ -428,7 +672,7 @@ Section 101(20) contains a definition of “foreign representative”. It clarif
 
 Section 101(35) defines “security” as contained in the Senate amendment. H.R. 8200 as adopted by the House excluded certain commercial notes from the definition of “security”, and that exclusion is deleted.
 
-Section 101(40) defines “transfer” as in the Senate amendment. The definition contained in H.R. 8200 as passed by the House included “setoff” in the definition of “transfer”. Inclusion of “setoff” is deleted. The effect is that a “setoff” is not subject to being set aside as a preferential “transfer” but will be subject to special rules.
+Section 101(40) defines “transfer” as in the Senate amendment. The definition contained in H.R. 8200 as passed by the House included “setoff” in the definitionof “transfer”. Inclusion of “setoff” is deleted. The effect is that a “setoff” is not subject to being set aside as a preferential “transfer” but will be subject to special rules.
 
 #### senate report no. 95–989
 
@@ -464,9 +708,9 @@ Paragraph (11) \[enacted as (10)\] defines “custodian.” There is no similar 
 
 “Debt” is defined in paragraph (12) \[enacted as (11)\] as a liability on a claim. The terms “debt” and “claim” are coextensive: a creditor has a “claim” against the debtor; the debtor owes a “debt” to the creditor. This definition of “debt” and the definition of “claim” on which it is based, proposed 11 U.S.C. 101(4), does not include a transaction such as a policy loan on an insurance policy. Under that kind of transaction, the debtor is not liable to the insurance company for repayment; the amount owed is merely available to the company for setoff against any benefits that become payable under the policy. As such, the loan is not a claim (it is not a right to payment) that the company can assert against the estate; nor is the debtor's obligation a debt (a liability on a claim) that will be discharged under proposed 11 U.S.C. 523 or 524.
 
-Paragraph (13) \[enacted as (12)\] defines “debtor.” Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the “bankrupt”, and a person or municipality that is proceedingunder a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a “debtor.” The term “debtor” is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
+Paragraph (13) \[enacted as (12)\] defines “debtor.” Debtor means person or municipality concerning which a case under title II has been commenced. This is a change in terminology from present law, which identifies the person by or against whom a petition is filed in a straight bankruptcy liquidation case as the “bankrupt”, and a person or municipality that is proceeding under a debtor rehabilitation chapter (chapters VIII through XIII of the Bankruptcy Act) \[chapters 8 through 13 of former title 11\] as a “debtor.” The term “debtor” is used for both kinds of cases in this bill, for ease of reference in chapters 1, 3, and 5 (which apply to straight bankruptcy and reorganization cases).
 
-Paragraph (14) \[enacted as (13)\] defines “disinterested person.” The definition is adapted from section 158 of chapter X of current law \[section 558 of former title 11\], though it is expanded and modified in some respects. A person is a disinterested person if the person is not a creditor, equity security holder, or insider; is not and was not an investment banker of the debtor for any outstanding security of the debtor (the change from underwriter in current law to investment banker is to make the term more descriptive and to avoid conflict with the definition of underwriter in section 2(11) of the Securities Act of 1933 (15 U.S.C. 77b(11)); has not been an investment banker for a security of the debtor within 3 years before the date of the filing of the petition (the change from five years to three years here conforms the definition with the statute of limitations in the Securities Act of 1933) \[15 U.S.C. 77m\], or an attorney for such an investment banker; is not an insider of the debtor or of such an investment banker; and does not have an interest materially adverse to the estate.
+Paragraph (14) \[enacted as (13)\] defines “disinterested person.” The definition is adapted from section 158 of chapter X of current law \[section 558 of former title 11\], though it is expanded and modified in some respects. A person is a disinterested person if the person is not a creditor, equity security holder, or insider; is not and was not an investment banker of the debtor for any outstanding security of the debtor (the change from underwriter in current law to investment banker is to make the term more descriptive and to avoid conflictwith the definition of underwriter in section 2(11) of the Securities Act of 1933 (15 U.S.C. 77b(11)); has not been an investment banker for a security of the debtor within 3 years before the date of the filing of the petition (the change from five years to three years here conforms the definition with the statute of limitations in the Securities Act of 1933) \[15 U.S.C. 77m\], or an attorney for such an investment banker; is not an insider of the debtor or of such an investment banker; and does not have an interest materially adverse to the estate.
 
 “Entity” is defined, for convenience, in paragraph (15) \[enacted as (14)\], to include person, estate, trust, and governmental unit. It is the most inclusive of the various defined terms relating to bodies or units.
 
@@ -500,7 +744,7 @@ Paragraph (29) defines “municipality.” The definition is adapted from the te
 
 “Person” is defined in paragraph (30). The definition is a change in wording, but not in substance, from the definition in section 1(23) of the Bankruptcy Act \[section 1(23) of former title 11\]. The definition is also similar to the one contained in 1 U.S.C. sec. 1, but is repeated here for convenience and ease of reference. Person includes individual partnership, and corporation. The exclusion of governmental units is made explicit in order to avoid any confusion that may arise if, for example, a municipality is incorporated and thus is legally a corporation as well as governmental unit. The definition does not include an estate or a trust, which are included only in the definition of “entity” in proposed 11 U.S.C. 101(14).
 
-“Petition” is defined for convenience in paragraph (31). Petition is a petition under section 301, 302, 303, or304 of the bankruptcy code—that is, a petition that commences a case under title 11.
+“Petition” is defined for convenience in paragraph (31). Petition is a petition under section 301, 302, 303, or 304 of the bankruptcy code—that is, a petition that commences a case under title 11.
 
 Paragraph (32) defines purchaser as a transferee of a voluntary transfer, such as a sale or gift, and includes an immediate or mediate transferee of a purchaser.
 
@@ -520,21 +764,233 @@ Paragraph (40) defines “transfer.” It is derived and adapted, with stylistic
 
 #### References in Text
 
-Section 3 of the Federal Deposit Insurance Act, referred to in pars. (21B)(A), (33)(A), (35)(A), and (54A), is classified to section 1813 of Title 12, Banks and Banking.
+The Social Security Act, referred to in par. (10A)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Investment Company Act of 1940, referred to in par. (22)(A)(ii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Internal Revenue Code of 1986, referred to in pars. (12A)(B) and (41)(C), is classified generally to Title 26, Internal Revenue Code.
 
-Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22)(B), is classified to section 4422 of Title 12, Banks and Banking.
+Section 3 of the Federal Deposit Insurance Act, referred to in pars. (12A)(D), (21B)(A), (33)(A), (35)(A), and (54A), is classified to section 1813 of Title 12, Banks and Banking.
 
-Sections 101(7) and 206(r) of the Federal Credit Union Act, referred to in pars. (33)(B) and (34), are classified to sections 1752(7) and 1786(r), respectively, of Title 12.
+Sections 101 and 206(r) of the Federal Credit Union Act, referred to in pars. (12A)(D), (33)(B), and (34), are classified to sections 1752 and 1786(r), respectively, of Title 12, Banks and Banking.
 
-Sections 414(d) and 457(b) of the Internal Revenue Code of 1986, referred to in par. (41)(C), are classified to sections 414(d) and 457(b), respectively, of Title 26, Internal Revenue Code.
+The Investment Company Act of 1940, referred to in pars. (22)(B) and (53B)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-Sections 3(a)(12) and 17A of the Securities Exchange Act of 1934, referred to in par. (48), are classified to sections 78c(a)(12) and 78q–1, respectively, of Title 15, Commerce and Trade.
+Section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (22A)(B), is classified to section 4402 of Title 12, Banks and Banking.
 
-The Securities Act of 1933, referred to in par. (49)(A)(xii), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+Section 304 of this title, referred to in par. (42), was repealed by Pub. L. 109–8, title VIII, §802(d)(3), Apr. 20, 2005, 119 Stat. 146.
+
+The Securities Exchange Act of 1934, referred to in pars. (47)(A)(i), (48), (48A), and (53B)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Sections 3, 6, 15A, and 17A of the Act are classified to sections 78c, 78f, 78<i>o</i>–3 and 78q–1, respectively, of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+The Securities Act of 1933, referred to in pars. (49)(A)(xii) and (53B)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. Section 3(b) of the Act is classified to section 77c(b) of Title 15. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+
+The Public Utility Holding Company Act of 1935, referred to in par. (53B)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+
+The Trust Indenture Act of 1939, referred to in par. (53B)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+
+The Investment Advisers Act of 1940, referred to in par. (53B)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification ofthis Act to the Code, see section 80b–20 of Title 15 and Tables.
+
+The Securities Investor Protection Act of 1970, referred to in par. (53B)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+
+The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+The Gramm-Leach-Bliley Act, referred to in par. (53B)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+
+The Legal Certainty for Bank Products Act of 2000, referred to in par. (53B)(B), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
 #### Amendments
+
+2005—Pub. L. 109–8, §1201(1), substituted “In this title the following definitions shall apply:” for “In this title—” in introductory provisions.
+
+Pars. (1), (2). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (3). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §226(a)(1), added par. (3).
+
+Par. (4). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (4A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §226(a)(2), added par. (4A).
+
+Pars. (5) to (7). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pars. (7A), (7B). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §1007(a)(1), added pars. (7A) and (7B).
+
+Pars. (8) to (10). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (10A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §102(b), added par. (10A).
+
+Pars. (11), (12). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (12A). Pub. L. 109–8, §1201(8), which directed the substitution of a period for a semicolon at end, could not be executed because par. (12A) ended in a period after amendment by Pub. L. 109–8, §226(a)(3). See below.
+
+Pub. L. 109–8, §1201(2), inserted “The term” after par. designation.
+
+Pub. L. 109–8, §§211(1), 226(a)(3), added par. (12A) and struck out former par. (12A) which read as follows: “ ‘debt for child support’ means a debt of a kind specified in section 523(a)(5) of this title for maintenance or support of a child of the debtor;”.
+
+Par. (13). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (13A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §306(c)(1), added par. (13A).
+
+Par. (14). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §414, amended par. (14) generally. Prior to amendment, par. (14) consisted of subpars. (A) to (E) defining “disinterested person”.
+
+Par. (14A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §211(2), added par. (14A).
+
+Pars. (15) to (17). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (18). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (18)(A). Pub. L. 109–8, §1005, substituted “for—
+
+&emsp;“(i) the taxable year preceding; or
+
+&emsp;“(ii) each of the 2d and 3d taxable years preceding;
+
+> the taxable year” for “for the taxable year preceding the taxable year”.
+
+Pub. L. 109–8, §1004(1), substituted “$3,237,000” for “$1,500,000” and “not less than 50 percent” for “not less than 80 percent”.
+
+Par. (18)(B)(ii). Pub. L. 109–8, §1004(2), substituted “$3,237,000” for “$1,500,000” and “50 percent” for “80 percent”.
+
+Par. (19). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pars. (19A), (19B). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §1007(a)(2), added pars. (19A) and (19B).
+
+Pars. (20) to (21B). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (22). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(b)(1), added par. (22) and struck out former par. (22) which consisted of introductory provisions and subpars. (A) and (B) defining “financial institution”.
+
+Par. (22A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(b)(2), added par. (22A).
+
+Pars. (23), (24). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §802(b), added pars. (23) and (24) and struck out former pars. (23) and (24) which read as follows:
+
+“(23) ‘foreign proceeding’ means proceeding, whether judicial or administrative and whether or not under bankruptcy law, in a foreign country in which the debtor's domicile, residence, principal place of business, or principal assets were located at the commencement of such proceeding, for the purpose of liquidating an estate, adjusting debts by composition, extension, or discharge, or effecting a reorganization;
+
+“(24) ‘foreign representative’ means duly selected trustee, administrator, or other representative of an estate in a foreign proceeding;”.
+
+Par. (25). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(a)(1)(A), substituted “means—” for “means”, designated subsequent provisions as subpar. (A), substituted “, or any other similar agreement” for “, or any combination thereof or option thereon”, and added subpars. (B) to (E).
+
+Par. (26). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(b)(3), added par. (26) and struck out former par. (26) which read as follows: “ ‘forward contract merchant’ means a person whose business consists in whole or in part of entering into forward contracts as or with merchants in a commodity, as defined in section 761(8) of this title, or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade;”.
+
+Par. (27). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (27A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §1101(a)(2), added par. (27A). Former par. (27A) redesignated (27B).
+
+Pub. L. 109–8, §306(c)(2), added par. (27A).
+
+Par. (27B). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §1101(a)(1), redesignated par. (27A) as (27B).
+
+Pars. (28) to (34). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (35). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (35)(B). Pub. L. 109–8, §1201(3), substituted “paragraphs (23) and (35)” for “paragraphs (21B) and (33)(A)”.
+
+Par. (35A). Pub. L. 109–8, §1201(2), (4), inserted “The term” after par. designation and substituted a period for “; and” at end.
+
+Pars. (36), (37). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (38). Pub. L. 109–8, §1201(2), (4), inserted “The term” after par. designation and substituted a period for “; and” at end.
+
+Pars. (38A), (38B). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(c), added pars. (38A) and (38B).
+
+Par. (39). Pub. L. 109–8, §1201(2), inserted “The term” after par. designation.
+
+Par. (39A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §102(k), added par. (39A).
+
+Par. (40). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pars. (40A), (40B). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §1101(b), added pars. (40A) and (40B).
+
+Par. (41). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (41A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §231(b), added par. (41A).
+
+Pars. (42) to (45). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (46). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(a)(1)(B), substituted “at any time before” for “on any day during the period beginning 90 days before the date of”.
+
+Par. (47). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(a)(1)(C), amended par. (47) generally. Prior to amendment, par. (47) read as follows: “ ‘repurchase agreement’ (which definition also applies to a reverse repurchase agreement) means an agreement, including related terms, which provides for the transfer of certificates of deposit, eligible bankers’ acceptances, or securities that are direct obligations of, or that are fully guaranteed as to principal and interest by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, or securities with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, or securities as described above, at a date certain not later than one year after such transfers or on demand, against the transfer of funds;”.
+
+Par. (48). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(a)(1)(D), inserted “, or exempt from such registration under such section pursuant to an order of the Securities and Exchange Commission,” after “1934”.
+
+Par. (48A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §401(a), added par. (48A).
+
+Pars. (49) to (51A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (51B). Pub. L. 109–8, §1201(2), (5), (8), inserted “The term” after par. designation and “who is not a family farmer” after “income of a debtor” and substituted a period for “thereto having aggregate noncontingent, liquidated secured debts in an amount no more than $4,000,000;”.
+
+Pars. (51C), (51D). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §432(a), added pars. (51C) and (51D) and struck out former par. (51C) which read as follows: “ ‘small business’ means a person engaged in commercial or business activities (but does not include a person whose primary activity is the business of owning or operating real property and activities incidental thereto) whose aggregate noncontingent liquidated secured and unsecured debts as of the date of the petition do not exceed $2,000,000;”.
+
+Pars. (52) to (53A). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (53B). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Pub. L. 109–8, §907(a)(1)(E), amended par. (53B) generally. Prior to amendment, par. (53B) consisted of introductory provisions and subpars. (A) to (C) defining “swap agreement”.
+
+Par. (53C). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (53D). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (54). Pub. L. 109–8, §1201(8), substituted a period for semicolon at end.
+
+Pub. L. 109–8, §1201(6), added par. (54) and struck out former par. (54) which read as follows: “The term ‘transfer’ means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the debtor's equity of redemption;”.
+
+Pub. L. 109–8, §1201(2), inserted “The term” after par. designation.
+
+Par. (54A). Pub. L. 109–8, §1201(8), which directed the substitution of a period for semicolon at end, could not be executed because par. (54A) ended in a period after amendment by Pub. L. 109–8, §1201(4). See below.
+
+Pub. L. 109–8, §1201(4), (7), substituted “The term” for “the term”, realigned left margin, and substituted a period for “; and” at end.
+
+Par. (55). Pub. L. 109–8, §1201(2), (8), inserted “The term” after par. designation and substituted a period for semicolon at end.
+
+Par. (56A). Pub. L. 109–8, §1201(8), which directed the substitution of a period for semicolon “in each of paragraphs (40) through (55)” at end, was executed to par. (56A), to reflect the probable intent of Congress, because par. (56A) follows par. (53C) in text.
+
+Pub. L. 109–8, §1201(2), inserted “The term” after par. designation.
 
 2000—Par. (22). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(3)\], amended par. (22) generally. Prior to amendment par. (22) read as follows: “ ‘financial institution’ means a person that is a commercial or savings bank, industrial savings bank, savings and loan association, or trust company and, when any such person is acting as agent or custodian for a customer in connection with a securities contract, as defined in section 741 of this title, such customer;”.
 
@@ -772,6 +1228,26 @@ Pars. (37) to (39). Pub. L. 97–222, §1(a)(1), redesignated pars. (36) to (38)
 
 Pars. (40), (41). Pub. L. 97–222, §1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–8, title XV, §1501, Apr. 20, 2005, 119 Stat. 216, provided that:
+
+“(a)
+
+Effective Date.—Except as otherwise provided in this Act, this Act \[see Tables for classification\] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act \[Apr. 20, 2005\].
+
+“(b)
+
+Application of Amendments.—
+
+&emsp;“(1)
+
+In general.—Except as otherwise provided in this Act and paragraph (2), the amendments made by this Act shall not apply with respect to cases commenced under title 11, United States Code, before the effective date of this Act.
+
+&emsp;“(2)
+
+Certain limitations applicable to debtors.—The amendments made by sections 308, 322, and 330 \[amending sections 104, 522, 727, 1141, 1228, and 1328 of this title\] shall apply with respect to cases commenced under title 11, United States Code, on or after the date of the enactment of this Act \[Apr. 20, 2005\].”
+
 #### Effective Date of 1994 Amendment
 
 Section 702 of Pub. L. 103–394 provided that:
@@ -840,6 +1316,12 @@ Section 552, formerly §553, of title III (§§301–553) of Pub. L. 98–353, a
 
 “(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\].”
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–8, §1(a), Apr. 20, 2005, 119 Stat. 23, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Bankruptcy Abuse Prevention and Consumer Protection Act of 2005’.”
+
+Pub. L. 109–8, title III, §332(a), Apr. 20, 2005, 119 Stat. 103, provided that: “This section \[amending section 303of this title and section 157 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Involuntary Bankruptcy Improvement Act of 2005’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–369, §1, Oct. 25, 2004, 118 Stat. 1749, provided that: “This Act \[amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title\] may be cited as the ‘Family Farmer Bankruptcy Relief Act of 2004’.”
@@ -866,7 +1348,7 @@ Pub. L. 101–581, §1, Nov. 15, 1990, 104 Stat. 2865, and section 3101 of title
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–334, §1, June 16, 1988, 102 Stat. 610, provided that: “This Act \[enacting section 1114 of this title, amending section 1129 of this title, enacting provisions set out as a note under section 1114 of this title, and amending and repealing provisions set out as notesunder section 1106 of this title\] may be cited as the ‘Retiree Benefits Bankruptcy Protection Act of 1988’.”
+Pub. L. 100–334, §1, June 16, 1988, 102 Stat. 610, provided that: “This Act \[enacting section 1114 of this title, amending section 1129 of this title, enacting provisions set out as a note under section 1114 of this title, and amending and repealing provisions set out as notes under section 1106 of this title\] may be cited as the ‘Retiree Benefits Bankruptcy Protection Act of 1988’.”
 
 #### Short Title of 1984 Amendment
 
@@ -878,9 +1360,21 @@ Section 701 of Pub. L. 103–394 provided that: “If any provision of this Act 
 
 Section 551 of title III (§§301–553) of Pub. L. 98–353 provided that: “If any provision of this title or any amendment made by this title \[see Tables for classification\], or the application thereof to any person or circumstance is held invalid, the provisions of every other part, and their application shall not be affected thereby.”
 
-<i><sup>1</sup></i><i> So in original. There is no par. (3).</i>
+#### Construction
 
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+Pub. L. 109–8, title X, §1007(e), Apr. 20, 2005, 119 Stat. 188, provided that: “Nothing in this section \[amending this section and sections 109, 1203, and 1206 of this title\] shall change, affect, or amend the Fishery Conservation and Management Act of 1976 (16 U.S.C. 1801 et seq.).”
 
-<i><sup>3</sup></i><i> So in original.</i>
+Pub. L. 109–8, title XI, §1101(c), Apr. 20, 2005, 119 Stat. 189, provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall not affect the interpretation of section 109(b) of title 11, United States Code.”
+
+#### Nonlimitation of Information
+
+Pub. L. 109–8, title I, §102(e), Apr. 20, 2005, 119 Stat. 33, provided that: “Nothing in this title \[see Tables for classification\] shall limit the ability of a creditor to provide information to a judge (except for information communicated ex parte, unless otherwise permitted by applicable law), United States trustee (or bankruptcy administrator, if any), or trustee.”
+
+#### Judicial Education
+
+Pub. L. 109–8, title XII, §1226, Apr. 20, 2005, 119 Stat. 199, provided that: “The Director of the Federal Judicial Center, in consultation with the Director of the Executive Office for United States Trustees, shall develop materials and conduct such training as may be useful to courts in implementing this Act \[see Short Title of 2005 Amendment note above\] and the amendments made by this Act, including the requirements relating to the means test under section 707(b), and reaffirmation agreements under section 524, of title 11 of the United States Code, as amended by this Act.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

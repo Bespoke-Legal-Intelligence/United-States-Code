@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) to develop and disseminate curricula and resource materials relating to the care and treatment of individuals with such disease and the prevention of the disease among individuals who are at risk of contracting the disease; and
 
-&emsp;&emsp;(D) to develop protocols for the medical care of women with HIV disease, including prenatal and other gynecological care for such women.
+&emsp;&emsp;(D) to develop protocols for the medical care of women with HIV disease, includingprenatal and other gynecological care for such women.
 
 #### (2) Preference in making grants
 
@@ -52,7 +52,7 @@
 
 #### (5) Community-based care
 
-&emsp;The Secretary may make grants to dental schools and programs described in paragraph\(1)(B) that partner with community-based dentists to provide oral health care to patients with HIV disease in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
+&emsp;The Secretary may make grants to dental schools and programs described in paragraph (1)(B) that partner with community-based dentists to provide oral health care to patients with HIV disease in unserved areas. Such partnerships shall permit the training of dental students and residents and the participation of community dentists as adjunct faculty.
 
 #### (c) Authorization of appropriations
 

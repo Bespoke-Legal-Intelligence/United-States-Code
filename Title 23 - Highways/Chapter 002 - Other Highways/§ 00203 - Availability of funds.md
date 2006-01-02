@@ -6,7 +6,7 @@ Funds authorized for forest development roads and trails, public lands developme
 
 #### Amendments
 
-1998—Pub. L. 105–178 substituted “for forest development roads and trails” for “for, forest development roads and trails” in two places, inserted “refuge roads,” after “parkways,” in two places, and inserted at end “Notwithstanding any other provision of law, the authorization by the Secretary of engineering and related work for a Federal lands highways program project, or the approval by the Secretary of plans, specifications, and estimates for construction of a Federal lands highways program project, shall be deemed to constitute a contractual obligation of the Federal Government to pay the Federal share of the cost of the project.”
+1998—Pub. L. 105–178 substituted “for forest development roads and trails” for “for, forest development roads and trails” in two places, inserted “refuge roads,” after “parkways,” in two places, and inserted at end “Notwithstanding any other provision of law, the authorization by the Secretary of engineering andrelated work for a Federal lands highways program project, or the approval by the Secretary of plans, specifications, and estimates for construction of a Federal lands highways program project, shall be deemed to constitute a contractual obligation of the Federal Government to pay the Federal share of the cost of the project.”
 
 1991—Pub. L. 102–240 struck out “forest highways” before “, forest development roads” in two places.
 

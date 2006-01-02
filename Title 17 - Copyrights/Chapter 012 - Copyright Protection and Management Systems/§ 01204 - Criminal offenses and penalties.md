@@ -16,7 +16,7 @@ Limitation for Nonprofit Library, Archives, Educational Institution, or Public B
 
 Statute of Limitations.—No criminal proceeding shall be brought under this section unless such proceeding is commenced within 5 years after the cause of action arose.
 
-(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2876; amended Pub. L. 106–113, div.B, §1000(a)(9) \[title V, §5004(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593.)
+(Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2876; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5004(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593.)
 
 #### References in Text
 

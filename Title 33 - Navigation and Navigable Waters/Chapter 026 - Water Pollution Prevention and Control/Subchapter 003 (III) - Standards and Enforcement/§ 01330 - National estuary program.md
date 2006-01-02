@@ -60,13 +60,13 @@ In developing a conservation and management plan under this section, the managem
 
 #### (e) Period of conference
 
-A management conference convened under this section shall be convened for a period not to exceed 5 years. Such conference may be extended by the Administrator, and if terminated after the initial period, may be reconvened by the Administrator at any time thereafter, as may be necessary to meet the requirements of this section.
+A management conference convened under this section shall be convened for a period not toexceed 5 years. Such conference may be extended by the Administrator, and if terminated after the initial period, may be reconvened by the Administrator at any time thereafter, as may be necessary to meet the requirements of this section.
 
 #### (f) Approval and implementation of plans
 
 #### (1) Approval
 
-&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve suchplan if the plan meets the requirements of this section and the affected Governor or Governors concur.
+&emsp;Not later than 120 days after the completion of a conservation and management plan and after providing for public review and comment, the Administrator shall approve such plan if the plan meets the requirements of this section and the affected Governor or Governors concur.
 
 #### (2) Implementation
 
@@ -132,7 +132,7 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(B) an assessment of the state and health of the Nation's estuarine zones, to the extent evaluated under this subsection;
 
-&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential usesof each estuarine zone, to the extent evaluated under this subsection; and
+&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
 
 &emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 
@@ -210,7 +210,7 @@ Findings.—The Congress finds and declares that—
 
 &emsp;“(8) the concerted efforts of all levels of Government, the private sector, and the public at large will be necessary to protect and enhance the environmental integrity of Massachusetts Bay; and
 
-&emsp;“(9) the designation of Massachusetts Bay as an Estuary of National Significance and the development of a comprehensive plan for protecting and restoring the Bay may contribute significantly to its long-term health and environmental integrity.
+&emsp;“(9) the designation of Massachusetts Bay as an Estuary of National Significance and the development of a comprehensive plan for protecting and restoringthe Bay may contribute significantly to its long-term health and environmental integrity.
 
 “(b)
 

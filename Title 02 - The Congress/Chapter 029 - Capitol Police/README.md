@@ -39,6 +39,18 @@
 | (a) | In general. |
 | (b) | Limitations. |
 | (c) | Effective date. |
+| [1909\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001909%20-%20Inspector%20General%20for%20the%20United%20States%20Capitol%20Police.md) | Inspector General for the United States Capitol Police. |
+| (a) | Establishment of Office. |
+| (b) | Inspector General. |
+| (c) | Duties. |
+| (d) | Powers. |
+| (e) | Transfer of functions. |
+| (f) | Effective date. |
+| [1910\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001910%20-%20Report%20of%20disbursements.md) | Report of disbursements. |
+| (a) | In general. |
+| (b) | Contents. |
+| (c) | Printing. |
+| (d) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -192,6 +204,7 @@
 | (c) | Rule of construction. |
 | (d) | Regulations. |
 | (e) | Effective date. |
+| [1980\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001980%20-%20Mounted%20horse%20unit.md) | Mounted horse unit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

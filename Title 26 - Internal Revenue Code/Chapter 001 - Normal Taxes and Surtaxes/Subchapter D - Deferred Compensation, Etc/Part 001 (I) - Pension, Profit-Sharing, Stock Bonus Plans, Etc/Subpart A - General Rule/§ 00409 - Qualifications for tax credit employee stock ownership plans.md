@@ -60,7 +60,7 @@ A plan meets the requirements of this subsection only if it provides that no emp
 
 #### (3) Requirement for other employers
 
-&emsp;If the employer does not have a registration-type class of securities, the plan meets the requirements of this paragraph only if each participant or beneficiary in the plan is entitled to direct the plan as to the manner in which voting rights under securities of the employer which are allocated to the account of such participant or beneficiary are to be exercised with respect to any corporate matter which involves the voting of such shares with respect to the approval or disapproval of any corporate merger or consolidation, recapitalization, reclassification, liquidation, dissolution, sale of substantially all assets of a trade or business, or such similar transaction as the Secretary may prescribe in regulations.
+&emsp;If the employer does not have a registration-type class of securities, the plan meets the requirements of this paragraph only if each participant or beneficiary in the plan is entitled to direct the plan as to the manner in which voting rights under securities of the employer which are allocated to the account of suchparticipant or beneficiary are to be exercised with respect to any corporate matter which involves the voting of such shares with respect to the approval or disapproval of any corporate merger or consolidation, recapitalization, reclassification, liquidation, dissolution, sale of substantially all assets of a trade or business, or such similar transaction as the Secretary may prescribe in regulations.
 
 #### (4) Registration-type class of securities defined
 
@@ -124,7 +124,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (3) Special rule for banks
 
-&emsp;In the case of a plan established and maintained by a bank (as defined in section 581)which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
+&emsp;In the case of a plan established and maintained by a bank (as defined in section 581) which is prohibited by law from redeeming or purchasing its own securities, the requirements of paragraph (1)(B) shall not apply if the plan provides that participants entitled to a distribution from the plan shall have a right to receive a distribution in cash.
 
 #### (4) Put option period
 
@@ -737,10 +737,6 @@ Retroactive application of amendment made by subsection (d).—In determining th
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 404, 411, 414, 415, 512, 664, 1042, 4975, 4978, 4979A, 4980 of this title; title 28 section 3010; title 29 sections 1054, 1055.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

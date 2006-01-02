@@ -2,7 +2,7 @@
 
 #### (a) Eligible areas
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall, subject to subsections (b) through (d) of this section, make grants in accordance with section 300ff–13 of this title for the purpose of assisting in the provision of the services specified in section 300ff–14 of this title in any metropolitan area for which there has been reported to the Director of the Centers for Disease Control and Prevention a cumulative total of more than 2,000 cases of acquired immune deficiency syndrome for the most recent period of 5 calendar years for which such data are available.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall, subject to subsections (b)through (d) of this section, make grants in accordance with section 300ff–13 of this title for the purpose of assisting in the provision of the services specified in section 300ff–14 of this title in any metropolitan area for which there has been reported to the Director of the Centers for Disease Control and Prevention a cumulative total of more than 2,000 cases of acquired immune deficiency syndrome for the most recent period of 5 calendar years for which such data are available.
 
 #### (b) Requirement regarding confirmation of cases
 
@@ -82,7 +82,7 @@ Relationship Between Epidemiological Measures and Health Care for Certain Indivi
 
 &emsp;“(1)
 
-In general.—The Secretary shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study concerning the appropriate epidemiological measures and their relationship to the financing and delivery of primary care and health-related support services for low-income, uninsured, and under-insured individuals with HIV disease.
+In general.—The Secretary shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study concerning the appropriate epidemiological measures and their relationship to the financing anddelivery of primary care and health-related support services for low-income, uninsured, and under-insured individuals with HIV disease.
 
 &emsp;“(2)
 

@@ -26,11 +26,7 @@ Additional Pay.—A bonus paid under this section is in addition to other pay an
 
 (f)
 
-Repayment of Bonus.—(1) If an officer who has entered into a written agreement under subsection (a) and who has received all or part of a bonus under this section fails to complete the total period of active duty specified in the agreement, the Secretary concerned may require the officer to repay the United States, on a pro rata basis and to the extent that the Secretary determines conditions and circumstances warrant, all sums paid under this section.
-
-(2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of a written agreement entered into under subsection (a) does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after January 1, 1991.
+Repayment.—An officer who, having entered into a written agreement under subsection (a) and having received all or part of a bonus under this section, does not complete the period of active duty as specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (g)
 
@@ -40,9 +36,17 @@ Period of Commitment.—The period of active duty agreed upon by an officer in a
 
 Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-(Added Pub. L. 101–510, div. A, title XII, §1203(a)(1), Nov. 5, 1990, 104 Stat. 1656.)
+(Added Pub. L. 101–510, div. A, title XII, §1203(a)(1), Nov. 5, 1990, 104 Stat. 1656; amended Pub. L. 109–163, div. A, title VI, §687(b)(26), Jan. 6, 2006, 119 Stat. 3331.)
+
+#### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment of bonus required when officer fails to complete total period of agreed upon active duty.
 
 #### Effective Date
 
 Section 1203(b) of Pub. L. 101–510 provided that: “Section 317 of title 37, United States Code, as added by subsection (a), shall take effect as of October 1, 1991.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

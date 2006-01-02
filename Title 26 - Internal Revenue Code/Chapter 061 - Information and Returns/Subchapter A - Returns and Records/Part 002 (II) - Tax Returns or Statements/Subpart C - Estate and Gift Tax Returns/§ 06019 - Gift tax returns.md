@@ -16,7 +16,7 @@ Any individual who in any calendar year makes any transfer by gift other than—
 
 > shall make a return for such year with respect to the gift tax imposed by subtitle B.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 739; Pub. L. 91–614, title I, §102(d)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 97–34, title IV, §§403(b)(3)(A), (c)(3)(B), 442(d)(2), Aug. 13, 1981, 95 Stat. 301, 302, 322; Pub. L. 105–34, title XIII, §1301(a), Aug. 5, 1997, 111 Stat. 1039; Pub. L. 107–16, title V, §542(b)(2), June 7, 2001, 115 Stat. 82.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 739; Pub. L. 91–614, title I, §102(d)(3), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 97–34, title IV, §§403(b)(3)(A), (c)(3)(B), 442(d)(2), Aug. 13, 1981, 95 Stat. 301, 302, 322; Pub. L. 105–34, title XIII, §1301(a), Aug. 5,1997, 111 Stat. 1039; Pub. L. 107–16, title V, §542(b)(2), June 7, 2001, 115 Stat. 82.)
 
 #### Amendment of Section
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 97–34 applicable to gifts made after Dec. 31, 1981, see s
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2035, 2523, 2642, 6018, 6075, 6716 of this title.
 

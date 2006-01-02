@@ -50,7 +50,7 @@ The Director may enter into contracts under this section with research organizat
 
 &emsp;&emsp;(A) actively encourage eligible entities to compete for such awards by making information and technical assistance relating to the competition widely available; and
 
-&emsp;&emsp;(B) seek input from the chief executive officers of States, chief State school officers, educators, and parents regarding the need for applied research, wide dissemination,training, technical assistance, and development activities authorized by this subchapter in the regions to be served by the regional educational laboratories and how those educational needs could be addressed most effectively.
+&emsp;&emsp;(B) seek input from the chief executive officers of States, chief State school officers, educators, and parents regarding the need for applied research, wide dissemination, training, technical assistance, and development activities authorized by this subchapter in the regions to be served by the regional educational laboratories and how those educational needs could be addressed most effectively.
 
 #### (4) Objectives and indicators
 
@@ -168,7 +168,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 #### (2) Special rule
 
-&emsp;If a regional educational laboratory needs flexibility in order to meet the requirements of paragraph (1)(A)(i), the regional educational laboratory may select not more than 10 percent of the governing board from individuals outside those representatives nominated in accordance with paragraph (1)(A)(iii).
+&emsp;If a regional educational laboratory needs flexibility in order to meet the requirementsof paragraph (1)(A)(i), the regional educational laboratory may select not more than 10 percent of the governing board from individuals outside those representatives nominated in accordance with paragraph (1)(A)(iii).
 
 #### (i) Duties of governing board
 

@@ -4,9 +4,7 @@
 
 Whenever the Commissioner of Social Security finds that more or less than the correct amount of payment has been made to any person under this subchapter, proper adjustment or recovery shall be made, as follows:
 
-&emsp;(1) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease
-
-any payment under this subchapter to which the overpaid person (if a qualified individual) is entitled, or shall require the overpaid person or his or her estate to refund the amount in excess of the correct amount, or, if recovery is not obtained under these two methods, shall seek or pursue recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury, as authorized under section 3720A of title 31.
+&emsp;(1) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this subchapter to which the overpaid person (if a qualified individual) is entitled, or shall require the overpaid person or his or her estate to refund the amount in excess of the correct amount, or, if recovery is not obtained under these two methods, shall seek or pursue recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury, as authorized under section 3720A of title 31.
 
 &emsp;(2) With respect to payment of less than the correct amount to a qualified individual who, at the time the Commissioner of Social Security is prepared to take action with respect to the underpayment—
 
@@ -16,7 +14,7 @@ any payment under this subchapter to which the overpaid person (if a qualified i
 
 #### (b) Waiver of recovery of overpayment
 
-In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if the Commissioner of Social Security determines that the adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
+In any case in which more than the correct amount of payment has been made, there shallbe no adjustment of payments to, or recovery by the United States from, any person who is without fault if the Commissioner of Social Security determines that the adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
 
 #### (c) Limited immunity for disbursing officers
 

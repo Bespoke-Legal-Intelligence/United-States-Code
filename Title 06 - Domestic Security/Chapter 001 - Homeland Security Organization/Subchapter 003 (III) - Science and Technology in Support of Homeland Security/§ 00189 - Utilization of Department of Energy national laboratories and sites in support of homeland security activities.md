@@ -42,7 +42,7 @@
 
 #### (6) Funding
 
-&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 253(b)(1)(C) of title 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
+&emsp;The Department shall provide funds for work at the Department of Energy national laboratories or sites, as the case may be, under a joint sponsorship arrangement under this subsection under the same terms and conditions as apply to the primary sponsor of such national laboratory under section 253(b)(1)(C) oftitle 41 or of such site to the extent such section applies to such site as a federally funded research and development center by reason of this subsection.
 
 #### (c) Separate contracting
 

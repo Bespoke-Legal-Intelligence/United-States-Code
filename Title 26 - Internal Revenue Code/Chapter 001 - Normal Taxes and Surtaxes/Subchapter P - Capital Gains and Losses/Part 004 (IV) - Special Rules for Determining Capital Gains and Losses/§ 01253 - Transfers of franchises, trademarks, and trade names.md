@@ -64,13 +64,11 @@ Amounts received or accrued on account of a transfer, sale, or other disposition
 
 &emsp;For purposes of determining the term of a transfer agreement under this section, there shall be taken into account all renewal options (and any other period for which the parties reasonably expect the agreement to be renewed).
 
-#### (e) Exception
-
-This section shall not apply to the transfer of a franchise to engage in professional football, basketball, baseball, or other professional sport.
-
-(Added Pub. L. 91–172, title V, §516(c)(1), Dec. 30, 1969, 83 Stat. 647; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7622(a)–(c), Dec. 19, 1989, 103 Stat. 2377; Pub. L. 101–508, title XI, §11701(i), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 103–66, title XIII, §13261(c), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–188, title I, §1704(t)(47), Aug. 20, 1996, 110 Stat. 1889.)
+(Added Pub. L. 91–172, title V, §516(c)(1), Dec. 30, 1969, 83 Stat. 647; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7622(a)–(c), Dec. 19, 1989, 103 Stat. 2377; Pub. L. 101–508, title XI, §11701(i), Nov. 5, 1990, 104 Stat. 1388–508; Pub. L. 103–66, title XIII, §13261(c), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–188, title I, §1704(t)(47), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title VIII, §886(b)(3), Oct. 22, 2004, 118 Stat. 1641.)
 
 #### Amendments
+
+2004—Subsec. (e). Pub. L. 108–357 struck out heading and text of subsec. (e). Text read as follows: “This section shall not apply to the transfer of a franchise to engage in professional football, basketball, baseball, or other professional sport.”
 
 1996—Subsec. (d)(4). Pub. L. 104–188 provided that section 11701(i) of Pub. L. 101–508 shall be applied as if “subsection” appeared instead of “section” in the material proposed to be stricken. See 1990 Amendment note below.
 
@@ -86,6 +84,10 @@ Subsec. (d)(3) to (5). Pub. L. 101–239, §7622(c), added pars. (3) to (5).
 
 1976—Subsec. (d)(2)(C). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to property acquired after Oct. 22, 2004, see section 886(c)(1) of Pub. L. 108–357, set out as a note under section 197 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
@@ -96,13 +98,9 @@ Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to transfers after Oct. 2, 1989, but not applicable to any transfer pursuant to a written binding contract in effect on Oct. 2, 1989, and at all times thereafter before the transfer, see section 7622(c)\[(e)\] of Pub. L. 101–239, set out as a note under section 167 of this title.
+Amendment by Pub. L. 101–239 applicable to transfers after Oct. 2, 1989, but not applicable to any transferpursuant to a written binding contract in effect on Oct. 2, 1989, and at all times thereafter before the transfer, see section 7622(c)\[(e)\] of Pub. L. 101–239, set out as a note under section 167 of this title.
 
 #### Effective Date
 
 Section applicable to transfers after Dec. 31, 1969, except that subsec. (d)(1) shall, at the election of the taxpayer (made at such time and in such manner as the Secretary or his delegate may by regulations prescribe), apply to transfers before Jan. 1, 1970, but only with respect to payments made in taxable years ending after Dec. 31, 1969, and beginning before Jan. 1, 1980, see section 516(d)(3) of Pub. L. 91–172, set out as a note under section 1001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 144, 162, 197, 751 of this title.
 

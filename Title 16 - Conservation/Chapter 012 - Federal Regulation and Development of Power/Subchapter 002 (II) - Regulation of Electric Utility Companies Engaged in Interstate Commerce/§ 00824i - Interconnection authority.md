@@ -56,10 +56,6 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 1980—Subsec. (a)(1). Pub. L. 96–294 added applicability to geothermal power producers.
 
-#### Transfer of Functions
-
-The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
 #### Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities
 
 For provisions requiring the Federal Energy Regulatory Commission to conduct a study and report to Congress on whether the benefits of this section and section 824a–3 of this title should be applied to hydroelectric power facilities utilizing new dams or diversions, within the meaning of section 824a–3(k) of this title, see section 8(d) of Pub. L. 99–495, set out as a note under section 824a–3 of this title.

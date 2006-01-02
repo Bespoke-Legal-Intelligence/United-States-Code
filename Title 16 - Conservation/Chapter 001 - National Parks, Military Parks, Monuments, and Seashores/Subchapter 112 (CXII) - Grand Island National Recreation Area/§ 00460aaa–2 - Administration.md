@@ -10,7 +10,7 @@ The national recreation area also shall be administered according to the followi
 
 &emsp;(1) Subject to such terms and conditions as may be prescribed by the Secretary, including the protection of threatened and endangered species and the protection of other natural, cultural, and scenic values, owners of privately owned land and homes within the national recreation area shall be afforded access across National Forest System lands.
 
-&emsp;(2) Consistent with section 460aaa–6 of this title, and the purposes of this subchapter, theSecretary shall provide for and maintain traditional public access, including vehicular roads for general recreational activities such as camping, hiking, hunting, fishing, and trapping.
+&emsp;(2) Consistent with section 460aaa–6 of this title, and the purposes of this subchapter, the Secretary shall provide for and maintain traditional public access, including vehicular roads for general recreational activities such as camping, hiking, hunting, fishing, and trapping.
 
 &emsp;(3) The Secretary shall permit the use of snowmobiles on Federal lands in the national recreation area in accordance with the rules and regulations of the National Forest System and consistent with the management plan developed pursuant to section 460aaa–6 of this title. Such use shall be regulated to protect the resources of the national recreation area in a way that minimizes the degradation of these resources.
 

@@ -6,7 +6,7 @@ In providing assistance under this subchapter, the Secretary shall cooperate wit
 
 #### (b) Technical assistance
 
-The Secretary may provide such technical assistance to States, political subdivisions of States, sub-State regional organizations (including organizations that cross State boundaries), multi-State regional organizations, and nonprofit organizations as the Secretary determines is appropriate to—
+The Secretary may provide such technical assistance to States, political subdivisions ofStates, sub-State regional organizations (including organizations that cross State boundaries), multi-State regional organizations, and nonprofit organizations as the Secretary determines is appropriate to—
 
 &emsp;(1) alleviate economic distress;
 

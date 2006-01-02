@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 88–426, §305(12)(B), repealed provisions which prescribe
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on the first day of the first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on the first day of the first pay period which begins on or afterJuly 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Emergency Preparedness Functions
 
@@ -34,7 +34,7 @@ Section 301(a) of Pub. L. 85–568 provided that: “The National Advisory Commi
 
 #### Appointment of Commissioned Officer as Deputy Administrator
 
-Pub. L. 107–117, div. B, §307, Jan. 10, 2002, 115 Stat. 2301, provided that: “During fiscal year 2002 the President, acting by and with the consent of the Senate, is authorized to appoint a commissioned officer of the Armed Forces, in active status, to the Office of Deputy Administrator of the National Aeronautics and Space Administration notwithstanding section 202(b) of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2472(b)). If so appointed, the provisions of section 403(c)(3), (4), and (5) of title 50, United States Code, shall be applicable while the commissioned officer serves as Deputy Administrator in the same manner and extent as if the officer was serving in a position specified in section 403(c) of title 50, United States Code, except that the officer's military pay and allowances shall be reimbursed from funds available to the National Aeronautics and Space Administration.”
+Pub. L. 107–117, div. B, §307, Jan. 10, 2002, 115 Stat. 2301, authorized the President, during fiscal year 2002, to appoint a commissioned officer of the Armed Forces to the Office of Deputy Administrator of the National Aeronautics and Space Administration.
 
 #### Appointment of Retired Military Officer as Administrator
 
@@ -42,7 +42,7 @@ Pub. L. 101–48, June 30, 1989, 103 Stat. 136, provided: “That notwithstandin
 
 “
 
-Sec. 2. In the performance of his duties as Administrator of the National Aeronautics and Space Administration, Admiral Truly shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respectto him if he were not an officer on the retired list of the United States Navy.
+Sec. 2. In the performance of his duties as Administrator of the National Aeronautics and Space Administration, Admiral Truly shall be subject to no supervision, control, restriction, or prohibition (military or otherwise) other than would be operative with respect to him if he were not an officer on the retired list of the United States Navy.
 
 “
 

@@ -10,7 +10,7 @@ Upon request of the Secretary, the Secretary of the Treasury shall transfer to t
 
 #### (c) Use
 
-Use fees deposited pursuant to subsection (a) and transferred to the Secretary under subsection (b) shall be expended for monitoring of Forest Service special use authorizations, administration of the Forest Service's special program, interpretive programs, environmentalanalysis, environmental restoration, and similar purposes.
+Use fees deposited pursuant to subsection (a) and transferred to the Secretary under subsection (b) shall be expended for monitoring of Forest Service special use authorizations, administration of the Forest Service's special program, interpretive programs, environmental analysis, environmental restoration, and similar purposes.
 
 (Pub. L. 108–7, div. F, title V, §506, Feb. 20, 2003, 117 Stat. 297.)
 

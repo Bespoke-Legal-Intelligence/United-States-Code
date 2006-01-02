@@ -6,9 +6,9 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 &emsp;(1) Whether any of the following acts was performed within the time prescribed therefor:
 
-&emsp;&emsp;(A) Filing any return of income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby);
+&emsp;&emsp;(A) Filing any return of income, estate, gift, employment, or excise tax;
 
-&emsp;&emsp;(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;
+&emsp;&emsp;(B) Payment of any income, estate, gift, employment, or excise tax or any installment thereof or of any other liability to the United States in respect thereof;
 
 &emsp;&emsp;(C) Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;
 
@@ -52,7 +52,7 @@ The period of service in the area or contingency operation referred to in subsec
 
 #### (1) Tax in jeopardy; cases under title 11 of the United States Code and receiverships; and transferred assets
 
-&emsp;Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition tothe tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case in which the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
+&emsp;Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition to the tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case in which the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
 
 #### (2) Action taken before ascertainment of right to benefits
 
@@ -82,9 +82,15 @@ For purposes of subsection (a), the term “qualified hospitalization” means�
 
 > Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, §112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, §104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, §112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, §104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338; Pub. L.109–73, title IV, §403(a), Sept. 23, 2005, 119 Stat. 2027.)
 
 #### Amendments
+
+2005—Subsec. (a)(1)(A), (B). Pub. L. 109–73 amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+
+“(A) Filing any return of income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby);
+
+“(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;”.
 
 2003—Pub. L. 108–121, §104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
 
@@ -116,11 +122,15 @@ Subsecs. (f), (g). Pub. L. 102–2, §1(a), (c)(2), added subsecs. (f) and (g).
 
 Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “taxable year beginning more than 2 years after” in provisions preceding par. (1), substituted “after January 2, 1978” for “the date of the enactment of this subsection” in par. (1), and substituted“more than 2 years after the date designated” for “the date designated” in par. (2).
+Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “taxable year beginning more than 2 years after” in provisions preceding par. (1), substituted “after January 2, 1978” for “the date of the enactment of this subsection” in par. (1), and substituted “more than 2 years after the date designated” for “the date designated” in par. (2).
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 1975—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–73, title IV, §403(c), Sept. 23, 2005, 119 Stat. 2027, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply for any period for performing an act which has not expired before August 25, 2005.”
 
 #### Effective Date of 2003 Amendment
 
@@ -158,7 +168,7 @@ Office of Postmaster General of Post Office Department abolished and all functio
 
 Ex. Ord. No. 12750, Feb. 14, 1991, 56 F.R. 6785, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7508 of the Internal Revenue Code of 1986 (26 U.S.C. 7508), I hereby designate, for purposes of that section, the following locations, including the air space above such locations, as the Persian Gulf Desert Shield area in which any individual who performed Desert Shield services (including the spouse of such individual) is entitled to the benefits of section 7508 of the Internal Revenue Code of 1986:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 7508 of the Internal Revenue Code of 1986 (26 U.S.C. 7508), I hereby designate, for purposes of that section, the following locations, including the air space above such locations, as the Persian Gulf Desert Shield area in which any individual who performed Desert Shield services (including the spouse of such individual) is entitled to the benefits of section 7508 of the Internal Revenue Code of 1986:
 
 —the Persian Gulf
 
@@ -173,8 +183,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 —the total land area of Iraq, Kuwait, Saudi Arabia, Oman, Bahrain, Qatar, and the United Arab Emirates.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6161, 6504, 6533, 6901, 7508A of this title.
 

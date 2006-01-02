@@ -18,7 +18,7 @@ Civilian Agency Systems.—For purposes of section 2302(5) of this title, a syst
 
 (c)
 
-Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and the base fiscal year provided in subsection (a) on the basis of Department of Defense escalation rates.
+Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and the basefiscal year provided in subsection (a) on the basis of Department of Defense escalation rates.
 
 (2) An amount, as adjusted under paragraph (1), that is not evenly divisible by $5,000,000 shall be rounded to the nearest multiple of $5,000,000. In the case of an amount that is evenly divisible by $2,500,000 but not evenly divisible by $5,000,000, the amount shall be rounded to the next higher multiple of $5,000,000.
 
@@ -31,8 +31,4 @@ Adjustment Authority.—(1) The Secretary of Defense may adjust the amounts and 
 1999—Subsec. (c)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
 1997—Subsec. (a)(2). Pub. L. 105–85 substituted “procurement for the system is estimated to be” for “procurement of”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2302 of this title.
 

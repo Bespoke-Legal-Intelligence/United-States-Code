@@ -20,7 +20,7 @@ The Congress finds with respect to the environment and health, that—
 
 &emsp;(2) disposal of solid waste and hazardous waste in or on the land without careful planning and management can present a danger to human health and the environment;
 
-&emsp;(3) as a result of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], and other Federal and State laws respecting public health and the environment, greater amounts of solid waste (in the form of sludge and other pollution treatment residues) have been created. Similarly, inadequate and environmentally unsound practices for the disposal or use of solid waste have created greater amounts of air and water pollution and other problems for the environment and for health;
+&emsp;(3) as a result of the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], and other Federal and State laws respecting public health and the environment, greater amounts of solid waste (in the form of sludge and other pollutiontreatment residues) have been created. Similarly, inadequate and environmentally unsound practices for the disposal or use of solid waste have created greater amounts of air and water pollution and other problems for the environment and for health;
 
 &emsp;(4) open dumping is particularly harmful to health, contaminates drinking water from underground and surface supplies, and pollutes the air and the land;
 
@@ -76,6 +76,10 @@ Provisions similar to those in this section were contained in section 3251 of th
 
 1978—Subsec. (a)(4). Pub. L. 95–609 substituted “solid waste” for “solid-waste”.
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–58, title XV, §1521, Aug. 8, 2005, 119 Stat. 1092, provided that: “This subtitle \[subtitle B (§§1521–1533) of title XV of Pub. L. 109–58, enacting sections 6991j to 6991m of this title, amending sections 6991 to 6991f, 6991h, and 6991i of this title, and enacting provisions set out as notes under section 6991b of this title\] may be cited as the ‘Underground Storage Tank Compliance Act’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–119, §1, Mar. 26, 1996, 110 Stat. 830, provided that: “This Act \[amending sections 6921, 6924, 6925, 6947, and 6949a of this title and enacting provisions set out as a note under section 6949a of this title\] may be cited as the ‘Land Disposal Program Flexibility Act of 1996’.”
@@ -90,7 +94,7 @@ Pub. L. 100–582, §1, Nov. 1, 1988, 102 Stat. 2950, provided that: “This Act
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b, and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
+Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 6917, 6936 to 6939a, 6949a, 6979a, 6979b,and 6991 to 6991i of this title, amending this section and sections 6902, 6905, 6912, 6915, 6916, 6921 to 6933, 6935, 6941 to 6945, 6948, 6956, 6962, 6972, 6973, 6976, 6982 and 6984 of this title and enacting provisions set out as notes under sections 6905, 6921 and 6926 of this title\] may be cited as ‘The Hazardous and Solid Waste Amendments of 1984’.”
 
 #### Short Title of 1980 Amendments
 
@@ -104,7 +108,7 @@ Section 1 of Pub. L. 94–580 provided that: “This Act \[enacting this chapter
 
 #### Short Title
 
-Section 1001 of Pub. L. 89–272, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided in part that title II of Pub. L. 89–272 \[enacting this chapter\] may be cited as the “Solid Waste Disposal Act”.
+Pub. L. 89–272, title II, §1001, as added by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided that: “This title (hereinafter in this title referred to as ‘this Act’), together with the following table of contents, may be cited as the ‘Solid Waste Disposal Act’ ” \[table of contents omitted\].
 
 #### Federal Compliance With Pollution Control Standards
 

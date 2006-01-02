@@ -4,7 +4,7 @@ The purposes of this part are to ensure that—
 
 &emsp;(1) children with disabilities and their parents receive training and information designed to assist the children in meeting developmental and functional goals and challenging academic achievement goals, and in preparing to lead productive independent adult lives;
 
-&emsp;(2) children with disabilities and their parents receive training and information on their rights, responsibilities, and protections under this chapter, in order to develop the skills necessary to cooperatively and effectively participate in planning and decision making relatingto early intervention, educational, and transitional services;
+&emsp;(2) children with disabilities and their parents receive training and information on their rights, responsibilities, and protections under this chapter, in order to develop the skills necessary to cooperatively and effectively participate in planning and decision making relating to early intervention, educational, and transitional services;
 
 &emsp;(3) parents, teachers, administrators, early intervention personnel, related services personnel, and transition personnel receive coordinated and accessible technical assistance and information to assist such personnel in improving early intervention, educational, and transitional services and results for children with disabilities and their families; and
 

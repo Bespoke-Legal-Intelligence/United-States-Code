@@ -12,7 +12,7 @@ The Secretary shall approve a transfer or conveyance described in subsection (a)
 
 &emsp;(2) such transfer or conveyance would have an adverse impact on (A) the protection, conservation, or preservation of the resources of the unit of the National Park System or (B) the provision of necessary and appropriate facilities and services to visitors at reasonable rates and charges; and
 
-&emsp;(3) the terms of such transfer or conveyance are likely, directly or indirectly, to reduce theconcessioner's opportunity for a reasonable profit over the remaining term of the contract, adversely affect the quality of facilities and services provided by the concessioner, or result in a need for increased rates and charges to the public to maintain the quality of such facilities and services.
+&emsp;(3) the terms of such transfer or conveyance are likely, directly or indirectly, to reduce the concessioner's opportunity for a reasonable profit over the remaining term of the contract, adversely affect the quality of facilities and services provided by the concessioner, or result in a need for increased rates and charges to the public to maintain the quality of such facilities and services.
 
 #### (c) Transfer terms
 

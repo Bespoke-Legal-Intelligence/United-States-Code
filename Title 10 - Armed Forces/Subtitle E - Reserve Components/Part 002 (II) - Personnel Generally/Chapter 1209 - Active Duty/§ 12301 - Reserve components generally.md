@@ -1,14 +1,14 @@
 ### §12301. Reserve components generally
 
-(a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty (other than for training) for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status may not be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
+(a) In time of war or of national emergency declared by Congress, or when otherwise authorized by law, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, of a reserve component under the jurisdiction of that Secretary to active duty for the duration of the war or emergency and for six months thereafter. However a member on an inactive status list or in a retired status may not be ordered to active duty under this subsection unless the Secretary concerned, with the approval of the Secretary of Defense in the case of the Secretary of a military department, determines that there are not enough qualified Reserves in an active status or in the inactive National Guard in the required category who are readily available.
 
-(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
+(b) At any time, an authority designated by the Secretary concerned may, without the consent of the persons affected, order any unit, and any member not assigned to a unit organized to serve as a unit, in an active status in a reserve component under the jurisdiction of that Secretary to active duty for not more than 15 days a year. However, units and members of the Army National Guard of the United States or the Air National Guard of the United Statesmay not be ordered to active duty under this subsection without the consent of the governor of the State (or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard).
 
-(c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty (other than for training), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being ordered to active duty (other than for training).
+(c) So far as practicable, during any expansion of the active armed forces that requires that units and members of the reserve components be ordered to active duty as provided in subsection (a), members of units organized and trained to serve as units who are ordered to that duty without their consent shall be so ordered with their units. However, members of those units may be reassigned after being so ordered to active duty.
 
 (d) At any time, an authority designated by the Secretary concerned may order a member of a reserve component under his jurisdiction to active duty, or retain him on active duty, with the consent of that member. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to active duty under this subsection without the consent of the governor or other appropriate authority of the State concerned.
 
-(e) The period of time allowed between the date when a Reserve ordered to active duty (other than for training) is alerted for that duty and the date when the Reserve is required toenter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
+(e) The period of time allowed between the date when a Reserve ordered to active duty as provided in subsection (a) is alerted for that duty and the date when the Reserve is required to enter upon that duty shall be determined by the Secretary concerned based upon military requirements at that time.
 
 (f) The consent of a Governor described in subsections (b) and (d) may not be withheld (in whole or in part) with regard to active duty outside the United States, its territories, and its possessions, because of any objection to the location, purpose, type, or schedule of such active duty.
 
@@ -30,7 +30,7 @@
 
 (3) A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to active duty under this subsection only with the consent of the Governor or other appropriate authority of the State concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Pub. L. 85–861, §§1(13), 33(a)(5), Sept. 2, 1958, 72 Stat. 1440, 1564; Pub. L. 96–357, §6, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–584, §1, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 99–500, §101(c) \[title IX, §9122\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–127, and Pub. L. 99–591, §101(c) \[title IX, §9122\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–127; Pub. L. 99–661, div. A, title V, §§522, 524(a), Nov. 14, 1986, 100 Stat. 3871; Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), Sept. 29, 1988, 102 Stat. 2059; renumbered §12301 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 106–65, div. A, title V, §512, Oct. 5, 1999, 113 Stat. 592.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Pub. L. 85–861, §§1(13), 33(a)(5), Sept. 2, 1958, 72 Stat. 1440, 1564; Pub. L. 96–357, §6, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–584, §1, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 99–500, §101(c) \[title IX, §9122\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–127, and Pub. L. 99–591, §101(c) \[title IX, §9122\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–127; Pub. L. 99–661, div. A, title V, §§522, 524(a), Nov. 14, 1986, 100 Stat. 3871; Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), Sept. 29, 1988, 102 Stat. 2059; renumbered §12301 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 106–65, div. A, title V, §512, Oct. 5, 1999, 113 Stat. 592; Pub. L. 108–375, div. A, title V, §514(a), Oct. 28, 2004, 118 Stat. 1882.)
 
 Historical and Revision Notes<br>1956
 
@@ -104,11 +104,17 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–375, §514(a)(1), struck out “(other than for training)” after “that Secretary to active duty”.
+
+Subsec. (c). Pub. L. 108–375, §514(a)(2), substituted “as provided in subsection (a)” for “(other than for training)” and “so ordered to active duty” for “ordered to active duty (other than for training)”.
+
+Subsec. (e). Pub. L. 108–375, §514(a)(3), substituted “as provided in subsection (a)” for “(other than for training)”.
+
 1999—Subsec. (h). Pub. L. 106–65 added subsec. (h).
 
 1994—Pub. L. 103–337, §1662(e)(2), renumbered section 672 of this title as this section.
 
-Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia NationalGuard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
+Subsec. (b). Pub. L. 103–337, §1675(c)(1)(A), substituted “(or, in the case of the District of Columbia National Guard, the commanding general of the District of Columbia National Guard)” for “or Territory or Puerto Rico or the commanding general of the District of Columbia National Guard, as the case may be”.
 
 Subsec. (d). Pub. L. 103–337, §1675(c)(1)(B), struck out “or Territory, Puerto Rico, or the District of Columbia, whichever is” after “authority of the State”.
 
@@ -143,8 +149,4 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
 For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 523, 582, 641, 672, 10142, 10151, 10215, 12305, 12306, 12307, 12310, 12408, 12686, 16131, 16133 of this title; title 5 section 6323; title 20 section 921; title 38 sections 3011, 3013, 3103, 3105, 3231, 3511, 3512, 4211, 4312; title 50 App. section 593.
 

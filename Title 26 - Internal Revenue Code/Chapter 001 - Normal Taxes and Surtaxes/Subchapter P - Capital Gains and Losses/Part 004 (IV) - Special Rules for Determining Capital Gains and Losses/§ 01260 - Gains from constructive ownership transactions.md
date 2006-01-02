@@ -62,13 +62,9 @@ For purposes of this section—
 
 &emsp;&emsp;(F) a common trust fund,
 
-&emsp;&emsp;(G) a passive foreign investment company (as defined in section 1297 without regard to subsection (e) thereof),
+&emsp;&emsp;(G) a passive foreign investment company (as defined in section 1297 without regard to subsection (e) thereof),<sup>1</sup>
 
-&emsp;&emsp;(H) a foreign personal holding company,
-
-&emsp;&emsp;(I) a foreign investment company (as defined in section 1246(b)), and
-
-&emsp;&emsp;(J) a REMIC.
+&emsp;&emsp;(H) a REMIC.
 
 #### (d) Constructive ownership transaction
 
@@ -124,7 +120,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) to exclude certain forward contracts which do not convey substantially all of the economic return with respect to a financial asset.
 
-(Added Pub. L. 106–170, title V, §534(a), Dec. 17, 1999, 113 Stat. 1931.)
+(Added Pub. L. 106–170, title V, §534(a), Dec. 17, 1999, 113 Stat. 1931; amended Pub. L. 108–357, title IV, §413(c)(23), Oct. 22, 2004, 118 Stat. 1509.)
+
+#### Amendments
+
+2004—Subsec. (c)(2)(H) to (J). Pub. L. 108–357 redesignated subpar. (J) as (H) and struck out former subpars. (H) and (I), which included foreign personal holding company and foreign investment company (as defined in section 1246(b)) within definition of “pass-thru entity”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date
 

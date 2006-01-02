@@ -92,7 +92,3 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1208, 1405, 1451, 2126, 4342, 6954, 9342, 12739 of this title.
-

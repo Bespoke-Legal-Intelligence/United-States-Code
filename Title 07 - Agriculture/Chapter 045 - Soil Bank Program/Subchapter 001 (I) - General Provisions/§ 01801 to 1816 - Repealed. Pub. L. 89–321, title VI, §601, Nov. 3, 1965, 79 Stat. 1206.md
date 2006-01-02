@@ -2,7 +2,7 @@
 
 Section 1801, act May 28, 1956, ch. 327, title I, §102, 70 Stat. 188, set out Congressional declaration of policy underlying Soil Bank Program set out in subchapters I to III of this chapter.
 
-Section 1802, acts May 28, 1956, ch. 327, title I, §114, 70 Stat. 196; Aug. 28, 1957, Pub. L. 85–203, §3, 71 Stat. 478; Apr. 7, 1958, Pub. L. 85–369, 72 Stat. 81, placed an ineligibility sanction upon failure to comply with acreage allotments.
+Section 1802, acts May 28, 1956, ch. 327, title I, §114, 70 Stat. 196; Aug. 28, 1957, Pub. L. 85–203, §3, 71 Stat. 478;Apr. 7, 1958, Pub. L. 85–369, 72 Stat. 81, placed an ineligibility sanction upon failure to comply with acreage allotments.
 
 Section 1803, act May 28, 1956, ch. 327, title I, §115, 70 Stat. 196, prohibited reapportionment or allotment to any other farm of acreage diverted from production as a result of participation in acreage reserve or conservation reserve programs.
 

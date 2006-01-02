@@ -70,7 +70,7 @@
 
 #### (4) Site selection
 
-&emsp;In selecting geographic areas in which agreements are entered into under this subsection, the Secretary shall ensure that each chronic care improvement program is conducted in a geographic area in which at least 10,000 targeted beneficiaries reside among other individuals entitled to benefits under part A of this subchapter, enrolled under part B of this subchapter, or both to serve as a control population.
+&emsp;In selecting geographic areas in which agreements are entered into under this subsection,the Secretary shall ensure that each chronic care improvement program is conducted in a geographic area in which at least 10,000 targeted beneficiaries reside among other individuals entitled to benefits under part A of this subchapter, enrolled under part B of this subchapter, or both to serve as a control population.
 
 #### (5) Independent evaluations of Phase I programs
 
@@ -112,7 +112,7 @@
 
 #### (2) Initial contact by Secretary
 
-&emsp;The Secretary shall communicate with each targeted beneficiary concerning participationin a chronic care improvement program. Such communication may be made by the Secretary and shall include information on the following:
+&emsp;The Secretary shall communicate with each targeted beneficiary concerning participation in a chronic care improvement program. Such communication may be made by the Secretary and shall include information on the following:
 
 &emsp;&emsp;(A) A description of the advantages to the beneficiary in participating in a program.
 
@@ -286,7 +286,7 @@ Evaluations.—The Secretary shall conduct evaluations of the clinical and cost 
 
 &emsp;“(2)
 
-Reports.—Not later than 2 years after the commencement of the demonstration projects, andbiannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
+Reports.—Not later than 2 years after the commencement of the demonstration projects, and biannually thereafter, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
 &emsp;&emsp;“(A) An analysis of the patient outcomes and costs of furnishing care to the individuals with chronic conditions participating in the projects as compared to such outcomes and costs to other individuals for the same health conditions.
 

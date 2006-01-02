@@ -28,5 +28,5 @@ Repeal effective Oct. 1, 2004, see section 601(g) of act Aug. 14, 1935, as added
 
 #### Renumbering of Repealing Act
 
-Section 611 of act July 1, 1944, which repealed prior sections 801 to 803, was renumbered §711 by act Aug. 13,1946, ch. 958, §5, 60 Stat. 1049, §713 by act Feb. 28, 1948, ch. 83, §9(b), 62 Stat. 47, §813 by act July 30, 1956, ch. 779, §3(b), 70 Stat. 720, §913 by Pub. L. 88–581, §4(b), Sept. 4, 1964, 78 Stat. 919, §1013 by Pub. L. 89–239, §3(b), Oct. 6, 1965, 79 Stat. 931, and §1113 by Pub. L. 91–572, §6(b), Dec. 24, 1970, 84 Stat. 1506.
+Section 611 of act July 1, 1944, which repealed prior sections 801 to 803, was renumbered §711 by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049, §713 by act Feb. 28, 1948, ch. 83, §9(b), 62 Stat. 47, §813 by act July 30, 1956, ch. 779, §3(b), 70 Stat. 720, §913 by Pub. L. 88–581, §4(b), Sept. 4, 1964, 78 Stat. 919, §1013 by Pub. L. 89–239, §3(b), Oct. 6, 1965, 79 Stat. 931, and §1113 by Pub. L. 91–572, §6(b), Dec. 24, 1970, 84 Stat. 1506.
 

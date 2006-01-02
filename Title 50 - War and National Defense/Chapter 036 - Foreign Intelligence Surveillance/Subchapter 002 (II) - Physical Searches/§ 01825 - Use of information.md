@@ -70,7 +70,7 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 #### References in Text
 
-Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
+Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title byPub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
 
 #### Amendments
 

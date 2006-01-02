@@ -48,7 +48,7 @@ This chapter, referred to in subsec. (h), was in the original “this Act”, an
 
 1996—Subsec. (g). Pub. L. 104–294 amended directory language of Pub. L. 103–322, §230207. See 1994 Amendment note below.
 
-1994—Subsec. (g). Pub. L. 103–322, §230207, as amended by Pub. L. 104–294, substituted “and on June 30 everytwo years thereafter” for “and on December 31 every 2 years thereafter”.
+1994—Subsec. (g). Pub. L. 103–322, §230207, as amended by Pub. L. 104–294, substituted “and on June 30 every two years thereafter” for “and on December 31 every 2 years thereafter”.
 
 Subsec. (h). Pub. L. 103–322, §230206, added subsec. (h).
 

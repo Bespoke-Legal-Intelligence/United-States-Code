@@ -4,7 +4,3 @@ The return of a partnership made under section 6031 shall be signed by any one o
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 748.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6061 of this title.
-

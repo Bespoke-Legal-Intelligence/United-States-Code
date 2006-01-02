@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 97–113 substituted “under this section” for “under 
 
 Subsec. (f). Pub. L. 97–113 redesignated subsec. (h) as (f). Former subsec. (f), relating to performance of management functions by defense attache�AE1's if that President determined it was the most economic and efficient means of performing those functions, was struck out.
 
-Subsec. (g). Pub. L. 97–113 struck out subsec. (g) which provided that the entire cost of overseas management of international security assistance programs under this section be charged or reimbursed from funds made available to carry out this part, including costs reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, and that the prohibition of former subsec. (a) of this section and the numerical limitations of former subsecs. (b), (c), and (d) of this sectionnot apply to Armed Forces members performing services for specific purposes and for fixed periods of time on a fully reimbursable basis under section 2761(a) of this title. See subsec. (d) of this section.
+Subsec. (g). Pub. L. 97–113 struck out subsec. (g) which provided that the entire cost of overseas management of international security assistance programs under this section be charged or reimbursed from funds made available to carry out this part, including costs reimbursed from charges for services collected from foreign governments pursuant to sections 2761(e) and 2792(b) of this title, and that the prohibition of former subsec. (a) of this section and the numerical limitations of former subsecs. (b), (c), and (d) of this section not apply to Armed Forces members performing services for specific purposes and for fixed periods of time on a fully reimbursable basis under section 2761(a) of this title. See subsec. (d) of this section.
 
 Subsec. (h). Pub. L. 97–113 redesignated subsec. (h) as (f).
 
@@ -80,7 +80,7 @@ Subsec. (h). Pub. L. 97–113 redesignated subsec. (h) as (f).
 
 Subsec. (b)(3). Pub. L. 96–533, §114(2), substituted “assigned to Saudi Arabia” for “assigned to Iran, Kuwait, and Saudi Arabia”, “assigned to such country” for “assigned to such countries” and “assigned to such country exceeds” for “assigned to each such country exceeds”.
 
-Subsec. (f). Pub. L. 96–533, §114(3), substituted “may not exceed six more than the number of defense attache�AE1s” for “may not exceed the number of defense attache�AE1s” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
+Subsec. (f). Pub. L. 96–533, §114(3), substituted “may not exceed six more than the number of defense attache�AE1s” for “may not exceed the number of defenseattache�AE1s” and “December 31, 1979” for “December 31, 1978”, and inserted “such countries and countries to which military personnel have been assigned pursuant to subsection (c) of this section” after “such countries”.
 
 1979—Subsec. (b)(1). Pub. L. 96–92, §7(1), substituted “fiscal year 1980” for “fiscal year 1979” and authorized assignment of military personnel for programs in Greece.
 

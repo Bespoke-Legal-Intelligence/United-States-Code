@@ -6,7 +6,7 @@ The Administrator of the Environmental Protection Agency (hereinafter referred t
 
 #### (b) Procedures for acquisition
 
-No property shall be acquired pursuant to this section unless the property owner voluntarily agrees to such acquisition. Compensation for any property acquired pursuant to this section shall be based upon the fair market value of the property as it existed prior to the emergency declaration. Valuation procedures for property acquired with funds provided under this section shall be in accordance with those set forth in the agreement entered into between the New York State Disaster Preparedness Commission and the Love Canal Revitalization Agency on October 9, 1980.
+No property shall be acquired pursuant to this section unless the property owner voluntarily agrees to such acquisition. Compensation forany property acquired pursuant to this section shall be based upon the fair market value of the property as it existed prior to the emergency declaration. Valuation procedures for property acquired with funds provided under this section shall be in accordance with those set forth in the agreement entered into between the New York State Disaster Preparedness Commission and the Love Canal Revitalization Agency on October 9, 1980.
 
 #### (c) State ownership
 

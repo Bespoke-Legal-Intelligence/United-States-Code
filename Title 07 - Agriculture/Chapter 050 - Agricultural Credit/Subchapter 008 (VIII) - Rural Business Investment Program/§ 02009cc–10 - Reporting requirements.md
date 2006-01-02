@@ -36,7 +36,7 @@ Each rural business investment company that participates in the program establis
 
 &emsp;In compiling the report required under paragraph (1), the Secretary may not—
 
-&emsp;&emsp;(A) compile the report in a manner that permits identification of any particular type of investment by an individual rural business investment company or small business concern in which a rural business investment company invests; and
+&emsp;&emsp;(A) compile the report in a manner that permits identification of any particular typeof investment by an individual rural business investment company or small business concern in which a rural business investment company invests; and
 
 &emsp;&emsp;(B) may not release any information that is prohibited under section 1905 of title 18.
 

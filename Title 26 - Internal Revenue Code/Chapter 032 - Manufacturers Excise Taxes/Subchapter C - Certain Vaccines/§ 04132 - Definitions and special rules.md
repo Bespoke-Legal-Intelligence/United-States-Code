@@ -24,13 +24,17 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(H) Any HIB vaccine.
 
-&emsp;&emsp;(I) Any vaccine against hepatitis B.
+&emsp;&emsp;(I) Any vaccine against hepatitis A.
 
-&emsp;&emsp;(J) Any vaccine against chicken pox.
+&emsp;&emsp;(J) Any vaccine against hepatitis B.
 
-&emsp;&emsp;(K) Any vaccine against rotavirus gastroenteritis.
+&emsp;&emsp;(K) Any vaccine against chicken pox.
 
-&emsp;&emsp;(L) Any conjugate vaccine against streptococcus pneumoniae.
+&emsp;&emsp;(L) Any vaccine against rotavirus gastroenteritis.
+
+&emsp;&emsp;(M) Any conjugate vaccine against streptococcus pneumoniae.
+
+&emsp;&emsp;(N) Any trivalent vaccine against influenza.
 
 #### (2) Vaccine
 
@@ -90,9 +94,13 @@ For purposes of this subchapter—
 
 &emsp;The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4131.
 
-(Added Pub. L. 100–203, title IX, §9201(a), Dec. 22, 1987, 101 Stat. 1330–329; amended Pub. L. 100–647, title II, §2006(a), Nov. 10, 1988, 102 Stat. 3612; Pub. L. 105–34, title IX, §904(b), (c), Aug. 5, 1997, 111 Stat. 873, 874; Pub. L. 105–277, div. C, title XV, §1503(a), div. J, title III, §3002(a), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905; Pub. L. 106–170, title V, §523(a)(1), (b)(1), Dec. 17, 1999, 113 Stat. 1927.)
+(Added Pub. L. 100–203, title IX, §9201(a), Dec. 22, 1987, 101 Stat. 1330–329; amended Pub. L. 100–647, title II, §2006(a), Nov. 10, 1988, 102 Stat. 3612; Pub. L. 105–34, title IX, §904(b), (c), Aug. 5, 1997, 111 Stat. 873, 874; Pub. L. 105–277, div. C, title XV, §1503(a), div. J, title III, §3002(a), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905; Pub. L. 106–170, title V, §523(a)(1), (b)(1), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 108–357, title VIII, §§889(a), 890(a), Oct. 22, 2004, 118 Stat. 1643, 1644.)
 
 #### Amendments
+
+2004—Subsec. (a)(1)(I) to (M). Pub. L. 108–357, §889(a), added subpar. (I) and redesignated former subpars. (I) to (L) as (J) to (M), respectively.
+
+Subsec. (a)(1)(N). Pub. L. 108–357, §890(a), added subpar. (N).
 
 1999—Subsec. (a)(1)(K). Pub. L. 106–170, §523(b)(1), repealed Pub. L. 105–277, §1503(a). See 1998 Amendment note below.
 
@@ -128,6 +136,32 @@ Polio vaccine.—The term ‘polio vaccine’ means any vaccine containing polio
 
 1988—Subsec. (c). Pub. L. 100–647 added pars. (1) and (2) and redesignated former pars. (1) and (2) as (3) and (4), respectively.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §889(b), Oct. 22, 2004, 118 Stat. 1643, provided that:
+
+“(1)
+
+Sales, etc.—The amendments made by subsection (a) \[amending this section\] shall apply to sales and uses on or after the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act \[Oct. 22, 2004\].
+
+“(2)
+
+Deliveries.—For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
+
+Pub. L. 108–357, title VIII, §890(b), Oct. 22, 2004, 118 Stat. 1644, provided that:
+
+“(1)
+
+Sales, etc.—The amendment made by this section \[amending this section\] shall apply to sales and uses on or after the later of—
+
+&emsp;“(A) the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act \[Oct. 22, 2004\], or
+
+&emsp;“(B) the date on which the Secretary of Health and Human Services lists any vaccine against influenza for purposes of compensation for any vaccine-related injury or death through the Vaccine Injury Compensation Trust Fund.
+
+“(2)
+
+Deliveries.—For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.”
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–170, title V, §523(a)(2), Dec. 17, 1999, 113 Stat. 1927, provided that:
@@ -152,13 +186,9 @@ Amendment by Pub. L. 105–34 effective on the day after Aug. 5, 1997, see secti
 
 #### Effective Date of 1988 Amendment
 
-Section 2006(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 9510 of this title\] shall take effect asif included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
+Section 2006(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending this section and section 9510 of this title\] shall take effect as if included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
 #### Limitation on Certain Credits or Refunds
 
 Section 904(e) of Pub. L. 105–34 provided that: “For purposes of applying section 4132(b) of the Internal Revenue Code of 1986 with respect to any claim for credit or refund filed before January 1, 1999, the amount of tax taken into account shall not exceed the tax computed under the rate in effect on the day after the date of the enactment of this Act \[Aug. 5, 1997\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4131, 9510 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Applicability
 
-This section does not apply to an executive agency that is subject to chapter 87 of title 10.
+Except as provided in subsection (h)(3) of this section, this section does not apply to an executive agency that is subject to chapter 87 of title 10.
 
 #### (b) Management policies
 
@@ -42,7 +42,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (3) Mandatory training and education
 
-&emsp;For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency shall also encourage employees to maintain the currency of their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
+&emsp;For each career path, the head of each executive agency shall establish requirements for the completion of course work and related on-the-job training in the critical acquisition-related duties and tasks of the career path. The head of each executive agency shall also encourage employees to maintain the currencyof their acquisition knowledge and generally enhance their knowledge of related acquisition management disciplines through academic programs and other self-developmental activities.
 
 #### (4) Performance incentives
 
@@ -90,7 +90,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (3) Acquisition workforce training fund
 
-&emsp;(A) The Administrator of General Services shall establish an acquisition workforce training fund. The Administrator shall manage the fund through the Federal Acquisition Institute to support the training of the acquisition workforce of the executive agencies other than the Department of Defense. The Administrator shall consult with the Administrator for Federal Procurement Policy in managing the fund.
+&emsp;(A) The Administrator of General Services shall establish an acquisition workforce training fund. The Administrator shall manage the fund through the Federal Acquisition Institute to support the training of the acquisition workforce of the executive agencies, except as provided in subparagraph (D). The Administrator shall consult with the Administrator for Federal Procurement Policy in managing the fund.
 
 &emsp;(B) There shall be credited to the acquisition workforce training fund 5 percent of the fees collected by executive agencies (other than the Department of Defense) under the following contracts:
 
@@ -102,15 +102,17 @@ The programs established by this section shall apply to the acquisition workforc
 
 &emsp;(C) The head of an executive agency that administers a contract described in subparagraph (B) shall remit to the General Services Administration the amount required to be credited to the fund with respect to such contract at the end of each quarter of the fiscal year.
 
-&emsp;(D) The Administrator of General Services, through the Office of Federal Acquisition Policy, shall ensure that funds collected for training under this section are not used for any purpose other than the purpose specified in subparagraph (A).
+&emsp;(D) The Administrator of General Services shall transfer to the Secretary of Defense fees collected from the Department of Defense pursuant to subparagraph (B), to be used by the Defense Acquisition University for purposes of acquisition workforce training.
 
-&emsp;(E) Amounts credited to the fund shall be in addition to funds requested and appropriated for education and training referred to in paragraph (1).
+&emsp;(E) The Administrator of General Services, through the Office of Federal Acquisition Policy, shall ensure that funds collected for training under this section are not used for any purpose other than the purpose specified in subparagraph (A).
 
-&emsp;(F) Amounts credited to the fund shall remain available to be expended only in the fiscal year for which credited and the two succeeding fiscal years.
+&emsp;(F) Amounts credited to the fund shall be in addition to funds requested and appropriated for education and training referred to in paragraph (1).
 
-&emsp;(G) This paragraph shall cease to be effective five years after November 24, 2003.
+&emsp;(G) Amounts credited to the fund shall remain available to be expended only in the fiscal year for which credited and the two succeeding fiscal years.
 
-(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664.)
+&emsp;(H) This paragraph shall cease to be effective five years after November 24, 2003.
+
+(Pub. L. 93–400, §37, as added Pub. L. 104–106, div. D, title XLIII, §4307(a)(1), Feb. 10, 1996, 110 Stat. 666; amended Pub. L. 108–136, div. A, title XIV, §1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, §821(a), (b)(1), Jan. 6, 2006, 119 Stat. 3386.)
 
 #### References in Text
 
@@ -118,11 +120,25 @@ Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–163, §821(b)(1), substituted “Except as provided in subsection (h)(3) of this section, this section” for “This section”.
+
+Subsec. (h)(3)(A). Pub. L. 109–163, §821(a)(1), substituted “, except as provided in subparagraph (D)” for “other than the Department of Defense”.
+
+Subsec. (h)(3)(D) to (H). Pub. L. 109–163, §821(a)(2), added subpar. (D) and redesignated former subpars. (D) to (G) as (E) to (H), respectively.
+
 2003—Subsec. (h)(3). Pub. L. 108–136 added par. (3).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title VIII, §821(d), Jan. 6, 2006, 119 Stat. 3386, provided that: “The amendments made by this section \[amending this section and repealing provisions set out as a note under this section\] shall apply with respect to fees collected under contracts described in section 37(h)(3)(B) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(h)(3)(B)) after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
 #### Effective Date
 
 For effective date and applicability of section, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 251 of this title.
+
+#### Defense Acquisition University Funding
+
+Pub. L. 109–163, div. A, title VIII, §821(c), Jan. 6, 2006, 119 Stat. 3386, provided that: “Amounts transferred under section 37(h)(3)(D) of the Office of Federal Procurement Policy Act \[41 U.S.C. 433(h)(3)(D)\] (as amended by subsection (a)) for use by the Defense Acquisition University shall be in addition to other amounts authorized for the University.”
 
 #### Purposes of 2003 Amendment
 
@@ -134,7 +150,7 @@ Pub. L. 108–136, div. A, title XIV, §1412(a), Nov. 24, 2003, 117 Stat. 1664, 
 
 #### Inapplicability of Subsection (h)(3) to Department of Defense Acquisition Workforce
 
-Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, provided that: “This section and the amendments made by this section \[amending this section and enacting provisions set out as notes under this section\] shall not apply to the acquisition workforce of the Department of Defense. Fees charged to the Department of Defense under contracts covered by section 37(h)(3) of the Office of Federal Procurement Policy Act \[41 U.S.C. 433(h)(3)\], as added by subsection (b), shall be reduced by 5 percent to reflect the Department's nonparticipation in the acquisition workforce training fund established by such section.”
+Pub. L. 108–136, div. A, title XIV, §1412(c), Nov. 24, 2003, 117 Stat. 1665, which provided that section 1412 of Pub. L. 108–136 was inapplicable to the acquisition workforce of the Department of Defense and that fees covered by subsec. (h)(3) of this section were to be reduced by 5 percent to reflect the Department's nonparticipation in the acquisition workforce training fund, was repealed by Pub. L. 109–163, div. A, title VIII, §821(b)(2), Jan. 6, 2006, 119 Stat. 3386.
 
 #### Acquisition Workforce Recruitment Program
 
@@ -142,7 +158,7 @@ Pub. L. 108–136, div. A, title XIV, §1413, Nov. 24, 2003, 117 Stat. 1665, pro
 
 “(a)
 
-Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 oftitle 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))\[)\] are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
+Determination of Shortage Category Positions.—For purposes of sections 3304, 5333, and 5753 of title 5, United States Code, the head of a department or agency of the United States (other than the Secretary of Defense) may determine, under regulations prescribed by the Office of Personnel Management, that certain Federal acquisition positions (as described in section 37(g)(1)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(g)(1)(A))\[)\] are shortage category positions in order to use the authorities in those sections to recruit and appoint highly qualified persons directly to such positions in the department or agency.
 
 “(b)
 

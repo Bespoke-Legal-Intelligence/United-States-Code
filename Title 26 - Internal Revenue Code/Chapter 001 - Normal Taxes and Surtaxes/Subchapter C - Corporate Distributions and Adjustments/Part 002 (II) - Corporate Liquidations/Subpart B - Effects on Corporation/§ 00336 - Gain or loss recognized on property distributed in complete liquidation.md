@@ -26,7 +26,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (B) Disqualified property
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “disqualified property” means any propertywhich is acquired by the liquidating corporation in a transaction to which section 351 applied, or as a contribution to capital, during the 5-year period ending on the date of the distribution. Such term includes any property if the adjusted basis of such property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
+&emsp;&emsp;For purposes of subparagraph (A), the term “disqualified property” means any property which is acquired by the liquidating corporation in a transaction to which section 351 applied, or as a contribution to capital, during the 5-year period ending on the date of the distribution. Such term includes any property if the adjusted basis of such property is determined (in whole or in part) by reference to the adjusted basis of property described in the preceding sentence.
 
 #### (2) Special rule for certain property acquired in certain carryover basis transactions
 
@@ -76,7 +76,7 @@ Under regulations prescribed by the Secretary, if—
 
 #### Prior Provisions
 
-A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(1), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, §222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, §631(a).
+A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(1),94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, §222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, §631(a).
 
 #### Amendments
 
@@ -292,7 +292,7 @@ Other Transitional Rules.—
 
 &emsp;&emsp;“(C) the corporation is completely liquidated on or before December 31, 1988.
 
-&emsp;“(2) The amendments made by this subtitle shall not apply to any liquidation (or deemed liquidation under section 338 of the Internal Revenue Code of 1986) of a diversified financial services corporation incorporated under the laws of Delaware on May 9, 1929 (or any direct or indirect subsidiary of such corporation), pursuant to a binding written contract entered into on or before December 31, 1986; but only if the liquidation is completed (or in the case of a section 338 election, the acquisition date occurs) before January 1, 1988.
+&emsp;“(2) The amendments made by this subtitle shall not apply to any liquidation (or deemed liquidation under section 338 of the Internal Revenue Code of1986) of a diversified financial services corporation incorporated under the laws of Delaware on May 9, 1929 (or any direct or indirect subsidiary of such corporation), pursuant to a binding written contract entered into on or before December 31, 1986; but only if the liquidation is completed (or in the case of a section 338 election, the acquisition date occurs) before January 1, 1988.
 
 &emsp;“(3) The amendments made by this subtitle shall not apply to any distribution, or sale, or exchange—
 
@@ -361,8 +361,4 @@ In general.—The term ‘qualified distribution’ means a distribution—
 &emsp;&emsp;“(B)
 
 Qualified subsidiary.—The term ‘qualified subsidiary’ means a corporation created or organized under the laws of Delaware on September 7, 1976, all of the stock of which was owned by parent immediately before the qualified distribution.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 311, 337, 355, 6038B of this title.
 

@@ -122,7 +122,7 @@ Duration of Authority.—The authority provided by subsection (a) applies during
 
 #### Moratorium on the Return of Veterans Memorial Objects to Foreign Nations Without Specific Authorization in Law
 
-Pub. L. 106–65, div. A, title X, §1051, Oct. 5, 1999, 113 Stat. 763, provided that:
+Pub. L. 106–65, div. A, title X, §1051, Oct. 5, 1999, 113 Stat. 763, as amended by Pub. L. 109–163, div. A, title X, §1061, Jan. 6, 2006, 119 Stat. 3445, provided that:
 
 “(a)
 
@@ -148,9 +148,5 @@ Veterans memorial object.—The term ‘veterans memorial object’ means any ob
 
 “(c)
 
-Period of Moratorium.—The moratorium period for the purposes of this section is the period beginning on the date of the enactment of this Act \[Oct. 5, 1999\] and ending on September 30, 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7316, 7545 of this title.
+Period of Moratorium.—The moratorium period for the purposes of this section is the period beginning on October 5, 1999, and ending on September 30, 2001, and during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006 \[Jan. 6, 2006\] and ending on September 30, 2010.”
 

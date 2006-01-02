@@ -56,7 +56,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the conditions provided by paragraph (2), a corporation which for a taxable year does not satisfy a condition specified in paragraph (1)(A) (relating to gross receipts) or (1)(B) (relating to assets) of subsection (a) shall nevertheless be deemed to satisfy such condition for such year if it makes a pro rata distribution of property after the close of the taxable year to its shareholders (designated at the time of such distribution as a distributionto meet qualification requirements) with respect to their stock in an amount which is equal to—
+&emsp;Subject to the conditions provided by paragraph (2), a corporation which for a taxable year does not satisfy a condition specified in paragraph (1)(A) (relating to gross receipts) or (1)(B) (relating to assets) of subsection (a) shall nevertheless be deemed to satisfy such condition for such year if it makes a pro rata distribution of property after the close of the taxable year to its shareholders (designated at the time of such distribution as a distribution to meet qualification requirements) with respect to their stock in an amount which is equal to—
 
 &emsp;&emsp;(A) if the condition of subsection (a)(1)(A) is not satisfied, the portion of such corporation's taxable income attributable to its gross receipts which are not qualified export receipts for such year,
 
@@ -136,11 +136,7 @@ Amendment by Pub. L. 98–369 applicable to transactions after Dec. 31, 1984, in
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 246, 751, 861, 901, 904, 991, 995, 996, 1014, 1504, 6501 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

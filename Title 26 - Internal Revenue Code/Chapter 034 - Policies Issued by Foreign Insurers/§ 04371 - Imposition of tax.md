@@ -30,7 +30,7 @@ There is hereby imposed, on each policy of insurance, indemnity bond, annuity co
 
 1959—Par. (2). Pub. L. 86–69 substituted “section 819” for “section 816”.
 
-1958—Pub. L. 85–859 substituted “is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax” for “shall be imposed a taxon each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer”.
+1958—Pub. L. 85–859 substituted “is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax” for “shall be imposed a tax on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer”.
 
 1956—Par. (2). Act Mar. 13, 1956, substituted “section 816” for “section 807”.
 
@@ -64,9 +64,5 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 953, 4372, 4373, 4374 of this title.
+Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
 

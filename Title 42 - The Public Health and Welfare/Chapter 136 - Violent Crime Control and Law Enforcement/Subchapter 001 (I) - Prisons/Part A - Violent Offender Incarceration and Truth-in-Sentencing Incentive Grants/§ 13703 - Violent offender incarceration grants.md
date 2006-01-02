@@ -24,7 +24,7 @@ A State that received a grant under subsection (a) of this section is eligible t
 
 > Receipt of grant amounts under this subsection does not preclude eligibility for a grant under subsection (b) of this section.
 
-(Pub. L. 103–322, title II, §20103, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–16; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 103–322, title II, §20103, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26,1996, 110 Stat. 1321, 1321–16; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### Prior Provisions
 
@@ -32,5 +32,5 @@ A prior section 13703, Pub. L. 103–322, title II, §20103, Sept. 13, 1994, 108
 
 #### Controlled Substance Testing and Intervention; Availability of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–14, provided in part: “That beginning in fiscal year 1999, and thereafter, no funds shall be available to make grants to a State pursuantto section 20103 or section 20104 of the Violent Crime Control and Law Enforcement Act of 1994 \[42 U.S.C. 13703, 13704\] unless no later than September 1, 1998, such State has implemented a program of controlled substance testing and intervention for appropriate categories of convicted offenders during periods of incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive controlled substance tests, consistent with guidelines issued by the Attorney General”.
+Pub. L. 104–208, div. A, title I, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–14, provided in part: “That beginning in fiscal year 1999, and thereafter, no funds shall be available to make grants to a State pursuant to section 20103 or section 20104 of the Violent Crime Control and Law Enforcement Act of 1994 \[42 U.S.C. 13703, 13704\] unless no later than September 1, 1998, such State has implemented a program of controlled substance testing and intervention for appropriate categories of convicted offenders during periods of incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive controlled substance tests, consistent with guidelines issued by the Attorney General”.
 

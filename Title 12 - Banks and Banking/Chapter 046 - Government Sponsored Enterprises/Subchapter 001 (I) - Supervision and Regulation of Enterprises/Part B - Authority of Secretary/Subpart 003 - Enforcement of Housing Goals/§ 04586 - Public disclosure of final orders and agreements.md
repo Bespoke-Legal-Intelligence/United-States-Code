@@ -16,7 +16,7 @@ All hearings with respect to any notice of charges issued by the Secretary shall
 
 #### (c) Delay of public disclosure under exceptional circumstances
 
-If the Secretary makes a determination in writing that the public disclosure of any finalorder pursuant to subsection (a) of this section would seriously threaten the financial soundness of the enterprise, the Secretary may delay the public disclosure of such order for a reasonable time.
+If the Secretary makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) of this section would seriously threaten the financial soundness of the enterprise, the Secretary may delay the public disclosure of such order for a reasonable time.
 
 #### (d) Documents filed under seal in public enforcement hearings
 

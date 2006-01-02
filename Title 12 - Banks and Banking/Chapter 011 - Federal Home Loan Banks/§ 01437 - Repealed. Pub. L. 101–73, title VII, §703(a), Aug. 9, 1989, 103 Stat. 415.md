@@ -82,7 +82,7 @@ Employees of fslic.—Any employee of the Federal Savings and Loan Insurance Cor
 
 &emsp;“(2)
 
-Rule of construction.—The repeal of section 17 of the Federal Home Loan Bank Act \[12 U.S.C. 1437\] by section 703 of this Act, the repeal of section 402(c) of the National Housing Act \[12 U.S.C. 1725(c)\] by section 407 of this title, and the abolishment of the Federal Savings and Loan Insurance Corporation under section 401 of this title, shall not be construed as affecting the status of employees of such Corporation or of the Federal Home Loan Bank Board as employees of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee pursuant to section 403.
+Rule of construction.—The repeal of section 17 of the Federal Home Loan Bank Act \[12 U.S.C. 1437\]by section 703 of this Act, the repeal of section 402(c) of the National Housing Act \[12 U.S.C. 1725(c)\] by section 407 of this title, and the abolishment of the Federal Savings and Loan Insurance Corporation under section 401 of this title, shall not be construed as affecting the status of employees of such Corporation or of the Federal Home Loan Bank Board as employees of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee pursuant to section 403.
 
 “(e)
 
@@ -196,7 +196,7 @@ Uniform treatment of insured deposits.—The Federal Deposit Insurance Corporati
 
 &emsp;&emsp;“(A) review its regulations, principles, and interpretations for deposit insurance coverage and those established by the Federal Savings and Loan Insurance Corporation; and
 
-&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requiresor explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
+&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
 
 &emsp;“(4)
 
@@ -262,7 +262,7 @@ Agency action required to provide continued availability of indexes.—Promptly 
 
 &emsp;“(4)
 
-Requirements relating to substitute indexes.—If any agency can no longer make available an index pursuant to paragraph (3), an index that is substantially similar to such index may be substituted for such index for purposes of paragraph (2) if the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, as the case may be, determines, after notice and opportunity for comment, that—
+Requirements relating to substitute indexes.—If any agency can no longer make available an index pursuant to paragraph (3), an index that issubstantially similar to such index may be substituted for such index for purposes of paragraph (2) if the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, as the case may be, determines, after notice and opportunity for comment, that—
 
 &emsp;&emsp;“(A) the new index is based upon data substantially similar to that of the original index; and
 
@@ -316,7 +316,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 > &emsp;The difference in the costs between the benefits which would have been provided by such agency or entity and those provided by this section shall be paid by the Director of the Office of Thrift Supervision. If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director of the Office of Thrift Supervision, the employee shall be permitted to select an alternate Federal health insurance program within 30 days of such election or notice, without regard to any other regularly scheduled open season.
 
-&emsp;“(6) Any employee employed by the Office of Thrift Supervision as a result of the transfer may retain membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, which such employee has on the date of enactment of this Act, if such employee does not elect to give up such membership and the benefit or program is continued by the Director of the Office of Thrift Supervision. If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director of the Office of Thrift Supervision, such employee shall be permitted to select an alternate Federal health insurance program within 30 days of such election or discontinuance, without regard to any other regularly scheduled open season.
+&emsp;“(6) Any employee employed by the Office of Thrift Supervision as a result of the transfer may retain membership in any employee benefit program of theFederal Home Loan Bank Board, including insurance, which such employee has on the date of enactment of this Act, if such employee does not elect to give up such membership and the benefit or program is continued by the Director of the Office of Thrift Supervision. If any employee elects to give up membership in a health insurance program or the health insurance program is not continued by the Director of the Office of Thrift Supervision, such employee shall be permitted to select an alternate Federal health insurance program within 30 days of such election or discontinuance, without regard to any other regularly scheduled open season.
 
 &emsp;“(7) A transferring employee in the Senior Executive Service shall be placed in a comparable position at the agency or entity to which such employee is transferred.
 
@@ -330,7 +330,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 #### “SEC. 406. REPORT.
 
-“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shallprovide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
+“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shall provide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
 
 #### Transferred Employees of Federal Home Loan Banks and Joint Offices
 
@@ -496,7 +496,7 @@ Pub. L. 100–86, title IV, §415, Aug. 10, 1987, 101 Stat. 622, provided that:
 
 “(a)
 
-Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
+Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
 
 “(b)
 

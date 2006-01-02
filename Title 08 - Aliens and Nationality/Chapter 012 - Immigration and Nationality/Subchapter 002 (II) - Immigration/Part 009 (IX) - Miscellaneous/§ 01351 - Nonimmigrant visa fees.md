@@ -14,7 +14,7 @@ The Headquarters Agreement, referred to in text, is set out as a note under sect
 
 1968—Pub. L. 90–609 struck out provisions fixing statutory fees for specified immigration and nationality benefits and services rendered, including those pertaining to immigrant visas, reentry permits, adjustments of status to permanent residence, creation of record of admission for permanent residence, suspension of deportation, extension of stay to nonimmigrants, and application for admission to practice as attorney or representative before the Service.
 
-1965—Subsec. (a). Pub. L. 89–236, §14(a), (b), designated opening provision beginning “The following fees shall be charged:” and ending with the end of par. (7) as subsec. (a) and substituted reference to section1154 of this title for sections 1154(b) and 1155(b) of this title in par. (6).
+1965—Subsec. (a). Pub. L. 89–236, §14(a), (b), designated opening provision beginning “The following fees shall be charged:” and ending with the end of par. (7) as subsec. (a) and substituted reference to section 1154 of this title for sections 1154(b) and 1155(b) of this title in par. (6).
 
 Subsec. (b). Pub. L. 89–236, §14(c), added subsec. (b).
 

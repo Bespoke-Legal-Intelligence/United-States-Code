@@ -32,6 +32,10 @@ Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975,
 
 Section 107 of Pub. L. 104–330 provided that: “Except as otherwise expressly provided in this Act \[see Short Title note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–136, §1, Dec. 22, 2005, 119 Stat. 2643, provided that: “This Act \[enacting section 1490t of Title 42, The Public Health and Welfare, amending section 4114 of this title and sections 12899f and 12899h–1 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Native American Housing Enhancement Act of 2005’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–393, §1, Oct. 30, 2004, 118 Stat. 2246, provided that: “This Act \[amending section 4191 of this title\] may be cited as the ‘Homeownership Opportunities for Native Americans Act of 2004’.”
@@ -51,4 +55,40 @@ Pub. L. 106–568, title II, §201, Dec. 27, 2000, 114 Stat. 2872, provided that
 #### Short Title
 
 Section 1(a) of Pub. L. 104–330 provided that: “This Act \[enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437<i>l</i>, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12\] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”
+
+#### Findings of 2005 Amendment
+
+Pub. L. 109–136, §2, Dec. 22, 2005, 119 Stat. 2643, provided that: “Congress finds that—
+
+&emsp;“(1) there exist—
+
+&emsp;&emsp;“(A) a unique relationship between the Government of the United States and the governments of Indian tribes; and
+
+&emsp;&emsp;“(B) a unique Federal trust responsibility to Indian people;
+
+&emsp;“(2) Native Americans experience some of the worst housing conditions in the country, with—
+
+&emsp;&emsp;“(A) 32.6 percent of Native homes being overcrowded;
+
+&emsp;&emsp;“(B) 33 percent lacking adequate solid waste management systems;
+
+&emsp;&emsp;“(C) 8 percent lacking a safe indoor water supply; and
+
+&emsp;&emsp;“(D) approximately 90,000 Native families who are homeless or underhoused;
+
+&emsp;“(3) the poverty rate for Native Americans is twice that of the rest of the population of the United States;
+
+&emsp;“(4) the population growth of Native Americans that began in the latter part of the 20th century increased the need for Federal housing services;
+
+&emsp;“(5)(A) under the requirements of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.), members of Indian tribes are given preference for housing programs;
+
+&emsp;“(B) a primary purpose of the Act is to allow Indian tribes to leverage funds with other Federal and private funds;
+
+&emsp;“(C) the Department of Agriculture has been a significant funding source for housing for Indian tribes;
+
+&emsp;“(D) to allow assistance provided under the Act and assistance provided by the Secretary of Agriculture under other law to be combined to meet the severe housing needs of Indian tribes, the Housing Act of 1949 (42 U.S.C. 1471 \[1441\] et seq.) should be amended to allow for the preference referred to in subparagraph (A) by granting an exemption from title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) and title VIII of the Civil Rights Act of 1968 (42 U.S.C. 3601 et seq.); and
+
+&emsp;“(E) federally recognized Indian tribes exercising powers of self-government are governed by the Indian Civil Rights Act (25 U.S.C. 1301 et seq.); and
+
+&emsp;“(6) section 457 of the Cranston-Gonzales \[Cranston-Gonzalez\] National Affordable Housing Act (42 U.S.C. 12899f) should be amended to include Indian tribes, tribally designated housing entities, or other agencies that primarily serve Indians as eligible applicants for YouthBuild grants.”
 

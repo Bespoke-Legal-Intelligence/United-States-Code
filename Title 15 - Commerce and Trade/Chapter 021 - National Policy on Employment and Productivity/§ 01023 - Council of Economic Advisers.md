@@ -100,7 +100,7 @@ Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet C
 
 #### Executive Order No. 12296
 
-Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President'sEconomic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

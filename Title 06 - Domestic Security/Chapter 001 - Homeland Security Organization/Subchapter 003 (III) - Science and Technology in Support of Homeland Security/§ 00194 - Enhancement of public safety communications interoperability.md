@@ -4,7 +4,7 @@
 
 #### (1) Program
 
-&emsp;The Secretary of Homeland Security, in consultation with the Secretary of Commerce and the Chairman of the Federal Communications Commission, shall establish a program to enhance public safety interoperable communications at all levels of government. Such program shall—
+&emsp;The Secretary of Homeland Security, in consultation with the Secretary of Commerce andthe Chairman of the Federal Communications Commission, shall establish a program to enhance public safety interoperable communications at all levels of government. Such program shall—
 
 &emsp;&emsp;(A) establish a comprehensive national approach to achieving public safety interoperable communications;
 
@@ -102,7 +102,7 @@ Not later than 18 months after December 17, 2004, the President shall establish 
 
 #### (B) Schedule
 
-&emsp;&emsp;A letter of intent under this paragraph shall establish a schedule under which the Secretary will reimburse the applicant for the Federal Government's share of the project's costs, as amounts become available, if the applicant, after the Secretary issues the letter, carries out the project before receiving amounts under a grant issued by the Secretary.
+&emsp;&emsp;A letter of intent under this paragraph shall establish a schedule under which theSecretary will reimburse the applicant for the Federal Government's share of the project's costs, as amounts become available, if the applicant, after the Secretary issues the letter, carries out the project before receiving amounts under a grant issued by the Secretary.
 
 #### (C) Notice to Secretary
 
@@ -144,7 +144,7 @@ In this section:
 
 #### (1) Interoperable communications
 
-&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate witheach other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, or video with one another on demand, in real time, as necessary.
+&emsp;The term “interoperable communications” means the ability of emergency response providers and relevant Federal, State, and local government agencies to communicate with each other as necessary, through a dedicated public safety network utilizing information technology systems and radio communications systems, and to exchange voice, data, or video with one another on demand, in real time, as necessary.
 
 #### (2) Emergency response providers
 

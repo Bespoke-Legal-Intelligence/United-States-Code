@@ -8,7 +8,7 @@ There is established an Office of Minority Health within the Office of Public He
 
 With respect to improving the health of racial and ethnic minority groups, the Secretary, acting through the Deputy Assistant Secretary for Minority Health (in this section referred to as the “Deputy Assistant Secretary”), shall carry out the following:
 
-&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all other activities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
+&emsp;(1) Establish short-range and long-range goals and objectives and coordinate all otheractivities within the Public Health Service that relate to disease prevention, health promotion, service delivery, and research concerning such individuals. The heads of each of the agencies of the Service shall consult with the Deputy Assistant Secretary to ensure the coordination of such activities.
 
 &emsp;(2) Enter into interagency agreements with other agencies of the Public Health Service.
 
@@ -80,11 +80,11 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (B) Health professions education regarding health disparities
 
-&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10) of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
+&emsp;&emsp;The Deputy Assistant Secretary shall carry out the duties under subsection (b)(10)of this section in collaboration with appropriate personnel of the Department of Health and Human Services, other Federal agencies, and other offices, centers, and institutions, as appropriate, that have responsibilities under the Minority Health and Health Disparities Research and Education Act of 2000.
 
 #### (2) Equitable allocation regarding activities
 
-&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that servicesprovided under such subsection are equitably allocated among all groups served under this section by the Secretary.
+&emsp;In carrying out subsection (b) of this section, the Secretary shall ensure that services provided under such subsection are equitably allocated among all groups served under this section by the Secretary.
 
 #### (3) Cultural competency of services
 
@@ -156,7 +156,7 @@ Subsec. (g)(1). Pub. L. 106–525, §601, substituted “Asian Americans;” for
 
 Subsec. (a). Pub. L. 105–392, §201(c)(2), substituted “Public Health and Science” for “the Assistant Secretary for Health”.
 
-Subsecs. (b) to (h). Pub. L. 105–392, §201(a), added subsecs. (b) to (h) and struck out former subsecs. (b) to (f),which related, respectively, to duties of Secretary, certain requirements regarding duties, grants and contracts regarding duties, reports, and funding.
+Subsecs. (b) to (h). Pub. L. 105–392, §201(a), added subsecs. (b) to (h) and struck out former subsecs. (b) to (f), which related, respectively, to duties of Secretary, certain requirements regarding duties, grants and contracts regarding duties, reports, and funding.
 
 1990—Subsec. (b)(8). Pub. L. 101–557 added par. (8).
 

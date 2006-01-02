@@ -8,7 +8,3 @@ The Secretary of the military department concerned may remove an officer from ac
 
 1998—Pub. L. 105–261 substituted “inquiry” for “review” in section catchline and “board of inquiry convened under section 1182 of this title” for “board of review convened under section 1183 of this title” in text.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 707a, 1186 of this title.
-

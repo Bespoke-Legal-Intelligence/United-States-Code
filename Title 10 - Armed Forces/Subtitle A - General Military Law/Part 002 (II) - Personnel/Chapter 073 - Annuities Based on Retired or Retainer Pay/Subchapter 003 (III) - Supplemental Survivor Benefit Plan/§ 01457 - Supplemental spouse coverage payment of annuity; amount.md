@@ -10,7 +10,7 @@ Commencement of Annuity.—A supplemental spouse annuity commences on the later 
 
 (b)
 
-Amount of Annuity for Beneficiary of Person Providing Standard Annuity Under SBP.—In the case of a person providing a standard annuity for a spouse or former spouse beneficiary under the Survivor Benefit Plan and providing a supplemental spouse annuity for that beneficiary under this subchapter, the monthly annuity payable to the beneficiary under this subchapter shall be the amount equal to 5, 10, 15, or 20 percent of the base amount under the Survivor Benefit Plan of the person providing the annuity, as specified by that person when electing to provide the annuity. The annuity shall be computed as of the date of the death of the person providing the annuity, notwithstanding that the annuity is not payable at that time by reason of subsection (a).
+Amount of Annuity for Beneficiary of Person Providing Standard Annuity Under SBP.—In the case of a person providing a standard annuity for a spouse or former spouse beneficiary under the Survivor Benefit Plan and providing a supplemental spouse annuity for thatbeneficiary under this subchapter, the monthly annuity payable to the beneficiary under this subchapter shall be the amount equal to the applicable percent of the base amount under the Survivor Benefit Plan of the person providing the annuity, as specified by that person when electing to provide the annuity. The percent used for the computation shall be an even multiple of 5 percent and, whatever the percent specified in the election, may not exceed 20 percent for months before October 2005, 15 percent for months after September 2005 and before April 2006, 10 percent for months after March 2006 and before April 2007, and 5 percent for months after March 2007 and before April 2008. The annuity shall be computed as of the date of the death of the person providing the annuity, notwithstanding that the annuity is not payable at that time by reason of subsection (a).
 
 (c)
 
@@ -46,11 +46,17 @@ Rounding down.—The monthly amount of an annuity payable under this subchapter,
 
 (e)
 
-Termination of Annuity.—A supplemental spouse annuity terminates effective as of thefirst day of the month in which the beneficiary dies or otherwise becomes ineligible to continue to receive an annuity under the Survivor Benefit Plan.
+Termination of Annuity.—A supplemental spouse annuity terminates effective as of the first day of the month in which the beneficiary dies or otherwise becomes ineligible to continue to receive an annuity under the Survivor Benefit Plan.
 
-(Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1580; amended Pub. L. 102–190, div. A, title VI, §653(b)(1), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 103–337, div. A, title X, §1070(e)(5), Oct. 5, 1994, 108 Stat. 2859.)
+(Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1580; amended Pub. L. 102–190, div. A, title VI, §653(b)(1), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 103–337, div. A, title X, §1070(e)(5), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 108–375, div. A, title VI, §644(b)(1), Oct. 28, 2004, 118 Stat. 1960.)
+
+#### Repeal of Section
+
+<i>Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, provided that, effective Apr. 1, 2008, this section is repealed.</i>
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–375 substituted “the applicable percent” for “5, 10, 15, or 20 percent” and inserted “The percent used for the computation shall be an even multiple of 5 percent and, whatever the percent specified in the election, may not exceed 20 percent for months before October 2005, 15 percent for months after September 2005 and before April 2006, 10 percent for months after March 2006 and before April 2007, and 5 percent for months after March 2007 and before April 2008.” after “electing to provide the annuity.”
 
 1994—Subsec. (c)(3). Pub. L. 103–337 substituted “section 1311 of title 38” for “section 411 of title 38”.
 
@@ -59,8 +65,4 @@ Termination of Annuity.—A supplemental spouse annuity terminates effective as 
 #### Effective Date of 1991 Amendment
 
 Section 653(b)(3) of Pub. L. 102–190 provided that: “The amendments made by this subsection \[amending this section and section 1460 of this title\] shall take effect on April 1, 1992.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1460 of this title.
 

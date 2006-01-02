@@ -18,19 +18,31 @@ Unless the Commission otherwise orders, no change shall be made by any natural-g
 
 #### (e) Authority of Commission to hold hearings concerning new schedule of rates
 
-Whenever any such new schedule is filed the Commission shall have authority, either upon complaint of any State, municipality, State commission, or gas distributing company, or upon its own initiative without complaint, at once, and if it so orders, without answer or formal pleading by the natural-gas company, but upon reasonable notice, to enter upon a hearing concerning the lawfulness of such rate, charge, classification, or service; and, pending such hearing and the decision thereon, the Commission, upon filing with such schedules and delivering to the natural-gas company affected thereby a statement in writing of its reasons for such suspension, may suspend the operation of such schedule and defer the use of such rate, charge, classification, or service, but not for a longer period than five months beyond the time when it would otherwise go into effect; and after full hearings, either completed before or after the rate, charge, classification, or service goes into effect, the Commission may make such orders with reference thereto as would be proper in a proceeding initiated after it had become effective. If the proceeding has not been concluded and an order made at the expiration of the suspension period, on motion of the natural-gas company making the filing, the proposed change of rate, charge, classification, or service shall go into effect. Where increased rates or charges are thus made effective, the Commission may, by order, require the natural-gas company to furnish a bond, to be approved by the Commission, to refund any amounts ordered by the Commission, to keep accurate accounts in detail of all amounts received by reason of such increase, specifying by whom and in whose behalf such amounts were paid, and, upon completion of the hearing and decision, to order such natural-gas company to refund, with interest, the portion of such increased rates or charges by its decision found not justified. At any hearing involving a rate or charge sought to be increased, the burden of proof to show that the increased rate or charge is just and reasonable shall be upon the natural-gas company, and the Commission shall give to the hearing and decision of such questions preference over other questions pending before it and decide the same as speedily as possible.
+Whenever any such new schedule is filed the Commission shall have authority, either upon complaint of any State, municipality, State commission, or gas distributing company, or upon its own initiative without complaint, at once, and if it so orders, without answer or formal pleading by the natural-gas company, but upon reasonable notice, to enter upon a hearing concerning the lawfulness of such rate, charge, classification, or service; and, pending such hearing and the decision thereon, the Commission, upon filing with such schedules and delivering to the natural-gas company affected thereby a statement in writing of its reasons for such suspension, may suspend the operation of such schedule and defer the use of such rate, charge, classification, or service, but not for a longer period than five months beyond the time when it would otherwise go into effect; and after fullhearings, either completed before or after the rate, charge, classification, or service goes into effect, the Commission may make such orders with reference thereto as would be proper in a proceeding initiated after it had become effective. If the proceeding has not been concluded and an order made at the expiration of the suspension period, on motion of the natural-gas company making the filing, the proposed change of rate, charge, classification, or service shall go into effect. Where increased rates or charges are thus made effective, the Commission may, by order, require the natural-gas company to furnish a bond, to be approved by the Commission, to refund any amounts ordered by the Commission, to keep accurate accounts in detail of all amounts received by reason of such increase, specifying by whom and in whose behalf such amounts were paid, and, upon completion of the hearing and decision, to order such natural-gas company to refund, with interest, the portion of such increased rates or charges by its decision found not justified. At any hearing involving a rate or charge sought to be increased, the burden of proof to show that the increased rate or charge is just and reasonable shall be upon the natural-gas company, and the Commission shall give to the hearing and decision of such questions preference over other questions pending before it and decide the same as speedily as possible.
 
-(June 21, 1938, ch. 556, §4, 52 Stat. 822; Pub. L. 87–454, May 21, 1962, 76 Stat. 72.)
+#### (f) Storage services
+
+(1) In exercising its authority under this chapter or the Natural Gas Policy Act of 1978 (15 U.S.C. 3301 et seq.), the Commission may authorize a natural gas company (or any person that will be a natural gas company on completion of any proposed construction) to provide storage and storage-related services at market-based rates for new storage capacity related to a specific facility placed in service after August 8, 2005, notwithstanding the fact that the company is unable to demonstrate that the company lacks market power, if the Commission determines that—
+
+&emsp;(A) market-based rates are in the public interest and necessary to encourage the construction of the storage capacity in the area needing storage services; and
+
+&emsp;(B) customers are adequately protected.
+
+(2) The Commission shall ensure that reasonable terms and conditions are in place to protect consumers.
+
+(3) If the Commission authorizes a natural gas company to charge market-based rates under this subsection, the Commission shall review periodically whether the market-based rate is just, reasonable, and not unduly discriminatory or preferential.
+
+(June 21, 1938, ch. 556, §4, 52 Stat. 822; Pub. L. 87–454, May 21, 1962, 76 Stat. 72; Pub. L. 109–58, title III, §312, Aug. 8, 2005, 119 Stat. 688.)
+
+#### References in Text
+
+The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 #### Amendments
 
+2005—Subsec. (f). Pub. L. 109–58 added subsec. (f).
+
 1962—Subsec. (e). Pub. L. 87–454 inserted “or gas distributing company” after “State commission”, and struck out proviso which denied authority to the Commission to suspend the rate, charge, classification, or service for the sale of natural gas for resale for industrial use only.
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and functions with regard to establishment, review, and enforcement of rates and charges for transportation and sale of natural gas by a producer or gatherer or by a natural gas pipeline or natural gas company and establishment, review, and enforcement of curtailments under this chapter, other than establishment and review of priorities for such curtailments, transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(C), (E) and 7293 of Title 42, The Public Health and Welfare.
-
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in theAppendix to Title 5, Government Organization and Employees.
 
 #### Advance Recovery of Expenses Incurred by Natural Gas Companies for Natural Gas Research, Development, and Demonstration Projects
 

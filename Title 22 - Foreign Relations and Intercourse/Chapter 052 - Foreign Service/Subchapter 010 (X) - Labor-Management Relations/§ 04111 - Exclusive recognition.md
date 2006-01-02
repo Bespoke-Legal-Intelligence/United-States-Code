@@ -10,7 +10,7 @@ If a petition is filed with the Board—
 
 &emsp;(1) by any person alleging—
 
-&emsp;&emsp;(A) in the case of a unit for which there is no exclusive representative, that 30 percent of the employees in the unit wish to be represented for the purpose of collective bargaining by an exclusive representative, or
+&emsp;&emsp;(A) in the case of a unit for which there is no exclusive representative, that 30 percentof the employees in the unit wish to be represented for the purpose of collective bargaining by an exclusive representative, or
 
 &emsp;&emsp;(B) in the case of a unit for which there is an exclusive representative, that 30 percent of the employees in the unit alleged that the exclusive representative is no longer the representative of the majority of the employees in the unit; or
 

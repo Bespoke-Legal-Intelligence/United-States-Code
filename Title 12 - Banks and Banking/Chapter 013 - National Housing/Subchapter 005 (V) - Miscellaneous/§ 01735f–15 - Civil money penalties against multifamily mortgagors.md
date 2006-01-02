@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The penalties set forth in this section shall be in addition to any other available civil remedyor any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or a public housing agency to comply with existing agreements.
+The penalties set forth in this section shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The Secretary may not impose penalties under this section for violations a material cause of which are the failure of the Department, an agent of the Department, or a public housing agency to comply with existing agreements.
 
 #### (b) Penalty for violation of agreement as condition of transfer of physical assets, flexible subsidy loan, capital improvement loan, modification of mortgage terms, or workout agreement
 
@@ -48,7 +48,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(vii) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for such services, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
 
-&emsp;&emsp;(viii) Failure to maintain at any time the mortgaged property, equipment, buildings, plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
+&emsp;&emsp;(viii) Failure to maintain at any time the mortgaged property, equipment, buildings,plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
 
 &emsp;&emsp;(ix) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordance with requirements prescribed by the Secretary.
 
@@ -114,7 +114,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additionalevidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (d)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at such hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -166,7 +166,7 @@ Subsec. (c)(1)(B)(x). Pub. L. 108–447, §219(c), amended cl. (x) generally. Pr
 
 Subsec. (c). Pub. L. 105–65, §561(a)(2)(A), substituted “Other violations” for “Violations of regulatory agreement for which penalty may be imposed” in heading.
 
-Subsec. (c)(1). Pub. L. 105–65, §561(a)(2)(B)(i), (iv), substituted “violation of this subsection” for “violation of such agreement” before period at end of closing provisions and struck out heading and introductory provisions. Introductory provisions read as follows: “The Secretary may also impose a civil money penalty under this section on any mortgagor of property that includes 5 or more living units and that has a mortgage insured, co-insured, or held pursuant to this chapter for any knowing and material violation of the regulatory agreement executed by the mortgagor, as follows:”.
+Subsec. (c)(1). Pub. L. 105–65, §561(a)(2)(B)(i), (iv), substituted “violation of this subsection” for “violation of such agreement” before period at end of closing provisions and struck out heading and introductory provisions. Introductory provisions read as follows: “The Secretary may also impose a civil money penalty under this section on any mortgagor of property that includes 5 or more living units and that has a mortgage insured,co-insured, or held pursuant to this chapter for any knowing and material violation of the regulatory agreement executed by the mortgagor, as follows:”.
 
 Subsec. (c)(1)(A). Pub. L. 105–65, §561(a)(2)(B)(i), (ii), added subpar. (A) and redesignated former subpar. (A) as cl. (i) of subpar. (B).
 

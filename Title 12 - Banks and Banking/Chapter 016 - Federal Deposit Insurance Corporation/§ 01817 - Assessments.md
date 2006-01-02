@@ -10,9 +10,9 @@
 
 Additional reports.—The Board of Directors may from time to time require any insured depository institution to file such additional reports as the Corporation, after agreement with the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision, as appropriate, may deem advisable for insurance purposes.
 
-(3) Each insured depository institution shall make to the appropriate Federal banking agency 4 reports of condition annually upon dates which shall be selected by the Chairman of the Board of Directors, the Comptroller of the Currency, and the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision. The dates selected shall be the same for all insured depository institutions, except that when any of said reporting dates is a nonbusiness day for any depository institution, the preceding business day shall be its reporting date. Two dates shall be selected within the semiannual period of January to June inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in July pursuant to subsection (c) of this section, and two dates shall be selected within the semiannual period of July to December inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in January pursuant to subsection (c) of this section. The deposit liabilities shall be reported in said reports of conditions in accordance with and pursuant to paragraphs (4) and (5) of this subsection, and such other information shall be reported therein as may be required by the respective agencies. Each said report of condition shall contain a declaration by the president, a vice president, the cashier or the treasurer, or by any other officer designated by the board of directors or trustees of the reporting depository institution to make such declaration, that the report is true and correct to the best of his knowledge and belief. The correctness of said report of condition shall be attested by the signatures of at least two directors or trustees of the reporting depository institution other than the officer making such declaration, with a declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct. At the time of making said reports of condition each insured depository institution shall furnish to the Corporation a copy thereof containing such signed declaration and attestations. Nothing herein shall preclude any of the foregoing agencies from requiring the banks or savings associations under its jurisdiction to make additional reports of condition at any time.
+(3) Each insured depository institution shall make to the appropriate Federal banking agency 4 reports of condition annually upon dates which shall be selected by the Chairman of the Board of Directors, the Comptroller of the Currency, and the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision. The dates selected shall be the same for all insured depository institutions, except that when any of said reporting dates is a nonbusiness day for any depository institution, the preceding business day shall be its reporting date. Two dates shallbe selected within the semiannual period of January to June inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in July pursuant to subsection (c) of this section, and two dates shall be selected within the semiannual period of July to December inclusive, and the reports on such dates shall be the basis for the certified statement to be filed in January pursuant to subsection (c) of this section. The deposit liabilities shall be reported in said reports of conditions in accordance with and pursuant to paragraphs (4) and (5) of this subsection, and such other information shall be reported therein as may be required by the respective agencies. Each said report of condition shall contain a declaration by the president, a vice president, the cashier or the treasurer, or by any other officer designated by the board of directors or trustees of the reporting depository institution to make such declaration, that the report is true and correct to the best of his knowledge and belief. The correctness of said report of condition shall be attested by the signatures of at least two directors or trustees of the reporting depository institution other than the officer making such declaration, with a declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct. At the time of making said reports of condition each insured depository institution shall furnish to the Corporation a copy thereof containing such signed declaration and attestations. Nothing herein shall preclude any of the foregoing agencies from requiring the banks or savings associations under its jurisdiction to make additional reports of condition at any time.
 
-(4) In the reports of condition required to be made by paragraph (3) of this subsection, each insured depository institution shall report the total amount of the liability of the depository institution for deposits in the main office and in any branch located in any State of the UnitedStates, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, according to the definition of the term “deposit” in and pursuant to subsection (<i>l</i>) of section 1813 of this title without any deduction for indebtedness of depositors or creditors or any deduction for cash items in the process of collection drawn on others than the reporting depository institution: <i>Provided</i>, That the depository institution in reporting such deposits may (i) subtract from the deposit balance due to any depository institution the deposit balance due from the same depository institution (other than trust funds deposited by either depository institution) and any cash items in the process of collection due from or due to such depository institutions shall be included in determining such net balance, except that balances of time deposits of any depository institution and any balances standing to the credit of private depository institutions, of depository institutions in foreign countries, of foreign branches of other American depository institutions, and of American branches of foreign banks shall be reported gross without any such subtraction, and (ii) exclude any deposits received in any office of the depository institution for deposit in any other office of the depository institution: <i>And provided further</i>, That outstanding drafts (including advices and authorizations to charge depository institution's balance in another depository institution) drawn in the regular course of business by the reporting depository institution on depository institutions need not be reported as deposit liabilities. The amount of trust funds held in the depository institution's own trust department, which the reporting depository institution keeps segregated and apart from its general assets and does not use in the conduct of its business, shall not be included in the total deposits in such reports, but shall be separately stated in such reports. Deposits which are accumulated for the payment of personal loans and are assigned or pledged to assure payment of loans at maturity shall not be included in the total deposits in such reports, but shall be deducted from the loans for which such deposits are assigned or pledged to assure repayment.
+(4) In the reports of condition required to be made by paragraph (3) of this subsection, each insured depository institution shall report the total amount of the liability of the depository institution for deposits in the main office and in any branch located in any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, or the Virgin Islands, according to the definition of the term “deposit” in and pursuant to subsection (<i>l</i>) of section 1813 of this title without any deduction for indebtedness of depositors or creditors or any deduction for cash items in the process of collection drawn on others than the reporting depository institution: <i>Provided</i>, That the depository institution in reporting such deposits may (i) subtract from the deposit balance due to any depository institution the deposit balance due from the same depository institution (other than trust funds deposited by either depository institution) and any cash items in the process of collection due from or due to such depository institutions shall be included in determining such net balance, except that balances of time deposits of any depository institution and any balances standing to the credit of private depository institutions, of depository institutions in foreign countries, of foreign branches of other American depository institutions, and of American branches of foreign banks shall be reported gross without any such subtraction, and (ii) exclude any deposits received in any office of the depository institution for deposit in any other office of the depository institution: <i>And provided further</i>, That outstanding drafts (including advices and authorizations to charge depository institution's balance in another depository institution) drawn in the regular course of business by the reporting depository institution on depository institutions need not be reported as deposit liabilities. The amount of trust funds held in the depository institution's own trust department, which the reporting depository institution keeps segregated and apart from its general assets and does not use in the conduct of its business, shall not be included in the total deposits in such reports, but shall be separately stated in such reports. Deposits which are accumulated for the payment of personal loans and are assigned or pledged to assure payment of loans at maturity shall not be included in the total deposits in such reports, but shall be deducted from the loans for which such deposits are assigned or pledged to assure repayment.
 
 (5) The deposits to be reported on such reports of condition shall be segregated between (i) time and savings deposits and (ii) demand deposits. For this purpose, the time and savings deposits shall consist of time certificates of deposit, time deposits-open account, and savings deposits; and demand deposits shall consist of all deposits other than time and savings deposits.
 
@@ -32,7 +32,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 &emsp;(B) the Corporation receives on a regular basis from such institution,
 
-> information on the total amount of all insured deposits, preferred deposits, and uninsured deposits at the institution. In prescribing reporting and other requirements for the collection of actual and accurate information pursuant to this paragraph, the Corporation shall minimize the regulatory burden imposed upon insured depository institutions that are well capitalized (as defined in section 1831<i>o</i> of this title) while taking into account the benefit of the information to the Corporation, including the use of the information to enable the Corporation to more accurately determine the total amount of insured deposits in each insured depository institution for purposes of compliance with this chapter.
+> information on the total amount of all insured deposits, preferred deposits, and uninsured deposits at the institution. In prescribing reporting and other requirements for the collection of actual and accurate information pursuant to this paragraph, the Corporation shall minimize the regulatory burden imposed upon insured depository institutions that are well capitalized (as defined in section 1831<i>o</i> of this title) whiletaking into account the benefit of the information to the Corporation, including the use of the information to enable the Corporation to more accurately determine the total amount of insured deposits in each insured depository institution for purposes of compliance with this chapter.
 
 (10) A Federal banking agency may not, by regulation or otherwise, designate, or require an insured institution or an affiliate to designate, a corporation as highly leveraged or a transaction with a corporation as a highly leveraged transaction solely because such corporation is or has been a debtor or bankrupt under title 11, if, after confirmation of a plan of reorganization, such corporation would not otherwise be highly leveraged.
 
@@ -56,7 +56,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 &emsp;&emsp;For purposes of this paragraph, the term “risk-based assessment system” means a system for calculating a depository institution's semiannual assessment based on—
 
-&emsp;&emsp;&emsp;(i) the probability that the deposit insurance fund will incur a loss with respect tothe institution, taking into consideration the risks attributable to—
+&emsp;&emsp;&emsp;(i) the probability that the deposit insurance fund will incur a loss with respect to the institution, taking into consideration the risks attributable to—
 
 &emsp;&emsp;&emsp;&emsp;(I) different categories and concentrations of assets;
 
@@ -188,7 +188,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (6) Emergency special assessments
 
-&emsp;In addition to the other assessments imposed on insured depository institutions under this subsection, the Corporation may impose 1 or more special assessments on insured depository institutions in an amount determined by the Corporation if the amount of any such assessment—
+&emsp;In addition to the other assessments imposed on insured depository institutions under this subsection, the Corporation may impose 1 or more special assessments on insured depository institutions in an amount determined bythe Corporation if the amount of any such assessment—
 
 &emsp;&emsp;(A) is necessary—
 
@@ -260,7 +260,7 @@ Data collections.—In addition to or in connection with any other report requir
 
 #### (E) Hearing
 
-&emsp;&emsp;Any insured depository institution against which any penalty is assessed under this paragraph shall be afforded an agency hearing if the institution submits a request for such hearing within 20 days after the issuance of the notice of the assessment. Section 1818(h) of this title shall apply to any proceeding under this subparagraph.
+&emsp;&emsp;Any insured depository institution against which any penalty is assessed under thisparagraph shall be afforded an agency hearing if the institution submits a request for such hearing within 20 days after the issuance of the notice of the assessment. Section 1818(h) of this title shall apply to any proceeding under this subparagraph.
 
 #### (d) Corporation exempt from apportionment
 
@@ -306,7 +306,7 @@ The Corporation, in a suit brought at law or in equity in any court of competent
 
 #### (h) Forfeiture of rights for failure to comply with law
 
-Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failed to make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) of this section shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
+Should any national member bank or any insured national nonmember bank fail to make any report of condition under subsection (a) of this section or to file any certified statement required to be filed by such bank under any provision of this section, or fail to pay any assessment required to be paid by such bank under any provision of this chapter, and should the bank not correct such failure within thirty days after written notice has been given by the Corporation to an officer of the bank, citing this subsection, and stating that the bank has failedto make any report of condition under subsection (a) of this section or to file or pay as required by law, all the rights, privileges, and franchises of the bank granted to it under the National Bank Act, as amended \[12 U.S.C. 21 et seq.\], the Federal Reserve Act, as amended \[12 U.S.C. 221 et seq.\], or this chapter, shall be thereby forfeited. Whether or not the penalty provided in this subsection has been incurred shall be determined and adjudged in the manner provided in the sixth paragraph of section 2 of the Federal Reserve Act, as amended \[12 U.S.C. 501a\]. The remedies provided in this subsection and in subsections (f) and (g) of this section shall not be construed as limiting any other remedies against any insured depository institution, but shall be in addition thereto.
 
 #### (i) Insurance of trust funds
 
@@ -324,7 +324,7 @@ Should any national member bank or any insured national nonmember bank fail to m
 
 #### (4) Regulations
 
-&emsp;The Board of Directors may prescribe such regulations as may be necessary to clarify theinsurance coverage under this subsection and to prescribe the manner of reporting and depositing such trust funds.
+&emsp;The Board of Directors may prescribe such regulations as may be necessary to clarify the insurance coverage under this subsection and to prescribe the manner of reporting and depositing such trust funds.
 
 #### (j) Change in control of insured depository institutions
 
@@ -370,7 +370,7 @@ Public Comment.—Upon receiving notice of a proposed acquisition, the appropria
 
 (4) Within ten days of receipt of such notice of disapproval, the acquiring party may request an agency hearing on the proposed acquisition. In such hearing all issues shall be determined on the record pursuant to section 554 of title 5. The length of the hearing shall be determined by the appropriate Federal banking agency. At the conclusion thereof, the appropriate Federal banking agency shall by order approve or disapprove the proposed acquisition on the basis of the record made at such hearing.
 
-(5) Any person whose proposed acquisition is disapproved after agency hearings under this subsection may obtain review by the United States court of appeals for the circuit in which the home office of the bank <sup>2</sup> to be acquired is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within ten days from the date of such order, and simultaneously sending a copy of such notice by registered or certified mail to the appropriate Federal banking agency. The appropriate Federal banking agencyshall promptly certify and file in such court the record upon which the disapproval was based. The findings of the appropriate Federal banking agency shall be set aside if found to be arbitrary or capricious or if found to violate procedures established by this subsection.
+(5) Any person whose proposed acquisition is disapproved after agency hearings under this subsection may obtain review by the United States court of appeals for the circuit in which the home office of the bank <sup>2</sup> to be acquired is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within ten days from the date of such order, and simultaneously sending a copy of such notice by registered or certified mail to the appropriate Federal banking agency. The appropriate Federal banking agency shall promptly certify and file in such court the record upon which the disapproval was based. The findings of the appropriate Federal banking agency shall be set aside if found to be arbitrary or capricious or if found to violate procedures established by this subsection.
 
 (6) Except as otherwise provided by regulation of the appropriate Federal banking agency, a notice filed pursuant to this subsection shall contain the following information:
 
@@ -500,7 +500,7 @@ Investigative and Enforcement Authority.—
 
 &emsp;(A)
 
-Investigations.—The appropriate Federal banking agency may exercise any authority vested in such agency under section 1818(n) of this title in the course of conducting any investigation under paragraph (2)(B) or any other investigation which the agency, in its discretion, determines is necessary to determine whether any person has filed inaccurate, incomplete, or misleading information under this subsection or otherwise is violating, hasviolated, or is about to violate any provision of this subsection or any regulation prescribed under this subsection.
+Investigations.—The appropriate Federal banking agency may exercise any authority vested in such agency under section 1818(n) of this title in the course of conducting any investigation under paragraph (2)(B) or any other investigation which the agency, in its discretion, determines is necessary to determine whether any person has filed inaccurate, incomplete, or misleading information under this subsection or otherwise is violating, has violated, or is about to violate any provision of this subsection or any regulation prescribed under this subsection.
 
 &emsp;(B)
 
@@ -684,7 +684,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) the status of any savings association as an insured depository institution is terminated pursuant to any provision of section 1818 of this title or the insurance of accounts of any such institution is otherwise terminated;
 
-&emsp;&emsp;(B) a receiver or other legal custodian is appointed for the purpose of liquidation orwinding up the affairs of any savings association; or
+&emsp;&emsp;(B) a receiver or other legal custodian is appointed for the purpose of liquidation or winding up the affairs of any savings association; or
 
 &emsp;&emsp;(C) the Corporation makes a determination that for the purposes of this subsection any savings association has otherwise gone into liquidation,
 
@@ -722,7 +722,43 @@ For purposes of this section:
 
 When requested by the Director of the Office of Thrift Supervision, the Corporation shall collect on behalf of the Director assessments on savings associations levied by the Director under section 1467 of this title. The Corporation shall be reimbursed for its actual costs for the collection of such assessments. Any such assessments by the Director shall be in addition to any amounts assessed by the Corporation, the Financing Corporation, and the Resolution Funding Corporation.
 
-(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16, 1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231.)
+(Sept. 21, 1950, ch. 967, §2\[7\], 64 Stat. 876; Pub. L. 86–671, §§2, 3, July 14, 1960, 74 Stat. 547–551; Pub. L. 88–593, Sept. 12, 1964, 78 Stat. 940; Pub. L. 89–695, title II, §201, title III, §301(b), Oct. 16,1966, 80 Stat. 1046, 1055; Pub. L. 91–151, §7(a)(2), Dec. 23, 1969, 83 Stat. 375; Pub. L. 91–609, title IX, §910(g), (h), Dec. 31, 1970, 84 Stat. 1812; Pub. L. 93–495, title I, §§101(a)(2), 102(a)(2), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(8)–(13), Sept. 17, 1978, 92 Stat. 617, 618; Pub. L. 95–630, title III, §§302, 310, title VI, §602, title IX, §901, Nov. 10, 1978, 92 Stat. 3676, 3678, 3683, 3693; Pub. L. 96–221, title III, §308(a)(1)(B), (d), Mar. 31, 1980, 94 Stat. 147, 148; Pub. L. 97–110, title I, §103(b), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §§113(d)–(f), (q), 117, title IV, §429, Oct. 15, 1982, 96 Stat. 1473, 1475, 1479, 1527; Pub. L. 99–570, title I, §1360, Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, §505(a), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title II, §§201, 208, title IX, §§905(c), 907(d), 911(c), 931(a), Aug. 9, 1989, 103 Stat. 187, 206, 460, 468, 479, 493; Pub. L. 101–508, title II, §§2002–2004, Nov. 5, 1990, 104 Stat. 1388–14—1388–16; Pub. L. 102–242, title I, §§103(b), 104, 113(c)(1), 141(c), title II, §§205, 232(b), 233(c), title III, §§302(a), (b), (e)(3), (4), formerly (e)(2), (3), 311(a)(2), (b)(3), 313(a), title IV, §474, Dec. 19, 1991, 105 Stat. 2238, 2247, 2277, 2292, 2310, 2314, 2345, 2348, 2349, 2363, 2365, 2368, 2386; Pub. L. 102–550, title IX, §931(a), (b), title XVI, §§1603(a)(1), (3), 1604(b)(1), (3), 1605(a)(2), (5)(A), (6), (b)(1), (2), 1606(i)(1), Oct. 28, 1992, 106 Stat. 3888, 4078, 4083, 4085–4087, 4089; Pub. L. 102–558, title III, §§303(a), (b)(1), (3), (6)(A), (7), (8), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 103–204, §§8(h), 38(a), Dec. 17, 1993, 107 Stat. 2388, 2416; Pub. L. 103–325, title III, §§305(b), 308(b), 348, title VI, §602(a)(4)–(10), Sept. 23, 1994, 108 Stat. 2217, 2218, 2241, 2288; Pub. L. 104–208, div. A, title II, §§2226, 2703(b), 2704(d)(6)(B), (14)(G), 2706–2708, Sept. 30, 1996, 110 Stat. 3009–417, 3009–485, 3009–488, 3009–491, 3009–496, 3009–497; Pub. L. 106–569, title XII, §1231(a), Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–386, §8(a)(2), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–173, §§2(b), 3(a)(1)–(5), 8(a)(8), (9), Feb. 15, 2006, 119 Stat. 3602, 3605, 3611.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §2(b), (e), Feb. 15, 2006, 119 Stat. 3602, 3605, provided that, effective Apr. 1, 2006, paragraphs (1) and (3) of subsection (i) of this section are each amended by striking “$100,000” and inserting “the standard maximum deposit insurance amount (as determined under section 1821(a)(1) of this title)”.</i>
+
+<i>Pub. L. 109–173, §3(a)(1)–(5), (b), Feb. 15, 2006, 119 Stat. 3605, 3606, provided that, effective Jan. 1, 2007, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(3), by striking the third sentence and inserting the following: “Such reports of condition shall be the basis for the certified statements to be filed pursuant to subsection (c) of this section.”;</i>
+
+<i>(2) in subsection (b):</i>
+
+<i>(A) in paragraph (1), by striking “semiannual” in subparagraphs (B)(ii) and (C);</i>
+
+<i>(B) in paragraph (2), by striking “semiannual” in subparagraph (C), by striking subparagraphs (E), (F), and (G), and by redesignating subparagraph (H) as subparagraph (E); and</i>
+
+<i>(C) by striking paragraph (4) and by redesignating paragraphs (5), (6), and (7) as paragraphs (4), (5), and (6), respectively; and</i>
+
+<i>(3) in subsection (c), by striking “semiannual” in paragraphs (1)(A) and (2)(A) and by striking “semiannual period” and inserting “initial assessment period” in paragraph (3).</i>
+
+<i>Pub. L. 109–173, §8(a)(8), (9), (b), Feb. 15, 2006, 119 Stat. 3611, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (b)(1), by striking “deposit insurance fund” each place that term appears in subparagraph (C) and inserting “Deposit Insurance Fund” and by striking “each deposit insurance fund” in subparagraph (D) and inserting “the Deposit Insurance Fund”; and</i>
+
+<i>(2) in subsection (b)(5):</i>
+
+<i>(A) in introductory provisions, by striking “any such assessment” and inserting “any such assessment is necessary”;</i>
+
+<i>(B) in subparagraph (A), by striking “(A) is necessary—” and, in clause (ii), by striking “Bank Insurance Fund members” and inserting “insured depository institutions”;</i>
+
+<i>(C) by striking subparagraph (B);</i>
+
+<i>(D) by redesignating clauses (i), (ii), and (iii) as subparagraphs (A), (B), and (C), respectively, and realigning the margins; and</i>
+
+<i>(E) in subparagraph (C) (as so redesignated), by inserting “that” before “the Corporation” and by striking “; and” at the end and inserting a period.</i>
+
+<i>(3) in subsection (j)(7)(F), by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### References in Text
 
@@ -738,7 +774,7 @@ The Federal Reserve Act, referred to in subsec. (h), is act Dec. 23, 1913, ch. 6
 
 The Bank Holding Company Act of 1956, referred to in subsec. (j)(9)(E)(i), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-For effective date of the Change in Bank Control Act of 1978 \[title VI of Pub. L. 95–630\], referred to in subsec. (j)(14), see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
+For effective date of the Change in Bank Control Act of 1978 \[title VI of Pub. L. 95–630\], referred to in subsec.\(j)(14), see section 2101 of Pub. L. 95–630, set out as an Effective Date note under section 375b of this title.
 
 The National Housing Act, referred to in subsec. (m)(6) to (8), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of this title. Section 404 of the National Housing Act, is section 1727 of this title, as such section was in effect prior to repeal by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
@@ -802,7 +838,7 @@ Subsec. (j)(9)(B)(i). Pub. L. 104–208, §2226(2)(B), added cl. (i) and struck 
 
 Subsec. (j)(9)(B)(iii). Pub. L. 104–208, §2226(2)(C), substituted “foreign bank or any affiliate thereof” for “financial institution” in introductory provisions.
 
-Subsec. (j)(9)(C). Pub. L. 104–208, §2226(3), substituted “foreign bank or any affiliate thereof” for “financial institution or any of its affiliates” before “as principal” and for “financial institution or its affiliates” before “has a security interest”.
+Subsec. (j)(9)(C). Pub. L. 104–208, §2226(3), substituted “foreign bank or any affiliate thereof” for “financialinstitution or any of its affiliates” before “as principal” and for “financial institution or its affiliates” before “has a security interest”.
 
 Subsec. (j)(9)(D)(i). Pub. L. 104–208, §2226(4)(A), substituted “the foreign bank and all affiliates thereof” for “the financial institution and all affiliates of the institution” and “foreign bank or affiliate thereof” for “financial institution or any such affiliate”.
 
@@ -852,7 +888,7 @@ Subsec. (b)(2)(A)(iii)(I). Pub. L. 102–550, §931(b), amended subcl. (I) gener
 
 Subsec. (b)(6). Pub. L. 102–558, §303(b)(7), added par. (6). Pub. L. 102–550, §1603(a)(3), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
-Subsec. (b)(6)(D). Pub. L. 102–550, §1605(b)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “any liability of the insured depositoryinstitution which is not treated as an insured deposit pursuant to section 1821(a)(8) of this title.”
+Subsec. (b)(6)(D). Pub. L. 102–550, §1605(b)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: “any liability of the insured depository institution which is not treated as an insured deposit pursuant to section 1821(a)(8) of this title.”
 
 Subsec. (b)(7). Pub. L. 102–558, §303(b)(8), added par. (7). Pub. L. 102–550, §1605(a)(6), which contained an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
@@ -934,7 +970,7 @@ Subsec. (d)(4) to (7). Pub. L. 102–242, §233(c)(1), added pars. (4) and (5) a
 
 Subsec. (i). Pub. L. 102–242, §311(b)(3), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Except with respect to trust funds which are owned by a depositor referred to in paragraph (2) of section 1821(a) of this title, trust funds held by an insured depository institution in a fiduciary capacity whether held in its trust department or held or deposited in any other department of the fiduciary depository institution shall be insured in an amount not to exceed $100,000 for each trust estate, and when deposited by the fiduciary depository institution in another insured depository institution such trust fund shall be similarly insured to the fiduciary depository institution according to the trust estates represented. Notwithstanding any other provision of this chapter, such insurance shall be separate from and additional to that covering other deposits of the owners of such trust funds or the beneficiaries of such trust estates. The Board of Directors shall have power by regulation to prescribe the manner of reporting and of depositing such trust funds.”
 
-Subsec. (j)(9). Pub. L. 102–242, §205, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Whenever any insured depository institution makes a loan or loans, secured, or to be secured, by 25 per centum or more of the outstanding voting stock of an insured depository institution, the president or other chief executive officer of the lending bank shall promptly report such fact to the appropriate Federal banking agency of the bank whose stock secures theloan or loans upon obtaining knowledge of such loan or loans, except that no report need be made in those cases where the borrower has been the owner of record of the stock for a period of one year or more or where the stock is that of the newly organized bank prior to its opening.”
+Subsec. (j)(9). Pub. L. 102–242, §205, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Whenever any insured depository institution makes a loan or loans, secured, or to be secured, by 25 per centum or more of the outstanding voting stock of an insured depository institution, the president or other chief executive officer of the lending bank shall promptly report such fact to the appropriate Federal banking agency of the bank whose stock secures the loan or loans upon obtaining knowledge of such loan or loans, except that no report need be made in those cases where the borrower has been the owner of record of the stock for a period of one year or more or where the stock is that of the newly organized bank prior to its opening.”
 
 1990—Subsec. (b)(1)(A). Pub. L. 101–508, §2003(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
@@ -1076,7 +1112,7 @@ Subsec. (j)(15) to (16). Pub. L. 99–570, §1360(d), added par. (15) and redesi
 
 1982—Subsec. (a)(2). Pub. L. 97–320, §113(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(3). Pub. L. 97–320, §113(e), inserted the reporting requirement for each insured Federal savingsbank, added the Chairman of the Federal Home Loan Bank Board to the group designated to decide upon which dates the reports will be made, and struck out alternative provision that such decision would be made by a majority of such group.
+Subsec. (a)(3). Pub. L. 97–320, §113(e), inserted the reporting requirement for each insured Federal savings bank, added the Chairman of the Federal Home Loan Bank Board to the group designated to decide upon which dates the reports will be made, and struck out alternative provision that such decision would be made by a majority of such group.
 
 Subsec. (a)(6). Pub. L. 97–320, §113(f), inserted “, the Federal Home Loan Bank Board,” after “Comptroller of the Currency”.
 
@@ -1145,6 +1181,14 @@ Subsec. (g). Pub. L. 86–671, §3, substituted “made any such report of condi
 Subsec. (h). Pub. L. 86–671, §3, inserted “to make any report of condition under subsection (a) of this section or” before “to file”.
 
 Subsec. (i). Pub. L. 86–671, §3, substituted “in its trust department or held or deposited in any other department of the fiduciary bank” for “in its trust or deposited in any other department or in another bank” in first sentence and deleted proviso respecting deposit liability of insured bank in which trust funds are deposited rather than deposit liability of depositing fiduciary bank from second sentence.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 2(b) of Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. L. 109–173, set out as a note under section 1785 of this title.
+
+Pub. L. 109–173, §3(b), Feb. 15, 2006, 119 Stat. 3606, provided that: “This section \[amending this section and sections 1818, 1823, and 1834 of this title\] and the amendments made by this section shall take effect on the date that the final regulations required under section 2109(a)(5) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 20\] take effect \[Jan. 1, 2007, see 71 F.R. 69282\].”
+
+Amendment by section 8(a)(8), (9) of Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -1230,7 +1274,7 @@ For effective date of amendment by section 301(b) of Pub. L. 89–695, see secti
 
 #### Expiration of 1966 Amendment
 
-Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1813, 1818 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
+Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed section 401 of Pub. L. 89–695 which had provided that: “The provisions of titles I and II of this Act \[amending this section and sections 1464, 1730, 1813, 1818 to 1820 of this title, repealing section 77 of this title, and enacting provisions set out as notes under sections 1464, 1730, and 1813 of this title\] and any provisions of law enacted by said titles shall be effectiveonly during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act \[Oct. 16, 1966\] and each provision of law repealed by either of such titles is reenacted.”
 
 #### Effective Date of 1960 Amendment
 
@@ -1253,6 +1297,22 @@ Section 302(f) of Pub. L. 102–242 provided that: “To carry out the amendment
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Report to Congress on Refunds, Dividends, and Credits From Deposit Insurance Fund
+
+Pub. L. 109–173, §5, Feb. 15, 2006, 119 Stat. 3606, provided that:
+
+“(a)
+
+Submission.—Any determination under section 7(e)(2)(E) of the Federal Deposit Insurance Act \[12 U.S.C. 1817(e)(2)(E)\], as added by section 2107(a) of the Federal Deposit Insurance Reform Act of 2005 \[Pub. L. 109–171, title II, subtitle B, 120 Stat. 16\], shall be submitted to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, not later than 270 days after making such determination.
+
+“(b)
+
+Content.—The report submitted under subsection (a) shall include—
+
+&emsp;“(1) a detailed explanation for the determination; and
+
+&emsp;“(2) a discussion of the factors required to be considered under section 7(e)(2)(F) of the Federal Deposit Insurance Act, as added by section 2107(a) of the Federal Deposit Insurance Reform Act of 2005.”
 
 #### Special Assessment To Capitalize SAIF
 

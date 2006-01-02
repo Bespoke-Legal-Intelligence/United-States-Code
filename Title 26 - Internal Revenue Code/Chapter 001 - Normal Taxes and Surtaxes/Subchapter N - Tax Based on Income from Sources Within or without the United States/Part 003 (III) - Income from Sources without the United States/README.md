@@ -6,7 +6,7 @@
 | B. | Earned income of citizens or residents of United States. |
 | \[C. | Repealed.\] |
 | D. | Possessions of the United States. |
-| E. | Qualifying foreign trade income. |
+| \[E. | Repealed.\] |
 | F. | Controlled foreign corporations. |
 | \[G. | Repealed.\] <sup>1</sup> |
 
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title I, §101(b)(2), Oct. 22, 2004, 118 Stat. 1423, struck out item for subpart E “Qualifying foreign trade income”.
 
 2000—Pub. L. 106–519, §4(8), Nov. 15, 2000, 114 Stat. 2433, struck out item for subpart C “Taxation of foreign sales corporations”.
 
@@ -51,7 +53,7 @@ Pub. L. 94–455, title X, §§1052(c)(7), 1053(d)(5), Oct. 4, 1976, 90 Stat. 16
 - [Subpart B - Earned Income of Citizens or Residents of United States](Subpart%20B%20-%20Earned%20Income%20of%20Citizens%20or%20Residents%20of%20United%20States/README.md)
 - [Subpart C - Repealed](Subpart%20C%20-%20Repealed/README.md)
 - [Subpart D - Possessions of the United States](Subpart%20D%20-%20Possessions%20of%20the%20United%20States/README.md)
-- [Subpart E - Qualifying Foreign Trade Income](Subpart%20E%20-%20Qualifying%20Foreign%20Trade%20Income/README.md)
+- [Subpart E - Repealed](Subpart%20E%20-%20Repealed/README.md)
 - [Subpart F - Controlled Foreign Corporations](Subpart%20F%20-%20Controlled%20Foreign%20Corporations/README.md)
 - [Subpart G - Export Trade Corporations](Subpart%20G%20-%20Export%20Trade%20Corporations/README.md)
 - [Subpart H - Repealed](Subpart%20H%20-%20Repealed/README.md)

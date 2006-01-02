@@ -142,7 +142,7 @@ A top-heavy plan shall not be treated as meeting the requirement of subsection (
 
 #### (f) Coordination where employer has 2 or more plans
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section where the employer has 2 or more plans including (but not limited to) regulations to prevent inappropriate omissions or required duplication of minimum benefits or contributions.
 
 #### (g) Top-heavy plan defined
 
@@ -276,7 +276,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) a 1-percent owner of the employer having an annual compensation from the employer of more than $150,000.
 
-> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. in <sup>1</sup> the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
+> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. In the case of plan years beginningafter December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
 
 #### (B) Percentage owners
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 #### (4) Treatment of employees covered by collective bargaining agreements
 
-&emsp;The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees covered by an agreement which the Secretary of Laborfinds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
+&emsp;The requirements of subsections (b), (c), and (d) shall not apply with respect to any employee included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and 1 or more employers if there is evidence that retirement benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.
 
 #### (5) Treatment of beneficiaries
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a simplified employee pension, at the election of the employer, paragraphs (1)(A)(ii) and (2)(B) of subsection (g) shall be applied by taking into account aggregate employer contributions in lieu of the aggregate of the accounts of employees.
 
-(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102; Pub. L. 107–147, title IV, §411(k), Mar. 9, 2002, 116 Stat. 47.)
+(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102; Pub. L. 107–147, title IV, §411(k), Mar. 9, 2002, 116 Stat. 47; Pub. L. 108–311, title IV, §408(a)(16), Oct. 4, 2004, 118 Stat. 1192.)
 
 #### Amendment of Section
 
@@ -351,6 +351,8 @@ The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug.
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (i)(1)(A). Pub. L. 108–311 substituted “In the case of plan years” for “in the case of plan years” in concluding provisions.
 
 2002—Subsec. (c)(1)(C)(iii). Pub. L. 107–147, §411(k)(1), substituted “Exception for plan under which no key employee (or former key employee) benefits for plan year” for “Exception for frozen plan” in heading.
 
@@ -474,7 +476,7 @@ Section 524(b)(2) of Pub. L. 98–369 provided that: “The amendment made by th
 
 Section 524(c)(2) of Pub. L. 98–369 provided that: “The amendment made by this subsection \[amending this section\] shall apply to plan years beginning after December 31, 1984.”
 
-Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity andFiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date
 
@@ -495,10 +497,4 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45A, 72, 79, 125, 280F, 401, 408, 414, 415, 419A, 420, 469, 1396 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

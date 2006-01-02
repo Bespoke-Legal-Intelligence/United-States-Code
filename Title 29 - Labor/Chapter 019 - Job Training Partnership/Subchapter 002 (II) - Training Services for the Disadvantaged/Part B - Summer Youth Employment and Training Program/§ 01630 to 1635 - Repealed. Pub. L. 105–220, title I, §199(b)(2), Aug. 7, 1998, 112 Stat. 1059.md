@@ -12,7 +12,7 @@ Section 1632, Pub. L. 97–300, title II, §253, as added Pub. L. 102–367, tit
 
 A prior section 1632, Pub. L. 97–300, title II, §253, formerly §252, Oct. 13, 1982, 96 Stat. 1364; renumbered §253 and amended Pub. L. 99–496, §8(a)(1), (b), Oct. 16, 1986, 100 Stat. 1263, related to use of funds for summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 
-Section 1633, Pub. L. 97–300, title II, §254, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1062; amended Pub. L. 103–227, title X, §1016(a)(2)(C), Mar. 31,1994, 108 Stat. 268; Pub. L. 106–78, title VII, §752(b)(12), Oct. 22, 1999, 113 Stat. 1169, contained limitations relating to conduct of Summer Youth Employment and Training Program.
+Section 1633, Pub. L. 97–300, title II, §254, as added Pub. L. 102–367, title II, §204, Sept. 7, 1992, 106 Stat. 1062; amended Pub. L. 103–227, title X, §1016(a)(2)(C), Mar. 31, 1994, 108 Stat. 268; Pub. L. 106–78, title VII, §752(b)(12), Oct. 22, 1999, 113 Stat. 1169, contained limitations relating to conduct of Summer Youth Employment and Training Program.
 
 A prior section 1633, Pub. L. 97–300, title II, §254, formerly §253, Oct. 13, 1982, 96 Stat. 1364; renumbered §254 and amended Pub. L. 99–496, §§8(a)(1), 9, Oct. 16, 1986, 100 Stat. 1263, 1264, related to limitations on summer youth employment and training programs, prior to repeal by Pub. L. 102–367, title II, §201, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1052, 1103, effective July 1, 1993.
 

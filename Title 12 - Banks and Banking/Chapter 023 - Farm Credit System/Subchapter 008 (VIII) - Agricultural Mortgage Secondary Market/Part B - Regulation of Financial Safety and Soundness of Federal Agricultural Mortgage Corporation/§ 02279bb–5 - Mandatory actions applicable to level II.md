@@ -6,7 +6,7 @@ If the Corporation is classified as within level II, the Corporation shall, with
 
 #### (b) Restriction on dividends
 
-If the Corporation is classified as within level II, the Corporation may not make any paymentof dividends that would result in the Corporation being reclassified as within level III or IV.
+If the Corporation is classified as within level II, the Corporation may not make any payment of dividends that would result in the Corporation being reclassified as within level III or IV.
 
 #### (c) Reclassification from level II to level III
 

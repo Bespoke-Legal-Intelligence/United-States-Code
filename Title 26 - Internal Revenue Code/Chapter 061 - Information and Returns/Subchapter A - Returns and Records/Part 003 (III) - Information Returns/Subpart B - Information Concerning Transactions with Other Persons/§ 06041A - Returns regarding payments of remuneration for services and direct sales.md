@@ -20,7 +20,7 @@ If—
 
 &emsp;&emsp;(B) the aggregate amount of the sales to such buyer during such calendar year is $5,000 or more,
 
-> &emsp;then such person shall make a return, according to the forms or regulations prescribed bythe Secretary, setting forth the name and address of the buyer to whom such sales are made.
+> &emsp;then such person shall make a return, according to the forms or regulations prescribed by the Secretary, setting forth the name and address of the buyer to whom such sales are made.
 
 #### (2) Definitions
 
@@ -32,7 +32,7 @@ If—
 
 #### (B) Deposit-commission basis
 
-&emsp;&emsp;A transaction is on a deposit-commission basis if the buyer performing the services is entitled to retain part or all of a purchase deposit paid by the consumer in connection with the transaction as part or all of the buyer's remuneration for the services.
+&emsp;&emsp;A transaction is on a deposit-commission basis if the buyer performing the services is entitled to retain part or all of a purchasedeposit paid by the consumer in connection with the transaction as part or all of the buyer's remuneration for the services.
 
 #### (c) Certain services not included
 
@@ -109,8 +109,4 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 #### Effective Date
 
 Section 312(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section and amending section 6678 of this title\] shall apply to payments and sales made after December 31, 1982.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3406, 3509, 6721, 6722, 6724 of this title.
 

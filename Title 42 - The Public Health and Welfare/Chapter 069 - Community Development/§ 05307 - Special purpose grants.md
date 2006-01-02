@@ -22,7 +22,7 @@
 
 #### (2) Treatment of grants
 
-&emsp;Any grants made under this section shall be in addition to any other grants that may bemade under this chapter to the same entities for the same purposes.
+&emsp;Any grants made under this section shall be in addition to any other grants that may be made under this chapter to the same entities for the same purposes.
 
 #### (b) Permissible uses of funds
 
@@ -66,7 +66,7 @@ Amounts set aside for use under subsection (b) of this section in any fiscal yea
 
 #### (f) Criteria for selection of recipients
 
-Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretaryshall publish together with any notification of availability of amounts under this section.
+Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.
 
 (Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I, §107, title III, §302(b), Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850; Pub. L. 106–569, title I, §102(f), Dec. 27, 2000, 114 Stat. 2947; Pub. L. 108–186, title V, §501(f), Dec. 16, 2003, 117 Stat. 2697.)
 
@@ -154,7 +154,7 @@ Subsec. (d). Pub. L. 97–35 substituted provisions relating to assurances requi
 
 Subsec. (d). Pub. L. 96–399, §117(b), inserted “under this chapter” after “Indian tribe”.
 
-1978—Subsec. (a)(8). Pub. L. 95–557 substituted “The Secretary may also provide, directly or through contracts, technical assistance under this paragraph to such governmental units, or to a group designated by such a governmental unit for the purpose of assisting that governmental unit to carry out its Community Development Program” for “The Secretary may also provide such technical assistance under this paragraph directly or through contracts”.
+1978—Subsec. (a)(8). Pub. L. 95–557 substituted “The Secretary may also provide, directly or through contracts, technical assistance under this paragraph tosuch governmental units, or to a group designated by such a governmental unit for the purpose of assisting that governmental unit to carry out its Community Development Program” for “The Secretary may also provide such technical assistance under this paragraph directly or through contracts”.
 
 1977—Subsec. (a). Pub. L. 95–128, §107(1), (2), extended provisions to fiscal years 1978 through 1980 and increased rate to 3 from 2 per centum.
 
@@ -206,7 +206,7 @@ Pub. L. 102–550, title VIII, §801(c)(3), Oct. 28, 1992, 106 Stat. 3844, provi
 
 #### Community Outreach Partnership
 
-Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grantsto public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
+Section 851 of Pub. L. 102–550 directed Secretary to carry out a 5-year demonstration program to determine feasibility of facilitating partnerships between institutions of higher education and communities to solve urban problems through research, outreach, and exchange of information, established program of grants to public and private nonprofit institutions of higher education to assist in establishing or carrying out such activities and to establish and operate Community Outreach Partnership Centers which were to focus on problems associated with housing, economic development, neighborhood revitalization, infrastructure, health care, job training, education, crime prevention, planning, community organizing, and other areas deemed appropriate by the Secretary, further provided for establishment of national advisory council to assist Secretary in these areas and a national clearinghouse to disseminate information resulting from these activities, and further provided for appropriations for the demonstration program as well as for an annual report to Congress by the Secretary.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

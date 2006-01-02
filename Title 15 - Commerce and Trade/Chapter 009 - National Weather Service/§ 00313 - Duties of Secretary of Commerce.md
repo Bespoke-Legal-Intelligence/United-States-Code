@@ -62,7 +62,7 @@ Establishment of Program.—(1) The Secretary of Defense and the Secretary of Co
 
 “(b)
 
-Responsibilities.—(1) The Secretary of Defense shall have the responsibility for maintaining, flying, and funding tropical cyclone reconnaissance aircraft to accomplish the program established under this section and to transfer the data to the Secretary of Commerce. Program responsibility may not be transferred to any other Federal department or agency, including the Coast Guard, without the agreement and approval of the Secretary of Defense, the Secretary of Commerce, and the head of any other Federal agency or department to which the responsibility is transferred.
+Responsibilities.—(1) The Secretary of Defense shall have the responsibility for maintaining, flying, and funding tropical cyclone reconnaissance aircraft toaccomplish the program established under this section and to transfer the data to the Secretary of Commerce. Program responsibility may not be transferred to any other Federal department or agency, including the Coast Guard, without the agreement and approval of the Secretary of Defense, the Secretary of Commerce, and the head of any other Federal agency or department to which the responsibility is transferred.
 
 “(2) The Secretary of Commerce shall have the responsibility to provide funding for data gathering and research by remote sensing, ground sensing, research aircraft, and other technologies necessary to accomplish the program established under this section.
 
@@ -80,7 +80,7 @@ Pub. L. 102–567, title I, §108, Oct. 29, 1992, 106 Stat. 4276, provided that:
 
 “(a)
 
-Establishment.—The Secretary of Commerce, in cooperation with the Federal Coordinating Council forScience, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
+Establishment.—The Secretary of Commerce, in cooperation with the Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, shall establish a United States Weather Research Program to—
 
 &emsp;“(1) increase benefits to the Nation from the substantial investment in modernizing the public weather warning and forecast system in the United States;
 
@@ -238,7 +238,7 @@ Special Circumstances.—The Secretary may not close or relocate any field offic
 
 “(f)
 
-Liaison Officer.—The Secretary may not close, consolidate, automate, or relocate a field office until arrangements have been made to maintain for a period of at least 2 years at least one person in the service area to act as a liaison officer who—
+Liaison Officer.—The Secretary may not close, consolidate, automate, or relocate a field office untilarrangements have been made to maintain for a period of at least 2 years at least one person in the service area to act as a liaison officer who—
 
 &emsp;“(1) provides timely information regarding the activities of the National Weather Service which may affect service to the community, including modernization and restructuring; and
 
@@ -264,7 +264,7 @@ Membership and Terms.—(1) The Committee shall consist of—
 
 “(c)
 
-Duties.—(1) The Committee may review any proposed certification under section 706 for which the Secretary has provided a notice of intent to certify in the Plan, and should review such a proposed certification if there is a significant possibility of degradation of service within the affected service area. Upon the request of the Committee, the Secretary shall make available tothe Committee the supporting documents developed by the Secretary in connection with the proposed certification. The Committee may prepare and submit to the Secretary, prior to publication of the proposed certification, a report which evaluates the proposed certification on the basis of the modernization criteria and with respect to the requirement that there be no degradation of service.
+Duties.—(1) The Committee may review any proposed certification under section 706 for which the Secretary has provided a notice of intent to certify in the Plan, and should review such a proposed certification if there is a significant possibility of degradation of service within the affected service area. Upon the request of the Committee, the Secretary shall make available to the Committee the supporting documents developed by the Secretary in connection with the proposed certification. The Committee may prepare and submit to the Secretary, prior to publication of the proposed certification, a report which evaluates the proposed certification on the basis of the modernization criteria and with respect to the requirement that there be no degradation of service.
 
 “(2) The Committee shall advise the Congress and the Secretary on—
 
@@ -316,7 +316,7 @@ Pub. L. 101–595, title III, §320, Nov. 16, 1990, 104 Stat. 2989, provided tha
 
 #### National Weather Service 10-Year Strategic Plan
 
-Pub. L. 100–685, title IV, §407, Nov. 17, 1988, 102 Stat. 4098, as amended by Pub. L. 102–567, title VII, §709(1), Oct. 29, 1992, 106 Stat. 4309, directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changes necessary to fulfill objectives of weather and flood warning service improvements.
+Pub. L. 100–685, title IV, §407, Nov. 17, 1988, 102 Stat. 4098, as amended by Pub. L. 102–567, title VII, §709(1), Oct. 29, 1992, 106 Stat. 4309, directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changesnecessary to fulfill objectives of weather and flood warning service improvements.
 
 #### Degradation-of-Weather-Services Standard for Providing Services
 
@@ -336,7 +336,7 @@ Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651, provided tha
 
 &emsp;“(4) efforts should be made, involving user groups, weather and climate information providers, and Federal and State governments, to expand the use of weather and climate information in agriculture and silviculture.
 
-“(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this informationand among private providers of this information, to improve use of this information.”
+“(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this information and among private providers of this information, to improve use of this information.”
 
 #### National Weather Service; Congressional Approval Requisite To Sale, Lease, Transfer, or Dismantling of Agency
 

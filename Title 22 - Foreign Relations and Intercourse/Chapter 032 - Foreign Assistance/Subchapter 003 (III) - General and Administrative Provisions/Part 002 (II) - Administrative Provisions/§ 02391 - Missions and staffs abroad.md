@@ -52,7 +52,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Flag and General Officers
 
-Pub. L. 94–11, title I, §100, Mar. 26, 1975, 89 Stat. 20, provided in part that: “The total number of flag and general officers of the United States Armed Forces assigned or detailed to military assistance advisory groups, military missions, or similar organizations, or performing duties primarily with respect to the Military Assistance Program and the Foreign MilitarySales Program shall not exceed twenty after May 1, 1975.”
+Pub. L. 94–11, title I, §100, Mar. 26, 1975, 89 Stat. 20, provided in part that: “The total number of flag and general officers of the United States Armed Forces assigned or detailed to military assistance advisory groups, military missions, or similar organizations, or performing duties primarily with respect to the Military Assistance Program and the Foreign Military Sales Program shall not exceed twenty after May 1, 1975.”
 
 #### Approval of Secretary of State
 

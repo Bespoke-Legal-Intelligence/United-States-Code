@@ -22,7 +22,7 @@ Based on title 18, U.S.C., 1940 ed., §§118, 254 (Mar. 4, 1909, ch. 321, §62, 
 
 This section consolidates sections 118 and 254 with changes in phraseology and substance necessary to effect the consolidation.
 
-Also the words “Bureau of Animal Industry of the Department of Agriculture” appearing in section 118 of title 18, U.S.C., 1940 ed., were inserted in enumeration of Federal officers and employees in section 1114 of this title.
+Also the words “Bureau of Animal Industry of the Department of Agriculture” appearing in section 118 oftitle 18, U.S.C., 1940 ed., were inserted in enumeration of Federal officers and employees in section 1114 of this title.
 
 The punishment provision of section 254 of title 18, U.S.C., 1940 ed., was adopted as the latest expression of Congressional intent. This consolidation eliminates a serious incongruity in punishment and application.
 

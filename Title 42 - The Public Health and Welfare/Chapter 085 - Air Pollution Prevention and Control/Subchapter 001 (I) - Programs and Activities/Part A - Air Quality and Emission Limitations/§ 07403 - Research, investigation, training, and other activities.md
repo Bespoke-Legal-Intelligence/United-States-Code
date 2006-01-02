@@ -10,7 +10,7 @@ The Administrator shall establish a national research and development program fo
 
 &emsp;(3) conduct investigations and research and make surveys concerning any specific problem of air pollution in cooperation with any air pollution control agency with a view to recommending a solution of such problem, if he is requested to do so by such agency or if, in his judgment, such problem may affect any community or communities in a State other than that in which the source of the matter causing or contributing to the pollution is located;
 
-&emsp;(4) establish technical advisory committees composed of recognized experts in various aspects of air pollution to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research, and
+&emsp;(4) establish technical advisory committees composed of recognized experts in various aspects of air pollution to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research; and
 
 &emsp;(5) conduct and promote coordination and acceleration of training for individuals relating to the causes, effects, extent, prevention, and control of air pollution.
 
@@ -44,7 +44,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(2) Establishment of a national network to monitor, collect, and compile data with quantification of certainty in the status and trends of air emissions, deposition, air quality, surface water quality, forest condition, and visibility impairment, and to ensure the comparability of air quality data collected in different States and obtained from different nations.
 
-&emsp;(3) Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increase understanding of the sources of ozone percursors,<sup>1</sup> ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
+&emsp;(3) Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increaseunderstanding of the sources of ozone percursors,<sup>1</sup> ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
 
 &emsp;&emsp;(A) improve the ability to inventory emissions of volatile organic compounds and nitrogen oxides that contribute to urban air pollution, including anthropogenic and natural sources;
 
@@ -72,7 +72,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(C) Preparation of environmental health assessments for each of the hazardous air pollutants referred to in subparagraph (B), beginning 6 months after the first meeting of the Interagency Task Force and to be completed within 96 months thereafter. No fewer than 24 assessments shall be completed and published annually. The assessments shall be prepared in accordance with guidelines developed by the Administrator in consultation with the Interagency Task Force and the Science Advisory Board of the Environmental Protection Agency. Each such assessment shall include—
 
-&emsp;&emsp;(i) an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure whichpose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
+&emsp;&emsp;(i) an examination, summary, and evaluation of available toxicological and epidemiological information for the pollutant to ascertain the levels of human exposure which pose a significant threat to human health and the associated acute, subacute, and chronic adverse health effects;
 
 &emsp;&emsp;(ii) a determination of gaps in available information related to human health effects and exposure levels; and
 
@@ -88,7 +88,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 &emsp;(3) Development of improved atmospheric dispersion models and monitoring systems and networks for evaluating and quantifying exposure to and effects of multiple environmental stresses associated with air pollution.
 
-&emsp;(4) Evaluation of the effects of air pollution on water quality, including assessments of the short-term and long-term ecological effects of acid deposition and other atmospherically derived pollutants on surface water (including wetlands and estuaries) and groundwater.
+&emsp;(4) Evaluation of the effects of air pollution on water quality, including assessments of the short-term and long-term ecological effects ofacid deposition and other atmospherically derived pollutants on surface water (including wetlands and estuaries) and groundwater.
 
 &emsp;(5) Evaluation of the effects of air pollution on forests, materials, crops, biological diversity, soils, and other terrestrial and aquatic systems exposed to air pollutants.
 
@@ -130,7 +130,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
-&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, includingend-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
+&emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
 &emsp;(2) Improvements in nonregulatory strategies and technologies for reducing air emissions from area sources.
 
@@ -148,7 +148,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 (3) The Director shall assure that such programs shall not conflict with research undertaken by the Administrator.
 
-(4) There are authorized to be appropriated to the National Institute of Environmental Health Sciences such sums as may be necessary to carry out the purposes of this subsection.
+(4) There are authorized to be appropriated to the National Institute of Environmental HealthSciences such sums as may be necessary to carry out the purposes of this subsection.
 
 #### (i) Coordination of research
 
@@ -206,7 +206,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 #### (k) Air pollution conferences
 
-If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
+If, in the judgment of the Administrator, an air pollution problem of substantial significancemay result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
 
 (July 14, 1955, ch. 360, title I, §103, formerly §3, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 394; renumbered §103 and amended Pub. L. 89–272, title I, §§101(3), 103, Oct. 20, 1965, 79 Stat. 992, 996; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 486; Pub. L. 91–604, §§2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, 84 Stat. 1676, 1689, 1710, 1713; Pub. L. 95–95, title I, §101(a), (b), Aug. 7, 1977, 91 Stat. 686, 687; Pub. L. 101–549, title IX, §901(a)–(c), Nov. 15, 1990, 104 Stat. 2700–2703.)
 
@@ -238,7 +238,7 @@ Subsecs. (g) to (k). Pub. L. 101–549, §901(c), added subsecs. (g) to (k).
 
 1977—Subsec. (a). Pub. L. 95–95, §101(b), struck out reference to “training” in par. (1) and added par. (5).
 
-Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit privateagencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
+Subsec. (b). Pub. L. 95–95, §101(a), struck out par. (5) which provided for training and training grants to personnel of air pollution control agencies and other persons with suitable qualifications, redesignated pars. (6), (7), and (8) as (5), (6), and (7), respectively, and, following par. (7) as so redesignated, inserted provisions directing the Administrator, in carrying out subsec. (a), to provide training for, and make training grants to, personnel of air pollution control agencies and other persons with suitable qualifications and to make grants to such agencies, to other public or nonprofit private agencies, institutions, and organizations for the purposes stated in subsec. (a)(5) and allowing reasonable fees to be charged for such training provided to persons other than personnel of air pollution control agencies but requiring that such training be provided to such personnel of air pollution control agencies without charge.
 
 1970—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
 
@@ -256,7 +256,7 @@ Subsec. (f). Pub. L. 91–604, §2(a), added subsec. (f).
 
 Subsec. (c). Pub. L. 90–148 struck out provision for promulgation of criteria in the case of particular air pollution agents present in the air in certain quantities reflecting the latest scientific knowledge and allowing for availability and revision and provided for recommendation by Secretary of air quality criteria.
 
-Subsec. (e). Pub. L. 90–148 substituted references to subsections (d), (e), and (f) of section 7415 of this title for references to subsections (c), (d), and (e) of section 7415 of this title in provision for admission of advisory findings and recommendations together with the record of the conference and made such findings and recommendations part of the proceedings of the conference, not merely part of the record of proceedings.
+Subsec. (e). Pub. L. 90–148 substituted references to subsections (d), (e), and (f) of section 7415 of this titlefor references to subsections (c), (d), and (e) of section 7415 of this title in provision for admission of advisory findings and recommendations together with the record of the conference and made such findings and recommendations part of the proceedings of the conference, not merely part of the record of proceedings.
 
 1965—Subsec. (a)(5). Pub. L. 89–272, §103(3), added par. (5).
 
@@ -308,7 +308,7 @@ Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, provi
 
 #### National Acid Lakes Registry
 
-Section 405 of Pub. L. 101–549 provided that: “The Administrator of the Environmental Protection Agencyshall create a National Acid Lakes Registry that shall list, to the extent practical, all lakes that are known to be acidified due to acid deposition, and shall publish such list within one year of the enactment of this Act \[Nov. 15, 1990\]. Lakes shall be added to the registry as they become acidic or as data becomes available to show they are acidic. Lakes shall be deleted from the registry as they become nonacidic.”
+Section 405 of Pub. L. 101–549 provided that: “The Administrator of the Environmental Protection Agency shall create a National Acid Lakes Registry that shall list, to the extent practical, all lakes that are known to be acidified due to acid deposition, and shall publish such list within one year of the enactment of this Act \[Nov. 15, 1990\]. Lakes shall be added to the registry as they become acidic or as data becomes available to show they are acidic. Lakes shall be deleted from the registry as they become nonacidic.”
 
 #### Assessment of International Air Pollution Control Technologies
 
@@ -326,7 +326,7 @@ Section 901(g) of Pub. L. 101–549 provided that:
 
 &emsp;“(C) the occurrence and effects of episodic acidification, particularly with respect to high elevation watersheds.
 
-“(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate research and utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
+“(2) The Administrator of the Environmental Protection Agency shall analyze data generated from the studies conducted under paragraph (1), data from the Western Lakes Survey, and other appropriate researchand utilize predictive modeling techniques that take into account the unique geographic, climatological, and atmospheric conditions which exist in the western United States to determine the potential occurrence and effects of acid deposition due to any projected increases in the emission of sulfur dioxide and nitrogen oxides in that part of the United States located west of the Mississippi River. The Administrator shall include the results of the project conducted under this paragraph in the reports issued to Congress under paragraph (1).”
 
 #### Consultation With Committee on Science of House of Representatives
 

@@ -34,7 +34,7 @@
 
 &emsp;(C) a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>1</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
 
-(6) Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)), a private counsel performing legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
+(6) Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)), a private counselperforming legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
 
 (7) Any counterclaim filed in any action to recover indebtedness owed the United States which is brought on behalf of the United States by private counsel retained under this subsection may not be asserted unless the counterclaim is served directly on the Attorney General or the United States Attorney for the judicial district in which, or embracing the place in which, the action is brought. Such service shall be made in accordance with the rules of procedure of the court in which the action is brought.
 
@@ -60,7 +60,7 @@
 
 (g) In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
-(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983,97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 97–452, §1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, §1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, §6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, §4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, §31001(c)(1), (<i>l</i>), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, §604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 Historical and Revision Notes
 

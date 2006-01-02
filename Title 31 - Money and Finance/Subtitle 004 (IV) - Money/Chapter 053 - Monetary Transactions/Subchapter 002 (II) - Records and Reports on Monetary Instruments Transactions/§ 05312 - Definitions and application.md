@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(ii) is an Indian gaming operation conducted under or pursuant to the Indian Gaming Regulatory Act other than an operation which is limited to class I gaming (as defined in section 4(6) of such Act);
 
-&emsp;&emsp;(Y) any business or agency which engages in any activity which the Secretary of the Treasury determines, by regulation, to be an activity which is similar to, related to, or a substitute for any activity in which any business described in this paragraph is authorized to engage; or
+&emsp;&emsp;(Y) any business or agency which engages in any activity which the Secretary of the Treasury determines, by regulation, to be an activity which is similar to, related to, or a substitute for any activity in which anybusiness described in this paragraph is authorized to engage; or
 
 &emsp;&emsp;(Z) any other business designated by the Secretary whose cash transactions have a high degree of usefulness in criminal, tax, or regulatory matters.
 
@@ -94,7 +94,7 @@ Certain institutions included in definition.—The term “financial institution
 
 &emsp;&emsp;(A) <sup>2</sup> Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325,title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335; Pub. L. 108–458, title VI, §§6202(g), 6203(b), Dec. 17, 2004, 118 Stat. 3746.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335; Pub. L. 108–458, title VI, §§6202(g), 6203(b), Dec. 17, 2004, 118 Stat. 3746.)
 
 Historical and Revision Notes
 
@@ -152,7 +152,7 @@ Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary wo
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25.For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 

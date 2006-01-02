@@ -20,7 +20,7 @@ The Secretary may not enter into an insurance agreement described in subsection 
 
 &emsp;(B) require that any payment on a loan expected to be necessary to make a payment of principal and interest on the bonds be due not less than 60 days prior to the date of the payment on the bonds for which such loan payment is expected to be needed;
 
-&emsp;(4) prior to the making of any loan, provide for a credit review of the institution receiving the loan and assure the Secretary that, on thebasis of such credit review, it is reasonable to anticipate that the institution receiving the loan will be able to repay the loan in a timely manner pursuant to the terms thereof;
+&emsp;(4) prior to the making of any loan, provide for a credit review of the institution receiving the loan and assure the Secretary that, on the basis of such credit review, it is reasonable to anticipate that the institution receiving the loan will be able to repay the loan in a timely manner pursuant to the terms thereof;
 
 &emsp;(5) provide in each loan agreement with respect to a loan that, if a delinquency on such loan results in a funding under the insurance agreement, the institution obligated on such loan shall repay the Secretary, upon terms to be determined by the Secretary, for such funding;
 

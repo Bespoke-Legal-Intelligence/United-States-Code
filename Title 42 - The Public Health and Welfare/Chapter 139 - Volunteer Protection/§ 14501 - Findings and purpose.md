@@ -8,7 +8,7 @@ The Congress finds and declares that—
 
 &emsp;(2) as a result, many nonprofit public and private organizations and governmental entities, including voluntary associations, social service agencies, educational institutions, and other civic programs, have been adversely affected by the withdrawal of volunteers from boards of directors and service in other capacities;
 
-&emsp;(3) the contribution of these programs to their communities is thereby diminished, resulting in fewer and higher cost programs thanwould be obtainable if volunteers were participating;
+&emsp;(3) the contribution of these programs to their communities is thereby diminished, resulting in fewer and higher cost programs than would be obtainable if volunteers were participating;
 
 &emsp;(4) because Federal funds are expended on useful and cost-effective social service programs, many of which are national in scope, depend heavily on volunteer participation, and represent some of the most successful public-private partnerships, protection of volunteerism through clarification and limitation of the personal liability risks assumed by the volunteer in connection with such participation is an appropriate subject for Federal legislation;
 

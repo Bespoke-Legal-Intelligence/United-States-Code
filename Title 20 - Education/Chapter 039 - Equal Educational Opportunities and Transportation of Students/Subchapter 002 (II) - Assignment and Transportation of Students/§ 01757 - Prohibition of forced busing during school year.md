@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the forced transportation of elementary and secondary school students in implementation of the constitutional requirement for thedesegregation of such schools is controversial and difficult under the best planning and administration; and
+&emsp;(1) the forced transportation of elementary and secondary school students in implementation of the constitutional requirement for the desegregation of such schools is controversial and difficult under the best planning and administration; and
 
 &emsp;(2) the forced transportation of elementary and secondary school students after the commencement of an academic school year is educationally unsound and administratively inefficient.
 
@@ -14,7 +14,7 @@ Notwithstanding any other provisions of law, no order of a court, department, or
 
 #### (c) “Academic school year” defined
 
-For the purpose of this section, the term “academic school year” means, pursuant to regulations promulgated by the Secretary, the customary beginning of classes for the school year at an elementary or secondary school of a local educational agency for a school year that occurs not more often than once in any twelve-month period.
+For the purpose of this section, the term “academic school year” means, pursuant to regulations promulgated by the Secretary, the customary beginning of classes for the school yearat an elementary or secondary school of a local educational agency for a school year that occurs not more often than once in any twelve-month period.
 
 #### (d) Orders subject to provisions of section
 

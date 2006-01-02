@@ -52,7 +52,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (C) Definition of capital gain dividend
 
-&emsp;&emsp;For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the company as a capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year; except that, if there is an increase in the excess described in subparagraph (A) of this paragraph for such year which results from a determination (as defined in section 860(e)),such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the company (including capital gains dividends paid after the close of the taxable year described in section 855) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net long-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net long-term capital loss shall be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the regulated investment company.
+&emsp;&emsp;For purposes of this part, a capital gain dividend is any dividend, or part thereof, which is designated by the company as a capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year; except that, if there is an increase in the excess described in subparagraph (A) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination. If the aggregate amount so designated with respect to a taxable year of the company (including capital gains dividends paid after the close of the taxable year described in section 855) is greater than the net capital gain of the taxable year, the portion of each distribution which shall be a capital gain dividend shall be only that proportion of the amount so designated which such net capital gain bears to the aggregate amount so designated. For purposes of this subparagraph, the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net long-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net long-term capital loss shall be treated as arising on the 1st day of the next taxableyear. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing the taxable income of the regulated investment company.
 
 #### (D) Treatment by shareholders of undistributed capital gains
 
@@ -174,7 +174,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;Any distribution which is made in order to comply with the requirements of subsection (a)(2)(B)—
 
-&emsp;&emsp;(A) shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from earnings and profits which, but for the distribution, would result in a failure to meet such requirements (and allocated to such earnings on a first-in, first-out basis), and
+&emsp;&emsp;(A) shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from earnings and profits which, but for thedistribution, would result in a failure to meet such requirements (and allocated to such earnings on a first-in, first-out basis), and
 
 &emsp;&emsp;(B) to the extent treated under subparagraph (A) as made from accumulated earnings and profits, shall not be treated as a distribution for purposes of subsection (b)(2)(D) and section 855.
 
@@ -242,7 +242,7 @@ In the case of a unit investment trust—
 
 #### (4) Provision not to apply in the case of fraud
 
-&emsp;The provisions of this subsection shall not apply if the determination contains a findingthat the failure to meet any requirement of this part was due to fraud with intent to evade tax.
+&emsp;The provisions of this subsection shall not apply if the determination contains a finding that the failure to meet any requirement of this part was due to fraud with intent to evade tax.
 
 #### (5) Determination
 
@@ -404,7 +404,7 @@ Subsec. (a)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(1)(V), struck out provision relating to the computation of the normal tax under section 11 of this title.
 
-Subsec. (b)(2)(A). Pub. L. 94–455, §1901(b)(33)(I), substituted “the amount of the net capital gain, if any” for “the excess, if any, of the net long-term capital gain over the short-term capital loss”.
+Subsec. (b)(2)(A). Pub. L. 94–455, §1901(b)(33)(I), substituted “the amount of the net capital gain, if any”for “the excess, if any, of the net long-term capital gain over the short-term capital loss”.
 
 Subsec. (b)(2)(D). Pub. L. 94–455, §2137(b), inserted reference to exempt-interest dividends.
 
@@ -484,7 +484,7 @@ Amendment by sections 1006(<i>l</i>)(1)(A), (3), (4), (7), (8), (10), 1011B(h)(4
 
 Amendment by section 311(b)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 311(c) of Pub. L. 99–514, set out as a note under section 1201 of this title.
 
-Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not incomplete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
 
@@ -585,10 +585,6 @@ Section 2(b) of act July 11, 1956, provided that: “The amendment made by this 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 443, 774, 853, 854, 855, 860, 891, 1201, 4982 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

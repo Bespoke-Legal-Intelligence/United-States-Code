@@ -8,7 +8,7 @@
 
 &emsp;(3) was officially recommended for appointment or promotion to a commissioned grade but was unable to accept the promotion or appointment because of death in line of duty.
 
-(b) A commission issued under subsection (a) shall issue as of the date of the appointment,recommendation, or official recommendation, as the case may be, and the member's name shall be carried on the records of the military or executive department concerned as if he had served in the grade, and branch if any, in which posthumously commissioned, from the date of the appointment, recommendation, or official recommendation to the date of his death.
+(b) A commission issued under subsection (a) shall issue as of the date of the appointment, recommendation, or official recommendation, as the case may be, and the member's name shall be carried on the records of the military or executive department concerned as if he had served in the grade, and branch if any, in which posthumously commissioned, from the date of the appointment, recommendation, or official recommendation to the date of his death.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 115; Pub. L. 106–398, §1 \[\[div. A\], title V, §505\], Oct. 30, 2000, 114 Stat. 1654, 1654A–102.)
 
@@ -72,15 +72,15 @@ In subsection (b), the words “if any” are substituted for words “of the se
 
 #### Amendments
 
-2000—Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(a)\], struck out “and the recommendation for whose appointment or promotion was approved by the Secretary concerned” after “commissioned grade”.
+2000—Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(a)\], struck out “and the recommendation forwhose appointment or promotion was approved by the Secretary concerned” after “commissioned grade”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(b)\], substituted “official recommendation” for “approval” in two places.
+
+#### Delegation of Functions
+
+For assignment of functions of President under subsec. (a) of this section, see sections 1(a) and 2(a) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 
 #### Determination of Date of Death Under Missing Persons Act
 
 Section 5 of act July 28, 1942, ch. 528, as added July 17, 1953, ch. 220, §1(e), 67 Stat. 177, provided that for purposes of this chapter, in any case where the date of death is established under the Missing Persons Act, as amended, the date of death is the date of receipt by the head of the department concerned of evidence that the person is dead, or the date the finding of death is made under section 5 of that Act, prior to repeal by Pub. L. 89–718, §12(b), Nov. 2, 1966, 80 Stat. 1117. See section 1524 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1524 of this title.
 

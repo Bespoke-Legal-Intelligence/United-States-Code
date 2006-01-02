@@ -60,7 +60,7 @@ For the purposes of this section:
 
 &emsp;(B) specify a business plan for accomplishing one or more of the activities specified in subsection (a)(1) of this section;
 
-&emsp;(C) specify a strategy for achieving greater long term private sector support, especially in cooperation with a neighborhood developmentfunding organization, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the cooperation of a neighborhood development funding organization if the eligible neighborhood development organization—
+&emsp;(C) specify a strategy for achieving greater long term private sector support, especially in cooperation with a neighborhood development funding organization, except that an eligible neighborhood development organization shall be deemed to have the full benefit of the cooperation of a neighborhood development funding organization if the eligible neighborhood development organization—
 
 &emsp;&emsp;(i) is located in an area described in subsection (a)(2)(A)(iv) of this section that does not contain a neighborhood development funding organization; or
 
@@ -114,7 +114,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 &emsp;(B) shall utilize, to the fullest extent practicable, relevant research previously conducted by Federal agencies, State and local governments, and private organizations and persons;
 
-&emsp;(C) shall disseminate information about the kinds of activities, forms of organizations, andfund-raising mechanisms associated with successful programs; and
+&emsp;(C) shall disseminate information about the kinds of activities, forms of organizations, and fund-raising mechanisms associated with successful programs; and
 
 &emsp;(D) may use not more than 5 per centum of the funds appropriated for administrative or other expenses in connection with the program.
 
@@ -182,7 +182,7 @@ Subsec. (e)(6)(D), (E). Pub. L. 102–550, §832(b)(5)(B)–(D), redesignated su
 
 Subsec. (f). Pub. L. 102–550, §832(b)(6), added subsec. (f) and struck out former subsec. (f) which read as follows: “The Secretary shall submit to the Congress—
 
-&emsp;“(1) not later than three months after the end of each fiscal year in which payments are made underthis section, an interim report containing a summary of the activities carried out under this section during such fiscal year and any preliminary findings or conclusions drawn from the demonstration program; and
+&emsp;“(1) not later than three months after the end of each fiscal year in which payments are made under this section, an interim report containing a summary of the activities carried out under this section during such fiscal year and any preliminary findings or conclusions drawn from the demonstration program; and
 
 &emsp;“(2) not later than March 15 of the year after the end of the last fiscal year in which such payments are made, a final report containing a summary of all activities carried out under this section, the evaluation required in subsection (e)(6)(D) of this section and any findings, conclusions, or recommendations for legislation drawn from the demonstration program.”
 
@@ -194,7 +194,7 @@ Subsec. (h). Pub. L. 102–550, §832(b)(7), added subsec. (h).
 
 1988—Subsec. (e)(3). Pub. L. 100–242, §525, substituted “under this section” for “under this Act”.
 
-Subsec. (g). Pub. L. 100–242, §521, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, there are authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
+Subsec. (g). Pub. L. 100–242, §521, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For purposes of carrying out this section, thereare authorized to be appropriated not to exceed $2,000,000 for each of the fiscal years 1984 and 1985.”
 
 1984—Subsec. (b)(3)(A), (B). Pub. L. 98–479, §101(b)(2), substituted “subsection (a)(1)” for “subsection (a)(4)” wherever appearing.
 

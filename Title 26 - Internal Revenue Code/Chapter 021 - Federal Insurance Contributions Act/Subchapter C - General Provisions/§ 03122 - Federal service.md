@@ -10,7 +10,7 @@ The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 7
 
 #### Amendments
 
-1994—Pub. L. 103–296 inserted after first sentence “In the case of the taxes imposed by this chapter with respect to service performed in the employ of an international organization pursuant to a transfer to which the provisions of section 3121(y) are applicable, the determination of the amount of remuneration for suchservice, and the return and payment of the taxes imposed by this chapter, shall be made by the head of the Federal agency from which the transfer was made.”
+1994—Pub. L. 103–296 inserted after first sentence “In the case of the taxes imposed by this chapter with respect to service performed in the employ of an international organization pursuant to a transfer to which the provisions of section 3121(y) are applicable, the determination of the amount of remuneration for such service, and the return and payment of the taxes imposed by this chapter, shall be made by the head of the Federal agency from which the transfer was made.”
 
 1993—Pub. L. 103–66 substituted “contribution and benefit base limitation” for “applicable contribution base limitation”.
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–5 applicable only with respect to remuneration paid after December 1971, see section 203(c) of Pub. L. 92–5, set out as a note under section 409 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 92–5 applicable only with respect to remuneration paid after December 1971, seesection 203(c) of Pub. L. 92–5, set out as a note under section 409 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1968 Amendment
 
@@ -131,8 +131,4 @@ Section 202(a)(3) of Pub. L. 87–293, cited as a credit to this section, was re
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6205, 6413 of this title; title 42 sections 405, 430.
 

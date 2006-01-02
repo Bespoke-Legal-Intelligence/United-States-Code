@@ -1,6 +1,6 @@
 ### §2354. Contracts: indemnification provisions
 
-(a) With the approval of the Secretary of the military department concerned, any contract ofa military department for research or development, or both, may provide that the United States will indemnify the contractor against either or both of the following, but only to the extent that they arise out of the direct performance of the contract and to the extent not compensated by insurance or otherwise:
+(a) With the approval of the Secretary of the military department concerned, any contract of a military department for research or development, or both, may provide that the United States will indemnify the contractor against either or both of the following, but only to the extent that they arise out of the direct performance of the contract and to the extent not compensated by insurance or otherwise:
 
 &emsp;(1) Claims (including reasonable expenses of litigation or settlement) by third persons, including employees of the contractor, for death, bodily injury, or loss of or damage to property, from a risk that the contract defines as unusually hazardous.
 
@@ -89,8 +89,4 @@ In subsection (b), the words “made under subsection (a), that provides for ind
 In subsection (c), the words “by the Government”, “authority of”, and “for such purpose” are omitted as surplusage.
 
 In subsection (d), the words “by the Congress” and “the making of” are omitted as surplusage. The words “or both” are inserted to conform to subsection (a).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 284, 1887 of this title; title 42 sections 241, 284, 1870, 1887.
 

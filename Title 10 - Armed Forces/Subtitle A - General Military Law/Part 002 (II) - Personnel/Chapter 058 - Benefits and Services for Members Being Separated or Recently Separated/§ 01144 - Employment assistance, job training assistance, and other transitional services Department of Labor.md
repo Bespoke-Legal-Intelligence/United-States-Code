@@ -22,7 +22,7 @@ Elements of Program.—In establishing and carrying out a program under this sec
 
 &emsp;(5) Provide information and other assistance to such members in their efforts to obtain loans and grants from the Small Business Administration and other Federal, State, and local agencies.
 
-&emsp;(6) Provide information about the geographic areas in which such members will relocate after separation from the armed forces, including, to the degree possible, information about employment opportunities, the labor market, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
+&emsp;(6) Provide information about the geographic areas in which such members will relocate after separation from the armed forces, including, to the degree possible, information about employment opportunities, the labormarket, and the cost of living in those areas (including, to the extent practicable, the cost and availability of housing, child care, education, and medical and dental care).
 
 &emsp;(7) Work with military and veterans’ service organizations and other appropriate organizations in promoting and publicizing job fairs for such members.
 
@@ -103,8 +103,4 @@ Section 502(c) of Pub. L. 101–510 provided that:
 “(2) Not later than one year after the date of the enactment of this Act, the Secretary of Labor shall submit to Congress a report containing a detailed evaluation of the program carried out under that section to the date of the submission of the report.
 
 “(3) The reports under paragraphs (1) and (2) shall be prepared in consultation with the Secretary of Defense and the Secretary of Labor.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1142 of this title; title 38 section 4113.
 

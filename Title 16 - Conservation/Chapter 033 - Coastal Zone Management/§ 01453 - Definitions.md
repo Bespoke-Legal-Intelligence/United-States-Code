@@ -28,7 +28,7 @@ For purposes of this chapter—
 
 > &emsp;The term includes, but is not limited to (i) electric generating plants; (ii) petroleum refineries and associated facilities; (iii) gasification plants; (iv) facilities used for the transportation, conversion, treatment, transfer, or storage of liquefied natural gas; (v) uranium enrichment or nuclear fuel processing facilities; (vi) oil and gas facilities, including platforms, assembly plants, storage depots, tank farms, crew and supply bases, and refining complexes; (vii) facilities including deepwater ports, for the transfer of petroleum; (viii) pipelines and transmission facilities; and (ix) terminals which are associated with any of the foregoing.
 
-&emsp;(6a) The term “enforceable policy” means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a Stateexerts control over private and public land and water uses and natural resources in the coastal zone.
+&emsp;(6a) The term “enforceable policy” means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
 
 &emsp;(7) The term “estuary” means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
 
@@ -50,7 +50,7 @@ For purposes of this chapter—
 
 &emsp;(16) The term “Secretary” means the Secretary of Commerce.
 
-&emsp;(17) The term “special area management plan” means a comprehensive plan providing for natural resource protection and reasonable coastal-dependent economic growth containing a detailed and comprehensive statement of policies; standards and criteria to guide public and private uses of lands and waters; and mechanisms for timely implementation in specific geographic areas within the coastal zone.
+&emsp;(17) The term “special area management plan” means a comprehensive plan providing for natural resource protection and reasonablecoastal-dependent economic growth containing a detailed and comprehensive statement of policies; standards and criteria to guide public and private uses of lands and waters; and mechanisms for timely implementation in specific geographic areas within the coastal zone.
 
 &emsp;(18) The term “water use” means a use, activity, or project conducted in or on waters within the coastal zone.
 
@@ -130,7 +130,7 @@ Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, provided:
 
 WHEREAS the Government of the United States of America desires to facilitate the wise development and use of the oceans consistent with international law;
 
-WHEREAS international law recognizes that, in a zone beyond its territory and adjacent to its territorial sea, known as the Exclusive Economic Zone, a coastal State may assert certain sovereign rights over natural resources and related jurisdiction; and
+WHEREAS international law recognizes that, in a zone beyond its territory and adjacent to its territorialsea, known as the Exclusive Economic Zone, a coastal State may assert certain sovereign rights over natural resources and related jurisdiction; and
 
 WHEREAS the establishment of an Exclusive Economic Zone by the United States will advance the development of ocean resources and promote the protection of the marine environment, while not affecting other lawful uses of the zone, including the freedoms of navigation and overflight, by other States;
 

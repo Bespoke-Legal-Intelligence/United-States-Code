@@ -34,11 +34,11 @@
 
 &emsp;(B) One-third of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, law, health policy, economics, and management.
 
-(4) Members of the advisory council who are officers or employees of the United States shall not receive any compensation for service on theadvisory council. The other members of the advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule.
+(4) Members of the advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The other members of the advisory council shall receive, for each day (including traveltime) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule.
 
 #### (c) Term of office; vacancy; reappointment
 
-The term of office of an appointed member of the advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
+The term of office of an appointed member of the advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to anadvisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
 
 #### (d) Chairman; selection; term of office
 
@@ -94,7 +94,7 @@ Subsec. (h). Pub. L. 103–43, §1501(2)(C), substituted “the Center” for �
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out inthe Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

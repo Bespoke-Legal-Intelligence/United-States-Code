@@ -2,7 +2,7 @@
 
 (a)
 
-Ten-Year Contract Period.—The Secretary of Defense may enter into a contract for a period of up to 10 years for the purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products for the support of a United States national security program or a United States space program.
+Ten-Year Contract Period.—The Secretary of Defense may enter into a contract for a period of up to 10 years for the purchase ofdinitrogen tetroxide, hydrazine, and hydrazine-related products for the support of a United States national security program or a United States space program.
 
 (b)
 

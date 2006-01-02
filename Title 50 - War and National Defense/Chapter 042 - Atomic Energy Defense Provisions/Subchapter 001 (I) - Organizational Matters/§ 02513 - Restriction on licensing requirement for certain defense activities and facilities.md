@@ -6,7 +6,7 @@ None of the funds authorized to be appropriated by the Department of Energy Nati
 
 #### References in Text
 
-The Department of Energy National Security and Military Applications of Nuclear Energy AuthorizationAct of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which enacted this section and section 2762 of this title. For complete classification of this Act to the Code, see Tables.
+The Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which enacted this section and section 2762 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

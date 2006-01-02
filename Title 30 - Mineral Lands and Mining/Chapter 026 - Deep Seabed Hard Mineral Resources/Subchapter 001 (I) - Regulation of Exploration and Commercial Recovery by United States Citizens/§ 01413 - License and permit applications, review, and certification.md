@@ -66,7 +66,7 @@ The Administrator shall provide by regulation for full consultation and cooperat
 
 #### (f) Review period
 
-All time periods for the review of an application for issuance or transfer of a license or permit established pursuant to this section shall, tothe maximum extent practicable, run concurrently from the date on which the application is received by the Administrator.
+All time periods for the review of an application for issuance or transfer of a license or permit established pursuant to this section shall, to the maximum extent practicable, run concurrently from the date on which the application is received by the Administrator.
 
 #### (g) Application certification
 

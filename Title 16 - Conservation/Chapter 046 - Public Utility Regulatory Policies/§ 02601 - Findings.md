@@ -18,7 +18,7 @@ The Congress finds that the protection of the public health, safety, and welfare
 
 #### References in Text
 
-This Act, referred to in par. (6), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. Title VI of this Act enacted sections 824a–4 and 2645 of this title and sections 717x to 717z of Title 15, Commerce and Trade, amended section 717f of Title 15 and sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and enacted provisions set out as a note under section 2621 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in par. (6), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. Title VI of this Act enacted sections 824a–4 and 2645 of this title, section 918c of Title 7, Agriculture, and sections 717x to 717z of Title 15, Commerce and Trade, amended section 717f of Title 15 and sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and enacted provisions set out as a note under section 2621 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Codification
 
@@ -26,5 +26,5 @@ This section was not enacted as part of title I of Pub. L. 95–617 which compri
 
 #### Short Title
 
-Section 1 of Pub. L. 95–617 provided that: “This Act \[enacting this chapter, and sections 823a, 824a–1 to 824a–4, 824i to 824k, 825q–1, and 2701 to 2708 of this title, sections 717x to 717z and 3201 to 3211 of Title 15, Commerce and Trade, section 6808 of Title 42, The Public Health and Welfare, and sections 2001 to 2012 of Title 43, Public Lands, amending sections 796, 824, 824a, 824d, and 825d of this title, section 717f of Title 15, sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and sections 6801 to 6807 of Title 42, and enacting provisions set out as notes under sections 824, 824a, 824d, 825d, and 2621 of this title\] may be cited as the ‘Public Utility Regulatory Policies Act of 1978’.”
+Section 1 of Pub. L. 95–617 provided that: “This Act \[enacting this chapter, and sections 823a, 824a–1 to 824a–4, 824i to 824k, 825q–1, and 2701 to 2708 of this title, section 918c of Title 7, Agriculture, sections 717x to 717z and 3201 to 3211 of Title 15, Commerce and Trade, section 6808 of Title 42, The Public Health and Welfare, and sections 2001 to 2012 of Title 43, Public Lands, amending sections 796, 824, 824a, 824d, and 825d of this title, section 717f of Title 15, sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and sections 6801 to 6807 of Title 42, and enacting provisions set out as notes under sections 824, 824a, 824d, 825d, and 2621 of this title\] may be cited as the ‘Public Utility Regulatory Policies Act of 1978’.”
 

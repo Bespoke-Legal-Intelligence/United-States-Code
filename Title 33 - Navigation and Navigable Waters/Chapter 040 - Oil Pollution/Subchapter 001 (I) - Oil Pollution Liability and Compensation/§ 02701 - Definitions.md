@@ -6,7 +6,7 @@ For the purposes of this Act, the term—
 
 &emsp;(2) “barrel” means 42 United States gallons at 60 degrees fahrenheit;
 
-&emsp;(3) “claim” means a request, made in writing for a sum certain, for compensation for damages or removal costs resulting from an incident;
+&emsp;(3) “claim” means a request, made in writing for a sum certain, for compensation fordamages or removal costs resulting from an incident;
 
 &emsp;(4) “claimant” means any person or government who presents a claim for compensation under this subchapter;
 
@@ -204,7 +204,7 @@ Abandonment.—In the case of an abandoned vessel, onshore facility, deepwater p
 
 &emsp;(44) “security interest” has the meaning provided in section 101(20)(G)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(vi)).
 
-(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071.)
+(Pub. L. 101–380, title I, §1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, §307(a), Nov.13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, §703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071.)
 
 #### References in Text
 

@@ -72,7 +72,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;In the case of an MA organization that offers an MA regional plan in an MA region in 2006 or 2007, the organization shall notify the Secretary, before such date in the succeeding year as the Secretary specifies, of—
 
-&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
+&emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrolleesunder the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
 &emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatable integrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
 
@@ -140,7 +140,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;&emsp;(i) that an MA organization offering an MA regional plan shall provide the Secretary with such information as the Secretary determines is necessary to carry out this subsection; and
 
-&emsp;&emsp;&emsp;(ii) that, pursuant to section 1395w–27(d)(2)(B) of this title, the Secretary has the right to inspect and audit any books and records of the organization that pertain to the information regarding costs provided to the Secretary under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) that, pursuant to section 1395w–27(d)(2)(B) of this title, the Secretary has the right to inspect and audit any books and records of the organizationthat pertain to the information regarding costs provided to the Secretary under paragraph (1)(B).
 
 #### (B) Restriction on use of information
 
@@ -156,7 +156,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;(B) with respect to each other State in such region in which it does not meet requirements, it demonstrates to the satisfaction of the Secretary that it has filed the necessary application to meet such requirements,
 
-> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as theSecretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
+> &emsp;the Secretary may waive such requirement with respect to each State described in subparagraph (B) for such period of time as the Secretary determines appropriate for the timely processing of such an application by the State (and, if such application is denied, through the end of such plan year as the Secretary determines appropriate to provide for a transition).
 
 #### (2) Selection of appropriate State
 
@@ -242,7 +242,7 @@ An MA regional plan shall include the following:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) andshall be available to all MA regional plans offered in such region and year. Such amount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
+&emsp;&emsp;&emsp;The increased amount under this subparagraph for an MA regional plan in an MA region for a year shall be an amount, determined by the Secretary, based on the bid submitted for such plan (or plans) and shall be available to all MA regional plans offered in such region and year. Such amount may be based on the mean, mode, or median, or other measure of such bids and may vary from region to region. The Secretary may not limit the number of plans or bids in a region.
 
 #### (ii) Multi-year funding
 
@@ -298,7 +298,7 @@ An MA regional plan shall include the following:
 
 #### (iii) Percentage enrollment in MA regional plans below national average
 
-&emsp;&emsp;&emsp;For the previous year, the Secretary determines that the average percentage of MA eligible individuals residing in the region who are enrolled in MA regional plans is less than the average percentage of such individuals in the United States enrolled in such plans.
+&emsp;&emsp;&emsp;For the previous year, the Secretary determines that the average percentage ofMA eligible individuals residing in the region who are enrolled in MA regional plans is less than the average percentage of such individuals in the United States enrolled in such plans.
 
 #### (D) Application
 
@@ -362,7 +362,7 @@ An MA regional plan shall include the following:
 
 #### (1) Computation for regions
 
-&emsp;For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e) of this section, the term “MA region-specific non-drug monthly benchmark amount” means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
+&emsp;For purposes of section 1395w–23(j)(2) of this title and this section, subject to subsection (e) of this section, the term “MA region-specific non-drug monthly benchmark amount” means, with respect to an MA region for a month in a year, the sum of the 2 components described in paragraph (2) for the region and year. The Secretary shall compute such benchmark amount for each MA region before thebeginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2006).
 
 #### (2) 2 components
 
@@ -462,7 +462,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amount that is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
 
-&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, thehospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
+&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, the hospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
 
 #### (2) Payment amounts
 

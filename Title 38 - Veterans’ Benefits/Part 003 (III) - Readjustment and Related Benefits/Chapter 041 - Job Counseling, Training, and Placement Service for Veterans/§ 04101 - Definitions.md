@@ -26,7 +26,7 @@ For the purposes of this chapter—
 
 &emsp;(9) The term “intensive services” means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §5(a)(1)(A), (c)(1), Nov. 7, 2002, 116 Stat. 2044, 2045.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat.1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §5(a)(1)(A), (c)(1), Nov. 7, 2002, 116 Stat. 2044, 2045.)
 
 #### References in Text
 

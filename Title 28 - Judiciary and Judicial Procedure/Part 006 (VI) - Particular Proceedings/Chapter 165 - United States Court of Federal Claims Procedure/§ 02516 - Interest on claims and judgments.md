@@ -12,7 +12,7 @@ I741948
 
 Act
 
-Based on title 28, U.S.C., 1940 ed., §284 and section 226 of title 31, U.S.C., 1940 ed., Money and Finance (Sept.30, 1890, ch. 1126, §1, 26 Stat. 537; Mar. 3, 1911, ch. 231, §177, 36 Stat. 1141; Nov. 23, 1921, ch. 136, §1324(b), 42 Stat. 316; June 2, 1924, ch. 234, §1020, 43 Stat. 346; Feb. 13, 1925, ch. 229, §3(c), 43 Stat. 939; Feb. 26, 1926, ch. 27, §§1117, 1200, 44 Stat. 119, 125; May 29, 1928, ch. 852, §615(a), 45 Stat. 877; June 22, 1936, ch. 690, §808, 49 Stat. 1746).
+Based on title 28, U.S.C., 1940 ed., §284 and section 226 of title 31, U.S.C., 1940 ed., Money and Finance (Sept. 30, 1890, ch. 1126, §1, 26 Stat. 537; Mar. 3, 1911, ch. 231, §177, 36 Stat. 1141; Nov. 23, 1921, ch. 136, §1324(b), 42 Stat. 316; June 2, 1924, ch. 234, §1020, 43 Stat. 346; Feb. 13, 1925, ch. 229, §3(c), 43 Stat. 939; Feb. 26, 1926, ch. 27, §§1117, 1200, 44 Stat. 119, 125; May 29, 1928, ch. 852, §615(a), 45 Stat. 877; June 22, 1936, ch. 690, §808, 49 Stat. 1746).
 
 Subdivision (b) of section 284 of title 28, U.S.C., 1940 ed., was omitted as covered by section 3771 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Such omission required the exception in subdivision (a) of such section 284, reading: “except as provided in subdivision (b)”, to be changed to read: “or Act of Congress expressly providing for payment thereof.”
 

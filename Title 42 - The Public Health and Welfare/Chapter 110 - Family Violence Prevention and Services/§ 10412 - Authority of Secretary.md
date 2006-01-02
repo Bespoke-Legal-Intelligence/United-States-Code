@@ -22,7 +22,7 @@ Nothing in this chapter shall be construed to supersede the application of State
 
 Of the amount appropriated under section 10409(a) of this title for each fiscal year (and not reserved under section 10409(a)(2) of this title), not more than 2.5 percent shall be used by the Secretary for evaluation, monitoring, and other administrative costs under this chapter.
 
-(Pub. L. 98–457, title III, §312, Oct. 9, 1984, 98 Stat. 1764; Pub. L. 102–295, title III, §318, May 28, 1992, 106 Stat. 208; Pub. L. 108–36, title IV, §408, June 25, 2003, 117 Stat. 827.)
+(Pub. L. 98–457, title III, §312, Oct. 9, 1984, 98 Stat. 1764; Pub. L. 102–295, title III, §318, May 28,1992, 106 Stat. 208; Pub. L. 108–36, title IV, §408, June 25, 2003, 117 Stat. 827.)
 
 #### Codification
 

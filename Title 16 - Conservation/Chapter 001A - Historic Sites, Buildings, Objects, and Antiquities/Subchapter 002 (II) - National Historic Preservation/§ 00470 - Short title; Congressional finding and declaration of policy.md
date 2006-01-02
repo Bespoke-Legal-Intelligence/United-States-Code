@@ -74,7 +74,7 @@ Sec. 3. <i>Responsibilities of the Secretary of the Interior</i>. The Secretary 
 
 (f) advise Federal agencies in the evaluation, identification, preservation, improvement, restoration and maintenance of historic properties.
 
-(g) review and evaluate the plans of transferees of surplus Federal properties transferred for historic monument purposes to assure that the historic character of such properties is preserved in rehabilitation, restoration, improvement, maintenance and repair of such properties.
+(g) review and evaluate the plans of transferees of surplus Federal properties transferred for historicmonument purposes to assure that the historic character of such properties is preserved in rehabilitation, restoration, improvement, maintenance and repair of such properties.
 
 (h) review and comment upon Federal agency procedures submitted pursuant to section 2(e) of this order.
 

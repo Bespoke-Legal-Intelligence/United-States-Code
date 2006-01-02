@@ -40,7 +40,7 @@ There is established in the Multinational Species Conservation Fund a separate a
 
 #### (4) Credits to Fund
 
-&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
+&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held inthe Fund shall be credited to and form a part of the Fund.
 
 #### (d) Transfers of amounts
 

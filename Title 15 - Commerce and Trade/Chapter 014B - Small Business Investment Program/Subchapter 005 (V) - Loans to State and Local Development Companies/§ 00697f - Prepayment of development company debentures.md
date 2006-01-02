@@ -4,7 +4,7 @@
 
 #### (1) Prepayment authorized
 
-&emsp;Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepaysuch debenture in accordance with the provisions of this section.
+&emsp;Subject to the requirements set forth in subsection (b) of this section, an issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Administration under this chapter may, at the election of the borrower (in the case of a loan under section 697 of this title) or the issuer (in the case of a small business investment company) and with the approval of the Administration, prepay such debenture in accordance with the provisions of this section.
 
 #### (2) Procedure
 
@@ -82,7 +82,7 @@ No fees or penalties other than those specified in this section may be imposed o
 
 #### (A) In general
 
-&emsp;&emsp;The Administration shall use certified mail and other reasonable means to notify each eligible borrower of the prepaymentprogram provided in this subchapter. Each preliminary notice shall specify the range and dollar amount of repurchase premiums which could be required of that borrower in order to participate in the program. In carrying out this program, the Administration shall provide a period of not less than 45 days following the receipt of such notice by the borrower during which the borrower must notify the Administration of the borrower's intent to participate in the program. The Administration shall require that a borrower who gives notice of its intent to participate to make an earnest money deposit of $1,000 which shall not be refundable but which shall be credited toward the final repurchase premium.
+&emsp;&emsp;The Administration shall use certified mail and other reasonable means to notify each eligible borrower of the prepayment program provided in this subchapter. Each preliminary notice shall specify the range and dollar amount of repurchase premiums which could be required of that borrower in order to participate in the program. In carrying out this program, the Administration shall provide a period of not less than 45 days following the receipt of such notice by the borrower during which the borrower must notify the Administration of the borrower's intent to participate in the program. The Administration shall require that a borrower who gives notice of its intent to participate to make an earnest money deposit of $1,000 which shall not be refundable but which shall be credited toward the final repurchase premium.
 
 #### (B) “Borrower” defined
 

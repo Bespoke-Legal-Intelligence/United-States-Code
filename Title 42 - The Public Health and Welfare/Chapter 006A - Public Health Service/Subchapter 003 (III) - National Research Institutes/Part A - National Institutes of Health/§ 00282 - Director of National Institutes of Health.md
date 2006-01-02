@@ -220,9 +220,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Collaboration and Report
 
-Pub. L. 105–115, title I, §113(b), Nov. 21, 1997, 111 Stat. 2312, directed
-
-the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Commissioner of Food and Drugs to collaborate to determine the feasibility of including device investigations within the scope of the data bank under subsec. (j) of this section, with the Secretary to report to Congress,not later than two years after Nov. 21, 1997, on the public health need, if any, for inclusion of device investigations within the scope of the data bank under subsec. (j), and on the adverse impact, if any, on device innovation and research in the United States if information relating to such device investigations was required to be publicly disclosed.
+Pub. L. 105–115, title I, §113(b), Nov. 21, 1997, 111 Stat. 2312, directed the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Commissioner of Food and Drugs to collaborate to determine the feasibility of including device investigations within the scope of the data bank under subsec. (j) of this section, with the Secretary to report to Congress, not later than two years after Nov. 21, 1997, on the public health need, if any, for inclusion of device investigations within the scope of the data bank under subsec. (j), and on the adverse impact, if any, on device innovation and research in the United States if information relating to such device investigations was required to be publicly disclosed.
 
 #### Chronic Fatigue Syndrome; Experts and Research Representatives on Advisory Committees and Boards
 

@@ -68,11 +68,33 @@ Service by mail under this section shall be sufficient if there is proof of atte
 
 (2) Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §239, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–587.)
+#### (e) Certification of compliance with restrictions on disclosure
+
+#### (1) In general
+
+&emsp;In cases where an enforcement action leading to a removal proceeding was taken against an alien at any of the locations specified in paragraph (2), the Notice to Appear shall include a statement that the provisions of section 1367 of this title have been complied with.
+
+#### (2) Locations
+
+&emsp;The locations specified in this paragraph are as follows:
+
+&emsp;&emsp;(A) At a domestic violence shelter, a rape crisis center, supervised visitation center, family justice center, a victim services, or victim services provider, or a community-based organization.
+
+&emsp;&emsp;(B) At a courthouse (or in connection with that appearance of the alien at a courthouse) if the alien is appearing in connection with a protection order case, child custody case, or other civil or criminal case relating to domestic violence, sexual assault, trafficking, or stalking in which the alien has been battered or subject to extreme cruelty or if the alien is described in subparagraph (T) or (V) of section 1101(a)(15) of this title.
+
+(June 27, 1952, ch. 477, title II, ch. 4, §239, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–587; amended Pub. L. 109–162, title VIII, §825(c)(1), Jan. 5, 2006, 119 Stat. 3065.)
 
 #### Prior Provisions
 
 A prior section 1229, act June 27, 1952, ch. 477, title II, ch. 4, §239, 66 Stat. 203, as amended, which related to designation of ports of entry for aliens arriving by aircraft, was renumbered section 234 of act June 27, 1952, by Pub. L. 104–208, div. C, title III, §304(a)(1), Sept. 30, 1996, 110 Stat. 3009–587, and was transferred to section 1224 of this title.
+
+#### Amendments
+
+2006—Subsec. (e). Pub. L. 109–162 added subsec. (e).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–162, title VIII, §825(c)(2), Jan. 5, 2006, 119 Stat. 3065, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date that is 30 days after the date of the enactment of this Act \[Jan. 5, 2006\] and shall apply to apprehensions occurring on or after such date.”
 
 #### Effective Date
 

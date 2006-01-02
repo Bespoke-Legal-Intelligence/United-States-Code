@@ -83,23 +83,23 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 13,000 | 873 | 795 | 323&nbsp;&nbsp; |
 | 14,000 | 939 | 848 | 332&nbsp;&nbsp; |
 | 15,000 | 1,005 | 898 | 341&nbsp;&nbsp; |
-| 16,000 | 1,067 | 948 | 350&nbsp;&nbsp; |
+| 16,000 | 1,067 | 948 | 350   |
 | 17,000 | 1,126 | 998 | 359&nbsp;&nbsp; |
 | 18,000 | 1,185 | 1,048 | 368&nbsp;&nbsp; |
 | 19,000 | 1,235 | 1,098 | 377&nbsp;&nbsp; |
 | 20,000 | 1,283 | 1,148 | 380\. |
 
-(2) Of the total number of members of the Naval Reserve who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of lieutenant commander, commander, and captain may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
+(2) Of the total number of members of the Navy Reserve who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of lieutenant commander, commander, and captain may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
 
 &nbsp;
 
-| Total number of members of Naval Reserve serving on full-time reserve component duty: | Number of officers who may be serving in the grade of: |  |  |
+| Total number of members of Navy Reserve serving on full-time reserve component duty: | Number of officers who may be serving in the grade of: |  |  |
 | :--- | :---: | :---: | ---: |
 | Lieutenant commander | Commander | Captain |  |
 | 10,000 | 807 | 447 | 141&nbsp;&nbsp; |
 | 11,000 | 867 | 467 | 153&nbsp;&nbsp; |
 | 12,000 | 924 | 485 | 163&nbsp;&nbsp; |
-| 13,000 | 980 | 503 | 173   |
+| 13,000 | 980 | 503 | 173&nbsp;&nbsp; |
 | 14,000 | 1,035 | 521 | 183&nbsp;&nbsp; |
 | 15,000 | 1,088 | 538 | 193&nbsp;&nbsp; |
 | 16,000 | 1,142 | 555 | 203&nbsp;&nbsp; |
@@ -132,13 +132,17 @@ Full-Time Reserve Component Duty Defined.—In this section, the term “full-ti
 
 &emsp;(1) Active duty described in sections 10211, 10302, 10303, 10304, 10305, 12310, or 12402 of this title.
 
-&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title 32.
+&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title 32, except for duty under section 115(b)(1)(B) and (C) of this title and section 115(i)(9) of this title.
 
 &emsp;(3) Active duty described in section 708 of title 32.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### Amendments
+
+2006—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in introductory provisions and table.
+
+2004—Subsec. (e)(2). Pub. L. 108–375 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Full-time National Guard duty (other than for training) under section 502(f) of title 32.”
 
 2001—Subsec. (a). Pub. L. 107–107 inserted heading and amended text of subsec. (a) generally. Prior to amendment, text consisted of table setting out maximum number of reserve officers of the Army, Air Force, and Marine Corps who may be on active duty or full-time National Guard duty in each of the grades of major, lieutenant colonel, and colonel, and of the Navy who may be on active duty in each of the grades of lieutenant commander, commander, and captain.
 
@@ -150,7 +154,7 @@ Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) 
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
-2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(a)\], amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,227 to 3,316, in grade of Lieutenant Colonel or Commander from 1,611 to 1,759, and in grade of Colonelor Navy Captain from 471 to 529, and in the Air Force in grade of Major or Lieutenant Commander from 860 to 948, in grade of Lieutenant Colonel or Commander from 777 to 852, and in grade of Colonel or Navy Captain from 297 to 317.
+2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(a)\], amended table generally, increasing the fiscal year limitation on number of reserve officers in the Army in grade of Major or Lieutenant Commander from 3,227 to 3,316, in grade of Lieutenant Colonel or Commander from 1,611 to 1,759, and in grade of Colonel or Navy Captain from 471 to 529, and in the Air Force in grade of Major or Lieutenant Commander from 860 to 948, in grade of Lieutenant Colonel or Commander from 777 to 852, and in grade of Colonel or Navy Captain from 297 to 317.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(b)\], added subsec. (c).
 
@@ -221,8 +225,4 @@ Amendment by Pub. L. 98–525 effective Oct. 1, 1984, see section 413(c) of Pub.
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–94 effective Oct. 1, 1983, see section 503(c) of Pub. L. 98–94, set out as a note under section 517 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12012, 14304, 14311 of this title; title 32 section 112.
 

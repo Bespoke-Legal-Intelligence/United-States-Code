@@ -26,7 +26,3 @@ If no proceeding under section 6226 is begun with respect to any final partnersh
 
 Section 1239(f) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and sections 6226, 6230, 6501, 6512, 7421, 7459, and 7482 of this title\] shall apply to partnership taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6222, 6230, 7421 of this title.
-

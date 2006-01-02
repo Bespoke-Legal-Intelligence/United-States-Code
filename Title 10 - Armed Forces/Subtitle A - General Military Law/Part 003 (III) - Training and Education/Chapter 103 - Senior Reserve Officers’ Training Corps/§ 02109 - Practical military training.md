@@ -4,7 +4,7 @@
 
 (b) The Secretary of the military department concerned, with respect to practical military training prescribed under this section and field training and practice cruises prescribed under section 2104(b)(6) of this title, may—
 
-&emsp;(1) transport members of, and designated applicants for membership in, the program to and from the places designated for such training or practice cruises and furnish them subsistence while traveling to and from those places, or, instead of furnishing them transportation and subsistence, pay them a travel allowance at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies for travel by the shortest usually traveled route from the places from which they are authorized to proceed to the place designated for the training or cruise and return, and pay the allowance for the return trip in advance;
+&emsp;(1) transport members of, and designated applicants for membership in, the program to and from the places designated for such training or practice cruises and furnish them subsistence while traveling to and from those places, or, instead of furnishing them transportation and subsistence, pay them a travel allowance at the rate prescribed for cadets and midshipmen at the United States Military, Naval, and Air Force Academies for travel bythe shortest usually traveled route from the places from which they are authorized to proceed to the place designated for the training or cruise and return, and pay the allowance for the return trip in advance;
 
 &emsp;(2) furnish medical attendance and supplies to members of, and designated applicants for membership in, the program while attending such training and practice cruises, and admit them to military hospitals;
 
@@ -20,7 +20,7 @@
 
 (2) The Secretary of the military department concerned may waive the limitation in paragraph (1) under procedures prescribed by the Secretary. Such procedures shall ensure uniform application of limitations and restrictions without regard to the reason for disqualification for advanced training.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 89–51, §2,June 28, 1965, 79 Stat. 173; Pub. L. 89–718, §17, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 100–456, div. A, title VI, §633(a)(1)–(3)(A), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 104–201, div. A, title V, §551(a)(2), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 105–85, div. A, title X, §1073(a)(37), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 89–51, §2, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, §17, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 100–456, div. A, title VI, §633(a)(1)–(3)(A), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 104–201, div. A, title V, §551(a)(2), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 105–85, div. A, title X, §1073(a)(37), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### Amendments
 
@@ -45,8 +45,4 @@ Section 633(e) of Pub. L. 100–456 provided that: “The amendments made by thi
 #### Effective Date of 1965 Amendment
 
 Section 4 of Pub. L. 89–51 provided that: “The effective date of this Act \[amending this section and section 209 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 2107 of this title\] is October 13, 1964.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 sections 209, 1006.
 

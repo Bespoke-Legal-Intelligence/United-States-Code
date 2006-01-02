@@ -8,7 +8,7 @@ National Convention.—The corporation shall hold an annual national convention.
 
 National Executive Committee.—(1) The national executive committee is the governing body of the corporation.
 
-(2) The national executive committee consists of the president, the last past president, 3 vice presidents, 3 junior vice presidents, 3 national executive committee members, and the executive director. Each of these individuals, exceptthe executive director, has one vote on each matter decided by the committee.
+(2) The national executive committee consists of the president, the last past president, 3 vice presidents, 3 junior vice presidents, 3 national executive committee members, and the executive director. Each of these individuals, except the executive director, has one vote on each matter decided by the committee.
 
 (c)
 

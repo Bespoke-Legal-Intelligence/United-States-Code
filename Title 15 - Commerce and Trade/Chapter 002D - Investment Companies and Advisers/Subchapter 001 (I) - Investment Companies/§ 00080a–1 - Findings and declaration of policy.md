@@ -2,7 +2,7 @@
 
 #### (a) Findings
 
-Upon the basis of facts disclosed by the record and reports of the Securities and Exchange Commission made pursuant to section 79z–4 of this title, and facts otherwise disclosed and ascertained, it is found that investment companies are affected with a national public interest in that, among other things—
+Upon the basis of facts disclosed by the record and reports of the Securities and Exchange Commission made pursuant to section 79z–4 <sup>1</sup> of this title, and facts otherwise disclosed and ascertained, it is found that investment companies are affected with a national public interest in that, among other things—
 
 &emsp;(1) the securities issued by such companies, which constitute a substantial part of all securities publicly offered, are distributed, purchased, paid for, exchanged, transferred, redeemed, and repurchased by use of the mails and means and instrumentalities of interstate commerce, and in the case of the numerous companies which issue redeemable securities this process of distribution and redemption is continuous;
 
@@ -16,7 +16,7 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 #### (b) Policy
 
-Upon the basis of facts disclosed by the record and reports of the Securities and Exchange Commission made pursuant to section 79z–4 of this title, and facts otherwise disclosed and ascertained, it is declared that the national public interest and the interest of investors are adversely affected—
+Upon the basis of facts disclosed by the record and reports of the Securities and Exchange Commission made pursuant to section 79z–4 <sup>1</sup> of this title, and facts otherwise disclosed and ascertained, it is declared that the national public interest and the interest of investors are adversely affected—
 
 &emsp;(1) when investors purchase, pay for, exchange, receive dividends upon, vote, refrain from voting, sell, or surrender securities issued by investment companies without adequate, accurate, and explicit information, fairly presented, concerning the character of such securities and the circumstances, policies, and financial responsibility of such companies and their management;
 
@@ -38,7 +38,13 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 (Aug. 22, 1940, ch. 686, title I, §1, 54 Stat. 789.)
 
+#### References in Text
+
+Section 79z–4 of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
+
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

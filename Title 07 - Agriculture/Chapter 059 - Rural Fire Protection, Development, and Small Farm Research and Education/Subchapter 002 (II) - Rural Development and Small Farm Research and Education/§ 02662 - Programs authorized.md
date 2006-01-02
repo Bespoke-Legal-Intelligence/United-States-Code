@@ -164,7 +164,7 @@ Act of August 30, 1890, referred to in subsec. (i)(4), is act Aug. 30, 1890, ch.
 
 #### Prior Provisions
 
-A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, §1440, Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
+A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 671; Pub. L. 95–113, title XIV, §1440,Sept. 29, 1977, 91 Stat. 1005, related to programs authorization and cooperation and coordination with colleges and universities, prior to repeal by Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1326.
 
 #### Amendments
 

@@ -1,10 +1,10 @@
 ### §110. Saint Lawrence Seaway Development Corporation
 
-(a) The Saint Lawrence Seaway Development Corporation established under section 1 of theAct of May 13, 1954 (33 U.S.C. 981), is subject to the direction and supervision of the Secretary of Transportation.
+(a) The Saint Lawrence Seaway Development Corporation established under section 1 of the Act of May 13, 1954 (33 U.S.C. 981), is subject to the direction and supervision of the Secretary of Transportation.
 
 (b) The Administrator of the Corporation appointed under section 2 of the Act of May 13, 1954 (33 U.S.C. 982), reports directly to the Secretary.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2418; Pub. L. 103–272, §4(j)(5)(A), July 5, 1994, 108 Stat. 1366.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2418; Pub. L. 103–272, §4(j)(5)(A), July 5, 1994, 108 Stat. 1366.)
 
 Historical and Revision Notes
 

@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(F) describe how diverse cultural populations, if applicable, will be served through the program;
 
-&emsp;&emsp;(G) assure that the funds made available under this subpart for any fiscal year will be used to supplement, and not supplant, any other Federal, State, or local funds used for providing school-based counseling and mental health services to students; and
+&emsp;&emsp;(G) assure that the funds made available under this subpart for any fiscal year will beused to supplement, and not supplant, any other Federal, State, or local funds used for providing school-based counseling and mental health services to students; and
 
 &emsp;&emsp;(H) assure that the applicant will appoint an advisory board composed of interested parties, including parents, teachers, school administrators, counseling services providers described in subsection (c)(2)(D) of this section, and community leaders, to advise the local educational agency on the design and implementation of the program.
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(J) evaluate annually the effectiveness and outcomes of the counseling services and activities assisted under this section;
 
-&emsp;&emsp;(K) ensure a team approach to school counseling in the schools served by the local educational agency by working toward ratios recommended by the American School Health Association of one school counselorto 250 students, one school social worker to 800 students, and one school psychologist to 1,000 students; and
+&emsp;&emsp;(K) ensure a team approach to school counseling in the schools served by the local educational agency by working toward ratios recommended by the American School Health Association of one school counselor to 250 students, one school social worker to 800 students, and one school psychologist to 1,000 students; and
 
 &emsp;&emsp;(L) ensure that school counselors, school psychologists, other qualified psychologists, school social workers, or child and adolescent psychiatrists paid from funds made available under this section spend a majority of their time counseling students or in other activities directly related to the counseling process.
 

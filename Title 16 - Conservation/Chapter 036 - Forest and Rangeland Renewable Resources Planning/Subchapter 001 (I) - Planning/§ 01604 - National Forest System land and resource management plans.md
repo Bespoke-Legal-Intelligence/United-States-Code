@@ -28,9 +28,9 @@ In developing, maintaining, and revising plans for units of the National Forest 
 
 Plans developed in accordance with this section shall—
 
-&emsp;(1) form one integrated plan for each unit of the National Forest System, incorporating in one document or one set of documents, available to the public at convenient locations, all of the features required by this section;
+&emsp;(1) form one integrated plan for each unit of the National Forest System, incorporating inone document or one set of documents, available to the public at convenient locations, all of the features required by this section;
 
-&emsp;(2) be embodied in appropriate written material, including maps and other descriptive documents, reflecting proposed and possible actions, including the planned timber sale program and the proportion of probable methodsof timber harvest within the unit necessary to fulfill the plan;
+&emsp;(2) be embodied in appropriate written material, including maps and other descriptive documents, reflecting proposed and possible actions, including the planned timber sale program and the proportion of probable methods of timber harvest within the unit necessary to fulfill the plan;
 
 &emsp;(3) be prepared by an interdisciplinary team. Each team shall prepare its plan based on inventories of the applicable resources of the forest;
 
@@ -80,7 +80,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;&emsp;&emsp;(iii) cut blocks, patches, or strips are shaped and blended to the extent practicable with the natural terrain;
 
-&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceedthe established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally would approve the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
+&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceed the established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally would approve the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
 
 &emsp;&emsp;&emsp;(v) such cuts are carried out in a manner consistent with the protection of soil, watershed, fish, wildlife, recreation, and esthetic resources, and the regeneration of the timber resource.
 
@@ -116,7 +116,7 @@ The Secretary shall—
 
 The Secretary shall establish—
 
-&emsp;(1) standards to insure that, prior to harvest, stands of trees throughout the National Forest System shall generally have reached the culmination of mean annual increment of growth (calculated on the basis of cubic measurement or other methods of calculation at the discretion of the Secretary): <i>Provided</i>, That these standards shall not preclude the use of sound silvicultural practices, such as thinning or other stand improvement measures: <i>Provided further</i>, That these standards shall not preclude the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow or other catastrophe, or which are in imminent danger from insect or disease attack; and
+&emsp;(1) standards to insure that, prior to harvest, stands of trees throughout the National Forest System shall generally have reached the culmination of mean annual increment of growth (calculated on the basis of cubic measurementor other methods of calculation at the discretion of the Secretary): <i>Provided</i>, That these standards shall not preclude the use of sound silvicultural practices, such as thinning or other stand improvement measures: <i>Provided further</i>, That these standards shall not preclude the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow or other catastrophe, or which are in imminent danger from insect or disease attack; and
 
 &emsp;(2) exceptions to these standards for the harvest of particular species of trees in management units after consideration has been given to the multiple uses of the forest including, but not limited to, recreation, wildlife habitat, and range and after completion of public participation processes utilizing the procedures of subsection (d) of this section.
 
@@ -140,9 +140,11 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Revision of Forest Plans
 
-Pub. L. 108–447, div. E, title III, §320, Dec. 8, 2004, 118 Stat. 3097, provided that: “Prior to October 1, 2005, the Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 109–54, title IV, §415, Aug. 2, 2005, 119 Stat. 551, provided that: “Prior to October 1, 2006, the Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. E, title III, §320, Dec. 8, 2004, 118 Stat. 3097.
 
 Pub. L. 108–108, title III, §320, Nov. 10, 2003, 117 Stat. 1306.
 

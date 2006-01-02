@@ -72,7 +72,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amounts will be targeted to individuals who would not otherwise be able to afford health insurance coverage; and
 
-&emsp;&emsp;&emsp;&emsp;(II) income, asset, and medical expense criteria will be established and applied by the State to identify those individuals who qualify for assistance undersuch program, and information concerning such criteria shall be made available to the public;
+&emsp;&emsp;&emsp;&emsp;(II) income, asset, and medical expense criteria will be established and applied by the State to identify those individuals who qualify for assistance under such program, and information concerning such criteria shall be made available to the public;
 
 &emsp;&emsp;(C) the State will provide for periodic independent peer review to assess the quality and appropriateness of health and support services provided by entities that receive funds from the State under this part;
 
@@ -128,7 +128,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (B) Determination
 
-&emsp;&emsp;A determination by the State of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regardto whether the entity accepts voluntary donations regarding the provision of services to the public.
+&emsp;&emsp;A determination by the State of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
 
 #### (d) Requirement of matching funds regarding State allotments
 
@@ -192,7 +192,7 @@ Subsec. (b)(4). Pub. L. 106–345, §205(a)(3)(A), (B), in introductory provisio
 
 Pub. L. 106–345, §205(a)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
-Subsec. (b)(4)(A) to (C). Pub. L. 106–345, §205(a)(3)(D), which directed the amendment of par. (4) by addingsubpars. (A) to (C) “before subparagraph (C)”, was executed by adding them before subpar. (D), to reflect the probable intent of Congress. Former subpars. (A) to (C) redesignated (D) to (F), respectively.
+Subsec. (b)(4)(A) to (C). Pub. L. 106–345, §205(a)(3)(D), which directed the amendment of par. (4) by adding subpars. (A) to (C) “before subparagraph (C)”, was executed by adding them before subpar. (D), to reflect the probable intent of Congress. Former subpars. (A) to (C) redesignated (D) to (F), respectively.
 
 Subsec. (b)(4)(D). Pub. L. 106–345, §205(a)(3)(C), (E), redesignated subpar. (A) as (D) and inserted “describes” before “the services and activities”.
 

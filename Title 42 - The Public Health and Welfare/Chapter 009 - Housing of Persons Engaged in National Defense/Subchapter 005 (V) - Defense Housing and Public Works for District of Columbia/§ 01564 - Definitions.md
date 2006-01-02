@@ -18,5 +18,5 @@ Functions of Housing and Home Finance Agency transferred to Secretary of Housing
 
 Functions under sections 1531 to 1534 of this title transferred from Federal Works Administrator to Administrator of General Services by act June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380, which was classified to section 753(a) of former Title 40, Public Buildings, Property, and Works, and subsequently transferred to Housing and Home Finance Administrator by Reorg. Plan No. 17 of 1950, §1, eff. May 24, 1950, 15 F.R. 3177, 64 Stat. 1269, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Functions of Federal Works Administrator relating to defense housing consolidated with other agencies into National Housing Agency during World War II by Ex. Ord. No. 9070.
+Functions of Federal Works Administrator relating to defense housing consolidated with other agenciesinto National Housing Agency during World War II by Ex. Ord. No. 9070.
 

@@ -8,7 +8,7 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 &emsp;(3) shall inspect every building during construction to establish that the specifications established for the building are complied with;
 
-&emsp;(4) on completion of the building, shall evaluate the building to determine the extent of failure to comply with the specifications referred to in clause (1); and
+&emsp;(4) on completion of the building, shall evaluate the building to determine the extentof failure to comply with the specifications referred to in clause (1); and
 
 &emsp;(5) shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
 

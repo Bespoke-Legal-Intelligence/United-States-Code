@@ -44,7 +44,7 @@ For purposes of this subsection, the term “qualified funeral trust” means an
 
 #### (3) Inflation adjustment
 
-&emsp;In the case of any contract referred to in subsection (b)(1) which is entered into during any calendar year after 1998, the dollar amount referred to paragraph (1) shall be increased by an amount equal to—
+&emsp;In the case of any contract referred to in subsection (b)(1) which is entered into duringany calendar year after 1998, the dollar amount referred to paragraph (1) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -66,9 +66,9 @@ The Secretary may prescribe rules for simplified reporting of all trusts having 
 
 (Added Pub. L. 105–34, title XIII, §1309(a), Aug. 5, 1997, 111 Stat. 1042; amended Pub. L. 105–206, title VI, §6013(b), July 22, 1998, 112 Stat. 820.)
 
-#### Limitation on Contributions Received By Trust During Calendar Year 2004
+#### Limitation on Contributions Received By Trust During Calendar Year 2006
 
-<i>For limitation on aggregate contributions received by qualified funeral trust by or for the benefit of an individual for contracts entered into during calendar year 2004, see section 3.23 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For limitation on aggregate contributions received by qualified funeral trust by or for the benefit of an individual for contracts entered into during calendar year 2006, see section 3.25 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

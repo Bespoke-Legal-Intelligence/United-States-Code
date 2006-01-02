@@ -24,13 +24,9 @@ Historical and Revision Notes
 
 July 9, 1918, ch. 143 (9th par. under “Ordnance Department”), 40 Stat. 870.
 
-The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words “since the 6th day of April, 1917” are omitted as executed. The word “award” is substituted for the word “present” to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words “or herself” are omitted, since, under section 1 of title 1, words importing the masculine gender include the feminine. The words “or who shall hereafter distinguish” are omitted as surplusage.
+The words “but not in the name of Congress” are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words “since the 6th day of April, 1917” are omitted as executed. The word “award” is substituted for the word“present” to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words “or herself” are omitted, since, under section 1 of title 1, words importing the masculine gender include the feminine. The words “or who shall hereafter distinguish” are omitted as surplusage.
 
 #### Amendments
 
 1963—Pub. L. 88–77 enlarged authority to award the distinguished-service cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying award of a medal of honor, while engaged in an action against an enemy of United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which United States is not a belligerent party.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3748 of this title.
 

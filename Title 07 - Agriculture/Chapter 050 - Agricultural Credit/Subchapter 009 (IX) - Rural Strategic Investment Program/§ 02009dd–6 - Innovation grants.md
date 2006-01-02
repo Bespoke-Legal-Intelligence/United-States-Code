@@ -20,7 +20,7 @@ The National Board shall use amounts made available under section 2009dd–4(b)(
 
 #### (2) Relationship to planning grants
 
-&emsp;A Regional Board that meets the requirements of paragraph (1) shall be eligible to receive an innovation grant, regardless ofwhether the Regional Board receives a planning grant.
+&emsp;A Regional Board that meets the requirements of paragraph (1) shall be eligible to receive an innovation grant, regardless of whether the Regional Board receives a planning grant.
 
 #### (c) Selection
 

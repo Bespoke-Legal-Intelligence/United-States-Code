@@ -4,7 +4,7 @@
 
 In the case of any distribution by a partnership to a partner, such partner shall be treated as recognizing gain in an amount equal to the lesser of—
 
-&emsp;(1) the excess (if any) of (A) the fair market value of property (other than money) receivedin the distribution over (B) the adjusted basis of such partner's interest in the partnership immediately before the distribution reduced (but not below zero) by the amount of money received in the distribution, or
+&emsp;(1) the excess (if any) of (A) the fair market value of property (other than money) received in the distribution over (B) the adjusted basis of such partner's interest in the partnership immediately before the distribution reduced (but not below zero) by the amount of money received in the distribution, or
 
 &emsp;(2) the net precontribution gain of the partner.
 
@@ -44,7 +44,7 @@ For purposes of this section, the term “net precontribution gain” means the 
 
 &emsp;&emsp;<b>For treatment of marketable securities as money for purposes of this section, see section 731(c).</b>
 
-(Added Pub. L. 102–486, title XIX, §1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, §741(b), Dec. 8, 1994, 108 Stat. 5009; Pub. L. 104–188, title I, §1704(j)(8), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947.)
+(Added Pub. L. 102–486, title XIX, §1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, §741(b), Dec. 8, 1994, 108 Stat. 5009; Pub.L. 104–188, title I, §1704(j)(8), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947.)
 
 #### Amendments
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 103–465 applicable to distributions after Dec. 8, 1994, a
 #### Effective Date
 
 Section applicable to distributions on or after June 25, 1992, see section 1937(c) of Pub. L. 102–486, set out as an Effective Date of 1992 Amendment note under section 704 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 731 of this title.
 

@@ -36,3 +36,5 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §108(a)\], Nov. 29, 1999, 11
 
 \[Pub. L. 106–553, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2762, 2762A–67, provided that: “Section 108(a) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000 (as enacted into law by section 1000(a)(1) of Public Law 106–113) \[set out above\] shall apply for fiscal year 2001 and thereafter.”\]
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

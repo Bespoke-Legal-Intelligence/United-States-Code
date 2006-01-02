@@ -70,7 +70,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 #### (B) Multiple ADR programs
 
-&emsp;&emsp;No provision of this section shall be construed as precluding any Federal bankingagency or the National Credit Union Administration Board from establishing more than 1 alternative means of dispute resolution.
+&emsp;&emsp;No provision of this section shall be construed as precluding any Federal banking agency or the National Credit Union Administration Board from establishing more than 1 alternative means of dispute resolution.
 
 #### (f) Definitions
 

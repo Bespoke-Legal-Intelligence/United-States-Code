@@ -152,7 +152,7 @@ For purposes of this part—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of group healthinsurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of group health insurance coverage, the plan is deemed to have satisfied the certification requirement under this paragraph if the health insurance issuer offering the coverage provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
@@ -220,7 +220,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section withrespect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
+&emsp;A health maintenance organization which offers health insurance coverage in connection with a group health plan and which does not impose any preexisting condition exclusion allowed under subsection (a) of this section with respect to any particular coverage option may impose an affiliation period for such coverage option, but only if—
 
 &emsp;&emsp;(A) such period is applied uniformly without regard to any health status-related factors; and
 
@@ -272,7 +272,7 @@ Period of coverage.—
 
 &emsp;&emsp;“(i)
 
-In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part A of title XXVII of the Public Health Service Act \[this part\] (as added by this section) in determining creditable coverage.
+In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into accountunder part A of title XXVII of the Public Health Service Act \[this part\] (as added by this section) in determining creditable coverage.
 
 &emsp;&emsp;“(ii)
 

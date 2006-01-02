@@ -1,0 +1,10 @@
+### §16831. Data on specific fields of study
+
+The National Science Foundation shall continue to collect statistically reliable data on the field of degree of college-educated individuals to fulfill obligations under section 1863(j)(1) of this title and the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885 et. seq.). If the Director of the Foundation determines that there is a legal impediment to the continued collection of this data, he shall inform the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 180 days after December 30, 2005.
+
+(Pub. L. 109–155, title VII, §721, Dec. 30, 2005, 119 Stat. 2938.)
+
+#### References in Text
+
+The Science and Engineering Equal Opportunities Act, referred to in text, is Part B of Pub. L. 96–516, Dec. 12, 1980, 94 Stat. 3010, as amended, which enacted sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1861 of this title and Tables.
+

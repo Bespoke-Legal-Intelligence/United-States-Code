@@ -30,6 +30,52 @@ There are authorized to be appropriated to the Immigration and Naturalization Se
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
+#### Use of Ground Surveillance Technologies for Border Security
+
+Pub. L. 109–13, div. B, title III, §302, May 11, 2005, 119 Stat. 316, provided that:
+
+“(a)
+
+Pilot Program.—Not later than 180 days after the date of the enactment of this division \[May 11, 2005\], the Under Secretary of Homeland Security for Science and Technology, in consultation with the Under Secretary of Homeland Security for Border and Transportation Security, the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, and the Secretary of Defense, shall develop a pilot program to utilize, or increase the utilization of, ground surveillance technologies to enhance the border security of the United States. In developing the program, the Under Secretary shall—
+
+&emsp;“(1) consider various current and proposed ground surveillance technologies that could be utilized to enhance the border security of the United States;
+
+&emsp;“(2) assess the threats to the border security of the United States that could be addressed by the utilization of such technologies; and
+
+&emsp;“(3) assess the feasibility and advisability of utilizing such technologies to address such threats, including an assessment of the technologies considered best suited to address such threats.
+
+“(b)
+
+Additional Requirements.—
+
+&emsp;“(1)
+
+In general.—The pilot program shall include the utilization of a variety of ground surveillance technologies in a variety of topographies and areas (including both populated and unpopulated areas) on both the northern and southern borders of the United States in order to evaluate, for a range of circumstances—
+
+&emsp;&emsp;“(A) the significance of previous experiences with such technologies in homeland security or critical infrastructure protection for the utilization of such technologies for border security;
+
+&emsp;&emsp;“(B) the cost, utility, and effectiveness of such technologies for border security; and
+
+&emsp;&emsp;“(C) liability, safety, and privacy concerns relating to the utilization of such technologies for border security.
+
+&emsp;“(2)
+
+Technologies.—The ground surveillance technologies utilized in the pilot program shall include the following:
+
+&emsp;&emsp;“(A) Video camera technology.
+
+&emsp;&emsp;“(B) Sensor technology.
+
+&emsp;&emsp;“(C) Motion detection technology.
+
+“(c)
+
+Implementation.—The Under Secretary of Homeland Security for Border and Transportation Security shall implement the pilot program developed under this section.
+
+“(d)
+
+Report.—Not later than 1 year after implementing the pilot program under subsection (a), the Under Secretary shall submit a report on the program to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary. The Under Secretary shall include in the report a description of the program together with such recommendations as the Under Secretary finds appropriate, including recommendations for terminating the program, making the program permanent, or enhancing the program.”
+
 #### Advanced Technology Northern Border Security Pilot Program
 
 Pub. L. 108–458, title V, subtitle A, Dec. 17, 2004, 118 Stat. 3732, provided that:

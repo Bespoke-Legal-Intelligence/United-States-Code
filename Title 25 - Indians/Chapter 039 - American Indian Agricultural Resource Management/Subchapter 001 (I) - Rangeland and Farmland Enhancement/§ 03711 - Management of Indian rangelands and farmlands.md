@@ -22,7 +22,7 @@ Consistent with the provisions of the Indian Self-Determination and Education As
 
 &emsp;(A) Pursuant to a self-determination contract or self-governance compact, an Indian tribe may develop or implement an Indian agriculture resource plan. Subject to the provisions of subparagraph (C), the tribe shall have broad discretion in designing and carrying out the planning process.
 
-&emsp;(B) If a tribe chooses not to contract the development or implementation of the plan, the Secretary shall develop or implement, as appropriate, the plan in close consultation with the affected tribe.
+&emsp;(B) If a tribe chooses not to contract the development or implementation of the plan, theSecretary shall develop or implement, as appropriate, the plan in close consultation with the affected tribe.
 
 &emsp;(C) Whether developed directly by the tribe or by the Secretary, the plan shall—
 

@@ -8,9 +8,9 @@ Each agency shall transmit a report to the Secretary, at times specified by the 
 
 &emsp;(2) the procedures being used by the agency pursuant to section 8256(a)(2) of this title, the number of contracts entered into by such agency under subchapter VII of this chapter, the energy and cost savings that have resulted from such contracts, the use of such cost savings under section 8256(c) of this title, and any problem encountered in entering into such contracts and otherwise implementing section 8256 of this title.
 
-#### (b) Reports to Congress
+#### (b) Reports to the President and Congress
 
-The Secretary shall report, not later than April 2 of each year, with respect to each fiscal year beginning after November 5, 1988, to the Congress—
+The Secretary shall report, not later than April 2 of each year, with respect to each fiscal year beginning after November 5, 1988, to the President and Congress—
 
 &emsp;(1) on all activities carried out under this part and on the progress made toward achievement of the objectives of this part, including—
 
@@ -34,9 +34,11 @@ The Secretary, in consultation with the Administrator of General Services, shall
 
 &emsp;(2) not later than 18 months after October 24, 1992, transmit to the Congress a report containing the findings and conclusions of such study, including recommendations for the development of streamlined processes for the consideration of connecting buildings owned or leased by the Federal Government to district heating and cooling systems.
 
-(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851; Pub. L. 104–66, title I, §1052(d), Dec. 21, 1995, 109 Stat. 718.)
+(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851; Pub. L. 104–66, title I, §1052(d), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §102(g), Aug. 8, 2005, 119 Stat. 608.)
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58 inserted “the President and” before “Congress” in heading and “President and” before “Congress” in introductory provisions.
 
 1995—Subsec. (b)(1). Pub. L. 104–66, §1052(d)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -50,7 +52,7 @@ Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted “including—” a
 
 Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 
-1988—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretaryand Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
+1988—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretary and Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
 
 #### Termination of Reporting Requirements
 

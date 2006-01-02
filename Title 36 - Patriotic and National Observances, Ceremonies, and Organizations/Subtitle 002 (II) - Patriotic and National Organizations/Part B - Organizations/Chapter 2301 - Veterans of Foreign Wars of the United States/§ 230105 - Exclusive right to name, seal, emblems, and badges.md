@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 &nbsp;
 
-The words “sole”, “to have and”, and “in carrying out its purposes” in 36:117 are omitted as unnecessary.The words “as may be deemed necessary in the fulfillment of the purposes of the corporation” are omitted as unnecessary.
+The words “sole”, “to have and”, and “in carrying out its purposes” in 36:117 are omitted as unnecessary. The words “as may be deemed necessary in the fulfillment of the purposes of the corporation” are omitted as unnecessary.
 

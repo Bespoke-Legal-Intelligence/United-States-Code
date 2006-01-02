@@ -23,10 +23,13 @@
 | [141\.](%C2%A7%2000141%20-%20Inspector%20General.md) | Inspector General. |
 | [142\.](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Nuclear%20and%20Chemical%20and%20Biological%20Defense%20Programs.md) | Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs. |
 | [143\.](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md) | Office of the Secretary of Defense personnel: limitation. |
+| [144\.](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title IX, §904(b)(2), Jan. 6, 2006, 119 Stat. 3400, added item 144.
 
 2002—Pub. L. 107–314, div. A, title IX, §901(b)(2), Dec. 2, 2002, 116 Stat. 2619, added items 137 and 139a and struck out former item 137 “Director of Defense Research and Engineering”.
 
@@ -80,10 +83,6 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 1972—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted “Deputy Secretaries” for “Deputy Secretary” in item 134.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 41 section 421.
-
 
 ---
 
@@ -113,3 +112,4 @@ This chapter is referred to in title 41 section 421.
 - [&sect; 00141 - Inspector General](%C2%A7%2000141%20-%20Inspector%20General.md)
 - [&sect; 00142 - Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs](%C2%A7%2000142%20-%20Assistant%20to%20the%20Secretary%20of%20Defense%20for%20Nuclear%20and%20Chemical%20and%20Biological%20Defense%20Programs.md)
 - [&sect; 00143 - Office of the Secretary of Defense personnel limitation](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md)
+- [&sect; 00144 - Director of Small Business Programs](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md)

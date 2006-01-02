@@ -18,10 +18,6 @@ For the purpose of claims relating to damage to, or loss of, personal property o
 
 (Pub. L. 91–357, §3, July 29, 1970, 84 Stat. 472; Pub. L. 101–286, title II, §204(b), May 9, 1990, 104 Stat. 175.)
 
-#### References in Text
-
-The tort claim provisions of title 28, referred to in subsec. (b), are the provisions of the Federal Tort Claims Act, classified to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
-
 #### Amendments
 
 1990—Subsec. (d). Pub. L. 101–286 added subsec. (d).

@@ -52,5 +52,5 @@ Pub. L. 106–505, title V, §502, Nov. 13, 2000, 114 Stat. 2342, provided that:
 
 &emsp;“(9) many victims of the disease suffer debilitating pain and fatigue, making it difficult to maintain employment and lead normal lives; and
 
-&emsp;“(10) in fiscal year 1996, the amount allocated by the National Institutes of Health for research on lupus was $33,000,000, which is less than one-half of 1 percent of the budget for such Institutes.”
+&emsp;“(10) in fiscal year 1996, the amount allocated by the National Institutes of Health for research onlupus was $33,000,000, which is less than one-half of 1 percent of the budget for such Institutes.”
 

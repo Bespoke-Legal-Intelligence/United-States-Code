@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) at least 60 percent of the individuals who were students or graduates ofthe graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; or
+&emsp;&emsp;&emsp;&emsp;(bb) at least 60 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the institution has a clinical training program that was approved by a State as of January 1, 1992; or
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) the institution, or an affiliate of the institution that has the power, by contract or ownership interest, to direct or cause the direction of the management or policies of the institution, has filed for bankruptcy, except that this paragraph shall not apply to a nonprofit institution, the primary function of which is to provide health care educational services (or an affiliate of such an institution that has the power, by contract or ownership interest, to direct or cause the direction of the institution's management or policies) that files for bankruptcy under chapter 11 of title 11 between July 1, 1998, and December 1, 1998; or
 
-&emsp;&emsp;(B) the institution, the institution's owner, or the institution's chief executive officer has been convicted of, or has pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of funds under subchapter IV of this chapterand part C of subchapter I of chapter 34 of title 42, or has been judicially determined to have committed fraud involving funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;&emsp;(B) the institution, the institution's owner, or the institution's chief executive officer has been convicted of, or has pled nolo contendere or guilty to, a crime involving the acquisition, use, or expenditure of funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, or has been judicially determined to have committed fraud involving funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (5) Certification
 

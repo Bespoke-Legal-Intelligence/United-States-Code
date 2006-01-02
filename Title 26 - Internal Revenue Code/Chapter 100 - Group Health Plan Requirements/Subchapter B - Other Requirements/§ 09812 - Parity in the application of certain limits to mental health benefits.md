@@ -78,7 +78,7 @@ For purposes of this section:
 
 #### (3) Medical or surgical benefits
 
-&emsp;The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms of the plan, but does not include mental health benefits.
+&emsp;The term “medical or surgical benefits” means benefits with respect to medical or surgical services, as defined under the terms ofthe plan, but does not include mental health benefits.
 
 #### (4) Mental health benefits
 
@@ -88,17 +88,31 @@ For purposes of this section:
 
 This section shall not apply to benefits for services furnished—
 
-&emsp;(1) on or after September 30, 2001, and before January 10, 2002, and
+&emsp;(1) on or after September 30, 2001, and before January 10, 2002,
 
-&emsp;(2) after December 31, 2003.
+&emsp;(2) on or after January 1, 2004, and before the date of the enactment of the Working Families Tax Relief Act of 2004, and
 
-(Added Pub. L. 105–34, title XV, §1531(a)(4), Aug. 5, 1997, 111 Stat. 1083; amended Pub. L. 107–116, title VII, §701(c), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–147, title VI, §610(a), Mar. 9, 2002, 116 Stat. 60.)
+&emsp;(3) after December 31, 2006.
+
+(Added Pub. L. 105–34, title XV, §1531(a)(4), Aug. 5, 1997, 111 Stat. 1083; amended Pub. L. 107–116, title VII, §701(c), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–147, title VI, §610(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §302(a), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, §1(c), Dec. 30, 2005, 119 Stat. 2886.)
+
+#### References in Text
+
+The date of the enactment of the Working Families Tax Relief Act of 2004, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 108–311, which was approved Oct. 4, 2004.
 
 #### Amendments
+
+2005—Subsec. (f)(3). Pub. L. 109–151 substituted “December 31, 2006” for “December 31, 2005”.
+
+2004—Subsec. (f)(2), (3). Pub. L. 108–311 added pars. (2) and (3) and struck out former par. (2) which read as follows: “after December 31, 2003.”
 
 2002—Subsec. (f). Pub. L. 107–147 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “This section shall not apply to benefits for services furnished on or after December 31, 2002.”
 
 Subsec. (f). Pub. L. 107–116 substituted “December 31, 2002” for “September 30, 2001”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §302(d), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendments made by this section \[amending this section, section 1185a of Title 29, Labor, and section 300gg–5 of Title 42, The Public Health and Welfare\] shall take effect on the date of the enactment of this Act \[Oct. 4, 2004\].”
 
 #### Effective Date of 2002 Amendment
 

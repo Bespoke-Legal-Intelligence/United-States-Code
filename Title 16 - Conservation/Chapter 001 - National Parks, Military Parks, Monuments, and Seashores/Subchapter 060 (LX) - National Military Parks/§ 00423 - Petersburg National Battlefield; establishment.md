@@ -16,5 +16,5 @@ National Park Service substituted for Office of National Parks, Buildings, and R
 
 #### Transfer of Portion of Lands to Secretary of the Army
 
-Act June 5, 1942, ch. 345, 56 Stat. 322, provided: “That the Secretary of the Interior shall transfer to the Secretary of War \[Army\] jurisdiction over all lands ownedby the United States lying south and east of the Hickory Hill Road within the Petersburg National Military Park in the Commonwealth of Virginia. Upon the date of the transfer, the lands shall cease to be a part of the Petersburg National Military Park and the Secretary of War \[Army\] shall thereafter administer the lands for military purposes.”
+Act June 5, 1942, ch. 345, 56 Stat. 322, provided: “That the Secretary of the Interior shall transfer to the Secretary of War \[Army\] jurisdiction over all lands owned by the United States lying south and east of the Hickory Hill Road within the Petersburg National Military Park in the Commonwealth of Virginia. Upon the date of the transfer, the lands shall cease to be a part of the Petersburg National Military Park and the Secretary of War \[Army\] shall thereafter administer the lands for military purposes.”
 

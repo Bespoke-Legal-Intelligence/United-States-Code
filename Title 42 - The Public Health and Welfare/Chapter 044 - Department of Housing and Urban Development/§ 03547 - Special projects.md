@@ -36,13 +36,13 @@ A certification under the procedures authorized by this section shall—
 
 &emsp;(D) specify that the certifying officer—
 
-&emsp;&emsp;(i) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1); and
+&emsp;&emsp;(i) consents to assume the status of a responsible Federal official under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and each provision of law specified in regulations issued by the Secretaryinsofar as the provisions of such Act or other such provision of law apply pursuant to paragraph (1); and
 
 &emsp;&emsp;(ii) is authorized and consents on behalf of the State or unit of general local government and himself or herself to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities as such an official.
 
 #### (4) Approval by States
 
-In cases in which a unit of general local government carries out the responsibilities described in paragraph (1), the Secretary may permit the State to perform those actions of the Secretary described in paragraph (2) and the performance of such actions by the State, where permitted by the Secretary, shall be deemed tosatisfy the Secretary's responsibilities referred to in the second sentence of paragraph (2).
+In cases in which a unit of general local government carries out the responsibilities described in paragraph (1), the Secretary may permit the State to perform those actions of the Secretary described in paragraph (2) and the performance of such actions by the State, where permitted by the Secretary, shall be deemed to satisfy the Secretary's responsibilities referred to in the second sentence of paragraph (2).
 
 (Pub. L. 103–233, title III, §305(c), Apr. 11, 1994, 108 Stat. 372.)
 

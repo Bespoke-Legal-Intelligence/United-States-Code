@@ -16,7 +16,3 @@ A prior section 5803, act Aug. 16, 1954, ch. 736, 68A Stat. 722, made a cross re
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5861, 7012 of this title.
-

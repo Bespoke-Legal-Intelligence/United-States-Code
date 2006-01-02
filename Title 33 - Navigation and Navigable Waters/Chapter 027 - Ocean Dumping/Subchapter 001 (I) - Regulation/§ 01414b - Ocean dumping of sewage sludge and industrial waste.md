@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(ii) such failure is likely to result in the person not being able to terminate by December 31, 1991, dumping of sewage sludge or industrial waste into ocean waters.
 
-&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the personhas returned to compliance with a compliance agreement which the person entered into under subsection (c)(2) of this section.
+&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2) of this section.
 
 #### (5) Payments prior to establishment of account
 
@@ -198,7 +198,7 @@
 
 #### (4) Payments prior to establishment of account
 
-&emsp;In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held andpaid or revert under subsection (b)(5) of this section.
+&emsp;In any case in which a State has not established a Clean Oceans Fund or a water pollution control revolving fund under title VI of the Federal Water Pollution Control Act, penalties required to be paid by a person in that State under paragraph (2)(C)(i) or (ii), as applicable, shall be paid to the Administrator for holding and payment or reversion, as applicable, in the same manner as fees are held and paid or revert under subsection (b)(5) of this section.
 
 #### (e) Trust account
 
@@ -422,7 +422,7 @@ The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(
 
 Subsection (j)(4) of this section, referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 
-Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec.\(f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under section 2267 of this title.
+Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, referred to in subsec. (f)(3)(A)(i)(III), is section 2301 of Pub. L. 100–220 which is set out as a note under section 2267 of this title.
 
 #### Codification
 

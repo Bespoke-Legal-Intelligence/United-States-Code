@@ -36,7 +36,7 @@ Waiver of Assignment Period.—(1) With respect to a person assigned to a critic
 
 (e)
 
-Rotation Policy.—(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the Acquisition Corpsserving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
+Rotation Policy.—(1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the Acquisition Corps serving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
 
 (2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis for the purpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
 
@@ -52,7 +52,7 @@ Exchange Program.—The Secretary of Defense shall establish, for purposes of br
 
 Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L.102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550.)
 
 #### Amendments
 
@@ -93,8 +93,4 @@ Subsec. (e)(2). Pub. L. 102–484, §812(a), inserted at end “Reviews under th
 #### Job Referral System Deadline
 
 Section 1209(e) of Pub. L. 101–510 provided that: “Not later than October 1, 1991, the Secretary of Defense shall prescribe regulations required under section 1734(f) of title 10, United States Code (as added by section 1202).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1735 of this title; title 37 section 317.
 

@@ -60,17 +60,29 @@
 
 For purposes of this part:
 
-&emsp;(1) The term “underground injection” means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage.
+&emsp;(1)
+
+Underground injection.—The term “underground injection”—
+
+&emsp;&emsp;(A) means the subsurface emplacement of fluids by well injection; and
+
+&emsp;&emsp;(B) excludes—
+
+&emsp;&emsp;&emsp;(i) the underground injection of natural gas for purposes of storage; and
+
+&emsp;&emsp;&emsp;(ii) the underground injection of fluids or propping agents (other than diesel fuels) pursuant to hydraulic fracturing operations related to oil, gas, or geothermal production activities.
 
 &emsp;(2) Underground injection endangers drinking water sources if such injection may result in the presence in underground water which supplies or can reasonably be expected to supply any public water system of any contaminant, and if the presence of such contaminant may result in such system's not complying with any national primary drinking water regulation or may otherwise adversely affect the health of persons.
 
-(July 1, 1944, ch. 373, title XIV, §1421, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1674; amended Pub. L. 95–190, §6(b), Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–502, §§3, 4(c), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title II, §201(a), June 19, 1986, 100 Stat. 653; Pub. L. 104–182, title V, §501(b)(1), Aug. 6, 1996, 110 Stat. 1691.)
+(July 1, 1944, ch. 373, title XIV, §1421, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1674; amended Pub. L. 95–190, §6(b), Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–502, §§3, 4(c), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title II, §201(a), June 19, 1986, 100 Stat. 653; Pub. L. 104–182, title V, §501(b)(1), Aug. 6, 1996, 110 Stat. 1691; Pub. L. 109–58, title III, §322, Aug. 8, 2005, 119 Stat. 694.)
 
 #### References in Text
 
-Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, byPub. L. 104–182, title I, §129(a), Aug. 6, 1996, 110 Stat. 1660.
+Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repealed, and a new section 300j–6(b) relating to administrative penalty orders was added, by Pub. L. 104–182, title I, §129(a), Aug. 6, 1996, 110 Stat. 1660.
 
 #### Amendments
+
+2005—Subsec. (d)(1). Pub. L. 109–58 inserted heading and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘underground injection’ means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage.”
 
 1996—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted “number of States” for “number or States”.
 

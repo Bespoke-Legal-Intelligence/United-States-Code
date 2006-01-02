@@ -16,7 +16,7 @@ Principal Office and Place of Business.—The principal office and place of busi
 
 (c)
 
-Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, except for sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
+Application of Subtitle IV.—Subtitle IV of this title shall not apply to Amtrak, exceptfor sections 11123, 11301, 11322(a), 11502, and 11706. Notwithstanding the preceding sentence, Amtrak shall continue to be considered an employer under the Railroad Retirement Act of 1974, the Railroad Unemployment Insurance Act, and the Railroad Retirement Tax Act.
 
 (d)
 
@@ -80,7 +80,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 (n)
 
-Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
+Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contractair program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 904; Pub. L. 104–88, title III, §308(g), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–134, title I, §§106(b), 110(a), title II, §208, title IV, §§401, 402, 415(d)(1), Dec. 2, 1997, 111 Stat. 2573, 2574, 2584, 2585, 2590; Pub. L. 108–199, div. F, title I, §150(2), Jan. 23, 2004, 118 Stat. 303.)
 
@@ -246,7 +246,7 @@ In subsection (n), the words “uniformed services” are substituted for “Arm
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat.1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 

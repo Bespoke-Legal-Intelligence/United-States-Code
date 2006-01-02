@@ -56,7 +56,7 @@ Pub. L. 100–219, §1, Dec. 29, 1987, 101 Stat. 1456, provided that: “This Ac
 
 #### Northern Great Plains Rural Development
 
-Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–327, §2, Oct. 19, 1996, 110 Stat. 4003, established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, dutiesand powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
+Pub. L. 103–318, Aug. 26, 1994, 108 Stat. 1781, as amended by Pub. L. 104–327, §2, Oct. 19, 1996, 110 Stat. 4003, established Northern Great Plains Rural Development Commission to study and make recommendations regarding economic needs and economic development of rural Northern Great Plains by seeking and encouraging participation of interested citizens, public officials, groups, agencies, businesses, and other entities in developing 10-year rural economic development plan for Northern Great Plains, defined terms, provided for membership and organization of Commission, duties and powers of Commission, compensation of members, administrative provisions, interim and final reports to Congress, appropriations, and for termination of Commission on Sept. 30, 1997.
 
 <i><sup>1</sup></i><i> So in original. Should be capitalized.</i>
 

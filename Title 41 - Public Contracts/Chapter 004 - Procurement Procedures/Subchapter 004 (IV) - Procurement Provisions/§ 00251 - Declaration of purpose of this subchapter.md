@@ -14,7 +14,7 @@ Pub. L. 104–106, div. D, title XLIV, §4401, Feb. 10, 1996, 110 Stat. 678, pro
 
 “(a)
 
-Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106,see Short Title of 1996 Amendment note below\], this division and the amendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
+Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106, see Short Title of 1996 Amendment note below\], this division and the amendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
 
 “(b)
 
@@ -86,7 +86,7 @@ Pub. L. 103–355, §1, Oct. 13, 1994, 108 Stat. 3243, provided that: “This Ac
 
 #### Short Title of 1984 Amendments
 
-Pub. L. 98–577, §1, Oct. 30, 1984, 98 Stat. 3066, provided that this Act \[enacting sections 253c to 253h, 414a, 418a, and 418b of this title, repealing section 2303a of Title 10, Armed Forces, amending sections 253, 253b, 259, 403, and 416 of this title, sections 2302, 2304, 2311, and 2320 of Title 10, and sections 637 and 644 of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section, section 416 of this title, and sections 637 and 644 of Title 15\] may be cited as the “Small Business and Federal Procurement Competition Enhancement Act of 1984”.
+Pub. L. 98–577, §1, Oct. 30, 1984, 98 Stat. 3066, provided that this Act \[enacting sections 253c to 253h, 414a, 418a,and 418b of this title, repealing section 2303a of Title 10, Armed Forces, amending sections 253, 253b, 259, 403, and 416 of this title, sections 2302, 2304, 2311, and 2320 of Title 10, and sections 637 and 644 of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section, section 416 of this title, and sections 637 and 644 of Title 15\] may be cited as the “Small Business and Federal Procurement Competition Enhancement Act of 1984”.
 
 Pub. L. 98–369, div. B, title VII, §2701, July 18, 1984, 98 Stat. 1175, provided that: “This title \[enacting sections 253a, 253b, 416 to 419 of this title and sections 3551 to 3556 of Title 31, Money and Finance, amending sections 252, 253, 254, 257, 258, 259, 260, 403, 405, and 414 of this title, sections 2301 to 2306, 2310, 2311, 2313, and 2356 of Title 10, Armed Forces, and section 759 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 253, 403, and 407 of this title, section 2304 of Title 10, and section 759 of former Title 40\] may be cited as the ‘Competition in Contracting Act of 1984’.”
 
@@ -196,7 +196,7 @@ Pub. L. 91–129, Nov. 26, 1969, 83 Stat. 269, as amended by Pub. L. 92–47, Ju
 
 Ex. Ord. No. 13005, May 21, 1996, 61 F.R. 26069, provided:
 
-In order to promote economy and efficiency in Federal procurement, it is necessary to secure broad-based competition for Federal contracts. This broad competition is best achieved where there is an expansive pool of potential contractors capable of producing qualitygoods and services at competitive prices. A great and largely untapped opportunity for expanding the pool of such contractors can be found in this Nation's economically distressed communities.
+In order to promote economy and efficiency in Federal procurement, it is necessary to secure broad-based competition for Federal contracts. This broad competition is best achieved where there is an expansive pool of potential contractors capable of producing quality goods and services at competitive prices. A great and largely untapped opportunity for expanding the pool of such contractors can be found in this Nation's economically distressed communities.
 
 Fostering growth of Federal contractors in economically distressed communities and ensuring that those contractors become viable businesses for the long term will promote economy and efficiency in Federal procurement and help to empower those communities. Fostering growth of long-term viable contractors will be promoted by offering appropriate incentives to qualified businesses.
 
@@ -260,7 +260,7 @@ Section 1. To the extent permitted by law, any executive agency awarding any con
 
 (a) Require or prohibit bidders, offerors, contractors, or subcontractors to enter into or adhere to agreements with one or more labor organizations, on the same or other related construction project(s); or
 
-(b) Otherwise discriminate against bidders, offerors, contractors, or subcontractors for becoming or refusingto become or remain signatories or otherwise to adhere to agreements with one or more labor organizations, on the same or other related construction project(s).
+(b) Otherwise discriminate against bidders, offerors, contractors, or subcontractors for becoming or refusing to become or remain signatories or otherwise to adhere to agreements with one or more labor organizations, on the same or other related construction project(s).
 
 (c) Nothing in this section shall prohibit contractors or subcontractors from voluntarily entering into agreements described in subsection (a).
 

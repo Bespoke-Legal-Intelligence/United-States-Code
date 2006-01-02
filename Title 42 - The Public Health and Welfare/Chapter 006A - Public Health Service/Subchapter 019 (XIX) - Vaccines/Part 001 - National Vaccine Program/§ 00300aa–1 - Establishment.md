@@ -34,7 +34,7 @@ Pub. L. 101–239, title VI, §6601(t), Dec. 19, 1989, 103 Stat. 2293, as amende
 
 #### Related Studies
 
-Section 312 of title III of Pub. L. 99–660 directed Secretary of Health and Human Services, not later than 3 years after the effective date of this title (see Effective Date note above), to conduct, through studies by the Institute of Medicine of the National Academy of Sciences or other appropriate nonprofit private groups or associations, a review of pertussis vaccines and related illnesses and conditions and MMR vaccines, vaccines containing material intended to prevent or confer immunity against measles, mumps, and rubella disease, and related illnesses and conditions, make specific findings and report these findings in the Federal Register not later than 3 years after the effective date of this title, and at the same time these findings are published in the Federal Register, propose regulations as a result of such findings, and not later than 42 months after the effective date of this title, promulgate such proposed regulations with such modifications as may be necessary after opportunity for public hearing.
+Section 312 of title III of Pub. L. 99–660 directed Secretary of Health and Human Services, not later than 3 years after the effective date of this title (see Effective Date note above), to conduct, through studies by theInstitute of Medicine of the National Academy of Sciences or other appropriate nonprofit private groups or associations, a review of pertussis vaccines and related illnesses and conditions and MMR vaccines, vaccines containing material intended to prevent or confer immunity against measles, mumps, and rubella disease, and related illnesses and conditions, make specific findings and report these findings in the Federal Register not later than 3 years after the effective date of this title, and at the same time these findings are published in the Federal Register, propose regulations as a result of such findings, and not later than 42 months after the effective date of this title, promulgate such proposed regulations with such modifications as may be necessary after opportunity for public hearing.
 
 #### Study of Other Vaccine Risks
 
@@ -46,7 +46,7 @@ Study.—
 
 &emsp;“(1) Not later than 3 years after the effective date of this title \[see Effective Date note above\], the Secretary shall, after consultation with the Advisory Commission on Childhood Vaccines established under section 2119 of the Public Health Service Act \[section 300aa–19 of this title\]—
 
-&emsp;&emsp;“(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[21U.S.C. 382\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[section 300aa–14 of this title\], and
+&emsp;&emsp;“(A) arrange for a broad study of the risks (other than the risks considered under section 102 \[21 U.S.C. 382\]) to children associated with each vaccine set forth in the Vaccine Injury Table under section 2114 of such Act \[section 300aa–14 of this title\], and
 
 &emsp;&emsp;“(B) establish guidelines, after notice and opportunity for public hearing and consideration of all relevant medical and scientific information, respecting the administration of such vaccines which shall include—
 

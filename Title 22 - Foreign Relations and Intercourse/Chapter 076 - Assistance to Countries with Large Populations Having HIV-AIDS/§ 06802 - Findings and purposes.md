@@ -26,7 +26,7 @@ Congress makes the following findings:
 
 &emsp;(11) The discovery of a relatively simple and inexpensive means of interrupting the transmission of HIV from an infected mother to the unborn child—namely with nevirapine (NVP), which costs US$4 a tablet—has created a great opportunity for an unprecedented partnership between the United States Government and the governments of Asian, African and Latin American countries to reduce mother-to-child transmission (also known as “vertical transmission”) of HIV.
 
-&emsp;(12) According to UNAIDS, if implemented this strategy will decrease the proportion of orphans that are HIV-infected and decrease infant and child mortality rates in these developing regions.
+&emsp;(12) According to UNAIDS, if implemented this strategy will decrease the proportion oforphans that are HIV-infected and decrease infant and child mortality rates in these developing regions.
 
 &emsp;(13) A mother-to-child antiretroviral drug strategy can be a force for social change, providing the opportunity and impetus needed to address often long-standing problems of inadequate services and the profound stigma associated with HIV-infection and the AIDS disease. Strengthening the health infrastructure to improve mother-and-child health, antenatal, delivery and postnatal services, and couples counseling generates enormous spillover effects toward combating the AIDS epidemic in developing regions.
 

@@ -10,7 +10,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 (2) The regulations promulgated pursuant to this section shall include provisions—
 
-&emsp;(A) prescribing, in coordination with the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, and the Director of the National Institute of Standards and Technology in the Department of Commerce, for use in various climatic, structural, and human need settings, standards for weatherization materials, energy conservation techniques, and balance combinations thereof, which are designed to achieve a balance of a healthful dwelling environment and maximum practicable energy conservation;
+&emsp;(A) prescribing, in coordination with the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, and the Director of the National Institute of Standards and Technology in the Department of Commerce, for use in various climatic, structural, and human need settings, standards for weatherization materials, energy conservation techniques, and balance combinations thereof, which are designed to achieve a balance of a healthful dwelling environmentand maximum practicable energy conservation;
 
 &emsp;(B) that provide guidance to the States in the implementation of this part, including guidance designed to ensure that a State establishes (i) procedures that provide protection under paragraph (5) to tenants paying for energy as a portion of their rent, and (ii) a process for monitoring compliance with its obligations pursuant to this part; and
 

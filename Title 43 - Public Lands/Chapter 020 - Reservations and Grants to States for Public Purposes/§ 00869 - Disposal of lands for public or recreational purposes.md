@@ -14,7 +14,7 @@ Conveyances made in any one calendar year shall be limited as follows:
 
 &emsp;&emsp;(B) To any nonprofit corporation or nonprofit association, six hundred and forty acres.
 
-&emsp;&emsp;(C) No more than twenty-five thousand six hundred acres may be conveyed for recreational purposes under sections 869 to 869–4 of this title in any one State per calendar year. Should any State or political subdivision, however, fail to secure, in any one year, six thousand four hundred acres, not counting lands for small roadside parks and rest sites, conveyances may be made thereafter if pursuant to an application on file with the Secretary of the Interior on or before the last day of said year and to the extent that the conveyance would not have exceeded the limitations of said year.
+&emsp;&emsp;(C) No more than twenty-five thousand six hundred acres may be conveyed for recreational purposes under sections 869 to 869–4 of this title in any one State per calendaryear. Should any State or political subdivision, however, fail to secure, in any one year, six thousand four hundred acres, not counting lands for small roadside parks and rest sites, conveyances may be made thereafter if pursuant to an application on file with the Secretary of the Interior on or before the last day of said year and to the extent that the conveyance would not have exceeded the limitations of said year.
 
 &emsp;(ii) For public purposes other than recreation:
 
@@ -36,7 +36,7 @@ Sections 682a to 682e of this title, referred to in subsec. (c), were repealed b
 
 #### Amendments
 
-1976—Subsec. (a). Pub. L. 94–579, §212(a), inserted provisions requiring lands proposed to be disposed not to be of national significance nor more than reasonablynecessary for the proposed use, provisions relating to proposals of over 640 acres, and provisions relating to participation by affected individuals.
+1976—Subsec. (a). Pub. L. 94–579, §212(a), inserted provisions requiring lands proposed to be disposed not to be of national significance nor more than reasonably necessary for the proposed use, provisions relating to proposals of over 640 acres, and provisions relating to participation by affected individuals.
 
 Subsec. (b)(1). Pub. L. 94–579, §212(b), in cl. (A) inserted reference to State political subdivision and struck out limitation of three sites, limitation of six sites for calendar years 1960, 1961, and 1962, and proviso for additional sites where conveyances in one year did not meet the authorized number, in cl. (B) substituted “nonprofit corporation or nonprofit association” for “political subdivision of a State”, and in cl. (C) substituted provisions relating to authorization for a calendar year, for provisions authorizing six hundred and forty acres to any nonprofit corporation or association.
 

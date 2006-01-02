@@ -88,7 +88,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) By June 1, 1997 the North Pacific Council shall submit, and the Secretary may approve, consistent with the other provisions of this chapter, conservation and management measures to ensure total catch measurement in each fishery under the jurisdiction of such Council. Such measures shall ensure the accurate enumeration, at a minimum, of target species, economic discards, and regulatory discards.
 
-(2) To the extent the measures submitted under paragraph (1) do not require United States fish processors and fish processing vessels (as defined in chapter 21 of title 46) to weigh fish, the North Pacific Council and the Secretary shallsubmit a plan to the Congress by January 1, 1998, to allow for weighing, including recommendations to assist such processors and processing vessels in acquiring necessary equipment, unless the Council determines that such weighing is not necessary to meet the requirements of this subsection.
+(2) To the extent the measures submitted under paragraph (1) do not require United States fish processors and fish processing vessels (as defined in chapter 21 of title 46) to weigh fish, the North Pacific Council and the Secretary shall submit a plan to the Congress by January 1, 1998, to allow for weighing, including recommendations to assist such processors and processing vessels in acquiring necessary equipment, unless the Council determines that such weighing is not necessary to meet the requirements of this subsection.
 
 #### (i) Full retention and utilization
 
@@ -104,7 +104,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (3) Subsequent to implementation pursuant to paragraph (1), the Council may submit and the Secretary may implement changes to or repeal of conservation and management measures, including measures authorized in this section, for crab fisheries of the Bering Sea and Aleutian Islands in accordance with applicable law, including this chapter as amended by this subsection, to achieve on a continuing basis the purposes identified by the Council.
 
-(4) The loan program referred to in paragraph (2) shall be carried out pursuant to the authority of sections 1279f and 1279g of title 46, Appendix.
+(4) The loan program referred to in paragraph (2) shall be carried out pursuant to the authority of sections 1279f and 1279g <sup>1</sup> of title 46, Appendix.
 
 (5) For purposes of implementing this section $1,000,000 shall be made available each year until fully implemented from funds otherwise made available to the National Marine Fisheries Service for Alaska fisheries activities.
 
@@ -121,6 +121,8 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 #### References in Text
 
 Hereafter, referred to in subsec. (j)(1), probably means on and after the date of enactment of Pub. L. 108–199, which enacted subsec. (j) of this section and was approved Jan. 23, 2004.
+
+Sections 1279f and 1279g of title 46, Appendix, referred to in subsec. (j)(4), is in the original “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)”. Those sections 1111 and 1112 were renumbered sections 1113 and 1114, respectively, by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557.
 
 The antitrust laws, referred to in subsec. (j)(6), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 

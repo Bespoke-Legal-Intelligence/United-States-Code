@@ -26,9 +26,11 @@ Definitions.—In this section:
 
 (d)
 
-Qualifying Military Offenses.—(1) Subject to paragraph (2), the Secretary of Defense, in consultation with the Attorney General, shall determine those felony or sexual offenses under the Uniform Code of Military Justice that shall be treated for purposes of this section as qualifying military offenses.
+Qualifying Military Offenses.—The offenses that shall be treated for purposes of this section as qualifying military offenses are the following offenses, as determined by the Secretary of Defense, in consultation with the Attorney General:
 
-(2) An offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000), as determined by the Secretary in consultation with the Attorney General, shall be treated for purposes of this section as a qualifying military offense.
+&emsp;(1) Any offense under the Uniform Code of Military Justice for which a sentence of confinement for more than one year may be imposed.
+
+&emsp;(2) Any other offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a(d))).
 
 (e)
 
@@ -48,7 +50,7 @@ Expungement.—(1) The Secretary of Defense shall promptly expunge, from the ind
 
 Regulations.—This section shall be carried out under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Attorney General. Those regulations shall apply, to the extent practicable, uniformly throughout the armed forces.
 
-(Added Pub. L. 106–546, §5(a)(1), Dec. 19, 2000, 114 Stat. 2731; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 106–546, §5(a)(1), Dec. 19, 2000, 114 Stat. 2731; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–405, title II, §203(c), Oct. 30, 2004, 118 Stat. 2270.)
 
 #### References in Text
 
@@ -59,6 +61,12 @@ The Uniform Code of Military Justice, referred to in subsec. (d), is classified 
 Section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (e)(1), is classified to section 14132 of Title 42.
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1) Subject to paragraph (2), the Secretary of Defense, in consultation with the Attorney General, shall determine those felony or sexual offenses under the Uniform Code of Military Justice that shall be treated for purposes of this section as qualifying military offenses.
+
+“(2) An offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000), as determined by the Secretary in consultation with the Attorney General, shall be treated for purposes of this section as a qualifying military offense.”
 
 2002—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -73,8 +81,4 @@ Pub. L. 106–546, §5(b), Dec. 19, 2000, 114 Stat. 2733, provided that: “The 
 #### Commencement of Collection
 
 Pub. L. 106–546, §5(c), Dec. 19, 2000, 114 Stat. 2733, provided that: “Collection of DNA samples under section 1565(a) of such title, as added by subsection (a)(1), shall, subject to the availability of appropriations, commence not later than the date that is 60 days after the date of the initial determination referred to in subsection (b) \[set out above\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1565a of this title; title 18 section 4209; title 42 sections 14132, 14135a, 14135c.
 

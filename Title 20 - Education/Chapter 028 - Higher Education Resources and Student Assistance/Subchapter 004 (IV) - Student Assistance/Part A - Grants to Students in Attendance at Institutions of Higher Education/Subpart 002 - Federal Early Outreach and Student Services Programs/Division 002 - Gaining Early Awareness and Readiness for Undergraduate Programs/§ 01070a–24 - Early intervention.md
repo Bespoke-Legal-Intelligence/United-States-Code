@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) Activities designed to ensure secondary school completion and college enrollment of at-risk children, such as identification of at-risk children, after school and summer tutoring, assistance in obtaining summer jobs, academic counseling, volunteer and parent involvement, providing former or current scholarship recipients as mentor or peer counselors, skills assessment, providing access to rigorous core courses that reflect challenging academic standards, personal counseling, family counseling and home visits, staff development, and programs and activities described in this subparagraph that are specially designed for students of limited English proficiency.
 
-&emsp;&emsp;(D) Summer programs for individuals who are in their sophomore or junior years of secondary school or are planning to attend an institution of higher education in the succeeding academic year that—
+&emsp;&emsp;(D) Summer programs for individuals who are in their sophomore or junior years of secondary school or are planning to attendan institution of higher education in the succeeding academic year that—
 
 &emsp;&emsp;&emsp;(i) are carried out at an institution of higher education that has programs of academic year supportive services for disadvantaged students through projects authorized under section 1070a–14 of this title or through comparable projects funded by the State or other sources;
 

@@ -17,6 +17,7 @@
 | [1174\.](%C2%A7%2001174%20-%20Separation%20pay%20upon%20involuntary%20discharge%20or%20release%20from%20active%20duty.md) | Separation pay upon involuntary discharge or release from active duty. |
 | [1174a.](%C2%A7%2001174a%20-%20Special%20separation%20benefits%20programs.md) | Special separation benefits programs. |
 | [1175\.](%C2%A7%2001175%20-%20Voluntary%20separation%20incentive.md) | Voluntary separation incentive. |
+| [1175a.](%C2%A7%2001175a%20-%20Voluntary%20separation%20pay%20and%20benefits.md) | Voluntary separation pay and benefits. |
 | [1176\.](%C2%A7%2001176%20-%20Enlisted%20members%20retention%20after%20completion%20of%2018%20or%20more%2C%20but%20less%20than%2020%2C%20years%20of%20service.md) | Enlisted members: retention after completion of 18 or more, but less than 20, years of service. |
 | \[1177. | Repealed.\] |
 | [1178\.](%C2%A7%2001178%20-%20System%20and%20procedures%20for%20tracking%20separations%20resulting%20from%20refusal%20to%20participate%20in%20anthrax%20vaccine%20immunization%20program.md) | System and procedures for tracking separations resulting from refusal to participate in anthrax vaccine immunization program. |
@@ -24,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title VI, §643(a)(2), Jan. 6, 2006, 119 Stat. 3309, added item 1175a.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–193, added item 1178.
 
@@ -65,6 +68,7 @@ Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 
 - [&sect; 01174 - Separation pay upon involuntary discharge or release from active duty](%C2%A7%2001174%20-%20Separation%20pay%20upon%20involuntary%20discharge%20or%20release%20from%20active%20duty.md)
 - [&sect; 01174a - Special separation benefits programs](%C2%A7%2001174a%20-%20Special%20separation%20benefits%20programs.md)
 - [&sect; 01175 - Voluntary separation incentive](%C2%A7%2001175%20-%20Voluntary%20separation%20incentive.md)
+- [&sect; 01175a - Voluntary separation pay and benefits](%C2%A7%2001175a%20-%20Voluntary%20separation%20pay%20and%20benefits.md)
 - [&sect; 01176 - Enlisted members retention after completion of 18 or more, but less than 20, years of service](%C2%A7%2001176%20-%20Enlisted%20members%20retention%20after%20completion%20of%2018%20or%20more%2C%20but%20less%20than%2020%2C%20years%20of%20service.md)
 - [&sect; 01177 - Repealed. Pub. L. 104&#8211;134, title II, &sect;2707(a)(1), Apr. 26, 1996, 110 Stat. 1321&#8211;330](%C2%A7%2001177%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93134%2C%20title%20II%2C%20%C2%A72707%28a%29%281%29%2C%20Apr.%2026%2C%201996%2C%20110%20Stat.%201321%E2%80%93330.md)
 - [&sect; 01178 - System and procedures for tracking separations resulting from refusal to participate in anthrax vaccine immunization program](%C2%A7%2001178%20-%20System%20and%20procedures%20for%20tracking%20separations%20resulting%20from%20refusal%20to%20participate%20in%20anthrax%20vaccine%20immunization%20program.md)

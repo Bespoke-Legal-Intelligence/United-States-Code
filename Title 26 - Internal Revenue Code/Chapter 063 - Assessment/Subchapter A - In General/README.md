@@ -7,12 +7,14 @@
 | [6203\.](%C2%A7%2006203%20-%20Method%20of%20assessment.md) | Method of assessment. |
 | [6204\.](%C2%A7%2006204%20-%20Supplemental%20assessments.md) | Supplemental assessments. |
 | [6205\.](%C2%A7%2006205%20-%20Special%20rules%20applicable%20to%20certain%20employment%20taxes.md) | Special rules applicable to certain employment taxes. |
-| [6206\.](%C2%A7%2006206%20-%20Special%20rules%20applicable%20to%20excessive%20claims%20under%20sections%206420%2C%206421%2C%20and%206427.md) | Special rules applicable to excessive claims under sections 6420, 6421, and 6427. |
+| [6206\.](%C2%A7%2006206%20-%20Special%20rules%20applicable%20to%20excessive%20claims%20under%20certain%20sections.md) | Special rules applicable to excessive claims under certain sections. |
 | [6207\.](%C2%A7%2006207%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title XI, §11163(d)(4), Aug. 10, 2005, 119 Stat. 1975, substituted “certain sections” for “sections 6420, 6421, and 6427” in item 6206.
 
 1983—Pub. L. 97–424, title V, §515(b)(3)(B), Jan. 6, 1983, 96 Stat. 2181, struck out reference to section 6424 in item 6206.
 
@@ -23,10 +25,6 @@
 1956—Act June 29, 1956, ch. 462, title II, §208(e)(3), 70 Stat. 397, substituted “sections 6420 and 6421” for “section 6420” in item 6206.
 
 Act Apr. 2, 1956, ch. 160, §4(b)(2), 70 Stat. 91, inserted item “6206. Special rules applicable to excessive claims under section 6420”, and renumbered former item 6206 as 6207.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7851 of this title.
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
@@ -40,5 +38,5 @@ This subchapter is referred to in section 7851 of this title.
 - [&sect; 06203 - Method of assessment](%C2%A7%2006203%20-%20Method%20of%20assessment.md)
 - [&sect; 06204 - Supplemental assessments](%C2%A7%2006204%20-%20Supplemental%20assessments.md)
 - [&sect; 06205 - Special rules applicable to certain employment taxes](%C2%A7%2006205%20-%20Special%20rules%20applicable%20to%20certain%20employment%20taxes.md)
-- [&sect; 06206 - Special rules applicable to excessive claims under sections 6420, 6421, and 6427](%C2%A7%2006206%20-%20Special%20rules%20applicable%20to%20excessive%20claims%20under%20sections%206420%2C%206421%2C%20and%206427.md)
+- [&sect; 06206 - Special rules applicable to excessive claims under certain sections](%C2%A7%2006206%20-%20Special%20rules%20applicable%20to%20excessive%20claims%20under%20certain%20sections.md)
 - [&sect; 06207 - Cross references](%C2%A7%2006207%20-%20Cross%20references.md)

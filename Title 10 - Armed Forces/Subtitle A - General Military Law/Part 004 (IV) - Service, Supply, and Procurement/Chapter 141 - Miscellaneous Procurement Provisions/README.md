@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [2381\.](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md) | Contracts: regulations for bids. |
 | [2382\.](%C2%A7%2002382%20-%20Consolidation%20of%20contract%20requirements%20policy%20and%20restrictions.md) | Consolidation of contract requirements: policy and restrictions. |
-| \[2383. | Repealed.\] |
+| [2383\.](%C2%A7%2002383%20-%20Contractor%20performance%20of%20acquisition%20functions%20closely%20associated%20with%20inherently%20governmental%20functions.md) | Contractor performance of acquisition functions closely associated with inherently governmental functions. |
 | [2384\.](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md) | Supplies: identification of supplier and sources. |
 | [2384a.](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md) | Supplies: economic order quantities. |
 | [2385\.](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md) | Arms and ammunition: immunity from taxation. |
@@ -22,9 +22,10 @@
 | [2396\.](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20public%20utility%20services%2C%20and%20pay%20and%20supplies%E2%80%A6.md) | Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries. |
 | \[2397 to 2397c. Repealed.\] |  |
 | [2398\.](%C2%A7%2002398%20-%20Procurement%20of%20gasohol%20as%20motor%20vehicle%20fuel.md) | Procurement of gasohol as motor vehicle fuel. |
+| [2398a.](%C2%A7%2002398a%20-%20Procurement%20of%20fuel%20derived%20from%20coal%2C%20oil%20shale%2C%20and%20tar%20sands.md) | Procurement of fuel derived from coal, oil shale, and tar sands. |
 | [2399\.](%C2%A7%2002399%20-%20Operational%20test%20and%20evaluation%20of%20defense%20acquisition%20programs.md) | Operational test and evaluation of defense acquisition programs. |
 | [2400\.](%C2%A7%2002400%20-%20Low-rate%20initial%20production%20of%20new%20systems.md) | Low-rate initial production of new systems. |
-| [2401\.](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%20and%20aircraft.md) | Requirement for authorization by law of certain contracts relating to vessels and aircraft. |
+| [2401\.](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%2C%20aircraft%2C%20and%20combat%20vehicles.md) | Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles. |
 | [2401a.](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md) | Lease of vehicles, equipment, vessels, and aircraft. |
 | [2402\.](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md) | Prohibition of contractors limiting subcontractor sales directly to the United States. |
 | \[2403. | Repealed.\] |
@@ -53,6 +54,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title VIII, §815(d)(2), Jan. 6, 2006, 119 Stat. 3382, substituted “Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles” for “Requirement for authorization by law of certain contracts relating to vessels and aircraft” in item 2401.
+
+2005—Pub. L. 109–58, title III, §369(q)(2), Aug. 8, 2005, 119 Stat. 733, added item 2398a.
+
+2004—Pub. L. 108–375, div. A, title VIII, §804(a)(2), Oct. 28, 2004, 118 Stat. 2008, added item 2383.
 
 2003—Pub. L. 108–136, div. A, title VIII, §801(a)(2), title X, §1005(b)(2), Nov. 24, 2003, 117 Stat. 1540, 1585, added item 2382 and substituted “Contracts for periods crossing fiscal years: severable service contracts; leases of real or personal property” for “Severable service contracts for periods crossing fiscal years” in item 2410a.
 
@@ -84,7 +91,7 @@ Pub. L. 102–484, div. A, title III, §384(a)(1)(B), title VIII, §§808(b)(2),
 
 1990—Pub. L. 101–510, div. A, title VIII, §837(a)(2), title XIV, §1484(i)(8), Nov. 5, 1990, 104 Stat. 1619, 1718, struck out item 2407 “Acquisition of defense equipment under cooperative projects” and added item 2409a.
 
-1989—Pub. L. 101–189, div. A, title VIII, §§802(a)(2), 803(b), title IX, §933(e), title XVI, §1622(b)(2), Nov. 29, 1989, 103 Stat. 1486, 1488, 1538, 1604, added items 2390, 2399, and 2400 and struck out item 2401a “Procurement of communications support and related supplies and services”.
+1989—Pub. L. 101–189, div. A, title VIII, §§802(a)(2), 803(b), title IX, §933(e), title XVI, §1622(b)(2), Nov. 29, 1989, 103 Stat. 1486, 1488, 1538, 1604, added items 2390, 2399, and 2400 and struck out item 2401a “Procurementof communications support and related supplies and services”.
 
 1988—Pub. L. 100–456, div. A, title VIII, §§805(a)(2), 834(a)(2), Sept. 29, 1988, 102 Stat. 2010, 2025, added items 2383 and 2410b.
 
@@ -94,7 +101,7 @@ Pub. L. 100–370, §§1(h)(3), 3(b)(2), July 19, 1988, 102 Stat. 848, 855, in i
 
 1986—Pub. L. 99–661, div. A, title XI, §1103(b)(2)(B), Nov. 14, 1986, 100 Stat. 3963, struck out “North Atlantic Treaty Organization” before “cooperative projects” in item 2407.
 
-Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting “Availability of cost and pricingrecords” for “Cost and price management” in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
+Pub. L. 99–500, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–160, 1783–162, 1783–164, and Pub. L. 99–591, §101(c) \[title X, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–160, 3341–162, 3341–164; Pub. L. 99–661, div. A, title IX, formerly title IV, §§931(a)(2), 941(a)(2), 942(a)(2), 943(a)(2), Nov. 14, 1986, 100 Stat. 3939, 3941–3943, 3963, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically, substituting “Availability of cost and pricing records” for “Cost and price management” in item 2406 and adding items 2397b, 2397c, 2408, and 2409.
 
 1985—Pub. L. 99–145, title IX, §§917(b), 923(a)(2), title XI, §1102(b)(2), Nov. 8, 1985, 99 Stat. 690, 697, 712, added items 2397a, 2406, and 2407.
 
@@ -127,7 +134,7 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 
 - [&sect; 02381 - Contracts regulations for bids](%C2%A7%2002381%20-%20Contracts%20regulations%20for%20bids.md)
 - [&sect; 02382 - Consolidation of contract requirements policy and restrictions](%C2%A7%2002382%20-%20Consolidation%20of%20contract%20requirements%20policy%20and%20restrictions.md)
-- [&sect; 02383 - Repealed. Pub. L. 104&#8211;106, div. A, title VIII, &sect;803(a), Feb. 10, 1996, 110 Stat. 390](%C2%A7%2002383%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7803%28a%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20390.md)
+- [&sect; 02383 - Contractor performance of acquisition functions closely associated with inherently governmental functions](%C2%A7%2002383%20-%20Contractor%20performance%20of%20acquisition%20functions%20closely%20associated%20with%20inherently%20governmental%20functions.md)
 - [&sect; 02384 - Supplies identification of supplier and sources](%C2%A7%2002384%20-%20Supplies%20identification%20of%20supplier%20and%20sources.md)
 - [&sect; 02384a - Supplies economic order quantities](%C2%A7%2002384a%20-%20Supplies%20economic%20order%20quantities.md)
 - [&sect; 02385 - Arms and ammunition immunity from taxation](%C2%A7%2002385%20-%20Arms%20and%20ammunition%20immunity%20from%20taxation.md)
@@ -145,9 +152,10 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 - [&sect; 02396 - Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies&#8230;](%C2%A7%2002396%20-%20Advances%20for%20payments%20for%20compliance%20with%20foreign%20laws%2C%20rent%20in%20foreign%20countries%2C%20tuition%2C%20public%20utility%20services%2C%20and%20pay%20and%20supplies%E2%80%A6.md)
 - [&sect; 02397 to 2397c - Repealed. Pub. L. 104&#8211;106, div. D, title XLIII, &sect;4304(b)(1), Feb. 10, 1996, 110 Stat. 664](%C2%A7%2002397%20to%202397c%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93106%2C%20div.%20D%2C%20title%20XLIII%2C%20%C2%A74304%28b%29%281%29%2C%20Feb.%2010%2C%201996%2C%20110%20Stat.%20664.md)
 - [&sect; 02398 - Procurement of gasohol as motor vehicle fuel](%C2%A7%2002398%20-%20Procurement%20of%20gasohol%20as%20motor%20vehicle%20fuel.md)
+- [&sect; 02398a - Procurement of fuel derived from coal, oil shale, and tar sands](%C2%A7%2002398a%20-%20Procurement%20of%20fuel%20derived%20from%20coal%2C%20oil%20shale%2C%20and%20tar%20sands.md)
 - [&sect; 02399 - Operational test and evaluation of defense acquisition programs](%C2%A7%2002399%20-%20Operational%20test%20and%20evaluation%20of%20defense%20acquisition%20programs.md)
 - [&sect; 02400 - Low-rate initial production of new systems](%C2%A7%2002400%20-%20Low-rate%20initial%20production%20of%20new%20systems.md)
-- [&sect; 02401 - Requirement for authorization by law of certain contracts relating to vessels and aircraft](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%20and%20aircraft.md)
+- [&sect; 02401 - Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles](%C2%A7%2002401%20-%20Requirement%20for%20authorization%20by%20law%20of%20certain%20contracts%20relating%20to%20vessels%2C%20aircraft%2C%20and%20combat%20vehicles.md)
 - [&sect; 02401a - Lease of vehicles, equipment, vessels, and aircraft](%C2%A7%2002401a%20-%20Lease%20of%20vehicles%2C%20equipment%2C%20vessels%2C%20and%20aircraft.md)
 - [&sect; 02402 - Prohibition of contractors limiting subcontractor sales directly to the United States](%C2%A7%2002402%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20the%20United%20States.md)
 - [&sect; 02403 - Repealed. Pub. L. 105&#8211;85, div. A, title VIII, &sect;847(a), Nov. 18, 1997, 111 Stat. 1845](%C2%A7%2002403%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7847%28a%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%201845.md)

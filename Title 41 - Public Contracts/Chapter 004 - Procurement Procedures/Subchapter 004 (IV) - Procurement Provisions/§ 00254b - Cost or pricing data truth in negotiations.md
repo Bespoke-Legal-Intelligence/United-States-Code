@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(A) Reasonable limitations on requests for sales data relating to commercial items.
 
-&emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is inthe form regularly maintained by the offeror in commercial operations.
+&emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
 &emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
@@ -200,7 +200,7 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(a)(3), Feb. 10, 1996, 110 Stat. 671, provided that: “Subsection (a) of section 304A of the Federal Property and Administrative Services Act of 1949 \[subsec. (a) of this section\], as added by subsection (a), shall apply according to the provisions thereof on and after the date of the enactment of this Act \[Oct. 13, 1994\], notwithstanding section 10001(b) \[see Effective Date of 1994 Amendment note set out under section 251 of this title\].”
 
-\[Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section to section 1251(b) of Pub. L. 103–355, set out above, is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.\]
+\[Section 4321(a) of Pub. L. 104–106 provided that the amendment made by that section to section 1251(b) ofPub. L. 103–355, set out above, is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.\]
 
 #### Eligibility for Contracts and Subcontracts To Be Conditioned on Compliance
 

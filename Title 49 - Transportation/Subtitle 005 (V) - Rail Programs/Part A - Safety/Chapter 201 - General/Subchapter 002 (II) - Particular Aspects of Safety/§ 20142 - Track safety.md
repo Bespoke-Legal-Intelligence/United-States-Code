@@ -26,7 +26,25 @@ Identification of Internal Rail Defects.—In carrying out subsections (a) and (
 
 &emsp;(2) any specific actions that should be taken when a rail surface condition, such as shelling, prevents the identification of internal defects.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 879; Pub. L. 103–440, title II, §208, Nov. 2, 1994, 108 Stat. 4621.)
+(e)
+
+Track Standards.—
+
+&emsp;(1)
+
+In general.—Within 90 days after the date of enactment of this subsection, the Federal Railroad Administration shall—
+
+&emsp;&emsp;(A) require each track owner using continuous welded rail track to include procedures (in its procedures filed with the Administration pursuant to section 213.119 of title 49, Code of Federal Regulations) to improve the identification of cracks in rail joint bars;
+
+&emsp;&emsp;(B) instruct Administration track inspectors to obtain copies of the most recent continuous welded rail programs of each railroad within the inspectors’ areas of responsibility and require that inspectors use those programs when conducting track inspections; and
+
+&emsp;&emsp;(C) establish a program to review continuous welded rail joint bar inspection data from railroads and Administration track inspectors periodically.
+
+&emsp;(2)
+
+Inspection.—Whenever the Administration determines that it is necessary or appropriate, the Administration may require railroads to increase the frequency of inspection, or improve the methods of inspection, of joint bars in continuous welded rail.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 879; Pub. L. 103–440, title II, §208, Nov. 2, 1994, 108 Stat. 4621; Pub. L. 109–59, title IX, §9005(a), Aug. 10, 2005, 119 Stat. 1924.)
 
 Historical and Revision Notes
 
@@ -54,7 +72,13 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(s); added Sept. 3, 1992, Pu
 
 In subsection (c), the word “information” is substituted for “data” for consistency in the revised title.
 
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
 1994—Subsec. (a)(1). Pub. L. 103–440, §208(2), inserted “, including cold weather installation procedures” after “attendant structure”.
 

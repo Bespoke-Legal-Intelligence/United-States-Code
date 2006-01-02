@@ -28,7 +28,3 @@ For purposes of this section—
 
 (Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–598.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1400E of this title.
-

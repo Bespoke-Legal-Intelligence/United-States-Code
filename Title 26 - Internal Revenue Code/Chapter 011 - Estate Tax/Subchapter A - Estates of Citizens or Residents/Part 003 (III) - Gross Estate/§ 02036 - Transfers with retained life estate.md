@@ -102,7 +102,7 @@ Section 10402(b) of Pub. L. 100–203 provided that: “The amendment made by su
 
 #### Effective Date of 1978 Amendment
 
-Section 702(i)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending thissection\] shall apply to transfers made after June 22, 1976.”
+Section 702(i)(3) of Pub. L. 95–600 provided that: “The amendments made by this subsection \[amending this section\] shall apply to transfers made after June 22, 1976.”
 
 #### Effective Date of 1976 Amendment
 
@@ -111,8 +111,4 @@ Section 2009(e)(1) of Pub. L. 94–455 provided that: “The amendment made by s
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct. 16, 1962, except as otherwise provided, see section 18(b) of Pub. L. 87–834, set out as a note under section 2031 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2035, 2041, 2043, 2045, 2104, 2107, 2207B, 2501, 6324 of this title.
 

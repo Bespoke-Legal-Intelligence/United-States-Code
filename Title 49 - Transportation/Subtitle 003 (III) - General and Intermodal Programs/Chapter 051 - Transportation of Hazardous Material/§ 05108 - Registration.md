@@ -2,11 +2,11 @@
 
 (a)
 
-Persons Required to File.—(1) A person shall file a registration statement with the Secretary of Transportation under this subsection if the person is transporting or causing to be transported in commerce any of the following:
+Persons Required to File.—(1) A person shall file a registration statement with the Secretary under this subsection if the person is transporting or causing to be transported in commerce any of the following:
 
 &emsp;(A) a highway-route-controlled quantity of radioactive material.
 
-&emsp;(B) more than 25 kilograms of a class A or B explosive in a motor vehicle, rail car, or transport container.
+&emsp;(B) more than 25 kilograms of a Division 1.1, 1.2, or 1.3 explosive material in a motor vehicle, rail car, or transport container.
 
 &emsp;(C) more than one liter in each package of a hazardous material the Secretary designates as extremely toxic by inhalation.
 
@@ -14,51 +14,49 @@ Persons Required to File.—(1) A person shall file a registration statement wit
 
 &emsp;(E) a shipment of at least 5,000 pounds (except in a bulk packaging) of a class of hazardous material for which placarding of a vehicle, rail car, or freight container is required under regulations prescribed under this chapter.
 
-(2) The Secretary of Transportation may require any of the following persons to file a registration statement with the Secretary under this subsection:
+(2) The Secretary may require any of the following persons to file a registration statement with the Secretary under this subsection:
 
 &emsp;(A) a person transporting or causing to be transported hazardous material in commerce and not required to file a registration statement under paragraph (1) of this subsection.
 
-&emsp;(B) a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates.
+&emsp;(B) a person designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce.
 
-(3) A person required to file a registration statement under this subsection may transport or cause to be transported, or manufacture, fabricate, mark, maintain, recondition, repair, or test a package or container for use in transporting, hazardous material, only if the person has a statement on file as required by this subsection.
+(3) A person required to file a registration statement under this subsection may transport or cause to be transported, or design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or container for use in transporting, hazardous material, only if the person has a statement on file as required by this subsection.
 
 (4) The Secretary may waive the filing of a registration statement, or the payment of a fee, required under this subsection, or both, for any person not domiciled in the United States who solely offers hazardous materials for transportation to the United States from a place outside the United States if the country of which such person is a domiciliary does not require persons domiciled in the United States who solely offer hazardous materials for transportation to the foreign country from places in the United States to file registration statements, or to pay fees, for making such an offer.
 
 (b)
 
-Form, Contents, and Limitation on Filings.—(1) A registration statement under subsection (a) of this section shall be in the form and contain information the Secretary of Transportation requires by regulation. The Secretary may use existing forms of the Department of Transportation and the Environmental Protection Agency to carry out this subsection. The statement shall include—
+Form, Contents, and Limitation on Filings.—(1) A registration statement under subsection (a) of this section shall be in the form and contain information the Secretary requires by regulation. The Secretary may use existing forms of the Department of Transportation and the Environmental Protection Agency to carry out this subsection. The statement shall include—
 
 &emsp;(A) the name and principal place of business of the registrant;
 
 &emsp;(B) a description of each activity the registrant carries out for which filing a statement under subsection (a) of this section is required; and
 
-&emsp;(C) each State in which the person carries out the activity.
+&emsp;(C) each State in which the person carries out any of the activities.
 
 (2) A person carrying out more than one activity, or an activity at more than one location, for which filing is required only has to file one registration statement to comply with subsection (a) of this section.
 
 (c)
 
-Filing Deadlines and Amendments.—(1) Each person required to file a registration statement under subsection (a) of this section must file the first statement not later than March 31, 1992. The Secretary of Transportation may extend that date to September 30, 1992, for activities referred to in subsection (a)(1) of this section. A person shall renew the statement periodically consistent with regulations the Secretary prescribes, but not more than once each year and not less than once every 5 years.
-
-(2) The Secretary of Transportation shall decide by regulation when and under what circumstances a registration statement must be amended and the procedures to follow in amending the statement.
+Filing.—Each person required to file a registration statement under subsection (a) shallfile the statement in accordance with regulations prescribed by the Secretary.
 
 (d)
 
-Simplifying the Registration Process.—The Secretary of Transportation may take necessary action to simplify the registration process under subsections (a)–(c) of this section and to minimize the number of applications, documents, and other information a person is required to file under this chapter and other laws of the United States.
+Simplifying the Registration Process.—The Secretary may take necessary action to simplify the registration process under subsections (a)–(c) of this section and to minimize the number of applications, documents, and other information a person is required to file under this chapter and other laws of the United States.
 
 (e)
 
-Cooperation With Administrator.—The Administrator of the Environmental Protection Agency shall assist the Secretary of Transportation in carrying out subsections (a)–(g)(1) and (h) of this section by providing the Secretary with information the Secretary requests to carry out the objectives of subsections (a)–(g)(1) and (h).
+Cooperation With Administrator.—The Administrator of the Environmental Protection Agency shall assist the Secretary in carrying out subsections (a)–(g)(1) and (h) of this section by providing the Secretary with information the Secretary requests to carry out the objectives of subsections (a)–(g)(1) and (h).
 
 (f)
 
-Availability of Statements.—The Secretary of Transportation shall make a registration statement filed under subsection (a) of this section available for inspection by any personfor a fee the Secretary establishes. However, this subsection does not require the release of information described in section 552(b) of title 5 or otherwise protected by law from disclosure to the public.
+Availability of Statements.—The Secretary shall make a registration statement filed under subsection (a) of this section available for inspection by any person for a fee the Secretary establishes. However, this subsection does not require the release of information described in section 552(b) of title 5 or otherwise protected by law from disclosure to the public.
 
 (g)
 
-Fees.—(1) The Secretary of Transportation may establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
+Fees.—(1) The Secretary shall establish, impose, and collect from a person required to file a registration statement under subsection (a) of this section a fee necessary to pay for the costs of the Secretary in processing the statement.
 
-(2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretary of Transportation shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $5,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
+(2)(A) In addition to a fee established under paragraph (1) of this subsection, the Secretary shall establish and impose by regulation and collect an annual fee. Subject to subparagraph (B) of this paragraph, the fee shall be at least $250 but not more than $3,000 from each person required to file a registration statement under this section. The Secretary shall determine the amount of the fee under this paragraph on at least one of the following:
 
 &emsp;(i) gross revenue from transporting hazardous material.
 
@@ -78,23 +76,27 @@ Fees.—(1) The Secretary of Transportation may establish, impose, and collect f
 
 &emsp;(ix) other factors the Secretary considers appropriate.
 
-(B) The Secretary of Transportation shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under section 5116(i) of this title. However, the Secretary is not required to refund any fee collected under this paragraph.
+(B) The Secretary shall adjust the amount being collected under this paragraph to reflect any unexpended balance in the account established under section 5116(i) of this title. However, the Secretary is not required to refund any fee collected under this paragraph.
 
-(C) The Secretary of Transportation shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the account the Secretary of the Treasury establishes under section 5116(i) of this title.
+(C) The Secretary shall transfer to the Secretary of the Treasury amounts the Secretary of Transportation collects under this paragraph for deposit in the Hazardous Materials Emergency Preparedness Fund established under section 5116(i) of this title.
+
+(3)
+
+Fees on exempt persons.—Notwithstanding subsection (a)(4), the Secretary shall impose and collect a fee of $25 from a person who is required to register under this section but who is otherwise exempted by the Secretary from paying any fee under this section. The fee shall be used to pay the costs incurred by the Secretary in processing registration statements filed by such persons.
 
 (h)
 
-Maintaining Proof of Filing and Payment of Fees.—The Secretary of Transportation may prescribe regulations requiring a person required to file a registration statement under subsection (a) of this section to maintain proof of the filing and payment of fees imposed under subsection (g) of this section.
+Maintaining Proof of Filing and Payment of Fees.—The Secretary may prescribe regulations requiring a person required to file a registration statement under subsection (a) of this section to maintain proof of the filing and payment of fees imposed under subsection (g) of this section.
 
 (i)
 
-Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an activity of the Secretary of Transportation under subsections (a)–(g)(1) and (h) of this section.
+Relationship to Other Laws.—(1) Chapter 35 of title 44 does not apply to an activity of the Secretary under subsections (a)–(g)(1) and (h) of this section.
 
 (2)(A) This section does not apply to an employee of a hazmat employer.
 
-(B) Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
+(B) Subsections (a)–(h) of this section do not apply to a department, agency, or instrumentality of the United States Government, an authority of a State or political subdivision of a State, an Indian tribe, or an employee of a department, agency, instrumentality, or authority carrying out official duties.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1), Aug. 26, 1994, 108 Stat. 1673, 1678, 1680; Pub. L. 105–102, §2(3), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–225, §7(b)(1), Aug. 12, 1998, 112 Stat. 1511.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 765; Pub. L. 103–311, title I, §§104, 117(a)(3), 119(d)(1), Aug. 26, 1994, 108 Stat. 1673, 1678, 1680; Pub. L. 105–102, §2(3), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 105–225, §7(b)(1), Aug. 12, 1998, 112 Stat. 1511; Pub. L. 109–59, title VII, §§7109(a)–(c), (e), (f), 7114(d)(3), 7126, Aug. 10, 2005, 119 Stat. 1897, 1898, 1900, 1909.)
 
 Historical and Revision Notes
 
@@ -180,6 +182,50 @@ This amends 49:5108(f) to correct an erroneous cross-reference.
 
 #### Amendments
 
+2005—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 109–59, §7109(a)(1), substituted “Division 1.1, 1.2, or 1.3 explosive material” for “class A or B explosive”.
+
+Subsec. (a)(2). Pub. L. 109–59, §7126, substituted “Secretary may” for “Secretary of Transportation may” in introductory provisions.
+
+Subsec. (a)(2)(B). Pub. L. 109–59, §7109(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “a person manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a package or container the person represents, marks, certifies, or sells for use in transporting in commerce hazardous material the Secretary designates.”
+
+Subsec. (a)(3). Pub. L. 109–59, §7109(a)(3), substituted “design, manufacture, fabricate, inspect, mark, maintain, recondition, repair, or test a package, container packaging component, or” for “manufacture, fabricate, mark, maintain, recondition, repair, or test a package or”.
+
+Subsec. (b)(1). Pub. L. 109–59, §7126, substituted “Secretary requires” for “Secretary of Transportation requires” in introductory provisions.
+
+Subsec. (b)(1)(C). Pub. L. 109–59, §7109(b), substituted “any of the activities” for “the activity”.
+
+Subsec. (c). Pub. L. 109–59, §7109(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
+
+“(1) Each person required to file a registration statement under subsection (a) of this section must file the first statement not later than March 31, 1992. The Secretary of Transportation may extend that date to September 30, 1992, for activities referred to in subsection (a)(1) of this section. A person shall renew the statement periodically consistent with regulations the Secretary prescribes, but not more than once each year and not less than once every 5 years.
+
+“(2) The Secretary of Transportation shall decide by regulation when and under what circumstances a registration statement must be amended and the procedures to follow in amending the statement.”
+
+Subsecs. (d) to (f). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in subsec. (d), “Secretary in carrying” for “Secretary of Transportation in carrying” in subsec. (e), and “Secretary shall” for “Secretary of Transportation shall” in subsec. (f).
+
+Subsec. (g)(1). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall”.
+
+Pub. L. 109–59, §7109(f)(1), substituted “shall” for “may”.
+
+Subsec. (g)(2)(A). Pub. L. 109–59, §7126, substituted “Secretary shall establish” for “Secretary of Transportation shall establish” in introductory provisions.
+
+Pub. L. 109–59, §7109(f)(2), substituted “$3,000” for “$5,000” in introductory provisions.
+
+Subsec. (g)(2)(B). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall”.
+
+Subsec. (g)(2)(C). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall”.
+
+Pub. L. 109–59, §7114(d)(3), substituted “the Hazardous Materials Emergency Preparedness Fund established” for “the account the Secretary of the Treasury establishes”.
+
+Subsec. (g)(3). Pub. L. 109–59, §7109(f)(3), added par. (3).
+
+Subsec. (h). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+
+Subsec. (i)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+
+Subsec. (i)(2)(B). Pub. L. 109–59, §7109(e), inserted “an Indian tribe,” after “subdivision of a State,”.
+
 1998—Subsec. (f). Pub. L. 105–225 substituted “section 552(b)” for “section 552(f)”.
 
 1997—Subsec. (f). Pub. L. 105–102 which directed substitution of “section 552(b)” for “section 522(f)” could not be executed because “section 522(f)” did not appear.
@@ -189,4 +235,8 @@ This amends 49:5108(f) to correct an erroneous cross-reference.
 Subsec. (a)(4). Pub. L. 103–311, §104, added par. (4).
 
 Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out “5107(e),” before “5108(g)(2)”.
+
+#### Registration
+
+Pub. L. 109–59, title VII, §7109(d), Aug. 10, 2005, 119 Stat. 1898, provided that: “As soon as practicable, the Administrator of the Pipeline and Hazardous Materials Safety Administration shall transmit to the Federal Motor Carrier Safety Administration hazardous material registrant information obtained before, on, or after the date of enactment of this Act \[Aug. 10, 2005\] under section 5108 of title 49, United States Code, together with any Department of Transportation identification number for each registrant.”
 

@@ -10,7 +10,7 @@ It shall be unlawful for any person during any war in which the United States is
 
 #### (c) Suspension or amendment of rules and regulations applicable to certain emission stations or devices
 
-Upon proclamation by the President that there exists war or a threat of war, or a state of public peril or disaster or other national emergency, or in order to preserve the neutrality of the United States, the President, if he deems it necessary in the interest of national security or defense, may suspend or amend, for such time as he may see fit, the rules and regulations applicable to any or all stations or devices capable of emitting electromagnetic radiations within the jurisdiction of the United States as prescribed by the Commission, and may cause the closing of any station for radio communication, or any device capable of emitting electromagnetic radiations between 10 kilocycles and 100,000 megacycles, which is suitable for use as a navigational aid beyond five miles, and the removal therefrom of its apparatus and equipment, or he may authorize the use or control of any such station or device and/or its apparatus and equipment, by any department of the Government under such regulations as he may prescribe upon just compensation to the owners. The authority granted to the President, under this subsection, to cause the closing of any station or device and the removal therefrom of its apparatus and equipment, or to authorize the use or control of any station or device and/or its apparatus and equipment, may be exercised in the Canal Zone.
+Upon proclamation by the President that there exists war or a threat of war, or a state of public peril or disaster or other national emergency, or in order to preserve the neutrality of the United States, the President, if he deems it necessary in the interest of national security or defense, may suspend or amend, for such time as he may see fit, the rules and regulations applicable to any or all stations or devices capable of emitting electromagnetic radiations within the jurisdiction of the United States as prescribed by the Commission, and may cause the closing of any station for radio communication, or anydevice capable of emitting electromagnetic radiations between 10 kilocycles and 100,000 megacycles, which is suitable for use as a navigational aid beyond five miles, and the removal therefrom of its apparatus and equipment, or he may authorize the use or control of any such station or device and/or its apparatus and equipment, by any department of the Government under such regulations as he may prescribe upon just compensation to the owners. The authority granted to the President, under this subsection, to cause the closing of any station or device and the removal therefrom of its apparatus and equipment, or to authorize the use or control of any station or device and/or its apparatus and equipment, may be exercised in the Canal Zone.
 
 #### (d) Suspension or amendment of rules and regulations applicable to wire communications; closing of facilities; Government use of facilities
 
@@ -26,7 +26,7 @@ Nothing in subsection (c) or (d) of this section shall be construed to amend, re
 
 #### (g) Limitations upon Presidential power
 
-Nothing in subsection (c) or (d) of this section shall be construed to authorize the President tomake any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) of this section shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
+Nothing in subsection (c) or (d) of this section shall be construed to authorize the President to make any amendment to the rules and regulations of the Commission which the Commission would not be authorized by law to make; and nothing in subsection (d) of this section shall be construed to authorize the President to take any action the force and effect of which shall continue beyond the date after which taking of such action would not have been authorized.
 
 #### (h) Penalties
 
@@ -58,7 +58,7 @@ Subsec. (h). Act Dec. 29, 1942, added subsec. (h).
 
 #### Termination of War and Emergencies
 
-Act July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+Act July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretation of this section, the date July25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
 #### Executive Order No. 8964
 

@@ -12,7 +12,3 @@ Any person who willfully attempts in any manner to evade or defeat any tax impos
 
 Section 329(e) of Pub. L. 97–248 provided that: “The amendments made by this section \[amending this section and sections 7203, 7206, and 7207 of this title\] shall apply to offenses committed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5684, 7501 of this title; title 7 section 12a; title 8 section 1101; title 18 sections 1956, 3237.
-

@@ -12,15 +12,15 @@
 
 &emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the midshipman is permitted to resign as a regular officer before completion of the commissioned service obligation of the midshipman, the midshipman—
 
-&emsp;&emsp;(A) will accept an appointment as a commissioned officer in the Naval Reserve or the Marine Corps Reserve or as a Reserve in the Air Force for service in the Air Force Reserve; and
+&emsp;&emsp;(A) will accept an appointment as a commissioned officer in the Navy Reserve or the Marine Corps Reserve or as a Reserve in the Air Force for service in the Air Force Reserve; and
 
 &emsp;&emsp;(B) will remain in that reserve component until completion of the commissioned service obligation of the midshipman.
 
-(b)(1) The Secretary of the Navy may transfer to the Naval Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
+(b)(1) The Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
-(2) A midshipman who is transferred to the Naval Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
+(2) A midshipman who is transferred to the Navy Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
-(3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman ofthe midshipman's agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
+(3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman's agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
 
 (c) The Secretary of the Navy shall prescribe regulations to carry out this section. Those regulations shall include—
 
@@ -36,7 +36,9 @@
 
 (2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 432; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, §511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, §531(b), Feb. 10, 1996, 110 Stat. 314.)
+(f) A midshipman or former midshipman who does not fulfill the terms of the agreement as specified under section <sup>1</sup> (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 432; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(19), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(b), 542(c), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(b), Nov. 8, 1985, 99 Stat. 624; Pub. L. 101–189, div. A, title V, §511(c), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 104–106, div. A, title V, §531(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title V, §515(b)(1)(S), title VI, §687(c)(10), Jan. 6, 2006, 119 Stat. 3233, 3335.)
 
 Historical and Revision Notes
 
@@ -55,6 +57,10 @@ June 30, 1950, ch. 421, §3, 64 Stat. 304.
 The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that \* \* \* he will” are substituted for the words “articles \* \* \* by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
 
 #### Amendments
+
+2006—Subsecs. (a)(3)(A), (b)(1), (2). Pub. L. 109–163, §515(b)(1)(S), substituted “Navy Reserve” for “Naval Reserve”.
+
+Subsec. (f). Pub. L. 109–163, §687(c)(10), added subsec. (f).
 
 1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
@@ -84,7 +90,7 @@ Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 applicable to persons first admitted to United States Military Academy, United States Naval Academy, and United States Air Force Academy after Dec. 31, 1991, see section 531(e) of Pub. L. 104–106, set out as a note under section 4348 of this title.
+Amendment by Pub. L. 104–106 applicable to persons first admitted to United States Military Academy, United States Naval Academy, and United States AirForce Academy after Dec. 31, 1991, see section 531(e) of Pub. L. 104–106, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -105,4 +111,10 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 #### Regulations Implementing 1985 Amendment
 
 Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

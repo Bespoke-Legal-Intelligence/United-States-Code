@@ -4,7 +4,7 @@
 
 &emsp;(1) such property shall be returned forthwith to the claimant or his agent; and
 
-&emsp;(2) if it appears that there was reasonable cause for the seizure or arrest, the court shall cause a proper certificate thereof to be entered and, in such case, neither the person who made the seizure or arrest nor the prosecutor shall be liable to suit or judgment on account of such suit or prosecution, nor shall the claimant be entitled to costs, except as provided in subsection (b).
+&emsp;(2) if it appears that there was reasonable cause for the seizure or arrest, the court shallcause a proper certificate thereof to be entered and, in such case, neither the person who made the seizure or arrest nor the prosecutor shall be liable to suit or judgment on account of such suit or prosecution, nor shall the claimant be entitled to costs, except as provided in subsection (b).
 
 (b)(1) Except as provided in paragraph (2), in any civil proceeding to forfeit property under any provision of Federal law in which the claimant substantially prevails, the United States shall be liable for—
 

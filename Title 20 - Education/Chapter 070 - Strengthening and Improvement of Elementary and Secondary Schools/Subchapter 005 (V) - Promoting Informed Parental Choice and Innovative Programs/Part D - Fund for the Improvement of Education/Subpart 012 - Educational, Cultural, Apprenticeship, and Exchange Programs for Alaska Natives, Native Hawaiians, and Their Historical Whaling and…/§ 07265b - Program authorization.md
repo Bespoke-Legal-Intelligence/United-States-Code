@@ -14,11 +14,13 @@ In order to carry out programs that fulfill the purposes of this subpart, the Se
 
 &emsp;(5) The New Bedford Whaling Museum and the New Bedford Oceanarium in New Bedford, Massachusetts.
 
-&emsp;(6) Other Alaska Native and Native Hawaiian cultural and educational organizations.
+&emsp;(6) The Mississippi Band of Choctaw Indians in Choctaw, Mississippi.
 
-&emsp;(7) Cultural and educational organizations with experience in developing or operating programs that illustrate and interpret the contributions of Alaska Natives, Native Hawaiians, the whaling industry, and the China trade to the economic, social, and environmental history of the United States.
+&emsp;(7) Other Alaska Native and Native Hawaiian cultural and educational organizations.
 
-&emsp;(8) Consortia of the organizations and entities described in this subsection.
+&emsp;(8) Cultural and educational organizations with experience in developing or operating programs that illustrate and interpret the contributions of Alaska Natives, Native Hawaiians, the whaling industry, and the China trade to the economic, social, and environmental history of the United States.
+
+&emsp;(9) Consortia of the organizations and entities described in this subsection.
 
 #### (b) Uses of funds
 
@@ -36,5 +38,13 @@ Activities provided through programs carried out under this subpart may include 
 
 &emsp;(6) Other activities, consistent with the purposes of this subpart, to meet the educational needs of Alaska Natives, Native Hawaiians, and students and their parents in Massachusetts.
 
-(Pub. L. 89–10, title V, §5523, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1846.)
+&emsp;(7) Cultural and educational programs relating to any Federally recognized Indian tribe in Mississippi.
+
+(Pub. L. 89–10, title V, §5523, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1846; amended Pub. L. 109–149, title III, §306(2), Dec. 30, 2005, 119 Stat. 2870.)
+
+#### Amendments
+
+2005—Subsec. (a)(6) to (9). Pub. L. 109–149, §306(2)(A), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+
+Subsec. (b)(7). Pub. L. 109–149, §306(2)(B), added par. (7).
 

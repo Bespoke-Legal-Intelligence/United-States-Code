@@ -16,7 +16,7 @@
 
 &emsp;For purposes of this subchapter, the term “small business corporation” means a domestic corporation which is not an ineligible corporation and which does not—
 
-&emsp;&emsp;(A) have more than 75 shareholders,
+&emsp;&emsp;(A) have more than 100 shareholders,
 
 &emsp;&emsp;(B) have as a shareholder a person (other than an estate, a trust described in subsection (c)(2), or an organization described in subsection (c)(6)) who is not an individual,
 
@@ -68,11 +68,47 @@
 
 > &emsp;&emsp;before its 5th taxable year which begins after the 1st taxable year for which such termination was effective, unless the Secretary consents to such election.
 
+#### (E) Information returns
+
+&emsp;&emsp;Except to the extent provided by the Secretary, this paragraph shall not apply to part III of subchapter A of chapter 61 (relating to information returns).
+
 #### (c) Special rules for applying subsection (b)
 
-#### (1) Husband and wife treated as 1 shareholder
+#### (1) Members of a family treated as 1 shareholder
 
-&emsp;For purposes of subsection (b)(1)(A), a husband and wife (and their estates) shall be treated as 1 shareholder.
+#### (A) In general
+
+&emsp;&emsp;For purposes of subsection (b)(1)(A), there shall be treated as one shareholder—
+
+&emsp;&emsp;&emsp;(i) a husband and wife (and their estates), and
+
+&emsp;&emsp;&emsp;(ii) all members of a family (and their estates).
+
+#### (B) Members of a family
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “members of a family” means a common ancestor, any lineal descendant of such common ancestor, and any spouse or former spouse of such common ancestor or any such lineal descendant.
+
+#### (ii) Common ancestor
+
+&emsp;&emsp;&emsp;An individual shall not be considered to be a common ancestor if, on the applicable date, the individual is more than 6 generations removed from the youngest generation of shareholders who would (but for this subparagraph) be members of the family. For purposes of the preceding sentence, a spouse (or former spouse) shall be treated as being of the same generation as the individual to whom such spouse is (or was) married.
+
+#### (iii) Applicable date
+
+&emsp;&emsp;&emsp;The term “applicable date” means the latest of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the date the election under section 1362(a) is made,
+
+&emsp;&emsp;&emsp;&emsp;(II) the earliest date that an individual described in clause (i) holds stock in the S corporation, or
+
+&emsp;&emsp;&emsp;&emsp;(III) October 22, 2004.
+
+#### (C) Effect of adoption, etc.
+
+&emsp;&emsp;Any legally adopted child of an individual, any child who is lawfully placed with an individual for legal adoption by the individual, and any eligible foster child of an individual (within the meaning of section 152(f)(1)(C)), shall be treated as a child of such individual by blood.
 
 #### (2) Certain trusts permitted as shareholders
 
@@ -80,7 +116,7 @@
 
 &emsp;&emsp;For purposes of subsection (b)(1)(B), the following trusts may be shareholders:
 
-&emsp;&emsp;&emsp;(i) A trust all of which is treated (under subpart E of part I of subchapter J of this chapter) as owned by an individual who is a citizen or resident of the United States.
+&emsp;&emsp;&emsp;(i) A trust all of which is treated (under subpart E of part I of subchapter J of thischapter) as owned by an individual who is a citizen or resident of the United States.
 
 &emsp;&emsp;&emsp;(ii) A trust which was described in clause (i) immediately before the death of the deemed owner and which continues in existence after such death, but only for the 2-year period beginning on the day of the deemed owner's death.
 
@@ -89,6 +125,8 @@
 &emsp;&emsp;&emsp;(iv) A trust created primarily to exercise the voting power of stock transferred to it.
 
 &emsp;&emsp;&emsp;(v) An electing small business trust.
+
+&emsp;&emsp;&emsp;(vi) In the case of a corporation which is a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)), a trust which constitutes an individual retirement account under section 408(a), including one designated as a Roth IRA under section 408A, but only to the extent of the stock held by such trust in such bank or company as of the date of the enactment of this clause.
 
 > &emsp;&emsp;This subparagraph shall not apply to any foreign trust.
 
@@ -105,6 +143,8 @@
 &emsp;&emsp;&emsp;(iv) In the case of a trust described in clause (iv) of subparagraph (A), each beneficiary of the trust shall be treated as a shareholder.
 
 &emsp;&emsp;&emsp;(v) In the case of a trust described in clause (v) of subparagraph (A), each potential current beneficiary of such trust shall be treated as a shareholder; except that, if for any period there is no potential current beneficiary of such trust, such trust shall be treated as the shareholder during such period.
+
+&emsp;&emsp;&emsp;(vi) In the case of a trust described in clause (vi) of subparagraph (A), the individual for whose benefit the trust was created shall be treated as a shareholder.
 
 #### (3) Estate of individual in bankruptcy may be shareholder
 
@@ -150,9 +190,11 @@
 
 &emsp;In the case of a qualified subchapter S trust with respect to which a beneficiary makes an election under paragraph (2)—
 
-&emsp;&emsp;(A) such trust shall be treated as a trust described in subsection (c)(2)(A)(i), and
+&emsp;&emsp;(A) such trust shall be treated as a trust described in subsection (c)(2)(A)(i),
 
-&emsp;&emsp;(B) for purposes of section 678(a), the beneficiary of such trust shall be treated as the owner of that portion of the trust which consists of stock in an S corporation with respect to which the election under paragraph (2) is made.
+&emsp;&emsp;(B) for purposes of section 678(a), the beneficiary of such trust shall be treated as the owner of that portion of the trust which consists of stock in an S corporation with respect to which the election under paragraph (2) is made, and
+
+&emsp;&emsp;(C) for purposes of applying sections 465 and 469 to the beneficiary of the trust, the disposition of the S corporation stock by the trust shall be treated as a disposition by such beneficiary.
 
 #### (2) Election
 
@@ -164,7 +206,7 @@
 
 #### (i) Separate election with respect to each corporation
 
-&emsp;&emsp;&emsp;An election under this paragraph shall be made separately with respect to each corporation the stock of which is held by the trust.
+&emsp;&emsp;&emsp;An election under this paragraph shall be made separately with respect to eachcorporation the stock of which is held by the trust.
 
 #### (ii) Elections with respect to successive income beneficiaries
 
@@ -242,7 +284,7 @@
 
 #### (2) Potential current beneficiary
 
-&emsp;For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust. If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 60-day period ending on the date of such disposition.
+&emsp;For purposes of this section, the term “potential current beneficiary” means, with respect to any period, any person who at any time during such period is entitled to, or at the discretion of any person may receive, a distribution from the principal or income of the trust (determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period). If a trust disposes of all of the stock which it holds in an S corporation, then, with respect to such corporation, the term “potential current beneficiary” does not include any person who first met the requirements of the preceding sentence during the 1-year period ending on the date of such disposition.
 
 #### (3) Election
 
@@ -252,13 +294,39 @@
 
 &emsp;&emsp;<b>For special treatment of electing small business trusts, see section 641(c).</b>
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641.)
+
+#### References in Text
+
+The date of the enactment of this clause, referred to in subsec. (c)(2)(A)(vi), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Prior Provisions
 
-A prior section 1361, act Aug. 16, 1954, as amended, constituted subchapter R, prior to repeal by Pub. L.89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116. For further details, see matter set out preceding subchapter S.
+A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
 #### Amendments
+
+2005—Subsec. (b)(3)(A). Pub. L. 109–135, §413(c)(1), struck out “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
+
+Subsec. (b)(3)(E). Pub. L. 109–135, §413(c)(2), added subpar. (E).
+
+Subsec. (c)(1). Pub. L. 109–135, §403(b), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (D) relating to treatment as 1 shareholder, family members, adoption, and election.
+
+Subsec. (c)(2)(A)(vi). Pub. L. 109–135, §413(a)(1), inserted “or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” after “a bank (as defined in section 581)” and “or company” after “such bank”.
+
+2004—Subsec. (b)(1)(A). Pub. L. 108–357, §232(a), substituted “100” for “75”.
+
+Subsec. (b)(3)(A). Pub. L. 108–357, §239(a), inserted “and in the case of information returns required under part III of subchapter A of chapter 61” after “Secretary”.
+
+Subsec. (c)(1). Pub. L. 108–357, §231(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “For purposes of subsection (b)(1)(A), a husband and wife (and their estates) shall be treated as 1 shareholder.”
+
+Subsec. (c)(2)(A)(vi). Pub. L. 108–357, §233(a), added cl. (vi).
+
+Subsec. (c)(2)(B)(vi). Pub. L. 108–357, §233(b), added cl. (vi).
+
+Subsec. (d)(1)(C). Pub. L. 108–357, §236(a), added subpar. (C).
+
+Subsec. (e)(2). Pub. L. 108–357, §234(a), inserted “(determined without regard to any power of appointment to the extent such power remains unexercised at the end of such period)” after “of the trust” and substituted “1-year” for “60-day”.
 
 2000—Subsec. (e)(1)(A)(i)(IV). Pub. L. 106–554 added subcl. (IV).
 
@@ -332,6 +400,26 @@ Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, r
 
 Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted “Failure to meet requirements of paragraph (3)(A)” as subpar. (A) heading, substituted “of paragraph (3)(A)” for “under paragraph (3)”, and added subpar. (B).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by section 403(b) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+Pub. L. 109–135, title IV, §413(d), Dec. 21, 2005, 119 Stat. 2642, provided that: “The amendments made by this section \[amending this section and sections 1362 and 4975 of this title\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which they relate.”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §231(c)(1), Oct. 22, 2004, 118 Stat. 1433, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+
+Pub. L. 108–357, title II, §232(b), Oct. 22, 2004, 118 Stat. 1434, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+
+Amendment by section 233(a), (b) of Pub. L. 108–357 effective Oct. 22, 2004, see section 233(e) of Pub. L. 108–357, set out as a note under section 512 of this title.
+
+Pub. L. 108–357, title II, §234(b), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+
+Pub. L. 108–357, title II, §236(b), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section \[amending this section\] shall apply to transfers made after December 31, 2004.”
+
+Pub. L. 108–357, title II, §239(b), Oct. 22, 2004, 118 Stat. 1437, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–554 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 1(a)(7) \[title III, §316(e)\] of Pub. L. 106–554, set out as a note under section 51 of this title.
@@ -354,7 +442,7 @@ Amendment by section 1616(b)(15) of Pub. L. 104–188 applicable to taxable year
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -388,7 +476,7 @@ Amendment made by subsection (g)
 
 &emsp;“(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
 
-&emsp;“(B) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986, paragraph (2) of section 1362(e) of such Code would apply,
+&emsp;“(B) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respectto the deemed sale under section 338 of the Internal Revenue Code of 1986, paragraph (2) of section 1362(e) of such Code would apply,
 
 > then the amendment made by paragraph (1) of subsection (g) \[amending section 1362 of this title\] shall not apply to such qualified stock purchase.
 
@@ -570,13 +658,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 97–448, title III, §305(d)(1)(B), Jan. 12, 1983, 96 Stat. 2399, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If—
 
-&emsp;“(i) after September 30, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], stock or securities were transferred to a small business corporation (as defined in section 1361(b) of the InternalRevenue Code of 1986 \[formerly I.R.C. 1954\] as amended by the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\]) in a transaction to which section 351 of such Code applies, and
+&emsp;“(i) after September 30, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], stock or securities were transferred to a small business corporation (as defined in section 1361(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by the Subchapter S Revision Act of 1982 \[Pub. L. 97–354\]) in a transaction to which section 351 of such Code applies, and
 
 &emsp;“(ii) such corporation is liquidated under section 333 of such Code before March 1, 1983,
 
 > then such stock or securities shall not be taken into account under section 333(e)(2) of such Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280G, 512, 641, 678, 856, 1362 of this title; title 29 sections 1021, 1108.
 

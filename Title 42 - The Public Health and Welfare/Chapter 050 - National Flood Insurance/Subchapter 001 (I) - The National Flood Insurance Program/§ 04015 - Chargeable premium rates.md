@@ -42,7 +42,7 @@ Except with respect to properties described under paragraph (2) or (3) <sup>1</
 
 #### (f) Adjustment of premium
 
-Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is required under this section due to an error in the flood plain determination, the Director may only prospectively charge the higher premium rate.
+Notwithstanding any other provision of law, if the Director determines that the holder of a flood insurance policy issued under this chapter is paying a lower premium than is requiredunder this section due to an error in the flood plain determination, the Director may only prospectively charge the higher premium rate.
 
 (Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277; Pub. L. 108–264, title I, §106, title II, §209, June 30, 2004, 118 Stat. 724, 727.)
 

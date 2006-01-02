@@ -36,7 +36,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(5) To permit the Federal Government to advocate the cause of international education.
 
-(Pub. L. 102–183, title VIII, §801, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(a), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 105–272, title III, §305(a)(1), Oct. 20, 1998, 112 Stat. 2400.)
+(Pub. L. 102–183, title VIII, §801, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(a), Oct.24, 1992, 106 Stat. 3185; Pub. L. 105–272, title III, §305(a)(1), Oct. 20, 1998, 112 Stat. 2400.)
 
 #### Amendments
 

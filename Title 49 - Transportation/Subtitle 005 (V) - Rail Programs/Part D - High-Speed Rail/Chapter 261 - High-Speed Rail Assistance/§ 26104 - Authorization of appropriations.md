@@ -2,51 +2,25 @@
 
 (a)
 
-Fiscal Year 1995.—There are authorized to be appropriated to the Secretary $29,000,000 for fiscal year 1995, for carrying out sections 26101 and 26102 (including payment of administrative expenses related thereto).
+Fiscal Years 2006
+
+Through 2013.—There are authorized to be appropriated to the Secretary—
+
+&emsp;(1) $70,000,000 for carrying out section 26101; and
+
+&emsp;(2) $30,000,000 for carrying out section 26102,
+
+> for each of the fiscal years 2006 through 2013.
 
 (b)
 
-Fiscal Year 1996.—(1) There are authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1996, for carrying out section 26101 (including payment of administrative expenses related thereto).
+Funds To Remain Available.—Funds made available under this section shall remain available until expended.
 
-(2) There are authorized to be appropriated to the Secretary $30,000,000 for fiscal year 1996, for carrying out section 26102 (including payment of administrative expenses related thereto).
-
-(c)
-
-Fiscal Year 1997.—(1) There are authorized to be appropriated to the Secretary $45,000,000 for fiscal year 1997, for carrying out section 26101 (including payment of administrative expenses related thereto).
-
-(2) There are authorized to be appropriated to the Secretary $40,000,000 for fiscal year 1997, for carrying out section 26102 (including payment of administrative expenses related thereto).
-
-(d)
-
-Fiscal Year 1998.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 1998, for carrying out section 26101 (including payment of administrative expenses related thereto).
-
-(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 1998, for carrying out section 26102 (including payment of administrative expenses related thereto).
-
-(e)
-
-Fiscal Year 1999.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 1999, for carrying out section 26101 (including payment of administrative expenses related thereto).
-
-(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 1999, for carrying out section 26102 (including payment of administrative expenses related thereto).
-
-(f)
-
-Fiscal Year 2000.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 2000, for carrying out section 26101 (including payment of administrative expenses related thereto).
-
-(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 2000, for carrying out section 26102 (including payment of administrative expenses related thereto).
-
-(g)
-
-Fiscal Year 2001.—(1) There are authorized to be appropriated to the Secretary $10,000,000 for fiscal year 2001, for carrying out section 26101 (including payment of administrative expenses related thereto).
-
-(2) There are authorized to be appropriated to the Secretary $25,000,000 for fiscal year 2001, for carrying out section 26102 (including payment of administrative expenses related thereto).
-
-(h)
-
-Funds to Remain Available.—Funds made available under this section shall remain available until expended.
-
-(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(a), June 9, 1998, 112 Stat. 469.)
+(Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(a), June 9, 1998, 112 Stat. 469; Pub. L. 109–59, title IX, §9001(b), Aug. 10, 2005, 119 Stat. 1919.)
 
 #### Amendments
+
+2005—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to authorization of appropriations for fiscal years 1995 through 2001 and availability of funds.
 
 1998—Subsecs. (d) to (h). Pub. L. 105–178 added subsecs. (d) to (g) and redesignated former subsec. (d) as (h).
 

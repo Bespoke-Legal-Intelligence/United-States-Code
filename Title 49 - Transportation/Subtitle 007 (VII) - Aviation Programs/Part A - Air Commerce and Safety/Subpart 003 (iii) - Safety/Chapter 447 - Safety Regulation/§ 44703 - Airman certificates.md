@@ -222,7 +222,7 @@ Good faith exception.—Notwithstanding paragraph (1), an air carrier, without o
 
 &emsp;(15)
 
-Electronic access to faa records.—For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
+Electronic access to faa records.—For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decisionconcerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
 
 (i)
 

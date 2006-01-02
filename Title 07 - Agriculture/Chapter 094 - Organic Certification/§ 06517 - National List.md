@@ -10,7 +10,7 @@ The list established under subsection (a) of this section shall contain an itemi
 
 #### (c) Guidelines for prohibitions or exemptions
 
-#### (1) Exemption for prohibited substances
+#### (1) Exemption for prohibited substances in organic production and handling operations
 
 &emsp;The National List may provide for the use of substances in an organic farming or handling operation that are otherwise prohibited under this chapter only if—
 
@@ -24,11 +24,9 @@ The list established under subsection (a) of this section shall contain an itemi
 
 &emsp;&emsp;(B) the substance—
 
-&emsp;&emsp;&emsp;(i) is used in production and contains an active synthetic ingredient in the following categories: copper and sulfur compounds; toxins derived from bacteria; pheromones, soaps, horticultural oils, fish emulsions, treated seed, vitamins and minerals; livestock parasiticides and medicines and production aids including netting, tree wraps and seals, insect traps, sticky barriers, row covers, and equipment cleansers;
+&emsp;&emsp;&emsp;(i) is used in production and contains an active synthetic ingredient in the following categories: copper and sulfur compounds; toxins derived from bacteria; pheromones, soaps, horticultural oils, fish emulsions, treated seed, vitamins and minerals; livestock parasiticides and medicines and production aids including netting, tree wraps and seals, insect traps, sticky barriers, row covers, and equipment cleansers; or
 
-&emsp;&emsp;&emsp;(ii) is used in production and contains synthetic inert ingredients that are not classified by the Administrator of the Environmental Protection Agency as inerts of toxicological concern; or
-
-&emsp;&emsp;&emsp;(iii) is used in handling and is non-synthetic but is not organically produced; and
+&emsp;&emsp;&emsp;(ii) is used in production and contains synthetic inert ingredients that are not classified by the Administrator of the Environmental Protection Agency as inerts of toxicological concern; and
 
 &emsp;&emsp;(C) the specific exemption is developed using the procedures described in subsection (d) of this section.
 
@@ -60,19 +58,29 @@ The list established under subsection (a) of this section shall contain an itemi
 
 #### (4) Notice and comment
 
-&emsp;Before establishing the National List or before making any amendments to the National List, the Secretary shall publish the Proposed National List or any Proposed Amendments to the National List in the Federal Register and seek public comment on such proposals. The Secretary shall include in such Notice any changes to such proposed list or amendments recommended by the Secretary.
+&emsp;Before establishing the National List or before making any amendments to the National List, the Secretary shall publish the Proposed National List or any Proposed Amendments tothe National List in the Federal Register and seek public comment on such proposals. The Secretary shall include in such Notice any changes to such proposed list or amendments recommended by the Secretary.
 
 #### (5) Publication of National List
 
 &emsp;After evaluating all comments received concerning the Proposed National List or Proposed Amendments to the National List, the Secretary shall publish the final National List in the Federal Register, along with a discussion of comments received.
 
+#### (6) Expedited petitions for commercially unavailable organic agricultural products constituting less than 5 percent of an organic processed product
+
+&emsp;The Secretary may develop emergency procedures for designating agricultural products that are commercially unavailable in organic form for placement on the National List for a period of time not to exceed 12 months.
+
 #### (e) Sunset provision
 
 No exemption or prohibition contained in the National List shall be valid unless the National Organic Standards Board has reviewed such exemption or prohibition as provided in this section within 5 years of such exemption or prohibition being adopted or reviewed and the Secretary has renewed such exemption or prohibition.
 
-(Pub. L. 101–624, title XXI, §2118, Nov. 28, 1990, 104 Stat. 3946; Pub. L. 102–237, title X, §1001(6), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 101–624, title XXI, §2118, Nov. 28, 1990, 104 Stat. 3946; Pub. L. 102–237, title X, §1001(6), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, §797(b), Nov. 10, 2005, 119 Stat. 2165.)
 
 #### Amendments
+
+2005—Subsec. (c)(1). Pub. L. 109–97, §797(b)(1)(A), inserted “in organic production and handling operations” after “substances” in heading.
+
+Subsec. (c)(1)(B)(iii). Pub. L. 109–97, §797(b)(1)(B), (C), struck out cl. (iii) which read as follows: “is used in handling and is non-synthetic but is not organically produced; and”.
+
+Subsec. (d)(6). Pub. L. 109–97, §797(b)(2), added par. (6).
 
 1991—Subsec. (c)(1)(B)(i). Pub. L. 102–237 substituted “parasiticides” for “paraciticides”.
 

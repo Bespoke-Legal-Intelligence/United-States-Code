@@ -2,7 +2,7 @@
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, are and should continue after June 30, 1997, to be the policy of the United States with respect to commerce between the United States and Hong Kong:
 
-&emsp;(1) The United States should seek to maintain and expand economic and trade relations with Hong Kong and should continue to treat Hong Kong as a separate territory in economic and trade matters, such as import quotas and certificates of origin.
+&emsp;(1) The United States should seek to maintain and expand economic and trade relationswith Hong Kong and should continue to treat Hong Kong as a separate territory in economic and trade matters, such as import quotas and certificates of origin.
 
 &emsp;(2) The United States should continue to negotiate directly with Hong Kong to conclude bilateral economic agreements.
 

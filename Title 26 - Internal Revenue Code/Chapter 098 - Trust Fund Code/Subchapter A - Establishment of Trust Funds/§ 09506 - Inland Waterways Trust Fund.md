@@ -6,13 +6,13 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 #### (b) Transfer to Trust Fund of amounts equivalent to certain taxes
 
-There are hereby appropriated to the Inland Waterways Trust Fund amounts equivalent to the taxes received in the Treasury under section 4042 (relating to tax on fuel used in commercial transportation on inland waterways). The preceding sentence shall apply only to so much ofsuch taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).
+There are hereby appropriated to the Inland Waterways Trust Fund amounts equivalent to the taxes received in the Treasury under section 4042 (relating to tax on fuel used in commercial transportation on inland waterways). The preceding sentence shall apply only to so much of such taxes as are attributable to the Inland Waterways Trust Fund financing rate under section 4042(b).
 
 #### (c) Expenditures from Trust Fund
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), amounts in the Inland Waterways Trust Fund shall be available, as provided by appropriation Acts, for making construction and rehabilitation expenditures for navigation on the inland and coastal waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978, as in effect on the date of the enactment of this section.
+&emsp;Except as provided in paragraph (2), amounts in the Inland Waterways Trust Fundshall be available, as provided by appropriation Acts, for making construction and rehabilitation expenditures for navigation on the inland and coastal waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978, as in effect on the date of the enactment of this section.
 
 #### (2) Exception for certain projects
 

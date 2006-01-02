@@ -4,7 +4,3 @@ Every individual (other than a nonresident alien individual) having net earnings
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 739.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1403, 6072 of this title.
-

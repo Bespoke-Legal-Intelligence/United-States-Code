@@ -60,7 +60,7 @@ Each Farm Credit Bank shall be a body corporate and, subject to regulation by th
 
 &emsp;(15) buy and sell obligations of, or insured by, the United States or any agency thereof, or securities backed by the full faith and credit of any such agency, and make other investments as may be authorized under regulations issued by the Farm Credit Administration;
 
-&emsp;(16) sell to lenders that are not Farm Credit System institutions interests in loans, and buy from and sell to Farm Credit System institutions interests in loans and other extensions of credit, and nonvoting stock as may beauthorized under regulations issued by the Farm Credit Administration;
+&emsp;(16) sell to lenders that are not Farm Credit System institutions interests in loans, and buy from and sell to Farm Credit System institutions interests in loans and other extensions of credit, and nonvoting stock as may be authorized under regulations issued by the Farm Credit Administration;
 
 &emsp;(17) conduct studies and make and adopt standards for lending;
 

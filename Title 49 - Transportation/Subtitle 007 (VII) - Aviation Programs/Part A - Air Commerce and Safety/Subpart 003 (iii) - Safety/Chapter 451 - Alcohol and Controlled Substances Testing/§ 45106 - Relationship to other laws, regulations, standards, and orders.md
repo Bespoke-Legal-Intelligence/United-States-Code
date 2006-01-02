@@ -44,7 +44,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §614(e); added Oct. 28, 1991, Pu
 
 49 App.:1434(e)(2).
 
-In subsection (a), the word “prescribe” is substitued for “adopt” for consistency in the revised title and with other titles of the United States Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “actual” and “whether the provisions apply specifically to employees of an air carrier or foreign air carrier, or to the general public” are omitted as surplus.
+In subsection (a), the word “prescribe” is substituted for “adopt” for consistency in the revised title and with other titles of the United States Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “actual” and “whether the provisions apply specifically to employees of an air carrier or foreign air carrier, or to the general public” are omitted as surplus.
 
 In subsection (c) the word “prevent” is substituted for “restrict the discretion of” to eliminate unnecessary words.
 

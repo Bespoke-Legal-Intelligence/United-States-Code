@@ -22,7 +22,7 @@ The following conduct is prohibited:
 
 &emsp;(10) The removal of any marking required by the Secretary to identify a horse as being detained.
 
-&emsp;(11) The failure or refusal to provide the Secretary with adequate space or facilities, as theSecretary may by regulation under section 1828 of this title prescribe, in which to conduct inspections or any other activity authorized to be performed by the Secretary under this chapter.
+&emsp;(11) The failure or refusal to provide the Secretary with adequate space or facilities, as the Secretary may by regulation under section 1828 of this title prescribe, in which to conduct inspections or any other activity authorized to be performed by the Secretary under this chapter.
 
 (Pub. L. 91–540, §5, Dec. 9, 1970, 84 Stat. 1405; Pub. L. 94–360, §6, July 13, 1976, 90 Stat. 916.)
 

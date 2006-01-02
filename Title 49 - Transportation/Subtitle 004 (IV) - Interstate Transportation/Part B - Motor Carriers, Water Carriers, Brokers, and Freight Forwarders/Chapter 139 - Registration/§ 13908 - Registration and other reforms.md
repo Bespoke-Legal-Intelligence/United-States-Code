@@ -2,47 +2,55 @@
 
 (a)
 
-Regulations Replacing Certain Programs.—The Secretary, in cooperation with the States, and after notice and opportunity for public comment, shall issue regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, on-line, Federal system. The new system shall serve as a clearinghouse and depository of information on and identification of all foreign and domestic motor carriers, brokers, and freight forwarders, and others required to register with the Department as well as information on safety fitness and compliance with required levels of financial responsibility. In issuing the regulations, the Secretary shall consider whether or not to integrate the requirements of section 13304 into the new system and may integrate such requirements into the new system.
+Establishment of Unified Carrier Registration System.—The Secretary, in cooperation with the States, representatives of the motor carrier, motor private carrier, freight forwarder, and broker industries and after notice and opportunity for public comment, shall issue within 1 year after the date of enactment of the Unified Carrier Registration Act of 2005 regulations to establish an online Federal registration system, to be named the “Unified Carrier Registration System”, to replace—
+
+&emsp;(1) the current Department of Transportation identification number system, the single State registration system under section 14504;
+
+&emsp;(2) the registration system contained in this chapter and the financial responsibility information system under section 13906; and
+
+&emsp;(3) the service of process agent systems under sections 503 and 13304.
 
 (b)
 
-Factors To Be Considered.—In conducting the rulemaking under subsection (a), the Secretary shall, at a minimum, consider the following factors:
-
-&emsp;(1) Funding for State enforcement of motor carrier safety regulations.
-
-&emsp;(2) Whether the existing single State registration system is duplicative and burdensome.
-
-&emsp;(3) The justification and need for collecting the statutory fee for such system under section 14504(c)(2)(B)(iv).
-
-&emsp;(4) The public safety.
-
-&emsp;(5) The efficient delivery of transportation services.
-
-&emsp;(6) How, and under what conditions, to extend the registration system to motor private carriers and to carriers exempt under sections 13502, 13503, and 13506.
+Role as Clearinghouse and Depository of Information.—The Unified Carrier Registration System shall serve as a clearinghouse and depository of information on, and identification of, all foreign and domestic motor carriers, motor private carriers, brokers, freight forwarders, and others required to register with the Department of Transportation, including information with respect to a carrier's safety rating, compliance with required levels of financial responsibility, and compliance with the provisions of section 14504a. The Secretary shall ensure that Federal agencies, States, representatives of the motor carrier industry, and the public have access to the Unified Carrier Registration System, including the records and information contained in the System.
 
 (c)
 
-Fee System.—The Secretary may establish, under section 9701 of title 31, a fee system for registration and filing evidence of financial responsibility under the new system under subsection (a). Fees collected under the fee system shall cover the costs of operating and upgrading the registration system, including all personnel costs associated with the system. Fees collected under this subsection may be credited to the Department of Transportation appropriations account for purposes for which such fees are collected, and shall be available for expenditure until expended.
+Procedures for Correcting Information.—Not later than 60 days after the effective date of this section, the Secretary shall prescribe regulations establishing procedures that enable a motor carrier to correct erroneous information contained in any part of the Unified Carrier Registration System.
 
 (d)
 
-State Registration Programs.—If the Secretary determines that no State should require insurance filings or collect fees for such filings (including filings and fees authorized under section 14504), the Secretary may prevent any State or political subdivision thereof, or any political authority of 2 or more States, from imposing any insurance filing requirements or fees that are for the same purposes as filings or fees the Secretary requires under the new system under subsection (a). The Secretary may not take any action pursuant to this subsection unless—
+Fee System.—The Secretary shall establish, under section 9701 of title 31, a fee system for the Unified Carrier Registration System according to the following guidelines:
 
-&emsp;(1) fees that will be collected by the Secretary under subsection (c) and distributed in each fiscal year to the States will provide each State with at least as much revenue as that State received in fiscal year 1995 under section 11506, as in effect on December 31, 1995; and
+&emsp;(1)
 
-&emsp;(2) all States will receive from the distribution of such fees a minimum apportionment.
+Registration and filing evidence of financial responsibility.—The fee for new registrants shall as nearly as possible cover the costs of processing the registration but shall not exceed $300.
+
+&emsp;(2)
+
+Evidence of financial responsibility.—The fee for filing evidence of financial responsibility pursuant to this section shall not exceed $10 per filing. No fee shall be charged for a filing for purposes of designating an agent for service of process or the filing of other information relating to financial responsibility.
+
+&emsp;(3)
+
+Access and retrieval fees.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the fee system shall include a nominal fee for the access to or retrieval of information from the Unified Carrier Registration System to cover the costs of operating and upgrading the System, including the personnel costs incurred by the Department and the costs of administration of the unified carrier registration agreement.
+
+&emsp;&emsp;(B)
+
+Exceptions.—There shall be no fee charged under this paragraph—
+
+&emsp;&emsp;&emsp;(i) to any agency of the Federal Government or a State government or any political subdivision of any such government for the access to or retrieval of information and data from the Unified Carrier Registration System for its own use; or
+
+&emsp;&emsp;&emsp;(ii) to any representative of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder (as each is defined in section 14504a) for the access to or retrieval of the individual information related to such entity from the Unified Carrier Registration System for the individual use of such entity.
 
 (e)
 
-Deadline for Conclusion; Modifications.—Not later than 24 months after January 1, 1996, the Secretary—
+Application to Certain Intrastate Operations.—Nothing in this section requires the registration of a motor carrier, a motor private carrier of property, or a transporter of waste or recyclable materials operating exclusively in intrastate transportation not otherwise required to register with the Secretary under another provision of this title.
 
-&emsp;(1) shall conclude the rulemaking under this section;
-
-&emsp;(2) may implement such changes under this section as the Secretary considers appropriate and in the public interest; and
-
-&emsp;(3) shall transmit to Congress a report on any findings of the rulemaking and the changes being implemented under this section, together with such recommendations for legislative language necessary to conform this part to such changes.
-
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36), Oct. 11, 1996, 110 Stat. 3392.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4304, Aug. 10, 2005, 119 Stat. 1763.)
 
 #### Historical and Revision Notes
 
@@ -56,11 +64,19 @@ This sets out the effective date of 49:13908.
 
 #### References in Text
 
-Section 11506, referred to in subsec. (d)(1), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsec. (a), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+The effective date of this section, referred to in subsec. (c), probably means the date of enactment of Pub. L. 109–59, which amended this section generally and was approved Aug. 10, 2005.
 
 #### Amendments
+
+2005—Pub. L. 109–59 amended heading and text of section generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to issuance of regulations to replace the current Department of Transportation identification number system, the single State registration system under section 14504, the registration system contained in this chapter, and the financial responsibility information system under section 13906 with a single, online, Federal system.
 
 1996—Subsec. (d)(1). Pub. L. 104–287, §5(36)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
 Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted “January 1, 1996” for “the effective date of this section”.
+
+#### Relationship to Other Laws
+
+Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle C (§§4301–4308) of title IV of Pub. L. 109–59 is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law, see section 4302 of Pub. L. 109–59, set out as a note under section 13902 of this title.
 

@@ -10,7 +10,7 @@ For purposes of this section:
 
 &emsp;(3) The term “stationary source” means any building, structure, facility, or installation which emits or may emit any air pollutant. Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.
 
-&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
+&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in theemission of any air pollutant not previously emitted.
 
 &emsp;(5) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source.
 
@@ -148,7 +148,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 (D) A waiver under this paragraph shall extend to the sooner of—
 
-&emsp;(i) the date determined by the Administrator, after consultation with the owner or operator of the source, taking into consideration the design, installation, and capital cost of the technological system or systems being used, or
+&emsp;(i) the date determined by the Administrator, after consultation with the owner or operator of the source, taking into consideration the design, installation, and capital costof the technological system or systems being used, or
 
 &emsp;(ii) the date on which the Administrator determines that such system has failed to—
 
@@ -208,7 +208,7 @@ Subsec. (g)(5) to (8). Pub. L. 101–549, §302(b), redesignated par. (7) as (5)
 
 “(5) Upon application by the Governor of a State showing that the Administrator has failed to list any air pollutant which causes, or contributes to, air pollution which may reasonably be anticipated to result in an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness as a hazardous air pollutant under section 7412 of this title the Administrator shall revise the list of hazardous air pollutants under such section to include such pollutant.
 
-“(6) Upon application by the Governor of a State showing that any category of stationary sources of ahazardous air pollutant listed under section 7412 of this title is not subject to emission standards under such section, the Administrator shall propose and promulgate such emission standards applicable to such category of sources.”
+“(6) Upon application by the Governor of a State showing that any category of stationary sources of a hazardous air pollutant listed under section 7412 of this title is not subject to emission standards under such section, the Administrator shall propose and promulgate such emission standards applicable to such category of sources.”
 
 1978—Subsecs. (d)(1)(A)(ii), (g)(4)(B). Pub. L. 95–623, §13(a)(2), substituted “under this section” for “under subsection (b) of this section”.
 
@@ -270,7 +270,7 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an EffectiveDate of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

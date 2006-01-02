@@ -6,7 +6,7 @@
 
 &emsp;(A) in connection with their attendance at meetings or in performing advisory services concerned with the functions or activities of the Department; or
 
-&emsp;(B) in connection with acceptance of significant awards or with activity related thereto concerned with functions or activities of the Department.
+&emsp;(B) in connection with acceptance of significant awards or with activity related theretoconcerned with functions or activities of the Department.
 
 (2) Any such payment may be retained by such officers and employees to cover the cost of such expenses or shall be deposited to the credit of the appropriation from which the cost of such expenses is paid, as may be provided in such regulations.
 

@@ -18,13 +18,19 @@ Members Eligible for Programs.—Subject to such other eligibility requirements 
 
 (c)
 
-Conferral of Degrees.—(1) Subject to paragraph (2), the commander of the Air Education and Training Command of the Air Force may confer an academic degree at the level of associate upon any enlisted member who has completed the program prescribed by the Community College of the Air Force.
+Associate Degrees.—(1) Subject to paragraph (2), an academic degree at the level of associate may be conferred under section 9317 of this title upon any enlisted member who has completed a program prescribed by the Community College of the Air Force.
 
-(2) No degree may be conferred upon any enlisted member under this section unless (A) the Community College of the Air Force certifies to the commander of the Air Education and Training Command of the Air Force that such member has satisfied all the requirements prescribed for such degree, and (B) the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
+(2) No degree may be conferred upon any enlisted member under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
 
-(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748.)
+(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–375 amended heading and text generally. Prior to amendment, text read as follows:
+
+“(1) Subject to paragraph (2), the commander of the Air Education and Training Command of the Air Force may confer an academic degree at the level of associate upon any enlisted member who has completed the program prescribed by the Community College of the Air Force.
+
+“(2) No degree may be conferred upon any enlisted member under this section unless (A) the Community College of the Air Force certifies to the commander of the Air Education and Training Command of the Air Force that such member has satisfied all the requirements prescribed for such degree, and (B) the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.”
 
 1997—Subsec. (a). Pub. L. 105–85, §552(b)(1), inserted heading.
 

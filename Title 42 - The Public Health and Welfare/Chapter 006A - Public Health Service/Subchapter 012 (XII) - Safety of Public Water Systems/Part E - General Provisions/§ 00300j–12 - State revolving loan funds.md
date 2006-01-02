@@ -18,7 +18,7 @@
 
 #### (D) Allotment formula
 
-&emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out thissection shall be allotted to States that have entered into an agreement pursuant to this section (other than the District of Columbia) in accordance with—
+&emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out this section shall be allotted to States that have entered into an agreement pursuant to this section (other than the District of Columbia) in accordance with—
 
 &emsp;&emsp;&emsp;(i) for each of fiscal years 1995 through 1997, a formula that is the same as the formula used to distribute public water system supervision grant funds under section 300j–2 of this title in fiscal year 1995, except that the minimum proportionate share established in the formula shall be 1 percent of available funds and the formula shall be adjusted to include a minimum proportionate share for the State of Wyoming and the District of Columbia; and
 
@@ -44,7 +44,7 @@
 
 #### (2) Use of funds
 
-&emsp;Except as otherwise authorized by this subchapter, amounts deposited in a State loan fund, including loan repayments and interest earned on such amounts, shall be used only for providing loans or loan guarantees, or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in a State loan fund established under paragraph (1), or other financial assistance authorized under this section to community water systems and nonprofit noncommunity water systems, other than systems owned by Federal agencies. Financial assistance under this section may be used by a public water system only for expenditures (not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter. The funds may also be used to provide loans to a system referred to in section 300f(4)(B) of this title for the purpose of providing the treatment described in section 300f(4)(B)(i)(III) of this title.The funds shall not be used for the acquisition of real property or interests therein, unless the acquisition is integral to a project authorized by this paragraph and the purchase is from a willing seller. Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
+&emsp;Except as otherwise authorized by this subchapter, amounts deposited in a State loan fund, including loan repayments and interest earned on such amounts, shall be used only for providing loans or loan guarantees, or as a source of reserve and security for leveraged loans, the proceeds of which are deposited in a State loan fund established under paragraph (1), or other financial assistance authorized under this section to community water systems and nonprofit noncommunity water systems, other than systems owned by Federal agencies. Financial assistance under this section may be used by a public water system only for expenditures (not including monitoring, operation, and maintenance expenditures) of a type or category which the Administrator has determined, through guidance, will facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter. The funds may also be used to provide loans to a system referred to in section 300f(4)(B) of this title for the purpose of providing the treatment described in section 300f(4)(B)(i)(III) of this title. The funds shall not be used for the acquisition of real property or interests therein, unless the acquisition is integral to a project authorized by this paragraph and the purchase is from a willing seller. Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
 
 #### (3) Limitation
 
@@ -120,7 +120,7 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 #### (e) State contribution
 
-Each agreement under subsection (a) of this section shall require that the State deposit in the State loan fund from State moneys anamount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
+Each agreement under subsection (a) of this section shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
 
 #### (f) Types of assistance
 
@@ -176,7 +176,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 &emsp;The Administrator shall publish guidance and promulgate regulations as may be necessary to carry out the provisions of this section, including—
 
-&emsp;&emsp;(A) provisions to ensure that each State commits and expends funds allotted to the State under this section as efficiently aspossible in accordance with this subchapter and applicable State laws;
+&emsp;&emsp;(A) provisions to ensure that each State commits and expends funds allotted to the State under this section as efficiently as possible in accordance with this subchapter and applicable State laws;
 
 &emsp;&emsp;(B) guidance to prevent waste, fraud, and abuse; and
 
@@ -228,9 +228,9 @@ Of the funds annually available under this section for grants to States, the Adm
 
 &emsp;&emsp;&emsp;(iii) Any community water system to provide funding in accordance with section 300j–14(a)(1)(B)(i) of this title.
 
-&emsp;&emsp;(B) Provide assistance, including technical and financial assistance, to any public water system as part of a capacity development strategy developed and implemented in accordance with section 300g–9(c) of this title.
+&emsp;&emsp;(B) Provide assistance, including technical and financial assistance, to any public watersystem as part of a capacity development strategy developed and implemented in accordance with section 300g–9(c) of this title.
 
-&emsp;&emsp;(C) Make expenditures from the capitalization grant of the State for fiscal years 1996 and 1997 to delineate and assess source water protection areas in accordance with section 300j–13 of this title, except that funds setaside for such expenditure shall be obligated within 4 fiscal years.
+&emsp;&emsp;(C) Make expenditures from the capitalization grant of the State for fiscal years 1996 and 1997 to delineate and assess source water protection areas in accordance with section 300j–13 of this title, except that funds set aside for such expenditure shall be obligated within 4 fiscal years.
 
 &emsp;&emsp;(D) Make expenditures from the fund for the establishment and implementation of wellhead protection programs under section 300h–7 of this title.
 
@@ -292,9 +292,11 @@ Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2498, provided in part: �
 
 #### Transfer of Funds
 
-Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3330, provided in part: “That for fiscal year 2005, State authority under section 302(a) of Public Law 104–182 \[set out as a note below\] shall remain in effect”.
+Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 530, provided in part: “That for fiscal year 2006 and thereafter, State authority under section 302(a) of Public Law 104–182 \[set out as a note below\] shall remain in effect”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3330.
 
 Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 406.
 

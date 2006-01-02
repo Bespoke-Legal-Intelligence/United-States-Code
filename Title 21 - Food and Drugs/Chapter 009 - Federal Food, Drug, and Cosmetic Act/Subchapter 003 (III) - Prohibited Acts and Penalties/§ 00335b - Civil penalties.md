@@ -8,7 +8,7 @@ Any person that the Secretary finds—
 
 &emsp;(2) bribed or attempted to bribe or paid or attempted to pay an illegal gratuity to any officer, employee, or agent of the Department of Health and Human Services in connection with an abbreviated drug application,
 
-&emsp;(3) destroyed, altered, removed, or secreted, or procured the destruction, alteration, removal, or secretion of, any material document or other material evidence which was the property of or in the possession of the Department of Health and Human Services for thepurpose of interfering with that Department's discharge of its responsibilities in connection with an abbreviated drug application,
+&emsp;(3) destroyed, altered, removed, or secreted, or procured the destruction, alteration, removal, or secretion of, any material document or other material evidence which was the property of or in the possession of the Department of Health and Human Services for the purpose of interfering with that Department's discharge of its responsibilities in connection with an abbreviated drug application,
 
 &emsp;(4) knowingly failed to disclose, to an officer or employee of the Department of Health and Human Services, a material fact which such person had an obligation to disclose relating to any drug subject to an abbreviated drug application,
 
@@ -52,7 +52,7 @@ Any person that the Secretary finds—
 
 #### (c) Judicial review
 
-Any person that is the subject of an adverse decision under subsection (b)(1)(A) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+Any person that is the subject of an adverse decision under subsection (b)(1)(A) of this section may obtain a review of such decision by the United States Court of Appeals for the Districtof Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 #### (d) Recovery of penalties
 
@@ -80,5 +80,5 @@ A prior section 307 of act June 25, 1938, was renumbered section 310 and is clas
 
 #### Construction
 
-This section not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L.102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
+This section not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.
 

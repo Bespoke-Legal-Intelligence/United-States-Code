@@ -298,6 +298,7 @@
 | [1490s.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490s%20-%20Enforcement%20provisions.md) | Enforcement provisions. |
 | (a) | Equity skimming. |
 | (b) | Civil monetary penalties. |
+| [1490t.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490t%20-%20Indian%20tribes.md) | Indian tribes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

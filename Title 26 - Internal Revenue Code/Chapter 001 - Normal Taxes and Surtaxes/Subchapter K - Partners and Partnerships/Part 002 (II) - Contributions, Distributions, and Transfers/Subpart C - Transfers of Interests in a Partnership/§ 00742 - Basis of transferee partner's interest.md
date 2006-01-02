@@ -4,7 +4,3 @@ The basis of an interest in a partnership acquired other than by contribution sh
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 249.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 705 of this title.
-

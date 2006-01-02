@@ -18,9 +18,9 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) in which all members other than the clearing organization itself are financial institutions or other clearing organizations; or
 
-&emsp;&emsp;&emsp;(ii) which is registered as a clearing agency under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]; or
+&emsp;&emsp;&emsp;(ii) which is registered as a clearing agency under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or is exempt from such registration by order of the Securities and Exchange Commission; or
 
-&emsp;&emsp;(B) that is registered as a derivatives clearing organization under section 7a–1 of title 7.
+&emsp;&emsp;(B) that is registered as a derivatives clearing organization under section 7a–1 of title 7, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title).
 
 #### (3) Covered clearing obligation
 
@@ -48,11 +48,13 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) a depository institution as defined in section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\] (other than clause (vii));
 
-&emsp;&emsp;(B) a branch or agency as defined in section 1(b) of the International Banking Act of 1978 \[12 U.S.C. 3101\];
+&emsp;&emsp;(B) an uninsured national bank or an uninsured State bank that is a member of the Federal Reserve System, if the national bank or State member bank is not eligible to make application to become an insured bank under section 1815 of this title;
 
-&emsp;&emsp;(C) a corporation chartered under section 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]; or
+&emsp;&emsp;(C) a branch or agency of a foreign bank, a foreign bank and any branch or agency of the foreign bank, or the foreign bank that established the branch or agency, as those terms are defined in section 1(b) of the International Banking Act of 1978 \[12 U.S.C. 3101\];
 
-&emsp;&emsp;(D) a corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\].
+&emsp;&emsp;(D) a corporation chartered under section 25(a) <sup>1</sup> of the Federal Reserve Act \[12 U.S.C. 611 et seq.\]; or
+
+&emsp;&emsp;(E) a corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act \[12 U.S.C. 601 et seq.\].
 
 #### (7) Failed financial institution
 
@@ -84,7 +86,7 @@ For purposes of this subchapter—
 
 #### (11) Member
 
-&emsp;The term “member” means a member of or participant in a clearing organization, and includes the clearing organization.
+&emsp;The term “member” means a member of or participant in a clearing organization, and includes the clearing organization and any other clearing organization with which such clearing organization has a netting contract.
 
 #### (12) Net entitlement
 
@@ -100,11 +102,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;The term “netting contract”—
 
-&emsp;&emsp;&emsp;(i) means a contract or agreement between 2 or more financial institutions or members, that—
-
-&emsp;&emsp;&emsp;&emsp;(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
-
-&emsp;&emsp;&emsp;&emsp;(II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and
+&emsp;&emsp;&emsp;(i) means a contract or agreement between 2 or more financial institutions,clearing organizations, or members that provides for netting present or future payment obligations or payment entitlements (including liquidation or close out values relating to such obligations or entitlements) among the parties to the agreement; and
 
 &emsp;&emsp;&emsp;(ii) includes the rules of a clearing organization.
 
@@ -112,7 +110,11 @@ For purposes of this subchapter—
 
 &emsp;&emsp;The term “netting contract” does not include any contract or agreement that is invalid under or precluded by Federal law.
 
-(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411.)
+#### (15) Payment
+
+&emsp;The term “payment” means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
+
+(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
 
 #### References in Text
 
@@ -124,11 +126,35 @@ Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is clas
 
 #### Amendments
 
+2005—Par. (2)(A)(ii). Pub. L. 109–8, §906(a)(1)(A), inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
+
+Par. (2)(B). Pub. L. 109–8, §906(a)(1)(B), inserted before period at end “, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title)”.
+
+Par. (6)(B). Pub. L. 109–8, §906(a)(2)(B), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Par. (6)(C). Pub. L. 109–8, §906(a)(2)(A), (C), redesignated subpar. (B) as (C) and amended it generally. Prior to amendment, subpar. (C) read as follows: “a branch or agency as defined in section 1(b) of the International Banking Act of 1978;”. Former subpar. (C) redesignated (D).
+
+Par. (6)(D), (E). Pub. L. 109–8, §906(a)(2)(A), redesignated subpars. (C) and (D) as (D) and (E), respectively.
+
+Par. (11). Pub. L. 109–8, §906(a)(3), inserted before period at end “and any other clearing organization with which such clearing organization has a netting contract”.
+
+Par. (14)(A)(i). Pub. L. 109–8, §906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “means a contract or agreement between 2 or more financial institutions or members, that—
+
+&emsp;“(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
+
+&emsp;“(II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and”.
+
+Par. (15). Pub. L. 109–8, §906(a)(5), added par. (15).
+
 2000—Pub. L. 106–554, §1(a)(5) \[title I, §112(a)(2)\], substituted “this subchapter” for “this chapter” in introductory provisions.
 
 Par. (2)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(b)\], added subpar. (B) and struck out former subpar. (B) which read as follows: “that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act.”
 
 1992—Par. (14)(B). Pub. L. 102–550 substituted “Federal law” for “Federal commodities law”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1992 Amendment
 

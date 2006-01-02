@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of miningin computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition of certain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
+In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion and without the deduction under section 199). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition of certain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
 
 #### (b) Percentage depletion rates
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (4) Treatment processes considered as mining
 
-&emsp;The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect ofwhich he is entitled to a deduction for depletion under section 611:
+&emsp;The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611:
 
 &emsp;&emsp;(A) In the case of coal—cleaning, breaking, sizing, dust allaying, treating to prevent freezing, and loading for shipment;
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;(G) in the case of clay to which paragraph (5) or (6)(B) of subsection (b) applies—crushing, grinding, and separating the mineral from waste, but not including any subsequent process;
 
-&emsp;&emsp;(H) in the case of oil shale—extraction from the ground, crushing, loading into the retort, and retorting, but not hydrogenation, refining, or any other process subsequent to retorting; and
+&emsp;&emsp;(H) in the case of oil shale—extraction from the ground, crushing, loading into the retort, and retorting (including in situ retorting), but not hydrogenation, refining, or any other process subsequent to retorting; and
 
 &emsp;&emsp;(I) any other treatment process provided for by regulations prescribed by the Secretary which, with respect to the particular ore or mineral, is not inconsistent with the preceding provisions of this paragraph.
 
@@ -114,15 +114,19 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 #### (2) Geothermal deposit defined
 
-&emsp;For purposes of paragraph (1), the term “geothermal deposit” means a geothermal reservoir consisting of natural heat which is stored in rocks or in an aqueous liquid or vapor (whether or not under pressure). Such a deposit shall in no case be treated as a gas well for purposes of this section or section 613A, and this section shall not apply to a geothermal deposit which is located outside the United States or its possessions.
+&emsp;For purposes of paragraph (1), the term “geothermal deposit” means a geothermal reservoir consisting of natural heat which is stored in rocks or in an aqueous liquid or vapor (whether or not under pressure). Such adeposit shall in no case be treated as a gas well for purposes of this section or section 613A, and this section shall not apply to a geothermal deposit which is located outside the United States or its possessions.
 
 #### (3) Percentage depletion not to include lease bonuses, etc.
 
 &emsp;In the case of any geothermal deposit, the term “gross income from the property” shall, for purposes of this section, not include any amount described in section 613A(d)(5).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### Amendments
+
+2005—Subsec. (c)(4)(H). Pub. L. 109–135 inserted “(including in situ retorting)” after “and retorting”.
+
+2004—Subsec. (a). Pub. L. 108–357, which directed the insertion of “and without the deduction under section 199” after “without allowances for depletion”, was executed by making the insertion after “without allowance for depletion”, to reflect the probable intent of Congress.
 
 1996—Subsec. (e)(1)(B). Pub. L. 104–188 substituted “subsection (b).” for “subsection (b),”.
 
@@ -185,6 +189,10 @@ Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted “The following trea
 Subsec. (c)(5). Pub. L. 86–564, §302(b)(2), added par. (5).
 
 1958—Subsec. (d). Pub. L. 85–866 added subsec. (d).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -270,7 +278,7 @@ Years to which applicable.—An election made under subparagraph (C) to have the
 
 &emsp;&emsp;“(C)
 
-Time and manner of election.—An election to have the provisions of this paragraph apply shall be made by the taxpayer on or before the 60th day after the date of publication in the Federal Register of final regulations issued under authority of subparagraph (F), and shall be made in such form and manner as the Secretary of the Treasury or his delegate shall prescribe by regulations. Such election, if made, may not be revoked.
+Time and manner of election.—An election to have the provisions of this paragraph apply shall be made by the taxpayer on or before the 60th dayafter the date of publication in the Federal Register of final regulations issued under authority of subparagraph (F), and shall be made in such form and manner as the Secretary of the Treasury or his delegate shall prescribe by regulations. Such election, if made, may not be revoked.
 
 &emsp;&emsp;“(D)
 
@@ -290,7 +298,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11815(b)(1), (2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11815(b)(1), (2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Election for Clay and Shale Used in Manufacture of Clay Products
 
@@ -298,13 +306,9 @@ Pub. L. 87–312, Sept. 26, 1961, 75 Stat. 674, provided for the election of, an
 
 #### Election for Quartzite and Clay Used in Production of Refractory Products
 
-Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rateof depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
 #### Refund or Credit of Overpayments; Limitations; Interest
 
 Section 36(b) of Pub. L. 85–866 provided for the filing of a claim within 6 months of Sept. 2, 1958, and for the refund or credit of any overpayment, without interest, if such refund or credit, resulting from the addition of subsec. (d) of this section, was prevented on Sept. 2, 1958, or within 6 months thereof, by the operation of any law or rule of law other than certain specified sections of the Internal Revenue Codes of 1939 and 1954.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 48, 57, 263, 291, 381, 465, 611, 613A, 614, 616, 617, 631, 636, 901, 903, 1082, 1202, 1446, 4612, 4940, 7704 of this title.
 

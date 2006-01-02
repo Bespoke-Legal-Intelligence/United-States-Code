@@ -30,7 +30,7 @@ The eligible agency shall determine requirements for local plans, except that ea
 
 &emsp;&emsp;(A) will review vocational and technical education programs, and identify and adopt strategies to overcome barriers that result in lowering rates of access to or lowering success in the programs, for special populations; and
 
-&emsp;&emsp;(B) will provide programs that are designed to enable the special populations tomeet the State adjusted levels of performance;
+&emsp;&emsp;(B) will provide programs that are designed to enable the special populations to meet the State adjusted levels of performance;
 
 &emsp;(8) describe how individuals who are members of the special populations will not be discriminated against on the basis of their status as members of the special populations;
 

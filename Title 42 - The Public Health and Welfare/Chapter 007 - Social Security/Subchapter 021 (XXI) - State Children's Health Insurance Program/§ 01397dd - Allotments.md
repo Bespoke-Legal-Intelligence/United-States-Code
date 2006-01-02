@@ -106,7 +106,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (ii) Allocation of surplus through pro rata increase
 
-&emsp;&emsp;&emsp;To the extent that the application of subparagraph (A) would result in the sum of the proportions of the allotments for all subsection (b) States being less than 1.0, the proportions of such allotments (ascomputed before the application of floors under clauses (i), (ii), and (iii) of subparagraph (A)) for all subsection (b) States shall be increased in a pro rata manner (but not to exceed the ceiling established under subparagraph (A)(iv)) so that (after the application of such floors and ceiling) such sum equals 1.0.
+&emsp;&emsp;&emsp;To the extent that the application of subparagraph (A) would result in the sum of the proportions of the allotments for all subsection (b) States being less than 1.0, the proportions of such allotments (as computed before the application of floors under clauses (i), (ii), and (iii) of subparagraph (A)) for all subsection (b) States shall be increased in a pro rata manner (but not to exceed the ceiling established under subparagraph (A)(iv)) so that (after the application of such floors and ceiling) such sum equals 1.0.
 
 #### (C) Construction
 
@@ -184,7 +184,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) of this section for fiscal year 1998 by the end of fiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) of this section (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
+&emsp;&emsp;In the case of a State that expends all of its allotment under subsection (b) or (c) of this section for fiscal year 1998 by the end offiscal year 2000, or for fiscal year 1999 by the end of fiscal year 2001, or for fiscal year 2000 by the end of fiscal year 2002, or for fiscal year 2001 by the end of fiscal year 2003, the Secretary shall redistribute to the State under subsection (f) of this section (from the fiscal year 1998, 1999, 2000, or 2001 allotments of other States, respectively, as determined by the application of paragraphs (2) and (3) with respect to the respective fiscal year) the following amount:
 
 #### (i) State
 
@@ -250,7 +250,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 #### (iii) Fiscal year 2000 allotment
 
-&emsp;&emsp;&emsp;Of the amounts allotted to a State pursuant to this section for fiscal year 2000 that were not expended by the State by the end of fiscal year 2002, 50 percent of that amount shall remain available for expenditure by the State through the end of fiscal year 2004.
+&emsp;&emsp;&emsp;Of the amounts allotted to a State pursuant to this section for fiscal year 2000that were not expended by the State by the end of fiscal year 2002, 50 percent of that amount shall remain available for expenditure by the State through the end of fiscal year 2004.
 
 #### (iv) Fiscal year 2001 allotment
 
@@ -336,7 +336,7 @@ Subsec. (b)(3)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §705(a)\], subs
 
 Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(4)\], substituted “the calendar year in which such fiscal year begins” for “the fiscal year involved”.
 
-Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(2)\], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above the amount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amountotherwise provided for allotment under paragraph (1) for that fiscal year.”
+Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) \[title VII, §701(a)(2)\], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above the amount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amount otherwise provided for allotment under paragraph (1) for that fiscal year.”
 
 Subsec. (c)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title VII, §702\], inserted before period at end “, $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007”.
 

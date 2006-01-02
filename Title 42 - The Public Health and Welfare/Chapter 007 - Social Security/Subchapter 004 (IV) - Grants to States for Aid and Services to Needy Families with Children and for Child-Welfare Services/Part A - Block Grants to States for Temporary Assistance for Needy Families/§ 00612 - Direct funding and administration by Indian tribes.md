@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of thistitle (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
+&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F of this subchapter (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
 
 #### (ii) Use of State submitted data
 
@@ -32,7 +32,7 @@
 
 #### (B) Eligible Indian tribe
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “eligible Indian tribe” means an Indian tribe or Alaska Native organization that conducted a job opportunities and basic skills training program in fiscal year 1995 under section 682(i) of this title (as in effect during fiscal year 1995).
+&emsp;&emsp;For purposes of subparagraph (A), the term “eligible Indian tribe” means an Indian tribeor Alaska Native organization that conducted a job opportunities and basic skills training program in fiscal year 1995 under section 682(i) of this title (as in effect during fiscal year 1995).
 
 #### (C) Use of grant
 
@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;Any Indian tribe that desires to receive a tribal family assistance grant shall submit tothe Secretary a 3-year tribal family assistance plan that—
+&emsp;Any Indian tribe that desires to receive a tribal family assistance grant shall submit to the Secretary a 3-year tribal family assistance plan that—
 
 &emsp;&emsp;(A) outlines the Indian tribe's approach to providing welfare-related services for the 3-year period, consistent with this section;
 

@@ -16,11 +16,11 @@
 | [6423\.](%C2%A7%2006423%20-%20Conditions%20to%20allowance%20in%20the%20case%20of%20alcohol%20and%20tobacco%20taxes.md) | Conditions to allowance in the case of alcohol and tobacco taxes. |
 | \[6424. | Repealed.\] |
 | [6425\.](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md) | Adjustment of overpayment of estimated income tax by corporation. |
-| \[6426. | Repealed.\] |
+| [6426\.](%C2%A7%2006426%20-%20Credit%20for%20alcohol%20fuel%2C%20biodiesel%2C%20and%20alternative%20fuel%20mixtures.md) | Credit for alcohol fuel, biodiesel, and alternative fuel mixtures. |
 | [6427\.](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md) | Fuels not used for taxable purposes. |
 | [6428\.](%C2%A7%2006428%20-%20Acceleration%20of%2010%20percent%20income%20tax%20rate%20bracket%20benefit%20for%202001.md) | Acceleration of 10 percent income tax rate bracket benefit for 2001. |
 | [6429\.](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md) | Advance payment of portion of increased child credit for 2003. |
-| \[6430. | Repealed.\] |
+| [6430\.](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md) | Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,6 +31,12 @@
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note set out under section 1 of this title.</i>
 
 #### Amendments
+
+2005—Pub. L. 109–59, title XI, §11113(b)(3)(B), Aug. 10, 2005, 119 Stat. 1948, substituted “alcohol fuel, biodiesel, and alternative fuel” for “alcohol fuel and biodiesel” in item 6426.
+
+Pub. L. 109–58, title XIII, §1362(b)(3)(B), Aug. 8, 2005, 119 Stat. 1059, added item 6430.
+
+2004—Pub. L. 108–357, title III, §301(c)(14), Oct. 22, 2004, 118 Stat. 1463, added item 6426.
 
 2003—Pub. L. 108–27, title I, §§101(b)(2), 107, May 28, 2003, 117 Stat. 754, 755, temporarily added item 6429.
 
@@ -94,8 +100,8 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06423 - Conditions to allowance in the case of alcohol and tobacco taxes](%C2%A7%2006423%20-%20Conditions%20to%20allowance%20in%20the%20case%20of%20alcohol%20and%20tobacco%20taxes.md)
 - [&sect; 06424 - Repealed. Pub. L. 97&#8211;424, title V, &sect;515(b)(5), Jan. 6, 1983, 96 Stat. 2181](%C2%A7%2006424%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93424%2C%20title%20V%2C%20%C2%A7515%28b%29%285%29%2C%20Jan.%206%2C%201983%2C%2096%20Stat.%202181.md)
 - [&sect; 06425 - Adjustment of overpayment of estimated income tax by corporation](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md)
-- [&sect; 06426 - Repealed. Pub. L. 97&#8211;248, title II, &sect;280(c)(2)(G), Sept. 3, 1982, 96 Stat. 564](%C2%A7%2006426%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93248%2C%20title%20II%2C%20%C2%A7280%28c%29%282%29%28G%29%2C%20Sept.%203%2C%201982%2C%2096%20Stat.%20564.md)
+- [&sect; 06426 - Credit for alcohol fuel, biodiesel, and alternative fuel mixtures](%C2%A7%2006426%20-%20Credit%20for%20alcohol%20fuel%2C%20biodiesel%2C%20and%20alternative%20fuel%20mixtures.md)
 - [&sect; 06427 - Fuels not used for taxable purposes](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md)
 - [&sect; 06428 - Acceleration of 10 percent income tax rate bracket benefit for 2001](%C2%A7%2006428%20-%20Acceleration%20of%2010%20percent%20income%20tax%20rate%20bracket%20benefit%20for%202001.md)
 - [&sect; 06429 - Advance payment of portion of increased child credit for 2003](%C2%A7%2006429%20-%20Advance%20payment%20of%20portion%20of%20increased%20child%20credit%20for%202003.md)
-- [&sect; 06430 - Repealed. Pub. L. 100&#8211;418, title I, &sect;1941(b)(1), Aug. 23, 1988, 102 Stat. 1323](%C2%A7%2006430%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20I%2C%20%C2%A71941%28b%29%281%29%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201323.md)
+- [&sect; 06430 - Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md)

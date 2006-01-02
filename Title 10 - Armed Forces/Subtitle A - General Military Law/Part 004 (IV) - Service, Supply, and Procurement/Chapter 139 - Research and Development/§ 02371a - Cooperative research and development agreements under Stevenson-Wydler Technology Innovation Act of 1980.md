@@ -14,7 +14,3 @@ The text of section 2371(i) of this title, which was transferred to this section
 
 1996—Pub. L. 104–201 transferred section 2371(i) of this title to this section, added section catchline, and struck out subsec. (i) designation and heading which read as follows: “Cooperative Research and Development Agreements Under Stevenson-Wydler Technology Innovation Act of 1980”. See Codification note above.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2358 of this title.
-

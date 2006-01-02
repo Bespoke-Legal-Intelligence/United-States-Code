@@ -16,6 +16,10 @@ The Congress finds that the Youth Conservation Corps has demonstrated a high deg
 
 Section 123 of title I of Pub. L. 103–82 provided that: “This title \[see Tables for classification\], and the amendments made by this title, shall take effect on October 1, 1993.”
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–154, §1, Dec. 30, 2005, 119 Stat. 2890, provided that: “This Act \[enacting section 1730 of this title and amending sections 1722 to 1726 and 1729 of this title\] may be cited as the ‘Public Lands Corps Healthy Forests Restoration Act of 2005’.”
+
 #### Short Title
 
 Title I of Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, which enacted this subchapter, is popularly known as the “Youth Conservation Corps Act of 1970”.

@@ -1,6 +1,6 @@
 ### §2195. Department of Defense cooperative education programs
 
-(a) The Secretary of Defense shall ensure that the director of each defense laboratory establishes, in association with one or more public or private colleges or universities in the United States or one or more consortia of colleges oruniversities in the United States, cooperative work-education programs for undergraduate and graduate students.
+(a) The Secretary of Defense shall ensure that the director of each defense laboratory establishes, in association with one or more public or private colleges or universities in the United States or one or more consortia of colleges or universities in the United States, cooperative work-education programs for undergraduate and graduate students.
 
 (b) Under a cooperative work-education program established under subsection (a), a director referred to in that subsection may, without regard to any applicable non-statutory limitation on the number of authorized personnel or on the aggregate amount of any personnel cost—
 
@@ -24,7 +24,7 @@
 
 &emsp;(A) a Student Educational Employment Program of the Agency conducted under this section or any other provision of law; or
 
-&emsp;(B) a similar cooperative or summer education program of the Agency that meets the criteria for Federal cooperative or summer education programs prescribed by the Office of Personnel Management.
+&emsp;(B) a similar cooperative or summer education program of the Agency that meets the criteria for Federal cooperative or summereducation programs prescribed by the Office of Personnel Management.
 
 (Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 108–136, div. A, title IX, §926, Nov. 24, 2003, 117 Stat. 1579.)
 

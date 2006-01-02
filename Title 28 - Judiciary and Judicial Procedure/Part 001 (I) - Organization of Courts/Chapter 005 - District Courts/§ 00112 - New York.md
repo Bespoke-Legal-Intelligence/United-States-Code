@@ -58,7 +58,7 @@ Changes were made in arrangement and phraseology.
 
 Pub. L. 108–455 substituted “Watertown, and Plattsburgh” for “and Watertown”.
 
-1999—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentence read as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
+1999—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentenceread as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
 
 1996—Subsec. (b). Pub. L. 104–317 amended last sentence generally, substituting “Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.” for “Court for the Southern District shall be held at New York and White Plains.”
 

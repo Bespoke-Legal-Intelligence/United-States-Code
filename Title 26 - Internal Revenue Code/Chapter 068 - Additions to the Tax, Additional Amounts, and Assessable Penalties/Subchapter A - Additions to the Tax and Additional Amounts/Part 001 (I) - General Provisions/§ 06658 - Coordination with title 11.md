@@ -4,7 +4,7 @@
 
 No addition to the tax shall be made under section 6651, 6654, or 6655 for failure to make timely payment of tax with respect to a period during which a case is pending under title 11 of the United States Code—
 
-&emsp;(1) if such tax was incurred by the estate and the failure occurred pursuant to an order ofthe court finding probable insufficiency of funds of the estate to pay administrative expenses, or
+&emsp;(1) if such tax was incurred by the estate and the failure occurred pursuant to an order of the court finding probable insufficiency of funds of the estate to pay administrative expenses, or
 
 &emsp;(2) if—
 
@@ -22,7 +22,7 @@ Subsection (a) shall not apply to any liability for an addition to the tax which
 
 #### Prior Provisions
 
-A prior section 6658, act Aug. 16, 1954, ch. 736, 68A Stat. 826, authorized inclusion as part of the tax a 25 percent penalty in cases of violations or attempted violations of section 6851 of this title, prior to repeal by Pub. L. 96–167, §6(a), Dec. 29, 1979, 93 Stat. 1276.
+A prior section 6658, act Aug. 16, 1954, ch. 736, 68A Stat. 826, authorized inclusion as part of the tax a 25percent penalty in cases of violations or attempted violations of section 6851 of this title, prior to repeal by Pub. L. 96–167, §6(a), Dec. 29, 1979, 93 Stat. 1276.
 
 #### Effective Date
 

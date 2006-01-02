@@ -8,7 +8,7 @@ Whoever makes or presents to any person or officer in the civil, military, or na
 
 Based on title 18, U.S.C., 1940 ed., §80 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
-Section 80 of title 18, U.S.C., 1940 ed., was divided into two parts. That portion making it a crime to present false claims was retained as this section. The part relating to false statements is now section 1001 of this title.
+Section 80 of title 18, U.S.C., 1940 ed., was divided into two parts. That portion making it a crime to presentfalse claims was retained as this section. The part relating to false statements is now section 1001 of this title.
 
 To clarify meaning of “department” words “agency” and “or agency” were inserted after it. (See definitions of “department” and “agency” in section 6 of this title.)
 

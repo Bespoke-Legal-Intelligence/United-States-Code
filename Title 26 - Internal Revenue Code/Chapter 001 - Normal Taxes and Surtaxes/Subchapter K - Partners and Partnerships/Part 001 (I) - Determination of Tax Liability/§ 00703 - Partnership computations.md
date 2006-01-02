@@ -102,7 +102,3 @@ Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12,
 
 For applicability of amendment by section 701(e)(4)(E) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 860C, 901, 1363, 1446 of this title.
-

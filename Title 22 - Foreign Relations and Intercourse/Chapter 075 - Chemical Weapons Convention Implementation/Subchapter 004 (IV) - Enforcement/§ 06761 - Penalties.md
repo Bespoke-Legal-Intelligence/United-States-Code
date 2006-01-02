@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Before imposing an order described in paragraph (1) against a person under this subsection for a violation of section 6726 or 6745 of this title, the Secretary of State shall provide the person or entity with notice and, upon request made within 15 days of the date of the notice, a hearing respecting the violation.
+&emsp;&emsp;Before imposing an order described in paragraph (1) against a person under thissubsection for a violation of section 6726 or 6745 of this title, the Secretary of State shall provide the person or entity with notice and, upon request made within 15 days of the date of the notice, a hearing respecting the violation.
 
 #### (B) Conduct of hearing
 

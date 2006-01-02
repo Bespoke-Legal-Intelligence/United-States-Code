@@ -18,11 +18,13 @@ Definitions.—In this section:
 
 &emsp;(1) The term “explosive material” means explosives, blasting agents, and detonators.
 
-&emsp;(2) The terms “destructive device” and “ammunition” have the meanings given those terms by paragraphs (4) and (17), respectively, of section 921 of title 18.
+&emsp;(2) The terms “destructive device” and “ammunition” have the meanings given those terms by paragraphs (4) and (17), respectively, of section 921 <sup>1</sup> of title 18.
 
 (Added Pub. L. 100–456, div. A, title III, §344(a), Sept. 29, 1988, 102 Stat. 1961.)
 
 #### Effective Date
 
 Section 344(c) of Pub. L. 100–456 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect with respect to thefts and losses discovered more than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “921(a)”.</i>
 

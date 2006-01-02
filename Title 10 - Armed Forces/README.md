@@ -1,5 +1,5 @@
 
-10 U.S.C.<br>United States Code, 2003 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
+10 U.S.C.<br>United States Code, 2005 Edition<br>Title 10 - ARMED FORCES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 10—ARMED FORCES
 
@@ -8670,10 +8670,6 @@ Savings Provision for Regulations.—A regulation, rule, or order in effect unde
 “(c)
 
 General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall betreated as having been taken, or having matured, under the corresponding provision so enacted.”
-
-#### Title Referred to in Other Sections
-
-This title is referred to in title 20 section 6673; title 22 section 2715c; title 33 section 3071; title 36 section 40727; title 37 sections 211, 435; title 42 sections 1320d, 1395ggg, 14405; title 49 section 40125; title 50 sections 415, 2031.
 
 
 ---

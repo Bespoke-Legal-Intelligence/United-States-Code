@@ -24,7 +24,7 @@ Section 1749jj, act June 27, 1934, ch. 847, title X, §1011, formerly §1010, as
 
 Section 1749kk, act June 27, 1934, ch. 847, title X, §1012, formerly §1011, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1012, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), 81 Stat. 17, related to taxation of real property acquired by Secretary.
 
-Section 1749<i>ll</i>, act June 27, 1934, ch. 847, title X, §1013, formerly §1012, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1013, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), (4), 81 Stat. 17, related to requirements to assure that amount of mortgage was not excessive and to requirement that mortgagor certify costs of land development.
+Section 1749<i>ll</i>, act June 27, 1934, ch. 847, title X, §1013, formerly §1012, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1013, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), (4), 81Stat. 17, related to requirements to assure that amount of mortgage was not excessive and to requirement that mortgagor certify costs of land development.
 
 #### Savings Provision
 

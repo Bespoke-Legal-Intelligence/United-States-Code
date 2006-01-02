@@ -8,7 +8,7 @@
 
 #### (2) On the trustee
 
-&emsp;There is hereby imposed on the agreement of any trustee of such a trust to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 21/2 percent of theamount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
+&emsp;There is hereby imposed on the agreement of any trustee of such a trust to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 21/2 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
 
 #### (b) Additional taxes
 
@@ -53,8 +53,4 @@ Subsec. (e)(2). Pub. L. 96–596, §2(a)(2)(G), substituted provision defining t
 #### Effective Date of 1980 Amendment
 
 For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4953, 4963, 6213, 7422, 7454 of this title.
 

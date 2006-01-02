@@ -60,7 +60,7 @@ Covered Installations.—For the purposes of this section, a chemical weapons st
 
 Certification Requirement.—The Secretary of the Army shall certify in writing to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that, to ensure that there will be no lapse of capability to perform the chemical weapon emergency response mission at a chemical weapons storage installation during any transition to contractor performance of those functions at the installation, the plan for conversion of the performance of those functions—
 
-&emsp;“(1) is consistent with the recommendation contained in General Accounting Office Report NSIAD–00–88, entitled ‘DoD Competitive Sourcing’, dated March 2000;
+&emsp;“(1) is consistent with the recommendation contained in General Accounting Office \[now Government Accountability Office\] Report NSIAD–00–88, entitled ‘DoD Competitive Sourcing’, dated March 2000;
 
 &emsp;“(2) provides for a transition to contractor performance of emergency response functions which ensures an adequate transfer of the relevant knowledge and expertise regarding chemical weapon emergency response to the contractor personnel; and
 

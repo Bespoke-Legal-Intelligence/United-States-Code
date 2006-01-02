@@ -18,7 +18,7 @@ The Secretary shall—
 
 (2) The Secretary may enter into contracts or other appropriate arrangements with independent certified public accountants to undertake audits of accounts and records of any lessee or operator relating to the lease of oil or gas. Selection of such independent certified public accountants shall be by competitive bidding in accordance with the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (41 U.S.C. 252), except that the Secretary may not enter into a contract or other arrangement with any independent certified public accountant to audit any lessee or operator where such lessee or operator is a primary audit client of such certified public accountant.
 
-(3) All books, accounts, financial records, reports, files, and other papers of the Secretary, or used by the Secretary, which are reasonably necessary to facilitate the audits required under this section shall be made available to any person or governmental entity conducting audits under this chapter.
+(3) All books, accounts, financial records, reports, files, and other papers of the Secretary, or used by the Secretary, which are reasonably necessary to facilitate the audits required underthis section shall be made available to any person or governmental entity conducting audits under this chapter.
 
 (Pub. L. 97–451, title I, §101, Jan. 12, 1983, 96 Stat. 2449.)
 

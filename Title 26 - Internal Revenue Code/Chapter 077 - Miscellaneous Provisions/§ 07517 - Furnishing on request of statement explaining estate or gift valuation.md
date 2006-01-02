@@ -28,7 +28,3 @@ Section 2008(d)(1) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct
 
 &emsp;“(B) insofar as they relate to the tax imposed under chapter 12 of such Code \[section 2501 et seq. of this title\], shall apply to gifts made after December 31, 1976.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2031, 2512 of this title.
-

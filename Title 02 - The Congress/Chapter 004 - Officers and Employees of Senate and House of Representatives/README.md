@@ -190,7 +190,7 @@
 | 62a to 64. | Omitted, Transferred, or Repealed. |
 | 64–1. | Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations. |
 | 64–2. | Transfers of funds by Secretary of Senate; approval of Committee on Appropriations. |
-| 64–3. | Reimbursement for Capitol Police salaries paid by Senate for service at Federal Law Enforcement Training Center. |
+| 64–3. | Reimbursement for Capitol Police salaries paid by Capitol Police for service at Federal Law Enforcement Training Center. |
 | [64a.](%C2%A7%2000064a%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20and%20Assistant%20Secretary%20of%20Senate%3B%20Financial%20Clerk%20deemed%20successor%20as%20disbursing%20officer.md) | Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer. |
 | 64a–1. | Compensation of Financial Clerk of Senate. |
 | [64b.](%C2%A7%2000064b%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20of%20Senate%3B%20Assistant%20Secretary%20of%20Senate%20to%20act%20as%20Secretary%3B%20written%20designation%20of%E2%80%A6.md) | Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of absent status. |
@@ -278,11 +278,11 @@
 | 73, 74. | Omitted. |
 | 74–1. | Personal services in office of Speaker; payments. |
 | 74–2. | Omitted. |
-| [74a.](%C2%A7%2000074a%20-%20Employment%20of%20administrative%20assistants%20for%20Speaker%20and%20House%20Majority%20and%20Minority%20Leaders%3B%20compensation%3B%20appropriations.md) | Employment of administrative assistants for Speaker and House majority and minority leaders; compensation; appropriations. |
+| [74a.](%C2%A7%2000074a%20-%20Employment%20of%20administrative%20assistants%20for%20Speaker%20and%20House%20Majority%20and%20Minority%20Leaders%3B%20compensation%3B%20appropriations.md) | Employment of administrative assistants for Speaker and House Majority and Minority Leaders; compensation; appropriations. |
 | 74a–1. | Omitted. |
 | 74a–2. | Per annum rate of compensation of Chief of Staff of Joint Committee on Taxation. |
 | 74a–3. | Additional employees in offices of House Minority Leader, Majority Whip, and Chief Deputy Majority Whip; authorization; compensation. |
-| 74a–4. | Additional amounts for personnel and equipment for House majority and minority leaders and majority and minority whips. |
+| 74a–4. | Additional amounts for personnel and equipment for House Majority and Minority Leaders and Majority and Minority Whips. |
 | 74a–5. | Limits on uses of funds provided under section 74a–4. |
 | 74a–6. | Repealed. |
 | 74a–7. | Speaker's Office for Legislative Floor Activities. |
@@ -434,7 +434,7 @@
 | (a) | Establishment. |
 | (b) | Use of amounts in Fund. |
 | (c) | Transfer authority. |
-| (d), | (e) Omitted. |
+| (d), (e) | Omitted. |
 | (f) | Applicability. |
 | [113\.](%C2%A7%2000113%20-%20Detailed%20reports%20of%20receipts%20and%20expenditures%20by%20Secretary%20of%20Senate%20and%20Chief%20Administrative%20Officer%20of%20House.md) | Detailed reports of receipts and expenditures by Secretary of Senate and Chief Administrative Officer of House. |
 | [114\.](%C2%A7%2000114%20-%20Fees%20for%20copies%20from%20Senate%20journals.md) | Fees for copies from Senate journals. |
@@ -526,7 +526,7 @@
 | (c) | Availability of funds. |
 | (d) | Withdrawal of excess amounts. |
 | (e) | Regulations. |
-| [121g](%C2%A7%2000121g%20-%20Authority%20of%20Attending%20Physician%20in%20response%20to%20medical%20contingencies%20or%20public%20health%20emergencies%20at%20Capitol.md) | Authority of Attending Physician in response to medical contingencies or public health emergencies at Capitol. |
+| [121g.](%C2%A7%2000121g%20-%20Authority%20of%20Attending%20Physician%20in%20response%20to%20medical%20contingencies%20or%20public%20health%20emergencies%20at%20Capitol.md) | Authority of Attending Physician in response to medical contingencies or public health emergencies at Capitol. |
 | (a) | In general. |
 | (b) | Definitions. |
 | (c) | Effective date. |
@@ -749,7 +749,7 @@
 - [&sect; 00064 - Omitted](%C2%A7%2000064%20-%20Omitted.md)
 - [&sect; 00064&#8211;1 - Employees of Senate Disbursing Office; designation by Secretary of Senate to administer oaths and affirmations](%C2%A7%2000064%E2%80%931%20-%20Employees%20of%20Senate%20Disbursing%20Office%3B%20designation%20by%20Secretary%20of%20Senate%20to%20administer%20oaths%20and%20affirmations.md)
 - [&sect; 00064&#8211;2 - Transfers of funds by Secretary of Senate; approval of Committee on Appropriations](%C2%A7%2000064%E2%80%932%20-%20Transfers%20of%20funds%20by%20Secretary%20of%20Senate%3B%20approval%20of%20Committee%20on%20Appropriations.md)
-- [&sect; 00064&#8211;3 - Reimbursement for Capitol Police salaries paid by Senate for service at Federal Law Enforcement Training Center](%C2%A7%2000064%E2%80%933%20-%20Reimbursement%20for%20Capitol%20Police%20salaries%20paid%20by%20Senate%20for%20service%20at%20Federal%20Law%20Enforcement%20Training%20Center.md)
+- [&sect; 00064&#8211;3 - Reimbursement for Capitol Police salaries paid by Capitol Police for service at Federal Law Enforcement Training Center](%C2%A7%2000064%E2%80%933%20-%20Reimbursement%20for%20Capitol%20Police%20salaries%20paid%20by%20Capitol%20Police%20for%20service%20at%20Federal%20Law%20Enforcement%20Training%20Center.md)
 - [&sect; 00064a - Death, resignation, or disability of Secretary and Assistant Secretary of Senate; Financial Clerk deemed successor as disbursing officer](%C2%A7%2000064a%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20and%20Assistant%20Secretary%20of%20Senate%3B%20Financial%20Clerk%20deemed%20successor%20as%20disbursing%20officer.md)
 - [&sect; 00064a&#8211;1 - Compensation of Financial Clerk of Senate](%C2%A7%2000064a%E2%80%931%20-%20Compensation%20of%20Financial%20Clerk%20of%20Senate.md)
 - [&sect; 00064b - Death, resignation, or disability of Secretary of Senate; Assistant Secretary of Senate to act as Secretary; written designation of&#8230;](%C2%A7%2000064b%20-%20Death%2C%20resignation%2C%20or%20disability%20of%20Secretary%20of%20Senate%3B%20Assistant%20Secretary%20of%20Senate%20to%20act%20as%20Secretary%3B%20written%20designation%20of%E2%80%A6.md)

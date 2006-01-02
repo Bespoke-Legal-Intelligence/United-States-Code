@@ -48,7 +48,7 @@ Subsec. (c). Pub. L. 104–127, §603(1), (4), (6), redesignated subsec. (a)(3) 
 
 Subsec. (c). Pub. L. 95–334, §102(2), added subsec. (c).
 
-1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designationsappearing before “to any farmowner” and “without regard to”, respectively, and added subsec. (b).
+1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before “to any farmowners” and “without regard to”, respectively, and added subsec. (b).
 
 1968—Pub. L. 90–488 designated existing provisions as cl. (a), excluded recreational uses and facilities, and added cl. (b).
 

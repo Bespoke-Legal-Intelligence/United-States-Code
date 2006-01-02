@@ -22,7 +22,3 @@ Subsec. (d). Pub. L. 106–65, §923(a), added subsec. (d).
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “Under Secretary of Defense (Comptroller)” for “Comptroller”.
 
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-

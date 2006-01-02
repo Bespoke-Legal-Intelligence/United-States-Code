@@ -38,7 +38,7 @@ Foreign motor carrier.—The term “foreign motor carrier” means a person (in
 
 &emsp;&emsp;(ii) that is owned or controlled by persons of a contiguous foreign country; and
 
-&emsp;&emsp;(B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
+&emsp;&emsp;(B) in the case of a person that is not a motor carrier of property, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a motor carrier of property (other than a motor private carrier or a motor carrier of property described in subparagraph (A)).
 
 &emsp;(7)
 
@@ -48,7 +48,7 @@ Foreign motor private carrier.—The term “foreign motor private carrier” me
 
 &emsp;&emsp;(ii) that is owned or controlled by persons of a contiguous foreign country; and
 
-&emsp;&emsp;(B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by motor vehicle under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
+&emsp;&emsp;(B) in the case of a person that is not a motor private carrier, that provides interstate transportation of property by commercial motor vehicle (as defined in section 31132) under an agreement or contract entered into with a person (other than a motor carrier of property or a motor private carrier described in subparagraph (A)).
 
 &emsp;(8)
 
@@ -68,7 +68,7 @@ Highway.—The term “highway” means a road, highway, street, and way in a St
 
 &emsp;(10)
 
-Household goods.—The term “household goods”, as used in connection with transportation, means personal effects and propertyused or to be used in a dwelling, when a part of the equipment or supply of such dwelling, and similar property if the transportation of such effects or property is—
+Household goods.—The term “household goods”, as used in connection with transportation, means personal effects and property used or to be used in a dwelling, when a part of the equipment or supply of such dwelling, and similar property if the transportation of such effects or property is—
 
 &emsp;&emsp;(A) arranged and paid for by the householder, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder; or
 
@@ -80,11 +80,47 @@ Household goods freight forwarder.—The term “household goods freight forward
 
 &emsp;(12)
 
-Motor carrier.—The term “motor carrier” means a person providing motor vehicle transportation for compensation.
+Household goods motor carrier.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “household goods motor carrier” means a motor carrier that, in the ordinary course of its business of providing transportation of household goods, offers some or all of the following additional services:
+
+&emsp;&emsp;&emsp;(i) Binding and nonbinding estimates.
+
+&emsp;&emsp;&emsp;(ii) Inventorying.
+
+&emsp;&emsp;&emsp;(iii) Protective packing and unpacking of individual items at personal residences.
+
+&emsp;&emsp;&emsp;(iv) Loading and unloading at personal residences.
+
+&emsp;&emsp;(B)
+
+Inclusion.—The term includes any person that is considered to be a household goods motor carrier under regulations, determinations, and decisions of the Federal Motor Carrier Safety Administration that are in effect on the date of enactment of the Household Goods Mover Oversight Enforcement and Reform Act of 2005.
+
+&emsp;&emsp;(C)
+
+Limited service exclusion.—The term does not include a motor carrier when the motor carrier provides transportation of household goods in containers or trailers that are entirely loaded and unloaded by an individual (other than an employee or agent of the motor carrier).
 
 &emsp;(13)
 
-Motor private carrier.—The term “motor private carrier” means a person, other than a motor carrier, transporting property by motor vehicle when—
+Individual shipper.—The term “individual shipper” means any person who—
+
+&emsp;&emsp;(A) is the shipper, consignor, or consignee of a household goods shipment;
+
+&emsp;&emsp;(B) is identified as the shipper, consignor, or consignee on the face of the bill of lading;
+
+&emsp;&emsp;(C) owns the goods being transported; and
+
+&emsp;&emsp;(D) pays his or her own tariff transportation charges.
+
+&emsp;(14)
+
+Motor carrier.—The term “motor carrier” means a person providing commercial motor vehicle (as defined in section 31132) transportation for compensation.
+
+&emsp;(15)
+
+Motor private carrier.—The term “motor private carrier” means a person, other than a motor carrier, transporting property by commercial motor vehicle (as defined in section 31132) when—
 
 &emsp;&emsp;(A) the transportation is as provided in section 13501 of this title;
 
@@ -92,31 +128,31 @@ Motor private carrier.—The term “motor private carrier” means a person, ot
 
 &emsp;&emsp;(C) the property is being transported for sale, lease, rent, or bailment or to further a commercial enterprise.
 
-&emsp;(14)
+&emsp;(16)
 
 Motor vehicle.—The term “motor vehicle” means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on a highway in transportation, or a combination determined by the Secretary, but does not include a vehicle, locomotive, or car operated only on a rail, or a trolley bus operated by electric power from a fixed overhead wire, and providing local passenger transportation similar to street-railway service.
 
-&emsp;(15)
+&emsp;(17)
 
 Noncontiguous domestic trade.—The term “noncontiguous domestic trade” means transportation subject to jurisdiction under chapter 135 involving traffic originating in or destined to Alaska, Hawaii, or a territory or possession of the United States.
 
-&emsp;(16)
+&emsp;(18)
 
 Person.—The term “person”, in addition to its meaning under section 1 of title 1, includes a trustee, receiver, assignee, or personal representative of a person.
 
-&emsp;(17)
+&emsp;(19)
 
 Pre-arranged ground transportation service.—The term “pre-arranged ground transportation service” means transportation for a passenger (or a group of passengers) that is arranged in advance (or is operated on a regular route or between specified points) and is provided in a motor vehicle with a seating capacity not exceeding 15 passengers (including the driver).
 
-&emsp;(18)
+&emsp;(20)
 
 Secretary.—The term “Secretary” means the Secretary of Transportation.
 
-&emsp;(19)
+&emsp;(21)
 
 State.—The term “State” means the 50 States of the United States and the District of Columbia.
 
-&emsp;(20)
+&emsp;(22)
 
 Taxicab service.—The term “taxicab service” means passenger transportation in a motor vehicle having a capacity of not more than 8 passengers (including the driver), not operated on a regular route or between specified places, and that—
 
@@ -128,7 +164,7 @@ Taxicab service.—The term “taxicab service” means passenger transportation
 
 &emsp;&emsp;&emsp;(ii) does not primarily provide transportation to or from airports.
 
-&emsp;(21)
+&emsp;(23)
 
 Transportation.—The term “transportation” includes—
 
@@ -136,19 +172,19 @@ Transportation.—The term “transportation” includes—
 
 &emsp;&emsp;(B) services related to that movement, including arranging for, receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, packing, unpacking, and interchange of passengers and property.
 
-&emsp;(22)
+&emsp;(24)
 
 United states.—The term “United States” means the States of the United States and the District of Columbia.
 
-&emsp;(23)
+&emsp;(25)
 
 Vessel.—The term “vessel” means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
 
-&emsp;(24)
+&emsp;(26)
 
 Water carrier.—The term “water carrier” means a person providing water transportation for compensation.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, title II, §209(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 107–298, §3(a), Nov. 26, 2002, 116 Stat. 2343.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, title II, §209(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 107–298, §3(a), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4142(a), 4202(b), Aug. 10, 2005, 119 Stat. 1747, 1751.)
 
 #### Historical and Revision Notes
 
@@ -162,7 +198,9 @@ This amends 49:13102(4)(B) for clarity and consistency.
 
 #### References in Text
 
-Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by Pub. L.104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+
+The date of enactment of the Household Goods Mover Oversight Enforcement and Reform Act of 2005, referred to in par. (12)(B), is the date of enactment of subtitle B of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Prior Provisions
 
@@ -170,11 +208,31 @@ Provisions similar to those in this section were contained in section 10102 of t
 
 #### Amendments
 
+2005—Pars. (6)(B), (7)(B). Pub. L. 109–59, §4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
+
+Par. (12). Pub. L. 109–59, §4202(b), added par. (12). Former par. (12) redesignated (14).
+
+Pub. L. 109–59, §4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle”.
+
+Par. (13). Pub. L. 109–59, §4202(b), added par. (13). Former par. (13) redesignated (15).
+
+Pub. L. 109–59, §4142(a), substituted “commercial motor vehicle (as defined in section 31132)” for “motor vehicle” in introductory provisions.
+
+Pars. (14) to (26). Pub. L. 109–59, §4202(b), redesignated pars. (12) to (24) as (14) to (26), respectively.
+
 2002—Pars. (17) to (24). Pub. L. 107–298 added pars. (17) and (20) and redesignated former pars. (17), (18), (19), (20), (21), and (22) as pars. (18), (19), (21), (22), (23), and (24), respectively.
 
-1999—Par. (10)(A). Pub. L. 106–159 substituted “, except such term does not include property movingfrom a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
+1999—Par. (10)(A). Pub. L. 106–159 substituted “, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
 
 1996—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
 
 Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted “after December 31, 1995” for “on or after such date”.
+
+#### Application of Certain Provisions of Law
+
+Pub. L. 109–59, title IV, §4202(c), Aug. 10, 2005, 119 Stat. 1752, provided that: “The provisions of title 49, United States Code, and this subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] (including any amendments made by this subtitle), that relate to the transportation of household goods apply only to a household goods motor carrier (as defined in section 13102 of title 49, United States Code).”
+
+#### Definitions
+
+Pub. L. 109–59, title IV, §4202(a), Aug. 10, 2005, 119 Stat. 1751, provided that: “In this subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\], the terms ‘carrier’, ‘household goods’, ‘motor carrier’, ‘Secretary’, and ‘transportation’ have the meaning given to such terms in section 13102 of title 49, United States Code.”
 

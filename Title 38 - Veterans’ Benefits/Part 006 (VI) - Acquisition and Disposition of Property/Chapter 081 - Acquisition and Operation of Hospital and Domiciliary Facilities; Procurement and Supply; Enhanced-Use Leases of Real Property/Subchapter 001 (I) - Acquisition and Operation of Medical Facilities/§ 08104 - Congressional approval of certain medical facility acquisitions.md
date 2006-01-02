@@ -18,7 +18,7 @@
 
 &emsp;(3) An estimate of the cost to the United States of the equipment required for the operation of such facility.
 
-&emsp;(4) Demographic data applicable to such facility, including information on projectedchanges in the population of veterans to be served by the facility over a five-year period and a ten-year period.
+&emsp;(4) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period and a ten-year period.
 
 &emsp;(5) Current and projected workload and utilization data regarding the facility.
 
@@ -28,7 +28,7 @@
 
 &emsp;(8) In the case of a prospectus proposing the construction of a new or replacement medical facility, a description of each alternative to construction of the facility that was considered.
 
-(c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intention to do so and the reasons for the specified amount being exceeded.
+(c) Not less than 30 days before obligating funds for a major medical facility project approved by a law described in subsection (a)(2) of this section in an amount that would cause the total amount obligated for that project to exceed the amount specified in the law for that project (or would add to total obligations exceeding such specified amount) by more than 10 percent, the Secretary shall provide the committees with notice of the Secretary's intentionto do so and the reasons for the specified amount being exceeded.
 
 (d) In any case in which the Secretary proposes that funds be used for a purpose other than the purpose for which such funds were appropriated, the Secretary shall promptly notify each committee, in writing, of the particulars involved and the reasons why such funds were not used for the purpose for which appropriated.
 
@@ -106,7 +106,7 @@ Subsec. (a)(3), (4). Pub. L. 100–322, §422(b), added par. (3) and struck out 
 
 “(4) For the purpose of this subsection, the term ‘major medical facility project’ means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $2,000,000. Such term does not include an acquisition by exchange.”
 
-Subsec. (c). Pub. L. 100–322, §422(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The estimated cost of any construction, alteration, lease, or other acquisition that is approved under this section, as set forth in the pertinent resolutions described in subsection (a) of this section, may be increased by the Administrator in the contract for such construction, alteration, lease, or other acquisition by an amount equal to the percentage increase, if any, as determined by the Administrator, in construction, alteration, lease, or other acquisition costs, as the case may be, from the date of such approval to the date of contract, but in no event may the amount of such increase exceed 10 per centum of such estimated cost.”
+Subsec. (c). Pub. L. 100–322, §422(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The estimated cost of any construction, alteration, lease, or other acquisition that is approved under this section, as set forth in the pertinent resolutions described in subsection (a) of this section, may be increased by the Administrator in the contract for such construction, alteration, lease, or other acquisition byan amount equal to the percentage increase, if any, as determined by the Administrator, in construction, alteration, lease, or other acquisition costs, as the case may be, from the date of such approval to the date of contract, but in no event may the amount of such increase exceed 10 per centum of such estimated cost.”
 
 Subsecs. (d) to (f). Pub. L. 100–322, §422(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “In the case of any medical facility approved for construction, alteration, lease, or other acquisition by each committee under subsection (a) of this section for which funds have not been appropriated within one year after the date of such approval, either such committee may by resolution rescind its approval at any time thereafter before such funds are appropriated.”
 

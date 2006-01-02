@@ -22,7 +22,3 @@ For purposes of computing the taxable income of the estate or trust and the taxa
 
 Amendment by Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, with express provision for application of amendment to modification, see section 422(e)(1), (2) of Pub. L. 98–369, set out as a note under section 71 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 71, 152, 215, 7701 of this title.
-

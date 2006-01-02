@@ -6,7 +6,7 @@ The Secretary shall prepare and publish not less than annually statistics reason
 
 #### (b) Special statistical studies
 
-The Secretary may, upon written request by any party or parties, make special statistical studies and compilations involving return information (as defined in section 6103(b)(2)) and furnish to such party or parties transcripts of any such special statistical study or compilation. A reasonable fee may be prescribed for the cost of the work or services performed for such party or parties.
+The Secretary may, upon written request by any party or parties, make special statisticalstudies and compilations involving return information (as defined in section 6103(b)(2)) and furnish to such party or parties transcripts of any such special statistical study or compilation. A reasonable fee may be prescribed for the cost of the work or services performed for such party or parties.
 
 #### (c) Anonymous form
 
@@ -21,8 +21,4 @@ No publication or other disclosure of statistics or other information required o
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–455 effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as a note under section 6103 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7809 of this title.
 

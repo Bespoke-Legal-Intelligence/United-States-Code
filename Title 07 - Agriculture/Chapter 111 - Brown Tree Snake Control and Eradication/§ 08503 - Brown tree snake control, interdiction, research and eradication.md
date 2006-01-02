@@ -14,7 +14,7 @@ Brown tree snake control, interdiction, research, and eradication efforts author
 
 &emsp;(3) Expansion of efforts to protect and restore native wildlife in Guam or elsewhere in the United States damaged by the brown tree snake.
 
-&emsp;(4) Establishment and sustained funding for an Animal Plant and Health Inspection Service, Wildlife Services, Operations ProgramState Office located in Hawaii dedicated to vertebrate pest management in Hawaii and United States Pacific territories and possessions. Concurrently, the Animal Plant and Health Inspection Service, Wildlife Services Operations Program shall establish and sustain funding for a District Office in Guam dedicated to brown tree snake control and managed by the Hawaii State Office.
+&emsp;(4) Establishment and sustained funding for an Animal Plant and Health Inspection Service, Wildlife Services, Operations Program State Office located in Hawaii dedicated to vertebrate pest management in Hawaii and United States Pacific territories and possessions. Concurrently, the Animal Plant and Health Inspection Service, Wildlife Services Operations Program shall establish and sustain funding for a District Office in Guam dedicated to brown tree snake control and managed by the Hawaii State Office.
 
 &emsp;(5) Continuation, expansion, and provision of sustained research funding related to the brown tree snake, including research conducted at institutions located in areas affected by the brown tree snake.
 
@@ -26,7 +26,7 @@ Brown tree snake control, interdiction, research, and eradication efforts author
 
 &emsp;(9) Expansion of short, medium, and long-term research, funded by all Federal agencies interested in or affected by the brown tree snake, into interdiction, detection, and early control of the brown tree snake.
 
-&emsp;(10) Provision of planning assistance for the construction or renovation of centralized multi-agency facilities in Guam to support Federal, State, and territorial brown tree snake control, interdiction, research and eradication efforts, including office space, laboratory space, animal holding facilities, and snake detector dog kennels.
+&emsp;(10) Provision of planning assistance for the construction or renovation of centralized multi-agency facilities in Guam to support Federal, State, and territorial brown treesnake control, interdiction, research and eradication efforts, including office space, laboratory space, animal holding facilities, and snake detector dog kennels.
 
 &emsp;(11) Provision of technical assistance to the Freely Associated States on matters related to the brown tree snake through the mechanisms contained within a Compact of Free Association dealing with environmental, quarantine, economic, and human health issues.
 

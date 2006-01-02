@@ -26,7 +26,3 @@ Subsec. (b). Pub. L. 99–514, §1272(b), amended subsec. (b) generally, inserti
 
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 901, 931 of this title.
-

@@ -58,7 +58,7 @@
 
 #### References in Text
 
-Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(4)(C),is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
+Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(4)(C), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
 
 #### Amendments
 
@@ -75,8 +75,4 @@ Subsec. (c)(3). Pub. L. 102–484, §503, added par. (3).
 1991—Subsec. (b)(2)(C). Pub. L. 102–190, §503(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Officers holding a regular grade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.”
 
 Subsec. (c). Pub. L. 102–190, §503(b)(2), designated existing provisions as par. (1) and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 637, 638, 1558 of this title.
 

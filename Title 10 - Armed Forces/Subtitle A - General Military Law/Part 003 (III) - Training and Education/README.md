@@ -8,7 +8,8 @@
 | [<b>104.</b>](Chapter%20104%20-%20Uniformed%20Services%20University%20of%20the%20Health%20Sciences/README.md) | <b>Uniformed Services University of the Health Sciences</b> | <b>2112</b> |
 | [<b>105.</b>](Chapter%20105%20-%20Armed%20Forces%20Health%20Professions%20Financial%20Assistance%20Programs/README.md) | <b>Armed Forces Health Professions Financial Assistance Programs</b> | <b>2120</b> |
 | [<b>106.</b>](Chapter%20106%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>2131</b> |
-| [<b>107.</b>](Chapter%20107%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md) | <b>Educational Assistance for Persons Enlisting for Active Duty</b> | <b>2141</b> |
+| [<b>106A.</b>](Chapter%20106A%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md) | <b>Educational Assistance for Persons Enlisting for Active Duty</b> | <b>2141</b> |
+| [<b>107.</b>](Chapter%20107%20-%20Professional%20Military%20Education/README.md) | <b>Professional Military Education</b> | <b>2151</b> |
 | [<b>108.</b>](Chapter%20108%20-%20Department%20of%20Defense%20Schools/README.md) | <b>Department of Defense Schools</b> | <b>2161</b> |
 | [<b>109.</b>](Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md) | <b>Educational Loan Repayment Programs</b> | <b>2171</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
@@ -19,11 +20,13 @@
 
 #### Amendments
 
+2004—Pub. L. 108–375, div. A, title V, §532(e), Oct. 28, 2004, 118 Stat. 1900, added item for chapter 107 and redesignated former item for chapter 107 as 106A.
+
 2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, added item for chapter 112.
 
 1991—Pub. L. 102–25, title VII, §701(e)(2), Apr. 6, 1991, 105 Stat. 114, inserted “2161” in item for chapter 108.
 
-1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title IX, §911(b)(3), Nov. 5, 1990, 104 Stat. 1523, 1626, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108 and “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111.
+1990—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title IX, §911(b)(3), Nov. 5, 1990, 104 Stat. 1523, 1626, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108 and “Support ofScience, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111.
 
 1989—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title XVI, §1622(d)(1), Nov. 29, 1989, 103 Stat. 1517, 1604, substituted “TRAINING AND EDUCATION” for “TRAINING” in heading for part III and added item for chapter 111.
 
@@ -58,7 +61,8 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 - [Chapter 104 - Uniformed Services University of the Health Sciences](Chapter%20104%20-%20Uniformed%20Services%20University%20of%20the%20Health%20Sciences/README.md)
 - [Chapter 105 - Armed Forces Health Professions Financial Assistance Programs](Chapter%20105%20-%20Armed%20Forces%20Health%20Professions%20Financial%20Assistance%20Programs/README.md)
 - [Chapter 106 - Educational Assistance for Members of the Selected Reserve](Chapter%20106%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md)
-- [Chapter 107 - Educational Assistance for Persons Enlisting for Active Duty](Chapter%20107%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md)
+- [Chapter 106A - Educational Assistance for Persons Enlisting for Active Duty](Chapter%20106A%20-%20Educational%20Assistance%20for%20Persons%20Enlisting%20for%20Active%20Duty/README.md)
+- [Chapter 107 - Professional Military Education](Chapter%20107%20-%20Professional%20Military%20Education/README.md)
 - [Chapter 108 - Department of Defense Schools](Chapter%20108%20-%20Department%20of%20Defense%20Schools/README.md)
 - [Chapter 109 - Educational Loan Repayment Programs](Chapter%20109%20-%20Educational%20Loan%20Repayment%20Programs/README.md)
 - [Chapter 110 - Educational Assistance for Members Held as Captives and Their Dependents](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md)

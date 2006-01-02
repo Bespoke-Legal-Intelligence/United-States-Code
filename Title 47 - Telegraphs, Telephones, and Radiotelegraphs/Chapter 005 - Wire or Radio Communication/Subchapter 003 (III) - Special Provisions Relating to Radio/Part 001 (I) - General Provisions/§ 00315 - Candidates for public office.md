@@ -102,7 +102,7 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 #### (3) Time to maintain file
 
-&emsp;The information required under this subsection shall be placed in a political file assoon as possible and shall be retained by the licensee for a period of not less than 2 years.
+&emsp;The information required under this subsection shall be placed in a political file as soon as possible and shall be retained by the licensee for a period of not less than 2 years.
 
 (June 19, 1934, ch. 652, title III, §315, 48 Stat. 1088; July 16, 1952, ch. 879, §11, 66 Stat. 717; Pub. L. 86–274, §1, Sept. 14, 1959, 73 Stat. 557; Pub. L. 92–225, title I, §§103(a)(1), (2)(B), 104(c), Feb. 7, 1972, 86 Stat. 4, 7; Pub. L. 93–443, title IV, §402, Oct. 15, 1974, 88 Stat. 1291; Pub. L. 107–155, title III, §305(a), (b), title V, §504, Mar. 27, 2002, 116 Stat. 100, 101, 115.)
 

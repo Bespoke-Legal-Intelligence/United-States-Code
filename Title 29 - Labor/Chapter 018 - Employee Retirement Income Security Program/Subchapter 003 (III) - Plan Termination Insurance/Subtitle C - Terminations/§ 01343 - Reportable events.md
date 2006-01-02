@@ -20,7 +20,7 @@ Within 30 days after the plan administrator or the contributing sponsor knows or
 
 &emsp;(B) a subsidiary (as defined for purposes of such Act \[15 U.S.C. 78a et seq.\]) of a person subject to such reporting requirements.
 
-(3) No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c) of this section, a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
+(3) No later than 30 days prior to the effective date of an event described in paragraph (9), (10), (11), (12), or (13) of subsection (c) of this section,a contributing sponsor to which the requirements of this subsection apply shall notify the corporation that the event is about to occur.
 
 (4) The corporation may waive the requirement of this subsection with respect to any or all reportable events with respect to any contributing sponsor.
 

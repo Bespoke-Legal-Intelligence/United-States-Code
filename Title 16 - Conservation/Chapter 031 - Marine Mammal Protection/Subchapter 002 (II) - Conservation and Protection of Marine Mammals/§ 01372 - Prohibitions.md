@@ -64,7 +64,7 @@ Subsections (b) and (c) of this section shall not apply—
 
 #### (e) Retroactive effect
 
-This chapter shall not apply with respect to any marine mammal taken before the effective date of this chapter, or to any marine mammal product consisting of, or composed in whole or in part of, any marine mammal taken before such date.
+This chapter shall not apply with respect to any marine mammal taken before the effectivedate of this chapter, or to any marine mammal product consisting of, or composed in whole or in part of, any marine mammal taken before such date.
 
 #### (f) Commercial taking of whales
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 100–711, §5(e)(2), substituted “research, or for enhan
 
 Pub. L. 100–711, §5(b), inserted sentence at end authorizing Secretary to issue permit for importation of marine mammal.
 
-1981—Subsec. (a). Pub. L. 97–58, §3(a)(1), inserted reference to section 1379 of this title in the enumerationof sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
+1981—Subsec. (a). Pub. L. 97–58, §3(a)(1), inserted reference to section 1379 of this title in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
 
 Subsec. (b)(3). Pub. L. 97–58, §3(a)(2), struck out “or which has been listed as an endangered species or threatened species pursuant to the Endangered Species Act of 1973” after “designated as a depleted species or stock”.
 

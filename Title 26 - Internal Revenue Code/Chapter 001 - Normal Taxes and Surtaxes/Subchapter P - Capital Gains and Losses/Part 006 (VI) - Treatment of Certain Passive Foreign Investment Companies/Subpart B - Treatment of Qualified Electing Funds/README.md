@@ -8,12 +8,6 @@ Subpart B—Treatment of Qualified Electing Funds
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 1291 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

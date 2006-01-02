@@ -4,7 +4,7 @@
 
 (2) For each unit of general local government described in section 6901(2)(A)(ii), the Secretary of the Interior shall make a payment for each fiscal year to the State of Alaska for entitlement land located within such unit as set forth in this chapter. The State of Alaska shall distribute such payment to home rule cities and general law cities (as such cities are defined by the State) located within the boundaries of the unit of general local government for which the payment was received. Such cities may use monies received under this paragraph for any governmental purpose.
 
-(b) A unit of general local government may not receive a payment for land for which payment under this Act <sup>2</sup> otherwise may be received if the land was owned or administered by a State or unit of general local government and was exempt from real estate taxes when the landwas conveyed to the United States except that a unit of general local government may receive a payment for—
+(b) A unit of general local government may not receive a payment for land for which payment under this Act <sup>2</sup> otherwise may be received if the land was owned or administered by a State or unit of general local government and was exempt from real estate taxes when the land was conveyed to the United States except that a unit of general local government may receive a payment for—
 
 &emsp;(1) land a State or unit of general local government acquires from a private party to donate to the United States within 8 years of acquisition;
 

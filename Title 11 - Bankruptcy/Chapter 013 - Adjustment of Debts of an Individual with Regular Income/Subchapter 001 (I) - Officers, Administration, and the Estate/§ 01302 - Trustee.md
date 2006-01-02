@@ -16,13 +16,43 @@
 
 &emsp;(3) dispose of, under regulations issued by the Director of the Administrative Office of the United States Courts, moneys received or to be received in a case under chapter XIII of the Bankruptcy Act;
 
-&emsp;(4) advise, other than on legal matters, and assist the debtor in performance under the plan; and
+&emsp;(4) advise, other than on legal matters, and assist the debtor in performance under the plan;
 
-&emsp;(5) ensure that the debtor commences making timely payments under section 1326 of this title.
+&emsp;(5) ensure that the debtor commences making timely payments under section 1326 of this title; and
+
+&emsp;(6) if with respect to the debtor there is a claim for a domestic support obligation, provide the applicable notice specified in subsection (d).
 
 (c) If the debtor is engaged in business, then in addition to the duties specified in subsection (b) of this section, the trustee shall perform the duties specified in sections 1106(a)(3) and 1106(a)(4) of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2645; Pub. L. 98–353, title III, §§314, 525, July 10, 1984, 98 Stat. 356, 388; Pub. L. 99–554, title II, §§228, 283(w), Oct. 27, 1986, 100 Stat. 3103, 3118; Pub. L. 103–394, title V, §501(d)(37), Oct. 22, 1994, 108 Stat. 4147.)
+(d)(1) In a case described in subsection (b)(6) to which subsection (b)(6) applies, the trustee shall—
+
+&emsp;(A)(i) provide written notice to the holder of the claim described in subsection (b)(6) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for the State in which such holder resides, for assistance in collecting child support during and after the case under this title; and
+
+&emsp;(ii) include in the notice provided under clause (i) the address and telephone number of such State child support enforcement agency;
+
+&emsp;(B)(i) provide written notice to such State child support enforcement agency of such claim; and
+
+&emsp;(ii) include in the notice provided under clause (i) the name, address, and telephone number of such holder; and
+
+&emsp;(C) at such time as the debtor is granted a discharge under section 1328, provide written notice to such holder and to such State child support enforcement agency of—
+
+&emsp;&emsp;(i) the granting of the discharge;
+
+&emsp;&emsp;(ii) the last recent known address of the debtor;
+
+&emsp;&emsp;(iii) the last recent known name and address of the debtor's employer; and
+
+&emsp;&emsp;(iv) the name of each creditor that holds a claim that—
+
+&emsp;&emsp;&emsp;(I) is not discharged under paragraph (2) or (4) of section 523(a); or
+
+&emsp;&emsp;&emsp;(II) was reaffirmed by the debtor under section 524(c).
+
+(2)(A) The holder of a claim described in subsection (b)(6) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
+
+(B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making that disclosure.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2645; Pub. L. 98–353, title III, §§314, 525, July 10, 1984, 98 Stat. 356, 388; Pub. L. 99–554, title II, §§228, 283(w), Oct. 27, 1986, 100 Stat. 3103, 3118; Pub. L. 103–394, title V, §501(d)(37), Oct. 22, 1994, 108 Stat. 4147; Pub. L. 109–8, title II, §219(d), Apr. 20, 2005, 119 Stat. 58.)
 
 #### Historical and Revision Notes
 
@@ -52,7 +82,13 @@ Subsection (d) gives the trustee an additional duty if the debtor is engaged in 
 
 Chapter XIII of the Bankruptcy Act, referred to in subsec. (b)(3), is chapter XIII of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, §1, 52 Stat. 930, which was classified to chapter 13 (§1001 et seq.) of former Title 11.
 
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (d)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
+
 #### Amendments
+
+2005—Subsec. (b)(6). Pub. L. 109–8, §219(d)(1), added par. (6).
+
+Subsec. (d). Pub. L. 109–8, §219(d)(2), added subsec. (d).
 
 1994—Subsec. (b)(3). Pub. L. 103–394 struck out “and” at end.
 
@@ -93,6 +129,10 @@ Subsec. (e)(1). Pub. L. 98–353, §525(b)(1), which directed the amendment of p
 Subsec. (e)(1)(A). Pub. L. 98–353, §525(b)(2), struck out “for such individual” after “a maximum annual compensation”.
 
 Subsec. (e)(2)(A). Pub. L. 98–353, §525(b)(3), substituted “received by” for “of”, and “of all such payments made” for “upon all payments”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

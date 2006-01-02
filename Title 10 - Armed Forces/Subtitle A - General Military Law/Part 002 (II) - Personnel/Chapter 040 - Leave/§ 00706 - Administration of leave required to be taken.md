@@ -54,7 +54,3 @@ Section 7 of Pub. L. 97–81, as amended by Pub. L. 98–209, §12(b), Dec. 6, 1
 
 “(5) The amendment made by section 5 \[amending section 867 of this title\] shall apply to any accused with respect to a Court of Military Review \[now Court of Criminal Appeals\] decision that is dated on or after the effective date of such amendment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 707, 707a of this title.
-

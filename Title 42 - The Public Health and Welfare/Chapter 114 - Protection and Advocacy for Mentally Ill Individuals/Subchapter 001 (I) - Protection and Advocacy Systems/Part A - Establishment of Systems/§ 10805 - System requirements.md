@@ -6,7 +6,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;(1) have the authority to—
 
-&emsp;&emsp;(A) investigate incidents of abuse and neglect of individuals with mental illness ifthe incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
+&emsp;&emsp;(A) investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred;
 
 &emsp;&emsp;(B) pursue administrative, legal, and other appropriate remedies to ensure the protection of individuals with mental illness who are receiving care or treatment in the State; and
 
@@ -42,7 +42,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;&emsp;(iii) such representative has failed or refused to act on behalf of the individual;
 
-&emsp;(5) have an arrangement with the Secretary and the agency of the State which administers the State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b) of this section;
+&emsp;(5) have an arrangement with the Secretary and the agency of the State which administersthe State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the furnishing of the information required by subsection (b) of this section;
 
 &emsp;(6) establish an advisory council—
 
@@ -66,7 +66,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 #### (c) Governing authority
 
-(1)(A) Each system established in a State, through allotments received under section 10803of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
+(1)(A) Each system established in a State, through allotments received under section 10803 of this title, to protect and advocate the rights of individuals with mental illness shall have a governing authority.
 
 (B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
 

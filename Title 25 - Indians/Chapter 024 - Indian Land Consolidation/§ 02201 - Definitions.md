@@ -106,7 +106,11 @@ Certification.—After providing notice under this subsection, the Secretary sha
 
 “(b)
 
-Effective Date.—Section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206), except subsections (e) and (f) of that section, shall not apply to the estate of an individual who dies before the date that is 1 year after the date on which the Secretary makes the certification required under subsection (a)(4).”
+Effective Date.—Section 207 of the Indian Land Consolidation Act (25 U.S.C. 2206), except subsections (e) and (f) of that section, shall not apply to the estate of an individual who dies before the date that is 1 year after the date on which the Secretary makes the certification required under subsection (a)(4) \[such certification made June 20, 2005, see 70 F.R. 37107\].”
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–157, §1, Dec. 30, 2005, 119 Stat. 2949, provided that: “This Act \[amending sections 464, 2204 to 2206, 2212, 2214, and 2216 of this title, enacting provisions set out as a note under section 464 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Indian Land Probate Reform Technical Corrections Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -130,7 +134,7 @@ Pub. L. 108–374, §10, Oct. 27, 2004, 118 Stat. 1810, provided that: “The Se
 
 #### Severability
 
-Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(d)(2)(I)(i) \[25 U.S.C. 2204(d)(2)(I)(i)\] is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
+Pub. L. 108–374, §9, Oct. 27, 2004, 118 Stat. 1810, as amended by Pub. L. 109–157, §8(a)(2), Dec. 30, 2005, 119 Stat. 2952, provided that: “If any provision of this Act \[see Short Title of 2004 Amendment note above\] or of any amendment made by this Act, or the application of any such provision to any person or circumstance, is held to be invalid for any reason, the remainder of this Act and of amendments made by this Act, and the application of the provisions and of the amendments made by this Act to any other person or circumstance shall not be affected by such holding, except that each of subclauses (II), (III), and (IV) of section 205(c)(2)(I)(i) of the Indian Land Consolidation Act (25 U.S.C. 2204(c)(2)(I)(i)) is deemed to be inseverable from the other 2, such that if any 1 of those 3 subclauses is held to be invalid for any reason, neither of the other 2 of such subclauses shall be given effect.”
 
 #### Congressional Findings
 
@@ -182,7 +186,7 @@ Pub. L. 106–462, title I, §101, Nov. 7, 2000, 114 Stat. 1991, provided that: 
 
 &emsp;“(5) the trust periods for trust allotments have been extended indefinitely;
 
-&emsp;“(6) because of the inheritance provisions in the original treaties or allotment Acts, the ownership of many of the trust allotments that have remained in trust status has become fractionated into hundreds or thousands of undivided interests, many of which represent 2 percent or less of the total interests;
+&emsp;“(6) because of the inheritance provisions in the original treaties or allotment Acts, the ownership of many of the trust allotments that have remained intrust status has become fractionated into hundreds or thousands of undivided interests, many of which represent 2 percent or less of the total interests;
 
 &emsp;“(7) Congress has authorized the acquisition of lands in trust for individual Indians, and many of those lands have also become fractionated by subsequent inheritance;
 

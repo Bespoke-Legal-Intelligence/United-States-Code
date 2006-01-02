@@ -26,7 +26,7 @@ Exemptions.—The Administrator may exempt from the requirements of this section
 
 (d)
 
-Commuter Airports.—In developing the terms required by subsection (b) for airports covered by subsection (a)(2), the Administratorshall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
+Commuter Airports.—In developing the terms required by subsection (b) for airports covered by subsection (a)(2), the Administrator shall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
 
 (e)
 
@@ -81,6 +81,10 @@ Subsec. (f). Pub. L. 104–264, §404(d), added subsec. (f).
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Improvement of Runway Safety Areas
+
+Pub. L. 109–115, div. A, title I, Nov. 30, 2005, 119 Stat. 2401, provided in part: “That not later than December 31, 2015, the owner or operator of an airport certificated under 49 U.S.C. 44706 shall improve the airport's runway safety areas to comply with the Federal Aviation Administration design standards required by 14 CFR part 139: <i>Provided further</i>, That the Federal Aviation Administration shall report annually to the Congress on the agency's progress toward improving the runway safety areas at 49 U.S.C. 44706 airports.”
 
 #### Small Airport Certification
 

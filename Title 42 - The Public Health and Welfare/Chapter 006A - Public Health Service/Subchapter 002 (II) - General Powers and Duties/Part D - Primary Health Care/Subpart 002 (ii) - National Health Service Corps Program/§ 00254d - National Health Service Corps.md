@@ -44,7 +44,7 @@
 
 (1) The Secretary may, under regulations promulgated by the Secretary, adjust the monthly pay of each member of the Corps (other than a member described in subsection (a)(1)(C) of this section) who is directly engaged in the delivery of health services in a health professional shortage area as follows:
 
-&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of the profession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
+&emsp;(A) During the first 36 months in which such a member is so engaged in the delivery of health services, his monthly pay may be increased by an amount which when added to the member's monthly pay and allowances will provide a monthly income competitive with the average monthly income from a practice of an individual who is a member of theprofession of the Corps member, who has equivalent training, and who has been in practice for a period equivalent to the period during which the Corps member has been in practice.
 
 &emsp;(B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member's monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
 
@@ -94,7 +94,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 &emsp;(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254<i>l</i>–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under section 254m of this title; and
 
-&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing less than full-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
+&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing less than full-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual'swritten contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
 
 (3) In evaluating a demonstration project described in paragraph (1), the Secretary shall examine the effect of multidisciplinary teams.
 
@@ -144,7 +144,7 @@ Subsec. (d)(1)(A). Pub. L. 101–597, §101(c), struck out “(not to exceed $1,
 
 Subsecs. (d)(2), (e). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-Subsec. (h). Pub. L. 101–597, §101(d), added subsec. (h) and struck out former subsec. (h) which read as follows:“In assigning members of the Corps to health manpower shortage areas, to the extent practicable, the Secretary shall—
+Subsec. (h). Pub. L. 101–597, §101(d), added subsec. (h) and struck out former subsec. (h) which read as follows: “In assigning members of the Corps to health manpower shortage areas, to the extent practicable, the Secretary shall—
 
 &emsp;“(1) give priority to meeting the needs of the Indian Health Service and the needs of health programs or facilities operated by tribes or tribal organizations under the Indian Self-Determination Act (25 U.S.C. 450f et seq.); and
 
@@ -170,7 +170,7 @@ Subsec. (b). Pub. L. 97–35, §2701(b), substituted “may” for “shall”.
 
 Subsec. (c). Pub. L. 97–35, §2701(c), inserted provisions respecting a written agreement under section 254n of this title.
 
-Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to member described in subsec. (a)(1)(C) of this section, in subpars. (1)(A) and (B) substituted “may” for “shall”, and added par. (3).
+Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to member described in subsec. (a)(1)(C) ofthis section, in subpars. (1)(A) and (B) substituted “may” for “shall”, and added par. (3).
 
 Subsec. (g). Pub. L. 97–35, §2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
 

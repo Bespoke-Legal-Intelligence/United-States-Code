@@ -28,11 +28,9 @@ In determining the income tax of a partner of an electing large partnership, suc
 
 &emsp;(8) rehabilitation credit determined under section 47,
 
-&emsp;(9) foreign income taxes,
+&emsp;(9) foreign income taxes, and
 
-&emsp;(10) the credit allowable under section 29, and
-
-&emsp;(11) other items to the extent that the Secretary determines that the separate treatment of such items is appropriate.
+&emsp;(10) other items to the extent that the Secretary determines that the separate treatment of such items is appropriate.
 
 #### (b) Separate computations
 
@@ -52,7 +50,7 @@ In determining the amounts required under subsection (a) to be separately taken 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this chapter, any partner's distributive share of any income or loss described in subsection (a)(2) shall be treated as an item of income or expense (as the case may be) with respect to property held for investment.
+&emsp;&emsp;For purposes of this chapter, any partner's distributive share of any income or loss described in subsection (a)(2) shall be treated as an item of income or expense (as the casemay be) with respect to property held for investment.
 
 #### (B) Deductions for loss not subject to section 67
 
@@ -124,7 +122,7 @@ For purposes of this section—
 
 #### (5) General credits
 
-&emsp;The term “general credits” means any credit other than the low-income housing credit, the rehabilitation credit, the foreign tax credit, and the credit allowable under section 29.
+&emsp;The term “general credits” means any credit other than the low-income housing credit, the rehabilitation credit, and the foreign tax credit.
 
 #### (6) Foreign income taxes
 
@@ -144,9 +142,15 @@ If any person holds an interest in an electing large partnership other than as a
 
 > The preceding sentence shall not apply to any items allocable to an interest held as a limited partner.
 
-(Added Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1002.)
+(Added Pub. L. 105–34, title XII, §1221(a), Aug. 5, 1997, 111 Stat. 1002; amended Pub. L. 109–58, title XIII, §1322(a)(3)(I), (J), Aug. 8, 2005, 119 Stat. 1012.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 773, 774, 776 of this title.
+2005—Subsec. (a)(9) to (11). Pub. L. 109–58, §1322(a)(3)(I), inserted “and” at end of par. (9), redesignated par. (11) as (10), and struck out former par. (10) which read as follows: “the credit allowable under section 29, and”.
+
+Subsec. (d)(5). Pub. L. 109–58, §1322(a)(3)(J), substituted “and the foreign tax credit” for “the foreign tax credit, and the credit allowable under section 29”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 

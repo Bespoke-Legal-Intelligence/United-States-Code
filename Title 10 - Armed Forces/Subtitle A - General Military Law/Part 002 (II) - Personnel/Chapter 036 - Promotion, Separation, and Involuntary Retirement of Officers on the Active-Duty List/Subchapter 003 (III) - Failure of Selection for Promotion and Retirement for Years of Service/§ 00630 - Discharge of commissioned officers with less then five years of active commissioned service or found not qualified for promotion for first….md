@@ -22,7 +22,3 @@ Par. (1). Pub. L. 107–107, §505(d)(2), struck out “regular” before “off
 
 1984—Par. (2). Pub. L. 98–525 substituted “18-month” for “eighteen-month”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1174 of this title.
-

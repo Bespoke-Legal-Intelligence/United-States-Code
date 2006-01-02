@@ -2,7 +2,9 @@
 
 (a)
 
-Waiver by the President.—In the case of the administration of a product authorized for emergency use under section 564 of the Federal Food, Drug, and Cosmetic Act to members of the armed forces, the condition described in section 564(e)(1)(A)(ii)(III) of such Act and required under paragraph (1)(A) or (2)(A) of such section 564(e), designed to ensure that individuals are informed of an option to accept or refuse administration of a product, may be waived only by the President only if the President determines, in writing, that complying with such requirement is not feasible, is contrary to the best interests of the members affected, or is not in the interests of national security.
+Waiver by the President.—(A) In the case of the administration of a product authorized for emergency use under section 564 of the Federal Food, Drug, and Cosmetic Act to members of the armed forces, the condition described in section 564(e)(1)(A)(ii)(III) of such Act and required under paragraph (1)(A) or (2)(A) of such section 564(e), designed to ensure that individuals are informed of an option to accept or refuse administration of a product, may be waived only by the President only if the President determines, in writing, that complying with such requirement is not in the interests of national security.
+
+(B) The waiver authority provided in subparagraph (A) shall not be construed to apply to any case other than a case in which an individual is required to be informed of an option to accept or refuse administration of a particular product by reason of a determination by the Secretary of Health and Human Services that emergency use of such product is authorized under section 564 of the Federal Food, Drug, and Cosmetic Act.
 
 (b)
 
@@ -10,15 +12,27 @@ Provision of Information.—If the President, under subsection (a), waives the c
 
 (c)
 
-Applicability of Other Provisions.—In the case of an authorization by the Secretary of Health and Human Services under section 564(a)(1) of the Federal Food, Drug, and Cosmetic Act based on a determination by the Secretary of Defense under section 564(b)(1)(B) of such Act, subsections (a) through (f) of section 1107 shall not apply to the use of a product that is the subject of such authorization, within the scope of such authorization and while such authorization is effective.
+Applicability of Other Provisions.—In the case of an authorization by the Secretary ofHealth and Human Services under section 564(a)(1) of the Federal Food, Drug, and Cosmetic Act based on a determination by the Secretary of Defense under section 564(b)(1)(B) of such Act, subsections (a) through (f) of section 1107 shall not apply to the use of a product that is the subject of such authorization, within the scope of such authorization and while such authorization is effective.
 
-(Added Pub. L. 108–136, div. A, title XVI, §1603(b)(1), Nov. 24, 2003, 117 Stat. 1689.)
+(Added Pub. L. 108–136, div. A, title XVI, §1603(b)(1), Nov. 24, 2003, 117 Stat. 1689; amended Pub. L. 108–375, div. A, title VII, §726(b), Oct. 28, 2004, 118 Stat. 1992.)
 
 #### References in Text
 
 Section 564 of the Federal Food, Drug, and Cosmetic Act, referred to in text, is classified to section 360bbb–3 of Title 21, Food and Drugs.
 
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375, §726(b)(1), which directed insertion of “(A)” after “
+
+President.—(1)”, was executed by making the insertion after “
+
+President.—” to reflect the probable intent of Congress.
+
+Subsec. (a)(A). Pub. L. 108–375, §726(b)(2), struck out “is not feasible, is contrary to the best interests of the members affected, or” after “such requirement”.
+
+Subsec. (a)(B). Pub. L. 108–375, §726(b)(3), added subpar. (B).
+
 #### Termination Date
 
-Pub. L. 108–136, div. A, title XVI, §1603(d), Nov. 24, 2003, 117 Stat. 1690, provided that: “This section \[enacting this section and section 360bbb–3 of Title 21, Food and Drugs, and amending section 331 of Title 21\] shall not be in effect (and the law shall read as if this section were never enacted) as of the date on which, following enactment of the Project Bioshield Act of 2003, the President submits to Congress a notification that the Project Bioshield Act of 2003 provides an effective emergency use authority with respect to members of the Armed Forces.” \[A Project Bioshield Act of 2003 has not been enacted.\]
+Pub. L. 108–136, div. A, title XVI, §1603(d), Nov. 24, 2003, 117 Stat. 1690, which provided that section 1603 of Pub. L. 108–136 (enacting this section and section 360bbb–3 of Title 21, Food and Drugs, and amending section 331 of Title 21) would not be in effect (and the law was to read as if that section had never been enacted) as of the date on which, following enactment of the Project Bioshield Act of 2003, the President submits to Congress a notification that the Project Bioshield Act of 2003 provides an effective emergency use authority with respect to members of the Armed Forces, was repealed by Pub. L. 108–276, §4(b), July 21, 2004, 118 Stat. 859. \[The Project Bioshield Act of 2003 was not enacted.\]
 

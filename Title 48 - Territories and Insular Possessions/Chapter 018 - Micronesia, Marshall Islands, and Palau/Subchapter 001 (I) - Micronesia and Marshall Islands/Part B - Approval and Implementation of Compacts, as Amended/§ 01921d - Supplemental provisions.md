@@ -54,7 +54,7 @@ Joint economic management and financial accountability committee.—
 
 &emsp;&emsp;(i)
 
-In general.—The three United States appointees (United States chair plus twomembers) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
+In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
 
 &emsp;&emsp;(ii)
 
@@ -86,7 +86,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (e) Noncompliance sanctions; actions incompatible with United States authority
 
-Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United Statesreserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
+Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
 
 #### (f) Continuing programs and laws
 
@@ -218,7 +218,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (1) In general
 
-&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the Trust Fund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
+&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the TrustFund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
 
 #### (2) Method of establishment
 
@@ -246,7 +246,7 @@ Section 3927 of title 22, referred to in subsec. (b)(5), was in the original “
 
 Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, as amended, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
-The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239,Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 

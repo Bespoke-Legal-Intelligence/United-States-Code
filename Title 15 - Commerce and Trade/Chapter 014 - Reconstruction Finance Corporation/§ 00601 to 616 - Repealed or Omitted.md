@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 601, acts Jan. 22, 1932, ch. 8, §1, 47 Stat. 5; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202; May 25, 1948, ch. 334, §1, 62 Stat. 261; 1951 Reorg. Plan No. 1, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773, 774, created the Reconstruction Finance Corporation, which was abolished by section 6 of Reorg. Plan. No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. PlanNo. 1 of 1957 is set out preceding section 601 of this title.
+Section 601, acts Jan. 22, 1932, ch. 8, §1, 47 Stat. 5; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202; May 25, 1948, ch. 334, §1, 62 Stat. 261; 1951 Reorg. Plan No. 1, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773, 774, created the Reconstruction Finance Corporation, which was abolished by section 6 of Reorg. Plan. No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Sections 601a, 601b, acts Jan. 20, 1934, ch. 3, §1, 48 Stat. 318; Jan. 31, 1935, ch. 2, §1, 49 Stat. 1, which extended the life of the Corporation until Feb. 1, 1935, and Feb. 1, 1937, respectively, were repealed by act of June 30, 1947, ch. 166, title II, §206(i), (m), 61 Stat. 208.
 
@@ -32,7 +32,7 @@ Subsec. (e) related to the creation of regional agricultural credit corporations
 
 Section 605c, act July 21, 1932, ch. 520, §206, 47 Stat. 714, authorized loans to borrowers organized under laws of Alaska, District of Columbia, Hawaii and Puerto Rico. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
-Section 605d, act July 21, 1932, ch. 520, §207, 47 Stat. 715, prohibited loans to financial institutions whose officers or directors are also directors of Reconstruction Finance Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
+Section 605d, act July 21, 1932, ch. 520, §207, 47 Stat. 715, prohibited loans to financial institutions whose officers or directors are also directors of ReconstructionFinance Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
 Section 605e, acts June 10, 1933, ch. 55, §1, 48 Stat. 119; Jan. 31, 1935, ch. 2, §8, 49 Stat. 4, related to purchase of preferred stock of insurance companies. It was repealed by act of June 30, 1947, ch. 166, title II, §206(e), 61 Stat. 208.
 
@@ -46,7 +46,7 @@ Section 605j, act June 10, 1933, ch. 55, §14, 48 Stat. 122, reserved right to a
 
 Section 605k, acts Apr. 13, 1934, ch. 121, 48 Stat. 589; July 26, 1935, ch. 421, 49 Stat. 505; Apr. 17, 1936, ch. 234, §1, 49 Stat. 1232, authorized the Reconstruction Finance Corporation to make loans for repair of damage caused by floods and other catastrophes, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 646. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
-Section 605k–1, acts Feb. 11, 1937, ch. 10, 50 Stat. 19; May 28, 1937, ch. 275, 50 Stat. 211; Mar. 3, 1938, ch. 40, 52 Stat. 84; Mar. 4, 1939, ch. 4, 53 Stat. 510; June 10, 1941, ch. 190, §1, 55 Stat. 248, related to the creation and powers of the Disaster Loan Corporation and was rendered obsolete by Joint Res. June 30, 1945, ch. 215, §1, 59 Stat. 310, which dissolved the Corporation and transferred all powers, functions, duties, liabilities, etc., to the Reconstruction Finance Corporation. Section 2 of Joint Res. June 30, 1945, saved all pending court or other proceedings and provided that the Court could, upon motionfiled within one year after July 1, 1945, substitute the Reconstruction Finance Corporation for the Disaster Loan Corporation. Section 3 of Joint Res. June 30, 1945, provided that it should become effective July 1, 1945. It was repealed by act of June 30, 1947, ch. 166, title II, §206(r), 61 Stat. 209.
+Section 605k–1, acts Feb. 11, 1937, ch. 10, 50 Stat. 19; May 28, 1937, ch. 275, 50 Stat. 211; Mar. 3, 1938, ch. 40, 52 Stat. 84; Mar. 4, 1939, ch. 4, 53 Stat. 510; June 10, 1941, ch. 190, §1, 55 Stat. 248, related to the creation and powers of the Disaster Loan Corporation and was rendered obsolete by Joint Res. June 30, 1945, ch. 215, §1, 59 Stat. 310, which dissolved the Corporation and transferred all powers, functions, duties, liabilities, etc., to the Reconstruction Finance Corporation. Section 2 of Joint Res. June 30, 1945, saved all pending court or other proceedings and provided that the Court could, upon motion filed within one year after July 1, 1945, substitute the Reconstruction Finance Corporation for the Disaster Loan Corporation. Section 3 of Joint Res. June 30, 1945, provided that it should become effective July 1, 1945. It was repealed by act of June 30, 1947, ch. 166, title II, §206(r), 61 Stat. 209.
 
 Section 605<i>l</i>, act Jan. 31, 1935, ch. 2, §11, 49 Stat. 5, related to substitution of bonds or other evidence of indebtedness held by the Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
 
@@ -164,7 +164,7 @@ Sections 613a, 613b, acts Jan. 20, 1934, ch. 3, §1, 48 Stat. 318; Jan. 31, 1935
 
 Section 613c, acts Jan. 26, 1937, ch. 6, §1, 50 Stat. 5; Mar. 4, 1939, ch. 4, 53 Stat. 510; June 25, 1940, ch. 427, §6(a), 54 Stat. 574, further extended the time for liquidation of the Corporation and provided for suspension of lending authority by districts. Act Aug. 7, 1946, ch. 811, §1, 60 Stat. 901, which also amended act Jan. 26, 1937, was repealed by act June 30, 1947, ch. 166, title II, §206(q), (z), 61 Stat. 209.
 
-Section 614, acts Jan. 22, 1932, ch. 8, §14, 47 Stat. 10; June 25, 1940, ch. 427, §6(b), 54 Stat. 574, relating to completion of liquidation of the Corporation by Secretary of Treasury, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5. Act Aug. 7, 1946, ch. 811, §1, 60Stat. 901, which also amended section 14 of act Jan. 22, 1932, was repealed by section 206(z) of act June 30, 1947.
+Section 614, acts Jan. 22, 1932, ch. 8, §14, 47 Stat. 10; June 25, 1940, ch. 427, §6(b), 54 Stat. 574, relating to completion of liquidation of the Corporation by Secretary of Treasury, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5. Act Aug. 7, 1946, ch. 811, §1, 60 Stat. 901, which also amended section 14 of act Jan. 22, 1932, was repealed by section 206(z) of act June 30, 1947.
 
 Section 615, act Jan. 22, 1932, ch. 8, §15, 47 Stat. 11, relating to reports to Congress, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 

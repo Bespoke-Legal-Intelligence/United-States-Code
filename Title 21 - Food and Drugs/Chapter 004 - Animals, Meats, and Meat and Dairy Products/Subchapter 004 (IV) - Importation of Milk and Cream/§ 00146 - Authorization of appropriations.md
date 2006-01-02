@@ -10,5 +10,5 @@ There is authorized to be appropriated, out of any moneys in the Treasury not ot
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration to Federal Security Agency, see Transfer of Functions note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration to Federal Security Agency, see Transfer of Functions notes set out under section 321 of this title.
 

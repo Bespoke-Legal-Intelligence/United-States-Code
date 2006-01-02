@@ -1,6 +1,6 @@
 ### §3731. False claims procedure
 
-(a) A subpena requiring the attendance of a witness at a trial or hearing conducted under section 3730 of this title may be served at any place in the United States.
+(a) A subpena requiring the attendance of a witness at a trial or hearing conducted undersection 3730 of this title may be served at any place in the United States.
 
 (b) A civil action under section 3730 may not be brought—
 

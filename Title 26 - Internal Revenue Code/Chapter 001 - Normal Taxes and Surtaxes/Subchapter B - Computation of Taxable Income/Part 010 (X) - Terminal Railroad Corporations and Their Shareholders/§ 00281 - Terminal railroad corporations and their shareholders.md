@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) the portion of any charge which would be made by such corporation for related terminal services provided by it, but which is not made as a result of taking related terminal income into account in computing such charge; and
 
-&emsp;&emsp;(B) no deduction otherwise allowable under this chapter shall be disallowed as a result of any discharge of liability described in subparagraph (A)(i) or as a result of any computation of charges in the manner described in subparagraph (A)(ii).
+&emsp;&emsp;(B) no deduction otherwise allowable under this chapter shall be disallowed as aresult of any discharge of liability described in subparagraph (A)(i) or as a result of any computation of charges in the manner described in subparagraph (A)(ii).
 
 #### (2) Limitation
 

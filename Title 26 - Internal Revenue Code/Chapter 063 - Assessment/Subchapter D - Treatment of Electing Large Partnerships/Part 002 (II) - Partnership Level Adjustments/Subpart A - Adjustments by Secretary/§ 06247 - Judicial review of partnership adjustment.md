@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Within 90 days after the date on which a notice of a partnership adjustment is mailed to thepartnership with respect to any partnership taxable year, the partnership may file a petition for a readjustment of the partnership items for such taxable year with—
+Within 90 days after the date on which a notice of a partnership adjustment is mailed to the partnership with respect to any partnership taxable year, the partnership may file a petition for a readjustment of the partnership items for such taxable year with—
 
 &emsp;(1) the Tax Court,
 
@@ -33,8 +33,4 @@ Any determination by a court under this section shall have the force and effect 
 If an action brought under this section is dismissed other than by reason of a rescission under section 6245(b)(3), the decision of the court dismissing the action shall be considered as its decision that the notice of partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1014.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6245, 6246, 6248, 6252, 6255, 7459, 7482, 7485 of this title.
 

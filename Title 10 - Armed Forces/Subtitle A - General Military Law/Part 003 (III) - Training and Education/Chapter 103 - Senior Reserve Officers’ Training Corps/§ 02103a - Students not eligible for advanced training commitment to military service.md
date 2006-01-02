@@ -10,7 +10,7 @@ Authority.—A member of the program who has completed successfully the first ye
 
 (b)
 
-Eligibilty <sup>1</sup> Requirements.—A member of the program may enter into a contract andagreement under this section (and receive a subsistence allowance under section 209(c) of title 37) only if the person—
+Eligibilty <sup>1</sup> Requirements.—A member of the program may enter into a contract and agreement under this section (and receive a subsistence allowance under section 209(c) of title 37) only if the person—
 
 &emsp;(1) is a citizen of the United States;
 
@@ -22,19 +22,15 @@ Eligibilty <sup>1</sup> Requirements.—A member of the program may enter into 
 
 Parental Consent for Minors.—A member of the program who is a minor may enter into a contract under subsection (a)(1) only with the consent of the member's parent or guardian.
 
-(d)
+(Added Pub. L. 108–136, div. A, title V, §523(b)(1), Nov. 24, 2003, 117 Stat. 1464; amended Pub. L. 108–375, div. A, title V, §525, Oct. 28, 2004, 118 Stat. 1889.)
 
-Termination of Authority.—No contract may be entered into under subsection (a)(1) after December 31, 2006.
+#### Amendments
 
-(Added Pub. L. 108–136, div. A, title V, §523(b)(1), Nov. 24, 2003, 117 Stat. 1464.)
+2004—Subsec. (d). Pub. L. 108–375 struck out heading and text of subsec. (d). Text read as follows: “No contract may be entered into under subsection (a)(1) after December 31, 2006.”
 
 #### Effective Date
 
 Pub. L. 108–136, div. A, title V, §523(c), Nov. 24, 2003, 117 Stat. 1464, provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 209 of Title 37, Pay and Allowances of the Uniformed Services\] shall take effect on January 1, 2004.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 209.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “</i>
 

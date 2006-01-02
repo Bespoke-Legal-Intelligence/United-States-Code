@@ -4,7 +4,7 @@
 
 (1) The Board of Trustees of the Institute shall be composed of 13 voting members and 6 nonvoting members as follows:
 
-&emsp;(A) Subject to the provisions of subsection (i) of this section, the voting members shall be appointed by the President of the United States by and with the advice and consent of the Senate, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals,widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
+&emsp;(A) Subject to the provisions of subsection (i) of this section, the voting members shall be appointed by the President of the United States by and with the advice and consent of the Senate, not later than 180 days after October 17, 1986, from among individuals from private life who are Indians, or other individuals, widely recognized in the field of Indian art and culture and who represent diverse political views, and diverse fields of expertise, including finance, law, fine arts, and higher education administration.
 
 &emsp;(B) The nonvoting members shall consist of—
 

@@ -90,7 +90,7 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 #### Deposit of Fees for Processing of Violations Through Central Violations Bureau Cases
 
-Pub. L. 108–447, div. B, title III, §308, Dec. 8, 2004, 118 Stat. 2895, provided that: “For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited to the ‘Courts of Appeals, District Courts, and Other Judicial Services, Salaries and Expenses’ appropriation to be used for salaries and other expenses.”
+Pub. L. 108–447, div. B, title III, §308, Dec. 8, 2004, 118 Stat. 2895, as amended by Pub. L. 109–13, div. A, title VI, §6066, May 11, 2005, 119 Stat. 299, provided that: “For fiscal year 2005 and hereafter, such fees as shall be collected for the processing of violations through the Central Violations Bureau cases as prescribed by the Judicial Conference of the United States shall be deposited as offsetting receipts to the fund established under 28 U.S.C. 1931 and shall remain available to the Judiciary until expended to reimburse any appropriation for the amount paid out of such appropriation for expenses of the Courts of Appeals, District Courts, and Other Judicial Services and the Administrative Offices of the United States Courts.”
 
 #### Policies, Procedures, and Methodologies Used in Recommendation for Creation of Additional Federal Judgeships; Study by General Accounting Office and Report to Congress
 

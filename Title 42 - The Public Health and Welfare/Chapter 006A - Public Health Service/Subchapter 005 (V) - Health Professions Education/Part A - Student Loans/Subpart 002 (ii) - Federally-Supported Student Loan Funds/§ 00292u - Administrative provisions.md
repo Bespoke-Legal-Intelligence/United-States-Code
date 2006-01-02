@@ -1,6 +1,6 @@
 ### §292u. Administrative provisions
 
-The Secretary may agree to modifications of agreements or loans made under this subpart, and may compromise, waive, or release any right, title, claim, or demand of the United States arising or acquired under this subpart.
+The Secretary may agree to modifications of agreements or loans made under this subpart, and may compromise, waive, or release anyright, title, claim, or demand of the United States arising or acquired under this subpart.
 
 (July 1, 1944, ch. 373, title VII, §725, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2019.)
 

@@ -14,6 +14,8 @@
 
 1958—Pub. L. 85–861, §1(23), Sept. 2, 1958, 72 Stat. 1445, added items 1002, 1005, 1006, and 1007.
 
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+
 
 ---
 

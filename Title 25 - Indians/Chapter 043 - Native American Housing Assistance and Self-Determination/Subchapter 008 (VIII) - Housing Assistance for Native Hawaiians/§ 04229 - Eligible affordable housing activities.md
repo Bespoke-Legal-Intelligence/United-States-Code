@@ -78,5 +78,5 @@ The activities described in this subsection are the following:
 
 #### Codification
 
-Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 810 of Pub. L. 104–330. This section is based on the text of section 810 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
+Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 810 of Pub. L. 104–330. This section isbased on the text of section 810 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 

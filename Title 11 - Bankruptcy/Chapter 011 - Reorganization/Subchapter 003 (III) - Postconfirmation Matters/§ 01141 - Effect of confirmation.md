@@ -18,7 +18,7 @@
 
 &emsp;(B) terminates all rights and interests of equity security holders and general partners provided for by the plan.
 
-(2) The confirmation of a plan does not discharge an individual debtor from any debt excepted from discharge under section 523 of this title.
+(2) A discharge under this chapter does not discharge a debtor who is an individual from any debt excepted from discharge under section 523 of this title.
 
 (3) The confirmation of a plan does not discharge a debtor if—
 
@@ -30,7 +30,33 @@
 
 (4) The court may approve a written waiver of discharge executed by the debtor after the order for relief under this chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2638; Pub. L. 98–353, title III, §513, July 10, 1984, 98 Stat. 387.)
+(5) In a case in which the debtor is an individual—
+
+&emsp;(A) unless after notice and a hearing the court orders otherwise for cause, confirmation of the plan does not discharge any debt provided for in the plan until the court grants a discharge on completion of all payments under the plan;
+
+&emsp;(B) at any time after the confirmation of the plan, and after notice and a hearing, the court may grant a discharge to the debtor who has not completed payments under the plan if—
+
+&emsp;&emsp;(i) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 on such date; and
+
+&emsp;&emsp;(ii) modification of the plan under section 1127 is not practicable; and
+
+&emsp;(C) unless after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge, the court finds that there is no reasonable cause to believe that—
+
+&emsp;&emsp;(i) section 522(q)(1) may be applicable to the debtor; and
+
+&emsp;&emsp;(ii) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
+
+&emsp;(6) Notwithstanding paragraph (1), the confirmation of a plan does not discharge a debtor that is a corporation from any debt—
+
+&emsp;&emsp;(A) of a kind specified in paragraph (2)(A) or (2)(B) of section 523(a) that is owed to a domestic governmental unit, or owed to a person as the result of an action filed under subchapter III of chapter 37 of title 31 or any similar State statute; or
+
+&emsp;&emsp;(B) for a tax or customs duty with respect to which the debtor—
+
+&emsp;&emsp;&emsp;(i) made a fraudulent return; or
+
+&emsp;&emsp;&emsp;(ii) willfully attempted in any manner to evade or to defeat such tax or such customs duty.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2638; Pub. L. 98–353, title III, §513, July 10, 1984, 98 Stat. 387; Pub. L. 109–8, title III, §§321(d), 330(b), title VII, §708, Apr. 20, 2005, 119 Stat. 95, 101, 126.)
 
 #### Historical and Revision Notes
 
@@ -58,9 +84,21 @@ Paragraph (2) \[of subsec. (d)\] makes applicable to an individual debtor the ge
 
 #### Amendments
 
+2005—Subsec. (d)(2). Pub. L. 109–8, §321(d)(1), substituted “A discharge under this chapter does not discharge a debtor who is an individual” for “The confirmation of a plan does not discharge an individual debtor”.
+
+Subsec. (d)(5). Pub. L. 109–8, §321(d)(2), added par. (5).
+
+Subsec. (d)(5)(C). Pub. L. 109–8, §330(b), added subpar. (C).
+
+Subsec. (d)(6). Pub. L. 109–8, §708, added par. (6).
+
 1984—Subsec. (a). Pub. L. 98–353, §513(a), substituted “any creditor, equity security holder, or general partner in” for “any creditor or equity security holder of, or general partner in,”.
 
 Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan.”
+
+#### Effective Date of 2005 Amendment
+
+Amendments by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 321(d) and 708 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

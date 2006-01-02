@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a “from” line (the line identifying or purporting to identify a person initiating the message) that accurately identifies any person who initiated the message shall not be considered materially false or materially misleading; and
 
-&emsp;&emsp;(C) header information shall be considered materially misleading if it fails to identify accurately a protected computer used to initiate the message because the person initiating the message knowingly uses another protected computer to relay or retransmit the message for purposes of disguising its origin.
+&emsp;&emsp;(C) header information shall be considered materially misleading if it fails to identifyaccurately a protected computer used to initiate the message because the person initiating the message knowingly uses another protected computer to relay or retransmit the message for purposes of disguising its origin.
 
 #### (2) Prohibition of deceptive subject headings
 
@@ -66,7 +66,7 @@
 
 #### (6) Materially
 
-&emsp;For purposes of paragraph (1), the term “materially”, when used with respect to false or misleading header information, includes the alteration or concealment of header information in a manner that would impair the ability of an Internet access service processing the message on behalf of a recipient, a person alleging a violation of this section, or a law enforcement agency to identify, locate, or respond to a person who initiated the electronic mail message or to investigate the alleged violation, or the ability of a recipient of the message to respond to a person who initiated the electronic message.
+&emsp;For purposes of paragraph (1), the term “materially”, when used with respect to false or misleading header information, includes the alteration or concealment of header information in a manner that would impair the abilityof an Internet access service processing the message on behalf of a recipient, a person alleging a violation of this section, or a law enforcement agency to identify, locate, or respond to a person who initiated the electronic mail message or to investigate the alleged violation, or the ability of a recipient of the message to respond to a person who initiated the electronic message.
 
 #### (b) Aggravated violations relating to commercial electronic mail
 
@@ -132,7 +132,7 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 #### (4) Definition
 
-&emsp;In this subsection, the term “sexually oriented material” means any material that depicts sexually explicit conduct (as that term is defined in section 2256 of title 18), unless the depiction constitutes a small and insignificant part of the whole, the remainder of which is not primarily devoted to sexual matters.
+&emsp;In this subsection, the term “sexually oriented material” means any material that depicts sexually explicit conduct (as that term is defined in section 2256 of title 18), unless the depiction constitutes a small and insignificantpart of the whole, the remainder of which is not primarily devoted to sexual matters.
 
 #### (5) Penalty
 

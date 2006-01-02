@@ -18,7 +18,7 @@ In carrying out the evaluations under subsection (a) of this section, the Secret
 
 &emsp;(2) the characteristics of the students participating in the programs; and
 
-&emsp;(3) the effect of the programs on the academic achievement of students participating in the programs, particularly students who move from schools identified under section 6316 of this title to schools not so identified, and on the overall quality of participating schools and districts.
+&emsp;(3) the effect of the programs on the academic achievement of students participatingin the programs, particularly students who move from schools identified under section 6316 of this title to schools not so identified, and on the overall quality of participating schools and districts.
 
 (Pub. L. 89–10, title V, §5246, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1805.)
 

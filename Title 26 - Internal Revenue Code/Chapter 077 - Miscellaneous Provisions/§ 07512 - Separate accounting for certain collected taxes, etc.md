@@ -48,7 +48,3 @@ Section 4 of Pub. L. 85–321, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 &emsp;“(2) in the case of taxes imposed by chapter 33 of such Code, only with respect to taxes so imposed after the date of the enactment of this Act \[Feb. 11, 1958\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7215 of this title.
-

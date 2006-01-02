@@ -32,7 +32,7 @@ Priority in carrying out this section shall be given to the activities described
 
 #### (2) “Security assistance funds” defined
 
-&emsp;As used in paragraph (1), the term “security assistance funds” means funds made available for assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund) or assistance under section 2763 of this title (relating to the “Foreign Military Financing Program”).
+&emsp;As used in paragraph (1), the term “security assistance funds” means funds made available for assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund) or assistance under section 2763 of thistitle (relating to the “Foreign Military Financing Program”).
 
 #### (3) Exemption from certain restrictions
 

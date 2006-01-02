@@ -34,7 +34,7 @@
 
 #### (ii) For those not receiving distant analog signals
 
-&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive the distant analog signal of a network station solely by reason of section 119(e) of title 17 and who did not receive a distant analogsignal of a station affiliated with the same network on October 1, 2004, the carrier may not provide the secondary transmissions of the distant analog signal of a station affiliated with the same network to that subscriber.
+&emsp;&emsp;&emsp;In the case of any subscriber of a satellite carrier who is eligible to receive the distant analog signal of a network station solely by reason of section 119(e) of title 17 and who did not receive a distant analog signal of a station affiliated with the same network on October 1, 2004, the carrier may not provide the secondary transmissions of the distant analog signal of a station affiliated with the same network to that subscriber.
 
 #### (B) Rules for other subscribers to analog signals
 
@@ -72,7 +72,7 @@
 
 #### (ii) Pre-enactment distant digital signal subscribers
 
-&emsp;&emsp;&emsp;Any eligible subscriber under this subparagraph who is a lawful subscriber to such a distant digital signal as of the date of enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 \[December 8, 2004\] may continue to receive such distant digital signal, whether or not such subscriber elects to subscribe to local digital signals.
+&emsp;&emsp;&emsp;Any eligible subscriber under this subparagraph who is a lawful subscriber tosuch a distant digital signal as of the date of enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 \[December 8, 2004\] may continue to receive such distant digital signal, whether or not such subscriber elects to subscribe to local digital signals.
 
 #### (iii) Local-to-local analog markets
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in any local market, the retransmission of the distant digital signal of the distant station occupies at least the equivalent bandwidth (as such term is defined by the Commission under section 340(h)(4) of this title) as the digital signal broadcast by such station; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the subscriber subscribes to the analog signal of such local network station within 60 days after such signal is made available by the satellite carrier, and adds to or replaces such analog signal with the digital signal from such local network station within 60 days after such signal is made available by the satellite carrier, except that suchdistant digital signal may continue to be provided to a subscriber who cannot be reached by the satellite transmission of the local digital signal.
+&emsp;&emsp;&emsp;&emsp;(III) the subscriber subscribes to the analog signal of such local network station within 60 days after such signal is made available by the satellite carrier, and adds to or replaces such analog signal with the digital signal from such local network station within 60 days after such signal is made available by the satellite carrier, except that such distant digital signal may continue to be provided to a subscriber who cannot be reached by the satellite transmission of the local digital signal.
 
 #### (iv) Local-to-local digital markets
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) the station's signal is determined to not exceed such signal intensity standard, the costs of the test shall be borne by the licensee.
 
-&emsp;&emsp;&emsp;&emsp;(ee) If the satellite carrier does not request the test, or fails to respond within 30 days, the subscriber may request the test be conducted under the supervision of the carrier, and the costs of the test shall be borne by the subscriber in accordance with regulations prescribed by the Commission. Such regulations shall also require the carrier to notify the subscriber of the typical costs of such test.
+&emsp;&emsp;&emsp;&emsp;(ee) If the satellite carrier does not request the test, or fails to respond within30 days, the subscriber may request the test be conducted under the supervision of the carrier, and the costs of the test shall be borne by the subscriber in accordance with regulations prescribed by the Commission. Such regulations shall also require the carrier to notify the subscriber of the typical costs of such test.
 
 #### (vii) Trigger events for use of testing
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) July 15, 2007, for any other local network stations, other than translator stations licensed to broadcast on December 8, 2004; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a translator station, 1 year after the date on which the Commission completes all actions necessaryfor the allocation and assignment of digital television licenses to television translator stations.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a translator station, 1 year after the date on which the Commission completes all actions necessary for the allocation and assignment of digital television licenses to television translator stations.
 
 #### (viii) Testing waivers
 
@@ -174,7 +174,7 @@
 
 #### (F) Notices to networks of distant signal subscribers
 
-&emsp;&emsp;(i) Within 60 days after December 8, 2004, each satellite carrier that provides a distant signal of a network station to a subscriber pursuant to subparagraph (A) or (B)(i) of this paragraph shall submit to each network—
+&emsp;&emsp;(i) Within 60 days after December 8, 2004, each satellite carrier that provides a distant signal of a network station to a subscriberpursuant to subparagraph (A) or (B)(i) of this paragraph shall submit to each network—
 
 &emsp;&emsp;&emsp;(I) a list, aggregated by designated market area, identifying each subscriber provided such a signal by—
 
@@ -200,7 +200,7 @@
 
 #### (G) Other provisions not affected
 
-&emsp;&emsp;This paragraph shall not affect the eligibility of a subscriber to receive secondarytransmissions under section 340 of this title or as an unserved household included under section 119(a)(12) of title 17.
+&emsp;&emsp;This paragraph shall not affect the eligibility of a subscriber to receive secondary transmissions under section 340 of this title or as an unserved household included under section 119(a)(12) of title 17.
 
 #### (H) Available defined
 
@@ -244,7 +244,7 @@
 
 &emsp;&emsp;&emsp;(iv) to develop a predictive methodology for determining whether a household is unserved by an adequate digital signal under section 119(d)(10) of title 17;
 
-&emsp;&emsp;&emsp;(v) there is a wide variation in the ability of reasonably priced consumer digital television sets to receive over-the-air signals, such that at a given signal strength some may be able to display high-quality pictures while others cannot, whether such variation is related to the price of the television set, and whether such variation should be factored into setting a standard for determining whether a household is unserved by an adequate digital signal; and
+&emsp;&emsp;&emsp;(v) there is a wide variation in the ability of reasonably priced consumer digitaltelevision sets to receive over-the-air signals, such that at a given signal strength some may be able to display high-quality pictures while others cannot, whether such variation is related to the price of the television set, and whether such variation should be factored into setting a standard for determining whether a household is unserved by an adequate digital signal; and
 
 &emsp;&emsp;&emsp;(vi) to account for factors such as building loss, external interference sources, or undesired signals from both digital television and analog television stations using either the same or adjacent channels in nearby markets, foliage, and man-made clutter.
 
@@ -258,7 +258,7 @@
 
 #### (2) Waivers
 
-&emsp;A subscriber who is denied the retransmission of a signal of a network station under section 119 of title 17 may request a waiver from such denial by submitting a request, through such subscriber's satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber's request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) of title 17, if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-dayperiod after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
+&emsp;A subscriber who is denied the retransmission of a signal of a network station under section 119 of title 17 may request a waiver from such denial by submitting a request, through such subscriber's satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber's request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) of title 17, if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber's request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
 
 #### (3) Establishment of improved predictive model required
 
@@ -284,7 +284,7 @@
 
 #### (E) Exception
 
-&emsp;&emsp;A satellite carrier may refuse to engage in the testing process. If the carrier does so refuse, a subscriber in a local market in which the satellite carrier does not offer the signals of local broadcast stations under section 338 of this title may, at his or her own expense, authorize a signal intensity test to be performed pursuant to the procedures specified by the Commission in section 73.686(d) of title 47, Code of Federal Regulations, by a tester who is approved by the satellite carrier and by each affected network station, or who has been previously approved by the satellite carrier and by each affected network station but not previously disapproved. A tester may not be so disapproved for a test after the tester has commenced such test. The tester shall give 5 business days advance written notice to the satellite carrier and to the affected network station or stations. A signal intensity test conducted in accordance with this subparagraph shall be determinative of the signal strength received at that household for purposes of determining whether the household is capable of receiving a Grade B intensity signal.
+&emsp;&emsp;A satellite carrier may refuse to engage in the testing process. If the carrier does so refuse, a subscriber in a local market in which the satellite carrier does not offer the signals of local broadcast stations under section 338 of this title may, at his or her ownexpense, authorize a signal intensity test to be performed pursuant to the procedures specified by the Commission in section 73.686(d) of title 47, Code of Federal Regulations, by a tester who is approved by the satellite carrier and by each affected network station, or who has been previously approved by the satellite carrier and by each affected network station but not previously disapproved. A tester may not be so disapproved for a test after the tester has commenced such test. The tester shall give 5 business days advance written notice to the satellite carrier and to the affected network station or stations. A signal intensity test conducted in accordance with this subparagraph shall be determinative of the signal strength received at that household for purposes of determining whether the household is capable of receiving a Grade B intensity signal.
 
 #### (5) Definition
 

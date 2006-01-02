@@ -70,7 +70,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (A) General authority
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a request submitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may waive for a State, or a local area in a State, pursuant to a requestsubmitted by the Governor of the State (in consultation with appropriate local elected officials) that meets the requirements of subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) any of the statutory or regulatory requirements of subchapter II of this chapter or this subchapter (except for requirements relating to wage and labor standards, including nondisplacement protections, worker rights, participation and protection of workers and participants, grievance procedures and judicial review, nondiscrimination, allocation of funds to local areas, eligibility of providers or participants, the establishment and functions of local areas and local boards, and procedures for review and approval of plans); and
 
@@ -78,7 +78,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (B) Requests
 
-&emsp;&emsp;A Governor requesting a waiver under subparagraph (A) shall submit a plan to theSecretary to improve the statewide workforce investment system that—
+&emsp;&emsp;A Governor requesting a waiver under subparagraph (A) shall submit a plan to the Secretary to improve the statewide workforce investment system that—
 
 &emsp;&emsp;&emsp;(i) identifies the statutory or regulatory requirements that are requested to be waived and the goals that the State or local area in the State, as appropriate, intends to achieve as a result of the waiver;
 

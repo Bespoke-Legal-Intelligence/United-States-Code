@@ -4,7 +4,3 @@ An affiliated group of corporations shall, subject to the provisions of this cha
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 367.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 172, 542, 818, 832, 963, 1092, 7701 of this title.
-

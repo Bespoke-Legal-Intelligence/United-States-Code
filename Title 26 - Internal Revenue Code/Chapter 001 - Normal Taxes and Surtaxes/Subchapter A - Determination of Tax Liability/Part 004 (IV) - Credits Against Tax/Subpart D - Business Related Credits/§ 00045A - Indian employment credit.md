@@ -60,11 +60,11 @@ For purposes of this section—
 
 #### (3) Inflation adjustment
 
-&emsp;The Secretary shall adjust the $30,000 amount under paragraph (2) for years beginning after 1994 at the same time and in the same manner as under section 415(d).
+&emsp;The Secretary shall adjust the $30,000 amount under paragraph (2) for years beginning after 1994 at the same time and in the same manner as under section 415(d), except that the base period taken into account for purposes of such adjustment shall be the calendar quarter beginning October 1, 1993.
 
 #### (4) Employment must be trade or business employment
 
-&emsp;An employee shall be treated as a qualified employee for any taxable year of the employer only if more than 50 percent of the wages paid or incurred by the employer to such employee during such taxable year are for services performed in a trade or business of the employer. Any determination as to whether the preceding sentence applies with respect to any employee for any taxable year shall be made without regard to subsection (e)(2).
+&emsp;An employee shall be treated as a qualified employee for any taxable year of the employeronly if more than 50 percent of the wages paid or incurred by the employer to such employee during such taxable year are for services performed in a trade or business of the employer. Any determination as to whether the preceding sentence applies with respect to any employee for any taxable year shall be made without regard to subsection (e)(2).
 
 #### (5) Certain employees not eligible
 
@@ -150,13 +150,13 @@ For purposes of this section—
 
 #### (5) Special rule for short taxable years
 
-&emsp;For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
+&emsp;For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of daysin the taxable year and the denominator of which is 365.
 
 #### (f) Termination
 
-This section shall not apply to taxable years beginning after December 31, 2004.
+This section shall not apply to taxable years beginning after December 31, 2005.
 
-(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61.)
+(Added Pub. L. 103–66, title XIII, §13322(b), Aug. 10, 1993, 107 Stat. 559; amended Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6023(1), July 22, 1998, 112 Stat. 824; Pub. L. 107–147, title VI, §613(a), Mar. 9, 2002, 116 Stat. 61; Pub. L. 108–311, title III, §315, title IV, §404(b)(1), Oct. 4, 2004, 118 Stat. 1181, 1188.)
 
 #### References in Text
 
@@ -166,11 +166,19 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(4), is t
 
 #### Amendments
 
+2004—Subsec. (c)(3). Pub. L. 108–311, §404(b)(1), inserted “, except that the base period taken into account for purposes of such adjustment shall be the calendar quarter beginning October 1, 1993” before period at end.
+
+Subsec. (f). Pub. L. 108–311, §315, substituted “December 31, 2005” for “December 31, 2004”.
+
 2002—Subsec. (f). Pub. L. 107–147 substituted “December 31, 2004” for “December 31, 2003”.
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–206 substituted “work opportunity credit” for “targeted jobs credit” in heading.
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, could not be executed because the words “targeted jobs credit” did not appear in the text.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title IV, §404(f), Oct. 4, 2004, 118 Stat. 1188, provided that: “The amendments made by this section \[amending this section and sections 403, 408, 415, 530, and 4972 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
 
 #### Effective Date of 1996 Amendment
 
@@ -179,8 +187,4 @@ Amendment by Pub. L. 104–188 applicable to individuals who begin work for the 
 #### Effective Date
 
 Section applicable to wages paid or incurred after Dec. 31, 1993, see section 13322(f) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 38 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 39, 196, 280C of this title.
 

@@ -16,7 +16,7 @@
 
 &emsp;(6) develop and recommend to the President and Congress transportation policies and programs to achieve transportation objectives considering the needs of the public, users, carriers, industry, labor, and national defense.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 102–240, title VI, §6018, Dec. 18, 1991, 105 Stat. 2183.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 102–240, title VI, §6018, Dec. 18, 1991, 105 Stat. 2183.)
 
 Historical and Revision Notes
 

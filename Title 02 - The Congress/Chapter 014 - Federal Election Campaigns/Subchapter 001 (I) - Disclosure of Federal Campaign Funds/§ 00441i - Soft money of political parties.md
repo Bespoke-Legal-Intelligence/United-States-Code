@@ -92,7 +92,7 @@ A national, State, district, or local committee of a political party (including 
 
 #### (A) General solicitations
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, an individual described inparagraph (1) may make a general solicitation of funds on behalf of any organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title (or has submitted an application for determination of tax exempt status under such section) (other than an entity whose principal purpose is to conduct activities described in clauses (i) and (ii) of section 431(20)(A) of this title) where such solicitation does not specify how the funds will or should be spent.
+&emsp;&emsp;Notwithstanding any other provision of this subsection, an individual described in paragraph (1) may make a general solicitation of funds on behalf of any organization that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title (or has submitted an application for determination of tax exempt status under such section) (other than an entity whose principal purpose is to conduct activities described in clauses (i) and (ii) of section 431(20)(A) of this title) where such solicitation does not specify how the funds will or should be spent.
 
 #### (B) Certain specific solicitations
 

@@ -14,7 +14,7 @@ Where a contracting agency fails to settle by agreement any claim asserted under
 
 #### (d) Formalization of obligations; termination date for filing claims
 
-The Administrator of General Services shall require each contracting agency to formalize all such obligations and commitments within such period as the Administrator of General Services deems appropriate. No person shall be entitled to recover compensation, to receive a settlement of any alleged obligation, or to obtain the benefit of any amendment, confirmation, ratification, or formalization of any alleged contract or commitment under the provisions of subsections (a), (b), (c), or (d) of this section, unless such person shall, on or before one hundred and eighty days after June 28, 1954, have filed a claim therefor with the contracting agency.
+The Administrator of General Services shall require each contracting agency to formalize all such obligations and commitments within such period as the Administrator of General Services deems appropriate. No person shall be entitled to recover compensation, to receive a settlement of any alleged obligation, or to obtain the benefit of any amendment, confirmation, ratification, or formalization of any alleged contract or commitment under the provisions of subsections (a), (b), (c), or (d) of this section, unlesssuch person shall, on or before one hundred and eighty days after June 28, 1954, have filed a claim therefor with the contracting agency.
 
 (July 1, 1944, ch. 358, §17, 58 Stat. 665; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan. No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380; June 28, 1954, ch. 403, §1, 68 Stat. 300.)
 
@@ -34,5 +34,5 @@ Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 
 
 #### Nonaccrual of Liability
 
-Section 2 of act June 28, 1954, provided that no liability should accrue by reason of the enactment of section1 of that act \[amending this section\] which would not otherwise have accrued.
+Section 2 of act June 28, 1954, provided that no liability should accrue by reason of the enactment of section 1 of that act \[amending this section\] which would not otherwise have accrued.
 

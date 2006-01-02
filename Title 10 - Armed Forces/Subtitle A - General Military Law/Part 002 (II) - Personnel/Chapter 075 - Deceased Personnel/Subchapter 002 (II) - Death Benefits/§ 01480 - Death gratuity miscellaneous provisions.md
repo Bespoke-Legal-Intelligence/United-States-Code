@@ -64,7 +64,3 @@ In subsection (b), the words “last period \* \* \* that he performed” are 
 
 Subsec. (c). Pub. L. 101–189, §1621(a)(2), (5), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” after “section 1476 of this title, the” and “the Secretary concerned or the Secretary of Veterans Affairs” for “the Secretary or the Administrator”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1475, 1476 of this title.
-

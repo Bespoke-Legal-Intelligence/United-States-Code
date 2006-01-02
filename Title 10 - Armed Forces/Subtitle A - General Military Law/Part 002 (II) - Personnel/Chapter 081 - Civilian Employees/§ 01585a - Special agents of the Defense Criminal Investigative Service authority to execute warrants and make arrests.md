@@ -26,7 +26,3 @@ DCIS Special Agent Defined.—In this section, the term “DCIS special agent”
 
 (Added Pub. L. 105–85, div. A, title X, §1071(a), Nov. 18, 1997, 111 Stat. 1897.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4027, 7480, 9027 of this title.
-

@@ -20,7 +20,7 @@
 
 &emsp;(9) innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
 
-&emsp;(10) evaluation of the performance and reliability of solar heating and combined solarheating and cooling technologies can be expedited by testing under carefully controlled conditions; and
+&emsp;(10) evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
 
 &emsp;(11) commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.
 
@@ -36,5 +36,5 @@ Pub. L. 95–590, §1, Nov. 4, 1978, 92 Stat. 2513, provided: “That this Act \
 
 Section 1 of Pub. L. 93–409 provided: “That this Act \[enacting this subchapter and amending section 2473 of this title\] may be cited as the ‘Solar Heating and Cooling Demonstration Act of 1974’.”
 
-Pub. L. 93–473, §1, Oct. 26, 1974, 88 Stat. 1431, provided: “That this Act \[enacting subchapter II of this chapter\] may be cited as the ‘Solar Energy Research, Development, and Demonstration Act of 1974’.”
+Pub. L. 93–473, §1, Oct. 26, 1974, 88 Stat. 1431, provided: “That this Act \[enacting subchapter II of this chapter\]may be cited as the ‘Solar Energy Research, Development, and Demonstration Act of 1974’.”
 

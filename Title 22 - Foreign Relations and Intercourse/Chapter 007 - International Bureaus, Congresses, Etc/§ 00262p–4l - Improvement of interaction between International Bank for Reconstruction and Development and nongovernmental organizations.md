@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 The mechanisms described in subsection (a) of this section shall include, at a minimum, the following measures:
 
-&emsp;(1) An instruction to the management of the bank to undertake efforts to appropriately train and significantly increase the number of bank professional staff (based in Washington, District of Columbia, as of November 5, 1990) assigned, on a rotating basis, to field offices of the bank in borrower countries.
+&emsp;(1) An instruction to the management of the bank to undertake efforts to appropriately train and significantly increase the number of bank professional staff (based in Washington,District of Columbia, as of November 5, 1990) assigned, on a rotating basis, to field offices of the bank in borrower countries.
 
 &emsp;(2) The assignment to at least 1 professional in each field office of the bank in a borrower country of responsibility for relations with local nongovernmental organizations, and for the preparation and submission to appropriate staff of the bank of a report on the impact of project loans to be made by the bank to the country, based on views solicited from local people who will be affected by such loans, which shall be included as part of the project appraisal report.
 

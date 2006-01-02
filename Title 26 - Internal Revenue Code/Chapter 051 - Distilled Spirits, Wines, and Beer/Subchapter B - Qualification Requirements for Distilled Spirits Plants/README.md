@@ -24,17 +24,13 @@
 
 #### Prior Provisions
 
-A prior subchapter B, Distilleries, consisted of part I, Establishment, part II, Operation, and part III, GeneralProvisions Relating to Distilleries and Distilled Spirits, and consisted of sections 5171 to 5180, 5191 to 5197, and 5211 to 5217, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter B, Distilleries, consisted of part I, Establishment, part II, Operation, and part III, General Provisions Relating to Distilleries and Distilled Spirits, and consisted of sections 5171 to 5180, 5191 to 5197, and 5211 to 5217, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
 
 #### Amendments
 
 1980—Pub. L. 96–223, title II, §232(e)(2)(F), Apr. 2, 1980, 94 Stat. 280, added item 5181 and redesignated former item 5181 as 5182.
 
 1979—Pub. L. 96–39, title VIII, §807(b)(4), July 26, 1979, 93 Stat. 290, substituted “Bonds” for “Qualification bonds” in item 5173, struck out item 5174 “Withdrawal bonds”, and substituted “Distilled spirits plants” for “Premises of distilled spirits plants” in item 5178.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5002, 5601 of this title.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

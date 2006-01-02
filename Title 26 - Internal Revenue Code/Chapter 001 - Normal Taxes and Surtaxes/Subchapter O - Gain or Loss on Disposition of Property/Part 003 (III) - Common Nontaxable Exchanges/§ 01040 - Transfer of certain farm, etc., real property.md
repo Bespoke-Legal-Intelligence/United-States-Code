@@ -86,7 +86,3 @@ Amendment by Pub. L. 95–600 applicable to estates of decedents dying after Dec
 
 Section applicable in respect of decedents dying after Dec. 31, 1976, see section 2005(f)(1) of Pub. L. 94–455, set out as a note under section 1015 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1223 of this title.
-

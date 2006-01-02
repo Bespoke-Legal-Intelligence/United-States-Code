@@ -8,27 +8,53 @@
 
 &emsp;(3) the case was converted to a case under this chapter other than on the debtor's request.
 
-(b) Except as provided in subsection (c) of this section, on request of a party in interest or the United States trustee or bankruptcy administrator, and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate, for cause, including—
+(b)(1) Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause.
 
-&emsp;(1) continuing loss to or diminution of the estate and absence of a reasonable likelihood of rehabilitation;
+(2) The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—
 
-&emsp;(2) inability to effectuate a plan;
+&emsp;(A) there is a reasonable likelihood that a plan will be confirmed within the timeframes established in sections 1121(e) and 1129(e) of this title, or if such sections do not apply, within a reasonable period of time; and
 
-&emsp;(3) unreasonable delay by the debtor that is prejudicial to creditors;
+&emsp;(B) the grounds for granting such relief include an act or omission of the debtor other than under paragraph (4)(A)—
 
-&emsp;(4) failure to propose a plan under section 1121 of this title within any time fixed by the court;
+&emsp;&emsp;(i) for which there exists a reasonable justification for the act or omission; and
 
-&emsp;(5) denial of confirmation of every proposed plan and denial of a request made for additional time for filing another plan or a modification of a plan;
+&emsp;&emsp;(ii) that will be cured within a reasonable period of time fixed by the court.
 
-&emsp;(6) revocation of an order of confirmation under section 1144 of this title, and denial of confirmation of another plan or a modified plan under section 1129 of this title;
+(3) The court shall commence the hearing on a motion under this subsection not later than 30 days after filing of the motion, and shall decide the motion not later than 15 days after commencement of such hearing, unless the movant expressly consents to a continuance for a specific period of time or compelling circumstances prevent the court from meeting the time limits established by this paragraph.
 
-&emsp;(7) inability to effectuate substantial consummation of a confirmed plan;
+(4) For purposes of this subsection, the term “cause” includes—
 
-&emsp;(8) material default by the debtor with respect to a confirmed plan;
+&emsp;(A) substantial or continuing loss to or diminution of the estate and the absence of a reasonable likelihood of rehabilitation;
 
-&emsp;(9) termination of a plan by reason of the occurrence of a condition specified in the plan; or
+&emsp;(B) gross mismanagement of the estate;
 
-&emsp;(10) nonpayment of any fees or charges required under chapter 123 of title 28.
+&emsp;(C) failure to maintain appropriate insurance that poses a risk to the estate or to the public;
+
+&emsp;(D) unauthorized use of cash collateral substantially harmful to 1 or more creditors;
+
+&emsp;(E) failure to comply with an order of the court;
+
+&emsp;(F) unexcused failure to satisfy timely any filing or reporting requirement established by this title or by any rule applicable to a case under this chapter;
+
+&emsp;(G) failure to attend the meeting of creditors convened under section 341(a) or an examination ordered under rule 2004 of the Federal Rules of Bankruptcy Procedure without good cause shown by the debtor;
+
+&emsp;(H) failure timely to provide information or attend meetings reasonably requested by the United States trustee (or the bankruptcy administrator, if any);
+
+&emsp;(I) failure timely to pay taxes owed after the date of the order for relief or to file tax returns due after the date of the order for relief;
+
+&emsp;(J) failure to file a disclosure statement, or to file or confirm a plan, within the time fixed by this title or by order of the court;
+
+&emsp;(K) failure to pay any fees or charges required under chapter 123 of title 28;
+
+&emsp;(L) revocation of an order of confirmation under section 1144;
+
+&emsp;(M) inability to effectuate substantial consummation of a confirmed plan;
+
+&emsp;(N) material default by the debtor with respect to a confirmed plan;
+
+&emsp;(O) termination of a confirmed plan by reason of the occurrence of a condition specified in the plan; and
+
+&emsp;(P) failure of the debtor to pay any domestic support obligation that first becomes payable after the date of the filing of the petition.
 
 (c) The court may not convert a case under this chapter to a case under chapter 7 of this title if the debtor is a farmer or a corporation that is not a moneyed, business, or commercial corporation, unless the debtor requests such conversion.
 
@@ -40,11 +66,11 @@
 
 &emsp;(3) if the debtor requests conversion to chapter 12 of this title, such conversion is equitable.
 
-(e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521, including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewerthan twenty unsecured claims), and the approximate dollar amounts of each of such claims.
+(e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521, including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
 
 (f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c), Oct. 22, 1994, 108 Stat. 4127.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §442(a), Apr. 20, 2005, 119 Stat. 115.)
 
 #### Historical and Revision Notes
 
@@ -58,7 +84,7 @@ Sections 1112(c) and 1112(d) of the House amendment is derived from the House bi
 
 This section brings together all of the conversion and dismissal rules for chapter 11 cases. Subsection (a) gives the debtor an absolute right to convert a voluntarily commenced chapter 11 case in which the debtor remains in possession to a liquidation case.
 
-Subsection (b) gives wide discretion to the court to make an appropriate disposition of the case sua sponte or upon motion of a party in interest, or the court is permitted to convert a reorganization case to a liquidation case or to dismiss the case, whichever is in the best interest of creditors and the estate, but only for cause. Cause may include the continuing loss to or dimunition \[sic\] of the estate of an insolvent debtor, the absence of a reasonable likelihood of rehabilitation, the inability to effectuate a plan, unreasonable delay by the debtor that is prejudicial to creditors, failure to file a plan within the appropriate time limits, denial of confirmation and any opportunity to modify or propose a new plan, revocation of confirmation and denial of confirmation of a modified plan, inability to effectuate substantial consummation of a confirmed plan, material default by the debtor under the plan, and termination of the plan by reason of the occurrence of a condition specified in the plan. This list is not exhaustive. The court will be able to consider other factors as they arise, and to use its equitable powers to reach an appropriate result in individual cases. The power of the court to act sua sponte should be used sparingly and only in emergency situations.
+Subsection (b) gives wide discretion to the court to make an appropriate disposition of the case sua sponte or upon motion of a party in interest, or the court is permitted to convert a reorganization case to a liquidation case or to dismiss the case, whichever is in the best interest of creditors and the estate, but only for cause. Cause may include the continuing loss to or dimunition \[sic\] of the estate of an insolvent debtor, the absence of a reasonable likelihood of rehabilitation, the inability to effectuate a plan, unreasonable delay by the debtor that is prejudicial to creditors, failure to file a plan within the appropriate time limits, denial of confirmation and any opportunity to modify or propose a new plan, revocation of confirmation and denial ofconfirmation of a modified plan, inability to effectuate substantial consummation of a confirmed plan, material default by the debtor under the plan, and termination of the plan by reason of the occurrence of a condition specified in the plan. This list is not exhaustive. The court will be able to consider other factors as they arise, and to use its equitable powers to reach an appropriate result in individual cases. The power of the court to act sua sponte should be used sparingly and only in emergency situations.
 
 Subsection (c) prohibits the court from converting a case concerning a farmer or an eleemosynary institution to a liquidation case unless the debtor consents.
 
@@ -66,7 +92,13 @@ Subsection (d) prohibits conversion of a reorganization case to a chapter 13 cas
 
 Subsection (e) reinforces section 109 by prohibiting conversion of a chapter 11 case to a case under another chapter proceedings under which the debtor is not permitted to proceed.
 
+#### References in Text
+
+The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(G), are set out in the Appendix to this title.
+
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–8 added subsec. (b) and struck out former subsec. (b) which consisted of introductory provisions and pars. (1) to (10) relating to conversion of cases under this chapter to chapter 7 cases or dismissal for cause in the best interest of creditors and the estate.
 
 1994—Subsec. (b). Pub. L. 103–394 inserted “or bankruptcy administrator” after “United States trustee”.
 
@@ -85,6 +117,10 @@ Subsec. (a)(3). Pub. L. 98–353, §505(a)(2), substituted “other than on” f
 Subsec. (b)(5). Pub. L. 98–353, §505(b)(1), inserted “a request made for” before “additional”.
 
 Subsec. (b)(8). Pub. L. 98–353, §505(b)(2), substituted “or” for “and”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

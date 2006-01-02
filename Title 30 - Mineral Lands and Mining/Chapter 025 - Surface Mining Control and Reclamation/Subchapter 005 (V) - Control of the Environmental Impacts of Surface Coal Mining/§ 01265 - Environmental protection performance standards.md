@@ -2,7 +2,7 @@
 
 #### (a) Permit requirement
 
-Any permit issued under any approved State or Federal program pursuant to this chapter to conduct surface coal mining operations shall require that such surface coal mining operations will meet all applicable performance standards of this chapter, and such other requirements as the regulatory authority shall promulgate.
+Any permit issued under any approved State or Federal program pursuant to this chapter toconduct surface coal mining operations shall require that such surface coal mining operations will meet all applicable performance standards of this chapter, and such other requirements as the regulatory authority shall promulgate.
 
 #### (b) General standards
 
@@ -14,7 +14,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;(3) except as provided in subsection (c) of this section with respect to all surface coal mining operations backfill, compact (where advisable to insure stability or to prevent leaching of toxic materials), and grade in order to restore the approximate original contour of the land with all highwalls, spoil piles, and depressions eliminated (unless small depressions are needed in order to retain moisture to assist revegetation or as otherwise authorized pursuant to this chapter): <i>Provided, however</i>, That in surface coal mining which is carried out at the same location over a substantial period of time where the operation transects the coal deposit, and the thickness of the coal deposits relative to the volume of the overburden is large and where the operator demonstrates that the overburden and other spoil and waste materials at a particular point in the permit area or otherwise available from the entire permit area is insufficient, giving due consideration to volumetric expansion, to restore the approximate original contour, the operator, at a minimum, shall backfill, grade, and compact (where advisable) using all available overburden and other spoil and waste materials to attain the lowest practicable grade but not more than the angle of repose, to provide adequate drainage and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region: <i>And provided further</i>, That in surface coal mining where the volume of overburden is large relative to the thickness of the coal deposit and where the operator demonstrates that due to volumetric expansion the amount of overburden and other spoil and waste materials removed in the course of the mining operation is more than sufficient to restore the approximate original contour, the operator shall after restoring the approximate contour, backfill, grade, and compact (where advisable) the excess overburden and other spoil and waste materials to attain the lowest grade but not more than the angle of repose, and to cover all acid-forming and other toxic materials, in order to achieve an ecologically sound land use compatible with the surrounding region and that such overburden or spoil shall be shaped and graded in such a way as to prevent slides, erosion, and water pollution and is revegetated in accordance with the requirements of this chapter;
 
-&emsp;(4) stabilize and protect all surface areas including spoil piles affected by the surface coalmining and reclamation operation to effectively control erosion and attendant air and water pollution;
+&emsp;(4) stabilize and protect all surface areas including spoil piles affected by the surface coal mining and reclamation operation to effectively control erosion and attendant air and water pollution;
 
 &emsp;(5) remove the topsoil from the land in a separate layer, replace it on the backfill area, or if not utilized immediately, segregate it in a separate pile from other spoil and when the topsoil is not replaced on a backfill area within a time short enough to avoid deterioration of the topsoil, maintain a successful cover by quick growing plant or other means thereafter so that the topsoil is preserved from wind and water erosion, remains free of any contamination by other acid or toxic material, and is in a usable condition for sustaining vegetation when restored during reclamation, except if topsoil is of insufficient quantity or of poor quality for sustaining vegetation, or if other strata can be shown to be more suitable for vegetation requirements, then the operator shall remove, segregate, and preserve in a like manner such other strata which is best able to support vegetation;
 
@@ -94,7 +94,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(A) if the regulatory authority finds in writing that:
 
-&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasibleplans for the proposed underground mining operations;
+&emsp;&emsp;&emsp;(i) the applicant has presented, as part of the permit application, specific, feasible plans for the proposed underground mining operations;
 
 &emsp;&emsp;&emsp;(ii) the proposed underground mining operations are necessary or desirable to assure maximum practical recovery of the mineral resource and will avoid multiple disturbance of the surface;
 
@@ -112,7 +112,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(D) if liability under the bond filed by the applicant with the regulatory authority pursuant to section 1259(b) of this title shall be for the duration of the underground mining operations and until the requirements of this subsection and section 1269 of this title have been fully complied with.<sup>4</sup>
 
-&emsp;(17) insure that the construction, maintenance, and postmining conditions of access roads into and across the site of operations will control or prevent erosion and siltation, pollution of water, damage to fish or wildlife or their habitat, or public or private property;
+&emsp;(17) insure that the construction, maintenance, and postmining conditions of access roads into and across the site of operations will control or prevent erosion and siltation,pollution of water, damage to fish or wildlife or their habitat, or public or private property;
 
 &emsp;(18) refrain from the construction of roads or other access ways up a stream bed or drainage channel or in such proximity to such channel so as to seriously alter the normal flow of water;
 
@@ -134,7 +134,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(D) the disposal area does not contain springs, natural water courses or wet weather seeps unless lateral drains are constructed from the wet areas to the main underdrains in such a manner that filtration of the water into the spoil pile will be prevented;
 
-&emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed in compliance with all the requirements of this chapter, and shall be placed, where possible,upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
+&emsp;&emsp;(E) if placed on a slope, the spoil is placed upon the most moderate slope among those upon which, in the judgment of the regulatory authority, the spoil could be placed in compliance with all the requirements of this chapter, and shall be placed, where possible, upon, or above, a natural terrace, bench, or berm, if such placement provides additional stability and prevents mass movement;
 
 &emsp;&emsp;(F) where the toe of the spoil rests on a downslope, a rock toe buttress, of sufficient size to prevent mass movement, is constructed;
 
@@ -154,7 +154,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 (1) Each State program may and each Federal program shall include procedures pursuant to which the regulatory authority may permit surface mining operations for the purposes set forth in paragraph (3) of this subsection.
 
-(2) Where an applicant meets the requirements of paragraphs (3) and (4) of this subsection a permit without regard to the requirement to restore to approximate original contour set forth in subsection (b)(3) or (d)(2) and (3) of this section may be granted for the surface mining of coal where the mining operation will remove an entire coal seam or seams running through the upper fraction of a mountain, ridge, or hill (except as provided in subsection (c)(4)(A) hereof) by removing all of the overburden and creating a level plateau or a gently rolling contour with no highwalls remaining, and capable of supporting postmining uses in accord with the requirements of this subsection.
+(2) Where an applicant meets the requirements of paragraphs (3) and (4) of this subsection a permit without regard to the requirement to restore to approximate original contour set forthin subsection (b)(3) or (d)(2) and (3) of this section may be granted for the surface mining of coal where the mining operation will remove an entire coal seam or seams running through the upper fraction of a mountain, ridge, or hill (except as provided in subsection (c)(4)(A) hereof) by removing all of the overburden and creating a level plateau or a gently rolling contour with no highwalls remaining, and capable of supporting postmining uses in accord with the requirements of this subsection.
 
 (3) In cases where an industrial, commercial, agricultural, residential or public facility (including recreational facilities) use is proposed or <sup>8</sup> the postmining use of the affected land, the regulatory authority may grant a permit for a surface mining operation of the nature described in subsection (c)(2) of this section where—
 
@@ -238,7 +238,7 @@ The Secretary, with the written concurrence of the Chief of Engineers, shall est
 
 #### References in Text
 
-Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, knownas the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+Public Law 83–566, referred to in subsec. (b)(8)(B), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, known as the Watershed Protection and Flood Prevention Act, which is classified generally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
 #### Codification
 

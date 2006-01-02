@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Secretary of the units’ proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or foractivities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
+In General.—The Secretary shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Secretary of the units’ proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
 
 &emsp;(1) The Drug Abuse Resistance Education Program under section 5122 of the Elementary and Secondary Education Act of 1965.
 
@@ -68,7 +68,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
-&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction, including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authorityand functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
+&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction, including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
 
 &emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
 
@@ -106,7 +106,7 @@ Payment conditions.—The Secretary may make a payment to a unit of general loca
 
 &emsp;&emsp;(B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300.)
+(Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1861; amended Pub. L. 104–316, title I, §115(j), Oct. 19, 1996, 110 Stat. 3835; Pub.L. 105–277, div. A, §101(f) \[title VIII, §405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–424, 2681–432; Pub. L. 107–217, §3(h)(8), Aug. 21, 2002, 116 Stat. 1300.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ A prior section 6703, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1012; Pub. L. 9
 
 #### Amendments
 
-2002—Subsec. (d)(5). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended (40 U.S.C. 276a–276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended (40 U.S.C. 276c, 48 Stat. 948)”.
+2002—Subsec. (d)(5). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-BaconAct); as amended (40 U.S.C. 276a–276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 1, 1934 (commonly known as the Copeland Anti-Kickback Act), as amended (40 U.S.C. 276c, 48 Stat. 948)”.
 
 1998—Subsec. (a)(4). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(19)\], added par. (4) and struck out former par. (4) which read as follows: “Programs under title II or IV of the Job Training Partnership Act or under title I of the Workforce Investment Act of 1998.”
 

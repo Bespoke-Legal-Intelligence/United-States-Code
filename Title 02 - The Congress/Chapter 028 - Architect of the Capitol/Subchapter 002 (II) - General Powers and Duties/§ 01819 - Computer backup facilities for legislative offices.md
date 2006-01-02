@@ -12,17 +12,21 @@ The acquisition of a building or facility under subsection (a) of this section s
 
 &emsp;(2) the Committee on Rules and Administration of the Senate, in the case of a building or facility acquired for the use of an office of the Senate; or
 
-&emsp;(3) the House Office Building Commission in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (1) above, or the Committee on Rules and Administration of the Senate, in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (2) above.
+&emsp;(3) the House Office Building Commission in the case of a building or facility acquired for the use of any other office in the legislativebranch as part of a joint facility with (1) above, or the Committee on Rules and Administration of the Senate, in the case of a building or facility acquired for the use of any other office in the legislative branch as part of a joint facility with (2) above.
 
 #### (c) United States Capitol grounds provisions applicable
 
 Any building or facility acquired by the Architect of the Capitol pursuant to subsection (a) of this section shall be a part of the United States Capitol Grounds and shall be subject to the provisions of sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
 
-#### (d) Effective date
+#### (d) Lease of buildings and facilities
+
+In the case of a building or facility acquired through purchase pursuant to subsection (a) of this section, the Architect of the Capitol may enter into or assume a lease with another person for the use of any portion of the building or facility that the Architect of the Capitol determines is not required to be used to carry out the purposes of this section, subject to the approval of the entity which approved the acquisition of such building or facility under subsection (b) of this section.
+
+#### (e) Effective date
 
 This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
 
-(Pub. L. 107–206, title I, §905, Aug. 2, 2002, 116 Stat. 877.)
+(Pub. L. 107–206, title I, §905, Aug. 2, 2002, 116 Stat. 877; Pub. L. 109–55, title I, §1202(a), Aug. 2, 2005, 119 Stat. 579.)
 
 #### References in Text
 
@@ -31,4 +35,12 @@ Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 510
 #### Codification
 
 Section was classified to section 166k of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Amendments
+
+2005—Subsecs. (d), (e). Pub. L. 109–55 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–55, title I, §1202(b), Aug. 2, 2005, 119 Stat. 579, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to leases entered into on or after the date of the enactment of this Act \[Aug. 2, 2005\].”
 

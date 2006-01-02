@@ -10,9 +10,9 @@
 
 &emsp;(A) The development of goals and objectives for the appropriate Federal role in the development of the critical technology or technologies that the President expects to be covered by the strategy.
 
-&emsp;(B) Close consultation with appropriate representatives of United States industries, members of industry associations, representatives of labor organizations in the United States,members of professional and technical societies in the United States and other persons who are qualified to provide advice and assistance in the development of such critical technology or technologies.
+&emsp;(B) Close consultation with appropriate representatives of United States industries, members of industry associations, representatives of labor organizations in the United States, members of professional and technical societies in the United States and other persons who are qualified to provide advice and assistance in the development of such critical technology or technologies.
 
-&emsp;(C) The development of an organizational structure within the Federal Government that is appropriate for coordinating, managing, and reviewing the Federal Government's role in the implementation of the strategy, including allocating roles among Federal departments and agencies.
+&emsp;(C) The development of an organizational structure within the Federal Government thatis appropriate for coordinating, managing, and reviewing the Federal Government's role in the implementation of the strategy, including allocating roles among Federal departments and agencies.
 
 &emsp;(D) The development of policies and procedures for synergistic government, industrial, and university participation in the implementation of the strategy.
 

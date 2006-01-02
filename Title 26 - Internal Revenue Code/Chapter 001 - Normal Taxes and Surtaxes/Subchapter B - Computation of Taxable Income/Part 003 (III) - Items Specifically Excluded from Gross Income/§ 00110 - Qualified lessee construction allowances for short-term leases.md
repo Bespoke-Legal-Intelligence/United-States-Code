@@ -48,7 +48,3 @@ A prior section 110, act Aug. 16, 1954, ch. 736, 68A Stat. 33, related to income
 
 Section 1213(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section and amending sections 168 and 6724 of this title\] shall apply to leases entered into after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 168, 6724 of this title.
-

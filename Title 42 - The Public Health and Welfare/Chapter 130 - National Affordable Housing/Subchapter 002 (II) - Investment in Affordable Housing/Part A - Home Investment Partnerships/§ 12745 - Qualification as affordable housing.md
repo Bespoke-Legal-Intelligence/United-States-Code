@@ -96,7 +96,7 @@ Subsec. (b)(4), (5). Pub. L. 103–233, §203(a)(2), redesignated pars. (4) and 
 
 1992—Subsec. (a)(1)(A). Pub. L. 102–550, §208(a)(1), substituted “number of bedrooms in the unit” for “smaller and larger families”.
 
-Subsec. (a)(1)(E). Pub. L. 102–550, §208(b), inserted before semicolon “, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to takeactions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary”.
+Subsec. (a)(1)(E). Pub. L. 102–550, §208(b), inserted before semicolon “, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary”.
 
 Subsec. (a)(3). Pub. L. 102–550, §208(a)(2), (3), substituted “the lesser of the amount payable by the tenant under State or local law or” for “not less than” in second sentence and inserted at end “The preceding sentence shall not apply with respect to funds made available under this Act for units that have been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of title 26.”
 

@@ -24,7 +24,7 @@ Section 1704(b) of this title, referred to in subsec. (a), was amended generally
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, forconsumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
+Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

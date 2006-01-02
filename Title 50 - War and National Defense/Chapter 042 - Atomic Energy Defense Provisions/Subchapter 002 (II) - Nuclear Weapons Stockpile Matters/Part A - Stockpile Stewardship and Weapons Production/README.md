@@ -9,6 +9,7 @@ Part A—Stockpile Stewardship and Weapons Production
 - [&sect; 02522 - Report on stockpile stewardship criteria](%C2%A7%2002522%20-%20Report%20on%20stockpile%20stewardship%20criteria.md)
 - [&sect; 02523 - Plan for stewardship, management, and certification of warheads in the nuclear weapons stockpile](%C2%A7%2002523%20-%20Plan%20for%20stewardship%2C%20management%2C%20and%20certification%20of%20warheads%20in%20the%20nuclear%20weapons%20stockpile.md)
 - [&sect; 02524 - Nuclear weapons stockpile life extension program](%C2%A7%2002524%20-%20Nuclear%20weapons%20stockpile%20life%20extension%20program.md)
+- [&sect; 02524a - Reliable Replacement Warhead program](%C2%A7%2002524a%20-%20Reliable%20Replacement%20Warhead%20program.md)
 - [&sect; 02525 - Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile](%C2%A7%2002525%20-%20Annual%20assessments%20and%20reports%20to%20the%20President%20and%20Congress%20regarding%20the%20condition%20of%20the%20United%20States%20nuclear%20weapons%20stockpile.md)
 - [&sect; 02526 - Form of certifications regarding the safety or reliability of the nuclear weapons stockpile](%C2%A7%2002526%20-%20Form%20of%20certifications%20regarding%20the%20safety%20or%20reliability%20of%20the%20nuclear%20weapons%20stockpile.md)
 - [&sect; 02527 - Nuclear test ban readiness program](%C2%A7%2002527%20-%20Nuclear%20test%20ban%20readiness%20program.md)

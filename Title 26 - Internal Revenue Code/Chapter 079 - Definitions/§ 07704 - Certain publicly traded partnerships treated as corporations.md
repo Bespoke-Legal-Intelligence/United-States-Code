@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Certain income qualifying under regulated investment company or real estate trust provisions
 
-&emsp;The term “qualifying income” also includes any income which would qualify under section 851(b)(2) or 856(c)(2).
+&emsp;The term “qualifying income” also includes any income which would qualify under section 851(b)(2)(A) or 856(c)(2).
 
 #### (5) Special rule for determining gross income from certain real property sales
 
@@ -118,7 +118,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (A) Imposition of tax
 
-&emsp;&emsp;There is hereby imposed for each taxable year on the income of each electing 1987 partnership a tax equal to 3.5 percent of such partnership's gross income for the taxable year from the active conduct of trades and businesses by the partnership.
+&emsp;&emsp;There is hereby imposed for each taxable year on the income of each electing 1987partnership a tax equal to 3.5 percent of such partnership's gross income for the taxable year from the active conduct of trades and businesses by the partnership.
 
 #### (B) Adjustments in the case of tiered partnerships
 
@@ -132,13 +132,15 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 &emsp;An election and consent under this subsection shall apply to the taxable year for which made and all subsequent taxable years unless revoked by the partnership. Such revocation may be made without the consent of the Secretary, but, once so revoked, may not be reinstated.
 
-(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI,§6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931.)
+(Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI, §6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title III, §331(e), Oct. 22, 2004, 118 Stat. 1476.)
 
 #### References in Text
 
 Section 10211(c)(2) of the Revenue Reconciliation Act of 1987, referred to in subsec. (g)(2)(A), probably means section 10211(c)(2) of the Revenue Act of 1987, title X of Pub. L. 100–203, which is set out as a note below.
 
 #### Amendments
+
+2004—Subsec. (d)(4). Pub. L. 108–357 substituted “section 851(b)(2)(A)” for “section 851(b)(2)”.
 
 1999—Subsecs. (c)(3), (d)(1)(D), (G), (5). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
@@ -153,6 +155,10 @@ Subsec. (d)(1). Pub. L. 100–647, §2004(f)(4), inserted at end “For purposes
 Subsec. (d)(3). Pub. L. 100–647, §2004(f)(5), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘real property rent’ means amounts which would qualify as rent from real property under section 856(d) if such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements).”
 
 Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted “or to pay such amounts” before “as may be required”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 331(h) of Pub. L. 108–357, set out as a note under section 469 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -207,8 +213,4 @@ Coordination with passive-type income requirements.—In the case of an existing
 &emsp;&emsp;“(i) December 31, 1997, or
 
 &emsp;&emsp;“(ii) the day (if any) as of which such partnership ceases to be treated as an existing partnership by reason of subparagraph (B).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 351, 475, 988 of this title; title 29 section 1107.
 

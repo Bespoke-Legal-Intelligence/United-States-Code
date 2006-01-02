@@ -50,7 +50,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act, referred to in
 
 Par. (4). Pub. L. 106–310, §3206(b)(1)(A), inserted “, except as provided in section 10804(d) of this title,” after “means” in introductory provisions.
 
-Par. (4)(B). Pub. L. 106–310, §3206(b)(1)(B), designated existing provisions as cl. (i), redesignated former cls. (i)to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
+Par. (4)(B). Pub. L. 106–310, §3206(b)(1)(B), designated existing provisions as cl. (i), redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
 
 Par. (8). Pub. L. 106–310, §3206(b)(2), added par. (8).
 

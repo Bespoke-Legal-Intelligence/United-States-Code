@@ -16,7 +16,7 @@ Vessel hulls.—The design of a vessel hull, including a plug or mold, is subjec
 
 Definitions.—For the purpose of this chapter, the following terms have the following meanings:
 
-&emsp;(1) A design is “original” if it is the result of the designer's creative endeavor that provides a distinguishable variation over prior work pertaining to similar articles which is more than merely trivial and has not been copied from another source.
+&emsp;(1) A design is “original” if it is the result of the designer's creative endeavor that provides a distinguishable variation over prior workpertaining to similar articles which is more than merely trivial and has not been copied from another source.
 
 &emsp;(2) A “useful article” is a vessel hull, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article which normally is part of a useful article shall be deemed to be a useful article.
 
@@ -48,7 +48,7 @@ Pub. L. 105–304, title V, §504, Oct. 28, 1998, 112 Stat. 2917, as amended by 
 
 “(a)
 
-In General.—Not later than November 1, 2003, the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of theUnited States Patent and Trademark Office shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\].
+In General.—Not later than November 1, 2003, the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title \[enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\].
 
 “(b)
 

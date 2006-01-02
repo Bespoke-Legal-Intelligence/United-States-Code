@@ -16,7 +16,7 @@ Upon an application made pursuant to section 1804 of this title, the judge shall
 
 &emsp;(4) the proposed minimization procedures meet the definition of minimization procedures under section 1801(h) of this title; and
 
-&emsp;(5) the application which has been filed contains all statements and certifications required by section 1804 of this title and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1804(a)(7)(E) of this title and anyother information furnished under section 1804(d) of this title.
+&emsp;(5) the application which has been filed contains all statements and certifications required by section 1804 of this title and, if the target is a United States person, the certification or certifications are not clearly erroneous on the basis of the statement made under section 1804(a)(7)(E) of this title and any other information furnished under section 1804(d) of this title.
 
 #### (b) Determination of probable cause
 
@@ -58,7 +58,7 @@ Whenever the target of the electronic surveillance is a foreign power, as define
 
 (1) An order issued under this section may approve an electronic surveillance for the period necessary to achieve its purpose, or for ninety days, whichever is less, except that (A) an order under this section shall approve an electronic surveillance targeted against a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, for the period specified in the application or for one year, whichever is less, and (B) an order under this chapter for a surveillance targeted against an agent of a foreign power, as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less.
 
-(2) Extensions of an order issued under this subchapter may be granted on the same basis as an original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for a period not to exceed 1 year.
+(2) Extensions of an order issued under this subchapter may be granted on the same basis asan original order upon an application for an extension and new findings made in the same manner as required for an original order, except that (A) an extension of an order under this chapter for a surveillance targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power as defined in section 1801(a)(4) of this title that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no communication of any individual United States person will be acquired during the period, and (B) an extension of an order under this chapter for a surveillance targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for a period not to exceed 1 year.
 
 (3) At or before the end of the period of time for which electronic surveillance is approved by an order or an extension, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
@@ -106,7 +106,7 @@ Notwithstanding any other provision of this subchapter, officers, employees, or 
 
 &emsp;&emsp;(B) such electronic surveillance is limited in extent and duration to that necessary to train the personnel in the use of the equipment; and
 
-&emsp;&emsp;(C) no contents of any communication acquired are retained or disseminated for any purpose, but are destroyed as soon as reasonably possible.
+&emsp;&emsp;(C) no contents of any communication acquired are retained or disseminated for anypurpose, but are destroyed as soon as reasonably possible.
 
 #### (h) Retention of certifications, applications and orders
 
@@ -160,6 +160,8 @@ Subsecs. (e) to (h). Pub. L. 106–567, §602(b)(1), redesignated subsecs. (d) t
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 2002 Amendment
@@ -170,7 +172,7 @@ Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812, pr
 
 Pub. L. 107–108, title III, §314(c), Dec. 28, 2001, 115 Stat. 1402, provided in part that the amendment made by section 314(c)(1) of Pub. L. 107–108 is effective as of Oct. 26, 2001, and as if included in Pub. L. 107–56 as originally enacted.
 
-Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a Termination of 2001 Amendment note under section 2510 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a Termination of 2001 Amendment note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1984 Amendment
 

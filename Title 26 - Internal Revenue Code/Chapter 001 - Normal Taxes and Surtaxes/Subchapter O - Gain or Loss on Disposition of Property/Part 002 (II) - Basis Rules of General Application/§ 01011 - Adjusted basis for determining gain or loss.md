@@ -18,7 +18,3 @@ If a deduction is allowable under section 170 (relating to charitable contributi
 
 Amendment by Pub. L. 91–172 applicable with respect to sales made after Dec. 19, 1969, see section 201(g)(6) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 165, 166, 612, 1001 of this title.
-

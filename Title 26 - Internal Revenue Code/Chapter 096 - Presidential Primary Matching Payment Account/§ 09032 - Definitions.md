@@ -58,7 +58,3 @@ Par. (3). Pub. L. 94–283, §115(c)(2), substituted “309(a)(1)” for “310(
 
 Amendment by section 306(b)(1) of Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub. L. 94–283, set out as a note under section 9002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9033, 9034 of this title.
-

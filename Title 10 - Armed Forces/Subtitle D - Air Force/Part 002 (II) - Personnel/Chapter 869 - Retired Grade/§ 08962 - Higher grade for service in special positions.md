@@ -84,7 +84,3 @@ For authority of the President to appoint a retired commissioned officer of a re
 
 Extension of privilege granted by subsec. (a) of this section, to officers, heretofore or hereafter retired, who served in the grade of general or lieutenant general after Dec. 7, 1941, and before July 1, 1946, see section 38 of act Aug. 10, 1956, set out as a note under section 3962 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1406 of this title.
-

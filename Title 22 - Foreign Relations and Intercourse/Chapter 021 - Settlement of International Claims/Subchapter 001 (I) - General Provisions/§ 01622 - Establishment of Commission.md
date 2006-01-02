@@ -52,7 +52,7 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 #### Sec. 2. Transfer of Functions
 
-(a) All functions of the War Claims Commission and of the members, officers, and employees thereof arehereby transferred to the Foreign Claims Settlement Commission of the United States.
+(a) All functions of the War Claims Commission and of the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
 
 (b) All functions of the International Claims Commission of the United States (hereinafter referred to as the International Claims Commission) and the members, officers, and employees thereof are hereby transferred to the Foreign Claims Settlement Commission of the United States.
 
@@ -62,7 +62,7 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 #### Sec. 3. Certain Functions of Chairman
 
-There are hereby vested in the Chairman all functions of the Commission with respect to the internal management of the affairs of the Commission, including but not limited to functions with respect to: (a) the appointment of personnel employed under the Commission, (b) the direction of employees of the Commission and the supervision of their official activities, (c) the distribution of business among employees and organizational units under the Commission, (d) the preparation of budget estimates, and (e) the use and expenditure of funds of the Commission available for expenses of administration.
+There are hereby vested in the Chairman all functions of the Commission with respect to the internalmanagement of the affairs of the Commission, including but not limited to functions with respect to: (a) the appointment of personnel employed under the Commission, (b) the direction of employees of the Commission and the supervision of their official activities, (c) the distribution of business among employees and organizational units under the Commission, (d) the preparation of budget estimates, and (e) the use and expenditure of funds of the Commission available for expenses of administration.
 
 #### Sec. 4. Abolitions
 

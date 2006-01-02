@@ -4,11 +4,11 @@
 
 &emsp;(A) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when he is separated and (ii) in the grade and rank in which he was serving on the date when his name was placed on the temporary disability retired list, or if his name was not carried on that list, on the date when he is separated.
 
-&emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) onactive duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary of the military department or the Secretary of Homeland Security, as the case may be, having jurisdiction over the armed force from which he is separated.
+&emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary of the military department or the Secretary of Homeland Security, as the case may be, having jurisdiction over the armed force from which he is separated.
 
 &emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination.
 
-&emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
+&emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired listor, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
 
 (b) For the purposes of subsection (a), a part of a year of active service that is six months or more is counted as a whole year, and a part of a year that is less than six months is disregarded.
 
@@ -71,8 +71,4 @@ Pub. L. 107–107, div. A, title V, §593(b), Dec. 28, 2001, 115 Stat. 1126, pro
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1203, 1206 of this title; title 38 section 1161.
 

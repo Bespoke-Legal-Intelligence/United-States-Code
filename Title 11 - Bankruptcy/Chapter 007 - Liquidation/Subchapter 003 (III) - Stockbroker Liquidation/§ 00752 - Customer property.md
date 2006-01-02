@@ -1,6 +1,6 @@
 ### §752. Customer property
 
-(a) The trustee shall distribute customer property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims and in priority to all other claims, except claims of the kind specified in section 507(a)(1) of this title that are attributable to the administration of such customer property.
+(a) The trustee shall distribute customer property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims and in priority to all other claims, except claims of the kind specified in section 507(a)(2) of this title that are attributable to the administration of such customer property.
 
 (b)(1) The trustee shall distribute customer property in excess of that distributed under subsection (a) of this section in accordance with section 726 of this title.
 
@@ -8,7 +8,7 @@
 
 (c) Any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor, excluding property excluded under section 741(4)(B) of this title, shall be apportioned between the general estate and customer property in the same proportion as the general estate of the debtor and customer property were subject to such security interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2614; Pub. L. 97–222, §15, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §484, July 10, 1984, 98 Stat. 383.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2614; Pub. L. 97–222, §15, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §484, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title XV, §1502(a)(3), Apr. 20, 2005, 119 Stat. 216.)
 
 #### Historical and Revision Notes
 
@@ -22,11 +22,17 @@ Subsection (c) provides for apportionment between customer property and the gene
 
 #### Amendments
 
+2005—Subsec. (a). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
+
 1984—Subsec. (a). Pub. L. 98–353, §484(a), substituted “customers’ allowed” for “customers allowed”, “except claims of the kind” for “except claims”, and “such customer property” for “customer property”.
 
 Subsec. (b)(2). Pub. L. 98–353, §484(b), substituted “section 726” for “section 726(a)”.
 
 1982—Subsec. (c). Pub. L. 97–222 substituted “Any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor, excluding property excluded under section 741(4)(B) of this title, shall be apportioned between the general estate and customer property in the same proportion as the general estate of the debtor and customer property were subject to such security interest” for “Subject to section 741(4)(B) of this title, any cash or security remaining after the liquidation of a security interest created under a security agreement made by the debtor shall be apportioned between the general estate and customer property in the proportion that the general property of the debtor and the cash or securities of customers were subject to such security interest”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

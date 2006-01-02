@@ -40,7 +40,7 @@
 
 (e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Interstate Commerce Commission under section 11323(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11324(b) of this title. When the proposal is the subject of an application and proceeding before the Commission, the Secretary may appear in any proceeding related to the application.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2429; Pub. L. 104–88, title III, §308(b), Dec. 29, 1995, 109 Stat. 946.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2429; Pub. L. 104–88, title III, §308(b), Dec. 29, 1995, 109 Stat. 946.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,7 @@ In subsection (b), the words “In order” are omitted as surplus. The words �
 
 In subsection (c)(1), the words “as are deemed” are omitted as unnecessary.
 
-In subsection (c)(2), the words “and the study described in section 901 of the Railroad Revitalization and Regulatory Reform Act of 1976” and “or such section 901” are omitted as executed. The word “nature” is omitted as covered by “kind”. The word “When” is substituted for “to the extent” for consistency. The word “necessary” is omitted as being included in “appropriate”. A cross-reference to section 203(c) of the Regional Rail Reorganization Act of 1973 is included eventhough the law is unclear because section 1149 of the Omnibus Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 675) amended section 203 to repeal the powers referred to in the source provisions. No position is taken as to whether the powers described in section 203(c) are still in existence.
+In subsection (c)(2), the words “and the study described in section 901 of the Railroad Revitalization and Regulatory Reform Act of 1976” and “or such section 901” are omitted as executed. The word “nature” is omitted as covered by “kind”. The word “When” is substituted for “to the extent” for consistency. The word “necessary” is omitted as being included in “appropriate”. A cross-reference to section 203(c) of the Regional Rail Reorganization Act of 1973 is included even though the law is unclear because section 1149 of the Omnibus Reconciliation Act of 1981 (Pub. L. 97–35, 95 Stat. 675) amended section 203 to repeal the powers referred to in the source provisions. No position is taken as to whether the powers described in section 203(c) are still in existence.
 
 In subsection (d)(1)(A), the word “appropriate” is omitted as surplus.
 

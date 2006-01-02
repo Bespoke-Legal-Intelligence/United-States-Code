@@ -2,7 +2,7 @@
 
 #### Codification
 
-Sections were completely amended by Pub. L. 86–705, §2, Sept. 2, 1960, 74 Stat. 781, and included in section 17 of Mineral Leasing Act of Feb. 25, 1920, classified to section 226 of this title.
+Sections were completely amended by Pub. L. 86–705, §2, Sept. 2, 1960, 74 Stat. 781, and included in section 17of Mineral Leasing Act of Feb. 25, 1920, classified to section 226 of this title.
 
 Section 226d, act Feb. 25, 1920, ch. 85, §17a, as added Aug. 8, 1946, ch. 916, §4, 60 Stat. 952, provided for the exchange of leases and fixed royalty rates for new leases.
 

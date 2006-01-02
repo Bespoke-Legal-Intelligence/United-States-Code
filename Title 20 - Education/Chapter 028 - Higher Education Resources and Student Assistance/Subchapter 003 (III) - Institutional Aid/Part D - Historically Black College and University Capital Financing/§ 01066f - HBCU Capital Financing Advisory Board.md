@@ -48,7 +48,7 @@ A prior section 347 of Pub. L. 89–329 was classified to section 1069c of this 
 
 Subsec. (b)(1)(E). Pub. L. 105–244, §306(e)(1)(B), inserted “, or the designee of the Association” before the period.
 
-Subsec. (c). Pub. L. 105–244, §306(e)(2), struck out heading and text of subsec. (c). Text read as follows: “There are authorized to be appropriated $50,000 for fiscal year 1993 and each of the 4 succeeding fiscal years to carry out this section.”
+Subsec. (c). Pub. L. 105–244, §306(e)(2), struck out heading and text of subsec. (c). Text read as follows:“There are authorized to be appropriated $50,000 for fiscal year 1993 and each of the 4 succeeding fiscal years to carry out this section.”
 
 #### Effective Date of 1998 Amendment
 

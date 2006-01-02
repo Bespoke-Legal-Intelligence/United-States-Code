@@ -2,7 +2,7 @@
 
 (a) This section applies to all contributing sponsors of a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control at the time such plan is terminated under section 1341(c) or 1342 of this title, or who, at any time within the 5 plan years preceding the date of termination, made contributions under the plan.
 
-(b) The corporation shall determine the liability with respect to each contributing sponsor and each member of its controlled group in a manner consistent with section 1362 of this title,except that the amount of liability determined under section 1362(b)(1) of this title with respect to the entire plan shall be allocated to each controlled group by multiplying such amount by a fraction—
+(b) The corporation shall determine the liability with respect to each contributing sponsor and each member of its controlled group in a manner consistent with section 1362 of this title, except that the amount of liability determined under section 1362(b)(1) of this title with respect to the entire plan shall be allocated to each controlled group by multiplying such amount by a fraction—
 
 &emsp;(1) the numerator of which is the amount required to be contributed to the plan for the last 5 plan years ending prior to the termination date by persons in such controlled group as contributing sponsors, and
 

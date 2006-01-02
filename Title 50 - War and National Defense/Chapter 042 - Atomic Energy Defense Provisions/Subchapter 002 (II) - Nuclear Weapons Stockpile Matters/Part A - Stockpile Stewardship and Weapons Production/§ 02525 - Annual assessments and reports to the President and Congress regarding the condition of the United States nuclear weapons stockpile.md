@@ -42,7 +42,7 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 &emsp;&emsp;(A) a concise statement regarding the adequacy of the science-based tools and methods being used to determine the matters covered by the assessments;
 
-&emsp;&emsp;(B) a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments; and
+&emsp;&emsp;(B) a concise statement regarding the adequacy of the tools and methods employed bythe manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments; and
 
 &emsp;&emsp;(C) a concise summary of the findings and recommendations of any teams under subsection (c) that relate to the assessments, together with a discussion of those findings and recommendations.
 

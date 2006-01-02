@@ -8,7 +8,7 @@
 
 &emsp;(B) equal to the percent specified in paragraph (3) of the sums expended during such quarter that are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system); and <sup>1</sup>
 
-&emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of somuch of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity, and
+&emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity, and
 
 &emsp;(D) equal to 66 percent of the sums expended by the State during the quarter for an alternative statewide system for which a waiver has been granted under section 652(d)(3) of this title, but only to the extent that the total of the sums so expended by the State on or after July 16, 1998, does not exceed the least total cost estimate submitted by the State pursuant to section 652(d)(3)(C) of this title in the request for the waiver;
 
@@ -24,7 +24,7 @@
 
 (3)(A) The Secretary shall pay to each State, for each quarter in fiscal years 1996 and 1997, 90 percent of so much of the State expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements specified in section 654(16) of this title (as in effect on September 30, 1995) but limited to the amount approved for States in the advance planning documents of such States submitted on or before September 30, 1995.
 
-(B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a system meeting the requirements of sections 654(16) and 654a of this title.
+(B)(i) The Secretary shall pay to each State or system described in clause (iii), for each quarter in fiscal years 1996 through 2001, the percentage specified in clause (ii) of so much of the State or system expenditures described in paragraph (1)(B) as the Secretary finds are for a systemmeeting the requirements of sections 654(16) and 654a of this title.
 
 (ii) The percentage specified in this clause is 80 percent.
 
@@ -66,7 +66,7 @@
 
 (ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, the Secretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
 
-(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State toachieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
+(iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
 
 (D) The Secretary may not impose a penalty under this paragraph against a State with respect to a failure to comply with section 654(24)(B) of this title for a fiscal year if the Secretary is required to impose a penalty under this paragraph against the State with respect to a failure to comply with section 654(24)(A) of this title for the fiscal year.
 
@@ -114,7 +114,7 @@
 
 #### (d) State reports
 
-Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection\(a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
+Notwithstanding any other provision of law, no amount shall be paid to any State under this section for any quarter, prior to the close of such quarter, unless for the period consisting of all prior quarters for which payment is authorized to be made to such State under subsection (a) of this section, there shall have been submitted by the State to the Secretary, with respect to each quarter in such period (other than the last two quarters in such period), a full and complete report (in such form and manner and containing such information as the Secretary shall prescribe or require) as to the amount of child support collected and disbursed and all expenditures with respect to which payment is authorized under subsection (a) of this section.
 
 #### (e) Special project grants for interstate enforcement; appropriations
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 (3) At the time of its application for a grant under this subsection the State shall submit to the Secretary a statement describing in reasonable detail the project for which the proceeds of the grant are to be used, and the State shall from time to time thereafter submit to the Secretary such reports with respect to the project as the Secretary may specify.
 
-(4) Amounts expended by a State in carrying out a special project assisted under this section shall be considered, for purposes of section 658(b) <sup>2</sup> of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), to have been expended for the operation of the State's plan approved under section 654 of this title.
+(4) Amounts expended by a State in carrying out a special project assisted under this sectionshall be considered, for purposes of section 658(b) <sup>2</sup> of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), to have been expended for the operation of the State's plan approved under section 654 of this title.
 
 (5) There is authorized to be appropriated the sum of $7,000,000 for fiscal year 1985, $12,000,000 for fiscal year 1986, and $15,000,000 for each fiscal year thereafter, to be used by the Secretary in making grants under this subsection.
 
@@ -178,7 +178,7 @@ Subsec. (e)(1). Pub. L. 104–193, §395(d)(1)(E), substituted “noncustodial p
 
 Subsec. (a)(1)(C). Pub. L. 100–485, §112(a), added subpar. (C).
 
-1984—Subsec. (a)(1). Pub. L. 98–378, §4(a)(1)–(5), designated existing provisions as par. (1) and in par. (1) as so designated, struck out “, beginning with the quarter commencing July 1, 1975,” after “for each quarter”, substituted subpar. (A) for former par. (1) which provided for an amount equal to 70 percent of the total amounts expended by the State during the quarter for the operation of the plan approved under section 654 of this title, struck out former par. (2) which provided for an amount equal to 50 percent of the total amounts expended by the State during the quarter for the operation of a plan which met the conditions of section 654 of this title except as was provided by a waiver by the Secretary which was granted pursuant to specific authority set forth in the law, redesignated former par. (3) as subpar. (B) of par. (1), and in subpar. (B) as so redesignated, substituted “subparagraph (A)” for “clause (1) or (2)”, and inserted “(including in such sums the full cost of the hardware components of such system)” and “, or meets such requirements without regard to clause (D) thereof”.
+1984—Subsec. (a)(1). Pub. L. 98–378, §4(a)(1)–(5), designated existing provisions as par. (1) and in par. (1) as so designated, struck out “, beginning with the quarter commencing July 1, 1975,” after “for each quarter”, substituted subpar. (A) for former par. (1) which provided for an amount equal to 70 percent of the totalamounts expended by the State during the quarter for the operation of the plan approved under section 654 of this title, struck out former par. (2) which provided for an amount equal to 50 percent of the total amounts expended by the State during the quarter for the operation of a plan which met the conditions of section 654 of this title except as was provided by a waiver by the Secretary which was granted pursuant to specific authority set forth in the law, redesignated former par. (3) as subpar. (B) of par. (1), and in subpar. (B) as so redesignated, substituted “subparagraph (A)” for “clause (1) or (2)”, and inserted “(including in such sums the full cost of the hardware components of such system)” and “, or meets such requirements without regard to clause (D) thereof”.
 
 Subsec. (a)(2). Pub. L. 98–378, §4(a)(6), added par. (2). Former par. (2) was struck out.
 

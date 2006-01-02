@@ -18,7 +18,7 @@ Method of Sale.—The Secretary shall use competitive procedures to sell ammunit
 
 (c)
 
-Eligible Purchasers.—To be eligible to purchase excess, obsolete, or unserviceable ammunition or ammunition components under this section, the purchaser shall be a licensed manufacturer (as defined in section 921(10) of title 18) that, as determined by the Secretary, has a capability to modify, reclaim, transport, and either store or sell the ammunition or ammunition components sought to be purchased.
+Eligible Purchasers.—To be eligible to purchase excess, obsolete, or unserviceable ammunition or ammunition components under this section, the purchaser shall be a licensed manufacturer (as defined in section 921(10) <sup>1</sup> of title 18) that, as determined by the Secretary, has a capability to modify, reclaim, transport, and either store or sell the ammunition or ammunition components sought to be purchased.
 
 (d)
 
@@ -61,4 +61,6 @@ Section 1065(b) of Pub. L. 105–85 provided that:
 &emsp;“(B) purchasers that are authorized under subsection (a)(2) of such section to use the purchased ammunition or ammunition components actually use the ammunition or ammunition components in the manner proposed.
 
 “(2) Not later than 180 days after the end of each fiscal year in which the review is conducted, the Secretary of the Army shall submit to Congress a report containing the results of the review for the fiscal year covered by the report.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “921(a)(10)”.</i>
 

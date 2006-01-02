@@ -20,7 +20,7 @@ A postbaccalaureate achievement project assisted under this section may provide 
 
 &emsp;(6) activities designed to assist students participating in the project in securing admission to and financial assistance for enrollment in graduate programs;
 
-&emsp;(7) mentoring programs involving faculty members at institutions of higher education, students, or any combination of such persons; and
+&emsp;(7) mentoring programs involving faculty members at institutions of higher education,students, or any combination of such persons; and
 
 &emsp;(8) exposure to cultural events and academic programs not usually available to disadvantaged students.
 

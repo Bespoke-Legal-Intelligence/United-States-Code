@@ -58,7 +58,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 #### Aging Resource Specialists for Coordination of National Older American Volunteer Programs With State and Community Programs on Aging and Nutrition Programs for Elderly; Designation; Duties; Definitions
 
-Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by Pub. L. 103–82, title III, §341(b)(4),title IV, §405(i), Sept. 21, 1993, 107 Stat. 904, 921, provided that:
+Pub. L. 94–135, title II, §205(c), Nov. 28, 1975, 89 Stat. 727, as amended by Pub. L. 103–82, title III, §341(b)(4), title IV, §405(i), Sept. 21, 1993, 107 Stat. 904, 921, provided that:
 
 “(1) In order to provide maximum coordination between programs carried out under title III and title VII of the Older Americans Act of 1965 (42 U.S.C. 3021 et seq.; 42 U.S.C. 3045 et seq.) and National Senior Volunteer Corps programs carried out under title II of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 5001 et seq.) \[42 U.S.C. 5000 et seq.\], in order to enhance the effectiveness of the support provided to such National Senior Volunteer Corps programs by the Corporation for National and Community Service, the Chief Executive Officer of the Corporation shall designate an aging resource specialist with respect to programs carried out in each State under title II of the Domestic Volunteer Service Act of 1973 \[this subchapter\].
 

@@ -12,10 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 617, 12645, 14001, 14006 of this title; title 32 section 323.
-
 
 ---
 

@@ -12,7 +12,7 @@
 
 (2) The Director of the Administrative Office of the United States Courts shall not later than ten days after receipt transmit such report to the Congress and to the Judicial Conference of the United States. The judicial council of the circuit shall not grant a suspension to any district within six months following the expiration of a prior suspension without the consent of the Congress by Act of Congress. The limitation on granting a suspension made by this paragraph shall not apply with respect to any judicial district in which the prior suspension is in effect on the date of the enactment of the Speedy Trial Act Amendments Act of 1979.
 
-(e) If the chief judge of the district court concludes that the need for suspension of time limits in such district under this section is of greaturgency, he may order the limits suspended for a period not to exceed thirty days. Within ten days of entry of such order, the chief judge shall apply to the judicial council of the circuit for a suspension pursuant to subsection (a).
+(e) If the chief judge of the district court concludes that the need for suspension of time limits in such district under this section is of great urgency, he may order the limits suspended for a period not to exceed thirty days. Within ten days of entry of such order, the chief judge shall apply to the judicial council of the circuit for a suspension pursuant to subsection (a).
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2085; amended Pub. L. 96–43, §10, Aug. 2, 1979, 93 Stat. 331.)
 

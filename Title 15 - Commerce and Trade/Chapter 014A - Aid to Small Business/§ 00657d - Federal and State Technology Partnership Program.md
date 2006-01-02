@@ -10,7 +10,7 @@ In this section and section 657e of this title, the following definitions apply:
 
 #### (2) Business advice and counseling
 
-&emsp;The term “business advice and counseling” means providing advice and assistance on matters described in section 657e(c)(2)(B) of this title to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
+&emsp;The term “business advice and counseling” means providing advice and assistance on matters described in section 657e(c)(2)(B) of thistitle to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
 
 #### (3) FAST program
 
@@ -72,7 +72,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;&emsp;&emsp;(i) to make grants or loans to companies to pay a portion or all of the cost of developing SBIR proposals;
 
-&emsp;&emsp;&emsp;(ii) to establish or operate a Mentoring Network within the FAST program to provide business advice and counseling that will assist small business concerns that have been identified by FAST program participants, program managers of participating SBIR agencies, the Administration, or other entities that are knowledgeable about the SBIR and STTR programs asgood candidates for the SBIR and STTR programs, and that would benefit from mentoring, in accordance with section 657e of this title;
+&emsp;&emsp;&emsp;(ii) to establish or operate a Mentoring Network within the FAST program to provide business advice and counseling that will assist small business concerns that have been identified by FAST program participants, program managers of participating SBIR agencies, the Administration, or other entities that are knowledgeable about the SBIR and STTR programs as good candidates for the SBIR and STTR programs, and that would benefit from mentoring, in accordance with section 657e of this title;
 
 &emsp;&emsp;&emsp;(iii) to create or participate in a training program for individuals providing SBIR outreach and assistance at the State and local levels; and
 
@@ -152,7 +152,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 #### (C) Types of funding
 
-&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall becomprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
+&emsp;&emsp;The non-Federal share of the cost of an activity carried out by a recipient shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program.
 
 #### (D) Rankings
 

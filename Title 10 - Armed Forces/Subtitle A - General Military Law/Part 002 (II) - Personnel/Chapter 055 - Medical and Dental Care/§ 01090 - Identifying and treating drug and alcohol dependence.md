@@ -2,7 +2,7 @@
 
 The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations, implement procedures using each practical and available method, and provide necessary facilities to identify, treat, and rehabilitate members of the armed forces who are dependent on drugs or alcohol.
 
-(Added Pub. L. 97–295, §1(15)(A), Oct. 12, 1982, 96 Stat. 1290; amended Pub. L. 98–94, title XII, §1268(7), Sept. 24, 1983, 97 Stat. 706; Pub. L. 101–510, div. A, title V, §553, Nov. 5, 1990, 104 Stat. 1567; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 97–295, §1(15)(A), Oct. 12, 1982, 96 Stat. 1290; amended Pub. L. 98–94, title XII,§1268(7), Sept. 24, 1983, 97 Stat. 706; Pub. L. 101–510, div. A, title V, §553, Nov. 5, 1990, 104 Stat. 1567; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 

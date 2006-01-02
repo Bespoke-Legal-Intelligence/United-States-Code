@@ -22,7 +22,7 @@ In general.—The Secretary may grant an exemption to a sponsor from the provisi
 
 &emsp;&emsp;(B)
 
-Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to thesponsor within 60 days of the filing of the sponsor's application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
+Objection to exemption.—An air carrier shall be deemed to have approved a sponsor's application for an exemption under subparagraph (A) unless the air carrier has submitted an objection, in writing, to the sponsor within 60 days of the filing of the sponsor's application with the Secretary, or within 60 days of the service of the application upon that air carrier, whichever is later.
 
 &emsp;&emsp;(C)
 
@@ -102,7 +102,7 @@ Revocation of Exemptions.—The Secretary may revoke an exemption issued to a pu
 
 (j)
 
-Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions ofthis section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
+Nonapplication of Provisions to Airports Owned by Public Agencies.—The provisions of this section requiring the approval of air carriers in determinations concerning the use of revenues, and imposition of fees, at an airport shall not be extended so as to apply to any airport owned by a public agency that is not participating in the program established by this section.
 
 (k)
 

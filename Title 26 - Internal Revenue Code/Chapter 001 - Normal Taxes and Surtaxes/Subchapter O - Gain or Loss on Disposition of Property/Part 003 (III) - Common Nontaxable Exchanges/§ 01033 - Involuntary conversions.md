@@ -46,7 +46,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (i) Control
 
-&emsp;&emsp;&emsp;The term “control” means the ownership of stock possessing at least 80 percent ofthe total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
+&emsp;&emsp;&emsp;The term “control” means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
 #### (ii) Disposition of the converted property
 
@@ -106,17 +106,29 @@ For purposes of this subtitle, if livestock are destroyed by or on account of di
 
 #### (e) Livestock sold on account of drought, flood, or other weather-related conditions
 
-For purposes of this subtitle, the sale or exchange of livestock (other than poultry) held by a taxpayer for draft, breeding, or dairy purposes in excess of the number the taxpayer would sell if he followed his usual business practices shall be treated as an involuntary conversion to which this section applies if such livestock are sold or exchanged by the taxpayer solely on account of drought, flood, or other weather-related conditions.
+#### (1) In general
 
-#### (f) Replacement of livestock with other farm property where there has been environmental contamination
+&emsp;For purposes of this subtitle, the sale or exchange of livestock (other than poultry) held by a taxpayer for draft, breeding, or dairy purposes in excess of the number the taxpayer would sell if he followed his usual business practices shall be treated as an involuntary conversion to which this section applies if such livestock are sold or exchanged by the taxpayer solely on account of drought, flood, or other weather-related conditions.
 
-For purposes of subsection (a), if, because of soil contamination or other environmental contamination, it is not feasible for the taxpayer to reinvest the proceeds from compulsorily or involuntarily converted livestock in property similar or related in use to the livestock so converted, other property (including real property) used for farming purposes shall be treated as property similar or related in service or use to the livestock so converted.
+#### (2) Extension of replacement period
+
+#### (A) In general
+
+&emsp;&emsp;In the case of drought, flood, or other weather-related conditions described in paragraph (1) which result in the area being designated as eligible for assistance by the Federal Government, subsection (a)(2)(B) shall be applied with respect to any converted property by substituting “4 years” for “2 years”.
+
+#### (B) Further extension by Secretary
+
+&emsp;&emsp;The Secretary may extend on a regional basis the period for replacement under this section (after the application of subparagraph (A)) for such additional time as the Secretary determines appropriate if the weather-related conditions which resulted in such application continue for more than 3 years.
+
+#### (f) Replacement of livestock with other farm property in certain cases
+
+For purposes of subsection (a), if, because of drought, flood, or other weather-related conditions, or soil contamination or other environmental contamination, it is not feasible for the taxpayer to reinvest the proceeds from compulsorily or involuntarily converted livestock in property similar or related in use to the livestock so converted, other property (including real property in the case of soil contamination or other environmental contamination) used for farming purposes shall be treated as property similar or related in service or use to the livestock so converted.
 
 #### (g) Condemnation of real property held for productive use in trade or business or for investment
 
 #### (1) Special rule
 
-&emsp;For purposes of subsection (a), if real property (not including stock in trade or otherproperty held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
+&emsp;For purposes of subsection (a), if real property (not including stock in trade or other property held primarily for sale) held for productive use in trade or business or for investment is (as the result of its seizure, requisition, or condemnation, or threat or imminence thereof) compulsorily or involuntarily converted, property of a like kind to be held either for productive use in trade or business or for investment shall be treated as property similar or related in service or use to the property so converted.
 
 #### (2) Limitations
 
@@ -174,7 +186,7 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 #### (3) Presidentially declared disaster
 
-&emsp;For purposes of this subsection, the term “Presidentially declared disaster” means any disaster which, with respect to the area in which the property is located, resulted in a subsequent determination by the President that such area warrants assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act.
+&emsp;For purposes of this subsection, the term “Presidentially declared disaster” means any disaster which, with respect to the area in which the property is located, resulted in a subsequent determination by the President that such area warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
 
 #### (4) Principal residence
 
@@ -200,7 +212,7 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 #### (3) Related person
 
-&emsp;For purposes of this subsection, a person is related to another person if the person bears a relationship to the other person described in section 267(b) or 707(b)(1).
+&emsp;For purposes of this subsection, a person is related to another person if the person bears arelationship to the other person described in section 267(b) or 707(b)(1).
 
 #### (j) Sales or exchanges to implement microwave relocation policy
 
@@ -212,7 +224,11 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 &emsp;For purposes of paragraph (1), the term “qualified sale or exchange” means a sale or exchange before January 1, 2000, which is certified by the Federal Communications Commission as having been made by a taxpayer in connection with the relocation of the taxpayer from the 1850–1990MHz spectrum by reason of the Federal Communications Commission's reallocation of that spectrum for use for personal communications services. The Commission shall transmit copies of certifications under this paragraph to the Secretary.
 
-#### (k) Cross references
+#### (k) Sales or exchanges under certain hazard mitigation programs
+
+For purposes of this subtitle, if property is sold or otherwise transferred to the Federal Government, a State or local government, or an Indian tribal government to implement hazard mitigation under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date), such sale or transfer shall be treated as an involuntary conversion to which this section applies.
+
+#### (<i>l</i>) Cross references
 
 &emsp;&emsp;<b>(1) For determination of the period for which the taxpayer has held property involuntarily converted, see section 1223.</b>
 
@@ -220,13 +236,25 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 &emsp;&emsp;<b>(3) For exclusion from gross income of gain from involuntary conversion of principal residence, see section 121.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Pub. L. 85–866, title I, §§45, 46(a), Sept. 2, 1958, 72 Stat. 1641; Pub. L. 88–272, title II, §206(b)(3), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §915(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), Oct. 4, 1976, 90 Stat. 1785, 1834, 1920, 1932; Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), Nov. 6, 1978, 92 Stat. 2870, 2888, 2941; Pub. L. 97–34, title II, §202(d)(2), Aug. 13, 1981, 95 Stat. 221; Pub. L. 98–369, div. A, title IV, §474(r)(24), July 18, 1984, 98 Stat. 844; Pub. L. 101–508, title XI, §11813(b)(20), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13431(a), Aug. 10, 1993, 107 Stat. 567; Pub. L. 104–7, §3(a)(1), (b)(1), Apr. 11, 1995, 109 Stat. 94, 95; Pub. L. 104–188, title I, §§1119(a), (b), 1610(a), Aug. 20, 1996, 110 Stat. 1765, 1844; Pub. L. 105–34, title III, §312(d)(1), (7), title IX, §913(b), title X, §1087(a), Aug. 5, 1997, 111 Stat. 839, 840, 878, 959.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 303; June 29, 1956, ch. 464, §5(a), 70 Stat. 407; Pub. L. 85–866, title I, §§45, 46(a), Sept. 2, 1958, 72 Stat. 1641; Pub. L. 88–272, title II, §206(b)(3), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §915(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §§1901(a)(128), 1906(b)(13)(A), title XXI, §§2127(a), 2140(a), Oct. 4, 1976, 90 Stat. 1785, 1834, 1920, 1932; Pub. L. 95–600, title IV, §404(c)(4), title V, §542(a), title VII, §703(j)(5), Nov. 6, 1978, 92 Stat. 2870, 2888, 2941; Pub. L. 97–34, title II, §202(d)(2), Aug. 13, 1981, 95 Stat. 221; Pub. L. 98–369, div. A, title IV, §474(r)(24), July 18, 1984, 98 Stat. 844; Pub. L. 101–508, title XI, §11813(b)(20), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13431(a), Aug. 10, 1993, 107 Stat. 567; Pub. L. 104–7, §3(a)(1), (b)(1), Apr. 11, 1995, 109 Stat. 94, 95; Pub. L. 104–188, title I, §§1119(a), (b), 1610(a), Aug. 20, 1996, 110 Stat. 1765, 1844; Pub. L. 105–34, title III, §312(d)(1), (7), title IX, §913(b), title X, §1087(a), Aug. 5, 1997, 111 Stat. 839, 840, 878, 959; Pub. L. 108–311, title IV, §408(a)(7)(C), Oct. 4, 2004, 118 Stat. 1191; Pub. L. 108–357, title III, §311(a), (b), Oct. 22, 2004, 118 Stat. 1466, 1467; Pub. L. 109–7, §1(b), Apr. 15, 2005, 119 Stat. 22.)
 
 #### References in Text
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (h)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (h)(3) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
+
+The National Flood Insurance Act, referred to in subsec. (k), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 #### Amendments
+
+2005—Subsecs. (k), (<i>l</i>). Pub. L. 109–7 added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
+
+2004—Subsec. (e). Pub. L. 108–357, §311(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (f). Pub. L. 108–357, §311(a), in heading, substituted “in certain cases” for “where there has been environmental contamination” and, in text, inserted “drought, flood, or other weather-related conditions, or” after “because of” and “in the case of soil contamination or other environmental contamination” after “including real property”.
+
+Subsec. (h)(3). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 
 1997—Subsec. (e). Pub. L. 105–34, §913(b), inserted “, flood, or other weather-related conditions” after “drought” in heading and “, flood, or other weather-related conditions” before period at end of text.
 
@@ -250,7 +278,7 @@ Related person.—For purposes of this subsection, a person is related to anothe
 
 Subsec. (k)(3). Pub. L. 105–34, §312(d)(7), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For one-time exclusion from gross income of gain from involuntary conversion of principal residence by individual who has attained age 55, see section 121.”
 
-1996—Subsec. (b). Pub. L. 104–188, §1610(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the property was acquired, after February 28, 1913, as the result of a compulsory or involuntary conversion described in subsection (a)(1) or section 112(f)(2) of the Internal Revenue Code of 1939, the basis shall be the same as in the case of the property so converted, decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made. This subsection shall not apply in respect of property acquired as a result of a compulsory or involuntary conversion of property used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurred after December 31, 1950, and before January 1, 1954. In the case of property purchased by the taxpayer in a transaction described insubsection (a)(3) which resulted in the nonrecognition of any part of the gain realized as the result of a compulsory or involuntary conversion, the basis shall be the cost of such property decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.”
+1996—Subsec. (b). Pub. L. 104–188, §1610(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the property was acquired, after February 28, 1913, as the result of a compulsory or involuntary conversion described in subsection (a)(1) or section 112(f)(2) of the Internal Revenue Code of 1939, the basis shall be the same as in the case of the property so converted, decreased in the amount of any money received by the taxpayer which was not expended in accordance with the provisions of law (applicable to the year in which such conversion was made) determining the taxable status of the gain or loss upon such conversion, and increased in the amount of gain or decreased in the amount of loss to the taxpayer recognized upon such conversion under the law applicable to the year in which such conversion was made. This subsection shall not apply in respect of property acquired as a result of a compulsory or involuntary conversion of property used by the taxpayer as his principal residence if the destruction, theft, seizure, requisition, or condemnation of such residence, or the sale or exchange of such residence under threat or imminence thereof, occurred after December 31, 1950, and before January 1, 1954. In the case of property purchased by the taxpayer in a transaction described in subsection (a)(3) which resulted in the nonrecognition of any part of the gain realized as the result of a compulsory or involuntary conversion, the basis shall be the cost of such property decreased in the amount of the gain not so recognized; and if the property purchased consists of more than one piece of property, the basis determined under this sentence shall be allocated to the purchased properties in proportion to their respective costs.”
 
 Subsec. (h). Pub. L. 104–188, §1119(b)(2), substituted “property” for “principal residences” in heading.
 
@@ -304,6 +332,14 @@ Subsecs. (g), (h). Pub. L. 85–866, §46(a), added subsec. (g) and redesignated
 
 1956—Subsecs. (f), (g). Act June 29, 1956, added subsec. (f) and redesignated former subsec. (f) as (g).
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–7, §1(c)(2), Apr. 15, 2005, 119 Stat. 22, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to sales or other dispositions before, on, or after the date of the enactment of this Act \[Apr. 15, 2005\].”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to any taxable year with respect to which the due date (without regard to extensions) for the return is after Dec. 31, 2002, see section 311(d) of Pub. L. 108–357, set out as a note under section 451 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 312(d)(1), (7) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
@@ -330,7 +366,7 @@ Section 13431(b) of Pub. L. 103–66 provided that: “The amendment made by sub
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -338,7 +374,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable yearsending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, see section 209(a) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -374,9 +410,5 @@ Section 5(b) of act June 29, 1956, provided that: “The amendment made by this 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 121, 139, 143, 165, 172, 197, 381, 453, 857, 1016, 1031, 1223, 1245, 1250, 1351, 1400L, 2032A, 2057, 6212, 6504, 7508A of this title; title 25 sections 1716, 1729, 1754; title 29 sections 1148, 1302.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

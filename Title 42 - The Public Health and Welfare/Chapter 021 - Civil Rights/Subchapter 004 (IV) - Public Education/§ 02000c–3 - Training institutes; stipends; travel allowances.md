@@ -1,6 +1,6 @@
 ### §2000c–3. Training institutes; stipends; travel allowances
 
-The Secretary is authorized to arrange, through grants or contracts, with institutions of higher education for the operation of short-term or regular session institutes for special training designed to improve the ability of teachers, supervisors, counselors, and other elementary or secondary school personnel to deal effectively with special educational problems occasioned by desegregation. Individuals who attend such an institute on a full-time basis may be paid stipends for the period of their attendance at such institute in amounts specified by the Secretary in regulations, including allowances for travel to attend such institute.
+The Secretary is authorized to arrange, through grants or contracts, with institutions of higher education for the operation of short-term or regular session institutes for special training designed to improve the ability of teachers, supervisors, counselors, and other elementary or secondary school personnel to deal effectivelywith special educational problems occasioned by desegregation. Individuals who attend such an institute on a full-time basis may be paid stipends for the period of their attendance at such institute in amounts specified by the Secretary in regulations, including allowances for travel to attend such institute.
 
 (Pub. L. 88–352, title IV, §404, July 2, 1964, 78 Stat. 247; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 

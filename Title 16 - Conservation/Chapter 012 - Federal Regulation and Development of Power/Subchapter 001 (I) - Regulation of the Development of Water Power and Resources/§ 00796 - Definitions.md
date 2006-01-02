@@ -26,7 +26,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(12) “project works” means the physical structures of a project;
 
-&emsp;(13) “net investment” in a project means the actual legitimate original cost thereof as defined and interpreted in the “classification of investment in road and equipment of steam roads, issue of 1914, Interstate Commerce Commission”, plus similar costs of additions thereto and betterments thereof, minus the sum of the following items properly allocated thereto, if and to the extent that such items have been accumulated during the period of the license from earnings in excess of a fair return on such investment: (a) Unappropriated surplus, (b) aggregate credit balances of current depreciation accounts, and (c) aggregate appropriations of surplus or income held in amortization, sinking fund, or similar reserves, or expended for additions or betterments or used for the purposes for which such reserves were created. The term “cost” shall include, insofar as applicable, the elements thereof prescribedin said classification, but shall not include expenditures from funds obtained through donations by States, municipalities, individuals, or others, and said classification of investment of the Interstate Commerce Commission shall insofar as applicable be published and promulgated as a part of the rules and regulations of the Commission;
+&emsp;(13) “net investment” in a project means the actual legitimate original cost thereof as defined and interpreted in the “classification of investment in road and equipment of steam roads, issue of 1914, Interstate Commerce Commission”, plus similar costs of additions thereto and betterments thereof, minus the sum of the following items properly allocated thereto, if and to the extent that such items have been accumulated during the period of the license from earnings in excess of a fair return on such investment: (a) Unappropriated surplus, (b) aggregate credit balances of current depreciation accounts, and (c) aggregate appropriations of surplus or income held in amortization, sinking fund, or similar reserves, or expended for additions or betterments or used for the purposes for which such reserves were created. The term “cost” shall include, insofar as applicable, the elements thereof prescribed in said classification, but shall not include expenditures from funds obtained through donations by States, municipalities, individuals, or others, and said classification of investment of the Interstate Commerce Commission shall insofar as applicable be published and promulgated as a part of the rules and regulations of the Commission;
 
 &emsp;(14) “Commission” and “Commissioner” means the Federal Power Commission, and a member thereof, respectively;
 
@@ -50,11 +50,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;&emsp;&emsp;(II) emergencies, directly affecting the public health, safety, or welfare, which would result from electric power outages;
 
-&emsp;(C) “qualifying small power production facility” means a small power production facility—
-
-&emsp;&emsp;(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
-
-&emsp;&emsp;(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);
+&emsp;(C) “qualifying small power production facility” means a small power production facility that the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe;
 
 &emsp;(D) “qualifying small power producer” means the owner or operator of a qualifying small power production facility;
 
@@ -74,11 +70,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;&emsp;(ii) steam or forms of useful energy (such as heat) which are used for industrial, commercial, heating, or cooling purposes;
 
-&emsp;(B) “qualifying cogeneration facility” means a cogeneration facility which—
-
-&emsp;&emsp;(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
-
-&emsp;&emsp;(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);
+&emsp;(B) “qualifying cogeneration facility” means a cogeneration facility that the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe;
 
 &emsp;(C) “qualifying cogenerator” means the owner or operator of a qualifying cogeneration facility;
 
@@ -88,27 +80,79 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(21) “State regulatory authority” has the same meaning as the term “State commission”, except that in the case of an electric utility with respect to which the Tennessee Valley Authority has ratemaking authority (as defined in section 2602 of this title), such term means the Tennessee Valley Authority;
 
-&emsp;(22) “electric utility” means any person or State agency (including any municipality) which sells electric energy; such term includes the Tennessee Valley Authority, but does not include any Federal power marketing agency.<sup>1</sup>
+&emsp;(22)
+
+Electric utility.—(A) The term “electric utility” means a person or Federal or State agency (including an entity described in section 824(f) of this title) that sells electric energy.<sup>1</sup>
+
+&emsp;(B) The term “electric utility” includes the Tennessee Valley Authority and each Federal power marketing administration.
 
 &emsp;(23)
 
-Transmitting utility.—The term “transmitting utility” means any electric utility, qualifying cogeneration facility, qualifying small power production facility, or Federal power marketing agency which owns or operates electric power transmission facilities which are used for the sale of electric energy at wholesale.<sup>1</sup>
+Transmitting utility.—The term “transmitting utility” means an entity (including an entity described in section 824(f) of this title) that owns, operates, or controls facilities used for the transmission of electric energy—
+
+&emsp;&emsp;(A) in interstate commerce;
+
+&emsp;&emsp;(B) for the sale of electric energy at wholesale.<sup>1</sup>
 
 &emsp;(24)
 
-Wholesale transmission services.—The term “wholesale transmission services” means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>2</sup>
+Wholesale transmission services.—The term “wholesale transmission services” means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>1</sup>
 
 &emsp;(25)
 
-Exempt wholesale generator.—The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a of title 15.
+Exempt wholesale generator.—The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a <sup>2</sup> of title 15.<sup>1</sup>
 
-(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, §201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, §643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, §3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, §726, Oct. 24, 1992, 106 Stat. 2921.)
+&emsp;(26)
+
+Electric cooperative.—The term “electric cooperative” means a cooperatively owned electric utility.<sup>1</sup>
+
+&emsp;(27) RTO.—The term “Regional Transmission Organization” or “RTO” means an entity of sufficient regional scope approved by the Commission—
+
+&emsp;&emsp;(A) to exercise operational or functional control of facilities used for the transmission of electric energy in interstate commerce; and
+
+&emsp;&emsp;(B) to ensure nondiscriminatory access to the facilities.<sup>1</sup>
+
+&emsp;(28) ISO.—The term “Independent System Operator” or “ISO” means an entity approved by the Commission—
+
+&emsp;&emsp;(A) to exercise operational or functional control of facilities used for the transmission of electric energy in interstate commerce; and
+
+&emsp;&emsp;(B) to ensure nondiscriminatory access to the facilities.<sup>3</sup>
+
+&emsp;(29)
+
+Transmission organization.—The term “Transmission Organization” means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
+
+(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, §201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, §643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, §3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, §726, Oct. 24, 1992, 106 Stat. 2921; Pub. L. 109–58, title XII, §§1253(b), 1291(b), Aug. 8, 2005, 119 Stat. 970, 984.)
 
 #### References in Text
 
 The public land laws, referred to in pars. (1), (2), are classified generally to Title 43, Public Lands.
 
+Section 79z–5a of title 15, referred to in par. (25), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
+
 #### Amendments
+
+2005—Par. (17)(C). Pub. L. 109–58, §1253(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “ ‘qualifying small power production facility’ means a small power production facility—
+
+&emsp;“(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
+
+&emsp;“(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
+
+Par. (18)(B). Pub. L. 109–58, §1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
+
+&emsp;“(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
+
+&emsp;“(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
+
+Pars. (22), (23). Pub. L. 109–58, §1291(b)(1), added pars. (22) and (23) and struck out former pars. (22) and (23) which read as follows:
+
+“(22) ‘electric utility’ means any person or State agency (including any municipality) which sells electric energy; such term includes the Tennessee Valley Authority, but does not include any Federal power marketing agency.
+
+“(23)
+
+Transmitting utility.—The term ‘transmitting utility’ means any electric utility, qualifying cogeneration facility, qualifying small power production facility, or Federal power marketing agency which owns or operates electric power transmission facilities which are used for the sale of electric energy at wholesale.”
+
+Pars. (26) to (29). Pub. L. 109–58, §1291(b)(2), added pars. (26) to (29).
 
 1992—Par. (22). Pub. L. 102–486, §726(b), inserted “(including any municipality)” after “State agency”.
 
@@ -136,9 +180,9 @@ Section 4 of Pub. L. 101–575 provided that: “Unless the Federal Energy Regul
 
 #### State Authorities; Construction
 
-Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of Title 15, Commerce and Trade.
+Pub. L. 102–486, title VII, §731, Oct. 24, 1992, 106 Stat. 2921, provided that: “Nothing in this title \[enacting sections 824<i>l</i>, 824m, and 825<i>o</i>–1 of this title and former sections 79z–5a and 79z–5b of Title 15, Commerce and Trade, and amending this section, sections 824, 824j, 824k, 825n, 825<i>o</i>, and 2621 of this title, and provisions formerly set out as a note under former section 79k of Title 15\] or in any amendment made by this title shall be construed as affecting or intending to affect, or in any way to interfere with, the authority of any State or local government relating to environmental protection or the siting of facilities.”
 
-#### Transfer of Functions
+#### Termination of Federal Power Commission; Transfer of Functions
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
@@ -148,5 +192,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should be “; and”.</i>
 

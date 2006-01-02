@@ -72,7 +72,3 @@ Requirement.—Not later than 30 days after the date on which a decision is made
 
 New Weapon System Defined.—For purposes of this section, the term ‘new weapon system’ means any military aircraft or major naval combatant vessel for which a complete permanent basing plan has not been publicly announced before the date of the enactment of this Act \[Dec. 5, 1991\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113a, 2667 of this title.
-

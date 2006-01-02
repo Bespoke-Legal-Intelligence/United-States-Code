@@ -10,7 +10,7 @@ The Commission shall consist of 13 members as follows:
 
 &emsp;(1) 3 members appointed by the Secretary, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the National Park Service.
 
-&emsp;(2) 3 members appointed by the Secretary after consideration of recommendations submitted by the Governor of the State of Ohio, who shall have demonstrated expertise in aviation history, black history and literature,aviation technology, or historic preservation, at least one of whom shall represent the Ohio Historical Society.
+&emsp;(2) 3 members appointed by the Secretary after consideration of recommendations submitted by the Governor of the State of Ohio, who shall have demonstrated expertise in aviation history, black history and literature, aviation technology, or historic preservation, at least one of whom shall represent the Ohio Historical Society.
 
 &emsp;(3) 1 member appointed by the Secretary of Defense, who shall represent Wright-Patterson Air Force Base.
 
@@ -26,7 +26,7 @@ The Commission shall consist of 13 members as follows:
 
 (1) Members shall be appointed for terms of 3 years. A member may be reappointed only 3 times unless such member was originally appointed to fill a vacancy pursuant to subsection (e)(1) of this section, in which case such member may be reappointed 4 times. A member may serve after the expiration of his term until a successor is appointed.
 
-(2) The Secretary shall appoint the first members of the Commission within 30 days after the date on which the Secretary has received all of the recommendations for appointment pursuant to subsections <sup>1</sup> (b)(2), (4), (5), (6), and (7) of this section.
+(2) The Secretary shall appoint the first members of the Commission within 30 days after the date on which the Secretary has received all ofthe recommendations for appointment pursuant to subsections <sup>1</sup> (b)(2), (4), (5), (6), and (7) of this section.
 
 #### (d) Chair and vice chair
 

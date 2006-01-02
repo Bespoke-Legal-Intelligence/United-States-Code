@@ -58,7 +58,7 @@ Subsec. (c)(7). Pub. L. 100–647, §1013(a)(34)(A), amended par. (7), as in eff
 
 1986—Pub. L. 99–514, §1301(a), in amending section generally, substituted “Interest on State and local bonds” for “Interest on certain governmental obligations” in section catchline.
 
-Subsec. (a). Pub. L. 99–514, §1301(a), substituted “Exclusion” for “General rule” in heading and amended text generally. Prior to amendment, text read as follows: “Gross income does not include interest on—
+Subsec. (a). Pub. L. 99–514, §1301(a), substituted “Exclusion” for “General rule” in heading and amendedtext generally. Prior to amendment, text read as follows: “Gross income does not include interest on—
 
 &emsp;“(1) the obligations of a State, a Territory, or a possession of the United States, or any political subdivision of any of the foregoing, or of the District of Columbia; and
 
@@ -246,7 +246,7 @@ Subsec. (g). Pub. L. 95–339 redesignated second subsec. (e), relating to cross
 
 Subsec. (b). Pub. L. 94–455, §1901(a)(17)(B), (C), redesignated subsec. (c) as (b) and in par. (1) of subsec. (b) as so redesignated substituted “subsection (a)(1) or (2)” for “subsection (a)(1)”. Former subsec. (b), which created an exception to the rule that gross income did not include interest on obligations of the United States, by providing that the exception did not apply to obligations of the United States (with specified exceptions) unless under the authorizing Acts such interest is wholly exempt from the taxes imposed by this subtitle, was struck out.
 
-Subsec. (c). Pub. L. 94–455, §§1901(a)(17)(B), (D), (b)(8)(B), 1906(b)(13)(A), 2105(c), redesignated subsec. (d) as (c) and, in subsec. (c) as so redesignated, substituted “(a)(1) or (4)” for “(a)(1)” in par. (1) and “(a)(1) or (2) or (4)” for “(a)(1)” in par. (2)(A), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (within the meaning of section 151(e)(4))” in par. (3)(A), added par. (5), redesignated former par. (5) as (6), and in par. (6) as so redesignated substituted “Secretary” for “Secretary or his delegate”. Former subsec. (c) redesignated (b). See Codification note above.
+Subsec. (c). Pub. L. 94–455, §§1901(a)(17)(B), (D), (b)(8)(B), 1906(b)(13)(A), 2105(c), redesignated subsec. (d) as (c) and, in subsec. (c) as so redesignated, substituted “(a)(1) or (4)” for “(a)(1)” in par. (1) and “(a)(1) or (2) or (4)” for “(a)(1)” in par. (2)(A), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (within the meaning of section 151(e)(4))” in par. (3)(A), added par. (5), redesignated former par. (5) as (6), and in par. (6) as so redesignated substituted “Secretary” for “Secretary or his delegate”. Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 94–455, §1901(a)(17)(B), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
@@ -278,7 +278,7 @@ Section 1013(a)(34)(B) of Pub. L. 100–647 provided that: “Subparagraph (A) \
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(a) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except asotherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(a) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by sections 1864(b)–(e), 1865(a), 1869(a), (b), 1870, and 1871(b) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -357,7 +357,7 @@ Refunding exception.—The amendments made by this section \[amending this secti
 
 “(5)
 
-Exception for certain established programs.—The amendments made by this section \[amending this section\] shall not apply to any obligation substantially all of the proceeds of which are used to carry out a program established under State law which has been in effect in substantially the same form during the 30-year period ending on the date of enactment of this Act \[July 18, 1984\], but only if such proceeds are used to make loans or to fund similar obligations—
+Exception for certain established programs.—The amendments made by this section \[amending thissection\] shall not apply to any obligation substantially all of the proceeds of which are used to carry out a program established under State law which has been in effect in substantially the same form during the 30-year period ending on the date of enactment of this Act \[July 18, 1984\], but only if such proceeds are used to make loans or to fund similar obligations—
 
 &emsp;“(A) in the same manner in which,
 
@@ -465,7 +465,7 @@ Other Provisions Relating to Tax-Exempt Bonds.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided in this subtitle, the amendments made by sections 622, 623, 627, and 628(c), (d), and (e) (and the provisions of sections 625(c), 628(f), and 629(b)) \[amending this section and enacting provisions set out as notes under this section\] shall apply to obligations issued after December 31, 1983.
+In general.—Except as otherwise provided in this subtitle, the amendments made by sections 622, 623, 627, and 628(c), (d), and (e) (and the provisions of sections 625(c), 628(f), and 629(b)) \[amending this section and enacting provisions set out as notes underthis section\] shall apply to obligations issued after December 31, 1983.
 
 &emsp;“(2)
 
@@ -789,7 +789,7 @@ Limitations.—
 
 &emsp;“(A) In the case of a solid waste disposal facility described in paragraph (2)(A), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $65,000,000.
 
-&emsp;“(B) In the case of a solid waste disposal facility described in paragraph (2)(B), the aggregate faceamount of obligations to which paragraph (1) applies shall not exceed $20,000,000. Such amount shall be in addition to the amount permitted under the Internal Revenue Service ruling referred to in paragraph (2)(B)(ii).
+&emsp;“(B) In the case of a solid waste disposal facility described in paragraph (2)(B), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $20,000,000. Such amount shall be in addition to the amount permitted under the Internal Revenue Service ruling referred to in paragraph (2)(B)(ii).
 
 &emsp;“(C) In the case of a solid waste disposal facility described in paragraph (2)(C), the aggregate face amount of obligations to which paragraph (1) applies shall not exceed $75,000,000.
 
@@ -851,7 +851,7 @@ Tax increment bonds.—The amendment made by section 626(a) of the Tax Reform Ac
 
 &emsp;“(B) all of the activities described in subparagraph (A) are pursuant to a redevelopment plan adopted by the issuing authority before the issuance of such issue,
 
-&emsp;“(C) repayment of such issue is secured exclusively by pledges of that portion of any increase in real property tax revenues (or their equivalent) attributable to the redevelopment resulting from the issue (or similar issues), and
+&emsp;“(C) repayment of such issue is secured exclusively by pledges of that portion of any increase in realproperty tax revenues (or their equivalent) attributable to the redevelopment resulting from the issue (or similar issues), and
 
 &emsp;“(D) none of the property described in subparagraph (A) is subject to a real property or other tax based on a rate or valuation method which differs from the rate and valuation method applicable to any other similar property located within the jurisdiction of the issuing authority.
 
@@ -955,7 +955,7 @@ Section 628(f) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Small Issue Limit in Case of Certain Urban Development Action Grants
 
-Section 628(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any obligation issued on December 11, 1981, section 103(b)(6)(I) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied by substituting ‘$15,000,000’ for ‘$10,000,000’ if—
+Section 628(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any obligation issued on December 11,1981, section 103(b)(6)(I) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied by substituting ‘$15,000,000’ for ‘$10,000,000’ if—
 
 &emsp;“(1) such obligation is part of an issue,
 
@@ -965,7 +965,7 @@ Section 628(h) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Student Loan Bonds
 
-Section 625 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1868, Oct. 22, 1986, 100 Stat. 2095, 2888, provided that:
+Pub. L. 98–369, div. A, title VI, §625, July 18, 1984, 98 Stat. 924, as amended by Pub. L. 99–514, §2, title XVIII, §1868, Oct. 22, 1986, 100 Stat. 2095, 2888, provided that:
 
 “(a)
 
@@ -1059,7 +1059,7 @@ In general.—The Comptroller General of the United States and the Director of t
 
 &emsp;“(2)
 
-Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\].”
+Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act \[July 18, 1984\].”
 
 #### Obligations Issued To Provide Solid Waste-Energy Producing Facilities
 
@@ -1075,7 +1075,7 @@ Solid waste-energy producing facilities.—For purposes of paragraph (1), the te
 
 &emsp;“(A) substantially all of the fuel for the facility producing steam and electrical energy is derived from solid waste from such solid waste disposal facility,
 
-&emsp;“(B) both such solid waste disposal facility and the facility producing steam and electrical energy are owned and operated by the authority referred to in paragraph (1), and
+&emsp;“(B) both such solid waste disposal facility and the facility producing steam and electrical energy areowned and operated by the authority referred to in paragraph (1), and
 
 &emsp;“(C) all of the electrical energy and steam produced by the facility for producing steam and electricity which is not used by such facility is sold, for purposes other than resale, to an agency or instrumentality of the United States.
 
@@ -1236,8 +1236,4 @@ Section 107(b)(2) of Pub. L. 90–364, as amended by Pub. L. 99–514, §2, Oct.
 &emsp;“(C) any person (other than a governmental unit) who will use the proceeds to be derived from the sale of such obligation or the property to be acquired or improved with such proceeds has expended (or has entered into a binding contract to expend) for purposes which are related to the use of such proceeds or property, an amount equal to or in excess of 20 percent of such proceeds; or
 
 &emsp;“(D) in the case of an obligation issued in conjunction with a project where financial assistance will be provided by a governmental agency concerned with economic development, such agency has approved the project or an application for financial assistance is pending.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 29, 42, 45, 45D, 48, 57, 142, 143, 144, 145, 148, 149, 150, 168, 265, 465, 593, 643, 646, 667, 772, 811, 832, 834, 842, 851, 871, 1275, 1276, 1278, 1400L, 4940, 4942, 6049, 7478, 7518, 7701, 7871 of this title; title 7 section 608c; title 12 sections 1441a, 1831q; title 15 sections 77c, 78c; title 16 sections 839f, 2708; title 19 section 2345; title 45 section 1207; title 46 App. section 1177; title 48 sections 1574, 1670.
 

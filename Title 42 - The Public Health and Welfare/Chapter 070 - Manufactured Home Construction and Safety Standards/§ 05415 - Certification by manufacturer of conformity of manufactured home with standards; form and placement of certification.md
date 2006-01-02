@@ -1,6 +1,6 @@
 ### §5415. Certification by manufacturer of conformity of manufactured home with standards; form and placement of certification
 
-Every manufacturer of manufactured homes shall furnish to the distributor or retailer at the time of delivery of each such manufactured home produced by such manufacturer certification that such manufactured home conforms to all applicable Federal construction and safety standards. Such certification shall be in the form of a label or tag permanently affixed to each such manufactured home.
+Every manufacturer of manufactured homes shall furnish to the distributor or retailer at the time of delivery of each such manufacturedhome produced by such manufacturer certification that such manufactured home conforms to all applicable Federal construction and safety standards. Such certification shall be in the form of a label or tag permanently affixed to each such manufactured home.
 
 (Pub. L. 93–383, title VI, §616, Aug. 22, 1974, 88 Stat. 711; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §603(b)(4), Dec. 27, 2000, 114 Stat. 2999.)
 

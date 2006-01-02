@@ -22,7 +22,3 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 1998—Subsecs. (c), (d). Pub. L. 105–362 redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to recommendations to Congress for legislation following a Presidential determination that a major industrial country failed to grant equivalent concessions.
 
-#### Transactions Involving Libya
-
-This section to have no effect with respect to Libya in view of prohibition of import into United States of any goods or services of Libyan origin other than publications and materials imported for news publications or broadcast dissemination, see Ex. Ord. No. 12543, Jan. 7, 1986, 51 F.R. 875, set out under section 1701 of Title 50, War and National Defense.
-

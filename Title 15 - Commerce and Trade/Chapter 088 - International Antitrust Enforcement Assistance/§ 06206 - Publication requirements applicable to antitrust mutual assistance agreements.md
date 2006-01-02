@@ -18,7 +18,7 @@ Not less than 45 days before an agreement is entered into that makes an amendmen
 
 #### (c) Publication of antitrust mutual assistance agreements, amendments, and terminations
 
-Not later than 45 days after an antitrust mutual assistance agreement is entered into or terminated, or an agreement that makes an amendment to an antitrust mutual assistance agreement is entered into, the Attorney General, with the concurrence of the Commission, shall publish in the Federal Register—
+Not later than 45 days after an antitrust mutual assistance agreement is entered into or terminated, or an agreement that makes an amendment to an antitrust mutual assistance agreement is entered into, the Attorney General, withthe concurrence of the Commission, shall publish in the Federal Register—
 
 &emsp;(1) the text of the antitrust mutual assistance agreement or amendment, or the terms of the termination, as the case may be, and
 

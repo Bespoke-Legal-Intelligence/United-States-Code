@@ -2,19 +2,27 @@
 
 #### (a) Authorization
 
-There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.
+There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2007 through 2011.
 
 #### (b) Limitation
 
 No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611 et seq.) for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
-(Pub. L. 101–647, title II, §218, Nov. 29, 1990, 104 Stat. 4796; Pub. L. 103–322, title IV, §40156(a)(1), Sept. 13, 1994, 108 Stat. 1922; Pub. L. 106–386, div. B, title III, §1302(a), Oct. 28, 2000, 114 Stat. 1511.)
+#### (c) Prohibition on lobbying
+
+No funds authorized under this subchapter may be used for lobbying activities in contravention of OMB Circular No. A–122.
+
+(Pub. L. 101–647, title II, §219, formerly §218, Nov. 29, 1990, 104 Stat. 4796; Pub. L. 103–322, title IV, §40156(a)(1), Sept. 13, 1994, 108 Stat. 1922; Pub. L. 106–386, div. B, title III, §1302(a), Oct. 28, 2000, 114 Stat. 1511; renumbered §219 and amended Pub. L. 109–162, title I, §112(d)(1), (e), Jan. 5, 2006, 119 Stat. 2986.)
 
 #### References in Text
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title II of the Act is classified principally to subchapter II (§5611 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–162, §112(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
+
+Subsec. (c). Pub. L. 109–162, §112(e)(2), added subsec. (c).
 
 2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
 

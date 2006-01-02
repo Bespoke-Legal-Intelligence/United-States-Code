@@ -2,7 +2,7 @@
 
 (a)
 
-Transfer Authorized.—Subject to subsection (b), the Secretary of Defense may transfer to a firefighting agency in a State any personal property of the Department of Defense that the Secretary determines is—
+Transfer Authorized.—Subject to subsection (b), the Secretary of Defense shall transfer to a firefighting agency in a State any personal property of the Department of Defense that the Secretary determines is—
 
 &emsp;(1) excess to the needs of the Department of Defense; and
 
@@ -10,7 +10,7 @@ Transfer Authorized.—Subject to subsection (b), the Secretary of Defense may t
 
 (b)
 
-Conditions for Transfer.—The Secretary of Defense may transfer personal property under this section only if—
+Conditions for Transfer.—The Secretary of Defense shall transfer personal property under this section only if—
 
 &emsp;(1) the property is drawn from existing stocks of the Department of Defense;
 
@@ -36,7 +36,11 @@ State.—The term “State” includes the District of Columbia, the Commonwealt
 
 Firefighting agency.—The term “firefighting agency” means any volunteer, paid, or combined departments that provide fire and emergency medical services.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1706(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–367.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1706(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–367; amended Pub. L. 108–375, div. A, title III, §354, Oct. 28, 2004, 118 Stat. 1861.)
+
+#### Amendments
+
+2004—Subsecs. (a), (b). Pub. L. 108–375 substituted “shall” for “may” in introductory provisions.
 
 #### Identification of Defense Technologies Suitable for Use, or Conversion for Use, in Providing Fire and Emergency Medical Services
 

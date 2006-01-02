@@ -1,6 +1,6 @@
 ### §§3044 to 3044e. Repealed. Pub. L. 93–113, title VI, §604(a), Oct. 1, 1973, 87 Stat. 417
 
-Section 3044, Pub. L. 89–73, title VI, §601, as added Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 111; amended Pub. L. 93–29, title VI, §601, May 3, 1973, 87 Stat. 55, related to grants and contracts for volunteer serviceprojects, providing in: subsec. (a) for approval of programs and rules and regulations; subsec. (b) for method of payment; subsec. (c) for conditions upon award of grant or contract, and subsec. (d) for exclusion as income of compensation to individual volunteers.
+Section 3044, Pub. L. 89–73, title VI, §601, as added Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 111; amended Pub. L. 93–29, title VI, §601, May 3, 1973, 87 Stat. 55, related to grants and contracts for volunteer service projects, providing in: subsec. (a) for approval of programs and rules and regulations; subsec. (b) for method of payment; subsec. (c) for conditions upon award of grant or contract, and subsec. (d) for exclusion as income of compensation to individual volunteers.
 
 Section 3044a, Pub. L. 89–73, title VI, §603, as added Pub. L. 91–69, §9, Sept. 17, 1969, 83 Stat. 112; amended Pub. L. 93–29, title VI, §602, May 3, 1973, 87 Stat. 55, related to authorization of appropriations.
 

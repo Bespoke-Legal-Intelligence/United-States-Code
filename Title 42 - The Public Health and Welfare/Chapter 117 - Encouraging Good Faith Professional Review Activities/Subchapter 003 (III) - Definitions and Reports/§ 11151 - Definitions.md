@@ -52,7 +52,7 @@ In this chapter:
 
 &emsp;(13) The term “State” means the 50 States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-&emsp;(14) The term “State licensing board” means, with respect to a physician or health care provider in a State, the agency of theState which is primarily responsible for the licensing of the physician or provider to furnish health care services.
+&emsp;(14) The term “State licensing board” means, with respect to a physician or health care provider in a State, the agency of the State which is primarily responsible for the licensing of the physician or provider to furnish health care services.
 
 (Pub. L. 99–660, title IV, §431, Nov. 14, 1986, 100 Stat. 3792.)
 

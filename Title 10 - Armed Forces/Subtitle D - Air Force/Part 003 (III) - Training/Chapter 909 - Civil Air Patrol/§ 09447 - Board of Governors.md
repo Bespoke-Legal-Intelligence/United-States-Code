@@ -34,7 +34,7 @@ Powers.—(1) The Board of Governors shall, subject to paragraphs (2) and (3), e
 
 (f)
 
-Personal Liability for Breach of a Fiduciary Duty.—(1) Subject to paragraph (2), the Board of Governors may take such action as is necessary to limit the personal liability of a member of the Board of Governors to the Civil Air Patrol, or to any of its members, for monetary damages for a breach of fiduciary duty while serving as a member of the Board.
+Personal Liability for Breach of a Fiduciary Duty.—(1) Subject to paragraph (2), the Board of Governors may take such action as isnecessary to limit the personal liability of a member of the Board of Governors to the Civil Air Patrol, or to any of its members, for monetary damages for a breach of fiduciary duty while serving as a member of the Board.
 
 (2) The Board may not limit the liability of a member of the Board of Governors to the Civil Air Patrol, or to any of its members, for monetary damages for any of the following:
 
@@ -48,7 +48,7 @@ Personal Liability for Breach of a Fiduciary Duty.—(1) Subject to paragraph (2
 
 (g)
 
-Personal Liability for Breach of a Fiduciary Duty.—(1) Except as provided in paragraph (2), no member of the Board of Governors or officer of the Civil Air Patrol shall be personally liable for damages for any injury or deathor loss or damage of property resulting from a tortious act or omission of an employee or member of the Civil Air Patrol.
+Personal Liability for Breach of a Fiduciary Duty.—(1) Except as provided in paragraph (2), no member of the Board of Governors or officer of the Civil Air Patrol shall be personally liable for damages for any injury or death or loss or damage of property resulting from a tortious act or omission of an employee or member of the Civil Air Patrol.
 
 (2) Paragraph (1) does not apply to a member of the Board of Governors or officer of the Civil Air Patrol for a tortious act or omission in which the member or officer, as the case may be, was personally involved, whether in breach of a civil duty or in commission of a criminal offense.
 
@@ -57,8 +57,4 @@ Personal Liability for Breach of a Fiduciary Duty.—(1) Except as provided in p
 (4) The protections provided under this subsection are in addition to the protections provided under subsection (f).
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–298.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 36 section 40303.
 

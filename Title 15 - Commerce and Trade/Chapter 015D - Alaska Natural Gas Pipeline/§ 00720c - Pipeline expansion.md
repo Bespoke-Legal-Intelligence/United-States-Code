@@ -30,7 +30,7 @@ Any order of the Commission issued in accordance with this section shall be void
 
 #### (d) Limitation
 
-Nothing in this section expands or otherwise affects any authority of the Commission withrespect to any natural gas pipeline located outside the State.
+Nothing in this section expands or otherwise affects any authority of the Commission with respect to any natural gas pipeline located outside the State.
 
 #### (e) Regulations
 

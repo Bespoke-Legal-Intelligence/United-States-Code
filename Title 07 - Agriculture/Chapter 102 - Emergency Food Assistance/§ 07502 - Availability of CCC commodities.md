@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, the programs authorized by section 7
 
 (2) In determining the commodities that will be made available to emergency feeding organizations under this chapter, the Secretary may distribute commodities that become available on a seasonal or irregular basis.
 
-(Pub. L. 98–8, title II, §202, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(3), (4), Sept. 2, 1983, 97 Stat. 609; Pub. L. 99–198, title XV, §§1564(a), 1565(a), Dec. 23, 1985, 99 Stat. 1591; Pub. L. 100–77, title VIII, §811, July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title I, §101, Sept. 19, 1988, 102 Stat. 1647; Pub. L. 101–624, title XVII, §1772(b), Nov. 28, 1990, 104 Stat. 3808.)
+(Pub. L. 98–8, title II, §202, Mar. 24, 1983, 97 Stat. 35; Pub. L. 98–92, §2(3), (4), Sept. 2, 1983, 97 Stat. 609; Pub. L. 99–198, title XV, §§1564(a), 1565(a), Dec. 23, 1985, 99 Stat. 1591; Pub. L. 100–77, titleVIII, §811, July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title I, §101, Sept. 19, 1988, 102 Stat. 1647; Pub. L. 101–624, title XVII, §1772(b), Nov. 28, 1990, 104 Stat. 3808.)
 
 #### References in Text
 

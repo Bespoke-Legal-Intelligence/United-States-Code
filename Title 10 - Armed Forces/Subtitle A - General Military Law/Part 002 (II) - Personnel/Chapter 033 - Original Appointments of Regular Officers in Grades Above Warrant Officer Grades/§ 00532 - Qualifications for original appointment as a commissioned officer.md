@@ -4,7 +4,7 @@
 
 &emsp;(1) is a citizen of the United States;
 
-&emsp;(2) is able to complete 20 years of active commissioned service before his fifty-fifth birthday;
+&emsp;(2) is able to complete 20 years of active commissioned service before his sixty-second birthday;
 
 &emsp;(3) is of good moral character;
 
@@ -30,11 +30,21 @@
 
 (2) A reserve commissioned officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense) is not subject to clause (2) of subsection (a).
 
-(e) After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component.
+\[(e) Repealed. Pub. L. 108–375, div. A, title V, §501(a)(1), Oct. 28, 2004, 118 Stat. 1872.\]
 
-(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–295, §1(7), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 102–190, div. A, title V, §501, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–160, div. A, title V, §510, Nov. 30, 1993, 107 Stat. 1648.)
+(f) The Secretary of Defense may waive the requirement of paragraph (1) of subsection (a) withrespect to a person who has been lawfully admitted to the United States for permanent residence, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title, when the Secretary determines that the national security so requires, but only for an original appointment in a grade below the grade of major or lieutenant commander.
+
+(Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–295, §1(7), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 102–190, div. A, title V, §501, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–160, div. A, title V, §510, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 108–375, div. A, title V, §501(a)(1)–(3)(A), Oct. 28, 2004, 118 Stat. 1872; Pub. L. 109–163, div. A, title V, §534(c), Jan. 6, 2006, 119 Stat. 3248.)
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163 inserted “, or for a United States national otherwise eligible for appointment as a cadet or midshipman under section 2107(a) of this title or as a cadet under section 2107a of this title,” after “for permanent residence”.
+
+2004—Subsec. (a)(2). Pub. L. 108–375, §501(a)(2), substituted “sixty-second birthday” for “fifty-fifth birthday”.
+
+Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: “After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component.”
+
+Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 
 1993—Subsec. (d). Pub. L. 103–160 designated existing provisions as par. (1) and added par. (2).
 
@@ -44,11 +54,11 @@
 
 1981—Subsec. (d). Pub. L. 97–22 substituted “medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps” for “medical officer or dental officer or as a chaplain”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 501(a)(1) of Pub. L. 108–375 effective on May 1, 2005, and amendment by section 501(a)(2), (3)(A) of Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
+
 #### Appointment of Citizens of Northern Mariana Islands as Commissioned Officers
 
 Pub. L. 98–94, title X, §1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islands who indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers’ Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under section 1801 of Title 48, Territories and Insular Possessions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5589, 16401 of this title; title 33 section 3021.
 

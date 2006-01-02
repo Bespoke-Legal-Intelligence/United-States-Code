@@ -22,21 +22,21 @@
 
 There is authorized to be appropriated to carry out this section—
 
-&emsp;(1) $9,000,000 for fiscal year 1995;
+&emsp;(1) $20,000,000 for fiscal year 2006;
 
-&emsp;(2) $7,200,000 for fiscal year 1996;
+&emsp;(2) $20,000,000 for fiscal year 2007;
 
-&emsp;(3) $7,200,000 for fiscal year 1997;
+&emsp;(3) $20,000,000 for fiscal year 2008;
 
-&emsp;(4) $7,200,000 for fiscal year 1998;
+&emsp;(4) $20,000,000 for fiscal year 2009; and
 
-&emsp;(5) $7,200,000 for fiscal year 1999; and
+&emsp;(5) $20,000,000 for fiscal year 2010.
 
-&emsp;(6) $7,720,000 for fiscal year 2000.
-
-(Pub. L. 103–322, title III, §32401, Sept. 13, 1994, 108 Stat. 1902; Pub. L. 107–296, title XI, §1112(p), Nov. 25, 2002, 116 Stat. 2278.)
+(Pub. L. 103–322, title III, §32401, Sept. 13, 1994, 108 Stat. 1902; Pub. L. 107–296, title XI, §1112(p), Nov. 25, 2002, 116 Stat. 2278; Pub. L. 109–162, title XI, §1188, Jan. 5, 2006, 119 Stat. 3128.)
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–162, which directed the amendment of section 32401(b) of the Violent Crime Control Act of 1994 by adding pars. (1) to (5) and striking out former pars. (1) to (6), was executed by making the amendments to this section, which is section 32401(b) of the Violent Crime Control and Law Enforcement Act of 1994, to reflect the probable intent of Congress. Former pars. (1) to (6) authorized appropriations for fiscal years 1995 through 2000.
 
 2002—Subsec. (a). Pub. L. 107–296, §1112(p)(1), substituted “Attorney General” for “Secretary of the Treasury” wherever appearing.
 

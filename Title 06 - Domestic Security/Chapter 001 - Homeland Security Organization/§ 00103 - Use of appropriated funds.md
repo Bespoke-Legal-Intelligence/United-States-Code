@@ -12,3 +12,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 A prior section 1714 of Pub. L. 107–296 amended section 300aa–33 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 108–7, div. L, §102(a), Feb. 20, 2003, 117 Stat. 528.
 
+#### Notifications for Reprogramming or Transfer of Funds
+
+Pub. L. 109–90, title V, §503(e), Oct. 18, 2005, 119 Stat. 2082, provided that: “Hereafter, notwithstanding any other provision of law, notifications pursuant to this section or any other authority for reprogramming or transfer of funds shall be made solely to the Committees on Appropriations of the Senate and the House of Representatives.”
+

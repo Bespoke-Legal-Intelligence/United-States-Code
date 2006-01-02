@@ -26,7 +26,7 @@ In carrying out subsection (a) of this section, the Librarian of Congress shall 
 
 &emsp;&emsp;(A) by the Public Printer pursuant to the provisions of chapter 5 of title 44;
 
-&emsp;&emsp;(B) under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e) of this section, and a publisher in the private sector; or
+&emsp;&emsp;(B) under a cooperative arrangement among the Librarian of Congress, a privatefunding source obtained pursuant to subsection (e) of this section, and a publisher in the private sector; or
 
 &emsp;&emsp;(C) under subparagraphs (A) and (B).
 

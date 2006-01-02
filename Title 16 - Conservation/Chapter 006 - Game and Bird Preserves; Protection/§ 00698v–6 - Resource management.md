@@ -34,7 +34,21 @@ Upon assumption of management of the Preserve under subsection (a) of this secti
 
 #### (3) Limitations
 
-&emsp;The Trust may not dispose of any real property in, or convey any water rights appurtenant to the Preserve. The Trust may not convey any easement, or enter into any contract, lease, or other agreement related to use and occupancy of property within the Preserve for a period greater than 10 years. Any such easement, contract, lease, or other agreement shall provide that, upon termination of the Trust, such easement, contract, lease or agreement is terminated.
+#### (A) In general
+
+&emsp;&emsp;The Trust may not dispose of any real property in, or convey any water rights appurtenant to the Preserve.
+
+#### (B) Maximum duration
+
+&emsp;&emsp;The Trust may not convey any easement, or enter into any contract, lease, or other agreement related to use and occupancy of property within the Preserve for a period greater than 10 years.
+
+#### (C) Termination
+
+&emsp;&emsp;The easement, contract, lease, or other agreement shall provide that, upon termination of the Trust, such easement, contract, lease or agreement is terminated.
+
+#### (D) Exclusions
+
+&emsp;&emsp;For the purposes of this paragraph, the disposal of real property does not include the sale or other disposal of forage, forest products, or marketable renewable resources.
 
 #### (4) Application of procurement laws
 
@@ -52,7 +66,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 &emsp;(1) operation of the Preserve as a working ranch, consistent with paragraphs (2) through (4);
 
-&emsp;(2) the protection and preservation of the scientific, scenic, geologic, watershed, fish, wildlife, historic, cultural and recreational values of the Preserve;
+&emsp;(2) the protection and preservation of the scientific, scenic, geologic, watershed, fish,wildlife, historic, cultural and recreational values of the Preserve;
 
 &emsp;(3) multiple use and sustained yield of renewable resources within the Preserve;
 
@@ -110,9 +124,57 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (g) Law enforcement and fire management
 
-The Secretary shall provide law enforcement services under a cooperative agreement with the Trust to the extent generally authorized in other units of the National Forest System. The Trust shall be deemed a Federal agency for purposes of the law enforcement authorities of the Secretary (within the meaning of section 559g of this title). At the request of the Trust, the Secretary may provide fire presuppression, fire suppression, and rehabilitation services: <i>Provided</i>, That the Trust shall reimburse the Secretary for salaries and expenses of fire management personnel, commensurate with services provided.
+#### (1) Law enforcement
 
-(Pub. L. 106–248, title I, §108, July 25, 2000, 114 Stat. 607.)
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall provide law enforcement services under a cooperative agreement with the Trust to the extent generally authorized in other units of the National Forest System.
+
+#### (B) Federal agency
+
+&emsp;&emsp;The Trust shall be deemed a Federal agency for purposes of the law enforcement authorities of the Secretary (within the meaning of section 559g of this title).
+
+#### (2) <sup>1</sup> Fire management
+
+#### (A) Non-reimbursable services
+
+#### (i) Development of plan
+
+&emsp;&emsp;&emsp;The Secretary shall, in consultation with the Trust, develop a plan to carry out fire preparedness, suppression, and emergency rehabilitation services on the Preserve.
+
+#### (ii) Consistency with management program
+
+&emsp;&emsp;&emsp;The plan shall be consistent with the management program developed pursuant to subsection (d) of this section.
+
+#### (iii) Cooperative agreement
+
+&emsp;&emsp;&emsp;To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
+
+#### (B) Reimbursable services
+
+&emsp;&emsp;To the extent generally authorized at other units of the National Forest System, the Secretary may provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
+
+#### (2) <sup>1</sup> Fire management
+
+#### (A) Non-reimbursable services
+
+#### (i) Development of plan
+
+&emsp;&emsp;&emsp;Subject to the availability of appropriations under section 698v–9(a) of this title, the Secretary shall, in consultation with the Trust, develop a plan to carry out fire preparedness, suppression, and emergency rehabilitation services on the Preserve.
+
+#### (ii) Consistency with management program
+
+&emsp;&emsp;&emsp;The plan shall be consistent with the management program developed pursuant to subsection (d) of this section.
+
+#### (iii) Cooperative agreement
+
+&emsp;&emsp;&emsp;To the extent generally authorized at other units of the National Forest System, the Secretary shall provide the services to be carried out pursuant to the plan under a cooperative agreement entered into between the Secretary and the Trust.
+
+#### (B) Reimbursable services
+
+&emsp;&emsp;To the extent generally authorized at other units of the National Forest System and subject to the availability of appropriations under section 698v–9(a) of this title, the Secretary shall provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
+
+(Pub. L. 106–248, title I, §108, July 25, 2000, 114 Stat. 607; Pub. L. 109–54, title IV, §432(a), Aug. 2, 2005, 119 Stat. 556; Pub. L. 109–132, §4, Dec. 20, 2005, 119 Stat. 2571.)
 
 #### References in Text
 
@@ -123,4 +185,18 @@ The American Indian Religious Freedom Act, referred to in subsec. (f)(5), is Pub
 #### Codification
 
 “Section 1302 of title 40” substituted in subsec. (c)(1) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### Amendments
+
+2005—Subsec. (c)(3). Pub. L. 109–132, §4(a), designated existing provisions as subpars. (A) to (C), inserted subpar. headings, in subpar. (C), substituted “The easement” for “Any such easement”, and added subpar. (D).
+
+Subsec. (g). Pub. L. 109–54, §432(a)(3), and Pub. L. 109–132, §4(b)(3), which both directed amendment of subsec. (g) by substituting slightly different pars. (2) for “At the request of the Trust, the Secretary may provide fire presuppression, fire suppression, and rehabilitation services: <i>Provided</i>, That the Trust shall reimburse the Secretary for salaries and expenses of fire management personnel, commensurate with services provided.” at end, were executed by adding the par. (2) from Pub. L. 109–132 first and the par. (2) from Pub. L. 109–54 second.
+
+Pub. L. 109–54, §432(a)(1), (2), and Pub. L. 109–132, §4(b)(1), (2), amended subsec. (g) identically inserting par. (1) designation and heading at beginning of subsec., subpar. (A) designation and heading at beginning of first sentence, and subpar. (B) designation and heading at beginning of second sentence.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–54, title IV, §432(b), Aug. 2, 2005, 119 Stat. 557, provided that: “The amendments made by subsection (a) \[amending this section\] take effect as of January 1, 2005.”
+
+<i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
 

@@ -36,7 +36,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;(B) such reports as the Secretary may require.
 
-(2) The Secretary shall provide for evaluations of projects carried out pursuant to subsection (a) of this section and shall annually submit to the Congress a report describing such projects. The report shall include the findings made as aresult of such evaluations and may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to the program established in this section.
+(2) The Secretary shall provide for evaluations of projects carried out pursuant to subsection (a) of this section and shall annually submit to the Congress a report describing such projects. The report shall include the findings made as a result of such evaluations and may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to the program established in this section.
 
 #### (e) Authorization of appropriations
 

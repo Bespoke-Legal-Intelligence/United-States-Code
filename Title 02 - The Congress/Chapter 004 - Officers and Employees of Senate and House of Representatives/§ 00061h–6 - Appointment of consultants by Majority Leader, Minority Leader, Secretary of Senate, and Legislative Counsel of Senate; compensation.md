@@ -26,7 +26,7 @@ Subsec. (C). Pub. L. 108–7, §6(a)(2), added subsec. (C).
 
 2001—Subsec. (a). Pub. L. 107–68 substituted “six individual consultants” for “four individual consultants” in first sentence and “not more than two individual consultants” for “one consultant” in second sentence.
 
-Pub. L. 107–20 inserted “The President pro tempore emeritus of the Senate is authorized to appoint and fix the compensation of one individual consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection.” after second sentence and“President pro tempore emeritus,” after “President pro tempore,” in last sentence.
+Pub. L. 107–20 inserted “The President pro tempore emeritus of the Senate is authorized to appoint and fix the compensation of one individual consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection.” after second sentence and “President pro tempore emeritus,” after “President pro tempore,” in last sentence.
 
 1998—Subsec. (a). Pub. L. 105–275, §4(a), inserted after first sentence “The President pro tempore of the Senate is authorized to appoint and fix the compensation of one consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection.” and in penultimate sentence substituted “sections 8344 and 8468” for “section 8344”.
 
@@ -64,9 +64,11 @@ Section 110(b) of Pub. L. 95–94 provided that: “The amendments made by subse
 
 #### Consultants
 
-Pub. L. 108–447, div. G, title I, §2, Dec. 8, 2004, 118 Stat. 3169, provided that: “With respect to fiscal year 2005, the first sentence of section 101(a) of the Supplemental Appropriations Act, 1977 (2 U.S.C. 61h–6(a)) shall be applied by substituting ‘nine individual consultants’ for ‘eight individual consultants’.”
+Pub. L. 109–55, title I, §2, Aug. 2, 2005, 119 Stat. 568, provided that: “With respect to fiscal year 2006, the first sentence of section 101(a) of the Supplemental Appropriations Act, 1977 (2 U.S.C. 61h–6(a)) shall be applied by substituting ‘nine individual consultants’ for ‘eight individual consultants’.”
 
 Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–447, div. G, title I, §2, Dec. 8, 2004, 118 Stat. 3169.
 
 Pub. L. 108–83, title I, §6, Sept. 30, 2003, 117 Stat. 1013.
 

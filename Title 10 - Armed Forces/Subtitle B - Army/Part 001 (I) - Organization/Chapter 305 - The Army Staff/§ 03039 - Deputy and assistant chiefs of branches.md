@@ -38,7 +38,7 @@ June 3, 1916, ch. 134, §11 (18th through 25th words); restated June 4, 1920, ch
 
 June 26, 1936, ch. 839 (16th through 31st words), 49 Stat. 1974.
 
-In subsection (a), the words “in addition to the assistants prescribed by subsections (b) and (c) and section 3037 of this title” are substituted for the words “Except as prescribed in subsections (b) and (c) of this section”. The words “selected and”, “which procedure shall be”, and 10:21h(a) (last 21 words) are omitted as surplusage.
+In subsection (a), the words “in addition to the assistants prescribed by subsections (b) and (c) and section 3037 of this title” are substituted for the words “Except as prescribed in subsections (b) and (c) of this section”. The words “selected and”, “which procedureshall be”, and 10:21h(a) (last 21 words) are omitted as surplusage.
 
 In subsection (b), the words “appointed from the officers of the Dental Corps” are substituted for the words “who shall be an officer of the Dental Corps, and who shall be selected and appointed”. The last sentence is substituted for the words “with the rank of major general”.
 
@@ -53,8 +53,4 @@ A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Ins
 1986—Pub. L. 99–433 renumbered section 3040 of this title as this section and substituted “section 3036” for “sections 3036 and 3039” in subsec. (a).
 
 1978—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief of the Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3081 of this title.
 

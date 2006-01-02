@@ -122,7 +122,7 @@ Subsection (b) is substituted for 31:74(last par. words after 4th comma) for cla
 
 In subsection (c)(1), the words “Effective three years after May 19, 1947” are omitted as executed. The words “monthly or quarterly . . . disbursing . . . or certifying” are omitted as surplus. The word “official” is substituted for “officer” for consistency in the revised title and with other titles of the United States Code. The words “a period of not to exceed”, “in each case”, and “involved” are omitted as surplus.
 
-In subsection (c)(2), the words “final and”, “the expiration of”, and “date of” are omitted as surplus. Thewords “However, an amount may be charged against the account after the 3-year period when” are substituted for “to the extent that no further charges or debts shall be raised in such account thereafter except as to” for clarity and consistency.
+In subsection (c)(2), the words “final and”, “the expiration of”, and “date of” are omitted as surplus. The words “However, an amount may be charged against the account after the 3-year period when” are substituted for “to the extent that no further charges or debts shall be raised in such account thereafter except as to” for clarity and consistency.
 
 Subsection (c)(3) is substituted for 31:82i(last proviso) to eliminate unnecessary words.
 

@@ -50,7 +50,7 @@ For any taxable year the aggregate amount treated by the taxpayer by reason of t
 
 #### (B) Amount taken into account with respect to property
 
-&emsp;&emsp;For purposes of subparagraph (A), the amount taken into account with respect toany property other than money shall be the amount equal to the adjusted basis to the corporation of such property for determining gain, reduced by any liability to which the property was subject or which was assumed by the corporation. The determination under the preceding sentence shall be made as of the time the property was received by the corporation.
+&emsp;&emsp;For purposes of subparagraph (A), the amount taken into account with respect to any property other than money shall be the amount equal to the adjusted basis to the corporation of such property for determining gain, reduced by any liability to which the property was subject or which was assumed by the corporation. The determination under the preceding sentence shall be made as of the time the property was received by the corporation.
 
 #### (d) Special rules
 
@@ -131,8 +131,4 @@ Transitional rule for subsection (b).—In the case of a taxable year which incl
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1901(b)(1)(W), (3)(G) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1202, 1274 of this title.
 

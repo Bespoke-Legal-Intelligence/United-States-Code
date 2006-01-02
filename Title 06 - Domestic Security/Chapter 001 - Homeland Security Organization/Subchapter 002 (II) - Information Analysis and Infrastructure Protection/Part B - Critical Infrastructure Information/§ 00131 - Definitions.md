@@ -40,7 +40,7 @@ In this part:
 
 &emsp;&emsp;(A) means any service, physical or computer-based system, process, or procedure that directly or indirectly affects the viability of a facility of critical infrastructure; and
 
-&emsp;&emsp;(B) includes any physical or computer-based system, including a computer, computer system, computer or communications network, or any component hardware or element thereof, software program, processinginstructions, or information or data in transmission or storage therein, irrespective of the medium of transmission or storage.
+&emsp;&emsp;(B) includes any physical or computer-based system, including a computer, computer system, computer or communications network, or any component hardware or element thereof, software program, processing instructions, or information or data in transmission or storage therein, irrespective of the medium of transmission or storage.
 
 #### (7) Voluntary
 

@@ -22,7 +22,7 @@ Act
 
 Oct. 12, 1949, ch. 681, §402(a) (clause (5)), (b) (clause (5)), 63 Stat. 816, 817.
 
-The first 82 words are inserted for clarity and are based on the rule stated in section 1201 of this title, which restates that part of 37:272(a), (b), and (f) relatingto retirement for physical disability. The revised section incorporates by reference those provisions which are identical for retirement and for placement on the temporary disability retired list. This is possible, since 37:272(f) applies to placement on the temporary disability retired list as well as to retirement (see opinion of the Judge Advocate General of the Army (JAGA 1953/1900, 9 Mar. 1953)).
+The first 82 words are inserted for clarity and are based on the rule stated in section 1201 of this title, which restates that part of 37:272(a), (b), and (f) relating to retirement for physical disability. The revised section incorporates by reference those provisions which are identical for retirement and for placement on the temporary disability retired list. This is possible, since 37:272(f) applies to placement on the temporary disability retired list as well as to retirement (see opinion of the Judge Advocate General of the Army (JAGA 1953/1900, 9 Mar. 1953)).
 
 1958
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 104–201 effective Sept. 23, 1996, and applicable with res
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1201, 1203, 1204, 1205, 1206, 1207a, 1372, 1376, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.
 

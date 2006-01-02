@@ -38,13 +38,13 @@ An administrative law judge may not continue administrative proceedings under th
 
 &emsp;(A) in an amount not exceeding $10,000 if the respondent has not been adjudged to have committed any prior discriminatory housing practice;
 
-&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practice during the 5-year period ending on the date of the filing of this charge; and
+&emsp;(B) in an amount not exceeding $25,000 if the respondent has been adjudged to have committed one other discriminatory housing practiceduring the 5-year period ending on the date of the filing of this charge; and
 
 &emsp;(C) in an amount not exceeding $50,000 if the respondent has been adjudged to have committed 2 or more discriminatory housing practices during the 7-year period ending on the date of the filing of this charge;
 
 > except that if the acts constituting the discriminatory housing practice that is the object of the charge are committed by the same natural person who has been previously adjudged to have committed acts constituting a discriminatory housing practice, then the civil penalties set forth in subparagraphs (B) and (C) may be imposed without regard to the period of time within which any subsequent discriminatory housing practice occurred.
 
-(4) No such order shall affect any contract, sale, encumbrance, or lease consummated before the issuance of such order and involving a bonafide purchaser, encumbrancer, or tenant without actual notice of the charge filed under this subchapter.
+(4) No such order shall affect any contract, sale, encumbrance, or lease consummated before the issuance of such order and involving a bona fide purchaser, encumbrancer, or tenant without actual notice of the charge filed under this subchapter.
 
 (5) In the case of an order with respect to a discriminatory housing practice that occurred in the course of a business subject to a licensing or regulation by a governmental agency, the Secretary shall, not later than 30 days after the date of the issuance of such order (or, if such order is judicially reviewed, 30 days after such order is in substance affirmed upon such review)—
 
@@ -106,7 +106,7 @@ The clerk of the court of appeals in which a petition for enforcement is filed u
 
 #### (<i>o</i>) Civil action for enforcement when election is made for such civil action
 
-(1) If an election is made under subsection (a) of this section, the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue forsuch civil action shall be determined under chapter 87 of title 28.
+(1) If an election is made under subsection (a) of this section, the Secretary shall authorize, and not later than 30 days after the election is made the Attorney General shall commence and maintain, a civil action on behalf of the aggrieved person in a United States district court seeking relief under this subsection. Venue for such civil action shall be determined under chapter 87 of title 28.
 
 (2) Any aggrieved person with respect to the issues to be determined in a civil action under this subsection may intervene as of right in that civil action.
 

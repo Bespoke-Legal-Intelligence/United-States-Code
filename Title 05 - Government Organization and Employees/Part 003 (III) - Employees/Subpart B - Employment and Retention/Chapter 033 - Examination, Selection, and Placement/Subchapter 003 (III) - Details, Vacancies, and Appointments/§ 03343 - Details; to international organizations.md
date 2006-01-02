@@ -42,7 +42,7 @@ Aug. 28, 1958, Pub. L. 85–795, §2, 72 Stat. 959.
 
 Aug. 28, 1958, Pub. L. 85–795, §3, 72 Stat. 959.
 
-In subsection (a)(2), the words “without a change of position from the agency by which he is employed to an international organization” are substituted for “without the employee's transfer from the Federal agency by which he is employed” to eliminate the necessity of carrying into this section the definition of “transfer” appearing in former section 2331(5).
+In subsection (a)(2), the words “without a change of position from the agency by which he is employed to an international organization” are substituted for “without the employee's transfer from the Federal agency bywhich he is employed” to eliminate the necessity of carrying into this section the definition of “transfer” appearing in former section 2331(5).
 
 In subsection (e), the words “section 209 of title 18” are substituted for “section 1914 of title 18” on authority of the Act of Oct. 23, 1962, Pub. L. 87–849, §2, 76 Stat. 1126.
 

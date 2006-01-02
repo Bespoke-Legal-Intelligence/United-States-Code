@@ -294,7 +294,7 @@ Section 52(b) of act Aug. 10, 1956, as amended by Pub. L. 85–182, Aug. 28, 195
 
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 
-Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after1994, and any reduction in number of appointments not to be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
+Authorized strength of service academies not to exceed 4,000 per academy for class years beginning after 1994, and any reduction in number of appointments not to be achieved by reduction in number of appointments under subsec. (a) of this section, see section 511 of Pub. L. 102–190, set out as a note under section 4342 of this title.
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and Other Standards to Male and Female Individuals
 
@@ -303,10 +303,6 @@ Secretary required to take such action as may be necessary and appropriate to in
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 
 Secretary to continue to exercise the authority granted under this chapter and chapters 403 and 603 of this title, but such authority to be exercised within a program providing for the orderly and expeditious admission of women to the Academy, consistent with the needs of the services, see section 803(c) of Pub. L. 94–106, set out as a note under section 4342 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9343, 9344 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “cadets”.</i>
 

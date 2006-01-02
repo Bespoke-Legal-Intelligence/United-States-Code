@@ -7,25 +7,24 @@
 | [1233\.](%C2%A7%2001233%20-%20Gains%20and%20losses%20from%20short%20sales.md) | Gains and losses from short sales. |
 | [1234\.](%C2%A7%2001234%20-%20Options%20to%20buy%20or%20sell.md) | Options to buy or sell. |
 | [1234A.](%C2%A7%2001234A%20-%20Gains%20or%20losses%20from%20certain%20terminations.md) | Gains or losses from certain terminations. |
-| [1234B.](%C2%A7%2001234B%20-%20Gains%20or%20losses%20from%20securities%20futures%20contracts.md) | Securities futures contracts.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [1234B.](%C2%A7%2001234B%20-%20Gains%20or%20losses%20from%20securities%20futures%20contracts.md) | Gains or losses from securities futures contracts. |
 | [1235\.](%C2%A7%2001235%20-%20Sale%20or%20exchange%20of%20patents.md) | Sale or exchange of patents. |
 | [1236\.](%C2%A7%2001236%20-%20Dealers%20in%20securities.md) | Dealers in securities. |
 | [1237\.](%C2%A7%2001237%20-%20Real%20property%20subdivided%20for%20sale.md) | Real property subdivided for sale. |
 | \[1238. | Repealed.\] |
 | [1239\.](%C2%A7%2001239%20-%20Gain%20from%20sale%20of%20depreciable%20property%20between%20certain%20related%20taxpayers.md) | Gain from sale of certain property between spouses or between an individual and a controlled corporation.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | \[1240. | Repealed.\] |
 | [1241\.](%C2%A7%2001241%20-%20Cancellation%20of%20lease%20or%20distributor%27s%20agreement.md) | Cancellation of lease or distributor's agreement. |
 | [1242\.](%C2%A7%2001242%20-%20Losses%20on%20small%20business%20investment%20company%20stock.md) | Losses on small business investment company stock. |
 | [1243\.](%C2%A7%2001243%20-%20Loss%20of%20small%20business%20investment%20company.md) | Loss of small business investment company. |
 | [1244\.](%C2%A7%2001244%20-%20Losses%20on%20small%20business%20stock.md) | Losses on small business stock. |
 | [1245\.](%C2%A7%2001245%20-%20Gain%20from%20dispositions%20of%20certain%20depreciable%20property.md) | Gain from dispositions of certain depreciable property. |
-| [1246\.](%C2%A7%2001246%20-%20Gain%20on%20foreign%20investment%20company%20stock.md) | Gain on foreign investment company stock. |
-| [1247\.](%C2%A7%2001247%20-%20Election%20by%20foreign%20investment%20companies%20to%20distribute%20income%20currently.md) | Election by foreign investment companies to distribute income currently. |
+| \[1246, 1247. Repealed.\] |  |
 | [1248\.](%C2%A7%2001248%20-%20Gain%20from%20certain%20sales%20or%20exchanges%20of%20stock%20in%20certain%20foreign%20corporations.md) | Gain from certain sales or exchanges of stock in certain foreign corporations. |
 | [1249\.](%C2%A7%2001249%20-%20Gain%20from%20certain%20sales%20or%20exchanges%20of%20patents%2C%20etc.%2C%20to%20foreign%20corporations.md) | Gain from certain sales or exchanges of patents, etc., to foreign corporations. |
 | [1250\.](%C2%A7%2001250%20-%20Gain%20from%20dispositions%20of%20certain%20depreciable%20realty.md) | Gain from dispositions of certain depreciable realty. |
@@ -43,6 +42,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title IV, §413(c)(32), Oct. 22, 2004, 118 Stat. 1510, struck out items 1246 “Gain on foreign investment company stock” and 1247 “Election by foreign investment companies to distribute income currently”.
+
+Pub. L. 108–311, title IV, §408(a)(18), Oct. 4, 2004, 118 Stat. 1192, substituted “Gains or losses from securities futures contracts” for “Securities futures contracts” in item 1234B.
 
 2000—Pub. L. 106–554, §1(a)(7) \[title IV, §401(h)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650, which directed the amendment of the table of sections of subpart IV of subchapter P of chapter 1 by adding item 1234B, was executed by adding item 1234B to the table of sections for this part which is part IV of subchapter P of chapter 1 to reflect the probable intent of Congress.
 
@@ -102,8 +105,7 @@ Pub. L. 95–600, title V, §543(c)(2), Nov. 6, 1978, 92 Stat. 2890, added item 
 - [&sect; 01243 - Loss of small business investment company](%C2%A7%2001243%20-%20Loss%20of%20small%20business%20investment%20company.md)
 - [&sect; 01244 - Losses on small business stock](%C2%A7%2001244%20-%20Losses%20on%20small%20business%20stock.md)
 - [&sect; 01245 - Gain from dispositions of certain depreciable property](%C2%A7%2001245%20-%20Gain%20from%20dispositions%20of%20certain%20depreciable%20property.md)
-- [&sect; 01246 - Gain on foreign investment company stock](%C2%A7%2001246%20-%20Gain%20on%20foreign%20investment%20company%20stock.md)
-- [&sect; 01247 - Election by foreign investment companies to distribute income currently](%C2%A7%2001247%20-%20Election%20by%20foreign%20investment%20companies%20to%20distribute%20income%20currently.md)
+- [&sect; 01246, 1247 - Repealed. Pub. L. 108&#8211;357, title IV, &sect;413(a)(2), (3), Oct. 22, 2004, 118 Stat. 1506](%C2%A7%2001246%2C%201247%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20IV%2C%20%C2%A7413%28a%29%282%29%2C%20%283%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201506.md)
 - [&sect; 01248 - Gain from certain sales or exchanges of stock in certain foreign corporations](%C2%A7%2001248%20-%20Gain%20from%20certain%20sales%20or%20exchanges%20of%20stock%20in%20certain%20foreign%20corporations.md)
 - [&sect; 01249 - Gain from certain sales or exchanges of patents, etc., to foreign corporations](%C2%A7%2001249%20-%20Gain%20from%20certain%20sales%20or%20exchanges%20of%20patents%2C%20etc.%2C%20to%20foreign%20corporations.md)
 - [&sect; 01250 - Gain from dispositions of certain depreciable realty](%C2%A7%2001250%20-%20Gain%20from%20dispositions%20of%20certain%20depreciable%20realty.md)

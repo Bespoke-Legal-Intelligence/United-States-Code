@@ -16,7 +16,7 @@ For purposes of sections 2021b to 2021j of this title:
 
 #### (3) Commercial nuclear power reactor
 
-&emsp;The term “commercial nuclear power reactor” means any unit of a civilian light-watermoderated utilization facility required to be licensed under section 2133 or 2134(b) of this title.
+&emsp;The term “commercial nuclear power reactor” means any unit of a civilian light-water moderated utilization facility required to be licensed under section 2133 or 2134(b) of this title.
 
 #### (4) Compact
 
@@ -40,11 +40,17 @@ For purposes of sections 2021b to 2021j of this title:
 
 #### (9) Low-level radioactive waste
 
-&emsp;The term “low-level radioactive waste” means radioactive material that—
+#### (A) In general
 
-&emsp;&emsp;(A) is not high-level radioactive waste, spent nuclear fuel, or byproduct material (as defined in section 2014(e)(2) of this title); and
+&emsp;&emsp;The term “low-level radioactive waste” means radioactive material that—
 
-&emsp;&emsp;(B) the Nuclear Regulatory Commission, consistent with existing law and in accordance with paragraph (A), classifies as low-level radioactive waste.
+&emsp;&emsp;&emsp;(i) is not high-level radioactive waste, spent nuclear fuel, or byproduct material (as defined in section 2014(e)(2) of this title); and
+
+&emsp;&emsp;&emsp;(ii) the Nuclear Regulatory Commission, consistent with existing law and in accordance with paragraph (A), classifies as low-level radioactive waste.
+
+#### (B) Exclusion
+
+&emsp;&emsp;The term “low-level radioactive waste” does not include byproduct material (as defined in paragraphs (3) and (4) of section 2014(e) of this title).
 
 #### (10) Non-sited compact region
 
@@ -66,7 +72,7 @@ For purposes of sections 2021b to 2021j of this title:
 
 &emsp;The term “State” means any State of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 96–573, §2, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842.)
+(Pub. L. 96–573, §2, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842; amended Pub. L. 109–58, title VI, §651(e)(3)(B), Aug. 8, 2005, 119 Stat. 808.)
 
 #### Codification
 
@@ -75,6 +81,10 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 #### Prior Provisions
 
 A prior section 2021b, Pub. L. 96–573, §2, Dec. 22, 1980, 94 Stat. 3347, related to definitions respecting low-level radioactive waste policy as used in former sections 2021b to 2021d of this title, prior to repeal by Pub. L. 99–240, §102.
+
+#### Amendments
+
+2005—Par. (9). Pub. L. 109–58 designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
 #### Short Title of 1986 Amendment
 

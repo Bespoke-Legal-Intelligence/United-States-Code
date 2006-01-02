@@ -252,7 +252,7 @@ Other Transfers.—Effective October 1, 2000, the personnel employed in connecti
 
 #### Procurement of Private Enterprise Mapping, Charting, and Geographic Information Systems
 
-Pub. L. 106–181, title VI, §607, Apr. 5, 2000, 114 Stat. 154, provided that: “The Administrator \[of the Federal Aviation Administration\] shall consider procuringmapping, charting, and geographic information systems necessary to carry out the duties of the Administrator under title 49, United States Code, from private enterprises, if the Administrator determines that such procurement furthers the mission of the Federal Aviation Administration and is cost effective.”
+Pub. L. 106–181, title VI, §607, Apr. 5, 2000, 114 Stat. 154, provided that: “The Administrator \[of the Federal Aviation Administration\] shall consider procuring mapping, charting, and geographic information systems necessary to carry out the duties of the Administrator under title 49, United States Code, from private enterprises, if the Administrator determines that such procurement furthers the mission of the Federal Aviation Administration and is cost effective.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

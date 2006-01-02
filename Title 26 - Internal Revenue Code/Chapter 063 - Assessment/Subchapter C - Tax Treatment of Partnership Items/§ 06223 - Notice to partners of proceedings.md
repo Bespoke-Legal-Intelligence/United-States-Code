@@ -110,7 +110,3 @@ To the extent and in the manner provided by regulations, the tax matters partner
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 649.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6224, 6229, 6230, 6231 of this title.
-

@@ -16,7 +16,7 @@ The Secretary, pursuant to an agreement with the State of Wisconsin, may pay up 
 
 Whenever the Secretary determines that appropriate management and protection set down in the comprehensive plan are not being afforded the nationally significant values within the reserve or that funds are not being provided on the prescribed matching basis by the State of Wisconsin or other non-Federal sources, he may terminate contributions under sections 469d to 469i of this title.
 
-(Pub. L. 88–655, §5, Oct. 13, 1964, 78 Stat. 1088; Pub. L. 91–483, §1(3), Oct. 21, 1970, 84 Stat. 1083; Pub. L. 96–199, title I, §109, Mar. 5, 1980, 94 Stat. 69.)
+(Pub. L. 88–655, §5, Oct. 13, 1964, 78 Stat. 1088; Pub. L. 91–483, §1(3), Oct. 21, 1970, 84 Stat. 1083;Pub. L. 96–199, title I, §109, Mar. 5, 1980, 94 Stat. 69.)
 
 #### References in Text
 

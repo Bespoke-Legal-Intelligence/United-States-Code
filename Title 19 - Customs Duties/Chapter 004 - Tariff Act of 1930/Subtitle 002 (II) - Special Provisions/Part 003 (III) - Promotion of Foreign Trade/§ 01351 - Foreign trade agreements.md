@@ -4,7 +4,7 @@
 
 (1) For the purpose of expanding foreign markets for the products of the United States (as a means of assisting in establishing and maintaining a better relationship among various branches of American agriculture, industry, mining, and commerce) by regulating the admission of foreign goods into the United States in accordance with the characteristics and needs of various branches of American production so that foreign markets will be made available to those branches of American production which require and are capable of developing such outlets by affording corresponding market opportunities for foreign products in the United States, the President, whenever he finds as a fact that any existing duties or other import restrictions of the United States or any foreign country are unduly burdening and restricting the foreign trade of the United States and that the purpose above declared will be promoted by the means hereinafter specified, is authorized from time to time—
 
-&emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
+&emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalitiesthereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
 &emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
 
@@ -136,7 +136,7 @@ Subsec. (a)(4) to (6). Pub. L. 85–686, §3(a)(7), (8), added par. (4) and rede
 
 Subsec. (b). Pub. L. 85–686, §3(b)(1), substituted “an agreement with Cuba” for “an exclusive agreement with Cuba” in opening par.
 
-Subsec. (b)(2). Pub. L. 85–686, §3(b)(2), inserted “or (4)(A)” after “subsection (a)(2)(C) or (D)”, “and (4)(B) and (C)” after “subsection (a)(3)(B), (C), and (D)”, and “or (4)(A)(iii)” after “subsection (a)(2)(D)(ii)”.
+Subsec. (b)(2). Pub. L. 85–686, §3(b)(2), inserted “or (4)(A)” after “subsection (a)(2)(C) or (D)”, “and (4)(B)and (C)” after “subsection (a)(3)(B), (C), and (D)”, and “or (4)(A)(iii)” after “subsection (a)(2)(D)(ii)”.
 
 Subsec. (c)(2)(A). Pub. L. 85–686, §3(c), defined “existing on July 1, 1934” and “existing on July 1, 1958”.
 
@@ -192,7 +192,7 @@ Section 401 of Pub. L. 87–456, title IV, May 24, 1962, 76 Stat. 78, provided t
 
 #### Administration of Trade Agreements Program
 
-For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar.27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
+For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
 
 #### Congressional Approval or Disapproval of General Agreement on Tariffs and Trade
 

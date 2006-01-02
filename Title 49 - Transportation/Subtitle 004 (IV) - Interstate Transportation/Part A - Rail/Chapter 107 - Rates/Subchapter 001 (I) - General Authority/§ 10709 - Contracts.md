@@ -24,7 +24,7 @@
 
 &emsp;(ii) by a port only on the grounds that such port individually will be harmed because the proposed contract will result in unreasonable discrimination against such port.
 
-(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph, a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
+(B) In addition to the grounds for a complaint described in subparagraph (A) of this paragraph,a complaint may be filed by a shipper of agricultural commodities on the grounds that such shipper individually will be harmed because—
 
 &emsp;(i) the rail carrier has unreasonably discriminated by refusing to enter into a contract with such shipper for rates and services for the transportation of the same type of commodity under similar conditions to the contract at issue, and that shipper was ready, willing, and able to enter into such a contract at a time essentially contemporaneous with the period during which the contract at issue was offered; or
 

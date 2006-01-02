@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (1) State law
 
-&emsp;The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. Alaw of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
+&emsp;The term “State law” includes all laws, decisions, rules, regulations, or other State action having the effect of law, of any State. A law of the United States applicable only to the District of Columbia shall be treated as a State law rather than a law of the United States.
 
 #### (2) State
 

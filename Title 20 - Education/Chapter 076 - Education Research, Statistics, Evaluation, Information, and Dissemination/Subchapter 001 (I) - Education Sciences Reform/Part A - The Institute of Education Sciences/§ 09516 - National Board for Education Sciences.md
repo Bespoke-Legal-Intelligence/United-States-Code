@@ -174,7 +174,7 @@ The Board shall submit to the Director, the Secretary, and the appropriate congr
 
 #### (f) Recommendations
 
-The Board shall submit to the Director, the Secretary, and the appropriate congressional committees a report that includes any recommendations regarding any actions that may be taken to enhance the ability of the Institute to carry out its priorities and mission. The Board shall submit an interim report not later than 3 years after November 5, 2002, and a final report not later than 5 years after such date.
+The Board shall submit to the Director, the Secretary, and the appropriate congressionalcommittees a report that includes any recommendations regarding any actions that may be taken to enhance the ability of the Institute to carry out its priorities and mission. The Board shall submit an interim report not later than 3 years after November 5, 2002, and a final report not later than 5 years after such date.
 
 (Pub. L. 107–279, title I, §116, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §§201(b)(2)(D), 202, Dec. 3, 2004, 118 Stat. 2802.)
 
@@ -182,7 +182,7 @@ The Board shall submit to the Director, the Secretary, and the appropriate congr
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(4)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
-This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573,9623, and 9624 of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and section 3419 of this title, amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and section 5315 of Title 5, Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

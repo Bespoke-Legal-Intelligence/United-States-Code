@@ -38,7 +38,7 @@ An eligible employee of the Department of Energy provided an incentive under thi
 
 #### (f) Violation of agreement
 
-(1) Except as provided under paragraph (3), an eligible employee of the Department of Energywho violates an agreement under subsection (e), or is dismissed for cause, shall forfeit eligibility for any incentives under this section as of the date of the violation or dismissal, as the case may be.
+(1) Except as provided under paragraph (3), an eligible employee of the Department of Energy who violates an agreement under subsection (e), or is dismissed for cause, shall forfeit eligibility for any incentives under this section as of the date of the violation or dismissal, as the case may be.
 
 (2) Except as provided under paragraph (3), an eligible employee of the Department of Energy who is paid a retention allowance under subsection (d)(2) and who violates an agreement under subsection (e), or is dismissed for cause, before the end of the period or date of employment agreed upon under such agreement shall refund to the United States an amount that bears the same ratio to the aggregate amount so paid to or received by the employee as the unserved part of such employment bears to the total period of employment agreed upon under such agreement.
 

@@ -20,7 +20,7 @@
 
 &emsp;(3) providing for more efficient, economical, and equitable personnel administration through a simplified structure of Foreign Service personnel categories and salaries;
 
-&emsp;(4) establishing a statutory basis for participation by the members of the Foreign Service, through their elected representatives, in the formulation of personnel policies and procedures which affect their conditions of employment, and maintaining a fair and effective system for the resolution of individual grievances that will ensure the fullest measure of due process for the members of the Foreign Service;
+&emsp;(4) establishing a statutory basis for participation by the members of the Foreign Service, through their elected representatives, in the formulation of personnel policies and procedures which affect their conditions of employment, and maintaining a fair and effective system for the resolution of individual grievancesthat will ensure the fullest measure of due process for the members of the Foreign Service;
 
 &emsp;(5) minimizing the impact of the hardships, disruptions, and other unusual conditions of service abroad upon the members of the Foreign Service, and mitigating the special impact of such conditions upon their families;
 
@@ -76,7 +76,7 @@ Section 1 of Pub. L. 96–465 provided that: “This Act \[enacting this chapter
 
 #### Executive Order No. 11636
 
-Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which related to employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, §10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
+Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901, as amended by Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R.61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, which related to employee-management relations in the Foreign Service of the United States, was revoked by Ex. Ord. No. 12292, §10(j), Feb. 23, 1981, 46 F.R. 13967, set out below.
 
 #### Ex. Ord. No. 12292. Conformance of Existing Executive Orders to Changes Resulting From the Foreign Service Act of 1980
 
@@ -98,7 +98,7 @@ Sec. 3. Section 2 of Executive Order No. 10624, as amended, is amended as follow
 
 (a) In clause (1), strike out “Title II of the Overseas Differentials and Allowances Act” and insert in lieu thereof “subchapter III of chapter 59 of title 5 of the United States Code”;
 
-(b) Clause (2) is amended to read as follows: “so much of the authority vested in the Secretary of State bychapter 9 of Title I of the Foreign Service Act of 1980 \[22 U.S.C. 4081 et seq.\], as relates to allowances and benefits under the said chapter 9 of title I;”
+(b) Clause (2) is amended to read as follows: “so much of the authority vested in the Secretary of State by chapter 9 of Title I of the Foreign Service Act of 1980 \[22 U.S.C. 4081 et seq.\], as relates to allowances and benefits under the said chapter 9 of title I;”
 
 Sec. 4. Executive Order No. 10903 is amended as follows:
 
@@ -192,7 +192,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12293. Administration of Foreign Service
 
-Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
+Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, as amended by Ex. Ord. No. 12363, May 21, 1982, 47 F.R. 22497; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex.Ord. No. 12536, Oct. 9, 1985, 50 F.R. 41477; Ex. Ord. No. 13118, §10(4), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13325, Jan. 23, 2004, 69 F.R. 4217; Ex. Ord. No. 13374, Mar. 14, 2005, 70 F.R. 12961, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Foreign Service Act of 1980 (94 Stat. 2071, 22 U.S.C. 3901 et seq.), Section 202 of the Revised Statutes (22 U.S.C. 2656), and Section 301 of Title 3 of the United States Code, and in order to provide for the administration of the Foreign Service of the United States, it is hereby ordered as follows:
 
@@ -268,7 +268,7 @@ Sec. 10. Pursuant to Section 202(a)(2)(B) and (a)(3)(B) of the Act (22 U.S.C. 39
 
 (a) The Animal and Plant Health Inspection Service of the Department of Agriculture, not to exceed 125 positions, without the prior approval of the Director of the Office of Personnel Management;
 
-(b) The United States Travel and Tourism Administration, and the International Trade Administration of the Department of Commerce, not to exceed 30 positions without the prior approval of the Director of the Office of Personnel Management, and providing that assignments to such positions be administered consistent with policies of the Foreign Commercial Service established under Executive Order No. 12188 \[19 U.S.C. 2171 note\].
+(b) The United States Travel and Tourism Administration, and the International Trade Administration ofthe Department of Commerce, not to exceed 30 positions without the prior approval of the Director of the Office of Personnel Management, and providing that assignments to such positions be administered consistent with policies of the Foreign Commercial Service established under Executive Order No. 12188 \[19 U.S.C. 2171 note\].
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 

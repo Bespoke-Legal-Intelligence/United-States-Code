@@ -40,7 +40,7 @@ A charter school may not receive—
 
 #### (2) Review and evaluation priority criteria
 
-&emsp;The criteria referred to in paragraph (1) are that the State provides for periodic review and evaluation by the authorized public chartering agency of each charter school, at least once every 5 years unless required more frequently by State law, to determine whether the charter school is meeting the terms of the school's charter, and is meeting or exceeding the student academic achievement requirements and goals for charter schools as set forth under State law or the school's charter.
+&emsp;The criteria referred to in paragraph (1) are that the State provides for periodic review and evaluation by the authorized public chartering agency of each charter school, at least once every 5 years unless required more frequently by State law, to determine whether the charter school is meeting the terms of the school's charter, and is meeting or exceeding the student academic achievement requirements andgoals for charter schools as set forth under State law or the school's charter.
 
 #### (3) Priority criteria
 

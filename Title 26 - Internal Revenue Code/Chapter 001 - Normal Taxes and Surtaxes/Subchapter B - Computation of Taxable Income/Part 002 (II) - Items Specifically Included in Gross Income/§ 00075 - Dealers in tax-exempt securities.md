@@ -14,7 +14,7 @@ In computing the gross income of a taxpayer who holds during the taxable year a 
 
 For purposes of subsection (a)—
 
-&emsp;(1) The term “municipal bond” means any obligation issued by a government or political subdivision thereof if the interest on such obligation is excludable from gross income; but such term does not include such an obligation if—
+&emsp;(1) The term “municipal bond” means any obligation issued by a government or politicalsubdivision thereof if the interest on such obligation is excludable from gross income; but such term does not include such an obligation if—
 
 &emsp;&emsp;(A)(i) it is sold or otherwise disposed of by the taxpayer within 30 days after the date of its acquisition by him, or
 
@@ -47,8 +47,4 @@ Subsec. (b)(1). Pub. L. 85–866, §2(a)(1), substituted “municipal bond” fo
 #### Effective Date of 1958 Amendment
 
 Section 2(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1016 of this title\] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to obligations acquired after such date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1016 of this title.
 

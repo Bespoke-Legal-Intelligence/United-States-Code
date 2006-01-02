@@ -230,7 +230,7 @@ Section 172(b) of Pub. L. 103–236 provided that: “The amendments made by sub
 
 #### Effective Date of 1988 Amendment
 
-Section 2 of Pub. L. 100–565 provided that: “The amendments made by this Act \[amending this section\]shall apply only to claims arising on or after the date of the enactment of this Act \[Oct. 31, 1988\].”
+Section 2 of Pub. L. 100–565 provided that: “The amendments made by this Act \[amending this section\] shall apply only to claims arising on or after the date of the enactment of this Act \[Oct. 31, 1988\].”
 
 #### Effective Date of 1983 Amendment
 

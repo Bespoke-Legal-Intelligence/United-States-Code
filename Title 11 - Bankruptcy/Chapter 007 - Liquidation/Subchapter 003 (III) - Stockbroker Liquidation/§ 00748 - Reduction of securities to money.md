@@ -1,6 +1,6 @@
 ### §748. Reduction of securities to money
 
-As soon as practicable after the date of the order for relief, the trustee shall reduce tomoney, consistent with good market practice, all securities held as property of the estate, except for customer name securities delivered or reclaimed under section 751 of this title.
+As soon as practicable after the date of the order for relief, the trustee shall reduce to money, consistent with good market practice, all securities held as property of the estate, except for customer name securities delivered or reclaimed under section 751 of this title.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2614.)
 

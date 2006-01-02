@@ -28,7 +28,7 @@
 
 &emsp;(vi) defining a long range role for the nutrition services in community-based care systems;
 
-&emsp;(vii) developing model menus and other appropriate materials for serving special needspopulations and meeting cultural meal preferences; and
+&emsp;(vii) developing model menus and other appropriate materials for serving special needs populations and meeting cultural meal preferences; and
 
 &emsp;(viii) providing technical assistance to the regional offices of the Administration with respect to each duty described in clauses (i) through (vii).
 
@@ -66,7 +66,7 @@ Subsecs. (c) to (e). Pub. L. 106–501, §202(3), redesignated subsec. (e) as (c
 
 “(c) Not later than 120 days after October 9, 1987, the Secretary shall issue and publish in the Federal Register proposed regulations for the administration of this chapter. After allowing a reasonable period for public comment on such proposed rules and not later than 90 days after such publication, the Secretary shall issue, in final form, regulations for the administration of this chapter.
 
-“(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed public comment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available.”
+“(d) Not later than September 1 of each fiscal year, the Assistant Secretary shall make available to the public, for the purpose of facilitating informed publiccomment, a statement of proposed specific goals to be achieved by implementing this chapter in the first fiscal year beginning after the date on which such statement is made available.”
 
 1993—Subsecs. (a), (b), (d). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” wherever appearing.
 

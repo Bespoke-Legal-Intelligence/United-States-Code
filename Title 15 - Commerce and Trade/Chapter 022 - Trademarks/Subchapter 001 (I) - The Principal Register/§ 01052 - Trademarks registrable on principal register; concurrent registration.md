@@ -1,6 +1,6 @@
 ### §1052. Trademarks registrable on principal register; concurrent registration
 
-No trademark by which the goods of the applicant may be distinguished from the goods of others shall be refused registration on the principal register on account of its nature unless it—
+No trademark by which the goods of the applicant may be distinguished from the goods ofothers shall be refused registration on the principal register on account of its nature unless it—
 
 (a) Consists of or comprises immoral, deceptive, or scandalous matter; or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute; or a geographical indication which, when used on or in connection with wines or spirits, identifies a place other than the origin of the goods and is first used on or in connection with wines or spirits by the applicant on or after one year after the date on which the WTO Agreement (as defined in section 3501(9) of title 19) enters into force with respect to the United States.
 
@@ -74,7 +74,7 @@ Section 335 of title III of Pub. L. 103–182 provided that:
 
 “(a)
 
-In General.—Subject to subsections (b) and (c), the amendments made by this subtitle \[subtitle C (§§331–335) of title III of Pub. L. 103–182, enacting section 104A of Title 17, Copyrights, amending this section, section 1091 of this title, and section 104 of Title35, Patents, and amending provisions set out as a note under section 109 of Title 17\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].
+In General.—Subject to subsections (b) and (c), the amendments made by this subtitle \[subtitle C (§§331–335) of title III of Pub. L. 103–182, enacting section 104A of Title 17, Copyrights, amending this section, section 1091 of this title, and section 104 of Title 35, Patents, and amending provisions set out as a note under section 109 of Title 17\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].
 
 “(b)
 

@@ -44,7 +44,3 @@ A prior section 7432 was renumbered 7437 of this title.
 
 Section 6240(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting this section\] shall apply to notices provided by the taxpayer of the failure to release a lien, and damages arising, after December 31, 1988.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7433 of this title.
-

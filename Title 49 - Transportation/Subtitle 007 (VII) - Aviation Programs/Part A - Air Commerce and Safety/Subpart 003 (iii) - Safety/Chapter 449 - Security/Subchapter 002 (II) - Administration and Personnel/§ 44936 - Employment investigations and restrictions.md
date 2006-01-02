@@ -24,7 +24,7 @@ Background checks of current employees.—
 
 &emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
 
-&emsp;(ii) The Under Secretary may provide by order (without regard to the provisions ofchapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
+&emsp;(ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
 
 (D)
 
@@ -232,7 +232,7 @@ Subsec. (b)(2). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary”
 
 Subsec. (b)(3). Pub. L. 107–71, §§101(f)(7), 138(a)(13), substituted “carrier, airport operator, or government” for “carrier, or airport operator” and “Under Secretary” for “Administrator”.
 
-Subsec. (c)(1). Pub. L. 107–71, §138(a)(14), inserted at end “All Federal agencies shall cooperate with theUnder Secretary and the Under Secretary's designee in the process of collecting and submitting fingerprints.”
+Subsec. (c)(1). Pub. L. 107–71, §138(a)(14), inserted at end “All Federal agencies shall cooperate with the Under Secretary and the Under Secretary's designee in the process of collecting and submitting fingerprints.”
 
 Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
 
@@ -256,7 +256,7 @@ Subsec. (b)(1)(B)(xi). Pub. L. 106–528, §2(d)(2), inserted “or felony unarm
 
 Subsec. (b)(1)(B)(xiii) to (xv). Pub. L. 106–528, §2(d)(3)–(5), added cls. (xiii) and (xiv), redesignated former cl. (xiii) as (xv), and in cl. (xv) substituted “clauses (i) through (xiv)” for “clauses (i)–(xii) of this paragraph”.
 
-Subsec. (f)(1)(B). Pub. L. 106–181, §508(b)(1), inserted “(except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces)” after “other person” in introductory provisions.
+Subsec. (f)(1)(B). Pub. L. 106–181, §508(b)(1), inserted “(except a branch of the United States Armed Forces,the National Guard, or a reserve component of the United States Armed Forces)” after “other person” in introductory provisions.
 
 Subsec. (f)(1)(B)(ii). Pub. L. 106–181, §508(b)(2), substituted “individual's performance as a pilot” for “individual” in introductory provisions.
 

@@ -52,7 +52,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 &emsp;&emsp;&emsp;(i) to make deposits totaling $66,000,000, adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit, into the New Mexico Unit Fund as provided by section 212(i) of the Arizona Water Settlements Act in 10 equal annual payments beginning in 2012;
 
-&emsp;&emsp;&emsp;(ii) upon satisfaction of the conditions set forth in subsections (j) and (k) of section 212, to pay certain of the costs associated with construction of the New Mexico Unit, in addition to any amounts that maybe expended from the New Mexico Unit Fund, in a minimum amount of $34,000,000 and a maximum amount of $62,000,000, as provided in section 212 of the Arizona Water Settlements Act, as adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit;
+&emsp;&emsp;&emsp;(ii) upon satisfaction of the conditions set forth in subsections (j) and (k) of section 212, to pay certain of the costs associated with construction of the New Mexico Unit, in addition to any amounts that may be expended from the New Mexico Unit Fund, in a minimum amount of $34,000,000 and a maximum amount of $62,000,000, as provided in section 212 of the Arizona Water Settlements Act, as adjusted to reflect changes since January 1, 2004, in the construction cost indices applicable to the types of construction involved in construction of the New Mexico Unit;
 
 &emsp;&emsp;&emsp;(iii) to pay the costs associated with the construction of distribution systems required to implement the provisions of—
 
@@ -126,7 +126,7 @@ Except as provided in subsection (f) of this section, revenues credited to the d
 
 #### (ii) Lawful investments
 
-&emsp;&emsp;&emsp;For purposes of clause (i), obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed funds includes any of the following securities or securities with comparable language concerning the investment of federally managed funds:
+&emsp;&emsp;&emsp;For purposes of clause (i), obligations of government corporations and government-sponsored entities whose charter statutes provide that their obligations are lawful investments for federally managed fundsincludes any of the following securities or securities with comparable language concerning the investment of federally managed funds:
 
 &emsp;&emsp;&emsp;&emsp;(I) Obligations of the United States Postal Service as authorized by section 2005 of title 39.
 

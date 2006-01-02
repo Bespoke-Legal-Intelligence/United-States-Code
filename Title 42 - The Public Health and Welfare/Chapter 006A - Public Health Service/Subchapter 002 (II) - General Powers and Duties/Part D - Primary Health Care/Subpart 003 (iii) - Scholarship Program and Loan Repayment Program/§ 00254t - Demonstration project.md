@@ -44,7 +44,7 @@ This section shall not be construed to require any State to participate in the p
 
 #### (1) In general
 
-&emsp;The Secretary shall evaluate the participation of individuals in the demonstrationprojects under this section and prepare and submit a report containing the information described in paragraph (2) to—
+&emsp;The Secretary shall evaluate the participation of individuals in the demonstration projects under this section and prepare and submit a report containing the information described in paragraph (2) to—
 
 &emsp;&emsp;(A) the Committee on Health, Education, Labor, and Pensions of the Senate;
 

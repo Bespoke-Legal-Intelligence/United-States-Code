@@ -14,7 +14,7 @@ Within 6 months after submitting a survey to the Secretary under section 777g(g)
 
 #### (1) Matching grants
 
-&emsp;The Secretary of the Interior shall obligate amounts made available under section 777c(b)(3)(B) of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
+&emsp;The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4) of this title to make grants to any State to pay not more than 75 percent of thecost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
 
 #### (2) Priorities
 
@@ -40,7 +40,7 @@ For purposes of this section, the term—
 
 &emsp;(3) “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 105–178, title VII, §7404, June 9, 1998, 112 Stat. 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864.)
+(Pub. L. 105–178, title VII, §7404, June 9, 1998, 112 Stat. 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, §10115, Aug. 10, 2005, 119 Stat. 1928.)
 
 #### Codification
 
@@ -50,7 +50,15 @@ Section was enacted as part of the Sportfishing and Boating Safety Act of 1998, 
 
 #### Amendments
 
+2005—Subsec. (d)(1). Pub. L. 109–59 substituted “section 777c(a)(4) of this title” for “section 777c(b)(3)(B) of this title”.
+
 1998—Subsec. (b). Pub. L. 105–206, §9012(c), made a technical amendment to directory language of Pub. L. 105–178, §7404(b). See Codification note above.
+
+#### Effective Date of 2005 Amendments
+
+From Aug. 10, 2005, to end of fiscal year 2005, subsec. (d)(1) of this section considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
+
+Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 
 #### Effective Date of 1998 Amendment
 

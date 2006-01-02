@@ -4,7 +4,7 @@
 
 (1) On October 1, 1979, the Secretary of State may convey to the Republic of Panama the Panama Railroad and such property located in the area which, immediately before such date, comprised the Canal Zone and which is not within the land and water areas the use of which is made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements.
 
-(2) Property transferred pursuant to paragraph (1) of this subsection may not include buildings and other facilities, except housing, located outside such areas, the use of which is retained by the United States pursuant to the Panama Canal Treaty of 1977 and related agreements.
+(2) Property transferred pursuant to paragraph (1) of this subsection may not include buildingsand other facilities, except housing, located outside such areas, the use of which is retained by the United States pursuant to the Panama Canal Treaty of 1977 and related agreements.
 
 #### (b) Transfer of certain property pursuant to Panama Canal Treaty of 1977; report to Congress
 
@@ -18,7 +18,7 @@ With respect to the transfer of all other property (not described in subsection 
 
 #### (c) Restriction on transfer of Panama Canal and certain other property
 
-The Panama Canal, and such other property referred to in paragraph 2(d) of Article XIII of the Panama Canal Treaty of 1977 that has notbeen previously transferred in accordance with paragraphs 2(a), 2(b), and 2(c) of such Article, shall not be transferred to the Republic of Panama prior to December 31, 1999.
+The Panama Canal, and such other property referred to in paragraph 2(d) of Article XIII of the Panama Canal Treaty of 1977 that has not been previously transferred in accordance with paragraphs 2(a), 2(b), and 2(c) of such Article, shall not be transferred to the Republic of Panama prior to December 31, 1999.
 
 (Pub. L. 96–70, title I, §1504, Sept. 27, 1979, 93 Stat. 488; Pub. L. 99–223, §7, Dec. 28, 1985, 99 Stat. 1740.)
 

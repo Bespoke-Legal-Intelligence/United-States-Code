@@ -50,7 +50,7 @@
 
 &emsp;The Comptroller General of the United States, the Secretary, or the Inspector General of the Department of Housing and Urban Development may conduct an audit of any activity undertaken under paragraph (1) at any time.
 
-(Sept. 1, 1937, ch. 896, title I, §13, as added Pub. L. 96–153, title II, §209, Dec. 21, 1979, 93 Stat. 1109; amended Pub. L. 96–399, title II, §202(b), Oct. 8, 1980, 94 Stat. 1629; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 105–276, title V, §515, Oct. 21, 1998, 112 Stat. 2549.)
+(Sept. 1, 1937, ch. 896, title I, §13, as added Pub. L. 96–153, title II, §209, Dec. 21, 1979, 93 Stat. 1109; amended Pub. L. 96–399, title II, §202(b), Oct. 8, 1980, 94 Stat. 1629; renumbered title I, Pub. L.100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 105–276, title V, §515, Oct. 21, 1998, 112 Stat. 2549.)
 
 #### Prior Provisions
 
@@ -72,7 +72,7 @@ Pub. L. 100–242, title I, §125, Feb. 5, 1988, 101 Stat. 1847, provided that:
 
 “(a)
 
-Establishment.—The Secretary of Housing and Urban Development shall establish a demonstration program through the assistance of an appropriate technology transfer organization that specializes in producing detailed energy-efficient designs and in conducting local and statewide, public participation tests for energy efficient, needs-oriented housing. The appropriate technology organization shall carry out the demonstration working through and with public housing agencies to build and test a variety of energy-efficient housing designs in 100 separate housing units in 4 different States that meet local lower income housing needs (including single parent, disabled, and elderly concerns) through a composite ranging from single to 12-plexunits in the cluster approach on vacant lots and open areas.
+Establishment.—The Secretary of Housing and Urban Development shall establish a demonstration program through the assistance of an appropriate technology transfer organization that specializes in producing detailed energy-efficient designs and in conducting local and statewide, public participation tests for energy efficient, needs-oriented housing. The appropriate technology organization shall carry out the demonstration working through and with public housing agencies to build and test a variety of energy-efficient housing designs in 100 separate housing units in 4 different States that meet local lower income housing needs (including single parent, disabled, and elderly concerns) through a composite ranging from single to 12-plex units in the cluster approach on vacant lots and open areas.
 
 “(b)
 

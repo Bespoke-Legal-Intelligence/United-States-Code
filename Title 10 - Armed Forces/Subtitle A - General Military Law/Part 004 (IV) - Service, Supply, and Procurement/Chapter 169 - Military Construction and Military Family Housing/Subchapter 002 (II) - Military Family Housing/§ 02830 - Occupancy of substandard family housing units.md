@@ -40,7 +40,3 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2801 of this title.
-

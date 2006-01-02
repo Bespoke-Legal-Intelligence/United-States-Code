@@ -24,7 +24,3 @@ The words “a contract, made by that agency, that provides for” are substitut
 
 1996—Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 403c.
-

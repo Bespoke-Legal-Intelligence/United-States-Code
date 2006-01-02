@@ -40,7 +40,7 @@
 
 #### (1) Grounds for suspension, termination, or debarment
 
-&emsp;Each contract awarded by a Federal agency shall be subject to suspension of payments under the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that—
+&emsp;Each contract awarded by a Federal agency shall be subject to suspension of paymentsunder the contract or termination of the contract, or both, and the contractor thereunder or the individual who entered the contract with the Federal agency, as applicable, shall be subject to suspension or debarment in accordance with the requirements of this section if the head of the agency determines that—
 
 &emsp;&emsp;(A) the contractor violates the requirements of subparagraph (A), (B), (C), (D), (E), or (F) of subsection (a)(1) of this section; or
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided in this chapter, the terms used in this chapter have the same meaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
+Except as otherwise provided in this chapter, the terms used in this chapter have the samemeaning given such terms in section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\].
 
 #### (b) Qualified alien
 
@@ -18,7 +18,7 @@ For purposes of this chapter, the term “qualified alien” means an alien who,
 
 &emsp;(5) an alien whose deportation is being withheld under section 243(h) of such Act \[8 U.S.C. 1253\] (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act \[8 U.S.C. 1231(b)(3)\] (as amended by section 305(a) of division C of Public Law 104–208),
 
-&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980; <sup>1</sup> or
+&emsp;(6) an alien who is granted conditional entry pursuant to section 203(a)(7) of such Act \[8 U.S.C. 1153(a)(7)\] as in effect prior to April 1, 1980; <sup>1</sup> or
 
 &emsp;(7) an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980).
 
@@ -58,7 +58,7 @@ For purposes of this chapter, the term “qualified alien” includes—
 
 After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General's sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms “battery” and “extreme cruelty”, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual's need for benefits under a specific Federal, State, or local program.
 
-(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530.)
+(Pub. L. 104–193, title IV, §431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, §308(g)(8)(E), title V, §501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V,§§5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, §1508, Oct. 28, 2000, 114 Stat. 1530.)
 
 #### References in Text
 

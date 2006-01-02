@@ -56,6 +56,10 @@ Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
+#### Requirement for Separate Reports on Technology Area Review and Assessment Summaries
+
+Pub. L. 109–163, div. A, title II, §253(c), Jan. 6, 2006, 119 Stat. 3180, provided that: “Whenever the Secretary of Defense provides for the conduct of a study referred to as a Technology Area Review and Assessment, the Secretary shall, not later than March 1 of the year following the year in which that study is conducted, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing a summary of each such Technology Area Review and Assessment conducted during that year.”
+
 #### Essential Items Identification and Domestic Production Capabilities Improvement Program
 
 Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, provided that:
@@ -140,7 +144,7 @@ Identification Process.—(1) The Secretary of Defense shall establish a process
 
 &emsp;“(D) Federal Supply Class and North American Industry Classification System Codes for active items, assemblies, and components.
 
-“(3) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department ofDefense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
+“(3) For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
 
 “(b)
 
@@ -180,7 +184,7 @@ Report.—(1) Not later than November 1 of each year, beginning with November 1,
 
 “(a)
 
-Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
+Establishment of Fund.—There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base CapabilitiesFund (hereafter in this section referred to as the ‘Fund’).
 
 “(b)
 
@@ -282,7 +286,7 @@ Matters Studied.—(1) The study shall review and assess whether such changes as
 
 &emsp;“(B) Whether the applied technology councils are effective in contributing the input of all levels beneath the senior leadership into the coordination, focus, and content of the science and technology program.
 
-&emsp;“(C) Whether the designation of the commander of the Air Force Materiel Command as the science and technology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
+&emsp;“(C) Whether the designation of the commander of the Air Force Materiel Command as the science andtechnology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
 
 &emsp;“(D) Whether the revised development planning process is effective to aid in the coordination of the needs of the Air Force warfighters with decisions on science and technology investments and the establishment of priorities among different science and technology programs.
 
@@ -378,7 +382,7 @@ Pub. L. 106–65, div. A, title II, §243, Oct. 5, 1999, 113 Stat. 551, provided
 
 “(a)
 
-Requirement.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions that are necessary to promote the research base and technological development that will be needed for ensuring that the Armed Forces have the military capabilities that are necessary for meeting national security requirements over the next two to three decades.
+Requirement.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submitto the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions that are necessary to promote the research base and technological development that will be needed for ensuring that the Armed Forces have the military capabilities that are necessary for meeting national security requirements over the next two to three decades.
 
 “(b)
 
@@ -420,7 +424,7 @@ Guidelines for the Defense Science and Technology Program.—
 
 &emsp;“(1)
 
-Relationship of defense science and technology program to university research.—It is the sense of Congress that the following should be keyobjectives of the Defense Science and Technology Program:
+Relationship of defense science and technology program to university research.—It is the sense of Congress that the following should be key objectives of the Defense Science and Technology Program:
 
 &emsp;&emsp;“(A) The sustainment of research capabilities in scientific and engineering disciplines critical to the Department of Defense.
 
@@ -488,17 +492,11 @@ Definitions.—In this section:
 
 &emsp;“(3) The term ‘advanced development’ means work funded in program elements for defense research and development under Department of Defense category 6.3.”
 
-#### Annual Joint Warfighting Science and Technology Plan
+#### Biennial Joint Warfighting Science and Technology Plan
 
-Section 270 of Pub. L. 104–201, as amended by Pub. L. 106–65, div. A, title II, §242, title X, §1067(5), Oct. 5, 1999, 113 Stat. 551, 774, provided that:
+Pub. L. 104–201, div. A, title II, §270, Sept. 23, 1996, 110 Stat. 2469, as amended by Pub. L. 106–65, div. A, title II, §242, title X, §1067(5), Oct. 5, 1999, 113 Stat. 551, 774; Pub. L. 109–163, div. A, title II, §253(a), (b), Jan. 6, 2006, 119 Stat. 3179, 3180, provided that:
 
-“(a)
-
-Annual Plan Required.—On March 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for ensuring that the science and technology program of the Department of Defense supports the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces.
-
-“(b)
-
-Technology Area Review and Assessment.—With the submission of the plan under subsection (a) each year, the Secretary shall also submit to the committees referred to in that subsection a summary of each technology area review and assessment conducted by the Department of Defense in support of that plan.”
+“Not later than March 1 of each even-numbered year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for ensuring that the science and technology program of the Department of Defense supports the development of the future joint warfighting capabilities identified as priority requirements for the Armed Forces.
 
 #### Cost Reimbursement Rules for Indirect Costs Attributable to Private Sector Work of Defense Contractors
 
@@ -682,7 +680,7 @@ Notice to Subcontractors.—Not later than 60 days after the date on which the p
 
 Contractor Notice to Employees and State Dislocated Worker Unit.—Not later than two weeks after a defense contractor receives notice under subsection (a), the contractor shall provide notice of such termination or substantial reduction to—
 
-&emsp;“(1)(A) each representative of employees whose work is directly related to the defense contract undersuch program and who are employed by the defense contractor; or
+&emsp;“(1)(A) each representative of employees whose work is directly related to the defense contract under such program and who are employed by the defense contractor; or
 
 &emsp;“(B) if there is no such representative at that time, each such employee; and
 
@@ -703,8 +701,4 @@ Definitions.—For purposes of this section:
 &emsp;“(1) The term ‘major defense program’ means a program that is carried out to produce or acquire a major system (as defined in section 2302(5) of title 10, United States Code).
 
 &emsp;“(2) The terms ‘substantial reduction’ and ‘substantially reduced’, with respect to a defense contract under a major defense program, mean a reduction of 25 percent or more in the total dollar value of the funds obligated by the contract.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2198, 2500, 2502, 2505, 2506, 2511, 2514, 2515, 2519, 2521, 2540, 2541, 2709, 7315 of this title.
 

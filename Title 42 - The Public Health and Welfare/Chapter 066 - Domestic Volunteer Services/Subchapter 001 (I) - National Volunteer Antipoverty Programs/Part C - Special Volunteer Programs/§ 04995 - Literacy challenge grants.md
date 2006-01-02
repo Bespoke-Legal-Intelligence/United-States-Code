@@ -38,7 +38,7 @@ Each eligible organization desiring a grant under this section shall submit to t
 
 (3) The non-Federal share provided by a public agency or a nonprofit or community-based organization may be provided in cash, or in kind, fairly evaluated, and may include the use of plant, equipment, and services.
 
-(Pub. L. 93–113, title I, §124, formerly §125, as added Pub. L. 102–73, title VII, §701(a)(1), July 25, 1991, 105 Stat. 358; renumbered §124 and amended Pub. L. 103–82, title III, §333(2), title IV, §405(a)(5), Sept. 21, 1993, 107 Stat. 903, 920.)
+(Pub. L. 93–113, title I, §124, formerly §125, as added Pub. L. 102–73, title VII, §701(a)(1), July 25,1991, 105 Stat. 358; renumbered §124 and amended Pub. L. 103–82, title III, §333(2), title IV, §405(a)(5), Sept. 21, 1993, 107 Stat. 903, 920.)
 
 #### Prior Provisions
 

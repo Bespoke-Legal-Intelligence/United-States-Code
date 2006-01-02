@@ -62,5 +62,21 @@ Section is comprised of section 201 of Pub. L. 107–173. Subsec. (b)(2) of sect
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
+#### Enhancement of Communications Integration and Information Sharing on Border Security
+
+Pub. L. 109–13, div. B, title III, §303, May 11, 2005, 119 Stat. 317, provided that:
+
+“(a)
+
+In General.—Not later than 180 days after the date of the enactment of this division \[May 11, 2005\], the Secretary of Homeland Security, acting through the Under Secretary of Homeland Security for Border and Transportation Security, in consultation with the Under Secretary of Homeland Security for Science and Technology, the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection, the Assistant Secretary of Commerce for Communications and Information, and other appropriate Federal, State, local, and tribal agencies, shall develop and implement a plan—
+
+&emsp;“(1) to improve the communications systems of the departments and agencies of the Federal Government in order to facilitate the integration of communications among the departments and agencies of the Federal Government and State, local government agencies, and Indian tribal agencies on matters relating to border security; and
+
+&emsp;“(2) to enhance information sharing among the departments and agencies of the Federal Government, State and local government agencies, and Indian tribal agencies on such matters.
+
+“(b)
+
+Report.—Not later than 1 year after implementing the plan under subsection (a), the Secretary shall submit a copy of the plan and a report on the plan, including any recommendations the Secretary finds appropriate, to the Senate Committee on Commerce, Science, and Transportation, the House of Representatives Committee on Science, the House of Representatives Committee on Homeland Security, and the House of Representatives Committee on the Judiciary.”
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

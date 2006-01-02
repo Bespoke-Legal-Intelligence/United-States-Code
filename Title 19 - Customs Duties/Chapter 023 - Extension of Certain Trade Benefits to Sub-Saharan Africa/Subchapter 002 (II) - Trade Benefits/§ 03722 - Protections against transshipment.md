@@ -56,7 +56,7 @@
 
 #### (3) Penalties for exporters
 
-&emsp;If the President determines, based on sufficient evidence, that an exporter has engagedin transshipment as defined in paragraph (4), then the President shall deny for a period of 5 years all benefits under section 3721 of this title to such exporter, any successor of such exporter, and any other entity owned or operated by the principal of the exporter.
+&emsp;If the President determines, based on sufficient evidence, that an exporter has engaged in transshipment as defined in paragraph (4), then the President shall deny for a period of 5 years all benefits under section 3721 of this title to such exporter, any successor of such exporter, and any other entity owned or operated by the principal of the exporter.
 
 #### (4) Transshipment described
 

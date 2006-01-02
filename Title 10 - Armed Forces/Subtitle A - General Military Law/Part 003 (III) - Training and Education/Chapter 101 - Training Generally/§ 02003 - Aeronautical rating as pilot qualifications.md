@@ -4,7 +4,3 @@ To be eligible to receive an aeronautical rating as a pilot in the Army or Air F
 
 (Added Pub. L. 92–168, §4(1), Nov. 24, 1971, 85 Stat. 489.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6913 of this title; title 14 section 373.
-

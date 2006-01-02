@@ -6,7 +6,7 @@ No merchandise, baggage, or passengers arriving in the United States from any fo
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in R.S. §2872, as amended by the act of June 26, 1884, ch. 121, §25, 23 Stat. 59, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §450, 42 Stat. 954, and was repealed by section 642 thereof. Section 450 of the 1922 act was superseded by section 450 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in R.S. §2872, as amended by the act of June 26,1884, ch. 121, §25, 23 Stat. 59, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §450, 42 Stat. 954, and was repealed by section 642 thereof. Section 450 of the 1922 act was superseded by section 450 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 R.S. §2871 providing for the granting of a special license to unlade at night, and the amendment thereof by act June 30, 1906, ch. 3909, 34 Stat. 633, were repealed by section 6 of act Feb. 13, 1911, ch. 46, and provision for the grant of a special license to lade or unlade at night, and the grant of permits for immediate lading and unlading of vessels admitted to preliminary entry, etc., was made, in sections 1 and 4 of that act, which were repealed by section 643 of the act of Sept. 21, 1922, ch. 356.
 

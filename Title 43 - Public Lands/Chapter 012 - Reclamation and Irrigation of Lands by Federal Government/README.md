@@ -193,14 +193,20 @@
 | (a) | Authorization. |
 | (b) | Cost share. |
 | (c) | Limitation. |
-| 390h–17a. | Williamson County, Texas, water recycling and reuse project. |
-| (a) | Authorization. |
-| (b) | Cost share. |
-| (c) | Limitation. |
+| 390h–17a. | Transferred. |
 | 390h–18. | Irvine basin groundwater and surface water improvement projects. |
 | (a) | Authorization. |
 | (b) | Cost share. |
 | (c) | Limitation. |
+| 390h–19. | Williamson County, Texas, water recycling and reuse project. |
+| (a) | Authorization. |
+| (b) | Cost share. |
+| (c) | Limitation. |
+| 390h–20. | Hawaii reclamation projects. |
+| (a) | Authorization. |
+| (b) | Cost share. |
+| (c) | Limitation. |
+| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

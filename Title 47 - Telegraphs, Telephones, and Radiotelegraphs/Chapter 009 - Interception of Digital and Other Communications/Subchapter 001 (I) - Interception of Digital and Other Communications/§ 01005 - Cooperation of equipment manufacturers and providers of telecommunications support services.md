@@ -6,7 +6,7 @@ A telecommunications carrier shall consult, as necessary, in a timely fashion wi
 
 #### (b) Cooperation
 
-Subject to sections 1003(e), 1007(a), and 1008(b) and (d) of this title, a manufacturer of telecommunications transmission or switching equipment and a provider of telecommunications support services shall, on a reasonably timely basis and at a reasonable charge, make available to the telecommunications carriers using its equipment, facilities, or services such features or modifications as are necessary to permit such carriers to comply with the capability requirements of section 1002 of this title and the capacity requirements identified by the Attorney General under section 1003 of this title.
+Subject to sections 1003(e), 1007(a), and 1008(b) and (d) of this title, a manufacturer of telecommunications transmission or switching equipment and a provider of telecommunications support services shall, on a reasonably timely basis and at a reasonable charge, make available to the telecommunications carriers using its equipment, facilities, or services such features or modifications as are necessary topermit such carriers to comply with the capability requirements of section 1002 of this title and the capacity requirements identified by the Attorney General under section 1003 of this title.
 
 (Pub. L. 103–414, title I, §106, Oct. 25, 1994, 108 Stat. 4284.)
 

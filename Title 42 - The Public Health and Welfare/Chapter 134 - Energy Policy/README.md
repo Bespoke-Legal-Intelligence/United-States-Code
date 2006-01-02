@@ -144,6 +144,11 @@
 | (b) | Willful violation. |
 | (c) | Knowing and willful violation following prior violation and penalty. |
 | [13263\.](Subchapter%20003%20%28III%29%20-%20Availability%20and%20Use%20of%20Replacement%20Fuels%2C%20Alternative%20Fuels%2C%20and%20Alternative%20Fueled%20Private%20Vehicles/%C2%A7%2013263%20-%20Powers%20of%20Secretary.md) | Powers of Secretary. |
+| [13263a.](Subchapter%20003%20%28III%29%20-%20Availability%20and%20Use%20of%20Replacement%20Fuels%2C%20Alternative%20Fuels%2C%20and%20Alternative%20Fueled%20Private%20Vehicles/%C2%A7%2013263a%20-%20Alternative%20compliance.md) | Alternative compliance. |
+| (a) | Application for waiver. |
+| (b) | Grant of waiver. |
+| (c) | Reporting requirement. |
+| (d) | Revocation of waiver. |
 | [13264\.](Subchapter%20003%20%28III%29%20-%20Availability%20and%20Use%20of%20Replacement%20Fuels%2C%20Alternative%20Fuels%2C%20and%20Alternative%20Fueled%20Private%20Vehicles/%C2%A7%2013264%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -400,6 +405,17 @@
 | (b) | Restrictions on deposits. |
 | (c) | Use of Fund. |
 | (d) | Authorization of appropriations. |
+| [13389\.](Subchapter%20007%20%28VII%29%20-%20Global%20Climate%20Change/%C2%A7%2013389%20-%20Greenhouse%20gas%20intensity%20reducing%20strategies.md) | Greenhouse gas intensity reducing strategies. |
+| (a) | Definitions. |
+| (b) | Committee on Climate Change Technology. |
+| (c) | National climate change technology policy. |
+| (d) | Climate Change Technology Program. |
+| (e) | Technology inventory. |
+| (f) | Climate Change Technology Advisory Committee. |
+| (g) | Greenhouse gas intensity reducing technology deployment. |
+| (h) | Procedures for calculating, monitoring, and analyzing greenhouse gas intensity. |
+| (i) | Demonstration projects. |
+| (j) | Cooperative research and development agreements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -722,6 +738,29 @@
 | [13556\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013556%20-%20Disadvantaged%20business%20enterprises.md) | Disadvantaged business enterprises. |
 | (a) | General rule. |
 | (b) | Definitions. |
+| [13557\.](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/Part%20B%20-%20Other%20Miscellaneous%20Provisions/%C2%A7%2013557%20-%20Sense%20of%20Congress%20on%20risk%20assessments.md) | Sense of Congress on risk assessments. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XIII—CLEAN AIR COAL PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [13571\.](Subchapter%20013%20%28XIII%29%20-%20Clean%20Air%20Coal%20Program/%C2%A7%2013571%20-%20Purposes.md) | Purposes. |
+| [13572\.](Subchapter%20013%20%28XIII%29%20-%20Clean%20Air%20Coal%20Program/%C2%A7%2013572%20-%20Authorization%20of%20program.md) | Authorization of program. |
+| (a) | In general. |
+| (b) | Financial criteria. |
+| [13573\.](Subchapter%20013%20%28XIII%29%20-%20Clean%20Air%20Coal%20Program/%C2%A7%2013573%20-%20Generation%20projects.md) | Generation projects. |
+| (a) | Eligible projects. |
+| (b) | Criteria. |
+| (c) | Program balance and priority. |
+| (d) | Authorization of appropriations. |
+| (e) | Applicability. |
+| [13574\.](Subchapter%20013%20%28XIII%29%20-%20Clean%20Air%20Coal%20Program/%C2%A7%2013574%20-%20Air%20quality%20enhancement%20program.md) | Air quality enhancement program. |
+| (a) | Eligible projects. |
+| (b) | Priority in project selection. |
+| (c) | Authorization of appropriations. |
+| (d) | Applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -745,3 +784,4 @@
 - [Subchapter 010 (X) - Energy and Economic Growth](Subchapter%20010%20%28X%29%20-%20Energy%20and%20Economic%20Growth/README.md)
 - [Subchapter 011 (XI) - Policy and Administrative Provisions](Subchapter%20011%20%28XI%29%20-%20Policy%20and%20Administrative%20Provisions/README.md)
 - [Subchapter 012 (XII) - Miscellaneous](Subchapter%20012%20%28XII%29%20-%20Miscellaneous/README.md)
+- [Subchapter 013 (XIII) - Clean Air Coal Program](Subchapter%20013%20%28XIII%29%20-%20Clean%20Air%20Coal%20Program/README.md)

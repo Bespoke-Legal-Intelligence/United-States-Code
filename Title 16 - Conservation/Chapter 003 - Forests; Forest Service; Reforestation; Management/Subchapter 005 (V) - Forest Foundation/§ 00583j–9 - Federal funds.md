@@ -26,9 +26,11 @@ Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
 
 #### Authorized Investments
 
-Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3079, provided in part: “That authorized investments of Federal funds held by the \[National Forest\] Foundation may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
+Pub. L. 109–54, title III, Aug. 2, 2005, 119 Stat. 538, provided in part: “That authorized investments of Federal funds held by the \[National Forest\] Foundation may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3079.
 
 Pub. L. 108–108, title II, Nov. 10, 2003, 117 Stat. 1288.
 

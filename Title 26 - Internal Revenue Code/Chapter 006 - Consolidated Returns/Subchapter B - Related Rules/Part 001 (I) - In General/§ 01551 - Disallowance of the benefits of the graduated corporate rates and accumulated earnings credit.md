@@ -16,7 +16,7 @@ If—
 
 For purposes of subsection (a), the term “control” means—
 
-&emsp;(1) With respect to a transferee corporation described in subsection (a)(1) or (2), the ownership by the transferor corporation, its shareholders, or both, of stock possessing at least 80percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock; or
+&emsp;(1) With respect to a transferee corporation described in subsection (a)(1) or (2), the ownership by the transferor corporation, its shareholders, or both, of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock; or
 
 &emsp;(2) With respect to each corporation described in subsection (a)(3), the ownership by the five or fewer individuals described in such subsection of stock possessing—
 
@@ -40,7 +40,7 @@ The provisions of section 269(c) and the authority of the Secretary under such s
 
 1978—Pub. L. 95–600, §301(b)(18)(B), substituted “the benefits of the graduated corporate rates” for “surtax exemption” in section catchline.
 
-Subsec. (a). Pub. L. 95–600, §301(b)(18)(A), in provisions following par. (3) substituted “disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section” for “disallow the surtax exemption (as defined in section 11(d))” and “such benefits or” for “such exemption or”.
+Subsec. (a). Pub. L. 95–600, §301(b)(18)(A), in provisions following par. (3) substituted “disallow the benefits of the rates contained in section 11(b) which are lower than the highest rate specified in such section”for “disallow the surtax exemption (as defined in section 11(d))” and “such benefits or” for “such exemption or”.
 
 1976—Subsec. (a). Pub. L. 94–455 §§1901(a)(158), 1906(b)(13)(A), substituted “subsection (c)” for “subsection (d)” after “determined under” and struck out “or his delegate” after “Secretary”.
 
@@ -77,8 +77,4 @@ Amendment by Pub. L. 85–866 applicable with respect to taxable years beginning
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12, 535 of this title.
 

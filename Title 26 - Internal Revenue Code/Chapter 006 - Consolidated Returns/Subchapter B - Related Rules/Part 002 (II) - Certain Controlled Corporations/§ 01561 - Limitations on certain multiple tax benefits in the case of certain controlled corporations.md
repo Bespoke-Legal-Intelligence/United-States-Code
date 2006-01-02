@@ -132,7 +132,3 @@ Section applicable with respect to taxable years ending after Dec. 31, 1963, see
 
 For applicability of amendment by section 701(e)(2) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 535, 4980B, 4980D, 4980F, 6655 of this title.
-

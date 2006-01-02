@@ -12,7 +12,7 @@ In order to pay for the United States contribution to the Asian Development Fund
 
 For the purpose of keeping to a minimum the cost to the United States, the Secretary of the Treasury—
 
-&emsp;(1) shall pay the United States contribution to the Asian Development Fund authorized bythis section by letter of credit in four annual installments; and
+&emsp;(1) shall pay the United States contribution to the Asian Development Fund authorized by this section by letter of credit in four annual installments; and
 
 &emsp;(2) shall take the steps necessary to obtain a certification from the Bank that any undisbursed balances resulting from drawdowns on such letter of credit will not exceed at any time the United States share of expected disbursement requirements for the following three-month period.
 

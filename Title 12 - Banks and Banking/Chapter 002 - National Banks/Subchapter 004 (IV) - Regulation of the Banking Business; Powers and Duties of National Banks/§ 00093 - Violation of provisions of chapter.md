@@ -98,7 +98,7 @@ The resignation, termination of employment or participation, or separation of an
 
 #### (B) Conviction of title 31 offenses
 
-&emsp;&emsp;If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31, after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+&emsp;&emsp;If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31,after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller's intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
 
 #### (C) Judicial review
 

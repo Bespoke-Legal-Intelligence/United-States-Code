@@ -62,7 +62,7 @@
 
 &emsp;(C) In cases involving fraud in the process of obtaining a loan or extension of credit, the court shall allow the claimant a deduction from the forfeiture to the extent that the loan was repaid, or the debt was satisfied, without any financial loss to the victim.
 
-(b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seized by the Secretary of the Treasury or the Postal Service, respectively.
+(b)(1) Except as provided in section 985, any property subject to forfeiture to the United States under subsection (a) may be seized by the Attorney General and, in the case of property involved in a violation investigated by the Secretary of the Treasury or the United States Postal Service, the property may also be seizedby the Secretary of the Treasury or the Postal Service, respectively.
 
 (2) Seizures pursuant to this section shall be made pursuant to a warrant obtained in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure, except that a seizure may be made without a warrant if—
 
@@ -106,7 +106,7 @@
 
 &emsp;(4) in the case of property referred to in subsection (a)(1)(C), upon the order of the appropriate Federal financial institution regulatory agency, to the financial institution as restitution, with the value of the property so transferred to be set off against any amount later recovered by the financial institution as compensatory damages in any State or Federal proceeding;
 
-&emsp;(5) in the case of property referred to in subsection (a)(1)(C), to any Federal financial institution regulatory agency, to the extent of the agency's contribution of resources to, or expenses involved in, the seizure and forfeiture, and the investigation leading directly to the seizure and forfeiture, of such property;
+&emsp;(5) in the case of property referred to in subsection (a)(1)(C), to any Federal financial institution regulatory agency, to the extent of the agency's contribution of resources to, orexpenses involved in, the seizure and forfeiture, and the investigation leading directly to the seizure and forfeiture, of such property;
 
 &emsp;(6) as restoration to any victim of the offense giving rise to the forfeiture, including, in the case of a money laundering offense, any offense constituting the underlying specified unlawful activity; or
 
@@ -138,7 +138,7 @@
 
 (h) In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
-(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as the case may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
+(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as the case may be, may transfer the forfeited personalproperty or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
 
 &emsp;(A) has been agreed to by the Secretary of State;
 
@@ -202,7 +202,7 @@ Owner.—
 
 In general.—Except as provided in clause (ii), the term “owner”—
 
-&emsp;&emsp;&emsp;&emsp;(I) means the person who was the owner, as that term is defined in section 983(d)(6), of the funds that were deposited into the foreign bank at the time such funds were deposited; and
+&emsp;&emsp;&emsp;&emsp;(I) means the person who was the owner, as that term is defined in section 983(d)(6), of the funds that were depositedinto the foreign bank at the time such funds were deposited; and
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include either the foreign bank or any financial institution acting as an intermediary in the transfer of the funds into the interbank account.
 
@@ -302,7 +302,7 @@ Subsec. (e)(6). Pub. L. 101–647, §2508, added par. (6).
 
 Subsec. (e)(7). Pub. L. 101–647, §2525(a)(2), as amended by Pub. L. 103–322, §330011(s)(2), added par. (7).
 
-Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: “In the caseof property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:”.
+Subsec. (i). Pub. L. 101–647, §103(1), struck out introductory provisions which read as follows: “In the case of property subject to forfeiture under subsection (a)(1)(B), the following additional provisions shall, to the extent provided by treaty, apply:”.
 
 Subsec. (i)(1). Pub. L. 101–647, §103(3), substituted first sentence for “Notwithstanding any other provision of law, except section 3 of the Anti Drug Abuse Act of 1986, whenever property is civilly or criminally forfeited under the Controlled Substances Act, the Attorney General may, with the concurrence of the Secretary of State, equitably transfer any conveyance, currency, and any other type of personal property which the Attorney General may designate by regulation for equitable transfer, or any amounts realized by the United States from the sale of any real or personal property forfeited under the Controlled Substances Act to an appropriate foreign country to reflect generally the contribution of any such foreign country participating directly or indirectly in any acts which led to the seizure or forfeiture of such property. Such property when forfeited pursuant to subsection (a)(1)(B) of this section may also be transferred to a foreign country pursuant to a treaty providing for the transfer of forfeited property to such foreign country.”
 
@@ -343,10 +343,6 @@ Pub. L. 100–690, §6469(b)(4), inserted provision that the authority granted t
 Subsec. (g). Pub. L. 100–690, §6471(c), inserted “, Federal, State or local,” after “law”.
 
 Subsec. (i)(1). Pub. L. 100–690, §6470(f), substituted “subsection” for “subchapter” in fourth sentence.
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Effective Date of 2000 Amendment
 

@@ -82,7 +82,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date
 
-Section applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for any portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as a note under section 86 of this title.
+Section applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except forany portion of a lump-sum payment of social security benefits received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 121(g) of Pub. L. 98–21, set out as a note under section 86 of this title.
 
 #### Repeal of Supplemental Medicare Premium and Federal Hospital Insurance Catastrophic Coverage Reserve Fund
 

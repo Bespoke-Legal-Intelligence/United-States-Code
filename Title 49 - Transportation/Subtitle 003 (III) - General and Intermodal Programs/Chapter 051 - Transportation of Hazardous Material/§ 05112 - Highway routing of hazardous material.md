@@ -2,7 +2,7 @@
 
 (a)
 
-Application.—(1) This section applies to a motor vehicle only if the vehicle is transporting hazardous material in commerce for which placarding of the vehicle is required under regulations prescribed under this chapter. However, the Secretary of Transportation by regulation may extend application of this section or a standard prescribed under subsection (b) of this section to—
+Application.—(1) This section applies to a motor vehicle only if the vehicle is transporting hazardous material in commerce for which placarding of the vehicle is required under regulations prescribed under this chapter. However, the Secretary by regulation may extend application of this section or a standard prescribed under subsection (b) of this section to—
 
 &emsp;(A) any use of a vehicle under this paragraph to transport any hazardous material in commerce; and
 
@@ -94,9 +94,9 @@ Relationship to Other Laws.—This section and regulations prescribed under this
 
 (f)
 
-Existing Radioactive Material Routing Regulations.—The Secretary is not required to amend or again prescribe regulations related tohighway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
+Existing Radioactive Material Routing Regulations.—The Secretary is not required to amend or again prescribe regulations related to highway routing designations over which radioactive material may and may not be transported by motor vehicles, and limitations and requirements related to the routing, that were in effect on November 16, 1990.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 769.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 769; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119 Stat. 1909.)
 
 Historical and Revision Notes
 
@@ -153,6 +153,10 @@ In subsection (d)(3), the word “civil” is added for consistency in the revis
 In subsection (e), the words “superseding or otherwise”, “application of”, “relating to vehicle weight limitations”, and “relating to vehicle length and vehicle width limitations, respectively” are omitted as surplus.
 
 In subsection (f), the word “modify” is omitted as surplus and for consistency in the revised title. The words “issued by the Department of Transportation before November 16, 1990, and” are omitted as obsolete.
+
+#### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 
 #### Study of Hazardous Materials Transportation by Motor Carriers Near Federal Prisons
 

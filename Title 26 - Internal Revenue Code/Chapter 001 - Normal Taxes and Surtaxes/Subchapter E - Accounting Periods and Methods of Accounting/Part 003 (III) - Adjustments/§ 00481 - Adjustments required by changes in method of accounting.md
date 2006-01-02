@@ -112,7 +112,3 @@ Pub. L. 86–459, May 13, 1960, 74 Stat. 124, authorized any person who computed
 
 Section 29(e) of Pub. L. 85–866 authorized an election by certain taxpayers, who, for any taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, and before Sept. 2, 1958, computed their taxable incomes using different accounting methods in succeeding taxable years, to return to their first method of accounting, where the election was made within six months after Sept. 2, 1958. Claims for refunds of overpayments of tax resulting from the election were to be filed within one year after the date of the election. Such an election was to be considered a consent to an assessment of a deficiency resulting from the election, where the assessment is made within one year after the date of the election.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 404A, 447, 448, 458, 585, 593, 985 of this title; title 42 section 401.
-

@@ -100,11 +100,7 @@ Section 3683 of this title, referred to in subsecs. (a)(3) and (d), was repealed
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3911, 3918, 3924 of this title.
+Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

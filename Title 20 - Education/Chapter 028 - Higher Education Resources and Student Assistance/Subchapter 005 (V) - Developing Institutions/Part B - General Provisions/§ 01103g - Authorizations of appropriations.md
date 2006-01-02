@@ -50,7 +50,7 @@ A prior section 1105, Pub. L. 89–329, title V, §521, as added Pub. L. 99–49
 
 Another prior section 1105, Pub. L. 89–329, title V, §515, Nov. 8, 1965, 79 Stat. 1257; Pub. L. 90–35, §3(h), June 29, 1967, 81 Stat. 87; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223, related to applicability of other provisions of laws to members of the Teacher Corps, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
-Section 1105a, Pub. L. 89–329, title V, §532, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 684, authorized grants to State education agencies for Christa McAuliffe fellowship program.
+Section 1105a, Pub. L. 89–329, title V, §532, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.684, authorized grants to State education agencies for Christa McAuliffe fellowship program.
 
 A prior section 1105a, Pub. L. 89–329, title V, §522, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, related to partnership agreements between institutions of higher education and secondary schools serving low-income students, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
@@ -68,7 +68,7 @@ A prior section 1105d, Pub. L. 89–329, title V, §525, as added Pub. L. 99–4
 
 Section 1105e, Pub. L. 89–329, title V, §536, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 686, related to fellowship repayment provisions.
 
-Section 1105f, Pub. L. 89–329, title V, §537, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.686; amended Pub. L. 103–208, §2(j)(5), Dec. 20, 1993, 107 Stat. 2481, related to Secretary's responsibilities.
+Section 1105f, Pub. L. 89–329, title V, §537, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 686; amended Pub. L. 103–208, §2(j)(5), Dec. 20, 1993, 107 Stat. 2481, related to Secretary's responsibilities.
 
 Section 1105g, Pub. L. 89–329, title V, §538, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 686, related to State applications for grants.
 
@@ -186,7 +186,7 @@ Another prior section 1111, Pub. L. 89–329, title V, §521, Nov. 8, 1965, 79 S
 
 Section 1111a, Pub. L. 89–329, title V, §572, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 704; amended Pub. L. 103–382, title III, §391(e)(5), Oct. 20, 1994, 108 Stat. 4022, authorized grants to States.
 
-A prior section 1111a, Pub. L. 89–329, title V, §552, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1506, related to allocation of funds among the States for Congressional teacher scholarships, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1111a, Pub. L. 89–329, title V, §552, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100Stat. 1506, related to allocation of funds among the States for Congressional teacher scholarships, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Section 1111b, Pub. L. 89–329, title V, §573, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 705, related to agreements with grant recipients.
 

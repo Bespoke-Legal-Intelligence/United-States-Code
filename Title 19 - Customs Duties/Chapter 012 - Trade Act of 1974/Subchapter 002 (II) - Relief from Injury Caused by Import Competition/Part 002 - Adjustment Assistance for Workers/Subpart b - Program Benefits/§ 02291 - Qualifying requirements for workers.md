@@ -12,7 +12,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(C) before the termination date (if any) determined pursuant to section 2273(d) of this title.
 
-&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
+&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm or subdivision of a firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts ofemployment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
 
 &emsp;&emsp;(A) is on employer-authorized leave for purposes of vacation, sickness, injury, maternity, or inactive duty or active duty military service for training,
 
@@ -158,7 +158,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 &emsp;“(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a job search program approved by the Secretary under section 2297(c) of this title.”
 
-Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
+Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in trainingprogram, and period of applicability, for provisions relating to mandatory training or job-search.
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
@@ -172,7 +172,7 @@ Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -228,7 +228,7 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 
 &emsp;“(1) with respect to weeks of unemployment beginning before October 1, 1981, payments of trade readjustment allowances determined under such chapter 2 without regard to the amendments made by this subtitle; and
 
-&emsp;“(2) with respect to weeks of unemployment beginning after September 30, 1981, payments of trade readjustment allowances as determined under such chapter 2 as amended by this subtitle, except that the maximum amount of trade readjustment allowances payable to such an individual for such weeks of unemployment shall be an amount equal to the product of the trade readjustment allowance payable to the individual for a week of total unemployment (as determined under section 232(a) as so amended \[section 2292(a) of this title\]) multiplied by a factor determined by subtracting from fifty-two the sum of—
+&emsp;“(2) with respect to weeks of unemployment beginning after September 30, 1981, payments of trade readjustment allowances as determined under such chapter 2 as amended by this subtitle, except that the maximum amount of trade readjustment allowances payable to such an individual for such weeks of unemployment shall be an amount equal to the product of the trade readjustment allowance payable to theindividual for a week of total unemployment (as determined under section 232(a) as so amended \[section 2292(a) of this title\]) multiplied by a factor determined by subtracting from fifty-two the sum of—
 
 &emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, and which are within the period covered by the same certification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
 

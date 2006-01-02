@@ -2,7 +2,7 @@
 
 In order to carry out the purpose of this subchapter the Secretary of State (hereinafter referred to as the “Secretary”) shall provide for—
 
-&emsp;(1) the establishment and operation in Hawaii of an educational institution to be knownas the Center for Cultural and Technical Interchange Between East and West, through arrangements with public, educational, or other nonprofit institutions;
+&emsp;(1) the establishment and operation in Hawaii of an educational institution to be known as the Center for Cultural and Technical Interchange Between East and West, through arrangements with public, educational, or other nonprofit institutions;
 
 &emsp;(2) grants, fellowships, and other payments to outstanding scholars and authorities from the nations of the East and West as may be necessary to attract such scholars and authorities to the Center;
 

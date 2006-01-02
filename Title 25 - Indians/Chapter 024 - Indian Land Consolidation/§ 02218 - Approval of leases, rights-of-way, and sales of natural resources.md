@@ -98,7 +98,7 @@ Nothing in this chapter shall be construed to supersede, repeal, or modify any g
 
 #### References in Text
 
-The American Indian Agricultural Resources Management Act, referred to in subsec. (f), probably means the American Indian Agricultural Resource Management Act, Pub. L. 103–177, Dec. 3, 1993, 107 Stat. 2011, as amended, which is classified generally to chapter 39 (§3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+The American Indian Agricultural Resources Management Act, referred to in subsec. (f), probably means the American Indian Agricultural Resource Management Act, Pub. L. 103–177, Dec. 3, 1993, 107 Stat. 2011, as amended, which is classified generally to chapter 39 (§3701 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
 The Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (f), is Pub. L. 106–462, Nov. 7, 2000, 114 Stat. 1991. Title II of the Act enacted provisions classified as a note under section 396 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
 

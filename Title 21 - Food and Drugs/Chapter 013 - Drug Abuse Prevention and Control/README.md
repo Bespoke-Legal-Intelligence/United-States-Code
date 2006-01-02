@@ -362,6 +362,7 @@
 | (c) | Nonnarcotic controlled substances in schedule I or II. |
 | (d) | Exception for exportation for special scientific purposes. |
 | (e) | Nonnarcotic controlled substances in schedule III or IV; controlled substances in schedule V. |
+| (f) | Exception for exportation for subsequent export. |
 | [954\.](Subchapter%20002%20%28II%29%20-%20Import%20and%20Export/%C2%A7%2000954%20-%20Transshipment%20and%20in-transit%20shipment%20of%20controlled%20substances.md) | Transshipment and in-transit shipment of controlled substances. |
 | [955\.](Subchapter%20002%20%28II%29%20-%20Import%20and%20Export/%C2%A7%2000955%20-%20Possession%20on%20board%20vessels%2C%20etc.%2C%20arriving%20in%20or%20departing%20from%20United%20States.md) | Possession on board vessels, etc., arriving in or departing from United States. |
 | 955a to 955d. Transferred. |  |

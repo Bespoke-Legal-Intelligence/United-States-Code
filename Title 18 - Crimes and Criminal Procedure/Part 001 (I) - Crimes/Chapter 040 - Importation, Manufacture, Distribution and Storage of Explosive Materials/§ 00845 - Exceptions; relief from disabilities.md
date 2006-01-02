@@ -2,7 +2,7 @@
 
 (a) Except in the case of subsections <sup>1</sup> (<i>l</i>), (m), (n), or (<i>o</i>) of section 842 and subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, this chapter shall not apply to:
 
-&emsp;(1) any aspect of the transportation of explosive materials via railroad, water, highway, or air which are regulated by the United States Department of Transportation and agencies thereof, and which pertain to safety;
+&emsp;(1) aspects of the transportation of explosive materials via railroad, water, highway, or air that pertain to safety, including security, and are regulated by the Department of Transportation or the Department of Homeland Security;
 
 &emsp;(2) the use of explosive materials in medicines and medicinal agents in the forms prescribed by the official United States Pharmacopeia, or the National Formulary;
 
@@ -34,13 +34,15 @@
 
 &emsp;(3) For purposes of this subsection, the term “military device” includes, but is not restricted to, shells, bombs, projectiles, mines, missiles, rockets, shaped charges, grenades, perforators, and similar devices lawfully manufactured exclusively for military or police purposes.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 958; amended Pub. L. 93–639, §101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, §605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 958; amended Pub. L. 93–639, §101, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 104–132, title VI, §605, Apr. 24, 1996, 110 Stat. 1289; Pub. L. 107–296, title XI, §§1112(e)(3), 1126, Nov. 25, 2002, 116 Stat. 2276, 2285; Pub. L. 109–59, title VII, §7127, Aug. 10, 2005, 119 Stat. 1909.)
 
 #### References in Text
 
 The date of enactment of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any aspect of the transportation of explosive materials via railroad, water, highway, or air which are regulated by the United States Department of Transportation and agencies thereof, and which pertain to safety;”.
 
 2002—Subsec. (b). Pub. L. 107–296, §1126, amended subsec. (b) generally. Prior to amendment, text read as follows: “A person who had been indicted for or convicted of a crime punishable by imprisonment for a term exceeding one year may make application to the Attorney General for relief from the disabilities imposed by this chapter with respect to engaging in the business of importing, manufacturing, or dealing in explosive materials, or the purchase of explosive materials, and incurred by reason of such indictment or conviction, and the Attorney General may grant such relief if it is established to his satisfaction that the circumstances regarding the indictment or conviction, and the applicant's record and reputation, are such that the applicant will not be likely to act in a manner dangerous to public safety and that the granting of the relief will not be contrary to the public interest. A licensee or permittee who makes application for relief from the disabilities incurred under this chapter by reason of indictment or conviction, shall not be barred by such indictment or conviction from further operations under his license or permit pending final action on an application for relief filed pursuant to this section.”
 

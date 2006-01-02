@@ -6,9 +6,9 @@
 
 (c) The ability of any district judge or other officer or employee of a district court to exercise any of the authority or responsibilities conferred upon the court under this title shall be determined by reference to the provisions relating to such judge, officer, or employee set forth in title 28. This subsection shall not be interpreted to exclude bankruptcy judges and other officers or employees appointed pursuant to chapter 6 of title 28 from its operation.
 
-(d) The court, on its own motion or on the request of a party in interest, may—
+(d) The court, on its own motion or on the request of a party in interest—
 
-&emsp;(1) hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and
+&emsp;(1) shall hold such status conferences as are necessary to further the expeditious and economical resolution of the case; and
 
 &emsp;(2) unless inconsistent with another provision of this title or with applicable Federal Rules of Bankruptcy Procedure, issue an order at any such conference prescribing such limitations and conditions as the court deems appropriate to ensure that the case is handled expeditiously and economically, including an order that—
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(vi) provides that the hearing on approval of the disclosure statement may be combined with the hearing on confirmation of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, §118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, §203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, §104(a), Oct. 22, 1994, 108 Stat. 4108.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 98–353, title I, §118, July 10, 1984, 98 Stat. 344; Pub. L. 99–554, title II, §203, Oct. 27, 1986, 100 Stat. 3097; Pub. L. 103–394, title I, §104(a), Oct. 22, 1994, 108 Stat. 4108; Pub. L. 109–8, title IV, §440, Apr. 20, 2005, 119 Stat. 114.)
 
 #### Historical and Revision Notes
 
@@ -44,6 +44,10 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are se
 
 #### Amendments
 
+2005—Subsec. (d). Pub. L. 109–8, §440(1), struck out “, may” after “party in interest” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 109–8, §440(2), added par. (1) and struck out former par. (1) which read as follows: “hold a status conference regarding any case or proceeding under this title after notice to the parties in interest; and”.
+
 1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
 
 1986—Subsec. (a). Pub. L. 99–554 inserted at end “No provision of this title providing for the raising of an issue by a party in interest shall be construed to preclude the court from, sua sponte, taking any action or making any determination necessary or appropriate to enforce or implement court orders or rules, or to prevent an abuse of process.”
@@ -51,6 +55,10 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (d)(2), are se
 1984—Subsecs. (a), (b). Pub. L. 98–353, §118(1), struck out “bankruptcy” before “court”.
 
 Subsec. (c). Pub. L. 98–353, §118(2), added subsec. (c).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

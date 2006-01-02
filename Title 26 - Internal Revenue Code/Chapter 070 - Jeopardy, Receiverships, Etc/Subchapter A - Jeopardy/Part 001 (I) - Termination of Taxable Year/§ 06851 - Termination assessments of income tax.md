@@ -32,7 +32,7 @@ Subject to such exceptions as may, by regulations, be prescribed by the Secretar
 
 &emsp;(1) No alien shall depart from the United States unless he first procures from the Secretary a certificate that he has complied with all the obligations imposed upon him by the income tax laws.
 
-&emsp;(2) Payment of taxes shall not be enforced by any proceedings under the provisions of this section prior to the expiration of the time otherwise allowed for paying such taxes if, in the case of an alien about to depart from the United States, the Secretary determines that the collection of the tax will not be jeopardized by the departure of the alien.
+&emsp;(2) Payment of taxes shall not be enforced by any proceedings under the provisions of this section prior to the expiration of the time otherwise allowed for paying such taxes if, in the case of an alien about to depart from theUnited States, the Secretary determines that the collection of the tax will not be jeopardized by the departure of the alien.
 
 #### (e) Sections 6861(f) and (g) to apply
 
@@ -69,8 +69,4 @@ Section 1204(d) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(a), Oct
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6015, 6211, 6231, 6234, 6852, 6863, 6867, 7429, 7508, 7611 of this title; title 5 section 5568; title 37 section 558.
 

@@ -1,5 +1,5 @@
 
-47 U.S.C.<br>United States Code, 2004 Edition<br>Title 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS<br>From the U.S. Government Publishing Office, www.gpo.gov
+47 U.S.C.<br>United States Code, 2005 Edition<br>Title 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 47—TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
 

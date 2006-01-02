@@ -6,7 +6,7 @@ In General.—In making a grant under this subchapter, the Secretary of Transpor
 
 (b)
 
-Discretionary Funding To Be Used for Higher Priority Projects.—The Administrator of the Federal Aviation Administration shall discourage airport sponsors and airports from using entitlement funds for lower priority projects by giving lower priority to discretionary projects submitted by airport sponsors and airports that have used entitlement funds for projects that have a lower priority than the projects for which discretionary funds are being requested.
+Discretionary Funding To Be Used for Higher Priority Projects.—The Administrator of the Federal Aviation Administration shall discourage airport sponsors and airports from using entitlement funds for lower priorityprojects by giving lower priority to discretionary projects submitted by airport sponsors and airports that have used entitlement funds for projects that have a lower priority than the projects for which discretionary funds are being requested.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1274; Pub. L. 106–181, title I, §162, Apr. 5, 2000, 114 Stat. 91.)
 

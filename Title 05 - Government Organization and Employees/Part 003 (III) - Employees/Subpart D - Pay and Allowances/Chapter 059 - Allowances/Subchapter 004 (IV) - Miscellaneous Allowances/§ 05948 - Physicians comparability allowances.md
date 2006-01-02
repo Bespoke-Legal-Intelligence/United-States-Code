@@ -138,7 +138,7 @@ Subsec. (g)(1). Pub. L. 97–141, §2(2), (3), reenacted provisions preceding su
 
 1979—Subsec. (d). Pub. L. 96–166, §2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
 
-Subsec. (g)(1). Pub. L. 96–166, §2(2)(A), directed the amendment of subsec. (g)(1) by inserting “or dentist”after “physician” which was executed by inserting the term after “employed as a physician” in introductory phrase as the probable intent of Congress.
+Subsec. (g)(1). Pub. L. 96–166, §2(2)(A), directed the amendment of subsec. (g)(1) by inserting “or dentist” after “physician” which was executed by inserting the term after “employed as a physician” in introductory phrase as the probable intent of Congress.
 
 Pub. L. 96–166, §2(2)(B)–(E), redesignated subpars. (B) through (G) as (D) through (I), respectively, added subpars. (B) and (C), substituted in subpar. (D) as redesignated, “5371” for “5361”, and substituted in subpar. (H) as redesignated, “section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission; or” for “section 121 of title 2 of the Canal Zone Code, relating to the Canal Zone Government and the Panama Canal Company; or”.
 
@@ -216,7 +216,7 @@ Section 2(b) of Pub. L. 103–114 provided that: “The first report under secti
 
 #### Pay of Certain Federal Physicians for Fiscal Year 1982
 
-Section 103 of Pub. L. 98–168 provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of suchlimitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms “aggregate pay”, “appropriate agency head”, and “agency”.
+Section 103 of Pub. L. 98–168 provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of such limitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms “aggregate pay”, “appropriate agency head”, and “agency”.
 
 #### Service Agreements Entered Into On or After December 29, 1981; Advance Authorization; Fiscal Year 1982
 

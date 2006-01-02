@@ -12,7 +12,7 @@
 
 (d) The Secretary of a military department does not control the duties and powers of a member of the armed forces appointed, detailed, or assigned under this section when those duties and powers pertain to the Department of Transportation. A member of the armed forces appointed, detailed, or assigned under subsection (a)(2) of this section may not be charged against a statutory limitation on grades or strengths of the armed forces. The appointment, detail, or assignment and service of a member under this section to a position in the Department of Transportation does not affect the status, office, rank, or grade held by that member, or a right or benefit arising from that status, office, rank, or grade.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2423.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2423.)
 
 Historical and Revision Notes
 

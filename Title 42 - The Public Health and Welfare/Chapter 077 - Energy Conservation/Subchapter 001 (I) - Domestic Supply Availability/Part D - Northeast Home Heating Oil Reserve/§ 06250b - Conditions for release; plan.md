@@ -12,7 +12,7 @@ The Secretary may sell products from the Reserve only upon a finding by the Pres
 
 For purposes of this section a “dislocation in the heating oil market” shall be deemed to occur only when—
 
-&emsp;(1) The price differential between crude oil, as reflected in an industry daily publication such as “Platt's Oilgram Price Report” or “Oil Daily” and No. 2 heating oil, as reported in the Energy Information Administration's retail price data for the Northeast, increases by more tan <sup>1</sup> 60 percent over its 5 year rolling average for the months of mid-October through March, and continues for 7 consecutive days; and
+&emsp;(1) The price differential between crude oil, as reflected in an industry daily publication such as “Platt's Oilgram Price Report” or “Oil Daily” and No. 2 heating oil, as reported in the Energy Information Administration's retail price data for the Northeast, increases by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average), and continues for 7 consecutive days; and
 
 &emsp;(2) The price differential continues to increase during the most recent week for which price information is available.
 
@@ -28,7 +28,7 @@ After consultation with the heating oil industry, the Secretary shall determine 
 
 &emsp;&emsp;(A) sell petroleum distillate from the Reserve through a competitive process, or
 
-&emsp;&emsp;(B) enter into exchange agreements for the petroleum distillate that results <sup>2</sup> in the Secretary receiving a greater volume of petroleum distillate as repayment than the volume provided to the acquirer;
+&emsp;&emsp;(B) enter into exchange agreements for the petroleum distillate that results <sup>1</sup> in the Secretary receiving a greater volume of petroleum distillate as repayment than the volume provided to the acquirer;
 
 &emsp;(2) in all such sales or exchanges, the Secretary shall receive revenue or its equivalent in petroleum distillate that provides the Department with fair market value. At no time may the oil be sold or exchanged resulting in a loss of revenue or value to the United States; and
 
@@ -36,7 +36,7 @@ After consultation with the heating oil industry, the Secretary shall determine 
 
 #### (e) Plan
 
-Within 45 days of November 9, 2000, the Secretary shall transmit to the President and, ifthe President approves, to the Congress a plan describing—
+Within 45 days of November 9, 2000, the Secretary shall transmit to the President and, if the President approves, to the Congress a plan describing—
 
 &emsp;(1) the acquisition of storage and related facilities or storage services for the Reserve, including the potential use of storage facilities not currently in use;
 
@@ -50,9 +50,11 @@ Within 45 days of November 9, 2000, the Secretary shall transmit to the Presiden
 
 &emsp;(6) actions to ensure quality of the petroleum distillate in the Reserve.
 
-(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat. 2035.)
+(Pub. L. 94–163, title I, §183, as added Pub. L. 106–469, title II, §201(a)(3), Nov. 9, 2000, 114 Stat. 2035; amended Pub. L. 109–58, title III, §301(d), Aug. 8, 2005, 119 Stat. 684.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “than”.</i>
+#### Amendments
 
-<i><sup>2</sup></i><i> So in original. Probably should be “result”.</i>
+2005—Subsec. (b)(1). Pub. L. 109–58 substituted “by more than 60 percent over its 5-year rolling average for the months of mid-October through March (considered as a heating season average)” for “by more tan 60 percent over its 5 year rolling average for the months of mid-October through March”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “result”.</i>
 

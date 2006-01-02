@@ -14,7 +14,3 @@ In the case of an individual, there shall be allowed as a deduction all the ordi
 
 No deductions to be allowed in computing taxable income for two-thirds of any amount paid or incurred on a judgment entered against any person in a suit brought under section 208(b) of Pub. L. 94–12, see section 208(c) of Pub. L. 94–12, set out as a note under section 44 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 127, 164, 183, 197, 263, 265, 274, 404, 469, 691, 772, 773, 860C, 988, 1275, 6421 of this title.
-

@@ -276,7 +276,7 @@ Subsec. (e)(4). Pub. L. 102–190, §835(4), redesignated par. (4) as (3).
 
 Subsec. (f). Pub. L. 101–510, §1421, added subsec. (f).
 
-1988—Pub. L. 100–370, and Pub. L. 100–456, §821(b)(1)(A), successively renumbered section 2400 of this title as section 2502 of this title and then as this section.
+1988—Pub. L. 100–370, and Pub. L. 100–456, §821(b)(1)(A), successively renumbered section 2400 ofthis title as section 2502 of this title and then as this section.
 
 Subsec. (a). Pub. L. 100–370 substituted “this subsection” for “this section”.
 

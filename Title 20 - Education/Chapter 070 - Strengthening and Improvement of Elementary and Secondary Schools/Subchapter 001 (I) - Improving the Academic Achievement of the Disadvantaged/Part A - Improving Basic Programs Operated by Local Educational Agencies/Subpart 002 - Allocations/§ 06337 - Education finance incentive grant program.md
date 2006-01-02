@@ -20,7 +20,7 @@ From funds appropriated under subsection (f) of this section the Secretary is au
 
 #### (B) State minimum
 
-&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, from the total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
+&emsp;&emsp;Notwithstanding any other provision of this section or section 6332 of this title, fromthe total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
 
 &emsp;&emsp;&emsp;(i) 0.35 percent of total appropriations; or
 
@@ -126,7 +126,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data,the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
+&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data, the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
 
 #### (ii) By percentage of children
 
@@ -210,7 +210,7 @@ Funds received by States under this section shall be allocated within States to 
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such children who constitute more than 22.11 percent, but not more than 30.16 percent, of such population, multiplied by 3.0;
 
-&emsp;&emsp;&emsp;&emsp;(IV) the number of such children who constitute more than 30.16 percent, butnot more than 38.24 percent, of such population, multiplied by 4.5; and
+&emsp;&emsp;&emsp;&emsp;(IV) the number of such children who constitute more than 30.16 percent, but not more than 38.24 percent, of such population, multiplied by 4.5; and
 
 &emsp;&emsp;&emsp;&emsp;(V) the number of such children who constitute more than 38.24 percent of such population, multiplied by 6.0.
 

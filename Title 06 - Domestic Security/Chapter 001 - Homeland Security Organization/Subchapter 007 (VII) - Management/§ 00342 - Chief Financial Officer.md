@@ -26,7 +26,7 @@ The Chief Financial Officer shall perform functions as specified in chapter 9 of
 
 &emsp;&emsp;(F) Ensure that the costs of Department programs, including classified programs, are presented accurately and completely.
 
-&emsp;&emsp;(G) Oversee the preparation of the annual performance plan for the Department and the program and performance section of theannual report on program performance for the Department, consistent with sections 1115 and 1116, respectively, of title 31.
+&emsp;&emsp;(G) Oversee the preparation of the annual performance plan for the Department and the program and performance section of the annual report on program performance for the Department, consistent with sections 1115 and 1116, respectively, of title 31.
 
 &emsp;&emsp;(H) Provide leadership in developing and promoting improved analytical tools and methods for analyzing homeland security planning and the allocation of resources.
 
@@ -63,6 +63,8 @@ In any case in which appropriations available to the Department or any officer o
 Pub. L. 108–330, §3(d)(1)(B), substituted “shall perform functions as specified in chapter 9 of title 31 and, with respect to all such functions and other responsibilities that may be assigned to the Chief Financial Officer from time to time, shall also report to the Under Secretary for Management” for “shall report to the Secretary, or to another official of the Department, as the Secretary may direct”.
 
 #### Change of Name
+
+Select Committee on Homeland Security, which was established by House Resolution 449, One Hundred Seventh Congress, June 19, 2002, and reestablished by section 4 of House Resolution 5, One Hundred Eighth Congress, Jan. 4, 2005, was not reestablished in the One Hundred Ninth Congress. Rule X(1)(i) of the Rules of the House of Representatives, One Hundred Ninth Congress, as amended by section 2 of House Resolution 5, One Hundred Ninth Congress, Jan. 4, 2005, established a Committee on Homeland Security. For jurisdiction of the Select Committee on Homeland Security and of the Committee on Homeland Security, see section 4 of House Resolution 5, One Hundred Eighth Congress, and Rule X(1)(i) of the Rules of the House, One Hundred Ninth Congress.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 

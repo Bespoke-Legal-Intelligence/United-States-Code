@@ -10,7 +10,7 @@
 
 The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§551 et seq.) of chapter 5, and chapter 7 (§701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552b of Title 5 and Tables.
+The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted section 552b of Title 5, amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and section 410 of Title 39, Postal Service, and enacted provisions set out as notes under section 552b of Title 5. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 552b of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 

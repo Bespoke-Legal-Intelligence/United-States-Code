@@ -108,7 +108,7 @@ Regulations.—(1) The Secretary of each military department shall prescribe reg
 
 Promotion Board Defined.—In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654,1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088.)
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Subsec. (c). Pub. L. 105–261, §501(c)(1)(A), inserted heading.
 
 Subsec. (c)(1). Pub. L. 105–261, §501(c)(1)(B), substituted “person” for “officer” in two places.
 
-Subsec. (c)(2). Pub. L. 105–261, §501(c)(1)(C), inserted at end “However, in the case of a board convened under this section to consider a warrant officer or formerwarrant officer, the provisions of sections 576(d) and 576(f) of this title (rather than the provisions of section 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under section 573 of this title.”
+Subsec. (c)(2). Pub. L. 105–261, §501(c)(1)(C), inserted at end “However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d) and 576(f) of this title (rather than the provisions of section 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under section 573 of this title.”
 
 Subsec. (d). Pub. L. 105–261, §501(c)(2)(A), inserted heading.
 
@@ -175,8 +175,4 @@ Functions of President under subsec. (d)(1) to approve, modify, or disapprove re
 #### Ratification of Codified Practice
 
 Pub. L. 105–261, div. A, title V, §501(f), Oct. 17, 1998, 112 Stat. 2002, provided that: “The consideration by a special selection board convened under section 628 of title 10, United States Code, before the date of the enactment of this Act \[Oct. 17, 1998\] of a person who, at the time of consideration, was a retired officer or former officer of the Armed Forces (including a deceased retired or former officer) is hereby ratified.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 618, 641, 1558 of this title.
 

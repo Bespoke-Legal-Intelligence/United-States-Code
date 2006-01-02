@@ -42,7 +42,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(v) enhancing educational and career opportunities for those women and girls who suffer multiple forms of discrimination, based on sex, and on race, ethnic origin, limited English proficiency, disability, socioeconomic status, or age;
 
-&emsp;&emsp;&emsp;(vi) assisting pregnant students and students rearing children to remain in or toreturn to secondary school, graduate, and prepare their preschool children to start school;
+&emsp;&emsp;&emsp;(vi) assisting pregnant students and students rearing children to remain in or to return to secondary school, graduate, and prepare their preschool children to start school;
 
 &emsp;&emsp;&emsp;(vii) evaluating exemplary model programs to assess the ability of such programs to advance educational equity for women and girls;
 

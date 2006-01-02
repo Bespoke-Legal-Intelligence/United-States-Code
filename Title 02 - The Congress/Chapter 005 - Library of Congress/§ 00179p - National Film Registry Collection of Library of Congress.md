@@ -16,13 +16,25 @@ All copies of films on the National Film Registry that are received as gifts or 
 
 All copies of films on the National Film Registry that are received by the Librarian under subsection (a) of this section, and other materials received by the Librarian under subsection (b) of this section, shall be maintained in the Library of Congress and be known as the “National Film Registry Collection of the Library of Congress”. The Librarian shall, by regulation, and in accordance with title 17, provide for reasonable access to the films and other materials in such collection for scholarly and research purposes.
 
-(Pub. L. 104–285, title I, §106, Oct. 11, 1996, 110 Stat. 3380.)
+#### (e) National Audio-Visual Conservation Center
+
+The Librarian shall utilize the National Audio-Visual Conservation Center of the Library of Congress at Culpeper, Virginia, to ensure that preserved films included in the National Film Registry are stored in a proper manner, and disseminated to researchers, scholars, and the public as may be appropriate in accordance with—
+
+&emsp;(1) title 17; and
+
+&emsp;(2) the terms of any agreements between the Librarian and persons who hold copyrights to such audiovisual works.
+
+(Pub. L. 104–285, title I, §106, Oct. 11, 1996, 110 Stat. 3380; Pub. L. 109–9, title III, §302(c), Apr. 27, 2005, 119 Stat. 225.)
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title.</i>
 
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which enacted this section and sections 179<i>l</i> to 179<i>o</i> and 179q to 179w of this title and sections 5701 to 5708 of former Title 36, Patriotic Societies and Observances, repealed sections 179 to 179k of this title, enacted provisions set out as a note under section 179<i>l</i> of this title, and repealed provisions set out as a note under section 179 of this title. Sections 5701 to 5708 of former Title 36 were repealed and reenacted as chapter 1517 (§151701 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2005—Subsec. (e). Pub. L. 109–9 added subsec. (e).
 

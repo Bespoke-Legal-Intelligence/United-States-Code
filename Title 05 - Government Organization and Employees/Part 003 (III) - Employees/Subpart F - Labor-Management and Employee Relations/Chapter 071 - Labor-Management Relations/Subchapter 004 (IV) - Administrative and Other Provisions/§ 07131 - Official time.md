@@ -1,6 +1,6 @@
 ### §7131. Official time
 
-(a) Any employee representing an exclusive representative in the negotiation of a collective bargaining agreement under this chapter shall be authorized official time for such purposes, including attendance at impasse proceeding, during the time the employee otherwise would be in a duty status. The number of employees for whom official time is authorized under this subsection shall not exceed the number of individuals designated as representing the agency for such purposes.
+(a) Any employee representing an exclusive representative in the negotiation of a collective bargaining agreement under this chapter shall be authorized official time for such purposes, including attendance at impasse proceeding, during the time the employee otherwise would be ina duty status. The number of employees for whom official time is authorized under this subsection shall not exceed the number of individuals designated as representing the agency for such purposes.
 
 (b) Any activities performed by any employee relating to the internal business of a labor organization (including the solicitation of membership, elections of labor organization officials, and collection of dues) shall be performed during the time the employee is in a non-duty status.
 

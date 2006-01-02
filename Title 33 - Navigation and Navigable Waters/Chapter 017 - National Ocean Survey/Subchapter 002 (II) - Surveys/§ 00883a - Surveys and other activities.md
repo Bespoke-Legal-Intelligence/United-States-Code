@@ -118,7 +118,7 @@ Recovery of Costs.—The costs of reproducing and distributing maps prepared und
 
 “For purposes of this subtitle—
 
-&emsp;“(1) The term ‘Director’ means the Director of Charting and Geodetic Services of the National OceanService, within the National Oceanic and Atmospheric Administration.
+&emsp;“(1) The term ‘Director’ means the Director of Charting and Geodetic Services of the National Ocean Service, within the National Oceanic and Atmospheric Administration.
 
 &emsp;“(2) The term ‘Great Lakes’ means Lake Erie, Lake Huron, Lake Michigan, Lake Ontario, Lake St. Clair, Lake Superior, the Saint Mary's River, the Saint Clair River, the Detroit River, the Niagara River, the Saint Lawrence River to the Canadian border, to the extent such lakes and rivers are subject to the jurisdiction of the United States.
 

@@ -76,7 +76,7 @@ Unless otherwise provided for in this section, no drawback shall be allowed unde
 
 > then upon such exportation or destruction 99 percent of the amount of each duty, tax, or fee so paid shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
-(2) Subject to paragraph (4), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
+(2) Subject to paragraph (4), if there is, with respect to imported merchandise on which waspaid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
 
 &emsp;(A) is commercially interchangeable with such imported merchandise;
 
@@ -242,7 +242,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;&emsp;&emsp;(III) an article of the same kind and quality as described in subparagraph (B), or any combination thereof, that is transferred, as so certified in a certificate of delivery or certificate of manufacture and delivery in a quantity not greater than the quantity of articles purchased or exchanged.
 
-&emsp;&emsp;&nbsp;The transferred merchandise described in subclause (III), regardless of its origin, so designated on the certificate of delivery or certificate of manufacture and delivery shall be the qualified article for purposesof this section. A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.
+&emsp;&emsp;&nbsp;The transferred merchandise described in subclause (III), regardless of its origin, so designated on the certificate of delivery or certificate of manufacture and delivery shall be the qualified article for purposes of this section. A party who issues a certificate of delivery, or certificate of manufacture and delivery, shall also certify to the Commissioner of Customs that it has not, and will not, issue such certificates for a quantity greater than the amount eligible for drawback and that appropriate records will be maintained to demonstrate that fact.
 
 &emsp;&emsp;(B) An article, including an imported, manufactured, substituted, or exported article, is of the same kind and quality as the qualified article for which it is substituted under this subsection if it is a product that is commercially interchangeable with or referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article. If an article is referred to under the same eight-digit classification of the Harmonized Tariff Schedule of the United States as the qualified article on January 1, 2000, then whether or not the article has been reclassified under another eight-digit classification after January 1, 2000, the article shall be deemed to be an article that is referred to under the same eight-digit classification of such Schedule as the qualified article for purposes of the preceding sentence.
 
@@ -264,7 +264,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 #### (2) Packaging material under subsections (a) and (b)
 
-&emsp;Packaging material that is manufactured or produced under subsection (a) or (b) of this section shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on the imported or substituted merchandise used to manufacture or produce such material.
+&emsp;Packaging material that is manufactured or produced under subsection (a) or (b) of this section shall be eligible for drawback, upon exportation, of 99 percent of any duty, tax, or fee imposed under Federal law on the imported orsubstituted merchandise used to manufacture or produce such material.
 
 #### (3) Contents
 
@@ -536,7 +536,7 @@ Pub. L. 108–429, title I, §1571, Dec. 3, 2004, 118 Stat. 2587, provided that:
 
 #### Effective and Termination Dates of 2003 Amendment
 
-Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement enters into force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free Trade Agreement entersinto force (Jan. 1, 2004), and to cease to be effective on the date the Agreement ceases to be in force, see section 107(a), (c) of Pub. L. 108–77, set out in a note under section 3805 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -568,7 +568,7 @@ Pub. L. 103–465, title IV, §422(e), Dec. 8, 1994, 108 Stat. 4965, provided th
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the UnitedStates to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
+Amendment by section 203(b)(3) of Pub. L. 103–182 applicable (1) with respect to exports from the United States to Canada on Jan. 1, 1996, if Canada is a NAFTA country on that date and after such date for so long as Canada continues to be a NAFTA country and (2) with respect to exports from the United States to Mexico on Jan. 1, 2001, if Mexico is a NAFTA country on that date and after such date for so long as Mexico continues to be a NAFTA country, see section 213(c) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 
 Amendment by section 203(c) of Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as an Effective Date note under section 3331 of this title.
 

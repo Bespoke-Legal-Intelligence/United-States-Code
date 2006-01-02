@@ -8,7 +8,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 &emsp;(3) all rules, regulations, or final orders of—
 
-&emsp;&emsp;(A) the Secretary of Transportation issued pursuant to section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a) <sup>1</sup> or pursuant to part B or C of subtitle IV of title 49; and
+&emsp;&emsp;(A) the Secretary of Transportation issued pursuant to section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a) <sup>1</sup> or pursuant to part B or C of subtitle IV, subchapter III of chapter 311, chapter 313, or chapter 315 of title 49; and
 
 &emsp;&emsp;(B) the Federal Maritime Commission issued pursuant to—
 
@@ -28,7 +28,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 > Jurisdiction is invoked by filing a petition as provided by section 2344 of this title.
 
-(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II,§227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399.)
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 109–59, title IV, §4125(a), Aug. 10, 2005, 119 Stat. 1738.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,8 @@ In paragraph (3), the word “now” is omitted as unnecessary. The word “unde
 Section 812 of the Fair Housing Act, referred to in par. (6), is classified to section 3612 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2005—Par. (3)(A). Pub. L. 109–59 inserted “, subchapter III of chapter 311, chapter 313, or chapter 315” before “of title 49”.
 
 1996—Par. (3)(A). Pub. L. 104–287 amended Pub. L. 104–88, §305(d)(6). See 1995 Amendment note below.
 

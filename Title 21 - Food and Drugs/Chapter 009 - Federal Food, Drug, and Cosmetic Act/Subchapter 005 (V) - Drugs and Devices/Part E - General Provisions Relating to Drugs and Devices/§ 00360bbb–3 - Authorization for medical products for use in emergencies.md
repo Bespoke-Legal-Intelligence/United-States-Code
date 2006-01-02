@@ -64,7 +64,7 @@
 
 #### (3) Advance notice of termination
 
-&emsp;The Secretary shall provide advance notice that a declaration under this subsection will be terminated. The period of advance notice shall be a period reasonably determined to provide—
+&emsp;The Secretary shall provide advance notice that a declaration under this subsection willbe terminated. The period of advance notice shall be a period reasonably determined to provide—
 
 &emsp;&emsp;(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2) of this section) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
 
@@ -110,7 +110,7 @@ An authorization of a product under this section shall state—
 
 #### (A) Required conditions
 
-&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary, to theextent practicable given the circumstances of the emergency, shall, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization under this section as the Secretary finds necessary or appropriate to protect the public health, including the following:
+&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary, to the extent practicable given the circumstances of the emergency, shall, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization under this section as the Secretary finds necessary or appropriate to protect the public health, including the following:
 
 &emsp;&emsp;&emsp;(i) Appropriate conditions designed to ensure that health care professionals administering the product are informed—
 
@@ -134,7 +134,7 @@ An authorization of a product under this section shall state—
 
 #### (B) Authority for additional conditions
 
-&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary may, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization under this section as the Secretary finds necessary or appropriate to protect the public health, including the following:
+&emsp;&emsp;With respect to the emergency use of an unapproved product, the Secretary may, for a person who carries out any activity for which the authorization is issued, establish such conditions on an authorization underthis section as the Secretary finds necessary or appropriate to protect the public health, including the following:
 
 &emsp;&emsp;&emsp;(i) Appropriate conditions on which entities may distribute the product with respect to the emergency use of the product (including limitation to distribution by government entities), and on how distribution is to be performed.
 

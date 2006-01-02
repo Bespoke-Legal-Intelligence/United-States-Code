@@ -48,7 +48,7 @@ The United States district courts shall have exclusive jurisdiction of actions b
 
 #### (d) Dates of application to actions
 
-The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: <i>Provided</i>, That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
+The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: <i>Provided</i>, That the enactment of the Futures Trading Actof 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
 
 (Sept. 21, 1922, ch. 369, §22, as added Pub. L. 97–444, title II, §235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§120, 123(a)(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410.)
 

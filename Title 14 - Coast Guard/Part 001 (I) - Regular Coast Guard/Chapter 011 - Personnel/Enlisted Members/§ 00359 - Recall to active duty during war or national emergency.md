@@ -8,7 +8,7 @@ In times of war or national emergency, the Commandant may order any enlisted mem
 
 Based on title 14, U.S.C., 1946 ed., §185c (May 24, 1939, ch. 146, §4, 53 Stat. 755).
 
-This section was changed so as to make provisions for enlisted men parallel to similar provisions for commissioned and warrant officers (see §§240 and 310 of the revised title). It seems fair and equitable that similar provisions should apply to all classes of personnel insofar as practicable. 81st Congress, House Report No. 557.
+This section was changed so as to make provisions for enlisted men parallel to similar provisions for commissioned and warrant officers (see §§240 and 310 of the revised title). It seems fair and equitable that similarprovisions should apply to all classes of personnel insofar as practicable. 81st Congress, House Report No. 557.
 
 #### Amendments
 

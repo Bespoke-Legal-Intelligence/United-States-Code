@@ -32,7 +32,3 @@ Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 A prior section 1580, added Pub. L. 87–651, title II, §206(a), Sept. 7, 1962, 76 Stat. 519, related to appointment of civilian employees by the Secretary of Defense, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 6304, 8702.
-

@@ -32,7 +32,7 @@ Any agreement with a hospital under this section shall provide that payment for 
 
 #### (e) Reimbursement for routine hospital services
 
-During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX of thischapter, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
+During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX of this chapter, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
 
 #### (f) Conditions applicable to skilled nursing facilities
 

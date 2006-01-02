@@ -18,6 +18,8 @@ Another prior section 104 of act July 26, 1947, was renumbered section 108 and i
 
 #### Effective Date
 
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Implementation of Compensation Reform Plan
@@ -34,7 +36,7 @@ Pub. L. 107–306, title IV, §402, Nov. 27, 2002, 116 Stat. 2403, as amended by
 
 “(a)
 
-Delay on Implementation on Compensation Reform Plan.—(1) The Director of Central Intelligence may not implement before the implementation date (described in paragraph (2)) a plan for the compensation of employees of the Central Intelligence Agency that differs from the plan in effect on October 1, 2002.
+Delay on Implementation on Compensation Reform Plan.—(1) The Director of Central Intelligencemay not implement before the implementation date (described in paragraph (2)) a plan for the compensation of employees of the Central Intelligence Agency that differs from the plan in effect on October 1, 2002.
 
 “(2) The implementation date referred to in paragraph (1) is the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2005 \[Dec. 23, 2004\].
 

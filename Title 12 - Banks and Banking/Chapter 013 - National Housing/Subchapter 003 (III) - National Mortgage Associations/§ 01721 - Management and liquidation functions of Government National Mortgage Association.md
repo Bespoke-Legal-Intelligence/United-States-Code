@@ -2,7 +2,7 @@
 
 #### (a) Separate accountability of assets and liabilities
 
-To carry out the purposes set forth in paragraph (c) <sup>1</sup> of section 1716 of this title, the Association is authorized and directed, as of the close of the cutoff date determined by the Association pursuant to section 1718(d) <sup>1</sup> of this title, to establish separate accountability for all of its assets and liabilities (exclusive of capital, surplus, surplus reserves, and undistributed earnings to be evidenced by preferred stock as provided in section 1718(d) <sup>1</sup> of this title, but inclusive of all rights and obligations under any outstanding contracts), and to maintain such separate accountability for the management and orderly liquidation of such assets and liabilities as provided in this section.
+To carry out the purposes set forth in paragraph (c) <sup>1</sup> of section 1716 of this title, the Association is authorized and directed, as of the close of the cutoff date determined by the Association pursuant to section 1718(d) <sup>1</sup> of this title,to establish separate accountability for all of its assets and liabilities (exclusive of capital, surplus, surplus reserves, and undistributed earnings to be evidenced by preferred stock as provided in section 1718(d) <sup>1</sup> of this title, but inclusive of all rights and obligations under any outstanding contracts), and to maintain such separate accountability for the management and orderly liquidation of such assets and liabilities as provided in this section.
 
 #### (b) Issuance of obligations to expedite substitution of private financing
 
@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, the Association is authorized, under
 
 #### (f) Transfer of funds
 
-Notwithstanding any of the provisions of this chapter or of any other law, an amount equal to the net decrease for the preceding fiscal year in the aggregate principal amount of all mortgages owned by the Association under this section shall, as of July 1 of each of the years 1961 through 1964, be transferred to and merged with the authority provided under section 1720(a) <sup>2</sup> of this title, and the amount of such authority asspecified in section 1720(c) <sup>2</sup> of this title shall be increased by any amounts so transferred.
+Notwithstanding any of the provisions of this chapter or of any other law, an amount equal to the net decrease for the preceding fiscal year inthe aggregate principal amount of all mortgages owned by the Association under this section shall, as of July 1 of each of the years 1961 through 1964, be transferred to and merged with the authority provided under section 1720(a) <sup>2</sup> of this title, and the amount of such authority as specified in section 1720(c) <sup>2</sup> of this title shall be increased by any amounts so transferred.
 
 #### (g) Guarantee of principal and interest on trust certificates and other securities; fees and charges; subrogation; contract for extinguishment of right, title, or interest in mortgages; protection of interests; full faith and credit; commitments limited; limitation on fees or charges
 
@@ -38,7 +38,7 @@ Notwithstanding any of the provisions of this chapter or of any other law, an am
 
 (D) Not less than 90 days before increasing any fee or charge under subparagraph (B) or (C), the Secretary shall submit to the Congress a certification that such increase is solely for the purpose specified in such subparagraph.
 
-(E)(i) Notwithstanding subparagraphs (A) through (D), fees charged for the guarantee of, or commitment to guarantee, multiclass securities backed by a trust or pool of securities or notes guaranteed by the Association under thissubsection, and other related fees shall be charged by the Association in an amount the Association deems appropriate. The Association shall take such action as may be necessary to reasonably assure that such portion of the benefit, resulting from the Association's multiclass securities program, as the Association determines is appropriate accrues to mortgagors who execute eligible mortgages after August 10, 1993.
+(E)(i) Notwithstanding subparagraphs (A) through (D), fees charged for the guarantee of, or commitment to guarantee, multiclass securities backed by a trust or pool of securities or notes guaranteed by the Association under this subsection, and other related fees shall be charged by the Association in an amount the Association deems appropriate. The Association shall take such action as may be necessary to reasonably assure that such portion of the benefit, resulting from the Association's multiclass securities program, as the Association determines is appropriate accrues to mortgagors who execute eligible mortgages after August 10, 1993.
 
 (ii) The Association shall provide for the initial implementation of the program for which fees are charged under the first sentence of clause (i) by notice published in the Federal Register. The notice shall be effective upon publication and shall provide an opportunity for public comment. Not later than 12 months after publication of the notice, the Association shall issue regulations for such program based on the notice, comments received, and the experience of the Association in carrying out the program during such period.
 
@@ -72,13 +72,13 @@ The Public Health Service Act, referred to in subsec. (g)(1), is act July 1, 194
 
 1996—Subsec. (g)(1). Pub. L. 104–330 inserted before period at end of first sentence “; or guaranteed under section 1715z–13a of this title”.
 
-Subsec. (g)(2). Pub. L. 104–120 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to the extent of or in such amounts as any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $107,700,000,000 during fiscal year 1993 and $91,696,000,000 during fiscal year 1994. There is authorized to be appropriated such sums as may be necessary to cover the costs (as such term is defined in section 661a of title 2) of guarantees issued under this chapter by the Association.”
+Subsec. (g)(2). Pub. L. 104–120 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to the extent of or in such amounts as any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $107,700,000,000 during fiscal year 1993 and $91,696,000,000 during fiscal year 1994. There is authorized to be appropriated such sums as may be necessary to cover thecosts (as such term is defined in section 661a of title 2) of guarantees issued under this chapter by the Association.”
 
 1993—Subsec. (g)(2). Pub. L. 103–120 substituted “$107,700,000,000” for “$88,000,000,000”.
 
 Subsec. (g)(3)(E). Pub. L. 103–66 added subpar. (E).
 
-1992—Subsec. (g)(1). Pub. L. 102–550, §532, inserted after third sentence “In any case in which (I) Federallaw requires the reduction of the interest rate on any mortgage backing a security guaranteed under this subsection, (II) the mortgagor under the mortgage is a person in the military service, and (III) the issuer of such security fails to receive from the mortgagor the full amount of interest payment due, the Association may make payments of interest on the security in amounts not exceeding the difference between the amount payable under the interest rate on the mortgage and the amount of interest actually paid by the mortgagor.”
+1992—Subsec. (g)(1). Pub. L. 102–550, §532, inserted after third sentence “In any case in which (I) Federal law requires the reduction of the interest rate on any mortgage backing a security guaranteed under this subsection, (II) the mortgagor under the mortgage is a person in the military service, and (III) the issuer of such security fails to receive from the mortgagor the full amount of interest payment due, the Association may make payments of interest on the security in amounts not exceeding the difference between the amount payable under the interest rate on the mortgage and the amount of interest actually paid by the mortgagor.”
 
 Subsec. (g)(2). Pub. L. 102–550, §531, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to the extent of or in such amounts as any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $84,982,000,000 during fiscal year 1991 and $88,296,000,000 during fiscal year 1992.”
 
@@ -148,7 +148,7 @@ Pub. L. 100–170, Nov. 17, 1987, 100 Stat. 914, provided: “That each provisio
 
 Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890, provided: “That each provision of law amended by Public Law 100–122 \[set out below\], including those provisions amended by section 2 of such Public Law, is amended by striking out ‘October 31, 1987’ wherever it appears and inserting in lieu thereof ‘November 15, 1987’.”
 
-Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793, provided that: “Each provision of law amended by PublicLaw 99–430 \[set out below\] is amended by striking out ‘September 30, 1987’ wherever it appears and inserting in lieu thereof ‘October 31, 1987’.”
+Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793, provided that: “Each provision of law amended by Public Law 99–430 \[set out below\] is amended by striking out ‘September 30, 1987’ wherever it appears and inserting in lieu thereof ‘October 31, 1987’.”
 
 Fiscal year 1987—Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986, provided: “That each provision of law amended by Public Law 99–345 \[set out below\] is amended by striking out ‘September 30, 1986’ wherever it appears and inserting in lieu thereof ‘September 30, 1987’.”
 

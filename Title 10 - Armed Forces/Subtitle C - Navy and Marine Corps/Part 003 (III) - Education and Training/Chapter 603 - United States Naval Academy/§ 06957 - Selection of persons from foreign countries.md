@@ -1,6 +1,6 @@
 ### §6957. Selection of persons from foreign countries
 
-(a)(1) The Secretary of the Navy may permit not more than 60 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the midshipmen under section 6954 of this title.
+(a)(1) The Secretary of the Navy may permit not more than 60 persons at any one time fromforeign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the midshipmen under section 6954 of this title.
 
 (2) The Secretary of the Navy, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Navy may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
 
@@ -78,7 +78,7 @@ Subsec. (a). Pub. L. 98–94 amended subsec. (a) generally. Prior to amendment, 
 
 Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, redesignating former subsec. (c) as par. (1) and in par. (1), as so redesignated, substituted “pay, allowances, and emoluments of a midshipman appointed from the United States, and from the same appropriations” for “same pay and allowances, to be paid from the same appropriations, as midshipmen”, and added par. (2). Former subsec. (b), relating to the authority of the Secretary of the Navy to limit the numbers of foreigners studying at the Academy, was struck out.
 
-Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted “as a midshipman at the Academy appointed from the United States” for “as a midshipman”, and inserted sentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of former subsec. (d) as par. (2) and in par. (2), as so designated, substituted “A person” for “However, a person” and “an armed force of the United States” for “the Navy or the Marine Corps”. Former subsec. (c) was redesignated (b)(1).
+Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of former subsec. (d) as par. (1) and in par. (1), as so designated, substituted “as a midshipman at the Academy appointed from the United States” for “as a midshipman”, and insertedsentence authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a midshipman at the Academy appointed from the United States; and designating the second sentence of former subsec. (d) as par. (2) and in par. (2), as so designated, substituted “A person” for “However, a person” and “an armed force of the United States” for “the Navy or the Marine Corps”. Former subsec. (c) was redesignated (b)(1).
 
 Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, omitted subsec. (d) and incorporated its provisions into subsec. (c).
 
@@ -86,7 +86,7 @@ Subsec. (d). Pub. L. 98–94, as part of the general amendment of this section, 
 
 Pub. L. 107–107, div. A, title V, §533(b)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Naval Academy to receive instruction under section 6957 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
-Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28,2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
+Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 98–94 effective one year after Sept. 24, 1983, and applic
 #### Persons From Countries Assisting U.S. in Vietnam: Naval Academy Instruction; Benefits, Limitations, Restrictions, and Regulations; Oath of Trainees
 
 Naval Academy instruction of persons from countries assisting U.S. in Vietnam, numerical limitation, prohibition against appointment of graduates to the Armed Forces, exemption from oath, etc., see Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, set out as a note under section 4344 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6957a of this title.
 

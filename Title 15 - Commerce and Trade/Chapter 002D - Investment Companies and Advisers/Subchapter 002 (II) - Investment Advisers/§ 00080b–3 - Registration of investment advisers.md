@@ -22,13 +22,13 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;&emsp;(C) a trust or other donative instrument described in section 3(c)(10)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(10)(B)\], or the trustees, administrators, settlors (or potential settlors), or beneficiaries of any such trust or other instrument;
 
-&emsp;(5) any plan described in section 414(e) of title 26, any person or entity eligible to establish and maintain such a plan under title 26, or any trustee, director, officer, or employee of or volunteer for any such plan or person, if such person or entity, acting in such capacity, provides investment advice exclusively to, or with respect to, any plan, person, or entity or any company, account, or fund that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; or
+&emsp;(5) any plan described in section 414(e) of title 26, any person or entity eligible to establish and maintain such a plan under title 26, or any trustee, director, officer, or employee of or volunteer for any such plan or person, ifsuch person or entity, acting in such capacity, provides investment advice exclusively to, or with respect to, any plan, person, or entity or any company, account, or fund that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; or
 
 &emsp;(6) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor whose business does not consist primarily of acting as an investment adviser, as defined in section 80b–2(a)(11) of this title, and that does not act as an investment adviser to—
 
 &emsp;&emsp;(A) an investment company registered under subchapter I of this chapter; or
 
-&emsp;&emsp;(B) a company which has elected to be a business development company pursuant tosection 80a–53 of this title and has not withdrawn its election.
+&emsp;&emsp;(B) a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election.
 
 #### (c) Procedure for registration; filing of application; effective date of registration; amendment of registration
 
@@ -102,9 +102,9 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
-&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>2</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
+&emsp;&emsp;(C) aided, abetted, counseled, commanded, induced, or procured the violation by anyother person of any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade, or has been found, by the foreign finanical <sup>2</sup> regulatory authority, to have failed reasonably to supervise, with a view to preventing violations of statutory provisions, and rules and regulations promulgated thereunder, another person who commits such a violation, if such other person is subject to his supervision; or
 
-&emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authoritythat supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
+&emsp;(9) is subject to any final order of a State securities commission (or any agency or officer performing like functions), State authority that supervises or examines banks, savings associations, or credit unions, State insurance commission (or any agency or office performing like functions), an appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(q))), or the National Credit Union Administration, that—
 
 &emsp;&emsp;(A) bars such person from association with an entity regulated by such commission, authority, agency, or officer, or from engaging in the business of securities, insurance, banking, savings association activities, or credit union activities; or
 
@@ -142,7 +142,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (A) First tier
 
-&emsp;&emsp;The maximum amount of penalty for each act or omission described in paragraph (1) shall be $5,000 for a natural person or $50,000 for any other person.
+&emsp;&emsp;The maximum amount of penalty for each act or omission described in paragraph (1)shall be $5,000 for a natural person or $50,000 for any other person.
 
 #### (B) Second tier
 
@@ -150,7 +150,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty foreach such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $100,000 for a natural person or $500,000 for any other person if—
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
@@ -194,7 +194,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (A) In general
 
-&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondentand, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to paragraph (1), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from theviolation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceedings. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission, notwithstanding section 80b–11(c) of this title, determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (B) Applicability
 
@@ -252,7 +252,7 @@ Subsec. (f). Pub. L. 107–204, §604(c)(2), substituted “(8), or (9)” for �
 
 1998—Subsec. (e)(8)(B). Pub. L. 105–353 inserted “or” after semicolon at end.
 
-1996—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) ofthis section”, was executed by making the substitution for “subsection (b)” to reflect the probable intent of Congress.
+1996—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) of this section”, was executed by making the substitution for “subsection (b)” to reflect the probable intent of Congress.
 
 Subsec. (b)(5). Pub. L. 104–290, §508(d), added par. (5).
 
@@ -362,7 +362,7 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by section 24(a) of Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30 (introductory text and par. (1)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by section 24(a) of Pub. L. 91–547 effective on expiration of one year after Dec. 14,1970, see section 30 (introductory text and par. (1)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
 #### Transfer of Functions
 

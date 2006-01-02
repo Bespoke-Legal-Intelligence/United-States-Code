@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary makes a finding under subsection (a) of this section, but determines thatthe failure to comply substantially with the provisions of this chapter—
+&emsp;If the Secretary makes a finding under subsection (a) of this section, but determines that the failure to comply substantially with the provisions of this chapter—
 
 &emsp;&emsp;(A) is not a pattern or practice of activities constituting willful noncompliance, and
 
@@ -92,7 +92,7 @@
 
 #### (A) Court proceedings
 
-&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or to set it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
+&emsp;&emsp;The court shall have jurisdiction to affirm or modify the action of the Secretary or toset it aside in whole or in part. The findings of fact by the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may order additional evidence to be taken by the Secretary, and to be made part of the record.
 
 #### (B) Secretary
 

@@ -78,7 +78,7 @@ Except to the extent otherwise provided by this title, any election under this t
 
 #### (3) Submission of certain final regulations
 
-&emsp;In the case of the promulgation by the Secretary of any final regulation (other than atemporary regulation) which does not supersede a proposed regulation, the requirements of paragraphs (1) and (2) shall apply; except that—
+&emsp;In the case of the promulgation by the Secretary of any final regulation (other than a temporary regulation) which does not supersede a proposed regulation, the requirements of paragraphs (1) and (2) shall apply; except that—
 
 &emsp;&emsp;(A) the submission under paragraph (1) shall be made at least 4 weeks before the date of such promulgation, and
 
@@ -118,5 +118,5 @@ Amendment by Pub. L. 98–369 applicable to taxable years ending after July 18, 
 
 #### Internet Availability
 
-Pub. L. 105–206, title II, §2003(d), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to be made available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
+Pub. L. 105–206, title II, §2003(d), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall establish procedures for all tax forms, instructions, and publications created in the most recent 5-year period to bemade available electronically on the Internet in a searchable database at approximately the same time such records are available to the public in paper form. In addition, in the case of taxable periods beginning after December 31, 1998, the Secretary of the Treasury or the Secretary's delegate shall, to the extent practicable, establish procedures for other taxpayer guidance to be made available electronically on the Internet in a searchable database at approximately the same time such guidance is available to the public in paper form.”
 

@@ -58,7 +58,7 @@
 | (d) | Judicial review of determination. |
 | (e) | Lands beneath navigable waters. |
 | [1336\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001336%20-%20Controversies%20over%20jurisdiction%3B%20agreements%3B%20payments%3B%20final%20settlement%20or%20adjudication%3B%20approval%20of%20notice%20concerning%20oil%20and%20gas%E2%80%A6.md) | Controversies over jurisdiction; agreements; payments; final settlement or adjudication; approval of notice concerning oil and gas operations in Gulf of Mexico. |
-| [1337\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001337%20-%20Grant%20of%20leases%20by%20Secretary.md) | Grant of leases by Secretary. |
+| [1337\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001337%20-%20Leases%2C%20easements%2C%20and%20rights-of-way%20on%20the%20outer%20Continental%20Shelf.md) | Leases, easements, and rights-of-way on the outer Continental Shelf. |
 | (a) | Oil and gas leases; award to highest responsible qualified bidder; method of bidding; royalty relief; Congressional consideration of bidding system; notice. |
 | (b) | Terms and provisions of oil and gas leases. |
 | (c) | Antitrust review of lease sales. |
@@ -74,6 +74,7 @@
 | (m) | Disposition of revenues. |
 | (n) | Issuance of lease as nonprejudicial to ultimate settlement or adjudication of controversies. |
 | (<i>o</i>) | Cancellation of leases for fraud. |
+| (p) | Leases, easements, or rights-of-way for energy and related purposes. |
 | [1338\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001338%20-%20Disposition%20of%20revenues.md) | Disposition of revenues. |
 | [1338a.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001338a%20-%20Moneys%20received%20as%20a%20result%20of%20forfeiture%20by%20Outer%20Continental%20Shelf%20permittee%2C%20lessee%2C%20or%20right-of-way%20holder%3B%20return%20of%20excess%20amounts.md) | Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts. |
 | [1339\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001339%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93185%2C%20%C2%A78%28b%29%2C%20Aug.%2013%2C%201996%2C%20110%20Stat.%201717.md) | Repealed. |
@@ -180,14 +181,11 @@
 | (a) | Regulations. |
 | (b) | Exceptions from design, construction, alteration, and repair requirements. |
 | (c) | Exceptions from manning requirements. |
-| [1356a.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001356a%20-%20Coastal%20impact%20assistance.md) | Coastal impact assistance. |
-| (a) | In general. |
-| (b) | Definitions. |
-| (c) | Authorization. |
-| (d) | Impact assistance payments to States and political subdivisions. |
-| (e) | Coastal Impact Assistance Plan. |
-| (f) | Authorized uses. |
-| (g) | Compliance with authorized uses. |
+| [1356a.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001356a%20-%20Coastal%20impact%20assistance%20program.md) | Coastal impact assistance program. |
+| (a) | Definitions. |
+| (b) | Payments to producing States and coastal political subdivisions. |
+| (c) | Coastal impact assistance plan. |
+| (d) | Authorized uses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

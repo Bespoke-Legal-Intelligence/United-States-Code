@@ -14,7 +14,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(iii) over 18 years of age and incapable of self-support because of physical or mental disability;
 
-&emsp;(4) “firefighter” includes an individual serving as an officially recognized or designated member of a legally organized volunteer fire department and an officially recognized or designated public employee member of a rescue squad or ambulance crew;
+&emsp;(4) “firefighter” includes an individual serving as an officially recognized or designated member of a legally organized volunteer fire department;
 
 &emsp;(5) “intoxication” means a disturbance of mental or physical faculties resulting from the introduction of alcohol into the body as evidenced by—
 
@@ -24,17 +24,19 @@ As used in this subchapter—
 
 > &emsp;or resulting from drugs or other substances in the body;
 
-&emsp;(6) “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the laws, including, but not limited to, police, corrections, probation, parole, and judicial officers;
+&emsp;(6) “law enforcement officer” means an individual involved in crime and juvenile delinquency control or reduction, or enforcement of the criminal laws (including juvenile delinquency)., <sup>1</sup> including, but not limited to, police, corrections, probation, parole, and judicial officers;
 
-&emsp;(7) “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing; and
+&emsp;(7) “member of a rescue squad or ambulance crew” means an officially recognized or designated public employee member of a rescue squad or ambulance crew;
 
-&emsp;(8) “public safety officer” means—
+&emsp;(8) “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing; and
+
+&emsp;(9) “public safety officer” means—
 
 &emsp;&emsp;(A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, as a chaplain, or as a member of a rescue squad or ambulance crew;
 
 &emsp;&emsp;(B) an employee of the Federal Emergency Management Agency who is performing official duties of the Agency in an area, if those official duties—
 
-&emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the areaunder the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
+&emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) are determined by the Director of the Federal Emergency Management Agency to be hazardous duties; or
 
@@ -44,11 +46,11 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(ii) are determined by the head of the agency to be hazardous duties.
 
-(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719.)
+(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120.)
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (8), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in par. (9), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Codification
 
@@ -63,6 +65,12 @@ Another prior section 3796b, Pub. L. 90–351, title I, §703, as added Pub. L. 
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to section 3796c of this title.
 
 #### Amendments
+
+2006—Par. (4). Pub. L. 109–162, §1164(a)(3), struck out “and an officially recognized or designated public employee member of a rescue squad or ambulance crew” before semicolon at end.
+
+Par. (6). Pub. L. 109–162, §1164(a)(4), substituted “enforcement of the criminal laws (including juvenile delinquency).” for “enforcement of the laws”.
+
+Pars. (7) to (9). Pub. L. 109–162, §1164(a)(1), (2), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
 2002—Pars. (2) to (7). Pub. L. 107–196, §2(a)(1), (2), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (8).
 
@@ -94,7 +102,7 @@ Pub. L. 106–390, title III, §305(b), Oct. 30, 2000, 114 Stat. 1574, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–647 effective Nov. 29, 1990, and not applicable with respect to injuries occurring before Nov. 29, 1990, see section 1303 of Pub. L. 101–647, set out as a note under section 3796 of this title.
+Amendment by Pub. L. 101–647 effective Nov. 29, 1990, and not applicable with respect to injuries occurringbefore Nov. 29, 1990, see section 1303 of Pub. L. 101–647, set out as a note under section 3796 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -107,4 +115,6 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

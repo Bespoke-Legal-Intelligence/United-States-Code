@@ -6,7 +6,7 @@ In the case of property sold as provided in section 6335, the Secretary shall gi
 
 #### (b) Deed to real property
 
-In the case of any real property sold as provided in section 6335 and not redeemed in the manner and within the time provided in section 6337, the Secretary shall execute (in accordance with the laws of the State in which such real property is situated pertaining to sales of realproperty under execution) to the purchaser of such real property at such sale, upon his surrender of the certificate of sale, a deed of the real property so purchased by him, reciting the facts set forth in the certificate.
+In the case of any real property sold as provided in section 6335 and not redeemed in the manner and within the time provided in section 6337, the Secretary shall execute (in accordance with the laws of the State in which such real property is situated pertaining to sales of real property under execution) to the purchaser of such real property at such sale, upon his surrender of the certificate of sale, a deed of the real property so purchased by him, reciting the facts set forth in the certificate.
 
 #### (c) Real property purchased by United States
 
@@ -29,8 +29,4 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6339 of this title.
 

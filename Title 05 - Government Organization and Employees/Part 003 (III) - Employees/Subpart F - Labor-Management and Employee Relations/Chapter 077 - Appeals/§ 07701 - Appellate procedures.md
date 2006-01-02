@@ -22,7 +22,7 @@
 
 (C) Nothing in the provisions of this paragraph may be construed to require any award of back pay or attorney fees be paid before the decision is final.
 
-(3) With respect to an appeal from an adverse action covered by subchapter V of chapter 75, authority to mitigate the personnel action involved shall be available, subject to the same standards as would apply in an appeal involving an action covered by subchapter II of chapter 75 with respect to which mitigation authority under this section exists.
+(3) With respect to an appeal from an adverse action covered by subchapter V of chapter 75, authority to mitigate the personnel action involved shall be available, subject to the samestandards as would apply in an appeal involving an action covered by subchapter II of chapter 75 with respect to which mitigation authority under this section exists.
 
 (c)(1) Subject to paragraph (2) of this subsection, the decision of the agency shall be sustained under subsection (b) only if the agency's decision—
 
@@ -74,7 +74,7 @@
 
 (i)(1) Upon the submission of any appeal to the Board under this section, the Board, through reference to such categories of cases, or other means, as it determines appropriate, shall establish and announce publicly the date by which it intends to complete action on the matter. Such date shall assure expeditious consideration of the appeal, consistent with the interests of fairness and other priorities of the Board. If the Board fails to complete action on the appeal by the announced date, and the expected delay will exceed 30 days, the Board shall publicly announce the new date by which it intends to complete action on the appeal.
 
-(2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action during that year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
+(2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action duringthat year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
 
 (3) The Board shall by rule indicate any other category of significant Board action which the Board determines should be subject to the provisions of this subsection.
 

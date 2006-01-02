@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Within 3 months after a court of competent jurisdiction confirms a plan of reorganization under chapter 12 of title 11, for any borrower to whom a lender has made a loan guaranteed under this chapter, the Secretary shall pay the lender an amount estimated by the Secretary to be equal to the loss incurred by the lender for purposes of the guarantee.
+&emsp;Within 3 months after a court of competent jurisdiction confirms a plan of reorganization under chapter 12 of title 11, for any borrower to whom a lender has made a loan guaranteedunder this chapter, the Secretary shall pay the lender an amount estimated by the Secretary to be equal to the loss incurred by the lender for purposes of the guarantee.
 
 #### (2) Payment toward loan guarantee
 

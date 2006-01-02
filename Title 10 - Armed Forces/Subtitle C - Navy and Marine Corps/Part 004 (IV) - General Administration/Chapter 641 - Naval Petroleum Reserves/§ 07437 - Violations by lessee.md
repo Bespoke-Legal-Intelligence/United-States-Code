@@ -24,7 +24,3 @@ In subsection (a) the words “the district in which any part of the property is
 
 In subsection (b) the words “for resort to” and “for” are omitted as surplusage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1601.
-

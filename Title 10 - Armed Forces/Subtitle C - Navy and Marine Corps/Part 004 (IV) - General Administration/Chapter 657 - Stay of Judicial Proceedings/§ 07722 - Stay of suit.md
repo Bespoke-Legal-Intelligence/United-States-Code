@@ -30,7 +30,3 @@ In subsection (a) the word “forthwith” is omitted as surplusage.
 
 In subsection (b) the words “of proceedings in pending suits as provided” are omitted as surplusage. The words “does not suspend” are substituted for the words “shall not operate to suspend”. The words “of the issues” and “the authority of” are omitted as surplusage. The words “issued before the stay” are substituted for the words “already issued at the time of such stay of suit”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7723 of this title.
-

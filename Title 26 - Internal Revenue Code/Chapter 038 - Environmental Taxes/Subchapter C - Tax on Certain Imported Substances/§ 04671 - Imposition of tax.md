@@ -66,7 +66,3 @@ In general.—The Secretary of the Treasury or his delegate shall conduct a stud
 
 Report.—The report of the study under paragraph (1) shall be submitted not later than January 1, 1988, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4611, 4672, 4681, 9507 of this title.
-

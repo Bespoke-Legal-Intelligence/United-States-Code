@@ -1,10 +1,10 @@
 ### §1168. Rolling stock equipment
 
-(a)(1) The right of a secured party with a security interest in or of a lessor or conditional vendor of equipment described in paragraph (2) to take possession of such equipment in compliance with an equipment security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies under such security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, is not limited or otherwise affected by any other provision of this title or by any power of the court, except that right to take possession and enforce those other rights and remedies shall be subject to section 362, if—
+(a)(1) The right of a secured party with a security interest in or of a lessor or conditional vendor of equipment described in paragraph (2) to take possession of such equipment in compliance with an equipment security agreement, lease, or conditional sale contract, and to enforce any of its other rights or remedies undersuch security agreement, lease, or conditional sale contract, to sell, lease, or otherwise retain or dispose of such equipment, is not limited or otherwise affected by any other provision of this title or by any power of the court, except that right to take possession and enforce those other rights and remedies shall be subject to section 362, if—
 
 &emsp;(A) before the date that is 60 days after the date of commencement of a case under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor under such security agreement, lease, or conditional sale contract; and
 
-&emsp;(B) any default, other than a default of a kind described in section 365(b)(2), under suchsecurity agreement, lease, or conditional sale contract—
+&emsp;(B) any default, other than a default of a kind described in section 365(b)(2), under such security agreement, lease, or conditional sale contract—
 
 &emsp;&emsp;(i) that occurs before the date of commencement of the case and is an event of default therewith is cured before the expiration of such 60-day period;
 
@@ -60,7 +60,7 @@ Section 1175 \[enacted as section 1168\] continues the protection accorded in pr
 
 1994—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
-“(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, rolling stock equipment or accessories used on such equipment, including superstructures and racks, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, the debtor to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected bysection 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
+“(a) The right of a secured party with a purchase-money equipment security interest in, or of a lessor or conditional vendor of, whether as trustee or otherwise, rolling stock equipment or accessories used on such equipment, including superstructures and racks, that are subject to a purchase-money equipment security interest granted by, leased to, or conditionally sold to, the debtor to take possession of such equipment in compliance with the provisions of a purchase-money equipment security agreement, lease, or conditional sale contract, as the case may be, is not affected by section 362 or 363 of this title or by any power of the court to enjoin such taking of possession, unless—
 
 &emsp;“(1) before 60 days after the date of the commencement of a case under this chapter, the trustee, subject to the court's approval, agrees to perform all obligations of the debtor under such security agreement, lease, or conditional sale contract, as the case may be; and
 

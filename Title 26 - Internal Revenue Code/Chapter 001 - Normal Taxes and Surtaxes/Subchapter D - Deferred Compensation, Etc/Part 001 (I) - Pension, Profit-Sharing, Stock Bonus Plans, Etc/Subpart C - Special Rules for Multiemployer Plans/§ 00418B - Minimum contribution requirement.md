@@ -16,7 +16,7 @@
 
 #### (2) Treatment of withdrawal liability payments
 
-&emsp;For purposes of paragraph (1), withdrawal liability payments (whether or not received) which are due with respect to withdrawals before the end of the base plan year shall be considered amounts contributed by the employer to or under the plan if, as of the adjustment date, it was reasonable for the plan sponsor to anticipate that such payments would be made during the plan year.
+&emsp;For purposes of paragraph (1), withdrawal liability payments (whether or not received)which are due with respect to withdrawals before the end of the base plan year shall be considered amounts contributed by the employer to or under the plan if, as of the adjustment date, it was reasonable for the plan sponsor to anticipate that such payments would be made during the plan year.
 
 #### (b) Minimum contribution requirement
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;A plan is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) the rate of employer contributions under the plan for the first plan year beginning on or after the date on which an amendment increasing benefits is adopted, multiplied by the valuation contributionbase for that plan year, equals or exceeds the sum of—
+&emsp;&emsp;&emsp;(i) the rate of employer contributions under the plan for the first plan year beginning on or after the date on which an amendment increasing benefits is adopted, multiplied by the valuation contribution base for that plan year, equals or exceeds the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that would be necessary to amortize fully, in equal annual installments, by July 1, 1986, the unfunded vested benefits attributable to plan provisions in effect on July 1, 1977 (determined as of the last day of the base plan year); and
 
@@ -179,8 +179,4 @@ For purposes of making any determination under this subpart, the requirements of
 #### References in Text
 
 Section 4216(b) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(3)(A), is classified to section 1396(b) of Title 29, Labor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 412, 418A, 418C, 418D, 418E of this title; title 29 section 1082.
 

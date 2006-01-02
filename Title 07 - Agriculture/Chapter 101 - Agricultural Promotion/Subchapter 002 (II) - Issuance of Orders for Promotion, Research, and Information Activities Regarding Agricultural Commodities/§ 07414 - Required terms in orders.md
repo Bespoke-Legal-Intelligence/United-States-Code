@@ -18,7 +18,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (B) Appointment
 
-&emsp;&emsp;The Secretary shall appoint the members and any alternates of a board from among producers of the agricultural commodity and first handlers and others in the marketing chain as appropriate. If imports of the agricultural commodity covered by an order are subject to assessment under section 7415(f) of this title, the Secretary shall also appoint importers as members of the board and as alternates if alternates are included on the board. The Secretary may appoint 1 or more members of the general public to each board.
+&emsp;&emsp;The Secretary shall appoint the members and any alternates of a board from among producers of the agricultural commodity and first handlers and others in the marketingchain as appropriate. If imports of the agricultural commodity covered by an order are subject to assessment under section 7415(f) of this title, the Secretary shall also appoint importers as members of the board and as alternates if alternates are included on the board. The Secretary may appoint 1 or more members of the general public to each board.
 
 #### (C) Nominations
 
@@ -96,7 +96,7 @@ Each order shall specify the powers and duties of the board established under th
 
 &emsp;(9) to pay the cost of the activities with assessments collected under section 7416 of this title, earnings from invested assessments, and other funds;
 
-&emsp;(10) to keep records that accurately reflect the actions and transactions of the board, to keep and report minutes of each meeting of the board to the Secretary, and to furnish the Secretary with any information or records the Secretary requests;
+&emsp;(10) to keep records that accurately reflect the actions and transactions of the board, to keep and report minutes of each meeting ofthe board to the Secretary, and to furnish the Secretary with any information or records the Secretary requests;
 
 &emsp;(11) to receive, investigate, and report to the Secretary complaints of violations of the order; and
 
@@ -138,7 +138,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (5) Limitation on spending
 
-&emsp;For fiscal years beginning 3 or more years after the date of the establishment of a board,the board may not expend for administration (except for reimbursements to the Secretary required under paragraph (2)(B)), maintenance, and functioning of the board in a fiscal year an amount that exceeds 15 percent of the assessment and other income received by the board for the fiscal year.
+&emsp;For fiscal years beginning 3 or more years after the date of the establishment of a board, the board may not expend for administration (except for reimbursements to the Secretary required under paragraph (2)(B)), maintenance, and functioning of the board in a fiscal year an amount that exceeds 15 percent of the assessment and other income received by the board for the fiscal year.
 
 #### (f) Contracts and agreements
 
@@ -186,7 +186,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 #### (h) Periodic evaluation
 
-In accordance with section 7401(c) of this title, each order shall require the board established under the order to provide for the independent evaluation of all generic promotion, research, and information activities undertaken under the order.
+In accordance with section 7401(c) of this title, each order shall require the board establishedunder the order to provide for the independent evaluation of all generic promotion, research, and information activities undertaken under the order.
 
 #### (i) Books and records of persons covered by order
 
@@ -232,7 +232,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (D) Penalty
 
-&emsp;&emsp;Any person who willfully violates this subsection shall be subject, on conviction, to afine of not more than $1,000 or to imprisonment for not more than 1 year, or both.
+&emsp;&emsp;Any person who willfully violates this subsection shall be subject, on conviction, to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both.
 
 #### (5) Withholding information
 

@@ -106,6 +106,7 @@
 | (b) | Energy management requirement for Federal agencies. |
 | (c) | Exclusions. |
 | (d) | Implementation steps. |
+| (e) | Metering of energy use. |
 | [8254\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008254%20-%20Establishment%20and%20use%20of%20life%20cycle%20cost%20methods%20and%20procedures.md) | Establishment and use of life cycle cost methods and procedures. |
 | (a) | Establishment of life cycle cost methods and procedures. |
 | (b) | Use of life cycle cost methods and procedures. |
@@ -116,13 +117,14 @@
 | (b) | Federal Energy Efficiency Fund. |
 | (c) | Utility incentive programs. |
 | (d) | Financial incentive program for facility energy managers. |
+| (e) | Retention of energy and water savings. |
 | [8257\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008257%20-%20Interagency%20Energy%20Management%20Task%20Force.md) | Interagency Energy Management Task Force. |
 | (a) | In general. |
 | (b) | Members. |
 | (c) | Duties. |
 | [8258\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008258%20-%20Reports.md) | Reports. |
 | (a) | Reports to Secretary. |
-| (b) | Reports to Congress. |
+| (b) | Reports to the President and Congress. |
 | (c) | Other report. |
 | [8258a.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008258a%20-%20Demonstration%20of%20new%20technology.md) | Demonstration of new technology. |
 | (a) | Demonstration program. |
@@ -137,6 +139,16 @@
 | (c) | Personnel. |
 | (d) | Report. |
 | [8259\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008259%20-%20Definitions.md) | Definitions. |
+| [8259a.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008259a%20-%20Energy%20and%20water%20savings%20measures%20in%20congressional%20buildings.md) | Energy and water savings measures in congressional buildings. |
+| (a) | In general. |
+| (b) | Plan requirements. |
+| (c) | Annual report. |
+| [8259b.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008259b%20-%20Federal%20procurement%20of%20energy%20efficient%20products.md) | Federal procurement of energy efficient products. |
+| (a) | Definitions. |
+| (b) | Procurement of energy efficient products. |
+| (c) | Listing of energy efficient products in Federal catalogs. |
+| (d) | Specific products. |
+| (e) | Regulations. |
 | 8260, 8261. Omitted. |  |
 | [8262\.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008262%20-%20Definitions.md) | Definitions. |
 | [8262a.](Subchapter%20003%20%28III%29%20-%20Federal%20Energy%20Initiative/Part%20B%20-%20Federal%20Energy%20Management/%C2%A7%2008262a%20-%20Report%20by%20General%20Services%20Administration.md) | Report by General Services Administration. |

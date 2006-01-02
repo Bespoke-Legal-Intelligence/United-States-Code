@@ -8,9 +8,11 @@ For purposes of section 38, the research credit determined under this section fo
 
 &emsp;&emsp;(A) the qualified research expenses for the taxable year, over
 
-&emsp;&emsp;(B) the base amount, and
+&emsp;&emsp;(B) the base amount,
 
-&emsp;(2) 20 percent of the basic research payments determined under subsection (e)(1)(A).
+&emsp;(2) 20 percent of the basic research payments determined under subsection (e)(1)(A), and
+
+&emsp;(3) 20 percent of the amounts paid or incurred by the taxpayer in carrying on any trade or business of the taxpayer during the taxable year (including as contributions) to an energy research consortium.
 
 #### (b) Qualified research expenses
 
@@ -84,7 +86,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall be applied by substituting “75 percent” for “65 percent”with respect to amounts paid or incurred by the taxpayer to a qualified research consortium for qualified research on behalf of the taxpayer and 1 or more unrelated taxpayers. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as related taxpayers.
+&emsp;&emsp;&emsp;Subparagraph (A) shall be applied by substituting “75 percent” for “65 percent” with respect to amounts paid or incurred by the taxpayer to a qualified research consortium for qualified research on behalf of the taxpayer and 1 or more unrelated taxpayers. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as related taxpayers.
 
 #### (ii) Qualified research consortium
 
@@ -95,6 +97,44 @@ For purposes of this section—
 &emsp;&emsp;&emsp;&emsp;(II) is organized and operated primarily to conduct scientific research, and
 
 &emsp;&emsp;&emsp;&emsp;(III) is not a private foundation.
+
+#### (D) Amounts paid to eligible small businesses, universities, and Federal laboratories
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of amounts paid by the taxpayer to—
+
+&emsp;&emsp;&emsp;&emsp;(I) an eligible small business,
+
+&emsp;&emsp;&emsp;&emsp;(II) an institution of higher education (as defined in section 3304(f)), or
+
+&emsp;&emsp;&emsp;&emsp;(III) an organization which is a Federal laboratory,
+
+&emsp;&emsp;&nbsp;for qualified research which is energy research, subparagraph (A) shall be applied by substituting “100 percent” for “65 percent”.
+
+#### (ii) Eligible small business
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “eligible small business” means a small business with respect to which the taxpayer does not own (within the meaning of section 318) 50 percent or more of—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a corporation, the outstanding stock of the corporation (either by vote or value), and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a small business which is not a corporation, the capital and profits interests of the small business.
+
+#### (iii) Small business
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The term “small business” means, with respect to any calendar year, any person if the annual average number of employees employed by such person during either of the 2 preceding calendar years was 500 or fewer. For purposes of the preceding sentence, a preceding calendar year may be taken into account only if the person was in existence throughout the year.
+
+#### (II) Startups, controlled groups, and predecessors
+
+&emsp;&emsp;&emsp;&emsp;Rules similar to the rules of subparagraphs (B) and (D) of section 220(c)(4) shall apply for purposes of this clause.
+
+#### (iv) Federal laboratory
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “Federal laboratory” has the meaning given such term by section 4(6) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(6)), as in effect on the date of the enactment of the Energy Tax Incentives Act of 2005.
 
 #### (4) Trade or business requirement disregarded for in-house research expenses of certain startup ventures
 
@@ -386,7 +426,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) which was not taken into account—
 
-&emsp;&emsp;&emsp;&emsp;(I) in computing the amount of the credit under this section (as in effectduring the base period) during any taxable year in the base period, or
+&emsp;&emsp;&emsp;&emsp;(I) in computing the amount of the credit under this section (as in effect during the base period) during any taxable year in the base period, or
 
 &emsp;&emsp;&emsp;&emsp;(II) as a basic research payment for purposes of this section.
 
@@ -548,7 +588,7 @@ For purposes of this section—
 
 #### (C) Certain reimbursements taken into account in determining fixed-base percentage
 
-&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs, the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
+&emsp;&emsp;If during any of the 3 taxable years following the taxable year in which a disposition to which subparagraph (B) applies occurs,the disposing taxpayer (or a person with whom the taxpayer is required to aggregate expenditures under paragraph (1)) reimburses the acquiring person (or a person required to so aggregate expenditures with such person) for research on behalf of the taxpayer, then the amount of qualified research expenses of the taxpayer for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount of the decrease under subparagraph (B) which is allocable to taxable years so taken into account, or
 
@@ -566,6 +606,36 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
+#### (6) Energy research consortium
+
+#### (A) In general
+
+&emsp;&emsp;The term “energy research consortium” means any organization—
+
+&emsp;&emsp;&emsp;(i) which is—
+
+&emsp;&emsp;&emsp;&emsp;(I) described in section 501(c)(3) and is exempt from tax under section 501(a) and is organized and operated primarily to conduct energy research, or
+
+&emsp;&emsp;&emsp;&emsp;(II) organized and operated primarily to conduct energy research in the public interest (within the meaning of section 501(c)(3)),
+
+&emsp;&emsp;&emsp;(ii) which is not a private foundation,
+
+&emsp;&emsp;&emsp;(iii) to which at least 5 unrelated persons paid or incurred during the calendar year in which the taxable year of the organization begins amounts (including as contributions) to such organization for energy research, and
+
+&emsp;&emsp;&emsp;(iv) to which no single person paid or incurred (including as contributions) during such calendar year an amount equal to more than 50 percent of the total amounts received by such organization during such calendar year for energy research.
+
+#### (B) Treatment of persons
+
+&emsp;&emsp;All persons treated as a single employer under subsection (a) or (b) of section 52 shall be treated as related persons for purposes of subparagraph (A)(iii) and as a single person for purposes of subparagraph (A)(iv).
+
+#### (C) Foreign research
+
+&emsp;&emsp;For purposes of subsection (a)(3), amounts paid or incurred for any energy research conducted outside the United States, the Commonwealth of Puerto Rico, or any possession of the United States shall not be taken into account.
+
+#### (D) Denial of double benefit
+
+&emsp;&emsp;Any amount taken into account under subsection (a)(3) shall not be taken into account under paragraph (1) or (2) of subsection (a).
+
 #### (g) Special rule for pass-thru of credit
 
 In the case of an individual who—
@@ -578,7 +648,7 @@ In the case of an individual who—
 
 &emsp;(4) is a shareholder in an S corporation,
 
-> the amount determined under subsection (a) for any taxable year shall not exceed an amount (separately computed with respect to such person's interest in such trade or business or entity) equal to the amount of tax attributable tothat portion of a person's taxable income which is allocable or apportionable to the person's interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
+> the amount determined under subsection (a) for any taxable year shall not exceed an amount (separately computed with respect to such person's interest in such trade or business or entity) equal to the amount of tax attributable to that portion of a person's taxable income which is allocable or apportionable to the person's interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
 
 #### (h) Termination
 
@@ -588,13 +658,17 @@ In the case of an individual who—
 
 &emsp;&emsp;(A) after June 30, 1995, and before July 1, 1996, or
 
-&emsp;&emsp;(B) after June 30, 2004.
+&emsp;&emsp;(B) after December 31, 2005.
 
 #### (2) Computation of base amount
 
 &emsp;In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919.)
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)\[(c)\], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub.L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(<i>l</i>), Dec. 21, 2005, 119 Stat. 2615.)
+
+#### References in Text
+
+The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (b)(3)(D)(iv), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Prior Provisions
 
@@ -603,6 +677,20 @@ A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 9
 Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments
+
+2005—Subsec. (a)(3). Pub. L. 109–58, §1351(a)(1), added par. (3).
+
+Subsec. (b)(3)(C)(ii). Pub. L. 109–135, §402(<i>l</i>)(2), struck out “(other than an energy research consortium)” after “organization” in introductory provisions.
+
+Pub. L. 109–58, §1351(a)(3), inserted “(other than an energy research consortium)” after “organization” in introductory provisions.
+
+Subsec. (b)(3)(D). Pub. L. 109–58, §1351(b), added subpar. (D).
+
+Subsec. (f)(6). Pub. L. 109–58, §1351(a)(2), added par. (6).
+
+Subsec. (f)(6)(C), (D). Pub. L. 109–135, §402(<i>l</i>)(1), added subpars. (C) and (D).
+
+2004—Subsec. (h)(1)(B). Pub. L. 108–311 substituted “December 31, 2005” for “June 30, 2004”.
 
 1999—Subsec. (c)(4)(A)(i). Pub. L. 106–170, §502(b)(1)(A), substituted “2.65 percent” for “1.65 percent”.
 
@@ -638,7 +726,7 @@ In general.—This section shall not apply to any amount paid or incurred after 
 
 “(2)
 
-Computation of base amount.—In the case of any taxable year which begins before July 1, 1995, and ends after June 30, 1995, the base amount with respectto such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year before July 1, 1995, bears to the total number of days in such taxable year.”
+Computation of base amount.—In the case of any taxable year which begins before July 1, 1995, and ends after June 30, 1995, the base amount with respect to such taxable year shall be the amount which bears the same ratio to the base amount for such year (determined without regard to this paragraph) as the number of days in such taxable year before July 1, 1995, bears to the total number of days in such taxable year.”
 
 1993—Subsec. (c)(3)(B)(ii). Pub. L. 103–66, §13112(a), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “In a case to which this subparagraph applies, the fixed-base percentage is 3 percent.”
 
@@ -718,7 +806,7 @@ Subsec. (d). Pub. L. 99–514, §231(b), inserted “defined” in heading and a
 
 &emsp;“(3) qualified research to the extent funded by any grant, contract, or otherwise by another person (or any governmental entity).”
 
-Subsec. (e). Pub. L. 99–514, §231(c)(2), amended subsec. (e) generally, substituting “Credit allowable with respect to certain payments to qualified organizations for basic research” for “Credit available with respect tocertain basic research by colleges, universities, and certain research organizations” in heading, and restating and expanding provisions of former pars. (1) to (4) into new pars. (1) to (7).
+Subsec. (e). Pub. L. 99–514, §231(c)(2), amended subsec. (e) generally, substituting “Credit allowable with respect to certain payments to qualified organizations for basic research” for “Credit available with respect to certain basic research by colleges, universities, and certain research organizations” in heading, and restating and expanding provisions of former pars. (1) to (4) into new pars. (1) to (7).
 
 Subsec. (g). Pub. L. 99–514, §231(d)(3)(C)(ii), amended subsec. (g) generally, substituting provisions relating to special rule for pass-thru of credit for provisions relating to limitation on amount of credit for research based on amount of tax liability.
 
@@ -737,6 +825,16 @@ Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting �
 1982—Subsec. (f)(2)(A). Pub. L. 97–354, §5(a)(3)(A), substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in subpar. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
+
+#### Effective Date of 2005 Amendments
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+
+Pub. L. 109–58, title XIII, §1351(c), Aug. 8, 2005, 119 Stat. 1058, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[Aug. 8, 2005\], in taxable years ending after such date.”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §301(b), Oct. 4, 2004, 118 Stat. 1178, provided that: “The amendments made by this section \[amending this section and section 45C of this title\] shall apply to amounts paid or incurred after June 30, 2004.”
 
 #### Effective Date of 1999 Amendment
 
@@ -810,7 +908,7 @@ Section 231(g) of Pub. L. 99–514 provided that:
 
 “(1)
 
-In general.—Except as provided in this subsection (2), the amendments made by this section \[amending this section and sections 28, 38, 39, 108, 170, 280C, 381, 936, 6411, and 6511 of this title, renumbering former section 30 of this title as this section, and enacting and amending provisions set out as notes under this section\] shall apply to taxable years beginning after December 31, 1985.
+In general.—Except as provided in this subsection (2), the amendments made by this section \[amending this section and sections 28, 38, 39, 108, 170, 280C, 381, 936, 6411, and 6511 of this title, renumberingformer section 30 of this title as this section, and enacting and amending provisions set out as notes under this section\] shall apply to taxable years beginning after December 31, 1985.
 
 “(2)
 
@@ -926,7 +1024,7 @@ Secretary.—For purposes of this subsection, the term ‘Secretary’ means the
 
 Section 7110(a)(2) of Pub. L. 101–239, which set forth the method of determining the amount treated as qualified research expenses for taxable years beginning before Oct. 1, 1990, and ending after Sept. 30, 1990, was repealed by Pub. L. 101–508, title XI, §11402(b)(1), Nov. 5, 1990, 104 Stat. 1388–473.
 
-\[Section 1702(d)(1) of Pub. L. 104–188 provided that: “Notwithstanding section 11402(c) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out as a note under section 45C of this title\], the amendment madeby section 11402(b)(1) of such Act \[repealing section 7110(a)(2) of Pub. L. 101–239, formerly set out as a note above\] shall apply to taxable years ending after December 31, 1989.”\]
+\[Section 1702(d)(1) of Pub. L. 104–188 provided that: “Notwithstanding section 11402(c) of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, set out as a note under section 45C of this title\], the amendment made by section 11402(b)(1) of such Act \[repealing section 7110(a)(2) of Pub. L. 101–239, formerly set out as a note above\] shall apply to taxable years ending after December 31, 1989.”\]
 
 #### Study and Report on Credit Provided by This Section
 
@@ -945,8 +1043,4 @@ Section 474(i)(2) of Pub. L. 98–369 provided that: “For purposes of determin
 &emsp;“(B) the period during which new section 30 \[now 41\] is in effect,
 
 > new section 30 \[now 41\] shall be treated as a continuation of old section 44F (and shall apply only to the extent old section 44F would have applied).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 30A, 38, 45C, 144, 170, 196, 197, 280C, 409, 936, 1202 of this title.
 

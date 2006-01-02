@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the date of the final withdrawal of all such merchandise covered by a warehouse entry,
 
-&emsp;&emsp;(C) the date of withdrawal from warehouse of such merchandise for consumption if, pursuant to regulations issued under section1505(a) of this title, duties may be deposited after the filing of any entry or withdrawal from warehouse,
+&emsp;&emsp;(C) the date of withdrawal from warehouse of such merchandise for consumption if, pursuant to regulations issued under section 1505(a) of this title, duties may be deposited after the filing of any entry or withdrawal from warehouse,
 
 &emsp;&emsp;(D) if a reconciliation is filed, or should have been filed, the date of the filing under section 1484 of this title or the date the reconciliation should have been filed, whichever is earlier; or
 

@@ -12,7 +12,7 @@ A covered beryllium employee shall, in the absence of substantial evidence to th
 
 #### (b) Cancer
 
-An individual with cancer specified in subclause (I), (II), or (III) of section 7384<i>l</i>(9)(B)(ii) of this title shall be determined to have sustained that cancer in the performance of duty for purposes of the compensation program if, and only if, the cancer specified in that subclause was at least as likely as not related to employment at the facility specified in that subclause, as determined in accordance with the guidelines established under subsection (c) of this section.
+An individual with cancer specified in subclause (I), (II), or (III) of section 7384<i>l</i>(9)(B)(ii) ofthis title shall be determined to have sustained that cancer in the performance of duty for purposes of the compensation program if, and only if, the cancer specified in that subclause was at least as likely as not related to employment at the facility specified in that subclause, as determined in accordance with the guidelines established under subsection (c) of this section.
 
 #### (c) Guidelines
 

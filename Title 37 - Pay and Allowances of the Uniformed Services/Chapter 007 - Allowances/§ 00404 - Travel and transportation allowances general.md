@@ -1,6 +1,6 @@
 ### §404. Travel and transportation allowances: general
 
-(a) Except as provided in subsection (f) and under regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
+(a) Except as provided in subsection (f) and under regulations prescribed by the Secretariesconcerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
 
 &emsp;(1) upon a change of permanent station, or otherwise, or when away from his designated post of duty regardless of the length of time he is away from that post;
 
@@ -56,7 +56,7 @@
 
 &emsp;(C) A combination of payments described in subparagraphs (A) and (B).
 
-(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality.
+(3) A per diem allowance or maximum amount of reimbursement established for purposes ofparagraph (2) shall be established, to the extent feasible, by locality.
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
@@ -206,7 +206,7 @@ Subsec. (i)(4). Pub. L. 106–65, §631(c), added par. (4).
 
 1998—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
+1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struckout former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
 
 1996—Subsec. (d)(1)(A). Pub. L. 104–106 struck out “, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense” after “section 5704 of title 5”.
 
@@ -244,7 +244,7 @@ Subsec. (d)(1)(C). Pub. L. 99–661, §1343(b)(2), substituted “subparagraph (
 
 Subsec. (d)(2) to (4). Pub. L. 99–661, §614(a)(3), added pars. (2) to (4) and struck out former par. (2) which read as follows: “Under regulations prescribed by the Secretaries concerned, when either travel is to an area designated as a high cost area in those regulations or the per diem of paragraph (1)(B) of this subsection is less than the amount of the actual and necessary expenses required by the unusual circumstances of the travel assignment, reimbursement may be authorized for actual and necessary expenses, but not for more than $75 for each day in a travel status.”
 
-1985—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted “paragraph (1)(B)” for “clause (2)”. Prior to amendment, first sentence readas follows: “The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
+1985—Subsec. (d). Pub. L. 99–145 substituted par. (1) for first sentence, designated second sentence as par. (2), and in par. (2) substituted “paragraph (1)(B)” for “clause (2)”. Prior to amendment, first sentence read as follows: “The travel and transportation allowances authorized for each kind of travel may not be more than one of the following—
 
 &emsp;“(1) transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation at a rate per mile prescribed by the Secretaries concerned and based on distances established, over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of the Army;
 
@@ -320,7 +320,7 @@ Section 121(d) of Pub. L. 97–60 provided that:
 
 “(2) Paragraph (2) of section 404(b) of title 37, United States Code, as added by subsection (a)(2)(C), shall apply to travel performed after October 31, 1981.
 
-“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall takeeffect on the date of the enactment of this Act \[Oct. 14, 1981\].
+“(3) Paragraph (3) of section 406(a) of title 37, United States Code, as added by subsection (b)(1)(C), shall take effect on the date of the enactment of this Act \[Oct. 14, 1981\].
 
 “(4) The amendments made by subsections (a)(3) and (b)(3) \[amending this section and section 406 of this title\] shall take effect on November 1, 1981, and shall apply to members who are retired, placed on the temporary disability retired list, discharged, or involuntarily released on or after November 1, 1981, except that such amendments shall not apply to any member who before November 1, 1981, had completed eighteen years of active service.
 

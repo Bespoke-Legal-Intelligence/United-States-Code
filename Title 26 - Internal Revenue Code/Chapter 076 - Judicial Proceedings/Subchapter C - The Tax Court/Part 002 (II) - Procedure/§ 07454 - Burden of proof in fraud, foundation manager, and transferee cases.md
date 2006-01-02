@@ -56,9 +56,5 @@ Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, an
 
 Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 162 of this title.
-
 <i><sup>1</sup></i><i> So in original.</i>
 

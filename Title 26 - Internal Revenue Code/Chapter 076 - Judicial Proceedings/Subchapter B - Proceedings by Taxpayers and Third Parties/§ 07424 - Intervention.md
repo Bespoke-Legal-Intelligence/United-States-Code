@@ -16,7 +16,3 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 Section 114(d) of Pub. L. 89–719 provided that civil actions commenced before Nov. 2, 1966, to clear title to property pursuant to this section as in effect before Nov. 2, 1966, were to be determined in accord with this section as in effect before Nov. 2, 1966.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 28 section 2409a.
-

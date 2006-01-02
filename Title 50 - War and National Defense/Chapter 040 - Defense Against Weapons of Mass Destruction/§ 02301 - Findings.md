@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;(9) Foreign states can transfer weapons to or otherwise aid extremist and terrorist movements indirectly and with plausible deniability.
 
-&emsp;(10) Terrorist groups have already conducted chemical attacks against civilian targets in the United States and Japan, and a radiological attack in Russia.
+&emsp;(10) Terrorist groups have already conducted chemical attacks against civilian targets inthe United States and Japan, and a radiological attack in Russia.
 
 &emsp;(11) The potential for the national security of the United States to be threatened by nuclear, radiological, chemical, or biological terrorism must be taken seriously.
 
@@ -68,155 +68,13 @@ Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, p
 
 #### Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack
 
-Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, provided that:
+Pub. L. 109–163, div. A, title X, §1052(a)–(c), Jan. 6, 2006, 119 Stat. 3434, reestablished the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack (see below) with the same membership that the Commission had as of the date the Commission's report was submitted, provided that Commissioners could elect to terminate service, and defined “Commission charter”.
 
-#### “SEC. 1401. ESTABLISHMENT OF COMMISSION.
-
-“(a)
-
-Establishment.—There is hereby established a commission to be known as the ‘Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack’ (hereafter in this title referred to as the ‘Commission’).
-
-“(b)
-
-Composition.—The Commission shall be composed of nine members. Seven of the members shall be appointed by the Secretary of Defense and two of the members shall be appointed by the Director of the Federal Emergency Management Agency. In selecting individuals for appointment to the Commission, the Secretary of Defense shall consult with the chairmen and ranking minority members of the Committees on Armed Services of the Senate and House of Representatives.
-
-“(c)
-
-Qualifications.—Members of the Commission shall be appointed from among private United States citizens with knowledge and expertise in the scientific, technical, and military aspects of electromagnetic pulse (hereafter in this title referred to as ‘EMP’) effects resulting from the detonation of a nuclear weapon or weapons at high altitude, sometimes referred to as high-altitude electromagnetic pulse effects (HEMP).
-
-“(d)
-
-Chairman of Commission.—The Secretary of Defense shall designate one of the members of the Commission to serve as chairman of the Commission.
-
-“(e)
-
-Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment.
-
-“(f)
-
-Security Clearances.—All members of the Commission shall hold appropriate security clearances.
-
-“(g)
-
-Initial Organization Requirements.—All appointments to the Commission shall be made not later than 90 days after the date of the enactment of this Act \[Oct. 30, 2000\]. The Commission shall convene its first meeting not later than 60 days after the date as of which all members of the Commission have been appointed.
-
-#### “SEC. 1402. DUTIES OF COMMISSION.
-
-“(a)
-
-Review of EMP Threat.—The Commission shall assess—
-
-&emsp;“(1) the nature and magnitude of potential high-altitude EMP threats to the United States from all potentially hostile states or non-state actors that have or could acquire nuclear weapons and ballistic missiles enabling them to perform a high-altitude EMP attack against the United States within the next 15 years;
-
-&emsp;“(2) the vulnerability of United States military and especially civilian systems to an EMP attack, giving special attention to vulnerability of the civilian infrastructure as a matter of emergency preparedness;
-
-&emsp;“(3) the capability of the United States to repair and recover from damage inflicted on United States military and civilian systems by an EMP attack; and
-
-&emsp;“(4) the feasibility and cost of hardening select military and civilian systems against EMP attack.
-
-“(b)
-
-Recommendation.—The Commission shall recommend any steps it believes should be taken by the United States to better protect its military and civilian systems from EMP attack.
-
-“(c)
-
-Cooperation From Government Officials.—In carrying out its duties, the Commission should receive the full and timely cooperation of the Secretary of Defense, the Director of the Federal Emergency Management Agency, and any other United States Government official serving in the Department of Defense or Armed Forces in providing the Commission with analyses, briefings, and other information necessary for the fulfillment of its responsibilities.
-
-#### “SEC. 1403. REPORTS.
-
-“(a)
-
-Commission Report.—The Commission shall, not later than one year after the date of its first meeting, submit to Congress, the Secretary of Defense, and the Director of the Federal Emergency Management Agency a report on the Commission's findings and conclusions.
-
-“(b)
-
-Secretary of Defense Report.—Not later than one year after the date of the Commission's report under subsection (a), the Secretary of Defense shall submit to Congress a report—
-
-&emsp;“(1) commenting on the Commission's findings and conclusions;
-
-&emsp;“(2) describing political-military scenarios that could possibly lead to an EMP attack against the United States;
-
-&emsp;“(3) evaluating the relative likelihood of an EMP attack against the United States compared to other threats involving nuclear weapons; and
-
-&emsp;“(4) explaining what actions, if any, the Secretary intends to take to implement the recommendations of the Commission and the Secretary's reasons for doing so.
-
-#### “SEC. 1404. POWERS.
-
-“(a)
-
-Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this title, holdhearings, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable.
-
-“(b)
-
-Information.—The Commission may secure directly from the Department of Defense, the Central Intelligence Agency, and any other Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this title.
-
-#### “SEC. 1405. COMMISSION PROCEDURES.
-
-“(a)
-
-Meetings.—The Commission shall meet at the call of the Chairman.
-
-“(b)
-
-Quorum.—(1) Five members of the Commission shall constitute a quorum other than for the purpose of holding hearings.
-
-“(2) The Commission shall act by resolution agreed to by a majority of the members of the Commission.
-
-“(c)
-
-Commission.—The Commission may establish panels composed of less than full membership of the Commission for the purpose of carrying out the Commission's duties. The actions of each such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
-
-“(d)
-
-Authority of Individuals To Act for Commission.—Any agent or member of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this title.
-
-#### “SEC. 1406. PERSONNEL MATTERS.
-
-“(a)
-
-Pay of Members.—Members of the Commission shall serve without pay by reason of their work on the Commission.
-
-“(b)
-
-Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
-
-“(c)
-
-Staff.—(1) The chairman of the Commission may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties. The appointment of a staff director shall be subject to the approval of the Commission.
-
-“(2) The chairman of the Commission may fix the pay of the staff director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for grade GS–15 of the General Schedule.
-
-“(d)
-
-Detail of Government Employees.—Upon request of the chairman of the Commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
-
-“(e)
-
-Procurement of Temporary and Intermittent Services.—The chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay payable for level V of the Executive Schedule under section 5316 of such title.
-
-#### “SEC. 1407. MISCELLANEOUS ADMINISTRATIVE PROVISIONS.
-
-“(a)
-
-Postal and Printing Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-
-“(b)
-
-Miscellaneous Administrative and Support Services.—The Secretary of Defense shall furnish the Commission, on a reimbursable basis, any administrative and support services requested by the Commission.
-
-#### “SEC. 1408. FUNDING.
-
-“Funds for activities of the Commission shall be provided from amounts appropriated for the Department of Defense for operation and maintenance for Defense-wide activities for fiscal year 2001. Upon receipt of a written certification from the Chairman of the Commission specifying the funds required for the activities of the Commission, the Secretary of Defense shall promptly disburse to the Commission, from such amounts, the funds required by the Commission as stated in such certification.
-
-#### “SEC. 1409. TERMINATION OF THE COMMISSION.
-
-“The Commission shall terminate 60 days after the date of the submission of its report under section 1403(a).”
-
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, as amended by Pub. L. 109–163, div. A, title X, §1052(d)–(j), Jan. 6, 2006, 119 Stat. 3434, 3435, established the Commission to Assess the Threat to the United States from Electromagnetic Pulse Attack, directed the Commission to assess the vulnerability of electric-dependent military systems and other electric-dependent systems in the United States to an electromagnetic pulse attack and to submit to Congress, not later than June 30, 2007, a final report on the assessment, and provided that the Commmission terminate 30 days after submission of the report.
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
-Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title XV, §1514(a), (b)(1), Dec. 28, 2001, 115 Stat. 1273; Pub. L. 107–296, title VIII, §889(b)(2), Nov. 25, 2002, 116 Stat. 2251, provided that:
+Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title XV, §1514(a), (b)(1), Dec. 28, 2001, 115 Stat. 1273; Pub. L. 107–296, titleVIII, §889(b)(2), Nov. 25, 2002, 116 Stat. 2251, provided that:
 
 #### “SEC. 1401. SHORT TITLE.
 
@@ -240,7 +98,7 @@ Report.—Not later than January 31, 1999, the President shall submit to Congres
 
 “(a)
 
-Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction againstcities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
+Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
 
 “(b)
 
@@ -318,61 +176,13 @@ Termination of the Panel.—The panel shall terminate five years after the date 
 
 “(m)
 
-Definition.—In this section, the term ‘weapon of mass destruction’ has the meaning given that term in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).”
+Definition.—In this section, the term ‘weapon of mass destruction’ has the meaning given that termin section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).”
 
 \[Pub. L. 107–107, div. A, title XV, §1514(b)(2), Dec. 28, 2001, 115 Stat. 1274, provided that: “The amendment made by paragraph (1) \[amending section 1405(k) of Pub. L. 105–261, set out above\] shall apply with respect to periods of service on the advisory panel under section 1405 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] on or after the date of the enactment of this Act \[Dec. 28, 2001\].”\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
-#### Ex. Ord. No. 13328. Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction
+#### Executive Order No. 13328
 
-Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is established, within the Executive Office of the President for administrative purposes, a Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction (Commission).
-
-Sec. 2. <i>Mission</i>. (a) The Commission is established for the purpose of advising the President in the discharge of his constitutional authority under Article II of the Constitution to conduct foreign relations, protect national security, and command the Armed Forces of the United States, in order to ensure the most effectivecounterproliferation capabilities of the United States and response to the September 11, 2001, terrorist attacks and the ongoing threat of terrorist activity. The Commission shall assess whether the Intelligence Community is sufficiently authorized, organized, equipped, trained, and resourced to identify and warn in a timely manner of, and to support United States Government efforts to respond to, the development and transfer of knowledge, expertise, technologies, materials, and resources associated with the proliferation of Weapons of Mass Destruction, related means of delivery, and other related threats of the 21st Century and their employment by foreign powers (including terrorists, terrorist organizations, and private networks, or other entities or individuals). In doing so, the Commission shall examine the capabilities and challenges of the Intelligence Community to collect, process, analyze, produce, and disseminate information concerning the capabilities, intentions, and activities of such foreign powers relating to the design, development, manufacture, acquisition, possession, proliferation, transfer, testing, potential or threatened use, or use of Weapons of Mass Destruction, related means of delivery, and other related threats of the 21st Century.
-
-(b) With respect to that portion of its examination under paragraph 2(a) of this order that relates to Iraq, the Commission shall specifically examine the Intelligence Community's intelligence prior to the initiation of Operation Iraqi Freedom and compare it with the findings of the Iraq Survey Group and other relevant agencies or organizations concerning the capabilities, intentions, and activities of Iraq relating to the design, development, manufacture, acquisition, possession, proliferation, transfer, testing, potential or threatened use, or use of Weapons of Mass Destruction and related means of delivery.
-
-(c) With respect to its examination under paragraph 2(a) of this order, the Commission shall:
-
-&emsp;(i) specifically evaluate the challenges of obtaining information regarding the design, development, manufacture, acquisition, possession, proliferation, transfer, testing, potential or threatened use, or use of Weapons of Mass Destruction, related means of delivery, and other related threats of the 21st Century in closed societies; and
-
-&emsp;(ii) compare the Intelligence Community's intelligence concerning Weapons of Mass Destruction programs and other related threats of the 21st Century in Libya prior to Libya's recent decision to open its programs to inter national \[sic\] scrutiny and in Afghanistan prior to removal of the Taliban government with the current assessments of organizations examining those programs.
-
-(d) The Commission shall submit to the President by March 31, 2005, a report of the findings of the Commission resulting from its examination and its specific recommendations for ensuring that the Intelligence Community of the United States is sufficiently authorized, organized, equipped, trained, and resourced to identify and warn in a timely manner of, and to support United States Government efforts to respond to, the development and transfer of knowledge, expertise, technologies, materials, and resources associated with the proliferation of Weapons of Mass Destruction, related means of delivery, and other related threats of the 21st Century and their employment by foreign powers (including terrorists, terrorist organizations, and private networks, or other entities or individuals). The Central Intelligence Agency and other components of the Intelligence Community shall utilize the Commission and its resulting report. Within 90 days of receiving the Commission's report, the President will consult with the Congress concerning the Commission's report and recommendations, and will propose any appropriate legislative recommendations arising out of the findings of the Commission.
-
-Sec. 3. <i>Membership</i>. The Commission shall consist of up to nine members appointed by the President, two of whom the President shall designate as Co-Chairs. Members shall be citizens of the United States. It shall take two-thirds of the members of the Commission to constitute a quorum.
-
-Sec. 4. <i>Meetings of the Commission and Direction of Its Work</i>. The Co-Chairs of the Commission shall convene and preside at the meetings of the Commission, determine after consultation with other members of the Commission its agenda, direct its work, and assign responsibilities within the Commission.
-
-Sec. 5. <i>Access to Information</i>. (a) To carry out this order, the Commission shall have full and complete access to information relevant to its mission as described in section 2 of this order and in the possession, custody, or control of any executive department or agency to the maximum extent permitted by law and consistent with Executive Order 12958 of April 17, 1995, as amended \[50 U.S.C. 435 note\]. Heads of departments and agencies shall promptly furnish such information to the Commission upon request. The Attorney General and the Director of Central Intelligence shall ensure the expeditious processing of all appropriate security clearances necessary for the members of the Commission to fulfill their functions.
-
-(b) Promptly upon commencing its work, the Commission shall adopt, after consultation with the Secretary of Defense, the Attorney General, and the Director of Central Intelligence, rules and procedures of the Commission for physical, communications, computer, document, personnel, and other security in relation to the work of the Commission. The Secretary of Defense, the Attorney General, and the Director of Central Intelligence shall promptly and jointly report to the President their judgment whether the security rules and procedures adopted by the Commission are clearly consistent with the national security and protect against unauthorized disclosure of information required by law or executive order to be protected against such disclosure. The President may at any time modify the security rules or procedures of the Commission to provide the necessary protection.
-
-Sec. 6. <i>General Provisions</i>. (a) In implementing this order, the Commission shall solely advise and assist the President.
-
-(b) In performing its functions under this order, the Commission shall, subject to the authority of the President, be independent from any executive department or agency, or of any officer, employee, or agent thereof.
-
-(c) Nothing in this order shall be construed to impair or otherwise affect the authorities of any department, agency, entity, officer, or employee of the United States under applicable law.
-
-(d) Nothing in this order shall be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
-
-(e) The Director of the Office of Administration shall provide or arrange for the provision of administrative support and, with the assistance of the Director of the Office of Management and Budget, ensure funding for the Commission consistent with applicable law. The Director of the Office of Administration shall ensure that such support and funding meets the Commission's reasonable needs and that the manner of provision of support and funding is consistent with the authority of the Commission within the executive branch in the performance of its functions.
-
-(f) Members of the Commission shall serve without compensation for their work on the Commission. Members who are not officers or employees in the executive branch, while engaged in the work of the Commission, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701 through 5707), consistent with the availability of funds.
-
-(g) The Commission shall have a staff headed by an Executive Director. The Co-Chairs shall hire and employ, or obtain by assignment or detail from departments and agencies, the staff of the Commission, including the Executive Director.
-
-(h) The term “Intelligence Community” is given the same meaning as contained in section 3(4) of the National Security Act of 1947, as amended (50 U.S.C. 401a(4)).
-
-(i) The term “Weapons of Mass Destruction” is given the same meaning as contained in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).
-
-Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch, and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
-
-Sec. 8. <i>Termination</i>. The Commission shall terminate within 60 days after submitting its report.
-
-George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13328, Feb. 6, 2004, 69 F.R. 6901, which established the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, was revoked by Ex. Ord. No. 13385, §3(a), Sept. 29, 2005, 70 F.R. 57990, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

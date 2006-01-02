@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) a person or other entity that employs three or fewer employees,
 
-&emsp;&emsp;(B) a person's or entity's discrimination because of an individual's national origin if the discrimination with respect to that person or entity and that individual is covered under section 703 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–2\], or
+&emsp;&emsp;(B) a person's or entity's discrimination because of an individual's national origin ifthe discrimination with respect to that person or entity and that individual is covered under section 703 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–2\], or
 
 &emsp;&emsp;(C) discrimination because of citizenship status which is otherwise required in order to comply with law, regulation, or executive order, or required by Federal, State, or local government contract, or which the Attorney General determines to be essential for an employer to do business with an agency or department of the Federal, State, or local government.
 
@@ -86,7 +86,7 @@
 
 #### (1) Notice
 
-&emsp;Whenever a complaint is made that a person or entity has engaged in or is engaging in any such unfair immigration-related employmentpractice, an administrative law judge shall have power to issue and cause to be served upon such person or entity a copy of the complaint and a notice of hearing before the judge at a place therein fixed, not less than five days after the serving of the complaint. Any such complaint may be amended by the judge conducting the hearing, upon the motion of the party filing the complaint, in the judge's discretion at any time prior to the issuance of an order based thereon. The person or entity so complained of shall have the right to file an answer to the original or amended complaint and to appear in person or otherwise and give testimony at the place and time fixed in the complaint.
+&emsp;Whenever a complaint is made that a person or entity has engaged in or is engaging in any such unfair immigration-related employment practice, an administrative law judge shall have power to issue and cause to be served upon such person or entity a copy of the complaint and a notice of hearing before the judge at a place therein fixed, not less than five days after the serving of the complaint. Any such complaint may be amended by the judge conducting the hearing, upon the motion of the party filing the complaint, in the judge's discretion at any time prior to the issuance of an order based thereon. The person or entity so complained of shall have the right to file an answer to the original or amended complaint and to appear in person or otherwise and give testimony at the place and time fixed in the complaint.
 
 #### (2) Judges hearing cases
 
@@ -174,7 +174,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (1) In general
 
-&emsp;If an order of the agency is not appealed under subsection (i)(1) of this section, the Special Counsel (or, if the Special Counsel fails to act, the person filing the charge) may petition the United States district court for the district in which a violation of the order is alleged to have occurred, or in which the respondent resides or transacts business, for the enforcement of the order of the administrative law judge, by filing in such court a written petition praying that such order be enforced.
+&emsp;If an order of the agency is not appealed under subsection (i)(1) of this section, the Special Counsel (or, if the Special Counsel fails toact, the person filing the charge) may petition the United States district court for the district in which a violation of the order is alleged to have occurred, or in which the respondent resides or transacts business, for the enforcement of the order of the administrative law judge, by filing in such court a written petition praying that such order be enforced.
 
 #### (2) Court enforcement order
 
@@ -206,7 +206,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (<i>l</i>) Dissemination of information concerning anti-discrimination provisions
 
-(1) Not later than 3 months after November 29, 1990, the Special Counsel, in cooperation withthe chairman of the Equal Employment Opportunity Commission, the Secretary of Labor, and the Administrator of the Small Business Administration, shall conduct a campaign to disseminate information respecting the rights and remedies prescribed under this section and under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with unfair immigration-related employment practices. Such campaign shall be aimed at increasing the knowledge of employers, employees, and the general public concerning employer and employee rights, responsibilities, and remedies under this section and such title.
+(1) Not later than 3 months after November 29, 1990, the Special Counsel, in cooperation with the chairman of the Equal Employment Opportunity Commission, the Secretary of Labor, and the Administrator of the Small Business Administration, shall conduct a campaign to disseminate information respecting the rights and remedies prescribed under this section and under title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\] in connection with unfair immigration-related employment practices. Such campaign shall be aimed at increasing the knowledge of employers, employees, and the general public concerning employer and employee rights, responsibilities, and remedies under this section and such title.
 
 (2) In order to carry out the campaign under this subsection, the Special Counsel—
 
@@ -292,7 +292,7 @@ Subsec. (h). Pub. L. 100–525, §2(b)(6), substituted “attorney's” for “a
 
 #### Effective Date of 1996 Amendment
 
-Section 421(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a)\[amending this section\] shall apply to requests made on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Section 421(b) of div. C of Pub. L. 104–208 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to requests made on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1994 Amendment
 

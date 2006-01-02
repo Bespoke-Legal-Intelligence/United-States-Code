@@ -12,7 +12,7 @@
 
 #### (b) Termination office
 
-The Commission shall during fiscal year 1998 establish an office to close out the affairs of theCommission that are still pending after the termination of the Panama Canal Treaty of 1977.
+The Commission shall during fiscal year 1998 establish an office to close out the affairs of the Commission that are still pending after the termination of the Panama Canal Treaty of 1977.
 
 #### (c) Panama Canal Commission Dissolution Fund
 
@@ -80,5 +80,5 @@ Effective date.—This subsection shall be effective on and after the terminatio
 
 “(c)
 
-Oversight of Close-Out Activities.—The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the Federal Government to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
+Oversight of Close-Out Activities.—The Panama Canal Commission shall enter into an agreement with the head of a department or agency of the FederalGovernment to supervise the close out of the affairs of the Commission under section 1305 of the Panama Canal Act of 1979 and to certify the completion of that function.”
 

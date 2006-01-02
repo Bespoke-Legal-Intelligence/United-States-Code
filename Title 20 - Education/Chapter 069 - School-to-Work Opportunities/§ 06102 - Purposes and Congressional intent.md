@@ -8,7 +8,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(A) are a part of comprehensive education reform;
 
-&emsp;&emsp;(B) are integrated with the systems developed under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] and the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\]; and
+&emsp;&emsp;(B) are integrated with the systems developed under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] and the National Skill Standards Act of 1994; <sup>1</sup> and
 
 &emsp;&emsp;(C) offer opportunities for all students to participate in a performance-based education and training program that will—
 
@@ -36,11 +36,11 @@ The purposes of this chapter are—
 
 &emsp;(10) to encourage the development and implementation of programs that will require paid high-quality, work-based learning experiences;
 
-&emsp;(11) to motivate all youths, including low-achieving youths, school dropouts, and youths with disabilities, to stay in or return to school or a classroom setting and strive to succeed, by providing enriched learning experiences and assistance in obtaining good jobs and continuing their education in postsecondary educational institutions;
+&emsp;(11) to motivate all youths, including low-achieving youths, school dropouts, and youthswith disabilities, to stay in or return to school or a classroom setting and strive to succeed, by providing enriched learning experiences and assistance in obtaining good jobs and continuing their education in postsecondary educational institutions;
 
 &emsp;(12) to expose students to a broad array of career opportunities, and facilitate the selection of career majors, based on individual interests, goals, strengths, and abilities;
 
-&emsp;(13) to increase opportunities for minorities, women, and individuals with disabilities, byenabling individuals to prepare for careers that are not traditional for their race, gender, or disability; and
+&emsp;(13) to increase opportunities for minorities, women, and individuals with disabilities, by enabling individuals to prepare for careers that are not traditional for their race, gender, or disability; and
 
 &emsp;(14) to further the National Education Goals set forth in title I of the Goals 2000: Educate America Act \[20 U.S.C. 5811 et seq.\].
 
@@ -72,5 +72,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Goals 2000: Educate America Act, referred to in subsec. (a)(1)(B), (14), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to chapter 68 (§5801 et seq.) of this title (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). Title I of the Act is classified generally to subchapter I (§5811 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The National Skill Standards Act of 1994, referred to in subsec. (a)(1)(B), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
+The National Skill Standards Act of 1994, referred to in subsec. (a)(1)(B), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which was classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title, prior to repeal by section 509(a) of Pub. L. 103–227, effective Sept. 30, 1999. For complete classification of this Act to the Code, see Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

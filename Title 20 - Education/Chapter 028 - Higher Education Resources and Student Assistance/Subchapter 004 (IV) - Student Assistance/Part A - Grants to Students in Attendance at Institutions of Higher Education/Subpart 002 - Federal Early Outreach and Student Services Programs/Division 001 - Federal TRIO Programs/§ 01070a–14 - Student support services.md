@@ -38,7 +38,7 @@ A student support services project assisted under this division may provide serv
 
 #### (1) Use for student aid
 
-&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (b) of this section may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriatedPell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
+&emsp;A recipient of a grant that undertakes any of the permissible services identified in subsection (b) of this section may, in addition, use such funds to provide grant aid to students. A grant provided under this paragraph shall not exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for the current academic year. In making grants to students under this subsection, an institution shall ensure that adequate consultation takes place between the student support service program office and the institution's financial aid office.
 
 #### (2) Eligible students
 

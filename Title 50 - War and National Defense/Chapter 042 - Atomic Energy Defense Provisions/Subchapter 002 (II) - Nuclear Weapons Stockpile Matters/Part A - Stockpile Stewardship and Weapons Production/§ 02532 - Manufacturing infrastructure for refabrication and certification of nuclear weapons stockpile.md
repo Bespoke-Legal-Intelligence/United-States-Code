@@ -46,7 +46,7 @@ Of the funds authorized to be appropriated under section 3101(b) of the National
 
 #### (e) Plan and report
 
-The Secretary shall develop a plan for the implementation of this section. Not later than March 1, 1996, the Secretary shall submit to Congress a report on the obligations the Secretary has incurred, and plans to incur, during fiscal year 1996 for the program referred to in subsection (a).
+The Secretary shall develop a plan for the implementation of this section. Not later thanMarch 1, 1996, the Secretary shall submit to Congress a report on the obligations the Secretary has incurred, and plans to incur, during fiscal year 1996 for the program referred to in subsection (a).
 
 (Pub. L. 107–314, div. D, title XLII, §4212, formerly Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620; Pub. L. 104–201, div. C, title XXXI, §3132(a), (b), Sept. 23, 1996, 110 Stat. 2829; renumbered Pub. L. 107–314, div. D, title XLII, §4212, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(13), Nov. 24, 2003, 117 Stat. 1760.)
 

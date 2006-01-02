@@ -6,7 +6,7 @@ For the purposes of this chapter—
 
 (B) The requirement of discharge or release, prescribed in subparagraph (A), shall be waived in the case of any participant who has completed his or her first obligated period of active duty (which began after December 31, 1976) or 6 years of active duty (which began after December 31, 1976), whichever period is less.
 
-(C) For the purposes of subparagraphs (A) and (B), the term “active duty” does not include any period during which an individual (i) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (ii) served as a cadet or midshipman at one of the service academies, or (iii) served under the provisions of section 511(d) <sup>1</sup> of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
+(C) For the purposes of subparagraphs (A) and (B), the term “active duty” does not include any period during which an individual (i) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (ii) served as a cadet or midshipman at one of the service academies, or (iii) served under the provisions of section 511(d) <sup>1</sup> of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
 (D)(i) The requirement of ineligibility for educational assistance under chapter 34 of this title, prescribed in subparagraph (A), shall be waived in the case of a veteran described in division (ii) of this subparagraph who elects to receive benefits under this chapter instead of assistance under such chapter 34. A veteran who makes such an election shall be ineligible for assistance under such chapter. Such an election is irrevocable.
 
@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 (5) The term “training establishment” has the meaning given such term in section 3452(e) of this title.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2394, §1602; amended Pub. L. 96–466, title IV, §401, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 98–223, title II, §203(a), Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title III, §§309(a)(2), 310(a), Oct. 28, 1986, 100 Stat. 3270, 3271; Pub. L. 100–689, title I, §108(b)(1), Nov. 18, 1988, 102 Stat. 4169; Pub. L. 102–54, §14(c)(6), June 13, 1991, 105 Stat. 285; renumbered §3202 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2394, §1602; amended Pub. L. 96–466, title IV, §401, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 98–223, title II, §203(a), Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title III, §§309(a)(2), 310(a), Oct. 28, 1986, 100 Stat. 3270, 3271; Pub. L. 100–689, title I, §108(b)(1), Nov. 18, 1988, 102 Stat. 4169; Pub. L. 102–54, §14(c)(6), June 13, 1991, 105 Stat. 285; renumbered §3202 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–163, div. A, title V, §515(e)(3), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### References in Text
 
@@ -35,6 +35,8 @@ Section 511 of title 10, referred to in par. (1)(C)(iii), was renumbered section
 Prior sections 3202 to 3205 were renumbered sections 5502 to 5505 of this title, respectively, and section 5505 was subsequently repealed by Pub. L. 103–446, title XII, §1201(g)(4)(A), Nov. 2, 1994, 108 Stat. 4687.
 
 #### Amendments
+
+2006—Par. (1)(C)(iii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1602 of this title as this section.
 

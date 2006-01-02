@@ -58,7 +58,7 @@ Limited duration.—The Secretary shall disqualify an individual from operating 
 
 &emsp;(2)
 
-After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, after notice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
+After notice and hearing.—The Secretary shall disqualify an individual from operating a commercial motor vehicle for more than 30 days if the Secretary determines, afternotice and an opportunity for a hearing, that allowing the individual to continue to operate a commercial motor vehicle would create an imminent hazard (as such term is defined in section 5102).
 
 (g)
 
@@ -86,13 +86,15 @@ Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Fe
 
 (B) The Secretary shall prescribe regulations establishing and enforcing requirements for reporting out-of-service orders issued under regulations prescribed under subparagraph (A) of this paragraph. Regulations prescribed under this subparagraph shall require at least that an operator of a commercial motor vehicle who is issued an out-of-service order to report the issuance to the individual's employer and to the State that issued the operator a driver's license.
 
-(2) Not later than December 18, 1992, the Secretary shall prescribe regulations establishing sanctions and penalties related to violations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
+(2) The Secretary shall prescribe regulations establishing sanctions and penalties related to violations of out-of-service orders by individuals operating commercial motor vehicles. The regulations shall require at least that—
 
-&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 90 days and liable for a civil penalty of at least $1,000;
+&emsp;(A) an operator of a commercial motor vehicle found to have committed a first violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 180 days and liable for a civil penalty of at least $2,500;
 
-&emsp;(B) an operator of a commercial motor vehicle found to have committed a 2d violation of an out-of-service order shall be disqualified from operating such a vehicle for at least one year and not more than 5 years and liable for a civil penalty of at least $1,000; and
+&emsp;(B) an operator of a commercial motor vehicle found to have committed a 2d violation of an out-of-service order shall be disqualified from operating such a vehicle for at least 2 years and not more than 5 years and liable for a civil penalty of at least $5,000;
 
-&emsp;(C) an employer that knowingly allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order shall be liable for a civil penalty of not more than $10,000.
+&emsp;(C) an employer that knowingly allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order shall be liable for a civil penalty of not more than $25,000; and
+
+&emsp;(D) an employer that knowingly and willfully allows or requires an employee to operate a commercial motor vehicle in violation of an out-of-service order shall, upon conviction, be subject for each offense to imprisonment for a term not to exceed one year or a fine under title 18, or both.
 
 (j)
 
@@ -110,7 +112,7 @@ Minimum requirements.—The regulations issued under paragraph (1) shall, at a m
 
 &emsp;&emsp;(B) any employer that knowingly allows, permits, authorizes, or requires an employee to operate a commercial motor vehicle in violation of such a law or regulation shall be subject to a civil penalty of not more than $10,000.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1022; Pub. L. 104–88, title IV, §403(a), Dec. 29, 1995, 109 Stat. 956; Pub. L. 106–159, title II, §201(a)(1), (2), (b), Dec. 9, 1999, 113 Stat. 1758, 1759; Pub. L. 109–59, title IV, §4102(b), Aug. 10, 2005, 119 Stat. 1715.)
 
 Historical and Revision Notes
 
@@ -173,6 +175,16 @@ In subsection (g)(2), before clause (A), the words “Not later than December 18
 The date of the enactment of this Act, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
 
 #### Amendments
+
+2005—Subsec. (i)(2). Pub. L. 109–59, §4102(b)(1), substituted “The Secretary” for “Not later than December 18, 1992, the Secretary” in introductory provisions.
+
+Subsec. (i)(2)(A). Pub. L. 109–59, §4102(b)(2), substituted “180 days” for “90 days” and “$2,500” for “$1,000”.
+
+Subsec. (i)(2)(B). Pub. L. 109–59, §4102(b)(3), substituted “2 years” for “one year” and “$5,000;” for “$1,000; and”.
+
+Subsec. (i)(2)(C). Pub. L. 109–59, §4102(b)(4), substituted “$25,000; and” for “$10,000.”
+
+Subsec. (i)(2)(D). Pub. L. 109–59, §4102(b)(5), added subpar. (D).
 
 1999—Subsec. (b)(1)(D), (E). Pub. L. 106–159, §201(a)(1), added subpars. (D) and (E).
 

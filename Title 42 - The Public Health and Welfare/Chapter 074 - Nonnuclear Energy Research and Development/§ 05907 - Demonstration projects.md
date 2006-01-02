@@ -32,9 +32,9 @@ In reviewing potential projects, the Secretary shall consider criteria including
 
 (2) For the purposes of this chapter the non-Federal share may be in any form, including, but not limited to, lands or interests therein needed for the project or personal property or services, the value of which shall be determined by the Secretary.
 
-#### (d) Submission of proposals to Secretary; promulgation of regulations by Secretary establishing procedures; required contents of proposals and regulations
+#### (d) Regulations
 
-(1) The Secretary shall, within six months of December 31, 1974, promulgate regulations establishing procedures for submission of proposals to the Secretary for the purposes of this chapter. Such regulations shall establish a procedure for selection of proposals which—
+(1) The Administrator of the Energy Research and Development Administration shall, within six months of December 31, 1974, promulgate regulations establishing procedures for submission of proposals to the Energy Research and Development Administration for the purposes of this chapter. Such regulations shall establish a procedure for selection of proposals which—
 
 &emsp;(A) provides that projects will be carried out under such conditions and varying circumstances as will assist in solving energy extraction, transportation, conversion, conservation, and end-use problems of various areas and regions, under representative geological, geographic, and environmental conditions; and
 
@@ -68,15 +68,25 @@ In reviewing potential projects, the Secretary shall consider criteria including
 
 If the estimate of the Federal investment with respect to construction costs of any demonstration project proposed to be established under this section exceeds $50,000,000, no amount may be appropriated for such project except as specifically authorized by legislation hereafter enacted by the Congress.
 
-#### (f) Amount of estimated Federal contribution authorizing Secretary to proceed with negotiation of agreements and implementation of proposal; amount of Federal contribution requiring Secretary to submit report to Congress as prerequisite to expenditure of funds
+#### (f) Amount of estimated Federal contribution; necessity for report
 
 If the total estimated amount of the Federal contribution to the construction cost of a demonstration project does not exceed $50,000,000, the Secretary is authorized to proceed with the negotiation of agreements and implementation of the proposal subject to the availability of funds under the authorization of appropriations pursuant to section 5915 of this title: <i>Provided</i>, That if such Federal contribution to the construction cost is estimated to exceed $25,000,000 the Secretary shall provide a full and comprehensive report on the proposed demonstration project to the appropriate committees of the Congress and no funds may be expended for any agreement under the authority granted by this section prior to the expiration of sixty calendar days (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary's report on the proposed project is received by the Congress. Such reports shall contain an analysis of the extent to which the proposed demonstration satisfies the criteria specified in subsection (b) of this section.
 
-(Pub. L. 93–577, §8, Dec. 31, 1974, 88 Stat. 1886; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
+(Pub. L. 93–577, §8, Dec. 31, 1974, 88 Stat. 1886; Pub. L. 109–58, title X, §1009(b)(6), Aug. 8, 2005, 119 Stat. 935.)
+
+#### Amendments
+
+2005—Subsecs. (a), (b), (c)(2). Pub. L. 109–58, §1009(b)(6)(A), substituted “Secretary” for “Administrator” in introductory provisions of subsecs. (a) and (b) and in par. (2) of subsec. (c).
+
+Subsec. (d)(1). Pub. L. 109–58, §1009(b)(6)(B)(i), substituted “Administrator of the Energy Research and Development Administration” for “Administrator” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 109–58, §1009(b)(6)(B)(ii), substituted “Secretary” for “Administrator”.
+
+Subsec. (f). Pub. L. 109–58, §1009(b)(6)(C), substituted “Secretary” for “Administrator” in two places and “Secretary's” for “Administrator's”.
 
 #### Transfer of Functions
 
-“Secretary” and “Secretary's”, meaning Secretary of Energy, substituted for “Administrator” and “Administrator's”, respectively, meaning Administrator of Energy Research and Development Administration, in subsecs. (a), (b), (c)(2), (d)(1), (3), and (f) and “Secretary” substituted for “Energy Research and Development Administration” in subsec. (d)(1) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+The Energy Research and Development Administration, referred to in subsec. (d)(1), was terminated and all of its functions and the functions of its Administrator were transferred (with certain exceptions) to the Secretary of Energy. See sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
 
 #### Report to Congress on Environmental, Monitoring, Assessment, and Control Efforts Required for Demonstration Projects; Submission to Congress by December 3, 1977
 

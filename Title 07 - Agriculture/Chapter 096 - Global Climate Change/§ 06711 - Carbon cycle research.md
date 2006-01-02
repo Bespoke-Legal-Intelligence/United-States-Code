@@ -30,7 +30,7 @@ The land grant universities referred to in subsection (a) of this section are th
 
 Land grant universities described in subsection (b) of this section shall use funds made available under this section—
 
-&emsp;(1) to conduct research to improve the scientific basis of using land management practices to increase soil carbon sequestration, including research on the use of new technologies to increase carbon cycle effectiveness, such as biotechnology and nantechnology;
+&emsp;(1) to conduct research to improve the scientific basis of using land management practices to increase soil carbon sequestration, including research on the use of new technologies to increase carbon cycle effectiveness, such as biotechnology and nanotechnology;
 
 &emsp;(2) to enter into partnerships to identify, develop, and evaluate agricultural best practices, including partnerships between—
 

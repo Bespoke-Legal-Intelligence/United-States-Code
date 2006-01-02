@@ -34,7 +34,7 @@ A conservator shall be subject to any rules, regulations, and orders issued from
 
 #### (1) In general
 
-&emsp;Not later than 45 days after appointment pursuant to section 4616, 4617, or 4619 of this title, or 45 days after receipt of actual notice of an action or proceeding that is pending at the time of appointment, a conservator may request that any judicial action or proceeding to which the conservator or the enterprise is or may become a party be stayed for a period not exceeding 45 days after the request. Upon petition, the court shall grant such stay as to all parties.
+&emsp;Not later than 45 days after appointment pursuant to section 4616, 4617, or 4619 of this title, or 45 days after receipt of actual notice of an action or proceeding that is pending atthe time of appointment, a conservator may request that any judicial action or proceeding to which the conservator or the enterprise is or may become a party be stayed for a period not exceeding 45 days after the request. Upon petition, the court shall grant such stay as to all parties.
 
 #### (2) Federal agency as conservator
 
@@ -50,7 +50,7 @@ A conservator and professional employees (other than Federal employees) appointe
 
 #### (h) Expenses
 
-All expenses of a conservatorship pursuant to this section (including compensation pursuant to subsection (f) of this section) shall be paid by the enterprise under conservatorship and shallbe secured by a lien on the enterprise, which shall have priority over any other lien.
+All expenses of a conservatorship pursuant to this section (including compensation pursuant to subsection (f) of this section) shall be paid by the enterprise under conservatorship and shall be secured by a lien on the enterprise, which shall have priority over any other lien.
 
 #### (i) Conflicts of interest and financial disclosure
 

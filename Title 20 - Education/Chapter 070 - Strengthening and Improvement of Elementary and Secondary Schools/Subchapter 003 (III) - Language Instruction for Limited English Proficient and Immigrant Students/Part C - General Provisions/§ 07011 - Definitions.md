@@ -84,7 +84,7 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;&emsp;(A) does not participate in a program under subpart 1 of part A of this subchapter for a fiscal year; or
 
-&emsp;&emsp;(B) submits a plan (or any amendment to a plan) that the Secretary, after reasonablenotice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
+&emsp;&emsp;(B) submits a plan (or any amendment to a plan) that the Secretary, after reasonable notice and opportunity for a hearing, determines does not satisfy the requirements of such subpart.
 
 #### (14) State
 

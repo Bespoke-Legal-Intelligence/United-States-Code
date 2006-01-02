@@ -14,3 +14,7 @@ The purposes of this chapter are—
 
 (Pub. L. 95–617, title V, §502, Nov. 9, 1978, 92 Stat. 3157.)
 
+#### Definitions
+
+The definition of “State” in section 2602 of Title 16, Conservation, applies to this section.
+

@@ -88,7 +88,7 @@ Persons Eligible to Receive Foreign Post Differential. (a) In order that an empl
 
 (1) Persons recruited or transferred from the United States.
 
-(2) Persons employed locally but (a) who were originally recruited from the United States and have been in substantially continuous employment by other Federal agencies, United States firms, interests, or organizations, international organizations in which the United States Government participates, or foreign governments, and whose conditions of employment provide for their return transportation to the United States, or (b) who were at the time of employment temporarilyabsent from the United States for purposes of travel or formal study and maintained residence in the United States during such temporary absence. When used in a geographical sense in section 105(b) hereof, “United States” includes the areas included within the definition of non-foreign areas as set forth in section 201 hereof.
+(2) Persons employed locally but (a) who were originally recruited from the United States and have been in substantially continuous employment by other Federal agencies, United States firms, interests, or organizations, international organizations in which the United States Government participates, or foreign governments, and whose conditions of employment provide for their return transportation to the United States, or (b) who were at the time of employment temporarily absent from the United States for purposes of travel or formal study and maintained residence in the United States during such temporary absence. When used in a geographical sense in section 105(b) hereof, “United States” includes the areas included within the definition of non-foreign areas as set forth in section 201 hereof.
 
 (3) Persons who are not normally residents of the area concerned and who are discharged from the military service of the United States in such area to accept employment therein with an agency of the Federal Government.
 
@@ -134,7 +134,7 @@ Basis for Non-Foreign Area Post Differential. The Office of Personnel Management
 
 Sec. 204.
 
-Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order that an employee be eligible to receive a non-foreign area post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the non-foreign area post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
+Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order that an employeebe eligible to receive a non-foreign area post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the non-foreign area post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
 
 (b) Subject to the provisions of section 204(a) hereof, the classes of persons eligible to receive the non-foreign area post differentials fixed pursuant to section 202 hereof shall include:
 

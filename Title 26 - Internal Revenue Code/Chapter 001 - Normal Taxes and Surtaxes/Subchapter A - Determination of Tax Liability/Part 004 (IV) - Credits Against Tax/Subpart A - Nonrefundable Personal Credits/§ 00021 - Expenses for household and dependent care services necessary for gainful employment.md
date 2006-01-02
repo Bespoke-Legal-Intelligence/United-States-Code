@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1)), there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
+&emsp;In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the applicable percentage of the employment-related expenses (as defined in subsection (b)(2)) paid by such individual during the taxable year.
 
 #### (2) Applicable percentage defined
 
@@ -18,11 +18,11 @@ For purposes of this section—
 
 &emsp;The term “qualifying individual” means—
 
-&emsp;&emsp;(A) a dependent of the taxpayer who is under the age of 13 and with respect to whom the taxpayer is entitled to a deduction under section 151(c),
+&emsp;&emsp;(A) a dependent of the taxpayer (as defined in section 152(a)(1)) who has not attained age 13,
 
-&emsp;&emsp;(B) a dependent of the taxpayer who is physically or mentally incapable of caring for himself, or
+&emsp;&emsp;(B) a dependent of the taxpayer (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B)) who is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year, or
 
-&emsp;&emsp;(C) the spouse of the taxpayer, if he is physically or mentally incapable of caring for himself.
+&emsp;&emsp;(C) the spouse of the taxpayer, if the spouse is physically or mentally incapable of caring for himself or herself and who has the same principal place of abode as the taxpayer for more than one-half of such taxable year.
 
 #### (2) Employment-related expenses
 
@@ -94,9 +94,9 @@ The amount of the employment-related expenses incurred during any taxable year w
 
 For purposes of this section—
 
-#### (1) Maintaining household
+#### (1) Place of abode
 
-&emsp;An individual shall be treated as maintaining a household for any period only if over half the cost of maintaining the household for such period is furnished by such individual (or, if such individual is married during such period, is furnished by such individual and his spouse).
+&emsp;An individual shall not be treated as having the same principal place of abode of the taxpayer if at any time during the taxable year of the taxpayer the relationship between the individual and the taxpayer is in violation of local law.
 
 #### (2) Married couples must file joint return
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) an individual who is married and who files a separate return—
 
-&emsp;&emsp;&emsp;(i) maintains as his home a household which constitutes for more than one-halfof the taxable year the principal place of abode of a qualifying individual, and
+&emsp;&emsp;&emsp;(i) maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a qualifying individual, and
 
 &emsp;&emsp;&emsp;(ii) furnishes over half of the cost of maintaining such household during the taxable year, and
 
@@ -124,11 +124,11 @@ For purposes of this section—
 
 &emsp;If—
 
-&emsp;&emsp;(A) paragraph (2) or (4) of section 152(e) applies to any child with respect to any calendar year, and
+&emsp;&emsp;(A) section 152(e) applies to any child with respect to any calendar year, and
 
 &emsp;&emsp;(B) such child is under the age of 13 or is physically or mentally incapable of caring for himself,
 
-> &emsp;in the case of any taxable year beginning in such calendar year, such child shall be treated as a qualifying individual described in subparagraph (A) or (B) of subsection (b)(1) (whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1)), and shall not be treated as a qualifying individual with respect to the noncustodial parent.
+> &emsp;in the case of any taxable year beginning in such calendar year, such child shall be treated as a qualifying individual described in subparagraph (A) or (B) of subsection (b)(1) (whichever is appropriate) with respect to the custodial parent (as defined in section 152(e)(3)(A)), and shall not be treated as a qualifying individual with respect to the noncustodial parent.
 
 #### (6) Payments to related individuals
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) with respect to whom, for the taxable year, a deduction under section 151(c) (relating to deduction for personal exemptions for dependents) is allowable either to the taxpayer or his spouse, or
 
-&emsp;&emsp;(B) who is a child of the taxpayer (within the meaning of section 151(c)(3)) who has not attained the age of 19 at the close of the taxable year.
+&emsp;&emsp;(B) who is a child of the taxpayer (within the meaning of section 152(f)(1)) who has not attained the age of 19 at the close of the taxable year.
 
 > &emsp;For purposes of this paragraph, the term “taxable year” means the taxable year of the taxpayer in which the service is performed.
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57.)
+(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49; Pub. L. 107–147, title IV, §418(b), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title II, §§203, 207(2), (3), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §404(b), Dec. 21, 2005, 119 Stat. 2634.)
 
 #### Amendment of Section
 
@@ -177,6 +177,24 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 A prior section 21 was renumbered section 15 of this title.
 
 #### Amendments
+
+2005—Subsec. (b)(1)(B). Pub. L. 109–135 inserted “(as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B))” after “dependent of the taxpayer”.
+
+2004—Subsec. (a)(1). Pub. L. 108–311, §203(a), substituted “In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual” for “In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1))”.
+
+Subsec. (b)(1). Pub. L. 108–311, §203(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualifying individual’ means—
+
+&emsp;“(A) a dependent of the taxpayer who is under the age of 13 and with respect to whom the taxpayer is entitled to a deduction under section 151(c),
+
+&emsp;“(B) a dependent of the taxpayer who is physically or mentally incapable of caring for himself, or
+
+&emsp;“(C) the spouse of the taxpayer, if he is physically or mentally incapable of caring for himself.”
+
+Subsec. (e)(1). Pub. L. 108–311, §203(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “An individual shall be treated as maintaining a household for any period only if over half the cost of maintaining the household for such period is furnished by such individual (or, if such individual is married during such period, is furnished by such individual and his spouse).”
+
+Subsec. (e)(5). Pub. L. 108–311, §207(2), struck out “paragraph (2) or (4) of” before “section 152(e)” in subpar. (A) and substituted “as defined in section 152(e)(3)(A)” for “within the meaning of section 152(e)(1)” in concluding provisions.
+
+Subsec. (e)(6)(B). Pub. L. 108–311, §207(3), substituted “section 152(f)(1)” for “section 151(c)(3)”.
 
 2002—Subsec. (d)(2)(A). Pub. L. 107–147, §418(b)(1), substituted “$250” for “$200”.
 
@@ -258,6 +276,14 @@ Subsec. (e)(2)(B). Pub. L. 97–34, §124(b)(2)(B), substituted “$400” for �
 
 1978—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–135, title IV, §404(d), Dec. 21, 2005, 119 Stat. 2634, provided that: “The amendments made by this section \[amending this section and sections 152 and 223 of this title\] shall take effect as if included in the provisions of the Working Families Tax Relief Act of 2004 \[Pub. L. 108–311\] to which they relate.”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title IV, §418(c), Mar. 9, 2002, 116 Stat. 58, provided that: “The amendments made by this section \[amending this section and sections 23 and 137 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
@@ -304,7 +330,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 423(c)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
-Section 475(a) of Pub. L. 98–369 provided that: “The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
+Section 475(a) of Pub. L. 98–369 provided that: “The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended thissection and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
 
 #### Effective Date of 1983 Amendment
 
@@ -329,8 +355,4 @@ Section applicable to taxable years beginning after Dec. 31, 1975, see section 5
 #### Program To Increase Public Awareness
 
 Pub. L. 101–508, title XI, §11114, Nov. 5, 1990, 104 Stat. 1388–414, provided that: “Not later than the first calendar year following the date of the enactment of this subtitle \[Nov. 5, 1990\], the Secretary of the Treasury, or the Secretary's delegate, shall establish a taxpayer awareness program to inform the taxpaying public of the availability of the credit for dependent care allowed under section 21 of the Internal Revenue Code of 1986 and the earned income credit and child health insurance under section 32 of such Code. Such public awareness program shall be designed to assure that individuals who may be eligible are informed of the availability of such credit and filing procedures. The Secretary shall use appropriate means of communication to carry out the provisions of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 23, 35, 129, 213, 6213 of this title; title 7 section 2015.
 

@@ -12,7 +12,7 @@ An extension of 3 months for the filing of the return of income taxes imposed by
 
 &emsp;&emsp;<b>For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §234(b)(2)(B), Sept. 3, 1982, 96 Stat. 503; Pub. L. 107–134, title I, §112(d)(2), Jan. 23, 2002, 115 Stat. 2435.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90Stat. 1834; Pub. L. 97–248, title III, §234(b)(2)(B), Sept. 3, 1982, 96 Stat. 503; Pub. L. 107–134, title I, §112(d)(2), Jan. 23, 2002, 115 Stat. 2435.)
 
 #### Amendments
 

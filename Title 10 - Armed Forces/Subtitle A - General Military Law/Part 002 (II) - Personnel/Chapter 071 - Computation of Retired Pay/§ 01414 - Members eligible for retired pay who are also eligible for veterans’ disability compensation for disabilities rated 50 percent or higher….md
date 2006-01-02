@@ -6,7 +6,7 @@ Payment of Both Retired Pay and Compensation.—
 
 &emsp;(1)
 
-In general.—Subject to subsection (b), a member or former member of the uniformed services who is entitled for any month to retired pay and who is also entitled for that month to veterans’ disability compensation for a qualifying service-connected disability (hereinafter in this section referred to as a “qualified retiree”) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38. During the period beginning on January 1, 2004, and ending on December 31, 2013, payment of retired pay to such a qualified retiree is subject to subsection (c).
+In general.—Subject to subsection (b), a member or former member of the uniformed services who is entitled for any month to retired pay and who is also entitled for that month to veterans’ disability compensation for a qualifying service-connected disability (hereinafter in this section referred to as a “qualified retiree”) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38. During the period beginning on January 1, 2004, and ending on December 31, 2013, payment of retired pay to such a qualified retiree is subject to subsection (c), except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009.
 
 &emsp;(2)
 
@@ -28,7 +28,7 @@ Disability retirees with less than 20 years of service.—Subsection (a) does no
 
 (c)
 
-Phase-in of Full Concurrent Receipt.—During the period beginning on January 1, 2004, and ending on December 31, 2013, retired pay payable to a qualified retiree shall be determined as follows:
+Phase-in of Full Concurrent Receipt.—During the period beginning on January 1, 2004, and ending on December 31, 2013, retired pay payable to a qualified retiree that pursuant to the second sentence of subsection (a)(1) is subject to this subsection shall be determined as follows:
 
 &emsp;(1)
 
@@ -76,7 +76,7 @@ Calendar year 2008.—For a month during 2008, the amount of retired pay payable
 
 &emsp;&emsp;(A) the amount determined under paragraph (4) for that qualified retiree; and
 
-&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (4) for that qualified retiree.
+&emsp;&emsp;(B) 40 percent of the difference between (i) the current baseline offset, and (ii) theamount determined under paragraph (4) for that qualified retiree.
 
 &emsp;(6)
 
@@ -170,9 +170,15 @@ In general.—The term “current baseline offset” for any qualified retiree m
 
 Applicable retired pay.—In subparagraph (A), the term “applicable retired pay” for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member's service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511.)
+(Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163 inserted “, and in the case of a qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on September 30, 2009” before period at end.
+
+2004—Subsec. (a)(1). Pub. L. 108–375, §642(a), inserted before period at end “, except that in the case of a qualified retiree receiving veterans’ disability compensation for a disability rated as 100 percent, payment of retired pay to such veteran is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004”.
+
+Subsec. (c). Pub. L. 108–375, §642(b), inserted “that pursuant to the second sentence of subsection (a)(1) is subject to this subsection” after “a qualified retiree” in introductory provisions.
 
 2003—Pub. L. 108–136 amended section generally. Prior to amendment, section related to members eligible for retired pay who had service-connected disabilities: payment of retired pay and veterans’ disability compensation; and contingent effectiveness based on enactment of offsetting legislation.
 
@@ -183,8 +189,4 @@ Pub. L. 108–136, div. A, title VI, §641(e), Nov. 24, 2003, 117 Stat. 1516, pr
 #### Prohibition of Retroactive Benefits
 
 Pub. L. 107–107, div. A, title VI, §641(d), Dec. 28, 2001, 115 Stat. 1150, provided that: “If the provisions of subsection (a) of section 1414 of title 10, United States Code, becomes \[sic\] effective in accordance with subsection (f) of that section, no benefit may be paid to any person by reason of those provisions for any period before the effective date specified in subsection (e) of that section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1413a, 1463, 1465, 1466 of this title.
 

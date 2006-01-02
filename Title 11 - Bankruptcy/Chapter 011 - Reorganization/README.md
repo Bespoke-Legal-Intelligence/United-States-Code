@@ -18,6 +18,8 @@
 | [1112\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001112%20-%20Conversion%20or%20dismissal.md) | Conversion or dismissal. |
 | [1113\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001113%20-%20Rejection%20of%20collective%20bargaining%20agreements.md) | Rejection of collective bargaining agreements. |
 | [1114\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001114%20-%20Payment%20of%20insurance%20benefits%20to%20retired%20employees.md) | Payment of insurance benefits to retired employees. |
+| [1115\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001115%20-%20Property%20of%20the%20estate.md) | Property of the estate. |
+| [1116\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001116%20-%20Duties%20of%20trustee%20or%20debtor%20in%20possession%20in%20small%20business%20cases.md) | Duties of trustee or debtor in possession in small business cases. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -119,7 +121,7 @@ Perhaps the best example of the contrast between chapter XI and chapter X \[chap
 
 There are a number of other corporations with publicly held debt which have successfully reorganized under chapter XI \[chapter 11 of former title 11\]. Among these are National Mortgage Fund (NMF), which filed a chapter XI petition in the northern district of Ohio on June 30, 1976. Prior to commencement of the chapter XI proceeding, NMF filed a proxy statement with the Securities and Exchange Commission and solicited acceptances to a proposed plan of arrangement. The NMF plan was subsequently confirmed on December 14, 1976. The Securities and Exchange Commission did not file a motion under section 328 of the Bankruptcy Act \[section 728 of former title 11\] to transfer the case to chapter X \[chapter 10 of former title 11\] and a transfer motion which was filed by private parties was denied by the court.
 
-While there are other examples of large publicly held companies which have successfully reorganized in chapter XI \[chapter 11 of former title 11\], including Esgrow, Inc. (C.D.Cal. 73–02510), Sherwood Diversified Services Inc. (S.D.N.Y. 73–B–213), and United Merchants and Manufacturers, Inc. (S.D.N.Y. 77–B–1513), the numerous successful chapter XI cases demonstrate two points:first, the complicated and time-consuming provisions of chapter X \[chapter 10 of former title 11\] are not always necessary for the successful reorganization of a company with publicly held debt, and second, the more flexible provisions in chapter XI permit a debtor to obtain relief under the Bankruptcy Act \[former title 11\] in significantly less time than is required to confirm a plan of reorganization under chapter X of the Bankruptcy Act.
+While there are other examples of large publicly held companies which have successfully reorganized in chapter XI \[chapter 11 of former title 11\], including Esgrow, Inc. (C.D.Cal. 73–02510), Sherwood Diversified Services Inc. (S.D.N.Y. 73–B–213), and United Merchants and Manufacturers, Inc. (S.D.N.Y. 77–B–1513), the numerous successful chapter XI cases demonstrate two points: first, the complicated and time-consuming provisions of chapter X \[chapter 10 of former title 11\] are not always necessary for the successful reorganization of a company with publicly held debt, and second, the more flexible provisions in chapter XI permit a debtor to obtain relief under the Bankruptcy Act \[former title 11\] in significantly less time than is required to confirm a plan of reorganization under chapter X of the Bankruptcy Act.
 
 One cannot overemphasize the advantages of speed and simplicity to both creditors and debtors. Chapter XI \[chapter 11 of former title 11\] allows a debtor to negotiate a plan outside of court and, having reached a settlement with a majority in number and amount of each class of creditors, permits the debtor to bind all unsecured creditors to the terms of the arrangement. From the perspective of creditors, early confirmation of a plan of arrangement: first, generally reduces administrative expenses which have priority over the claims of unsecured creditors; second, permits creditors to receive prompt distributions on their claims with respect to which interest does not accrue after the filing date; and third, increases the ultimate recovery on creditor claims by minimizing the adverse effect on the business which often accompanies efforts to operate an enterprise under the protection of the Bankruptcy Act \[former title 11\].
 
@@ -132,6 +134,8 @@ In summary, it has been the experience of the great majority of those who have t
 Having discussed the general reasons why chapter 11 of the House amendment is sorely needed, a brief discussion of the differences between the House bill, Senate amendment, and the House amendment, is in order. Since chapter 11 of the House amendment rejects the concept of separate treatment for a public company, sections 1101(3), 1104(a), 1125(f), 1128, and 1130(a)(7) of the Senate amendment have been deleted.
 
 #### Amendments
+
+2005—Pub. L. 109–8, title III, §321(a)(2), title IV, §436(b), Apr. 20, 2005, 119 Stat. 95, 113, added items 1115 and 1116.
 
 1988—Pub. L. 100–334, §2(c), June 16, 1988, 102 Stat. 613, added item 1114.
 

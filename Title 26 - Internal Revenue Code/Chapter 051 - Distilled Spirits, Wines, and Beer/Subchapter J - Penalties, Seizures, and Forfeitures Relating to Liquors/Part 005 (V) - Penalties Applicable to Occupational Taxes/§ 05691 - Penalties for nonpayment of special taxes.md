@@ -10,6 +10,10 @@ For the purposes of this chapter, the sale, or offer for sale, of distilled spir
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1413; amended Pub. L. 96–39, title VIII, §807(a)(60), July 26, 1979, 93 Stat. 290; Pub. L. 98–369, div. A, title IV, §451(b)(3), July 18, 1984, 98 Stat. 819; Pub. L. 100–203, title X, §10512(a)(1)(B)(i), (ii), Dec. 22, 1987, 101 Stat. 1330–447, 1330–448.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–59, title XI, §11125(b)(19)(A), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed.</i>
+
 #### Prior Provisions
 
 A prior section 5691, act Aug. 16, 1954, ch. 736, 68A Stat. 702, consisted of provisions similar to those comprising subsec. (a) of this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -39,8 +43,4 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 #### Effective Date
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5125, 5148 of this title.
 

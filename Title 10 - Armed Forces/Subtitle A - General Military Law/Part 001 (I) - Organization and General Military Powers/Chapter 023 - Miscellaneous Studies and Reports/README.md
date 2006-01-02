@@ -11,10 +11,13 @@
 | [486\.](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md) | Quadrennial report on emerging operational concepts. |
 | [487\.](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md) | Unit operations tempo and personnel tempo: annual report. |
 | [488\.](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md) | Management of electromagnetic spectrum: biennial strategic plan. |
+| [489\.](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md) | Annual report on Department of Defense operation and financial support for military museums. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title X, §1033(b), Oct. 28, 2004, 118 Stat. 2048, added item 489.
 
 2003—Pub. L. 108–136, div. A, title X, §1054(b), Nov. 24, 2003, 117 Stat. 1615, added item 488.
 
@@ -48,3 +51,4 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 - [&sect; 00486 - Quadrennial report on emerging operational concepts](%C2%A7%2000486%20-%20Quadrennial%20report%20on%20emerging%20operational%20concepts.md)
 - [&sect; 00487 - Unit operations tempo and personnel tempo annual report](%C2%A7%2000487%20-%20Unit%20operations%20tempo%20and%20personnel%20tempo%20annual%20report.md)
 - [&sect; 00488 - Management of electromagnetic spectrum biennial strategic plan](%C2%A7%2000488%20-%20Management%20of%20electromagnetic%20spectrum%20biennial%20strategic%20plan.md)
+- [&sect; 00489 - Annual report on Department of Defense operation and financial support for military museums](%C2%A7%2000489%20-%20Annual%20report%20on%20Department%20of%20Defense%20operation%20and%20financial%20support%20for%20military%20museums.md)

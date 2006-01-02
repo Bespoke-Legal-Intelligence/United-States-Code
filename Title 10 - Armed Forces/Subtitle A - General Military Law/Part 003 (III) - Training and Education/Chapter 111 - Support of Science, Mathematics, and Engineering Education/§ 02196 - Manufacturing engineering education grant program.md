@@ -46,7 +46,7 @@ Components of Program.—The program of education for which such a grant is made
 
 &emsp;(1) Multidisciplinary instruction that encompasses the total manufacturing engineering enterprise and that may include—
 
-&emsp;&emsp;(A) manufacturing engineering education and training through classroom activities,laboratory activities, thesis projects, individual or team projects, and visits to industrial facilities, consortia, or centers of excellence in the United States and foreign countries;
+&emsp;&emsp;(A) manufacturing engineering education and training through classroom activities, laboratory activities, thesis projects, individual or team projects, and visits to industrial facilities, consortia, or centers of excellence in the United States and foreign countries;
 
 &emsp;&emsp;(B) faculty development programs;
 
@@ -105,8 +105,4 @@ A prior section 2196, added Pub. L. 101–510, div. A, title II, §247(a)(1), No
 #### Implementation of Grant Program; Priority in Funding
 
 Section 825(b) of Pub. L. 102–190 provided that: “Within one year after the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under section 2196 of title 10, United States Code (as added by subsection (a)), to institutions of higher education throughout the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2197 of this title.
 

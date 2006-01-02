@@ -10,6 +10,8 @@
 
 > is transportation for an official purpose, when approved in writing by the head of the Federal agency.
 
+(3) For purposes of paragraph (1), the transportation of an individual between such individual's place of employment and a mass transit facility pursuant to subsection (g) is transportation for an official purpose.
+
 (b) A passenger carrier may be used to transport between residence and place of employment the following officers and employees of Federal agencies:
 
 &emsp;(1)(A) the President and the Vice President;
@@ -54,7 +56,27 @@
 
 (f) Each Federal agency shall maintain logs or other records necessary to establish the official purpose for Government transportation provided between an individual's residence and such individual's place of employment pursuant to this section.
 
-(g) As used in this section—
+(g)(1) If and to the extent that the head of a Federal agency, in his or her sole discretion, deems it appropriate, a passenger carrier may be used to transport an officer or employee of a Federal agency between the officer's or employee's place of employment and a mass transit facility (whether or not publicly owned) in accordance with succeeding provisions of this subsection.
+
+(2) Notwithstanding section 1343, a Federal agency that provides transportation services under this subsection (including by passenger carrier) may absorb the costs of such services using any funds available to such agency, whether by appropriation or otherwise.
+
+(3) In carrying out this subsection, a Federal agency, to the maximum extent practicable and consistent with sound budget policy, should—
+
+&emsp;(A) use alternative fuel vehicles for the provision of transportation services;
+
+&emsp;(B) to the extent consistent with the purposes of this subsection, provide transportation services in a manner that does not result in additional gross income for Federal income tax purposes; and
+
+&emsp;(C) coordinate with other Federal agencies to share, and otherwise avoid duplication of, transportation services provided under this subsection.
+
+(4) For purposes of any determination under chapter 81 of title 5 or chapter 171 of title 28, an individual shall not be considered to be in the“performance of duty” or “acting within the scope of his or her office or employment” by virtue of the fact that such individual is receiving transportation services under this subsection. Nor shall any time during which an individual uses such services be considered when calculating the hours of work or employment for that individual for purposes of title 5 of the United States Code, including chapter 55 of that title.
+
+(5)(A) The Administrator of General Services, after consultation with the appropriate agencies, shall prescribe any regulations necessary to carry out this subsection.
+
+(B) Transportation services under this subsection shall be subject neither to the last sentence of subsection (d)(3) nor to any regulations under the last sentence of subsection (e)(1).
+
+(6) In this subsection, the term “passenger carrier” means a passenger motor vehicle or similar means of transportation that is owned, leased, or provided pursuant to contract by the United States Government.
+
+(h) As used in this section—
 
 &emsp;(1) the term “passenger carrier” means a passenger motor vehicle, aircraft, boat, ship, or other similar means of transportation that is owned or leased by the United States Government; and
 
@@ -82,9 +104,9 @@
 
 > &emsp;except that such term does not include the government of the District of Columbia.
 
-(h) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
+(i) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26;Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, §3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713.)
 
 Historical and Revision Notes
 
@@ -118,13 +140,17 @@ Section 8(a)(1) of the Central Intelligence Agency Act of 1949, referred to in s
 
 Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was redesignated subsec. (b)(3)(B) by Pub. L. 100–202. See 1987 Amendment note below.
 
-Section 3502 of title 44, referred to in subsec. (g)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
+Section 3502 of title 44, referred to in subsec. (h)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
 
 #### Codification
 
 Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+
+2005—Subsec. (a)(3). Pub. L. 109–59, §3049(b)(2), added par. (3).
+
+Subsecs. (g) to (i). Pub. L. 109–59, §3049(b)(1), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 2004—Subsec. (b)(6). Pub. L. 108–447 inserted “Director of the Bureau of Alcohol, Tobacco, Firearms and Explosives” after “Federal Bureau of Investigation,”.
 
@@ -170,7 +196,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight ofHouse of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 #### Effective Date of 2004 Amendment
 
@@ -183,6 +209,10 @@ Section 4(f)(2) of Pub. L. 103–272 provided that the amendment made by that se
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Coordination
+
+Pub. L. 109–59, title III, §3049(b)(3), Aug. 10, 2005, 119 Stat. 1713, provided that: “The authority to provide transportation services under section 1344(g) of title 31, United States Code (as amended by paragraph (1)) shall be in addition to any authority otherwise available to the agency involved.”
 
 #### Use of Government Vehicles
 

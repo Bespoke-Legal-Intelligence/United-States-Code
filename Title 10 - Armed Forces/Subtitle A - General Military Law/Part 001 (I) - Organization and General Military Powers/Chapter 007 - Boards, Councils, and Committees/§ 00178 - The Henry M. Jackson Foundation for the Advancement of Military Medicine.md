@@ -68,7 +68,3 @@ Section 1 of Pub. L. 98–132 provided: “That (a) the Foundation for the Advan
 
 “(b) The Council of Directors referred to in subsection (c) of section 178 of such title shall take such action as is necessary under the Corporations and Associations Articles of the State of Maryland to amend the corporate name of the Foundation for the Advancement of Military Medicine established under such section to reflect the designation made by the first sentence of subsection (a).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2113 of this title.
-

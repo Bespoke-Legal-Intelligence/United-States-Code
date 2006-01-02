@@ -20,7 +20,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (4) Proposed rule procedures
 
-&emsp;The provisions of paragraphs (1) through (3) of section 78s(b) of this title shall govern the proposed rules of the Board, as fully as if the Board were a “registered securities association” for purposes of that section 78s(b), except that, for purposes of this paragraph—
+&emsp;The provisions of paragraphs (1) through (3) of section 78s(b) of this title shall govern theproposed rules of the Board, as fully as if the Board were a “registered securities association” for purposes of that section 78s(b), except that, for purposes of this paragraph—
 
 &emsp;&emsp;(A) the phrase “consistent with the requirements of this chapter and the rules and regulations thereunder applicable to such organization” in section 78s(b)(2) of this title shall be deemed to read “consistent with the requirements of title I of the Sarbanes-Oxley Act of 2002, and the rules and regulations issued thereunder applicable to such organization, or as necessary or appropriate in the public interest or for the protection of investors”; and
 

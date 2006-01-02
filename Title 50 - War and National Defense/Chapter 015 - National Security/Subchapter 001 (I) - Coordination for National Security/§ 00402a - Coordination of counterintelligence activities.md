@@ -72,7 +72,7 @@ The membership of the National Counterintelligence Policy Board shall consist of
 
 (B) A department or agency may not conduct a polygraph examination, interrogate, or otherwise take any action that is likely to alert an employee covered by a notice under subparagraph (A) of an investigation described in that subparagraph without prior coordination and consultation with the Federal Bureau of Investigation.
 
-(5) Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1), (2), or (3), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
+(5) Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1), (2), or (3), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notifythe Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
 
 (6) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
 
@@ -130,6 +130,8 @@ Subsec. (c)(6) to (8). Pub. L. 106–567, §605(a)(2), redesignated pars. (4) to
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 2003 Amendment
@@ -138,7 +140,7 @@ Amendment by Pub. L. 108–177 effective Dec. 31, 2003, see section 361(n) of Pu
 
 #### Annual Reports on Intelligence Activities of the People's Republic of China
 
-Pub. L. 105–107, title III, §308, Nov. 20, 1997, 111 Stat. 2253, as amended by Pub. L. 107–306, title VIII, §811(b)(5)(D), Nov. 27, 2002, 116 Stat. 2424, related to annual reports to Congress by the Director of Central Intelligence and the Director of the Federal Bureau of Investigation on intelligence activities of the People's Republic of China directed against or affecting the interests of the United States, prior to repeal by Pub. L. 108–177, title III, §361(f), Dec. 13, 2003, 117 Stat. 2625.
+Pub. L. 105–107, title III, §308, Nov. 20, 1997, 111 Stat. 2253, as amended by Pub. L. 107–306, title VIII,§811(b)(5)(D), Nov. 27, 2002, 116 Stat. 2424, related to annual reports to Congress by the Director of Central Intelligence and the Director of the Federal Bureau of Investigation on intelligence activities of the People's Republic of China directed against or affecting the interests of the United States, prior to repeal by Pub. L. 108–177, title III, §361(f), Dec. 13, 2003, 117 Stat. 2625.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

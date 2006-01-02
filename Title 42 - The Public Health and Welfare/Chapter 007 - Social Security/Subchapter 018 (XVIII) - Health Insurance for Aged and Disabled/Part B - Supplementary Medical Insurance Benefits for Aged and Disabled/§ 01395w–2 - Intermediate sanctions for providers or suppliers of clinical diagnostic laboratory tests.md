@@ -1,6 +1,6 @@
 ### §1395w–2. Intermediate sanctions for providers or suppliers of clinical diagnostic laboratory tests
 
-(a) If the Secretary determines that any provider or clinical laboratory approved for participation under this subchapter no longer substantially meets the conditions of participation or for coverage specified under this subchapter with respect to the provision of clinical diagnostic laboratory tests under this part, the Secretary may (for a period not to exceed one year) impose intermediate sanctions developed pursuant to subsection (b) of this section, in lieu of terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory.
+(a) If the Secretary determines that any provider or clinical laboratory approved for participation under this subchapter no longer substantially meets the conditions of participation or for coverage specified under this subchapter with respect to the provision of clinical diagnostic laboratory tests under this part, the Secretary may (for a period not to exceed one year)impose intermediate sanctions developed pursuant to subsection (b) of this section, in lieu of terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory.
 
 (b)(1) The Secretary shall develop and implement—
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority to award
 
-(1) Subject to the requirements of this section, section 253j of this title, and other applicable law, the head of an executive agency may enter into a task order contract (as defined in section 253k of this title) for procurement of advisory and assistance services.
+(1) Subject to the requirements of this section, section 253j of this title, and other applicablelaw, the head of an executive agency may enter into a task order contract (as defined in section 253k of this title) for procurement of advisory and assistance services.
 
 (2) The head of an executive agency may enter into a task order contract for advisory and assistance services only under the authority of this section.
 

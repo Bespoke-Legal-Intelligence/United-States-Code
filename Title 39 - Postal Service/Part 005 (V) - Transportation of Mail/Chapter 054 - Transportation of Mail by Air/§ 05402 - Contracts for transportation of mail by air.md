@@ -70,7 +70,7 @@
 
 &emsp;(23) the term “135 passenger carrier” means a passenger carrier that provides scheduled service under part 135.
 
-(b) The Postal Service may contract with any certificated air carrier, without advertising for bids, in such manner and under such terms and conditions as it deems appropriate, for the transportation of mail by aircraft between any of the points in foreign air transportation between which the carrier is authorized by theSecretary to engage in the transportation of mail. Such contracts shall be for the transportation of at least 750 pounds of mail per flight, and no more than 5 percent, based on weight, of the international mail transported under any such contract shall consist of letter mail. Any such contract shall be filed with the Secretary not later than 90 days before its effective date. Unless the Secretary shall determine otherwise (under criteria prescribed by section 40101(a) of title 49) not later than 10 days prior to the effective date of the contract, such contract shall become effective.
+(b) The Postal Service may contract with any certificated air carrier, without advertising for bids, in such manner and under such terms and conditions as it deems appropriate, for the transportation of mail by aircraft between any of the points in foreign air transportation between which the carrier is authorized by the Secretary to engage in the transportation of mail. Such contracts shall be for the transportation of at least 750 pounds of mail per flight, and no more than 5 percent, based on weight, of the international mail transported under any such contract shall consist of letter mail. Any such contract shall be filed with the Secretary not later than 90 days before its effective date. Unless the Secretary shall determine otherwise (under criteria prescribed by section 40101(a) of title 49) not later than 10 days prior to the effective date of the contract, such contract shall become effective.
 
 (c) When the Postal Service deems that the transportation of mail by aircraft is required between points in foreign air transportation between which the Secretary has not authorized an air carrier or combination of air carriers to engage in the transportation of mail, it may contract with any air carrier in such manner and under such terms and conditions as it may deem appropriate for the transportation of any class or classes of mail. The transportation of mail under contracts entered into under this subsection is not, except for sections 40109(a) and (c)–(h) and 42112 of title 49, air transportation within the provisions of part A of subtitle VII of title 49. The Postal Service shall cancel such contract, in whole or in respect to certain points as the certificate shall require, upon the issuance by the Secretary of an authorization under chapters 411 and 413 of title 49 to any air carrier to engage in the transportation of mail by aircraft between any of the points named in the contract, and the inauguration of scheduled service by such carrier.
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(II) the hub being bypassed was not served by a mainline carrier on January 1, 2000.
 
-> The tender of nonpriority bypass mail under subparagraph (G) shall be on an equitable basis between the qualified carriers that provide the direct service on the city pair route and the qualified carriers that provide service between the hub point being bypassed and the destination point, based on the volume of nonpriority bypass mail on both routes.
+> The tender of nonpriority bypass mail under subparagraph (G) shall be on an equitable basisbetween the qualified carriers that provide the direct service on the city pair route and the qualified carriers that provide service between the hub point being bypassed and the destination point, based on the volume of nonpriority bypass mail on both routes.
 
 (3)(A) The Postal Service shall determine the bypass mail bush points and hub points described under paragraph (2)(B) after consultation with the State of Alaska and the affected local communities and air carriers.
 
@@ -278,7 +278,7 @@
 
 (C) The Secretary shall establish a bush rate based on data collected under subsection (k) from 135 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on bush city pair routes in the State of Alaska where no 121 bush passenger carrier is tendered nonpriority bypass mail.
 
-(D) The Secretary shall establish a bush rate based on data collected under subsection (k) from bush passenger carriers operating aircraft on city pair routes where only water landingsare available. Such rates shall be paid to all bush passenger carriers operating on the city pair routes in the State of Alaska where only water landings are available.
+(D) The Secretary shall establish a bush rate based on data collected under subsection (k) from bush passenger carriers operating aircraft on city pair routes where only water landings are available. Such rates shall be paid to all bush passenger carriers operating on the city pair routes in the State of Alaska where only water landings are available.
 
 (7) The percentage rate in paragraph (1) shall be 75 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
@@ -322,7 +322,7 @@
 
 &emsp;(iv) has invested at least $500,000 in a physical hanger facility prior to January 1, 2002 in such a hub city.
 
-(C) For purposes of subparagraph (B), a carrier may designate only one hub city as its main hub and once such designation is transmitted to the Postal Service it may not be changed. Such selection and transmission must be transmitted tothe Postal Service within 6 months of the date of enactment of the Rural Service Improvement Act of 2002. A carrier attempting to receive tender of nonpriority bypass mail under this subsection shall not be eligible for such tender after the carrier becomes qualified for tender of nonpriority bypass mail under subsection (h) or (i) on any route. The purchase of another carrier's hanger facility after such date of enactment shall not be considered sufficient to meet the requirement of subparagraph (B)(iv).
+(C) For purposes of subparagraph (B), a carrier may designate only one hub city as its main hub and once such designation is transmitted to the Postal Service it may not be changed. Such selection and transmission must be transmitted to the Postal Service within 6 months of the date of enactment of the Rural Service Improvement Act of 2002. A carrier attempting to receive tender of nonpriority bypass mail under this subsection shall not be eligible for such tender after the carrier becomes qualified for tender of nonpriority bypass mail under subsection (h) or (i) on any route. The purchase of another carrier's hanger facility after such date of enactment shall not be considered sufficient to meet the requirement of subparagraph (B)(iv).
 
 (k)(1) At least once every 2 years, in conjunction with annual updates, the Secretary shall review the need for a bush mail rate investigation. The Secretary shall use show cause procedures to speedily and more accurately determine the cost of providing bush mail service. In determining such rates, the Secretary shall not take into account the cost of passenger insurance rates or premiums paid by the passenger carriers or other costs associated with passenger service.
 
@@ -368,7 +368,7 @@
 
 (3) To ensure adequate competition among passenger carriers on a mainline route in the State of Alaska the Postal Service or the Secretary may waive the requirements of subsection (g)(1)(D), (g)(2)(E), (g)(4), or (g)(5), or any provision of subsection (h) if a 121 bush passenger carrier seeks tender of nonpriority bypass mail on a mainline route in the State of Alaska not served by a 121 mainline passenger carrier and the 121 bush passenger carrier provides substantial passenger service on the route. Waivers provided for under this paragraph shall be granted only in extreme cases of lack of competition and only to extent that are absolutely necessary to meet the minimum needs of the community. Waivers granted under this subsection shall cease to be valid once a qualified mainline passenger carrier begins providing service and seeks tender of nonpriority bypass mail in accordance with this section on the city pair route. The receipt of waivers and subsequent operation of service on a city pair route under this subsection shall not be counted towards meeting the requirements of any part of this section for any other city pair route.
 
-(4) In granting waivers for or denying tender to carriers under this subsection, the PostalService or the Secretary shall consider in the following order of importance—
+(4) In granting waivers for or denying tender to carriers under this subsection, the Postal Service or the Secretary shall consider in the following order of importance—
 
 &emsp;(A) the passenger needs of the destination to be served (including amount and level);
 
@@ -436,7 +436,7 @@ Subsec. (d)(2)(A). Pub. L. 107–171, §10501(1), inserted “, honeybees,” a
 
 Subsec. (d)(2)(C). Pub. L. 107–171, §10501(2), struck out subpar. (C) which read as follows: “The authority of the Postal Service under subparagraph (B) shall apply during the period beginning on November 12, 2001, and ending June 30, 2002.”
 
-Pub. L. 107–206, §3002(c)(1)(A), (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and ‘foreign air transportation’ have the meanings given such terms in section 40102(a) of title 49.”
+Pub. L. 107–206, §3002(c)(1)(A), (B), redesignated subsec. (d) as (e) and struck out former subsec. (e) which read as follows: “For purposes of this section, the terms ‘air carrier’, ‘interstate air transportation’, and‘foreign air transportation’ have the meanings given such terms in section 40102(a) of title 49.”
 
 Subsec. (f). Pub. L. 107–206, §3002(e)(1), substituted “Secretary” for “Secretary of Transportation”, “subsections (b), (c), and (d)” for “subsections (a), (b), and (c)”, and “subsection (e)” for “subsection (d)”.
 
@@ -544,7 +544,7 @@ Pub. L. 107–206, title III, §3002(b), Aug. 2, 2002, 116 Stat. 910, provided t
 
 &emsp;&emsp;“(B) food, medicine, freight, and everyday necessities and passenger service for these rural and isolated communities would cost several times the current level.
 
-&emsp;“(11) Attempts by Congress to support passenger and nonmail freight service in Alaska using the Intra-Alaska Bypass Mail system have yielded somepositive results, but some carriers have been manipulating the system by carrying few, if any, passengers and little nonmail freight while earning most of their revenues from the carriage of nonpriority bypass mail.
+&emsp;“(11) Attempts by Congress to support passenger and nonmail freight service in Alaska using the Intra-Alaska Bypass Mail system have yielded some positive results, but some carriers have been manipulating the system by carrying few, if any, passengers and little nonmail freight while earning most of their revenues from the carriage of nonpriority bypass mail.
 
 &emsp;“(12) As long as the Federal Government continues to own large tracts of land within the State of Alaska which impede access to isolated communities, it is in the best interest of the Postal Service, the residents of Alaska and the United States—
 

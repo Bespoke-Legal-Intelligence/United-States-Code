@@ -64,7 +64,7 @@ Pub. L. 99–190, §101(i) \[title V, §529\], Dec. 19, 1985, 99 Stat. 1291, 130
 
 Pub. L. 98–473, title I, §101(1) \[title V, §530\], Oct. 12, 1984, 98 Stat. 1884, 1900; repealed by Pub. L. 101–167, title V, §527(e)(2), Nov. 21, 1989, 103 Stat. 1224.
 
-Pub. L. 98–151, §101(b)(1), Nov. 14, 1983, 97 Stat. 967; repealed by Pub. L. 101–167, title V, §527(e)(1), Nov. 21,1989, 103 Stat. 1224, and Pub. L. 101–246, title IV, §406(e)(1), Feb. 16, 1990, 104 Stat. 67.
+Pub. L. 98–151, §101(b)(1), Nov. 14, 1983, 97 Stat. 967; repealed by Pub. L. 101–167, title V, §527(e)(1), Nov. 21, 1989, 103 Stat. 1224, and Pub. L. 101–246, title IV, §406(e)(1), Feb. 16, 1990, 104 Stat. 67.
 
 #### Requirement for Disclosure of Foreign Aid in Report of Secretary of State
 

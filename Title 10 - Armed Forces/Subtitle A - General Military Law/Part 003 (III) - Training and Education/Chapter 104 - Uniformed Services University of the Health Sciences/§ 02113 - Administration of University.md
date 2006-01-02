@@ -116,9 +116,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Transfer of Functions
 
-Section 8091 of Pub. L. 101–511 provided that: “Notwithstanding any other provision of law, all authorityof the Board of Regents of the Uniformed Services University of the Health Sciences is hereby transferred to the Secretary of Defense, and the Board hereafter shall be an advisory board to the Secretary of Defense.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2114 of this title.
+Section 8091 of Pub. L. 101–511 provided that: “Notwithstanding any other provision of law, all authority of the Board of Regents of the Uniformed Services University of the Health Sciences is hereby transferred to the Secretary of Defense, and the Board hereafter shall be an advisory board to the Secretary of Defense.”
 

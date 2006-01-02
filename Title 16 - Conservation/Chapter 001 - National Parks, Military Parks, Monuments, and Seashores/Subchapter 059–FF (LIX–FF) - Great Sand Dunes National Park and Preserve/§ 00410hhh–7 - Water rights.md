@@ -52,7 +52,7 @@ To the extent that a water right has been established or acquired by the United 
 
 #### (1) In general
 
-&emsp;(A) If, and to the extent that, the Luis Maria Baca Grant No. 4 is acquired, all water rightsand water resources associated with the Luis Maria Baca Grant No. 4 shall be restricted for use only within—
+&emsp;(A) If, and to the extent that, the Luis Maria Baca Grant No. 4 is acquired, all water rights and water resources associated with the Luis Maria Baca Grant No. 4 shall be restricted for use only within—
 
 &emsp;&emsp;(i) the national park;
 

@@ -32,7 +32,3 @@ Federal Laws and Regulations.—For purposes of this section, Federal laws and r
 
 (Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 438.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 436, 437 of this title.
-

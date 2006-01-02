@@ -42,7 +42,3 @@ Amendment by Pub. L. 94–568 applicable to taxable years beginning after Oct. 2
 
 Section applicable to taxable years beginning after Dec. 31, 1970, see section 121(g) of Pub. L. 91–172, set out as an Effective Date of 1969 Amendment note under section 511 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 404 of this title.
-

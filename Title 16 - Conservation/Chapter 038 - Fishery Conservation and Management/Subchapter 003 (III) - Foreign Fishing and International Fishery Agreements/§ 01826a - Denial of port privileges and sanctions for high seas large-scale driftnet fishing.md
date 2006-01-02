@@ -114,7 +114,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)), has specifically prohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation.
 
-&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
+&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has takenconcrete steps to implement such moratorium through international negotiations.
 
 &emsp;“(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation.
 

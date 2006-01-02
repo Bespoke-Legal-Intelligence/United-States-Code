@@ -38,7 +38,3 @@ Amendment by section 329(b) of Pub. L. 97–248 applicable to offenses committed
 
 Amendment by Pub. L. 90–364 applicable with respect to taxable years beginning after Dec. 31, 1967, except as provided by section 104 of Pub. L. 90–364, see section 103(f) of Pub. L. 90–364, set out as a note under section 243 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5684, 6038, 6038A, 6046A, 6686, 6698 of this title; title 7 section 12a; title 18 section 3237.
-

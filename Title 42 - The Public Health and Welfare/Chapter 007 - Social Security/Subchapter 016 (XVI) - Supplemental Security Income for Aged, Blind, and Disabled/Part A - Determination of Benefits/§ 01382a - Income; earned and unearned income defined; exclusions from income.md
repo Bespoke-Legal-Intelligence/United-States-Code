@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) remuneration received for services performed in a sheltered workshop or work activities center; and
 
-&emsp;&emsp;(D) any royalty earned by an individual in connection with any publication of the work of the individual, and that portion of any honorarium which is received for services rendered; and
+&emsp;&emsp;(D) any royalty earned by an individual in connection with any publication of the workof the individual, and that portion of any honorarium which is received for services rendered; and
 
 &emsp;(2) unearned income means all other income, including—
 
@@ -72,7 +72,7 @@
 
 &emsp;(15) the value of any commercial transportation ticket, for travel by such individual (or spouse) among the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands, which is received as a gift by such individual (or such spouse) and is not converted to cash;
 
-&emsp;(16) interest accrued on the value of an agreement entered into by such individual (or such spouse) representing the purchase of a burial space excluded under section 1382b(a)(2)(B) of this title, and left to accumulate;
+&emsp;(16) interest accrued on the value of an agreement entered into by such individual (or such spouse) representing the purchase of a burial space excluded under section1382b(a)(2)(B) of this title, and left to accumulate;
 
 &emsp;(17) any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime;
 
@@ -184,7 +184,7 @@ Subsec. (b)(11) to (13). Pub. L. 99–514, §1883(d)(3)(C), provided for technic
 
 1984—Subsec. (b)(2)(B). Pub. L. 98–369, §2663(g)(3), realigned margin of subpar. (B).
 
-Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973, if such payments are made by the State of which the individual receiving such payments is a resident, and if eligibility of any individual for such payments isnot based on need and is based solely on attainment of age 65 and duration of residence in such State by such individual;”.
+Pub. L. 98–369, §2616(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “monthly (or other periodic) payments received by any individual, under a program established prior to July 1, 1973, if such payments are made by the State of which the individual receiving such payments is a resident, and if eligibility of any individual for such payments is not based on need and is based solely on attainment of age 65 and duration of residence in such State by such individual;”.
 
 Subsec. (b)(9). Pub. L. 98–369, §2663(g)(4), inserted a comma after “child”.
 
@@ -288,7 +288,7 @@ Amendment by section 2663(g)(3), (4) of Pub. L. 98–369 effective July 18, 1984
 
 #### Effective and Termination Dates of 1983 Amendments
 
-Section 545(c) of Pub. L. 97–424 and section 404(c) of Pub. L. 98–21, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by section 2639(c), (d) of Pub. L. 98–369, effective with respect to months beginning after Sept. 30, 1984.
+Section 545(c) of Pub. L. 97–424 and section 404(c) of Pub. L. 98–21, which had provided for the effective and termination dates covering the enactment and subsequent amendment of subsec. (b)(13) of this section by section 545(a) of Pub. L. 97–424 and section 404(a) of Pub. L. 98–21, were repealed by section 2639(c), (d) of Pub. L.98–369, effective with respect to months beginning after Sept. 30, 1984.
 
 #### Effective Date of 1981 Amendment
 

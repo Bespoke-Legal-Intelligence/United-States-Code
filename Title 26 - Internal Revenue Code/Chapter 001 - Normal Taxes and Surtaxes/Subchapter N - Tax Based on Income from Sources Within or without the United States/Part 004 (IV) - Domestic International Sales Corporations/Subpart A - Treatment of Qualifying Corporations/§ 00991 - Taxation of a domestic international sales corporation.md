@@ -110,7 +110,7 @@ Treatment of transfers to fsc.—In the case of any export trade corporation whi
 
 &emsp;“(B) transfers before January 1, 1986, any portion of its property to a FSC in a transaction described in section 351 or 368(a)(1),
 
-> then, subject to such rules as the Secretary of the Treasury or his delegate may prescribe based on principles similar to the principles of section 505(a) and (b)of the Revenue Act of 1971 \[Pub. L. 92–178, set out as a note under section 970 of this title\], no income, gain, or loss shall be recognized on such transfer or on the distribution of any stock of the FSC received (or treated as received) in connection with such transfer.
+> then, subject to such rules as the Secretary of the Treasury or his delegate may prescribe based on principles similar to the principles of section 505(a) and (b) of the Revenue Act of 1971 \[Pub. L. 92–178, set out as a note under section 970 of this title\], no income, gain, or loss shall be recognized on such transfer or on the distribution of any stock of the FSC received (or treated as received) in connection with such transfer.
 
 “(3)
 

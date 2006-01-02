@@ -86,7 +86,7 @@
 
 #### (2) Exception
 
-&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to theamount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
+&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to the amount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
 
 &emsp;&emsp;(A) the subsidiary or affiliate—
 

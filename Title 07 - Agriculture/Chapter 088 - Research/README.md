@@ -45,7 +45,7 @@
 | (b) | Development and adoption of integrated crop management practices. |
 | (c) | Development and adoption of integrated resource management practices. |
 | (d) | Authorization of appropriations. |
-| [5822\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20B%20-%20Integrated%20Management%20Systems/%C2%A7%2005822%20-%20Integrated%20Farm%20Management%20Program%20Option.md) | Integrated farm management program option. |
+| [5822\.](Subchapter%20001%20%28I%29%20-%20Sustainable%20Agriculture%20Research%20and%20Education/Part%20B%20-%20Integrated%20Management%20Systems/%C2%A7%2005822%20-%20Integrated%20Farm%20Management%20Program%20Option.md) | Integrated Farm Management Program Option. |
 | (a) | Establishment. |
 | (b) | Definitions. |
 | (c) | Eligibility. |

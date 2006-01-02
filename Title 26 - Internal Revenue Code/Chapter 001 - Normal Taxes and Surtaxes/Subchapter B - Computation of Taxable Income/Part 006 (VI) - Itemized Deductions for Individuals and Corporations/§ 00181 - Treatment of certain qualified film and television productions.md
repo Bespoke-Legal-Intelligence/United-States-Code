@@ -1,0 +1,102 @@
+### §181. Treatment of certain qualified film and television productions
+
+#### (a) Election to treat costs as expenses
+
+#### (1) In general
+
+&emsp;A taxpayer may elect to treat the cost of any qualified film or television production as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction.
+
+#### (2) Dollar limitation
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (1) shall not apply to any qualified film or television production the aggregate cost of which exceeds $15,000,000.
+
+#### (B) Higher dollar limitation for productions in certain areas
+
+&emsp;&emsp;In the case of any qualified film or television production the aggregate cost of which is significantly incurred in an area eligible for designation as—
+
+&emsp;&emsp;&emsp;(i) a low-income community under section 45D, or
+
+&emsp;&emsp;&emsp;(ii) a distressed county or isolated area of distress by the Delta Regional Authority established under section 2009aa–1 of title 7, United States Code,
+
+> &emsp;&emsp;subparagraph (A) shall be applied by substituting “$20,000,000” for “$15,000,000”.
+
+#### (b) No other deduction or amortization deduction allowable
+
+With respect to the basis of any qualified film or television production to which an election is made under subsection (a), no other depreciation or amortization deduction shall be allowable.
+
+#### (c) Election
+
+#### (1) In general
+
+&emsp;An election under this section with respect to any qualified film or television production shall be made in such manner as prescribed by the Secretary and by the due date (including extensions) for filing the taxpayer's return of tax under this chapter for the taxable year in which costs of the production are first incurred.
+
+#### (2) Revocation of election
+
+&emsp;Any election made under this section may not be revoked without the consent of the Secretary.
+
+#### (d) Qualified film or television production
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term “qualified film or television production” means any production described in paragraph (2) if 75 percent of the total compensation of the production is qualified compensation.
+
+#### (2) Production
+
+#### (A) In general
+
+&emsp;&emsp;A production is described in this paragraph if such production is property described in section 168(f)(3).
+
+#### (B) Special rules for television series
+
+&emsp;&emsp;In the case of a television series—
+
+&emsp;&emsp;&emsp;(i) each episode of such series shall be treated as a separate production, and
+
+&emsp;&emsp;&emsp;(ii) only the first 44 episodes of such series shall be taken into account.
+
+#### (C) Exception
+
+&emsp;&emsp;A production is not described in this paragraph if records are required under section 2257 of title 18, United States Code, to be maintained with respect to any performer in such production.
+
+#### (3) Qualified compensation
+
+&emsp;For purposes of paragraph (1)—
+
+#### (A) In general
+
+&emsp;&emsp;The term “qualified compensation” means compensation for services performed in the United States by actors, directors, producers, and other relevant production personnel.
+
+#### (B) Participations and residuals excluded
+
+&emsp;&emsp;The term “compensation” does not include participations and residuals (as defined in section 167(g)(7)(B)).
+
+#### (e) Application of certain other rules
+
+For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply.
+
+#### (f) Termination
+
+This section shall not apply to qualified film and television productions commencing after December 31, 2008.
+
+(Added Pub. L. 108–357, title II, §244(a), Oct. 22, 2004, 118 Stat. 1445; amended Pub. L. 109–135, title IV, §403(e)(1), Dec. 21, 2005, 119 Stat. 2623.)
+
+#### Prior Provisions
+
+A prior section 181, Pub. L. 87–834, §2(c), Oct. 16, 1962, 76 Stat. 970, related to a deduction for unused investment credit, prior to repeal by Pub. L. 88–272, title II, §203(a)(3)(B), (4), Feb. 26, 1964, 78 Stat. 34, applicable in case of property placed in service after Dec. 31, 1963, with respect to taxable years ending after such date, and in case of property placed in service before Jan. 1, 1964, with respect to taxable years beginning after Dec. 31, 1963.
+
+#### Amendments
+
+2005—Subsec. (d)(2). Pub. L. 109–135 struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date
+
+Pub. L. 108–357, title II, §244(c), Oct. 22, 2004, 118 Stat. 1447, provided that: “The amendments made by this section \[enacting this section\] shall apply to qualified film and television productions (as defined in section 181(d)(1) of the Internal Revenue Code of 1986, as added by this section) commencing after the date of the enactment of this Act \[Oct. 22, 2004\].”
+

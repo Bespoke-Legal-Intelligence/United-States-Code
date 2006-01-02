@@ -72,31 +72,9 @@ Section 3044 of subtitle E (§§3041–3044) of title III of Pub. L. 100–647 p
 
 “(a)
 
-Effective Date.—The amendments made by this subtitle \[enacting this section and amending sections 1402 and 3121 of this title, section 71 of Title 25, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare\] shall apply to all periods beginning before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].
+Effective Date.—The amendments made by this subtitle \[enacting this section and amending sections 1402 and 3121 of this title, section 71 of Title 25, Indians, and sections 409 and 411 of Title 42, The Public Health and Welfare\] shall apply to all periods beginning before,on, or after the date of the enactment of this Act \[Nov. 10, 1988\].
 
 “(b)
 
 No Inference Created.—Nothing in the amendments made by this subtitle shall create any inference as to the existence or non-existence or scope of any exemption from tax for income derived from fishing rights secured as of March 17, 1988, by any treaty, law, or Executive Order.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1402, 3121 of this title; title 25 section 71; title 42 sections 409, 411.
-
-## Subtitle G—The Joint Committee on Taxation
-
-| Chapter |  | Sec.<sup>1</sup> |
-| :--- | ---: | ---: |
-| <b>91.</b> | <b>Organization and membership of the Joint Committee</b> | <b>8001</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
-| <b>92.</b> | <b>Powers and duties of the Joint Committee</b> | <b>8021</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendments
-
-1976—Pub. L. 94–455, title XIX, §1907(b)(1), Oct. 4, 1976, 90 Stat. 1836, struck out “Internal Revenue” in heading of subtitle G.
 

@@ -17,7 +17,7 @@
 | [3048\.](%C2%A7%2003048%20-%20Commitment%20to%20another%20district%3B%20removal%E2%80%94%28Rule%29.md) | Commitment to another district; removal—Rule. |
 | [3049\.](%C2%A7%2003049%20-%20Warrant%20for%20removal.md) | Warrant for removal. |
 | [3050\.](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%E2%80%99%20powers.md) | Bureau of Prisons employees’ powers. |
-| [3051\.](%C2%A7%2003051%20-%20Powers%20of%20Special%20Agents%201%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Powers of Special Agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives.<sup>2</sup> |
+| [3051\.](%C2%A7%2003051%20-%20Powers%20of%20Special%20Agents%201%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Powers of Special Agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives <sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,10 +42,15 @@
 | [3061\.](%C2%A7%2003061%20-%20Investigative%20powers%20of%20Postal%20Service%20personnel.md) | Investigative powers of Postal Service personnel. |
 | [3062\.](%C2%A7%2003062%20-%20General%20arrest%20authority%20for%20violation%20of%20release%20conditions.md) | General arrest authority for violation of release conditions. |
 | [3063\.](%C2%A7%2003063%20-%20Powers%20of%20Environmental%20Protection%20Agency.md) | Powers of Environmental Protection Agency. |
+| [3064\.](%C2%A7%2003064%20-%20Powers%20of%20Federal%20Motor%20Carrier%20Safety%20Administration.md) | Powers of Federal Motor Carrier Safety Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–162, title XI, §1172(a), Jan. 5, 2006, 119 Stat. 3123, added item 3051.
+
+2005—Pub. L. 109–59, title IV, §4143(c)(2), Aug. 10, 2005, 119 Stat. 1748, added item 3064.
 
 1996—Pub. L. 104–294, title VI, §605(n), Oct. 11, 1996, 110 Stat. 3510, added item 3059B.
 
@@ -73,7 +78,7 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
-<i><sup>2</sup></i><i> Editorially supplied. Section 3051 added by Pub. L. 107–296 without corresponding amendment of chapter analysis.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 <i><sup>3</sup></i><i> Section repealed by Pub. L. 107–273 without corresponding amendment of chapter analysis.</i>
 
@@ -105,3 +110,4 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 - [&sect; 03061 - Investigative powers of Postal Service personnel](%C2%A7%2003061%20-%20Investigative%20powers%20of%20Postal%20Service%20personnel.md)
 - [&sect; 03062 - General arrest authority for violation of release conditions](%C2%A7%2003062%20-%20General%20arrest%20authority%20for%20violation%20of%20release%20conditions.md)
 - [&sect; 03063 - Powers of Environmental Protection Agency](%C2%A7%2003063%20-%20Powers%20of%20Environmental%20Protection%20Agency.md)
+- [&sect; 03064 - Powers of Federal Motor Carrier Safety Administration](%C2%A7%2003064%20-%20Powers%20of%20Federal%20Motor%20Carrier%20Safety%20Administration.md)

@@ -24,7 +24,7 @@ For purposes of this subchapter—
 
 #### Short Title
 
-Section 1 of Pub. L. 100–89 provided that: “This Act \[enacting this subchapter and subchapter LXXVIII (§1300g et seq.) of this chapter and provisions set out below\] may be cited as the ‘Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act’.”
+Section 1 of Pub. L. 100–89 provided that: “This Act \[enacting this subchapter and subchapter LXXVIII\(§1300g et seq.) of this chapter and provisions set out below\] may be cited as the ‘Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act’.”
 
 #### Regulations
 

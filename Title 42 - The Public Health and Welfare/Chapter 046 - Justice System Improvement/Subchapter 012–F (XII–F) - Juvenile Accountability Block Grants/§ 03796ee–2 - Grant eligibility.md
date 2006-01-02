@@ -8,7 +8,7 @@ To be eligible to receive a grant under this subchapter, a State shall submit to
 
 &emsp;&emsp;(A) the activities proposed to be carried out with such grant; and
 
-&emsp;&emsp;(B) the criteria by which the State proposes to assess the effectiveness of such activities on achieving the purposes of this subchapter; and
+&emsp;&emsp;(B) the criteria by which the State proposes to assess the effectiveness of such activities on achieving the purposes of this subchapter, including the extent to which evidence-based approaches are utilized; and
 
 &emsp;(2) assurances that the State and any unit of local government to which the State provides funding under section 3796ee–3(b) of this title, has in effect (or shall have in effect, not later than 1 year after the date that the State submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the State submits such application) policies and programs, that provide for a system of graduated sanctions described in subsection (d) of this section.
 
@@ -22,7 +22,7 @@ To be eligible to receive a grant under this subchapter, a State shall submit to
 
 &emsp;&emsp;&emsp;(i) the activities proposed to be carried out with such subgrant; and
 
-&emsp;&emsp;&emsp;(ii) the criteria by which the unit proposes to assess the effectiveness of such activities on achieving the purposes of this subchapter; and
+&emsp;&emsp;&emsp;(ii) the criteria by which the unit proposes to assess the effectiveness of such activities on achieving the purposes of this subchapter, including the extent to which evidence-based approaches are utilized; and
 
 &emsp;&emsp;(B) such assurances as the State shall require, that, to the maximum extent applicable, the unit of local government has in effect (or shall have in effect, not later than 1 year after the date that the unit submits such application) laws, or has implemented (or shall implement, not later than 1 year after the date that the unit submits such application) policies and programs, that provide for a system of graduated sanctions described in subsection (d) of this section.
 
@@ -86,11 +86,15 @@ In this section:
 
 &emsp;The term “sanctions” means tangible, proportional consequences that hold the juvenile offender accountable for the offense committed. A sanction may include counseling, restitution, community service, a fine, supervised probation, or confinement.
 
-(Pub. L. 90–351, title I, §1802, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1861.)
+(Pub. L. 90–351, title I, §1802, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1861; amended Pub. L. 109–162, title XI, §1168, Jan. 5, 2006, 119 Stat. 3122.)
 
 #### Prior Provisions
 
 A prior section 3796ee–2, Pub. L. 90–351, title I, §1803, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1820, related to review of State applications, prior to the general amendment of this subchapter by Pub. L. 107–273.
 
 A prior section 1802 of Pub. L. 90–351 was classified to section 3796ee–1 of this title prior to the general amendment of this subchapter by Pub. L. 107–273.
+
+#### Amendments
+
+2006—Subsecs. (a)(1)(B), (b)(1)(A)(ii). Pub. L. 109–162 inserted “, including the extent to which evidence-based approaches are utilized” after “subchapter”.
 

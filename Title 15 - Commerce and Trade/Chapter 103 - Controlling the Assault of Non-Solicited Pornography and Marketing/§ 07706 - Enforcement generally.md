@@ -24,7 +24,7 @@ Compliance with this chapter shall be enforced—
 
 &emsp;(4) under the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.) by the Securities and Exchange Commission with respect to investment companies;
 
-&emsp;(5) under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) by the Securities and Exchange Commission with respect to investment advisers registered under that Act;
+&emsp;(5) under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) by the Securities andExchange Commission with respect to investment advisers registered under that Act;
 
 &emsp;(6) under State insurance law in the case of any person engaged in providing insurance, by the applicable State insurance authority of the State in which the person is domiciled, subject to section 104 of the Gramm-Bliley-Leach Act (15 U.S.C. 6701), except that in any State in which the State insurance authority elects not to exercise this power, the enforcement authority pursuant to this chapter shall be exercised by the Commission in accordance with subsection (a);
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (1) Civil action
 
-&emsp;In any case in which the attorney general of a State, or an official or agency of a State, hasreason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
+&emsp;In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin further violation of section 7704 of this title by the defendant; or
 
@@ -162,7 +162,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message that is transmitted or attempted to be transmitted over the facilities of the provider of Internet access service, or that is transmitted or attempted to be transmitted to an electronic mail address obtained from the provider of Internet access service in violation of section 7704(b)(1)(A)(i) of this title, treated as a separate violation) by—
+&emsp;&emsp;For purposes of paragraph (1)(B)(ii), the amount determined under this paragraph is the amount calculated by multiplying the number of violations (with each separately addressed unlawful message that is transmitted or attempted to be transmitted over the facilities of the provider of Internet access service, or that is transmitted or attempted to be transmitted to an electronicmail address obtained from the provider of Internet access service in violation of section 7704(b)(1)(A)(i) of this title, treated as a separate violation) by—
 
 &emsp;&emsp;&emsp;(i) up to $100, in the case of a violation of section 7704(a)(1) of this title; or
 

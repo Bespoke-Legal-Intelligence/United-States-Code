@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(B) provide such enrollees access to necessary covered items and services 24 hours per day, every day of the year;
 
-&emsp;&emsp;(C) provide services to such enrollees through a comprehensive, multidisciplinary health and social services delivery system which integrates acute and long-term care services pursuant to regulations; and
+&emsp;&emsp;(C) provide services to such enrollees through a comprehensive, multidisciplinaryhealth and social services delivery system which integrates acute and long-term care services pursuant to regulations; and
 
 &emsp;&emsp;(D) specify the covered items and services that will not be provided directly by the entity, and to arrange for delivery of those items and services through contracts meeting the requirements of regulations.
 
@@ -172,7 +172,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that the PACE program may not disenroll a PACE program eligible individual except—
+&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that thePACE program may not disenroll a PACE program eligible individual except—
 
 &emsp;&emsp;&emsp;&emsp;(I) for nonpayment of premiums (if applicable) on a timely basis; or
 
@@ -194,7 +194,7 @@
 
 #### (2) Capitation amount
 
-&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE programeligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
+&emsp;The capitation amount to be applied under this subsection for a provider for a contract year shall be an amount specified in the PACE program agreement for the year. Such amount shall be based upon payment rates established for purposes of payment under section 1395w–23 of this title (or, for periods before January 1, 1999, for purposes of risk-sharing contracts under section 1395mm of this title) and shall be adjusted to take into account the comparative frailty of PACE enrollees and such other factors as the Secretary determines to be appropriate. Such amount under such an agreement shall be computed in a manner so that the total payment level for all PACE program eligible individuals enrolled under a program is less than the projected payment under this subchapter for a comparable population not enrolled under a PACE program.
 
 #### (e) PACE program agreement
 

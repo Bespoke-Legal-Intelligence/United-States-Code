@@ -72,7 +72,7 @@ Another prior section 2521 was renumbered section 2540 of this title and subsequ
 
 &emsp;“(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
 
-&emsp;“(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program.”
+&emsp;“(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the programby, each military department and each Defense Agency participating in the program.”
 
 Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted “establish” for “include” in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
@@ -114,7 +114,7 @@ Subsec. (e)(2)(C). Pub. L. 106–65, §216(e)(2), added subpar. (C).
 
 Subsec. (d)(2). Pub. L. 105–261, §213(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpars. (B) and (C).
 
-Subsec. (d)(3). Pub. L. 105–261, §213(c)(2), substituted “As a goal, at least” for “At least” and “should” for“shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
+Subsec. (d)(3). Pub. L. 105–261, §213(c)(2), substituted “As a goal, at least” for “At least” and “should” for “shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
 
 Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
 
@@ -141,6 +141,84 @@ Subsec. (d)(2)(C). Pub. L. 104–106, §276(a)(4)(A), added subpar. (C).
 Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 
 1994—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
+
+#### High-Performance Defense Manufacturing Technology Research and Development
+
+Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, provided that:
+
+#### “SEC. 241. PILOT PROGRAM FOR IDENTIFICATION AND TRANSITION OF ADVANCED MANUFACTURING PROCESSES AND TECHNOLOGIES.
+
+“(a)
+
+Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a pilot program under the authority of section 2521 of title 10, United States Code, to identify and transition advanced manufacturing processes and technologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
+
+“(b)
+
+Consideration of Defense Priorities.—In carrying out subsection (a), the Under Secretary shall take into consideration the defense priorities established in the most current Joint Warfighting Science and Technology plan, as required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 2501 note).
+
+“(c)
+
+Identification for Transition.—In identifying manufacturing processes and technologies for transition to the defense manufacturing base under the pilot program, the Under Secretary shall select the most promising transformational technologies and manufacturing processes, in consultation with the Director of Defense Research and Engineering, the Joint Defense Manufacturing Technology Panel, and other such entities as may be appropriate, including the Director of the Small Business Innovation Research Program.
+
+#### “SEC. 242. TRANSITION OF TRANSFORMATIONAL MANUFACTURING PROCESSES AND TECHNOLOGIES TO DEFENSE MANUFACTURING BASE.
+
+“(a)
+
+Prototypes and Test Beds.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall undertake the development of prototypes and test beds to validate the manufacturing processes and technologies selected for transition under the pilot program under section 241.
+
+“(b)
+
+Diffusion of Enhancements.—The Under Secretary shall seek the cooperation of industry in adopting such manufacturing processes and technologies through the following:
+
+&emsp;“(1) The Manufacturing Extension Partnership Program.
+
+&emsp;“(2) The identification of incentives for industry to incorporate and utilize such manufacturing processes and technologies.
+
+#### “SEC. 243. MANUFACTURING TECHNOLOGY STRATEGIES.
+
+“(a)
+
+In General.—The Under Secretary of Defense for Acquisition, Technology, and Logistics may—
+
+&emsp;“(1) identify an area of technology where the development of an industry-prepared roadmap for new manufacturing and technology processes applicable to defense manufacturing requirements would be beneficial to the Department of Defense; and
+
+&emsp;“(2) establish a task force, and act in cooperation, with the private sector to map the strategy for the development of manufacturing processes and technologies needed to support technology development in the area identified under paragraph (1).
+
+“(b)
+
+Commencement of Roadmapping.—The Under Secretary shall commence any roadmapping identified pursuant to subsection (a)(1) not later than January 2007.
+
+#### “SEC. 244. REPORT.
+
+“(a)
+
+In General.—Not later than December 31, 2007, the Under Secretary of the Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions undertaken by the Under Secretary under this subtitle during fiscal year 2006.
+
+“(b)
+
+Elements.—The report under subsection (a) shall include—
+
+&emsp;“(1) a comprehensive description of the actions undertaken under this subtitle during fiscal year 2006;
+
+&emsp;“(2) an assessment of effectiveness of such actions in enhancing research and development on manufacturing technologies and processes, and the implementation of such within the defense manufacturing base; and
+
+&emsp;“(3) such recommendations as the Under Secretary considers appropriate for additional actions to be undertaken in order to increase the effectiveness of the actions undertaken under this subtitle in enhancing manufacturing activities within the defense manufacturing base.
+
+#### “SEC. 245. DEFINITIONS.
+
+“In this subtitle:
+
+&emsp;“(1)
+
+Defense manufacturing base.—The term ‘defense manufacturing base’ includes any supplier of the Department of Defense, including a supplier of raw materials.
+
+&emsp;“(2)
+
+Manufacturing extension partnership program.—The term ‘Manufacturing Extension Partnership Program’ means the Manufacturing Extension Partnership Program of the Department of Commerce.
+
+&emsp;“(3)
+
+Small business innovation research program.—The term ‘Small Business Innovation Research Program’ has the meaning given that term in section 2500(11) of title 10, United States Code.”
 
 #### Technical Assistance Relating to Machine Tools
 

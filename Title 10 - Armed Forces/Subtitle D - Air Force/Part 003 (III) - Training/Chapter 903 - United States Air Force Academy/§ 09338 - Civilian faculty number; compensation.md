@@ -16,7 +16,3 @@
 
 1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5102.
-

@@ -8,7 +8,7 @@ To receive a grant under this subpart, an eligible entity shall submit to the Se
 
 An application submitted under subsection (a) of this section shall contain—
 
-&emsp;(1) a statement identifying the activities proposed to be undertaken with funds received under this subpart, including how the eligible entity will determine which charter schools will receive assistance, and how much and what types of assistance charter schools will receive;
+&emsp;(1) a statement identifying the activities proposed to be undertaken with funds receivedunder this subpart, including how the eligible entity will determine which charter schools will receive assistance, and how much and what types of assistance charter schools will receive;
 
 &emsp;(2) a description of the involvement of charter schools in the application's development and the design of the proposed activities;
 

@@ -28,7 +28,7 @@ Except as provided in subsection (f)(1)(B)(ii)—
 
 &emsp;An election under paragraph (1) shall be made by the trustee of such trust—
 
-&emsp;&emsp;(A) on or before the due date (including extensions) for filing the Settlement Trust'sreturn of tax for the first taxable year of such trust ending after the date of the enactment of this section, and
+&emsp;&emsp;(A) on or before the due date (including extensions) for filing the Settlement Trust's return of tax for the first taxable year of such trust ending after the date of the enactment of this section, and
 
 &emsp;&emsp;(B) by attaching to such return of tax a statement specifically providing for such election.
 
@@ -58,7 +58,7 @@ Amounts distributed by an electing Settlement Trust during any taxable year shal
 
 &emsp;(2) Second, as amounts excludable from gross income to the extent of the amount described in paragraph (1) for all taxable years for which an election is in effect under subsection (c) with respect to the trust, and not previously taken into account under paragraph (1).
 
-&emsp;(3) Third, as amounts distributed by the sponsoring Native Corporation with respect to its stock (within the meaning of section 301(a)) during such taxable year and taxable to the recipient beneficiary as amounts described in section 301(c)(1), to the extent of current or accumulated earnings and profits of the sponsoring Native Corporation as of the close of such taxable year after proper adjustment is made for all distributions made by the sponsoring Native Corporation during such taxable year.
+&emsp;(3) Third, as amounts distributed by the sponsoring Native Corporation with respect to its stock (within the meaning of section 301(a)) during such taxable year and taxable to the recipient beneficiary as amounts described in section 301(c)(1), to the extent of current or accumulated earnings and profits of the sponsoring Native Corporation as of the close of suchtaxable year after proper adjustment is made for all distributions made by the sponsoring Native Corporation during such taxable year.
 
 &emsp;(4) Fourth, as amounts distributed by the trust in excess of the distributable net income of such trust for such taxable year.
 
@@ -151,8 +151,4 @@ A prior section 646 was renumbered section 645 of this title.
 Pub. L. 107–16, title VI, §671(d), June 7, 2001, 115 Stat. 148, provided that: “The amendments made by this section \[enacting this section and section 6039H of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[June 7, 2001\] and to contributions made to electing Settlement Trusts for such year or any subsequent year.”
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6039H of this title.
 

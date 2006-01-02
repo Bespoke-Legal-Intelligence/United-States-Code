@@ -30,7 +30,7 @@ Only a major league baseball player has standing to sue under this section. For 
 
 &emsp;(3) a person who has been a party to a major league player's contract or who has played baseball at the major league level, and who claims he has been injured in his efforts to secure a subsequent major league player's contract by an alleged violation of the antitrust laws: <i>Provided however</i>, That for the purposes of this paragraph, the alleged antitrust violation shall not include any conduct, acts, practices, or agreements of persons in the business of organized professional baseball relating to or affecting employment to play baseball at the minor league level, including any organized professional baseball amateur or first-year player draft, or any reserve clause as applied to minor league players; or
 
-&emsp;(4) a person who was a party to a major league player's contract or who was playing baseball at the major league level at the conclusion of the last full championship season immediately preceding the expiration of the last collective bargaining agreement between persons in the business of organized professional major league baseball and the exclusive collective bargaining representative of major league baseball players.
+&emsp;(4) a person who was a party to a major league player's contract or who was playing baseball at the major league level at the conclusion of the last full championship season immediately preceding the expiration of thelast collective bargaining agreement between persons in the business of organized professional major league baseball and the exclusive collective bargaining representative of major league baseball players.
 
 #### (d) Conduct, acts, practices, or agreements subject to antitrust laws
 

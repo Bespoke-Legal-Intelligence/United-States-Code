@@ -2,7 +2,7 @@
 
 (a) Notwithstanding the end of the period for which it was made, an allotment, including one for the purchase of United States savings bonds, made by a member of a uniformed service before he was in a missing status may be continued for the period he is entitled to pay and allowances under section 552 of this title.
 
-(b) When there is no allotment in effect, or when it is insufficient for a purpose authorized by the Secretary concerned, he, or his designee, may authorize new allotments or increases inallotments that are warranted by the circumstances and payable for the period the member is entitled to pay and allowances under section 552 of this title.
+(b) When there is no allotment in effect, or when it is insufficient for a purpose authorized by the Secretary concerned, he, or his designee, may authorize new allotments or increases in allotments that are warranted by the circumstances and payable for the period the member is entitled to pay and allowances under section 552 of this title.
 
 (c) The total of all allotments from the pay and allowances of a member in a missing status may not be more than the amount of pay and allowances he is permitted to allot under regulations prescribed by the Secretary concerned.
 
@@ -94,7 +94,7 @@ In subsection (a), the words “a member of a uniformed service . . . in a mis
 
 In subsection (b), the words “Secretary concerned, he, or his designee,” are substituted for “head of the department concerned . . . head of the department concerned, or such subordinate as he may designate” to conform to the definition in 37 U.S.C. 101(5). The word “member” is substituted for “person” to conform to the definition in 37 U.S.C. 101(23).
 
-In subsection (c), the words “in effect” are omitted as unnecessary. The words “member in a missing status” are substituted for “absent person” to conform to the definition in revised section 551(2) of this chapter.
+In subsection (c), the words “in effect” are omitted as unnecessary. The words “member in a missing status”are substituted for “absent person” to conform to the definition in revised section 551(2) of this chapter.
 
 In subsection (d), the words “United States” are substituted for “Government” to conform to the style of title 37. The word “member” is substituted for “person” to conform to the definition in 37 U.S.C. 101(23).
 

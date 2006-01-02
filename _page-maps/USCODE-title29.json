@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title29",
- "package": "USCODE-2004-title29",
+ "package": "USCODE-2005-title29",
  "pieces": [
   {
    "id": "29_",
@@ -2681,7 +2681,7 @@
      8,
      [
       [
-       313,
+       269,
        "[Page 114]"
       ]
      ]
@@ -2691,7 +2691,7 @@
      46,
      [
       [
-       190,
+       93,
        "[Page 115]"
       ]
      ]
@@ -4120,12 +4120,18 @@
        "[Page 170]"
       ]
      ]
+    ],
+    [
+     "L",
+     78,
+     "[Page 171]",
+     true
     ]
    ],
    "path": "Chapter 015 - Occupational Safety and Health/§ 00670 - Training and employee education.md",
    "printed_pages": [
     169,
-    170
+    171
    ]
   },
   {
@@ -4133,20 +4139,10 @@
    "marks": [
     [
      "I",
-     4,
+     64,
      [
       [
-       95,
-       "[Page 171]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     68,
-     [
-      [
-       91,
+       97,
        "[Page 172]"
       ]
      ]
@@ -4154,7 +4150,7 @@
    ],
    "path": "Chapter 015 - Occupational Safety and Health/§ 00671 - National Institute for Occupational Safety and Health.md",
    "printed_pages": [
-    170,
+    171,
     172
    ]
   },
@@ -4162,16 +4158,24 @@
    "id": "29_671a",
    "marks": [
     [
-     "L",
-     58,
-     "[Page 173]",
-     true
+     "I",
+     54,
+     [
+      [
+       135,
+       "[Page 173]"
+      ]
+     ]
     ],
     [
-     "L",
-     124,
-     "[Page 174]",
-     true
+     "I",
+     122,
+     [
+      [
+       94,
+       "[Page 174]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Occupational Safety and Health/§ 00671a - Workers’ family protection.md",
@@ -4193,10 +4197,14 @@
    "id": "29_673",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 175]",
-     true
+     "I",
+     4,
+     [
+      [
+       556,
+       "[Page 175]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Occupational Safety and Health/§ 00673 - Statistics.md",
@@ -4222,7 +4230,7 @@
      2,
      [
       [
-       1814,
+       1389,
        "[Page 176]"
       ]
      ]
@@ -4266,37 +4274,37 @@
    "marks": [
     [
      "I",
-     72,
+     66,
      [
       [
-       61,
+       18,
        "[Page 177]"
       ]
      ]
     ],
     [
      "I",
-     210,
+     206,
      [
       [
-       40,
+       42,
        "[Page 178]"
       ]
      ]
     ],
     [
      "I",
-     306,
+     299,
      [
       [
-       29,
+       187,
        "[Page 179]"
       ]
      ]
     ],
     [
      "I",
-     470,
+     458,
      [
       [
        38,
@@ -4325,33 +4333,29 @@
    "marks": [
     [
      "L",
-     82,
+     74,
      "[Page 181]",
      true
     ],
     [
-     "I",
+     "L",
      138,
-     [
-      [
-       655,
-       "[Page 182]"
-      ]
-     ]
+     "[Page 182]",
+     true
     ],
     [
      "I",
-     188,
+     186,
      [
       [
-       99,
+       159,
        "[Page 183]"
       ]
      ]
     ],
     [
      "L",
-     230,
+     226,
      "[Page 184]",
      true
     ]
@@ -4366,10 +4370,14 @@
    "id": "29_702",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 185]",
-     true
+     "I",
+     20,
+     [
+      [
+       170,
+       "[Page 185]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/General Provisions/§ 00702 - Rehabilitation Services Administration.md",
@@ -4404,50 +4412,62 @@
      48,
      [
       [
-       437,
+       92,
        "[Page 186]"
       ]
      ]
     ],
     [
-     "L",
-     132,
-     "[Page 187]",
-     true
+     "I",
+     130,
+     [
+      [
+       100,
+       "[Page 187]"
+      ]
+     ]
     ],
     [
      "L",
-     218,
+     216,
      "[Page 188]",
      true
     ],
     [
-     "L",
-     314,
-     "[Page 189]",
-     true
+     "I",
+     312,
+     [
+      [
+       100,
+       "[Page 189]"
+      ]
+     ]
     ],
     [
      "I",
      382,
      [
       [
-       181,
+       98,
        "[Page 190]"
       ]
      ]
     ],
     [
      "L",
-     448,
+     446,
      "[Page 191]",
      true
     ],
     [
-     "L",
-     520,
-     "[Page 192]",
-     true
+     "I",
+     518,
+     [
+      [
+       657,
+       "[Page 192]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/General Provisions/§ 00705 - Definitions.md",
@@ -4460,10 +4480,14 @@
    "id": "29_706",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 193]",
-     true
+     "I",
+     14,
+     [
+      [
+       153,
+       "[Page 193]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 016 - Vocational Rehabilitation and Other Rehabilitation Services/General Provisions/§ 00706 - Allotment percentage.md",
@@ -7948,20 +7972,20 @@
      1317,
      [
       [
-       108,
+       335,
        "[Page 393]"
       ]
      ]
     ],
     [
      "L",
-     1417,
+     1415,
      "[Page 394]",
      true
     ],
     [
      "L",
-     1501,
+     1499,
      "[Page 395]",
      true
     ]
@@ -7980,16 +8004,20 @@
      4,
      [
       [
-       891,
+       704,
        "[Page 396]"
       ]
      ]
     ],
     [
-     "L",
-     80,
-     "[Page 397]",
-     true
+     "I",
+     76,
+     [
+      [
+       103,
+       "[Page 397]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 003 - Funding/§ 01083 - Variance from minimum funding standard.md",
@@ -8002,14 +8030,10 @@
    "id": "29_1084",
    "marks": [
     [
-     "I",
+     "L",
      34,
-     [
-      [
-       104,
-       "[Page 398]"
-      ]
-     ]
+     "[Page 398]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 003 - Funding/§ 01084 - Extension of amortization periods.md",
@@ -8032,7 +8056,7 @@
    "marks": [
     [
      "L",
-     26,
+     22,
      "[Page 399]",
      true
     ]
@@ -8598,7 +8622,7 @@
      16,
      [
       [
-       279,
+       138,
        "[Page 429]"
       ]
      ]
@@ -8623,20 +8647,20 @@
    "id": "29_1144",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 430]",
-     true
-    ],
-    [
      "I",
-     82,
+     26,
      [
       [
-       110,
-       "[Page 431]"
+       431,
+       "[Page 430]"
       ]
      ]
+    ],
+    [
+     "L",
+     78,
+     "[Page 431]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01144 - Other laws.md",
@@ -8649,14 +8673,10 @@
    "id": "29_1144a",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       90,
-       "[Page 432]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 432]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01144a - Clarification of church welfare plan status under State insurance law.md",
@@ -8678,14 +8698,10 @@
    "id": "29_1146",
    "marks": [
     [
-     "I",
+     "L",
      40,
-     [
-      [
-       189,
-       "[Page 433]"
-      ]
-     ]
+     "[Page 433]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01146 - Outreach to promote retirement income savings.md",
@@ -8702,16 +8718,20 @@
      36,
      [
       [
-       181,
+       92,
        "[Page 434]"
       ]
      ]
     ],
     [
-     "L",
-     124,
-     "[Page 435]",
-     true
+     "I",
+     122,
+     [
+      [
+       89,
+       "[Page 435]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 005 - Administration and Enforcement/§ 01147 - National Summit on Retirement Savings.md",
@@ -8746,7 +8766,7 @@
      4,
      [
       [
-       238,
+       92,
        "[Page 436]"
       ]
      ]
@@ -8766,7 +8786,7 @@
      34,
      [
       [
-       150,
+       103,
        "[Page 437]"
       ]
      ]
@@ -8776,7 +8796,7 @@
      92,
      [
       [
-       316,
+       204,
        "[Page 438]"
       ]
      ]
@@ -8786,7 +8806,7 @@
      162,
      [
       [
-       216,
+       106,
        "[Page 439]"
       ]
      ]
@@ -8821,7 +8841,7 @@
    "marks": [
     [
      "L",
-     16,
+     12,
      "[Page 440]",
      true
     ],
@@ -8830,7 +8850,7 @@
      98,
      [
       [
-       326,
+       106,
        "[Page 441]"
       ]
      ]
@@ -8846,14 +8866,10 @@
    "id": "29_1166",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       109,
-       "[Page 442]"
-      ]
-     ]
+     "L",
+     56,
+     "[Page 442]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 006 - Continuation Coverage and Additional Standards for Group Health Plans/§ 01166 - Notice requirements.md",
@@ -8870,7 +8886,7 @@
      50,
      [
       [
-       420,
+       205,
        "[Page 443]"
       ]
      ]
@@ -8895,47 +8911,39 @@
    "id": "29_1169",
    "marks": [
     [
-     "I",
+     "L",
      16,
-     [
-      [
-       193,
-       "[Page 444]"
-      ]
-     ]
+     "[Page 444]",
+     true
+    ],
+    [
+     "L",
+     78,
+     "[Page 445]",
+     true
     ],
     [
      "I",
-     80,
+     130,
      [
       [
-       139,
-       "[Page 445]"
+       276,
+       "[Page 446]"
       ]
      ]
     ],
     [
      "L",
-     132,
-     "[Page 446]",
-     true
-    ],
-    [
-     "I",
      202,
-     [
-      [
-       216,
-       "[Page 447]"
-      ]
-     ]
+     "[Page 447]",
+     true
     ],
     [
      "I",
      310,
      [
       [
-       420,
+       215,
        "[Page 448]"
       ]
      ]
@@ -8945,7 +8953,7 @@
      398,
      [
       [
-       260,
+       87,
        "[Page 449]"
       ]
      ]
@@ -8983,32 +8991,32 @@
      78,
      [
       [
-       277,
+       99,
        "[Page 450]"
       ]
      ]
     ],
     [
-     "I",
-     150,
-     [
-      [
-       93,
-       "[Page 451]"
-      ]
-     ]
+     "L",
+     148,
+     "[Page 451]",
+     true
     ],
     [
      "L",
-     222,
+     220,
      "[Page 452]",
      true
     ],
     [
-     "L",
-     318,
-     "[Page 453]",
-     true
+     "I",
+     316,
+     [
+      [
+       100,
+       "[Page 453]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart A - Requirements Relating to Portability, Access, and Renewability/§ 01181 - Increased portability through limitation on preexisting condition exclusions.md",
@@ -9049,19 +9057,23 @@
    "marks": [
     [
      "I",
-     12,
+     10,
      [
       [
-       97,
+       96,
        "[Page 454]"
       ]
      ]
     ],
     [
-     "L",
-     76,
-     "[Page 455]",
-     true
+     "I",
+     74,
+     [
+      [
+       111,
+       "[Page 455]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart B - Other Requirements/§ 01185 - Standards relating to benefits for mothers and newborns.md",
@@ -9074,14 +9086,10 @@
    "id": "29_1185a",
    "marks": [
     [
-     "I",
-     70,
-     [
-      [
-       107,
-       "[Page 456]"
-      ]
-     ]
+     "L",
+     68,
+     "[Page 456]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart B - Other Requirements/§ 01185a - Parity in application of certain limits to mental health benefits.md",
@@ -9095,7 +9103,7 @@
    "marks": [
     [
      "L",
-     26,
+     18,
      "[Page 457]",
      true
     ]
@@ -9120,10 +9128,10 @@
    "marks": [
     [
      "I",
-     46,
+     38,
      [
       [
-       140,
+       99,
        "[Page 458]"
       ]
      ]
@@ -9139,14 +9147,10 @@
    "id": "29_1191a",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       96,
-       "[Page 459]"
-      ]
-     ]
+     "L",
+     56,
+     "[Page 459]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart C - General Provisions/§ 01191a - Special rules relating to group health plans.md",
@@ -9159,10 +9163,14 @@
    "id": "29_1191b",
    "marks": [
     [
-     "L",
-     98,
-     "[Page 460]",
-     true
+     "I",
+     84,
+     [
+      [
+       186,
+       "[Page 460]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 001 (I) - Protection of Employee Benefit Rights/Subtitle B - Regulatory Provisions/Part 007 - Group Health Plan Requirements/Subpart C - General Provisions/§ 01191b - Definitions.md",
@@ -9203,7 +9211,7 @@
    "marks": [
     [
      "L",
-     24,
+     18,
      "[Page 461]",
      true
     ]
@@ -9222,35 +9230,30 @@
      4,
      [
       [
-       1470,
+       946,
        "[Page 462]"
       ]
      ]
+    ],
+    [
+     "L",
+     48,
+     "[Page 463]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 002 (II) - Jurisdiction, Administration, Enforcement; Joint Pension Task Force, Etc/Subtitle A - Jurisdiction, Administration, and Enforcement/§ 01202 - Procedures with respect to continued compliance with Internal Revenue requirements relating to participation, vesting, and funding….md",
    "printed_pages": [
     461,
-    462
+    463
    ]
   },
   {
    "id": "29_1203",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       137,
-       "[Page 463]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 002 (II) - Jurisdiction, Administration, Enforcement; Joint Pension Task Force, Etc/Subtitle A - Jurisdiction, Administration, and Enforcement/§ 01203 - Procedures in connection with prohibited transactions.md",
    "printed_pages": [
-    462,
+    463,
     463
    ]
   },
@@ -9286,10 +9289,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       99,
+       360,
        "[Page 464]"
       ]
      ]
@@ -9324,10 +9327,10 @@
    "marks": [
     [
      "I",
-     18,
+     12,
      [
       [
-       101,
+       231,
        "[Page 465]"
       ]
      ]
@@ -9344,10 +9347,10 @@
    "marks": [
     [
      "I",
-     38,
+     36,
      [
       [
-       87,
+       89,
        "[Page 466]"
       ]
      ]
@@ -9382,7 +9385,7 @@
    "marks": [
     [
      "L",
-     22,
+     16,
      "[Page 467]",
      true
     ]
@@ -9415,26 +9418,26 @@
    "id": "29_1301",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       186,
-       "[Page 468]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 468]",
+     true
     ],
     [
      "L",
-     122,
+     118,
      "[Page 469]",
      true
     ],
     [
-     "L",
-     192,
-     "[Page 470]",
-     true
+     "I",
+     184,
+     [
+      [
+       169,
+       "[Page 470]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle A - Pension Benefit Guaranty Corporation/§ 01301 - Definitions.md",
@@ -9448,15 +9451,19 @@
    "marks": [
     [
      "L",
-     32,
+     28,
      "[Page 471]",
      true
     ],
     [
-     "L",
-     70,
-     "[Page 472]",
-     true
+     "I",
+     68,
+     [
+      [
+       186,
+       "[Page 472]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle A - Pension Benefit Guaranty Corporation/§ 01302 - Pension Benefit Guaranty Corporation.md",
@@ -9469,20 +9476,28 @@
    "id": "29_1303",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 473]",
-     true
+     "I",
+     4,
+     [
+      [
+       373,
+       "[Page 473]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     44,
+     [
+      [
+       371,
+       "[Page 474]"
+      ]
+     ]
     ],
     [
      "L",
-     50,
-     "[Page 474]",
-     true
-    ],
-    [
-     "L",
-     110,
+     104,
      "[Page 475]",
      true
     ]
@@ -9510,14 +9525,14 @@
      40,
      [
       [
-       922,
+       459,
        "[Page 476]"
       ]
      ]
     ],
     [
      "L",
-     120,
+     114,
      "[Page 477]",
      true
     ]
@@ -9532,14 +9547,18 @@
    "id": "29_1306",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 478]",
-     true
+     "I",
+     40,
+     [
+      [
+       229,
+       "[Page 478]"
+      ]
+     ]
     ],
     [
      "L",
-     82,
+     80,
      "[Page 479]",
      true
     ],
@@ -9548,30 +9567,22 @@
      124,
      [
       [
-       328,
+       89,
        "[Page 480]"
       ]
      ]
     ],
     [
-     "I",
-     188,
-     [
-      [
-       106,
-       "[Page 481]"
-      ]
-     ]
+     "L",
+     182,
+     "[Page 481]",
+     true
     ],
     [
-     "I",
-     288,
-     [
-      [
-       228,
-       "[Page 482]"
-      ]
-     ]
+     "L",
+     286,
+     "[Page 482]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle A - Pension Benefit Guaranty Corporation/§ 01306 - Premium rates.md",
@@ -9588,7 +9599,7 @@
      12,
      [
       [
-       387,
+       95,
        "[Page 483]"
       ]
      ]
@@ -9622,14 +9633,10 @@
    "id": "29_1310",
    "marks": [
     [
-     "I",
+     "L",
      14,
-     [
-      [
-       142,
-       "[Page 484]"
-      ]
-     ]
+     "[Page 484]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle A - Pension Benefit Guaranty Corporation/§ 01310 - Authority to require certain information.md",
@@ -9661,7 +9668,7 @@
    "marks": [
     [
      "L",
-     38,
+     36,
      "[Page 485]",
      true
     ]
@@ -9676,34 +9683,34 @@
    "id": "29_1322",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 486]",
-     true
-    ],
-    [
      "I",
-     52,
+     4,
      [
       [
-       288,
-       "[Page 487]"
+       281,
+       "[Page 486]"
       ]
      ]
     ],
     [
+     "L",
+     52,
+     "[Page 487]",
+     true
+    ],
+    [
      "I",
-     106,
+     104,
      [
       [
-       155,
+       191,
        "[Page 488]"
       ]
      ]
     ],
     [
      "L",
-     180,
+     174,
      "[Page 489]",
      true
     ]
@@ -9718,20 +9725,28 @@
    "id": "29_1322a",
    "marks": [
     [
-     "L",
-     86,
-     "[Page 490]",
-     true
+     "I",
+     82,
+     [
+      [
+       137,
+       "[Page 490]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     116,
+     [
+      [
+       835,
+       "[Page 491]"
+      ]
+     ]
     ],
     [
      "L",
-     122,
-     "[Page 491]",
-     true
-    ],
-    [
-     "L",
-     192,
+     186,
      "[Page 492]",
      true
     ]
@@ -9773,74 +9788,58 @@
    "id": "29_1341",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       228,
-       "[Page 493]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 493]",
+     true
     ],
     [
      "I",
      88,
      [
       [
-       384,
+       94,
        "[Page 494]"
       ]
      ]
     ],
     [
-     "I",
-     164,
-     [
-      [
-       97,
-       "[Page 495]"
-      ]
-     ]
+     "L",
+     158,
+     "[Page 495]",
+     true
+    ],
+    [
+     "L",
+     218,
+     "[Page 496]",
+     true
     ],
     [
      "I",
-     220,
+     276,
      [
       [
-       431,
-       "[Page 496]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     284,
-     [
-      [
-       100,
+       210,
        "[Page 497]"
       ]
      ]
     ],
     [
      "L",
-     364,
+     360,
      "[Page 498]",
      true
     ],
     [
-     "I",
-     436,
-     [
-      [
-       514,
-       "[Page 499]"
-      ]
-     ]
+     "L",
+     426,
+     "[Page 499]",
+     true
     ],
     [
      "L",
-     520,
+     516,
      "[Page 500]",
      true
     ]
@@ -9856,10 +9855,10 @@
    "marks": [
     [
      "I",
-     44,
+     40,
      [
       [
-       237,
+       375,
        "[Page 501]"
       ]
      ]
@@ -9879,30 +9878,22 @@
      30,
      [
       [
-       1261,
+       558,
        "[Page 502]"
       ]
      ]
     ],
     [
-     "I",
-     86,
-     [
-      [
-       289,
-       "[Page 503]"
-      ]
-     ]
+     "L",
+     82,
+     "[Page 503]",
+     true
     ],
     [
-     "I",
-     138,
-     [
-      [
-       111,
-       "[Page 504]"
-      ]
-     ]
+     "L",
+     132,
+     "[Page 504]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01342 - Institution of termination proceedings by the corporation.md",
@@ -9915,14 +9906,18 @@
    "id": "29_1343",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 505]",
-     true
+     "I",
+     22,
+     [
+      [
+       154,
+       "[Page 505]"
+      ]
+     ]
     ],
     [
      "L",
-     100,
+     92,
      "[Page 506]",
      true
     ]
@@ -9938,29 +9933,33 @@
    "marks": [
     [
      "I",
-     44,
+     42,
      [
       [
-       90,
+       223,
        "[Page 507]"
       ]
      ]
     ],
     [
      "I",
-     94,
+     90,
      [
       [
-       154,
+       101,
        "[Page 508]"
       ]
      ]
     ],
     [
-     "L",
-     170,
-     "[Page 509]",
-     true
+     "I",
+     164,
+     [
+      [
+       382,
+       "[Page 509]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01344 - Allocation of assets.md",
@@ -9980,30 +9979,26 @@
   },
   {
    "id": "29_1346",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 510]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01346 - Reports to trustee.md",
    "printed_pages": [
     509,
-    509
+    510
    ]
   },
   {
    "id": "29_1347",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       87,
-       "[Page 510]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01347 - Restoration of plans.md",
    "printed_pages": [
-    509,
+    510,
     510
    ]
   },
@@ -10018,30 +10013,30 @@
   },
   {
    "id": "29_1349",
-   "marks": [],
-   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01349 - Repealed. Pub. L. 100–203, title IX, §9312(a), Dec. 22, 1987, 101 Stat. 1330–361.md",
-   "printed_pages": [
-    510,
-    510
-   ]
-  },
-  {
-   "id": "29_1350",
    "marks": [
     [
      "I",
-     8,
+     6,
      [
       [
-       97,
+       219,
        "[Page 511]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01350 - Missing participants.md",
+   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01349 - Repealed. Pub. L. 100–203, title IX, §9312(a), Dec. 22, 1987, 101 Stat. 1330–361.md",
    "printed_pages": [
     510,
+    511
+   ]
+  },
+  {
+   "id": "29_1350",
+   "marks": [],
+   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle C - Terminations/§ 01350 - Missing participants.md",
+   "printed_pages": [
+    511,
     511
    ]
   },
@@ -10056,46 +10051,43 @@
   },
   {
    "id": "29_1361",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 512]",
+     true
+    ]
+   ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01361 - Amounts payable by corporation.md",
    "printed_pages": [
     511,
-    511
+    512
    ]
   },
   {
    "id": "29_1362",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 512]",
-     true
-    ],
-    [
      "I",
-     70,
+     64,
      [
       [
-       178,
+       144,
        "[Page 513]"
       ]
      ]
     ],
     [
-     "I",
-     144,
-     [
-      [
-       111,
-       "[Page 514]"
-      ]
-     ]
+     "L",
+     134,
+     "[Page 514]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01362 - Liability for termination of single-employer plans under a distress termination or a termination by corporation.md",
    "printed_pages": [
-    511,
+    512,
     514
    ]
   },
@@ -10104,38 +10096,33 @@
    "marks": [
     [
      "I",
-     34,
+     26,
      [
       [
-       92,
+       98,
        "[Page 515]"
       ]
      ]
+    ],
+    [
+     "L",
+     80,
+     "[Page 516]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01363 - Liability of substantial employer for withdrawal from single-employer plans under multiple controlled groups.md",
    "printed_pages": [
     514,
-    515
+    516
    ]
   },
   {
    "id": "29_1364",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       187,
-       "[Page 516]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01364 - Liability on termination of single-employer plans under multiple controlled groups.md",
    "printed_pages": [
-    515,
+    516,
     516
    ]
   },
@@ -10143,10 +10130,14 @@
    "id": "29_1365",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 517]",
-     true
+     "I",
+     2,
+     [
+      [
+       140,
+       "[Page 517]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01365 - Annual report of plan administrator.md",
@@ -10168,10 +10159,14 @@
    "id": "29_1367",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 518]",
-     true
+     "I",
+     12,
+     [
+      [
+       105,
+       "[Page 518]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01367 - Recovery of liability for plan termination.md",
@@ -10185,11 +10180,21 @@
    "marks": [
     [
      "I",
-     54,
+     44,
      [
       [
-       209,
+       291,
        "[Page 519]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     106,
+     [
+      [
+       109,
+       "[Page 520]"
       ]
      ]
     ]
@@ -10197,26 +10202,15 @@
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01368 - Lien for liability.md",
    "printed_pages": [
     518,
-    519
+    520
    ]
   },
   {
    "id": "29_1369",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       614,
-       "[Page 520]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01369 - Treatment of transactions to evade liability; effect of corporate reorganization.md",
    "printed_pages": [
-    519,
+    520,
     520
    ]
   },
@@ -10224,14 +10218,10 @@
    "id": "29_1370",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       101,
-       "[Page 521]"
-      ]
-     ]
+     "L",
+     38,
+     "[Page 521]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle D - Liability/§ 01370 - Enforcement authority relating to terminations of single-employer plans.md",
@@ -10272,7 +10262,7 @@
    "marks": [
     [
      "L",
-     42,
+     26,
      "[Page 522]",
      true
     ]
@@ -10297,10 +10287,10 @@
    "marks": [
     [
      "I",
-     44,
+     36,
      [
       [
-       92,
+       281,
        "[Page 523]"
       ]
      ]
@@ -10317,10 +10307,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       327,
+       243,
        "[Page 524]"
       ]
      ]
@@ -10336,21 +10326,17 @@
    "id": "29_1385",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       229,
-       "[Page 525]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 525]",
+     true
     ],
     [
      "I",
-     96,
+     86,
      [
       [
-       108,
+       164,
        "[Page 526]"
       ]
      ]
@@ -10376,10 +10362,10 @@
    "marks": [
     [
      "I",
-     10,
+     4,
      [
       [
-       106,
+       89,
        "[Page 527]"
       ]
      ]
@@ -10396,10 +10382,10 @@
    "marks": [
     [
      "I",
-     42,
+     36,
      [
       [
-       92,
+       153,
        "[Page 528]"
       ]
      ]
@@ -10425,7 +10411,7 @@
    "marks": [
     [
      "L",
-     26,
+     18,
      "[Page 529]",
      true
     ]
@@ -10441,50 +10427,49 @@
    "marks": [
     [
      "I",
-     62,
+     56,
      [
       [
-       269,
+       100,
        "[Page 530]"
       ]
      ]
     ],
     [
+     "L",
+     110,
+     "[Page 531]",
+     true
+    ],
+    [
      "I",
-     114,
+     162,
      [
       [
-       232,
-       "[Page 531]"
+       236,
+       "[Page 532]"
       ]
      ]
     ],
     [
      "L",
-     174,
-     "[Page 532]",
+     212,
+     "[Page 533]",
      true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 001 - Employer Withdrawals/§ 01391 - Methods for computing withdrawal liability.md",
    "printed_pages": [
     529,
-    532
+    533
    ]
   },
   {
    "id": "29_1392",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 533]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 001 - Employer Withdrawals/§ 01392 - Obligation to contribute.md",
    "printed_pages": [
-    532,
+    533,
     533
    ]
   },
@@ -10508,26 +10493,26 @@
   },
   {
    "id": "29_1395",
-   "marks": [],
-   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 001 - Employer Withdrawals/§ 01395 - Plan notification to corporation of potentially significant withdrawals.md",
-   "printed_pages": [
-    533,
-    533
-   ]
-  },
-  {
-   "id": "29_1396",
    "marks": [
     [
      "L",
-     10,
+     6,
      "[Page 534]",
      true
     ]
    ],
-   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 001 - Employer Withdrawals/§ 01396 - Special rules for plans under section 404(c) of title 26.md",
+   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 001 - Employer Withdrawals/§ 01395 - Plan notification to corporation of potentially significant withdrawals.md",
    "printed_pages": [
     533,
+    534
+   ]
+  },
+  {
+   "id": "29_1396",
+   "marks": [],
+   "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 001 - Employer Withdrawals/§ 01396 - Special rules for plans under section 404(c) of title 26.md",
+   "printed_pages": [
+    534,
     534
    ]
   },
@@ -10545,7 +10530,7 @@
    "marks": [
     [
      "L",
-     16,
+     6,
      "[Page 535]",
      true
     ]
@@ -10560,16 +10545,24 @@
    "id": "29_1399",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 536]",
-     true
+     "I",
+     48,
+     [
+      [
+       102,
+       "[Page 536]"
+      ]
+     ]
     ],
     [
-     "L",
-     112,
-     "[Page 537]",
-     true
+     "I",
+     106,
+     [
+      [
+       109,
+       "[Page 537]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 001 - Employer Withdrawals/§ 01399 - Notice, collection, etc., of withdrawal liability.md",
@@ -10592,10 +10585,10 @@
    "marks": [
     [
      "I",
-     40,
+     36,
      [
       [
-       88,
+       408,
        "[Page 538]"
       ]
      ]
@@ -10612,10 +10605,10 @@
    "marks": [
     [
      "I",
-     20,
+     16,
      [
       [
-       93,
+       180,
        "[Page 539]"
       ]
      ]
@@ -10632,10 +10625,10 @@
    "marks": [
     [
      "I",
-     82,
+     78,
      [
       [
-       90,
+       328,
        "[Page 540]"
       ]
      ]
@@ -10661,7 +10654,7 @@
    "marks": [
     [
      "L",
-     35,
+     25,
      "[Page 541]",
      true
     ]
@@ -10695,10 +10688,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       93,
+       95,
        "[Page 542]"
       ]
      ]
@@ -10715,7 +10708,7 @@
    "marks": [
     [
      "L",
-     16,
+     6,
      "[Page 543]",
      true
     ]
@@ -10739,18 +10732,14 @@
    "id": "29_1415",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       191,
-       "[Page 544]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 544]",
+     true
     ],
     [
      "L",
-     100,
+     90,
      "[Page 545]",
      true
     ]
@@ -10775,7 +10764,7 @@
    "marks": [
     [
      "L",
-     84,
+     76,
      "[Page 546]",
      true
     ]
@@ -10800,23 +10789,19 @@
    "marks": [
     [
      "I",
-     14,
+     10,
      [
       [
-       182,
+       95,
        "[Page 547]"
       ]
      ]
     ],
     [
-     "I",
-     82,
-     [
-      [
-       138,
-       "[Page 548]"
-      ]
-     ]
+     "L",
+     78,
+     "[Page 548]",
+     true
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 003 - Reorganization; Minimum Contribution Requirement for Multiemployer Plans/§ 01423 - Minimum contribution requirement.md",
@@ -10830,13 +10815,13 @@
    "marks": [
     [
      "L",
-     16,
+     6,
      "[Page 549]",
      true
     ],
     [
      "L",
-     82,
+     78,
      "[Page 550]",
      true
     ]
@@ -10851,10 +10836,14 @@
    "id": "29_1425",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 551]",
-     true
+     "I",
+     54,
+     [
+      [
+       101,
+       "[Page 551]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 003 - Reorganization; Minimum Contribution Requirement for Multiemployer Plans/§ 01425 - Adjustments in accrued benefits.md",
@@ -10868,10 +10857,10 @@
    "marks": [
     [
      "I",
-     30,
+     28,
      [
       [
-       283,
+       179,
        "[Page 552]"
       ]
      ]
@@ -10896,10 +10885,14 @@
    "id": "29_1431",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 553]",
-     true
+     "I",
+     4,
+     [
+      [
+       295,
+       "[Page 553]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 004 - Financial Assistance/§ 01431 - Assistance by corporation.md",
@@ -10921,10 +10914,14 @@
    "id": "29_1441",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 554]",
-     true
+     "I",
+     42,
+     [
+      [
+       378,
+       "[Page 554]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 018 - Employee Retirement Income Security Program/Subchapter 003 (III) - Plan Termination Insurance/Subtitle E - Special Provisions for Multiemployer Plans/Part 005 - Benefits After Termination/§ 01441 - Benefits under certain terminated plans.md",
@@ -10965,7 +10962,7 @@
    "marks": [
     [
      "L",
-     24,
+     16,
      "[Page 555]",
      true
     ]
@@ -10990,26 +10987,26 @@
    "marks": [
     [
      "I",
-     40,
+     36,
      [
       [
-       139,
+       226,
        "[Page 556]"
       ]
      ]
     ],
     [
      "L",
-     104,
+     102,
      "[Page 557]",
      true
     ],
     [
      "I",
-     190,
+     182,
      [
       [
-       101,
+       270,
        "[Page 558]"
       ]
      ]
@@ -11070,14 +11067,10 @@
    "id": "29_1511_to_1519",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       424,
-       "[Page 559]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 559]",
+     true
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 001 (I) - Job Training and Employment Assistance System/Part A - Service Delivery System/§ 01511 to 1519 - Repealed. Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059.md",
@@ -11136,10 +11129,10 @@
    "marks": [
     [
      "I",
-     20,
+     14,
      [
       [
-       121,
+       118,
        "[Page 560]"
       ]
      ]
@@ -11218,14 +11211,10 @@
    "id": "29_1630_to_1635",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       177,
-       "[Page 561]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 561]",
+     true
     ]
    ],
    "path": "Chapter 019 - Job Training Partnership/Subchapter 002 (II) - Training Services for the Disadvantaged/Part B - Summer Youth Employment and Training Program/§ 01630 to 1635 - Repealed. Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059.md",
@@ -11284,7 +11273,7 @@
    "marks": [
     [
      "L",
-     16,
+     10,
      "[Page 562]",
      true
     ]
@@ -11354,7 +11343,7 @@
    "marks": [
     [
      "L",
-     40,
+     34,
      "[Page 563]",
      true
     ]
@@ -11451,7 +11440,7 @@
    "marks": [
     [
      "L",
-     8,
+     4,
      "[Page 564]",
      true
     ]
@@ -11548,10 +11537,10 @@
    "marks": [
     [
      "I",
-     22,
+     18,
      [
       [
-       234,
+       112,
        "[Page 565]"
       ]
      ]
@@ -11595,10 +11584,10 @@
    "marks": [
     [
      "I",
-     67,
+     60,
      [
       [
-       25,
+       64,
        "[Page 566]"
       ]
      ]
@@ -11623,14 +11612,10 @@
    "id": "29_1802",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       226,
-       "[Page 567]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 567]",
+     true
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/§ 01802 - Definitions.md",
@@ -11643,14 +11628,10 @@
    "id": "29_1803",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       92,
-       "[Page 568]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 568]",
+     true
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/§ 01803 - Applicability of chapter.md",
@@ -11681,14 +11662,10 @@
    "id": "29_1812",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       96,
-       "[Page 569]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 569]",
+     true
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 001 (I) - Farm Labor Contractors/§ 01812 - Issuance of certificate of registration.md",
@@ -11699,30 +11676,30 @@
   },
   {
    "id": "29_1813",
-   "marks": [],
-   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 001 (I) - Farm Labor Contractors/§ 01813 - Registration determinations.md",
-   "printed_pages": [
-    569,
-    569
-   ]
-  },
-  {
-   "id": "29_1814",
    "marks": [
     [
      "I",
-     8,
+     48,
      [
       [
-       233,
+       106,
        "[Page 570]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 001 (I) - Farm Labor Contractors/§ 01814 - Transfer or assignment; expiration; renewal.md",
+   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 001 (I) - Farm Labor Contractors/§ 01813 - Registration determinations.md",
    "printed_pages": [
     569,
+    570
+   ]
+  },
+  {
+   "id": "29_1814",
+   "marks": [],
+   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 001 (I) - Farm Labor Contractors/§ 01814 - Transfer or assignment; expiration; renewal.md",
+   "printed_pages": [
+    570,
     570
    ]
   },
@@ -11757,10 +11734,14 @@
    "id": "29_1821",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 571]",
-     true
+     "I",
+     26,
+     [
+      [
+       88,
+       "[Page 571]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 002 (II) - Migrant Agricultural Worker Protections/§ 01821 - Information and recordkeeping requirements.md",
@@ -11786,7 +11767,7 @@
      8,
      [
       [
-       613,
+       97,
        "[Page 572]"
       ]
      ]
@@ -11812,10 +11793,10 @@
    "marks": [
     [
      "I",
-     56,
+     52,
      [
       [
-       87,
+       103,
        "[Page 573]"
       ]
      ]
@@ -11849,14 +11830,10 @@
    "id": "29_1841",
    "marks": [
     [
-     "I",
+     "L",
      34,
-     [
-      [
-       514,
-       "[Page 574]"
-      ]
-     ]
+     "[Page 574]",
+     true
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 004 (IV) - Further Protections for Migrant and Seasonal Agricultural Workers/§ 01841 - Motor vehicle safety.md",
@@ -11887,10 +11864,14 @@
    "id": "29_1844",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 575]",
-     true
+     "I",
+     4,
+     [
+      [
+       87,
+       "[Page 575]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 004 (IV) - Further Protections for Migrant and Seasonal Agricultural Workers/§ 01844 - Compliance with written agreements.md",
@@ -11939,10 +11920,14 @@
    "id": "29_1853",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 576]",
-     true
+     "I",
+     20,
+     [
+      [
+       282,
+       "[Page 576]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 005 (V) - General Provisions/Part A - Enforcement Provisions/§ 01853 - Administrative sanctions.md",
@@ -11955,14 +11940,10 @@
    "id": "29_1854",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       144,
-       "[Page 577]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 577]",
+     true
     ]
    ],
    "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 005 (V) - General Provisions/Part A - Enforcement Provisions/§ 01854 - Private right of action.md",
@@ -12000,15 +11981,6 @@
   },
   {
    "id": "29_1861",
-   "marks": [],
-   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 005 (V) - General Provisions/Part B - Administrative Provisions/§ 01861 - Rules and regulations.md",
-   "printed_pages": [
-    577,
-    577
-   ]
-  },
-  {
-   "id": "29_1862",
    "marks": [
     [
      "L",
@@ -12017,9 +11989,18 @@
      true
     ]
    ],
-   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 005 (V) - General Provisions/Part B - Administrative Provisions/§ 01862 - Authority to obtain information.md",
+   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 005 (V) - General Provisions/Part B - Administrative Provisions/§ 01861 - Rules and regulations.md",
    "printed_pages": [
     577,
+    578
+   ]
+  },
+  {
+   "id": "29_1862",
+   "marks": [],
+   "path": "Chapter 020 - Migrant and Seasonal Agricultural Worker Protection/Subchapter 005 (V) - General Provisions/Part B - Administrative Provisions/§ 01862 - Authority to obtain information.md",
+   "printed_pages": [
+    578,
     578
    ]
   },
@@ -12072,14 +12053,10 @@
    "id": "29_1901",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       414,
-       "[Page 579]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 579]",
+     true
     ]
    ],
    "path": "Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind/§ 01901 - Congressional findings.md",
@@ -12090,30 +12067,30 @@
   },
   {
    "id": "29_1902",
-   "marks": [],
-   "path": "Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind/§ 01902 - Continued operation of Center.md",
-   "printed_pages": [
-    579,
-    579
-   ]
-  },
-  {
-   "id": "29_1903",
    "marks": [
     [
      "I",
-     2,
+     28,
      [
       [
-       140,
+       277,
        "[Page 580]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind/§ 01903 - Audit; monitoring and evaluation.md",
+   "path": "Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind/§ 01902 - Continued operation of Center.md",
    "printed_pages": [
     579,
+    580
+   ]
+  },
+  {
+   "id": "29_1903",
+   "marks": [],
+   "path": "Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind/§ 01903 - Audit; monitoring and evaluation.md",
+   "printed_pages": [
+    580,
     580
    ]
   },
@@ -12139,10 +12116,14 @@
    "id": "29_1906",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 581]",
-     true
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 581]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind/§ 01906 - Construction; effect on agreements.md",
@@ -12155,10 +12136,14 @@
    "id": "29_1907",
    "marks": [
     [
-     "L",
-     88,
-     "[Page 582]",
-     true
+     "I",
+     82,
+     [
+      [
+       96,
+       "[Page 582]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 021 - Helen Keller National Center for Youths and Adults Who Are Deaf-Blind/§ 01907 - Helen Keller National Center Federal Endowment Fund.md",
@@ -12178,26 +12163,30 @@
   },
   {
    "id": "29_-ch22",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     25,
+     [
+      [
+       53,
+       "[Page 583]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Employee Polygraph Protection/README.md",
    "printed_pages": [
     582,
-    582
+    583
    ]
   },
   {
    "id": "29_2001",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 583]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Employee Polygraph Protection/§ 02001 - Definitions.md",
    "printed_pages": [
-    582,
+    583,
     583
    ]
   },
@@ -12232,14 +12221,10 @@
    "id": "29_2005",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       92,
-       "[Page 584]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 584]",
+     true
     ]
    ],
    "path": "Chapter 022 - Employee Polygraph Protection/§ 02005 - Enforcement provisions.md",
@@ -12253,7 +12238,7 @@
    "marks": [
     [
      "L",
-     48,
+     42,
      "[Page 585]",
      true
     ]
@@ -12269,13 +12254,13 @@
    "marks": [
     [
      "L",
-     12,
+     8,
      "[Page 586]",
      true
     ],
     [
      "L",
-     114,
+     110,
      "[Page 587]",
      true
     ]
@@ -12321,7 +12306,7 @@
      38,
      [
       [
-       483,
+       99,
        "[Page 588]"
       ]
      ]
@@ -12337,14 +12322,10 @@
    "id": "29_2102",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       235,
-       "[Page 589]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 589]",
+     true
     ]
    ],
    "path": "Chapter 023 - Worker Adjustment and Retraining Notification/§ 02102 - Notice required before plant closings and mass layoffs.md",
@@ -12375,10 +12356,14 @@
    "id": "29_2105",
    "marks": [
     [
-     "L",
-     4,
-     "[Page 590]",
-     true
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 590]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Worker Adjustment and Retraining Notification/§ 02105 - Procedures in addition to other rights of employees.md",
@@ -12452,26 +12437,26 @@
   },
   {
    "id": "29_2211_to_2216",
-   "marks": [],
-   "path": "Chapter 024 - Technology Related Assistance for Individuals with Disabilities/Subchapter 001 (I) - Grants to States/§ 02211 to 2216 - Repealed. Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661.md",
-   "printed_pages": [
-    590,
-    590
-   ]
-  },
-  {
-   "id": "29_2217",
    "marks": [
     [
      "L",
-     4,
+     14,
      "[Page 591]",
      true
     ]
    ],
-   "path": "Chapter 024 - Technology Related Assistance for Individuals with Disabilities/Subchapter 001 (I) - Grants to States/§ 02217 - Repealed. Pub. L. 103–218, title I, §107, Mar. 9, 1994, 108 Stat. 85.md",
+   "path": "Chapter 024 - Technology Related Assistance for Individuals with Disabilities/Subchapter 001 (I) - Grants to States/§ 02211 to 2216 - Repealed. Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661.md",
    "printed_pages": [
     590,
+    591
+   ]
+  },
+  {
+   "id": "29_2217",
+   "marks": [],
+   "path": "Chapter 024 - Technology Related Assistance for Individuals with Disabilities/Subchapter 001 (I) - Grants to States/§ 02217 - Repealed. Pub. L. 103–218, title I, §107, Mar. 9, 1994, 108 Stat. 85.md",
+   "printed_pages": [
+    591,
     591
    ]
   },
@@ -12570,7 +12555,7 @@
    "marks": [
     [
      "L",
-     22,
+     14,
      "[Page 592]",
      true
     ]
@@ -12625,7 +12610,7 @@
      4,
      [
       [
-       284,
+       95,
        "[Page 593]"
       ]
      ]
@@ -12669,7 +12654,7 @@
    "marks": [
     [
      "L",
-     12,
+     10,
      "[Page 594]",
      true
     ]
@@ -12712,10 +12697,10 @@
    "marks": [
     [
      "I",
-     69,
+     66,
      [
       [
-       41,
+       22,
        "[Page 595]"
       ]
      ]
@@ -13141,7 +13126,7 @@
     ],
     [
      "I",
-     253,
+     254,
      [
       [
        71,
@@ -13808,6 +13793,15 @@
    ]
   },
   {
+   "id": "29_2883a",
+   "marks": [],
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02883a - Office of Job Corps.md",
+   "printed_pages": [
+    654,
+    654
+   ]
+  },
+  {
    "id": "29_2884",
    "marks": [],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02884 - Individuals eligible for the Job Corps.md",
@@ -13821,10 +13815,10 @@
    "marks": [
     [
      "I",
-     52,
+     34,
      [
       [
-       98,
+       97,
        "[Page 655]"
       ]
      ]
@@ -13838,11 +13832,18 @@
   },
   {
    "id": "29_2886",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 656]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02886 - Enrollment.md",
    "printed_pages": [
     655,
-    655
+    656
    ]
   },
   {
@@ -13850,63 +13851,48 @@
    "marks": [
     [
      "L",
-     14,
-     "[Page 656]",
+     68,
+     "[Page 657]",
      true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02887 - Job Corps centers.md",
-   "printed_pages": [
-    655,
-    656
-   ]
-  },
-  {
-   "id": "29_2888",
-   "marks": [
-    [
-     "I",
-     20,
-     [
-      [
-       227,
-       "[Page 657]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02888 - Program activities.md",
    "printed_pages": [
     656,
     657
    ]
   },
   {
-   "id": "29_2889",
+   "id": "29_2888",
    "marks": [],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02889 - Counseling and job placement.md",
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02888 - Program activities.md",
    "printed_pages": [
     657,
     657
    ]
   },
   {
-   "id": "29_2890",
+   "id": "29_2889",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       161,
-       "[Page 658]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 658]",
+     true
     ]
    ],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02890 - Support.md",
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02889 - Counseling and job placement.md",
    "printed_pages": [
     657,
+    658
+   ]
+  },
+  {
+   "id": "29_2890",
+   "marks": [],
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02890 - Support.md",
+   "printed_pages": [
+    658,
     658
    ]
   },
@@ -13932,10 +13918,14 @@
    "id": "29_2893",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 659]",
-     true
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 659]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02893 - Community participation.md",
@@ -13964,26 +13954,26 @@
   },
   {
    "id": "29_2896",
-   "marks": [],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02896 - Experimental, research, and demonstration projects.md",
-   "printed_pages": [
-    659,
-    659
-   ]
-  },
-  {
-   "id": "29_2897",
    "marks": [
     [
      "L",
-     20,
+     6,
      "[Page 660]",
      true
     ]
    ],
-   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02897 - Application of provisions of Federal law.md",
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02896 - Experimental, research, and demonstration projects.md",
    "printed_pages": [
     659,
+    660
+   ]
+  },
+  {
+   "id": "29_2897",
+   "marks": [],
+   "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02897 - Application of provisions of Federal law.md",
+   "printed_pages": [
+    660,
     660
    ]
   },
@@ -13991,10 +13981,14 @@
    "id": "29_2898",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 661]",
-     true
+     "I",
+     30,
+     [
+      [
+       94,
+       "[Page 661]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 003 (III) - Job Corps/§ 02898 - Special provisions.md",
@@ -14008,7 +14002,7 @@
    "marks": [
     [
      "L",
-     82,
+     68,
      "[Page 662]",
      true
     ]
@@ -14024,10 +14018,10 @@
    "marks": [
     [
      "I",
-     16,
+     6,
      [
       [
-       262,
+       100,
        "[Page 663]"
       ]
      ]
@@ -14061,30 +14055,28 @@
    "id": "29_2911",
    "marks": [
     [
-     "I",
-     76,
-     [
-      [
-       138,
-       "[Page 664]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 664]",
+     true
     ],
     [
-     "I",
-     160,
-     [
-      [
-       94,
-       "[Page 665]"
-      ]
-     ]
+     "L",
+     138,
+     "[Page 665]",
+     true
+    ],
+    [
+     "L",
+     212,
+     "[Page 666]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02911 - Native American programs.md",
    "printed_pages": [
     663,
-    665
+    666
    ]
   },
   {
@@ -14092,20 +14084,14 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 666]",
-     true
-    ],
-    [
-     "L",
-     90,
+     68,
      "[Page 667]",
      true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02912 - Migrant and seasonal farmworker programs.md",
    "printed_pages": [
-    665,
+    666,
     667
    ]
   },
@@ -14113,53 +14099,53 @@
    "id": "29_2913",
    "marks": [
     [
-     "L",
-     64,
-     "[Page 668]",
-     true
+     "I",
+     44,
+     [
+      [
+       118,
+       "[Page 668]"
+      ]
+     ]
     ],
     [
      "L",
-     156,
+     138,
      "[Page 669]",
      true
     ],
     [
      "I",
-     228,
+     216,
      [
       [
-       162,
+       109,
        "[Page 670]"
       ]
      ]
     ],
     [
      "I",
-     288,
+     280,
      [
       [
-       159,
+       319,
        "[Page 671]"
       ]
      ]
     ],
     [
-     "I",
-     346,
-     [
-      [
-       107,
-       "[Page 672]"
-      ]
-     ]
+     "L",
+     332,
+     "[Page 672]",
+     true
     ],
     [
      "I",
-     398,
+     382,
      [
       [
-       214,
+       395,
        "[Page 673]"
       ]
      ]
@@ -14176,7 +14162,7 @@
    "marks": [
     [
      "L",
-     74,
+     60,
      "[Page 674]",
      true
     ]
@@ -14191,10 +14177,14 @@
    "id": "29_2915",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 675]",
-     true
+     "I",
+     24,
+     [
+      [
+       97,
+       "[Page 675]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02915 - Technical assistance.md",
@@ -14207,21 +14197,17 @@
    "id": "29_2916",
    "marks": [
     [
-     "I",
-     76,
-     [
-      [
-       97,
-       "[Page 676]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 676]",
+     true
     ],
     [
      "I",
-     148,
+     142,
      [
       [
-       164,
+       139,
        "[Page 677]"
       ]
      ]
@@ -14238,7 +14224,7 @@
    "marks": [
     [
      "L",
-     66,
+     56,
      "[Page 678]",
      true
     ]
@@ -14251,11 +14237,18 @@
   },
   {
    "id": "29_2917",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     46,
+     "[Page 679]",
+     true
+    ]
+   ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02917 - Evaluations.md",
    "printed_pages": [
     678,
-    678
+    679
    ]
   },
   {
@@ -14263,46 +14256,40 @@
    "marks": [
     [
      "I",
-     8,
+     68,
      [
       [
-       286,
-       "[Page 679]"
+       147,
+       "[Page 680]"
       ]
      ]
     ],
     [
      "L",
-     82,
-     "[Page 680]",
-     true
-    ],
-    [
-     "L",
-     182,
+     166,
      "[Page 681]",
      true
     ],
     [
-     "I",
-     264,
-     [
-      [
-       99,
-       "[Page 682]"
-      ]
-     ]
+     "L",
+     250,
+     "[Page 682]",
+     true
     ],
     [
-     "L",
-     344,
-     "[Page 683]",
-     true
+     "I",
+     334,
+     [
+      [
+       281,
+       "[Page 683]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 004 (IV) - National Programs/§ 02918 - National emergency grants.md",
    "printed_pages": [
-    678,
+    679,
     683
    ]
   },
@@ -14311,7 +14298,7 @@
    "marks": [
     [
      "I",
-     22,
+     6,
      [
       [
        93,
@@ -14331,10 +14318,10 @@
    "marks": [
     [
      "I",
-     18,
+     8,
      [
       [
-       281,
+       138,
        "[Page 685]"
       ]
      ]
@@ -14360,13 +14347,13 @@
    "marks": [
     [
      "L",
-     56,
+     48,
      "[Page 686]",
      true
     ],
     [
      "L",
-     136,
+     124,
      "[Page 687]",
      true
     ]
@@ -14391,10 +14378,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       87,
+       183,
        "[Page 688]"
       ]
      ]
@@ -14410,21 +14397,17 @@
    "id": "29_2934",
    "marks": [
     [
-     "I",
-     88,
-     [
-      [
-       91,
-       "[Page 689]"
-      ]
-     ]
+     "L",
+     70,
+     "[Page 689]",
+     true
     ],
     [
      "I",
-     152,
+     148,
      [
       [
-       221,
+       93,
        "[Page 690]"
       ]
      ]
@@ -14441,10 +14424,10 @@
    "marks": [
     [
      "I",
-     70,
+     58,
      [
       [
-       91,
+       101,
        "[Page 691]"
       ]
      ]
@@ -14460,10 +14443,14 @@
    "id": "29_2936",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 692]",
-     true
+     "I",
+     8,
+     [
+      [
+       335,
+       "[Page 692]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02936 - Administrative adjudication.md",
@@ -14486,7 +14473,7 @@
    "marks": [
     [
      "L",
-     28,
+     20,
      "[Page 693]",
      true
     ]
@@ -14501,17 +14488,21 @@
    "id": "29_2939",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 694]",
-     true
+     "I",
+     12,
+     [
+      [
+       176,
+       "[Page 694]"
+      ]
+     ]
     ],
     [
      "I",
-     80,
+     72,
      [
       [
-       92,
+       142,
        "[Page 695]"
       ]
      ]
@@ -14527,10 +14518,14 @@
    "id": "29_2940",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 696]",
-     true
+     "I",
+     24,
+     [
+      [
+       114,
+       "[Page 696]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02940 - References.md",
@@ -14552,14 +14547,10 @@
    "id": "29_2942",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       337,
-       "[Page 697]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 697]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02942 - Workforce flexibility plans.md",
@@ -14582,10 +14573,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       232,
+       188,
        "[Page 698]"
       ]
      ]
@@ -14601,14 +14592,10 @@
    "id": "29_2945",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       91,
-       "[Page 699]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 699]",
+     true
     ]
    ],
    "path": "Chapter 030 - Workforce Investment Systems/Subchapter 005 (V) - Administration/§ 02945 - General program requirements.md",
@@ -14630,43 +14617,51 @@
    "id": "29_3001",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 700]",
-     true
+     "I",
+     24,
+     [
+      [
+       455,
+       "[Page 700]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     70,
+     [
+      [
+       346,
+       "[Page 701]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03001 - Findings and purposes.md",
    "printed_pages": [
     699,
-    700
+    701
    ]
   },
   {
    "id": "29_3002",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 701]",
-     true
-    ],
-    [
      "I",
-     82,
+     64,
      [
       [
-       105,
+       98,
        "[Page 702]"
       ]
      ]
     ],
     [
      "I",
-     176,
+     152,
      [
       [
-       92,
+       96,
        "[Page 703]"
       ]
      ]
@@ -14674,7 +14669,7 @@
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03002 - Definitions.md",
    "printed_pages": [
-    700,
+    701,
     703
    ]
   },
@@ -14683,56 +14678,52 @@
    "marks": [
     [
      "I",
-     50,
+     30,
      [
       [
-       96,
+       93,
        "[Page 704]"
       ]
      ]
     ],
     [
      "L",
-     128,
+     106,
      "[Page 705]",
      true
     ],
     [
-     "I",
-     206,
-     [
-      [
-       228,
-       "[Page 706]"
-      ]
-     ]
+     "L",
+     190,
+     "[Page 706]",
+     true
     ],
     [
      "I",
-     278,
+     262,
      [
       [
-       136,
+       275,
        "[Page 707]"
       ]
      ]
     ],
     [
      "I",
-     334,
+     320,
      [
       [
-       492,
+       141,
        "[Page 708]"
       ]
      ]
     ],
     [
      "I",
-     408,
+     396,
      [
       [
-       267,
+       272,
        "[Page 709]"
       ]
      ]
@@ -14749,56 +14740,52 @@
    "marks": [
     [
      "I",
-     48,
+     26,
      [
       [
-       198,
+       90,
        "[Page 710]"
       ]
      ]
+    ],
+    [
+     "L",
+     88,
+     "[Page 711]",
+     true
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03004 - State grants for protection and advocacy services related to assistive technology.md",
    "printed_pages": [
     709,
-    710
+    711
    ]
   },
   {
    "id": "29_3005",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 711]",
-     true
-    ],
-    [
      "I",
-     84,
+     76,
      [
       [
-       98,
+       262,
        "[Page 712]"
       ]
      ]
     ],
     [
-     "I",
-     150,
-     [
-      [
-       186,
-       "[Page 713]"
-      ]
-     ]
+     "L",
+     130,
+     "[Page 713]",
+     true
     ],
     [
      "I",
-     230,
+     212,
      [
       [
-       98,
+       176,
        "[Page 714]"
       ]
      ]
@@ -14806,7 +14793,7 @@
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03005 - National activities.md",
    "printed_pages": [
-    710,
+    711,
     714
    ]
   },
@@ -14814,10 +14801,14 @@
    "id": "29_3006",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 715]",
-     true
+     "I",
+     34,
+     [
+      [
+       94,
+       "[Page 715]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03006 - Administrative provisions.md",
@@ -14828,30 +14819,26 @@
   },
   {
    "id": "29_3007",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 716]",
+     true
+    ]
+   ],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03007 - Authorization of appropriations.md",
    "printed_pages": [
     715,
-    715
+    716
    ]
   },
   {
    "id": "29_3011_to_3015",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       101,
-       "[Page 716]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 031 - Assistive Technology for Individuals with Disabilities/§ 03011 to 3015 - Omitted.md",
    "printed_pages": [
-    715,
+    716,
     716
    ]
   },
@@ -14874,6 +14861,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2004-title29 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2005-title29 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 29 - Labor"
 }

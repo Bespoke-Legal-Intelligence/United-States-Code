@@ -6,7 +6,7 @@ After consultation with the States, with eligible areas under part A of this sub
 
 #### (b) Biennial applications
 
-After consultation with the States, with eligible areas under part A of this subchapter, and with entities that receive amounts from grants under part A or B of this subchapter, the Secretary shall make a determination of whether the administration of parts A and B of this subchapter by the Secretary, and the efficiency of grantees under such parts in complying with the requirements of such parts, would be improved by requiring that applications for grants under such parts be submitted biennially rather than annually. The Secretary shall submit such determination to the Congress not later than 2 years after October 20, 2000.
+After consultation with the States, with eligible areas under part A of this subchapter, andwith entities that receive amounts from grants under part A or B of this subchapter, the Secretary shall make a determination of whether the administration of parts A and B of this subchapter by the Secretary, and the efficiency of grantees under such parts in complying with the requirements of such parts, would be improved by requiring that applications for grants under such parts be submitted biennially rather than annually. The Secretary shall submit such determination to the Congress not later than 2 years after October 20, 2000.
 
 #### (c) Application simplification
 

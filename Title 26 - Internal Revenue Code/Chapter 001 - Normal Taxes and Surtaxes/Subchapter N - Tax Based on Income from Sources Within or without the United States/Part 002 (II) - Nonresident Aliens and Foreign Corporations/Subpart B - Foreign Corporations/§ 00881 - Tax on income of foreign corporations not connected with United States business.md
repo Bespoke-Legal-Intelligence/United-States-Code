@@ -2,7 +2,7 @@
 
 #### (a) Imposition of tax
 
-Except as provided in subsection (c), there is hereby imposed for each taxable year a tax of 30percent of the amount received from sources within the United States by a foreign corporation as—
+Except as provided in subsection (c), there is hereby imposed for each taxable year a tax of 30 percent of the amount received from sources within the United States by a foreign corporation as—
 
 &emsp;(1) interest (other than original issue discount as defined in section 1273), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income,
 
@@ -18,9 +18,9 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 > but only to the extent the amount so received is not effectively connected with the conduct of a trade or business within the United States.
 
-#### (b) Exception for certain Guam and Virgin Islands corporations
+#### (b) Exception for certain possessions
 
-#### (1) In general
+#### (1) Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands
 
 &emsp;For purposes of this section and section 884, a corporation created or organized in Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands or under the law of any such possession shall not be treated as a foreign corporation for any taxable year if—
 
@@ -30,7 +30,23 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 &emsp;&emsp;(C) no substantial part of the income of such corporation is used (directly or indirectly) to satisfy obligations to persons who are not bona fide residents of such a possession or the United States.
 
-#### (2) Definitions
+#### (2) Commonwealth of Puerto Rico
+
+#### (A) In general
+
+&emsp;&emsp;If dividends are received during a taxable year by a corporation—
+
+&emsp;&emsp;&emsp;(i) created or organized in, or under the law of, the Commonwealth of Puerto Rico, and
+
+&emsp;&emsp;&emsp;(ii) with respect to which the requirements of subparagraphs (A), (B), and (C) of paragraph (1) are met for the taxable year,
+
+> &emsp;&emsp;subsection (a) shall be applied for such taxable year by substituting “10 percent” for “30 percent”.
+
+#### (B) Applicability
+
+&emsp;&emsp;If, on or after the date of the enactment of this paragraph, an increase in the rate of the Commonwealth of Puerto Rico's withholding tax which is generally applicable to dividends paid to United States corporations not engaged in a trade or business in the Commonwealth to a rate greater than 10 percent takes effect, this paragraph shall not apply to dividends received on or after the effective date of the increase.
+
+#### (3) Definitions
 
 #### (A) Foreign person
 
@@ -108,15 +124,53 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amount described in section 871(i)(2).
 
-#### (e) Cross reference
+#### (e) Tax not to apply to certain dividends of regulated investment companies
+
+#### (1) Interest-related dividends
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1) of subsection (a) on any interest-related dividend (as defined in section 871(k)(1)) received from a regulated investment company.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply—
+
+&emsp;&emsp;&emsp;(i) to any dividend referred to in section 871(k)(1)(B), and
+
+&emsp;&emsp;&emsp;(ii) to any interest-related dividend received by a controlled foreign corporation (within the meaning of section 957(a)) to the extent such dividend is attributable to interest received by the regulated investment company from a person who is a related person (within the meaning of section 864(d)(4)) with respect to such controlled foreign corporation.
+
+#### (C) Treatment of dividends received by controlled foreign corporations
+
+&emsp;&emsp;The rules of subsection (c)(5)(A) shall apply to any interest-related dividend received by a controlled foreign corporation (within the meaning of section 957(a)) to the extent such dividend is attributable to interest received by the regulated investment company which is described in clause (ii) of section 871(k)(1)(E) (and not described in clause (i) or (iii) of such section).
+
+#### (2) Short-term capital gain dividends
+
+&emsp;No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capital gain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
+
+#### (f) Cross reference
 
 &emsp;&emsp;<b>For doubling of tax on corporations of certain foreign countries, see section 891.</b>
 
 &emsp;&emsp;<b>For special rules for original issue discount, see section 871(g).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(a), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 92–178, title III, §313(a), (c), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 92–606, §1(e)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title XIX, §1901(b)(3)(I), Oct. 4, 1976, 90 Stat. 1793; Pub. L. 98–369, div. A, title I, §§42(a)(10), 127(b), 128(b), 130(a), July 18, 1984, 98 Stat. 557, 650, 654, 660; Pub. L. 99–514, title XII, §§1211(b)(6), 1214(c)(2), 1223(b)(2), 1273(b)(1), (2)(A), title XVIII, §§1810(d)(1)(B), (3)(C), (e)(2)(B), 1899A(22), (23), (68), Oct. 22, 1986, 100 Stat. 2536, 2542, 2558, 2595, 2596, 2825, 2826, 2959, 2962; Pub. L. 100–647, title I, §1012(i)(17), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §13237(a)(2), (c)(2), (3), Aug. 10, 1993, 107 Stat. 507, 508.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(a), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 92–178, title III, §313(a), (c), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 92–606, §1(e)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title XIX, §1901(b)(3)(I), Oct. 4, 1976, 90 Stat. 1793; Pub. L. 98–369, div. A, title I, §§42(a)(10), 127(b), 128(b), 130(a), July 18, 1984, 98 Stat. 557, 650, 654, 660; Pub. L. 99–514, title XII, §§1211(b)(6), 1214(c)(2), 1223(b)(2), 1273(b)(1), (2)(A), title XVIII, §§1810(d)(1)(B), (3)(C), (e)(2)(B), 1899A(22), (23), (68), Oct. 22, 1986, 100 Stat. 2536, 2542, 2558, 2595, 2596, 2825, 2826, 2959, 2962; Pub. L. 100–647, title I, §1012(i)(17), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §13237(a)(2), (c)(2), (3), Aug. 10, 1993, 107 Stat. 507, 508; Pub. L. 108–357, title IV, §§411(a)(2), 420(a), (c), Oct. 22, 2004, 118 Stat. 1503, 1513, 1514; Pub. L. 109–135, title IV, §412(jj), Dec. 21, 2005, 119 Stat. 2639.)
+
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+
+2005—Subsec. (e)(1)(C). Pub. L. 109–135 inserted “interest-related dividend received by a controlled foreign corporation” after “shall apply to any”.
+
+2004—Subsec. (b). Pub. L. 108–357, §420(c)(1), substituted “possessions” for “Guam and Virgin Islands corporations” in heading.
+
+Subsec. (b)(1). Pub. L. 108–357, §420(c)(2), substituted “Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands” for “In general” in heading.
+
+Subsec. (b)(2), (3). Pub. L. 108–357, §420(a), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (e), (f). Pub. L. 108–357, §411(a)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1993—Subsec. (c)(2)(B)(ii). Pub. L. 103–66, §13237(c)(2), substituted “section 871(h)(5)” for “section 871(h)(4)”.
 
@@ -188,6 +242,12 @@ Subsec. (a)(3). Pub. L. 92–178, §313(c), designated existing provisions as su
 
 1966—Subsec. (a). Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, substituted the concept of amounts received from sources within the United States by foreign corporations but not effectively connected with the conduct of a trade or business within the United States for the concept of amounts received from sources within the United States by foreign corporations not engaged in trade or business within the United States as the amount upon which the existing 30 percent levy should be imposed, and added contingent income received from the sale of patents and other intangibles and amounts of original issue discount which are treated as ordinary income received on retirement or sale or exchange of bonds or other evidences of indebtedness issued after Sept. 28, 1965, to the specified types of fixed or determinable income.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 411(a)(2) of Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
+
+Pub. L. 108–357, title IV, §420(d), Oct. 22, 2004, 118 Stat. 1514, provided that: “The amendments made by this section \[amending this section and section 1442 of this title\] shall apply to dividends paid after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to interest received after Dec. 31, 1993, see section 13237(d) of Pub. L. 103–66, set out as a note under section 871 of this title.
@@ -224,7 +284,7 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1972 Amendment
 
-Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1(e)(1) \[amending thissection\] shall apply with respect to taxable years beginning after December 31, 1971.”
+Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1(e)(1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
 
 #### Effective Date of 1971 Amendment
 
@@ -241,8 +301,4 @@ For nonapplication of amendments by sections 1211(b)(6) and 1214(c)(2) of Pub. L
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 306, 814, 842, 860G, 864, 871, 882, 884, 887, 891, 906, 1276, 1278, 1442, 1444, 1563, 6012, 6655 of this title; title 48 section 1421i.
 

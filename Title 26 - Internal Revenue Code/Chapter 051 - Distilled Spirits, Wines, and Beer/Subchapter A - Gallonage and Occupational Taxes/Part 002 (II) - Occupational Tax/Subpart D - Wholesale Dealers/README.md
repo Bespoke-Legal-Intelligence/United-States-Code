@@ -12,6 +12,19 @@ Subpart D—Wholesale Dealers
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Subpart and Redesignation of Subpart F as Subpart B
+
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(C), (b)(3)(A), (B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this subpart, other than sections 5114 and 5116, is repealed and subpart F of this part and sections 5131 to 5134 are redesignated as subpart B and sections 5111 to 5114, respectively, and subpart B analysis is amended to read as follows:</i>
+
+|  |  |
+| :--- | ---: |
+| <i>5111.</i> | <i>Eligibility.</i> |
+| <i>5112.</i> | <i>Registration and regulation.</i> |
+| <i>5113.</i> | <i>Investigation of claims.</i> |
+| <i>5114.</i> | <i>Drawback.</i> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Prior Provisions
 
 A prior subpart D, consisting of sections 5111 to 5116, related to wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

@@ -26,7 +26,7 @@ Subsection (a) shall not apply to—
 
 #### (c) Determination of cost of insurance
 
-For purposes of this section and section 6052, the cost of group-term insurance on the life of an employee provided during any period shall be determined on the basis of uniform premiums\(computed on the basis of 5-year age brackets) prescribed by regulations by the Secretary.
+For purposes of this section and section 6052, the cost of group-term insurance on the life of an employee provided during any period shall be determined on the basis of uniform premiums (computed on the basis of 5-year age brackets) prescribed by regulations by the Secretary.
 
 #### (d) Nondiscrimination requirements
 
@@ -102,7 +102,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 &emsp;&emsp;&emsp;(ii) the term “church employee” shall not include an employee of—
 
-&emsp;&emsp;&emsp;&emsp;(I) an organization described in section 170(b)(1)(A)(ii) above the secondary school level (other than a school for religious training),
+&emsp;&emsp;&emsp;&emsp;(I) an organization described in section 170(b)(1)(A)(ii) above the secondaryschool level (other than a school for religious training),
 
 &emsp;&emsp;&emsp;&emsp;(II) an organization described in section 170(b)(1)(A)(iii), and
 
@@ -186,7 +186,7 @@ Special rule for collective bargaining plan.—In the case of a plan maintained 
 
 &emsp;“(B) January 1, 1991.
 
-> A plan shall not be required to take into account employees to which the preceding sentence applies for purposes of applying section 89 of the Internal Revenue Code of 1986 (as added by this section) to employees to which the preceding sentence does not apply for any year preceding the year described in the preceding sentence.
+> A plan shall not be required to take into account employees to which the preceding sentence applies forpurposes of applying section 89 of the Internal Revenue Code of 1986 (as added by this section) to employees to which the preceding sentence does not apply for any year preceding the year described in the preceding sentence.
 
 “(3)
 
@@ -204,7 +204,7 @@ Cafeteria plans.—The amendments made by subsection (d)(2) \[amending sections 
 
 Certain plans maintained by educational institutions.—If an educational organization described in section 170(b)(1)(A)(ii) of the Internal Revenue Code of 1986 makes an election under this paragraph with respect to a plan described in section 125(c)(2)(C) of such Code, the amendments made by this section shall apply with respect to such plan for plan years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
-Section 1827(a)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1827(a)(2) of Pub. L. 99–514 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Amendment by section 1827(c), (d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -261,8 +261,4 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 83, 125, 414, 505, 6039D, 6052, 7701 of this title.
 

@@ -54,3 +54,17 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Functions of President under subsec. (b) of this section delegated to Director of the Office of Management and Budget by section 4(e) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
+#### Availability of Funds
+
+Pub. L. 109–97, title VII, §722, Nov. 10, 2005, 119 Stat. 2152, provided that: “Hereafter, notwithstanding section 412 of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1736f), any balances available to carry out title III of such Act \[7 U.S.C. 1727 et seq.\] as of the date of enactment of this Act \[Nov. 10, 2005\], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act \[7 U.S.C. 1721 et seq.\].”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. A, title VII, §724, Dec. 8, 2004, 118 Stat. 2841.
+
+Pub. L. 108–199, div. A, title VII, §724, Jan. 23, 2004, 118 Stat. 34.
+
+Pub. L. 108–7, div. A, title VII, §727, Feb. 20, 2003, 117 Stat. 42.
+
+Pub. L. 107—76, title VII, §730, Nov. 28, 2001, 115 Stat. 736.
+

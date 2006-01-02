@@ -38,7 +38,3 @@ Consultation With OPM.—Regulations under this section shall be prescribed in c
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1613 of this title.
-

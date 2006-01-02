@@ -28,7 +28,7 @@ The Commission shall establish, by rule, minimum criteria for the issuance of sp
 
 (2) The Commission shall establish reasonable sales prices for the special nuclear material licensed and distributed by sale under this section. Such sales prices shall be established on a nondiscriminatory basis which, in the opinion of the Commission, will provide reasonable compensation to the Government for such special nuclear material.
 
-(3) The Commission is authorized to enter into agreements with licensees for such period of time as the Commission may deem necessary or desirable to distribute to such licensees such quantities of special nuclear material as may benecessary for the conduct of the licensed activity. In such agreements, the Commission may agree to repurchase any special nuclear material licensed and distributed by sale which is not consumed in the course of the licensed activity, or any uranium remaining after irradiation of such special nuclear material, at a repurchase price not to exceed the Commission's sale price for comparable special nuclear material or uranium in effect at the time of delivery of such material to the Commission.
+(3) The Commission is authorized to enter into agreements with licensees for such period of time as the Commission may deem necessary or desirable to distribute to such licensees such quantities of special nuclear material as may be necessary for the conduct of the licensed activity. In such agreements, the Commission may agree to repurchase any special nuclear material licensed and distributed by sale which is not consumed in the course of the licensed activity, or any uranium remaining after irradiation of such special nuclear material, at a repurchase price not to exceed the Commission's sale price for comparable special nuclear material or uranium in effect at the time of delivery of such material to the Commission.
 
 (4) The Commission may make a reasonable charge, determined pursuant to this section, for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensed and distributed by lease under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
 
@@ -78,7 +78,7 @@ Provisions similar to this section were contained in section 1805(a)(4) of this 
 
 #### Amendments
 
-1992—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted “or grant” for “grant,” and struck out “or through the provision of production or enrichment services” before “: <i>Provided, however</i>” and before “to any person”.
+1992—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted “or grant” for “grant,” and struck out “orthrough the provision of production or enrichment services” before “: <i>Provided, however</i>” and before “to any person”.
 
 1967—Subsec. (c)(1). Pub. L. 90–190, §10, inserted “or through the provision of production or enrichment services” wherever appearing.
 

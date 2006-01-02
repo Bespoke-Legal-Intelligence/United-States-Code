@@ -8,7 +8,7 @@
 
 #### (2) Qualified 10-percent owned foreign corporation
 
-&emsp;For purposes of this subsection, the term “qualified 10-percent owned foreign corporation” means any foreign corporation (other than a foreign personal holding company or passive foreign investment company) if at least 10 percent of the stock of such corporation (by vote and value) is owned by the taxpayer.
+&emsp;For purposes of this subsection, the term “qualified 10-percent owned foreign corporation” means any foreign corporation (other than a passive foreign investment company) if at least 10 percent of the stock of such corporation (by vote and value) is owned by the taxpayer.
 
 #### (3) U.S.-source portion
 
@@ -32,7 +32,7 @@
 
 #### (6) Special rule
 
-&emsp;If the 1st day on which the requirements of paragraph (2) are met with respect to any foreign corporation is in a taxable year of such corporation beginning after December 31, 1986, the post-1986 undistributed earnings and the post-1986 undistributed U.S. earnings of such corporation shall be determined by only taking into account periods beginning on and after the 1st day of the 1st taxable year in which such requirements are met.
+&emsp;If the 1st day on which the requirements of paragraph (2) are met with respect to any foreign corporation is in a taxable year of such corporation beginning after December 31, 1986, the post-1986 undistributed earnings and thepost-1986 undistributed U.S. earnings of such corporation shall be determined by only taking into account periods beginning on and after the 1st day of the 1st taxable year in which such requirements are met.
 
 #### (7) Coordination with subsection (b)
 
@@ -70,7 +70,7 @@
 
 #### (2) Eligible dividends
 
-&emsp;Paragraph (1) shall apply only to dividends which are paid out of the earnings and profitsof a foreign corporation for a taxable year during which—
+&emsp;Paragraph (1) shall apply only to dividends which are paid out of the earnings and profits of a foreign corporation for a taxable year during which—
 
 &emsp;&emsp;(A) all of its outstanding stock is owned (directly or indirectly) by the domestic corporation to which such dividends are paid; and
 
@@ -116,9 +116,9 @@
 
 #### (B) Effectively connected income
 
-&emsp;&emsp;The term “effectively connected income” means any income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States and is subject to tax under this chapter. Such term shall not include any foreign trade income.
+&emsp;&emsp;The term “effectively connected income” means any income which is effectively connected (or treated as effectively connected)with the conduct of a trade or business in the United States and is subject to tax under this chapter. Such term shall not include any foreign trade income.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(<i>l</i>)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(<i>l</i>)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### References in Text
 
@@ -127,6 +127,8 @@ Section 1562, referred to in subsec. (b)(3), was repealed by Pub. L. 91–172, t
 Sections 923 and 927, referred to in subsec. (c)(2), (4)(A), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–357 struck out “foreign personal holding company or” after “(other than a”.
 
 1989—Subsec. (a)(8). Pub. L. 101–239 made clarifying amendment to directory language of Pub. L. 100–647, §1012(<i>l</i>)(2)(A), see 1988 Amendment note below.
 
@@ -142,7 +144,7 @@ Property distributions.—For purposes of this section, the amount of any distri
 
 1987—Subsec. (c)(1)(B). Pub. L. 100–203 substituted “70 percent (80 percent in the case of dividends from a 20-percent owned corporation as defined in section 243(c)(2))” for “85 percent”.
 
-1986—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted “Dividends from 10-percent owned foreign corporations” for “General rule” as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as “10-percent owned foreign corporations” for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction inthe case of a corporation a percentage of dividends received.
+1986—Subsec. (a). Pub. L. 99–514, §1226(a), in amending subsec. (a) generally, substituted “Dividends from 10-percent owned foreign corporations” for “General rule” as heading, and in text substituted provisions set out in nine numbered paragraphs allowing for deduction for dividends received from certain foreign corporations qualifying as “10-percent owned foreign corporations” for former provisions which directed that, in the case of dividends received from a foreign corporation (other than a foreign personal holding company) which was subject to taxation under this chapter, if, for an uninterrupted period of not less than 36 months ending with the close of such foreign corporation's taxable year in which such dividends were paid (or, if the corporation had not been in existence for 36 months at the close of such taxable year, for the period the foreign corporation had been in existence as of the close of such taxable year) such foreign corporation had been engaged in trade or business within the United States and if 50 percent or more of the gross income of such corporation from all sources for such period was effectively connected with the conduct of a trade or business within the United States, there was allowed as a deduction in the case of a corporation a percentage of dividends received.
 
 Subsec. (c)(1). Pub. L. 99–514, §1876(d)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a domestic corporation, there shall be allowed as a deduction an amount equal to 100 percent of any dividend received by such corporation from another corporation which is distributed out of earnings and profits attributable to foreign trade income for a period during which such other corporation was a FSC. The deduction allowable under the preceding sentence with respect to any dividend shall be in lieu of any deduction allowable under subsection (a) or (b) with respect to such dividend.”
 
@@ -154,11 +156,15 @@ Subsec. (c)(4). Pub. L. 99–514, §1876(j), redesignated former par. (3) as (4)
 
 1984—Subsec. (c). Pub. L. 98–369 added subsec. (c), redesignated former subsec. (c) as (d), and substituted therein “this section” for “subsections (a) and (b)”.
 
-1966—Subsec. (a). Pub. L. 89–809, §104(d), (e)(2), substituted “and if 50 percent or more of the gross income of such corporation from all sources for such period is effectively connected with the conduct of a trade or business within the United States” for “and has derived 50 percent or more of its gross income from sources within the United States” in provisions preceding par. (1), “which is effectively connected with the conduct of a trade or business within the United States” for “from sources within the United States” in par. (1), “, which is effectively connected with the conduct of a trade or business within the United States,” for “from sources within the United States” in par. (2), and inserted provisions following par. (2).
+1966—Subsec. (a). Pub. L. 89–809, §104(d), (e)(2), substituted “and if 50 percent or more of the gross income of such corporation from all sources for such period is effectively connected with the conduct of a trade or business within the United States” for “and has derived 50 percent or more of its gross income from sources within the United States” in provisions preceding par. (1), “which is effectively connected with the conduct of a trade or business within the United States” for “from sources within the United States” in par. (1), “, which is effectively connected with the conduct of a trade or business within the United States,” for “from sources within the United States” in par. (2), and inserted provisions following par. (2).
 
 Subsecs. (b), (c). Pub. L. 89–809, §104(e)(1), (3), added subsec. (b), redesignated former subsec. (b) as (c), and substituted therein “subsections (a) and (b)” for “subsection (a)”.
 
 1962—Subsec. (b). Pub. L. 87–834 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -224,11 +230,7 @@ Section 1006(b)(1) of Pub. L. 100–647 provided that: “In the case of dividen
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 78, 163, 172, 243, 246, 246A, 263, 277, 301, 469, 512, 805, 810, 812, 815, 832, 833, 861, 864, 1059, 1244 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

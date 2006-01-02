@@ -58,7 +58,7 @@ The Secretary shall—
 
 #### (5) Written determination
 
-&emsp;Within 30 days of the Secretary's receipt of the findings, recommendations, and record, the Secretary shall, on the basis of the record, make a written determination of the appropriate remedial action, if any, to be taken by the local educational agency, the schedule for completion of the remedial action, and the reasons for the Secretary's decision.
+&emsp;Within 30 days of the Secretary's receipt of the findings, recommendations, and record, the Secretary shall, on the basis of the record, make a written determination of the appropriate remedial action, if any, to be taken bythe local educational agency, the schedule for completion of the remedial action, and the reasons for the Secretary's decision.
 
 #### (6) Copies provided
 
@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (8) Withholding
 
-&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required,the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
+&emsp;If the local educational agency rejects the determination of the Secretary, or if the remedy required is not undertaken within the time established and the Secretary determines that an extension of the time established will not effectively encourage the remedy required, the Secretary shall withhold payment of all moneys to which such local agency is eligible under section 7703 of this title until such time as the remedy required is undertaken, except where the complaining tribe or its designee formally requests that such funds be released to the local educational agency, except that the Secretary may not withhold such moneys during the course of the school year if the Secretary determines that such withholding would substantially disrupt the educational programs of the local educational agency.
 
 #### (9) Rejection of determination
 

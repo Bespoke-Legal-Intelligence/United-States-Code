@@ -8,10 +8,13 @@
 | [194\.](%C2%A7%2000194%20-%20Limitations%20on%20personnel.md) | Limitations on personnel. |
 | [195\.](%C2%A7%2000195%20-%20Defense%20Automated%20Printing%20Service%20applicability%20of%20Federal%20printing%20requirements.md) | Defense Automated Printing Service: applicability of Federal printing requirements. |
 | [196\.](%C2%A7%2000196%20-%20Department%20of%20Defense%20Test%20Resource%20Management%20Center.md) | Department of Defense Test Resource Management Center. |
+| [197\.](%C2%A7%2000197%20-%20Defense%20Logistics%20Agency%20fees%20charged%20for%20logistics%20information.md) | Defense Logistics Agency: fees charged for logistics information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title X, §1010(b), Oct. 28, 2004, 118 Stat. 2038, added item 197.
 
 2002—Pub. L. 107–314, div. A, title II, §231(a)(2), Dec. 2, 2002, 116 Stat. 2489, added item 196.
 
@@ -36,3 +39,4 @@
 - [&sect; 00194 - Limitations on personnel](%C2%A7%2000194%20-%20Limitations%20on%20personnel.md)
 - [&sect; 00195 - Defense Automated Printing Service applicability of Federal printing requirements](%C2%A7%2000195%20-%20Defense%20Automated%20Printing%20Service%20applicability%20of%20Federal%20printing%20requirements.md)
 - [&sect; 00196 - Department of Defense Test Resource Management Center](%C2%A7%2000196%20-%20Department%20of%20Defense%20Test%20Resource%20Management%20Center.md)
+- [&sect; 00197 - Defense Logistics Agency fees charged for logistics information](%C2%A7%2000197%20-%20Defense%20Logistics%20Agency%20fees%20charged%20for%20logistics%20information.md)

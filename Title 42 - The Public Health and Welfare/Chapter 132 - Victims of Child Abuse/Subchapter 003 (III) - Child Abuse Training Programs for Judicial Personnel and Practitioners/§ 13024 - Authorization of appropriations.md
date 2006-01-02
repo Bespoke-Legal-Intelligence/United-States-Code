@@ -16,11 +16,11 @@ No funds are authorized to be appropriated for a fiscal year to carry out this s
 
 #### References in Text
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended. Title II of the Act is classified principally to subchapter II (§5611 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is Pub. L. 93–415,Sept. 7, 1974, 88 Stat. 1109, as amended. Title II of the Act is classified principally to subchapter II (§5611 et seq.) of chapter 72 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Textread as follows: “There are authorized to be appropriated to carry out this subchapter—
+2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
 
 &emsp;“(1) $750,000 for fiscal year 1996;
 

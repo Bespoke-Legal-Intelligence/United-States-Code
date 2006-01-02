@@ -10,7 +10,7 @@ The Attorney General shall, within six months of October 13, 1980, issue guideli
 
 &emsp;(3) a recognition of special concern for privacy interests in cases in which a search or seizure for such documents would intrude upon a known confidential relationship such as that which may exist between clergyman and parishioner; lawyer and client; or doctor and patient; and
 
-&emsp;(4) a requirement that an application for a warrant to conduct a search governed by this subchapter be approved by an attorney for the government, except that in an emergency situation the application may be approved by another appropriate supervisory official if within 24 hours of such emergency the appropriate United States Attorney is notified.
+&emsp;(4) a requirement that an application for a warrant to conduct a search governed by this subchapter be approved by an attorney for thegovernment, except that in an emergency situation the application may be approved by another appropriate supervisory official if within 24 hours of such emergency the appropriate United States Attorney is notified.
 
 #### (b) Use of search warrants; reports to Congress
 

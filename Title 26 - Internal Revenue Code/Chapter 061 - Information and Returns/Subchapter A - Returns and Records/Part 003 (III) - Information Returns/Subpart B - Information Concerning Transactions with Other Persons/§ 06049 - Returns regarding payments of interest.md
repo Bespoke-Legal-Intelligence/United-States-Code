@@ -216,13 +216,31 @@ For purposes of this section—
 
 &emsp;&emsp;The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
 
-(Added Pub. L. 87–834, §19(c), Oct. 16, 1962, 76 Stat. 1055; amended Pub. L. 91–172, title IV, §413(c), (d), Dec. 30, 1969, 83 Stat. 611, 612; Pub. L. 94–455, title XIX, §§1901(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 97–248, title III, §§303(b), 308(a), 309(a), Sept. 3, 1982, 96 Stat. 587, 591; Pub. L. 97–424, title V, §547(b)(4), Jan. 6, 1983, 96 Stat. 2200; Pub. L. 98–67, title I, §§102(a), (e), 108(a), Aug. 5, 1983, 97 Stat. 369, 370, 383; Pub. L. 98–369, div. A, title I, §42(a)(14), title IV, §474(r)(29)(J), July 18, 1984, 98 Stat. 557, 845; Pub. L. 99–514, title VI, §674, title XII, §1214(c)(4), title XV, §1501(c)(5), title XVIII, §1803(a)(14)(C), Oct. 22, 1986, 100 Stat. 2319, 2543, 2737, 2797; Pub. L. 100–647, title I, §1006(t)(24), (v), Nov. 10, 1988, 102 Stat. 3426, 3427; Pub. L. 104–168, title XII, §1201(a)(6), July 30, 1996, 110 Stat. 1469.)
+#### (8) Reporting of credit on clean renewable energy bonds
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of subsection (a), the term “interest” includes amounts includible in gross income under section 54(g) or 1400N(<i>l</i>)(6) and such amounts shall be treated as paid on the credit allowance date (as defined in section 54(b)(4) or 1400N(<i>l</i>)(2)(D), as the case may be).
+
+#### (B) Reporting to corporations, etc.
+
+&emsp;&emsp;Except as otherwise provided in regulations, in the case of any interest described in subparagraph (A), subsection (b)(4) shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i) of such subsection.
+
+#### (C) Regulatory authority
+
+&emsp;&emsp;The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
+
+(Added Pub. L. 87–834, §19(c), Oct. 16, 1962, 76 Stat. 1055; amended Pub. L. 91–172, title IV, §413(c), (d), Dec. 30, 1969, 83 Stat. 611, 612; Pub. L. 94–455, title XIX, §§1901(b)(6)(A), 1906(b)(13)(A),Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 97–248, title III, §§303(b), 308(a), 309(a), Sept. 3, 1982, 96 Stat. 587, 591; Pub. L. 97–424, title V, §547(b)(4), Jan. 6, 1983, 96 Stat. 2200; Pub. L. 98–67, title I, §§102(a), (e), 108(a), Aug. 5, 1983, 97 Stat. 369, 370, 383; Pub. L. 98–369, div. A, title I, §42(a)(14), title IV, §474(r)(29)(J), July 18, 1984, 98 Stat. 557, 845; Pub. L. 99–514, title VI, §674, title XII, §1214(c)(4), title XV, §1501(c)(5), title XVIII, §1803(a)(14)(C), Oct. 22, 1986, 100 Stat. 2319, 2543, 2737, 2797; Pub. L. 100–647, title I, §1006(t)(24), (v), Nov. 10, 1988, 102 Stat. 3426, 3427; Pub. L. 104–168, title XII, §1201(a)(6), July 30, 1996, 110 Stat. 1469; Pub. L. 109–58, title XIII, §1303(b), Aug. 8, 2005, 119 Stat. 996; Pub. L. 109–135, title I, §101(b)(2), Dec. 21, 2005, 119 Stat. 2593.)
 
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (b)(4)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+2005—Subsec. (d)(8). Pub. L. 109–58 added par. (8).
+
+Subsec. (d)(8)(A). Pub. L. 109–135 inserted “or 1400N(<i>l</i>)(6)” after “section 54(g)” and “or 1400N(<i>l</i>)(2)(D), as the case may be” after “section 54(b)(4)”.
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
 
@@ -276,6 +294,12 @@ Subsec. (b)(1), (2)(A), (B). Pub. L. 94–455, §§1901(b)(6)(A), 1906(b)(13)(A)
 
 Subsec. (c). Pub. L. 91–172, §413(d), further qualified requirement to furnish statement by reference to aggregate amount includible in gross income.
 
+#### Effective Date of 2005 Amendments
+
+Amendment by Pub. L. 109–135 applicable to taxable years ending on or after Aug. 28, 2005, see section 101(c)(1) of Pub. L. 109–135, set out as an Effective Date note under section 1400N of this title.
+
+Amendment by Pub. L. 109–58 applicable to bonds issued after Dec. 31, 2005, see section 1303(e) of Pub. L. 109–58, as amended, set out as an Effective Date note under section 54 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
@@ -292,7 +316,7 @@ Amendment by section 1214(c)(4) of Pub. L. 99–514 applicable to payments made 
 
 Amendment by section 1501(c)(5) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Oct. 22, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
-Amendment by section 1803(a)(14)(C) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L.98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1803(a)(14)(C) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -325,8 +349,4 @@ For nonapplication of amendment by section 1214(c)(4) of Pub. L. 99–514 to the
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1276, 1278, 3406, 6041, 6042, 6050N, 6724 of this title.
 

@@ -50,7 +50,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “design control activity”, with respect to an aviation critical safety item, means the systems command of a military department that is specifically responsible for ensuring the airworthiness of an aviation system or equipment in which the item is to be used.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26,§7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, 101 Stat. 281, 282, 284; Pub. L. 108–136, div. A, title VIII, §802(d), Nov. 24, 2003, 117 Stat. 1541.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593; amended Pub. L. 100–26, §7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, 101 Stat. 281, 282, 284; Pub. L. 108–136, div. A, title VIII, §802(d), Nov. 24, 2003, 117 Stat. 1541.)
 
 #### Amendments
 

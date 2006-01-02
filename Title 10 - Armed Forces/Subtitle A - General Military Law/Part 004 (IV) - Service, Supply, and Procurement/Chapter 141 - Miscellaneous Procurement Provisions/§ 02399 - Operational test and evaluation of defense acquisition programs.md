@@ -18,7 +18,7 @@ Operational Test and Evaluation.—(1) Operational testing of a major defense ac
 
 &emsp;(A) whether the test and evaluation performed were adequate; and
 
-&emsp;(B) whether the results of such test and evaluation confirm that the items or components actually tested are effective and suitable for combat.
+&emsp;(B) whether the results of such test and evaluation confirm that the items or componentsactually tested are effective and suitable for combat.
 
 (3) The Director shall submit each report under paragraph (2) to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the congressional defense committees. Each such report shall be submitted to those committees in precisely the same form and with precisely the same content as the report originally was submitted to the Secretary and Under Secretary and shall be accompanied by such comments as the Secretary may wish to make on the report.
 
@@ -74,7 +74,7 @@ A prior section 2399, added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat
 
 #### Amendments
 
-2003—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
+2003—Subsec. (h). Pub. L. 108–136 substituted “Operational Test and Evaluation Defined” for “Definitions” in heading, struck out introductory provisions which read “In this section:”, substituted “In this section, the term” for “(1) The term”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out former par. (2) whichdefined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
 
 2002—Subsec. (a)(2). Pub. L. 107–314 substituted “means a conventional weapons system that” for “means” in introductory provisions and struck out “a conventional weapons system that” before “is a major system” in subpar. (A).
 
@@ -137,8 +137,4 @@ Submission of Reports.—The reports under subsections (b) and (c) shall be subm
 “(e)
 
 Definition.—For purposes of this section, the term ‘concurrency’ means the degree of overlap between the development and production processes of an acquisition program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2400 of this title.
 

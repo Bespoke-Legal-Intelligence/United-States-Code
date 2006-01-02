@@ -4,7 +4,3 @@ Unless retained as provided in section 12646 or 12686 of this title, a captain o
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2950.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14513, 14701, 14703 of this title.
-

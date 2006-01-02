@@ -132,7 +132,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (2) Objections not raised in hearing
 
-&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable groundsfor the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
+&emsp;The court shall not consider any objection that was not raised in the hearing conducted pursuant to subsection (g)(1) of this section unless a demonstration is made of extraordinary circumstances causing the failure to raise the objection. If any party demonstrates to the satisfaction of the court that additional evidence not presented at the hearing is material and that there were reasonable grounds for the failure to present such evidence at the hearing, the court shall remand the matter to the Secretary for consideration of such additional evidence.
 
 #### (3) Scope of review
 
@@ -204,7 +204,7 @@ Revocation by Secretary.—If the Secretary determines that a housing credit age
 
 &emsp;“(1) may inform the housing credit agency that the agency may no longer submit certification of subsidy layering compliance under this section; and
 
-&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
+&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuantto section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
 
 “(d)
 

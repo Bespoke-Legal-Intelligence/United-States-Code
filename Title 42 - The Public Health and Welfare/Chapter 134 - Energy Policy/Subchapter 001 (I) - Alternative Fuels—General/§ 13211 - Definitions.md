@@ -36,7 +36,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that is capable of operating on alternative fuel and is capable of operating on gasoline or diesel fuel;
 
-&emsp;(9) the term “fleet” means a group of 20 or more light duty motor vehicles, used primarily in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by a governmental entity or other person who owns, operates, leases, or otherwise controls 50 or more such vehicles, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person, except that such term does not include—
+&emsp;(9) the term “fleet” means a group of 20 or more light duty motor vehicles, used primarily in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, orotherwise controlled by a governmental entity or other person who owns, operates, leases, or otherwise controls 50 or more such vehicles, by any person who controls such person, by any person controlled by such person, and by any person under common control with such person, except that such term does not include—
 
 &emsp;&emsp;(A) motor vehicles held for lease or rental to the general public;
 
@@ -46,7 +46,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;&emsp;(D) law enforcement motor vehicles;
 
-&emsp;&emsp;(E) emergency motor vehicles;
+&emsp;&emsp;(E) emergency motor vehicles, including vehicles directly used in the emergency repair of transmission lines and in the restoration of electricity service following power outages, as determined by the Secretary;
 
 &emsp;&emsp;(F) motor vehicles acquired and used for military purposes that the Secretary of Defense has certified to the Secretary must be exempt for national security reasons;
 
@@ -70,7 +70,7 @@ For purposes of this subchapter, subchapter II of this chapter, and subchapter I
 
 &emsp;(14) the term “replacement fuel” means the portion of any motor fuel that is methanol, ethanol, or other alcohols, natural gas, liquefied petroleum gas, hydrogen, coal derived liquid fuels, fuels (other than alcohol) derived from biological materials, electricity (including electricity from solar energy), ethers, or any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits.
 
-(Pub. L. 102–486, title III, §301, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229.)
+(Pub. L. 102–486, title III, §301, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–58, title VII, §707, Aug. 8, 2005, 119 Stat. 818.)
 
 #### References in Text
 
@@ -85,6 +85,8 @@ The Outer Continental Shelf Lands Act, referred to in par. (7), is act Aug. 7, 1
 In pars. (6)(A) and (8)(A), “section 32901(a)(7) of title 49” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information and Cost Savings Act” and “section 32901(a)(8) of title 49” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+2005—Par. (9)(E). Pub. L. 109–58 inserted “, including vehicles directly used in the emergency repair of transmission lines and in the restoration of electricity service following power outages, as determined by the Secretary” before semicolon at end.
 
 2000—Par. (2). Pub. L. 106–554 inserted “, including liquid fuels domestically produced from natural gas” after “natural gas”.
 

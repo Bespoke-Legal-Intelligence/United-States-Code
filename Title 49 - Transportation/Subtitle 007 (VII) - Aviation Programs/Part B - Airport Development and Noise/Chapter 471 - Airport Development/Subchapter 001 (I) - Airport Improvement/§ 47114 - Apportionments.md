@@ -68,6 +68,16 @@ Special rule for fiscal years 2004 and 2005.—Notwithstanding subparagraph (A) 
 
 &emsp;&emsp;&emsp;(iii) the reason that passenger boardings described in clause (i) were below 10,000 was the decrease in passengers following the terrorist attacks of September 11, 2001.
 
+&emsp;&emsp;(G)
+
+Special rule for fiscal year 2006.—Notwithstanding subparagraph (A) and the absence of scheduled passenger aircraft service at an airport, the Secretary may apportion in fiscal year 2006 to the sponsor of the airport an amount equal to $500,000, if the Secretary finds that—
+
+&emsp;&emsp;&emsp;(i) the passenger boardings at the airport were below 10,000 in calendar year 2004;
+
+&emsp;&emsp;&emsp;(ii) the airport had at least 10,000 passenger boardings and scheduled passenger aircraft service in either calendar year 2000 or 2001; and
+
+&emsp;&emsp;&emsp;(iii) the reason that passenger boardings described in clause (i) were below 10,000 was the decrease in passengers following the terrorist attacks of September 11, 2001.
+
 (2)
 
 Cargo airports.—
@@ -110,7 +120,7 @@ Population.—The term “population” means the population stated in the lates
 
 &emsp;(2)
 
-Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subject to apportionment for each fiscal year as follows:
+Apportionment.—Except as provided in paragraph (3), the Secretary shall apportion to the States 18.5 percent of the amount subjectto apportionment for each fiscal year as follows:
 
 &emsp;&emsp;(A) 0.66 percent of the apportioned amount to Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
@@ -190,7 +200,7 @@ Reducing Apportionments.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year under section 40117 of this title shall be reduced by an amount equal to—
+In general.—Subject to paragraph (3), an amount that would be apportioned under this section (except subsection (c)(2)) in a fiscal year to the sponsor of an airport having at least .25 percent of the total number of boardings each year in the United States and for which a fee is imposed in the fiscal year undersection 40117 of this title shall be reduced by an amount equal to—
 
 &emsp;&emsp;(A) in the case of a fee of $3.00 or less, 50 percent of the projected revenues from the fee in the fiscal year but not by more than 50 percent of the amount that otherwise would be apportioned under this section; and
 
@@ -212,7 +222,7 @@ In general.—Beginning with the fiscal year following the first calendar year i
 
 Effective period.—Subparagraph (A) shall be in effect for fiscal year 2004.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1268; Pub. L. 103–429, §6(66), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §121, Oct. 9, 1996, 110 Stat. 3217; Pub. L. 106–181, title I, §§104(a)–(d), 105(c), Apr. 5, 2000, 114 Stat. 67–71; Pub. L. 108–176, title I, §§146, 147, Dec. 12, 2003, 117 Stat. 2504; Pub. L. 109–115, div. A, title I, §109, Nov. 30, 2005, 119 Stat. 2402.)
 
 Historical and Revision Notes
 
@@ -309,7 +319,7 @@ Revision notes for 49:47114(c)(3)(A) are included to reflect changes made for cl
 | 47114(c) (1)(B) | 49 App.:2206(b)(1). | Sept. 3, 1982, Pub. L. 97–248, §507(b)(1), as amended May 26, 1994, Pub. L. 103–260, §103, 108 Stat. 698. |
 | 47114(c) (3)(B) | 49 App.:2206(b)(3). | Sept. 3, 1982, Pub. L. 97–248, §507(b)(3), as amended May 26, 1994, Pub. L. 103–260, §102, 108 Stat. 698. |
 
-In subsection (c)(3)(A) and (B), the words “If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection” are substituted for “In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)” for clarity.
+In subsection (c)(3)(A) and (B), the words “If this subparagraph requires reduction of an amount that otherwise would be apportioned under this subsection” aresubstituted for “In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)” for clarity.
 
 In subsection (c)(3)(A), the words “Except as provided in subparagraph (B) of this paragraph” are added for clarity. The words “the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 49.5 percent of the amount subject to apportionment for a fiscal year” are substituted for 49 App.:2206(b)(2)(A), as in effect on July 4, 1994, for clarity and to eliminate unnecessary words.
 
@@ -317,9 +327,11 @@ In subsection (c)(3)(B), the words “the total of all amounts apportioned under
 
 #### References in Text
 
-Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a)of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a) of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+2005—Subsec. (c)(1)(G). Pub. L. 109–115 added subpar. (G).
 
 2003—Subsec. (c)(1)(F). Pub. L. 108–176, §146(a), added subpar. (F).
 
@@ -393,7 +405,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -8,13 +8,13 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (1) In general
 
-&emsp;If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title.
+&emsp;If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treatedas a determination made under section 2414(a)(1) of this title.
 
 #### (2) WTO dispute settlement recommendations
 
 #### (A) Failure to implement recommendation
 
-&emsp;&emsp;If the measure or agreement referred to in subsection (a) of this section concerns theimplementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the Trade Representative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
+&emsp;&emsp;If the measure or agreement referred to in subsection (a) of this section concerns the implementation of a recommendation made pursuant to dispute settlement proceedings under the World Trade Organization, and the Trade Representative considers that the foreign country has failed to implement it, the Trade Representative shall make the determination in paragraph (1) no later than 30 days after the expiration of the reasonable period of time provided for such implementation under paragraph 21 of the Understanding on Rules and Procedures Governing the Settlement of Disputes that is referred to in section 3511(d)(16) of this title.
 
 #### (B) Revision of retaliation list and action
 
@@ -78,7 +78,7 @@ In General.—The Trade Representative shall monitor the implementation of each 
 
 “(b)
 
-Further Action.—If, on the basis of the monitoring carried out under subsection (a) of this section,the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title.”
+Further Action.—If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title.”
 
 1988—Pub. L. 100–418 amended section generally, substituting provisions relating to monitoring of foreign compliance for provisions relating to administration. See section 2419 of this title.
 

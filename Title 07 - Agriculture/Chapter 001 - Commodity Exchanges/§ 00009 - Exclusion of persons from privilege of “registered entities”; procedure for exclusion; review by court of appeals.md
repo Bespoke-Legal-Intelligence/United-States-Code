@@ -6,7 +6,7 @@ If the Commission has reason to believe that any person (other than a registered
 
 #### Codification
 
-Section is comprised of part of subsec. (c) of section 6 of act Sept. 21, 1922. A further provision of subsec. (c)is contained in section 15 of this title. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsecs. (d), (e), (f), and (g) of section 6 are classified to sections 13b, 9a, 9b, and 9c of this title, respectively.
+Section is comprised of part of subsec. (c) of section 6 of act Sept. 21, 1922. A further provision of subsec. (c) is contained in section 15 of this title. Subsecs. (a) and (b) of section 6 are classified to section 8 of this title. Subsecs. (d), (e), (f), and (g) of section 6 are classified to sections 13b, 9a, 9b, and 9c of this title, respectively.
 
 #### Amendments
 

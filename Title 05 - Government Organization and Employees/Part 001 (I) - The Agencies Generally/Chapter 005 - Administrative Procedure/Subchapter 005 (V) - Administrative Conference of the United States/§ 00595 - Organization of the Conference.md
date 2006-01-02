@@ -96,7 +96,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 1982—Subsec. (c)(13). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
-1972—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance ofsuch studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
+1972—Subsec. (c)(10). Pub. L. 92–526, §1(a), inserted provisions authorizing contracts for the performance of such studies with any public or private persons, etc., under title III of the Federal Property and Administrative Services Act of 1949, as amended, and substituted provisions authorizing the payment of experts and consultants in accordance with rates not in excess of the maximum rate of pay for grade GS–15 as provided in section 5332 of this title, for provisions authorizing the payment of such individuals at rates not in excess of $100 a day.
 
 Subsec. (c)(11) to (15). Pub. L. 92–526, §1(b), added pars. (11) to (13) and redesignated former pars. (11) and (12) as (14) and (15), respectively.
 

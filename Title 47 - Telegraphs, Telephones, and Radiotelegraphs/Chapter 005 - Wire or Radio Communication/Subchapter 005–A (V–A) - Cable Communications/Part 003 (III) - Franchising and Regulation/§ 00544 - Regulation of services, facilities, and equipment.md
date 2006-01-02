@@ -24,7 +24,7 @@ In the case of any franchise in effect on the effective date of this subchapter,
 
 (1) Nothing in this subchapter shall be construed as prohibiting a franchising authority and a cable operator from specifying, in a franchise or renewal thereof, that certain cable services shall not be provided or shall be provided subject to conditions, if such cable services are obscene or are otherwise unprotected by the Constitution of the United States.
 
-(2) In order to restrict the viewing of of of <sup>1</sup> programming which is obscene or indecent, uponthe request of a subscriber, a cable operator shall provide (by sale or lease) a device by which the subscriber can prohibit viewing of a particular cable service during periods selected by that subscriber.
+(2) In order to restrict the viewing of of of <sup>1</sup> programming which is obscene or indecent, upon the request of a subscriber, a cable operator shall provide (by sale or lease) a device by which the subscriber can prohibit viewing of a particular cable service during periods selected by that subscriber.
 
 (3)(A) If a cable operator provides a premium channel without charge to cable subscribers who do not subscribe to such premium channel, the cable operator shall, not later than 30 days before such premium channel is provided without charge—
 

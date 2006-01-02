@@ -1,6 +1,6 @@
 ### §455a. Report to Congress
 
-Annually after December 1, 1926, the Secretary of the Army shall submit through the President to Congress a detailed report of progress made under sections 455 to 455c of this title, together with his recommendations for further operations.
+Annually after December 1, 1926, the Secretary of the Army shall submit through the Presidentto Congress a detailed report of progress made under sections 455 to 455c of this title, together with his recommendations for further operations.
 
 (June 11, 1926, ch. 555, §2, 44 Stat. 727; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

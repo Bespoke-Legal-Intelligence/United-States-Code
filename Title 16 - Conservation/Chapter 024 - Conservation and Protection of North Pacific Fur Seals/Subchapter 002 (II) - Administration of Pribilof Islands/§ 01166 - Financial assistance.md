@@ -44,9 +44,9 @@
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for fiscal years 2001, 2002, 2003, 2004, and 2005—
+There are authorized to be appropriated to the Secretary—
 
-&emsp;(1) for assistance under subsection (a) of this section a total not to exceed—
+&emsp;(1) for assistance under subsection (a) of this section, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007 a total not to exceed—
 
 &emsp;&emsp;(A) $9,000,000, for grants to the City of St. Paul;
 
@@ -86,13 +86,17 @@ Each entity which receives assistance authorized under subsection (c) of this se
 
 Amounts authorized under subsection (c) of this section are intended by Congress to be provided in addition to the base funding appropriated to the National Oceanic and Atmospheric Administration in fiscal year 2000.
 
-(Pub. L. 89–702, title II, §206, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 840; Pub. L. 100–711, §9, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1931; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–244; Pub. L. 106–562, title I, §103, Dec. 23, 2000, 114 Stat. 2794.)
+(Pub. L. 89–702, title II, §206, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 840; Pub. L. 100–711, §9, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1931; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–244; Pub. L. 106–562, title I, §103, Dec. 23, 2000, 114 Stat. 2794; Pub. L. 109–59, title IV, §4403, Aug. 10, 2005, 119 Stat. 1775.)
 
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended. Title IV of the Act is classified generally to part D (§458aa et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–59, §4403(1), struck out “for fiscal years 2001, 2002, 2003, 2004, and 2005” after “Secretary” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 109–59, §4403(2), inserted “, for fiscal years 2001, 2002, 2003, 2004, 2005, 2006, and 2007” after “subsection (a) of this section” in introductory provisions.
 
 2000—Pub. L. 106–562 amended section generally, inserting section catchline and subsec. and par. headings and reenacting substantially identical text.
 

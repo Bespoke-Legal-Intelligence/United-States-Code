@@ -18,11 +18,13 @@
 | [714\.](%C2%A7%2000714%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md) | Final settlement of accounts: deceased members. |
 | [715\.](%C2%A7%2000715%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20activities%20under%20certain%20sections%20of%20this%20title.md) | Property loss; personal injury or death: activities under certain sections of this title. |
 | [716\.](%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md) | Claims for overpayment of pay and allowances, and travel and transportation allowances. |
-| [717\.](%C2%A7%2000717%20-%20Presentation%20of%20recognition%20items%20for%20retention%20purposes.md) | Presentation of recognition items for retention purposes. |
+| \[717. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §589(b)(2), Jan. 6, 2006, 119 Stat. 3279, struck out item 717 “Presentation of recognition items for retention purposes”.
 
 2004—Pub. L. 108–375, div. A, title V, §520(b)(2), Oct. 28, 2004, 118 Stat. 1887, added item 717.
 
@@ -59,4 +61,4 @@
 - [&sect; 00714 - Final settlement of accounts deceased members](%C2%A7%2000714%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md)
 - [&sect; 00715 - Property loss; personal injury or death activities under certain sections of this title](%C2%A7%2000715%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20activities%20under%20certain%20sections%20of%20this%20title.md)
 - [&sect; 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances](%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md)
-- [&sect; 00717 - Presentation of recognition items for retention purposes](%C2%A7%2000717%20-%20Presentation%20of%20recognition%20items%20for%20retention%20purposes.md)
+- [&sect; 00717 - Repealed. Pub. L. 109&#8211;163, div. A, title V, &sect;589(b)(2), Jan. 6, 2006, 119 Stat. 3279](%C2%A7%2000717%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7589%28b%29%282%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203279.md)

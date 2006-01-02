@@ -44,7 +44,7 @@ Section was formerly classified to section 1135d of this title prior to renumber
 
 #### Amendments
 
-1998—Pub. L. 105–244, §307(b), amended section catchline and text generally. Prior to amendment, text readas follows: “Eligibility to receive grants under this part is limited to—
+1998—Pub. L. 105–244, §307(b), amended section catchline and text generally. Prior to amendment, text read as follows: “Eligibility to receive grants under this part is limited to—
 
 &emsp;“(1) public and private nonprofit institutions that are minority institutions (as defined in section 1067k(3) of this title); and
 

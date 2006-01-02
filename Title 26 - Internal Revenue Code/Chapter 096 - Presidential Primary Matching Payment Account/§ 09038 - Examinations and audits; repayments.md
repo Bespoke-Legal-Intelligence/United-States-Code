@@ -32,7 +32,3 @@ All payments received by the Secretary under subsection (b) shall be deposited b
 
 1976—Subsecs. (b)(1), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9033, 9036, 9039, 9040 of this title.
-

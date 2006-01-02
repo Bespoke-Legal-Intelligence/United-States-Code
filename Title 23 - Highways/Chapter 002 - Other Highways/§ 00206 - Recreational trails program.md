@@ -64,7 +64,7 @@ Permissible uses.—Permissible uses of funds apportioned to a State for a fisca
 
 &emsp;&emsp;&emsp;(i) permissible under other law;
 
-&emsp;&emsp;&emsp;(ii) necessary and required by a statewide comprehensive outdoor recreation plan that is required by the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 et seq.) and that is in effect;
+&emsp;&emsp;&emsp;(ii) necessary and recommended by a statewide comprehensive outdoor recreation plan that is required by the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 et seq.) and that is in effect;
 
 &emsp;&emsp;&emsp;(iii) approved by the administering agency of the State designated under subsection (c)(1); and
 
@@ -72,9 +72,11 @@ Permissible uses.—Permissible uses of funds apportioned to a State for a fisca
 
 &emsp;&emsp;(E) acquisition of easements and fee simple title to property for recreational trails or recreational trail corridors;
 
-&emsp;&emsp;(F) payment of costs to the State incurred in administering the program, but in an amount not to exceed 7 percent of the apportionment made to the State for the fiscal year to carry out this section; and
+&emsp;&emsp;(F) assessment of trail conditions for accessibility and maintenance;
 
-&emsp;&emsp;(G) operation of educational programs to promote safety and environmental protection as those objectives relate to the use of recreational trails, but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year.
+&emsp;&emsp;(G) development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to oneor more of the use of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
+
+&emsp;&emsp;(H) payment of costs to the State incurred in administering the program, but in an amount not to exceed 7 percent of the apportionment made to the State for the fiscal year.
 
 &emsp;(3)
 
@@ -96,11 +98,7 @@ Small state exclusion.—Any State with a total land area of less than 3,500,000
 
 &emsp;&emsp;(C)
 
-Waiver authority.—A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).
-
-&emsp;&emsp;(D)
-
-State administrative costs.—State administrative costs eligible for funding under paragraph (2)(F) shall be exempt from the requirements of subparagraph (A).
+State administrative costs.—State administrative costs eligible for funding under paragraph (2)(H) shall be exempt from the requirements of subparagraph (A).
 
 &emsp;(4)
 
@@ -124,15 +122,15 @@ Federal Share.—
 
 &emsp;(1)
 
-In general.—Subject to the other provisions of this subsection, the Federal share of the cost of a project under this section shall not exceed 80 percent.
+In general.—Subject to the other provisions of this subsection, the Federal share of the cost of a project and the Federal share of the administrative costs of a State under this section shall be determined in accordance with section 120(b).
 
 &emsp;(2)
 
 Federal agency project sponsor.—Notwithstanding any other provision of law, a Federal agency that sponsors a project under this section may contribute additional Federal funds toward the cost of a project, except that—
 
-&emsp;&emsp;(A) the share attributable to the Secretary of Transportation may not exceed 80 percent of the cost of a project under this section; and
+&emsp;&emsp;(A) the share attributable to the Secretary of Transportation may not exceed the amount determined in accordance with section 120(b) for the cost of a project under this section; and
 
-&emsp;&emsp;(B) the share attributable to the Secretary and the Federal agency may not exceed 95 percent of the cost of a project under this section.
+&emsp;&emsp;(B) the share attributable to the Secretary and the Federal agency sponsoring the project may not exceed 95 percent of the cost of a project under this section.
 
 &emsp;(3)
 
@@ -144,11 +142,15 @@ Use of funds from federal programs to provide non-federal share.—Notwithstandi
 
 &emsp;(4)
 
-Programmatic non-federal share.—A State may allow adjustments to the non-Federal share of an individual project for a fiscal year under this section if the Federal share of the cost of all projects carried out by the State under the program (excluding projects funded under paragraph (2) or (3)) using funds apportioned to the State for the fiscal year does not exceed 80 percent.
+Use of recreational trails program funds to match other federal program funds.—Notwithstanding any other provision of law, funds made available under this section may be used toward the non-Federal matching share for other Federal program funds that are—
+
+&emsp;&emsp;(A) expended in accordance with the requirements of the Federal program relating to activities funded and populations served; and
+
+&emsp;&emsp;(B) expended on a project that is eligible for assistance under this section.
 
 &emsp;(5)
 
-State administrative costs.—The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b).
+Programmatic non-federal share.—A State may allow adjustments to the non-Federal share of an individual project for a fiscal year under this section if the Federal share of the cost of all projects carried out by the State under the program (excluding projects funded under paragraph (2) or (3)) using funds apportioned to the State for the fiscal year does not exceed the Federal share as determined in accordance with section 120(b).
 
 (g)
 
@@ -186,6 +188,10 @@ In general.—Nothing in this title or other law shall prevent a project sponsor
 
 Federal project sponsors.—Any funds or the fair market value of any materials or services may be provided by a Federal project sponsor and shall be credited to the Federal agency's share in accordance with subsection (f).
 
+&emsp;&emsp;(C)
+
+Planning and environmental assessment costs incurred prior to project approval.—The Secretary may allow preapproval planning and environmental compliance costs to be credited toward the non-Federal share of the cost of a project described in subsection (d)(2) (other than subparagraph (H)) in accordance with subsection (f), limited to costs incurred less than 18 months prior to project approval.
+
 &emsp;(2)
 
 Recreational purpose.—A project funded under this section is intended to enhance recreational opportunity and is not subject to section 138 of this title or section 303 of title 49.
@@ -210,7 +216,7 @@ Public access.—Any use of the apportionments to a State to carry out this sect
 
 Contract Authority.—Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
-(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146.)
+(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170.)
 
 #### References in Text
 
@@ -226,7 +232,27 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2
 
 A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by Pub. L. 97–424, title I, §126(d), Jan. 6, 1983, 96 Stat. 2115.
 
+#### Amendments
+
+2005—Subsec. (d)(2). Pub. L. 109–59, §1109(b), amended par. (2) generally. Prior to amendment, par. (2) consisted of subpars. (A) to (G) relating to permissible uses of funds apportioned to carry out this section.
+
+Subsec. (d)(3)(C), (D). Pub. L. 109–59, §1109(c), redesignated subpar. (D) as (C), substituted “(2)(H)” for “(2)(F)”, and struck out heading and text of former subpar. (C). Text read as follows: “A State recreational trail advisory committee established under subsection (c)(2) may waive, in whole or in part, the requirements of clauses (ii) and (iii) of subparagraph (A) if the State recreational trail advisory committee determines and notifies the Secretary that the State does not have sufficient projects to meet the requirements of clauses (ii) and (iii) of subparagraph (A).”
+
+Subsec. (f)(1). Pub. L. 109–59, §1109(d)(1), inserted “and the Federal share of the administrative costs of a State” after “project” and substituted “be determinedin accordance with section 120(b)” for “not exceed 80 percent”.
+
+Subsec. (f)(2)(A). Pub. L. 109–59, §1109(d)(2), substituted “the amount determined in accordance with section 120(b) for the cost” for “80 percent of the cost”.
+
+Subsec. (f)(2)(B). Pub. L. 109–59, §1109(d)(3), inserted “sponsoring the project” after “Federal agency”.
+
+Subsec. (f)(4), (5). Pub. L. 109–59, §1109(d)(4)–(7), added par. (4), redesignated former par. (4) as (5), substituted “the Federal share as determined in accordance with section 120(b)” for “80 percent”, and struck out heading and text of former par. (5). Text read as follows: “The Federal share of the administrative costs of a State under this subsection shall be determined in accordance with section 120(b).”
+
+Subsec. (h)(1)(C). Pub. L. 109–59, §1109(e), added subpar. (C).
+
 #### Encouragement of Use of Youth Conservation or Service Corps
 
-Pub. L. 105–178, title I, §1112(e), June 9, 1998, 112 Stat. 151, provided that: “The Secretary shall encourage the States to enter into contracts and cooperative agreements with qualified youth conservation or service corps to perform construction and maintenance of recreational trails under section 206 of title 23, United States Code.”
+Pub. L. 109–59, title I, §1109(f), Aug. 10, 2005, 119 Stat. 1170, provided that: “The Secretary \[of Transportation\] shall encourage the States to enter into contracts and cooperative agreements with qualified youth conservation or service corps to perform construction and maintenance of recreational trails under section 206 of title 23, United States Code.”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 105–178, title I, §1112(e), June 9, 1998, 112 Stat. 151.
 

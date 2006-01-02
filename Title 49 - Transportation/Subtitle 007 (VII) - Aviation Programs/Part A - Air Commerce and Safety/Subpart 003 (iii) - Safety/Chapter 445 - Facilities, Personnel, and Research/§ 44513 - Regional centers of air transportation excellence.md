@@ -52,7 +52,7 @@ Expenditure Agreements.—A grant may be made under this section in a fiscal yea
 
 (f)
 
-Government's Share of Costs.—The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.
+Government's Share of Costs.—The United States Government's share of a grantunder this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out.
 
 (g)
 

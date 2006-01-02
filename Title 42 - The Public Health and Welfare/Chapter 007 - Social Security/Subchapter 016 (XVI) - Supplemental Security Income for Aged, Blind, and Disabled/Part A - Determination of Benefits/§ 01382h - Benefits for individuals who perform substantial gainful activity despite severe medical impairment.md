@@ -44,7 +44,7 @@ Subsection (a)(2) of this section and section 1383(j)(2)(A) of this title shall 
 
 The Commissioner of Social Security and the Secretary of Education shall jointly develop and disseminate information, and establish training programs for staff personnel, with respect to the potential availability of benefits and services for disabled individuals under the provisions of this section. The Commissioner of Social Security shall provide such information to individuals who are applicants for and recipients of benefits based on disability under this subchapter and shall conduct such programs for the staffs of the district offices of the Social Security Administration. The Secretary of Education shall conduct such programs for the staffs of the State Vocational Rehabilitation agencies, and in cooperation with such agencies shall also provide such information to other appropriate individuals and to public and private organizations and agencies which are concerned with rehabilitation and social services or which represent the disabled.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1619, as added Pub. L. 96–265, title II, §201(a), June 9, 1980, 94 Stat. 445; amended Pub. L. 97–35, title XXIII, §2353(<i>o</i>), Aug. 13, 1981, 95 Stat. 873; Pub. L. 98–460, §14(b), Oct. 9, 1984, 98 Stat. 1808; Pub. L. 99–643, §§4(a), (b), (c)(2), 7(a), Nov. 10, 1986, 100 Stat. 3575, 3577, 3579; Pub. L. 101–508, title V, §§5032(a), 5039(a), Nov. 5, 1990, 104 Stat. 1388–224, 1388–226; Pub. L. 103–296, title I, §107(a)(1), (4), title II, §205(a), Aug. 15, 1994, 108 Stat. 1477, 1478, 1509.)
+(Aug. 14, 1935, ch. 531, title XVI, §1619, as added Pub. L. 96–265, title II, §201(a), June 9, 1980, 94Stat. 445; amended Pub. L. 97–35, title XXIII, §2353(<i>o</i>), Aug. 13, 1981, 95 Stat. 873; Pub. L. 98–460, §14(b), Oct. 9, 1984, 98 Stat. 1808; Pub. L. 99–643, §§4(a), (b), (c)(2), 7(a), Nov. 10, 1986, 100 Stat. 3575, 3577, 3579; Pub. L. 101–508, title V, §§5032(a), 5039(a), Nov. 5, 1990, 104 Stat. 1388–224, 1388–226; Pub. L. 103–296, title I, §107(a)(1), (4), title II, §205(a), Aug. 15, 1994, 108 Stat. 1477, 1478, 1509.)
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Subsec. (b)(3). Pub. L. 99–643, §7(a), added par. (3).
 
 1981—Subsec. (a). Pub. L. 97–35, §2353(<i>o</i>)(1), substituted in provision preceding par. (1) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter”.
 
-Subsec. (b). Pub. L. 97–35, §2353(<i>o</i>), substituted in provision preceding cl. (i) and in par. (4) “subchapter XIX of this chapter” for “subchapters XIX and XX of thischapter” and in par. (3) “subchapter XIX of this chapter” for “subchapter XIX or XX of this chapter”.
+Subsec. (b). Pub. L. 97–35, §2353(<i>o</i>), substituted in provision preceding cl. (i) and in par. (4) “subchapter XIX of this chapter” for “subchapters XIX and XX of this chapter” and in par. (3) “subchapter XIX of this chapter” for “subchapter XIX or XX of this chapter”.
 
 #### Effective Date of 1994 Amendment
 

@@ -228,9 +228,9 @@ For purposes of subsection (c)(4)—
 
 (Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
-#### Adjustment of Hourly Limit on Attorney Fees Awarded for Calendar Year 2004
+#### Adjustment of Hourly Limit on Attorney Fees Awarded for Calendar Year 2006
 
-<i>For adjustment of the hourly limit on attorney fees awarded under this section for calendar year 2004, see section 3.33 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of the hourly limit on attorney fees awarded under this section for calendar year 2006, see section 3.36 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
@@ -393,8 +393,4 @@ Penalty.—The amendments made by subsections (b) and (d)(2) \[amending section 
 &emsp;“(A) is commenced after December 31, 1982, or
 
 &emsp;“(B) is pending in the United States Tax Court on the day which is 120 days after the date of the enactment of the Tax Reform Act of 1984 \[July 18, 1984\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6404, 6512, 6656, 7431, 7433, 7436, 7491, 7611 of this title; title 5 section 504; title 28 section 2412.
 

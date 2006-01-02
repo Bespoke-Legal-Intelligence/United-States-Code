@@ -22,7 +22,19 @@
 
 (d) The United States Railway Association, the Consolidated Rail Corporation, and the Secretary shall provide the Center with relevant information (including procurement schedules, bids, and specifications on particular maintenance, rehabilitation, restructuring, improvement, and revitalization projects) the Center requests in carrying out this section.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2428.)
+(e)
+
+Bonding Assistance.—
+
+&emsp;(1)
+
+In general.—The Secretary, acting through the Minority Resource Center established under subsection (b), shall provide assistance in obtaining bid, payment, and performance bonds by disadvantaged business enterprises pursuant to subsection (b)(4).
+
+&emsp;(2)
+
+Authorization of appropriation.—There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2005 through 2009 to carry out activities under this subsection.
+
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2428; Pub. L. 109–59, title I, §1951, Aug. 10, 2005, 119 Stat. 1514.)
 
 Historical and Revision Notes
 
@@ -62,11 +74,15 @@ In subsection (b)(4), the words “those business opportunities” are substitut
 
 In subsection (b)(5), the words “related to the maintenance, rehabilitation, restructuring, improvement, and revitalization of the nation's railroads” are omitted as unnecessary because of the restatement.
 
-In subsection (b)(7), the words “make arrangements” are substituted for “enter into such contracts, cooperative agreements, or other transactions” to eliminate unnecessary words. The words “as may be necessary” after “transactions” are omitted as surplus. The words“to carry out this section” are substituted for “in the conduct of its functions and duties” for clarity and consistency.
+In subsection (b)(7), the words “make arrangements” are substituted for “enter into such contracts, cooperative agreements, or other transactions” to eliminate unnecessary words. The words “as may be necessary” after “transactions” are omitted as surplus. The words “to carry out this section” are substituted for “in the conduct of its functions and duties” for clarity and consistency.
 
 In subsection (c), the words “The Secretary shall make the appointments” and the words “Each of those trade associations may submit a list of not more than” are added for clarity and because of the restatement of the section.
 
 In subsection (d), the words “in carrying out this section” are substituted for “in connection with the performance of its functions” for clarity and consistency.
+
+#### Amendments
+
+2005—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

@@ -99,7 +99,7 @@
 | (c) | Subgrants. |
 | (d) | Reports. |
 | (e) | Funding. |
-| (f) | Limitation on adminstrative expenses. |
+| (f) | Limitation on administrative expenses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -110,7 +110,7 @@
 | [7671\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2007671%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Availability. |
-| (c) | Availablity of authorizations. |
+| (c) | Availability of authorizations. |
 | [7672\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2007672%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
 | (a) | Increase in HIV/AIDS antiretroviral treatment. |
 | (b) | Effective distribution of HIV/AIDS funds. |

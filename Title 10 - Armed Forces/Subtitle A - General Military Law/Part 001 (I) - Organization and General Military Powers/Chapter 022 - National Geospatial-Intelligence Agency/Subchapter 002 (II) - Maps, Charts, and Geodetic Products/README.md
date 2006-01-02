@@ -16,10 +16,6 @@
 
 1999—Pub. L. 106–65, div. A, title X, §§1010(b), 1045(b), Oct. 5, 1999, 113 Stat. 739, 763, substituted “Sale of maps, charts, and navigational publications: prices; use of proceeds” for “Prices of maps, charts, and navigational publications” in item 453 and added item 457.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 442 of this title; title 14 section 82.
-
 
 ---
 

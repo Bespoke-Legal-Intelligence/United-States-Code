@@ -45,10 +45,6 @@ Pub. L. 104–106, div. A, title XV, §§1502(a)(28)(B), 1503(b)(4), Feb. 10, 19
 
 1962—Pub. L. 87–796, §1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 30 section 353; title 42 sections 7156, 7235.
-
 
 ---
 

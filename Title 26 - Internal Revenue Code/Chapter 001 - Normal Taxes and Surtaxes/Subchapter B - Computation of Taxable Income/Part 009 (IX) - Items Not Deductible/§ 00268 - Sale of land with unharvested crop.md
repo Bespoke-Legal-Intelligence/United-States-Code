@@ -4,7 +4,3 @@ Where an unharvested crop sold by the taxpayer is considered under the provision
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 80.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1016 of this title.
-

@@ -36,7 +36,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(b) A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, duringthe remainder of such judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—
+(b) A judge of the Court of Federal Claims who is not reappointed following the expiration of the term of office of such judge, and who retires upon the completion of such term shall, subject to subsection (f), be entitled to receive, during the remainder of such judge's lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service, if—
 
 &emsp;(1) such judge has served at least 1 full term as judge of the Court of Federal Claims, and
 
@@ -84,11 +84,11 @@
 
 (2) Paragraph (1) shall apply only to payments made by the Director of the Administrative Office of the United States Courts after the date of receipt by the Director of written notice of such decree, order, or agreement, and such additional information as the Director may prescribe.
 
-(3) As used in this subsection, the term “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, and any Indian tribal court or court of Indian offense.
+(3) As used in this subsection, the term “court” means any court of any State, the District of Columbia, the Commonwealth of PuertoRico, Guam, the Commonwealth of the Northern Mariana Islands, or the Virgin Islands, and any Indian tribal court or court of Indian offense.
 
 (j)(1) Subject to paragraph (4), any judge of the Court of Federal Claims who retires under this section and who thereafter in the practice of law represents (or supervises or directs the representation of) a client in making any civil claim against the United States or any agency thereof shall forfeit all rights to an annuity under this section for all periods beginning on or after the first day on which he engages in any such activity.
 
-(2) Subject to paragraph (4), if a judge of the Court of Federal Claims who retires under thissection fails during any calendar year to perform judicial duties required of such judge by subsection (d), such judge shall forfeit all rights to an annuity under this section for the 1-year period which begins on the first day on which he or she so fails to perform such duties.
+(2) Subject to paragraph (4), if a judge of the Court of Federal Claims who retires under this section fails during any calendar year to perform judicial duties required of such judge by subsection (d), such judge shall forfeit all rights to an annuity under this section for the 1-year period which begins on the first day on which he or she so fails to perform such duties.
 
 (3) If a judge of the Court of Federal Claims who retires under this section accepts compensation for civil office or employment under the Government of the United States (other than for the performance of judicial duties under subsection (d)), such judge shall forfeit all rights to an annuity under this section for the period for which such compensation is received.
 

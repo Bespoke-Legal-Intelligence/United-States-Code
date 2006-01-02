@@ -40,7 +40,7 @@ Sec. 2. The following-described lands also shall become a part of the Silver Cre
 
 #### “willamette meridian
 
-“Township 8 south, range 1 east: Section 36, northeast quarter, northeast quarter northwest quarter, north half southeast quarter northwest quarter, north half south half southeast quarter northwest quarter, north half northwest quarter northwest quarter, and north half south half northwest quarter northwest quarter; comprising two hundred and sixty acres.”
+“Township 8 south, range 1 east: Section 36, northeast quarter, northeast quarter northwest quarter,north half southeast quarter northwest quarter, north half south half southeast quarter northwest quarter, north half northwest quarter northwest quarter, and north half south half northwest quarter northwest quarter; comprising two hundred and sixty acres.”
 
 #### Ex. Ord. No. 7496. Transfer of Recreational Demonstration Projects
 

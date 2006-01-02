@@ -68,7 +68,7 @@ For purposes of this subtitle, in the case of a corporation—
 
 #### (5) Coordination with cost depletion
 
-&emsp;The portion of the adjusted basis of any property which is attributable to amounts to which paragraph (1) applied shall not be taken into account for purposes of determining depletion under section 611.
+&emsp;The portion of the adjusted basis of any property which is attributable to amounts towhich paragraph (1) applied shall not be taken into account for purposes of determining depletion under section 611.
 
 #### (c) Special rules relating to pollution control facilities
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;The terms “section 1245 property” and “section 1250 property” have the meanings given such terms by sections 1245(a)(3) and 1250(c), respectively.
 
-(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990,104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856.)
+(Added Pub. L. 97–248, title II, §204(a), Sept. 3, 1982, 96 Stat. 423; amended Pub. L. 97–354, §5(a)(27), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title III, §306(a)(2), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §68(a), (b), title VII, §712(a)(1)(A), (2)–(4), July 18, 1984, 98 Stat. 588, 946; Pub. L. 99–514, title II, §201(d)(5), title IV, §§411(a), (b)(2)(C)(ii), 412(b)(1), title IX, §§901(b)(4), (d)(4)(C), 902(c), title XVIII, §§1804(k)(1), (3)(A), 1854(c)(1), 1876(b)(1), Oct. 22, 1986, 100 Stat. 2140, 2225, 2227, 2378, 2380, 2382, 2809, 2878, 2898; Pub. L. 100–418, title I, §1941(b)(5), Aug. 23, 1988, 102 Stat. 1324; Pub. L. 100–647, title I, §1009(b)(4), (5), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 101–508, title XI, §11801(c)(12)(B), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1602(b)(1), 1616(b)(5), Aug. 20, 1996, 110 Stat. 1833, 1856.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Special rules for obligations to which section 133 applies.—In the case of an 
 
 &emsp;“(ii) the amount which would have been allowable had such institution maintained its bad debt reserve for all taxable years on the basis of actual experience.”
 
-1988—Subsec. (b)(4). Pub. L. 100–418 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of this subsection, the term ‘integrated oil company’ means, with respect to any taxable year, any producer (within the meaning of section 4996(a)(1)) of crude oil other than an independent producer (within the meaning of section 4992(b)).”
+1988—Subsec. (b)(4). Pub. L. 100–418 amended par. (4) generally. Prior to amendment, par. (4) read as follows:“For purposes of this subsection, the term ‘integrated oil company’ means, with respect to any taxable year, any producer (within the meaning of section 4996(a)(1)) of crude oil other than an independent producer (within the meaning of section 4992(b)).”
 
 Subsec. (e)(1)(B)(i). Pub. L. 100–647, §1009(b)(5), substituted “section 585(a)(2)” for “section 582(a)(2)”.
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 201(d)(5) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
+Amendment by section 201(d)(5) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986,in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
 Amendment by section 201(d)(5) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
@@ -308,13 +308,9 @@ Minimum tax.—The amendment made by subsection (b) \[amending section 57 of thi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 57, 59, 263, 263A, 264, 265, 871, 1250, 1277, 1363 of this title.
 

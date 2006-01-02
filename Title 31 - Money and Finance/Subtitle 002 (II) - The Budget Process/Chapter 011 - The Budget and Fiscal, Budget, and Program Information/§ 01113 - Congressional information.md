@@ -234,7 +234,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, provided that: “Section 3
 
 &emsp;“(4) Section 206 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2476).
 
-&emsp;“(5) Section 404 of the Communications Satellite Act of 1962 (47 U.S.C. 744).
+&emsp;“(5) Section 404 of the Communications Satellite Act of 1962 (\[former\] 47 U.S.C. 744).
 
 &emsp;“(6) Section 205(a)(1) of the National Critical Materials Act of 1984 (30 U.S.C. 1804(a)(1)).
 

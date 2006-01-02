@@ -22,7 +22,7 @@ The Secretary shall develop innovative methods of disseminating information on a
 
 #### (1) Annual ranking of States
 
-&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families inthe State that have incomes below the poverty line and the amount of funding provided each State for such families.
+&emsp;The Secretary shall rank annually the States to which grants are paid under section 603 of this title in the order of their success in placing recipients of assistance under the State program funded under this part into long-term private sector jobs, reducing the overall welfare caseload, and, when a practicable method for calculating this information becomes available, diverting individuals from formally applying to the State program and receiving assistance. In ranking States under this subsection, the Secretary shall take into account the average number of minor children living at home in families in the State that have incomes below the poverty line and the amount of funding provided each State for such families.
 
 #### (2) Annual review of most and least successful work programs
 
@@ -132,7 +132,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### (2) Submission of corrective action plan
 
-&emsp;Not later than 90 days after the date a State submits a statement under paragraph (1) which indicates that, as a result of the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, the child poverty rate of the State has increased by 5 percent or more since the most recent prior statement under paragraph (1), the State shall prepare and submit to the Secretary a corrective action plan in accordance with paragraph (3).
+&emsp;Not later than 90 days after the date a State submits a statement under paragraph (1)which indicates that, as a result of the amendments made by section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, the child poverty rate of the State has increased by 5 percent or more since the most recent prior statement under paragraph (1), the State shall prepare and submit to the Secretary a corrective action plan in accordance with paragraph (3).
 
 #### (3) Contents of plan
 
@@ -184,7 +184,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 #### References in Text
 
-Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out asthis part. For complete classification of section 103 to the Code, see Tables.
+Section 103 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (i)(2), is section 103 of Pub. L. 104–193, which enacted this part, amended sections 602, 603, and 1308 of this title, and repealed provisions formerly set out as this part. For complete classification of section 103 to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -216,7 +216,7 @@ Absolute out-of-wedlock ratios.—The ratio represented by—
 
 &emsp;“(ii)
 
-Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the most recent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year.”
+Net changes in the out-of-wedlock ratio.—The difference between the ratio described in subparagraph (A)(i) with respect to a State for the mostrecent fiscal year for which such information is available and the ratio with respect to the State for the immediately preceding year.”
 
 Subsec. (h)(1)(D). Pub. L. 105–33, §5509(c), substituted “August 22, 1996” for “September 30, 1995”.
 

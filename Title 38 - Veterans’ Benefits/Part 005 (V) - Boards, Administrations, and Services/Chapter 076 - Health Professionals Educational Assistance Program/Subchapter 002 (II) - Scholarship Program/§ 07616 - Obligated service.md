@@ -30,7 +30,7 @@
 
 &emsp;(A) on the date, after such participant's course completion date, on which such participant (in accordance with subsection (b) of this section) is appointed under this chapter as a full-time employee in the Veterans Health Administration; or
 
-&emsp;(B) if the participant is a full-time employee in the Veterans Health Administration onsuch course completion date, on the date thereafter on which such participant is assigned to a position for which such participant's course of training prepared such participant.
+&emsp;(B) if the participant is a full-time employee in the Veterans Health Administration on such course completion date, on the date thereafter on which such participant is assigned to a position for which such participant's course of training prepared such participant.
 
 (2) A participant in the Scholarship Program who on such participant's course completion date is a full-time employee in the Veterans Health Administration serving in a capacity for which such participant's course of training prepared such participant shall be considered to have begun serving such participant's period of obligated service on such course completion date.
 

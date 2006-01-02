@@ -120,7 +120,7 @@ Special Operations Activities.—For purposes of this section, special operation
 
 Budget Support for Reserve Elements.—(1) Before the budget proposal for the special operations command for any fiscal year is submitted to the Secretary of Defense, the commander of the command shall consult with the Secretaries of the military departments concerning funding for reserve component special operations units. If the Secretary of a military department does not concur in the recommended level of funding with respect to any such unit that is under the jurisdiction of the Secretary, the commander shall include with the budget proposal submitted to the Secretary of Defense the views of the Secretary of the military department concerning such funding.
 
-(2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
+(2) Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect toreserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
 (Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832.)
 
@@ -170,7 +170,7 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 “(2) The commander of such command shall be responsible for monitoring the preparedness of special operations forces assigned to other unified combatant commands to carry out assigned missions.
 
-“(3) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under paragraph (1)(G), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title. The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions throughthe special operations command and such other inspector general functions as may be assigned.”
+“(3) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under paragraph (1)(G), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title. The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.”
 
 1987—Subsec. (e)(3). Pub. L. 100–180 added par. (3).
 
@@ -233,8 +233,4 @@ Grade for Commanders of Certain Area Special Operations Commands.—The commande
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 
 Section 101(c) \[§9115(h)(2)\] of Pub. L. 99–500 and Pub. L. 99–591, and section 1311(h)(2) of Pub. L. 99–661, required President, not later than one year after Oct. 1, 1986, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 138, 2011, 2680, 10171, 10172, 10173, 10174 of this title.
 

@@ -2,7 +2,7 @@
 
 (a) Except as otherwise provided by law, a Reserve officer shall only be promoted pursuant to the recommendation of a selection board.
 
-(b) The Secretary shall convene selection boards from time to time to recommend Reserveofficers for promotion to the next higher grade. A board may be convened to consider officers in one or more grades.
+(b) The Secretary shall convene selection boards from time to time to recommend Reserve officers for promotion to the next higher grade. A board may be convened to consider officers in one or more grades.
 
 (c) A selection board shall, from among the names of those eligible Reserve officers submitted to it, recommend for promotion to the next higher grade:
 

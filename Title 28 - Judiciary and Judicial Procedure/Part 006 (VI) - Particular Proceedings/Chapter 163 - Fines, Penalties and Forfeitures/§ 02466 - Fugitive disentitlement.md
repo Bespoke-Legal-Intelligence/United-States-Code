@@ -14,15 +14,17 @@
 
 (b) Subsection (a) may be applied to a claim filed by a corporation if any majority shareholder, or individual filing the claim on behalf of the corporation is a person to whom subsection (a) applies.
 
-(Added Pub. L. 106–185, §14(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §322, Oct. 26, 2001, 115 Stat. 315.)
+(Added Pub. L. 106–185, §14(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §322, Oct. 26, 2001, 115 Stat. 315; Pub. L. 109–162, title XI, §1171(c), Jan. 5, 2006, 119 Stat. 3123.)
 
 #### Amendments
 
-2001—Pub. L. 107–56, which directed amendment of section 2466 of title 18 by designating existing provisions as subsec. (a) and adding subsec. (b), was executed to this section to reflect the probable intent of Congress because title 18 does not contain a section 2466.
+2006—Pub. L. 109–162 amended directory language of Pub. L. 107–56, §322. See 2001 Amendment note below.
 
-#### Termination Date of 2001 Amendment
+2001—Pub. L. 107–56, §322, as amended by Pub. L. 109–162, designated existing provisions as subsec. (a) and added subsec. (b).
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–162, title XI, §1171(c), Jan. 5, 2006, 119 Stat. 3123, provided in part that the amendment made by section 1171(c) of Pub. L. 109–162 is effective Oct. 26, 2001.
 
 #### Effective Date
 

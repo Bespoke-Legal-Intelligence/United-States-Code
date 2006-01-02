@@ -66,7 +66,7 @@
 
 &emsp;(ii) this paragraph shall be carried out in any case which involves a former spouse.
 
-(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholding or the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
+(5) If, after January 1, 1997, an employee or Member waives retired pay that is subject to a court order for which there has been effective service on the Secretary concerned for purposes of section 1408 of title 10, the military service on which the retired pay is based may be credited as service for purposes of this chapter only if the employee or Member authorizes the Director to deduct and withhold from the annuity payable to the employee or Member under this subchapter an amount equal to the amount that, if the annuity payment was instead a payment of the employee's or Member's retired pay, would have been deducted and withheld and paid to the former spouse covered by the court order under such section 1408. The amount deducted and withheld under this paragraph shall be paid to that former spouse. The period of civil service employment by the employee or Member shall not be taken into consideration in determining the amount of the deductions and withholdingor the amount of the payment to the former spouse. The Director of the Office of Personnel Management shall prescribe regulations to carry out this paragraph.
 
 (d) Credit under this chapter shall be allowed for leaves of absence without pay granted an employee while performing military service, or while receiving benefits under subchapter I of chapter 81. An employee or former employee who returns to duty after a period of separation is deemed, for the purpose of this subsection, to have been on leave of absence without pay for that part of the period in which that individual was receiving benefits under subchapter I of chapter 81. Credit may not be allowed for so much of other leaves of absence without pay as exceeds 6 months in the aggregate in a calendar year.
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 107–107 applicable only to separations from service as an
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–168 effective Dec. 12, 1999, and applicable only to individuals who separate from service subject to chapter 84 of this title on or after Dec. 12, 1999, see section 202(d) of Pub. L. 106–168, set out as a note under section 8402 of this title.
+Amendment by Pub. L. 106–168 effective Dec. 12, 1999, and applicable only to individuals who separate from service subject to chapter 84 of this title on or afterDec. 12, 1999, see section 202(d) of Pub. L. 106–168, set out as a note under section 8402 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -232,7 +232,7 @@ Requirements.—
 
 Requirements of the individual.—In order to receive credit under chapter 84 of title 5, United States Code, for any service described in subsection (a), the individual who performed such service (or, if deceased, any person who is or would be eligible for a survivor annuity under the Federal Employees’ Retirement System based on the service of such individual)—
 
-&emsp;&emsp;“(A) shall file a written application with the Office of Personnel Management not later than 36months after the effective date of the regulations prescribed to carry out this section (as specified in those regulations); and
+&emsp;&emsp;“(A) shall file a written application with the Office of Personnel Management not later than 36 months after the effective date of the regulations prescribed to carry out this section (as specified in those regulations); and
 
 &emsp;&emsp;“(B) shall remit to the Office (for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund) the total amount that, under section 8422 of such title 5, should have been deducted from the basic pay of such individual for such service if such service had then been creditable under such chapter 84.
 
@@ -270,7 +270,7 @@ In general.—The Office of Personnel Management shall take such action as may b
 
 &emsp;&emsp;“(B)
 
-Assistance to individuals.—The Office shall, on request, assist any individual referred to in subparagraph (A) in obtaining from any department, agency, or other instrumentality of the United States such information in the possession of such instrumentality as may be necessary to verify the entitlement of such individual to have any service credited, or to have any annuity computed or recomputed, pursuant to this section.
+Assistance to individuals.—The Office shall, on request, assist any individual referred toin subparagraph (A) in obtaining from any department, agency, or other instrumentality of the United States such information in the possession of such instrumentality as may be necessary to verify the entitlement of such individual to have any service credited, or to have any annuity computed or recomputed, pursuant to this section.
 
 &emsp;&emsp;“(C)
 

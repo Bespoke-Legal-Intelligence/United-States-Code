@@ -14,7 +14,3 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than ninety days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6411, 6425 of this title.
-

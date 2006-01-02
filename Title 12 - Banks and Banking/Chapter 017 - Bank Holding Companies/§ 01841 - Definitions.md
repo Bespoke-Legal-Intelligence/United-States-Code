@@ -108,7 +108,7 @@ Exceptions.—The term “bank” does not include any of the following:
 
 &emsp;&emsp;&emsp;&emsp;(III) the control of which is not acquired by any company after August 10, 1987; or
 
-&emsp;&emsp;&emsp;(ii) an institution which does not, directly, indirectly, or through an affiliate, engage in any activity in which it was not lawfully engaged as of March 5, 1987,
+&emsp;&emsp;&emsp;(ii) an institution which does not, directly, indirectly, or through an affiliate,engage in any activity in which it was not lawfully engaged as of March 5, 1987,
 
 > &emsp;&emsp;except that this subparagraph shall cease to apply to any institution which permits any overdraft (including any intraday overdraft), or which incurs any such overdraft in such institution's account at a Federal Reserve bank, on behalf of an affiliate if such overdraft is not the result of an inadvertent computer or accounting error that is beyond the control of both the institution and the affiliate, or that is otherwise permissible for a bank controlled by a company described in section 1843(f)(1) of this title.
 
@@ -158,7 +158,7 @@ Exceptions.—The term “bank” does not include any of the following:
 
 (h)(1) Except as provided by paragraph (2), the application of this chapter and of section 371c of this title shall not be affected by the fact that a transaction takes place wholly or partly outside the United States or that a company is organized or operates outside the United States.
 
-(2) Except as provided in paragraph (3), the prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States if such shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States. For the purpose of this subsection, the term “section 2(h)(2) company” means any company whose shares are held pursuant to this paragraph.
+(2) Except as provided in paragraph (3), the prohibitions of section 1843 of this title shall not apply to shares of any company organized under the laws of a foreign country (or to shares held by such company in any company engaged in the same general line of business as the investor company or in a business related to the business of the investor company) that is principally engaged in business outside the United States ifsuch shares are held or acquired by a bank holding company organized under the laws of a foreign country that is principally engaged in the banking business outside the United States. For the purpose of this subsection, the term “section 2(h)(2) company” means any company whose shares are held pursuant to this paragraph.
 
 (3) Nothing in paragraph (2) authorizes a section 2(h)(2) company to engage in (or acquire or hold more than 5 percent of the outstanding shares of any class of voting securities of a company engaged in) any banking, securities, insurance, or other financial activities, as defined by the Board, in the United States. This paragraph does not prohibit a section 2(h)(2) company from holding shares that were lawfully acquired before August 10, 1987.
 
@@ -190,7 +190,7 @@ Definition of Savings Associations and Related Term.—The term “savings assoc
 
 (k)
 
-Affiliate.—For purposes of this chapter, the term “affiliate” means any company thatcontrols, is controlled by, or is under common control with another company.
+Affiliate.—For purposes of this chapter, the term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
 
 (<i>l</i>)
 
@@ -346,7 +346,11 @@ Financial Holding Company.—For purposes of this chapter, the term “financial
 
 Insurance Company.—For purposes of sections 1843 and 1844 of this title, the term “insurance company” includes any person engaged in the business of insurance to the extent of such activities.
 
-(May 9, 1956, ch. 240, §2, 70 Stat. 133; Pub. L. 89–485, §§1–6, July 1, 1966, 80 Stat. 236, 237; Pub. L. 91–607, title I, §101, Dec. 31, 1970, 84 Stat. 1760; Pub. L. 95–188, title III, §301(b), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–369, §8(e), Sept. 17, 1978, 92 Stat. 623; Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), Oct. 15, 1982, 96 Stat. 1479, 1504, 1512; Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), Aug. 10, 1987, 101 Stat. 554, 562, 584; Pub. L. 101–73, title VI, §602(a), Aug. 9, 1989, 103 Stat. 409; Pub. L. 103–328, title I, §101(c), Sept. 29, 1994, 108 Stat. 2341; Pub. L. 104–208, div. A, title II, §§2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, 110 Stat. 3009–406, 3009–408, 3009–425, 3009–475, 3009–495; Pub. L. 106–102, title I, §§103(c)(1), 107(c), 119, title VII, §724, Nov. 12, 1999, 113 Stat. 1351, 1359, 1373, 1471; Pub. L. 108–386, §8(c)(1), Oct. 30, 2004, 118 Stat. 2231.)
+(May 9, 1956, ch. 240, §2, 70 Stat. 133; Pub. L. 89–485, §§1–6, July 1, 1966, 80 Stat. 236, 237; Pub. L. 91–607, title I, §101, Dec. 31, 1970, 84 Stat. 1760; Pub. L. 95–188, title III, §301(b), Nov. 16, 1977, 91 Stat. 1389; Pub. L. 95–369, §8(e), Sept. 17, 1978, 92 Stat. 623; Pub. L. 97–320, title I, §118(b), title III, §333, title IV, §404(d)(1), Oct. 15, 1982, 96 Stat. 1479, 1504, 1512; Pub. L. 100–86, title I, §101(a), (e), title II, §205(a), Aug. 10, 1987, 101 Stat. 554, 562, 584; Pub. L. 101–73, title VI, §602(a), Aug. 9, 1989, 103 Stat. 409; Pub. L. 103–328, title I, §101(c), Sept. 29, 1994, 108 Stat. 2341; Pub. L. 104–208, div. A, title II, §§2207, 2208(b), 2304(b), 2610, 2704(d)(17), Sept. 30, 1996, 110 Stat. 3009–406, 3009–408, 3009–425, 3009–475, 3009–495; Pub. L. 106–102, title I, §§103(c)(1), 107(c), 119, title VII, §724, Nov. 12, 1999, 113 Stat. 1351, 1359, 1373, 1471; Pub. L. 108–386, §8(c)(1), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–173, §9(h)(1), Feb. 15, 2006, 119 Stat. 3618.)
+
+#### Amendment of Subsection (j)(2)
+
+<i>Pub. L. 109–173, §9(h)(1), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (j)(2) of this section is amended by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### References in Text
 
@@ -384,7 +388,7 @@ Subsec. (g)(3). Pub. L. 104–208, §2207, struck out par. (3) which read as fol
 
 Subsec. (j)(2). Pub. L. 104–208, §2704(d)(17), which directed substitution of “Deposit Insurance Fund” for “Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
-Subsec. (<i>o</i>)(1). Pub. L. 104–208, §2208(b)(1), added heading and text of par. (1) and struck out heading and textof former par. (1). Text read as follows: “The term ‘adequately capitalized’ means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.”
+Subsec. (<i>o</i>)(1). Pub. L. 104–208, §2208(b)(1), added heading and text of par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘adequately capitalized’ means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.”
 
 Subsec. (<i>o</i>)(8), (9). Pub. L. 104–208, §2208(b)(2), added pars. (8) and (9).
 
@@ -437,6 +441,10 @@ Subsec. (d). Pub. L. 89–485, §4, inserted provision relating to indirect owne
 Subsec. (g). Pub. L. 89–485, §§5, 6, substituted provisions setting out treatment to be accorded shares owned or controlled by subsidiaries of bank holding companies, shares held or controlled by trustees for the benefit of companies, shareholders or members of companies, and employees of companies, and shares transferred after January 1, 1966, by bank holding companies to transferees that are indebted to the transferor or have one or more officers, directors, trustees, or beneficiaries in common with the transferor for provisions defining “agriculture”.
 
 Subsec. (h). Pub. L. 89–485, §6, added subsec. (h).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 2004 Amendment
 

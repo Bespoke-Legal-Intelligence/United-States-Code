@@ -32,7 +32,7 @@ Violations Regarding Circumvention of Technological Measures.—(1)(A) No person
 
 (3) As used in this subsection—
 
-&emsp;(A) to “circumvent a technological measure” means to descramble a scrambled work, to decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological measure, without the authority of the copyright owner; and
+&emsp;(A) to “circumvent a technological measure” means to descramble a scrambled work, to decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair atechnological measure, without the authority of the copyright owner; and
 
 &emsp;(B) a technological measure “effectively controls access to a work” if the measure, in the ordinary course of its operation, requires the application of information, or a process or a treatment, with the authority of the copyright owner, to gain access to the work.
 
@@ -230,7 +230,7 @@ Certain analog devices.—
 
 &emsp;&emsp;&emsp;(i) any VHS format analog video cassette recorder or any 8mm format analog video cassette recorder if the design of the model of such recorder has been modified after such date of enactment so that a model of recorder that previously conformed to the automatic gain control copy control technology no longer conforms to such technology; or
 
-&emsp;&emsp;&emsp;(ii) any VHS format analog video cassette recorder, or any 8mm format analog video cassette recorder that is not an 8mm analog video cassette camcorder, if the design of the model of such recorder has been modified after such date of enactment so that a model of recorder that previously conformed to the four-line colorstripe copy control technology no longer conforms to such technology.
+&emsp;&emsp;&emsp;(ii) any VHS format analog video cassette recorder, or any 8mm format analog video cassette recorder that is not an 8mmanalog video cassette camcorder, if the design of the model of such recorder has been modified after such date of enactment so that a model of recorder that previously conformed to the four-line colorstripe copy control technology no longer conforms to such technology.
 
 > &emsp;&emsp;Manufacturers that have not previously manufactured or sold a VHS format analog video cassette recorder, or an 8mm format analog cassette recorder, shall be required to conform to the four-line colorstripe copy control technology in the initial model of any such recorder manufactured after the date of the enactment of this chapter, and thereafter to continue conforming to the four-line colorstripe copy control technology. For purposes of this subparagraph, an analog video cassette recorder “conforms to” the four-line colorstripe copy control technology if it records a signal that, when played back by the playback function of that recorder in the normal viewing mode, exhibits, on a reference display device, a display containing distracting visible lines through portions of the viewable picture.
 
@@ -286,7 +286,7 @@ Violations.—Any violation of paragraph (1) of this subsection shall be treated
 
 The date of the enactment of this chapter, referred to in subsecs. (a)(1)(A), (g)(5), and (k)(1), (4)(E), is the date of enactment of Pub. L. 105–304, which was approved Oct. 28, 1998.
 
-The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and (j)(2), is Pub. L. 99–474, Oct. 16, 1986, 100 Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1001 of Title 18. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1001 of Title 18 and Tables.
+The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and (j)(2), is Pub. L. 99–474, Oct.16, 1986, 100 Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1001 of Title 18. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1001 of Title 18 and Tables.
 
 #### Amendments
 

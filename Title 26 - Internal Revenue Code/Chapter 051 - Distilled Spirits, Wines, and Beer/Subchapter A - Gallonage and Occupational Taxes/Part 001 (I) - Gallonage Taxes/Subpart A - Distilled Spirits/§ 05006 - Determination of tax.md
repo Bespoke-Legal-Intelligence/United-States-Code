@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the tax on distilled spirits shall be determined when the spirits are withdrawn from bond. Such tax shall be determined by such means as the Secretary shall by regulations prescribe, and with the use of such devices and apparatus (including but not limited to tanks and pipelines) as the Secretary may require. The tax on distilled spirits withdrawn from the bonded premises of a distilled spirits plant shall be determined upon completion of the gauge for determination of tax and before withdrawal from bonded premises, under such regulations as the Secretary shall prescribe.
+&emsp;Except as otherwise provided in this section, the tax on distilled spirits shall be determinedwhen the spirits are withdrawn from bond. Such tax shall be determined by such means as the Secretary shall by regulations prescribe, and with the use of such devices and apparatus (including but not limited to tanks and pipelines) as the Secretary may require. The tax on distilled spirits withdrawn from the bonded premises of a distilled spirits plant shall be determined upon completion of the gauge for determination of tax and before withdrawal from bonded premises, under such regulations as the Secretary shall prescribe.
 
 #### (2) Distilled spirits not accounted for
 
@@ -18,7 +18,7 @@
 
 #### (2) Alternative method
 
-&emsp;Where there is evidence satisfactory to the Secretary that there has been access, other than is authorized by law, to the contents of casks or packages stored on bonded premises, and the extent of such access is such as to evidence a lack of due diligence or a failure to employ necessary and effective controls on the part of the proprietor, the Secretary (in lieu of requiring the casks or packages to which such access has been had to be withdrawn and tax paid on the original quantity of distilled spirits entered for deposit on bonded premises in such casks or packages as provided in paragraph (1)) may assess an amount equal to the tax on 5 proof gallons of distilled spirits at theprevailing rate on each of the total number of such casks or packages as determined by him.
+&emsp;Where there is evidence satisfactory to the Secretary that there has been access, other than is authorized by law, to the contents of casks or packages stored on bonded premises, and the extent of such access is such as to evidence a lack of due diligence or a failure to employ necessary and effective controls on the part of the proprietor, the Secretary (in lieu of requiring the casks or packages to which such access has been had to be withdrawn and tax paid on the original quantity of distilled spirits entered for deposit on bonded premises in such casks or packages as provided in paragraph (1)) may assess an amount equal to the tax on 5 proof gallons of distilled spirits at the prevailing rate on each of the total number of such casks or packages as determined by him.
 
 #### (3) Application of subsection
 
@@ -56,7 +56,7 @@ Provisions similar to those comprising subsecs. (a)(2)(A), (3) of this section w
 
 Subsec. (a)(2), (3). Pub. L. 96–39, §804(a), redesignated par. (3) as (2). Former par. (2), relating to distilled spirits entered for storage, was struck out.
 
-Subsec. (b)(1). Pub. L. 96–39, §807(a)(4)(A), (B), substituted “on bonded premises” for “in storage in internal revenue bond” in two places and “; except” for “, notwithstanding that the time specified in any bond given for the withdrawal of the spirits entered in storage in such cask or package has not expired, except”.
+Subsec. (b)(1). Pub. L. 96–39, §807(a)(4)(A), (B), substituted “on bonded premises” for “in storage in internal revenue bond” in two places and “; except” for“, notwithstanding that the time specified in any bond given for the withdrawal of the spirits entered in storage in such cask or package has not expired, except”.
 
 Subsec. (b)(2), (3). Pub. L. 96–39, §807(a)(4)(B), substituted “on bonded premises” for “in storage in internal revenue bond”.
 
@@ -81,8 +81,4 @@ Section 206(f) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22
 &emsp;“(A) a consent of surety which changes (for periods on and after the date of the enactment of this Act) the condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 8 years from the date of original entry for deposit to a condition based on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit, or
 
 &emsp;“(B) a bond which applies to periods on and after the date of the enactment of this Act and which satisfies the requirements of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section, and is conditioned on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5007, 5008, 5010, 5061, 6207 of this title.
 

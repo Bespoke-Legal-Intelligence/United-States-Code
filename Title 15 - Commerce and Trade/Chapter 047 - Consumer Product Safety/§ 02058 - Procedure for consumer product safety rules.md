@@ -2,7 +2,7 @@
 
 #### (a) Commencement of proceeding; publication of prescribed notice of proposed rulemaking; transmittal of notice
 
-A proceeding for the development of a consumer product safety rule shall be commencedby the publication in the Federal Register of an advance notice of proposed rulemaking which shall—
+A proceeding for the development of a consumer product safety rule shall be commenced by the publication in the Federal Register of an advance notice of proposed rulemaking which shall—
 
 &emsp;(1) identify the product and the nature of the risk of injury associated with the product;
 
@@ -90,7 +90,7 @@ A consumer product safety rule shall express in the rule itself the risk of inju
 
 &emsp;(C) in the case of a rule declaring the product a banned hazardous product, that no feasible consumer product safety standard under this chapter would adequately protect the public from the unreasonable risk of injury associated with such product;
 
-&emsp;(D) in the case of a rule which relates to a risk of injury with respect to which personswho would be subject to such rule have adopted and implemented a voluntary consumer product safety standard, that—
+&emsp;(D) in the case of a rule which relates to a risk of injury with respect to which persons who would be subject to such rule have adopted and implemented a voluntary consumer product safety standard, that—
 
 &emsp;&emsp;(i) compliance with such voluntary consumer product safety standard is not likely to result in the elimination or adequate reduction of such risk of injury; or
 
@@ -122,9 +122,9 @@ The Commission shall grant, in whole or in part, or deny any petition under sect
 
 #### Amendments
 
-1990—Subsec. (b)(2). Pub. L. 101–608, §108(a), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+1990—Subsec. (b)(2). Pub. L. 101–608, §108(a), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or otherperson which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
-Subsec. (c). Pub. L. 101–608, §109, inserted at end “Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of an advance notice of proposed rulemaking under subsection (a) relating to the product involved, unless the Commission determines that such proposed rule is notreasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register.”
+Subsec. (c). Pub. L. 101–608, §109, inserted at end “Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of an advance notice of proposed rulemaking under subsection (a) relating to the product involved, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register.”
 
 Subsec. (i). Pub. L. 101–608, §110(a), added subsec. (i).
 

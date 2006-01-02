@@ -68,7 +68,7 @@
 
 #### (2) Multistate metropolitan areas
 
-&emsp;In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitanarea, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution's record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c) of this section. If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
+&emsp;In the case of a regulated financial institution that maintains domestic branches in 2 or more States within a multistate metropolitan area, the appropriate Federal financial supervisory agency shall prepare a separate written evaluation of the institution's record of performance within such metropolitan area under this chapter, as required by subsections (a), (b), and (c) of this section. If the agency prepares a written evaluation pursuant to this paragraph, the scope of the written evaluation required under paragraph (1)(B) shall be adjusted accordingly.
 
 #### (3) Content of State level evaluation
 
@@ -98,7 +98,7 @@ For purposes of this section the following definitions shall apply:
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(A)(i), (c)(3), and (d)(1), (2), was in the original “this Act” and was translated as reading “this title”, meaning title VIII of Pub. L. 95–128, known as the Community Reinvestment Act of 1977, to reflect the probable intent of Congress.
+This chapter, referred to in subsecs. (b)(1)(A)(i) and (c)(3), was in the original “this Act” and was translated as reading “this title”, meaning title VIII of Pub. L. 95–128, known as the Community Reinvestment Act of 1977, to reflect the probable intent of Congress.
 
 #### Amendments
 

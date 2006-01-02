@@ -38,11 +38,23 @@
 
 (C) Any suit alleging a violation of any provision of this subsection, to the extent it does not allege a violation of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], may be brought in any district court of the United States having jurisdiction over the parties, without regard to the amount in controversy or the citizenship of the parties.
 
+(8)
+
+Continuity of benefits.—To the extent appropriations are provided in advance for this purpose or are otherwise available, not later than 30 days after August 8, 2005, the Secretary shall implement such actions as are necessary to ensure that any employee who—
+
+&emsp;(A) is involved in providing infrastructure or environmental remediation services at the Portsmouth, Ohio, or the Paducah, Kentucky, Gaseous Diffusion Plant;
+
+&emsp;(B) has been an employee of the Department of Energy's predecessor management and integrating contractor (or its first or second tier subcontractors), or of the Corporation, at the Portsmouth, Ohio, or the Paducah, Kentucky, facility; and
+
+&emsp;(C) was eligible as of April 1, 2005, to participate in or transfer into the Multiple Employer Pension Plan or the associated multiple employer retiree health care benefit plans, as defined in those plans,
+
+> shall continue to be eligible to participate in or transfer into such pension or health care benefit plans.
+
 #### (b) Former Federal employees
 
 (1)(A) An employee of the Corporation that was subject to either the Civil Service Retirement System (referred to in this section as “CSRS”) or the Federal Employees’ Retirement System (referred to in this section as “FERS”) on the day immediately preceding the privatization date shall elect—
 
-&emsp;(i) to retain the employee's coverage under either CSRS or FERS, as applicable, in lieu ofcoverage by the Corporation's retirement system, or
+&emsp;(i) to retain the employee's coverage under either CSRS or FERS, as applicable, in lieu of coverage by the Corporation's retirement system, or
 
 &emsp;(ii) to receive a deferred annuity or lump-sum benefit payable to a terminated employee under CSRS or FERS, as applicable.
 
@@ -68,7 +80,7 @@
 
 (6) The amounts required under paragraph (5)(B) shall pay the Government contributions for retired employees who retire from the Corporation after the privatization date under either CSRS or FERS, for survivors of such retired employees, and for survivors of employees of the Corporation who die after the privatization date, with said amounts prorated to reflect only that portion of the total service of such employees and retired persons that was performed for the Corporation after the privatization date.
 
-(Pub. L. 104–134, title III, §3110, Apr. 26, 1996, 110 Stat. 1321–340; Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995.)
+(Pub. L. 104–134, title III, §3110, Apr. 26, 1996, 110 Stat. 1321–340; Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995; Pub. L. 109–58, title VI, §633, Aug. 8, 2005, 119 Stat. 790.)
 
 #### References in Text
 
@@ -83,6 +95,8 @@ Section 185 of title 29, referred to in subsec. (a)(7)(A), was in the original �
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+2005—Subsec. (a)(8). Pub. L. 109–58 added par. (8).
 
 1996—Subsec. (b)(3). Pub. L. 104–206 which directed the amendment of subsec. (b) by inserting par. (3), was executed to reflect the probable intent of Congress by substituting par. (3) for former par. (3) which read as follows: “The Corporation shall pay to the Thrift Savings Fund such employee and agency contributions as are required by section 8432 of title 5 for those employees who elect to retain their coverage under FERS pursuant to paragraph (1).”
 

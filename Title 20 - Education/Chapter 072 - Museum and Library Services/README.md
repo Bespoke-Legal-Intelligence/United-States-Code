@@ -120,7 +120,7 @@ I74subpart a—state requirements
 | (b) | Federal share. |
 | (c) | Review and evaluation. |
 | (d) | Services for Native Americans. |
-| 9174, 9175. | Repealed. |
+| 9174, 9175. Repealed. |  |
 | [9176\.](Subchapter%20003%20%28III%29%20-%20Museum%20Services/%C2%A7%2009176%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Grants. |
 | (b) | Administration. |

@@ -2,7 +2,7 @@
 
 #### (a) Agreement for use of personnel or facilities of Federal, tribal, State, or other government agency
 
-The Secretary may enter into an agreement for the use (with or without reimbursement) of the personnel or facilities of a Federal, tribal, State, or other government agency to aid in the enforcement or carrying out in Indian country of a law of either the United States or an Indian tribe that has authorized the Secretary to enforce tribal laws. The Secretary may authorize a law enforcement officer of such an agency to perform any activity the Secretary may authorize under section 2803 of this title.
+The Secretary may enter into an agreement for the use (with or without reimbursement) of the personnel or facilities of a Federal, tribal, State, or other government agency to aid in the enforcement or carrying out in Indian country of a law of either the United States or an Indiantribe that has authorized the Secretary to enforce tribal laws. The Secretary may authorize a law enforcement officer of such an agency to perform any activity the Secretary may authorize under section 2803 of this title.
 
 #### (b) Agreement to be in accord with agreements between Secretary and Attorney General
 

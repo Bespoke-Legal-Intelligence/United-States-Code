@@ -2,7 +2,7 @@
 
 #### (a) Nonforfeitable benefits
 
-Subject to the limitations contained in subsection (b) of this section, the corporation shall guarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under a single-employer plan which terminates at a time when this subchapter applies to it.
+Subject to the limitations contained in subsection (b) of this section, the corporation shall guarantee, in accordance with this section, the payment of all nonforfeitable benefits (other than benefits becoming nonforfeitable solely on account of the termination of a plan) under asingle-employer plan which terminates at a time when this subchapter applies to it.
 
 #### (b) Exceptions
 
@@ -104,7 +104,7 @@ For purposes of subsection (a) of this section, a qualified preretirement surviv
 
 For purposes of this section, the effective date of a plan amendment described in section 1054(i)(1) of this title shall be the effective date of the plan of reorganization of the employer described in section 1054(i)(1) of this title or, if later, the effective date stated in such amendment.
 
-(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI,§11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049.)
+(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049.)
 
 #### References in Text
 

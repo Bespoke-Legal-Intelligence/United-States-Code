@@ -1,6 +1,6 @@
 ### §706. Secretary of Commerce; current precipitation information; appropriation
 
-There is authorized an expenditure as required, from any appropriations heretofore or hereafter made for flood control, rivers and harbors, and related purposes by the United States, for the establishment, operation, and maintenance by the Secretary of Commerce of a network of recording and nonrecording precipitation stations, known as the Hydroclimatic Network, whenever in the opinion of the Chief of Engineers and the Secretary of Commerce such service is advisable in connection with either preliminary examinations and surveys or works of improvement authorized by the law for flood control, rivers and harbors, and related purposes, and the Secretary of the Army upon the recommendation of the Chief of Engineers is authorized to allot the Secretary of Commerce funds for said expenditure.
+There is authorized an expenditure as required, from any appropriations heretofore or hereafter made for flood control, rivers and harbors, and related purposes by the United States, for the establishment, operation, and maintenance by the Secretary of Commerce of a network of recording and nonrecording precipitation stations, known as the Hydroclimatic Network, whenever in the opinion of the Chief of Engineers and the Secretary of Commerce such service is advisable in connection with either preliminary examinations and surveys or works of improvement authorized by the law for flood control, rivers and harbors, and related purposes, and the Secretary of the Army upon therecommendation of the Chief of Engineers is authorized to allot the Secretary of Commerce funds for said expenditure.
 
 (June 28, 1938, ch. 795, §8, 52 Stat. 1226; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Sept. 3, 1954, ch. 1264, title II, §207, 68 Stat. 1266.)
 
@@ -10,7 +10,7 @@ There is authorized an expenditure as required, from any appropriations heretofo
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947,ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Transfer of Functions
 

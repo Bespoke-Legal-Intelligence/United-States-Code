@@ -16,7 +16,7 @@
 
 #### (4) Distilled spirits withdrawn free of tax
 
-&emsp;Any person who removes, sells, transports, or uses distilled spirits, withdrawn free of tax under section 5214(a) or section 7510, in violation of laws or regulations now or hereafter in force pertaining thereto, and all such distilled spirits shall be subject to all provisions of law relating to distilled spirits subject to tax, including those requiring payment of the tax thereon; and the person so removing, selling, transporting, or using the distilled spirits shall be required to pay such tax.
+&emsp;Any person who removes, sells, transports, or uses distilled spirits, withdrawn free of tax under section 5214(a) or section 7510, in violation of laws or regulations now or hereafter in force pertaining thereto, and all such distilled spirits shall be subject to all provisions of law relating to distilled spirits subject to tax, including those requiring payment of the taxthereon; and the person so removing, selling, transporting, or using the distilled spirits shall be required to pay such tax.
 
 #### (5) Denatured distilled spirits or articles
 
@@ -390,7 +390,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Treasury or his
 
 &emsp;“(E)
 
-Treatment of imported perfumes containing distilled spirits.—Any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of aproof gallon basis. To the extent provided in regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on October 1, 1985, on the premises of a retail establishment.
+Treatment of imported perfumes containing distilled spirits.—Any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of a proof gallon basis. To the extent provided in regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on October 1, 1985, on the premises of a retail establishment.
 
 &emsp;“(F)
 
@@ -401,8 +401,4 @@ Treatment of distilled spirits in foreign trade zones.—Notwithstanding the Act
 &emsp;&emsp;“(ii) such distilled spirits are held on such date under the supervision of customs pursuant to the second proviso of such section 3(a).
 
 > &emsp;Under regulations prescribed by the Secretary, provisions similar to sections 5062 and 5064 of such Code shall apply to distilled spirits with respect to which tax is imposed by paragraph (1) by reason of this subparagraph.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5004, 5005, 5007, 5008, 5010, 5061, 5066, 5215, 5273, 5314, 5391, 5512, 7652 of this title.
 

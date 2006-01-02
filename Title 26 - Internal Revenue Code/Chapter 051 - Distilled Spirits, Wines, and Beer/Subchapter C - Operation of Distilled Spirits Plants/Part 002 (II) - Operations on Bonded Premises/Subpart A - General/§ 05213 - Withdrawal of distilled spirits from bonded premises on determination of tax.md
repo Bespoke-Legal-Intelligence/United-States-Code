@@ -20,7 +20,3 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5006 of this title.
-

@@ -42,7 +42,7 @@ Each manufacturer, distributor, and retailer of manufactured homes shall establi
 
 #### (g) Performance and technical data from manufacturer; persons required to receive notification of data
 
-Each manufacturer of manufactured homes shall provide to the Secretary such performance data and other technical data related to performance and safety as may be required to carryout the purposes of this chapter. These shall include records of tests and test results which the Secretary may require to be performed. The Secretary is authorized to require the manufacturer to give notification of such performance and technical data to—
+Each manufacturer of manufactured homes shall provide to the Secretary such performance data and other technical data related to performance and safety as may be required to carry out the purposes of this chapter. These shall include records of tests and test results which the Secretary may require to be performed. The Secretary is authorized to require the manufacturer to give notification of such performance and technical data to—
 
 &emsp;(1) each prospective purchaser of a manufactured home before its first sale for purposes other than resale, at each location where any such manufacturer's manufactured homes are offered for sale by a person with whom such manufacturer has a contractual, proprietary, or other legal relationship and in a manner determined by the Secretary to be appropriate, which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser, and (B) sent by mail to such prospective purchaser upon his request; and
 
@@ -50,7 +50,7 @@ Each manufacturer of manufactured homes shall provide to the Secretary such perf
 
 #### (h) Disclosure of confidential information and trade secrets
 
-All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) of this section which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
+All information reported to or otherwise obtained by the Secretary or his representativepursuant to subsection (b), (c), (f), or (g) of this section which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
 
 (Pub. L. 93–383, title VI, §614, Aug. 22, 1974, 88 Stat. 707; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §603(b)(2), Dec. 27, 2000, 114 Stat. 2999.)
 

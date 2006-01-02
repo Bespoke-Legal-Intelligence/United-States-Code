@@ -22,11 +22,15 @@ The Commission shall report promptly to the Attorney General any information it 
 
 (6) In the event the Commission's finding under paragraph (5) is in the affirmative, the Commission shall also consider, in determining whether the license should be issued or continued, such other factors, including the need for power in the affected area, as the Commission in its judgment deems necessary to protect the public interest. On the basis of its findings, the Commission shall have the authority to issue or continue a license as applied for, to refuse to issue a license, to rescind a license or amend it, and to issue a license with such conditions as it deems appropriate.
 
-(7) The Commission, with the approval of the Attorney General, may except from any of the requirements of this subsection such classes or types of licenses as the Commission may determine would not significantly affect the applicant's activities under the antitrust laws as specified in subsection (a) of this section.
+(7) The Commission, with the approval of the Attorney General, may except from any of therequirements of this subsection such classes or types of licenses as the Commission may determine would not significantly affect the applicant's activities under the antitrust laws as specified in subsection (a) of this section.
 
 (8) With respect to any application for a construction permit on file at the time of enactment into law of this subsection, which permit would be for issuance under section 2133 of this title, and with respect to any application for an operating license in connection with which a written request for an antitrust review is made as provided for in paragraph (3), the Commission, after consultation with the Attorney General, may, upon determination that such action is necessary in the public interest to avoid unnecessary delay, establish by rule or order periods for Commission notification and receipt of advice differing from those set forth above and may issue a construction permit or operating license in advance of consideration of and findings with respect to the matters covered in this subsection: <i>Provided</i>, That any construction permit or operating license so issued shall contain such conditions as the Commission deems appropriate to assure that any subsequent findings and orders of the Commission with respect to such matters will be given full force and effect.
 
-(Aug. 1, 1946, ch. 724, title I, §105, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 938; amended Pub. L. 88–489, §14, Aug. 26, 1964, 78 Stat. 606; Pub. L. 91–560, §6, Dec. 19, 1970, 84 Stat. 1473; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(D), Nov. 2, 2002, 116 Stat. 1921.)
+(9)
+
+Applicability.—This subsection does not apply to an application for a license to construct or operate a utilization facility or production facility under section 2133 or 2134(b) of this title that is filed on or after August 8, 2005.
+
+(Aug. 1, 1946, ch. 724, title I, §105, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 938; amended Pub. L. 88–489, §14, Aug. 26, 1964, 78 Stat. 606; Pub. L. 91–560, §6, Dec. 19, 1970, 84 Stat. 1473; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(D), Nov. 2, 2002, 116 Stat. 1921; Pub. L. 109–58, title VI, §625, Aug. 8, 2005, 119 Stat. 784.)
 
 #### References in Text
 
@@ -43,6 +47,8 @@ The act to create a Federal Trade Commission, to define its powers and duties, a
 Provisions similar to this section were contained in section 1807(c) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+
+2005—Subsec. (c)(9). Pub. L. 109–58 added par. (9).
 
 2002—Subsec. (a). Pub. L. 107–273 substituted “seventy-six” for “seventy-seven”.
 

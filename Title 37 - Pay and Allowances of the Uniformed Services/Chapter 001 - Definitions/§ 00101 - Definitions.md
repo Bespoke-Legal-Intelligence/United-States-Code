@@ -90,7 +90,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(B) the Army Reserve;
 
-&emsp;&emsp;(C) the Naval Reserve;
+&emsp;&emsp;(C) the Navy Reserve;
 
 &emsp;&emsp;(D) the Marine Corps Reserve;
 
@@ -106,7 +106,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;(26) The term “contingency operation” has the meaning given that term in section 101 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, §603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, §651, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–107, div. A, title VI, §603(b), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(a), Dec. 2, 2002, 116 Stat. 2581.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, §603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, §651, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–107, div. A, title VI, §603(b), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(a), Dec. 2, 2002, 116 Stat. 2581; Pub. L. 109–163, div. A, title V, §515(d)(1)(A), Jan. 6, 2006, 119 Stat. 3235.)
 
 Historical and Revision Notes
 
@@ -242,6 +242,8 @@ For definition of Canal Zone, referred to in pars. (7) and (9), see section 3602
 
 #### Amendments
 
+2006—Par. (24)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 2002—Par. (1). Pub. L. 107–314 designated existing provisions as subpar. (A) and added subpar. (B).
 
 Par. (5)(D). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -332,9 +334,9 @@ Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: “That this Act \[
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
+Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, andsection 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

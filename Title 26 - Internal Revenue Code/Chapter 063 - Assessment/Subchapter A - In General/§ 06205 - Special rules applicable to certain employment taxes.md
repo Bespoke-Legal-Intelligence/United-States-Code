@@ -12,7 +12,7 @@
 
 #### (3) Guam or American Samoa as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year from the Government of Guam, the Government of American Samoa, a political subdivision of either, or any instrumentality ofany one or more of the foregoing which is wholly owned thereby, the Governor of Guam, the Governor of American Samoa, and each agent designated by either who makes a return pursuant to section 3125 shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received during any calendar year from the Government of Guam, the Government of American Samoa, a political subdivision of either, or any instrumentality of any one or more of the foregoing which is wholly owned thereby, the Governor of Guam, the Governor of American Samoa, and each agent designated by either who makes a return pursuant to section 3125 shall be deemed a separate employer.
 
 #### (4) District of Columbia as employer
 
@@ -57,8 +57,4 @@ Amendment by Pub. L. 89–97 applicable with respect to services performed after
 #### Effective Date of 1960 Amendment
 
 Amendment by Pub. L. 86–778 applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, The Public Health and Welfare, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6601 of this title.
 

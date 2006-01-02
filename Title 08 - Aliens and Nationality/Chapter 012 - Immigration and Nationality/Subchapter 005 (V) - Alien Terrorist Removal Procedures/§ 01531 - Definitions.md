@@ -30,7 +30,7 @@ Par. (7). Pub. L. 104–208, §354(a)(5), added par. (7).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(1) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(1) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by section 354(a)(5) of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 358 of Pub. L. 104–208, set out as a note under section 1182 of this title.
 

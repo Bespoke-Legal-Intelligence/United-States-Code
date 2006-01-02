@@ -30,10 +30,6 @@
 
 1958—Pub. L. 85–861, §1(151), Sept. 2, 1958, 72 Stat. 1513, struck out item 7471 “Appointments: professional and scientific services”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1552 of this title.
-
 
 ---
 

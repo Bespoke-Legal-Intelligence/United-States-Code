@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts made available to each eligible agency under section 2372 of this title, the eligible agency, in accordance with the provisions of this subchapter, shall award grants, on a competitive basis or on the basis of a formula determined by the eligible agency, for tech-prep education programs described in subsection (c) of this section. The grants shall be awarded to consortia between or among—
+&emsp;From amounts made available to each eligible agency under section 2372 of this title, the eligible agency, in accordance with the provisions of this subchapter, shall award grants, on a competitive basis or on the basis of a formula determined by the eligible agency, for tech-prep education programs described insubsection (c) of this section. The grants shall be awarded to consortia between or among—
 
 &emsp;&emsp;(A) a local educational agency, an intermediate educational agency or area vocational and technical education school serving secondary school students, or a secondary school funded by the Bureau of Indian Affairs; and
 

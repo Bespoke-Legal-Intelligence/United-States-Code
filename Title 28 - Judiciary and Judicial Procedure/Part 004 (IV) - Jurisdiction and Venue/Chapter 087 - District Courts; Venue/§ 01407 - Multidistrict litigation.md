@@ -2,7 +2,7 @@
 
 (a) When civil actions involving one or more common questions of fact are pending in different districts, such actions may be transferred to any district for coordinated or consolidated pretrial proceedings. Such transfers shall be made by the judicial panel on multidistrict litigation authorized by this section upon its determination that transfers for such proceedings will be for the convenience of parties and witnesses and will promote the just and efficient conduct of such actions. Each action so transferred shall be remanded by the panel at or before the conclusion of such pretrial proceedings to the district from which it was transferred unless it shall have been previously terminated: <i>Provided, however</i>, That the panel may separate any claim, cross-claim, counter-claim, or third-party claim and remand any of such claims before the remainder of the action is remanded.
 
-(b) Such coordinated or consolidated pretrial proceedings shall be conducted by a judge or judges to whom such actions are assigned by the judicial panel on multidistrict litigation. For this purpose, upon request of the panel, a circuit judge or a district judge may be designated and assigned temporarily for service in the transferee district by the Chief Justice of the United States or the chief judge of the circuit, as may be required, in accordance with the provisions of chapter 13 of this title. With the consent of the transferee district court, such actions may be assigned by the panel to a judge or judges of such district. The judge or judges to whom such actions are assigned, the members of the judicial panel on multidistrict litigation, and other circuit and district judges designated when needed by the panel may exercise the powers ofa district judge in any district for the purpose of conducting pretrial depositions in such coordinated or consolidated pretrial proceedings.
+(b) Such coordinated or consolidated pretrial proceedings shall be conducted by a judge or judges to whom such actions are assigned by the judicial panel on multidistrict litigation. For this purpose, upon request of the panel, a circuit judge or a district judge may be designated and assigned temporarily for service in the transferee district by the Chief Justice of the United States or the chief judge of the circuit, as may be required, in accordance with the provisions of chapter 13 of this title. With the consent of the transferee district court, such actions may be assigned by the panel to a judge or judges of such district. The judge or judges to whom such actions are assigned, the members of the judicial panel on multidistrict litigation, and other circuit and district judges designated when needed by the panel may exercise the powers of a district judge in any district for the purpose of conducting pretrial depositions in such coordinated or consolidated pretrial proceedings.
 
 (c) Proceedings for the transfer of an action under this section may be initiated by—
 
@@ -36,7 +36,7 @@ Section 4C of the Clayton Act, referred to in subsec. (h), is section 4C of act 
 
 ### <b>RULES OF PROCEDURE OF THE JUDICIAL PANEL ON MULTIDISTRICT LITIGATION</b>
 
-#### <i>(Adopted February 26, 1981, effective June 1, 1981, as amended to April 2, 2001)</i>
+#### <i>(Adopted February 26, 1981, effective June 1, 1981, as amended to January 2, 2006)</i>
 
 #### I. GENERAL RULES/RULES FOR MULTIDISTRICT LITIGATION UNDER 28 U.S.C. §1407
 
@@ -194,7 +194,7 @@ The pendency of a motion, order to show cause, conditional transfer order or con
 
 (a) Upon receipt of a certified copy of a transfer order from the clerk of the transferee district court, the clerk of the transferor district court shall forward to the clerk of the transferee district court the complete original file and a certified copy of the docket sheet for each transferred action.
 
-(b) If an appeal is pending, or a notice of appeal has been filed, or leave to appeal has been sought under 28 U.S.C. §1292(b) or a petition for an extraordinary writ is pending, in any action included in an order of transfer under 28 U.S.C. §1407, and the original file or parts thereof have been forwarded to the court of appeals, the clerk of the transferor district court shall notify the clerk of the court of appeals of the order of transfer and secure the original file long enough to prepare and transmit to the clerk of the transferee district court a certified copy of all papers contained in the original file and a certified copy of the docket sheet.
+(b) If an appeal is pending, or a notice of appeal has been filed, or leave to appeal has been sought under 28 U.S.C. §1292(b) or a petition for an extraordinary writ is pending, in any action included in an order of transfer under 28 U.S.C. §1407, and the original file or parts thereof have been forwarded to the court of appeals, the clerk of the transferor district court shall notify the clerk of the court of appeals of the order oftransfer and secure the original file long enough to prepare and transmit to the clerk of the transferee district court a certified copy of all papers contained in the original file and a certified copy of the docket sheet.
 
 (c) If the transfer order provides for the separation and simultaneous remand of any claim, cross-claim, counterclaim, or third-party claim, the clerk of the transferor district court shall retain the original file and shall prepare and transmit to the clerk of the transferee district court a certified copy of the docket sheet and copies of all papers except those relating exclusively to separated and remanded claims.
 
@@ -252,6 +252,18 @@ Washington, D.C. 20002–8004
 
 (As amended June 14, 1988, eff. July 6, 1988; May 3, 1993, eff. July 1, 1993; Sept. 1, 1998, eff. Nov. 2, 1998; Apr. 2, 2001, eff. Apr. 2, 2001.)
 
+#### <i>ORDER PARTIALLY SUSPENDING PANEL RULE 5.12(a), MANNER OF FILING PAPERS</i>
+
+IT IS HEREBY ORDERED that, because the Panel is utilizing filed papers and electronic distribution of those papers, Panel Rule 5.12(a), Manner of Filing Papers, R.P.J.P.M.L., 199 F.R.D. 425, 429 (2001), is partially suspended insofar as papers submitted for filing requiring an original and eleven copies shall be reduced to four copies along with an original.
+
+FOR THE PANEL:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Wm. Terrell Hodges
+
+&emsp;&emsp;&nbsp;Chairman
+
 ### Rule 5.13: Filing of Papers: Computer Generated Disk Required
 
 (a) Whenever an original paper and eleven copies is required to be submitted for filing to the Clerk of the Panel pursuant to Rule 5.12(a) of these Rules, and where a party is represented by counsel, one copy of that paper must also be submitted on a computer readable disk and shall be filed at the time the party's paper is filed. The disk shall contain the entire paper exclusive of computer non-generated exhibits. The label of the disk shall include i) “MDL \#\_\_\_\_,” ii) an abbreviated version of the MDL descriptive title, or other appropriate descriptive title, if not yet designated by the Panel, iii) the identity of the type of paper being filed (i.e. motion, response, reply, etc.), iv) the name of the counsel who signed the paper, and v) the first named represented party on the paper.
@@ -282,7 +294,7 @@ Washington, D.C. 20002–8004
 
 (a) Any nongovernmental corporate party to a matter before the Panel shall file a statement identifying all its parent corporations and listing any publicly held company that owns 10% or more of the party's stock.
 
-(b) A party shall file the corporate disclosure statement within eleven days of the filing of a motion to transfer or remand, an order to show cause, or a motion to vacate a conditional transfer order or a conditional remand order.
+(b) A party shall file the corporate disclosure statement within eleven days of the filing of a motion to transfer or remand, an order to showcause, or a motion to vacate a conditional transfer order or a conditional remand order.
 
 (c) Once a corporate disclosure statement by a party has been filed in an MDL docket pursuant to subsection (b) of this Rule, such a party is required to update the statement to reflect any change in the information therein i) until the matter before the Panel is decided, and ii) within eleven days of the filing of any subsequent motion to transfer or remand, order to show cause, or motion to vacate a conditional transfer order or a conditional remand order in that docket.
 
@@ -298,7 +310,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 (a) Averments in any motion seeking action by the Panel shall be made in numbered paragraphs, each of which shall be limited, as far as practicable, to a statement of a single factual averment.
 
-(b) Responses to averments in motions shall be made in numbered paragraphs, each of which shall correspond to the number of the paragraph of the motion to which the responsive paragraph is directed. Each responsive paragraph shall admit or deny wholly or in part the averment ofthe motion, and shall contain the respondent's version of the subject matter when the averment or the motion is not wholly admitted.
+(b) Responses to averments in motions shall be made in numbered paragraphs, each of which shall correspond to the number of the paragraph of the motion to which the responsive paragraph is directed. Each responsive paragraph shall admit or deny wholly or in part the averment of the motion, and shall contain the respondent's version of the subject matter when the averment or the motion is not wholly admitted.
 
 (c) Each pleading filed shall be:
 
@@ -352,7 +364,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 (g) A joinder in a motion shall not add any action to the previous motion.
 
-(h) Once a motion is filed, any other pleading that purports to be a “motion” in the docket shall be filed by the Clerk of the Panel as a response unless the “motion” adds an action. The Clerk of the Panel, upon designating such a pleading as a motion, shall acknowledge that designation by the distribution of a briefing schedule to all parties in the docket. Response time resulting from an additional motion shall ordinarily be extended only to those parties directly affected by the additional motion. An accelerated briefing schedule for the additional motion may be set by the Clerk of the Panel to conform with the hearing session schedule established by the Chairman.
+(h) Once a motion is filed, any other pleading that purports to be a “motion” in the docketshall be filed by the Clerk of the Panel as a response unless the “motion” adds an action. The Clerk of the Panel, upon designating such a pleading as a motion, shall acknowledge that designation by the distribution of a briefing schedule to all parties in the docket. Response time resulting from an additional motion shall ordinarily be extended only to those parties directly affected by the additional motion. An accelerated briefing schedule for the additional motion may be set by the Clerk of the Panel to conform with the hearing session schedule established by the Chairman.
 
 (i) Any party or counsel in a new group of actions under consideration by the Panel for transfer under Section 1407 shall promptly notify the Clerk of the Panel of any potential tag-along action in which that party is also named or in which that counsel appears.
 
@@ -394,7 +406,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 (b) Upon learning of the pendency of a potential “tag-along action” and having reasonable anticipation of opposition to transfer of that action, the Panel may direct the Clerk of the Panel to file a show cause order, in accordance with Rule 7.3 of these Rules, instead of a conditional transfer order.
 
-(c) Failure to serve one or more of the defendants in a potential “tag-along action” with the complaint and summons as required by Rule 4 of the Federal Rules of Civil Procedure does not preclude transfer of such action under Section 1407. Such failure, however, may be submitted by such a defendant as a basis for opposing the proposed transfer if prejudice can be shown. The inability of the Clerk of the Panel to serve a conditional transfer order on all plaintiffs or defendants or their counsel shall not render the transfer of the action void but can be submitted by such a party as a basis for moving to remand as to such party if prejudice can be shown.
+(c) Failure to serve one or more of the defendants in a potential “tag-along action” with the complaint and summons as required by Rule 4 of the Federal Rules of Civil Procedure does not preclude transfer of such action under Section 1407. Such failure, however, may be submitted by such a defendant as a basis for opposing the proposed transfer if prejudice can be shown. The inability of the Clerk of the Panel to serve a conditional transfer order on all plaintiffs or defendants or their counsel shall not render the transfer of the action void but can be submittedby such a party as a basis for moving to remand as to such party if prejudice can be shown.
 
 (d) A civil action apparently involving common questions of fact with actions under consideration by the Panel for transfer under Section 1407, which was either not included in a motion under Rule 7.2 of these Rules, or was included in such a motion that was filed too late to be included in the initial hearing session, will ordinarily be treated by the Panel as a potential “tag-along action.”
 
@@ -530,7 +542,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 ### Rule 25.3: Service of Notices
 
-(a) All notices of multicircuit petitions for review shall be accompanied by proof of service by the affected agency on all other parties in all petitions for review included in the notice. Service and proof of service shall be made as provided in Rule 25 of the Federal Rules of Appellate Procedure. The proof of service shall state the nameand address of each person served and shall indicate the party represented by each. If a party is not represented by counsel, the proof of service shall indicate the name of the party and his or her last known address. The original proof of service shall be submitted by the affected agency for filing with the Clerk of the Panel and copies thereof shall be sent by the affected agency to each person included within the proof of service.
+(a) All notices of multicircuit petitions for review shall be accompanied by proof of service by the affected agency on all other parties in all petitions for review included in the notice. Service and proof of service shall be made as provided in Rule 25 of the Federal Rules of Appellate Procedure. The proof of service shall state the name and address of each person served and shall indicate the party represented by each. If a party is not represented by counsel, the proof of service shall indicate the name of the party and his or her last known address. The original proof of service shall be submitted by the affected agency for filing with the Clerk of the Panel and copies thereof shall be sent by the affected agency to each person included within the proof of service.
 
 (b) The proof of service pertaining to notices of multicircuit petitions for review shall certify that copies of the notices have been mailed or otherwise delivered by the affected agency for filing to the clerk of each circuit court of appeals in which a petition for review is pending that is included in the notice.
 

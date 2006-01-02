@@ -11,3 +11,4 @@ Part B—Other Miscellaneous Provisions
 - [&sect; 13554 - Tar sands](%C2%A7%2013554%20-%20Tar%20sands.md)
 - [&sect; 13555 - Consultative Commission on Western Hemisphere Energy and Environment](%C2%A7%2013555%20-%20Consultative%20Commission%20on%20Western%20Hemisphere%20Energy%20and%20Environment.md)
 - [&sect; 13556 - Disadvantaged business enterprises](%C2%A7%2013556%20-%20Disadvantaged%20business%20enterprises.md)
+- [&sect; 13557 - Sense of Congress on risk assessments](%C2%A7%2013557%20-%20Sense%20of%20Congress%20on%20risk%20assessments.md)

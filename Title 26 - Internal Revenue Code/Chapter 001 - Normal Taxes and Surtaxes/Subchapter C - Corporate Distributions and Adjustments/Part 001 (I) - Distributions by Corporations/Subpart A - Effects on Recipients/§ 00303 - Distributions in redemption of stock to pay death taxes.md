@@ -38,7 +38,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 #### (3) Relationship of shareholder to estate tax
 
-&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that theinterest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
+&emsp;Subsection (a) shall apply to a distribution by a corporation only to the extent that the interest of the shareholder is reduced directly (or through a binding obligation to contribute) by any payment of an amount described in paragraph (1) or (2) of subsection (a).
 
 #### (4) Additional requirements for distributions made more than 4 years after decedent's death
 
@@ -117,8 +117,4 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 Amendment by section 2004(e)(1)–(4) of Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2004(g) of Pub. L. 94–455, set out as an Effective Date note under section 6166 of this title.
 
 For effective date of amendment by section 2006(b)(4) of Pub. L. 94–455, see section 2006(c) of Pub. L. 94–455, set out as an Effective Date note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302, 304, 312, 537, 1248, 1368, 2035, 2056A, 6166 of this title.
 

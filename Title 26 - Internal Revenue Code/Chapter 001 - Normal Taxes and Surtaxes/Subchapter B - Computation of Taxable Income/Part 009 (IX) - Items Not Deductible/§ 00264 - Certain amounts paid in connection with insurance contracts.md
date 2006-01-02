@@ -12,7 +12,7 @@ No deduction shall be allowed for—
 
 &emsp;(4) Except as provided in subsection (e), any interest paid or accrued on any indebtedness with respect to 1 or more life insurance policies owned by the taxpayer covering the life of any individual, or any endowment or annuity contracts owned by the taxpayer covering any individual.
 
-> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased after March 1, 1954. Paragraph (3) shall apply only inrespect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
+> Paragraph (2) shall apply in respect of annuity contracts only as to contracts purchased after March 1, 1954. Paragraph (3) shall apply only in respect of contracts purchased after August 6, 1963. Paragraph (4) shall apply with respect to contracts purchased after June 20, 1986.
 
 #### (b) Exceptions to subsection (a)(1)
 
@@ -72,7 +72,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;&emsp;&emsp;(II) which is a contract providing a variable rate of interest, the applicable rate of interest for any month in an applicable period shall be such Moody's rate for the third month preceding the first month in such period.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), the term “applicable period” means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), the term “applicable period” means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentenceand, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (3) Key person
 
@@ -158,7 +158,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (E) Master contracts
 
-&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes of the preceding sentence, the term “master contract” shall not include any group life insurance contract (as defined in section 848(e)(2)).
+&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes ofthe preceding sentence, the term “master contract” shall not include any group life insurance contract (as defined in section 848(e)(2)).
 
 #### (5) Exception for policies and contracts held by natural persons; treatment of partnerships and S corporations
 
@@ -342,7 +342,17 @@ Applicable percentage.—For purposes of subparagraph (B), the applicable percen
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-I37 1996L 100 percent I37 1997L 90 percent I37 1998L 80 percent.”
+&nbsp;1996
+
+&nbsp;100 percent&nbsp;
+
+&nbsp;1997
+
+&nbsp;90 percent&nbsp;
+
+&nbsp;1998
+
+&nbsp;80 percent.”
 
 #### Effective Date of 1986 Amendment
 
@@ -383,8 +393,4 @@ Special rule for deferred acquisition costs.—In the case of the occurrence of 
 &emsp;“(A) section 848 of the Internal Revenue Code of 1986 shall not apply to the unamortized balance (if any) of the specified policy acquisition expenses attributable to such policy or contract immediately before the insurance company's taxable year in which such event occurs, and
 
 &emsp;“(B) there shall be allowed as a deduction to such company for such taxable year under chapter 1 of such Code an amount equal to such unamortized balance.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 265, 419, 805, 807, 812, 832, 6724 of this title.
 

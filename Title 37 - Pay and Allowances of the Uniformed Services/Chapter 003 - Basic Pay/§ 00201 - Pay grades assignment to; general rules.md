@@ -31,11 +31,11 @@
 
 (c) Unless entitled to the basic pay of a higher pay grade, an aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the lowest rate prescribed for pay grade E–4.
 
-(d) Unless he is entitled to the basic pay of a higher pay grade, an aviation pilot of the Naval Reserve, Marine Corps Reserve, or Coast Guard Reserve is entitled to monthly basic pay at the rate prescribed for pay grade E–5.
+(d) Unless he is entitled to the basic pay of a higher pay grade, an aviation pilot of the Navy Reserve, Marine Corps Reserve, or Coast Guard Reserve is entitled to monthly basic pay at the rate prescribed for pay grade E–5.
 
 (e) Except as provided by subsections (c) and (d), enlisted members of the uniformed services shall, for the purpose of computing their basic pay, be distributed by the Secretary concerned in the various enlisted pay grades set forth in section 203 of this title. However, except as provided by section 307 of this title, an enlisted member may not be placed in pay grade E–8 or E–9 until he has completed at least 8 years or 10 years, respectively, of enlisted service computed under section 205 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 453; Pub. L. 88–132, §3(a), Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 91–278, §3(1), June 12, 1970, 84 Stat. 306; Pub. L. 95–79, title III, §302(a)(1), July 30, 1977, 91 Stat. 326; Pub. L. 96–76, title III, §313(a), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §§506(3), 516(2), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 97–86, title IV, §405(c), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title IX, §932(d), Sept. 24, 1983, 97 Stat. 650; Pub. L. 98–557, §25(b)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(d)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–502, §5(k)(2), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L.102–190, div. A, title VI, §605, title XI, §1111(b), Dec. 5, 1991, 105 Stat. 1374, 1491.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 453; Pub. L. 88–132, §3(a), Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 91–278, §3(1), June 12, 1970, 84 Stat. 306; Pub. L. 95–79, title III, §302(a)(1), July 30, 1977, 91 Stat. 326; Pub. L. 96–76, title III, §313(a), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §§506(3), 516(2), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L.97–86, title IV, §405(c), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title IX, §932(d), Sept. 24, 1983, 97 Stat. 650; Pub. L. 98–557, §25(b)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(d)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–502, §5(k)(2), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §605, title XI, §1111(b), Dec. 5, 1991, 105 Stat. 1374, 1491; Pub. L. 109–163, div. A, title V, §515(d)(1)(B), Jan. 6, 2006, 119 Stat. 3236.)
 
 Historical and Revision Notes
 
@@ -105,6 +105,8 @@ In subsection (g), the words “Except as provided by subsections (e) and (f)”
 
 #### Amendments
 
+2006—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 1991—Subsec. (b). Pub. L. 102–190, §1111(b), amended table generally, adding provisions relating to Chief Warrant Officer at grade W–5.
 
 Subsec. (c). Pub. L. 102–190, §605, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the rate of 50 percent of the basic pay of a commissioned officer in pay grade O–1 with two or less years of service computed under section 205 of this title.”
@@ -141,7 +143,7 @@ Amendment by section 1111(b) of Pub. L. 102–190 effective Feb. 1, 1992, see se
 
 #### Effective Date of 1990 Amendment
 
-Section 5(k)(3) of Pub. L. 101–502 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day ofthe month immediately following the month in which this Act was enacted \[November 1990\].”
+Section 5(k)(3) of Pub. L. 101–502 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day of the month immediately following the month in which this Act was enacted \[November 1990\].”
 
 #### Effective Date of 1983 Amendment
 

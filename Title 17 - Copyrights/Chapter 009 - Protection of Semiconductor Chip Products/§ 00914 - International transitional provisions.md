@@ -1,6 +1,6 @@
 ### §914. International transitional provisions
 
-(a) Notwithstanding the conditions set forth in subparagraphs (A) and (C) of section 902(a)(1) with respect to the availability of protection under this chapter to nationals, domiciliaries, and sovereign authorities of a foreign nation, the Secretary of Commerce may, upon the petition of any person, or upon the Secretary's own motion, issue an order extending protection under this chapter to such foreign nationals, domiciliaries, and sovereign authorities if the Secretary finds—
+(a) Notwithstanding the conditions set forth in subparagraphs (A) and (C) of section 902(a)(1)with respect to the availability of protection under this chapter to nationals, domiciliaries, and sovereign authorities of a foreign nation, the Secretary of Commerce may, upon the petition of any person, or upon the Secretary's own motion, issue an order extending protection under this chapter to such foreign nationals, domiciliaries, and sovereign authorities if the Secretary finds—
 
 &emsp;(1) that the foreign nation is making good faith efforts and reasonable progress toward—
 

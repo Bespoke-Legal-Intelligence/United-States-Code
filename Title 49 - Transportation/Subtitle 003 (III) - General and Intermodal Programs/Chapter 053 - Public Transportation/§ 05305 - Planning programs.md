@@ -1,0 +1,182 @@
+### §5305. Planning programs
+
+(a)
+
+State Defined.—In this section, the term “State” means a State of the United States, the District of Columbia, and Puerto Rico.
+
+(b)
+
+General Authority.—
+
+&emsp;(1)
+
+Grants and agreements.—Under criteria established by the Secretary, the Secretary may award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities, and make agreements with other departments, agencies, or instrumentalities of the Government to—
+
+&emsp;&emsp;(A) develop transportation plans and programs;
+
+&emsp;&emsp;(B) plan, engineer, design, and evaluate a public transportation project; and
+
+&emsp;&emsp;(C) conduct technical studies relating to public transportation.
+
+&emsp;(2)
+
+Eligible activities.—Activities eligible under paragraph (1) include the following:
+
+&emsp;&emsp;(A) Studies related to management, planning, operations, capital requirements, and economic feasibility.
+
+&emsp;&emsp;(B) Evaluating previously financed projects.
+
+&emsp;&emsp;(C) Peer reviews and exchanges of technical data, information, assistance, and related activities in support of planning and environmental analyses among metropolitan planning organizations and other transportation planners.
+
+&emsp;&emsp;(D) Other similar and related activities preliminary to and in preparation for constructing, acquiring, or improving the operation of facilities and equipment.
+
+(c)
+
+Purpose.—To the extent practicable, the Secretary shall ensure that amounts appropriated or made available under section 5338 to carry out this section and sections 5303, 5304, and 5306 are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
+
+(d)
+
+Metropolitan Planning Program.—
+
+&emsp;(1)
+
+Apportionment to states.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall apportion 80 percent of the amounts made available under subsection (g)(1) among the States to carry out sections 5303 and 5306 in the ratio that—
+
+&emsp;&emsp;&emsp;(i) the population of urbanized areas in each State, as shown by the latest available decennial census of population; bears to
+
+&emsp;&emsp;&emsp;(ii) the total population of urbanized areas in all States, as shown by that census.
+
+&emsp;&emsp;(B)
+
+Minimum apportionment.—Notwithstanding subparagraph (A), a State may not receive less than 0.5 percent of the amount apportioned under this paragraph.
+
+&emsp;(2)
+
+Allocation to mpo's.—Amounts apportioned to a State under paragraph (1) shall be made available, not later than 30 days after the date of apportionment, to metropolitan planning organizations in the State designated under this section under a formula that—
+
+&emsp;&emsp;(A) considers population of urbanized areas;
+
+&emsp;&emsp;(B) provides an appropriate distribution for urbanized areas to carry out the cooperative processes described in this section;
+
+&emsp;&emsp;(C) the State develops in cooperation with the metropolitan planning organizations; and
+
+&emsp;&emsp;(D) the Secretary approves.
+
+&emsp;(3)
+
+Supplemental amounts.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall apportion 20 percent of the amounts made available under subsection (g)(1) among the States to supplement allocations made under paragraph (1) for metropolitan planning organizations.
+
+&emsp;&emsp;(B)
+
+Formula.—The Secretary shall apportion amounts referred to in subparagraph (A) under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under sections 5303 and 5306 in certain urbanized areas.
+
+(e)
+
+State Planning and Research Program.—
+
+&emsp;(1)
+
+Apportionment to states.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall apportion the amounts made available under subsection (g)(2) among the States for grants and contracts to carry out this section and sections 5304, 5306, 5315, and 5322 in the ratio that—
+
+&emsp;&emsp;&emsp;(i) the population of urbanized areas in each State, as shown by the latest available decennial census; bears to
+
+&emsp;&emsp;&emsp;(ii) the population of urbanized areas in all States, as shown by that census.
+
+&emsp;&emsp;(B)
+
+Minimum apportionment.—Notwithstanding subparagraph (A), a State may not receive less than 0.5 percent of the amount apportioned under this paragraph.
+
+&emsp;(2)
+
+Supplemental amounts.—A State, as the State considers appropriate, may authorize part of the amount made available under this subsection to be used to supplement amounts made available under subsection (d).
+
+(f)
+
+Government's Share of Costs.—The Government's share of the cost of an activity funded using amounts made available under this section may not exceed 80 percent of the cost of the activity unless the Secretary determines that it is in the interests of the Government not to require a State or local match.
+
+(g)
+
+Allocation of Funds.—Of the funds made available by or appropriated to carry out this section under section 5338(c) for fiscal years 2005 through 2009—
+
+&emsp;(1) 82.72 percent shall be available for the metropolitan planning program under subsection (d); and
+
+&emsp;(2) 17.28 percent shall be available to carry out subsection (e).
+
+(h)
+
+Availability of Funds.—Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5305(a)–(e)
+
+49 App.:1607(i).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(i); added Nov. 6, 1978, Pub. L. 95–599, §305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, §310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, §3012, 105 Stat. 2103; Oct. 6, 1992, Pub. L. 102–388, §502(f), 106 Stat. 1566.
+
+5305(f)
+
+49 App.:1607(<i>l</i>).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(j), (<i>l</i>); added Nov. 6, 1978, Pub. L. 95–599, §305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, §310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, §3012, 105 Stat. 2104.
+
+5305(g)
+
+49 App.:1607(j).
+
+In subsection (c), the words “title 23” are substituted for “this title” for consistency in this chapter and to reflect the apparent intent of Congress. The word “appropriate” is omitted as surplus.
+
+In subsection (e)(2), the words “under the formula program” are omitted as surplus.
+
+In subsections (f) and (g), the word “area” is added for clarity and consistency with 42:7501(2).
+
+In subsection (f), the words “Notwithstanding any other provisions of this chapter or title 23, United States Code” are omitted as surplus.
+
+#### Amendments
+
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of areas as transportation management areas and plans and programs in an area.
+
+1998—Subsec. (a)(2). Pub. L. 105–178, §3006(a), added par. (2) and struck out former par. (2) which read as follows: “any other area, including the Lake Tahoe Basin as defined in the Act of December 19, 1980 (Public Law 96–551, 94 Stat. 3233), when requested by the chief executive officer and the metropolitan organization designated for the area or the affected local officials.”
+
+Subsec. (b). Pub. L. 105–178, §3006(b), inserted “affected” before “mass transportation operators”.
+
+Subsec. (c). Pub. L. 105–178, §3006(c), struck out at end “The Secretary shall establish a phase-in schedule to comply with sections 5303, 5304, and 5306.”
+
+Subsec. (d)(1). Pub. L. 105–178, §3006(d), as amended by Pub. L. 105–206, §9009(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+
+“(1)(A) In consultation with the State, the metropolitan planning organization designated for a transportation management area shall select the projects to be carried out in the area with United States Government participation under this chapter or title 23, except projects of the National Highway System or under the Bridge and Interstate Maintenance programs.
+
+“(B) In cooperation with the metropolitan planning organization designated for a transportation management area, the State shall select the projects to be carried out in the area of the National Highway System or under the Bridge and Interstate Maintenance programs.”
+
+Subsec. (e)(2). Pub. L. 105–178, §3006(e)(1), added par. (2) and struck out former par. (2) which read as follows: “If the Secretary does not certify before October 1, 1993, that a metropolitan planning organization is carrying out its responsibilities, the Secretary may withhold any part of the apportionment under section 104(b)(3) of title 23 attributed to the relevant metropolitan area under section 133(d)(3) of title 23 and capital amounts apportioned under section 5336 of this title. If an organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of that apportionment and capital amounts shall be withheld. The withheld apportionments shall be restored when the Secretary certifies the organization.”
+
+Subsec. (e)(4). Pub. L. 105–178, §3006(e)(2), added par. (4).
+
+Subsec. (h). Pub. L. 105–178, §3006(f), added subsec. (h).
+
+#### Effective Date of 1998 Amendment
+
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+

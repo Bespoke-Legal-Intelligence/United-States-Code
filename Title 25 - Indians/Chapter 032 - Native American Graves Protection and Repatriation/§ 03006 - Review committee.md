@@ -68,7 +68,7 @@ The Secretary shall—
 
 #### (h) Annual report
 
-The committee established under subsection (a) of this section shall submit an annual reportto the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
+The committee established under subsection (a) of this section shall submit an annual report to the Congress on the progress made, and any barriers encountered, in implementing this section during the previous year.
 
 #### (i) Termination
 

@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [2161\.](%C2%A7%2002161%20-%20Joint%20Military%20Intelligence%20College%20academic%20degrees.md) | Joint Military Intelligence College: academic degrees. |
 | [2162\.](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md) | Preparation of budget requests for operation of professional military education schools. |
-| [2163\.](%C2%A7%2002163%20-%20National%20Defense%20University%20masters%20of%20science%20in%20national%20security%20strategy%20and%20in%20national%20resource%20strategy.md) | National Defense University: masters of science in national security strategy and in national resource strategy. |
+| [2163\.](%C2%A7%2002163%20-%20National%20Defense%20University%20master%20of%20science%20degrees.md) | National Defense University: master of science degrees. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
 | [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
 | [2166\.](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
@@ -14,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §521(b), Jan. 6, 2006, 119 Stat. 3240, substituted “National Defense University: master of science degrees” for “National Defense University: masters of science in national security strategy and in national resource strategy” in item 2163.
 
 2001—Pub. L. 107–107, div. A, title V, §§528(a)(2), 531(b), Dec. 28, 2001, 115 Stat. 1103, 1104, added items 2167 and 2168.
 
@@ -81,10 +83,6 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 
 \[Pub. L. 107–314, div. A, title VI, §653(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “The repeal made by subsection (a) \[repealing section 542 of Pub. L. 102–484, formerly set out above\] shall apply with respect to appearances made, speeches presented, and articles published on or after October 1, 2002.”\]
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 1552 of this title.
-
 
 ---
 
@@ -92,7 +90,7 @@ This chapter is referred to in section 1552 of this title.
 
 - [&sect; 02161 - Joint Military Intelligence College academic degrees](%C2%A7%2002161%20-%20Joint%20Military%20Intelligence%20College%20academic%20degrees.md)
 - [&sect; 02162 - Preparation of budget requests for operation of professional military education schools](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md)
-- [&sect; 02163 - National Defense University masters of science in national security strategy and in national resource strategy](%C2%A7%2002163%20-%20National%20Defense%20University%20masters%20of%20science%20in%20national%20security%20strategy%20and%20in%20national%20resource%20strategy.md)
+- [&sect; 02163 - National Defense University master of science degrees](%C2%A7%2002163%20-%20National%20Defense%20University%20master%20of%20science%20degrees.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
 - [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)
 - [&sect; 02166 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)

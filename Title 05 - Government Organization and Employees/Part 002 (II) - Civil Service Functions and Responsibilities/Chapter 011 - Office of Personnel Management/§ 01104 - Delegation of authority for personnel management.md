@@ -4,7 +4,7 @@
 
 &emsp;(1) the President may delegate, in whole or in part, authority for personnel management functions, including authority for competitive examinations, to the Director of the Office of Personnel Management; and
 
-&emsp;(2) the Director may delegate, in whole or in part, any function vested in or delegated to the Director, including authority for competitive examinations (except competitive examinations for administrative law judges appointed under section 3105 of this title, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)), to the heads of agencies in the executive branch and other agencies employing persons in the competitive service.
+&emsp;(2) the Director may delegate, in whole or in part, any function vested in or delegated tothe Director, including authority for competitive examinations (except competitive examinations for administrative law judges appointed under section 3105 of this title, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)), to the heads of agencies in the executive branch and other agencies employing persons in the competitive service.
 
 (b)(1) The Office shall establish standards which shall apply to the activities of the Office or any other agency under authority delegated under subsection (a) of this section.
 

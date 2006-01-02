@@ -26,7 +26,7 @@ Congress finds that—
 
 &emsp;(11) the unique nature of the Valles Caldera and the potential uses of its resources with different resulting impacts warrants a management regime uniquely capable of developing an operational program for appropriate preservation and development of the land and resources of the Baca ranch in the interest of the public;
 
-&emsp;(12) an experimental management regime should be provided by the establishment of a Trust capable of using new methods of public land management that may prove to be cost-effective and environmentally sensitive; and
+&emsp;(12) an experimental management regime should be provided by the establishment of aTrust capable of using new methods of public land management that may prove to be cost-effective and environmentally sensitive; and
 
 &emsp;(13) the Secretary may promote more efficient management of the Valles Caldera and the watershed of the Santa Clara Creek through the assignment of purchase rights of such watershed to the Pueblo of Santa Clara.
 
@@ -49,6 +49,10 @@ The purposes of sections 698v to 698v–10 of this title are—
 #### References in Text
 
 Pub. L. 101–556, referred to in subsec. (a)(7), is Pub. L. 101–556, Nov. 15, 1990, 104 Stat. 2762, which is not classified to the Code.
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–132, §1, Dec. 20, 2005, 119 Stat. 2570, provided that: “This Act \[amending sections 698v–2 and 698v–4 to 698v–6 of this title\] may be cited as the ‘Valles Caldera Preservation Act of 2005’.”
 
 #### Short Title
 

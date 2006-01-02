@@ -4,7 +4,7 @@
 
 Officers in Pay Grades O–1
 
-and O–2.—An officer who is on the reserve active-status list of the Army, Navy, Air Force, or Marine Corps andholds a permanent appointment in the grade of second lieutenant or first lieutenant as a reserve officer of the Army, Air Force, or Marine Corps, or in the grade of ensign or lieutenant (junior grade) as a reserve officer of the Navy, may not be promoted to the next higher grade, or granted Federal recognition in that grade, until the officer has completed the following years of service in grade:
+and O–2.—An officer who is on the reserve active-status list of the Army, Navy, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant as a reserve officer of the Army, Air Force, or Marine Corps, or in the grade of ensign or lieutenant (junior grade) as a reserve officer of the Navy, may not be promoted to the next higher grade, or granted Federal recognition in that grade, until the officer has completed the following years of service in grade:
 
 &emsp;(1) Eighteen months, in the case of an officer holding a permanent appointment in the grade of second lieutenant or ensign.
 
@@ -20,7 +20,7 @@ and Above.—Subject to subsection (d), an officer who is on the reserve active-
 
 &emsp;(2) One year, in the case of an officer of the Army, Air Force, or Marine Corps holding a permanent appointment in the grade of colonel or brigadier general or in the case of a reserve officer of the Navy holding a permanent appointment in the grade of captain or rear admiral (lower half).
 
-> This subsection does not apply to an adjutant general or assistant adjutant general of a State or to an appointment in a higher grade which is based upon a specific provision of law.
+> This subsection does not apply to an adjutant general or assistant adjutant general of a Stateor to an appointment in a higher grade which is based upon a specific provision of law.
 
 (c)
 
@@ -31,8 +31,4 @@ Authority To Lengthen Minimum Period in Grade.—The Secretary concerned may pre
 Waivers To Ensure Two Below-the-Zone Considerations.—Subject to section 14307(b) of this title, the Secretary of the military department concerned may waive subsection (b) to the extent necessary to ensure that officers described in paragraph (1) of that subsection have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2933.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14305, 14315 of this title; title 32 sections 309, 310.
 

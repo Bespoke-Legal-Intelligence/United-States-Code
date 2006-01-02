@@ -16,7 +16,7 @@ The Commission shall—
 
 &emsp;(6) recommend to the Secretary such revisions of the endangered species list and threatened species list published pursuant to section 1533(c)(1) of this title, as may be appropriate with regard to marine mammals; and
 
-&emsp;(7) recommend to the Secretary, other appropriate Federal officials, and Congress such additional measures as it deems necessary or desirable to further the policies of this chapter, including provisions for the protection of the Indians, Eskimos, and Aleuts whose livelihood may be adversely affected by actions taken pursuant to this chapter.
+&emsp;(7) recommend to the Secretary, other appropriate Federal officials, and Congress such additional measures as it deems necessary ordesirable to further the policies of this chapter, including provisions for the protection of the Indians, Eskimos, and Aleuts whose livelihood may be adversely affected by actions taken pursuant to this chapter.
 
 #### (b) Consultation with Secretary; reports to Secretary before publication
 
@@ -36,7 +36,7 @@ Any recommendations made by the Commission to the Secretary and other Federal of
 
 The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
-The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified generally to chapter 24 (§1151 et seq.)of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
+The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified generally to chapter 24 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
 
 Section 1404 of this title, referred to in subsec. (b), was omitted from the Code.
 

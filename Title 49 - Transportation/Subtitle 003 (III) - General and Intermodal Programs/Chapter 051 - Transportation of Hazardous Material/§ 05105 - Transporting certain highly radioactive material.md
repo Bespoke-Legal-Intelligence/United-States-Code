@@ -6,45 +6,19 @@ Definitions.—In this section, “high-level radioactive waste” and “spent 
 
 (b)
 
-Transportation Safety Study.—In consultation with the Secretary of Energy, the Nuclear Regulatory Commission, potentially affected States and Indian tribes, representatives of the rail transportation industry, and shippers of high-level radioactive waste and spent nuclear fuel, the Secretary of Transportation shall conduct a study comparing the safety of using trains operated only to transport high-level radioactive waste and spent nuclear fuel with the safety of using other methods of rail transportation for transporting that waste and fuel. The Secretary of Transportation shall submit to Congress not later than November 16, 1991, a report on the results of the study.
+Transportation Safety Study.—In consultation with the Secretary of Energy, the Nuclear Regulatory Commission, potentially affected States and Indian tribes, representatives of the rail transportation industry, and shippers of high-level radioactive waste and spent nuclear fuel, the Secretary shall conduct a study comparing the safety of using trains operated only to transport high-level radioactive waste and spent nuclear fuel with the safety of using other methods of rail transportation for transporting that waste and fuel. The Secretary shall submit to Congress not later than November 16, 1991, a report on the results of the study.
 
 (c)
 
-Safe Rail Transportation Regulations.—Not later than November 16, 1992, after considering the results of the study conducted under subsection (b) of this section, the Secretary of Transportation shall prescribe amendments to existing regulations that the Secretary considers appropriate to provide for the safe rail transportation of high-level radioactive wasteand spent nuclear fuel, including trains operated only for transporting high-level radioactive waste and spent nuclear fuel.
+Safe Rail Transportation Regulations.—Not later than November 16, 1992, after considering the results of the study conducted under subsection (b) of this section, the Secretary shall prescribe amendments to existing regulations that the Secretary considers appropriate to provide for the safe rail transportationof high-level radioactive waste and spent nuclear fuel, including trains operated only for transporting high-level radioactive waste and spent nuclear fuel.
 
 (d)
 
-Routes and Modes Study.—Not later than November 16, 1991, the Secretary of Transportation shall conduct a study to decide which factors, if any, shippers and carriers should consider when selecting routes and modes that would enhance overall public safety related to the transportation of high-level radioactive waste and spent nuclear fuel. The study shall include—
+Inspections of Motor Vehicles Transporting Certain Material.—(1) Not later than November 16, 1991, the Secretary shall require by regulation that before each use of a motor vehicle to transport a highway-route-controlled quantity of radioactive material in commerce, the vehicle shall be inspected and certified as complying with this chapter and applicable United States motor carrier safety laws and regulations. The Secretary may require that the inspection be carried out by an authorized United States Government inspector or according to appropriate State procedures.
 
-&emsp;(1) notice and opportunity for public comment; and
+(2) The Secretary may allow a person, transporting or causing to be transported a highway-route-controlled quantity of radioactive material, to inspect the motor vehicle used to transport the material and to certify that the vehicle complies with this chapter. The inspector qualification requirements the Secretary prescribes for an individual inspecting a motor vehicle apply to an individual conducting an inspection under this paragraph.
 
-&emsp;(2) an assessment of the degree to which at least the following affect the overall public safety of the transportation:
-
-&emsp;&emsp;(A) population densities.
-
-&emsp;&emsp;(B) types and conditions of modal infrastructures (including highways, railbeds, and waterways).
-
-&emsp;&emsp;(C) quantities of high-level radioactive waste and spent nuclear fuel.
-
-&emsp;&emsp;(D) emergency response capabilities.
-
-&emsp;&emsp;(E) exposure and other risk factors.
-
-&emsp;&emsp;(F) terrain considerations.
-
-&emsp;&emsp;(G) continuity of routes.
-
-&emsp;&emsp;(H) available alternative routes.
-
-&emsp;&emsp;(I) environmental impact factors.
-
-(e)
-
-Inspections of Motor Vehicles Transporting Certain Material.—(1) Not later than November 16, 1991, the Secretary of Transportation shall require by regulation that before each use of a motor vehicle to transport a highway-route-controlled quantity of radioactive material in commerce, the vehicle shall be inspected and certified as complying with this chapter and applicable United States motor carrier safety laws and regulations. The Secretary may require that the inspection be carried out by an authorized United States Government inspector or according to appropriate State procedures.
-
-(2) The Secretary of Transportation may allow a person, transporting or causing to be transported a highway-route-controlled quantity of radioactive material, to inspect the motor vehicle used to transport the material and to certify that the vehicle complies with this chapter. The inspector qualification requirements the Secretary prescribes for an individual inspecting a motor vehicle apply to an individual conducting an inspection under this paragraph.
-
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 762.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 762; Pub. L. 109–59, title VII, §§7107, 7126, Aug. 10, 2005, 119 Stat. 1897, 1909.)
 
 Historical and Revision Notes
 
@@ -93,4 +67,14 @@ In subsection (b), the words “Secretary of Energy” are substituted for “De
 In subsection (c), the word “regulations” is substituted for “rule” for consistency in the revised title and with other titles of the United States Code and because “rule” and “regulation” are synonymous.
 
 In subsection (d), before clause (1), the words “In combination” are omitted as surplus.
+
+#### Amendments
+
+2005—Subsecs. (b), (c). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall” wherever appearing.
+
+Subsec. (d). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall” in par. (1) and “Secretary may” for “Secretary of Transportation may” in par. (2).
+
+Pub. L. 109–59, §7107, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to a study to be conducted not later than Nov. 16, 1991, to decide which factors, if any, shippers and carriers should consider when selecting routes and modes that would enhance overall public safety related to the transportation of high-level radioactive waste and spent nuclear fuel.
+
+Subsec. (e). Pub. L. 109–59, §7107(2), redesignated subsec. (e) as (d).
 

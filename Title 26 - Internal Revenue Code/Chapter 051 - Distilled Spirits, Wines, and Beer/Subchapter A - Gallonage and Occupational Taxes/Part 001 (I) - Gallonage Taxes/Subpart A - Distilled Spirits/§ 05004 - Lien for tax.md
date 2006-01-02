@@ -58,7 +58,3 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 Section 805(g)(2) of Pub. L. 89–44 provided that: “The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) \[amending this section and sections 5025, 5083, 5223, and 5234 of this title\], shall take effect on October 1, 1965.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6327 of this title.
-

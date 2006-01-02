@@ -20,7 +20,3 @@ July 26, 1947, ch. 343, §404; added Aug. 10, 1949, ch. 412, §11 (7th par.), 63
 
 The words “on and after the beginning of the next fiscal year following August 10, 1949,” are omitted as executed. The last sentence is substituted for the proviso in 5 U.S.C. 172c.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2384a of this title.
-

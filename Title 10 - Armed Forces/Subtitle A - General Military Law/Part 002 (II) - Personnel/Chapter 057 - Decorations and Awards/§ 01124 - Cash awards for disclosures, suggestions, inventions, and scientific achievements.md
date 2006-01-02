@@ -76,7 +76,3 @@ Sec. 3. No cash awards hereunder for a single suggestion, invention, or scientif
 
 Sec. 4. Funds to cover the costs of cash awards to members of the armed forces shall be transferred from the account of any executive department or agency which recommends the award to the appropriate account of the Department of Homeland Security or the Department of Defense, as the case may be. When several executive departments or agencies benefit from the adoption or use of the suggestion, invention, or scientific achievement, the amount transferred from each such benefiting department or agency to the Department of Homeland Security or the Department of Defense to cover the proportionate share of the cost of the cash award shall be determined under procedures prescribed by the Office of Personnel Management in accordance with the same guidelines and standards applying to awards to civilian employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 213a.
-

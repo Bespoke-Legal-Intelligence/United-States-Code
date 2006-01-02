@@ -2,7 +2,7 @@
 
 #### (a) Containers, packing and transportation charges.
 
-In determining, for the purposes of this chapter, the price for which an article is sold, there shall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in condition packed ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separatecharge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
+In determining, for the purposes of this chapter, the price for which an article is sold, there shall be included any charge for coverings and containers of whatever nature, and any charge incident to placing the article in condition packed ready for shipment, but there shall be excluded the amount of tax imposed by this chapter, whether or not stated as a separate charge. A transportation, delivery, insurance, installation, or other charge (not required by the foregoing sentence to be included) shall be excluded from the price only if the amount thereof is established to the satisfaction of the Secretary in accordance with the regulations.
 
 #### (b) Constructive sale price
 
@@ -96,7 +96,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(C) is intended to be refunded to the purchaser or any subsequent vendee in reimbursement of costs incurred for local advertising.
 
-> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the preceding sentence shall cease to apply as of such first day.
+> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the precedingsentence shall cease to apply as of such first day.
 
 #### (2) Aggregate amount which may be excluded
 
@@ -162,7 +162,7 @@ Subsec. (b)(3). Pub. L. 89–44, §208(b), struck out par. (3) which related to 
 
 Subsec. (c). Pub. L. 89–44, §207(a), struck out “that portion of the total tax which is proportionate to the portion of the total amount to be paid represented by such payment” in text following par. (4) and inserted in lieu thereof “a percentage of such payment equal to the rate of tax in effect on the date such payment is due”.
 
-Subsec. (e)(1). Pub. L. 89–44, §207(b)(1), substituted “total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
+Subsec. (e)(1). Pub. L. 89–44, §207(b)(1), substituted “total tax which would be payable if such installmentaccounts had not been sold or otherwise disposed of (computed as provided in subsection (c)) for “total tax”.
 
 Subsec. (e)(2). Pub. L. 89–44, §207(b)(2), substituted, as factor (A) in the formula for computing the maximum amount, the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment for the amount for which such accounts are sold, and, as factor (B) in the formula, the rate of tax on the date that such unpaid installment payment is or was due for the rate of tax which applied on the day on which the transaction giving rise to such installment accounts took place.
 
@@ -241,8 +241,4 @@ Section 4 of act Aug. 9, 1955, as amended by act Oct. 22, 1986, Pub. L. 99–514
 &emsp;“(3) any lease existing on such effective date, or if there is none, the first lease entered into after such effective date, shall be considered an initial lease (except that fair market value shall be determined as provided in paragraph (1) of this sentence); and
 
 &emsp;“(4) any lease existing on such effective date shall be considered as having been entered into on such date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4003, 4052, 4162, 4217, 4223, 5702, 6416 of this title.
 

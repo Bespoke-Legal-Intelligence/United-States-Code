@@ -114,7 +114,7 @@ In general.—The following lands and water shall be held in trust for the Tribe
 
 &emsp;&emsp;“(ii) If the Secretary determines that there is insufficient ground water available on the lands described in clause (i) to satisfy the Tribe's right to ground water to fulfill the purposes associated with the transfer of such lands, then the Tribe and the Secretary shall, within 2 years of such determination, identify approximately 640 acres of land that are administered by the Bureau of Land Management in that portion of Inyo County, California, to the north and east of the China Lake Naval Weapons Center, to be a mutually agreed upon substitute for the lands described in clause (i). If the Secretary determines that sufficient water is available to fulfill the purposes associated with the transfer of the lands described in the preceding sentence, then the Tribe shall request that the Secretary accept such lands into trust for the benefit of the Timbisha Shoshone Tribe, and the Secretary shall accept such lands, together with an amount of water not to exceed 10 acre feet per annum, into trust for the Tribe as a substitute for the lands described in clause (i).
 
-&emsp;&emsp;“(D) Scotty's Junction, Nevada, an area of approximately 2,800 acres, as generally depicted on the map entitled ‘Scotty's Junction, Nevada’, numbered Map \#4 and dated April 12, 2000, together with 375.5 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
+&emsp;&emsp;“(D) Scotty's Junction, Nevada, an area of approximately 2,800 acres, as generally depicted on the map entitled ‘Scotty's Junction, Nevada’, numbered Map \#4 and dated April 12, 2000, together with375.5 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
 
 &emsp;&emsp;“(E) Lida, Nevada, Community Parcel, an area of approximately 3,000 acres, as generally depicted on the map entitled ‘Lida, Nevada, Community Parcel’, numbered Map \#5 and dated April 12, 2000, together with 14.7 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
 
@@ -274,7 +274,7 @@ Section 2 of Pub. L. 103–433 provided that:
 
 &emsp;“(2) these desert wildlands display unique scenic, historical, archeological, environmental, ecological, wildlife, cultural, scientific, educational, and recreational values used and enjoyed by millions of Americans for hiking and camping, scientific study and scenic appreciation;
 
-&emsp;“(3) the public land resources of the California desert now face and are increasingly threatened byadverse pressures which would impair, dilute, and destroy their public and natural values;
+&emsp;“(3) the public land resources of the California desert now face and are increasingly threatened by adverse pressures which would impair, dilute, and destroy their public and natural values;
 
 &emsp;“(4) the California desert, embracing wilderness lands, units of the National Park System, other Federal lands, State parks and other State lands, and private lands, constitutes a cohesive unit posing unique and difficult resource protection and management challenges;
 

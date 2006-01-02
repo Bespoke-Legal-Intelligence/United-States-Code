@@ -10,7 +10,7 @@ In carrying out the objectives of this chapter, the Secretary may utilize variou
 
 &emsp;(3) contracts for the construction and operation of federally owned facilities;
 
-&emsp;(4) Federal purchases or guaranteed price of the products of demonstration plants or activities consistent with the provisions of subsection (c) of the section;
+&emsp;(4) Federal purchases or guaranteed price of the products of demonstration plants or activities consistent with the provisions of subsection (c) of this section;
 
 &emsp;(5) Federal loans to non-Federal entities conducting demonstrations of new technologies;
 
@@ -48,7 +48,7 @@ Competitive systems of price supports proposed for congressional authorization p
 
 &emsp;(1) The Secretary shall determine the types and capacities of the desired full-scale, commercial-size facility or other operation which would demonstrate the technical, environmental, and economic feasibility of a particular nonnuclear energy technology.
 
-&emsp;(2) The Secretary may award planning grants for the purpose of financing a study of the full cycle economic and environmental costs associated with the demonstration facility selected pursuant to paragraph (1) of this subsection. Such planning grants may be awarded to Federal and non-Federal entities including, but not limited to, industrial entities, universities, and nonprofit organizations. Such planning grants may also be used by the grantee to prepare a detailed and comprehensive bid to construct the demonstration facility.
+&emsp;(2) The Secretary may award planning grants for the purpose of financing a study of the full cycle economic and environmental costs associated with the demonstration facility selected pursuant to paragraph (1) of this subsection. Such planning grants may be awarded to Federal and non-Federal entitiesincluding, but not limited to, industrial entities, universities, and nonprofit organizations. Such planning grants may also be used by the grantee to prepare a detailed and comprehensive bid to construct the demonstration facility.
 
 &emsp;(3) Following the completion of the studies pursuant to the planning grants awarded under paragraph (2) of this subsection regarding each such potential price supported demonstration facility for which the Secretary intends to request congressional authorization, he shall invite bids from all interested parties to determine the minimum amount of Federal price support needed to construct the demonstration facility. The Secretary may designate one or more competing entities, each to construct one commercial demonstration facility. Such designation shall be made on the basis of those entities, (A) commitment to construct the demonstration facility at the minimum level of Federal price supports, (B) detailed plan of environmental protection, and (C) proposed design and operation of the demonstration facility.
 
@@ -62,21 +62,23 @@ Competitive systems of price supports proposed for congressional authorization p
 
 Nothing in this section shall preclude Federal participation in, and support for, joint university-industry nonnuclear energy research efforts.
 
-(Pub. L. 93–577, §7, Dec. 31, 1974, 88 Stat. 1883; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–238, title II, §207(a), Feb. 25, 1978, 92 Stat. 61; Pub. L. 99–386, title I, §104(a), Aug. 22, 1986, 100 Stat. 821.)
+(Pub. L. 93–577, §7, Dec. 31, 1974, 88 Stat. 1883; Pub. L. 95–238, title II, §207(a), Feb. 25, 1978, 92 Stat. 61; Pub. L. 99–386, title I, §104(a), Aug. 22, 1986, 100 Stat. 821; Pub. L. 109–58, title X, §1009(b)(5), Aug. 8, 2005, 119 Stat. 935.)
 
 #### Codification
 
-Section 5919 of this title, referred to in subsec. (a)(7), was in the original “section 19” and has been editorially translated as section 5919 of this title which relates to loan guarantees as the probable intent of Congress, notwithstanding enactment of another section 19 which is classified to section 5918 of this title and which relates to organizational conflicts.
+Section 5919 of this title, referred to in subsec. (a)(7), was in the original “section 19” and has been editorially translated as section 5919 of this title which related to loan guarantees prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936, to reflect the probable intent of Congress, notwithstanding enactment of another section 19 which was classified to section 5918 of this title and related to organizational conflicts prior to repeal by Pub. L. 104–106, div. D, title XLIII, §4304(b)(5), Feb. 10, 1996, 110 Stat. 664.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58, §1009(b)(5)(A), substituted “Secretary” for “Administrator” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 109–58, §1009(b)(5)(B), substituted “of this section” for “of the section”.
+
+Subsecs. (b), (c). Pub. L. 109–58, §1009(b)(5)(A), substituted “Secretary” for “Administrator” wherever appearing.
 
 1986—Subsec. (b)(7). Pub. L. 99–386 struck out subpar. (A) which related to submission of a report by Secretary to House and Senate, prior to establishment of any joint Federal-industry corporation pursuant to this chapter, setting forth in detail consistency of establishment of corporation with this section and section 5904 of this title, and proposed purpose and activities of corporation, and struck out subpar. (B) designation.
 
 1978—Subsec. (a)(7). Pub. L. 95–238 added par. (7).
-
-#### Transfer of Functions
-
-“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Energy Research and Development Administration, in subsecs. (a), (b)(3), (6), (7)(A), and (c)(1) to (5) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

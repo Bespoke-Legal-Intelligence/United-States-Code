@@ -52,7 +52,7 @@
 
 #### (1) Age discount
 
-&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Passavailable, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
+&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
 
 #### (2) Disability discount
 

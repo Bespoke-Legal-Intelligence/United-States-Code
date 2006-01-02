@@ -14,7 +14,7 @@ Preparation of Budget Requests.—(1) Amounts requested for a fiscal year for th
 
 (c)
 
-Comparison of Budget Requests.—Materials prepared in support of the budget request for a professional military education schoolshall describe whether the amount requested for that school is comparable to the amounts requested for other professional military education schools, taking into consideration the size and activities of the schools.
+Comparison of Budget Requests.—Materials prepared in support of the budget request for a professional military education school shall describe whether the amount requested for that school is comparable to the amounts requested for other professional military education schools, taking into consideration the size and activities of the schools.
 
 (d)
 

@@ -16,33 +16,37 @@ Officers Automatically Eligible.—Subsection (a) applies to an officer of the a
 
 &emsp;(3) is in a pay grade below pay grade O–7;
 
-&emsp;(4) has at least eight years of creditable service (computed as described in section 302b(g) of this title) or has completed any active-duty service commitment incurred for dental education and training; and
+&emsp;(4) has at least eight years of creditable service (computed as described in section302b(g) <sup>1</sup> of this title) or has completed any active-duty service commitment incurred for dental education and training; and
 
 &emsp;(5) has completed initial residency training (or will complete such training before September 30 of the fiscal year in which the officer enters into an agreement under subsection (a)).
 
 (c)
 
-Extension of Bonus to Other Dental Officers.—At the discretion of the Secretary ofthe military department concerned, the Secretary may enter into a written agreement described in subsection (a)(1) with a dental officer who does not have the dental specialty specified in subsection (b)(2), and pay a retention bonus to such an officer as provided in this section, if the officer otherwise satisfies the eligibility requirements specified in subsection (b). The Secretaries shall exercise the authority provided in this section in a manner consistent with regulations prescribed by the Secretary of Defense.
+Extension of Bonus to Other Dental Officers.—At the discretion of the Secretary of the military department concerned, the Secretary may enter into a written agreement described in subsection (a)(1) with a dental officer who does not have the dental specialty specified in subsection (b)(2), and pay a retention bonus to such an officer as provided in this section, if the officer otherwise satisfies the eligibility requirements specified in subsection (b). The Secretaries shall exercise the authority provided in this section in a manner consistent with regulations prescribed by the Secretary of Defense.
 
 (d)
 
-Refunds.—(1) Refunds shall be required, on a pro rata basis, of sums paid under this section if the officer who has received the payment fails to complete the total period of active duty specified in the agreement, as conditions and circumstances warrant.
+Repayment.—An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11, United States Code, that is entered less than five years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998.
-
-(Added Pub. L. 105–85, div. A, title VI, §617(a), Nov. 18, 1997, 111 Stat. 1788; amended Pub. L. 107–314, div. A, title VI, §615(b), Dec. 2, 2002, 116 Stat. 2568.)
+(Added Pub. L. 105–85, div. A, title VI, §617(a), Nov. 18, 1997, 111 Stat. 1788; amended Pub. L. 107–314, div. A, title VI, §615(b), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(3), Jan. 6, 2006, 119 Stat. 3328.)
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+Section 302b(g) of this title, referred to in subsec. (b)(4), was redesignated section 302b(f) of this title by Pub. L. 109–163, div. A, title VI, §687(b)(6)(D), Jan. 6, 2006, 119 Stat. 3328.
 
 #### Amendments
 
+2006—Subsec. (d). Pub. L. 109–163 amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
+
 2002—Subsec. (a)(2). Pub. L. 107–314 substituted “$50,000” for “$14,000”.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Application of Increase
 
 In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

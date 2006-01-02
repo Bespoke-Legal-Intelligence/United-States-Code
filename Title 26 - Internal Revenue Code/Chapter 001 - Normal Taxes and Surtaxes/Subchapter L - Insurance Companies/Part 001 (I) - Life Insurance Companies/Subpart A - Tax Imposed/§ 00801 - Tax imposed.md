@@ -22,7 +22,7 @@
 
 #### (C) Net capital gain not taken into account in determining small life insurance company deduction
 
-&emsp;&emsp;For purposes of subparagraph (B)(i), the amount allowable as a deduction under paragraph (2) of section 804 shall be determined by reducing the tentative LICTI by the amount of the net capital gain (determined without regard to items attributable to noninsurance businesses).
+&emsp;&emsp;For purposes of subparagraph (B)(i), the amount allowable as a deduction under paragraph (2) of section 804 shall be determinedby reducing the tentative LICTI by the amount of the net capital gain (determined without regard to items attributable to noninsurance businesses).
 
 #### (b) Life insurance company taxable income
 
@@ -92,7 +92,7 @@ Section 1011(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 
 “(1)
 
-In general.—Notwithstanding the amendments made by subtitle B of title III \[amending sections 593, 631, 852, 1201, and 1445 of this title and enacting provisions set out as notes under sections 631 and 1201 of this title\], any gain recognized by a qualified life insurance company on the redemption at maturity of any market discount bond (as defined in section 1278 of the Internal Revenue Code of 1986) which was issued before July 19, 1984, and acquired by such company on or before September 25, 1985, shall be subject to tax at the rate of 31.6 percent. The preceding sentence shall apply only if the tax determined under the preceding sentence is less than the tax which would otherwise be imposed.
+In general.—Notwithstanding the amendments made by subtitle B of title III \[amending sections 593, 631, 852, 1201, and 1445 of this title and enacting provisions set out as notes under sections 631 and 1201 of this title\], any gain recognized by a qualified life insurance company on the redemption at maturity of any market discount bond (as defined in section 1278 of the InternalRevenue Code of 1986) which was issued before July 19, 1984, and acquired by such company on or before September 25, 1985, shall be subject to tax at the rate of 31.6 percent. The preceding sentence shall apply only if the tax determined under the preceding sentence is less than the tax which would otherwise be imposed.
 
 “(2)
 
@@ -134,7 +134,7 @@ Self-insured workers’ compensation fund.—For purposes of this subsection, th
 
 #### Reserves Computed on New Basis; Fresh Start
 
-Section 216 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1822, Oct. 22, 1986, 100 Stat. 2095, 2844; Pub. L. 100–647, title I, §1018(i), Nov. 10, 1988, 102 Stat. 3583, provided that:
+Pub. L. 98–369, title II, §216, July 18, 1984, 98 Stat. 758, as amended by Pub. L. 99–514, §2, title XVIII, §1822, Oct. 22, 1986, 100 Stat. 2095, 2844; Pub. L. 100–647, title I, §1018(i), Nov. 10, 1988, 102 Stat. 3583, provided that:
 
 “(a)
 
@@ -158,7 +158,7 @@ Fresh Start.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31, 1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting ‘1985’ for‘1984’ in the case of an insurance company which is a member of a controlled group (as defined in section 806(d)(3)), the common parent of which is
+In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31, 1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting ‘1985’ for ‘1984’ in the case of an insurance company which is a member of a controlled group (as defined in section 806(d)(3)), the common parent of which is
 
 &emsp;&emsp;“(A) a company having its principal place of business in Alabama and incorporated in Delaware on November 29, 1979, or
 
@@ -230,7 +230,7 @@ Disallowance of special life insurance company deduction and small life insuranc
 
 &emsp;&emsp;“(E)
 
-Disallowance of deductions under section 809(d).—No deduction shall be allowed under paragraph (5) or (6) of section 809(d) of such Code (as in effect before the amendments made by this subtitle) with respect to any amount described in either such paragraph which is transferred in connection with the transfer of reserves described in subparagraph (A).
+Disallowance of deductions under \[former\] section 809(d).—No deduction shall be allowed under paragraph (5) or (6) of \[former\] section 809(d) of such Code (as in effect before the amendments made by this subtitle) with respect to any amount described in either such paragraph which is transferred in connection with the transfer of reserves described in subparagraph (A).
 
 &emsp;“(4)
 
@@ -280,7 +280,7 @@ Recapture of reinsurance after december 31, 1983.—If (A) insurance or annuity 
 
 &emsp;&emsp;“(i) if the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, that the reinsurer would have taken into account under section 810(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) exceeds the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, taken into account by the reinsurer under section 807(c) of the Internal Revenue Code of 1986 (as amended by this subtitle), such excess (but not greater than the amount of such excess if computed on January 1, 1984) shall be taken into account by the reinsurer under the method described in section 807(f)(1)(B)(ii) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture, and
 
-&emsp;&emsp;“(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
+&emsp;&emsp;“(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part Iof subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
 
 > &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) of the Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of this paragraph, the term ‘reinsurer’ refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term ‘reinsured’ refers to the taxpayer to which such reserves are ultimately transferred upon termination.
 
@@ -294,7 +294,7 @@ In general.—If a qualified life insurance company makes an election under this
 
 &emsp;&emsp;“(A) subsection (a) shall not apply to such company, and
 
-&emsp;&emsp;“(B) as of the beginning of the first taxable year beginning after December 31, 1983, and thereafter, the reserve for any contract issued before the first day of such taxable year by such company shall be the statutory reserve for such contract (within the meaning of section 809(b)(4)(B)(i) of the Internal Revenue Code of 1986).
+&emsp;&emsp;“(B) as of the beginning of the first taxable year beginning after December 31, 1983, and thereafter, the reserve for any contract issued before the first day of such taxable year by such company shall be the statutory reserve for such contract (within the meaning of \[former\] section 809(b)(4)(B)(i) of the Internal Revenue Code of 1986).
 
 &emsp;“(2)
 
@@ -403,8 +403,4 @@ Final report.—Not later than January 1, 1989, the Secretary of the Treasury sh
 “(c)
 
 Authority To Require Data.—The Secretary of the Treasury shall have authority to require reporting of such data with respect to life insurance companies and their products as may be necessary to carry out the purposes of this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11, 80, 243, 542, 815, 841, 847, 891, 1201, 1351, 1503, 1504, 1563 of this title.
 

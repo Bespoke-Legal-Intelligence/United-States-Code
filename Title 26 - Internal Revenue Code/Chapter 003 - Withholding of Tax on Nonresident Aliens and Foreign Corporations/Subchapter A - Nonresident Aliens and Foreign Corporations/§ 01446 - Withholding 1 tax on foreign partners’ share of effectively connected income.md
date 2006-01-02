@@ -32,7 +32,7 @@ For purposes of this section, the term “effectively connected taxable income�
 
 &emsp;(2) The partnership shall be allowed a deduction for depletion with respect to oil and gas wells but the amount of such deduction shall be determined without regard to sections 613 and 613A.
 
-&emsp;(3) There shall not be taken into account any item of income, gain, loss, or deduction tothe extent allocable under section 704 to any partner who is not a foreign partner.
+&emsp;(3) There shall not be taken into account any item of income, gain, loss, or deduction to the extent allocable under section 704 to any partner who is not a foreign partner.
 
 #### (d) Treatment of foreign partners
 
@@ -87,8 +87,4 @@ Section 1012(s)(1)(D) of Pub. L. 100–647 provided that: “The amendments made
 #### Effective Date
 
 Section 1246(d) of Pub. L. 99–514 provided that: “The amendment made by this section \[enacting this section and amending section 6401 of this title\] shall apply to distributions after December 31, 1987 (or, if earlier, the effective date (which shall not be earlier than January 1, 1987) of the initial regulations issued under section 1446 of the Internal Revenue Code of 1986 as added by this section).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6401 of this title; title 48 section 1421i.
 

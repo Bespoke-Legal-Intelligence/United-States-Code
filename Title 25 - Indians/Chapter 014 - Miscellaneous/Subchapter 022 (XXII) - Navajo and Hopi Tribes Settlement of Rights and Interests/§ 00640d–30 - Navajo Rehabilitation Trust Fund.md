@@ -6,7 +6,7 @@ There is hereby established in the Treasury of the United States a trust fund to
 
 #### (b) Deposit of income into Fund
 
-All of the net income derived by the Navajo Tribe from the surface and mineral estates oflands located in New Mexico that are acquired for the benefit of the Navajo Tribe under section 640d–10 of this title shall be deposited into the Navajo Rehabilitation Trust Fund.
+All of the net income derived by the Navajo Tribe from the surface and mineral estates of lands located in New Mexico that are acquired for the benefit of the Navajo Tribe under section 640d–10 of this title shall be deposited into the Navajo Rehabilitation Trust Fund.
 
 #### (c) Secretary as trustee; investment of funds
 

@@ -16,21 +16,37 @@
 
 &emsp;(7) the setoff of any debt owing to the debtor that arose before the commencement of the case under this title against any claim against the debtor; and
 
-&emsp;(8) the commencement or continuation of a proceeding before the United States Tax Court concerning the debtor.
+&emsp;(8) the commencement or continuation of a proceeding before the United States Tax Court concerning a corporate debtor's tax liability for a taxable period the bankruptcy court may determine or concerning the tax liability of a debtor who is an individual for a taxable period ending before the date of the order for relief under this title.
 
 (b) The filing of a petition under section 301, 302, or 303 of this title, or of an application under section 5(a)(3) of the Securities Investor Protection Act of 1970, does not operate as a stay—
 
 &emsp;(1) under subsection (a) of this section, of the commencement or continuation of a criminal action or proceeding against the debtor;
 
-&emsp;(2) under subsection (a) of this section—
+&emsp;(2) under subsection (a)—
 
-&emsp;&emsp;(A) of the commencement or continuation of an action or proceeding for—
+&emsp;&emsp;(A) of the commencement or continuation of a civil action or proceeding—
 
-&emsp;&emsp;&emsp;(i) the establishment of paternity; or
+&emsp;&emsp;&emsp;(i) for the establishment of paternity;
 
-&emsp;&emsp;&emsp;(ii) the establishment or modification of an order for alimony, maintenance, or support; or
+&emsp;&emsp;&emsp;(ii) for the establishment or modification of an order for domestic support obligations;
 
-&emsp;&emsp;(B) of the collection of alimony, maintenance, or support from property that is not property of the estate;
+&emsp;&emsp;&emsp;(iii) concerning child custody or visitation;
+
+&emsp;&emsp;&emsp;(iv) for the dissolution of a marriage, except to the extent that such proceeding seeks to determine the division of property that is property of the estate; or
+
+&emsp;&emsp;&emsp;(v) regarding domestic violence;
+
+&emsp;&emsp;(B) of the collection of a domestic support obligation from property that is not property of the estate;
+
+&emsp;&emsp;(C) with respect to the withholding of income that is property of the estate or property of the debtor for payment of a domestic support obligation under a judicial or administrative order or a statute;
+
+&emsp;&emsp;(D) of the withholding, suspension, or restriction of a driver's license, a professional or occupational license, or a recreational license, under State law, as specified in section 466(a)(16) of the Social Security Act;
+
+&emsp;&emsp;(E) of the reporting of overdue support owed by a parent to any consumer reporting agency as specified in section 466(a)(7) of the Social Security Act;
+
+&emsp;&emsp;(F) of the interception of a tax refund, as specified in sections 464 and 466(a)(3) of the Social Security Act or under an analogous State law; or
+
+&emsp;&emsp;(G) of the enforcement of a medical obligation, as specified under title IV of the Social Security Act;
 
 &emsp;(3) under subsection (a) of this section, of any act to perfect, or to maintain or continue the perfection of, an interest in property to the extent that the trustee's rights and powers are subject to such perfection under section 546(b) of this title or to the extent that such act is accomplished within the period provided under section 547(e)(2)(A) of this title;
 
@@ -38,9 +54,9 @@
 
 &emsp;\[(5) Repealed. Pub. L. 105–277, div. I, title VI, §603(1), Oct. 21, 1998, 112 Stat. 2681–866;\]
 
-&emsp;(6) under subsection (a) of this section, of the setoff by a commodity broker, forward contract merchant, stockbroker, financial institutions, or securities clearing agency of any mutual debt and claim under or in connection with commodity contracts, as defined in section 761 of this title, forward contracts, or securities contracts, as defined in section 741 of this title, that constitutes the setoff of a claim against the debtor for a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, arising out of commodity contracts, forward contracts, or securities contracts against cash, securities, or other property held by or due from such commodity broker, forward contract merchant, stockbroker, financial institutions, or securities clearing agency to margin, guarantee, secure, or settle commodity contracts, forward contracts, or securities contracts;
+&emsp;(6) under subsection (a) of this section, of the setoff by a commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency of any mutual debt and claim under or in connection with commodity contracts, as defined in section 761 of this title, forward contracts, or securities contracts, as defined in section 741 of this title, that constitutes the setoff of a claim against the debtor for a margin payment, as defined in section 101, 741, or 761 of this title, or settlement payment, as defined in section 101 or 741 of this title, arising out of commodity contracts, forward contracts, or securities contracts against cash, securities, or other property held by, pledged to, under the control of, or due from such commodity broker, forward contract merchant, stockbroker, financial institution, financial participant, or securities clearing agency to margin, guarantee, secure, or settle commodity contracts, forward contracts, or securities contracts;
 
-&emsp;(7) under subsection (a) of this section, of the setoff by a repo participant, of any mutual debt and claim under or in connection with repurchase agreements that constitutes the setoff of a claim against the debtor for a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, arising out of repurchase agreements against cash, securities, or other property held by or due from such repo participant to margin, guarantee, secure or settle repurchase agreements;
+&emsp;(7) under subsection (a) of this section, of the setoff by a repo participant or financial participant, of any mutual debt and claim under or in connection with repurchase agreements that constitutes the setoff of a claim against the debtor for a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, arising out of repurchase agreements against cash, securities, or other property held by, pledged to, under the control of, or due from such repo participant or financial participant to margin, guarantee, secure or settle repurchase agreements;
 
 &emsp;(8) under subsection (a) of this section, of the commencement of any action by the Secretary of Housing and Urban Development to foreclose a mortgage or deed of trust in any case in which the mortgage or deed of trust held by the Secretary is insured or was formerly insured under the National Housing Act and covers property, or combinations of property, consisting of five or more living units;
 
@@ -68,15 +84,51 @@
 
 &emsp;(16) under subsection (a) of this section, of any action by a guaranty agency, as defined in section 435(j) of the Higher Education Act of 1965 or the Secretary of Education regarding the eligibility of the debtor to participate in programs authorized under such Act;
 
-&emsp;(17) under subsection (a) of this section, of the setoff by a swap participant, of any mutual debt and claim under or in connection with any swap agreement that constitutes the setoff of a claim against the debtor for any payment due from the debtor under or in connection with any swap agreement against any payment due to the debtor from the swap participant under or in connection with any swap agreement or against cash, securities, or other property of the debtor held by or due from such swap participant to guarantee, secure or settle any swap agreement; or
+&emsp;(17) under subsection (a), of the setoff by a swap participant or financial participant of a mutual debt and claim under or in connection with one or more swap agreements that constitutes the setoff of a claim against the debtor for any payment or other transfer of property due from the debtor under or in connection with any swap agreement against any payment due to the debtor from the swap participant or financial participant under or in connection with any swap agreement or against cash, securities, or other property held by, pledged to, under the control of, or due from such swap participant or financial participant to margin, guarantee, secure, or settle any swap agreement;
 
-&emsp;(18) under subsection (a) of the creation or perfection of a statutory lien for an ad valorem property tax imposed by the District of Columbia, or a political subdivision of a State, if such tax comes due after the filing of the petition.
+&emsp;(18) under subsection (a) of the creation or perfection of a statutory lien for an ad valorem property tax, or a special tax or special assessment on real property whether or not ad valorem, imposed by a governmental unit, if such tax or assessment comes due after the date of the filing of the petition;
+
+&emsp;(19) under subsection (a), of withholding of income from a debtor's wages and collection ofamounts withheld, under the debtor's agreement authorizing that withholding and collection for the benefit of a pension, profit-sharing, stock bonus, or other plan established under section 401, 403, 408, 408A, 414, 457, or 501(c) of the Internal Revenue Code of 1986, that is sponsored by the employer of the debtor, or an affiliate, successor, or predecessor of such employer—
+
+&emsp;&emsp;(A) to the extent that the amounts withheld and collected are used solely for payments relating to a loan from a plan under section 408(b)(1) of the Employee Retirement Income Security Act of 1974 or is subject to section 72(p) of the Internal Revenue Code of 1986; or
+
+&emsp;&emsp;(B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 of title 5, that satisfies the requirements of section 8433(g) of such title;
+
+> &emsp;but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title;
+
+&emsp;(20) under subsection (a), of any act to enforce any lien against or security interest in real property following entry of the order under subsection (d)(4) as to such real property in any prior case under this title, for a period of 2 years after the date of the entry of such an order, except that the debtor, in a subsequent case under this title, may move for relief from such order based upon changed circumstances or for other good cause shown, after notice and a hearing;
+
+&emsp;(21) under subsection (a), of any act to enforce any lien against or security interest in real property—
+
+&emsp;&emsp;(A) if the debtor is ineligible under section 109(g) to be a debtor in a case under this title; or
+
+&emsp;&emsp;(B) if the case under this title was filed in violation of a bankruptcy court order in a prior case under this title prohibiting the debtor from being a debtor in another case under this title;
+
+&emsp;(22) subject to subsection (<i>l</i>), under subsection (a)(3), of the continuation of any eviction, unlawful detainer action, or similar proceeding by a lessor against a debtor involving residential property in which the debtor resides as a tenant under a lease or rental agreement and with respect to which the lessor has obtained before the date of the filing of the bankruptcy petition, a judgment for possession of such property against the debtor;
+
+&emsp;(23) subject to subsection (m), under subsection (a)(3), of an eviction action that seeks possession of the residential property in which the debtor resides as a tenant under a lease or rental agreement based on endangerment of such property or the illegal use of controlled substances on such property, but only if the lessor files with the court, and serves upon the debtor, a certification under penalty of perjury that such an eviction action has been filed, or that the debtor, during the 30-day period preceding the date of the filing of the certification, has endangered property or illegally used or allowed to be used a controlled substance on the property;
+
+&emsp;(24) under subsection (a), of any transfer that is not avoidable under section 544 and that is not avoidable under section 549;
+
+&emsp;(25) under subsection (a), of—
+
+&emsp;&emsp;(A) the commencement or continuation of an investigation or action by a securities self regulatory organization to enforce such organization's regulatory power;
+
+&emsp;&emsp;(B) the enforcement of an order or decision, other than for monetary sanctions, obtained in an action by such securities self regulatory organization to enforce such organization's regulatory power; or
+
+&emsp;&emsp;(C) any act taken by such securities self regulatory organization to delist, delete, or refuse to permit quotation of any stock that does not meet applicable regulatory requirements;
+
+&emsp;(26) under subsection (a), of the setoff under applicable nonbankruptcy law of an income tax refund, by a governmental unit, with respect to a taxable period that ended before the date of the order for relief against an income tax liability for a taxable period that also ended before the date of the order for relief, except that in any case in which the setoff of an income tax refund is not permitted under applicable nonbankruptcy law because of a pending action to determine the amount or legality of a tax liability, the governmental unit may hold the refund pending the resolution of the action, unless the court, on the motion of the trustee and after notice and a hearing, grants the taxing authority adequate protection (within the meaning of section 361) for the secured claim of such authority in the setoff under section 506(a);
+
+&emsp;(27) under subsection (a), of the setoff by a master netting agreement participant of a mutual debt and claim under or in connection with one or more master netting agreements or any contract or agreement subject to such agreements that constitutes the setoff of a claim against the debtor for any payment or other transfer of property due from the debtor under or in connection with such agreements or any contract or agreement subject to such agreements against any payment due to the debtor from such master netting agreement participant under or in connection with such agreements or any contract or agreement subject to such agreements or against cash, securities, or other property held by, pledged to, under the control of, or due from such master netting agreement participant to margin, guarantee, secure, or settle such agreements or any contract or agreement subject to such agreements, to the extent that such participant is eligible to exercise such offset rights under paragraph (6), (7), or (17) for each individual contract covered by the master netting agreement in issue; and
+
+&emsp;(28) under subsection (a), of the exclusion by the Secretary of Health and Human Services of the debtor from participation in the medicare program or any other Federal health care program (as defined in section 1128B(f) of the Social Security Act pursuant to title XI or XVIII of such Act).
 
 > The provisions of paragraphs (12) and (13) of this subsection shall apply with respect to any such petition filed on or before December 31, 1989.
 
-(c) Except as provided in subsections (d), (e), and (f) of this section—
+(c) Except as provided in subsections (d), (e), (f), and (h) of this section—
 
-&emsp;(1) the stay of an act against property of the estate under subsection (a) of this section continues until such property is no longer property of the estate; and
+&emsp;(1) the stay of an act against property of the estate under subsection (a) of this section continues until such property is no longer property of the estate;
 
 &emsp;(2) the stay of any other act under subsection (a) of this section continues until the earliest of—
 
@@ -84,7 +136,55 @@
 
 &emsp;&emsp;(B) the time the case is dismissed; or
 
-&emsp;&emsp;(C) if the case is a case under chapter 7 of this title concerning an individual or a case under chapter 9, 11, 12, or 13 of this title, the time a discharge is granted or denied.
+&emsp;&emsp;(C) if the case is a case under chapter 7 of this title concerning an individual or a case under chapter 9, 11, 12, or 13 of this title, the time a discharge is granted or denied;
+
+&emsp;(3) if a single or joint case is filed by or against debtor who is an individual in a case under chapter 7, 11, or 13, and if a single or joint case of the debtor was pending within the preceding 1-year period but was dismissed, other than a case refiled under a chapter other than chapter 7 after dismissal under section 707(b)—
+
+&emsp;&emsp;(A) the stay under subsection (a) with respect to any action taken with respect to a debt or property securing such debt or with respect to any lease shall terminate with respect to the debtor on the 30th day after the filing of the later case;
+
+&emsp;&emsp;(B) on the motion of a party in interest for continuation of the automatic stay and upon notice and a hearing, the court may extend the stay in particular cases as to any or all creditors (subject to such conditions or limitations as the court may then impose) after notice and a hearing completed before the expiration of the 30-day period only if the party in interest demonstrates that the filing of the later case is in good faith as to the creditors to be stayed; and
+
+&emsp;&emsp;(C) for purposes of subparagraph (B), a case is presumptively filed not in good faith (but such presumption may be rebutted by clear and convincing evidence to the contrary)—
+
+&emsp;&emsp;&emsp;(i) as to all creditors, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) more than 1 previous case under any of chapters 7, 11, and 13 in which the individual was a debtor was pending within the preceding 1-year period;
+
+&emsp;&emsp;&emsp;&emsp;(II) a previous case under any of chapters 7, 11, and 13 in which the individual was a debtor was dismissed within such 1-year period, after the debtor failed to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) file or amend the petition or other documents as required by this title or the court without substantial excuse (but mere inadvertence or negligence shall not be a substantial excuse unless the dismissal was caused by the negligence of the debtor's attorney);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) provide adequate protection as ordered by the court; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) perform the terms of a plan confirmed by the court; or
+
+&emsp;&emsp;&emsp;&emsp;(III) there has not been a substantial change in the financial or personal affairs of the debtor since the dismissal of the next most previous case under chapter 7, 11, or 13 or any other reason to conclude that the later case will be concluded—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) if a case under chapter 7, with a discharge; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if a case under chapter 11 or 13, with a confirmed plan that will be fully performed; and
+
+&emsp;&emsp;&emsp;(ii) as to any creditor that commenced an action under subsection (d) in a previous case in which the individual was a debtor if, as of the date of dismissal of such case, that action was still pending or had been resolved by terminating, conditioning, or limiting the stay as to actions of such creditor; and
+
+&emsp;(4)(A)(i) if a single or joint case is filed by or against a debtor who is an individual under this title, and if 2 or more single or joint cases of the debtor were pending within the previous year but were dismissed, other than a case refiled under section 707(b), the stay under subsection (a) shall not go into effect upon the filing of the later case; and
+
+&emsp;(ii) on request of a party in interest, the court shall promptly enter an order confirming that no stay is in effect;
+
+&emsp;(B) if, within 30 days after the filing of the later case, a party in interest requests the court may order the stay to take effect in the case as to any or all creditors (subject to such conditions or limitations as the court may impose), after notice and a hearing, only if the party in interest demonstrates that the filing of the later case is in good faith as to the creditors to be stayed;
+
+&emsp;(C) a stay imposed under subparagraph (B) shall be effective on the date of the entry of the order allowing the stay to go into effect; and
+
+&emsp;(D) for purposes of subparagraph (B), a case is presumptively filed not in good faith (but such presumption may be rebutted by clear and convincing evidence to the contrary)—
+
+&emsp;&emsp;(i) as to all creditors if—
+
+&emsp;&emsp;&emsp;(I) 2 or more previous cases under this title in which the individual was a debtor were pending within the 1-year period;
+
+&emsp;&emsp;&emsp;(II) a previous case under this title in which the individual was a debtor was dismissed within the time period stated in this paragraph after the debtor failed to file or amend the petition or other documents as required by this title or the court without substantial excuse (but mere inadvertence or negligence shall not be substantial excuse unless the dismissal was caused by the negligence of the debtor's attorney), failed to provide adequate protection as ordered by the court, or failed to perform the terms of a plan confirmed by the court; or
+
+&emsp;&emsp;&emsp;(III) there has not been a substantial change in the financial or personal affairs of the debtor since the dismissal of the next most previous case under this title, or any other reason to conclude that the later case will not be concluded, if a caseunder chapter 7, with a discharge, and if a case under chapter 11 or 13, with a confirmed plan that will be fully performed; or
+
+&emsp;&emsp;(ii) as to any creditor that commenced an action under subsection (d) in a previous case in which the individual was a debtor if, as of the date of dismissal of such case, such action was still pending or had been resolved by terminating, conditioning, or limiting the stay as to such action of such creditor.
 
 (d) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided under subsection (a) of this section, such as by terminating, annulling, modifying, or conditioning such stay—
 
@@ -94,15 +194,37 @@
 
 &emsp;&emsp;(A) the debtor does not have an equity in such property; and
 
-&emsp;&emsp;(B) such property is not necessary to an effective reorganization; or
+&emsp;&emsp;(B) such property is not necessary to an effective reorganization;
 
-&emsp;(3) with respect to a stay of an act against single asset real estate under subsection (a), by a creditor whose claim is secured by an interest in such real estate, unless, not later than the date that is 90 days after the entry of the order for relief (or such later date as the court may determine for cause by order entered within that 90-day period)—
+&emsp;(3) with respect to a stay of an act against single asset real estate under subsection (a), by a creditor whose claim is secured by an interest in such real estate, unless, not later than the date that is 90 days after the entry of the order for relief (or such later date as the court may determine for cause by order entered within that 90-day period) or 30 days after the court determines that the debtor is subject to this paragraph, whichever is later—
 
 &emsp;&emsp;(A) the debtor has filed a plan of reorganization that has a reasonable possibility of being confirmed within a reasonable time; or
 
-&emsp;&emsp;(B) the debtor has commenced monthly payments to each creditor whose claim is secured by such real estate (other than a claim secured by a judgment lien or by an unmatured statutory lien), which payments are in an amount equal to interest at a current fair market rate on the value of the creditor's interest in the real estate.
+&emsp;&emsp;(B) the debtor has commenced monthly payments that—
 
-(e) Thirty days after a request under subsection (d) of this section for relief from the stay of any act against property of the estate under subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the court, after notice and a hearing, orders such stay continued in effect pending the conclusion of, or as a result of, a final hearing and determination under subsection (d) of this section. A hearing under this subsection may be a preliminary hearing, ormay be consolidated with the final hearing under subsection (d) of this section. The court shall order such stay continued in effect pending the conclusion of the final hearing under subsection (d) of this section if there is a reasonable likelihood that the party opposing relief from such stay will prevail at the conclusion of such final hearing. If the hearing under this subsection is a preliminary hearing, then such final hearing shall be concluded not later than thirty days after the conclusion of such preliminary hearing, unless the 30-day period is extended with the consent of the parties in interest or for a specific time which the court finds is required by compelling circumstances.
+&emsp;&emsp;&emsp;(i) may, in the debtor's sole discretion, notwithstanding section 363(c)(2), be made from rents or other income generated before, on, or after the date of the commencement of the case by or from the property to each creditor whose claim is secured by such real estate (other than a claim secured by a judgment lien or by an unmatured statutory lien); and
+
+&emsp;&emsp;&emsp;(ii) are in an amount equal to interest at the then applicable nondefault contract rate of interest on the value of the creditor's interest in the real estate; or
+
+&emsp;(4) with respect to a stay of an act against real property under subsection (a), by a creditor whose claim is secured by an interest in such real property, if the court finds that the filing of the petition was part of a scheme to delay, hinder, and defraud creditors that involved either—
+
+&emsp;&emsp;(A) transfer of all or part ownership of, or other interest in, such real property without the consent of the secured creditor or court approval; or
+
+&emsp;&emsp;(B) multiple bankruptcy filings affecting such real property.
+
+> &emsp;If recorded in compliance with applicable State laws governing notices of interests or liens in real property, an order entered under paragraph (4) shall be binding in any other case under this title purporting to affect such real property filed not later than 2 years after the date of the entry of such order by the court, except that a debtor in a subsequent case under this title may move for relief from such order based upon changed circumstances or for good cause shown, after notice and a hearing. Any Federal, State, or local governmental unit that accepts notices of interests or liens in real property shall accept any certified copy of an order described in this subsection for indexing and recording.
+
+(e)(1) Thirty days after a request under subsection (d) of this section for relief from the stay of any act against property of the estate under subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the court, after notice and a hearing, orders such stay continued in effect pending the conclusion of, or as a result of, a final hearing and determination under subsection (d) of this section. A hearing under this subsection may be a preliminary hearing, or may be consolidated with the final hearing under subsection (d) of this section. The court shall order such stay continued in effect pending the conclusion of the final hearing under subsection (d) of this section if there is a reasonable likelihood that the party opposing relief from such stay will prevail at the conclusion of such final hearing. If the hearing under this subsection is a preliminary hearing, then such final hearing shall be concluded not later than thirty days after the conclusion of such preliminary hearing, unless the 30-day period is extended with the consent of the parties in interest or for a specific time which the court finds is required by compelling circumstances.
+
+(2) Notwithstanding paragraph (1), in a case under chapter 7, 11, or 13 in which the debtor is an individual, the stay under subsection (a) shall terminate on the date that is 60 days after a request is made by a party in interest under subsection (d), unless—
+
+&emsp;(A) a final decision is rendered by the court during the 60-day period beginning on the date of the request; or
+
+&emsp;(B) such 60-day period is extended—
+
+&emsp;&emsp;(i) by agreement of all parties in interest; or
+
+&emsp;&emsp;(ii) by the court for such specific period of time as the court finds is required for good cause, as described in findings made by the court.
 
 (f) Upon request of a party in interest, the court, with or without a hearing, shall grant such relief from the stay provided under subsection (a) of this section as is necessary to prevent irreparable damage to the interest of an entity in property, if such interest will suffer such damage before there is an opportunity for notice and a hearing under subsection (d) or (e) of this section.
 
@@ -112,9 +234,99 @@
 
 &emsp;(2) the party opposing such relief has the burden of proof on all other issues.
 
-(h) An individual injured by any willful violation of a stay provided by this section shall recover actual damages, including costs and attorneys’ fees, and, in appropriate circumstances, may recover punitive damages.
+(h)(1) In a case in which the debtor is an individual, the stay provided by subsection (a) is terminated with respect to personal property of the estate or of the debtor securing in whole or in part a claim, or subject to an unexpired lease, and such personal property shall no longer be property of the estate if the debtor fails within the applicable time set by section 521(a)(2)—
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886.)
+&emsp;(A) to file timely any statement of intention required under section 521(a)(2) with respect to such personal property or to indicate in such statement that the debtor will either surrender such personal property or retain it and, if retaining such personal property, either redeem such personal property pursuant to section 722, enter into an agreement of the kind specified in section 524(c) applicable to the debt secured by such personal property, or assume such unexpired lease pursuant to section 365(p) if the trustee does not do so, as applicable; and
+
+&emsp;(B) to take timely the action specified in such statement, as it may be amended before expiration of the period for taking action, unless such statement specifies the debtor's intention to reaffirm such debt on the original contract terms and the creditor refuses to agree to the reaffirmation on such terms.
+
+(2) Paragraph (1) does not apply if the court determines, on the motion of the trustee filed before the expiration of the applicable time set by section 521(a)(2), after notice and a hearing, that such personal property is of consequential value or benefit to the estate, and orders appropriate adequate protection of the creditor's interest, and orders the debtor to deliver any collateral in the debtor's possession to the trustee. If the court does not so determine, the stay provided by subsection (a) shall terminate upon the conclusion of the hearing on the motion.
+
+(i) If a case commenced under chapter 7, 11, or 13 is dismissed due to the creation of a debt repayment plan, for purposes of subsection (c)(3), any subsequent case commenced by the debtor under any such chapter shall not be presumed to be filed not in good faith.
+
+(j) On request of a party in interest, the court shall issue an order under subsection (c) confirming that the automatic stay has been terminated.
+
+(k)(1) Except as provided in paragraph (2), an individual injured by any willful violation of a stay provided by this section shall recover actual damages, including costs and attorneys’ fees, and, in appropriate circumstances, may recover punitive damages.
+
+(2) If such violation is based on an action taken by an entity in the good faith belief that subsection (h) applies to the debtor, the recovery under paragraph (1) of this subsection against such entity shall be limited to actual damages.
+
+(<i>l</i>)(1) Except as otherwise provided in this subsection, subsection (b)(22) shall apply on the date that is 30 days after the date on which the bankruptcy petition is filed, if the debtor files with the petition and serves upon the lessor a certification under penalty of perjury that—
+
+&emsp;(A) under nonbankruptcy law applicable in the jurisdiction, there are circumstances under which the debtor would be permitted to cure the entire monetary default that gave rise to the judgment for possession, after that judgment for possession was entered; and
+
+&emsp;(B) the debtor (or an adult dependent of the debtor) has deposited with the clerk of the court, any rent that would become due during the 30-day period after the filing of the bankruptcy petition.
+
+(2) If, within the 30-day period after the filing of the bankruptcy petition, the debtor (or an adult dependent of the debtor) complies with paragraph (1) and files with the court and serves upon the lessor a further certification under penalty of perjury that the debtor (or an adult dependent of the debtor) has cured, under nonbankrupcty <sup>1</sup> law applicable in the jurisdiction, the entire monetary default that gave rise to the judgment under which possession is sought by the lessor, subsection (b)(22) shall not apply, unless ordered to apply by the court under paragraph (3).
+
+(3)(A) If the lessor files an objection to any certification filed by the debtor under paragraph (1) or (2), and serves such objection upon the debtor, the court shall hold a hearing within 10 days after the filing and service of such objection to determine if the certification filed by the debtor under paragraph (1) or (2) is true.
+
+(B) If the court upholds the objection of the lessor filed under subparagraph (A)—
+
+&emsp;(i) subsection (b)(22) shall apply immediately and relief from the stay provided under subsection (a)(3) shall not be required to enable the lessor to complete the process to recover full possession of the property; and
+
+&emsp;(ii) the clerk of the court shall immediately serve upon the lessor and the debtor a certified copy of the court's order upholding the lessor's objection.
+
+(4) If a debtor, in accordance with paragraph (5), indicates on the petition that there was a judgment for possession of the residential rental property in which the debtor resides and does not file a certification under paragraph (1) or (2)—
+
+&emsp;(A) subsection (b)(22) shall apply immediately upon failure to file such certification, and relief from the stay provided under subsection (a)(3) shall not be required to enable the lessor to complete the process to recover full possession of the property; and
+
+&emsp;(B) the clerk of the court shall immediately serve upon the lessor and the debtor a certified copy of the docket indicating the absence of a filed certification and the applicability of the exception to the stay under subsection (b)(22).
+
+(5)(A) Where a judgment for possession of residential property in which the debtor resides as a tenant under a lease or rental agreement has been obtained by the lessor, the debtor shall so indicate on the bankruptcy petition and shall provide the name and address of the lessor that obtained that pre-petition judgment on the petition and on any certification filed under this subsection.
+
+(B) The form of certification filed with the petition, as specified in this subsection, shall provide for the debtor to certify, and the debtor shall certify—
+
+&emsp;(i) whether a judgment for possession of residential rental housing in which the debtor resides has been obtained against the debtor before the date of the filing of the petition; and
+
+&emsp;(ii) whether the debtor is claiming under paragraph (1) that under nonbankruptcy law applicable in the jurisdiction, there are circumstances under which the debtor would be permitted to cure the entire monetary default that gave rise to the judgment for possession, after that judgment of possession was entered, and has made the appropriate deposit with the court.
+
+(C) The standard forms (electronic and otherwise) used in a bankruptcy proceeding shall be amended to reflect the requirements of this subsection.
+
+(D) The clerk of the court shall arrange for the prompt transmittal of the rent deposited in accordance with paragraph (1)(B) to the lessor.
+
+(m)(1) Except as otherwise provided in this subsection, subsection (b)(23) shall apply on the date that is 15 days after the date on which the lessor files and serves a certification described in subsection (b)(23).
+
+(2)(A) If the debtor files with the court an objection to the truth or legal sufficiency of the certification described in subsection (b)(23) and serves such objection upon the lessor, subsection (b)(23) shall not apply, unless ordered to apply by the court under this subsection.
+
+(B) If the debtor files and serves the objection under subparagraph (A), the court shall hold a hearing within 10 days after the filing and service of such objection to determine if the situation giving rise to the lessor's certification under paragraph (1) existed or has been remedied.
+
+(C) If the debtor can demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph (1) did not exist or has been remedied, the stay provided under subsection (a)(3) shall remain in effect until the termination of the stay under this section.
+
+(D) If the debtor cannot demonstrate to the satisfaction of the court that the situation giving rise to the lessor's certification under paragraph (1) did not exist or has been remedied—
+
+&emsp;(i) relief from the stay provided under subsection (a)(3) shall not be required to enable the lessor to proceed with the eviction; and
+
+&emsp;(ii) the clerk of the court shall immediately serve upon the lessor and the debtor a certified copy of the court's order upholding the lessor's certification.
+
+(3) If the debtor fails to file, within 15 days, an objection under paragraph (2)(A)—
+
+&emsp;(A) subsection (b)(23) shall apply immediately upon such failure and relief from the stay provided under subsection (a)(3) shall not be required to enable the lessor to complete the process to recover full possession of the property; and
+
+&emsp;(B) the clerk of the court shall immediately serve upon the lessor and the debtor a certified copy of the docket indicating such failure.
+
+(n)(1) Except as provided in paragraph (2), subsection (a) does not apply in a case in which the debtor—
+
+&emsp;(A) is a debtor in a small business case pending at the time the petition is filed;
+
+&emsp;(B) was a debtor in a small business case that was dismissed for any reason by an order that became final in the 2-year period ending on the date of the order for relief entered with respect to the petition;
+
+&emsp;(C) was a debtor in a small business case in which a plan was confirmed in the 2-year period ending on the date of the order for relief entered with respect to the petition; or
+
+&emsp;(D) is an entity that has acquired substantially all of the assets or business of a small business debtor described in subparagraph (A), (B), or (C), unless such entity establishes by a preponderance of the evidence that such entity acquired substantially all of the assets or business of such small business debtor in good faith and not for the purpose of evading this paragraph.
+
+(2) Paragraph (1) does not apply—
+
+&emsp;(A) to an involuntary case involving no collusion by the debtor with creditors; or
+
+&emsp;(B) to the filing of a petition if—
+
+&emsp;&emsp;(i) the debtor proves by a preponderance of the evidence that the filing of the petition resulted from circumstances beyond the control of the debtor not foreseeable at the time the case then pending was filed; and
+
+&emsp;&emsp;(ii) it is more likely than not that the court will confirm a feasible plan, but not a liquidating plan, within a reasonable period of time.
+
+(<i>o</i>) The exercise of rights not subject to the stay arising under subsection (a) pursuant to paragraph (6), (7), (17), or (27) of subsection (b) shall not be stayed by any order of a court or administrative agency in any proceeding under this title.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (<i>o</i>)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199.)
 
 #### Historical and Revision Notes
 
@@ -140,7 +352,7 @@ Section 362(g) places the burden of proof on the issue of the debtor's equity in
 
 An amendment has been made to section 362(b) to permit the Secretary of the Department of Housing and Urban Development to commence an action to foreclose a mortgage or deed of trust. The commencement of such an action is necessary for tax purposes. The section is not intended to permit the continuation of such an action after it is commenced nor is the section to be construed to entitle the Secretary to take possession in lieu of foreclosure.
 
-Automatic stay: Sections 362(b)(8) and (9) contained in the Senate amendment are largely deleted in the House amendment. Those provisions add to the list of actions not stayed (a) jeopardy assessments, (b) otherassessments, and (c) the issuance of deficiency notices. In the House amendment, jeopardy assessments against property which ceases to be property of the estate is already authorized by section 362(c)(1). Other assessments are specifically stayed under section 362(a)(6), while the issuance of a deficiency notice is specifically permitted. Stay of the assessment and the permission to issue a statutory notice of a tax deficiency will permit the debtor to take his personal tax case to the Tax Court, if the bankruptcy judge authorizes him to do so (as explained more fully in the discussion of section 505).
+Automatic stay: Sections 362(b)(8) and (9) contained in the Senate amendment are largely deleted in the House amendment. Those provisions add to the list of actions not stayed (a) jeopardy assessments, (b) other assessments, and (c) the issuance of deficiency notices. In the House amendment, jeopardy assessments against property which ceases to be property of the estate is already authorized by section 362(c)(1). Other assessments are specifically stayed under section 362(a)(6), while the issuance of a deficiency notice is specifically permitted. Stay of the assessment and the permission to issue a statutory notice of a tax deficiency will permit the debtor to take his personal tax case to the Tax Court, if the bankruptcy judge authorizes him to do so (as explained more fully in the discussion of section 505).
 
 #### senate report no. 95–989
 
@@ -152,7 +364,7 @@ The action commenced by the party seeking relief from the stay is referred to as
 
 Paragraph (7) \[of subsec. (a)\] stays setoffs of mutual debts and credits between the debtor and creditors. As with all other paragraphs of subsection (a), this paragraph does not affect the right of creditors. It simply stays its enforcement pending an orderly examination of the debtor's and creditors’ rights.
 
-Subsection (c) governs automatic termination of the stay. Subsections (d) through (g) govern termination of the stay by the court on the request of a party in interest. Subsection (d) requires the court, on request of a party in interest, to grant relief from the stay, such as by terminating, annulling, modifying, or conditioning the stay, for cause. The lack of adequate protection of an interest in property of the party requesting relief from the stay is one cause for relief, but is not the only cause. As noted above, a desire to permit an action to proceed to completion in another tribunal may provide another cause. Other causes might include the lack of any connection with or interference with the pending bankruptcy case. For example, a divorce or child custody proceeding involving the debtor may bear no relation to the bankruptcy case. In that case, it should not be stayed. A probate proceeding in which the debtor is the executor or administrator of another's estate usually will not be related to the bankruptcy case, and should not be stayed. Generally, proceedings in which the debtor is a fiduciary, or involving postpetition activities of the debtor, need not be stayed because they bear no relationship to the purpose of the automatic stay, which is debtor protection from his creditors. The facts of each request will determine whether relief is appropriate under the circumstances.
+Subsection (c) governs automatic termination of the stay. Subsections (d) through (g) govern termination of the stay by the court on the request of a party in interest. Subsection (d) requires the court, on request of a party in interest, to grant relief from the stay, such as by terminating, annulling, modifying, or conditioningthe stay, for cause. The lack of adequate protection of an interest in property of the party requesting relief from the stay is one cause for relief, but is not the only cause. As noted above, a desire to permit an action to proceed to completion in another tribunal may provide another cause. Other causes might include the lack of any connection with or interference with the pending bankruptcy case. For example, a divorce or child custody proceeding involving the debtor may bear no relation to the bankruptcy case. In that case, it should not be stayed. A probate proceeding in which the debtor is the executor or administrator of another's estate usually will not be related to the bankruptcy case, and should not be stayed. Generally, proceedings in which the debtor is a fiduciary, or involving postpetition activities of the debtor, need not be stayed because they bear no relationship to the purpose of the automatic stay, which is debtor protection from his creditors. The facts of each request will determine whether relief is appropriate under the circumstances.
 
 Subsection (e) provides a protection for secured creditors that is not available under present law. The subsection sets a time certain within which the bankruptcy court must rule on the adequacy of protection provided of the secured creditor's interest. If the court does not rule within 30 days from a request for relief from the stay, the stay is automatically terminated with respect to the property in question. In order to accommodate more complex cases, the subsection permits the court to make a preliminary ruling after a preliminary hearing. After a preliminary hearing, the court may continue the stay only if there is a reasonable likelihood that the party opposing relief from the stay will prevail at the final hearing. Because the stay is essentially an injunction, the three stages of the stay may be analogized to the three stages of an injunction. The filing of the petition which gives rise to the automatic stay is similar to a temporary restraining order. The preliminary hearing is similar to the hearing on a preliminary injunction, and the final hearing and order is similar to a permanent injunction. The main difference lies in which party must bring the issue before the court. While in the injunction setting, the party seeking the injunction must prosecute the action, in proceedings for relief from the automatic stay, the enjoined party must move. The difference does not, however, shift the burden of proof. Subsection (g) leaves that burden on the party opposing relief from the stay (that is, on the party seeking continuance of the injunction) on the issue of adequate protection.
 
@@ -162,13 +374,79 @@ At the expedited hearing under subsection (e), and at all hearings on relief fro
 
 Section 5(a)(3) of the Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is classified to section 78eee(a)(3) of Title 15, Commerce and Trade.
 
+The Social Security Act, referred to in subsec. (b)(2)(D) to (G), (28), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, XI, and XVIII of the Act are classified generally to subchapters IV (§601 et seq.), XI (§1301 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 464, 466, and 1128B of the Act are classified to sections 664, 666, and 1320a–7b, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
 The National Housing Act, referred in subsec. (b)(8), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 The Merchant Marine Act, 1936, referred to in subsec. (b)(12), (13), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Title XI of the Act is classified generally to subchapter XI (§1271 et seq.) of chapter 27 of Title 46, Appendix, Shipping. Section 207 of the Act is classified to section 1117 of Title 46, Appendix. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (b)(16), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. Section 435(j) of the Act is classified to section 1085(j) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
+The Internal Revenue Code of 1986, referred to in subsec. (b)(19), is classified generally to Title 26, Internal Revenue Code.
+
+Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(19)(A), is classified to section 1108(b)(1) of Title 29, Labor.
+
 #### Amendments
+
+2005—Subsec. (a)(8). Pub. L. 109–8, §709, substituted “a corporate debtor's tax liability for a taxable period the bankruptcy court may determine or concerning the tax liability of a debtor who is an individual for a taxable period ending before the date of the order for relief under this title” for “the debtor”.
+
+Subsec. (b)(2). Pub. L. 109–8, §214, added par. (2) and struck out former par. (2) which read as follows: “under subsection (a) of this section—
+
+&emsp;“(A) of the commencement or continuation of an action or proceeding for—
+
+&emsp;&emsp;“(i) the establishment of paternity; or
+
+&emsp;&emsp;“(ii) the establishment or modification of an order for alimony, maintenance, or support; or
+
+&emsp;“(B) of the collection of alimony, maintenance, or support from property that is not property of the estate;”.
+
+Subsec. (b)(6). Pub. L. 109–8, §907(d)(1)(A), (<i>o</i>)(1), substituted “financial institution, financial participant,” for “financial institutions,” in two places and inserted “, pledged to, under the control of,” after “held by”.
+
+Subsec. (b)(7). Pub. L. 109–8, §907(d)(1)(B), (<i>o</i>)(2), inserted “or financial participant” after “repo participant” in two places and “, pledged to, under the control of,” after “held by”.
+
+Subsec. (b)(17). Pub. L. 109–8, §907(d)(1)(C), added par. (17) and struck out former par. (17) which read as follows: “under subsection (a) of this section, of the setoff by a swap participant, of any mutual debt and claim under or in connection with any swap agreement that constitutes the setoff of a claim against the debtor for any payment due from the debtor under or in connection with any swap agreement against any payment due to the debtor from the swap participant under or in connection with any swap agreement or against cash, securities, or other property of the debtor held by or due from such swap participant to guarantee, secure or settle any swap agreement;”.
+
+Subsec. (b)(18). Pub. L. 109–8, §1225, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “under subsection (a) of the creation or perfection of a statutory lien for an ad valorem property tax imposed by the District of Columbia, or a political subdivision of a State, if such tax comes due after the filing of the petition;”.
+
+Subsec. (b)(19). Pub. L. 109–8, §224(b), added par. (19).
+
+Subsec. (b)(20), (21). Pub. L. 109–8, §303(b), added pars. (20) and (21).
+
+Subsec. (b)(22) to (24). Pub. L. 109–8, §311(a), added pars. (22) to (24).
+
+Subsec. (b)(25). Pub. L. 109–8, §401(b), added par. (25).
+
+Subsec. (b)(26). Pub. L. 109–8, §718, added par. (26).
+
+Subsec. (b)(27). Pub. L. 109–8, §907(d)(1)(D), added par. (27).
+
+Subsec. (b)(28). Pub. L. 109–8, §1106, added par. (28).
+
+Subsec. (c). Pub. L. 109–8, §305(1)(A), substituted “(e), (f), and (h)” for “(e), and (f)” in introductory provisions.
+
+Subsec. (c)(3), (4). Pub. L. 109–8, §302, added pars. (3) and (4).
+
+Subsec. (d). Pub. L. 109–8, §303(a), added par. (4) and concluding provisions.
+
+Subsec. (d)(3). Pub. L. 109–8, §444(1), inserted “or 30 days after the court determines that the debtor is subject to this paragraph, whichever is later” after “90-day period)” in introductory provisions.
+
+Subsec. (d)(3)(B). Pub. L. 109–8, §444(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “the debtor has commenced monthly payments to each creditor whose claim is secured by such real estate (other than a claim secured by a judgment lien or by an unmatured statutory lien), which payments are in an amount equal to interest at a current fair market rate on the value of the creditor's interest in the real estate; or”.
+
+Subsec. (e). Pub. L. 109–8, §320, designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (h). Pub. L. 109–8, §305(1)(C), added subsec. (h). Former subsec. (h) redesignated (k).
+
+Subsecs. (i), (j). Pub. L. 109–8, §106(f), added subsecs. (i) and (j).
+
+Subsec. (k). Pub. L. 109–8, §441(1), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an” for “An”, and added par. (2).
+
+Pub. L. 109–8, §305(1)(B), redesignated subsec. (h) as (k).
+
+Subsecs. (<i>l</i>), (m). Pub. L. 109–8, §311(b), added subsecs. (<i>l</i>) and (m).
+
+Subsec. (n). Pub. L. 109–8, §441(2), added subsec. (n).
+
+Subsec. (<i>o</i>). Pub. L. 109–8, §907(d)(2), added subsec. (<i>o</i>).
 
 1998—Subsec. (b)(4), (5). Pub. L. 105–277 added par. (4) and struck out former pars. (4) and (5) which read as follows:
 
@@ -272,6 +550,10 @@ Subsec. (b). Pub. L. 97–222, §3(b), inserted “, or of an application under
 
 Subsec. (b)(6). Pub. L. 97–222, §3(c), substituted provisions that the filing of a bankruptcy petition would not operate as a stay, under subsec. (a) of this section, of the setoff by a commodity broker, forward contract merchant, stockbroker, or securities clearing agency of any mutual debt and claim under or in connection with commodity, forward, or securities contracts that constitutes the setoff of a claim against the debtor for a margin or settlement payment arising out of commodity, forward, or securities contracts against cash, securities, or other property held by any of the above agents to margin, guarantee, or secure commodity, forward, or securities contracts, for provisions that such filing would not operate as a stay under subsection (a)(7) of this section, of the setoff of any mutual debt and claim that are commodity futures contracts, forward commodity contracts, leverage transactions, options, warrants, rights to purchase or sell commodity futures contracts or securities, or options to purchase or sell commodities or securities.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -297,4 +579,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Report to Congressional Committees
 
 Section 5001(a) of Pub. L. 99–509 directed Secretary of Transportation and Secretary of Commerce, before July 1, 1989, to submit reports to Congress on the effects of amendments to 11 U.S.C. 362 by this subsection.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “nonbankruptcy”.</i>
 

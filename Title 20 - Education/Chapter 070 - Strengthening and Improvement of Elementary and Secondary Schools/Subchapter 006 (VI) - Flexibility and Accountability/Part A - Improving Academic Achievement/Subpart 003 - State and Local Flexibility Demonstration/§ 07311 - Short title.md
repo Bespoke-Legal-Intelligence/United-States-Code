@@ -6,5 +6,5 @@ This subpart may be cited as the “State and Local Flexibility Demonstration Ac
 
 #### Prior Provisions
 
-A prior section 7311, Pub. L. 89–10, title VI, §6101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3708, related to allotment to States, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7211 of this title.
+A prior section 7311, Pub. L. 89–10, title VI, §6101, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3708, related to allotment to States, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 7211 of this title.
 

@@ -14,7 +14,7 @@ National Security Missions.—(1) The National Geospatial-Intelligence Agency sh
 
 (b)
 
-Navigation Information.—The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and the merchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
+Navigation Information.—The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and themerchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
 
 (c)
 
@@ -45,8 +45,4 @@ Subsecs. (b), (c). Pub. L. 108–136, §921(d)(2)(A), substituted “National Ge
 Subsec. (d). Pub. L. 108–136, §921(d)(2)(A), (f), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” and “section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a))” for “section 120(a) of the National Security Act of 1947”.
 
 Subsec. (e). Pub. L. 108–136, §921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 404e.
 

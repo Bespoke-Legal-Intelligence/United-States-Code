@@ -52,7 +52,7 @@ On January 6, 1988, the Corporation shall become a body corporate and as such sh
 
 #### (8) Information
 
-&emsp;The Corporation may, when necessary, make examinations of, and require information andreports from, System institutions, as provided in this part.
+&emsp;The Corporation may, when necessary, make examinations of, and require information and reports from, System institutions, as provided in this part.
 
 #### (9) Conservator or receiver
 

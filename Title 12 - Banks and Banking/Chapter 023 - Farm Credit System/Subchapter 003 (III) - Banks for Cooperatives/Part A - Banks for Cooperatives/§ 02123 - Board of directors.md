@@ -6,7 +6,7 @@
 
 &emsp;(i) the number of stockholders eligible to vote; multiplied by
 
-&emsp;(ii) the percentage (or fractional part thereof) of the total equity interest (including allocated, but not unallocated, surplus and reserves) in the bank of all stockholders held bythe individual voting stockholder at the close of the immediately preceding fiscal year of the bank.
+&emsp;(ii) the percentage (or fractional part thereof) of the total equity interest (including allocated, but not unallocated, surplus and reserves) in the bank of all stockholders held by the individual voting stockholder at the close of the immediately preceding fiscal year of the bank.
 
 (B) The total number of votes under this paragraph shall be the number of voting stockholders of a bank for cooperatives multiplied by two.
 

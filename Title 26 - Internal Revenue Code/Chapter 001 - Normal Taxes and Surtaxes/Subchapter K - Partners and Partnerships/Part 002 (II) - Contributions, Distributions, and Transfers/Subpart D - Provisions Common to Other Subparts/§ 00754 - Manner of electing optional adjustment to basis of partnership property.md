@@ -8,7 +8,3 @@ If a partnership files an election, in accordance with regulations prescribed by
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 732, 734, 743 of this title.
-

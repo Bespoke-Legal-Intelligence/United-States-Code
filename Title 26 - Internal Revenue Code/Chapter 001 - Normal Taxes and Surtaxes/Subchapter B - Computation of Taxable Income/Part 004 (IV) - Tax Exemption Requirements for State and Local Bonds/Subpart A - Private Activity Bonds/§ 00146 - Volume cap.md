@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the numerator of which is the amount applicable under paragraph (1)(B) for such calendar year, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the denominator of which is the State population of the least populousState (other than a possession) for such calendar year, and
+&emsp;&emsp;&emsp;&emsp;(II) the denominator of which is the State population of the least populous State (other than a possession) for such calendar year, and
 
 &emsp;&emsp;&emsp;(ii) the population of such possession for such calendar year.
 
@@ -168,7 +168,7 @@ Only for purposes of this section, the term “private activity bond” shall no
 
 &emsp;(2) any qualified 501(c)(3) bond,
 
-&emsp;(3) any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), or (13) of section 142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities), and
+&emsp;(3) any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), (13), (14), or (15) of section 142(a), and
 
 &emsp;(4) 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities).
 
@@ -224,7 +224,7 @@ For purposes of this section, determinations of the population of any State (or 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), no portion of the State ceiling applicable to any State for any calendar year may be used with respect to financing for a facility located outside such State.
+&emsp;Except as provided in paragraphs (2) and (3), no portion of the State ceiling applicable toany State for any calendar year may be used with respect to financing for a facility located outside such State.
 
 #### (2) Exception for certain facilities where State will get proportionate share of benefits
 
@@ -262,17 +262,21 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965.)
 
-#### Adjustment of State Ceiling for Private Activity Bond Volume Cap for Calendar Year 2004
+#### Adjustment of State Ceiling for Private Activity Bond Volume Cap for Calendar Year 2006
 
-<i>For inflation adjustment of amounts in subsection (d)(1) of this section used to calculate</i><i>the State ceiling for volume cap for private activity bonds for calendar year 2004, see section 3.15 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (d)(1) of this section used to calculate the State ceiling for volume cap for private activity bonds for calendar year 2006, see section 3.15 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2005—Subsec. (g)(3). Pub. L. 109–59 substituted “(14), or (15) of section 142(a), and” for “or (14) of section 142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, qualified public educational facilities, and qualified green building and sustainable design projects), and”.
+
+2004—Subsec. (g)(3). Pub. L. 108–357 substituted “(13), or (14)” for “or (13)” and “qualified public educational facilities, and qualified green building and sustainable design projects” for “and qualified public educational facilities”.
 
 2001—Subsec. (g)(3). Pub. L. 107–16, §§422(c), 901, temporarily substituted “(12), or (13)” for “or (12)” and “environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities” for “and environmental enhancements of hydroelectric generating facilities”. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -316,6 +320,14 @@ Subsec. (k)(3). Pub. L. 100–647, §1013(a)(10)(B), added par. (3).
 
 1987—Subsec. (f)(5)(A). Pub. L. 100–203 amended subpar. (A) generally, as amended by Pub. L. 100–647, §1013(a)(9), restating it without change. See 1988 Amendment note above.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 applicable to bonds issued after Aug. 10, 2005, see section 11143(d) of Pub. L. 109–59, set out as a note under section 142 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to bonds issued after Dec. 31, 2004, see section 701(e) of Pub. L. 108–357, set out as a note under section 142 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
@@ -351,8 +363,4 @@ Amendment by section 6180(b)(3) of Pub. L. 100–647 applicable to bonds issued 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–203 applicable, with certain exceptions, to bonds issued after Oct. 13, 1987 (other than bonds issued to refund bonds issued on or before such date), see section 10631(c) of Pub. L. 100–203, set out as a note under section 141 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25, 42, 141, 142, 144, 145, 149, 1394, 1400L, 7871 of this title.
 

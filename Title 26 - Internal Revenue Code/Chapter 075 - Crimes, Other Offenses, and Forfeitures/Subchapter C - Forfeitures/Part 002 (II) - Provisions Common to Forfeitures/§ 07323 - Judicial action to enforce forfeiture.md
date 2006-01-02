@@ -14,7 +14,3 @@ The cost of seizure made before process issues shall be taxable by the court.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 869.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7324 of this title.
-

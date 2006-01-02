@@ -2,7 +2,7 @@
 
 The functions of each United States Agricultural Trade Office shall be to—
 
-&emsp;(1) increase the effectiveness of agricultural export promotion efforts through consolidation of activities, providing services and facilities for foreign buyers and United States traderepresentatives, and coordination of market development activities sponsored by the Department of Agriculture;
+&emsp;(1) increase the effectiveness of agricultural export promotion efforts through consolidation of activities, providing services and facilities for foreign buyers and United States trade representatives, and coordination of market development activities sponsored by the Department of Agriculture;
 
 &emsp;(2) establish goals by nation or region and agricultural commodity for developing, expanding, and maintaining markets for United States agricultural commodities;
 

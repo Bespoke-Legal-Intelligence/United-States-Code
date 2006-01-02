@@ -46,7 +46,7 @@
 
 A prior section 203, act June 25, 1948, ch. 645, 62 Stat. 692, related to the acceptance or demand by district attorneys, or marshals and their assistants of any fee other than provided by law, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
 
-Provisions similar to those comprising this section were contained in section 281 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
+Provisions similar to those comprising this section were contained in section 281 of this title prior to therepeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
 

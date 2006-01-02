@@ -12,7 +12,7 @@ Potential impacts to be addressed in the report under this <sup>1</sup> subsect
 
 &emsp;(2) public health, including the facilities and personnel for treatment and distribution of water, the treatment of sewage, the control of pests and the disposal of solid waste;
 
-&emsp;(3) law enforcement, including facilities and personnel for the courts, police and sheriff's departments, district attorneys and public defenders and prisons;
+&emsp;(3) law enforcement, including facilities and personnel for the courts, police and sheriff'sdepartments, district attorneys and public defenders and prisons;
 
 &emsp;(4) fire protection, including personnel, the construction of fire stations, and the acquisition of equipment;
 

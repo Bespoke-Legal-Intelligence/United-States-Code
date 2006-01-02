@@ -26,7 +26,7 @@ Another prior section 407 of Pub. L. 93–415 was renumbered section 406 of Pub.
 
 Pub. L. 108–21, which directed the substitution of “fiscal years 2004 through 2005.” for “fiscal years 2000 through 2003” in section 408(a) of Pub. L. 93–415, was executed by making the substitution in subsec. (a) of this section, to reflect the probable intent of Congress. See Codification note above.
 
-1999—Subsec. (a). Pub. L. 106–71, which directed the substitution of “2000 through 2003” for “1997 through 2001” in section 408 of Pub. L. 93–415, was executed by making the substitution in subsec. (a) of this section, to reflect the probable intent of Congress. See Codification note above.
+1999—Subsec. (a). Pub. L. 106–71, which directed the substitution of “2000 through 2003” for “1997 through 2001” in section 408 of Pub. L. 93–415, was executed bymaking the substitution in subsec. (a) of this section, to reflect the probable intent of Congress. See Codification note above.
 
 1996—Pub. L. 104–235 designated existing provisions as subsec. (a), inserted heading, substituted “1997 through 2001” for “1993, 1994, 1995, and 1996”, and added subsec. (b).
 

@@ -1,6 +1,6 @@
 ### §8966. Retired lists
 
-(a) The Secretary of the Air Force shall maintain a retired list containing the name of eachretired commissioned officer of the Regular Air Force.
+(a) The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force.
 
 (b) The Secretary shall maintain a retired list containing the name of—
 

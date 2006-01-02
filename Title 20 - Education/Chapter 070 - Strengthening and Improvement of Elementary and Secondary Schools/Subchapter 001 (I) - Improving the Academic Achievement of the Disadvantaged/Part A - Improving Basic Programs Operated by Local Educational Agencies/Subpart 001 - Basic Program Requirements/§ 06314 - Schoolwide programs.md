@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(I) Activities to ensure that students who experience difficulty mastering the proficient or advanced levels of academic achievement standards required by section 6311(b)(1) of this title shall be provided with effective, timely additional assistance which shall include measures to ensure that students’ difficulties are identified on a timely basis and to provide sufficient information on which to base effective assistance.
 
-&emsp;&emsp;(J) Coordination and integration of Federal, State, and local services and programs,including programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start, adult education, vocational and technical education, and job training.
+&emsp;&emsp;(J) Coordination and integration of Federal, State, and local services and programs, including programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start, adult education, vocational and technical education, and job training.
 
 #### (2) Plan
 

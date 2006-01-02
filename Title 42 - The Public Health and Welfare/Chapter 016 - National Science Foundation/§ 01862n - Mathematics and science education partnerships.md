@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology more effectively in teaching mathematics and science, including programs that recruit and train undergraduate and graduate students to provide technical support to teachers;
 
-&emsp;&emsp;(D) developing distance learning programs for teachers or students, including developing courses, curricular materials, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
+&emsp;&emsp;(D) developing distance learning programs for teachers or students, including developing courses, curricular materials, and otherresources for the in-service professional development of teachers that are made available to teachers through the Internet;
 
 &emsp;&emsp;(E) developing a cadre of master teachers who will promote reform and improvement in schools;
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(iii) why such activities are expected to improve student performance and strengthen the quality of mathematics and science instruction; and
 
-&emsp;&emsp;&emsp;(iv) any activities that will encourage the interest of individuals identified in section 1885a or 1885b of this title in mathematics, science, engineering, and technology and will help prepare such individuals to pursue postsecondary studies in these fields;
+&emsp;&emsp;&emsp;(iv) any activities that will encourage the interest of individuals identified insection 1885a or 1885b of this title in mathematics, science, engineering, and technology and will help prepare such individuals to pursue postsecondary studies in these fields;
 
 &emsp;&emsp;(C) a description of the number, size, and nature of any stipends that will be provided to students or teachers and the reasons such stipends are needed;
 
@@ -172,7 +172,7 @@
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub.L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(3)(A) and (c)(4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Part B of title II of the Act is classified generally to part B (§6661 et seq.) of subchapter II of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Codification
 
@@ -278,7 +278,7 @@ Secondary school.—The term ‘secondary school’ has the meaning given that t
 
 &emsp;“(14)
 
-State.—Except with respect to the Experimental Program to Stimulate Competitive Research, the term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+State.—Except with respect to the Experimental Program to Stimulate Competitive Research, the term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of PuertoRico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
 &emsp;“(15)
 

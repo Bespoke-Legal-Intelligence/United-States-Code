@@ -48,7 +48,7 @@ Pub. L. 97–229, §6, Aug. 3, 1982, 96 Stat. 253, provided that:
 
 “(a)
 
-Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of the Treasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads ofother appropriate Federal agencies. Such analysis shall—
+Impact Analysis.—(1) The Secretary of Energy shall analyze the impact on the domestic economy and on consumers in the United States of reliance on market allocation and pricing during any substantial reduction in the amount of petroleum products available to the United States. In making such analysis, the Secretary of Energy may consult with the Secretary of the Treasury, the Secretary of Agriculture, the Director of the Office of Management and Budget, and the heads of other appropriate Federal agencies. Such analysis shall—
 
 &emsp;“(A) examine the equity and efficiency of such reliance,
 
@@ -74,7 +74,7 @@ Strategic Petroleum Reserve Drawdown and Distribution Report.—The President sh
 
 “(c)
 
-Regional Reserve Report.—The President or his delegate shall submit to the Congress no later than December 31, 1982, a report regarding the actions taken to comply with the provisions of section 157 of the Energy Policy and Conservation Act (42 U.S.C. 6237). Such report shall include an analysis of the economic benefits and costs of establishing Regional Petroleum Reserves, including—
+Regional Reserve Report.—The President or his delegate shall submit to the Congress no later thanDecember 31, 1982, a report regarding the actions taken to comply with the provisions of section 157 of the Energy Policy and Conservation Act (42 U.S.C. 6237). Such report shall include an analysis of the economic benefits and costs of establishing Regional Petroleum Reserves, including—
 
 &emsp;“(1) an assessment of the ability to transport petroleum products to refiners, distributors, and end users within the regions specified in section 157(a) of such Act;
 

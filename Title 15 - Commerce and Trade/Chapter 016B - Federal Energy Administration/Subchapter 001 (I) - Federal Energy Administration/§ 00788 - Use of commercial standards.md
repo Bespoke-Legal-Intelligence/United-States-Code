@@ -14,7 +14,7 @@ An organization complies with the requirements of this subsection in promulgatin
 
 &emsp;(1) it gives interested persons adequate notice of the proposed promulgation of the standards and an opportunity to participate in the promulgation process through the presentation of their views in hearings or meetings which are open to the public;
 
-&emsp;(2) the membership of the organization at the time of the promulgation of the standardsis sufficiently balanced so as to allow for the effective representation of all interested persons;
+&emsp;(2) the membership of the organization at the time of the promulgation of the standards is sufficiently balanced so as to allow for the effective representation of all interested persons;
 
 &emsp;(3) before promulgating such standards, it makes available to the public any records of proceedings of the organization, and any documents, letters, memorandums, and materials, relating to such standards; and
 
@@ -26,7 +26,7 @@ An organization complies with the requirements of this subsection in promulgatin
 
 #### (c) Consultation with Attorney General and Chairman of Federal Trade Commission; impact of rules on competition
 
-The Administrator shall not incorporate within any rule, nor prescribe any rule specifically authorizing or requiring the use of, any commercial standards unless he has consulted with the Attorney General and the Chairman of the Federal Trade Commission concerning the impact of such standards on competition and neither such individual recommends against such incorporation or use.
+The Administrator shall not incorporate within any rule, nor prescribe any rule specificallyauthorizing or requiring the use of, any commercial standards unless he has consulted with the Attorney General and the Chairman of the Federal Trade Commission concerning the impact of such standards on competition and neither such individual recommends against such incorporation or use.
 
 #### (d) Rules relating to Administration procurement activities
 

@@ -62,7 +62,3 @@ In subsection (b), the words “The Secretary concerned may defer” are substit
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1406 of this title; title 14 section 334.
-

@@ -110,7 +110,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to any election under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
+Section 9(b) of Pub. L. 93–416 provided that: “The amendment made by this section \[amending this section\] shall be effective with respect to disability or death occurring before or after the date of enactment of this Act \[Sept. 7, 1974\] and without regard to anyelection under section 8116(b) of the Act \[subsec. (b) of this section\]; but no payment shall be made by reason of such amendment for any period prior to the date of enactment of this Act.”
 
 #### Personnel Not Affected by 1967 Increase
 

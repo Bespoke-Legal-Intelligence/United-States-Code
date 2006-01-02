@@ -2,7 +2,7 @@
 
 Section 2624, Pub. L. 87–415, title V, §501, as added Pub. L. 90–636, §13, Oct. 24, 1968, 82 Stat. 1355, set out Congressional declaration of purpose in providing for supplementary State programs.
 
-Section 2625, Pub. L. 87–415, title V, §502, as added Pub. L. 90–636, §13, Oct. 24, 1968, 82 Stat. 1356, providedauthorization for grants for supplementary State programs.
+Section 2625, Pub. L. 87–415, title V, §502, as added Pub. L. 90–636, §13, Oct. 24, 1968, 82 Stat. 1356, provided authorization for grants for supplementary State programs.
 
 Section 2626, Pub. L. 87–415, title V, §503, as added Pub. L. 90–636, §13, Oct. 24, 1968, 82 Stat. 1356, provided for applications for supplementary State programs and conditions for such programs.
 

@@ -26,7 +26,3 @@ A prior section 5811, acts Aug. 16, 1954, ch. 736, 68A Stat. 722; Sept. 2, 1958,
 
 Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4182, 5846, 5852 to 5854 of this title.
-

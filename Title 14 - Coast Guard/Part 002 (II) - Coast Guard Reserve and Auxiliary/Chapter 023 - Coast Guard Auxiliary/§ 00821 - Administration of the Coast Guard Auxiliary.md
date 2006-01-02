@@ -54,7 +54,7 @@ The Suits in Admiralty Act, referred to in subsec. (b)(4), is act Mar. 9, 1920, 
 
 2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
-1996—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Administration” in section catchlineand amended text generally. Prior to amendment, text read as follows: “The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.”
+1996—Pub. L. 104–324 inserted “of the Coast Guard Auxiliary” after “Administration” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Coast Guard Auxiliary established on February 19, 1941, is a nonmilitary organization administered by the Commandant under the direction of the Secretary.”
 
 #### Use of Coast Guard Auxiliary
 

@@ -32,7 +32,7 @@ If any word, statement, or other information required by or under authority of t
 
 (3) As used in subparagraph (1), the term “established name”, with respect to a drug or ingredient thereof, means (A) the applicable official name designated pursuant to section 358 of this title, or (B), if there is no such name and such drug, or such ingredient, is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then the common or usual name, if any, of such drug or of such ingredient, except that where clause (B) of this subparagraph applies to an article recognized in the United States Pharmacopeia and in the Homoeopathic Pharmacopoeia under different official titles, the official title used in the United States Pharmacopeia shall apply unless it is labeled and offered for sale as a homoeopathic drug, in which case the official title used in the Homoeopathic Pharmacopoeia shall apply.
 
-(4) As used in subparagraph (2), the term “established name” with respect to a device means (A) the applicable official name of the device designated pursuant to section 358 of this title, (B) if there is no such name and such device is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then any common or usual name of such device.
+(4) As used in subparagraph (2), the term “established name” with respect to a device means\(A) the applicable official name of the device designated pursuant to section 358 of this title, (B) if there is no such name and such device is an article recognized in an official compendium, then the official title thereof in such compendium, or (C) if neither clause (A) nor clause (B) of this subparagraph applies, then any common or usual name of such device.
 
 #### (f) Directions for use and warnings on label
 
@@ -40,7 +40,7 @@ Unless its labeling bears (1) adequate directions for use; and (2) such adequate
 
 #### (g) Representations as recognized drug; packing and labeling; inconsistent requirements for designation of drug
 
-If it purports to be a drug the name of which is recognized in an official compendium, unlessit is packaged and labeled as prescribed therein. The method of packing may be modified with the consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
+If it purports to be a drug the name of which is recognized in an official compendium, unless it is packaged and labeled as prescribed therein. The method of packing may be modified with the consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
 
 #### (h) Deteriorative drugs; packing and labeling
 
@@ -78,7 +78,7 @@ In the case of any restricted device distributed or offered for sale in any Stat
 
 #### (r) Restricted devices not carrying requisite accompanying statements in advertisements and other descriptive printed matter
 
-In the case of any restricted device distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor withrespect to that device (1) a true statement of the device's established name as defined in subsection (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, and (2) a brief statement of the intended uses of the device and relevant warnings, precautions, side effects, and contraindications and, in the case of specific devices made subject to a finding by the Secretary after notice and opportunity for comment that such action is necessary to protect the public health, a full description of the components of such device or the formula showing quantitatively each ingredient of such device to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing. Except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement and no advertisement of a restricted device, published after the effective date of this paragraph shall, with respect to the matters specified in this paragraph or covered by regulations issued hereunder, be subject to the provisions of sections 52 through 55 of title 15. This paragraph shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title.
+In the case of any restricted device distributed or offered for sale in any State, unless the manufacturer, packer, or distributor thereof includes in all advertisements and other descriptive printed matter issued or caused to be issued by the manufacturer, packer, or distributor with respect to that device (1) a true statement of the device's established name as defined in subsection (e) of this section, printed prominently and in type at least half as large as that used for any trade or brand name thereof, and (2) a brief statement of the intended uses of the device and relevant warnings, precautions, side effects, and contraindications and, in the case of specific devices made subject to a finding by the Secretary after notice and opportunity for comment that such action is necessary to protect the public health, a full description of the components of such device or the formula showing quantitatively each ingredient of such device to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing. Except in extraordinary circumstances, no regulation issued under this paragraph shall require prior approval by the Secretary of the content of any advertisement and no advertisement of a restricted device, published after the effective date of this paragraph shall, with respect to the matters specified in this paragraph or covered by regulations issued hereunder, be subject to the provisions of sections 52 through 55 of title 15. This paragraph shall not be applicable to any printed matter which the Secretary determines to be labeling as defined in section 321(m) of this title.
 
 #### (s) Devices subject to performance standards not bearing requisite labeling
 
@@ -90,7 +90,9 @@ If it is a device and there was a failure or refusal (1) to comply with any requ
 
 #### (u) Identification of manufacturer
 
-If it is a device, unless it, or an attachment thereto, prominently and conspicuously bears the name of the manufacturer of the device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, except that the Secretary may waive any requirement under this paragraph for the device if the Secretary determines that compliance with the requirement is not feasible for the device or would compromise the provision of reasonable assurance of the safety or effectiveness of the device.
+(1) Subject to paragraph (2), if it is a reprocessed single-use device, unless it, or an attachment thereto, prominently and conspicuously bears the name of the manufacturer of the reprocessed device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer.
+
+(2) If the original device or an attachment thereto does not prominently and conspicuously bear the name of the manufacturer of the original device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, a reprocessed device may satisfy the requirements of paragraph (1) through the use of a detachable label on the packaging that identifies the manufacturer and is intended to be affixed to the medical record of a patient.
 
 #### (v) Reprocessed single-use devices
 
@@ -104,9 +106,11 @@ If it is a new animal drug—
 
 &emsp;(2) that is indexed under section 360ccc–1 of this title and its labeling does not conform with the index listing under section 360ccc–1(e) of this title or 360ccc–1(h) of this title, or that has not been indexed under section 360ccc–1 of this title and its label bears the statement set forth in section 360ccc–1(h) of this title.
 
-(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902.)
+(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673,renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441.)
 
 #### Amendments
+
+2005—Par. (u). Pub. L. 109–43 amended par. (u) generally. Prior to amendment, par. (u) read as follows: “If it is a device, unless it, or an attachment thereto, prominently and conspicuously bears the name of the manufacturer of the device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, except that the Secretary may waive any requirement under this paragraph for the device if the Secretary determines that compliance with the requirement is not feasible for the device or would compromise the provision of reasonable assurance of the safety or effectiveness of the device.”
 
 2004—Par. (f). Pub. L. 108–214, in last sentence, inserted “or by a health care professional and required labeling for in vitro diagnostic devices intended for use by health care professionals or in blood establishments” after “in health care facilities”, inserted comma after “means”, substituted “requirements of law, and that the manufacturer affords such users the opportunity” for “requirements of law and, that the manufacturer affords health care facilities the opportunity”, and struck out “the health care facility” after “promptly provides”.
 
@@ -118,7 +122,7 @@ Par. (u). Pub. L. 107–250, §301(a), which directed amendment of section by ad
 
 Par. (v). Pub. L. 107–250, §302(a)(1), added par. (v).
 
-1997—Par. (a). Pub. L. 105–115, §114(a), inserted at end “Health care economic information provided to a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managedcare or other similar organizations, shall not be considered to be false or misleading under this paragraph if the health care economic information directly relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug and is based on competent and reliable scientific evidence. The requirements set forth in section 355(a) of this title or in section 262(a) of title 42 shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request. In this paragraph, the term ‘health care economic information’ means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.”
+1997—Par. (a). Pub. L. 105–115, §114(a), inserted at end “Health care economic information provided to a formulary committee, or other similar entity, in the course of the committee or the entity carrying out its responsibilities for the selection of drugs for managed care or other similar organizations, shall not be considered to be false or misleading under this paragraph if the health care economic information directly relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug and is based on competent and reliable scientific evidence. The requirements set forth in section 355(a) of this title or in section 262(a) of title 42 shall not apply to health care economic information provided to such a committee or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request. In this paragraph, the term ‘health care economic information’ means any analysis that identifies, measures, or compares the economic consequences, including the costs of the represented health outcomes, of the use of a drug to the use of another drug, to another health care intervention, or to no intervention.”
 
 Par. (d). Pub. L. 105–115, §126(b), struck out par. (d) which read as follows: “If it is for use by man and contains any quantity of the narcotic or hypnotic substance alpha eucaine, barbituric acid, betaeucaine, bromal, cannabis, carbromal, chloral, coca, cocaine, codeine, heroin, marihuana, morphine, opium, paraldehyde, peyote, or sulphonmethane; or any chemical derivative of such substance, which derivative has been by the Secretary, after investigation, found to be, and by regulations designated as, habit forming; unless its label bears the name and quantity or proportion of such substance or derivative and in juxtaposition therewith the statement ‘Warning—May be habit forming.’ ”
 
@@ -182,7 +186,15 @@ Par. (<i>o</i>). Pub. L. 87–781, §305, added par. (<i>o</i>).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–250, title III, §301(b), Oct. 26, 2002, 116 Stat. 1616, as amended by Pub. L. 108–214, §2(c)(1), Apr. 1, 2004, 118 Stat. 575, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect 36 months after the date of the enactment of this Act \[Oct. 26, 2002\], and only applies to devices introduced or delivered for introduction into interstate commerce after such effective date.”
+Pub. L. 107–250, title III, §301(b), Oct. 26, 2002, 116 Stat. 1616, as amended by Pub. L. 108–214, §2(c)(1), Apr. 1, 2004, 118 Stat. 575; Pub. L. 109–43, §2(d), Aug. 1, 2005, 119 Stat. 441, provided that: “Section 502(u) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(u)\] (as amended by section 2(c) of the Medical Device User Fee Stabilization Act of 2005 \[Pub. L. 109–43\])—
+
+&emsp;“(1) shall be effective—
+
+&emsp;&emsp;“(A) with respect to devices described under paragraph (1) of such section, 12 months after the date of enactment of the Medical Device User Fee Stabilization Act of 2005 \[Aug. 1, 2005\], or the date on which the original device first bears the name of the manufacturer of the original device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, whichever is later; and
+
+&emsp;&emsp;“(B) with respect to devices described under paragraph (2) of such section 502(u), 12 months after such date of enactment; and
+
+&emsp;“(2) shall apply only to devices reprocessed and introduced or delivered for introduction in interstate commerce after such applicable effective date.”
 
 Pub. L. 107–250, title III, §302(a)(2), Oct. 26, 2002, 116 Stat. 1616, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect 15 months after the date of the enactment of this Act \[Oct. 26, 2002\], and only applies to devices introduced or delivered for introduction into interstate commerce after such effective date.”
 
@@ -220,35 +232,15 @@ Pars. (b) and (d) to (h) effective Jan. 1, 1940, and such paragraphs effective J
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+
+#### Guidance; Misbranded Devices
+
+Pub. L. 109–43, §2(c)(2), Aug. 1, 2005, 119 Stat. 441, provided that: “Not later than 180 days after the date of enactment of this Act \[Aug. 1, 2005\], the Secretary of Health and Human Services shall issue guidance to identify circumstances in which the name of the manufacturer of the original device, a generally recognized abbreviation of such name, or a unique and generally recognized symbol identifying such manufacturer, is not ‘prominent and conspicuous’, as used in section 502(u) of Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(u)\] (as amended by paragraph (1)).”
 
 #### Study on Making Prescription Pharmaceutical Information Accessible for Blind and Visually-Impaired Individuals
 
-Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, provided that:
-
-“(1)
-
-Study.—
-
-&emsp;“(A)
-
-In general.—The Secretary \[of Health and Human Services\] shall undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals.
-
-&emsp;“(B)
-
-Study to include existing and emerging technologies.—The study under subparagraph (A) shall include a review of existing and emerging technologies, including assistive technology, that makes essential information on the content and prescribed use of pharmaceutical medicines available in a usable format for blind and visually-impaired individuals.
-
-“(2)
-
-Report.—
-
-&emsp;“(A)
-
-In general.—Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall submit a report to Congress on the study required under paragraph (1).
-
-&emsp;“(B)
-
-Contents of report.—The report required under paragraph (1) shall include recommendations for the implementation of usable formats for making prescription pharmaceutical information available to blind and visually-impaired individuals and an estimate of the costs associated with the implementation of each format.”
+Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals, and to submit a report to Congress not later than 18 months after Dec. 8, 2003.
 
 #### Study and Report
 

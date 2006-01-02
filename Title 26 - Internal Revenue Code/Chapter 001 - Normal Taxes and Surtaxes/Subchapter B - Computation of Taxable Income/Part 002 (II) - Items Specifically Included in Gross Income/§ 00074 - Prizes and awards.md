@@ -60,7 +60,3 @@ Amendment by section 123(b)(1) of Pub. L. 99–514 applicable to taxable years b
 
 For nonapplication of amendment by section 123(b)(1) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(3) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 102, 274, 3121, 3231, 3306, 3401, 4941, 4945 of this title; title 42 section 409.
-

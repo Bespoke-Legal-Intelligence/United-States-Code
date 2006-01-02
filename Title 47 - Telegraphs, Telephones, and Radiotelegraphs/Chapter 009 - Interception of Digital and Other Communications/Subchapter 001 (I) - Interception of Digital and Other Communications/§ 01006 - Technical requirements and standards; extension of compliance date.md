@@ -46,7 +46,7 @@ If industry associations or standard-setting organizations fail to issue technic
 
 &emsp;An extension under this subsection shall extend for no longer than the earlier of—
 
-&emsp;&emsp;(A) the date determined by the Commission as necessary for the carrier to complywith the assistance capability requirements under section 1002 of this title; or
+&emsp;&emsp;(A) the date determined by the Commission as necessary for the carrier to comply with the assistance capability requirements under section 1002 of this title; or
 
 &emsp;&emsp;(B) the date that is 2 years after the date on which the extension is granted.
 

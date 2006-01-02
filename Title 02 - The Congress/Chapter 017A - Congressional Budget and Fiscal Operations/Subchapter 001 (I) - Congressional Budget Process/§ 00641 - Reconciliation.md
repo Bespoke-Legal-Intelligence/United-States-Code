@@ -24,7 +24,7 @@ A concurrent resolution on the budget for any fiscal year, to the extent necessa
 
 #### (b) Legislative procedure
 
-If a concurrent resolution containing directives to one or more committees to determine and recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a) of this section, and—
+If a concurrent resolution containing directives to one or more committees to determineand recommend changes in laws, bills, or resolutions is agreed to in accordance with subsection (a) of this section, and—
 
 &emsp;(1) only one committee of the House or the Senate is directed to determine and recommend changes, that committee shall promptly make such determination and recommendations and report to its House reconciliation legislation containing such recommendations; or
 
@@ -64,7 +64,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 (1) It shall not be in order in the House of Representatives to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of increasing any specific budget outlays above the level of such outlays provided in the bill or resolution (for the fiscal years covered by the reconciliation instructions set forth in the most recently agreed to concurrent resolution on the budget), or would have the effect of reducing any specific Federal revenues below the level of such revenues provided in the bill or resolution (for such fiscal years), unless such amendment makes at least an equivalent reduction in other specific budget outlays, an equivalent increase in other specific Federal revenues, or an equivalent combination thereof (for such fiscal years), except that a motion to strike a provision providing new budget authority or new entitlement authority may be in order.
 
-(2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forth in a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase in other specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
+(2) It shall not be in order in the Senate to consider any amendment to a reconciliation bill or reconciliation resolution if such amendment would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided (for the fiscal years covered) in the reconciliation instructions which relate to such bill or resolution set forthin a resolution providing for reconciliation, or would have the effect of reducing Federal revenue increases below the level of such revenue increases provided (for such fiscal years) in such instructions relating to such bill or resolution, unless such amendment makes a reduction in other specific budget outlays, an increase in other specific Federal revenues, or a combination thereof (for such fiscal years) at least equivalent to any increase in outlays or decrease in revenues provided by such amendment, except that a motion to strike a provision shall always be in order.
 
 (3) Paragraphs (1) and (2) shall not apply if a declaration of war by the Congress is in effect.
 
@@ -106,7 +106,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 105–33, §10111(2), substituted subcls. (I) and
 
 Subsec. (c). Pub. L. 101–508, §13207(c), designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
 
-Subsec. (f). Pub. L. 101–508, §13210(2), struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill orreconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
+Subsec. (f). Pub. L. 101–508, §13210(2), struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill or reconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
 
 Subsec. (g). Pub. L. 101–508, §13112(a)(9), substituted “joint resolution pursuant” for “resolution pursuant” and “section 907d of this title” for “section 904(b) of this title”.
 

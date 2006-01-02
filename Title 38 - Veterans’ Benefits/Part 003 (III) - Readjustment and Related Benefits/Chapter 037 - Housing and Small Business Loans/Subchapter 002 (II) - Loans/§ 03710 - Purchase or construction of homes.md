@@ -90,7 +90,7 @@
 
 &emsp;(C) The terms “solar heating and cooling” and “combined solar heating and cooling” have the meaning given such terms in section 3(2) of the Solar Heating and Cooling Demonstration Act of 1974 (42 U.S.C. 5502(2)) and, in addition, include a passive system based on conductive, convective, or radiant energy transfer.
 
-&emsp;(D) The term “passive system” includes window and skylight glazing, thermal floors, walls, and roofs, movable insulation panels (when in conjunction with glazing), portions of a residential structure that serve as solar furnaces so as to add heat to the structure, double-pane window insulation, and such other energy-related components as are determined by the Secretary to enhance the natural transfer of energy for the purpose of heating or heating and cooling a residence.
+&emsp;(D) The term “passive system” includes window and skylight glazing, thermal floors, walls, and roofs, movable insulation panels (when in conjunction with glazing), portions of a residential structure that serve as solar furnaces so as to add heat to the structure, double-pane window insulation, and such other energy-related components as are determinedby the Secretary to enhance the natural transfer of energy for the purpose of heating or heating and cooling a residence.
 
 &emsp;(E) The term “residential energy conservation measure” means—
 
@@ -316,5 +316,5 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficientmortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 

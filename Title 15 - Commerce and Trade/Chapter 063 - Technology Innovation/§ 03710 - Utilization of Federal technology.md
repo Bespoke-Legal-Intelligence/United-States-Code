@@ -46,7 +46,7 @@ The National Technical Information Service shall—
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
-(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer\(hereinafter referred to as the “Consortium”) which, in cooperation with Federal laboratories and the private sector, shall—
+(1) There is hereby established the Federal Laboratory Consortium for Technology Transfer (hereinafter referred to as the “Consortium”) which, in cooperation with Federal laboratories and the private sector, shall—
 
 &emsp;(A) develop and (with the consent of the Federal laboratory concerned) administer techniques, training courses, and materials concerning technology transfer to increase the awareness of Federal laboratory employees regarding the commercial potential of laboratory technology and innovations;
 
@@ -74,7 +74,7 @@ The National Technical Information Service shall—
 
 &emsp;(K) work with the Director of the National Institute on Disability and Rehabilitation Research to compile a compendium of current and projected Federal Laboratory technologies and projects that have or will have an intended or recognized impact on the available range of assistive technology for individuals with disabilities (as defined in section 3002 of title 29), including technologies and projects that incorporate the principles of universal design (as defined in section 3002 of title 29), as appropriate.
 
-(2) The membership of the Consortium shall consist of the Federal laboratories described in clause (1) of subsection (b) of this section and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
+(2) The membership of the Consortium shall consist of the Federal laboratories described inclause (1) of subsection (b) of this section and such other laboratories as may choose to join the Consortium. The representatives to the Consortium shall include a senior staff member of each Federal laboratory which is a member of the Consortium and a senior representative appointed from each Federal agency with one or more member laboratories.
 
 (3) The representatives to the Consortium shall elect a Chairman of the Consortium.
 
@@ -130,7 +130,7 @@ The National Technical Information Service shall—
 
 (1) The Secretary, through the Under Secretary, and in consultation with other Federal agencies, may—
 
-&emsp;(A) make available to interested agencies the expertise of the Department of Commerce regarding the commercial potential of inventions and methods and options for commercialization which are available to the Federal laboratories, including research and development limited partnerships;
+&emsp;(A) make available to interested agencies the expertise of the Department of Commerceregarding the commercial potential of inventions and methods and options for commercialization which are available to the Federal laboratories, including research and development limited partnerships;
 
 &emsp;(B) develop and disseminate to appropriate agency and laboratory personnel model provisions for use on a voluntary basis in cooperative research and development arrangements; and
 
@@ -168,7 +168,7 @@ Public availability.—The Secretary shall make the report available to the publ
 
 The reporting obligations imposed by this section—
 
-&emsp;(1) are not intended to impose requirements that duplicate requirements imposed by theGovernment Performance and Results Act of 1993 (31 U.S.C. 1101 note);
+&emsp;(1) are not intended to impose requirements that duplicate requirements imposed by the Government Performance and Results Act of 1993 (31 U.S.C. 1101 note);
 
 &emsp;(2) are to be implemented in coordination with the implementation of that Act; and
 
@@ -262,7 +262,7 @@ Subsec. (d)(2). Pub. L. 99–502, §4(c)(2), (3), redesignated par. (3) as (2) a
 
 Subsec. (d)(3). Pub. L. 99–502, §4(c)(4), added par. (3). Former par. (3) redesignated (2).
 
-Subsec. (d)(4). Pub. L. 99–502, §4(c)(4)–(6), redesignated par. (5) as (4) and substituted “subsection (c)(3)” for “subsection (c)(4)”. Former par. (4), which required the Center for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
+Subsec. (d)(4). Pub. L. 99–502, §4(c)(4)–(6), redesignated par. (5) as (4) and substituted “subsection (c)(3)” for “subsection (c)(4)”. Former par. (4), which required theCenter for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
 
 Subsec. (d)(5), (6). Pub. L. 99–502, §4(c)(5), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
@@ -292,7 +292,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (3) ensure that State and local governments, universities, and the private sector are provided with information on the technology, expertise, and facilities available in Federal laboratories;
 
-(4) promote the commercialization, in accord with my Memorandum to the Heads of Executive Departments and Agencies of February 18, 1983, of patentable results of federally funded research by granting to all contractors, regardless of size, the title to patentsmade in whole or in part with Federal funds, in exchange for royalty-free use by or on behalf of the government;
+(4) promote the commercialization, in accord with my Memorandum to the Heads of Executive Departments and Agencies of February 18, 1983, of patentable results of federally funded research by granting to all contractors, regardless of size, the title to patents made in whole or in part with Federal funds, in exchange for royalty-free use by or on behalf of the government;
 
 (5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements now in effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
 
@@ -340,7 +340,7 @@ Sec. 7. <i>Reporting Requirements</i>. (a) Within 1 year from the date of this O
 
 (4) a compilation and assessment of the Technology Share Program established in Section 2 and, where appropriate, related cooperative research and development venture programs.
 
-Sec. 8. <i>Relation to Existing Law</i>. Nothing in this Order shall affect the continued applicability of any existing laws or regulations relating to the transfer of United States technology to other nations. The head of any Executive department or agency may exclude from consideration, under this Order, any technology thatwould be, if transferred, detrimental to the interests of national security.
+Sec. 8. <i>Relation to Existing Law</i>. Nothing in this Order shall affect the continued applicability of any existing laws or regulations relating to the transfer of United States technology to other nations. The head of any Executive department or agency may exclude from consideration, under this Order, any technology that would be, if transferred, detrimental to the interests of national security.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

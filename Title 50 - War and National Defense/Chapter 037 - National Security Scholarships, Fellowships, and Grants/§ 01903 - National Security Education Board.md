@@ -30,7 +30,7 @@ Each individual appointed to the Board pursuant to subsection (b)(6) of this sec
 
 The Board shall perform the following functions:
 
-&emsp;(1) Develop criteria for awarding scholarships, fellowships, and grants under this chapter, including an order of priority in suchawards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position.
+&emsp;(1) Develop criteria for awarding scholarships, fellowships, and grants under this chapter, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position.
 
 &emsp;(2) Provide for wide dissemination of information regarding the activities assisted under this chapter.
 
@@ -52,7 +52,7 @@ The Board shall perform the following functions:
 
 &emsp;(6) Provide the Secretary biennially with a list of scholarship recipients and fellowship recipients, including an assessment of their foreign area and language skills, who are available to work in a national security position.
 
-&emsp;(7) Not later than 30 days after a scholarship or fellowship recipient completes the study or education for which assistance was provided under the program, provide the Secretary with a report fully describing the foreign area and language skills obtained by the recipient as a result of the assistance.
+&emsp;(7) Not later than 30 days after a scholarship or fellowship recipient completes the study oreducation for which assistance was provided under the program, provide the Secretary with a report fully describing the foreign area and language skills obtained by the recipient as a result of the assistance.
 
 &emsp;(8) Review the administration of the program required under this chapter.
 

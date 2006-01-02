@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) does not include awards for making suggestions.
 
-(b) Subject to the provisions of this section and the provisions of section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673) pay from an agency to an employee is subject to legal process in the same manner and to thesame extent as if the agency were a private person.
+(b) Subject to the provisions of this section and the provisions of section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673) pay from an agency to an employee is subject to legal process in the same manner and to the same extent as if the agency were a private person.
 
 (c)(1) Service of legal process to which an agency is subject under this section may be accomplished by certified or registered mail, return receipt requested, or by personal service, upon—
 
@@ -44,7 +44,7 @@
 
 (g) Neither the United States, an agency, nor any disbursing officer shall be liable with respect to any payment made from payments due or payable to an employee pursuant to legal process regular on its face, provided such payment is made in accordance with this section and the regulations issued to carry out this section. In determining the amount of any payment due from, or payable by, an agency to an employee, there shall be excluded those amounts which would be excluded under section 462(g) of the Social Security Act (42 U.S.C. 662(g)).
 
-(h)(1) Subject to the provisions of paragraph (2), if an agency is served under this section with more than one legal process with respect to the same payments due or payable to an employee, then such payments shall be available, subject to section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673), to satisfy such processes in priority based on the time of service, with any such process being satisfied out of such amounts as remain after satisfaction of all such processes which have been previously served.
+(h)(1) Subject to the provisions of paragraph (2), if an agency is served under this section with more than one legal process with respect to thesame payments due or payable to an employee, then such payments shall be available, subject to section 303 of the Consumer Credit Protection Act (15 U.S.C. 1673), to satisfy such processes in priority based on the time of service, with any such process being satisfied out of such amounts as remain after satisfaction of all such processes which have been previously served.
 
 (2) A legal process to which an agency is subject under section 459 of the Social Security Act (42 U.S.C. 659) for the enforcement of the employee's legal obligation to provide child support or make alimony payments, shall have priority over any legal process to which an agency is subject under this section.
 
@@ -74,7 +74,7 @@
 
 #### References in Text
 
-The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment ofPub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
+The date of the enactment of this Act, referred to in subsec. (k)(1), probably means the date of enactment of Pub. L. 103–94, which enacted this section and was approved Oct. 6, 1993.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (k)(2)(A), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
@@ -106,7 +106,7 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 #### Effective Date; Savings Provision
 
-Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
+Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which chargeswere filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
 
 #### Transfer of Functions
 

@@ -12,7 +12,7 @@ Payments made in liquidation of the interest of a retiring partner or a deceased
 
 #### (1) General rule
 
-&emsp;Payments made in liquidation of the interest of a retiring partner or a deceased partner shall, to the extent such payments (other than payments described in paragraph (2)) are determined, under regulations prescribed by the Secretary, to be made in exchange for the interest of such partner in partnership property, be considered as a distribution by the partnership and not as a distributive share or guaranteed payment under subsection (a).
+&emsp;Payments made in liquidation of the interest of a retiring partner or a deceased partnershall, to the extent such payments (other than payments described in paragraph (2)) are determined, under regulations prescribed by the Secretary, to be made in exchange for the interest of such partner in partnership property, be considered as a distribution by the partnership and not as a distributive share or guaranteed payment under subsection (a).
 
 #### (2) Special rules
 
@@ -57,8 +57,4 @@ Binding contract exception.—The amendments made by this section shall not appl
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges, and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 357, 731, 751, 753 of this title; title 29 sections 1051, 1081, 1101.
 

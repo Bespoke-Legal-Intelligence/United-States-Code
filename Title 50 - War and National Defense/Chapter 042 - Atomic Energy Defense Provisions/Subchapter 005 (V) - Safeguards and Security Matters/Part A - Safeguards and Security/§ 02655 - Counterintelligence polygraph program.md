@@ -18,7 +18,7 @@ The Secretary of Energy, acting through the Director of Counterintelligence, sha
 
 &emsp;(E) An applicant for a position in the Department.
 
-(2) A person described in paragraph (1) is a covered person for purposes of this section only if the position of the person, or for which the person is applying, under that paragraph is a position in one of the categories of positions listedin section 709.4(a) of title 10, Code of Federal Regulations.
+(2) A person described in paragraph (1) is a covered person for purposes of this section only if the position of the person, or for which the person is applying, under that paragraph is a position in one of the categories of positions listed in section 709.4(a) of title 10, Code of Federal Regulations.
 
 #### (c) High-risk programs
 
@@ -48,7 +48,7 @@ For purposes of this section, high-risk programs are the following:
 
 &emsp;(C) if the Secretary determines, after consultation with the covered person and appropriate medical personnel, that the treatment of a medical or psychological condition of the covered person should preclude the administration of the examination.
 
-(3)(A) The Secretary may not commence the exercise of the authority under paragraph (2) to waive the applicability of paragraph (1) to any covered persons until 15 days after the date on which the Secretary submits to the appropriate committees of Congress a report setting forth the criteria to be used by the Secretary for determining when a waiver under paragraph (2)(A) is important to the national security interests of the United States. The criteria shall not include the need to maintain the scientific vitality of the laboratory. The criteria shall include an assessment of counterintelligence risks and programmatic impacts.
+(3)(A) The Secretary may not commence the exercise of the authority under paragraph (2) to waive the applicability of paragraph (1) to any covered persons until 15 days after the date on which the Secretary submits to the appropriate committees of Congress a report setting forth the criteria to be used by the Secretary for determining when a waiver under paragraph (2)(A) is important to the national security interestsof the United States. The criteria shall not include the need to maintain the scientific vitality of the laboratory. The criteria shall include an assessment of counterintelligence risks and programmatic impacts.
 
 (B) Any waiver under paragraph (2)(A) shall be effective for not more than 120 days, and a person who is subject to a waiver under paragraph (2)(A) may not ever be subject to another waiver under paragraph (2)(A).
 

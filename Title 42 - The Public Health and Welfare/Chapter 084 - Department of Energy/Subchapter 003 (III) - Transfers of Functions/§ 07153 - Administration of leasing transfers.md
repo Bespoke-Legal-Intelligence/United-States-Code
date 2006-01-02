@@ -6,13 +6,13 @@ The Secretary of the Interior shall retain any authorities not transferred under
 
 #### (b) Consultation with Secretary of the Interior with respect to promulgation of regulations
 
-In exercising the authority under section 7152(b) <sup>1</sup> of this title to promulgate regulations,the Secretary shall consult with the Secretary of the Interior during the preparation of such regulations and shall afford the Secretary of the Interior not less than thirty days, prior to the date on which the Department first publishes or otherwise prescribes regulations, to comment on the content and effect of such regulations.
+In exercising the authority under section 7152(b) <sup>1</sup> of this title to promulgate regulations, the Secretary shall consult with the Secretary of the Interior during the preparation of such regulations and shall afford the Secretary of the Interior not less than thirty days, prior to the date on which the Department first publishes or otherwise prescribes regulations, to comment on the content and effect of such regulations.
 
 #### (c) Repealed. Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407
 
 #### (d) Preparation of environmental impact statement
 
-The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by section 4332(2)(C) of this title for any action with respect to the Federal leases taken under the authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
+The Department of the Interior shall be the lead agency for the purpose of preparation of an environmental impact statement required by section 4332(2)(C) of this title for any action with respect to the Federal leases taken underthe authority of this section, unless the action involves only matters within the exclusive authority of the Secretary.
 
 (Pub. L. 95–91, title III, §303, Aug. 4, 1977, 91 Stat. 579; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407.)
 

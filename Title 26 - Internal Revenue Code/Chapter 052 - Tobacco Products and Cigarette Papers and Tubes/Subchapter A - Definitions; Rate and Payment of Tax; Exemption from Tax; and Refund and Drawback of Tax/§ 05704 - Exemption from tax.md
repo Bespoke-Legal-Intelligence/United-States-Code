@@ -6,7 +6,7 @@ Tobacco products may be furnished by a manufacturer of such products, without pa
 
 #### (b) Tobacco products and cigarette papers and tubes transferred or removed in bond from domestic factories and export warehouses
 
-A manufacturer or export warehouse proprietor may transfer tobacco products and cigarette papers and tubes, without payment of tax, to the bonded premises of another manufacturer or export warehouse proprietor, or remove such articles, without payment of tax, for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States; and manufacturers may similarly remove such articles for use of the United States; in accordance with such regulations and under such bonds as the Secretary shall prescribe. Tobacco productsand cigarette papers and tubes may not be transferred or removed under this subsection unless such products or papers and tubes bear such marks, labels, or notices as the Secretary shall by regulations prescribe.
+A manufacturer or export warehouse proprietor may transfer tobacco products and cigarette papers and tubes, without payment of tax, to the bonded premises of another manufacturer or export warehouse proprietor, or remove such articles, without payment of tax, for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States; and manufacturers may similarly remove such articles for use of the United States; in accordance with such regulations and under such bonds as the Secretary shall prescribe. Tobacco products and cigarette papers and tubes may not be transferred or removed under this subsection unless such products or papers and tubes bear such marks, labels, or notices as the Secretary shall by regulations prescribe.
 
 #### (c) Tobacco products and cigarette papers and tubes released in bond from customs custody
 
@@ -36,7 +36,7 @@ Item 804.00 of title I of the Tariff Act of 1930, referred to in subsec. (d), wa
 
 Subsecs. (c), (d). Pub. L. 94–455, §§1905(a)(26), 1906(b)(13)(A), inserted “or to the proprietor of an export warehouse” after “to a manufacturer of tobacco products or cigarette papers and tubes” and struck out “or his delegate” after “Secretary”.
 
-1965—Subsec. (c). Pub. L. 89–44, §502(b)(4), redesignated subsec. (d) as (c), struck out all references to tobacco materials, and repealed former subsec. (c) which related to tobacco materials shipped or delivered in bond.
+1965—Subsec. (c). Pub. L. 89–44, §502(b)(4), redesignated subsec. (d) as (c), struck out all references to tobacco materials, and repealed former subsec. (c) whichrelated to tobacco materials shipped or delivered in bond.
 
 Subsecs. (d), (e). Pub. L. 89–44, §502(b)(4)(A), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 89–44 applicable on and after January 1, 1966, see sectio
 
 #### Effective Date of 1964 Amendment
 
-Section 2 of Pub. L. 88–342 provided that the amendment made by section 2 of Pub. L. 88–342 shall applywith respect to articles entered, or withdrawn from warehouse, for consumption after June 30, 1964.
+Section 2 of Pub. L. 88–342 provided that the amendment made by section 2 of Pub. L. 88–342 shall apply with respect to articles entered, or withdrawn from warehouse, for consumption after June 30, 1964.
 
 #### Effective Date of 1958 Amendment
 
@@ -83,8 +83,4 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 #### Report
 
 Pub. L. 106–476, title I, §4002(e), Nov. 9, 2000, 114 Stat. 2177, provided that: “The Secretary of the Treasury shall report to Congress on the impact of requiring export warehouses to be authorized by the original manufacturer to receive relanded export-labeled cigarettes.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5702, 5703, 5751, 5754, 5761 of this title.
 

@@ -22,7 +22,7 @@ All orders, determinations, rules, regulations, permits, agreements, grants, con
 
 #### (3) Statutory construction
 
-&emsp;Nothing in this chapter shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this chapter had not been enacted.
+&emsp;Nothing in this chapter shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that suchproceeding could have been discontinued or modified if this chapter had not been enacted.
 
 #### (4) Regulations
 

@@ -6,7 +6,7 @@ The Secretary is authorized to acquire, and it is the intent of Congress that he
 
 #### (b) Establishment; notice in Federal Register
 
-When the Secretary determines that lands and waters or interests therein have been acquired by the United States in sufficient quantity to provide an administrative unit, he shall declare the establishment of the Fire Island National Seashore by publication of notice in the Federal Register.
+When the Secretary determines that lands and waters or interests therein have been acquiredby the United States in sufficient quantity to provide an administrative unit, he shall declare the establishment of the Fire Island National Seashore by publication of notice in the Federal Register.
 
 #### (c) Fair market value
 
@@ -24,7 +24,7 @@ With one exception the Secretary shall not acquire any privately owned improved 
 
 &emsp;(2) that the owner or owners shall retain a life estate in said property, measured on the life of the sole owner or on the life of any one person among multiple owners (notice of the person so designated to be filed in writing with the Secretary within six months after the taking) or on the life of the survivor in title of any estate held on July 1, 1963, as a tenancy by the entirety. The price in such case shall be diminished by the actuarial fair market value of the life estate retained, determined on the basis of standard actuarial methods;
 
-&emsp;(3) that the owner or owners shall retain an estate for twenty-five years. The price in thiscase shall likewise be diminished by the value of the estate retained.
+&emsp;(3) that the owner or owners shall retain an estate for twenty-five years. The price in this case shall likewise be diminished by the value of the estate retained.
 
 #### (f) “Improved property” defined
 
@@ -50,7 +50,7 @@ The authority of the Secretary to condemn undeveloped tracts within the Dune Dis
 
 &emsp;(i) property within the Dune district referred to in subsection (g) of this section;
 
-&emsp;(ii) beach or waters and adjoining land within the exempt communities referred to in the first sentence of subsection (e) of this section; and
+&emsp;(ii) beach or waters and adjoining land within the exempt communities referred to in thefirst sentence of subsection (e) of this section; and
 
 &emsp;(iii) property within the eight-mile area described in the second sentence of subsection (e) of this section; and
 

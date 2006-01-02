@@ -32,7 +32,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) has performed within the United States or at a United States diplomatic or consular establishment abroad administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
 
-&emsp;&emsp;(E) with respect to a construction project under subsection (a)(1) of this section, has achieved total business volume equal to orgreater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
+&emsp;&emsp;(E) with respect to a construction project under subsection (a)(1) of this section, has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
 
 &emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States,
 

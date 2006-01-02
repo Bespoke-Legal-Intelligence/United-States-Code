@@ -36,7 +36,7 @@ The national objectives of this chapter are—
 
 &emsp;&emsp;&emsp;(i) is employed on a full-time basis by the Federal Government or a State, county, or lawfully recognized tribal government; and
 
-&emsp;&emsp;&emsp;(ii) in implementing such full-time employment, is sworn to uphold, and make arrests for, violations of Federal, State, county, or tribal law; and
+&emsp;&emsp;&emsp;(ii) in implementing such full-time employment, is sworn to uphold, and makearrests for, violations of Federal, State, county, or tribal law; and
 
 &emsp;&emsp;(B) the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
 
@@ -50,7 +50,7 @@ The national objectives of this chapter are—
 
 #### (6) <sup>1</sup> Exemption
 
-&emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by federally recognizedtribes and the tribally designated housing entities of those tribes under this chapter.
+&emsp;Title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\] and title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\] shall not apply to actions by federally recognized tribes and the tribally designated housing entities of those tribes under this chapter.
 
 (Pub. L. 104–330, title II, §201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, §595(e)(7), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–377, §1(a)(1) \[title II, §210\], Oct. 27, 2000, 114 Stat. 1441, 1441A–26; Pub. L. 106–568, title X, §1003(e), Dec. 27, 2000, 114 Stat. 2926.)
 

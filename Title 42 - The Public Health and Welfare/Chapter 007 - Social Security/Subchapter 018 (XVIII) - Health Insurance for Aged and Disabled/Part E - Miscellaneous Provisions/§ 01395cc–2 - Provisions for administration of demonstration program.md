@@ -32,7 +32,7 @@
 
 #### (5) Program standards and criteria
 
-&emsp;The Secretary shall establish performance standards for the demonstration program including, as applicable, standards for quality of health care items and services, cost-effectiveness, beneficiary satisfaction, and such other factors as the Secretary finds appropriate. Theeligibility of individuals or entities for the initial award, continuation, and renewal of agreements to provide health care items and services under the program shall be conditioned, at a minimum, on performance that meets or exceeds such standards.
+&emsp;The Secretary shall establish performance standards for the demonstration program including, as applicable, standards for quality of health care items and services, cost-effectiveness, beneficiary satisfaction, and such other factors as the Secretary finds appropriate. The eligibility of individuals or entities for the initial award, continuation, and renewal of agreements to provide health care items and services under the program shall be conditioned, at a minimum, on performance that meets or exceeds such standards.
 
 #### (6) Administrative review of decisions affecting individuals and entities furnishing services
 
@@ -154,7 +154,7 @@
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement in processes or outcomes of care, or such other factors as the Secretary determines to be appropriate.
+&emsp;&emsp;&emsp;The Secretary may condition such payments on the achievement of such standards related to efficiency, improvement inprocesses or outcomes of care, or such other factors as the Secretary determines to be appropriate.
 
 #### (3) Antidiscrimination limitation
 
@@ -190,7 +190,7 @@ Not later than two years after December 21, 2000, and biennially thereafter for 
 
 #### References in Text
 
-Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (e), are classified to sections 1395c etseq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+Parts A, B, and C of this subchapter, referred to in subsecs. (a)(1) and (e), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 #### Amendments
 

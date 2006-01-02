@@ -6,7 +6,7 @@
 
 (B) All interest or investment income described in subparagraph (A) shall be expended by the Navajo Community College by no later than the close of the fiscal year succeeding the fiscal year in which such interest or investment income accrues.
 
-(2) Funds provided under sections 640a to 640c–3 of this title may only be invested by the Navajo Community College in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States.
+(2) Funds provided under sections 640a to 640c–3 of this title may only be invested by theNavajo Community College in obligations of the United States or in obligations or securities that are guaranteed or insured by the United States.
 
 (Pub. L. 92–189, §7, as added Pub. L. 100–297, title V, §5402(b), Apr. 28, 1988, 102 Stat. 415.)
 

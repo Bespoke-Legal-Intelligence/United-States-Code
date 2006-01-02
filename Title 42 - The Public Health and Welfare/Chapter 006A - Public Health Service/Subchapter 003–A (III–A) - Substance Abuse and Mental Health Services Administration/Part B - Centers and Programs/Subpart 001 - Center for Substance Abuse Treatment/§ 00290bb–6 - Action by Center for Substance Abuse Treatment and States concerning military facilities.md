@@ -12,7 +12,7 @@ The Director of the Center for Substance Abuse Treatment shall—
 
 #### (b) States
 
-With regard to military facilities or parts thereof, as identified by the Commission on Alternative Utilization of Military Facilities established under section 3042 of the Comprehensive Alcohol Abuse, Drug Abuse, and Mental Health Amendments Act of 1988,<sup>1</sup> that could be utilized or renovated to house nonviolent persons for drug treatment purposes, State agencies responsible for the oversight of drug abuse treatment entities and programs shall—
+With regard to military facilities or parts thereof, as identified by the Commission on Alternative Utilization of Military Facilities established under section 3042 of the Comprehensive Alcohol Abuse, Drug Abuse, and Mental Health Amendments Act of 1988,<sup>1</sup> that could be utilized or renovated to house nonviolent persons for drug treatment purposes, State agenciesresponsible for the oversight of drug abuse treatment entities and programs shall—
 
 &emsp;(1) establish eligibility criteria for the treatment of individuals at such facilities;
 

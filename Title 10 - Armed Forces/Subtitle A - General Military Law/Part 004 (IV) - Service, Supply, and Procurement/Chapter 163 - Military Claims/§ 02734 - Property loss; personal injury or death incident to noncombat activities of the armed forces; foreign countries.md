@@ -8,13 +8,13 @@
 
 &emsp;(3) personal injury to, or death of, any inhabitant of a foreign country;
 
-> if the damage, loss, personal injury, or death occurs outside the United States, or the Territories, Commonwealths, or possessions, and is caused by, or is otherwise incident to noncombat activities of, the armed forces under his jurisdiction, or is caused by a member thereof or by a civilian employee of the military department concerned or the Coast Guard, as the case may be. The claim of an insured, but not that of a subrogee, may be considered under this subsection. In this section, “foreign country” includes any place under the jurisdiction of the United States in a foreign country. An officer or employee may serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but shall perform his duties under regulations of the department appointing the commission.
+> if the damage, loss, personal injury, or death occurs outside the United States, or the Commonwealths or possessions, and is caused by, or is otherwise incident to noncombat activities of, the armed forces under his jurisdiction, or is caused by a member thereof or by a civilian employee of the military department concerned or the Coast Guard, as the case may be. The claim of an insured, but not that of a subrogee, may be considered under this subsection. In this section, “foreign country” includes any place under the jurisdiction of the United States in a foreign country. An officer or employee may serve on a claims commission under the jurisdiction of another armed force only with the consent of the Secretary of his department, or his designee, but shall perform his duties under regulations of the department appointing the commission.
 
 (b) A claim may be allowed under subsection (a) only if—
 
 &emsp;(1) it is presented within two years after it accrues;
 
-&emsp;(2) in the case of a national of a country at war with the United States, or of any ally ofthat country, the claimant is determined by the commission or by the local military commander to be friendly to the United States; and
+&emsp;(2) in the case of a national of a country at war with the United States, or of any ally of that country, the claimant is determined by the commission or by the local military commander to be friendly to the United States; and
 
 &emsp;(3) it did not arise from action by an enemy or result directly or indirectly from an act of the armed forces of the United States in combat, except that a claim may be allowed if it arises from an accident or malfunction incident to the operation of an aircraft of the armed forces of the United States, including its airborne ordnance, indirectly related to combat, and occurring while preparing for, going to, or returning from a combat mission.
 
@@ -26,11 +26,11 @@
 
 (f) Upon the request of the department concerned, a claim arising in that department and covered by subsection (a) may be settled and paid by a commission appointed under subsection (a) and composed of officers of an armed force under the jurisdiction of another department.
 
-(g) Payment of claims against the Coast Guard arising while it is operating as a service in the Department of Homeland Security shall be made out of the appropriation for the operating expenses of the Coast Guard.
+(g) Payment of claims against the Coast Guard arising while it is operating as a service in theDepartment of Homeland Security shall be made out of the appropriation for the operating expenses of the Coast Guard.
 
 (h) The Secretary of Defense may designate any claims commission appointed under subsection (a) to settle and pay, as provided in this section, claims for damage caused by a civilian employee of the Department of Defense other than an employee of a military department. Payments of claims under this subsection shall be made from appropriations as provided in section 2732 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 154; Pub. L. 85–861, §1(55), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 86–223, §1(1), Sept. 1, 1959, 73 Stat. 453; Pub. L. 86–411, Apr. 8, 1960, 74 Stat. 16; Pub. L. 90–521, §§1, 3, Sept. 26, 1968, 82 Stat. 874; Pub. L. 91–312, §1, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §2, July 8, 1974, 88 Stat. 292; Pub. L. 96–513, title V, §511(95), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §2, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(A), Nov. 5, 1990, 104 Stat. 1709; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 154; Pub. L. 85–861, §1(55), Sept. 2, 1958, 72 Stat. 1461; Pub. L. 86–223, §1(1), Sept. 1, 1959, 73 Stat. 453; Pub. L. 86–411, Apr. 8, 1960, 74 Stat. 16; Pub. L. 90–521, §§1, 3, Sept. 26, 1968, 82 Stat. 874; Pub. L. 91–312, §1, July 8, 1970, 84 Stat. 412; Pub. L. 93–336, §2, July 8, 1974, 88 Stat. 292; Pub. L. 96–513, title V, §511(95), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 98–564, §2, Oct. 30, 1984, 98 Stat. 2918; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(A), Nov. 5, 1990, 104 Stat. 1709; Pub. L. 104–316, title II, §202(e), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, §1057(a)(5), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes<br>1956
 
@@ -118,11 +118,13 @@ Act
 
 July 28, 1956, ch. 769, §1, 70 Stat. 703.
 
-In subsections (a)(1) and (2), the words “a foreign country” are substituted for the words “that country” to make clear that damage to a political subdivision oran inhabitant of a foreign country need not have occurred in that country.
+In subsections (a)(1) and (2), the words “a foreign country” are substituted for the words “that country” to make clear that damage to a political subdivision or an inhabitant of a foreign country need not have occurred in that country.
 
 In subsection (h), the word “settle” is substituted for the words “consider, ascertain, adjust, determine,”, since the word “settle”, as defined in section 2731 of this title, includes those actions. The words “as provided in this section” are substituted for the words “as described in section 224d of this title” and 31:224i–1 (2d sentence).
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions” in concluding provisions.
 
 2002—Subsec. (g). Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
 
@@ -179,8 +181,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2733, 2735, 2736 of this title; title 31 section 1304; title 32 section 715; title 36 section 2110.
 

@@ -12,7 +12,3 @@ By virtue of the authority vested in me by section 301 of title 3 of the United 
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 38 section 5303A.
-

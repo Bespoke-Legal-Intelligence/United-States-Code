@@ -14,35 +14,83 @@
 
 &emsp;&emsp;(A) the holder of such claim has accepted the plan;
 
-&emsp;&emsp;(B)(i) the plan provides that the holder of such claim retain the lien securing such claim; and
+&emsp;&emsp;(B)(i) the plan provides that—
 
-&emsp;&emsp;(ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; or
+&emsp;&emsp;&emsp;(I) the holder of such claim retain the lien securing such claim until the earlier of—
 
-&emsp;&emsp;(C) the debtor surrenders the property securing such claim to such holder; and
+&emsp;&emsp;&emsp;&emsp;(aa) the payment of the underlying debt determined under nonbankruptcy law; or
 
-&emsp;(6) the debtor will be able to make all payments under the plan and to comply with the plan.
+&emsp;&emsp;&emsp;&emsp;(bb) discharge under section 1328; and
+
+&emsp;&emsp;&emsp;(II) if the case under this chapter is dismissed or converted without completion of the plan, such lien shall also be retained by such holder to the extent recognized by applicable nonbankruptcy law;
+
+&emsp;&emsp;(ii) the value, as of the effective date of the plan, of property to be distributed under the plan on account of such claim is not less than the allowed amount of such claim; and
+
+&emsp;&emsp;(iii) if—
+
+&emsp;&emsp;&emsp;(I) property to be distributed pursuant to this subsection is in the form of periodic payments, such payments shall be in equal monthly amounts; and
+
+&emsp;&emsp;&emsp;(II) the holder of the claim is secured by personal property, the amount of such payments shall not be less than an amount sufficient to provide to the holder of such claim adequate protection during the period of the plan; or
+
+&emsp;&emsp;(C) the debtor surrenders the property securing such claim to such holder;
+
+&emsp;(6) the debtor will be able to make all payments under the plan and to comply with the plan;
+
+&emsp;(7) the action of the debtor in filing the petition was in good faith;
+
+&emsp;(8) the debtor has paid all amounts that are required to be paid under a domestic support obligation and that first become payable after the date of the filing of the petition if the debtor is required by a judicial or administrative order, or by statute, to pay such domestic support obligation; and
+
+&emsp;(9) the debtor has filed all applicable Federal, State, and local tax returns as required by section 1308.
+
+> For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.
 
 (b)(1) If the trustee or the holder of an allowed unsecured claim objects to the confirmation of the plan, then the court may not approve the plan unless, as of the effective date of the plan—
 
 &emsp;(A) the value of the property to be distributed under the plan on account of such claim is not less than the amount of such claim; or
 
-&emsp;(B) the plan provides that all of the debtor's projected disposable income to be received in the three-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
+&emsp;(B) the plan provides that all of the debtor's projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
 
-(2) For purposes of this subsection, “disposable income” means income which is received by the debtor and which is not reasonably necessary to be expended—
+(2) For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
 
-&emsp;(A) for the maintenance or support of the debtor or a dependent of the debtor, including charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made; and
+&emsp;(A)(i) for the maintenance or support of the debtor or a dependent of the debtor, or for a domestic support obligation, that first becomes payable after the date the petition is filed; and
+
+&emsp;(ii) for charitable contributions (that meet the definition of “charitable contribution” under section 548(d)(3) <sup>1</sup> to a qualified religious or charitable entity or organization (as defined in section 548(d)(4)) in an amount not to exceed 15 percent of gross income of the debtor for the year in which the contributions are made; and
 
 &emsp;(B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.
 
+(3) Amounts reasonably necessary to be expended under paragraph (2) shall be determined in accordance with subparagraphs (A) and (B) of section 707(b)(2), if the debtor has current monthly income, when multiplied by 12, greater than—
+
+&emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
+
+&emsp;(B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
+
+&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4.
+
+(4) For purposes of this subsection, the “applicable commitment period”—
+
+&emsp;(A) subject to subparagraph (B), shall be—
+
+&emsp;&emsp;(i) 3 years; or
+
+&emsp;&emsp;(ii) not less than 5 years, if the current monthly income of the debtor and the debtor's spouse combined, when multiplied by 12, is not less than—
+
+&emsp;&emsp;&emsp;(I) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
+
+&emsp;&emsp;&emsp;(II) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
+
+&emsp;&emsp;&emsp;(III) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4; and
+
+&emsp;(B) may be less than 3 or 5 years, whichever is applicable under subparagraph (A), but only if the plan provides for payment in full of all allowed unsecured claims over a shorter period.
+
 (c) After confirmation of a plan, the court may order any entity from whom the debtor receives income to pay all or any part of such income to the trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §§317, 530, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §283(y), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 105–183, §4(a), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title I, §102(g), (h), title II, §213(10), title III, §§306(a), (b), 309(c)(1), 318(2), (3), title VII, §716(a), Apr. 20, 2005, 119 Stat. 33, 53, 80, 83, 93, 129.)
 
 #### Historical and Revision Notes
 
 I74legislative statements
 
-Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate amendment to significantly protect secured creditors in chapter 13. Unless the secured creditor accepts the plan, the plan must provide that the secured creditor retain the lien securing the creditor's allowed secured claim in addition to receiving value, as of the effective date of the plan of property to be distributed under the plan on account of the claim not less than the allowed amount of the claim. To this extent, a secured creditor in a case under chapter 13 is treated identically with a recourse creditor under section 1111(b)(1) of the House amendment except that the secured creditor in a case under chapter 13 may receive any property of a value as of the effective date of the plan equal to the allowed amount of the creditor's secured claim rather than being restricted to receiving deferred cash payments. Of course, the secured creditors’ lien only secures the value of the collateral and to the extent property is distributed of a present value equal to the allowed amount of the creditor's secured claim the creditor's lien will have been satisfied in full. Thus the lien created under section 1325(a)(5)(B)(i) is effective only to secure deferred payments to the extent of the amount of the allowed secured claim. To the extent the deferred payments exceed the value of the allowed amount of the secured claim and the debtor subsequently defaults, the lien will not secure unaccrued interest represented in such deferred payments.
+Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate amendment to significantly protect secured creditors in chapter 13. Unless the secured creditor accepts the plan, the plan must provide that the secured creditor retain the lien securing the creditor's allowed secured claim in addition to receiving value, as of the effective date of the plan of property to be distributed under the plan on account of the claim not less than the allowed amount of the claim. To this extent, a secured creditor in a case under chapter 13 is treated identically with a recourse creditor under section 1111(b)(1) of the House amendment except that the secured creditor in a case under chapter13 may receive any property of a value as of the effective date of the plan equal to the allowed amount of the creditor's secured claim rather than being restricted to receiving deferred cash payments. Of course, the secured creditors’ lien only secures the value of the collateral and to the extent property is distributed of a present value equal to the allowed amount of the creditor's secured claim the creditor's lien will have been satisfied in full. Thus the lien created under section 1325(a)(5)(B)(i) is effective only to secure deferred payments to the extent of the amount of the allowed secured claim. To the extent the deferred payments exceed the value of the allowed amount of the secured claim and the debtor subsequently defaults, the lien will not secure unaccrued interest represented in such deferred payments.
 
 #### senate report no. 95–989
 
@@ -52,7 +100,31 @@ Subsection (b) authorizes the court to order an entity, as defined by Section 10
 
 #### Amendments
 
-1998—Subsec. (b)(2)(A). Pub. L. 105–183 inserted before semicolon “, including charitable contributions (that meet the definition of ‘charitable contribution’ undersection 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made”.
+2005—Subsec. (a). Pub. L. 109–8, §306(b), inserted concluding provisions at end “For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910-day preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1-year period preceding that filing.”
+
+Subsec. (a)(5)(B)(i). Pub. L. 109–8, §306(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the plan provides that the holder of such claim retain the lien securing such claim; and”.
+
+Subsec. (a)(5)(B)(iii). Pub. L. 109–8, §309(c)(1), added cl. (iii).
+
+Subsec. (a)(7). Pub. L. 109–8, §102(g), added par. (7).
+
+Subsec. (a)(8). Pub. L. 109–8, §213(10), added par. (8).
+
+Subsec. (a)(9). Pub. L. 109–8, §716(a), added par. (9).
+
+Subsec. (b)(1)(B). Pub. L. 109–8, §318(2), substituted “applicable commitment period” for “three-year period”.
+
+Pub. L. 109–8, §102(h)(1), inserted “to unsecured creditors” after “to make payments”.
+
+Subsec. (b)(2), (3). Pub. L. 109–8, §102(h)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: “For purposes of this subsection, ‘disposable income’ means income which is received by the debtor and which is not reasonably necessary to be expended—
+
+&emsp;“(A) for the maintenance or support of the debtor or a dependent of the debtor, including charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made; and
+
+&emsp;“(B) if the debtor is engaged in business, for the payment of expenditures necessary for the continuation, preservation, and operation of such business.”
+
+Subsec. (b)(4). Pub. L. 109–8, §318(3), added par. (4).
+
+1998—Subsec. (b)(2)(A). Pub. L. 105–183 inserted before semicolon “, including charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made”.
 
 1986—Subsec. (b)(2)(A). Pub. L. 99–554 substituted “; and” for “; or”.
 
@@ -61,6 +133,10 @@ Subsection (b) authorizes the court to order an entity, as defined by Section 10
 Subsec. (a)(1). Pub. L. 98–353, §530, inserted “the” before “other”.
 
 Subsecs. (b), (c). Pub. L. 98–353, §317(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -73,4 +149,6 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

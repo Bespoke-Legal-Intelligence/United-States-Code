@@ -32,7 +32,3 @@ In subsection (b), the words “an allotment under subsection (a)” are substit
 
 1982—Subsec. (b). Pub. L. 97–258 substituted “disbursing official” for “disbursing officer”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 403c.
-

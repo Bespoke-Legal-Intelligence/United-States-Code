@@ -2,7 +2,7 @@
 
 #### (a) Payments of $600 or more
 
-All persons engaged in a trade or business and making payment in the course of such trade or business to another person, of rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable gains, profits, and income (other than payments to which section 6042(a)(1), 6044(a)(1), 6047(e), 6049(a), or 6050N(a) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), or 6045), of $600 or more in any taxable year, or, in the case of such payments made by the United States, the officers or employees of the United States having information as to such payments and required to make returns in regard thereto by the regulations hereinafter provided for, shall render a true and accurate return to the Secretary, under such regulations and in such form and manner and to such extent as may be prescribed by the Secretary, setting forth the amount of such gains, profits, and income, and the name and address of the recipient of such payment.
+All persons engaged in a trade or business and making payment in the course of such trade or business to another person, of rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable gains, profits, and income (otherthan payments to which section 6042(a)(1), 6044(a)(1), 6047(e), 6049(a), or 6050N(a) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), or 6045), of $600 or more in any taxable year, or, in the case of such payments made by the United States, the officers or employees of the United States having information as to such payments and required to make returns in regard thereto by the regulations hereinafter provided for, shall render a true and accurate return to the Secretary, under such regulations and in such form and manner and to such extent as may be prescribed by the Secretary, setting forth the amount of such gains, profits, and income, and the name and address of the recipient of such payment.
 
 #### (b) Collection of foreign items
 
@@ -34,9 +34,19 @@ This section shall not apply to any payment for medical care (as defined in sect
 
 &emsp;(2) a health reimbursement arrangement which is treated as employer-provided coverage under an accident or health plan for purposes of section 106.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480.)
+#### (g) Nonqualified deferred compensation
+
+Subsection (a) shall apply to—
+
+&emsp;(1) any deferrals for the year under a nonqualified deferred compensation plan (within the meaning of section 409A(d)), whether or not paid, except that this paragraph shall not apply to deferrals which are required to be reported under section 6051(a)(13) (without regard to any de minimis exception), and
+
+&emsp;(2) any amount includible under section 409A and which is not treated as wages under section 3401(a).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640.)
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–357 added subsec. (g).
 
 2003—Subsec. (f). Pub. L. 108–173 added subsec. (f).
 
@@ -60,9 +70,13 @@ Subsec. (d). Pub. L. 99–514, §1501(c)(1), in amending subsec. (d) generally, 
 
 Subsec. (c). Pub. L. 87–834, §19(f)(2), repealed subsec. (c) which related to returns of payments of interest by corporations.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to amounts deferred after Dec. 31, 2004, with special rules relating to earnings and material modifications and exception for nonelective deferred compensation, see section 885(d) of Pub. L. 108–357, set out as an Effective Date note under section 409A of this title.
+
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title XII, §1203(b), Dec. 8, 2003, 117 Stat. 2480, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2002.”
+Pub. L. 108–173, title XII, §1203(b), Dec. 8, 2003, 117 Stat. 2480, provided that: “The amendment made bythis section \[amending this section\] shall apply to payments made after December 31, 2002.”
 
 #### Effective Date of 1996 Amendment
 
@@ -113,8 +127,4 @@ Suspension of Rulings.—Until January 1, 1979, the law with respect to the duty
 “(b)
 
 Effective Date.—This section shall take effect on January 1, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3406, 3509, 6045, 6051, 6724 of this title; title 25 section 2719.
 

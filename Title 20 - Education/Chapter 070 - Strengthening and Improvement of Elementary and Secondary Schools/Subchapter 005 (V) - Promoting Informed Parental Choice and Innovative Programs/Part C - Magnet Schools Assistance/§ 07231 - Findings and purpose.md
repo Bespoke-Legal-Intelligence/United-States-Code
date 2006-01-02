@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) It is in the best interests of the United States—
 
-&emsp;&emsp;(A) to continue the Federal Government's support of local educational agencies thatare implementing court-ordered desegregation plans and local educational agencies that are voluntarily seeking to foster meaningful interaction among students of different racial and ethnic backgrounds, beginning at the earliest stage of such students’ education;
+&emsp;&emsp;(A) to continue the Federal Government's support of local educational agencies that are implementing court-ordered desegregation plans and local educational agencies that are voluntarily seeking to foster meaningful interaction among students of different racial and ethnic backgrounds, beginning at the earliest stage of such students’ education;
 
 &emsp;&emsp;(B) to ensure that all students have equitable access to a high quality education that will prepare all students to function well in a technologically oriented and a highly competitive economy comprised of people from many different racial and ethnic backgrounds; and
 

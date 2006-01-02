@@ -34,7 +34,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 &emsp;(3) some State allotments are offset or repaid under section 300w–5(b)(3) of this title;
 
-> such excess shall be allotted among each of the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subsection.
+> such excess shall be allotted among each of the remaining States in proportion to the amountotherwise allotted to such States for the fiscal year without regard to this subsection.
 
 #### (d) Distributions to Indian tribes
 
@@ -42,7 +42,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 &emsp;(A) receives a request from the governing body of an Indian tribe or tribal organization within any State that funds under this part be provided directly by the Secretary to such tribe or organization, and
 
-&emsp;(B) determines that the members of such tribe or tribal organization would be betterserved by means of grants made directly by the Secretary under this part,
+&emsp;(B) determines that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this part,
 
 > the Secretary shall reserve from amounts which would otherwise be allotted to such State under subsection (a) of this section for the fiscal year the amount determined under paragraph (2).
 

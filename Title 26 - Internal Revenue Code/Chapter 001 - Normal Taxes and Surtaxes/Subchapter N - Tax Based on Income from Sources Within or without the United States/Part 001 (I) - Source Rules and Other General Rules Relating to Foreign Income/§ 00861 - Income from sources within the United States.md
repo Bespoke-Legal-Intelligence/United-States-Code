@@ -8,13 +8,15 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;Interest from the United States or the District of Columbia, and interest on bonds, notes, or other interest-bearing obligations of noncorporate residents or domestic corporations not including—
 
-&emsp;&emsp;(A) interest from a resident alien individual or domestic corporation, if such individual or corporation meets the 80-percent foreign business requirements of subsection (c)(1), and
+&emsp;&emsp;(A) interest from a resident alien individual or domestic corporation, if such individual or corporation meets the 80-percent foreign business requirements of subsection (c)(1),
 
 &emsp;&emsp;(B) interest—
 
 &emsp;&emsp;&emsp;(i) on deposits with a foreign branch of a domestic corporation or a domestic partnership if such branch is engaged in the commercial banking business, and
 
-&emsp;&emsp;&emsp;(ii) on amounts satisfying the requirements of subparagraph (B) of section 871(i)(3) which are paid by a foreign branch of a domestic corporation or a domestic partnership.
+&emsp;&emsp;&emsp;(ii) on amounts satisfying the requirements of subparagraph (B) of section 871(i)(3) which are paid by a foreign branch of a domestic corporation or a domestic partnership, and
+
+&emsp;&emsp;(C) in the case of a foreign partnership, which is predominantly engaged in the active conduct of a trade or business outside the United States, any interest not paid by a trade or business engaged in by the partnership in the United States and not allocable to income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
 
 #### (2) Dividends
 
@@ -22,7 +24,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;&emsp;(A) from a domestic corporation other than a corporation which has an election in effect under section 936, or
 
-&emsp;&emsp;(B) from a foreign corporation unless less than 25 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States; but only in an amount which bears the same ratio to such dividends as the gross income of the corporation for such period which was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States bears to its gross income from all sources; but dividends (other than dividends for which a deduction is allowable under section 245(b)) from a foreign corporation shall, for purposes of subpart A of part III (relating to foreign tax credit), be treated as income from sources without the United States to the extent (and only to the extent) exceeding the amount which is 100/70th of the amount of the deduction allowable under section 245 in respect of such dividends, or
+&emsp;&emsp;(B) from a foreign corporation unless less than 25 percent of the gross income from all sources of such foreign corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States; but only in an amount which bears the same ratio to such dividends as the gross income of the corporation for such period which was effectively connected (or treated as effectively connected other than income described in section 884(d)(2)) with the conduct of a trade or business within the United States bears to its gross income from all sources; but dividends (other than dividendsfor which a deduction is allowable under section 245(b)) from a foreign corporation shall, for purposes of subpart A of part III (relating to foreign tax credit), be treated as income from sources without the United States to the extent (and only to the extent) exceeding the amount which is 100/70th of the amount of the deduction allowable under section 245 in respect of such dividends, or
 
 &emsp;&emsp;(C) from a foreign corporation to the extent that such amount is required by section 243(e) (relating to certain dividends from foreign corporations) to be treated as dividends from a domestic corporation which is subject to taxation under this chapter, and to such extent subparagraph (B) shall not apply to such amount, or
 
@@ -44,7 +46,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;&emsp;&emsp;(ii) an individual who is a citizen or resident of the United States, a domestic partnership, or a domestic corporation, if such labor or services are performed for an office or place of business maintained in a foreign country or in a possession of the United States by such individual, partnership, or corporation.
 
-> &emsp;In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual's temporarypresence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
+> &emsp;In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
 
 #### (4) Rentals and royalties
 
@@ -78,7 +80,7 @@ From the items of gross income specified in subsection (a) as being income from 
 
 #### (A) In general
 
-&emsp;&emsp;An individual or corporation meets the 80-percent foreign business requirements of this paragraph if it is shown to the satisfaction of the Secretary that at least 80 percent of the gross income from all sources of such individual or corporation for the testing period is active foreign business income.
+&emsp;&emsp;An individual or corporation meets the 80-percent foreign business requirements of this paragraph if it is shown to the satisfaction of the Secretary that at least 80 percentof the gross income from all sources of such individual or corporation for the testing period is active foreign business income.
 
 #### (B) Active foreign business income
 
@@ -140,13 +142,15 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;<b>For treatment of interest paid by the branch of a foreign corporation, see section 884(f).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2), Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov. 6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5, 1997, 111 Stat. 989; Pub. L. 107–16, title VI, §621(a), June 7, 2001, 115 Stat. 111.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2), Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov.6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5, 1997, 111 Stat. 989; Pub. L. 107–16, title VI, §621(a), June 7, 2001, 115 Stat. 111; Pub. L. 108–357, title IV, §410(a), Oct. 22, 2004, 118 Stat. 1500.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2004—Subsec. (a)(1)(C). Pub. L. 108–357 added subpar. (C).
 
 2001—Subsec. (a)(3). Pub. L. 107–16, §§621(a), 901, temporarily struck out “except for purposes of sections 79 and 105 and subchapter D,” after “In addition,” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -220,7 +224,7 @@ Subsec. (a)(1)(G). Pub. L. 99–514, §§1214(c)(5)(A), 1241(b)(1)(B), redesigna
 
 Subsec. (a)(1)(H). Pub. L. 99–514, §§1214(c)(5)(A), 1241(b)(1)(B), redesignated successively former subpar. (H) as (F) and (D), respectively.
 
-Subsec. (a)(2)(A). Pub. L. 99–514, §1214(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “from a domestic corporation other than a corporation which has an election in effect under section 936, and other than a corporation less than 20 percent of whose gross income is shown to the satisfaction of the Secretary to have been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such corporationpreceding the declaration of such dividends (or for such part of such period as the corporation has been in existence), or”.
+Subsec. (a)(2)(A). Pub. L. 99–514, §1214(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “from a domestic corporation other than a corporation which has an election in effect under section 936, and other than a corporation less than 20 percent of whose gross income is shown to the satisfaction of the Secretary to have been derived from sources within the United States, as determined under the provisions of this part, for the 3-year period ending with the close of the taxable year of such corporation preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence), or”.
 
 Subsec. (a)(2)(B). Pub. L. 99–514, §1241(b)(2), substituted “25 percent” for “50 percent” and inserted “(or treated as effectively connected other than under section 884(d)(2))” in two places.
 
@@ -292,6 +296,10 @@ Subsecs. (c), (d). Pub. L. 89–809, §102(a)(1)(B), (3), added subsecs. (c) and
 
 1960—Subsec. (a)(2)(C). Pub. L. 86–779 added subpar. (C).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §410(b), Oct. 22, 2004, 118 Stat. 1500, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2003.”
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Pub. L. 107–16, title VI, §621(b), June 7, 2001, 115 Stat. 111, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to remuneration for services performed in plan years beginning after December 31, 2001.”
@@ -300,7 +308,7 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to remuneration for services performed in taxable years beginningafter Dec. 31, 1997, see section 1174(c) of Pub. L. 105–34, set out as a note under section 7701 of this title.
+Amendment by Pub. L. 105–34 applicable to remuneration for services performed in taxable years beginning after Dec. 31, 1997, see section 1174(c) of Pub. L. 105–34, set out as a note under section 7701 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -308,7 +316,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(17) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -346,7 +354,7 @@ In general.—The amendments made by this section shall not apply to any interes
 
 &emsp;“(B)
 
-Special rule for related payee.—If the payee of any interest to which subparagraph (A) applies is related (within the meaning of section 904(d)(2)(H) of the Internal Revenue Code of 1986) to the payor, such interest shall be treated for purposes of section 904 of such Code as if the payor were a controlled foreign corporation (within the meaning of section 957(a) of such Code).
+Special rule for related payee.—If the payee of any interest to which subparagraph (A) applies is related (within the meaning of section904(d)(2)(H) of the Internal Revenue Code of 1986) to the payor, such interest shall be treated for purposes of section 904 of such Code as if the payor were a controlled foreign corporation (within the meaning of section 957(a) of such Code).
 
 “(3)
 
@@ -450,7 +458,7 @@ Section 435(a)(1) of Pub. L. 91–172 provided that the amendment made by that s
 
 Section 102(e) of Pub. L. 89–809, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) The amendments made by subsections (a), (c), and (d) \[amending this section and sections 864 and 895 of this title\] shall apply with respect to taxable years beginning after December 31, 1966; except that in applying section 864(c)(4)(B)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (d)) with respect to a binding contract entered into on or before February 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account.
+“(1) The amendments made by subsections (a), (c), and (d) \[amending this section and sections 864 and 895of this title\] shall apply with respect to taxable years beginning after December 31, 1966; except that in applying section 864(c)(4)(B)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (d)) with respect to a binding contract entered into on or before February 24, 1966, activities in the United States on or before such date in negotiating or carrying out such contract shall not be taken into account.
 
 “(2) The amendments made by subsection (b) \[amending this section\] shall apply with respect to amounts received after December 31, 1966.”
 
@@ -472,7 +480,7 @@ Section 101 of title I of Pub. L. 89–809 provided that: “This title \[enacti
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Dividends Received or Accrued During 1987
 
@@ -638,7 +646,7 @@ Effective Date.—This section shall apply to taxable years beginning after Augu
 
 #### Allocation Under Section 861 of Research and Experimental Expenditures
 
-Pub. L. 98–369, div. A, title I, §126, July 18, 1984, 98 Stat. 648, as amended by Pub. L. 99–272, title XIII, §13211, Apr. 7, 1986, 100 Stat. 324; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, §126, July 18, 1984, 98 Stat. 648, as amended by Pub. L. 99–272, title XIII,§13211, Apr. 7, 1986, 100 Stat. 324; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 “(a)
 
@@ -675,8 +683,4 @@ Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 19
 #### Conformity of Amendments Made by Foreign Investors Tax Act of 1966 With Treaty Obligations of the United States
 
 Section 110 of title I of Pub. L. 89–809 provided that: “No amendment made by this title \[see Short Title note above\] shall apply in any case where its application would be contrary to any treaty obligation of the United States. For purposes of the preceding sentence, the extension of a benefit provided by any amendment made by this title shall not be deemed to be contrary to a treaty obligation of the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 79, 105, 410, 414, 505, 638, 818, 862, 863, 864, 865, 871, 884, 904, 2104, 4948, 4980B of this title.
 

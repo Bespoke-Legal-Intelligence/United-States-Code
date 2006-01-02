@@ -8,7 +8,7 @@
 
 &emsp;(3) employ such personnel as necessary and fix their compensation;
 
-&emsp;(4) make provision for compensation, transportation, housing, subsistence (or per diem in lieu thereof), and health care or health and accident insurance for foreign nationals engagedin activities authorized by this chapter while they are away from their homes, without regard to the provisions of any other law;
+&emsp;(4) make provision for compensation, transportation, housing, subsistence (or per diem in lieu thereof), and health care or health and accident insurance for foreign nationals engaged in activities authorized by this chapter while they are away from their homes, without regard to the provisions of any other law;
 
 &emsp;(5) accept and use money, funds, property, and services of any kind by gift, devise, bequest, grant, or otherwise in furtherance of the purposes of the Institute;
 

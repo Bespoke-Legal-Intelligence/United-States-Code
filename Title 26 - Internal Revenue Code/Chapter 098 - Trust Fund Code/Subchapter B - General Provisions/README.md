@@ -7,10 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 21 section 886.
-
 
 ---
 

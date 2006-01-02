@@ -1,6 +1,6 @@
 ### §718d. Disposition of receipts from sale of stamps
 
-All moneys received for such stamps shall be accounted for by the Postal Service or the Department of the Interior, whichever is appropriate, and paid into the Treasury of the United States, and shall be reserved and set aside as a special fund to be known as the migratory bird conservation fund, to be administered by the Secretary of the Interior. All moneys received into such fund are appropriated for the followingobjects and shall be available therefor until expended:
+All moneys received for such stamps shall be accounted for by the Postal Service or the Department of the Interior, whichever is appropriate, and paid into the Treasury of the United States, and shall be reserved and set aside as a special fund to be known as the migratory bird conservation fund, to be administered by the Secretary of the Interior. All moneys received into such fund are appropriated for the following objects and shall be available therefor until expended:
 
 #### (a) Advance allotments to Postal Service
 
@@ -12,7 +12,7 @@ Except as authorized in subsections (c) and (d) of this section, the remainder s
 
 #### (c) Waterfowl Production Areas
 
-The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquired without regard to the limitations and requirements of the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\], but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this subsection.
+The Secretary of the Interior is authorized to utilize funds made available under subsection (b) of this section for the purposes of such subsection, and such other funds as may be appropriated for the purposes of such subsection, or of this subsection, to acquire, or defray the expense incident to the acquisition by gift, devise, lease, purchase, or exchange of, small wetland and pothole areas, interests therein, and rights-of-way to provide access thereto. Such small areas, to be designated as “Waterfowl Production Areas”, may be acquired without regard tothe limitations and requirements of the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\], but all of the provisions of such Act which govern the administration and protection of lands acquired thereunder, except the inviolate sanctuary provisions of such Act, shall be applicable to areas acquired pursuant to this subsection.
 
 #### (d) Promotion of stamp sales
 

@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) the head of the National Drug Control Program agency shall notify the Director of the proposed change as soon as practicable; and
 
-&emsp;&emsp;(B) upon such notification, the Director shall review the change and certify to thehead of that agency in writing whether the change is consistent with the National Drug Control Program.
+&emsp;&emsp;(B) upon such notification, the Director shall review the change and certify to the head of that agency in writing whether the change is consistent with the National Drug Control Program.
 
 #### (c) General Services Administration
 

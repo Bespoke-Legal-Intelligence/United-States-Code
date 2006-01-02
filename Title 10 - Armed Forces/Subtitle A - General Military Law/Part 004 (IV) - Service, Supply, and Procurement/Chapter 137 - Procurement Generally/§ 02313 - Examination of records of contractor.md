@@ -140,7 +140,3 @@ Functions with respect to purchases authorized to be made outside limits of Unit
 
 Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising authority provided in amendment of this section by Pub. L. 89–607 to exempt certain contracts with foreign contractors from requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. (11) of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. (11) of Part I of Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended, set out as a note under section 1431 of Title 50, War and National Defense.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2306a, 2310, 2343 of this title; title 50 section 403c.
-

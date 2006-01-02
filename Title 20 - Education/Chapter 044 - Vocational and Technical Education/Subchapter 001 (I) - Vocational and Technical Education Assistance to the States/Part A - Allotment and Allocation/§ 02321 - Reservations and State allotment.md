@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;Subject to paragraph (4), no State, by reason of the application of subparagraph (A), shall be allotted for a fiscal year more than the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 150 percent of the amount that the State received in the preceding fiscal year (or in the case of fiscal year 1999only, under section 101 of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section was in effect on the day before October 31, 1998); and
+&emsp;&emsp;&emsp;&emsp;(I) 150 percent of the amount that the State received in the preceding fiscal year (or in the case of fiscal year 1999 only, under section 101 of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section was in effect on the day before October 31, 1998); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount calculated under clause (ii).
 

@@ -90,7 +90,3 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 For provisions relating to Regular Navy or Regular Marine Corps officers designated as limited-duty officers under this section prior to September 15, 1981, see section 616 of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 532, 5596, 6221 of this title.
-

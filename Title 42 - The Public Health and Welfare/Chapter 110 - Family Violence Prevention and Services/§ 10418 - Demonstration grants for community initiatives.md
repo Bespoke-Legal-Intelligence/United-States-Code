@@ -30,7 +30,7 @@ To be eligible for a grant under this section, an entity—
 
 #### (c) Applications
 
-An organization that desires to receive a grant under this section shall submit to the Secretary an application, in such form and in such manner as the Secretary shall prescribe through notice in the Federal Register, that—
+An organization that desires to receive a grant under this section shall submit to the Secretary an application, in such form and in such manneras the Secretary shall prescribe through notice in the Federal Register, that—
 
 &emsp;(1) demonstrates that the applicant will serve a community leadership function, bringing together opinion leaders from each sector of the community to develop a coordinated community consensus opposing domestic violence;
 

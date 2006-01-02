@@ -2,11 +2,11 @@
 
 (a)
 
-Dedicated Automobiles.—Except as provided in subsection (c) of this section or section 32904(a)(2) of this title, for any model of dedicated automobile manufactured by a manufacturer after model year 1992, the fuel economymeasured for that model shall be based on the fuel content of the alternative fuel used to operate the automobile. A gallon of a liquid alternative fuel used to operate a dedicated automobile is deemed to contain .15 gallon of fuel.
+Dedicated Automobiles.—Except as provided in subsection (c) of this section or section 32904(a)(2) of this title, for any model of dedicated automobile manufactured by a manufacturer after model year 1992, the fuel economy measured for that model shall be based on the fuel content of the alternative fuel used to operate the automobile. A gallon of a liquid alternative fuel used to operate a dedicated automobile is deemed to contain .15 gallon of fuel.
 
 (b)
 
-Dual Fueled Automobiles.—Except as provided in subsection (d) of this section or section 32904(a)(2) of this title, for any model of dual fueled automobile manufactured by a manufacturer in model years 1993–2004, the Administrator of the Environmental Protection Agency shall measure the fuel economy for that model by dividing 1.0 by the sum of—
+Dual Fueled Automobiles.—Except as provided in subsection (d) of this section or section 32904(a)(2) of this title, for any model of dual fueled automobile manufactured by a manufacturer in model years 1993–2010, the Administrator of the Environmental Protection Agency shall measure the fuel economy for that model by dividing 1.0 by the sum of—
 
 &emsp;(1) .5 divided by the fuel economy measured under section 32904(c) of this title when operating the model on gasoline or diesel fuel; and
 
@@ -18,7 +18,7 @@ Gaseous Fuel Dedicated Automobiles.—For any model of gaseous fuel dedicated au
 
 (d)
 
-Gaseous Fuel Dual Fueled Automobiles.—For any model of gaseous fuel dual fueled automobile manufactured by a manufacturer in model years 1993–2004, the Administrator shall measure the fuel economy for that model by dividing 1.0 by the sum of—
+Gaseous Fuel Dual Fueled Automobiles.—For any model of gaseous fuel dual fueled automobile manufactured by a manufacturer in model years 1993–2010, the Administrator shall measure the fuel economy for that model by dividing 1.0 by the sum of—
 
 &emsp;(1) .5 divided by the fuel economy measured under section 32904(c) of this title when operating the model on gasoline or diesel fuel; and
 
@@ -32,9 +32,9 @@ Fuel Economy Calculations.—The Administrator shall calculate the manufacturer'
 
 Extending Application of Subsections (b)
 
-and (d).—Not later than December 31, 2001, the Secretary of Transportation shall—
+and (d).—Not later than December 31, 2007, the Secretary of Transportation shall—
 
-&emsp;(1) extend by regulation the application of subsections (b) and (d) of this section for not more than 4 consecutive model years immediately after model year 2004 and explain the basis on which the extension is granted; or
+&emsp;(1) extend by regulation the application of subsections (b) and (d) of this section for not more than 4 consecutive model years immediately after model year 2010 and explain the basis on which the extension is granted; or
 
 &emsp;(2) publish a notice explaining the reasons for not extending the application of subsections (b) and (d) of this section.
 
@@ -50,7 +50,11 @@ Study and Report.—Not later than September 30, 2000, the Secretary of Transpor
 
 &emsp;(4) other relevant factors.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395.)
+(h)
+
+Fuel Economy Incentive Requirements.—In order for any model of dual fueled automobile to be eligible to receive the fuel economy incentives included in section 32906(a) and (b), a label shall be attached to the fuel compartment of each dual fueled automobile of that model, notifying that the vehicle can be operated on an alternative fuel and on gasoline or diesel, with the form of alternative fuel stated on the notice. This requirement applies to dual fueled automobiles manufactured on or after September 1, 2006.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1065; Pub. L. 104–287, §5(63), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 109–58, title VII, §§759, 772(a), Aug. 8, 2005, 119 Stat. 833, 834.)
 
 Historical and Revision Notes
 
@@ -101,6 +105,14 @@ In subsection (c), the words “For purposes of this section” and “than natu
 In subsection (e), the words “subject to the provisions of this section” are omitted as unnecessary because of the restatement. The words “for each model described under subsections (a)–(d) of this section” are substituted for “for each model type of dedicated automobile or dual fueled automobile” to eliminate unnecessary words. The words “by using as the denominator” are substituted for “by including as the denominator of the term” for clarity.
 
 #### Amendments
+
+2005—Subsecs. (b), (d). Pub. L. 109–58, §772(a)(1), substituted “1993–2010” for “1993–2004” in introductory provisions.
+
+Subsec. (f). Pub. L. 109–58, §772(a)(2), substituted “2007” for “2001” in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 109–58, §772(a)(3), substituted “2010” for “2004”.
+
+Subsec. (h). Pub. L. 109–58, §759, added subsec. (h).
 
 1996—Subsec. (g). Pub. L. 104–287 substituted “Committee on Commerce” for “Committee on Energy and Commerce”.
 

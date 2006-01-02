@@ -28,10 +28,6 @@
 
 1969—Pub. L. 91–172, title IV, §414(b), Dec. 30, 1969, 83 Stat. 613, added item 249.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 527, 528, 535, 545, 556, 593, 702, 832, 834, 852, 857, 891, 901, 1375 of this title.
-
 
 ---
 

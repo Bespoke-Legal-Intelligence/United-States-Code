@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of a member or former member of the uniformed services of the United States,gross income does not include the amount of any reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code.
+In the case of a member or former member of the uniformed services of the United States, gross income does not include the amount of any reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code.
 
 #### (b) Special rule
 
@@ -41,8 +41,4 @@ Section 2007(c) of Pub. L. 93–406 provided that: “The amendments made by thi
 #### Effective Date
 
 Section 1(d) of Pub. L. 89–365 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 72 of this title\] shall apply with respect to taxable years ending after December 31, 1965. The amendment made by subsection (c) \[amending section 101 of this title\] shall apply with respect to individuals making an election under chapter 73 of title 10 of the United States Code who die after December 31, 1965.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 72 of this title.
 

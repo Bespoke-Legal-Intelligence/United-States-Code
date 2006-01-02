@@ -64,5 +64,5 @@ Section 591(b) of Pub. L. 105–85 provided that:
 
 “(2)(A) Not later than March 1 of each of 1998 and 1999, each Secretary receiving a report under paragraph (1) for a year shall submit to the Secretary of Defense a report on all such reports so received.
 
-“(B) Not later than April 1 following receipt of a report for a year under subparagraph (A), the Secretaryof Defense shall transmit to Congress all such reports received for the year under subparagraph (A) together with the Secretary's assessment of each such report.”
+“(B) Not later than April 1 following receipt of a report for a year under subparagraph (A), the Secretary of Defense shall transmit to Congress all such reports received for the year under subparagraph (A) together with the Secretary's assessment of each such report.”
 

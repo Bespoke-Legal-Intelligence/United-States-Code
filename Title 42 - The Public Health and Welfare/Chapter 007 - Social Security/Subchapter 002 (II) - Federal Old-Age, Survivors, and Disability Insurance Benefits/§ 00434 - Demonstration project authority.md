@@ -26,7 +26,7 @@
 
 #### (b) Requirements
 
-The experiments and demonstration projects developed under subsection (a) of this sectionshall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the disability insurance program under this subchapter without committing such program to the adoption of any particular system either locally or nationally.
+The experiments and demonstration projects developed under subsection (a) of this section shall be of sufficient scope and shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration while giving assurance that the results derived from the experiments and projects will obtain generally in the operation of the disability insurance program under this subchapter without committing such program to the adoption of any particular system either locally or nationally.
 
 #### (c) Authority to waive compliance with benefits requirements
 
@@ -40,7 +40,7 @@ In the case of any experiment or demonstration project initiated under subsectio
 
 #### (2) Termination and final report
 
-&emsp;The authority to initiate projects under the preceding provisions of this section shall terminate on December 18, 2005. Not later than 90 days after the termination of any experiment or demonstration project carried out under this section, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a final report with respect to that experiment or demonstration project.
+&emsp;The authority to initiate projects under the preceding provisions of this section shall terminate on December 18, 2005. Not later than 90 days after the termination of any experiment or demonstration project carried out under this section, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a final reportwith respect to that experiment or demonstration project.
 
 (Aug. 14, 1935, ch. 531, title II, §234, as added Pub. L. 106–170, title III, §301(a), Dec. 17, 1999, 113 Stat. 1900; amended Pub. L. 108–203, title IV, §401, Mar. 2, 2004, 118 Stat. 525.)
 

@@ -1,6 +1,6 @@
 ### §3064. Special branches
 
-(a) The special branches of the Army consist of commissioned officers of the Regular Army appointed therein, other members of the Army assigned thereto by the Secretary of the Army, and the sections prescribed in this chapter. The special branches are—
+(a) The special branches of the Army consist of commissioned officers of the Regular Armyappointed therein, other members of the Army assigned thereto by the Secretary of the Army, and the sections prescribed in this chapter. The special branches are—
 
 &emsp;(1) each corps of the Army Medical Department;
 

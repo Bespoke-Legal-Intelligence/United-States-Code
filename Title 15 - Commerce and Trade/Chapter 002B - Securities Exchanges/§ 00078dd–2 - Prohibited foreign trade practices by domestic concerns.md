@@ -46,11 +46,11 @@ It shall be an affirmative defense to actions under subsection (a) or (i) of thi
 
 #### (d) Injunctive relief
 
-(1) When it appears to the Attorney General that any domestic concern to which this section applies, or officer, director, employee, agent, or stockholder thereof, is engaged, or about to engage, in any act or practice constituting a violation of subsection (a) or (i) of this section, the Attorney General may, in his discretion, bring a civil action in an appropriate district court of the United States to enjoin such act or practice, and upon a proper showing, a permanent injunction or a temporary restraining order shall be granted without bond.
+(1) When it appears to the Attorney General that any domestic concern to which this sectionapplies, or officer, director, employee, agent, or stockholder thereof, is engaged, or about to engage, in any act or practice constituting a violation of subsection (a) or (i) of this section, the Attorney General may, in his discretion, bring a civil action in an appropriate district court of the United States to enjoin such act or practice, and upon a proper showing, a permanent injunction or a temporary restraining order shall be granted without bond.
 
 (2) For the purpose of any civil investigation which, in the opinion of the Attorney General, is necessary and proper to enforce this section, the Attorney General or his designee are empowered to administer oaths and affirmations, subpoena witnesses, take evidence, and require the production of any books, papers, or other documents which the Attorney General deems relevant or material to such investigation. The attendance of witnesses and the production of documentary evidence may be required from any place in the United States, or any territory, possession, or commonwealth of the United States, at any designated place of hearing.
 
-(3) In case of contumacy by, or refusal to obey a subpoena issued to, any person, the AttorneyGeneral may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, or other documents. Any such court may issue an order requiring such person to appear before the Attorney General or his designee, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district in which such person resides or may be found. The Attorney General may make such rules relating to civil investigations as may be necessary or appropriate to implement the provisions of this subsection.
+(3) In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, or other documents. Any such court may issue an order requiring such person to appear before the Attorney General or his designee, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district in which such person resides or may be found. The Attorney General may make such rules relating to civil investigations as may be necessary or appropriate to implement the provisions of this subsection.
 
 #### (e) Guidelines by Attorney General
 
@@ -68,7 +68,7 @@ Not later than 6 months after August 23, 1988, the Attorney General, after consu
 
 (2) Any document or other material which is provided to, received by, or prepared in the Department of Justice or any other department or agency of the United States in connection with a request by a domestic concern under the procedure established under paragraph (1), shall be exempt from disclosure under section 552 of title 5 and shall not, except with the consent of the domestic concern, be made publicly available, regardless of whether the Attorney General responds to such a request or the domestic concern withdraws such request before receiving a response.
 
-(3) Any domestic concern who has made a request to the Attorney General under paragraph (1) may withdraw such request prior to the time the Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect.
+(3) Any domestic concern who has made a request to the Attorney General under paragraph (1) may withdraw such request prior to the timethe Attorney General issues an opinion in response to such request. Any request so withdrawn shall have no force or effect.
 
 (4) The Attorney General shall, to the maximum extent practicable, provide timely guidance concerning the Department of Justice's present enforcement policy with respect to the preceding provisions of this section to potential exporters and small businesses that are unable to obtain specialized counsel on issues pertaining to such provisions. Such guidance shall be limited to responses to requests under paragraph (1) concerning conformity of specified prospective conduct with the Department of Justice's present enforcement policy regarding the preceding provisions of this section and general explanations of compliance responsibilities and of potential liabilities under the preceding provisions of this section.
 
@@ -76,7 +76,7 @@ Not later than 6 months after August 23, 1988, the Attorney General, after consu
 
 (1)(A) Any domestic concern that is not a natural person and that violates subsection (a) or (i) of this section shall be fined not more than $2,000,000.
 
-(B) Any domestic concern that is not a natural person and that violates subsection (a) or (i) ofthis section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.
+(B) Any domestic concern that is not a natural person and that violates subsection (a) or (i) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General.
 
 (2)(A) Any natural person that is an officer, director, employee, or agent of a domestic concern, or stockholder acting on behalf of such domestic concern, who willfully violates subsection (a) or (i) of this section shall be fined not more than $100,000 or imprisoned not more than 5 years, or both.
 
@@ -132,11 +132,11 @@ For purposes of this section:
 
 #### (i) Alternative jurisdiction
 
-(1) It shall also be unlawful for any United States person to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
+(1) It shall also be unlawful for any United States person to corruptly do any act outsidethe United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section, for the purposes set forth therein, irrespective of whether such United States person makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
 
 (2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
-(Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII,§330005, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 105–366, §3, Nov. 10, 1998, 112 Stat. 3304.)
+(Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII, §330005, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 105–366, §3, Nov. 10, 1998, 112 Stat. 3304.)
 
 #### Codification
 

@@ -74,7 +74,7 @@ In order to receive a grant or enter into a contract or cooperative agreement un
 
 &emsp;(2) identify the population to be served;
 
-&emsp;(3) identify the education and employment needs of the population to be served and the manner in which the activities to be providedwill strengthen the ability of the individuals served to obtain or retain unsubsidized employment;
+&emsp;(3) identify the education and employment needs of the population to be served and the manner in which the activities to be provided will strengthen the ability of the individuals served to obtain or retain unsubsidized employment;
 
 &emsp;(4) describe the activities to be provided and the manner in which such activities are to be integrated with other appropriate activities; and
 
@@ -158,7 +158,7 @@ Nothing in this section shall be construed—
 
 #### (5) Technical assistance
 
-&emsp;The Secretary, acting through the unit established under paragraph (1), is authorized toprovide technical assistance to entities described in subsection (c) of this section that receive assistance under subsection (c) of this section to enable such entities to improve the activities authorized under this section that are provided by such entities.
+&emsp;The Secretary, acting through the unit established under paragraph (1), is authorized to provide technical assistance to entities described in subsection (c) of this section that receive assistance under subsection (c) of this section to enable such entities to improve the activities authorized under this section that are provided by such entities.
 
 #### (6) Agreement for certain federally recognized Indian tribes to transfer funds to the program
 

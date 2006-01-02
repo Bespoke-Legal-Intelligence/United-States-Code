@@ -46,7 +46,7 @@ Pub. L. 98–181, title II, §225, Nov. 30, 1983, 97 Stat. 1191, provided that:
 
 &emsp;“(5) there is the potential for improving housing for many lower income families by coordinating State and local government efforts in order to assure that families receiving public assistance payments from the Department of Health and Human Services are able to live in decent, safe, and sanitary housing.
 
-“(b) The purpose of this section, therefore, is to provide assistance to units of general local governmentand their designated agencies in order to develop a program that will—
+“(b) The purpose of this section, therefore, is to provide assistance to units of general local government and their designated agencies in order to develop a program that will—
 
 &emsp;“(1) encourage the upgrading of housing occupied primarily by lower income families, including families receiving assistance under the aid for families with dependent children program established under title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]; and
 

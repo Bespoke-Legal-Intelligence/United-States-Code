@@ -36,7 +36,3 @@ The words “but not in the name of Congress” are omitted as surplusage, since
 
 Section 3 of Pub. L. 86–593 provided that: “References that other laws, regulations, and orders make, with respect to the Air Force, to the distinguished-service cross and the Soldier's Medal shall be considered to be made to the Air Force cross and the Airman's Medal, respectively.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8748 of this title.
-

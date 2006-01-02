@@ -34,5 +34,5 @@ Another section 504 of title V of Pub. L. 93–415, as added by Pub. L. 102–58
 
 #### Change of Name
 
-Words “magistrate judge” substituted for “magistrate” in catchline and wherever appearing in textpursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words “magistrate judge” substituted for “magistrate” in catchline and wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

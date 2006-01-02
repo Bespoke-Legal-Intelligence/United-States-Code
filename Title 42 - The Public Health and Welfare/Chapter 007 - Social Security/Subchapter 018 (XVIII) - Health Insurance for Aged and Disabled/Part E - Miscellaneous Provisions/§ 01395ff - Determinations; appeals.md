@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) The initial determination of the amount of benefits available to the individual under such parts.
 
-&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a utilization and quality control peer review organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI of this chapter.
+&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a utilization and quality control peer review organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuantto a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI of this chapter.
 
 #### (2) Deadlines for making initial determinations
 
@@ -92,7 +92,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is providedin section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -218,7 +218,7 @@
 
 #### (2) Qualified independent contractor
 
-&emsp;For purposes of this subsection, the term “qualified independent contractor” means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1) of this section, and that meets the requirements established by the Secretary consistent with paragraph (3).
+&emsp;For purposes of this subsection, the term “qualified independent contractor” means an entity or organization that is independent ofany organization under contract with the Secretary that makes initial determinations under subsection (a)(1) of this section, and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements
 
@@ -246,7 +246,7 @@
 
 #### (III) Absence of national or local coverage determination
 
-&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coveragedetermination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
+&emsp;&emsp;&emsp;&emsp;In the absence of such a national coverage determination or local coverage determination, the qualified independent contractor shall make a decision with respect to the reconsideration based on applicable information, including clinical experience and medical, technical, and scientific evidence.
 
 #### (C) Deadlines for decisions
 
@@ -406,7 +406,7 @@
 
 #### (3) Continuing education requirement for qualified independent contractors and administrative law judges
 
-&emsp;The Secretary shall provide to each qualified independent contractor, and, in consultation with the Commissioner of Social Security, to administrative law judges that decide appeals of reconsiderations of initial determinations or other decisions or determinations under this section, such continuing education with respect to coverage of items and services under this subchapter or policies of the Secretary with respect to part B of subchapter XI of this chapter as is necessary for such qualified independent contractors and administrative law judges to make informed decisions with respect to appeals.
+&emsp;The Secretary shall provide to each qualified independent contractor, and, in consultation with the Commissioner of Social Security, to administrative law judges that decide appeals of reconsiderations of initial determinationsor other decisions or determinations under this section, such continuing education with respect to coverage of items and services under this subchapter or policies of the Secretary with respect to part B of subchapter XI of this chapter as is necessary for such qualified independent contractors and administrative law judges to make informed decisions with respect to appeals.
 
 #### (4) Reports
 
@@ -468,7 +468,7 @@
 
 #### (B) Definition of local coverage determination
 
-&emsp;&emsp;For purposes of this section, the term “local coverage determination” means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title.
+&emsp;&emsp;For purposes of this section, the term “local coverage determination” means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item orservice is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title.
 
 #### (3) No material issues of fact in dispute
 
@@ -500,7 +500,7 @@
 
 #### (C) Explanation of determination
 
-&emsp;&emsp;When issuing a determination under subparagraph (A), the Secretary shall include an explanation of the basis for the determination. An action taken under subparagraph (A) (other than clause (iv)) is deemedto be a national coverage determination for purposes of review under paragraph (1)(A).
+&emsp;&emsp;When issuing a determination under subparagraph (A), the Secretary shall include an explanation of the basis for the determination. An action taken under subparagraph (A) (other than clause (iv)) is deemed to be a national coverage determination for purposes of review under paragraph (1)(A).
 
 #### (5) Standing
 
@@ -682,7 +682,7 @@
 
 #### (1) Establishment of process
 
-&emsp;The Secretary shall establish a mediation process under this subsection through the use of a physician trained in mediation and employed by the Centers for Medicare \& Medicaid Services.
+&emsp;The Secretary shall establish a mediation process under this subsection through the useof a physician trained in mediation and employed by the Centers for Medicare \& Medicaid Services.
 
 #### (2) Responsibility of mediator
 
@@ -692,7 +692,7 @@
 
 #### References in Text
 
-Parts A, B, and C of this subchapter, referred to in subsecs. text, are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+Parts A, B, and C of this subchapter, referred to in text, are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
 
 Part B of subchapter XI of this chapter, referred to in subsecs. (c)(3)(G) and (e)(3), is classified to section 1320c et seq. of this title.
 
@@ -756,7 +756,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(6) \[title V, §522(a)\], added subsec. (
 
 1997—Subsec. (b)(2)(B). Pub. L. 105–33 inserted “(or $100 in the case of home health services)” after “$500”.
 
-1994—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
+1994—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health andHuman Services, respectively” after “section 405(g) of this title” in closing provisions.
 
 1987—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted “or a claim for benefits with respect to home health services under part B of this subchapter” before “shall”.
 
@@ -950,7 +950,7 @@ Transfer of Adjudication Authority.—
 
 &emsp;“(1)
 
-In general.—Not earlier than July 1, 2005, and not later than October 1, 2005, the Commissioner of Social Security and the Secretary shall implement the transition plan under subsection (a) and transfer the administrative law judge functions described in such subsection from the Social Security Administration to the Secretary.
+In general.—Not earlier than July 1, 2005, and not later than October 1, 2005, the Commissioner of Social Security and the Secretary shall implement the transition plan under subsection (a) and transfer the administrative law judge functions described insuch subsection from the Social Security Administration to the Secretary.
 
 &emsp;“(2)
 

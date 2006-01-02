@@ -2,7 +2,7 @@
 
 (a)
 
-Lease Agreement.—Under an agreement with the person selected to construct the Thurgood Marshall Federal Judiciary Building, the Architect of the Capitol shall lease the Building to carry out the objectives of this chapter.
+Lease Agreement.—Under an agreement with the person selected to construct the Thurgood Marshall Federal Judiciary Building, the Architect of the Capitol shall lease theBuilding to carry out the objectives of this chapter.
 
 (b)
 

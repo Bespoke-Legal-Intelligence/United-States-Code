@@ -80,7 +80,7 @@
 
 #### (C) Procedures to prevent reappearance
 
-&emsp;&emsp;A consumer reporting agency shall maintain reasonable procedures designed to prevent the reappearance in a consumer's file, and in consumer reports on the consumer, of information that is deleted pursuant to thisparagraph (other than information that is reinserted in accordance with subparagraph (B)(i)).
+&emsp;&emsp;A consumer reporting agency shall maintain reasonable procedures designed to prevent the reappearance in a consumer's file, and in consumer reports on the consumer, of information that is deleted pursuant to this paragraph (other than information that is reinserted in accordance with subparagraph (B)(i)).
 
 #### (D) Automated reinvestigation system
 
@@ -122,7 +122,7 @@
 
 #### (b) Statement of dispute
 
-If the reinvestigation does not resolve the dispute, the consumer may file a brief statement setting forth the nature of the dispute. The consumer reporting agency may limit such statements to not more than one hundred words if it provides the consumer with assistance in writing a clear summary of the dispute.
+If the reinvestigation does not resolve the dispute, the consumer may file a brief statementsetting forth the nature of the dispute. The consumer reporting agency may limit such statements to not more than one hundred words if it provides the consumer with assistance in writing a clear summary of the dispute.
 
 #### (c) Notification of consumer dispute in subsequent consumer reports
 
@@ -262,5 +262,5 @@ Recommendations.—The report required under paragraph (2) shall include such re
 
 &emsp;“(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.”
 
-\[For definitions of terms used in section 313(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
+\[For definitions of terms used in section 313(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159,set out as a Definitions note under section 1681 of this title.\]
 

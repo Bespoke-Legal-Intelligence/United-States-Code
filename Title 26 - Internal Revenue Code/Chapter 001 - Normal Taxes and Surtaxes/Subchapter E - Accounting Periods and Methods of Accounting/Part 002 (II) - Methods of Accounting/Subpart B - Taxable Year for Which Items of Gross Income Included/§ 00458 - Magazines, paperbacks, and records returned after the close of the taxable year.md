@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Election of benefits
 
-&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribed <sup>2</sup> and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
+&emsp;This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made insuch manner as the Secretary may by regulations prescribed <sup>2</sup> and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
 
 #### (2) Scope of election
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (4) Treatment as method of accounting
 
-&emsp;Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable incomeunder an election made under this section shall be treated as a method of accounting.
+&emsp;Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable income under an election made under this section shall be treated as a method of accounting.
 
 #### (d) 5-year spread of transitional adjustments for magazines
 

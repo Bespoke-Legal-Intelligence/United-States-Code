@@ -62,7 +62,7 @@ Report Required.—
 
 &emsp;“(1)
 
-In general.—Before the end of the 24-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall submit a detailed report on the study conducted pursuant to subsection (a) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+In general.—Before the end of the 24-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall submit a detailed report on the study conducted pursuant to subsection\(a) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 &emsp;“(2)
 
@@ -108,7 +108,7 @@ Areas for study.—In conducting the study under paragraph (1), the Commission s
 
 &emsp;&emsp;&emsp;“(ii) the extent to which providing such reports to consumers would increase the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;“(D) any common financial transactions that are not generally reported to the consumer reportingagencies, but would provide useful information in determining the credit worthiness of consumers; and
+&emsp;&emsp;“(D) any common financial transactions that are not generally reported to the consumer reporting agencies, but would provide useful information in determining the credit worthiness of consumers; and
 
 &emsp;&emsp;“(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
 

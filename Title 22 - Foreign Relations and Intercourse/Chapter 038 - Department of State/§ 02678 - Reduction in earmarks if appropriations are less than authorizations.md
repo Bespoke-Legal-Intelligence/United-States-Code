@@ -6,7 +6,7 @@ If the amount appropriated (or made available in the event of a sequestration or
 
 #### References in Text
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in text, is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which is classified principally to chapter 20 (§900 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in text, is title II of Pub. L.99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which is classified principally to chapter 20 (§900 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 #### Prior Provisions
 

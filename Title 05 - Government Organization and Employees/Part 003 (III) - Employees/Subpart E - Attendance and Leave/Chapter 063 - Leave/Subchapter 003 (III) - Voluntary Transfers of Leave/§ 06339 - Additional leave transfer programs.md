@@ -42,7 +42,7 @@
 
 (2) To the extent practicable and consistent with the protection of intelligence sources and methods, any program established under paragraph (1) shall be consistent with the provisions of this subchapter outside of this section and with any regulations issued by the Office of Personnel Management implementing this subchapter.
 
-(d) The Office shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
+(d) The Office shall provide the head of an excepted agency with such advice and assistanceas the head of such agency may request in order to carry out the purposes of this section.
 
 (Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, §322, Nov. 27, 2002, 116 Stat. 2391; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570.)
 

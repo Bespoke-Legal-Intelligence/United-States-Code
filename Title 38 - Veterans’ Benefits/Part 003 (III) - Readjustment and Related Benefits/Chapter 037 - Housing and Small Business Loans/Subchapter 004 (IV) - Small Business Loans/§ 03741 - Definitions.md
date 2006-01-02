@@ -26,5 +26,5 @@ For short title of title III of Pub. L. 97–72, which enacted this subchapter, 
 
 #### Authorization of Appropriations
 
-Section 304 of Pub. L. 97–72 authorized to be appropriated a total of $750,000 for fiscal years 1982 through 1986 for use by Administrator of Veterans’ Affairs for expenses incidental to establishment of small business loan program authorized by subchapter IV of this chapter.
+Section 304 of Pub. L. 97–72 authorized to be appropriated a total of $750,000 for fiscal years 1982 through 1986 for use by Administrator of Veterans’ Affairs for expenses incidental to establishment of small businessloan program authorized by subchapter IV of this chapter.
 

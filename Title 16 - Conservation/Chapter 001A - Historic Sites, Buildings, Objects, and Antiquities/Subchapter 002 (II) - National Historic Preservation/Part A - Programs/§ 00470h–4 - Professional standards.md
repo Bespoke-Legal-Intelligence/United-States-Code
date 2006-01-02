@@ -12,7 +12,7 @@ Each Federal agency that is responsible for the protection of historic resources
 
 #### (b) Guidelines
 
-In order to promote the preservation of historic resources on properties eligible for listingin the National Register, the Secretary shall, in consultation with the Council, promulgate guidelines to ensure that Federal, State, and tribal historic preservation programs subject to this subchapter include plans to—
+In order to promote the preservation of historic resources on properties eligible for listing in the National Register, the Secretary shall, in consultation with the Council, promulgate guidelines to ensure that Federal, State, and tribal historic preservation programs subject to this subchapter include plans to—
 
 &emsp;(1) provide information to the owners of properties containing historic (including architectural, curatorial, and archaeological) resources with demonstrated or likely research significance, about the need for protection of such resources, and the available means of protection;
 

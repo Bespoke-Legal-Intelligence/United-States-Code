@@ -110,7 +110,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) Food stamp exception for certain elderly individuals
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996—
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who on August 22, 1996—
 
 &emsp;&emsp;&emsp;(i) was lawfully residing in the United States; and
 
@@ -240,7 +240,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### References in Text
 
-Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
@@ -252,7 +252,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, ofchapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 

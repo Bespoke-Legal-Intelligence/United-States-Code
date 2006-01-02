@@ -2,7 +2,7 @@
 
 (a) It is the intent of Congress to provide an Air Force that is capable, in conjunction with the other armed forces, of—
 
-&emsp;(1) preserving the peace and security, and providing for the defense, of the United States, the Territories, Commonwealths, and possessions, and any areas occupied by the United States;
+&emsp;(1) preserving the peace and security, and providing for the defense, of the United States, the Commonwealths and possessions, and any areas occupied by the United States;
 
 &emsp;(2) supporting the national policies;
 
@@ -20,13 +20,13 @@
 
 &emsp;(2) all persons appointed or enlisted in, or conscripted into, the Air Force without component; and
 
-&emsp;(3) all Air Force units and other Air Force organizations, with their installations andsupporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
+&emsp;(3) all Air Force units and other Air Force organizations, with their installations and supporting and auxiliary combat, training, administrative, and logistic elements; and all members of the Air Force, including those not assigned to units; necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
 
 (e) Subject to subsection (f) of this section, chapter 831 of this title, and the strength authorized by law pursuant to section 115 of this title, the authorized strength of the Air Force is 70 Regular Air Force groups and such separate Regular Air Force squadrons, reserve groups, and supporting and auxiliary regular and reserve units as required.
 
 (f) There are authorized for the Air Force 24,000 serviceable aircraft or 225,000 airframe tons of serviceable aircraft, whichever the Secretary of the Air Force considers appropriate to carry out this section. This subsection does not apply to guided missiles.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493; Pub. L. 96–513, title V, §504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, §110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, §7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, §1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -94,6 +94,8 @@ In subsection (f), the word “considers” is substituted for the words “may 
 
 #### Amendments
 
+2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+
 1987—Subsec. (e). Pub. L. 100–26 and Pub. L. 100–180 amended subsec. (e) identically, substituting “section 115” for “section 114”.
 
 1986—Subsec. (e). Pub. L. 99–433 substituted “section 114” for “section 138”.
@@ -103,8 +105,4 @@ In subsection (f), the word “considers” is substituted for the words “may 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 125 of this title.
 

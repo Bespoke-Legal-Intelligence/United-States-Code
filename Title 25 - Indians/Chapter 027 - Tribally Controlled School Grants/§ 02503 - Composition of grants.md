@@ -22,7 +22,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (A) Applicability of certain laws
 
-&emsp;&emsp;Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shall not be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
+&emsp;&emsp;Funds allocated to a tribally controlled school by reason of paragraph (1) or (2) of subsection (a) of this section shall be subject to the provisions of this chapter and shallnot be subject to any additional restriction, priority, or limitation that is imposed by the Bureau with respect to funds provided under—
 
 &emsp;&emsp;&emsp;(i) title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
@@ -54,7 +54,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding section 2503(a)(2) <sup>2</sup> of this title, with respect to funds from facilities improvement and repair, alteration and renovation (major or minor), health and safety, or new construction accounts included in the grant provided under section 2503(a) <sup>2</sup> of this title, the grant recipient shall maintain a separate account for such funds.
+&emsp;&emsp;&emsp;Notwithstanding section 2503(a)(2) <sup>2</sup> of this title, with respect to funds from facilities improvement and repair, alteration and renovation (major or minor), health and safety, or new construction accounts included in the grant provided under section 2503(a) <sup>3</sup> of this title, the grant recipient shall maintain a separate account for such funds.
 
 #### (ii) Submission of accounting
 
@@ -80,11 +80,11 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (iii) Applications
 
-&emsp;&emsp;&emsp;In considering applications for a grant described in clause (i), the Secretary shall consider whether the Indian tribe or tribal organization involved would be deficient in ensuring that the construction projects under the proposed grant conform to applicable building standards and codes and Federal, tribal, or State health and safety standards as required under section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)) <sup>3</sup> with respect to organizational and financial management capabilities.
+&emsp;&emsp;&emsp;In considering applications for a grant described in clause (i), the Secretary shall consider whether the Indian tribe or tribal organization involved would be deficient in ensuring that the construction projects under the proposed grant conform to applicable building standards and codes and Federal, tribal, or State health and safety standards as required under section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)) <sup>4</sup> with respect to organizational and financial management capabilities.
 
 #### (iv) Disputes
 
-&emsp;&emsp;&emsp;Any disputes between the Secretary and any grantee concerning a grant described in clause (i) shall be subject to the dispute provisions contained in section 2508(e) <sup>4</sup> of this title.
+&emsp;&emsp;&emsp;Any disputes between the Secretary and any grantee concerning a grant described in clause (i) shall be subject to the dispute provisions contained in section 2508(e) <sup>5</sup> of this title.
 
 #### (C) New construction
 
@@ -92,13 +92,13 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (D) Period
 
-&emsp;&emsp;In a case in which the appropriations measure under which the funds described in subparagraph (A) are made available or the application submitted for the funds does not stipulate a period for the work covered by the funds, the Secretary and the grant recipient shall consult and determine such a period prior to the transfer of the funds. A period so determined may be extended upon mutual agreement of the Secretary and the grant recipient.
+&emsp;&emsp;In a case in which the appropriations measure under which the funds described in subparagraph (A) are made available or the application submitted for the funds does notstipulate a period for the work covered by the funds, the Secretary and the grant recipient shall consult and determine such a period prior to the transfer of the funds. A period so determined may be extended upon mutual agreement of the Secretary and the grant recipient.
 
 #### (5) Enforcement of request to include funds
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe <sup>5</sup> or organization's grant under this chapter the funds described in subsection (a)(2) of this section within 180 days after the filing of the request, the Secretary shall—
+&emsp;&emsp;If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe <sup>6</sup> or organization's grant under this chapter the funds described in subsection (a)(2) of this section within 180 days after the filing of the request, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) be deemed to have approved such request; and
 
@@ -106,7 +106,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (B) Rights
 
-&emsp;&emsp;A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe's or organization's request, pursuant to the dispute authority described in section 2508(e) <sup>4</sup> of this title.
+&emsp;&emsp;A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) of this section and this paragraph, including rights relating to any denial or failure to act on such tribe's or organization's request, pursuant to the dispute authority described in section 2508(e) <sup>5</sup> of this title.
 
 (Pub. L. 100–297, title V, §5204, as added Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2066.)
 
@@ -130,11 +130,13 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 <i><sup>1</sup></i><i> So in original. The words “, that are allocated to such schools for such fiscal year” probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “2502(a)(2)” and “2502(a)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “2502(a)(2)”.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “2502(a)”.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be section “2507(e)”.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “tribe's”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be “2507(e)”.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably should be “tribe's”.</i>
 

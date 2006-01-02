@@ -26,7 +26,7 @@
 
 #### (3) Disposition of internal revenue collections
 
-&emsp;The Secretary shall determine the amount of all taxes imposed by, and collected underthe internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
+&emsp;The Secretary shall determine the amount of all taxes imposed by, and collected under the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
 &emsp;&emsp;(A) The payment of an estimated amount shall be made to the government of the Virgin Islands before the commencement of each fiscal year as set forth in section 4(c)(2) of the Act entitled “An Act to authorize appropriations for certain insular areas of the United States, and for other purposes”, approved August 18, 1978 (48 U.S.C. 1645), as in effect on the date of the enactment of the Trade and Development Act of 2000. The payment so made shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.
 
@@ -94,13 +94,13 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2004), or
+&emsp;(1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2006), or
 
 &emsp;(2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
 #### (g) Drawback for medicinal alcohol, etc.
 
-In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts,or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
+In the case of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands—
 
 &emsp;(1) subpart F of part II of subchapter A of chapter 51 shall be applied as if—
 
@@ -118,7 +118,11 @@ No amount shall be covered into the treasury of Puerto Rico or the Virgin Island
 
 &emsp;(2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957.)
+
+#### Amendment of Subsection (g)(1)
+
+<i>Pub. L. 109–59, title XI, §11125(b)(22), (c), Aug. 10, 2005, 119 Stat. 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (g)(1) of this section is amended by substituting “subpart B” for “subpart F” and “section 5111” for “section 5131(a)”.</i>
 
 #### References in Text
 
@@ -130,11 +134,13 @@ The Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), referred t
 
 #### Amendments
 
+2004—Subsec. (f)(1). Pub. L. 108–311 substituted “January 1, 2006” for “January 1, 2004”.
+
 2002—Subsec. (f)(1). Pub. L. 107–147 substituted “January 1, 2004” for “January 1, 2002”.
 
 2000—Subsec. (b)(3). Pub. L. 106–200, §602(b), amended generally par. (3) heading and text of par. (3) introductory provisions and subpar. (A). Prior to amendment, text of par. (3) introductory provisions and subpar. (A) read as follows: “Beginning with the calendar quarter ending September 30, 1975, and quarterly thereafter, the Secretary shall determine the amount of all taxes imposed by, and collected during the quarter under, the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
-&emsp;“(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, to the Government of the Virgin Islands from the amounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certified by the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.”
+&emsp;“(A) There shall be transferred and paid over, as soon as practicable after the close of the quarter, tothe Government of the Virgin Islands from the amounts so determined a sum equal to the total amount of the revenue collected by the Government of the Virgin Islands during the quarter, as certified by the Government Comptroller of the Virgin Islands. The moneys so transferred and paid over shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.”
 
 Subsec. (h). Pub. L. 106–200, §602(c), added subsec. (h).
 
@@ -175,6 +181,14 @@ Pub. L. 94–202 substituted “calendar quarter ending September 30, 1975, and 
 1958—Subsec. (a)(1). Pub. L. 85–859, §204(17), substituted “section 5314” for “section 5318”.
 
 Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted “section 5314” for “section 5318”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §305(b), Oct. 4, 2004, 118 Stat. 1179, provided that:“The amendment made by this section \[amending this section\] shall apply to articles brought into the United States after December 31, 2003.”
 
 #### Effective Date of 2002 Amendment
 
@@ -330,13 +344,9 @@ Section 1879(i)(3) of Pub. L. 99–514 provided that:
 
 “(A) Section 7652 of the Internal Revenue Code of 1954 \[now 1986\] (other than subsection (f) thereof) shall not prevent the payment to Puerto Rico or the Virgin Islands of amounts with respect to medicines, medicinal preparations, food products, flavors, or flavoring extracts containing distilled spirits, which are unfit for beverage purposes and which are brought into the United States from Puerto Rico or the Virgin Islands on or before the date of the enactment of this Act \[Oct. 22, 1986\].
 
-“(B) With respect to articles brought into the United States after September 27, 1985, subparagraph (A) shall apply only if the Secretary of the Treasury or his delegate is satisfied that the amounts paid to Puerto Rico or the Virgin Islands under subparagraph (A) are being repaid to the proper persons who used the distilled spirits in such articles.”
+“(B) With respect to articles brought into the United States after September 27, 1985, subparagraph (A) shall apply only if the Secretary of the Treasury or his delegate is satisfied that the amounts paid to Puerto Rico or the Virgin Islands under subparagraph (A) are beingrepaid to the proper persons who used the distilled spirits in such articles.”
 
 #### Ex. Ord. No. 10602. Secretary of the Interior as Representative of President
 
 Ex. Ord. No. 10602, Mar. 24, 1955, 20 F.R. 1795, provided: “By virtue of the authority vested in me by section 7652(b)(3) of the Internal Revenue Code of 1954 \[now I.R.C. 1986\] (Public Law 591, 83rd Congress, 68A Stat. 907), I hereby designate the Secretary of the Interior as the representative of the President to approve the obligation and expenditure by the government of the Virgin Islands of the moneys referred to in the said section 7652(b)(3).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4132, 4612, 4662, 4672, 4682, 5001, 5008, 5010, 5061, 5314, 5702, 5703, 5705, 7809 of this title; title 48 sections 1574a, 1574b, 1574c, 1644.
 

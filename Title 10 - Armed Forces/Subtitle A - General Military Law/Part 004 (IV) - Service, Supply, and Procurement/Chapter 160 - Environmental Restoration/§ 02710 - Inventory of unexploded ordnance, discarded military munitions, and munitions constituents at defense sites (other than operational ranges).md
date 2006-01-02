@@ -92,7 +92,3 @@ Pub. L. 107–107, div. A, title III, §311(b), Dec. 28, 2001, 115 Stat. 1051, p
 
 &emsp;“(2) The proposed prioritization protocol required by subsection (b) of such section shall be available for public comment not later than November 30, 2002.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2701, 2703 of this title.
-

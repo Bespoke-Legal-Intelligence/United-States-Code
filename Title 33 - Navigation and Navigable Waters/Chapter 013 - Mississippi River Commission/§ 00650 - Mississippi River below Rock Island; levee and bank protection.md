@@ -1,6 +1,6 @@
 ### §650. Mississippi River below Rock Island; levee and bank protection
 
-Any funds which are appropriated by Congress for improving the Mississippi River between Head of Passes and the mouth of the Ohio River,and which may be allotted to levees, may be expended, under the direction of the Secretary of the Army, in accordance with the plans, specifications, and recommendations of the Mississippi River Commission, as approved by the Chief of Engineers, for levees upon any part of said river between Head of Passes and Rock Island, Illinois, in such manner as, in their opinion, shall best improve navigation and promote the interest of commerce at all stages of the river.
+Any funds which are appropriated by Congress for improving the Mississippi River between Head of Passes and the mouth of the Ohio River, and which may be allotted to levees, may be expended, under the direction of the Secretary of the Army, in accordance with the plans, specifications, and recommendations of the Mississippi River Commission, as approved by the Chief of Engineers, for levees upon any part of said river between Head of Passes and Rock Island, Illinois, in such manner as, in their opinion, shall best improve navigation and promote the interest of commerce at all stages of the river.
 
 (July 27, 1916, ch. 260, §1, 39 Stat. 402; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

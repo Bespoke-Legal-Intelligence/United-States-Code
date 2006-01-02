@@ -54,7 +54,7 @@ Subsec. (j). Pub. L. 104–193, §871(d)(1), struck out subsec. (j) which author
 
 1990—Subsec. (a). Pub. L. 101–624, §1772(g)(1), substituted “fiscal years 1991 through 1995” for “fiscal years 1989 and 1990”.
 
-Subsec. (e). Pub. L. 101–624, §1772(g)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “During each of the fiscal years 1989 and 1990, the Secretary shall spend$120,000,000 to purchase, process, and distribute additional commodities under this section.”
+Subsec. (e). Pub. L. 101–624, §1772(g)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “During each of the fiscal years 1989 and 1990, the Secretary shall spend $120,000,000 to purchase, process, and distribute additional commodities under this section.”
 
 Subsec. (k). Pub. L. 101–624, §1772(h)(1), struck out heading and text of subsec. (k). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”
 

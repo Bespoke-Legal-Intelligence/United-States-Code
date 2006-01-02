@@ -70,7 +70,3 @@ In subsection (c), the words “Proceeds of” are substituted for the words “
 
 Pub. L. 99–190, §101(b) \[title VIII, §8015\], Dec. 19, 1985, 99 Stat. 1185, 1205, which provided that appropriations available to the Department of Defense for research and development could be used for 10 U.S.C. 2353 and for purposes related to research and development for which expenditures are specifically authorized in other appropriations of the Service concerned, was repealed and restated in section 2351(b) of this title by Pub. L. 100–370, §1(g)(1)(B), (2), July 19, 1988, 102 Stat. 846.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 114, 2351 of this title; title 42 sections 241, 6981, 7404.
-

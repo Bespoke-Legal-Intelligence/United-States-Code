@@ -2,7 +2,7 @@
 
 #### (a) Prescription by Secretary
 
-If the Secretary has prescribed test procedures under section 6314 of this title for any class of covered equipment, he shall prescribe a labeling rule applicable to such class of covered equipment in accordance with the following provisions of this section.
+If the Secretary has prescribed test procedures under section 6314 of this title for any class ofcovered equipment, he shall prescribe a labeling rule applicable to such class of covered equipment in accordance with the following provisions of this section.
 
 #### (b) Disclosure of energy efficiency of articles of covered equipment
 
@@ -20,7 +20,7 @@ A rule prescribed in accordance with this section shall include such requirement
 
 #### (d) Labeling rules applicable to electric motors
 
-Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for electric motors undersection 6314 of this title, the Secretary shall prescribe labeling rules under this section applicable to electric motors taking into consideration NEMA Standards Publication MG1–1987. Such rules shall provide that the labeling of any electric motor manufactured after the 12-month period beginning on the date the Secretary prescribes such labeling rules, shall—
+Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for electric motors under section 6314 of this title, the Secretary shall prescribe labeling rules under this section applicable to electric motors taking into consideration NEMA Standards Publication MG1–1987. Such rules shall provide that the labeling of any electric motor manufactured after the 12-month period beginning on the date the Secretary prescribes such labeling rules, shall—
 
 &emsp;(1) indicate the energy efficiency of the motor on the permanent nameplate attached to such motor;
 
@@ -30,7 +30,7 @@ Subject to subsection (h) of this section, not later than 12 months after the Se
 
 #### (e) Labeling rules for air conditioning and heating equipment
 
-Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks under section 6314 of this title, the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
+Subject to subsection (h) of this section, not later than 12 months after the Secretary establishes test procedures for small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks under section 6314 of this title, the Secretary shall prescribe labeling rules under this section for such equipment. Such rules shall provide that the labeling of any small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air conditioner, packaged terminal heat pump, warm-air furnace, packaged boiler, storage water heater, instantaneous water heater, and unfired hot water storage tank manufactured after the 12-month period beginning on the date the Secretary prescribes such rules shall—
 
 &emsp;(1) indicate the energy efficiency of the equipment on the permanent nameplate attached to such equipment or other nearby permanent marking;
 
@@ -74,13 +74,15 @@ A labeling rule under this section shall not apply to any article of covered equ
 
 Until such time as labeling rules under this section take effect with respect to a type (or class) of covered equipment, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type (or class) of covered equipment.
 
-(Pub. L. 94–163, title III, §344, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3271; amended Pub. L. 102–486, title I, §122(c), Oct. 24, 1992, 106 Stat. 2809.)
+(Pub. L. 94–163, title III, §344, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3271; amended Pub. L. 102–486, title I, §122(c), Oct. 24, 1992, 106 Stat. 2809; Pub. L. 109–58, title I, §136(g), Aug. 8, 2005, 119 Stat. 643.)
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–58 inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in two places in introductory provisions.
 
 1992—Subsec. (a). Pub. L. 102–486, §122(c)(1), substituted “shall prescribe” for “may prescribe”.
 

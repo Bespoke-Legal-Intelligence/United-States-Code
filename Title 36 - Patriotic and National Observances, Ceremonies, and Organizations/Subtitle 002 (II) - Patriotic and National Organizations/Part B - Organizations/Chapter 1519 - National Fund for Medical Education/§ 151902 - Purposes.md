@@ -1,6 +1,6 @@
 ### §151902. Purposes
 
-The purposes of the corporation are to raise from private sources, administer, and dispersefunds for medical education, and in carrying out those purposes, to take other appropriate action to promote—
+The purposes of the corporation are to raise from private sources, administer, and disperse funds for medical education, and in carrying out those purposes, to take other appropriate action to promote—
 
 &emsp;(1) the interpretation of the needs of medical education to the American public;
 

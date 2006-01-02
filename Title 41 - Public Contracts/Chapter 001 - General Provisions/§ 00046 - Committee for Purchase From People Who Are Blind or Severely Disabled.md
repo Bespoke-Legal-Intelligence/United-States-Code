@@ -112,7 +112,19 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Transfer of Functions
 
-“Department of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (a)(1) pursuant to sections 301(a)(4)(A), (C), (b)(3) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(4)(A), (C), (b)(3) and 3507 of Title 20, Education, and which transferred to the Department of Education the functions and offices of the Department of Health, Education, and Welfare that had the major governmental function in the field of vocational rehabilitation for the blind and other severely handicapped and administered related vocational rehabiliation programs for individuals with disabilities.
+“Department of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (a)(1) pursuant to sections 301(a)(4)(A), (C), (b)(3) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(4)(A), (C), (b)(3) and 3507 of Title 20, Education, and which transferred to the Department of Education the functions and offices of the Department of Health, Education, and Welfare that had the major governmental function in the field of vocational rehabilitation for the blind and other severely handicapped and administered related vocational rehabilitation programs for individuals with disabilities.
+
+#### Statement of Policy and Report Concerning the Operation and Management of Certain Military Facilities Regarding the Blind or Severely Disabled
+
+Pub. L. 109–163, div. A, title VIII, §848(b), (c), Jan. 6, 2006, 119 Stat. 3395, provided that:
+
+“(b)
+
+Statement of Policy.—The Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall jointly issue a statement of policy related to the implementation of the Randolph-Sheppard Act (20 U.S.C. 107 et seq.) and the Javits-Wagner-O'Day Act (41 U.S.C. 48 \[46 et seq.\]) within the Department of Defense and the Department of Education. The joint statement of policy shall specifically address the application of those Acts to both operation and management of all or any part of a military mess hall, military troop dining facility, or any similar dining facility operated for the purpose of providing meals to members of the Armed Forces, and shall take into account and address, to the extent practicable, the positions acceptable to persons representing programs implemented under each Act.
+
+“(c)
+
+Report.—Not later than April 1, 2006, the Secretary of Defense, the Secretary of Education, and the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Health, Education, Labor and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report describing the joint statement of policy issued under subsection (b), with such findings and recommendations as the Secretaries consider appropriate.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Transmittal to Congress
 
-Not later than 60 days after the Secretary receives a report described in section 7321(b)(10) <sup>1</sup> of this title, the Secretary shall make the report available to the Committee on Education and the Workforce of the House of Representativesand the Committee on Health, Education, Labor, and Pensions of the Senate.
+Not later than 60 days after the Secretary receives a report described in section 7321(b)(10) <sup>1</sup> of this title, the Secretary shall make the report available to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 #### (b) Limitation
 

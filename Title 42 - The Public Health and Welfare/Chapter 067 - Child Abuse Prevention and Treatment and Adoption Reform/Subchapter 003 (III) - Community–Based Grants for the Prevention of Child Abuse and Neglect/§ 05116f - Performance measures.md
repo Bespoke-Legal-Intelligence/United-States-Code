@@ -12,7 +12,7 @@ A State receiving a grant under this subchapter, through reports provided to the
 
 &emsp;(5) shall demonstrate a high level of satisfaction among families who have used the services of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 
-&emsp;(6) shall demonstrate the establishment or maintenance of innovative funding mechanisms, at the State or community level, that blend Federal, State, local and private funds,and innovative, interdisciplinary service delivery mechanisms, for the development, operation, expansion and enhancement of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
+&emsp;(6) shall demonstrate the establishment or maintenance of innovative funding mechanisms, at the State or community level, that blend Federal, State, local and private funds, and innovative, interdisciplinary service delivery mechanisms, for the development, operation, expansion and enhancement of the community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect;
 
 &emsp;(7) shall describe the results of a peer review process conducted under the State program; and
 

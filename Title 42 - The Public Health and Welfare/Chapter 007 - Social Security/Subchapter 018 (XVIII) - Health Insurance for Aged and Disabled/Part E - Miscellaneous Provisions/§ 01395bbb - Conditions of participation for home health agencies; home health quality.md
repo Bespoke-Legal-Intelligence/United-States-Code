@@ -6,7 +6,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;(1) The agency protects and promotes the rights of each individual under its care, including each of the following rights:
 
-&emsp;&emsp;(A) The right to be fully informed in advance about the care and treatment to beprovided by the agency, to be fully informed in advance of any changes in the care or treatment to be provided by the agency that may affect the individual's well-being, and (except with respect to an individual adjudged incompetent) to participate in planning care and treatment or changes in care or treatment.
+&emsp;&emsp;(A) The right to be fully informed in advance about the care and treatment to be provided by the agency, to be fully informed in advance of any changes in the care or treatment to be provided by the agency that may affect the individual's well-being, and (except with respect to an individual adjudged incompetent) to participate in planning care and treatment or changes in care or treatment.
 
 &emsp;&emsp;(B) The right to voice grievances with respect to treatment or care that is (or fails to be) furnished without discrimination or reprisal for voicing grievances.
 
@@ -40,7 +40,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;(3)(A) The agency must not use as a home health aide (on a full-time, temporary, per diem, or other basis), any individual to provide items or services described in section 1395x(m) of this title on or after January 1, 1990, unless the individual—
 
-&emsp;&emsp;(i) has completed a training and competency evaluation program, or a competency evaluation program, that meets the minimum standards established by the Secretary under subparagraph (D), and
+&emsp;&emsp;(i) has completed a training and competency evaluation program, or a competency evaluation program, that meets theminimum standards established by the Secretary under subparagraph (D), and
 
 &emsp;&emsp;(ii) is competent to provide such items and services.
 
@@ -66,7 +66,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;&emsp;(IV) has been subject to the remedies described in subsection (e)(1) of this section or in clauses (ii) or (iii) of subsection (f)(2)(A) of this section.
 
-&emsp;(iv) Such standards shall permit a determination that an individual who has completed (before July 1, 1989) a training and competency evaluation program or a competency evaluation program shall be deemed for purposes of subparagraph (A) to have completed a program that is approved by the Secretaryunder the standards established under this subparagraph if the Secretary determines that, at the time the program was offered, the program met such standards.
+&emsp;(iv) Such standards shall permit a determination that an individual who has completed (before July 1, 1989) a training and competency evaluation program or a competency evaluation program shall be deemed for purposes of subparagraph (A) to have completed a program that is approved by the Secretary under the standards established under this subparagraph if the Secretary determines that, at the time the program was offered, the program met such standards.
 
 &emsp;(E) In this paragraph, the term “home health aide” means any individual who provides the items and services described in section 1395x(m) of this title, but does not include an individual—
 
@@ -182,7 +182,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 A home health agency shall submit claims for payment for home health services under this subchapter only on the basis of the geographic location at which the service is furnished, as determined by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b), 4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33, title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1891, as added and amended Pub. L. 100–203, title IV, §§4021(b), 4022(a), 4023(a), Dec. 22, 1987, 101 Stat. 1330–67, 1330–69, 1330–71; Pub. L. 100–360, title IV, §411(d)(1)(A), (2)–(3)(B), July 1, 1988, 102 Stat. 773, 774; Pub. L. 100–485, title VI, §608(d)(20)(A), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–508, title IV, §§4206(d)(2), 4207(i)(1), formerly 4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–116, 1388–123, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–134, title I, §101(d) \[title V, §516(a)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–33,title IV, §4604(a), Aug. 5, 1997, 111 Stat. 472; Pub. L. 108–173, title VII, §736(c)(3), Dec. 8, 2003, 117 Stat. 2356.)
 
 #### Amendments
 
@@ -254,7 +254,7 @@ Section 4023(b) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV,
 
 #### Effective Date
 
-Section applicable to home health agencies as of the first day of the 18th calendar month that begins after Dec. 22, 1987, except as otherwise provided, see section 4021(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 1395x of this title.
+Section applicable to home health agencies as of the first day of the 18th calendar month that begins after Dec. 22, 1987, except as otherwise provided, see section4021(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 1395x of this title.
 
 #### Treatment of Branch Offices; GAO Study on Supervision of Home Health Care Provided in Isolated Rural Areas
 

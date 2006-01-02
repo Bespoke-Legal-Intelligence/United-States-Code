@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(C) addresses the need for public educational and interpretive opportunities;
 
-&emsp;&emsp;(D) allows for diverse appropriate uses of lands in the area to the extent consistent with the maintenance and enhancement of raptor populations and habitats and protection and sound management of other resources and values of the area; and
+&emsp;&emsp;(D) allows for diverse appropriate uses of lands in the area to the extent consistentwith the maintenance and enhancement of raptor populations and habitats and protection and sound management of other resources and values of the area; and
 
 &emsp;&emsp;(E) demonstrates management practices and techniques that may be useful to other areas of the public lands and elsewhere.
 
@@ -28,7 +28,7 @@ The Congress finds the following:
 
 &emsp;(8) Consistent with requirements of sections 1712 and 1732 of title 43, the Secretary has developed a comprehensive management plan and, based on such plan, has implemented a management program for the public lands included in the conservation area established by this subchapter.
 
-&emsp;(9) Additional authority and guidance must be provided to assure that essential raptorhabitat remains in public ownership, to facilitate sound and effective planning and management, to provide for effective public interpretation and education, to ensure continued study of the relationship of humans and these raptors, to preserve the unique and irreplaceable habitat of the conservation area, and to conserve and properly manage the other natural resources of the area in concert with maintenance of this habitat.
+&emsp;(9) Additional authority and guidance must be provided to assure that essential raptor habitat remains in public ownership, to facilitate sound and effective planning and management, to provide for effective public interpretation and education, to ensure continued study of the relationship of humans and these raptors, to preserve the unique and irreplaceable habitat of the conservation area, and to conserve and properly manage the other natural resources of the area in concert with maintenance of this habitat.
 
 &emsp;(10) An ongoing research program funded by the Bureau of Land Management and the National Guard is intended to provide information to be used in connection with future decisionmaking concerning management of all uses, including continued military use, of public lands within the Snake River Birds of Prey Area.
 

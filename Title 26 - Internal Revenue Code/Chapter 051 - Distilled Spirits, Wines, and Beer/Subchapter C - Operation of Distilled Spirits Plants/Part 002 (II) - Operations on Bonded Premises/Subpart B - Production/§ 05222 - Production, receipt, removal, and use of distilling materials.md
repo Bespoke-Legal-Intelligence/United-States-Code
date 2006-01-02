@@ -2,7 +2,7 @@
 
 #### (a) Production, removal, and use
 
-(1) No mash, wort, or wash fit for distillation or for the production of distilled spirits shall be made or fermented in any building or on any premises other than on the bonded premises of a distilled spirits plant duly authorized to produce distilled spirits according to law; and no mash, wort, or wash so made or fermented shall be removed from any such premises before being distilled, except as authorized by the Secretary; and no person other than an authorized distiller shall, by distillation or any other process, produce distilled spirits from any mash, wort, wash, or other material.
+(1) No mash, wort, or wash fit for distillation or for the production of distilled spirits shall be made or fermented in any building or on anypremises other than on the bonded premises of a distilled spirits plant duly authorized to produce distilled spirits according to law; and no mash, wort, or wash so made or fermented shall be removed from any such premises before being distilled, except as authorized by the Secretary; and no person other than an authorized distiller shall, by distillation or any other process, produce distilled spirits from any mash, wort, wash, or other material.
 
 (2) Nothing in this subsection shall be construed to apply to—
 
@@ -20,7 +20,7 @@ Under such regulations as the Secretary may prescribe, fermented materials to be
 
 &emsp;(1) from the premises of a bonded wine cellar authorized to remove such material by section 5362(c)(6);
 
-&emsp;(2) beer conveyed without payment of tax from brewery premises, beer which has beenlawfully removed from brewery premises upon determination of tax, or
+&emsp;(2) beer conveyed without payment of tax from brewery premises, beer which has been lawfully removed from brewery premises upon determination of tax, or
 
 &emsp;(3) cider exempt from tax under the provisions of section 5042(a)(1).
 
@@ -75,8 +75,4 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1905(b)(6)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5056, 5412 of this title.
 

@@ -50,7 +50,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 #### (3) Complaint, hearing, Board review
 
-&emsp;If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) of this section may have occurred, the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to section 1406 of this title.
+&emsp;If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) of this section may have occurred,the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to section 1406 of this title.
 
 #### (4) Judicial review
 
@@ -68,7 +68,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 #### (2) Agency regulations
 
-&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulationspromulgated by the Attorney General and the Secretary of Transportation to implement the statutory provisions referred to in subsection (b) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Attorney General and the Secretary of Transportation to implement the statutory provisions referred to in subsection (b) of this section except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Entity responsible for correction
 

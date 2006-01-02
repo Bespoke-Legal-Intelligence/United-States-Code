@@ -58,15 +58,11 @@ For purposes of this section—
 
 &emsp;In determining the amount of nondeductible contributions for any taxable year, there shall not be taken into account—
 
-&emsp;&emsp;(A) so much of the contributions to 1 or more defined contribution plans which arenot deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
+&emsp;&emsp;(A) so much of the contributions to 1 or more defined contribution plans which are not deductible when contributed solely because of section 404(a)(7) as does not exceed the greater of—
 
 &emsp;&emsp;&emsp;(i) the amount of contributions not in excess of 6 percent of compensation (within the meaning of section 404(a) and as adjusted under section 404(a)(12)) paid or accrued (during the taxable year for which the contributions were made) to beneficiaries under the plans, or
 
-&emsp;&emsp;&emsp;(ii) the sum of—
-
-&emsp;&emsp;&emsp;&emsp;(I) the amount of contributions described in section 401(m)(4)(A), plus
-
-&emsp;&emsp;&emsp;&emsp;(II) the amount of contributions described in section 402(g)(3)(A), or
+&emsp;&emsp;&emsp;(ii) the amount of contributions described in section 401(m)(4)(A), or
 
 &emsp;&emsp;(B) so much of the contributions to a simple retirement account (within the meaning of section 408(p)) or a simple plan (within the meaning of section 401(k)(11)) which are not deductible when contributed solely because such contributions are not made in connection with a trade or business of the employer.
 
@@ -102,7 +98,7 @@ For purposes of this section—
 
 &emsp;In the case of a plan which provides contributions or benefits for employees some or all of whom are self-employed individuals within the meaning of section 401(c)(1), the term “employer” means the person treated as the employer under section 401(c)(4).
 
-(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 105–34, title XV, §1507(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 107–16, title VI, §§616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, 115 Stat. 103, 118, 130.)
+(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 105–34, title XV, §1507(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 107–16, title VI, §§616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, 115 Stat. 103, 118, 130; Pub. L. 108–311, title IV, §§404(c), 408(b)(9), Oct. 4, 2004, 118 Stat. 1188, 1193.)
 
 #### Amendment of Section
 
@@ -114,9 +110,17 @@ A prior section, added Pub. L. 93–406, title II, §2001(f)(1), Sept. 2, 1974, 
 
 #### Amendments
 
+2004—Subsec. (c)(6). Pub. L. 108–311, §408(b)(9), amended directory language of Pub. L. 107–16, §652(b)(3). See 2001 Amendment note below.
+
+Subsec. (c)(6)(A)(ii). Pub. L. 108–311, §404(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the sum of—
+
+&emsp;“(I) the amount of contributions described in section 401(m)(4)(A), plus
+
+&emsp;“(II) the amount of contributions described in section 402(g)(3)(A), or”.
+
 2001—Subsec. (c)(6). Pub. L. 107–16, §§652(b)(4), 901, temporarily substituted “Subparagraph (B)” for “Subparagraph (C)” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
-Pub. L. 107–16, §§652(b)(3), 901, which directed the temporary substitution of “subparagraph (A)” for “subparagraph (B)” in concluding provisions, was executed by making the substitution in two places, to reflect the probable intent of Congress. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §§652(b)(3), 901, as amended by Pub. L. 108–311, §408(b)(9), temporarily substituted “subparagraph (A)” for “subparagraph (B)” in two places in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 Pub. L. 107–16, §§652(b)(2), 901, in concluding provisions, temporarily struck out first sentence which read as follows: “If 1 or more defined benefit plans were taken into account in determining the amount allowable as a deduction under section 404 for contributions to any defined contribution plan, subparagraph (B) shall apply only if such defined benefit plans are described in section 404(a)(1)(D).” See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -161,6 +165,10 @@ Subsec. (d)(1). Pub. L. 100–647, §1011A(e)(2), amended par. (1) generally. Pr
 &emsp;“(B) an annuity plan described in section 403(a), and
 
 &emsp;“(C) any simplified employee pension (within the meaning of section 408(k)).”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 404(c) of Pub. L. 108–311 effective as if included in the provision of Pub. L. 107–16 to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -218,13 +226,9 @@ Section 1011A(e)(5) of Pub. L. 100–647 provided that: “In the case of any ta
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuitycontract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 45E of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

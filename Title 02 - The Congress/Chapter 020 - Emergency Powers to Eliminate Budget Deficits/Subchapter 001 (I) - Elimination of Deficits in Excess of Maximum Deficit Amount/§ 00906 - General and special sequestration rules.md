@@ -8,7 +8,7 @@ Automatic spending increases are increases in outlays due to changes in indexes 
 
 &emsp;(2) Vocational rehabilitation basic State grants.
 
-> In those programs all amounts other than the automatic spending increases shall be exemptfrom reduction under any order issued under this subchapter.
+> In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter.
 
 #### (b) Student loans
 
@@ -32,7 +32,7 @@ Any order issued by the President under section 904 of this title shall make the
 
 #### (B) Payment on the basis of cost reporting periods
 
-&emsp;&emsp;In the case in which payment for services of a provider of services is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) in the same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
+&emsp;&emsp;In the case in which payment for services of a provider of services is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] on a basis relating to the reasonable cost incurred for the services during a cost reporting period of the provider, if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for costs for such services incurred at any time during each cost reporting period of the provider any part of which occurs during the effective period of the order, but only (for each such cost reporting period) inthe same proportion as the fraction of the cost reporting period that occurs during the effective period of the order.
 
 #### (3) No increase in beneficiary charges in assignment-related cases
 
@@ -98,7 +98,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
-(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
+(3) Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or accountare subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> of this section shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
 
 (4) Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
 
@@ -156,7 +156,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (5) Dairy program
 
-&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the day any sequestration order is issued under section 904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
+&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the day any sequestration order is issued under section904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
 
 #### (6) Certain authority not to be limited
 
@@ -174,7 +174,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(4) Except as otherwise provided, obligations in sequestered accounts shall be reduced only in the fiscal year in which a sequester occurs.
 
-&emsp;(5) If an automatic spending increase is sequestered, the increase (in the applicableindex) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
+&emsp;(5) If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
 
 &emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
@@ -206,7 +206,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 Subsec. (a). Pub. L. 105–33, §10208(b), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “National Wool Act;”.
 
-Subsec. (b). Pub. L. 105–33, §10208\[(c)\], amended subsec. (b) generally, substituting new heading and text for former text consisting of pars. (1) to (3) relating to reductions required to be achieved from student loan programs operated under part B of title IV of the Higher Education Act of 1965 as a consequence of a sequestration order. Amendment was executed to reflect the probable intent of Congress based on language directing the general amendment of subsec. (b), appearing in the conference report for H.R. 2015, H. Rept. No. 105–217, 105th Congress, as adopted by the House of Representatives and Senate.
+Subsec. (b). Pub. L. 105–33, §10208\[(c)\], amended subsec. (b) generally, substituting new heading and text for former text consisting of pars. (1) to (3) relating toreductions required to be achieved from student loan programs operated under part B of title IV of the Higher Education Act of 1965 as a consequence of a sequestration order. Amendment was executed to reflect the probable intent of Congress based on language directing the general amendment of subsec. (b), appearing in the conference report for H.R. 2015, H. Rept. No. 105–217, 105th Congress, as adopted by the House of Representatives and Senate.
 
 Subsec. (e)(1). Pub. L. 105–33, §10208(d), substituted “shall be 2 percent.” for “shall be—” and struck out subpars. (A) and (B) which read as follows:
 

@@ -8,7 +8,7 @@ If the Secretary or the State pursuant to an approved State program, makes a fin
 
 &emsp;(2) the adverse effects are at a stage where, in the public interest, action to restore, reclaim, abate, control, or prevent should be taken; and
 
-&emsp;(3) the owners of the land or water resources where entry must be made to restore, reclaim, abate, control, or prevent the adverse effects of past coal mining practices are not known, or readily available; or
+&emsp;(3) the owners of the land or water resources where entry must be made to restore, reclaim,abate, control, or prevent the adverse effects of past coal mining practices are not known, or readily available; or
 
 &emsp;(4) the owners will not give permission for the United States, the States, political subdivisions, their agents, employees, or contractors to enter upon such property to restore, reclaim, abate, control, or prevent the adverse effects of past coal mining practices;
 
@@ -26,7 +26,7 @@ The Secretary or the State pursuant to an approved State program, may acquire an
 
 &emsp;(2) permanent facilities such as a treatment plant or a relocated stream channel will be constructed on the land for the restoration, reclamation, abatement, control, or prevention of the adverse effects of past coal mining practices; or
 
-&emsp;(3) acquisition of coal refuse disposal sites and all coal refuse thereon will serve the purposes of this subchapter or that public ownership is desirable to meet emergency situationsand prevent recurrences of the adverse effects of past coal mining practices.
+&emsp;(3) acquisition of coal refuse disposal sites and all coal refuse thereon will serve the purposes of this subchapter or that public ownership is desirable to meet emergency situations and prevent recurrences of the adverse effects of past coal mining practices.
 
 #### (d) Title to affected land; value
 

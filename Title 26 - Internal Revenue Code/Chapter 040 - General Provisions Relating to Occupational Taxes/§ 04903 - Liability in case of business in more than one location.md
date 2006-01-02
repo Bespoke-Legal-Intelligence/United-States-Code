@@ -4,7 +4,3 @@ The payment of the special tax imposed, other than the tax imposed by section 44
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 593.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4413 of this title.
-

@@ -5,25 +5,23 @@
 | [2661\.](%C2%A7%2002661%20-%20Miscellaneous%20administrative%20provisions%20relating%20to%20real%20property.md) | Miscellaneous administrative provisions relating to real property. |
 | \[2661a. | Repealed.\] |
 | [2662\.](%C2%A7%2002662%20-%20Real%20property%20transactions%20reports%20to%20congressional%20committees.md) | Real property transactions: reports to congressional committees. |
-| [2663\.](%C2%A7%2002663%20-%20Acquisition.md) | Acquisition. |
-| [2664\.](%C2%A7%2002664%20-%20Acquisition%20of%20property%20for%20lumber%20production.md) | Acquisition of property for lumber production. |
+| [2663\.](%C2%A7%2002663%20-%20Land%20acquisition%20authorities.md) | Land acquisition authorities. |
+| [2664\.](%C2%A7%2002664%20-%20Limitations%20on%20real%20property%20acquisition.md) | Limitations on real property acquisition. |
 | [2665\.](%C2%A7%2002665%20-%20Sale%20of%20certain%20interests%20in%20land%3B%20logs.md) | Sale of certain interests in land; logs. |
-| [2666\.](%C2%A7%2002666%20-%20Acquisition%20land%20purchase%20contracts%3B%20limitation%20on%20commission.md) | Acquisition: land purchase contracts; limitation on commission. |
+| \[2666. | Repealed.\] |
 | [2667\.](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md) | Leases: non-excess property of military departments. |
 | [2667a.](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md) | Leases: non-excess property of Defense agencies. |
 | [2668\.](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
 | [2669\.](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md) | Easements for rights-of-way: gas, water, sewer pipe lines. |
-| [2670\.](%C2%A7%2002670%20-%20Military%20installations%20use%20by%20American%20National%20Red%20Cross%3B%20use%20as%20polling%20places.md) | Military installations: use by American National Red Cross; use as polling places. |
+| [2670\.](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md) | Use of facilities by private organizations; use as polling places. |
 | [2671\.](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md) | Military reservations and facilities: hunting, fishing, and trapping. |
-| [2672\.](%C2%A7%2002672%20-%20Authority%20to%20acquire%20low-cost%20interests%20in%20land.md) | Authority to acquire low-cost interests in land. |
-| [2672a.](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md) | Acquisition: interests in land when need is urgent. |
-| [2673\.](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md) | Acquisition of certain interests in land: availability of funds. |
+| \[2672 to 2673. Repealed.\] |  |
 | [2674\.](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md) | Operation and control of Pentagon Reservation and defense facilities in National Capital Region. |
 | [2675\.](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md) | Leases: foreign countries. |
-| [2676\.](%C2%A7%2002676%20-%20Acquisition%20limitation.md) | Acquisition: limitation. |
+| \[2676. | Renumbered.\] |
 | [2677\.](%C2%A7%2002677%20-%20Options%20property%20required%20for%20military%20construction%20projects.md) | Options: property required for military construction projects. |
 | [2678\.](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md) | Feral horses and burros: removal from military installations. |
-| [2679\.](%C2%A7%2002679%20-%20Representatives%20of%20veterans%E2%80%99%20organizations%20use%20of%20space%20and%20equipment.md) | Representatives of veterans’ organizations: use of space and equipment. |
+| \[2679. | Repealed.\] |
 | [2680\.](%C2%A7%2002680%20-%20Leases%20land%20for%20special%20operations%20activities.md) | Leases: land for special operations activities. |
 | [2681\.](%C2%A7%2002681%20-%20Use%20of%20test%20and%20evaluation%20installations%20by%20commercial%20entities.md) | Use of test and evaluation installations by commercial entities. |
 | [2682\.](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md) | Facilities for defense agencies. |
@@ -54,6 +52,10 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. B, title XXVIII, §2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struck out former item 2663 “Acquisition” and items 2672 “Authority to acquire low-cost interests in land”, 2672a “Acquisition: interests in land when need is urgent”, and 2676 “Acquisition: limitation”.
+
+2004—Pub. L. 108–375, div. B, title XXVIII, §2821(e)(3), Oct. 28, 2004, 118 Stat. 2130, substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in item 2670 and struck out items 2664 “Acquisition of property for lumber production”, 2666 “Acquisition: land purchase contracts; limitation on commission”, 2673 “Acquisition of certain interests in land: availability of funds”, and 2679 “Representatives of veterans’ organizations: use of space and equipment”.
 
 2003—Pub. L. 108–136, div. A, title III, §314(a)(2), div. B, title XXVIII, §2811(b)(3), Nov. 24, 2003, 117 Stat. 1431, 1725, substituted “Authority to acquire low-cost interests in land” for “Acquisition: interests in land when cost is not more than $500,000” in item 2672 and added item 2694b.
 
@@ -139,25 +141,24 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02661 - Miscellaneous administrative provisions relating to real property](%C2%A7%2002661%20-%20Miscellaneous%20administrative%20provisions%20relating%20to%20real%20property.md)
 - [&sect; 02661a - Repealed. Pub. L. 97&#8211;295, &sect;1(31)(A), Oct. 12, 1982, 96 Stat. 1296](%C2%A7%2002661a%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93295%2C%20%C2%A71%2831%29%28A%29%2C%20Oct.%2012%2C%201982%2C%2096%20Stat.%201296.md)
 - [&sect; 02662 - Real property transactions reports to congressional committees](%C2%A7%2002662%20-%20Real%20property%20transactions%20reports%20to%20congressional%20committees.md)
-- [&sect; 02663 - Acquisition](%C2%A7%2002663%20-%20Acquisition.md)
-- [&sect; 02664 - Acquisition of property for lumber production](%C2%A7%2002664%20-%20Acquisition%20of%20property%20for%20lumber%20production.md)
+- [&sect; 02663 - Land acquisition authorities](%C2%A7%2002663%20-%20Land%20acquisition%20authorities.md)
+- [&sect; 02664 - Limitations on real property acquisition](%C2%A7%2002664%20-%20Limitations%20on%20real%20property%20acquisition.md)
 - [&sect; 02665 - Sale of certain interests in land; logs](%C2%A7%2002665%20-%20Sale%20of%20certain%20interests%20in%20land%3B%20logs.md)
-- [&sect; 02666 - Acquisition land purchase contracts; limitation on commission](%C2%A7%2002666%20-%20Acquisition%20land%20purchase%20contracts%3B%20limitation%20on%20commission.md)
+- [&sect; 02666 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2821(a)(2), Oct. 28, 2004, 118 Stat. 2129](%C2%A7%2002666%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28a%29%282%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202129.md)
 - [&sect; 02667 - Leases non-excess property of military departments](%C2%A7%2002667%20-%20Leases%20non-excess%20property%20of%20military%20departments.md)
 - [&sect; 02667a - Leases non-excess property of Defense agencies](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md)
 - [&sect; 02668 - Easements for rights-of-way](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md)
 - [&sect; 02669 - Easements for rights-of-way gas, water, sewer pipe lines](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md)
-- [&sect; 02670 - Military installations use by American National Red Cross; use as polling places](%C2%A7%2002670%20-%20Military%20installations%20use%20by%20American%20National%20Red%20Cross%3B%20use%20as%20polling%20places.md)
+- [&sect; 02670 - Use of facilities by private organizations; use as polling places](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md)
 - [&sect; 02671 - Military reservations and facilities hunting, fishing, and trapping](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md)
-- [&sect; 02672 - Authority to acquire low-cost interests in land](%C2%A7%2002672%20-%20Authority%20to%20acquire%20low-cost%20interests%20in%20land.md)
-- [&sect; 02672a - Acquisition interests in land when need is urgent](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md)
-- [&sect; 02673 - Acquisition of certain interests in land availability of funds](%C2%A7%2002673%20-%20Acquisition%20of%20certain%20interests%20in%20land%20availability%20of%20funds.md)
+- [&sect; 02672, 2672a - Repealed. Pub. L. 109&#8211;163, div. B, title XXVIII, &sect;2821(f), Jan. 6, 2006, 119 Stat. 3513](%C2%A7%2002672%2C%202672a%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28f%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203513.md)
+- [&sect; 02673 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2821(d)(2), Oct. 28, 2004, 118 Stat. 2130](%C2%A7%2002673%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28d%29%282%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202130.md)
 - [&sect; 02674 - Operation and control of Pentagon Reservation and defense facilities in National Capital Region](%C2%A7%2002674%20-%20Operation%20and%20control%20of%20Pentagon%20Reservation%20and%20defense%20facilities%20in%20National%20Capital%20Region.md)
 - [&sect; 02675 - Leases foreign countries](%C2%A7%2002675%20-%20Leases%20foreign%20countries.md)
-- [&sect; 02676 - Acquisition limitation](%C2%A7%2002676%20-%20Acquisition%20limitation.md)
+- [&sect; 02676 - Renumbered &sect;2664](%C2%A7%2002676%20-%20Renumbered%20%C2%A72664.md)
 - [&sect; 02677 - Options property required for military construction projects](%C2%A7%2002677%20-%20Options%20property%20required%20for%20military%20construction%20projects.md)
 - [&sect; 02678 - Feral horses and burros removal from military installations](%C2%A7%2002678%20-%20Feral%20horses%20and%20burros%20removal%20from%20military%20installations.md)
-- [&sect; 02679 - Representatives of veterans&#8217; organizations use of space and equipment](%C2%A7%2002679%20-%20Representatives%20of%20veterans%E2%80%99%20organizations%20use%20of%20space%20and%20equipment.md)
+- [&sect; 02679 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2821(c)(2), Oct. 28, 2004, 118 Stat. 2129](%C2%A7%2002679%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72821%28c%29%282%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202129.md)
 - [&sect; 02680 - Leases land for special operations activities](%C2%A7%2002680%20-%20Leases%20land%20for%20special%20operations%20activities.md)
 - [&sect; 02681 - Use of test and evaluation installations by commercial entities](%C2%A7%2002681%20-%20Use%20of%20test%20and%20evaluation%20installations%20by%20commercial%20entities.md)
 - [&sect; 02682 - Facilities for defense agencies](%C2%A7%2002682%20-%20Facilities%20for%20defense%20agencies.md)

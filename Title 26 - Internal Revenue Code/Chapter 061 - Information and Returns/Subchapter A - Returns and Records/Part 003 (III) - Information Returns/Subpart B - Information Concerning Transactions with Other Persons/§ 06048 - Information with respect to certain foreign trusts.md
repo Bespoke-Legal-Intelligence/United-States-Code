@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;If, at any time during any taxable year of a United States person, such person is treated as the owner of any portion of a foreign trust under the rules of subpart E of part I of subchapter J of chapter 1, such person shall be responsible to ensure that—
+&emsp;If, at any time during any taxable year of a United States person, such person is treated as the owner of any portion of a foreign trustunder the rules of subpart E of part I of subchapter J of chapter 1, such person shall be responsible to ensure that—
 
 &emsp;&emsp;(A) such trust makes a return for such year which sets forth a full and complete accounting of all trust activities and operations for the year, the name of the United States agent for such trust, and such other information as the Secretary may prescribe, and
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;The rules of this paragraph shall apply to any foreign trust to which paragraph (1) applies unless such trust agrees (in such manner, subject to such conditions, and at such time as the Secretary shall prescribe) to authorize a United States person to act as such trust's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to—
 
-&emsp;&emsp;&emsp;(i) any request by the Secretary to examine records or produce testimony relatedto the proper treatment of amounts required to be taken into account under the rules referred to in subparagraph (A), or
+&emsp;&emsp;&emsp;(i) any request by the Secretary to examine records or produce testimony related to the proper treatment of amounts required to be taken into account under the rules referred to in subparagraph (A), or
 
 &emsp;&emsp;&emsp;(ii) any summons by the Secretary for such records or testimony.
 
@@ -130,7 +130,7 @@
 
 &emsp;Rules similar to the rules of section 6034A(c) shall apply to items reported by a trust under subsection (b)(1)(B) and to United States persons referred to in such subsection.
 
-(Added Pub. L. 87–834, §7(f), Oct. 16, 1962, 76 Stat. 987; amended Pub. L. 94–455, title X, §1013(d)(1), (e)(3), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1616, 1834; Pub. L. 97–248, title III, §341(b), Sept. 3, 1982, 96 Stat. 635; Pub. L. 104–188, title I, §1901(a), Aug. 20, 1996, 110 Stat. 1904; Pub. L. 105–34, title X, §1027(b), title XVI, §1601(i)(1), Aug. 5, 1997, 111 Stat. 926, 1092.)
+(Added Pub. L. 87–834, §7(f), Oct. 16, 1962, 76 Stat. 987; amended Pub. L. 94–455, title X, §1013(d)(1),\(e)(3), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1616, 1834; Pub. L. 97–248, title III, §341(b), Sept. 3, 1982, 96 Stat. 635; Pub. L. 104–188, title I, §1901(a), Aug. 20, 1996, 110 Stat. 1904; Pub. L. 105–34, title X, §1027(b), title XVI, §1601(i)(1), Aug. 5, 1997, 111 Stat. 926, 1092.)
 
 #### Amendments
 
@@ -173,8 +173,4 @@ Reporting by united states beneficiaries.—To the extent related to subsection 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–248 applicable to returns filed after Sept. 3, 1982, see section 341(c) of Pub. L. 97–248, set out as a note under section 6046 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 679, 6039F, 6501, 6677, 6724 of this title.
 

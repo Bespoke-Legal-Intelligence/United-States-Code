@@ -20,7 +20,3 @@ The following items shall not be included in gross income and shall be exempt fr
 
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 23, 24, 25A, 25B, 86, 135, 137, 168, 221, 222, 530, 865, 876, 957, 1400C, 1402, 6091, 6103, 7655 of this title; title 42 sections 411, 1395r.
-

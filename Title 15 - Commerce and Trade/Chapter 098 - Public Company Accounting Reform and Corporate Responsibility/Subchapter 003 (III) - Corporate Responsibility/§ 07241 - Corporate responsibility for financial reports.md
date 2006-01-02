@@ -14,7 +14,7 @@ The Commission shall, by rule, require, for each company filing periodic reports
 
 &emsp;&emsp;(A) are responsible for establishing and maintaining internal controls;
 
-&emsp;&emsp;(B) have designed such internal controls to ensure that material information relating to the issuer and its consolidated subsidiaries is made known to such officers by otherswithin those entities, particularly during the period in which the periodic reports are being prepared;
+&emsp;&emsp;(B) have designed such internal controls to ensure that material information relating to the issuer and its consolidated subsidiaries is made known to such officers by others within those entities, particularly during the period in which the periodic reports are being prepared;
 
 &emsp;&emsp;(C) have evaluated the effectiveness of the issuer's internal controls as of a date within 90 days prior to the report; and
 

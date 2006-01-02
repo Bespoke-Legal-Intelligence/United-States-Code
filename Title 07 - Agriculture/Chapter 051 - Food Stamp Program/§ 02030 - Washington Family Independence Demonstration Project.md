@@ -36,7 +36,7 @@ In an application submitted under subsection (a) of this section, the State shal
 
 &emsp;&emsp;&emsp;&emsp;(I) the participant's cash assistance under the Project is terminated;
 
-&emsp;&emsp;&emsp;&emsp;(II) such participant is informed of such termination and is advised of theeligibility requirements for participation in the food stamp program;
+&emsp;&emsp;&emsp;&emsp;(II) such participant is informed of such termination and is advised of the eligibility requirements for participation in the food stamp program;
 
 &emsp;&emsp;&emsp;&emsp;(III) the State determines whether such participant will be eligible to receive coupons as a member of a household under the food stamp program; and
 
@@ -94,7 +94,7 @@ If an application submitted under subsection (a) of this section by the State co
 
 &emsp;&emsp;(A) the actual cost of the food assistance provided under the Project; and
 
-&emsp;&emsp;(B) the percentage of the administrative costs incurred by the State to provide food assistance under the Project that is equal tothe percentage of the State's aggregate administrative costs incurred in operating the food stamp program in the most recent fiscal year for which data are available, that was paid under subsections (a), (g), and (h) of section 2025 of this title.
+&emsp;&emsp;(B) the percentage of the administrative costs incurred by the State to provide food assistance under the Project that is equal to the percentage of the State's aggregate administrative costs incurred in operating the food stamp program in the most recent fiscal year for which data are available, that was paid under subsections (a), (g), and (h) of section 2025 of this title.
 
 #### (d) Project application
 

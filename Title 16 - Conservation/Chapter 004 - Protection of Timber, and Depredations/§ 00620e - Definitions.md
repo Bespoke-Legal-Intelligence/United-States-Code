@@ -86,7 +86,7 @@ Sections 620 to 620j of this title, referred to in par. (11), was in the origina
 
 #### Amendments
 
-1997—Pars. (3) to (8). Pub. L. 105–83, §604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
+1997—Pars. (3) to (8). Pub. L. 105–83, §604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6)as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
 
 Par. (9). Pub. L. 105–83, §604(1), redesignated par. (7) as (9).
 

@@ -228,7 +228,7 @@
 
 &emsp;&emsp;(E) monitor developments in oil spill prevention, containment, response, and cleanup technology;
 
-&emsp;&emsp;(F) periodically review port organization, operations, incidents, and the adequacy andmaintenance of vessel traffic service systems designed to assure safe transit of crude oil tankers pertinent to terminal operations;
+&emsp;&emsp;(F) periodically review port organization, operations, incidents, and the adequacy and maintenance of vessel traffic service systems designed to assure safe transit of crude oil tankers pertinent to terminal operations;
 
 &emsp;&emsp;(G) periodically review the standards for tankers bound for, loading at, exiting from, or otherwise using the terminal facilities;
 
@@ -272,7 +272,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 &emsp;&emsp;(B) shall be adjusted annually by the Anchorage Consumer Price Index; and
 
-&emsp;&emsp;(C) may be adjusted periodically upon the mutual consent of the owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound and the Prince William Sound terminal facilities Council.
+&emsp;&emsp;(C) may be adjusted periodically upon the mutual consent of the owners or operators ofterminal facilities or crude oil tankers operating in Prince William Sound and the Prince William Sound terminal facilities Council.
 
 #### (3) Cook Inlet Program
 

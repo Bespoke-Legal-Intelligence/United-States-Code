@@ -6,7 +6,7 @@
 
 (c) In a case under chapter 7, 12, or 11 of this title, a person is not disqualified for employment under this section solely because of such person's employment by or representation of a creditor, unless there is objection by another creditor or the United States trustee, in which case the court shall disapprove such employment if there is an actual conflict of interest.
 
-(d) The court may authorize the trustee to act as attorney or accountant for the estate if suchauthorization is in the best interest of the estate.
+(d) The court may authorize the trustee to act as attorney or accountant for the estate if such authorization is in the best interest of the estate.
 
 (e) The trustee, with the court's approval, may employ, for a specified special purpose, other than to represent the trustee in conducting the case, an attorney that has represented the debtor, if in the best interest of the estate, and if such attorney does not represent or hold any interest adverse to the debtor or to the estate with respect to the matter on which such attorney is to be employed.
 
@@ -42,7 +42,7 @@ Subsection (c) is an additional exception. The trustee may employ as his counsel
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–554, §257(e)(1), which directed the insertion of “, 1202,” after “section 721,” was executed by making the insertion after “section 721” to reflect the probable intent of Congress.
+1986—Subsec. (b). Pub. L. 99–554, §257(e)(1), which directed the insertion of “, 1202,” after “section 721,” wasexecuted by making the insertion after “section 721” to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 99–554, §257(e)(2), which directed the insertion of “, 12,” after “section 7,” was executed by making the insertion after “chapter 7” to reflect the probable intent of Congress.
 

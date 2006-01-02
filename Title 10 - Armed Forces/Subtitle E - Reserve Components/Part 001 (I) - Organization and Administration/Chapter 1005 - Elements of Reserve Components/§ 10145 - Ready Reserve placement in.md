@@ -1,6 +1,6 @@
 ### §10145. Ready Reserve: placement in
 
-(a) Each person required under law to serve in a reserve component shall, upon becoming a member, be placed in the Ready Reserve of hisarmed force for his prescribed term of service, unless he is transferred to the Standby Reserve under section 10146(a) of this title.
+(a) Each person required under law to serve in a reserve component shall, upon becoming a member, be placed in the Ready Reserve of his armed force for his prescribed term of service, unless he is transferred to the Standby Reserve under section 10146(a) of this title.
 
 (b) The units and members of the Army National Guard of the United States and of the Air National Guard of the United States are in the Ready Reserve of the Army and the Ready Reserve of the Air Force, respectively.
 
@@ -21,8 +21,4 @@ Provisions similar to those in this section were contained in section 269(a)–(
 #### Amendments
 
 2003—Subsec. (d). Pub. L. 108–136 substituted last sentence of introductory provisions and pars. (1) and (2) for “The Secretary concerned may not delegate his authority under the preceding sentence.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10147 of this title.
 

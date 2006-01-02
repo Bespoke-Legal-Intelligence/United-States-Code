@@ -92,7 +92,7 @@ For purposes of this section, and except as provided in subsection (h)—
 
 #### (c) Coordination with exemption from excise tax
 
-The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of subsection (b)(2), (k), or (m) of section 4041, section 4081(c), or section 4091(c).
+The amount of the credit determined under this section with respect to any alcohol shall, under regulations prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such alcohol solely by reason of the application of section 4041(b)(2), section 6426, or section 6427(e).
 
 #### (d) Definitions and special rules
 
@@ -158,13 +158,7 @@ For purposes of this section—
 
 #### (4) Volume of alcohol
 
-&emsp;For purposes of determining—
-
-&emsp;&emsp;(A) under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), or
-
-&emsp;&emsp;(B) under section 4041(k) or 4081(c) the percentage of any mixture which consists of alcohol,
-
-> &emsp;the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 5 percent of the volume of such alcohol (including denaturants).
+&emsp;For purposes of determining under subsection (a) the number of gallons of alcohol with respect to which a credit is allowable under subsection (a), the volume of alcohol shall include the volume of any denaturant (including gasoline) which is added under any formulas approved by the Secretary to the extent that such denaturants do not exceed 5 percent of the volume of such alcohol (including denaturants).
 
 #### (5) Pass-thru in the case of estates and trusts
 
@@ -176,9 +170,9 @@ For purposes of this section—
 
 &emsp;This section shall not apply to any sale or use—
 
-&emsp;&emsp;(A) for any period after December 31, 2007, or
+&emsp;&emsp;(A) for any period after December 31, 2010, or
 
-&emsp;&emsp;(B) for any period before January 1, 2008, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
+&emsp;&emsp;(B) for any period before January 1, 2011, during which the rates of tax under section 4081(a)(2)(A) are 4.3 cents per gallon.
 
 #### (2) No carryovers to certain years after expiration
 
@@ -204,11 +198,11 @@ For purposes of this section—
 
 #### (1) Eligible small ethanol producer
 
-&emsp;The term “eligible small ethanol producer” means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 30,000,000 gallons.
+&emsp;The term “eligible small ethanol producer” means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 60,000,000 gallons.
 
 #### (2) Aggregration <sup>1</sup> rule
 
-&emsp;For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the 30,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
+&emsp;For purposes of the 15,000,000 gallon limitation under subsection (b)(4)(C) and the 60,000,000 gallon limitation under paragraph (1), all members of the same controlled group of corporations (within the meaning of section 267(f)) and all persons under common control (within the meaning of section 52(b) but determined by treating an interest of more than 50 percent as a controlling interest) shall be treated as 1 person.
 
 #### (3) Partnership, S corporations, and other pass-thru entities
 
@@ -222,15 +216,47 @@ For purposes of this section—
 
 &emsp;The Secretary may prescribe such regulations as may be necessary—
 
-&emsp;&emsp;(A) to prevent the credit provided for in subsection (a)(3) from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 30,000,000 gallons of alcohol during the taxable year, or
+&emsp;&emsp;(A) to prevent the credit provided for in subsection (a)(3) from directly or indirectly benefiting any person with a direct or indirect productive capacity of more than 60,000,000 gallons of alcohol during the taxable year, or
 
 &emsp;&emsp;(B) to prevent any person from directly or indirectly benefiting with respect to more than 15,000,000 gallons during the taxable year.
+
+#### (6) Allocation of small ethanol producer credit to patrons of cooperative
+
+#### (A) Election to allocate
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a cooperative organization described in section 1381(a), any portion of the credit determined under subsection (a)(3) for the taxable year may, at the election of the organization, be apportioned pro rata among patrons of the organization on the basis of the quantity or value of business done with or for such patrons for the taxable year.
+
+#### (ii) Form and effect of election
+
+&emsp;&emsp;&emsp;An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+
+#### (B) Treatment of organizations and patrons
+
+#### (i) Organizations
+
+&emsp;&emsp;&emsp;The amount of the credit not apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under subsection (a)(3) for the taxable year of the organization.
+
+#### (ii) Patrons
+
+&emsp;&emsp;&emsp;The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+
+#### (iii) Special rules for decrease in credits for taxable year
+
+&emsp;&emsp;&emsp;If the amount of the credit of the organization determined under such subsection for a taxable year is less than the amount of such credit shown on the return of the organization for such year, an amount equal to the excess of—
+
+&emsp;&emsp;&emsp;&emsp;(I) such reduction, over
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount not apportioned to such patrons under subparagraph (A) for the taxable year,
+
+&emsp;&emsp;&nbsp;shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
 
 #### (h) Reduced credit for ethanol blenders
 
 #### (1) In general
 
-&emsp;In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2007—
+&emsp;In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2010—
 
 &emsp;&emsp;(A) subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting “the blender amount” for “60 cents”,
 
@@ -248,9 +274,9 @@ For purposes of this section—
 | :--- | :---: | ---: |
 | 2001 or 2002 | &nbsp;53 cents | 39\.26 cents&nbsp;&nbsp; |
 | 2003 or 2004 | &nbsp;52 cents | 38\.52 cents&nbsp;&nbsp; |
-| 2005, 2006, or 2007 | &nbsp;51 cents | 37\.78 cents. |
+| 2005 through 2010 | &nbsp;51 cents | 37\.78 cents. |
 
-(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502.)
+(Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056.)
 
 #### Prior Provisions
 
@@ -259,6 +285,24 @@ A prior section 40, added Pub. L. 92–178, title VI, §601(a), Dec. 10, 1971, 8
 Another prior section 40 was renumbered section 36 of this title.
 
 #### Amendments
+
+2005—Subsec. (g)(1), (2), (5)(A). Pub. L. 109–58, §1347(a), substituted “60,000,000” for “30,000,000”.
+
+Subsec. (g)(6)(A)(ii). Pub. L. 109–58, §1347(b), inserted at end “Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).”
+
+2004—Subsec. (c). Pub. L. 108–357, §301(c)(1), substituted “section 4041(b)(2), section 6426, or section 6427(e)” for “subsection (b)(2), (k), or (m) of section 4041, section 4081(c), or section 4091(c)”.
+
+Subsec. (d)(4). Pub. L. 108–357, §301(c)(2), reenacted heading without change and amended text of par. (4) generally, substituting provisions relating to determination of the number of gallons of alcohol with respect to which a credit is allowable under subsec. (a) for provisions relating to determination of the number of gallons of alcohol with respect to which a credit is allowable under subsec. (a) or the percentage of any mixture which consists of alcohol under section 4041(k) or 4081(c).
+
+Subsec. (e)(1)(A). Pub. L. 108–357, §301(c)(3)(A), substituted “2010” for “2007”.
+
+Subsec. (e)(1)(B). Pub. L. 108–357, §301(c)(3)(B), substituted “2011” for “2008”.
+
+Subsec. (g)(6). Pub. L. 108–357, §313(a), added par. (6).
+
+Subsec. (h)(1). Pub. L. 108–357, §301(c)(4)(A), substituted “2010” for “2007” in introductory provisions.
+
+Subsec. (h)(2). Pub. L. 108–357, §301(c)(4)(B), substituted “through 2010” for “, 2006, or 2007” in table.
 
 1998—Subsec. (e)(1). Pub. L. 105–178, §9003(a)(3), substituted “December 31, 2007” for “December 31, 2000” in subpar. (A) and “January 1, 2008” for “January 1, 2001” in subpar. (B).
 
@@ -332,6 +376,32 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted “50 cents�
 
 1981—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title XIII, §1347(c), Aug. 8, 2005, 119 Stat. 1056, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Aug. 8, 2005\].”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title III, §301(d), Oct. 22, 2004, 118 Stat. 1463, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 6426 of this title and amending this section and sections 4041, 4081, 4083, 4101, 6427, and 9503 of this title\] shall apply to fuel sold or used after December 31, 2004.
+
+“(2)
+
+Registration requirement.—The amendment made by subsection (b) \[amending section 4101 of this title\] shall take effect on April 1, 2005.
+
+“(3)
+
+Extension of alcohol fuels credit.—The amendments made by paragraphs (3), (4), and (14) of subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].
+
+“(4)
+
+Repeal of general fund retention of certain alcohol fuels taxes.—The amendments made by subsection (c)(12) \[amending section 9503 of this title\] shall apply to fuel sold or used after September 30, 2004.”
+
+Pub. L. 108–357, title III, §313(b), Oct. 22, 2004, 118 Stat. 1468, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–178, title IX, §9003(b)(3), June 9, 1998, 112 Stat. 503, provided that: “The amendments made by this subsection \[amending this section and sections 4041, 4081, and 4091 of this title\] shall take effect on January 1, 2001.”
@@ -379,10 +449,6 @@ Section 232(h)(1), (4) of Pub. L. 96–223, as amended by Pub. L. 97–448, titl
 “(1) The amendments made by subsections (b) and (c) \[enacting sections 44E \[now 40\] and 86 of this title and amending sections 55, 381, 383, 4081, and 6096 of this title\] shall apply to sales or uses after September 30, 1980, in taxable years ending after such date.
 
 “(4) Notwithstanding paragraph (1), the provisions of section 44E(d)(4)(B) \[now 40(d)(4)(B)\] of such Code, as added by this section, shall take effect on April 2, 1980.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 87, 196, 4041, 6501 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Aggregation”.</i>
 

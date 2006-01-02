@@ -6,7 +6,7 @@
 
 &emsp;(2) who is in a position subject to this subchapter and who is subject to a reduction or termination of a special rate of pay established under section 5305 of this title (or corresponding prior provision of this title);
 
-&emsp;(3) who is in a position subject to this subchapter and who (but for this section) would be subject to a reduction in pay under circumstances prescribed by the Office of Personnel Management by regulation to warrant the application of this section; or
+&emsp;(3) who is in a position subject to this subchapter and who (but for this section) would be subject to a reduction in pay under circumstances prescribed by the Office of PersonnelManagement by regulation to warrant the application of this section; or
 
 &emsp;(4) who is in a position subject to this subchapter and who is subject to a reduction or termination of a rate of pay established under subchapter IX of chapter 53;
 

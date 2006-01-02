@@ -2,11 +2,11 @@
 
 (a)
 
-Development and Updating.—Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams. Only in developing the curriculum, the Secretary of Transportation shall consult with regional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
+In General.—In coordination with the Director of the Federal Emergency Management Agency, the Chairman of the Nuclear Regulatory Commission, the Administrator of the Environmental Protection Agency, the Secretaries of Labor, Energy, and Health and Human Services, and the Director of the National Institute of Environmental Health Sciences, and using existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall maintain, and update periodically, a current curriculum of courses necessary to train public sector emergency response and preparedness teams in matters relating to the transportation of hazardous material. Only in developing the curriculum, the Secretary of Transportation shall consult withregional response teams established under the national contingency plan established under section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9605), representatives of commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001), persons (including governmental entities) that provide training for responding to accidents and incidents involving the transportation of hazardous material, and representatives of persons that respond to those accidents and incidents.
 
 (b)
 
-Requirements.—The curriculum developed under subsection (a) of this section—
+Requirements.—The curriculum maintained and updated under subsection (a) of this section—
 
 &emsp;(1) shall include—
 
@@ -14,7 +14,7 @@ Requirements.—The curriculum developed under subsection (a) of this section—
 
 &emsp;&emsp;(B) recommended basic courses and minimum number of hours of instruction necessary for public sector employees to be able to respond safely and efficiently to an accident or incident involving the transportation of hazardous material and to plan those responses; and
 
-&emsp;&emsp;(C) appropriate emergency response training and planning programs for public sector employees developed under other United States Government grant programs, including those developed with grants made under section 126(g) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 9660a); and
+&emsp;&emsp;(C) appropriate emergency response training and planning programs for public sector employees developed with Federal financial assistance, including programs developed with grants made under section 126(g) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 9660a); and
 
 &emsp;(2) may include recommendations on material appropriate for use in a recommended basic course described in clause (1)(B) of this subsection.
 
@@ -26,17 +26,17 @@ Training on Complying With Legal Requirements.—A recommended basic course desc
 
 &emsp;(2) regulations related to worker protection standards for hazardous waste operations contained in part 311 of title 40, Code of Federal Regulations, prescribed by the Administrator; and
 
-&emsp;(3) standards related to emergency response training prescribed by the National Fire Protection Association.
+&emsp;(3) standards related to emergency response training prescribed by the National Fire Protection Association and such other voluntary consensus standard-setting organizations as the Secretary of Transportation determines appropriate.
 
 (d)
 
-Distribution and Publication.—With the national response team—
+Distribution and Publication.—With the National Response Team—
 
-&emsp;(1) the Director of the Federal Emergency Management Agency shall distribute the curriculum and any updates to the curriculum to the regional response teams and all committees and commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001); and
+&emsp;(1) the Secretary shall distribute the curriculum and any updates to the curriculum to the regional response teams and all committees and commissions established under section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001); and
 
-&emsp;(2) the Secretary of Transportation may publish a list of programs that uses a course developed under this section for training public sector employees to respond to an accident or incident involving the transportation of hazardous material.
+&emsp;(2) the Secretary may publish and distribute a list of programs and courses maintained and updated under this section and of any programs utilizing such courses.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772; Pub. L. 103–429, §6(5), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772; Pub. L. 103–429, §6(5), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §§7113, 7126, Aug. 10, 2005, 119 Stat. 1899, 1909.)
 
 Historical and Revision Notes
 
@@ -82,13 +82,25 @@ This amends 49:5115(b)(1)(C) to make a cross-reference more precise.
 
 #### Amendments
 
+2005—Subsec. (a). Pub. L. 109–59, §7113(a), inserted heading and first sentence and struck out former heading and first sentence. Text read as follows: “Not later than November 16, 1992, in coordination with the Director of the Federal Emergency Management Agency, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, Secretaries of Labor, Energy, and Health and Human Services, and Director of the National Institute of Environmental Health Sciences, and using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee, the Secretary of Transportation shall develop and update periodically a curriculum consisting of a list of courses necessary to train public sector emergency response and preparedness teams.”
+
+Subsec. (b). Pub. L. 109–59, §7113(b)(1), substituted “maintained and updated” for “developed” in introductory provisions.
+
+Subsec. (b)(1)(C). Pub. L. 109–59, §7113(b)(2), substituted “with Federal financial assistance, including programs” for “under other United States Government grant programs, including those”.
+
+Subsec. (c)(3). Pub. L. 109–59, §7113(c), inserted “and such other voluntary consensus standard-setting organizations as the Secretary of Transportation determines appropriate” before period at end.
+
+Subsec. (d). Pub. L. 109–59, §7113(d)(1), substituted “National Response Team” for “national response team” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 109–59, §7113(d)(2), substituted “Secretary” for “Director of the Federal Emergency Management Agency”.
+
+Subsec. (d)(2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+
+Pub. L. 109–59, §7113(d)(3), inserted “and distribute” after “publish” and substituted “list of programs and courses maintained and updated under this section and of any programs utilizing such courses” for “list of programs that uses a course developed under this section for training public sector employees to respond to an accident or incident involving the transportation of hazardous material”.
+
 1994—Subsec. (b)(1)(C). Pub. L. 103–429 substituted “126(g)” for “126”.
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
-
-#### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

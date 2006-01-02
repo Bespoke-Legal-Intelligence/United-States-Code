@@ -36,7 +36,7 @@ Subsec. (d). Pub. L. 103–322, §330016(1)(O), substituted “fined under this 
 
 #### Short Title
 
-Section 1 of Pub. L. 98–305 provided: “That this Act \[enacting this section and provisions set out as a note under section 522 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Controlled Substance Registrant Protection Act of 1984’.”
+Section 1 of Pub. L. 98–305 provided: “That this Act \[enacting this section and provisions set out as a noteunder section 522 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Controlled Substance Registrant Protection Act of 1984’.”
 
 #### Report to Congress
 

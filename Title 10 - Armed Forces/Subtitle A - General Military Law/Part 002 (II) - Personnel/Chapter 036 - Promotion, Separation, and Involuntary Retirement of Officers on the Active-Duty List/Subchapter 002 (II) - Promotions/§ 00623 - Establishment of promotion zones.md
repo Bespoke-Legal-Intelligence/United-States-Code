@@ -14,7 +14,3 @@
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2856.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 627 of this title.
-

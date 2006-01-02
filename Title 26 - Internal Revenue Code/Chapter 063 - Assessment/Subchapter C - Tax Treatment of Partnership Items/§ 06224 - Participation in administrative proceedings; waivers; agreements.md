@@ -54,7 +54,3 @@ In the absence of a showing of fraud, malfeasance, or misrepresentation of fact�
 
 Pub. L. 107–147, title IV, §416(d)(2), Mar. 9, 2002, 116 Stat. 55, provided that: “The amendments made by this subsection \[amending this section and sections 6229, 6231, and 6234 of this title\] shall apply with respect to settlement agreements entered into after the date of the enactment of this Act \[Mar. 9, 2002\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6223, 6234, 6601 of this title.
-

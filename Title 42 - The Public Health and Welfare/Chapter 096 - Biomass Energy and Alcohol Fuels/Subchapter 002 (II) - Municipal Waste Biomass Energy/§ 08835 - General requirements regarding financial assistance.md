@@ -16,7 +16,7 @@
 
 (4) In providing financial assistance under section 8832, 8833, or 8834 of this title, the Secretary of Energy shall give due consideration to promoting competition.
 
-(5) In determining the amount of financial assistance for any municipal waste energy project which will yield byproducts in addition to biomass energy, the Secretary shall consider the value of such byproducts and the costs attributable to their production.
+(5) In determining the amount of financial assistance for any municipal waste energy projectwhich will yield byproducts in addition to biomass energy, the Secretary shall consider the value of such byproducts and the costs attributable to their production.
 
 (6) The Secretary of Energy shall not provide financial assistance under section 8832, 8833, or 8834 of this title for any municipal waste energy unless the Secretary determines—
 

@@ -58,7 +58,3 @@ Subsec. (c). Pub. L. 94–283, §306(b)(2), added subsec. (c).
 
 Amendment by section 306(b)(2) of Pub. L. 94–283 effective May 11, 1976, see section 306(c) of Pub. L. 94–283, set out as a note under section 9002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9034, 9036, 9037 of this title; title 2 section 441a.
-

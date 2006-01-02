@@ -22,7 +22,7 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 &emsp;(10) Freedom, independence, and the free exercise of individual initiative in planning and managing their own lives, full participation in the planning and operation of community-based services and programs provided for their benefit, and protection against abuse, neglect, and exploitation.
 
-(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87 Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305.)
+(Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305.)
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Par. (10). Pub. L. 98–459, §102(c), inserted reference to full participation 
 
 Pub. L. 103–171, §4(b), Dec. 2, 1993, 107 Stat. 1991, provided that: “The amendments made by—
 
-&emsp;“(1) sections 303(a)(2), 303(a)(3), 304 (excluding paragraphs (1) and (2) of subsection (a)), 305, 306, 307, and317 \[enacting sections 3030g–21 and 3030g–22 of this title and amending sections 3023 to 3027 of this title\], and
+&emsp;“(1) sections 303(a)(2), 303(a)(3), 304 (excluding paragraphs (1) and (2) of subsection (a)), 305, 306, 307, and 317 \[enacting sections 3030g–21 and 3030g–22 of this title and amending sections 3023 to 3027 of this title\], and
 
 &emsp;“(2) title VII \[enacting sections 3058 to 3058ee of this title and amending sections 1395i–3, 1396r, 3012, 3018, 3021, 3023, 3027, 3030d, and 3030<i>l</i> of this title\],
 
@@ -156,7 +156,7 @@ Pub. L. 99–269, §1, Apr. 1, 1986, 100 Stat. 78, provided: “That this Act \[
 
 #### Short Title of 1984 Amendment
 
-Section 1 of Pub. L. 98–459 provided that: “This Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, 3037b, and3058 to 3058d of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title, and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 3056 and 3058 of this title, and section 631 of Title 29, and amending provisions set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1984’.”
+Section 1 of Pub. L. 98–459 provided that: “This Act \[enacting sections 3030aa, 3030bb, 3030jj, 3034, 3037b, and 3058 to 3058d of this title, amending this section, sections 1762a, 3011 to 3013, 3015 to 3018, 3020b, 3021 to 3029, 3030a, 3030c, 3030d, 3031, 3032, 3035, 3035a to 3035e, 3037, 3037a, 3056, 3056a, 3056d to 3056f, 3057a, 3057c, and 3057g of this title, and sections 623, 630, and 631 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 3056 and 3058 of this title, and section 631 of Title 29, and amending provisions set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1984’.”
 
 #### Short Title of 1981 Amendment
 
@@ -190,7 +190,7 @@ Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 9
 
 #### Regulations
 
-Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifically provided, the Secretary of Health and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
+Section 902 of Pub. L. 102–375 provided that: “Except as otherwise specifically provided, the Secretary ofHealth and Human Services shall, not later than 120 days after the date of the enactment of this Act \[Sept. 30, 1992\], issue proposed regulations to carry out the amendments made by titles I through VII \[see Tables for classification\].”
 
 #### Study of Effectiveness of State Long-Term Care Ombudsman Programs
 

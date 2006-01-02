@@ -2,7 +2,7 @@
 
 #### (a) Final evaluation of Fund
 
-By March 31, 1998, the Secretary of Labor shall, on the basis of an actuarial study conducted by experts or consultants whose services are procured by the Secretary of Labor by contract, make a final determination of the amounts estimated to be necessary to meet expenditures for workers’ compensation benefits and other payments described in section 3715a(a) of this title, as calculated in accordance with the second sentence of section 3715a(b) of this title. Amounts in the Fund shall be used to pay for the final determination under this subsection.
+By March 31, 1998, the Secretary of Labor shall, on the basis of an actuarial study conducted by experts or consultants whose services are procured by the Secretary of Labor by contract, make a final determination of the amounts estimated to be necessary to meet expenditures for workers’ compensation benefits and other payments described in section 3715a(a) of this title, as calculated in accordance with the second sentence of section 3715a(b) of thistitle. Amounts in the Fund shall be used to pay for the final determination under this subsection.
 
 #### (b) Deficiency or surplus in Fund
 
@@ -18,7 +18,7 @@ If amounts in the Fund are not sufficient to meet expenditures as determined by 
 
 #### Codification
 
-Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not aspart of the Panama Canal Act of 1979 which comprises this chapter.
+Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
 
 #### Amendments
 

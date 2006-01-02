@@ -38,7 +38,7 @@
 
 The non-Federal share of the cost assigned to other project purposes shall be as follows:
 
-&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Provided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
+&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Pro</i><i>vided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
 
 &emsp;(2) municipal and industrial water supply: 100 percent;
 
@@ -56,7 +56,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (1) Construction
 
-&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to privateinterests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) of this section and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
 
 #### (2) Periodic nourishment
 
@@ -116,7 +116,7 @@ For purposes of this Act, the term “separable element” means a portion of a 
 
 #### (h) Assigned joint and separable costs
 
-The share of the costs specified under this section for each project purpose shall apply to the joint and separable costs of construction of each project assigned to that purpose, except as otherwise specified in this Act.
+The share of the costs specified under this section for each project purpose shall apply to thejoint and separable costs of construction of each project assigned to that purpose, except as otherwise specified in this Act.
 
 #### (i) Lands, easements, rights-of-way, dredged material disposal areas, and relocations
 
@@ -134,7 +134,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 &emsp;&emsp;(A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
 
-&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest toproject outputs under the terms of the agreement.
+&emsp;&emsp;(B) may terminate or adjust the rights and privileges of the non-Federal interest to project outputs under the terms of the agreement.
 
 #### (k) Payment options
 

@@ -22,7 +22,7 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 &emsp;(B) Preparing joint logistic and mobility plans to support those contingency plans and recommending the assignment of logistic and mobility responsibilities to the armed forces in accordance with those logistic and mobility plans.
 
-&emsp;(C) Advising the Secretary on critical deficiencies and strengths in force capabilities (including manpower, logistic, and mobility support) identified during the preparation and review of contingency plans and assessing the effect of such deficiencies and strengths onmeeting national security objectives and policy and on strategic plans.
+&emsp;(C) Advising the Secretary on critical deficiencies and strengths in force capabilities (including manpower, logistic, and mobility support) identified during the preparation and review of contingency plans and assessing the effect of such deficiencies and strengths on meeting national security objectives and policy and on strategic plans.
 
 &emsp;(D) Establishing and maintaining, after consultation with the commanders of the unified and specified combatant commands, a uniform system of evaluating the preparedness of each such command to carry out missions assigned to the command.
 
@@ -92,7 +92,7 @@ Biennial Review of National Military Strategy.—(1) Not later then February 15 
 
 &emsp;(C) A description of the regional threats to United States national interests and United States national security.
 
-&emsp;(D) A description of the international threats posed by terrorism, weapons of massdestruction, and asymmetric challenges to United States national security.
+&emsp;(D) A description of the international threats posed by terrorism, weapons of mass destruction, and asymmetric challenges to United States national security.
 
 &emsp;(E) Identification of United States national military objectives and the relationship of those objectives to the strategic environment, regional, and international threats.
 
@@ -162,13 +162,9 @@ Pub. L. 103–160, div. A, title III, §376, Nov. 30, 1993, 107 Stat. 1637, prov
 
 #### Report of Chairman of Joint Chiefs of Staff on Roles and Missions of Armed Forces
 
-Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staffunder subsec. (b) of this section after Jan. 1, 1992, and directed the Chairman to include in the report comments and recommendations.
+Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staff under subsec. (b) of this section after Jan. 1, 1992, and directed the Chairman to include in the report comments and recommendations.
 
 #### Transition Provisions
 
 Pub. L. 99–433, title II, §204(a), (b), Oct. 1, 1986, 100 Stat. 1011, provided dates for establishment of the uniform system of evaluating the preparedness of each unified and specified combatant command and for submission of the first report.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2464 of this title.
 

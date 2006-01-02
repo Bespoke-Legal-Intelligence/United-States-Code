@@ -38,7 +38,7 @@ The recipient shall agree to maintain and provide the grantee or the Secretary w
 
 For purposes of environmental review, a grant under this chapter shall be treated as assistance for a special project that is subject to section 3547 of this title, and shall be subject to the regulations issued by the Secretary to implement such section.
 
-(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811; Pub. L. 106–377, §1(a)(1) \[title II, §203(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24.)
+(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811; Pub. L.106–377, §1(a)(1) \[title II, §203(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24.)
 
 #### References in Text
 

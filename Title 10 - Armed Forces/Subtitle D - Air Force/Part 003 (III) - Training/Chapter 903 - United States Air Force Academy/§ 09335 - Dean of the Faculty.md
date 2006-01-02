@@ -1,10 +1,10 @@
 ### §9335. Dean of the Faculty
 
-(a) The Dean of the Faculty is responsible to the Superintendent for developing and sustaining the curriculum and overseeing the faculty of the Academy. The qualifications, selection procedures, training, pay grade, and retention of the Dean shall be prescribed by the Secretary of the Air Force. If a person appointed as the Dean is not an officer on active duty, the person shall be appointed as a member of the Senior Executive Service.
+(a) The Dean of the Faculty is responsible to the Superintendent for developing and sustaining the curriculum and overseeing the faculty of the Academy. The qualifications, selection procedures, training, pay grade, and retention of the Dean shall be prescribed by the Secretary of the Air Force, except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person's academic field. If a person appointed as the Dean is not an officer on active duty, the person shall be appointed as a member of the Senior Executive Service.
 
 (b) While serving as Dean of the Faculty, an officer on active duty who holds a grade lower than brigadier general (or the equivalent) shall hold the grade of brigadier general (or the equivalent), if appointed to that grade by the President, by and with the advice and consent of the Senate. The retirement age of an officer so appointed is that of a permanent professor of the Academy. An officer so appointed is counted for purposes of the applicable limitation in section 526(a) of this title on general officers on active duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 108–136, div. A, title V, §529(a), (b), Nov. 24, 2003, 117 Stat. 1471.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 108–136, div. A, title V, §529(a), (b), Nov. 24, 2003, 117 Stat. 1471; Pub. L. 108–375, div. A, title V, §542, Oct. 28, 2004, 118 Stat. 1904.)
 
 Historical and Revision Notes<br>1956
 
@@ -33,6 +33,8 @@ In subsection (b), the word “grade” is substituted for the word “rank”. 
 The word “regular” is deleted \[in sections 9335 and 9336\] to make clear that a Dean or professor of the United States Air Force Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375 inserted “, except that a person may not be appointed or assigned as Dean unless that person holds the highest academic degree in that person's academic field” after “Secretary of the Air Force”.
 
 2003—Subsec. (a). Pub. L. 108–136, §529(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Dean of the Faculty shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.”
 

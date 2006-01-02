@@ -40,7 +40,3 @@ Members of Individual Ready Reserve.—Notwithstanding any other provision of th
 
 1996—Subsec. (g). Pub. L. 104–201 added subsec. (g).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12521 of this title.
-

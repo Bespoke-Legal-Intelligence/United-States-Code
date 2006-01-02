@@ -6,11 +6,7 @@ If the taxpayer elects the application of this section, there shall be allowed a
 
 #### (b) Limitation on amounts paid into Fund
 
-The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
-
-&emsp;(1) the amount of nuclear decommissioning costs allocable to the Fund which is included in the taxpayer's cost of service for ratemaking purposes for such taxable year, or
-
-&emsp;(2) the ruling amount applicable to such taxable year.
+The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the ruling amount applicable to such taxable year.
 
 #### (c) Income and deductions of the taxpayer
 
@@ -32,13 +28,13 @@ For purposes of this section—
 
 #### (1) Request required
 
-&emsp;No deduction shall be allowed for any payment to the Fund unless the taxpayer requests, and receives, from the Secretary a schedule of ruling amounts.
+&emsp;No deduction shall be allowed for any payment to the Fund unless the taxpayer requests, and receives, from the Secretary a schedule of ruling amounts. For purposes of the preceding sentence, the taxpayer shall request a schedule of ruling amounts upon each renewal of the operating license of the nuclear powerplant.
 
 #### (2) Ruling amount
 
 &emsp;The term “ruling amount” means, with respect to any taxable year, the amount which the Secretary determines under paragraph (1) to be necessary to—
 
-&emsp;&emsp;(A) fund that portion of the nuclear decommissioning costs of the taxpayer with respect to the nuclear powerplant which bears the same ratio to the total nuclear decommissioning costs with respect to such nuclear powerplant as the period for which the Fund is in effect bears to the estimated useful life of such nuclear powerplant, and
+&emsp;&emsp;(A) fund the total nuclear decommissioning costs with respect to such power plant over the estimated useful life of such power plant, and
 
 &emsp;&emsp;(B) prevent any excessive funding of such costs or the funding of such costs at a rate more rapid than level funding, taking into account such discount rates as the Secretary deems appropriate.
 
@@ -56,25 +52,17 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;There is hereby imposed on the gross income of the Fund for any taxable year a tax at the rate set forth in subparagraph (B), except that—
+&emsp;&emsp;There is hereby imposed on the gross income of the Fund for any taxable year a tax at the rate of 20 percent, except that—
 
 &emsp;&emsp;&emsp;(i) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
 
 &emsp;&emsp;&emsp;(ii) there shall be allowed as a deduction to the Fund any amount paid by the Fund which is described in paragraph (4)(B) (other than an amount paid to the taxpayer) and which would be deductible under this chapter for purposes of determining the taxable income of a corporation.
 
-#### (B) Rate of tax
-
-&emsp;&emsp;For purposes of subparagraph (A), the rate set forth in this subparagraph is—
-
-&emsp;&emsp;&emsp;(i) 22 percent in the case of taxable years beginning in calendar year 1994 or 1995, and
-
-&emsp;&emsp;&emsp;(ii) 20 percent in the case of taxable years beginning after December 31, 1995.
-
-#### (C) Tax in lieu of other taxation
+#### (B) Tax in lieu of other taxation
 
 &emsp;&emsp;The tax imposed by subparagraph (A) shall be in lieu of any other taxation under this subtitle of the income from assets in the Fund.
 
-#### (D) Fund treated as corporation
+#### (C) Fund treated as corporation
 
 &emsp;&emsp;For purposes of subtitle F—
 
@@ -84,7 +72,7 @@ For purposes of this section—
 
 #### (3) Contributions to Fund
 
-&emsp;The Fund shall not accept any payments (or other amounts) other than payments with respect to which a deduction is allowable under subsection (a).
+&emsp;Except as provided in subsection (f), the Fund shall not accept any payments (or other amounts) other than payments with respect to which a deduction is allowable under subsection (a).
 
 #### (4) Use of Fund
 
@@ -108,17 +96,87 @@ For purposes of this section—
 
 &emsp;Upon substantial completion of the nuclear decommissioning of the nuclear powerplant with respect to which a Fund relates, the taxpayer shall terminate such Fund.
 
-#### (f) Nuclear powerplant
+#### (f) Transfers into qualified funds
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (b), any taxpayer maintaining a Fund to which this section applies with respect to a nuclear power plant may transfer into such Fund not more than an amount equal to the present value of the portion of the total nuclear decommissioning costs with respect to such nuclear power plant previously excluded for such nuclear power plant under subsection (d)(2)(A) as in effect immediately before the date of the enactment of this subsection.
+
+#### (2) Deduction for amounts transferred
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (C), the deduction allowed by subsection (a) for any transfer permitted by this subsection shall be allowed ratably over the remaining estimated useful life (within the meaning of subsection (d)(2)(A)) of the nuclear power plant beginning with the taxable year during which the transfer is made.
+
+#### (B) Denial of deduction for previously deducted amounts
+
+&emsp;&emsp;No deduction shall be allowed for any transfer under this subsection of an amount for which a deduction was previously allowed to the taxpayer (or a predecessor) or a corresponding amount was not included in gross income of the taxpayer (or a predecessor). For purposes of the preceding sentence, a ratable portion of each transfer shall be treated as being from previously deducted or excluded amounts to the extent thereof.
+
+#### (C) Transfers of qualified funds
+
+&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;(i) any transfer permitted by this subsection is made to any Fund to which this section applies, and
+
+&emsp;&emsp;&emsp;(ii) such Fund is transferred thereafter,
+
+> &emsp;&emsp;any deduction under this subsection for taxable years ending after the date that such Fund is transferred shall be allowed to the transferor for the taxable year which includes such date.
+
+#### (D) Special rules
+
+#### (i) Gain or loss not recognized on transfers to Fund
+
+&emsp;&emsp;&emsp;No gain or loss shall be recognized on any transfer described in paragraph (1).
+
+#### (ii) Transfers of appreciated property to Fund
+
+&emsp;&emsp;&emsp;If appreciated property is transferred in a transfer described in paragraph (1), the amount of the deduction shall not exceed the adjusted basis of such property.
+
+#### (3) New ruling amount required
+
+&emsp;Paragraph (1) shall not apply to any transfer unless the taxpayer requests from the Secretary a new schedule of ruling amounts in connection with such transfer.
+
+#### (4) No basis in qualified funds
+
+&emsp;Notwithstanding any other provision of law, the taxpayer's basis in any Fund to which this section applies shall not be increased by reason of any transfer permitted by this subsection.
+
+#### (g) Nuclear powerplant
 
 For purposes of this section, the term “nuclear powerplant” includes any unit thereof.
 
-#### (g) Time when payments deemed made
+#### (h) Time when payments deemed made
 
 For purposes of this section, a taxpayer shall be deemed to have made a payment to the Fund on the last day of a taxable year if such payment is made on account of such taxable year and is made within 21/2 months after the close of such taxable year.
 
-(Added Pub. L. 98–369, div. A, title I, §91(c)(1), July 18, 1984, 98 Stat. 604; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, 100 Stat. 2812, 2813; Pub. L. 102–486, title XIX, §1917(a), (b), Oct. 24, 1992, 106 Stat. 3024, 3025; Pub. L. 104–188, title I, §1704(j)(6), Aug. 20, 1996, 110 Stat. 1882.)
+(Added Pub. L. 98–369, div. A, title I, §91(c)(1), July 18, 1984, 98 Stat. 604; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, 100 Stat. 2812, 2813; Pub. L. 102–486, title XIX, §1917(a), (b), Oct. 24, 1992, 106 Stat. 3024, 3025; Pub. L. 104–188, title I, §1704(j)(6), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 109–58, title XIII, §1310(a)–(e), Aug. 8, 2005, 119 Stat. 1007–1009.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58, §1310(a), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
+
+&emsp;“(1) the amount of nuclear decommissioning costs allocable to the Fund which is included in the taxpayer's cost of service for ratemaking purposes for such taxable year, or
+
+&emsp;“(2) the ruling amount applicable to such taxable year.”
+
+Subsec. (d)(1). Pub. L. 109–58, §1310(c), inserted at end “For purposes of the preceding sentence, the taxpayer shall request a schedule of ruling amounts upon each renewal of the operating license of the nuclear powerplant.”
+
+Subsec. (d)(2)(A). Pub. L. 109–58, §1310(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “fund that portion of the nuclear decommissioning costs of the taxpayer with respect to the nuclear powerplant which bears the same ratio to the total nuclear decommissioning costs with respect to such nuclear powerplant as the period for which the Fund is in effect bears to the estimated useful life of such nuclear powerplant, and”.
+
+Subsec. (e)(2)(A). Pub. L. 109–58, §1310(e)(1), substituted “rate of 20 percent” for “rate set forth in subparagraph (B)” in introductory provisions.
+
+Subsec. (e)(2)(B) to (D). Pub. L. 109–58, §1310(e)(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rate set forth in this subparagraph is—
+
+&emsp;“(i) 22 percent in the case of taxable years beginning in calendar year 1994 or 1995, and
+
+&emsp;“(ii) 20 percent in the case of taxable years beginning after December 31, 1995.”
+
+Subsec. (e)(3). Pub. L. 109–58, §1310(d), substituted “Except as provided in subsection (f), the Fund” for “The Fund”.
+
+Subsecs. (f) to (h). Pub. L. 109–58, §1310(b)(1), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 1996—Subsec. (e)(2)(A). Pub. L. 104–188 provided that the amendment made by section 1917(b)(1) of Pub. L. 102–486 shall be applied as if “at a rate” appeared instead of “at the rate” in the material proposed to be stricken. See 1992 Amendment note below.
 
@@ -140,7 +198,7 @@ Subsec. (e)(1). Pub. L. 99–514, §1807(a)(4)(E)(iv), substituted “this secti
 
 Subsec. (e)(2). Pub. L. 99–514, §1807(a)(4)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
 
-&emsp;“(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
+&emsp;“(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect towhich a deduction is allowable under subsection (a), and
 
 &emsp;“(B) there shall be allowed as a deduction any amount paid by the Fund described in paragraph (4)(B) (other than to the taxpayer).”
 
@@ -151,6 +209,10 @@ Subsec. (e)(6). Pub. L. 99–514, §1807(a)(4)(E)(v), substituted “this sectio
 Subsec. (f). Pub. L. 99–514, §1807(a)(4)(E)(vi), substituted “For purposes of this section, the” for “The”.
 
 Subsec. (g). Pub. L. 99–514, §1807(a)(4)(A)(i), added subsec. (g).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title XIII, §1310(f), Aug. 8, 2005, 119 Stat. 1009, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
 
 #### Effective Date of 1992 Amendment
 
@@ -166,7 +228,7 @@ Subsection (b).—The amendments made by subsection (b) \[amending this section\
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, towhich such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 
@@ -179,8 +241,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Transitional Rule
 
 Section 1807(a)(4)(A)(ii) of Pub. L. 99–514 provided that: “To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 21/2 months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 21/2 months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 21/2 months after the close of the taxable year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 172 of this title.
 

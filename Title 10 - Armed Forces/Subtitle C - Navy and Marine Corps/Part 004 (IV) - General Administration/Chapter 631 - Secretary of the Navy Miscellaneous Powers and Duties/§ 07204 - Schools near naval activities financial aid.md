@@ -14,7 +14,7 @@
 
 (b) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 442; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §513(24), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–525, title XIV, §1401(j)(3)(A), (B), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–145, title XIII, §1303(a)(23), Nov. 8, 1985, 99 Stat. 739.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 442; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §513(24), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–525, title XIV, §1401(j)(3)(A), (B),Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–145, title XIII, §1303(a)(23), Nov. 8, 1985, 99 Stat. 739.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,7 @@ Aug. 2, 1946, ch. 756, §40(b), (c), 60 Stat. 858.
 
 Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
-In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 5 U.S.C. 421d contains no authority for the Secretary of the Navy toprescribe regulations for the administration of that section.
+In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 5 U.S.C. 421d contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
 #### Amendments
 

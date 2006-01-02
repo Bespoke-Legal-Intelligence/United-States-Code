@@ -18,7 +18,7 @@
 
 &emsp;(7) concern for high standards of design.
 
-(c) To the extent possible, all national, regional, State, and local viewpoints shall be considered in planning development programs and projects of the United States Government or assisted by the Government. State and local government objectives and the objectives of regional organizations shall be considered within a framework of national public objectives expressed in laws of the United States. Availableprojections of future conditions in the United States and needs of regions, States, and localities shall be considered in plan formulation, evaluation, and review.
+(c) To the extent possible, all national, regional, State, and local viewpoints shall be considered in planning development programs and projects of the United States Government or assisted by the Government. State and local government objectives and the objectives of regional organizations shall be considered within a framework of national public objectives expressed in laws of the United States. Available projections of future conditions in the United States and needs of regions, States, and localities shall be considered in plan formulation, evaluation, and review.
 
 (d) To the maximum extent possible and consistent with national objectives, assistance for development purposes shall be consistent with and further the objectives of State, regional, and local comprehensive planning. Consideration shall be given to all developmental aspects of our total national community, including housing, transportation, economic development, natural and human resources development, community facilities, and the general improvement of living environments.
 

@@ -68,7 +68,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;&emsp;(iii) the distributee, at such time and in such manner as the Secretary by regulations prescribes, files an agreement to notify the Secretary of any acquisition described in clause (ii) and to retain such records as may be necessary for the application of this paragraph.
 
-> &emsp;&emsp;If the distributee acquires such an interest in the corporation (other than by bequest or inheritance) within 10 years from the date of the distribution, then the periods of limitation provided in sections 6501 and 6502 on the making of an assessment and the collection by levy or a proceeding in court shall, with respect to any deficiency (including interest and additions to the tax) resulting from such acquisition, include one year immediately following the date on which the distributee (in accordance with regulations prescribed by the Secretary) notifies the Secretary of such acquisition; and such assessment and collection may be made notwithstanding any provision of law or rule of law which otherwise would prevent such assessment and collection.
+> &emsp;&emsp;If the distributee acquires such an interest in the corporation (other than by bequest or inheritance) within 10 years from the date of the distribution, then the periods of limitation provided in sections 6501 and 6502 on the making of an assessment and the collection by levy or a proceeding in court shall, with respect to any deficiency (including interest and additions to the tax) resulting from such acquisition, include one year immediately following the date on which the distributee\(in accordance with regulations prescribed by the Secretary) notifies the Secretary of such acquisition; and such assessment and collection may be made notwithstanding any provision of law or rule of law which otherwise would prevent such assessment and collection.
 
 &emsp;&emsp;(B) Subparagraph (A) of this paragraph shall not apply if—
 
@@ -114,7 +114,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 #### (2) Termination of business
 
-&emsp;The distributions which meet the requirements of paragraph (1)(A) shall include (butshall not be limited to) a distribution which meets the requirements of subparagraphs (A) and (B) of this paragraph:
+&emsp;The distributions which meet the requirements of paragraph (1)(A) shall include (but shall not be limited to) a distribution which meets the requirements of subparagraphs (A) and (B) of this paragraph:
 
 &emsp;&emsp;(A) The distribution is attributable to the distributing corporation's ceasing to conduct, or consists of the assets of, a qualified trade or business.
 
@@ -220,7 +220,7 @@ Extension of time for adopting plan where acquisition subject to federal regulat
 
 &emsp;&emsp;“(iii)
 
-Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offerresulted in the intervention by such foreign regulatory body before July 23, 1982—
+Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporation was subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
 
 &emsp;&emsp;&emsp;“(I) such public announcement shall be treated as a tender offer, and
 
@@ -263,8 +263,4 @@ Amendment by Pub. L. 96–589 applicable to stock which is issued after Dec. 31,
 #### Savings Provisions
 
 Applicability of subsec. (b)(1) to the determination of gross investment income under sections 4940 and 4948(a) of this title, see section 101(<i>l</i>)(8) of Pub. L. 91–172, set out as a note under section 4940 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 48, 301, 304, 306, 312, 318, 562, 857, 1059, 1246, 1368, 1445 of this title.
 

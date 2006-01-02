@@ -154,7 +154,3 @@ Section 1013(f)(1) of Pub. L. 94–455 provided that: “The amendments made by 
 
 &emsp;“(B) transfers of property to foreign trusts after May 21, 1974.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 678, 6048 of this title.
-

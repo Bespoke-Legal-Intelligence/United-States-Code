@@ -48,7 +48,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;(iv) the Comptroller General shall, within 30 days after receiving such plan, review such plan and submit to such committees an assessment of the explanation for the subsequent transfer or transfers.
 
-&emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
+&emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or willincur, such costs, and shall, subject to paragraph (2), remain available until expended.
 
 #### (2) Retransfer to fund
 

@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) 23 percent of the maximum number of visas that may be made available under section 1153(a) of this title to immigrants of the state or area described in section 1153(a)(2) of this title consistent with subsection (e) of this section, or
 
-&emsp;&emsp;&emsp;(ii) the number (if any) by which the maximum number of visas that may be made available under section 1153(a) of this title to immigrants of the state or area described in section 1153(a)(2) of this title consistent with subsection (e) of thissection exceeds the number of visas issued under section 1153(a)(2)(A) of this title,
+&emsp;&emsp;&emsp;(ii) the number (if any) by which the maximum number of visas that may bemade available under section 1153(a) of this title to immigrants of the state or area described in section 1153(a)(2) of this title consistent with subsection (e) of this section exceeds the number of visas issued under section 1153(a)(2)(A) of this title,
 
 > &emsp;&emsp;whichever is greater.
 
@@ -80,7 +80,7 @@ If it is determined that the total number of immigrant visas made available unde
 
 &emsp;(1) the ratio of the visa numbers made available under section 1153(a) of this title to the visa numbers made available under section 1153(b) of this title is equal to the ratio of the worldwide level of immigration under section 1151(c) of this title to such level under section 1151(d) of this title;
 
-&emsp;(2) except as provided in subsection (a)(4) of this section, the proportion of the visa numbers made available under each of paragraphs (1) through (4) of section 1153(a) of this title is equal to the ratio of the total number of visas made available under the respective paragraphto the total number of visas made available under section 1153(a) of this title, and
+&emsp;(2) except as provided in subsection (a)(4) of this section, the proportion of the visa numbers made available under each of paragraphs (1) through (4) of section 1153(a) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(a) of this title, and
 
 &emsp;(3) except as provided in subsection (a)(5) of this section, the proportion of the visa numbers made available under each of paragraphs (1) through (5) of section 1153(b) of this title is equal to the ratio of the total number of visas made available under the respective paragraph to the total number of visas made available under section 1153(b) of this title.
 
@@ -186,7 +186,7 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Treatment of Hong Kong Under Per Country Levels
 
-Section 103 of Pub. L. 101–649 provided that: “The approval referred to in the first sentence of section 202(b) of the Immigration and Nationality Act \[8 U.S.C. 1152(b)\] shall be considered to have been granted, effective beginning with fiscal year 1991, with respect toHong Kong as a separate foreign state, and not as a colony or other component or dependent area of another foreign state, except that the total number of immigrant visas made available to natives of Hong Kong under subsections (a) and (b) of section 203 of such Act \[8 U.S.C. 1153(a), (b)\] in each of fiscal years 1991, 1992, and 1993 may not exceed 10,000.”
+Section 103 of Pub. L. 101–649 provided that: “The approval referred to in the first sentence of section 202(b)of the Immigration and Nationality Act \[8 U.S.C. 1152(b)\] shall be considered to have been granted, effective beginning with fiscal year 1991, with respect to Hong Kong as a separate foreign state, and not as a colony or other component or dependent area of another foreign state, except that the total number of immigrant visas made available to natives of Hong Kong under subsections (a) and (b) of section 203 of such Act \[8 U.S.C. 1153(a), (b)\] in each of fiscal years 1991, 1992, and 1993 may not exceed 10,000.”
 
 \[Section 103 of Pub. L. 101–649 effective Nov. 29, 1990, and (unless otherwise provided) applicable to fiscal year 1991, see section 161(b) of Pub. L. 101–649, set out as an Effective Date of 1990 Amendment note under section 1101 of this title.\]
 

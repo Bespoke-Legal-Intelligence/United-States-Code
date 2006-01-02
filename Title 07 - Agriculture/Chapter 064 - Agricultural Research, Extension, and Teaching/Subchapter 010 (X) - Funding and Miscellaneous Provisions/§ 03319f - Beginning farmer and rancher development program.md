@@ -136,7 +136,7 @@ The Secretary shall establish a beginning farmer and rancher development program
 
 #### (e) Curriculum and training clearinghouse
 
-The Secretary shall establish an online clearinghouse that makes available to beginningfarmers or ranchers education curricula and training materials and programs, which may include online courses for direct use by beginning farmers or ranchers.
+The Secretary shall establish an online clearinghouse that makes available to beginning farmers or ranchers education curricula and training materials and programs, which may include online courses for direct use by beginning farmers or ranchers.
 
 #### (f) Stakeholder input
 

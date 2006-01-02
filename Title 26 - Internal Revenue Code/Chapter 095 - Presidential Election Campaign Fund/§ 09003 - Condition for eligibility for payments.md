@@ -26,7 +26,7 @@ In order to be eligible to receive any payments under section 9006, the candidat
 
 &emsp;(1) such candidates and their authorized committees will not incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004, and
 
-&emsp;(2) such candidates and their authorized committees will accept and expend or retaincontributions to defray qualified campaign expenses only to the extent that the qualified campaign expenses incurred by such candidates and their authorized committees certified to under paragraph (1) exceed the aggregate payments received by such candidates out of the fund pursuant to section 9006.
+&emsp;(2) such candidates and their authorized committees will accept and expend or retain contributions to defray qualified campaign expenses only to the extent that the qualified campaign expenses incurred by such candidates and their authorized committees certified to under paragraph (1) exceed the aggregate payments received by such candidates out of the fund pursuant to section 9006.
 
 > Such certification shall be made within such time prior to the day of the presidential election as the Commission shall prescribe by rules or regulations.
 
@@ -73,10 +73,6 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning after Dec. 31, 1972, see section 6(d) of Pub. L. 93–53, set out as a note under section 6096 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9002, 9004, 9005 of this title; title 2 section 441a.
 
 <i><sup>1</sup></i><i> So in original. Section 9006(d) redesignated 9006(c) by Pub. L. 94–283.</i>
 

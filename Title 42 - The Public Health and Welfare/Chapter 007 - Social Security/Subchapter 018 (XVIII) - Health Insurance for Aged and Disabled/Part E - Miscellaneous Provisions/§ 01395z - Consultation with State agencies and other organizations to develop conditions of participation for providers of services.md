@@ -16,7 +16,7 @@ Subsection (j) of section 1395x of this title, referred to in text, was amended 
 
 1989—Pub. L. 101–239 substituted “(jj)(3), and (mm)(1)” for “and (jj)(3)”.
 
-Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(2), 204(c)(1), and provided that the provisions of lawamended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
+Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(2), 204(c)(1), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 Amendment notes below.
 
 1988—Pub. L. 100–360, §204(c)(1), inserted “or whether screening mammography meets the standards established under section 1395m(e)(3) of this title,” after “1395k(a)(2)(F)(i) of this title,”.
 

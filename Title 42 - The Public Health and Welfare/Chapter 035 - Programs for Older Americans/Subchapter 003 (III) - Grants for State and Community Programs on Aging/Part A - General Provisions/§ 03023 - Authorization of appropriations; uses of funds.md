@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 106–501, §302(2), added subsec. (b) and struck out forme
 
 “(2) There are authorized to be appropriated $120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services).
 
-“(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carryout subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).”
+“(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carry out subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).”
 
 Subsecs. (d) to (g). Pub. L. 106–501, §302(3), added subsecs. (d) and (e) and struck out former subsecs. (d) to (g) which authorized appropriations for fiscal years 1992 to 1995 to carry out parts D to G of this subchapter.
 

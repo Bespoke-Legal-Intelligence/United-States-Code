@@ -6,7 +6,7 @@ Adjustment or Surcharge Authorized.—Notwithstanding any other provision of law
 
 (b)
 
-Use for Construction, Repair, Improvement, and Maintenance.—(1) The Secretary of Defense may use the proceeds from the adjustments or surcharges authorized by subsection (a) only—
+Use for Construction, Repair, Improvement, and Maintenance.—(1) The Secretary ofDefense may use the proceeds from the adjustments or surcharges authorized by subsection (a) only—
 
 &emsp;(A) to acquire (including acquisition by lease), construct, convert, expand, improve, repair, maintain, and equip the physical infrastructure of commissary stores and central product processing facilities of the defense commissary system; and
 
@@ -65,8 +65,4 @@ Subsec. (d). Pub. L. 103–337, §2851(a), added subsec. (d).
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title III, §333(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–60, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2001.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2486 of this title.
 

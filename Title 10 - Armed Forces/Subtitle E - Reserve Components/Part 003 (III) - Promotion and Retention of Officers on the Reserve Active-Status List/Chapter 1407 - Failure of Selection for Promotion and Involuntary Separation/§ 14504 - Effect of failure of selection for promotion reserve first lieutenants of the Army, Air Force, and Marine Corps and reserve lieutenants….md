@@ -18,7 +18,3 @@ Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Ful
 
 2001—Subsec. (c). Pub. L. 107–107 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14513, 14703 of this title.
-

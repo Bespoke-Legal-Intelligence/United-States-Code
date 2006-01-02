@@ -24,10 +24,13 @@
 | [3295\.](%C2%A7%2003295%20-%20Arson%20offenses.md) | Arson offenses. |
 | [3296\.](%C2%A7%2003296%20-%20Counts%20dismissed%20pursuant%20to%20a%20plea%20agreement.md) | Counts dismissed pursuant to a plea agreement. |
 | [3297\.](%C2%A7%2003297%20-%20Cases%20involving%20DNA%20evidence.md) | Cases involving DNA evidence. |
+| [3298\.](%C2%A7%2003298%20-%20Trafficking-related%20offenses.md) | Trafficking-related offenses <sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–162, title XI, §1182(b), Jan. 5, 2006, 119 Stat. 3126, added item 3298.
 
 2004—Pub. L. 108–405, title II, §204(b), Oct. 30, 2004, 118 Stat. 2271, added item 3297.
 
@@ -48,6 +51,8 @@
 1951—Act June 30, 1951, ch. 194, §2, 65 Stat. 107, added item 3291.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 108–21 without corresponding amendment of chapter analysis.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---
@@ -71,3 +76,4 @@
 - [&sect; 03295 - Arson offenses](%C2%A7%2003295%20-%20Arson%20offenses.md)
 - [&sect; 03296 - Counts dismissed pursuant to a plea agreement](%C2%A7%2003296%20-%20Counts%20dismissed%20pursuant%20to%20a%20plea%20agreement.md)
 - [&sect; 03297 - Cases involving DNA evidence](%C2%A7%2003297%20-%20Cases%20involving%20DNA%20evidence.md)
+- [&sect; 03298 - Trafficking-related offenses](%C2%A7%2003298%20-%20Trafficking-related%20offenses.md)

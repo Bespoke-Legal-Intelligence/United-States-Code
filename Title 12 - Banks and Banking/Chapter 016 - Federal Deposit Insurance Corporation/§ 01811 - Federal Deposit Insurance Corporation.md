@@ -40,6 +40,10 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 
 Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Federal Deposit Insurance Reform Conforming Amendments Act of 2005’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: “This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78<i>l</i>, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the ‘2004 District of Columbia Omnibus Authorization Act’.”
@@ -124,7 +128,7 @@ Section 1221 of Pub. L. 101–73 provided that: “If any provision of this Act 
 
 #### Construction of 1999 Amendments
 
-Pub. L. 106–102, title II, §210, Nov. 12, 1999, 113 Stat. 1396, provided that: “Nothing in this Act \[see Short Title of 1999 Amendment note above\] shall supersede, affect, or otherwise limit the scope and applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.).”
+Pub. L. 106–102, title II, §210, Nov. 12, 1999, 113 Stat. 1396, provided that: “Nothing in this Act \[see ShortTitle of 1999 Amendment note above\] shall supersede, affect, or otherwise limit the scope and applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.).”
 
 Pub. L. 106–102, title VII, §714, Nov. 12, 1999, 113 Stat. 1470, provided that: “Nothing in this Act \[see Short Title of 1999 Amendment note above\] shall be construed to repeal any provision of the Community Reinvestment Act of 1977 \[12 U.S.C. 2901 et seq.\].”
 
@@ -234,7 +238,7 @@ Study.—
 
 &emsp;“(1)
 
-In general.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’) shall, after consultation with the Advisory Commission on Financial Services established under subsection (b), and consultation in accordance with paragraph (3), conduct a study of matters relating to the strengths and weaknesses of the United States financial services system in meeting the needs of the system's users, including the needs of—
+In general.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’) shall, after consultation with the Advisory Commission on Financial Services established under subsection (b), and consultation in accordance with paragraph (3), conduct a study of matters relating tothe strengths and weaknesses of the United States financial services system in meeting the needs of the system's users, including the needs of—
 
 &emsp;&emsp;“(A) individual consumers and households;
 
@@ -566,7 +570,7 @@ Section 1204 of Pub. L. 101–73 provided that:
 
 “(a)
 
-Consultation on Expanded Use.—The Secretary of the Treasury shall consult with the appropriate Federal banking agencies and the National Credit Union Administration Board on methods for increasing the use of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
+Consultation on Expanded Use.—The Secretary of the Treasury shall consult with the appropriate Federal banking agencies and the National Credit Union Administration Board on methods for increasing theuse of underutilized minority banks, women's banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
 
 “(b)
 

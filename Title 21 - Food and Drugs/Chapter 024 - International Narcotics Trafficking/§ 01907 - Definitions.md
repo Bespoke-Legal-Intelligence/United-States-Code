@@ -24,7 +24,7 @@ As used in this chapter:
 
 #### (6) United States person
 
-&emsp;The term “United States person” means any United States citizen or national, permanent resident alien, an entity organized under the laws of the United States (including its foreign branches), or any person within the United States.
+&emsp;The term “United States person” means any United States citizen or national, permanent resident alien, an entity organized under thelaws of the United States (including its foreign branches), or any person within the United States.
 
 #### (7) Significant foreign narcotics trafficker
 

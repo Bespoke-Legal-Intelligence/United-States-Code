@@ -40,7 +40,7 @@ Section 1862(b) of the Social Security Act, referred to in subsec. (c), is class
 
 1993—Subsec. (a). Pub. L. 103–66, §13561(e)(2)(A)(i), which directed insertion of “(including a self-employed person)” after “employer”, was executed by making the insertion after “employer” the first time it appeared, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 103–66, §13561(e)(2)(A)(ii), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘group health plan’ means any plan of, or contributed to by, an employer (including a self-insured plan) to provide health care (directly or otherwise) to the employer'semployees, former employees, or the families of such employees or former employees.”
+Subsec. (b)(1). Pub. L. 103–66, §13561(e)(2)(A)(ii), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘group health plan’ means any plan of, or contributed to by, an employer (including a self-insured plan) to provide health care (directly or otherwise) to the employer's employees, former employees, or the families of such employees or former employees.”
 
 Subsec. (b)(2). Pub. L. 103–66, §13561(d)(2), inserted at end “For purposes of the preceding sentence—” and added subpars. (A) to (C).
 
@@ -65,10 +65,6 @@ Amendment by Pub. L. 101–239 applicable to items and services furnished after 
 #### Effective Date
 
 Section applicable to items and services furnished on or after Jan. 1, 1987, see section 9319(f) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment note under section 1395y of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4980B, 6103, 9832 of this title; title 29 section 2614; title 42 sections 300bb–8, 1395y, 1396e.
 
 ## Subtitle E—Alcohol, Tobacco, and Certain Other Excise Taxes
 
@@ -98,13 +94,9 @@ This section is referred to in sections 4980B, 6103, 9832 of this title; title 2
 
 1997—Pub. L. 105–33, title IX, §9302(g)(3)(D), Aug. 5, 1997, 111 Stat. 673, added item relating to chapter 52 and struck out former item relating to chapter 52 “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes”.
 
-1988—Pub. L. 100–647, title V, §5061(c)(4), Nov. 10, 1988, 102 Stat. 3680, substituted “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes” for “Tobacco, cigars, cigarettes, smokeless tobacco, and cigarette papers and tubes” in item relating to chapter 52.
+1988—Pub. L. 100–647, title V, §5061(c)(4), Nov. 10, 1988, 102 Stat. 3680, substituted “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers andtubes” for “Tobacco, cigars, cigarettes, smokeless tobacco, and cigarette papers and tubes” in item relating to chapter 52.
 
 Pub. L. 100–647, title I, §1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, inserted “smokeless tobacco,” after “cigarettes,” in item relating to chapter 52.
 
 1987—Pub. L. 100–203, title X, §10228(c), Dec. 22, 1987, 101 Stat. 1330–418, added item relating to chapter 54.
-
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 6091, 6103, 6422, 6652, 6806, 7103, 7272, 7608, 7613, 7851 of this title.
 

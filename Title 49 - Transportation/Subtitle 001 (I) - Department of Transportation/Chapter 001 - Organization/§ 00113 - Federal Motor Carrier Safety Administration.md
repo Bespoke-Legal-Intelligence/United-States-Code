@@ -130,7 +130,7 @@ Continuance of Actions Against Officers.—No suit, action, or other proceeding 
 
 “(f)
 
-Exercise of Authorities.—Except as otherwise provided by law, an officer or employee of the Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible forthe performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.
+Exercise of Authorities.—Except as otherwise provided by law, an officer or employee of the Administration may, for purposes of performing a function transferred by this Act or the amendments made by this Act, exercise all authorities under any other provision of law that were available with respect to the performance of that function to the official responsible for the performance of the function immediately before the effective date of the transfer of the function under this Act or the amendments made by this Act.
 
 “(g)
 

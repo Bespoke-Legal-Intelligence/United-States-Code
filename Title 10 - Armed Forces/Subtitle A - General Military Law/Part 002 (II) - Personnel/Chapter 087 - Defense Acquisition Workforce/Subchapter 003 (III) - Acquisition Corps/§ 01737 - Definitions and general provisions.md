@@ -44,7 +44,3 @@ Subsec. (d). Pub. L. 108–136, §832(b)(4), struck out heading and text of subs
 
 Subsec. (c)(2)(B). Pub. L. 102–190, §1061(a)(8), struck out comma after “Director of Acquisition”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1733 of this title.
-

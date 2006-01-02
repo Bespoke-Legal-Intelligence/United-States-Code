@@ -32,7 +32,7 @@
 
 #### (6) Within-session sequestration
 
-&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
+&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breachwithin a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
 
 #### (7) Estimates
 
@@ -62,41 +62,37 @@ Concepts and definitions.—When the President submits the budget under section 
 
 &emsp;(B)
 
-Adjustment to align highway spending with revenues.—(i) When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to the highway category for the budget year and each outyear as provided in clause (ii)(I)(cc).
+Adjustment to align highway spending with revenues.—(i) When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall make adjustments to the highway category for the budget year and each outyear as provided in clause (ii)(I)(cc).
 
 &emsp;(ii)(I)(aa) OMB shall take the actual level of highway receipts for the year before the current year and subtract the sum of the estimated level of highway receipts in subclause (II) plus any amount previously calculated under item (bb) for that year.
 
-&emsp;(bb) OMB shall take the current estimate of highway receipts for the budget year and subtract the estimated level of receipts for that year.
+&emsp;(bb) OMB shall take the current estimate of highway receipts for the current year and subtract the estimated level of receipts for that year.
 
-&emsp;(cc) OMB shall take the sum of the amounts calculated under items (aa) and (bb), add that sum to the amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century for the highway category for the budget year, and calculate the outlay change resulting from that change in obligations relative to that amount for the budget year and each outyear using current estimates. After making the calculation under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year by adding the sum of the amounts calculated under items (aa) and (bb).
+&emsp;(cc) OMB shall add one-half of the sum of the amount calculated under items (aa) and (bb) to the obligation limitations set forth in the section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users and, using current estimates, calculate the outlay change resulting from the change in obligations for the budget year and the first outyear and the outlays flowing therefrom through subsequent fiscal years. After making the calculations under the preceding sentence, OMB shall adjust the amount of obligations set forth in that section for the budget year and the first outyear by adding one-half of the sum of the amount calculated under items (aa) and (bb) to each such year.
 
 &emsp;(II) The estimated level of highway receipts for the purposes of this clause are—
 
-&emsp;&emsp;(aa) for fiscal year 1998, $22,164,000,000;
+&emsp;&emsp;(aa) for fiscal year 2005, $31,562,000,000;
 
-&emsp;&emsp;(bb) for fiscal year 1999, $32,619,000,000;
+&emsp;&emsp;(bb) for fiscal year 2006, $33,712,000,000;
 
-&emsp;&emsp;(cc) for fiscal year 2000, $28,066,000,000;
+&emsp;&emsp;(cc) for fiscal year 2007, $34,623,000,000 <sup>2</sup>
 
-&emsp;&emsp;(dd) for fiscal year 2001, $28,506,000,000;
+&emsp;&emsp;(dd) for fiscal year 2008, $35,449,000,000; and
 
-&emsp;&emsp;(ee) for fiscal year 2002, $28,972,000,000; and
-
-&emsp;&emsp;(ff) for fiscal year 2003, $29,471,000,000.
+&emsp;&emsp;(ee) for fiscal year 2009, $36,220,000,000.
 
 &emsp;(III) In this clause, the term “highway receipts” means the governmental receipts credited to the highway account of the Highway Trust Fund.
 
-&emsp;(C)(i) In addition to the adjustment required by subparagraph (B), when the President submits the budget under section 1105 of title 31 for fiscal years <sup>2</sup> 2000, 2001, 2002, or 2003, OMB shall calculate and the budget shall include for the budget year and each outyear an adjustment to the limits on outlays for the highway category and the mass transit category equal to—
+&emsp;(C) In addition to the adjustment required by subparagraph (B), when the President submits the budget under section 1105 of title 31 for fiscal year 2007, 2008, or 2009, OMB shall calculate and the budget shall include for the budget year and each outyear an adjustment to the limits on outlays for the highway category and the mass transit category equal to—
 
-&emsp;&emsp;(I) the outlays for the applicable category calculated assuming obligation levels consistent with the estimates prepared pursuant to subparagraph (D), as adjusted, using current technical assumptions; minus
+&emsp;&emsp;(i) the outlays for the applicable category calculated assuming obligation levels consistent with the estimates prepared pursuant to subparagraph (D), as adjusted, using current technical assumptions; minus
 
-&emsp;&emsp;(II) the outlays for the applicable category set forth in the subparagraph (D) estimates, as adjusted.
+&emsp;&emsp;(ii) the outlays for the applicable category set forth in the subparagraph (D) estimates, as adjusted.
 
-&emsp;(ii) The adjustment made pursuant to clause (i) in the fiscal years 2002 and 2003 budget submissions of the President under section 1105(a) of title 31 shall not exceed 4 percent plus cumulative carryovers. In this clause, the term “cumulative carryovers” means the total of each amount by which outlays for the highway and mass transit category for any fiscal year are less than the outlay limit for that category, as adjusted, for that year less any amount of carryover used in the previous year.
+&emsp;(D)(i) When OMB and CBO submit their final sequester report for fiscal year 2006, that report shall include an estimate of the outlays for each of the categories that would result in fiscal years 2007 through 2010 from obligations at the levels specified in section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users using current assumptions.
 
-&emsp;(D)(i) When OMB and CBO submit their final sequester report for fiscal year 1999, that report shall include an estimate of the outlays for each of the categories that would result in fiscal years 2000 through 2003 from obligations at the levels specified in section 8103 of the Transportation Equity Act for the 21st Century using current assumptions.
-
-&emsp;(ii) When the President submits the budget under section 1105 of title 31 for fiscal years <sup>2</sup> 2000, 2001, 2002, or 2003, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
+&emsp;(ii) When the President submits the budget under section 1105 of title 31 for fiscal year 2007, 2008, 2009, or 2010, OMB shall adjust the estimates made in clause (i) by the adjustments by subparagraphs (B) and (C).
 
 &emsp;(E) OMB shall consult with the Committees on the Budget and include a report on adjustments under subparagraphs (B) and (C) in the preview report.
 
@@ -136,7 +132,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (D) Allowance for IMF
 
-&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 thatincludes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to—
+&emsp;&emsp;If an appropriation bill or joint resolution is enacted for a fiscal year through 2002 that includes an appropriation with respect to clause (i) or (ii), the adjustment shall be the amount of budget authority in the measure that is the dollar equivalent of the Special Drawing Rights with respect to—
 
 &emsp;&emsp;&emsp;(i) an increase in the United States quota as part of the International Monetary Fund Eleventh General Review of Quotas (United States Quota); or
 
@@ -186,33 +182,55 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 As used in this subchapter, the term “discretionary spending limit” means—
 
-&emsp;(1) with respect to fiscal year 2004—
+&emsp;(1) with respect to fiscal year 2005—
 
-&emsp;&emsp;(A) for the highway category: $31,834,000,000 in outlays;
+&emsp;&emsp;(A) for the highway category: $31,277,000,000 in outlays;
 
-&emsp;&emsp;(B) for the mass transit category: $1,462,000,000 in new budget authority and $6,629,000,000 in outlays; and
+&emsp;&emsp;(B) for the mass transit category: $955,792,000 in new budget authority and $6,674,000,000 in outlays;
 
-&emsp;&emsp;(C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;
+&emsp;(2) with respect to fiscal year 2006—
 
-&emsp;(2) with respect to fiscal year 2005 for the conservation spending category: $2,240,000,000, in new budget authority and $2,192,000,000 in outlays;
+&emsp;&emsp;(A) for the highway category: $33,942,000,000 in outlays;
 
-&emsp;(3) with respect to fiscal year 2006 for the conservation spending category: $2,400,000,000, in new budget authority and $2,352,000,000 in outlays;
+&emsp;&emsp;(B) for the mass transit category: $1,643,000,000 in new budget authority and $7,359,000,000 in outlays;
 
-&emsp;(4) with respect to each fiscal year 2002 through 2006 for the Federal and State Land and Water Conservation Fund sub-category of the conservation spending category: $540,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;(3) with respect to fiscal year 2007—
 
-&emsp;(5) with respect to each fiscal year 2002 through 2006 for the State and Other Conservation sub-category of the conservation spending category: $300,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;&emsp;(A) for the highway category: $36,960,000,000 in outlays;
 
-&emsp;(6) with respect to each fiscal year 2002 through 2006 for the Urban and Historic Preservation sub-category of the conservation spending category: $160,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;&emsp;(B) for the mass transit category: $1,712,000,000 in new budget authority and $8,120,000,000 in outlays;
 
-&emsp;(7) with respect to each fiscal year 2002 through 2006 for the Payments in Lieu of Taxes sub-category of the conservation spending category: $50,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;(4) with respect to fiscal year 2008—
 
-&emsp;(8) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;&emsp;(A) for the highway category: $39,123,000,000 in outlays;
 
-&emsp;(9) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;&emsp;(B) for the mass transit category: $1,858,000,000 in new budget authority and $8,742,000,000 in outlays;
+
+&emsp;(5) with respect to fiscal year 2009—
+
+&emsp;&emsp;(A) for the highway category: $40,660,000,000 in outlays;
+
+&emsp;&emsp;(B) for the mass transit category: $1,977,500,000 in new budget authority and $9,180,000,000 in outlays;
+
+&emsp;(6) with respect to fiscal year 2005 for the conservation spending category: $2,240,000,000, in new budget authority and $2,192,000,000 in outlays;
+
+&emsp;(7) with respect to fiscal year 2006 for the conservation spending category: $2,400,000,000, in new budget authority and $2,352,000,000 in outlays;
+
+&emsp;(8) with respect to each fiscal year 2002 through 2006 for the Federal and State Land and Water Conservation Fund sub-category of the conservation spending category: $540,000,000 in new budget authority and the outlays flowing therefrom;
+
+&emsp;(9) with respect to each fiscal year 2002 through 2006 for the State and Other Conservation sub-category of the conservation spending category: $300,000,000 in new budget authority and the outlays flowing therefrom;
+
+&emsp;(10) with respect to each fiscal year 2002 through 2006 for the Urban and Historic Preservation sub-category of the conservation spending category: $160,000,000 in new budget authority and the outlays flowing therefrom;
+
+&emsp;(11) with respect to each fiscal year 2002 through 2006 for the Payments in Lieu of Taxes sub-category of the conservation spending category: $50,000,000 in new budget authority and the outlays flowing therefrom;
+
+&emsp;(12) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
+
+&emsp;(13) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
 
 > as adjusted in strict conformance with subsection (b) of this section.
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916.)
 
 #### Termination of Section
 
@@ -220,17 +238,27 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 #### References in Text
 
-Section 8103 of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(1)(B)(ii)(I)(cc), (D)(i), is section 8103 of Pub. L. 105–178, which is set out as a note below.
+Section 8003 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, referred to in subsec. (b)(1)(B)(ii)(I)(cc), (D)(i), is section 8003 of Pub. L. 109–59, which is set out as a note below.
 
 Section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(2)(C)(ii)(I), is section 211 of Pub. L. 104–193, which amended this section, section 665e of this title, and section 1382c of Title 42, The Public Health and Welfare, enacted provisions set out as a note under section 1382c of Title 42, and amended provisions set out as a note under section 401 of Title 42.
 
-Subsecs. (c)(11) to (c)(16) of this section, referred to in subsec. (b)(2)(H)(ii), were redesignated subsecs. (c)(4) to (c)(9) of this section, respectively, by Pub. L. 108–88, §10(b)(2), Sept. 30, 2003, 117 Stat. 1127.
+Subsecs. (c)(11) to (c)(16) of this section, referred to in subsec. (b)(2)(H)(ii), were redesignated subsecs. (c)(4) to (c)(9) of this section, respectively, by Pub. L. 108–88, §10(b)(2), Sept. 30, 2003, 117 Stat. 1127, and subsequently redesignated subsecs. (c)(8) to (c)(13) of this section, respectively, by Pub. L. 109–59, title VIII, §8001(a), Aug. 10, 2005, 119 Stat. 1915.
 
 #### Codification
 
 Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 #### Amendments
+
+2005—Subsec. (b)(1)(B) to (E). Pub. L. 109–59, §8002, reenacted heading of subpar. (B) without change and amended text of subpars. (B) to (E) generally. Prior to amendment, subpar. (B) provided for adjustments to align highway spending with revenues using amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century and estimates of receipts for fiscal years 1998 through 2003, subpar. (C) provided for additional adjustments required in budget submissions for fiscal years 2000 through 2003, subpar. (D) provided for a final sequester report for fiscal year 1999 and an adjustment of estimates upon submission of the budget for fiscal years 2000 through 2003, and subpar. (E) required consultation with the Committees on the Budget and inclusion of a report on adjustments under subparagraphs (B) and (C) in the preview report.
+
+Subsec. (c). Pub. L. 109–59, §8001(a), added pars. (1) to (5), redesignated former pars. (2) to (9) as (6) to (13), respectively, and struck out former par. (1) which read as follows: “with respect to fiscal year 2004—
+
+&emsp;“(A) for the highway category: $31,834,000,000 in outlays;
+
+&emsp;“(B) for the mass transit category: $1,462,000,000 in new budget authority and $6,629,000,000 in outlays; and
+
+&emsp;“(C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;”.
 
 2004—Subsec. (b)(2). Pub. L. 108–310, §10(a), which directed amendment of par. (2) by striking out “through 2002” in introductory provisions, could not be executed because the phrase “through 2002” did not appear subsequent to amendment by Pub. L. 108–88, §10(a). See 2003 Amendment note below.
 
@@ -354,49 +382,45 @@ Adjustment of discretionary spending limit for fy2002.—The discretionary spend
 
 #### Level of Obligation Limitations
 
-Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, §11(a), (b), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–310, §11(a), (b), Sept. 30, 2004, 118 Stat. 1161, provided that:
+Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, provided that:
 
 “(a)
 
 Highway Category.—For the purposes of section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
 
-&emsp;“(1) for fiscal year 1999, $25,883,000,000;
+&emsp;“(1) for fiscal year 2005, $35,164,292,000;
 
-&emsp;“(2) for fiscal year 2000, $26,629,000,000;
+&emsp;“(2) for fiscal year 2006, $37,220,843,903;
 
-&emsp;“(3) for fiscal year 2001, $27,158,000,000;
+&emsp;“(3) for fiscal year 2007, $39,460,710,516;
 
-&emsp;“(4) for fiscal year 2002, $27,767,000,000;
+&emsp;“(4) for fiscal year 2008, $40,824,075,404; and
 
-&emsp;“(5) for fiscal year 2003, $28,233,000,000;
-
-&emsp;“(6) for fiscal year 2004, $34,498,000,000; and
-
-&emsp;“(7) for fiscal year 2005, $35,392,000,000.
+&emsp;“(5) for fiscal year 2009, $42,469,970,178.
 
 “(b)
 
 Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985, the level of obligation limitations for the mass transit category is—
 
-&emsp;“(1) for fiscal year 1999, $5,365,000,000;
+&emsp;“(1) for fiscal year 2005, $7,646,336,000;
 
-&emsp;“(2) for fiscal year 2000, $5,797,000,000;
+&emsp;“(2) for fiscal year 2006, $8,622,931,000;
 
-&emsp;“(3) for fiscal year 2001, $6,271,000,000;
+&emsp;“(3) for fiscal year 2007, $8,974,775,000;
 
-&emsp;“(4) for fiscal year 2002, $6,747,000,000;
+&emsp;“(4) for fiscal year 2008, $9,730,893,000; and
 
-&emsp;“(5) for fiscal year 2003, $7,226,000,000;
-
-&emsp;“(6) for fiscal year 2004, $7,303,000,000; and
-
-&emsp;“(7) for fiscal year 2005, $7,265,000,000.
+&emsp;“(5) for fiscal year 2009, $10,338,065,000.
 
 > For purposes of this subsection, the term ‘obligation limitations’ means the sum of budget authority and obligation limitations.”
 
+Similar provisions for prior fiscal years were contained in the following prior act:
+
+Pub. L. 105–178, title VIII, §8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, §11(a), (b), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–310, §11(a), (b), Sept. 30, 2004, 118 Stat. 1161.
+
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “year”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@
 
 #### (4) Revocation of commission of officers found not qualified
 
-&emsp;The President may revoke the commission of any officer appointed under this section during the officer's first three years of service if the officer is found not qualified for the service. Any such revocation shall be made under regulations prescribed by the President.
+&emsp;The President may revoke the commission of any officer appointed under this section during the officer's first three years of service if the officer is found not qualified for theservice. Any such revocation shall be made under regulations prescribed by the President.
 
 #### (b) Lineal list
 

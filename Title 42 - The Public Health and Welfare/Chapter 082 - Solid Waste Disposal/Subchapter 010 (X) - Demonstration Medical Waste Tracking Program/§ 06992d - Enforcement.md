@@ -12,11 +12,11 @@
 
 #### (3) Public hearing
 
-&emsp;Any order issued under this subsection shall become final unless, not later than 30 daysafter issuance of the order, the persons named therein request a public hearing. Upon such request, the Administrator shall promptly conduct a public hearing. In connection with any proceeding under this section, the Administrator may issue subpoenas for the production of relevant papers, books, and documents, and may promulgate rules for discovery procedures.
+&emsp;Any order issued under this subsection shall become final unless, not later than 30 days after issuance of the order, the persons named therein request a public hearing. Upon such request, the Administrator shall promptly conduct a public hearing. In connection with any proceeding under this section, the Administrator may issue subpoenas for the production of relevant papers, books, and documents, and may promulgate rules for discovery procedures.
 
 #### (4) Violation of compliance orders
 
-&emsp;In the case of an order under this subsection requiring compliance with any requirement of or regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order.
+&emsp;In the case of an order under this subsection requiring compliance with any requirement of or regulation under this subchapter, if a violator fails to take corrective action within the time specified in an order, the Administratormay assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order.
 
 #### (b) Criminal penalties
 

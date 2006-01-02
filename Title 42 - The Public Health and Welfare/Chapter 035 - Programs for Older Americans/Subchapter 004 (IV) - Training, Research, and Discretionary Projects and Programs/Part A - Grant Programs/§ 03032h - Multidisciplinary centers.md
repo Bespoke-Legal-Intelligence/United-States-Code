@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Assistant Secretary may make grants to public and private nonprofit agencies, organizations, and institutions for the purpose of establishing or supporting multidisciplinary centersof gerontology, and gerontology centers of special emphasis (including emphasis on nutrition, employment, health (including mental health), disabilities (including severe disabilities), income maintenance, counseling services, supportive services, minority populations, and older individuals residing in rural areas).
+The Assistant Secretary may make grants to public and private nonprofit agencies, organizations, and institutions for the purpose of establishing or supporting multidisciplinary centers of gerontology, and gerontology centers of special emphasis (including emphasis on nutrition, employment, health (including mental health), disabilities (including severe disabilities), income maintenance, counseling services, supportive services, minority populations, and older individuals residing in rural areas).
 
 #### (b) Use of funds
 

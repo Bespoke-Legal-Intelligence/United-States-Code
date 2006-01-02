@@ -2,7 +2,7 @@
 
 (a) Except as provided by subsections (b), (d), (e), (f), and (g) of this section, annual leave provided by section 6303 of this title, which is not used by an employee, accumulates for use in succeeding years until it totals not more than 30 days at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year.
 
-(b) Annual leave not used by an employee of the Government of the United States in one of the following classes of employees stationed outside the United States accumulates for use in succeeding years until it totals not more than 45 days at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year:
+(b) Annual leave not used by an employee of the Government of the United States in one of the following classes of employees stationedoutside the United States accumulates for use in succeeding years until it totals not more than 45 days at the beginning of the first full biweekly pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, occurring in a year:
 
 &emsp;(1) Individuals directly recruited or transferred by the Government of the United States from the United States or its territories or possessions including the Commonwealth of Puerto Rico for employment outside the area of recruitment or from which transferred.
 
@@ -52,7 +52,7 @@
 
 &emsp;(ii) the term “combat zone” has the meaning given such term in section 112(c)(2) of the Internal Revenue Code of 1986.
 
-(e) Annual leave otherwise accruable after June 30, 1960, which is lost by operation of this section because of administrative error and which is not credited under subsection (d)(2) of this section because the employee is separated before the error is discovered, is subject to credit and liquidation by lump-sum payment only if a claim therefor is filed within 3 years immediately following the date of discovery of the error. Payment shall be made by the agency of employment when the lump-sum payment provisions of section 5551 of this title last became applicable to the employee at the rate of basic pay in effect on the date the lump-sum provisions became applicable.
+(e) Annual leave otherwise accruable after June 30, 1960, which is lost by operation of this section because of administrative error and which is not credited under subsection (d)(2) of this section because the employee is separated before the error is discovered, is subject to credit and liquidation by lump-sum payment only ifa claim therefor is filed within 3 years immediately following the date of discovery of the error. Payment shall be made by the agency of employment when the lump-sum payment provisions of section 5551 of this title last became applicable to the employee at the rate of basic pay in effect on the date the lump-sum provisions became applicable.
 
 (f)(1) This subsection applies with respect to annual leave accrued by an individual while serving in a position in—
 
@@ -176,7 +176,7 @@ Subsecs. (d), (e). Pub. L. 93–181, §3(2), added subsecs. (d) and (e).
 
 #### Effective Date of 1994 Amendments
 
-Section 201(a) of Pub. L. 103–356 provided that the amendment made by that section is effective on the first day of the first applicable pay period beginning after Oct. 13, 1994.
+Section 201(a) of Pub. L. 103–356 provided that the amendment made by that section is effective on thefirst day of the first applicable pay period beginning after Oct. 13, 1994.
 
 Section 2816(b) of Pub. L. 103–337 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply only with respect to the restoration of annual leave of employees at military installations undergoing realignment if such leave is lost by operation of section 6304 of title 5, United States Code, on or after the date of the enactment of this Act \[Oct. 5, 1994\].”
 

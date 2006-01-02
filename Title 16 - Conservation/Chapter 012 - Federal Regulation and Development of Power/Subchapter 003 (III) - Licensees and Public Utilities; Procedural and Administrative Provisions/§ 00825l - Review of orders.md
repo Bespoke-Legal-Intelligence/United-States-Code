@@ -2,7 +2,7 @@
 
 #### (a) Application for rehearing; time periods; modification of order
 
-Any person, State, municipality, or State commission aggrieved by an order issued by the Commission in a proceeding under this chapter to which such person, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any person unless such person shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b) of this section, the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.
+Any person, electric utility, State, municipality, or State commission aggrieved by an order issued by the Commission in a proceeding under this chapter to which such person, electric utility, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any entity unless such entity shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b) of this section, the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, anyfinding or order made or issued by it under the provisions of this chapter.
 
 #### (b) Judicial review
 
@@ -12,13 +12,15 @@ Any party to a proceeding under this chapter aggrieved by an order issued by the
 
 The filing of an application for rehearing under subsection (a) of this section shall not, unless specifically ordered by the Commission, operate as a stay of the Commission's order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
 
-(June 10, 1920, ch. 285, pt. III, §313, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 860; amended June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §16, Aug. 28, 1958, 72 Stat. 947.)
+(June 10, 1920, ch. 285, pt. III, §313, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 860; amended June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §16, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title XII, §1284(c), Aug. 8, 2005, 119 Stat. 980.)
 
 #### Codification
 
 In subsec. (b), “section 1254 of title 28” substituted for “sections 239 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 346 and 347)” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58 inserted “electric utility,” after “Any person,” and “to which such person,” and substituted “brought by any entity unless such entity” for “brought by any person unless such person”.
 
 1958—Subsec. (a). Pub. L. 85–791, §16(a), inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals.
 
@@ -27,10 +29,4 @@ Subsec. (b). Pub. L. 85–791, §16(b), in second sentence, substituted “trans
 #### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 

@@ -20,7 +20,7 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
 
 > &emsp;Prior to making any detailed statement, the responsible Federal official shall consult with and obtain the comments of any Federal agency which has jurisdiction by law or special expertise with respect to any environmental impact involved. Copies of such statement and the comments and views of the appropriate Federal, State, and local agencies, which are authorized to develop and enforce environmental standards, shall be made available to the President, the Council on Environmental Quality and to the public as provided by section 552 of title 5, and shall accompany the proposal through the existing agency review processes;
 
-&emsp;(D) Any detailed statement required under subparagraph (C) after January 1, 1970, for any major Federal action funded under a program of grants to States shall not be deemed to be legally insufficient solely by reason of having been prepared by a State agency or official, if:
+&emsp;(D) Any detailed statement required under subparagraph (C) after January 1, 1970, for any major Federal action funded under a programof grants to States shall not be deemed to be legally insufficient solely by reason of having been prepared by a State agency or official, if:
 
 &emsp;&emsp;(i) the State agency or official has statewide jurisdiction and has the responsibility for such action,
 
@@ -28,7 +28,7 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
 
 &emsp;&emsp;(iii) the responsible Federal official independently evaluates such statement prior to its approval and adoption, and
 
-&emsp;&emsp;(iv) after January 1, 1976, the responsible Federal official provides early notification to, and solicits the views of, any other State or any Federal land management entity of any action or any alternative thereto which may have significant impacts upon such State or affected Federal land management entity and, if there is any disagreement on such impacts, prepares a written assessmentof such impacts and views for incorporation into such detailed statement.
+&emsp;&emsp;(iv) after January 1, 1976, the responsible Federal official provides early notification to, and solicits the views of, any other State or any Federal land management entity of any action or any alternative thereto which may have significant impacts upon such State or affected Federal land management entity and, if there is any disagreement on such impacts, prepares a written assessment of such impacts and views for incorporation into such detailed statement.
 
 > &emsp;The procedures in this subparagraph shall not relieve the Federal official of his responsibilities for the scope, objectivity, and content of the entire statement or of any other responsibility under this chapter; and further, this subparagraph does not affect the legal sufficiency of statements prepared by State agencies with less than statewide jurisdiction.<sup>1</sup>
 

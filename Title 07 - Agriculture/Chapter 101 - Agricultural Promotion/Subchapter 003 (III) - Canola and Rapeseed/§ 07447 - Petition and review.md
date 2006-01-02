@@ -12,7 +12,7 @@
 
 #### (2) Hearings
 
-&emsp;The petitioner shall be given the opportunity for a hearing on a petition filed underparagraph (1), in accordance with regulations issued by the Secretary.
+&emsp;The petitioner shall be given the opportunity for a hearing on a petition filed under paragraph (1), in accordance with regulations issued by the Secretary.
 
 #### (3) Ruling
 

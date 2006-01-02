@@ -12,7 +12,7 @@
 
 (b) Notwithstanding the fact that a labor organization has adopted or subscribed to standards of conduct as provided in subsection (a) of this section, the organization is required to furnish evidence of its freedom from corrupt influences or influences opposed to basic democratic principles if there is reasonable cause to believe that—
 
-&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction, by a parent labor organization, or federation of organizations with which it had been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a) of this section; or
+&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction,by a parent labor organization, or federation of organizations with which it had been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a) of this section; or
 
 &emsp;(2) the organization is in fact subject to influences that would preclude recognition under this chapter.
 

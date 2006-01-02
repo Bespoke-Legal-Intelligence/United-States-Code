@@ -8,10 +8,13 @@
 | [<b>37.</b>](Chapter%20037%20-%20United%20States%20Marshals%20Service/README.md) | <b>United States Marshals Service</b> | <b>561</b> |
 | [<b>39.</b>](Chapter%20039%20-%20United%20States%20Trustees/README.md) | <b>United States Trustees</b> | <b>581</b> |
 | [<b>40.</b>](Chapter%20040%20-%20Independent%20Counsel/README.md) | <b>Independent Counsel</b> | <b>591</b> |
+| [<b>40A.</b>](Chapter%20040A%20-%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives/README.md) | <b>Bureau of Alcohol, Tobacco, Firearms, and Explosives</b> | <b>2599A</b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–162, title XI, §1187(d), Jan. 5, 2006, 119 Stat. 3128, added item for chapter 40A.
 
 2002—Pub. L. 107–273, div. B, title IV, §4003(b)(6), Nov. 2, 2002, 116 Stat. 1812, inserted “Service” after “Marshals” in item for chapter 37.
 
@@ -36,3 +39,4 @@ Pub. L. 95–521, title VI, §601(b), Oct. 26, 1978, 92 Stat. 1873, added item f
 - [Chapter 037 - United States Marshals Service](Chapter%20037%20-%20United%20States%20Marshals%20Service/README.md)
 - [Chapter 039 - United States Trustees](Chapter%20039%20-%20United%20States%20Trustees/README.md)
 - [Chapter 040 - Independent Counsel](Chapter%20040%20-%20Independent%20Counsel/README.md)
+- [Chapter 040A - Bureau of Alcohol, Tobacco, Firearms, and Explosives](Chapter%20040A%20-%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives/README.md)

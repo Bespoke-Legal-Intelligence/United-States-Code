@@ -2,11 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, any individual who loses United States citizenship (within the meaning of section 877(a)) shall provide a statement which includes the information described in subsection (b). Such statement shall be—
-
-&emsp;(1) provided not later than the earliest date of any act referred to in subsection (c), and
-
-&emsp;(2) provided to the person or court referred to in subsection (c) with respect to such act.
+Notwithstanding any other provision of law, any individual to whom section 877(b) applies for any taxable year shall provide a statement for such taxable year which includes the information described in subsection (b).
 
 #### (b) Information to be provided
 
@@ -20,33 +16,23 @@ Information required under subsection (a) shall include—
 
 &emsp;(4) the foreign country of which such individual is a citizen,
 
-&emsp;(5) in the case of an individual having a net worth of at least the dollar amount applicable under section 877(a)(2)(B), information detailing the assets and liabilities of such individual, and
+&emsp;(5) information detailing the income, assets, and liabilities of such individual,
 
-&emsp;(6) such other information as the Secretary may prescribe.
+&emsp;(6) the number of days during any portion of which that the individual was physically present in the United States during the taxable year, and
 
-#### (c) Acts described
+&emsp;(7) such other information as the Secretary may prescribe.
 
-For purposes of this section, the acts referred to in this subsection are—
+#### (c) Penalty
 
-&emsp;(1) the individual's renunciation of his United States nationality before a diplomatic or consular officer of the United States pursuant to paragraph (5) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(5)),
+If—
 
-&emsp;(2) the individual's furnishing to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
+&emsp;(1) an individual is required to file a statement under subsection (a) for any taxable year, and
 
-&emsp;(3) the issuance by the United States Department of State of a certificate of loss of nationality to the individual, or
+&emsp;(2) fails to file such a statement with the Secretary on or before the date such statement is required to be filed or fails to include all the information required to be shown on the statement or includes incorrect information,
 
-&emsp;(4) the cancellation by a court of the United States of a naturalized citizen's certificate of naturalization.
+> such individual shall pay a penalty of $10,000 unless it is shown that such failure is due to reasonable cause and not to willful neglect.
 
-#### (d) Penalty
-
-Any individual failing to provide a statement required under subsection (a) shall be subject to a penalty for each year (of the 10-year period beginning on the date of loss of United States citizenship) during any portion of which such failure continues in an amount equal to the greater of—
-
-&emsp;(1) 5 percent of the tax required to be paid under section 877 for the taxable year ending during such year, or
-
-&emsp;(2) $1,000,
-
-> unless it is shown that such failure is due to reasonable cause and not to willful neglect.
-
-#### (e) Information to be provided to Secretary
+#### (d) Information to be provided to Secretary
 
 Notwithstanding any other provision of law—
 
@@ -62,23 +48,53 @@ Notwithstanding any other provision of law—
 
 > Notwithstanding any other provision of law, not later than 30 days after the close of each calendar quarter, the Secretary shall publish in the Federal Register the name of each individual losing United States citizenship (within the meaning of section 877(a)) with respect to whom the Secretary receives information under the preceding sentence during such quarter.
 
-#### (f) Reporting by long-term lawful permanent residents who cease to be taxed as residents
-
-In lieu of applying the last sentence of subsection (a), any individual who is required to provide a statement under this section by reason of section 877(e)(1) shall provide such statement with the return of tax imposed by chapter 1 for the taxable year during which the event described in such section occurs.
-
-#### (g) Exemption
-
-The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.
-
-(Added Pub. L. 104–191, title V, §512(a), Aug. 21, 1996, 110 Stat. 2100, §6039F; renumbered §6039G, Pub. L. 105–34, title XVI, §1602(h)(1), Aug. 5, 1997, 111 Stat. 1096.)
+(Added Pub. L. 104–191, title V, §512(a), Aug. 21, 1996, 110 Stat. 2100, §6039F; renumbered §6039G, Pub. L. 105–34, title XVI, §1602(h)(1), Aug. 5, 1997, 111 Stat. 1096; amended Pub. L. 108–357, title VIII, §804(e), Oct. 22, 2004, 118 Stat. 1572.)
 
 #### References in Text
 
-Section 358 of the Immigration and Nationality Act, referred to in subsec. (e)(2), is classified to section 1501 of Title 8, Aliens and Nationality.
+Section 358 of the Immigration and Nationality Act, referred to in subsec. (d)(2), is classified to section 1501 of Title 8, Aliens and Nationality.
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–357, §804(e)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, any individual who loses United States citizenship (within the meaning of section 877(a)) shall provide a statement which includes the information described in subsection (b). Such statement shall be—
+
+&emsp;“(1) provided not later than the earliest date of any act referred to in subsection (c), and
+
+&emsp;“(2) provided to the person or court referred to in subsection (c) with respect to such act.”
+
+Subsec. (b). Pub. L. 108–357, §804(e)(2), reenacted heading, introductory provisions, and pars. (1) to (4) without change, in par. (5), substituted “information detailing the income, assets, and liabilities of such individual,” for “in the case of an individual having a net worth of at least the dollar amount applicable under section 877(a)(2)(B), information detailing the assets and liabilities of such individual, and”, added par. (6), and redesignated former par. (6) as (7).
+
+Subsec. (c). Pub. L. 108–357, §804(e)(4), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of this section, the acts referred to in this subsection are—
+
+&emsp;“(1) the individual's renunciation of his United States nationality before a diplomatic or consular officer of the United States pursuant to paragraph (5) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(5)),
+
+&emsp;“(2) the individual's furnishing to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
+
+&emsp;“(3) the issuance by the United States Department of State of a certificate of loss of nationality to the individual, or
+
+&emsp;“(4) the cancellation by a court of the United States of a naturalized citizen's certificate of naturalization.”
+
+Subsec. (d). Pub. L. 108–357, §804(e)(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Pub. L. 108–357, §804(e)(3), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Any individual failing to provide a statement required under subsection (a) shall be subject to a penalty for each year (of the 10-year period beginning on the date of loss of United States citizenship) during any portion of which such failure continues in an amount equal to the greater of—
+
+&emsp;“(1) 5 percent of the tax required to be paid under section 877 for the taxable year ending during such year, or
+
+&emsp;“(2) $1,000,
+
+> unless it is shown that such failure is due to reasonable cause and not to willful neglect.”
+
+Subsec. (e). Pub. L. 108–357, §804(e)(4), redesignated subsec. (e) as (d).
+
+Subsec. (f). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (f). Text read as follows: “In lieu of applying the last sentence of subsection (a), any individual who is required to provide a statement under this section by reason of section 877(e)(1) shall provide such statement with the return of tax imposed by chapter 1 for the taxable year during which the event described in such section occurs.”
+
+Subsec. (g). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (g). Text read as follows: “The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.”
+
 1997—Pub. L. 105–34 renumbered section 6039F as this section.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
 
 #### Effective Date
 
@@ -91,8 +107,4 @@ Section 512(c) of Pub. L. 104–191 provided that: “The amendments made by thi
 &emsp;“(2) long-term residents of the United States with respect to whom an event described in subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after such date.
 
 > In no event shall any statement required by such amendments be due before the 90th day after the date of the enactment of this Act \[Aug. 21, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 877 of this title.
 

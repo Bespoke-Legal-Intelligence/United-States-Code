@@ -24,7 +24,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 &emsp;(2) In the event of a vaccine-related death, an award of $250,000 for the estate of the deceased.
 
-&emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual andanticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
+&emsp;(3)(A) In the case of any person who has sustained a vaccine-related injury after attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded, compensation for actual and anticipated loss of earnings determined in accordance with generally recognized actuarial principles and projections.
 
 &emsp;(B) In the case of any person who has sustained a vaccine-related injury before attaining the age of 18 and whose earning capacity is or has been impaired by reason of such person's vaccine-related injury for which compensation is to be awarded and whose vaccine-related injury is of sufficient severity to permit reasonable anticipation that such person is likely to suffer impaired earning capacity at age 18 and beyond, compensation after attaining the age of 18 for loss of earnings determined on the basis of the average gross weekly earnings of workers in the private, non-farm sector, less appropriate taxes and the average cost of a health insurance policy, as determined by the Secretary.
 
@@ -70,7 +70,7 @@ Compensation awarded under the Program may not include the following:
 
 (1) Except as provided in paragraph (2), no compensation may be paid until an election has been made, or has been deemed to have been made, under section 300aa–21(a) of this title to receive compensation.
 
-(2) Compensation described in subsection (a)(1)(A)(iii) of this section shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an election under section 300aa–21(a) of this title to file a civil action for damages for the vaccine-related injury or death for which such compensation was awarded.
+(2) Compensation described in subsection (a)(1)(A)(iii) of this section shall be paid from the date of the judgment of the United States Court of Federal Claims under section 300aa–12 of this title awarding the compensation. Such compensation may not be paid after an electionunder section 300aa–21(a) of this title to file a civil action for damages for the vaccine-related injury or death for which such compensation was awarded.
 
 (3) Payments of compensation under the Program and the costs of carrying out the Program shall be exempt from reduction under any order issued under part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
@@ -110,7 +110,7 @@ For the payment of compensation under the Program to a petitioner for a vaccine-
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (f)(3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§900 et seq.) of chapter 20 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
-The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -130,7 +130,7 @@ A prior section 2115 of act July 1, 1944, was successively renumbered by subsequ
 
 Subsec. (j). Pub. L. 102–531 increased authorization for fiscal year 1993 from $80,000,000 to $110,000,000.
 
-1991—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fundestablished under section 9510 of title 26” for “trust fund”.
+1991—Subsec. (f)(4)(A). Pub. L. 102–168, §201(e)(1)(A), (2), struck out “of the proceeds” after “portion” and substituted “Vaccine Injury Compensation Trust Fund established under section 9510 of title 26” for “trust fund”.
 
 Subsec. (f)(4)(B). Pub. L. 102–168, §201(e)(1)(B), which directed substitution of “shall be paid from appropriations made available under subsection (j) of this section in a lump sum of which all or a portion” for “paid in 4 equal installments of which all or portion of the proceeds” was executed by making the substitution for “paid in 4 equal annual installments of which all or a portion of the proceeds” to reflect the probable intent of Congress.
 
@@ -176,7 +176,7 @@ Subsec. (j). Pub. L. 100–360, §411(<i>o</i>)(1)(B), inserted “to the Depart
 
 1987—Subsec. (a). Pub. L. 100–203, §4302(b)(1), substituted “effective date of this subpart” for “effective date of this part”.
 
-Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as follows: “Payments for projected expenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum.”
+Pub. L. 100–203, §4303(d)(1)(A), struck out last two sentences which read as follows: “Payments for projectedexpenses shall be paid on a periodic basis (but no payment may be made for a period in excess of 1 year). Payments for pain and suffering and emotional distress and incurred expenses may be paid in a lump sum.”
 
 Subsec. (a)(1). Pub. L. 100–203, §4303(c), struck out last sentence of subpars. (A) and (B) each of which read as follows: “The amount of unreimbursable expenses which may be recovered under this subparagraph shall be limited to the amount in excess of the amount set forth in section 300aa–11(c)(1)(D)(ii) of this title.”
 
@@ -188,7 +188,7 @@ Subsec. (e)(1). Pub. L. 100–203, §4307(5), substituted “of the United State
 
 Subsec. (e)(2). Pub. L. 100–203, §4302(b), substituted “effective date of this subpart, filed a” for “effective date of this subchapter, filed a” and “effective date of this subpart in preparing” for “effective date of this part in preparing”.
 
-Subsec. (f). Pub. L. 100–203, §4303(d)(1)(B), (g), added par. (4) and redesignated a second subsec. (f), relatingto the Program not being primarily liable, as subsec. (g).
+Subsec. (f). Pub. L. 100–203, §4303(d)(1)(B), (g), added par. (4) and redesignated a second subsec. (f), relating to the Program not being primarily liable, as subsec. (g).
 
 Subsec. (f)(2). Pub. L. 100–203, §4307(6), substituted “United States Claims Court” for “district court of the United States”.
 

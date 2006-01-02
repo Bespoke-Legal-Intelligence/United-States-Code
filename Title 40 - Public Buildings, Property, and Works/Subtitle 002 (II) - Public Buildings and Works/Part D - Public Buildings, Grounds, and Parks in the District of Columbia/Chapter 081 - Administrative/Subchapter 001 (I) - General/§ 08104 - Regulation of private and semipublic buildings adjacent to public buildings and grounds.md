@@ -6,7 +6,7 @@ Factors for Development.—In view of the provisions of the Constitution respect
 
 (b)
 
-Submission of Application to Commission of Fine Arts.—The Mayor of the District of Columbia shall submit to the Commission on <sup>1</sup> Fine Arts an application for a permit to erect or alter any building, a part of which fronts or abuts on the grounds of the Capitol, the grounds of the White House, the part of Pennsylvania Avenue extending from the Capitol to the White House, Lafayette Park, Rock Creek Park, the Zoological Park, the Rock Creek and Potomac Parkway, Potomac Park, or The Mall Park System and public buildings adjacent to the System, or abuts on any street bordering any of those grounds or parks, so far as the plans relate to height and appearance, color, and texture of the materials of exterior construction.
+Submission of Application to Commission of Fine Arts.—The Mayor of the District of Columbia shall submit to the Commission on <sup>1</sup> Fine Arts an application for a permit to erect or alter any building, a part of which fronts or abuts onthe grounds of the Capitol, the grounds of the White House, the part of Pennsylvania Avenue extending from the Capitol to the White House, Lafayette Park, Rock Creek Park, the Zoological Park, the Rock Creek and Potomac Parkway, Potomac Park, or The Mall Park System and public buildings adjacent to the System, or abuts on any street bordering any of those grounds or parks, so far as the plans relate to height and appearance, color, and texture of the materials of exterior construction.
 
 (c)
 

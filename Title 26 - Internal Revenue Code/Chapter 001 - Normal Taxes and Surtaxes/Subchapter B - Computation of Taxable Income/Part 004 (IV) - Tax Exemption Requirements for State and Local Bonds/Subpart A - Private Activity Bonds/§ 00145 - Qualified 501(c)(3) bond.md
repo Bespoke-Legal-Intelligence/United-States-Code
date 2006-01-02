@@ -16,7 +16,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (1) In general
 
-&emsp;A bond (other than a qualified hospital bond) shall not be treated as a qualified 501(c)(3)bond if the aggregate authorized face amount of the issue (of which such bond is a part) allocated to any 501(c)(3) organization which is a test-period beneficiary (when increased by the outstanding tax-exempt nonhospital bonds of such organization) exceeds $150,000,000.
+&emsp;A bond (other than a qualified hospital bond) shall not be treated as a qualified 501(c)(3) bond if the aggregate authorized face amount of the issue (of which such bond is a part) allocated to any 501(c)(3) organization which is a test-period beneficiary (when increased by the outstanding tax-exempt nonhospital bonds of such organization) exceeds $150,000,000.
 
 #### (2) Outstanding tax-exempt nonhospital bonds
 
@@ -44,7 +44,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A bond shall be taken into account under subparagraph (B) only to the extent that the proceeds of the issue of which such bond is a part are not used with respect to a hospital.
+&emsp;&emsp;&emsp;A bond shall be taken into account under subparagraph (B) only to the extent thatthe proceeds of the issue of which such bond is a part are not used with respect to a hospital.
 
 #### (ii) Special rule
 
@@ -142,7 +142,7 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(5), is t
 
 #### Prior Provisions
 
-A prior section 145, act Aug. 16, 1954, ch. 736, 68A Stat. 42, made a cross reference to section 36 of this title, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 145, act Aug. 16, 1954, ch. 736, 68A Stat. 42, made a cross reference to section 36 of this title,prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
 
@@ -162,7 +162,7 @@ Subsecs. (d), (e). Pub. L. 100–647, §5053(a), added subsec. (d) and redesigna
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -208,9 +208,5 @@ Refundings.—The amendments made by this section shall not apply to any bond is
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 265, 1400L of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

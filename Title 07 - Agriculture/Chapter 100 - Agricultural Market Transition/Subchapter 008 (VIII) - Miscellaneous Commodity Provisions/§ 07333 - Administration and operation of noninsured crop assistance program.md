@@ -32,7 +32,7 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an applicationfor noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted not later than 30 days before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 

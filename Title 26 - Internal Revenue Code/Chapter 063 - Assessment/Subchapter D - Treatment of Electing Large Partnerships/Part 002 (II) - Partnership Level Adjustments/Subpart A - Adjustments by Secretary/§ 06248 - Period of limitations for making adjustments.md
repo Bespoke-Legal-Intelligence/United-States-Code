@@ -28,7 +28,7 @@ The period described in subsection (a) (including an extension period under this
 
 #### (4) Return filed by Secretary
 
-&emsp;For purposes of this section, a return executed by the Secretary under subsection (b) of section 6020 on behalf of the partnership shall not be treated as a return of the partnership.
+&emsp;For purposes of this section, a return executed by the Secretary under subsection (b) ofsection 6020 on behalf of the partnership shall not be treated as a return of the partnership.
 
 #### (d) Suspension when Secretary mails notice of adjustment
 
@@ -39,8 +39,4 @@ If notice of a partnership adjustment with respect to any taxable year is mailed
 &emsp;(2) for 1 year thereafter.
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1015.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6241, 6251, 6252 of this title.
 

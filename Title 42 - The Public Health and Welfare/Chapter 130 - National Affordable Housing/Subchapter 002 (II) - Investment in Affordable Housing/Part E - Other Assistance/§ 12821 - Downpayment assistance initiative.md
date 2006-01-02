@@ -58,7 +58,7 @@ The Secretary may award grants to participating jurisdictions to assist low-inco
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this section to each State that is a participating jurisdiction in an amount equalto a percentage of the total allocation that is equal to the percentage of the national total of low-income households residing in rental housing in the State, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
+&emsp;For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this section to each State that is a participating jurisdiction in an amount equal to a percentage of the total allocation that is equal to the percentage of the national total of low-income households residing in rental housing in the State, as determined on the basis of the most recent census data compiled by the Bureau of the Census.
 
 #### (2) Participating jurisdictions other than States
 
@@ -108,7 +108,7 @@ To be eligible to receive a grant under this section in any fiscal year, a parti
 
 &emsp;(1) a description of the anticipated use of any grant received under this section;
 
-&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing, trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
+&emsp;(2) a plan for conducting targeted outreach to residents and tenants of public housing,trailer parks, and manufactured housing, and to other families assisted by public housing agencies, for the purpose of ensuring that grant amounts provided under this section to a participating jurisdiction are used for downpayment assistance for such residents, tenants, and families; and
 
 &emsp;(3) a description of the actions to be taken to ensure the suitability of families receiving downpayment assistance under this section to undertake and maintain homeownership.
 
@@ -138,7 +138,7 @@ There is authorized to be appropriated to carry out this section $200,000,000 fo
 
 This Act, referred to in subsec. (i), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (j), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (j), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
 

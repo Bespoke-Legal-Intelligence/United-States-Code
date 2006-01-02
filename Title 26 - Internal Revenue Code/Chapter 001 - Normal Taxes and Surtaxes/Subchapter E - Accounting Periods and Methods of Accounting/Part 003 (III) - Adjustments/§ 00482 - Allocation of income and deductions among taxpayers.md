@@ -22,7 +22,3 @@ For requirement that, not later than 180 days after July 18, 1984, the Secretary
 
 Pub. L. 101–508, title XI, §11316, Nov. 5, 1990, 104 Stat. 1388–458, directed Secretary of the Treasury or his delegate to conduct a study of the application and administration of section 482 of the Internal Revenue Code of 1986 and not later than Mar. 1, 1992, submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report on the study, together with such recommendations as he deemed advisable.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 845, 857, 901, 936, 941, 994, 1059A, 1505, 6038A, 6038B, 6662 of this title; title 6 section 395; title 17 section 1001.
-

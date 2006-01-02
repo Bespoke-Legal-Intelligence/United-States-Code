@@ -10,7 +10,7 @@
 
 (d) The Secretary shall provide, to the maximum extent possible, aid and assistance (including personal interviews) to members of the Armed Forces, veterans, and eligible dependents with respect to subsections (b) and (c) and in the preparation and presentation of claims under laws administered by the Department.
 
-(e) In carrying out this section, the Secretary shall assign such employees of the VeteransBenefits Administration as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
+(e) In carrying out this section, the Secretary shall assign such employees of the Veterans Benefits Administration as the Secretary considers appropriate to conduct outreach programs and provide outreach services for homeless veterans. Such outreach services may include site visits through which homeless veterans can be identified and provided assistance in obtaining benefits and services that may be available to them.
 
 (Added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 102–590, §5, Nov. 10, 1992, 106 Stat. 5139; Pub. L. 107–103, title III, §304, Dec. 27, 2001, 115 Stat. 992.)
 

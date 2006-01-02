@@ -2,7 +2,7 @@
 
 #### (a) Mandatory registration
 
-Beginning 180 days after the date of the determination of the Commission under section 7211(d) of this title, it shall be unlawful for any person that is not a registered public accounting firm to prepare or issue, or to participate in the preparation or issuance of, any audit report with respect to any issuer.
+Beginning 180 days after the date of the determination of the Commission under section7211(d) of this title, it shall be unlawful for any person that is not a registered public accounting firm to prepare or issue, or to participate in the preparation or issuance of, any audit report with respect to any issuer.
 
 #### (b) Applications for registration
 
@@ -42,7 +42,7 @@ Beginning 180 days after the date of the determination of the Commission under s
 
 #### (1) Timing
 
-&emsp;The Board shall approve a completed application for registration not later than 45 daysafter the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
+&emsp;The Board shall approve a completed application for registration not later than 45 days after the date of receipt of the application, in accordance with the rules of the Board, unless the Board, prior to such date, issues a written notice of disapproval to, or requests more information from, the prospective registrant.
 
 #### (2) Treatment
 

@@ -26,15 +26,11 @@
 
 &emsp;(7) provide that members of the FBI–DEA Senior Executive Service may be granted sabbatical leaves consistent with the provisions of section 3396(c).
 
-(b)(1) Except as provided in subsection (a), the Attorney General may—
+(b) Except as provided in subsection (a), the Attorney General may—
 
-&emsp;(A) make applicable to the FBI–DEA Senior Executive Service any of the provisions of this title applicable to applicants for or members of the Senior Executive Service; and
+&emsp;(1) make applicable to the FBI–DEA Senior Executive Service any of the provisions of this title applicable to applicants for or members of the Senior Executive Service; and
 
-&emsp;(B) appoint, promote, and assign individuals to positions established within the FBI–DEA Senior Executive Service without regard to the provisions of this title governing appointments and other personnel actions in the competitive service.
-
-(2)(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
-
-(B) For the purpose of subparagraph (A), “career employee in the civil service” shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.
+&emsp;(2) appoint, promote, and assign individuals to positions established within the FBI–DEA Senior Executive Service without regard to the provisions of this title governing appointments and other personnel actions in the competitive service.
 
 (c) The President, based on the recommendations of the Attorney General, may award ranks to members of the FBI–DEA Senior Executive Service in a manner consistent with the provisions of section 4507.
 
@@ -56,15 +52,21 @@
 
 &emsp;&emsp;(C) for any other reason.
 
-(Added Pub. L. 100–325, §1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V, §506(b)(1), Nov. 30, 1989, 103 Stat. 1758.)
+(Added Pub. L. 100–325, §1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V, §506(b)(1), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 109–108, title I, §111, Nov. 22, 2005, 119 Stat. 2305.)
 
 #### References in Text
 
 Section 3393a, referred to in subsec. (a)(5)(E), was repealed by Pub. L. 107–296, title XIII, §1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
 
-Provisions of this title governing appointments and other personnel actions in the competitive service, referred to in subsec. (b)(1)(B), are classified generally to section 3301 et seq. of this title.
+Provisions of this title governing appointments and other personnel actions in the competitive service, referred to in subsec. (b)(2), are classified generally to section 3301 et seq. of this title.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–108 struck out par. (1) designation before “Except as provided”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows:
+
+“(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
+
+“(B) For the purpose of subparagraph (A), ‘career employee in the civil service’ shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.”
 
 1989—Subsec. (a)(5)(E). Pub. L. 101–194 added subpar. (E).
 

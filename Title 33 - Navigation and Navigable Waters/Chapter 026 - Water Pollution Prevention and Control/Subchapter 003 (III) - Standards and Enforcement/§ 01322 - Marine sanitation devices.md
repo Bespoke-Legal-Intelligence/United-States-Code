@@ -14,7 +14,7 @@ For the purpose of this section, the term—
 
 &emsp;(5) “marine sanitation device” includes any equipment for installation on board a vessel which is designed to receive, retain, treat, or discharge sewage, and any process to treat such sewage;
 
-&emsp;(6) “sewage” means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body wastes except that, with respect to commercial vesselson the Great Lakes, such term shall include graywater;
+&emsp;(6) “sewage” means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body wastes except that, with respect to commercial vessels on the Great Lakes, such term shall include graywater;
 
 &emsp;(7) “manufacturer” means any person engaged in the manufacturing, assembling, or importation of marine sanitation devices or of vessels subject to standards and regulations promulgated under this section;
 
@@ -96,7 +96,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (2) Upon application of the manufacturer, the Secretary of the department in which the Coast Guard is operating shall so certify a marine sanitation device if he determines, in accordance with the provisions of this paragraph, that it meets the appropriate standards and regulations promulgated under this section. The Secretary of the department in which the Coast Guard is operating shall test or require such testing of the device in accordance with procedures set forth by the Administrator as to standards of performance and for such other purposes as may be appropriate. If the Secretary of the department in which the Coast Guard is operating determines that the device is satisfactory from the standpoint of safety and any other requirements of maritime law or regulation, and after consideration of the design, installation, operation, material, or other appropriate factors, he shall certify the device. Any device manufactured by such manufacturer which is in all material respects substantially the same as the certified test device shall be deemed to be in conformity with the appropriate standards and regulations established under this section.
 
-(3) Every manufacturer shall establish and maintain such records, make such reports, and provide such information as the Administrator or the Secretary of the department in which theCoast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
+(3) Every manufacturer shall establish and maintain such records, make such reports, and provide such information as the Administrator or the Secretary of the department in which the Coast Guard is operating may reasonably require to enable him to determine whether such manufacturer has acted or is acting in compliance with this section and regulations issued thereunder and shall, upon request of an officer or employee duly designated by the Administrator or the Secretary of the department in which the Coast Guard is operating, permit such officer or employee at reasonable times to have access to and copy such records. All information reported to or otherwise obtained by the Administrator or the Secretary of the Department in which the Coast Guard is operating or their representatives pursuant to this subsection which contains or relates to a trade secret or other matter referred to in section 1905 of title 18 shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this section. This paragraph shall not apply in the case of the construction of a vessel by an individual for his own use.
 
 #### (h) Sale and resale of properly equipped vessels; operability of certified marine sanitation devices
 
@@ -128,7 +128,7 @@ Anyone authorized by the Secretary of the department in which the Coast Guard is
 
 #### (m) Enforcement in United States possessions
 
-In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
+In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdictionof such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
 
 #### (n) Uniform national discharge standards for vessels of Armed Forces
 
@@ -212,11 +212,11 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary of Defense shall promulgate regulations with respect to a marine pollution control device under paragraph (4) as soon as practicable after the Administrator and the Secretary of Defense promulgate standards with respect to the device under paragraph (3), but not later than 1 year after the Administrator and the Secretary of Defense promulgate the standards. The regulations promulgated by the Secretary of Defense under paragraph (4) shall become effective upon promulgation unless another effective date is specified in the regulations.
+&emsp;&emsp;The Secretary of Defense shall promulgate regulations with respect to a marine pollution control device under paragraph (4) assoon as practicable after the Administrator and the Secretary of Defense promulgate standards with respect to the device under paragraph (3), but not later than 1 year after the Administrator and the Secretary of Defense promulgate the standards. The regulations promulgated by the Secretary of Defense under paragraph (4) shall become effective upon promulgation unless another effective date is specified in the regulations.
 
 #### (D) Petition for review
 
-&emsp;&emsp;The Governor of any State may submit a petition requesting that the Secretary of Defense and the Administrator review a determination under paragraph (2) or a standardunder paragraph (3), if there is significant new information, not considered previously, that could reasonably result in a change to the particular determination or standard after consideration of the matters set forth in paragraph (2)(B). The petition shall be accompanied by the scientific and technical information on which the petition is based. The Administrator and the Secretary of Defense shall grant or deny the petition not later than 2 years after the date of receipt of the petition.
+&emsp;&emsp;The Governor of any State may submit a petition requesting that the Secretary of Defense and the Administrator review a determination under paragraph (2) or a standard under paragraph (3), if there is significant new information, not considered previously, that could reasonably result in a change to the particular determination or standard after consideration of the matters set forth in paragraph (2)(B). The petition shall be accompanied by the scientific and technical information on which the petition is based. The Administrator and the Secretary of Defense shall grant or deny the petition not later than 2 years after the date of receipt of the petition.
 
 #### (6) Effect on other laws
 
@@ -360,7 +360,7 @@ Section 325(d) of Pub. L. 104–106 provided that: “The Administrator of the E
 
 #### Clean Vessels
 
-Pub. L. 102–587, title V, subtitle F, Nov. 4, 1992, 106 Stat. 5086, provided that:
+Pub. L. 102–587, title V, subtitle F, Nov. 4, 1992, 106 Stat. 5086, as amended by Pub. L. 109–59, title X, §10131, Aug. 10, 2005, 119 Stat. 1931, provided that:
 
 #### “SEC. 5601. SHORT TITLE.
 
@@ -480,11 +480,9 @@ Matching grants.—The Secretary of the Interior may obligate an amount not to e
 
 Priority.—In awarding grants under this subsection, the Secretary of the Interior shall give priority consideration to grant applications that—
 
-&emsp;&emsp;“(A) in coastal States, propose constructing and renovating pumpout stations and waste reception facilities in accordance with a coastal State's plan approved under section 5603(c);
+&emsp;&emsp;“(A) provide for public/private partnership efforts to develop and operate pumpout stations and waste reception facilities; and
 
-&emsp;&emsp;“(B) provide for public/private partnership efforts to develop and operate pumpout stations and waste receptions \[sic\] facilities; and
-
-&emsp;&emsp;“(C) propose innovative ways to increase the availability and use of pumpout stations and waste reception facilities.
+&emsp;&emsp;“(B) propose innovative ways to increase the availability and use of pumpout stations and waste reception facilities.
 
 “(d)
 
@@ -494,9 +492,9 @@ Disclaimer.—Nothing in this subtitle shall be interpreted to preclude a State 
 
 “(a)
 
-Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle \[Nov. 4, 1992\], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—
+Issuance of Guidance.—Not later than 3 months after the date of the enactment of this subtitle \[Nov. 4, 1992\], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of theCoast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—
 
-&emsp;“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriatelocation of the stations and facilities within a marina or boatyard;
+&emsp;“(1) guidance regarding the types of pumpout stations and waste reception facilities that may be appropriate for construction, renovation, operation, or maintenance with amounts available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, and appropriate location of the stations and facilities within a marina or boatyard;
 
 &emsp;“(2) guidance defining what constitutes adequate and reasonably available pumpout stations and waste reception facilities in boating areas;
 

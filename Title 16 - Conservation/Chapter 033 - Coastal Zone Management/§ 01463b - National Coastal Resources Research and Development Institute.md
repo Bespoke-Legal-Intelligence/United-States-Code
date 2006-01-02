@@ -34,7 +34,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (e) Administration of Institute
 
-The Institute shall be administered by a Director who shall be appointed by the Chancellor of the Oregon Board of Higher Education in consultation with the Board of Governors.
+The Institute shall be administered by a Director who shall be appointed by the Chancellorof the Oregon Board of Higher Education in consultation with the Board of Governors.
 
 #### (f) Evaluation of Institute by Secretary
 

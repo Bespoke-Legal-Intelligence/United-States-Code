@@ -4,7 +4,7 @@
 
 Consistent with sections 403 and 403–1 of this title, the Secretary of Defense, in consultation with the Director of National Intelligence, shall—
 
-&emsp;(1) ensure that the budgets of the elements of the intelligence community within the Department of Defense are adequate to satisfy the overall intelligence needs of the Department of Defense, including the needs of the chairman <sup>1</sup> of the Joint Chiefs of Staff and the commanders of the unified and specified commands and, wherever such elements are performing governmentwide functions, the needs of other departments and agencies;
+&emsp;(1) ensure that the budgets of the elements of the intelligence community within the Department of Defense are adequate to satisfy the overall intelligence needs of the Department of Defense, including the needs of the chairman <sup>1</sup> of the Joint Chiefs of Staff and thecommanders of the unified and specified commands and, wherever such elements are performing governmentwide functions, the needs of other departments and agencies;
 
 &emsp;(2) ensure appropriate implementation of the policies and resource decisions of the Director by elements of the Department of Defense within the National Intelligence Program;
 
@@ -94,6 +94,8 @@ Subsec. (d). Pub. L. 104–293, §808(2), added subsec. (d).
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 2003 Amendment
@@ -103,6 +105,72 @@ Amendment by Pub. L. 108–177 effective Dec. 31, 2003, see section 361(n) of Pu
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
+
+#### Department of Defense Strategy for Open-source Intelligence
+
+Pub. L. 109–163, div. A, title IX, §931, Jan. 6, 2006, 119 Stat. 3411, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) Open-source intelligence (OSINT) is intelligence that is produced from publicly available information and is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement.
+
+&emsp;“(2) With the Information Revolution, the amount, significance, and accessibility of open-source information has expanded significantly, but the intelligence community has not expanded its exploitation efforts and systems to produce open-source intelligence.
+
+&emsp;“(3) The production of open-source intelligence is a valuable intelligence discipline that must be integrated into intelligence tasking, collection, processing, exploitation, and dissemination to ensure that United States policymakers are fully and completely informed.
+
+&emsp;“(4) The dissemination and use of validated open-source intelligence inherently enables information sharing since open-source intelligence is produced without the use of sensitive sources and methods. Open-source intelligence products can be shared with the American public and foreign allies because of the unclassified nature of open-source intelligence.
+
+&emsp;“(5) The National Commission on Terrorist Attacks Upon the United States (popularly referred to as the ‘9/11 Commission’), in its final report released on July 22, 2004, identified shortfalls in the ability of the United States to use all-source intelligence, a large component of which is open-source intelligence.
+
+&emsp;“(6) In the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[see Tables for classification\], Congress calls for coordination of the collection, analysis, production, and dissemination of open-source intelligence.
+
+&emsp;“(7) The Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction, in its report to the President released on March 31, 2005, found that ‘the need for exploiting open-source material is greater now than ever before,’ but that ‘the Intelligence Community's open source programs have not expanded commensurate with either the increase in available information or with the growing importance of open source data to today's problems’.
+
+“(b)
+
+Department of Defense Strategy for Open-Source Intelligence.—
+
+&emsp;“(1)
+
+Development of strategy.—The Secretary of Defense shall develop a strategy for the purpose of integrating open-source intelligence into the Defense intelligence process. The strategy shall be known as the ‘Defense Strategy for Open-Source Intelligence’. The strategy shall be incorporated within the larger Defense intelligence strategy.
+
+&emsp;“(2)
+
+Submission.—The Secretary shall submit to Congress a report setting forth the strategy developed under paragraph (1). The report shall be submitted not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\].
+
+“(c)
+
+Matters to Be Included.—The strategy under subsection (b) shall include the following:
+
+&emsp;“(1) A plan for providing funds over the period of the future-years defense program for the development of a robust open-source intelligence capability for the Department of Defense, with particular emphasis on exploitation and dissemination.
+
+&emsp;“(2) A description of how management of the collection of open-source intelligence is currently conducted within the Department of Defense and how that management can be improved.
+
+&emsp;“(3) A description of the tools, systems, centers, organizational entities, and procedures to be used within the Department of Defense to perform open-source intelligence tasking, collection, processing, exploitation, and dissemination.
+
+&emsp;“(4) A description of proven tradecraft for effective exploitation of open-source intelligence, to include consideration of operational security.
+
+&emsp;“(5) A detailed description on how open-source intelligence will be fused with all other intelligence sources across the Department of Defense.
+
+&emsp;“(6) A description of—
+
+&emsp;&emsp;“(A) a training plan for Department of Defense intelligence personnel with respect to open-source intelligence; and
+
+&emsp;&emsp;“(B) open-source intelligence guidance for Department of Defense intelligence personnel.
+
+&emsp;“(7) A plan to incorporate the function of oversight of open-source intelligence—
+
+&emsp;&emsp;“(A) into the Office of the Undersecretary of Defense for Intelligence; and
+
+&emsp;&emsp;“(B) into service intelligence organizations.
+
+&emsp;“(8) A plan to incorporate and identify an open-source intelligence specialty into personnel systems of the Department of Defense, including military personnel systems.
+
+&emsp;“(9) A plan for the use of intelligence personnel of the reserve components to augment and support the open-source intelligence mission.
+
+&emsp;“(10) A plan for the use of the Open-Source Information System for the purpose of exploitation and dissemination of open-source intelligence.”
 
 #### Role of Director of Central Intelligence in Experimental Personnel Program for Certain Scientific and Technical Personnel
 

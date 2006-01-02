@@ -10,7 +10,7 @@
 
 (1) The Director of National Intelligence shall establish and implement a process for all elements of the intelligence community to review, on an annual basis, individuals included on distribution lists for access to classified information. Such process shall ensure that only individuals who have a particularized “need to know” (as determined by the Director) are continued on such distribution lists.
 
-(2) Not later than October 15 of each year, the Director shall certify to the congressional intelligence committees that the review required under paragraph (1) has been conducted in all elements of the intelligence community during the preceding fiscal year.
+(2) Not later than October 15 of each year, the Director shall certify to the congressional intelligence committees that the review requiredunder paragraph (1) has been conducted in all elements of the intelligence community during the preceding fiscal year.
 
 #### (c) Completion of financial disclosure statements required for access to certain classified information
 
@@ -35,6 +35,8 @@ Subsec. (c)(1). Pub. L. 108–458, §1071(a)(1)(PP), substituted “Director of 
 Subsec. (d). Pub. L. 108–458, §1071(a)(1)(QQ), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

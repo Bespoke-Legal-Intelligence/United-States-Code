@@ -32,7 +32,7 @@
 
 (b)(1) The Commission, in the guidelines promulgated pursuant to subsection (a)(1), shall, for each category of offense involving each category of defendant, establish a sentencing range that is consistent with all pertinent provisions of title 18, United States Code.
 
-(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum of the range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
+(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum ofthe range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
 
 (c) The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
@@ -168,7 +168,7 @@
 
 &emsp;(F) any other information as the Commission finds appropriate.
 
-(2) The Commission shall, upon request, make available to the House and Senate Committeeson the Judiciary, the written reports and all underlying records accompanying those reports described in this section, as well as other records received from courts.
+(2) The Commission shall, upon request, make available to the House and Senate Committees on the Judiciary, the written reports and all underlying records accompanying those reports described in this section, as well as other records received from courts.
 
 (3) The Commission shall submit to Congress at least annually an analysis of these documents, any recommendations for legislation that the Commission concludes is warranted by that analysis, and an accounting of those districts that the Commission believes have not submitted the appropriate information and documents required by this section.
 
@@ -192,7 +192,7 @@ The Maritime Drug Law Enforcement Act, referred to in subsec. (h)(1)(B), (2)(B),
 
 2003—Subsec. (a). Pub. L. 108–21, §401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
 
-Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
+Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations forlegislation that the Commission concludes is warranted by that analysis.”
 
 1994—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
 
@@ -247,6 +247,12 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
+
+Pub. L. 109–162, title XI, §1191(c), Jan. 5, 2006, 119 Stat. 3129.—Offenses committed while wearing illicitly received public employee insignia or uniform.
+
+Pub. L. 109–76, §3, Sept. 29, 2005, 119 Stat. 2035.—False testimony and obstruction of justice involving international or domestic terrorism or anabolic steroids.
+
+Pub. L. 109–9, title I, §105, Apr. 27, 2005, 119 Stat. 222.—Intellectual property rights crimes.
 
 Pub. L. 108–482, title II, §204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domain name registered with materially false contact information.
 
@@ -396,7 +402,7 @@ Pub. L. 100–690, title VI, §6482(c), Nov. 18, 1988, 102 Stat. 4382.—Common 
 
 #### Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities
 
-Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendments relating to lowering of crack sentences and sentences for money laundering and transactions in property derived from unlawful activity submitted by the United States Sentencing Commission to Congress on May 1, 1995, required the Commission to recommend changes to the statutes and sentencing guidelines for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, required the Department of Justice to submit to Congress, no later than May 1, 1996, a report on the charging and plea practices of Federal prosecutors with respect to the offense of money laundering, and required the Commission to submit to Congress comments on the Department of Justice study.
+Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendments relating to lowering of crack sentences and sentences for money laundering and transactions in property derived from unlawful activity submitted by the United States Sentencing Commission to Congress on May 1, 1995, required the Commission to recommend changes to the statutes and sentencing guidelines for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, required the Department of Justice to submit to Congress, no later than May 1, 1996, a report on thecharging and plea practices of Federal prosecutors with respect to the offense of money laundering, and required the Commission to submit to Congress comments on the Department of Justice study.
 
 #### Emergency Guidelines Promulgation Authority
 

@@ -6,7 +6,7 @@ Market Research.—Before purchasing a product listed in the latest edition of t
 
 (b)
 
-Competition Requirement.—If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, or time of delivery to products available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery, the Secretary shall use competitive procedures for the procurement of the product or shall make an individual purchase under a multiple award contract. In conducting such a compeititon <sup>1</sup> or making such a purchase, the Secretary shall consider a timely offer from Federal Prison Industries.
+Competition Requirement.—If the Secretary determines that a Federal Prison Industries product is not comparable in price, quality, or time of delivery to products available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery, the Secretary shall use competitive procedures for the procurement of the product or shall make an individual purchase under a multiple award contract. In conducting such a competition or making such a purchase, the Secretary shall consider a timely offer from Federal Prison Industries.
 
 (c)
 
@@ -62,9 +62,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) interchange meetings or pre-solicitation conferences with potential offerors.
 
-(Added Pub. L. 107–107, div. A, title VIII, §811(a)(1), Dec. 28, 2001, 115 Stat. 1180; amended Pub. L. 107–314, div. A, title VIII, §819(a)(1), Dec. 2, 2002, 116 Stat. 2612.)
+(Added Pub. L. 107–107, div. A, title VIII, §811(a)(1), Dec. 28, 2001, 115 Stat. 1180; amended Pub. L. 107–314, div. A, title VIII, §819(a)(1), Dec. 2, 2002, 116 Stat. 2612; Pub. L. 109–163, div. A, title X, §1056(c)(4), Jan. 6, 2006, 119 Stat. 3439.)
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–163 substituted “competition” for “compeititon” in text.
 
 2002—Subsec. (a). Pub. L. 107–314, §819(a)(1)(A), substituted “Market Research” for “Market Research Before Purchase” in heading and “comparable to products available from the private sector that best meet the Department's needs in terms of price, quality, and time of delivery” for “comparable in price, quality, and time of delivery to products available from the private sector”.
 
@@ -87,6 +89,4 @@ Pub. L. 107–314, div. A, title VIII, §819(b), Dec. 2, 2002, 116 Stat. 2613, p
 “(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], and not less than 60 days shall be provided for public comment on the proposed revisions.
 
 “(2) Final regulations shall be published not later than 180 days after the date of the enactment of this Act and shall be effective on the date that is 30 days after the date of the publication.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be “competition”.</i>
 

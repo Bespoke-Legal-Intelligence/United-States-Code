@@ -30,7 +30,3 @@ Authority of President under this section as invoked by sections 2 and 3 of Ex. 
 
 Pub. L. 102–25, title II, §§201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of section 517, 523, 524, 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 517 of this title.
-

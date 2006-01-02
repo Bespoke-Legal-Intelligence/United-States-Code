@@ -6,7 +6,7 @@ A reservation shall be established by this subchapter at no cost to the Federal 
 
 #### (b) Legal description
 
-So long as the lands are offered to the Federal Government free of purchase cost, the Secretary shall accept the following lands in trust for the tribe <sup>1</sup> as a reservation:
+So long as the lands are offered to the Federal Government free of purchase cost, the Secretaryshall accept the following lands in trust for the tribe <sup>1</sup> as a reservation:
 
 &emsp;(1) In Coos County, Oregon, a parcel containing 1.02 acres and described as parcel 3200 of section 106B of township 25 south, range 12 west, Willamette meridian.
 

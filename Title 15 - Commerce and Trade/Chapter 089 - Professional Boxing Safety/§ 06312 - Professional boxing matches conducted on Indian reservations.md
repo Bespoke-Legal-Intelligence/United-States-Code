@@ -28,7 +28,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Standards and licensing
 
-&emsp;If a tribal organization regulates professional boxing matches pursuant to paragraph (1), the tribal organization shall, by tribal ordinance or resolution, establish and provide for the implementation of health and safety standards, licensing requirements, and other requirements relating to the conduct of professional boxing matches that are at least as restrictive as—
+&emsp;If a tribal organization regulates professional boxing matches pursuant to paragraph\(1), the tribal organization shall, by tribal ordinance or resolution, establish and provide for the implementation of health and safety standards, licensing requirements, and other requirements relating to the conduct of professional boxing matches that are at least as restrictive as—
 
 &emsp;&emsp;(A) the otherwise applicable standards and requirements of a State in which the reservation is located; or
 

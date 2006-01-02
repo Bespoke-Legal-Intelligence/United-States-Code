@@ -14,7 +14,7 @@ Subsection (a) does not apply to the following:
 
 &emsp;(3) Activities carried out under title XIV of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) relating to cooperative threat reduction with states of the former Soviet Union.
 
-(Pub. L. 107–314, div. D, title XLIII, §4301, formerly Pub. L. 105–85, div. C, title XXXI, §3133, Nov. 18, 1997, 111 Stat. 2036; Pub. L. 105–261, div. A, title X, §1069(b)(3), div. C, title XXXI, §3131, Oct. 17, 1998, 112 Stat. 2136, 2246; renumbered Pub. L. 107–314, div. D, title XLIII, §4301, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(2), Nov. 24, 2003, 117 Stat. 1762.)
+(Pub. L. 107–314, div. D, title XLIII, §4301, formerly Pub. L. 105–85, div. C, title XXXI, §3133, Nov. 18, 1997, 111 Stat. 2036; Pub. L. 105–261, div.A, title X, §1069(b)(3), div. C, title XXXI, §3131, Oct. 17, 1998, 112 Stat. 2136, 2246; renumbered Pub. L. 107–314, div. D, title XLIII, §4301, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(2), Nov. 24, 2003, 117 Stat. 1762.)
 
 #### References in Text
 

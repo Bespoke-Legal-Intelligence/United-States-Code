@@ -70,7 +70,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Use of funds
 
-&emsp;From amounts received under a grant awarded under this part for a fiscal year, thechief elected official of an eligible area may (in addition to amounts to which subsection (f)(1) of this section applies) use for activities associated with the quality management program required in paragraph (1) not more than the lesser of—
+&emsp;From amounts received under a grant awarded under this part for a fiscal year, the chief elected official of an eligible area may (in addition to amounts to which subsection (f)(1) of this section applies) use for activities associated with the quality management program required in paragraph (1) not more than the lesser of—
 
 &emsp;&emsp;(A) 5 percent of amounts received under the grant; or
 
@@ -106,7 +106,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 &emsp;&emsp;(B) the shortage of such personnel has resulted in the inappropriate utilization of inpatient services within the area; and
 
-&emsp;&emsp;(C) assistance or services provided to an institution or entity under paragraph (2), will not be used to supplant the existing resources devoted by such institution or entity to the uses described in such paragraph.
+&emsp;&emsp;(C) assistance or services provided to an institution or entity under paragraph (2),will not be used to supplant the existing resources devoted by such institution or entity to the uses described in such paragraph.
 
 #### (e) Requirement of status as medicaid provider
 

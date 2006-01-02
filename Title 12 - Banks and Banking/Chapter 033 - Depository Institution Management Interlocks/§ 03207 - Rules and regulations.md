@@ -20,7 +20,7 @@ Regulations to carry out this chapter, including regulations that permit service
 
 1996—Pub. L. 104–208 redesignated subsec. (a) as entire section, in introductory provisions, substituted “Regulations” for “Rules and regulations” and inserted “, including regulations that permit service by a management official that would otherwise be prohibited by section 3202 of this title or section 3203 of this title, if such service would not result in a monopoly or substantial lessening of competition,” after “chapter”, in par. (4), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board” and “Federal Deposit Insurance Corporation” for “Federal Savings and Loan Insurance Corporation”, and struck out subsecs. (b) and (c), which related to regulatory standards, and to limited exception for management official consignment program, respectively.
 
-1994—Pub. L. 103–325 designated existing provisions as subsec. (a), inserted heading, struck out “, including rules or regulations which permit service by a management official which would otherwise be prohibited by section 3202 or section 3203 of this title,” after “Rulesand regulations to carry out this chapter” in introductory provisions, and added subsecs. (b) and (c).
+1994—Pub. L. 103–325 designated existing provisions as subsec. (a), inserted heading, struck out “, including rules or regulations which permit service by a management official which would otherwise be prohibited by section 3202 or section 3203 of this title,” after “Rules and regulations to carry out this chapter” in introductory provisions, and added subsecs. (b) and (c).
 
 #### Effective Date of 2004 Amendment
 

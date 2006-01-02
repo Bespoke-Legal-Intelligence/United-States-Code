@@ -28,5 +28,5 @@ Subsec. (c). Pub. L. 106–43, §4(b)(1), (3), redesignated subsec. (b) as (c) a
 
 #### Effective Date
 
-Section effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L. 102–542, set out as an Effective Date of 1992 Amendment note under section 1114 of this title.
+Section effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L.102–542, set out as an Effective Date of 1992 Amendment note under section 1114 of this title.
 

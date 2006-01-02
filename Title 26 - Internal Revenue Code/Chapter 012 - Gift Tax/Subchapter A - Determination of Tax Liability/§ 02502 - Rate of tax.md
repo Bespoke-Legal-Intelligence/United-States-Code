@@ -101,7 +101,3 @@ Section 2001(d)(2) of Pub. L. 94–455 provided that: “The amendments made by 
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2001, 2501, 2504, 2505 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any estate with respect to which an election has been made under section 6166, if the executor makes an election under this section (at such time and in such manner as the Secretary shall by regulations prescribe) and files the agreement referred to in subsection (c), the deferred amount (plus any interest, additional amount, addition to tax, assessable penalty, and costs attributable to the deferred amount) shall be a lien in favor of the United States on the section 6166 lien property.
+In the case of any estate with respect to which an election has been made under section 6166, if the executor makes an election under this section (at such time and in such manner as the Secretary shall by regulations prescribe) and files the agreement referred to in subsection (c), the deferred amount (plus any interest, additional amount, addition to tax, assessable penalty, and costs attributable to the deferredamount) shall be a lien in favor of the United States on the section 6166 lien property.
 
 #### (b) Section 6166 lien property
 
@@ -86,7 +86,7 @@ For purposes of this section—
 
 #### (2) Required interest amount
 
-&emsp;The term “required interest amount” means the aggregate amount of interest which will be payable over the first 4 years of the deferral period with respect to the deferred amount (determined as of the date prescribed by section 6151(a) for the payment of the tax imposed by chapter 11).
+&emsp;The term “required interest amount” means the aggregate amount of interest which will bepayable over the first 4 years of the deferral period with respect to the deferred amount (determined as of the date prescribed by section 6151(a) for the payment of the tax imposed by chapter 11).
 
 #### (3) Deferral period
 
@@ -123,8 +123,4 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 #### Effective Date of 1978 Amendment
 
 Section 702(e)(2) of Pub. L. 95–600 provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2204, 6324B, 6166 of this title.
 

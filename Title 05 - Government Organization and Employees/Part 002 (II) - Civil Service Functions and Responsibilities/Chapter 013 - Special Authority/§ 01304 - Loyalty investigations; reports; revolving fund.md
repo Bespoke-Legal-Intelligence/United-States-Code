@@ -14,7 +14,7 @@
 
 (d) The investigation and report required by subsection (a) of this section shall be made by the Federal Bureau of Investigation rather than the Office for those specific positions which the Secretary of State certifies are of a high degree of importance or sensitivity.
 
-(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
+(e)(1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall beconducted generally on an actual cost basis over a reasonable period of time.
 
 (2) The capital of the fund consists of the aggregate of—
 
@@ -96,7 +96,7 @@ Section 1874(c) of title 42, referred to in subsec. (a)(2), which related to cle
 
 1995—Subsec. (e)(6). Pub. L. 104–66 struck out before period at end “at least once every three years”.
 
-1994—Subsec. (e)(6). Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House” for “Committees on Post Office and Civil Service of the Senate and House”.
+1994—Subsec. (e)(6). Pub. L. 103–437 substituted “Committee on Governmental Affairs of the Senate and theCommittee on Post Office and Civil Service of the House” for “Committees on Post Office and Civil Service of the Senate and House”.
 
 1984—Subsec. (e)(1). Pub. L. 98–224 struck out cl. (i) designation and struck out cl. (ii) which provided that participation fees imposed by the President's Commission on Executive Exchange for private sector participation in its Executive Exchange Program be collected and credited to the fund, and be available for the costs of education and related travel of exchanged executives, for printing without regard to section 501 of title 44, and, in such amounts as specified in appropriations Acts, for entertainment expenses. See section 4109(d) of this title.
 

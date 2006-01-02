@@ -26,7 +26,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands (the “partial States”) shall collectively be considered as 1 State; and
 
-&emsp;&emsp;(B) for purposes of section 3796ee–3(a) of this title, the amount allocated to a partialState shall bear the same proportion to the amount collectively allocated to the partial States as the population of the partial State bears to the collective population of the partial States.
+&emsp;&emsp;(B) for purposes of section 3796ee–3(a) of this title, the amount allocated to a partial State shall bear the same proportion to the amount collectively allocated to the partial States as the population of the partial State bears to the collective population of the partial States.
 
 #### (4) Juvenile
 

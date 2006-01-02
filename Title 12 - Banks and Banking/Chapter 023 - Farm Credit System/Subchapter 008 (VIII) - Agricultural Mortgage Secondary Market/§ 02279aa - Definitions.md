@@ -130,7 +130,7 @@ Section 701 of subtitle A (§§701–705) of title VII of Pub. L. 100–233 prov
 
 &emsp;&emsp;“(B) to provide greater liquidity and lending capacity in extending credit to farmers and ranchers; and
 
-&emsp;&emsp;“(C) to provide an arrangement for new lending to facilitate capital market investments in providinglong-term agricultural funding, including funds at fixed rates of interest; and
+&emsp;&emsp;“(C) to provide an arrangement for new lending to facilitate capital market investments in providing long-term agricultural funding, including funds at fixed rates of interest; and
 
 &emsp;“(4) to enhance the ability of individuals in small rural communities to obtain financing for moderate-priced homes.”
 

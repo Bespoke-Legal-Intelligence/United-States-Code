@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 &emsp;(7) the term “foreign person” means any person other than a United States person;
 
-&emsp;(8)(A) the term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operatingas a business enterprise, and any successor of any such entity; and
+&emsp;(8)(A) the term “person” means a natural person as well as a corporation, business association, partnership, society, trust, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise, and any successor of any such entity; and
 
 &emsp;(B) in the case of countries with non-market economies (excluding former members of the Warsaw Pact), the term “person” means—
 

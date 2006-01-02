@@ -18,7 +18,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 #### (1) Determination of needs
 
-&emsp;Priority mental health needs of regional and national significance shall be determined bythe Secretary in consultation with States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
+&emsp;Priority mental health needs of regional and national significance shall be determined by the Secretary in consultation with States and other interested groups. The Secretary shall meet with the States and interested groups on an annual basis to discuss program priorities.
 
 #### (2) Special consideration
 
@@ -40,7 +40,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 #### (4) Maintenance of effort
 
-&emsp;With respect to activities for which a grant, contract or cooperative agreement is awarded under this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
+&emsp;With respect to activities for which a grant, contract or cooperative agreement is awardedunder this section, the Secretary may require that recipients for specific projects under subsection (a) of this section agree to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the entity for the fiscal year preceding the fiscal year for which the entity receives such a grant, contract, or cooperative agreement.
 
 #### (d) Evaluation
 

@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Secretary of the Interior to carr
 
 &emsp;(2) such sums as are necessary shall be available for the United States share of expenses incurred by the Joint Technical Committee and any panel established by any agreement between the Government of the United States and the Government of Canada for restoration and enhancement of salmon originating in Canada;
 
-&emsp;(3) up to $3,000,000 shall be available each fiscal year for activities by the Department of the Interior and the Department of Commerce for survey, restoration, and enhancement activities related to salmon stocks originating from the Yukon River in Canada, of which up to $1,200,000 shall be available each fiscal year for Yukon River salmon stock restoration and enhancement projects under section 5726(b) of this title; and
+&emsp;(3) up to $3,000,000 shall be available each fiscal year for activities by the Department of the Interior and the Department of Commerce for survey, restoration, and enhancement activities related to salmon stocks originating from the Yukon River in Canada, of which upto $1,200,000 shall be available each fiscal year for Yukon River salmon stock restoration and enhancement projects under section 5726(b) of this title; and
 
 &emsp;(4) $600,000 shall be available each fiscal year for cooperative salmon research and management projects in the portion of the Yukon River drainage located in the United States that are recommended by the Panel.
 

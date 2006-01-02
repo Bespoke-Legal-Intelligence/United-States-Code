@@ -56,7 +56,7 @@ The provisions of subsections (b) and (c) of this section shall not apply to Fed
 
 &emsp;(C) the total installed price to the Federal Government.
 
-(4) After the head of the agency has rendered a decision regarding a recommendation of the ombudsman, the ombudsman shall be responsible for communicating the decision to all appropriate policy, design, planning, procurement, and notifying personnel in the agency. The ombudsman shall conduct appropriate monitoring as required to ensure the decision is implemented, and may submit further recommendations, as needed. The head of the agency's decision on the ombudsman's recommendations, and any supporting documentation, shall be provided to affected parties and made available to the public in a timely manner.
+(4) After the head of the agency has rendered a decision regarding a recommendation of the ombudsman, the ombudsman shall be responsible for communicating the decision to all appropriate policy, design, planning, procurement,and notifying personnel in the agency. The ombudsman shall conduct appropriate monitoring as required to ensure the decision is implemented, and may submit further recommendations, as needed. The head of the agency's decision on the ombudsman's recommendations, and any supporting documentation, shall be provided to affected parties and made available to the public in a timely manner.
 
 (5) Nothing in this section shall be construed to supersede the bid protest process established under subchapter V of chapter 35 of title 31.
 

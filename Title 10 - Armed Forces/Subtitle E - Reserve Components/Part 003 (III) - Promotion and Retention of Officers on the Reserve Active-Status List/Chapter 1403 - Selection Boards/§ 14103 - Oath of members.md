@@ -8,7 +8,3 @@ Each member of a selection board convened under section 14101 of this title shal
 
 Provisions similar to those in this section were contained in sections 3362(d), 5894, and 8362(d) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14502 of this title.
-

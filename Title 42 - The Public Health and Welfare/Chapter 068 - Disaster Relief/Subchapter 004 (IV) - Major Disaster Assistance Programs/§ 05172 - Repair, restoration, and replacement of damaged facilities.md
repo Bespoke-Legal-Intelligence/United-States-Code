@@ -76,7 +76,7 @@
 
 #### (B) Areas with unstable soil
 
-&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+&emsp;&emsp;In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government because soil instability in the disaster area makes repair, restoration, reconstruction, or replacement infeasible, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A) of this section, a contribution in an amount equal to 90 percent of the Federal share of the Federalestimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
 
 #### (C) Use of funds
 
@@ -124,7 +124,7 @@
 
 #### (1) Reduction of Federal assistance
 
-&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Director pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available underthis section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
+&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Director pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
 
 #### (2) Amount of reduction
 
@@ -158,7 +158,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to paragraph (2), the President shall use the cost estimation procedures established under paragraph (3) to determine the eligible cost under this subsection.
+&emsp;&emsp;&emsp;Subject to paragraph (2), the President shall use the cost estimation proceduresestablished under paragraph (3) to determine the eligible cost under this subsection.
 
 #### (ii) Applicability
 

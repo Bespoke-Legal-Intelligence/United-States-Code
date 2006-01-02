@@ -34,7 +34,3 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 Pub. L. 95–485, title VIII, §809, Oct. 20, 1978, 92 Stat. 1623, directed the Secretary of Defense to require that any college or university designated as a military college provide that qualified female undergraduate students be eligible to participate in military training at such college or university, and prohibited the Secretary from requiring such college or university to require female undergraduate students enrolled in such college or university to participate in military training, prior to repeal by Pub. L. 98–525, title XIV, §§1403(b), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985. See section 2009 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2130a of this title.
-

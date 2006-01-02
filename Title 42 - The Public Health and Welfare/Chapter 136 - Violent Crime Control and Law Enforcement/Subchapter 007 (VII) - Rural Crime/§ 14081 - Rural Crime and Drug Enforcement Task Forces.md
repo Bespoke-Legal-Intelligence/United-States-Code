@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Attorney General, in consultation with the Governors, mayors, and chief executive officers of State and local law enforcement agencies, may establish a Rural Crime and Drug Enforcement Task Force in judicial districts that encompass significant rural lands. Assets seized as a result of investigations initiated by a RuralCrime and Drug Enforcement Task Force and forfeited under Federal law shall be used, consistent with the guidelines on equitable sharing established by the Attorney General and of the Secretary of the Treasury, primarily to enhance the operations of the task force and its participating State and local law enforcement agencies.
+The Attorney General, in consultation with the Governors, mayors, and chief executive officers of State and local law enforcement agencies, may establish a Rural Crime and Drug Enforcement Task Force in judicial districts that encompass significant rural lands. Assets seized as a result of investigations initiated by a Rural Crime and Drug Enforcement Task Force and forfeited under Federal law shall be used, consistent with the guidelines on equitable sharing established by the Attorney General and of the Secretary of the Treasury, primarily to enhance the operations of the task force and its participating State and local law enforcement agencies.
 
 #### (b) Task force membership
 
@@ -24,7 +24,7 @@ The Task Forces <sup>1</sup> established under subsection (a) of this section s
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

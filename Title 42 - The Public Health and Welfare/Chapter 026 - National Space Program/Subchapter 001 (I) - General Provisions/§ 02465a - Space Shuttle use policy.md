@@ -24,7 +24,7 @@ The Administrator shall, within six months after November 16, 1990, submit a rep
 
 #### (c) Annual report
 
-At least annually, the Administrator shall submit to the Congress a report certifying that the payloads scheduled to be launched on the space shuttle for the next four years are consistent with the policy set forth in subsection (a)(1) of this section. For each payload scheduled to be launched from the space shuttle, which do not require the presence of man, the Administrator shall, in the certified report to Congress, state the specific circumstances which justified the use of the space shuttle. If, during the period between scheduled reports to the Congress, any additions are made to the list of certified payloads intended to be launched from the Shuttle, the Administrator shall inform the Congress of the additions and the reasons therefor within 45 days of the change.
+At least annually, the Administrator shall submit to the Congress a report certifying that the payloads scheduled to be launched on the space shuttle for the next four years are consistent with the policy set forth in subsection (a)(1) of this section. For each payload scheduled to be launched from the space shuttle, which do not require the presence of man, the Administrator shall, in the certified report to Congress, state the specific circumstances which justified the use of the space shuttle. If, during the period between scheduled reports to the Congress, any additions are made to the list of certified payloadsintended to be launched from the Shuttle, the Administrator shall inform the Congress of the additions and the reasons therefor within 45 days of the change.
 
 #### (d) NASA payloads
 

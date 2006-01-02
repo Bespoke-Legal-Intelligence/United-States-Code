@@ -56,7 +56,7 @@
 
 #### (5) Regulations required
 
-&emsp;Before the end of the 270-day period beginning on November 12, 1999, the Comptroller of the Currency shall, by regulation, prescribe procedures to implement this section.
+&emsp;Before the end of the 270-day period beginning on November 12, 1999, the Comptroller ofthe Currency shall, by regulation, prescribe procedures to implement this section.
 
 #### (6) Indexed asset limit
 
@@ -134,7 +134,7 @@
 
 &emsp;In determining compliance with applicable capital standards—
 
-&emsp;&emsp;(A) the aggregate amount of the outstanding equity investment, including retained earnings, of a national bank in all financial subsidiaries shall be deducted from the assets and tangible equity of the national bank; and
+&emsp;&emsp;(A) the aggregate amount of the outstanding equity investment, including retainedearnings, of a national bank in all financial subsidiaries shall be deducted from the assets and tangible equity of the national bank; and
 
 &emsp;&emsp;(B) the assets and liabilities of the financial subsidiaries shall not be consolidated with those of the national bank.
 

@@ -20,7 +20,3 @@ Jan. 16, 1936, ch. 3, §3, 49 Stat. 1092.
 
 The words “individual and” are omitted as surplusage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7085 of this title.
-

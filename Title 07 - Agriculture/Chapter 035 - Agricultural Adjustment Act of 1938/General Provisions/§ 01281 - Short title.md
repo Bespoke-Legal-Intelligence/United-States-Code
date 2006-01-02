@@ -50,11 +50,11 @@ Pub. L. 88–297, §1, Apr. 11, 1964, 78 Stat. 173, provided: “That this Act \
 
 #### Short Title of 1963 Amendment
 
-Pub. L. 88–26, §1, May 20, 1963, 77 Stat. 44, provided: “That this Act \[amending section 1339a of this title and section 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title\] may be cited as the ‘Feed Grain Act of 1963’.”
+Pub. L. 88–26, §1, May 20, 1963, 77 Stat. 44, provided: “That this Act \[amending section 1339a of this title andsection 590p of Title 16, Conservation, and provisions set out as note under section 1441 of this title\] may be cited as the ‘Feed Grain Act of 1963’.”
 
 #### Short Title of 1962 Amendment
 
-Section 1 of Pub. L. 87–703 provided: “That this Act \[enacting sections 1334b, 1339 to 1339c, 1379a to 1379j, 1431d, 1445a and 1991 of this title and section 713a–13 of Title 15, Commerce and Trade, amending sections 608c,1010, 1011, 1301, 1331 to 1334, 1335, 1336, 1340, 1371, 1385, 1427, 1431, 1431b, 1444b, 1697, 1731 to 1733, 1735, 1736, 1923, 1926, 1929, and 1942 of this title and sections 590g, 590h, 590p, 1004 and 1005 of Title 16, Conservation, repealing section 1337 of this title, enacting provisions set out as notes under this section, sections 1301, 1334, and 1441 of this title, and section 590p of Title 16\] may be cited as the ‘Food and Agriculture Act of 1962’.”
+Section 1 of Pub. L. 87–703 provided: “That this Act \[enacting sections 1334b, 1339 to 1339c, 1379a to 1379j, 1431d, 1445a and 1991 of this title and section 713a–13 of Title 15, Commerce and Trade, amending sections 608c, 1010, 1011, 1301, 1331 to 1334, 1335, 1336, 1340, 1371, 1385, 1427, 1431, 1431b, 1444b, 1697, 1731 to 1733, 1735, 1736, 1923, 1926, 1929, and 1942 of this title and sections 590g, 590h, 590p, 1004 and 1005 of Title 16, Conservation, repealing section 1337 of this title, enacting provisions set out as notes under this section, sections 1301, 1334, and 1441 of this title, and section 590p of Title 16\] may be cited as the ‘Food and Agriculture Act of 1962’.”
 
 #### Short Title of 1958 Amendment
 

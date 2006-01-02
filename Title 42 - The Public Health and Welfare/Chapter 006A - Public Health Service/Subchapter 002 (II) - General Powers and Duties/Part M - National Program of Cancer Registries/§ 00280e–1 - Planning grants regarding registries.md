@@ -8,11 +8,11 @@
 
 #### (2) Other entities
 
-&emsp;For the purpose described in paragraph (1), the Secretary may make grants to public entities other than States and to nonprofit private entities. Such a grant may be made to an entity only if the State in which the purpose is to be carried out has certified that the State approves the entity as qualified to carry out the purpose.
+&emsp;For the purpose described in paragraph (1), the Secretary may make grants to public entities other than States and to nonprofit private entities. Such a grant may be made to an entity only if the State in which the purpose isto be carried out has certified that the State approves the entity as qualified to carry out the purpose.
 
 #### (b) Application
 
-The Secretary may make a grant under subsection (a) of this section only if an applicationfor the grant is submitted to the Secretary, the application contains the certification required in subsection (a)(2) of this section (if the application is for a grant under such subsection), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may make a grant under subsection (a) of this section only if an application for the grant is submitted to the Secretary, the application contains the certification required in subsection (a)(2) of this section (if the application is for a grant under such subsection), and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 (July 1, 1944, ch. 373, title III, §399C, formerly §399I, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3375; renumbered §399C, Pub. L. 106–310, div. A, title V, §502(2)(A), Oct. 17, 2000, 114 Stat. 1115.)
 

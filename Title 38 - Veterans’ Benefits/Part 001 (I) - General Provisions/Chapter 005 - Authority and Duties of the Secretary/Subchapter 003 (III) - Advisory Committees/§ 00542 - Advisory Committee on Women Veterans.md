@@ -1,6 +1,6 @@
 ### §542. Advisory Committee on Women Veterans
 
-(a)(1) The Secretary shall establish an advisory committee to be known as the Advisory Committee on Women Veterans (hereinafter in this section referred to as “the Committee”).
+(a)(1) The Secretary shall establish an advisory committee to be known as the AdvisoryCommittee on Women Veterans (hereinafter in this section referred to as “the Committee”).
 
 (2)(A) The Committee shall consist of members appointed by the Secretary from the general public, including—
 

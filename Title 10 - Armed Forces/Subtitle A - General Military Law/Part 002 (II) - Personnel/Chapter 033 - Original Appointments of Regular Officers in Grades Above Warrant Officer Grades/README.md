@@ -6,6 +6,7 @@
 | [532\.](%C2%A7%2000532%20-%20Qualifications%20for%20original%20appointment%20as%20a%20commissioned%20officer.md) | Qualifications for original appointment as a commissioned officer. |
 | [533\.](%C2%A7%2000533%20-%20Service%20credit%20upon%20original%20appointment%20as%20a%20commissioned%20officer.md) | Service credit upon original appointment as a commissioned officer. |
 | [541\.](%C2%A7%2000541%20-%20Graduates%20of%20the%20United%20States%20Military%2C%20Naval%2C%20and%20Air%20Force%20Academies.md) | Graduates of the United States Military, Naval, and Air Force Academies. |
+| \[555 to 565. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

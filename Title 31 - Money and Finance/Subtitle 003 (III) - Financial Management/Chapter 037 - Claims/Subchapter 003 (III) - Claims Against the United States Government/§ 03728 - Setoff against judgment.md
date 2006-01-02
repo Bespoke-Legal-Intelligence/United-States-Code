@@ -10,7 +10,7 @@
 
 &emsp;(B) have a civil action brought if one has not already been brought.
 
-(c) If the Government loses a civil action to recover a debt or recovers less than the amount the Secretary withholds under this section, the Secretary shall pay the plaintiff the balance and interest of 6 percent for the time the money is withheld.
+(c) If the Government loses a civil action to recover a debt or recovers less than the amountthe Secretary withholds under this section, the Secretary shall pay the plaintiff the balance and interest of 6 percent for the time the money is withheld.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 977; Pub. L. 104–316, title II, §202(p), Oct. 19, 1996, 110 Stat. 3844.)
 

@@ -21,11 +21,11 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 &emsp;If in any taxable period the first use of the highway motor vehicle is after the first month in such period, the tax shall be reckoned proportionately from the first day of the month in which such use occurs to and including the last day in such taxable period.
 
-#### (2) Where vehicle destroyed or stolen
+#### (2) Where vehicle sold, destroyed, or stolen
 
 #### (A) In general
 
-&emsp;&emsp;If in any taxable period a highway motor vehicle is destroyed or stolen before the first day of the last month in such period and not subsequently used during such taxable period, the tax shall be reckoned proportionately from the first day of the month in such period in which the first use of such highway motor vehicle occurs to and including the last day of the month in which such highway motor vehicle was destroyed or stolen.
+&emsp;&emsp;If in any taxable period a highway motor vehicle is sold, destroyed, or stolen before the first day of the last month in such period and not subsequently used during such taxable period, the tax shall be reckoned proportionately from the first day of the month in such period in which the first use of such highway motor vehicle occurs to and including the last day of the month in which such highway motor vehicle was sold, destroyed, or stolen.
 
 #### (B) Destroyed
 
@@ -39,15 +39,33 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 #### (2) Cross reference
 
-&emsp;&emsp;<b>For privilege of paying tax imposed by this section in installments, see section 6156.</b>
+&emsp;&emsp;<b>For privilege of paying tax imposed by this section in installments, see section 6156.</b><b><sup>1</sup></b>
 
-#### (e) Period tax in effect
+#### (e) Electronic filing
 
-The tax imposed by this section shall apply only to use before October 1, 2005.
+Any taxpayer who files a return under this section with respect to 25 or more vehicles for any taxable period shall file such return electronically.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499.)
+#### (f) Period tax in effect
+
+The tax imposed by this section shall apply only to use before October 1, 2011.
+
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944.)
+
+#### References in Text
+
+Section 6156, referred to in subsec. (d)(2), was repealed by Pub. L. 108–357, title VIII, §867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
 
 #### Amendments
+
+2005—Subsec. (f). Pub. L. 109–59 substituted “2011” for “2006”.
+
+Pub. L. 109–14 substituted “2006” for “2005”.
+
+2004—Subsec. (c)(2). Pub. L. 108–357, §867(a)(2), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
+
+Subsec. (c)(2)(A). Pub. L. 108–357, §867(a)(1), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in two places.
+
+Subsecs. (e), (f). Pub. L. 108–357, §867(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1998—Subsec. (e). Pub. L. 105–178 substituted “2005” for “1999”.
 
@@ -94,13 +112,21 @@ Subsec. (e). Pub. L. 94–280, §303(a)(8), substituted “1979” for “1977�
 
 Subsec. (e). Pub. L. 91–605, §303(a)(8), substituted “1977” for “1972”.
 
-1961—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
+1961—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
 Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
 
 Subsec. (d). Pub. L. 87–61, §203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
 Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–14, §9(d), May 31, 2005, 119 Stat. 336, provided that: “The amendments made by this section \[amending this section and sections 4482, 4483, 9503, and 9504 of this title\] shall take effect on the date of the enactment of this Act \[May 31, 2005\].”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §867(e), Oct. 22, 2004, 118 Stat. 1622, provided that: “The amendments made by this section \[amending this section and section 4483 of this title and repealing section 6156 of this title\] shall apply to taxable periods beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -142,7 +168,7 @@ Special rule in the case of certain owner-operators.—
 
 &emsp;&emsp;“(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
-“(F) Highway motor vehicles.—For purposes of this paragraph, the term ‘highway motor vehicle’ has the meaning given to such term by section 4482(a) of such Code.”
+“(F) Highway motor vehicles.—For purposes of this paragraph, the term ‘highway motor vehicle’ hasthe meaning given to such term by section 4482(a) of such Code.”
 
 #### Effective Date of 1961 Amendment
 
@@ -186,7 +212,7 @@ Part I \[§§931–934\] of subtitle D of title IX of div. A of Pub. L. 98–369
 
 #### “SEC. 931. WHETHER HEAVY VEHICLES BEAR FAIR SHARE OF HIGHWAY COSTS.
 
-“The Secretary of Transportation shall conduct a study of whether highway motor vehicles with taxablegross weights of 80,000 pounds or more bear their fair share of the costs of the highway system.
+“The Secretary of Transportation shall conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system.
 
 #### “SEC. 932. TRANS-BORDER TRUCKING.
 
@@ -210,7 +236,5 @@ Report.—Not later than October 1, 1987, the Secretary of Transportation shall 
 
 Section 513(g) of Pub. L. 97–424 provided that the Secretary of Transportation, in consultation with the Secretary of the Treasury, conduct a study of alternatives to the tax on heavy vehicles imposed by section 4481(a) of the Internal Revenue Code, and plans for improving the collecting and enforcement of such tax and alternatives to such tax, such alternatives to include taxes based either singly or in suitable combinations on vehicle size or configuration; vehicle weight, both registered and actual operating weight; and distance traveled, and such plans for improving tax collection and enforcement to provide for Federal and State co-operation in such activities. The study was to be conducted in consultation with State officials, motor carriers, and other affected parties, and the Secretary of Transportation was to submit a report and recommendations to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than Jan. 1, 1985.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4482, 4483, 6156, 6302, 9503 of this title; title 23 section 141; title 49 section 13902.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

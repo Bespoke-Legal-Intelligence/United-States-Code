@@ -19,6 +19,10 @@
 
 1994—Pub. L. 103–322, title XXXIII, §330004(5), Sept. 13, 1994, 108 Stat. 2141, struck out item 754 “Rescue of body of executed offender”.
 
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
 
 ---
 

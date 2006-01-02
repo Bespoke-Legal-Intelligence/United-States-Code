@@ -74,7 +74,3 @@ Section 1247(b) of Pub. L. 99–514 provided that: “The amendment made by subs
 
 For nonapplication of amendment by section 1247(a) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 893 of this title.
-

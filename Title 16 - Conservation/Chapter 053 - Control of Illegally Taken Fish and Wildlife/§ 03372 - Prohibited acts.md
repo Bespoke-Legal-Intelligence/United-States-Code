@@ -24,7 +24,7 @@ It is unlawful for any person—
 
 #### (b) Marking offenses
 
-It is unlawful for any person to import, export, or transport in interstate commerce any container or package containing any fish or wildlifeunless the container or package has previously been plainly marked, labeled, or tagged in accordance with the regulations issued pursuant to paragraph (2) of section 3376(a) of this title.
+It is unlawful for any person to import, export, or transport in interstate commerce any container or package containing any fish or wildlife unless the container or package has previously been plainly marked, labeled, or tagged in accordance with the regulations issued pursuant to paragraph (2) of section 3376(a) of this title.
 
 #### (c) Sale and purchase of guiding and outfitting services and invalid licenses and permits
 

@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after thedate on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 
@@ -30,7 +30,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (B) Acceptance of communications
 
-&emsp;&emsp;The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C), (D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D) of this section, and except for inquiries regarding the status of the administering authority's consideration of the petition.
+&emsp;&emsp;The administering authority shall not accept any unsolicited oral or written communication from any person other than an interested party described in section 1677(9)(C),\(D), (E), (F), or (G) of this title before the administering authority makes its decision whether to initiate an investigation, except as provided in subparagraph (A)(ii) and subsection (c)(4)(D) of this section, and except for inquiries regarding the status of the administering authority's consideration of the petition.
 
 #### (C) Nondisclosure of certain information
 
@@ -104,7 +104,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (E) Comments by interested parties
 
-&emsp;&emsp;Before the administering authority makes a determination with respect to initiating an investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
+&emsp;&emsp;Before the administering authority makes a determination with respect to initiatingan investigation, any person who would qualify as an interested party under section 1677(9) of this title if an investigation were initiated, may submit comments or information on the issue of industry support. After the administering authority makes a determination with respect to initiating an investigation, the determination regarding industry support shall not be reconsidered.
 
 #### (5) “Domestic producers or workers” defined
 
@@ -168,5 +168,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

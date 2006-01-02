@@ -16,10 +16,6 @@
 
 1980—Pub. L. 96–364, title II, §202(b), Sept. 26, 1980, 94 Stat. 1285, added heading for subpart C.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 848, 6058, 7520 of this title; title 19 section 2373; title 29 sections 1054, 1084, 1201, 1202, 1321.
-
 
 ---
 

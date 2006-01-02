@@ -22,7 +22,3 @@ Pub. L. 105–85, §506(a), designated existing provisions as subsec. (a), inser
 
 1984—Pub. L. 98–525 substituted “35” for “thirty-five”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 637, 1401, 1406 of this title.
-

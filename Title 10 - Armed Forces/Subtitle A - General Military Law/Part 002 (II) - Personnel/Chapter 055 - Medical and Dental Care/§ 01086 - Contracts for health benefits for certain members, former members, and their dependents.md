@@ -110,7 +110,7 @@ Subsec. (e). Pub. L. 103–160 inserted at end “In addition, section 1080(b) o
 
 Subsec. (d)(2)(A). Pub. L. 102–484, §705(a), inserted before semicolon “or section 226A(a) of such Act (42 U.S.C. 426–1(a))”.
 
-1991—Subsec. (c). Pub. L. 102–190, §704(b)(1)(A), substituted “Except as provided in subsection (d), the following” for “The following” in introductory provisions and struck out at end “However, a person who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is not eligible for health benefits under this section.”
+1991—Subsec. (c). Pub. L. 102–190, §704(b)(1)(A), substituted “Except as provided in subsection (d), the following” for “The following” in introductory provisionsand struck out at end “However, a person who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.) is not eligible for health benefits under this section.”
 
 Subsec. (d). Pub. L. 102–190, §704(a), as amended by Pub. L. 103–35, added subsec. (d) and struck out former subsec. (d) which read as follows: “The provisions of section 1079(j) of this title shall apply to a plan covered by this section.”
 
@@ -222,6 +222,38 @@ Amendment by Pub. L. 95–485 applicable with respect to claims submitted for pa
 
 For effective date of section, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
+#### Temporary Authority for Waiver of Collection of Payments Due for Champus Benefits Received by Disabled Persons Unaware of Loss of Champus Eligibility
+
+Pub. L. 108–375, div. A, title VII, §716, Oct. 28, 2004, 118 Stat. 1986, provided that:
+
+“(a)
+
+Authority To Waive Debt.—(1) The Secretary of Defense, in consultation with the other administering Secretaries, may waive (in whole or in part) the collection of payments otherwise due from a person described in subsection (b) for health benefits received by such person under section 1086 of title 10, United States Code, after the termination of that person's eligibility for such benefits.
+
+“(2) If the Secretary of Defense waives collection of payments from a person under paragraph (1), the Secretary may also authorize a continuation of benefits for such person under such section 1086 for a period ending not later than the end of the period specified in subsection (c) of this section.
+
+“(b)
+
+Eligible Persons.—A person is eligible for relief under subsection (a)(1) if—
+
+&emsp;“(1) the person is described in paragraph (1) of subsection (d) of section 1086 of title 10, United States Code;
+
+&emsp;“(2) except for such paragraph, the person would have been eligible for the health benefits under such section; and
+
+&emsp;“(3) at the time of the receipt of such benefits—
+
+&emsp;&emsp;“(A) the person satisfied the criteria specified in paragraph (2)(B) of such subsection (d); and
+
+&emsp;&emsp;“(B) the person was unaware of the loss of eligibility to receive the health benefits.
+
+“(c)
+
+Period of Applicability.—The authority provided under this section to waive collection of payments and to continue benefits shall apply, under terms and conditions prescribed by the Secretary of Defense, to health benefits provided under section 1086 of title 10, United States Code, during the period beginning on July 1, 1999, and ending at the end of December 31, 2004.
+
+“(d)
+
+Administering Secretaries.—In this subsection, the term ‘administering Secretaries’ has the meaning given such term in section 1072(3) of title 10, United States Code.”
+
 #### Transitional Authority To Provide Continued Health Care Coverage for Certain Persons Unaware of Loss of CHAMPUS Eligibility
 
 Pub. L. 105–261, div. A, title VII, §704, Oct. 17, 1998, 112 Stat. 2057, provided that:
@@ -276,7 +308,7 @@ Extent of Waiver Authority.—The authority to waive the collection of payments 
 
 “(d)
 
-Definitions.—For purposes of this section, the term ‘administering Secretaries’ has the meaning given such term in section 1072(3) of title 10, United States Code.”
+Definitions.—For purposes of this section, the term ‘administering Secretaries’ has the meaning givensuch term in section 1072(3) of title 10, United States Code.”
 
 #### Minimum Amount Payable for Services Provided Under This Section
 
@@ -291,8 +323,4 @@ Pub. L. 103–160, div. A, title VII, §704, Nov. 30, 1993, 107 Stat. 1687, prov
 #### Coverage of Care Provided Since September 30, 1991
 
 Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 1086 of title 10, United States Code, as added by section 704(a) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190; 105 Stat. 1401) and amended by subsection (a) of this section, shall apply with respect to health care benefits or services received after September 30, 1991, by a person described in subsection (d)(2) of such section 1086 if such benefits or services would have been covered under a plan contracted for under such section 1086.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072, 1074g, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1097b, 1098, 1100, 1104, 1105, 1111 of this title; title 42 sections 300e–1, 1395cc, 1395ggg.
 

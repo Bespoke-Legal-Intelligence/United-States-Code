@@ -2,7 +2,7 @@
 
 #### (a) Federally funded activities
 
-(1) For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], on the basis of handicap under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], on the basis of sex under title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], programs and activities funded in whole or in part with funds made available under this subchapter are considered to be programs and activities receiving Federal financial assistance.
+(1) For the purpose of applying the prohibitions against discrimination on the basis of age under the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], on the basis of handicap under section 504 of the Rehabilitation Act of1973 \[29 U.S.C. 794\], on the basis of sex under title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], programs and activities funded in whole or in part with funds made available under this subchapter are considered to be programs and activities receiving Federal financial assistance.
 
 (2) No person shall on the ground of sex or religion be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds made available under this subchapter.
 
@@ -26,7 +26,7 @@ When a matter is referred to the Attorney General pursuant to subsection (b)(1) 
 
 The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in EducationAct, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B)(i) after 90 days before the date of the filing of the petition; and
 
-&emsp;&emsp;(ii) while the debtor was insolvent; or
+&emsp;&emsp;(ii) while the debtor was insolvent (except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561); or
 
 &emsp;(3) the debt owed to the debtor by such creditor was incurred by such creditor—
 
@@ -18,9 +18,9 @@
 
 &emsp;&emsp;(B) while the debtor was insolvent; and
 
-&emsp;&emsp;(C) for the purpose of obtaining a right of setoff against the debtor.
+&emsp;&emsp;(C) for the purpose of obtaining a right of setoff against the debtor (except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561).
 
-(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(14),<sup>1</sup> 365(h), 546(h), or 365(i)(2) of this title, if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days before the date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
+(b)(1) Except with respect to a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, 561, 365(h), 546(h), or 365(i)(2) of this title, if a creditor offsets a mutual debt owing to the debtor against a claim against the debtor on or within 90 days before the date of the filing of the petition, then the trustee may recover from such creditor the amount so offset to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
 
 &emsp;(A) 90 days before the date of the filing of the petition; and
 
@@ -30,7 +30,7 @@
 
 (c) For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §§395, 467, July 10, 1984, 98 Stat. 365, 380; Pub. L. 101–311, title I, §105, June 25, 1990, 104 Stat. 268; Pub. L. 103–394, title II, §§205(b), 222(b), title V, §501(d)(19), Oct. 22, 1994, 108 Stat. 4123, 4129, 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §§395, 467, July 10, 1984, 98 Stat. 365, 380; Pub. L. 101–311, title I, §105, June 25, 1990, 104 Stat. 268; Pub. L. 103–394, title II, §§205(b), 222(b), title V, §501(d)(19), Oct. 22, 1994, 108 Stat. 4123, 4129, 4146; Pub. L. 109–8, title IX, §907(n), Apr. 20, 2005, 119 Stat. 181.)
 
 #### Historical and Revision Notes
 
@@ -46,11 +46,13 @@ The section states that the right of setoff is unaffected by the bankruptcy code
 
 As under section 547(f), the debtor is presumed to have been insolvent during the 90 days before the case.
 
-#### References in Text
-
-Section 362(b)(14), referred to in subsec. (b)(1), was redesignated section 362(b)(17) by Pub. L. 103–394, title V, §501(d)(7)(B)(vii)(II), (III), Oct. 22, 1994, 108 Stat. 4144.
-
 #### Amendments
+
+2005—Subsec. (a)(2)(B)(ii). Pub. L. 109–8, §907(n)(1), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before semicolon.
+
+Subsec. (a)(3)(C). Pub. L. 109–8, §907(n)(2), inserted “(except for a setoff of a kind described in section 362(b)(6), 362(b)(7), 362(b)(17), 362(b)(27), 555, 556, 559, 560, or 561)” before period.
+
+Subsec. (b)(1). Pub. L. 109–8, §907(n)(3), substituted “362(b)(17), 362(b)(27), 555, 556, 559, 560, 561,” for “362(b)(14),” in introductory provisions.
 
 1994—Subsec. (a)(1). Pub. L. 103–394, §501(d)(19)(A), struck out before semicolon at end “other than under section 502(b)(3) of this title”.
 
@@ -64,6 +66,10 @@ Pub. L. 103–394, §205(b), substituted “365(h)” for “365(h)(2)”.
 
 1984—Subsec. (b)(1). Pub. L. 98–353 inserted “, 362(b)(7),” after “362(b)(6)”, and substituted “, 365(h)(2), or 365(i)(2)” for “or 365(h)(1)”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -71,6 +77,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

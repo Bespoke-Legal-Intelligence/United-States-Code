@@ -10,7 +10,7 @@ The return and payment of the taxes imposed by this chapter on the income of ind
 
 #### (c) American Samoa
 
-The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of American Samoa or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of American Samoa or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of thetax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
+The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of American Samoa or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Governmentor political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of American Samoa or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
 #### (d) District of Columbia
 
@@ -86,15 +86,11 @@ Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid 
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 317(c)(1), (2) of Pub. L. 89–97 applicable with respect to services performed after quarter ending September 30, 1965, and after quarter in which Secretary of the Treasury receives a certification from Commissioners of District of Columbia expressing their desire to have insurance system established by section 401 et seq. and 1395c et seq. of Title 42, The Public Health and Welfare, extended to officers and employees coming under provisions of such amendments, see section 317(g) of Pub. L. 89–97, set out as a note under section 410 of Title 42.
+Amendment by section 317(c)(1), (2) of Pub. L. 89–97 applicable with respect to services performed after quarter ending September 30, 1965, and after quarter in which Secretary of the Treasury receives a certification from Commissioners of District of Columbia expressing their desire to have insurance system established by section 401 et seq. and 1395c et seq. of Title 42,The Public Health and Welfare, extended to officers and employees coming under provisions of such amendments, see section 317(g) of Pub. L. 89–97, set out as a note under section 410 of Title 42.
 
 Amendment by section 320(b)(4) of Pub. L. 89–97 applicable with respect to remuneration paid after December 1965, see section 320(c) of Pub. L. 89–97, set out as a note under section 3121 of this title.
 
 #### Effective Date
 
 Section applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act (42 U.S.C. 401 et seq.) extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 402 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6205, 6413 of this title; title 42 section 430.
 

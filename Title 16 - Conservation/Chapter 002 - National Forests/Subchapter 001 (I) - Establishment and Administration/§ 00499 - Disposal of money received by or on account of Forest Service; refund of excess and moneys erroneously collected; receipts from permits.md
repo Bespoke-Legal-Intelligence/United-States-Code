@@ -6,7 +6,7 @@ All money received by or on account of the Forest Service for timber, or from an
 
 #### References in Text
 
-Section 471(b) of this title, referred to in text, was repealed by section 704(a) of Pub. L. 94–579, title VII, Oct. 21, 1976, 90 Stat. 2792. For further details, see Codification note below.
+Section 471(b) of this title, referred to in text, was repealed by section 704(a) of Pub. L. 94–579, title VII, Oct.21, 1976, 90 Stat. 2792. For further details, see Codification note below.
 
 #### Codification
 

@@ -2,7 +2,7 @@
 
 #### (a) Rules and regulations for keeping and preserving accounts, records, etc.
 
-Every natural-gas company shall make, keep, and preserve for such periods, such accounts, records of cost-accounting procedures, correspondence, memoranda, papers, books, and other records as the Commission may by rules and regulations prescribe as necessary or appropriate for purposes of the administration of this chapter: <i>Provided, however</i>, That nothing in this chapter shall relieve any such natural-gas company from keeping any accounts, memoranda, or records which such natural-gas company may be required to keep by or under authority of the laws of any State. The Commission may prescribe a system of accounts to be kept by such natural-gas companies, and may classify such natural-gas companies and prescribe a system of accounts for each class. The Commission, after notice and opportunity for hearing, may determine by order the accounts in which particular outlays or receipts shall be entered, charged, or credited. The burden of proof to justify every accounting entry questioned by the Commission shall be on the person making, authorizing, or requiring such entry, and the Commission may suspend a charge or credit pending submission of satisfactory proof in support thereof.
+Every natural-gas company shall make, keep, and preserve for such periods, such accounts, records of cost-accounting procedures, correspondence, memoranda, papers, books, and other records as the Commission may by rules and regulations prescribe as necessary or appropriate for purposes of the administration of this chapter: <i>Provided, however</i>, That nothing in this chapter shall relieve any such natural-gas company from keeping any accounts, memoranda, orrecords which such natural-gas company may be required to keep by or under authority of the laws of any State. The Commission may prescribe a system of accounts to be kept by such natural-gas companies, and may classify such natural-gas companies and prescribe a system of accounts for each class. The Commission, after notice and opportunity for hearing, may determine by order the accounts in which particular outlays or receipts shall be entered, charged, or credited. The burden of proof to justify every accounting entry questioned by the Commission shall be on the person making, authorizing, or requiring such entry, and the Commission may suspend a charge or credit pending submission of satisfactory proof in support thereof.
 
 #### (b) Access to and inspection of accounts and records
 
@@ -13,10 +13,4 @@ The Commission shall at all times have access to and the right to inspect and ex
 The books, accounts, memoranda, and records of any person who controls directly or indirectly a natural-gas company subject to the jurisdiction of the Commission and of any other company controlled by such person, insofar as they relate to transactions with or the business of such natural-gas company, shall be subject to examination on the order of the Commission.
 
 (June 21, 1938, ch. 556, §8, 52 Stat. 825.)
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 

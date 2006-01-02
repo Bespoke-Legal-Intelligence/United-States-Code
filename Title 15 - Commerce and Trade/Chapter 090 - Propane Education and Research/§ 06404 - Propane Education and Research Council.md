@@ -38,7 +38,7 @@ Not less than 5 percent of the funds collected through assessments pursuant to t
 
 #### (h) Priorities
 
-Issues related to research and development, safety, education, and training shall be given priority by the Council in the development of its programs and projects.
+Issues related to research and development, safety, education, and training shall be givenpriority by the Council in the development of its programs and projects.
 
 #### (i) Administration
 
@@ -52,7 +52,7 @@ The Council shall select from among its members a Chairman and other officers as
 
 #### (k) Budget
 
-Before August 1 each year, the Council shall publish for public review and comment a budget plan for the next calendar year, including the probable costs of all programs, projects, and contracts and a recommended rate of assessment sufficient to cover such costs. Following this review and comment, the Council shall submit the proposed budget to the Secretary and tothe Congress. The Secretary may recommend programs and activities the Secretary considers appropriate.
+Before August 1 each year, the Council shall publish for public review and comment a budget plan for the next calendar year, including the probable costs of all programs, projects, and contracts and a recommended rate of assessment sufficient to cover such costs. Following this review and comment, the Council shall submit the proposed budget to the Secretary and to the Congress. The Secretary may recommend programs and activities the Secretary considers appropriate.
 
 #### (<i>l</i>) Records; audits
 

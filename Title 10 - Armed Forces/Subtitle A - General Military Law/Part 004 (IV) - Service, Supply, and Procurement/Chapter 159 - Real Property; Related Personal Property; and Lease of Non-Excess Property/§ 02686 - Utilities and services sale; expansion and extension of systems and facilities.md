@@ -24,7 +24,7 @@
 
 (c) To meet local needs the Secretary concerned may make minor expansions and extensions of any distributing system or facility within an activity through which a utility or service is furnished under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2481; Pub. L. 86–156, Aug. 14, 1959, 73 Stat. 338; renumbered §2686, Pub. L. 105–85, div. A, title III, §371(b)(1), Nov. 18, 1997, 111 Stat. 1705.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2481; Pub. L. 86–156, Aug. 14, 1959, 73 Stat. 338; renumbered§2686, Pub. L. 105–85, div. A, title III, §371(b)(1), Nov. 18, 1997, 111 Stat. 1705.)
 
 Historical and Revision Notes
 
@@ -99,8 +99,4 @@ Subsec. (c). Pub. L. 86–156, §1(2), struck out “of the military department�
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2814 of this title.
 

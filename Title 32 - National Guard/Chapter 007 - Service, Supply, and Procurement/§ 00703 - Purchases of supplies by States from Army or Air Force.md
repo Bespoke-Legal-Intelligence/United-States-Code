@@ -1,12 +1,12 @@
 ### §703. Purchases of supplies by States from Army or Air Force
 
-(a) Subject to the approval of the Secretary of the Army, any State or Territory, Puerto Rico, or the District of Columbia may buy from the Department of the Army, for its National Guard or the officers thereof, supplies and military publications furnished to the Army, in addition to other supplies issued to its Army National Guard. On the same basis, it may buy similar property from the Department of the Air Force. A purchase under this subsection shall be for cash, at cost plus transportation.
+(a) Subject to the approval of the Secretary of the Army, any State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may buy from the Department of the Army, for its National Guard or the officers thereof, supplies and military publications furnished to the Army, in addition to other supplies issued to its Army National Guard. On the same basis, it may buy similar property from the Department of the Air Force. A purchase under this subsection shall be for cash, at cost plus transportation.
 
-(b) In time of actual or threatened war, the United States may requisition for military use any property bought under subsection (a). Credit for the return in kind of property so requisitioned shall be given to the State or Territory, Puerto Rico, or the District of Columbia from which it is received.
+(b) In time of actual or threatened war, the United States may requisition for military use any property bought under subsection (a). Credit for the return in kind of property so requisitioned shall be given to the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands from which it is received.
 
 (c) Proceeds of sales by the Department of the Army and the Department of the Air Force under this section shall be credited to the appropriations from which the property was purchased, shall not be covered into the Treasury, and may be used to replace property sold under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 613; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -45,6 +45,8 @@ In subsection (b), 32:39a (less last 23 words) is omitted as obsolete and supers
 In subsection (c), the words “Proceeds of sales by the Department of the Army and the Department of the Air Force under this section” are substituted for the words “The funds received from such sale”. The words “from which the property was purchased” are substituted for the words “to which they shall belong”. The words “may be used to replace property sold under this section” are substituted for the words “shall be available until expended to replace therewith the supplies sold to the States in the manner herein authorized”.
 
 #### Amendments
+
+2006—Subsecs. (a), (b). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
 
 1988—Subsecs. (a), (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

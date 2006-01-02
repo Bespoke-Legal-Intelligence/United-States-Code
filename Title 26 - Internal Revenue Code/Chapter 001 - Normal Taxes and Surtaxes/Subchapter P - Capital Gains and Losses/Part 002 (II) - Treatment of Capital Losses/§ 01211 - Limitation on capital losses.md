@@ -46,7 +46,3 @@ Section 1401(c) of Pub. L. 94–455 provided that: “The amendments made by thi
 
 Section 513(d) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and sections 1212 and 1222 of this title\] shall apply to taxable years beginning after December 31, 1969.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32, 165, 221, 641, 691, 1212, 1222, 1231 of this title.
-

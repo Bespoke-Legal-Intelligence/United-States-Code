@@ -28,7 +28,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 In furtherance of the purposes of this chapter, the President is further authorized to provide for—
 
-&emsp;(1) interchanges between the United States and other countries of handicrafts, scientific, technical, and scholarly books, books of literature, periodicals, and Government publications, and the reproduction and translation of such writings, and the preparation, distribution, and interchange of other educational and research materials, including laboratory and technical equipment for education and research;
+&emsp;(1) interchanges between the United States and other countries of handicrafts, scientific, technical, and scholarly books, books of literature, periodicals, and Government publications, and the reproduction and translation of such writings, and the preparation, distribution, and interchange of other educational andresearch materials, including laboratory and technical equipment for education and research;
 
 &emsp;(2) establishing and operating in the United States and abroad centers for cultural and technical interchanges to promote better relations and understanding between the United States and other nations through cooperative study, training, and research;
 
@@ -38,7 +38,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(5) promoting and supporting medical, scientific, cultural, and educational research and development;
 
-&emsp;(6) promoting modern foreign language training and area studies in United Statesschools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
+&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
 
 &emsp;(7) United States representation at international nongovernmental educational, scientific, and technical meetings;
 
@@ -248,7 +248,9 @@ Travel Regulations.—Members of the Board shall be subject to the same travel r
 
 #### “SEC. 206. FELLOWSHIP PROGRAM.
 
-“(a) Award of Fellowships.—
+“(a)
+
+Award of Fellowships.—
 
 &emsp;“(1)
 
@@ -330,7 +332,7 @@ Disbursement of funds.—The Secretary of the Treasury, at least on a quarterly 
 
 &emsp;“(3)
 
-Transfer of excess funds to miscellaneous receipts.—Beginning with fiscal year 2002, and each subsequent fiscal year through fiscal year 2018, the Secretary of the Treasury shall withdraw from the Fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in the Fund in excess of amounts made available to the Foundation under paragraph (1).
+Transfer of excess funds to miscellaneous receipts.—Beginning with fiscal year 2002, and eachsubsequent fiscal year through fiscal year 2018, the Secretary of the Treasury shall withdraw from the Fund and deposit in the Treasury of the United States as miscellaneous receipts all moneys in the Fund in excess of amounts made available to the Foundation under paragraph (1).
 
 “(d)
 
@@ -424,7 +426,7 @@ Pub. L. 103–236, title II, §238, Apr. 30, 1994, 108 Stat. 426, related to est
 
 Pub. L. 103–236, title II, §239, Apr. 30, 1994, 108 Stat. 426, related to expansion of exchange program allocations to Africa.
 
-Pub. L. 103–236, title II, §240, Apr. 30, 1994, 108 Stat. 426, as amended by Pub. L. 105–244, title I, §102(a)(7)(A), Oct. 7, 1998, 112 Stat. 1619, established a program to promote academic exchanges in disciplines relevant to environment and sustainable development.
+Pub. L. 103–236, title II, §240, Apr. 30, 1994, 108 Stat. 426, as amended by Pub. L. 105–244, title I, §102(a)(7)(A),Oct. 7, 1998, 112 Stat. 1619, established a program to promote academic exchanges in disciplines relevant to environment and sustainable development.
 
 Pub. L. 103–236, title II, §241, Apr. 30, 1994, 108 Stat. 427, authorized scholarships to qualified students from South Pacific nations.
 

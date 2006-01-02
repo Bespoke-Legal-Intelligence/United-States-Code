@@ -134,7 +134,7 @@ For purposes of this section:
 
 &emsp;(A) The survivor benefits payable under this subsection to a qualified former spouse shall include the amount payable under section 8442(b)(1)(A) of title 5 and any supplementary annuity under section 8442(f) of such title that would be payable if such former spouse were a widow or widower entitled to an annuity under such section.
 
-&emsp;(B) Any calculation under section 8442(f) of title 5 of the supplementary annuity payable to a widow or widower of an employee referred to in section 2152(a) of this title shall be based on an “assumed CIARDS annuity” rather than an “assumed CSRS annuity” as stated in section 8442(f) of such title. For the purpose of this subparagraph, the term “assumed CIARDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under subchapter II of this chapter based on the service of the deceased annuitant determined under section 8442(f)(5) of such title.
+&emsp;(B) Any calculation under section 8442(f) of title 5 of the supplementary annuity payableto a widow or widower of an employee referred to in section 2152(a) of this title shall be based on an “assumed CIARDS annuity” rather than an “assumed CSRS annuity” as stated in section 8442(f) of such title. For the purpose of this subparagraph, the term “assumed CIARDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under subchapter II of this chapter based on the service of the deceased annuitant determined under section 8442(f)(5) of such title.
 
 #### (3) Disqualification upon remarriage before age 55
 
@@ -160,7 +160,7 @@ For purposes of this section:
 
 &emsp;Notwithstanding paragraph (1)(B), in the case of an employee who has elected to become subject to chapter 84 of title 5, the share of such employee's qualified former spouse to survivor benefits shall equal the sum of—
 
-&emsp;&emsp;(A) 50 percent of the employee's annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of theemployee's creditable service before the effective date of the election to transfer bears to the employee's total creditable service before such effective date; and
+&emsp;&emsp;(A) 50 percent of the employee's annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service before the effective date of the election to transfer bears to the employee's total creditable service before such effective date; and
 
 &emsp;&emsp;(B) if applicable—
 
@@ -230,7 +230,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 #### (i) Applicability of CIARDS former spouse benefits
 
-(1) Except as provided in paragraph (2), in the case of an employee who has elected to become subject to chapter 84 of title 5, the provisions of sections 2034 and 2035 of this title shall apply to such employee's former spouse (as defined insection 2002(a)(4) of this title) who would otherwise be eligible for benefits under sections 2034 and 2035 of this title but for the employee having elected to become subject to such chapter.
+(1) Except as provided in paragraph (2), in the case of an employee who has elected to become subject to chapter 84 of title 5, the provisions of sections 2034 and 2035 of this title shall apply to such employee's former spouse (as defined in section 2002(a)(4) of this title) who would otherwise be eligible for benefits under sections 2034 and 2035 of this title but for the employee having elected to become subject to such chapter.
 
 (2) For the purposes of computing such former spouse's benefits under sections 2034 and 2035 of this title—
 

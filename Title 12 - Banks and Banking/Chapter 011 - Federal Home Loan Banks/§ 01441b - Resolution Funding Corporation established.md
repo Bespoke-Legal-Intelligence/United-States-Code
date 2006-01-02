@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of the Resolution Funding Corporation is to provide funds to the ResolutionTrust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
+The purpose of the Resolution Funding Corporation is to provide funds to the Resolution Trust Corporation to enable the Resolution Trust Corporation to carry out the provisions of this chapter.
 
 #### (b) Establishment
 
@@ -104,7 +104,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (8) Authority to sue
 
-&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any actionbrought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
+&emsp;To sue and be sued in its corporate capacity, and to complain and defend in any action brought by or against the Funding Corporation in any State or Federal court of competent jurisdiction.
 
 #### (9) Incidental powers
 
@@ -236,7 +236,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;If the amount of any Federal Home Loan Bank's allocation under paragraph (5) exceeds the maximum amount applicable with respect to such Bank (in this paragraph referred to as a “deficient Bank”) under paragraph (3) at the time of such determination (in this paragraph referred to as the “excess amount”)—
 
-&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceedsits maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficient Bank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
 
@@ -358,7 +358,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Liability of Funding Corporation
 
-&emsp;&emsp;&emsp;In each instance where the Secretary is required to make a payment under this subparagraph to the Funding Corporation, the amount of the payment shall become a liability of the Funding Corporation to be repaid to the Secretary upon dissolution of the Funding Corporation (to the extent the Funding Corporation may have any remaining assets).
+&emsp;&emsp;&emsp;In each instance where the Secretary is required to make a payment under thissubparagraph to the Funding Corporation, the amount of the payment shall become a liability of the Funding Corporation to be repaid to the Secretary upon dissolution of the Funding Corporation (to the extent the Funding Corporation may have any remaining assets).
 
 #### (iii) Appropriation of funds
 
@@ -406,7 +406,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Authority of Commission
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Securities and Exchange Commission may, by rule or order, consistent with the public interest and the protection of investors, exempt securities issued by the Funding Corporation from the registration requirementsof the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], subject to such terms and conditions as the Commission may prescribe.
+&emsp;&emsp;Notwithstanding subparagraph (A), the Securities and Exchange Commission may, by rule or order, consistent with the public interest and the protection of investors, exempt securities issued by the Funding Corporation from the registration requirements of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], subject to such terms and conditions as the Commission may prescribe.
 
 #### (9) Minority participation in public or negotiated offerings
 
@@ -424,7 +424,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (2) Separate account for zero coupon instruments held to ensure payment of principal
 
-&emsp;Except as provided in subsection (e)(8) of this section, the Funding Corporation shall invest amounts received pursuant to subsection (e) of this section in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
+&emsp;Except as provided in subsection (e)(8) of this section, the Funding Corporation shall invest amounts received pursuant to subsection\(e) of this section in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
 
 &emsp;&emsp;(A) which are direct obligations of the United States issued by the Secretary; and
 
@@ -558,7 +558,15 @@ For purposes of this section:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §9(d)(7), (8), (j), Feb. 15, 2006, 119 Stat. 3617, 3618, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (e), by inserting “as of the date of funding” after “Savings Association Insurance Fund members” each place that term appears in paragraph (5) and by striking paragraphs (7) and (8); and</i>
+
+<i>(2) in subsection (k), by inserting before the colon in introductory provisions “, the following definitions shall apply”, by striking paragraph (8), and by redesignating paragraphs (9) and (10) as paragraphs (8) and (9), respectively.</i>
 
 #### References in Text
 
@@ -581,6 +589,10 @@ Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the 
 Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted “Thrift Depositor Protection Oversight” for “Oversight” in heading.
 
 1991—Pub. L. 102–233 substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” wherever appearing in text.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 1999 Amendment
 

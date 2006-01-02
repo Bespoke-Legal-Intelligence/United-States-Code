@@ -40,7 +40,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(C) to the extent consistent with any applicable agency requirements or standards of conduct, permit an employee or former employee of the laboratory to participate in an effort to commercialize an invention made by the employee or former employee while in the employment or service of the Government; and
 
-&emsp;(D) waive, subject to reservation by the Government of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the worldby or on behalf of the Government, in advance, in whole or in part, any right of ownership which the Federal Government may have to any subject invention made under the agreement by a collaborating party or employee of a collaborating party.
+&emsp;(D) waive, subject to reservation by the Government of a nonexclusive, irrevocable, paid-up license to practice the invention or have the invention practiced throughout the world by or on behalf of the Government, in advance, in whole or in part, any right of ownership which the Federal Government may have to any subject invention made under the agreement by a collaborating party or employee of a collaborating party.
 
 (4) A collaborating party in an exclusive license in any invention made under an agreement entered into pursuant to subsection (a)(1) of this section shall have the right of enforcement under chapter 29 of title 35.
 
@@ -82,7 +82,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (ii) A Federal agency that receives a proposed agreement and joint work statement under clause (i) shall review and approve, request specific modifications to, or disapprove the proposed agreement and joint work statement within 30 days after such submission. No agreement may be entered into by a Government-owned, contractor-operated laboratory under this section before both approval of the agreement and approval of a joint work statement under this clause.
 
-(iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a writtenexplanation of such disapproval or modification to the head of the laboratory concerned.
+(iii) In any case in which an agency which has contracted with an entity referred to in clause (i) disapproves or requests the modification of a cooperative research and development agreement or joint work statement submitted under that clause, the agency shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
 (iv) Any agency that has contracted with a non-Federal entity to operate a laboratory may develop and provide to such laboratory one or more model cooperative research and development agreements for purposes of standardizing practices and procedures, resolving common legal issues, and enabling review of cooperative research and development agreements to be carried out in a routine and prompt manner.
 
@@ -106,7 +106,7 @@ As used in this section—
 
 &emsp;&emsp;(B) a group of Government-owned, contractor-operated facilities (including a weapon production facility of the Department of Energy) under a common contract, when a substantial purpose of the contract is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government; and
 
-&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon production facility of the Department of Energy) that is not under a common contract described in subparagraph (B), and the primary purpose of which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
+&emsp;&emsp;(C) a Government-owned, contractor-operated facility (including a weapon production facility of the Department of Energy) that is not under a common contract described in subparagraph (B), and the primary purposeof which is the performance of research and development, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components, for the Federal Government,
 
 > &emsp;but such term does not include any facility covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
@@ -130,7 +130,7 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 &emsp;(2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654,1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
+(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
 
 #### References in Text
 
@@ -242,7 +242,7 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 
 &emsp;&emsp;“(i) such employee, or the spouse, child, parent, sibling, or partner of such employee, or an organization (other than the laboratory) in which such employee serves as an officer, director, trustee, partner, or employee—
 
-&emsp;&emsp;&emsp;“(I) holds a financial interest in any entity, other than the laboratory, that has a substantial interest in the preparation, negotiation, or approval of the cooperative research and development agreement; or
+&emsp;&emsp;&emsp;“(I) holds a financial interest in any entity, other than the laboratory, that has a substantialinterest in the preparation, negotiation, or approval of the cooperative research and development agreement; or
 
 &emsp;&emsp;&emsp;“(II) receives a gift or gratuity from any entity, other than the laboratory, that has a substantial interest in the preparation, negotiation, or approval of the cooperative research and development agreement; or
 

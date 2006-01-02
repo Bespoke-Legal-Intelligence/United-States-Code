@@ -10,5 +10,5 @@ Any person who willfully violates section 1192 or 1197(b) of this title, or who 
 
 #### Transfer of Functions
 
-Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under FederalTrade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
+Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
 

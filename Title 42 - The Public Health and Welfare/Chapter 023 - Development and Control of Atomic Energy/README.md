@@ -12,6 +12,46 @@
 | [2014\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002014%20-%20Definitions.md) | Definitions. |
 | [2015\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002015%20-%20Transfer%20of%20property.md) | Transfer of property. |
 | [2015a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002015a%20-%20Cold%20standby.md) | Cold standby. |
+| [2015b.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002015b%20-%20Scholarship%20and%20fellowship%20program.md) | Scholarship and fellowship program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Scholarship program.
+
+(b)
+
+Fellowship program.
+
+(c)
+
+Requirements.
+
+(d)
+
+Competitive process.
+
+(e)
+
+Direct appointment.
+
+|  |  |
+| :--- | ---: |
+| [2015c.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002015c%20-%20Partnership%20program%20with%20institutions%20of%20higher%20education.md) | Partnership program with institutions of higher education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Partnership program.
+
+|  |  |
+| :--- | ---: |
 | [2016\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002016%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28a%29%281%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202042.md) | Repealed. |
 | [2017\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002017%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -344,7 +384,7 @@ Contracts and loans for research activities.
 
 (b)
 
-Grants and contributions for facilities in educational and training institutions.
+Grants and contributions.
 
 (c)
 
@@ -537,7 +577,24 @@ Prior locations.
 
 |  |  |
 | :--- | ---: |
-| [2111\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20007%20%28VII%29%20-%20Byproduct%20Materials/%C2%A7%2002111%20-%20Domestic%20distribution%3B%20license%3B%20price%20limitations.md) | Domestic distribution; license; price limitations. |
+| [2111\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20007%20%28VII%29%20-%20Byproduct%20Materials/%C2%A7%2002111%20-%20Domestic%20distribution.md) | Domestic distribution. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Requirements.
+
+(c)
+
+Treatment as low-level radioactive waste.
+
+|  |  |
+| :--- | ---: |
 | [2112\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20007%20%28VII%29%20-%20Byproduct%20Materials/%C2%A7%2002112%20-%20Foreign%20distribution%20of%20byproduct%20material.md) | Foreign distribution of byproduct material. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -914,6 +971,18 @@ Subsequent arrangements involving direct or indirect commitment of United States
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+(a)
+
+In general.
+
+(b)
+
+Medical isotope production.
+
+(c)
+
+Definitions.
+
 #### SUBCHAPTER XI—CONTROL OF INFORMATION
 
 |  |  |
@@ -1065,7 +1134,7 @@ Quarterly reports for interested persons; contents.
 
 (a)
 
-Persons subject to fingerprinting; submission of fingerprints to Attorney General; costs; results of check.
+In general.
 
 (b)
 
@@ -1076,6 +1145,10 @@ Waiver.
 Regulations.
 
 (d)
+
+Use of biometric methods.
+
+(e)
 
 Processing fees; use of amounts collected.
 
@@ -1285,6 +1358,28 @@ Standards and instructions for bonding, surety, or other financial arrangements,
 
 |  |  |
 | :--- | ---: |
+| [2201a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002201a%20-%20Use%20of%20firearms%20by%20security%20personnel.md) | Use of firearms by security personnel. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Authorization.
+
+(c)
+
+Background checks.
+
+(d)
+
+Effective date.
+
+|  |  |
+| :--- | ---: |
 | [2202\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002202%20-%20Contracts.md) | Contracts. |
 | [2203\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002203%20-%20Advisory%20committees.md) | Advisory committees. |
 | [2204\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002204%20-%20Electric%20utility%20contracts%3B%20authority%20to%20enter%20into%3B%20cancellation%3B%20submission%20to%20Energy%20Committees.md) | Electric utility contracts; authority to enter into; cancellation; submission to Energy Committees. |
@@ -1408,7 +1503,7 @@ Disclosure requirements.
 
 (b)
 
-Preliminary contract findings.
+Evaluation.
 
 (c)
 
@@ -1442,22 +1537,103 @@ Excessive imports for contracts or options as threatening national security; inv
 
 |  |  |
 | :--- | ---: |
-| [2211\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002211%20-%20Payment%20of%20claims%20or%20judgments%20for%20damage%20resulting%20from%20nuclear%20incident%20involving%20nuclear%20reactor%20of%20United%20States%20warship%3B%20exception%E2%80%A6.md) | Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception; terms and conditions. |
-| [2212\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002212%20-%20Transferred.md) | Transferred. |
-| [2213\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002213%20-%20Nuclear%20Regulatory%20Commission%20annual%20charges.md) | Nuclear Regulatory Commission annual charges. |
+| [2210c.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210c%20-%20Elimination%20of%20pension%20offset%20for%20certain%20rehired%20Federal%20retirees.md) | Elimination of pension offset for certain rehired Federal retirees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(1)
+(a)
 
 In general.
 
-(2)
+(b)
 
-Establishment of amount by rule.
+Procedures.
+
+(c)
+
+Effect of waiver.
 
 |  |  |
 | :--- | ---: |
+| [2210d.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210d%20-%20Security%20evaluations.md) | Security evaluations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Security response evaluations.
+
+(b)
+
+Force-on-force exercises.
+
+(c)
+
+Action by licensees.
+
+(d)
+
+Facilities under heightened threat levels.
+
+(e)
+
+Report.
+
+|  |  |
+| :--- | ---: |
+| [2210e.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210e%20-%20Design%20basis%20threat%20rulemaking.md) | Design basis threat rulemaking. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Rulemaking.
+
+(b)
+
+Factors.
+
+|  |  |
+| :--- | ---: |
+| [2210f.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210f%20-%20Recruitment%20tools.md) | Recruitment tools. |
+| [2210g.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210g%20-%20Expenses%20authorized%20to%20be%20paid%20by%20the%20Commission.md) | Expenses authorized to be paid by the Commission. |
+| [2210h.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210h%20-%20Radiation%20source%20protection.md) | Radiation source protection. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Commission approval.
+
+(c)
+
+Tracking system.
+
+(d)
+
+Penalty.
+
+(e)
+
+National Academy of Sciences study.
+
+(f)
+
+Task force on radiation source protection and security.
+
+(g)
+
+Action by Commission.
+
+|  |  |
+| :--- | ---: |
+| [2210i.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002210i%20-%20Secure%20transfer%20of%20nuclear%20materials.md) | Secure transfer of nuclear materials. |
+| [2211\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002211%20-%20Payment%20of%20claims%20or%20judgments%20for%20damage%20resulting%20from%20nuclear%20incident%20involving%20nuclear%20reactor%20of%20United%20States%20warship%3B%20exception%E2%80%A6.md) | Payment of claims or judgments for damage resulting from nuclear incident involving nuclear reactor of United States warship; exception; terms and conditions. |
+| 2212, 2213. | Repealed or Transferred. |
 | [2214\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20013%20%28XIII%29%20-%20General%20Authority%20of%20Commission/%C2%A7%2002214%20-%20NRC%20user%20fees%20and%20annual%20charges.md) | NRC user fees and annual charges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1685,7 +1861,7 @@ Criminal penalties.
 | [2276\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002276%20-%20Tampering%20with%20Restricted%20Data.md) | Tampering with Restricted Data. |
 | [2277\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002277%20-%20Disclosure%20of%20Restricted%20Data.md) | Disclosure of Restricted Data. |
 | [2278\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002278%20-%20Statute%20of%20limitations.md) | Statute of limitations. |
-| [2278a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002278a%20-%20Trespass%20upon%20Commission%20installations.md) | Trespass upon Commission installations. |
+| [2278a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002278a%20-%20Trespass%20on%20Commission%20installations.md) | Trespass on Commission installations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1743,7 +1919,7 @@ Assessment and payment.
 
 (d)
 
-Excepted institutions.
+Limitation for not-for-profit institutions.
 
 |  |  |
 | :--- | ---: |

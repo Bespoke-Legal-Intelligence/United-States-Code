@@ -20,7 +20,7 @@ In approving applications made under section 254f of this title for the assignme
 
 &emsp;(2) with respect to the geographic area in which the health professional shortage area is located, take into consideration the willingness of individuals in the geographic area, and of the appropriate governmental agencies or health entities in the area, to assist and cooperate with the Corps in providing effective primary health services; and
 
-&emsp;(3) take into consideration comments of medical, osteopathic, dental, or other health professional societies whose members deliver services to the health professional shortage area, or if no such societies exist, comments of physicians, dentists, or other health professionals delivering services to the area.
+&emsp;(3) take into consideration comments of medical, osteopathic, dental, or other healthprofessional societies whose members deliver services to the health professional shortage area, or if no such societies exist, comments of physicians, dentists, or other health professionals delivering services to the area.
 
 #### (b) Establishment of criteria for determining priorities
 
@@ -66,7 +66,7 @@ In approving applications made under section 254f of this title for the assignme
 
 #### (4) Revisions
 
-&emsp;If the Secretary proposes to make a revision in the list under paragraph (2), and the revision would adversely alter the status of an entity with respect to the list, the Secretary shall notify the entity of the revision. Any entity adversely affected by such a revision shallbe notified in writing by the Secretary of the reasons for the revision and shall have 30 days from such notification to file a written appeal of the determination involved which shall be reasonably considered by the Secretary before the revision to the list becomes final. The revision to the list shall be effective with respect to assignment of Corps members beginning on the date that the revision becomes final.
+&emsp;If the Secretary proposes to make a revision in the list under paragraph (2), and the revision would adversely alter the status of an entity with respect to the list, the Secretary shall notify the entity of the revision. Any entity adversely affected by such a revision shall be notified in writing by the Secretary of the reasons for the revision and shall have 30 days from such notification to file a written appeal of the determination involved which shall be reasonably considered by the Secretary before the revision to the list becomes final. The revision to the list shall be effective with respect to assignment of Corps members beginning on the date that the revision becomes final.
 
 #### (d) Limitation on number of entities offered as assignment choices in Scholarship Program
 
@@ -82,7 +82,7 @@ In approving applications made under section 254f of this title for the assignme
 
 &emsp;&emsp;(B) not greater than twice the number of participants determined with respect to that program year under paragraph (1).
 
-(July 1, 1944, ch. 373, title III, §333A, as added and amended Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §304, Oct. 26, 2002, 116 Stat. 1646; Pub. L. 108–163, §2(h), Dec. 6, 2003, 117 Stat. 2022.)
+(July 1, 1944, ch. 373, title III, §333A, as added and amended Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §304, Oct. 26, 2002, 116Stat. 1646; Pub. L. 108–163, §2(h), Dec. 6, 2003, 117 Stat. 2022.)
 
 #### Amendments
 

@@ -110,7 +110,3 @@ Section 210(b) of Pub. L. 89–809 provided that: “The amendments made by subs
 
 Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1233 of this title.
-

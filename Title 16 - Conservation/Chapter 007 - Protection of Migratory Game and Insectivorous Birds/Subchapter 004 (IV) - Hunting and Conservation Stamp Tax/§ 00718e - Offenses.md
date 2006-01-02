@@ -6,7 +6,7 @@ No person to whom has been sold a migratory-bird hunting stamp, validated as pro
 
 #### (b) Alteration and counterfeiting of stamp
 
-Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, ormake, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
+Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter, mutilate, imitate, or counterfeit any stamp authorized by this subchapter, or imitate or counterfeit any die, plate, or engraving therefor, or make, print, or knowingly use, sell, or have in his possession any such counterfeit, die, plate, or engraving.
 
 #### (c) Reproduction of migratory bird hunting stamps; regulation by Secretary of the Interior; disposition of proceeds
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any part of the gross estate consists of property the value of which is includible in the gross estate by reason of section 2044 (relating to certain property for which marital deduction was previously allowed), the decedent's estate shall be entitled to recover from the person receiving the property the amount by which—
+&emsp;If any part of the gross estate consists of property the value of which is includible inthe gross estate by reason of section 2044 (relating to certain property for which marital deduction was previously allowed), the decedent's estate shall be entitled to recover from the person receiving the property the amount by which—
 
 &emsp;&emsp;(A) the total tax under this chapter which has been paid, exceeds
 
@@ -42,9 +42,5 @@ Section 1302(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section applicable to estates of decedents dying after Dec. 31, 1981, see section 403(e) of Pub. L. 97–34, set outas an Effective Date of 1981 Amendment note under section 2056 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2519 of this title.
+Section applicable to estates of decedents dying after Dec. 31, 1981, see section 403(e) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 2056 of this title.
 

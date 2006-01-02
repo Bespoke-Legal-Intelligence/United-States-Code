@@ -50,3 +50,4 @@ Section 212 of act of Aug. 26, 1935, ch. 687, 49 Stat. 847, provided that sectio
 - [&sect; 00823a - Conduit hydroelectric facilities](%C2%A7%2000823a%20-%20Conduit%20hydroelectric%20facilities.md)
 - [&sect; 00823b - Enforcement](%C2%A7%2000823b%20-%20Enforcement.md)
 - [&sect; 00823c - Alaska State jurisdiction over small hydroelectric projects](%C2%A7%2000823c%20-%20Alaska%20State%20jurisdiction%20over%20small%20hydroelectric%20projects.md)
+- [&sect; 00823d - Alternative conditions and prescriptions](%C2%A7%2000823d%20-%20Alternative%20conditions%20and%20prescriptions.md)

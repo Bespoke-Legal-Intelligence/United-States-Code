@@ -10,7 +10,7 @@ From amounts appropriated under subsection (a) of this section for any fiscal ye
 
 &emsp;(1) shall reserve not more than 1/2 of 1 percent of such amounts for such fiscal year to provide grants under sections 6122 and 6142 of this title to the jurisdictions described in section 6122(b) of this title;
 
-&emsp;(2) shall reserve not more than 1/2 of 1 percent of such amounts for such fiscal year to provide grants under part C of subchapter II of this chapter to establish and carry out School-to-Work Opportunities programs for Indian youths that involve Bureau funded schools (as defined in section 2026(3) of title 25); <sup>1</sup>
+&emsp;(2) shall reserve not more than 1/2 of 1 percent of such amounts for such fiscal year to provide grants under part C of subchapter II of this chapter to establish and carry out School-to-Work Opportunities programs for Indianyouths that involve Bureau funded schools (as defined in section 2026(3) of title 25); <sup>1</sup>
 
 &emsp;(3) shall reserve 10 percent of such amounts for such fiscal year to provide grants under section 6172(b) of this title to local partnerships located in high poverty areas, which reserved funds may be used in conjunction with funds available under the Youth Fair Chance Program set forth in part H of title IV of the Job Training Partnership Act (29 U.S.C. 1782 et seq.); <sup>1</sup> and
 

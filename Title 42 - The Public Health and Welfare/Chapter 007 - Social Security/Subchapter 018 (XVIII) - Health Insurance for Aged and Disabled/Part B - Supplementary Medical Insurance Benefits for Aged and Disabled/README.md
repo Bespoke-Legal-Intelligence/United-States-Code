@@ -17,7 +17,7 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
 - [&sect; 01395s - Payment of premiums](%C2%A7%2001395s%20-%20Payment%20of%20premiums.md)
 - [&sect; 01395t - Federal Supplementary Medical Insurance Trust Fund](%C2%A7%2001395t%20-%20Federal%20Supplementary%20Medical%20Insurance%20Trust%20Fund.md)
 - [&sect; 01395t&#8211;1, 1395t&#8211;2 - Repealed. Pub. L. 101&#8211;234, title II, &sect;202(a), Dec. 13, 1989, 103 Stat. 1981](%C2%A7%2001395t%E2%80%931%2C%201395t%E2%80%932%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93234%2C%20title%20II%2C%20%C2%A7202%28a%29%2C%20Dec.%2013%2C%201989%2C%20103%20Stat.%201981.md)
-- [&sect; 01395u - Use of carriers for administration of benefits](%C2%A7%2001395u%20-%20Use%20of%20carriers%20for%20administration%20of%20benefits.md)
+- [&sect; 01395u - Provisions relating to the administration of part B](%C2%A7%2001395u%20-%20Provisions%20relating%20to%20the%20administration%20of%20part%20B.md)
 - [&sect; 01395v - Agreements with States](%C2%A7%2001395v%20-%20Agreements%20with%20States.md)
 - [&sect; 01395w - Appropriations to cover Government contributions and contingency reserve](%C2%A7%2001395w%20-%20Appropriations%20to%20cover%20Government%20contributions%20and%20contingency%20reserve.md)
 - [&sect; 01395w&#8211;1 - Repealed. Pub. L. 105&#8211;33, title IV, &sect;4022(b)(2)(A), Aug. 5, 1997, 111 Stat. 354](%C2%A7%2001395w%E2%80%931%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9333%2C%20title%20IV%2C%20%C2%A74022%28b%29%282%29%28A%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20354.md)

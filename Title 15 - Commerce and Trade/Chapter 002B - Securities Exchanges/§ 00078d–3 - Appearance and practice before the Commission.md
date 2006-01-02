@@ -2,7 +2,7 @@
 
 #### (a) Authority to censure
 
-The Commission may censure any person, or deny, temporarily or permanently, to any person the privilege of appearing or practicing before the Commission in any way, if that person is found by the Commission, after notice and opportunity for hearing in the matter—
+The Commission may censure any person, or deny, temporarily or permanently, to any person the privilege of appearing or practicing before the Commission in any way, if that personis found by the Commission, after notice and opportunity for hearing in the matter—
 
 &emsp;(1) not to possess the requisite qualifications to represent others;
 

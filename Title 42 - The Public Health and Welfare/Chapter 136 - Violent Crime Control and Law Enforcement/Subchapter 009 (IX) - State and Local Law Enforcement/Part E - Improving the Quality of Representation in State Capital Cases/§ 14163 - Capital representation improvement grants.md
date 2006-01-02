@@ -66,7 +66,7 @@ As used in subsection (c)(1) of this section, an effective system for providing 
 
 &emsp;&emsp;&emsp;(II) fail to comply with such requirements as such program, entity, or selection committee or similar entity may establish regarding participation in training programs; or
 
-&emsp;&emsp;&emsp;(III) during the past 5 years, have been sanctioned by a bar association or courtfor ethical misconduct relating to the attorney's conduct as defense counsel in a criminal case in Federal or State court; and
+&emsp;&emsp;&emsp;(III) during the past 5 years, have been sanctioned by a bar association or court for ethical misconduct relating to the attorney's conduct as defense counsel in a criminal case in Federal or State court; and
 
 &emsp;&emsp;(F) ensure funding for the cost of competent legal representation by the defense team and outside experts selected by counsel, who shall be compensated—
 
@@ -76,7 +76,7 @@ As used in subsection (c)(1) of this section, an effective system for providing 
 
 &emsp;&emsp;&emsp;&emsp;(I) Attorneys employed by a public defender program shall be compensated according to a salary scale that is commensurate with the salary scale of the prosecutor's office in the jurisdiction.
 
-&emsp;&emsp;&emsp;&emsp;(II) Appointed attorneys shall be compensated for actual time and service, computed on an hourly basis and at a reasonable hourly rate in light of the qualifications and experience of the attorney and the local market for legal representation in cases reflecting the complexity and responsibility of capital cases.
+&emsp;&emsp;&emsp;&emsp;(II) Appointed attorneys shall be compensated for actual time and service, computed on an hourly basis and at a reasonable hourly rate in light of the qualifications and experience of the attorney and the local market for legal representation in cases reflecting thecomplexity and responsibility of capital cases.
 
 &emsp;&emsp;&emsp;&emsp;(III) Non-attorney members of the defense team, including investigators, mitigation specialists, and experts, shall be compensated at a rate that reflects the specialized skills needed by those who assist counsel with the litigation of death penalty cases.
 

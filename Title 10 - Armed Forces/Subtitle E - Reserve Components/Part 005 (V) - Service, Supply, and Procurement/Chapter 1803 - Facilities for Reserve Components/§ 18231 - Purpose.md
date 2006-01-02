@@ -36,7 +36,3 @@ In clause (4), the words “United States” are substituted for the words “Fe
 
 1957—Par. (1). Pub. L. 85–215 included troop housing and messing facilities.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2231 of this title.
-

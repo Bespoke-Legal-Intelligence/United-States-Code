@@ -34,7 +34,7 @@ The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89�
 
 #### Codification
 
-In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]”, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act \[49 U.S.C. 1 et seq.\]”, on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat.1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
 #### Amendments
 

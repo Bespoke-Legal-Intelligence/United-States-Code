@@ -81,7 +81,7 @@
 
 1999—Pub. L. 106–65, div. A, title VII, §721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
 
-1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337“Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, §1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
 1993—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 

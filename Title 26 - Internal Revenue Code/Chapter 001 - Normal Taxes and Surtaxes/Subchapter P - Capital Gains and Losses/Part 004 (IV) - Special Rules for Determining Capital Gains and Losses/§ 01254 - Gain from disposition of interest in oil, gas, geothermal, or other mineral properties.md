@@ -98,7 +98,3 @@ Amendment by Pub. L. 95–618 applicable with respect to wells commenced on or a
 
 Section 205(e) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and amending sections 163, 170, 301, 312, 341, 453, and 751 of this title\] shall apply with respect to taxable years ending after December 31, 1975.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 59, 291, 617, 751 of this title.
-

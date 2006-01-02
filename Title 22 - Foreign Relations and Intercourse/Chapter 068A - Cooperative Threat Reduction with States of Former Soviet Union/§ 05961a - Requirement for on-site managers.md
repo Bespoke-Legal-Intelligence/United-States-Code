@@ -2,7 +2,7 @@
 
 #### (a) On-site manager requirement
 
-Before obligating any defense nuclear nonproliferation funds for a project described insubsection (b) of this section, the Secretary of Energy shall appoint one on-site manager for that project. The manager shall be appointed from among employees of the Federal Government.
+Before obligating any defense nuclear nonproliferation funds for a project described in subsection (b) of this section, the Secretary of Energy shall appoint one on-site manager for that project. The manager shall be appointed from among employees of the Federal Government.
 
 #### (b) Projects covered
 

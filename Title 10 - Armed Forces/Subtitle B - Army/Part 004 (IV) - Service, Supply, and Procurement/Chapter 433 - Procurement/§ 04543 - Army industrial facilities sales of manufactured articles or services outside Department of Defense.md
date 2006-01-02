@@ -84,11 +84,11 @@ Section 158(c) of Pub. L. 103–160 provided that: “Regulations under subsecti
 
 Pub. L. 107–314, div. A, title I, §111(c), Dec. 2, 2002, 116 Stat. 2473, provided that: “The Inspector General of the Department of Defense shall review the experience under the pilot program carried out under such section 141 \[section 141 of Pub. L. 105–85, set out as a note below\] and, not later than July 1, 2003, submit to Congress a report on the results of the review. The report shall contain the views, information, and recommendations called for under subsection (d) of such section (as redesignated by subsection (b)(2)). In carrying out the review and preparing the report, the Inspector General shall take into consideration the report submitted to Congress under such subsection (as so redesignated).”
 
-Pub. L. 105–85, div. A, title I, §141, Nov. 18, 1997, 111 Stat. 1652, as amended by Pub. L. 106–65, div. A, title I, §115, Oct. 5, 1999, 113 Stat. 533; Pub. L. 107–107, div. A, title I, §112, Dec. 28, 2001, 115 Stat. 1029; Pub. L. 107–314, div. A, title I, §111(a), (b), Dec. 2, 2002, 116 Stat. 2473, provided that:
+Pub. L. 105–85, div. A, title I, §141, Nov. 18, 1997, 111 Stat. 1652, as amended by Pub. L. 106–65, div. A, title I, §115, Oct. 5, 1999, 113 Stat. 533; Pub. L. 107–107, div. A, title I, §112, Dec. 28, 2001, 115 Stat. 1029; Pub. L. 107–314, div. A, title I, §111(a), (b), Dec. 2, 2002, 116 Stat. 2473; Pub. L. 108–375, div. A, title VIII, §844, Oct. 28, 2004, 118 Stat. 2019, provided that:
 
 “(a)
 
-Pilot Program Required.—During fiscal years 1998 through 2004, the Secretary of the Army shall carry out a pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under section 4543 of title 10, United States Code, without regard to the availability of the articles and services from United States commercial sources. In carrying out the pilot program, the Secretary may use articles manufactured at, and services provided by, not more than three Army industrial facilities, except that during fiscal year 2002 the Secretary may only use articles manufactured at, and services provided by, not more than one Army industrial facility.
+Pilot Program Required.—During fiscal years 1998 through 2009, the Secretary of the Army shall carry out a pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under section 4543 of title 10, United States Code, without regard to the availability of the articles and services from United States commercial sources. In carrying out the pilot program, the Secretary may use articles manufactured at, and services provided by, not more than three Army industrial facilities, except that during fiscal year 2002 the Secretary may only use articles manufactured at, and services provided by, not more than one Army industrial facility.
 
 “(b)
 
@@ -117,8 +117,4 @@ Review by Inspector General.—The Inspector General of the Department of Defens
 &emsp;“(5) Any other information that the Inspector General considers pertinent regarding the effects of the waiver of section 4543(a)(5) of title 10, United States Code, under the pilot program on opportunities for United States manufacturers, assemblers, developers, or other concerns, and for Army industrial facilities, to enter into or participate in contracts and teaming arrangements under weapon system programs of the Department of Defense.
 
 &emsp;“(6) Any recommendations that the Inspector General considers appropriate regarding continuation or modification of the policy set forth in section 4543(a)(5) of title 10, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2208, 2563 of this title.
 

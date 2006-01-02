@@ -57,10 +57,6 @@ Pub. L. 104–188, title I, §1602(b)(5)(B), Aug. 20, 1996, 110 Stat. 1834, stru
 
 1974—Pub. L. 93–406, title II, §§1013(b), 2001(f)(2), 2002(h)(3), Sept. 2, 1974, 88 Stat. 920, 957, 970, added chapter heading and analysis of sections 4971 to 4975.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 275, 6161, 6201, 6211, 6212, 6213, 6214, 6344, 6405, 6501, 6512, 6862, 6871, 7422 of this title.
-
 <i><sup>1</sup></i><i> Section repealed by Pub. L. 105–34 without corresponding amendment of chapter analysis.</i>
 
 

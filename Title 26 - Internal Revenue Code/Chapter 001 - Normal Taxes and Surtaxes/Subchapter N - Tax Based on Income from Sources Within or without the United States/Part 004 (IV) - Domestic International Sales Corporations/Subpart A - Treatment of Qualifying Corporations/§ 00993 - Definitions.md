@@ -116,7 +116,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(B) the amount of the borrower's property held primarily for sale, lease, or rental, to customers in the ordinary course of trade or business, at the beginning of such taxable year; and
 
-&emsp;&emsp;(C) the aggregate amount of the borrower's research and experimental expenditures (within the meaning of section 174) in the United States during all preceding taxable years beginning after December 31, 1971,
+&emsp;&emsp;(C) the aggregate amount of the borrower's research and experimental expenditures\(within the meaning of section 174) in the United States during all preceding taxable years beginning after December 31, 1971,
 
 > &emsp;by the percentage which the borrower's receipts, during the 3 taxable years immediately preceding the taxable year (but not including any taxable year commencing prior to 1972) in which the loan is made, from the sale, lease, or rental outside the United States of property which would be export property (determined without regard to subparagraph (C) or (D) of subsection (c)(2)) if held by a DISC is of the gross receipts during such 3 taxable years from the sale, lease, or rental of property held by such borrower primarily for sale, lease, or rental to customers in the ordinary course of the trade or business of such borrower.
 
@@ -162,7 +162,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (e) Related foreign export corporation
 
-In determining whether a corporation (here-inafter in this subsection referred to as “the domestic corporation”) is a DISC—
+In determining whether a corporation (hereinafter in this subsection referred to as “the domestic corporation”) is a DISC—
 
 #### (1) Foreign international sales corporation
 
@@ -192,7 +192,7 @@ In determining whether a corporation (here-inafter in this subsection referred t
 
 #### (f) Gross receipts
 
-For purposes of this part, the term “gross receipts” means the total receipts from the sale, lease, or rental of property held primarily forsale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
+For purposes of this part, the term “gross receipts” means the total receipts from the sale, lease, or rental of property held primarily for sale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
 
 #### (g) United States defined
 
@@ -265,8 +265,4 @@ Binding contract.—The amendments made by subsection (a) \[amending this sectio
 #### Effective Date of 1974 Amendment
 
 Section 3(b) of Pub. L. 93–482 provided that: “The amendment made by subsection (a) \[amending this section\] applies to taxable years beginning after December 31, 1973. The amendment shall, at the election of the taxpayer made within 90 days after the date of enactment of this Act \[Oct. 26, 1974\], also apply to any taxable year beginning after December 31, 1971, and before January 1, 1974.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 861, 908, 992, 995, 999 of this title.
 

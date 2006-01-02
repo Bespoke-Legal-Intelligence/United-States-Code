@@ -86,7 +86,21 @@ The Attorney General shall not permit an alien to depart voluntarily under this 
 
 #### (d) Civil penalty for failure to depart
 
-If an alien is permitted to depart voluntarily under this section and fails voluntarily to depart the United States within the time period specified, the alien shall be subject to a civil penalty of not less than $1,000 and not more than $5,000, and be ineligible for a period of 10 years for any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title. The order permitting the alien to depart voluntarily shall inform the alien of the penalties under this subsection.
+#### (1) In general
+
+&emsp;Subject to paragraph (2), if an alien is permitted to depart voluntarily under this section and voluntarily fails to depart the United States within the time period specified, the alien—
+
+&emsp;&emsp;(A) shall be subject to a civil penalty of not less than $1,000 and not more than $5,000; and
+
+&emsp;&emsp;(B) shall be ineligible, for a period of 10 years, to receive any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title.
+
+#### (2) Application of VAWA protections
+
+&emsp;The restrictions on relief under paragraph (1) shall not apply to relief under section 1229b or 1255 of this title on the basis of a petition filed by a VAWA self-petitioner, or a petition filed under section 1229b(b)(2) of this title, or under section 1254(a)(3) of this title (as in effect prior to March 31, 1997), if the extreme cruelty or battery was at least one central reason for the alien's overstaying the grant of voluntary departure.
+
+#### (3) Notice of penalties
+
+&emsp;The order permitting an alien to depart voluntarily shall inform the alien of the penalties under this subsection.
 
 #### (e) Additional conditions
 
@@ -96,9 +110,15 @@ The Attorney General may by regulation limit eligibility for voluntary departure
 
 No court shall have jurisdiction over an appeal from denial of a request for an order of voluntary departure under subsection (b) of this section, nor shall any court order a stay of an alien's removal pending consideration of any claim with respect to voluntary departure.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240B, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–596; amended Pub. L. 106–406, §2, Nov. 1, 2000, 114 Stat. 1755.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240B, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–596; amended Pub. L. 106–406, §2, Nov. 1, 2000, 114 Stat. 1755; Pub. L. 109–162, title VIII, §812, Jan. 5, 2006, 119 Stat. 3057.)
+
+#### References in Text
+
+Section 1254 of this title, referred to in subsec. (d)(2), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If an alien is permitted to depart voluntarily under this section and fails voluntarily to depart the United States within the time period specified, the alien shall be subject to a civil penalty of not less than $1,000 and not more than $5,000, and be ineligible for a period of 10 years for any further relief under this section and sections 1229b, 1255, 1258, and 1259 of this title. The order permitting the alien to depart voluntarily shall inform the alien of the penalties under this subsection.”
 
 2000—Subsec. (a)(2). Pub. L. 106–406 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Permission to depart voluntarily under this subsection shall not be valid for a period exceeding 120 days.”
 

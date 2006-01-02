@@ -6,11 +6,11 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (1) Percentage of income taken into account
 
-&emsp;There shall be included with respect to each debt-financed property as an item of gross income derived from an unrelated trade or business an amount which is the same percentage (but not in excess of 100 percent) of the total gross income derived during the taxable year from or on account of such property as (A) the average acquisition indebtedness (as defined in subsection (c)(7)) for the taxable year with respect to the property is of (B) the average amount (determined under regulations prescribed by the Secretary) of the adjusted basis of such property during the period it is held by the organization during such taxable year.
+&emsp;There shall be included with respect to each debt-financed property as an item of gross income derived from an unrelated trade or business an amount which is the same percentage (but not in excess of 100 percent) of the total gross income derived during the taxable year from or on account of such property as (A) the average acquisition indebtedness (as defined insubsection (c)(7)) for the taxable year with respect to the property is of (B) the average amount (determined under regulations prescribed by the Secretary) of the adjusted basis of such property during the period it is held by the organization during such taxable year.
 
 #### (2) Percentage of deductions taken into account
 
-&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph\(1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
+&emsp;There shall be allowed as a deduction with respect to each debt-financed property an amount determined by applying (except as provided in the last sentence of this paragraph) the percentage derived under paragraph (1) to the sum determined under paragraph (3). The percentage derived under this paragraph shall not be applied with respect to the deduction of any capital loss resulting from the carryback or carryover of net capital losses under section 1212.
 
 #### (3) Deductions allowable
 
@@ -26,9 +26,11 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;(B) except in the case of income excluded under section 512(b)(5), any property to the extent that the income from such property is taken into account in computing the gross income of any unrelated trade or business;
 
-&emsp;&emsp;(C) any property to the extent that the income from such property is excluded by reason of the provisions of paragraph (7), (8), or (9) of section 512(b) in computing the gross income of any unrelated trade or business; or
+&emsp;&emsp;(C) any property to the extent that the income from such property is excluded by reason of the provisions of paragraph (7), (8), or (9) of section 512(b) in computing the gross income of any unrelated trade or business;
 
-&emsp;&emsp;(D) any property to the extent that it is used in any trade or business described in paragraph (1), (2), or (3) of section 513(a).
+&emsp;&emsp;(D) any property to the extent that it is used in any trade or business described in paragraph (1), (2), or (3) of section 513(a); or
+
+&emsp;&emsp;(E) any property the gain or loss from the sale, exchange, or other disposition of which would be excluded by reason of the provisions of section 512(b)(19) in computing the gross income of any unrelated trade or business.
 
 > &emsp;For purposes of subparagraph (A), substantially all the use of a property shall be considered to be substantially related to the exercise or performance by an organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501 if such property is real property subject to a lease to a medical clinic entered into primarily for purposes which are substantially related (aside from the need of such organization for income or funds or the use it makes of the rents derived) to the exercise or performance by such organization of its charitable, educational, or other purpose or function constituting the basis for its exemption under section 501.
 
@@ -48,9 +50,9 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;(i) the acquired land is not in the neighborhood referred to in subparagraph (A), or
 
-&emsp;&emsp;&emsp;(ii) the organization (for the period after the first 5 years of the 10-year period) is unable to establish to the satisfaction of the Secretary that it is reasonably certain that the land will be used in the manner described inparagraph (1)(A) before the expiration of the 10-year period,
+&emsp;&emsp;&emsp;(ii) the organization (for the period after the first 5 years of the 10-year period) is unable to establish to the satisfaction of the Secretary that it is reasonably certain that the land will be used in the manner described in paragraph (1)(A) before the expiration of the 10-year period,
 
-> &emsp;&emsp;but the land is converted to such use by the organization within the 10-year period, the real property (subject to the provisions of subparagraph (D)) shall not be treated as debt-financed property for any period before such conversion. For purposes of this subparagraph, land shall not be treated as used in the manner described in paragraph (1)(A) by reason of the use made of any structure which was on the land when acquired by the organization.
+> &emsp;&emsp;but the land is converted to such use by the organization within the 10-year period, the real property (subject to the provisions of subparagraph (D)) shall not be treated as debt-financed property for any period beforesuch conversion. For purposes of this subparagraph, land shall not be treated as used in the manner described in paragraph (1)(A) by reason of the use made of any structure which was on the land when acquired by the organization.
 
 #### (C) Limitations
 
@@ -116,7 +118,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;For purposes of this section, the term “acquisition indebtedness” does not include an obligation to pay an annuity which—
 
-&emsp;&emsp;(A) is the sole consideration (other than a mortgage to which paragraph (2)(B) applies) issued in exchange for property if, at thetime of the exchange, the value of the annuity is less than 90 percent of the value of the property received in the exchange,
+&emsp;&emsp;(A) is the sole consideration (other than a mortgage to which paragraph (2)(B) applies) issued in exchange for property if, at the time of the exchange, the value of the annuity is less than 90 percent of the value of the property received in the exchange,
 
 &emsp;&emsp;(B) is payable over the life of one individual in being at the time the annuity is issued, or over the lives of two individuals in being at such time, and
 
@@ -128,7 +130,25 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (6) Certain Federal financing
 
-&emsp;For purposes of this section, the term “acquisition indebtedness” does not include an obligation, to the extent that it is insured by the Federal Housing Administration, to finance the purchase, rehabilitation, or construction of housing for low and moderate income persons.
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, the term “acquisition indebtedness” does not include—
+
+&emsp;&emsp;&emsp;(i) an obligation, to the extent that it is insured by the Federal Housing Administration, to finance the purchase, rehabilitation, or construction of housing for low and moderate income persons, or
+
+&emsp;&emsp;&emsp;(ii) indebtedness incurred by a small business investment company licensed after the date of the enactment of the American Jobs Creation Act of 2004 under the Small Business Investment Act of 1958 if such indebtedness is evidenced by a debenture—
+
+&emsp;&emsp;&emsp;&emsp;(I) issued by such company under section 303(a) of such Act, and
+
+&emsp;&emsp;&emsp;&emsp;(II) held or guaranteed by the Small Business Administration.
+
+#### (B) Limitation
+
+&emsp;&emsp;Subparagraph (A)(ii) shall not apply with respect to any small business investment company during any period that—
+
+&emsp;&emsp;&emsp;(i) any organization which is exempt from tax under this title (other than a governmental unit) owns more than 25 percent of the capital or profits interest in such company, or
+
+&emsp;&emsp;&emsp;(ii) organizations which are exempt from tax under this title (including governmental units other than any agency or instrumentality of the United States) own, in the aggregate, 50 percent or more of the capital or profits interest in such company.
 
 #### (7) Average acquisition indebtedness
 
@@ -160,7 +180,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 &emsp;&emsp;&emsp;(iii) the real property is at any time after the acquisition leased by the qualified organization to the person selling such property to such organization or to any person who bears a relationship described in section 267(b) or 707(b) to such person;
 
-&emsp;&emsp;&emsp;(iv) the real property is acquired by a qualified trust from, or is at any time after the acquisition leased by such trust to, any person who—
+&emsp;&emsp;&emsp;(iv) the real property is acquired by a qualified trust from, or is at any timeafter the acquisition leased by such trust to, any person who—
 
 &emsp;&emsp;&emsp;&emsp;(I) bears a relationship which is described in subparagraph (C), (E), or (G) of section 4975(e)(2) to any plan with respect to which such trust was formed, or
 
@@ -190,7 +210,7 @@ In computing under section 512 the unrelated business taxable income for any tax
 
 #### (D) Other pass-thru entities; tiered entities
 
-&emsp;&emsp;Rules similar to the rules of subparagraph (B)(vi) shall also apply in the case of any pass-thru entity other than a partnershipand in the case of tiered partnerships and other entities.
+&emsp;&emsp;Rules similar to the rules of subparagraph (B)(vi) shall also apply in the case of any pass-thru entity other than a partnership and in the case of tiered partnerships and other entities.
 
 #### (E) Certain allocations permitted
 
@@ -308,13 +328,23 @@ For purposes of this section, the term “real property” includes personal pro
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the circumvention of any provision of this section through the use of segregated asset accounts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(<i>l</i>), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §5, July 14, 1960, 74 Stat. 536; Pub. L.91–172, title I, §121(d)(1), (3)(A), (B), Dec. 30, 1969, 83 Stat. 543, 548; Pub. L. 93–625, §7(b)(2), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIII, §1308(a), title XIX, §§1901(a)(72), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1729, 1776, 1834; Pub. L. 95–345, §2(c), Aug. 15, 1978, 92 Stat. 482; Pub. L. 96–605, title I, §110(a), Dec. 28, 1980, 94 Stat. 3525; Pub. L. 98–369, div. A, title I, §174(b)(5)(B), title X, §1034(a), (b), July 18, 1984, 98 Stat. 707, 1039, 1040; Pub. L. 99–514, title II, §201(d)(9), title XVI, §1603(b), title XVIII, §1878(e), Oct. 22, 1986, 100 Stat. 2141, 2768, 2903; Pub. L. 100–203, title X, §10214(a), (b), Dec. 22, 1987, 101 Stat. 1330–407; Pub. L. 100–647, title I, §§1016(a)(5)(A), (6), 1018(u)(13), title II, §2004(h), Nov. 10, 1988, 102 Stat. 3574, 3575, 3590, 3603; Pub. L. 101–239, title VII, §7811(<i>l</i>), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 103–66, title XIII, §13144(a), (b), Aug. 10, 1993, 107 Stat. 441, 442; Pub. L. 108–357, title II, §247(a), title VII, §702(b), Oct. 22, 2004, 118 Stat. 1449, 1546; Pub. L. 109–135, title IV, §412(ee)(2), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### References in Text
 
 The Tax Reform Act of 1976, referred to in subsec. (b)(3)(C)(iii), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
 
+The date of the enactment of the American Jobs Creation Act of 2004, referred to in subsec. (c)(6)(A)(ii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
+The Small Business Investment Act of 1958, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. Section 303(a) of the Act is classified to section 683(a) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
+
 #### Amendments
+
+2005—Subsec. (b)(1)(E). Pub. L. 109–135 substituted “section 512(b)(19)” for “section 512(b)(18)”.
+
+2004—Subsec. (b)(1)(E). Pub. L. 108–357, §702(b), added subpar. (E).
+
+Subsec. (c)(6). Pub. L. 108–357, §247(a), reenacted heading without change and amended text of par. (6) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘acquisition indebtedness’ does not include an obligation, to the extent that it is insured by the Federal Housing Administration, to finance the purchase, rehabilitation, or construction of housing for low and moderate income persons.”
 
 1993—Subsec. (c)(9)(A). Pub. L. 103–66, §13144(b)(1), inserted at end “For purposes of this paragraph, an interest in a mortgage shall in no event be treated as real property.”
 
@@ -395,6 +425,12 @@ Subsec. (f). Pub. L. 91–172, §121(d)(3)(A), (B), redesignated subsec. (b) as 
 Subsecs. (g), (h). Pub. L. 91–172, §121(d)(3)(A), redesignated subsecs. (c) and (d) as (g) and (h), respectively.
 
 1960—Subsec. (c)(8). Pub. L. 86–667 added par. (8).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §247(b), Oct. 22, 2004, 118 Stat. 1449, provided that: “The amendment made by this section \[amending this section\] shall apply to indebtedness incurred after the date of the enactment of this Act \[Oct. 22, 2004\] by a small business investment company licensed after the date of the enactment of this Act.”
+
+Amendment by section 702(b) of Pub. L. 108–357 applicable to any gain or loss on the sale, exchange, or other disposition of any property acquired by the taxpayer after Dec. 31, 2004, see section 702(d) of Pub. L. 108–357, set out as a note under section 512 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -519,8 +555,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Transition Rule for Acquisition Indebtedness With Respect to Certain Land
 
 Section 1607 of Pub. L. 99–514 provided that: “For purposes of applying section 514(c) of the Internal Revenue Code of 1986, with respect to a disposition during calendar year 1986 or calendar year 1987 of land acquired during calendar year 1984, the term ‘acquisition indebtedness’ does not include indebtedness incurred in connection with bonds issued after January 1, 1984, and before July 19, 1984, on behalf of an organization which is a community college and which is described in section 511(a)(2)(B) of such Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 50, 168, 512, 529, 4942 of this title.
 

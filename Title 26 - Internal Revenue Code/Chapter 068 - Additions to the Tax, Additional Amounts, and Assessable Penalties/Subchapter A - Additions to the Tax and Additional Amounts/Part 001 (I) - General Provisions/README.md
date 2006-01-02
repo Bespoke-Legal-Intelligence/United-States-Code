@@ -15,7 +15,7 @@
 | [6656\.](%C2%A7%2006656%20-%20Failure%20to%20make%20deposit%20of%20taxes.md) | Failure to make deposit of taxes. |
 | [6657\.](%C2%A7%2006657%20-%20Bad%20checks.md) | Bad checks. |
 | [6658\.](%C2%A7%2006658%20-%20Coordination%20with%20title%2011.md) | Coordination with title 11. |
-| \[6659 to 6662. Repealed.\] |  |
+| \[6659 to 6661. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,10 +40,6 @@
 1974—Pub. L. 93–406, title II, §1031(b)(1)(B)(ii), Sept. 2, 1974, 88 Stat. 946, inserted “, registration statements, etc.” in item 6652.
 
 1969—Pub. L. 91–172, title IX, §943(c)(5), 83 Stat. 729, inserted “or pay tax” in item 6651.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6229 of this title.
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 

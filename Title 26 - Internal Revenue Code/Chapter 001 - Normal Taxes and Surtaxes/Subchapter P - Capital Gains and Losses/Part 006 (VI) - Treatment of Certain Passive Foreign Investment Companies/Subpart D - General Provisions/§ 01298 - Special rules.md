@@ -40,7 +40,7 @@ For purposes of this part—
 
 #### (1) Time for determination
 
-&emsp;Stock held by a taxpayer shall be treated as stock in a passive foreign investment company if, at any time during the holding period of the taxpayer with respect to such stock, such corporation (or any predecessor) was a passive foreign investment company which was not a qualified electing fund. The preceding sentence shall not apply if the taxpayer elects to recognize gain (as of the last day of the last taxable year for which the company was a passive foreign investment company (determined without regard to the preceding sentence)) under rules similar to the rules of section 1291(d)(2).
+&emsp;Stock held by a taxpayer shall be treated as stock in a passive foreign investment company if, at any time during the holding period of thetaxpayer with respect to such stock, such corporation (or any predecessor) was a passive foreign investment company which was not a qualified electing fund. The preceding sentence shall not apply if the taxpayer elects to recognize gain (as of the last day of the last taxable year for which the company was a passive foreign investment company (determined without regard to the preceding sentence)) under rules similar to the rules of section 1291(d)(2).
 
 #### (2) Certain corporations not treated as PFIC's during start-up year
 
@@ -84,15 +84,15 @@ For purposes of this part—
 
 #### (B) Amount treated in same manner as previously taxed income
 
-&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(f)) in respect of stock which the taxpayer is treated as owning under subsection (a).
+&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(f)) <sup>1</sup> in respect of stock which the taxpayer is treated as owning under subsection (a).
 
 #### (6) Dispositions
 
 &emsp;Except as provided in regulations, if a taxpayer uses any stock in a passive foreign investment company as security for a loan, the taxpayer shall be treated as having disposed of such stock.
 
-#### (7) Coordination with section 1246
+#### (7) Coordination with section 1246 <sup>1</sup>
 
-&emsp;Section 1246 shall not apply to earnings and profits of any company for any taxable year beginning after December 31, 1986, if such company is a passive foreign investment company for such taxable year.
+&emsp;Section 1246 <sup>1</sup> shall not apply to earnings and profits of any company for any taxable year beginning after December 31, 1986, if such company is a passive foreign investment company for such taxable year.
 
 #### (8) Treatment of certain foreign corporations owning stock in 25-percent owned domestic corporation
 
@@ -192,7 +192,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-Section 1296 of this title, referred to in subsec. (d)(2)(A), was renumbered section 1297 of this title and a new section 1296 was added by Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972.
+Section 951(f), referred to in subsec. (b)(5)(B), was redesignated section 951(d) by Pub. L. 108–357, title IV, §413(c)(16), Oct. 22, 2004, 118 Stat. 1508.
+
+Section 1246, referred to in subsec. (b)(7), was repealed by Pub. L. 108–357, title IV, §413(a)(2), Oct. 22, 2004, 118 Stat. 1506.
+
+Section 1296, referred to in subsec. (d)(2)(A), was renumbered section 1297 and a new section 1296 was added by Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972.
 
 #### Amendments
 
@@ -260,7 +264,7 @@ Amendment by Pub. L. 103–66 applicable to taxable years of foreign corporation
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -269,8 +273,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 551, 1293, 1297 of this title.
 

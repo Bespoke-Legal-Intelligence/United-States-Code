@@ -42,7 +42,3 @@ Any person who—
 
 Amendment by Pub. L. 97–248 applicable to offenses committed after Sept. 3, 1982, see section 329(e) of Pub. L. 97–248, set out as a note under section 7201 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6013, 6531, 7124 of this title; title 7 section 12a; title 18 sections 1956, 3237.
-

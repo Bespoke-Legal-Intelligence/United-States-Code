@@ -40,7 +40,7 @@ In this Act, the following definitions shall apply:
 
 #### (7) Issuer
 
-&emsp;The term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78<i>l</i> of this title, or that is required to file reports under section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that hasnot yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
+&emsp;The term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78<i>l</i> of this title, or that is required to file reports under section 78<i>o</i>(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
 
 #### (8) Non-audit services
 
@@ -70,7 +70,7 @@ In this Act, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) relevant to audit reports for particular issuers, or dealt with in the quality control system of a particular registered public accounting firm; and
 
-&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policies and procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
+&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policiesand procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers; and
 
@@ -120,5 +120,5 @@ Pub. L. 107–204, §1(a), July 30, 2002, 116 Stat. 745, provided that: “This 
 
 #### GAO Study and Report Regarding Consolidation of Public Accounting Firms
 
-Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accountingfirms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
+Pub. L. 107–204, title VII, §701, July 30, 2002, 116 Stat. 797, directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
 

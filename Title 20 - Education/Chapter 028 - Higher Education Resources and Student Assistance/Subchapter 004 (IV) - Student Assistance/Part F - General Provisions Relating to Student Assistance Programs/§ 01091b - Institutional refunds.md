@@ -36,7 +36,7 @@
 
 &emsp;&emsp;For purposes of subparagraph (A)(i), the percentage of grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 that has been earned by the student is—
 
-&emsp;&emsp;&emsp;(i) equal to the percentage of the payment period or period of enrollment forwhich assistance was awarded that was completed (as determined in accordance with subsection (d) of this section) as of the day the student withdrew, provided that such date occurs on or before the completion of 60 percent of the payment period or period of enrollment; or
+&emsp;&emsp;&emsp;(i) equal to the percentage of the payment period or period of enrollment for which assistance was awarded that was completed (as determined in accordance with subsection (d) of this section) as of the day the student withdrew, provided that such date occurs on or before the completion of 60 percent of the payment period or period of enrollment; or
 
 &emsp;&emsp;&emsp;(ii) 100 percent, if the day the student withdrew occurs after the student has completed 60 percent of the payment period or period of enrollment.
 
@@ -93,6 +93,26 @@
 #### (C) Requirement
 
 &emsp;&emsp;Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section.
+
+#### (D) Waivers of Federal Pell Grant repayment by students affected by disasters
+
+&emsp;&emsp;The Secretary may waive the amounts that students are required to return under this section with respect to Federal Pell Grants if the withdrawals on which the returns are based are withdrawals by students—
+
+&emsp;&emsp;&emsp;(i) who were residing in, employed in, or attending an institution of higher education that is located in an area in which the President has declared that a major disaster exists, in accordance with section 5170 of title 42;
+
+&emsp;&emsp;&emsp;(ii) whose attendance was interrupted because of the impact of the disaster on the student or the institution; and
+
+&emsp;&emsp;&emsp;(iii) whose withdrawal ended within the academic year during which the designation occurred or during the next succeeding academic year.
+
+#### (E) Waivers of grant assistance repayment by students affected by disasters
+
+&emsp;&emsp;In addition to the waivers authorized by subparagraph (D), the Secretary may waive the amounts that students are required to return under this section with respect to any other grant assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the withdrawals on which the returns are based are withdrawals by students—
+
+&emsp;&emsp;&emsp;(i) who were residing in, employed in, or attending an institution of higher education that is located in an area in which the President has declared that a major disaster exists, in accordance with section 5170 of title 42;
+
+&emsp;&emsp;&emsp;(ii) whose attendance was interrupted because of the impact of the disaster on the student or the institution; and
+
+&emsp;&emsp;&emsp;(iii) whose withdrawal ended within the academic year during which the designation occurred or during the next succeeding academic year.
 
 #### (3) Order of return of title IV funds
 
@@ -160,7 +180,7 @@ For purposes of subsection (a)(3)(B)(i) of this section, the percentage of the p
 
 The provisions of this section shall take effect 2 years after October 7, 1998. An institution of higher education may choose to implement such provisions prior to that date.
 
-(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737.)
+(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001.)
 
 #### References in Text
 
@@ -181,6 +201,10 @@ Section 1091e, Pub. L. 89–329, title V, §506, as added Pub. L. 90–35, §2(c
 Section 1091f, Pub. L. 89–329, title V, §507, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 84, authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
 
 #### Amendments
+
+2005—Subsec. (b)(2)(D). Pub. L. 109–66 added subpar. (D).
+
+Subsec. (b)(2)(E). Pub. L. 109–67 added subpar. (E).
 
 1998—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring each institution of higher education participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 to have in effect a fair and equitable refund policy for refunding unearned tuition, fees, room and board, and other charges to students or parents who received grant or loan assistance under this subchapter or part C of subchapter I of chapter 34 of title 42.
 

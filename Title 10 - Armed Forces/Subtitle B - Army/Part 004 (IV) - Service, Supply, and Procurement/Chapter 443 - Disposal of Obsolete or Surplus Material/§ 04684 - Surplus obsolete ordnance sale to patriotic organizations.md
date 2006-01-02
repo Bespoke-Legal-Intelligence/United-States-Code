@@ -40,7 +40,3 @@ Mar. 4, 1909, ch. 319, §47, 35 Stat. 1075; June 28, 1950, ch. 383, §402(i), 64
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 921; title 26 section 5845.
-

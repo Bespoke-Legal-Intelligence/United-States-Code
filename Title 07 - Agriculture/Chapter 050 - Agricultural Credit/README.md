@@ -59,6 +59,7 @@
 | (b) | Grants. |
 | (c) | Priority in awarding grants. |
 | (d) | Authorization of appropriations. |
+| [1926f.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926f%20-%20Contracts%20with%20not-for-profit%20third%20parties.md) | Contracts with not-for-profit third parties. |
 | [1927\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001927%20-%20Repayment%20requirements.md) | Repayment requirements. |
 | (a) | Period of repayment; interest rates. |
 | (b) | Payment of charges; prepayment of taxes and insurance. |

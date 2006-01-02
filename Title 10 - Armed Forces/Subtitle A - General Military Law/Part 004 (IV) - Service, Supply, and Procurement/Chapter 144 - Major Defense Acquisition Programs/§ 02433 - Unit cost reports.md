@@ -8,6 +8,36 @@
 
 &emsp;(3) The term “procurement program” means a program for which funds for procurement are authorized to be appropriated in a fiscal year.
 
+&emsp;(4) The term “significant cost growth threshold” means the following:
+
+&emsp;&emsp;(A) In the case of a major defense acquisition program, a percentage increase in the program acquisition unit cost for the program of—
+
+&emsp;&emsp;&emsp;(i) at least 15 percent over the program acquisition unit cost for the program as shown in the current Baseline Estimate for the program; or
+
+&emsp;&emsp;&emsp;(ii) at least 30 percent over the program acquisition unit cost for the program as shown in the original Baseline Estimate for the program.
+
+&emsp;&emsp;(B) In the case of a major defense acquisition program that is a procurement program, a percentage increase in the procurement unit cost for the program of—
+
+&emsp;&emsp;&emsp;(i) at least 15 percent over the procurement unit cost for the program as shown in the current Baseline Estimate for the program; or
+
+&emsp;&emsp;&emsp;(ii) at least 30 percent over the procurement unit cost for the program as shown in the original Baseline Estimate for the program.
+
+&emsp;(5) The term “critical cost growth threshold” means the following:
+
+&emsp;&emsp;(A) In the case of a major defense acquisition program, a percentage increase in the program acquisition unit cost for the program of—
+
+&emsp;&emsp;&emsp;(i) at least 25 percent over the program acquisition unit cost for the program as shown in the current Baseline Estimate for the program; or
+
+&emsp;&emsp;&emsp;(ii) at least 50 percent over the program acquisition unit cost for the program as shown in the original Baseline Estimate for the program.
+
+&emsp;&emsp;(B) In the case of a major defense acquisition program that is a procurement program, a percentage increase in the procurement unit cost for the program of—
+
+&emsp;&emsp;&emsp;(i) at least 25 percent over the procurement unit cost for the program as shown in the current Baseline Estimate for the program; or
+
+&emsp;&emsp;&emsp;(ii) at least 50 percent over the procurement unit cost for the program as shown in the original Baseline Estimate for the program.
+
+&emsp;(6) The term “original Baseline Estimate” has the same meaning as provided in section 2435(d) of this title.
+
 (b) The program manager for a major defense acquisition program (other than a program not required to be included in the Selected Acquisition Report for that quarter under section 2432(b)(3) of this title) shall, on a quarterly basis, submit to the service acquisition executive designated by the Secretary concerned a written report on the unit costs of the program. Each report shall be submitted not more than 30 calendar days after the end of that quarter. The program manager shall include in each such unit cost report the following information with respect to the program (as of the last day of the quarter for which the report is made):
 
 &emsp;(1) The program acquisition unit cost.
@@ -18,27 +48,31 @@
 
 &emsp;(4) Any changes from program schedule milestones or program performances reflected in the baseline description established under section 2435 of this title that are known, expected, or anticipated by the program manager.
 
-(c) If the program manager of a major defense acquisition program for which a unit cost report has previously been submitted under subsection (b) determines at any time during a quarter that there is reasonable cause to believe—
+&emsp;(5) Any significant changes in the total program cost for development and procurement of the software component of the program, schedule milestones for the software component of the program, or expected performance for the software component of the program that are known, expected, or anticipated by the program manager.
 
-&emsp;(1) that the program acquisition unit cost for the program has increased by at least 15 percent over the program acquisition unit cost for the program as shown in the Baseline Estimate; or
+(c) If the program manager of a major defense acquisition program for which a unit cost report has previously been submitted under subsection (b) determines at any time during a quarter that there is reasonable cause to believe that the program acquisition unit cost for the program or the procurement unit cost for the program, as applicable, has increased by a percentage equal to or greater than the significant cost growth threshold for the program; and if a unit cost report indicating an increase of such percentage or more has not previously been submitted to the service acquisition executive designated by the Secretary concerned, then the program manager shall immediately submit to such service acquisition executive a unit cost report containing the information, determined as of the date of the report, required under subsection (b).
 
-&emsp;(2) in the case of a major defense acquisition program that is a procurement program, that the procurement unit cost for the program has increased by at least 15 percent over the procurement unit cost for the program as reflected in the Baseline Estimate;
+(d)(1) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program, the service acquisition executive shall determine whether the current program acquisition unit cost for the program has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program.
 
-> and if a unit cost report indicating an increase of such percentage or more has not previously been submitted to the service acquisition executive designated by the Secretary concerned, then the program manager shall immediately submit to such service acquisition executive a unit cost report containing the information, determined as of the date of the report, required under subsection (b).
+(2) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program that is a procurement program, the service acquisition executive, in addition to the determination under paragraph (1), shall determine whether the procurement unit cost for the program has increased by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program.
 
-(d)(1) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program, the service acquisition executive shall determine whether the current program acquisition unit cost for the program has increased by at least 15 percent, or by at least 25 percent, over the program acquisition unit cost for the program as shown in the Baseline Estimate.
+(3) If, based upon the service acquisition executive's determination, the Secretary concerned determines that the current program acquisition unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that the procurement unit cost has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary shall notify Congress in writing of such determination and of the increase with respect to such program. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.
 
-(2) When a unit cost report is submitted to the service acquisition executive designated by the Secretary concerned under this section with respect to a major defense acquisition program that is a procurement program, the service acquisition executive, in addition to the determination under paragraph (1), shall determine whether the procurement unit cost for the program has increased by at least 15 percent, or by at least 25 percent, over the procurement unit cost for the program as reflected in the Baseline Estimate.
-
-(3) If, based upon the service acquisition executive's determination, the Secretary concerned determines that the current program acquisition unit cost has increased by at least 15 percent, or by at least 25 percent, as determined under paragraph (1) or that the procurement unit cost has increased by at least 15 percent, or by at least 25 percent, as determined under paragraph (2), the Secretary shall notify Congress in writing of such determination and of the increase with respect to such program. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.
-
-(e)(1)(A) Except as provided in subparagraph (B), whenever the Secretary concerned determines under subsection (d) that the program acquisition unit cost or the procurement unit cost of a major defense acquisition program has increased by at least 15 percent, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination or for the fiscal-year quarter which immediately precedes the first fiscal-year quarter ending on or after that date. The report shall include the information described in section 2432(e) of this title and shall be submitted in accordance with section 2432(f) of this title.
+(e)(1)(A) Except as provided in subparagraph (B), whenever the Secretary concerned determines under subsection (d) that the program acquisition unit cost or the procurement unit cost of a major defense acquisition program has increased by a percentage equal to or greater than the significant cost growth threshold for the program, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination or for the fiscal-year quarter which immediately precedes the first fiscal-year quarter ending on or after that date. The report shall include the information described in section 2432(e) of this title and shall be submitted in accordance with section 2432(f) of this title.
 
 (B) Whenever the Secretary makes a determination referred to in subparagraph (A) in the case of a major defense acquisition program during the second quarter of a fiscal year and before the date on which the President transmits the budget for the following fiscal year to Congress pursuant to section 1105 of title 31, the Secretary is not required to file a Selected Acquisition Report under subparagraph (A) but shall include the information described in subsection (g) regarding that program in the comprehensive annual Selected Acquisition Report submitted in that quarter.
 
-(2) If the percentage increase in the program acquisition unit cost or procurement unit cost of a major defense acquisition program (as determined by the Secretary under subsection (d)) exceeds 25 percent, the Secretary of Defense shall submit to Congress, before the end of the 30-day period beginning on the day the SelectedAcquisition Report containing the information described in subsection (g) is required to be submitted under section 2432(f) of this title—
+(2) If the program acquisition unit cost or procurement unit cost of a major defense acquisition program (as determined by the Secretary under subsection (d)) increases by a percentage equal to or greater than the critical cost growth threshold for the program, the Secretary of Defense shall—
 
-&emsp;(A) a written certification, stating that—
+&emsp;(A) carry out an assessment of—
+
+&emsp;&emsp;(i) the projected cost of completing the program if current requirements are not modified;
+
+&emsp;&emsp;(ii) the projected cost of completing the program based on reasonable modification of such requirements; and
+
+&emsp;&emsp;(iii) the rough order of magnitude of the costs of any reasonable alternative system or capability;
+
+&emsp;(B) submit to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in subsection (g) is required to be submitted under section 2432(f) of this title, a written certification (with a supporting explanation) stating that—
 
 &emsp;&emsp;(i) such acquisition program is essential to the national security;
 
@@ -48,13 +82,13 @@
 
 &emsp;&emsp;(iv) the management structure for the acquisition program is adequate to manage and control program acquisition unit cost or procurement unit cost; and
 
-&emsp;(B) if a report under paragraph (1) has been previously submitted to Congress with respect to such program for the current fiscal year but was based upon a different unit cost report from the program manager to the service acquisition executive designated by the Secretary concerned, a further report containing the information described in subsection (g), determined from the time of the previous report to the time of the current report.
+&emsp;(C) if a report under paragraph (1) has been previously submitted to Congress with respect to such program for the current fiscal year but was based upon a different unit cost report from the program manager to the service acquisition executive designated by the Secretary concerned, a further report containing the information described in subsection (g), determined from the time of the previous report to the time of the current report.
 
-(3) If a determination of an increase of at least 15 percent is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase of at least 25 percent is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under section 7307(b)(2) of this title) beginning on the date—
+(3) If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Secretary under subsection (d) and a Selected Acquisition Report containing the information described in subsection (g) is not submitted to Congress under paragraph (1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Secretary under subsection (d) and the certification of the Secretary of Defense is not submitted to Congress under paragraph (2), funds appropriated for military construction, for research, development, test, and evaluation, and for procurement may not be obligated for a major contract under the program. The prohibition on the obligation of funds for a major defense acquisition program shall cease to apply at the end of a period of 30 days of continuous session of Congress (as determined under section 7307(b)(2) of this title) beginning on the date—
 
-&emsp;(A) on which Congress receives the Selected Acquisition Report under paragraph (1) or (2)(B) with respect to that program, in the case of a determination of an increase of at least 15 percent (as determined in subsection (d)); or
+&emsp;(A) on which Congress receives the Selected Acquisition Report under paragraph (1) or (2)(B) with respect to that program, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
 
-&emsp;(B) on which Congress has received both the Selected Acquisition Report under paragraph (1) or (2)(B) and the certification of the Secretary of Defense under paragraph (2)(A) with respect to that program, in the case of an increase of at least 25 percent (as determined under subsection (d)).
+&emsp;(B) on which Congress has received both the Selected Acquisition Report under paragraph (1) or (2)(B) and the certification of the Secretary of Defense under paragraph (2)(A) with respect to that program, in the case of an increase by a percentage equal to or greater than the critical cost growth threshold (as determined under subsection (d)).
 
 (f) Any determination of a percentage increase under this section shall be stated in terms of constant base year dollars (as described in section 2430 of this title).
 
@@ -104,17 +138,51 @@
 
 &emsp;&emsp;(vi) A narrative providing a summary explanation of the most significant occurrences, including cost and schedule variances under major contracts of the program, contributing to the changes identified and a discussion of the effect these occurrences will have on future program costs and the program schedule.
 
+&emsp;(Q) In any case in which one or more problems with the software component of the program significantly contributed to the increase in program unit costs, the action taken and proposed to be taken to solve such problems.
+
 (2) If a program acquisition unit cost increase or a procurement unit cost increase for a major defense acquisition program that results in a report under this subsection is due to termination or cancellation of the entire program, only the information specified in clauses (A) through (F) of paragraph (1) and the percentage change in program acquisition unit cost or procurement unit cost that resulted in the report need be included in the report. The certification of the Secretary of Defense under subsection (e) is not required to be submitted for termination or cancellation of a program.
 
 (h) Reporting under this section shall not apply if a program has received a limited reporting waiver under section 2432(h) of this title.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; amended Pub. L. 98–94, title XII, §1268(1), Sept. 24, 1983, 97 Stat. 705; Pub. L. 98–525, title XII, §1242(b), Oct. 19, 1984, 98 Stat. 2607; Pub. L. 99–145, title XIII, §1303(a)(2), Nov. 8, 1985, 99 Stat. 738; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(14), (g)(8), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–176, and Pub. L. 99–591, §101(c) \[title X, §961(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–176; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(b), Nov. 14, 1986, 100 Stat. 3956, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 101–510, div. A, title XIV, §1484(k)(10), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title VIII, §817(d), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–35, title II, §201(i)(2), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title III, §§3002(a)(2), 3003, Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 105–85, div. A, title VIII, §833, Nov. 18, 1997, 111 Stat. 1842.)
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; amended Pub. L. 98–94, title XII, §1268(1), Sept. 24, 1983, 97 Stat. 705; Pub. L. 98–525, title XII, §1242(b), Oct. 19, 1984, 98 Stat. 2607; Pub. L. 99–145, title XIII, §1303(a)(2), Nov. 8, 1985, 99 Stat. 738; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(14), (g)(8), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–176, and Pub. L. 99–591, §101(c) \[title X, §961(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–176; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(b), Nov. 14, 1986, 100 Stat. 3956, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 101–510, div. A, title XIV, §1484(k)(10), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title VIII, §817(d), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–35, title II, §201(i)(2), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title III, §§3002(a)(2), 3003, Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 105–85, div. A, title VIII, §833, Nov. 18, 1997, 111 Stat. 1842; Pub. L. 108–375, div. A, title VIII, §801(a), (b)(1), Oct. 28, 2004, 118 Stat. 2004; Pub. L. 109–163, div. A, title VIII, §802(a)–(c), (d)(2), Jan. 6, 2006, 119 Stat. 3367–3370.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2006—Subsec. (a)(4), (5). Pub. L. 109–163, §802(a), added pars. (4) and (5).
+
+Subsec. (a)(6). Pub. L. 109–163, §802(d)(2), added par. (6).
+
+Subsec. (c). Pub. L. 109–163, §802(b)(1), substituted “cause to believe that the program acquisition unit cost for the program or the procurement unit cost for the program, as applicable, has increased by a percentage equal to or greater than the significant cost growth threshold for the program” for “cause to believe—
+
+&emsp;“(1) that the program acquisition unit cost for the program has increased by at least 15 percent over the program acquisition unit cost for the program as shown in the Baseline Estimate; or
+
+&emsp;“(2) in the case of a major defense acquisition program that is a procurement program, that the procurement unit cost for the program has increased by at least 15 percent over the procurement unit cost for the program as reflected in the Baseline Estimate”.
+
+Subsec. (d)(1). Pub. L. 109–163, §802(b)(2)(A), substituted “by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program” for “by at least 15 percent, or by at least 25 percent, over the program acquisition unit cost for the program as shown in the Baseline Estimate”.
+
+Subsec. (d)(2). Pub. L. 109–163, §802(b)(2)(B), substituted “by a percentage equal to or greater than the significant cost growth threshold, or the critical cost growth threshold, for the program” for “by at least 15 percent, or by at least 25 percent, over the procurement unit cost for the program as reflected in the Baseline Estimate”.
+
+Subsec. (d)(3). Pub. L. 109–163, §802(b)(2)(C), substituted “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold or that” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (1) or that” and “by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold, the Secretary” for “by at least 15 percent, or by at least 25 percent, as determined under paragraph (2), the Secretary”.
+
+Subsec. (e)(1)(A). Pub. L. 109–163, §802(b)(3)(A), substituted “by a percentage equal to or greater than the significant cost growth threshold for the program” for “by at least 15 percent”.
+
+Subsec. (e)(2). Pub. L. 109–163, §802(c), redesignated subpar. (B) as (C) and substituted “the Secretary of Defense shall—”, par. (A) and introductory provisions of par. (B) for “the Secretary of Defense shall submit to Congress, before the end of the 30-day period beginning on the day the Selected Acquisition Report containing the information described in subsection (g) is required to be submitted under section 2432(f) of this title—
+
+&emsp;“(A) a written certification, stating that—”.
+
+Pub. L. 109–163, §802(b)(3)(B), in introductory provisions, struck out “percentage increase in the” before “program acquisition” and substituted “increases by a percentage equal to or greater than the critical cost growth threshold for the program” for “exceeds 25 percent”.
+
+Subsec. (e)(3). Pub. L. 109–163, §802(b)(3)(C)(ii), substituted “by a percentage equal to or greater than the critical cost growth threshold” for “of at least 25 percent” in introductory provisions and subpar. (B).
+
+Pub. L. 109–163, §802(b)(3)(C)(i), substituted “by a percentage equal to or greater than the significant cost growth threshold” for “of at least 15 percent” in introductory provisions and subpar. (A).
+
+2004—Subsec. (b)(5). Pub. L. 108–375, §801(a), added par. (5).
+
+Subsec. (g)(1)(Q). Pub. L. 108–375, §801(b)(1), added subpar. (Q).
 
 1997—Subsec. (c). Pub. L. 105–85, §833(a), in concluding provisions, struck out “during the current fiscal year (other than the last quarterly unit cost report under subsection (b) for the preceding fiscal year)” after “designated by the Secretary concerned”.
 
@@ -154,7 +222,7 @@ Subsec. (d)(1), (2). Pub. L. 102–484, §817(d)(4)(A), substituted “at least�
 
 Subsec. (d)(3). Pub. L. 102–484, §817(d)(4)(B), substituted “at least” for “more than” wherever appearing and “program. In the case of a determination based on a quarterly report submitted in accordance with subsection (b), the Secretary shall submit the notification to Congress within 45 days after the end of the quarter. In the case of a determination based on a report submitted in accordance with subsection (c), the Secretary shall submit the notification to Congress within 45 days after the date of that report. The Secretary shall include in the notification the date on which the determination was made.” for “program within 30 days after the date on which the service acquisition executive reports his determination of such increase in such unit cost to the Secretary and shall include in such notification the date on which the determination was made.”
 
-Subsec. (e)(1)(A). Pub. L. 102–484, §817(d)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Except as provided in subparagraph\(B), whenever the Secretary concerned determines under subsection (d) that the current program acquisition cost of a major defense acquisition program has increased by more than 15 percent, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination and such report shall include the information described in section 2432(e) of this title. The report shall be submitted within 45 days after the end of that quarter.”
+Subsec. (e)(1)(A). Pub. L. 102–484, §817(d)(5)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “Except as provided in subparagraph (B), whenever the Secretary concerned determines under subsection (d) that the current program acquisition cost of a major defense acquisition program has increased by more than 15 percent, a Selected Acquisition Report shall be submitted to Congress for the first fiscal-year quarter ending on or after the date of the determination and such report shall include the information described in section 2432(e) of this title. The report shall be submitted within 45 days after the end of that quarter.”
 
 Subsec. (e)(2). Pub. L. 102–484, §817(d)(5)(B), substituted “program acquisition unit cost or current procurement unit cost” for “current program acquisition cost”.
 
@@ -250,6 +318,32 @@ Subsec. (g)(1)(K). Pub. L. 98–525, §1242(b)(6)(B), required the report to inc
 
 1983—Subsec. (g)(2). Pub. L. 98–94 substituted “procurement” for “procurment”.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title VIII, §802(e), Jan. 6, 2006, 119 Stat. 3370, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and section 2435 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 6, 2006\], and shall apply with respect to any major defense acquisition program for which an original Baseline Estimate is first established before, on, or after that date.
+
+“(2)
+
+Applicability to current major defense acquisition programs.—In the case of a major defense acquisition program for which the program acquisition unit cost or procurement unit cost, as applicable, exceeds the original Baseline Estimate for the program by more than 50 percent on the date of the enactment of this Act—
+
+&emsp;“(A) the current Baseline Estimate for the program as of such date of enactment is deemed to be the original Baseline Estimate for the program for purposes of section 2433 of title 10, United States Code (as amended by this section); and
+
+&emsp;“(B) each Selected Acquisition Report submitted on the program after the date of the enactment of this Act shall reflect each of the following:
+
+&emsp;&emsp;“(i) The original Baseline Estimate, as first established for the program, without adjustment or revision.
+
+&emsp;&emsp;“(ii) The Baseline Estimate for the program that is deemed to be the original Baseline Estimate for the program under subparagraph (A).
+
+&emsp;&emsp;“(iii) The current original Baseline Estimate for the program as adjusted or revised, if at all, in accordance with subsection (d)(2) of section 2435 of title 10, United States Code (as added by subsection (d) of this section).”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–375 effective on the date occurring 60 days after Oct. 28, 2004, and applicable with respect to reports due to be submitted to Congress on or after that date, see section 801(c) of Pub. L. 108–375, set out as a note under section 2432 of this title.
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–180 applicable as if included in enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, see section 1314(e) of Pub. L. 100–180, set out as a note under section 743 of this title.
@@ -261,8 +355,4 @@ Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 effective 
 #### Effective Date
 
 Section effective Jan. 1, 1983, and applicable beginning with respect to reports for first quarter of fiscal year 1983, see section 1107(c) of Pub. L. 97–252, set out as a note under section 2432 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2435 of this title.
 

@@ -6,7 +6,7 @@ For the purposes of this chapter:
 
 (b) The term “processed wheat” means the wheat-derived content of any substance (such as cake mix or flour) produced for use as an ingredient of an end product by changing wheat grown within the United States in form or character by any mechanical, chemical, or other means.
 
-(c) The term “end product” means any product which contains processed wheat as an ingredientand which is intended, as produced, for consumption as human food, notwithstanding any additional incidental preparation which may be necessary by the ultimate consumer.
+(c) The term “end product” means any product which contains processed wheat as an ingredient and which is intended, as produced, for consumption as human food, notwithstanding any additional incidental preparation which may be necessary by the ultimate consumer.
 
 (d) The term “wheat producer” means any person who grows wheat within the United States for market.
 

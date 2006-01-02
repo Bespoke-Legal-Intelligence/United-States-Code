@@ -18,7 +18,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) that has a voluntary board;
 
-&emsp;&emsp;(C) that has an accounting system, or has designated a fiscal agent in accordance with requirements established by the Director; and
+&emsp;&emsp;(C) that has an accounting system, or has designated a fiscal agent in accordance withrequirements established by the Director; and
 
 &emsp;&emsp;(D) that practices nondiscrimination in the provision of assistance.
 

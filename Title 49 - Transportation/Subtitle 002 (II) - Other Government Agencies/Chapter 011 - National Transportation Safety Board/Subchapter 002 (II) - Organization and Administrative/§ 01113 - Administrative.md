@@ -44,7 +44,7 @@ Liaison Committees.—The Chairman may determine the number of committees that a
 
 (e)
 
-Inquiries.—The Board, or an officer or employee of the Board designated by the Chairman, may conduct an inquiry to obtain information related to transportation safety after publishing notice of the inquiry in the Federal Register. The Board or designated officer or employee may require by order a department, agency, or instrumentality of the Government, a State or local governmental authority, or a person transporting individuals or property in commerce to submit to the Board a written report and answers to requests and questions related to a duty or power of the Board. The Board may prescribe the time within which the report and answers must be given to the Board or to the designated officer or employee. Copies of the report and answers shall be made available for public inspection.
+Inquiries.—The Board, or an officer or employee of the Board designated by the Chairman, may conduct an inquiry to obtain information related to transportation safety after publishing notice of the inquiry in the Federal Register. The Board or designated officer or employee may require by order a department, agency, or instrumentality of the Government, a State orlocal governmental authority, or a person transporting individuals or property in commerce to submit to the Board a written report and answers to requests and questions related to a duty or power of the Board. The Board may prescribe the time within which the report and answers must be given to the Board or to the designated officer or employee. Copies of the report and answers shall be made available for public inspection.
 
 (f)
 
@@ -60,7 +60,7 @@ In general.—Subject to the requirements of this section and notwithstanding pa
 
 &emsp;(2)
 
-Limitation on overtime pay to an employee.—An employee of the Board may not receive overtime pay under paragraph (1), forwork performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
+Limitation on overtime pay to an employee.—An employee of the Board may not receive overtime pay under paragraph (1), for work performed in a calendar year, in an amount that exceeds 15 percent of the annual rate of basic pay of the employee for such calendar year.
 
 &emsp;(3)
 
@@ -166,7 +166,7 @@ In subsection (b)(1)(C), the words “Department of Transportation and of other�
 
 In subsection (b)(1)(D), the word “available” is omitted as surplus.
 
-In subsection (b)(1)(E), the words “one or more” are omitted as surplus because the authority to appoint advisory committees is discretionary and unlimited on its face. The word “appropriate” is substituted for “necessary or appropriate” to eliminate unnecessary words. The words “in accordance with the Federal Advisory Committee Act” are omitted as surplus because that Act applies unless specifically excluded. (See 5 App. U.S.C.)
+In subsection (b)(1)(E), the words “one or more” are omitted as surplus because the authority to appoint advisory committees is discretionary and unlimited on its face. The word “appropriate” is substituted for “necessary or appropriate” to eliminate unnecessarywords. The words “in accordance with the Federal Advisory Committee Act” are omitted as surplus because that Act applies unless specifically excluded. (See 5 App. U.S.C.)
 
 In subsection (b)(1)(G), the words “gifts of money and other property” are substituted for “gifts or donations of money or property (real, personal, mixed, tangible, or intangible)” to eliminate unnecessary words.
 

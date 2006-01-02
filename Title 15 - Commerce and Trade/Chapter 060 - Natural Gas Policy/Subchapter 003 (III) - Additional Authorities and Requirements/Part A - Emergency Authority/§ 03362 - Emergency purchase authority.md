@@ -2,7 +2,7 @@
 
 #### (a) Presidential authorization
 
-During any natural gas supply emergency declared under section 3361 of this title, the President may, by rule or order, authorize any interstate pipeline or local distribution company served by any interstate pipeline to contract, upon such terms and conditions as the President determines to be appropriate (including provisions respecting fair and equitable prices), forthe purchase of emergency supplies of natural gas—
+During any natural gas supply emergency declared under section 3361 of this title, the President may, by rule or order, authorize any interstate pipeline or local distribution company served by any interstate pipeline to contract, upon such terms and conditions as the President determines to be appropriate (including provisions respecting fair and equitable prices), for the purchase of emergency supplies of natural gas—
 
 &emsp;(1) from any producer of natural gas (other than a producer who is affiliated with the purchaser, as determined by the President) if—
 

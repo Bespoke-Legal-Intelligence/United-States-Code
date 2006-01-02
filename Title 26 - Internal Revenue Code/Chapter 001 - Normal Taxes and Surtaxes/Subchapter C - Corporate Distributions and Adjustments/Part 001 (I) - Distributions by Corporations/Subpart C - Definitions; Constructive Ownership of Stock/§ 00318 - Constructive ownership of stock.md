@@ -84,7 +84,7 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 #### (b) Cross references
 
-&emsp;<b>For provisions to which the rules contained in subsection (a) apply, see—</b>
+&emsp;&emsp;<b>For provisions to which the rules contained in subsection (a) apply, see—</b>
 
 &emsp;&emsp;<b>(1) section 302 (relating to redemption of stock);</b>
 
@@ -100,11 +100,13 @@ For purposes of those provisions of this subchapter to which the rules contained
 
 &emsp;&emsp;<b>(7) section 958(b) (relating to constructive ownership rules with respect to controlled foreign corporations); and</b>
 
-&emsp;&emsp;<b>(8) section 6038(d)(2) (relating to information with respect to certain foreign corporations).</b>
+&emsp;&emsp;<b>(8) section 6038(e)(2) (relating to information with respect to certain foreign corporations).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 99; Pub. L. 86–779, §10(h), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–834, §20(d)(1), Oct. 16, 1962, 76 Stat. 1063; Pub. L. 88–554, §4(a), (b)(2), Aug. 31, 1964, 78 Stat. 762, 763; Pub. L. 97–248, title II, §224(c)(3), Sept. 3, 1982, 96 Stat. 489; Pub. L. 98–369, div. A, title VII, §§712(k)(5)(E), 721(j), July 18, 1984, 98 Stat. 950, 969; Pub. L. 99–514, title VI, §621(c)(1), Oct. 22, 1986, 100 Stat. 2266; Pub. L. 105–34, title XI, §1142(e)(3), Aug. 5, 1997, 111 Stat. 983.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 99; Pub. L. 86–779, §10(h), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–834, §20(d)(1), Oct. 16, 1962, 76 Stat. 1063; Pub. L. 88–554, §4(a), (b)(2), Aug. 31, 1964, 78 Stat. 762, 763; Pub. L. 97–248, title II, §224(c)(3), Sept. 3, 1982, 96 Stat. 489; Pub. L. 98–369, div. A, title VII, §§712(k)(5)(E), 721(j), July 18, 1984, 98 Stat. 950, 969; Pub. L. 99–514, title VI, §621(c)(1), Oct. 22, 1986, 100 Stat. 2266; Pub. L. 105–34, title XI, §1142(e)(3), Aug. 5, 1997, 111 Stat. 983; Pub. L. 109–135, title IV, §412(u), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Amendments
+
+2005—Subsec. (b)(8). Pub. L. 109–135 substituted “section 6038(e)(2)” for “section 6038(d)(2)”.
 
 1997—Subsec. (b)(8). Pub. L. 105–34 substituted “6038(d)(2)” for “6038(d)(1)”.
 
@@ -151,8 +153,4 @@ Section 4(c) of Pub. L. 88–554, as amended by Pub. L. 99–514, §2, Oct. 22, 
 #### Effective Date of 1960 Amendment
 
 Amendment by Pub. L. 86–779 applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as an Effective Date note under section 856 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 105, 129, 168, 263A, 269A, 269B, 301, 302, 304, 306, 338, 355, 356, 367, 382, 409, 414, 416, 441, 453, 465, 469, 512, 664, 809, 856, 871, 881, 897, 904, 958, 1042, 1059, 1060, 1239, 1246, 1372, 2036, 4975, 6038, 6038A, 7704 of this title; title 29 sections 1108, 1301.
 

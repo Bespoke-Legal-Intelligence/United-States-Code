@@ -128,7 +128,7 @@ For purposes of this subchapter—
 
 #### (3) Special rules
 
-&emsp;The Secretary may prescribe by regulation such special rules as the Secretary determines to be necessary to achieve the purposes of this subchapter in any case described in paragraph (1).
+&emsp;The Secretary may prescribe by regulation such special rules as the Secretary determinesto be necessary to achieve the purposes of this subchapter in any case described in paragraph (1).
 
 #### (d) Time for determining partner's profits interest in partnership
 
@@ -164,7 +164,7 @@ For purposes of this subchapter—
 
 #### (f) Special rule for deductions, losses, and credits of foreign partnerships
 
-Except to the extent otherwise provided in regulations, in the case of any partnership thetax matters partner of which resides outside the United States or the books of which are maintained outside the United States, no deduction, loss, or credit shall be allowable to any partner unless section 6031 is complied with for the partnership's taxable year in which such deduction, loss, or credit arose at such time as the Secretary prescribes by regulations.
+Except to the extent otherwise provided in regulations, in the case of any partnership the tax matters partner of which resides outside the United States or the books of which are maintained outside the United States, no deduction, loss, or credit shall be allowable to any partner unless section 6031 is complied with for the partnership's taxable year in which such deduction, loss, or credit arose at such time as the Secretary prescribes by regulations.
 
 #### (g) Partnership return to be determinative of whether subchapter applies
 
@@ -212,7 +212,7 @@ Amendment by section 416(d)(1)(C) of Pub. L. 107–147 applicable with respect t
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3507(b), July 22, 1998, 112 Stat. 772, provided that: “The amendment made by this section \[amending this section\] shall apply to selections of tax matters partners made by the Secretary of the Treasury after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3507(b), July 22, 1998, 112 Stat. 772, provided that: “The amendment made by this section \[amending this section\] shall apply to selections of tax matters partners made by the Secretary ofthe Treasury after the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Effective Date of 1997 Amendment
 
@@ -229,8 +229,4 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 #### Special Rule for Certain International Satellite Partnerships
 
 Section 406 of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Subchapter C of chapter 63 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to tax treatment of partnership items), section 6031 of such Code (relating to returns of partnership income), and section 6046A of such Code (relating to returns as to interest in foreign partnerships) shall not apply to the International Telecommunications Satellite Organization, the International Maritime Satellite Organization, and any organization which is a successor of either of such organizations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6226, 6227, 6228, 6229, 6230, 6234, 6255, 6501, 6511, 6512, 6601, 7422 of this title.
 

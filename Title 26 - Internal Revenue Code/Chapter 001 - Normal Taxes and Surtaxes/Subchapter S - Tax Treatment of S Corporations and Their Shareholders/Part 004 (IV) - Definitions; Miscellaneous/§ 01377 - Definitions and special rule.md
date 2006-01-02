@@ -46,17 +46,29 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) an agreement between the corporation and the Secretary that the corporation failed to qualify as an S corporation.
 
+#### (3) Special rules for audit related post-termination transition periods
+
+#### (A) No application to carryovers
+
+&emsp;&emsp;Paragraph (1)(B) shall not apply for purposes of section 1366(d)(3).
+
+#### (B) Limitation on application to distributions
+
+&emsp;&emsp;Paragraph (1)(B) shall apply to a distribution described in section 1371(e) only to the extent that the amount of such distribution does not exceed the aggregate increase (if any) in the accumulated adjustments account (within the meaning of section 1368(e)) by reason of the adjustments referred to in such paragraph.
+
 #### (c) Manner of making elections, etc.
 
 Any election under this subchapter, and any revocation under section 1362(d)(1), shall be made in such manner as the Secretary shall by regulations prescribe.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 104–188, title I, §§1306–1307(b), Aug. 20, 1996, 110 Stat. 1780.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 104–188, title I, §§1306–1307(b), Aug. 20, 1996, 110 Stat. 1780; Pub. L. 108–311, title IV, §407(a), Oct. 4, 2004, 118 Stat. 1190.)
 
 #### Prior Provisions
 
 A prior section 1377, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1656; amended Pub. L. 94–455, title IX, §902(b)(1), title XIX, §1901(b)(32)(B)(iv), Oct. 4, 1976, 90 Stat. 1608, 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
+
+2004—Subsec. (b)(3). Pub. L. 108–311 added par. (3).
 
 1996—Subsec. (a)(2). Pub. L. 104–188, §1306, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary, if any shareholder terminates his interest in the corporation during the taxable year and all persons who are shareholders during the taxable year agree to the application of this paragraph, paragraph (1) shall be applied as if the taxable year consisted of 2 taxable years the first of which ends on the date of the termination.”
 
@@ -67,6 +79,10 @@ Subsec. (b)(2)(A) to (C). Pub. L. 104–188, §1307(b), added subpar. (A), redes
 “(A) a court decision which becomes final,
 
 “(B) a closing agreement, or”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which such amendment relates, see section 407(c) of Pub. L. 108–311, set out as a note under section 401 of this title.
 
 #### Effective Date of 1996 Amendments
 
@@ -81,8 +97,4 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1371 of this title.
 

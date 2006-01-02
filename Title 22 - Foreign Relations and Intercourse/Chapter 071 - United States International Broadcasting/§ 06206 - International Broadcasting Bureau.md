@@ -32,7 +32,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Personal Services Contracting Pilot Program
 
-Pub. L. 107–228, div. A, title V, §504, Sept. 30, 2002, 116 Stat. 1393, provided that:
+Pub. L. 107–228, div. A, title V, §504, Sept. 30, 2002, 116 Stat. 1393, as amended by Pub. L. 109–140, §6, Dec. 22, 2005, 119 Stat. 2652, provided that:
 
 “(a)
 
@@ -52,5 +52,5 @@ Conditions.—The Director is authorized to use the authority of subsection (a) 
 
 “(c)
 
-Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2005. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
+Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2006. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
 

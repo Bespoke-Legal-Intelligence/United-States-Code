@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The general purpose of the National Center on Minority Health and Health Disparities (in thissubpart referred to as the “Center”) is the conduct and support of research, training, dissemination of information, and other programs with respect to minority health conditions and other populations with health disparities.
+The general purpose of the National Center on Minority Health and Health Disparities (in this subpart referred to as the “Center”) is the conduct and support of research, training, dissemination of information, and other programs with respect to minority health conditions and other populations with health disparities.
 
 #### (b) Priorities
 
@@ -86,7 +86,7 @@ The Director of the Center shall act as the primary Federal official with respon
 
 #### (g) Participation in clinical research
 
-The Director of the Center shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry out the provisions of section 289a–2 of this title that relate to minority groups.
+The Director of the Center shall work with the Director of NIH and the directors of the agencies of the National Institutes of Health to carry outthe provisions of section 289a–2 of this title that relate to minority groups.
 
 #### (h) Research endowments
 
@@ -136,7 +136,7 @@ The Director of the Center shall prepare an annual report on the activities carr
 
 #### (<i>l</i>) Authorization of appropriations
 
-For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparitiesresearch or other health disparities research by the agencies of the National Institutes of Health.
+For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.
 
 (July 1, 1944, ch. 373, title IV, §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497.)
 
@@ -194,7 +194,7 @@ Public Awareness on Health Disparities.—The Secretary of Health and Human Serv
 
 Dissemination of Information on Health Disparities.—The Secretary shall develop and implement a plan for the dissemination of information and findings with respect to health disparities under titles I, II, III, and IV of this Act \[see Tables for classification\]. The plan shall—
 
-&emsp;“(1) include the participation of all agencies of the Department of Health and Human Services that areresponsible for serving populations included in the health disparities research; and
+&emsp;“(1) include the participation of all agencies of the Department of Health and Human Services that are responsible for serving populations included in the health disparities research; and
 
 &emsp;“(2) have agency-specific strategies for disseminating relevant findings and information on health disparities and improving health care services to affected communities.”
 

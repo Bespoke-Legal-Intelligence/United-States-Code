@@ -20,13 +20,31 @@
 
 &emsp;&emsp;Subparagraph (A) shall not apply to any foreign income taxes the liability for which is denominated in any inflationary currency (as determined under regulations).
 
-#### (D) Cross reference
+#### (D) Elective exception for taxes paid other than in functional currency
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;At the election of the taxpayer, subparagraph (A) shall not apply to any foreign income taxes the liability for which is denominated in any currency other than in the taxpayer's functional currency.
+
+#### (ii) Application to qualified business units
+
+&emsp;&emsp;&emsp;An election under this subparagraph may apply to foreign income taxes attributable to a qualified business unit in accordance with regulations prescribed by the Secretary.
+
+#### (iii) Election
+
+&emsp;&emsp;&emsp;Any such election shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary.
+
+#### (E) Special rule for regulated investment companies
+
+&emsp;&emsp;In the case of a regulated investment company which takes into account income on an accrual basis, subparagraphs (A) through (D) shall not apply and foreign income taxes paid or accrued with respect to such income shall be translated into dollars using the exchange rate as of the date the income accrues.
+
+#### (F) Cross reference
 
 &emsp;&emsp;<b>For adjustments where tax is not paid within 2 years, see section 905(c).</b>
 
 #### (2) Translation of taxes to which paragraph (1) does not apply
 
-&emsp;For purposes of determining the amount of the foreign tax credit, in the case of any foreign income taxes to which subparagraph (A) of paragraph (1) does not apply—
+&emsp;For purposes of determining the amount of the foreign tax credit, in the case of any foreign income taxes to which subparagraph (A) or (E) of paragraph (1) does not apply—
 
 &emsp;&emsp;(A) such taxes shall be translated into dollars using the exchange rates as of the time such taxes were paid to the foreign country or possession of the United States, and
 
@@ -62,9 +80,19 @@ For purposes of determining the tax under this subtitle—
 
 &emsp;The Secretary shall prescribe regulations with respect to the treatment of distributions of previously taxed earnings and profits through tiers of foreign corporations.
 
-(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2586; amended Pub. L. 100–647, title I, §1012(v)(1)(A), Nov. 10, 1988, 102 Stat. 3528; Pub. L. 105–34, title XI, §1102(a)(1), (b)(1), Aug. 5, 1997, 111 Stat. 963, 965.)
+(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2586; amended Pub. L. 100–647, title I, §1012(v)(1)(A), Nov. 10, 1988, 102 Stat. 3528; Pub. L. 105–34, title XI, §1102(a)(1), (b)(1), Aug. 5, 1997, 111 Stat. 963, 965; Pub. L. 108–357, title IV, §408(a), (b), Oct. 22, 2004, 118 Stat. 1499.)
 
 #### Amendments
+
+2004—Subsec. (a)(1)(D). Pub. L. 108–357, §408(a), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (a)(1)(E). Pub. L. 108–357, §408(b)(1), added subpar. (E). Former subpar. (E) redesignated (F).
+
+Pub. L. 108–357, §408(a), redesignated subpar. (D) as (E).
+
+Subsec. (a)(1)(F). Pub. L. 108–357, §408(b)(1), redesignated subpar. (E) as (F).
+
+Subsec. (a)(2). Pub. L. 108–357, §408(b)(2), inserted “or (E)” after “subparagraph (A)” in introductory provisions.
 
 1997—Subsec. (a). Pub. L. 105–34, §1102(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
@@ -90,7 +118,11 @@ Foreign income taxes.—For purposes of paragraph (1), ‘foreign income taxes�
 
 Subsec. (a)(3), (4). Pub. L. 105–34, §1102(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
-1988—Pub. L. 100–647 substituted “foreign taxes and foreign corporation's earnings and profits” for “foreign corporation's earnings and profits and foreign taxes” in heading, and revised and restructured the provisions of subsecs. (a) and (b).
+1988—Pub. L. 100–647 substituted “foreign taxes and foreign corporation's earnings and profits” for “foreign corporation's earnings and profits and foreign taxes” inheading, and revised and restructured the provisions of subsecs. (a) and (b).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §408(c), Oct. 22, 2004, 118 Stat. 1500, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
 
 #### Effective Date of 1997 Amendment
 
@@ -103,8 +135,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as a note under section 985 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 902, 905 of this title.
 

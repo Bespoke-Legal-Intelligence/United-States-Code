@@ -8,7 +8,7 @@ Required Coordination and Sharing of Health Care Resources.—The Secretary of V
 
 Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of the two Departments, the two Secretaries shall carry out the following functions:
 
-&emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan to shape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic and performance plan of each Department under the Government Performance and Results Act.
+&emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan to shape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993.
 
 &emsp;(2) Jointly fund the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title.
 
@@ -24,19 +24,11 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 (2) To facilitate the incentive program, effective October 1, 2003, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3)(A) For each fiscal year during which the program under this subsection is in effect, the Comptroller General shall conduct a review of the implementation and effectiveness of the incentives program under this subsection. Upon completion of each such annual review, the Comptroller General shall submit to the Committees on Armed Services and Veterans’ Affairs of the Senate and House of Representatives a report on the results of that review. Each such report shall be submitted not later than February 28 of the year following the fiscal year covered by the report. In addition, the Comptroller General shall conduct such a review during the first five months of fiscal year 2004 and, not later than February 28, 2004, shall submit to those committees a report on the implementation and effectiveness of the incentives program under this subsection to that date.
-
-(B) Each report under this paragraph shall describe activities carried out under the program under this subsection during the preceding fiscal year (or, in the case of the first such report, to the date of the submission of the report). Each report shall include at least the following:
-
-&emsp;(i) An analysis of the initiatives funded by the Committee, and the funds so expended by such initiatives, from the DOD–VA Health Care Sharing Incentive Fund, including the purposes and effects of those initiatives on improving access to care by beneficiaries, improvements in the quality of care received by those beneficiaries, and efficiencies gained in delivering services to those beneficiaries.
-
-&emsp;(ii) Other matters of interest, including recommendations from the Comptroller General for legislative improvements to the program.
-
-(4) The program under this subsection shall terminate on September 30, 2007.
+(3) The program under this subsection shall terminate on September 30, 2007.
 
 (e)
 
-Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—(1) To implement the recommendations made by the Department of Veterans Affairs-Departmentof Defense Joint Executive Committee with respect to health care resources, as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
+Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—(1) To implement the recommendations made by the Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources, as well as to carry out other health care contracts and agreements for coordination and sharing initiatives as they consider appropriate, the two Secretaries shall jointly issue guidelines and policy directives. Such guidelines and policies shall provide for coordination and sharing that—
 
 &emsp;(A) is consistent with the health care responsibilities of the Department of Veterans Affairs under this title and with the health care responsibilities of the Department of Defense under chapter 55 of title 10;
 
@@ -56,7 +48,7 @@ Guidelines and Policies for Implementation of Coordination and Sharing Recommend
 
 (E) Each such agreement shall provide that a providing Department or service region shall be reimbursed for the cost of the health care resources provided under the agreement and that the rate of such reimbursement shall be as determined in accordance with paragraph (2).
 
-(F) Each proposal for an agreement under this paragraph shall be effective (i) on the 46th day after the receipt of such proposal by the Committee, unless earlier disapproved, or (ii) if earlier approved by the Committee, on the date of such approval.
+(F) Each proposal for an agreement under this paragraph shall be effective (i) on the 46th dayafter the receipt of such proposal by the Committee, unless earlier disapproved, or (ii) if earlier approved by the Committee, on the date of such approval.
 
 (G) Any funds received through such a uniform payment and reimbursement schedule shall be credited to funds that have been allotted to the facility of either Department that provided the care or services, or is due the funds from, any such agreement.
 
@@ -82,7 +74,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(A) Enumerations and explanations of major policy decisions reached by the two Secretaries during the period covered by the report period with respect to sharing between the two Departments.
 
-&emsp;(B) A description of progress made in new ventures or particular areas of sharing and coordination that would be of policy interest toCongress consistent with the intent of such subtitle.
+&emsp;(B) A description of progress made in new ventures or particular areas of sharing and coordination that would be of policy interest to Congress consistent with the intent of such subtitle.
 
 &emsp;(C) A description of enhancements of access to care of beneficiaries of both Departments that came about as a result of new sharing approaches brought about by such subtitle.
 
@@ -118,19 +110,23 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term “service region” means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440.)
 
 #### References in Text
 
-The Government Performance and Results Act, referred to in subsec. (b)(1), probably means the Government Performance and Results Act of 1993, Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (b)(1), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
-The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amendedthis section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
+The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5003 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–163, §1056(g), inserted “of 1993” after “Government Performance and Results Act”.
+
+Subsec. (d)(3), (4). Pub. L. 109–163, §747(a), redesignated par. (4) as (3) and struck out former par. (3) which provided for an annual review and report by the Comptroller General of the implementation and effectiveness of the incentives program under this subsection.
 
 2004—Subsec. (d)(2). Pub. L. 108–422 inserted “and shall be available for any purpose authorized by this section” before period at end.
 
@@ -206,7 +202,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2811, Oct. 28, 2004, 118 Stat. 2128, 
 
 “(a)
 
-Department of Defense Consideration of Joint Construction.—When considering any militaryconstruction project for the construction of a new military medical treatment facility in the United States or a territory or possession of the United States, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding the feasibility of carrying out a joint project to construct a medical facility that—
+Department of Defense Consideration of Joint Construction.—When considering any military construction project for the construction of a new military medical treatment facility in the United States or a territory or possession of the United States, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding the feasibility of carrying out a joint project to construct a medical facility that—
 
 &emsp;“(1) could serve as a facility for health-resources sharing between the Department of Defense and the Department of Veterans Affairs; and
 
@@ -222,7 +218,7 @@ Department of Veterans Affairs Consideration of Joint Construction.—When consi
 
 #### Health Care Resources Sharing and Coordination Project
 
-Pub. L. 107–314, div. A, title VII, §722, Dec. 2, 2002, 116 Stat. 2595, provided that:
+Pub. L. 107–314, div. A, title VII, §722, Dec. 2, 2002, 116 Stat. 2595, as amended by Pub. L. 109–163, div. A, title VII, §747(b), Jan. 6, 2006, 119 Stat. 3363, provided that:
 
 “(a)
 
@@ -242,7 +238,7 @@ Site Identification.—(1) Not later than 90 days after the date of the enactmen
 
 “(c)
 
-Conduct of Project.—(1) At sites at which the project is conducted, the Secretaries shall provide a test of a coordinated management system for the military treatment facilities and VA health care facilities participating in the project. Such a coordinated management system for a site shall include at least one of the elements specified in paragraph (2), and each of the elements specified in that paragraph must be included in the coordinated management system for at least one of the participating sites.
+Conduct of Project.—(1) At sites at which the project is conducted, the Secretaries shall provide a test of a coordinated management system for the military treatment facilities and VA health care facilities participating in the project. Such a coordinated management system for a site shall include at least one ofthe elements specified in paragraph (2), and each of the elements specified in that paragraph must be included in the coordinated management system for at least one of the participating sites.
 
 “(2) Elements of a coordinated management system referred to in paragraph (1) are the following:
 
@@ -304,29 +300,9 @@ Definitions.—For purposes of this section:
 
 “(h)
 
-Performance Review.—(1) The Comptroller General shall provide for an annual on-site review at each of the project locations selected by the Secretaries under this section.
-
-“(2) Not later than 90 days after completion of the annual review under paragraph (1), the Comptroller General shall submit a report on such review to the Committees on Armed Services and Veterans’ Affairs of the Senate and House of Representatives.
-
-“(3) Each such report shall include the following:
-
-&emsp;“(A) The strategic mission coordination between shared activities.
-
-&emsp;“(B) The accuracy and validity of performance data used to evaluate sharing performance and changes in standards of care or services at the shared facilities.
-
-&emsp;“(C) A statement that all appropriated funds designated for sharing activities are being used for direct support of sharing initiatives.
-
-&emsp;“(D) Recommendations concerning continuance of the project at each site for the succeeding 12-month period.
-
-“(4) Whenever there is a recommendation under paragraph (3)(D) to discontinue a resource sharing project under this section, the two Secretaries shall act upon that recommendation as soon as practicable.
-
-“(5) In the initial report under this subsection, the Comptroller General shall validate the baseline information used for comparative analysis.
-
-“(i)
-
 Termination.—(1) The project, and the authority provided by this section, shall terminate on September 30, 2007.
 
-“(2) The two Secretaries jointly may terminate the performance of the project at any site when the performance of the project at that site fails to meet performance expectations of the Secretaries, based on recommendations from the Comptroller General under subsection (h) or on other information available to the Secretaries to warrant such action.”
+“(2) The two Secretaries jointly may terminate the performance of the project at any site when the performance of the project at that site fails to meet performance expectations of the Secretaries, as determined by the Secretaries based on information available to the Secretaries to warrant such action.”
 
 #### Access to Care for TRICARE-Eligible Military Retirees
 

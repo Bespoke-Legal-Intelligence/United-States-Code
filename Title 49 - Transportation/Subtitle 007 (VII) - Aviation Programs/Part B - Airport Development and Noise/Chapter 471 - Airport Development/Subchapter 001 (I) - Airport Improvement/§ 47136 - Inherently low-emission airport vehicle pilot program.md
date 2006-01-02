@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall carry out a pilot program at not more than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding anyother provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
+In General.—The Secretary of Transportation shall carry out a pilot program at notmore than 10 public-use airports under which the sponsors of such airports may use funds made available under section 48103 for use at such airports to carry out inherently low-emission vehicle activities. Notwithstanding any other provision of this subchapter, inherently low-emission vehicle activities shall for purposes of the pilot program be treated as eligible for assistance under this subchapter.
 
 (b)
 
@@ -38,7 +38,7 @@ In general.—The sponsor of a public-use airport carrying out inherently low-em
 
 &emsp;(2)
 
-Eligible consortium.—To the maximum extent practicable, participants in the pilot program shall use an eligible consortium (as defined in section 5506 of this title) in the region of the airport to receive technical assistance described in paragraph (1).
+Eligible consortium.—To the maximum extent practicable, participants in the pilot program shall use an eligible consortium (as defined in section 5506 <sup>1</sup> of this title) in the region of the airport to receive technical assistance described in paragraph (1).
 
 (g)
 
@@ -82,9 +82,13 @@ Inherently Low-Emission Vehicle Activity Defined.—In this section, the term �
 
 #### References in Text
 
+Section 5506 of this title, referred to in subsec. (f)(2), was amended by Pub. L. 109–59 and no longer defines the term “eligible consortium”.
+
 The date of the enactment of this section, referred to in subsec. (h), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+
+<i><sup>1</sup></i><i> See References in text note below.</i>
 

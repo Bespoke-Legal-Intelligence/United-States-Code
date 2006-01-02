@@ -2,7 +2,7 @@
 
 #### (a) Cooperative agreements
 
-(1) To facilitate the administration of the programs and activities of the Department of the Interior, the Secretary is authorized to negotiate and enter into cooperative agreements with Indian tribes to—
+(1) To facilitate the administration of the programs and activities of the Department of theInterior, the Secretary is authorized to negotiate and enter into cooperative agreements with Indian tribes to—
 
 &emsp;(A) engage in cooperative manpower and job training and development programs,
 

@@ -1,6 +1,6 @@
 ### §1611. Exempt organizations
 
-An organization described in section 501(c)(4) of title 26 which engages in lobbying activities shall not be eligible for the receipt of Federal funds constituting an award, grant, or loan.
+An organization described in section 501(c)(4) of title 26 which engages in lobbying activitiesshall not be eligible for the receipt of Federal funds constituting an award, grant, or loan.
 
 (Pub. L. 104–65, §18, Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–99, title I, §129(a), Jan. 26, 1996, 110 Stat. 34.)
 

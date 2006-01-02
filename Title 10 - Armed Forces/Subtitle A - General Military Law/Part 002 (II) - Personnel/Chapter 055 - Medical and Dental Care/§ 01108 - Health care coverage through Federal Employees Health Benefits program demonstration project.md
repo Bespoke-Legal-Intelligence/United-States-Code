@@ -26,7 +26,7 @@ Eligible Beneficiaries; Coverage.—(1) An eligible beneficiary under this subse
 
 (2) Eligible beneficiaries may enroll in a Federal Employees Health Benefit plan under chapter 89 of title 5 under this section for self-only coverage or for self and family coverage which includes any dependent of the member or former member who is a family member for purposes of such chapter.
 
-(3) A person eligible for coverage under this subsection shall not be required to satisfy any eligibility criteria specified in chapter 89 of title 5 (except as provided in paragraph (1)(C) or\(1)(D)) as a condition for enrollment in health benefits plans offered through the Federal Employees Health Benefits program under the demonstration project.
+(3) A person eligible for coverage under this subsection shall not be required to satisfy any eligibility criteria specified in chapter 89 of title 5 (except as provided in paragraph (1)(C) or (1)(D)) as a condition for enrollment in health benefits plans offered through the Federal Employees Health Benefits program under the demonstration project.
 
 (4) For purposes of determining whether an individual is a member of family under paragraph (5) of section 8901 of title 5 for purposes of paragraph (1)(C) or (1)(D), a member or former member described in section 1076(b) or 1076(a)(2)(B) of this title shall be deemed to be an employee under such section.
 
@@ -46,13 +46,13 @@ Area of Demonstration Project.—The Secretary of Defense and the Director of th
 
 (d)
 
-Duration of Demonstration Project.—(1) The Secretary of Defense shall conduct the demonstration project during three contract years under the Federal Employees Health Benefits program.
+Duration of Demonstration Project.—(1) The Secretary of Defense shall conduct the demonstration project during three contract yearsunder the Federal Employees Health Benefits program.
 
 (2) Eligible beneficiaries shall, as provided under the agreement pursuant to subsection (a), be permitted to enroll in the demonstration project during an open enrollment period for the year 2000 (conducted in the fall of 1999). The demonstration project shall terminate on December 31, 2002.
 
 (e)
 
-Prohibition Against Use of MTFs and Enrollment Under TRICARE.—Covered beneficiaries under this chapter who are provided coverage under the demonstration project shall not be eligible to receive care at a military medical treatment facility or to enroll in a heath care plan under the TRICARE program.
+Prohibition Against Use of MTFs and Enrollment Under TRICARE.—Covered beneficiaries under this chapter who are provided coverage under the demonstration project shall not be eligible to receive care at a military medical treatment facility or to enroll in a health care plan under the TRICARE program.
 
 (f)
 
@@ -90,7 +90,7 @@ Report Requirements.—(1) The Secretary of Defense and the Director of the Offi
 
 &emsp;(D) An analysis of the enrollment rates and cost of health services provided to eligible beneficiaries who elect to participate in the demonstration project as compared with similarly situated enrollees in the Federal Employees Health Benefits program under chapter 89 of title 5.
 
-&emsp;(E) An analysis of how the demonstration project affects the accessibility of health carein military medical treatment facilities, and a description of any unintended effects on the treatment priorities in those facilities in the demonstration area.
+&emsp;(E) An analysis of how the demonstration project affects the accessibility of health care in military medical treatment facilities, and a description of any unintended effects on the treatment priorities in those facilities in the demonstration area.
 
 &emsp;(F) An analysis of any problems experienced by the Department of Defense in managing the demonstration project.
 
@@ -124,11 +124,15 @@ Application of Medigap Protections to Demonstration Project Enrollees.—(1) Sub
 
 &emsp;(B) the notification required under section 1882(s)(3)(D) of such Act shall be provided in a manner specified by the Secretary of Defense in consultation with the Director of the Office of Personnel Management.
 
-(Added Pub. L. 105–261, div. A, title VII, §721(a)(1), Oct. 17, 1998, 112 Stat. 2061.)
+(Added Pub. L. 105–261, div. A, title VII, §721(a)(1), Oct. 17, 1998, 112 Stat. 2061; amended Pub. L. 108–375, div. A, title X, §1084(d)(8), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), (j)(2)(K)(ii), and (<i>l</i>)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to Part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+2004—Subsec. (e). Pub. L. 108–375 substituted “health” for “heath”.
 
 #### Change of Name
 
@@ -137,10 +141,6 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 #### Comprehensive Evaluation of Implementation of Demonstration Projects and TRICARE Pharmacy Redesign
 
 Pub. L. 105–261, div. A, title VII, §724, Oct. 17, 1998, 112 Stat. 2069, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that: “Not later than March 31, 2003, the Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing a comprehensive comparative analysis of the FEHBP demonstration project conducted under section 1108 of title 10, United States Code (as added by section 721), the TRICARE Senior Supplement under section 722 \[10 U.S.C. 1073 note\], and the redesign of the TRICARE pharmacy system under section 723 \[10 U.S.C. 1073 note\]. The comprehensive analysis shall incorporate the findings of the evaluation submitted under section 723(c) and the report submitted under subsection (j) of such section 1108.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 8905, 8906, 8909.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

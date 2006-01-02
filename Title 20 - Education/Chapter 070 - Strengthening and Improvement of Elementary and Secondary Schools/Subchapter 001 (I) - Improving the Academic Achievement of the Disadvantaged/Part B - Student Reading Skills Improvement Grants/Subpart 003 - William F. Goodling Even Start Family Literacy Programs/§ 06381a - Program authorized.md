@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Secretary shall reserve 5 percent of the amount appropriated under section 6302(b)(3) of this title (or, if such appropriated amount exceeds $200,000,000, 6 percent of such amount) for programs, under such terms and conditions as the Secretary shall establish, that are consistent with the purpose of this subpart, and according to their relative needs, for—
+&emsp;For each fiscal year, the Secretary shall reserve 5 percent of the amount appropriatedunder section 6302(b)(3) of this title (or, if such appropriated amount exceeds $200,000,000, 6 percent of such amount) for programs, under such terms and conditions as the Secretary shall establish, that are consistent with the purpose of this subpart, and according to their relative needs, for—
 
 &emsp;&emsp;(A) children of migratory workers;
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) is equal to or less than the amount appropriated for the preceding fiscal year, the Secretary may reserve from such amount only the amount necessary to continue multi-year activities carried out pursuant to section 6381j(b) of this title that began during or prior to the fiscal year preceding the fiscal year for which the determination is made; or
 
-&emsp;&emsp;(B) exceeds the amount appropriated for the preceding fiscal year, then the Secretaryshall reserve from such excess amount $2,000,000 or 50 percent, whichever is less, to carry out section 6381j(b) of this title.
+&emsp;&emsp;(B) exceeds the amount appropriated for the preceding fiscal year, then the Secretary shall reserve from such excess amount $2,000,000 or 50 percent, whichever is less, to carry out section 6381j(b) of this title.
 
 #### (c) Reservation for grants
 
@@ -82,7 +82,7 @@
 
 #### (4) Technical assistance
 
-&emsp;The Secretary shall provide, directly or through a grant or contract with an organization with experience in the development and operation of successful family literacy services, technical assistance to State educational agencies receiving a grant under this subsection.
+&emsp;The Secretary shall provide, directly or through a grant or contract with an organization with experience in the development andoperation of successful family literacy services, technical assistance to State educational agencies receiving a grant under this subsection.
 
 #### (5) Matching requirement
 

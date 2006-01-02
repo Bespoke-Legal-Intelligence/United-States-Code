@@ -6,7 +6,7 @@
 
 #### (c) Creditable civilian service in Senate Building Beauty Shop for basic annuity
 
-Any individual who, on October 1, 1988, is an employee of the Senate Building Beauty Shop and who, after having been employed by the Sergeant at Arms and Doorkeeper pursuant to subsection (a) of this section, attains 5 years of civilian service creditable under section 8411 of title 5, other than service credited pursuant to subsection (d) of this section, may be credited under such section for any service as an employee of the Senate Building Beauty Shop prior to October 1, 1988, if such employee makes a payment of the amount, determined by the Office of Personnel Management, that would have been deducted and withheld from the basic pay of such employee under section 8422 of title 5 for such period so credited, together with interest thereon.
+Any individual who, on October 1, 1988, is an employee of the Senate Building Beauty Shop and who, after having been employed by the Sergeant at Arms and Doorkeeper pursuant to subsection (a) of this section, attains 5 years of civilian service creditable under section 8411 of title 5, other than service credited pursuant to subsection (d) of this section, may be credited under such section for any service as an employee of the Senate Building Beauty Shop prior to October 1, 1988, if such employee makes a payment of the amount, determined by the Office of Personnel Management, that would have been deducted and withheld from the basic payof such employee under section 8422 of title 5 for such period so credited, together with interest thereon.
 
 #### (d) Creditable civilian service in Senate Building Beauty Shop for survivor annuities and disability benefits
 

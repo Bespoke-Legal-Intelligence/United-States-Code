@@ -38,13 +38,13 @@
 
 #### (3) Use of technology standard
 
-&emsp;The systems employed to implement paragraphs (1) and (2) shall utilize the technologystandard established pursuant to section 1379 of this title.
+&emsp;The systems employed to implement paragraphs (1) and (2) shall utilize the technology standard established pursuant to section 1379 of this title.
 
 #### (c) Technology standard for visa waiver participants
 
 #### (1) Certification requirement
 
-&emsp;Not later than October 26, 2005, the government of each country that is designated to participate in the visa waiver program established under section 1187 of this title shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant and incorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of section 1187(a)(3) of this title.
+&emsp;Not later than October 26, 2005, the government of each country that is designated to participate in the visa waiver program established under section 1187 of this title shall certify, as a condition for designation or continuation of that designation, that it has a program to issue to its nationals machine-readable passports that are tamper-resistant andincorporate biometric and document authentication identifiers that comply with applicable biometric and document identifying standards established by the International Civil Aviation Organization. This paragraph shall not be construed to rescind the requirement of section 1187(a)(3) of this title.
 
 #### (2) Use of technology standard
 

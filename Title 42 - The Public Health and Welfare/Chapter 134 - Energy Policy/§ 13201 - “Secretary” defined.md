@@ -18,7 +18,7 @@ Ex. Ord. No. 13211, May 18, 2001, 66 F.R. 28355, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to appropriately weigh and consider the effects of the Federal Government's regulations on the supply, distribution, and use of energy, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The Federal Government can significantly affect the supply, distribution, and use of energy. Yet there is often too little information regarding the effects that governmental regulatory action can have on energy. In order to provide more useful energy-related information and hence improve the quality of agency decisionmaking, I am requiring that agencies shall prepare a Statement of Energy Effects whenundertaking certain agency actions. As described more fully below, such Statements of Energy Effects shall describe the effects of certain regulatory actions on energy supply, distribution, or use.
+Section 1. <i>Policy</i>. The Federal Government can significantly affect the supply, distribution, and use of energy. Yet there is often too little information regarding the effects that governmental regulatory action can have on energy. In order to provide more useful energy-related information and hence improve the quality of agency decisionmaking, I am requiring that agencies shall prepare a Statement of Energy Effects when undertaking certain agency actions. As described more fully below, such Statements of Energy Effects shall describe the effects of certain regulatory actions on energy supply, distribution, or use.
 
 Sec. 2. <i>Preparation of a Statement of Energy Effects</i>. (a) To the extent permitted by law, agencies shall prepare and submit a Statement of Energy Effects to the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, for those matters identified as significant energy actions.
 
@@ -66,7 +66,7 @@ Sec. 3. <i>Interagency Task Force</i>. (a) There is established, within the Depa
 
 (i) monitor and assist the agencies in their efforts to expedite their reviews of permits or similar actions, as necessary, to accelerate the completion of energy-related projects (including pipeline safety projects), increase energy production and conservation, and improve the transmission of energy;
 
-(ii) monitor and assist agencies in setting up appropriate mechanisms to coordinate Federal, State, tribal, and local permitting in geographic areas where increased permitting activity is expected; and
+(ii) monitor and assist agencies in setting up appropriate mechanisms to coordinate Federal, State, tribal,and local permitting in geographic areas where increased permitting activity is expected; and
 
 (iii) perform the functions of the interagency committee for which section 60133 of title 49, United States Code, provides.
 

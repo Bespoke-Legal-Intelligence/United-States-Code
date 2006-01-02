@@ -8,7 +8,7 @@ Each United States person who—
 
 &emsp;&emsp;(A) a foreign corporation in an exchange described in section 332, 351, 354, 355, 356, or 361, or
 
-&emsp;&emsp;(B) a foreign partnership in a contribution described in section 721 or in any other contribution described in regulations prescribed by the Secretary,<sup>1</sup>
+&emsp;&emsp;(B) a foreign partnership in a contribution described in section 721 or in any other contribution described in regulations prescribed by the Secretary, or
 
 &emsp;(2) makes a distribution described in section 336 to a person who is not a United States person,
 
@@ -44,9 +44,11 @@ Each United States person who—
 
 &emsp;The penalty under paragraph (1) with respect to any exchange shall not exceed $100,000 unless the failure with respect to such exchange was due to intentional disregard.
 
-(Added Pub. L. 98–369, div. A, title I, §131(d)(1), July 18, 1984, 98 Stat. 664; amended Pub. L. 105–34, title XI, §1144(a)–(c), Aug. 5, 1997, 111 Stat. 984, 985; Pub. L. 105–206, title VI, §6011(g), July 22, 1998, 112 Stat. 818.)
+(Added Pub. L. 98–369, div. A, title I, §131(d)(1), July 18, 1984, 98 Stat. 664; amended Pub. L. 105–34, title XI, §1144(a)–(c), Aug. 5, 1997, 111 Stat. 984, 985; Pub. L. 105–206, title VI, §6011(g), July 22, 1998, 112 Stat. 818; Pub. L. 109–135, title IV, §409(c), Dec. 21, 2005, 119 Stat. 2636.)
 
 #### Amendments
+
+2005—Subsec. (a)(1)(B). Pub. L. 109–135 inserted “or” at end.
 
 1998—Subsec. (c). Pub. L. 105–206, §6011(g), made technical amendment to directory language of Pub. L. 105–206, §1144(c). See 1997 Amendment note below.
 
@@ -58,9 +60,13 @@ Subsec. (c). Pub. L. 105–34, §1144(c), as amended by Pub. L. 105–206, §601
 
 Pub. L. 105–34, §1144(b), redesignated subsec. (b) as (c).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 409(d) of Pub. L. 109–135, set out as a note under section 961 of this title.
+
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -73,10 +79,4 @@ Section applicable to transfers or exchanges after Dec. 31, 1984, in taxable yea
 #### Election of Retroactive Effect
 
 Section 1141(d)(2) of Pub. L. 105–34 provided that: “Section 1494(c) of the Internal Revenue Code of 1986 shall not apply to any transfer after August 20, 1996, if all applicable reporting requirements under section 6038B of such Code (as amended by this section) are satisfied. The Secretary of the Treasury or his delegate may prescribe simplified reporting requirements under the preceding sentence.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6501 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

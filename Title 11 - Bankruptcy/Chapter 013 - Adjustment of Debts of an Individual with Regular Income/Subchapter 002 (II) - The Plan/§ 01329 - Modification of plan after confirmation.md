@@ -4,17 +4,29 @@
 
 &emsp;(1) increase or reduce the amount of payments on claims of a particular class provided for by the plan;
 
-&emsp;(2) extend or reduce the time for such payments; or
+&emsp;(2) extend or reduce the time for such payments;
 
-&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan.
+&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan; or
+
+&emsp;(4) reduce amounts to be paid under the plan by the actual amount expended by the debtor to purchase health insurance for the debtor (and for any dependent of the debtor if such dependent does not otherwise have health insurance coverage) if the debtor documents the cost of such insurance and demonstrates that—
+
+&emsp;&emsp;(A) such expenses are reasonable and necessary;
+
+&emsp;&emsp;(B)(i) if the debtor previously paid for health insurance, the amount is not materially larger than the cost the debtor previously paid or the cost necessary to maintain the lapsed policy; or
+
+&emsp;&emsp;(ii) if the debtor did not have health insurance, the amount is not materially larger than the reasonable cost that would be incurred by a debtor who purchases health insurance, who has similar income, expenses, age, and health status, and who lives in the same geographical location with the same number of dependents who do not otherwise have health insurance coverage; and
+
+&emsp;&emsp;(C) the amount is not otherwise allowed for purposes of determining disposable income under section 1325(b) of this title;
+
+> &emsp;and upon request of any party in interest, files proof that a health insurance policy was purchased.
 
 (b)(1) Sections 1322(a), 1322(b), and 1323(c) of this title and the requirements of section 1325(a) of this title apply to any modification under subsection (a) of this section.
 
 (2) The plan as modified becomes the plan unless, after notice and a hearing, such modification is disapproved.
 
-(c) A plan modified under this section may not provide for payments over a period that expires after three years after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
+(c) A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2651; Pub. L. 98–353, title III, §§319, 533, July 10, 1984, 98 Stat. 357, 389.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2651; Pub. L. 98–353, title III, §§319, 533, July 10, 1984, 98 Stat. 357, 389; Pub. L. 109–8, title I, §102(i), title III, §318(4), Apr. 20, 2005, 119 Stat. 34, 94.)
 
 #### Historical and Revision Notes
 
@@ -24,9 +36,17 @@ At any time prior to the completion of payments under a confirmed plan, the plan
 
 #### Amendments
 
+2005—Subsec. (a)(4). Pub. L. 109–8, §102(i), added par. (4).
+
+Subsec. (c). Pub. L. 109–8, §318(4), substituted “the applicable commitment period under section 1325(b)(1)(B)” for “three years”.
+
 1984—Subsec. (a). Pub. L. 98–353, §§319, 533(1), (2), inserted “of the plan” after “confirmation”, substituted “such plan” for “a plan”, and inserted provisions respecting requests by the debtor, the trustee, or the holder of an allowed unsecured claim for modification.
 
 Subsec. (a)(3). Pub. L. 98–353, §533(3), substituted “plan to” for “plan, to”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

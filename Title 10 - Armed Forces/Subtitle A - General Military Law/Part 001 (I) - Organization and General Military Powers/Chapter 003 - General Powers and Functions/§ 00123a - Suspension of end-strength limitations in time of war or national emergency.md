@@ -2,7 +2,7 @@
 
 (a)
 
-During War or National Emergency.—If at the end of any fiscal year there is in effect a war or national emergency, the President may waive any statutory end strength with respect to that fiscal year. Any such waiver may be issued only for a statutory end strength that is prescribed by law before the waiver is issued.
+During War or National Emergency.—If at the end of any fiscal year there is in effect awar or national emergency, the President may waive any statutory end strength with respect to that fiscal year. Any such waiver may be issued only for a statutory end strength that is prescribed by law before the waiver is issued.
 
 (b)
 

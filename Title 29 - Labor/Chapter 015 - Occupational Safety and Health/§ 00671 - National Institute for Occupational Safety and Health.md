@@ -2,7 +2,7 @@
 
 #### (a) Statement of purpose
 
-It is the purpose of this section to establish a National Institute for Occupational Safety andHealth in the Department of Health and Human Services in order to carry out the policy set forth in section 651 of this title and to perform the functions of the Secretary of Health and Human Services under sections 669 and 670 of this title.
+It is the purpose of this section to establish a National Institute for Occupational Safety and Health in the Department of Health and Human Services in order to carry out the policy set forth in section 651 of this title and to perform the functions of the Secretary of Health and Human Services under sections 669 and 670 of this title.
 
 #### (b) Establishment; Director; appointment; term
 
@@ -62,11 +62,11 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 > &emsp;Grants under this subsection shall be awarded only to those organizations that fund at least 30 percent of their lead-based paint activities training programs from non-Federal sources, excluding in-kind contributions. Grants may also be made to local governments to carry out such training and education for their employees.
 
-&emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute for each of the fiscal years 1994 through 1997 to make grants under this paragraph.
+&emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute foreach of the fiscal years 1994 through 1997 to make grants under this paragraph.
 
 #### (2) Evaluation of programs
 
-&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy ofthe worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
+&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
 
 (Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28, 1992, 106 Stat. 3924.)
 

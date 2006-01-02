@@ -6,13 +6,13 @@
 
 &emsp;(1) an employee or group of employees solely on the basis of the hazardous nature of employment;
 
-&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whose pay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employedby the Board for a period or periods totaling not less than two school years;
+&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whose pay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employed by the Board for a period or periods totaling not less than two school years;
 
 &emsp;(3) an employee who is occupying a position on a part-time career employment basis (as defined in section 3401(2) of this title); or
 
 &emsp;(4) an employee who is employed on a temporary basis and is eligible under section 8906a(a).
 
-(c) The regulations of the Office shall provide for the beginning and ending dates of coverage of employees, annuitants, members of their families, and former spouses under health benefit plans. The regulations may permit the coverage to continue, exclusive of the temporary extension of coverage described by section 8902(g) of this title, until the end of the pay period in which an employee is separated from the service, or until the end of the month in which an annuitant or former spouse ceases to be entitled to annuity, and in case of the death of an employee or annuitant, may permit a temporary extension of the coverage of members of his family for not to exceed 90 days.
+(c) The regulations of the Office shall provide for the beginning and ending dates of coverage of employees, annuitants, members of their families, and former spouses under health benefit plans. The regulations may permit the coverage to continue, exclusive of the temporary extension of coverage described by section 8902(g) of this title, until the end of the pay period in which an employee is separated from the service, or until the end of the month in which an annuitant or former spouse ceases to be entitledto annuity, and in case of the death of an employee or annuitant, may permit a temporary extension of the coverage of members of his family for not to exceed 90 days.
 
 (d) The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this chapter to an individual named by section 8901(1)(H) of this title.
 

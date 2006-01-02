@@ -72,7 +72,3 @@ Section applicable to taxable years of foreign corporations beginning after Dec.
 
 Section 1012(p)(37)(B) of Pub. L. 100–647 provided that: “The period during which an election under section 1295(b) of the 1986 Code may be made shall in no event expire before the date 60 days after the date of enactment of this Act \[Nov. 10, 1988\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 1022 of this title.
-

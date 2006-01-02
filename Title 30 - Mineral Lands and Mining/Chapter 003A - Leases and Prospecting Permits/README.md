@@ -66,6 +66,9 @@
 | [189\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000189%20-%20Rules%20and%20regulations%3B%20boundary%20lines%3B%20State%20rights%20unaffected%3B%20taxation.md) | Rules and regulations; boundary lines; State rights unaffected; taxation. |
 | [190\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000190%20-%20Oath%3B%20requirement%3B%20form%3B%20blanks.md) | Oath; requirement; form; blanks. |
 | [191\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000191%20-%20Disposition%20of%20moneys%20received.md) | Disposition of moneys received. |
+| (a) | In general. |
+| (b) | Administrative costs. |
+| (c) | Rentals received on or after August 8, 2005. |
 | [191a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000191a%20-%20Late%20payment%20charges%20under%20Federal%20mineral%20leases.md) | Late payment charges under Federal mineral leases. |
 | (a) | Distribution of late payment charges. |
 | (b) | Effective date. |
@@ -94,8 +97,8 @@
 |  |  |
 | :--- | ---: |
 | [201\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000201%20-%20Leases%20and%20exploration.md) | Leases and exploration. |
-| (a) | Division into tracts; bidding and award; negotiated sales on exercise of right-of-way permits; leases to public agencies; fair market value of leases; leases in National Forests; comprehensive land-use plans; notice of proposed lease offering. |
-| (b) | Exploration licenses; term; rights and conditions; violations. |
+| (a) | Leases. |
+| (b) | Exploration. |
 | 201–1 to 201b. Repealed or Omitted. |  |
 | [202\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000202%20-%20Common%20carriers%3B%20limitations%20of%20lease%20or%20permit.md) | Common carriers; limitations of lease or permit. |
 | [202a.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000202a%20-%20Consolidation%20of%20coal%20leases%20into%20logical%20mining%20unit.md) | Consolidation of coal leases into logical mining unit. |
@@ -107,7 +110,10 @@
 | (6) | Lessee required to form unit. |
 | (7) | Required acreage. |
 | (8) | Acreage limitations for coal leases not waived. |
-| [203\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000203%20-%20Additional%20contiguous%20or%20cornering%20lands%20allowed%20lessees%3B%20application%20of%20production%20or%20mining%20plan%20requirements%20and%20minimum%20royalty%E2%80%A6.md) | Additional contiguous or cornering lands allowed lessees; application of production or mining plan requirements and minimum royalty provisions. |
+| [203\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000203%20-%20Additional%20lands%20or%20deposits.md) | Additional lands or deposits. |
+| (a) | In general. |
+| (b) | Terms and conditions. |
+| (c) | Royalties. |
 | [204\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000204%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93377%2C%20%C2%A713%28a%29%2C%20Aug.%204%2C%201976%2C%2090%20Stat.%201090.md) | Repealed. |
 | [205\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000205%20-%20Consolidation%20of%20leases.md) | Consolidation of leases. |
 | [206\.](Subchapter%20002%20%28II%29%20-%20Coal/%C2%A7%2000206%20-%20Noncontiguous%20coal%20or%20phosphate%20tracts%20in%20single%20lease.md) | Noncontiguous coal or phosphate tracts in single lease. |
@@ -155,7 +161,7 @@
 | [225\.](Subchapter%20004%20%28IV%29%20-%20Oil%20and%20Gas/%C2%A7%2000225%20-%20Condition%20of%20lease%2C%20forfeiture%20for%20violation.md) | Condition of lease, forfeiture for violation. |
 | [226\.](Subchapter%20004%20%28IV%29%20-%20Oil%20and%20Gas/%C2%A7%2000226%20-%20Lease%20of%20oil%20and%20gas%20lands.md) | Lease of oil and gas lands. |
 | (a) | Authority of Secretary. |
-| (b) | Lands within known geologic structure of a producing oil or gas field; lands within special tar sand areas; competitive bidding; royalties. |
+| (b) | Bidding process; annual rental; posting period. |
 | (c) | Lands subject to leasing under subsection (b); first qualified applicant. |
 | (d) | Annual rentals. |
 | (e) | Primary terms. |
@@ -169,6 +175,7 @@
 | (m) | Cooperative or unit plan; authority of Secretary of the Interior to alter or modify; communitization or drilling agreements; term of lease, conditions; Secretary to approve operating, drilling or development contracts, and subsurface storage. |
 | (n) | Conversion of oil and gas leases and claims on hydrocarbon resources to combined hydrocarbon leases for primary term of 10 years; application. |
 | (<i>o</i>) | Certain outstanding oil and gas deposits. |
+| (p) | Deadlines for consideration of applications for permits. |
 | 226–1. | Extension of noncompetitive oil or gas lease issued before September 2, 1960. |
 | (a) | Lands not withdrawn from leasing. |
 | (b) | Known and unknown geologic structures of producing fields. |
@@ -203,7 +210,7 @@
 |  |  |
 | :--- | ---: |
 | [241\.](Subchapter%20005%20%28V%29%20-%20Oil%20Shale/%C2%A7%2000241%20-%20Leases%20of%20lands.md) | Leases of lands. |
-| (a) | Authorization; survey; terms, royalties and annual rentals; readjustments on renewals; rights of existing claimants; fraud of claimants. |
+| (a) | In general. |
 | (b) | Offer for lease; deposits other than oil shale; questioned validity because of location; preference rights. |
 | (c) | Multiple use principal leases; gilsonite including all vein-type solid hydrocarbons. |
 | (c) | Offsite leases. |

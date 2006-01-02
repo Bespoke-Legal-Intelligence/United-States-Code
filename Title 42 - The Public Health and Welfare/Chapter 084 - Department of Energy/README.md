@@ -23,8 +23,10 @@
 | [7131\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007131%20-%20Establishment.md) | Establishment. |
 | [7132\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007132%20-%20Principal%20officers.md) | Principal officers. |
 | (a) | Deputy Secretary. |
-| (b) | Under Secretary; General Counsel. |
+| (b) | Under Secretary for Science. |
 | (c) | Under Secretary for Nuclear Security. |
+| (d) | Under Secretary. |
+| (e) | General Counsel. |
 | [7133\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007133%20-%20Assistant%20Secretaries%3B%20appointment%20and%20confirmation%3B%20identification%20of%20responsibilities.md) | Assistant Secretaries; appointment and confirmation; identification of responsibilities. |
 | [7134\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007134%20-%20Federal%20Energy%20Regulatory%20Commission%3B%20compensation%20of%20Chairman%20and%20members.md) | Federal Energy Regulatory Commission; compensation of Chairman and members. |
 | [7135\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007135%20-%20Energy%20Information%20Administration.md) | Energy Information Administration. |
@@ -40,6 +42,7 @@
 | (j) | Collection and publication of survey results. |
 | (k) | Survey procedure. |
 | (<i>l</i>) | Data collection. |
+| (m) | Renewable fuels survey. |
 | [7135a.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007135a%20-%20Delegation%20by%20Secretary%20of%20Energy%20of%20energy%20research%2C%20etc.%2C%20functions%20to%20Administrator%20of%20Energy%20Information%20Administration%3B%20prohibition%E2%80%A6.md) | Delegation by Secretary of Energy of energy research, etc., functions to Administrator of Energy Information Administration; prohibition against required delegation; utilization of capabilities by Secretary. |
 | [7136\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007136%20-%20Economic%20Regulatory%20Administration%3B%20appointment%20of%20Administrator%3B%20compensation%3B%20qualifications%3B%20functions.md) | Economic Regulatory Administration; appointment of Administrator; compensation; qualifications; functions. |
 | [7137\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007137%20-%20Functions%20of%20Comptroller%20General.md) | Functions of Comptroller General. |
@@ -87,6 +90,9 @@
 | (a) | Establishment. |
 | (b) | Purposes. |
 | (c) | Location. |
+| [7144e.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20Department/%C2%A7%2007144e%20-%20Office%20of%20Indian%20Energy%20Policy%20and%20Programs.md) | Office of Indian Energy Policy and Programs. |
+| (a) | Establishment. |
+| (b) | Duties of Director. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -241,9 +247,10 @@
 | (d) | Terms of lease. |
 | (e) | Environmental concerns. |
 | (f) | Retention and use of rentals; report. |
-| 7256a, 7256b.Transferred. |  |
+| (g) | Additional authorities. |
+| 7256a, 7256b. Transferred. |  |
 | [7257\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257%20-%20Acquisition%2C%20construction%2C%20etc.%2C%20of%20laboratories%2C%20research%20and%20testing%20sites%2C%20etc.md) | Acquisition, construction, etc., of laboratories, research and testing sites, etc. |
-| 7257a to 7257c.Transferred. |  |
+| 7257a to 7257c. Transferred. |  |
 | [7257d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257d%20-%20Expanded%20research%20by%20Secretary%20of%20Energy.md) | Expanded research by Secretary of Energy. |
 | (a) | Detection and identification research. |
 | (b) | Authorization. |
@@ -288,11 +295,11 @@
 | [7270a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270a%20-%20Guards%20for%20Strategic%20Petroleum%20Reserve%20facilities.md) | Guards for Strategic Petroleum Reserve facilities. |
 | [7270b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270b%20-%20Trespass%20on%20Strategic%20Petroleum%20Reserve%20facilities.md) | Trespass on Strategic Petroleum Reserve facilities. |
 | [7270c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270c%20-%20Annual%20assessment%20and%20report%20on%20vulnerability%20of%20facilities%20to%20terrorist%20attack.md) | Annual assessment and report on vulnerability of facilities to terrorist attack. |
-| 7271 to 7273a. Transferred or Repealed. |  |
+| 7271 to 7273a. Transferred or Repealed. |  |
 | [7273b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273b%20-%20Security%20investigations.md) | Security investigations. |
 | [7273c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273c%20-%20Transferred.md) | Transferred. |
 | [7274\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274%20-%20Environmental%20impact%20statements%20relating%20to%20defense%20facilities%20of%20Department%20of%20Energy.md) | Environmental impact statements relating to defense facilities of Department of Energy. |
-| 7274a to 7274d.Transferred. |  |
+| 7274a to 7274d. Transferred. |  |
 | [7274e.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274e%20-%20Scholarship%20and%20fellowship%20program%20for%20environmental%20restoration%20and%20waste%20management.md) | Scholarship and fellowship program for environmental restoration and waste management. |
 | (a) | Establishment. |
 | (b) | Eligibility. |
@@ -310,11 +317,11 @@
 | (c) | Grants. |
 | (d) | Funding. |
 | (e) | Budget reports. |
-| 7274h to 7274k.Transferred or Repealed. |  |
+| 7274h to 7274k. Transferred or Repealed. |  |
 | 7274<i>l.</i> | Authority to transfer certain Department of Energy property. |
 | (a) | Authority to transfer. |
 | (b) | Covered property. |
-| 7274m to 7274<i>o</i>.Transferred. |  |
+| 7274m to 7274<i>o</i>. Transferred. |  |
 | [7274p.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274p%20-%20Advice%20to%20President%20and%20Congress%20regarding%20safety%2C%20security%2C%20and%20reliability%20of%20United%20States%20nuclear%20weapons%20stockpile.md) | Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile. |
 | (a) | Findings. |
 | (b) | Policy. |
@@ -322,7 +329,7 @@
 | (e) | Advice and opinions regarding nuclear weapons stockpile. |
 | (f) | Expression of individual views. |
 | (g) | Definitions. |
-| 7274q to 7274s.Transferred. |  |
+| 7274q to 7274s. Transferred. |  |
 | [7275\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007275%20-%20Definitions.md) | Definitions. |
 | [7276\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276%20-%20Regulations%20to%20require%20integrated%20resource%20planning.md) | Regulations to require integrated resource planning. |
 | (a) | Regulations. |
@@ -444,6 +451,8 @@
 | [7381a.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381a%20-%20Science%20education%20programs.md) | Science education programs. |
 | (a) | Programs. |
 | (b) | Relationship to other Department activities. |
+| (c) | Science education enhancement fund. |
+| (d) | Programs for students from under-represented groups. |
 | [7381b.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381b%20-%20Laboratory%20cooperative%20science%20centers%20and%20other%20authorized%20education%20activities.md) | Laboratory cooperative science centers and other authorized education activities. |
 | (a) | Activities. |
 | (b) | Use of facilities. |
@@ -451,6 +460,11 @@
 | [7381c.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381c%20-%20Education%20partnerships.md) | Education partnerships. |
 | (a) | Education partnerships. |
 | (b) | Types of assistance. |
+| 7381c–1. | Partnerships with historically Black colleges and universities, Hispanic-serving institutions, and tribal colleges. |
+| (a) | Definitions. |
+| (b) | Education partnership. |
+| (c) | Activities. |
+| (d) | Report. |
 | [7381d.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381d%20-%20Definitions.md) | Definitions. |
 | [7381e.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/%C2%A7%2007381e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -491,11 +505,11 @@
 | (e) | Personnel matters. |
 | (f) | Applicability of FACA. |
 | (g) | Funding. |
-| 7383a to 7383d.Transferred. |  |
+| 7383a to 7383d. Transferred. |  |
 | [7383e.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383e%20-%20Annual%20report%20by%20the%20President%20on%20espionage%20by%20the%20People%27s%20Republic%20of%20China.md) | Annual report by the President on espionage by the People's Republic of China. |
 | (a) | Annual report required. |
 | (b) | Initial report. |
-| 7383f to 7383h–1.Transferred. |  |
+| 7383f to 7383h–1. Transferred. |  |
 | [7383i.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383i%20-%20Definitions%20of%20national%20laboratory%20and%20nuclear%20weapons%20production%20facility.md) | Definitions of national laboratory and nuclear weapons production facility. |
 | [7383j.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383j%20-%20Definition%20of%20Restricted%20Data.md) | Definition of Restricted Data. |
 
@@ -710,7 +724,7 @@
 
 |  |
 | :--- |
-| 7386 to 7386k.Transferred. |
+| 7386 to 7386k. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

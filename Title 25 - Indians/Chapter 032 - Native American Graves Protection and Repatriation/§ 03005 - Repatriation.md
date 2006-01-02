@@ -2,7 +2,7 @@
 
 #### (a) Repatriation of Native American human remains and objects possessed or controlled by Federal agencies and museums
 
-(1) If, pursuant to section 3003 of this title, the cultural affiliation of Native American human remains and associated funerary objects with a particular Indian tribe or Native Hawaiian organization is established, then the Federal agency or museum, upon the request of a known lineal descendant of the Native American or of the tribe or organization and pursuant to subsections (b) and (e) of this section, shall expeditiously return such remains and associated funerary objects.
+(1) If, pursuant to section 3003 of this title, the cultural affiliation of Native American human remains and associated funerary objects with a particular Indian tribe or Native Hawaiian organization is established, then the Federal agency or museum, upon the request of a known linealdescendant of the Native American or of the tribe or organization and pursuant to subsections (b) and (e) of this section, shall expeditiously return such remains and associated funerary objects.
 
 (2) If, pursuant to section 3004 of this title, the cultural affiliation with a particular Indian tribe or Native Hawaiian organization is shown with respect to unassociated funerary objects, sacred objects or objects of cultural patrimony, then the Federal agency or museum, upon the request of the Indian tribe or Native Hawaiian organization and pursuant to subsections (b), (c) and (e) of this section, shall expeditiously return such objects.
 
@@ -32,7 +32,7 @@ Any Federal agency or museum shall share what information it does possess regard
 
 #### (e) Competing claims
 
-Where there are multiple requests for repatriation of any cultural item and, after complyingwith the requirements of this chapter, the Federal agency or museum cannot clearly determine which requesting party is the most appropriate claimant, the agency or museum may retain such item until the requesting parties agree upon its disposition or the dispute is otherwise resolved pursuant to the provisions of this chapter or by a court of competent jurisdiction.
+Where there are multiple requests for repatriation of any cultural item and, after complying with the requirements of this chapter, the Federal agency or museum cannot clearly determine which requesting party is the most appropriate claimant, the agency or museum may retain such item until the requesting parties agree upon its disposition or the dispute is otherwise resolved pursuant to the provisions of this chapter or by a court of competent jurisdiction.
 
 #### (f) Museum obligation
 

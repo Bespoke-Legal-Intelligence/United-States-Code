@@ -1,6 +1,6 @@
 ### §269f. International Bureau for the Protection of Industrial Property; authorization of appropriations
 
-Funds appropriated to the Secretary of State for “International Organizations and Conferences” shall be available for the payment by the United States of its proportionate share of the expenses of the International Bureau for the Protection of Industrial Property for any year after 1981 as determined under article 16(4) of the Paris Convention for the Protection of Industrial Property, as revised, except that in no event shall the payment for any year exceed 6 per centum of all expenses of the Bureau apportioned among countries for that year.
+Funds appropriated to the Secretary of State for “International Organizations and Conferences” shall be available for the payment by the United States of its proportionate share of the expenses of the International Bureau for theProtection of Industrial Property for any year after 1981 as determined under article 16(4) of the Paris Convention for the Protection of Industrial Property, as revised, except that in no event shall the payment for any year exceed 6 per centum of all expenses of the Bureau apportioned among countries for that year.
 
 (Pub. L. 86–614, July 12, 1960, 74 Stat. 381; Pub. L. 88–69, July 19, 1963, 77 Stat. 82; Pub. L. 92–511, Oct. 20, 1972, 86 Stat. 918; Pub. L. 98–164, title I, §112, Nov. 22, 1983, 97 Stat. 1019.)
 

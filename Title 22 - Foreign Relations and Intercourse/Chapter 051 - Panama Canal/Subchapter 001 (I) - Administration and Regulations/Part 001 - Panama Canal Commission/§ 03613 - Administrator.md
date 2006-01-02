@@ -50,5 +50,5 @@ Section 3523(b) of Pub. L. 104–201 provided that: “Nothing in this section \
 
 &emsp;“(1) the tenure of the individual serving as Administrator of the Commission on the day before subsection (a) takes effect \[section 3523(a) of Pub. L. 104–201, effective Sept. 23, 1996\]; or
 
-&emsp;“(2) until modified under section 1103(b) of the Panama Canal Act of 1979 \[subsec. (b) of this section\], as amended by subsection (a), the compensation of the individual so serving.”
+&emsp;“(2) until modified under section 1103(b) of the Panama Canal Act of 1979 \[subsec. (b) of this section\], asamended by subsection (a), the compensation of the individual so serving.”
 

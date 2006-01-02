@@ -4,7 +4,7 @@ The Attorney General is authorized—
 
 &emsp;(1) to act on behalf of the United States as the authority referred to in a treaty;
 
-&emsp;(2) to receive custody of offenders under a sentence of imprisonment, on parole, or on probation who are citizens or nationals of the United States transferred from foreign countries and as appropriate confine them in penal or correctional institutions, or assign them to the parole or probation authorities for supervision;
+&emsp;(2) to receive custody of offenders under a sentence of imprisonment, on parole, or onprobation who are citizens or nationals of the United States transferred from foreign countries and as appropriate confine them in penal or correctional institutions, or assign them to the parole or probation authorities for supervision;
 
 &emsp;(3) to transfer offenders under a sentence of imprisonment, on parole, or on probation to the foreign countries of which they are citizens or nationals;
 

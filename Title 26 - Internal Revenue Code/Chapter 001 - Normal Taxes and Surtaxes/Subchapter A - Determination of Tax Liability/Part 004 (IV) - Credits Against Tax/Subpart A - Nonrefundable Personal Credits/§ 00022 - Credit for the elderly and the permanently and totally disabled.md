@@ -54,7 +54,7 @@ For purposes of subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;The reduction under this paragraph is an amount equal to the sum of the amounts received by the individual (or, in the case of a joint return, by either spouse) as a pension or annuity or as a disability benefit—
+&emsp;&emsp;The reduction under this paragraph is an amount equal to the sum of the amounts received by the individual (or, in the case of ajoint return, by either spouse) as a pension or annuity or as a disability benefit—
 
 &emsp;&emsp;&emsp;(i) which is excluded from gross income and payable under—
 
@@ -132,7 +132,7 @@ Subsec. (a). Pub. L. 98–21 amended subsec. (a) generally, substituting referen
 
 Subsec. (b). Pub. L. 98–21 in amending section generally added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 98–21 in amending section generally, redesignated former subsec. (b) as (c) and, in (c) as so redesignated, added par. (2) and struck out former (2), which had provided that the initial amount was $2,500 in the case of a single individual, $2,500 in the case of a joint return where only one spouse was eligible for the credit under subsection (a), $3,750 in the case of a joint return where both spouses were eligible for the credit under subsection (a), or $1,875 in the case of a married individual filing a separate return, redesignated existing provisions as par. (3)(A), inserted “benefit” after “disability” therein, struck out former subpars. (A) to (C), which had specified sources of amounts received under title II of the Social Security Act, under the Railroad Retirement Act of 1935 or 1937, or otherwise excluded from gross income, added cls. (i) and (ii), substituted provision that no reduction would be made under cl. (i)(III) for any amount described in section 104(a)(4) for provision that no reduction would be made under former par. (3) for any amount excluded from gross income under section 72 (relating to annuities), 101 (relating to life insurance proceeds), 104 (relating to compensation for injuries or sickness), 105 (relating to amounts received under accident and health plans), 120 (relating to amounts received under qualified group legal services plans), 402 (relating to taxability of beneficiary of employees’ trust), 403 (relating to taxation of employee annuities), or 405 (relating to qualified bond purchase plans), and added subpar. (B). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 98–21 in amending section generally, redesignated former subsec. (b) as (c) and, in (c) as so redesignated, added par. (2) and struck out former (2), which had provided that the initial amount was $2,500 in the case of a single individual, $2,500 in the case of a joint return where only one spouse was eligible for the credit under subsection (a), $3,750 in the case of a joint return where both spouses were eligible for the credit under subsection (a), or $1,875 in the case of a married individual filing a separate return, redesignated existing provisions as par. (3)(A), inserted “benefit” after “disability” therein, struck out former subpars. (A) to (C), which had specified sources of amounts received under title II of the Social Security Act, underthe Railroad Retirement Act of 1935 or 1937, or otherwise excluded from gross income, added cls. (i) and (ii), substituted provision that no reduction would be made under cl. (i)(III) for any amount described in section 104(a)(4) for provision that no reduction would be made under former par. (3) for any amount excluded from gross income under section 72 (relating to annuities), 101 (relating to life insurance proceeds), 104 (relating to compensation for injuries or sickness), 105 (relating to amounts received under accident and health plans), 120 (relating to amounts received under qualified group legal services plans), 402 (relating to taxability of beneficiary of employees’ trust), 403 (relating to taxation of employee annuities), or 405 (relating to qualified bond purchase plans), and added subpar. (B). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 98–21 in amending section generally redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -233,8 +233,4 @@ Section 2 of act Aug. 9, 1955, provided that: “The amendment made by this Act 
 #### Determination of Retirement Income Credit Under Provisions as They Existed Prior to Amendment by Pub. L. 94–455 Election
 
 Pub. L. 95–30, title IV, §403, May 23, 1977, 91 Stat. 155, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “A taxpayer may elect (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) to determine the amount of his credit under section 37 \[now 22\] of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for his first taxable year beginning in 1976 under the provisions of such section as they existed before the amendment made by section 503 of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32, 86, 151, 415 of this title.
 

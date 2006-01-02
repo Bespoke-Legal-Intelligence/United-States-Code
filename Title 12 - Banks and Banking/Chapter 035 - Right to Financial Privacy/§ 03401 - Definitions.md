@@ -66,7 +66,7 @@ In par. (7)(H), “the Bank Secrecy Act (Public Law 91–508, title I) \[12 U.S.
 
 Par. (6). Pub. L. 101–73, §941(3), added par. (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 101–73, §941(1), (2), redesignated former par. (6) as (7) and substituted new introductory provisions for former introductory provisions which read as follows: “ ‘supervisory agency’ means, with respect to any particular financial institution any of thefollowing which has statutory authority to examine the financial condition or business operations of that institution—”. Former par. (7) redesignated (8).
+Par. (7). Pub. L. 101–73, §941(1), (2), redesignated former par. (6) as (7) and substituted new introductory provisions for former introductory provisions which read as follows: “ ‘supervisory agency’ means, with respect to any particular financial institution any of the following which has statutory authority to examine the financial condition or business operations of that institution—”. Former par. (7) redesignated (8).
 
 Pub. L. 101–73, §744(b)(2), (3), redesignated subpars. (C) to (I) as (B) to (H), respectively, substituted “Director, Office of Thrift Supervision” for “the Federal Home Loan Bank Board” in subpar. (B), and struck out former subpar. (B) which read as follows: “the Federal Savings and Loan Insurance Corporation;”.
 

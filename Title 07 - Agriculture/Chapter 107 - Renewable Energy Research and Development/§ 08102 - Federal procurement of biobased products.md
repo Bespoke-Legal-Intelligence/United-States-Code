@@ -2,19 +2,19 @@
 
 #### (a) Application of section
 
-Except as provided in subsection (c) of this section, each Federal agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
+Except as provided in subsection (c) of this section, each procuring agency shall comply with the requirements set forth in this section and any regulations issued under this section, with respect to any purchase or acquisition of a procurement item where the purchase price of the item exceeds $10,000 or where the quantity of such items or of functionally equivalent items purchased or acquired in the course of the preceding fiscal year was $10,000 or more.
 
 #### (b) Procurement subject to other law
 
-Any procurement, by any Federal agency, which is subject to regulations of the Administrator under section 6962 of title 42, shall not be subject to the requirements of this section to the extent that such requirements are inconsistent with such regulations.
+Any procurement, by any procuring agency, which is subject to regulations of the Administrator under section 6962 of title 42, shall not be subject to the requirements of this section to the extent that such requirements are inconsistent with such regulations.
 
 #### (c) Procurement preference
 
-(1) Except as provided in paragraph (2), after the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each Federal agency which procures any items designated in such guidelines shall, in making procurement decisions, give preference to such items composed of the highest percentage of biobased products practicable, consistent with maintaining a satisfactory level of competition, considering such guidelines.
+(1) Except as provided in paragraph (2), after the date specified in applicable guidelines prepared pursuant to subsection (e) of this section, each procuring agency which procures any items designated in such guidelines shall, in making procurement decisions, give preference to such items composed of the highest percentage of biobased products practicable or such items that comply with the regulations issued under section 6914b–1 of title 42, consistent with maintaining a satisfactory level of competition, considering such guidelines.
 
 (2)
 
-Agency flexibility.—Notwithstanding paragraph (1), an agency may decide not to procure such items if the agency determines that the items—
+Flexibility.—Notwithstanding paragraph (1), a procuring agency may decide not to procure such items if the procuring agency determines that the items—
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
@@ -26,7 +26,7 @@ Agency flexibility.—Notwithstanding paragraph (1), an agency may decide not to
 
 #### (d) Specifications
 
-All Federal agencies that have the responsibility for drafting or reviewing specifications for procurement items procured by Federal agencies shall, within one year after the date of publication of applicable guidelines under subsection (e) of this section, or as otherwise specified in such guidelines, assure that such specifications require the use of biobased products consistent with the requirements of this section.
+All Federal agencies that have the responsibility for drafting or reviewing specifications for procurement items procured by procuring agencies shall, within one year after the date of publication of applicable guidelines under subsection (e) of this section, or as otherwise specified in such guidelines, assure that such specifications require the use of biobased products consistent with the requirements of this section.
 
 #### (e) Guidelines
 
@@ -54,7 +54,7 @@ All Federal agencies that have the responsibility for drafting or reviewing spec
 
 #### (f) Office of Federal Procurement Policy
 
-The Office of Federal Procurement Policy, in cooperation with the Secretary, shall implement the requirements of this section. It shall be the responsibility of the Office of Federal Procurement Policy to coordinate this policy with other policies for Federal procurement to implement the requirements of this section, and, every two years beginning in 2003, to report to the Congress on actions taken by Federal agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
+The Office of Federal Procurement Policy, in cooperation with the Secretary, shall implement the requirements of this section. It shall be the responsibility of the Office of Federal Procurement Policy to coordinate this policy with other policies for Federal procurement to implement the requirements of this section, and, every two years beginning in 2003, to report to the Congress on actions taken by procuring agencies and the progress made in the implementation of this section, including agency compliance with subsection (d) of this section.
 
 #### (g) Procurement program
 
@@ -102,7 +102,11 @@ Minimum content standards.—Minimum biobased products content specifications wh
 
 Nothing in this section shall apply to the procurement of motor vehicle fuels or electricity.
 
-#### (j) Funding
+#### (j) Inclusion
+
+Not later than 90 days after August 8, 2005, the Architect of the Capitol, the Sergeant at Arms of the Senate, and the Chief Administrative Officer of the House of Representatives shall establish procedures that apply the requirements of this section to procurement for the Capitol Complex.
+
+#### (k) Funding
 
 #### (1) Authorization of appropriations
 
@@ -122,5 +126,25 @@ Nothing in this section shall apply to the procurement of motor vehicle fuels or
 
 &emsp;&emsp;At the discretion of the Secretary, the Secretary may give priority to the testing of products for which private sector firms provide cost sharing for the testing.
 
-(Pub. L. 107–171, title IX, §9002, May 13, 2002, 116 Stat. 476.)
+(Pub. L. 107–171, title IX, §9002, May 13, 2002, 116 Stat. 476; Pub. L. 109–58, title II, §205, title IX, §943(a)(2),(b), Aug. 8, 2005, 119 Stat. 654, 880, 881.)
+
+#### Amendments
+
+2005—Subsecs. (a), (b). Pub. L. 109–58, §943(a)(2)(A), substituted “procuring agency” for “Federal agency”.
+
+Subsec. (c)(1). Pub. L. 109–58, §943(a)(2)(A), substituted “procuring agency” for “Federal agency”.
+
+Pub. L. 109–58, §205, inserted “or such items that comply with the regulations issued under section 6914b–1 of title 42” after “practicable”.
+
+Subsec. (c)(2). Pub. L. 109–58, §943(a)(2)(B), substituted “Flexibility” for “Agency flexibility” in heading and “a procuring agency” for “an agency” and “the procuring agency” for “the agency” in introductory provisions.
+
+Subsec. (d). Pub. L. 109–58, §943(a)(2)(C), substituted “procured by procuring agencies” for “procured by Federal agencies”.
+
+Subsec. (f). Pub. L. 109–58, §943(a)(2)(D), substituted “procuring agencies” for “Federal agencies”.
+
+Subsecs. (j), (k). Pub. L. 109–58, §943(b), added subsec. (j) and redesignated former subsec. (j) as (k).
+
+#### Procedure
+
+Pub. L. 109–58, title IX, §943(d), Aug. 8, 2005, 119 Stat. 881, provided that: “Requirements issued under the amendments made by subsection (b) \[amending this section\] shall be made in accordance with directives issued by the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives.”
 

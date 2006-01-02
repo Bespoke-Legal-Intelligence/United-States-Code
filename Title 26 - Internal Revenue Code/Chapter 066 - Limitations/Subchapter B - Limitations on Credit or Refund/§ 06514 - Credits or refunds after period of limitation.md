@@ -26,7 +26,3 @@ Any credit against a liability in respect of any taxable year shall be void if a
 
 1976—Subsec. (a)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7405 of this title.
-

@@ -134,7 +134,3 @@ Sense of Congress.—It is the sense of Congress that the nuclear posture review
 
 Pub. L. 106–65, div. A, title IX, §901(c), Oct. 5, 1999, 113 Stat. 717, provided that: “In the first quadrennial defense review conducted under section 118 of title 10, United States Code, as added by subsection (a), the Secretary shall include in the technologies considered for the purposes of paragraph (13) of subsection (d) of that section the following: precision guided munitions, stealth, night vision, digitization, and communications.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 231, 7296 of this title.
-

@@ -34,7 +34,7 @@ Subsecs. (c), (d). Pub. L. 106–53, §216(1), redesignated subsecs. (b) and (c)
 
 1966—Subsec. (a). Pub. L. 89–789, in amending subsec. (a) generally, substituted “political subdivisions thereof” for “municipalities” and “advice” for “engineering advice”, inserted provision “to assure that Federal departments and agencies may take proper cognizance of flood hazards”, provided for guidance of Federal and non-Federal interests and agencies and advice to other Federal agencies, and for surveys and guides upon request of a State or political subdivision in lieu of surveys and studies for specific localities upon request of a State or responsible local governmental agency.
 
-Subsec. (b). Pub. L. 89–789 substituted “expend not to exceed $7,000,000 per fiscal year for the compilation and dissemination of information under this section” for “allot, from any appropriations hereafter made for flood control, sums not to exceed $2,500,000 in any one fiscal year for the compilation and dissemination of such information”.
+Subsec. (b). Pub. L. 89–789 substituted “expend not to exceed $7,000,000 per fiscal year for the compilation and dissemination of information under this section” for“allot, from any appropriations hereafter made for flood control, sums not to exceed $2,500,000 in any one fiscal year for the compilation and dissemination of such information”.
 
 1965—Subsec. (b). Pub. L. 89–298 substituted “$2,500,000” for “$1,000,000”.
 

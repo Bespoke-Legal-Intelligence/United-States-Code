@@ -1,6 +1,6 @@
 ### §2346. Enforcement and regulations
 
-The Attorney General, subject to the provisions of section 2343(a) of this title, shall enforcethe provisions of this chapter and may prescribe such rules and regulations as he deems reasonably necessary to carry out the provisions of this chapter.
+The Attorney General, subject to the provisions of section 2343(a) of this title, shall enforce the provisions of this chapter and may prescribe such rules and regulations as he deems reasonably necessary to carry out the provisions of this chapter.
 
 (Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2465; amended Pub. L. 107–296, title XI, §1112(i)(2), Nov. 25, 2002, 116 Stat. 2277.)
 

@@ -10,7 +10,7 @@ Section was formerly classified to section 566 of Title 5 prior to the general r
 
 #### Transfer of Functions
 
-Production and Marketing Administration functions transferred to other units of Department of Agricultureunder Secretary's memorandum 1320, supp. 4, of Nov. 2, 1953.
+Production and Marketing Administration functions transferred to other units of Department of Agriculture under Secretary's memorandum 1320, supp. 4, of Nov. 2, 1953.
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

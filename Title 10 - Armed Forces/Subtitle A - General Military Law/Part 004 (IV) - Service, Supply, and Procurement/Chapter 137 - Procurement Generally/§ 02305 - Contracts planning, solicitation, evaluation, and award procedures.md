@@ -80,7 +80,7 @@
 
 (B) If the contracting officer determines that the number of offerors that would otherwise be included in the competitive range under subparagraph (A)(i) exceeds the number at which an efficient competition can be conducted, the contracting officer may limit the number of proposals in the competitive range, in accordance with the criteria specified in the solicitation, to the greatest number that will permit an efficient competition among the offerors rated most highly in accordance with such criteria.
 
-(C) Except as provided in paragraph (2), the head of the agency shall award a contract withreasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation. The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals. This subparagraph does not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
+(C) Except as provided in paragraph (2), the head of the agency shall award a contract with reasonable promptness to the responsible source whose proposal is most advantageous to the United States, considering only cost or price and the other factors included in the solicitation. The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals. This subparagraph does not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
 
 (5)(A) When a contract is awarded by the head of an agency on the basis of competitive proposals, an unsuccessful offeror, upon written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award. The head of the agency shall debrief the offeror within, to the maximum extent practicable, five days after receipt of the request by the agency.
 
@@ -162,7 +162,7 @@
 
 &emsp;(ii) proposals by the original supplier of such item to meet the mobilization requirements are insufficient to meet the agency's mobilization needs.
 
-(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
+(B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agencyshall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
 (e)
 
@@ -186,7 +186,7 @@ Prohibition on Release of Contractor Proposals.—(1) Except as provided in para
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII,§1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 85–861, §1(44), Sept. 2, 1958, 72 Stat. 1457; Pub. L. 90–268, §3, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, div. B, title VII, §2723(b), July 18, 1984, 98 Stat. 1191; Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 99–145, title XIII, §1303(a)(14), Nov. 8, 1985, 99 Stat. 739; Pub. L. 99–500, §101(c) \[title X, §924(a), (b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §924(a), (b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title III, §313(b), title IX, formerly title IV, §924(a), (b), Nov. 14, 1986, 100 Stat. 3853, 3932, 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010; Pub. L. 101–189, div. A, title VIII, §853(f), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 101–510, div. A, title VIII, §802(a)–(d), Nov. 5, 1990, 104 Stat. 1588, 1589; Pub. L. 103–160, div. A, title XI, §1182(a)(5), Nov. 30, 1993, 107 Stat. 1771; Pub. L. 103–355, title I, §§1011–1016, title IV, §4401(b), Oct. 13, 1994, 108 Stat. 3254–3257, 3347; Pub. L. 104–106, div. D, title XLI, §§4103(a), 4104(a), title XLII, §4202(a)(2), div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 643, 644, 653, 699; Pub. L. 104–201, div. A, title VIII, §821(a), title X, §1074(a)(11), (b)(4)(A), Sept. 23, 1996, 110 Stat. 2609, 2659, 2660; Pub. L. 106–65, div. A, title VIII, §821, Oct. 5, 1999, 113 Stat. 714.)
 
 Historical and Revision Notes<br>1956
 
@@ -374,15 +374,45 @@ Section 1213(b) of Pub. L. 98–525 provided that: “The amendment made by subs
 
 Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under section 251 of Title 41, Public Contracts.
 
+#### Guidance on Use of Tiered Evaluations of Offers for Contracts and Task Orders Under Contracts
+
+Pub. L. 109–163, div. A, title VIII, §816, Jan. 6, 2006, 119 Stat. 3382, provided that:
+
+“(a)
+
+Guidance Required.—The Secretary of Defense shall prescribe guidance for the military departments and the Defense Agencies on the use of tiered evaluations of offers for contracts and for task or delivery orders under contracts.
+
+“(b)
+
+Elements.—The guidance prescribed under subsection (a) shall include a prohibition on the initiation by a contracting officer of a tiered evaluation of an offer for a contract or for a task or delivery order under a contract unless the contracting officer—
+
+&emsp;“(1) has conducted market research in accordance with part 10 of the Federal Acquisition Regulation in order to determine whether or not a sufficient number of qualified small businesses are available to justify limiting competition for the award of such contract or task or delivery order under applicable law and regulations;
+
+&emsp;“(2) is unable, after conducting market research under paragraph (1), to make the determination described in that paragraph; and
+
+&emsp;“(3) includes in the contract file a written explanation of why such contracting officer was unable to make such determination.”
+
+#### Authorization of Evaluation Factor for Defense Contractors Employing or Subcontracting With Members of the Selected Reserve of the Reserve Components of the Armed Forces
+
+Pub. L. 109–163, div. A, title VIII, §819, Jan. 6, 2006, 119 Stat. 3385, provided that:
+
+“(a)
+
+Defense Contracts.—In awarding any contract for the procurement of goods or services to an entity, the Secretary of Defense is authorized to use as an evaluation factor whether the entity intends to carry out the contract using employees or individual subcontractors who are members of the Selected Reserve of the reserve components of the Armed Forces.
+
+“(b)
+
+Documentation of Selected Reserve-Related Evaluation Factor.—Any entity claiming intent to carry out a contract using employees or individual subcontractors who are members of the Selected Reserve of the reserve components of the Armed Forces shall submit proof of the use of such employees or subcontractors for the Department of Defense to consider in carrying out subsection (a) with respect to that contract.
+
+“(c)
+
+Regulations.—The Federal Acquisition Regulation shall be revised as necessary to implement this section.”
+
 #### Certificate of Competency Requirements
 
-Pub. L. 102–484, div. A, title VIII, §804, Oct. 23, 1992, 106 Stat. 2447, provided that, in case of contract to be entered into pursuant to this chapter, other than pursuant to simplified procedures under section 2304(g) of this title, solicitation was to contain notice of right of bidding small business concern, in case of determination by contracting officer that concern was nonresponsible, to request Small Business Administration to make determination of responsibility under section 637(b)(7) of Title 15, Commerce and Trade, that if contracting officer determined that concern was nonresponsible, such officer was to notify concern in writing, of such determination, that concern had right to request Small Business Administration to make determination, and that, if concern desired to request such determination, concern was to inform officer in writing, within 14 days after receipt of notice, of such desire, and that, after being so informed, officer was to transmit request to Administration, or, if note so informed, officer was to proceed with award of contract, and contained provisions relating to effective and termination dates and report to be submitted to Congress, prior to repeal by Pub. L. 103–355, title VII, §7101(b), Oct. 13, 1994, 108 Stat. 3367.
+Pub. L. 102–484, div. A, title VIII, §804, Oct. 23, 1992, 106 Stat. 2447, provided that, in case of contract to be entered into pursuant to this chapter, other than pursuant to simplified procedures under section 2304(g) of this title, solicitation was to contain notice of right of bidding small business concern, in case of determination by contracting officer that concern was nonresponsible, to request Small Business Administration to make determination of responsibility under section 637(b)(7) of Title 15, Commerce and Trade, that if contracting officer determined that concern was nonresponsible, such officer was to notify concern in writing, of such determination, that concern had right to request Small Business Administration to make determination, and that, if concern desired to request such determination, concern was to inform officer in writing, within 14 days after receipt of notice, of such desire, and that, after being so informed, officer was to transmit request to Administration, or, if not so informed, officer was to proceed with award of contract, and contained provisions relating to effective and termination dates and report to be submitted to Congress, prior to repeal by Pub. L. 103–355, title VII, §7101(b), Oct. 13, 1994, 108 Stat. 3367.
 
 #### Construction of 1984 Amendment
 
 Amendment by Pub. L. 98–369 as not superseding or affecting the provisions of section 637(a) of Title 15, Commerce and Trade, see section 2723(c) of Pub. L. 98–369, set out as a note under section 2304 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2305a, 2320 of this title; title 41 section 431; title 42 section 1594; title 50 section 403c.
 

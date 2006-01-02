@@ -12,7 +12,7 @@
 
 &emsp;(D) Employ such personnel as may be necessary to conduct the business of the Service.
 
-&emsp;(E) For the period of October 1, 1991 through September 30, 1992, only, retain and use all earned and unearned monies heretofore or hereafter received, including receipts, revenues, and advanced payments and deposits, to fund all obligations and expenses, including inventories and capital equipment.
+&emsp;(E) For the period of October 1, 1991 through September 30, 1992, only, retain and use all earned and unearned monies heretofore orhereafter received, including receipts, revenues, and advanced payments and deposits, to fund all obligations and expenses, including inventories and capital equipment.
 
 > An increase or decrease in the personnel of the Service shall not affect or be affected by any ceilings on the number or grade of personnel.
 

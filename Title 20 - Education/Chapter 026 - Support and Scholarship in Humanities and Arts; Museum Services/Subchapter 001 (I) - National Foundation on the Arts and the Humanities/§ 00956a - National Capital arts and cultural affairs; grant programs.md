@@ -36,7 +36,7 @@ Pub. L. 108–81, title V, §502, Sept. 25, 2003, 117 Stat. 1003, provided that:
 
 “(a)
 
-Designation.—The Capital Children's Museum located at 800 Third Street, NE, Washington, D.C. (or any successor location), organized under the laws of the District of Columbia, is designated as the ‘National Children's Museum’.
+Designation.—The Capital Children's Museum located at 800 Third Street, NE, Washington, D.C. (orany successor location), organized under the laws of the District of Columbia, is designated as the ‘National Children's Museum’.
 
 “(b)
 

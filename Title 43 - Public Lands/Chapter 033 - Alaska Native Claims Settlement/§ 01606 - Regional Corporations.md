@@ -32,7 +32,7 @@ For purposes of this chapter, the State of Alaska shall be divided by the Secret
 
 #### (b) Region mergers; limitation
 
-The Secretary may, on request made within one year of December 18, 1971, by representativeand responsible leaders of the Native associations listed in subsection (a) of this section, merge two or more of the twelve regions: <i>Provided</i>, That the twelve regions may not be reduced to less than seven, and there may be no fewer than seven Regional Corporations.
+The Secretary may, on request made within one year of December 18, 1971, by representative and responsible leaders of the Native associations listed in subsection (a) of this section, merge two or more of the twelve regions: <i>Provided</i>, That the twelve regions may not be reduced to less than seven, and there may be no fewer than seven Regional Corporations.
 
 #### (c) Establishment of thirteenth region for nonresident Natives; majority vote; Regional Corporation for thirteenth region
 
@@ -222,7 +222,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(I) a share of Replacement Common Stock that carries such right, or
 
-&emsp;&emsp;(II) a share of Replacement Common Stock that does not carry such right together witha separate, non-voting security that represents only such right.
+&emsp;&emsp;(II) a share of Replacement Common Stock that does not carry such right together with a separate, non-voting security that represents only such right.
 
 &emsp;(iii) Replacement Common Stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) of this section shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
@@ -322,11 +322,11 @@ During the five years following December 18, 1971, not less than 10% of all corp
 
 #### (k) Distributions among Village Corporations; computation of amount
 
-Funds distributed among the Village Corporations shall be divided among them according tothe ratio that the number of shares of stock registered on the books of the Regional Corporation in the names of residents of each village bears to the number of shares of stock registered in the names of residents in all villages.
+Funds distributed among the Village Corporations shall be divided among them according to the ratio that the number of shares of stock registered on the books of the Regional Corporation in the names of residents of each village bears to the number of shares of stock registered in the names of residents in all villages.
 
 #### (<i>l</i>) Distributions to Village Corporations; village plan: withholding funds until submission of plan for use of money; joint ventures and joint financing of projects; disagreements, arbitration of issues as provided in articles of Regional Corporation
 
-Funds distributed to a Village Corporation may be withheld until the village has submitted a plan for the use of the money that is satisfactory to the Regional Corporation. The Regional Corporation may require a village plan to provide for joint ventures with other villages, and for joint financing of projects undertaken by the Regional Corporation that will benefit the region generally. In the event of disagreement over the provisions of the plan, the issues in disagreement shall be submitted to arbitration, as shall be provided for in the articles of incorporation of the Regional Corporation.
+Funds distributed to a Village Corporation may be withheld until the village has submitted a plan for the use of the money that is satisfactory to the Regional Corporation. The Regional Corporation may require a village plan to provide for joint ventures with other villages, and for joint financing of projects undertaken by the Regional Corporation that will benefit the region generally. In the event of disagreementover the provisions of the plan, the issues in disagreement shall be submitted to arbitration, as shall be provided for in the articles of incorporation of the Regional Corporation.
 
 #### (m) Distributions among Village Corporations in a region; computation of dividends for nonresidents of village; financing regional projects with equitably withheld dividends and Village Corporation funds
 
@@ -380,7 +380,7 @@ Subsec. (h)(3). Pub. L. 100–241, §5, amended par. (3) generally, revising and
 
 Subsec. (<i>o</i>). Pub. L. 100–241, §12(a), struck out “, to the Secretary of the Interior and to the Committees on Interior and Insular Affairs of the Senate and the House of Representatives” after “to each stockholder” in last sentence.
 
-1980—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted “or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter” after “divorce or child support”. Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
+1980—Subsec. (h)(1). Pub. L. 96–487, §1401(c), inserted “or by stockholder who is a member of a professional organization, association, or board which limits the ability of that stockholder to practice his profession because of holding stock issued under this chapter”after “divorce or child support”. Section 1401(c) of Pub. L. 96–487 directed that section 1696(h)(1) of this title be amended, however, since no section 1696 of this title has been enacted, amendment was executed to subsec. (h)(1) of this section to reflect the probable intent of Congress.
 
 Subsec. (h)(3). Pub. L. 96–487, §1401(a), substituted provisions that provided on Dec. 18, 1991, all stock previously issued be deemed canceled, and shares of stock of the appropriate class be issued to each shareholder share for share subject only to such restrictions as provided by the articles of incorporation, or agreement between the corporation and individual, specified restrictions which may be included by amendment in the articles of incorporation, and provided voting requirements for amendment of the articles of incorporation for approval of restrictions and the grant of voting rights to stockholders who were previously denied such rights for provision that provided on Jan. 1 of the twenty-first year after the year in which this chapter was enacted, all stock previously issued be deemed canceled and the shares of stock of the appropriate class issued without restrictions required by this chapter to each stockholder share for share.
 

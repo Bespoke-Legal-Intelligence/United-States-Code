@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of a sale of export property to a DISC by a person described in section 482, thetaxable income of such DISC and such person shall be based upon a transfer price which would allow such DISC to derive taxable income attributable to such sale (regardless of the sales price actually charged) in an amount which does not exceed the greatest of—
+In the case of a sale of export property to a DISC by a person described in section 482, the taxable income of such DISC and such person shall be based upon a transfer price which would allow such DISC to derive taxable income attributable to such sale (regardless of the sales price actually charged) in an amount which does not exceed the greatest of—
 
 &emsp;(1) 4 percent of the qualified export receipts on the sale of such property by the DISC plus 10 percent of the export promotion expenses of such DISC attributable to such receipts,
 

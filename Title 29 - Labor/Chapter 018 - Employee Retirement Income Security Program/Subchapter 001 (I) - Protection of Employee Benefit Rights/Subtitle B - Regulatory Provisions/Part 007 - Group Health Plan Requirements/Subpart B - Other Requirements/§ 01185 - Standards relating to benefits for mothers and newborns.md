@@ -72,7 +72,7 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 #### References in Text
 
-Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated section 1022(a) of this title by Pub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
+Section 1022(a)(1) of this title, referred to in subsec. (d), was redesignated section 1022(a) of this title byPub. L. 105–34, title XV, §1503(b)(1)(B), Aug. 5, 1997, 111 Stat. 1061.
 
 #### Effective Date
 

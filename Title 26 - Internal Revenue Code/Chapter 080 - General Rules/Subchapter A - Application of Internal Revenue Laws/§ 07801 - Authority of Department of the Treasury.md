@@ -40,7 +40,7 @@ The effective date of the Homeland Security Act of 2002, referred to in subsec. 
 
 Subsec. (c). Pub. L. 97–258, §2(f)(1), inserted “or section 301(f) of title 31” after “Nothing in this section”.
 
-1976—Subsec. (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary” in four places, in par. (1) after “prescribed by the”, in par. (2) after “prescribed by the” and in third sentence thereof “The”, and in par. (3) before “may appoint and fix”.
+1976—Subsec. (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary” in four places,in par. (1) after “prescribed by the”, in par. (2) after “prescribed by the” and in third sentence thereof “The”, and in par. (3) before “may appoint and fix”.
 
 1964—Subsec. (b)(2). Pub. L. 88–426 struck out provisions which prescribed compensation of Assistant General Counsel.
 
@@ -68,11 +68,11 @@ Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III
 
 #### Savings Provision
 
-Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal RevenueService appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
+Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 
 #### Order of Succession
 
@@ -260,7 +260,7 @@ Right To Limit Liability.—The procedures under subsection (a) shall include re
 
 #### Explanation of Taxpayers’ Rights in Interviews With Internal Revenue Service
 
-Pub. L. 105–206, title III, §3502, July 22, 1998, 112 Stat. 770, provided that: “The Secretary of the Treasury or the Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], revise the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) to more clearly inform taxpayers of their rights—
+Pub. L. 105–206, title III, §3502, July 22, 1998, 112 Stat. 770, provided that: “The Secretary of the Treasury orthe Secretary's delegate shall, as soon as practicable, but not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], revise the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights \[Pub. L. 100–647, set out below\] (Internal Revenue Service Publication No. 1) to more clearly inform taxpayers of their rights—
 
 &emsp;“(1) to be represented at interviews with the Internal Revenue Service by any person authorized to practice before the Internal Revenue Service; and
 
@@ -486,7 +486,7 @@ In general.—(A) The Commission or, on the authorization of the Commission, any
 
 &emsp;&emsp;“(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
 
-&emsp;“(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
+&emsp;“(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with anysubpoena or to testify when summoned under authority of this section.
 
 &emsp;“(2)
 
@@ -518,7 +518,7 @@ Staff of the Commission.—
 
 &emsp;“(1)
 
-In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, UnitedStates Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+In general.—The Co-Chairs, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 &emsp;“(2)
 
@@ -566,7 +566,7 @@ Appropriations.—Notwithstanding any other provision of this Act, $1,000,000 sh
 
 #### Fees for Services Rendered
 
-Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227, provided that: “The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service: <i>Provided further</i>, That the total expenditures from such fees shall not exceed $119,000,000 annually.”
+Pub. L. 103–329, title I, §3, Sept. 30, 1994, 108 Stat. 2388, as amended by Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 227; Pub. L. 109–115, div. A, title II, §209, Nov. 30, 2005, 119 Stat. 243, provided that: “The Secretary of the Treasury may establish new fees or raise existing fees for services provided by the Internal Revenue Service to increase receipts, where such fees are authorized by another law. The Secretary of the Treasury may spend the new or increased fee receipts to supplement appropriations made available to the Internal Revenue Service appropriations accounts in fiscal years 1995 and thereafter: <i>Provided</i>, That the Secretary shall base such fees on the costs of providing specified services to persons paying such fees: <i>Provided further</i>, That the Secretary shall provide quarterly reports to the Congress on the collection of such fees and how they are being expended by the Service.”
 
 #### Disclosure of Rights of Taxpayers
 
@@ -602,7 +602,7 @@ Pub. L. 95–600, title V, §552, Nov. 6, 1978, 92 Stat. 2891, authorized the Se
 
 #### Study of Taxation of Nonresident Alien Real Estate Transactions in the United States
 
-Pub. L. 95–600, title V, §553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make astudy of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
+Pub. L. 95–600, title V, §553, Nov. 6, 1978, 92 Stat. 2891, authorized the Secretary of the Treasury to make a study of the appropriate tax treatment to be given to income derived from, or gain realized on, the sale of interests in United States property held by nonresident aliens or foreign corporations and to submit a report on such study to Congress no later than six months from Nov. 6, 1978, together with any recommendations.
 
 #### Study and Investigation of Internal Revenue Code Provisions Which Impede or Discourage Recycling of Solid Waste Materials; Presidential and Congressional Report
 

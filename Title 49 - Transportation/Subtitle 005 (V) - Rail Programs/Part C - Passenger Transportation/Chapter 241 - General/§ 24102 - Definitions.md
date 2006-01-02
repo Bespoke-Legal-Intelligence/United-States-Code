@@ -118,7 +118,7 @@ In clause (3), the text of 45:502(5)(A) and the words “on and after October 1,
 
 In clauses (4) and (10), the words “authority, corporation, or other” are omitted as surplus.
 
-In clause (4), the words “and includes the Metropolitan Transportation Authority, the Connecticut Department of Transportation, the Maryland Department ofTransportation the Southeastern Pennsylvania Transportation Authority, the New Jersey Transit Corporation, the Massachusetts Bay Transportation Authority, the Port Authority Trans-Hudson Corporation, any successor agencies, and any entity created by one or more such agencies for the purpose of operating” are omitted as surplus.
+In clause (4), the words “and includes the Metropolitan Transportation Authority, the Connecticut Department of Transportation, the Maryland Department of Transportation the Southeastern Pennsylvania Transportation Authority, the New Jersey Transit Corporation, the Massachusetts Bay Transportation Authority, the Port Authority Trans-Hudson Corporation, any successor agencies, and any entity created by one or more such agencies for the purpose of operating” are omitted as surplus.
 
 In clause (5), the words “whether within or across the geographical boundaries of a State” are omitted as surplus.
 

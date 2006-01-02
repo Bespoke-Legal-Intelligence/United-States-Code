@@ -12,7 +12,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (1) Proceeding required
 
-&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote the public interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
+&emsp;Within 180 days after October 5, 1992, the Commission shall, in order to promote thepublic interest, convenience, and necessity by increasing competition and diversity in the multichannel video programming market and the continuing development of communications technologies, prescribe regulations to specify particular conduct that is prohibited by subsection (b) of this section.
 
 #### (2) Minimum contents of regulations
 
@@ -64,7 +64,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 #### (d) Adjudicatory proceeding
 
-Any multichannel video programming distributor aggrieved by conduct that it alleges constitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
+Any multichannel video programming distributor aggrieved by conduct that it allegesconstitutes a violation of subsection (b) of this section, or the regulations of the Commission under subsection (c) of this section, may commence an adjudicatory proceeding at the Commission.
 
 #### (e) Remedies for violations
 
@@ -106,7 +106,7 @@ As used in this section:
 
 &emsp;(1) The term “satellite cable programming” has the meaning provided under section 605 of this title, except that such term does not include satellite broadcast programming.
 
-&emsp;(2) The term “satellite cable programming vendor” means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, butdoes not include a satellite broadcast programming vendor.
+&emsp;(2) The term “satellite cable programming vendor” means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, but does not include a satellite broadcast programming vendor.
 
 &emsp;(3) The term “satellite broadcast programming” means broadcast video programming when such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
 

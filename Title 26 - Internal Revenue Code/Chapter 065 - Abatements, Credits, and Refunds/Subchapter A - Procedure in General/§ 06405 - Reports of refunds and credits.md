@@ -12,7 +12,7 @@ Any credit or refund allowed or made under section 6411 shall be made without re
 
 If any refund or credit of income taxes is attributable to the taxpayer's election under section 165(i) to deduct a disaster loss for the taxable year immediately preceding the taxable year in which the disaster occurred, the Secretary is authorized in his discretion to make the refund or credit, to the extent attributable to such election, without regard to the provisions of subsection (a) of this section. If such refund or credit is made without regard to subsection (a), there shall thereafter be submitted to such Joint Committee a report containing the matter specified in subsection (a) as soon as the Secretary shall determine the correct amount of the tax for the taxable year for which the refund or credit is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 92–418, §2(b), Aug. 29, 1972, 86 Stat. 657; Pub. L. 92–512, title II, §203(a), Oct. 20, 1972, 86 Stat. 944; Pub. L. 94–455, title XII, §1210(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1711, 1834; Pub. L. 95–227, §4(d)(3), Feb. 10, 1978, 92 Stat. 23; Pub. L. 98–369, div. A, title VII, §711(c)(3), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title XVIII, §1879(e), Oct. 22, 1986, 100 Stat. 2906; Pub. L.101–508, title XI, §§11801(c)(21)(A), 11834(a), Nov. 5, 1990, 104 Stat. 1388–528, 1388–560; Pub. L. 106–554, §1(a)(7) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 92–418, §2(b), Aug. 29, 1972, 86 Stat. 657; Pub. L. 92–512, title II, §203(a), Oct. 20, 1972, 86 Stat. 944; Pub. L. 94–455, title XII, §1210(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1711, 1834; Pub. L. 95–227, §4(d)(3), Feb. 10, 1978, 92 Stat. 23; Pub. L. 98–369, div. A, title VII, §711(c)(3), July 18, 1984, 98 Stat. 946; Pub. L. 99–514, title XVIII, §1879(e), Oct. 22, 1986, 100 Stat. 2906; Pub. L. 101–508, title XI, §§11801(c)(21)(A), 11834(a), Nov. 5, 1990, 104 Stat. 1388–528, 1388–560; Pub. L. 106–554, §1(a)(7) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634.)
 
 #### Amendments
 
@@ -68,13 +68,9 @@ Section 2(c) of Pub. L. 92–418 provided in part that: “The amendment made by
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(c)(21)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801(c)(21)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7851, 8022 of this title; title 28 section 530D.
 

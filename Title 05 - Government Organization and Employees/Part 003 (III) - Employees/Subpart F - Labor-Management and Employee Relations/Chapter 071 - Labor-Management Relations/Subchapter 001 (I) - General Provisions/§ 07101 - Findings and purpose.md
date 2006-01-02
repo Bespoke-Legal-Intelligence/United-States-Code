@@ -14,7 +14,7 @@
 
 > Therefore, labor organizations and collective bargaining in the civil service are in the public interest.
 
-(b) It is the purpose of this chapter to prescribe certain rights and obligations of the employees of the Federal Government and to establish procedures which are designed to meet thespecial requirements and needs of the Government. The provisions of this chapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
+(b) It is the purpose of this chapter to prescribe certain rights and obligations of the employees of the Federal Government and to establish procedures which are designed to meet the special requirements and needs of the Government. The provisions of this chapter should be interpreted in a manner consistent with the requirement of an effective and efficient Government.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192.)
 
@@ -76,7 +76,7 @@ WHEREAS the participation of employees should be improved through the maintenanc
 
 WHEREAS subject to law and the paramount requirements of public service, effective labor-management relations within the Federal service require a clear statement of the respective rights and obligations of labor organizations and agency management:
 
-NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and statutes of the United States, including sections 3301 and 7301 of title 5 of the United States Code and as President of the United States, I hereby direct that the following policies shall govern officers and agencies of the executive branch of the Government in all dealings with Federal employees and organizations representing such employees.
+NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and statutes of the UnitedStates, including sections 3301 and 7301 of title 5 of the United States Code and as President of the United States, I hereby direct that the following policies shall govern officers and agencies of the executive branch of the Government in all dealings with Federal employees and organizations representing such employees.
 
 #### General Provisions
 
@@ -202,7 +202,7 @@ Sec. 6. <i>Powers and Duties of the Office of the General Counsel and the Assist
 
 #### Recognition
 
-Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive recognition or national consultationrights at the request of a labor organization which meets the requirements for the recognition or consultation rights under this Order.
+Sec. 7. <i>Recognition in general</i>. (a) An agency shall accord exclusive recognition or national consultation rights at the request of a labor organization which meets the requirements for the recognition or consultation rights under this Order.
 
 (b) A labor organization seeking recognition shall submit to the agency a roster of its officers and representatives, a copy of its constitution and by-laws, and a statement of its objectives.
 
@@ -256,7 +256,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 #### Agreements
 
-Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, orany question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
+Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
 
 (b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
@@ -296,7 +296,7 @@ Sec. 12. <i>Basic provisions of agreements</i>. Each agreement between an agency
 
 (c) nothing in the agreement shall require an employee to become or to remain a member of a labor organization, or to pay money to the organization except pursuant to a voluntary written authorization by a member for the payment of dues through payroll deductions. The requirements of this section shall be expressly stated in the initial or basic agreement and apply to all supplemental, implementing, subsidiary, or informal agreements between the agency and the organization.
 
-Sec. 13. <i>Grievance and arbitration procedures</i>. (a) An agreement between an agency and a labor organization shall provide a procedure, applicable only to the unit, for the consideration of grievances. The coverage and scope of the procedure shall be negotiated by the parties to the agreement with the exception that it may not cover matters for which a statutory appeal procedure exists and so long as it does not otherwise conflict with statute or this order. It shall be the exclusive procedure available to the parties and the employees in the unit for resolving grievances which fall within its coverage. However, any employee or group of employees in the unit may present such grievances to the agency and have them adjusted, without the intervention of the exclusive representative, as long as the adjustment is not inconsistent with the terms of the agreement and the exclusive representative has been given opportunity to be present at the adjustment.
+Sec. 13. <i>Grievance and arbitration procedures</i>. (a) An agreement between an agency and a labor organizationshall provide a procedure, applicable only to the unit, for the consideration of grievances. The coverage and scope of the procedure shall be negotiated by the parties to the agreement with the exception that it may not cover matters for which a statutory appeal procedure exists and so long as it does not otherwise conflict with statute or this order. It shall be the exclusive procedure available to the parties and the employees in the unit for resolving grievances which fall within its coverage. However, any employee or group of employees in the unit may present such grievances to the agency and have them adjusted, without the intervention of the exclusive representative, as long as the adjustment is not inconsistent with the terms of the agreement and the exclusive representative has been given opportunity to be present at the adjustment.
 
 (b) A negotiated procedure may provide for arbitration of grievances. Arbitration may be invoked only by the agency or the exclusive representative. Either party may file exceptions to an arbitrator's award with the Authority, under regulations prescribed by the Authority.
 
@@ -314,7 +314,7 @@ Sec. 15. <i>Approval of agreements</i>. An agreement with a labor organization a
 
 Sec. 16. <i>Negotiation disputes</i>. The Federal Mediation and Conciliation Service shall provide services and assistance to Federal agencies and labor organizations in the resolution of negotiation disputes. The Service shall determine under what circumstances and in what manner it shall proffer its services.
 
-Sec. 17. <i>Negotiation impasses</i>. When voluntary arrangements, including the services of the Federal Mediation and Conciliation Service or other third-party mediation, fail to resolve a negotiation impasse, either party may request the Federal Service Impasses Panel to consider the matter. The Panel, in its discretion and under the regulations it prescribes, may consider thematter and may recommend procedures to the parties for the resolution of the impasse or may settle the impasse by appropriate action. Arbitration or third-party fact finding with recommendations to assist in the resolution of an impasse may be used by the parties only when authorized or directed by the Panel.
+Sec. 17. <i>Negotiation impasses</i>. When voluntary arrangements, including the services of the Federal Mediation and Conciliation Service or other third-party mediation, fail to resolve a negotiation impasse, either party may request the Federal Service Impasses Panel to consider the matter. The Panel, in its discretion and under the regulations it prescribes, may consider the matter and may recommend procedures to the parties for the resolution of the impasse or may settle the impasse by appropriate action. Arbitration or third-party fact finding with recommendations to assist in the resolution of an impasse may be used by the parties only when authorized or directed by the Panel.
 
 #### Conduct of Labor Organizations and Management
 
@@ -376,7 +376,7 @@ Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
 Sec. 20. <i>Use of official time</i>. Solicitation of membership or dues, and other internal business of a labor organization, shall be conducted during the non-duty hours of the employees concerned. Employees who represent a recognized labor organization shall not be on official time when negotiating an agreement with agency management, except to the extent that the negotiating parties agree to other arrangements which may provide that the agency will either authorize official time for up to 40 hours or authorize up to one-half the time spent in negotiations during regular working hours, for a reasonable number of employees, which number normally shall not exceed the number of management representatives.
 
-Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition who make a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at statedsix-month intervals. Such an allotment terminates when—
+Sec. 21. <i>Allotment of dues</i>. (a) When a labor organization holds formal or exclusive recognition, and the agency and the organization agree in writing to this course of action, an agency may deduct the regular and periodic dues of the organization from the pay of members of the organization in the unit of recognition who make a voluntary allotment for that purpose, and shall recover the costs of making the deductions. Such an allotment is subject to the regulations of the Office of Personnel Management, which shall include provision for the employee to revoke his authorization at stated six-month intervals. Such an allotment terminates when—
 
 (1) the dues withholding agreement between the agency and the labor organization is terminated or ceases to be applicable to the employee; or
 
@@ -404,7 +404,7 @@ Sec. 25. <i>Guidance, training, review and information</i>. (a) The Office of Pe
 
 (b) The Office of Personnel Management shall develop programs for the collection and dissemination of information appropriate to the needs of agencies, organizations and the public.
 
-Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, except sections 7(f) and 8 which are effective immediately. Effective January 1, 1970, Executive Order No. 10988 and the President's Memorandum of May 21, 1963, entitled Standards of Conduct for Employee Organizations and Code of Fair Labor Practices, are revoked.
+Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, except sections 7(f) and 8 which are effectiveimmediately. Effective January 1, 1970, Executive Order No. 10988 and the President's Memorandum of May 21, 1963, entitled Standards of Conduct for Employee Organizations and Code of Fair Labor Practices, are revoked.
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 

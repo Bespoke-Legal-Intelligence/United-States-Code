@@ -234,7 +234,7 @@ A Federal agency shall—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Compensation under clause (i) shall not exceed the maximum rate for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of that title.
+&emsp;&emsp;&emsp;Compensation under clause (i) shall not exceed the maximum rate for the Senior Executive Service under section 5382 oftitle 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of that title.
 
 #### (B) Executive director
 

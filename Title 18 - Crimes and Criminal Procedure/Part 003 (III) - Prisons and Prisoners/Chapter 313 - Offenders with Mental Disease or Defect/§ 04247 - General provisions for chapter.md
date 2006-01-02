@@ -24,7 +24,7 @@ Psychiatric or Psychological Examination.—A psychiatric or psychological exami
 
 (c)
 
-Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared by the examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to the counsel for the person examined and to the attorney for the Government, and shall include—
+Psychiatric or Psychological Reports.—A psychiatric or psychological report ordered pursuant to this chapter shall be prepared bythe examiner designated to conduct the psychiatric or psychological examination, shall be filed with the court with copies provided to the counsel for the person examined and to the attorney for the Government, and shall include—
 
 &emsp;(1) the person's history and present symptoms;
 
@@ -64,7 +64,7 @@ Videotape Record.—Upon written request of defense counsel, the court may order
 
 (g)
 
-Habeas Corpus Unimpaired.—Nothing contained in section 4243 or 4246 precludes a person who is committed under either of such sectionsfrom establishing by writ of habeas corpus the illegality of his detention.
+Habeas Corpus Unimpaired.—Nothing contained in section 4243 or 4246 precludes a person who is committed under either of such sections from establishing by writ of habeas corpus the illegality of his detention.
 
 (h)
 

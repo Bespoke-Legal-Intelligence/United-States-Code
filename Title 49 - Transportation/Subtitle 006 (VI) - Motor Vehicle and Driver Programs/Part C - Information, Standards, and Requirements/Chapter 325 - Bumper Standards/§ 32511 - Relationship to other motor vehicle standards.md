@@ -2,7 +2,7 @@
 
 (a)
 
-Preemption.—Except as provided in this section, a State or a political subdivision of a State may prescribe or enforce a bumper standard for a passenger motor vehicle or passenger motor vehicle equipment only if the standard is identical to a standard prescribed under section 32502 of this title.
+Preemption.—Except as provided in this section, a State or a political subdivision of a State may prescribe or enforce a bumper standard for a passenger motor vehicle or passengermotor vehicle equipment only if the standard is identical to a standard prescribed under section 32502 of this title.
 
 (b)
 

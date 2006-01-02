@@ -78,7 +78,7 @@ For purposes of this part—
 
 #### (2) Nonlife insurance members included for asset test
 
-&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether ornot life insurance companies) shall be treated as 1 company.
+&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether or not life insurance companies) shall be treated as 1 company.
 
 #### (3) Controlled group
 
@@ -186,7 +186,7 @@ Qualified gic.—The term ‘qualified GIC’ means any group contract—
 
 &emsp;“(B) which specifies the contract maturity or renewal date,
 
-&emsp;“(C) under which funds deposited by the contract holder plus interest guaranteed at the inception of the contract for the term of the contract and net of any specified expenses are paid as directed by the contract holder, and
+&emsp;“(C) under which funds deposited by the contract holder plus interest guaranteed at the inception ofthe contract for the term of the contract and net of any specified expenses are paid as directed by the contract holder, and
 
 &emsp;“(D) which is a pension plan contract (as defined in section 818(a) of the Internal Revenue Code of 1986).
 
@@ -243,8 +243,4 @@ Qualified life insurance company.—For purposes of paragraph (1), the term ‘q
 &emsp;“(A) was originally incorporated in March of 1857, and
 
 &emsp;“(B) has a cost to such company (as of December 31, 1983) in the operating mineral interests described in paragraph (1) in excess of $250,000,000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 453B, 465, 804, 815 of this title.
 

@@ -6,7 +6,7 @@ Grants and Loans.—A State shall use financial assistance for projects under th
 
 (b)
 
-Holding and Use of Government's Share.—The State shall place the United States Government's share of money that is repaid in an interest-bearing account. However, the Secretary of Transportation may allow a borrower to place that money, for the benefit of the State, in a bank designated by the Secretary of the Treasury under section 10 of the Act of June 11, 1942 (12 U.S.C. 265). The State shall use the money and accumulated interest to make other grants and loans under this chapter in the same manner and under the same conditions as if they were originally granted to the State by the Secretary of Transportation.
+Holding and Use of Government's Share.—The State shall place the United States Government's share of money that is repaid in an interest-bearing account. However, the Secretary of Transportation may allow a borrowerto place that money, for the benefit of the State, in a bank designated by the Secretary of the Treasury under section 10 of the Act of June 11, 1942 (12 U.S.C. 265). The State shall use the money and accumulated interest to make other grants and loans under this chapter in the same manner and under the same conditions as if they were originally granted to the State by the Secretary of Transportation.
 
 (c)
 

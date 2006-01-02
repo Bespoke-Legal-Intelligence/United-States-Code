@@ -1,6 +1,6 @@
 ### §204. Entitlement
 
-(a) The following persons are entitled to the basic pay of the pay grade to which assigned or distributed, in accordance with their years of service computed under section 205 of this title—
+(a) The following persons are entitled to the basic pay of the pay grade to which assigned ordistributed, in accordance with their years of service computed under section 205 of this title—
 
 &emsp;(1) a member of a uniformed service who is on active duty; and
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) in line of duty while performing active duty;
 
-&emsp;(B) in line of duty while performing inactive-duty training (other than work or study inconnection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service);
+&emsp;(B) in line of duty while performing inactive-duty training (other than work or study in connection with a correspondence course of an armed force or attendance in an inactive status at an educational institution under the sponsorship of an armed force or the Public Health Service);
 
 &emsp;(C) while traveling directly to or from such duty or training;
 

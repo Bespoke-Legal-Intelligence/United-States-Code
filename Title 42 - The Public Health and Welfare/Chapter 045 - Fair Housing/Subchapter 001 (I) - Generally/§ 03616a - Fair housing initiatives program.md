@@ -32,11 +32,11 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (1) In general
 
-&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing to build their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation of initiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
+&emsp;The Secretary shall use funds made available under this section to enter into contracts or cooperative agreements with qualified fair housing enforcement organizations, other private nonprofit fair housing enforcement organizations, and nonprofit groups organizing tobuild their capacity to provide fair housing enforcement, for the purpose of supporting the continued development or implementation of initiatives which enforce the rights granted under title VIII of the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], as amended. Contracts or cooperative agreements may not provide more than 50 percent of the operating budget of the recipient organization for any one year.
 
 #### (2) Capacity enhancement
 
-&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contractsor cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
+&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contracts or cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
 
 #### (d) Education and outreach
 
@@ -146,7 +146,7 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 &emsp;(5) any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
 
-(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
+(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX,§905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
 
 #### References in Text
 

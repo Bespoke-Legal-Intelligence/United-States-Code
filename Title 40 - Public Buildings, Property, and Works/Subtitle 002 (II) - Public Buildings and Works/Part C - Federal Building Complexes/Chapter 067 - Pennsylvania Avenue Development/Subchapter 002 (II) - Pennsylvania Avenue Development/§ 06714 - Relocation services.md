@@ -6,7 +6,7 @@ Use of District of Columbia Government.—The Administrator of General Services 
 
 (b)
 
-Coordination of Relocation Programs.—All relocation services performed by or on behalf of the Administrator shall be coordinated with the District of Columbia's central relocation programs.
+Coordination of Relocation Programs.—All relocation services performed by or on behalf of the Administrator shall be coordinated withthe District of Columbia's central relocation programs.
 
 (c)
 

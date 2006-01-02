@@ -4,7 +4,7 @@
 
 #### (1) Promulgation of regulations
 
-&emsp;The Secretary, shall, by regulation, prescribe the standards and procedures to be used by accrediting entities for the accreditation ofagencies and the approval of persons to provide adoption services in the United States in cases subject to the Convention.
+&emsp;The Secretary, shall, by regulation, prescribe the standards and procedures to be used by accrediting entities for the accreditation of agencies and the approval of persons to provide adoption services in the United States in cases subject to the Convention.
 
 #### (2) Consideration of views
 
@@ -66,7 +66,7 @@
 
 #### (2) Approval
 
-&emsp;The standards prescribed under subsection (a) of this section shall include the requirement that a person shall not be approved under this subchapter unless the person is aprivate for-profit entity that meets the requirements of subparagraphs (A) through (F) of paragraph (1) of this subsection.
+&emsp;The standards prescribed under subsection (a) of this section shall include the requirement that a person shall not be approved under this subchapter unless the person is a private for-profit entity that meets the requirements of subparagraphs (A) through (F) of paragraph (1) of this subsection.
 
 #### (3) Renewal of accreditation or approval
 

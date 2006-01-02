@@ -9,10 +9,6 @@ Subpart A—Adjustments by Secretary
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 6252 of this title.
-
 
 ---
 

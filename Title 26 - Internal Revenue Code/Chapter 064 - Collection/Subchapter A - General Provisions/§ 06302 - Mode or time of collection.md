@@ -54,7 +54,7 @@ The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes 
 
 #### (2) Taxes on ozone depleting chemicals
 
-&emsp;If any person is required under regulations to make deposits of taxes under subchapter D of chapter 38 with respect to semimonthly periods, in lieu of paragraph (1), such person shall make deposits of such taxes for—
+&emsp;If any person is required under regulations to make deposits of taxes under subchapter Dof chapter 38 with respect to semimonthly periods, in lieu of paragraph (1), such person shall make deposits of such taxes for—
 
 &emsp;&emsp;(A) the second semimonthly period in August, and
 
@@ -160,7 +160,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 &emsp;&emsp;<b>For treatment of earned income advance amounts as payment of withholding and FICA taxes, see section 3507(d).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890.)
 
 #### Amendments
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pu
 
 Section 11217(b)(2) of Pub. L. 101–508 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to payments of taxes considered collected during semimonthly periods beginning after December 31, 1990.”
 
-Section 11334(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply toamounts required to be deposited after December 31, 1990.”
+Section 11334(c) of Pub. L. 101–508 provided that: “The amendments made by this section \[amending this section and provisions set out below\] shall apply to amounts required to be deposited after December 31, 1990.”
 
 #### Effective Date of 1989 Amendment
 
@@ -284,7 +284,7 @@ Section 523(b)(2) of Pub. L. 103–182 provided that: “Not later than 210 days
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(c)(22)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801(c)(22)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Delayed Deposits of Highway Motor Fuel Tax Revenues
 
@@ -314,11 +314,7 @@ Section 1809 of Pub. L. 104–188 provided that: “Notwithstanding any other pr
 
 #### Depositary Schedules
 
-Pub. L. 98–76, title II, §226, Aug. 12, 1983, 97 Stat. 426, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective on and after January 1, 1984, the times for making payments prescribed under section 6302 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to the taxes imposed by chapter 22 of such Code shall be the same as the times prescribed under such section which apply to the taxes imposed by chapters 21 and 24 of such Code.”
+Pub. L. 98–76, title II, §226, Aug. 12, 1983, 97 Stat. 426, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective on and after January 1, 1984, the times for making payments prescribed under section 6302 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to the taxes imposed by chapter 22 of such Code shall be the same as the timesprescribed under such section which apply to the taxes imposed by chapters 21 and 24 of such Code.”
 
 Pub. L. 98–76, title II, §227(c), Aug. 12, 1983, 97 Stat. 426, provided that: “Section 226 \[set out above\] shall take effect on January 1, 1984.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6656, 6802, 7502, 7652 of this title.
 

@@ -30,7 +30,7 @@ Each report submitted under subsection (a) of this section shall include the fol
 
 &emsp;(7) For each foreign country or non-State organization that has not achieved the capability to target the United States or its territories with weapons of mass destruction, ballistic missiles, or cruise missiles as of November 18, 1997, an estimate of how far in advance the United States is likely to be warned before such foreign country or non-State organization achieves that capability.
 
-&emsp;(8) For each foreign country or non-State organization that has not achieved the capability to target members of the United StatesArmed Forces deployed abroad with weapons of mass destruction, ballistic missiles, or cruise missiles as of November 18, 1997, an estimate of how far in advance the United States is likely to be warned before such foreign country or non-State organization achieves that capability.
+&emsp;(8) For each foreign country or non-State organization that has not achieved the capability to target members of the United States Armed Forces deployed abroad with weapons of mass destruction, ballistic missiles, or cruise missiles as of November 18, 1997, an estimate of how far in advance the United States is likely to be warned before such foreign country or non-State organization achieves that capability.
 
 #### (d) Classification
 

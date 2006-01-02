@@ -2,7 +2,7 @@
 
 #### (a) Grants, contracts, and cooperative agreements
 
-In carrying out the duties under this part, the Statistics Commissioner,<sup>1</sup> may award grants,enter into contracts and cooperative agreements, and provide technical assistance.
+In carrying out the duties under this part, the Statistics Commissioner,<sup>1</sup> may award grants, enter into contracts and cooperative agreements, and provide technical assistance.
 
 #### (b) Gathering information
 

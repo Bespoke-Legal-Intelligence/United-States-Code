@@ -22,7 +22,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;(1) if the rate changes for taxable years “beginning after” or “ending after” a certain date, the following day shall be considered the effective date of the change; and
 
-&emsp;(2) if a rate changes for taxable years “beginning on or after” a certain date, that date shall be considered the effective date of the change.
+&emsp;(2) if a rate changes for taxable years “beginning on or after” a certain date, that dateshall be considered the effective date of the change.
 
 #### (d) Section not to apply to inflation adjustments
 
@@ -60,7 +60,7 @@ Subsecs. (e), (f). Pub. L. 97–34 struck out subsecs. (e) and (f) which had rel
 
 1977—Subsec. (d). Pub. L. 95–30, §101(d)(2)(A), (B), redesignated subsec. (f) as (d). Former subsec. (d), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Tax Reform Act of 1969 in part I or in the application of part IV or V of subchapter B for purposes of the determination of taxable income should be treated as a change in a rate of tax, was struck out.
 
-Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former subsec. (e), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made bythe Revenue Act of 1971 in section 141 (relating to the standard deduction) and section 151 (relating to personal exemptions) should be treated as a change in a rate of tax, was struck out.
+Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former subsec. (e), which directed that, in applying subsec. (a) to a taxable year of an individual which was not a calendar year, each change made by the Revenue Act of 1971 in section 141 (relating to the standard deduction) and section 151 (relating to personal exemptions) should be treated as a change in a rate of tax, was struck out.
 
 Subsec. (f). Pub. L. 95–30, §101(d)(2)(B), redesignated subsec. (f) as (d).
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section 901(d) of Pub. L. 94–455, set out as a note under section 11 of this title.
+Amendment by Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section901(d) of Pub. L. 94–455, set out as a note under section 11 of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -137,8 +137,4 @@ In general.—Except as provided in paragraph (2), for purposes of section 15 of
 “(2)
 
 Exception.—Paragraph (1) shall not apply to the amendment made by section 601 \[amending section 11 of this title\] (relating to corporate rate reductions).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 59A, 441, 6013 of this title.
 

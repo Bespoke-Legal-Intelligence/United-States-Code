@@ -4,7 +4,7 @@
 
 The Attorney General may make grants to eligible States or units of local government for use by the State or unit of local government for the following purposes:
 
-&emsp;(1) To carry out, for inclusion in the Combined DNA Index System of the Federal Bureau of Investigation, DNA analyses of samples taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section).
+&emsp;(1) To carry out, for inclusion in the Combined DNA Index System of the Federal Bureau of Investigation, DNA analyses of samples collected under applicable legal authority.
 
 &emsp;(2) To carry out, for inclusion in such Combined DNA Index System, DNA analyses of samples from crime scenes, including samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect.
 
@@ -108,7 +108,7 @@ For a State or unit of local government to be eligible to receive a grant under 
 
 #### (f) Reports to the Attorney General
 
-Each State or unit of local government which receives a grant under this section shall submit to the Attorney General, for each year in which funds from a grant received under this section is expended, a report at such time and in suchmanner as the Attorney General may reasonably require, which contains—
+Each State or unit of local government which receives a grant under this section shall submit to the Attorney General, for each year in which funds from a grant received under this section is expended, a report at such time and in such manner as the Attorney General may reasonably require, which contains—
 
 &emsp;(1) a summary of the activities carried out under the grant and an assessment of whether such activities are meeting the needs identified in the application; and
 
@@ -186,7 +186,7 @@ The Attorney General may award a grant under this section to a State or unit of 
 
 In the event that a laboratory operated by a State or unit of local government which has received funds under this Act has undergone an external audit conducted to determine whether the laboratory is in compliance with standards established by the Director of the Federal Bureau of Investigation, and, as a result of such audit, identifies measures to remedy deficiencies with respect to the compliance by the laboratory with such standards, the State or unit of local government shall implement any such remediation as soon as practicable.
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085.)
 
 #### References in Text
 
@@ -197,6 +197,8 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–162 substituted “collected under applicable legal authority” for “taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)”.
 
 2004—Pub. L. 108–405, §202(a)(1), substituted “The Debbie Smith DNA Backlog Grant Program” for “Authorization of grants” in section catchline.
 
@@ -296,7 +298,7 @@ Findings.—Congress finds that—
 
 &emsp;“(11) only a few States have adopted post-conviction DNA testing procedures;
 
-&emsp;“(12) States have received millions of dollars in DNA-related grants, and more funding is needed toimprove State forensic facilities and to reduce the nationwide backlog of DNA samples from convicted offenders and crime scenes that need to be tested or retested using upgraded methods;
+&emsp;“(12) States have received millions of dollars in DNA-related grants, and more funding is needed to improve State forensic facilities and to reduce the nationwide backlog of DNA samples from convicted offenders and crime scenes that need to be tested or retested using upgraded methods;
 
 &emsp;“(13) States that accept such financial assistance should not deny the promise of truth and justice for both sides of our adversarial system that DNA testing offers;
 

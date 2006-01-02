@@ -14,6 +14,10 @@ Pub. L. 103–236 substituted “by diplomatic and consular officers of the Unit
 
 1978—Pub. L. 95–426 inserted provision prohibiting passport restrictions except for countries with which the United States is at war, where armed hostilities are in progress or there is imminent danger to the public health or physical safety of United States travellers.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–167, §1, Jan. 10, 2006, 119 Stat. 3578, provided that: “This Act \[amending section 214 of this title\] may be cited as the ‘Passport Services Enhancement Act of 2005’.”
+
 #### Limitations on Use of Funds for Procurement of Paper for Passports
 
 Pub. L. 100–440, title VI, §617(b), Sept. 22, 1988, 102 Stat. 1755, provided that: “None of the funds made available by this or any other Act with respect to any fiscal year may be used to procure paper for passports granted or issued pursuant to the first section of the Act entitled ‘An Act to regulate the issue and validity of passports, and for other purposes’, approved July 3, 1926 (22 U.S.C. 211a), if such paper is manufactured outside of the United States or its possessions or is procured from any corporation or other entity owned or controlled by persons not citizens of the United States. This subsection shall not apply if no domestic manufacturer for passport paper exists.”

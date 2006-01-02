@@ -22,7 +22,7 @@ As used in this subchapter:
 
 (7) The term “counterfeit substance” means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
-(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transferof a controlled substance or a listed chemical, whether or not there exists an agency relationship.
+(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
 (9) The term “depressant or stimulant substance” means—
 
@@ -106,7 +106,7 @@ As used in this subchapter:
 
 &emsp;(i) the chemical structure of which is substantially similar to the chemical structure of a controlled substance in schedule I or II;
 
-&emsp;(ii) which has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II; or
+&emsp;(ii) which has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to orgreater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II; or
 
 &emsp;(iii) with respect to a particular person, which such person represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance in schedule I or II.
 
@@ -176,7 +176,7 @@ As used in this subchapter:
 
 &emsp;(Y) Any salt, optical isomer, or salt of an optical isomer of the chemicals listed in subparagraphs (M) through (U) of this paragraph.
 
-(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as achemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
+(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as a chemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
 
 &emsp;(A) Acetic anhydride.
 
@@ -210,7 +210,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(i) a domestic lawful distribution in the usual course of business between agents or employees of a single regulated person;
 
-&emsp;&emsp;(ii) a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage or storage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with section 830 of this title;
+&emsp;&emsp;(ii) a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage orstorage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with section 830 of this title;
 
 &emsp;&emsp;(iii) any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II of this chapter;
 
@@ -280,7 +280,7 @@ As used in this subchapter:
 
 &emsp;(xvi) furazabol (17α-methyl-17β-hydroxyandrostano\[2,3-c\]-furazan);
 
-&emsp;(xvii) 13β-ethyl-17α-hydroxygon-4-en-3-one;
+&emsp;(xvii) 13β-ethyl-17β-hydroxygon-4-en-3-one;
 
 &emsp;(xviii) 4-hydroxytestosterone (4,17β-dihydroxy-androst-4-en-3-one);
 
@@ -346,7 +346,7 @@ As used in this subchapter:
 
 &emsp;(xliii) oxymetholone (17α-methyl-2-hydroxymethylene-17β-hydroxy-\[5α\]-androstan-3-one);
 
-&emsp;(xliv) stanozolol (17α-methyl-17α-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);
+&emsp;(xliv) stanozolol (17α-methyl-17β-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);
 
 &emsp;(xlv) stenbolone (17β-hydroxy-2-methyl-\[5α\]-androst-1-en-3-one);
 
@@ -398,7 +398,7 @@ As used in this subchapter:
 
 &emsp;(iii) A drug store is an entity within SIC code 5912.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126.)
 
 #### References in Text
 
@@ -413,6 +413,10 @@ The Federal Food, Drug, and Cosmetic Act, referred to in par. (39)(A)(iv), is ac
 Section 401(d) of the Comprehensive Methamphetamine Control Act of 1996, referred to in par. (39)(A)(iv)(I)(aa), is section 401(d) of Pub. L. 104–237, which is set out below.
 
 #### Amendments
+
+2006—Par. (41)(A)(xvii). Pub. L. 109–162, §1180(1), substituted “13β-ethyl-17β-hydroxygon-4-en-3-one;” for “13β-ethyl-17α-hydroxygon-4-en-3-one;”.
+
+Par. (41)(A)(xliv). Pub. L. 109–162, §1180(2), substituted “(17α-methyl-17β-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);” for “(17α-methyl-17α-hydroxy-\[5α\]-androst-2-eno\[3,2-c\]-pyrazole);”.
 
 2004—Par. (41). Pub. L. 108–358, §2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
 
@@ -692,7 +696,7 @@ Significant number of instances.—
 
 &emsp;&emsp;“(A)
 
-In general.—For purposes of this subsection, isolated or infrequent use, or use in insubstantial quantities, of ordinary over-the-counter pseudoephedrine or phenylpropanolamine, as defined in section 102(45) of the Controlled Substances Act, as added by section 401(b) of this Act, and sold at the retail level for the illicit manufacture of methamphetamine or amphetamine may not beused by the Attorney General as the basis for establishing the conditions under paragraph (1)(A)(ii) of this subsection, with respect to pseudoephedrine, and paragraph (2)(A)(ii) of this subsection, with respect to phenylpropanolamine.
+In general.—For purposes of this subsection, isolated or infrequent use, or use in insubstantial quantities, of ordinary over-the-counter pseudoephedrine or phenylpropanolamine, as defined in section 102(45) of the Controlled Substances Act, as added by section 401(b) of this Act, and sold at the retail level for the illicit manufacture of methamphetamine or amphetamine may not be used by the Attorney General as the basis for establishing the conditions under paragraph (1)(A)(ii) of this subsection, with respect to pseudoephedrine, and paragraph (2)(A)(ii) of this subsection, with respect to phenylpropanolamine.
 
 &emsp;&emsp;“(B)
 
@@ -730,7 +734,7 @@ In general.—For the purposes of this section, combination ephedrine products s
 
 &emsp;&emsp;&emsp;“(ii) a threshold other than the threshold described in clause (i), if established by the Attorney General not earlier than 1 year after the date of enactment of this Act; and
 
-&emsp;&emsp;“(C) the penalties provided in subsection (d)(1)(B) of this section shall take effect on the date of enactment of this Act for any individual or business that violates the single transaction limit of 24 grams for combination ephedrine products.
+&emsp;&emsp;“(C) the penalties provided in subsection (d)(1)(B) of this section shall take effect on the date of enactment of this Act for any individual or businessthat violates the single transaction limit of 24 grams for combination ephedrine products.
 
 &emsp;“(2)
 

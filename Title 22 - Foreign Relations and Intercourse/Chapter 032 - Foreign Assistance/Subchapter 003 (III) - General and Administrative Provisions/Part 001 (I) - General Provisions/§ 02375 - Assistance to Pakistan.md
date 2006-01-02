@@ -24,7 +24,7 @@ The President may waive the prohibitions of section 2799aa of this title with re
 
 &emsp;(A) International narcotics control (including part VIII of subchapter I of this chapter) or any provision of law available for providing assistance for counternarcotics purposes.
 
-&emsp;(B) Facilitating military-to-military contact, training (including part V of subchapter II of this chapter) and humanitarian and civic assistance projects.
+&emsp;(B) Facilitating military-to-military contact, training (including part V of subchapterII of this chapter) and humanitarian and civic assistance projects.
 
 &emsp;(C) Peacekeeping and other multilateral operations (including part VI of subchapter II of this chapter relating to peacekeeping) or any provision of law available for providing assistance for peacekeeping purposes, except that lethal military equipment provided under this subparagraph shall be provided on a lease or loan basis only and shall be returned upon completion of the operation for which it was provided.
 
@@ -84,7 +84,7 @@ Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set outas an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1985 Amendment
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) three years in the grade of captain.
 
-(b) For the purpose of this section, service in a grade includes all qualifying service in that grade or a higher grade, under either a temporary or permanent appointment. However, service in a grade under a temporary service appointment under section 275 of this title is considered as service only in the grade that the officer concerned would have held had he not been so appointed.
+(b) For the purpose of this section, service in a grade includes all qualifying service in thatgrade or a higher grade, under either a temporary or permanent appointment. However, service in a grade under a temporary service appointment under section 275 of this title is considered as service only in the grade that the officer concerned would have held had he not been so appointed.
 
 (c) No officer may become eligible for consideration for promotion until all officers of his grade senior to him are so eligible.
 
@@ -24,7 +24,7 @@
 
 (e) An officer whose involuntary retirement or separation is deferred under section 295 of this title is not eligible for consideration for promotion to the next higher grade during the period of that deferment.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179; amended Pub. L. 94–546, §1(19), Oct. 18,1976, 90 Stat. 2520; Pub. L. 98–557, §17(b)(1), Oct. 30, 1984, 98 Stat. 2867.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 179; amended Pub. L. 94–546, §1(19), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 98–557, §17(b)(1), Oct. 30, 1984, 98 Stat. 2867.)
 
 #### Amendments
 

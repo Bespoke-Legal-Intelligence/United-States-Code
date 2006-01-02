@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall permit an owner or operator that has entered into a contract under this subpart that is in effect on November 28, 1990, to convert areas of highly erodible cropland that are subject to the contract, and that are devoted to vegetative cover, from that useto hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
+&emsp;The Secretary shall permit an owner or operator that has entered into a contract under this subpart that is in effect on November 28, 1990, to convert areas of highly erodible cropland that are subject to the contract, and that are devoted to vegetative cover, from that use to hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
 
 #### (2) Terms
 
 #### (A) Extension of contract
 
-&emsp;&emsp;With respect to a contract that is modified under this section that provides for the planting of hardwood trees, windbreaks, shelterbelts, or wildlife corridors, if the original term of the contract was less than 15 years, the owner or operator may extend the contract to a term of not to exceed 15 years.
+&emsp;&emsp;With respect to a contract that is modified under this section that provides for theplanting of hardwood trees, windbreaks, shelterbelts, or wildlife corridors, if the original term of the contract was less than 15 years, the owner or operator may extend the contract to a term of not to exceed 15 years.
 
 #### (B) Cost share assistance
 

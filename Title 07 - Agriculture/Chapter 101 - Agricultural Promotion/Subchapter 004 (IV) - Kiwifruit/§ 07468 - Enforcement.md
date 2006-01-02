@@ -12,7 +12,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (1) Civil penalties
 
-&emsp;Any person who willfully violates any provision of any order or regulation issued by the Secretary under this subchapter, or who fails or refuses to pay, collect, or remit any assessment or fee duly required of the person under the order or regulation, may be assessed acivil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense.
+&emsp;Any person who willfully violates any provision of any order or regulation issued by the Secretary under this subchapter, or who fails or refuses to pay, collect, or remit any assessment or fee duly required of the person under the order or regulation, may be assessed a civil penalty by the Secretary of not less than $500 nor more than $5,000 for each such violation. Each violation shall be a separate offense.
 
 #### (2) Cease-and-desist orders
 
@@ -50,7 +50,7 @@ Any person who fails to obey a cease-and-desist order issued by the Secretary af
 
 #### (f) Failure to pay penalties
 
-If a person fails to pay an assessment of a civil penalty after the assessment has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+If a person fails to pay an assessment of a civil penalty after the assessment has become a finaland unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In an action for recovery, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 (Pub. L. 104–127, title V, §559, Apr. 4, 1996, 110 Stat. 1071.)
 

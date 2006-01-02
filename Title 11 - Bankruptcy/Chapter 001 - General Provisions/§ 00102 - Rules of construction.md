@@ -28,7 +28,7 @@ In this title—
 
 &emsp;(9) “United States trustee” includes a designee of the United States trustee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2554; Pub. L. 98–353, title III, §422, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §202, Oct. 27, 1986, 100 Stat. 3097.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2554; Pub. L. 98–353, title III, §422, July 10, 1984, 98 Stat. 369;Pub. L. 99–554, title II, §202, Oct. 27, 1986, 100 Stat. 3097.)
 
 #### Historical and Revision Notes
 

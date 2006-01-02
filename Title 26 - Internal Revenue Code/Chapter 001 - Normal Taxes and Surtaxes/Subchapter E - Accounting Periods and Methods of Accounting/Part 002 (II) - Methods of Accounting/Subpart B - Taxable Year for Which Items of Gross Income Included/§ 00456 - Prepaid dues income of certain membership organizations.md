@@ -86,7 +86,3 @@ Amendment by section 1901(a)(68) of Pub. L. 94–455 effective for taxable years
 
 Section 2 of Pub. L. 87–109 provided that: “The amendments made by this Act \[enacting this section\] shall apply with respect to taxable years beginning after December 31, 1960.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 277 of this title.
-

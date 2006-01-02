@@ -12,7 +12,7 @@
 
 (b)(1) The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
-&emsp;(A) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
+&emsp;(A) may be armed with appropriate firearms required for personal safety and for the properexecution of their duties, whether on Department of Defense property or in travel status; and
 
 &emsp;(B) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.
 
@@ -32,7 +32,7 @@
 
 (f) In this section:
 
-&emsp;(1) The term “Pentagon Reservation” means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2,the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles.
+&emsp;(1) The term “Pentagon Reservation” means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2, the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles.
 
 &emsp;(2) The term “National Capital Region” means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
@@ -70,7 +70,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 #### Cost of Pentagon Renovation
 
-Pub. L. 108–87, title VIII, §8055, Sept. 30, 2003, 117 Stat. 1084, provided that:
+Pub. L. 108–287, title VIII, §8055, Aug. 5, 2004, 118 Stat. 982, provided that:
 
 “(a)
 
@@ -104,6 +104,8 @@ Duration of Certification Requirement.—The requirement to make an annual certi
 
 Similar provisions were contained in the following prior appropriation acts:
 
+Pub. L. 108–87, title VIII, §8055, Sept. 30, 2003, 117 Stat. 1084.
+
 Pub. L. 107–248, title VIII, §8056, Oct. 23, 2002, 116 Stat. 1549.
 
 Pub. L. 107–117, div. A, title VIII, §8060, Jan. 10, 2002, 115 Stat. 2260.
@@ -127,8 +129,4 @@ Acceptance of Contributions.—The Secretary of Defense may accept monetary cont
 “(c)
 
 Deposit of Contributions.—The Secretary of Defense shall deposit contributions accepted under subsection (b) in the Pentagon Reservation Maintenance Revolving Fund. The contributions shall be available for expenditure only for the purposes specified in subsection (b).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 6 section 462.
 

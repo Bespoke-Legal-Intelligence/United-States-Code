@@ -224,7 +224,7 @@ Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (1) and add
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -259,8 +259,4 @@ Section 20(e)(1) of Pub. L. 87–834 provided that: “The amendments made by su
 #### Effective Date
 
 Section 6(c) of Pub. L. 86–780, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending section 902 of this title\] shall apply to taxable years of domestic corporations beginning after December 31, 1960, with respect to information relating to a foreign corporation or a foreign subsidiary described in section 6038(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) for its annual accounting periods beginning after December 31, 1960.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 318, 901, 902, 964, 6046A, 6501 of this title.
 

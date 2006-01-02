@@ -6,7 +6,7 @@ Any person who is an income tax return preparer with respect to any return or cl
 
 #### (b) Failure to sign return
 
-Any person who is an income tax return preparer with respect to any return or claim for refund, who is required by regulations prescribed by the Secretary to sign such return or claim, and who fails to comply with such regulations with respect to such return or claim shall pay a penalty of $50 for such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to documents filed during any calendar year shall not exceed $25,000.
+Any person who is an income tax return preparer with respect to any return or claim for refund, who is required by regulations prescribed by the Secretary to sign such return or claim, and who fails to comply with such regulationswith respect to such return or claim shall pay a penalty of $50 for such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to documents filed during any calendar year shall not exceed $25,000.
 
 #### (c) Failure to furnish identifying number
 
@@ -66,7 +66,7 @@ Section 7733(e) of Pub. L. 101–239 provided that: “The amendments made by th
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–44 effective as if included in the amendments made by section 179(b) of Pub. L.98–369, see section 6(a) of Pub. L. 99–44, set out as a note under section 274 of this title.
+Amendment by Pub. L. 99–44 effective as if included in the amendments made by section 179(b) of Pub. L. 98–369, see section 6(a) of Pub. L. 99–44, set out as a note under section 274 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -78,9 +78,5 @@ Section 701(cc)(3) of Pub. L. 95–600 provided that: “The amendments made by 
 
 #### Repeal of Regulations Covering Substantiation by Adequate Contemporaneous Records
 
-Regulations issued before May 24, 1985, to carry out the amendment of subsec. (b) of this section by section 179(b)(2) of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6504, 6511, 6696, 7407 of this title.
+Regulations issued before May 24, 1985, to carry out the amendment of subsec. (b) of this section by section179(b)(2) of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
 

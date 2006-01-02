@@ -1,6 +1,6 @@
 ### §6915. Reserve student aviation pilots; reserve aviation pilots: appointments in commissioned grade
 
-(a) Under such regulations as the Secretary of the Navy prescribes, enlisted members of the Naval Reserve and the Marine Corps Reserve may be designated as student aviation pilots.
+(a) Under such regulations as the Secretary of the Navy prescribes, enlisted members of the Navy Reserve and the Marine Corps Reserve may be designated as student aviation pilots.
 
 (b) A member who is not a qualified civilian aviator may not be designated as a student aviation pilot unless he agrees in writing, with the consent of his parent or guardian if he is a minor, to serve on active duty for a period of two years after successfully completing flight training, unless sooner released. Such a student aviation pilot may be released from active duty or discharged at any time by any administrative authority prescribed by the Secretary.
 
@@ -8,15 +8,15 @@
 
 (d) While he is in flight training, a student aviation pilot shall have uniforms and equipment issued to him at Government expense.
 
-(e) Under regulations prescribed by the Secretary, a student aviation pilot of the Naval Reserve or the Marine Corps Reserve may be designated an aviation pilot upon successfully completing flight training.
+(e) Under regulations prescribed by the Secretary, a student aviation pilot of the Navy Reserve or the Marine Corps Reserve may be designated an aviation pilot upon successfully completing flight training.
 
 (f) In time of peace, an aviation pilot who is obligated under subsection (b) to serve on active duty for a period of two years may serve, with his consent, for an additional period of not more than two years.
 
-(g) An aviation pilot of the Naval Reserve or the Marine Corps Reserve may be released from active duty or discharged at any time by any administrative authority prescribed by the Secretary.
+(g) An aviation pilot of the Navy Reserve or the Marine Corps Reserve may be released from active duty or discharged at any time by any administrative authority prescribed by the Secretary.
 
-(h) An aviation pilot of the Naval Reserve or the Marine Corps Reserve may, if qualified under regulations prescribed by the Secretary, be appointed an ensign in the Naval Reserve or a second lieutenant in the Marine Corps Reserve, as appropriate.
+(h) An aviation pilot of the Navy Reserve or the Marine Corps Reserve may, if qualified under regulations prescribed by the Secretary, be appointed an ensign in the Navy Reserve or a second lieutenant in the Marine Corps Reserve, as appropriate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 427; Pub. L. 87–649, §14c(51), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §513(21), Dec. 12, 1980, 94 Stat. 2932.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 427; Pub. L. 87–649, §14c(51), Sept. 7, 1962, 76 Stat. 501; Pub. L. 96–513, title V, §513(21), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 109–163, div. A, title V, §515(b)(1)(P), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,8 @@ In subsection (f) the words “pay grade E–5” are substituted for the words 
 In subsection (h) the words “of the Naval Reserve or the Marine Corps Reserve” are substituted for the words “designated as such in accordance with sections 841a and 841b of this title” for uniformity.
 
 #### Amendments
+
+2006—Subsecs. (a), (e), (g), (h). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” wherever appearing.
 
 1980—Subsecs. (f) to (i). Pub. L. 96–513 redesignated subsecs. (g), (h), and (i) as (f), (g), and (h), respectively.
 

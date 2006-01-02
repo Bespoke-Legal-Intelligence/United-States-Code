@@ -2,7 +2,7 @@
 
 #### (a) Composition and territorial designation
 
-The provisions of this chapter and the name “Virgin Islands” as used in this chapter, shall apply to and include the territorial domain, islands, cays, and waters acquired by the United States through cession of the Danish West Indian Islands by the convention between theUnited States of America and His Majesty the King of Denmark entered into August 4, 1916, and ratified by the Senate on September 7, 1916 (39 Stat. 1706). The Virgin Islands as above described are declared an unincorporated territory of the United States of America.
+The provisions of this chapter and the name “Virgin Islands” as used in this chapter, shall apply to and include the territorial domain, islands, cays, and waters acquired by the United States through cession of the Danish West Indian Islands by the convention between the United States of America and His Majesty the King of Denmark entered into August 4, 1916, and ratified by the Senate on September 7, 1916 (39 Stat. 1706). The Virgin Islands as above described are declared an unincorporated territory of the United States of America.
 
 #### (b) Powers and legal status of government; capital and seat of government
 
@@ -42,7 +42,7 @@ Pub. L. 86–289, §1, Sept. 16, 1959, 73 Stat. 568, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of act July 22, 1954, provided that: “This Act \[enacting this chapter, amending sections 104 and 111 of Title 21, Food and Drugs, and sections 3350 of former Title 26, Internal Revenue Code (see section 7652(b)(3) of Title 26), and enacting provisions set out as notes under this section\] may be cited as the ‘Revised Organic Act of the Virgin Islands’.”
+Section 1 of act July 22, 1954, provided that: “This Act \[enacting this chapter, amending sections 104 and111 of Title 21, Food and Drugs, and sections 3350 of former Title 26, Internal Revenue Code (see section 7652(b)(3) of Title 26), and enacting provisions set out as notes under this section\] may be cited as the ‘Revised Organic Act of the Virgin Islands’.”
 
 #### Separability
 

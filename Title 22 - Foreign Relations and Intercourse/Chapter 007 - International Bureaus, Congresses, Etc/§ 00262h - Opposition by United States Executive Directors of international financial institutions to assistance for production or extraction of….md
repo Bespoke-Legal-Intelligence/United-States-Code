@@ -4,15 +4,17 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(1) such commodity or mineral, as the case may be, is in surplus on world markets; and
 
-&emsp;(2) the export of such commodity or mineral, as the case may be, would cause substantial injury to the United States producers of the same, similar, or competing commodity or mineral.
+&emsp;(2) the export of such commodity or mineral, as the case may be, would cause substantialinjury to the United States producers of the same, similar, or competing commodity or mineral.
 
 (Pub. L. 99–472, §22, Oct. 15, 1986, 100 Stat. 1210.)
 
 #### Similar Provisions
 
-Pub. L. 108–447, div. D, title V, §514, Dec. 8, 2004, 118 Stat. 2995, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to this Act \[div. D of Pub. L. 108–447, see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 109–102, title V, §514, Nov. 14, 2005, 119 Stat. 2200, provided that: “The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the Asian Development Bank, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, and the African Development Fund to use the voice and vote of the United States to oppose any assistance by these institutions, using funds appropriated or made available pursuant to this Act \[see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 108–447, div. D, title V, §514, Dec. 8, 2004, 118 Stat. 2995.
 
 Pub. L. 108–199, div. D, title V, §514, Jan. 23, 2004, 118 Stat. 171.
 

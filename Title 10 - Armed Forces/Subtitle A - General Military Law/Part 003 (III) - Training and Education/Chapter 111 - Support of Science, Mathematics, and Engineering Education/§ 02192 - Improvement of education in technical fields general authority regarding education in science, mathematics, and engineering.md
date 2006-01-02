@@ -2,11 +2,11 @@
 
 (a) The Secretary of Defense, in consultation with the Secretary of Education, shall, on a continuing basis—
 
-&emsp;(1) identify actions which the Department of Defense may take to improve education in thescientific, mathematics, and engineering skills necessary to meet the long-term national defense needs of the United States for personnel proficient in such skills; and
+&emsp;(1) identify actions which the Department of Defense may take to improve education in the scientific, mathematics, and engineering skills necessary to meet the long-term national defense needs of the United States for personnel proficient in such skills; and
 
 &emsp;(2) establish and conduct programs to carry out such actions.
 
-(b)(1) In furtherance of the authority of the Secretary of Defense under any provision of this chapter or any other provision of law to support educational programs in science, mathematics, engineering, and technology, the Secretary of Defense may, unless otherwise specified in such provision—
+(b)(1) In furtherance of the authority of the Secretary of Defense under any provision of thischapter or any other provision of law to support educational programs in science, mathematics, engineering, and technology, the Secretary of Defense may, unless otherwise specified in such provision—
 
 &emsp;(A) enter into contracts and cooperative agreements with eligible entities;
 
@@ -33,6 +33,10 @@
 2003—Subsecs. (b), (c). Pub. L. 108–136 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1999—Pub. L. 106–65 amended section catchline generally. Prior to amendment, catchline read as follows: “Science, mathematics, and engineering education”.
+
+#### Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program
+
+Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074, as amended by Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449, which related to a pilot program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that were determined to be critical to the national security functions of the Department of Defense, was repealed and restated in section 2192a of this title by Pub. L. 109–163, div. A, title XI, §1104(d)(1)(B), (e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Department of Defense Support for Science, Mathematics, and Engineering Education
 

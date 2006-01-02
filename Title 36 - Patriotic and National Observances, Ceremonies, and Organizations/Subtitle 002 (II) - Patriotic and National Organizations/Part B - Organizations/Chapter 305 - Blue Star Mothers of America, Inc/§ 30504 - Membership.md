@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 July 14, 1960, Pub. L. 86–653, §5 (1st sentence), 74 Stat. 516.
 
-In clause (1), before subclause (A), the words “(who has given a mother's care at least since the stepchild was age 13)” are substituted for “(a stepmother eligible for membership in the Blue Star Mothers of America, Inc., can claim that eligibility only if she has given a mother's care to the stepchild from the age of thirteen or under)” for clarity and to eliminate unnecessary words.
+In clause (1), before subclause (A), the words “(who has given a mother's care at least since the stepchild was age 13)” are substituted for “(a stepmother eligible for membership in the Blue Star Mothers of America, Inc., can claim that eligibility only if she has given a mother's care to the stepchild from the age of thirteenor under)” for clarity and to eliminate unnecessary words.
 

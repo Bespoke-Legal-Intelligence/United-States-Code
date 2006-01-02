@@ -36,7 +36,7 @@ Consistent with applicable recommendations of the National Digestive Diseases Ad
 
 #### (c) Kidney and urologic diseases
 
-The Director shall provide for the development or substantial expansion of centers for research in kidney and urologic diseases. Eachcenter developed or expanded under this subsection—
+The Director shall provide for the development or substantial expansion of centers for research in kidney and urologic diseases. Each center developed or expanded under this subsection—
 
 &emsp;(1) shall utilize the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such research qualifications as may be prescribed by the Secretary;
 
@@ -50,7 +50,7 @@ The Director shall provide for the development or substantial expansion of cente
 
 &emsp;&emsp;(C) training physicians and scientists in research on such diseases; and
 
-&emsp;(4) may perform research and participate in epidemiological studies and data collection relevant to kidney and urologic diseases in order to disseminate such research, studies, and data to the health care profession and to the public.
+&emsp;(4) may perform research and participate in epidemiological studies and data collectionrelevant to kidney and urologic diseases in order to disseminate such research, studies, and data to the health care profession and to the public.
 
 #### (d) Nutritional disorders
 

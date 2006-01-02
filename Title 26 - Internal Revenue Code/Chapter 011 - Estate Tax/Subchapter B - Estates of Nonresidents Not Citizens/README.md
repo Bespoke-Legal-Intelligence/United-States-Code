@@ -17,10 +17,6 @@
 
 1966—Pub. L. 89–809, title I, §108(h), Nov. 13, 1966, 80 Stat. 1574, added items 2107 and 2108.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 2014, 2053 of this title.
-
 
 ---
 

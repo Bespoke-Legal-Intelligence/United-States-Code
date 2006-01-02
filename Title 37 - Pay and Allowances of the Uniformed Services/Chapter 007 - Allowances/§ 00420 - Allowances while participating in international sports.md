@@ -6,7 +6,7 @@
 
 (c) Notwithstanding any other law, a member of a uniformed service who has no dependents is not entitled to the basic allowances for subsistence and housing authorized by sections 402 and 403 of this title for a period during which he is subsisted and quartered by the agency sponsoring his participation in a competition covered by section 717 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478, §419; Pub. L. 89–718, §64, Nov. 2, 1966, 80 Stat. 1123; renumbered §420, Pub. L. 100–180, div. A, title VI,§611(a)(1)(A), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 105–85, div. A, title VI, §603(d)(1)(C), Nov. 18, 1997, 111 Stat. 1782.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478, §419; Pub. L. 89–718, §64, Nov. 2, 1966, 80 Stat. 1123; renumbered §420, Pub. L. 100–180, div. A, title VI, §611(a)(1)(A), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 105–85, div. A, title VI, §603(d)(1)(C), Nov. 18, 1997, 111 Stat. 1782.)
 
 Historical and Revision Notes
 

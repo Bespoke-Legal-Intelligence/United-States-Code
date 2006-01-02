@@ -37,7 +37,7 @@ Pub. L. 97–164, title I, §122(a), Apr. 2, 1982, 96 Stat. 36, struck out item 
 
 1980—Pub. L. 96–417, title V, §501(13), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” as item for chapter 55.
 
-1978—Pub. L. 95–598, title II, §233(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item for chapter 50, “Bankruptcy Courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598, title II, §233(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item for chapter 50,“Bankruptcy Courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 1968—Pub. L. 90–578, title I, §102(a), Oct. 17, 1968, 82 Stat. 1114, substituted “United States Magistrates” for “United States Commissioners” as item for chapter 43.
 

@@ -16,7 +16,7 @@ Vessel To Be Used as Artificial Reef.—An agreement for the transfer of a vesse
 
 Preparation of Vessel for Use as Artificial Reef.—The Secretary shall ensure that the preparation of a vessel transferred under subsection (a) for use as an artificial reef is conducted in accordance with—
 
-&emsp;(1) the environmental best management practices developed pursuant to section 3504(b)of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 16 U.S.C. 1220 note); and
+&emsp;(1) the environmental best management practices developed pursuant to section 3504(b) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 16 U.S.C. 1220 note); and
 
 &emsp;(2) any applicable environmental laws.
 

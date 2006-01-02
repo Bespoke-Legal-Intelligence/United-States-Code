@@ -22,11 +22,15 @@ The Secretary shall consult with and seek the advice of the Commission with resp
 
 #### (e) Termination
 
-The Commission shall expire twenty-five years from December 22, 1980.
+The Commission shall expire on the date that is 45 years after December 22, 1980.
 
-(Pub. L. 96–565, title I, §108, Dec. 22, 1980, 94 Stat. 3323.)
+(Pub. L. 96–565, title I, §108, Dec. 22, 1980, 94 Stat. 3323; Pub. L. 109–54, title I, §128, Aug. 2, 2005, 119 Stat. 525.)
 
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, as amended, which enacted this subchapter and provisions set out as a note under section 2991a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2005—Subsec. (e). Pub. L. 109–54 substituted “on the date that is 45 years after” for “twenty-five years from”.
 

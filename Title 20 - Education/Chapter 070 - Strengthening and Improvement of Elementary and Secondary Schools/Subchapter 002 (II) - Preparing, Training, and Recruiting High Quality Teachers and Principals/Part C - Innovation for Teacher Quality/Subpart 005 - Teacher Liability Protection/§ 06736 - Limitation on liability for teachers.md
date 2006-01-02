@@ -64,7 +64,7 @@ If the laws of a State limit teacher liability subject to one or more of the fol
 
 #### (2) Concerning corporal punishment
 
-&emsp;Nothing in this subpart shall be construed to affect any State or local law (including a ruleor regulation) or policy pertaining to the use of corporal punishment.
+&emsp;Nothing in this subpart shall be construed to affect any State or local law (including a rule or regulation) or policy pertaining to the use of corporal punishment.
 
 (Pub. L. 89–10, title II, §2366, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1668.)
 

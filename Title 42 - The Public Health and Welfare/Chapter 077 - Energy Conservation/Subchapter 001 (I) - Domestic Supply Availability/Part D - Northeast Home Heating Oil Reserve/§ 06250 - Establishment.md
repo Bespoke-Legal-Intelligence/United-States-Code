@@ -18,5 +18,5 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 #### Prior Provisions
 
-A prior section 181 of Pub. L. 94–163 was renumbered section 191 and is classified to section 6251 of this title.
+A prior section 181 of Pub. L. 94–163 was renumbered section 191 and was classified to section 6251 of this title, prior to repeal by Pub. L. 109–58.
 

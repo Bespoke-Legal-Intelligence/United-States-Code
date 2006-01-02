@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may, subject to subsection (g), provide financial assistance in accordance with this section to a person—
+Authority.—The Secretary of Defense may, subject to subsection (g), provide financialassistance in accordance with this section to a person—
 
 &emsp;(1) who is pursuing an associate, baccalaureate, or advanced degree, or a certification, in an information assurance discipline referred to in section 2200(a) of this title at an institution of higher education; and
 
@@ -34,7 +34,7 @@ Service Agreement for Scholarship Recipients.—(1) To receive financial assista
 
 (c)
 
-Amount of Assistance.—The amount of the financial assistance provided for a person under this section shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, and expenses of room and board. The expenses paid, however,shall be limited to those educational expenses normally incurred by students at the institution of higher education involved.
+Amount of Assistance.—The amount of the financial assistance provided for a person under this section shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, and expenses of room and board. The expenses paid, however, shall be limited to those educational expenses normally incurred by students at the institution of higher education involved.
 
 (d)
 
@@ -42,19 +42,31 @@ Use of Assistance for Support of Internships.—The financial assistance for a p
 
 (e)
 
-Refund for Period of Unserved Obligated Service.—(1) A person who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall refund to the United States an amount determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title.
+Repayment for Period of Unserved Obligated Service.—(1) A member of an armed force who does not complete the period of active duty specified in the service agreement under section <sup>1</sup> (b) shall be subject to the repayment provisions of section 303a(e) of title 37.
 
-(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
+(2) A civilian employee of the Department of Defense who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall be subject to the repayment provisions of section 303a(e) of title 37 in the same manner and to the same extent as if the civilian employee were a member of the armed forces.
 
 (f)
 
-Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e).
-
-(g)
-
 Allocation of Funding.—Not less than 50 percent of the amount available for financial assistance under this section for a fiscal year shall be available only for providing financial assistance for the pursuit of degrees referred to in subsection (a) at institutions of higher education that have established, improved, or are administering programs of education in information assurance under the grant program established in section 2200b of this title, as determined by the Secretary of Defense.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–234.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–234; amended Pub. L. 109–163, div. A, title VI, §687(c)(8), Jan. 6, 2006, 119 Stat. 3334.)
+
+#### Amendments
+
+2006—Subsec. (e). Pub. L. 109–163, §687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
+
+“(1) A person who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall refund to the United States an amount determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title.
+
+“(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
+
+“(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.”
+
+Subsecs. (f), (g). Pub. L. 109–163, §687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreementunder this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e).”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

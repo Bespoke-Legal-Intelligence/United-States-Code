@@ -26,5 +26,5 @@ Section effective Mar. 10, 1978, except as otherwise provided and regardless of 
 
 #### Performance of Functions Pending Development of Procedures
 
-The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978,92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days \[after Mar. 10, 1978\] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 

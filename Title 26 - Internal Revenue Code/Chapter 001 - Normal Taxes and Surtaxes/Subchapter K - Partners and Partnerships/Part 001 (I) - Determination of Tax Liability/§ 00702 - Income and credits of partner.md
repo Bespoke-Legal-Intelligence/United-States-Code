@@ -60,7 +60,7 @@ Pub. L. 97–34, §301(b)(5), inserted “or 128” after “section 116”.
 
 Pub. L. 94–455, §1402(b)(1)(L), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated,struck out “or his delegate” after “Secretary”. Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
+Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out “or his delegate” after “Secretary”. Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
 
 Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (8)”.
 
@@ -107,8 +107,4 @@ Amendment by section 1901(b)(1)(I)(i), (ii) of Pub. L. 94–455 effective for ta
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 170, 703, 706, 772, 1366, 1402, 7519 of this title; title 42 sections 403, 411.
 

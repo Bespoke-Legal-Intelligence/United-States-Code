@@ -2,7 +2,7 @@ Part F—National Fund for Excellence in American Indian Education
 
 #### Codification
 
-This part is comprised of title V of Pub. L. 93–638, as added by Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2936, as amended. Another title V of Pub. L.93–638 was added by Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 712, and is classified to part E (§458aaa et seq.) of this subchapter.
+This part is comprised of title V of Pub. L. 93–638, as added by Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2936, as amended. Another title V of Pub. L. 93–638 was added by Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 712, and is classified to part E (§458aaa et seq.) of this subchapter.
 
 
 ---

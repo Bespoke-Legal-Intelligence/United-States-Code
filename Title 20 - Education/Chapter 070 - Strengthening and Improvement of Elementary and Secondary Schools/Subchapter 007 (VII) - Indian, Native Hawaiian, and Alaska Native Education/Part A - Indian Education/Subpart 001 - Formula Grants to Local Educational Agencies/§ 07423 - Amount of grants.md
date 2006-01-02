@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (e) of this section, an entity that is eligible for a grantunder section 7422 of this title, and a school that is operated or supported by the Bureau of Indian Affairs that is eligible for a grant under subsection (d) of this section, that submits an application that is approved by the Secretary, shall, subject to appropriations, receive a grant under this subpart in an amount that is not less than $3,000.
+&emsp;Notwithstanding subsection (e) of this section, an entity that is eligible for a grant under section 7422 of this title, and a school that is operated or supported by the Bureau of Indian Affairs that is eligible for a grant under subsection (d) of this section, that submits an application that is approved by the Secretary, shall, subject to appropriations, receive a grant under this subpart in an amount that is not less than $3,000.
 
 #### (2) Consortia
 
@@ -36,7 +36,7 @@
 
 For the purpose of this section, the term “average per pupil expenditure”, used with respect to a State, means an amount equal to—
 
-&emsp;(1) the sum of the aggregate current expenditures of all the local educational agencies in the State, plus any direct current expenditures by the State for the operation of such agencies, without regard to the sources of funds from which such local or State expenditures were made, during the second fiscal year preceding the fiscal year for which the computation is made; divided by
+&emsp;(1) the sum of the aggregate current expenditures of all the local educational agencies inthe State, plus any direct current expenditures by the State for the operation of such agencies, without regard to the sources of funds from which such local or State expenditures were made, during the second fiscal year preceding the fiscal year for which the computation is made; divided by
 
 &emsp;(2) the aggregate number of children who were included in average daily attendance for whom such agencies provided free public education during such preceding fiscal year.
 

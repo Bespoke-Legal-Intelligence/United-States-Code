@@ -6,7 +6,7 @@ The Secretary shall award grants, contracts, or cooperative agreements to public
 
 #### (b) Priority
 
-In awarding grants, contracts, or cooperative agreements under subsection (a) of this section,the Secretary shall give priority to applicants that—
+In awarding grants, contracts, or cooperative agreements under subsection (a) of this section, the Secretary shall give priority to applicants that—
 
 &emsp;(1) propose to provide alcohol and drug prevention or treatment services on reservations;
 
@@ -24,7 +24,7 @@ An entity desiring a grant, contract, or cooperative agreement under subsection 
 
 #### (e) Evaluation
 
-An entity that receives a grant, contract, or cooperative agreement under subsection (a) of this section shall submit, in the application for such grant, a plan for the evaluation of any project undertaken with funds provided under this section. Such entity shall provide the Secretary with periodic evaluations of the progress of such project and such evaluation at the completion of such project as the Secretary determines to be appropriate. The final evaluation submitted by such entity shall include a recommendation as to whether such project shall continue.
+An entity that receives a grant, contract, or cooperative agreement under subsection (a) ofthis section shall submit, in the application for such grant, a plan for the evaluation of any project undertaken with funds provided under this section. Such entity shall provide the Secretary with periodic evaluations of the progress of such project and such evaluation at the completion of such project as the Secretary determines to be appropriate. The final evaluation submitted by such entity shall include a recommendation as to whether such project shall continue.
 
 #### (f) Report
 

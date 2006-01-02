@@ -28,7 +28,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (B) A dependent of a United States Customs Service employee who resides in Puerto Rico, but not on a military installation, may enroll in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico in accordance with the same rules as apply to a dependent of a Federal employee residing in permanent living quarters on a military installation.
 
-(2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
+(2)(A) Except as provided in subparagraphs (B) and (C), a dependent of a Federal employee whois enrolled in an educational program provided by the Secretary pursuant to subsection (a) and who is not residing on a military installation may be enrolled in the program for not more than five consecutive school years.
 
 (B) At the discretion of the Secretary, a dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the dependent is otherwise qualified for enrollment, space is available in the program, and the Secretary will be reimbursed for the educational services provided. Any such extension shall cover only one school year at a time.
 
@@ -104,7 +104,7 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 &emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
-&emsp;(B) In the case of infants and toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants and toddlers with disabilities under part H <sup>1</sup> of such Act (20 U.S.C. 1471 et seq.).
+&emsp;(B) In the case of infants or toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants or toddlers with disabilities under part C of such Act (20 U.S.C. 1431 et seq.).
 
 &emsp;(C) In the case of all other children with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities who are 3 to 5 years old under part B of such Act.
 
@@ -112,11 +112,9 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 (3) In this subsection:
 
-&emsp;(A) The term “children with disabilities” has the meaning given the term in section 602(a)(1) <sup>1</sup> of the Individuals with Disabilities Education Act (20 U.S.C. 1401(a)(1)).
+&emsp;(A) The term “children with disabilities” has the meaning given the term in section 602 of the Individuals with Disabilities Education Act (20 U.S.C. 1401).
 
-&emsp;(B) The term “children with disabilities aged 3 to 5, inclusive” means such term as used in such Act (20 U.S.C. 1400 et seq.).
-
-&emsp;(C) The term “infants and toddlers with disabilities” has the meaning given the term in section 672(1) <sup>1</sup> of such Act (20 U.S.C. 1472(1)).
+&emsp;(B) The term “infants or toddlers with disabilities” has the meaning given the term in section 632 of such Act (20 U.S.C. 1432).
 
 (g)
 
@@ -144,7 +142,7 @@ American Red Cross Employee Dependents in Puerto Rico.—(1) The Secretary may a
 
 (4) Subsection (g) shall apply with respect to determining the reimbursement rates for educational services provided pursuant to this subsection. Amounts received as reimbursement for such educational services shall be treated in the same manner as amounts received under subsection (g).
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76.)
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804.)
 
 #### References in Text
 
@@ -152,11 +150,21 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92
 
 The effective date of this section, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 103–337 which was approved Oct. 5, 1994.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. Section 602 of the Act was classified to section 1401 of Title 20, and was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability” and “infant or toddler with a disability”. Part H of the Act was classified generally to subchapter VIII (§1471 et seq.) of chapter 33 of Title 20 prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, eff. July 1, 1998. Section 672 of the Act was classified to section 1472 of Title 20 prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157. Pub. L. 105–17 enacted a new section 672, which is classified to section 1472 of Title 20, and which no longer contains definitions. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
+
+2004—Subsec. (f)(1)(B). Pub. L. 108–446, §305(a)(1), substituted “infants or toddlers” for “infants and toddlers” in two places, “part C” for “part H”, and “1431 et seq.” for “1471 et seq.”.
+
+Subsec. (f)(3)(A). Pub. L. 108–446, §305(a)(2)(A), substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
+
+Subsec. (f)(3)(B). Pub. L. 108–446, §305(a)(2)(D), substituted “or toddlers” for “and toddlers”, “632” for “672(1)”, and “1432” for “1472(1)”.
+
+Pub. L. 108–446, §305(a)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined the term “children with disabilities aged 3 to 5, inclusive”.
+
+Subsec. (f)(3)(C). Pub. L. 108–446, §305(a)(2)(C), redesignated subpar. (C) as (B).
 
 2000—Subsec. (i). Pub. L. 106–398 added subsec. (i).
 
@@ -186,15 +194,9 @@ Pub. L. 105–261, div. A, title III, §371(c)(3), Oct. 17, 1998, 112 Stat. 1989
 
 #### Savings Provision
 
-Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affectingthe rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
+Section 351(c) of Pub. L. 103–337 provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act \[Oct. 5, 1994\] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2605 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

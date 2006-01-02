@@ -12,5 +12,5 @@ In order for a student to continue to be eligible to receive a scholarship under
 
 #### Prior Provisions
 
-A prior section 1070a–34, Pub. L. 89–329, title IV, §406D, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 498, related to eligible early intervention programs, prior to the general amendment of this division by Pub. L. 105–244.
+A prior section 1070a–34, Pub. L. 89–329, title IV, §406D, as added Pub. L. 102–325, title IV, §402(a)(4), July23, 1992, 106 Stat. 498, related to eligible early intervention programs, prior to the general amendment of this division by Pub. L. 105–244.
 

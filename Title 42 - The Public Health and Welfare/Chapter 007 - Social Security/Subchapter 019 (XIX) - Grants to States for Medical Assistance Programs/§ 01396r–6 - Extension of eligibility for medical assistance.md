@@ -132,7 +132,7 @@
 
 #### (B) Elimination of most non-acute care benefits
 
-&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>3</sup> of section 1396d(a) of this title.
+&emsp;&emsp;At a State's option and notwithstanding any other provision of this subchapter, a State may choose not to provide medical assistance under this subsection with respect to any (or all) of the items and services described in paragraphs (4)(A), (6), (7), (8), (11), (13), (14), (15), (16), (18), (20), and (21) <sup>2</sup> of section 1396d(a) of this title.
 
 #### (C) State medicaid “wrap-around” option
 
@@ -192,7 +192,7 @@
 
 #### (C) Limit on premium
 
-&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthlycosts for such child care as is necessary for the employment of the caretaker relative) during the premium base period (as defined in subparagraph (D)(ii)).
+&emsp;&emsp;In no case may the amount of any premium under this paragraph for a family for a month in either of the premium payment periods described in subparagraph (D)(i) exceed 3 percent of the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative)during the premium base period (as defined in subparagraph (D)(ii)).
 
 #### (D) Definitions
 
@@ -268,7 +268,7 @@ Subsec. (b)(2)(B)(i). Pub. L. 101–508, §4716(a)(1), which directed amendment 
 
 Subsec. (b)(2)(B)(iii). Pub. L. 101–508, §4716(a)(2), which directed amendment of subsection (f) of this section in subsection (b)(2)(B) by adding cl. (iii) at the end, was executed by adding cl. (iii) at the end of subsec. (b)(2)(B) to reflect the probable intent of Congress.
 
-Subsec. (b)(3)(B). Pub. L. 101–508, §4716(a)(3), which directed amendment of subsection (f) of this section in subsection (b)(3)(B) by inserting at the end “No such termination shall be effective earlier than 10 days after the date of mailing of such notice.”, was executed by making the insertion at the end of subsec. (b)(3)(B) to reflect the probable intent of Congress.
+Subsec. (b)(3)(B). Pub. L. 101–508, §4716(a)(3), which directed amendment of subsection (f) of this section insubsection (b)(3)(B) by inserting at the end “No such termination shall be effective earlier than 10 days after the date of mailing of such notice.”, was executed by making the insertion at the end of subsec. (b)(3)(B) to reflect the probable intent of Congress.
 
 Subsec. (b)(3)(C)(i). Pub. L. 101–508, §4601(a)(3)(B), inserted “(i)(VII),” after “(i)(VI)”.
 
@@ -325,6 +325,4 @@ Section 303(c) of Pub. L. 100–485 directed Secretary of Health and Human Servi
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

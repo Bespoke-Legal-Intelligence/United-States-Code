@@ -16,7 +16,3 @@ If a principal purpose of any transaction is to evade or avoid liability under t
 
 1997—Pub. L. 105–34, title XV, §1531(a)(1), Aug. 5, 1997, 111 Stat. 1080, struck out “Portability, Access, and Renewability” before “Requirements” in subtitle heading and made similar change in item for chapter 100.
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in title 42 section 1397ii.
-

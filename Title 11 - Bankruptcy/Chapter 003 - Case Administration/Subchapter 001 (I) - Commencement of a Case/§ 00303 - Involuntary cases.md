@@ -4,7 +4,7 @@
 
 (b) An involuntary case against a person is commenced by the filing with the bankruptcy court of a petition under chapter 7 or 11 of this title—
 
-&emsp;(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute, or an indenture trustee representing such a holder, if such claims aggregate at least $10,000 more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
+&emsp;(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
 
 &emsp;(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 of such claims;
 
@@ -18,17 +18,17 @@
 
 (c) After the filing of a petition under this section but before the case is dismissed or relief is ordered, a creditor holding an unsecured claim that is not contingent, other than a creditor filing under subsection (b) of this section, may join in the petition with the same effect as if such joining creditor were a petitioning creditor under subsection (b) of this section.
 
-(d) The debtor, or a general partner in a partnership debtor that did not join in the petition, may file an answer to a petition under this section.
+(d) The debtor, or a general partner in a partnership debtor that did not join in the petition,may file an answer to a petition under this section.
 
 (e) After notice and a hearing, and for cause, the court may require the petitioners under this section to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection (i) of this section.
 
 (f) Notwithstanding section 363 of this title, except to the extent that the court orders otherwise, and until an order for relief in the case, any business of the debtor may continue to operate, and the debtor may continue to use, acquire, or dispose of property as if an involuntary case concerning the debtor had not been commenced.
 
-(g) At any time after the commencement of an involuntary case under chapter 7 of this title but before an order for relief in the case, the court, on request of a party in interest, after notice to the debtor and a hearing, and if necessary to preserve the property of the estate or to prevent loss to the estate, may order the United States trustee to appoint an interim trustee under section 701 of this title to take possession of the property of the estate and to operate any business of the debtor. Before an order for relief, the debtor may regain possession of property in the possession of a trusteeordered appointed under this subsection if the debtor files such bond as the court requires, conditioned on the debtor's accounting for and delivering to the trustee, if there is an order for relief in the case, such property, or the value, as of the date the debtor regains possession, of such property.
+(g) At any time after the commencement of an involuntary case under chapter 7 of this title but before an order for relief in the case, the court, on request of a party in interest, after notice to the debtor and a hearing, and if necessary to preserve the property of the estate or to prevent loss to the estate, may order the United States trustee to appoint an interim trustee under section 701 of this title to take possession of the property of the estate and to operate any business of the debtor. Before an order for relief, the debtor may regain possession of property in the possession of a trustee ordered appointed under this subsection if the debtor files such bond as the court requires, conditioned on the debtor's accounting for and delivering to the trustee, if there is an order for relief in the case, such property, or the value, as of the date the debtor regains possession, of such property.
 
 (h) If the petition is not timely controverted, the court shall order relief against the debtor in an involuntary case under the chapter under which the petition was filed. Otherwise, after trial, the court shall order relief against the debtor in an involuntary case under the chapter under which the petition was filed, only if—
 
-&emsp;(1) the debtor is generally not paying such debtor's debts as such debts become due unless such debts are the subject of a bona fide dispute; or
+&emsp;(1) the debtor is generally not paying such debtor's debts as such debts become due unless such debts are the subject of a bona fide dispute as to liability or amount; or
 
 &emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for the purpose of enforcing a lien against such property, was appointed or took possession.
 
@@ -54,9 +54,23 @@
 
 &emsp;(3) for want of prosecution.
 
-(k) Notwithstanding subsection (a) of this section, an involuntary case may be commenced against a foreign bank that is not engaged in such business in the United States only under chapter 7 of this title and only if a foreign proceeding concerning such bank is pending.
+\[(k) Repealed. Pub. L. 109–8, title VIII, §802(d)(2), Apr. 20, 2005, 119 Stat. 146.\]
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2559; Pub. L. 98–353, title III, §§426, 427, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§204, 254, 283(b), Oct. 27, 1986, 100 Stat. 3097, 3105, 3116; Pub. L. 103–394, title I, §108(b), Oct. 22, 1994, 108 Stat. 4112.)
+(<i>l</i>)(1) If—
+
+&emsp;(A) the petition under this section is false or contains any materially false, fictitious, or fraudulent statement;
+
+&emsp;(B) the debtor is an individual; and
+
+&emsp;(C) the court dismisses such petition,
+
+> the court, upon the motion of the debtor, shall seal all the records of the court relating to such petition, and all references to such petition.
+
+(2) If the debtor is an individual and the court dismisses a petition under this section, the court may enter an order prohibiting all consumer reporting agencies (as defined in section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f))) from making any consumer report (as defined in section 603(d) of that Act) that contains any information relating to such petition or to the case commenced by the filing of such petition.
+
+(3) Upon the expiration of the statute of limitations described in section 3282 of title 18, for a violation of section 152 or 157 of such title, the court, upon the motion of the debtor and for good cause, may expunge any records relating to a petition filed under this section.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2559; Pub. L. 98–353, title III, §§426, 427, July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §§204, 254, 283(b), Oct. 27, 1986, 100 Stat. 3097, 3105, 3116; Pub. L. 103–394, title I, §108(b), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title III, §332(b), title VIII, §802(d)(2), title XII, §1234(a), Apr. 20, 2005, 119 Stat. 103, 146, 204.)
 
 #### Historical and Revision Notes
 
@@ -78,7 +92,7 @@ The exceptions contained in current law that prohibit involuntary cases against 
 
 The provisions for involuntary chapter 11 cases is a slight change from present law, based on the proposed consolidation of the reorganization chapters. Currently, involuntary cases are permitted under chapters X and XII \[chapters 10 and 12 of former title 11\] but not under chapter XI \[chapter 11 of former title 11\]. The consolidation requires a single rule for all kinds of reorganization proceedings. Because the assets of an insolvent debtor belong equitably to his creditors, the bill permits involuntary cases in order that creditors may realize on their assets through reorganization as well as through liquidation.
 
-Subsection (b) of the section specifies who may file an involuntary petition. As under current law, if the debtor has more than 12 creditors, three creditors must join in the involuntary petition. The dollar amount limitation is changed from current law to $5,000. The new amount applies both to liquidation and reorganization cases in order that there not be an artificial difference between the two chapters that would provide an incentive for one or the other. Subsection (b)(1) makesexplicit the right of an indenture trustee to be one of the three petitioning creditors on behalf of the creditors the trustee represents under the indenture. If all of the general partners in a partnership are in bankruptcy, then the trustee of a single general partner may file an involuntary petition against the partnership. Finally, a foreign representative may file an involuntary case concerning the debtor in the foreign proceeding, in order to administer assets in this country. This subsection is not intended to overrule Bankruptcy Rule 104(d), which places certain restrictions on the transfer of claims for the purpose of commencing an involuntary case. That Rule will be continued under section 405(d) of this bill.
+Subsection (b) of the section specifies who may file an involuntary petition. As under current law, if the debtor has more than 12 creditors, three creditors must join in the involuntary petition. The dollar amount limitation is changed from current law to $5,000. The new amount applies both to liquidation and reorganization cases in order that there not be an artificial difference between the two chapters that would provide an incentive for one or the other. Subsection (b)(1) makes explicit the right of an indenture trustee to be one of the three petitioning creditors on behalf of the creditors the trustee represents under the indenture. If all of the general partners in a partnership are in bankruptcy, then the trustee of a single general partner may file an involuntary petition against the partnership. Finally, a foreign representative may file an involuntary case concerning the debtor in the foreign proceeding, in order to administer assets in this country. This subsection is not intended to overrule Bankruptcy Rule 104(d), which places certain restrictions on the transfer of claims for the purpose of commencing an involuntary case. That Rule will be continued under section 405(d) of this bill.
 
 Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
 
@@ -102,6 +116,14 @@ Subsection (k) governs involuntary cases against foreign banks that are not enga
 
 #### Amendments
 
+2005—Subsec. (b)(1). Pub. L. 109–8, §1234(a)(1), inserted “as to liability or amount” after “bona fide dispute” and substituted “if such noncontingent, undisputed claims” for “if such claims”.
+
+Subsec. (h)(1). Pub. L. 109–8, §1234(a)(2), inserted “as to liability or amount” before semicolon.
+
+Subsec. (k). Pub. L. 109–8, §802(d)(2), struck out subsec. (k) which read as follows: “Notwithstanding subsection (a) of this section, an involuntary case may be commenced against a foreign bank that is not engaged in such business in the United States only under chapter 7 of this title and only if a foreign proceeding concerning such bank is pending.”
+
+Subsec. (<i>l</i>). Pub. L. 109–8, §332(b), added subsec. (<i>l</i>).
+
 1994—Subsec. (b). Pub. L. 103–394 substituted “$10,000” for “$5,000” in pars. (1) and (2).
 
 1986—Subsec. (a). Pub. L. 99–554, §254, inserted reference to family farmer.
@@ -121,6 +143,12 @@ Subsec. (b)(1). Pub. L. 98–353, §426(b)(1), inserted “or the subject on a b
 Subsec. (h)(1). Pub. L. 98–353, §426(b)(2), inserted “unless such debts that are the subject of a bona fide dispute”.
 
 Subsec. (j)(2). Pub. L. 98–353, §427, substituted “debtor” for “debtors”.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–8, title XII, §1234(b), Apr. 20, 2005, 119 Stat. 204, provided that: “This section \[amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\] and shall apply with respect to cases commenced under title 11 of the United States Code before, on, and after such date.”
+
+Amendment by sections 332(b) and 802(d)(2) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

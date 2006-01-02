@@ -46,7 +46,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (4) Meetings and functions of the Board
 
-&emsp;The Board of Directors shall meet at the call of its Chairman, but at least semiannually. The Board shall determine the general policies which shall govern the operations of the Association. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the officesas may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Association and shall discharge all such functions, powers, and duties.
+&emsp;The Board of Directors shall meet at the call of its Chairman, but at least semiannually. The Board shall determine the general policies which shall govern the operations of the Association. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Association and shall discharge all such functions, powers, and duties.
 
 #### (d) Authority of Association
 
@@ -86,7 +86,7 @@ The Congress hereby declares that it is the purpose of this section (1) to estab
 
 #### (3) Perfection of security interests in student loans
 
-&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in insured student loans created on behalf of the Association or any eligible lender as defined in section 1085(a) of this title may be perfected either through the taking of possession of such loans or by the filingof notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.
+&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in insured student loans created on behalf of the Association or any eligible lender as defined in section 1085(a) of this title may be perfected either through the taking of possession of such loans or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.
 
 #### (4) Form of securities
 
@@ -136,7 +136,7 @@ The Association, pursuant to such criteria as the Board of Directors may prescri
 
 #### (1) Approval by Secretaries of Education and the Treasury
 
-&emsp;The Association is authorized with the approval of the Secretary of Education and the Secretary of the Treasury to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Association. The authority of the Secretary of Education to approve the issuance of such obligations is limited to obligations issued by the Association and guaranteed by the Secretary pursuant to paragraph (2) of this subsection. Such obligations may be redeemable at the option of the Association before maturity in such manner as may be stipulated therein. The Secretary of the Treasury may not direct as a condition of his approval that any such issuance of obligations by the Association be made or sold to the Federal Financing Bank. To the extent that the average outstanding amount of the obligations owned by the Association pursuant to the authority contained in subsection (d)(1)(B) and (C) of this section and as to which the income is exempt from taxation under title 26 does not exceed the average stockholders’ equity of the Association, the interest on obligations issued under this paragraph shall not be deemed to be interest on indebtedness incurred or continued to purchase or carry obligations for the purpose of section 265 of title 26.
+&emsp;The Association is authorized with the approval of the Secretary of Education and the Secretary of the Treasury to issue and have outstanding obligations having such maturities and bearing such rate or rates of interest as may be determined by the Association. The authority of the Secretary of Education to approve the issuance of such obligations is limited to obligations issued by the Association and guaranteed by the Secretary pursuant to paragraph (2) of this subsection. Such obligations may be redeemable at the option of the Association before maturity in such manner as may be stipulated therein. The Secretary of the Treasury may not direct as a condition of his approval that any such issuance of obligations by the Association be made or sold to the Federal Financing Bank. To the extent that the average outstanding amount of the obligations owned by the Association pursuant to the authority contained in subsection (d)(1)(B) and (C) of this section and as to which the income is exempt from taxation under title 26 does not exceed the average stockholders’ equity of the Association, the interest on obligations issued under this paragraph shall not be deemed to be interest on indebtedness incurred or continued to purchaseor carry obligations for the purpose of section 265 of title 26.
 
 #### (2) Guarantee of debt
 
@@ -202,11 +202,11 @@ All obligations issued by the Association including those made under subsection 
 
 #### (m) Preparation of obligations
 
-In order to furnish obligations for delivery by the Association, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Board of Directors may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by theAssociation. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The Association shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations. The Secretary of the Treasury is authorized to promulgate regulations on behalf of the Association so that the Association may utilize the book-entry system of the Federal Reserve Banks.
+In order to furnish obligations for delivery by the Association, the Secretary of the Treasury is authorized to prepare such obligations in such form as the Board of Directors may approve, such obligations when prepared to be held in the Treasury subject to delivery upon order by the Association. The engraved plates, dies, bed pieces, and so forth, executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The Association shall reimburse the Secretary of the Treasury for any expenditures made in the preparation, custody, and delivery of such obligations. The Secretary of the Treasury is authorized to promulgate regulations on behalf of the Association so that the Association may utilize the book-entry system of the Federal Reserve Banks.
 
 #### (n) Report on operations and activities
 
-The Association shall, as soon as practicable after the end of each fiscal year, transmit to the President and the Congress a report of the Association's operations and activities, including a report with respect to all facilities transactions, during each year.
+The Association shall, as soon as practicable after the end of each fiscal year, transmit to thePresident and the Congress a report of the Association's operations and activities, including a report with respect to all facilities transactions, during each year.
 
 #### (<i>o</i>) Loan consolidations
 
@@ -266,7 +266,7 @@ The Association shall, as soon as practicable after the end of each fiscal year,
 
 &emsp;&emsp;(i) appoint and fix the compensation of such auditors and examiners as may be necessary to conduct audits of the Association from time to time to determine the condition of the Association for the purpose of assessing the Association's financial safety and soundness and to determine whether the requirements of this section and section 1087–3 of this title are being met; and
 
-&emsp;&emsp;(ii) obtain the services of such experts as the Secretary of the Treasury determines necessary and appropriate, as authorized by section 3109 of title 5, to assist in determining the condition of the Association for the purpose of assessing the Association's financial safety and soundness, and to determine whether the requirements of this section and section 1087–3 of this title are being met.
+&emsp;&emsp;(ii) obtain the services of such experts as the Secretary of the Treasury determinesnecessary and appropriate, as authorized by section 3109 of title 5, to assist in determining the condition of the Association for the purpose of assessing the Association's financial safety and soundness, and to determine whether the requirements of this section and section 1087–3 of this title are being met.
 
 &emsp;(B) Each auditor appointed under this paragraph shall conduct an audit of the Association to the extent requested by the Secretary of the Treasury and shall prepare and submit a report to the Secretary of the Treasury concerning the results of such audit. A copy of such report shall be furnished to the Association and the Secretary of Education on the date on which it is delivered to the Secretary of the Treasury.
 
@@ -326,7 +326,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (3) Monitoring of safety and soundness
 
-&emsp;The Secretary of the Treasury shall conduct such studies as may be necessary to monitor the financial safety and soundness of the Association. In the event that the Secretary of the Treasury determines that the financial safety and soundness of the Association is at risk, the Secretary of the Treasury shall inform the Chairman and ranking minority member of the Committee on Labor and Human Resources of the Senate, the Chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives, and the Secretary of Education of such determination and identify any corrective actions that should be taken to ensure the safety and soundness of the Association.
+&emsp;The Secretary of the Treasury shall conduct such studies as may be necessary to monitor the financial safety and soundness of the Association. In the event that the Secretary of the Treasury determines that the financial safety and soundness of the Association is at risk, the Secretary of the Treasury shall inform the Chairman and ranking minority member of the Committee on Labor and Human Resources of the Senate, the Chairman and ranking minority member of the Committee onEducation and Labor of the House of Representatives, and the Secretary of Education of such determination and identify any corrective actions that should be taken to ensure the safety and soundness of the Association.
 
 #### (4) Capital standard
 
@@ -354,7 +354,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (B) Disapproval
 
-&emsp;&emsp;If the Secretary of the Treasury disapproves a capital restoration plan or modified plan submitted pursuant to subparagraph (A), then, not later than the earlier of the date the Secretary of the Treasury disapproves of such plan or modified plan (by written notice to the Association) or the expiration of the 30-day consideration period described in subparagraph (A) (as such period may have been extended by mutual agreement), the Secretary of the Treasury shall prepare and submit an alternative capital restoration plan, together with a report on his reasons for disapproval of the Association's plan or modified plan, to the Chairman and ranking minority member of the Committee on Labor and Human Resources of the Senate and to the Chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives. A copy of such submission simultaneously shall be sent to the Association and the Secretary of Education by the Secretary of the Treasury. The Association, within 5 days after receipt from the Secretary of the Treasury of such submission, shall submit to the Chairmen and ranking minority members of such Committees, and the Secretary of the Treasury, a written response to such submission, setting out fully the nature and extent of the Association's agreement or disagreement with the Secretary of the Treasury with respect to the disapproved plan and the alternative plan of the Secretary of the Treasury and any findings of the Secretary of the Treasury.
+&emsp;&emsp;If the Secretary of the Treasury disapproves a capital restoration plan or modified plan submitted pursuant to subparagraph (A), then, not later than the earlier of the date the Secretary of the Treasury disapproves of such plan or modified plan (by written notice to the Association) or the expiration of the 30-day consideration period described in subparagraph (A) (as such period may have been extended by mutual agreement), the Secretary of the Treasury shall prepare and submit an alternative capital restoration plan, together with a report on his reasons for disapproval of the Association's plan or modified plan, to the Chairman and ranking minority member of the Committee on Labor and Human Resources of the Senate and to the Chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives. A copy of such submission simultaneously shall be sent to the Association and the Secretary of Education by the Secretary of the Treasury. The Association, within 5 days after receipt from the Secretary of the Treasury of such submission, shall submit to the Chairmen and rankingminority members of such Committees, and the Secretary of the Treasury, a written response to such submission, setting out fully the nature and extent of the Association's agreement or disagreement with the Secretary of the Treasury with respect to the disapproved plan and the alternative plan of the Secretary of the Treasury and any findings of the Secretary of the Treasury.
 
 #### (C) Review by Congress; Association implementation
 
@@ -398,7 +398,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (9) Additional reports to committees
 
-&emsp;The Association shall submit a copy of its capital restoration plan, modifications proposed to the Secretary of the Treasury, and proposed modifications received from the Secretary of the Treasury to the Congressional Budget Office and Government Accountability Office upon their submission to the Secretary of the Treasury or receipt from the Secretary of the Treasury. Notwithstanding any other provision of law, the Congressional Budget Office and Government Accountability Office shall maintain the confidentiality of information received pursuant to the previous sentence. In the event that the Secretary of the Treasury does not approve a capital restoration plan as provided in paragraph (5)(A) or (6)(A), or in the event that a capital restoration plan is modified by the Secretary of the Treasury pursuant to paragraph (6)(B) or (8), the Congressional Budget Office and Government Accountability Office shall each submit a report within 30 days of the Secretary of theTreasury's submission to the Chairmen and ranking minority members as required in paragraphs (5)(B), (6)(B), and (8)(C) to such Chairmen and ranking members—
+&emsp;The Association shall submit a copy of its capital restoration plan, modifications proposed to the Secretary of the Treasury, and proposed modifications received from the Secretary of the Treasury to the Congressional Budget Office and Government Accountability Office upon their submission to the Secretary of the Treasury or receipt from the Secretary of the Treasury. Notwithstanding any other provision of law, the Congressional Budget Office and Government Accountability Office shall maintain the confidentiality of information received pursuant to the previous sentence. In the event that the Secretary of the Treasury does not approve a capital restoration plan as provided in paragraph (5)(A) or (6)(A), or in the event that a capital restoration plan is modified by the Secretary of the Treasury pursuant to paragraph (6)(B) or (8), the Congressional Budget Office and Government Accountability Office shall each submit a report within 30 days of the Secretary of the Treasury's submission to the Chairmen and ranking minority members as required in paragraphs (5)(B), (6)(B), and (8)(C) to such Chairmen and ranking members—
 
 &emsp;&emsp;(A) analyzing the financial condition of the Association;
 
@@ -452,13 +452,13 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 &emsp;&emsp;(A) The term “nationally recognized statistical rating organization” means any entity recognized as such by the Securities and Exchange Commission.
 
-&emsp;&emsp;(B) The term “capital ratio” means the ratio of total stockholders’ equity, as shownon the Association's most recent quarterly consolidated balance sheet prepared in the ordinary course of its business, to the sum of—
+&emsp;&emsp;(B) The term “capital ratio” means the ratio of total stockholders’ equity, as shown on the Association's most recent quarterly consolidated balance sheet prepared in the ordinary course of its business, to the sum of—
 
 &emsp;&emsp;&emsp;(i) the total assets of the Association, as shown on the balance sheet prepared in the ordinary course of its business; and
 
 &emsp;&emsp;&emsp;(ii) 50 percent of the credit equivalent amount of the following off-balance sheet items of the Association as of the date of such balance sheet—
 
-&emsp;&emsp;&emsp;&emsp;(I) all financial standby letters of credit and other irrevocable guarantees of the repayment of financial obligations of others; and
+&emsp;&emsp;&emsp;&emsp;(I) all financial standby letters of credit and other irrevocable guarantees ofthe repayment of financial obligations of others; and
 
 &emsp;&emsp;&emsp;&emsp;(II) all interest rate contracts and exchange rate contracts, including interest exchange agreements, floor, cap, and collar agreements and similar arrangements.
 
@@ -510,7 +510,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### (3) Dissolution of the Association
 
-&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that theAssociation continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
+&emsp;The Association shall dissolve and the Association's separate existence shall terminate on July 1, 2013, after discharge of all outstanding debt obligations and liquidation pursuant to this subsection. The Association may dissolve pursuant to this subsection prior to such date by notifying the Secretary of Education and the Secretary of the Treasury of the Association's intention to dissolve, unless within 60 days of receipt of such notice the Secretary of Education notifies the Association that the Association continues to be needed to serve as a lender of last resort pursuant to subsection (q) of this section or continues to be needed to purchase loans under an agreement with the Secretary described in paragraph (4)(A). On the dissolution date, the Association shall take the following actions:
 
 #### (A) Establishment of a trust
 
@@ -556,7 +556,7 @@ Consultation.—In setting and adjusting the total amount of compensation and be
 
 #### Repeal of Section
 
-<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under section 1087–3(d)(1) of this title have been extinguished, if reorganization occurs in accordance with section 1087–3 of this title; or date on which all obligations of trust established under subsec.</i><i>(s)(3)(A) of this section have been extinguished, if reorganization does not occur in accordance with section 1087–3 of this title.</i>
+<i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under section 1087–3(d)(1) of this title have been extinguished, if reorganization occurs in accordance with section 1087–3 of this title; or date on which all obligations of trust established under subsec. (s)(3)(A) of this section have been extinguished, if reorganization does not occur in accordance with section 1087–3 of this title.</i>
 
 #### References in Text
 

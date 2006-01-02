@@ -40,7 +40,3 @@ Amendment by Pub. L. 90–619 effective on first day of first month which begins
 
 Section 806(d)(2) of Pub. L. 89–44 provided that: “The amendments made by subsections (b) and (c) \[amending this section and sections 5382, 5384, 5385, and 5392\] shall take effect on January 1, 1966.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5382, 5384 of this title.
-

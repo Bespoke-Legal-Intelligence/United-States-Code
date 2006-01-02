@@ -18,7 +18,7 @@ There is established a Department of Homeland Security, as an executive departme
 
 &emsp;&emsp;(D) carry out all functions of entities transferred to the Department, including by acting as a focal point regarding natural and manmade crises and emergency planning;
 
-&emsp;&emsp;(E) ensure that the functions of the agencies and subdivisions within the Department that are not related directly to securing the homeland are not diminished or neglected except by a specific explicit Act of Congress;
+&emsp;&emsp;(E) ensure that the functions of the agencies and subdivisions within the Departmentthat are not related directly to securing the homeland are not diminished or neglected except by a specific explicit Act of Congress;
 
 &emsp;&emsp;(F) ensure that the overall economic security of the United States is not diminished by efforts, activities, and programs aimed at securing the homeland;
 
@@ -42,7 +42,11 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 #### Transfer of Certain OPM Authority to Department of Homeland Security
 
-Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318, provided that: “Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary of Management, the Directorate of Science and Technology, and the Directorate of Information Analysis and Infrastructure Protection of the Department of Homeland Security is transferred to the Department of Homeland Security: <i>Provided</i>, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section.”
+Pub. L. 109–90, title V, §516, Oct. 18, 2005, 119 Stat. 2084, provided that: “Notwithstanding any other provision of law, the authority of the Office of Personnel Management to conduct personnel security and suitability background investigations, update investigations, and periodic reinvestigations of applicants for, or appointees in, positions in the Office of the Secretary and Executive Management, the Office of the Under Secretary for Management, Analysis and Operations, Immigration and Customs Enforcement, Directorate for Preparedness, and the Directorate of Science and Technology of the Department of Homeland Security is transferred to the Department of Homeland Security: <i>Provided</i>, That on request of the Department of Homeland Security, the Office of Personnel Management shall cooperate with and assist the Department in any investigation or reinvestigation under this section: <i>Provided further</i>, That this section shall cease to be effective at such time as the President has selected a single agency to conduct security clearance investigations pursuant to section 3001(c) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 50 U.S.C. 435b) and the entity selected under section 3001(b) of such Act has reported to Congress that the agency selected pursuant to such section 3001(c) is capable of conducting all necessary investigations in a timely manner or has authorized the entities within the Department of Homeland Security covered by this section to conduct their own investigations pursuant to section 3001 of such Act.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–334, title V, §518, Oct. 18, 2004, 118 Stat. 1318.
 
 #### Ex. Ord. No. 13286. Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security
 

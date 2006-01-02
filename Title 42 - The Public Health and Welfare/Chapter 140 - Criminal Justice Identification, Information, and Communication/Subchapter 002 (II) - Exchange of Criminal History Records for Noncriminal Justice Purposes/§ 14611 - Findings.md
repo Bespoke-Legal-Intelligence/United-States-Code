@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(3) although these records are also exchanged for legally authorized, noncriminal justice uses, such as governmental licensing and employment background checks, the purposes for and procedures by which they are exchanged vary widely from State to State;
 
-&emsp;(4) an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate itsown dissemination policy within its own borders; and
+&emsp;(4) an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate its own dissemination policy within its own borders; and
 
 &emsp;(5) such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.
 

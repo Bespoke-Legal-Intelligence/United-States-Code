@@ -18,7 +18,7 @@ All personnel actions affecting covered employees shall be made free from any di
 
 &emsp;&emsp;(A) such remedy as would be appropriate if awarded under section 706(g) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(g)); and
 
-&emsp;&emsp;(B) such compensatory damages as would be appropriate if awarded under section 1981of title 42, or as would be appropriate if awarded under sections 1981a(a)(1), 1981a(b)(2), and, irrespective of the size of the employing office, 1981a(b)(3)(D) of title 42.
+&emsp;&emsp;(B) such compensatory damages as would be appropriate if awarded under section 1981 of title 42, or as would be appropriate if awarded under sections 1981a(a)(1), 1981a(b)(2), and, irrespective of the size of the employing office, 1981a(b)(3)(D) of title 42.
 
 #### (2) Age discrimination
 

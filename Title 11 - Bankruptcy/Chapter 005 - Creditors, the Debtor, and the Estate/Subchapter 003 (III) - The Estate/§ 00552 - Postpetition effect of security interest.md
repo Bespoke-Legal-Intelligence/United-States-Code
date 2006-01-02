@@ -2,11 +2,11 @@
 
 (a) Except as provided in subsection (b) of this section, property acquired by the estate or by the debtor after the commencement of the case is not subject to any lien resulting from any security agreement entered into by the debtor before the commencement of the case.
 
-(b)(1) Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to proceeds, product, offspring, or profits of such property, then such security interest extends to such proceeds, product, offspring, or profits acquired by the estate after the commencement of the case to the extent provided by such security agreement and by applicable nonbankruptcy law, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
+(b)(1) Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to proceeds, products, offspring, or profits of such property, then such security interest extends to such proceeds, products, offspring, or profits acquired by the estate after the commencement of the case to the extent provided by such security agreement and by applicable nonbankruptcy law, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
 
-(2) Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, and notwithstanding section 546(b) of this title, if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to amounts paid as rents of such property or the fees, charges, accounts, or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties, then such security interest extends to such rents and such fees, charges, accounts, or other payments acquired by the estate after the commencement of the case to the extent provided in such security agreement, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
+(2) Except as provided in sections 363, 506(c), 522, 544, 545, 547, and 548 of this title, and notwithstanding section 546(b) of this title, if the debtor and an entity entered into a security agreement before the commencement of the case and if the security interest created by such security agreement extends to property of the debtor acquired before the commencement of the case and to amounts paid as rents of such property or the fees, charges, accounts, or other payments for the use or occupancy of rooms andother public facilities in hotels, motels, or other lodging properties, then such security interest extends to such rents and such fees, charges, accounts, or other payments acquired by the estate after the commencement of the case to the extent provided in such security agreement, except to any extent that the court, after notice and a hearing and based on the equities of the case, orders otherwise.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §466, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title II, §214(a), Oct. 22, 1994, 108 Stat. 4126.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2602; Pub. L. 98–353, title III, §466, July 10, 1984, 98 Stat. 380; Pub. L. 103–394, title II, §214(a), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title XII, §1204(2), Apr. 20, 2005, 119 Stat. 194.)
 
 #### Historical and Revision Notes
 
@@ -30,9 +30,15 @@ As a general rule, if a security agreement is entered into before the case, then
 
 #### Amendments
 
+2005—Subsec. (b)(1). Pub. L. 109–8 substituted “products” for “product” in two places.
+
 1994—Subsec. (b). Pub. L. 103–394 designated existing provisions as par. (1), struck out “rents,” after “offspring,” in two places, and added par. (2).
 
 1984—Subsec. (b). Pub. L. 98–353 inserted “522,” after “506(c),”, substituted “an entity entered” for “a secured party enter”, and substituted “except to any extent” for “except to the extent”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -6,7 +6,7 @@ In the case of returns under section 6012, 6013, 6017, or 6031 (relating to inco
 
 #### (b) Returns of corporations
 
-Returns of corporations under section 6012 made on the basis of the calendar year shall befiled on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(e)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
+Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(e)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
 #### (c) Returns by certain nonresident alien individuals and foreign corporations
 
@@ -26,7 +26,7 @@ In the case of an income tax return of—
 
 In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees’ trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834; Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834;Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997.)
 
 #### Amendments
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 87–834 applicable to taxable years of organizations descr
 #### Filing of Income Tax Returns for 1958 by Life Insurance Companies
 
 Pub. L. 86–69, §3(i), June 25, 1959, 73 Stat. 140, required every life insurance company subject to the tax imposed by section 802(a) of this title to make a return after June 25, 1959, and on or before Sept. 15, 1959, which return was to constitute the return for such taxable year for all purposes of this title, and no return filed pursuant to section 801 et seq. of this title, relating to life insurance companies, on or before June 25, 1959, was to be considered for any such purposes as a return for such taxable year.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6654 of this title.
 

@@ -34,7 +34,7 @@ The implementation plan shall include:
 
 #### (f) Annual report to Congress
 
-The Attorney General shall submit to the Congress each year a report specifically detailingall deposits and expenditures made pursuant to subchapter I <sup>2</sup> of this chapter in each fiscal year. This report shall be submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate, and to the Speaker and minority leader of the House of Representatives and to the majority and minority leaders of the Senate, no later than 60 days after the end of each fiscal year.
+The Attorney General shall submit to the Congress each year a report specifically detailing all deposits and expenditures made pursuant to subchapter I <sup>2</sup> of this chapter in each fiscal year. This report shall be submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate, and to the Speaker and minority leader of the House of Representatives and to the majority and minority leaders of the Senate, no later than 60 days after the end of each fiscal year.
 
 (Pub. L. 103–414, title IV, §401, as added Pub. L. 104–208, div. A, title I, §101(a) \[title I, §110\], Sept. 30, 1996, 110 Stat. 3009, 3009–19.)
 

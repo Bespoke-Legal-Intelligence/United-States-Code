@@ -26,7 +26,7 @@ For purposes of this section—
 
 Nothing in subsection (c) of this section shall be deemed to affect the applicability of subsection (a) of this section in the case of a claim where the presumptions provided for therein are inapplicable.
 
-(Pub. L. 91–173, title IV, §411, Dec. 30, 1969, 83 Stat. 793; Pub. L. 92–303, §§3(a), 4(b)(1), (3), (c), (d), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, §3(a), Mar. 1, 1978, 92 Stat. 96; Pub. L. 97–119, title II, §§202(b), 203(a)(5), Dec. 29, 1981, 95 Stat. 1643, 1644; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(a), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, §411, Dec. 30, 1969, 83 Stat. 793; Pub. L. 92–303, §§3(a), 4(b)(1), (3), (c),\(d), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, §3(a), Mar. 1, 1978, 92 Stat. 96; Pub. L. 97–119, title II, §§202(b), 203(a)(5), Dec. 29, 1981, 95 Stat. 1643, 1644; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(a), Nov. 2, 2002, 116 Stat. 1925.)
 
 #### References in Text
 
@@ -122,7 +122,7 @@ Continuation of Administrative Proceedings.—
 
 &emsp;&emsp;“(B) Any decision, order, or other determination issued in any proceeding described in this subsection shall apply to the Secretary of Labor and continue in effect, according to its terms, until it is modified, superseded, terminated, or otherwise deprived of legal effect by the Secretary of Labor, a court of competent jurisdiction, or operation of law.
 
-&emsp;&emsp;“(C) Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
+&emsp;&emsp;“(C) Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of anysuch proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 
 &emsp;“(3) Any proceeding before the Secretary of Labor involving the functions transferred by this Act shall be subject to the statutory requirements for notice, hearing, action upon the record, administrative review, and judicial review that apply to similar proceedings before the Commissioner conducted prior to the enactment of this Act.
 

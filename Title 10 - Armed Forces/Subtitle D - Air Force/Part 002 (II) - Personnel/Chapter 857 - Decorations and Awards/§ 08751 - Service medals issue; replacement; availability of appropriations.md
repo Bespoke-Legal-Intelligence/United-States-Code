@@ -46,7 +46,3 @@ In subsection (b), the words “member of the Air Force” are substituted for t
 
 In subsection (c), the last 16 words are substituted for 10:1415c (last 16 words).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8752 of this title.
-

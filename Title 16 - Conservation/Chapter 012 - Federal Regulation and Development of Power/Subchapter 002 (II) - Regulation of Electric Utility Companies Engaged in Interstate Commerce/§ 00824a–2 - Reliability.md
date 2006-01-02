@@ -24,7 +24,7 @@
 
 &emsp;(E) the cost-effectiveness of adding a number of small, decentralized conventional and nonconventional generating units rather than a small number of large generating units with a similar total megawatt capacity for achieving the desired level of reliability; and
 
-&emsp;(F) any standards for electric utility reliability used by, or suggested for use by, the electric utility industry in terms of cost-effectiveness in achieving the desired level of reliability, including equipment standards, standards for operating procedures and training ofpersonnel, and standards relating the number and severity of outages to periods of time.
+&emsp;(F) any standards for electric utility reliability used by, or suggested for use by, the electric utility industry in terms of cost-effectiveness in achieving the desired level of reliability, including equipment standards, standards for operating procedures and training of personnel, and standards relating the number and severity of outages to periods of time.
 
 #### (b) Examination of reliability issues by reliability councils
 
@@ -40,11 +40,11 @@ The Secretary, in consultation with the Commission, and after opportunity for pu
 
 (Pub. L. 95–617, title II, §209, Nov. 9, 1978, 92 Stat. 3143.)
 
-#### References in Text
-
-The Secretary and the Commission, referred to in subsecs. (a)(1), (b), and (c), mean the Secretary of Energy and the Federal Energy Regulatory Commission, respectively. See section 2602(3) and (14) of this title.
-
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
+
+#### Definitions
+
+For definitions of terms used in this section, see section 2602 of this title.
 

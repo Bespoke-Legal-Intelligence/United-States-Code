@@ -16,7 +16,7 @@ It is the purpose of this part to assist consortia of public and private entitie
 
 #### (2) Period of awards
 
-&emsp;The Secretary may award grants, or enter into contracts or cooperative agreements, under this part for periods that are not more than 5 years in duration.
+&emsp;The Secretary may award grants, or enter into contracts or cooperative agreements,under this part for periods that are not more than 5 years in duration.
 
 (Pub. L. 89–329, title II, §221, as added Pub. L. 107–110, title X, §1051(3), Jan. 8, 2002, 115 Stat. 2080.)
 

@@ -2,71 +2,49 @@
 
 #### (a) Grant authorization
 
-The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety.
+The Attorney General shall carry out a single grant program under which the Attorney General makes grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia for the purposes described in subsection (b) of this section.
 
-#### (b) Rehiring, hiring, and initial redeployment grant projects
+#### (b) Uses of grant amounts
 
-#### (1) In general
+The purposes for which grants made under subsection (a) of this section may be made are—
 
-&emsp;Grants made under subsection (a) of this section may be used for programs, projects, and other activities to—
+&emsp;(1) rehire law enforcement officers who have been laid off as a result of State and local budget reductions for deployment in community-oriented policing;
 
-&emsp;&emsp;(A) rehire law enforcement officers who have been laid off as a result of State and local budget reductions for deployment in community-oriented policing;
+&emsp;(2) hire and train new, additional career law enforcement officers for deployment in community-oriented policing across the Nation;
 
-&emsp;&emsp;(B) hire and train new, additional career law enforcement officers for deployment in community-oriented policing across the Nation; and
+&emsp;(3) procure equipment, technology, or support systems, or pay overtime, to increase the number of officers deployed in community-oriented policing;
 
-&emsp;&emsp;(C) procure equipment, technology, or support systems, or pay overtime, if the applicant for such a grant demonstrates to the satisfaction of the Attorney General that expenditures for such purposes would result in an increase in the number of officers deployed in community-oriented policing equal to or greater than the increase in the number of officers that would result from a grant for a like amount for the purposes specified in subparagraph (A) or (B).
+&emsp;(4) award grants to pay for offices hired to perform intelligence, anti-terror, or homeland security duties;
 
-#### (2) Grants for equipment, technology, and support systems
+&emsp;(6) <sup>1</sup> increase the number of law enforcement officers involved in activities that are focused on interaction with members of the community on proactive crime control and prevention by redeploying officers to such activities;
 
-&emsp;Grants pursuant to paragraph (1)(C)—
+&emsp;(7) provide specialized training to law enforcement officers to enhance their conflict resolution, mediation, problem solving, service, and other skills needed to work in partnership with members of the community;
 
-&emsp;&emsp;(A) may not exceed 20 percent of the funds available for grants pursuant to this subsection in any fiscal year.<sup>1</sup>
+&emsp;(8) increase police participation in multidisciplinary early intervention teams;
 
-&emsp;&emsp;(B) may not be awarded in fiscal years <sup>2</sup> 1998, 1999, or 2000 unless the Attorney General has certified that grants awarded in fiscal years 1995, 1996, and 1997 pursuant to subparagraph <sup>3</sup> (1)(C) have resulted in an increase in the number of officers deployed in community-oriented policing equal to or greater than the increase in the number of officers that have resulted from the grants in like amounts awarded in fiscal years 1995, 1996, and 1997 pursuant to paragraph (1)(A) and (B).
+&emsp;(9) develop new technologies, including interoperable communications technologies, modernized criminal record technology, and forensic technology, to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime and to train law enforcement officers to use such technologies;
 
-#### (c) Troops-to-cops programs
+&emsp;(10) develop and implement innovative programs to permit members of the community to assist State and local law enforcement agencies in the prevention of crime in the community, such as a citizens’ police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
 
-#### (1) In general
+&emsp;(11) establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must be away from the community while awaiting court appearances;
 
-&emsp;Grants made under subsection (a) of this section may be used to hire former members of the Armed Forces to serve as career law enforcement officers for deployment in community-oriented policing, particularly in communities that are adversely affected by a recent military base closing.
+&emsp;(12) establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
-#### (2) “Former member of the Armed Forces” defined
+&emsp;(13) establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities;
 
-&emsp;In this subsection, “former member of the Armed Forces” means a member of the Armed Forces of the United States who is involuntarily separated from the Armed Forces within the meaning of section 1141 of title 10.
+&emsp;(14) develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
-#### (d) Additional grant projects
+&emsp;(15) assist a State in enforcing a law throughout the State which requires that a convicted sex offender register his or her address with a State or local law enforcement agency and be subject to criminal prosecution for failure to comply;
 
-Grants made under subsection (a) of this section may include programs, projects, and other activities to—
+&emsp;(16) establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members; and
 
-&emsp;(1) increase the number of law enforcement officers involved in activities that are focused on interaction with members of the community on proactive crime control and prevention by redeploying officers to such activities;
+&emsp;(17) support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing.
 
-&emsp;(2) provide specialized training to law enforcement officers to enhance their conflict resolution, mediation, problem solving, service, and other skills needed to work in partnership with members of the community;
+#### (c) Preferential consideration of applications for certain grants
 
-&emsp;(3) increase police participation in multidisciplinary early intervention teams;
+In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.
 
-&emsp;(4) develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;
-
-&emsp;(5) develop and implement innovative programs to permit members of the community to assist State and local law enforcement agencies in the prevention of crime in the community, such as a citizens’ police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
-
-&emsp;(6) establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must be away from the community while awaiting court appearances;
-
-&emsp;(7) establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
-
-&emsp;(8) establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities;
-
-&emsp;(9) develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
-
-&emsp;(10) assist a State in enforcing a law throughout the State which requires that a convicted sex offender register his or her address with a State or local law enforcement agency and be subject to criminal prosecution for failure to comply;
-
-&emsp;(11) establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members; and
-
-&emsp;(12) support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing.
-
-#### (e) Preferential consideration of applications for certain grants
-
-In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (i) of this section.
-
-#### (f) Technical assistance
+#### (d) Technical assistance
 
 #### (1) In general
 
@@ -80,37 +58,57 @@ In awarding grants under this subchapter, the Attorney General may give preferen
 
 &emsp;The technical assistance provided by the Attorney General may include the establishment and operation of training centers or facilities, either directly or by contracting or cooperative arrangements. The functions of the centers or facilities established under this paragraph may include instruction and seminars for police executives, managers, trainers, supervisors, and such others as the Attorney General considers to be appropriate concerning community or problem-oriented policing and improvements in police-community interaction and cooperation that further the purposes of the Public Safety Partnership and Community Policing Act of 1994.
 
-#### (g) Utilization of components
+#### (e) Utilization of components
 
 The Attorney General may utilize any component or components of the Department of Justice in carrying out this subchapter.
 
-#### (h) Minimum amount
+#### (f) Minimum amount
 
 Unless all applications submitted by any State and grantee within the State pursuant to subsection (a) of this section have been funded, each qualifying State, together with grantees within the State, shall receive in each fiscal year pursuant to subsection (a) of this section not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant to that subsection. In this subsection, “qualifying State” means any State which has submitted an application for a grant, or in which an eligible entity has submitted an application for a grant, which meets the requirements prescribed by the Attorney General and the conditions set out in this subchapter.
 
-#### (i) Matching funds
+#### (g) Matching funds
 
 The portion of the costs of a program, project, or activity provided by a grant under subsection (a) of this section may not exceed 75 percent, unless the Attorney General waives, wholly or in part, the requirement under this subsection of a non-Federal contribution to the costs of a program, project, or activity. In relation to a grant for a period exceeding 1 year for hiring or rehiring career law enforcement officers, the Federal share shall decrease from year to year for up to 5 years, looking toward the continuation of the increased hiring level using State or local sources of funding following the conclusion of Federal support, as provided in an approved plan pursuant to section 3796dd–1(c)(8) of this title.
 
-#### (j) Allocation of funds
+#### (h) Allocation of funds
 
 The funds available under this subchapter shall be allocated as provided in section 3793(a)(11)(B) of this title.
 
-#### (k) Termination of grants for hiring officers
+#### (i) Termination of grants for hiring officers
 
-The authority under subsection (a) of this section to make grants for the hiring and rehiring of additional career law enforcement officers shall lapse at the conclusion of 6 years from September 13, 1994. Prior to the expiration of this grant authority, the Attorney General shall submit a report to Congress concerning the experience with and effects of such grants. The report may include any recommendations the Attorney General may have for amendments to this subchapter and related provisions of law in light of the termination of the authority to make grants for the hiring and rehiring of additional career law enforcement officers.
+The authority under subsection (a) of this section to make grants for the hiring and rehiring of additional career law enforcement officers shall lapse at the conclusion of 6 years from September 13, 1994. Prior to the expiration of this grant authority, the Attorney General shall submit a report to Congress concerning the experience with and effects of such grants. The report may include any recommendations the Attorney General may have for amendments tothis subchapter and related provisions of law in light of the termination of the authority to make grants for the hiring and rehiring of additional career law enforcement officers.
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665.)
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119.)
 
 #### References in Text
 
-The Public Safety Partnership and Community Policing Act of 1994, referred to in subsec. (f)(1), (3), is title I of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1807, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 3711 of this title and Tables.
+The Public Safety Partnership and Community Policing Act of 1994, referred to in subsec. (d)(1), (3), is title I of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1807, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 3711 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–162, §1163(a)(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety.”
+
+Subsec. (b). Pub. L. 109–162, §1163(a)(3)(A), substituted “Uses of grant amounts” for “Additional grant projects” in subsec. heading and “The purposes for which grants made under subsection (a) of this section may be made are—” for “Grants made under subsection (a) of this section may include programs, projects, and other activities to—” in introductory provisions.
+
+Pub. L. 109–162, §1163(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to rehiring, hiring, and initial redeployment grant projects.
+
+Subsec. (b)(1) to (4). Pub. L. 109–162, §1163(a)(3)(C), added pars. (1) to (4). Former pars. (1) to (4) redesignated (6) to (9), respectively.
+
+Subsec. (b)(5). Pub. L. 109–162, §1163(a)(3)(B), redesignated par. (5) as (10).
+
+Subsec. (b)(6) to (8). Pub. L. 109–162, §1163(a)(3)(B), redesignated pars. (1) to (3) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (11) to (13), respectively.
+
+Subsec. (b)(9). Pub. L. 109–162, §1163(a)(3)(B), (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: “develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;”. Former par. (9) redesignated (14).
+
+Subsec. (b)(10) to (17). Pub. L. 109–162, §1163(a)(3)(B), redesignated pars. (5) to (12) as (10) to (17), respectively.
+
+Subsec. (c). Pub. L. 109–162, §1163(a)(2), (4), (5), redesignated subsec. (e) as (c), substituted “subsection (g) of this section” for “subsection (i) of this section”, and struck out former subsec. (c) which related to use of grants for troops-to-cops programs.
+
+Subsecs. (d) to (k). Pub. L. 109–162, §1163(a)(4), redesignated subsecs. (f) to (k) as (d) to (i), respectively. Former subsecs. (d) and (e) redesignated (b) and (c), respectively.
 
 2003—Subsec. (d)(10) to (12). Pub. L. 108–21 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
@@ -138,9 +136,5 @@ Section 10002 of title I of Pub. L. 103–322 provided that: “The purposes of 
 
 > by establishing a program of grants and assistance in furtherance of these objectives, including the authorization for a period of 6 years of grants for the hiring and rehiring of additional career law enforcement officers.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “year; and”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “year”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> No par. (5) has been enacted.</i>
 

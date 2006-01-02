@@ -6,15 +6,17 @@ Except as provided in section 1123(a)(4) of this title, a class of claims or int
 
 &emsp;(2) notwithstanding any contractual provision or applicable law that entitles the holder of such claim or interest to demand or receive accelerated payment of such claim or interest after the occurrence of a default—
 
-&emsp;&emsp;(A) cures any such default that occurred before or after the commencement of the case under this title, other than a default of a kind specified in section 365(b)(2) of this title;
+&emsp;&emsp;(A) cures any such default that occurred before or after the commencement of the case under this title, other than a default of a kind specified in section 365(b)(2) of this title or of a kind that section 365(b)(2) expressly does not require to be cured;
 
 &emsp;&emsp;(B) reinstates the maturity of such claim or interest as such maturity existed before such default;
 
-&emsp;&emsp;(C) compensates the holder of such claim or interest for any damages incurred as a result of any reasonable reliance by such holder on such contractual provision or such applicable law; and
+&emsp;&emsp;(C) compensates the holder of such claim or interest for any damages incurred as a result of any reasonable reliance by such holder on such contractual provision or such applicable law;
 
-&emsp;&emsp;(D) does not otherwise alter the legal, equitable, or contractual rights to which such claim or interest entitles the holder of such claim or interest.
+&emsp;&emsp;(D) if such claim or such interest arises from any failure to perform a nonmonetary obligation, other than a default arising from failure to operate a nonresidential real property lease subject to section 365(b)(1)(A), compensates the holder of such claim or such interest (other than the debtor or an insider) for any actual pecuniary loss incurred by such holder as a result of such failure; and
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, §508, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §213(d), Oct. 22, 1994, 108 Stat. 4126.)
+&emsp;&emsp;(E) does not otherwise alter the legal, equitable, or contractual rights to which such claim or interest entitles the holder of such claim or interest.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2633; Pub. L. 98–353, title III, §508, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §213(d), Oct. 22, 1994, 108 Stat. 4126; Pub. L. 109–8, title III, §328(b), Apr. 20, 2005, 119 Stat. 100.)
 
 #### Historical and Revision Notes
 
@@ -36,11 +38,11 @@ This section is designated to indicate when contractual rights of creditors or i
 
 First, the plan may propose not to alter the legal, equitable, or contractual rights to which the claim or interest entitled its holder.
 
-Second, a claim or interest is unimpaired by curing the effect of a default and reinstating the original terms of an obligation when maturity was brought on or accelerated by the default. The intervention of bankruptcy and the defaults represent a temporary crisis which the plan of reorganization is intended to clear away. The holder of a claim or interest who under the plan is restored to his original position, when others receive less or get nothing at all, is fortunate indeed and has no cause to complain. Curing of the default and the assumption of the debt in accordance with its terms is an important reorganization technique for dealing with a particular class of claims, especially secured claims.
+Second, a claim or interest is unimpaired by curing the effect of a default and reinstating the originalterms of an obligation when maturity was brought on or accelerated by the default. The intervention of bankruptcy and the defaults represent a temporary crisis which the plan of reorganization is intended to clear away. The holder of a claim or interest who under the plan is restored to his original position, when others receive less or get nothing at all, is fortunate indeed and has no cause to complain. Curing of the default and the assumption of the debt in accordance with its terms is an important reorganization technique for dealing with a particular class of claims, especially secured claims.
 
 Third, a claim or interest is unimpaired if the plan provides for their payment in cash. In the case of a debt liability, the cash payment is for the allowed amount of the claim, which does not include a redemption premium. If it is an equity security with a fixed liquidation preference, such as a preferred stock, the allowed amount is such liquidation preference, with no redemption premium. With respect to any other equity security, such as a common stock, cash payment must be equal to the “value of such holder's interest in the debtor.”
 
-Section 1124 does not include payment “in property” other than cash. Except for a rare case, claims or interests are not by their terms payable in property, but a plan may so provide and those affected thereby may accept or reject the proposed plan. They may not beforced to accept a plan declaring the holders’ claims or interests to be “unimpaired.”
+Section 1124 does not include payment “in property” other than cash. Except for a rare case, claims or interests are not by their terms payable in property, but a plan may so provide and those affected thereby may accept or reject the proposed plan. They may not be forced to accept a plan declaring the holders’ claims or interests to be “unimpaired.”
 
 #### house report no. 95–595
 
@@ -56,6 +58,10 @@ Third, the plan may leave a claim or interest unimpaired by paying its amount in
 
 #### Amendments
 
+2005—Par. (2)(A). Pub. L. 109–8, §328(b)(1), inserted “or of a kind that section 365(b)(2) expressly does not require to be cured” before semicolon at end.
+
+Par. (2)(D), (E). Pub. L. 109–8, §328(b)(2)–(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+
 1994—Par. (3). Pub. L. 103–394 struck out par. (3) which read as follows: “provides that, on the effective date of the plan, the holder of such claim or interest receives, on account of such claim or interest, cash equal to—
 
 &emsp;“(A) with respect to a claim, the allowed amount of such claim; or
@@ -69,6 +75,10 @@ Third, the plan may leave a claim or interest unimpaired by paying its amount in
 1984—Par. (2)(A). Pub. L. 98–353, §508(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “cures any such default, other than a default of a kind specified in section 365(b)(2) of this title, that occurred before or after the commencement of the case under this title;”.
 
 Par. (3)(B)(i). Pub. L. 98–353, §508(2), substituted “or” for “and”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

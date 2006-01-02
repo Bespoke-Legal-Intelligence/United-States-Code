@@ -2,7 +2,7 @@
 
 In carrying out the provisions of this chapter, the Secretary, or any Government agency authorized to administer such provisions, may—
 
-&emsp;(1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions andprocedures as may be established by the Director of the United States Information Agency and the Attorney General;
+&emsp;(1) employ, without regard to the civil service and classification laws, aliens within the United States and abroad for service in the United States relating to the translation or narration of colloquial speech in foreign languages or the preparation and production of foreign language programs when suitably qualified United States citizens are not available when job vacancies occur, and aliens so employed abroad may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions and procedures as may be established by the Director of the United States Information Agency and the Attorney General;
 
 &emsp;(2) pay travel expenses of aliens employed abroad for service in the United States and their dependents to and from the United States;
 
@@ -20,7 +20,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 &emsp;(9) pay to or for individuals, not United States Government employees, participating in activities conducted under this chapter, the costs of emergency medical expenses, preparation and transport to their former homes of the remains of such participants or their dependents who die while away from their homes during such participation, and health and accident insurance premiums for participants or health and accident benefits for participants by means of a program of self-insurance;
 
-&emsp;(10) rent or lease, for periods not exceeding ten years, offices, buildings, grounds, and living quarters abroad for employees carrying out this chapter, and make payments therefor in advance;
+&emsp;(10) rent or lease, for periods not exceeding ten years, offices, buildings, grounds, and living quarters abroad for employees carryingout this chapter, and make payments therefor in advance;
 
 &emsp;(11) maintain, improve, and repair properties used for information activities in foreign countries;
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 96–60 effective Oct. 1, 1979, and applicable only with re
 
 #### Transfer of Functions
 
-“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in par. (1) pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title, which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and Director thereof. UnitedStates Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+“Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in par. (1) pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title, which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and Director thereof. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Authority To Administer Summer Travel and Work Programs
 

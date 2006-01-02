@@ -50,7 +50,7 @@ Time Period and Extensions.—(1) An order issued under this section shall autho
 
 (d)
 
-Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—An order authorizing or approving the installation anduse of a pen register or a trap and trace device shall direct that—
+Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—An order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that—
 
 &emsp;(1) the order be sealed until otherwise ordered by the court; and
 

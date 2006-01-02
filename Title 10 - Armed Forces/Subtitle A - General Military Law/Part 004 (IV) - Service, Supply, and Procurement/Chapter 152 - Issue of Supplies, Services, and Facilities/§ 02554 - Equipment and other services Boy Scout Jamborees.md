@@ -4,9 +4,9 @@
 
 (b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to be returned at such time after the close of any such jamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the United States Government for the delivery, return, rehabilitation, or replacement of such equipment.
 
-(c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts ofAmerica, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
+(c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts of America, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
 
-(d) The Secretary of Defense is hereby authorized under such regulations as he may prescribe, to provide, without expense to the United States Government, transportation from the United States or military commands overseas, and return, on vessels of the Military Sealift Command or aircraft of the Air Mobility Command for (1) those Boy Scouts, Scouters, and officials certified by the Boy Scouts of America, as representing the Boy Scouts of America at any national or world Boy Scout Jamboree, and (2) the equipment and property of such Boy Scouts, Scouters, and officials and the property loaned to the Boy Scouts of America, by the Secretary of Defense pursuant to this section to the extent that such transportation will not interfere with the requirements of military operations.
+(d) The Secretary of Defense is hereby authorized under such regulations as he may prescribe, to provide, without expense to the United StatesGovernment, transportation from the United States or military commands overseas, and return, on vessels of the Military Sealift Command or aircraft of the Air Mobility Command for (1) those Boy Scouts, Scouters, and officials certified by the Boy Scouts of America, as representing the Boy Scouts of America at any national or world Boy Scout Jamboree, and (2) the equipment and property of such Boy Scouts, Scouters, and officials and the property loaned to the Boy Scouts of America, by the Secretary of Defense pursuant to this section to the extent that such transportation will not interfere with the requirements of military operations.
 
 (e) Before furnishing any transportation under subsection (d), the Secretary of Defense shall take from the Boy Scouts of America, a good and sufficient bond for the reimbursement to the United States by the Boy Scouts of America, of the actual costs of transportation furnished under this section.
 
@@ -16,7 +16,23 @@
 
 (h) Other departments of the Federal Government are authorized, under such regulations as may be prescribed by the Secretary thereof, to provide to the Boy Scouts of America, equipment and other services, under the same conditions and restrictions prescribed in the preceding subsections for the Secretary of Defense.
 
-(Added Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, §2544; amended Pub. L. 104–106, div. A, title III, §376, Feb. 10, 1996, 110 Stat. 283; renumbered §2554, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260l; Pub. L. 107–107, div. A, title IX, §931(a), Dec. 28, 2001, 115 Stat. 1200.)
+(i)(1) <sup>1</sup> The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboree as was provided under this section for the preceding national or world Boy Scout Jamboree.
+
+(2) The Secretary of Defense may waive paragraph (1), if the Secretary—
+
+&emsp;(A) determines that providing the support subject to paragraph (1) would be detrimental to the national security of the United States; and
+
+&emsp;(B) reports such a determination to the Congress in a timely manner, and before such support is not provided.
+
+(i)(1) <sup>1</sup> The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboree as was provided under this section for the preceding national or world Boy Scout Jamboree.
+
+(2) The Secretary of Defense may waive paragraph (1), if the Secretary—
+
+&emsp;(A) determines that providing the support subject to paragraph (1) would be detrimental to the national security of the United States; and
+
+&emsp;(B) submits to Congress a report containing such determination in a timely manner, and before the waiver takes effect.
+
+(Added Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, §2544; amended Pub. L. 104–106, div. A, title III, §376, Feb. 10, 1996, 110 Stat. 283; renumbered §2554, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260l; Pub. L. 107–107, div. A, title IX, §931(a), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–148, div. A, title VIII, §8126(c)(2), Dec. 30, 2005, 119 Stat. 2729; Pub. L. 109–163, div. A, title X, §1058(c), Jan. 6, 2006, 119 Stat. 3443.)
 
 #### Prior Provisions
 
@@ -24,9 +40,31 @@ A prior section 2554 was renumbered section 2564 of this title.
 
 #### Amendments
 
+2006—Subsec. (i). Pub. L. 109–163 added subsec. (i), relating to Department of Defense support for Scout Jamborees, set out second.
+
+2005—Subsec. (i). Pub. L. 109–148 added subsec. (i), relating to Department of Defense support for Scout Jamborees, set out first.
+
 2001—Subsec. (d). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
 
 2000—Pub. L. 106–398 renumbered section 2544 of this title as this section.
 
 1996—Subsecs. (g), (h). Pub. L. 104–106 added subsec. (g) and redesignated former subsec. (g) as (h).
+
+#### Support for Scout Jamborees
+
+Pub. L. 109–148, div. A, title VIII, §8126(c)(1), Dec. 30, 2005, 119 Stat. 2729, provided that: “Congress makes the following findings:
+
+&emsp;“(A) Section 8 of article I of the Constitution of the United States commits exclusively to Congress the powers to raise and support armies, provide and maintain a Navy, and make rules for the government and regulation of the land and naval forces.
+
+&emsp;“(B) Under those powers conferred by section 8 of article I of the Constitution of the United States to provide, support, and maintain the Armed Forces, it lies within the discretion of Congress to provide opportunities to train the Armed Forces.
+
+&emsp;“(C) The primary purpose of the Armed Forces is to defend our national security and prepare for combat should the need arise.
+
+&emsp;“(D) One of the most critical elements in defending the Nation and preparing for combat is training in conditions that simulate the preparation, logistics, and leadership required for defense and combat.
+
+&emsp;“(E) Support for youth organization events simulates the preparation, logistics, and leadership required for defending our national security and preparing for combat.
+
+&emsp;“(F) For example, Boy Scouts of America's National Scout Jamboree is a unique training event for the Armed Forces, as it requires the construction, maintenance, and disassembly of a ‘tent city’ capable of supporting tens of thousands of people for a week or longer. Camporees at the United States Military Academy for Girl Scouts and Boy Scouts provide similar training opportunities on a smaller scale.”
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

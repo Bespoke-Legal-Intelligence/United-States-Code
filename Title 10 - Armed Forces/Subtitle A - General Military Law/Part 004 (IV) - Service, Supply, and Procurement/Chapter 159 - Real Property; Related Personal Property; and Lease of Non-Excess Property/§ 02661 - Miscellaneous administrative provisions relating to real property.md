@@ -1,12 +1,16 @@
 ### §2661. Miscellaneous administrative provisions relating to real property
 
-(a) Appropriations for operation and maintenance of the active forces shall be available for the following:
+(a)
+
+Availability of Operation and Maintenance Funds.—Appropriations for operation and maintenance of the active forces shall be available for the following:
 
 &emsp;(1) The repair of facilities.
 
 &emsp;(2) The installation of equipment in public and private plants.
 
-(b) The Secretary of Defense and the Secretary of each military department may provide for the following:
+(b)
+
+Leasing and Road Maintenance Authority.—The Secretary of Defense and the Secretary of each military department may provide for the following:
 
 &emsp;(1) The leasing of buildings and facilities (including the payment of rentals for special purpose space at the seat of Government). Rental for such leases may be paid in advance in connection with—
 
@@ -16,7 +20,13 @@
 
 &emsp;(2) The maintenance of defense access roads which are certified to the Secretary of Transportation as important to the national defense under the provisions of section 210 of title 23.
 
-(Added Pub. L. 100–370, §1(<i>l</i>)(3), July 19, 1988, 102 Stat. 849.)
+\[(c) Renumbered §2664(b)\]
+
+(d)
+
+Treatment of Pentagon Reservation.—In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.
+
+(Added Pub. L. 100–370, §1(<i>l</i>)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, §2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, §2821(d), (e), Jan. 6, 2006, 119 Stat. 3512.)
 
 #### Historical and Revision Notes
 
@@ -27,6 +37,16 @@ Subsection (b) is based on Pub. L. 99–190, §101(b) \[title VIII, §8005(d), (
 #### Prior Provisions
 
 A prior section 2661, act Aug. 10, 1956, ch. 1041, 70A Stat. 147, related to planning and construction of public works projects by military departments, prior to repeal by Pub. L. 97–214, §7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
+
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–163, §2821(d), redesignated subsec. (c) as section 2664(b) of this title.
+
+Subsec. (d). Pub. L. 109–163, §2821(e), added subsec. (d).
+
+2004—Subsecs. (a), (b). Pub. L. 108–375, §2821(e)(1), inserted headings.
+
+Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 
 #### Pilot Program to Provide Additional Tools for Efficient Operation of Military Installations
 
@@ -84,7 +104,7 @@ Installation Efficiency Initiative Fund.—(1) There is established on the books
 
 “(2) There shall be deposited in the Fund all cash rents, payments, reimbursements, proceeds, and other amounts from leases, sales, or other conveyances or transfers, joint activities, and other actions taken under the Initiative.
 
-“(3) To the extent provided in advance in authorization Acts and appropriations Acts, amounts in the Fund shall be available to the Secretary of Defense forpurposes of managing capital assets and providing support services at military installations participating in the Initiative. Amounts in the Fund may be used for such purposes in addition to, or in combination with, other amounts authorized to be appropriated for such purposes. Amounts in the Fund shall be available for such purposes for five years.
+“(3) To the extent provided in advance in authorization Acts and appropriations Acts, amounts in the Fund shall be available to the Secretary of Defense for purposes of managing capital assets and providing support services at military installations participating in the Initiative. Amounts in the Fund may be used for such purposes in addition to, or in combination with, other amounts authorized to be appropriated for such purposes. Amounts in the Fund shall be available for such purposes for five years.
 
 “(4) Subject to applicable financial management regulations, the Secretary shall structure the Fund, and provide administrative policies and procedures, in order to provide proper control of deposits in and disbursements from the Fund.
 

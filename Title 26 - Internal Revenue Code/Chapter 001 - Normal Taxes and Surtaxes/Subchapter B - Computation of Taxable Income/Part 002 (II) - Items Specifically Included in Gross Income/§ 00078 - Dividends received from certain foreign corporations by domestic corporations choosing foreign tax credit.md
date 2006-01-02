@@ -16,7 +16,3 @@ Amendment by Pub. L. 94–455 applicable on different dates depending on the dat
 
 Section applicable in respect of any distribution received by a domestic corporation after Dec. 31, 1964, and in respect of any distribution received by a domestic corporation before Jan. 1, 1965, in a taxable year of such corporation beginning after Dec. 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after Dec. 31, 1962, see section 9(e) of Pub. L. 87–834, set out as an Effective Date of 1962 Amendment note under section 902 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 814, 901, 902, 904, 906, 908, 1291 of this title.
-

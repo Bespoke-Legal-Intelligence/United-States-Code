@@ -32,7 +32,7 @@
 
 <i>Pub. L. 102–251, title III, §§303, 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (f) to (m) as (g) to (n), respectively, and by inserting after subsection (e) the following new subsection:</i>
 
-(f) “Jurisdiction of the United States” includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadthof the territorial sea of the United States is measured.
+(f) “Jurisdiction of the United States” includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(1)\], Dec. 21, 2000, 11
 
 #### Short Title of 1983 Amendment
 
-Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
+Section 1 of Pub. L. 98–129 provided: “That this Act \[amending this chapter generally, sections 8332 and 8334of Title 5, Government Organization and Employees, and section 450i of Title 25, Indians\] may be cited as the ‘Fur Seal Act Amendments of 1983’.”
 
 #### Short Title
 

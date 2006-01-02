@@ -32,6 +32,8 @@ Authority To Accept Services.—Subject to subsection (b) and notwithstanding se
 
 &emsp;(7) Voluntary translation or interpretation services offered with respect to a foreign language by a person (A) who is registered for such foreign language on the National Foreign Language Skills Registry under section 1596b of this title, or (B) who otherwise is approved to provide voluntary translation or interpretation services for national security purposes, as determined by the Secretary of Defense.
 
+&emsp;(8) Voluntary services to support programs of a committee of the Employer Support of the Guard and Reserve as authorized by the Secretary of Defense.
+
 (b)
 
 Requirements and Limitations.—(1) The Secretary concerned shall notify the person of the scope of the services accepted.
@@ -58,7 +60,7 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(A) Subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries).
 
-&emsp;(B) Section 2733 of this title and chapter 171 of title 28 (relating to claims for damages or loss).
+&emsp;(B) Section 2733 of this title and chapter 171 of title 28 (relating to claims for damages or loss) and the Act of March 9, 1920, commonly known as the “Suits in Admiralty Act” (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the “Public Vessels Act” (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters).
 
 &emsp;(C) Section 552a of title 5 (relating to maintenance of records on individuals).
 
@@ -86,7 +88,7 @@ Reimbursement of Incidental Expenses.—The Secretary concerned may provide for 
 
 (f)
 
-Authority To Install Equipment.—(1) The Secretary concerned may install telephone lines and any necessary telecommunication equipment in the private residences of persons, designated in accordance with the regulations prescribed under paragraph (4), who provide voluntary services accepted under subsection (a)(3).
+Authority To Install Equipment.—(1) The Secretary concerned may install telephone lines and any necessary telecommunication equipment in the private residences of persons, designated in accordance with the regulations prescribed under paragraph (4), who provide voluntary services accepted under paragraph (3) or (8) of subsection (a).
 
 (2) In the case of equipment installed under the authority of paragraph (1), the Secretary concerned may pay the charges incurred for the use of the equipment for authorized purposes.
 
@@ -94,9 +96,21 @@ Authority To Install Equipment.—(1) The Secretary concerned may install teleph
 
 (4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security shall prescribe regulations to carry out this subsection.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654.)
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, §516, title X, §1081, Oct. 28, 2004, 118 Stat. 1884, 2059.)
+
+#### References in Text
+
+The Suits in Admiralty Act, referred to in subsec. (d)(1)(B), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, as amended, which is classified generally to chapter 20 (§741 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see Short Title note set out under section 741 of Title 46, Appendix, and Tables.
+
+The Public Vessels Act, referred to in subsec. (d)(1)(B), is act Mar. 3, 1925, ch. 428, 43 Stat. 1112, as amended, which is classified generally to chapter 22 (§781 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see Short Title note set out under section 781 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+2004—Subsec. (a)(8). Pub. L. 108–375, §516(1), added par. (8).
+
+Subsec. (d)(1)(B). Pub. L. 108–375, §1081, inserted before period at end “and the Act of March 9, 1920, commonly known as the ‘Suits in Admiralty Act’ (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the ‘Public Vessels Act’ (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters)”.
+
+Subsec. (f)(1). Pub. L. 108–375, §516(2), substituted “paragraph (3) or (8) of subsection (a)” for “subsection (a)(3)”.
 
 2002—Subsec. (a)(6). Pub. L. 107–314, §553, added par. (6).
 
@@ -151,8 +165,4 @@ Section 1061(b) of Pub. L. 103–337 provided that:
 “(2) The Secretary may not accept voluntary services under section 1588 of title 10, United States Code (other than services that may have been accepted under such section before the date of the enactment of this Act \[Oct. 5, 1994\]), and may not issue regulations to implement the amendment to such section made by subsection (a), until after the termination of the pilot program.
 
 “(3) Not later than 60 days after the termination of the pilot program, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the pilot program.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 8171.
 

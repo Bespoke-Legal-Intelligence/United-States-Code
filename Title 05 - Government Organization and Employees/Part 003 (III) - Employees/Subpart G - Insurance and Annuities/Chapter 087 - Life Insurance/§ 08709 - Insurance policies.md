@@ -12,7 +12,7 @@
 
 (d)(1) The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any law of any State or political subdivision thereof, or any regulation issued thereunder, which relates to group life insurance to the extent that the law or regulation is inconsistent with the contractual provisions.
 
-(2) For the purpose of this section, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
+(2) For the purpose of this section, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico,and a territory or possession of the United States.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, §5(a), Oct. 10, 1980, 94 Stat. 1834.)
 

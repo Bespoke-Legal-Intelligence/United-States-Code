@@ -32,7 +32,7 @@ A prior section 4962 was renumbered section 4963 of this title.
 
 Subsec. (a). Pub. L. 100–203, §10712(b)(2), substituted “any qualified first tier tax” for “any private foundation first tier tax” in closing provisions.
 
-Subsec. (b). Pub. L. 100–203, §10712(b)(1), added subsec. (b) and struck out former subsec. (b) “Private foundation first tier tax” which read as follows: “For purposesof this section, the term ‘private foundation first tier tax’ means any first tier tax imposed by subchapter A of chapter 42, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).”
+Subsec. (b). Pub. L. 100–203, §10712(b)(1), added subsec. (b) and struck out former subsec. (b) “Private foundation first tier tax” which read as follows: “For purposes of this section, the term ‘private foundation first tier tax’ means any first tier tax imposed by subchapter A of chapter 42, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).”
 
 Subsec. (c). Pub. L. 100–203, §10712(b)(1), added subsec. (c).
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 #### Effective Date
 
 Section 305(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section, redesignating former section 4962 as 4963, and amending sections 4942, 6213, and 6503 of this title\] shall apply to taxable events occurring after December 31, 1984.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6033 of this title.
 

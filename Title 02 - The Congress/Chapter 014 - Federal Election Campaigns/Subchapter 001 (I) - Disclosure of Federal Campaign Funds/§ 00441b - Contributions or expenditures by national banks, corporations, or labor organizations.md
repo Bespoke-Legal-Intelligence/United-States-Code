@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-It is unlawful for any national bank, or any corporation organized by authority of any law of Congress, to make a contribution or expenditure in connection with any election to any political office, or in connection with any primary election or political convention or caucus held to select candidates for any political office, or for any corporation whatever, or any labor organization, to make a contribution or expenditure in connection with any election at which presidential and vice presidential electors or a Senator or Representative in, or a Delegate or Resident Commissioner to, Congress are to be voted for, or in connection with any primary election or political convention or caucus held to select candidates for any of the foregoing offices, or for any candidate, political committee, or other person knowingly to accept or receive any contribution prohibited by this section, or any officer or any director of any corporation or any national bank or any officer of any labor organization to consent to any contribution or expenditure by the corporation, national bank, or labor organization, as the case may be, prohibited by this section.
+It is unlawful for any national bank, or any corporation organized by authority of any law ofCongress, to make a contribution or expenditure in connection with any election to any political office, or in connection with any primary election or political convention or caucus held to select candidates for any political office, or for any corporation whatever, or any labor organization, to make a contribution or expenditure in connection with any election at which presidential and vice presidential electors or a Senator or Representative in, or a Delegate or Resident Commissioner to, Congress are to be voted for, or in connection with any primary election or political convention or caucus held to select candidates for any of the foregoing offices, or for any candidate, political committee, or other person knowingly to accept or receive any contribution prohibited by this section, or any officer or any director of any corporation or any national bank or any officer of any labor organization to consent to any contribution or expenditure by the corporation, national bank, or labor organization, as the case may be, prohibited by this section.
 
 #### (b) Definitions; particular activities prohibited or allowed
 
 (1) For the purposes of this section the term “labor organization” means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
-(2) For purposes of this section and section 79<i>l</i>(h) of title 15, the term “contribution or expenditure” includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a national or State bank made in accordance with the applicable banking laws and regulations and in the ordinary course of business) to any candidate, campaign committee, or political party or organization, in connection with any election to any of the offices referred to in this section or for any applicable electioneering communication, but shall not include (A) communications by a corporation to its stockholders and executive or administrative personnel and their families or by a labor organization to its members and their families on any subject; (B) nonpartisan registration and get-out-the-vote campaigns by a corporation aimed at its stockholders and executive or administrative personnel and their families, or by a labor organization aimed at its members and their families; and (C) the establishment, administration, and solicitation of contributions to a separate segregated fund to be utilized for political purposes by a corporation, labor organization, membership organization, cooperative, or corporation without capital stock.
+(2) For purposes of this section and section 79<i>l</i>(h) of title 15,<sup>1</sup> the term “contribution or expenditure” includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a national or State bank made in accordance with the applicable banking laws and regulations and in the ordinary course of business) to any candidate, campaign committee, or political party or organization, in connection with any election to any of the offices referred to in this section or for any applicable electioneering communication, but shall not include (A) communications by a corporation to its stockholders and executive or administrative personnel and their families or by a labor organization to its members and their families on any subject; (B) nonpartisan registration and get-out-the-vote campaigns by a corporation aimed at its stockholders and executive or administrative personnel and their families, or by a labor organization aimed at its members and their families; and (C) the establishment, administration, and solicitation of contributions to a separate segregated fund to be utilized for political purposes by a corporation, labor organization, membership organization, cooperative, or corporation without capital stock.
 
 (3) It shall be unlawful—
 
@@ -16,7 +16,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 &emsp;(B) for any person soliciting an employee for a contribution to such a fund to fail to inform such employee of the political purposes of such fund at the time of such solicitation; and
 
-&emsp;(C) for any person soliciting an employee for a contribution to such a fund to fail to informsuch employee, at the time of such solicitation, of his right to refuse to so contribute without any reprisal.
+&emsp;(C) for any person soliciting an employee for a contribution to such a fund to fail to inform such employee, at the time of such solicitation, of his right to refuse to so contribute without any reprisal.
 
 (4)(A) Except as provided in subparagraphs (B), (C), and (D), it shall be unlawful—
 
@@ -64,7 +64,7 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 &emsp;&emsp;&emsp;(i) an organization described in section 501(c)(4) of title 26 and exempt from taxation under section 501(a) of such title; or
 
-&emsp;&emsp;&emsp;(ii) an organization which has submitted an application to the Internal RevenueService for determination of its status as an organization described in clause (i); and
+&emsp;&emsp;&emsp;(ii) an organization which has submitted an application to the Internal Revenue Service for determination of its status as an organization described in clause (i); and
 
 &emsp;&emsp;(B) a person shall be treated as having made a disbursement if the person has executed a contract to make the disbursement.
 
@@ -88,6 +88,10 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 (Pub. L. 92–225, title III, §316, formerly §321, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 490; renumbered §316 and amended Pub. L. 96–187, title I, §§105(5), 112(d), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 107–155, title II, §§203, 204, 214(d), Mar. 27, 2002, 116 Stat. 91, 92, 95.)
 
+#### References in Text
+
+Section 79<i>l</i> of title 15, referred to in subsec. (b)(2), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
+
 #### Prior Provisions
 
 A prior section 316 of Pub. L. 92–225 was renumbered section 312, and is classified to section 439 of this title.
@@ -96,7 +100,7 @@ Another prior section 316 of Pub. L. 92–225 was renumbered section 311, and is
 
 #### Amendments
 
-2002—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted “ ‘contribution or expenditure’ includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes” for “ ‘contribution or expenditure’ shall include” and inserted “or for any applicable electioneering communication” before “, but shall not include (A)”.
+2002—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted “ ‘contribution or expenditure’ includes a contribution or expenditure, as those terms are definedin section 431 of this title, and also includes” for “ ‘contribution or expenditure’ shall include” and inserted “or for any applicable electioneering communication” before “, but shall not include (A)”.
 
 Subsec. (c). Pub. L. 107–155, §203(b), added subsec. (c).
 
@@ -111,4 +115,6 @@ Amendment by Pub. L. 107–155 effective Nov. 6, 2002, but not applicable with r
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 (b) The provisions of this chapter shall not apply with respect to—
 
-&emsp;(1) any individual who has performed service of a type described in subparagraph (C), (D), (E), or (F) of section 210(a)(5) of the Social Security Act continuously since December 31, 1983 (determined in accordance with the provisions of section 210(a)(5)(B) of the Social Security Act, relating to continuity of employment); or
+&emsp;(1) any individual who has performed service of a type described in subparagraph (C), (D),\(E), or (F) of section 210(a)(5) of the Social Security Act continuously since December 31, 1983 (determined in accordance with the provisions of section 210(a)(5)(B) of the Social Security Act, relating to continuity of employment); or
 
 &emsp;(2)(A) any employee or Member who has separated from the service after—
 
@@ -38,7 +38,7 @@
 
 (4) The Director or Acting Director of the Botanic Garden may exclude from the operation of this chapter an employee under the Botanic Garden whose employment is temporary or of uncertain duration.
 
-(5) The Chief Administrative Officer of the House of Representatives and the Secretary ofthe Senate each may exclude from the operation of this chapter a Congressional employee—
+(5) The Chief Administrative Officer of the House of Representatives and the Secretary of the Senate each may exclude from the operation of this chapter a Congressional employee—
 
 &emsp;(A) whose employment is temporary or intermittent; and
 
@@ -62,7 +62,7 @@
 
 &emsp;(2) subsequently enters a position in which, but for paragraph (2) of subsection (b), such individual would be subject to this chapter.
 
-(e) A bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate judge shall be entitled to a lump-sum credit under section 8424 of this title.
+(e) A bankruptcy judge or magistrate judge who is covered by section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Actof 1988 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge or magistrate judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge or magistrate judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
 (f) A judge who is covered by section 7296 of title 38 shall be excluded from the operation of this chapter if the judge notifies the Director of the Office of Personnel Management of an election of a retirement annuity under that section. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
@@ -88,7 +88,7 @@ Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges 
 
 &emsp;“(i) having been subject to subchapter III of chapter 83 of this title, or subchapter I of chapter 8 of the Foreign Service Act of 1980; and
 
-&emsp;“(ii) having completed at least 5 years of civilian service creditable under subchapter III of chapter 83of this title, or at least 5 years of civilian service creditable under subchapter I of the Foreign Service Act of 1980 (determined without regard to any deposit or redeposit requirement under either such subchapter, or any requirement that the individual become subject to either such subchapter after performing the service involved); or”.
+&emsp;“(ii) having completed at least 5 years of civilian service creditable under subchapter III of chapter 83 of this title, or at least 5 years of civilian service creditable under subchapter I of the Foreign Service Act of 1980 (determined without regard to any deposit or redeposit requirement under either such subchapter, or any requirement that the individual become subject to either such subchapter after performing the service involved); or”.
 
 Subsec. (d). Pub. L. 106–168, §202(b)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.”
 
@@ -132,7 +132,7 @@ In general.—Subject to succeeding provisions of this subsection, this section 
 
 “(2)
 
-Provisions relating to creditability and certain former employees.—The amendments made by subsection (a) \[amending section 8411 of this title\] and the provisions of subsection (c) \[set out as a note below\] shall apply only to individuals who separate from service subject to chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Dec. 12, 1999\].
+Provisions relating to creditability and certain former employees.—The amendments made by subsection (a) \[amending section 8411 of this title\] andthe provisions of subsection (c) \[set out as a note below\] shall apply only to individuals who separate from service subject to chapter 84 of title 5, United States Code, on or after the date of the enactment of this Act \[Dec. 12, 1999\].
 
 “(3)
 

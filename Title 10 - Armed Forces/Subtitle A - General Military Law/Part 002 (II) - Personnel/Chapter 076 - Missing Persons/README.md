@@ -22,10 +22,6 @@
 
 1996—Pub. L. 104–201, div. A, title V, §578(f)(2)(B), Sept. 23, 1996, 110 Stat. 2537, struck out “, special interest” after “Preenactment” in item 1509.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 655 of this title; title 37 sections 552, 553.
-
 
 ---
 

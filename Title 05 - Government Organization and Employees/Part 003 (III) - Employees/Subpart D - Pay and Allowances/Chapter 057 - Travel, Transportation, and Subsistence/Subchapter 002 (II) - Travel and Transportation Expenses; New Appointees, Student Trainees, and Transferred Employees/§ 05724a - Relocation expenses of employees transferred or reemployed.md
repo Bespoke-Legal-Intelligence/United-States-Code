@@ -112,7 +112,7 @@ Subsec. (b)(1). Pub. L. 105–264, §7(2), substituted “Under regulations pres
 
 Subsec. (b)(1)(B)(ii). Pub. L. 105–264, §7(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “an amount for subsistence expenses.”
 
-Subsec. (c)(1). Pub. L. 105–264, §7(2), substituted “Under regulations prescribed under section 5738, anagency may pay” for “An agency may pay” in introductory provisions.
+Subsec. (c)(1). Pub. L. 105–264, §7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
 
 Subsec. (c)(1)(B). Pub. L. 105–264, §7(4), substituted “an amount for subsistence expenses, that may not exceed a maximum amount determined by the Administrator of General Services,” for “an amount for subsistence expenses”.
 
@@ -186,7 +186,7 @@ Amendment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States
 
@@ -194,5 +194,5 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat.
 
 #### Funding of Amendments by Pub. L. 98–151
 
-Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
+Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwiseavailable for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 

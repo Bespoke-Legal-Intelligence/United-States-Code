@@ -46,7 +46,7 @@ Sealed bids shall be opened publicly at the time and place stated in the solicit
 
 (4) Each solicitation for competitive proposals shall include a statement that information described in paragraph (2) may be disclosed in post-award debriefings.
 
-(5) If, within one year after the date of the contract award and as a result of a successful procurement protest, the executive agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the head of such executive agency shall make available to all offerors—
+(5) If, within one year after the date of the contract award and as a result of a successfulprocurement protest, the executive agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the head of such executive agency shall make available to all offerors—
 
 &emsp;(A) the information provided in debriefings under this subsection regarding the offer of the contractor awarded the contract; and
 
@@ -118,7 +118,7 @@ If, in connection with a protest, the head of an executive agency determines tha
 
 (1) Except as provided in paragraph (2), a proposal in the possession or control of an executive agency may not be made available to any person under section 552 of title 5.
 
-(2) Paragraph (1) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between theagency and the contractor that submitted the proposal.
+(2) Paragraph (1) does not apply to any proposal that is set forth or incorporated by reference in a contract entered into between the agency and the contractor that submitted the proposal.
 
 (3) In this subsection, the term “proposal” means any proposal, including a technical, management, or cost proposal, submitted by a contractor in response to the requirements of a solicitation for a competitive proposal.
 

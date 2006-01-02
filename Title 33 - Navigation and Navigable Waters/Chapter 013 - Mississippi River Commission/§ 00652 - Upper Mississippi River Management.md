@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (c) Congressional approval of Master Plan
 
-(1) Congress hereby approves the Master Plan as a guide for future water policy on the Upper Mississippi River system. Such approval shall not constitute authorization of any recommendation contained in the Master Plan.
+(1) Congress hereby approves the Master Plan as a guide for future water policy on the UpperMississippi River system. Such approval shall not constitute authorization of any recommendation contained in the Master Plan.
 
 (2) Omitted.
 
@@ -94,7 +94,7 @@ The Secretary shall, in his budget request, identify those measures developed by
 
 #### (h) Monitoring of traffic movements
 
-(1) The Secretary, in consultation with any agency established under subsection (d)(1) ofthis section, shall monitor traffic movements on the system for the purpose of verifying lock capacity, updating traffic projections, and refining the economic evaluation so as to verify the need for future capacity expansion of the system.
+(1) The Secretary, in consultation with any agency established under subsection (d)(1) of this section, shall monitor traffic movements on the system for the purpose of verifying lock capacity, updating traffic projections, and refining the economic evaluation so as to verify the need for future capacity expansion of the system.
 
 (2)
 

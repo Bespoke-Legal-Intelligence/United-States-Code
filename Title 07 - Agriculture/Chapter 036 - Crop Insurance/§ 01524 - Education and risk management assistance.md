@@ -96,7 +96,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;For each of fiscal years 2003 through 2007, the Commodity Credit Corporation shall make available to carry out this subsection $20,000,000.
+&emsp;&emsp;&emsp;For each of fiscal years 2003 through 2007, the Commodity Credit Corporationshall make available to carry out this subsection $20,000,000.
 
 #### (iii) Certain uses
 

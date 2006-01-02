@@ -122,7 +122,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 &emsp;&emsp;(B) if there are submitted documents which the institution determines constitute reasonable evidence indicating such status—
 
-&emsp;&emsp;&emsp;(i) the institution shall transmit to the Immigration and Naturalization Service either photostatic or other similar copies of such documents, or information fromsuch documents, as specified by the Immigration and Naturalization Service, for official verification,
+&emsp;&emsp;&emsp;(i) the institution shall transmit to the Immigration and Naturalization Service either photostatic or other similar copies of such documents, or information from such documents, as specified by the Immigration and Naturalization Service, for official verification,
 
 &emsp;&emsp;&emsp;(ii) pending such verification, the institution may not delay, deny, reduce, or terminate the individual's eligibility for the grant, loan, or work assistance on the basis of the individual's immigration status, and
 
@@ -186,7 +186,7 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (3) Special rule
 
-&emsp;For award years prior to July 23, 1992, the Secretary shall not take any compliance, disallowance, penalty, or other action against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter and part C of subchapter I of chapter34 of title 42 if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
+&emsp;For award years prior to July 23, 1992, the Secretary shall not take any compliance, disallowance, penalty, or other action against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
 
 #### (4) “Telecommunications” defined
 
@@ -311,7 +311,7 @@ Subsec. (r). Pub. L. 105–244, §483(f)(1), added subsec. (r).
 
 1993—Subsec. (a)(4)(B). Pub. L. 103–208, §2(h)(13), inserted “, except that the provisions of this subparagraph shall not apply to a student from the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau” after “number”.
 
-Subsec. (a)(5). Pub. L. 103–208, §2(h)(14), substituted “able to provide evidence from the Immigration and Naturalization Service that he or she is in the United States for other than a temporary purpose with the intention of becoming a citizen or permanent resident” for “in the United States for other than a temporary purpose and able to provide evidence from the Immigration and Naturalization Service of his or her intent to become a permanent resident”.
+Subsec. (a)(5). Pub. L. 103–208, §2(h)(14), substituted “able to provide evidence from the Immigration and Naturalization Service that he or she is in the UnitedStates for other than a temporary purpose with the intention of becoming a citizen or permanent resident” for “in the United States for other than a temporary purpose and able to provide evidence from the Immigration and Naturalization Service of his or her intent to become a permanent resident”.
 
 Subsec. (b)(2)(C). Pub. L. 103–208, §2(h)(15), added subpar. (C).
 
@@ -377,7 +377,7 @@ Pub. L. 102–26, §2(b), amended subsec. (d) generally. Prior to amendment, sub
 
 &emsp;“(2) be counseled prior to admission and be enrolled in and successfully complete the institutionally prescribed program of remedial or developmental education not to exceed one academic year or its equivalent; or
 
-&emsp;“(3)(A) be administered a nationally recognized, standardized, or industry developed test, subject tocriteria developed by the appropriate accrediting association, measuring the applicant's aptitude to complete successfully the program to which the applicant has applied; and
+&emsp;“(3)(A) be administered a nationally recognized, standardized, or industry developed test, subject to criteria developed by the appropriate accrediting association, measuring the applicant's aptitude to complete successfully the program to which the applicant has applied; and
 
 &emsp;“(B) with respect to applicants who are unable to satisfy the institutions’ admissions testing requirements specified in subparagraph (A), be enrolled in and successfully complete an institutionally prescribed program or course of remedial or developmental education not to exceed one academic year or its equivalent.
 
@@ -385,7 +385,7 @@ Pub. L. 102–26, §2(b), amended subsec. (d) generally. Prior to amendment, sub
 
 Subsec. (k). Pub. L. 102–73, as amended by Pub. L. 102–325, §484(h), added subsec. (k).
 
-1990—Subsec. (d). Pub. L. 101–508, which amended subsec. (d) generally to read: “In order for a student who is admitted on the basis of ability to benefit from the education or training offered to be eligible for any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall, prior to enrollment, pass an independently administered examination approved by the Secretary.”, was repealed by Pub. L. 102–26, §2(d)(2)(A). See Construction of 1991 Amendment note below.
+1990—Subsec. (d). Pub. L. 101–508, which amended subsec. (d) generally to read: “In order for a student who is admitted on the basis of ability to benefit from theeducation or training offered to be eligible for any grant, loan, or work assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, the student shall, prior to enrollment, pass an independently administered examination approved by the Secretary.”, was repealed by Pub. L. 102–26, §2(d)(2)(A). See Construction of 1991 Amendment note below.
 
 1988—Subsec. (a)(1). Pub. L. 100–369, §6(1), substituted “subsections (b)(3) and (b)(4)” for “subsection (b)(2)”.
 
@@ -457,7 +457,7 @@ Special Rules.—(1) The amendments made by section 5 \[amending this section an
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1986 Amendment
 

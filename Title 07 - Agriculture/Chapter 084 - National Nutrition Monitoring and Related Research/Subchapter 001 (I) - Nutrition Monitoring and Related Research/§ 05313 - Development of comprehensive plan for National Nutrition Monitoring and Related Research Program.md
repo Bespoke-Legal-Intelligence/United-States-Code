@@ -68,7 +68,7 @@ The comprehensive plan shall—
 
 #### (1) Proposed plan
 
-&emsp;Within 12 months after October 22, 1990, the Secretaries shall publish in the Federal Register a proposed comprehensive plan for publicreview for a comment period of no less than sixty days.
+&emsp;Within 12 months after October 22, 1990, the Secretaries shall publish in the Federal Register a proposed comprehensive plan for public review for a comment period of no less than sixty days.
 
 #### (2) Final plan
 

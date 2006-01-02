@@ -6,9 +6,9 @@
 
 &emsp;(2) The term “farming” shall be deemed to include fish farming.
 
-&emsp;(3) The term “owner-operator” shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is provided for the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
+&emsp;(3) The term “owner-operator” shall include in the State of Hawaii the lessee-operator of real property in any case in which the Secretary determines that such real property cannot be acquired in fee simple by such lessee-operator, that adequate security is providedfor the loan with respect to such real property for which such lessee-operator applies under this chapter, and that there is a reasonable probability of accomplishing the objectives and repayment of such loan.
 
-&emsp;(4) The word “insure” as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, andserviced by a private financial agency or other lender approved by the Secretary.
+&emsp;(4) The word “insure” as used in this chapter includes guarantee, which means to guarantee the payment of a loan originated, held, and serviced by a private financial agency or other lender approved by the Secretary.
 
 &emsp;(5) The term “contract of insurance” includes a contract of guarantee.
 

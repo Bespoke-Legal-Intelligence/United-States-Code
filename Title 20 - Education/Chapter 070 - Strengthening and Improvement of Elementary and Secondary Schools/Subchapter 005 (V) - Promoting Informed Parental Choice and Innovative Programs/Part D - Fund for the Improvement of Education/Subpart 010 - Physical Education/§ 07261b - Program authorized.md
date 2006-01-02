@@ -16,7 +16,7 @@ A physical education program funded under this subpart may provide for one or mo
 
 &emsp;(2) Instruction in a variety of motor skills and physical activities designed to enhance the physical, mental, and social or emotional development of every student.
 
-&emsp;(3) Development of, and instruction in, cognitive concepts about motor skill and physical fitness that support a lifelong healthy lifestyle.
+&emsp;(3) Development of, and instruction in, cognitive concepts about motor skill and physicalfitness that support a lifelong healthy lifestyle.
 
 &emsp;(4) Opportunities to develop positive social and cooperative skills through physical activity participation.
 

@@ -32,7 +32,3 @@ Unless otherwise directed pursuant to the governing instrument by specific refer
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2662 of this title.
-

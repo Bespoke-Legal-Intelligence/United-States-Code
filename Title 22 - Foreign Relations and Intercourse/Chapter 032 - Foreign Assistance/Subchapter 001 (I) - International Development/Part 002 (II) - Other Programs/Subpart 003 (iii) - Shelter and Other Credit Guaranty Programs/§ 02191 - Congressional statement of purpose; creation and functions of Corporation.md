@@ -6,7 +6,7 @@ The Corporation, in determining whether to provide insurance, financing, or rein
 
 &emsp;(1) be guided by the economic and social development impact and benefits of such a project and the ways in which such a project complements, or is compatible with, other development assistance programs or projects of the United States or other donors;
 
-&emsp;(2) give preferential consideration to investment projects in less developed countries that have per capita incomes of $984 or less in 1986 United States dollars, and restrict its activities with respect to investment projects in less developed countries that have per capita incomes of $4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under section 2702 of title 19, Ireland, and Northern Ireland); and
+&emsp;(2) give preferential consideration to investment projects in less developed countries that have per capita incomes of $984 or less in 1986 United States dollars, and restrict its activities with respect to investment projects in less developed countries that have per capita incomes of $4,269 or more in 1986 United States dollars (other than countries designated asbeneficiary countries under section 2702 of title 19, Ireland, and Northern Ireland); and
 
 &emsp;(3) ensure that the project is consistent with the provisions of section 2151p of this title, section 2151p–1 of this title, and section 2151q of this title relating to the environment and natural resources of, and tropical forests and endangered species in, developing countries, and consistent with the intent of regulations issued pursuant to section 2151p of this title, section 2151p–1 of this title, and section 2151q of this title.
 

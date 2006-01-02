@@ -26,7 +26,7 @@ Sale.—The Secretary of the Interior (hereinafter in this section referred to a
 
 Savings Provisions.—Nothing in this section, including the prepayment or other disposition of any loan or loans, shall—
 
-&emsp;“(1) except to the extent that prepayment may have been authorized heretofore, relieve the borrower from the application of the provisions of Federal Reclamation law (Act of June 17, 1902, and Acts amendatory thereof or supplementary thereto \[43 U.S.C. 371 et seq.\], including the Reclamation Reform Act of 1982 \[43 U.S.C. 390aa et seq.\]), including acreage limitations, to the extent such provisions would apply absent such prepayment, or
+&emsp;“(1) except to the extent that prepayment may have been authorized heretofore, relieve the borrowerfrom the application of the provisions of Federal Reclamation law (Act of June 17, 1902, and Acts amendatory thereof or supplementary thereto \[43 U.S.C. 371 et seq.\], including the Reclamation Reform Act of 1982 \[43 U.S.C. 390aa et seq.\]), including acreage limitations, to the extent such provisions would apply absent such prepayment, or
 
 &emsp;“(2) authorize the transfer of title to any federally owned facilities funded by the loans specified in subsection (a) of this section without a specific Act of Congress.
 

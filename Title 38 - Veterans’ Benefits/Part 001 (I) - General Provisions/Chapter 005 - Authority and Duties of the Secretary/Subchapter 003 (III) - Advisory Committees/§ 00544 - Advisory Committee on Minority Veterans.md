@@ -62,7 +62,7 @@
 
 (e) The Committee shall cease to exist December 31, 2009.
 
-(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, §501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub.L. 106–117, title VIII, §803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, §703, Dec. 16, 2003, 117 Stat. 2671.)
+(Added Pub. L. 103–446, title V, §510(a), Nov. 2, 1994, 108 Stat. 4668; amended Pub. L. 104–275, title V, §501(e)(2), (f), Oct. 9, 1996, 110 Stat. 3341; Pub. L. 106–117, title VIII, §803, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 108–183, title VII, §703, Dec. 16, 2003, 117 Stat. 2671.)
 
 #### Prior Provisions
 

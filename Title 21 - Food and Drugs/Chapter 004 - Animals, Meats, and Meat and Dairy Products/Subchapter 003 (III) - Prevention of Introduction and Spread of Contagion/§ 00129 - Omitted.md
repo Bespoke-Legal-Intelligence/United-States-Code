@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 107–76, title I, Nov. 28, 2001, 115 Stat. 712, related to transfer of funds for emergency arrest of animal, poultry, or plant diseases or pests, and was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002. Similar provisons which are permanent are classified to sections 7772 and 8316 of Title 7, Agriculture.
+Section, Pub. L. 107–76, title I, Nov. 28, 2001, 115 Stat. 712, related to transfer of funds for emergency arrest of animal, poultry, or plant diseases or pests, and was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002. Similar provisions which are permanent are classified to sections 7772 and 8316 of Title 7, Agriculture.
 
 #### Prior Provisions
 
@@ -38,11 +38,7 @@ Pub. L. 100–202, §101(k) \[title I\], Dec. 22, 1987, 101 Stat. 1329–322, 13
 
 Pub. L. 99–500, §101(a) \[title I\], Oct. 18, 1986, 100 Stat. 1783, 1783–8, and Pub. L. 99–591, §101(a) \[title I\], Oct. 30, 1986, 100 Stat. 3341, 3341–8.
 
-Pub. L. 99–190, §101(a) \[H.R. 3037, title I\], Dec. 19, 1985, 99 Stat. 1185.
-
-Pub. L. 98–473, title I, §101(a) \[H.R. 5743, title I\], Oct. 12, 1984, 98 Stat. 1837.
-
-Pub. L. 98–151, §101(d) \[H.R. 3223, title I\], Nov. 14, 1983, 97 Stat. 972.
+Pub. L. 99–190, §101(a) \[H.R. 3037, title I\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433.
 
 Pub. L. 97–370, title I, Dec. 18, 1982, 96 Stat. 1792.
 

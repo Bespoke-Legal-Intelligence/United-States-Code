@@ -48,7 +48,7 @@ For purposes of determining whether a child is eligible to be counted for the pu
 
 #### (A) Review
 
-&emsp;&emsp;For each fiscal year, in order to provide such information as is necessary to carryout the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart. The sampling conducted under this subparagraph shall take into account the size of and the geographic location of each local educational agency.
+&emsp;&emsp;For each fiscal year, in order to provide such information as is necessary to carry out the responsibility of the Secretary to provide technical assistance under this subpart, the Secretary shall conduct a monitoring and evaluation review of a sampling of the recipients of grants under this subpart. The sampling conducted under this subparagraph shall take into account the size of and the geographic location of each local educational agency.
 
 #### (B) Exception
 

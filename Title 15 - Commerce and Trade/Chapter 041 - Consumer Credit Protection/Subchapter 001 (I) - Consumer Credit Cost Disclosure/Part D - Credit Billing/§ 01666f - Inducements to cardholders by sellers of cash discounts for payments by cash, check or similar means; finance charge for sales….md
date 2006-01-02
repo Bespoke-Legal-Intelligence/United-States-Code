@@ -18,7 +18,7 @@ With respect to any sales transaction, any discount from the regular price offer
 
 #### Termination Date of 1976 Amendment
 
-Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, §1501, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 97–25, title II, §201, July 27, 1981, 95 Stat. 44, provided that: “The amendments made by paragraph (1)\[amending this section\] shall cease to be effective on February 27, 1984.”
+Section 3(c)(2) of Pub. L. 94–222, as amended by Pub. L. 95–630, title XV, §1501, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 97–25, title II, §201, July 27, 1981, 95 Stat. 44, provided that: “The amendments made by paragraph (1) \[amending this section\] shall cease to be effective on February 27, 1984.”
 
 #### Nullification of Board Rules and Regulations Under Subsection (b) of This Section in Effect on July 26, 1981
 

@@ -515,6 +515,14 @@
 | (e) | Supersedure of other laws. |
 | (f) | Allegation; improper withholding of records; judicial review. |
 | (g) | Decennial review of exempted operational files. |
+| [432c.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files/%C2%A7%2000432c%20-%20Operational%20files%20of%20the%20Defense%20Intelligence%20Agency.md) | Operational files of the Defense Intelligence Agency. |
+| (a) | Exemption of operational files. |
+| (b) | Operational files defined. |
+| (c) | Search and review for information. |
+| (d) | Information derived or disseminated from exempted operational files. |
+| (e) | Allegation; improper withholding of records; judicial review. |
+| (f) | Decennial review of exempted operational files. |
+| (g) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

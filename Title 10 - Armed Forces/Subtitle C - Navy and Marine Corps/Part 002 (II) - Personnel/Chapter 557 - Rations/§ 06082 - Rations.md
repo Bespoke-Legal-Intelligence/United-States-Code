@@ -46,7 +46,3 @@ In subsection (a) the words “issued to each person entitled thereto” are omi
 
 Authority of President under subsecs. (a) and (d) of this section to prescribe uniform military ration applicable to Navy delegated to Secretary of Defense by section 3(a) of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6083 of this title.
-

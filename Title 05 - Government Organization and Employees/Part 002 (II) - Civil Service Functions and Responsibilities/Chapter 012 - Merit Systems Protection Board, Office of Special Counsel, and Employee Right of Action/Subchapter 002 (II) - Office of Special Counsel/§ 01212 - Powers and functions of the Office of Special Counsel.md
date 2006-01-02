@@ -28,7 +28,7 @@
 
 (3)(A) In the case of contumacy or failure to obey a subpoena issued under paragraph (2)(A), the Special Counsel may apply to the Merit Systems Protection Board to enforce the subpoena in court pursuant to section 1204(c).
 
-(B) A subpoena under paragraph (2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in the manner referred to in subsection (d) of section 1204, and the United StatesDistrict Court for the District of Columbia may, with respect to any such individual, compel compliance in accordance with such subsection.
+(B) A subpoena under paragraph (2)(A) may, in the case of any individual outside the territorial jurisdiction of any court of the United States, be served in the manner referred to in subsection (d) of section 1204, and the United States District Court for the District of Columbia may, with respect to any such individual, compel compliance in accordance with such subsection.
 
 (4) Witnesses (whether appearing voluntarily or under subpoena) shall be paid the same fee and mileage allowances which are paid subpoenaed witnesses in the courts of the United States.
 

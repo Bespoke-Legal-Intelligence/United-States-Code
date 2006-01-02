@@ -46,7 +46,7 @@ It shall be the function of each Council to evaluate the unemployment compensati
 
 #### (2) Assistance from Secretary of Labor
 
-&emsp;The Secretary of Labor shall provide each Council with any staff, office facilities, and other assistance, and any data prepared by the Department of Labor, required by the Council to carry out its functions under this section.
+&emsp;The Secretary of Labor shall provide each Council with any staff, office facilities, andother assistance, and any data prepared by the Department of Labor, required by the Council to carry out its functions under this section.
 
 #### (e) Compensation
 
@@ -90,7 +90,7 @@ A prior section 1110, act Aug. 14, 1935, ch. 531, title IX, §910, 49 Stat. 644,
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Termination of Advisory Councils
 

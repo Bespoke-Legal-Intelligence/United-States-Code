@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 &nbsp;
 
-The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out itspurposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
+The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out its purposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If an individual's benefits under a Federal, State, or local law relating to a means-tested welfare or a public assistance program are reduced because of an act of fraud by the individual under the law or program, the individual may not, for the duration of the reduction, receive an increased benefit under any other means-tested welfare or public assistance program for which Federal funds are appropriated as a result of a decrease in the income of the individual (determined under the applicable program) attributable to such reduction.
+If an individual's benefits under a Federal, State, or local law relating to a means-testedwelfare or a public assistance program are reduced because of an act of fraud by the individual under the law or program, the individual may not, for the duration of the reduction, receive an increased benefit under any other means-tested welfare or public assistance program for which Federal funds are appropriated as a result of a decrease in the income of the individual (determined under the applicable program) attributable to such reduction.
 
 #### (b) Welfare or public assistance programs for which Federal funds are appropriated
 

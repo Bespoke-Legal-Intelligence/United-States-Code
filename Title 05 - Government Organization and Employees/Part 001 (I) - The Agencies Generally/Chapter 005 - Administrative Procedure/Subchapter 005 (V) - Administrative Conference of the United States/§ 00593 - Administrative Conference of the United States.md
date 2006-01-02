@@ -10,7 +10,7 @@
 
 &emsp;(3) the head of each Executive department or other administrative agency which is designated by the President, or an individual designated by the head of the department or agency;
 
-&emsp;(4) when authorized by the Council referred to in section 595(b) of this title, one or more appointees from a board, commission, department, or agency referred to in this subsection, designated by the head thereof with, in the case of a board or commission, the approval of the board or commission;
+&emsp;(4) when authorized by the Council referred to in section 595(b) of this title, one or moreappointees from a board, commission, department, or agency referred to in this subsection, designated by the head thereof with, in the case of a board or commission, the approval of the board or commission;
 
 &emsp;(5) individuals appointed by the President to membership on the Council who are not otherwise members of the Conference; and
 

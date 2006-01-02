@@ -7,35 +7,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER I—DOMESTIC PREPAREDNESS.
+#### SUBCHAPTER I—DOMESTIC PREPAREDNESS
 
 |  |  |
 | :--- | ---: |
 | [2311\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002311%20-%20Response%20to%20threats%20of%20terrorist%20use%20of%20weapons%20of%20mass%20destruction.md) | Response to threats of terrorist use of weapons of mass destruction. |
 | (a) | Enhanced response capability. |
 | (b) | Report required. |
-| [2312\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002312%20-%20Emergency%20response%20assistance%20program.md) | Emergency response assistance program. |
-| (a) | Program required. |
-| (b) | Coordination. |
-| (c) | Eligible participants. |
-| (d) | Involvement of other Federal agencies. |
-| (e) | Available assistance. |
-| (f) | Limitations on Department of Defense assistance to law enforcement agencies. |
-| (g) | Administration of Department of Defense assistance. |
-| (h) | Funding. |
+| [2312\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002312%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71034%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203429.md) | Repealed. |
 | [2313\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002313%20-%20Nuclear%2C%20chemical%2C%20and%20biological%20emergency%20response.md) | Nuclear, chemical, and biological emergency response. |
 | (a) | Department of Defense. |
 | (b) | Department of Energy. |
 | (c) | Funding. |
-| [2314\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002314%20-%20Chemical-biological%20emergency%20response%20team.md) | Chemical-biological emergency response team. |
+| [2314\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002314%20-%20Chemical%2C%20biological%2C%20radiological%2C%20nuclear%2C%20and%20high-yield%20explosives%20response%20team.md) | Chemical, biological, radiological, nuclear, and high-yield explosives response team. |
 | (a) | Department of Defense rapid response team. |
-| (b) | Addition to Federal response plan. |
+| (b) | Addition to Federal response plans. |
 | [2315\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002315%20-%20Testing%20of%20preparedness%20for%20emergencies%20involving%20nuclear%2C%20radiological%2C%20chemical%2C%20and%20biological%20weapons.md) | Testing of preparedness for emergencies involving nuclear, radiological, chemical, and biological weapons. |
-| (a) | Emergencies involving chemical or biological weapons. |
-| (b) | Emergencies involving nuclear and radiological weapons. |
-| (c) | Annual revisions of programs. |
-| (d) | Options to transfer responsibility. |
-| (e) | Funding. |
+| (a) | Emergencies involving nuclear, radiological, chemical, or biological weapons. |
+| (b) | Annual revisions of programs. |
 | [2316\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Preparedness/%C2%A7%2002316%20-%20Actions%20to%20increase%20civilian%20expertise.md) | Actions to increase civilian expertise. |
 | (a) | to (c) Omitted. |
 | (d) | Civilian expertise. |

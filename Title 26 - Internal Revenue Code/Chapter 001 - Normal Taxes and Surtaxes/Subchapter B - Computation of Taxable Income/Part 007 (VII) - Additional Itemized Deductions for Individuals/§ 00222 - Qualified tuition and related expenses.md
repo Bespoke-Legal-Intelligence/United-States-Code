@@ -8,7 +8,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 #### (1) In general
 
-&emsp;The amount allowed as a deduction under subsection (a) with respect to the taxpayer forany taxable year shall not exceed the applicable dollar limit.
+&emsp;The amount allowed as a deduction under subsection (a) with respect to the taxpayer for any taxable year shall not exceed the applicable dollar limit.
 
 #### (2) Applicable dollar limit
 
@@ -34,7 +34,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;For purposes of this paragraph, adjusted gross income shall be determined—
 
-&emsp;&emsp;&emsp;(i) without regard to this section and sections 911, 931, and 933, and
+&emsp;&emsp;&emsp;(i) without regard to this section and sections 199, 911, 931, and 933, and
 
 &emsp;&emsp;&emsp;(ii) after application of sections 86, 135, 137, 219, 221, and 469.
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 This section shall not apply to taxable years beginning after December 31, 2005.
 
-(Added Pub. L. 107–16, title IV, §431(a), June 7, 2001, 115 Stat. 66.)
+(Added Pub. L. 107–16, title IV, §431(a), June 7, 2001, 115 Stat. 66; amended Pub. L. 108–357, title I, §102(d)(3), Oct. 22, 2004, 118 Stat. 1429.)
 
 #### Termination of Section
 
@@ -108,13 +108,17 @@ A prior section 222 was renumbered section 224 of this title.
 
 Another prior section 222, added Pub. L. 97–34, title I, §125(a), Aug. 13, 1981, 95 Stat. 201; amended Pub. L. 97–448, title I, §101(f), Jan. 12, 1983, 96 Stat. 2367, related to deduction of adoption expenses, prior to repeal by Pub. L. 99–514, title I, §§135(a), 151(a), Oct. 22, 1986, 100 Stat. 2116, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
+#### Amendments
+
+2004—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “911”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
 #### Effective and Termination Dates
 
 Section applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 62 of this title.
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 86, 135, 137, 219, 221, 469 of this title.
 

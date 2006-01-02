@@ -12,7 +12,7 @@ The non-Federal lands within the scenic area shall be administered by the Commis
 
 (3)
 
-Approval by commission.—(A) Within ninety days after receipt of a land use ordinance, the Commission, by majority vote including at least three members from each State, shall approve the ordinance unless it determines the ordinance is inconsistent with the management plan. Should the Commission fail to act within ninety days, the ordinance shall be deemed to be approved.
+Approval by commission.—(A) Within ninety days after receipt of a land use ordinance, the Commission, by majority vote including at least three members from each State, shall approve the ordinance unless it determines the ordinance is inconsistent with the managementplan. Should the Commission fail to act within ninety days, the ordinance shall be deemed to be approved.
 
 (B) If approval is denied, the Commission shall state the reasons for finding the ordinance is inconsistent with the management plan, and shall submit to the county suggested modifications to the ordinance to make it consistent with the management plan.
 

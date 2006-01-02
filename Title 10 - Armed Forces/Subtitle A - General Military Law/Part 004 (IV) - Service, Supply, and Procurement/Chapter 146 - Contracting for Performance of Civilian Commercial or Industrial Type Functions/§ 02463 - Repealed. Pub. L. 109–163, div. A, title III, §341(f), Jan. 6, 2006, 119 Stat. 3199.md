@@ -1,0 +1,4 @@
+### \[§2463. Repealed. Pub. L. 109–163, div. A, title III, §341(f), Jan. 6, 2006, 119 Stat. 3199\]
+
+Section, added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 853; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(7), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 101–510, div. A, title XIII, §1301(14), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 105–85, div. A, title III, §385(a), Nov. 18, 1997, 111 Stat. 1712, related to collection and retention of cost information data on the conversion of services and functions of the Department of Defense to or from contractor performance.
+

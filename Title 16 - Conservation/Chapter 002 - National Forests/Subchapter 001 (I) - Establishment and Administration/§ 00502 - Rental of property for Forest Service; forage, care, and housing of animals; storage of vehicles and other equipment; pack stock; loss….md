@@ -2,7 +2,7 @@
 
 The Secretary of Agriculture is authorized, under such regulations as he may prescribe:
 
-(a) To hire or rent property from employees of the Forest Service for the use of that Service whenever the public interest will be promoted thereby.
+(a) To hire or rent property from employees of the Forest Service for the use of that Servicewhenever the public interest will be promoted thereby.
 
 (b) To provide forage, care, and housing for animals, and storage for vehicles and other equipment obtained by the Forest Service for the use of that service from employees.
 

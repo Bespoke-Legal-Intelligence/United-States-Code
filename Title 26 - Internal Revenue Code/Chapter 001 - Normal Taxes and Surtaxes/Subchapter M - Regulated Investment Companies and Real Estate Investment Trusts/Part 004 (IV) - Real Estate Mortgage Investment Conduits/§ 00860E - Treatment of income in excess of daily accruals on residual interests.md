@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (C) Federal long-term rate
 
-&emsp;&emsp;For purposes of this paragraph, the term “Federal long-term rate” means the Federal long-term rate which would have applied to the residual interest under section 1274(d) (determined without regard to paragraph (2) thereof) if it were a debt instrument.
+&emsp;&emsp;For purposes of this paragraph, the term “Federal long-term rate” means the Federallong-term rate which would have applied to the residual interest under section 1274(d) (determined without regard to paragraph (2) thereof) if it were a debt instrument.
 
 #### (d) Treatment of residual interests held by real estate investment trusts
 
@@ -227,8 +227,4 @@ Section 1006(t)(16)(D)(ii)–(iv) of Pub. L. 100–647 provided that:
 “(iv) In the case of any real estate investment trust, regulated investment company, common trust fund, or publicly traded partnership, no tax shall be imposed under section 860E(e)(6) of the 1986 Code (as added by the amendment made by subparagraph (B)) for any taxable year beginning before January 1, 1989.”
 
 Amendment by section 1006(t)(13), (15), (17), (23), (26), (27) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 774, 857, 860C, 860D, 860F, 860J, 860K, 7701 of this title.
 

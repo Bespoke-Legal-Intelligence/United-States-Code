@@ -16,7 +16,7 @@ Compliance with any requirements imposed under this subchapter shall be enforced
 
 &emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;
 
-&emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director ofthe Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;
+&emsp;(2) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;
 
 &emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Board with respect to any Federal credit union;
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, seesection 1609(a) of Pub. L. 102–550, set out as a note under section 191 of Title 12, Banks and Banking.
+Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of Title 12, Banks and Banking.
 
 #### Effective Date of 1984 Amendment
 

@@ -52,7 +52,7 @@ In subsection (a)(1), the words “or naval” are omitted as included in “mil
 
 In subsection (b), the word “when” is substituted for “in any situation in which”.
 
-In subsection (c), the words “for oral presentation” are substituted for “to present the same orally in any manner”. The words “sections 556 and 557 of this title apply instead of this subsection” are substituted for “the requirements of sections 1006 and 1007 of this titleshall apply in place of the provisions of this subsection”.
+In subsection (c), the words “for oral presentation” are substituted for “to present the same orally in any manner”. The words “sections 556 and 557 of this title apply instead of this subsection” are substituted for “the requirements of sections 1006 and 1007 of this title shall apply in place of the provisions of this subsection”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

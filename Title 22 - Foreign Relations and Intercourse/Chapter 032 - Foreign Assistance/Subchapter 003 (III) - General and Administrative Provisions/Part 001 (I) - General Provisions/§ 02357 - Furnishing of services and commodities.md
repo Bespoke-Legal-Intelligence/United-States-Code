@@ -26,7 +26,7 @@ When any agency of the United States Government provides services on an advance-
 
 #### (d) Transfer of Government-owned excess property to enhance environmental protection in foreign countries
 
-The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit relief agency described in subsection (a) of this section, Government-owned excess property madeavailable under this section or section 2358 of this title in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
+The Secretary of State, acting through the Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs, is authorized to transfer to any friendly country, international organization, the American Red Cross, or other voluntary nonprofit relief agency described in subsection (a) of this section, Government-owned excess property made available under this section or section 2358 of this title in order to support activities carried out under subchapter I of this chapter which are designed to enhance environmental protection in foreign countries if the Secretary of State makes a written determination—
 
 &emsp;(1) that there is a need for such property in the quantity requested and that such property is suitable for the purpose requested;
 

@@ -44,5 +44,5 @@ There are authorized to be appropriated to the National Oceanic and Atmospheric 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 15701 of this title and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 108–360, Oct. 25, 2004, 118 Stat. 1675, which is classified generally to this chapter. For complete classification of title II to theCode, see Short Title note set out under section 15701 of this title and Tables.
 

@@ -88,7 +88,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) Gain not in excess of depreciation adjustments sourced under subsection (c)
 
-&emsp;&emsp;Notwithstanding paragraph (1), any gain from the sale of an intangible shall besourced under subsection (c) to the extent such gain does not exceed the depreciation adjustments with respect to such intangible.
+&emsp;&emsp;Notwithstanding paragraph (1), any gain from the sale of an intangible shall be sourced under subsection (c) to the extent such gain does not exceed the depreciation adjustments with respect to such intangible.
 
 #### (B) Subsection (c)(2) not to apply to intangibles
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (4) Affiliate
 
-&emsp;The term “affiliate” means a member of the same affiliated group (within the meaning of section 1504(a) without regard to section 1504(b)).
+&emsp;The term “affiliate” means a member of the same affiliated group (within the meaning ofsection 1504(a) without regard to section 1504(b)).
 
 #### (5) Treatment of partnerships
 
@@ -312,7 +312,7 @@ Section 13239(e) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -334,7 +334,7 @@ Special rule for foreign persons.—In the case of any foreign person other than
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -343,8 +343,4 @@ For nonapplication of amendment by section 1211(a) of Pub. L. 99–514 (enacting
 #### Study of Source Rules for Sales of Inventory Property
 
 Section 1211(d) of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 861, 862, 863, 954 of this title.
 

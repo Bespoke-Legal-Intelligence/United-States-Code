@@ -20,7 +20,7 @@
 
 #### (A) Book entries permitted
 
-&emsp;&emsp;For purposes of paragraph (1), a book entry bond shall be treated as in registered form if the right to the principal of, and stated interest on, such bond may be transferred onlythrough a book entry consistent with regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of paragraph (1), a book entry bond shall be treated as in registered form if the right to the principal of, and stated interest on, such bond may be transferred only through a book entry consistent with regulations prescribed by the Secretary.
 
 #### (B) Nominees
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;A bond shall not be treated as federally guaranteed by reason of—
 
-&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Veterans’ Administration, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or the Government National Mortgage Association,
+&emsp;&emsp;&emsp;(i) any guarantee by the Federal Housing Administration, the Veterans’ Administration, the Federal National Mortgage Association, the Federal Home Loan MortgageCorporation, or the Government National Mortgage Association,
 
 &emsp;&emsp;&emsp;(ii) any guarantee of student loans and any guarantee by the Student Loan Marketing Association to finance student loans, or
 
@@ -312,7 +312,7 @@
 
 &emsp;&emsp;(A) 10 percent of the spendable proceeds of the issue will be spent for the governmental purposes of the issue within the 1-year period beginning on the date the bonds are issued,
 
-&emsp;&emsp;(B) 30 percent of the spendable proceeds of the issue will be spent for such purposes within the 2-year period beginning on such date,
+&emsp;&emsp;(B) 30 percent of the spendable proceeds of the issue will be spent for such purposeswithin the 2-year period beginning on such date,
 
 &emsp;&emsp;(C) 60 percent of the spendable proceeds of the issue will be spent for such purposes within the 3-year period beginning on such date, and
 
@@ -370,7 +370,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the issuer reasonably expected that 85 percent of the spendable proceeds of the issue of which the original bond is a part would be used to carry out the governmental purposes of the issue within the 5-year period beginning on the date the original bonds were issued but did not reasonably expect that 85 percent of such proceeds would be so spent within the 3-year period beginning on such date, and
 
-&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (andall other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
+&emsp;&emsp;&emsp;&emsp;(III) at least 85 percent of the spendable proceeds of the original issue (and all other prior original issues issued to finance the governmental purposes of such issue) were spent before the date the refunding bonds are issued.
 
 #### (4) Special rules
 
@@ -477,8 +477,4 @@ Subsec. (e) applicable to bonds issued after Dec. 31, 1986, see section 1311(d) 
 #### Transfer of Functions
 
 Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401 to 406 of Pub. L. 101–73 set out as a note under section 1437 of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 103, 148, 150, 163, 265, 1400L, 4701 of this title.
 

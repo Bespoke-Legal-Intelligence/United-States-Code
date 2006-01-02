@@ -40,7 +40,7 @@ The Secretary is authorized, upon the request of an Indian tribe, to make a gran
 
 &emsp;(2) the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
 
-(Pub. L. 93–638, title I, §103, formerly §104, Jan. 4, 1975, 88 Stat. 2207; renumbered §103 and amended Pub. L. 100–472, title II, §202, Oct. 5, 1988, 102 Stat. 2289; Pub. L. 101–644, title II, §203(g)(1), Nov. 29, 1990, 104 Stat. 4666.)
+(Pub. L. 93–638, title I, §103, formerly §104, Jan. 4, 1975, 88 Stat. 2207; renumbered §103 andamended Pub. L. 100–472, title II, §202, Oct. 5, 1988, 102 Stat. 2289; Pub. L. 101–644, title II, §203(g)(1), Nov. 29, 1990, 104 Stat. 4666.)
 
 #### References in Text
 

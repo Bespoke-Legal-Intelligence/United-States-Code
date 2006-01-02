@@ -1,0 +1,72 @@
+### §16311. Science
+
+#### (a) In general
+
+The Secretary shall conduct, through the Office of Science, programs of research, development, demonstration, and commercial application in high energy physics, nuclear physics, biological and environmental research, basic energy sciences, advanced scientific computing research, and fusion energy sciences, including activities described in this part. The programs shall include support for facilities and infrastructure, education, outreach, information, analysis, and coordination activities.
+
+#### (b) Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary to carry out research, development, demonstration, and commercial application activities of the Office of Science, including activities authorized under this part (including the amounts authorized under the amendment made by section 976(b) <sup>1</sup> and including basic energy sciences, advanced scientific and computing research, biological and environmental research, fusion energy sciences, high energy physics, nuclear physics, research analysis, and infrastructure support)—
+
+&emsp;(1) $4,153,000,000 for fiscal year 2007;
+
+&emsp;(2) $4,586,000,000 for fiscal year 2008; and
+
+&emsp;(3) $5,200,000,000 for fiscal year 2009.
+
+#### (c) Allocations
+
+From amounts authorized under subsection (b), the following sums are authorized:
+
+&emsp;(1) For activities under the Fusion Energy Sciences program (including activities under section 16312 of this title)—
+
+&emsp;&emsp;(A) $355,500,000 for fiscal year 2007;
+
+&emsp;&emsp;(B) $369,500,000 for fiscal year 2008;
+
+&emsp;&emsp;(C) $384,800,000 for fiscal year 2009; and
+
+&emsp;&emsp;(D) in addition to the amounts authorized under subparagraphs (A), (B), and (C), such sums as may be necessary for ITER construction, consistent with the limitations of section 16312(c)(5) of this title.
+
+&emsp;(2) For activities under the catalysis research program under section 16313 of this title—
+
+&emsp;&emsp;(A) $36,500,000 for fiscal year 2007;
+
+&emsp;&emsp;(B) $38,200,000 for fiscal year 2008; and
+
+&emsp;&emsp;(C) such sums as may be necessary for fiscal year 2009.
+
+&emsp;(3) For activities under the Systems Biology Program under section 16317 of this title such sums as may be necessary for each of fiscal years 2007 through 2009.
+
+&emsp;(4) For activities under the Energy and Water Supplies program under section 16319 of this title, $30,000,000 for each of fiscal years 2007 through 2009.
+
+&emsp;(5) For the energy research fellowships programs under section 16324 of this title, $40,000,000 for each of fiscal years 2007 through 2009.
+
+&emsp;(6) For the advanced scientific computing activities under section 976— <sup>1</sup>
+
+&emsp;&emsp;(A) $270,000,000 for fiscal year 2007;
+
+&emsp;&emsp;(B) $350,000,000 for fiscal year 2008; and
+
+&emsp;&emsp;(C) $375,000,000 for fiscal year 2009.
+
+&emsp;(7) For the science and engineering education pilot program under section 16323 of this title—
+
+&emsp;&emsp;(A) $4,000,000 for each of fiscal years 2007 and 2008; and
+
+&emsp;&emsp;(B) $8,000,000 for fiscal year 2009.
+
+#### (d) Integrated bioenergy research and development
+
+In addition to amounts otherwise authorized by this section, there are authorized to be appropriated to the Secretary for integrated bioenergy research and development programs,projects, and activities, $49,000,000 for each of the fiscal years 2005 through 2009. Activities funded under this subsection shall be coordinated with ongoing related programs of other Federal agencies, including the Plant Genome Program of the National Science Foundation. Of the funds authorized under this subsection, at least $5,000,000 for each fiscal year shall be for training and education targeted to minority and socially disadvantaged farmers and ranchers.
+
+(Pub. L. 109–58, title IX, §971, Aug. 8, 2005, 119 Stat. 898.)
+
+#### References in Text
+
+This part, referred to in subsecs. (a) and (b), was in the original “this subtitle”, meaning subtitle G (§§971–984A) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended section 5523 of Title 15, Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
+
+Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 109–58. Subsection (a) of section 976 is classified to section 16316 of this title and subsection (b) of section 976 amended section 5523 of Title 15, Commerce and Trade.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

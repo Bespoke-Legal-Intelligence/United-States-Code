@@ -1,6 +1,6 @@
 ### §2075. Officer failing to make returns or reports
 
-Every officer who neglects or refuses to make any return or report which he is required to make at stated times by any Act of Congress orregulation of the Department of the Treasury, other than his accounts, within the time prescribed by such Act or regulation, shall be fined under this title.
+Every officer who neglects or refuses to make any return or report which he is required to make at stated times by any Act of Congress or regulation of the Department of the Treasury, other than his accounts, within the time prescribed by such Act or regulation, shall be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
 

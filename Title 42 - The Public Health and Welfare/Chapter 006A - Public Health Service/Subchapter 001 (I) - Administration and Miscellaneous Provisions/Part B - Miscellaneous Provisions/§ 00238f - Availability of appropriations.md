@@ -60,7 +60,7 @@ Pub. L. 97–377, title I, §101(e)(1) \[title II, §203\], Dec. 21, 1982, 96 St
 
 #### Crediting of Payments for Room and Board to Appropriation Accounts
 
-Pub. L. 102–394, title II, §206, Oct. 6, 1992, 106 Stat. 1811, provided that: “Hereafter amounts received from employees of the Department in payment for room and board may be credited to the appropriation accountswhich finance the activities of the Public Health Service.”
+Pub. L. 102–394, title II, §206, Oct. 6, 1992, 106 Stat. 1811, provided that: “Hereafter amounts received from employees of the Department in payment for room and board may be credited to the appropriation accounts which finance the activities of the Public Health Service.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

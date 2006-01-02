@@ -48,7 +48,7 @@
 
 #### (3) Source of funding
 
-&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 11 of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (except with respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
+&emsp;This subsection shall not be subject to section 1301 or 1341 of title 31 or section 11 of title 41 or to section 9662 of this title. For purposes of section 9611 of this title, amounts expended pursuant to this subsection for indemnification of any response action contractor (exceptwith respect to federally owned or operated facilities) shall be considered governmental response costs incurred pursuant to section 9604 of this title. If sufficient funds are unavailable in the Hazardous Substance Superfund established under subchapter A of chapter 98 of title 26 to make payments pursuant to such indemnification or if the Fund is repealed, there are authorized to be appropriated such amounts as may be necessary to make such payments.
 
 #### (4) Requirements
 
@@ -158,7 +158,7 @@ Response action contractors and subcontractors for program management, construct
 
 (5) This subsection shall not apply to bonds executed before October 17, 1990.
 
-(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
+(Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Codification
 
-In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c),Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

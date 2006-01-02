@@ -10,21 +10,21 @@ Authority to make grants.—Subject to the requirements of this section, the Sec
 
 &emsp;(2)
 
-Maintenance of effort.—No grant may be made to a State under this section in any fiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for programs described in paragraph (1) at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the Transportation Equity Act for the 21st Century.
+Maintenance of effort.—No grant may be made to a State under this section in any fiscal year unless the State enters into such agreements with the Secretary as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for programs described in paragraph (1) at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of the SAFETEA–LU.
 
 &emsp;(3)
 
-Maximum period of eligibility.—No State may receive grants under this section in more than 6 fiscal years beginning after September 30, 1997.
+Maximum period of eligibility.—No State may receive grants under this section in more than 6 fiscal years beginning after September 30, 2003.
 
 &emsp;(4)
 
 Federal share.—The Federal share of the cost of implementing and enforcing, as appropriate, in a fiscal year a program adopted by a State pursuant to paragraph (1) shall not exceed—
 
-&emsp;&emsp;(A) in each of the first and second fiscal years in which the State receives a grant under this section, 75 percent;
+&emsp;&emsp;(A) in each of the first and second fiscal years beginning after September 30, 2003, in which the State receives a grant under this section, 75 percent;
 
-&emsp;&emsp;(B) in each of the third and fourth fiscal years in which the State receives a grant under this section, 50 percent; and
+&emsp;&emsp;(B) in each of the third and fourth fiscal years beginning after September 30, 2003, in which the State receives a grant under this section, 50 percent; and
 
-&emsp;&emsp;(C) in each of the fifth and sixth fiscal years in which the State receives a grant under this section, 25 percent.
+&emsp;&emsp;(C) in each of the fifth and sixth fiscal years beginning after September 30, 2003, in which the State receives a grant under this section, 25 percent.
 
 (b)
 
@@ -60,11 +60,9 @@ Child passenger protection law.—The State has in effect a law that requires mi
 
 (c)
 
-Grant Amounts.—The amount of a grant for which a State qualifies under this section for a fiscal year shall equal up to 25 percent of the amount apportioned to the State for fiscal year 1997 under section 402.
+Grant Amounts.—The amount of a grant for which a State qualifies under this section for a fiscal year shall equal up to 100 percent of theamount apportioned to the State for fiscal year 2003 under section 402.
 
-(d)
-
-Administrative Expenses.—Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.
+\[(d) Repealed. Pub. L. 109–59, title II, §2002(e), Aug. 10, 2005, 119 Stat. 1522.\]
 
 (e)
 
@@ -102,15 +100,101 @@ Safety belt.—The term “safety belt” means—
 
 &emsp;&emsp;(B) with respect to other passenger vehicles, an occupant restraint system consisting of integrated lap and shoulder belts.
 
-(Added Pub. L. 105–178, title II, §2003(a)(1), June 9, 1998, 112 Stat. 325.)
+(Added Pub. L. 105–178, title II, §2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59, title II, §§2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524.)
 
 #### References in Text
 
-The date of enactment of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of enactment of the SAFETEA–LU, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Prior Provisions
 
 A prior section 405, added Pub. L. 93–87, title II, §230(a), Aug. 13, 1973, 87 Stat. 293; amended Pub. L. 93–643, §121, Jan. 4, 1975, 88 Stat. 2289, related to the Federal-aid safer roads demonstration program, prior to repeal by Pub. L. 94–280, title I, §135(c), May 5, 1976, 90 Stat. 442.
+
+#### Amendments
+
+2005—Subsec. (a)(2). Pub. L. 109–59, §2004(a)(1), substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
+
+Subsec. (a)(3). Pub. L. 109–59, §2004(a)(2), substituted “2003” for “1997”.
+
+Subsec. (a)(4). Pub. L. 109–59, §2004(a)(3), inserted “beginning after September 30, 2003,” after “years” in subpars. (A) to (C).
+
+Subsec. (c). Pub. L. 109–59, §2004(c), substituted “100 percent” for “25 percent” and “2003” for “1997”.
+
+Subsec. (d). Pub. L. 109–59, §2002(e), struck out heading and text of subsec. (d). Text read as follows: “Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.”
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L. 109–59, set out as a note under section 402 of this title.
+
+#### Child Safety and Child Booster Seat Incentive Grants
+
+Pub. L. 109–59, title II, §2011, Aug. 10, 2005, 119 Stat. 1538, provided that:
+
+“(a)
+
+General Authority.—Subject to the requirements of this section, the Secretary \[of Transportation\] shall make grants to States that are enforcing a law requiring that any child riding in a passenger motor vehicle in the State who is too large to be secured in a child safety seat be secured in a child restraint that meets the requirements prescribed by the Secretary under section 3 of Anton's Law \[Pub. L. 107–318\] (49 U.S.C. 30127 note; 116 Stat. 2772).
+
+“(b)
+
+Maintenance of Effort.—No grant may be made to a State under this section in a fiscal year unless the State enters into such agreements with the Secretary \[of Transportation\] as the Secretary may require to ensure that the State will maintain its aggregate expenditures from all other sources for child safety seat and child restraint programs at or above the average level of such expenditures in its 2 fiscal years preceding the date of enactment of this Act \[Aug. 10, 2005\].
+
+“(c)
+
+Federal Share.—The Federal share of the costs of activities funded using amounts from grants under this section shall not exceed—
+
+&emsp;“(1) for the first 3 fiscal years for which a State receives a grant under this section, 75 percent; and
+
+&emsp;“(2) for the fourth fiscal year for which a State receives a grant under this section, 50 percent.
+
+“(d)
+
+Use of Grant Amounts.—
+
+&emsp;“(1)
+
+Allocations.—Of the amounts received by a State in grants under this section for a fiscal year not more than 50 percent shall be used to fund programs for purchasing and distributing child safety seats and child restraints to low-income families.
+
+&emsp;“(2)
+
+Remaining amounts.—Amounts received by a State in grants under this section, other than amounts subject to paragraph (1), shall be used to carry out child safety seat and child restraint programs, including the following:
+
+&emsp;&emsp;“(A) A program to support enforcement of child restraint laws.
+
+&emsp;&emsp;“(B) A program to train child passenger safety professionals, police officers, fire and emergency medical personnel, educators, and parents concerning all aspects of the use of child safety seats and child restraints.
+
+&emsp;&emsp;“(C) A program to educate the public concerning the proper use and installation of child safety seats and child restraints.
+
+“(e)
+
+Grant Amount.—The amount of a grant to a State for a fiscal year under this section may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402 of title 23, United States Code.
+
+“(f)
+
+Applicability of Chapter 1.—The provisions contained in section 402(d) of such title shall apply to this section.
+
+“(g)
+
+Report.—A State that receives a grant under this section shall transmit to the Secretary \[of Transportation\] a report documenting the manner in which the grant amounts were obligated and expended and identifying the specific programs carried out using the grant funds. The report shall be in a form prescribed bythe Secretary and may be combined with other State grant reporting requirements under of \[sic\] chapter 4 of title 23, United States Code.
+
+“(h)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;“(1)
+
+Child restraint.—The term ‘child restraint’ means any product designed to provide restraint to a child (including booster seats and other products used with a lap and shoulder belt assembly) that meets applicable Federal motor vehicle safety standards prescribed by the National Highway Traffic Safety Administration.
+
+&emsp;“(2)
+
+Child safety seat.—The term ‘child safety seat’ has the meaning such term has in section 405(f) of title 23, United States Code.
+
+&emsp;“(3)
+
+Passenger motor vehicle.—The term ‘passenger motor vehicle’ has the meaning such term has in section 405(f) of such title.
+
+&emsp;“(4)
+
+State.—The term ‘State’ has the meaning such term has in section 101(a) of such title.”
 
 #### Child Passenger Protection Education Grants
 
@@ -142,7 +226,7 @@ Use of funds.—Funds provided to a State as a grant under this subsection shall
 
 “(3)
 
-Grant awards.—The Secretary may make a grant under this subsection without regard to whether a State is eligible to receive, or has received, a grantunder section 405 of title 23, United States Code (as inserted by subsection (a) of this section).
+Grant awards.—The Secretary may make a grant under this subsection without regard to whether a State is eligible to receive, or has received, a grant under section 405 of title 23, United States Code (as inserted by subsection (a) of this section).
 
 “(4)
 

@@ -22,7 +22,7 @@ In general.—Notwithstanding chapter 63 of title 31, the Secretary may enter in
 
 &emsp;(B)
 
-Cooperators.—Each cooperator, including each Federal agency, to the extent that funds are otherwise available, may participate in any cooperative agreement or working group established pursuant to this paragraph by contributing funds or other resources to the Secretary to carry out the agreement or functions of the group.
+Cooperators.—Each cooperator, including each Federal agency, to the extent thatfunds are otherwise available, may participate in any cooperative agreement or working group established pursuant to this paragraph by contributing funds or other resources to the Secretary to carry out the agreement or functions of the group.
 
 (5) The Secretary may hold public hearings and receive comments on any matter that the Secretary determines may have a significant impact on rural development or the economic development of rural communities.
 
@@ -76,13 +76,13 @@ The Secretary shall ensure the effective implementation of the rural development
 
 #### References in Text
 
-The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended,which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
 #### Amendments
 
-1996—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “TheSecretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.”
+1996—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: “The Secretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section.”
 
 #### Effective Date
 

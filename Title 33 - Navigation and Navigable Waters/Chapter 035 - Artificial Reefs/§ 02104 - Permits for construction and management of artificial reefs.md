@@ -2,7 +2,7 @@
 
 #### (a) Secretarial action on permits
 
-In issuing a permit for artificial reefs under section 403 of this title, section 1344 of this title,or section 1333(e) of title 43, the Secretary of the Army (hereinafter in this section referred to as the “Secretary”) shall—
+In issuing a permit for artificial reefs under section 403 of this title, section 1344 of this title, or section 1333(e) of title 43, the Secretary of the Army (hereinafter in this section referred to as the “Secretary”) shall—
 
 &emsp;(1) consult with and consider the views of appropriate Federal agencies, States, local governments, and other interested parties;
 
@@ -34,7 +34,7 @@ Nothing in this chapter creates any liability on the part of the United States.
 
 #### (e) Civil penalty
 
-Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) of this section shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
+Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) of this section shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposedunder this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
 
 (Pub. L. 98–623, title II, §205, Nov. 8, 1984, 98 Stat. 3396.)
 

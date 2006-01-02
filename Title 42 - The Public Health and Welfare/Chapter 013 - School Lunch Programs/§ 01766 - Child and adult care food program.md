@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) any other private organization providing nonresidential child care or day care outside school hours for school children, if—
 
-&emsp;&emsp;&emsp;(i) at least 25 percent of the children served by the organization meet the income eligibility criteria established undersection 1758(b) of this title for free or reduced price meals; or
+&emsp;&emsp;&emsp;(i) at least 25 percent of the children served by the organization meet the income eligibility criteria established under section 1758(b) of this title for free or reduced price meals; or
 
 &emsp;&emsp;&emsp;(ii) the organization receives compensation from amounts granted to the States under title XX of the Social Security Act (42 U.S.C. 1397 et seq.) (but only if the organization receives compensation under that title for at least 25 percent of its enrolled children or 25 percent of its licensed capacity, whichever is less);
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) meet any alternate approval standards established by the Secretary after consultation with the Secretary of Health and Human Services; or
 
-&emsp;&emsp;(C) if the institution provides care to school children outside of school hours and Federal, State, or local licensing or approval is not required for the institution, meet State or local health and safety standards.
+&emsp;&emsp;(C) if the institution provides care to school children outside of school hours andFederal, State, or local licensing or approval is not required for the institution, meet State or local health and safety standards.
 
 #### (6) Eligibility criteria
 
@@ -192,7 +192,7 @@ In general.—The Secretary shall establish procedures for the termination of pa
 
 &emsp;(B)
 
-Standards.—Procedures established pursuant to subparagraph (A) shall include standards for terminating the participation of an institution or family or group day care home that—
+Standards.—Procedures established pursuant to subparagraph (A) shall include standards for terminating the participation of aninstitution or family or group day care home that—
 
 &emsp;&emsp;(i) engages in unlawful practices, falsifies information provided to the State agency, or conceals a criminal background; or
 
@@ -280,7 +280,7 @@ Fraud or abuse.—
 
 &emsp;&emsp;(i)
 
-In general.—The State may recover funds disbursed under subparagraph (A) to an institution if the State determines that the institution has engaged in fraud or abuse with respect to the program or has submitted an invalid claim for reimbursement.
+In general.—The State may recover funds disbursed under subparagraph (A) to an institution if the State determines that the institution has engaged in fraud or abusewith respect to the program or has submitted an invalid claim for reimbursement.
 
 &emsp;&emsp;(ii)
 
@@ -328,7 +328,7 @@ Tier i family or group day care homes.—
 
 &emsp;&emsp;&emsp;(I)
 
-Definition of tier i family or group day care home.—In this paragraph, theterm “tier I family or group day care home” means—
+Definition of tier i family or group day care home.—In this paragraph, the term “tier I family or group day care home” means—
 
 &emsp;&emsp;&emsp;&emsp;(aa) a family or group day care home that is located in a geographic area, as defined by the Secretary based on census data, in which at least 50 percent of the children residing in the area are members of households whose incomes meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title;
 
@@ -390,7 +390,7 @@ In general.—If a family or group day care home elects to claim the factors des
 
 &emsp;&emsp;&emsp;&emsp;(bb)
 
-Categorical eligibility.—In making a determination under item (aa), a family or group day care home sponsoring organization may consider a child participating in or subsidized under, or a child with a parent participating in or subsidized under, a federally or Statesupported child care or other benefit program with an income eligibility limit that does not exceed the eligibility standard for free or reduced price meals under section 1758 of this title to be a child who is a member of a household whose income meets the income eligibility guidelines under section 1758 of this title.
+Categorical eligibility.—In making a determination under item (aa), a family or group day care home sponsoring organization may consider a child participating in or subsidized under, or a child with a parent participating in or subsidized under, a federally or State supported child care or other benefit program with an income eligibility limit that does not exceed the eligibility standard for free or reduced price meals under section 1758 of this title to be a child who is a member of a household whose income meets the income eligibility guidelines under section 1758 of this title.
 
 &emsp;&emsp;&emsp;&emsp;(cc)
 
@@ -442,7 +442,7 @@ School data.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—A State agency administering the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966\(42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than 1/2 of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
+In general.—A State agency administering the school lunch program under this chapter or the school breakfast program under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) shall provide to approved family or group day care home sponsoring organizations a list of schools serving elementary school children in the State in which not less than 1/2 of the children enrolled are certified to receive free or reduced price meals. The State agency shall collect the data necessary to create the list annually and provide the list on a timely basis to any approved family or group day care home sponsoring organization that requests the list.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -458,7 +458,7 @@ Duration of determination.—For purposes of this section, a determination that 
 
 (1)(A) Meals served by institutions participating in the program under this section shall consist of a combination of foods that meet minimum nutritional requirements prescribed by the Secretary on the basis of tested nutritional research.
 
-(B) The Secretary shall provide technical assistance to those institutions participating in the program under this section to assist the institutions and family or group day care home sponsoring organizations in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A).
+(B) The Secretary shall provide technical assistance to those institutions participating in the program under this section to assist the institutions and family or group day care homesponsoring organizations in complying with the nutritional requirements prescribed by the Secretary pursuant to subparagraph (A).
 
 (2) No physical segregation or other discrimination against any child shall be made because of his or her inability to pay, nor shall there be any overt identification of any such child by special tokens or tickets, different meals or meal service, announced or published lists of names, or other means.
 
@@ -564,7 +564,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, acting through the Administrator of the Food and Nutrition Service, shall evaluate the impact of the eligibility criteria described in paragraph (2) as compared to the eligibility criteria described in subsection (f)(3)(A)(ii)(I) of this section.
+&emsp;&emsp;The Secretary, acting through the Administrator of the Food and Nutrition Service, shall evaluate the impact of the eligibilitycriteria described in paragraph (2) as compared to the eligibility criteria described in subsection (f)(3)(A)(ii)(I) of this section.
 
 #### (B) Impact
 
@@ -652,7 +652,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (5) Limitation
 
-&emsp;The Secretary shall limit reimbursement under this subsection for meals served under a program to institutions located in seven States, of which five States shall be Illinois, Pennsylvania, Missouri, Delaware, and Michigan and two States shall be approved by the Secretary through a competitive application process.
+&emsp;The Secretary shall limit reimbursement under this subsection for meals served under aprogram to institutions located in seven States, of which five States shall be Illinois, Pennsylvania, Missouri, Delaware, and Michigan and two States shall be approved by the Secretary through a competitive application process.
 
 #### (s) Information concerning the special supplemental nutrition program for women, infants, and children
 
@@ -726,7 +726,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 The Social Security Act, referred to in subsecs. (a)(2)(B)(ii) and (<i>o</i>)(2)(B), (5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a)(6)(B), (f)(3)(A)(ii)(I)(bb), (E)(ii)(I), (q)(1), and (r)(1)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(6)(B), (f)(3)(A)(ii)(I)(bb), (E)(ii)(I), (q)(1), and (r)(1)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A\(§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 The Head Start Act, referred to in subsec. (c)(5), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
@@ -848,7 +848,7 @@ Pub. L. 105–336, §107(j)(2)(B), in third sentence of introductory provisions,
 
 Pub. L. 105–336, §107(a)(1), in fourth sentence of introductory provisions, substituted “Except as provided in subsection (r) of this section, reimbursement” for “Reimbursement”.
 
-Subsec. (a)(1). Pub. L. 105–336, §107(a)(2), added par. (1) and struck out former par. (1) which read as follows: “no institution, other than a family or group day care home sponsoring organization, or family or group day care home shall be eligible to participate in the program unless it has Federal, State, or local licensing or approval, or is complying with appropriate renewal procedures as prescribed by the Secretary and the State has no information indicating that the institution's license will not be renewed; or where Federal, State, or local licensing or approval is not available, it receivesfunds under title XX of the Social Security Act or otherwise demonstrates that it meets either any applicable State or local government licensing or approval standards or approval standards established by the Secretary after consultation with the Secretary of Health and Human Services; and”.
+Subsec. (a)(1). Pub. L. 105–336, §107(a)(2), added par. (1) and struck out former par. (1) which read as follows: “no institution, other than a family or group day care home sponsoring organization, or family or group day care home shall be eligible to participate in the program unless it has Federal, State, or local licensing or approval, or is complying with appropriate renewal procedures as prescribed by the Secretary and the State has no information indicating that the institution's license will not be renewed; or where Federal, State, or local licensing or approval is not available, it receives funds under title XX of the Social Security Act or otherwise demonstrates that it meets either any applicable State or local government licensing or approval standards or approval standards established by the Secretary after consultation with the Secretary of Health and Human Services; and”.
 
 Subsec. (c)(6). Pub. L. 105–336, §107(b), struck out “(A)” before “A child” and struck out subpar. (B) which read as follows: “Subparagraph (A) shall apply only with respect to the provision of benefits under this section for the period beginning September 1, 1995, and ending September 30, 1997.”
 
@@ -1147,6 +1147,14 @@ Interim regulations.—Not later than January 1, 1997, the Secretary of Agricult
 Final regulations.—Not later than July 1, 1997, the Secretary of Agriculture shall issue final regulations to implement the provisions of law referred to in subparagraph (A).”
 
 Section 204(b) of Pub. L. 101–147 provided that: “Not later than July 1, 1990, the Secretary shall issue final regulations to implement the amendments made by subsection (a) \[amending this section\].”
+
+#### Recovery and Reallocation of Audit Funds
+
+Pub. L. 109–97, title VII, §769, Nov. 10, 2005, 119 Stat. 2159, provided that: “Hereafter, notwithstanding any other provision of law, funds made available to States administering the Child and Adult Care Food Program, for the purpose of conducting audits of participating institutions, funds identified by the Secretary as having been unused during the initial fiscal year of availability may be recovered and reallocated by the Secretary: <i>Provided</i>, That States may use the reallocated funds until expended for the purpose of conducting audits of participating institutions.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–447, div. A, title VII, §796, Dec. 8, 2004, 118 Stat. 2852.
 
 #### Paperwork Reduction
 

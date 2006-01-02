@@ -147,7 +147,7 @@ Pub. L. 105–277, div. C, title I, §151(c)(1), Oct. 21, 1998, 112 Stat. 2681�
 
 1996—Pub. L. 104–197, title III, §315(b)(1), Sept. 16, 1996, 110 Stat. 2416, substituted “Competitive service; recommendations of Senators or Representatives” for “Political recommendations” in item 3303.
 
-Pub. L. 104–106, div. A, title X, §1037(b)(2), Feb. 10, 1996, 110 Stat. 432, which directed substitution of “3330. Government-wide list of vacant positions” for the item relating to section 3329, as added by section 4431(b) of Pub. L. 104–484, could not be executed because of the intervening amendment by Pub. L. 104–52, §4(2). See 1995 Amendment note below.
+Pub. L. 104–106, div. A, title X, §1037(b)(2), Feb. 10, 1996, 110 Stat. 432, which directed substitution of “3330. Government-wide list of vacant positions” for the item relating to section 3329, as added by section 4431(b) of Pub. L. 102–484, could not be executed because of the intervening amendment by Pub. L. 104–52, §4(2). See 1995 Amendment note below.
 
 1995—Pub. L. 104–52, title IV, §4(2), Nov. 19, 1995, 109 Stat. 490, redesignated item 3329 “Government-wide list of vacant positions” as item 3330.
 

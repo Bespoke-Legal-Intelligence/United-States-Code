@@ -70,7 +70,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (B) In any fiscal year in which a State receives funds appropriated pursuant to this paragraph, the State shall expend a proportion of the funds appropriated pursuant to paragraph (1)(A)(i) to carry out program integrity activities that is not less than the proportion of the funds appropriated under such paragraph that was expended by the State to carry out program integrity activities in fiscal year 1997.
 
-(C) For purposes of this paragraph, the term “program integrity activities” means initial claims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
+(C) For purposes of this paragraph, the term “program integrity activities” means initialclaims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
 
 #### (d) Additional tax attributable to reduced credits; transfer of funds
 

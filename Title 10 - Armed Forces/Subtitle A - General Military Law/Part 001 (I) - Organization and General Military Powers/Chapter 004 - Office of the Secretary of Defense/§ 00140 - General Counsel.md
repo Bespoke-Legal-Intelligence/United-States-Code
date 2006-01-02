@@ -4,7 +4,7 @@
 
 (b) The General Counsel is the chief legal officer of the Department of Defense. He shall perform such functions as the Secretary of Defense may prescribe.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 519, §137; amended Pub. L. 88–426, title III, §305(9), Aug. 14, 1964, 78 Stat. 423; renumbered §139 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(d)(11), Oct. 1, 1986, 100 Stat. 995, 1003; renumbered §140, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 519, §137; amended Pub. L. 88–426, title III, §305(9), Aug. 14, 1964, 78 Stat. 423; renumbered §139 and amended Pub. L. 99–433, title I,§§101(a)(7), 110(d)(11), Oct. 1, 1986, 100 Stat. 995, 1003; renumbered §140, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
 
 Historical and Revision Notes
 
@@ -47,8 +47,4 @@ Another prior section 140 was renumbered section 127 of this title.
 #### Effective Date of 1964 Amendment
 
 For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 88–426.
-
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr.24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 

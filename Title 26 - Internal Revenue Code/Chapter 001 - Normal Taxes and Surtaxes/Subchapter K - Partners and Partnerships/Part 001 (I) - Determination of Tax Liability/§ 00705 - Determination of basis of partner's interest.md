@@ -42,7 +42,3 @@ Section 722(e)(3)(A) of Pub. L. 98–369 provided that: “The amendment made by
 
 Amendment by section 2115(c)(3) of Pub. L. 94–455 effective on Jan. 1, 1975, and applicable to taxable years ending after Dec. 31, 1974, see section 2115(f) of Pub. L. 94–455, set out as a note under section 613A of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 776 of this title.
-

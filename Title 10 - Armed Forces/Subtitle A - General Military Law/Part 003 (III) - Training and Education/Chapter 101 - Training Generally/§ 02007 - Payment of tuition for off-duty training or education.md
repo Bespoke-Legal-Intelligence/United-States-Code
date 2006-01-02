@@ -2,9 +2,17 @@
 
 (a) Subject to subsection (b), the Secretary of a military department may pay all or a portion of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such educational institution for education or training during the member's off-duty periods.
 
-(b) In the case of a commissioned officer on active duty, the Secretary of the military department concerned may not pay charges under subsection (a) unless the officer agrees to remain on active duty for a period of at least two years after the completion of the training or education for which the charges are paid.
+(b)(1) In the case of a commissioned officer on active duty or full-time National Guard duty, the Secretary of the military department concerned may not pay charges under subsection (a) unless the officer agrees to remain on active duty or full-time National Guard duty for a period of at least two years after the completion of the training or education for which the charges are paid.
 
-(c)(1) Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.
+(2) Notwithstanding paragraph (1), the Secretary of the military department may reduce or waive the active duty service obligation—
+
+&emsp;(A) in the case of a commissioned officer who is subject to mandatory separation;
+
+&emsp;(B) in the case of a commissioned officer who has completed the period of active duty service in support of a contingency operation; or
+
+&emsp;(C) in other exigent circumstances as determined by the Secretary.
+
+(c)(1) Subject to paragraphs (2) and (3), the Secretary of the Army may pay the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer.
 
 (2) The Secretary may not pay charges under paragraph (1) for tuition or expenses of an officer unless the officer agrees to remain a member of the Selected Reserve for at least four years after completion of the education or training for which the charges are paid.
 
@@ -14,7 +22,7 @@
 
 &emsp;(B) for an officer on active duty or full-time National Guard duty.
 
-(d) Subsection (c)(3) may not be construed to prohibit the Secretary of a military department from exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
+(d) Subsection (c)(3) may not be construed to prohibit the Secretary of a military departmentfrom exercising any authority that the Secretary may have to pay charges of an educational institution in the case of—
 
 &emsp;(1) a warrant officer on active duty or full-time National Guard duty;
 
@@ -26,7 +34,9 @@
 
 (2) The use of entitlement under paragraph (1) shall be governed by the provisions of section 3014(b) of title 38.
 
-(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359.)
+(f) If an officer who enters into an agreement under subsection (b) does not complete the period of active duty specified in the agreement, the officer shall be subject to the repayment provisions of section 303a(e) of title 37.
+
+(Added Pub. L. 98–525, title XIV, §1401(g)(1), Oct. 19, 1984, 98 Stat. 2618; amended Pub. L. 99–661, div. A, title VI, §651(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §3(4), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title XIV, §1484(i)(4)(A), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VI, §632, Nov. 30, 1993, 107 Stat. 1684; Pub. L. 106–65, div. A, title VI, §675, Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a), (b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–358, 1654A–359; Pub. L. 108–375, div. A, title V, §553(a), (b), Oct. 28, 2004, 118 Stat. 1912; Pub. L. 109–163, div. A, title VI, §687(c)(3), Jan. 6, 2006, 119 Stat. 3334.)
 
 #### Prior Provisions
 
@@ -96,6 +106,12 @@ June 30, 1954, ch. 432, title VII, §730, 68 Stat. 355.
 
 #### Amendments
 
+2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
+
+2004—Subsec. (b). Pub. L. 108–375, §553(a), designated existing provisions as par. (1), inserted “or full-time National Guard duty” after “active duty” in two places, and added par. (2).
+
+Subsec. (c)(1). Pub. L. 108–375, §553(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraphs (2) and (3), the Secretary of the Army may pay not more than 75 percent of the charges of an educational institution for the tuition or expenses of an officer in the Selected Reserve of the Army National Guard or the Army Reserve for education or training of such officer in a program leading to a baccalaureate degree.”
+
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(a)(1)\], added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of a military department may not pay more than 75 percent of the charges of an educational institution for the tuition or expenses of a member of the armed forces enrolled in such institution for education or training during his off-duty periods, except that—
 
 &emsp;“(1) in the case of an enlisted member in the pay grade of E–5 or higher with less than 14 years’ service, not more than 90 percent of the charges may be paid;
@@ -126,6 +142,10 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(1)\], add
 
 Subsec. (c). Pub. L. 99–661, §651(a)(2), as amended by Pub. L. 100–26, added subsec. (c).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title V, §553(c), Oct. 28, 2004, 118 Stat. 1913, provided that: “The amendment made by subsection (a) \[amending this section\] may, at the discretion of the Secretary concerned, be applied to a service obligation incurred by an officer serving on active duty as of the date of the enactment of this Act \[Oct. 28, 2004\].”
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
@@ -137,6 +157,10 @@ Section 651(c) of Pub. L. 99–661 provided that: “Subsection (c) of section 2
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
 #### Tuition Payments Contingent Upon Agreement by Officer To Remain in Ready Reserve for At Least Four Years
 
@@ -163,8 +187,4 @@ Pub. L. 100–202, §101(b) \[title VIII, §8072\], Dec. 22, 1987, 101 Stat. 132
 Pub. L. 99–500, §101(c) \[title IX, §9076\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–114, and Pub. L. 99–591, §101(c) \[title IX, §9076\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–114.
 
 Pub. L. 99–190, §101(b) \[title VIII, §8086\], Dec. 19, 1985, 99 Stat. 1185, 1216.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1745 of this title; title 38 section 3014.
 

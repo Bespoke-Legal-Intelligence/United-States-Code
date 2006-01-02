@@ -20,7 +20,7 @@ A public organization, private nonprofit organization, political subdivision, co
 
 &emsp;(3) be based on suicide prevention practices and strategies that are adapted to the local community;
 
-&emsp;(4) integrate its suicide prevention program into the existing health care system in thecommunity including general, mental, and behavioral health services, and substance abuse services;
+&emsp;(4) integrate its suicide prevention program into the existing health care system in the community including general, mental, and behavioral health services, and substance abuse services;
 
 &emsp;(5) be integrated into other systems in the community that address the needs of youth including the school systems, educational institutions, juvenile justice system, substance abuse programs, mental health programs, foster care systems, and community child and youth support organizations;
 
@@ -36,7 +36,7 @@ A public organization, private nonprofit organization, political subdivision, co
 
 #### (d) Use of funds
 
-Amounts provided under a grant or cooperative agreement under this section shall be used to supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this section. Applicants shall provide financial information to demonstrate compliance with this section.
+Amounts provided under a grant or cooperative agreement under this section shall be usedto supplement, and not supplant, Federal and non-Federal funds available for carrying out the activities described in this section. Applicants shall provide financial information to demonstrate compliance with this section.
 
 #### (e) Condition
 
@@ -88,7 +88,7 @@ For purposes of carrying out this section, there is authorized to be appropriate
 
 #### Codification
 
-Section was formerly classified to section 290bb–36 of this title prior to reunumbering by Pub. L. 108–355.
+Section was formerly classified to section 290bb–36 of this title prior to renumbering by Pub. L. 108–355.
 
 #### Amendments
 
@@ -207,6 +207,8 @@ Study.—Not later than 1 year after the date of the enactment of this Act \[Oct
 “(e)
 
 Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary.”
+
+\[For definition of “youth” as used in section 1602 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

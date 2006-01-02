@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to award grants to a nonprofit telecommunications entity, or partnership of such entities, for the purpose of carrying out a national telecommunications-based program to improve teaching in core curriculum areas. The program shall be designed to assistelementary school and secondary school teachers in preparing all students to achieve challenging State academic content and student academic achievement standards in core curriculum areas.
+The Secretary is authorized to award grants to a nonprofit telecommunications entity, or partnership of such entities, for the purpose of carrying out a national telecommunications-based program to improve teaching in core curriculum areas. The program shall be designed to assist elementary school and secondary school teachers in preparing all students to achieve challenging State academic content and student academic achievement standards in core curriculum areas.
 
 #### (b) Digital educational programming
 

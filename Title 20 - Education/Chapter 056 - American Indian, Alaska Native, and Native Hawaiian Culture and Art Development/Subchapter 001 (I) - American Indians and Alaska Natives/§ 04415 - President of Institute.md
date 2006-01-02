@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The Institute shall have a President who shall be appointed by the Board. The President of theInstitute shall serve as the chief executive officer of the Institute. Subject to the direction of the Board and the general supervision of the Chairman of the Board, the President of the Institute shall have the responsibility for carrying out the policies and functions of the Institute and shall have authority over all personnel and activities of the Institute.
+The Institute shall have a President who shall be appointed by the Board. The President of the Institute shall serve as the chief executive officer of the Institute. Subject to the direction of the Board and the general supervision of the Chairman of the Board, the President of the Institute shall have the responsibility for carrying out the policies and functions of the Institute and shall have authority over all personnel and activities of the Institute.
 
 #### (b) Compensation
 
@@ -12,5 +12,5 @@ The President of the Institute shall be paid at a rate not to exceed the maximum
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

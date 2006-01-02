@@ -23,10 +23,6 @@
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(3), Feb. 10, 1996, 110 Stat. 496, struck out “generally” after “Reserve” in item 10142.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 261 of this title.
-
 
 ---
 

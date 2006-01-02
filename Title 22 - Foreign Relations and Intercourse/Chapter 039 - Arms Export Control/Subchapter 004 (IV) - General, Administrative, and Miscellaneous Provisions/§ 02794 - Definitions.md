@@ -34,7 +34,7 @@ For purposes of this chapter, the term—
 
 &emsp;(9) “significant military equipment” means articles—
 
-&emsp;&emsp;(A) for which special export controls are warranted because of the capacity of sucharticles for substantial military utility or capability; and
+&emsp;&emsp;(A) for which special export controls are warranted because of the capacity of such articles for substantial military utility or capability; and
 
 &emsp;&emsp;(B) identified on the United States Munitions List;
 

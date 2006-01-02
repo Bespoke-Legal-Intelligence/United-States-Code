@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the requirements of paragraph (2) are met, a civil action in the name of the United Statesmay be commenced at the request of the Secretary to enjoin any section 501(c)(3) organization from further making political expenditures and for such other relief as may be appropriate to ensure that the assets of such organization are preserved for charitable or other purposes specified in section 501(c)(3). Any action under this section shall be brought in the district court of the United States for the district in which such organization has its principal place of business or for any district in which it has made political expenditures. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such organization.
+&emsp;If the requirements of paragraph (2) are met, a civil action in the name of the United States may be commenced at the request of the Secretary to enjoin any section 501(c)(3) organization from further making political expenditures and for such other relief as may be appropriate to ensure that the assets of such organization are preserved for charitable or other purposes specified in section 501(c)(3). Any action under this section shall be brought in the district court of the United States for the district in which such organization has its principal place of business or for any district in which it has made political expenditures. The court may exercise its jurisdiction over such action (as provided in section 7402(a)) separate and apart from any other action brought by the United States against such organization.
 
 #### (2) Requirements
 

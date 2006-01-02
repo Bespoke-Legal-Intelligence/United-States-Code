@@ -26,6 +26,8 @@
 | (f) | Infrastructure partners. |
 | (g) | Prerequisites for assistance. |
 | (h) | Conditions of assistance. |
+| (i) | Time limit for approval or disapproval. |
+| (j) | Repayment schedules. |
 | [823\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000823%20-%20Administration%20of%20direct%20loans%20and%20loan%20guarantees.md) | Administration of direct loans and loan guarantees. |
 | (a) | Applications. |
 | (b) | Full faith and credit. |
@@ -38,7 +40,8 @@
 | (h) | Action against obligor. |
 | (i) | Breach of conditions. |
 | (j) | Attachment. |
-| (k) | Investigation charge. |
+| (k) | Evaluation charge. |
+| (<i>l</i>) | Fees and charges. |
 | 824 to 835. Repealed or Transferred. |  |
 | [836\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000836%20-%20Employee%20protection.md) | Employee protection. |
 | (a) | General. |

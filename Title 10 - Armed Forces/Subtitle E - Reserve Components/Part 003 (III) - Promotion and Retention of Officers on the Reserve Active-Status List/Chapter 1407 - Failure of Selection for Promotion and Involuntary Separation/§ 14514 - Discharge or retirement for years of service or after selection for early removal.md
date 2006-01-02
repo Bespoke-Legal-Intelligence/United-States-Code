@@ -18,7 +18,3 @@ Par. (2). Pub. L. 107–107, §517(c)(2), added par. (2) and struck out former p
 
 Amendment by Pub. L. 107–107 effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, see section 517(g) of Pub. L. 107–107, set out as a note under section 10154 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12646, 12683, 14507, 14508, 14516, 14517, 14701, 14704, 14705 of this title.
-

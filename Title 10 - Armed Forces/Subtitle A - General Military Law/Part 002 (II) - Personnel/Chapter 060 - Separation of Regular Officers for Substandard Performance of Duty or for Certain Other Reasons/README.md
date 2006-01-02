@@ -18,10 +18,6 @@
 
 1984—Pub. L. 98–525, title V, §524(b)(2), Oct. 19, 1984, 98 Stat. 2524, substituted “Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons” for “Authority to convene boards of officers to consider separation of officers for substandard performance of duty or for certain other reasons” in item 1181.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 617 of this title.
-
 
 ---
 

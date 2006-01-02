@@ -2,7 +2,7 @@
 
 #### (a) Civil action
 
-(1) Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
+(1) Any person who, on or in connection with any goods or services, or any container forgoods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which—
 
 &emsp;(A) is likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person, or
 
@@ -78,7 +78,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(VI) the person's offer to transfer, sell, or otherwise assign the domain name to the mark owner or any third party for financial gain without having used, or having an intent to use, the domain name in the bona fide offering of any goods or services, or the person's prior conduct indicating a pattern of such conduct;
 
-&emsp;(VII) the person's provision of material and misleading false contact information when applying for the registration of the domain name, the person's intentional failure to maintain accurate contact information, or theperson's prior conduct indicating a pattern of such conduct;
+&emsp;(VII) the person's provision of material and misleading false contact information when applying for the registration of the domain name, the person's intentional failure to maintain accurate contact information, or the person's prior conduct indicating a pattern of such conduct;
 
 &emsp;(VIII) the person's registration or acquisition of multiple domain names which the person knows are identical or confusingly similar to marks of others that are distinctive at the time of registration of such domain names, or dilutive of famous marks of others that are famous at the time of registration of such domain names, without regard to the goods or services of the parties; and
 
@@ -126,7 +126,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
-(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545.)
+(July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545.)
 
 #### References in Text
 

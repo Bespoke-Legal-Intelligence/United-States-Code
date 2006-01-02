@@ -2,7 +2,7 @@
 
 (a) The Commandant may make child development services available for members and civilian employees of the Coast Guard, and thereafter as space is available for members of the Armed Forces and Federal civilian employees. Child development service benefits provided under the authority of this section shall be in addition to benefits provided under other laws.
 
-(b)(1) Except as provided in paragraph (2), the Commandant may require that amounts received as fees for the provision of services under this section at Coast Guard child developmentcenters be used only for compensation of employees at those centers who are directly involved in providing child care.
+(b)(1) Except as provided in paragraph (2), the Commandant may require that amounts received as fees for the provision of services under this section at Coast Guard child development centers be used only for compensation of employees at those centers who are directly involved in providing child care.
 
 (2) If the Commandant determines that compliance with the limitation in paragraph (1) would result in an uneconomical and inefficient use of such fee receipts, the Commandant may (to the extent that such compliance would be uneconomical and inefficient) use such receipts—
 

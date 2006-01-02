@@ -38,7 +38,7 @@
 
 #### (3) Discontinuance of MA–PD election during first year of eligibility
 
-&emsp;In applying the second sentence of section 1395w–21(e)(4) of this title in the case of an individual who is electing to discontinue enrollment in an MA–PD plan, the individual shall be permitted to enroll in a prescription drug plan under part D at the time of the election of coverage under the original medicare fee-for-service program.
+&emsp;In applying the second sentence of section 1395w–21(e)(4) of this title in the case of an individual who is electing to discontinue enrollment in an MA–PD plan, the individual shallbe permitted to enroll in a prescription drug plan under part D at the time of the election of coverage under the original medicare fee-for-service program.
 
 #### (4) Rules regarding enrollees in MA plans not providing qualified prescription drug coverage
 
@@ -68,7 +68,7 @@ With respect to the offering of qualified prescription drug coverage by an MA or
 
 #### (d) Special rules for private fee-for-service plans that offer prescription drug coverage
 
-With respect to an MA plan described in section 1395w–21(a)(2)(C) of this title that offersqualified prescription drug coverage, on and after January 1, 2006, the following rules apply:
+With respect to an MA plan described in section 1395w–21(a)(2)(C) of this title that offers qualified prescription drug coverage, on and after January 1, 2006, the following rules apply:
 
 #### (1) Requirements regarding negotiated prices
 

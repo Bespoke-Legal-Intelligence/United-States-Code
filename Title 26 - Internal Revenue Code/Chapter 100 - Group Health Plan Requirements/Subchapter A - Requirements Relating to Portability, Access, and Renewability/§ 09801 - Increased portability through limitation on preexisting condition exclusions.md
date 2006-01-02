@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or notany medical advice, diagnosis, care, or treatment was recommended or received before such date.
+&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (4) Establishment of period
 
-&emsp;Periods of creditable coverage with respect to an individual shall be established throughpresentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
+&emsp;Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
 
 #### (d) Exceptions
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in clause (i) or (ii), whichever is later.
 
-> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at a time consistent with notices required under any applicable COBRA continuation provision.
+> &emsp;&emsp;The certification under clause (i) may be provided, to the extent practicable, at atime consistent with notices required under any applicable COBRA continuation provision.
 
 #### (B) Certification
 
@@ -288,7 +288,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 “(3)
 
-Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 ormore collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
+Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
 
 &emsp;“(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 
@@ -303,8 +303,4 @@ Timely regulations.—The Secretary of the Treasury, consistent with section 104
 “(5)
 
 Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 35, 4980B, 9802 of this title; title 29 sections 1165, 2918; title 42 section 300bb–5.
 

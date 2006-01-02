@@ -26,7 +26,7 @@ As used in this chapter, the term—
 
 &emsp;(6) “government entity” includes the Government of the United States, any State or political subdivision thereof, any foreign country, and any state, provincial, municipal, or other political subdivision of a foreign country;
 
-&emsp;(7) “Attorney General” means the Attorney General of the United States or that official designated by the Attorney General to perform the Attorney General's responsibilities under this chapter; and
+&emsp;(7) “Attorney General” means the Attorney General of the United States or that officialdesignated by the Attorney General to perform the Attorney General's responsibilities under this chapter; and
 
 &emsp;(8) “act of espionage” means an activity that is a violation of—
 

@@ -98,7 +98,3 @@ Treatment of requests filed before date of enactment.—In the case of that port
 
 &emsp;“(C) such a petition may be filed without regard to whether there was a notice of the beginning of an administrative proceeding or a final partnership administrative adjustment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6228, 6230, 6231, 6422, 6515 of this title.
-

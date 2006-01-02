@@ -54,7 +54,7 @@ Sec. 2. The Secretary of Transportation is designated and empowered to receive o
 
 Sec. 3. (a) Except as otherwise provided in this section, decisions of the DOT subject to Section 801 of the Federal Aviation Act, as amended, may be made available by the DOT for public inspection and copying following transmission to Executive departments and agencies pursuant to section 3(c) of this Order.
 
-(b) In the interests of national security, and in order to allow for consideration of appropriate action underExecutive Order No. 12356 \[50 U.S.C. 435 note\], decisions of the DOT transmitted to Executive departments and agencies pursuant to section 3(c) of this Order shall be withheld from public disclosure for a period not to exceed 5 days after said transmission.
+(b) In the interests of national security, and in order to allow for consideration of appropriate action under Executive Order No. 12356 \[50 U.S.C. 435 note\], decisions of the DOT transmitted to Executive departments and agencies pursuant to section 3(c) of this Order shall be withheld from public disclosure for a period not to exceed 5 days after said transmission.
 
 (c) At the same time that decisions of the DOT are received by the Secretary of Transportation pursuant to section 2 of this Order, the DOT shall transmit copies thereof to the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Attorney General, the Assistant to the President for National Security Affairs, the Director of the Office of Management and Budget, and any other Executive department or agency that the DOT deems appropriate.
 

@@ -20,13 +20,13 @@
 
 &emsp;(B) constitute the sums available for allocation by the Secretary under section 4407 of this title;
 
-&emsp;(C) shall become available for apportionment under this chapter at the beginning of fiscal year 2006.
+&emsp;(C) shall become available for apportionment under this chapter at the beginning of fiscal year 2016.
 
 #### (c) Wildlife Conservation and Restoration Account
 
 (1) Amounts transferred to the Wildlife Conservation and Restoration Account shall supplement, but not replace, existing funds available to the States from the sport fish restoration account and wildlife restoration account and shall be used for the development, revision, and implementation of wildlife conservation and restoration programs and should be used to address the unmet needs for a diverse array of wildlife and associated habitats, including species that are not hunted or fished, for wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
 
-(2) Funds may be used by a State or an Indian tribe for the planning and implementation of its wildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) <sup>2</sup> of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
+(2) Funds may be used by a State or an Indian tribe for the planning and implementation of itswildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) <sup>2</sup> of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
 
 (3) Priority for funding from the Wildlife Conservation and Restoration Account shall be for those species with the greatest conservation need as defined by the State wildlife conservation and restoration program.
 
@@ -34,13 +34,15 @@
 
 Notwithstanding subsections (a) and (b) of this section, with respect to amounts transferred to the Wildlife Conservation and Restoration Account, so much of such amounts apportioned to any State for any fiscal year as remains unexpended at the close thereof shall remain available for obligation in that State until the close of the second succeeding fiscal year.
 
-(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120.)
+(Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034.)
 
 #### References in Text
 
 The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (b)(2)(C). Pub. L. 109–75 substituted “2016” for “2006”.
 
 2000—Subsec. (a). Pub. L. 106–553, §1(a)(2) \[title IX, §902(d)(1)\], designated existing provisions as par. (1) and added par. (2).
 

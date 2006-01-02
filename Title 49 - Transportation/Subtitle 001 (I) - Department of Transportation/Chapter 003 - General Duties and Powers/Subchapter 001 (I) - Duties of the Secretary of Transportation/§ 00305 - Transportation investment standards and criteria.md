@@ -34,7 +34,7 @@
 
 &emsp;(3) send the survey, plan, or report to the President for disposition under law and procedure established by the President.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2420.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2420.)
 
 Historical and Revision Notes
 

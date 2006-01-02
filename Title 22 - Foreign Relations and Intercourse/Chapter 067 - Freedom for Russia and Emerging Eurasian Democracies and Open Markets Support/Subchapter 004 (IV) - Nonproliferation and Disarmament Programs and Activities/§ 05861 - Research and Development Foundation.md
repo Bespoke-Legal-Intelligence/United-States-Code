@@ -30,7 +30,7 @@ In carrying out its purposes, the Foundation shall—
 
 #### (1) Use of certain Department of Defense funds
 
-&emsp;(A) To the extent funds appropriated to carry out subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993 \[22 U.S.C. 5931\] (relating to joint research and development programs with theindependent states of the former Soviet Union) are otherwise available for such purpose, such funds may be made available to the Director for use by the Director in establishing the endowment of the Foundation and otherwise carrying out this section.
+&emsp;(A) To the extent funds appropriated to carry out subtitle E of title XIV of the National Defense Authorization Act for Fiscal Year 1993 \[22 U.S.C. 5931\] (relating to joint research and development programs with the independent states of the former Soviet Union) are otherwise available for such purpose, such funds may be made available to the Director for use by the Director in establishing the endowment of the Foundation and otherwise carrying out this section.
 
 &emsp;(B) For each fiscal year after fiscal year 1993, not more than 50 percent of the funds made available to the Foundation by the United States Government may be funds appropriated in the national defense budget function (function 050).
 

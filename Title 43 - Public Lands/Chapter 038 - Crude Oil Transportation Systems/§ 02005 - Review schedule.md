@@ -46,3 +46,7 @@ Nothing in this chapter shall be construed to prevent the acceptance and review 
 
 (Pub. L. 95–617, title V, §505, Nov. 9, 1978, 92 Stat. 3158.)
 
+#### Definitions
+
+The definitions of “State” and “antitrust laws” in section 2602 of Title 16, Conservation, apply to this section.
+

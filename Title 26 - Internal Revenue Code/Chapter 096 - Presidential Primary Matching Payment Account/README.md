@@ -25,10 +25,6 @@ A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory
 
 1976—Pub. L. 94–283, title III, §305(b), May 11, 1976, 90 Stat. 499, substituted “limitations” for “limitation” in item 9035.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 9003 of this title; title 2 sections 431, 432, 434, 437c, 437d, 437f, 437g, 438, 439c, 441a.
-
 
 ---
 

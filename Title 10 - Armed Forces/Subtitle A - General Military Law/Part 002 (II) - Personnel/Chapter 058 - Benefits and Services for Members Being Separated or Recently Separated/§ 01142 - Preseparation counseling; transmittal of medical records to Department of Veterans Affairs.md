@@ -24,7 +24,13 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(3) An explanation of the procedures for and advantages of affiliating with the Selected Reserve.
 
-&emsp;(4) Information concerning Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.).<sup>1</sup>
+&emsp;(4) Provision of information on civilian occupations and related assistance programs, including information concerning—
+
+&emsp;&emsp;(A) certification and licensure requirements that are applicable to civilian occupations;
+
+&emsp;&emsp;(B) civilian occupations that correspond to military occupational specialties; and
+
+&emsp;&emsp;(C) Government and private-sector programs for job search and job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement programs established under sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.).<sup>1</sup>
 
 &emsp;(5) If the member has a spouse, job placement counseling for the spouse.
 
@@ -38,17 +44,43 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 &emsp;(10) The creation of a transition plan for the member to attempt to achieve the educational, training, and employment objectives of the member and, if the member has a spouse, the spouse of the member.
 
+&emsp;(11) Information concerning the availability of mental health services and the treatment of post-traumatic stress disorder, anxiety disorders, depression, suicidal ideations, or other mental health conditions associated with service in the armed forces.
+
+&emsp;(12) Information concerning the priority of service for veterans in the receipt of employment, training, and placement services provided under qualified job training programs of the Department of Labor.
+
+&emsp;(13) Information concerning veterans small business ownership and entrepreneurship programs of the Small Business Administration and the National Veterans Business Development Corporation.
+
+&emsp;(14) Information concerning employment and reemployment rights and obligations under chapter 43 of title 38.
+
+&emsp;(15) Information concerning veterans preference in federal <sup>2</sup> employment and federal <sup>2</sup> procurement opportunities.
+
+&emsp;(16) Contact information for housing counseling assistance.
+
+&emsp;(17) A description, developed in consultation with the Secretary of Veterans Affairs, of health care and other benefits to which the member may be entitled under the laws administered by the Secretary of Veterans Affairs.
+
 (c)
 
 Transmittal of Medical Information to Department of Veterans Affairs.—In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281.)
 
 #### References in Text
 
-The Troops-to-Teachers Program Act of 1999, referred to in subsec. (b)(4), is title XVII of div. A of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 817, which was classified principally to chapter 74 (§9301 et seq.) of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, §1011(6), Jan. 8, 2002, 115 Stat. 1986.
+The Troops-to-Teachers Program Act of 1999, referred to in subsec. (b)(4)(C), is title XVII of div. A of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 817, which was classified principally to chapter 74 (§9301 et seq.) of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, §1011(6), Jan. 8, 2002, 115 Stat. 1986.
 
 #### Amendments
+
+2006—Subsec. (b)(4). Pub. L. 109–163, §594(1), substituted “Provision of information on civilian occupations and related assistance programs, including information concerning—
+
+&emsp;“(A) certification and licensure requirements that are applicable to civilian occupations;
+
+&emsp;“(B) civilian occupations that correspond to military occupational specialties; and
+
+&emsp;“(C)”
+
+> for “Information concerning”.
+
+Subsec. (b)(11) to (17). Pub. L. 109–163, §594(2), added pars. (11) to (17).
 
 2001—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member.”
 
@@ -78,9 +110,7 @@ Pub. L. 103–337, div. A, title V, §543(a), Oct. 5, 1994, 108 Stat. 2769, prov
 
 Pub. L. 103–337, div. A, title V, §543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) \[set out above\] or the amendments made by this section \[amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1078a, 1144 of this title; title 20 section 6672.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

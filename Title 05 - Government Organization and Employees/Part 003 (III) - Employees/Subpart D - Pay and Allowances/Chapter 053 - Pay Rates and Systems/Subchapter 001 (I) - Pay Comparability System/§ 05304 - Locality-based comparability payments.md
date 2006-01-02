@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the percentage for the second calendar year in which any amounts are payable under this section may not be less than 3/10 of the amount needed to reduce the pay disparity of the locality involved to 5 percent;
 
-&emsp;&emsp;(C) the percentage for the third calendar year in which any amounts are payable under this section may not be less than 2/5 of the amount needed to reduce the pay disparity of the locality involved to 5 percent;
+&emsp;&emsp;(C) the percentage for the third calendar year in which any amounts are payable under this section may not be less than 2/5 ofthe amount needed to reduce the pay disparity of the locality involved to 5 percent;
 
 &emsp;&emsp;(D) the percentage for the fourth calendar year in which any amounts are payable under this section may not be less than 1/2 of the amount needed to reduce the pay disparity of the locality involved to 5 percent;
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(H) the percentage for the eighth calendar year in which any amounts are payable under this section may not be less than 9/10 of the amount needed to reduce the pay disparity of the locality involved to 5 percent; and
 
-&emsp;&emsp;(I) the percentage for the ninth calendar year in which any amounts are payableunder this section, and any year thereafter, may not be less than the full amount necessary to reduce the pay disparity of the locality involved to 5 percent.
+&emsp;&emsp;(I) the percentage for the ninth calendar year in which any amounts are payable under this section, and any year thereafter, may not be less than the full amount necessary to reduce the pay disparity of the locality involved to 5 percent.
 
 &emsp;(4) Nothing in this section shall be considered to preclude the President, in his discretion, from adjusting comparability payments to a level higher than the minimum level otherwise required in a calendar year, including to the level necessary to eliminate a locality's pay disparity completely.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(A) identify each pay locality;
 
-&emsp;&emsp;(B) specify which localities have pay disparities in excess of 5 percent, and the size of the disparity existing in each of those localities, according to the pay agent's most recent report under paragraph (1) (before and after taking into consideration any comparability payments payable); and
+&emsp;&emsp;(B) specify which localities have pay disparities in excess of 5 percent, and the size of the disparity existing in each of those localities, according to the pay agent's most recent report under paragraph (1) (before andafter taking into consideration any comparability payments payable); and
 
 &emsp;&emsp;(C) indicate the size of the respective comparability payments (expressed as percentages) which will be in effect under paragraph (2) for the various pay localities specified under subparagraph (B) for the applicable calendar year.
 
@@ -78,7 +78,7 @@
 
 &emsp;(B) 6 shall be representatives of employee organizations which represent substantial numbers of employees holding General Schedule positions, and who shall be selected giving due consideration to such factors as the relative numbers of employees represented by the various organizations, except that not more than 3 members of the Council at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
 
-> Members of the Council shall not receive pay by reason of their service on the Council, nor shall members who are not otherwise employees of the United States be considered employees by reason of any such service. However, membersunder subparagraph (A) may be paid expenses in accordance with section 5703. The President shall designate one of the members to serve as Chairman of the Federal Salary Council. One of the 3 members under subparagraph (A) may be the Chairman of the Federal Prevailing Rate Advisory Committee, notwithstanding the restriction under section 5347(a)(1), and such individual may also be designated to serve as Chairman of the Federal Salary Council.
+> Members of the Council shall not receive pay by reason of their service on the Council, nor shall members who are not otherwise employees of the United States be considered employees by reason of any such service. However, members under subparagraph (A) may be paid expenses in accordance with section 5703. The President shall designate one of the members to serve as Chairman of the Federal Salary Council. One of the 3 members under subparagraph (A) may be the Chairman of the Federal Prevailing Rate Advisory Committee, notwithstanding the restriction under section 5347(a)(1), and such individual may also be designated to serve as Chairman of the Federal Salary Council.
 
 (2) The pay agent shall—
 
@@ -136,7 +136,7 @@
 
 &emsp;(v) a position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151; or
 
-&emsp;(vi) a position in a system equivalent to the system in clause (iv), as determined by the President's Pay Agent designated under subsection (d).
+&emsp;(vi) a position in a system equivalent to the system in clause (iv), as determined by thePresident's Pay Agent designated under subsection (d).
 
 (2)(A) Notwithstanding subsection (c)(4) or any other provision of this section, but subject to subparagraph (B) and paragraph (3), upon the request of the head of an Executive agency with respect to 1 or more categories of positions, the President may provide that each employee of such agency who holds a position within such category, and within the particular locality involved, shall be entitled to receive comparability payments.
 
@@ -146,7 +146,7 @@
 
 &emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), or (vi) of paragraph (1)).
 
-(C) Notwithstanding subsection (c)(4) or any other provision of law, but subject to paragraph (3), in the case of a category with positions that are in more than 1 Executive agency, the President may, on his own initiative, provide thateach employee who holds a position within such category, and in the locality involved, shall be entitled to receive comparability payments. No later than 30 days before an employee receives comparability payments under this subparagraph, the President or the President's designee shall submit a detailed report to the Congress justifying the reasons for the extension, including consideration of recruitment and retention rates and the expense of extending locality pay.
+(C) Notwithstanding subsection (c)(4) or any other provision of law, but subject to paragraph (3), in the case of a category with positions that are in more than 1 Executive agency, the President may, on his own initiative, provide that each employee who holds a position within such category, and in the locality involved, shall be entitled to receive comparability payments. No later than 30 days before an employee receives comparability payments under this subparagraph, the President or the President's designee shall submit a detailed report to the Congress justifying the reasons for the extension, including consideration of recruitment and retention rates and the expense of extending locality pay.
 
 (3) Comparability payments under this subsection—
 
@@ -238,7 +238,7 @@ Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) gener
 
 1978—Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-1970—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies andthe Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
+1970—Pub. L. 91–375 struck out provisions making functions, duties and regulations of the agencies and the Civil Service Commission with respect to the provisions of part III of title 39 relating to employees in the postal field service subject to Presidential policies and regulations.
 
 #### Effective Date of 2004 Amendment
 
@@ -446,7 +446,7 @@ Sec. 2. <i>Function</i>. The Council shall meet with the President's Pay Agent, 
 
 (c) the process of comparing the rates of pay payable under the General Schedule with rates of pay for the same levels of work performed by non-Federal workers; and
 
-(d) the level of comparability payments that should be paid in order to eliminate or reduce pay disparities in accordance with the requirements of section 5304 of title 5, United States Coce.
+(d) the level of comparability payments that should be paid in order to eliminate or reduce pay disparities in accordance with the requirements of section 5304 of title 5, United States Coce \[sic\].
 
 Sec. 3. <i>Administration</i>. (a) Members of the Council shall receive no pay by reason of their service on the Council.
 
@@ -458,165 +458,9 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Locality-Based Comparability Payments
 
-Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title, provided in part for payment of locality-based comparability payments effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2005. See Schedule set out as follows:
+For adjustment of locality-based comparability payments under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of this title.
 
-Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
-
-Locality Pay Area <sup>1</sup>
-
-Rate
-
-Atlanta-Sandy Springs-Gainesville, GA–AL
-
-13\.87%
-
-Boston-Worcester-Manchester, MA–NH–ME–RI
-
-18\.49%
-
-Chicago-Naperville-Michigan City, IL–IN–WI
-
-19\.70%
-
-Cincinnati-Middletown-Wilmington, OH–KY–IN
-
-16\.04%
-
-Cleveland-Akron-Elyria, OH
-
-14\.24%
-
-Columbus-Marion-Chillicothe, OH
-
-13\.98%
-
-Dallas-Fort Worth, TX
-
-15\.07%
-
-Dayton-Springfield-Greenville, OH
-
-12\.86%
-
-Denver-Aurora-Boulder, CO
-
-18\.06%
-
-Detroit-Warren-Flint, MI
-
-19\.67%
-
-Hartford-West Hartford-Willimantic, CT–MA
-
-19\.52%
-
-Houston-Baytown-Huntsville, TX
-
-24\.77%
-
-Huntsville-Decatur, AL
-
-12\.42%
-
-Indianapolis-Anderson-Columbus, IN
-
-12\.01%
-
-Kansas City-Overland Park-Kansas City, MO–KS
-
-12\.36%
-
-Los Angeles-Long Beach-Riverside, CA
-
-21\.65%
-
-Miami-Fort Lauderdale-Miami Beach, FL
-
-16\.77%
-
-Milwaukee-Racine-Waukesha, WI
-
-13\.62%
-
-Minneapolis-St. Paul-St. Cloud, MN–WI
-
-15\.99%
-
-New York-Newark-Bridgeport, NY–NJ–CT–PA
-
-20\.99%
-
-Orlando-The Villages, FL
-
-11\.75%
-
-Philadelphia-Camden-Vineland, PA–NJ–DE–MD
-
-16\.67%
-
-Pittsburgh-New Castle, PA
-
-12\.86%
-
-Portland-Vancouver-Beaverton, OR–WA
-
-15\.93%
-
-Richmond, VA
-
-13\.15%
-
-Sacramento–Arden-Arcade–Truckee, CA–NV
-
-16\.51%
-
-St. Louis-St. Charles-Farmington, MO–IL
-
-12\.09%
-
-San Diego-Carlsbad-San Marcos, CA
-
-17\.68%
-
-San Jose-San Francisco-Oakland, CA
-
-26\.39%
-
-Seattle-Tacoma-Olympia, WA
-
-16\.53%
-
-Washington-Baltimore-Northern Virginia, DC–MD–PA–VA–WV
-
-15\.98%
-
-Rest of U.S.
-
-11\.72%
-
-<sup>1</sup> Locality Pay Areas are defined in 5 CFR 531.603.
-
-Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, which provided for payment of locality-based comparability payments effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for payment of locality-based comparability payments effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, §3, Mar. 21, 2003, 68 F.R. 14525, which provided for payment of locality-based comparability payments effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
-
-Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for payment of locality-based comparability payments effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended, formerly set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for payment of locality-based comparability payments effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for payment of locality-based comparability payments effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for payment of locality-based comparability payments effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for payment of locality-based comparability payments effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for payment of locality-based comparability payments effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, which provided for payment of locality-based comparability payments effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of this title.
-
-Approval of locality-based comparability payments recommended by the Director of the Office of Personnel Management was contained in the following:
+Approvals of locality-based comparability payments recommended by the Director of the Office of Personnel Management were contained in the following:
 
 Memorandum of President of the United States, Nov. 30, 1994, 59 F.R. 62549.
 

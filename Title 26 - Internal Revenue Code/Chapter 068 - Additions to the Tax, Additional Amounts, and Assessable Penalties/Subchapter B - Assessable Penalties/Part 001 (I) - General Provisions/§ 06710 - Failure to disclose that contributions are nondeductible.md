@@ -40,7 +40,3 @@ For purposes of this section, any failure to meet the requirement of section 611
 
 Section applicable to solicitations after Jan. 31, 1988, see section 10701(d) of Pub. L. 100–203, set out as a note under section 6113 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6711 of this title.
-

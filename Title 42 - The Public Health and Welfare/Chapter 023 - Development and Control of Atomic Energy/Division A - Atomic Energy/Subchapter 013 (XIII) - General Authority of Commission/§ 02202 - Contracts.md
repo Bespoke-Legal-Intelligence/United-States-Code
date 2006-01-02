@@ -2,7 +2,7 @@
 
 The President may, in advance, exempt any specific action of the Commission in a particular matter from the provisions of law relating to contracts whenever he determines that such action is essential in the interest of the common defense and security.
 
-(Aug. 1, 1946, ch. 724, title I, §162, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 951; renumberedtitle I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §162, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 951; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 

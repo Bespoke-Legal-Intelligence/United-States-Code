@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(iv) any economic enterprise (as defined in section 1452(e) of title 25);
 
-&emsp;(2) The term “livestock” means cattle, elk, reindeer, bison, sheep, goats, swine, poultry (including egg-producing poultry), equine animals used for food or in the production of food, fish used for food, and other animals designated by the Secretary (at the Secretary's sole discretion) that—
+&emsp;(2) The term “livestock” means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), fish used for food, and other animals designated by the Secretary (at the Secretary's sole discretion) that—
 
 &emsp;&emsp;(A) are part of a foundation herd (including producing dairy cattle) or offspring; or
 
@@ -36,7 +36,7 @@ As used in this subchapter:
 
 &emsp;(5) The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) <sup>2</sup> of this title).
 
-(Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, §785(b)(1), Dec. 8, 2004, 118 Stat. 2850.)
+(Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, §785(b)(1), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, §784(b)(1), Nov. 10, 2005, 119 Stat. 2162.)
 
 #### References in Text
 
@@ -48,7 +48,21 @@ Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignat
 
 #### Amendments
 
-2004—Par. (2). Pub. L. 108–447 inserted “elk, reindeer, bison,” after “means cattle,”.
+2005—Par. (2). Pub. L. 109–97, in introductory provisions, inserted “horses, deer,” after “bison,” and struck out “equine animals used for food or in the production of food,” before “fish”.
+
+2004—Par. (2). Pub. L. 108–447 inserted “elk, reindeer, bison,” after “means cattle,” in introductory provisions.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–97, title VII, §784(c), Nov. 10, 2005, 119 Stat. 2163, provided that:
+
+“(1)
+
+In general.—This section \[amending this section and section 1472 of this title and enacting provisions set out as a note under this section\] and the amendments made by this section apply to losses resulting from a disaster that occurs on or after July 28, 2005.
+
+“(2)
+
+Prior losses.—This section and the amendments made by this section do not apply to losses resulting from a disaster that occurred before July 28, 2005.”
 
 #### Effective Date
 
@@ -57,6 +71,10 @@ Section effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 
 #### Short Title
 
 For short title of title VI of act Oct. 31, 1949, ch. 792, which enacted this subchapter, as the “Emergency Livestock Feed Assistance Act of 1988”, see Short Title of 1988 Amendment note set out under section 1421 of this title.
+
+#### Inclusion of Horses and Deer Within Definition of “Livestock”
+
+Pub. L. 109–97, title VII, §784(a), Nov. 10, 2005, 119 Stat. 2162, provided that: “In carrying out a livestock assistance, compensation, or feed program, the Secretary of Agriculture shall include horses and deer within the definition of ‘livestock’ covered by the program.”
 
 #### Inapplicability of Section
 

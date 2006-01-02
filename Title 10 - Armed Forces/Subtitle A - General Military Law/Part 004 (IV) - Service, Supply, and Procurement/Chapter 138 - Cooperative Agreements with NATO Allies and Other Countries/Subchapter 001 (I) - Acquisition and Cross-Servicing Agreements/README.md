@@ -30,10 +30,6 @@
 
 1985—Pub. L. 99–145, title XIII, §1304(a)(6), Nov. 8, 1985, 99 Stat. 742, renumbered items 2321 to 2328 as 2341 to 2348, respectively, and items 2330 and 2331 as 2349 and 2350, respectively, and struck out item 2329 “Regulations”.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2350d of this title.
-
 
 ---
 

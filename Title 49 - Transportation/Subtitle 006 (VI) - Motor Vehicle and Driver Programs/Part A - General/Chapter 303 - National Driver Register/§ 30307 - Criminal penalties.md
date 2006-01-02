@@ -2,7 +2,7 @@
 
 (a)
 
-General Penalty.—A person (except an individual described in section 30305(b)(6) <sup>1</sup> ofthis title) shall be fined under title 18, imprisoned for not more than one year, or both, if—
+General Penalty.—A person (except an individual described in section 30305(b)(6) <sup>1</sup> of this title) shall be fined under title 18, imprisoned for not more than one year, or both, if—
 
 &emsp;(1) the person receives under section 30305 of this title information specified in section 30304(b)(1)(A) or (C) of this title;
 

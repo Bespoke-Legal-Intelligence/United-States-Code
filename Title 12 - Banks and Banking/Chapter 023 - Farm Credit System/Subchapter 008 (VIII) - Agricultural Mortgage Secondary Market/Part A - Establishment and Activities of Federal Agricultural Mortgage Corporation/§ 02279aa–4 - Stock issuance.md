@@ -30,7 +30,7 @@
 
 #### (2) Stock issued as consideration for contribution
 
-&emsp;The Corporation, from time to time, shall issue to each originator or certified facilityvoting common stock evidencing any capital contributions made pursuant to this subsection.
+&emsp;The Corporation, from time to time, shall issue to each originator or certified facility voting common stock evidencing any capital contributions made pursuant to this subsection.
 
 #### (c) Dividends
 
@@ -64,7 +64,7 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 &emsp;In the event of any liquidation, dissolution, or winding up of the business of the Corporation, the holders of the preferred shares of stock shall be paid in full at the par value thereof, plus all accrued dividends, before the holders of the common shares receive any payment.
 
-(Pub. L. 92–181, title VIII, §8.4, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1692; amended Pub. L. 100–399, title VI, §601(d), (e), Aug. 17, 1988, 102 Stat. 1005.)
+(Pub. L. 92–181, title VIII, §8.4, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1692;amended Pub. L. 100–399, title VI, §601(d), (e), Aug. 17, 1988, 102 Stat. 1005.)
 
 #### Amendments
 

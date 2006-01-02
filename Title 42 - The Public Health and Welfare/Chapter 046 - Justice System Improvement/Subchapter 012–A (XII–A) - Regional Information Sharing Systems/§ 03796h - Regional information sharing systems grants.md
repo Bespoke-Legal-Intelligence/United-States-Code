@@ -2,19 +2,19 @@
 
 #### (a) Authority of Director
 
-The Director of the Bureau of Justice Assistance is authorized to make grants and enter intocontracts with State and local criminal justice agencies and nonprofit organizations for the purposes of identifying, targeting, and removing criminal conspiracies and activities and terrorist conspiracies and activities spanning jurisdictional boundaries.
+The Director of the Bureau of Justice Assistance is authorized to make grants and enter into contracts with State and local criminal justice agencies and nonprofit organizations for the purposes of identifying, targeting, and removing criminal conspiracies and activities and terrorist conspiracies and activities spanning jurisdictional boundaries.
 
 #### (b) Purposes
 
 Grants and contracts awarded under this subchapter shall be made for—
 
-&emsp;(1) maintaining and operating information sharing systems that are responsive to the needs of participating enforcement agencies in addressing multijurisdictional offenses and conspiracies, and that are capable of providing controlling input, dissemination, rapid retrieval, and systematized updating of information to authorized agencies;
+&emsp;(1) maintaining and operating regional information sharing systems that are responsive to the needs of participating enforcement agencies in addressing multijurisdictional offenses and conspiracies, and that are capable of providing controlling input, dissemination, rapid retrieval, and systematized updating of information to authorized agencies;
 
 &emsp;(2) establishing and operating an analytical component to assist participating agencies and projects in the compilation, interpretation, and presentation of information provided to a project;
 
-&emsp;(3) establishing and maintaining a telecommunication of the information sharing and analytical programs in clauses (1) and (2);
+&emsp;(3) establishing and maintaining a secure telecommunications system for regional information sharing between Federal, State, tribal, and local law enforcement agencies;
 
-&emsp;(4) establishing and operating secure information sharing systems to enhance the investigation and prosecution abilities of participating enforcement agencies in addressing multi-jurisdictional terrorist conspiracies and activities; and (5) <sup>1</sup>
+&emsp;(4) establishing and operating secure information sharing systems to enhance the investigation and prosecution abilities of participating enforcement agencies in addressing multi-jurisdictional terrorist conspiracies and activities; and
 
 &emsp;(5) other programs designated by the Director that are designed to further the purposes of this subchapter.
 
@@ -26,7 +26,7 @@ The Director is authorized to promulgate such rules and regulations as are neces
 
 There are authorized to be appropriated to the Bureau of Justice Assistance to carry out this section $50,000,000 for fiscal year 2002 and $100,000,000 for fiscal year 2003.
 
-(Pub. L. 90–351, title I, §1301, as added Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat. 4340; amended Pub. L. 107–56, title VII, §701, Oct. 26, 2001, 115 Stat. 374.)
+(Pub. L. 90–351, title I, §1301, as added Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat. 4340; amended Pub. L. 107–56, title VII, §701, Oct. 26, 2001, 115 Stat. 374; Pub. L. 109–162, title XI, §1114, Jan. 5, 2006, 119 Stat. 3103.)
 
 #### Prior Provisions
 
@@ -37,6 +37,12 @@ Another prior section 1301 of Pub. L. 90–351, title VIII, June 19, 1968, 82 St
 For other prior sections 1301 of Pub. L. 90–351 and prior section 3796h of this title, see note set out preceding this section.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–162, §1114(1), inserted “regional” before “information sharing systems”.
+
+Subsec. (b)(3). Pub. L. 109–162, §1114(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “establishing and maintaining a telecommunication of the information sharing and analytical programs in clauses (1) and (2);”.
+
+Subsec. (b)(4). Pub. L. 109–162, §1114(3), struck out “(5)” at end.
 
 2001—Subsec. (a). Pub. L. 107–56, §701(1), inserted “and terrorist conspiracies and activities” after “criminal conspiracies and activities”.
 

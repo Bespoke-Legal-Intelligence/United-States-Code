@@ -86,6 +86,26 @@ In subsection (b)(1), the words “taken and” are omitted as unnecessary. The 
 
 1999—Subsec. (b)(1). Pub. L. 106–159 struck out “to operate the vehicle” after “written and driving tests” and inserted “to operate the vehicle and has a commercial driver's license to operate the vehicle” before period at end.
 
+#### Operation of Commercial Motor Vehicles by Individuals Who Use Insulin To Treat Diabetes Mellitus
+
+Pub. L. 109–59, title IV, §4129, Aug. 10, 2005, 119 Stat. 1742, provided that:
+
+“(a)
+
+Revision of Final Rule.—Not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall begin revising the final rule published in the Federal Register on September 3, 2003, relating to persons with diabetes, to allow individuals who use insulin to treat their diabetes to operate commercial motor vehicles in interstate commerce. The revised final rule shall provide for the individual assessment of applicants who use insulin to treat their diabetes and who are, except for their use of insulin, otherwise qualified under the Federal motor carrier safety regulations. The revised final rule shall be consistent with the criteria described in section 4018 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (49 U.S.C. 31305 note) and shall conclude the rulemaking process in the Federal Motor Carrier Safety Administration docket relating to qualifications of drivers with diabetes.
+
+“(b)
+
+No Period of Commercial Driving While Using Insulin Required for Qualification.—After the earlier of the date of issuance of the revised final rule under subsection (a) or the 90th day following the date of enactment of this Act \[Aug. 10, 2005\], the Secretary may not require individuals with insulin-treated diabetes mellitus who are applying for an exemption from the physical qualification standards to have experience operating commercial motor vehicles while using insulin in order to be exempted from the physical qualification standards to operate a commercial motor vehicle in interstate commerce.
+
+“(c)
+
+Minimum Period of Insulin Use.—Subject to subsection (b), the Secretary shall require individuals with insulin-treated diabetes mellitus to have a minimum period of insulin use to demonstrate stable control of diabetes before operating a commercial motor vehicle in interstate commerce. Such demonstration shall be consistent with the findings reported in July 2000, by the expert medical panel established by the Secretary, in ‘A Report to Congress on the Feasibility of a Program to Qualify Individuals with Insulin-Treated Diabetes Mellitus to Operate Commercial Motor Vehicles in Interstate Commerce as Directed by the Transportation Equity Act for the 21st Century’. For individuals who have been newly diagnosed with type 1 diabetes, the minimum period of insulin use may not exceed 2 months, unless directed by the treating physician. For individuals who have type 2 diabetes and are converting to insulin use, the minimum period of insulin use may not exceed 1 month, unless directed by the treating physician.
+
+“(d)
+
+Limitations.—Insulin-treated individuals may not be held by the Secretary to a higher standard of physical qualification in order to operate a commercial motor vehicle in interstate commerce than other individuals applying to operate, or operating, a commercial motor vehicle in interstate commerce; except to the extent that limited operating, monitoring, and medical requirements are deemed medically necessary under regulations issued by the Secretary.”
+
 #### CDL School Bus Endorsement
 
 Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct a rulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
@@ -110,7 +130,7 @@ Pub. L. 105–178, title IV, §4018, June 9, 1998, 112 Stat. 413, provided that:
 
 “(a)
 
-Determination.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall determine whether a practicable and cost-effective screening, operating, and monitoring protocol could likely be developed for insulin treated diabetes mellitus individuals who want to operate commercial motor vehicles in interstatecommerce that would ensure a level of safety equal to or greater than that achieved with the current prohibition on individuals with insulin treated diabetes mellitus driving such vehicles.
+Determination.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall determine whether a practicable and cost-effective screening, operating, and monitoring protocol could likely be developed for insulin treated diabetes mellitus individuals who want to operate commercial motor vehicles in interstate commerce that would ensure a level of safety equal to or greater than that achieved with the current prohibition on individuals with insulin treated diabetes mellitus driving such vehicles.
 
 “(b)
 

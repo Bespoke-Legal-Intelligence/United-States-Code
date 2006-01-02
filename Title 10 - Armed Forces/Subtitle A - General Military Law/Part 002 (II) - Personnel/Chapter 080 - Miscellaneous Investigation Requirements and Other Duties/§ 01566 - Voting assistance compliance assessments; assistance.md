@@ -62,31 +62,33 @@ Voting Assistance Officers.—(1) Voting assistance officers shall be appointed 
 
 Delivery of Mail From Overseas Preceding Federal Elections.—(1) During the four months preceding a general Federal election month, the Secretary of Defense shall periodically conduct surveys of all overseas locations and vessels at sea with military units responsible for collecting mail for return shipment to the United States and all port facilities in the United States and overseas where military-related mail is collected for shipment to overseas locations or to the United States. The purpose of each survey shall be to determine if voting materials are awaiting shipment at any such location and, if so, the length of time that such materials have been held at that location. During the fourth and third months before a general Federal election month, such surveys shall be conducted biweekly. During the second and first months before a general Federal election month, such surveys shall be conducted weekly.
 
-(2) The Secretary shall ensure that voting materials are transmitted expeditiously by military postal authorities at all times. The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of theHelp America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.
+(2) The Secretary shall ensure that voting materials are transmitted expeditiously by military postal authorities at all times. The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.
 
 (3) In this section, the term “general Federal election month” means November in an even-numbered year.
 
 (h)
 
-Notice of Deadlines and Requirements.—The Secretary of each military department, utilizing the voting assistance officer network established for each military installation, shall, to the maximum extent practicable, provide notice to members of the Armed Forces stationed at that installation of the last date before a general Federal election for which absentee ballots mailed from a postal facility located at that installation can reasonably be expected to be timely delivered to the appropriate State and local election officials.
+Notice of Deadlines and Requirements.—The Secretary of each military department, utilizing the voting assistance officer network established for each military installation, shall, to the maximum extent practicable, provide notice to members of the armed forces stationed at that installation of the last date before a general Federal election for which absentee ballots mailed from a postal facility located at that installation can reasonably be expected to be timely delivered to the appropriate State and local election officials.
 
 (i)
 
-Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the Armed Forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
+Registration and Voting Information for Members and Dependents.—(1) The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
 
 (2) The Secretary of each military department shall make the national voter registration form prepared for purposes of the Uniformed and Overseas Citizens Absentee Voting Act by the Federal Election Commission available so that each person who enlists shall receive such form at the time of the enlistment, or as soon thereafter as practicable.
 
-(3) Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the Armed Forces and their dependents of election timing, registration requirements, and voting procedures.
+(3) Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
 
-(Added Pub. L. 107–107, div. A, title XVI, §1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, §701, Oct. 29, 2002, 116 Stat. 1722.)
+(Added Pub. L. 107–107, div. A, title XVI, §1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, §701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, §1084(d)(13), Oct. 28, 2004, 118 Stat. 2062.)
 
 #### References in Text
 
 The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (d)(1)(A), (B), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of Title 42 and Tables.
 
-The date of the enactment of the Help America Vote Act of 2002, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 107–252, which was approved Oct. 29, 2002.
-
 #### Amendments
+
+2004—Subsec. (g)(2). Pub. L. 108–375, §1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
+
+Subsecs. (h), (i)(1), (3). Pub. L. 108–375, §1084(d)(13)(B), substituted “armed forces” for “Armed Forces”.
 
 2002—Subsec. (f). Pub. L. 107–252, §701(a), designated existing provisions as par. (1) and added par. (2).
 
@@ -98,5 +100,5 @@ Subsec. (i). Pub. L. 107–252, §701(d), added subsec. (i).
 
 #### Initial Report
 
-Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, provided that: “The first report under section 1566(c)(3) of title 10, United States Code, as added by subsection (a), shall be submitted not later than March 31, 2003.”
+Pub. L. 107–107, div. A, title XVI, §1602(b), Dec. 28, 2001, 115 Stat. 1276, provided that: “The first report under section 1566(c)(3) of title 10, United States Code,as added by subsection (a), shall be submitted not later than March 31, 2003.”
 

@@ -12,7 +12,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;&emsp;(i) a description of such candidate site;
 
-&emsp;&emsp;(ii) a description of such site characterization activities, including the following: the extent of planned excavations, plans for any onsite testing with radioactive or nonradioactive material, plans for any investigation activities that may affect the capability of such candidate site to isolate high-level radioactive waste and spent nuclear fuel, and plans to control any adverse, safety-related impacts from such site characterization activities;
+&emsp;&emsp;(ii) a description of such site characterization activities, including the following: the extent of planned excavations, plans for any onsite testing with radioactive or nonradioactive material, plans for any investigation activities that may affect the capability of such candidate site to isolate high-levelradioactive waste and spent nuclear fuel, and plans to control any adverse, safety-related impacts from such site characterization activities;
 
 &emsp;&emsp;(iii) plans for the decontamination and decommissioning of such candidate site, and for the mitigation of any significant adverse environmental impacts caused by site characterization activities if it is determined unsuitable for application for a construction authorization for a repository;
 
@@ -38,7 +38,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;(B) if any radioactive material is used at a site—
 
-&emsp;&emsp;(i) the Secretary shall use the minimum quantity necessary to determine the suitability of such site for a repository, but inno event more than the curie equivalent of 10 metric tons of spent nuclear fuel; and
+&emsp;&emsp;(i) the Secretary shall use the minimum quantity necessary to determine the suitability of such site for a repository, but in no event more than the curie equivalent of 10 metric tons of spent nuclear fuel; and
 
 &emsp;&emsp;(ii) such radioactive material shall be fully retrievable.
 

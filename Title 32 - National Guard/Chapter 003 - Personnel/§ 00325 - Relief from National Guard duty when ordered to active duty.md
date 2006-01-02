@@ -2,19 +2,19 @@
 
 (a)
 
-Relief Required.—(1) Except as provided in paragraph (2), each member of the Army National Guard of the United States or the Air National Guard of the United States who is ordered to active duty is relieved from duty in the National Guard of his State or Territory, or of Puerto Rico or the District of Columbia, as the case may be, from the effective date of his order to active duty until he is relieved from that duty.
+Relief Required.—(1) Except as provided in paragraph (2), each member of the Army National Guard of the United States or the Air National Guard of the United States who is ordered to active duty is relieved from duty in the National Guard of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands or the District of Columbia, as the case may be, from the effective date of his order to active duty until he is relieved from that duty.
 
-(2) An officer of the Army National Guard of the United States or the Air National Guard of the United States is not relieved from duty in the National Guard of his State or Territory, or of Puerto Rico or the District of Columbia, under paragraph (1) while serving on active duty in command of a National Guard unit if—
+(2) An officer of the Army National Guard of the United States or the Air National Guard of the United States is not relieved from duty in the National Guard of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands or the District of Columbia, under paragraph (1) while serving on active duty in command of a National Guard unit if—
 
 &emsp;(A) the President authorizes such service in both duty statuses; and
 
-&emsp;(B) the Governor of his State or Territory or Puerto Rico, or the commanding general of the District of Columbia National Guard, as the case may be, consents to such service in both duty statuses.
+&emsp;(B) the Governor of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of the District of Columbia National Guard, as the case may be, consents to such service in both duty statuses.
 
 (b)
 
 Return to State Status.—So far as practicable, members, organizations, and units of the Army National Guard of the United States or the Air National Guard of the United States ordered to active duty shall be returned to their National Guard status upon relief from that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 108–136, div. A, title V, §516, Nov. 24, 2003, 117 Stat. 1461.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100–456, div. A, title XII, §1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 108–136, div. A, title V, §516, Nov. 24, 2003, 117 Stat. 1461; Pub. L. 109–163, div. A, title X, §1057(b)(6), Jan. 6, 2006, 119 Stat. 3442.)
 
 Historical and Revision Notes
 
@@ -39,6 +39,8 @@ In subsection (a), the words “in the service of the United States” are omitt
 In subsection (b), the words “upon relief from that duty” are substituted for the words “upon being relieved from active duty”. The words “their National Guard status” are substituted for the words “to the National Guard and Air National Guard in their respective States, Territories, and the District of Columbia”.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 substituted “State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands” for “State or Territory, or of Puerto Rico” in par. (1) and introductory provisions of par. (2) and “State or Territory or Puerto Rico” in par. (2)(B).
 
 2003—Subsec. (a). Pub. L. 108–136, §516(a), substituted “(a)
 

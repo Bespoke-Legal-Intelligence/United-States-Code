@@ -32,7 +32,3 @@ Transmission Through Theater Component Commander.—Upon reviewing a report unde
 
 Subsec. (c). Pub. L. 104–201, §578(b)(1)(C), redesignated subsec. (c) as (b).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1501, 1503, 1504 of this title; title 37 section 555.
-

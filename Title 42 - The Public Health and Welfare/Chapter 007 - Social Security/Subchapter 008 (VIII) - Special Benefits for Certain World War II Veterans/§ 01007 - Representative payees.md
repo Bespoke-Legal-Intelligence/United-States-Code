@@ -26,7 +26,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 &emsp;(F) determine whether payment of benefits to the person in the capacity as representative payee has been revoked or terminated pursuant to this section, section 405(j) of this title, or section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter II, or XVI of this chapter, respectively.
 
-(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifyinginformation as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
+(3) Notwithstanding the provisions of section 552a of title 5 or any other provision of Federal or State law (other than section 6103 of the Internal Revenue Code of 1986 and section 1306(c) of this title), the Commissioner shall furnish any Federal, State, or local law enforcement officer, upon the written request of the officer, with the current address, social security account number, and photograph (if applicable) of any person investigated under this subsection, if the officer furnishes the Commissioner with the name of such person and such other identifying information as may reasonably be required by the Commissioner to establish the unique identity of such person, and notifies the Commissioner that—
 
 &emsp;(A) such person is described in section 1004(a)(2) of this title,
 
@@ -60,7 +60,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (2) Exemptions
 
-&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant an exemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
+&emsp;(A) The Commissioner of Social Security may prescribe circumstances under which the Commissioner of Social Security may grant anexemption from paragraph (1) to any person on a case-by-case basis if the exemption is in the best interest of the qualified individual whose benefits would be paid to the person pursuant to this section.
 
 &emsp;(B) Paragraph (1)(C) shall not apply with respect to any person who is a creditor referred to in such paragraph if the creditor is—
 
@@ -126,7 +126,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment, the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
+&emsp;In any case where payment under this subchapter is made to a person other than the qualified individual entitled to the payment,the Commissioner of Social Security shall establish a system of accountability monitoring under which the person shall report not less often than annually with respect to the use of the payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing the reports in order to identify instances in which persons are not properly using the payments.
 
 #### (2) Special reports
 

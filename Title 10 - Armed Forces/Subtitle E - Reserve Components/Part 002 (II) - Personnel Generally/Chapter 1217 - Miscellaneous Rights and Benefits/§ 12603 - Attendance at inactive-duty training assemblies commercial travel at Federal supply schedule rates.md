@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Supply Schedule Travel.—Commercial travel under Federal supply schedules is authorized for the travel of a Reserve to the location of inactive duty training to be performed by the Reserve and from that location upon completion of the training.
+Federal Supply Schedule Travel.—Commercial travel under Federal supply schedules isauthorized for the travel of a Reserve to the location of inactive duty training to be performed by the Reserve and from that location upon completion of the training.
 
 (b)
 

@@ -20,13 +20,13 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 &emsp;&emsp;(D) the United States, or an instrumentality or agency thereof, or a State, or a possession of the United States, or any political subdivision thereof, or the District of Columbia,
 
-> &emsp;as a scholarship or fellowship for study, training, or research in the United States. In the case of a nonresident alien individual who is a member of a domestic partnership, the items of income referred to in subsection (a) shall be treated as referring to items specified in this subsection included in his distributive share of the income of such partnership.
+> &emsp;as a scholarship or fellowship for study, training, or research in the United States. In thecase of a nonresident alien individual who is a member of a domestic partnership, the items of income referred to in subsection (a) shall be treated as referring to items specified in this subsection included in his distributive share of the income of such partnership.
 
 #### (c) Exceptions
 
 #### (1) Income connected with United States business
 
-&emsp;No deduction or withholding under subsection (a) shall be required in the case of anyitem of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year.
+&emsp;No deduction or withholding under subsection (a) shall be required in the case of any item of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year.
 
 #### (2) Owner unknown
 
@@ -68,6 +68,16 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 &emsp;No tax shall be required to be deducted and withheld under subsection (a) from any amount exempt from the tax imposed by section 871(a)(1)(A) by reason of section 871(j).
 
+#### (12) Certain dividends received from regulated investment companies
+
+#### (A) In general
+
+&emsp;&emsp;No tax shall be required to be deducted and withheld under subsection (a) from any amount exempt from the tax imposed by section 871(a)(1)(A) by reason of section 871(k).
+
+#### (B) Special rule
+
+&emsp;&emsp;For purposes of subparagraph (A), clause (i) of section 871(k)(1)(B) shall not apply to any dividend unless the regulated investment company knows that such dividend is a dividend referred to in such clause. A similar rule shall apply with respect to the exception contained in section 871(k)(2)(B).
+
 #### (d) Exemption of certain foreign partnerships
 
 Subject to such terms and conditions as may be provided by regulations prescribed by the Secretary, subsection (a) shall not apply in the case of a foreign partnership engaged in trade or business within the United States if the Secretary determines that the requirements of subsection (a) impose an undue administrative burden and that the collection of the tax imposed by section 871(a) on the members of such partnership who are nonresident alien individuals will not be jeopardized by the exemption.
@@ -78,13 +88,13 @@ For purposes of this section, the term “nonresident alien individual” includ
 
 #### (f) Continental shelf areas
 
-&emsp;&emsp;<b>For sources of income derived from, or for services performed with respect to, the exploration or exploitation of natural resources on submarine areas adjacent to the territorial waters of the United States, see section 638.</b>
+&emsp;&emsp;<b>For sources of income derived from, or for services performed with respect to, the exploration or exploitation of natural resources on submarine</b><b>areas adjacent to the territorial waters of the United States, see section 638.</b>
 
 #### (g) Cross reference
 
 &emsp;<b>For provision treating 85 percent of social security benefits as subject to withholding under this section, see section 871(a)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI,§11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, §11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 108–357, title IV, §411(a)(3)(A), Oct. 22, 2004, 118 Stat. 1503.)
 
 #### References in Text
 
@@ -97,6 +107,8 @@ The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A \[§§5
 The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(12). Pub. L. 108–357 added par. (12).
 
 1997—Subsec. (g). Pub. L. 105–34 substituted “85 percent” for “one-half”.
 
@@ -142,7 +154,7 @@ Subsec. (c)(8). Pub. L. 92–178, §313(d), added par. (8).
 
 1966—Subsec. (a). Pub. L. 89–809, §103(h)(1), substituted “or of any foreign partnership” for “, or of any partnership not engaged in trade or business within the United States and composed in whole or in part of nonresident aliens,”.
 
-Subsec. (b). Pub. L. 89–809, §103(h)(2)–(4), struck out “(except interest on deposits with persons carrying on the banking business paid to persons not engaged in business in the United States)” after “The items of income referred to in subsection (a) are interest” and substituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966” for “and amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets” in text preceding par. (1), and inserted provision for treatment of items of income referred to in subsec. (a) in the case of nonresident alien individuals who are members of domestic partnerships.
+Subsec. (b). Pub. L. 89–809, §103(h)(2)–(4), struck out “(except interest on deposits with persons carrying on the banking business paid to persons not engaged in business in the United States)” after “The items of income referred to in subsection (a) are interest” andsubstituted “gains described in section 402(a)(2), 403(a)(2), or 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966” for “and amounts described in section 402(a)(2), section 403(a)(2), section 631(b) and (c), and section 1235, which are considered to be gains from the sale or exchange of capital assets” in text preceding par. (1), and inserted provision for treatment of items of income referred to in subsec. (a) in the case of nonresident alien individuals who are members of domestic partnerships.
 
 Subsec. (c)(1). Pub. L. 89–809, §103(h)(5), substituted “in the case of any item of income (other than compensation for personal services) which is effectively connected with the conduct of a trade or business within the United States and which is included in the gross income of the recipient under section 871(b)(2) for the taxable year” for “in the case of dividends paid by a foreign corporation unless (A) such corporation is engaged in trade or business within the United States, and (B) more than 85 percent of the gross income of such corporation for the 3-year period ending with the close of its taxable year preceding the declaration of such dividends (or for such part of such period as the corporation has been in existence) was derived from sources within the United States as determined under part I of subchapter N of chapter 1” after “shall be required”.
 
@@ -165,6 +177,10 @@ Subsec. (c)(4). Pub. L. 87–256, §110(d)(3), authorized the exemption from ded
 1958—Subsecs. (b), (c)(5). Pub. L. 85–866 inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
 1956—Subsec. (c)(6). Act July 18, 1956, added section 544(f) to act Aug. 26, 1954, which section amended this subsection by adding par. (6).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -241,8 +257,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Withholding of Tax on Nonresident Aliens and Foreign Corporations
 
 Pub. L. 97–248, title III, §342, Sept. 3, 1982, 96 Stat. 635, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Not later than 2 years after the date of the enactment of this Act \[Sept. 3, 1982\], the Secretary of the Treasury or his delegate shall prescribe regulations establishing certification procedures, refund procedures, or other procedures which ensure that any benefit of any treaty relating to withholding of tax under sections 1441 and 1442 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is available only to persons entitled to such benefit.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5, 565, 860G, 871, 884, 1276, 1278, 1442, 1444, 3402, 6049, 6103, 7701 of this title; title 12 section 3413; title 25 section 2719; title 48 section 1421i.
 

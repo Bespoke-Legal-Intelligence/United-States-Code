@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title)) of expenditures in the quarter—
+&emsp;Subject to the succeeding provisions of this section, the Secretary shall pay to each State with a plan approved under this subchapter, from its allotment under section 1397dd of this title, an amount for each quarter equal to the enhanced FMAP (or, in the case of expenditures described in subparagraph (B), the Federal medical assistance percentage (as definedin the first sentence of section 1396d(b) of this title)) of expenditures in the quarter—
 
 &emsp;&emsp;(A) for child health assistance under the plan for targeted low-income children in the form of providing medical assistance for which payment is made on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title;
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) for payment for other child health assistance for targeted low-income children;
 
-&emsp;&emsp;&emsp;(ii) for expenditures for health services initiatives under the plan for improvingthe health of children (including targeted low-income children and other low-income children);
+&emsp;&emsp;&emsp;(ii) for expenditures for health services initiatives under the plan for improving the health of children (including targeted low-income children and other low-income children);
 
 &emsp;&emsp;&emsp;(iii) for expenditures for outreach activities as provided in section 1397bb(c)(1) of this title under the plan; and
 
@@ -84,7 +84,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (B) Other Federal governmental programs
 
-&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) of this section or any other provision of law, no payment shall bemade to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
+&emsp;&emsp;Except as provided in subparagraph (A) or (B) of subsection (a)(1) of this section or any other provision of law, no payment shall be made to a State under this section for expenditures for child health assistance provided for a targeted low-income child under its plan to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program, other than an insurance program operated or financed by the Indian Health Service, as identified by the Secretary. For purposes of this paragraph, rules similar to the rules for overpayments under section 1396b(d)(2) of this title shall apply.
 
 #### (7) Limitation on payment for abortions
 
@@ -146,7 +146,7 @@ Nothing in this section or subsections (e) and (f) of section 1397dd of this tit
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a qualifying State that has elected the option described in subparagraph (A), subject to the availability of funds under such subparagraph with respect to the State, the Secretary shall pay the State an amount each quarter equal to the additional amount that would have been paid to the State under subchapter XIX of this chapter with respect to expenditures described in clause (ii) if the enhanced FMAP (as determined under subsection (b) of this section) had been substituted for the Federal medical assistance percentage (as defined in section 1396d(b) of this title).
+&emsp;&emsp;&emsp;In the case of a qualifying State that has elected the option described in subparagraph (A), subject to the availability of funds under such subparagraph with respect to the State, the Secretary shall pay the State an amount each quarter equal to the additional amount that would havebeen paid to the State under subchapter XIX of this chapter with respect to expenditures described in clause (ii) if the enhanced FMAP (as determined under subsection (b) of this section) had been substituted for the Federal medical assistance percentage (as defined in section 1396d(b) of this title).
 
 #### (ii) Expenditures described
 

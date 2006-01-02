@@ -4,11 +4,11 @@ For purposes of this subtitle—
 
 #### (1) Short-term capital gain
 
-&emsp;The term “short-term capital gain” means gain from the sale or exchange of a capitalasset held for not more than 1 year, if and to the extent such gain is taken into account in computing gross income.
+&emsp;The term “short-term capital gain” means gain from the sale or exchange of a capital asset held for not more than 1 year, if and to the extent such gain is taken into account in computing gross income.
 
 #### (2) Short-term capital loss
 
-&emsp;The term “short-term capital loss” means loss from the sale or exchange of a capital asset held for not more than 1 year, if and to the extent that such loss is taken into account in computing taxable income.
+&emsp;The term “short-term capital loss” means loss from the sale or exchange of a capitalasset held for not more than 1 year, if and to the extent that such loss is taken into account in computing taxable income.
 
 #### (3) Long-term capital gain
 
@@ -93,8 +93,4 @@ Amendment by section 513(c) of Pub. L. 91–172 applicable to taxable years begi
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 230(c) of Pub. L. 88–272, set out as a note under section 1212 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32, 265, 4981, 4982 of this title.
 

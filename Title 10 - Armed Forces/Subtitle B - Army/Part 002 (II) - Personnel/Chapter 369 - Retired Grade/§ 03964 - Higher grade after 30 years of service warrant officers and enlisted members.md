@@ -54,7 +54,7 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 
 #### Amendments
 
-1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Army warrant officers; regular enlisted members” in section catchline and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Army, and each enlisted member of the Regular Army, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Army.”
+1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Army warrant officers; regular enlisted members” in section catchline and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Army, and each enlisted member of the Regular Army, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Army.”
 
 1984—Pub. L. 98–525 substituted “highest grade” for “highest temporary grade”.
 
@@ -63,8 +63,4 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 #### Effective Date of 1987 Amendment
 
 Section 512(f) of Pub. L. 100–180 provided that: “The amendments made by subsections (a) and (c) \[amending this section and section 8964 of this title\] shall apply to any reserve enlisted member who completes 30 years of service in the Armed Forces before, on, or after the date of the enactment of this Act \[Dec. 4, 1987\]. No person may be paid retired pay at a higher rate by reason of the enactment of this Act \[Pub. L. 100–180, see Tables for classification\] for any period before the date of the enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3965, 3992 of this title.
 

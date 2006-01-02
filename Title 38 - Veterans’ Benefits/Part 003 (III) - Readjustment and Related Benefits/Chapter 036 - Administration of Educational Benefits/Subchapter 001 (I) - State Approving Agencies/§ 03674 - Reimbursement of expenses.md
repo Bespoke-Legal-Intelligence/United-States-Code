@@ -78,7 +78,7 @@ Subsec. (a)(2) to (4). Pub. L. 100–323, §13(a)(1)(C), added pars. (2) to (4).
 
 Pub. L. 96–466, §203(1), increased allowance for administrative expenses by substituting “$662” for “$630”, “$1,191” for “$1,134” in two places, “$1,103” for “$1,050”, “$7,205” for “$6,862” in two places, “$953” for “$908”, “$14,288” for “$13,608” in two places, and “$833” for “$793”.
 
-1977—Subsec. (b). Pub. L. 95–202, §303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places, “$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
+1977—Subsec. (b). Pub. L. 95–202, §303(1), increased allowance for administrative expenses by substituting “$630” for “$600”, “$1,134” for “$1,080” in two places, “$1,050” for “$1,000”, “$6,862” for “$6,535” in two places,“$908” for “$865”, “$13,608” for “$12,960” in two places, and “$793” for “$755”.
 
 Subsec. (c). Pub. L. 95–202, §303(2), added subsec. (c).
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 95–202, §303(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 94–502, §503(2), increased allowance for administrative expenses from “$550” to “$600”; “$1000” to “$1080”; “$1000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof” to “$1,080 for the first $10,000 plus $1,000 for each additional $5,000 or fraction thereof”; “$6,050” to “$6,535”; “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof” to “$6,535 for the first $40,000 plus $865 for each additional $5,000 or fraction thereof”; “$12,000” to “$12,960”; “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof” to “$12,960 for the first $80,000 plus $755 for each additional $5,000 or fraction thereof”.
 
-1974—Subsec. (b). Pub. L. 93–508 increased allowance for administrative expenses from “$500” to “$550”;“$900” to “$1,000”; “$900 for the first $10,000 plus $800 for each additional $5,000 or fraction thereof” to “$1,000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof”; “$5,250” to “$6,050”; “$5,250 for the first $40,000 plus $700 for each additional $5,000 or fraction thereof” to “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof”; “$10,450” to “$12,000”; and “$10,450 for the first $80,000 plus $600 for each additional $5,000 or fraction thereof” to “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof”.
+1974—Subsec. (b). Pub. L. 93–508 increased allowance for administrative expenses from “$500” to “$550”; “$900” to “$1,000”; “$900 for the first $10,000 plus $800 for each additional $5,000 or fraction thereof” to “$1,000 for the first $10,000 plus $925 for each additional $5,000 or fraction thereof”; “$5,250” to “$6,050”; “$5,250 for the first $40,000 plus $700 for each additional $5,000 or fraction thereof” to “$6,050 for the first $40,000 plus $800 for each additional $5,000 or fraction thereof”; “$10,450” to “$12,000”; and “$10,450 for the first $80,000 plus $600 for each additional $5,000 or fraction thereof” to “$12,000 for the first $80,000 plus $700 for each additional $5,000 or fraction thereof”.
 
 1972—Subsec. (a). Pub. L. 92–540, §403(7), inserted “this chapter and” before “chapters 34 and 35” in cl. (1).
 

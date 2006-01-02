@@ -8,7 +8,7 @@ The term “firearm” means (1) a shotgun having a barrel or barrels of less th
 
 #### (b) Machinegun
 
-The term “machinegun” means any weapon which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term shall also include the frame or receiver of any such weapon, any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun, and any combination of parts from which a machinegun can be assembled if such parts are in the possession or under the control of a person.
+The term “machinegun” means any weapon which shoots, is designed to shoot, or can be readily restored to shoot, automatically more than one shot, without manual reloading, by a single function of the trigger. The term shall also include the frame or receiver of any such weapon, any part designed and intended solelyand exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun, and any combination of parts from which a machinegun can be assembled if such parts are in the possession or under the control of a person.
 
 #### (c) Rifle
 
@@ -79,8 +79,4 @@ Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section
 #### Effective Date
 
 Section effective on first day of first month following October 1968, except as to persons possessing firearms as defined in subsec. (a) of this section which are not registered to such persons in the National Firearms Registration and Transfer Record, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5685, 5811 of this title; title 18 sections 844, 921, 922, 924, 925, 2344; title 40 section 1306.
 

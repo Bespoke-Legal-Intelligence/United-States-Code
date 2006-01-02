@@ -1,16 +1,16 @@
 ### §109. Maintenance of other troops
 
-(a) In time of peace, a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia may maintain no troops other than those of its National Guard and defense forces authorized by subsection (c).
+(a) In time of peace, a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may maintain no troops other than those of its National Guard and defense forces authorized by subsection (c).
 
-(b) Nothing in this title limits the right of a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia to use its National Guard or its defense forces authorized by subsection (c) within its borders in time of peace, or prevents it from organizing and maintaining police or constabulary.
+(b) Nothing in this title limits the right of a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands to use its National Guard or its defense forces authorized by subsection (c) within its borders in time of peace, or prevents it from organizing and maintaining police or constabulary.
 
-(c) In addition to its National Guard, if any, a State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia may, as provided by its laws, organize and maintain defense forces. A defense force established under this section may be used within the jurisdiction concerned, as its chief executive (or commanding general in the case of the District of Columbia) considers necessary, but it may not be called, ordered, or drafted into the armed forces.
+(c) In addition to its National Guard, if any, a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may, as provided by its laws, organize and maintain defense forces. A defense force established under this section may be used within the jurisdiction concerned, as its chief executive (or commanding general in the case of the District of Columbia) considers necessary, but it may not be called, ordered, or drafted into the armed forces.
 
 (d) A member of a defense force established under subsection (c) is not, because of that membership, exempt from service in the armed forces, nor is he entitled to pay, allowances, subsistence, transportation, or medical care or treatment, from funds of the United States.
 
 (e) A person may not become a member of a defense force established under subsection (c) if he is a member of a reserve component of the armed forces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 85–861, §2(2), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 600; Pub. L. 85–861, §2(2), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes<br>1956
 
@@ -79,6 +79,8 @@ In subsection (d), the words “under any Federal law” are omitted since only 
 In subsection (e), the words “defense force” are substituted for the words “organized militia” for accuracy and to conform to subsection (c). The words “reserve component of the armed forces” are substituted for the words “Reserve Forces as defined in section 901 of Title 50”, since that term is not defined in the Armed Forces Reserve Act of 1952.
 
 #### Amendments
+
+2006—Subsecs. (a) to (c). Pub. L. 109–163, which directed substitution of “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, the Virgin Islands or the District of Columbia”, was executed by making the substitution for “State or Territory, Puerto Rico, the Virgin Islands, or the District of Columbia”, to reflect the probable intent of Congress.
 
 1988—Subsecs. (a) to (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Virgin Islands,”.
 

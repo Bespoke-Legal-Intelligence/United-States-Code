@@ -66,5 +66,5 @@ Pub. L. 106–505, title IV, §402, Nov. 13, 2000, 114 Stat. 2336, provided that
 
 #### Certain Technologies and Practices Regarding Survival Rates for Cardiac Arrest
 
-Pub. L. 106–129, §7, Dec. 6, 1999, 113 Stat. 1676, provided that: “The Secretary of Health and Human Services shall, in consultation with the Administrator of the General Services Administration and other appropriate public and private entities, develop recommendations regarding the placement of automatic external defibrillators in Federal buildings as a means of improving the survival rates of individuals who experiencecardiac arrest in such buildings, including recommendations on training, maintenance, and medical oversight, and on coordinating with the system for emergency medical services.”
+Pub. L. 106–129, §7, Dec. 6, 1999, 113 Stat. 1676, provided that: “The Secretary of Health and Human Services shall, in consultation with the Administrator of the General Services Administration and other appropriate public and private entities, develop recommendations regarding the placement of automatic external defibrillators in Federal buildings as a means of improving the survival rates of individuals who experience cardiac arrest in such buildings, including recommendations on training, maintenance, and medical oversight, and on coordinating with the system for emergency medical services.”
 

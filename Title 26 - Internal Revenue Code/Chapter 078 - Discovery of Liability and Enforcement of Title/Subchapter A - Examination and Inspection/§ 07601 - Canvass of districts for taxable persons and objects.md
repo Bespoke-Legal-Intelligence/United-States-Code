@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The Secretary shall, to the extent he deems it practicable, cause officers or employees of the Treasury Department to proceed, from time totime, through each internal revenue district and inquire after and concerning all persons therein who may be liable to pay any internal revenue tax, and all persons owning or having the care and management of any objects with respect to which any tax is imposed.
+The Secretary shall, to the extent he deems it practicable, cause officers or employees of the Treasury Department to proceed, from time to time, through each internal revenue district and inquire after and concerning all persons therein who may be liable to pay any internal revenue tax, and all persons owning or having the care and management of any objects with respect to which any tax is imposed.
 
 #### (b) Penalties
 
@@ -13,8 +13,4 @@ The Secretary shall, to the extent he deems it practicable, cause officers or em
 #### Amendments
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7609 of this title.
 

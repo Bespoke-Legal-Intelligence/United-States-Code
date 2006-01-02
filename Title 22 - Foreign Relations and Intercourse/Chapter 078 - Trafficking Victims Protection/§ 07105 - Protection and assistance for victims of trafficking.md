@@ -48,17 +48,17 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the certification referred to in subparagraph (C) is a certification by the Secretary of Health and Human Services, after consultation with the Attorney General, that the person referred to in subparagraph (C)(ii)(II)—
+&emsp;&emsp;&emsp;Subject to clause (ii), the certification referred to in subparagraph (C) is a certification by the Secretary of Health and Human Services, after consultation with the Secretary of Homeland Security, that the person referred to in subparagraph (C)(ii)(II)—
 
 &emsp;&emsp;&emsp;&emsp;(I) is willing to assist in every reasonable way in the investigation and prosecution of severe forms of trafficking in persons; and
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, that has not been denied; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) is a person whose continued presence in the United States the Attorney General is ensuring in order to effectuate prosecution of traffickers in persons.
+&emsp;&emsp;&emsp;&emsp;(bb) is a person whose continued presence in the United States the Secretaryof Homeland Security is ensuring in order to effectuate prosecution of traffickers in persons.
 
 #### (ii) Period of effectiveness
 
-&emsp;&emsp;&emsp;A certification referred to in subparagraph (C), with respect to a person described in clause (i)(II)(bb), shall be effective only for so long as the Attorney General determines that the continued presence of such person is necessary to effectuate prosecution of traffickers in persons.
+&emsp;&emsp;&emsp;A certification referred to in subparagraph (C), with respect to a person described in clause (i)(II)(bb), shall be effective only for so long as the Secretary of Homeland Security determines that the continued presence of such person is necessary to effectuate prosecution of traffickers in persons.
 
 #### (iii) Investigation and prosecution defined
 
@@ -66,9 +66,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) identification of a person or persons who have committed severe forms of trafficking in persons;
 
-&emsp;&emsp;&emsp;&emsp;(II) location and apprehension of such persons; and
+&emsp;&emsp;&emsp;&emsp;(II) location and apprehension of such persons;
 
-&emsp;&emsp;&emsp;&emsp;(III) testimony at proceedings against such persons.
+&emsp;&emsp;&emsp;&emsp;(III) testimony at proceedings against such persons; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) responding to and cooperating with requests for evidence and information.
 
 #### (iv) Assistance to investigations
 
@@ -96,7 +98,7 @@
 
 #### (c) Trafficking victim regulations
 
-Not later than 180 days after October 28, 2000, the Attorney General and the Secretary of State shall promulgate regulations for law enforcement personnel, immigration officials, and Department of State officials to implement the following:
+Not later than 180 days after October 28, 2000, the Attorney General, the Secretary of Homeland Security and the Secretary of State shall promulgate regulations for law enforcement personnel, immigration officials, and Department of State officials to implement the following:
 
 #### (1) Protections while in custody
 
@@ -114,11 +116,11 @@ Not later than 180 days after October 28, 2000, the Attorney General and the Sec
 
 #### (2) Access to information
 
-&emsp;Victims of severe forms of trafficking shall have access to information about their rights and translation services.
+&emsp;Victims of severe forms of trafficking shall have access to information about their rights and translation services. To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-trafficking programs that provide services to victims of severe forms of trafficking.
 
 #### (3) Authority to permit continued presence in the United States
 
-&emsp;Federal law enforcement officials may permit an alien individual's continued presence in the United States, if after an assessment, it is determined that such individual is a victim ofa severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates.
+&emsp;Federal law enforcement officials may permit an alien individual's continued presence in the United States, if after an assessment, it is determined that such individual is a victim of a severe form of trafficking and a potential witness to such trafficking, in order to effectuate prosecution of those responsible, and such officials in investigating and prosecuting traffickers shall protect the safety of trafficking victims, including taking measures to protect trafficked persons and their family members from intimidation, threats of reprisals, and reprisals from traffickers and their associates.
 
 #### (4) Training of Government personnel
 
@@ -134,15 +136,15 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 #### (5) Statutory construction
 
-&emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Attorney General from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e) of this section, for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Attorney General prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
+&emsp;Nothing in this section, or in the amendments made by this section, shall be construedas prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e) of this section, for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
 #### (f) Omitted
 
 #### (g) Annual reports
 
-On or before October 31 of each year, the Attorney General shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(<i>l</i>) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(<i>o</i>)(2) or 1255(<i>l</i>)(4)(A) of title 8.
+On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(<i>l</i>) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(<i>o</i>)(2) or 1255(<i>l</i>)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560.)
 
 #### References in Text
 
@@ -158,6 +160,22 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 #### Amendments
 
+2006—Subsec. (b)(1)(E). Pub. L. 109–162, §804(b)(1), (2), which directed amendment of cl. (i) by inserting “and the Secretary of Homeland Security” after “Attorney General” in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting “Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
+
+Pub. L. 109–162, §804(a)(1), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing.
+
+Subsec. (b)(1)(E)(iii)(IV). Pub. L. 109–162, §804(b)(3), added subcl. (IV).
+
+Subsec. (c). Pub. L. 109–162, §804(a)(2), inserted “, the Secretary of Homeland Security” after “Attorney General” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 109–164 inserted at end “To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-trafficking programs that provide services to victims of severe forms of trafficking.”.
+
+Subsec. (e)(5). Pub. L. 109–162, §804(a)(1), (c), made identical amendments, substituting “Secretary of Homeland Security” for “Attorney General” in two places.
+
+Subsec. (g). Pub. L. 109–162, §804(d), which directed the insertion of “or the Secretary of Homeland Security” after “Attorney General”, could not be executed because the words “Attorney General” did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
+
+Pub. L. 109–162, §804(a)(1) substituted “Secretary of Homeland Security” for “Attorney General”.
+
 2003—Subsec. (a)(1)(B). Pub. L. 108–193, §4(a)(1), inserted before period at end “, and by facilitating contact between relevant foreign government agencies and such nongovernmental organizations to facilitate cooperation between the foreign governments and such organizations”.
 
 Subsec. (b)(1)(A). Pub. L. 108–193, §4(a)(2)(A), inserted “, or an alien classified as a nonimmigrant under section 1101(a)(15)(T)(ii) of title 8,” after “in persons”.
@@ -172,7 +190,61 @@ Subsec. (g). Pub. L. 108–193, §8(b)(2), substituted “1184(<i>o</i>)(2)” f
 
 2002—Subsec. (a)(1). Pub. L. 107–228 inserted “In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:” at end of introductory provisions and added subpars. (A) to (E).
 
+#### Savings Provision
+
+Pub. L. 109–162, title I, §104(b), Jan. 5, 2006, 119 Stat. 2979, provided that: “Nothing in this Act \[see Tables for classification\], or the amendments made by this Act, shall be construed to restrict the legal assistance provided to victims of trafficking and certain family members authorized under section 107(b)(1) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(b)(1)).”
+
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+#### Establishment of Pilot Program for Residential Rehabilitative Facilities for Victims of Trafficking
+
+Pub. L. 109–164, title I, §102(b), Jan. 10, 2006, 119 Stat. 3561, provided that:
+
+“(1)
+
+Study.—
+
+&emsp;“(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 10, 2006\], the Administrator of the United States Agency for International Development shall carry out a study to identify best practices for the rehabilitation of victims of trafficking in group residential facilities in foreign countries.
+
+&emsp;“(B)
+
+Factors.—In carrying out the study under subparagraph (A), the Administrator shall—
+
+&emsp;&emsp;“(i) investigate factors relating to the rehabilitation of victims of trafficking in group residential facilities, such as the appropriate size of such facilities, services to be provided, length of stay, and cost; and
+
+&emsp;&emsp;“(ii) give consideration to ensure the safety and security of victims of trafficking, provide alternative sources of income for such victims, assess and provide for the educational needs of such victims, including literacy, and assess the psychological needs of such victims and provide professional counseling, as appropriate.
+
+“(2)
+
+Pilot program.—Upon completion of the study carried out pursuant to paragraph (1), the Administrator of the United States Agency for International Development shall establish and carry out a pilot program to establish residential treatment facilities in foreign countries for victims of trafficking based upon the best practices identified in the study.
+
+“(3)
+
+Purposes.—The purposes of the pilot program established pursuant to paragraph (2) are to—
+
+&emsp;“(A) provide benefits and services to victims of trafficking, including shelter, psychological counseling, and assistance in developing independent living skills;
+
+&emsp;“(B) assess the benefits of providing residential treatment facilities for victims of trafficking, as well as the most efficient and cost-effective means of providing such facilities; and
+
+&emsp;“(C) assess the need for and feasibility of establishing additional residential treatment facilities for victims of trafficking.
+
+“(4)
+
+Selection of sites.—The Administrator of the United States Agency for International Development shall select 2 sites at which to operate the pilot program established pursuant to paragraph (2).
+
+“(5)
+
+Form of assistance.—In order to carry out the responsibilities of this subsection, the Administrator of the United States Agency for International Development shall enter into contracts with, or make grants to, organizations with relevant expertise in the delivery of services to victims of trafficking.
+
+“(6)
+
+Report.—Not later than one year after the date on which the first pilot program is established pursuant to paragraph (2), the Administrator of the United States Agency for International Development shall submit to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the implementation of this subsection.
+
+“(7)
+
+Authorization of appropriations.—There are authorized to be appropriated to the Administrator of the United States Agency for International Development to carry out this subsection $2,500,000 for each of the fiscal years 2006 and 2007.”
 

@@ -16,7 +16,3 @@
 
 1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2104 of this title.
-

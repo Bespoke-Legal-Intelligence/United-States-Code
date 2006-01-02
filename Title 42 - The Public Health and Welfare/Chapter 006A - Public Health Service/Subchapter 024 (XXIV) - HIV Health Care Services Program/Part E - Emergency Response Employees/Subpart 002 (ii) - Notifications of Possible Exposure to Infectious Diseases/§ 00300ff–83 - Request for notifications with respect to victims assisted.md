@@ -16,7 +16,7 @@ The duties referred to in subsection (a) of this section are that—
 
 #### (1) In general
 
-&emsp;If a designated officer makes a determination under subsection (b)(2) of this section that an emergency response employee may have been exposed to an infectious disease, thedesignated officer shall submit to the medical facility to which the victim involved was transported a request for a response under subsection (d) of this section regarding the victim of the emergency involved.
+&emsp;If a designated officer makes a determination under subsection (b)(2) of this section that an emergency response employee may have been exposed to an infectious disease, the designated officer shall submit to the medical facility to which the victim involved was transported a request for a response under subsection (d) of this section regarding the victim of the emergency involved.
 
 #### (2) Form of request
 
@@ -74,7 +74,7 @@ After receiving a request under subsection (c) of this section (including any su
 
 &emsp;&emsp;(ii) the medical facility shall provide to the designated officer the applicable response specified in subsection (d) of this section.
 
-&emsp;(B) If an evaluation under paragraph (1)(A) indicates that the facts provided in the request to the medical facility were insufficientfor purposes of determinations specified in subsection (c) of this section—
+&emsp;(B) If an evaluation under paragraph (1)(A) indicates that the facts provided in the request to the medical facility were insufficient for purposes of determinations specified in subsection (c) of this section—
 
 &emsp;&emsp;(i) the public health officer shall provide advice to the designated officer regarding the collection and description of appropriate facts; and
 

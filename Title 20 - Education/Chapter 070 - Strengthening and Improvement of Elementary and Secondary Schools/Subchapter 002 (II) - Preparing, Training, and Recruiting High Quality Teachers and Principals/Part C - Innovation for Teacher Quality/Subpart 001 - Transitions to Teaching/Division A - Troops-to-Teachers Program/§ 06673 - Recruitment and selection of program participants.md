@@ -68,7 +68,7 @@ The following members of the Armed Forces are eligible for selection to particip
 
 #### (d) Selection priorities
 
-In selecting eligible members of the Armed Forces to receive assistance under the Program, the Secretary shall give priority to members who have educational or military experience in science, mathematics, special education, or vocational or technical subjects and agree to seek employment as science, mathematics, or specialeducation teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency.
+In selecting eligible members of the Armed Forces to receive assistance under the Program, the Secretary shall give priority to members who have educational or military experience in science, mathematics, special education, or vocational or technical subjects and agree to seek employment as science, mathematics, or special education teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency.
 
 #### (e) Other conditions on selection
 

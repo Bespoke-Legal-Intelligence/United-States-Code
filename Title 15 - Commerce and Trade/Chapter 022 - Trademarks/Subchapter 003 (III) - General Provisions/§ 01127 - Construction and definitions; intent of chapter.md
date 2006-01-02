@@ -10,7 +10,7 @@ The term “principal register” refers to the register provided for by section
 
 The term “person” and any other word or term used to designate the applicant or other entitled to a benefit or privilege or rendered liable under the provisions of this chapter includes a juristic person as well as a natural person. The term “juristic person” includes a firm, corporation, union, association, or other organization capable of suing and being sued in a court of law.
 
-The term “person” also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorizationand consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+The term “person” also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
 The term “person” also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
@@ -64,7 +64,7 @@ The term “use in commerce” means the bona fide use of a mark in the ordinary
 
 &emsp;&emsp;(B) the goods are sold or transported in commerce, and
 
-&emsp;(2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
+&emsp;(2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign countryand the person rendering the services is engaged in commerce in connection with the services.
 
 A mark shall be deemed to be “abandoned” if either of the following occurs:
 
@@ -122,7 +122,7 @@ Pub. L. 106–43, §4(c), between pars. defining “person” inserted: “The t
 
 &emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
 
-1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
+1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subjectto the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
 1988—Pub. L. 100–667, §134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
 
@@ -130,7 +130,7 @@ Pub. L. 100–667, §134(2), amended par. defining “trade name” and “comme
 
 Pub. L. 100–667, §134(3), amended par. defining “trademark” generally. Prior to amendment, par. read as follows: “The term ‘trademark’ includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.”
 
-Pub. L. 100–667, §134(4), amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark usedin the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
+Pub. L. 100–667, §134(4), amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
 
 Pub. L. 100–667, §134(5), amended par. defining “certification mark” generally. Prior to amendment, par. read as follows: “The term ‘certification mark’ means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.”
 

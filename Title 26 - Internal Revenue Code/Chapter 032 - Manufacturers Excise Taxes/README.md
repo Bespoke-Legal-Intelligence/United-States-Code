@@ -25,10 +25,6 @@
 
 1965—Pub. L. 89–44, title II, §§203, 204, 206, June 21, 1965, 79 Stat. 139, 140, struck out items for subchapters B, C and E.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 4293, 6103, 6302, 6416, 7871 of this title.
-
 
 ---
 

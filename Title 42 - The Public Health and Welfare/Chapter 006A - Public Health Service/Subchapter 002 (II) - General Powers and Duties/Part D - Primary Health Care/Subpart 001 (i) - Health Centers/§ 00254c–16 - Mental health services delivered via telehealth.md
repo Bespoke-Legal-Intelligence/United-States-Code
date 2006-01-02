@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Qualified mental health professionals
 
-&emsp;The term “qualified mental health professionals” refers to providers of mental healthservices reimbursed under the medicare program carried out under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) who have additional training in the treatment of mental illness in children and adolescents or who have additional training in the treatment of mental illness in the elderly.
+&emsp;The term “qualified mental health professionals” refers to providers of mental health services reimbursed under the medicare program carried out under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) who have additional training in the treatment of mental illness in children and adolescents or who have additional training in the treatment of mental illness in the elderly.
 
 #### (3) Special populations
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Office for the Advancement of Telehealth of the Health Resources and Services Administration, shall award grants to eligible entities to establish demonstration projects for the provision of mental health services to special populations as delivered remotely by qualified mental health professionals using telehealth and for the provision of education regarding mental illness as delivered remotely by qualified mental health professionals using telehealth.
+&emsp;The Secretary, acting through the Director of the Office for the Advancement of Telehealth of the Health Resources and Services Administration, shall award grants to eligible entities to establish demonstration projects for the provision of mental health services to special populations as delivered remotely by qualified mental health professionals using telehealth and for the provision of education regarding mental illness as delivered remotelyby qualified mental health professionals using telehealth.
 
 #### (2) Populations served
 

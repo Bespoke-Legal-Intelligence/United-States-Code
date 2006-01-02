@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In accordance with subchapter XII of this chapter, the Secretary of Agriculture shalltransfer to the Secretary of Homeland Security the Plum Island Animal Disease Center of the Department of Agriculture, including the assets and liabilities of the Center.
+In accordance with subchapter XII of this chapter, the Secretary of Agriculture shall transfer to the Secretary of Homeland Security the Plum Island Animal Disease Center of the Department of Agriculture, including the assets and liabilities of the Center.
 
 #### (b) Continued Department of Agriculture access
 

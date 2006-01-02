@@ -42,7 +42,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(i) the requirements set forth in subparagraphs (C) and (D) of this paragraph are complied with, and
 
-&emsp;(ii) plans are included under which immediate attention will be given to those resident species of plants which are determined by the Secretary or the State agency to be endangered or threatened and which the Secretary and the State agency agree are most urgently in need of conservation programs; except that a cooperative agreement entered into with a State whose program is deemed adequate and active pursuant to clause (i) and this clause shall not affect the applicability of prohibitions set forth in or authorized pursuant to section 1533(d) or section 1538(a)(1) of this title with respect to the taking of any resident endangered or threatened species.
+&emsp;(ii) plans are included under which immediate attention will be given to those resident species of plants which are determined by the Secretary or the State agency to be endangered or threatened and which the Secretaryand the State agency agree are most urgently in need of conservation programs; except that a cooperative agreement entered into with a State whose program is deemed adequate and active pursuant to clause (i) and this clause shall not affect the applicability of prohibitions set forth in or authorized pursuant to section 1533(d) or section 1538(a)(1) of this title with respect to the taking of any resident endangered or threatened species.
 
 #### (d) Allocation of funds
 
@@ -92,7 +92,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 &emsp;&emsp;(i) the Secretary applies such prohibition to such species at the request of the State, or
 
-&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisionsof section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
+&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisions of section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
 
 #### (h) Regulations
 

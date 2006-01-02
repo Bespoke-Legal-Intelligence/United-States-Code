@@ -34,7 +34,7 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 #### (b) Regulatory audit procedures
 
-(1) In conducting a regulatory audit under this section (which does not include a quantity verification for a customs bonded warehouse or general purpose foreign trade zone), the Customs Service auditor shall provide the person being audited, in advance of the audit, with a reasonable estimate of the time to be required for the audit. If in the course of an audit it becomes apparent that additional time will be required, theCustoms Service auditor shall immediately provide a further estimate of such additional time.
+(1) In conducting a regulatory audit under this section (which does not include a quantity verification for a customs bonded warehouse or general purpose foreign trade zone), the Customs Service auditor shall provide the person being audited, in advance of the audit, with a reasonable estimate of the time to be required for the audit. If in the course of an audit it becomes apparent that additional time will be required, the Customs Service auditor shall immediately provide a further estimate of such additional time.
 
 (2) Before commencing an audit, the Customs Service auditor shall inform the party to be audited of his right to an entry conference at which time the purpose will be explained and an estimated termination date set. Upon completion of on-site audit activities, the Customs Service auditor shall schedule a closing conference to explain the preliminary results of the audit.
 
@@ -150,7 +150,7 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 &emsp;&emsp;&emsp;(i) if unliquidated, shall be liquidated at the applicable column 1 general rate of duty; or
 
-&emsp;&emsp;&emsp;(ii) if liquidated within the 2-year period preceding the date of the demand, shall be reliquidated, notwithstanding the time limitation in section 1514 or 1520 of this title, at the applicable column 1 general rate of duty;
+&emsp;&emsp;&emsp;(ii) if liquidated within the 2-year period preceding the date of the demand, shall be reliquidated, notwithstanding the timelimitation in section 1514 or 1520 of this title, at the applicable column 1 general rate of duty;
 
 > &emsp;&emsp;except that any liquidation or reliquidation under clause (i) or (ii) shall be at the applicable column 2 rate of duty if the Customs Service demonstrates that the merchandise should be dutiable at such rate.
 

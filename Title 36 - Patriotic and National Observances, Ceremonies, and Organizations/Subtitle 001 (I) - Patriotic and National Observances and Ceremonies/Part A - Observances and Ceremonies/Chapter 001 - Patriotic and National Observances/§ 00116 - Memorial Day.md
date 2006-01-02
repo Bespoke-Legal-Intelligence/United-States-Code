@@ -238,7 +238,7 @@ Contents.—A report under paragraph (1) may include—
 
 &emsp;&emsp;“(C) recommendations for any legislation or administrative action that the Commission determines to be appropriate regarding the commemoration of Memorial Day and the National Moment of Remembrance;
 
-&emsp;&emsp;“(D) an accounting of funds received and expended by the Commission in the fiscal year covered by the report, including a detailed descriptionof the source and amount of any funds donated to the Commission in that fiscal year; and
+&emsp;&emsp;“(D) an accounting of funds received and expended by the Commission in the fiscal year covered by the report, including a detailed description of the source and amount of any funds donated to the Commission in that fiscal year; and
 
 &emsp;&emsp;“(E) a description of cooperative agreements and contracts entered into by the Commission.
 
@@ -286,7 +286,7 @@ Authority To Procure and To Make Legal Agreements.—
 
 &emsp;“(1)
 
-In general.—Subject to the availability of appropriations, to carry out this Act, the Chairperson or Vice Chairperson of the Commission or the Executive Director and White House Liaison may, on behalf of the Commission—
+In general.—Subject to the availability of appropriations, to carry out this Act, the Chairpersonor Vice Chairperson of the Commission or the Executive Director and White House Liaison may, on behalf of the Commission—
 
 &emsp;&emsp;“(A) procure supplies, services, and property; and
 
@@ -432,7 +432,7 @@ In general.—The Commission may enter into a cooperative agreement with another
 
 &emsp;“(2)
 
-Administrative support services.—On the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, any administrative support services and any property, equipment, or office space that the Commission determines to be necessary to carry out this Act.
+Administrative support services.—On the request of the Commission, the Administrator of General Services shall provide to the Commission, on areimbursable basis, any administrative support services and any property, equipment, or office space that the Commission determines to be necessary to carry out this Act.
 
 “(g)
 

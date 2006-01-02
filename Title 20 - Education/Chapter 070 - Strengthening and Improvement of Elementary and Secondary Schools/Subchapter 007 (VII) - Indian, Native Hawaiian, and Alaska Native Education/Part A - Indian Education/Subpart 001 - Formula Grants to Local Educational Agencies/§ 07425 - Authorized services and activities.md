@@ -18,7 +18,7 @@ The services and activities referred to in subsection (a) of this section may in
 
 &emsp;(2) early childhood and family programs that emphasize school readiness;
 
-&emsp;(3) enrichment programs that focus on problem solving and cognitive skills developmentand directly support the attainment of challenging State academic content and student academic achievement standards;
+&emsp;(3) enrichment programs that focus on problem solving and cognitive skills development and directly support the attainment of challenging State academic content and student academic achievement standards;
 
 &emsp;(4) integrated educational services in combination with other programs that meet the needs of Indian children and their families;
 

@@ -244,7 +244,7 @@ Hearings.—The Commission may hold such hearings, sit and act at such times and
 
 “(b)
 
-Information From Federal Agencies.—The Commission may secure directly from the Department of Defense, the Department of Veterans Affairs, and any other department or agency of the Government such information as the Commission considers necessary to carry out its duties under this title. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
+Information From Federal Agencies.—The Commission may secure directly from the Departmentof Defense, the Department of Veterans Affairs, and any other department or agency of the Government such information as the Commission considers necessary to carry out its duties under this title. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
 
 #### “SEC. 704. MISCELLANEOUS ADMINISTRATIVE PROVISIONS.
 

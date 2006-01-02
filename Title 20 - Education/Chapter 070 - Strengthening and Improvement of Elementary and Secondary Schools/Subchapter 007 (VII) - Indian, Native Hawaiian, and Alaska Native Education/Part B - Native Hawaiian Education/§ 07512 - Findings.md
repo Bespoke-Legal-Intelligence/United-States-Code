@@ -22,7 +22,7 @@ Congress finds the following:
 
 &emsp;(10) Under the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges and amendments to such Act affecting the rights of beneficiaries under such Act.
 
-&emsp;(11) In 1959, under the Act entitled “An Act to provide for the admission of the State ofHawaii into the Union”, the United States also ceded to the State of Hawaii title to the public lands formerly held by the United States, but mandated that such lands be held by the State “in public trust” and reaffirmed the special relationship that existed between the United States and the Hawaiian people by retaining the legal responsibility to enforce the public trust responsibility of the State of Hawaii for the betterment of the conditions of Native Hawaiians, as defined in section 201(a) of the Hawaiian Homes Commission Act, 1920.
+&emsp;(11) In 1959, under the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, the United States also ceded to the State of Hawaii title to the public lands formerly held by the United States, but mandated that such lands be held by the State “in public trust” and reaffirmed the special relationship that existed between the United States and the Hawaiian people by retaining the legal responsibility to enforce the public trust responsibility of the State of Hawaii for the betterment of the conditions of Native Hawaiians, as defined in section 201(a) of the Hawaiian Homes Commission Act, 1920.
 
 &emsp;(12) The United States has recognized and reaffirmed that—
 
@@ -138,7 +138,7 @@ The Native American Languages Act, referred to in par. (13)(F), is title I of Pu
 
 The American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act, referred to in par. (13)(G), is title XV of Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1600, as amended, which is classified generally to chapter 56 (§4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in par. (13)(H), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principallyto chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in par. (13)(H), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in par. (13)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 

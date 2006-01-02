@@ -20,7 +20,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;(B) if—
 
-&emsp;&emsp;&emsp;(i) such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963, for which an election under section 1562 was not in effect, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group, or
+&emsp;&emsp;&emsp;(i) such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which endsafter December 31, 1963, for which an election under section 1562 was not in effect, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group, or
 
 &emsp;&emsp;&emsp;(ii) such dividend is paid by a corporation with respect to which an election under section 936 is in effect for the taxable year in which such dividend is paid.
 
@@ -90,7 +90,7 @@ For purposes of subsection (a)—
 
 For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulated by a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 85–866, title I, §57(b), Sept. 2, 1958, 72 Stat. 1645; Pub. L. 86–779, §§3(a), 10(g), Sept. 14, 1960, 74 Stat. 998, 1009; Pub. L. 88–272, title II, §214(a), Feb. 26, 1964, 78 Stat. 52; Pub. L. 90–364, title I, §103(e)(2), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title V, §504(c)(1), Dec. 30, 1969, 83 Stat. 633; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title II, §211(b)(3), July 18, 1984, 98 Stat. 754; Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), Oct. 22, 1986, 100 Stat. 2227, 2249; Pub. L. 100–203, title X, §10221(a)(1), (b), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title I, §1010(f)(4), Nov. 10, 1988, 102 Stat. 3454; Pub. L. 101–508, title XI, §11814(a), Nov. 5, 1990, 104 Stat. 1388–556; Pub. L. 104–188, title I, §1702(h)(4), (8), Aug. 20, 1996, 110 Stat. 1873, 1874.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 85–866, title I, §57(b), Sept. 2, 1958, 72 Stat. 1645; Pub. L. 86–779, §§3(a), 10(g), Sept. 14, 1960, 74 Stat. 998, 1009; Pub. L. 88–272, title II, §214(a), Feb. 26, 1964, 78 Stat. 52; Pub. L. 90–364, title I, §103(e)(2), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title V, §504(c)(1), Dec. 30, 1969, 83 Stat. 633; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Pub. L. 97–34, titleII, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title II, §211(b)(3), July 18, 1984, 98 Stat. 754; Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), Oct. 22, 1986, 100 Stat. 2227, 2249; Pub. L. 100–203, title X, §10221(a)(1), (b), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title I, §1010(f)(4), Nov. 10, 1988, 102 Stat. 3454; Pub. L. 101–508, title XI, §11814(a), Nov. 5, 1990, 104 Stat. 1388–556; Pub. L. 104–188, title I, §1702(h)(4), (8), Aug. 20, 1996, 110 Stat. 1873, 1874.)
 
 #### References in Text
 
@@ -224,7 +224,7 @@ Section 504(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—The amendments made by this section \[amending this section and sections 381, 615, 617,703, and 1016 of this title\] shall apply with respect to exploration expenditures paid or incurred after December 31, 1969.
+In general.—The amendments made by this section \[amending this section and sections 381, 615, 617, 703, and 1016 of this title\] shall apply with respect to exploration expenditures paid or incurred after December 31, 1969.
 
 “(2)
 
@@ -250,9 +250,5 @@ Section 57(d) of Pub. L. 85–866 provided that: “The amendments made by this 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 163, 172, 244, 245, 246, 246A, 263, 277, 301, 469, 512, 805, 810, 812, 815, 832, 833, 854, 857, 861, 864, 1059, 1244, 1504, 7518 of this title; title 46 App. section 1177.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

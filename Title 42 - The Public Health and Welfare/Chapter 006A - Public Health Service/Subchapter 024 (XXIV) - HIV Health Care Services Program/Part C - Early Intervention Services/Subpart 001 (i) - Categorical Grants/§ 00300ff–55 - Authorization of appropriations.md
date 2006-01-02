@@ -1,6 +1,6 @@
 ### §300ff–55. Authorization of appropriations
 
-For the purpose of making grants under section 300ff–51 of this title, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of making grants under section 300ff–51 of this title, there are authorized tobe appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 (July 1, 1944, ch. 373, title XXVI, §2655, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 609; amended Pub. L. 104–146, §3(d)(4), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title III, §313, Oct. 20, 2000, 114 Stat. 1346.)
 

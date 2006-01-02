@@ -6,7 +6,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 #### (b) Preservation of benefit status for certain disabled widows and widowers
 
-(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based on a disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsection under paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
+(1) An eligible disabled widow or widower (described in paragraph (2)) who is entitled to a widow's or widower's insurance benefit based ona disability for any month under section 402(e) or (f) of this title but is not eligible for benefits under this subchapter in that month, and who applies for the protection of this subsection under paragraph (3), shall be deemed for purposes of subchapter XIX of this chapter to be an individual with respect to whom benefits under this subchapter are paid in that month if he or she—
 
 &emsp;(A) has been continuously entitled to such widow's or widower's insurance benefits from the first month for which the increase described in paragraph (2)(C) was reflected in such benefits through the month involved, and
 
@@ -54,7 +54,7 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 #### References in Text
 
-Section 134 of the Social Security Amendments of 1983 (Public Law 98–21), referred to in subsec. (b)(2)(C), is section 134 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 97, which amended section 402 of this title and enacted provisions set out as a note under section 402 of this title.
+Section 134 of the Social Security Amendments of 1983 (Public Law 98–21), referred to in subsec. (b)(2)(C),is section 134 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 97, which amended section 402 of this title and enacted provisions set out as a note under section 402 of this title.
 
 Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 

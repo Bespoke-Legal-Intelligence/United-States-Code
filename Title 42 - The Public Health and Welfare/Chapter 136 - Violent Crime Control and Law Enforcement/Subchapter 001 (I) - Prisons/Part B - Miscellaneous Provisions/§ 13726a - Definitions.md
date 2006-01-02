@@ -8,7 +8,7 @@ In sections 13726 to 13726c of this title:
 
 #### (2) Private prisoner transport company
 
-&emsp;The term “private prisoner transport company” means any entity, other than the United States, a State, or an inferior political subdivision of a State, which engages in the business of the transporting for compensation, individuals committed to the custody of any State or of an inferior political subdivision of a State, or any attempt thereof.
+&emsp;The term “private prisoner transport company” means any entity, other than the United States, a State, or an inferior political subdivision of a State, which engages in the business of the transporting for compensation,individuals committed to the custody of any State or of an inferior political subdivision of a State, or any attempt thereof.
 
 #### (3) Violent prisoner
 

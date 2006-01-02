@@ -48,7 +48,7 @@ The advocate for competition for each procuring activity shall be responsible fo
 
 #### References in Text
 
-Section 414 of this title, referred to in subsecs. (a)(2)(A) and (b)(3), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
+Section 414 of this title, referred to in subsecs. (a)(2)(A) and (b)(3), was amended generally by Pub. L.108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
 
 #### Amendments
 

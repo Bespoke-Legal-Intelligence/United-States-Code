@@ -146,7 +146,3 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6230, 6231, 7422, 7451, 7459, 7482, 7485 of this title; title 28 sections 1346, 1508.
-

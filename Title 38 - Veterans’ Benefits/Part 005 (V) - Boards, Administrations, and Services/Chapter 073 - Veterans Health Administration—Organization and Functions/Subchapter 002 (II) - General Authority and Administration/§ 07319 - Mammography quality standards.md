@@ -8,7 +8,7 @@
 
 (2) The Secretary may not provide for an inspection under paragraph (1) to be performed by a State agency.
 
-(d) The Secretary shall ensure that mammograms performed for the Department under contract with any non-Department facility or provider conform to the quality standards prescribed by the Secretary of Health and HumanServices under section 354 of the Public Health Service Act.
+(d) The Secretary shall ensure that mammograms performed for the Department under contract with any non-Department facility or provider conform to the quality standards prescribed by the Secretary of Health and Human Services under section 354 of the Public Health Service Act.
 
 (e) For the purposes of this section, the term “mammogram” has the meaning given such term in paragraph (5) of section 354(a) of the Public Health Service Act.
 

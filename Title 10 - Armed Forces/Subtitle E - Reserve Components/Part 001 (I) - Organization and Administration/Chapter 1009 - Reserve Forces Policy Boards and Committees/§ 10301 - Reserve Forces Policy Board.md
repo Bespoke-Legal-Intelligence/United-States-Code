@@ -4,7 +4,7 @@
 
 &emsp;(1) A civilian chairman appointed by the Secretary of Defense.
 
-&emsp;(2) The Assistant Secretary of the Army for Manpower and Reserve Affairs, the AssistantSecretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs.
+&emsp;(2) The Assistant Secretary of the Army for Manpower and Reserve Affairs, the Assistant Secretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs.
 
 &emsp;(3) An officer of the Regular Army designated by the Secretary of the Army.
 
@@ -14,7 +14,7 @@
 
 &emsp;(6) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Army, two of whom must be members of the Army National Guard of the United States, and two of whom must be members of the Army Reserve.
 
-&emsp;(7) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Navy, two of whom must be members of the Naval Reserve, and two of whom must be members of the Marine Corps Reserve.
+&emsp;(7) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Navy, two of whom must be members of the Navy Reserve, and two of whom must be members of the Marine Corps Reserve.
 
 &emsp;(8) Four reserve officers designated by the Secretary of Defense upon the recommendation of the Secretary of the Air Force, two of whom must be members of the Air National Guard of the United States, and two of whom must be members of the Air Force Reserve.
 
@@ -32,13 +32,15 @@
 
 (f) The Board shall act on those matters referred to it by the Chairman and, in addition, on any matter raised by a member of the Board.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 175 of this title, prior to amendment by Pub. L. 103–337, §1661(b)(3).
 
 #### Amendments
+
+2006—Subsec. (a)(7). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2002—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -49,8 +51,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date
 
 Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 175, 641 of this title.
 

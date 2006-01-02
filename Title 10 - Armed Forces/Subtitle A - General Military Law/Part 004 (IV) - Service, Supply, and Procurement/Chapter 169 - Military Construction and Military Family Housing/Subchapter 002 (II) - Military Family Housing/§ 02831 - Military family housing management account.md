@@ -14,13 +14,39 @@
 
 (d) The Secretary concerned may make obligations against the account, in such amounts as may be specified from time to time in appropriation Acts, for the purpose of defraying, in the manner and to the extent authorized by law, the costs referred to in subsection (b).
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 107–217, §3(b)(19), Aug. 21, 2002, 116 Stat. 1297.)
+(e)
+
+Reports on Cost of General Officers and Flag Officers Quarters.—(1) As part of the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense shall submit a report—
+
+&emsp;(A) identifying each family housing unit used, or intended for use, as quarters for a general officer or flag officer for which the total operation, maintenance, and repair costs for the unit are anticipated to exceed $35,000 in the next fiscal year; and
+
+&emsp;(B) for each family housing unit so identified, specifying the total of such anticipated operation, maintenance, and repair costs for the unit.
+
+(2) Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report specifying, for each family housing unit used as quarters for a general officer or flag officer at any time during that fiscal year, the total expenditures for operation and maintenance, utilities, lease, and repairs of the unit during that fiscal year.
+
+(f)
+
+Notice and Wait Requirement.—(1) Except as provided in paragraphs (2) and (3), the Secretary concerned may not carry out a maintenance or repair project for a family housing unit used, or intended for use, as quarters for a general officer or flag officer if the project will or may result in the total operation, maintenance, and repair costs for the unit for the fiscal year to exceed $35,000, until—
+
+&emsp;(A) the Secretary concerned submits to the congressional defense committees, in writing, a justification of the need for the maintenance or repair project and an estimate of the cost of the project; and
+
+&emsp;(B) a period of 21 days has expired following the date on which the justification and estimate are received by the committees or, if over sooner, a period of 14 days has expired following the date on which a copy of the justification and estimate are provided in an electronic medium pursuant to section 480 of this title.
+
+(2) The project justification and cost estimate required by paragraph (1)(A) may be submitted after the commencement of a maintenance or repair project for a family housing unit used, or intended for use, as quarters for a general officer or flag officer if the project is a necessary enviromental <sup>1</sup> remediation project for the unit or is necessary for occupant safety or security, and the need for the project arose after the submission of the most recent report under subsection (e).
+
+(3) Paragraph (1) shall not apply in the case of a family housing unit used, or intended for use, as quarters for a general officer or flag officer if the unit was identified in the most recent report submitted under subsection (e) and the cost of the maintenance or repair project was included in the total of anticipated operation, maintenance, and repair costs for the unit specified in the report.
+
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 107–217, §3(b)(19), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–375, div. B, title XXVIII, §2802(a), (b), Oct. 28, 2004, 118 Stat. 2119, 2120.)
 
 #### Amendments
+
+2004—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
 
 2002—Subsec. (b)(3). Pub. L. 107–217 substituted “section 572(a) of title 40” for “section 204(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(b))”.
 
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

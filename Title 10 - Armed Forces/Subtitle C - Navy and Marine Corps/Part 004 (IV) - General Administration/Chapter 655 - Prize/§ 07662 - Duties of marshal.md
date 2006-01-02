@@ -10,7 +10,7 @@ The marshal shall—
 
 &emsp;(4) insure the prize property, if in his judgment it is in the interest of all concerned;
 
-&emsp;(5) have charge of the sale of the property, if a sale is ordered, and be responsible for the conduct of the sale in the manner required by the court, for the collection of the gross proceeds, and for their immediate deposit with the Treasurer of the United States or public depositary nearest the place of sale, subject to the order of the court in the cause; and
+&emsp;(5) have charge of the sale of the property, if a sale is ordered, and be responsible for the conduct of the sale in the manner required by the court, for the collection of the gross proceeds, and for their immediate deposit withthe Treasurer of the United States or public depositary nearest the place of sale, subject to the order of the court in the cause; and
 
 &emsp;(6) submit to the Secretary of the Navy, at such times as the Secretary designates, a full statement of the condition of the prize and of the disposal made thereof.
 

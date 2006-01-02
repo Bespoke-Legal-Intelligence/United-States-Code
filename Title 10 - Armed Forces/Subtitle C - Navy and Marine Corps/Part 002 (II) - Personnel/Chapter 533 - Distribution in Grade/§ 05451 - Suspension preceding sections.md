@@ -1,6 +1,6 @@
 ### §5451. Suspension: preceding sections
 
-The President, during a war or national emergency, may suspend any provision of the preceding sections of this chapter. Such a suspension may not continue beyond September 30 of the fiscal year following that in which the war or national emergency ends.
+The President, during a war or national emergency, may suspend any provision of the preceding sections of this chapter. Such a suspensionmay not continue beyond September 30 of the fiscal year following that in which the war or national emergency ends.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 312; Pub. L. 94–273, §2(3), Apr. 21, 1976, 90 Stat. 375; Pub. L. 96–513, title V, §503(22), Dec. 12, 1980, 94 Stat. 2913; Pub. L. 102–190, div. A, title X, §1061(a)(21), Dec. 5, 1991, 105 Stat. 1473.)
 

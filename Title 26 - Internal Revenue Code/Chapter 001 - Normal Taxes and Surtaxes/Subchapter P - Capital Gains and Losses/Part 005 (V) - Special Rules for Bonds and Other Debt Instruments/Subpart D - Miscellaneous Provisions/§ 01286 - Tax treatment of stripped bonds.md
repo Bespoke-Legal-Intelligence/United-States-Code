@@ -26,7 +26,7 @@ For purposes of this subtitle, if any person strips 1 or more coupons from a bon
 
 &emsp;(4) for purposes of subsection (a), such person shall be treated as having purchased on the date of such disposition each such item which he retains for an amount equal to the basis allocated to such item under paragraph (3).
 
-> A rule similar to the rule of paragraph (4) shall apply in the case of any person whose basis in any bond or coupon is determined by reference to the basis of the person described in the preceding sentence.
+> A rule similar to the rule of paragraph (4) shall apply in the case of any person whose basis inany bond or coupon is determined by reference to the basis of the person described in the preceding sentence.
 
 #### (c) Retention of existing law for stripped bonds purchased before July 2, 1982
 
@@ -100,13 +100,19 @@ For purposes of this section—
 
 &emsp;The term “purchase” has the meaning given such term by section 1272(d)(1).
 
-#### (f) Regulation authority
+#### (f) Treatment of stripped interests in bond and preferred stock funds, etc.
+
+In the case of an account or entity substantially all of the assets of which consist of bonds, preferred stock, or a combination thereof, the Secretary may by regulations provide that rules similar to the rules of this section and 305(e),<sup>1</sup> as appropriate, shall apply to interests in such account or entity to which (but for this subsection) this section or section 305(e), as the case may be, would not apply.
+
+#### (g) Regulation authority
 
 The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, or other circumstances, the tax treatment under this section does not accurately reflect the income of the holder of a stripped coupon or stripped bond, or of the person disposing of such bond or coupon, as the case may be, for any period, such treatment shall be modified to require that the proper amount of income be included for such period.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 551; amended Pub. L. 99–514, title XVIII, §§1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, 100 Stat. 2796, 2912; Pub. L. 100–647, title I, §1018(q)(4)(A), Nov. 10, 1988, 102 Stat. 3585.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 551; amended Pub. L. 99–514,title XVIII, §§1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, 100 Stat. 2796, 2912; Pub. L. 100–647, title I, §1018(q)(4)(A), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 108–357, title VIII, §831(a), Oct. 22, 2004, 118 Stat. 1587.)
 
 #### Amendments
+
+2004—Subsecs. (f), (g). Pub. L. 108–357 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 1988—Subsec. (d). Pub. L. 100–647 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In the case of any tax-exempt obligation (as defined in section 1275(a)(3)) from which 1 or more coupons have been stripped—
 
@@ -133,6 +139,10 @@ Subsec. (d). Pub. L. 99–514, §1879(s)(1), amended subsec. (d) generally. Prio
 &emsp;“(2) the rules of subsection (b)(4) shall apply for purposes of subsection (c), and
 
 &emsp;“(3) subsection (c) shall be applied without regard to the requirement that the bond be purchased before July 2, 1982.”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to purchases and dispositions after Oct. 22, 2004, see section 831(c) of Pub. L. 108–357, set out as a note under section 305 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -162,7 +172,5 @@ Section applicable to taxable years ending after July 18, 1984, except as otherw
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 871, 1271 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be “section 305(e),”.</i>
 

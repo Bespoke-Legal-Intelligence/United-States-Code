@@ -50,7 +50,7 @@ Section 2 of Pub. L. 101–604 provided that: “Congress finds that—
 
 &emsp;“(9) the United States Government has a special obligation to United States victims of acts of terrorism directed against this Nation and should provide prompt assistance to the families of such victims and assure that fair and prompt compensation is provided to such victims and their families;
 
-&emsp;“(10) the United States should work with other nations to treat as outlaws state sponsors of terrorism, isolating such sponsors politically, economically, and militarily;
+&emsp;“(10) the United States should work with other nations to treat as outlaws state sponsors of terrorism,isolating such sponsors politically, economically, and militarily;
 
 &emsp;“(11) the United States must develop a clear understanding that state-sponsored terrorism threatens United States values and interests, and that active measures are needed to counter more effectively the terrorist threat; and
 

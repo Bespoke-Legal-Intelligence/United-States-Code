@@ -18,15 +18,13 @@ It is the purpose of this section—
 
 #### (b) Agreements with States
 
-Except as provided in subsection (c) of this section, the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State—
+Except as provided in subsection (c) of this section, the Commission is authorized to enter into agreements with the Governor of any State providing for discontinuance of the regulatory authority of the Commission under subchapters V, VI, and VII of this division, and section 2201 of this title, with respect to any one or more of the following materials within the State:
 
-&emsp;(1) byproduct materials as defined in section 2014(e)(1) of this title;
+&emsp;(1) Byproduct materials (as defined in section 2014(e) of this title).
 
-&emsp;(2) byproduct materials as defined in section 2014(e)(2) of this title;
+&emsp;(2) Source materials.
 
-&emsp;(3) source materials;
-
-&emsp;(4) special nuclear materials in quantities not sufficient to form a critical mass.
+&emsp;(3) Special nuclear materials in quantities not sufficient to form a critical mass.
 
 > During the duration of such an agreement it is recognized that the State shall have authority to regulate the materials covered by the agreement for the protection of the public health and safety from radiation hazards.
 
@@ -72,11 +70,11 @@ The Administrator of the Environmental Protection Agency shall consult qualified
 
 #### (i) Inspections and other functions; training and other assistance
 
-The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training,with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b) of this section.
+The Commission in carrying out its licensing and regulatory responsibilities under this chapter is authorized to enter into agreements with any State, or group of States, to perform inspections or other functions on a cooperative basis as the Commission deems appropriate. The Commission is also authorized to provide training, with or without charge, to employees of, and such other assistance to, any State or political subdivision thereof or group of States as the Commission deems appropriate. Any such provision or assistance by the Commission shall take into account the additional expenses that may be incurred by a State as a consequence of the State's entering into an agreement with the Commission pursuant to subsection (b) of this section.
 
 #### (j) Reserve power to terminate or suspend agreements; emergency situations; State nonaction on causes of danger; authority exercisable only during emergency and commensurate with danger
 
-(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
+(1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) of this section has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert thelicensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
 (2) The Commission, upon its own motion or upon request of the Governor of any State, may, after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
 
@@ -136,7 +134,7 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 > If any State under such agreement imposes upon any licensee any requirement for the payment of funds to such State for the reclamation or long-term maintenance and monitoring of such material, and if transfer to the United States of such material is required in accordance with section 2113(b) of this title, such agreement shall be amended by the Commission to provide that such State shall transfer to the United States upon termination of the license issued to such licensee the total amount collected by such State from such licensee for such purpose. If such payments are required, they must be sufficient to ensure compliance with the standards established by the Commission pursuant to section 2201(x) of this title. No State shall be required under paragraph (3) to conduct proceedings concerning any license or regulation which would duplicate proceedings conducted by the Commission. In adopting requirements pursuant to paragraph (2) of this subsection with respect to sites at which ores are processed primarily for their source material content or which are used for the disposal of byproduct material as defined in section 2014(e)(2) of this title, the State may adopt alternatives (including, where appropriate, site-specific alternatives) to the requirements adopted and enforced by the Commission for the same purpose if, after notice and opportunity for public hearing, the Commission determines that such alternatives will achieve a level of stabilization and containment of the sites concerned, and a level of protection for public health, safety, and the environment from radiological and nonradiological hazards associated with such sites, which is equivalent to, to the extent practicable, or more stringent than the level which would be achieved by standards and requirements adopted and enforced by the Commission for the same purpose and any final standards promulgated by the Administrator of the Environmental Protection Agency in accordance with section 2022 of this title. Such alternative State requirements may take into account local or regional conditions, including geology, topography, hydrology and meteorology.
 
-(Aug. 1, 1946, ch. 724, title I, §274, as added Pub. L. 86–373, §1, Sept. 23, 1959, 73 Stat. 688; amended 1970 Reorg. Plan No. 3, §§2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086; Pub. L. 95–604, title II, §204(a)–(e)(1), (f), Nov. 8, 1978, 92 Stat. 3036–3038; Pub. L. 96–295, title II, §205, June 30, 1980, 94 Stat. 787; Pub. L. 97–415, §19(a), Jan. 4, 1983, 96 Stat. 2078; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(6), (8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §274, as added Pub. L. 86–373, §1, Sept. 23, 1959, 73 Stat. 688; amended 1970 Reorg. Plan No. 3, §§2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086; Pub. L. 95–604, title II, §204(a)–(e)(1), (f), Nov. 8, 1978, 92 Stat. 3036–3038; Pub. L. 96–295, title II, §205, June 30, 1980, 94 Stat. 787; Pub. L. 97–415, §19(a), Jan. 4, 1983, 96 Stat. 2078; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(6), (8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §651(e)(2), Aug. 8, 2005, 119 Stat. 807.)
 
 #### References in Text
 
@@ -147,6 +145,16 @@ For definition of Canal Zone, referred to in subsec. (n), see section 3602(b) of
 In subsec. (h) of this section, provisions for the establishment of a Federal Radiation Council and for the designation of its Chairman and members have been omitted and the Administrator of the Environmental Protection Agency has been substituted for the Council as the person charged with the responsibility of carrying out the functions of the Council pursuant to Reorg. Plan No. 3 of 1970, §§2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the Federal Radiation Council and transferred its functions to the Administrator of the Environmental Protection Administration.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58 substituted “State:” for “State—” in introductory provisions, added pars. (1) to (3), and struck out former pars. (1) to (4) which read as follows:
+
+“(1) byproduct materials as defined in section 2014(e)(1) of this title;
+
+“(2) byproduct materials as defined in section 2014(e)(2) of this title;
+
+“(3) source materials;
+
+“(4) special nuclear materials in quantities not sufficient to form a critical mass.”
 
 1992—Subsec. (c)(1). Pub. L. 102–486, §902(a)(6), inserted before semicolon at end “or any uranium enrichment facility”.
 
@@ -168,7 +176,7 @@ Subsec. (<i>o</i>). Pub. L. 95–604, §204(e)(1), added subsec. (<i>o</i>).
 
 #### Effective Date of 1978 Amendment
 
-Section 204(e)(2) of Pub. L. 95–604, as added by Pub. L. 96–106, §22(d), Nov. 9, 1979, 93 Stat. 800, provided that: “The provisions of the amendment made by paragraph (1) of this subsection (which adds a new subsection <i>o</i>. to section 274 of the Atomic Energy Act of 1954 \[this section\]) shall apply only to the maximum extent practicable during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\].”
+Section 204(e)(2) of Pub. L. 95–604, as added by Pub. L. 96–106, §22(d), Nov. 9, 1979, 93 Stat. 800, provided that: “The provisions of the amendment made by paragraph\(1) of this subsection (which adds a new subsection <i>o</i>. to section 274 of the Atomic Energy Act of 1954 \[this section\]) shall apply only to the maximum extent practicable during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\].”
 
 Amendment by Pub. L. 95–604 effective Nov. 8, 1978, see section 208 of Pub. L. 95–604, set out as a note under section 2014 of this title.
 

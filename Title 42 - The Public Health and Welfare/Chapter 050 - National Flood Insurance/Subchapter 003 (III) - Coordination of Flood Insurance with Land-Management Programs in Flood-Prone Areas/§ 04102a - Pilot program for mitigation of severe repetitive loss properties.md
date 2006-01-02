@@ -194,7 +194,7 @@ A State or community may take action under subsection (c)(2) of this section to 
 
 &emsp;&emsp;In an appeal under this paragraph—
 
-&emsp;&emsp;&emsp;(i) if a final determination is made in favor of the property owner under subparagraph (A) exist <sup>1</sup>, the third party hearing such appeal shall require the Director to reduce the chargeable risk premium rate for flood insurance coverage for the property involved in the appeal from the amount required under paragraph (1)(B) or (2) to the amount paid prior to the offer to take action under paragraph (1) or (2) of subsection (c) of this section; and
+&emsp;&emsp;&emsp;(i) if a final determination is made in favor of the property owner under subparagraph (A) exist,<sup>1</sup> the third party hearing such appeal shall require the Director to reduce the chargeable risk premium rate for flood insurance coverage for the property involved in the appeal from the amount required under paragraph (1)(B) or (2) to the amount paid prior to the offer to take action under paragraph (1) or (2) of subsection (c) of this section; and
 
 &emsp;&emsp;&emsp;(ii) if a final determination is made that the grounds under subparagraph (A) do not exist, the Director shall promptly increase the chargeable risk premium rate for such property to the amount established pursuant to paragraph (1)(B) or (2), as applicable, and shall collect from the property owner the amount necessary to cover the stay of the applicability of such increased rates during the pendency of the appeal.
 

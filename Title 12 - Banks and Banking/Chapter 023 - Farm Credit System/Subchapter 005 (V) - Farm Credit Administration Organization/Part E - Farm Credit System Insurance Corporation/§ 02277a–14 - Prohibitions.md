@@ -10,7 +10,7 @@
 
 #### (A) By outside person or entities
 
-&emsp;&emsp;It shall be unlawful for any person or entity to falsely represent by any device, thatthe notes, bonds, debentures, or other obligations of the person or entity are insured or in any way guaranteed by the Corporation.
+&emsp;&emsp;It shall be unlawful for any person or entity to falsely represent by any device, that the notes, bonds, debentures, or other obligations of the person or entity are insured or in any way guaranteed by the Corporation.
 
 #### (B) System banks
 
@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;Except with the prior written consent of the Farm Credit Administration, it shall be unlawful for any person convicted of any criminal offense involving dishonesty or a breach of trust to serve as a director, officer, or employee of any System institution.
+&emsp;Except with the prior written consent of the Farm Credit Administration, it shall be unlawful for any person convicted of any criminal offense involving dishonesty or a breach oftrust to serve as a director, officer, or employee of any System institution.
 
 #### (2) Penalty
 

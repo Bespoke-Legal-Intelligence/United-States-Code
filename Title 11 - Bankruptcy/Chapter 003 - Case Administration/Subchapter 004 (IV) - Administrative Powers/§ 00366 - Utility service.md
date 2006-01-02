@@ -1,10 +1,40 @@
 ### §366. Utility service
 
-(a) Except as provided in subsection (b) of this section, a utility may not alter, refuse, or discontinue service to, or discriminate against, the trustee or the debtor solely on the basis of the commencement of a case under this title or that a debt owed by the debtor to such utility for service rendered before the order for relief was not paid when due.
+(a) Except as provided in subsections (b) and (c) of this section, a utility may not alter, refuse, or discontinue service to, or discriminate against, the trustee or the debtor solely on the basis of the commencement of a case under this title or that a debt owed by the debtor to such utility for service rendered before the order for relief was not paid when due.
 
 (b) Such utility may alter, refuse, or discontinue service if neither the trustee nor the debtor, within 20 days after the date of the order for relief, furnishes adequate assurance of payment, in the form of a deposit or other security, for service after such date. On request of a party in interest and after notice and a hearing, the court may order reasonable modification of the amount of the deposit or other security necessary to provide adequate assurance of payment.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, §443, July 10, 1984, 98 Stat. 373.)
+(c)(1)(A) For purposes of this subsection, the term “assurance of payment” means—
+
+&emsp;(i) a cash deposit;
+
+&emsp;(ii) a letter of credit;
+
+&emsp;(iii) a certificate of deposit;
+
+&emsp;(iv) a surety bond;
+
+&emsp;(v) a prepayment of utility consumption; or
+
+&emsp;(vi) another form of security that is mutually agreed on between the utility and the debtor or the trustee.
+
+(B) For purposes of this subsection an administrative expense priority shall not constitute an assurance of payment.
+
+(2) Subject to paragraphs (3) and (4), with respect to a case filed under chapter 11, a utility referred to in subsection (a) may alter, refuse, or discontinue utility service, if during the 30-day period beginning on the date of the filing of the petition, the utility does not receive from the debtor or the trustee adequate assurance of payment for utility service that is satisfactory to the utility.
+
+(3)(A) On request of a party in interest and after notice and a hearing, the court may order modification of the amount of an assurance of payment under paragraph (2).
+
+(B) In making a determination under this paragraph whether an assurance of payment is adequate, the court may not consider—
+
+&emsp;(i) the absence of security before the date of the filing of the petition;
+
+&emsp;(ii) the payment by the debtor of charges for utility service in a timely manner before the date of the filing of the petition; or
+
+&emsp;(iii) the availability of an administrative expense priority.
+
+(4) Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, §443, July 10, 1984, 98 Stat. 373; Pub. L. 109–8, title IV, §417, Apr. 20, 2005, 119 Stat. 108.)
 
 #### Historical and Revision Notes
 
@@ -18,7 +48,15 @@ This section gives debtors protection from a cut-off of service by a utility bec
 
 #### Amendments
 
+2005—Subsec. (a). Pub. L. 109–8, §417(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+
+Subsec. (c). Pub. L. 109–8, §417(2), added subsec. (c).
+
 1984—Subsec. (a). Pub. L. 98–353 inserted “of the commencement of a case under this title or” after “basis”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

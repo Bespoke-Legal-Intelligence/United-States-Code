@@ -58,7 +58,7 @@ Annual Report.—Not later than March 15 of each year, the Secretary of Defense 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “senior procurement executive”, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).
+&emsp;(1) The term “senior procurement executive”, with respect to a military department, means the official designated as the senior procurement executive for the military department for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).<sup>1</sup>
 
 &emsp;(2) The term “simplified acquisition threshold” has the meaning given the term in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).
 
@@ -69,6 +69,10 @@ Definitions.—In this section:
 &emsp;(5) The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d)(3)(D) of the Small Business Act (15 U.S.C. 637(d)(3)(D)).
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640.)
+
+#### References in Text
+
+Section 16 of the Office of Federal Procurement Policy Act, referred to in subsec. (f)(1), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of Title 41, Public Contracts.
 
 #### Amendments
 
@@ -90,7 +94,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(b)\], Oct. 30, 2000, 114 
 
 Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, provided that: “Not later than 15 months after the date of the enactment of this Act \[Oct. 30, 2000\], the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the collection of data under such section 2225. The report shall include the Comptroller General's assessment of the extent to which the collection of data meets the requirements of that section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2330a of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

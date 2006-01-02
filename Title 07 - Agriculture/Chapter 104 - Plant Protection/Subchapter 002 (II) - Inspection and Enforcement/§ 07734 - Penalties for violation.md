@@ -14,7 +14,7 @@
 
 #### (2) Multiple violations
 
-&emsp;On the second and any subsequent conviction of a person of a violation of this chapterunder paragraph (1), the person shall be fined under title 18, imprisoned not more than 10 years, or both.
+&emsp;On the second and any subsequent conviction of a person of a violation of this chapter under paragraph (1), the person shall be fined under title 18, imprisoned not more than 10 years, or both.
 
 #### (b) Civil penalties
 

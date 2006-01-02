@@ -1,6 +1,6 @@
 ### §81. Establishment; statement of purposes
 
-Upon proclamation of the President, as herein provided, sufficient of the areas hereinafterspecified for the purposes of this subchapter shall be established and set apart as the Colonial National Historical Park for the preservation of the historical structures and remains thereon and for the benefit and enjoyment of the people.
+Upon proclamation of the President, as herein provided, sufficient of the areas hereinafter specified for the purposes of this subchapter shall be established and set apart as the Colonial National Historical Park for the preservation of the historical structures and remains thereon and for the benefit and enjoyment of the people.
 
 (July 3, 1930, ch. 837, §1, 46 Stat. 855; June 5, 1936, ch. 525, §2, 49 Stat. 1483.)
 
@@ -116,7 +116,7 @@ In general.—The Commission shall be composed of 16 members, of whom—
 
 &emsp;&emsp;&emsp;“(i) one shall be the Director of the National Park Service (or a designee); and
 
-&emsp;&emsp;&emsp;“(ii) one shall be an employee of the National Park Service having experience relevant to the commemoration, to be appointed by the Secretary; and
+&emsp;&emsp;&emsp;“(ii) one shall be an employee of the National Park Service having experience relevant to thecommemoration, to be appointed by the Secretary; and
 
 &emsp;&emsp;“(D) five members shall be individuals that have an interest in, support for, and expertise appropriate to, the commemoration, to be appointed by the Secretary.
 

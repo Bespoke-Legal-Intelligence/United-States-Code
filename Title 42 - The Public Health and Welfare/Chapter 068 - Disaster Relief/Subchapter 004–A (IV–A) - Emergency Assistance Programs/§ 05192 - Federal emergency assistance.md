@@ -26,7 +26,7 @@ In any emergency, the President may—
 
 &emsp;(6) provide assistance in accordance with section 5174 of this title; and
 
-&emsp;(7) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance.
+&emsp;(7) assist State and local governments in the distribution of medicine, food, and otherconsumable supplies, and emergency assistance.
 
 #### (b) General
 

@@ -6,5 +6,5 @@ Any school district educating Indian students who are members of recognized Indi
 
 #### Indian Educational Report; Submission to Congressional Committees; Time of Submission; Scope and Content of Report
 
-Section 203 of Pub. L. 93–638 provided for a report to be prepared and submitted not later than Oct. 1, 1975, by the Secretary of the Interior to the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives after conferring with persons competent in the field of Indian education and consulting with the Secretary of Health, Education, and Welfare. The report was to include analysis of the act of Apr. 16, 1934, and a specific program to meet the special educational needs of Indian children who attend public schools.
+Section 203 of Pub. L. 93–638 provided for a report to be prepared and submitted not later than Oct. 1, 1975,by the Secretary of the Interior to the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives after conferring with persons competent in the field of Indian education and consulting with the Secretary of Health, Education, and Welfare. The report was to include analysis of the act of Apr. 16, 1934, and a specific program to meet the special educational needs of Indian children who attend public schools.
 

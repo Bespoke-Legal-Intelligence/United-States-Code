@@ -100,7 +100,7 @@ The President shall require that each organization awarded a grant under subsect
 
 &emsp;(2) the benchmarks of success of programs funded under this section; and
 
-&emsp;(3) recommendations of how best to proceed with the programs funded under this section upon the expiration of funding under subsection (e).
+&emsp;(3) recommendations of how best to proceed with the programs funded under this sectionupon the expiration of funding under subsection (e).
 
 #### (e) Funding
 

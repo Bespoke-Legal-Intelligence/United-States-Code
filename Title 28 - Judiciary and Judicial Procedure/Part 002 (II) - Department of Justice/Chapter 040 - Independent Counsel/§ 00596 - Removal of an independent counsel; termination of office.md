@@ -24,7 +24,7 @@ Termination of Office.—
 
 Termination by action of independent counsel.—An office of independent counsel shall terminate when—
 
-&emsp;&emsp;(A) the independent counsel notifies the Attorney General that the investigation of all matters within the prosecutorial jurisdiction of such independent counsel or accepted by such independent counsel undersection 594(e), and any resulting prosecutions, have been completed or so substantially completed that it would be appropriate for the Department of Justice to complete such investigations and prosecutions; and
+&emsp;&emsp;(A) the independent counsel notifies the Attorney General that the investigation of all matters within the prosecutorial jurisdiction of such independent counsel or accepted by such independent counsel under section 594(e), and any resulting prosecutions, have been completed or so substantially completed that it would be appropriate for the Department of Justice to complete such investigations and prosecutions; and
 
 &emsp;&emsp;(B) the independent counsel files a final report in compliance with section 594(h)(1)(B).
 
@@ -42,7 +42,7 @@ Audits.—(1) On or before June 30 of each year, an independent counsel shall pr
 
 &emsp;(B) report the results to the Committee on the Judiciary, Committee on Governmental Affairs, and Committee on Appropriations of the Senate and the Committee on the Judiciary, Committee on Government Operations, and Committee on Appropriations of the House of Representatives not later than 90 days following the submission of each such statement.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §§2(a)(1), 6(d), Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 98–620, title IV, §402(29)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §§3(h), (i), 5, June 30, 1994, 108 Stat. 735, 737.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1872; amended Pub. L. 97–409, §§2(a)(1), 6(d), Jan. 3, 1983, 96 Stat. 2039, 2042; Pub. L. 98–620, title IV, §402(29)(A), Nov. 8, 1984,98 Stat. 3359; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §§3(h), (i), 5, June 30, 1994, 108 Stat. 735, 737.)
 
 #### Amendments
 

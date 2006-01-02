@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-All collection, maintenance, use, and wide dissemination of data by the Institute, includingeach office, board, committee, and center of the Institute, shall conform with the requirements of section 552a of title 5, the confidentiality standards of subsection (c) of this section, and sections 1232g and 1232h of this title.
+All collection, maintenance, use, and wide dissemination of data by the Institute, including each office, board, committee, and center of the Institute, shall conform with the requirements of section 552a of title 5, the confidentiality standards of subsection (c) of this section, and sections 1232g and 1232h of this title.
 
 #### (b) Student information
 
@@ -64,7 +64,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (6) Violations
 
-&emsp;Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses, publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2) of this section, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
+&emsp;Any person who uses any data provided by the Director, in conjunction with any other information or technique, to identify any individual student, teacher, administrator, or other individual and who knowingly discloses,publishes, or uses such data for a purpose other than a statistical purpose, or who otherwise violates subparagraph (A) or (B) of subsection (c)(2) of this section, shall be found guilty of a class E felony and imprisoned for not more than five years, or fined as specified in section 3571 of title 18, or both.
 
 #### (7) Access to reports or records
 

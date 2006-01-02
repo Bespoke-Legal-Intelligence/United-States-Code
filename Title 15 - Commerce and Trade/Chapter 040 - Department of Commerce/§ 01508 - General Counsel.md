@@ -6,7 +6,7 @@ There shall be in the Department of Commerce a General Counsel, who shall be app
 
 #### Codification
 
-Provisions of section that fixed the compensation of the General Counsel have been omitted as the position is under the Executive Schedule under section 5315 of Title 5, Government Organization and Employees.
+Provisions of section that fixed the compensation of the General Counsel have been omitted as the positionis under the Executive Schedule under section 5315 of Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 592b of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 

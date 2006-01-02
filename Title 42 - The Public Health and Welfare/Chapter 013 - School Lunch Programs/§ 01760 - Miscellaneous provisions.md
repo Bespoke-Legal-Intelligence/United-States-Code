@@ -24,7 +24,7 @@ Child.—
 
 In general.—The term “child” includes an individual, regardless of age, who—
 
-&emsp;&emsp;&emsp;(i) is determined by a State educational agency, in accordance with regulationsprescribed by the Secretary, to have one or more disabilities; and
+&emsp;&emsp;&emsp;(i) is determined by a State educational agency, in accordance with regulations prescribed by the Secretary, to have one or more disabilities; and
 
 &emsp;&emsp;&emsp;(ii) is attending any institution, as defined in section 1766(a) of this title, or any nonresidential public or nonprofit private school of high school grade or under, for the purpose of participating in a school program established for individuals with disabilities.
 
@@ -86,7 +86,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(A) the claims have been submitted to the State agencies not later than 60 days after the last day of the month for which the reimbursement is claimed; and
 
-&emsp;(B) the final program operations report for the month is submitted to the Secretary notlater than 90 days after the last day of the month.
+&emsp;(B) the final program operations report for the month is submitted to the Secretary not later than 90 days after the last day of the month.
 
 (2) The Secretary may waive the requirements of paragraph (1) at the discretion of the Secretary.
 
@@ -244,7 +244,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, asamended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Child Nutrition Act of 1966, referred to in subsecs. (g) to (i), (<i>l</i>)(1)(A), (4)(G), (m)(1), and (<i>o</i>), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
@@ -282,7 +282,7 @@ Subsec. (p). Pub. L. 108–265, §203(i)(2), struck out subsec. (p), which autho
 
 Subsec. (d)(8). Pub. L. 105–336, §107(j)(3)(A)(ii), added par. (8).
 
-Subsec. (f). Pub. L. 105–336, §104(a), substituted “breakfasts, lunches, suppers, and supplements” for “school breakfasts and lunches”, substituted “sections 1753, 1759a, 1761, and 1766” for “sections 1753 and 1759a”, and substituted “meals and supplements” for “lunches and breakfasts” in two places.
+Subsec. (f). Pub. L. 105–336, §104(a), substituted “breakfasts, lunches, suppers, and supplements” for“school breakfasts and lunches”, substituted “sections 1753, 1759a, 1761, and 1766” for “sections 1753 and 1759a”, and substituted “meals and supplements” for “lunches and breakfasts” in two places.
 
 Subsec. (g). Pub. L. 105–336, §104(b), substituted “$25,000” for “$10,000”.
 
@@ -394,7 +394,7 @@ Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by P
 
 1986—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
-Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose averageyearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
+Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose average yearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
 
 Pub. L. 99–661, §4205(a)(1), substituted “$2,000” for “$1,500”.
 

@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, the Secretary is authorized to accep
 
 #### (f) Zoning laws and ordinances; consultation and assistance with local government or intergovernmental organization in establishment; objectives; technical aid
 
-The Secretary may, on his own initiative, or at the request of any local government (or intergovernmental organization) having jurisdiction over land located within or adjacent to the park, assist and consult with the appropriate officers and employees of such local government (or intergovernmental organization) in establishing zoning laws or ordinances which will assist inachieving the purposes of this subchapter. In providing assistance pursuant to this subsection, the Secretary shall endeavor to obtain provisions in such zoning laws or ordinances which—
+The Secretary may, on his own initiative, or at the request of any local government (or intergovernmental organization) having jurisdiction over land located within or adjacent to the park, assist and consult with the appropriate officers and employees of such local government (or intergovernmental organization) in establishing zoning laws or ordinances which will assist in achieving the purposes of this subchapter. In providing assistance pursuant to this subsection, the Secretary shall endeavor to obtain provisions in such zoning laws or ordinances which—
 
 &emsp;(1) have the effect of prohibiting the commercial and industrial use (other than a use for commercial farms and orchards) of all real property adjacent to the park;
 

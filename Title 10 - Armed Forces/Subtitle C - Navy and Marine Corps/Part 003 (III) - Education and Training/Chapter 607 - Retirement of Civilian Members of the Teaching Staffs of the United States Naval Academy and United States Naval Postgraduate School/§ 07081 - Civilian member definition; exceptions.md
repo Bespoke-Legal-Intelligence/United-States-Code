@@ -1,12 +1,12 @@
 ### §7081. Civilian member: definition; exceptions
 
-(a) In this chapter, the term “civilian member” means a civilian member of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School. It includes the Academic Dean of the Postgraduate School, senior professors, professors, associate professors, assistant professors, chief instructors, assistant chief instructors, and instructors.
+(a) In this chapter, the term “civilian member” means a civilian member of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School. It includes the Provost and Academic Dean of the Postgraduate School, senior professors, professors, associate professors, assistant professors, chief instructors, assistant chief instructors, and instructors.
 
 (b) This chapter does not apply to any civilian member who was employed at the Naval Academy or the Postgraduate School on January 16, 1936, and who did not elect to participate in the benefits provided by the Act of January 16, 1936, ch. 3 (49 Stat. 1092).
 
 (c) This chapter does not apply to any person who was a civilian member after September 30, 1956.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 438; Pub. L. 85–861, §1(149), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 101–189, div. A, title XVI, §1622(e)(8), Nov. 29, 1989, 103 Stat. 1605.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 438; Pub. L. 85–861, §1(149), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 101–189, div. A, title XVI, §1622(e)(8), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 108–375, div. A, title V, §557(b)(4), Oct. 28, 2004, 118 Stat. 1916.)
 
 Historical and Revision Notes<br>1956
 
@@ -66,13 +66,15 @@ Act
 
 \[No source\].
 
-Subsection (c) is added to reflect the effect on chapter 607 of this title of the Act of July 31, 1956, ch. 804, §402(a) (70 Stat. 760) which brought the civilian faculties of the Naval Academy and Naval Postgraduate School under the Civil Service Retirement Act effective October 1, 1956, and provided that on and after that date the Act of January 16, 1936, ch. 3 (49 Stat. 1092)would no longer apply to civilians employed at those schools on or after that date.
+Subsection (c) is added to reflect the effect on chapter 607 of this title of the Act of July 31, 1956, ch. 804, §402(a) (70 Stat. 760) which brought the civilian faculties of the Naval Academy and Naval Postgraduate School under the Civil Service Retirement Act effective October 1, 1956, and provided that on and after that date the Act of January 16, 1936, ch. 3 (49 Stat. 1092) would no longer apply to civilians employed at those schools on or after that date.
 
 #### References in Text
 
 Act of January 16, 1936, ch. 3 (49 Stat. 1092), referred to in subsec. (b), was classified to sections 1073 to 1073f of former Title 34, Navy, and was repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. See section 7081 et seq. of this title.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375 substituted “Provost and Academic Dean” for “Academic Dean”.
 
 1989—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
 

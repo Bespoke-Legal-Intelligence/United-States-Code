@@ -18,7 +18,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 &emsp;&emsp;&emsp;(i) a civil penalty of not less than $500 nor more than $5,000 for each violation; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a willful failure to remit an assessment as required by anorder or regulation, an additional penalty equal to the amount of the assessment.
+&emsp;&emsp;&emsp;(ii) in the case of a willful failure to remit an assessment as required by an order or regulation, an additional penalty equal to the amount of the assessment.
 
 #### (B) Separate offenses
 
@@ -42,7 +42,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (A) In general
 
-&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-day period beginning on the date the penalty is assessed or order issued—
+&emsp;&emsp;Any person against whom a violation is found and a civil penalty is assessed or a cease and desist order is issued under subsection (c) of this section may obtain review of the penalty or order by, within the 30-dayperiod beginning on the date the penalty is assessed or order issued—
 
 &emsp;&emsp;&emsp;(i) filing a notice of appeal in the district court of the United States for the district in which the person resides or conducts business, or in the United States District Court for the District of Columbia; and
 

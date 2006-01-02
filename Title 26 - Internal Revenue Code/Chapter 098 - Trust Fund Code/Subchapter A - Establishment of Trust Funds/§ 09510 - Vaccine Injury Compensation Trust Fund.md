@@ -32,7 +32,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 &emsp;Amounts in the Vaccine Injury Compensation Trust Fund shall be available, as provided in appropriation Acts, only for—
 
-&emsp;&emsp;(A) the payment of compensation under subtitle 2 of title XXI of the Public HealthService Act (as in effect on October 18, 2000) for vaccine-related injury or death with respect to any vaccine—
+&emsp;&emsp;(A) the payment of compensation under subtitle 2 of title XXI of the Public Health Service Act (as in effect on October 18, 2000) for vaccine-related injury or death with respect to any vaccine—
 
 &emsp;&emsp;&emsp;(i) which is administered after September 30, 1988, and
 
@@ -108,7 +108,7 @@ Amendment by section 4003(d) of Pub. L. 105–277 effective as if included in th
 
 #### Effective Date of 1989 Amendment
 
-Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to fiscal years beginning after September 30, 1989.”
+Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to fiscal years beginning after September 30, 1989.”
 
 #### Effective Date of 1988 Amendment
 
@@ -117,8 +117,4 @@ Amendment by Pub. L. 100–647 effective as if included in the amendments made b
 #### Effective Date
 
 Section 9202(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1988.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 sections 300aa–15, 300aa–17.
 

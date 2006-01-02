@@ -134,7 +134,7 @@ Subsec. (a)(8). Pub. L. 93–443, §209(a)(1), redesignated par. (11) as (8) and
 
 Subsec. (a)(9). Pub. L. 93–443, §209(a)(1), redesignated par. (12) as (9) and struck out former par. (9) provision for preparation and publication of other reports.
 
-Subsec. (a)(10). Pub. L. 93–443, §209(a)(1), (b)(1), redesignated par. (13) as (10), inserted end text reading “, in accordance with the provisions of subsection (c) of this section”, and struck out former par. (10) provision for dissemination of information.
+Subsec. (a)(10). Pub. L. 93–443, §209(a)(1), (b)(1), redesignated par. (13) as (10), inserted end text reading “, in accordance with the provisions of subsection (c) of this section”, and struck out former par. (10) provision for dissemination of information.
 
 Subsec. (a)(11) to (13). Pub. L. 93–443, §209(a)(1), redesignated pars. (11) to (13) as (8) to (10), respectively.
 
@@ -142,7 +142,7 @@ Subsec. (b). Pub. L. 93–443, §§208(c)(10)(A), (B), 209(b)(2)(A), substituted
 
 Subsec. (c). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (c) and redesignated former subsec. (c) as (b).
 
-Subsec. (d). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (d) and struck out former subsec. (d) provisionsrespecting violations, the paragraphs relating to: (1) complaints, investigations, notice and hearing, Federal civil actions for injunction, restraining orders, or other appropriate orders, venue, and bond; (2) subpenas; (3) review by court of appeals and time for petition of review; (4) finality of appellate judgment and review by Supreme Court; and (5) docket advancement and priorities, provisions now covered by section 437g(a) of this title.
+Subsec. (d). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (d) and struck out former subsec. (d) provisions respecting violations, the paragraphs relating to: (1) complaints, investigations, notice and hearing, Federal civil actions for injunction, restraining orders, or other appropriate orders, venue, and bond; (2) subpenas; (3) review by court of appeals and time for petition of review; (4) finality of appellate judgment and review by Supreme Court; and (5) docket advancement and priorities, provisions now covered by section 437g(a) of this title.
 
 #### Effective Date of 2002 Amendment
 

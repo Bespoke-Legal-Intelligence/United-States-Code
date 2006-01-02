@@ -20,7 +20,7 @@ In this section:
 
 #### (1) Advisory Committee
 
-&emsp;The term “Advisory Committee” means the Biomass Research and Development Technical Advisory Committee established by section 306 of the Biomass Research and Development Act of 2000 \[7 U.S.C. 8101 note\] (Public Law 106–224).
+&emsp;The term “Advisory Committee” means the Biomass Research and Development Technical Advisory Committee established by section 8605 of this title.
 
 #### (2) Biorefinery
 
@@ -32,7 +32,7 @@ In this section:
 
 #### (3) Board
 
-&emsp;The term “Board” means the Biomass Research and Development Board established by section 305 of the Biomass Research and Development Act of 2000 \[7 U.S.C. 8101 note\] (Public Law 106–224).
+&emsp;The term “Board” means the Biomass Research and Development Board established by section 8604 of this title.
 
 #### (4) Indian tribe
 

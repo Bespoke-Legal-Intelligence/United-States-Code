@@ -6,7 +6,7 @@ No Native covered by the provisions of this chapter, and no descendant of his, m
 
 #### (b) Charging allotment against statutory grant
 
-Any allotments approved pursuant to this section during the four years following December 18, 1971, shall be charged against the two millionacre grant provided for in section 1613(h) of this title.
+Any allotments approved pursuant to this section during the four years following December 18, 1971, shall be charged against the two million acre grant provided for in section 1613(h) of this title.
 
 #### (c) Relocation of allotment
 
@@ -72,7 +72,7 @@ Any allotments approved pursuant to this section during the four years following
 
 (3)(A) On obtaining title evidence acceptable under Department of Justice title standards and acceptance of a reconveyance or relinquishment from a Native Corporation under paragraph (1), the Secretary shall issue a Native allotment certificate to the applicant for the land reconveyed or relinquished by the Native Corporation.
 
-(B) Any allotment revised under this section shall, when allotted, be made subject to any easement, trail, right-of-way, or any third-party interest (other than a fee interest) in existence on the revised allotment land on the date of revision.
+(B) Any allotment revised under this section shall, when allotted, be made subject to anyeasement, trail, right-of-way, or any third-party interest (other than a fee interest) in existence on the revised allotment land on the date of revision.
 
 #### (f) Reinstatements and reconstructions
 
@@ -134,7 +134,7 @@ Pub. L. 108–452, title III, §304, Dec. 10, 2004, 118 Stat. 3589, provided tha
 
 “(a)
 
-In General.—The Secretary \[of the Interior\] shall adjust the acreage entitlement computation records for the State \[of Alaska\] or an affected Native Corporation to account for any difference in the amount of acreage between the corrected description and the previous description in any conveyance document as a result of actions taken under section 18(d) of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\] or section 18(e) of theAlaska Native Claims Settlement Act (as added by section 303), or for other voluntary reconveyances to the United States for the purpose of facilitating land transfers in the State.
+In General.—The Secretary \[of the Interior\] shall adjust the acreage entitlement computation records for the State \[of Alaska\] or an affected Native Corporation to account for any difference in the amount of acreage between the corrected description and the previous description in any conveyance document as a result of actions taken under section 18(d) of the Alaska Native Claims Settlement Act (as added by section 301) \[43 U.S.C. 1617(d)\] or section 18(e) of the Alaska Native Claims Settlement Act (as added by section 303), or for other voluntary reconveyances to the United States for the purpose of facilitating land transfers in the State.
 
 “(b)
 

@@ -27,7 +27,3 @@
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “December 4, 1987” for “the date of the enactment of this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1406, 6335 of this title.
-

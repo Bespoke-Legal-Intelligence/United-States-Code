@@ -12,7 +12,7 @@ No State shall—
 
 &emsp;(2) impose any requirement upon a member of the Association that it pay different fees to be licensed or otherwise qualified to do business in that State, including bonding requirements, based on its residency;
 
-&emsp;(3) impose any licensing, appointment, integrity, personal or corporate qualifications,education, training, experience, residency, or continuing education requirement upon a member of the Association that is different from the criteria for membership in the Association or renewal of such membership, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer's activities because of its residence or place of operations under this section; or
+&emsp;(3) impose any licensing, appointment, integrity, personal or corporate qualifications, education, training, experience, residency, or continuing education requirement upon a member of the Association that is different from the criteria for membership in the Association or renewal of such membership, except that countersignature requirements imposed on nonresident producers shall not be deemed to have the effect of limiting or conditioning a producer's activities because of its residence or place of operations under this section; or
 
 &emsp;(4) implement the procedures of such State's system of licensing or renewing the licenses of insurance producers in a manner different from the authority of the Association under section 6755 of this title.
 

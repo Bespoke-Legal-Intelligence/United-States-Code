@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than December 31 of each fiscal year, the President shall prepare and submit to the Speaker of the House of Representatives and the President Pro Tempore of the Senate an annual report concerning the operation of the Facility for the prior fiscal year. This report shall include—
+Not later than December 31 of each fiscal year, the President shall prepare and submit to theSpeaker of the House of Representatives and the President Pro Tempore of the Senate an annual report concerning the operation of the Facility for the prior fiscal year. This report shall include—
 
 &emsp;(1) a description of the activities undertaken by the Facility during the previous fiscal year;
 
@@ -26,7 +26,7 @@ No later than December 15 of each fiscal year, each member of the Board shall be
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under this section are listed on page 20), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set outas notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under this section are listed on page 20), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 #### Delegation of Functions
 

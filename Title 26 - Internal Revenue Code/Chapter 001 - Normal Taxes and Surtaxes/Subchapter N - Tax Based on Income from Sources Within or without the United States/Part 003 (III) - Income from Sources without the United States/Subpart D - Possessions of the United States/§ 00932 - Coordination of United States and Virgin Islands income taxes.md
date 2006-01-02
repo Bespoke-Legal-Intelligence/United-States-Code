@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) such individual—
 
-&emsp;&emsp;&emsp;(i) is a citizen or resident of the United States (other than a bona fide resident of the Virgin Islands at the close of the taxable year), and
+&emsp;&emsp;&emsp;(i) is a citizen or resident of the United States (other than a bona fide resident of the Virgin Islands during the entire taxable year), and
 
 &emsp;&emsp;&emsp;(ii) has income derived from sources within the Virgin Islands, or effectively connected with the conduct of a trade or business within such possession, for the taxable year, or
 
@@ -48,7 +48,7 @@
 
 &emsp;This subsection shall apply to an individual for the taxable year if—
 
-&emsp;&emsp;(A) such individual is a bona fide resident of the Virgin Islands at the close of the taxable year, or
+&emsp;&emsp;(A) such individual is a bona fide resident of the Virgin Islands during the entire taxable year, or
 
 &emsp;&emsp;(B) such individual files a joint return for the taxable year with an individual described in subparagraph (A).
 
@@ -64,7 +64,7 @@
 
 &emsp;In the case of an individual—
 
-&emsp;&emsp;(A) who is a bona fide resident of the Virgin Islands at the close of the taxable year,
+&emsp;&emsp;(A) who is a bona fide resident of the Virgin Islands during the entire taxable year,
 
 &emsp;&emsp;(B) who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, and
 
@@ -80,7 +80,7 @@ In the case of a joint return, this section shall be applied on the basis of the
 
 In applying this section for purposes of determining income tax liability incurred to the Virgin Islands, the provisions of this section shall not be affected by the provisions of Federal law referred to in section 934(a).
 
-(Added Pub. L. 99–514, title XII, §1274(a), Oct. 22, 1986, 100 Stat. 2596; amended Pub. L. 100–647, title I, §1012(w)(1)–(3), Nov. 10, 1988, 102 Stat. 3530.)
+(Added Pub. L. 99–514, title XII, §1274(a), Oct. 22, 1986, 100 Stat. 2596; amended Pub. L. 100–647, title I, §1012(w)(1)–(3), Nov. 10, 1988, 102 Stat. 3530; Pub. L. 108–357, title VIII, §908(c)(2), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### Prior Provisions
 
@@ -88,11 +88,17 @@ A prior section 932, acts Aug. 16, 1954, ch. 736, 68A Stat. 292; Nov. 13, 1966, 
 
 #### Amendments
 
+2004—Subsecs. (a)(1)(A)(i), (c)(1)(A), (4)(A). Pub. L. 108–357 substituted “during the entire taxable year” for “at the close of the taxable year”.
+
 1988—Subsec. (c)(2). Pub. L. 100–647, §1012(w)(3), substituted “an income tax return” for “his income tax return”.
 
 Subsec. (c)(4). Pub. L. 100–647, §1012(w)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability to the United States gross income shall not include any amount included in gross income on such return.”
 
 Subsec. (e). Pub. L. 100–647, §1012(w)(1), substituted current heading for “Section not to apply to tax imposed in Virgin Islands” and amended text generally. Prior to amendment, text read as follows: “This section shall not apply for purposes of determining income tax liability incurred to the Virgin Islands.”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) ofPub. L. 108–357, set out as an Effective Date note under section 937 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -109,8 +115,4 @@ Section 1274(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 #### Authority To Impose Nondiscriminatory Local Income Taxes
 
 Section 1274(b) of Pub. L. 99–514 provided that: “Nothing in any provision of Federal law shall prevent the Virgin Islands from imposing on any person nondiscriminatory local income taxes. Any taxes so imposed shall be treated in the same manner as State and local income taxes under section 164 of the Internal Revenue Code of 1954 \[now 1986\] and shall not be treated as taxes to which section 901 of such Code applies.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 871, 934, 7654 of this title; title 42 section 411.
 

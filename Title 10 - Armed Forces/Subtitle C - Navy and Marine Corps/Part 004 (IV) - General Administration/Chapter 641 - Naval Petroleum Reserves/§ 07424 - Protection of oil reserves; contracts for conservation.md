@@ -46,7 +46,3 @@ June 4, 1920, ch. 228 (4th par., less 1st proviso, of amended 3d and 4th proviso
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7425 of this title; title 43 section 1601.
-

@@ -2,13 +2,13 @@
 
 (a) The trustee may avoid a lien that secures a claim of a kind specified in section 726(a)(4) of this title.
 
-(b) Property in which the estate has an interest and that is subject to a lien that is not avoidable under this title and that secures an allowed claim for a tax, or proceeds of such property, shall be distributed—
+(b) Property in which the estate has an interest and that is subject to a lien that is not avoidable under this title (other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate) and that secures an allowed claim for a tax, or proceeds of such property, shall be distributed—
 
 &emsp;(1) first, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is senior to such tax lien;
 
-&emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1), 507(a)(2), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
+&emsp;(2) second, to any holder of a claim of a kind specified in section 507(a)(1) (except that such expenses, other than claims for wages, salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title), 507(a)(2), 507(a)(3), 507(a)(4), 507(a)(5), 507(a)(6), or 507(a)(7) of this title, to the extent of the amount of such allowed tax claim that is secured by such tax lien;
 
-&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed tax claim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
+&emsp;(3) third, to the holder of such tax lien, to any extent that such holder's allowed taxclaim that is secured by such tax lien exceeds any amount distributed under paragraph (2) of this subsection;
 
 &emsp;(4) fourth, to any holder of an allowed claim secured by a lien on such property that is not avoidable under this title and that is junior to such tax lien;
 
@@ -20,7 +20,19 @@
 
 (d) A statutory lien the priority of which is determined in the same manner as the priority of a tax lien under section 6323 of the Internal Revenue Code of 1986 shall be treated under subsection (b) of this section the same as if such lien were a tax lien.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, §477, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §283(r), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title III, §304(h)(4), title V, §501(d)(23), Oct. 22, 1994, 108 Stat. 4134, 4146.)
+(e) Before subordinating a tax lien on real or personal property of the estate, the trustee shall—
+
+&emsp;(1) exhaust the unencumbered assets of the estate; and
+
+&emsp;(2) in a manner consistent with section 506(c), recover from property securing an allowed secured claim the reasonable, necessary costs and expenses of preserving or disposing of such property.
+
+(f) Notwithstanding the exclusion of ad valorem tax liens under this section and subject to the requirements of subsection (e), the following may be paid from property of the estate which secures a tax lien, or the proceeds of such property:
+
+&emsp;(1) Claims for wages, salaries, and commissions that are entitled to priority under section 507(a)(4).
+
+&emsp;(2) Claims for contributions to an employee benefit plan entitled to priority under section 507(a)(5).
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, §477, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §283(r), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title III, §304(h)(4), title V, §501(d)(23), Oct. 22, 1994, 108 Stat. 4134, 4146; Pub. L. 109–8, title VII, §701(a), Apr. 20, 2005, 119 Stat. 124.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +48,7 @@ Subsection (a) of section 724 permits the trustee to avoid a lien that secures a
 
 Subsection (b) governs tax liens. This provision retains the rule of present bankruptcy law (§67(C)(3) of the Bankruptcy Act \[section 107(c)(3) of former title 11\]) that a tax lien on personal property, if not avoidable by the trustee, is subordinated in payment to unsecured claims having a higher priority than unsecured tax claims. Those other claims may be satisfied from the amount that would otherwise have been applied to the tax lien, and any excess of the amount of the lien is then applied to the tax. Any personal property (or sale proceeds) remaining is to be used to satisfy claims secured by liens which are junior to the tax lien. Any proceeds remaining are next applied to pay any unpaid balance of the tax lien.
 
-Subsection (d) specifies that any statutory lien whose priority is determined in the same manner as a tax lienis to be treated as a tax lien under this section, even if the lien does not secure a claim for taxes. An example is the ERISA \[29 U.S.C. 1001 et seq.\] lien.
+Subsection (d) specifies that any statutory lien whose priority is determined in the same manner as a tax lien is to be treated as a tax lien under this section, even if the lien does not secure a claim for taxes. An example is the ERISA \[29 U.S.C. 1001 et seq.\] lien.
 
 #### house report no. 95–595
 
@@ -47,6 +59,12 @@ Subsection (b) governs tax liens. It is derived from section 67c(3) of the Bankr
 Section 6323 of the Internal Revenue Code of 1986, referred to in subsec. (d), is classified to section 6323 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–8, §701(a)(1), inserted “(other than to the extent that there is a properly perfected unavoidable tax lien arising in connection with an ad valorem tax on real or personal property of the estate)” after “under this title” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 109–8, §701(a)(2), inserted “(except that such expenses, other than claims for wages,salaries, or commissions that arise after the date of the filing of the petition, shall be limited to expenses incurred under chapter 7 of this title and shall not include expenses incurred under chapter 11 of this title)” after “section 507(a)(1)”.
+
+Subsecs. (e), (f). Pub. L. 109–8, §701(a)(3), added subsecs. (e) and (f).
 
 1994—Subsec. (b)(2). Pub. L. 103–394, §304(h)(4), substituted “507(a)(6), or 507(a)(7)” for “or 507(a)(6)”.
 
@@ -63,6 +81,10 @@ Subsec. (b)(3). Pub. L. 98–353, §477(a)(3), substituted “allowed tax claim�
 Subsec. (c). Pub. L. 98–353, §477(b), substituted “holder of a claim is entitled” for “creditor is entitled” and “holders” for “creditors” in two places.
 
 Subsec. (d). Pub. L. 98–353, §477(c), substituted “the priority of which” for “whose priority” and “the same as if such lien were a tax lien” for “the same as a tax lien”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

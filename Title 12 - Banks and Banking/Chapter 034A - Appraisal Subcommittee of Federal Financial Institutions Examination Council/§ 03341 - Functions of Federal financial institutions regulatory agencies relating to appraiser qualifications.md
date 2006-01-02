@@ -26,7 +26,11 @@ Each Federal financial institutions regulatory agency and the Resolution Trust C
 
 &emsp;Upon completing each of the studies referred to in paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.
 
-(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831.)
+(Pub. L. 101–73, title XI, §1112, Aug. 9, 1989, 103 Stat. 514; Pub. L. 102–550, title IX, §954, Oct. 28, 1992, 106 Stat. 3894; Pub. L. 104–208, div. A, title II, §2704(d)(15)(B), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 104–316, title I, §106(g), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–173, §9(g)(2), Feb. 15, 2006, 119 Stat. 3618.)
+
+#### Amendment of Subsection (c)(1)(B)
+
+<i>Pub. L. 109–173, §9(g)(2), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (c)(1)(B) of this section is amended by striking “Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “Deposit Insurance Fund”.</i>
 
 #### Amendments
 
@@ -41,6 +45,10 @@ Subsec. (c)(2). Pub. L. 104–316, §106(g)(1)(B), substituted “referred to in
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 1996 Amendment
 

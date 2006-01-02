@@ -24,7 +24,15 @@ Except as provided for in the case of removal of beer without payment of tax, th
 
 &emsp;&emsp;<b>For definition of brewer, see section 5092.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 91–673, §1(b), Jan. 12, 1971, 84 Stat. 2056.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 91–673, §1(b), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 109–59, title XI, §11125(b)(15), Aug. 10, 2005, 119 Stat. 1956.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 109–59, title XI, §11125(b)(15), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (d) of this section is amended to read as follows:</i>
+
+#### <i>(d) Brewer</i>
+
+<i>For purposes of this chapter, the term “brewer” means any person who brews beer or produces beer for sale. Such term shall not include any person who produces only beer exempt from tax under section 5053(e).</i>
 
 #### Prior Provisions
 
@@ -34,11 +42,11 @@ A prior section 5052, act Aug. 16, 1954, ch. 736, 68A Stat. 612, consisted of pr
 
 1971—Subsec. (c)(2). Pub. L. 91–673 struck out proviso that removal of beer shall not include beer returned to the brewery on the same day such beer is removed from the brewery.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
+
 #### Effective Date of 1971 Amendment
 
 Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 23 section 158.
 

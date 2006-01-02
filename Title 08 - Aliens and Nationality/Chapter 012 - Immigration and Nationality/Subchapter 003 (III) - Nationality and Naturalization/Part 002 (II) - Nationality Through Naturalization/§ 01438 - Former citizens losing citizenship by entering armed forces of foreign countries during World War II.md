@@ -18,7 +18,7 @@ Any person naturalized in accordance with the provisions of this section, or any
 
 #### (d) Span of World War II
 
-For the purposes of this section, World War II shall be deemed to have begun on September 1,1939, and to have terminated on September 2, 1945.
+For the purposes of this section, World War II shall be deemed to have begun on September 1, 1939, and to have terminated on September 2, 1945.
 
 #### (e) Inapplicability to certain persons
 

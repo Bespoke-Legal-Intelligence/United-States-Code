@@ -6,7 +6,7 @@ Notwithstanding any other provisions of this Act, the Secretary shall encourage 
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, known as the Agricultural Act of 1970. For complete classification of this Act to theCode, see Short Title of 1970 Amendment note set out under section 1281 of this title and Tables.
+This Act, referred to in text, is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, known as the Agricultural Act of 1970. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 

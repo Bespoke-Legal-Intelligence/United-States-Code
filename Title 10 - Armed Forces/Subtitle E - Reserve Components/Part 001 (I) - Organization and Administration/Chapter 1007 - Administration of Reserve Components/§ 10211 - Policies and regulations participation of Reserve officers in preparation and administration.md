@@ -8,7 +8,3 @@ Within such numbers and in such grades and assignments as the Secretary concerne
 
 Provisions similar to those in this section were contained in section 265 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 523, 641, 12011, 12012 of this title.
-

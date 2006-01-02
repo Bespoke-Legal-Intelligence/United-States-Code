@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Foundation shall pay from the interest and earnings of the Trust Fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the provisions of this chapter.
+The Foundation shall pay from the interest and earnings of the Trust Fund such sums as theBoard determines are necessary and appropriate to enable the Foundation to carry out the provisions of this chapter.
 
 #### (b) Audit by Government Accountability Office
 

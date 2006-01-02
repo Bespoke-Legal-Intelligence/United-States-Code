@@ -16,7 +16,7 @@
 
 (3) Medical officers and dental officers shall not be counted for the purposes of this subsection.
 
-(b)(1) The authorized strengths of the Naval Reserve in line officers in an active status in the grades of captain, commander, lieutenant commander, and lieutenant, and in the grades of lieutenant (junior grade) and ensign combined, are the following percentages of the total authorized number of those officers:
+(b)(1) The authorized strengths of the Navy Reserve in line officers in an active status in the grades of captain, commander, lieutenant commander, and lieutenant, and in the grades of lieutenant (junior grade) and ensign combined, are the following percentages of the total authorized number of those officers:
 
 &nbsp;
 
@@ -28,7 +28,7 @@
 | Lieutenant | 37   percent&nbsp;&nbsp; |
 | Lieutenant (junior grade) and ensign (when combined with the number authorized for flag officer grades under section 12004 of this title) | 32\.5 percent. |
 
-(2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
+(2) When the actual number of line officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increasethe number authorized by that paragraph for any lower grade or grades.
 
 (c)(1) The authorized strengths of the Marine Corps Reserve in officers in an active status in the grades of colonel, lieutenant colonel, major, and captain, and in the grades of first lieutenant and second lieutenant combined, are the following percentages of the total authorized number of those officers:
 
@@ -36,19 +36,19 @@
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Colonel | 2  percent   |
-| Lieutenant colonel | 6  percent&nbsp;&nbsp; |
-| Major | 12  percent&nbsp;&nbsp; |
-| Captain | 35  percent&nbsp;&nbsp; |
-| First lieutenant and second lieutenant (when combined with the number authorized for general officer grades under section 12004 of this title) | 32\.5 percent. |
+| Colonel | 2 percent&nbsp;&nbsp; |
+| Lieutenant colonel | 8 percent&nbsp;&nbsp; |
+| Major | 16 percent&nbsp;&nbsp; |
+| Captain | 39 percent&nbsp;&nbsp; |
+| First lieutenant and second lieutenant (when combined with the number authorized for general officer grades under section 12004 of this title) | 35 percent. |
 
 (2) When the actual number of officers in an active status in any grade is less than the number authorized by paragraph (1) for that grade, the difference may be applied to increase the number authorized by that paragraph for any lower grade or grades.
 
 (d)(1) An officer of the Army or Air Force may not be reduced in grade because of a reduction in the number of commissioned officers authorized for the officer's grade under this section.
 
-(2) An officer of the Naval Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
+(2) An officer of the Navy Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2985; amended Pub. L. 106–398, §1 \[\[div. A\], title IV, §423\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2985; amended Pub. L. 106–398, §1 \[\[div. A\], title IV, §423\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 108–375, div. A, title V, §504, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §515(b)(1)(FF), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### Prior Provisions
 
@@ -56,9 +56,11 @@ Provisions similar to those in this section were contained in sections 3219, 545
 
 #### Amendments
 
+2006—Subsec. (b)(1). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
+2004—Subsec. (c)(1). Pub. L. 108–375 amended table generally, increasing percentages of authorized number of officers in grades other than colonel.
+
 2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12006 of this title.
 

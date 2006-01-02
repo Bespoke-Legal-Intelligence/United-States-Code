@@ -4,7 +4,3 @@ In cases where assessment or collection has not been stayed by the filing of a b
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 891.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6422 of this title.
-

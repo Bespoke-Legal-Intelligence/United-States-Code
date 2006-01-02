@@ -24,7 +24,3 @@ The words “a person who has been retired or has become entitled to retired or 
 
 1972—Pub. L. 92–425 substituted “subchapter” for “chapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 sections 8311, 8316; title 26 section 122.
-

@@ -96,7 +96,7 @@ In this section:
 
 #### (c) Crediting of payments
 
-A payment received by the Secretary of Defense under the demonstration project shall be credited to the applicable Department of Defense medical appropriation (and within that appropriation). Any such payment received during a fiscal year for services provided during a prior fiscal year may be obligated by the Secretary of Defense during the fiscal year during which the payment is received.
+A payment received by the Secretary of Defense under the demonstration project shall becredited to the applicable Department of Defense medical appropriation (and within that appropriation). Any such payment received during a fiscal year for services provided during a prior fiscal year may be obligated by the Secretary of Defense during the fiscal year during which the payment is received.
 
 #### (d) Waiver of certain medicare requirements
 
@@ -150,7 +150,7 @@ Participation of medicare-eligible military retirees or dependents in the demons
 
 #### (1) Modification of TRICARE contracts
 
-&emsp;In carrying out the demonstration project, the Secretary of Defense is authorized toamend existing TRICARE contracts (including contracts with designated providers) in order to provide the medicare health care services to the medicare-eligible military retirees and dependents enrolled in the demonstration project consistent with part C of this subchapter.
+&emsp;In carrying out the demonstration project, the Secretary of Defense is authorized to amend existing TRICARE contracts (including contracts with designated providers) in order to provide the medicare health care services to the medicare-eligible military retirees and dependents enrolled in the demonstration project consistent with part C of this subchapter.
 
 #### (2) Health care benefits
 
@@ -226,7 +226,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 &emsp;&emsp;&emsp;(i) under subparagraph (A)(i) shall include payment of the amount of such increased expenditures by the Secretary of Defense from the current medical care appropriation of the Department of Defense to the trust funds; and
 
-&emsp;&emsp;&emsp;(ii) under subparagraph (A)(ii) shall include suspending or terminating the demonstration project (in whole or in part) orlowering the amount of payment under subsection (i)(1) of this section.
+&emsp;&emsp;&emsp;(ii) under subparagraph (A)(ii) shall include suspending or terminating the demonstration project (in whole or in part) or lowering the amount of payment under subsection (i)(1) of this section.
 
 #### (k) Evaluation and reports
 
@@ -298,7 +298,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### <i>“(4) Cap on amount</i>
 
-&emsp;<i>“The maximum aggregate expenditures from the trust funds under this subsection pursuant to the</i><i>agreement entered into between the administering Secretaries under subsection (b) of this section for a fiscal year (before fiscal year 2006) shall not exceed the amount agreed by the Secretaries to be the amount that would have been expended from the trust funds on beneficiaries who enroll in the program, had the program not been established, plus the following:</i>
+&emsp;<i>“The maximum aggregate expenditures from the trust funds under this subsection pursuant to the agreement entered into between the administering Secretaries under subsection (b) of this section for a fiscal year (before fiscal year 2006) shall not exceed the amount agreed by the Secretaries to be the amount that would have been expended from the trust funds on beneficiaries who enroll in the program, had the program not been established, plus the following:</i>
 
 &emsp;&emsp;<i>“(A) $35,000,000 for fiscal year 2002.</i>
 
@@ -386,7 +386,7 @@ Amendment by section 1 \[\[div. A\], title VII, §712(a)(2)\] of Pub. L. 106–3
 
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–179, provided that:
 
-“(1) Upon negotiating an agreement under the amendment made by subsection (c)(1) \[amending thissection\], the Secretary of Defense and the Secretary of Health and Human Services shall jointly transmit a notification of the proposed agreement to the Committee on Armed Services and the Committee on Finance of the Senate and the Committee on Armed Services and the Committee on Ways and Means of the House of Representatives, and shall include with the transmittal a copy of the proposed agreement and all related agreements and supporting documents.
+“(1) Upon negotiating an agreement under the amendment made by subsection (c)(1) \[amending this section\], the Secretary of Defense and the Secretary of Health and Human Services shall jointly transmit a notification of the proposed agreement to the Committee on Armed Services and the Committee on Finance of the Senate and the Committee on Armed Services and the Committee on Ways and Means of the House of Representatives, and shall include with the transmittal a copy of the proposed agreement and all related agreements and supporting documents.
 
 “(2) Such proposed agreement shall take effect, and the amendments made by subsections (c)(2), (c)(3), (d), and (e) \[amending this section\] shall take effect, on such date as is provided for in such agreement and in an Act enacted after the date of the enactment of this Act \[Oct. 30, 2000\].”
 

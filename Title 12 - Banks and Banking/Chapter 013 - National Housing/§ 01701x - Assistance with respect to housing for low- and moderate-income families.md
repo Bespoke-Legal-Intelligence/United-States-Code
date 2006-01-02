@@ -14,7 +14,7 @@
 
 (2) The Secretary (A) shall provide the services described in clause (iii) of paragraph (1) for homeowners assisted under section 235 of the National Housing Act \[12 U.S.C. 1715z\]; (B) shall, in consultation with the Secretary of Agriculture, provide such services for borrowers who are first-time homebuyers with guaranteed loans under section 502(h) of the Housing Act of 1949 \[42 U.S.C. 1472(h)\]; and (C) may provide such services for other owners of single family dwelling units insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or guaranteed or insured under chapter 37 of title 38. For purposes of this paragraph and clause (iii) of paragraph (1), the Secretary may provide the services described in such clause directly or may enter into contracts with, make grants to, and provide other types of assistance to private or public organizations with special competence and knowledge in counseling low- and moderate-income families to provide such services.
 
-(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program undersection 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
+(3) There is authorized to be appropriated for the purposes of this subsection, without fiscal year limitation, such sums as may be necessary; except that for such purposes there are authorized to be appropriated $6,025,000 for fiscal year 1993 and $6,278,050 for fiscal year 1994. Of the amounts appropriated for each of fiscal years 1993 and 1994, up to $500,000 shall be available for use for counseling and other activities in connection with the demonstration program under section 152 of the Housing and Community Development Act of 1992. Any amounts so appropriated shall remain available until expended.
 
 #### (b) Loans to nonprofit organizations or public housing agencies; purpose and terms; repayment; authorization of appropriations; deposit of appropriations in Low and Moderate Income Sponsor Fund
 
@@ -38,7 +38,7 @@
 
 #### (2) Program requirements
 
-&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and in accordance with the procedures, that the Secretary requires.
+&emsp;(A) Applications for grants under this subsection shall be submitted in the form, and inaccordance with the procedures, that the Secretary requires.
 
 &emsp;(B) The homeownership counseling organizations receiving assistance under this subsection shall use the assistance only to provide homeownership counseling to eligible homeowners.
 
@@ -94,9 +94,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) notify the homeowner or mortgage applicant of the availability of any homeownership counseling offered by the creditor (or proposed creditor);
 
-&emsp;&emsp;&emsp;&emsp;(II) if provided to an eligible mortgage applicant, state that completion of a counseling program is required for insurance pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
+&emsp;&emsp;&emsp;&emsp;(II) if provided to an eligible mortgage applicant, state that completion of a counseling program is required for insurance pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\];
 
-&emsp;&emsp;&emsp;&emsp;(III) notify the homeowner or mortgage applicant of the availability of homeownership counseling provided by nonprofit organizations approved by the Secretary and experienced in the provision of homeownership counseling, or provide the toll-free telephone number described in subparagraph (D)(i).
+&emsp;&emsp;&emsp;&emsp;(III) notify the homeowner or mortgage applicant of the availability of homeownership counseling provided by nonprofit organizations approved by the Secretary and experienced in the provision of homeownership counseling, or provide the toll-free telephone number described in subparagraph (D)(i); and
+
+&emsp;&emsp;&emsp;&emsp;(IV) notify the homeowner by a statement or notice, written in plain English by the Secretary of Housing and Urban Development, in consultation with the Secretary of Defense and the Secretary of the Treasury, explaining the mortgage and foreclosure rights of servicemembers, and the dependents of such servicemembers, under the Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.), including the toll-free military one source number to call if servicemembers, or the dependents of such servicemembers, require further assistance.
 
 #### (B) Deadline for notification
 
@@ -108,7 +110,7 @@
 
 #### (C) Notification
 
-&emsp;&emsp;Notification under subparagraph (A) shall not be required with respect to any loan for which the eligible homeowner pays the amount overdue before the expiration of the 45-day period under subparagraph (B)(ii).
+&emsp;&emsp;Notification under subparagraph (A) shall not be required with respect to any loan forwhich the eligible homeowner pays the amount overdue before the expiration of the 45-day period under subparagraph (B)(ii).
 
 #### (D) Administration and compliance
 
@@ -180,7 +182,7 @@
 
 #### (A) Mandatory participation
 
-&emsp;&emsp;Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (9)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signing of a contract to purchase the home. The counseling shall include counseling with respect to—
+&emsp;&emsp;Under the demonstration program, the Secretary shall require any eligible homebuyer who intends to purchase a home located in a counseling target area and who has applied for (as determined by the Secretary) a qualified mortgage (as such term is defined in paragraph (9)) on such home that involves a downpayment of less than 10 percent of the principal obligation of the mortgage, to receive counseling prior to signingof a contract to purchase the home. The counseling shall include counseling with respect to—
 
 &emsp;&emsp;&emsp;(i) financial management and the responsibilities involved in homeownership;
 
@@ -344,7 +346,7 @@
 
 #### (3) Encouragement
 
-&emsp;The Secretary shall encourage organizations engaged in providing homeownership and rental counseling that do not receive assistance under this section to employ individuals to provide such counseling who are certified under this subsection or meet the certification standards established under this subsection.
+&emsp;The Secretary shall encourage organizations engaged in providing homeownership and rental counseling that do not receive assistance under this section to employ individuals toprovide such counseling who are certified under this subsection or meet the certification standards established under this subsection.
 
 #### (f) Homeownership and rental counselor training and certification programs
 
@@ -388,7 +390,7 @@
 
 &emsp;There are authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 1993 and $2,084,000 for 1994.
 
-(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674.)
+(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674; Pub. L. 109–163, div. A, title VI, §688(a), Jan. 6, 2006, 119 Stat. 3336.)
 
 #### References in Text
 
@@ -400,11 +402,15 @@ Section 152 of the Housing and Community Development Act of 1992, referred to in
 
 The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42, The Public Health and Welfare, and Tables.
 
+The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+
 #### Codification
 
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2006—Subsec. (c)(5)(A)(ii)(IV). Pub. L. 109–163 added subcl. (IV).
 
 2001—Subsec. (c)(9). Pub. L. 107–73 struck out heading and text of par. (9). Text read as follows: “The provisions of this subsection shall not be effective after September 30, 2000.”
 
@@ -492,6 +498,10 @@ Subsec. (b)(1), (2). Pub. L. 93–383, §811(e), (f), inserted reference to publ
 
 Subsec. (b)(1). Pub. L. 91–609, §903(b), substituted “section 1715z of this title or any other federally assisted program” for “any federally assisted program” in first sentence.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title VI, §688(d), Jan. 6, 2006, 119 Stat. 3337, provided that: “The amendments made under subsection (a) \[amending this section\] shall take effect 150 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title V, §594(c), Oct. 21, 1998, 112 Stat. 2656, provided that: “The amendments made by this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
@@ -503,4 +513,12 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 #### Regulations
 
 Section 162(e) of Pub. L. 102–550 provided that: “The Secretary of Housing and Urban Development shall issue any regulations necessary to carry out the amendments made by subsection (d) \[amending this section\], not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\].”
+
+#### Construction of Amendments by Pub. L. 109–163
+
+Pub. L. 109–163, div. A, title VI, §688(b), Jan. 6, 2006, 119 Stat. 3337, provided that: “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] shall relieve any person of any obligation imposed by any other Federal, State, or local law.”
+
+#### Disclosure Form
+
+Pub. L. 109–163, div. A, title VI, §688(c), Jan. 6, 2006, 119 Stat. 3337, provided that: “Not later than 150 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Housing and Urban Development shall issue a final disclosure form to fulfill the requirement of subclause (IV) of section 106(c)(5)(A)(ii) of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701x(c)(5)(A)(ii)(IV)\], as added by subsection (a).”
 

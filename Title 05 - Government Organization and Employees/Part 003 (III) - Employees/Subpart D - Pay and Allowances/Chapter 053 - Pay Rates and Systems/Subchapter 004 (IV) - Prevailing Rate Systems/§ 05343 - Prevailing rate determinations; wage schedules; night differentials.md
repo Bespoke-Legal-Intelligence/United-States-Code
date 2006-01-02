@@ -102,7 +102,7 @@ Provisions similar to those comprising part of first sentence of subsec. (c) and
 
 2003—Subsec. (c)(4). Pub. L. 108–136 inserted before semicolon at end “, and for any hardship or hazard related to asbestos, such differentials shall be determined by applying occupational safety and health standards consistent with the permissible exposure limit promulgated by the Secretary of Labor under the Occupational Safety and Health Act of 1970”.
 
-2001—Subsec. (d)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows:“When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall—
+2001—Subsec. (d)(2). Pub. L. 107–107 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When the lead agency determines that there is a number of comparable positions in private industry insufficient to establish the wage schedules and rates, such agency shall—
 
 &emsp;“(A) establish the wage schedules and rates to be applicable to prevailing rate employees other than prevailing rate employees of the Department of Defense on the basis of—
 
@@ -150,25 +150,25 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
-Pub. L. 108–447, div. H, title VI, §613, Dec. 8, 2004, 118 Stat. 3275, provided that:
+Pub. L. 109–115, div. A, title VIII, §813, Nov. 30, 2005, 119 Stat. 2497, provided that:
 
-“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2005, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
+“(a) Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2006, by this or any other Act, may be used to pay any prevailing rate employee described in section 5342(a)(2)(A) of title 5, United States Code—
 
-&emsp;“(1) during the period from the date of expiration of the limitation imposed by the comparable section for previous fiscal years \[see similar provisions listed below\] until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2005, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
+&emsp;“(1) during the period from the date of expiration of the limitation imposed by the comparable section for previous fiscal years \[see similar provisions listed below\] until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2006, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
 
-&emsp;“(2) during the period consisting of the remainder of fiscal year 2005, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
+&emsp;“(2) during the period consisting of the remainder of fiscal year 2006, in an amount that exceeds, as a result of a wage survey adjustment, the rate payable under paragraph (1) by more than the sum of—
 
-&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 2005 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
+&emsp;&emsp;“(A) the percentage adjustment taking effect in fiscal year 2006 under section 5303 of title 5, United States Code, in the rates of pay under the General Schedule; and
 
-&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2005 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
+&emsp;&emsp;“(B) the difference between the overall average percentage of the locality-based comparability payments taking effect in fiscal year 2006 under section 5304 of such title (whether by adjustment or otherwise), and the overall average percentage of such payments which was effective in the previous fiscal year under such section.
 
 “(b) Notwithstanding any other provision of law, no prevailing rate employee described in subparagraph (B) or (C) of section 5342(a)(2) of title 5, United States Code, and no employee covered by section 5348 of such title, may be paid during the periods for which subsection (a) is in effect at a rate that exceeds the rates that would be payable under subsection (a) were subsection (a) applicable to such employee.
 
-“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 2004, shall be determined under regulations prescribed by the Office of Personnel Management.
+“(c) For the purposes of this section, the rates payable to an employee who is covered by this section and who is paid from a schedule not in existence on September 30, 2005, shall be determined under regulations prescribed by the Office of Personnel Management.
 
-“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 2004, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
+“(d) Notwithstanding any other provision of law, rates of premium pay for employees subject to this section may not be changed from the rates in effect on September 30, 2005, except to the extent determined by the Office of Personnel Management to be consistent with the purpose of this section.
 
-“(e) This section shall apply with respect to pay for service performed after September 30, 2004.
+“(e) This section shall apply with respect to pay for service performed after September 30, 2005.
 
 “(f) For the purpose of administering any provision of law (including any rule or regulation that provides premium pay, retirement, life insurance, or any other employee benefit) that requires any deduction or contribution, or that imposes any requirement or limitation on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.
 
@@ -177,6 +177,8 @@ Pub. L. 108–447, div. H, title VI, §613, Dec. 8, 2004, 118 Stat. 3275, provid
 “(h) The Office of Personnel Management may provide for exceptions to the limitations imposed by this section if the Office determines that such exceptions are necessary to ensure the recruitment or retention of qualified employees.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 108–447, div. H, title VI, §613, Dec. 8, 2004, 118 Stat. 3275.
 
 Pub. L. 108–199, div. F, title VI, §613, Jan. 23, 2004, 118 Stat. 352.
 
@@ -274,7 +276,7 @@ Section 704 of Pub. L. 95–454 provided that:
 
 &emsp;“(B) subchapter IV of chapter 53 and subchapter V of chapter 55 of title 5, United States Code; or
 
-&emsp;“(C) any rule, regulation, decision, or order relating to rates of pay or pay practices under subchapter IVof chapter 53 or subchapter V of chapter 55 of title 5, United States Code.”
+&emsp;“(C) any rule, regulation, decision, or order relating to rates of pay or pay practices under subchapter IV of chapter 53 or subchapter V of chapter 55 of title 5, United States Code.”
 
 #### Conversion Rules for Wage Schedule; Service for One Step Increase; Prohibition of Decrease in Basic Pay Rate; Retained Pay Continued
 
@@ -292,7 +294,7 @@ Section 9(b) of Pub. L. 92–392 provided that: “The amendments made by this A
 
 &emsp;“(2) nullify, curtail, or otherwise impair in any way the right of any party to such contract to enter into negotiations after the date of enactment of this Act \[Aug. 19, 1972\] for the renewal, extension, modification, or improvement of the provisions of such contract or for the replacement of such contract with a new contract; or
 
-&emsp;“(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\].”
+&emsp;“(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations onwhich any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\].”
 
 #### Wage Survey
 

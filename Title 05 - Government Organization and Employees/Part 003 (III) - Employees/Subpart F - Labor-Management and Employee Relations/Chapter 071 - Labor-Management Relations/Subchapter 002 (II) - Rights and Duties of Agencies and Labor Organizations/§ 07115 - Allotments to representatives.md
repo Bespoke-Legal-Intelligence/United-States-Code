@@ -12,7 +12,7 @@
 
 (2)(A) The provisions of paragraph (1) of this subsection shall not apply in the case of any appropriate unit for which there is an exclusive representative.
 
-(B) Any agreement under paragraph (1) of this subsection between a labor organization and an agency with respect to an appropriate unit shall be null and void upon the certification of an exclusive representative of the unit.
+(B) Any agreement under paragraph (1) of this subsection between a labor organization and anagency with respect to an appropriate unit shall be null and void upon the certification of an exclusive representative of the unit.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1203.)
 

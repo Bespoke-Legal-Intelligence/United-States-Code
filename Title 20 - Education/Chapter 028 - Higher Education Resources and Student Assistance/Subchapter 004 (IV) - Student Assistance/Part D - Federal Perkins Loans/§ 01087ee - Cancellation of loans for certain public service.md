@@ -2,7 +2,7 @@
 
 #### (a) Cancellation of percentage of debt based on years of qualifying service
 
-(1) The percent specified in paragraph (3) of this subsection of the total amount of any loan made after June 30, 1972, from a student loan fund assisted under this part shall be canceled for each complete year of service after such date by the borrower under circumstances described in paragraph (2).
+(1) The percent specified in paragraph (3) of this subsection of the total amount of any loan made after June 30, 1972, from a student loan fund assisted under this part shall be canceledfor each complete year of service after such date by the borrower under circumstances described in paragraph (2).
 
 (2) Loans shall be canceled under paragraph (1) for service—
 
@@ -50,13 +50,13 @@
 
 #### (b) Reimbursement for cancellation
 
-The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh ofthis title. None of the funds appropriated pursuant to section 1087aa(b) of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
+The Secretary shall pay to each institution for each fiscal year an amount equal to the aggregate of the amounts of loans from its student loan fund which are canceled pursuant to this section for such year, minus an amount equal to the aggregate of the amounts of any such loans so canceled which were made from Federal capital contributions to its student loan fund provided by the Secretary under section 1087hh of this title. None of the funds appropriated pursuant to section 1087aa(b) of this title shall be available for payments pursuant to this subsection. To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.
 
 #### (c) Special rules
 
 #### (1) List
 
-&emsp;If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+&emsp;If the list of schools in which a teacher may perform service pursuant to subsection\(a)(2)(A) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (2) Continuing eligibility
 
@@ -130,7 +130,7 @@ Subsec. (c). Pub. L. 102–325, §465(c), added subsec. (c).
 
 1990—Subsec. (a)(2). Pub. L. 101–476, §901(e), substituted “children with disabilities” for “handicapped children” in two places.
 
-Subsec. (a)(2)(F). Pub. L. 101–647, §2101(a), which directed amendment of subsec. (a)(2) by adding at the end a new subpar. (F), was executed by adding subpar. (F) after subpar. (E) and before last sentence to reflect the probable intent of Congress.
+Subsec. (a)(2)(F). Pub. L. 101–647, §2101(a), which directed amendment of subsec. (a)(2) by adding at the enda new subpar. (F), was executed by adding subpar. (F) after subpar. (E) and before last sentence to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of subsec. (a)(3)(i) by substituting “(A), (C), or (F)” for “(A) or (C)”, was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
 

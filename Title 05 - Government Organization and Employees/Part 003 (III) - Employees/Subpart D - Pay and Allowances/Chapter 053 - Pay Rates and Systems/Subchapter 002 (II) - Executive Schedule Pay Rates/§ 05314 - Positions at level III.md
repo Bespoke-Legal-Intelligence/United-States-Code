@@ -50,6 +50,12 @@ Level III of the Executive Schedule applies to the following positions, for whic
 
 &emsp;Under Secretary of Defense for Intelligence.
 
+&emsp;Under Secretary of the Air Force.
+
+&emsp;Under Secretary of the Army.
+
+&emsp;Under Secretary of the Navy.
+
 &emsp;Deputy Administrator of the National Aeronautics and Space Administration.
 
 &emsp;Deputy Directors of Central Intelligence (2).
@@ -96,7 +102,7 @@ Level III of the Executive Schedule applies to the following positions, for whic
 
 &emsp;Chairman, Consumer Product Safety Commission.
 
-&emsp;Under Secretaries of Energy (2).
+&emsp;Under Secretaries of Energy (3).
 
 &emsp;Chairman, Commodity Futures Trading Commission.
 
@@ -196,7 +202,7 @@ Level III of the Executive Schedule applies to the following positions, for whic
 
 &emsp;Administrator, Pipeline and Hazardous Materials Safety Administration.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(3), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(14), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(a), Dec. 16, 1967, 81 Stat. 638; Pub. L. 90–351, title I, §505, June 19, 1968, 82 Stat. 205, as amended by Pub. L. 91–644, title I, §7(1), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 90–407, §15(a)(2), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, §1(26), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–175, pt. V, §503(1), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, §6(c)(13), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–596, §12(c)(1), Dec. 29, 1970, 84 Stat. 1604; Pub. L. 91–644, title I, §§7(1), 8(a), Jan. 2, 1971, 84 Stat. 1887, 1888; Pub. L. 92–181, title V, §5.41(a), formerly §5.27(a), Dec. 10, 1971, 85 Stat. 625, as renumbered Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–226, pt. IV, §403, Feb. 7, 1972, 86 Stat. 34; Pub. L. 92–261, §9(a), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(b), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(2), July 13, 1972, 86 Stat. 490; Pub. L. 92–573, §4(h)(1), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–438, title III, §310(2), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–463, title I, §102(a), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, §§141(b)(3)(B), 172(c)(1), Jan. 3, 1975, 88 Stat. 1999, 2010; Pub. L. 94–82, title II, §202(b)(3), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, §2(c)(1), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, §2(17), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, §209(a), as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–461, §4(a), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–561, §1(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(e), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–139, §3, Oct. 19, 1977, 91 Stat. 1171; Pub. L. 95–140, §3(d)(2), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–164, title III, §302(c)(1), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 95–426, title I, §114(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–454, title II, §§201(b)(2), 202(c)(1), Oct. 13, 1978, 92 Stat. 1121, 1131; Pub. L. 95–501, title V, §501(b), Oct. 21, 1978, 92 Stat. 1691; Pub. L. 95–630, title V, §502(d), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–53, title IV, §412(a), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(d), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 90–351, title I, §808, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–355, §3(b), Sept. 24, 1980, 94 Stat. 1173; Pub. L. 97–31, §12(1)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–63, §4(a)(4), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 97–195, §1(b)(1), June 16, 1982, 96 Stat. 115; Pub. L. 97–377, title I, §123, Dec. 21, 1982, 96 Stat. 1913; Pub. L. 97–449, §3(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 97–456, §3(d)(1), (6), Jan. 12, 1983, 96 Stat. 2505, 2506; Pub. L. 98–80, §2(b)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–164, title I, §125(b)(1), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–216, §3(a)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–443, §9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II,§609J(a), Oct. 12, 1984, 98 Stat. 2102; Pub. L. 98–497, title I, §107(h), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 99–64, title I, §116(b), July 12, 1985, 99 Stat. 153; Pub. L. 99–93, title I, §116(b), title VII, §704(a)(1), Aug. 16, 1985, 99 Stat. 412, 445; Pub. L. 99–335, title II, §203, June 6, 1986, 100 Stat. 591; Pub. L. 99–348, title V, §501(d)(2), July 1, 1986, 100 Stat. 708; Pub. L. 99–500, §101(c) \[title X, §§902(b), 903(b)(2)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §§902(b), 903(b)(2)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, §2(a)(3), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(1), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, §§902(b), 903(b)(2)(A), Nov. 14, 1986, 100 Stat. 3911, 3912, as renumbered Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–418, title II, §2204(d)(1), Aug. 23, 1988, 102 Stat. 1331; Pub. L. 100–456, div. A, title XIV, §1441(b), Sept. 29, 1988, 102 Stat. 2084; Pub. L. 100–519, title II, §201(d)(4), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 100–527, §13(e), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, §8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–679, §11(c), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §§1003(a)(4)(B), 1007(c)(3), Nov. 18, 1988, 102 Stat. 4182, 4188; Pub. L. 101–73, title VII, §742(a)(1), Aug. 9, 1989, 103 Stat. 436; Pub. L. 101–328, §3(b), July 8, 1990, 104 Stat. 308; Pub. L. 101–509, title V, §529 \[title I, §112(d)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–576, title II, §207(b), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–103, title II, §202, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–233, title III, §315(c), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–240, title III, §3004(d)(1), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–378, §2(28), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 102–405, title III, §302(d), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–508, title IV, §401(c), Oct. 24, 1992, 106 Stat. 3310; Pub. L. 102–549, title II, §202(d), Oct. 28, 1992, 106 Stat. 3658; Pub. L. 102–552, title II, §201(b)(1), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–160, div. A, title IX, §§901(b), 903(b), 904(e)(2), Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–204, §5(b)(1), Dec. 17, 1993, 107 Stat. 2382; Pub. L. 103–211, title II, §2003(b), Feb. 12, 1994, 108 Stat. 24; Pub. L. 103–236, title I, §162(d)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–337, div. A, title IX, §903(c), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 103–354, title II, §§225(e)(2), 231(f)(2), 241(e), 245(e), 251(e), 261(c), 285(e), Oct. 13, 1994, 108 Stat. 3214, 3219, 3222, 3223, 3226, 3227, as amended Pub. L. 105–277, div. A, §101(a) \[title X, §1001(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–41; Pub. L. 104–88, title III, §301(a), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–105, title II, §219(b)(1), Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VII, §794(b), Apr. 4, 1996, 110 Stat. 1155; Pub. L. 104–293, title VIII, §812(a), Oct. 11, 1996, 110 Stat. 3482; Pub. L. 105–277, div. C, title VII, §713(a)(3), div. G, subdiv. A, title XII, §1224(2), subdiv. B, title XXIII, §2305(a)(2), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–825; Pub. L. 105–304, title IV, §401(a)(3), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 105–368, title IV, §403(b)(1), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–65, div. A, title IX, §911(b)(2), div. C, title XXXII, §3293(a), Oct. 5, 1999, 113 Stat. 718, 969; Pub. L. 106–113, div. B, §§1000(a)(5) \[title II, §238(a)(2)\], 1000(a)(9) \[title IV, §4720(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, 1501A–581; Pub. L. 106–159, title I, §101(d)(1), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 106–476, title II, §2002, Nov. 9, 2000, 114 Stat. 2175; Pub. L. 106–569, title X, §1002(a)(3), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–110, title X, §1071(a), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–296, title IV, §411(b)(2), title XVII, §1702(a)(3), Nov. 25, 2002, 116 Stat. 2179, 2313; Pub. L. 107–314, div. A, title IX, §901(c), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 108–173, title IX, §900(d)(1), Dec. 8, 2003, 117 Stat. 2370; Pub. L. 108–411, title III, §302(b), Oct. 30, 2004, 118 Stat. 2319; Pub. L. 108–426, §§2(d), 4(f), Nov. 30, 2004, 118 Stat. 2424, 2426; Pub. L. 108–447, div. C, title VI, §603(c)(1), Dec. 8, 2004, 118 Stat. 2967.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(3), (e), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(14), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–206, title II, §215(a), Dec. 16, 1967, 81Stat. 638; Pub. L. 90–351, title I, §505, June 19, 1968, 82 Stat. 205, as amended by Pub. L. 91–644, title I, §7(1), Jan. 2, 1971, 84 Stat. 1887; Pub. L. 90–407, §15(a)(2), July 18, 1968, 82 Stat. 367; Pub. L. 90–623, §1(26), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–175, pt. V, §503(1), Dec. 30, 1969, 83 Stat. 826; Pub. L. 91–375, §6(c)(13), Aug. 12, 1970, 84 Stat. 776; Pub. L. 91–596, §12(c)(1), Dec. 29, 1970, 84 Stat. 1604; Pub. L. 91–644, title I, §§7(1), 8(a), Jan. 2, 1971, 84 Stat. 1887, 1888; Pub. L. 92–181, title V, §5.41(a), formerly §5.27(a), Dec. 10, 1971, 85 Stat. 625, as renumbered Pub. L. 99–205, title II, §205(a)(2), Dec. 23, 1985, 99 Stat. 1703; Pub. L. 92–226, pt. IV, §403, Feb. 7, 1972, 86 Stat. 34; Pub. L. 92–261, §9(a), Mar. 24, 1972, 86 Stat. 110; Pub. L. 92–302, §2(b), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(2), July 13, 1972, 86 Stat. 490; Pub. L. 92–573, §4(h)(1), Oct. 27, 1972, 86 Stat. 1211; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 93–438, title III, §310(2), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–463, title I, §102(a), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 93–618, title I, §§141(b)(3)(B), 172(c)(1), Jan. 3, 1975, 88 Stat. 1999, 2010; Pub. L. 94–82, title II, §202(b)(3), Aug. 9, 1975, 89 Stat. 420; Pub. L. 94–123, §2(c)(1), Oct. 22, 1975, 89 Stat. 670; Pub. L. 94–183, §2(17), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 92–255, title II, §209(a), as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 243; Pub. L. 94–461, §4(a), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 94–561, §1(b), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(e), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–139, §3, Oct. 19, 1977, 91 Stat. 1171; Pub. L. 95–140, §3(d)(2), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–164, title III, §302(c)(1), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 95–426, title I, §114(b)(1), Oct. 7, 1978, 92 Stat. 969; Pub. L. 95–454, title II, §§201(b)(2), 202(c)(1), Oct. 13, 1978, 92 Stat. 1121, 1131; Pub. L. 95–501, title V, §501(b), Oct. 21, 1978, 92 Stat. 1691; Pub. L. 95–630, title V, §502(d), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–53, title IV, §412(a), Aug. 14, 1979, 93 Stat. 377; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(d), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 90–351, title I, §808, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204; Pub. L. 96–355, §3(b), Sept. 24, 1980, 94 Stat. 1173; Pub. L. 97–31, §12(1)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–63, §4(a)(4), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 97–195, §1(b)(1), June 16, 1982, 96 Stat. 115; Pub. L. 97–377, title I, §123, Dec. 21, 1982, 96 Stat. 1913; Pub. L. 97–449, §3(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 97–456, §3(d)(1), (6), Jan. 12, 1983, 96 Stat. 2505, 2506; Pub. L. 98–80, §2(b)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–164, title I, §125(b)(1), Nov. 22, 1983, 97 Stat. 1026; Pub. L. 98–216, §3(a)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–443, §9(e), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 98–473, title II, §609J(a), Oct. 12, 1984, 98 Stat. 2102; Pub. L. 98–497, title I, §107(h), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 99–64, title I, §116(b), July 12, 1985, 99 Stat. 153; Pub. L. 99–93, title I, §116(b), title VII, §704(a)(1), Aug. 16, 1985, 99 Stat. 412, 445; Pub. L. 99–335, title II, §203, June 6, 1986, 100 Stat. 591; Pub. L. 99–348, title V, §501(d)(2), July 1, 1986, 100 Stat. 708; Pub. L. 99–500, §101(c) \[title X, §§902(b), 903(b)(2)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §§902(b), 903(b)(2)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–619, §2(a)(3), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 99–659, title IV, §407(e)(1), Nov. 14, 1986, 100 Stat. 3740; Pub. L. 99–661, div. A, title IX, formerly title IV, §§902(b), 903(b)(2)(A), Nov. 14, 1986, 100 Stat. 3911, 3912, as renumbered Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–418, title II, §2204(d)(1), Aug. 23, 1988, 102 Stat. 1331; Pub. L. 100–456, div. A, title XIV, §1441(b), Sept. 29, 1988, 102 Stat. 2084; Pub. L. 100–519, title II, §201(d)(4), Oct. 24, 1988, 102 Stat. 2594; Pub. L. 100–527, §13(e), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–598, §8, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 100–679, §11(c), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §§1003(a)(4)(B), 1007(c)(3), Nov. 18, 1988, 102 Stat. 4182, 4188; Pub. L. 101–73, title VII, §742(a)(1), Aug. 9, 1989, 103 Stat. 436; Pub. L. 101–328, §3(b), July 8, 1990, 104 Stat. 308; Pub. L. 101–509, title V, §529 \[title I, §112(d)\], Nov. 5, 1990, 104 Stat. 1427, 1455; Pub. L. 101–576, title II, §207(b), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–103, title II, §202, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–233, title III, §315(c), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–240, title III, §3004(d)(1), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 102–378, §2(28), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 102–405, title III, §302(d), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–508, title IV, §401(c), Oct. 24, 1992, 106 Stat. 3310; Pub. L. 102–549, title II, §202(d), Oct. 28, 1992, 106 Stat. 3658; Pub. L. 102–552, title II, §201(b)(1), Oct. 28, 1992, 106 Stat. 4105; Pub. L. 103–160, div. A, title IX, §§901(b), 903(b), 904(e)(2), Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–204, §5(b)(1), Dec. 17, 1993, 107 Stat. 2382; Pub. L. 103–211, title II, §2003(b), Feb. 12, 1994, 108 Stat. 24; Pub. L. 103–236, title I, §162(d)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–337, div. A, title IX, §903(c), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 103–354, title II, §§225(e)(2), 231(f)(2), 241(e), 245(e), 251(e), 261(c), 285(e), Oct. 13, 1994, 108 Stat. 3214, 3219, 3222, 3223, 3226, 3227, as amended Pub. L. 105–277, div. A, §101(a) \[title X, §1001(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–41; Pub. L. 104–88, title III, §301(a), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–105, title II, §219(b)(1), Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VII, §794(b), Apr. 4, 1996, 110 Stat. 1155; Pub. L. 104–293, title VIII, §812(a), Oct. 11, 1996, 110 Stat. 3482; Pub. L. 105–277, div. C, title VII, §713(a)(3), div. G, subdiv. A, title XII, §1224(2), subdiv. B, title XXIII, §2305(a)(2), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–825; Pub. L. 105–304, title IV, §401(a)(3), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 105–368, title IV, §403(b)(1), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–65, div. A, title IX, §911(b)(2), div. C, title XXXII, §3293(a), Oct. 5, 1999, 113 Stat. 718, 969; Pub. L. 106–113, div. B, §§1000(a)(5) \[title II, §238(a)(2)\], 1000(a)(9) \[title IV, §4720(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, 1501A–581; Pub. L. 106–159, title I, §101(d)(1), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 106–476, title II, §2002, Nov. 9, 2000, 114 Stat. 2175; Pub. L. 106–569, title X, §1002(a)(3), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–110, title X, §1071(a), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 107–296, title IV, §411(b)(2), title XVII, §1702(a)(3), Nov. 25, 2002, 116 Stat. 2179, 2313; Pub. L. 107–314, div. A, title IX, §901(c), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 108–173, title IX, §900(d)(1), Dec. 8, 2003, 117 Stat. 2370; Pub. L. 108–411, title III, §302(b), Oct. 30, 2004, 118 Stat. 2319; Pub. L. 108–426, §§2(d), 4(f), Nov. 30, 2004, 118 Stat. 2424, 2426; Pub. L. 108–447, div. C, title VI, §603(c)(1), Dec. 8, 2004, 118 Stat. 2967; Pub. L. 109–58, title X, §1006(c)(2), Aug. 8, 2005, 119 Stat. 932; Pub. L. 109–163, div. A, title IX, §901(a), Jan. 6, 2006, 119 Stat. 3397.)
 
 Historical and Revision Notes<br>1966
 
@@ -272,6 +278,10 @@ Paragraph designation for the position added by Pub. L. 96–88 has been omitted
 
 #### Amendments
 
+2006—Pub. L. 109–163, which directed insertion of items relating to Under Secretary of the Air Force, Under Secretary of the Army, and Under Secretary of the Navy after “Under Secretary of Defense for Intelligence”, was executed by inserting such items after “Under Secretary of Defense for Intelligence.”, to reflect the probable intent of Congress.
+
+2005—Pub. L. 109–58 substituted “Under Secretaries of Energy (3)” for “Under Secretaries of Energy (2)”.
+
 2004—Pub. L. 108–447 struck out item relating to Chairman, Board of Directors of the Tennessee Valley Authority.
 
 Pub. L. 108–426, §4(f), substituted “Administrator, Research and Innovative Technology Administration” for “Administrator, Research and Special Programs Administration”.
@@ -324,7 +334,7 @@ Pub. L. 104–105 struck out item relating to Chairperson, Board of Directors of
 
 1995—Pub. L. 104–88 substituted “Chairman, Surface Transportation Board” for “Chairman, Interstate Commerce Commission”.
 
-1994—Pub. L. 103–354, §285(e), as added by Pub. L. 105–277, §101(a) \[title X, §1001(3)\], inserted item relating to the Under Secretary of Agriculture for Marketing and Regulatory Programs.
+1994—Pub. L. 103–354, §285(e), as added by Pub. L. 105–277, §101(a) \[title X, §1001(3)\], inserted item relatingto the Under Secretary of Agriculture for Marketing and Regulatory Programs.
 
 Pub. L. 103–354 substituted “Under Secretary of Agriculture for Farm and Foreign Agricultural Services” for “Under Secretary of Agriculture for International Affairs and Commodity Programs”, inserted items relating to Under Secretaries of Agriculture for Food, Nutrition, and Consumer Services; for Natural Resources and Environment; for Research, Education, and Economics; and for Food Safety, and substituted “Under Secretary of Agriculture for Rural Economic and Community Development” for “Under Secretary of Agriculture for Small Community and Rural Development”.
 
@@ -524,11 +534,11 @@ Par. (53). Pub. L. 90–623 added par. (53) relating to Urban Mass Transportatio
 
 #### Change of Name
 
-“Export-Import Bank of Washington”, referred to in text, was changed to “Export-Import Bank of the United States” in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, as provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
+“Export-Import Bank of Washington”, referred to in text, was changed to “Export-Import Bank of the United States” in the Export-Import Bank Act of 1945,section 635 et seq. of Title 12, Banks and Banking, as provided for in section 1(a) of Pub. L. 90–267, Mar. 13, 1968, 82 Stat. 47.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out as an Appointments; Effective Date; Transition note under section 831a of Title 16, Conservation.
+Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out as an Appointments; Effective Date; Transition note under section 831a of Title 16, Conservation.
 
 #### Effective Date of 2003 Amendment
 
@@ -564,7 +574,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier,see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1992 Amendments
 
@@ -606,7 +616,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 Amendment by section 609J of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA of Pub. L. 98–473, set out as an Effective Date note under section 3711 of Title 42, The Public Health and Welfare.
 
-Section 9(v) of Pub. L. 98–443 provided that: “The amendments made by this section \[amending sections 5314 and 5315 of this title, sections 1622 and 2145 of Title 7, Agriculture, sections 4746 and 9746 of Title 10, Armed Forces, sections 18, 21, 1607, 1681s, 1691c, and 1692<i>l</i> of Title 15, Commerce and Trade, section 18b of Title 16, Conservation, sections 47 and 7701 of Title 26, Internal Revenue Code, section 3726 of Title 31, Money and Finance, sections 3401, 5005, 5401, and 5402 of Title 39, Postal Service, section 3502 of Title 44, Public Printing and Documents, and sections 1159a, 1159b, 1301, 1305, 1377, 1382, 1388, 1389, and 1537 of former Title 49, Transportation\] shall take effect on January 1, 1985.”
+Section 9(v) of Pub. L. 98–443 provided that: “The amendments made by this section \[amending sections 5314 and 5315 of this title, sections 1622 and 2145 of Title 7, Agriculture, sections 4746 and 9746 of Title 10, Armed Forces, sections 18, 21, 1607, 1681s, 1691c, and 1692<i>l</i> of Title 15, Commerce and Trade, section 18b of Title 16, Conservation, sections 47 and 7701 of Title 26, Internal Revenue Code, section 3726 of Title 31, Money and Finance, sections 3401, 5005, 5401, and 5402 of Title 39,Postal Service, section 3502 of Title 44, Public Printing and Documents, and sections 1159a, 1159b, 1301, 1305, 1377, 1382, 1388, 1389, and 1537 of former Title 49, Transportation\] shall take effect on January 1, 1985.”
 
 #### Effective Date of 1981 Amendment
 
@@ -676,82 +686,6 @@ Amendment by Pub. L. 89–670 effective Apr. 1, 1967 as prescribed by President 
 
 Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to this title.
 
-#### Salary Increases
-
-2005—Salaries of positions at level III increased to $149,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2005, as provided by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title.
-
-2004—Salaries of positions at level III increased to $145,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891.
-
-Salaries of positions at level III increased to $144,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
-
-2003—Salaries of positions at level III increased to $142,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2003, as provided by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133.
-
-2002—Salaries of positions at level III increased to $138,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2002, as provided by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
-
-2001—Salaries of positions at level III increased to $133,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057.
-
-2000—Salaries of positions at level III increased to $130,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237.
-
-1999—Salaries of positions at level III continued at $125,900 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151.
-
-1998—Salaries of positions at level III increased to $125,900 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521.
-
-1997—Salaries of positions at level III continued at $123,100 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987.
-
-1996—Salaries of positions at level III continued at $123,100 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
-
-1995—Salaries of positions at level III continued at $123,100 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
-
-1993—Salaries of positions at level III increased to $123,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
-
-1992—Salaries of positions at level III increased to $119,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
-
-1991—Salaries of positions at level III increased to $115,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
-
-1990—Salaries of positions at level III increased to $85,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1990, and increased to $89,000 per annum, effective on the first day of the first pay period beginning on or after Jan. 31, 1990, as provided by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
-
-1989—Salaries of positions at level III continued at $82,500 per annum, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
-
-1988—Salaries of positions at level III continued at $82,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
-
-1987—Salaries of positions at level III increased to $82,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
-Salaries of positions at level III increased to $75,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1987, as provided by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
-
-1985—Salaries of positions at level III increased to $73,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
-
-1984—Salaries of positions at level III increased to $71,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
-
-1982—Salaries of positions at level III increased to $70,500 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $59,500.00.
-
-Maximum rate payable after Dec. 17, 1982, increased from $59,500.00 to $68,400.00, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of this title.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V ofthe Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
-
-1981—Salaries of positions at level III increased to $67,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $55,387.50.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of this title.
-
-1980—Salaries of positions at level III increased to $64,700 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $55,387.50.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by an Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
-
-1979—Salaries of positions at level III increased to $59,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $55,387.50.
-
-Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
-
-1978—Salaries of positions at level III increased to $55,400 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $52,500.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
-
-1977—Salaries of positions at level III increased to $52,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
-1976—Salaries of positions at level III increased to $44,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889, set out as a note under section 5332 of this title. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $42,000.
-
-1975—Salaries of positions at level III increased to $42,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
-
-1969—Salaries of positions at level III increased from $29,500 to $40,000 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
 #### Pay Increase; Effective Date
 
 Persons occupying a position under the Executive Schedule on May 18, 1972, and later appointed to a position created or authorized by Pub. L. 92–302, not eligible to an increase in basic pay until Jan. 21, 1973, see section 3(c) of Pub. L. 92–302, May 18, 1972, 86 Stat. 149.
@@ -763,6 +697,14 @@ Director of Federal Bureau of Investigation, Department of Justice to receive co
 Position of Director of Federal Bureau of Investigation, referred to in text, placed temporarily in level II during incumbency of incumbent on Aug. 14, 1964, by Pub. L. 88–426, Aug. 14, 1964, §303(b)(15), 78 Stat. 416.
 
 Section 1101(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (Pub. L. 90–351, June 19, 1968, 82 Stat. 236), which is set out as a note under section 532 of Title 28, Judiciary and Judicial Procedure, provided in part that when present incumbent of position of Director leaves office, his successors will be paid at rate prescribed for level II.
+
+#### Salary Increases
+
+For adjustment of salaries under this section, see the executive order detailing the adjustment of certainrates of pay set out as a note under section 5332 of this title.
+
+For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of Title 2, The Congress.
+
+For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

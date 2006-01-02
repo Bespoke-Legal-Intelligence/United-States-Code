@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a) of this section, an insured State bank may not engage in insurance underwriting except to the extent that activity is permissible for national banks.
+&emsp;Notwithstanding subsection (a) of this section, an insured State bank may not engage ininsurance underwriting except to the extent that activity is permissible for national banks.
 
 #### (2) Exception for certain federally reinsured crop insurance
 
@@ -196,7 +196,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investment permitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
+&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investmentpermitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
 
 #### (B) Reasonable standard
 
@@ -236,7 +236,17 @@ This section shall not be construed as limiting the authority of any appropriate
 
 &emsp;The terms “host State”, “home State”, and “out-of-State bank” have the same meanings as in section 1831u(f) <sup>1</sup> of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238.)
+(Sept. 21, 1950, ch. 967, §2\[24\], as added Pub. L. 102–242, title III, §303(a), Dec. 19, 1991, 105 Stat. 2349; amended Pub. L. 102–550, title XVI, §1605(a)(8), Oct. 28, 1992, 106 Stat. 4086; Pub. L. 103–328, title I, §102(b)(3)(B), Sept. 29, 1994, 108 Stat. 2351; Pub. L. 104–208, div. A, title II, §§2217, 2704(d)(14)(W), Sept. 30, 1996, 110 Stat. 3009–414, 3009–494; Pub. L. 105–24, §2(a), July 3, 1997, 111 Stat. 238; Pub. L. 109–173, §8(a)(31), Feb. 15, 2006, 119 Stat. 3615.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §8(a)(31), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsections (a)(1) and (d)(1)(A), by striking “appropriate deposit insurance fund” each place that term appears and inserting “Deposit Insurance Fund”;</i>
+
+<i>(2) in subsection (e)(2)(A), by striking “risk to” and all that follows through the period and inserting “risk to the Deposit Insurance Fund.”; and</i>
+
+<i>(3) in subsections (e)(2)(B)(ii) and (f)(6)(B), by striking “the insurance fund of which such bank is a member” each place that term appears and inserting “the Deposit Insurance Fund”.</i>
 
 #### References in Text
 
@@ -254,7 +264,7 @@ Another prior section 1831a, act Sept. 21, 1950, ch. 967, §2\[24\], as added Oc
 
 #### Amendments
 
-1997—Subsec. (j). Pub. L. 105–24 amended subsec. (j) generally, substituting pars. (1) to (4) for former pars. (1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
+1997—Subsec. (j). Pub. L. 105–24 amended subsec. (j) generally, substituting pars. (1) to (4) for former pars.\(1) to (3) relating to general provisions, activities of branches, and definitions, respectively.
 
 1996—Subsec. (a). Pub. L. 104–208, §2217(1), substituted “Permissible activities” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
 
@@ -267,6 +277,10 @@ Subsec. (d)(3). Pub. L. 104–208, §2217(2), added par. (3).
 1994—Subsec. (j). Pub. L. 103–328 added subsec. (j).
 
 1992—Subsec. (e)(1)(B). Pub. L. 102–550 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “meets the consumer disclosure requirements under section 1828(k) of this title with respect to such insurance.”
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1996 Amendment
 

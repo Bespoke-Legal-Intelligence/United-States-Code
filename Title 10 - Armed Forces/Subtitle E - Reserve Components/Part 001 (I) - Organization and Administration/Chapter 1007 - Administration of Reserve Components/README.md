@@ -7,7 +7,7 @@
 | [10203\.](%C2%A7%2010203%20-%20Reserve%20affairs%20designation%20of%20general%20or%20flag%20officer%20of%20each%20armed%20force.md) | Reserve affairs: designation of general or flag officer of each armed force. |
 | [10204\.](%C2%A7%2010204%20-%20Personnel%20records.md) | Personnel records. |
 | [10205\.](%C2%A7%2010205%20-%20Members%20of%20Ready%20Reserve%20requirement%20of%20notification%20of%20change%20of%20status.md) | Members of Ready Reserve: requirement of notification of change of status. |
-| [10206\.](%C2%A7%2010206%20-%20Members%20periodic%20physical%20examinations.md) | Members: periodic physical examinations. |
+| [10206\.](%C2%A7%2010206%20-%20Members%20physical%20examinations.md) | Members: physical examinations. |
 | [10207\.](%C2%A7%2010207%20-%20Mobilization%20forces%20maintenance.md) | Mobilization forces: maintenance. |
 | [10208\.](%C2%A7%2010208%20-%20Annual%20mobilization%20exercise.md) | Annual mobilization exercise. |
 | [10209\.](%C2%A7%2010209%20-%20Regular%20and%20reserve%20components%20discrimination%20prohibited.md) | Regular and reserve components: discrimination prohibited. |
@@ -25,15 +25,13 @@
 
 #### Amendments
 
+2006—Pub. L. 109–163, div. A, title VII, §732(c), Jan. 6, 2006, 119 Stat. 3352, struck out “periodic” before “physical” in item 10206.
+
 1999—Pub. L. 106–65, div. A, title V, §§522(a)(2), 523(b), Oct. 5, 1999, 113 Stat. 597, 598, struck out “military” after “status” in item 10217 and added item 10218.
 
 1997—Pub. L. 105–85, div. A, title V, §§522(h)(2), 523(a)(2), Nov. 18, 1997, 111 Stat. 1736, 1737, inserted “(dual status)” after “technicians” in item 10216 and added item 10217.
 
 1996—Pub. L. 104–106, div. A, title V, §513(c)(2), title XV, §1501(b)(4), Feb. 10, 1996, 110 Stat. 306, 496, struck out “Individual” after “Members of” in item 10205, substituted “Reserve” for “reserve” in item 10211, and added item 10216.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 261 of this title.
 
 
 ---
@@ -45,7 +43,7 @@ This chapter is referred to in section 261 of this title.
 - [&sect; 10203 - Reserve affairs designation of general or flag officer of each armed force](%C2%A7%2010203%20-%20Reserve%20affairs%20designation%20of%20general%20or%20flag%20officer%20of%20each%20armed%20force.md)
 - [&sect; 10204 - Personnel records](%C2%A7%2010204%20-%20Personnel%20records.md)
 - [&sect; 10205 - Members of Ready Reserve requirement of notification of change of status](%C2%A7%2010205%20-%20Members%20of%20Ready%20Reserve%20requirement%20of%20notification%20of%20change%20of%20status.md)
-- [&sect; 10206 - Members periodic physical examinations](%C2%A7%2010206%20-%20Members%20periodic%20physical%20examinations.md)
+- [&sect; 10206 - Members physical examinations](%C2%A7%2010206%20-%20Members%20physical%20examinations.md)
 - [&sect; 10207 - Mobilization forces maintenance](%C2%A7%2010207%20-%20Mobilization%20forces%20maintenance.md)
 - [&sect; 10208 - Annual mobilization exercise](%C2%A7%2010208%20-%20Annual%20mobilization%20exercise.md)
 - [&sect; 10209 - Regular and reserve components discrimination prohibited](%C2%A7%2010209%20-%20Regular%20and%20reserve%20components%20discrimination%20prohibited.md)

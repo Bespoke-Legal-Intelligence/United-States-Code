@@ -18,7 +18,7 @@ It is the purpose of this part, to assist in making available the benefits of po
 
 The Secretary shall, in accordance with subparts 1 through 8 of this part, carry out programs to achieve the purposes of this part.
 
-(Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482; amended Pub. L. 105–244, title IV, §401(g)(1), Oct. 7, 1998, 112 Stat. 1652.)
+(Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17,1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482; amended Pub. L. 105–244, title IV, §401(g)(1), Oct. 7, 1998, 112 Stat. 1652.)
 
 #### Prior Provisions
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Higher Education Relief Opportunities for Students
 
-Pub. L. 108–76, Aug. 18, 2003, 117 Stat. 904, provided that:
+Pub. L. 108–76, Aug. 18, 2003, 117 Stat. 904, as amended by Pub. L. 109–78, §1, Sept. 30, 2005, 119 Stat. 2043, provided that:
 
 #### “SECTION 1. SHORT TITLE; FINDINGS; REFERENCE.
 
@@ -170,7 +170,7 @@ Qualifying national guard duty.—The term ‘qualifying National Guard duty dur
 
 #### “SEC. 6. TERMINATION OF AUTHORITY.
 
-“The provisions of this Act shall cease to be effective at the close of September 30, 2005.”
+“The provisions of this Act shall cease to be effective at the close of September 30, 2007.”
 
 Pub. L. 107–122, Jan. 15, 2002, 115 Stat. 2386, known as the Higher Education Relief Opportunities for Students Act of 2001, authorized the Secretary of Education to waive or modify statutory or regulatory provisions applicable to the student financial aid programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.) as deemed necessary because of a national emergency, provided sense of Congress as to tuition refunds from institutions of postsecondary education, and provided that the Act ceased to be effective Sept. 30, 2003.
 
@@ -374,7 +374,7 @@ Waiver Requirement.—Notwithstanding any other provision of law, unless enacted
 
 &emsp;“(3) the number of years for which individuals who are engaged in such military service may be eligible for Pell Grants under subpart 1 of part A of title IV of the Act \[20 U.S.C. 1070a et seq.\];
 
-&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes aperiod of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
+&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a period of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
 
 &emsp;“(5) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a single period of deferment under section 427(a)(2)(C)(i) or 428(b)(1)(M)(i) of the Act subsequent to such service; and
 

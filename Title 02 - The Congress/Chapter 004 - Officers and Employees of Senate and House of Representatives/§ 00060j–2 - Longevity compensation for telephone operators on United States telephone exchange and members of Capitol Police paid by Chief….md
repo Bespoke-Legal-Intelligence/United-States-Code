@@ -4,10 +4,6 @@ The provisions of subsections (a) and (b) of section 60j of this title (as amend
 
 (Pub. L. 95–391, title III, §310, Sept. 30, 1978, 92 Stat. 790; Pub. L. 104–186, title II, §204(8), Aug. 20, 1996, 110 Stat. 1731.)
 
-#### Transfer of Functions
-
-Statutory functions, duties, or authority of Chief Administrative Officer of the House of Representatives or the Secretary of the Senate as disbursing officers for the Capitol Police transferred to Chief of the Capitol Police, and references in any law or resolution before Feb. 20, 2003, to funds paid or disbursed by Chief Administrative Officer of the House of Representatives and Secretary of the Senate relating to pay and allowances of Capitol Police employees deemed to refer to Chief of the Capitol Police. See section 1907(a) of this title.
-
 #### Inapplicability of Section to Certain Employees On and After October 1, 1983
 
 <i>Section 60j of this title, referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 60j–4 of this title.</i>
@@ -15,4 +11,8 @@ Statutory functions, duties, or authority of Chief Administrative Officer of the
 #### Amendments
 
 1996—Pub. L. 104–186 struck out “(a)” before “The provisions” and substituted “Chief Administrative Officer” for “Clerk” in two places.
+
+#### Transfer of Functions
+
+Statutory functions, duties, or authority of Chief Administrative Officer of the House of Representatives or the Secretary of the Senate as disbursing officers for the Capitol Police transferred to Chief of the Capitol Police, and references in any law or resolution before Feb. 20, 2003, to funds paid or disbursed by Chief Administrative Officer of the House of Representatives and Secretary of the Senate relating to pay and allowances of Capitol Police employees deemed to refer to Chief of the Capitol Police. See section 1907(a) of this title.
 

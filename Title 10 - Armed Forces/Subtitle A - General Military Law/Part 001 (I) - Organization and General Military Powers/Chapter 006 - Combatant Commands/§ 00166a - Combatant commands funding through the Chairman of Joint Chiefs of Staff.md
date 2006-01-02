@@ -20,7 +20,7 @@ Authorized Activities.—Activities for which funds may be provided under subsec
 
 &emsp;(6) Humanitarian and civil assistance.
 
-&emsp;(7) Military education and training to military and related civilian personnel of foreign countries (including transportation, translation, and administrative expenses).
+&emsp;(7) Military education and training to military and related civilian personnel of foreigncountries (including transportation, translation, and administrative expenses).
 
 &emsp;(8) Personnel expenses of defense personnel for bilateral or regional cooperation programs.
 

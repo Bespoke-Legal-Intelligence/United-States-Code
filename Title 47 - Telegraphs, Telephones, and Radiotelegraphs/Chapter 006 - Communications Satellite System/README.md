@@ -4,12 +4,11 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [701\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000701%20-%20Congressional%20declaration%20of%20policy%20and%20purpose.md) | Congressional declaration of policy and purpose. |
-| (a) | Policy. |
-| (b) | Availability of telecommunication services. |
-| (c) | Private enterprise; access; competition. |
-| (d) | Domestic use; additional systems. |
+| [701\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000701%20-%20Omitted.md) | Omitted. |
 | [702\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000702%20-%20Definitions.md) | Definitions. |
+| [703\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000703%20-%20Satellite%20service%20report.md) | Satellite service report. |
+| (a) | Annual report. |
+| (b) | Content. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,9 +17,6 @@
 |  |  |
 | :--- | ---: |
 | [721\.](Subchapter%20002%20%28II%29%20-%20Federal%20Coordination%2C%20Planning%2C%20and%20Regulation/%C2%A7%2000721%20-%20Implementation%20of%20policy.md) | Implementation of policy. |
-| (a) | Executive functions; review; agency coordination; supervision of foreign relationships; compatibility with domestic and foreign facilities. |
-| (b) | Omitted. |
-| (c) | Commission functions; discrimination; just and reasonable charges, classifications, practices, regulations and other terms and conditions; allocation of facilities; technical approval; construction and operation authorizations; rules and regulations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,23 +24,15 @@
 
 |  |  |
 | :--- | ---: |
-| [731\.](Subchapter%20003%20%28III%29%20-%20Communications%20Satellite%20Corporation/%C2%A7%2000731%20-%20Creation%20of%20corporation.md) | Creation of corporation. |
-| [732\.](Subchapter%20003%20%28III%29%20-%20Communications%20Satellite%20Corporation/%C2%A7%2000732%20-%20Applicable%20laws.md) | Applicable laws. |
-| 733 to 735. Omitted. |  |
+| 731 to 735. | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
 
-|  |  |
-| :--- | ---: |
-| [741\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000741%20-%20Common%20carrier%20status%20of%20corporation%3B%20laws%20applicable%20to%20corporation%3B%20common%20carrier%20activity%3B%20conflict%20of%20laws.md) | Common carrier status of corporation; laws applicable to corporation; common carrier activity; conflict of laws. |
-| [742\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000742%20-%20Foreign%20business%20negotiations%20of%20corporation%3B%20notice%20to%20Department%20of%20State%3B%20advice%20and%20assistance%20from%20Department%20of%20State.md) | Foreign business negotiations of corporation; notice to Department of State; advice and assistance from Department of State. |
-| [743\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000743%20-%20Sanctions.md) | Sanctions. |
-| (a) | Petition of Attorney General for equitable relief; venue. |
-| (b) | Punishment, liability or sanction under other provisions. |
-| (c) | Duty of compliance with provisions of chapter and rules and regulations. |
-| [744\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2000744%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
+|  |
+| :--- |
+| 741 to 744. Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,10 +42,6 @@
 | :--- | ---: |
 | 751, 752. Omitted. |  |
 | [753\.](Subchapter%20005%20%28V%29%20-%20International%20Maritime%20Satellite%20Telecommunications/%C2%A7%2000753%20-%20Implementation%20of%20policy.md) | Implementation of policy. |
-| (a) | Administrative functions; agency coordination; spectrum and orbital space use; compatibility with domestic and foreign facilities. |
-| (b) | Executive functions; supervision and instructions for foreign relationships and activities. |
-| (c) | Omitted. |
-| (d) | Commission regulatory instructions; conflicting and prevailing instructions of President. |
 | 754 to 756. Repealed. |  |
 | [757\.](Subchapter%20005%20%28V%29%20-%20International%20Maritime%20Satellite%20Telecommunications/%C2%A7%2000757%20-%20Definitions.md) | Definitions. |
 
@@ -86,8 +70,8 @@
 | :--- | ---: |
 | [763\.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763%20-%20General%20criteria%20to%20ensure%20a%20pro-competitive%20privatization%20of%20INTELSAT%20and%20Inmarsat.md) | General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat. |
 | [763a.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763a%20-%20Specific%20criteria%20for%20INTELSAT.md) | Specific criteria for INTELSAT. |
-| [763b.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763b%20-%20Specific%20criteria%20for%20INTELSAT%20separated%20entities.md) | Specific criteria for INTELSAT separated entities. |
-| [763c.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763c%20-%20Specific%20criteria%20for%20Inmarsat.md) | Specific criteria for Inmarsat. |
+| [763b.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763b%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9334%2C%20%C2%A72%2C%20July%2012%2C%202005%2C%20119%20Stat.%20377.md) | Repealed. |
+| [763c.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763c%20-%20Space%20segment%20capacity%20of%20the%20GMDSS.md) | Space segment capacity of the GMDSS. |
 | [763d.](Subchapter%20006%20%28VI%29%20-%20Communications%20Competition%20and%20Privatization/Part%20B%20-%20Federal%20Communications%20Commission%20Licensing%20Criteria%20Privatization%20Criteria/%C2%A7%2000763d%20-%20Encouraging%20market%20access%20and%20privatization.md) | Encouraging market access and privatization. |
 | (a) | NTIA determination. |
 | (b) | Imposition of cost-based settlement rate. |

@@ -18,7 +18,7 @@
 
 &emsp;(H) Overtime expenses incurred by deputy marshals in the course of serving or executing civil process.
 
-(2) The marshals shall collect, in advance, a deposit to cover the initial expenses for special services required under paragraph (1)(E), and periodically thereafter such amounts as may be necessary to pay such expenses until the litigation is concluded. This paragraph applies to all private litigants, including seamen proceeding pursuant to section 1916 of this title.
+(2) The marshals shall collect, in advance, a deposit to cover the initial expenses for special services required under paragraph (1)(E), and periodically thereafter such amounts as may be necessary to pay such expenses until the litigation is concluded. This paragraph applies to allprivate litigants, including seamen proceeding pursuant to section 1916 of this title.
 
 (3) For purposes of paragraph (1)(G), if two or more services or endeavors, or if an endeavor and a service, are made in behalf of the same party in the same case on the same trip, mileage shall be computed to the place of service or endeavor which is most remote from the place where service is returnable, adding thereto any additional mileage traveled in serving or endeavoring to serve in behalf of the party. If two or more writs of any kind, required to be served in behalf of the same party on the same person in the same case or proceeding, may be served at the same time, mileage on only one such writ shall be collected.
 

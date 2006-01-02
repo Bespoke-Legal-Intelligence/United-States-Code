@@ -8,7 +8,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 &emsp;(2) such description identifies the geographic areas within the State in which the greatest numbers of homeless individuals with a need for mental health, substance abuse, and housing services are located;
 
-&emsp;(3) such description provides information relating to the programs and activities to be supported and services to be provided, including information relating to coordinating suchprograms and activities with any similar programs and activities of public and private entities; and
+&emsp;(3) such description provides information relating to the programs and activities to be supported and services to be provided, including information relating to coordinating such programs and activities with any similar programs and activities of public and private entities; and
 
 &emsp;(4) the State agrees that such description will be revised throughout the year as may be necessary to reflect substantial changes in the programs and activities assisted by the State pursuant to section 290cc–22 of this title.
 
@@ -26,7 +26,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 &emsp;The Secretary may not make payments under section 290cc–21 of this title unless the services to be provided pursuant to the description required in subsection (a) of this section have been considered in the preparation of, have been included in, and are consistent with, the State comprehensive mental health services plan referred to in paragraph (1).
 
-(July 1, 1944, ch. 373, title V, §527, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 520; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4730.)
+(July 1, 1944, ch. 373, title V, §527, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat.520; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4730.)
 
 #### References in Text
 

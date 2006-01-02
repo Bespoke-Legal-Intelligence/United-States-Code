@@ -4,7 +4,7 @@
 
 #### (1) Allowance of deduction
 
-&emsp;For purposes of the tax imposed by section 2001, in the case of an estate of a decedent to which this section applies, the value of the taxable estate shall be determined by deducting from the value of the gross estate the adjusted value of the qualified family-owned business interests of the decedent which are described in subsection (b)(2).
+&emsp;For purposes of the tax imposed by section 2001, in the case of an estate of a decedent towhich this section applies, the value of the taxable estate shall be determined by deducting from the value of the gross estate the adjusted value of the qualified family-owned business interests of the decedent which are described in subsection (b)(2).
 
 #### (2) Maximum deduction
 
@@ -92,7 +92,7 @@ For purposes of this section, the adjusted value of any qualified family-owned b
 
 &emsp;&emsp;(A) any indebtedness on any qualified residence of the decedent the interest on which is deductible under section 163(h)(3), plus
 
-&emsp;&emsp;(B) any indebtedness to the extent the taxpayer establishes that the proceeds of such indebtedness were used for the payment of educational and medical expenses of the decedent, the decedent's spouse, or the decedent's dependents (within the meaning of section 152), plus
+&emsp;&emsp;(B) any indebtedness to the extent the taxpayer establishes that the proceeds of such indebtedness were used for the payment of educational and medical expenses of the decedent, the decedent's spouse, or the decedent's dependents (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), plus
 
 &emsp;&emsp;(C) any indebtedness not described in subparagraph (A) or (B), to the extent such indebtedness does not exceed $10,000.
 
@@ -314,7 +314,7 @@ For purposes of this section—
 
 This section shall not apply to the estates of decedents dying after December 31, 2003.
 
-(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72.)
+(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72; Pub. L. 108–311, title II, §207(23), Oct. 4, 2004, 118 Stat. 1178.)
 
 #### Amendment of Section
 
@@ -327,6 +327,8 @@ A prior section 2057, added Pub. L. 99–514, title XI, §1172(a), Oct. 22, 1986
 Another prior section 2057, added Pub. L. 94–455, title XX, §2007(a), Oct. 4, 1976, 90 Stat. 1890; amended Pub. L. 95–600, title VII, §702(<i>l</i>)(1), (2), Nov. 6, 1978, 92 Stat. 2934, 2935, related to bequests, etc., to certain minor children, prior to repeal by Pub. L. 97–34, title IV, §427(a), (c), Aug. 13, 1981, 95 Stat. 3181, applicable to estates of decedents dying after Dec. 31, 1981.
 
 #### Amendments
+
+2004—Subsec. (d)(2)(B). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
 2001—Subsec. (j). Pub. L. 107–16, §§521(d), 901, temporarily added subsec. (j). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -372,6 +374,10 @@ Subsec. (g)(1). Pub. L. 105–206, §6007(b)(6), struck out “or (M)” after �
 
 Subsec. (i)(3)(L) to (P). Pub. L. 105–206, §6007(b)(7), added subpars. (L) and (M) and redesignated former subpars. (L) to (N) as (N) to (P), respectively.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
@@ -385,8 +391,4 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section 502(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section\] shall apply to estates of decedents dying after December 31, 1997.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2031 of this title.
 

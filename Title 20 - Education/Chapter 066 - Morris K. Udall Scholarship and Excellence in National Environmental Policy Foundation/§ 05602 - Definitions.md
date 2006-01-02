@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(9) the term “Trust Fund” means the Morris K. Udall Scholarship and Excellence in National Environmental Policy Trust Fund established in section 5606 of this title.
 
-(Pub. L. 102–259, §4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, §2, Feb. 11, 1998, 112 Stat. 8; Pub.L. 105–244, title I, §102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619.)
+(Pub. L. 102–259, §4, Mar. 19, 1992, 106 Stat. 78; Pub. L. 105–156, §2, Feb. 11, 1998, 112 Stat. 8; Pub. L. 105–244, title I, §102(a)(6)(I), Oct. 7, 1998, 112 Stat. 1619.)
 
 #### References in Text
 

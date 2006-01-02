@@ -38,7 +38,7 @@ Amendment by Pub. L. 100–203 applicable to returns for years beginning after D
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of title title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 31, 1962, see section 8 of Pub. L. 87–792, set out as a note under section 22 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6013, 6531, 6685, 7303 of this title; title 7 section 12a.
 

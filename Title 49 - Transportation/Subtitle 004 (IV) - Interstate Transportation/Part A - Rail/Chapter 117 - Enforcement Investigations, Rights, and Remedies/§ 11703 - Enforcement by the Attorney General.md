@@ -8,5 +8,5 @@
 
 #### Prior Provisions
 
-A prior section 11703, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1450, related to authority of Attorney General and United States Government to bring civil actions to enforce this subtitle, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11703, 14703, and 15903 of this title.
+A prior section 11703, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1450, related to authority of Attorney General andUnited States Government to bring civil actions to enforce this subtitle, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11703, 14703, and 15903 of this title.
 

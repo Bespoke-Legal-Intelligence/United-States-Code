@@ -34,7 +34,7 @@
 
 (6) Appeals may not be heard under this subsection by a panel of the bankruptcy appellate panel service unless the district judges for the district in which the appeals occur, by majority vote, have authorized such service to hear and determine appeals originating in such district.
 
-(c)(1) Subject to subsection (b), each appeal under subsection (a) shall be heard by a 3-judge panel of the bankruptcy appellate panel service established under subsection (b)(1) unless—
+(c)(1) Subject to subsections (b) and (d)(2), each appeal under subsection (a) shall be heard by a 3-judge panel of the bankruptcy appellate panel service established under subsection (b)(1) unless—
 
 &emsp;(A) the appellant elects at the time of filing the appeal; or
 
@@ -44,15 +44,43 @@
 
 (2) An appeal under subsections (a) and (b) of this section shall be taken in the same manner as appeals in civil proceedings generally are taken to the courts of appeals from the district courts and in the time provided by Rule 8002 of the Bankruptcy Rules.
 
-(d) The courts of appeals shall have jurisdiction of appeals from all final decisions, judgments, orders, and decrees entered under subsections (a) and (b) of this section.
+(d)(1) The courts of appeals shall have jurisdiction of appeals from all final decisions, judgments, orders, and decrees entered under subsections (a) and (b) of this section.
 
-(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 341; amended Pub. L. 101–650, title III, §305, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 103–394, title I, §§102, 104(c), (d), Oct. 22, 1994, 108 Stat. 4108–4110.)
+(2)(A) The appropriate court of appeals shall have jurisdiction of appeals described in the first sentence of subsection (a) if the bankruptcy court, the district court, or the bankruptcy appellate panel involved, acting on its own motion or on the request of a party to the judgment, order, or decree described in such first sentence, or all the appellants and appellees (if any) acting jointly, certify that—
+
+&emsp;(i) the judgment, order, or decree involves a question of law as to which there is no controlling decision of the court of appeals for the circuit or of the Supreme Court of the United States, or involves a matter of public importance;
+
+&emsp;(ii) the judgment, order, or decree involves a question of law requiring resolution of conflicting decisions; or
+
+&emsp;(iii) an immediate appeal from the judgment, order, or decree may materially advance the progress of the case or proceeding in which the appeal is taken;
+
+> and if the court of appeals authorizes the direct appeal of the judgment, order, or decree.
+
+(B) If the bankruptcy court, the district court, or the bankruptcy appellate panel—
+
+&emsp;(i) on its own motion or on the request of a party, determines that a circumstance specified in clause (i), (ii), or (iii) of subparagraph (A) exists; or
+
+&emsp;(ii) receives a request made by a majority of the appellants and a majority of appellees (if any) to make the certification described in subparagraph (A);
+
+> then the bankruptcy court, the district court, or the bankruptcy appellate panel shall make the certification described in subparagraph (A).
+
+(C) The parties may supplement the certification with a short statement of the basis for the certification.
+
+(D) An appeal under this paragraph does not stay any proceeding of the bankruptcy court, the district court, or the bankruptcy appellate panel from which the appeal is taken, unless the respective bankruptcy court, district court, or bankruptcy appellate panel, or the court of appeals in which the appeal in <sup>2</sup> pending, issues a stay of such proceeding pending the appeal.
+
+(E) Any request under subparagraph (B) for certification shall be made not later than 60 days after the entry of the judgment, order, or decree.
+
+(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 341; amended Pub. L. 101–650, title III, §305, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 103–394, title I, §§102, 104(c), (d), Oct. 22, 1994, 108 Stat. 4108–4110; Pub. L. 109–8, title XII, §1233(a), Apr. 20, 2005, 119 Stat. 202.)
 
 #### References in Text
 
 The Bankruptcy Rules, referred to in subsec. (c)(2), are set out in the Appendix to Title 11, Bankruptcy.
 
 #### Amendments
+
+2005—Subsec. (c)(1). Pub. L. 109–8, §1233(a)(1), substituted “Subject to subsections (b) and (d)(2),” for “Subject to subsection (b),”.
+
+Subsec. (d). Pub. L. 109–8, §1233(a)(2), designated existing provisions as par. (1) and added par. (2).
 
 1994—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
 
@@ -70,7 +98,55 @@ Subsec. (c). Pub. L. 103–394, §104(d), designated existing provisions as par.
 
 1990—Subsec. (b)(2) to (4). Pub. L. 101–650 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of Title 11.
+
+#### Procedural Rules
+
+Pub. L. 109–8, title XII, §1233(b), Apr. 20, 2005, 119 Stat. 203, provided that:
+
+“(1)
+
+Temporary application.—A provision of this subsection shall apply to appeals under section 158(d)(2) of title 28, United States Code, until a rule of practice and procedure relating to such provision and such appeals is promulgated or amended under chapter 131 of such title.
+
+“(2)
+
+Certification.—A district court, a bankruptcy court, or a bankruptcy appellate panel may make a certification under section 158(d)(2) of title 28, United States Code, only with respect to matters pending in the respective bankruptcy court, district court, or bankruptcy appellate panel.
+
+“(3)
+
+Procedure.—Subject to any other provision of this subsection, an appeal authorized by the court of appeals under section 158(d)(2)(A) of title 28, United States Code, shall be taken in the manner prescribed in subdivisions (a)(1), (b), (c), and (d) of rule 5 of the Federal Rules of Appellate Procedure. For purposes of subdivision (a)(1) of rule 5—
+
+&emsp;“(A) a reference in such subdivision to a district court shall be deemed to include a reference to a bankruptcy court and a bankruptcy appellate panel, as appropriate; and
+
+&emsp;“(B) a reference in such subdivision to the parties requesting permission to appeal to be served with the petition shall be deemed to include a reference to the parties to the judgment, order, or decree from which the appeal is taken.
+
+“(4)
+
+Filing of petition with attachment.—A petition requesting permission to appeal, that is based on a certification made under subparagraph (A) or (B) of section 158(d)(2) shall—
+
+&emsp;“(A) be filed with the circuit clerk not later than 10 days after the certification is entered on the docket of the bankruptcy court, the district court, or the bankruptcy appellate panel from which the appeal is taken; and
+
+&emsp;“(B) have attached a copy of such certification.
+
+“(5)
+
+References in rule 5.—For purposes of rule 5 of the Federal Rules of Appellate Procedure—
+
+&emsp;“(A) a reference in such rule to a district court shall be deemed to include a reference to a bankruptcy court and to a bankruptcy appellate panel; and
+
+&emsp;“(B) a reference in such rule to a district clerk shall be deemed to include a reference to a clerk of a bankruptcy court and to a clerk of a bankruptcy appellate panel.
+
+“(6)
+
+Application of rules.—The Federal Rules of Appellate Procedure shall apply in the courts of appealswith respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of section 158 of title 28, United States Code.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “is”.</i>
 

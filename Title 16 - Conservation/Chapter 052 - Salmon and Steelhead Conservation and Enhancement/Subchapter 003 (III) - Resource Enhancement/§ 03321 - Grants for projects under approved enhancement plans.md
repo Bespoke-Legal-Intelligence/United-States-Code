@@ -16,7 +16,7 @@ Each comprehensive enhancement plan, and any revisions, or modifications of such
 
 Each comprehensive enhancement plan shall include such standards, restrictions, or conditions as are necessary, to assure that any project included in the plans contributes to the balanced and integrated development of the salmon and steelhead resources of the area. Such standards shall include, but not be limited to provisions designed to—
 
-&emsp;(1) assure that all commercial and recreational fishermen and the treaty tribes shall have a reasonable opportunity to participate in the benefits, considered as a whole, of the salmon and steelhead resources development;
+&emsp;(1) assure that all commercial and recreational fishermen and the treaty tribes shallhave a reasonable opportunity to participate in the benefits, considered as a whole, of the salmon and steelhead resources development;
 
 &emsp;(2) minimize, to the extent practicable, significant adverse interaction between naturally spawning and artifically <sup>1</sup> propagated stocks;
 
@@ -52,7 +52,7 @@ Each comprehensive enhancement plan shall include such standards, restrictions, 
 
 #### (f) Review, modification, or revisions
 
-Each comprehensive enhancement plan shall be reviewed periodically. The Secretary, the Secretary of Commerce, the State of Washington, the State of Oregon, or the appropriate tribal coordinating body may request a review, modification, or revision of a plan at any time. Any revision or modification of a plan, developed and agreed to by the State of Washington or the State of Oregon, as appropriate, and the appropriate tribal coordinating body, shall be approved by the Secretary, in consultation with the Secretary of Commerce, within 45 days of receipt of the proposed revision or modification, if such revision or modification is in conformity with this chapter and other applicable law. The Secretary, in consultation with the Secretary of Commerce, may withdraw approval of a plan ifhe finds that (1) the plan or its implementation is not consistent with this chapter, and (2) no modification or revision has been agreed to by the State of Washington or the State of Oregon, as appropriate, and the appropriate tribal coordinating body to correct any such inconsistencies.
+Each comprehensive enhancement plan shall be reviewed periodically. The Secretary, the Secretary of Commerce, the State of Washington, the State of Oregon, or the appropriate tribal coordinating body may request a review, modification, or revision of a plan at any time. Any revision or modification of a plan, developed and agreed to by the State of Washington or the State of Oregon, as appropriate, and the appropriate tribal coordinating body, shall be approved by the Secretary, in consultation with the Secretary of Commerce, within 45 days of receipt of the proposed revision or modification, if such revision or modification is in conformity with this chapter and other applicable law. The Secretary, in consultation with the Secretary of Commerce, may withdraw approval of a plan if he finds that (1) the plan or its implementation is not consistent with this chapter, and (2) no modification or revision has been agreed to by the State of Washington or the State of Oregon, as appropriate, and the appropriate tribal coordinating body to correct any such inconsistencies.
 
 (Pub. L. 96–561, title I, §120, Dec. 22, 1980, 94 Stat. 3280.)
 

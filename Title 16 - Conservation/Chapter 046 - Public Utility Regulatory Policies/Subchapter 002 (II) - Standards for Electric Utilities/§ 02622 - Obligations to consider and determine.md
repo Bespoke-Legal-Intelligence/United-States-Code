@@ -18,11 +18,53 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (2) Not later than three years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title), each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title.
 
+(3)(A) Not later than 2 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
+
+(B) Not later than 3 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
+
+(4)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to the standard established by paragraph (14) of section 2621(d) of this title.
+
+(B) Not later than 2 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to the standard established by paragraph (14) of section 2621(d) of this title.
+
+(5)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for consideration, with respect to the standard established by paragraph (15) of section 2621(d) of this title.
+
+(B) Not later than two years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraph (15) of section 2621(d) of this title.
+
 #### (c) Failure to comply
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),<sup>1</sup> the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.
 
-(Pub. L. 95–617, title I, §112, Nov. 9, 1978, 92 Stat. 3122; Pub. L. 102–486, title I, §111(c), Oct. 24, 1992, 106 Stat. 2795.)
+#### (d) Prior State actions relating to standard under section 2621(d)(11) to (13)
+
+Subsections (b) and (c) of this section shall not apply to the standards established by paragraphs (11) through (13) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
+
+&emsp;(1) the State has implemented for such utility the standard concerned (or a comparable standard);
+
+&emsp;(2) the State regulatory authority for such State or relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility; or
+
+&emsp;(3) the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.
+
+#### (e) Prior State actions relating to standard under section 2621(d)(14)
+
+Subsections (b) and (c) of this section shall not apply to the standard established by paragraph (14) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
+
+&emsp;(1) the State has implemented for such utility the standard concerned (or a comparable standard);
+
+&emsp;(2) the State regulatory authority for such State or relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility within the previous 3 years; or
+
+&emsp;(3) the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility within the previous 3 years.
+
+#### (f) Prior State actions relating to standard under section 2621(d)(15)
+
+Subsections (b) and (c) of this section shall not apply to the standard established by paragraph (15) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
+
+&emsp;(1) the State has implemented for such utility the standard concerned (or a comparable standard);
+
+&emsp;(2) the State regulatory authority for such State or relevant nonregulated electric utility has conducted a proceeding to consider implementation of the standard concerned (or a comparable standard) for such utility; or
+
+&emsp;(3) the State legislature has voted on the implementation of such standard (or a comparable standard) for such utility.
+
+(Pub. L. 95–617, title I, §112, Nov. 9, 1978, 92 Stat. 3122; Pub. L. 102–486, title I, §111(c), Oct. 24, 1992, 106 Stat. 2795; Pub. L. 109–58, title XII, §§1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, 119 Stat. 963, 966, 967, 971.)
 
 #### Codification
 
@@ -30,5 +72,25 @@ Each State regulatory authority (with respect to each electric utility for which
 
 #### Amendments
 
+2005—Subsec. (b)(3). Pub. L. 109–58, §1251(b)(1), added par. (3).
+
+Subsec. (b)(4). Pub. L. 109–58, §1252(g), added par. (4).
+
+Subsec. (b)(5). Pub. L. 109–58, §1254(b)(1), added par. (5).
+
+Subsec. (c). Pub. L. 109–58, §1254(b)(2), which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was executed by making the insertion in subsec. (c) at end to reflect the probable intent of Congress.
+
+Pub. L. 109–58, §1252(h), inserted at end “In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+
+Pub. L. 109–58, §1251(b)(2), inserted at end “In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+
+Subsec. (d). Pub. L. 109–58, §1251(b)(3)(A), added subsec. (d).
+
+Subsec. (e). Pub. L. 109–58, §1252(i)(1), added subsec. (e).
+
+Subsec. (f). Pub. L. 109–58, §1254(b)(3)(A), added subsec. (f).
+
 1992—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)”.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (15) of section 2621(d) of this title,”.</i>
 

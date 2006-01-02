@@ -26,19 +26,19 @@ Subject to the limitation of section 904, the following amounts shall be allowed
 
 #### (5) Partnerships and estates
 
-&emsp;In the case of any individual described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of the partnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
+&emsp;In the case of any person described in paragraph (1), (2), (3), or (4), who is a member of a partnership or a beneficiary of an estate or trust, the amount of his proportionate share of the taxes (described in such paragraph) of the partnership or the estate or trust paid or accrued during the taxable year to a foreign country or to any possession of the United States, as the case may be. Under rules or regulations prescribed by the Secretary, in the case of any foreign trust of which the settlor or another person would be treated as owner of any portion of the trust under subpart E but for section 672(f), the allocable amount of any income, war profits, and excess profits taxes imposed by any foreign country or possession of the United States on the settlor or such other person in respect of trust income.
 
 #### (c) Similar credit required for certain alien residents
 
 Whenever the President finds that—
 
-&emsp;(1) a foreign country, in imposing income, war profits, and excess profits taxes, does notallow to citizens of the United States residing in such foreign country a credit for any such taxes paid or accrued to the United States or any foreign country, as the case may be, similar to the credit allowed under subsection (b)(3),
+&emsp;(1) a foreign country, in imposing income, war profits, and excess profits taxes, does not allow to citizens of the United States residing in such foreign country a credit for any such taxes paid or accrued to the United States or any foreign country, as the case may be, similar to the credit allowed under subsection (b)(3),
 
 &emsp;(2) such foreign country, when requested by the United States to do so, has not acted to provide such a similar credit to citizens of the United States residing in such foreign country, and
 
 &emsp;(3) it is in the public interest to allow the credit under subsection (b)(3) to citizens or subjects of such foreign country only if it allows such a similar credit to citizens of the United States residing in such foreign country,
 
-> the President shall proclaim that, for taxable years beginning while the proclamation remains in effect, the credit under subsection (b)(3) shall be allowed to citizens or subjects of such foreign country only if such foreign country, in imposing income, war profits, and excess profits taxes, allows to citizens of the United States residing in such foreign country such a similar credit.
+> the President shall proclaim that, for taxable years beginning while the proclamation remainsin effect, the credit under subsection (b)(3) shall be allowed to citizens or subjects of such foreign country only if such foreign country, in imposing income, war profits, and excess profits taxes, allows to citizens of the United States residing in such foreign country such a similar credit.
 
 #### (d) Treatment of dividends from a DISC or former DISC
 
@@ -106,7 +106,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;Notwithstanding any other provision of this part—
 
-&emsp;&emsp;(A) no credit shall be allowed under subsection (a) for any income, war profits, or excess profits taxes paid or accrued (or deemed paid under section 902 or 960) to any country if such taxes are with respect to income attributable to a period during which this subsection applies to such country, and
+&emsp;&emsp;(A) no credit shall be allowed under subsection (a) for any income, war profits, orexcess profits taxes paid or accrued (or deemed paid under section 902 or 960) to any country if such taxes are with respect to income attributable to a period during which this subsection applies to such country, and
 
 &emsp;&emsp;(B) subsections (a), (b), and (c) of section 904 and sections 902 and 960 shall be applied separately with respect to income attributable to such a period from sources within such country.
 
@@ -162,7 +162,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;&emsp;(ii) the reason for the determination under subparagraph (A)(i).
 
-#### (k) Minimum holding period for certain taxes
+#### (k) Minimum holding period for certain taxes on dividends
 
 #### (1) Withholding taxes
 
@@ -170,7 +170,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;In no event shall a credit be allowed under subsection (a) for any withholding tax on a dividend with respect to stock in a corporation if—
 
-&emsp;&emsp;&emsp;(i) such stock is held by the recipient of the dividend for 15 days or less during the 30-day period beginning on the date which is 15 days before the date on which such share becomes ex-dividend with respect to such dividend, or
+&emsp;&emsp;&emsp;(i) such stock is held by the recipient of the dividend for 15 days or less during the 31-day period beginning on the date which is 15 days before the date on which such share becomes ex-dividend with respect to such dividend, or
 
 &emsp;&emsp;&emsp;(ii) to the extent that the recipient of the dividend is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
 
@@ -192,7 +192,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;(A) by substituting “45 days” for “15 days” each place it appears, and
 
-&emsp;&emsp;(B) by substituting “90-day period” for “30-day period”.
+&emsp;&emsp;(B) by substituting “91-day period” for “31-day period”.
 
 #### (4) Exception for certain taxes paid by securities dealers
 
@@ -230,7 +230,57 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;Sections 275 and 78 shall not apply to any tax which is not allowable as a credit under subsection (a) by reason of this subsection.
 
-#### (<i>l</i>) Cross reference
+#### (<i>l</i>) Minimum holding period for withholding taxes on gain and income other than dividends etc.
+
+#### (1) In general
+
+&emsp;In no event shall a credit be allowed under subsection (a) for any withholding tax (as defined in subsection (k)) on any item of income or gain with respect to any property if—
+
+&emsp;&emsp;(A) such property is held by the recipient of the item for 15 days or less during the 31-day period beginning on the date which is 15 days before the date on which the right to receive payment of such item arises, or
+
+&emsp;&emsp;(B) to the extent that the recipient of the item is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
+
+> &emsp;This paragraph shall not apply to any dividend to which subsection (k) applies.
+
+#### (2) Exception for taxes paid by dealers
+
+#### (A) In general
+
+&emsp;&emsp;Paragraph (1) shall not apply to any qualified tax with respect to any property held in the active conduct in a foreign country of a business as a dealer in such property.
+
+#### (B) Qualified tax
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “qualified tax” means a tax paid to a foreign country (other than the foreign country referred to in subparagraph (A)) if—
+
+&emsp;&emsp;&emsp;(i) the item to which such tax is attributable is subject to taxation on a net basis by the country referred to in subparagraph (A), and
+
+&emsp;&emsp;&emsp;(ii) such country allows a credit against its net basis tax for the full amount of the tax paid to such other foreign country.
+
+#### (C) Dealer
+
+&emsp;&emsp;For purposes of subparagraph (A), the term “dealer” means—
+
+&emsp;&emsp;&emsp;(i) with respect to a security, any person to whom paragraphs (1) and (2) of subsection (k) would not apply by reason of paragraph (4) thereof, and
+
+&emsp;&emsp;&emsp;(ii) with respect to any other property, any person with respect to whom such property is described in section 1221(a)(1).
+
+#### (D) Regulations
+
+&emsp;&emsp;The Secretary may prescribe such regulations as may be appropriate to carry out this paragraph, including regulations to prevent the abuse of the exception provided by this paragraph and to treat other taxes as qualified taxes.
+
+#### (3) Exceptions
+
+&emsp;The Secretary may by regulation provide that paragraph (1) shall not apply to property where the Secretary determines that the application of paragraph (1) to such property is not necessary to carry out the purposes of this subsection.
+
+#### (4) Certain rules to apply
+
+&emsp;Rules similar to the rules of paragraphs (5), (6), and (7) of subsection (k) shall apply for purposes of this subsection.
+
+#### (5) Determination of holding period
+
+&emsp;Holding periods shall be determined for purposes of this subsection without regard to section 1235 or any similar rule.
+
+#### (m) Cross reference
 
 &emsp;&emsp;<b>(1) For deductions of income, war profits, and excess profits taxes paid to a foreign country or a possession of the United States, see sections 164 and 275.</b>
 
@@ -238,9 +288,9 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;<b>(3) For right of estate or trust to the credit for taxes imposed by foreign countries and possessions of the United States under this section, see section 642(a).</b>
 
-&emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation or partnership controlled by him, see section 6038.</b>
+&emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with</b><b>respect to a foreign corporation or partnership controlled by him, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630.)
 
 #### References in Text
 
@@ -257,6 +307,18 @@ Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j
 Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (k)(4)(A)(i), (ii), are classified to sections 78<i>o</i>(a) and 78<i>o</i>–5(a), respectively, of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2005—Subsec. (<i>l</i>)(2)(C)(i). Pub. L. 109–135 struck out “if such security were stock” after “paragraph (4) thereof”.
+
+2004—Subsec. (b)(5). Pub. L. 108–357, §405(b), substituted “any person” for “any individual”.
+
+Subsec. (k). Pub. L. 108–357, §832(b), inserted “on dividends” after “taxes” in heading.
+
+Subsec. (k)(1)(A)(i). Pub. L. 108–311, §406(g)(1), substituted “31-day period” for “30-day period”.
+
+Subsec. (k)(3)(B). Pub. L. 108–311, §406(g)(2), substituted “91-day period” for “90-day period” and “31-day period” for “30-day period”.
+
+Subsecs. (<i>l</i>), (m). Pub. L. 108–357, §832(a), added subsec. (<i>l</i>) and redesignated former subsec. (<i>l</i>) as (m).
 
 2000—Subsec. (j)(5). Pub. L. 106–200 added par. (5).
 
@@ -353,6 +415,18 @@ Subsec. (d)(4). Pub. L. 87–834, §9(d)(3), added par. (4).
 1960—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted “applicable” before “limitation” and substituted “Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year” for “Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable.”
 
 Subsec. (b). Pub. L. 86–780, §3(b), inserted “applicable” before “limitation”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendments
+
+Pub. L. 108–357, title IV, §405(c), Oct. 22, 2004, 118 Stat. 1498, provided that: “The amendments made by this section \[amending this section and section 902 of this title\] shall apply to taxes of foreign corporations for taxable years of such corporations beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title VIII, §832(c), Oct. 22, 2004, 118 Stat. 1588, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or accrued more than 30 days after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -469,10 +543,6 @@ Amendment by section 4(b)(8)(A) of Pub. L. 103–149 not to be construed as affe
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 27, 243, 245, 275, 515, 642, 702, 703, 772, 773, 841, 853, 861, 874, 882, 904, 905, 906, 907, 908, 943, 952, 960, 1247, 1291, 1363, 6038, 6511 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

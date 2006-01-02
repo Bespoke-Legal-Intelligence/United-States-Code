@@ -1,6 +1,6 @@
 ### §3505a. Office of Population Affairs; establishment; Deputy Assistant Secretary for Population Affairs; appointment; staff and consultants
 
-(a) There is established within the Department of Health and Human Services an Office of Population Affairs to be directed by a Deputy Assistant Secretary for Population Affairs under the direct supervision of the Assistant Secretary for Health and Scientific Affairs. The Deputy Assistant Secretary for Population Affairs shall be appointed by the Secretary.
+(a) There is established within the Department of Health and Human Services an Office of Population Affairs to be directed by a Deputy Assistant Secretary for Population Affairs under the direct supervision of the Assistant Secretary forHealth and Scientific Affairs. The Deputy Assistant Secretary for Population Affairs shall be appointed by the Secretary.
 
 (b) The Secretary is authorized to provide the Office of Population Affairs with such full-time professional and clerical staff and with the services of such consultants as may be necessary for it to carry out its duties and functions.
 
@@ -8,5 +8,5 @@
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted for “Department of Health, Education, andWelfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

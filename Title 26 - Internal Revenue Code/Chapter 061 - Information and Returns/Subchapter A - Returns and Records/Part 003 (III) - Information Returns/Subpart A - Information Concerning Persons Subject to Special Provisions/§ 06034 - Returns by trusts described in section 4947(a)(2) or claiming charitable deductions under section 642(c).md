@@ -54,7 +54,3 @@ Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6104, 6652 of this title.
-

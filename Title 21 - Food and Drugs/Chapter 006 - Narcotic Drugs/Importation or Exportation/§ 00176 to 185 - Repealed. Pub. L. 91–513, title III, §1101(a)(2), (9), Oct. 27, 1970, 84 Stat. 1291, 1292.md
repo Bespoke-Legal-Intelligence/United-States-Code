@@ -10,7 +10,7 @@ Section 177, acts Feb. 9, 1909, ch. 100, §2(a), 35 Stat. 614; Jan. 17, 1914, ch
 
 Section 178, act Feb. 9, 1909, ch. 100, §4, as added Jan. 17, 1914, ch. 9, 38 Stat. 275, prohibited possession of smoking opium. See section 801 et seq. of this title.
 
-Section 179, act Feb. 9, 1909, ch. 100, §4, as added Jan. 17, 1914, ch. 9, 38 Stat. 275, covered liability of masters of vessels and persons in charge of railroad cars or other vehicles for possession of smoking heroin. See section 801 et seq. of this title.
+Section 179, act Feb. 9, 1909, ch. 100, §4, as added Jan. 17, 1914, ch. 9, 38 Stat. 275, covered liability of mastersof vessels and persons in charge of railroad cars or other vehicles for possession of smoking heroin. See section 801 et seq. of this title.
 
 Section 180, act Feb. 9, 1909, ch. 100, §5, as added Jan. 17, 1914, ch. 9, 38 Stat. 275; amended May 26, 1922, ch. 202, §2, 42 Stat. 597; June 14, 1930, ch. 488, §3, 46 Stat. 586, prohibited admission of smoking opium even for transportation to another country or for transferal from one vessel to another.
 

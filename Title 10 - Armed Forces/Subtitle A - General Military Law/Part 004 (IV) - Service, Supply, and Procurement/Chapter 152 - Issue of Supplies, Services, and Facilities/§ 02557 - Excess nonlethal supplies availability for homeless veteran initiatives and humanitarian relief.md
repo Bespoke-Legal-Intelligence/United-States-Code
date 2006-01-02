@@ -44,7 +44,3 @@ Subsec. (a). Pub. L. 107–107, §361(a), designated existing provisions as par.
 
 1987—Subsec. (e)(1), (2). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2561, 2562 of this title.
-

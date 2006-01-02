@@ -14,7 +14,7 @@ The Congress further finds that—
 
 &emsp;(1) true self-determination in any society of people is dependent upon an educational process which will insure the development of qualified people to fulfill meaningful leadership roles;
 
-&emsp;(2) the Federal responsibility for and assistance to education of Indian children has not effected the desired level of educational achievement or created the diverse opportunities and personal satisfaction which education can and should provide; and
+&emsp;(2) the Federal responsibility for and assistance to education of Indian children has not effected the desired level of educationalachievement or created the diverse opportunities and personal satisfaction which education can and should provide; and
 
 &emsp;(3) parental and community control of the educational process is of crucial importance to the Indian people.
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–331 substituted “Waiver of collection” for “Rebate of” in section catchline and amendedtext generally. Prior to amendment, text read as follows:
+1994—Pub. L. 103–331 substituted “Waiver of collection” for “Rebate of” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Corporation shall transfer to the Harbor Maintenance Trust Fund, at such times and under such terms and conditions as the Secretary of the Treasury may prescribe, all revenues derived from the collection of charges or tolls established under section 988 of this title.
 

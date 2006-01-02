@@ -32,7 +32,7 @@ Inspections.—The Secretary shall provide for inspections of each air carrier t
 
 (c)
 
-Commercial Airlift Review Board.—The Secretary shall establish a Commercial AirliftReview Board within the Department of Defense. The Board shall consist of personnel from the Department of Defense and other Government personnel as may be appropriate. The duties of the Board shall be—
+Commercial Airlift Review Board.—The Secretary shall establish a Commercial Airlift Review Board within the Department of Defense. The Board shall consist of personnel from the Department of Defense and other Government personnel as may be appropriate. The duties of the Board shall be—
 
 &emsp;(1) to make recommendations to the Secretary on suspension and reinstatement of air carriers under subsection (d);
 
@@ -54,7 +54,7 @@ Suspension and Reinstatement.—(1) The Secretary shall establish guidelines for
 
 (2) The Commercial Airlift Review Board shall make recommendations to the Secretary on suspension and reinstatement under this subsection.
 
-(3) The Secretary shall include in each contract subject to this section the provisions on suspension and reinstatement established under this subsection.
+(3) The Secretary shall include in each contract subject to this section the provisions onsuspension and reinstatement established under this subsection.
 
 (e)
 

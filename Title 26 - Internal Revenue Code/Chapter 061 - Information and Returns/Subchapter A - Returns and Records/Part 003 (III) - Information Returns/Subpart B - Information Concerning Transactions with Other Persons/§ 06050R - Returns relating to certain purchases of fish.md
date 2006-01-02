@@ -26,7 +26,7 @@ A return is described in this subsection if such return—
 
 #### (c) Statement to be furnished with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such a return, and
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 #### Effective Date
 
 Section 1116(b)(3) of Pub. L. 104–188 provided that: “The amendments made by this subsection \[enacting this section and amending section 6724 of this title\] shall apply to payments made after December 31, 1997.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
 

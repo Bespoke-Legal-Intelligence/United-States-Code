@@ -21,3 +21,4 @@ Pub. L. 103–43, title XX, §2008(i)(2)(B)(i), June 10, 1993, 107 Stat. 213, re
 - [&sect; 00280b&#8211;1d - National program for traumatic brain injury registries](%C2%A7%2000280b%E2%80%931d%20-%20National%20program%20for%20traumatic%20brain%20injury%20registries.md)
 - [&sect; 00280b&#8211;2 - General provisions](%C2%A7%2000280b%E2%80%932%20-%20General%20provisions.md)
 - [&sect; 00280b&#8211;3 - Authorization of appropriations](%C2%A7%2000280b%E2%80%933%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00280b&#8211;4 - Study conducted by the Centers for Disease Control and Prevention](%C2%A7%2000280b%E2%80%934%20-%20Study%20conducted%20by%20the%20Centers%20for%20Disease%20Control%20and%20Prevention.md)

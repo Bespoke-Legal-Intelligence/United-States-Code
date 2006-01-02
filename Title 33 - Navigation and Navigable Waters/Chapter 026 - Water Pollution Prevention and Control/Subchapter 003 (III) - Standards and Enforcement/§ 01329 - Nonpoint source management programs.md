@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i) of this section) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
 
-&emsp;&emsp;(F) An identification of Federal financial assistance programs and Federal development projects for which the State will review individual assistance applications or development projects for their effect on water quality pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983, to determine whether such assistance applications or development projects would be consistent with the program prepared under this subsection; for the purposes of this subparagraph, identification shall not be limited to the assistance programs or development projects subject to Executive Order 12372 but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the State's nonpoint source pollution management program.
+&emsp;&emsp;(F) An identification of Federal financial assistance programs and Federal development projects for which the State will review individual assistance applications or development projects for their effect on water quality pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983, to determine whether such assistance applications or development projects would be consistent with the program prepared under this subsection; for thepurposes of this subparagraph, identification shall not be limited to the assistance programs or development projects subject to Executive Order 12372 but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the State's nonpoint source pollution management program.
 
 #### (3) Utilization of local and private experts
 
@@ -88,7 +88,7 @@ If a State fails to submit a management program under subsection (b) of this sec
 
 #### (f) Technical assistance for States
 
-Upon request of a State, the Administrator may provide technical assistance to such Statein developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
+Upon request of a State, the Administrator may provide technical assistance to such State in developing a management program approved under subsection (b) of this section for those portions of the navigable waters requested by such State.
 
 #### (g) Interstate management conference
 
@@ -128,11 +128,11 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 &emsp;&emsp;(C) control interstate nonpoint source pollution problems; or
 
-&emsp;&emsp;(D) carry out ground water quality protection activities which the Administrator determines are part of a comprehensive nonpoint source pollution control program, including research, planning, ground water assessments, demonstration programs, enforcement, technical assistance, education, and training to protect ground water quality from nonpoint sources of pollution.
+&emsp;&emsp;(D) carry out ground water quality protection activities which the Administrator determines are part of a comprehensive nonpoint source pollution control program, including research, planning, ground waterassessments, demonstration programs, enforcement, technical assistance, education, and training to protect ground water quality from nonpoint sources of pollution.
 
 #### (6) Availability for obligation
 
-&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by theend of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
+&emsp;The funds granted to each State pursuant to this subsection in a fiscal year shall remain available for obligation by such State for the fiscal year for which appropriated. The amount of any such funds not obligated by the end of such fiscal year shall be available to the Administrator for granting to other States under this subsection in the next fiscal year.
 
 #### (7) Limitation on use of funds
 
@@ -182,7 +182,7 @@ There is authorized to be appropriated to carry out subsections (h) and (i) of t
 
 #### (k) Consistency of other programs and projects with management programs
 
-The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirementsand definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
+The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) of this section for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
 
 #### (<i>l</i>) Collection of information
 

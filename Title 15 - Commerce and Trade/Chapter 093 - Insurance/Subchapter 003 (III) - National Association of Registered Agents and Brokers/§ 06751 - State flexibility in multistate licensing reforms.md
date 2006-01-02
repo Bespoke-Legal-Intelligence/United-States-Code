@@ -28,7 +28,7 @@ States shall be deemed to have established the reciprocity required to satisfy s
 
 #### (1) Administrative licensing procedures
 
-&emsp;At least a majority of the States permit a producer that has a resident license for selling or soliciting the purchase of insurance in its home State to receive a license to sell or solicit the purchase of insurance in such majority of States as a nonresident to the same extent that such producer is permitted to sell or solicit the purchase of insurance in its State, if the producer's home State also awards such licenses on such a reciprocal basis, withoutsatisfying any additional requirements other than submitting—
+&emsp;At least a majority of the States permit a producer that has a resident license for selling or soliciting the purchase of insurance in its home State to receive a license to sell or solicit the purchase of insurance in such majority of States as a nonresident to the same extent that such producer is permitted to sell or solicit the purchase of insurance in its State, if the producer's home State also awards such licenses on such a reciprocal basis, without satisfying any additional requirements other than submitting—
 
 &emsp;&emsp;(A) a request for licensure;
 
@@ -54,7 +54,7 @@ States shall be deemed to have established the reciprocity required to satisfy s
 
 #### (1) NAIC determination
 
-&emsp;At the end of the 3-year period beginning on November 12, 1999, the National Association of Insurance Commissioners (hereafter in this subchapter referred to as the “NAIC”) shall determine, in consultation with the insurance commissioners or chief insurance regulatory officials of the States, whether the uniformity or reciprocity required by subsections (b) and (c) of this section has been achieved.
+&emsp;At the end of the 3-year period beginning on November 12, 1999, the National Association of Insurance Commissioners (hereafter in this subchapter referred to as the “NAIC”) shall determine, in consultation with the insurance commissioners or chief insurance regulatory officials of the States, whether the uniformityor reciprocity required by subsections (b) and (c) of this section has been achieved.
 
 #### (2) Judicial review
 

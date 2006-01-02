@@ -2,7 +2,7 @@
 
 #### (a) Policy of United States
 
-The Congress of the United States recognizes the vital role of free enterprise in achieving rising levels of production and standards of living essential to economic progress and development. Accordingly, it is declared to be the policy of the United States to encourage the efforts of other countries to increase the flow of international trade, to foster private initiative and competition, to encourage the development and use of cooperatives, credit unions, and savings and loan associations, to discourage monopolistic practices, to improve the technical efficiency of their industry, agriculture, and commerce, and to strengthen free labor unions; and to encourage the contribution of United States enterprise toward economic strength of less developed friendly countries, through private trade and investment abroad, private participation in programs carried out under this chapter (including the use of private trade channels to the maximum extent practicable in carrying out such programs), and exchange of ideas and technical information on the matters covered by this subsection.
+The Congress of the United States recognizes the vital role of free enterprise in achieving rising levels of production and standards of living essential to economic progress and development. Accordingly, it is declared to be the policy of the United States to encourage the efforts of other countries to increase the flow of international trade, to foster private initiative and competition, to encourage the development anduse of cooperatives, credit unions, and savings and loan associations, to discourage monopolistic practices, to improve the technical efficiency of their industry, agriculture, and commerce, and to strengthen free labor unions; and to encourage the contribution of United States enterprise toward economic strength of less developed friendly countries, through private trade and investment abroad, private participation in programs carried out under this chapter (including the use of private trade channels to the maximum extent practicable in carrying out such programs), and exchange of ideas and technical information on the matters covered by this subsection.
 
 #### (b) Action by President to facilitate participation to maximum extent
 
@@ -40,7 +40,7 @@ It is the sense of Congress that the Agency for International Development should
 
 #### (e) Contracts on basis of competitive selection procedures
 
-(1) The Congress finds that significantly greater effort must be made in carrying out programs under subchapter I of this chapter to award contracts on the basis of competitive selection procedures. All such contracts should be let on the basis of competitive selection procedures except in those limited cases in which the procurement regulations governing the agency primarily responsible for administering subchapter I of this chapter allow noncompetitive procedures to be used.
+(1) The Congress finds that significantly greater effort must be made in carrying out programsunder subchapter I of this chapter to award contracts on the basis of competitive selection procedures. All such contracts should be let on the basis of competitive selection procedures except in those limited cases in which the procurement regulations governing the agency primarily responsible for administering subchapter I of this chapter allow noncompetitive procedures to be used.
 
 (2) Repealed. Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560.
 

@@ -22,7 +22,7 @@ The conditions and covenants referred to herein shall be deemed to run with the 
 
 Act of Congress approved August 19, 1921, referred to in subsec. (a), is act Aug. 19, 1921, ch. 72, 42 Stat. 171, which is not classified to the Code.
 
-The Federal Power Act, referred to in subsec. (c), which was in the original the “Federal Water PowerAct”, is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
+The Federal Power Act, referred to in subsec. (c), which was in the original the “Federal Water Power Act”, is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
 
 #### Upper Colorado River Basin Compact
 

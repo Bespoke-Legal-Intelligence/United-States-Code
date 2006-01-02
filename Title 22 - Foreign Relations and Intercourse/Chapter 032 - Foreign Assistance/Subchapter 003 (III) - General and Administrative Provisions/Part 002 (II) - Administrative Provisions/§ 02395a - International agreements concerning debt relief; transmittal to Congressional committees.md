@@ -16,7 +16,7 @@ Section enacted as part of the International Development and Food Assistance Act
 
 #### Amendments
 
-1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiations with foreign governments regarding any debts owing to the United States.
+1981—Par. (1). Pub. L. 97–113 struck out par. (1) which required Secretary of State keep the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of Congress informed respecting any debt relief negotiationswith foreign governments regarding any debts owing to the United States.
 
 #### Change of Name
 
@@ -28,7 +28,7 @@ Section effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as 
 
 #### Actions To Provide Bilateral Debt Relief
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–311, as amended by Pub. L. 108–447, div. D, title V, §591(b), Dec. 8, 2004, 118 Stat. 3037, provided that:
+Pub. L. 106–113, div. B, §1000(a)(5) \[title V, §501\], Nov. 29, 1999, 113 Stat. 1536, 1501A–311, as amended by Pub. L. 108–447, div. D, title V, §591(b), Dec. 8, 2004, 118 Stat. 3037; Pub. L. 109–102, title V, §578, Nov. 14, 2005, 119 Stat. 2232, provided that:
 
 “(a)
 
@@ -42,9 +42,11 @@ Provisions of Law.—The provisions of law referred to in subsection (a) are the
 
 &emsp;“(2) The Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
-&emsp;“(3) Section 5(f) of the Commodity Credit Corporation Charter Act \[15 U.S.C. 714c(f)\], section 201 of theAgricultural Trade Act of 1978 (7 U.S.C. 5621), or section 202 of such Act (7 U.S.C. 5622), or predecessor provisions under the Food for Peace Act of 1966.
+&emsp;“(3) Section 5(f) of the Commodity Credit Corporation Charter Act \[15 U.S.C. 714c(f)\], section 201 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621), or section 202 of such Act (7 U.S.C. 5622), or predecessor provisions under the Food for Peace Act of 1966.
 
 &emsp;“(4) Title I of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1701 et seq.).
+
+&emsp;“(5) The Act of March 11, 1941 (chapter 11; 55 Stat. 31; 22 U.S.C. 411 et seq.; commonly known as the ‘Lend-Lease Act’).
 
 “(c)
 
@@ -108,7 +110,7 @@ Authorization of Appropriations.—For the cost (as defined in section 502(5) of
 
 “(j)
 
-Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, which shall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
+Annual Reports to the Congress.—Not later than December 31 of each year, the President shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], Appropriations, and International Relations of the House of Representatives, and the Committees on Banking, Housing, and Urban Affairs, Foreign Relations, and Appropriations of the Senate a report, whichshall be made available to the public, concerning the cancellation of debt under subsection (a), and a detailed description of debt relief provided by the United States as a member of the Paris Club of Official Creditors for the prior fiscal year.”
 
 \[Pub. L. 108–447, §591(b), which directed amendment of section 501(i) of Public Law 106–113 by substituting “2000–2006” for “2003–2004”, was executed in section 1000(a)(5) \[title V, §501\] of div. B of Pub. L. 106–113, set out above, by making substitution for “2000 through 2004”, to reflect the probable intent of Congress.\]
 

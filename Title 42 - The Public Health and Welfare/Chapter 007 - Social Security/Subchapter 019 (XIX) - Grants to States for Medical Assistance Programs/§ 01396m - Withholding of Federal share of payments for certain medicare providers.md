@@ -18,7 +18,7 @@ The Secretary shall not make any adjustment in the payment to a State, nor requi
 
 #### (d) Regulations
 
-The Secretary shall by regulation provide procedures for implementation of this section, which procedures shall (1) determine the amount of the Federal payment to which the institutionor person would otherwise be entitled under this section which shall be treated as a setoff against overpayments under subchapter XVIII of this chapter, and (2) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XVIII of this chapter and to which the institution or person would otherwise be entitled under this subchapter.
+The Secretary shall by regulation provide procedures for implementation of this section,which procedures shall (1) determine the amount of the Federal payment to which the institution or person would otherwise be entitled under this section which shall be treated as a setoff against overpayments under subchapter XVIII of this chapter, and (2) assure the restoration to the institution or person of amounts withheld under this section which are ultimately determined to be in excess of overpayments under subchapter XVIII of this chapter and to which the institution or person would otherwise be entitled under this subchapter.
 
 #### (e) Restoration to trust funds of recovered amounts
 

@@ -54,13 +54,9 @@ Amendment by Pub. L. 99–514 applicable to dividends received or accrued after 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) ofPub. L. 95–600, set out as a note under section 11 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 301(c) of Pub. L. 95–600, set out as a note under section 11 of this title.
 
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–272 applicable to dividends received in taxable years ending after Dec. 31, 1963, see section 214(c) of Pub. L. 88–272, set out as a note under section 243 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 172, 243, 246, 246A, 247, 263, 277, 301, 469, 512, 805, 810, 812, 815, 832, 833, 1059, 1244 of this title.
 

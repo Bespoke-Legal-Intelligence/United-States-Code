@@ -6,7 +6,7 @@
 
 (b)(1) Except as provided in paragraph (2) of this subsection, a petition to review a final order or final decision of the Board shall be filed in the United States Court of Appeals for the Federal Circuit. Notwithstanding any other provision of law, any petition for review must be filed within 60 days after the date the petitioner received notice of the final order or decision of the Board.
 
-(2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
+(2) Cases of discrimination subject to the provisions of section 7702 of this title shall be filed under section 717(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16(c)), section 15(c) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(c)), and section 16(b) of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 216(b)), as applicable. Notwithstanding any other provision of law, any such case filed under any such section must be filed within 30 days after the date the individual filing the case received notice of the judicially reviewable action under such section 7702.
 
 (c) In any case filed in the United States Court of Appeals for the Federal Circuit, the court shall review the record and hold unlawful and set aside any agency action, findings, or conclusions found to be—
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 

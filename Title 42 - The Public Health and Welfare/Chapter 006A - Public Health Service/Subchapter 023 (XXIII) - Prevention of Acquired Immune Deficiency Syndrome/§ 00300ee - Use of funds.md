@@ -24,5 +24,5 @@ Subsection (c) of this section may not be construed to restrict the ability of a
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 

@@ -22,7 +22,7 @@
 
 #### (C) Ratable reduction
 
-&emsp;&emsp;If the funds described in subparagraph (A) are insufficient to pay the full amounts that all local educational agencies in the State are eligible to receive under subparagraph (A) for any fiscal year, the State educationalagency shall ratably reduce such amounts for the fiscal year.
+&emsp;&emsp;If the funds described in subparagraph (A) are insufficient to pay the full amounts that all local educational agencies in the State are eligible to receive under subparagraph (A) for any fiscal year, the State educational agency shall ratably reduce such amounts for the fiscal year.
 
 #### (3) Allocation of additional funds
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) occurs in a manner which would require notification under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\].
 
-> &emsp;Unless and until superseded by regulations establishing a quantity for an extremely hazardous substance described in this paragraph, a quantity of 1 pound shall be deemed that quantity the release of which requires notice as described in subsection (b) of this section.
+> &emsp;Unless and until superseded by regulations establishing a quantity for an extremely hazardous substance described in this paragraph, aquantity of 1 pound shall be deemed that quantity the release of which requires notice as described in subsection (b) of this section.
 
 #### (3) Non-11002(a) substance which requires CERCLA notice
 

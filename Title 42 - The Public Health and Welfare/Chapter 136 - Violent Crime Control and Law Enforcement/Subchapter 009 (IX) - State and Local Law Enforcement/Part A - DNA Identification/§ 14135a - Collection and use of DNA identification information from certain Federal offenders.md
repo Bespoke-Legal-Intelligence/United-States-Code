@@ -4,7 +4,9 @@
 
 #### (1) From individuals in custody
 
-&emsp;The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under section 1565 of title 10.
+&emsp;(A) The Attorney General may, as prescribed by the Attorney General in regulation, collect DNA samples from individuals who are arrested or from non-United States persons who are detained under the authority of the United States. The Attorney General may delegatethis function within the Department of Justice as provided in section 510 of title 28 and may also authorize and direct any other agency of the United States that arrests or detains individuals or supervises individuals facing charges to carry out any function and exercise any power of the Attorney General under this section.
+
+&emsp;(B) The Director of the Bureau of Prisons shall collect a DNA sample from each individual in the custody of the Bureau of Prisons who is, or has been, convicted of a qualifying Federal offense (as determined under subsection (d) of this section) or a qualifying military offense, as determined under section 1565 of title 10.
 
 #### (2) From individuals on release, parole, or probation
 
@@ -12,13 +14,13 @@
 
 #### (3) Individuals already in CODIS
 
-&emsp;For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected from that individual under section 1565 of title 10, the Director of the Bureau of Prisons or the probation office responsible (as applicable) may (but need not) collect a DNA sample from that individual.
+&emsp;For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected from that individual under section 1565 of title 10, the Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may (but need not) collect a DNA sample from that individual.
 
 #### (4) Collection procedures
 
-&emsp;(A) The Director of the Bureau of Prisons or the probation office responsible (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
+&emsp;(A) The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) may use or authorize the use of such means as are reasonably necessary to detain, restrain, and collect a DNA sample from an individual who refuses to cooperate in the collection of the sample.
 
-&emsp;(B) The Director of the Bureau of Prisons or the probation office, as appropriate, may enter into agreements with units of State or local government or with private entities to provide for the collection of the samples described in paragraph (1) or (2).
+&emsp;(B) The Attorney General, the Director of the Bureau of Prisons, or the probation office, as appropriate, may enter into agreements with units of State or local government or with private entities to provide for the collection of the samples described in paragraph (1) or (2).
 
 #### (5) Criminal penalty
 
@@ -30,7 +32,7 @@
 
 #### (b) Analysis and use of samples
 
-The Director of the Bureau of Prisons or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
+The Attorney General, the Director of the Bureau of Prisons, or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
 
 #### (c) Definitions
 
@@ -66,13 +68,19 @@ The offenses that shall be treated for purposes of this section as qualifying Fe
 
 Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
-(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115Stat. 364; Pub. L. 108–405, title II, §203(b), Oct. 30, 2004, 118 Stat. 2270.)
+(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–405, title II, §203(b), Oct. 30, 2004, 118 Stat. 2270; Pub. L. 109–162, title X, §1004(a), Jan. 5, 2006, 119 Stat. 3085.)
 
 #### Codification
 
 Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–162, §1004(a)(1), added subpar. (A) and designated existing provisions as subpar. (B).
+
+Subsec. (a)(3), (4). Pub. L. 109–162, §1004(a)(1)(B), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons” in par. (3) and subpars. (A) and (B) of par. (4).
+
+Subsec. (b). Pub. L. 109–162, §1004(a)(2), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons”.
 
 2004—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally, substituting pars. (1) to (4) for former pars. (1) and (2) with multiple subpars. listing specific offenses.
 

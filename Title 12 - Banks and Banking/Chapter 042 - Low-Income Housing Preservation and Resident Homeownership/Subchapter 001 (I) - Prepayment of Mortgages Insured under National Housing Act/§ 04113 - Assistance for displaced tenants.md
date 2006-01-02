@@ -16,7 +16,7 @@ The Secretary shall coordinate with public housing agencies to ensure that any v
 
 #### (2) Provision of assistance by owner
 
-&emsp;In any case in which the Secretary requires an owner to allow tenants to occupy units under paragraph (1), an owner may fulfill the requirements of such paragraph by providing such assistance necessary for the tenant to rent a decent, safe, and sanitary unit in another project for the same period and at a rental cost to the tenant not in excess of the rental amount the tenant would have been required to pay in the housing of the owner, except that the tenant must freely agree to waive the right to occupy the unit in the owner's housing.
+&emsp;In any case in which the Secretary requires an owner to allow tenants to occupy units under paragraph (1), an owner may fulfill the requirements of such paragraph by providing such assistance necessary for the tenant torent a decent, safe, and sanitary unit in another project for the same period and at a rental cost to the tenant not in excess of the rental amount the tenant would have been required to pay in the housing of the owner, except that the tenant must freely agree to waive the right to occupy the unit in the owner's housing.
 
 #### (3) Applicability to low-vacancy areas and special needs tenants
 
@@ -38,7 +38,7 @@ In providing assistance under this section, the Secretary shall allocate the ass
 
 #### (1) Authority
 
-&emsp;In lieu of benefits under subsections (b), (c), and (d) of this section, and subject to theavailability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under section 1437f(t) of title 42.
+&emsp;In lieu of benefits under subsections (b), (c), and (d) of this section, and subject to the availability of appropriated amounts, each family described in paragraph (2) shall be offered enhanced voucher assistance under section 1437f(t) of title 42.
 
 #### (2) Eligible families
 

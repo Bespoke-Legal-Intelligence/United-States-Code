@@ -19,4 +19,5 @@
 - [&sect; 00957a - Omitted](%C2%A7%2000957a%20-%20Omitted.md)
 - [&sect; 00958 - Federal Council on the Arts and the Humanities](%C2%A7%2000958%20-%20Federal%20Council%20on%20the%20Arts%20and%20the%20Humanities.md)
 - [&sect; 00959 - Administrative provisions](%C2%A7%2000959%20-%20Administrative%20provisions.md)
+- [&sect; 00959a - Gifts, bequests, and devises](%C2%A7%2000959a%20-%20Gifts%2C%20bequests%2C%20and%20devises.md)
 - [&sect; 00960 - Authorization of appropriations](%C2%A7%2000960%20-%20Authorization%20of%20appropriations.md)

@@ -30,7 +30,7 @@ Hearing.—If the Board determines either that the agreement or combination is o
 
 &emsp;(4)
 
-Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest of better service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried outunder agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
+Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest of better service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried out under agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
 
 &emsp;(5)
 

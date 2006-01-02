@@ -8,7 +8,7 @@
 
 #### (2) Review and comment by certain individuals and entities
 
-&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) ofthis section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
+&emsp;If, after a reasonable effort, the Governor is unable in accordance with subsection (d)(4) of this section to obtain the support of the individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the State plan described in subsection (d) of this section, then the Governor shall—
 
 &emsp;&emsp;(A) provide such individuals and entities with copies of such application;
 
@@ -76,7 +76,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;(4) demonstrate the support of individuals and entities described in subparagraphs (A) through (J) of subsection (b)(4) of this section for the plan, except in the case where the Governor is unable to obtain the support of such individuals and entities as provided in subsection (a)(2) of this section;
 
-&emsp;(5) describe the manner in which the State has obtained and will continue to obtain the active and continued involvement, in the statewide School-to-Work Opportunities system, of employers and other interested parties such as locally elected officials, secondary schools and postsecondary educational institutions (or related agencies), business associations, industrial extension centers, employees, labor organizations or associations of such organizations, teachers, related services personnel, students, parents, community-based organizations, rehabilitation agencies and organizations, registered apprenticeship agencies, local vocational educational agencies, vocational student organizations, State or regional cooperative education associations, and human service agencies;
+&emsp;(5) describe the manner in which the State has obtained and will continue to obtain the active and continued involvement, in the statewide School-to-Work Opportunities system, of employers and other interested parties such as locally elected officials, secondary schools and postsecondary educational institutions (or related agencies), business associations, industrial extension centers, employees,labor organizations or associations of such organizations, teachers, related services personnel, students, parents, community-based organizations, rehabilitation agencies and organizations, registered apprenticeship agencies, local vocational educational agencies, vocational student organizations, State or regional cooperative education associations, and human service agencies;
 
 &emsp;(6) describe the manner in which the statewide School-to-Work Opportunities system will coordinate with or integrate local school-to-work programs in existence on or after May 4, 1994, including programs financed from State and private sources, with funds available from such related Federal programs as programs under—
 
@@ -92,7 +92,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;&emsp;(F) the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\];
 
-&emsp;&emsp;(G) the National Skills <sup>2</sup> Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
+&emsp;&emsp;(G) the National Skills <sup>2</sup> Standards Act of 1994; <sup>2</sup>
 
 &emsp;&emsp;(H) the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
 
@@ -106,7 +106,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;(7) describe the strategy of the State for providing training for teachers, employers, mentors, counselors, related services personnel, and others, including specialized training and technical support for the counseling and training of women, minorities, and individuals with disabilities for high-skill, high-wage careers in nontraditional employment, and provide assurances of coordination with similar training and technical support under other provisions of law;
 
-&emsp;(8) describe how the State will adopt, develop, or assist local partnerships to adopt or develop model curricula and innovative instructional methodologies, to be used in the secondary, and where possible, the elementary grades, that integrate academic and vocational learning and promote career awareness, and that are consistent with academic and skill standards established pursuant to the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] and the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
+&emsp;(8) describe how the State will adopt, develop, or assist local partnerships to adopt or develop model curricula and innovative instructional methodologies, to be used in the secondary, and where possible, the elementary grades, that integrate academic and vocational learning and promote career awareness, and that are consistent with academic and skill standards established pursuant to the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] and the National Skill Standards Act of 1994; <sup>1</sup>
 
 &emsp;(9) describe how the State will expand and improve career and academic counseling in the elementary and secondary grades, which may include linkages to career counseling and labor market information services outside of the school system;
 
@@ -122,7 +122,7 @@ A State plan referred to in subsection (b)(1) of this section shall—
 
 &emsp;(15) describe how the State will ensure opportunities for low achieving students, students with disabilities, school dropouts, and academically talented students to participate in School-to-Work Opportunities programs;
 
-&emsp;(16) describe the process of the State for assessing the skills and knowledge required in career majors, and the process for awarding skill certificates that is, to the extent feasible, consistent with the skills standards certification systems endorsed under the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\];
+&emsp;(16) describe the process of the State for assessing the skills and knowledge required in career majors, and the process for awarding skill certificates that is, to the extent feasible, consistent with the skills standards certification systems endorsed under the National Skill Standards Act of 1994; <sup>1</sup>
 
 &emsp;(17) describe the manner in which the State will ensure that students participating in the programs are provided, to the greatest extent possible, with flexibility to develop new career goals over time and to change career majors;
 
@@ -156,7 +156,7 @@ The Higher Education Act of 1965, referred to in subsec. (d)(6)(D), is Pub. L. 8
 
 The Social Security Act, referred to in subsec. (d)(6)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The National Skill Standards Act of 1994, referred to in subsec. (d)(6)(G), (8), (16), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
+The National Skill Standards Act of 1994, referred to in subsec. (d)(6)(G), (8), (16), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which was classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title, prior to repeal by section 509(a) of Pub. L. 103–227, effective Sept. 30, 1999. For complete classification of this Act to the Code, see Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d)(6)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
@@ -176,5 +176,5 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Skill”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “Skill”. See References in Text note below.</i>
 

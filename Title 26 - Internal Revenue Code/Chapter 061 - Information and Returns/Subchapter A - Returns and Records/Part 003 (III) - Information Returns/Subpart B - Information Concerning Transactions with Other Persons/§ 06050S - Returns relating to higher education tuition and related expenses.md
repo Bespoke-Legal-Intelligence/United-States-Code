@@ -28,7 +28,7 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;(B) the—
 
-&emsp;&emsp;&emsp;(i) aggregate amount of payments received or the aggregate amount billed forqualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
+&emsp;&emsp;&emsp;(i) aggregate amount of payments received or the aggregate amount billed for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
 
 &emsp;&emsp;&emsp;(ii) aggregate amount of grants received by such individual for payment of costs of attendance that are administered and processed by the institution during such calendar year,
 
@@ -56,7 +56,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the amounts described in subparagraph (B) of subsection (b)(2).
 
-> The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
+> The written statement required under the preceding sentence shall be furnished on or beforeJanuary 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
 #### (e) Definitions
 
@@ -161,8 +161,4 @@ Amendment by section 202(c) of Pub. L. 105–34 applicable to any qualified educ
 #### Effective Date
 
 Section applicable to expenses paid after Dec. 31, 1997 (in taxable years ending after such date) for education furnished in academic periods beginning after such date, see section 201(f) of Pub. L. 105–34, set out as a note under section 25A of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
 

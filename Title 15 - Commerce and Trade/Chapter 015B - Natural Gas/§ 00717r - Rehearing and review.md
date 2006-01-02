@@ -6,19 +6,47 @@ Any person, State, municipality, or State commission aggrieved by an order issue
 
 #### (b) Review of Commission order
 
-Any party to a proceeding under this chapter aggrieved by an order issued by the Commission in such proceeding may obtain a review of such order in the court of appeals of the United States for any circuit wherein the natural-gas company to which the order relates is located or has its principal place of business, or in the United States Court of Appeals for the District of Columbia, by filing in such court, within sixty days after the order of the Commission upon the application for rehearing, a written petition praying that the order of the Commission be modified or set aside in whole or in part. A copy of such petition shall forthwith be transmitted by the clerk of the court to any member of the Commission and thereupon the Commission shall file with the court the record upon which the order complained of was entered, as provided in section 2112 of title 28. Upon the filing of such petition such court shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to affirm, modify, or set aside such order in whole or in part. No objection to the order of the Commission shall be considered by the court unless such objection shall have been urged before the Commission in the application for rehearing unless there is reasonable ground for failure so to do. The finding of the Commission as to the facts, if supported by substantial evidence, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceedings before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts by reason of the additional evidence so taken, and it shall file with the court such modified or new findings, which is supported by substantial evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of the original order. The judgment and decree of the court, affirming, modifying, or setting aside, in whole or in part, any such order of the Commission, shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+Any party to a proceeding under this chapter aggrieved by an order issued by the Commissionin such proceeding may obtain a review of such order in the court of appeals of the United States for any circuit wherein the natural-gas company to which the order relates is located or has its principal place of business, or in the United States Court of Appeals for the District of Columbia, by filing in such court, within sixty days after the order of the Commission upon the application for rehearing, a written petition praying that the order of the Commission be modified or set aside in whole or in part. A copy of such petition shall forthwith be transmitted by the clerk of the court to any member of the Commission and thereupon the Commission shall file with the court the record upon which the order complained of was entered, as provided in section 2112 of title 28. Upon the filing of such petition such court shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to affirm, modify, or set aside such order in whole or in part. No objection to the order of the Commission shall be considered by the court unless such objection shall have been urged before the Commission in the application for rehearing unless there is reasonable ground for failure so to do. The finding of the Commission as to the facts, if supported by substantial evidence, shall be conclusive. If any party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence in the proceedings before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts by reason of the additional evidence so taken, and it shall file with the court such modified or new findings, which is supported by substantial evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of the original order. The judgment and decree of the court, affirming, modifying, or setting aside, in whole or in part, any such order of the Commission, shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 #### (c) Stay of Commission order
 
 The filing of an application for rehearing under subsection (a) of this section shall not, unless specifically ordered by the Commission, operate as a stay of the Commission's order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
 
-(June 21, 1938, ch. 556, §19, 52 Stat. 831; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §19, Aug. 28, 1958, 72 Stat. 947.)
+#### (d) Judicial review
+
+#### (1) In general
+
+&emsp;The United States Court of Appeals for the circuit in which a facility subject to section 717b of this title or section 717f of this title is proposed to be constructed, expanded, or operated shall have original and exclusive jurisdiction over any civil action for the review of an order or action of a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law to issue, condition, or deny any permit, license, concurrence, or approval (hereinafter collectively referred to as “permit”) required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+
+#### (2) Agency delay
+
+&emsp;The United States Court of Appeals for the District of Columbia shall have original and exclusive jurisdiction over any civil action for the review of an alleged failure to act by a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law to issue, condition, or deny any permit required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.), for a facility subject to section 717b of this title or section 717f of this title. The failure of an agency to take action on a permit required under Federal law, other than the Coastal Zone Management Act of 1972, in accordance with the Commission schedule established pursuant to section 717n(c) of this title shall be considered inconsistent with Federal law for the purposes of paragraph (3).
+
+#### (3) Court action
+
+&emsp;If the Court finds that such order or action is inconsistent with the Federal law governing such permit and would prevent the construction, expansion, or operation of the facility subject to section 717b of this title or section 717f of this title, the Court shall remand the proceeding to the agency to take appropriate action consistent with the order of the Court. If the Court remands the order or action to the Federal or State agency, the Court shall set a reasonable schedule and deadline for the agency to act on remand.
+
+#### (4) Commission action
+
+&emsp;For any action described in this subsection, the Commission shall file with the Court the consolidated record of such order or action to which the appeal hereunder relates.
+
+#### (5) Expedited review
+
+&emsp;The Court shall set any action brought under this subsection for expedited consideration.
+
+(June 21, 1938, ch. 556, §19, 52 Stat. 831; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §19, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title III, §313(b), Aug. 8, 2005, 119 Stat. 689.)
+
+#### References in Text
+
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 #### Codification
 
 In subsec. (b), “section 1254 of title 28” substituted for “sections 239 and 240 of the Judicial Code, as amended \[28 U.S.C. 346, 347\]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 
 1958—Subsec. (a). Pub. L. 85–791, §19(a), inserted sentence providing that until record in a proceeding has been filed in a court of appeals, Commission may modify or set aside any finding or order issued by it.
 
@@ -27,10 +55,4 @@ Subsec. (b). Pub. L. 85–791, §19(b), in second sentence, substituted “trans
 #### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals” wherever appearing.
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-For transfer of functions of Federal Power Commission, with certain reservations, to Chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 

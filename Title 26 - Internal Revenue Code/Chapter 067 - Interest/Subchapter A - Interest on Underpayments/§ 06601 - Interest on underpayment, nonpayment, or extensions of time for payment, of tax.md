@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If any amount of tax imposed by this title (whether required to be shown on a return, or to be paid by stamp or by some other method) is not paid on or before the last date prescribed for payment, interest on such amount at the underpayment rate established under section 6621 shall be paid for the period from such last date to the date paid.
+If any amount of tax imposed by this title (whether required to be shown on a return, or tobe paid by stamp or by some other method) is not paid on or before the last date prescribed for payment, interest on such amount at the underpayment rate established under section 6621 shall be paid for the period from such last date to the date paid.
 
 #### (b) Last date prescribed for payment
 
@@ -14,9 +14,9 @@ For purposes of this section, the last date prescribed for payment of the tax sh
 
 #### (2) Installment payments
 
-&emsp;In the case of an election under section 6156(a) to pay the tax in installments—
+&emsp;In the case of an election under section 6156(a) <sup>1</sup> to pay the tax in installments—
 
-&emsp;&emsp;(A) The date prescribed for payment of each installment of the tax shown on the return shall be determined under section 6156(b), and
+&emsp;&emsp;(A) The date prescribed for payment of each installment of the tax shown on the return shall be determined under section 6156(b),<sup>1</sup> and
 
 &emsp;&emsp;(B) The last date prescribed for payment of the first installment shall be deemed the last date prescribed for payment of any portion of the tax not shown on the return.
 
@@ -58,7 +58,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (4) Filing date
 
-&emsp;For purposes of this subsection, the term “filing date” has the meaning given to such term by section 6611(f)(3)(A).<sup>1</sup>
+&emsp;For purposes of this subsection, the term “filing date” has the meaning given to such term by section 6611(f)(4)(A).
 
 #### (e) Applicable rules
 
@@ -66,7 +66,7 @@ Except as otherwise provided in this title—
 
 #### (1) Interest treated as tax
 
-&emsp;Interest prescribed under this section on any tax shall be paid upon notice and demand, and shall be assessed, collected, and paid in the same manner as taxes. Any reference to this title (except subchapter B of chapter 63, relating to deficiency procedures) to any tax imposed by this title shall be deemed also to refer to interest imposed by this section on such tax.
+&emsp;Interest prescribed under this section on any tax shall be paid upon notice and demand, andshall be assessed, collected, and paid in the same manner as taxes. Any reference to this title (except subchapter B of chapter 63, relating to deficiency procedures) to any tax imposed by this title shall be deemed also to refer to interest imposed by this section on such tax.
 
 #### (2) Interest on penalties, additional amounts, or additions to the tax
 
@@ -136,23 +136,25 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### (4) Treatment of payments
 
-&emsp;If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amount of the tax which is extended as provided in section 6166.
+&emsp;If the amount of tax imposed by chapter 11 which is extended as provided in section 6166 exceeds the 2-percent portion, any payment of a portion of such amount shall, for purposes of computing interest for periods after such payment, be treated as reducing the 2-percent portion by an amount which bears the same ratio to the amount of such payment as the amount of the 2-percent portion (determined without regard to this paragraph) bears to the amountof the tax which is extended as provided in section 6166.
 
 #### (k) No interest on certain adjustments
 
 &emsp;&emsp;<b>For provisions prohibiting interest on certain adjustments in tax, see section 6205(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, §203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, §2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, §1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, §2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, §2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, §601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, §1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, §7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, §3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, §202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, §231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, §10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, §7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, §303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§501(e), 503(a), (c)(2), (3), title X, §1055(a), title XII, §1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, §3301(b), July 22, 1998, 112 Stat. 741.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 817; Pub. L. 85–866, title I, §§66(c), 83(a)(1), 84(a), title II, §206(e), Sept. 2, 1958, 72 Stat. 1658, 1663, 1664, 1685; Pub. L. 87–61, title II, §203(c)(2), June 29, 1961, 75 Stat. 126; Pub. L. 87–834, §2(e)(3), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(d), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–384, §1(f), Apr. 8, 1966, 80 Stat. 104; Pub. L. 90–225, §2(e), Dec. 27, 1967, 81 Stat. 731; Pub. L. 91–53, §2(e), Aug. 7, 1969, 83 Stat. 92; Pub. L. 91–172, title I, §101(j)(49), title V, §512(e)(3), Dec. 30, 1969, 83 Stat. 531, 641; Pub. L. 92–178, title VI, §601(d)(3), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–406, title II, §1016(a)(17), Sept. 2, 1974, 88 Stat. 930; Pub. L. 93–625, §7(a)(2)(A), (b)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–452, §3(c)(3), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIII, §1307(d)(2)(H), title XVI, §1605(b)(10), title XIX, §§1906(a)(34), (b)(13)(A), title XX, §2004(b), title XXI, §2107(g)(2)(C), Oct. 4, 1976, 90 Stat. 1728, 1755, 1829, 1834, 1867, 1904; Pub. L. 95–30, title II, §202(d)(4)(C), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(2), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(f)(7), Apr. 2, 1980, 94 Stat. 253; Pub. L. 97–248, title III, §§344(b)(1), 346(c)(2), Sept. 3, 1982, 96 Stat. 635, 637; Pub. L. 98–76, title II, §231(b)(2)(D), Aug. 12, 1983, 97 Stat. 429; Pub. L. 98–369, div. A, title I, §158(a), title II, §211(b)(26), title IV, §412(b)(7), title VII, §714(n)(1), July 18, 1984, 98 Stat. 696, 757, 792, 963; Pub. L. 99–514, title XIV, §1404(c)(3), title XV, §§1511(c)(11), 1512(a), 1564(a), Oct. 22, 1986, 100 Stat. 2714, 2745, 2746, 2762; Pub. L. 100–203, title X, §10301(b)(5), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §§1015(b)(2)(C), 1018(u)(42), title VI, §6234(b)(1), title VII, §7106(c)(5), Nov. 10, 1988, 102 Stat. 3569, 3592, 3736, 3774; Pub. L. 101–239, title VII, §7721(c)(8), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11801(c)(20)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 104–168, title III, §303(a), (b)(1), July 30, 1996, 110 Stat. 1458; Pub. L. 105–34, title V, §§501(e), 503(a), (c)(2), (3), title X, §1055(a), title XII, §1242(a), Aug. 5, 1997, 111 Stat. 846, 852, 853, 944, 1029; Pub. L. 105–206, title III, §3301(b), July 22, 1998, 112 Stat. 741; Pub. L. 109–135, title IV, §409(a)(2), Dec. 21, 2005, 119 Stat. 2635.)
 
 #### Adjustment of Dollar Amount Used in Determining “2-Percent Portion”
 
-<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsection (j) of this section in the case of decedents dying in calendar year 2004, see section 3.32 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsection (j) of this section in the case of decedents dying in calendar year 2006, see section 3.35 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
-Section 6611(f)(3)(A), referred to in subsec. (d)(4), was redesignated section 6611(f)(4)(A) of this title by Pub. L. 105–34, title X, §1055(b)(1), Aug. 5, 1997, 111 Stat. 944.
+Section 6156, referred to in subsec. (b)(2), was repealed by Pub. L. 108–357, title VIII, §867(b)(1), Oct. 22, 2004, 118 Stat. 1622.
 
 #### Amendments
+
+2005—Subsec. (d)(4). Pub. L. 109–135 substituted “6611(f)(4)(A)” for “6611(f)(3)(A)”.
 
 1998—Subsec. (f). Pub. L. 105–206 inserted at end “The preceding sentence shall not apply to the extent that section 6621(d) applies.”
 
@@ -242,7 +244,7 @@ Subsecs. (j), (k). Pub. L. 94–455, §2004(b), added subsec. (j) and redesignat
 
 1975—Subsec. (a). Pub. L. 93–625, §7(a)(2)(A), substituted “an annual rate established under section 6621” for “the rate of 6 percent per annum”.
 
-Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to\(h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (<i>l</i>) as (i) and (j), respectively.
+Subsecs. (b) to (<i>l</i>). Pub. L. 93–625, §7(b)(1), struck out subsec. (b) relating to extensions of time for payment of estate tax, redesignated subsecs. (c) to (i) as (b) to (h), respectively, struck out subsec. (j) relating to extensions of time for payment of tax attributable to recoveries of foreign expropriation losses, and redesignated subsecs. (k) and (<i>l</i>) as (i) and (j), respectively.
 
 1974—Subsec. (d). Pub. L. 93–406 inserted reference to chapter 43 in heading, and substituted “certain excise” for “chapter 42” in text.
 
@@ -269,6 +271,10 @@ Subsecs. (k), (<i>l</i>). Pub. L. 91–53 added subsec. (k) and redesignated for
 1958—Subsec. (b). Pub. L. 85–866, §§66(c), 206(e), inserted reference to section 6166, and substituted “if the time for payment of an amount of such tax is postponed or extended as provided by section 6163” for “if postponement of the payment of an amount of such tax is permitted by section 6163(a)”.
 
 Subsecs. (g) to (j). Pub. L. 85–866, §§83(a)(1), 84(a), added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 409(d) of Pub. L. 109–135, set out as a note under section 961 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -334,7 +340,7 @@ Effective date.—The amendment made by subsection (a) \[amending this section\]
 
 “(2)
 
-Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at anytime before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period.”
+Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period.”
 
 #### Effective Date of 1984 Amendment
 
@@ -422,7 +428,7 @@ For effective date of amendment by section 206(e) of Pub. L. 85–866, see secti
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Administration of Penalties and Interest
 
@@ -444,11 +450,7 @@ Section 946(a) of Pub. L. 91–172 provided that in the case of any taxable year
 
 #### Interest Attributable to Net Operating Loss Carryback for Certain Taxable Years Ending in 1954
 
-Section 83(e) of Pub. L. 85–866 provided that if by reason of the enactment of section 172(b)(1)(A) of this title, a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 163, 815, 860, 936, 995, 1016, 1260, 1291, 1363, 2053, 5684, 6166, 6167, 6504, 6621, 7404, 7518 of this title; title 29 section 1307; title 46 App. section 1177.
+Section 83(e) of Pub. L. 85–866 provided that if by reason of the enactment of section 172(b)(1)(A) of this title,a deficiency resulted for the first taxable year preceding a taxable year ending after Dec. 31, 1953 but before Aug. 17, 1954 and an overpayment resulted in the second preceding taxable year, then no interest was payable for any portion of such deficiency for any period during which there existed a corresponding overpayment to which interest was not payable.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

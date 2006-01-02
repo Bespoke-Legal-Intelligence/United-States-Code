@@ -28,7 +28,7 @@ In this chapter:
 
 &emsp;The term “involuntary servitude” includes a condition of servitude induced by means of—
 
-&emsp;&emsp;(A) any scheme, plan, or pattern intended to cause a person to believe that, if the person did not enter into or continue in such condition, that person or another person would suffer serious harm or physical restraint; or
+&emsp;&emsp;(A) any scheme, plan, or pattern intended to cause a person to believe that, if the person did not enter into or continue in suchcondition, that person or another person would suffer serious harm or physical restraint; or
 
 &emsp;&emsp;(B) the abuse or threatened abuse of the legal process.
 
@@ -100,7 +100,7 @@ In this chapter:
 
 The Foreign Assistance Act of 1961, referred to in par. (7)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. Chapter 1, title IV of chapter 2, chapter 8, and chapter 9 of part I of the Act are classified generally to part I (§2151 et seq.), subpart iv (§2191 et seq.) of part II, part VIII (§2291 et seq.), and part IX (§2292 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapters 4, 5, and 8 of part II of the Act are classified generally to part IV (§2346 et seq.), part V (§2347 et seq.), and part VIII (§2349aa et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-Chapters 1 and 10 of that Act, referred to in par. (7)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§2151 et seq.) and X (§2293 et seq.), respectively, of subchapter I of chapter 32 of this title. For complete classification of these chapters to the Code, see Tables.
+Chapters 1 and 10 of that Act, referred to in par. (7)(A)(vii), probably means chapters 1 and 10 of part I of the Foreign Assistance Act of 1961, which are classified generally to parts I (§2151 et seq.) and X (§2293 et seq.), respectively, of subchapter I of chapter 32 of this title.For complete classification of these chapters to the Code, see Tables.
 
 The Arms Export Control Act, referred to in par. (7)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

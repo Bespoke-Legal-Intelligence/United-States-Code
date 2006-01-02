@@ -4,6 +4,7 @@
 | :--- | :---: | ---: |
 | [<b>1601.</b>](Chapter%201601%20-%20Training%20Generally/README.md) | <b>Training Generally. \[No present sections\]</b> |  |
 | [<b>1606.</b>](Chapter%201606%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md) | <b>Educational Assistance for Members of the Selected Reserve</b> | <b>16131</b> |
+| [<b>1607.</b>](Chapter%201607%20-%20Educational%20Assistance%20for%20Reserve%20Component%20Members%20Supporting%20Contingency%20Operations%20and%20Certain%20Other%20Operations/README.md) | <b>Educational Assistance for Reserve Component Members Supporting Contingency Operations and Certain Other Operations</b> | <b>16161</b> |
 | [<b>1608.</b>](Chapter%201608%20-%20Health%20Professions%20Stipend%20Program/README.md) | <b>Health Professions Stipend Program</b> | <b>16201</b> |
 | [<b>1609.</b>](Chapter%201609%20-%20Education%20Loan%20Repayment%20Programs/README.md) | <b>Education Loan Repayment Programs</b> | <b>16301</b> |
 | [<b>1611.</b>](Chapter%201611%20-%20Other%20Educational%20Assistance%20Programs/README.md) | <b>Other Educational Assistance Programs</b> | <b>16401</b> |
@@ -11,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
 
 1999—Pub. L. 106–65, div. A, title V, §551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
 
@@ -23,6 +26,7 @@
 
 - [Chapter 1601 - Training Generally](Chapter%201601%20-%20Training%20Generally/README.md)
 - [Chapter 1606 - Educational Assistance for Members of the Selected Reserve](Chapter%201606%20-%20Educational%20Assistance%20for%20Members%20of%20the%20Selected%20Reserve/README.md)
+- [Chapter 1607 - Educational Assistance for Reserve Component Members Supporting Contingency Operations and Certain Other Operations](Chapter%201607%20-%20Educational%20Assistance%20for%20Reserve%20Component%20Members%20Supporting%20Contingency%20Operations%20and%20Certain%20Other%20Operations/README.md)
 - [Chapter 1608 - Health Professions Stipend Program](Chapter%201608%20-%20Health%20Professions%20Stipend%20Program/README.md)
 - [Chapter 1609 - Education Loan Repayment Programs](Chapter%201609%20-%20Education%20Loan%20Repayment%20Programs/README.md)
 - [Chapter 1611 - Other Educational Assistance Programs](Chapter%201611%20-%20Other%20Educational%20Assistance%20Programs/README.md)

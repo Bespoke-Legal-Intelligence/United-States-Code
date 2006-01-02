@@ -30,7 +30,7 @@ United States observers, while aboard foreign fishing vessels as required under 
 
 #### (d) Fees
 
-There is imposed for each year after 1980 on the owner or operator of each foreign fishing vessel that, in the judgment of the Secretary, will engage in fishing in waters described in subsection (b)(1) of this section during that year which may result in the incidental taking of billfish a fee in an amount sufficient to cover all of the costs of providing an observer aboard that vessel under the program established under subsection (a) of this section. The fees imposed under this subsection for any year shall be paid to the Secretary before that year begins. All fees collected by the Secretary under this subsection shall be deposited in the Fund established by subsection (e) of this section.
+There is imposed for each year after 1980 on the owner or operator of each foreign fishingvessel that, in the judgment of the Secretary, will engage in fishing in waters described in subsection (b)(1) of this section during that year which may result in the incidental taking of billfish a fee in an amount sufficient to cover all of the costs of providing an observer aboard that vessel under the program established under subsection (a) of this section. The fees imposed under this subsection for any year shall be paid to the Secretary before that year begins. All fees collected by the Secretary under this subsection shall be deposited in the Fund established by subsection (e) of this section.
 
 #### (e) Fund
 
@@ -58,7 +58,7 @@ The Secretary shall issue such regulations as are necessary or appropriate to ca
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 101 of the Act of 1976 \[16 U.S.C. 1811\], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L.99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
+Section 101 of the Act of 1976 \[16 U.S.C. 1811\], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
 #### Codification
 

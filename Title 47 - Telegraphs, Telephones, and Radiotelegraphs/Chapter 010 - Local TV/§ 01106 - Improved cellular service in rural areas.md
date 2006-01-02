@@ -48,7 +48,7 @@
 
 #### (5) Auction authority
 
-&emsp;If, after the amendment of an application pursuant to subsection (a)(1)(B) of this section, the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a ruralservice area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee ( <sup>1</sup> pursuant to subsection (a)(1)(B) of this section by competitive bidding pursuant to section 309(j) of this title.
+&emsp;If, after the amendment of an application pursuant to subsection (a)(1)(B) of this section, the Commission finds that the applicant is ineligible for grant of a license to provide cellular radiotelephone services for a rural service area or the applicant does not meet the requirements under paragraph (2) of this subsection, the Commission shall grant the license for which the applicant is the tentative selectee ( <sup>1</sup> pursuant to subsection (a)(1)(B) of this section by competitive bidding pursuant to section 309(j) of this title.
 
 #### (c) Prohibition of transfer
 
@@ -62,7 +62,7 @@ For the purposes of this section, the following definitions shall apply:
 
 &emsp;The term “applicant” means—
 
-&emsp;&emsp;(A) Great Western Cellular Partners, a California general partnership chosen by the Commission as tentative selectee for RSA \#492 on May 4, 1989;
+&emsp;&emsp;(A) Great Western Cellular Partners, a California general partnership chosen by theCommission as tentative selectee for RSA \#492 on May 4, 1989;
 
 &emsp;&emsp;(B) Monroe Telephone Services L.P., a Delaware limited partnership chosen by the Commission as tentative selectee for RSA \#370 on August 24, 1989 (formerly Cellwave Telephone Services L.P.); and
 

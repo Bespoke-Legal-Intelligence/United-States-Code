@@ -1,32 +1,48 @@
 ### §9355. Board of Visitors
 
-(a) A Board of Visitors to the Academy is constituted annually of—
+(a) A Board of Visitors to the Academy is constituted annually. The Board consists of the following members:
 
-&emsp;(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
+&emsp;(1) Six persons designated by the President.
 
-&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
+&emsp;(2) The chairman of the Committee on Armed Services of the House of Representatives, or his designee.
 
-&emsp;(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
+&emsp;(3) Four persons designated by the Speaker of the House of Representatives, three of whom shall be members of the House of Representatives and the fourth of whom may not be a member of the House of Representatives.
 
-&emsp;(4) four other members of the House of Representatives designated by the Speaker of the House of Representatives, two of whom are members of the Committee on Appropriations of the House of Representatives; and
+&emsp;(4) The chairman of the Committee on Armed Services of the Senate, or his designee.
 
-&emsp;(5) six persons designated by the President.
+&emsp;(5) Three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate.
 
-(b) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed. The President shall designate two persons each year to succeed the members whose terms expire that year.
+(b)(1) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is designated. The President shall designate persons each year to succeed the members designated by the President whose terms expire that year.
 
-(c) If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.
+(2) At least two of the members designated by the President shall be graduates of the Academy.
 
-(d) The Board shall visit the Academy annually. With the approval of the Secretary of the Air Force, the Board or its members may make other visits to the Academy in connection with the duties of the Board or to consult with the Superintendent of the Academy.
+(c)(1) If a member of the Board dies or resigns or is terminated as a member of the board <sup>1</sup> under paragraph (2), a successor shall be designated for the unexpired portion of the term by the official who designated the member.
 
-(e) The Board shall inquire into the morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy which the Board decides to consider.
+(2)(A) If a member of the Board fails to attend two successive Board meetings, except in a case in which an absence is approved in advance, for good cause, by the Board chairman, such failure shall be grounds for termination from membership on the Board. A person designated for membership on the Board shall be provided notice of the provisions of this paragraph at the time of such designation.
 
-(f) Within 60 days after its annual visit, the Board shall submit a written report to the President of its action, and of its views and recommendations pertaining to the Academy. Any report of a visit, other than the annual visit, shall, if approved by a majority of the members of the Board, be submitted to the President within 60 days after the approval.
+(B) Termination of membership on the Board under subparagraph (A)—
+
+&emsp;(i) in the case of a member of the Board who is not a member of Congress, may be made by the Board chairman; and
+
+&emsp;(ii) in the case of a member of the Board who is a member of Congress, may be made only by the official who designated the member.
+
+(C) When a member of the Board is subject to termination from membership on the Board under subparagraph (A), the Board chairman shall notify the official who designated the member. Upon receipt of such a notification with respect to a member of the Board who is a member of Congress, the official who designated the member shall take such action as that official considers appropriate.
+
+(d) The Board should meet at least four times a year, with at least two of those meetings at the Academy. The Board or its members may make other visits to the Academy in connection with the duties of the Board. Board meetings should last at least one full day. Board members shall have access to the Academy grounds and the cadets, faculty, staff, and other personnel of the Academy for the purposes of the duties of the Board.
+
+(e)(1) The Board shall inquire into the morale, discipline, and social climate, the curriculum, instruction, physical equipment, fiscal affairs, academic methods, and other matters relating to the Academy that the Board decides to consider.
+
+(2) The Secretary of the Air Force and the Superintendent of the Academy shall provide the Board candid and complete disclosure, consistent with applicable laws concerning disclosure of information, with respect to institutional problems.
+
+(3) The Board shall recommend appropriate action.
+
+(f) The Board shall prepare a semiannual report containing its views and recommendations pertaining to the Academy, based on its meeting since the last such report and any other considerations it determines relevant. Each such report shall be submitted concurrently to the Secretary of Defense, through the Secretary of the Air Force, and to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (g) Upon approval by the Secretary, the Board may call in advisers for consultation.
 
-(h) While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
+(h) While performing duties as a member of the Board, each member of the Board and each adviser shall be reimbursed under Government travel regulations for travel expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Pub. L. 96–579, §13(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 567; Pub. L. 96–579, §13(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title V, §543, Oct. 28, 2004, 118 Stat. 1904.)
 
 Historical and Revision Notes
 
@@ -86,6 +102,8 @@ In subsection (h), the words “called for consultation by the Board in connecti
 
 #### Amendments
 
+2004—Pub. L. 108–375 amended section generally. Prior to amendment, section contained provisions relating to membership of Board of Visitors in subsec. (a), term of office in subsec. (b), designation of successor in subsec. (c), frequency of Academy visits in subsec. (d), scope of Board inquiries in subsec. (e), submission of reports in subsec. (f), calling in of advisers in subsec. (g), and reimbursement for travel in subsec. (h).
+
 1999—Subsec. (a)(3). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 1996—Subsec. (a)(3). Pub. L. 104–106, §1502(a)(12), substituted “National Security” for “Armed Services”.
@@ -93,4 +111,6 @@ In subsection (h), the words “called for consultation by the Board in connecti
 Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

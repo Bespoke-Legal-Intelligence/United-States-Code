@@ -20,7 +20,7 @@
 
 #### (3) Public availability
 
-&emsp;Any annual report required under paragraph (1) shall be available for public inspection. Notwithstanding the preceding sentence, theCorporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.
+&emsp;Any annual report required under paragraph (1) shall be available for public inspection. Notwithstanding the preceding sentence, the Corporation and the appropriate Federal banking agencies may designate certain information as privileged and confidential and not available to the public.
 
 #### (b) Management responsibility for financial statements and internal controls
 
@@ -90,7 +90,7 @@ Each insured depository institution shall prepare—
 
 #### (A) Establishment
 
-&emsp;&emsp;Each insured depository institution (to which this section applies) shall have an independent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
+&emsp;&emsp;Each insured depository institution (to which this section applies) shall have anindependent audit committee entirely made up of outside directors who are independent of management of the institution, except as provided in subparagraph (D), and who satisfy any specific requirements the Corporation may establish.
 
 #### (B) Duties
 
@@ -110,7 +110,7 @@ Each insured depository institution shall prepare—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An appropriate Federal banking agency may, by order or regulation, permit the independent audit committee of an insureddepository institution to be made up of less than all, but no fewer than a majority of, outside directors, if the agency determines that the institution has encountered hardships in retaining and recruiting a sufficient number of competent outside directors to serve on the internal audit committee of the institution.
+&emsp;&emsp;&emsp;An appropriate Federal banking agency may, by order or regulation, permit the independent audit committee of an insured depository institution to be made up of less than all, but no fewer than a majority of, outside directors, if the agency determines that the institution has encountered hardships in retaining and recruiting a sufficient number of competent outside directors to serve on the internal audit committee of the institution.
 
 #### (ii) Factors to be considered
 
@@ -168,7 +168,7 @@ Each insured depository institution shall prepare—
 
 #### (A) In general
 
-&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recent report of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
+&emsp;&emsp;Each insured depository institution which has engaged the services of an independent auditor to audit such institution shall transmit to the auditor a copy of the most recentreport of condition made by the institution (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by the institution.
 
 #### (B) Additional information
 
@@ -228,7 +228,11 @@ This section shall not apply with respect to any fiscal year of any insured depo
 
 &emsp;(2) such amount (in excess of $150,000,000) as the Corporation may prescribe by regulation.
 
-(Sept. 21, 1950, ch. 967, §2\[36\], as added Pub. L. 102–242, title I, §112(a), Dec. 19, 1991, 105 Stat. 2242; amended Pub. L. 102–550, title XVI, §1603(b)(3), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, §314, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, §§2301, 2704(d)(14)(Z), Sept. 30, 1996, 110 Stat. 3009–419, 3009–494.)
+(Sept. 21, 1950, ch. 967, §2\[36\], as added Pub. L. 102–242, title I, §112(a), Dec. 19, 1991, 105 Stat. 2242; amended Pub. L. 102–550, title XVI, §1603(b)(3), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, §314, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, §§2301, 2704(d)(14)(Z), Sept. 30, 1996, 110 Stat. 3009–419, 3009–494; Pub. L. 109–173, §8(a)(34), Feb. 15, 2006, 119 Stat. 3615.)
+
+#### Amendment of Subsection (i)(3)
+
+<i>Pub. L. 109–173, §8(a)(34), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, subsection (i)(3) of this section is amended by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### Amendments
 
@@ -238,7 +242,7 @@ Subsec. (e). Pub. L. 104–208, §2301(a), inserted “\[Repealed\]” and struc
 
 “(1)
 
-In general—An independent public accountant shall apply procedures agreed upon by the Corporation to objectively determine the extent of the compliance of any insured depository institution or depository institution holding company with laws and regulations designated by the Corporation, in consultation with the appropriate Federal banking agencies.
+In general—An independent public accountant shall apply procedures agreed upon by the Corporation to objectively determine the extent of the compliance of any insured depository institution or depository institution holding company with laws and regulationsdesignated by the Corporation, in consultation with the appropriate Federal banking agencies.
 
 “(2)
 
@@ -267,6 +271,10 @@ Subsec. (i). Pub. L. 103–325, §314(a), inserted par. (1) designation and head
 Subsec. (g)(3)(A)(i). Pub. L. 102–550, §1603(b)(3)(B), substituted “any appropriate” for “an appropriate”.
 
 Subsec. (g)(5). Pub. L. 102–550, §1603(b)(3)(C), inserted “and each appropriate Federal banking agency” after “Corporation” in two places.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1996 Amendment
 

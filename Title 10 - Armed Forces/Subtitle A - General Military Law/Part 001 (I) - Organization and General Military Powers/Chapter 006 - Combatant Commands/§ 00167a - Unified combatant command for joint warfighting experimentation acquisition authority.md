@@ -34,9 +34,13 @@ Internal Audits and Inspections.—The commander referred to in subsection (b) s
 
 (f)
 
-Termination.—The Secretary may delegate the authority referred to in subsection (a) only during fiscal years 2004 through 2006, and any authority so delegated shall not be in effect after September 30, 2006.
+Termination.—The Secretary may delegate the authority referred to in subsection (a) only during fiscal years 2004 through 2008, and any authority so delegated shall not be in effect after September 30, 2008.
 
-(Added Pub. L. 108–136, div. A, title VIII, §848(a)(1), Nov. 24, 2003, 117 Stat. 1554.)
+(Added Pub. L. 108–136, div. A, title VIII, §848(a)(1), Nov. 24, 2003, 117 Stat. 1554; amended Pub. L. 109–163, div. A, title VIII, §846(a), Jan. 6, 2006, 119 Stat. 3391.)
+
+#### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163 substituted “through 2008” for “through 2006” and “September 30, 2008” for “September 30, 2006”.
 
 #### Comptroller General Report
 

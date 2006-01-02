@@ -16,7 +16,7 @@ The Court <sup>1</sup> may modify, terminate, or set aside an action taken by t
 
 #### (c) Unavailability of stay
 
-The commencement of proceedings for judicial review pursuant to this section shall not operate as a stay of any action taken by the Director.Pending judicial review of the action, the court shall not have jurisdiction to stay, enjoin, or otherwise delay any supervisory action taken by the Director with respect to an enterprise that is classified as significantly or critically undercapitalized or any action of the Director that results in the classification of an enterprise as significantly or critically undercapitalized.
+The commencement of proceedings for judicial review pursuant to this section shall not operate as a stay of any action taken by the Director. Pending judicial review of the action, the court shall not have jurisdiction to stay, enjoin, or otherwise delay any supervisory action taken by the Director with respect to an enterprise that is classified as significantly or critically undercapitalized or any action of the Director that results in the classification of an enterprise as significantly or critically undercapitalized.
 
 #### (d) Limitation on jurisdiction
 

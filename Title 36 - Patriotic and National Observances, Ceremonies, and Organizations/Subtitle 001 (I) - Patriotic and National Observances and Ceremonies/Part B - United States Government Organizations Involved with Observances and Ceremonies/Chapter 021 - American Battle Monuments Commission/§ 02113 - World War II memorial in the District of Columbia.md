@@ -42,7 +42,7 @@ Special Borrowing Authority.—(1) To assure that groundbreaking, construction, 
 
 (3) The obligations of the Commission shall be issued in amounts and at prices approved by the Secretary. The authority of the Commission to issue obligations under this subsection shall remain available without fiscal year limitation. The Secretary of the Treasury shall purchase any obligations of the Commission to be issued under this subsection, and for such purpose the Secretary of the Treasury may use as a public debt transaction of the United States the proceeds from the sale of any securities issued under chapter 31 of title 31. The purposes for which securities may be issued under such chapter are extended to include any purchase of the Commission's obligations under this subsection.
 
-(4) Repayment of the interest and principal on any funds borrowed by the Commission underparagraph (1) shall be made from amounts in the fund. The Commission may not use for such purpose any funds appropriated for any other activities of the Commission.
+(4) Repayment of the interest and principal on any funds borrowed by the Commission under paragraph (1) shall be made from amounts in the fund. The Commission may not use for such purpose any funds appropriated for any other activities of the Commission.
 
 (e)
 
@@ -52,7 +52,7 @@ Treatment of Borrowing Authority.—In determining whether the Commission has su
 
 Voluntary Services.—(1) Notwithstanding section 1342 of title 31, the Commission may accept from any person voluntary services to be provided in furtherance of the fund-raising activities of the Commission relating to the World War II memorial.
 
-(2) A person providing voluntary services under this subsection shall be considered to be a Federal employee for purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and chapter 171 of title 28, relating to tort claims. A volunteer who is not otherwise employed by the United States shall not be considered to be a Federal employee for any other purpose by reason of the provision of such voluntary service, except that any volunteer given responsibility for the handling of funds or the carrying out of a Federal function is subject to the conflict of interest laws contained in chapter 11 of title 18 and the administrative standards of conduct contained in part 2635 of title 5 of the Code of Federal Regulations.
+(2) A person providing voluntary services under this subsection shall be considered to be a Federal employee for purposes of chapter 81 of title 5, relating to compensation for work-related injuries, and chapter 171 of title 28, relating to tort claims. A volunteer who is not otherwise employed by the United States shall not be considered to be a Federal employee for any otherpurpose by reason of the provision of such voluntary service, except that any volunteer given responsibility for the handling of funds or the carrying out of a Federal function is subject to the conflict of interest laws contained in chapter 11 of title 18 and the administrative standards of conduct contained in part 2635 of title 5 of the Code of Federal Regulations.
 
 (3) The Commission may provide for reimbursement of incidental expenses that are incurred by a person providing voluntary services under this subsection. The Commission shall determine those expenses that are eligible for reimbursement under this paragraph.
 

@@ -78,7 +78,7 @@ Amendment by Pub. L. 93–416 applicable to cases where injury or death occurred
 
 #### Personnel Not Affected by 1967 Increase
 
-Section 7 of Pub. L. 90–83 provided that: “Nothing in this or any other Act makes the increases authorized by section 1(49)—(52) \[amending this section and sections 8107, 8108, and 8109 of this title\], 53(B) and (C) \[amending section 8110 of this title\], (54)—(58) \[amending section 8111, 8112, 8116, 8122, and 8124 of this title\], (60) \[amending section 8131 of this title\], (61) \[amending section 8132 of this title\], (62) (B) \[amending section8133(e) of this title\], (63) \[amending section 8135 of this title\], (67) \[adding section 8146a of this title\], (68) \[amending section 8147 of this title\], and (71) \[amending section 8149 of this title\] of this Act applicable to—
+Section 7 of Pub. L. 90–83 provided that: “Nothing in this or any other Act makes the increases authorized by section 1(49)—(52) \[amending this section and sections 8107, 8108, and 8109 of this title\], 53(B) and (C) \[amending section 8110 of this title\], (54)—(58) \[amending section 8111, 8112, 8116, 8122, and 8124 of this title\], (60) \[amending section 8131 of this title\], (61) \[amending section 8132 of this title\], (62) (B) \[amending section 8133(e) of this title\], (63) \[amending section 8135 of this title\], (67) \[adding section 8146a of this title\], (68) \[amending section 8147 of this title\], and (71) \[amending section 8149 of this title\] of this Act applicable to—
 
 &emsp;“(1) an employee or individual not within the definition of ‘employee’ in section 8101(1)(A), (B), or (D) of title 5, United States Code;
 

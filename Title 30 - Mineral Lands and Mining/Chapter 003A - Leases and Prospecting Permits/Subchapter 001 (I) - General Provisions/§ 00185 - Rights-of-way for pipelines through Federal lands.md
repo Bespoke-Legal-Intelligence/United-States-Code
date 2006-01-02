@@ -36,9 +36,9 @@ The Secretary or agency head shall impose requirements for the operation of the 
 
 #### (h) Environmental protection
 
-(1) Nothing in this section shall be construed to amend, repeal, modify, or change in any way the requirements of section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] or any other provision of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
+(1) Nothing in this section shall be construed to amend, repeal, modify, or change in any waythe requirements of section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] or any other provision of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
-(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public orprivate property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
+(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
 
 #### (i) Disclosure
 
@@ -70,7 +70,7 @@ Each right-of-way or permit granted or renewed pursuant to this section shall be
 
 (2) If the Secretary or agency head determines that an immediate temporary suspension of activities within a right-of-way or permit area is necessary to protect public health or safety or the environment, he may abate such activities prior to an administrative proceeding.
 
-(3) Deliberate failure of the holder to use the right-of-way for the purpose for which it was granted or renewed for any continuous two-year period shall constitute a rebuttable presumption of abandonment of the right-of-way: <i>Provided</i>, That where the failure to use the right-of-way is due to circumstances not within the holder's control the Secretary or agency head is not required to commence proceedings to suspend or terminate the right-of-way.
+(3) Deliberate failure of the holder to use the right-of-way for the purpose for which it was granted or renewed for any continuous two-year period shall constitute a rebuttable presumption of abandonment of the right-of-way: <i>Provided</i>,That where the failure to use the right-of-way is due to circumstances not within the holder's control the Secretary or agency head is not required to commence proceedings to suspend or terminate the right-of-way.
 
 #### (p) Joint use of rights-of-way
 
@@ -78,7 +78,7 @@ In order to minimize adverse environmental impacts and the proliferation of sepa
 
 #### (q) Statutes
 
-No rights-of-way for the purposes provided for in this section shall be granted or renewed across Federal lands except under and subject to the provisions, limitations, and conditions of this section. Any application for a right-of-wayfiled under any other law prior to the effective date of this provision may, at the applicant's option, be considered as an application under this section. The Secretary or agency head may require the applicant to submit any additional information he deems necessary to comply with the requirements of this section.
+No rights-of-way for the purposes provided for in this section shall be granted or renewed across Federal lands except under and subject to the provisions, limitations, and conditions of this section. Any application for a right-of-way filed under any other law prior to the effective date of this provision may, at the applicant's option, be considered as an application under this section. The Secretary or agency head may require the applicant to submit any additional information he deems necessary to comply with the requirements of this section.
 
 #### (r) Common carriers
 
@@ -112,7 +112,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 (2) Except in the case of oil exported to a country with which the United States entered into a bilateral international oil supply agreement before November 26, 1979, or to a country pursuant to the International Emergency Oil Sharing Plan of the International Energy Agency, any oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43 shall, when exported, be transported by a vessel documented under the laws of the United States and owned by a citizen of the United States (as determined in accordance with sections 802 and 803 of title 46, Appendix).
 
-(3) Nothing in this subsection shall restrict the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), theNational Emergencies Act (50 U.S.C. 1601 et seq.), or Part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271–76) to prohibit exports.
+(3) Nothing in this subsection shall restrict the authority of the President under the Constitution, the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), or Part B of title II of the Energy Policy and Conservation Act (42 U.S.C. 6271–76) to prohibit exports.
 
 (4) The Secretary of Commerce shall issue any rules necessary for implementation of the President's national interest determination, including any licensing requirements and conditions, within 30 days of the date of such determination by the President. The Secretary of Commerce shall consult with the Secretary of Energy in administering the provisions of this subsection.
 
@@ -146,7 +146,7 @@ The Secretary or agency head shall take into consideration and to the extent pra
 
 (2) The Secretary or agency head may, by regulation or stipulation, impose a standard of strict liability to govern activities taking place on a right-of-way or permit area which the Secretary or agency head determines, in his discretion, to present a foreseeable hazard or risk of danger to the United States.
 
-(3) Regulations and stipulations pursuant to this subsection shall not impose strict liabilityfor damage or injury resulting from (A) an act of war, or (B) negligence of the United States.
+(3) Regulations and stipulations pursuant to this subsection shall not impose strict liability for damage or injury resulting from (A) an act of war, or (B) negligence of the United States.
 
 (4) Any regulation or stipulation imposing liability without fault shall include a maximum limitation on damages commensurate with the foreseeable risks or hazards presented. Any liability for damage or injury in excess of this amount shall be determined by ordinary rules of negligence.
 
@@ -190,13 +190,13 @@ Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “T
 
 1990—Subsec. (w)(1). Pub. L. 101–475, §1(a), substituted “Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
 
-Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary's or agency head's detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
+Subsec. (w)(2). Pub. L. 101–475, §1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows:“The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary's or agency head's detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
 
 1985—Subsec. (u). Pub. L. 99–64 substituted “Export Administration Act of 1979 (50 U.S.C. App. 2401 and following)” for “Export Administration Act of 1969 (Act of December 30, 1969; 83 Stat. 841)” and “Export Administration Act of 1979” for “Export Administration Act of 1969” in two places.
 
 1973—Pub. L. 93–153 completely rewrote the section substituting 25 subsecs. lettered (a) through (y) covering all aspects of the granting of rights-of-way for pipelines through Federal lands for the former single unlettered paragraph under which rights-of-way of 25 feet on each side of the pipeline could be granted and under which the pipeline was to be operated as a common carrier.
 
-1953—Act Aug. 12, 1953, permitted companies subject to Federal regulation, or public utilities subject toState regulations, to pass through the public domain without incurring the obligation to become a common carrier.
+1953—Act Aug. 12, 1953, permitted companies subject to Federal regulation, or public utilities subject to State regulations, to pass through the public domain without incurring the obligation to become a common carrier.
 
 1935—Act Aug. 21, 1935, substituted “may be granted by the Secretary of the Interior” for “are granted” and inserted “and conditions” after “regulations” in two places, and “and shall accept, convey, transport, or purchase without discrimination, oil or natural gas produced from Government lands in the vicinity of the pipe line in such proportionate amounts as the Secretary of the Interior may, after a full hearing with notice thereof to the interested parties and a proper finding of facts, determine to be reasonable:” after “and maintained as common carriers.”.
 
@@ -244,7 +244,7 @@ Memorandum of President of the United States, Apr. 28, 1996, 61 F.R. 19507, prov
 
 Memorandum for the Secretary of Commerce \[and\] the Secretary of Energy
 
-Pursuant to section 28(s) of the Mineral Leasing Act, as amended, 30 U.S.C. 185, I hereby determine that exports of crude oil transported over right-of-way granted pursuant to section 203 of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1652\] are in the national interest. In making this determination, I have taken into account the conclusions of an interagency working group, which found that such oil exports:
+Pursuant to section 28(s) of the Mineral Leasing Act, as amended, 30 U.S.C. 185, I hereby determine that exports of crude oil transported over right-of-way granted pursuant to section 203 of the Trans-Alaska Pipeline Authorization Act \[43 U.S.C. 1652\] are in the national interest. In making this determination, I have takeninto account the conclusions of an interagency working group, which found that such oil exports:
 
 —will not diminish the total quantity or quality of petroleum available to the United States; and
 

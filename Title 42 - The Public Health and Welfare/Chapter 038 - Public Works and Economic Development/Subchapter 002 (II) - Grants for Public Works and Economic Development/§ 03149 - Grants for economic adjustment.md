@@ -42,7 +42,7 @@ Assistance under this section may include assistance provided for activities ide
 
 &emsp;&emsp;(A) at the request of a grantee, amend and consolidate grant agreements governing revolving loan funds to provide flexibility with respect to lending areas and borrower criteria;
 
-&emsp;&emsp;(B) assign or transfer assets of a revolving loan fund to third party for the purpose of liquidation, and the third party may retainassets of the fund to defray costs related to liquidation; and
+&emsp;&emsp;(B) assign or transfer assets of a revolving loan fund to third party for the purpose of liquidation, and the third party may retain assets of the fund to defray costs related to liquidation; and
 
 &emsp;&emsp;(C) take such actions as are appropriate to enable revolving loan fund operators to sell or securitize loans (except that the actions may not include issuance of a Federal guaranty by the Secretary).
 

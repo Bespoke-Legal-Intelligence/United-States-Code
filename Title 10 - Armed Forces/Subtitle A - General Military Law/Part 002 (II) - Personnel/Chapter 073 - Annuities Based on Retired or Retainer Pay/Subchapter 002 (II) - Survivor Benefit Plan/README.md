@@ -27,10 +27,6 @@
 
 1972—Pub. L. 92–424, §1(3), Sept. 21, 1972, 86 Stat. 706, added subchapter II heading and items 1447 to 1455.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1460a, 12731 of this title.
-
 
 ---
 

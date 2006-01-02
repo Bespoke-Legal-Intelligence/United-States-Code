@@ -9,13 +9,22 @@ Subpart F—Nonbeverage Domestic Drawback Claimants
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Redesignation of Subpart F and Enactment of Subpart D
+
+<i>Pub. L. 109–59, title XI, §11125(b)(3)(A), (10), (c), Aug. 10, 2005, 119 Stat. 1953, 1955, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this subpart is redesignated subpart B and a new subpart D is added with subpart heading and analysis to read as follows:</i>
+
+<i>Subpart D—Other Provisions</i>
+
+| <i>Sec.</i> |  |
+| :--- | ---: |
+| <i>5131.</i> | <i>Packaging distilled spirits for industrial uses.</i> |
+| <i>5132.</i> | <i>Prohibited purchases by dealers.</i> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Prior Provisions
 
 A prior subpart F, consisting of sections 5131 to 5134, related to nonbeverage domestic drawback claimants, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
-
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 7652 of this title.
 
 
 ---

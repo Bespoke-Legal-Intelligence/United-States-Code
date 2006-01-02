@@ -50,7 +50,3 @@ Section 701(d)(1), (2) of Pub. L. 99–661 provided that:
 
 Section 701(c)(1) of Pub. L. 99–661 required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under section 1099(a) of this title and the plan of the Secretary for completing implementation of such system.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1097 of this title.
-

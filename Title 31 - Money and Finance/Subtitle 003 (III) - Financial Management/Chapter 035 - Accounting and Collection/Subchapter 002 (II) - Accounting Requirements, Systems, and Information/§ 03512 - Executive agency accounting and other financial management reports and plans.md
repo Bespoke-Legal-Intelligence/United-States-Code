@@ -22,7 +22,7 @@
 
 &emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
-&emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
+&emsp;(F) any other information the Director considers appropriate to fully inform the Congressregarding the financial management of the Federal Government.
 
 (3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C) providing financial information the President requires under section 1104(e) of this title; and
 
-&emsp;&emsp;(5) suitable integration of the accounting of the agency with the central accounting and reporting responsibilities of the Secretary of the Treasury under section 3513 of this title.
+&emsp;(5) suitable integration of the accounting of the agency with the central accounting and reporting responsibilities of the Secretary of the Treasury under section 3513 of this title.
 
 (c)(1) To ensure compliance with subsection (b)(3) of this section and consistent with standards the Comptroller General prescribes, the head of each executive agency shall establish internal accounting and administrative controls that reasonably ensure that—
 
@@ -88,7 +88,7 @@
 
 &emsp;(B) may change a guideline when considered necessary.
 
-(2) By December 31 of each year (beginning in 1983), the head of each executive agency, based on an evaluation conducted according to guidelines prescribed under paragraph (1) of this subsection, shall prepare a statement on whether the systems of the agency comply with subsection (c) of this section, including—
+(2) By December 31 of each year (beginning in 1983), the head of each executive agency, basedon an evaluation conducted according to guidelines prescribed under paragraph (1) of this subsection, shall prepare a statement on whether the systems of the agency comply with subsection (c) of this section, including—
 
 &emsp;(A) if the head of an executive agency decides the systems do not comply with subsection (c) of this section, a report identifying any material weakness in the systems and describing the plans and schedule for correcting the weakness; and
 
@@ -350,7 +350,7 @@ Date of determination.—The determination under paragraph (1) shall be made no 
 
 Remediation plan.—
 
-&emsp;&emsp;“(A) If the Head of an agency determines that the agency's financial management systems do notcomply with the requirements of subsection (a), the head of the agency, in consultation with the Director, shall establish a remediation plan that shall include resources, remedies, and intermediate target dates necessary to bring the agency's financial management systems into substantial compliance.
+&emsp;&emsp;“(A) If the Head of an agency determines that the agency's financial management systems do not comply with the requirements of subsection (a), the head of the agency, in consultation with the Director, shall establish a remediation plan that shall include resources, remedies, and intermediate target dates necessary to bring the agency's financial management systems into substantial compliance.
 
 &emsp;&emsp;“(B) If the determination of the head of the agency differs from the audit compliance findings required in subsection (b), the Director shall review such determinations and provide a report on the findings to the appropriate committees of the Congress.
 
@@ -408,7 +408,7 @@ Inspector General Act of 1978.—\[Amended section 5 of the Inspector General Ac
 
 &emsp;“(1)
 
-Agency.—The term ‘agency’ means a department or agency of the United States Government as defined in section 901(b) of title 31, United States Code.
+Agency.—The term ‘agency’ means a department or agency of the United States Government asdefined in section 901(b) of title 31, United States Code.
 
 &emsp;“(2)
 

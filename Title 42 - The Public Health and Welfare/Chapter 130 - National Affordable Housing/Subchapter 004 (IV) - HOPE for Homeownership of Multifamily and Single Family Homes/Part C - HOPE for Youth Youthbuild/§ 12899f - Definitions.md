@@ -20,9 +20,11 @@ For purposes of this part:
 
 &emsp;&emsp;(E) a community development corporation;
 
-&emsp;&emsp;(F) a State and local youth service and conservation corps; and
+&emsp;&emsp;(F) a State and local youth service and conservation corps;
 
-&emsp;&emsp;(G) any other entity eligible to provide education and employment training under other Federal employment training programs.
+&emsp;&emsp;(G) an Indian tribe, tribally designated housing entity (as defined in section 4103 of title 25), or other agency primarily serving Indians; and
+
+&emsp;&emsp;(H) any other entity eligible to provide education and employment training under other Federal employment training programs.
 
 #### (3) Community-based organization
 
@@ -96,15 +98,17 @@ For purposes of this part:
 
 &emsp;The term “Youthbuild program” means any program that receives assistance under this part and provides disadvantaged youth with opportunities for employment, education, leadership development, and training in the construction or rehabilitation of housing for homeless individuals and members of low- and very low-income families.
 
-(Pub. L. 101–625, title IV, §457, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3731; amended Pub. L. 103–382, title III, §394(d), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 105–244, title I, §102(a)(13)(M), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Pub. L. 101–625, title IV, §457, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3731; amended Pub. L. 103–382, title III, §394(d), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 105–244, title I, §102(a)(13)(M), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–136, §5, Dec. 22, 2005, 119 Stat. 2644.)
 
 #### References in Text
 
-Section 103(b)(1)(B) of the Job Training Partnership Act, referred to in par. (2)(B), which was classified to section 1513(b)(1)(B) of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 103(b)(1)(B) of the Job Training Partnership Act, referred to in par. (2)(B), which was classified to section 1513(b)(1)(B) of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Section 7601(8) of title 20, referred to in par. (10), was in the original section 7004(a) of the Elementary and Secondary Education Act of 1965, and was translated as if it read section 7501(8) of that Act to reflect the probable intent of Congress, because the Elementary and Secondary Education Act of 1965 did not contain a section 7004, but did contain a section 7501(8) which defined limited English proficiency. The section was omitted in the general amendment of title VII of the Elementary and Secondary Education Act of 1965 by Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1907.
 
 #### Amendments
+
+2005—Par. (2)(G), (H). Pub. L. 109–136 added subpar. (G) and redesignated former subpar. (G) as (H).
 
 2000—Par. (4). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of this title.
 

@@ -1,6 +1,6 @@
 ### §5335. Periodic step-increases
 
-(a) An employee paid on an annual basis, and occupying a permanent position within thescope of the General Schedule, who has not reached the maximum rate of pay for the grade in which his position is placed, shall be advanced in pay successively to the next higher rate within the grade at the beginning of the next pay period following the completion of—
+(a) An employee paid on an annual basis, and occupying a permanent position within the scope of the General Schedule, who has not reached the maximum rate of pay for the grade in which his position is placed, shall be advanced in pay successively to the next higher rate within the grade at the beginning of the next pay period following the completion of—
 
 &emsp;(1) each 52 calendar weeks of service in pay rates 1, 2, and 3;
 
@@ -92,7 +92,7 @@ The word “officer” is omitted as included in “employee”, and the word �
 
 Subsecs. (f), (g). Pub. L. 103–89, §3(b)(1)(H)(ii), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Notwithstanding subsection (b) or (e) of this section, an increase in pay granted under section 5404 of this title is an equivalent increase in pay within the meaning of subsection (a) of this section and shall be taken into account in the case of any employee who, before becoming subject to this section, was granted such an increase while covered by the performance management and recognition system established under chapter 54 of this title.”
 
-1990—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed undersection 3105 of this title,” after “work of the employee”.
+1990—Subsec. (a)(B). Pub. L. 101–509 struck out “, except an administrative law judge appointed under section 3105 of this title,” after “work of the employee”.
 
 Subsec. (g). Pub. L. 101–508 added subsec. (g).
 

@@ -26,7 +26,7 @@ In this chapter—
 
 &emsp;&emsp;(E) any other aircraft leased without crew to a lessee whose principal place of business is in the United States or, if the lessee does not have a principal place of business, whose permanent residence is in the United States.
 
-&emsp;(3) an individual commits an offense (as defined in the Convention for the Suppression ofUnlawful Seizure of Aircraft) when the individual, when on an aircraft in flight—
+&emsp;(3) an individual commits an offense (as defined in the Convention for the Suppression of Unlawful Seizure of Aircraft) when the individual, when on an aircraft in flight—
 
 &emsp;&emsp;(A) by any form of intimidation, unlawfully seizes, exercises control of, or attempts to seize or exercise control of, the aircraft; or
 

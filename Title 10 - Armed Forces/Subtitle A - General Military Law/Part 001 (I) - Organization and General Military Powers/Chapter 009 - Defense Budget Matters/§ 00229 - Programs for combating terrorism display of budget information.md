@@ -42,3 +42,31 @@ Section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998, 
 
 &emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
+#### Quarterly Detailed Accounting for Operations Conducted as Part of the Global War on Terrorism
+
+Pub. L. 108–375, div. A, title X, §1041, Oct. 28, 2004, 118 Stat. 2048, provided that:
+
+“(a)
+
+Quarterly Accounting.—Not later than 45 days after the end of each quarter of a year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], for each operation specified in subsection (b)—
+
+&emsp;“(1) a full accounting of all costs incurred for such operation during such quarter and all amounts expended during such quarter for such operation; and
+
+&emsp;“(2) a description of the purposes for which those costs were incurred and those amounts were expended.
+
+“(b)
+
+Operations Covered.—The operations referred to in subsection (a) are the following:
+
+&emsp;“(1) Operation Iraqi Freedom.
+
+&emsp;“(2) Operation Enduring Freedom.
+
+&emsp;“(3) Operation Noble Eagle.
+
+&emsp;“(4) Any other operation that the President designates as being an operation of the Global War on Terrorism.
+
+“(c)
+
+Requirement for Comprehensiveness.—For the purpose of providing a full and complete accounting of the costs and expenditures under subsection (a) for an operation specified in subsection (b), the Secretary shall account in the quarterly submission under subsection (a) for all costs and expenditures that are reasonably attributable to that operation, including personnel costs.”
+

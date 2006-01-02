@@ -80,7 +80,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (A) In general
 
-&emsp;&emsp;Upon the receipt of names and other identifying information under paragraph (2)(B), the Attorney General shall, for the sole purpose of identifying whether the individuals involved are within any of the categories specified in subparagraph (B), promptly use criminal, immigration, national security, and other electronic databases that are available to the Federal Government and are appropriate for such purpose.
+&emsp;&emsp;Upon the receipt of names and other identifying information under paragraph (2)(B), the Attorney General shall, for the sole purpose of identifying whether the individuals involved are within any of the categoriesspecified in subparagraph (B), promptly use criminal, immigration, national security, and other electronic databases that are available to the Federal Government and are appropriate for such purpose.
 
 #### (B) Certain individuals
 
@@ -146,7 +146,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (i) Submission of ex parte materials in judicial proceedings
 
-&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation by any law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of information that the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
+&emsp;&emsp;&emsp;When reviewing a decision of the Secretary under subparagraph (A), and upon request made ex parte and in writing by the United States, a court, upon a sufficient showing, may review and consider ex parte documents containing information the disclosure of which could compromise national security or an investigation byany law enforcement agency. If the court determines that portions of the documents considered ex parte should be disclosed to the person involved to allow a response, the court shall authorize the United States to delete from such documents specified items of information the disclosure of which could compromise national security or an investigation by any law enforcement agency, or to substitute a summary of the information to which the person may respond. Any order by the court authorizing the disclosure of information that the United States believes could compromise national security or an investigation by any law enforcement agency shall be subject to the processes set forth in subparagraphs (A) and (B)(i) of section 2339B(f)(5) of title 18 (relating to interlocutory appeal and expedited consideration).
 
 #### (ii) Disclosure of information
 
@@ -270,7 +270,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (1) In general
 
-&emsp;In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) of this section shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
+&emsp;In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) of this section shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of anindividual and $500,000 in the case of any other person.
 
 #### (2) Applicability of certain provisions
 
@@ -278,7 +278,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (j) Notification in event of release
 
-Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public healthor safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (<i>l</i>) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
+Regulations under subsections (b) and (c) of this section shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection (<i>l</i>) of this section), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
 
 #### (k) Reports
 
@@ -342,9 +342,7 @@ Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided th
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that:
-
-“Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out as a note under section 262 of this title\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[this section\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out as a note under section 262 of this title\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[this section\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect onthe day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
 
 #### Report to Congress
 
@@ -360,7 +358,7 @@ Date Certain for Notice of Possession.—Not later than 90 days after the date o
 
 “(b)
 
-Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Notlater than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[this section\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
+Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[this section\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
 &emsp;“(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
 

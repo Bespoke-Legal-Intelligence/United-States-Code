@@ -26,7 +26,7 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 
 #### (d) Mining and mineral leasing laws
 
-Subject to valid existing rights, all Federal lands within the national recreation area arehereby withdrawn from location, entry, and patent under the United States mining laws, and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto.
+Subject to valid existing rights, all Federal lands within the national recreation area are hereby withdrawn from location, entry, and patent under the United States mining laws, and from disposition under all laws pertaining to mineral and geothermal leasing and all amendments thereto.
 
 #### (e) State responsibilities with respect to wildlife and fish unaffected
 

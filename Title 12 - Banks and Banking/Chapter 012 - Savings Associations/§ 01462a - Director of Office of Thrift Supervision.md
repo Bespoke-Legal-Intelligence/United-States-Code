@@ -34,7 +34,7 @@ There is established the Office of Thrift Supervision, which shall be an office 
 
 #### (3) Vacancy
 
-&emsp;A vacancy in the position of Director which occurs before the expiration of the term forwhich a Director was appointed shall be filled in the manner established in paragraph (1) and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
+&emsp;A vacancy in the position of Director which occurs before the expiration of the term for which a Director was appointed shall be filled in the manner established in paragraph (1) and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
 
 #### (4) Service after end of term
 
@@ -52,7 +52,7 @@ The Director shall not have a direct or indirect financial interest in any insur
 
 The Director shall have all powers which—
 
-&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such) or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
+&emsp;(1) were vested in the Federal Home Loan Bank Board (in the Board's capacity as such)or the Chairman of such Board on the day before the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Aug. 9, 1989\]; and
 
 &emsp;(2) were not—
 

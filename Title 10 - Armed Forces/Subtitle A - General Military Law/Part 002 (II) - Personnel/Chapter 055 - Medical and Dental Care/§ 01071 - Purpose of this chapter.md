@@ -22,7 +22,7 @@ The words “and certain former members” are inserted to reflect the fact that
 
 #### Prior Provisions
 
-A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by Pub. L. 85–861, §36B(5), Sept.2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1071, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, which stated the purpose of former sections 1071 to 1086 of this title, and provided for their construction, was repealed by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -46,6 +46,128 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
+#### Prevention, Mitigation, and Treatment of Blast Injuries
+
+Pub. L. 109–163, div. A, title II, §256, Jan. 6, 2006, 119 Stat. 3181, provided that:
+
+“(a)
+
+Designation of Executive Agent.—The Secretary of Defense shall designate an executive agent to be responsible for coordinating and managing the medical research efforts and programs of the Department of Defense relating to the prevention, mitigation, and treatment of blast injuries.
+
+“(b)
+
+General Responsibilities.—The executive agent designated under subsection (a) shall be responsible for—
+
+&emsp;“(1) planning for the medical research and development projects, diagnostic and field treatment programs, and patient tracking and monitoring activities within the Department that relate to combat blast injuries;
+
+&emsp;“(2) efficient execution of such projects, programs, and activities;
+
+&emsp;“(3) enabling the sharing of blast injury health hazards and survivability data collected through such projects, programs, and activities with the programs of the Department of Defense;
+
+&emsp;“(4) working with the Director, Defense Research and Engineering and the Secretaries of the military departments to ensure resources are adequate to also meet non-medical requirements related to blast injury prevention, mitigation, and treatment; and
+
+&emsp;“(5) ensuring that a joint combat trauma registry is established and maintained for the purposes of collection and analysis of contemporary combat casualties, including casualties with traumatic brain injury.
+
+“(c)
+
+Medical Research Efforts.—
+
+&emsp;“(1)
+
+In general.—The executive agent designated under subsection (a) shall review and assess the adequacy of medical research efforts of the Department of Defense as of the date of the enactment of this Act \[Jan. 6, 2006\] relating to the following:
+
+&emsp;&emsp;“(A) The characterization of blast effects leading to injury, including the injury potential of blasts in various environments.
+
+&emsp;&emsp;“(B) Medical technologies and protocols to more accurately detect and diagnose blast injuries, including improved discrimination between traumatic brain injuries and mental health disorders.
+
+&emsp;&emsp;“(C) Enhanced treatment of blast injuries in the field.
+
+&emsp;&emsp;“(D) Integrated treatment approaches for members of the Armed Forces who have a combination of traumatic brain injuries and mental health disorders or other injuries.
+
+&emsp;&emsp;“(E) Such other blast injury matters as the executive agent considers appropriate.
+
+&emsp;“(2)
+
+Requirements for research efforts.—Based on the assessment under paragraph (1), the executive agent shall establish requirements for medical research efforts described in that paragraph in order to enhance and accelerate those research efforts.
+
+&emsp;“(3)
+
+Oversight of research efforts.—The executive agent shall establish, coordinate, and oversee Department-wide medical research efforts relating to the prevention, mitigation, and treatment of blast injuries, as necessary, to fulfill requirements established under paragraph (2).
+
+“(d)
+
+Other Related Research Efforts.—The Director, Defense Research and Engineering, in coordination with the executive agent designated under subsection (a) and the Director of the Joint IED Defeat Task Force, shall—
+
+&emsp;“(1) review and assess the adequacy of current research efforts of the Department on the prevention and mitigation of blast injuries;
+
+&emsp;“(2) based on subsection (c)(1), establish requirements for further research; and
+
+&emsp;“(3) address any deficiencies identified in paragraphs (1) and (2) by establishing, coordinating, and overseeing Department-wide research and development initiatives on the prevention and mitigation of blast injuries, including explosive detection and defeat and personnel and vehicle blast protection.
+
+“(e)
+
+Studies.—The executive agent designated under subsection (a) shall conduct studies on the prevention, mitigation, and treatment of blast injuries, including—
+
+&emsp;“(1) studies to improve the clinical evaluation and treatment approach for blast injuries, with an emphasis on traumatic brain injuries and other consequences of blast injury, including acoustic and eye injuries and injuries resulting from over-pressure wave;
+
+&emsp;“(2) studies on the incidence of traumatic brain injuries attributable to blast injury in soldiers returning from combat;
+
+&emsp;“(3) studies to develop protocols for medical tracking of members of the Armed Forces for up to five years following blast injuries; and
+
+&emsp;“(4) studies to refine and improve educational interventions for blast injury survivors and their families.
+
+“(f)
+
+Training.—The executive agent designated under subsection (a), in coordination with the Director of the Joint IED Defeat Task Force, shall develop training protocols for medical and non-medical personnel on the prevention, mitigation, and treatment of blast injuries. Those protocols shall be intended to improve field and clinical training on early identification of blast injury consequences, both seen and unseen, including traumatic brain injuries, acoustic injuries, and internal injuries.
+
+“(g)
+
+Information Sharing.—The executive agent designated under subsection (a) shall make available the results of relevant medical research and development projects and studies to—
+
+&emsp;“(1) Department of Defense programs focused on—
+
+&emsp;&emsp;“(A) promoting the exchange of blast health hazards data with blast characterization data and blast modeling and simulation tools; and
+
+&emsp;&emsp;“(B) encouraging the incorporation of blast hazards data into design and operational features of blast detection, mitigation, and defeat capabilities, such as comprehensive armor systems which provide blast, ballistic, and fire protection for the head, neck, ears, eyes, torso, and extremities; and
+
+&emsp;“(2) traumatic brain injury treatment programs to enhance the evaluation and care of members of the Armed Forces with traumatic brain injuries in medical facilities in the United States and in deployed medical facilities, including those outside the Department of Defense.
+
+“(h)
+
+Reports on Blast Injury Matters.—
+
+&emsp;“(1)
+
+Reports required.—Not later than 270 days after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter through 2008, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the efforts and programs of the Department of Defense relating to the prevention, mitigation, and treatment of blast injuries.
+
+&emsp;“(2)
+
+Elements.—Each report under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A description of the activities undertaken under this section during the two years preceding the report to improve the prevention, mitigation, and treatment of blast injuries.
+
+&emsp;&emsp;“(B) A consolidated budget presentation for Department of Defense biomedical research efforts and studies related to blast injury for the two fiscal years following the year of the report.
+
+&emsp;&emsp;“(C) A description of any gaps in the capabilities of the Department and any plans to address such gaps within biomedical research related to blast injury, blast injury diagnostic and treatment programs, and blast injury tracking and monitoring activities.
+
+&emsp;&emsp;“(D) A description of collaboration, if any, with other departments and agencies of the Federal Government, and with other countries, during the two years preceding the report in efforts for the prevention, mitigation, and treatment of blast injuries.
+
+&emsp;&emsp;“(E) A description of any efforts during the two years preceding the report to disseminate findings on the diagnosis and treatment of blast injuries through civilian and military research and medical communities.
+
+&emsp;&emsp;“(F) A description of the status of efforts during the two years preceding the report to incorporate blast injury effects data into appropriate programs of the Department of Defense and into the development of comprehensive force protection systems that are effective in confronting blast, ballistic, and fire threats.
+
+“(i)
+
+Deadline for Designation of Executive Agent.—The Secretary shall make the designation required by subsection (a) not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\].
+
+“(j)
+
+Blast Injuries Defined.—In this section, the term ‘blast injuries’ means injuries that occur as the result of the detonation of high explosives, including vehicle-borne and person-borne explosive devices, rocket-propelled grenades, and improvised explosive devices.
+
+“(k)
+
+Executive Agent Defined.—In this section, the term ‘executive agent’ has the meaning provided such term in Department of Defense Directive 5101.1.”
+
 #### Access to Health Care Services for Beneficiaries Eligible for TRICARE and Department of Veterans Affairs Health Care
 
 Pub. L. 107–314, div. A, title VII, §708, Dec. 2, 2002, 116 Stat. 2585, provided that:
@@ -66,7 +188,7 @@ Requirement To Establish Process.—(1) The Secretary of Defense shall prescribe
 
 Comptroller General Study and Report.—(1) The Comptroller General shall conduct a study of the health care issues of covered beneficiaries described in subsection (a). The study shall include the following:
 
-&emsp;“(A) An analysis of whether covered beneficiaries who seek services through the Department of Veterans Affairs are receiving needed health care services in a timely manner from the Department of Veterans Affairs, as compared to the timeliness of the care available to covered beneficiaries under TRICARE Prime (as set forth in access to care standards under TRICARE program policy that are applicable to the care being sought).
+&emsp;“(A) An analysis of whether covered beneficiaries who seek services through the Department of Veterans Affairs are receiving needed health care servicesin a timely manner from the Department of Veterans Affairs, as compared to the timeliness of the care available to covered beneficiaries under TRICARE Prime (as set forth in access to care standards under TRICARE program policy that are applicable to the care being sought).
 
 &emsp;“(B) An evaluation of the quality of care for covered beneficiaries who do not receive needed services from the Department of Veterans Affairs within a time period that is comparable to the time period provided for under such access to care standards and who then must seek alternative care under the TRICARE program.
 
@@ -102,7 +224,7 @@ Reimbursement.—The Secretary of Defense shall reimburse the Secretary of Veter
 
 “(c)
 
-Agreement.—(1) If the Secretary of Defense and the Secretary of Veterans Affairs carry out the pilotprogram authorized by this section, the Secretaries shall enter into an agreement specifying the geographic areas in which the pilot program is carried out and the means for making reimbursement payments under subsection (b).
+Agreement.—(1) If the Secretary of Defense and the Secretary of Veterans Affairs carry out the pilot program authorized by this section, the Secretaries shall enter into an agreement specifying the geographic areas in which the pilot program is carried out and the means for making reimbursement payments under subsection (b).
 
 “(2) The other administering Secretaries shall also enter into the agreement to the extent that the Secretary of Defense determines necessary to apply the pilot program, including the requirement for reimbursement, to the uniformed services not under the jurisdiction of the Secretary of a military department.
 
@@ -170,7 +292,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §742\], Oct. 30, 2000, 114 Stat
 
 “(a)
 
-Error Tracking Process.—The Secretary of Defense shall implement a centralized process for reporting, compilation, and analysis of errors in the provision of health care under the defense health program that endanger patients beyond the normal risks associated with the care and treatment of such patients. To the extent practicable, that process shall emulate the system established by the Secretary of Veterans Affairs for reporting, compilation, and analysis of errors in the provision of health care under the Department of Veterans Affairs health care system that endanger patients beyond such risks.
+Error Tracking Process.—The Secretary of Defense shall implement a centralized process for reporting, compilation, and analysis of errors in the provision of health care under the defense health program that endanger patients beyond the normal risks associated with the care and treatment of such patients. To the extent practicable, that process shall emulate the system established by the Secretary of Veterans Affairsfor reporting, compilation, and analysis of errors in the provision of health care under the Department of Veterans Affairs health care system that endanger patients beyond such risks.
 
 “(b)
 
@@ -186,7 +308,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §743\], Oct. 30, 2000, 114 Stat
 
 #### Patient Care Reporting and Management System
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §754\], Oct. 30, 2000, 114 Stat. 1654, 1654A–196, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §754\], Oct. 30, 2000, 114 Stat. 1654, 1654A–196, as amended by Pub. L. 109–163, div. A, title VII, §741, Jan. 6, 2006, 119 Stat. 3360, provided that:
 
 “(a)
 
@@ -210,7 +332,7 @@ Requirements for System.—The patient care error reporting and management syste
 
 &emsp;“(2) For each health care organization of the Department of Defense and for the entire Defense health program, patient safety standards that are necessary for the development of a full understanding of patient safety issues in each such organization and the entire program, including the nature and types of errors and the systemic causes of the errors.
 
-&emsp;“(3) Establishment of a Department of Defense Patient Safety Center within the Armed Forces Institute of Pathology, which shall have the following missions:
+&emsp;“(3) Establishment of a Department of Defense Patient Safety Center, which shall have the following missions:
 
 &emsp;&emsp;“(A) To analyze information on patient care errors that is submitted to the Center by each military health care organization.
 
@@ -226,7 +348,7 @@ Requirements for System.—The patient care error reporting and management syste
 
 “(d)
 
-MedTeams Program.—The Secretary shall expand the health care team coordination program to integrate that program into all Department of Defense health care operations. In carrying out this subsection, the Secretary shall take the following actions:
+Medical Team Training Program.—The Secretary shall expand the health care team coordination program to integrate that program into all Department of Defense health care operations. In carrying out this subsection, the Secretary shall take the following actions:
 
 &emsp;“(1) Establish not less than two Centers of Excellence for the development, validation, proliferation, and sustainment of the health care team coordination program, one of which shall support all fixed military health care organizations, the other of which shall support all combat casualty care organizations.
 
@@ -280,7 +402,7 @@ Report by Secretary of Defense.—Not later than January 21, 2000, the Secretary
 
 #### Health Care Quality Information and Technology Enhancement
 
-Pub. L. 106–65, div. A, title VII, §723, Oct. 5, 1999, 113 Stat. 695, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §753(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that:
+Pub. L. 106–65, div. A, title VII, §723, Oct. 5, 1999, 113 Stat. 695, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §753(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 109–163, div. A, title VII, §742, Jan. 6, 2006, 119 Stat. 3360, provided that:
 
 “(a)
 
@@ -368,13 +490,17 @@ Medical Informatics Advisory Committee.—(1) The Secretary of Defense shall est
 
 Annual Report.—The Assistant Secretary of Defense for Health Affairs shall submit to Congress on an annual basis a report on the quality of health care furnished under the health care programs of the Department of Defense. The report shall cover the most recent fiscal year ending before the date the report is submitted and shall contain a discussion of the quality of the health care measured on the basis of each statistical and customer satisfaction factor that the Assistant Secretary determines appropriate, including, at a minimum, a discussion of the following:
 
-&emsp;“(1) Health outcomes.
+&emsp;“(1) Measures of the quality of health care furnished, including timeliness and accessibility of care.
 
-&emsp;“(2) The extent of use of health report cards.
+&emsp;“(2) Population health.
 
-&emsp;“(3) The extent of use of standard clinical pathways.
+&emsp;“(3) Patient safety.
 
-&emsp;“(4) The extent of use of innovative processes for surveillance.”
+&emsp;“(4) Patient satisfaction.
+
+&emsp;“(5) The extent of use of evidence-based health care practices.
+
+&emsp;“(6) The effectiveness of biosurveillance in detecting an emerging epidemic.”
 
 #### Joint Department of Defense and Department of Veterans Affairs Reports Relating to Interdepartmental Cooperation in Delivery of Medical Care
 
@@ -414,7 +540,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 “(c)
 
-Joint Survey of Populations Served.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly conduct a survey of their respective medical care beneficiary populations to identify, by category of beneficiary (defined as the Secretaries consider appropriate), the expectations of, requirementsfor, and behavior patterns of the beneficiaries with respect to medical care. The two Secretaries shall develop the protocol for the survey jointly, but shall obtain the services of an entity independent of the Department of Defense and the Department of Veterans Affairs to carry out the survey.
+Joint Survey of Populations Served.—(1) The Secretary of Defense and the Secretary of Veterans Affairs shall jointly conduct a survey of their respective medical care beneficiary populations to identify, by category of beneficiary (defined as the Secretaries consider appropriate), the expectations of, requirements for, and behavior patterns of the beneficiaries with respect to medical care. The two Secretaries shall develop the protocol for the survey jointly, but shall obtain the services of an entity independent of the Department of Defense and the Department of Veterans Affairs to carry out the survey.
 
 “(2) The survey shall include the following:
 
@@ -500,7 +626,7 @@ Establishment of External Peer Review Process.—The Secretary of Defense shall 
 
 “(b)
 
-Peer Review Requirements.—Funds of the Department of Defense may not be obligated or expendedfor any medical research project unless the research protocol for the project has been approved by the external peer review process established under subsection (a).
+Peer Review Requirements.—Funds of the Department of Defense may not be obligated or expended for any medical research project unless the research protocol for the project has been approved by the external peer review process established under subsection (a).
 
 “(c)
 
@@ -556,5 +682,5 @@ Pub. L. 102–190, div. A, title VII, §733, Dec. 5, 1991, 105 Stat. 1408, as am
 
 #### Identification and Treatment of Drug and Alcohol Dependent Persons in the Armed Forces
 
-Pub. L. 92–129, title V, §501, Sept. 28, 1971, 85 Stat. 361, which directed Secretary of Defense to devise ways to identify, treat, and rehabilitate drug and alcohol dependent members of the armed forces, to identify, refuse admission to, and refer to civilian treatment facilities such persons seeking entrance to the armed forces, and to report to Congress on and suggest additional legislation concerning these matters, was repealed and restated as sections 978 and 1090 of this title by Pub. L. 97–295, §§1(14)(A), (15)(A), 6(b), Oct. 12, 1982, 96 Stat. 1289, 1290, 1314.
+Pub. L. 92–129, title V, §501, Sept. 28, 1971, 85 Stat. 361, which directed Secretary of Defense to devise ways to identify, treat, and rehabilitate drug and alcohol dependent members of the armed forces, to identify, refuse admission to, and refer to civilian treatment facilities such persons seeking entrance to the armed forces, and to report to Congress on and suggest additional legislation concerning these matters, was repealed and restated as sections 978 and 1090 of this titleby Pub. L. 97–295, §§1(14)(A), (15)(A), 6(b), Oct. 12, 1982, 96 Stat. 1289, 1290, 1314.
 

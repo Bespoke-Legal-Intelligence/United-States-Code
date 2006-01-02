@@ -62,7 +62,7 @@ Pub. L. 106–554, §1(a)(2) \[title I, §6\], Dec. 21, 2000, 114 Stat. 2763, 27
 
 &emsp;&emsp;“(A) has approved a written leave policy authorizing employees to accrue leave and establishing the conditions upon which accrued leave may be paid; and
 
-&emsp;&emsp;“(B) submits written certification to the Financial Clerk of the Senate of the number of days ofannual leave accrued by the employee for which payment is to be made under the written leave policy of the employing office; and
+&emsp;&emsp;“(B) submits written certification to the Financial Clerk of the Senate of the number of days of annual leave accrued by the employee for which payment is to be made under the written leave policy of the employing office; and
 
 &emsp;“(2) there are sufficient funds to cover the lump sum payment.
 

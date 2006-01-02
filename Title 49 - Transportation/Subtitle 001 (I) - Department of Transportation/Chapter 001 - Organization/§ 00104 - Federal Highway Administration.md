@@ -16,7 +16,7 @@
 
 (d) Notwithstanding the provisions of sections 101(d) and 144 of title 23, highway bridges determined to be unreasonable obstructions to navigation under the Truman-Hobbs Act may be funded from amounts set aside from the discretionary bridge program. The Secretary shall transfer these allocations and the responsibility for administration of these funds to the United States Coast Guard.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1), Oct. 19, 1996, 110 Stat. 3905; Pub. L. 106–159, title I, §101(c)(2), Dec. 9, 1999, 113 Stat. 1751.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2415; Pub. L. 103–272, §§4(j)(2), 5(m)(2), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 104–324, title I, §101(b)(1), Oct. 19, 1996, 110 Stat. 3905; Pub. L. 106–159, title I, §101(c)(2), Dec. 9, 1999, 113 Stat. 1751.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,7 @@ Subsec. (c)(2). Pub. L. 103–272, §5(m)(2), substituted “315” for “31”
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–159, title I, §107(a), Dec. 9, 1999, 113 Stat. 1758, provided that: “This Act \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[Dec. 9, 1999\]; except that the amendments made by section 101 \[enacting section 113 of this title and amending this section, sections 5314 and 5316 of Title 5, Government Organization and Employees, and section 104 of Title 23, Highways\] shall take effect on January 1, 2000.”
+Pub. L. 106–159, title I, §107(a), Dec. 9, 1999, 113 Stat. 1758, provided that: “This Act \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[Dec. 9, 1999\]; except that the amendments made by section 101 \[enacting section 113 of this title and amending this section, sections 5314 and 5316 ofTitle 5, Government Organization and Employees, and section 104 of Title 23, Highways\] shall take effect on January 1, 2000.”
 
 #### Transfer of Functions
 

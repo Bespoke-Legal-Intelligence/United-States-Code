@@ -10,5 +10,9 @@ The resolving clause of the joint resolution referred to in subsection (a) of th
 
 (Pub. L. 95–617, title V, §508, Nov. 9, 1978, 92 Stat. 3162.)
 
+#### Definitions
+
+The definition of “antitrust laws” in section 2602 of Title 16, Conservation, applies to this section.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “waive”.</i>
 

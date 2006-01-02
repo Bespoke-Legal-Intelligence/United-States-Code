@@ -12,7 +12,7 @@ If for any taxable year beginning in the recognition period an S corporation has
 
 #### (2) Net operating loss carryforwards from C years allowed
 
-&emsp;Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the amount of the net recognized built-in gain shall be treated as taxable income. Rules similar to the rules of the preceding sentences of this paragraph shall apply in the case of a capital loss carryforward arising in a taxable year for which the corporation was a C corporation.
+&emsp;Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the amount of the net recognized built-in gain shall betreated as taxable income. Rules similar to the rules of the preceding sentences of this paragraph shall apply in the case of a capital loss carryforward arising in a taxable year for which the corporation was a C corporation.
 
 #### (3) Credits
 
@@ -202,7 +202,7 @@ Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -231,8 +231,4 @@ Amendment by Pub. L. 97–448 effective on date of enactment of Subchapter S Rev
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 1366, 1375, 6655 of this title.
 

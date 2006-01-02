@@ -24,7 +24,7 @@
 
 (2)
 
-Compliance cost estimates.—A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of section 1002 of this title after the effective date of such section 1002 of this title, including projections of the amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.
+Compliance cost estimates.—A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of section 1002 of this title after the effective date of such section 1002 of this title, including projections ofthe amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.
 
 (Pub. L. 103–414, title I, §112, Oct. 25, 1994, 108 Stat. 4288; Pub. L. 104–316, title I, §126(b), Oct. 19, 1996, 110 Stat. 3840.)
 

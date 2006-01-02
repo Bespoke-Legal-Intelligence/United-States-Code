@@ -4,7 +4,7 @@
 
 &emsp;(1) enlisted members of the Regular Navy and the Regular Marine Corps;
 
-&emsp;(2) enlisted members of the Naval Reserve and the Marine Corps Reserve; or
+&emsp;(2) enlisted members of the Navy Reserve and the Marine Corps Reserve; or
 
 &emsp;(3) at large by the President;
 
@@ -14,7 +14,7 @@
 
 (c) The failure of a member of a graduating class to complete the course with his class does not delay the appointment of his successor.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Pub. L. 88–276, §3, Mar. 3, 1964, 78 Stat. 151; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 93–171, §2(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(2), Oct. 7, 1975, 89 Stat. 538; Pub. L. 97–60, title II, §206, Oct. 14, 1981, 95 Stat. 1007; Pub. L. 101–510, div. A, title V, §532(b)(2), title XIII, §1322(a)(14), Nov. 5, 1990, 104 Stat. 1563, 1671.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 430; Pub. L. 88–276, §3, Mar. 3, 1964, 78 Stat. 151; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 93–171, §2(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(2), Oct. 7, 1975, 89 Stat. 538; Pub. L. 97–60, title II, §206, Oct. 14, 1981, 95 Stat. 1007; Pub. L. 101–510, div. A, title V, §532(b)(2), title XIII, §1322(a)(14), Nov. 5, 1990, 104 Stat. 1563, 1671; Pub. L. 109–163, div. A, title V, §515(b)(1)(R), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes
 
@@ -58,6 +58,8 @@ In subsection (f) the word “admission” is changed to the word “appointment
 
 #### Amendments
 
+2006—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 1990—Subsec. (a). Pub. L. 101–510, §1322(a)(14), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Navy shall, as soon as possible after the first of June of each year, notify in writing each Senator, Representative, and delegate in Congress of any vacancy that will exist at the Naval Academy because of graduation in the following year, or that may occur for other reasons, for which the member or delegate is entitled to nominate a candidate and nine alternates.”
 
 Subsec. (b). Pub. L. 101–510, §1322(a)(14)(B), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
@@ -87,8 +89,4 @@ For effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93
 #### Number of Alternate-Appointees From Congressional Sources Not To Be Reduced Because of Additional Presidential Appointments
 
 Nonreduction of number of appointees from congressional sources under this section because of additional presidential appointments under section 6954(b)(1) of this title, see note set out under section 4343 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6954 of this title.
 

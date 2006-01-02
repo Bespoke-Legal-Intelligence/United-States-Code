@@ -14,7 +14,7 @@
 
 #### (2) Nonseparately computed income or loss defined
 
-&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss”means gross income minus the deductions allowed to the corporation under this chapter, determined by excluding all items described in paragraph (1)(A).
+&emsp;For purposes of this subchapter, the term “nonseparately computed income or loss” means gross income minus the deductions allowed to the corporation under this chapter, determined by excluding all items described in paragraph (1)(A).
 
 #### (b) Character passed thru
 
@@ -36,7 +36,13 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (2) Indefinite carryover of disallowed losses and deductions
 
-&emsp;Any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.
+
+#### (B) Transfers of stock between spouses or incident to divorce
+
+&emsp;&emsp;In the case of any transfer described in section 1041(a) of stock of an S corporation, any loss or deduction described in subparagraph (A) with respect such stock shall be treated as incurred by the corporation in the succeeding taxable year with respect to the transferee.
 
 #### (3) Carryover of disallowed losses and deductions to post-termination transition period
 
@@ -58,7 +64,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 #### (e) Treatment of family group
 
-If an individual who is a member of the family (within the meaning of section 704(e)(3)) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
+If an individual who is a member of the family (within the meaning of section 704(e)(3)) of one or more shareholders of an S corporation renders services for the corporation or furnishescapital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
 
 #### (f) Special rules
 
@@ -78,9 +84,11 @@ If an individual who is a member of the family (within the meaning of section 70
 
 &emsp;&emsp;(B) the total passive investment income for the taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1677; amended Pub. L. 98–369, div. A, title IV, §474(r)(26), title VII, §735(c)(16), July 18, 1984, 98 Stat. 844, 985; Pub. L. 99–514, title VI, §632(c)(2), title VII, §701(e)(4)(K), Oct. 22, 1986, 100 Stat. 2277, 2343; Pub. L. 100–647, title I, §1006(f)(5)(E), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 101–239, title VII, §7811(c)(7), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1302(e), 1307(c)(3)(A), 1309(a)(1), 1312, Aug. 20, 1996, 110 Stat. 1779, 1782, 1783, 1784; Pub. L. 108–357, title II, §235(a), Oct. 22, 2004, 118 Stat. 1435.)
 
 #### Amendments
+
+2004—Subsec. (d)(2). Pub. L. 108–357 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Any loss or deduction which is disallowed for any taxable year by reason of paragraph (1) shall be treated as incurred by the corporation in the succeeding taxable year with respect to that shareholder.”
 
 1996—Subsec. (a)(1). Pub. L. 104–188, §1302(e), inserted “, or of a trust or estate which terminates,” after “who dies” in introductory provisions.
 
@@ -108,6 +116,10 @@ Pub. L. 99–514, §701(e)(4)(K), struck out “56 or” before “1374”.
 
 Subsec. (f)(1). Pub. L. 98–369, §735(c)(16), substituted “and special fuels” for “, special fuels, and lubricating oil”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §235(b), Oct. 22, 2004, 118 Stat. 1435, as amended by Pub. L. 109–135, title IV, §403(c), Dec. 21, 2005, 119 Stat. 2620, provided that: “The amendment made by this section \[amending this section\] shall apply to transfers after December 31, 2004.”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
@@ -128,7 +140,7 @@ Amendment by section 701(e)(4)(K) of Pub. L. 99–514 applicable to taxable year
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(26) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 735(c)(16) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
@@ -139,8 +151,4 @@ Section applicable to taxable years beginning after Dec. 31, 1982, except that i
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by section 701(e)(4)(K) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 59, 108, 453B, 512, 641, 1362, 1363, 1367, 7519 of this title.
 

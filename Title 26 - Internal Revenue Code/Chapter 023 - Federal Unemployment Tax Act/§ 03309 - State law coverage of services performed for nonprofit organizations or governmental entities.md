@@ -10,7 +10,7 @@ For purposes of section 3304(a)(6)—
 
 &emsp;&emsp;(B) service excluded from the term “employment” solely by reason of paragraph (7) of section 3306(c); and
 
-&emsp;(2) the State law shall provide that a governmental entity, including an Indian tribe, or any other organization (or group of governmental entities or other organizations) which, but for the requirements of this paragraph, would be liable for contributions with respect to service to which paragraph (1) applies may elect, for such minimum period and at such time as may be provided by State law, to pay (in lieu of such contributions) into the State unemployment fund amounts equal to the amounts of compensation attributable under the State law to such service. The State law may provide safeguards to ensure that governmental entities or other organizations so electing will make the payments required under such elections.
+&emsp;(2) the State law shall provide that a governmental entity, including an Indian tribe, or any other organization (or group of governmental entities or other organizations) which, but for the requirements of this paragraph, would be liable for contributions with respect to service to which paragraph (1) applies may elect, for such minimum period and at such time as may be provided by State law, to pay (in lieu of such contributions) into the State unemployment fund amounts equal to the amounts of compensation attributable underthe State law to such service. The State law may provide safeguards to ensure that governmental entities or other organizations so electing will make the payments required under such elections.
 
 #### (b) Section not to apply to certain service
 
@@ -48,7 +48,7 @@ This section shall not apply to service performed—
 
 #### (c) Nonprofit organizations must employ 4 or more
 
-This section shall not apply to service performed during any calendar year in the employ of any organization unless on each of some 20 days during such calendar year or the preceding calendar year, each day being in a different calendar week, the total number of individuals whowere employed by such organization in employment (determined without regard to section 3306(c)(8) and by excluding service to which this section does not apply by reason of subsection (b)) for some portion of the day (whether or not at the same moment of time) was 4 or more.
+This section shall not apply to service performed during any calendar year in the employ of any organization unless on each of some 20 days during such calendar year or the preceding calendar year, each day being in a different calendar week, the total number of individuals who were employed by such organization in employment (determined without regard to section 3306(c)(8) and by excluding service to which this section does not apply by reason of subsection (b)) for some portion of the day (whether or not at the same moment of time) was 4 or more.
 
 #### (d) Election by Indian tribe
 
@@ -112,9 +112,5 @@ For effective date of amendment by section 506(a) of Pub. L. 94–566, see secti
 
 #### Effective Date
 
-Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only withrespect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3303, 3304 of this title.
+Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only with respect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
 

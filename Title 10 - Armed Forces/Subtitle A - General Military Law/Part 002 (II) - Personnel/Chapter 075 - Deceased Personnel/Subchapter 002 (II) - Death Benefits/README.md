@@ -47,10 +47,6 @@ Pub. L. 106–65, div. A, title V, §578(k)(2)(A), Oct. 5, 1999, 113 Stat. 631, 
 
 1958—Pub. L. 85–861, §1(32)(B), (C), Sept. 2, 1958, 72 Stat. 1455, struck out “CARE OF THE DEAD” from chapter heading, and added items 1475 to 1480.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 33 section 3071.
-
 
 ---
 

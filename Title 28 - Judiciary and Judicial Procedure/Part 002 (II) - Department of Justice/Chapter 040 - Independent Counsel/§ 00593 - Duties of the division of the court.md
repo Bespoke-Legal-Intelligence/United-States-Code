@@ -14,7 +14,7 @@ Authority.—Upon receipt of an application under section 592(c), the division o
 
 &emsp;(2)
 
-Qualifications of independent counsel.—The division of the court shall appoint as independent counsel an individual who has appropriate experience and who will conduct the investigation and any prosecution in a prompt, responsible, and cost-effective manner. The division of the court shall seek to appoint as independent counsel an individual who will serve to the extent necessary to complete the investigation and any prosecution without undue delay. The division of the court may not appoint as an independent counsel any person who holds any office of profit or trust under the United States.
+Qualifications of independent counsel.—The division of the court shall appointas independent counsel an individual who has appropriate experience and who will conduct the investigation and any prosecution in a prompt, responsible, and cost-effective manner. The division of the court shall seek to appoint as independent counsel an individual who will serve to the extent necessary to complete the investigation and any prosecution without undue delay. The division of the court may not appoint as an independent counsel any person who holds any office of profit or trust under the United States.
 
 &emsp;(3)
 

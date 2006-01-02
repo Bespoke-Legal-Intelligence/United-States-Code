@@ -6,7 +6,7 @@ The Secretary may, under appropriate conditions determined by the Secretary, aut
 
 #### (b) Individual patient access to investigational products intended for serious diseases
 
-Any person, acting through a physician licensed in accordance with State law, may request from a manufacturer or distributor, andany manufacturer or distributor may, after complying with the provisions of this subsection, provide to such physician an investigational drug or investigational device for the diagnosis, monitoring, or treatment of a serious disease or condition if—
+Any person, acting through a physician licensed in accordance with State law, may request from a manufacturer or distributor, and any manufacturer or distributor may, after complying with the provisions of this subsection, provide to such physician an investigational drug or investigational device for the diagnosis, monitoring, or treatment of a serious disease or condition if—
 
 &emsp;(1) the licensed physician determines that the person has no comparable or satisfactory alternative therapy available to diagnose, monitor, or treat the disease or condition involved, and that the probable risk to the person from the investigational drug or investigational device is not greater than the probable risk from the disease or condition;
 
@@ -20,7 +20,7 @@ Any person, acting through a physician licensed in accordance with State law, ma
 
 Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an “expanded access protocol”), the Secretary shall permit such investigational drug or investigational device to be made available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
 
-&emsp;(1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use in the diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
+&emsp;(1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use inthe diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
 
 &emsp;(2) there is no comparable or satisfactory alternative therapy available to diagnose, monitor, or treat that stage of disease or condition in the population of patients to which the investigational drug or investigational device is intended to be administered;
 

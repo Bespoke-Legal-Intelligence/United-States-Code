@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any otherwise applicable nonbankruptcy law, a plan shall—
 
-&emsp;(1) designate, subject to section 1122 of this title, classes of claims, other than claims of a kind specified in section 507(a)(1), 507(a)(2), or 507(a)(8) of this title, and classes of interests;
+&emsp;(1) designate, subject to section 1122 of this title, classes of claims, other than claims of a kind specified in section 507(a)(2), 507(a)(3), or 507(a)(8) of this title, and classes of interests;
 
 &emsp;(2) specify any class of claims or interests that is not impaired under the plan;
 
@@ -32,9 +32,11 @@
 
 &emsp;&emsp;(J) issuance of securities of the debtor, or of any entity referred to in subparagraph (B) or (C) of this paragraph, for cash, for property, for existing securities, or in exchange for claims or interests, or for any other appropriate purpose;
 
-&emsp;(6) provide for the inclusion in the charter of the debtor, if the debtor is a corporation, or of any corporation referred to in paragraph (5)(B) or (5)(C) of this subsection, of a provision prohibiting the issuance of nonvoting equity securities, and providing, as to the several classes of securities possessing voting power, an appropriate distribution of such power among such classes, including, in the case of any class of equity securities having a preference over another class of equity securities with respect to dividends, adequate provisions for the election of directors representing such preferred class in the event of default in the payment of such dividends; and
+&emsp;(6) provide for the inclusion in the charter of the debtor, if the debtor is a corporation, or of any corporation referred to in paragraph (5)(B) or (5)(C) of this subsection, of a provision prohibiting the issuance of nonvoting equity securities, and providing, as to the several classes of securities possessing voting power, an appropriate distribution of such power among such classes, including, in the case of any class of equity securities having a preference over another class of equity securities with respect to dividends, adequate provisions for the election of directors representing such preferred class in the event of default in the payment of such dividends;
 
-&emsp;(7) contain only provisions that are consistent with the interests of creditors and equity security holders and with public policy with respect to the manner of selection of any officer, director, or trustee under the plan and any successor to such officer, director, or trustee.
+&emsp;(7) contain only provisions that are consistent with the interests of creditors and equity security holders and with public policy with respect to the manner of selection of any officer, director, or trustee under the plan and any successor to such officer, director, or trustee; and
+
+&emsp;(8) in a case in which the debtor is an individual, provide for the payment to creditors under the plan of all or such portion of earnings from personal services performed by the debtor after the commencement of the case or other future income of the debtor as is necessary for the execution of the plan.
 
 (b) Subject to subsection (a) of this section, a plan may—
 
@@ -58,7 +60,7 @@
 
 (d) Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6), 305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6), 305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146; Pub. L. 109–8, title III, §321(b), title XV, §1502(a)(7), Apr. 20, 2005, 119 Stat. 95, 216.)
 
 #### Historical and Revision Notes
 
@@ -88,6 +90,10 @@ Subsection (c) protects an individual debtor's exempt property by prohibiting it
 
 #### Amendments
 
+2005—Subsec. (a)(1). Pub. L. 109–8, §1502(a)(7), substituted “507(a)(2), 507(a)(3)” for “507(a)(1), 507(a)(2)”.
+
+Subsec. (a)(8). Pub. L. 109–8, §321(b), added par. (8).
+
 1994—Subsec. (a)(1). Pub. L. 103–394, §§304(h)(6), 501(d)(31), substituted “507(a)(8) of this title,” for “507(a)(7) of this title”.
 
 Subsec. (b)(5), (6). Pub. L. 103–394, §206, added par. (5) and redesignated former par. (5) as (6).
@@ -105,6 +111,10 @@ Subsec. (a)(5). Pub. L. 98–353, §507(a)(4), substituted “implementation” 
 Subsec. (a)(5)(G). Pub. L. 98–353, §507(a)(5), inserted “of” after “waiving”.
 
 Subsec. (b)(2). Pub. L. 98–353, §507(b), substituted “rejection, or assignment” for “or rejection”, and “under such section” for “under section 365 of this title”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

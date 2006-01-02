@@ -16,7 +16,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the divorce or separation instrument does not designate such payment as a payment which is not includible in gross income under this section and not allowable as a deduction under section 215,
 
-&emsp;&emsp;(C) in the case of an individual legally separated from his spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
+&emsp;&emsp;(C) in the case of an individual legally separated from his spouse under a decree of divorce or of separate maintenance, the payeespouse and the payor spouse are not members of the same household at the time such payment is made, and
 
 &emsp;&emsp;(D) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
 
@@ -185,8 +185,4 @@ Requirement of identification number.—Section 215(c) of the Internal Revenue C
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 121, 152, 215, 219, 220, 223, 382, 408 of this title.
 

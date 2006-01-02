@@ -4,7 +4,7 @@
 
 (b) The clerk may appoint, with the approval of the court, necessary deputies, clerical assistants and employees in such number as may be approved by the Director of the Administrative Office of the United States Courts. Such deputies, clerical assistants and employees shall be subject to removal by the clerk with the approval of the court.
 
-(c) The clerk of each district court shall reside in the district for which he is appointed, except that the clerk of the district court for the District of Columbia and the Southern District of New York may reside within twenty milesthereof. The district court may designate places within the district for the offices of the clerk and his deputies, and their official stations.
+(c) The clerk of each district court shall reside in the district for which he is appointed, except that the clerk of the district court for the District of Columbia and the Southern District of New York may reside within twenty miles thereof. The district court may designate places within the district for the offices of the clerk and his deputies, and their official stations.
 
 (d) A clerk of a district court or his deputy or assistant shall not receive any compensation or emoluments through any office or position to which he is appointed by the court, other than that received as such clerk, deputy or assistant, whether from the United States or from private litigants.
 
@@ -50,7 +50,7 @@ A provision that a breach of section 569 of title 28, U.S.C., 1940 ed., should b
 
 The provision of section 569 of title 28, U.S.C., 1940 ed., limiting the compensation of a clerk who is appointed United States commissioner, to $3,000 a year for both offices was omitted as obsolete. The proper adjustment of the compensation of such clerks is an administrative matter more appropriately regulated by the Director of the Administrative Office under the Supervision of the Judicial Conference of the United States. (See section 604 of this title.)
 
-Reference in sections 557, 567 and 568 of title 28, U.S.C., 1940 ed., to accounting by district court clerksin Alaska, were omitted as covered by sections 106 and 107 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to duties of those clerks.
+Reference in sections 557, 567 and 568 of title 28, U.S.C., 1940 ed., to accounting by district court clerks in Alaska, were omitted as covered by sections 106 and 107 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to duties of those clerks.
 
 References in sections 557 and 567 of title 28, U.S.C., 1940 ed., to the clerk of the district court of the United States for the District of Columbia, were omitted as covered by words “The clerk of each district court of the United States.”
 

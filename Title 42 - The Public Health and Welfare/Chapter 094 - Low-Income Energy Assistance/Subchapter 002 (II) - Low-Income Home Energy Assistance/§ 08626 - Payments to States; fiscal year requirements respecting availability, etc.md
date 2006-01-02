@@ -58,5 +58,5 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–558 applicable to amounts held available for fiscal years beginning after Sept. 30, 1985, see section 609(c) of Pub. L. 98–558, set out as a note under section 8621 of this title.
+Amendment by Pub. L. 98–558 applicable to amounts held available for fiscal years beginning after Sept. 30,1985, see section 609(c) of Pub. L. 98–558, set out as a note under section 8621 of this title.
 

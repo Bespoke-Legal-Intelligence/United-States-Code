@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established an Interim Council of the tribe which shall be composed of nine members. The Interim Council shall represent the tribe and its members in the implementation of thissubchapter and shall be the governing body of the tribe until the tribal governing body established in accordance with section 713d of this title first convenes.
+There is established an Interim Council of the tribe which shall be composed of nine members. The Interim Council shall represent the tribe and its members in the implementation of this subchapter and shall be the governing body of the tribe until the tribal governing body established in accordance with section 713d of this title first convenes.
 
 #### (b) Nomination and election of Interim Council members
 

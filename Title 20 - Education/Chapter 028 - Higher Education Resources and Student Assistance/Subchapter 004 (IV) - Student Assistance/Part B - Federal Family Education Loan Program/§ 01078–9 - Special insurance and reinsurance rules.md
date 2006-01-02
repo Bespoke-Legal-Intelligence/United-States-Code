@@ -22,7 +22,7 @@
 
 #### (2) Revocation authority
 
-&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) ofthis section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
+&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
 
 #### (3) Documentation
 
@@ -36,7 +36,7 @@
 
 #### (1) Audits for lenders and servicers
 
-&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to the Secretary and to each appropriate guaranty agency.
+&emsp;Each eligible lender or servicer desiring a designation under subsection (a) of this section shall have a financial and complianceaudit of the loan portfolio of such eligible lender or servicer conducted annually by a qualified independent organization from a list of qualified organizations promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall measure the lender's or servicer's compliance with the due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender or servicer for the purpose of this section. Each eligible lender or servicer shall submit the audit required by this section to the Secretary and to each appropriate guaranty agency.
 
 #### (2) Additional information on lenders and servicers
 
@@ -70,7 +70,7 @@
 
 #### (1) Audit of guaranty agencies
 
-&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall havea financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
+&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
 
 #### (2) Quarterly sample audits
 
@@ -86,7 +86,7 @@
 
 #### (5) Revocation for fraud
 
-&emsp;The Secretary may revoke the designation of a guaranty agency under subsection (a) of this section at any time if the Secretary has reason to believe the guaranty agency secured its designation under subsection (a) of this section through fraud or fails to comply with applicable regulations.
+&emsp;The Secretary may revoke the designation of a guaranty agency under subsection (a) ofthis section at any time if the Secretary has reason to believe the guaranty agency secured its designation under subsection (a) of this section through fraud or fails to comply with applicable regulations.
 
 #### (6) Revocation based on performance
 

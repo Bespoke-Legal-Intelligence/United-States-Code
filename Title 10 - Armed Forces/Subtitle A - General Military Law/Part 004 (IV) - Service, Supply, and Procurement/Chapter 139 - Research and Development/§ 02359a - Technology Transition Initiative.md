@@ -58,7 +58,7 @@ Technology Transition Council.—(1) There is a Technology Transition Council in
 
 &emsp;(C) The members of the Joint Requirements Oversight Council.
 
-(2) The duty of the Council shall be to provide advice and assistance to the Manager under this section.
+(2) The duty of the Council shall be to support the Under Secretary of Defense for Acquisition, Technology, and Logistics in developing policies to facilitate the rapid transition of technologies from science and technology programs into acquisition programs of the Department of Defense.
 
 (3) The Council shall meet not less often than semiannually to carry out its duty under paragraph (2).
 
@@ -68,7 +68,17 @@ Report.—Not later than March 31 of each year, the Under Secretary shall submit
 
 (i)
 
-Definition.—In this section, the term “acquisition executive”, with respect to a military department or Defense Agency, means the official designated as the senior procurement executive for that military department or Defense Agency for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).
+Definition.—In this section, the term “acquisition executive”, with respect to a military department or Defense Agency, means the official designated as the senior procurement executive for that military department or Defense Agency for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).<sup>1</sup>
 
-(Added Pub. L. 107–314, div. A, title II, §242(a)(1), Dec. 2, 2002, 116 Stat. 2494.)
+(Added Pub. L. 107–314, div. A, title II, §242(a)(1), Dec. 2, 2002, 116 Stat. 2494; amended Pub. L. 109–163, div. A, title II, §255(a), Jan. 6, 2006, 119 Stat. 3180.)
+
+#### References in Text
+
+Section 16 of the Office of Federal Procurement Policy Act, referred to in subsec. (i), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of Title 41, Public Contracts.
+
+#### Amendments
+
+2006—Subsec. (g)(2). Pub. L. 109–163 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The duty of the Council shall be to provide advice and assistance to the Manager under this section.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

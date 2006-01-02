@@ -10,7 +10,7 @@ In any such proceeding the Attorney General may file with the clerk of such cour
 
 In the event the Attorney General fails to file such a request in any such proceeding, it shall be the duty of the chief judge of the district (or in his absence, the acting chief judge) in which the case is pending immediately to designate a judge in such district to hear and determine the case. In the event that no judge in the district is available to hear and determine the case, the chief judge of the district, or the acting chief judge, as the case may be, shall certify this fact to the chief judge of the circuit (or in his absence, the acting chief judge) who shall then designate a district or circuit judge of the circuit to hear and determine the case.
 
-It shall be the duty of the judge designated pursuant to this section to assign the case forhearing at the earliest practicable date and to cause the case to be in every way expedited.
+It shall be the duty of the judge designated pursuant to this section to assign the case for hearing at the earliest practicable date and to cause the case to be in every way expedited.
 
 (Pub. L. 88–352, title II, §206, July 2, 1964, 78 Stat. 245.)
 

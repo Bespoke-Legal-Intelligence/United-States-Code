@@ -42,7 +42,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(i) the Secretary shall establish a period during which the Secretary may not transfer such properties except to such units and corporations;
 
-&emsp;&emsp;&emsp;(ii) the Secretary shall offer qualified HUD properties that are single family properties for purchase by units of general local government at a cost of $1 for each property, but only to the extent that the costs to the Federal Government of disposal at such price do not exceed the costs to the Federal Government of disposing ofproperty subject to the procedures for single family property established by the Secretary pursuant to the authority under the last sentence of section 1710(g) of this title;
+&emsp;&emsp;&emsp;(ii) the Secretary shall offer qualified HUD properties that are single family properties for purchase by units of general local government at a cost of $1 for each property, but only to the extent that the costs to the Federal Government of disposal at such price do not exceed the coststo the Federal Government of disposing of property subject to the procedures for single family property established by the Secretary pursuant to the authority under the last sentence of section 1710(g) of this title;
 
 &emsp;&emsp;&emsp;(iii) the Secretary may accept an offer to purchase a property made by a community development corporation only if the offer provides for purchase on a cost recovery basis; and
 
@@ -120,7 +120,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(i) lacks hot or cold piped water, a flush toilet, or both a bathtub and a shower in the unit, for the exclusive use of that unit;
 
-&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months,was uncomfortably cold for a period of more than 6 consecutive hours due to a malfunction of the heating system for the unit;
+&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months, was uncomfortably cold for a period of more than 6 consecutive hours due to a malfunction of the heating system for the unit;
 
 &emsp;&emsp;&emsp;(iii) has no functioning electrical service, exposed wiring, any room in which there is not a functioning electrical outlet, or has experienced three or more blown fuses or tripped circuit breakers during the preceding 90-day period;
 

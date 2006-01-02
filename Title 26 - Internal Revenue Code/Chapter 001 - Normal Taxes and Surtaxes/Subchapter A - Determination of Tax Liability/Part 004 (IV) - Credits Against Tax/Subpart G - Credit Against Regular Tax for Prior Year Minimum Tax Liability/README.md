@@ -6,10 +6,6 @@ Subpart G—Credit Against Regular Tax for Prior Year Minimum Tax Liability
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 6401 of this title.
-
 
 ---
 

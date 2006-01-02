@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d) and (e) of this section, each person who submits any of the following, on or after October 1, 2002, shall be subject to a fee established under subsection (c)(5) of this section for the fiscal year involved in accordance with the following:
+&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d) and (e) of this section, each person who submits any of the following, on or after October 1, 2002, shall be subject to a fee established under subsection (c)(1) of this section for the fiscal year involved in accordance with the following:
 
 &emsp;&emsp;&emsp;(i) A premarket application.
 
@@ -56,7 +56,7 @@
 
 #### (C) Payment
 
-&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002, shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) <sup>1</sup> of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.
+&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002,shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) <sup>1</sup> of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.
 
 #### (D) Refunds
 
@@ -74,69 +74,47 @@
 
 #### (b) Fee revenue amounts
 
-Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; $29,785,000 in fiscal year 2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
+Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; and $29,785,000 in fiscal year 2005. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.
 
-#### (c) Adjustments
+#### (c) Annual fee setting
 
-#### (1) Inflation adjustment
+#### (1) In general
 
-&emsp;The revenues established in subsection (b) of this section shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
+&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2002, publish in the Federal Register fees under subsection (a) of this section. The fees established for fiscal year 2006 shall be based on a premarket application fee of $259,600, and the fees established for fiscal year 2007 shall be based on a premarket application fee of $281,600.
 
-&emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; U.S. city average) for the 12 month period ending June 30 preceding the fiscal year for which fees are being established, or
-
-&emsp;&emsp;(B) the total percentage change for the previous fiscal year in basic pay under the General Schedule in accordance with section 5332 of title 5, as adjusted by any locality-based comparability payment pursuant to section 5304 of such title for Federal employees stationed in the District of Columbia.
-
-> &emsp;The adjustment made each fiscal year by this subsection shall be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2003 under this subsection.
-
-#### (2) Workload adjustment
-
-&emsp;After the fee revenues established in subsection (b) of this section are adjusted for a fiscal year for inflation in accordance with paragraph (1), the fee revenues shall, beginning with fiscal year 2004, be adjusted further each fiscal year to reflect changes in the workload of the Secretary for the process for the review of device applications. With respect to such adjustment:
-
-&emsp;&emsp;(A) The adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of premarket applications, investigational new device applications, premarket reports, supplements, and premarket notification submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fee revenues and fees resulting from the adjustment and the supporting methodologies.
-
-&emsp;&emsp;(B) Under no circumstances shall the adjustment result in fee revenues for a fiscal year that are less than the fee revenues for the fiscal year established in subsection (b) of this section, as adjusted for inflation under paragraph (1).
-
-#### (3) Compensating adjustment
-
-&emsp;After the fee revenues established in subsection (b) of this section are adjusted for a fiscal year for inflation in accordance with paragraph (1), and for workload in accordance with paragraph (2), the fee revenues shall, beginning with fiscal year 2004, be adjusted further each fiscal year, if necessary, to reflect the cumulative amount by which collections for previous fiscal years, beginning with fiscal year 2003, fell below the cumulative revenueamounts for such fiscal years specified in subsection (b) of this section, adjusted for such fiscal years for inflation in accordance with paragraph (1), and for workload in accordance with paragraph (2).
-
-#### (4) Final year adjustment
-
-&emsp;For fiscal year 2007, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fees and fee revenues established in subsection (b) of this section if such adjustment is necessary to provide for not more than three months of operating reserves of carryover user fees for the process for the review of device applications for the first three months of fiscal year 2008. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2007. If the Secretary has carryover user fee balances for such process in excess of three months of such operating reserves, the adjustment under this paragraph shall not be made.
-
-#### (5) Annual fee setting
-
-&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2002, establish, for the next fiscal year, and publish in the Federal Register, fees under subsection (a) of this section, based on the revenue amounts established under subsection (b) of this section and the adjustment provided under this subsection and subsection (e)(2)(C)(ii) of this section, except that the fees established for fiscal year 2003 shall be based on a premarket application fee of $154,000.
-
-#### (6) Limit
+#### (2) Limit
 
 &emsp;The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of device applications.
+
+#### (3) Supplement
+
+#### (A) In general
+
+&emsp;&emsp;For fiscal years 2006 and 2007, the Secretary may use unobligated carryover balances from fees collected in previous fiscal years to ensure that sufficient fee revenues are available in that fiscal year, so long as the Secretary maintains unobligated carryover balances of not less than 1 month of operating reserves for the first month of fiscal year 2008.
+
+#### (B) Notice to Congress
+
+&emsp;&emsp;Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives.
 
 #### (d) Small businesses; fee waiver and fee reduction regarding premarket approval fees
 
 #### (1) In general
 
-&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vi) of subsection (a)(2)(A) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+&emsp;The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term “small business” means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (vi) of subsection (a)(2)(A) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket approval fees
 
 #### (A) Definition
 
-#### (i) In general
-
-&emsp;&emsp;&emsp;For purposes of this subsection, the term “small business” means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
-
-#### (ii) Adjustment
-
-&emsp;&emsp;&emsp;The Secretary may adjust the $30,000,000 threshold established in clause (i) if the Secretary has evidence from actual experience that this threshold results in a reduction in revenues from premarket applications, premarket reports, and supplements that is 16 percent or more than would occur without small business exemptions and lower fee rates. To adjust this threshold, the Secretary shall publish a notice in the Federal Register setting out the rationale for the adjustment, and the new threshold.
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term “small business” means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
 
 #### (B) Evidence of qualification
 
-&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
+&emsp;&emsp;An applicant shall pay the higher fees established by the Secretary each year unless the applicant submits evidence that it qualifies for a waiver of the fee or the lower fee rate. The applicant shall support its claim that it meets the definition under subparagraph (A) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of itsaffiliates, partners, and parent firms, which show an amount of gross sales or receipts that is less than the maximum established in subparagraph (A). The applicant, and each of such affiliates, partners, and parent firms, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.
 
 #### (C) Reduced fees
 
-&emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(5) of this section may be paid at a reduced rate of 38 percent of the fee established under such subsection for a premarket application, a premarket report, or a supplement.
+&emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) of this section may be paid at a reduced rate of 38 percent of the fee established under such subsection for a premarket application, a premarket report, or a supplement.
 
 #### (D) Request for fee waiver or reduction
 
@@ -152,7 +130,7 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of this subsection, the term “small business” means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
+&emsp;&emsp;For purposes of this subsection, the term “small business” means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.
 
 #### (B) Evidence of qualification
 
@@ -162,11 +140,11 @@ Except as provided in subsections (c), (d), (e), (g), and (h) of this section, t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 80 percent of the fee that applies under subsection (a)(2)(A)(vii) of this section, as adjusted under clause (ii) and as established under subsection (c)(5) of this section.
+&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fee for a premarket notification submission may be paid at 80 percent of the fee that applies under subsection (a)(2)(A)(vii) of this section, as adjusted under clause (ii) and as established under subsection (c)(1) of this section.
 
 #### (ii) Adjustment per fee revenue amount
 
-&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, the Secretary, in setting the revenue amount under subsection (c)(5) of this section for premarket notification submissions, shall determine the revenue amount that would apply if all such submissions for the fiscal year involved paid a fee equal to 1.42 percent of the amount that applies under subsection (a)(2)(A)(i) of this section for premarket applications, and shall adjust the fee under subsection (a)(2)(A)(vii) of this section for premarket notification submissions such that the reduced fees collected under clause (i) of this subparagraph, when added to fees for such submissions that are not paid at the reduced rate, will equal such revenue amount for the fiscal year.
+&emsp;&emsp;&emsp;For fiscal year 2004 and each subsequent fiscal year, the Secretary, in setting the revenue amount under subsection (c)(1) of this section for premarket notification submissions, shall determine the revenue amount that would apply if all such submissions for the fiscal year involved paid a fee equal to 1.42 percent of the amount that applies under subsection (a)(2)(A)(i) of this section for premarket applications, and shall adjust the fee under subsection (a)(2)(A)(vii) of this section for premarket notification submissions such that the reduced fees collected under clause (i) of this subparagraph, when added to fees for such submissions that are not paid at the reduced rate, will equal such revenue amount for the fiscal year.
 
 #### (D) Request for reduction
 
@@ -182,7 +160,7 @@ A premarket application, premarket report, supplement, or premarket notification
 
 &emsp;With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products:
 
-&emsp;&emsp;(A)(i) For each of the fiscal years 2003 and 2004, the Secretary is expected to meet all of the goals identified for the fiscal year involved in any letter referred to in section 101(3) of the Medical Device User Fee and Modernization Act of 2002 (referred to in this paragraph as “performance goals”) if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is equal to or greater than $205,720,000 multiplied by the adjustment factor applicable to the fiscal year.
+&emsp;&emsp;(A)(i) For each of the fiscal years 2003 and 2004, the Secretary is expected to meet all of the goals identified for the fiscal year involved in any letter referred to in section 101(3) of the Medical Device User Fee andModernization Act of 2002 (referred to in this paragraph as “performance goals”) if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is equal to or greater than $205,720,000 multiplied by the adjustment factor applicable to the fiscal year.
 
 &emsp;&emsp;(ii) For each of the fiscal years 2003 and 2004, if the amount so appropriated for the fiscal year involved, excluding the amount of fees appropriated for such fiscal year, is less than the amount that applies under clause (i) for such fiscal year, the following applies:
 
@@ -190,29 +168,23 @@ A premarket application, premarket report, supplement, or premarket notification
 
 &emsp;&emsp;&emsp;(II) The Comptroller General of the United States shall submit to the Congress a report describing whether and to what extent the Secretary is meeting the performance goals identified for such fiscal year, and whether the Secretary will be able to meet all performance goals identified for fiscal year 2005. A report under the preceding sentence shall be submitted to the Congress not later than July 1 of the fiscal year with which the report is concerned.
 
-&emsp;&emsp;(B)(i) For fiscal year 2005, the Secretary is expected to meet all of the performance goals identified for the fiscal year if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is equal to or greater than the sum of—
+&emsp;&emsp;(B)(i) For fiscal year 2005, the Secretary is expected to meet all of the performance goals identified for the fiscal year if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is equal to or greater than $205,720,000 multiplied by the adjustment factor applicable to the fiscal year.
 
-&emsp;&emsp;&emsp;(I) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2003;
-
-&emsp;&emsp;&emsp;(II) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2004; and
-
-&emsp;&emsp;&emsp;(III) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2005.
-
-&emsp;&emsp;(ii) For fiscal year 2005, if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is less than the sum that applies under clause (i) for fiscal year 2005, the following applies:
+&emsp;&emsp;(ii) For fiscal year 2005, if the amount so appropriated for such fiscal year, excluding the amount of fees appropriated for such fiscal year, is more than 1 percent less than the amount that applies under clause (i), the following applies:
 
 &emsp;&emsp;&emsp;(I) The Secretary is expected to meet such goals to the extent practicable, taking into account the amounts that are available to the Secretary for such purpose, whether from fees under subsection (a) of this section or otherwise.
 
 &emsp;&emsp;&emsp;(II) The Comptroller General of the United States shall submit to the Congress a report describing whether and to what extent the Secretary is meeting the performance goals identified for such fiscal year, and whether the Secretary will be able to meet all performance goals identified for fiscal year 2006. The report under the preceding sentence shall be submitted to the Congress not later than July 1, 2005.
 
-&emsp;&emsp;(C) For fiscal year 2006, fees may not be assessed under subsection (a) of this section for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if the total of the amounts so appropriated for fiscal years 2003 through 2006, excluding the amount of fees appropriated for such fiscal years, is less than the sum of—
+&emsp;&emsp;(C) For fiscal year 2006, fees may not be assessed under subsection (a) of this section for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if the total of the amounts so appropriated for fiscal years 2005 and 2006, excluding the amount of fees appropriated for such fiscal years, is more than 1 percent less than the sum of—
 
 &emsp;&emsp;&emsp;(i) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2006; and
 
-&emsp;&emsp;&emsp;(ii) an amount equal to the sum that applies for purposes of subparagraph (B)(i).
+&emsp;&emsp;&emsp;(ii) an amount equal to the amount that applies for purposes of subparagraph (B)(i).
 
 &emsp;&emsp;(D) For fiscal year 2007, fees may not be assessed under subsection (a) of this section for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if—
 
-&emsp;&emsp;&emsp;(i) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is less than $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2007; or
+&emsp;&emsp;&emsp;(i) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2007; or
 
 &emsp;&emsp;&emsp;(ii) pursuant to subparagraph (C), fees were not assessed under subsection (a) of this section for fiscal year 2006.
 
@@ -260,11 +232,9 @@ A premarket application, premarket report, supplement, or premarket notification
 
 &emsp;&emsp;(B) $27,255,000 for fiscal year 2004;
 
-&emsp;&emsp;(C) $29,785,000 for fiscal year 2005;
+&emsp;&emsp;(C) $29,785,000 for fiscal year 2005; and
 
-&emsp;&emsp;(D) $32,615,000 for fiscal year 2006; and
-
-&emsp;&emsp;(E) $35,000,000 for fiscal year 2007,
+&emsp;&emsp;(D) such sums as may be necessary for each of fiscal years 2006 and 2007.<sup>2</sup>
 
 > &emsp;as adjusted to reflect adjustments in the total fee revenues made under this section and changes in the total amounts collected by application fees.
 
@@ -284,7 +254,7 @@ To qualify for consideration for a refund under subsection (a)(2)(D) of this sec
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577.)
+(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439.)
 
 #### Termination of Section
 
@@ -297,6 +267,54 @@ Section 360e(c)(3) of this title, referred to in subsec. (a)(2)(C), which relate
 Section 101(3) of the Medical Device User Fee and Modernization Act of 2002, referred to in subsec. (g)(1)(A)(i), is section 101(3) of Pub. L. 107–250, which is set out as a note under section 379i of this title.
 
 #### Amendments
+
+2005—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)”.
+
+Subsec. (b). Pub. L. 109–43, §2(a)(1), inserted “and” after “2004;” and substituted “2005” for “2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007”.
+
+Subsec. (c). Pub. L. 109–43, §2(a)(2)(A), substituted “Annual fee setting” for “Adjustments” in heading.
+
+Subsec. (c)(1). Pub. L. 109–43, §2(a)(2)(B)–(D), redesignated par. (5) as (1), substituted “In general” for “Annual fee setting” in heading, “publish in the Federal Register fees under subsection (a) of this section. The fees” for “establish, for the next fiscal year, and publish in the Federal Register, fees under subsection (a) of this section, based on the revenue amounts established under subsection (b) of this section and the adjustment provided under this subsection and subsection (e)(2)(C)(ii) of this section, except that the fees”, “2006” for “2003”, and “$259,600, and the fees established for fiscal year 2007 shall be based on a premarket application fee of $281,600.” for “$154,000.” in text, and struck out former par. (1) which required an annual inflation adjustment of the revenues established in subsec. (b).
+
+Subsec. (c)(2). Pub. L. 109–43, §2(a)(2)(B), (C), redesignated par. (6) as (2) and struck out former par. (2) which required an annual adjustment of the fee revenues established in subsec. (b) to reflect changes in the workload of the Secretary for the process for the review of device applications.
+
+Subsec. (c)(3). Pub. L. 109–43, §2(a)(2)(B), (E), added par. (3) and struck out former par. (3) which required an annual compensating adjustment of the fee revenues established in subsec. (b).
+
+Subsec. (c)(4). Pub. L. 109–43, §2(a)(2)(B), struck out par. (4) which provided for a fiscal year 2007 adjustment of the fee revenues established in subsec. (b) to provide for operating reserves of carryover user fees.
+
+Subsec. (c)(5), (6). Pub. L. 109–43, §2(a)(2)(C), redesignated pars. (5) and (6) as (1) and (2), respectively.
+
+Subsec. (d)(1). Pub. L. 109–43, §2(a)(3)(A), inserted after first sentence “For the purposes of this paragraph, the term ‘small business’ means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.”
+
+Subsec. (d)(2)(A). Pub. L. 109–43, §2(a)(3)(B), struck out cl. (i) designation and heading before “For purposes”, substituted “paragraph,” for “subsection,” and “$100,000,000” for “$30,000,000”, and struck out heading and text of clause (ii). Text read as follows: “The Secretary may adjust the $30,000,000 threshold established in clause (i) if the Secretary has evidence from actual experience that this threshold results in a reduction in revenues from premarket applications, premarket reports, and supplements that is 16 percent or more than would occur without small business exemptions and lower fee rates. To adjust this threshold, the Secretary shall publish a notice in the Federal Register setting out the rationale for the adjustment, and the new threshold.”
+
+Subsec. (d)(2)(C). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)”.
+
+Subsec. (e)(2)(A). Pub. L. 109–43, §2(a)(4), substituted “$100,000,000” for “$30,000,000”.
+
+Subsec. (e)(2)(C). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)” in cls. (i) and (ii).
+
+Subsec. (g)(1)(B)(i). Pub. L. 109–43, §2(a)(5)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “For fiscal year 2005, the Secretary is expected to meet all of the performance goals identified for the fiscal year if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is equal to or greater than the sum of—
+
+&emsp;“(I) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2003;
+
+&emsp;“(II) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2004; and
+
+&emsp;“(III) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2005.”
+
+Subsec. (g)(1)(B)(ii). Pub. L. 109–43, §2(a)(5)(A)(ii), added introductory provisions and struck out former introductory provisions which read as follows: “For fiscal year 2005, if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is less than the sum that applies under clause (i) for fiscal year 2005, the following applies:”.
+
+Subsec. (g)(1)(C). Pub. L. 109–43, §2(a)(5)(B)(i), substituted “2005 and” for “2003 through” and inserted “more than 1 percent” after “years, is”.
+
+Subsec. (g)(1)(C)(ii). Pub. L. 109–43, §2(a)(5)(B)(ii), substituted “amount that applies” for “sum that applies”.
+
+Subsec. (g)(1)(D)(i). Pub. L. 109–43, §2(a)(5)(C), inserted “more than 1 percent” after “year, is”.
+
+Subsec. (h)(3)(D), (E). Pub. L. 109–43, §2(a)(6), added subpar. (D) and struck out former subpars. (D) and (E) which read as follows:
+
+“(D) $32,615,000 for fiscal year 2006; and
+
+“(E) $35,000,000 for fiscal year 2007,”.
 
 2004—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
 

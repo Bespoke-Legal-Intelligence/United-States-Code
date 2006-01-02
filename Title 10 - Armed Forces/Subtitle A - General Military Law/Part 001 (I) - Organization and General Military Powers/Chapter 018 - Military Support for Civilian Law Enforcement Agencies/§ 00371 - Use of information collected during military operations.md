@@ -18,13 +18,21 @@ Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provide
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427, provided that:
 
 “(a)
 
 Authority.—A joint task force of the Department of Defense that provides support to law enforcement agencies conducting counter-drug activities may also provide, subject to all applicable laws and regulations, support to law enforcement agencies conducting counter-terrorism activities.
 
 “(b)
+
+Availability of Funds.—During fiscal years 2006 and 2007, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
+
+“(c)
+
+Report Required.—Not later than December 31, 2006, the Secretary of Defense shall submit to Congress a report evaluating the effect on counter-drug and counter-terrorism activities and objectives of using counter-drug funds of a joint task force to provide counter-terrorism support authorized by subsection (a).
+
+“(d)
 
 Conditions.—Any support provided under subsection (a) may only be provided in the geographic area of responsibility of the joint task force.”
 

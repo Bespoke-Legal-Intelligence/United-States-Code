@@ -50,7 +50,3 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 Section 203 of Pub. L. 86–346 provided that: “The amendments made by this title \[enacting this section and amending section 1031 of this title and section 742a of former Title 31, Money and Finance\] shall be effective for taxable years ending after the date of enactment of this Act \[Sept. 22, 1959\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 454, 1031 of this title.
-

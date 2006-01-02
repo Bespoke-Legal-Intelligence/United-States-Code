@@ -16,9 +16,19 @@ In this subchapter—
 
 &emsp;&emsp;(C) with respect to a leverage transaction merchant, leverage transaction;
 
-&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization; or
+&emsp;&emsp;(D) with respect to a clearing organization, contract for the purchase or sale of a commodity for future delivery on, or subjectto the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
 
 &emsp;&emsp;(E) with respect to a commodity options dealer, commodity option;
+
+&emsp;&emsp;(F) any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;
+
+&emsp;&emsp;(G) any combination of the agreements or transactions referred to in this paragraph;
+
+&emsp;&emsp;(H) any option to enter into an agreement or transaction referred to in this paragraph;
+
+&emsp;&emsp;(I) a master agreement that provides for an agreement or transaction referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H), together with all supplements to such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this paragraph, except that the master agreement shall be considered to be a commodity contract under this paragraph only with respect to each agreement or transaction under the master agreement that is referred to in subparagraph (A), (B), (C), (D), (E), (F), (G), or (H); or
+
+&emsp;&emsp;(J) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this paragraph, including any guarantee or reimbursement obligation by or to a commodity broker or financial participant in connection with any agreement or transaction referred to in this paragraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562;
 
 &emsp;(5) “commodity option” means agreement or transaction subject to regulation under section 4c(b) of the Act;
 
@@ -130,7 +140,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) any cash, security, or other property of such customer transferred to such other person under section 766 of this title to margin or secure such transferred commodity contract.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2615; Pub. L. 97–222, §16, July 27, 1982, 96 Stat. 238; Pub. L. 98–353, title III, §485, July 10, 1984, 98 Stat. 383; Pub. L. 103–394, title V, §501(d)(29), Oct. 22, 1994, 108 Stat. 4146; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–395; Pub. L. 109–8, title IX, §907(a)(3), Apr. 20, 2005, 119 Stat. 174.)
 
 #### Historical and Revision Notes
 
@@ -152,7 +162,7 @@ Paragraph (b) \[probably should be “(6)” which was enacted as (5)\] defines 
 
 Paragraphs (7), (8), and (9) \[enacted as (6), (7), and (8)\] define “commodity options dealer,” “contract market,” “contract of sale,” “commodity,” “future delivery,” “board of trade,” and “futures commission merchant.”
 
-Paragraph (10) \[enacted as (9)\] defines the term “customer” to mean with respect to a futures commissionmerchant or a foreign futures commission merchant, the entity for whom the debtor carries a commodity futures contract or foreign future, or with whom such a contract is carried (such as another commodity broker), or from whom the debtor has received, acquired, or holds cash, securities, or other property arising out of or connected with specified transactions involving commodity futures contracts or foreign futures. This section also defines “customer” in the context of leverage transaction merchants, clearing organizations, and commodity options dealers. Persons associated with a commodity broker, such as its employees, officers, or partners, may be customers under this definition.
+Paragraph (10) \[enacted as (9)\] defines the term “customer” to mean with respect to a futures commission merchant or a foreign futures commission merchant, the entity for whom the debtor carries a commodity futures contract or foreign future, or with whom such a contract is carried (such as another commodity broker), or from whom the debtor has received, acquired, or holds cash, securities, or other property arising out of or connected with specified transactions involving commodity futures contracts or foreign futures. This section also defines “customer” in the context of leverage transaction merchants, clearing organizations, and commodity options dealers. Persons associated with a commodity broker, such as its employees, officers, or partners, may be customers under this definition.
 
 The definition of “customer” serves to isolate that class of persons entitled to the protection subchapter IV provides to customers. In addition, section 101(5) defines “commodity broker” to mean a futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, with respect to which there is a customer. Accordingly, the definition of customer also serves to designate those entities which must utilize chapter 7 and are precluded from reorganizing under chapter 11.
 
@@ -170,7 +180,7 @@ Paragraph (19) \[enacted as (17)\] defines “net equity” to be the sum of (A)
 
 #### house report no. 95–595
 
-Paragraph (8) \[enacted as (4)\] is a dynamic definition of “contractual commitment”. The definition will vary depending on the character of the debtor in each case. If the debtor is a futures commission merchant or a clearing organization, then subparagraphs (A) and (D) indicate that the definition means a contract of sale of a commodity for future delivery on a contract market. If the debtor is a foreign futures commission merchant, a leverage transaction merchant, or a commodity options dealer, then subparagraphs (B), (C), and (E) indicate that the definition means foreign future, leverage transaction, or commodity option, respectively.
+Paragraph (8) \[enacted as (4)\] is a dynamic definition of “contractual commitment”. The definition will vary depending on the character of the debtor in each case. If the debtor is a futures commission merchant or a clearing organization, then subparagraphs (A) and (D)indicate that the definition means a contract of sale of a commodity for future delivery on a contract market. If the debtor is a foreign futures commission merchant, a leverage transaction merchant, or a commodity options dealer, then subparagraphs (B), (C), and (E) indicate that the definition means foreign future, leverage transaction, or commodity option, respectively.
 
 Paragraph (9) defines “customer” in a similar style. It is anticipated that a debtor with multifaceted characteristics will have separate estates for each different kind of customer. Thus, a debtor that is a leverage transaction merchant and a commodity options dealer would have separate estates for the leverage transaction customers and for the options customers, and a general estate for other creditors. Customers for each kind of commodity broker, except the clearing organization, arise from either of two relationships. In subparagraphs (A), (B), (C), and (E), clause (i) treats with customers to the extent of contractual commitments with the debtor in either a broker or a dealer relationship. Clause (ii) treats with customers to the extent of proceeds from contractual commitments or deposits for the purpose of making contractual commitments. The customer of the clearing organization is a member with a proprietary or customers’ account.
 
@@ -183,6 +193,8 @@ Paragraph (15) \[enacted as (17)\] defines “net equity” to include the value
 The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments
+
+2005—Par. (4)(F) to (J). Pub. L. 109–8 added subpars. (F) to (J).
 
 2000—Par. (2). Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(6)(A)\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘clearing organization’ means organization that clears commodity contracts made on, or subject to the rules of, a contract market or board of trade;”.
 
@@ -217,6 +229,10 @@ Par. (15). Pub. L. 97–222, §16(8), substituted “mark-to-market payments, se
 Par. (16). Pub. L. 97–222, §16(9), struck out “at any time” after “customer property”.
 
 Par. (17). Pub. L. 97–222, §16(10), in provisions preceding subpar. (A) substituted “has” for “holds”, in subpar. (A) inserted “the” after “(A)” in provisions preceding cl. (i), and “in such capacity” after “customer” in cl. (ii).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

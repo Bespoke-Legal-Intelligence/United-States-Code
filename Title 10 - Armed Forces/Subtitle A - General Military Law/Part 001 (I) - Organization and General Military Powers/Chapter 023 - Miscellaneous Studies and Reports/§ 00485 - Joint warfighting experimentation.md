@@ -76,7 +76,7 @@ Pub. L. 105–261, div. A, title IX, subtitle C, Oct. 17, 1998, 112 Stat. 2102, 
 
 &emsp;&emsp;“(A) integrating advances in technology with changes in organizational structure and joint operational concepts; and
 
-&emsp;&emsp;“(B) determining the interdependent aspects of joint warfare that are key for transforming theconduct of military operations to meet future challenges successfully.
+&emsp;&emsp;“(B) determining the interdependent aspects of joint warfare that are key for transforming the conduct of military operations to meet future challenges successfully.
 
 &emsp;“(3) It is essential that an energetic and innovative organization be established in the Department of Defense with the authority (subject to the authority and guidance of the Secretary of Defense and Chairman of the Joint Chiefs of Staff) to design and implement a process of joint experimentation to investigate and test technologies and alternative forces and concepts in field environments under realistic conditions against the full range of future challenges to assist in developing and validating new joint warfighting concepts and transforming the Armed Forces to meet the threats to national security anticipated for the early 21st century.
 

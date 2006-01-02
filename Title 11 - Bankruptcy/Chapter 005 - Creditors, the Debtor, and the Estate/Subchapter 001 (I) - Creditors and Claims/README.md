@@ -17,3 +17,4 @@
 - [&sect; 00508 - Effect of distribution other than under this title](%C2%A7%2000508%20-%20Effect%20of%20distribution%20other%20than%20under%20this%20title.md)
 - [&sect; 00509 - Claims of codebtors](%C2%A7%2000509%20-%20Claims%20of%20codebtors.md)
 - [&sect; 00510 - Subordination](%C2%A7%2000510%20-%20Subordination.md)
+- [&sect; 00511 - Rate of interest on tax claims](%C2%A7%2000511%20-%20Rate%20of%20interest%20on%20tax%20claims.md)

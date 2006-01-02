@@ -19,10 +19,6 @@ A prior subchapter D, Rectifying Plants, consisted of part I, Establishment, and
 
 1987—Pub. L. 100–203, title X, §10512(e)(2), Dec. 22, 1987, 101 Stat. 1330–449, added item 5276.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 5223 of this title.
-
 
 ---
 

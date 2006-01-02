@@ -24,11 +24,11 @@ The Commission may—
 
 #### (c) Grants and contracts for conduct of functions
 
-In carrying out its functions under this section, the Commission may make grants or enter into contracts for the conduct of such functions with any person (including a governmental entity).
+In carrying out its functions under this section, the Commission may make grants or enter into contracts for the conduct of such functionswith any person (including a governmental entity).
 
 #### (d) Availability to public of information
 
-Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract,grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
+Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
 
 (Pub. L. 92–573, §5, Oct. 27, 1972, 86 Stat. 1211; Pub. L. 97–35, title XII, §1209(a), (b), Aug. 13, 1981, 95 Stat. 720.)
 

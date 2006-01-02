@@ -28,7 +28,7 @@ Subsec. (a)(3). Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)(2)\], sub
 
 1985—Subsec. (a)(3). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1981—Subsec. (a)(2). Pub. L. 97–22, §4(a)(1), designated existing provisions as subpar. (A), substituted “Exceptas provided in subparagraph (B), a selection board” for “A selection board”, and added subpar. (B).
+1981—Subsec. (a)(2). Pub. L. 97–22, §4(a)(1), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a selection board” for “A selection board”, and added subpar. (B).
 
 Subsec. (a)(3). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
@@ -51,8 +51,4 @@ Section 406(f) of Pub. L. 99–433 provided that: “The amendments made by sect
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 628, 12643 of this title.
 

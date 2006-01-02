@@ -94,7 +94,3 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 Section applicable to sales on or after Aug. 10, 1993, in taxable years ending on or after such date, see section 13114(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1016 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45D, 1016 of this title.
-

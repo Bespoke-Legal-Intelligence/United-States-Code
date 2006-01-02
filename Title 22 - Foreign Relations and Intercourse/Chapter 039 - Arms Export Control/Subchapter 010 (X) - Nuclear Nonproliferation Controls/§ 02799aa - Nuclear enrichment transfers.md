@@ -40,7 +40,7 @@ Subchapter effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103
 
 #### Waiver of Sanctions
 
-Sanctions contained in this section waived in certain regards with respect to India by Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297, set out as a note under section 2799aa–1 of this title.
+Sanctions contained in this section waived in certain regards with respect to India by Determination of President of the United States, No. 2000–18, Mar. 16,2000, 65 F.R. 16297, set out as a note under section 2799aa–1 of this title.
 
 Sanctions contained in this section waived in certain regards with respect to India and Pakistan by Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 

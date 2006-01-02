@@ -6,7 +6,7 @@ A State child health plan shall include a description, consistent with the requi
 
 &emsp;(1) the extent to which, and manner in which, children in the State, including targeted low-income children and other classes of children classified by income and other relevant factors, currently have creditable health coverage (as defined in section 1397jj(c)(2) of this title);
 
-&emsp;(2) current State efforts to provide or obtain creditable health coverage for uncovered children, including the steps the State is taking to identify and enroll all uncovered children whoare eligible to participate in public health insurance programs and health insurance programs that involve public-private partnerships;
+&emsp;(2) current State efforts to provide or obtain creditable health coverage for uncovered children, including the steps the State is taking to identify and enroll all uncovered children who are eligible to participate in public health insurance programs and health insurance programs that involve public-private partnerships;
 
 &emsp;(3) how the plan is designed to be coordinated with such efforts to increase coverage of children under creditable health coverage;
 

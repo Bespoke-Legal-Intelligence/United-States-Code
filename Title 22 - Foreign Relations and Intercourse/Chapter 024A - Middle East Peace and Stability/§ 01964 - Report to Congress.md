@@ -10,5 +10,5 @@ The President shall whenever appropriate report to the Congress his action hereu
 
 #### Repeals
 
-Section 705 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565,pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 705 affected this section.
+Section 705 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 705 affected this section.
 

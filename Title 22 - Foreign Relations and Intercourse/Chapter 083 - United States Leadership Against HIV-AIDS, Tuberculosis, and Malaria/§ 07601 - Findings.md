@@ -32,7 +32,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(C) increasing the vulnerability of local populations to HIV/AIDS in conflict zones from peacekeeping troops with HIV infection rates significantly higher than civilian populations.
 
-&emsp;(11) The devastation wrought by the HIV/AIDS pandemic is compounded by the prevalence of tuberculosis and malaria, particularly in developing countries where the poorest and most vulnerable members of society, including women, children, and those individuals living with HIV/AIDS, become infected. According tothe World Health Organization (WHO), HIV/AIDS, tuberculosis, and malaria accounted for more than 5,700,000 deaths in 2001 and caused debilitating illnesses in millions more.
+&emsp;(11) The devastation wrought by the HIV/AIDS pandemic is compounded by the prevalence of tuberculosis and malaria, particularly in developing countries where the poorest and most vulnerable members of society, including women, children, and those individuals living with HIV/AIDS, become infected. According to the World Health Organization (WHO), HIV/AIDS, tuberculosis, and malaria accounted for more than 5,700,000 deaths in 2001 and caused debilitating illnesses in millions more.
 
 &emsp;(12) Together, HIV/AIDS, tuberculosis, malaria and related diseases are undermining agricultural production throughout Africa. According to the United Nations Food and Agricultural Organization, 7,000,000 agricultural workers throughout 25 African countries have died from AIDS since 1985. Countries with poorly developed agricultural systems, which already face chronic food shortages, are the hardest hit, particularly in sub-Saharan Africa, where high HIV prevalence rates are compounding the risk of starvation for an estimated 14,400,000 people.
 
@@ -42,7 +42,7 @@ Congress makes the following findings:
 
 &emsp;(15) HIV/AIDS is first and foremost a health problem. Successful strategies to stem the spread of the HIV/AIDS pandemic will require clinical medical interventions, the strengthening of health care delivery systems and infrastructure, and determined national leadership and increased budgetary allocations for the health sector in countries affected by the epidemic as well as measures to address the social and behavioral causes of the problem and its impact on families, communities, and societal sectors.
 
-&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntary counseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from a pilot program basis to a national basis in a coherent and sustainable manner.
+&emsp;(16) Basic interventions to prevent new HIV infections and to bring care and treatment to people living with AIDS, such as voluntarycounseling and testing and mother-to-child transmission programs, are achieving meaningful results and are cost-effective. The challenge is to expand these interventions from a pilot program basis to a national basis in a coherent and sustainable manner.
 
 &emsp;(17) Appropriate treatment of individuals with HIV/AIDS can prolong the lives of such individuals, preserve their families, prevent children from becoming orphans, and increase productivity of such individuals by allowing them to lead active lives and reduce the need for costly hospitalization for treatment of opportunistic infections caused by HIV.
 
@@ -98,7 +98,7 @@ Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: “This Act \[enacting this chapter and sections 262p–8 and 2151b–2 to 2151b–4 of this title andamending sections 2151b, 2222, and 2651a of this title and section 242l of Title 42, The Public Health and Welfare\] may be cited as the ‘United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003’.”
+Pub. L. 108–25, §1(a), May 27, 2003, 117 Stat. 711, provided that: “This Act \[enacting this chapter and sections 262p–8 and 2151b–2 to 2151b–4 of this title and amending sections 2151b, 2222, and 2651a of this title and section 242l of Title 42, The Public Health and Welfare\] may be cited as the ‘United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003’.”
 
 #### Delegation of Functions
 

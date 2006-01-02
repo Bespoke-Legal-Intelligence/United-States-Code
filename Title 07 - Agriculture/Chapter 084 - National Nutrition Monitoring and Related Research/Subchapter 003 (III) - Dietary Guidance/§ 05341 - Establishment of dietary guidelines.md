@@ -42,7 +42,7 @@
 
 #### (E) Review of disapproval
 
-&emsp;&emsp;If a proposed dietary guidance is disapproved by both Secretaries under subparagraph (D), the Federal agency proposing such guidance may, within fifteen days after receiving notification of such disapproval under subparagraph (D), request the Secretaries to review such disapproval. Within fifteen days after receiving a request for such a review, the Secretaries shall conduct such review. If, pursuant to such review, either Secretary approves such proposed dietary guidance, such guidance may be issued by the Federal agency.
+&emsp;&emsp;If a proposed dietary guidance is disapproved by both Secretaries under subparagraph (D), the Federal agency proposing such guidance may, within fifteen days afterreceiving notification of such disapproval under subparagraph (D), request the Secretaries to review such disapproval. Within fifteen days after receiving a request for such a review, the Secretaries shall conduct such review. If, pursuant to such review, either Secretary approves such proposed dietary guidance, such guidance may be issued by the Federal agency.
 
 #### (3) Limitation on definition of guidance
 

@@ -48,7 +48,13 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (2) Dairy livestock
 
-&emsp;A dairy animal from which milk or milk products will be sold or labeled as organically produced shall be raised and handled in accordance with this chapter for not less than the 12-month period immediately prior to the sale of such milk and milk products.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), a dairy animal from which milk or milk products will be sold or labeled as organically produced shall be raised and handled in accordance with this chapter for not less than the 12-month period immediately prior to the sale of such milk and milk products.
+
+#### (B) Transition guideline
+
+&emsp;&emsp;Crops and forage from land included in the organic system plan of a dairy farm that is in the third year of organic management may be consumed by the dairy animals of the farm during the 12-month period immediately prior to the sale of organic milk and milk products.
 
 #### (f) Livestock identification
 
@@ -68,9 +74,11 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 The Secretary shall hold public hearings and shall develop detailed regulations, with notice and public comment, to guide the implementation of the standards for livestock products provided under this section.
 
-(Pub. L. 101–624, title XXI, §2110, Nov. 28, 1990, 104 Stat. 3940; Pub. L. 102–237, title X, §1001(2), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 101–624, title XXI, §2110, Nov. 28, 1990, 104 Stat. 3940; Pub. L. 102–237, title X, §1001(2), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, §797(c), Nov. 10, 2005, 119 Stat. 2165.)
 
 #### Amendments
+
+2005—Subsec. (e)(2). Pub. L. 109–97 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), a dairy” for “A dairy”, and added subpar. (B).
 
 1991—Subsec. (d)(1)(B). Pub. L. 102–237, §1001(2)(A), substituted “parasiticides” for “paraciticides”.
 

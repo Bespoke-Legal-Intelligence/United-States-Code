@@ -82,7 +82,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
+&emsp;&emsp;&emsp;No prospective user of a consumer report that includes an initial fraud alert or an active duty alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by aconsumer, or grant any increase in credit limit on an existing credit account requested by a consumer, unless the user utilizes reasonable policies and procedures to form a reasonable belief that the user knows the identity of the person making the request.
 
 #### (ii) Verification
 

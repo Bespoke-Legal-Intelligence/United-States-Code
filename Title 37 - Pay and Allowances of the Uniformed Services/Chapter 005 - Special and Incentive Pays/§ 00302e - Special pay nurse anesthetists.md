@@ -2,7 +2,7 @@
 
 (a)
 
-Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2005, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
+Special Pay Authorized.—(1) An officer described in subsection (b)(1) who, during the period beginning on November 29, 1989, and ending on December 31, 2006, executes a written agreement to remain on active duty for a period of one year or more may, upon the acceptance of the agreement by the Secretary concerned, be paid incentive special pay in an amount not to exceed $50,000 for any 12-month period.
 
 (2) The Secretary concerned shall determine the amount of incentive special pay to be paid to an officer under paragraph (1). In determining that amount, the Secretary concerned shall consider the period of obligated service provided for in the agreement under that paragraph.
 
@@ -24,7 +24,7 @@ Covered Officers.—(1) An officer referred to in subsection (a) is an officer o
 
 (c)
 
-Termination of Agreement.—Under regulations prescribed by the Secretary of Defense, with respect to the Army, Navy, and Air Force, and the Secretary of Health and Human Services, with respect to the Public Health Service, the Secretary concerned may terminate an agreement entered into under subsection (a). Upon termination of an agreement, the entitlement of the officer to special pay under this section and the agreed upon commitment to active duty of the officer shall end. The officer may be required to refund that part of the special pay corresponding to the unserved period of active duty.
+Termination of Agreement.—Under regulations prescribed by the Secretary of Defense, with respect to the Army, Navy, and Air Force, and the Secretary of Health and Human Services, with respect to the Public Health Service, the Secretary concerned may terminate an agreement entered into under subsection (a). Upon termination of an agreement, the entitlement of the officer to special pay under this section and the agreed upon commitment to active duty of the officer shall end. If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (d)
 
@@ -32,15 +32,17 @@ Payment.—Special pay payable to an officer under subsection (a) shall be paid 
 
 (e)
 
-Repayment.—(1) An officer who voluntarily terminates service on active duty before the end of the period agreed to be served under subsection (a) shall refund to the United States an amount that bears the same ratio to the amount paid to the officer as the unserved part of such period bears to the total period agreed to be served.
+Repayment.—An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after November 29, 1989.
-
-(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(c), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(c), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§622(c), 626(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, 1654A–153; Pub. L. 107–107, div. A, title VI, §612(c), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §§612(d), 615(f), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(d), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(d), Oct. 28, 2004, 118 Stat. 1947.)
+(Added Pub. L. 101–189, div. A, title VII, §706(a)(1), Nov. 29, 1989, 103 Stat. 1472; amended Pub. L. 101–510, div. A, title VI, §§613(b), 614(a), (b), 618(c)(1), title XIV, §1484(d)(3), Nov. 5, 1990, 104 Stat. 1577, 1578, 1579, 1716; Pub. L. 102–25, title VII, §702(a)(2)(B), (b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(i), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §611(c), Nov. 30, 1993, 107 Stat. 1679; Pub. L. 103–337, div. A, title VI, §612(c), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §612(c), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §612(c), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §612(c), Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §612(c), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §612(c), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§622(c), 626(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, 1654A–153; Pub. L. 107–107, div. A, title VI, §612(c), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §§612(d), 615(f), Dec. 2, 2002, 116 Stat. 2567, 2569; Pub. L. 108–136, div. A, title VI, §612(d), Nov. 24, 2003, 117 Stat. 1501; Pub.L. 108–375, div. A, title VI, §612(d), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(d), 687(b)(8), Jan. 6, 2006, 119 Stat. 3294, 3328.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163, §622(d), substituted “December 31, 2006” for “December 31, 2005”.
+
+Subsec. (c). Pub. L. 109–163, §687(b)(8)(A), substituted “If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.” for “The officer may be required to refund that part of the special pay corresponding to the unserved period of active duty.”
+
+Subsec. (e). Pub. L. 109–163, §687(b)(8)(B), amended heading and text of subsec. (e) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
 
 2004—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
@@ -88,6 +90,10 @@ Subsec. (b). Pub. L. 101–510, §614(a), designated existing provisions as par.
 
 Subsec. (e)(3). Pub. L. 101–510, §1484(d)(3)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
 
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
+
 #### Application of Increase
 
 In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
@@ -100,5 +106,5 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 #### Implementation of Subsection (b)(2)
 
-Pub. L. 101–510, div. A, title VI, §614(c), Nov. 5, 1990, 104 Stat. 1578, provided that the Secretary of Defense could not implement subsec. (b)(2) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report justifying the need of the departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1\[\[div. A\], title VI, §626(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
+Pub. L. 101–510, div. A, title VI, §614(c), Nov. 5, 1990, 104 Stat. 1578, provided that the Secretary of Defense could not implement subsec. (b)(2) of this section, unless the Secretary submitted to the Committees on Armed Services of the Senate and House of Representatives a report justifying the need of the departments for the authority provided in such subsection and describing the manner in which that authority would be implemented, prior to repeal by Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
 

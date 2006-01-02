@@ -1,6 +1,6 @@
 ### §708. Property and fiscal officers
 
-(a) The Governor of each State or Territory and Puerto Rico, and the commanding generalof the National Guard of the District of Columbia, shall appoint, designate or detail, subject to the approval of the Secretary of the Army and the Secretary of the Air Force, a qualified commissioned officer of the National Guard of that jurisdiction who is also a commissioned officer of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, to be the property and fiscal officer of that jurisdiction. If the officer is not on active duty, the President may order him to active duty, with his consent, to serve as a property and fiscal officer.
+(a) The Governor of each State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands, and the commanding general of the National Guard of the District of Columbia, shall appoint, designate or detail, subject to the approval of the Secretary of the Army and the Secretary of the Air Force, a qualified commissioned officer of the National Guard of that jurisdiction who is also a commissioned officer of the Army National Guard of the United States or the Air National Guard of the United States, as the case may be, to be the property and fiscal officer of that jurisdiction. If the officer is not on active duty, the President may order him to active duty, with his consent, to serve as a property and fiscal officer.
 
 (b) Each property and fiscal officer shall—
 
@@ -10,13 +10,13 @@
 
 (c) When he ceases to hold that assignment, a property and fiscal officer resumes his status as an officer of the National Guard.
 
-(d) The Secretaries shall prescribe a maximum grade, commensurate with the functions and responsibilities of the office, but not above colonel, for the property and fiscal officer of the United States for the National Guard of each State or Territory, Puerto Rico, and the District of Columbia.
+(d) The Secretaries shall prescribe a maximum grade, commensurate with the functions and responsibilities of the office, but not above colonel, for the property and fiscal officer of the United States for the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
 
 (e) The Secretary of the Army and the Secretary of the Air Force shall prescribe joint regulations necessary to carry out subsections (a)–(d).
 
 (f) A property and fiscal officer may intrust money to an officer of the National Guard to make disbursements as his agent. Both the officer to whom money is intrusted, and the property and disbursing officer intrusting the money to him, are pecuniarily responsible for that money to the United States. The agent officer is subject, for misconduct as an agent, to the liabilities and penalties prescribed by law in like cases for the property and fiscal officer for whom he is acting.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 92–310, title II, §207, June 6, 1972, 86 Stat. 203; Pub. L. 95–79, title VIII, §804(b), July 30, 1977, 91 Stat. 333; Pub. L. 96–513, title V, §515(4), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–189, div. A, title VI, §653(g), Nov. 29, 1989, 103 Stat. 1463.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 92–310, title II, §207, June 6, 1972, 86 Stat. 203; Pub. L. 95–79, title VIII, §804(b), July 30, 1977, 91 Stat. 333; Pub. L. 96–513, title V, §515(4), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–189, div. A, title VI, §653(g), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 109–163, div. A, title X, §1057(b)(2), (4), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -81,6 +81,10 @@ In subsection (f), the words “rules and” and “the provisions of” are omi
 In subsection (g), the words “Under such regulations as may be prescribed by the Secretary of the Army” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “an officer” are substituted for the words “other officers”, since, under revised subsection (a), the property and fiscal officer is not required to be an officer of the National Guard. The words “accountable for public moneys” and “as agent” are omitted as surplusage.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+
+Subsec. (d). Pub. L. 109–163, §1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State or Territory, Puerto Rico, and the District of Columbia”.
 
 1989—Subsec. (a). Pub. L. 101–189 substituted “The Governor of each State or Territory and Puerto Rico” for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
 

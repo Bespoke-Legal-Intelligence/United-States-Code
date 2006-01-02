@@ -22,7 +22,7 @@ Act June 17, 1930, §649, substituted “Treasury attache�AE1s” for “Custo
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–271 effective with respect to articles entered, or withdrawn from warehouse for consumption, on or after Oct. 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, or with respect to which a protest has not been disallowed in whole or in part before Oct. 1, 1970, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
+Amendment by Pub. L. 91–271 effective with respect to articles entered, or withdrawn from warehouse for consumption, on or after Oct. 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, or with respect to whicha protest has not been disallowed in whole or in part before Oct. 1, 1970, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 
 #### Effective Date of 1948 Amendment
 

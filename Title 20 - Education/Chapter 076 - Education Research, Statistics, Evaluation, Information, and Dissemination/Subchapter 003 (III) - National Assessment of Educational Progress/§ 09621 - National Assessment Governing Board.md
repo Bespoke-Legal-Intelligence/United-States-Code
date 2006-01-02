@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the National Assessment Governing Board (hereafter in this subchapter referred to as the “Assessment Board”), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
+There is established the National Assessment Governing Board (hereafter in this subchapterreferred to as the “Assessment Board”), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
 
 #### (b) Membership
 
@@ -110,7 +110,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;&emsp;(J) plan and execute the initial public release of National Assessment of Educational Progress reports.
 
-> &emsp;The National Assessment of Educational Progress data shall not be released prior to therelease of the reports described in subparagraph (J).
+> &emsp;The National Assessment of Educational Progress data shall not be released prior to the release of the reports described in subparagraph (J).
 
 #### (2) Delegation
 

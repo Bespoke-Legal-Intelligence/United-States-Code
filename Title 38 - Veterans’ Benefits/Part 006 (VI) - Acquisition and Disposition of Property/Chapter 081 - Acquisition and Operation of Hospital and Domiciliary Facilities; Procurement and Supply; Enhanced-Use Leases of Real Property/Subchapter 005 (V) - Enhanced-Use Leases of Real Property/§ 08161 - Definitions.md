@@ -28,7 +28,7 @@ Pub. L. 106–117, title II, §208(g), Nov. 30, 1999, 113 Stat. 1568, provided t
 
 “(3) If as a result of a survey under paragraph (2)(A) an entity carrying out an analysis under this subsection determines that a particular Department property presents no opportunities for lease under the enhanced-use lease authority, the analysis shall include the entity's explanation of that determination.
 
-“(4) If as a result of such a survey an entity carrying out an analysis under this subsection determines that certain Department property presents an opportunity for lease under the enhanced-use lease authority, theanalysis shall include a single integrated business plan, developed by the entity, that addresses the strategy and resources necessary to implement the plan for all property determined to present an opportunity for such lease.”
+“(4) If as a result of such a survey an entity carrying out an analysis under this subsection determines that certain Department property presents an opportunity for lease under the enhanced-use lease authority, the analysis shall include a single integrated business plan, developed by the entity, that addresses the strategy and resources necessary to implement the plan for all property determined to present an opportunity for such lease.”
 
 #### Enhanced Use Leases
 

@@ -10,9 +10,9 @@
 
 &emsp;(4) jointly study methods by which policies and programs of the United States Government can ensure that urban transportation systems most effectively serve both transportation needs of the United States and the comprehensively planned development of urban areas.
 
-(b) The Secretaries shall report on April 1 of each year to the President, for submission to Congress, on their studies and other activities under this section, including legislative recommendations they consider desirable.
+(b) The Secretaries shall report on April 1 of each year to the President, for submission toCongress, on their studies and other activities under this section, including legislative recommendations they consider desirable.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2419.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419.)
 
 Historical and Revision Notes
 

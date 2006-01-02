@@ -102,7 +102,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 6. Abolitions
 
-The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 of the Federal Civil Defense Act (50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of Reorganization Plan Numbered 3 of 1953 (67 Stat. 634) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
+The offices of Federal Civil Defense Administrator and Deputy Administrator provided for in section 101 ofthe Federal Civil Defense Act (50 U.S.C. App. 2271) and the offices of the Director of the Office of Defense Mobilization and Deputy Director of the Office of Defense Mobilization provided for in section 1 of Reorganization Plan Numbered 3 of 1953 (67 Stat. 634) are hereby abolished. The Director of the Office of Emergency Preparedness shall make such provisions as may be necessary in order to wind up any outstanding affairs of the offices abolished by this section which are not otherwise provided for in this reorganization plan. \[As amended Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194.\]
 
 #### Sec. 7. Records, Property, Personnel, and Funds
 
@@ -144,7 +144,7 @@ After investigation, I have found and hereby declare that each reorganization in
 
 I have also found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of new officers specified in sections 2 and 3 of the plan. The rates of compensation fixed for these officers are, respectively those which I have found to prevail in respect of comparable officers in the executive branch of the Government.
 
-The taking effect of the reorganizations included in Reorganization Plan No. 1 of 1958 will immediately reduce the number of Federal agencies by one and, by providing sounder organizational arrangements for the administration of the affected functions, should promote the increased economy and effectiveness of the Federal expenditures concerned. It is, however, impracticable to itemize at this time the reduction of expenditures which it is probable will be brought about by such taking effect.
+The taking effect of the reorganizations included in Reorganization Plan No. 1 of 1958 will immediately reduce the number of Federal agencies by one and, byproviding sounder organizational arrangements for the administration of the affected functions, should promote the increased economy and effectiveness of the Federal expenditures concerned. It is, however, impracticable to itemize at this time the reduction of expenditures which it is probable will be brought about by such taking effect.
 
 I urge that the Congress allow the reorganization plan to become effective.
 
@@ -206,7 +206,7 @@ The third part of this program is a sharp reduction in the overall size of the E
 
 When the National Science Foundation was established by an act of the Congress in 1950, its statutory responsibilities included evaluation of the Government's scientific research programs and development of basic science policy. In the late 1950's, however, with the effectiveness of the U.S. science effort under serious scrutiny as a result of sputnik, the post of Science Advisor to the President was established. The White House became increasingly involved in the evaluation and coordination of research and development programs and in science policy matters, and that involvement was institutionalized in 1962 when a reorganization plan established the Office of Science and Technology within the Executive Office of the President, through transfer of authorities formerly vested in the National Science Foundation.
 
-With advice and assistance from OST during the past decade; the scientific and technological capability of the Government has been markedly strengthened. This administration is firmly committed to a sustained, broadbased national effort in science and technology, as I made plain last year in the first special message on the subject ever sent by a President to the Congress. The research and development capability of the various executive departments and agencies, civilian as well as defense, has been upgraded. The National Science Foundation has broadened from its earlier concentration on basic research support to take on a significant role in applied research as well. It has matured in its ability to play a coordinating and evaluative role within the Government and between the public and private sectors.
+With advice and assistance from OST during the past decade; the scientific and technological capability of the Government has been markedly strengthened. This administration is firmly committed to a sustained, broadbased national effort in science and technology, as I made plain last year in the first special message on the subject ever sent by a President to the Congress. The research and development capability of the various executive departments and agencies, civilian as well as defense, has been upgraded. The National Science Foundation has broadened from its earlier concentration on basic research support to take on a significantrole in applied research as well. It has matured in its ability to play a coordinating and evaluative role within the Government and between the public and private sectors.
 
 I have therefore concluded that it is timely and appropriate to transfer to the Director of the National Science Foundation all functions presently vested in the Office of Science and Technology, and to abolish that office. Reorganization Plan No. 1 would effect these changes.
 
@@ -228,7 +228,7 @@ OEP's work as a coordinating and supervisory authority in this field has in fact
 
 I propose to accomplish this reform in two steps. First, Reorganization Plan No. 1 would transfer to the President all functions previously vested by law in the Office or its Director, except the Director's role as a member of the National Security Council, which would be abolished; and it would abolish the Office of Emergency Preparedness.
 
-The functions to be transferred to the President from OEP are largely incidental to emergency authorities already vested in him. They include functions under the Disaster Relief Act of 1970 \[42 U.S.C. 4401 et seq.\]; the function of determining whether a major disaster has occurred within the meaning of (1) Section 7 of the Act of September 30, 1950, as amended, 20 U.S.C. 241–1, or (2) Section 762(a) of the Higher Education Act of 1965, as added by Section 161(a) of the Education Amendments of 1972, Public Law 92–318, 86 Stat. 288 at 299 (relating to the furnishing by the Commissioner of Education of disaster relief assistance for educational purposes) \[20 U.S.C. 1132d–1\]; and functions under Section 232 of the Trade Expansion Act of 1962, as amended\(19 U.S.C. 1862), with respect to the conduct of investigations to determine the effects on national security of the importation of certain articles.
+The functions to be transferred to the President from OEP are largely incidental to emergency authorities already vested in him. They include functions under the Disaster Relief Act of 1970 \[42 U.S.C. 4401 et seq.\]; the function of determining whether a major disaster has occurred within the meaning of (1) Section 7 of the Act of September 30, 1950, as amended, 20 U.S.C. 241–1, or (2) Section 762(a) of the Higher Education Act of 1965, as added by Section 161(a) of the Education Amendments of 1972, Public Law 92–318, 86 Stat. 288 at 299 (relating to the furnishing by the Commissioner of Education of disaster relief assistance for educational purposes) \[20 U.S.C. 1132d–1\]; and functions under Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. 1862), with respect to the conduct of investigations to determine the effects on national security of the importation of certain articles.
 
 The Civil Defense Advisory Council within OEP would also be abolished by this plan, as changes in domestic and international conditions since its establishment in 1950 have now obviated the need for a standing council of this type. Should advice of the kind the Council has provided be required again in the future, State and local officials and experts in the field can be consulted on an ad hoc basis.
 
@@ -242,7 +242,7 @@ Second, as soon as the plan became effective, I would delegate OEP's former func
 
 Those disaster relief authorities which have been reserved to the President in the past, such as the authority to declare major disasters, will continue to be exercised by him under these new arrangements. In emergency situations calling for rapid interagency coordination, the Federal response will be coordinated by the Executive Office of the President under the general supervision of the Assistant to the President in charge of executive management.
 
-The Oil Policy Committee will continue to function as in the past, unaffected by this reorganization, except that I will designate the Deputy Secretary of the Treasury as chairman in place of the Director of OEP. The committee will operate under the general supervision of the Assistant to the President in charge of economic affairs.
+The Oil Policy Committee will continue to function as in the past, unaffected by this reorganization, exceptthat I will designate the Deputy Secretary of the Treasury as chairman in place of the Director of OEP. The committee will operate under the general supervision of the Assistant to the President in charge of economic affairs.
 
 #### DECLARATIONS
 
@@ -374,7 +374,7 @@ Ex. Ord. No. 11093, Feb. 26, 1963, 28 F.R. 1851, which related to assignment of 
 
 #### Executive Order No. 11094
 
-Ex. Ord. No. 11094, Feb. 26, 1963, 28 F.R. 1855, which related to assignment of emergency preparedness functions to Board of Governors of Federal Reserve System, Federal Home Loan Bank Board, Farm Credit Administration, Export-Import Bank of Washington, Board of Directors of Federal Deposit Insurance Corporation, Securities and Exchange Commission, Administrator of Small Business Administration, and Administrator ofVeterans Affairs, was revoked by Ex. Ord. No. 11490, Oct. 28, 1969, 34 F.R. 17567, see below.
+Ex. Ord. No. 11094, Feb. 26, 1963, 28 F.R. 1855, which related to assignment of emergency preparedness functions to Board of Governors of Federal Reserve System, Federal Home Loan Bank Board, Farm Credit Administration, Export-Import Bank of Washington, Board of Directors of Federal Deposit Insurance Corporation, Securities and Exchange Commission, Administrator of Small Business Administration, and Administrator of Veterans Affairs, was revoked by Ex. Ord. No. 11490, Oct. 28, 1969, 34 F.R. 17567, see below.
 
 #### Executive Order No. 11095
 
@@ -398,7 +398,7 @@ Ex. Ord. No. 11725, June 27, 1973, 38 F.R. 17175, as amended by Ex. Ord. No. 117
 
 #### Executive Order No. 11746
 
-Ex. Ord. No. 11746, Nov. 7, 1973, 38 F.R. 30991, which related to the assignment of emergency preparedness functions to the Department of the Treasury, was superseded by Ex. Ord. No. 11921, June 11, 1976, 41 F.R. 24294.
+Ex. Ord. No. 11746, Nov. 7, 1973, 38 F.R. 30991, which related to the assignment of emergency preparednessfunctions to the Department of the Treasury, was superseded by Ex. Ord. No. 11921, June 11, 1976, 41 F.R. 24294.
 
 #### Ex. Ord. No. 12148. Federal Emergency Management
 
@@ -496,7 +496,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section \[sic\] 4–203. The functions vested in the President by the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended (42 U.S.C. 5121 <i>et seq</i>.), except those functions vested in the President by Section 401 (relating to the declaration of major disasters and emergencies) \[42 U.S.C. 5170\], Section 501 (relating to the declaration of emergencies) \[42 U.S.C. 5191\], Section 405 (relating to the repair, reconstruction, restoration, or replacement of Federal facilities) \[42 U.S.C. 5171\], and Section 412 (relating to food coupons and distribution) \[42 U.S.C. 5179\], are hereby delegated to the Secretary of Homeland Security.
 
-4–204. The functions vested in the President by the Earthquake Hazards Reduction Act of 1977, as amended\(42 U.S.C. 7701 et seq.) are delegated to the Secretary of Homeland Security.
+4–204. The functions vested in the President by the Earthquake Hazards Reduction Act of 1977, as amended (42 U.S.C. 7701 et seq.) are delegated to the Secretary of Homeland Security.
 
 4–205. Effective July 30, 1979, the functions vested in the President by Section 4(h) of the Commodity Credit Corporation Charter Act, as amended (15 U.S.C. 714b(h)), are hereby delegated to the Secretary of Homeland Security.
 
@@ -570,7 +570,7 @@ Section \[sic\] 4–203. The functions vested in the President by the Robert T. 
 
 (c) Delete the portion of the first sentence of Section 401 prior to the colon and insert the following: “The Secretary of Defense shall perform the following emergency preparedness functions”.
 
-(d) Delete “Director of the Federal Preparedness Agency (GSA)” or “the Federal Preparedness Agency (GSA)” and substitute therefor “Director, FEMA”, inSections 401(3), 401(4), 401(5), 401(9), 401(10), 401(14), 401(15), 401(16), 401(19), 401(21), 401(22), 501(8), 601(2), 904(2), 1102(2), 1204(2), 1401(a), 1701, 1702, 2003, 2004, 2801(5), 3001, 3002(2), 3004, 3005, 3006, 3008, 3010, and 3013.
+(d) Delete “Director of the Federal Preparedness Agency (GSA)” or “the Federal Preparedness Agency (GSA)” and substitute therefor “Director, FEMA”, in Sections 401(3), 401(4), 401(5), 401(9), 401(10), 401(14), 401(15), 401(16), 401(19), 401(21), 401(22), 501(8), 601(2), 904(2), 1102(2), 1204(2), 1401(a), 1701, 1702, 2003, 2004, 2801(5), 3001, 3002(2), 3004, 3005, 3006, 3008, 3010, and 3013.
 
 (e) The number assigned to this Order shall be substituted for “11051 of September 27, 1962” in Section 3001, and for “11051” in Sections 1802, 2002(3), 3002 and 3008(1).
 
@@ -590,7 +590,7 @@ Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471, as amended by Ex. Ord. No. 1328
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Communications Act of 1934, as amended (47 U.S.C. 151), the National Security Act of 1947, as amended, the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061), the Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251), the Disaster Relief Act of 1974 (42 U.S.C. 5121), Section 5 of Reorganization Plan No. 1 of 1977 (3 C.F.R. 197, 1978 Comp.) \[5 U.S.C. App.\], and Section 203 of Reorganization Plan No. 3 of 1978 (3 C.F.R. 389, 1978 Comp.) \[5 U.S.C. App.\], and in order to provide for the consolidation of assignment and responsibility for improved execution of national security and emergency preparedness telecommunications functions, it is hereby ordered as follows:
 
-Section 1. <i>The National Communications System</i>. (a) There is hereby established the National Communications System (NCS). The NCS shall consist of the telecommunications assets of the entities represented on the NCS Committee of Principals and an administrative structure consisting of the Executive Agent, the NCS Committee of Principals and the Manager. The NCS Committee of Principals shall consist of representatives from those Federal departments, agencies or entities, designated by the President, which lease or own telecommunications facilities or services of significance to national security or emergency preparedness, and, to the extent permitted by law, other Executive entities which bear policy, regulatory or enforcement responsibilities of importance to national security or emergency preparedness telecommunications capabilities.
+Section 1. <i>The National Communications System</i>. (a) There is hereby established the National Communications System (NCS). The NCS shall consist of the telecommunications assets of the entities represented on the NCS Committee of Principals and an administrative structure consisting of the Executive Agent, the NCS Committee of Principals and the Manager. The NCS Committee of Principals shall consist of representatives from those Federal departments, agencies or entities, designated by the President, which lease orown telecommunications facilities or services of significance to national security or emergency preparedness, and, to the extent permitted by law, other Executive entities which bear policy, regulatory or enforcement responsibilities of importance to national security or emergency preparedness telecommunications capabilities.
 
 (b) The mission of the NCS shall be to assist the President, the National Security Council, the Homeland Security Council, the Director of the Office of Science and Technology Policy and the Director of the Office of Management and Budget in:
 
@@ -712,7 +712,7 @@ Sec. 3. <i>Assignment of Responsibilities to Other Departments and Agencies</i>.
 
 (a) <i>Department of Commerce</i>. The Secretary of Commerce shall, for all conditions of crisis or emergency: (1) Develop plans and procedures concerning radio spectrum assignments, priorities and allocations for use by Federal departments, agencies and entities; and
 
-(2) Develop, maintain and publish policy, plans, and procedures for the control and allocation of frequency assignments, including the authority to amend, modify or revoke such assignments, in those parts of the electromagnetic spectrum assigned to the Federal government.
+(2) Develop, maintain and publish policy, plans, and procedures for the control and allocation of frequencyassignments, including the authority to amend, modify or revoke such assignments, in those parts of the electromagnetic spectrum assigned to the Federal government.
 
 (b) <i>Department of Homeland Security</i>. The Secretary of Homeland Security shall:
 
@@ -812,7 +812,7 @@ Sec. 102. <i>Purpose.</i>
 
 Sec. 103. <i>Scope.</i>
 
-(a) This Order addresses national security emergency preparedness functions and activities. As used in this Order, preparedness functions and activities include, as appropriate, policies, plans, procedures, and readiness measures that enhance the ability of the United StatesGovernment to mobilize for, respond to, and recover from a national security emergency.
+(a) This Order addresses national security emergency preparedness functions and activities. As used in this Order, preparedness functions and activities include, as appropriate, policies, plans, procedures, and readiness measures that enhance the ability of the United States Government to mobilize for, respond to, and recover from a national security emergency.
 
 (b) This Order does not apply to those natural disasters, technological emergencies, or other emergencies, the alleviation of which is normally the responsibility of individuals, the private sector, volunteer organizations, State and local governments, and Federal departments and agencies unless such situations also constitute a national security emergency.
 
@@ -1120,7 +1120,7 @@ Sec. 801. <i>Lead Responsibilities</i>. In addition to the applicable responsibi
 
 (9) Develop, in coordination with the Secretary of Education, human services educational and training materials for use by human service organizations and professional schools; and develop and distribute, in coordination with the Secretary of Homeland Security, civil defense information relative to emergency human services;
 
-(10) Develop plans and procedures, in coordination with the heads of Federal departments and agencies, for assistance to United States citizens or others evacuated from overseas areas.
+(10) Develop plans and procedures, in coordination with the heads of Federal departments and agencies,for assistance to United States citizens or others evacuated from overseas areas.
 
 Sec. 802. <i>Support Responsibility</i>. The Secretary of Health and Human Services shall support the Secretary of Agriculture in the development of plans related to national security emergency agricultural health services.
 
@@ -1212,7 +1212,7 @@ Sec. 1202. <i>Support Responsibilities</i>. The Secretary of Labor shall:
 
 Sec. 1301. <i>Lead Responsibilities</i>. In addition to the applicable responsibilities covered in Parts 1 and 2, the Secretary of State shall:
 
-(1) Provide overall foreign policy coordination in the formulation and execution of continuity of government and other national security emergency preparedness activities that affect foreign relations;
+(1) Provide overall foreign policy coordination in the formulation and execution of continuity of governmentand other national security emergency preparedness activities that affect foreign relations;
 
 (2) Prepare to carry out Department of State responsibilities in the conduct of the foreign relations of the United States during national security emergencies, under the direction of the President and in consultation with the heads of other appropriate Federal departments and agencies, including, but not limited to:
 
@@ -1292,7 +1292,7 @@ Sec. 1501. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (d) Developing, in consultation with the Board of Governors of the Federal Reserve System, and in cooperation with the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, the National Credit Union Administration Board, the Farm Credit Administration Board and other financial institutions, plans for the continued or resumed operation and liquidity of banks, savings and loans, credit unions, and farm credit institutions, measures for the reestablishment of evidence of assets or liabilities, and provisions for currency withdrawals and deposit insurance;
 
-(2) Provide for the protection of United States financial resources including currency and coin production and redemption facilities, Federal check disbursement facilities, and precious monetary metals;
+(2) Provide for the protection of United States financial resources including currency and coin productionand redemption facilities, Federal check disbursement facilities, and precious monetary metals;
 
 (3) Provide for the preservation of, and facilitate emergency operations of, public and private financial institution systems, and provide for their restoration during or after national security emergencies;
 
@@ -1412,7 +1412,7 @@ Sec. 2001. <i>Lead Responsibilities</i>. In addition to the applicable responsib
 
 (1) Develop procedures for publication during national security emergencies of the Federal Register for as broad public dissemination as is practicable of presidential proclamations and Executive orders, Federal administrative regulations, Federal emergency notices and actions, and Acts of Congress;
 
-(2) Develop emergency procedures for providing instructions and advice on the handling and preservationof records critical to the operation of the Federal Government in national security emergencies.
+(2) Develop emergency procedures for providing instructions and advice on the handling and preservation of records critical to the operation of the Federal Government in national security emergencies.
 
 #### PART 21—Nuclear Regulatory Commission
 
@@ -1444,7 +1444,7 @@ Sec. 2202. <i>Support Responsibilities</i>. The Director of the Office of Person
 
 (1) Assist the heads of other Federal departments and agencies with personnel management and staffing in national security emergencies, including facilitating transfers between agencies of employees with critical skills;
 
-(2) In consultation with the Secretary of Defense and the Director of Selective Service, develop plans and procedures for a system to control any conscription of Federal civilian employees during national security emergencies.
+(2) In consultation with the Secretary of Defense and the Director of Selective Service, develop plans and procedures for a system to control any conscription ofFederal civilian employees during national security emergencies.
 
 #### PART 23—Selective Service System
 
@@ -1498,7 +1498,7 @@ Sec. 2702. <i>Support Responsibilities</i>. The Administrator of Veterans’ Aff
 
 (1) Assist the Secretary of Health and Human Services in promoting the development of State and local plans for the provision of medical services in national security emergencies, and develop appropriate plans to support such State and local plans;
 
-(2) Assist the Secretary of Health and Human Services in developing national plans to mobilize the healthcare industry and medical resources during national security emergencies;
+(2) Assist the Secretary of Health and Human Services in developing national plans to mobilize the health care industry and medical resources during national security emergencies;
 
 (3) Assist the Secretary of Health and Human Services in developing national plans to set priorities and allocate medical resources among civilian and military claimants.
 

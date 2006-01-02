@@ -178,6 +178,7 @@
 | (d) | Technical and procedural standards. |
 | (e) | Effect on State law. |
 | (f) | Actions by States. |
+| (g) | Junk fax enforcement report. |
 | [228\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000228%20-%20Regulation%20of%20carrier%20offering%20of%20pay-per-call%20services.md) | Regulation of carrier offering of pay-per-call services. |
 | (a) | Purpose. |
 | (b) | General authority for regulations. |

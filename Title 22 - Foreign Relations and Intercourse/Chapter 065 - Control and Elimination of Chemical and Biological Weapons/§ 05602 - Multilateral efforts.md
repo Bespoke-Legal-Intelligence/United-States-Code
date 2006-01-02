@@ -14,7 +14,7 @@ It is the policy of the United States to seek multilaterally coordinated efforts
 
 #### (b) Multilateral controls on chemical agents, precursors, and equipment
 
-It is also the policy of the United States to strengthen efforts to control chemical agents,precursors, and equipment by taking all appropriate multilateral diplomatic measures—
+It is also the policy of the United States to strengthen efforts to control chemical agents, precursors, and equipment by taking all appropriate multilateral diplomatic measures—
 
 &emsp;(1) to continue to seek a verifiable global ban on chemical weapons at the 40 nation Conference on Disarmament in Geneva;
 

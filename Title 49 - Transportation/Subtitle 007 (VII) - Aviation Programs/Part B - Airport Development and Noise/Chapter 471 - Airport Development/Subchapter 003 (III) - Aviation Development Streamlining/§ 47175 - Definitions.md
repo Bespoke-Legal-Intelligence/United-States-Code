@@ -8,7 +8,7 @@ Airport sponsor.—The term “airport sponsor” has the meaning given the term
 
 &emsp;(2)
 
-Congested airport.—The term “congested airport” means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in the most recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration's Airport Capacity Benchmark Report 2001.
+Congested airport.—The term “congested airport” means an airport that accounted for at least 1 percent of all delayed aircraft operations in the United States in themost recent year for which such data is available and an airport listed in table 1 of the Federal Aviation Administration's Airport Capacity Benchmark Report 2001.
 
 &emsp;(3)
 
@@ -16,7 +16,7 @@ Airport capacity enhancement project.—The term “airport capacity enhancement
 
 &emsp;&emsp;(A) a project for construction or extension of a runway, including any land acquisition, taxiway, or safety area associated with the runway or runway extension; and
 
-&emsp;&emsp;(B) such other airport development projects as the Secretary may designate asfacilitating a reduction in air traffic congestion and delays.
+&emsp;&emsp;(B) such other airport development projects as the Secretary may designate as facilitating a reduction in air traffic congestion and delays.
 
 &emsp;(4)
 

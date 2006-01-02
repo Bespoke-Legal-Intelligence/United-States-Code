@@ -12,19 +12,19 @@ The Federal Property and Administrative Services Act of 1949, referred to in tex
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub.L. 107–77, title II, § 206, Nov. 28, 2001, 115 Stat. 778.
+Pub. L. 107–77, title II, § 206, Nov. 28, 2001, 115 Stat. 778.
 
-Pub.L. 106–553, §1(a)(2) \[title II, §207\], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.
+Pub. L. 106–553, §1(a)(2) \[title II, §207\], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.
 
-Pub.L. 106–113, div. B, §1000(a)(1) \[title II, §208\], Nov. 29, 1999, 113 Stat. 1535, 1501A–32.
+Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §208\], Nov. 29, 1999, 113 Stat. 1535, 1501A–32.
 
-Pub.L. 105–277, div. A, §101(b) \[title II, §208\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87.
+Pub. L. 105–277, div. A, §101(b) \[title II, §208\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87.
 
-Pub.L. 105–119, title II, §208, Nov. 26, 1997, 111 Stat. 2480.
+Pub. L. 105–119, title II, §208, Nov. 26, 1997, 111 Stat. 2480.
 
-Pub.L. 104–208, div. A, title I, §101(a) \[title II, §209\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.
+Pub. L. 104–208, div. A, title I, §101(a) \[title II, §209\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.
 
-Pub.L. 104–134, title I, §101(a) \[title II, §212\], Apr. 26, 1996, 110 Stat. 1321, 1321–32.
+Pub. L. 104–134, title I, §101(a) \[title II, §212\], Apr. 26, 1996, 110 Stat. 1321, 1321–32.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

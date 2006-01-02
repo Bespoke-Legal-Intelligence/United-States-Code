@@ -28,7 +28,7 @@ Subsec. (b). Pub. L. 99–198 amended subsec. (b) generally, temporarily substit
 
 Subsec. (c). Pub. L. 99–198 amended subsec. (c) generally, temporarily substituting provisions requiring the Secretary to adjust or terminate the national marketing quota in the event of a national emergency or material change in the demand for wheat for provisions which had required the Secretary to cause an immediate investigation to be made to determine whether termination or increase in the quota was necessary in order to meet such emergency or increase in demand, and struck out provisions requiring the Secretary to proclaim such findings and the amount of any increase, with any such increase to be based on a uniform percentage. See Effective and Termination Dates of 1985 Amendment note below.
 
-Subsec. (d). Pub. L. 99–198 amended section generally, temporarily striking out subsec. (d) which provided forfarm marketing quotas for wheat crops planted in calendar years 1969–1970. See Effective and Termination Dates of 1985 Amendment note below.
+Subsec. (d). Pub. L. 99–198 amended section generally, temporarily striking out subsec. (d) which provided for farm marketing quotas for wheat crops planted in calendar years 1969–1970. See Effective and Termination Dates of 1985 Amendment note below.
 
 1968—Subsec. (d). Pub. L. 90–559 provided for a one year extension through 1970.
 

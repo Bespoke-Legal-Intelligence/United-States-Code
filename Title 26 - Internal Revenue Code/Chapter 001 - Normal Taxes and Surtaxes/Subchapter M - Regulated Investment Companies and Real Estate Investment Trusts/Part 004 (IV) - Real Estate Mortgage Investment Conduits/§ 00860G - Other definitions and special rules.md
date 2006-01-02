@@ -16,7 +16,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(ii) consist of a specified portion of the interest payments on qualified mortgages and such portion does not vary during the period such interest is outstanding.
 
-> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments.
+> &emsp;The interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments. An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.
 
 #### (2) Residual interest
 
@@ -28,17 +28,23 @@ For purposes of this part—
 
 &emsp;&emsp;(A) any obligation (including any participation or certificate of beneficial ownership therein) which is principally secured by an interest in real property and which—
 
-&emsp;&emsp;&emsp;(i) is transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC, or
+&emsp;&emsp;&emsp;(i) is transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC,
 
-&emsp;&emsp;&emsp;(ii) is purchased by the REMIC within the 3-month period beginning on the startup day if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day,
+&emsp;&emsp;&emsp;(ii) is purchased by the REMIC within the 3-month period beginning on the startup day if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day, or
 
-&emsp;&emsp;(B) any qualified replacement mortgage,
+&emsp;&emsp;&emsp;(iii) represents an increase in the principal amount under the original terms of an obligation described in clause (i) or (ii) if such increase—
 
-&emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC, and
+&emsp;&emsp;&emsp;&emsp;(I) is attributable to an advance made to the obligor pursuant to the original terms of a reverse mortgage loan or other obligation,
 
-&emsp;&emsp;(D) any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).
+&emsp;&emsp;&emsp;&emsp;(II) occurs after the startup day, and
 
-> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property.
+&emsp;&emsp;&emsp;&emsp;(III) is purchased by the REMIC pursuant to a fixed price contract in effect on the startup day.<sup>1</sup>
+
+&emsp;&emsp;(B) any qualified replacement mortgage, and
+
+&emsp;&emsp;(C) any regular interest in another REMIC transferred to the REMIC on the startup day in exchange for regular or residual interests in the REMIC.
+
+> &emsp;For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property. For purposes of subparagraph (A), any obligation originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) shall be treated as principally secured by an interest in real property if more than 50 percent of such obligations which are transferred to, or purchased by, the REMIC are principally secured by an interest in real property (determined without regard to this sentence).
 
 #### (4) Qualified replacement mortgage
 
@@ -74,11 +80,17 @@ For purposes of this part—
 
 #### (B) Qualified reserve fund
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualified reserve fund” means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.
+&emsp;&emsp;For purposes of subparagraph (A), the term “qualified reserve fund” means any reasonably required reserve to—
+
+&emsp;&emsp;&emsp;(i) provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments, or
+
+&emsp;&emsp;&emsp;(ii) provide a source of funds for the purchase of obligations described in clause (ii) or (iii) of paragraph (3)(A).
+
+> &emsp;&emsp;The aggregate fair market value of the assets held in any such reserve shall not exceed 50 percent of the aggregate fair market value of all of the assets of the REMIC on the startup day, and the amount of any such reserve shall be promptly and appropriately reduced to the extent the amount held in such reserve is no longer reasonably required for purposes specified in clause (i) or (ii) of this subparagraph.
 
 #### (C) Special rule
 
-&emsp;&emsp;A reserve shall not be treated as a qualified reserve for any taxable year (and all subsequent taxable years) if more than 30 percent of the gross income from the assets in such fund for the taxable year is derived from the sale or other disposition of property held for less than 3 months. For purposes of the preceding sentence, gain on the disposition of a qualified reserve asset shallnot be taken into account if the disposition giving rise to such gain is required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.
+&emsp;&emsp;A reserve shall not be treated as a qualified reserve for any taxable year (and all subsequent taxable years) if more than 30 percent of the gross income from the assets in such fund for the taxable year is derived from the sale or other disposition of property held for less than 3 months. For purposes of the preceding sentence, gain on the disposition of a qualified reserve asset shall not be taken into account if the disposition giving rise to such gain is required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.
 
 #### (8) Foreclosure property
 
@@ -96,7 +108,7 @@ For purposes of this part—
 
 #### (10) Issue price
 
-&emsp;The issue price of any regular or residual interest in a REMIC shall be determined under section 1273(b) in the same manner as if such interest were a debt instrument; except that if the interest is issued for property, paragraph (3) of section 1273(b) shall apply whether or not the requirements of such paragraph are met.
+&emsp;The issue price of any regular or residual interest in a REMIC shall be determined under section 1273(b) in the same manner as if suchinterest were a debt instrument; except that if the interest is issued for property, paragraph (3) of section 1273(b) shall apply whether or not the requirements of such paragraph are met.
 
 #### (b) Treatment of nonresident aliens and foreign corporations
 
@@ -152,9 +164,25 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, §1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, §7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, §11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, §403(cc), Dec. 21, 2005, 119 Stat. 2630.)
 
 #### Amendments
+
+2005—Subsec. (a)(3). Pub. L. 109–135, §403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
+
+Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, §403(cc)(1), substituted “a reverse mortgage loan or other obligation” for “the obligation”.
+
+2004—Subsec. (a)(1). Pub. L. 108–357, §835(b)(5)(A), inserted at end of concluding provisions “An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.”
+
+Subsec. (a)(3). Pub. L. 108–357, §835(b)(7), inserted at end of concluding provisions “For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligationtransferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
+
+Pub. L. 108–357, §835(b)(5)(B), inserted before period at end of concluding provisions “, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property”.
+
+Subsec. (a)(3)(A)(iii). Pub. L. 108–357, §835(b)(8)(A), added cl. (iii).
+
+Subsec. (a)(3)(B) to (D). Pub. L. 108–357, §835(b)(6), inserted “and” at end of subpar. (B), substituted period for “, and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).”
+
+Subsec. (a)(7)(B). Pub. L. 108–357, §835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘qualified reserve fund’ means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.”
 
 1996—Subsec. (a)(3)(D). Pub. L. 104–188 added subpar. (D).
 
@@ -200,6 +228,14 @@ Subsec. (e). Pub. L. 100–647, §1006(t)(9)(A), redesignated former subsec. (d)
 
 Subsec. (e)(4), (5). Pub. L. 100–647, §1006(t)(10), added pars. (4) and (5).
 
+#### Effective Date of 2005 Amendment
+
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of Pub. L. 104–188, set out as a note under section 26 of this title.
@@ -215,8 +251,4 @@ Section 1006(t)(5)(F) of Pub. L. 100–647 provided that: “The amendments made
 Section 1006(t)(9)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before July 1, 1987.”
 
 Amendment by section 1006(t)(6)–(8)(B), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 860C, 860L, 1259 of this title.
 

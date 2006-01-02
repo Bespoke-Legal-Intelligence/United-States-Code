@@ -8,7 +8,7 @@
 
 #### (2) Additional transfers
 
-&emsp;In addition to the transfers made under paragraph (1), there shall be transferred to the Chairman of the Broadcasting Board of Governors the assets, contracts, property, records,and unexpended balance of appropriations, authorizations, allocations, and other funds, as determined by the Secretary, in concurrence with the Broadcasting Board of Governors, to support the functions transferred by this part.
+&emsp;In addition to the transfers made under paragraph (1), there shall be transferred to the Chairman of the Broadcasting Board of Governors the assets, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds, as determined by the Secretary, in concurrence with the Broadcasting Board of Governors, to support the functions transferred by this part.
 
 #### (b) Transfer of personnel
 
@@ -20,7 +20,7 @@ Notwithstanding any other provision of law—
 
 #### (c) Transfer and allocation of property, appropriations, and personnel associated with Worldnet
 
-USIA personnel responsible for carrying out interactive dialogs with foreign media and other similar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
+USIA personnel responsible for carrying out interactive dialogs with foreign media and othersimilar overseas public diplomacy programs using the Worldnet television broadcasting system, and funds associated with such personnel, shall be transferred to the Department of State in accordance with the provisions of subchapter VI of this chapter.
 
 #### (d) Incidental transfers
 

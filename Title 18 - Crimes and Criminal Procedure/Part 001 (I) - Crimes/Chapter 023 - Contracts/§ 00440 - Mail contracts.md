@@ -2,7 +2,7 @@
 
 Whoever, being a person employed in the Postal Service, becomes interested in any contract for carrying the mail, or acts as agent, with or without compensation, for any contractor or person offering to become a contractor in any business before the Postal Service, shall be fined under this title <sup>1</sup> or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 704; Pub. L. 91–375, §6(j)(3), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 704; Pub. L. 91–375, §6(j)(3), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322,title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

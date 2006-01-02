@@ -16,7 +16,7 @@ The second paragraph of this section was from section 4 of act Aug. 11, 1888. In
 
 The words “the sum of $10,000,” are substituted for “the amount appropriated in this act for such purpose.” $10,000 was the amount appropriated for such purpose by section 1 of act June 13, 1902.
 
-Act Mar. 3, 1875, ch. 134, mentioned in the original text, provided in section 4 et seq., 18 Stat. 463 to 466, for a contract with James B. Eads and others to construct jetties, etc., to maintain the channel at the South Pass.
+Act Mar. 3, 1875, ch. 134, mentioned in the original text, provided in section 4 et seq., 18 Stat. 463 to 466, fora contract with James B. Eads and others to construct jetties, etc., to maintain the channel at the South Pass.
 
 The provisions of that act and of act Aug. 11, 1888, with regard to examinations and surveys at the South Pass, remained in force notwithstanding the termination of said contract, by a provision of act June 13, 1902.
 

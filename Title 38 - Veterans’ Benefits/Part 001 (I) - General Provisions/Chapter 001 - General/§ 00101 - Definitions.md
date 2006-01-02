@@ -136,7 +136,7 @@ For the purposes of this title—
 
 &emsp;(A) the Army Reserve;
 
-&emsp;(B) the Naval Reserve;
+&emsp;(B) the Navy Reserve;
 
 &emsp;(C) the Marine Corps Reserve;
 
@@ -168,13 +168,15 @@ For the purposes of this title—
 
 (33) The term “Persian Gulf War” means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L.102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1106; Pub. L. 86–195, Aug. 25, 1959, 73 Stat. 424; Pub. L. 87–674, §1, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–815, §3, Oct. 15, 1962, 76 Stat. 927; Pub. L. 88–450, §4(c), (d), Aug. 19, 1964, 78 Stat. 504; Pub. L. 89–311, §2(c)(1), Oct. 31, 1965, 79 Stat. 1155; Pub. L. 89–358, §4(d), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–77, title II, §201, Aug. 31, 1967, 81 Stat. 181; Pub. L. 91–24, §§1(a), (b), 16, June 11, 1969, 83 Stat. 33, 35; Pub. L. 91–262, §1, May 21, 1970, 84 Stat. 256; Pub. L. 91–588, §9(a), (b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 91–621, §6(a)(1), (2), Dec. 31, 1970, 84 Stat. 1864; Pub. L. 92–198, §5(a), Dec. 15, 1971, 85 Stat. 664; Pub. L. 92–540, title IV, §407, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–169, title I, §101(1), Dec. 23, 1975, 89 Stat. 1013; Pub. L. 94–417, §1(b), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 95–126, §3, Oct. 8, 1977, 91 Stat. 1108; Pub. L. 95–202, title III, §309(a), Nov. 23, 1977, 91 Stat. 1446; Pub. L. 95–588, title III, §301, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title IV, §401, June 13, 1979, 93 Stat. 62; Pub. L. 97–37, §3(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–295, §4(2), (95)(A), Oct. 12, 1982, 96 Stat. 1304, 1313; Pub. L. 97–306, title I, §113(a), Oct. 14, 1982, 96 Stat. 1432; Pub. L. 98–223, title II, §201, Mar. 2, 1984, 98 Stat. 41; Pub. L. 99–576, title VII, §702(1), Oct. 28, 1986, 100 Stat. 3301; Pub. L. 100–322, title I, §103(a), title III, §311, May 20, 1988, 102 Stat. 493, 534; Pub. L. 100–456, div. A, title VI, §633(c), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–237, §2(a), Dec. 18, 1989, 103 Stat. 2062; Pub. L. 102–25, title III, §332, Apr. 6, 1991, 105 Stat. 88; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L.102–54, §14(a)(1), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, §1201(a)(1), Nov. 2, 1994, 108 Stat. 4682; Pub. L. 104–275, title V, §505(a), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title III, §301(a), Nov. 1, 2000, 114 Stat. 1852; Pub. L. 107–14, §4(a)(2), June 5, 2001, 115 Stat. 26; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(1), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in par. (20), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2006—Par. (27)(B). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2002—Par. (25)(D). Pub. L. 107–296, §1704(d), which directed that section “101(25)(d)” be amended by substituting “of Homeland Security” for “of Transportation”, was executed to subpar. (D) to reflect the probable intent of Congress.
 
@@ -364,6 +366,12 @@ Section 405 of Pub. L. 90–77 provided that:
 
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under section 1114 of this title.
 
+#### Short Title of 2005 Amendments
+
+Pub. L. 109–111, §1, Nov. 22, 2005, 119 Stat. 2362, provided that: “This Act \[amending sections 1114, 1115, 1162, 1311, 1313, and 1314 of this title and enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2005’.”
+
+Pub. L. 109–80, §1, Sept. 30, 2005, 119 Stat. 2045, provided that: “This Act \[amending sections 1967, 1969, 1970, and 1977 of this title and enacting and repealing provisions set out as notes under section 1967 of this title\] may be cited as the ‘Servicemembers’ Group Life Insurance Enhancement Act of 2005’.”
+
 #### Short Title of 2004 Amendments
 
 Pub. L. 108–454, §1(a), Dec. 10, 2004, 118 Stat. 3598, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans Benefits Improvement Act of 2004’.”
@@ -448,7 +456,7 @@ Section 1(a) of Pub. L. 104–275 provided that: “This Act \[see Tables for cl
 
 Section 401 of title IV of Pub. L. 104–275 provided that: “This title \[amending sections 1315, 1965, 1967 to 1971, 1973, 1974, 1977, 3017, and 3224 of this title and enacting provisions set out as notes under sections 1965 and 1968 of this title\] may be cited as the ‘Veterans’ Insurance Reform Act of 1996’.”
 
-Pub. L. 104–263, §1, Oct. 9, 1996, 110 Stat. 3212, provided that: “This Act \[enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1996’.”
+Pub. L. 104–263, §1, Oct. 9, 1996, 110 Stat. 3212, provided that: “This Act \[enacting provisions set out as a note under section 1114 of this title\] may be cited as the‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1996’.”
 
 Pub. L. 104–262, §1(a), Oct. 9, 1996, 110 Stat. 3177, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Health Care Eligibility Reform Act of 1996’.”
 
@@ -456,7 +464,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2822(a), Feb. 10, 1996, 110 Stat. 556
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act \[enacting provisions set out as notesunder section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1995’.”
+Pub. L. 104–57, §1, Nov. 22, 1995, 109 Stat. 555, provided that: “This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 1995’.”
 
 #### Short Title of 1994 Amendments
 
@@ -628,7 +636,7 @@ Section 1 of Pub. L. 95–588 provided: “That this Act \[see Tables for classi
 
 Pub. L. 95–520, §1, Oct. 26, 1978, 92 Stat. 1820, provided: “That this Act \[see Tables for classification\] may be cited as the ‘Veterans’ Administration Programs Extension Act of 1978’.”
 
-Pub. L. 95–479, §1(a), Oct. 18, 1978, 92 Stat. 1560, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Act of 1978’.”
+Pub. L. 95–479, §1(a), Oct. 18, 1978, 92 Stat. 1560, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Veterans’ Disability Compensation and Survivors’ Benefits Act of 1978’.”
 
 Pub. L. 95–476, §1(a), Oct. 18, 1978, 92 Stat. 1497, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Veterans’ Housing Benefits Act of 1978’.”
 
@@ -726,7 +734,7 @@ Pub. L. 86–211, §1, Aug. 29, 1959, 73 Stat. 432, provided: “That this Act \
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Redesignation of Sections; Coordination of Redesignations With Other Amendments by Pub. L. 102–83
 

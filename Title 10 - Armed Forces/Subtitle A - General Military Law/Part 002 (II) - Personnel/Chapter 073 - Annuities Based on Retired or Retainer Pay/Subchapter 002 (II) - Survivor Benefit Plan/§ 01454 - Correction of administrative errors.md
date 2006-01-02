@@ -16,7 +16,3 @@ Finality.—Except when procured by fraud, a correction or revocation under this
 
 1989—Pub. L. 101–189 substituted “errors” for “deficiencies” in section catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1460a of this title.
-

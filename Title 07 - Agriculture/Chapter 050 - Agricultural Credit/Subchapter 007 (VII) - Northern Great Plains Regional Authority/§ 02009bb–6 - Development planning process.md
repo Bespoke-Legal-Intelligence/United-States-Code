@@ -24,7 +24,7 @@ In carrying out the development planning process (including the selection of pro
 
 #### (1) In general
 
-&emsp;The Authority and applicable State and local development districts shall encourage and assist, to the maximum extent practicable, public participation in the development, revision, and implementation of all plans and programs under this subchapter.
+&emsp;The Authority and applicable State and local development districts shall encourageand assist, to the maximum extent practicable, public participation in the development, revision, and implementation of all plans and programs under this subchapter.
 
 #### (2) Regulations
 

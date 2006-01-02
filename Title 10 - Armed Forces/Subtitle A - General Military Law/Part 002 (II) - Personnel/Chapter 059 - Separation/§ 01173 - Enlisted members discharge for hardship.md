@@ -8,7 +8,3 @@ Under regulations prescribed by the Secretary concerned, a regular enlisted memb
 
 Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a note under section 401 of Title 37, Pay and Allowances of the Uniformed Services.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 sections 404, 406; title 38 section 5303A.
-

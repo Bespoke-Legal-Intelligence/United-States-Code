@@ -8,5 +8,5 @@
 
 #### References in Text
 
-Act of August 24, 1962, referred to in subsec. (b), is Pub. L. 87–594, Aug. 24, 1962, 76 Stat. 395, which was classified to subchapter XL (§616k et seq.) of chapter 12 of Title 43, Public Lands, and which was omitted from the Code because of limited applicability.
+Act of August 24, 1962, referred to in subsec. (b), is Pub. L. 87–594, Aug. 24, 1962, 76 Stat. 395, which wasclassified to subchapter XL (§616k et seq.) of chapter 12 of Title 43, Public Lands, and which was omitted from the Code because of limited applicability.
 

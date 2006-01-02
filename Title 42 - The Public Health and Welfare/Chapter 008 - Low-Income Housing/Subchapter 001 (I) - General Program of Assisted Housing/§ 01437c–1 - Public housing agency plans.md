@@ -4,13 +4,17 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), not less than once every 5 fiscal years, each public housing agency shall submit to the Secretary a plan that includes, with respect to the 5 fiscal years immediately following the date on which the plan is submitted—
+&emsp;Subject to paragraph (3), not less than once every 5 fiscal years, each public housing agency shall submit to the Secretary a plan that includes, with respect to the 5 fiscal years immediately following the date on which the plan is submitted—
 
 &emsp;&emsp;(A) a statement of the mission of the public housing agency for serving the needs of low-income and very low-income families in the jurisdiction of the public housing agency during such fiscal years; and
 
 &emsp;&emsp;(B) a statement of the goals and objectives of the public housing agency that will enable the public housing agency to serve the needs identified pursuant to subparagraph (A) during those fiscal years.
 
-#### (2) Initial plan
+#### (2) Statement of goals
+
+&emsp;The 5-year plan shall include a statement by any public housing agency of the goals, objectives, policies, or programs that will enable the housing authority to serve the needs of child and adult victims of domestic violence, dating violence, sexual assault, or stalking.
+
+#### (3) Initial plan
 
 &emsp;The initial 5-year plan submitted by a public housing agency under this subsection shall be submitted for the 5-year period beginning on October 1, 1999, or the first fiscal year thereafter for which the public housing agency initially receives assistance under this chapter.
 
@@ -18,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit tothe Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(<i>o</i>) or 1437g of this title.
+&emsp;Effective beginning upon October 1, 1999, each public housing agency shall submit to the Secretary an annual public housing agency plan under this subsection for each fiscal year for which the public housing agency receives assistance under section 1437f(<i>o</i>) or 1437g of this title.
 
 #### (2) Updates
 
@@ -64,7 +68,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (5) Operation and management
 
-&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housing owned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication of pest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
+&emsp;A statement of the rules, standards, and policies of the public housing agency governing maintenance and management of housingowned, assisted, or operated by the public housing agency (which shall include measures necessary for the prevention or eradication of pest infestation, including by cockroaches), and management of the public housing agency and programs of the public housing agency.
 
 #### (6) Grievance procedure
 
@@ -90,7 +94,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;With respect to public housing owned by a public housing agency—
 
-&emsp;&emsp;(A) a description of any building or buildings that the public housing agency is required to convert to tenant-based assistance under section 1437z–5 of this title or that thepublic housing agency plans to voluntarily convert under section 1437t of this title;
+&emsp;&emsp;(A) a description of any building or buildings that the public housing agency is required to convert to tenant-based assistance under section 1437z–5 of this title or that the public housing agency plans to voluntarily convert under section 1437t of this title;
 
 &emsp;&emsp;(B) an analysis of the projects or buildings required to be converted under section 1437z–5 of this title; and
 
@@ -110,7 +114,17 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;&emsp;(C) how the public housing agency will comply with the requirements of subsections (c) and (d) of section 1437j of this title (relating to community service and treatment of income changes resulting from welfare program requirements).
 
-#### (13) Safety and crime prevention
+#### (13) Domestic violence, dating violence, sexual assault, or stalking programs
+
+&emsp;A description of—
+
+&emsp;&emsp;(A) any activities, services, or programs provided or offered by an agency, either directly or in partnership with other service providers, to child or adult victims of domestic violence, dating violence, sexual assault, or stalking;
+
+&emsp;&emsp;(B) any activities, services, or programs provided or offered by a public housing agency that helps child and adult victims of domestic violence, dating violence, sexual assault, or stalking, to obtain or maintain housing; and
+
+&emsp;&emsp;(C) any activities, services, or programs provided or offered by a public housing agency to prevent domestic violence, dating violence, sexual assault, and stalking, or to enhance victim safety in assisted families.
+
+#### (14) Safety and crime prevention
 
 &emsp;A plan established by the public housing agency, which shall be subject to the following requirements:
 
@@ -130,23 +144,23 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;&emsp;If the Secretary determines, at any time, that the security needs of a project are not being adequately addressed by the plan, or that the local police precinct is not complying with the plan, the Secretary may mediate between the public housing agency and the local precinct to resolve any issues of conflict.
 
-#### (14) Pets
+#### (15) Pets
 
 &emsp;The requirements of the agency, pursuant to section 1437z–3 of this title, relating to pet ownership in public housing.
 
-#### (15) Civil rights certification
+#### (16) Civil rights certification
 
-&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
+&emsp;A certification by the public housing agency that the public housing agency will carry out the public housing agency plan in conformity with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], the Fair Housing Act \[42U.S.C. 3601 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and title II of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12131 et seq.\], and will affirmatively further fair housing.
 
-#### (16) Annual audit
+#### (17) Annual audit
 
 &emsp;The results of the most recent fiscal year audit of the public housing agency under section 1437c(h)(2) of this title.
 
-#### (17) Asset management
+#### (18) Asset management
 
 &emsp;A statement of how the agency will carry out its asset management functions with respect to the public housing inventory of the agency, including how the agency will plan for the long-term operating, capital investment, rehabilitation, modernization, disposition, and other needs for such inventory.
 
-#### (18) Other
+#### (19) Other
 
 &emsp;Any other information required by law to be included in a public housing agency plan.
 
@@ -172,7 +186,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) In general
 
-&emsp;In developing a public housing agency plan under this section, the board of directors orsimilar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
+&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
 
 #### (2) Availability of information and notice
 
@@ -286,7 +300,7 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 #### (1) In general
 
-&emsp;In providing assistance under this subchapter, a public housing agency shall comply with the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
+&emsp;In providing assistance under this subchapter, a public housing agency shall complywith the rules, standards, and policies established in the public housing agency plan of the public housing agency approved under this section.
 
 #### (2) Investigation and enforcement
 
@@ -296,17 +310,25 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 &emsp;&emsp;(B) if the Secretary determines, based on a finding of the Secretary or other information available to the Secretary, that a public housing agency is not complying with the applicable public housing agency plan, take such actions as the Secretary determines to be appropriate to ensure such compliance.
 
-(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat. 2531.)
+(Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat. 2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040.)
 
 #### References in Text
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(2)(B) and (i)(1)(B), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(15), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(16), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (d)(15), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (d)(16), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(15), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(16), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–162, §603(1)(A), substituted “paragraph (3)” for “paragraph (2)”.
+
+Subsec. (a)(2), (3). Pub. L. 109–162, §603(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (d)(13) to (19). Pub. L. 109–162, §603(2), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
 #### Effective Date
 
@@ -318,7 +340,7 @@ Pub. L. 105–276, title V, §511(b), Oct. 21, 1998, 112 Stat. 2538, provided th
 
 “(1)
 
-Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). Theinterim rule shall provide for a public comment period of not less than 60 days.
+Interim rule.—Not later than 120 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue an interim rule to require the submission of an interim public housing agency plan by each public housing agency, as required by section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section). The interim rule shall provide for a public comment period of not less than 60 days.
 
 “(2)
 

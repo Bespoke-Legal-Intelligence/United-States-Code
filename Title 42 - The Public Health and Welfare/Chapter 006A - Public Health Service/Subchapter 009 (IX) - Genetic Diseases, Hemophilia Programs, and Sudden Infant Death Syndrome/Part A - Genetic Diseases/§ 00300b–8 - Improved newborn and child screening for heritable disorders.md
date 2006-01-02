@@ -80,5 +80,5 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Titles V, XVIII, XIX, XX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), XX (§1397 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XVIII, XIX, XX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), XX (§1397 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

@@ -6,7 +6,7 @@ The Secretary of Energy shall carry out, under regulations prescribed under this
 
 #### (b) Authorities and limitations
 
-(1) The Secretary shall prescribe regulations for the new counterintelligence polygraph program required by subsection (a) in accordance with the provisions of subchapter II of chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act).
+(1) The Secretary shall prescribe regulations for the new counterintelligence polygraph program required by subsection (a) in accordancewith the provisions of subchapter II of chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act).
 
 (2) In prescribing regulations for the new program, the Secretary shall take into account the results of the Polygraph Review.
 

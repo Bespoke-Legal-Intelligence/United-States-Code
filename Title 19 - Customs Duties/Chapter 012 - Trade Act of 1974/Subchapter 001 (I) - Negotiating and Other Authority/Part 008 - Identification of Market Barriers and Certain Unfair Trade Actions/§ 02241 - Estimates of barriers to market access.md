@@ -88,13 +88,13 @@
 
 #### (d) Electronic commerce
 
-For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) of the Internet Tax Freedom Act.
+For purposes of this section, the term “electronic commerce” has the meaning given that term in section 1104(3) <sup>4</sup> of the Internet Tax Freedom Act.
 
 (Pub. L. 93–618, title I, §181, as added Pub. L. 98–573, title III, §303(a), Oct. 30, 1984, 98 Stat. 3001; amended Pub. L. 100–418, title I, §1304, Aug. 23, 1988, 102 Stat. 1181; Pub. L. 103–465, title III, §§311(a), 312, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 105–277, div. C, title XII, §1202, Oct. 21, 1998, 112 Stat. 2681–726.)
 
 #### References in Text
 
-Section 1104(3) of the Internet Tax Freedom Act, referred to in subsec. (d), is set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
+Section 1104(3) of the Internet Tax Freedom Act, referred to in subsec. (d), was redesignated section 1105(3) of the Act by Pub. L. 108–435, §3(1), Dec. 3, 2004, 118 Stat. 2616, and is set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Pub. L. 105–277, div. C, title XII, §1206, Oct. 21, 1998, 112 Stat. 2681–72
 
 #### Construction of 1998 Amendments
 
-Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand theduty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–277, div. C, title XII, §1204, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall be construed to expand the duty of any person to collect or pay taxes beyond that which existed immediately before the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 Pub. L. 105–277, div. C, title XII, §1205, Oct. 21, 1998, 112 Stat. 2681–728, provided that: “Nothing in this title \[amending this section and enacting provisions set out under this section\] shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 (Public Law 104–104) \[see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\] or the amendments made by such Act.”
 
@@ -172,11 +172,13 @@ Negotiating Objectives.—The negotiating objectives of the United States shall 
 
 “(c)
 
-Electronic Commerce.—For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) \[probably means Pub. L. 105–277, div. C, title XI, §1104(3), set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
+Electronic Commerce.—For purposes of this section, the term ‘electronic commerce’ has the meaning given that term in section 1104(3) \[probably means Pub. L. 105–277, div. C, title XI, §1105(3), set out in a note under section 151 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
 <i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. See References in Text note below.</i>
 

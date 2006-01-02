@@ -28,7 +28,7 @@
 
 #### (b) Notice of filing time; publication; basis of decisions; finality of decision
 
-The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission maydeem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
+The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. In addition, the Commission is authorized and directed to mail a similar notice to the last known address of each person appearing in the records of the Department of State as having indicated an intention of filing a claim with respect to a matter concerning which the Commission has jurisdiction under this subchapter. All decisions shall be upon such evidence and written legal contentions as may be presented within such period as may be prescribed therefor by the Commission, and upon the results of any independent investigation of cases which the Commission may deem it advisable to make. Each decision by the Commission pursuant to this subchapter shall be by majority vote, and shall state the reason for such decision, and shall constitute a full and final disposition of the case in which the decision is rendered.
 
 #### (c) Administration of oaths; examination of witnesses; subpenas; reporting of hearings; witness fees; contempt
 
@@ -70,7 +70,7 @@ In exercising authority granted after October 8, 1986, under this chapter or any
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, asenacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Codification
 

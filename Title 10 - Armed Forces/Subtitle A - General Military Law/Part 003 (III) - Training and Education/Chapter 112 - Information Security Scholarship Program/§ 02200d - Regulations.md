@@ -4,7 +4,3 @@ The Secretary of Defense shall prescribe regulations for the administration of t
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2200a of this title.
-

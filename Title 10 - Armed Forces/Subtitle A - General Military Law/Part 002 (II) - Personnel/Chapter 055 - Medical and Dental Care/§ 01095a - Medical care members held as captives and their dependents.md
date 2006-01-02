@@ -34,9 +34,5 @@ Section 806(c)(3) of Pub. L. 99–399 provided that:
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No.12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 1013.
+Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 

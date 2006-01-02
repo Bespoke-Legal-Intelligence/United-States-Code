@@ -2,7 +2,7 @@
 
 #### (a) Defendant's state of mind
 
-In a Y2K action other than a claim for breach or repudiation of contract, and in which the defendant's actual or constructive awareness of an actual or potential Y2K failure is an element of the claim, the defendant is not liable unless the plaintiff establishes that element of the claim by the standard of evidence under applicable State law in effect on the day before January 1, 1999.
+In a Y2K action other than a claim for breach or repudiation of contract, and in which the defendant's actual or constructive awareness of an actual or potential Y2K failure is an element of the claim, the defendant is not liable unless the plaintiff establishes that element of the claim by the standard of evidence under applicableState law in effect on the day before January 1, 1999.
 
 #### (b) Limitation on bystander liability for Y2K failures
 
@@ -24,7 +24,7 @@ In a Y2K action other than a claim for breach or repudiation of contract, and in
 
 #### (3) Certain claims excluded
 
-&emsp;For purposes of paragraph (1)(C), claims in which the defendant's actual or constructiveawareness of an actual or potential Y2K failure is an element of the claim under applicable law do not include claims for negligence but do include claims such as fraud, constructive fraud, breach of fiduciary duty, negligent misrepresentation, and interference with contract or economic advantage.
+&emsp;For purposes of paragraph (1)(C), claims in which the defendant's actual or constructive awareness of an actual or potential Y2K failure is an element of the claim under applicable law do not include claims for negligence but do include claims such as fraud, constructive fraud, breach of fiduciary duty, negligent misrepresentation, and interference with contract or economic advantage.
 
 #### (c) Control not determinative of liability
 

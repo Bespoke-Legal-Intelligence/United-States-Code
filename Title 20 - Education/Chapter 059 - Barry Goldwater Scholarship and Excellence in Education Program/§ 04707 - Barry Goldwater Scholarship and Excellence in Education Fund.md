@@ -20,7 +20,7 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 #### Codification
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L.97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

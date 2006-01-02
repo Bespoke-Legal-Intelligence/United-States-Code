@@ -46,7 +46,7 @@ In subsection (a), the last sentence is inserted to reflect sections 3261 and 82
 
 In subsection (b), the word “However” is substituted for the words “Subject to the limitation that”. The words “as Reserves in the armed forces under his jurisdiction” are substituted for the words “of Reserve members of the Armed Forces of the United States”. The words “its Territories” are omitted as surplusage, since citizens of the Territories are citizens of the United States.
 
-In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “in which she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
+In subsection (c), the words “armed force concerned” are substituted for the words “of the appropriate Armed Force of the United States”. The words “inwhich she previously served satisfactorily” are substituted for the words “satisfactorily held by her”.
 
 In subsection (d), the words “under the jurisdiction of that Secretary” are inserted for clarity. The words “general or special” are omitted as surplusage.
 

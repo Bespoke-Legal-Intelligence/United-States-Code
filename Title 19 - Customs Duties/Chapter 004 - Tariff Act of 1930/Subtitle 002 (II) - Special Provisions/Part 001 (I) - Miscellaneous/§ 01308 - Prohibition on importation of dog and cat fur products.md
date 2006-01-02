@@ -86,7 +86,7 @@ In this section:
 
 #### (4) Regulations
 
-&emsp;Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by whichtesting laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
+&emsp;Not later than 270 days after November 9, 2000, the designated authorities shall, after notice and opportunity for comment, issue regulations to carry out the provisions of this section. The regulations of the Secretary of the Treasury shall provide for a process by which testing laboratories, whether domestic or foreign, can qualify for certification by the United States Customs Service by demonstrating the reliability of the procedures used for determining the type of fur contained in articles intended for sale or consumption in interstate commerce. Use of a laboratory certified by the United States Customs Service to determine the nature of fur contained in an item to which subsection (b) of this section applies is not required to avoid liability under this section but may, in a case in which a person can establish that the goods imported were tested by such a laboratory and that the item was not found to be a dog or cat fur product, prove dispositive in determining whether that person exercised reasonable care for purposes of paragraph (6).
 
 #### (5) Reward
 
@@ -146,7 +146,7 @@ Pub. L. 106–476, title I, §1442, Nov. 9, 2000, 114 Stat. 2163, provided that:
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) An estimated 2,000,000 dogs and cats are slaughtered and sold annually as part of the international fur trade. Internationally, dog and cat fur is used ina wide variety of products, including fur coats and jackets, fur trimmed garments, hats, gloves, decorative accessories, stuffed animals, and other toys.
+&emsp;“(1) An estimated 2,000,000 dogs and cats are slaughtered and sold annually as part of the international fur trade. Internationally, dog and cat fur is used in a wide variety of products, including fur coats and jackets, fur trimmed garments, hats, gloves, decorative accessories, stuffed animals, and other toys.
 
 &emsp;“(2) The United States represents one of the largest markets for the sale of fur and fur products in the world. Market demand for fur products in the United States has led to the introduction of dog and cat fur products into United States commerce, frequently based on deceptive or fraudulent labeling of the products to disguise the true nature of the fur and mislead United States wholesalers, retailers, and consumers.
 

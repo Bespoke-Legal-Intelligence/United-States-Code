@@ -36,5 +36,11 @@ The purposes of this subpart are the following:
 
 &emsp;(3) To supplement programs and authorities in the area of education to further the objectives of this subpart.
 
-(Pub. L. 89–10, title V, §5522, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1845.)
+&emsp;(4) To authorize and develop cultural and educational programs relating to any Federally recognized Indian tribe in Mississippi.
+
+(Pub. L. 89–10, title V, §5522, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1845; amended Pub. L. 109–149, title III, §306(1), Dec. 30, 2005, 119 Stat. 2870.)
+
+#### Amendments
+
+2005—Subsec. (b)(4). Pub. L. 109–149 added par. (4).
 

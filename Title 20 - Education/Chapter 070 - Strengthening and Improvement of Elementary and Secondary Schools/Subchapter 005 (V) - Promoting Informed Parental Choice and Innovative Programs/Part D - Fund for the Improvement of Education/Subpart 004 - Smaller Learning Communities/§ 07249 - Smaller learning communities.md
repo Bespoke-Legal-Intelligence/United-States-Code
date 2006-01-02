@@ -14,7 +14,7 @@ Each local educational agency desiring a grant under this subpart shall submit a
 
 &emsp;(3) The extent of involvement of teachers and other school personnel in investigating, designing, implementing, and sustaining the smaller learning community or communities.
 
-&emsp;(4) The process to be used for involving students, parents, and other stakeholders in thedevelopment and implementation of the smaller learning community or communities.
+&emsp;(4) The process to be used for involving students, parents, and other stakeholders in the development and implementation of the smaller learning community or communities.
 
 &emsp;(5) Any cooperation or collaboration among community agencies, organizations, businesses, and others to develop or implement a plan to create the smaller learning community or communities.
 

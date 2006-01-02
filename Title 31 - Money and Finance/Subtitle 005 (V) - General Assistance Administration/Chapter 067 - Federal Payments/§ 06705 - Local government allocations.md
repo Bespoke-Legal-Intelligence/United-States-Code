@@ -2,7 +2,7 @@
 
 (a)
 
-Indian Tribes and Alaskan Natives Villages.—If there is in a State an Indian tribe or Alaskan native <sup>1</sup> village having a recognized governing body carrying out substantial governmental duties and powers, the Secretary shall allocate to the tribe or village, out of the amount allocated to the State under section 6704, an amount bearing the same ratio to the amount allocated to the State as the population of the tribe or village bears to the population of the State. The Secretary shall allocate amounts under this subsection to Indian tribes and Alaskan native <sup>1</sup> villages in a State before allocating amounts to units of general local government in the State under subsection (c). For the payment period beginning October 1, 1994, the Secretary shall use as the population of each Indian tribe or Alaskan native <sup>1</sup> village the population for 1991 as reported by the Bureau of Indian Affairs in the publication Indian Service Population and Labor Force Estimates (January 1991). In addition to uses authorized under section 6701(a)(2), amounts allocated under this subsection and paid to an Indian tribe or Alaskan native <sup>1</sup> village under this chapter may be used for renovating or building prisons or other correctional facilities.
+Indian Tribes and Alaskan Natives Villages.—If there is in a State an Indian tribe or Alaskan native <sup>1</sup> village having a recognized governing body carrying out substantial governmental duties and powers, the Secretary shall allocate to the tribe or village, out of the amount allocated to the State under section 6704, an amount bearing the same ratio to the amount allocated to the State as the population of the tribe or village bears to the population of the State. The Secretary shall allocate amounts under this subsection to Indian tribes and Alaskan native <sup>1</sup> villages in a State before allocating amounts to units of general local government in the State under subsection (c). For the payment period beginning October 1, 1994, the Secretary shall use as the population of each Indian tribe or Alaskan native <sup>1</sup> village the population for1991 as reported by the Bureau of Indian Affairs in the publication Indian Service Population and Labor Force Estimates (January 1991). In addition to uses authorized under section 6701(a)(2), amounts allocated under this subsection and paid to an Indian tribe or Alaskan native <sup>1</sup> village under this chapter may be used for renovating or building prisons or other correctional facilities.
 
 (b)
 
@@ -34,7 +34,7 @@ General tax effort factor.—(A) Except as provided in subparagraph (C), the gen
 
 &emsp;(B) If the amount determined under subparagraphs (A)(i) and (ii) for a unit of general local government is less than zero, the general tax effort factor of the unit is deemed to be zero.
 
-&emsp;(C)(i) Except as otherwise provided in this subparagraph, for the payment period beginning October 1, 1994, the adjusted taxes of aunit of general local government are the taxes imposed by the unit for public purposes (except employee and employer assessments and contributions to finance retirement and social insurance systems and other special assessments for capital outlay), as determined by the Bureau of the Census for the 1987 Census of Governments and adjusted as follows:
+&emsp;(C)(i) Except as otherwise provided in this subparagraph, for the payment period beginning October 1, 1994, the adjusted taxes of a unit of general local government are the taxes imposed by the unit for public purposes (except employee and employer assessments and contributions to finance retirement and social insurance systems and other special assessments for capital outlay), as determined by the Bureau of the Census for the 1987 Census of Governments and adjusted as follows:
 
 &emsp;&emsp;(I) Adjusted taxes equals total taxes times a fraction in which the numerator is the sum of unrestricted revenues and revenues dedicated for spending on education minus total education spending and the denominator is total unrestricted revenues.
 
@@ -52,7 +52,7 @@ General tax effort factor.—(A) Except as provided in subparagraph (C), the gen
 
 &emsp;(ii) The Secretary shall, for purposes of clause (i), include that part of sales taxes transferred to a unit of general local government that are imposed by a county government in the geographic area of which is located the unit of general local government as taxes imposed by the unit for public purposes if—
 
-&emsp;&emsp;(I) the county government transfers any part of the revenue from the taxes to the unit of general local government withoutspecifying the purpose for which the unit of general local government may expend the revenue; and
+&emsp;&emsp;(I) the county government transfers any part of the revenue from the taxes to the unit of general local government without specifying the purpose for which the unit of general local government may expend the revenue; and
 
 &emsp;&emsp;(II) the chief executive officer of the State notifies the Secretary that the taxes satisfy the requirements of this clause.
 

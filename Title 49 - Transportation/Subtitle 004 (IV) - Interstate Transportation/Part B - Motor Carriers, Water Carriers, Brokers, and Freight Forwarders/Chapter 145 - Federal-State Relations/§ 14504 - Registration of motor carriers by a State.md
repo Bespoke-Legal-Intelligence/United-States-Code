@@ -68,7 +68,15 @@ Limitation on participation by states.—Only a State which, as of January 1, 19
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 902.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–59, title IV, §4305(a), Aug. 10, 2005, 119 Stat. 1764, provided that this section is repealed effective on the first January 1st occurring more than 12 months after Aug. 10, 2005.</i>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11506 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Effective Date of Repeal
+
+Pub. L. 109–59, title IV, §4305(a), Aug. 10, 2005, 119 Stat. 1764, provided that this section and the item relating to this section in the analysis for this chapter are repealed effective on the first January 1st occurring more than 12 months after Aug. 10, 2005.
 

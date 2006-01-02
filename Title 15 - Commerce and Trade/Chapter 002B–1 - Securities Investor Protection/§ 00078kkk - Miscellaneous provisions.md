@@ -14,7 +14,7 @@ Neither SIPC nor any of its Directors, officers, or employees shall have any lia
 
 #### (d) Advertising
 
-SIPC shall by bylaw prescribe the manner in which a member of SIPC may display any sign or signs (or include in any advertisement a statement) relating to the protection to customers and their accounts, or any other protections, afforded under this chapter. No member may display any such sign, or include in an advertisement any such statement, except in accordance with such bylaws. SIPC may also by bylaw prescribe such minimal requirements as it considers necessary and appropriate to require amember of SIPC to provide public notice of its membership in SIPC.
+SIPC shall by bylaw prescribe the manner in which a member of SIPC may display any sign or signs (or include in any advertisement a statement) relating to the protection to customers and their accounts, or any other protections, afforded under this chapter. No member may display any such sign, or include in an advertisement any such statement, except in accordance with such bylaws. SIPC may also by bylaw prescribe such minimal requirements as it considers necessary and appropriate to require a member of SIPC to provide public notice of its membership in SIPC.
 
 #### (e) SIPC exempt from taxation
 
@@ -32,7 +32,7 @@ Not later than twelve months after December 30, 1970, the Commission shall compi
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a) to (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30,1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

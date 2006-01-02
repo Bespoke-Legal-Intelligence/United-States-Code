@@ -20,7 +20,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 &emsp;&emsp;(A) the property is acquired by gift on or after September 2, 1958, the basis shall be the basis determined under subsection (a), increased (but not above the fair market value of the property at the time of the gift) by the amount of gift tax paid with respect to such gift, or
 
-&emsp;&emsp;(B) the property was acquired by gift before September 2, 1958, and has not been sold, exchanged, or otherwise disposed of before such date, the basis of the property shall be increased on such date by the amount of gift tax paid with respect to such gift, but such increase shall not exceed an amount equal to the amount by which the fair market value of the property at the time of the gift exceeded the basis of the property in the hands of the donor at the time of the gift.
+&emsp;&emsp;(B) the property was acquired by gift before September 2, 1958, and has not been sold, exchanged, or otherwise disposed of before such date, the basis of the property shall beincreased on such date by the amount of gift tax paid with respect to such gift, but such increase shall not exceed an amount equal to the amount by which the fair market value of the property at the time of the gift exceeded the basis of the property in the hands of the donor at the time of the gift.
 
 #### (2) Amount of tax paid with respect to gift
 
@@ -94,7 +94,7 @@ Amendment by section 1901(a)(122) of Pub. L. 94–455 applicable with respect to
 
 Section 2005(f) of Pub. L. 94–455, as amended by Pub. L. 95–600, title V, §515(6), Nov. 6, 1978, 92 Stat. 2884, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1023, 1040, 6039A, and 6694 of this title, amending sections 691, 1016, and 1246 of this title, and renumbering former section 1023 as 1024\] shall apply in respect of decedents dying after December 31, 1979.
+“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1023,1040, 6039A, and 6694 of this title, amending sections 691, 1016, and 1246 of this title, and renumbering former section 1023 as 1024\] shall apply in respect of decedents dying after December 31, 1979.
 
 “(2) The amendment made by subsection (c) \[amending this section\] shall apply to gifts made after December 31, 1976.”
 
@@ -105,8 +105,4 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 382, 1001, 1312, 2056A, 2511, 2654 of this title.
 

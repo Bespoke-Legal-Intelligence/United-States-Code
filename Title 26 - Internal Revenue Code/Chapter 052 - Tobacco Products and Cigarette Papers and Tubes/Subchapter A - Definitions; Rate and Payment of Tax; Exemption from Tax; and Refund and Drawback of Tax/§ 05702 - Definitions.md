@@ -52,7 +52,7 @@ When used in this chapter—
 
 #### (k) Importer
 
-“Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes into the United States.
+“Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturingwarehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes into the United States.
 
 #### (<i>l</i>) Determination of price on cigars
 
@@ -94,7 +94,7 @@ The term “roll-your-own tobacco” means any tobacco which, because of its app
 
 #### Amendments
 
-2000—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struckout former subsec. (f), which defined “cigarette papers”.
+2000—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined “cigarette papers”.
 
 Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
@@ -205,8 +205,4 @@ Section 808(d)(1) of Pub. L. 89–44 provided that: “The amendments made by su
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 1396b.
 

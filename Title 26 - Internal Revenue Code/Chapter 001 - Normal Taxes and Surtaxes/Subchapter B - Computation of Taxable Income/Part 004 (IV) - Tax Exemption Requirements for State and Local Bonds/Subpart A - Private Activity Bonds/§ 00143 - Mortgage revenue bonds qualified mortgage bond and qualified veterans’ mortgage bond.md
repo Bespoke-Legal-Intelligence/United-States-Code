@@ -164,7 +164,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (A) In general
 
-&emsp;&emsp;If the residence (for which financing is provided under the issue) is located in a high housing cost area and the limitation determined under this paragraph is greater than the limitation otherwise applicable under paragraph (1), there shall be substituted for the income limitation in paragraph (1), a limitation equal to the percentage determined under subparagraph (B) of the area median gross income for such area.
+&emsp;&emsp;If the residence (for which financing is provided under the issue) is located in a highhousing cost area and the limitation determined under this paragraph is greater than the limitation otherwise applicable under paragraph (1), there shall be substituted for the income limitation in paragraph (1), a limitation equal to the percentage determined under subparagraph (B) of the area median gross income for such area.
 
 #### (B) Income requirements for residences in high housing cost area
 
@@ -310,7 +310,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
-&emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent ofsuch aggregate amount not theretofore paid to the United States.
+&emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
 
 #### (E) Simplified accounting
 
@@ -410,7 +410,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;&emsp;(i) the condition of the housing stock, including the age of the housing and the number of abandoned and substandard residential units,
 
-&emsp;&emsp;&emsp;(ii) the need of area residents for owner-financing under this section, as indicated by low per capita income, a high percentage of families in poverty, a high numberof welfare recipients, and high unemployment rates,
+&emsp;&emsp;&emsp;(ii) the need of area residents for owner-financing under this section, as indicated by low per capita income, a high percentage of families in poverty, a high number of welfare recipients, and high unemployment rates,
 
 &emsp;&emsp;&emsp;(iii) the potential for use of owner-financing under this section to improve housing conditions in the area, and
 
@@ -544,7 +544,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any limited equity cooperative housing shall be treated as residential rental property and not as owner-occupied housing, and
 
-&emsp;&emsp;&emsp;(ii) bonds issued to provide such housing shall be subject to the same requirements and limitations as bonds the proceeds of which are to be used to provide qualified residential rental projects (as defined in section 142(d)).
+&emsp;&emsp;&emsp;(ii) bonds issued to provide such housing shall be subject to the same requirements and limitations as bonds the proceeds of which are to be used to provide qualifiedresidential rental projects (as defined in section 142(d)).
 
 #### (B) Bonds subject to qualified mortgage bond termination date
 
@@ -678,7 +678,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (1) In general
 
-&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respectto which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
+&emsp;If, during the taxable year, any taxpayer disposes of an interest in a residence with respect to which there is or was any federally-subsidized indebtedness for the payment of which the taxpayer was liable in whole or part, then the taxpayer's tax imposed by this chapter for such taxable year shall be increased by the lesser of—
 
 &emsp;&emsp;(A) the recapture amount with respect to such indebtedness, or
 
@@ -724,7 +724,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (B) Federally-subsidized amount
 
-&emsp;&emsp;The federally-subsidized amount with respect to any indebtedness is the amount equal to 6.25 percent of the highest principal amount of the indebtedness for which the taxpayer was liable.
+&emsp;&emsp;The federally-subsidized amount with respect to any indebtedness is the amountequal to 6.25 percent of the highest principal amount of the indebtedness for which the taxpayer was liable.
 
 #### (C) Holding period percentage
 
@@ -824,7 +824,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;For purposes of paragraph (4), the term “modified adjusted gross income” means adjusted gross income—
 
-&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer duringthe taxable year which is excluded from gross income under section 103, and
+&emsp;&emsp;&emsp;(i) increased by the amount of interest received or accrued by the taxpayer during the taxable year which is excluded from gross income under section 103, and
 
 &emsp;&emsp;&emsp;(ii) decreased by the amount of gain (if any) included in gross income of the taxpayer by reason of the disposition to which this subsection applies.
 
@@ -848,7 +848,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 &emsp;&emsp;(A) at the time of settlement, provide a written statement informing the mortgagor of the potential recapture under this subsection, and
 
-&emsp;&emsp;(B) not later than 90 days after the date such indebtedness is provided, provide a written statement to the mortgagor specifying—
+&emsp;&emsp;(B) not later than 90 days after the date such indebtedness is provided, provide awritten statement to the mortgagor specifying—
 
 &emsp;&emsp;&emsp;(i) the federally-subsidized amount with respect to such indebtedness, and
 
@@ -932,7 +932,7 @@ Subsec. (m)(2)(B). Pub. L. 101–508, §11408(c)(1)(C), substituted “9 years�
 
 Subsec. (m)(4)(A)(iii). Pub. L. 101–508, §11408(c)(2)(A), added cl. (iii).
 
-Subsec. (m)(4)(C)(i). Pub. L. 101–508, §11408(c)(1)(A), substituted heading for one which read: “Dispositions during 1st 5 years” and amended text generally. Prior to amendment, text read as follows: “If the disposition of the taxpayer's interest in the residence occurs during the 5-year period beginning on the testing date, the holding period percentage is the percentage determined by dividing the number of full months during which the requirements of subparagraph (D) were met by 60.”
+Subsec. (m)(4)(C)(i). Pub. L. 101–508, §11408(c)(1)(A), substituted heading for one which read: “Dispositions during 1st 5 years” and amended text generally. Prior to amendment, text read as follows: “If the dispositionof the taxpayer's interest in the residence occurs during the 5-year period beginning on the testing date, the holding period percentage is the percentage determined by dividing the number of full months during which the requirements of subparagraph (D) were met by 60.”
 
 Subsec. (m)(4)(C)(ii), (iii). Pub. L. 101–508, §11408(c)(1)(B), redesignated cl. (iii) as (ii) and struck out former cl. (ii) “Dispositions during 2d 5 years” which read as follows: “If the disposition of the taxpayer's interest in the residence occurs during the 5-year period following the 5-year period described in clause (i), the holding period percentage is the percentage determined by dividing—
 
@@ -988,7 +988,7 @@ Subsec. (f)(6). Pub. L. 100–647, §4005(c), added par. (6).
 
 Subsec. (g)(1). Pub. L. 100–647, §4005(d)(1), substituted “paragraph (2) of this subsection and, in the case of an issue described in subsection (b)(1), such issue also meets the requirements of paragraph (3) of this subsection” for “paragraphs (2) and (3) of this subsection” and struck out “(other than subsection (f) thereof)” before period at end.
 
-Subsec. (g)(2)(B)(iv). Pub. L. 100–647, §4005(g)(6), inserted at end “The Secretary may by regulation adjust the mortgage prepayment rate otherwise used in determining the effective rate of interest to the extent theSecretary determines that such an adjustment is appropriate by reason of the impact of subsection (m).”
+Subsec. (g)(2)(B)(iv). Pub. L. 100–647, §4005(g)(6), inserted at end “The Secretary may by regulation adjust the mortgage prepayment rate otherwise used in determining the effective rate of interest to the extent the Secretary determines that such an adjustment is appropriate by reason of the impact of subsection (m).”
 
 Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
@@ -1028,7 +1028,7 @@ Certificates.—The amendment made by subsection (b) \[amending section 25 of th
 
 “(3)
 
-Simplification.—The amendment made by subsection (c) \[amending this section\] shall take effect as if included in the amendments made by section 4005 of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
+Simplification.—The amendment made by subsection (c) \[amending this section\] shall take effect asif included in the amendments made by section 4005 of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -1071,8 +1071,4 @@ Section 1013(a)(27) of Pub. L. 100–647 provided that: “The date contained in
 #### Study of Recapture Provisions
 
 Section 4005(i) of Pub. L. 100–647 provided that: “The Comptroller General of the United States shall conduct a study of section 143(m) of the 1986 Code (as added by this section) and of alternatives to accomplish the purposes of such section. A report of such study shall be submitted not later than July 1, 1990, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25, 26, 42, 142, 149, 1392, 1393, 1400E, 6045, 6654 of this title; title 12 sections 1430b, 1441a, 1831q; title 15 section 632; title 42 sections 604, 12852.
 

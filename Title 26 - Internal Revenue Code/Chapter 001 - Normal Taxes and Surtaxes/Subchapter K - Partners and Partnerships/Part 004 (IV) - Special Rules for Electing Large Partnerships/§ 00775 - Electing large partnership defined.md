@@ -40,7 +40,7 @@ For purposes of this part—
 
 #### (c) Exclusion of commodity pools
 
-For purposes of this part, an election under subsection (a) shall not be effective with respectto any partnership the principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to such commodities.
+For purposes of this part, an election under subsection (a) shall not be effective with respect to any partnership the principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to such commodities.
 
 #### (d) Secretary may rely on treatment on return
 
@@ -55,8 +55,4 @@ If, on the partnership return of any partnership, such partnership is treated as
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6031, 6255 of this title.
 

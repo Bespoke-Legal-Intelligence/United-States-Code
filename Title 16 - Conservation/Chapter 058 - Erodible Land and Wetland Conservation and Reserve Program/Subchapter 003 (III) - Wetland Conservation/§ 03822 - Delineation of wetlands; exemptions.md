@@ -68,7 +68,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;(2) For the conversion of the following:
 
-&emsp;&emsp;(A) An artificial lake or pond created by excavating or diking land that is not a wetland to collect and retain water and that is used primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, rice production, or as a settling pond.
+&emsp;&emsp;(A) An artificial lake or pond created by excavating or diking land that is not a wetland to collect and retain water and that isused primarily for livestock watering, fish production, irrigation, wildlife, fire control, flood control, cranberry growing, rice production, or as a settling pond.
 
 &emsp;&emsp;(B) A wetland that is temporarily or incidentally created as a result of adjacent development activity.
 
@@ -190,7 +190,7 @@ Subsec. (h). Pub. L. 104–127, §322(f), added subsec. (h) and struck out headi
 
 Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
 
-Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fishand Wildlife Service and required reporting of determinations and monitoring.
+Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
 
 Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
 

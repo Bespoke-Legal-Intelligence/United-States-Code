@@ -1,6 +1,6 @@
 ### §5106. Handling criteria
 
-The Secretary of Transportation may prescribe criteria for handling hazardous material, including—
+The Secretary may prescribe criteria for handling hazardous material, including—
 
 &emsp;(1) a minimum number of personnel;
 
@@ -14,7 +14,7 @@ The Secretary of Transportation may prescribe criteria for handling hazardous ma
 
 &emsp;(6) a system of monitoring safety procedures for transporting the hazardous material.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 763.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 763; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119 Stat. 1909.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ Historical and Revision Notes
 Jan. 3, 1975, Pub. L. 93–633, §106(a), 88 Stat. 2157.
 
 Before clause (1), the text of 49 App.:1805(a) (last sentence) is omitted as being included in “prescribe”. In clause (4), the words “to be used” are omitted as surplus. In clause (6), the word “assurance” is omitted as surplus.
+
+#### Amendments
+
+2005—Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
 

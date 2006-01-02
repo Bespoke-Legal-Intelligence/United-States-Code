@@ -18,7 +18,7 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 (4) For purposes of sections 902(a) and 78, a foreign corporation choosing the benefits of this subpart which receives dividends shall, with respect to such dividends, be treated as a domestic corporation.
 
-(5) No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) <sup>1</sup> of a FSC.
+(5) No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to theforeign trade income (within the meaning of section 923(b)) <sup>1</sup> of a FSC.
 
 (6) For purposes of section 902, any income, war profits, and excess profits taxes paid or accrued (or deemed paid or accrued) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States shall not be taken into account, and any accumulated profits attributable to such income shall not be taken into account.
 
@@ -61,10 +61,6 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1966, 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 841, 873, 874, 882, 885, 901 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

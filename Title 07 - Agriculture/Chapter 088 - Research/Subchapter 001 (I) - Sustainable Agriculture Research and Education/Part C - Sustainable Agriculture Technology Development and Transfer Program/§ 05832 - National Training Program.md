@@ -48,7 +48,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (2) Short courses
 
-&emsp;The purpose of the grants made available under paragraph (1) shall be to establish, invarious regions in the United States, training programs that consist of workshops and short courses designed to familiarize participants with the concepts and importance of sustainable agriculture.
+&emsp;The purpose of the grants made available under paragraph (1) shall be to establish, in various regions in the United States, training programs that consist of workshops and short courses designed to familiarize participants with the concepts and importance of sustainable agriculture.
 
 #### (f) Regional specialists
 
@@ -76,7 +76,7 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(9) provide specific information on water quality practices developed through the research programs in chapter 86 of this title; <sup>1</sup>
 
-&emsp;(10) provide specific information on nutrient management practices developed through the research programs in chapter 86 of this title; <sup>1</sup> and
+&emsp;(10) provide specific information on nutrient management practices developed through theresearch programs in chapter 86 of this title; <sup>1</sup> and
 
 &emsp;(11) provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 

@@ -40,7 +40,7 @@
 
 #### (C) Other projects
 
-&emsp;&emsp;Notwithstanding paragraph (1), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996,to carry out a project that is similar to a project for which the organization or institution received such funding.
+&emsp;&emsp;Notwithstanding paragraph (1), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996, to carry out a project that is similar to a project for which the organization or institution received such funding.
 
 #### (4) Funding
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(ii) the manner in which the complaints were investigated and resolved by the Department; and
 
-&emsp;&emsp;&emsp;(iii) the longest, shortest, and average periods of time taken to investigate andresolve the complaints or allegations regarding acts, practices, or patterns of discrimination.
+&emsp;&emsp;&emsp;(iii) the longest, shortest, and average periods of time taken to investigate and resolve the complaints or allegations regarding acts, practices, or patterns of discrimination.
 
 #### (3) Report
 
@@ -190,7 +190,7 @@
 
 #### (1) Consolidated suboffice
 
-&emsp;The Secretary shall require the Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices, and such other offices and functions the Secretary may choose to include, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices. The tribe shall be required to provide the necessary office space if it wishes to participate in this program.
+&emsp;The Secretary shall require the Agricultural Stabilization and Conservation Service, SoilConservation Service, and Farmers Home Administration offices, and such other offices and functions the Secretary may choose to include, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices. The tribe shall be required to provide the necessary office space if it wishes to participate in this program.
 
 #### (2) Cooperative agreements
 

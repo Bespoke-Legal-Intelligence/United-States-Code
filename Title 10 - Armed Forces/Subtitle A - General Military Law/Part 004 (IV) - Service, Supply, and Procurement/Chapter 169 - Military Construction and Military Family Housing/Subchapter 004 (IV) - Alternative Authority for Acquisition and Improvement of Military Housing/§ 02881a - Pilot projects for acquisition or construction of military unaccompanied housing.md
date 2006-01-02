@@ -30,11 +30,15 @@ Reports.—(1) The Secretary of the Navy shall transmit to the appropriate commi
 
 &emsp;(C) the proposed partial basic allowance for housing rates for each contract as they vary by grade of the member and how they compare to basic allowance for housing rates for other contracts written under the authority of the pilot programs.
 
-(2) The report shall describe the proposed contract, conveyance, or lease and the intendedmethod of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation. The report shall be submitted not later than 90 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
+(2) The report shall describe the proposed contract, conveyance, or lease and the intended method of participation of the United States in the contract, conveyance, or lease and provide a justification of such method of participation. The report shall be submitted not later than 90 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease.
 
 (f)
 
-Expiration.—Notwithstanding section 2885 of this title, the authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2007.
+Expiration.—The authority of the Secretary of the Navy to enter into a contract under the pilot programs shall expire September 30, 2007.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2803(a)(1), Dec. 2, 2002, 116 Stat. 2703; amended Pub. L. 109–163, div. A, title X, §1056(c)(10), Jan. 6, 2006, 119 Stat. 3440.)
+
+#### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163 substituted “The” for “Notwithstanding section 2885 of this title, the”.
 

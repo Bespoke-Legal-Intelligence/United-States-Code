@@ -1,6 +1,6 @@
 ### §2392. Reduction of payments
 
-Any payment which becomes due under section 2391 of this title prior to the transfer of all municipal installations at the community may be reduced by such amount as the Administrator determines to be equitable based on the municipal services then being performed by the Energy Research and Development Administration, and the municipal services then being performed by such governmental entity.
+Any payment which becomes due under section 2391 of this title prior to the transfer of all municipal installations at the community maybe reduced by such amount as the Administrator determines to be equitable based on the municipal services then being performed by the Energy Research and Development Administration, and the municipal services then being performed by such governmental entity.
 
 (Aug. 4, 1955, ch. 543, ch. 9, §92, 69 Stat. 482; Pub. L. 94–187, title VI, §601(1), (8), Dec. 31, 1975, 89 Stat. 1077, 1078.)
 

@@ -30,7 +30,7 @@ The Association shall have the authority to establish membership criteria that�
 
 #### (1) Classes of membership
 
-&emsp;The Association may establish separate classes of membership, with separate criteria, if the Association reasonably determines that performance of different duties requires different levels of education, training, or experience.
+&emsp;The Association may establish separate classes of membership, with separate criteria,if the Association reasonably determines that performance of different duties requires different levels of education, training, or experience.
 
 #### (2) Categories
 
@@ -90,7 +90,7 @@ The Association may—
 
 #### (3) Telephone and other access
 
-&emsp;The office of consumer complaints shall maintain a toll-free telephone number for thepurpose of this subsection and, as practicable, other alternative means of communication with consumers, such as an Internet home page.
+&emsp;The office of consumer complaints shall maintain a toll-free telephone number for the purpose of this subsection and, as practicable, other alternative means of communication with consumers, such as an Internet home page.
 
 (Pub. L. 106–102, title III, §325, Nov. 12, 1999, 113 Stat. 1424.)
 

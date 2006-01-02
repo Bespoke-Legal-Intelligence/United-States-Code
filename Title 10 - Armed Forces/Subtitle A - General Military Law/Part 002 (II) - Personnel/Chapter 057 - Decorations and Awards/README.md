@@ -15,10 +15,13 @@
 | [1131\.](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md) | Purple Heart: limitation to members of the armed forces. |
 | [1132\.](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md) | Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies. |
 | [1133\.](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md) | Bronze star: limitation to members receiving imminent danger pay. |
+| [1134\.](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md) | Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
 
 2003—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
 
@@ -43,6 +46,20 @@ Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 1965—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+
+#### Separate Military Campaign Medals To Recognize Service in Operation Enduring Freedom and Service in Operation Iraqi Freedom
+
+Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: “For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001.”
+
+Pub. L. 108–234, §1, May 28, 2004, 118 Stat. 655, provided that:
+
+“(a)
+
+Requirement.—The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
+
+“(b)
+
+Eligibility.—Subject to such limitations as may be prescribed by the President, eligibility for a campaign medal established pursuant to subsection (a) shall be set forth in regulations to be prescribed by the Secretary concerned (as defined in section 101 of title 10, United States Code). In the case of regulations prescribed by the Secretaries of the military departments, the regulations shall be subject to approval by the Secretary of Defense and shall be uniform throughout the Department of Defense.”
 
 #### Commendation of Members of Armed Forces and Government Civilian Personnel Who Served During Cold War
 
@@ -86,7 +103,7 @@ Sec. 4. The Meritorious Service Medal or device may be awarded posthumously and,
 
 #### Executive Order No. 11544
 
-Ex. Ord. No. 11544, July 8, 1970, 35 F.R. 11115, which established a Vice Presidential Service Certificate and aVice Presidential Service Badge, was superseded by Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, set out below.
+Ex. Ord. No. 11544, July 8, 1970, 35 F.R. 11115, which established a Vice Presidential Service Certificate and a Vice Presidential Service Badge, was superseded by Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, set out below.
 
 #### Ex. Ord. No. 11904. Defense Superior Service Medal
 
@@ -98,7 +115,7 @@ Section 1. There is hereby established a Defense Superior Service Medal with acc
 
 Sec. 2. The Defense Superior Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Superior Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal and the Silver Star Medal, but before the Legion of Merit.
 
-Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for each succeeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
+Sec. 3. No more than one Defense Superior Service Medal shall be awarded to any one person, but for eachsucceeding period of superior meritorious service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
 
 Sec. 4. The Defense Superior Service Medal or device may be awarded posthumously, and when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
 
@@ -106,21 +123,21 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 11926. Vice Presidential Service Badge
 
-Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 13286, §56, Feb. 28, 2003, 68 F.R. 10629, provided:
+Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 13286, §56, Feb. 28, 2003, 68 F.R. 10629; Ex. Ord. No. 13373, §1, Mar. 10, 2005, 70 F.R. 12579, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
-Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974.
+Section 1. There is established a Vice Presidential Service Badge to be awarded in the name of the Vice President of the United States of America to members of the Army, Navy, Marine Corps, Air Force, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service who have been assigned to duty in the Office of the Vice President for a period of at least one year subsequent to December 19, 1974, or who have been assigned to perform duties predominantly for the Vice President for a period of at least one year subsequent to January 20, 2001, in the implementation of Public Law 93–346, as amended \[3 U.S.C. 111 note\], or in military units and support facilities to which section 1 of Executive Order 12793 of March 20, 1992, as amended \[set out below\], refers.
 
-Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Military Assistant to the Vice President, by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President.
+Sec. 2. The Vice Presidential Service Badge may be awarded, upon recommendation of the Vice President's designee (with the concurrence of the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers), by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security, to military personnel of their respective services who have been assigned to duty in the Office of the Vice President and, in the case of members of the commissioned corps of the National Oceanic and Atmospheric Administration or the commissioned corps of the Public Health Service so assigned, by the Secretary of Commerce or the Secretary of Health and Human Services, respectively.
 
 Sec. 3. The Vice Presidential Service Badge shall be accompanied by a certificate, the design of which is attached hereto and is made a part of this Order. The Vice Presidential Service Badge shall consist of a white enameled disc surrounded by 27 gold rays radiating from the center, 115/16 inches in diameter overall. Superimposed on the white disc shall be a gold color device taken from the seal of the Vice President of the United States. The overall design of the badge shall be as shown at the top of the certificate which accompanies the Badge and which is attached to this Order.
 
 Sec. 4. Upon award, the Vice Presidential Service Badge may be worn as a part of the uniform of an individual both during and after his assignment to duty in the Office of the Vice President.
 
-Sec. 5. Only one Vice Presidential Service Badge shall be awarded to an individual. It may be awarded posthumously.
+Sec. 5. Only one Vice Presidential Service Badge shall be awarded to an individual. It may be awarded posthumously. No award shall be made to an individual under this Order based on a period of service with respect to which, in whole or in part, the individual was awarded the Presidential Service Badge.
 
-Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, and Coast Guard, who has been assigned to duty in the Office of the Vice President, is authorized to wear the Vice Presidential Service Badge on his uniform commencing on the first day of duty in the Office of the Vice President and thereafter while assigned to such duty.
+Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
 
 Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however, individuals previously awarded a Vice Presidential Service Badge under that Order are authorized to continue to wear such badge as part of their uniform.
 
@@ -238,3 +255,4 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [&sect; 01131 - Purple Heart limitation to members of the armed forces](%C2%A7%2001131%20-%20Purple%20Heart%20limitation%20to%20members%20of%20the%20armed%20forces.md)
 - [&sect; 01132 - Presentation of decorations prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent&#8230;](%C2%A7%2001132%20-%20Presentation%20of%20decorations%20prohibition%20on%20entering%20correctional%20facilities%20for%20presentation%20to%20prisoners%20convicted%20of%20serious%20violent%E2%80%A6.md)
 - [&sect; 01133 - Bronze Star limitation to members receiving imminent danger pay](%C2%A7%2001133%20-%20Bronze%20Star%20limitation%20to%20members%20receiving%20imminent%20danger%20pay.md)
+- [&sect; 01134 - Medal of honor award to individual interred in Tomb of the Unknowns as representative of casualties of a war](%C2%A7%2001134%20-%20Medal%20of%20honor%20award%20to%20individual%20interred%20in%20Tomb%20of%20the%20Unknowns%20as%20representative%20of%20casualties%20of%20a%20war.md)

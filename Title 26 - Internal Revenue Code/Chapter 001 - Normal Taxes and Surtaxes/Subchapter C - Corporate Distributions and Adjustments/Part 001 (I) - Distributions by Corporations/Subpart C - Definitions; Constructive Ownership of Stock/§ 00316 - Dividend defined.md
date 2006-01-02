@@ -38,7 +38,7 @@ For purposes of this subtitle, the term “dividend” means any distribution of
 
 &emsp;The term “dividend” also means any distribution of property (whether or not a dividend as defined in subsection (a)) which constitutes a “deficiency dividend” as defined in section 860(f).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 98; Mar. 13, 1956, ch. 83, §5(1), 70 Stat. 49; Pub. L. 88–272, title II, §225(f)(1), Feb. 26, 1964, 78 Stat. 87; Pub. L. 94–455, title XVI, §1601(d), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1834; Pub. L. 95–600, title III, §362(d)(1), Nov. 6, 1978, 92 Stat. 2851.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 98; Mar. 13, 1956, ch. 83, §5(1), 70 Stat. 49; Pub. L. 88–272, title II, §225(f)(1), Feb. 26, 1964, 78 Stat. 87; Pub. L. 94–455, title XVI, §1601(d), title XIX, §1906(b)(13)(A),Oct. 4, 1976, 90 Stat. 1746, 1834; Pub. L. 95–600, title III, §362(d)(1), Nov. 6, 1978, 92 Stat. 2851.)
 
 #### Amendments
 
@@ -77,8 +77,4 @@ Section 225(<i>l</i>) of Pub. L. 88–272 provided that:
 #### Effective Date of 1956 Amendment
 
 Section 6 of act Mar. 13, 1956, provided that: “The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 301, 331, 562, 565, 904, 956, 959, 6042, 7518 of this title; title 46 App. section 1177.
 

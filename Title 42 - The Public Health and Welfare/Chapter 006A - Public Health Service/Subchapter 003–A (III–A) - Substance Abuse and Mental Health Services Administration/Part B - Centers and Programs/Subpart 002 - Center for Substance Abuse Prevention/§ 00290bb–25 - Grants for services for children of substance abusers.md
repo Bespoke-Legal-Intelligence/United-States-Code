@@ -68,7 +68,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (c) Services for affected families
 
-The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements withother entities) each of the following services, as applicable to the family member involved:
+The Secretary may make a grant under subsection (a) of this section only if, in the case of families in which a member is a substance abuser, the applicant involved agrees to make available (directly or through agreements with other entities) each of the following services, as applicable to the family member involved:
 
 &emsp;(1) Services as follows, to be provided by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements:
 
@@ -144,7 +144,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;(2) to make cash payments to intended recipients of services;
 
-&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (otherthan minor remodeling) any building or other facility, or purchase major medical equipment;
+&emsp;(3) to purchase or improve land, purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or purchase major medical equipment;
 
 &emsp;(4) to satisfy any requirement for the expenditure of non-Federal funds as a condition for the receipt of Federal funds; or
 
@@ -270,7 +270,7 @@ Section was formerly classified to section 280d of this title.
 
 #### Amendments
 
-2004—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
+2004—Subsecs. (b)(8), (f). Pub. L. 108–446, §305(i)(1), (3), which directed amendment of subsecs. (b)(8) and (f) of section 399A of the Public Health Service Act by substituting “part C” for “part H”, was executed to subsec. (b)(8) of this section, which is section 519 of the Public Health Service Act, to reflect the probable intent of Congress and the renumbering of this section and repeal of former subsec. (f). See 2000 Amendments notes below.
 
 2000—Pub. L. 106–310, §3106(a)–(m), which directed numerous amendments to section 399D of the Public Health Service Act and the subsequent renumbering of that section as section 519 of title V of the Act, was executed by amending this section and renumbering this section as section 519 of title V, to reflect the probable intent of Congress, notwithstanding the intervening renumbering of this section as section 399A of the Act by section 502(1) of Pub. L. 106–310. See source credit above and notes below.
 
@@ -356,7 +356,7 @@ Subsec. (m)(3)(C) to (E). Pub. L. 106–310, §3106(h)(2)(C), struck out subpars
 
 Subsec. (m)(4). Pub. L. 106–310, §3106(h)(3), struck out par. (4) relating to an analysis of the access provided to, and use of, related services and alcohol and drug treatment through programs carried out under this section.
 
-Subsec. (m)(5). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed amendment of subsec. (m)(5) by substituting“(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (<i>l</i>)(3). See notes above and below.
+Subsec. (m)(5). Pub. L. 106–310, §3106(<i>l</i>)(6), which directed amendment of subsec. (m)(5) by substituting “(e)” for “(d)”, could not be executed because subsec. (m) did not contain a par. (5) or a reference to “(d)” subsequent to the amendments by Pub. L. 106–310, §3106(h)(3), (<i>l</i>)(3). See notes above and below.
 
 Pub. L. 106–310, §3106(h)(3), struck out par. (5) relating to a comparison of the costs of providing services through each of the types of entities described in subsection (d) of this section.
 
@@ -380,7 +380,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Construction
 

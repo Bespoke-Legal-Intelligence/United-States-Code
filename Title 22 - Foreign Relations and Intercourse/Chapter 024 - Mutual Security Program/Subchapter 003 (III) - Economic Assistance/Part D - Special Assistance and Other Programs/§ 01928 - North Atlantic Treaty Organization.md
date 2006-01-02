@@ -66,7 +66,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(H) deployable combat support and combat service support units.
 
-&emsp;“(3) The NATO Response Force is envisioned to be a technologically advanced, flexible, deployable, interoperable, and sustainable force that includes land, sea, and air elements ready to move quickly to wherever needed, as determined by the North Atlantic Council. The NATO Response Force is also intended to be a catalyst for focusing and promoting improvements in NATO's military capabilities. It is expected to have initial operational capability by October 2004, and full operational capability by October 2006.
+&emsp;“(3) The NATO Response Force is envisioned to be a technologically advanced, flexible, deployable,interoperable, and sustainable force that includes land, sea, and air elements ready to move quickly to wherever needed, as determined by the North Atlantic Council. The NATO Response Force is also intended to be a catalyst for focusing and promoting improvements in NATO's military capabilities. It is expected to have initial operational capability by October 2004, and full operational capability by October 2006.
 
 “(b)
 
@@ -138,7 +138,7 @@ Pub. L. 107–187, June 10, 2002, 116 Stat. 590, provided that:
 
 &emsp;“(2) In the NATO Enlargement Facilitation Act of 1996 (title VI of section 101(c) of title I of division A of Public Law 104–208; 22 U.S.C. 1928 note), Congress called for the prompt admission of Poland, Hungary, the Czech Republic, and Slovenia to NATO, and declared that ‘in order to promote economic stability and security in Slovakia, Estonia, Latvia, Lithuania, Romania, Bulgaria, Albania, Moldova, and Ukraine . . . the process of enlarging NATO to include emerging democracies in Central and Eastern Europe should not be limited to consideration of admitting Poland, Hungary, the Czech Republic, and Slovenia as full members of the NATO Alliance’.
 
-&emsp;“(3) In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary, and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members \[and\] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
+&emsp;“(3) In the European Security Act of 1998 (title XXVII of division G of Public Law 105–277; 22 U.S.C. 1928 note), Congress declared that ‘Poland, Hungary,and the Czech Republic should not be the last emerging democracies in Central and Eastern Europe invited to join NATO’ and that ‘Romania, Estonia, Latvia, Lithuania, and Bulgaria . . . would make an outstanding contribution to furthering the goals of NATO and enhancing stability, freedom, and peace in Europe should they become NATO members \[and\] upon complete satisfaction of all relevant criteria should be invited to become full NATO members at the earliest possible date’.
 
 &emsp;“(4) At the Madrid Summit of the NATO Alliance in July 1997, Poland, Hungary, and the Czech Republic were invited to join the Alliance in the first round of NATO enlargement, and the NATO heads of state and government issued a declaration stating ‘\[t\]he Alliance expects to extend further invitations in coming years to nations willing and able to assume the responsibilities and obligations of membership . . . \[n\]o European democratic country whose admission would fulfill the objectives of the \[North Atlantic\] Treaty will be excluded from consideration’.
 
@@ -280,7 +280,7 @@ Commitments from russia.—In order to enhance security and stability in Europe,
 
 &emsp;&emsp;“(A) to demarcate and respect all its borders with neighboring states;
 
-&emsp;&emsp;“(B) to achieve the immediate and complete withdrawal of any armed forces and military equipment under the control of Russia that are deployed onthe territories of the independent states of the former Soviet Union without the full and complete agreement of those states;
+&emsp;&emsp;“(B) to achieve the immediate and complete withdrawal of any armed forces and military equipment under the control of Russia that are deployed on the territories of the independent states of the former Soviet Union without the full and complete agreement of those states;
 
 &emsp;&emsp;“(C) to station its armed forces on the territory of other states only with the full and complete agreement of that state and in strict accordance with international law; and
 
@@ -304,7 +304,7 @@ Discussions with nato allies.—The United States should initiate discussions wi
 
 &emsp;“(3)
 
-Constitutional prerogatives.—Even as the Congress seeks to promote ballistic missile defense cooperation with Russia, it must insist on its constitutional prerogatives regarding consideration of arms control agreements with Russia that bear on ballistic missile defense.
+Constitutional prerogatives.—Even as the Congress seeks to promote ballistic missile defensecooperation with Russia, it must insist on its constitutional prerogatives regarding consideration of arms control agreements with Russia that bear on ballistic missile defense.
 
 #### “SEC. 2703. AUTHORITIES RELATING TO NATO ENLARGEMENT.
 
@@ -554,7 +554,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 “(a)
 
-In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a note below\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
+In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a notebelow\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
 
 “(b)
 
@@ -650,7 +650,7 @@ Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, as a
 
 Efforts To Increase Allied Burdensharing.—The President shall seek to have each nation that has cooperative military relations with the United States (including security agreements, basing arrangements, or mutual participation in multinational military organizations or operations) take one or more of the following actions:
 
-&emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving by September 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
+&emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving bySeptember 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
 
 &emsp;“(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1999.
 
@@ -716,7 +716,7 @@ Pub. L. 104–201, div. A, title X, §1084, Sept. 23, 1996, 110 Stat. 2673, as a
 
 #### Nato Participation
 
-Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, §585, Feb. 12, 1996,110 Stat. 752; Pub. L. 104–208, div. A, title I, §101(c) \[title VI, §612\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178; Pub. L. 105–277, div. G, subdiv. B, title XXVII, §2703(e), Oct. 21, 1998, 112 Stat. 2681–842, provided that:
+Pub. L. 103–447, title II, Nov. 2, 1994, 108 Stat. 4695, as amended by Pub. L. 104–107, title V, §585, Feb. 12, 1996, 110 Stat. 752; Pub. L. 104–208, div. A, title I, §101(c) \[title VI, §612\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–178; Pub. L. 105–277, div. G, subdiv. B, title XXVII, §2703(e), Oct. 21, 1998, 112 Stat. 2681–842, provided that:
 
 #### “SEC. 201. SHORT TITLE.
 
@@ -828,7 +828,7 @@ Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the el
 
 “(a)
 
-Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and 65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
+Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
 
 “(b)
 
@@ -888,7 +888,7 @@ Authority of the President.—The President is authorized to confer, pursuant to
 
 #### Defense Cost-Sharing
 
-Pub. L. 102–190, div. A, title X, §1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, titleXIV, §1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, §1313(e), Oct. 5, 1994, 108 Stat. 2895, provided that:
+Pub. L. 102–190, div. A, title X, §1046, Dec. 5, 1991, 105 Stat. 1466, as amended by Pub. L. 103–160, div. A, title XIV, §1412(b), Nov. 30, 1993, 107 Stat. 1829; Pub. L. 103–337, div. A, title XIII, §1313(e), Oct. 5, 1994, 108 Stat. 2895, provided that:
 
 “(a)
 
@@ -978,7 +978,7 @@ Sense of Congress.—In light of the findings in subsection (a), it is the sense
 
 #### Report on Official Development Assistance Program of Japan
 
-Pub. L. 100–456, div. A, title X, §1009(b), Sept. 29, 1988, 102 Stat. 2041, provided that: “The Secretary of Defenseshall include with the annual report submitted pursuant to section 1003 of Public Law 98–525 (22 U.S.C. 1928 note) a report on the Official Development Assistance program of the Government of Japan. Such report shall be prepared each year in coordination with the Secretary of State and the Administrator of the Agency for International Development and shall include a description of the amount and nature of spending under such program by recipient, including distinguishing between grant aid, loans, and credits.”
+Pub. L. 100–456, div. A, title X, §1009(b), Sept. 29, 1988, 102 Stat. 2041, provided that: “The Secretary of Defense shall include with the annual report submitted pursuant to section 1003 of Public Law 98–525 (22 U.S.C. 1928 note) a report on the Official Development Assistance program of the Government of Japan. Such report shall be prepared each year in coordination with the Secretary of State and the Administrator of the Agency for International Development and shall include a description of the amount and nature of spending under such program by recipient, including distinguishing between grant aid, loans, and credits.”
 
 #### Japan-United States Security Relationship and Efforts by Japan To Fulfill Self-Defense Responsibilities
 
@@ -1166,7 +1166,7 @@ Pub. L. 93–155, title VIII, §812, Nov. 16, 1973, 87 Stat. 619, provided that:
 
 “(a) The Congress finds that in order to achieve a more equitable sharing of the costs and expenses arising from commitments and obligations under the North Atlantic Treaty, the President should seek, through appropriate bilateral and multilateral arrangements, payments sufficient in amount to offset fully any balance-of-payment deficit incurred by the United States during the fiscal year ending June 30, 1974, as the result of the deployment of forces in Europe in fulfillment of the treaty commitments and obligations of the United States. This balance-of-payment deficit shall be determined by the Secretary of Commerce in consultation with the Secretary of Defense and the Comptroller General of the United States.
 
-“(b) In the event that the North Atlantic Treaty Organization members (other than the United States) fail to offset the net balance-of-payment deficit described in subsection (a) prior to the expiration of eighteen months after the date of enactment of this section \[Nov. 16, 1973\], no funds may be expended after the expiration of twenty-four months following the date of enactment of this section \[Nov. 16, 1973\] for the purpose of maintaining or supporting United States forces in Europe in any number greater than a number equal to the average monthly number of United States forces assigned to duty in Europe during the fiscal year ending June 30, 1974, reduced by a percentage figure equal to the percentage figure by which such balance-of-payment deficit during such fiscal year was not offset.
+“(b) In the event that the North Atlantic Treaty Organization members (other than the United States) fail to offset the net balance-of-payment deficit described in subsection (a) prior to the expiration of eighteenmonths after the date of enactment of this section \[Nov. 16, 1973\], no funds may be expended after the expiration of twenty-four months following the date of enactment of this section \[Nov. 16, 1973\] for the purpose of maintaining or supporting United States forces in Europe in any number greater than a number equal to the average monthly number of United States forces assigned to duty in Europe during the fiscal year ending June 30, 1974, reduced by a percentage figure equal to the percentage figure by which such balance-of-payment deficit during such fiscal year was not offset.
 
 “(c) The Congress further finds (1) that the other members of the North Atlantic Treaty Organization should, in order to achieve a more equitable sharing of the cost burden under the treaty, substantially increase their contributions to assist the United States in meeting those added budgeting expenses incurred as the result of maintaining and supporting United States forces in Europe, including, but not limited to, wages paid to local personnel by the United States, recurring expenses incurred in connection with the maintenance and operation of real property, maintenance facilities, supply depots, cold storage facilities, communications systems, and standby operations, and nonrecurring expenses such as the construction and rehabilitation of plants and facilities; (2) that the amount paid by the United States in connection with the North Atlantic Treaty infrastructure program should be reduced to a more equitable amount; and (3) that the President should seek, through appropriate bilateral and multilateral arrangements, a substantial reduction of the amounts paid by the United States in connection with those matters described in (1) and (2) above.
 
@@ -1202,7 +1202,7 @@ Determination of President of the United States, No. 91–37, May 29, 1991, 56 F
 
 Memorandum for the Secretary of Defense
 
-Consistent with section 406(b) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1546) \[amending section 1002 of Pub. L. 98–525, set out as a note above\], I hereby authorize an end strength level of members of the Armed Forces assigned to permanent duty ashore in European member nations of the North Atlantic Treaty Organization inexcess of 261,855 for fiscal year 1991, and determine that the national security interests of the United States require such authorization.
+Consistent with section 406(b) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1546) \[amending section 1002 of Pub. L. 98–525, set out as a note above\], I hereby authorize an end strength level of members of the Armed Forces assigned to permanent duty ashore in European member nations of the North Atlantic Treaty Organization in excess of 261,855 for fiscal year 1991, and determine that the national security interests of the United States require such authorization.
 
 You are authorized and directed to notify the Congress of this determination and of the necessity therefor contained in the attached justification \[not set out in the Code\], and to publish this determination in the Federal Register.
 

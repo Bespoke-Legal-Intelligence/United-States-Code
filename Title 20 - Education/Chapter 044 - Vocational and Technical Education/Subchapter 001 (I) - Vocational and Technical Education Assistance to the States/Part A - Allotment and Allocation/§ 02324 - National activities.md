@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;From amounts made available under paragraph (8), the Secretary shall provide for the conduct of an independent evaluation andassessment of vocational and technical education programs under this chapter through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis.
+&emsp;&emsp;From amounts made available under paragraph (8), the Secretary shall provide for the conduct of an independent evaluation and assessment of vocational and technical education programs under this chapter through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis.
 
 #### (B) Contents
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) the extent to which State, local, and tribal entities have developed, implemented, or improved State and local vocational and technical education programs and the effect of programs assisted under this chapter on that development, implementation, or improvement, including the capacity of State, tribal, and local vocational and technical education systems to achieve the purpose of this chapter;
 
-&emsp;&emsp;&emsp;(ii) the extent to which expenditures at the Federal, State, tribal, and local levels address program improvement in vocational and technical education, including the impact of Federal allocation requirements (such as within-State allocation formulas) on the delivery of services;
+&emsp;&emsp;&emsp;(ii) the extent to which expenditures at the Federal, State, tribal, and local levels address program improvement in vocational and technical education, includingthe impact of Federal allocation requirements (such as within-State allocation formulas) on the delivery of services;
 
 &emsp;&emsp;&emsp;(iii) the preparation and qualifications of teachers of vocational and technical, and academic, curricula in vocational and technical education programs, as well as shortages of such teachers;
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) State adjusted levels of performance and State levels of performance that serve to improve vocational and technical education programs and student achievement; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) academic knowledge and vocational and technical skills required foremployment or participation in postsecondary education;
+&emsp;&emsp;&emsp;&emsp;(IV) academic knowledge and vocational and technical skills required for employment or participation in postsecondary education;
 
 &emsp;&emsp;&emsp;(ii) to carry out research to increase the effectiveness and improve the implementation of vocational and technical education programs, including conducting research and development, and studies, providing longitudinal information or formative evaluation with respect to vocational and technical education programs and student achievement;
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) effective inservice and preservice teacher education that assists vocational and technical education systems; and
 
-&emsp;&emsp;&emsp;&emsp;(II) dissemination and training activities related to the applied research and demonstration activities described in this subsection, which may also include serving as a repository for information on vocational and technical skills, State academic standards, and related materials; and
+&emsp;&emsp;&emsp;&emsp;(II) dissemination and training activities related to the applied research and demonstration activities described in this subsection, which may also includeserving as a repository for information on vocational and technical skills, State academic standards, and related materials; and
 
 &emsp;&emsp;&emsp;(iv) to carry out such other research as the Secretary determines appropriate to assist State and local recipients of funds under this chapter.
 

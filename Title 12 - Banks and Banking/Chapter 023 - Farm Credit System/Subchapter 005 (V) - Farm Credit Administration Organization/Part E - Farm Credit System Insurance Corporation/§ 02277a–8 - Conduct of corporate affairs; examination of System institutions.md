@@ -16,7 +16,7 @@
 
 #### (4) Use of information
 
-&emsp;The Corporation, with the consent of any board, commission, independent establishment, or executive department of the Federal Government, including any field service thereof, may avail itself of the use of information, services, and facilities thereof in carrying out this part.
+&emsp;The Corporation, with the consent of any board, commission, independent establishment, or executive department of the FederalGovernment, including any field service thereof, may avail itself of the use of information, services, and facilities thereof in carrying out this part.
 
 #### (5) Use of Farm Credit Administration personnel
 

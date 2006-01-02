@@ -6,5 +6,5 @@ As soon as practicable after May 13, 2002, the Secretary shall establish procedu
 
 #### References in Text
 
-Titles I and II, referred to in text, mean titles I and II of Pub. L. 107–171, May 13, 2002, 116 Stat. 143. Forcomplete classification of titles I and II of Pub. L. 107–171 to the Code, see Tables.
+Titles I and II, referred to in text, mean titles I and II of Pub. L. 107–171, May 13, 2002, 116 Stat. 143. For complete classification of titles I and II of Pub. L. 107–171 to the Code, see Tables.
 

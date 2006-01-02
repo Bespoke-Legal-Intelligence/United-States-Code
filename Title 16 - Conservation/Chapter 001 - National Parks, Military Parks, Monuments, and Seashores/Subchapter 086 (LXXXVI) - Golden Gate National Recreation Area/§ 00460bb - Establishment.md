@@ -4,6 +4,10 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 (Pub. L. 92–589, §1, Oct. 27, 1972, 86 Stat. 1299.)
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–131, title II, §201, Dec. 20, 2005, 119 Stat. 2568, provided that: “This title \[amending section 460bb–1 of this title\] may be cited as the ‘Rancho Corral de Tierra Golden Gate National Recreation Area Boundary Adjustment Act’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–350, §1, Oct. 24, 2000, 114 Stat. 1361, provided that: “This Act \[amending section 460bb–1 of this title\] may be cited as the ‘Golden Gate National Recreation Area Boundary Adjustment Act of 2000’.”
@@ -118,7 +122,7 @@ Liability of directors.—Members of the Board of Directors shall not be conside
 
 &emsp;“(6)
 
-Meetings.—The Board shall meet at least three times per year in San Francisco and at least two ofthose meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues through the Golden Gate National Recreation Area Advisory Commission.
+Meetings.—The Board shall meet at least three times per year in San Francisco and at least two of those meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues through the Golden Gate National Recreation Area Advisory Commission.
 
 &emsp;“(7)
 
@@ -136,7 +140,7 @@ Taxes.—The Trust and all properties administered by the Trust and all interest
 
 Government corporation.—(A) The Trust shall be treated as a wholly owned Government corporation subject to chapter 91 of title 31, United States Code (commonly referred to as the Government Corporation Control Act). Financial statements of the Trust shall be audited annually in accordance with section 9105 of title 31 of the United States Code.
 
-&emsp;“(B) At the end of each calendar year, the Trust shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the House of Representatives a comprehensive and detailed report of its operations, activities, and accomplishments for the prior fiscal year. The report also shall include a section that describes in general terms the Trust's goals for the current fiscal year.
+&emsp;“(B) At the end of each calendar year, the Trust shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the House of Representatives a comprehensive and detailed report of its operations, activities, and accomplishments for the prior fiscal year. The report also shall include a sectionthat describes in general terms the Trust's goals for the current fiscal year.
 
 #### “SEC. 104. DUTIES AND AUTHORITIES OF THE TRUST.
 
@@ -190,7 +194,7 @@ Public Agency.—The Trust shall be deemed to be a public agency for purposes of
 
 “(g)
 
-Financial Management.—Notwithstanding section 1341 of title 31 of the United States Code, all proceeds and other revenues received by the Trust shall be retained by the Trust. Those proceeds shall be available, without further appropriation, to the Trust for the administration, preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties under its administrative jurisdiction. The Secretary of the Treasury shall invest, at the direction of the Trust, such excess moneys that the Trust determines are not required to meet current withdrawals. Such investment shall be in public debt securities with maturities suitable to the needs of the Trust and bearing interest at rates determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity.
+Financial Management.—Notwithstanding section 1341 of title 31 of the United States Code, all proceeds and other revenues received by the Trust shall beretained by the Trust. Those proceeds shall be available, without further appropriation, to the Trust for the administration, preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties under its administrative jurisdiction. The Secretary of the Treasury shall invest, at the direction of the Trust, such excess moneys that the Trust determines are not required to meet current withdrawals. Such investment shall be in public debt securities with maturities suitable to the needs of the Trust and bearing interest at rates determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity.
 
 “(h)
 
@@ -244,7 +248,7 @@ Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclu
 
 “(b) In consultation with the Trust, the General Accounting Office \[now Government Accountability Office\] shall develop an interim schedule and plan to reduce and replace the Federal appropriations to the extent practicable for interpretive services conducted by the National Park Service, and law enforcement activities and services, fire and public safety programs conducted by the Trust.
 
-“(c) Seven years after the first meeting of the Board of Directors of the Trust, the General Accounting Office \[now Government Accountability Office\] shall conduct a comprehensive study of the activities of the Trust, including the Trust's progress in meeting its obligations under this title, taking into consideration the results of the study described in subsection (a) and the implementation of plan and schedule required in subsection (b). The General Accounting Office shall report the results of the study, including any adjustments to the plan and schedule, to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources and Committee on Appropriations of the House of Representatives.
+“(c) Seven years after the first meeting of the Board of Directors of the Trust, the General Accounting Office \[now Government Accountability Office\] shall conduct a comprehensive study of the activities of the Trust, including the Trust's progress in meeting its obligations under this title, taking into consideration theresults of the study described in subsection (a) and the implementation of plan and schedule required in subsection (b). The General Accounting Office shall report the results of the study, including any adjustments to the plan and schedule, to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources and Committee on Appropriations of the House of Representatives.
 
 #### “SEC. 107. CONDITIONAL AUTHORITY TO LEASE CERTAIN HOUSING UNITS WITHIN THE PRESIDIO.
 

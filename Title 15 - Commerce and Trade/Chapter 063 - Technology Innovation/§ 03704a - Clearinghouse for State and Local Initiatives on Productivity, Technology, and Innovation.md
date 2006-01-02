@@ -14,7 +14,7 @@ The Clearinghouse may—
 
 &emsp;(3) disseminate information collected under paragraph (2) through reports, directories, handbooks, conferences, and seminars;
 
-&emsp;(4) provide technical assistance and advice to such governments with respect to such initiatives, including assistance in determining sources of assistance from Federal agencieswhich may be available to support such initiatives;
+&emsp;(4) provide technical assistance and advice to such governments with respect to such initiatives, including assistance in determining sources of assistance from Federal agencies which may be available to support such initiatives;
 
 &emsp;(5) study ways in which Federal agencies, including Federal laboratories, are able to use their existing policies and programs to assist State and local governments, and regional and multistate organizations of such governments, to enhance the competitiveness of American business;
 

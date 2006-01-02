@@ -14,7 +14,7 @@ Procurement Requirement.—(1) Except as provided in subsections (b) and (c), a 
 
 (b)
 
-Exceptions.—A department or agency of the Department of Defense is not required to procure copying machine paper containing a percentage of post-consumer recycled content that meets the applicable requirement in subsection (a) if the Secretary concerned determines that one or more of the following circumstances apply with respect to that procurement:
+Exceptions.—A department or agency of the Department of Defense is not required toprocure copying machine paper containing a percentage of post-consumer recycled content that meets the applicable requirement in subsection (a) if the Secretary concerned determines that one or more of the following circumstances apply with respect to that procurement:
 
 &emsp;(1) The cost of procuring copying machine paper satisfying the applicable requirement significantly exceeds the cost of procuring copying machine paper containing a percentage of post-consumer recycled content that does not meet such requirement. The Secretary concerned shall establish the cost differential to be applied under this paragraph.
 

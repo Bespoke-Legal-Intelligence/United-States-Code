@@ -14,7 +14,7 @@ As used in this subchapter, the term—
 
 &emsp;(2) “citizen of the United States” means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State, or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other chief executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth, or naturalization, and which has at least 75 per centum of the interest of <sup>1</sup> therein owned by citizens of the United States. Seventy-five per centum of the interest in the corporation shall not be deemed to be owned by citizens of the United States—
 
-&emsp;&emsp;(A) if the title to 75 per centum of its stock is not vested in such citizens free from anytrust or fiduciary obligation in favor of any person not a citizen of the United States;
+&emsp;&emsp;(A) if the title to 75 per centum of its stock is not vested in such citizens free from any trust or fiduciary obligation in favor of any person not a citizen of the United States;
 
 &emsp;&emsp;(B) if 75 per centum of the voting power in such corporation is not vested in citizens of the United States;
 
@@ -26,7 +26,7 @@ As used in this subchapter, the term—
 
 &emsp;(4) “commercial fishing vessel” means any vessel, boat, ship, or other craft which is (A) documented under the laws of the United States or, if under five net tons, registered under the laws of any State, and (B) used for, equipped to be used for, or of a type which is normally used for commercial purposes for the catching, taking, or harvesting of fish or the aiding or assisting of any activity related to the catching, taking, or harvesting of fish, including, but not limited to, preparation, supply, storage, refrigeration, transportation, or processing;
 
-&emsp;(5) “fish” means finfish, mollusks, crustaceans, and all other forms of marine animal and plant life other than marine mammals, birds, and highly migratory species;
+&emsp;(5) “fish” means finfish, mollusks, crustaceans, and all other forms of marine animaland plant life other than marine mammals, birds, and highly migratory species;
 
 &emsp;(6) “fishing gear” means (A) any commercial fishing vessel, and (B) any equipment of such vessel, whether or not attached to such a vessel;
 

@@ -46,7 +46,7 @@ Section 601 of Pub. L. 99–433, as amended by Pub. L. 100–180, div. A, title 
 
 “(a)
 
-Military Departments and Combatant Commands.—(1) The total number of members of the Armed Forces and civilian employees assigned or detailed to duty described in paragraph (2) may not exceed the number equal to 90 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
+Military Departments and Combatant Commands.—(1) The total number of members of the Armed Forces and civilian employees assigned or detailed to duty described in paragraph (2) may not exceed thenumber equal to 90 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
 “(2) Duty referred to in paragraph (1) is permanent duty in the military departments and in the unified and specified combatant commands to perform management headquarters activities or management headquarters support activities.
 
@@ -86,7 +86,7 @@ Prohibition Against Certain Actions To Achieve Reductions.—Compliance with the
 
 Allocations To Be Made by Secretary of Defense.—(1) The Secretary of Defense shall allocate the reductions required to comply with the limitations in subsections (a) and (b) in a manner consistent with the efficient operation of the Department of Defense. If the Secretary determines that national security requirements dictate that a reduction (or any portion of a reduction) required by subsection (b) not be made from the Defense Agencies and Department of Defense Field Activities, the Secretary may allocate such reduction (or any portion of such reduction) (A) to personnel assigned or detailed to permanent duty in management headquarters activities or management headquarters support activities, or (B) to personnel assigned or detailed to permanent duty in other than management headquarters activities or management headquarters support activities, as the case may be, of the Department of Defense other than the Defense Agencies and Department of Defense Field Activities.
 
-“(2) Among the actions that are taken to carry out the reductions required by subsections (a) and (b), theSecretary shall consolidate and eliminate unnecessary management headquarters activities and management headquarters support activities.
+“(2) Among the actions that are taken to carry out the reductions required by subsections (a) and (b), the Secretary shall consolidate and eliminate unnecessary management headquarters activities and management headquarters support activities.
 
 “(e)
 

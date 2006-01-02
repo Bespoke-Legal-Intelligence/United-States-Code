@@ -202,7 +202,7 @@ The Director of the Center shall prepare and submit to the appropriate committee
 
 &emsp;For the purpose of carrying out this section with respect to the National Institute of Allergy and Infectious Diseases, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2004 and 2005.
 
-(July 1, 1944, ch. 373, title IV, §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107 Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841.)
+(July 1, 1944, ch. 373, title IV, §481A, as added Pub. L. 103–43, title XV, §1502, June 10, 1993, 107Stat. 173; amended Pub. L. 105–392, title I, §101(c), Nov. 13, 1998, 112 Stat. 3537; Pub. L. 106–505, title III, §303, Nov. 13, 2000, 114 Stat. 2330; Pub. L. 108–276, §2(b), July 21, 2004, 118 Stat. 841.)
 
 #### References in Text
 

@@ -90,15 +90,19 @@ For purposes of this section—
 
 #### (d) Certain rules to apply
 
-For purposes of this section, rules similar to the rules of paragraphs (5), (6), and (7) of subsection (b), and subsections (f) and (g), of section 1400B shall apply; except that for such purposes section 1400B(g)(2) shall be applied by substituting “January 1, 2002” for “January 1, 1998” and “December 31, 2014” for “December 31, 2008”.
+For purposes of this section, rules similar to the rules of paragraphs (5), (6), and (7) of subsection (b), and subsections (f) and (g), of section 1400B shall apply; except that for such purposes section 1400B(g)(2) shall be applied by substituting “January 1, 2002” for “January 1, 1998” and “December 31, 2014” for “December 31, 2010”.
 
 #### (e) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the abuse of the purposes of this section.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–594.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–594; amended Pub. L. 108–311, title III, §310(c)(2)(C), Oct. 4, 2004, 118 Stat. 1180.)
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 45D, 1223, 1397B, 1400E of this title.
+2004—Subsec. (d). Pub. L. 108–311 substituted “2010” for “2008”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 effective Jan. 1, 2004, see section 310(e)(1) of Pub. L. 108–311, set out as a note under section 1400 of this title.
 

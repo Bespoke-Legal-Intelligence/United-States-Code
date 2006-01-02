@@ -82,7 +82,7 @@ For purposes of subsection (a)(1)(I) and section 4941, the term “government of
 
 For purposes of subsection (a)(1), the family of any individual shall include only his spouse, ancestors, children, grandchildren, great grandchildren, and the spouses of children, grandchildren, and great grandchildren.
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 515; amended Pub. L. 95–227,§4(c)(2)(B), Feb. 10, 1978, 92 Stat. 22; Pub. L. 98–369, div. A, title III, §306(a), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XVI, §1606(a), Oct. 22, 1986, 100 Stat. 2771; Pub. L. 105–206, title I, §1101(c)(1), July 22, 1998, 112 Stat. 696; Pub. L. 106–554, §1(a)(7) \[title III, §319(16)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 515; amended Pub. L. 95–227, §4(c)(2)(B), Feb. 10, 1978, 92 Stat. 22; Pub. L. 98–369, div. A, title III, §306(a), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XVI, §1606(a), Oct. 22, 1986, 100 Stat. 2771; Pub. L. 105–206, title I, §1101(c)(1), July 22, 1998, 112 Stat. 696; Pub. L. 106–554, §1(a)(7) \[title III, §319(16)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
 #### Amendments
 
@@ -107,8 +107,4 @@ Section 306(c) of Pub. L. 98–369 provided that: “The amendments made by this
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 507, 509, 4940, 4941, 4942, 4943, 4945, 4948, 4958, 6033, 7454 of this title.
 

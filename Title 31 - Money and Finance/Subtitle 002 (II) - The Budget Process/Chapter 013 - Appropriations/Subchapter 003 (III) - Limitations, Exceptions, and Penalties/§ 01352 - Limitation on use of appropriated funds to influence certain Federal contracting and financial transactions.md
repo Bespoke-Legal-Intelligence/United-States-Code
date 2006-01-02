@@ -38,7 +38,7 @@
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
-(6) The Director of the Office of Management and Budget, after consulting with the Secretaryof the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
+(6) The Director of the Office of Management and Budget, after consulting with the Secretary of the Senate and the Clerk of the House of Representatives, shall issue guidance for agency implementation of, and compliance with, the requirements of this section.
 
 (c)(1) Any person who makes an expenditure prohibited by subsection (a) of this section shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such expenditure.
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(B) does not include an Indian tribe, tribal organization, or any other Indian organization eligible to receive Federal contracts, grants, cooperative agreements, or loans from an agency but only with respect to expenditures by such tribe or organization that are made for purposes specified in subsection (a) and are permitted by other Federal law.
 
-&emsp;(4) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State,regional, or interstate entity having governmental duties and powers.
+&emsp;(4) The term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
 
 &emsp;(5) The term “local government” means a unit of government in a State and, if chartered, established, or otherwise recognized by a State for the performance of a governmental duty, the following entities:
 
@@ -124,7 +124,7 @@
 
 &emsp;(9) The term “reasonable compensation” means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
 
-&emsp;(10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such personfor at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 &emsp;(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
@@ -208,5 +208,5 @@ Section 319(b) of Pub. L. 101–121 provided that the first report submitted und
 
 #### Notification of Compliance Date; Guidance for Agency Implementation
 
-Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office of Management and Budget shall notify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
+Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office of Management and Budget shallnotify the head of each agency that section 1352 of title 31, United States Code (as added by subsection (a)), is to be complied with commencing 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]. Not later than 60 days after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue the guidance required by subsection (b)(7) \[now (b)(6)\] of such section.”
 

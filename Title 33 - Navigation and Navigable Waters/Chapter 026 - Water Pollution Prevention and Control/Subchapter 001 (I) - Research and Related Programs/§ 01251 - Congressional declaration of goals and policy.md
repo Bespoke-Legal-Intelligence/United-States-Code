@@ -6,7 +6,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 &emsp;(1) it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985;
 
-&emsp;(2) it is the national goal that wherever attainable, an interim goal of water quality which provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
+&emsp;(2) it is the national goal that wherever attainable, an interim goal of water qualitywhich provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
 
 &emsp;(3) it is the national policy that the discharge of toxic pollutants in toxic amounts be prohibited;
 
@@ -20,7 +20,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 #### (b) Congressional recognition, preservation, and protection of primary responsibilities and rights of States
 
-It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further thepolicy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
+It is the policy of the Congress to recognize, preserve, and protect the primary responsibilities and rights of States to prevent, reduce, and eliminate pollution, to plan the development and use (including restoration, preservation, and enhancement) of land and water resources, and to consult with the Administrator in the exercise of his authority under this chapter. It is the policy of Congress that the States manage the construction grant program under this chapter and implement the permit programs under sections 1342 and 1344 of this title. It is further the policy of the Congress to support and aid research relating to the prevention, reduction, and elimination of pollution and to provide Federal technical services and financial aid to State and interstate agencies and municipalities in connection with the prevention, reduction, and elimination of pollution.
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
@@ -82,7 +82,7 @@ Pub. L. 101–596, §1, Nov. 16, 1990, 104 Stat. 3000, provided that: “This Ac
 
 Pub. L. 101–596, title II, §201, Nov. 16, 1990, 104 Stat. 3004, provided that: “This part \[probably means title, enacting section 1269 of this title and amending section 1416 of this title\] may be cited as the ‘Long Island Sound Improvement Act of 1990’.”
 
-Pub. L. 101–596, title III, §301, Nov. 16, 1990, 104 Stat. 3006, provided that: “This title \[enacting section 1270 of this title, amending section 1324 of this title, and enacting provisions set out as a note under section 1270 ofthis title\] may be cited as the ‘Lake Champlain Special Designation Act of 1990’.”
+Pub. L. 101–596, title III, §301, Nov. 16, 1990, 104 Stat. 3006, provided that: “This title \[enacting section 1270 of this title, amending section 1324 of this title, and enacting provisions set out as a note under section 1270 of this title\] may be cited as the ‘Lake Champlain Special Designation Act of 1990’.”
 
 #### Short Title of 1988 Amendment
 
@@ -264,7 +264,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 #### Prevention, Control, and Abatement of Environmental Pollution at Federal Facilities
 
-Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
+Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The PublicHealth and Welfare, provides for the prevention, control, and abatement of environmental pollution at federal facilities.
 
 #### Executive Order No. 11548
 

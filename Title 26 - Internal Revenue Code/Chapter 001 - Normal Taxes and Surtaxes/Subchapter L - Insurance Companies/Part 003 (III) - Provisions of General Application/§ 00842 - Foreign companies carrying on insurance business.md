@@ -98,15 +98,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 &emsp;&emsp;The reduction under subparagraph (A) shall not exceed the increase in taxes under part I or II (as the case may be) by reason of the increase in effectively connected income of the company resulting from subsection (b).
 
-#### (3) Adjustment to limitation on deduction for policyholder dividends in the case of foreign mutual life insurance companies
-
-&emsp;For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
-
-&emsp;&emsp;(A) the required United States assets of the company (determined under subsection (b)(2)), over
-
-&emsp;&emsp;(B) the mean of the assets held in the United States during the taxable year.
-
-#### (4) Data used in determining domestic asset/liability percentages and domestic investment yields
+#### (3) Data used in determining domestic asset/liability percentages and domestic investment yields
 
 &emsp;Each domestic asset/liability percentage, and each domestic investment yield, for any taxable year shall be based on such representative data with respect to domestic insurance companies for the second preceding taxable year as the Secretary considers appropriate.
 
@@ -122,9 +114,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(4) which may provide that, in the case of companies taxable under part II of this subchapter, determinations under subsection (b) will be made separately for categories of such companies established in such regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, §5(5), 70 Stat. 49; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 89–809, title I, §104(i)(1), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 99–514, title X, §1024(c)(11), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–203, title X, §10242(a), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title II, §2004(q)(2), (3), Nov. 10, 1988, 102 Stat. 3609; Pub. L. 101–239, title VII, §7821(d)(2), Dec. 19, 1989, 103 Stat. 2424.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, §5(5), 70 Stat. 49; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 89–809, title I, §104(i)(1), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 99–514, title X, §1024(c)(11), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–203, title X, §10242(a), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title II, §2004(q)(2), (3), Nov. 10, 1988, 102 Stat. 3609; Pub. L. 101–239, title VII, §7821(d)(2), Dec. 19, 1989, 103 Stat. 2424; Pub. L. 108–218, title II, §205(b)(6), Apr. 10, 2004, 118 Stat. 610.)
 
 #### Amendments
+
+2004—Subsec. (c)(3), (4). Pub. L. 108–218 redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
+
+&emsp;“(A) the required United States assets of the company (determined under subsection (b)(2)), over
+
+&emsp;“(B) the mean of the assets held in the United States during the taxable year.”
 
 1989—Subsec. (c)(4). Pub. L. 101–239 substituted “yields” for “yeilds” in heading.
 
@@ -143,6 +141,10 @@ Subsec. (d)(4). Pub. L. 100–647, §2004(q)(3), added par. (4).
 1959—Pub. L. 86–69 struck out reference to section 811.
 
 1956—Act Mar. 13, 1956, inserted reference to section 811.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2004, see section 205(c) of Pub. L. 108–218, set out as a note under section 807 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -175,8 +177,4 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 #### Study of United States Reinsurance Industry
 
 Section 1244 of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 816, 831, 848, 885, 1442 of this title.
 

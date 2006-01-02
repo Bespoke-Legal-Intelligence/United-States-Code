@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) The Women's Rights Convention held at the Wesleyan Methodist Chapel in SenecaFalls, New York, in 1848 was an event of major importance in the history of the United States because it marked the formal beginning of the struggle of women for their equal rights.
+&emsp;(1) The Women's Rights Convention held at the Wesleyan Methodist Chapel in Seneca Falls, New York, in 1848 was an event of major importance in the history of the United States because it marked the formal beginning of the struggle of women for their equal rights.
 
 &emsp;(2) The Declaration of Sentiments approved by the 1848 Women's Rights Convention is a document of enduring relevance, which expresses the goal that equality and justice should be extended to all people without regard to sex.
 

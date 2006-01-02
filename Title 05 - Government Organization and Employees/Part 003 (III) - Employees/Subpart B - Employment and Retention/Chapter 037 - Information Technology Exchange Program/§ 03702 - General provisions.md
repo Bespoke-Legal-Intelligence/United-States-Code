@@ -38,7 +38,7 @@ Assistance.—The Chief Information Officers Council, by agreement with the Offi
 
 Considerations.—In exercising any authority under this chapter, an agency shall take into consideration—
 
-&emsp;(1) the need to ensure that small business concerns are appropriately represented with respect to the assignments described in sections 3703 and 3704, respectively; and
+&emsp;(1) the need to ensure that small business concerns are appropriately represented withrespect to the assignments described in sections 3703 and 3704, respectively; and
 
 &emsp;(2) how assignments described in section 3703 might best be used to help meet the needs of the agency for the training of employees in information technology management.
 

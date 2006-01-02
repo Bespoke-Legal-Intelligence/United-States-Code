@@ -22,7 +22,7 @@ In general.—Except as otherwise provided in sections 620 to 620j of this title
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary concerned shall issue regulations that impose reasonable painting,branding, or other forms of marking or tracking requirements on unprocessed timber if—
+&emsp;&emsp;The Secretary concerned shall issue regulations that impose reasonable painting, branding, or other forms of marking or tracking requirements on unprocessed timber if—
 
 &emsp;&emsp;&emsp;(i) the benefits of the requirements outweigh the cost of complying with the requirements; and
 

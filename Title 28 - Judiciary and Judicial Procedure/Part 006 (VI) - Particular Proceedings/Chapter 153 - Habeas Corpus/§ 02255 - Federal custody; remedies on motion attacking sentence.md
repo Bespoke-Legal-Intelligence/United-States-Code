@@ -60,7 +60,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 3, 2005)</i>
+#### (<i>Effective February 1, 1977, as amended to January 2, 2006)</i>
 
 Rule
 
@@ -136,7 +136,7 @@ These rules govern a motion filed in a United States district court under 28 U.S
 
 &emsp;(4) the judgment or sentence is otherwise subject to collateral review; and
 
-(b) a person in custody under a judgment of a state court or another federal court, and subjectto future custody under a judgment of the district court, who seeks a determination that:
+(b) a person in custody under a judgment of a state court or another federal court, and subject to future custody under a judgment of the district court, who seeks a determination that:
 
 &emsp;(1) future custody under a judgment of the district court would violate the Constitution or laws of the United States;
 
@@ -204,9 +204,9 @@ Separate Motions for Separate Judgments. A moving party who seeks relief from mo
 
 #### Advisory Committee Note
 
-Under these rules the application for relief is in the form of a motion rather than a petition (see rule 1 and advisory committee note). Therefore, there is no requirement that the movant name a respondent. This is consistent with 28 U.S.C. §2255. The United States Attorney for the district in which the judgment under attack was entered is the proper party to oppose the motion since the federal government is the movant's adversary of record.
+Under these rules the application for relief is in the form of a motion rather than a petition (see rule 1 andadvisory committee note). Therefore, there is no requirement that the movant name a respondent. This is consistent with 28 U.S.C. §2255. The United States Attorney for the district in which the judgment under attack was entered is the proper party to oppose the motion since the federal government is the movant's adversary of record.
 
-If the movant is attacking a federal judgment which will subject him to future custody, he must be inpresent custody (see rule 1 and advisory committee note) as the result of a state or federal governmental action. He need not alter the nature of the motion by trying to include the government officer who presently has official custody of him as a psuedo-respondent, or third-party plaintiff, or other fabrication. The court hearing his motion attacking the future custody can exercise jurisdiction over those having him in present custody without the use of artificial pleading devices.
+If the movant is attacking a federal judgment which will subject him to future custody, he must be in present custody (see rule 1 and advisory committee note) as the result of a state or federal governmental action. He need not alter the nature of the motion by trying to include the government officer who presently has official custody of him as a psuedo-respondent, or third-party plaintiff, or other fabrication. The court hearing his motion attacking the future custody can exercise jurisdiction over those having him in present custody without the use of artificial pleading devices.
 
 There is presently a split among the courts as to whether a person currently in state custody may use a §2255 motion to obtain relief from a federal judgment under which he will be subjected to custody in the future. Negative, see <i>Newton v. United States</i>, 329 F.Supp. 90 (S.D. Texas 1971); affirmative, see <i>Desmond v. The United States Board of Parole</i>, 397 F.2d 386 (1st Cir. 1968), cert. denied, 393 U.S. 919 (1968); and <i>Paalino v. United States</i>, 314 F.Supp. 875 (C.D.Cal. 1970). It is intended that these rules settle the matter in favor of the prisoner's being able to file a §2255 motion for relief under those circumstances. The proper district in which to file such a motion is the one in which is situated the court which rendered the sentence under attack.
 
@@ -240,7 +240,7 @@ A major difficulty in deciding whether rule 35 or §2255 is the proper remedy is
 
 The courts have been flexible in considering motions under circumstances in which relief might appear to be precluded by <i>Hill v. United States</i>. In <i>Peterson v. United States</i>, 432 F.2d 545 (8th Cir. 1970), the court was confronted with a motion for reduction of sentence by a prisoner claiming to have received a harsher sentence than his codefendants because he stood trial rather than plead guilty. He alleged that this violated his constitutional right to a jury trial. The court ruled that, even though it was past the 120-day time period for a motion to reduce sentence, the claim was still cognizable under rule 35 as a motion to correct an illegal sentence.
 
-The courts have made even greater use of §2255 in these types of situations. In <i>United States v. Lewis</i>, 392 F.2d 440 (4th Cir. 1968), the prisoner moved under §2255 and rule 35 for relief from a sentence he claimed was the result of the judge's misunderstanding of the relevant sentencing law. The court held that he could not get relief under rule 35 because it was past the 120 days for correction of a sentence imposed in an illegal manner and under <i>Hill v. United States</i> it was not an illegal sentence. However, §2255 was applicable because of its “otherwise subject to collateral attack” language. The flaw was not a mere trial error relating to the finding of guilt, but a rare and unusual error which amounted to “exceptional circumstances” embraced in §2255's words “collateral attack.” See 368 U.S. at 444 for discussion of other cases allowing use of §2255 to attack the sentence itself in similar circumstances, especially where the judge has sentenced out of a misapprehension of the law.
+The courts have made even greater use of §2255 in these types of situations. In <i>United States v. Lewis</i>, 392 F.2d 440 (4th Cir. 1968), the prisoner moved under §2255 and rule 35 for relief from a sentence he claimed was the result of the judge's misunderstanding of the relevant sentencing law. The court held that he could not get relief under rule 35 because it was past the 120 days for correction of a sentence imposed in an illegal manner and under <i>Hill v. United States</i> it was not an illegalsentence. However, §2255 was applicable because of its “otherwise subject to collateral attack” language. The flaw was not a mere trial error relating to the finding of guilt, but a rare and unusual error which amounted to “exceptional circumstances” embraced in §2255's words “collateral attack.” See 368 U.S. at 444 for discussion of other cases allowing use of §2255 to attack the sentence itself in similar circumstances, especially where the judge has sentenced out of a misapprehension of the law.
 
 In <i>United States v. McCarthy</i>, 433 F.2d 591, 592 (1st Cir. 1970), the court allowed a prisoner who was past the time limit for a proper rule 35 motion to use §2255 to attack the sentence which he received upon a plea of guilty on the ground that it was induced by an unfulfilled promise of the prosecutor to recommend leniency. The court specifically noted that under §2255 this was a proper collateral attack on the sentence and there was no need to attack the conviction as well.
 
@@ -292,13 +292,13 @@ Time to File. The time for filing a motion is governed by 28 U.S.C. §2255 para.
 
 (d)
 
-Inmate Filing. A paper filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+Inmate Filing. A paper filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If an institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or bya notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
 
 (As amended Apr. 26, 2004, eff. Dec. 1, 2004.)
 
 #### Advisory Committee Note
 
-There is no filing fee required of a movant under these rules. This is a change from the practice of charging $15 and is done to recognize specifically the natureof a §2255 motion as being a continuation of the criminal case whose judgment is under attack.
+There is no filing fee required of a movant under these rules. This is a change from the practice of charging $15 and is done to recognize specifically the nature of a §2255 motion as being a continuation of the criminal case whose judgment is under attack.
 
 The long-standing practice of requiring a $15 filing fee has followed from 28 U.S.C. §1914(a) whereby “parties instituting any civil action \* \* \* pay a filing fee of $15, except that on an application for a writ of habeas corpus the filing fee shall be $5.” This has been held to apply to a proceeding under §2255 despite the rationale that such a proceeding is a motion and thus a continuation of the criminal action. (See note to rule 1.)
 
@@ -346,7 +346,7 @@ Initial Consideration by the Judge. The judge who receives the motion must promp
 
 Rule 4 outlines the procedure for assigning the motion to a specific judge of the district court and the options available to the judge and the government after the motion is properly filed.
 
-The long-standing majority practice in assigning motions made pursuant to §2255 has been for the trial judge to determine the merits of the motion. In caseswhere the §2255 motion is directed against the sentence, the merits have traditionally been decided by the judge who imposed sentence. The reasoning for this was first noted in <i>Currell v. United States</i>, 173 F.2d 348, 348–349 (4th Cir. 1949):
+The long-standing majority practice in assigning motions made pursuant to §2255 has been for the trial judge to determine the merits of the motion. In cases where the §2255 motion is directed against the sentence, the merits have traditionally been decided by the judge who imposed sentence. The reasoning for this was first noted in <i>Currell v. United States</i>, 173 F.2d 348, 348–349 (4th Cir. 1949):
 
 &emsp;Complaint is made that the judge who tried the case passed upon the motion. Not only was there no impropriety in this, but it is highly desirable in such cases that the motions be passed on by the judge who is familiar with the facts and circumstances surrounding the trial, and is consequently not likely to be misled by false allegations as to what occurred.
 
@@ -406,7 +406,7 @@ Unlike the habeas corpus statutes (see 28 U.S.C. §§2243, 2248) §2255 does not
 
 There is no requirement that the movant exhaust his remedies prior to seeking relief under §2255. However, the courts have held that such a motion is inappropriate if the movant is simultaneously appealing the decision.
 
-&emsp;We are of the view that there is no jurisdictional bar to the District Court's entertaining a Section 2255motion during the pendency of a direct appeal but that the orderly administration of criminal law precludes considering such a motion absent extraordinary circumstances.
+&emsp;We are of the view that there is no jurisdictional bar to the District Court's entertaining a Section 2255 motion during the pendency of a direct appeal but that the orderly administration of criminal law precludes considering such a motion absent extraordinary circumstances.
 
 #### <i>Womack v. United States</i>, 395 F.2d 630, 631 (D.C.Cir. 1968)
 
@@ -474,7 +474,7 @@ In General. If the motion is not dismissed, the judge may direct the parties to 
 
 (b)
 
-Types of Materials. The materials that may be required include letters predating the filing of the motion, documents, exhibits, andanswers under oath to written interrogatories propounded by the judge. Affidavits also may be submitted and considered as part of the record.
+Types of Materials. The materials that may be required include letters predating the filing of the motion, documents, exhibits, and answers under oath to written interrogatories propounded by the judge. Affidavits also may be submitted and considered as part of the record.
 
 (c)
 
@@ -540,7 +540,7 @@ The Federal Rules of Criminal Procedure, referred to in subd. (d), are set out i
 
 #### Amendments by Public Law
 
-1976—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings orrecommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+1976—Subd. (b). Pub. L. 94–577, §2(a)(2), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
 Subd. (c). Pub. L. 94–577, §2(b)(2), substituted “and the hearing shall be conducted” for “and shall conduct the hearing.”
 
@@ -606,7 +606,7 @@ A requirement that the movant display reasonable diligence in filing a §2255 mo
 
 > In accord see <i>Desmond v. United States</i>, 333 F.2d 378, 381 (1st Cir. 1964), on remand, 345 F.2d 225 (1st Cir. 1965).
 
-One of the major arguments advanced by the courts which would penalize a movant who waits an unduly long time before filing a §2255 motion is that such delay is highly prejudicial to the prosecution. In <i>Desmond v. United States</i>, writing of a §2255 motion alleging denial of effective appeal because of deception by movant's own counsel, the court said:
+One of the major arguments advanced by the courts which would penalize a movant who waits an unduly long time before filing a §2255 motion is that suchdelay is highly prejudicial to the prosecution. In <i>Desmond v. United States</i>, writing of a §2255 motion alleging denial of effective appeal because of deception by movant's own counsel, the court said:
 
 > &emsp;\[A\]pplications for relief such as this must be made promptly. It will not do for a prisoner to wait until government witnesses have become unavailable as by death, serious illness or absence from the country, or until the memory of available government witnesses has faded. It will not even do for a prisoner to wait any longer than is reasonably necessary to prepare appropriate moving papers, however inartistic, after discovery of the deception practiced upon him by his attorney.
 
@@ -839,6 +839,12 @@ Authorized Officer of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 > (As amended Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 26, 2004, eff. Dec. 1, 2004.)
+
+#### MODEL FORM FOR USE IN 28 U.S.C. §2255 CASES INVOLVING A RULE 9 ISSUE
+
+#### Form No. 9
+
+#### \[Omitted as obsolete\]
 
 <i>Changes Made After Publication and Comments—Forms Accompanying Rules Governing §2254 and §2255 Proceedings</i>. Responding to a number of comments from the public, the Committee deleted from both sets of official forms the list of possible grounds of relief. The Committee made additional minor style corrections to the forms.
 

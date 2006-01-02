@@ -12,5 +12,5 @@ Not later than 1 year after October 24, 1992, the Commission shall promulgate a 
 
 #### State Authorities; Construction
 
-Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of Title 15, Commerce and Trade.
+Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 

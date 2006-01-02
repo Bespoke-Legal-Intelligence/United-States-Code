@@ -21,10 +21,6 @@
 
 1983—Pub. L. 97–455, §1(d)(2), Jan. 12, 1983, 96 Stat. 2498, added item 1444.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 33, 3405, 6049 of this title.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 

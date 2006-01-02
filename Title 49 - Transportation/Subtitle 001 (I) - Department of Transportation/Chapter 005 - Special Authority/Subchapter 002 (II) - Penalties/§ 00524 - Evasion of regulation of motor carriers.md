@@ -2,7 +2,7 @@
 
 A person, or an officer, employee, or agent of that person, that by any means knowingly and willfully tries to evade regulation of motor carriers under this chapter shall be fined at least $200 but not more than $500 for the first violation and at least $250 but not more than $2,000 for a subsequent violation.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2437.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2437.)
 
 Historical and Revision Notes
 

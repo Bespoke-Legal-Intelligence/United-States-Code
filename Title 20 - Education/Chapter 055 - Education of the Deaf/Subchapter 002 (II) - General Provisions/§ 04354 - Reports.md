@@ -2,7 +2,7 @@
 
 The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
 
-&emsp;(1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, preparatory, undergraduate, and graduate) and of NTID.
+&emsp;(1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who leftwithout completing a program of study, reported under each of the programs of the University (elementary, secondary, preparatory, undergraduate, and graduate) and of NTID.
 
 &emsp;(2) For the preceding academic year, and to the extent possible, the following data on individuals who are deaf and from minority backgrounds and who are students (at all educational levels) or employees:
 
@@ -54,7 +54,7 @@ Par. (6). Pub. L. 103–73, §204(c)(4), substituted “Program funds are” for
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
 #### Effective Date of 1998 Amendment
 

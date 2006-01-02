@@ -46,7 +46,7 @@ In assuring the effective management of this program, the Secretary shall have s
 
 (5) Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this chapter shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
 
-(6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
+(6) The provisions and requirements of this subsection shall not apply with respect to anycontract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 
 (Pub. L. 96–512, §4, Dec. 12, 1980, 94 Stat. 2828; Pub. L. 97–375, title I, §106(c), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, §5(b)(5), Nov. 2, 1994, 108 Stat. 4582.)
 

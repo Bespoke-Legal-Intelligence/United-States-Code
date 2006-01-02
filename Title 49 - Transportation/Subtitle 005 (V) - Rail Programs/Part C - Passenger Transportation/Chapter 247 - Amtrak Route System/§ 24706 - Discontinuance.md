@@ -128,7 +128,7 @@ Notices.—Notwithstanding any arrangement in effect before the date of the enac
 
 “(b)
 
-National Mediation Board Efforts.—Except as provided in subsection (c), the National MediationBoard shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
+National Mediation Board Efforts.—Except as provided in subsection (c), the National Mediation Board shall complete all efforts, with respect to the dispute described in subsection (a), under section 5 of the Railway Labor Act (45 U.S.C. 155) not later than 120 days after the date of the enactment of this Act \[Dec. 2, 1997\].
 
 “(c)
 

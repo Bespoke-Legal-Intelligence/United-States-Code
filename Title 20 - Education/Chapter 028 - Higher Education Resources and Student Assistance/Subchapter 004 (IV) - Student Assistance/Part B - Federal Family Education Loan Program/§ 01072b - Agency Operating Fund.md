@@ -48,7 +48,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (C) Enrollment and repayment status management
 
-&emsp;&emsp;The term “enrollment and repayment status management” means activities of a guaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
+&emsp;&emsp;The term “enrollment and repayment status management” means activities of aguaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
 
 #### (e) Ownership and regulation of Operating Fund
 

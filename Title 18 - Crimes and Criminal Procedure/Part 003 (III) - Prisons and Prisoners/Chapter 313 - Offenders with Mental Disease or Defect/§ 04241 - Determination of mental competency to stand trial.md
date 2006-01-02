@@ -2,7 +2,7 @@
 
 (a)
 
-Motion To Determine Competency of Defendant.—At any time after the commencementof a prosecution for an offense and prior to the sentencing of the defendant, the defendant or the attorney for the Government may file a motion for a hearing to determine the mental competency of the defendant. The court shall grant the motion, or shall order such a hearing on its own motion, if there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense.
+Motion To Determine Competency of Defendant.—At any time after the commencement of a prosecution for an offense and prior to the sentencing of the defendant, the defendant or the attorney for the Government may file a motion for a hearing to determine the mental competency of the defendant. The court shall grant the motion, or shall order such a hearing on its own motion, if there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense.
 
 (b)
 

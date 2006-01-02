@@ -75,7 +75,7 @@ Standards for issuing credits for cleaner vehicles.—The more stringent standar
 
 #### (2) Plan revisions
 
-&emsp;Any State in which there is located all or part of an ozone nonattainment area classified under subpart D of subchapter I of this chapter as Serious, Severe, or Extreme may submit a revision of the applicable implementation plan under part D of subchapter I of this chapter and section 7410 of this title to provide incentives for the sale or use in such an area or State of clean-fuel vehicles which are required to be produced, sold, and distributed in the State of California, and for the use in such an area or State of clean alternative fuels required to be produced and distributed by fuel suppliers and made available in California. Such plan provisions shall not take effect until 1 year after the State has provided notice of such provisions to motor vehicle manufacturers and to fuel suppliers.
+&emsp;Any State in which there is located all or part of an ozone nonattainment area classified under subpart <sup>4</sup> D of subchapter I of this chapter as Serious, Severe, or Extreme may submit a revision of the applicable implementation plan under part D of subchapter I of this chapter and section 7410 of this title to provide incentives for the sale or use in such an area or State of clean-fuel vehicles which are required to be produced, sold, and distributed in the State of California, and for the use in such an area or State of clean alternative fuels required to be produced and distributed by fuel suppliers and made available in California. Such plan provisions shall not take effect until 1 year after the State has provided notice of such provisions to motor vehicle manufacturers and to fuel suppliers.
 
 #### (3) Incentives
 
@@ -106,4 +106,6 @@ November 15, 1990, referred to in subsec. (e)(3), was in the original “the dat
 <i><sup>2</sup></i><i> So in original. Probably should be “section 7586(f)”.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “part”.</i>
 

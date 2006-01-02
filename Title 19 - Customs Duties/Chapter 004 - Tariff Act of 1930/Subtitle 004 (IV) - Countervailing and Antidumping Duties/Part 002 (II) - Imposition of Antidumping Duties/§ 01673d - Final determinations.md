@@ -66,7 +66,7 @@ Commission standard for retroactive application.—
 
 &emsp;&emsp;(i)
 
-In general.—If the finding of the administering authority under subsection\(a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
+In general.—If the finding of the administering authority under subsection (a)(3) of this section is affirmative, then the final determination of the Commission shall include a finding as to whether the imports subject to the affirmative determination under subsection (a)(3) of this section are likely to undermine seriously the remedial effect of the antidumping duty order to be issued under section 1673e of this title.
 
 &emsp;&emsp;(ii)
 
@@ -86,7 +86,7 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 &emsp;If the determination of the administering authority under subsection (a) of this section is affirmative, then—
 
-&emsp;&emsp;(A) the administering authority shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its determination, under such procedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information as to which confidential treatment has been given by the administering authority,
+&emsp;&emsp;(A) the administering authority shall make available to the Commission all information upon which such determination was based and which the Commission considers relevant to its determination, under suchprocedures as the administering authority and the Commission may establish to prevent disclosure, other than with the consent of the party providing it or under protective order, of any information as to which confidential treatment has been given by the administering authority,
 
 &emsp;&emsp;(B)(i) the administering authority shall—
 
@@ -186,7 +186,7 @@ Subsec. (c)(4). Pub. L. 98–573, §605(b)(2), added par. (4).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the UnitedStates \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 

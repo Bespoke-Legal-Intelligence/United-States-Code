@@ -10,7 +10,7 @@ Such attendance of witnesses, and the production of such documentary evidence, m
 
 #### (c) Court order requiring attendance and testimony of witnesses
 
-Any such court within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any person, issue an order requiring such person to appear before the Secretary or to produce documentary evidence if so ordered, or to giveevidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Any such court within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any person, issue an order requiring such person to appear before the Secretary or to produce documentary evidence if so ordered, or to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (d) Fees and mileage costs of witnesses
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 #### Effective Date of 1970 Amendment
 
-For effective date of amendment by Pub. L. 91–452, and amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+For effective date of amendment by Pub. L. 91–452, and amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out asan Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

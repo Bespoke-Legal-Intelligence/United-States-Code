@@ -10,7 +10,7 @@ The Secretary shall (1) cause a copy of any order, citation, notice, or decision
 
 #### (c) Compliance
 
-In order to insure prompt compliance with any notice, order, citation, or decision issued under this chapter, the authorized representative ofthe Secretary may deliver such notice, order, citation, or decision to an agent of the operator, and such agent shall immediately take appropriate measures to insure compliance with such notice, order, citation, or decision.
+In order to insure prompt compliance with any notice, order, citation, or decision issued under this chapter, the authorized representative of the Secretary may deliver such notice, order, citation, or decision to an agent of the operator, and such agent shall immediately take appropriate measures to insure compliance with such notice, order, citation, or decision.
 
 #### (d) Filing; designation of health and safety officers
 

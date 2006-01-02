@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(ii) the operation of a base of operations for civilian law enforcement and supporting personnel; and
 
-&emsp;&emsp;(iii) the transportation of suspected terrorists from foreign countries to the UnitedStates for trial (so long as the requesting Federal law enforcement agency provides all security for such transportation and maintains custody over the suspect through the duration of the transportation).
+&emsp;&emsp;(iii) the transportation of suspected terrorists from foreign countries to the United States for trial (so long as the requesting Federal law enforcement agency provides all security for such transportation and maintains custody over the suspect through the duration of the transportation).
 
 (3) Department of Defense personnel made available to operate equipment for the purpose stated in paragraph (2)(D) may continue to operate such equipment into the land area of the United States in cases involving the pursuit of vessels or aircraft where the detection began outside such land area.
 
@@ -120,6 +120,30 @@ Subsec. (d). Pub. L. 99–661 added subsec. (d).
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
+#### Funds for Young Marines Program
+
+Pub. L. 109–148, div. A, title VIII, §8033, Dec. 30, 2005, 119 Stat. 2705, provided that: “Notwithstanding any other provision of law, funds available during the current fiscal year and hereafter for ‘Drug Interdiction and Counter-Drug Activities, Defense’ may be obligated for the Young Marines program.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–287, title VIII, §8037, Aug. 5, 2004, 118 Stat. 978.
+
+Pub. L. 108–87, title VIII, §8037, Sept. 30, 2003, 117 Stat. 1080.
+
+Pub. L. 107–248, title VIII, §8037, Oct. 23, 2002, 116 Stat. 1544.
+
+Pub. L. 107–117, div. A, title VIII, §8040, Jan. 10, 2002, 115 Stat. 2256.
+
+Pub. L. 106–259, title VIII, §8040, Aug. 9, 2000, 114 Stat. 683.
+
+Pub. L. 106–79, title VIII, §8043, Oct. 25, 1999, 113 Stat. 1240.
+
+Pub. L. 105–262, title VIII, §8043, Oct. 17, 1998, 112 Stat. 2307.
+
+Pub. L. 105–56, title VIII, §8047, Oct. 8, 1997, 111 Stat. 1231.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8048\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99.
+
 #### Counter-Drug Activities; Conditions on Transfers of Funds and Detailing Personnel; Relationship to Other Law
 
 Pub. L. 103–337, div. A, title X, §1011(b)–(d), Oct. 5, 1994, 108 Stat. 2836, provided that:
@@ -146,9 +170,13 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 108–87, title VIII, §8057(a), Sept. 30, 2003, 117 Stat. 1085, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 109–148, div. A, title VIII, §8052(a), Dec. 30, 2005, 119 Stat. 2709, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–287, title VIII, §8057(a), Aug. 5, 2004, 118 Stat. 983.
+
+Pub. L. 108–87, title VIII, §8057(a), Sept. 30, 2003, 117 Stat. 1085.
 
 Pub. L. 107–248, title VIII, §8058(a), Oct. 23, 2002, 116 Stat. 1549.
 
@@ -200,7 +228,7 @@ Types of Support.—The purposes for which the Secretary of Defense may provide 
 
 &emsp;“(3) The transportation of personnel of the United States and foreign countries (including per diem expenses associated with such transportation), and the transportation of supplies and equipment, for the purpose of facilitating counter-drug activities within or outside the United States.
 
-&emsp;“(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, or local law enforcement agency within or outside the UnitedStates or counter-drug activities of a foreign law enforcement agency outside the United States.
+&emsp;“(4) The establishment (including an unspecified minor military construction project) and operation of bases of operations or training facilities for the purpose of facilitating counter-drug activities of the Department of Defense or any Federal, State, or local law enforcement agency within or outside the United States or counter-drug activities of a foreign law enforcement agency outside the United States.
 
 &emsp;“(5) Counter-drug related training of law enforcement personnel of the Federal Government, of State and local governments, and of foreign countries, including associated support expenses for trainees and the provision of materials necessary to carry out such training.
 
@@ -260,9 +288,5 @@ Section 1105 of Pub. L. 100–456 related to funding and training of National Gu
 
 #### Additional Department of Defense Drug Law Enforcement Assistance
 
-Section 3057 of Pub. L. 99–570 provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for Congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department's performance by the General Accounting Office.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 379 of this title.
+Pub. L. 99–570, title III, §3057, Oct. 27, 1986, 100 Stat. 3207–77, provided that the Secretary of Defense was to submit to Congress, within 90 days after Oct. 27, 1986, a list of all forms of assistance that were to be made available by the Department of Defense to civilian drug law enforcement and drug interdiction agencies and a plan for promptly lending equipment and rendering drug interdiction-related assistance included on the list, provided for congressional approval of the list and plan, required the Secretary to convene a conference of the heads of Government agencies with jurisdiction over drug law enforcement to determine the appropriate distribution of the assets or other assistance to be made available by the Department to such agencies, and provided for monitoring of the Department's performance by the General Accounting Office.
 

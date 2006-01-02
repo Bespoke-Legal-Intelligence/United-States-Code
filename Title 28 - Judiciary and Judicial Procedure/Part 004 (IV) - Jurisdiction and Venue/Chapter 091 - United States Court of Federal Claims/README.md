@@ -32,13 +32,13 @@ This section inserts in the analysis of chapter 91 of title 28, U.S.C., item 150
 
 #### Amendments
 
-1992—Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
+1992—Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURTOF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
 
 1984—Pub. L. 98–369, div. A, title VII, §714(g)(3), July 18, 1984, 98 Stat. 962, added item 1509.
 
 1982—Pub. L. 97–248, title IV, §402(c)(18)(B), Sept. 3, 1982, 96 Stat. 669, added item 1508.
 
-Pub. L. 97–164, title I, §133(e)(2)(B), (f), (h), (j)(2), Apr. 2, 1982, 96 Stat. 41, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapterheading, substituted “Liquidated damages withheld from contractors under Contract Work Hours and Safety Standards Act” for “Penalties imposed against contractors under eight hour law” in item 1499, and struck out items 1504 “Tort Claims” and 1506 “Transfer to cure defect of jurisdiction”.
+Pub. L. 97–164, title I, §133(e)(2)(B), (f), (h), (j)(2), Apr. 2, 1982, 96 Stat. 41, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Liquidated damages withheld from contractors under Contract Work Hours and Safety Standards Act” for “Penalties imposed against contractors under eight hour law” in item 1499, and struck out items 1504 “Tort Claims” and 1506 “Transfer to cure defect of jurisdiction”.
 
 1976—Pub. L. 94–455, title XIII, §1306(b)(9)(B), Oct. 4, 1976, 90 Stat. 1720, added item 1507.
 
@@ -53,6 +53,8 @@ Pub. L. 86–726, §4, Sept. 8, 1960, 74 Stat. 856, substituted “Patent and co
 #### Rules of the United States Court of Federal Claims
 
 See Appendix to this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “77p(f)(3)”.</i>
 
 
 ---

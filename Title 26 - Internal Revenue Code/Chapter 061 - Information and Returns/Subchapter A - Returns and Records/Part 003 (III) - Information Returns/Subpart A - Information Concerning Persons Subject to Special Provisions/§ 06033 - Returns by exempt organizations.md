@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), every organization exempt from taxation under section 501(a) shall file an annual return, stating specifically the items of gross income, receipts, and disbursements, and such other information for the purpose of carrying out the internal revenue laws as the Secretary may by forms or regulations prescribe, and shall keep such records, render under oath such statements, make such other returns, and comply with such rules and regulations as the Secretary may from time to time prescribe; except that, in the discretion of the Secretary, any organization described in section 401(a) may be relieved from stating in its return anyinformation which is reported in returns filed by the employer which established such organization.
+&emsp;Except as provided in paragraph (2), every organization exempt from taxation under section 501(a) shall file an annual return, stating specifically the items of gross income, receipts, and disbursements, and such other information for the purpose of carrying out the internal revenue laws as the Secretary may by forms or regulations prescribe, and shall keep such records, render under oath such statements, make such other returns, and comply with such rules and regulations as the Secretary may from time to time prescribe; except that, in the discretion of the Secretary, any organization described in section 401(a) may be relieved from stating in its return any information which is reported in returns filed by the employer which established such organization.
 
 #### (2) Exceptions from filing
 
@@ -232,7 +232,7 @@ Every organization described in section 501(c)(4) which is subject to the requir
 
 #### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
 
-<i>For adjustment of limitation amount for taxable years beginning in 2004 for determining applicability of subsection (e)(3) of this section to certain exempt organizations, see section 3.28 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation amount for taxable years beginning in 2006 for determining applicability of subsection (e)(3) of this section to certain exempt organizations, see section 3.31 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -256,7 +256,7 @@ The Federal Election Campaign Act of 1971, referred to in subsec. (g)(3)(F), is 
 
 1998—Subsec. (c). Pub. L. 105–277 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “a copy of the notice required by section 6104(d) (relating to public inspection of private foundations’ annual returns), together with proof of publication thereof, shall be filed by the foundation together with the annual return under this section, and”.
 
-1997—Subsec. (b)(10). Pub. L. 105–34, §1603(b)(1)(A), in introductory provisions, substituted “the respective amounts (if any) of the taxes imposed on the organization, or any organization manager of the organization, during the taxable year under any of the following provisions (and the respective amounts (if any) of reimbursements paid by the organization during the taxable year with respect to taxes imposed on any such organization manager under any of such provisions):” for “the respective amounts (if any) of the taxes paid by the organization during the taxable year under the following provisions:”.
+1997—Subsec. (b)(10). Pub. L. 105–34, §1603(b)(1)(A), in introductory provisions, substituted “the respectiveamounts (if any) of the taxes imposed on the organization, or any organization manager of the organization, during the taxable year under any of the following provisions (and the respective amounts (if any) of reimbursements paid by the organization during the taxable year with respect to taxes imposed on any such organization manager under any of such provisions):” for “the respective amounts (if any) of the taxes paid by the organization during the taxable year under the following provisions:”.
 
 Subsec. (b)(10)(C). Pub. L. 105–34, §1603(b)(1)(B), inserted at end “except to the extent that, by reason of section 4962, the taxes imposed under such section are not required to be paid or are credited or refunded,”.
 
@@ -330,7 +330,7 @@ Amendment by Pub. L. 103–66 applicable to amounts paid or incurred after Dec. 
 
 #### Effective Date of 1987 Amendment
 
-Section 10703(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to returns for years beginning after December 31, 1987.”
+Section 10703(b) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to returns for years beginning after December 31, 1987.”
 
 #### Effective Date of 1986 Amendment
 
@@ -355,8 +355,4 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 applicable to taxable years ending on or after Dec. 31, 1958, see section 75(c) of Pub. L. 85–866, set out as a note under section 6104 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 162, 170, 527, 6104, 6501, 6652 of this title; title 2 sections 1602, 1610; title 42 section 9907.
 

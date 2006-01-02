@@ -8,6 +8,7 @@
 | [114\.](%C2%A7%2000114%20-%20Maiming%20within%20maritime%20and%20territorial%20jurisdiction.md) | Maiming within maritime and territorial jurisdiction. |
 | [115\.](%C2%A7%2000115%20-%20Influencing%2C%20impeding%2C%20or%20retaliating%20against%20a%20Federal%20official%20by%20threatening%20or%20injuring%20a%20family%20member.md) | Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member. |
 | [116\.](%C2%A7%2000116%20-%20Female%20genital%20mutilation.md) | Female genital mutilation. |
+| [117\.](%C2%A7%2000117%20-%20Domestic%20assault%20by%20an%20habitual%20offender.md) | Domestic assault by an habitual offender.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,6 +24,8 @@
 
 1964—Pub. L. 88–493, §2, Aug. 27, 1964, 78 Stat. 610, substituted “certain foreign diplomatic and other official personnel” for “public minister” in item 112.
 
+<i><sup>1</sup></i><i> Editorially supplied. Section 117 added by Pub. L. 109–162 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -34,3 +37,4 @@
 - [&sect; 00114 - Maiming within maritime and territorial jurisdiction](%C2%A7%2000114%20-%20Maiming%20within%20maritime%20and%20territorial%20jurisdiction.md)
 - [&sect; 00115 - Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member](%C2%A7%2000115%20-%20Influencing%2C%20impeding%2C%20or%20retaliating%20against%20a%20Federal%20official%20by%20threatening%20or%20injuring%20a%20family%20member.md)
 - [&sect; 00116 - Female genital mutilation](%C2%A7%2000116%20-%20Female%20genital%20mutilation.md)
+- [&sect; 00117 - Domestic assault by an habitual offender](%C2%A7%2000117%20-%20Domestic%20assault%20by%20an%20habitual%20offender.md)

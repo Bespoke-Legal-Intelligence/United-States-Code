@@ -2,29 +2,37 @@
 
 (a)
 
-Designating Material as Hazardous.—The Secretary of Transportation shall designate material (including an explosive, radioactive material, etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material, and compressed gas) or a group or class of material as hazardous when the Secretary decides that transporting the material in commerce in a particular amount and form may pose an unreasonable risk to health and safety or property.
+Designating Material as Hazardous.—The Secretary shall designate material (including an explosive, radioactive material, infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material, and compressed gas) or a group or class of material as hazardous when the Secretary determines that transporting the material in commerce in a particular amount and form may pose an unreasonable risk to health and safety or property.
 
 (b)
 
 Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulations for the safe transportation, including security, of hazardous material in intrastate, interstate, and foreign commerce. The regulations—
 
-&emsp;(A) apply to a person—
+&emsp;(A) apply to a person who—
 
-&emsp;&emsp;(i) transporting hazardous material in commerce;
+&emsp;&emsp;(i) transports hazardous material in commerce;
 
-&emsp;&emsp;(ii) causing hazardous material to be transported in commerce; or
+&emsp;&emsp;(ii) causes hazardous material to be transported in commerce;
 
-&emsp;&emsp;(iii) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a packaging or a container that is represented, marked, certified, or sold by that person as qualified for use in transporting hazardous material in commerce; and
+&emsp;&emsp;(iii) designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented, marked, certified, or sold as qualified for use in transporting hazardous material in commerce;
+
+&emsp;&emsp;(iv) prepares or accepts hazardous material for transportation in commerce;
+
+&emsp;&emsp;(v) is responsible for the safety of transporting hazardous material in commerce;
+
+&emsp;&emsp;(vi) certifies compliance with any requirement under this chapter; or
+
+&emsp;&emsp;(vii) misrepresents whether such person is engaged in any activity under clause (i) through (vi); and
 
 &emsp;(B) shall govern safety aspects, including security, of the transportation of hazardous material the Secretary considers appropriate.
 
-&emsp;(C)
-
-Consultation.—When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary.
-
 (2) A proceeding to prescribe the regulations must be conducted under section 553 of title 5, including an opportunity for informal oral presentation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319.)
+(c)
+
+Consultation.—When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary of Transportation.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 109–59, title VII, §§7103, 7126, Aug. 10, 2005, 119 Stat. 1893, 1909.)
 
 Historical and Revision Notes
 
@@ -59,6 +67,22 @@ In subsection (b)(1), before clause (A), the words “in accordance with section
 This amends 49:5103(b)(2) to clarify the restatement of 49 App.:1804(a)(2) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 761).
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary shall designate” for “Secretary of Transportation shall designate”.
+
+Pub. L. 109–59, §7103(a), substituted “infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material,” for “etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material,” and “determines” for “decides”.
+
+Subsec. (b)(1)(A). Pub. L. 109–59, §7103(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “apply to a person—
+
+&emsp;“(i) transporting hazardous material in commerce;
+
+&emsp;“(ii) causing hazardous material to be transported in commerce; or
+
+&emsp;“(iii) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a packaging or a container that is represented, marked, certified, or sold by that person as qualified for use in transporting hazardous material in commerce; and”.
+
+Subsec. (b)(1)(C). Pub. L. 109–59, §7103(c)(1), struck out heading and text of subpar. (C). Text read as follows: “When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary.”
+
+Subsec. (c). Pub. L. 109–59, §7103(c)(2), added subsec. (c).
 
 2002—Subsec. (b)(1). Pub. L. 107–296, §1711(a)(1), substituted “transportation, including security,” for “transportation” in introductory provisions.
 
@@ -112,7 +136,7 @@ In general.—Within 90 days after the date of the enactment of this Act \[Dec. 
 
 &emsp;“(2)
 
-Completion.—The study shall be completed before March 1, 1997 and shall be transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Transportation and Infrastructure Committee of the House of Representatives.
+Completion.—The study shall be completed before March 1, 1997 and shall be transmitted to theCommittee on Commerce, Science, and Transportation of the Senate and the Transportation and Infrastructure Committee of the House of Representatives.
 
 “(d)
 

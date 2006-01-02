@@ -52,7 +52,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (4) Cooperation with survey
 
-&emsp;For each fiscal year, any amount that a State receives for that fiscal year under a grant program covered by this subsection shall not be used for prison purposes (and shall be returned to the grant program if no other authorized use is available), unless the chief executive of the State submits to the Attorney General a certification that neither the State, nor any political subdivision or unit of local government within the State, is listed in a report issued by the Attorney General pursuant to section 15603(c)(2)(C) of this title.
+&emsp;For each fiscal year, any amount that a State receives for that fiscal year under a grant program covered by this subsection shall not be used for prison purposes (and shall be returned to the grant program if no other authorized use is available), unless the chiefexecutive of the State submits to the Attorney General a certification that neither the State, nor any political subdivision or unit of local government within the State, is listed in a report issued by the Attorney General pursuant to section 15603(c)(2)(C) of this title.
 
 #### (5) Redistribution of amounts
 

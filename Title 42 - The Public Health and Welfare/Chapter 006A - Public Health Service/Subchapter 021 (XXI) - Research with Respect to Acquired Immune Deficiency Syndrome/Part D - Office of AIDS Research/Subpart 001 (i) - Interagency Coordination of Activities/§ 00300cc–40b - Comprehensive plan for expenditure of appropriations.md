@@ -50,7 +50,7 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 &emsp;&emsp;(ii) A budget estimate developed on the assumption that the amounts appropriated will be sufficient only for—
 
-&emsp;&emsp;&emsp;(I) continuing the conduct by the agencies of the National Institutes of Health of existing AIDS activities (if approved for continuation), and continuing the support of such activities by the agencies in the case of projects or programs for which the agencies have made a commitment of continued support; and
+&emsp;&emsp;&emsp;(I) continuing the conduct by the agencies of the National Institutes of Health ofexisting AIDS activities (if approved for continuation), and continuing the support of such activities by the agencies in the case of projects or programs for which the agencies have made a commitment of continued support; and
 
 &emsp;&emsp;&emsp;(II) carrying out, of activities that are in addition to activities specified in subclause (I), only such activities for which the Director determines there is the most substantial need.
 
@@ -68,7 +68,7 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 #### (3) Allocations for agencies
 
-&emsp;(A) Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out the AIDS activities specified in subsection (c)(2)(B)(ii)(I) of this section for such year. Such allocation shall, to the extent practicable, be made not later than 15 days afterthe date on which the Director receives amounts under paragraph (2).
+&emsp;(A) Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out the AIDS activities specified in subsection (c)(2)(B)(ii)(I) of this section for such year. Such allocation shall, to the extent practicable, be made not later than 15 days after the date on which the Director receives amounts under paragraph (2).
 
 &emsp;(B) Each fiscal year the Director of the Office shall, from the amounts received under paragraph (2) for the fiscal year, allocate to the agencies of the National Institutes of Health (in accordance with the Plan) all amounts available for such year for carrying out AIDS activities that are not referred to in subparagraph (A). Such allocation shall, to the extent practicable, be made not later than 30 days after the date on which the Director receives amounts under paragraph (2).
 

@@ -36,7 +36,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(iv) compliance with the requirements of paragraph (1)(B) would not increase costs to such an extent that the telephones to which the exemption applies could not be successfully marketed.
 
-(3) The Commission may, upon the application of any interested person, initiate a proceeding to waive the requirements of paragraph (1)(B) of this subsection with respect to new telephones, or telephones associated with a new technology or service. The Commission shall not grant such a waiver unless the Commission determines, on the basis of evidence in the record of such proceeding, that such telephones, or such technology or service, are in the public interest, and that (A) compliance with the requirements of paragraph (1)(B) is technologically infeasible, or (B) compliance with such requirements would increase the costs of the telephones, or of the technology or service, to such an extent that such telephones, technology, or service could not be successfully marketed. In any proceeding under this paragraph to grant a waiver from the requirements of paragraph (1)(B), the Commission shall consider the effect on hearing-impaired individuals of granting the waiver. The Commission shall periodically review and determine the continuing need for any waiver granted pursuant to this paragraph.
+(3) The Commission may, upon the application of any interested person, initiate a proceeding to waive the requirements of paragraph (1)(B) of this subsection with respect to new telephones, or telephones associated with a new technology or service. The Commission shall not grant sucha waiver unless the Commission determines, on the basis of evidence in the record of such proceeding, that such telephones, or such technology or service, are in the public interest, and that (A) compliance with the requirements of paragraph (1)(B) is technologically infeasible, or (B) compliance with such requirements would increase the costs of the telephones, or of the technology or service, to such an extent that such telephones, technology, or service could not be successfully marketed. In any proceeding under this paragraph to grant a waiver from the requirements of paragraph (1)(B), the Commission shall consider the effect on hearing-impaired individuals of granting the waiver. The Commission shall periodically review and determine the continuing need for any waiver granted pursuant to this paragraph.
 
 (4) For purposes of this subsection—
 
@@ -66,7 +66,7 @@ The Commission shall periodically review the regulations established pursuant to
 
 #### (g) Recovery of reasonable and prudent costs
 
-Any common carrier or connecting carrier may provide specialized terminal equipmentneeded by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
+Any common carrier or connecting carrier may provide specialized terminal equipment needed by persons whose hearing, speech, vision, or mobility is impaired. The State commission may allow the carrier to recover in its tariffs for regulated service reasonable and prudent costs not charged directly to users of such equipment.
 
 #### (h) State enforcement
 

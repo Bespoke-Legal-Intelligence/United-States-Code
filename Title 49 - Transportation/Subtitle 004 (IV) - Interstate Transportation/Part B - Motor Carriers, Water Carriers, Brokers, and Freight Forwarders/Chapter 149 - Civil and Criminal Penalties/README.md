@@ -16,8 +16,13 @@
 | [14912\.](%C2%A7%2014912%20-%20Weight-bumping%20in%20household%20goods%20transportation.md) | Weight-bumping in household goods transportation. |
 | [14913\.](%C2%A7%2014913%20-%20Conclusiveness%20of%20rates%20in%20certain%20prosecutions.md) | Conclusiveness of rates in certain prosecutions. |
 | [14914\.](%C2%A7%2014914%20-%20Civil%20penalty%20procedures.md) | Civil penalty procedures. |
+| [14915\.](%C2%A7%2014915%20-%20Penalties%20for%20failure%20to%20give%20up%20possession%20of%20household%20goods.md) | Penalties for failure to give up possession of household goods. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2005—Pub. L. 109–59, title IV, §4210(b), Aug. 10, 2005, 119 Stat. 1759, added item 14915.
 
 
 ---
@@ -38,3 +43,4 @@
 - [&sect; 14912 - Weight-bumping in household goods transportation](%C2%A7%2014912%20-%20Weight-bumping%20in%20household%20goods%20transportation.md)
 - [&sect; 14913 - Conclusiveness of rates in certain prosecutions](%C2%A7%2014913%20-%20Conclusiveness%20of%20rates%20in%20certain%20prosecutions.md)
 - [&sect; 14914 - Civil penalty procedures](%C2%A7%2014914%20-%20Civil%20penalty%20procedures.md)
+- [&sect; 14915 - Penalties for failure to give up possession of household goods](%C2%A7%2014915%20-%20Penalties%20for%20failure%20to%20give%20up%20possession%20of%20household%20goods.md)

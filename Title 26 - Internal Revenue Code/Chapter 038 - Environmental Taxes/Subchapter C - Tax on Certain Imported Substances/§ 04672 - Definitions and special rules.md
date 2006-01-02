@@ -86,7 +86,7 @@ In general.—The Secretary may add substances to or remove substances from the 
 
 “(B)
 
-Authority to add substances to list based on value.—The Secretary may, to the extent necessary tocarry out the purposes of this subchapter, add any substance to the list under paragraph (3) if such substance would be described in paragraph (2)(B) if ‘value’ were substituted for ‘weight’ therein.”
+Authority to add substances to list based on value.—The Secretary may, to the extent necessary to carry out the purposes of this subchapter, add any substance to the list under paragraph (3) if such substance would be described in paragraph (2)(B) if ‘value’ were substituted for ‘weight’ therein.”
 
 #### Effective Date of 1988 Amendment
 
@@ -99,8 +99,4 @@ Section effective Jan. 1, 1989, see section 515(c) of Pub. L. 99–499, set out 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4662 of this title.
 

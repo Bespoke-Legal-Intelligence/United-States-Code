@@ -12,7 +12,7 @@ It is prohibited for any person—
 
 #### Amendments
 
-1986—Pub. L. 99–634 amended section generally. Prior to amendment, section read as follows: “For the purpose of ascertaining whether such fees, commissions, compensation, gifts, or gratuities have been paid or granted by a subcontractor, the General Accounting Office shall have the power to inspect the plants and toaudit the books and records of any prime contractor or subcontractor engaged in the performance of a negotiated contract.”
+1986—Pub. L. 99–634 amended section generally. Prior to amendment, section read as follows: “For the purpose of ascertaining whether such fees, commissions, compensation, gifts, or gratuities have been paid or granted by a subcontractor, the General Accounting Office shall have the power to inspect the plants and to audit the books and records of any prime contractor or subcontractor engaged in the performance of a negotiated contract.”
 
 1960—Pub. L. 86–695 substituted “negotiated contract” for “cost-plus-a-fixed-fee or cost reimbursable contract”.
 

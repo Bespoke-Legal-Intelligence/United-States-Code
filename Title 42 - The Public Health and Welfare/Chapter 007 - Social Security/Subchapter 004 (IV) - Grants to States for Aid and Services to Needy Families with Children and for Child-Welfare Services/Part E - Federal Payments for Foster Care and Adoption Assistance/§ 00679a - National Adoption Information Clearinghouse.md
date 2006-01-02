@@ -20,7 +20,7 @@ The Secretary of Health and Human Services shall establish, either directly or b
 
 &emsp;&emsp;(G) intercountry adoption, and
 
-&emsp;&emsp;(H) any other information relating to adoption for pregnant women, infertile couples, adoptive parents, unmarried individuals who want to adopt children, individuals who have been adopted, birth parents whohave placed a child for adoption, adoption agencies, social workers, counselors, or other individuals who work in the adoption field;
+&emsp;&emsp;(H) any other information relating to adoption for pregnant women, infertile couples, adoptive parents, unmarried individuals who want to adopt children, individuals who have been adopted, birth parents who have placed a child for adoption, adoption agencies, social workers, counselors, or other individuals who work in the adoption field;
 
 &emsp;(3) disseminate the information compiled and maintained pursuant to paragraph (1) and the directories compiled and maintained pursuant to paragraph (2); and
 

@@ -52,5 +52,5 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 168 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 168 of House Document No. 103–7.
 

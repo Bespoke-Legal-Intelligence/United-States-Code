@@ -24,7 +24,7 @@ In this chapter, “telemarketing”—
 
 > &emsp;if the person making the solicitation does not solicit customers by telephone but only receives calls initiated by customers in response to the catalog and during those calls takes orders without further solicitation.
 
-(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 107–56, title X, §1011(d), Oct. 26, 2001, 115 Stat. 396.)
+(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L.107–56, title X, §1011(d), Oct. 26, 2001, 115 Stat. 396.)
 
 #### Amendments
 

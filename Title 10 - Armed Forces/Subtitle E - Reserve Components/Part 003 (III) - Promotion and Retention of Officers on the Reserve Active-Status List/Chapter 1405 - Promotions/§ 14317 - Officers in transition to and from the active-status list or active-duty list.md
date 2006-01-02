@@ -12,7 +12,7 @@ Effect of Transfer to Inactive Status or Retired Status.—If a reserve officer 
 
 (b)
 
-Effect of Placement on Active-Duty List.—A reserve officer who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title and who before being promoted is placed on the active-duty list of the same armed force and placed in the same competitive category shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list for officers on the active-duty list established under chapter 36 of this title.
+Effect of Placement on Active-Duty List.—A reserve officer who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title and whobefore being promoted is placed on the active-duty list of the same armed force and placed in the same competitive category shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list for officers on the active-duty list established under chapter 36 of this title.
 
 (c)
 
@@ -40,7 +40,7 @@ Officers Ordered to Active Duty in Time of War or National Emergency.—(1) A re
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 ofthis title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
+Provisions similar to those in subsec. (a) of this section were contained in sections 3378, 5906, and 8378 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
 
@@ -55,8 +55,4 @@ Subsec. (e). Pub. L. 108–136, §512(a)(2), amended heading and text of subsec.
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 741, 12009 of this title.
 

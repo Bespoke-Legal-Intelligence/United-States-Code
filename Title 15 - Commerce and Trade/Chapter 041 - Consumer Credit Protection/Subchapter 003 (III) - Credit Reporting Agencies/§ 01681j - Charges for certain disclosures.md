@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
 
-&emsp;&emsp;&emsp;&emsp;(II) appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggeringthe availability to consumers of such consumer reports; and
+&emsp;&emsp;&emsp;&emsp;(II) appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
 
@@ -68,7 +68,7 @@ Upon the request of the consumer, a consumer reporting agency shall make all dis
 
 #### (d) Free disclosures in connection with fraud alerts
 
-Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title, as applicable.
+Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to theconsumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title, as applicable.
 
 #### (e) Other charges prohibited
 
@@ -96,7 +96,7 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 &emsp;The Federal Trade Commission shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
 
-(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410,Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968.)
+(Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968.)
 
 #### References in Text
 

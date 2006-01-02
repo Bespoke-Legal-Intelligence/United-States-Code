@@ -136,7 +136,7 @@ Subsecs. (d) to (i). Pub. L. 105–85, §241(a)(2), (3), redesignated subsecs. (
 
 “(d)
 
-Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16),or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.”
+Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16), or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.”
 
 #### Effective Date of 2002 Amendment
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1997 Amendment
 
-Section 241(d) of Pub. L. 105–85 provided that: “The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201.”
+Section 241(d) of Pub. L. 105–85 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201.”
 
 #### Transfer of Functions
 

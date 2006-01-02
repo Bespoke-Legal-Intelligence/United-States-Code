@@ -12,7 +12,7 @@ Except as provided in regulations, for purposes of this subpart, the term “app
 
 &emsp;(2) in the case of an actual or deemed sale or exchange of stock in a foreign corporation treated as a dividend under section 1248, the spot rate on the date the deemed dividend is included in income,
 
-&emsp;(3) in the case of any amounts included in income under section 951(a)(1)(A), 551(a), or 1293(a), the average exchange rate for the taxable year of the foreign corporation, or
+&emsp;(3) in the case of any amounts included in income under section 951(a)(1)(A) or 1293(a), the average exchange rate for the taxable year of the foreign corporation, or
 
 &emsp;(4) in the case of any other qualified business unit of a taxpayer, the average exchange rate for the taxable year of such qualified business unit.
 
@@ -34,13 +34,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(6) setting forth procedures for determining the average exchange rate for any period.
 
-(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L. 103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 105–34, title XI, §1102(b)(2), (3), Aug. 5, 1997, 111 Stat. 966.)
+(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L. 103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 105–34, title XI, §1102(b)(2), (3), Aug. 5, 1997, 111 Stat. 966; Pub. L. 108–357, title IV, §413(c)(17), Oct. 22, 2004, 118 Stat. 1508.)
 
 #### References in Text
 
 The enactment of this subpart, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+2004—Subsec. (b)(3). Pub. L. 108–357 struck out “, 551(a),” after “section 951(a)(1)(A)”.
 
 1997—Subsec. (b)(3), (4). Pub. L. 105–34, §1102(b)(3), struck out “weighted” before “average exchange rate”.
 
@@ -51,6 +53,10 @@ Subsec. (c)(6). Pub. L. 105–34, §1102(b)(2), added par. (6).
 1993—Subsec. (b). Pub. L. 103–66 substituted “subparagraph (B) or (C) of section 951(a)(1)” for “section 951(a)(1)(B)” in last sentence.
 
 1988—Subsec. (b). Pub. L. 100–647 substituted in par. (3) “section 951(a)(1)(A)” for “section 951(a)” and inserted at end “For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included.”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -71,8 +77,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as a note under section 985 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 953, 954 of this title.
 

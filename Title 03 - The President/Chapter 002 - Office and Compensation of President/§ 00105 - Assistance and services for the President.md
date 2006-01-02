@@ -4,7 +4,7 @@
 
 (2) The President may, under paragraph (1) of this subsection, appoint and fix the pay of not more than—
 
-&emsp;(A) 25 employees at rates not to exceed the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5; and in addition
+&emsp;(A) 25 employees at rates not to exceed the rate of basic pay then currently paid for levelII of the Executive Schedule of section 5313 of title 5; and in addition
 
 &emsp;(B) 25 employees at rates not to exceed the rate of basic pay then currently paid for level III of the Executive Schedule of section 5314 of title 5; and in addition
 
@@ -18,7 +18,7 @@
 
 &emsp;(A) 3 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of section 5332 of title 5; and in addition
 
-&emsp;(B) such number of other employees as he may determine to be appropriate at rates notto exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5.
+&emsp;(B) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5.
 
 (c) The President is authorized to procure for the White House Office and the Executive Residence at the White House, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of section 3109(b) of title 5—
 

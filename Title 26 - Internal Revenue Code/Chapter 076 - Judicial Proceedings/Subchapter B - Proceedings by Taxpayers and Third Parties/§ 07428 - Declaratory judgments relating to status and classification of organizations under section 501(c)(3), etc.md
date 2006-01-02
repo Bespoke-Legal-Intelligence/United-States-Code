@@ -8,9 +8,11 @@ In a case of actual controversy involving—
 
 &emsp;&emsp;(A) with respect to the initial qualification or continuing qualification of an organization as an organization described in section 501(c)(3) which is exempt from tax under section 501(a) or as an organization described in section 170(c)(2),
 
-&emsp;&emsp;(B) with respect to the initial classification or continuing classification of an organization as a private foundation (as defined in section 509(a)), or
+&emsp;&emsp;(B) with respect to the initial classification or continuing classification of an organization as a private foundation (as defined in section 509(a)),
 
 &emsp;&emsp;(C) with respect to the initial classification or continuing classification of an organization as a private operating foundation (as defined in section 4942(j)(3)), or
+
+&emsp;&emsp;(D) with respect to the initial classification or continuing classification of a cooperative as an organization described in section 521(b) which is exempt from tax under section 521(a), or
 
 &emsp;(2) a failure by the Secretary to make a determination with respect to an issue referred to in paragraph (1),
 
@@ -68,13 +70,15 @@ In a case of actual controversy involving—
 
 In any action brought under this section in the district court of the United States for the District of Columbia, a subpoena requiring the attendance of a witness at a trial or hearing may be served at any place in the United States.
 
-(Added Pub. L. 94–455, title XIII, §1306(a), Oct. 4, 1976, 90 Stat. 1717; amended Pub. L. 95–600, title VII, §701(dd)(2), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–164, title I, §152, Apr. 2, 1982, 96 Stat. 46; Pub. L. 98–369, div. A, title X, §1033(b), July 18, 1984, 98 Stat. 1039; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 94–455, title XIII, §1306(a), Oct. 4, 1976, 90 Stat. 1717; amended Pub. L. 95–600, title VII, §701(dd)(2), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–164, title I, §152, Apr. 2, 1982, 96 Stat. 46; Pub. L. 98–369, div. A, title X, §1033(b), July 18, 1984, 98 Stat. 1039; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–357, title III, §317(a), Oct. 22, 2004, 118 Stat. 1470.)
 
 #### Prior Provisions
 
 A prior section 7428 was renumbered 7437 of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(1)(D). Pub. L. 108–357 added subpar. (D).
 
 1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in concluding provisions.
 
@@ -85,6 +89,10 @@ Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 102–572, §902(b)(2), substituted “
 1982—Subsecs. (a), (b)(2), (c)(1)(C)(iii). Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
 
 1978—Subsec. (a). Pub. L. 95–600 inserted provision relating to change in qualification or classification.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title III, §317(b), Oct. 22, 2004, 118 Stat. 1470, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to pleadings filed after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1992 Amendment
 
@@ -105,8 +113,4 @@ Amendment by Pub. L. 95–600 effective as if included in this section at the ti
 #### Effective Date
 
 Section 1306(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting section 1507 of Title 28, Judiciary and Judicial Procedure, and amending sections 1346 and 2201 of Title 28\] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to determinations (or requests for determinations) made after January 1, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 7451, 7459, 7482, 7611 of this title; title 28 sections 1346, 1507, 2201.
 

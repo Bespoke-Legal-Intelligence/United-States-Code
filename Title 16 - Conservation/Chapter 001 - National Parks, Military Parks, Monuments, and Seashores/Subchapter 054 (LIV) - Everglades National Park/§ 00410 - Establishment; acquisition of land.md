@@ -236,7 +236,7 @@ Height Restrictions.—
 
 &emsp;“(1)
 
-Restrictions.—Except as provided in paragraphs (2) through (4), no structure constructed within the MRA shall exceed the height of 45 feet or exceed 2 stories, except that a structure within theMiccosukee Government Center, as shown on the map referred to in section 4(4), shall not exceed the height of 70 feet.
+Restrictions.—Except as provided in paragraphs (2) through (4), no structure constructed within the MRA shall exceed the height of 45 feet or exceed 2 stories, except that a structure within the Miccosukee Government Center, as shown on the map referred to in section 4(4), shall not exceed the height of 70 feet.
 
 &emsp;“(2)
 

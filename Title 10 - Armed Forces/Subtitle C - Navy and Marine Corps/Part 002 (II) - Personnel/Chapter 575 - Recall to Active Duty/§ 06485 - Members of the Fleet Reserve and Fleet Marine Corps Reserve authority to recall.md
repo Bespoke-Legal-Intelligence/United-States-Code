@@ -46,7 +46,3 @@ In subsection (b) the word “enlisted” is omitted as surplusage since only en
 
 1977—Subsec. (b). Pub. L. 95–79 struck out requirements relating to physical examinations for members of the Fleet Reserve and Fleet Marine Corps Reserve.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6331 of this title.
-

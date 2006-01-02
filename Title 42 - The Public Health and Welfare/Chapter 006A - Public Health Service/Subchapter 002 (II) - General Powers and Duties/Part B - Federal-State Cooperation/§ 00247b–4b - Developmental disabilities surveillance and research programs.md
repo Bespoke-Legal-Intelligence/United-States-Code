@@ -72,7 +72,7 @@ Pub. L. 108–154, §4, Dec. 3, 2003, 117 Stat. 1934, provided that: “Not late
 
 &emsp;“(3) an analysis of research on autism and developmental disabilities with respect to the methods of collection and reporting, including whether such research was obtained with parental or patient consent for disclosure;
 
-&emsp;“(4) an analysis of the need to add education records in the surveillance of autism and other developmental disabilities, including the methodologicaland medical necessity for such records and the rights of parents and patients in the use of education records (in accordance with the Family Educational Rights and Privacy Act of 1974);
+&emsp;“(4) an analysis of the need to add education records in the surveillance of autism and other developmental disabilities, including the methodological and medical necessity for such records and the rights of parents and patients in the use of education records (in accordance with the Family Educational Rights and Privacy Act of 1974);
 
 &emsp;“(5) a description of the efforts taken by the Centers for Disease Control and Prevention to utilize education records in conducting the surveillance program while obtaining parental or patient consent for such education records, including the outcomes of such efforts;
 

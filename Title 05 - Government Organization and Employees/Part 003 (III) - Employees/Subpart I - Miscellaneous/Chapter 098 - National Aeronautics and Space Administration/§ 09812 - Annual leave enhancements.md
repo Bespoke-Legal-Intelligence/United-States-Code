@@ -28,7 +28,7 @@
 
 (b)(1) For purposes of section 6303, the Administrator may deem a period of qualified non-Federal service performed by a newly appointed employee to be a period of service of equal length performed as an employee.
 
-(2) A decision under paragraph (1) to treat a period of qualified non-Federal service as if itwere service performed as an employee shall continue to apply so long as that individual serves in or under the Administration.
+(2) A decision under paragraph (1) to treat a period of qualified non-Federal service as if it were service performed as an employee shall continue to apply so long as that individual serves in or under the Administration.
 
 (c)(1) Notwithstanding section 6303(a), the annual leave accrual rate for an employee of the Administration in a position paid under section 5376 or 5383, or for an employee in an equivalent category whose rate of basic pay is greater than the rate payable at GS–15, step 10, shall be 1 day for each full biweekly pay period.
 

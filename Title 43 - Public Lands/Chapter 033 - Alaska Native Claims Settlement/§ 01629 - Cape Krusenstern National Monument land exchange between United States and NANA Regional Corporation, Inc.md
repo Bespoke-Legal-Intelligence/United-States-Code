@@ -42,7 +42,7 @@ The easement granted by this section makes available land for the transportation
 
 #### (f) Reconveyance of easement by NANA
 
-The easement granted to NANA by this section may be reconveyed by NANA, but after anysuch reconveyance the terms and conditions specified in Exhibit B of the Agreement shall continue to apply in full to the easement.
+The easement granted to NANA by this section may be reconveyed by NANA, but after any such reconveyance the terms and conditions specified in Exhibit B of the Agreement shall continue to apply in full to the easement.
 
 #### (g) Construction materials taken from borrow sites within easement
 
@@ -50,7 +50,7 @@ NANA is hereby granted the right to use, develop and sell sand, gravel and relat
 
 #### (h) Agreement as governing use of lands
 
-(1) The construction, operation, maintenance, expansion and reclamation of any portion of the transportation system on any of the lands subject to the easement granted to NANA by this section shall be governed solely by the terms and conditions of the Agreement, including the procedural and substantive provisions of Exhibit B to the Agreement, as if the lands covered by the easement granted to NANA by this section had been conveyed to NANA pursuant to paragraph A(1) of the Agreement.
+(1) The construction, operation, maintenance, expansion and reclamation of any portion of the transportation system on any of the lands subject to the easement granted to NANA by this section shall be governed solely by the terms and conditions of the Agreement, including the procedural and substantive provisions of Exhibit B to the Agreement, as if the lands covered bythe easement granted to NANA by this section had been conveyed to NANA pursuant to paragraph A(1) of the Agreement.
 
 (2) The Secretary of the Interior, acting through the National Park Service, shall monitor the construction, operation, maintenance, expansion and reclamation of the transportation system, as provided in the Agreement. Any complaint by any person or entity that any aspect of the construction, operation, maintenance, expansion or reclamation of the portion of the transportation system on the lands subject to the easement granted to NANA by this section is not in accordance with the terms and conditions specified in the Agreement shall be made to the Secretary in writing. The Secretary shall review any such complaint and shall provide to NANA or its successors or assigns and to the complainant a decision in writing on the complaint within 90 days of receipt thereof. If the Secretary determines that the activity made the subject of a complaint is not in accordance with the terms specified in the Agreement, and NANA or its successors or assigns disagrees with that determination, the dispute shall be resolved according to the procedures established in Exhibit B to the Agreement.
 

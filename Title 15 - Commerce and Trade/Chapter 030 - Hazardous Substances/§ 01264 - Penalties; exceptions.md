@@ -20,7 +20,7 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 (3) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of section 1263 of this title, the Commission shall consider the nature of the substance, the severity of the risk of injury, the occurrence or absence of injury, the amount of the substance distributed, and the appropriateness of such penalty in relation to the size of the business of the person charged.
 
-(4) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the appropriateness of such penalty to the size of the business of the persons charged, the nature of the substance involved, the severity of the risk of injury, the occurrence or absence of injury, and the amount of the substance distributed. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
+(4) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and inwhat amount, the Commission shall consider the appropriateness of such penalty to the size of the business of the persons charged, the nature of the substance involved, the severity of the risk of injury, the occurrence or absence of injury, and the amount of the substance distributed. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 
 (5) As used in the first sentence of paragraph (1), the term “knowingly” means (A) having actual knowledge, or (B) the presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
 
@@ -52,7 +52,7 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 In the case of an attorney general of a State alleging a violation that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce any requirement of this chapter relating to misbranded or banned hazardous substances. The procedural requirements of section 2073 of this title shall apply to any such action.
 
-(Pub. L. 86–613, §5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(g), 3(c), Nov. 3, 1966, 80 Stat.1304, 1305; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 95–631, §7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121.)
+(Pub. L. 86–613, §5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(g), 3(c), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 95–631, §7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121.)
 
 #### Amendments
 

@@ -12,9 +12,9 @@
 
 > &emsp;For purposes of subparagraph (B), the taxpayer's tentative minimum tax for any taxable year beginning during 1999 shall be treated as being zero.
 
-#### (2) Special rule for 2000, 2001, 2002, and 2003
+#### (2) Special rule for taxable years 2000 through 2005
 
-&emsp;For purposes of any taxable year beginning during 2000, 2001, 2002, or 2003, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
+&emsp;For purposes of any taxable year beginning during 2000, 2001, 2002, 2003, 2004, or 2005, the aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
 
 &emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
 
@@ -40,7 +40,7 @@ For purposes of this part—
 
 &emsp;&emsp;(D) section 143(m) (relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),
 
-&emsp;&emsp;(E) section 530(d)(3) (relating to additional tax on certain distributions from Coverdell education savings accounts),
+&emsp;&emsp;(E) section 530(d)(4) (relating to additional tax on certain distributions from Coverdell education savings accounts),
 
 &emsp;&emsp;(F) section 531 (relating to accumulated earnings tax),
 
@@ -62,23 +62,41 @@ For purposes of this part—
 
 &emsp;&emsp;(O) sections 453(<i>l</i>)(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
 
-&emsp;&emsp;(P) section 860K (relating to treatment of transfers of high-yield interests to disqualified holders),
+&emsp;&emsp;(P) section 860K <sup>1</sup> (relating to treatment of transfers of high-yield interests to disqualified holders),
 
-&emsp;&emsp;(Q) section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses), and
+&emsp;&emsp;(Q) section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses),
 
-&emsp;&emsp;(R) section 138(c)(2) (relating to penalty for distributions from Medicare+Choice <sup>1</sup> MSAnot used for qualified medical expenses if minimum balance not maintained).
+&emsp;&emsp;(R) section 138(c)(2) (relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),
+
+&emsp;&emsp;(S) section 223(f)(4) (relating to additional tax on health savings account distributions not used for qualified medical expenses), and
+
+&emsp;&emsp;(T) subsections (a)(1)(B)(i) and (b)(4)(A) of section 409A (relating to interest and additional tax with respect to certain deferred compensation).
 
 #### (c) Tentative minimum tax
 
 For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59.)
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §§415(a), 417(23)(B), title VI, §601(a), Mar. 9, 2002, 116 Stat. 54, 57, 59; Pub. L. 108–311, title III, §312(a), title IV, §§401(a)(1), 408(a)(5)(A), Oct. 4, 2004, 118 Stat. 1181, 1183, 1191; Pub. L. 109–135, title IV, §§403(hh)(1), 412(c), Dec. 21, 2005, 119 Stat. 2631, 2636.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendments note below.</i>
+
+#### References in Text
+
+Section 860K, referred to in subsec. (b)(2)(P), was repealed by Pub. L. 108–357, title VIII, §835(a), Oct. 22, 2004, 118 Stat. 1593.
 
 #### Amendments
+
+2005—Subsec. (b)(2)(E). Pub. L. 109–135, §412(c), substituted “section 530(d)(4)” for “section 530(d)(3)”.
+
+Subsec. (b)(2)(T). Pub. L. 109–135, §403(hh)(1), added subpar. (T).
+
+2004—Subsec. (a)(2). Pub. L. 108–311, §312(a), substituted “rule for taxable years 2000 through 2005” for “rule for 2000, 2001, 2002, and 2003” in heading and “2003, 2004, or 2005” for “or 2003” in text.
+
+Subsec. (b)(2)(R). Pub. L. 108–311, §408(a)(5)(A), substituted “Medicare Advantage MSA” for “Medicare+Choice MSA”.
+
+Subsec. (b)(2)(S). Pub. L. 108–311, §401(a)(1), added subpar. (S).
 
 2002—Subsec. (a)(1). Pub. L. 107–147, §417(23)(B), amended directory language of Pub. L. 107–16, §618(b)(2)(C). See 2001 Amendment note below.
 
@@ -88,11 +106,11 @@ Subsec. (b)(2)(P), (Q). Pub. L. 107–147, §415(a), which directed striking “
 
 Subsec. (b)(2)(R). Pub. L. 107–147, §415(a), added subpar. (R).
 
-2001—Subsec. (a)(1). Pub. L. 107–16, §§618(b)(2)(C), 901, as amended by Pub. L. 107–147, §417(23)(B), temporarily substituted “, 24, and 25B” for “and 24” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a)(1). Pub. L. 107–16, §§618(b)(2)(C), 901, as amended by Pub. L. 107–147, §417(23)(B), temporarily substituted “, 24, and 25B” for “and 24” in introductory provisions. See Effective and Termination Dates of 2001 Amendments note below.
 
-Pub. L. 107–16, §§202(f)(2)(C), 901, temporarily substituted “sections 23 and 24” for “section 24” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §§202(f)(2)(C), 901, temporarily substituted “sections 23 and 24” for “section 24” in introductory provisions. See Effective and Termination Dates of 2001 Amendments note below.
 
-Pub. L. 107–16, §§201(b)(2)(D), 901, temporarily inserted “(other than section 24)” after “this subpart” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+Pub. L. 107–16, §§201(b)(2)(D), 901, temporarily inserted “(other than section 24)” after “this subpart” in introductory provisions. See Effective and Termination Dates of 2001 Amendments note below.
 
 Subsec. (b)(2)(E). Pub. L. 107–22 substituted “Coverdell education savings” for “education individual retirement”.
 
@@ -140,7 +158,7 @@ Subsec. (b)(2)(N). Pub. L. 101–239, §7821(a)(4)(A), which directed amendment 
 
 Pub. L. 100–647, §5012(b)(2), substituted “(q), or (v)” for “or (q)”.
 
-Subsec. (b)(2)(D). Pub. L. 100–647, §1011A(c)(10)(B), substituted “72(t) (relating to 10-percent additional tax on early distributions from qualified retirement plans)” for “408(f) (relating to additional tax on income from certain retirement accounts)”.
+Subsec. (b)(2)(D). Pub. L. 100–647, §1011A(c)(10)(B), substituted “72(t) (relating to 10-percent additional tax on early distributions from qualified retirementplans)” for “408(f) (relating to additional tax on income from certain retirement accounts)”.
 
 Subsec. (b)(2)(K). Pub. L. 100–647, §1007(g)(1), substituted “corporations).” for “corporations,”.
 
@@ -168,9 +186,15 @@ Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
 
-#### Change of Name
+#### Effective Date of 2005 Amendment
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of Title 42, The Public Health and Welfare.
+Pub. L. 109–135, title IV, §403(nn), Dec. 21, 2005, 119 Stat. 2632, provided that: “The amendments made by this section \[see Tables for classification\] shall take effect as if included in the provisions of the American Jobs Creation Act of 2004 \[Pub. L. 108–357\] to which they relate.”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §312(c), Oct. 4, 2004, 118 Stat. 1181, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 2003.”
+
+Pub. L. 108–311, title IV, §401(b), Oct. 4, 2004, 118 Stat. 1183, provided that: “The amendments made by subsection (a) \[amending this section and section 35 of this title\] shall take effect as if included in section 1201 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[Pub. L. 108–173\].”
 
 #### Effective Date of 2002 Amendment
 
@@ -179,6 +203,8 @@ Pub. L. 107–147, title IV, §415(b), Mar. 9, 2002, 116 Stat. 54, provided that
 Pub. L. 107–147, title VI, §601(c), Mar. 9, 2002, 116 Stat. 59, provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
 #### Effective and Termination Dates of 2001 Amendments
+
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
@@ -230,7 +256,7 @@ Amendment by section 5012(b)(2) of Pub. L. 100–647 applicable to contracts ent
 
 Amendment by section 261(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 261(g) of Pub. L. 99–514, set out as an Effective Date note under section 7518 of this title.
 
-Amendment by section 632(c)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, see section 633(b) of Pub. L. 99–514, as amended, setout as an Effective Date note under section 336 of this title.
+Amendment by section 632(c)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, see section 633(b) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 632(c)(1) of Pub. L. 99–514 not applicable in the case of certain transactions, see section 54(d)(3)(D) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 311 of this title.
 
@@ -249,8 +275,4 @@ For applicability of amendment by section 701(c)(1) of Pub. L. 99–514 notwiths
 #### Treatment of Tax Imposed Under Former Section 409(c)
 
 Section 491(f)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 26(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act), any tax imposed by section 409(c) of such Code (as in effect before its repeal by this section) shall be treated as a tax imposed by section 408(f) of such Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 25, 25B, 39, 55, 163, 469, 901, 1397E, 1400C, 6428, 6429 of this title.
 

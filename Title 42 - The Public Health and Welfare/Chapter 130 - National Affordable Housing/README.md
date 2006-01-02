@@ -45,7 +45,7 @@
 | [12709\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012709%20-%20Energy%20efficiency%20standards.md) | Energy efficiency standards. |
 | (a) | Establishment. |
 | (b) | Model Energy Code. |
-| (c) | Revisions of Model Energy Code. |
+| (c) | Revisions of Model Energy Code and the International Energy Conservation Code. |
 | [12710\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions%20and%20Policies/%C2%A7%2012710%20-%20Capacity%20study.md) | Capacity study. |
 | (a) | In general. |
 | (b) | Report. |

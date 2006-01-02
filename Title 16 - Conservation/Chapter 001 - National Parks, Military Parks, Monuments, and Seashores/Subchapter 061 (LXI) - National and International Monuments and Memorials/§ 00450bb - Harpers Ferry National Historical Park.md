@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To carry out the purposes of sections 450bb to 450bb–2 of this title, the Secretary of the Interior (referred to in sections 450bb to 450bb–2 of this title as the “Secretary”) is authorized to acquire, by purchase from a willing seller with donated or appropriated funds, by donation, or by exchange, land or an interest in land within the boundaries as generally depicted on the mapentitled “Boundary Map, Harpers Ferry National Historical Park”, numbered 385–80,021A, and dated April 1979.
+To carry out the purposes of sections 450bb to 450bb–2 of this title, the Secretary of the Interior (referred to in sections 450bb to 450bb–2 of this title as the “Secretary”) is authorized to acquire, by purchase from a willing seller with donated or appropriated funds, by donation, or by exchange, land or an interest in land within the boundaries as generally depicted on the map entitled “Boundary Map, Harpers Ferry National Historical Park”, numbered 385–80,021A, and dated April 1979.
 
 #### (b) Bradley and Ruth Nash Addition
 
@@ -42,7 +42,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### Amendments
 
-2004—Pub. L. 108–307 inserted section catchline and amended text generally. Prior to amendment, section authorized the Secretary of the Interior to acquire certain lands for the Harpers Ferry National Historical Park.
+2004—Pub. L. 108–307 inserted section catchline and amended text generally. Prior to amendment, sectionauthorized the Secretary of the Interior to acquire certain lands for the Harpers Ferry National Historical Park.
 
 1994—Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Congress of the United States”.
 

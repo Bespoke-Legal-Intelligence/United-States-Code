@@ -6,7 +6,7 @@ The President is authorized to designate the head of any department or agency of
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Ex. Ord. No. 11077. Administration of Chapter
 
@@ -18,7 +18,7 @@ Section 1. <i>Department of State</i>. (a) The Secretary of State is hereby desi
 
 (1) The functions provided for in Sections 2(a) and 2(b)(1) of the Act \[section 2601(a), (b)(1) of this title\].
 
-(2) The functions provided for in Section 2(b)(2) of the Act \[section 2601(b)(2) of this title\], exclusive of somuch thereof as is assigned or reserved by the provisions of Section 2(1) of this order.
+(2) The functions provided for in Section 2(b)(2) of the Act \[section 2601(b)(2) of this title\], exclusive of so much thereof as is assigned or reserved by the provisions of Section 2(1) of this order.
 
 (3) In connection with functions under the Act assigned to the Secretary of State, the functions provided for in Sections 3(a), 4(b), and 5(a) of the Act \[sections 2602(a), 2604, and 2605(a) of this title\].
 

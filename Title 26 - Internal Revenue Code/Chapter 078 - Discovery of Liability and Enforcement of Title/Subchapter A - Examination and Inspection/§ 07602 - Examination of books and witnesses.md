@@ -18,7 +18,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### (1) General notice
 
-&emsp;An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
+&emsp;An officer or employee of the Internal Revenue Service may not contact any person otherthan the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made.
 
 #### (2) Notice of specific contacts
 
@@ -70,7 +70,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 #### (3) Taxable years, etc., treated separately
 
-&emsp;For purposes of this subsection, each taxable period (or, if there is no taxable period, eachtaxable event) and each tax imposed by a separate chapter of this title shall be treated separately.
+&emsp;For purposes of this subsection, each taxable period (or, if there is no taxable period, each taxable event) and each tax imposed by a separate chapter of this title shall be treated separately.
 
 #### (e) Limitation on examination on unreported income
 
@@ -99,8 +99,4 @@ Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided 
 #### Effective Date of 1982 Amendment
 
 Section 333(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4424, 6038A, 6038C, 6048, 6230, 6420, 6421, 6427, 7210, 7603, 7604, 7605, 7609, 7610 of this title.
 

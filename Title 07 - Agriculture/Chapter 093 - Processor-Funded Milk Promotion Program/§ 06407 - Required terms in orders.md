@@ -160,7 +160,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (4) Penalty
 
-&emsp;Any person violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if such personis an agent of the Board or an officer or employee of the Department, shall be removed from office.
+&emsp;Any person violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if such person is an agent of the Board or an officer or employee of the Department, shall be removed from office.
 
 #### (5) Withholding information
 

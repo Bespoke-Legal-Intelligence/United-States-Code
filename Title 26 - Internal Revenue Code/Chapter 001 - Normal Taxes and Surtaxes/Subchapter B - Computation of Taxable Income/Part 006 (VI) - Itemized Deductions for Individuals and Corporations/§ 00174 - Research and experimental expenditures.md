@@ -60,7 +60,7 @@ This section shall apply to a research or experimental expenditure only to the e
 
 &emsp;&emsp;<b>(2) For election of 10-year amortization of expenditures allowable as a deduction under subsection (a), see section 59(e).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 66; Pub. L. 94–455, title XIX, §§1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1769, 1834; Pub. L. 97–248, title II, §201(d)(9)(B) formerly §201(c)(9)(B), Sept. 3, 1982, 96 Stat. 420, renumbered §201(d)(9)(B), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; amended Pub. L. 99–514, title VII, §701(e)(4)(D), Oct. 22, 1986, 100 Stat. 2343; Pub. L.100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–239, title VII, §7110(d), Dec. 19, 1989, 103 Stat. 2325.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 66; Pub. L. 94–455, title XIX, §§1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1769, 1834; Pub. L. 97–248, title II, §201(d)(9)(B) formerly §201(c)(9)(B), Sept. 3, 1982, 96 Stat. 420, renumbered §201(d)(9)(B), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; amended Pub. L. 99–514, title VII, §701(e)(4)(D), Oct. 22, 1986, 100 Stat. 2343; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–239, title VII, §7110(d), Dec. 19, 1989, 103 Stat. 2325.)
 
 #### Amendments
 
@@ -101,8 +101,4 @@ For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty ob
 #### Allocation or Apportionment to Sources Within United States of Research and Experimental Expenditures Paid or Incurred for Research Activities Conducted in United States; 2-Year Program
 
 Pub. L. 97–34, title II, §223(a), Aug. 13, 1981, 95 Stat. 249, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of the taxpayer's first 2 taxable years beginning within 2 years after the date of the enactment of this Act \[Aug. 13, 1981\], all research and experimental expenditures (within the meaning of section 174 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) which are paid or incurred in such year for research activities conducted in the United States shall be allocated or apportioned to sources within the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41, 56, 59, 144, 168, 170, 195, 263, 263A, 469, 543, 864, 993, 1016, 1202, 1298 of this title.
 

@@ -8,7 +8,7 @@ General.—The board of directors is the governing body of the corporation.
 
 Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvoting member of the board. The Librarian appoints the directors to the board.
 
-(2)(A) The board consists of nine directors.
+(2)(A) The board consists of 12 directors.
 
 (B) Each director must be a United States citizen.
 
@@ -16,13 +16,13 @@ Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvot
 
 (3) A director is not an employee of the Library of Congress and appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 
-(4) The terms of office of the directors are 4 years. An individual may not serve more than two consecutive terms.
+(4) The terms of office of the directors are 4 years. There shall be no limit to the number of terms to which any individual may be appointed.
 
 (5) A vacancy on the board shall be filled within 60 days in the manner in which the original appointment was made.
 
 (c)
 
-Chair.—The Librarian shall appoint one of the directors as the initial chair of the board for a 2-year term. Thereafter, the chair shall be appointed and removed in accordance with the bylaws of the corporation.
+Chair.—The Librarian shall appoint one of the directors as the initial chair of the board fora 2-year term. Thereafter, the chair shall be appointed and removed in accordance with the bylaws of the corporation.
 
 (d)
 
@@ -40,7 +40,7 @@ Compensation and Reimbursement.—Directors serve without compensation but may b
 
 Liability of Directors.—Directors are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1404; Pub. L. 109–9, title III, §312(a), Apr. 27, 2005, 119 Stat. 226.)
 
 Historical and Revision Notes
 
@@ -107,4 +107,10 @@ In subsection (b)(1), the words “(hereafter in this chapter referred to as the
 In subsection (b)(3), the words “is not an employee” are substituted for “nor . . . shall be construed to be employees” in 36:5702(g)(2)(A) (last sentence related to the board of directors), and the words “appointment to the board does not constitute appointment as an officer or employee” are substituted for “Appointment to the Board shall not constitute employment by, or the holding of an office of” in 36:5702(a), for clarity.
 
 In subsection (d), the words “for the transaction of business” are omitted as unnecessary.
+
+#### Amendments
+
+2005—Subsec. (b)(2)(A). Pub. L. 109–9, §312(a)(1), substituted “12” for “nine”.
+
+Subsec. (b)(4). Pub. L. 109–9, §312(a)(2), substituted “There shall be no limit to the number of terms to which any individual may be appointed.” for “An individual may not serve more than two consecutive terms.”
 

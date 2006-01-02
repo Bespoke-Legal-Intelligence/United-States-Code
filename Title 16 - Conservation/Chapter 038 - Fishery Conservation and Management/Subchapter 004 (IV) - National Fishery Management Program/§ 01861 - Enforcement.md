@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### Amendment of Subsection (b)(2)
 
-<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.</i>
+<i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist</i><i>Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.</i>
 
 #### References in Text
 
@@ -154,7 +154,7 @@ Subsec. (h)(1). Pub. L. 104–297, §115(e), which directed amendment of subsec.
 
 Subsecs. (e), (f). Pub. L. 99–659, §109(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1983—Subsec. (a). Pub. L. 97–453, §15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliancewith the provisions of this chapter during the preceding calendar year.
+1983—Subsec. (a). Pub. L. 97–453, §15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliance with the provisions of this chapter during the preceding calendar year.
 
 Subsec. (b)(1). Pub. L. 97–453, §13(1), designated existing provisions as par. (1).
 

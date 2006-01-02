@@ -106,7 +106,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (1) In general
 
-&emsp;If the amount of the oil and gas extraction taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the “unused credit year”), such excess shall be deemed to be oil and gas extraction taxes paid or accrued in the second preceding taxable year, in the first preceding taxable year, and in the first, second, third, fourth, or fifth succeeding taxable year, in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have thebenefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions. For purposes of this subsection, the terms “second preceding taxable year”, and “first preceding taxable year” do not include any taxable year ending before January 1, 1975.
+&emsp;If the amount of the oil and gas extraction taxes paid or accrued during any taxable year exceeds the limitation provided by subsection\(a) for such taxable year (hereinafter in this subsection referred to as the “unused credit year”), such excess shall be deemed to be oil and gas extraction taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable year,<sup>2</sup> in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
 
 #### (2) Limitation
 
@@ -132,7 +132,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 &emsp;(B) For purposes of determining the amount of taxes paid or accrued in any taxable year which may be deemed paid or accrued in a preceding or succeeding taxable year under section 904(c), any tax deemed paid or accrued in such preceding or succeeding taxable year under this subsection shall be considered to be tax paid or accrued in such preceding or succeeding taxable year.
 
-(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889.)
+(Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title IV, §417(b), Oct. 22, 2004, 118 Stat. 1512.)
 
 #### References in Text
 
@@ -141,6 +141,12 @@ Section 172(h), referred to in subsec. (c)(4)(B)(iii)(I), was repealed by Pub. L
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (c)(4)(B)(iii)(I), is the date of enactment of Pub. L. 101–508, title XI, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+2004—Subsec. (f)(1). Pub. L. 108–357, §417(b)(3), struck out at end “For purposes of this subsection, the terms ‘second preceding taxable year’, and ‘first preceding taxable year’ do not include any taxable year ending before January 1, 1975.”
+
+Pub. L. 108–357, §417(b)(2), substituted “and in any of the first 10” for “, and in the first, second, third, fourth, or fifth”.
+
+Pub. L. 108–357, §417(b)(1), struck out “in the second preceding taxable year,” before “in the first preceding taxable year”.
 
 1996—Subsec. (c)(4)(B)(iii)(I). Pub. L. 104–188 inserted “(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” after “section 172(h)”.
 
@@ -158,7 +164,7 @@ Carryback of credits arising in taxable years beginning after december 31, 1982.
 
 Subsec. (f)(3)(C). Pub. L. 101–508, §11801(a)(32), struck out subpar. (C) which read as follows: “For purposes of determining the amount of the unused oil and gas extraction taxes which under paragraph (1) may be deemed paid or accrued in any taxable year ending before January 1, 1977, subparagraph (A) of paragraph (2) shall be applied as if the amendment made by section 1035(a) of the Tax Reform Act of 1976 applied to such taxable year.”
 
-1988—Subsec. (c)(3). Pub. L. 100–647, §1012(g)(6)(B), struck out “and dividends described in subparagraph (B)” after “described in subparagraph (A)” in closing provisions.
+1988—Subsec. (c)(3). Pub. L. 100–647, §1012(g)(6)(B), struck out “and dividends described in subparagraph\(B)” after “described in subparagraph (A)” in closing provisions.
 
 Subsec. (c)(3)(B) to (D). Pub. L. 100–647, §1012(g)(6)(A), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “dividends from a domestic corporation which are treated under section 861(a)(2)(A) as income from sources without the United States,”.
 
@@ -196,6 +202,10 @@ Subsec. (f). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), added subsec. (f). Fo
 
 Subsec. (g). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), 1052(c)(4), struck out subsec. (g) relating to Western Hemisphere trade corporations which are members of an affiliated group.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 417(b)(1) of Pub. L. 108–357 applicable to excess foreign taxes arising in taxable years beginning after Oct. 22, 2004, and amendment by section 417(b)(2) of Pub. L. 108–357 applicable to excess foreign taxes which may be carried to any taxable year ending after Oct. 22, 2004, see section 417(c) of Pub. L. 108–357, set out as a note under section 904 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13235(c) of Pub. L. 103–66, set out as a note under section 904 of this title.
@@ -222,7 +232,7 @@ and 904(f)
 
 &emsp;“(A)
 
-In general.—If, after applying old sections 907(b) and 904(f)(4) to a taxable year beginning before January 1, 1983, the taxpayer had a separate basket foreign loss, such loss shall not be recaptured from income of a kind not taken into account in computing the amount of such separate basket foreign loss more rapidly than ratably over the 8-year period (or such shorter period as the taxpayer may select) beginning with the first taxable year beginning after December 31, 1982.
+In general.—If, after applying old sections 907(b) and 904(f)(4) to a taxable year beginning before January 1, 1983, the taxpayer had a separate basket foreign loss, such loss shall not be recaptured fromincome of a kind not taken into account in computing the amount of such separate basket foreign loss more rapidly than ratably over the 8-year period (or such shorter period as the taxpayer may select) beginning with the first taxable year beginning after December 31, 1982.
 
 &emsp;“(B)
 
@@ -270,7 +280,7 @@ Section 601(d) of Pub. L. 94–12 provided that: “The amendments made by this 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Tax Credit for Production-Sharing Contracts
 
@@ -286,9 +296,7 @@ Section 1035(c) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, 
 
 “(3) The production-sharing contracts taken into account for purposes of paragraph (1) shall be those contracts which were entered into before April 8, 1976, for the sharing of foreign oil and gas production with a foreign government (or an entity owned by such government) with respect to which amounts claimed as taxes paid or accrued to such foreign government for taxable years beginning before June 30, 1976, will not be disallowed as taxes. A contract described in the preceding sentence shall be taken into account under paragraph (1) only with respect to amounts (A) paid or accrued to the foreign government before January 1, 1978, and (B) attributable to income earned before such date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 245, 865, 904, 954, 6501 of this title.
-
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “years,”.</i>
 

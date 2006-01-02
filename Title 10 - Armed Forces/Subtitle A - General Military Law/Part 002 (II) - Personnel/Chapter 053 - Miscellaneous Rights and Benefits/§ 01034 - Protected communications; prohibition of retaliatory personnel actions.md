@@ -18,9 +18,11 @@ Prohibition of Retaliatory Personnel Actions.—(1) No person may take (or threa
 
 &emsp;&emsp;(ii) an Inspector General (as defined in subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978;
 
-&emsp;&emsp;(iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization; or
+&emsp;&emsp;(iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
 
-&emsp;&emsp;(iv) any other person or organization (including any person or organization in the chain of command) designated pursuant to regulations or other established administrative procedures for such communications.
+&emsp;&emsp;(iv) any person or organization in the chain of command; or
+
+&emsp;&emsp;(v) any other person or organization designated pursuant to regulations or other established administrative procedures for such communications.
 
 (2) Any action prohibited by paragraph (1) (including the threat to take any action and the withholding or threat to withhold any favorable action) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
 
@@ -88,7 +90,7 @@ Correction of Records When Prohibited Action Taken.—(1) A board for the correc
 
 &emsp;&emsp;(iii) the member is not represented by outside counsel chosen by the member; and
 
-&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request the production of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
+&emsp;(B) may examine witnesses through deposition, serve interrogatories, and request theproduction of evidence, including evidence contained in the investigatory record of the Inspector General but not included in the report submitted under subsection (e)(1).
 
 (4) The Secretary concerned shall issue a final decision with respect to an application described in paragraph (1) within 180 days after the application is filed. If the Secretary fails to issue such a final decision within that time, the member or former member shall be deemed to have exhausted the member's or former member's administrative remedies under section 1552 of this title.
 
@@ -120,7 +122,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 80; Pub. L. 98–525, title XIV, §1405(19)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title VIII, §846(a)(1), Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–225, title II, §202, Dec. 12, 1989, 103 Stat. 1910; Pub. L. 103–337, div. A, title V, §531(a)–(g)(1), Oct. 5, 1994, 108 Stat. 2756–2758; Pub. L. 105–261, div. A, title IX, §933, Oct. 17, 1998, 112 Stat. 2107; Pub. L. 106–398, §1 \[\[div. A\], title IX, §903\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §591(a), Oct. 28, 2004, 118 Stat. 1933.)
 
 Historical and Revision Notes
 
@@ -144,6 +146,8 @@ The Inspector General Act of 1978, referred to in subsec. (b)(1)(B)(ii), is Pub.
 
 #### Amendments
 
+2004—Subsec. (b)(1)(B)(iv), (v). Pub. L. 108–375 added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “any other person or organization (including any person or organization in the chain of command) designated pursuant to regulations or other established administrative procedures for such communications.”
+
 2002—Subsecs. (c)(5), (e)(1), (3), (h), (i)(2)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2000—Subsec. (c)(3)(A). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(a)\], inserted “, in accordance with regulations prescribed under subsection (h),” after “shall expeditiously determine”.
@@ -164,7 +168,7 @@ Subsec. (i)(2)(C) to (G). Pub. L. 106–398, §1 \[\[div. A\], title IX, §903(b
 
 1998—Subsec. (b)(1)(B)(ii). Pub. L. 105–261, §933(f)(2), substituted “subsection (i)) or any other Inspector General appointed under the Inspector General Act of 1978” for “subsection (j))”.
 
-Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General of the Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
+Subsec. (c)(1). Pub. L. 105–261, §933(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If a member of the armed forces submits to the Inspector General of the Department of Defense (or the Inspector General of the Department of Transportation, in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall expeditiously investigate the allegation. If, in the case of an allegation submitted to the Inspector General ofthe Department of Defense, the Inspector General delegates the conduct of the investigation of the allegation to the inspector general of one of the armed forces, the Inspector General of the Department of Defense shall ensure that the inspector general conducting the investigation is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.”
 
 Subsec. (c)(2)(B). Pub. L. 105–261, §933(b), substituted “Gross mismanagement” for “Mismanagement”.
 
@@ -240,6 +244,10 @@ Subsec. (e). Pub. L. 101–225, §202(4), inserted “(except for a member or fo
 
 1984—Pub. L. 98–525 substituted “Member” for “member” in section catchline and text.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title V, §591(b), Oct. 28, 2004, 118 Stat. 1933, provided that: “The amendments made by this section \[amending this section\] apply with respect to any unfavorable personnel action taken or threatened, and any withholding of or threat to withhold a favorable personnel action, on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
@@ -258,7 +266,7 @@ Deadline for Regulations.—The Secretary of Defense and the Secretary of Transp
 
 “(i)
 
-Content of Regulations.—In prescribing regulations under section 1034 of title 10, United States Code,as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
+Content of Regulations.—In prescribing regulations under section 1034 of title 10, United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
 
 Section 846(b) of Pub. L. 100–456 provided that: “The Secretary of Defense and the Secretary of Transportation shall prescribe the regulations required by subsection (g) \[now (h)\] of section 1034 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Sept. 29, 1988\].”
 

@@ -50,7 +50,7 @@ Nonphysician Health Care Providers.—The Secretary concerned may authorize the 
 
 #### Prior Provisions
 
-A prior section 302c, added Pub. L. 96–284, §3(a)(1), June 28, 1980, 94 Stat. 589, related to special pay formedical officers of the Public Health Service, prior to repeal by Pub. L. 96–513, title IV, §414(a), Dec. 12, 1980, 94 Stat. 2906, eff. Sept. 15, 1981.
+A prior section 302c, added Pub. L. 96–284, §3(a)(1), June 28, 1980, 94 Stat. 589, related to special pay for medical officers of the Public Health Service, prior to repeal by Pub. L. 96–513, title IV, §414(a), Dec. 12, 1980, 94 Stat. 2906, eff. Sept. 15, 1981.
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that sec
 
 #### Effective Date
 
-Section 2(c) of Pub. L. 100–140 provided that: “The amendments made by this section \[enacting this section and amending section 303a of this title\] shall take effect on October 1, 1987 or on the date of the enactment of this Act \[Oct. 26, 1987\], whichever is later, and shall apply with respect to pay periods beginning on or after that effective date.”
+Section 2(c) of Pub. L. 100–140 provided that: “The amendments made by this section \[enacting this section and amending section 303a of this title\] shall takeeffect on October 1, 1987 or on the date of the enactment of this Act \[Oct. 26, 1987\], whichever is later, and shall apply with respect to pay periods beginning on or after that effective date.”
 
 #### Transfer of Functions
 

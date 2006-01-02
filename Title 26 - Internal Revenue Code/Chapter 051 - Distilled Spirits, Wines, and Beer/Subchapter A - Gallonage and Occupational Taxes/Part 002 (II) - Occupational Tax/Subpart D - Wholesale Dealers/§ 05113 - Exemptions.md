@@ -2,11 +2,11 @@
 
 #### (a) Sales by proprietors of controlled premises
 
-No proprietor of a distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, shall be required to pay special tax under section 5111 or section 5121 on account of the sale at his principal business office as designated in writing to the Secretary, or at his distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, as the case may be, of distilled spirits, wines, or beer, which, at the time of sale, are stored at his distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, as the case may be, or had been removed from such premises to a taxpaid storeroom operated in connectiontherewith and are stored therein. However, on such proprietor shall have more than one place of sale, as to each distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, that shall be exempt from special taxes by reason of the sale of distilled spirits, wines, or beer stored at such premises (or removed therefrom and stored as provided in this section), by reason of this subsection.
+No proprietor of a distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, shall be required to pay special tax under section 5111 or section 5121 on account of the sale at his principal business office as designated in writing to the Secretary, or at his distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, as the case may be, of distilled spirits, wines, or beer, which, at the time of sale, are stored at his distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, as the case may be, or had been removed from such premises to a taxpaid storeroom operated in connection therewith and are stored therein. However, on such proprietor shall have more than one place of sale, as to each distilled spirits plant, bonded wine cellar, taxpaid wine bottling house, or brewery, that shall be exempt from special taxes by reason of the sale of distilled spirits, wines, or beer stored at such premises (or removed therefrom and stored as provided in this section), by reason of this subsection.
 
 #### (b) Sales by liquor stores operated by States, political subdivisions, etc.
 
-No liquor store engaged in the business of selling to persons other than dealers, which is operated by a State, by a political subdivision of a State or by the District of Columbia, shall be required to pay any special tax imposed under section 5111, by reason of selling distilled spirits, wines, or beer to dealers qualified to do business as such in such State, subdivision, or District, if such State, political subdivision, or District has paid the applicable special tax imposed under section 5121, and if such State, political subdivision, or District has paid special tax under section 5111 at its principal place of business.
+No liquor store engaged in the business of selling to persons other than dealers, which is operated by a State, by a political subdivision of a State or by the District of Columbia, shall be required to pay any special tax imposed under section 5111, by reason of selling distilled spirits, wines, or beer to dealers qualified to do businessas such in such State, subdivision, or District, if such State, political subdivision, or District has paid the applicable special tax imposed under section 5121, and if such State, political subdivision, or District has paid special tax under section 5111 at its principal place of business.
 
 #### (c) Casual sales
 
@@ -52,6 +52,10 @@ No tax shall be imposed by section 5111(a) with respect to a person's activities
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 87–863, §4(b), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 94–455, title XIX, §§1905(a)(7), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1834; Pub. L. 100–647, title II, §2004(t)(2), (4), Nov. 10, 1988, 102 Stat. 3609, 3610.)
 
+#### Repeal of Section and Redesignation of Section 5133 as 5113
+
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(C), (b)(3)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed and section 5133 of this title is redesignated section 5113.</i>
+
 #### Prior Provisions
 
 A prior section 5113, act Aug. 16, 1954, ch. 736, 68A Stat. 619, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -72,7 +76,7 @@ Subsec. (f)(1). Pub. L. 94–455, §1905(a)(7), inserted reference to distilled 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions ofthe Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -81,8 +85,4 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 #### Effective Date of 1962 Amendment
 
 Section 4(c) of Pub. L. 87–863 provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section and section 5123 of this title\] shall take effect on July 1, 1962.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5093, 5123, 5681 of this title.
 

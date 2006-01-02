@@ -26,7 +26,7 @@ Amount.—(1) With respect to the Department of Defense, the requirements of sub
 
 &emsp;(D) Funds obligated for contracts entered into with the Department of Defense for operation and maintenance.
 
-(2) With respect to the Coast Guard, the requirements of subsection (a) for any fiscal year apply to the total value of all prime contract and subcontract awards entered into by the Coast Guard for such fiscal year.
+(2) With respect to the Coast Guard, the requirements of subsection (a) for any fiscal yearapply to the total value of all prime contract and subcontract awards entered into by the Coast Guard for such fiscal year.
 
 (3) With respect to the National Aeronautics and Space Administration, the requirements of subsection (a) for any fiscal year apply to the total value of all prime contract and subcontract awards entered into by the National Aeronautics and Space Administration for such fiscal year.
 
@@ -82,7 +82,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;(2) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency shall make advance payments under section 2307 of this title to contractors described in subsection (a). The Federal Acquisition Regulation shall provide guidance to contracting officers for making advance payments to entities described in subsection (a)(1) under such section.
 
-&emsp;(3)(A) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may, except as provided in subparagraph (B), enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in the preceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
+&emsp;(3)(A) To the extent practicable and when necessary to facilitate achievement of the 5 percent goal described in subsection (a), the head of an agency may, except as provided in subparagraph (B), enter into contracts using less than full and open competitive procedures (including awards under section 8(a) of the Small Business Act) and partial set asides for entities described in subsection (a)(1), but shall pay a price not exceeding fair market cost by more than 10 percent in payment per contract to contractors or subcontractors described in subsection (a). The head of an agency shall adjust the percentage specified in thepreceding sentence for any industry category if available information clearly indicates that nondisadvantaged small business concerns in such industry category are generally being denied a reasonable opportunity to compete for contracts because of the use of that percentage in the application of this paragraph.
 
 &emsp;(B)(i) The Secretary of Defense may not exercise the authority under subparagraph (A) to enter into a contract for a price exceeding fair market cost if the regulations implementing that authority are suspended under clause (ii) with respect to that contract.
 
@@ -112,7 +112,7 @@ Competitive Procedures and Advance Payments.—To attain the goal of subsection 
 
 &emsp;&emsp;(F) Implementation of this section in a manner which will not alter the procurement process under the program established under section 8(a) of the Small Business Act (15 U.S.C. 637(a)).
 
-&emsp;&emsp;(G) A requirement that one factor used in evaluating the performance of a contractingofficer be the ability of the officer to increase contract awards to entities described in subsection (a)(1).
+&emsp;&emsp;(G) A requirement that one factor used in evaluating the performance of a contracting officer be the ability of the officer to increase contract awards to entities described in subsection (a)(1).
 
 &emsp;&emsp;(H) Increased technical assistance to entities described in subsection (a)(1).
 
@@ -134,7 +134,7 @@ Industry Categories.—(1) To the maximum extent practicable, the head of the ag
 
 (h)
 
-Compliance With Subcontracting Plan Requirements.—(1) The Federal Acquisition Regulation shall contain regulations to ensure that potential contractors submitting sealed bids or competitive proposals to the agency for procurement contracts to be awarded under the program provided for by this section are complying with applicable subcontracting plan requirements of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
+Compliance With Subcontracting Plan Requirements.—(1) The Federal Acquisition Regulation shall contain regulations to ensure that potential contractors submitting sealed bids or competitive proposals to the agency forprocurement contracts to be awarded under the program provided for by this section are complying with applicable subcontracting plan requirements of section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
 
 (2) The regulations required by paragraph (1) shall ensure that, with respect to a sealed bid or competitive proposal for which the bidder or offeror is required to negotiate or submit a subcontracting plan under section 8(d) of the Small Business Act (15 U.S.C. 637(d)), the subcontracting plan shall be a factor in evaluating the bid or proposal.
 
@@ -158,11 +158,11 @@ Definitions.—In this section:
 
 (k)
 
-Effective Date.—(1) This section applies in the Department of Defense to each of fiscal years 1987 through 2006.
+Effective Date.—(1) This section applies in the Department of Defense to each of fiscal years 1987 through 2009.
 
-(2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2006.
+(2) This section applies in the Coast Guard and the National Aeronautics and Space Administration in each of fiscal years 1995 through 2009.
 
-(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597.)
+(Added and amended Pub. L. 102–484, div. A, title VIII, §§801(a)(1), (b)–(f), 802, Oct. 23, 1992, 106 Stat. 2442–2444, 2446; Pub. L. 103–35, title II, §202(a)(6), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VIII, §811(a)–(c), (e), Nov. 30, 1993, 107 Stat. 1702; Pub. L. 103–355, title VII, §7105, Oct. 13, 1994, 108 Stat. 3369; Pub. L. 104–106, div. D, title XLIII, §4321(b)(8), Feb. 10, 1996, 110 Stat. 672; Pub. L. 105–135, title VI, §604(a), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 105–261, div. A, title VIII, §801, Oct. 17, 1998, 112 Stat. 2080; Pub. L. 106–65, div. A, title VIII, §808, Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title X, §1048(a)(17), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §816, Dec. 2, 2002, 116 Stat. 2610; Pub. L. 108–136, div. A, title X, §1031(a)(15), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 109–163, div. A, title VIII, §842, Jan. 6, 2006, 119 Stat. 3389.)
 
 #### References in Text
 
@@ -179,6 +179,8 @@ Section, as added by Pub. L. 102–484, §801(a)(1), consists of text of Pub. L.
 A prior section 2323, added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2598; amended Pub. L. 99–500, §101(c) \[title X, §926(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–153, and Pub. L. 99–591, §101(c) \[title X, §926(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–153; Pub. L. 99–661, div. A, title IX, formerly title IV, §926(a)(1), Nov. 14, 1986, 100 Stat. 3933, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, related to commercial pricing for spare or repair parts, prior to repeal by Pub. L. 101–510, div. A, title VIII, §804(a), Nov. 5, 1990, 104 Stat. 1591.
 
 #### Amendments
+
+2006—Subsec. (k). Pub. L. 109–163 substituted “2009” for “2006” in pars. (1) and (2).
 
 2003—Subsec. (i)(3). Pub. L. 108–136 struck out par. (3) which listed certain items to be included in the report required under par. (1).
 
@@ -208,7 +210,7 @@ Subsec. (i)(3)(D). Pub. L. 104–106, §4321(b)(8)(D), added subpar. (D).
 
 1993—Subsec. (a)(1)(B). Pub. L. 103–160, §811(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “historically Black colleges and universities; and”.
 
-Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “minority institutions (as defined in paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058)), including any nonprofit research institution that was an integral part of a historically Black college or university before November 14, 1986.”
+Subsec. (a)(1)(C). Pub. L. 103–160, §811(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “minority institutions (as defined in paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058)), including anynonprofit research institution that was an integral part of a historically Black college or university before November 14, 1986.”
 
 Subsec. (f)(2). Pub. L. 103–160, §811(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall prescribe regulations which provide for the following:
 
@@ -285,8 +287,4 @@ Section 811(d) of Pub. L. 103–160 provided that:
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2304, 2304e, 2323a of this title; title 15 section 644; title 20 section 1067k; title 41 section 428.
 

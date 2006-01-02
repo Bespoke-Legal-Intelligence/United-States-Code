@@ -34,7 +34,7 @@
 
 #### (2) Application for grant
 
-&emsp;A grant may not be awarded under paragraph (1) unless an application therefore is submitted to the Secretary and the Secretary approves such application. Such application shall be submitted in such form and manner and shall contain such information as the Secretary may prescribe.
+&emsp;A grant may not be awarded under paragraph (1) unless an application therefore issubmitted to the Secretary and the Secretary approves such application. Such application shall be submitted in such form and manner and shall contain such information as the Secretary may prescribe.
 
 #### (c) Definitions
 

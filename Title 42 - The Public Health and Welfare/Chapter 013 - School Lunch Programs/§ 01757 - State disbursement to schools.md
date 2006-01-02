@@ -18,7 +18,7 @@ Use of funds paid to States may include, in addition to the purchase price of ag
 
 #### (e) Limitation
 
-In no event shall such disbursement for food to any school for any fiscal year exceed an amount determined by multiplying the number of lunches served in the school in the school lunch program under this chapter during such year by the maximum per meal reimbursement rate for the State, for the type of lunch served, as prescribed by the Secretary.
+In no event shall such disbursement for food to any school for any fiscal year exceed an amountdetermined by multiplying the number of lunches served in the school in the school lunch program under this chapter during such year by the maximum per meal reimbursement rate for the State, for the type of lunch served, as prescribed by the Secretary.
 
 #### (f) Increase in meal reimbursement
 

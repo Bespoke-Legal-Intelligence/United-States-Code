@@ -8,7 +8,7 @@
 
 (d)(1) In a case in which—
 
-&emsp;(A) a work of visual art has been incorporated in or made part of a building in such a way that removing the work from the building will cause the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), and
+&emsp;(A) a work of visual art has been incorporated in or made part of a building in sucha way that removing the work from the building will cause the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), and
 
 &emsp;(B) the author consented to the installation of the work in the building either before the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990, or in a written instrument executed on or after such effective date that is signed by the owner of the building and the author and that specifies that installation of the work may subject the work to destruction, distortion, mutilation, or other modification, by reason of its removal,
 
@@ -36,7 +36,7 @@ The broad language of section 106(1) and of subsection (a) of section 113 raises
 
 The 1961 Report of the Register of Copyrights stated, on the basis of judicial precedent, that “copyright in a pictorial, graphic, or sculptural work, portraying a useful article as such, does not extend to the manufacture of the useful article itself,” and recommended specifically that “the distinctions drawn in this area by existing court decisions” not be altered by the statute. The Register's Supplementary Report, at page 48, cited a number of these decisions, and explained the insuperable difficulty of finding “any statutory formulation that would express the distinction satisfactorily.” Section 113(b) reflects the Register's conclusion that “the real need is to make clear that there is no intention to change the present law with respect to the scope of protection in a work portraying a useful article as such.”
 
-Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articlesin advertising, in feature stories about the articles, or in the news reports.
+Section 113(c) provides that it would not be an infringement of copyright, where a copyright work has been lawfully published as the design of useful articles, to make, distribute or display pictures of the articles in advertising, in feature stories about the articles, or in the news reports.
 
 In conformity with its deletion from the bill of Title II, relating to the protection of ornamental designs of useful articles, the Committee has deleted subsections (b), (c), and (d) of section 113 of S. 22 as adopted by the Senate, since they are no longer relevant.
 

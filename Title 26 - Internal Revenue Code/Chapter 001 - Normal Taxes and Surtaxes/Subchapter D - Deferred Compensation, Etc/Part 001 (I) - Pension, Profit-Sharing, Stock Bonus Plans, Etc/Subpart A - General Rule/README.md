@@ -14,10 +14,13 @@ Subpart A—General Rule
 | [408\.](%C2%A7%2000408%20-%20Individual%20retirement%20accounts.md) | Individual retirement accounts. |
 | [408A.](%C2%A7%2000408A%20-%20Roth%20IRAs.md) | Roth IRAs. |
 | [409\.](%C2%A7%2000409%20-%20Qualifications%20for%20tax%20credit%20employee%20stock%20ownership%20plans.md) | Qualifications for tax credit employee stock ownership plans. |
+| [409A.](%C2%A7%2000409A%20-%20Inclusion%20in%20gross%20income%20of%20deferred%20compensation%20under%20nonqualified%20deferred%20compensation%20plans.md) | Inclusion in gross income of deferred compensation under nonqualified deferred compensation plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §885(c), Oct. 22, 2004, 118 Stat. 1640, added item 409A.
 
 2001—Pub. L. 107–16, title VI, §617(e)(2), June 7, 2001, 115 Stat. 106, added item 402A.
 
@@ -62,4 +65,4 @@ Pub. L. 93–406, title II, §2002(h)(2), Sept. 2, 1974, 88 Stat. 970, added ite
 - [&sect; 00408 - Individual retirement accounts](%C2%A7%2000408%20-%20Individual%20retirement%20accounts.md)
 - [&sect; 00408A - Roth IRAs](%C2%A7%2000408A%20-%20Roth%20IRAs.md)
 - [&sect; 00409 - Qualifications for tax credit employee stock ownership plans](%C2%A7%2000409%20-%20Qualifications%20for%20tax%20credit%20employee%20stock%20ownership%20plans.md)
-- [&sect; 00409A - Renumbered &sect;409](%C2%A7%2000409A%20-%20Renumbered%20%C2%A7409.md)
+- [&sect; 00409A - Inclusion in gross income of deferred compensation under nonqualified deferred compensation plans](%C2%A7%2000409A%20-%20Inclusion%20in%20gross%20income%20of%20deferred%20compensation%20under%20nonqualified%20deferred%20compensation%20plans.md)

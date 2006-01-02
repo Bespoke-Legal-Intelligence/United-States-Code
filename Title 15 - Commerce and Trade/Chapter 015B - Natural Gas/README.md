@@ -8,16 +8,27 @@
 | (c) | Intrastate transactions exempt from provisions of chapter; certification from State commission as conclusive evidence. |
 | (d) | Vehicular natural gas jurisdiction. |
 | [717a.](%C2%A7%2000717a%20-%20Definitions.md) | Definitions. |
-| [717b.](%C2%A7%2000717b%20-%20Exportation%20or%20importation%20of%20natural%20gas.md) | Exportation or importation of natural gas. |
+| [717b.](%C2%A7%2000717b%20-%20Exportation%20or%20importation%20of%20natural%20gas%3B%20LNG%20terminals.md) | Exportation or importation of natural gas; LNG terminals. |
 | (a) | Mandatory authorization order. |
 | (b) | Free trade agreements. |
 | (c) | Expedited application and approval process. |
+| (d) | Construction with other laws. |
+| (e) | LNG terminals. |
+| (f) | Military installations. |
+| 717b–1. | State and local safety considerations. |
+| (a) | Promulgation of regulations. |
+| (b) | State consultation. |
+| (c) | Advisory report. |
+| (d) | Inspections. |
+| (e) | Emergency Response Plan. |
 | [717c.](%C2%A7%2000717c%20-%20Rates%20and%20charges.md) | Rates and charges. |
 | (a) | Just and reasonable rates and charges. |
 | (b) | Undue preferences and unreasonable rates and charges prohibited. |
 | (c) | Filing of rates and charges with Commission; public inspection of schedules. |
 | (d) | Changes in rates and charges; notice to Commission. |
 | (e) | Authority of Commission to hold hearings concerning new schedule of rates. |
+| (f) | Storage services. |
+| 717c–1. | Prohibition on market manipulation. |
 | [717d.](%C2%A7%2000717d%20-%20Fixing%20rates%20and%20charges%3B%20determination%20of%20cost%20of%20production%20or%20transportation.md) | Fixing rates and charges; determination of cost of production or transportation. |
 | (a) | Decreases in rates. |
 | (b) | Costs of production and transportation. |
@@ -57,9 +68,13 @@
 | (e) | Testimony of witnesses. |
 | (f) | Deposition of witnesses in a foreign country. |
 | (g) | Witness fees. |
-| [717n.](%C2%A7%2000717n%20-%20Hearings%3B%20rules%20of%20procedure.md) | Hearings; rules of procedure. |
-| (a) | Hearings; parties. |
-| (b) | Procedure. |
+| [717n.](%C2%A7%2000717n%20-%20Process%20coordination%3B%20hearings%3B%20rules%20of%20procedure.md) | Process coordination; hearings; rules of procedure. |
+| (a) | Definition. |
+| (b) | Designation as lead agency. |
+| (c) | Schedule. |
+| (d) | Consolidated record. |
+| (e) | Hearings; parties. |
+| (f) | Procedure. |
 | 717<i>o.</i> | Administrative powers of Commission; rules, regulations, and orders. |
 | [717p.](%C2%A7%2000717p%20-%20Joint%20boards.md) | Joint boards. |
 | (a) | Reference of matters to joint boards; composition and power. |
@@ -70,11 +85,23 @@
 | (a) | Application for rehearing; time. |
 | (b) | Review of Commission order. |
 | (c) | Stay of Commission order. |
+| (d) | Judicial review. |
 | [717s.](%C2%A7%2000717s%20-%20Enforcement%20of%20chapter.md) | Enforcement of chapter. |
 | (a) | Action in district court for injunction. |
 | (b) | Mandamus. |
 | (c) | Employment of attorneys by Commission. |
+| (d) | Violation of market manipulation provisions. |
 | [717t.](%C2%A7%2000717t%20-%20General%20penalties.md) | General penalties. |
+| 717t–1. | Civil penalty authority. |
+| (a) | In general. |
+| (b) | Notice. |
+| (c) | Amount. |
+| 717t–2. | Natural gas market transparency rules. |
+| (a) | In general. |
+| (b) | Information exempted from disclosure. |
+| (c) | Information sharing. |
+| (d) | Compliance with requirements. |
+| (e) | Retroactive effect. |
 | [717u.](%C2%A7%2000717u%20-%20Jurisdiction%20of%20offenses%3B%20enforcement%20of%20liabilities%20and%20duties.md) | Jurisdiction of offenses; enforcement of liabilities and duties. |
 | [717v.](%C2%A7%2000717v%20-%20Separability.md) | Separability. |
 | [717w.](%C2%A7%2000717w%20-%20Short%20title.md) | Short title. |
@@ -110,8 +137,10 @@
 
 - [&sect; 00717 - Regulation of natural gas companies](%C2%A7%2000717%20-%20Regulation%20of%20natural%20gas%20companies.md)
 - [&sect; 00717a - Definitions](%C2%A7%2000717a%20-%20Definitions.md)
-- [&sect; 00717b - Exportation or importation of natural gas](%C2%A7%2000717b%20-%20Exportation%20or%20importation%20of%20natural%20gas.md)
+- [&sect; 00717b - Exportation or importation of natural gas; LNG terminals](%C2%A7%2000717b%20-%20Exportation%20or%20importation%20of%20natural%20gas%3B%20LNG%20terminals.md)
+- [&sect; 00717b&#8211;1 - State and local safety considerations](%C2%A7%2000717b%E2%80%931%20-%20State%20and%20local%20safety%20considerations.md)
 - [&sect; 00717c - Rates and charges](%C2%A7%2000717c%20-%20Rates%20and%20charges.md)
+- [&sect; 00717c&#8211;1 - Prohibition on market manipulation](%C2%A7%2000717c%E2%80%931%20-%20Prohibition%20on%20market%20manipulation.md)
 - [&sect; 00717d - Fixing rates and charges; determination of cost of production or transportation](%C2%A7%2000717d%20-%20Fixing%20rates%20and%20charges%3B%20determination%20of%20cost%20of%20production%20or%20transportation.md)
 - [&sect; 00717e - Ascertainment of cost of property](%C2%A7%2000717e%20-%20Ascertainment%20of%20cost%20of%20property.md)
 - [&sect; 00717f - Construction, extension, or abandonment of facilities](%C2%A7%2000717f%20-%20Construction%2C%20extension%2C%20or%20abandonment%20of%20facilities.md)
@@ -122,13 +151,15 @@
 - [&sect; 00717k - Officials dealing in securities](%C2%A7%2000717k%20-%20Officials%20dealing%20in%20securities.md)
 - [&sect; 00717l - Complaints](%C2%A7%2000717l%20-%20Complaints.md)
 - [&sect; 00717m - Investigations by Commission](%C2%A7%2000717m%20-%20Investigations%20by%20Commission.md)
-- [&sect; 00717n - Hearings; rules of procedure](%C2%A7%2000717n%20-%20Hearings%3B%20rules%20of%20procedure.md)
+- [&sect; 00717n - Process coordination; hearings; rules of procedure](%C2%A7%2000717n%20-%20Process%20coordination%3B%20hearings%3B%20rules%20of%20procedure.md)
 - [&sect; 00717o - Administrative powers of Commission; rules, regulations, and orders](%C2%A7%2000717o%20-%20Administrative%20powers%20of%20Commission%3B%20rules%2C%20regulations%2C%20and%20orders.md)
 - [&sect; 00717p - Joint boards](%C2%A7%2000717p%20-%20Joint%20boards.md)
 - [&sect; 00717q - Appointment of officers and employees](%C2%A7%2000717q%20-%20Appointment%20of%20officers%20and%20employees.md)
 - [&sect; 00717r - Rehearing and review](%C2%A7%2000717r%20-%20Rehearing%20and%20review.md)
 - [&sect; 00717s - Enforcement of chapter](%C2%A7%2000717s%20-%20Enforcement%20of%20chapter.md)
 - [&sect; 00717t - General penalties](%C2%A7%2000717t%20-%20General%20penalties.md)
+- [&sect; 00717t&#8211;1 - Civil penalty authority](%C2%A7%2000717t%E2%80%931%20-%20Civil%20penalty%20authority.md)
+- [&sect; 00717t&#8211;2 - Natural gas market transparency rules](%C2%A7%2000717t%E2%80%932%20-%20Natural%20gas%20market%20transparency%20rules.md)
 - [&sect; 00717u - Jurisdiction of offenses; enforcement of liabilities and duties](%C2%A7%2000717u%20-%20Jurisdiction%20of%20offenses%3B%20enforcement%20of%20liabilities%20and%20duties.md)
 - [&sect; 00717v - Separability](%C2%A7%2000717v%20-%20Separability.md)
 - [&sect; 00717w - Short title](%C2%A7%2000717w%20-%20Short%20title.md)

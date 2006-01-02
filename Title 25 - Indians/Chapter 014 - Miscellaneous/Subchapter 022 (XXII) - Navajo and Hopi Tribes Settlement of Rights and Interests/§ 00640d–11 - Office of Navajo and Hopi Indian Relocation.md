@@ -8,7 +8,7 @@ There is hereby established as an independent entity in the executive branch the
 
 (1) The Commissioner shall be appointed by the President by and with the advice and consent of the Senate.
 
-(2) The term of office of the Commissioner shall be 2 years. An individual may be appointed Commissioner for more than one term. The Commissioner serving at the end of a term shall continue to serve until his or her successor has been confirmed in accordance with paragraph (1) of this subsection.
+(2) The term of office of the Commissioner shall be 2 years. An individual may be appointed Commissioner for more than one term. The Commissioner serving at the end of a term shall continue to serve until his or her successor hasbeen confirmed in accordance with paragraph (1) of this subsection.
 
 (3) The Commissioner shall be a full-time employee of the United States, and shall be compensated at the rate of basic pay payable for level IV of the Executive Schedule.
 
@@ -22,7 +22,7 @@ There is hereby established as an independent entity in the executive branch the
 
 &emsp;(A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99 Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
 
-&emsp;(B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): <i>Provided</i>, Thatsuch funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) <sup>1</sup> : <i>Provided further</i>, That for administrative purposes such funds shall be maintained in a separate account.
+&emsp;(B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): <i>Provided</i>, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) <sup>1</sup> : <i>Provided further</i>, That for administrative purposes such funds shall be maintained in a separate account.
 
 #### (d) Powers of Commissioner
 
@@ -66,7 +66,7 @@ Subsec. (b)(3). Pub. L. 102–180, §3(b), amended par. (3) generally. Prior to 
 
 Subsec. (d)(1). Pub. L. 102–180, §3(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Commissioner shall have the power to—
 
-&emsp;“(A) appoint and fix the compensation of such staff and personnel as he deems necessary, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but at rates not in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of such title; and
+&emsp;“(A) appoint and fix the compensation of such staff and personnel as he deems necessary, without regardto the provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but at rates not in excess of the maximum rate for GS–18 of the General Schedule under section 5332 of such title; and
 
 &emsp;“(B) procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, but at rates not to exceed $200 a day for individuals.”
 

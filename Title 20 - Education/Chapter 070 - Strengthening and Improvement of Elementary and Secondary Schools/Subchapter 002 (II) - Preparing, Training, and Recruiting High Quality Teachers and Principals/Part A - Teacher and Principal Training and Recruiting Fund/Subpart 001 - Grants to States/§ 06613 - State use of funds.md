@@ -54,7 +54,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;(10) Developing or assisting local educational agencies in the development and use of proven, innovative strategies to deliver intensive professional development programs that are both cost-effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 
-&emsp;(11) Encouraging and supporting the training of teachers and administrators to effectivelyintegrate technology into curricula and instruction, including training to improve the ability to collect, manage, and analyze data to improve teaching, decisionmaking, school improvement efforts, and accountability.
+&emsp;(11) Encouraging and supporting the training of teachers and administrators to effectively integrate technology into curricula and instruction, including training to improve the ability to collect, manage, and analyze data to improve teaching, decisionmaking, school improvement efforts, and accountability.
 
 &emsp;(12) Developing, or assisting local educational agencies in developing, merit-based performance systems, and strategies that provide differential and bonus pay for teachers in high-need academic subjects such as reading, mathematics, and science and teachers in high-poverty schools and districts.
 

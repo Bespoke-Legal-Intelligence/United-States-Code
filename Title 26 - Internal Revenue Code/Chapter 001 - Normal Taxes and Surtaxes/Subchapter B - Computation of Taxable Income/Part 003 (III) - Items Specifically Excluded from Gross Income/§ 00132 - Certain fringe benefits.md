@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) revenue derived from such facility normally equals or exceeds the direct operating costs of such facility.
 
-> &emsp;The preceding sentence shall apply with respect to any highly compensated employee only if access to the facility is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor ofhighly compensated employees. For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.
+> &emsp;The preceding sentence shall apply with respect to any highly compensated employee only if access to the facility is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor of highly compensated employees. For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.
 
 #### (f) Qualified transportation fringe
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (C) Qualified parking
 
-&emsp;&emsp;The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or near property used by the employee for residential purposes.
+&emsp;&emsp;The term “qualified parking” means parking provided to an employee on or near the business premises of the employer or on or near a location from which the employee commutes to work by transportation described in subparagraph (A), in a commuter highway vehicle, or by carpool. Such term shall not include any parking on or nearproperty used by the employee for residential purposes.
 
 #### (D) Transportation provided by employer
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (g) Qualified moving expense reimbursement
 
-For purposes of this section, the term “qualified moving expense reimbursement” means anyamount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
+For purposes of this section, the term “qualified moving expense reimbursement” means any amount received (directly or indirectly) by an individual from an employer as a payment for (or a reimbursement of) expenses which would be deductible as moving expenses under section 217 if directly paid or incurred by the individual. Such term shall not include any payment for (or reimbursement of) an expense actually deducted by the individual in a prior taxable year.
 
 #### (h) Certain individuals treated as employees for purposes of subsections (a)(1) and (2)
 
@@ -200,7 +200,7 @@ For purposes of paragraphs (1) and (2) of subsection (a)—
 
 #### (B) Dependent child
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “dependent child” means any child (as defined in section 151(c)(3)) of the employee—
+&emsp;&emsp;For purposes of subparagraph (A), the term “dependent child” means any child (as defined in section 152(f)(1)) of the employee—
 
 &emsp;&emsp;&emsp;(i) who is a dependent of the employee, or
 
@@ -356,11 +356,11 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX,§9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143; Pub. L. 108–121, title I, §103(a), (b), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–311, title II, §207(13), Oct. 4, 2004, 118 Stat. 1177.)
 
-#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Taxable Years Beginning in 2004
+#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Taxable Years Beginning in 2006
 
-<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for taxable years beginning in 2004, see section 3.12 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for taxable years beginning in 2006, see section 3.12 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -375,6 +375,8 @@ The date of the enactment of this subsection, referred to in subsec. (n), is the
 A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
+
+2004—Subsec. (h)(2)(B). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)” in introductory provisions.
 
 2003—Subsec. (a)(8). Pub. L. 108–121, §103(a), added par. (8).
 
@@ -450,7 +452,7 @@ Subsec. (h)(8). Pub. L. 100–647, §6066(a), added par. (8).
 
 1986—Subsec. (c)(3)(A). Pub. L. 99–514, §1853(a)(2), substituted “are provided by the employer to an employee for use by such employee” for “are provided to the employee by the employer”.
 
-Subsec. (e)(2). Pub. L. 99–514, §1114(b)(5)(A), struck out “officer, owner, or” before “highly compensatedemployee” and “officers, owners, or” before “highly compensated employees” in last sentence.
+Subsec. (e)(2). Pub. L. 99–514, §1114(b)(5)(A), struck out “officer, owner, or” before “highly compensated employee” and “officers, owners, or” before “highly compensated employees” in last sentence.
 
 Subsec. (f)(2)(B)(ii). Pub. L. 99–514, §1853(a)(1), substituted “are deceased and who has not attained age 25” for “are deceased”.
 
@@ -469,6 +471,10 @@ Subsec. (h)(6). Pub. L. 99–272, §13207(b)(1), added par. (6).
 Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 2003 Amendment
 
@@ -615,10 +621,6 @@ Section 531(f) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 &emsp;“(2) the primary business of the affiliated group is the operation of retail department stores,
 
 > then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 74, 82, 102, 117, 125, 274, 403, 414, 415, 3121, 3231, 3306, 3401, 4977 of this title; title 5 section 7905; title 42 section 409.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “performing”.</i>
 

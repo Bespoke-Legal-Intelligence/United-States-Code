@@ -2,7 +2,7 @@
 
 #### (a) Establishment; termination date
 
-There is hereby established a Gateway National Recreation Area Advisory Commission (hereinafter referred to as the “Commission”).Said Commission shall terminate twenty years after the date of the establishment of the recreation area.
+There is hereby established a Gateway National Recreation Area Advisory Commission (hereinafter referred to as the “Commission”). Said Commission shall terminate twenty years after the date of the establishment of the recreation area.
 
 #### (b) Membership; appointment; terms of office; representation of interests
 

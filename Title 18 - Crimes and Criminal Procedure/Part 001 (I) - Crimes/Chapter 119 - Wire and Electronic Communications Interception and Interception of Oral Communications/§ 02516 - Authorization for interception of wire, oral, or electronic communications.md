@@ -34,7 +34,7 @@
 
 &emsp;(p) a felony violation of section 1028 (relating to production of false identification documents), section 1542 (relating to false statements in passport applications), section 1546 (relating to fraud and misuse of visas, permits, and other documents) of this title or a violation of section 274, 277, or 278 of the Immigration and Nationality Act (relating to the smuggling of aliens); or <sup>2</sup>
 
-&emsp;(q) any criminal violation of section 229 (relating to chemical weapons); or sections <sup>3</sup> 2332, 2332a, 2332b, 2332d, 2332f, 2332g, 2332h, 2339A, 2339B, or 2339C of this title (relating to terrorism); or
+&emsp;(q) any criminal violation of section 229 (relating to chemical weapons) or section 2332, 2332a, 2332b, 2332d, 2332f, 2332g, 2332h, 2339A, 2339B, or 2339C of this title (relating to terrorism); or
 
 &emsp;(r) any conspiracy to commit any offense described in any subparagraph of this paragraph.
 
@@ -42,7 +42,7 @@
 
 (3) Any attorney for the Government (as such term is defined for the purposes of the Federal Rules of Criminal Procedure) may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant, in conformity with section 2518 of this title, an order authorizing or approving the interception of electronic communications by an investigative or law enforcement officer having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of any Federal felony.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 216; amended Pub. L. 91–452, title VIII, §810, title IX, §902(a), title XI, §1103, Oct. 15, 1970, 84 Stat. 940, 947, 959; Pub. L. 91–644, title IV, §16, Jan. 2, 1971, 84 Stat. 1891; Pub. L. 95–598, title III, §314(h), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 97–285, §§2(e), 4(e), Oct. 6, 1982, 96 Stat. 1220, 1221; Pub. L. 98–292, §8, May 21, 1984, 98 Stat. 206; Pub. L. 98–473, title II, §1203(c), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), 104, 105, Oct. 21, 1986, 100 Stat. 1851, 1855; Pub. L. 99–570, title I, §1365(c), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 100–690, title VI, §6461, title VII, §§7036, 7053(d), 7525, Nov. 18, 1988, 102 Stat. 4374, 4399, 4402, 4502; Pub. L. 101–298, §3(b), May 22, 1990, 104 Stat. 203; Pub. L. 101–647, title XXV, §2531, title XXXV, §3568, Nov. 29, 1990, 104 Stat. 4879, 4928; Pub. L. 103–272, §5(e)(11), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §§330011(c)(1), (q)(1), (r), 330021(1), Sept. 13, 1994, 108 Stat. 2144, 2145, 2150; Pub. L. 103–414, title II, §208, Oct. 25, 1994, 108 Stat. 4292; Pub. L. 103–429, §7(a)(4)(A), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–132, title IV, §434, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–208, div. C, title II, §201, Sept. 30, 1996, 110 Stat. 3009–564; Pub. L. 104–287, §6(a)(2), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–294, title I, §102, title VI, §601(d), Oct. 11, 1996, 110 Stat. 3491, 3499; Pub. L. 105–318, §6(b), Oct. 30, 1998, 112 Stat. 3011; Pub. L. 106–181, title V, §506(c)(2)(B), Apr. 5, 2000, 114 Stat. 139; Pub. L. 107–56, title II, §§201, 202, Oct. 26, 2001, 115 Stat. 278; Pub. L.107–197, title III, §301(a), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §§4002(c)(1), 4005(a)(1), Nov. 2, 2002, 116 Stat. 1808, 1812; Pub. L. 108–21, title II, §201, Apr. 30, 2003, 117 Stat. 659; Pub. L. 108–458, title VI, §6907, Dec. 17, 2004, 118 Stat. 3774.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 216; amended Pub. L. 91–452, title VIII, §810, title IX, §902(a), title XI, §1103, Oct. 15, 1970, 84 Stat. 940, 947, 959; Pub. L. 91–644, title IV, §16, Jan. 2, 1971, 84 Stat. 1891; Pub. L. 95–598, title III, §314(h), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 97–285, §§2(e), 4(e), Oct. 6, 1982, 96 Stat. 1220, 1221; Pub. L. 98–292, §8, May 21, 1984, 98 Stat. 206; Pub. L. 98–473, title II, §1203(c), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), 104, 105, Oct. 21, 1986, 100 Stat. 1851, 1855; Pub. L. 99–570, title I, §1365(c), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 100–690, title VI, §6461, title VII, §§7036, 7053(d), 7525, Nov. 18, 1988, 102 Stat. 4374, 4399, 4402, 4502; Pub. L. 101–298, §3(b), May 22,1990, 104 Stat. 203; Pub. L. 101–647, title XXV, §2531, title XXXV, §3568, Nov. 29, 1990, 104 Stat. 4879, 4928; Pub. L. 103–272, §5(e)(11), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §§330011(c)(1), (q)(1), (r), 330021(1), Sept. 13, 1994, 108 Stat. 2144, 2145, 2150; Pub. L. 103–414, title II, §208, Oct. 25, 1994, 108 Stat. 4292; Pub. L. 103–429, §7(a)(4)(A), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–132, title IV, §434, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–208, div. C, title II, §201, Sept. 30, 1996, 110 Stat. 3009–564; Pub. L. 104–287, §6(a)(2), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–294, title I, §102, title VI, §601(d), Oct. 11, 1996, 110 Stat. 3491, 3499; Pub. L. 105–318, §6(b), Oct. 30, 1998, 112 Stat. 3011; Pub. L. 106–181, title V, §506(c)(2)(B), Apr. 5, 2000, 114 Stat. 139; Pub. L. 107–56, title II, §§201, 202, Oct. 26, 2001, 115 Stat. 278; Pub. L. 107–197, title III, §301(a), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §§4002(c)(1), 4005(a)(1), Nov. 2, 2002, 116 Stat. 1808, 1812; Pub. L. 108–21, title II, §201, Apr. 30, 2003, 117 Stat. 659; Pub. L. 108–458, title VI, §6907, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 109–162, title XI, §1171(b), Jan. 5, 2006, 119 Stat. 3123.)
 
 #### Amendment of Section
 
@@ -59,6 +59,8 @@ Section 5861 of the Internal Revenue Code of 1986, referred to in par. (1)(<i>o<
 The Federal Rules of Criminal Procedure, referred to in par. (3), are set out in the Appendix to this title.
 
 #### Amendments
+
+2006—Par. (1)(q). Pub. L. 109–162 struck out semicolon after “(relating to chemical weapons)” and substituted “section 2332” for “sections 2332”.
 
 2004—Par. (1)(a). Pub. L. 108–458, §6907(1), inserted “2122 and” after “sections”.
 
@@ -204,7 +206,7 @@ Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808,
 
 #### Termination Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
+Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -239,6 +241,4 @@ Amendment by section 314 of Pub. L. 95–598 not to affect the application of ch
 <i><sup>1</sup></i><i> See 1984 Amendment note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “weapons) or section”.</i>
 

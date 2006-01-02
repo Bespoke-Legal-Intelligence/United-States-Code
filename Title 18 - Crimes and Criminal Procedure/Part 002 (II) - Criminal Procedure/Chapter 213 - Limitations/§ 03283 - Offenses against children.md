@@ -1,8 +1,8 @@
 ### §3283. Offenses against children
 
-No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse, or kidnaping, of a child under the age of 18 years shall preclude such prosecution during the life of the child.
+No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse, or kidnaping, of a child under the age of 18 years shall preclude such prosecution during the life of the child, or for ten years after the offense, whichever is longer.
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 103–322, title XXXIII, §330018(a), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 108–21, title II, §202, Apr. 30, 2003, 117 Stat. 660.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 103–322, title XXXIII, §330018(a), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 108–21, title II, §202, Apr. 30, 2003, 117 Stat. 660; Pub. L. 109–162, title XI, §1182(c), Jan. 5, 2006, 119 Stat. 3126.)
 
 #### Historical and Revision Notes
 
@@ -25,6 +25,8 @@ Act Cong. March 2, 1799, ch. 22, 1 Stat. 627, regulating the collection of dutie
 Changes were made in phraseology.
 
 #### Amendments
+
+2006—Pub. L. 109–162 inserted “, or for ten years after the offense, whichever is longer” after “of the child”.
 
 2003—Pub. L. 108–21 substituted “Offenses against children” for “Child abuse offenses” in section catchline and amended text generally. Prior to amendment, text read as follows: “No statute of limitations that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
 

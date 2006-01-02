@@ -10,5 +10,5 @@ Sections 423 to 423g and 610 of this title, referred to in text, was in the orig
 
 #### Amendments
 
-1930—Act Apr. 23, 1930, provided that the credit shall be applied on or after April 23, 1930, and was not to beconstrued as requiring revision of accounts adjusted before such date, and that no refund shall be made of the charges on unproductive areas and applied as a credit on productive areas.
+1930—Act Apr. 23, 1930, provided that the credit shall be applied on or after April 23, 1930, and was not to be construed as requiring revision of accounts adjusted before such date, and that no refund shall be made of the charges on unproductive areas and applied as a credit on productive areas.
 

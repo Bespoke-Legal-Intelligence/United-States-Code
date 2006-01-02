@@ -114,7 +114,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (ii) Adjustment of amount
 
-&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 cents shall be rounded to the nearest multiple of 5 cents.
+&emsp;&emsp;&emsp;For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 centsshall be rounded to the nearest multiple of 5 cents.
 
 #### (B) Annual out-of-pocket threshold
 
@@ -136,7 +136,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 &emsp;&emsp;&emsp;(i) incurred costs shall only include costs incurred with respect to covered part D drugs for the annual deductible described in paragraph (1), for cost-sharing described in paragraph (2), and for amounts for which benefits are not provided because of the application of the initial coverage limit described in paragraph (3), but does not include any costs incurred for covered part D drugs which are not included (or treated as being included) in the plan's formulary; and
 
-&emsp;&emsp;&emsp;(ii) such costs shall be treated as incurred only if they are paid by the part Deligible individual (or by another person, such as a family member, on behalf of the individual), under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program and the part D eligible individual (or other person) is not reimbursed through insurance or otherwise, a group health plan, or other third-party payment arrangement (other than under such section or such a Program) for such costs.
+&emsp;&emsp;&emsp;(ii) such costs shall be treated as incurred only if they are paid by the part D eligible individual (or by another person, such as a family member, on behalf of the individual), under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program and the part D eligible individual (or other person) is not reimbursed through insurance or otherwise, a group health plan, or other third-party payment arrangement (other than under such section or such a Program) for such costs.
 
 #### (D) Information regarding third-party reimbursement
 
@@ -176,7 +176,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (C) Assuring standard payment for costs at initial coverage limit
 
-&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) of this section for the year, of an amount equal to at least the product of—
+&emsp;&emsp;The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3)of this section for the year, of an amount equal to at least the product of—
 
 &emsp;&emsp;&emsp;(i) the amount by which the initial coverage limit described in subsection (b)(3) of this section for the year exceeds the deductible described in subsection (b)(1) of this section for the year; and
 
@@ -230,7 +230,7 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (A) In general
 
-&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), or under section 1396r–8(d)(3) of this title.
+&emsp;&emsp;Such term does not include drugs or classes of drugs, or their medical uses, which may be excluded from coverage or otherwise restricted under section 1396r–8(d)(2) of this title, other than subparagraph (E) of such section (relating to smoking cessation agents), or under section 1396r–8(d)(3) of this title, as such sections were in effect on December 8, 2003. Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.
 
 #### (B) Medicare covered drugs
 
@@ -246,11 +246,25 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 > &emsp;Such exclusions are determinations subject to reconsideration and appeal pursuant to subsections (g) and (h), respectively, of section 1395w–104 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–2, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2075; amended Pub. L. 109–91, title I, §103(a), Oct. 20, 2005, 119 Stat. 2092.)
 
 #### References in Text
 
 Part C of this subchapter, referred to in subsecs. (a)(1), (3), (4) and (b), is classified to section 1395w–21 et seq. of this title.
 
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(B), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+
+#### Amendments
+
+2005—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end “Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.”
+
+Pub. L. 109–91, §103(a)(1), inserted before period at end “, as such sections were in effect on December 8, 2003”.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–91, title I, §103(c), Oct. 20, 2005, 119 Stat. 2092, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall take effect as if included in the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173) and the amendment made by subsection (a)(2) \[amending this section\] shall apply to coverage for drugs dispensed on or after January 1, 2007.”
+
+#### Construction
+
+Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drug coverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii)).”
 

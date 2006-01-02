@@ -4,7 +4,3 @@ A person awarded a medal of honor shall, upon written application of that person
 
 (Added Pub. L. 107–107, div. A, title V, §553(b)(1)(A), Dec. 28, 2001, 115 Stat. 1116.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 704.
-

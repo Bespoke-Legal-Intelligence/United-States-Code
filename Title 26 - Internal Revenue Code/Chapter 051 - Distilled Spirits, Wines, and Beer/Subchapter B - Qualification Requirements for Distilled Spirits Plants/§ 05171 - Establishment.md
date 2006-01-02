@@ -70,7 +70,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627 to 
 
 Subsec. (c). Pub. L. 96–39 redesignated former subsec. (a) as (c) and inserted provisions relating to an application requirement where new operations are added and permitting the Secretary to establish minimum capacity and level of activity requirements. Former subsec. (c) redesignated (e).
 
-Subsec. (d). Pub. L. 96–39 redesignated former subsec. (b) as (d) and substituted reference to subsection (c) forreference to subsection (a) and struck out reference to section 5274.
+Subsec. (d). Pub. L. 96–39 redesignated former subsec. (b) as (d) and substituted reference to subsection (c) for reference to subsection (a) and struck out reference to section 5274.
 
 Subsec. (e). Pub. L. 96–39 redesignated former subsec. (c) as (e) and substituted reference to processor for reference to rectifier and reference to warehouseman for reference to bonded warehouseman and struck out reference to bottler.
 
@@ -113,8 +113,4 @@ Continuing Operations at Existing Premises.—With respect to any operation whic
 &emsp;“(1) the person engaged in operations at such premises is registered under such section with respect to such premises as a distiller or warehouseman, and
 
 &emsp;“(2) such premises meet the minimum capacity and level of activity requirements for that type of operation.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5172, 5178, 5601, 5681 of this title.
 

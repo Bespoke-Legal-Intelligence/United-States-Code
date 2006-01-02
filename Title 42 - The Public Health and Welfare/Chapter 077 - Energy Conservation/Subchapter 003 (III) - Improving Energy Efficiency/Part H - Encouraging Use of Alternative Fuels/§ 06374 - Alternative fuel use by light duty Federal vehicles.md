@@ -18,7 +18,13 @@
 
 &emsp;(ii) the source of the fuel to supply the vehicles, giving preference to vehicles that operate on alternative fuels derived from domestic sources.
 
-(E) Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that operation on such alternative fuels is not feasible.
+(E)(i) Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that an agency qualifies for a waiver of such requirement for vehicles operated by the agency in a particular geographic area in which—
+
+&emsp;(I) the alternative fuel otherwise required to be used in the vehicle is not reasonably available to retail purchasers of the fuel, as certified to the Secretary by the head of the agency; or
+
+&emsp;(II) the cost of the alternative fuel otherwise required to be used in the vehicle is unreasonably more expensive compared to gasoline, as certified to the Secretary by the head of the agency.
+
+(ii) The Secretary shall monitor compliance with this subparagraph by all such fleets and shall report annually to Congress on the extent to which the requirements of this subparagraph are being achieved. The report shall include information on annual reductions achieved from the use of petroleum-based fuels and the problems, if any, encountered in acquiring alternative fuels.
 
 (F) At least 50 percent of the alternative fuels used in vehicles acquired pursuant to this section shall be derived from domestic feedstocks, except to the extent inconsistent with the multilateral trade agreements (as defined in section 3501(4) of title 19). The Secretary shall issue regulations to implement this requirement. For purposes of this subparagraph, the term “domestic” has the meaning given such term in section 13211(7) of this title.
 
@@ -110,13 +116,15 @@ For purposes of this part—
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134.)
+(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
 
 #### Codification
 
 In subsec. (g)(4)(A), (5)(A), “section 32901(a)(7) of title 49” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information Cost Savings Act” and “section 32901(a)(8) of title 49” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act”, respectively, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
+
+2005—Subsec. (a)(3)(E). Pub. L. 109–58 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that operation on such alternative fuels is not feasible.”
 
 1999—Subsec. (a)(3)(F), (G). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
 
@@ -168,7 +176,7 @@ Section 4(b) of Pub. L. 100–494, which provided that this section and the amen
 
 Section 2 of Pub. L. 100–494 provided that: “The Congress finds and declares that—
 
-&emsp;“(1) the achievement of long-term energy security for the United States is essential to the health of thenational economy, the well-being of our citizens, and the maintenance of national security;
+&emsp;“(1) the achievement of long-term energy security for the United States is essential to the health of the national economy, the well-being of our citizens, and the maintenance of national security;
 
 &emsp;“(2) the displacement of energy derived from imported oil with alternative fuels will help to achieve energy security and improve air quality;
 

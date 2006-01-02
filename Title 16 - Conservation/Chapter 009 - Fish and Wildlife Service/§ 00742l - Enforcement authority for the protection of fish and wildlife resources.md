@@ -76,8 +76,6 @@ With respect to any undercover or other enforcement operation which is necessary
 
 #### References in Text
 
-The tort claim provisions of title 28, referred to in subsec. (b)(2), are the provisions of the Federal Tort Claims Act, which is classified generally to section 1346(b) and to chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
-
 This section, referred to in subsec. (d), means section 3 of Pub. L. 95–616, which in addition to enacting this section, enacted section 712 of this title and amended sections 460k–3, 668dd, 690e, 706, and 718f of this title and sections 1114 and 3112 of Title 18, Crimes and Criminal Procedure.
 
 #### Codification

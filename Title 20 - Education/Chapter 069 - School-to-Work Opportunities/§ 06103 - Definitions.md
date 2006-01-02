@@ -34,7 +34,7 @@ As used in this chapter:
 
 &emsp;&emsp;(C) typically includes at least 2 years of secondary education and at least 1 or 2 years of postsecondary education;
 
-&emsp;&emsp;(D) provides the students, to the extent practicable, with strong experience in and understanding of all aspects of the industry the students are planning to enter;
+&emsp;&emsp;(D) provides the students, to the extent practicable, with strong experience in andunderstanding of all aspects of the industry the students are planning to enter;
 
 &emsp;&emsp;(E) results in the award of—
 
@@ -44,7 +44,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) an alternative diploma or certificate for students with disabilities for whom such alternative diploma or certificate is appropriate;
 
-&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years ofpostsecondary education (if appropriate); and
+&emsp;&emsp;&emsp;(ii) a certificate or diploma recognizing successful completion of 1 or 2 years of postsecondary education (if appropriate); and
 
 &emsp;&emsp;&emsp;(iii) a skill certificate; and
 
@@ -130,11 +130,11 @@ As used in this chapter:
 
 #### (17) School dropout
 
-&emsp;The term “school dropout” means a youth who is no longer attending any school and who has not received a secondary school diploma or a certificate from a program of equivalency for such a diploma.
+&emsp;The term “school dropout” means a youth who is no longer attending any school and whohas not received a secondary school diploma or a certificate from a program of equivalency for such a diploma.
 
 #### (18) School site mentor
 
-&emsp;The term “school site mentor” means a professional employed at a school who is designated as the advocate for a particular student, and who works in consultation withclassroom teachers, counselors, related services personnel, and the employer of the student to design and monitor the progress of the School-to-Work Opportunities program of the student.
+&emsp;The term “school site mentor” means a professional employed at a school who is designated as the advocate for a particular student, and who works in consultation with classroom teachers, counselors, related services personnel, and the employer of the student to design and monitor the progress of the School-to-Work Opportunities program of the student.
 
 #### (19) School-to-Work Opportunities program
 
@@ -154,7 +154,7 @@ As used in this chapter:
 
 #### (22) Skill certificate
 
-&emsp;The term “skill certificate” means a portable, industry-recognized credential issued by a School-to-Work Opportunities program under an approved State plan, that certifies that a student has mastered skills at levels that are at least as challenging as skill standards endorsed by the National Skill Standards Board established under the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\], except that until such skill standards are developed, the term “skill certificate” means a credential issued under a process described in the approved State plan.
+&emsp;The term “skill certificate” means a portable, industry-recognized credential issued by a School-to-Work Opportunities program under an approved State plan, that certifies that a student has mastered skills at levels that are at least as challenging as skill standards endorsed by the National Skill Standards Board established under the National Skill Standards Act of 1994,<sup>1</sup> except that until such skill standards are developed, the term “skill certificate” means a credential issued under a process described in the approved State plan.
 
 #### (23) State
 
@@ -180,7 +180,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pu
 
 The Job Training Partnership Act, referred to in pars. (6), (11)(B)(xiii), and (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part B of title IV of the Act was classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor, and sections 4 and 102 of the Act were classified to sections 1503 and 1512, respectively, of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
-The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
+The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which was classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title, prior to repeal by section 509(a) of Pub. L. 103–227, effective Sept. 30, 1999. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

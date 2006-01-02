@@ -2,7 +2,7 @@
 
 #### (a) Child health assistance
 
-For purposes of this subchapter, the term “child health assistance” means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
+For purposes of this subchapter, the term “child health assistance” means payment forpart or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
 
 &emsp;(1) Inpatient hospital services.
 
@@ -98,7 +98,7 @@ For purposes of this subchapter—
 
 #### (3) Special rule
 
-&emsp;A child shall not be considered to be described in paragraph (1)(C) notwithstanding that the child is covered under a health insurance coverage program that has been in operation since before July 1, 1997, and that is offered by a State which receives no Federal funds for the program's operation.
+&emsp;A child shall not be considered to be described in paragraph (1)(C) notwithstandingthat the child is covered under a health insurance coverage program that has been in operation since before July 1, 1997, and that is offered by a State which receives no Federal funds for the program's operation.
 
 #### (4) Medicaid applicable income level
 

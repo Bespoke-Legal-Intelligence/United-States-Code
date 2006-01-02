@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;If—
 
-&emsp;&emsp;(A) the aggregate of the contributions paid during the taxable year reduced by any contributions not allowable as a deduction under paragraphs (1) and (2) of subsection (g), exceeds
+&emsp;&emsp;(A) the aggregate of the contributions paid during the taxable year reduced by any contributions not allowable as a deductionunder paragraphs (1) and (2) of subsection (g), exceeds
 
 &emsp;&emsp;(B) the amount allowable as a deduction under subsection (a) (determined without regard to subsection (d)),
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Qualified reserve plan
 
-&emsp;The term “qualified reserve plan” means a qualified foreign plan with respect to which an election made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
+&emsp;The term “qualified reserve plan” means a qualified foreign plan with respect to which anelection made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
 
 #### (g) Other special rules
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section (including regulations providing for the coordination of the provisions of this section with section 404 in the case of a plan which has been subject to both of such sections).
 
-(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI,§1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496.)
+(Added Pub. L. 96–603, §2(a), Dec. 28, 1980, 94 Stat. 3505; amended Pub. L. 99–514, title XI, §1114(b)(8), title XVIII, §1851(b)(2)(C)(iii), Oct. 22, 1986, 100 Stat. 2451, 2863; Pub. L. 100–647, title I, §1012(b)(4), Nov. 10, 1988, 102 Stat. 3496.)
 
 #### Amendments
 
@@ -216,7 +216,7 @@ Subsec. (g)(1)(A). Pub. L. 99–514, §1114(b)(8), substituted “a highly compe
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -301,10 +301,6 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 419, 467, 6048, 6689 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

@@ -6,7 +6,7 @@ Establishment.—The Secretary of Defense shall establish a program for analysis
 
 (b)
 
-Supervision of Program.—The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Acquisition,Technology, and Logistics. In carrying out the program, the Under Secretary shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
+Supervision of Program.—The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Acquisition, Technology, and Logistics. In carrying out the program, the Under Secretary shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
 
 (c)
 
@@ -52,7 +52,7 @@ A prior section 2503, added Pub. L. 100–456, div. A, title VIII, §821(b)(1)(B
 
 “(4) The Secretary of Defense shall ensure that there is appropriate coordination between the program and the Critical Technologies Institute.”
 
-Subsec. (c)(3)(A). Pub. L. 104–201, §829(b)(2), substituted “the Secretary of Defense for” for “the National Defense Technology and Industrial Base Council in” and struck out “and the periodic plans required by section 2506 of this title” after “section 2505 of this title”.
+Subsec. (c)(3)(A). Pub. L. 104–201, §829(b)(2), substituted “the Secretary of Defense for” for “the National Defense Technology and Industrial Base Councilin” and struck out “and the periodic plans required by section 2506 of this title” after “section 2505 of this title”.
 
 #### Deadline for Establishing Program
 

@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credits or refunds
 
-Credit or refund of any overpayment of tax imposed by section 4251, 4261, or 4271 may be allowed to the person who collected the tax and paid it to the Secretary if such person establishes, under such regulations as the Secretary may prescribe, that he has repaid the amount of such tax to the person from whom he collected it, or obtains the consent of such person to the allowance of such credit or refund.
+Credit or refund of any overpayment of tax imposed by section 4251, 4261, or 4271 may be allowed to the person who collected the tax and paid it to the Secretary if such person establishes, under such regulations as the Secretarymay prescribe, that he has repaid the amount of such tax to the person from whom he collected it, or obtains the consent of such person to the allowance of such credit or refund.
 
 #### (b) Credit on returns
 
@@ -49,8 +49,4 @@ Section 4(c) of Pub. L. 85–475, as amended by Pub. L. 99–514, §2, Oct. 22, 
 “(1) Except as provided in paragraph (2), the repeals and amendments made by subsections (a) and (b) \[repealing sections 4271 to 4273 and 4281 to 4283 of this title and amending this section and sections 4292, 6416, 7012, and 7272 of this title\] shall apply only with respect to amounts paid on or after August 1, 1958.
 
 “(2) In the case of transportation with respect to which the second sentence of section 4281 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies, the repeals and amendments made by subsections (a) and (b) \[repealing sections 4271 to 4273 and 4281 to 4283 of this title and amending this section and sections 4292, 6416, 7012, and 7272 of this title\] shall apply only if the transportation begins on or after August 1, 1958.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9502 of this title.
 

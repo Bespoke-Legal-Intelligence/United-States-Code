@@ -30,7 +30,7 @@
 
 (g) The Office shall prescribe regulations to provide that the amount of any monthly annuity payable under this section accruing for any month and which is computed with regard to service that includes any service referred to in section 8332(b)(6) performed by an individual prior to January 1, 1969, shall be reduced by the portion of any benefits under any State retirement system to which such individual is entitled (or on proper application would be entitled) for such month which is attributable to such service performed by such individual before such date.
 
-(h) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposesas the Office of Personnel Management in its sole discretion considers appropriate.
+(h) An individual entitled to an annuity from the Fund may make allotments or assignments of amounts from his annuity for such purposes as the Office of Personnel Management in its sole discretion considers appropriate.
 
 (i)(1) No payment shall be made from the Fund unless an application for benefits based on the service of an employee or Member is received in the Office of Personnel Management before the one hundred and fifteenth anniversary of his birth.
 
@@ -44,7 +44,7 @@
 
 > In the event that the Office is served with more than 1 decree, order, or other legal process with respect to the same moneys due or payable to any individual, such moneys shall be available to satisfy such processes on a first-come, first-served basis, with any such process being satisfied out of such moneys as remain after the satisfaction of all such processes which have been previously served.
 
-(2) Paragraph (1) shall only apply to payments made by the Office under this subchapter after the date of receipt in the Office of written notice of such decree, order, other legal process, or agreement, and such additional information and documentation as the Office may prescribe.
+(2) Paragraph (1) shall only apply to payments made by the Office under this subchapter after the date of receipt in the Office of written notice of such decree, order, other legal process, oragreement, and such additional information and documentation as the Office may prescribe.
 
 (3) For the purpose of this subsection—
 

@@ -46,7 +46,7 @@
 | [2327\.](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md) | Contracts: consideration of national security objectives. |
 | [2328\.](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md) | Release of technical data under Freedom of Information Act: recovery of costs. |
 | \[2329. | Repealed.\] |
-| [2330\.](%C2%A7%2002330%20-%20Procurement%20of%20services%20management%20structure.md) | Procurement of services: management structure. |
+| [2330\.](%C2%A7%2002330%20-%20Procurement%20of%20contract%20services%20management%20structure.md) | Procurement of contract services: management structure. |
 | [2330a.](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md) | Procurement of services: tracking of purchases. |
 | [2331\.](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md) | Procurement of services: contracts for professional and technical services. |
 | [2332\.](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md) | Share-in-savings contracts. |
@@ -54,6 +54,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title VIII, §812(a)(2), Jan. 6, 2006, 119 Stat. 3378, substituted “Procurement of contract services: management structure” for “Procurement of services: management structure” in item 2330.
 
 2002—Pub. L. 107–347, title II, §210(a)(2), Dec. 17, 2002, 116 Stat. 2934, added item 2332.
 
@@ -105,10 +107,6 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 
 1980—Pub. L. 96–513, title V, §511(75), Dec. 12, 1980, 94 Stat. 2926, inserted “formal” before “advertising” in item 2304.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 167, 167a, 1060a, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 6 section 426; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 113; title 41 section 421; title 42 sections 13556, 14713, 14715, 14732.
-
 
 ---
 
@@ -158,7 +156,7 @@ This chapter is referred to in sections 167, 167a, 1060a, 2350b, 2350d, 2373, 28
 - [&sect; 02327 - Contracts consideration of national security objectives](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md)
 - [&sect; 02328 - Release of technical data under Freedom of Information Act recovery of costs](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md)
 - [&sect; 02329 - Repealed. Pub. L. 103&#8211;355, title I, &sect;1506(a), Oct. 13, 1994, 108 Stat. 3298](%C2%A7%2002329%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71506%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203298.md)
-- [&sect; 02330 - Procurement of services management structure](%C2%A7%2002330%20-%20Procurement%20of%20services%20management%20structure.md)
+- [&sect; 02330 - Procurement of contract services management structure](%C2%A7%2002330%20-%20Procurement%20of%20contract%20services%20management%20structure.md)
 - [&sect; 02330a - Procurement of services tracking of purchases](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md)
 - [&sect; 02331 - Procurement of services contracts for professional and technical services](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md)
 - [&sect; 02332 - Share-in-savings contracts](%C2%A7%2002332%20-%20Share-in-savings%20contracts.md)

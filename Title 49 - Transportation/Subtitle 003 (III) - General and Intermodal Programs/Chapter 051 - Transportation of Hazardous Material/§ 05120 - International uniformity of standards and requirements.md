@@ -6,17 +6,17 @@ Participation in International Forums.—Subject to guidance and direction from 
 
 (b)
 
-Consultation.—The Secretary of Transportation may consult with interested authorities to ensure that, to the extent practicable, regulations the Secretary prescribes under sections 5103(b), 5104, 5110, and 5112 of this title are consistent with standards related to transporting hazardous material that international authorities adopt.
+Consultation.—The Secretary may consult with interested authorities to ensure that, to the extent practicable, regulations the Secretary prescribes under sections 5103(b), 5104, 5110, and 5112 of this title are consistent with standards and requirements related to transporting hazardous material that international authorities adopt.
 
 (c)
 
 Differences With International Standards and Requirements.—This section—
 
-&emsp;(1) does not require the Secretary of Transportation to prescribe a standard identical to a standard adopted by an international authority if the Secretary decides the standard is unnecessary or unsafe; and
+&emsp;(1) does not require the Secretary to prescribe a standard or requirement identical to a standard or requirement adopted by an international authority if the Secretary decides the standard or requirement is unnecessary or unsafe; and
 
-&emsp;(2) does not prohibit the Secretary from prescribing a safety requirement more stringent than a requirement included in a standard adopted by an international authority if the Secretary decides the requirement is necessary in the public interest.
+&emsp;(2) does not prohibit the Secretary from prescribing a safety standard or requirement more stringent than a standard or requirement adopted by an international authority if the Secretary decides the standard or requirement is necessary in the public interest.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 778.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 778; Pub. L. 109–59, title VII, §§7117, 7126, Aug. 10, 2005, 119 Stat. 1902, 1909.)
 
 Historical and Revision Notes
 
@@ -41,4 +41,16 @@ Jan. 3, 1975, Pub. L. 93–633, §105(d), 88 Stat. 2157; restated Nov. 16, 1990,
 5120(c)
 
 49 App.:1804(d)(2) (last sentence).
+
+#### Amendments
+
+2005—Subsec. (b). Pub. L. 109–59, §7126, substituted “Secretary may” for “Secretary of Transportation may”.
+
+Pub. L. 109–59, §7117(a), inserted “and requirements” after “standards”.
+
+Subsec. (c)(1). Pub. L. 109–59, §7126, substituted “Secretary to prescribe” for “Secretary of Transportation to prescribe”.
+
+Pub. L. 109–59, §7117(b)(1), inserted “or requirement” after “standard” wherever appearing.
+
+Subsec. (c)(2). Pub. L. 109–59, §7117(b)(2), struck out “included in a standard” before “adopted” and inserted “standard or” before “requirement” wherever appearing.
 

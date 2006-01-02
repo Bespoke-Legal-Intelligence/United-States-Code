@@ -332,7 +332,9 @@ In general.—Not later than 90 days after the date on which the Assistant Secre
 
 Requirements.—The requirements of subparagraph (C)(iii) shall apply to this subparagraph.
 
-&emsp;&emsp;&emsp;(iii) No fly and automatic selectee lists.—The Secretary of Homeland Security, in consultation with the Terrorist Screening Center, shall design and review, as necessary, guidelines, policies, and operating procedures for the collection, removal, and updating of data maintained, or to be maintained, in the no fly and automatic selectee lists.
+&emsp;&emsp;&emsp;(iii)
+
+No fly and automatic selectee lists.—The Secretary of Homeland Security, in consultation with the Terrorist Screening Center, shall design and review, as necessary, guidelines, policies, and operating procedures for the collection, removal, and updating of data maintained, or to be maintained, in the no fly and automatic selectee lists.
 
 &emsp;&emsp;(F)
 
@@ -364,7 +366,7 @@ Air Charter Program.—
 
 &emsp;(1)
 
-In general.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall implement an aviation security program for charterair carriers (as defined in section 40102(a)) with a maximum certificated takeoff weight of more than 12,500 pounds.
+In general.—The Under Secretary for Border and Transportation Security of the Department of Homeland Security shall implement an aviation security program for charter air carriers (as defined in section 40102(a)) with a maximum certificated takeoff weight of more than 12,500 pounds.
 
 &emsp;(2)
 
@@ -428,7 +430,7 @@ In this section, the word “passengers” is substituted for “persons” for 
 
 In subsection (a)(2), the words “the degree of” are substituted for “such” for clarity.
 
-In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” are omitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and “any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
+In subsection (b), before clause (1), the word “rules” is omitted as being synonymous with “regulations”. The words “such reasonable . . . requiring such practices, methods, and procedures, or governing the design, materials, and construction of aircraft, as he may deem necessary” are omitted as surplus. The word “air” after “intrastate” is added for clarity and consistency. The words “and amending” are omitted as surplus. In clause (1), the words “the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities” are substituted for “such other Federal, State, and local agencies” for consistency in the revised title and with other titles of the United States Code. The words “as he may deem appropriate” are omitted as surplus. In clause (2)(A), the words “in air transportation or intrastate air transportation against acts of criminal violence and aircraft piracy” are omitted as surplus. In clause (3), before subclause (A), the words “inspection” and “in air transportation and intrastate air transportation” are omitted as surplus. In subclause (B), the words “that they will receive” and“any air transportation security program established under” are omitted as surplus. In clause (4), the words “contribute to . . . the purposes of” are omitted as surplus.
 
 In subsection (c)(1), the words “traveling in air transportation or intrastate air transportation from acts of criminal violence and aircraft piracy” and “whose services are made available by their employers” are omitted as surplus. The words “department, agency, or instrumentality of the Government” are substituted for “Federal department or agency” for consistency in the revised title and with other titles of the Code. The word “When” is substituted for “In any case in which” to eliminate unnecessary words. The words “receipt of”, “by order”, “the services of”, “directly”, and “at the airport concerned in such numbers and for such period of time as the Administrator may deem necessary” are omitted as surplus. The words “When deciding whether additional personnel are needed” are substituted for “In making the determination referred to in the preceding sentence” for clarity.
 
@@ -604,7 +606,7 @@ Implementation of Other Methods.—As soon as possible after such date of enactm
 
 “(c)
 
-Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportation or intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regions where there is minimal threat to aviation security or national security.”
+Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportationor intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regions where there is minimal threat to aviation security or national security.”
 
 #### Small and Medium Airports
 
@@ -690,7 +692,7 @@ In General.—In order to ensure physical security at Federal Aviation Administr
 
 “(b)
 
-Reports.—Not later than April 30, 2001, and annually thereafter through April 30, 2004, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress being made in improving the physical security of air traffic control facilities, including the percentage of such facilities that have been granted physical security accreditation.”
+Reports.—Not later than April 30, 2001, and annually thereafter through April 30, 2004, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress beingmade in improving the physical security of air traffic control facilities, including the percentage of such facilities that have been granted physical security accreditation.”
 
 #### Deputizing of State and Local Law Enforcement Officers
 

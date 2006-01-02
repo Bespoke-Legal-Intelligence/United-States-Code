@@ -4,19 +4,19 @@
 
 Representation.—A person may represent, by marking or otherwise, that—
 
-&emsp;(1) a container, package, or packaging (or a component of a container, package, or packaging) for transporting hazardous material is safe, certified, or complies with this chapter only if the container, package, or packaging (or a component of a container, package, or packaging) meets the requirements of each applicable regulation prescribed under this chapter; or
+&emsp;(1) a package, component of a package, or packaging for transporting hazardous material is safe, certified, or complies with this chapter only if the package, component of a package, or packaging meets the requirements of each applicable regulation prescribed under this chapter; or
 
 &emsp;(2) hazardous material is present in a package, container, motor vehicle, rail freight car, aircraft, or vessel only if the material is present.
 
 (b)
 
-Tampering.—A person may not alter, remove, destroy, or otherwise tamper unlawfully with—
+Tampering.—No person may alter, remove, destroy, or otherwise tamper unlawfully with—
 
 &emsp;(1) a marking, label, placard, or description on a document required under this chapter or a regulation prescribed under this chapter; or
 
-&emsp;(2) a package, container, motor vehicle, rail freight car, aircraft, or vessel used to transport hazardous material.
+&emsp;(2) a package, component of a package, or packaging, container, motor vehicle, rail freight car, aircraft, or vessel used to transport hazardous material.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(b), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(4), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(b), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(4), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 109–59, title VII, §7106, Aug. 10, 2005, 119 Stat. 1897.)
 
 Historical and Revision Notes
 
@@ -49,6 +49,12 @@ In subsection (b), before clause (1), the word “deface” is omitted as surplu
 This amends 49:5104(a)(1) to clarify the restatement of 49 App.:1804(e)(1) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 761).
 
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59, §7106(a), substituted “a package, component of a package, or packaging for” for “a container, package, or packaging (or a component of a container, package, or packaging) for” and “the package, component of a package, or packaging meets” for “the container, package, or packaging (or a component of a container, package, or packaging) meets”.
+
+Subsec. (b). Pub. L. 109–59, §7106(b)(1), substituted “No person may” for “A person may not” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 109–59, §7106(b)(2), inserted “component of a package, or packaging,” after “package,”.
 
 1994—Subsec. (a)(1). Pub. L. 103–429 inserted “applicable” after “each”.
 

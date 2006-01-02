@@ -54,7 +54,7 @@ If the Board (or any member thereof or any individual employed by the Board and 
 
 #### (h) Findings of fact requiring dismissal of complaint
 
-If the individual or individuals conducting the hearing determine that the preponderance of the evidence received fails to demonstrate that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
+If the individual or individuals conducting the hearing determine that the preponderance of theevidence received fails to demonstrate that the Department or labor organization named in the complaint has engaged in or is engaging in an unfair labor practice, the individual or individuals shall state in writing their findings of fact and shall issue an order dismissing the complaint.
 
 (Pub. L. 96–465, title I, §1016, Oct. 17, 1980, 94 Stat. 2139.)
 

@@ -12,23 +12,9 @@ For purposes of this part—
 
 &emsp;&emsp;(B) section 904 were applied on the basis of alternative minimum taxable income instead of taxable income, and
 
-&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis ofthe applicable rate specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies).
+&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies).
 
-#### (2) Limitation to 90 percent of tax
-
-#### (A) In general
-
-&emsp;&emsp;The alternative minimum tax foreign tax credit for any taxable year shall not exceed the excess (if any) of—
-
-&emsp;&emsp;&emsp;(i) the pre-credit tentative minimum tax for the taxable year, over
-
-&emsp;&emsp;&emsp;(ii) 10 percent of the amount which would be the pre-credit tentative minimum tax without regard to the alternative tax net operating loss deduction and section 57(a)(2)(E).
-
-#### (B) Carryback and carryforward
-
-&emsp;&emsp;If the alternative minimum tax foreign tax credit exceeds the amount determined under subparagraph (A), such excess shall, for purposes of this part, be treated as an amount to which section 904(c) applies.
-
-#### (3) Pre-credit tentative minimum tax
+#### (2) Pre-credit tentative minimum tax
 
 &emsp;For purposes of this subsection, the term “pre-credit tentative minimum tax” means—
 
@@ -36,7 +22,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) in the case of a corporation, the amount determined under section 55(b)(1)(B)(i).
 
-#### (4) Election to use simplified section 904 limitation
+#### (3) Election to use simplified section 904 limitation
 
 #### (A) In general
 
@@ -174,13 +160,15 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 > &emsp;If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514.)
 
-#### Adjustment of Alternative Minimum Tax Exemption Amount for Taxable Years Beginning in 2004
+#### Adjustment of Alternative Minimum Tax Exemption Amount for Taxable Years Beginning in 2006
 
-<i>For adjustment of alternative minimum tax exemption amount under subsection (j) of this section in the case of a child to whom the</i><i>“kiddie tax” applies for taxable years beginning in 2004, see section 3.08 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of alternative minimum tax exemption amount under subsection (j) of this section in the case of a child to whom the “kiddie tax” applies for taxable years beginning in 2006, see section 3.08 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendments
+
+2004—Subsec. (a)(2) to (4). Pub. L. 108–357 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to limitation on alternative minimum tax foreign tax credit and carryback and carryforward of excess.
 
 1998—Subsec. (a)(3), (4). Pub. L. 105–206, §6011(a), redesignated par. (3), relating to election to use simplified section 904 limitation, as (4).
 
@@ -260,6 +248,10 @@ Subsec. (i). Pub. L. 100–647, §1007(e)(4), inserted “(other than this part)
 
 Subsec. (j). Pub. L. 100–647, §1014(e)(5)(A), added subsec. (j).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 421(b) of Pub. L. 108–357, set out as a note under section 53 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 6023(2) of Pub. L. 105–206 effective July 22, 1998, see section 6023(32) of Pub. L. 105–206, set out as a note under section 34 of this title.
@@ -326,7 +318,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Consideration of Certain Taxes Treated as Paid or Accrued Under Section 904(c) in Determination of Alternative Minimum Tax Foreign Tax Credit
 
@@ -335,8 +327,4 @@ Section 1007(f)(5) of Pub. L. 100–647 provided that: “In determining the amo
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting this section\] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 53, 173, 174, 263, 263A, 616, 617, 904, 1016 of this title.
 

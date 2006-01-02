@@ -154,7 +154,7 @@ Identification of Agents and Illnesses.—(1) Under the agreement under subsecti
 
 “(d)
 
-Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards, or preventive medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
+Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards, or preventive medicines or vaccines to which membersof the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
 
 &emsp;“(A) The following organophosphorous pesticides:
 
@@ -340,7 +340,7 @@ Sections 102 to 105, 107, 109, and 110 of title I of Pub. L. 103–446, as amend
 
 &emsp;“(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs.
 
-&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater ofoperations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
+&emsp;“(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined.
 
 &emsp;“(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay.
 
@@ -484,7 +484,7 @@ Study of Health Consequences of Persian Gulf Service.—If the National Academy 
 
 “(b)
 
-Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection\(a), (B) oversight of such research, and (C) review of the research findings.
+Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings.
 
 “(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement.
 
@@ -512,7 +512,7 @@ Ex. Ord. No. 13034, Jan. 30, 1997, 62 F.R. 5137, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Extension</i>. The Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”), established pursuant to Executive Order 12961 \[set out above\] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President's designation of a Chairperson, shall remain in effect. The limitations set forth in section 2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
+Section 1. <i>Extension</i>. The Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”), established pursuant to Executive Order 12961 \[set out above\] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President's designation of a Chairperson, shall remain in effect. The limitations set forth in section2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
 
 Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President through the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services.
 

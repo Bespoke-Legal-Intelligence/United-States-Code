@@ -32,10 +32,6 @@
 
 1986—Pub. L. 99–348, title III, §304(b)(1), July 1, 1986, 100 Stat. 703, added item 1338.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1053, 1063, 1076, 1076c, 1331, 1370, 1407, 1409, 1447, 1452, 1463, 4342, 6954, 9342, 10153, 12307, 12308, 12319, 12605, 14901, 14905 of this title; title 5 sections 8332, 8411, 9001; title 38 sections 1965, 2301, 2306, 2402; title 50 section 2082.
-
 
 ---
 

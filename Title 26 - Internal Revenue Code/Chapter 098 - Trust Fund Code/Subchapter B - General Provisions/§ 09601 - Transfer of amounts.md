@@ -4,7 +4,3 @@ The amounts appropriated by any section of subchapter A to any Trust Fund establ
 
 (Added Pub. L. 97–119, title I, §103(a), Dec. 29, 1981, 95 Stat. 1638.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 19 section 3539; title 42 section 1395i.
-

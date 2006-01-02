@@ -28,7 +28,7 @@ The internal revenue laws, referred to in subsec. (a), are classified generally 
 
 &emsp;“(2) a summary of the issues raised by the public comments in response to the initial regulatory flexibility analysis, a summary of the assessment of the agency of such issues, and a statement of any changes made in the proposed rule as a result of such comments; and
 
-&emsp;“(3) a description of each of the significant alternatives to the rule consistent with the stated objectives of applicable statutes and designed to minimize any significant economic impact of the rule on small entities which was considered by the agency, and a statement of the reasons why each one of such alternatives was rejected.”
+&emsp;“(3) a description of each of the significant alternatives to the rule consistent with the stated objectives of applicable statutes and designed to minimize any significant economic impact of the rule on smallentities which was considered by the agency, and a statement of the reasons why each one of such alternatives was rejected.”
 
 Subsec. (b). Pub. L. 104–121, §241(b)(2), substituted “such analysis or a summary thereof.” for “at the time of publication of the final rule under section 553 of this title a statement describing how the public may obtain such copies.”
 

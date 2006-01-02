@@ -10,7 +10,7 @@ Section 1 of Pub. L. 92–70 provided that: “This Act \[enacting this chapter\
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315, provided that:
 
 #### “CHAPTER 1
 
@@ -166,7 +166,7 @@ Salaries and Administrative Expenses.—For necessary expenses to administer the
 
 “(k)
 
-Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2005.
+Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2007.
 
 “(<i>l</i>)
 
@@ -248,7 +248,7 @@ Qualified oil and gas company.—The term ‘qualified oil and gas company’ me
 
 &emsp;&emsp;&emsp;“(i) an independent oil and gas company (within the meaning of section 57(a)(2)(B)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 57(a)(2)(B)(i)\]); or
 
-&emsp;&emsp;&emsp;“(ii) a small business concern under section 3 of the Small Business Act (15 U.S.C. 632) (or a company based in Alaska, including an Alaska Native Corporation created pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)) that is an oil field service company whosemain business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
+&emsp;&emsp;&emsp;“(ii) a small business concern under section 3 of the Small Business Act (15 U.S.C. 632) (or a company based in Alaska, including an Alaska Native Corporation created pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)) that is an oil field service company whose main business is providing tools, products, personnel, and technical solutions on a contractual basis to exploration and production operators that drill, complete wells, and produce, transport, refine, and sell hydrocarbons and their byproducts as the main commercial business of the concern or company; and
 
 &emsp;&emsp;“(B) has experienced layoffs, production losses, or financial losses since the beginning of the oil import crisis, after January 1, 1997.
 

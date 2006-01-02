@@ -18,7 +18,7 @@ Radio Free Asia shall—
 
 Any grant agreement or grants under this section shall be subject to the following limitations and restrictions:
 
-&emsp;(1) The Board may not make any grant to Radio Free Asia unless the headquarters of Radio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
+&emsp;(1) The Board may not make any grant to Radio Free Asia unless the headquarters ofRadio Free Asia and its senior administrative and managerial staff are in a location which ensures economy, operational effectiveness, and accountability to the Board.
 
 &emsp;(2) Any grant agreement under this section shall require that any contract entered into by Radio Free Asia shall specify that all obligations are assumed by Radio Free Asia and not by the United States Government, and shall further specify that funds to carry out the activities of Radio Free Asia may not be available after September 30, 2009.
 
@@ -62,7 +62,7 @@ Nothing in this chapter may be construed to make Radio Free Asia a Federal agenc
 
 #### Amendments
 
-1999—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation ofRadio Free Asia prior to the awarding of a grant to carry out this section.
+1999—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation of Radio Free Asia prior to the awarding of a grant to carry out this section.
 
 Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(A)\], struck out “(A)” after “(1)” and struck out subpar. (B) which read as follows: “Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of Radio Free Asia who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C.”
 

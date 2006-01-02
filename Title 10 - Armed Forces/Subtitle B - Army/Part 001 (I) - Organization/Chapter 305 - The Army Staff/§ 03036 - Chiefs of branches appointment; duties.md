@@ -40,7 +40,7 @@
 
 &emsp;(4) to the extent that the Secretary considers advisable, the name of each regular or reserve officer on active duty in a grade above lieutenant colonel who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment.
 
-> From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines toappoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendations for the grade of brigadier general or major general under section 3306 or 3307 of this title.
+> From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendations for the grade of brigadier general or major general under section 3306 or 3307 of this title.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 163; Pub. L. 89–288, §1, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §24, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 97–295, §1(38), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 99–662, title IX, §922, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 100–26, §7(a)(10), Apr. 21, 1987, 101 Stat. 278; Pub. L. 102–580, title II, §211, Oct. 31, 1992, 106 Stat. 4831; Pub. L. 104–106, div. A, title V, §506(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 104–201, div. A, title X, §1074(a)(18), Sept. 23, 1996, 110 Stat. 2660.)
 
@@ -146,7 +146,7 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 > for “and may provide”, which resulted in the creation of an incomplete sentence.
 
-1982—Subsec. (d). Pub. L. 97–295 substituted “Secretary of the Army” for “Secretary” and inserted provision that, under the supervision of the Secretary, theChief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States and may provide any part of those services by contract.
+1982—Subsec. (d). Pub. L. 97–295 substituted “Secretary of the Army” for “Secretary” and inserted provision that, under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States and may provide any part of those services by contract.
 
 1966—Subsec. (a). Pub. L. 89–718 struck out cls. (2) to (8) naming the Chief Signal Officer, Adjutant General, Quartermaster General, Chief of Finance, Chief of Ordnance, Chief Chemical Officer, and Chief of Transportation respectively, and redesignated cls. (9) to (11) as (2) to (4), respectively.
 
@@ -193,8 +193,4 @@ J. C. Lambert,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <i>Major General, U.S. Army, </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 The Adjutant General.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3039, 12009 of this title.
 

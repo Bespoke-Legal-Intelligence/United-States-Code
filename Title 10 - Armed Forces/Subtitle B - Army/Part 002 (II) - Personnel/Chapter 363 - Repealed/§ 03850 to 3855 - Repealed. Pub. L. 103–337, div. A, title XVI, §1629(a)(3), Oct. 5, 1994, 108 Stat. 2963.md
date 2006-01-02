@@ -10,7 +10,7 @@ Section 3853, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1486; ame
 
 Section 3854, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1486, authorized Secretary of the Army to prescribe regulations to carry out this chapter.
 
-Section 3855, added Pub. L. 86–559, §1(31), June 30, 1960, 74 Stat. 273; amended Pub. L. 96–107, title IV, §403(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title II, §215(a), Dec. 12, 1980, 94 Stat. 2885; Pub. L. 100–180, div. A, title VII, §717(a), (d)(1)(A), Dec. 4, 1987, 101 Stat. 1113, 1114; Pub. L. 101–189, div. A, title VII, §§710(a), 711(a), Nov. 29, 1989, 103 Stat. 1476, 1477, related to retention in active status of certain reserve officers. See section 14703(a)(1), (b) of this title.
+Section 3855, added Pub. L. 86–559, §1(31), June 30, 1960, 74 Stat. 273; amended Pub. L. 96–107, title IV, §403(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title II, §215(a), Dec. 12, 1980, 94 Stat. 2885; Pub. L. 100–180, div.A, title VII, §717(a), (d)(1)(A), Dec. 4, 1987, 101 Stat. 1113, 1114; Pub. L. 101–189, div. A, title VII, §§710(a), 711(a), Nov. 29, 1989, 103 Stat. 1476, 1477, related to retention in active status of certain reserve officers. See section 14703(a)(1), (b) of this title.
 
 #### Effective Date of Repeal
 

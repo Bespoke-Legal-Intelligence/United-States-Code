@@ -84,7 +84,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The gross per capita medicaid expenditures for prescription drugs for 2003 under this subparagraph is equal to the expenditures, including dispensing fees, for the State under this subchapter during 2003 for covered outpatient drugs, determined per full-benefit-dual-eligible-individual for such individuals not receiving medical assistance for such drugs through a medicaid managed care plan.
+&emsp;&emsp;&emsp;The gross per capita medicaid expenditures for prescription drugs for 2003 underthis subparagraph is equal to the expenditures, including dispensing fees, for the State under this subchapter during 2003 for covered outpatient drugs, determined per full-benefit-dual-eligible-individual for such individuals not receiving medical assistance for such drugs through a medicaid managed care plan.
 
 #### (ii) Determination
 
@@ -92,7 +92,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 &emsp;&emsp;&emsp;&emsp;(I) use data from the Medicaid Statistical Information System (MSIS) and other available data;
 
-&emsp;&emsp;&emsp;&emsp;(II) exclude expenditures attributable to covered outpatient prescription drugs that are not covered part D drugs (as defined in section 1395w–102(e) of this title); and
+&emsp;&emsp;&emsp;&emsp;(II) exclude expenditures attributable to covered outpatient prescription drugs that are not covered part D drugs (as defined in section 1395w–102(e) of this title, including drugs described in subparagraph (K) of section 1396r–8(d)(2) of this title); and
 
 &emsp;&emsp;&emsp;&emsp;(III) reduce such expenditures by the product of such portion and the adjustment factor (described in clause (iii)).
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (2) Coverage of certain excludable drugs
 
-&emsp;In the case of medical assistance under this subchapter with respect to a covered outpatient drug (other than a covered part D drug) furnished to an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII of this chapter or an MA–PD plan under part C of such subchapter, the State may elect to provide such medical assistance in the manner otherwise provided in the case of individuals who are not full-benefit dual eligible individuals or through an arrangement with such plan.
+&emsp;In the case of medical assistance under this subchapter with respect to a covered outpatient drug (other than a covered part D drug) furnished to an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII of this chapter or an MA–PD plan under part C of such subchapter, the State may elect to provide such medicalassistance in the manner otherwise provided in the case of individuals who are not full-benefit dual eligible individuals or through an arrangement with such plan.
 
 #### (e) Treatment of territories
 
@@ -200,7 +200,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 &emsp;&emsp;&emsp;(ii) the ratio (as estimated by the Secretary) of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the number of individuals who are entitled to benefits under part A <sup>1</sup> or enrolled under part B <sup>1</sup> and who reside in the State (as determined by the Secretary based on the most recent available data before the beginning of the year); to
+&emsp;&emsp;&emsp;&emsp;(I) the number of individuals who are entitled to benefits under part A <sup>2</sup> or enrolled under part B <sup>2</sup> and who reside in the State (as determined by the Secretary based on the most recent available data before the beginning of the year); to
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of such numbers for all States that submit a plan described in paragraph (2).
 
@@ -218,7 +218,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 &emsp;The Secretary shall submit to Congress a report on the application of this subsection and may include in the report such recommendations as the Secretary deems appropriate.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158.)
+(Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093.)
 
 #### References in Text
 
@@ -236,6 +236,8 @@ A prior section 1935 of act Aug. 14, 1935, was renumbered section 1936 and is cl
 
 #### Amendments
 
+2005—Subsec. (c)(3)(B)(ii)(II). Pub. L. 109–91 inserted “, including drugs described in subparagraph (K) of section 1396r–8(d)(2) of this title” after “section 1395w–102(e) of this title”.
+
 2003—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted “subject to subsection (e) of this section” after “section 1396b(a) of this title” in introductory provisions.
 
 Subsec. (c). Pub. L. 108–173, §103(b), added subsec. (c).
@@ -246,5 +248,11 @@ Subsec. (d). Pub. L. 108–173, §103(c), added subsec. (d).
 
 Subsec. (e). Pub. L. 108–173, §103(d)(1)(C), added subsec. (e).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–91 applicable to drugs dispensed on or after Jan. 1, 2006, see section 104(d) of Pub. L. 109–91, set out as a note under section 1396b of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

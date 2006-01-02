@@ -32,7 +32,7 @@ The purposes of this chapter are—
 
 #### (c) Limitations
 
-Nothing in this chapter shall be construed to require quality standards for limes, control theproduction of limes, or otherwise limit the right of the individual producers to produce limes.
+Nothing in this chapter shall be construed to require quality standards for limes, control the production of limes, or otherwise limit the right of the individual producers to produce limes.
 
 (Pub. L. 101–624, title XIX, §1952, Nov. 28, 1990, 104 Stat. 3870.)
 

@@ -6,7 +6,7 @@ Notwithstanding section 3302 of title 31 or any other law or limitation of autho
 
 #### (b) Fees and receipts described
 
-The fees and receipts described in this subsection are fees and payments received by or forthe use of the United States Information Agency from or in connection with—
+The fees and receipts described in this subsection are fees and payments received by or for the use of the United States Information Agency from or in connection with—
 
 &emsp;(1) English-teaching and library services,
 

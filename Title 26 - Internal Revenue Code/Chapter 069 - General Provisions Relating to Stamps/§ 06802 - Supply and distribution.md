@@ -32,7 +32,3 @@ Amendment by Pub. L. 89–44 to take effect in a manner consistent with effectiv
 
 Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6803 of this title.
-

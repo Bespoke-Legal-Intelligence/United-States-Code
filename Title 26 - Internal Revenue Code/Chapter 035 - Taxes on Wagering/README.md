@@ -13,10 +13,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6103, 6419 of this title; title 25 section 2719.
-
 
 ---
 

@@ -30,7 +30,7 @@ Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
 (b)
 
-Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup> under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
+Establishment of Fund.—There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund <sup>1</sup>under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
 
 (c)
 
@@ -232,7 +232,7 @@ Responsibility of organization to account for expenditures of surcharges.—Each
 
 &emsp;&emsp;(D)
 
-Submission of audit report.—Not later than 90 days after the end of any fiscal year of a designated recipient organization for which an audit is required under subparagraph (A), the organization shall—
+Submission of audit report.—Not later than 90 days after the end of any fiscalyear of a designated recipient organization for which an audit is required under subparagraph (A), the organization shall—
 
 &emsp;&emsp;&emsp;(i) submit a copy of the report to the Secretary of the Treasury; and
 
@@ -352,7 +352,7 @@ In general.—As soon as practicable after the end of fiscal year 1992, the Secr
 
 &emsp;&emsp;“(ii) to provide working capital for Mint numismatic operations and programs; and
 
-&emsp;“(B) all numismatic receivables, and the numismatic operations and programs (including liabilitiesand other obligations) of the United States Mint, and the land and buildings of the San Francisco Mint, the Old San Francisco Mint, and the West Point Mint, capitalized at current book value as carried in the Mint combined statement of financial condition.
+&emsp;“(B) all numismatic receivables, and the numismatic operations and programs (including liabilities and other obligations) of the United States Mint, and the land and buildings of the San Francisco Mint, the Old San Francisco Mint, and the West Point Mint, capitalized at current book value as carried in the Mint combined statement of financial condition.
 
 “(2)
 

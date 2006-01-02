@@ -12,7 +12,7 @@ The Trade and Development Agency shall be an agency of the United States under t
 
 #### (2) Use of funds
 
-&emsp;Funds under this section may be used to provide support for feasibility studies for the planning, development, and management of, and procurement for, bilateral and multilateral development projects, including training activities undertaken in connection with a project, for the purpose of promoting the use of United States goods and services in such projects. Funds under this section may also be used for architectural and engineering design, including—
+&emsp;Funds under this section may be used to provide support for feasibility studies for the planning, development, and management of,and procurement for, bilateral and multilateral development projects, including training activities undertaken in connection with a project, for the purpose of promoting the use of United States goods and services in such projects. Funds under this section may also be used for architectural and engineering design, including—
 
 &emsp;&emsp;(A) concept design, which establishes the basic technical and operational criteria for a project, such as architectural drawings for a proposed facility, evaluation of site constraints, procurement requirements, and equipment specifications; and
 
@@ -78,7 +78,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 #### (1) Authorization
 
-&emsp;(A) There are authorized to be appropriated for purposes of this section, in addition to funds otherwise available for such purposes, $48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter.
+&emsp;(A) There are authorized to be appropriated for purposes of this section, in addition tofunds otherwise available for such purposes, $48,000,000 for fiscal year 2000 and such sums as may be necessary for each fiscal year thereafter.
 
 &emsp;(B) Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
 
@@ -92,7 +92,7 @@ The President shall, not later than December 31 of each year, submit to the Comm
 
 &emsp;&emsp;(ii) the term “multilateral development bank” has the meaning given that term in section 262r(c) of this title.
 
-(Pub. L. 87–195, pt. III, §661, as added Pub. L. 93–559, §31, Dec. 30, 1974, 88 Stat. 1804; amended Pub. L. 94–161, title III, §316, Dec. 20, 1975, 89Stat. 867; Pub. L. 95–88, title I, §128, Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title I, §121, Oct. 6, 1978, 92 Stat. 954; Pub. L. 96–53, title I, §119, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title III, §311, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §312, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title IV, §405, Aug. 8, 1985, 99 Stat. 219; Pub. L. 100–418, title II, §2204(b)(1), (2), Aug. 23, 1988, 102 Stat. 1329; Pub. L. 102–549, title II, §201, Oct. 28, 1992, 106 Stat. 3655; Pub. L. 103–392, title II, §201, Oct. 22, 1994, 108 Stat. 4099; Pub. L. 106–158, §5, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 87–195, pt. III, §661, as added Pub. L. 93–559, §31, Dec. 30, 1974, 88 Stat. 1804; amended Pub. L. 94–161, title III, §316, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §128, Aug. 3, 1977, 91 Stat. 543; Pub. L. 95–424, title I, §121, Oct. 6, 1978, 92 Stat. 954; Pub. L. 96–53, title I, §119, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title III, §311, Dec. 16, 1980, 94 Stat. 3148; Pub. L. 97–113, title III, §312, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title IV, §405, Aug. 8, 1985, 99 Stat. 219; Pub. L. 100–418, title II, §2204(b)(1), (2), Aug. 23, 1988, 102 Stat. 1329; Pub. L. 102–549, title II, §201, Oct. 28, 1992, 106 Stat. 3655; Pub. L. 103–392, title II, §201, Oct. 22, 1994, 108 Stat. 4099; Pub. L. 106–158, §5, Dec. 9, 1999, 113 Stat. 1746; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -172,7 +172,7 @@ Section 202(b) of title II of Pub. L. 102–549 provided that: “The enactment 
 
 #### Trade and Development Program Activities for Poland and Hungary
 
-Pub. L. 101–179, title III, §305, Nov. 28, 1989, 103 Stat. 1314, authorized appropriation of an additional$6,000,000 for the 3-year period beginning Oct. 1, 1989, to carry out this section, in order to permit expansion of the Trade and Development Program \[now Agency\] into Poland and Hungary.
+Pub. L. 101–179, title III, §305, Nov. 28, 1989, 103 Stat. 1314, authorized appropriation of an additional $6,000,000 for the 3-year period beginning Oct. 1, 1989, to carry out this section, in order to permit expansion of the Trade and Development Program \[now Agency\] into Poland and Hungary.
 
 #### Trade and Development Program; Reaffirmation of Support
 

@@ -24,7 +24,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 (d)
 
-Coordination.—(1) The Secretary of Defense shall prescribe policies and procedures for the offering and making of rewards under this section and otherwise for administering the authority under this section. Such polices <sup>1</sup> and procedures shall be prescribed in consultation with the Secretary of State and the Attorney General and shall ensure that the making of a reward under this section does not duplicate or interfere with the payment of a reward authorized by the Secretary of State or the Attorney General.
+Coordination.—(1) The Secretary of Defense shall prescribe policies and procedures for the offering and making of rewards under this section and otherwise for administering the authority under this section. Such policies and procedures shall be prescribed in consultation with the Secretary of State and the Attorney General and shall ensure that the making of a reward under this section does not duplicate or interfere with the payment of a reward authorized by the Secretary of State or the Attorney General.
 
 (2) The Secretary of Defense shall consult with the Secretary of State regarding the making of any reward under this section in an amount or with a value in excess of $100,000.
 
@@ -62,7 +62,9 @@ Annual Report.—(1) Not later than December 1 of each year, the Secretary of De
 
 Determinations by the Secretary.—A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655.)
+(Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “policies”.</i>
+#### Amendments
+
+2006—Subsec. (d)(1). Pub. L. 109–163 substituted “Such policies” for “Such polices”.
 

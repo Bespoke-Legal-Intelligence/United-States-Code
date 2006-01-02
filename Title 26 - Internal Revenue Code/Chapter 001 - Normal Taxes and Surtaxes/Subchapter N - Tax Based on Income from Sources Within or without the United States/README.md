@@ -21,10 +21,6 @@
 
 1976—Pub. L. 94–455, title X, §1064(b), Oct. 4, 1976, 90 Stat. 1653, added item V.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 555 of this title.
-
 
 ---
 

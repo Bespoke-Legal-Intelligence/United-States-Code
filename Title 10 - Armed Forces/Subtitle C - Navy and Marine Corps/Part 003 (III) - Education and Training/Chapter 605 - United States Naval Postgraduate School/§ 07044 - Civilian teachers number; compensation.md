@@ -1,8 +1,8 @@
 ### §7044. Civilian teachers: number; compensation
 
-The Secretary of the Navy may employ as many civilians as he considers necessary to serve at the Naval Postgraduate School under the direction of the Superintendent as senior professors, professors, associate professors, assistant professors, and instructors. The Secretary shall prescribe the compensation of those persons.
+The Secretary of the Navy may employ as many civilians as he considers necessary to serve at the Naval Postgraduate School under the direction of the President of the school as senior professors, professors, associate professors, assistant professors, and instructors. The Secretary shall prescribe the compensation of those persons.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 108–375, div. A, title V, §557(a)(4)(A), Oct. 28, 2004, 118 Stat. 1915.)
 
 Historical and Revision Notes
 
@@ -20,7 +20,7 @@ July 31, 1947, ch. 420, §3 (less last sentence), 61 Stat. 706; Aug. 30, 1954, c
 
 The words “as many \* \* \* as he considers necessary” are substituted for the words “such number \* \* \* as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession” for brevity.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in title 5 section 5102.
+2004—Pub. L. 108–375 substituted “President of the school” for “Superintendent”.
 

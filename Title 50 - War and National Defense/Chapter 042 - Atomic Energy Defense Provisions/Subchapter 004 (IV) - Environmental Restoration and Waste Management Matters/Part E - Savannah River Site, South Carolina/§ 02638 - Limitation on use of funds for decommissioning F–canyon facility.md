@@ -4,7 +4,7 @@ No amounts authorized to be appropriated or otherwise made available for the Dep
 
 &emsp;(1) an assessment whether or not all materials present in the F–canyon facility as of the date of the report that required stabilization have been safely stabilized as of that date;
 
-&emsp;(2) an assessment whether or not the requirements applicable to the F–canyon facility to meet the future needs of the United Statesfor fissile materials disposition can be met through full use of the H–canyon facility at the Savannah River Site; and
+&emsp;(2) an assessment whether or not the requirements applicable to the F–canyon facility to meet the future needs of the United States for fissile materials disposition can be met through full use of the H–canyon facility at the Savannah River Site; and
 
 &emsp;(3) if it appears that one or more of the requirements described in paragraph (2) cannot be met through full use of the H–canyon facility—
 

@@ -62,7 +62,7 @@ Funds available.—Funds deposited into the special account in accordance with p
 
 &emsp;“(3)
 
-Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest,monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
+Authorized uses.—The funds made available under paragraph (2) shall be expended at units of the National Forest System in proportion to the fees collected at that unit under subsection (c) to pay for the costs of conducting inventories of forest botanical products, determining sustainable levels of harvest, monitoring and assessing the impacts of harvest levels and methods, conducting restoration activities, including any necessary vegetation, and covering costs of the Department of Agriculture described in subsection (c)(1).
 
 &emsp;“(4)
 

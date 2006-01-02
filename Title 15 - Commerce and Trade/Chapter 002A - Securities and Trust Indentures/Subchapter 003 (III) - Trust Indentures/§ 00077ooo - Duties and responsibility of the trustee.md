@@ -16,7 +16,7 @@ The indenture trustee shall give to the indenture security holders, in the manne
 
 #### (c) Duties of the trustee in case of default
 
-The indenture trustee shall exercise in case of default (as such term is defined in such indenture) such of the rights and powers vested in it by such indenture, and to use the same degree of care and skill in their exercise, as a prudentman would exercise or use under the circumstances in the conduct of his own affairs.
+The indenture trustee shall exercise in case of default (as such term is defined in such indenture) such of the rights and powers vested in it by such indenture, and to use the same degree of care and skill in their exercise, as a prudent man would exercise or use under the circumstances in the conduct of his own affairs.
 
 #### (d) Responsibility of the trustee
 

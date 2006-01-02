@@ -54,13 +54,13 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(i) the numerator of which is the sum of all contributions required to be made by the employer under the plan for the most recent 5 plan years ending before September 26, 1980, and
 
-&emsp;&emsp;(ii) the denominator of which is the sum of all contributions made for the most recent 5 plan years ending before September 26, 1980, by all employers—
+&emsp;&emsp;(ii) the denominator of which is the sum of all contributions made for the most recent 5plan years ending before September 26, 1980, by all employers—
 
 &emsp;&emsp;&emsp;(I) who had an obligation to contribute under the plan for the first plan year ending on or after such date, and
 
 &emsp;&emsp;&emsp;(II) who had not withdrawn from the plan before such date.
 
-(4)(A) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits is the sum of the employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits for each plan year ending before the planyear in which the employer withdrew from the plan.
+(4)(A) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits is the sum of the employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits for each plan year ending before the plan year in which the employer withdrew from the plan.
 
 (B) Except as otherwise provided in regulations prescribed by the corporation, the reallocated unfunded vested benefits for a plan year is the sum of—
 
@@ -112,7 +112,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 (3) The amount of the unfunded vested benefits allocable to an employer under this paragraph is the product of—
 
-&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, less the value as of the end of such year of all outstanding claims for withdrawal liability whichcan reasonably be expected to be collected from employers withdrawing before such year; multiplied by
+&emsp;(A) the plan's unfunded vested benefits as of the end of the plan year preceding the plan year in which the employer withdraws, less the value as of the end of such year of all outstanding claims for withdrawal liability which can reasonably be expected to be collected from employers withdrawing before such year; multiplied by
 
 &emsp;(B) a fraction—
 
@@ -160,7 +160,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
 
-(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which such employer withdraws, is equal to—
+(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in theplan year preceding the plan year in which such employer withdraws, is equal to—
 
 &emsp;(i) an amount equal to—
 

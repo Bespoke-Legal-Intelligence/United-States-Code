@@ -132,7 +132,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 &emsp;&emsp;The Administrator shall waive the registration service fee for an application if the Administrator determines that—
 
-&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 450i(e) of this title; and
+&emsp;&emsp;&emsp;(i) the application is solely associated with a tolerance petition submitted inconnection with the Inter-Regional Project Number 4 (IR–4) as described in section 450i(e) of this title; and
 
 &emsp;&emsp;&emsp;(ii) the waiver is in the public interest.
 
@@ -176,7 +176,7 @@ In this section, the term “costs”, when used with respect to review and deci
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a covered pesticide registration application is withdrawn after the first 60 daysof the applicable decision time review period, the Administrator shall determine what portion, if any, of the total registration service fee payable under paragraph (3) for the application may be refunded based on the proportion of the work completed at the time of withdrawal.
+&emsp;&emsp;&emsp;If a covered pesticide registration application is withdrawn after the first 60 days of the applicable decision time review period, the Administrator shall determine what portion, if any, of the total registration service fee payable under paragraph (3) for the application may be refunded based on the proportion of the work completed at the time of withdrawal.
 
 #### (ii) Timing
 
@@ -340,7 +340,7 @@ To the maximum extent practicable consistent with the degrees of risk presented 
 
 #### (iii) Request granted with additional fees required
 
-&emsp;&emsp;&emsp;If the Administrator grants the waiver or reduction request, in whole or in part, but an additional registration service feeis required, the decision time review period begins on the date on which the Administrator receives certification of payment of the applicable registration service fee.
+&emsp;&emsp;&emsp;If the Administrator grants the waiver or reduction request, in whole or in part, but an additional registration service fee is required, the decision time review period begins on the date on which the Administrator receives certification of payment of the applicable registration service fee.
 
 #### (iv) Request denied
 
@@ -428,7 +428,7 @@ The Administrator shall—
 
 &emsp;&emsp;(C) the amount appropriated to meet the requirements of subsection (d)(1) of this section; and
 
-&emsp;&emsp;(D) the reasonableness of the allocation of the overhead allocation of costs associatedwith the review and decisionmaking pertaining to applications under this section.
+&emsp;&emsp;(D) the reasonableness of the allocation of the overhead allocation of costs associated with the review and decisionmaking pertaining to applications under this section.
 
 #### (3) Inspector General
 
@@ -520,7 +520,7 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of this section, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (h)(1)(A), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 

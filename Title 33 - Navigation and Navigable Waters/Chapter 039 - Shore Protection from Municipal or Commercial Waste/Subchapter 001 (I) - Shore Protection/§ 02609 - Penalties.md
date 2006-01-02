@@ -10,7 +10,7 @@ A person violating section 2602 of this title is liable to the United States Gov
 
 #### (c) Criminal penalty
 
-Any person that knowingly violates, or that knowingly aids, abets, authorizes, or instigates a violation of this chapter, shall be fined under title 18, imprisoned for not more than 3 years, or both.
+Any person that knowingly violates, or that knowingly aids, abets, authorizes, or instigatesa violation of this chapter, shall be fined under title 18, imprisoned for not more than 3 years, or both.
 
 #### (d) Payments for information
 

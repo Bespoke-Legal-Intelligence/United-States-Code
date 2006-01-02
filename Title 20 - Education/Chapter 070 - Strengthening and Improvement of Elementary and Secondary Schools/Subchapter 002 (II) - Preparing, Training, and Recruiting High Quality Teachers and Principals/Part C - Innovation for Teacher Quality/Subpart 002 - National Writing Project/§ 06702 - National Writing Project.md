@@ -8,7 +8,7 @@ The Secretary is authorized to award a grant to the National Writing Project, a 
 
 The grant shall provide that—
 
-&emsp;(1) the grantee will enter into contracts with institutions of higher education or other nonprofit educational providers (hereafter in this section referred to as “contractors”) underwhich the contractors will agree to establish, operate, and provide the non-Federal share of the cost of teacher training programs in effective approaches and processes for the teaching of writing;
+&emsp;(1) the grantee will enter into contracts with institutions of higher education or other nonprofit educational providers (hereafter in this section referred to as “contractors”) under which the contractors will agree to establish, operate, and provide the non-Federal share of the cost of teacher training programs in effective approaches and processes for the teaching of writing;
 
 &emsp;(2) funds made available by the Secretary to the grantee pursuant to any contract entered into under this section will be used to pay the Federal share of the cost of establishing and operating teacher training programs as provided in paragraph (1); and
 
@@ -106,5 +106,5 @@ A prior section 6702, Pub. L. 89–10, title II, §2402, as added Pub. L. 103–
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board isrenewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

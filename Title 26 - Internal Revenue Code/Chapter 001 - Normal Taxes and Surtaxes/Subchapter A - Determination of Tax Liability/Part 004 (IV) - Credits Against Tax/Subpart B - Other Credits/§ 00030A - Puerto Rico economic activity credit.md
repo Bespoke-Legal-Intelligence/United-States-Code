@@ -72,7 +72,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 &emsp;&emsp;(C) 65 percent of the depreciation allowances for the taxable year with respect to long-life qualified tangible property.
 
-&emsp;(3) If the qualified domestic corporation does not have an election to use the method described in section 936(h)(5)(C)(ii) (relating to profit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income.
+&emsp;(3) If the qualified domestic corporation does not have an election to use the method described in section 936(h)(5)(C)(ii) (relating toprofit split) in effect for the taxable year, the amount of the qualified possession income taxes for the taxable year allocable to nonsheltered income.
 
 #### (e) Administrative provisions
 
@@ -127,8 +127,4 @@ Special rule for qualified possession source investment income.—The amendments
 “(3)
 
 Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act \[Aug. 20, 1996\] and before October 1, 1996, only 1/2 of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) \[enacting this section and amending sections 55, 56, 59, and 936 of this title\] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 55, 56, 59, 936 of this title.
 

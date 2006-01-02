@@ -42,7 +42,7 @@ An order approving a physical search under this section shall—
 
 &emsp;&emsp;(A) that the minimization procedures be followed;
 
-&emsp;&emsp;(B) that, upon the request of the applicant, a specified landlord, custodian, or other specified person furnish the applicant forthwith all information, facilities, or assistance necessary to accomplish the physical search in such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search;
+&emsp;&emsp;(B) that, upon the request of the applicant, a specified landlord, custodian, or otherspecified person furnish the applicant forthwith all information, facilities, or assistance necessary to accomplish the physical search in such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search;
 
 &emsp;&emsp;(C) that such landlord, custodian, or other person maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the search or the aid furnished that such person wishes to retain;
 
@@ -112,9 +112,11 @@ Subsec. (e)(1)(A)(ii), (3)(C). Pub. L. 107–108 substituted “72 hours” for 
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Termination Date of 2001 Amendment
 
-Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 107–56 to cease to have effect Feb. 3, 2006, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Feb. 3, 2006, or with respect to any particular offense or potential offense that began or occurred before Feb. 3, 2006, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 

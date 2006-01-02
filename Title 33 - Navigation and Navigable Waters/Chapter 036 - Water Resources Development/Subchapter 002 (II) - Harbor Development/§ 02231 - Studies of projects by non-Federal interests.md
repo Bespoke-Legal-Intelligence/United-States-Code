@@ -14,7 +14,7 @@ Not later than 180 days after receiving any study submitted under subsection (a)
 
 #### (d) Credit and reimbursement
 
-If a project for which a study has been submitted under subsection (a) of this section is authorized by any provision of Federal law enacted after the date of such submission, the Secretaryshall credit toward the non-Federal share of the cost of construction of such project an amount equal to the portion of the cost of developing such study that would be the responsibility of the United States if such study were developed by the Secretary.
+If a project for which a study has been submitted under subsection (a) of this section is authorized by any provision of Federal law enacted after the date of such submission, the Secretary shall credit toward the non-Federal share of the cost of construction of such project an amount equal to the portion of the cost of developing such study that would be the responsibility of the United States if such study were developed by the Secretary.
 
 (Pub. L. 99–662, title II, §203, Nov. 17, 1986, 100 Stat. 4098.)
 

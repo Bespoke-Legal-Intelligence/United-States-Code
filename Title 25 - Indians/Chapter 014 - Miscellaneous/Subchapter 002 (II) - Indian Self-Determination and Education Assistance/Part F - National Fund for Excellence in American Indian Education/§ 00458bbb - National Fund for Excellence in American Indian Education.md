@@ -68,7 +68,7 @@ The Foundation—
 
 &emsp;(3) may make contracts, subject to the limitations of this subchapter;
 
-&emsp;(4) may acquire (through a gift or otherwise), own, lease, encumber, and transfer real or personal property as necessary or convenient to carry out the purposes of the Foundation;
+&emsp;(4) may acquire (through a gift or otherwise), own, lease, encumber, and transfer realor personal property as necessary or convenient to carry out the purposes of the Foundation;
 
 &emsp;(5) may sue and be sued; and
 

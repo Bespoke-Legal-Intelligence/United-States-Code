@@ -34,7 +34,3 @@ Sec. 2. The authority delegated to the Secretary of Defense and the Secretary of
 
 Sec. 3. This order is intended only to improve the internal management of the executive branch and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 1145 of this title; title 37 sections 302f, 909; title 38 section 4312.
-

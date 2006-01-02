@@ -20,7 +20,3 @@ Provisions similar to those in this section were contained in section 269(e)–(
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10145 of this title.
-

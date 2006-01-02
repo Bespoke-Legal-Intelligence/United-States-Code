@@ -25,6 +25,8 @@
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
+<i><sup>2</sup></i><i> So in original. Probably should follow item for subchapter Q.</i>
+
 <i><sup>1</sup></i><i> Part heading amended by Pub. L. 99–514 without corresponding amendment of analysis.</i>
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 95–30 without corresponding amendment of analysis.</i>

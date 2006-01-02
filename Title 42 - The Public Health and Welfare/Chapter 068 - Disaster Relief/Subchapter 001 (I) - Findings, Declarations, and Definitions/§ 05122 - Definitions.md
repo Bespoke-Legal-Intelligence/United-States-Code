@@ -76,7 +76,7 @@ Section 103(e) of Pub. L. 100–707 provided that:
 
 “(1)
 
-In general.—The term ‘local government’ is deemed to have the same meaning in the Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note set out under section 5121 of this title\], as amended by this Act \[see Short Title of 1988 Amendment note set out under section 5121 of this title\], as that term had on October 1, 1988, under section 102(6) of the Disaster Relief Act of 1974 \[par. (6) of this section\] and regulations implementing the Disaster Relief Act of 1974.
+In general.—The term ‘local government’ is deemed to have the same meaning in the Disaster Relief and Emergency Assistance Act \[Pub. L. 93–288, see Short Title note set out under section 5121 of this title\], as amended by this Act \[see Short Title of 1988 Amendment note set out under section 5121 of this title\], as that term had on October 1, 1988, under section 102(6) of the Disaster Relief Act of 1974 \[par. (6) ofthis section\] and regulations implementing the Disaster Relief Act of 1974.
 
 “(2)
 

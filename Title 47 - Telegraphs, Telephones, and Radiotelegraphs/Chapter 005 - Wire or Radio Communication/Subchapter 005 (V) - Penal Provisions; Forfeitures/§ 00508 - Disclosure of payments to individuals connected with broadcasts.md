@@ -2,7 +2,7 @@
 
 #### (a) Payments to station employees
 
-Subject to subsection (d) of this section, any employee of a radio station who accepts or agrees to accept from any person (other than such station), or any person (other than such station) who pays or agrees to pay such employee, any money, service or other valuableconsideration for the broadcast of any matter over such station shall, in advance of such broadcast, disclose the fact of such acceptance or agreement to such station.
+Subject to subsection (d) of this section, any employee of a radio station who accepts or agrees to accept from any person (other than such station), or any person (other than such station) who pays or agrees to pay such employee, any money, service or other valuable consideration for the broadcast of any matter over such station shall, in advance of such broadcast, disclose the fact of such acceptance or agreement to such station.
 
 #### (b) Production or preparation of programs
 

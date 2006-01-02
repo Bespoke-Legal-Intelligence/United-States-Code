@@ -16,7 +16,7 @@ Section was not enacted as part of the Migratory Bird Conservation Act which com
 
 1983—Pub. L. 98–200 substituted “October 1, 1984” for “October 1, 1983” in two places.
 
-1976—Pub. L. 94–215 substituted “on October 1, 1983” for “with fiscal year 1977”, “before October 1, 1983” for“prior to the end of the aforesaid fifteen-year period” and “year. No” for “year: <i>Provided further</i>, That no”.
+1976—Pub. L. 94–215 substituted “on October 1, 1983” for “with fiscal year 1977”, “before October 1, 1983” for “prior to the end of the aforesaid fifteen-year period” and “year. No” for “year: <i>Provided further</i>, That no”.
 
 1967—Pub. L. 90–205 made minor structural changes and substituted “1977” for “1969” and “fifteen-year period” for “seven-year period”.
 

@@ -26,7 +26,7 @@ Except as provided in subsection (e) of this section, not later than 30 days aft
 
 #### (c) Effect of notice
 
-If with respect to a notification filed under subsection (a) of this section, notice is published in the Federal Register, then such notificationshall operate to convey the protections of section 4303 of this title as of the earlier of—
+If with respect to a notification filed under subsection (a) of this section, notice is published in the Federal Register, then such notification shall operate to convey the protections of section 4303 of this title as of the earlier of—
 
 &emsp;(1) the date of publication of notice under subsection (b) of this section, or
 

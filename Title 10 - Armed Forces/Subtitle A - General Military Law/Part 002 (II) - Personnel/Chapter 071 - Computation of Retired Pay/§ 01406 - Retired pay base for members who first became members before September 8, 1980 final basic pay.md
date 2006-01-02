@@ -28,7 +28,7 @@ Disability, warrant officer, and dopma retirement.—In the case of a person who
 |  |  |
 | &nbsp;580126312931305 | Monthly basic pay to which member would have been entitled if he had served on active duty in his retired grade on day before retirement, or if the pay of that grade is less than the pay of any warrant grade satisfactorily held by him on active duty, the monthly basic pay of that warrant officer grade. |
 |  |  |
-| &nbsp;633 634 635 6361251 | Monthly basic pay <sup>2</sup> of member's retired grade.<sup>3</sup> |
+| &nbsp;633 634 635 63612511252 | Monthly basic pay <sup>2</sup> of member's retired grade.<sup>3</sup> |
 
 <sup>1</sup> Compute at rates applicable on date of retirement or date when member's name was placed on temporary disability retired list, as the case may be.
 
@@ -46,7 +46,7 @@ Voluntary Retirement for Members of the Army.—
 
 &emsp;(1)
 
-In general.—In the case of a member whose retired pay is computed under section 3991 of this title or who is entitled to retired pay computed under section 3992 of this title,the retired pay base is determined in accordance with the following table.
+In general.—In the case of a member whose retired pay is computed under section 3991 of this title or who is entitled to retired pay computed under section 3992 of this title, the retired pay base is determined in accordance with the following table.
 
 &nbsp;
 
@@ -116,7 +116,7 @@ Coast Guard.—In the case of a member who is retired under any section of title
 
 (g)
 
-Commissioned Corps of National Oceanic and Atmospheric Administration.—In the case of an officer whose retired pay is computed under section 305 <sup>1</sup> of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002, the retired pay base is the basic pay of the rank with which the officer retired.
+Commissioned Corps of National Oceanic and Atmospheric Administration.—In the case of an officer whose retired pay is computed under section 245 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3045), the retired pay base is the basic pay of the rank with which the officer retired.
 
 (h)
 
@@ -174,17 +174,21 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;&emsp;(v) Master Chief Petty Officer of the Coast Guard.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div. A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–372, title II, §272(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 108–136, div. A, title VI, §643(a), (b), Nov. 24, 2003, 117 Stat. 1517.)
+&emsp;&emsp;&emsp;(vi) Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff.
 
-#### References in Text
-
-Section 305 of the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002, referred to in subsec. (g), probably means section 245 of title II of Pub. L. 107–372, known as the National Oceanic and Atmospheric Administration Commissioned Officers Act of 2002, which is classified to section 3045 of Title 33, Navigation and Navigable Waters. That Act does not contain a section 305, and section 245 relates to computation of retired pay.
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 686; amended Pub. L. 100–180, div.A, title V, §512(d)(2), title XIII, §1314(b)(6), Dec. 4, 1987, 101 Stat. 1090, 1175; Pub. L. 100–456, div. A, title XII, §1233(c), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–190, div. A, title XI, §1131(7), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–337, div. A, title XVI, §1662(j)(4), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 105–85, div. A, title X, §1073(a)(23), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §646, Oct. 17, 1998, 112 Stat. 2050; Pub. L. 106–65, div. A, title X, §1066(a)(11), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–372, title II, §272(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 108–136, div. A, title VI, §643(a), (b), Nov. 24, 2003, 117 Stat. 1517; Pub. L. 108–375, div. A, title X, §1084(d)(9), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 109–163, div. A, title V, §509(d)(1)(B), title VI, §685(d), Jan. 6, 2006, 119 Stat. 3231, 3325.)
 
 #### Prior Provisions
 
 A prior section 1406 was renumbered section 12738 of this title.
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–163, §509(d)(1)(B), in table inserted “1252” at end of column under heading “For a member entitled to retired pay under section:”.
+
+Subsec. (i)(3)(B)(vi). Pub. L. 109–163, §685(d), added cl. (vi).
+
+2004—Subsec. (g). Pub. L. 108–375 substituted “section 245” for “section 305” and “Officer Corps Act of 2002 (33 U.S.C. 3045)” for “Officers Act of 2002”.
 
 2003—Subsec. (i). Pub. L. 108–136 inserted “Commanders of Combatant Commands,” after “Chiefs of Service,” in heading and “as a commander of a unified or specified combatant command (as defined in section 161(c) of this title),” after “Chief of Service,” in par. (1).
 
@@ -228,11 +232,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Grade on Transfer to Retired Reserve
 
-Section 1688 of title XVI of Pub. L. 103–337 provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall applyonly to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1401, 1401a, 1407, 3991, 3992, 6151, 6333, 6334, 8991, 8992, 12739 of this title; title 33 section 3045; title 42 section 211.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Section 1688 of title XVI of Pub. L. 103–337 provided that: “In determining the highest grade held satisfactorily by a person at any time in the Armed Forces for the purposes of paragraph (2) of section 1406(b) of title 10, United States Code, as added by this title, the requirement for satisfactory service on the reserve active-status list contained in section 1370(d) of title 10, United States Code, as added by this title, shall apply only to reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion under chapter 36 of that title or under chapter 1405 of that title, as added by this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of title 32, United States Code, after the effective date of this title \[see Effective Date note set out under section 10001 of this title\].”
 

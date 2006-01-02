@@ -10,7 +10,25 @@ The intent of Congress in the definitions as given in this section should be con
 
 (d) The term “atomic weapon” means any device utilizing atomic energy, exclusive of the means for transporting or propelling the device (where such means is a separable and divisible part of the device), the principal purpose of which is for use as, or for development of, a weapon, a weapon prototype, or a weapon test device.
 
-(e) The term “byproduct material” means (1) any radioactive material (except special nuclear material) yielded in or made radioactive by exposure to the radiation incident to the process of producing or utilizing special nuclear material, and (2) the tailings or wastes produced by the extraction or concentration of uranium or thorium from any ore processed primarily for its source material content.
+(e) The term “byproduct material” means—
+
+&emsp;(1) any radioactive material (except special nuclear material) yielded in or made radioactive by exposure to the radiation incident to the process of producing or utilizing special nuclear material;
+
+&emsp;(2) the tailings or wastes produced by the extraction or concentration of uranium or thorium from any ore processed primarily for its source material content;
+
+&emsp;(3)(A) any discrete source of radium-226 that is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; or
+
+&emsp;(B) any material that—
+
+&emsp;&emsp;(i) has been made radioactive by use of a particle accelerator; and
+
+&emsp;&emsp;(ii) is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
+
+&emsp;(4) any discrete source of naturally occurring radioactive material, other than source material, that—
+
+&emsp;&emsp;(A) the Commission, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate Federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security; and
+
+&emsp;&emsp;(B) before, on, or after August 8, 2005, is extracted or converted after extraction for use in a commercial, medical, or research activity.
 
 (f) The term “Commission” means the Atomic Energy Commission.
 
@@ -28,7 +46,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (m) The term “indemnitor” means (1) any insurer with respect to his obligations under a policy of insurance furnished as proof of financial protection; (2) any licensee, contractor or other person who is obligated under any other form of financial protection, with respect to such obligations; and (3) the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, with respect to any obligation undertaken by it in indemnity agreement entered into pursuant to section 2210 of this title.
 
-(n) The term “international arrangement” means any international agreement hereafter approved by the Congress or any treaty during the time such agreement or treaty is in full force and effect, but does not include any agreement for cooperation.
+(n) The term “international arrangement” means any international agreement hereafterapproved by the Congress or any treaty during the time such agreement or treaty is in full force and effect, but does not include any agreement for cooperation.
 
 (<i>o</i>) The term “Energy Committees” means the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
@@ -46,11 +64,11 @@ The intent of Congress in the definitions as given in this section should be con
 
 (v) The term “production facility” means (1) any equipment or device determined by rule of the Commission to be capable of the production of special nuclear material in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or (2) any important component part especially designed for such equipment or device as determined by the Commission. Except with respect to the export of a uranium enrichment production facility, such term as used in subchapters IX and XV of this division shall not include any equipment or device (or important component part especially designed for such equipment or device) capable of separating the isotopes of uranium or enriching uranium in the isotope 235.
 
-(w) The term “public liability” means any legal liability arising out of or resulting from a nuclear incident or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation), except: (i) claims under State or Federal workmen's compensation acts of employees of persons indemnified who are employed at the site of and in connection with the activity where the nuclear incident occurs; (ii) claims arising out of an act of war; and (iii) whenever used in subsections (a), (c), and (k) of section 2210 of this title, claims for loss of, or damage to, or loss of use of property which is located at the site of and usedin connection with the licensed activity where the nuclear incident occurs. “Public liability” also includes damage to property of persons indemnified: <i>Provided</i>, That such property is covered under the terms of the financial protection required, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs.
+(w) The term “public liability” means any legal liability arising out of or resulting from a nuclear incident or precautionary evacuation (including all reasonable additional costs incurred by a State, or a political subdivision of a State, in the course of responding to a nuclear incident or a precautionary evacuation), except: (i) claims under State or Federal workmen's compensation acts of employees of persons indemnified who are employed at the site of and in connection with the activity where the nuclear incident occurs; (ii) claims arising out of an act of war; and (iii) whenever used in subsections (a), (c), and (k) of section 2210 of this title, claims for loss of, or damage to, or loss of use of property which is located at the site of and used in connection with the licensed activity where the nuclear incident occurs. “Public liability” also includes damage to property of persons indemnified: <i>Provided</i>, That such property is covered under the terms of the financial protection required, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs.
 
 (x) The term “research and development” means (1) theoretical analysis, exploration, or experimentation; or (2) the extension of investigative findings and theories of a scientific or technical nature into practical application for experimental and demonstration purposes, including the experimental production and testing of models, devices, equipment, materials, and processes.
 
-(y) The term “Restricted Data” means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of special nuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.
+(y) The term “Restricted Data” means all data concerning (1) design, manufacture, or utilization of atomic weapons; (2) the production of special nuclear material; or (3) the use of specialnuclear material in the production of energy, but shall not include data declassified or removed from the Restricted Data category pursuant to section 2162 of this title.
 
 (z) The term “source material” means (1) uranium, thorium, or any other material which is determined by the Commission pursuant to the provisions of section 2091 of this title to be source material; or (2) ores containing one or more of the foregoing materials, in such concentration as the Commission may by regulation determine from time to time.
 
@@ -78,7 +96,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 Legal Costs.—As used in section 2210 of this title, the term “legal costs” means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
 
-(Aug. 1, 1946, ch. 724, title I, §11, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 922; amended Aug. 6, 1956, ch. 1015, §1, 70 Stat. 1069; Pub. L. 85–256, §3, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–602, §1, Aug. 8, 1958, 72 Stat. 525; Pub. L. 87–206, §§2, 3, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §§4, 5, Aug. 29, 1962, 76 Stat. 410; Pub. L. 89–645, §1(a), Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §1, Dec. 31, 1975, 89 Stat. 1111; Pub. L. 95–604, title II, §201, Nov. 8, 1978, 92 Stat. 3033; Pub. L. 100–408, §§4(b)–5(b), 11(b), (d)(2), 16(a)(1), (b)(1), (2), (d)(1)–(3), Aug. 20, 1988, 102 Stat. 1069, 1070, 1076, 1078–1080; Pub. L. 101–575, §5(a), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(8), title XI, §1102, Oct.24, 1992, 106 Stat. 2944, 2955; Pub. L. 103–437, §15(f)(1), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 104–134, title III, §3116(b)(1), Apr. 26, 1996, 110 Stat. 1321–349.)
+(Aug. 1, 1946, ch. 724, title I, §11, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 922; amended Aug. 6, 1956, ch. 1015, §1, 70 Stat. 1069; Pub. L. 85–256, §3, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–602, §1, Aug. 8, 1958, 72 Stat. 525; Pub. L. 87–206, §§2, 3, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §§4, 5, Aug. 29, 1962, 76 Stat. 410; Pub. L. 89–645, §1(a), Oct. 13, 1966, 80 Stat. 891; Pub. L. 94–197, §1, Dec. 31, 1975, 89 Stat. 1111; Pub. L. 95–604, title II, §201, Nov. 8, 1978, 92 Stat. 3033; Pub. L. 100–408, §§4(b)–5(b), 11(b), (d)(2), 16(a)(1), (b)(1), (2), (d)(1)–(3), Aug. 20, 1988, 102 Stat. 1069, 1070, 1076, 1078–1080; Pub. L. 101–575, §5(a), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(8), title XI, §1102, Oct. 24, 1992, 106 Stat. 2944, 2955; Pub. L. 103–437, §15(f)(1), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 104–134, title III, §3116(b)(1), Apr. 26, 1996, 110 Stat. 1321–349; Pub. L. 109–58, title VI, §651(e)(1), Aug. 8, 2005, 119 Stat. 806.)
 
 #### References in Text
 
@@ -91,6 +109,8 @@ Section 213 of Public Law 96–164, referred to in subsec. (ff), is Pub. L. 96�
 Provisions similar to those comprising this section were contained in section 18 of act Aug. 1, 1946, ch. 724, 60 Stat. 774, which was classified to section 1818 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–58 substituted “means—” for “means”, realigned margins of pars. (1) and (2), and added pars. (3) and (4).
 
 1996—Subsec. (v). Pub. L. 104–134, which directed the amendment of subsec. (v) by striking out “or the construction and operation of a uranium enrichment facility using Atomic Vapor Laser Isotope Separation technology”, was executed by striking out “or the construction and operation of a uranium enrichment production facility using Atomic Vapor Laser Isotope Separation technology” before “, such term as used”, to reflect the probable intent of Congress.
 

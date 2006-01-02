@@ -8,7 +8,7 @@ Eligibility for Primary Dislocation Allowance.—(1) Under regulations prescribe
 
 &emsp;(A) A member who makes a change of permanent station and the member's dependents actually make an authorized move in connection with the change, including a move by the dependents—
 
-&emsp;&emsp;(i) to join the member at the member's duty station after an unaccompanied tour of duty when the member's next tour of duty is an accompanied tour at the same station; and
+&emsp;&emsp;(i) to join the member at the member's duty station after an unaccompanied tour ofduty when the member's next tour of duty is an accompanied tour at the same station; and
 
 &emsp;&emsp;(ii) to a location designated by the member after an accompanied tour of duty when the member's next tour of duty is an unaccompanied tour at the same duty station.
 

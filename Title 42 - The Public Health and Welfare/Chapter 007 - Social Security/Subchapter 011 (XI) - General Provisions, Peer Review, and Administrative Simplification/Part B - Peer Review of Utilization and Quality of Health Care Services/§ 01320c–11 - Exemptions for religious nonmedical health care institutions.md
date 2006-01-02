@@ -1,6 +1,6 @@
 ### §1320c–11. Exemptions for religious nonmedical health care institutions
 
-The provisions of this part shall not apply with respect to a religious nonmedical health care institution (as defined in section 1395x(ss)(1) of this title).
+The provisions of this part shall not apply with respect to a religious nonmedical healthcare institution (as defined in section 1395x(ss)(1) of this title).
 
 (Aug. 14, 1935, ch. 531, title XI, §1162, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 393; amended Pub. L. 105–33, title IV, §4454(c)(2), Aug. 5, 1997, 111 Stat. 431.)
 

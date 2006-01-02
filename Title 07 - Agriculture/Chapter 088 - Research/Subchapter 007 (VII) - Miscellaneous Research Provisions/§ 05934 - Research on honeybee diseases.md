@@ -10,7 +10,7 @@ It is the sense of Congress that—
 
 #### (b) Research
 
-Notwithstanding any other provision of law, the Secretary of Agriculture shall give priorityattention to the funding of research regarding the diseases referred to in subsection (a) of this section that are affecting the honeybee population.
+Notwithstanding any other provision of law, the Secretary of Agriculture shall give priority attention to the funding of research regarding the diseases referred to in subsection (a) of this section that are affecting the honeybee population.
 
 (Pub. L. 101–624, title XVI, §1681, Nov. 28, 1990, 104 Stat. 3782; Pub. L. 102–237, title IV, §407(17), Dec. 13, 1991, 105 Stat. 1865.)
 

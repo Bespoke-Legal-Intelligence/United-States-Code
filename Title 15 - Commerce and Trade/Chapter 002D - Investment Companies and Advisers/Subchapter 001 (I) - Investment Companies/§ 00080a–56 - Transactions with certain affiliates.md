@@ -22,7 +22,7 @@ The provisions of subsection (a) of this section shall apply to the following pe
 
 #### (c) Exemption orders
 
-Notwithstanding paragraphs (1), (2), and (3) of subsection (a) of this section, any person may file with the Commission an application for anorder exempting a proposed transaction of the applicant from one or more provisions of such paragraphs. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
+Notwithstanding paragraphs (1), (2), and (3) of subsection (a) of this section, any person may file with the Commission an application for an order exempting a proposed transaction of the applicant from one or more provisions of such paragraphs. The Commission shall grant such application and issue such order of exemption if evidence establishes that—
 
 &emsp;(1) the terms of the proposed transaction, including the consideration to be paid or received, are reasonable and fair and do not involve overreaching of the business development company or its shareholders or partners on the part of any person concerned;
 
@@ -58,7 +58,7 @@ Notwithstanding subsection (d) of this section, a person described in subsection
 
 &emsp;(1) the terms thereof, including the consideration to be paid or received, are reasonable and fair to the shareholders or partners of the business development company and do not involve overreaching of such company or its shareholders or partners on the part of any person concerned;
 
-&emsp;(2) the proposed transaction is consistent with the interests of the shareholders or partners of the business development company and is consistent with the policy of such company as recited in filings made by such company with the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], its registration statement and reports filed under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and its reports to shareholders or partners; and
+&emsp;(2) the proposed transaction is consistent with the interests of the shareholders or partners of the business development company and is consistent with the policy of such company as recited in filings made by such companywith the Commission under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], its registration statement and reports filed under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and its reports to shareholders or partners; and
 
 &emsp;(3) the directors or general partners record in their minutes and preserve in their records, for such periods as if such records were required to be maintained pursuant to section 80a–30(a) of this title, a description of such transaction, their findings, the information or materials upon which their findings were based, and the basis therefor.
 
@@ -120,7 +120,7 @@ The provisions of subsection (k) of this section shall apply to the following pe
 
 &emsp;(B) Any person who is, within the meaning of section 82a–2(a)(3)(A), (B), (C), or (D) of this title, an affiliated person of any investment adviser of, general partner in, or person directly or indirectly either controlling, controlled by, or under common control with, the business development company.
 
-&emsp;(C) Any person who is, within the meaning of section 80a–2(a)(3)(C) of this title, an affiliated person of any person who is an affiliated person of the business development companywithin the meaning of section 80a–2(a)(3)(A) of this title.
+&emsp;(C) Any person who is, within the meaning of section 80a–2(a)(3)(C) of this title, an affiliated person of any person who is an affiliated person of the business development company within the meaning of section 80a–2(a)(3)(A) of this title.
 
 #### (m) Receipt of fee or salary from transaction participant
 

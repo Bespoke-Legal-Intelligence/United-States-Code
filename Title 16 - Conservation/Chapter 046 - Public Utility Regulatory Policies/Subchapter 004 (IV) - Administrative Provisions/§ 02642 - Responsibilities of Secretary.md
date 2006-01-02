@@ -8,9 +8,11 @@ The Secretary may periodically notify the State regulatory authorities, and elec
 
 &emsp;(2) developments and innovations in electric utility ratemaking throughout the United States, including the results of studies and experiments in rate structure and rate reform;
 
-&emsp;(3) methods for determining cost of service; and
+&emsp;(3) methods for determining cost of service;
 
-&emsp;(4) any other data or information which the Secretary determines would assist such authorities and utilities in carrying out the provisions of this chapter.
+&emsp;(4) any other data or information which the Secretary determines would assist such authorities and utilities in carrying out the provisions of this chapter; and
+
+&emsp;(5) technologies, techniques, and rate-making methods related to advanced metering and communications and the use of these technologies, techniques and methods in demand response programs.
 
 #### (b) Technical assistance
 
@@ -20,9 +22,69 @@ The Secretary may provide such technical assistance as he determines appropriate
 
 There are authorized to be appropriated to carry out the purposes of subsection (b) of this section not to exceed $1,000,000 for each of the fiscal years 1979 and 1980.
 
-(Pub. L. 95–617, title I, §132, Nov. 9, 1978, 92 Stat. 3131.)
+#### (d) Demand response
+
+The Secretary shall be responsible for—
+
+&emsp;(1) educating consumers on the availability, advantages, and benefits of advanced metering and communications technologies, including the funding of demonstration or pilot projects;
+
+&emsp;(2) working with States, utilities, other energy providers and advanced metering and communications experts to identify and address barriers to the adoption of demand response programs; and
+
+&emsp;(3) not later than 180 days after August 8, 2005, providing Congress with a report that identifies and quantifies the national benefits of demand response and makes a recommendation on achieving specific levels of such benefits by January 1, 2007.
+
+(Pub. L. 95–617, title I, §132, Nov. 9, 1978, 92 Stat. 3131; Pub. L. 109–58, title XII, §1252(c), (d), Aug. 8, 2005, 119 Stat. 965.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(4), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted this chapter and amended sections 6801 to 6808 of Title 42, The Public Health and Welfare. For complete classification of title I to the Code, see Tables.
+
+#### Amendments
+
+2005—Subsec. (a)(5). Pub. L. 109–58, §1252(c), added par. (5).
+
+Subsec. (d). Pub. L. 109–58, §1252(d), added subsec. (d).
+
+#### Demand Response Assistance
+
+Pub. L. 109–58, title XII, §1252(e), (f), Aug. 8, 2005, 119 Stat. 965, 966, provided that:
+
+“(e)
+
+Demand Response and Regional Coordination.—
+
+&emsp;“(1)
+
+In general.—It is the policy of the United States to encourage States to coordinate, on a regional basis, State energy policies to provide reliable and affordable demand response services to the public.
+
+&emsp;“(2)
+
+Technical assistance.—The Secretary \[of Energy\] shall provide technical assistance to States and regional organizations formed by two or more States to assist them in—
+
+&emsp;&emsp;“(A) identifying the areas with the greatest demand response potential;
+
+&emsp;&emsp;“(B) identifying and resolving problems in transmission and distribution networks, including through the use of demand response;
+
+&emsp;&emsp;“(C) developing plans and programs to use demand response to respond to peak demand or emergency needs; and
+
+&emsp;&emsp;“(D) identifying specific measures consumers can take to participate in these demand response programs.
+
+&emsp;“(3)
+
+Report.—Not later than 1 year after the date of enactment of the Energy Policy Act of 2005 \[Aug. 8, 2005\], the \[Federal Energy Regulatory\] Commission shall prepare and publish an annual report, by appropriate region, that assesses demand response resources, including those available from all consumer classes, and which identifies and reviews—
+
+&emsp;&emsp;“(A) saturation and penetration rate of advanced meters and communications technologies, devices and systems;
+
+&emsp;&emsp;“(B) existing demand response programs and time-based rate programs;
+
+&emsp;&emsp;“(C) the annual resource contribution of demand resources;
+
+&emsp;&emsp;“(D) the potential for demand response as a quantifiable, reliable resource for regional planning purposes;
+
+&emsp;&emsp;“(E) steps taken to ensure that, in regional transmission planning and operations, demand resources are provided equitable treatment as a quantifiable, reliable resource relative to the resource obligations of any load-serving entity, transmission provider, or transmitting party; and
+
+&emsp;&emsp;“(F) regulatory barriers to improve customer participation in demand response, peak reduction and critical period pricing programs.
+
+“(f)
+
+Federal Encouragement of Demand Response Devices.—It is the policy of the United States that time-based pricing and other forms of demand response, whereby electricity customers are provided with electricity price signals and the ability to benefit by responding to them, shall be encouraged, the deployment of such technology and devices that enable electricity customers to participate in such pricing and demand response systems shall be facilitated, and unnecessary barriers to demand response participation in energy, capacity and ancillary service markets shall be eliminated. It is further the policy of the United States that the benefits of such demand response that accrue to those not deploying such technology and devices, but who are part of the same regional electricity entity, shall be recognized.”
 

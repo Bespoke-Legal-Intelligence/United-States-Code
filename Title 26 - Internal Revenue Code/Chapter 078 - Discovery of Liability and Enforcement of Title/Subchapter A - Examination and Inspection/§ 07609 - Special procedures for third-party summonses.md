@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of the summons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been served and shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
+&emsp;If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then notice of the summons shall be given to any person so identified within 3 days of the day on which such service is made, but no later than the 23rd day before the day fixed in the summons as the day upon which such records are to be examined. Such notice shall be accompanied by a copy of the summons which has been servedand shall contain an explanation of the right under subsection (b)(2) to bring a proceeding to quash the summons.
 
 #### (2) Sufficiency of notice
 
@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other law or rule of law, any person who is entitled to notice of a summons under subsection (a) shall have the right to begin a proceeding to quash such summons not later than the 20th day after the day such notice is given in themanner provided in subsection (a)(2). In any such proceeding, the Secretary may seek to compel compliance with the summons.
+&emsp;&emsp;Notwithstanding any other law or rule of law, any person who is entitled to notice of a summons under subsection (a) shall have the right to begin a proceeding to quash such summons not later than the 20th day after the day such notice is given in the manner provided in subsection (a)(2). In any such proceeding, the Secretary may seek to compel compliance with the summons.
 
 #### (B) Requirement of notice to person summoned and to Secretary
 
@@ -54,15 +54,17 @@
 
 &emsp;&emsp;&emsp;(i) an assessment made or judgment rendered against the person with respect to whose liability the summons is issued; or
 
-&emsp;&emsp;&emsp;(ii) the liability at law or in equity of any transferee or fiduciary of any person referred to in clause (i);
+&emsp;&emsp;&emsp;(ii) the liability at law or in equity of any transferee or fiduciary of any person referred to in clause (i); or
 
 &emsp;&emsp;(E)(i) issued by a criminal investigator of the Internal Revenue Service in connection with the investigation of an offense connected with the administration or enforcement of the internal revenue laws; and
 
-&emsp;&emsp;(ii) served on any person who is not a third-party recordkeeper (as defined in section 7603(b)); or
+&emsp;&emsp;(ii) served on any person who is not a third-party recordkeeper (as defined in section 7603(b)).
 
-&emsp;&emsp;(F) described in subsection (f) or (g).
+#### (3) John Doe and certain other summonses
 
-#### (3) Records
+&emsp;Subsection (a) shall not apply to any summons described in subsection (f) or (g).
+
+#### (4) Records
 
 &emsp;For purposes of this section, the term “records” includes books, papers, and other data.
 
@@ -78,7 +80,7 @@ No examination of any records required to be produced under a summons as to whic
 
 #### (1) Subsection (b) action
 
-&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons is issued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
+&emsp;If any person takes any action as provided in subsection (b) and such person is the person with respect to whose liability the summons isissued (or is the agent, nominee, or other person acting under the direction or control of such person), then the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which a proceeding, and appeals therein, with respect to the enforcement of such summons is pending.
 
 #### (2) Suspension after 6 months of service of summons
 
@@ -134,13 +136,17 @@ A summons is described in this subsection if, upon petition by the Secretary, th
 
 Nothing in this section shall be construed to limit the Secretary's ability to obtain information, other than by summons, through formal or informal procedures authorized by sections 7601 and 7602.
 
-(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(<i>l</i>)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755.)
+(Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(<i>l</i>)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(<i>l</i>)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635.)
 
 #### Prior Provisions
 
 A prior section 7609 was renumbered section 7613 of this title.
 
 #### Amendments
+
+2005—Subsec. (c)(2)(D) to (F). Pub. L. 109–135, §408(a)(1), inserted “or” at end of subpar. (D), substituted period for “; or” at end of subpar. (E), and struck out subpar. (F) which read as follows: “described in subsection (f) or (g).”
+
+Subsec. (c)(3), (4). Pub. L. 109–135, §408(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
 1998—Subsec. (a)(1). Pub. L. 105–206, §3415(a), reenacted heading without change and in text substituted “If any summons to which this section applies requires the giving of testimony on or relating to, the production of any portion of records made or kept on or relating to, or the production of any computer software source code (as defined in 7612(d)(2)) with respect to, any person (other than the person summoned) who is identified in the summons, then” for “If—
 
@@ -246,6 +252,10 @@ Subsec. (i). Pub. L. 97–248, §332(a), added subsec. (i).
 
 Pub. L. 95–599 substituted “6427(g)(2)” for “6427(e)(2)”.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–135, title IV, §408(b), Dec. 21, 2005, 119 Stat. 2635, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in section 3415 of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\].”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3415(d), July 22, 1998, 112 Stat. 756, provided that: “The amendments made by this section \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[July 22, 1998\].”
@@ -301,8 +311,4 @@ Amendment by Pub. L. 95–599 effective Jan. 1, 1979, see section 505(d) of Pub.
 #### Effective Date
 
 Section 1205(c) of Pub. L. 94–455, as amended by Pub. L. 94–528, §2(b), Oct. 17, 1976, 90 Stat. 2483, provided that: “The amendments made by this section \[enacting this section and section 7610 of this title\] shall apply with respect to any summons issued after February 28, 1977.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7611 of this title.
 

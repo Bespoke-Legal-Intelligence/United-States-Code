@@ -62,7 +62,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(a), (e)–(g), (i)\],
 
 “(i) The deadline for the Report to Congress required by section 609(c) of the Interstate 90 Land Exchange Act of 1998 \[section 101(e) \[title VI, §609(c)\] of Pub. L. 105–277, set out below\] is hereby extended. Such Report is due to the Congress 18 months from the date of the enactment of this Interstate 90 Land Exchange Amendment \[Nov. 29, 1999\].”
 
-Pub. L. 105–277, div. A, §101(e) \[title VI\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(b)–(e), (h), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title VI\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–326, as amended by Pub. L.106–113, div. B, §1000(a)(3) \[title III, §346(b)–(e), (h), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204 to 1501A–206, provided that:
 
 #### “SEC. 601. SHORT TITLE.
 
@@ -152,7 +152,7 @@ Condition and Conveyance of Offered Land.—The exchange directed by this Act sh
 
 &emsp;“(1) Certain land comprising approximately 8,808 acres and located within the exterior boundaries of the Mt. Baker-Snoqualmie National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998; and
 
-&emsp;“(2) Certain land comprising approximately 53,576 acres and located within or adjacent to the exterior boundaries of the Wenatchee National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998 except the following parcels: Township 19 North, Range 15 East, Section 29, W.M., Township 18 North, Range 15 East, Section 3, W.M., Township 19 North, Range 14 East, Section 9, W.M., Township 21 North, Range 14 East, Section 7, W.M., Township 22 North, Range 12 East, Section 35, W.M., Township 22 North, Range 13 East, Section 3, W.M., Township 22 North, Range 13 East, Section 9, W.M., Township 22 North, Range 13 East, Section 11, W.M., Township 22 North, Range 13 East, Section 13, W.M., Township 22 North, Range 13 East, Section 15, W.M., Township 22 North, Range 13 East, Section 25, W.M., Township 22 North, Range 13 East, Section 33, W.M., Township 22 North, Range 13 East, Section 35, W.M., Township 22 North, Range 14 East, Section 7, W.M., Township 22 North, Range 14 East, Section 9, W.M., Township 22 North, Range 14 East, Section 11, W.M., Township 22 North, Range 14 East, Section 15, W.M., Township 22 North, Range 14 East, Section 17, W.M., Township 22 North, Range 14 East, Section 21, W.M., Township 22 North, Range 14 East, Section 31, W.M., Township 22 North, Range 14 East, Section 27, W.M. The appraisal approved by the Secretary of Agriculture on June 14, 1999 (the ‘Appraisal’) shall be adjusted by subtracting the values for the parcels described in the preceding sentence determined during the Appraisal process in the context of the whole estate to be conveyed.
+&emsp;“(2) Certain land comprising approximately 53,576 acres and located within or adjacent to the exterior boundaries of the Wenatchee National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998 except the following parcels: Township 19 North, Range 15 East, Section 29, W.M., Township 18 North, Range 15 East, Section 3, W.M., Township 19 North, Range 14 East, Section 9, W.M., Township 21 North, Range 14 East, Section 7, W.M., Township 22 North, Range 12 East, Section 35, W.M., Township 22 North, Range 13 East, Section 3, W.M., Township 22 North, Range 13East, Section 9, W.M., Township 22 North, Range 13 East, Section 11, W.M., Township 22 North, Range 13 East, Section 13, W.M., Township 22 North, Range 13 East, Section 15, W.M., Township 22 North, Range 13 East, Section 25, W.M., Township 22 North, Range 13 East, Section 33, W.M., Township 22 North, Range 13 East, Section 35, W.M., Township 22 North, Range 14 East, Section 7, W.M., Township 22 North, Range 14 East, Section 9, W.M., Township 22 North, Range 14 East, Section 11, W.M., Township 22 North, Range 14 East, Section 15, W.M., Township 22 North, Range 14 East, Section 17, W.M., Township 22 North, Range 14 East, Section 21, W.M., Township 22 North, Range 14 East, Section 31, W.M., Township 22 North, Range 14 East, Section 27, W.M. The appraisal approved by the Secretary of Agriculture on June 14, 1999 (the ‘Appraisal’) shall be adjusted by subtracting the values for the parcels described in the preceding sentence determined during the Appraisal process in the context of the whole estate to be conveyed.
 
 “(b)
 
@@ -390,7 +390,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 “(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from enteringinto additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### “SEC. 608. TIETON RIVER STUDY.
 
@@ -420,5 +420,5 @@ Report to Congress.—Not later than 18 months after the date of enactment of th
 
 #### “SEC. 612. EFFECT ON COUNTY REVENUES.
 
-“The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of the transfer of the offered lands from private to Federal ownership.”
+“The Secretary shall consult with the appropriate Committees of Congress, and local elected officials in the counties in the State of Washington in which the offered lands are located, regarding options to minimize the adverse effect on county revenues of thetransfer of the offered lands from private to Federal ownership.”
 

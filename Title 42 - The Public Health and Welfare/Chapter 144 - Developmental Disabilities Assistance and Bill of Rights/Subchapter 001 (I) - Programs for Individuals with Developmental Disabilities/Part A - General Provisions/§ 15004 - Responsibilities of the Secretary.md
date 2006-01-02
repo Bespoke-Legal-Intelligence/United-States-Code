@@ -8,7 +8,7 @@
 
 #### (2) Areas of emphasis
 
-&emsp;The Secretary shall develop a process for identifying and reporting (pursuant to section 15005 of this title) on progress achieved through advocacy, capacity building, and systemic change activities, undertaken by the entities described in paragraph (1), that resulted in individuals with developmental disabilities and their families participating in the design of and having access to needed community services, individualized supports, and other forms of assistance that promote self-determination, independence, productivity, and integration and inclusion in all facets of community life. Specifically, the Secretary shall develop a process for identifying and reporting on progress achieved, through advocacy, capacity building, and systemic change activities, by the entities in the areas of emphasis.
+&emsp;The Secretary shall develop a process for identifying and reporting (pursuant to section15005 of this title) on progress achieved through advocacy, capacity building, and systemic change activities, undertaken by the entities described in paragraph (1), that resulted in individuals with developmental disabilities and their families participating in the design of and having access to needed community services, individualized supports, and other forms of assistance that promote self-determination, independence, productivity, and integration and inclusion in all facets of community life. Specifically, the Secretary shall develop a process for identifying and reporting on progress achieved, through advocacy, capacity building, and systemic change activities, by the entities in the areas of emphasis.
 
 #### (3) Indicators of progress
 

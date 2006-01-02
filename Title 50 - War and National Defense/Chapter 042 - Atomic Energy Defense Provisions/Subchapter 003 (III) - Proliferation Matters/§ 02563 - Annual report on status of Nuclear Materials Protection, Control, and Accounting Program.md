@@ -28,7 +28,7 @@ Each report under subsection (a) shall include the following:
 
 &emsp;(B) ensure verification by United States officials that Department of Energy assistance at the project is being used for the purposes intended.
 
-(Pub. L. 107–314, div. D, title XLIII, §4303, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475;Pub. L. 107–314, div. C, title XXXI, §3153, Dec. 2, 2002, 116 Stat. 2738; renumbered Pub. L. 107–314, div. D, title XLIII, §4303, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(4), Nov. 24, 2003, 117 Stat. 1763.)
+(Pub. L. 107–314, div. D, title XLIII, §4303, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3171\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475; Pub. L. 107–314, div. C, title XXXI, §3153, Dec. 2, 2002, 116 Stat. 2738; renumbered Pub. L. 107–314, div. D, title XLIII, §4303, and amended Pub. L. 108–136, div. C, title XXXI, §3141(f)(4), Nov. 24, 2003, 117 Stat. 1763.)
 
 #### References in Text
 

@@ -1,8 +1,0 @@
-### \[§7312. Repealed. Pub. L. 103–355, title II, §2001(j)(1), Oct. 13, 1994, 108 Stat. 3303\]
-
-Section, added Pub. L. 100–180, div. A, title XI, §1102(a)(1), Dec. 4, 1987, 101 Stat. 1145; amended Pub. L. 100–456, div. A, title XII, §1223, Sept. 29, 1988, 102 Stat. 2054; Pub. L. 101–189, div. A, title XVI, §1612, Nov. 29, 1989, 103 Stat. 1601, related to progress payments under certain contracts for repair or maintenance of naval vessels. See section 2307(g) of this title.
-
-#### Effective Date of Repeal
-
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under section 251 of Title 41, Public Contracts.
-

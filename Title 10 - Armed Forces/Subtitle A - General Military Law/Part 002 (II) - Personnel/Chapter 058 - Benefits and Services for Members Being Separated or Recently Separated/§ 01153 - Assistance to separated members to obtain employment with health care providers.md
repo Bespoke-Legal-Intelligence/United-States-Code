@@ -88,7 +88,3 @@ Subsec. (e)(2). Pub. L. 103–337, §543(e)(7)(B), inserted “concerned” afte
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1142 of this title.
-

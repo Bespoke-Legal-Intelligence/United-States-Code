@@ -10,25 +10,29 @@ The accumulated earnings tax imposed by section 531 shall not apply to—
 
 &emsp;(1) a personal holding company (as defined in section 542),
 
-&emsp;(2) a foreign personal holding company (as defined in section 552),
+&emsp;(2) a corporation exempt from tax under subchapter F (section 501 and following), or
 
-&emsp;(3) a corporation exempt from tax under subchapter F (section 501 and following), or
-
-&emsp;(4) a passive foreign investment company (as defined in section 1297).
+&emsp;(3) a passive foreign investment company (as defined in section 1297).
 
 #### (c) Application determined without regard to number of shareholders
 
 The application of this part to a corporation shall be determined without regard to the number of shareholders of such corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 98–369, div. A, title I, §58(a), July 18, 1984, 98 Stat. 574; Pub. L. 99–514, title XII, §1235(f)(1), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 98–369, div. A, title I, §58(a), July 18, 1984, 98 Stat. 574; Pub. L. 99–514, title XII, §1235(f)(1), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 109–135, title IV, §403(n)(1), Dec. 21, 2005, 119 Stat. 2626.)
 
 #### Amendments
+
+2005—Subsec. (b)(2) to (4). Pub. L. 109–135 redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follow: “a foreign personal holding company (as defined in section 552),”.
 
 1997—Subsec. (b)(4). Pub. L. 105–34 substituted “section 1297” for “section 1296”.
 
 1986—Subsec. (b)(4). Pub. L. 99–514 added par. (4).
 
 1984—Subsec. (c). Pub. L. 98–369 added subsec. (c).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -45,8 +49,4 @@ Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporation
 #### Effective Date of 1984 Amendment
 
 Section 58(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 535 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 531, 533 of this title.
 

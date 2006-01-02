@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 setout as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
+The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under section 101 of this title and Tables.
 
 For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under section 2404 of this title.
 
@@ -26,7 +26,7 @@ The date of enactment of this chapter, referred to in subsec. (b)(2), is the dat
 
 Subsec. (a). Pub. L. 105–368, §403(c)(3)(A), in first sentence, substituted “Administration responsible” for “System” and, in second sentence, substituted “The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs” for “Such system shall be headed by the Director of the National Cemetery System”.
 
-Subsec. (b). Pub. L. 105–368, §403(c)(3)(B), substituted “national cemeteries and other facilities under the control of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
+Subsec. (b). Pub. L. 105–368, §403(c)(3)(B), substituted “national cemeteries and other facilities under thecontrol of the National Cemetery Administration” for “National Cemetery System” in introductory provisions.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1000 of this title as this section.
 
@@ -200,7 +200,7 @@ Section 414 of Pub. L. 99–576 provided that:
 
 “(a)
 
-Authority.—The authority of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under chapter 24 of title 38, United States Code, to develop and acquire cemeteries as part of the National Cemetery System \[now National Cemetery Administration\] includes, but is not limited to, the authority to establish additional national cemeteries to serve the needs of veterans and their families in—
+Authority.—The authority of the Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] under chapter 24 of title 38, United States Code, to develop and acquire cemeteries as part of the NationalCemetery System \[now National Cemetery Administration\] includes, but is not limited to, the authority to establish additional national cemeteries to serve the needs of veterans and their families in—
 
 &emsp;“(1) San Francisco, California;
 

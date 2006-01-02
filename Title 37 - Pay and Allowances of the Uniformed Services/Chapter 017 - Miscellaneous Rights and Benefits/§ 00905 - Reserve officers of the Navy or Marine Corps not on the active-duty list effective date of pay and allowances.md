@@ -1,10 +1,10 @@
 ### §905. Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances
 
-(a) A reserve officer who is promoted under chapter 1405 of title 10 to a grade above lieutenant (junior grade) in the Naval Reserve or above first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the grade to which promoted for duty performed from the date on which he becomes eligible for promotion to that grade.
+(a) A reserve officer who is promoted under chapter 1405 of title 10 to a grade above lieutenant (junior grade) in the Navy Reserve or above first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the grade to which promoted for duty performed from the date on which he becomes eligible for promotion to that grade.
 
-(b) A reserve officer who is promoted under section 14308(b) of title 10 to the grade of lieutenant (junior grade) in the Naval Reserve or first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the higher grade for duty performed from the date given him as his date of rank.
+(b) A reserve officer who is promoted under section 14308(b) of title 10 to the grade of lieutenant (junior grade) in the Navy Reserve or first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the higher grade for duty performed from the date given him as his date of rank.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 488; Pub. L. 95–377, §9, Sept. 19, 1978, 92 Stat. 721; Pub. L. 96–513, title IV, §403(b), Dec. 12, 1980, 94 Stat. 2904; Pub. L. 103–337, div. A, title XVI, §1676(b)(3), Oct. 5, 1994, 108 Stat. 3019.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 488; Pub. L. 95–377, §9, Sept. 19, 1978, 92 Stat. 721; Pub. L. 96–513, title IV, §403(b), Dec. 12, 1980, 94 Stat. 2904; Pub. L. 103–337, div. A, title XVI,§1676(b)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 109–163, div. A, title V, §515(d)(1)(F), Jan. 6, 2006, 119 Stat. 3236.)
 
 Historical and Revision Notes
 
@@ -76,6 +76,8 @@ Historical and Revision Notes
 
 #### Amendments
 
+2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in two places.
+
 1994—Subsec. (a). Pub. L. 103–337, §1676(b)(3)(A), substituted “chapter 1405” for “chapter 549”.
 
 Subsec. (b). Pub. L. 103–337, §1676(b)(3)(B), substituted “section 14308(b)” for “section 5908”.
@@ -90,7 +92,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

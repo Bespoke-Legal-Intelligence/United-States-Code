@@ -22,10 +22,16 @@
 | [2645\.](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md) | Indemnification of Department of Transportation for losses covered by vessel war risk insurance. |
 | [2646\.](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md) | Travel services: procurement for official and unofficial travel under one contract. |
 | [2647\.](%C2%A7%2002647%20-%20Next-of-kin%20of%20persons%20unaccounted%20for%20from%20conflicts%20after%20World%20War%20II%20transportation%20to%20annual%20meetings.md) | Next-of-kin of persons unaccounted for from conflicts after World War II: transportation to annual meetings. |
+| [2648\.](%C2%A7%2002648%20-%20Persons%20and%20supplies%20sea%20transportation.md) | Persons and supplies: sea transportation. |
+| [2649\.](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels.md) | Civilian passengers and commercial cargoes: transportation on Department of Defense vessels. |
+| [2650\.](%C2%A7%2002650%20-%20Civilian%20personnel%20in%20Alaska.md) | Civilian personnel in Alaska. |
+| [2651\.](%C2%A7%2002651%20-%20Passengers%20and%20merchandise%20to%20Guam%20sea%20transport.md) | Passengers and merchandise to Guam: sea transport. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title X, §1072(d)(1), Oct. 28, 2004, 118 Stat. 2058, added items 2648 to 2651.
 
 2003—Pub. L. 108–136, div. A, title VI, §634(b), title X, §1006(b)(2), Nov. 24, 2003, 117 Stat. 1510, 1585, added item 2636a and amended item 2642 generally, substituting “Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate” for “Reimbursement rate for airlift services provided to Central Intelligence Agency”.
 
@@ -67,6 +73,10 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 1957—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
 
+<i><sup>1</sup></i><i> Another section 2613 is set out preceding this section.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+
 
 ---
 
@@ -92,3 +102,7 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02645 - Indemnification of Department of Transportation for losses covered by vessel war risk insurance](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md)
 - [&sect; 02646 - Travel services procurement for official and unofficial travel under one contract](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md)
 - [&sect; 02647 - Next-of-kin of persons unaccounted for from conflicts after World War II transportation to annual meetings](%C2%A7%2002647%20-%20Next-of-kin%20of%20persons%20unaccounted%20for%20from%20conflicts%20after%20World%20War%20II%20transportation%20to%20annual%20meetings.md)
+- [&sect; 02648 - Persons and supplies sea transportation](%C2%A7%2002648%20-%20Persons%20and%20supplies%20sea%20transportation.md)
+- [&sect; 02649 - Civilian passengers and commercial cargoes transportation on Department of Defense vessels](%C2%A7%2002649%20-%20Civilian%20passengers%20and%20commercial%20cargoes%20transportation%20on%20Department%20of%20Defense%20vessels.md)
+- [&sect; 02650 - Civilian personnel in Alaska](%C2%A7%2002650%20-%20Civilian%20personnel%20in%20Alaska.md)
+- [&sect; 02651 - Passengers and merchandise to Guam sea transport](%C2%A7%2002651%20-%20Passengers%20and%20merchandise%20to%20Guam%20sea%20transport.md)

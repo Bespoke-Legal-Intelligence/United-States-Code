@@ -12,7 +12,7 @@
 
 (2) A rail carrier providing transportation subject to the jurisdiction of the Board under this part, and a lessor, receiver, or trustee of that rail carrier, violating section 11144(b)(1) of this title, is liable to the United States Government for a civil penalty of $100 for each violation.
 
-(3) A rail carrier providing transportation subject to the jurisdiction of the Board under this part, a lessor, receiver, or trustee of that rail carrier, a person furnishing cars, and an officer, agent, or employee of one of them, required to make a report to the Board or answer a question that does not make the report or does not specifically, completely, and truthfully answer the question, is liable to the United States Government for a civil penalty of $100 for each violation.
+(3) A rail carrier providing transportation subject to the jurisdiction of the Board under thispart, a lessor, receiver, or trustee of that rail carrier, a person furnishing cars, and an officer, agent, or employee of one of them, required to make a report to the Board or answer a question that does not make the report or does not specifically, completely, and truthfully answer the question, is liable to the United States Government for a civil penalty of $100 for each violation.
 
 (4) A separate violation occurs for each day a violation under this subsection continues.
 

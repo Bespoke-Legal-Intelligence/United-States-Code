@@ -20,10 +20,6 @@ Section 4121, acts Aug. 16, 1954, ch. 736, 68A Stat. 486; Sept. 2, 1958, Pub. L.
 
 Section 4131, act Aug. 16, 1954, ch. 736, 68A Stat. 486, imposed a 10 percent tax on electric light bulbs and tubes, prior to repeal by Pub. L. 89–44, title II, §203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after Jan. 1, 1965.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 9501 of this title.
-
 
 ---
 

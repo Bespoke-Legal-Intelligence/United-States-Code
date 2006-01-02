@@ -34,6 +34,10 @@ The Program shall consist of—
 
 2000—Subsec. (c). Pub. L. 106–316 struck out “50” before “States” in pars. (1) and (2).
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–166, §1, Jan. 10, 2006, 119 Stat. 3576, provided that: “This Act \[amending sections 719a and 719c of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title\] may be cited as the ‘Junior Duck Stamp Reauthorization Amendments Act of 2005’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 103–340 provided that: “This Act \[enacting this subchapter and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title\] may be cited as the ‘Junior Duck Stamp Conservation and Design Program Act of 1994’.”

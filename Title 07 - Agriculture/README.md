@@ -1,5 +1,5 @@
 
-7 U.S.C.<br>United States Code, 2004 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
+7 U.S.C.<br>United States Code, 2005 Edition<br>Title 7 - AGRICULTURE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 7—AGRICULTURE
 
@@ -129,6 +129,7 @@
 | [<b>109.</b>](Chapter%20109%20-%20Animal%20Health%20Protection/README.md) | <b>Animal Health Protection</b> | <b>8301</b> |
 | [<b>110.</b>](Chapter%20110%20-%20Enhancing%20Controls%20on%20Dangerous%20Biological%20Agents%20and%20Toxins/README.md) | <b>Enhancing Controls on Dangerous Biological Agents and Toxins</b> | <b>8401</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Brown%20Tree%20Snake%20Control%20and%20Eradication/README.md) | <b>Brown Tree Snake Control and Eradication</b> | <b>8501</b> |
+| [<b>112.</b>](Chapter%20112%20-%20Biomass%20Research%20and%20Development/README.md) | <b>Biomass Research and Development</b> | <b>8601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -261,3 +262,4 @@
 - [Chapter 109 - Animal Health Protection](Chapter%20109%20-%20Animal%20Health%20Protection/README.md)
 - [Chapter 110 - Enhancing Controls on Dangerous Biological Agents and Toxins](Chapter%20110%20-%20Enhancing%20Controls%20on%20Dangerous%20Biological%20Agents%20and%20Toxins/README.md)
 - [Chapter 111 - Brown Tree Snake Control and Eradication](Chapter%20111%20-%20Brown%20Tree%20Snake%20Control%20and%20Eradication/README.md)
+- [Chapter 112 - Biomass Research and Development](Chapter%20112%20-%20Biomass%20Research%20and%20Development/README.md)

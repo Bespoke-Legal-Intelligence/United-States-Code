@@ -38,7 +38,7 @@ It appears that the rule was never in doubt until after the enactment of the two
 
 1968—Subsec. (b). Pub. L. 90–623 inserted “former” before “section 6150”.
 
-1963—Subsec. (c). Pub. L. 88–132 repealed subsec. (c) which provided for recomputation of retired pay of retired members of the naval service, recalled to active duty in the higher grade for officers specially commended and released from such duty, on basis of thethen monthly basic pay of the grade held on the retired list after continuous 2-year period of service. See section 1402 of this title.
+1963—Subsec. (c). Pub. L. 88–132 repealed subsec. (c) which provided for recomputation of retired pay of retired members of the naval service, recalled to active duty in the higher grade for officers specially commended and released from such duty, on basis of the then monthly basic pay of the grade held on the retired list after continuous 2-year period of service. See section 1402 of this title.
 
 1958—Subsec. (c). Pub. L. 85–422 added subsec. (c).
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
 

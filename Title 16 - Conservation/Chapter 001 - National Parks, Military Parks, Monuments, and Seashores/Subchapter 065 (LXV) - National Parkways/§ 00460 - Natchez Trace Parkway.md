@@ -58,7 +58,7 @@ Administration.—Land acquired under this section shall be administered by the 
 
 #### “SEC. 3. AUTHORIZATION OF LEASING.
 
-“The Secretary, acting through the Superintendent of the Parkway, may lease land within the boundary of the Parkway to the city of Natchez, Mississippi, for any purpose compatible with the Parkway.
+“The Secretary, acting through the Superintendent of the Parkway, may lease land within the boundary ofthe Parkway to the city of Natchez, Mississippi, for any purpose compatible with the Parkway.
 
 #### “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
 

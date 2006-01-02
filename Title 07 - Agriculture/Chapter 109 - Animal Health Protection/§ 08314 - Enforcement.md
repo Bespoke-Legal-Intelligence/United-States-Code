@@ -14,7 +14,7 @@
 
 #### (B) Location of production
 
-&emsp;&emsp;The attendance of any witness and production of documentary evidence relevant tothe inquiry may be required from any place in the United States.
+&emsp;&emsp;The attendance of any witness and production of documentary evidence relevant to the inquiry may be required from any place in the United States.
 
 #### (C) Enforcement
 

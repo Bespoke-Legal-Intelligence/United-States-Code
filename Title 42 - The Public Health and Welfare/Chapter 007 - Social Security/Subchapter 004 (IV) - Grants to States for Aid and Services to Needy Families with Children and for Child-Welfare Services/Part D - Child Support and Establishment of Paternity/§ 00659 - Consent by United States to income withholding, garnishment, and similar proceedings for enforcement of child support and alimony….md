@@ -20,7 +20,7 @@ With respect to notice to withhold income pursuant to subsection (a)(1) or (b) o
 
 #### (2) Response to notice or process
 
-&emsp;If an agent designated pursuant to paragraph (1) of this subsection receives noticepursuant to State procedures in effect pursuant to subsection (a)(1) or (b) of section 666 of this title, or is effectively served with any order, process, or interrogatory, with respect to an individual's child support or alimony payment obligations, the agent shall—
+&emsp;If an agent designated pursuant to paragraph (1) of this subsection receives notice pursuant to State procedures in effect pursuant to subsection (a)(1) or (b) of section 666 of this title, or is effectively served with any order, process, or interrogatory, with respect to an individual's child support or alimony payment obligations, the agent shall—
 
 &emsp;&emsp;(A) as soon as possible (but not later than 15 days) thereafter, send written notice of the notice or service (together with a copy of the notice or service) to the individual at the duty station or last-known home address of the individual;
 
@@ -44,7 +44,7 @@ A governmental entity that is affected by legal process served for the enforceme
 
 #### (f) Relief from liability
 
-(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payable from the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
+(1) Neither the United States, nor the government of the District of Columbia, nor any disbursing officer shall be liable with respect to any payment made from moneys due or payablefrom the United States to any individual pursuant to legal process regular on its face, if the payment is made in accordance with this section and the regulations issued to carry out this section.
 
 (2) No Federal employee whose duties include taking actions necessary to comply with the requirements of subsection (a) of this section with regard to any individual shall be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or on account of, any disclosure of information made by the employee in connection with the carrying out of such actions.
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 #### (1) United States
 
-&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of the Federal Government, the United States Postal Service, the Postal Rate Commission, any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
+&emsp;The term “United States” includes any department, agency, or instrumentality of the legislative, judicial, or executive branch of theFederal Government, the United States Postal Service, the Postal Rate Commission, any Federal corporation created by an Act of Congress that is wholly owned by the Federal Government, and the governments of the territories and possessions of the United States.
 
 #### (2) Child support
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
-(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357;amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
+(Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
 
 #### References in Text
 
@@ -262,7 +262,7 @@ Sec. 301. <i>Wage Withholding</i>. (a) Within 60 days from the date of this orde
 
 (b) Beginning no later than July 1, 1995, the Director of the Office of Personnel Management (OPM) shall publish annually in the Federal Register the list of agents (and their addresses) designated to receive service of withholding notices for Federal employees.
 
-Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in the service of legal process in civil actions pursuant to orders of courts of States to establish paternity and establish or enforce a support obligation by making Federal employees and members of the Uniformed Services stationed outside the United States available for the service of process. Each agency shall designate an official who shall be responsible for facilitating a Federal employee's or member's availability for service of process, regardless of the location of the employee's workplace or member's duty station. The OPM shall publish a list of these officials annually in the Federal Register, beginning no later than July 1, 1995.
+Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in the service of legal process in civil actions pursuant to orders of courts of States to establish paternity and establish or enforce a support obligation by making Federal employees and members of the Uniformed Services stationed outside the United States available for the service of process. Each agency shall designate an official who shall be responsible for facilitating a Federal employee's or member's availability for service of process, regardless of the location of theemployee's workplace or member's duty station. The OPM shall publish a list of these officials annually in the Federal Register, beginning no later than July 1, 1995.
 
 Sec. 303. <i>Federal Parent Locator</i>. Every Federal agency shall cooperate with the Federal Parent Locator Service, established under 42 U.S.C. 653, by providing complete, timely and accurate information that will assist in locating noncustodial parents and their employers.
 

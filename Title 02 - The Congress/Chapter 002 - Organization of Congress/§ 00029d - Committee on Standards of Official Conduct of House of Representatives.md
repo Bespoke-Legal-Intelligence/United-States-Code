@@ -44,7 +44,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 (3) The primary responsibilities of the Office shall include:
 
-&emsp;(A) Providing information and guidance to Members, officers and employees of the Houseregarding any laws, rules, regulations, and other standards of conduct applicable to such individuals in their official capacities, and any interpretations and advisory opinions of the committee.
+&emsp;(A) Providing information and guidance to Members, officers and employees of the House regarding any laws, rules, regulations, and other standards of conduct applicable to such individuals in their official capacities, and any interpretations and advisory opinions of the committee.
 
 &emsp;(B) Submitting to the chairman and ranking minority member of the committee any written request from any such Member, officer or employee for an interpretation of applicable laws, rules, regulations, or other standards of conduct, together with any recommendations thereon.
 
@@ -84,7 +84,7 @@ Section 805 of Pub. L. 101–194 provided that:
 
 Restrictions.—The Committee on Standards of Official Conduct of the House of Representatives shall amend its advisory opinions relating to the acceptance of necessary travel expenses incurred on or after January 1, 1990, in connection with speaking engagements and similar events to—
 
-&emsp;“(1) prohibit the acceptance of such expenses for more than 4 consecutive days in the case of domestic travel and 7 consecutive days (excluding travel days) in the case of foreign travel; and
+&emsp;“(1) prohibit the acceptance of such expenses for more than 4 consecutive days in the case of domestictravel and 7 consecutive days (excluding travel days) in the case of foreign travel; and
 
 &emsp;“(2) permit the acceptance of travel expenses for the spouse or other family member in connection with any substantial participation event or fact-finding activity.
 

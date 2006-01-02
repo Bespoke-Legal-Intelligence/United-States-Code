@@ -2,7 +2,7 @@
 
 #### (a) Authorization of agreements
 
-The Secretary is authorized to enter into written agreements with any taxpayer under which such taxpayer is allowed to satisfy liability for payment of any tax in installment payments if the Secretary determines that such agreement will facilitate collection of such liability.
+The Secretary is authorized to enter into written agreements with any taxpayer under which such taxpayer is allowed to make payment on any tax in installment payments if the Secretary determines that such agreement will facilitate full or partial collection of such liability.
 
 #### (b) Extent to which agreements remain in effect
 
@@ -44,7 +44,7 @@ The Secretary is authorized to enter into written agreements with any taxpayer u
 
 #### (c) Secretary required to enter into installment agreements in certain cases
 
-In the case of a liability for tax of an individual under subtitle A, the Secretary shall enter into an agreement to accept the payment of such tax in installments if, as of the date the individual offers to enter into the agreement—
+In the case of a liability for tax of an individual under subtitle A, the Secretary shall enter into an agreement to accept the full payment of such tax in installments if, as of the date the individual offers to enter into the agreement—
 
 &emsp;(1) the aggregate amount of such liability (determined without regard to interest, penalties, additions to the tax, and additional amounts) does not exceed $10,000;
 
@@ -62,17 +62,27 @@ In the case of a liability for tax of an individual under subtitle A, the Secret
 
 &emsp;(5) the taxpayer agrees to comply with the provisions of this title for the period such agreement is in effect.
 
-#### (d) Administrative review
+#### (d) Secretary required to review installment agreements for partial collection every two years
+
+In the case of an agreement entered into by the Secretary under subsection (a) for partial collection of a tax liability, the Secretary shall review the agreement at least once every 2 years.
+
+#### (e) Administrative review
 
 The Secretary shall establish procedures for an independent administrative review of terminations of installment agreements under this section for taxpayers who request such a review.
 
-#### (e) Cross reference
+#### (f) Cross reference
 
 &emsp;&emsp;<b>For rights to administrative review and appeal, see section 7122(d).</b>
 
-(Added Pub. L. 100–647, title VI, §6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, §4002(g), Oct. 21, 1998, 112 Stat. 2681–907.)
+(Added Pub. L. 100–647, title VI, §6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, §4002(g), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 108–357, title VIII, §843(a), (b), Oct. 22, 2004, 118 Stat. 1600.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–357, §843(a)(1), substituted “make payment on” for “satisfy liability for payment of” and inserted “full or partial” after “facilitate”.
+
+Subsec. (c). Pub. L. 108–357, §843(a)(2), inserted “full” before “payment” in introductory provisions.
+
+Subsec. (d) to (f). Pub. L. 108–357, §843(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 1998—Subsec. (c). Pub. L. 105–206, §3467(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -102,6 +112,10 @@ Subsec. (b)(5). Pub. L. 104–168, §201(a), added par. (5).
 
 Subsec. (c). Pub. L. 104–168, §202(a), added subsec. (c).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §843(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “The amendments made by this section \[amending this section\] shall apply to agreements entered into on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 1998 Amendments
 
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
@@ -123,8 +137,4 @@ Section 6234(c) of Pub. L. 100–647 provided that: “The amendments made by th
 #### Statements Regarding Installment Agreements
 
 Pub. L. 105–206, title III, §3506, July 22, 1998, 112 Stat. 771, as amended by Pub. L. 106–554, §1(a)(7) \[title III, §302(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The Secretary of the Treasury or the Secretary's delegate shall, beginning not later than September 1, 2001, provide each taxpayer who has an installment agreement in effect under section 6159 of the Internal Revenue Code of 1986 an annual statement setting forth the initial balance at the beginning of the year, the payments made during the year, and the remaining balance as of the end of the year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6323, 6330, 6331, 6343, 6601, 6651, 7122 of this title.
 

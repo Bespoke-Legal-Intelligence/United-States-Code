@@ -6,7 +6,7 @@
 
 &emsp;(2) to have all of that leave restored to him and credited to a separate leave account in accordance with the provisions of section 6304(d)(2) of this title.
 
-> An employee shall elect in writing, within 90 days immediately following December 14, 1973,or within 90 days immediately following the termination of his missing status, whichever is later, whether he desires payment for the leave under clause (1) of this subsection or credit of the leave under clause (2) of this subsection. Payment under clause (1) of this subsection shall be at the employee's rate of basic pay in effect at the time the leave was forfeited.
+> An employee shall elect in writing, within 90 days immediately following December 14, 1973, or within 90 days immediately following the termination of his missing status, whichever is later, whether he desires payment for the leave under clause (1) of this subsection or credit of the leave under clause (2) of this subsection. Payment under clause (1) of this subsection shall be at the employee's rate of basic pay in effect at the time the leave was forfeited.
 
 (b) Entitlement to pay and allowances under subsection (a) of this section ends on the date of—
 

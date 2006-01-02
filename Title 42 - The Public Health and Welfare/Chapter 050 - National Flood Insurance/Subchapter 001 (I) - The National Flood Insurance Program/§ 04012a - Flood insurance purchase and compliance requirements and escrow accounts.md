@@ -18,7 +18,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall implement procedures reasonably designed to ensure that, for any loan that is—
 
-&emsp;&emsp;(A) secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during theterm of the loan, by the Director as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968, and
+&emsp;&emsp;(A) secured by improved real estate or a mobile home located in an area that has been identified, at the time of the origination of the loan or at any time during the term of the loan, by the Director as an area having special flood hazards and in which flood insurance is available under the National Flood Insurance Act of 1968, and
 
 &emsp;&emsp;(B) purchased by such entity,
 
@@ -88,7 +88,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (A) In general
 
-&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile home may jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
+&emsp;&emsp;The borrower and lender for a loan secured by improved real estate or a mobile homemay jointly request the Director to review a determination of whether the building or mobile home is located in an area having special flood hazards. Such request shall be supported by technical information relating to the improved real estate or mobile home. Not later than 45 days after the Director receives the request, the Director shall review the determination and provide to the borrower and the lender with a letter stating whether or not the building or mobile home is in an area having special flood hazards. The determination of the Director shall be final.
 
 #### (B) Effect of determination
 

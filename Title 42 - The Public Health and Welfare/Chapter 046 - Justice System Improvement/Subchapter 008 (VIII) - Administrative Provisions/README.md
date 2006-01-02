@@ -11,7 +11,7 @@
 - [&sect; 03782 - Rules, regulations, and procedures; consultations and establishment](%C2%A7%2003782%20-%20Rules%2C%20regulations%2C%20and%20procedures%3B%20consultations%20and%20establishment.md)
 - [&sect; 03783 - Notice and hearing on denial or termination of grant](%C2%A7%2003783%20-%20Notice%20and%20hearing%20on%20denial%20or%20termination%20of%20grant.md)
 - [&sect; 03784 - Finality of determinations](%C2%A7%2003784%20-%20Finality%20of%20determinations.md)
-- [&sect; 03785 - Appellate court review](%C2%A7%2003785%20-%20Appellate%20court%20review.md)
+- [&sect; 03785 - Repealed. Pub. L. 109&#8211;162, title XI, &sect;1155(3), Jan. 5, 2006, 119 Stat. 3114](%C2%A7%2003785%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20XI%2C%20%C2%A71155%283%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203114.md)
 - [&sect; 03786 - Delegation of functions](%C2%A7%2003786%20-%20Delegation%20of%20functions.md)
 - [&sect; 03787 - Subpoena power; employment of hearing officers; authority to hold hearings](%C2%A7%2003787%20-%20Subpoena%20power%3B%20employment%20of%20hearing%20officers%3B%20authority%20to%20hold%20hearings.md)
 - [&sect; 03788 - Personnel and administrative authority](%C2%A7%2003788%20-%20Personnel%20and%20administrative%20authority.md)

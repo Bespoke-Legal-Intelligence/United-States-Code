@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (1) Applicable straddle
 
-&emsp;The term “applicable straddle” means any straddle (within the meaning of section 1092(c)); except that the term “personal property” shall include stock.
+&emsp;The term “applicable straddle” means any straddle (within the meaning of section 1092(c)).
 
 #### (2) Applicable rate
 
@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (B) Built-in loss
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “built-in loss” means the loss (if any) which would have been realized if the position had been disposed of or otherwise terminated at its fair market value as of the time such position became part of the conversion transaction.
+&emsp;&emsp;For purposes of subparagraph (A), the term “built-in loss” means the loss (if any) whichwould have been realized if the position had been disposed of or otherwise terminated at its fair market value as of the time such position became part of the conversion transaction.
 
 #### (4) Position taken into account at fair market value
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (C) Limited partners and limited entrepreneurs
 
-&emsp;&emsp;In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur\(within the meaning of section 464(e)(2)), subparagraph (A) shall not apply if—
+&emsp;&emsp;In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)), subparagraph (A) shall not apply if—
 
 &emsp;&emsp;&emsp;(i) substantially all of the limited partner's (or limited entrepreneur's) expected return from the entity is attributable to the time value of the partner's (or entrepreneur's) net investment in such entity,
 
@@ -102,7 +102,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the transaction (or the interest in the entity) is a transaction (or interest) specified in regulations prescribed by the Secretary.
 
-(Added Pub. L. 103–66, title XIII, §13206(a)(1), Aug. 10, 1993, 107 Stat. 462.)
+(Added Pub. L. 103–66, title XIII, §13206(a)(1), Aug. 10, 1993, 107 Stat. 462; amended Pub. L. 108–357, title VIII, §888(c)(2), Oct. 22, 2004, 118 Stat. 1643.)
+
+#### Amendments
+
+2004—Subsec. (d)(1). Pub. L. 108–357 struck out “; except that the term ‘personal property’ shall include stock” before period at end.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) of Pub. L. 108–357, set out as a note under section 246 of this title.
 
 #### Effective Date
 

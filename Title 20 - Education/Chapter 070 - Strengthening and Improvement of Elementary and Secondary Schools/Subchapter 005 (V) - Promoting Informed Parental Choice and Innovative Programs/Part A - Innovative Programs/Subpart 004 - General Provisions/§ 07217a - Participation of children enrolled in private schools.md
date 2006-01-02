@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Expenditures for programs under subsection (a) of this section shall be equal (consistentwith the number of children to be served) to expenditures for programs under this part for children enrolled in the public schools of the local educational agency.
+&emsp;Expenditures for programs under subsection (a) of this section shall be equal (consistent with the number of children to be served) to expenditures for programs under this part for children enrolled in the public schools of the local educational agency.
 
 #### (2) Concentrated programs
 
@@ -54,7 +54,7 @@
 
 #### (e) Withholding of allotment or allocation
 
-Pending final resolution of any investigation or complaint that could result in a waiver under subsection (d)(1) or (d)(2) of this section, the Secretary may withhold from the allotment or allocation of the affected State educational agency or local educational agency the amount estimated by the Secretary to be necessary to pay the cost of services to be provided by the Secretary under such subsection.
+Pending final resolution of any investigation or complaint that could result in a waiver undersubsection (d)(1) or (d)(2) of this section, the Secretary may withhold from the allotment or allocation of the affected State educational agency or local educational agency the amount estimated by the Secretary to be necessary to pay the cost of services to be provided by the Secretary under such subsection.
 
 #### (f) Duration of determination
 
@@ -80,7 +80,7 @@ When the Secretary arranges for services under subsection (d) of this section, t
 
 #### (4) Court review
 
-&emsp;Upon the filing of a petition under paragraph (2), the court shall have jurisdiction to affirm the action of the Secretary or to set such action aside, in whole or in part. The judgmentof the court shall be subject to review by the Supreme Court upon certiorari or certification, as provided in section 1254 of title 28.
+&emsp;Upon the filing of a petition under paragraph (2), the court shall have jurisdiction to affirm the action of the Secretary or to set such action aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court upon certiorari or certification, as provided in section 1254 of title 28.
 
 #### (i) Prior determination
 

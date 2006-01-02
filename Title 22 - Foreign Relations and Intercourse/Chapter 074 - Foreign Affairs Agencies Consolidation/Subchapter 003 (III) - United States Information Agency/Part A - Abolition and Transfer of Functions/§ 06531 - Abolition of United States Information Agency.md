@@ -1,6 +1,6 @@
 ### §6531. Abolition of United States Information Agency
 
-The United States Information Agency (other than the Broadcasting Board of Governors andthe International Broadcasting Bureau) is abolished.
+The United States Information Agency (other than the Broadcasting Board of Governors and the International Broadcasting Bureau) is abolished.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XIII, §1311, Oct. 21, 1998, 112 Stat. 2681–776.)
 

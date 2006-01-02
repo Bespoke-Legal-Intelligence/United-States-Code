@@ -42,7 +42,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 (2) The President shall report to the Congress promptly upon the receipt of information that a violation described in paragraph (1) of this subsection may have occurred.
 
-(3)(A) A country shall be deemed to be ineligible under subparagraph (A) of paragraph (1) of this subsection, or both subparagraphs (A) and (B) of such paragraph in the case of a violation described in both such paragraphs, if the President so determines and so reports in writing to the Congress, or if the Congress so determines by joint resolution.
+(3)(A) A country shall be deemed to be ineligible under subparagraph (A) of paragraph (1) of this subsection, or both subparagraphs (A) and (B) of such paragraph in the case of a violation described in both such paragraphs, if the President so determines and so reports in writing tothe Congress, or if the Congress so determines by joint resolution.
 
 (B) Notwithstanding a determination by the President of ineligibility under subparagraph (B) of paragraph (1) of this subsection, cash sales and deliveries pursuant to previous sales may be made if the President certifies in writing to the Congress that a termination thereof would have significant adverse impact on United States security, unless the Congress adopts or has adopted a joint resolution pursuant to subparagraph (A) of this paragraph with respect to such ineligibility.
 
@@ -84,7 +84,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 &emsp;(ii) at least 30 calendar days before such consent is given in the case of a transfer to any other country,
 
-> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.
+> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph\(B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.
 
 (B) Consent to a transfer subject to subparagraph (A) shall become effective after the end of the 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only if the Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
 
@@ -104,7 +104,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 &emsp;&emsp;(ii) for lead-nation procurement if the certification transmitted to the Congress pursuant to section 2776(b) of this title with regard to such lead-nation procurement identified the transferees on whose behalf the lead-nation procurement was proposed.
 
-(5) In the case of a transfer to a member country of the North Atlantic Treaty Organization\(NATO) or Australia, Japan, or New Zealand that does not authorize a new sales territory that includes any country other than such countries, the limitations on consent of the President set forth in paragraphs (1) and (3)(A) shall apply only if the transfer is—
+(5) In the case of a transfer to a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, or New Zealand that does not authorize a new sales territory that includes any country other than such countries, the limitations on consent of the President set forth in paragraphs (1) and (3)(A) shall apply only if the transfer is—
 
 &emsp;(A) a transfer of major defense equipment valued (in terms of its original acquisition cost) at $25,000,000 or more; or
 
@@ -160,7 +160,7 @@ Subsec. (d)(3)(B), (C). Pub. L. 104–164, §141(b)(3), added subpars. (B) and (
 
 1988—Subsec. (d)(2)(A). Pub. L. 100–461, §577(1), substituted “joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” for “law”.
 
-Subsec. (d)(3). Pub. L. 100–461, §577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and2776(c)(3) of this title prohibiting the proposed transfer.”
+Subsec. (d)(3). Pub. L. 100–461, §577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
 
 1986—Subsec. (a). Pub. L. 99–661 repealed section 1102(a)(3) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 

@@ -68,7 +68,7 @@
 
 \[(3) Repealed. Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645.\]
 
-(4) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary of a militarydepartment (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
+(4) Money rentals received by the United States directly from a lease under this section for agricultural or grazing purposes of lands under the control of the Secretary of a military department (other than lands acquired by the United States for flood control or navigation purposes or any related purpose, including the development of hydroelectric power) may be retained and spent by the Secretary concerned in such amounts as the Secretary considers necessary to cover the administrative expenses of leasing for such purposes and to cover the financing of multiple-land use management programs at any installation under the jurisdiction of the Secretary.
 
 (5) Money rentals received by the United States from a lease under subsection (f) shall be deposited into the account established under section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
@@ -96,7 +96,7 @@
 
 (g)(1) If a proposed lease under subsection (a) involves only personal property, the lease term exceeds one year, and the fair market value of the lease interest exceeds $100,000, as determined by the Secretary concerned, the Secretary shall use competitive procedures to select the lessee.
 
-(2) Not later than 45 days before entering into a lease described in paragraph (1), the Secretary concerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.
+(2) Not later than 45 days before entering into a lease described in paragraph (1), the Secretaryconcerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.
 
 (3) Paragraph (1) does not apply to a renewal or extension of a lease by the Secretary of the Navy with a selected institution for operation of a ship within the University National Oceanographic Laboratory System if, under the lease, each of the following applies:
 
@@ -110,7 +110,7 @@
 
 (i) This section does not apply to oil, mineral, or phosphate lands.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X,§1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, §3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, §1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, §1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, §4(b)(4), Dec. 15, 2003, 117 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -324,13 +324,37 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of amendment, see section 501(h) of Pub. L. 94–412, set out as a note under section 1601 of Title 50, War and National Defense.
 
+#### Transfers From Special Accounts
+
+Pub. L. 108–287, title VIII, §8034, Aug. 5, 2004, 118 Stat. 978, provided that: “Amounts deposited during the current fiscal year and hereafter to the special account established under 40 U.S.C. 572(b)(5)(A) and to the special account established under 10 U.S.C. 2667(d)(1) are appropriated and shall be available until transferred by the Secretary of Defense to current applicable appropriations or funds of the Department of Defense under the terms and conditions specified by 40 U.S.C. 572(b)(5)(B) and 10 U.S.C. 2667(d)(1)(B), to be merged with and to be available for the same time period and the same purposes as the appropriation to which transferred.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–87, title VIII, §8035, Sept. 30, 2003, 117 Stat. 1080.
+
+Pub. L. 107–248, title VIII, §8035, Oct. 23, 2002, 116 Stat. 1544.
+
+Pub. L. 107–117, div. A, title VIII, §8038, Jan. 10, 2002, 115 Stat. 2255.
+
+Pub. L. 106–259, title VIII, §8038, Aug. 9, 2000, 114 Stat. 682.
+
+Pub. L. 106–79, title VIII, §8040, Oct. 25, 1999, 113 Stat. 1239.
+
+Pub. L. 105–262, title VIII, §8040, Oct. 17, 1998, 112 Stat. 2306.
+
+Pub. L. 105–56, title VIII, §8044, Oct. 8, 1997, 111 Stat. 1230.
+
+Pub. L. 104–61, title VIII, §8056, Dec. 1, 1995, 109 Stat. 663.
+
+Pub. L. 103–335, title VIII, §8063, Sept. 30, 1994, 108 Stat. 2634.
+
+Pub. L. 103–139, title VIII, §8074, Nov. 11, 1993, 107 Stat. 1457.
+
+Pub. L. 102–396, title IX, §9107, Oct. 6, 1992, 106 Stat. 1927.
+
 #### Leasing of Defense Property; Notification of Congress; Waiver; Report to Congress; Definition
 
 Pub. L. 96–533, title I, §109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provided that before the Secretary of a military department exercised his authority under section 2667 of title 10, United States Code, in order to lease defense property to a foreign government for a period of more than six months, the President had to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, a written notification of the particulars of the proposed lease, prior to repeal by Pub. L. 97–113, title I, §109(d)(1), Dec. 29, 1981, 95 Stat. 1526. See section 2795 et seq. of Title 22, Foreign Relations and Intercourse.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2474, 2668, 2669, 2814, 2878 of this title; title 16 section 670a; title 22 section 2796; title 40 section 572.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

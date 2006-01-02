@@ -28,7 +28,7 @@
 
 (e) In this section:
 
-&emsp;(1) The term “defense laboratory” means any laboratory, product center, test center, depot, training and educational organization, or operational command under the jurisdiction of the Department of Defense.
+&emsp;(1) The term “defense laboratory” means any laboratory, product center, test center, depot, training and educational organization,or operational command under the jurisdiction of the Department of Defense.
 
 &emsp;(2) The term “local educational agency” has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965.
 
@@ -71,10 +71,6 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 15 section 3715.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@
 
 > In determining whether any such plan is adequately financed, each committee shall consider the necessity for minimum funding standards, as well as the taxing power of the government maintaining the plan.
 
-(b) Not later than December 31, 1976, the Committee on Education and Labor and the Committee on Ways and Means shall each submit to the House of Representatives the results of the studies conducted under this section, together with such recommendations as they deem appropriate. The Committee on Finance and the Committee on Labor and Public Welfare shall each submit to the Senate the results of the studies conducted under this section together with such recommendations as they deem appropriate not later than such date.
+(b) Not later than December 31, 1976, the Committee on Education and Labor and the Committee on Ways and Means shall each submit to the House of Representatives the results of the studies conducted under this section, together withsuch recommendations as they deem appropriate. The Committee on Finance and the Committee on Labor and Public Welfare shall each submit to the Senate the results of the studies conducted under this section together with such recommendations as they deem appropriate not later than such date.
 
 (Pub. L. 93–406, title III, §3031, Sept. 2, 1974, 88 Stat. 999.)
 

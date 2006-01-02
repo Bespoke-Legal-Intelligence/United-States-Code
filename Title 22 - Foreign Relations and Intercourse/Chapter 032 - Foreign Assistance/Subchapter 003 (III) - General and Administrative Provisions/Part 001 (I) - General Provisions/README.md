@@ -25,6 +25,7 @@ Part I—General Provisions
 - [&sect; 02368, 2369 - Repealed. Pub. L. 95&#8211;424, title VI, &sect;604, Oct. 6, 1978, 92 Stat. 961](%C2%A7%2002368%2C%202369%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93424%2C%20title%20VI%2C%20%C2%A7604%2C%20Oct.%206%2C%201978%2C%2092%20Stat.%20961.md)
 - [&sect; 02370 - Prohibitions against furnishing assistance](%C2%A7%2002370%20-%20Prohibitions%20against%20furnishing%20assistance.md)
 - [&sect; 02370a - Expropriation of United States property](%C2%A7%2002370a%20-%20Expropriation%20of%20United%20States%20property.md)
+- [&sect; 02370b - Humanitarian assistance code of conduct](%C2%A7%2002370b%20-%20Humanitarian%20assistance%20code%20of%20conduct.md)
 - [&sect; 02371 - Prohibition on assistance to governments supporting international terrorism](%C2%A7%2002371%20-%20Prohibition%20on%20assistance%20to%20governments%20supporting%20international%20terrorism.md)
 - [&sect; 02372 - Repealed. Pub. L. 97&#8211;113, title VII, &sect;725(a), Dec. 29, 1981, 95 Stat. 1553](%C2%A7%2002372%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93113%2C%20title%20VII%2C%20%C2%A7725%28a%29%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201553.md)
 - [&sect; 02372a - Renewal, reissuance, etc., of export licenses to or for Argentina](%C2%A7%2002372a%20-%20Renewal%2C%20reissuance%2C%20etc.%2C%20of%20export%20licenses%20to%20or%20for%20Argentina.md)

@@ -10,7 +10,7 @@ In the case of any individual who dies while in active service as a member of th
 
 #### (b) Individuals in missing status
 
-For purposes of this section, in the case of an individual who was in a missing status within the meaning of section 6013(f)(3)(A), the date of his death shall be treated as being not earlierthan the date on which a determination of his death is made under section 556 of title 37 of the United States Code. Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
+For purposes of this section, in the case of an individual who was in a missing status within the meaning of section 6013(f)(3)(A), the date of his death shall be treated as being not earlier than the date on which a determination of his death is made under section 556 of title 37 of the United States Code. Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning more than 2 years after the datedesignated under section 112 as the date of termination of combatant activities in a combat zone.
 
 #### (c) Certain military or civilian employees of the United States dying as a result of injuries
 
@@ -88,7 +88,7 @@ Subsec. (c)(1). Pub. L. 107–134, §113(b)(1), struck out “outside the United
 
 Subsec. (d). Pub. L. 107–134, §101(a), added subsec. (d).
 
-1986—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, sentence read asfollows: “The preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning—
+1986—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, sentence read as follows: “The preceding sentence shall not cause subsection (a)(1) to apply for any taxable year beginning—
 
 &emsp;“(1) after December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
 
@@ -169,8 +169,4 @@ Section 4(c) of Pub. L. 93–597, as amended by Pub. L. 99–514, §2, Oct. 22, 
 #### Treatment of Director General of Multinational Force in Sinai
 
 Section 722(g)(4) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 692(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Director General of the Multinational Force and Observers in the Sinai who died on February 15, 1984, shall be treated as if he were a civilian employee of the United States while he served as such Director General.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5, 101, 104, 139, 2201, 6013, 7508A of this title; title 29 sections 1148, 1302.
 

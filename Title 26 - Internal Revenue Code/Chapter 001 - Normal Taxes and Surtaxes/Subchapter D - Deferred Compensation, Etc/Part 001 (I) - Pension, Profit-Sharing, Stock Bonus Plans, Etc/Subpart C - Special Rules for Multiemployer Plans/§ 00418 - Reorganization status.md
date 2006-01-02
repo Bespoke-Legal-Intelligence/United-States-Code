@@ -36,7 +36,7 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;The vested benefits charge for a plan year shall be based on an actuarial valuation of the plan as of the end of the base plan year, adjusted to reflect—
+&emsp;&emsp;The vested benefits charge for a plan year shall be based on an actuarial valuation ofthe plan as of the end of the base plan year, adjusted to reflect—
 
 &emsp;&emsp;&emsp;(i) any—
 
@@ -136,7 +136,7 @@ For purposes of this subpart—
 
 #### (E) Withdrawal liability
 
-&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not be considered a plan asset, except as otherwise provided in regulations prescribed by the Secretary.
+&emsp;&emsp;For purposes of this part, any outstanding claim for withdrawal liability shall not be considered a plan asset, except as otherwiseprovided in regulations prescribed by the Secretary.
 
 #### (c) Prohibition of nonannuity payments
 
@@ -167,8 +167,4 @@ Section 210 of title II of Pub. L. 96–364 provided that:
 &emsp;“(2) 3 years after the date of the enactment of this Act \[Sept. 26, 1980\].
 
 “(c) The amendments made by section 209 \[enacting section 194 of this title, and amending sections 501 and 4975 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Sept. 26, 1980\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 418B, 418E, 4971 of this title.
 

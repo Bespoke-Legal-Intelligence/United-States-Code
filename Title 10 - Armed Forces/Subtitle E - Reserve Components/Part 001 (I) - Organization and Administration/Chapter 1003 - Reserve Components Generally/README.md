@@ -9,7 +9,7 @@
 | [10105\.](%C2%A7%2010105%20-%20Army%20National%20Guard%20of%20the%20United%20States%20composition.md) | Army National Guard of the United States: composition. |
 | [10106\.](%C2%A7%2010106%20-%20Army%20National%20Guard%20when%20a%20component%20of%20the%20Army.md) | Army National Guard: when a component of the Army. |
 | [10107\.](%C2%A7%2010107%20-%20Army%20National%20Guard%20of%20the%20United%20States%20status%20when%20not%20in%20Federal%20service.md) | Army National Guard of the United States: status when not in Federal service. |
-| [10108\.](%C2%A7%2010108%20-%20Naval%20Reserve%20administration.md) | Naval Reserve: administration. |
+| [10108\.](%C2%A7%2010108%20-%20Navy%20Reserve%20administration.md) | Navy Reserve: administration. |
 | [10109\.](%C2%A7%2010109%20-%20Marine%20Corps%20Reserve%20administration.md) | Marine Corps Reserve: administration. |
 | [10110\.](%C2%A7%2010110%20-%20Air%20Force%20Reserve%20composition.md) | Air Force Reserve: composition. |
 | [10111\.](%C2%A7%2010111%20-%20Air%20National%20Guard%20of%20the%20United%20States%20composition.md) | Air National Guard of the United States: composition. |
@@ -21,11 +21,9 @@
 
 #### Amendments
 
+2006—Pub. L. 109–163, div. A, title V, §515(b)(4)(E), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10108.
+
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(2)(B), Feb. 10, 1996, 110 Stat. 495, substituted “into Federal service” for “of National Guard into Federal service” in item 10103.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 261 of this title.
 
 
 ---
@@ -39,7 +37,7 @@ This chapter is referred to in section 261 of this title.
 - [&sect; 10105 - Army National Guard of the United States composition](%C2%A7%2010105%20-%20Army%20National%20Guard%20of%20the%20United%20States%20composition.md)
 - [&sect; 10106 - Army National Guard when a component of the Army](%C2%A7%2010106%20-%20Army%20National%20Guard%20when%20a%20component%20of%20the%20Army.md)
 - [&sect; 10107 - Army National Guard of the United States status when not in Federal service](%C2%A7%2010107%20-%20Army%20National%20Guard%20of%20the%20United%20States%20status%20when%20not%20in%20Federal%20service.md)
-- [&sect; 10108 - Naval Reserve administration](%C2%A7%2010108%20-%20Naval%20Reserve%20administration.md)
+- [&sect; 10108 - Navy Reserve administration](%C2%A7%2010108%20-%20Navy%20Reserve%20administration.md)
 - [&sect; 10109 - Marine Corps Reserve administration](%C2%A7%2010109%20-%20Marine%20Corps%20Reserve%20administration.md)
 - [&sect; 10110 - Air Force Reserve composition](%C2%A7%2010110%20-%20Air%20Force%20Reserve%20composition.md)
 - [&sect; 10111 - Air National Guard of the United States composition](%C2%A7%2010111%20-%20Air%20National%20Guard%20of%20the%20United%20States%20composition.md)

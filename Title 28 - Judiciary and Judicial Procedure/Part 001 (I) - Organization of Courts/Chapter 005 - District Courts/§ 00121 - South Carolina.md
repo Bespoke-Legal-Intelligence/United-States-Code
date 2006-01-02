@@ -46,7 +46,7 @@ South Carolina constitutes one judicial district comprising eleven divisions.
 
 &emsp;&emsp;Court for the Beaufort Division shall be held at Beaufort.
 
-(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–242, §1(a), Oct. 7, 1965, 79 Stat. 951; Pub. L. 99–657, §2, Nov. 14, 1986, 100 Stat. 3670; Pub. L. 102–140, title III, §304, Oct. 28, 1991, 105 Stat. 810.)
+(June 25, 1948, ch. 646, 62 Stat. 889; Pub. L. 89–242, §1(a), Oct. 7, 1965, 79 Stat. 951; Pub. L. 99–657, §2,Nov. 14, 1986, 100 Stat. 3670; Pub. L. 102–140, title III, §304, Oct. 28, 1991, 105 Stat. 810.)
 
 #### Historical and Revision Notes
 
@@ -98,5 +98,5 @@ Section 6 of Pub. L. 89–242 provided that: “The provisions of this Act \[ame
 
 #### Consolidation of South Carolina Into a Single Judicial District
 
-Sections 2 to 5 of Pub. L. 89–242 provided for the consolidation, in compliance with section 132 of this title, of the Eastern and Western Districts of South Carolina into a single district with continuing jurisdiction over civil cases and criminal acts pending or committed prior to Nov. 1, 1965, and appropriate provisions for the appointment or transfer of United States attorneys, marshalls, and other court personnel, then serving, from the two districts to the consolidated district.
+Sections 2 to 5 of Pub. L. 89–242 provided for the consolidation, in compliance with section 132 of this title, of the Eastern and Western Districts of South Carolina into a single district with continuing jurisdiction over civil cases and criminal acts pending or committed prior to Nov. 1, 1965, and appropriate provisions for the appointment or transfer of United States attorneys, marshals, and other court personnel, then serving, from the two districts to the consolidated district.
 

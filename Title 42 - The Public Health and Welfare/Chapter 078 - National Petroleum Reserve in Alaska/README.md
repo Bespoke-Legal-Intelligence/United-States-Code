@@ -11,14 +11,30 @@
 | (d) | Equipment, facilities, and other properties used in connection with operation of reserve; transfer without reimbursement. |
 | (e) | Unexpended funds previously appropriated for use in connection with reserve and civilian personnel ceilings assigned to management and operation of reserve. |
 | [6504\.](%C2%A7%2006504%20-%20Administration%20of%20reserve.md) | Administration of reserve. |
-| (a) | Congressional authorization as precondition for production and development of petroleum. |
-| (b) | Conduct of exploration within designated areas to protect surface values. |
-| (c) | Continuation of ongoing petroleum exploration program by Secretary of Navy prior to date of transfer of jurisdiction; duties of Secretary of Navy prior to transfer date. |
-| (d) | Commencement of petroleum exploration by Secretary of the Interior as of date of transfer of jurisdiction; powers and duties of Secretary of the Interior in conduct of exploration. |
+| (a) | Conduct of exploration within designated areas to protect surface values. |
+| (b) | Continuation of ongoing petroleum exploration program by Secretary of Navy prior to date of transfer of jurisdiction; duties of Secretary of Navy prior to transfer date. |
+| (c) | Commencement of petroleum exploration by Secretary of the Interior as of date of transfer of jurisdiction; powers and duties of Secretary of the Interior in conduct of exploration. |
 | [6505\.](%C2%A7%2006505%20-%20Executive%20department%20responsibility%20for%20studies%20to%20determine%20procedures%20used%20in%20development%2C%20production%2C%20transportation%2C%20and%20distribution%E2%80%A6.md) | Executive department responsibility for studies to determine procedures used in development, production, transportation, and distribution of petroleum resources in reserve; reports to Congress by President; establishment of task force by Secretary of the Interior; purposes; membership; report and recommendations to Congress by Secretary; contents. |
 | [6506\.](%C2%A7%2006506%20-%20Applicability%20of%20antitrust%20provisions%3B%20plans%20and%20proposals%20submitted%20to%20Congress%20to%20contain%20report%20by%20Attorney%20General%20on%20impact%20of%20plans%E2%80%A6.md) | Applicability of antitrust provisions; plans and proposals submitted to Congress to contain report by Attorney General on impact of plans and proposals on competition. |
+| [6506a.](%C2%A7%2006506a%20-%20Competitive%20leasing%20of%20oil%20and%20gas.md) | Competitive leasing of oil and gas. |
+| (a) | In general. |
+| (b) | Mitigation of adverse effects. |
+| (c) | Land use planning; BLM wilderness study. |
+| (d) | First lease sale. |
+| (e) | Withdrawals. |
+| (f) | Bidding systems. |
+| (g) | Geological structures. |
+| (h) | Size of lease tracts. |
+| (i) | Terms. |
+| (j) | Unit agreements. |
+| (k) | Exploration incentives. |
+| (<i>l</i>) | Receipts. |
+| (m) | Explorations. |
+| (n) | Environmental impact statements. |
+| (<i>o</i>) | Regulations. |
+| (p) | Waiver of administration for conveyed lands. |
 | [6507\.](%C2%A7%2006507%20-%20Authorization%20of%20appropriations%3B%20Federal%20financial%20assistance%20for%20increased%20municipal%20services%20and%20facilities%20in%20communities%20located%20on%20or%E2%80%A6.md) | Authorization of appropriations; Federal financial assistance for increased municipal services and facilities in communities located on or near reserve resulting from authorized exploration and study activities. |
-| [6508\.](%C2%A7%2006508%20-%20Competitive%20leasing%20of%20oil%20and%20gas.md) | Competitive leasing of oil and gas. |
+| [6508\.](%C2%A7%2006508%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,5 +51,6 @@
 - [&sect; 06504 - Administration of reserve](%C2%A7%2006504%20-%20Administration%20of%20reserve.md)
 - [&sect; 06505 - Executive department responsibility for studies to determine procedures used in development, production, transportation, and distribution&#8230;](%C2%A7%2006505%20-%20Executive%20department%20responsibility%20for%20studies%20to%20determine%20procedures%20used%20in%20development%2C%20production%2C%20transportation%2C%20and%20distribution%E2%80%A6.md)
 - [&sect; 06506 - Applicability of antitrust provisions; plans and proposals submitted to Congress to contain report by Attorney General on impact of plans&#8230;](%C2%A7%2006506%20-%20Applicability%20of%20antitrust%20provisions%3B%20plans%20and%20proposals%20submitted%20to%20Congress%20to%20contain%20report%20by%20Attorney%20General%20on%20impact%20of%20plans%E2%80%A6.md)
+- [&sect; 06506a - Competitive leasing of oil and gas](%C2%A7%2006506a%20-%20Competitive%20leasing%20of%20oil%20and%20gas.md)
 - [&sect; 06507 - Authorization of appropriations; Federal financial assistance for increased municipal services and facilities in communities located on or&#8230;](%C2%A7%2006507%20-%20Authorization%20of%20appropriations%3B%20Federal%20financial%20assistance%20for%20increased%20municipal%20services%20and%20facilities%20in%20communities%20located%20on%20or%E2%80%A6.md)
-- [&sect; 06508 - Competitive leasing of oil and gas](%C2%A7%2006508%20-%20Competitive%20leasing%20of%20oil%20and%20gas.md)
+- [&sect; 06508 - Transferred](%C2%A7%2006508%20-%20Transferred.md)

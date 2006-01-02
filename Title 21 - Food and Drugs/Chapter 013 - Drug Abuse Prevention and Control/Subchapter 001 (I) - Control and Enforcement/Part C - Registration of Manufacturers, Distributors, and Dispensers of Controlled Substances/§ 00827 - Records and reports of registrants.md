@@ -32,7 +32,7 @@ The foregoing provisions of this section shall not apply—
 
 #### (d) Periodic reports to Attorney General
 
-Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) ofthis title) to whom such sale, delivery, or other disposal was made.
+Every manufacturer registered under section 823 of this title shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under section 822(d) of this title) to whom such sale, delivery, or other disposal was made.
 
 #### (e) Reporting and recordkeeping requirements of drug conventions
 

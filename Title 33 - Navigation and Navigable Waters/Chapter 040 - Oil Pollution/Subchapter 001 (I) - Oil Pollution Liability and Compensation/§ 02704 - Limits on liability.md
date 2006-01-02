@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in this section, the total of the liability of a responsible party under section 2702 of this title and any removal costs incurred by, or on behalf of, the responsible party, with respect to each incident shall not exceed—
+Except as otherwise provided in this section, the total of the liability of a responsible partyunder section 2702 of this title and any removal costs incurred by, or on behalf of, the responsible party, with respect to each incident shall not exceed—
 
 &emsp;(1) for a tank vessel the greater of—
 
@@ -80,7 +80,7 @@ Except as otherwise provided in this section, the total of the liability of a re
 
 #### (C) Rulemaking proceeding
 
-&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under this <sup>1</sup> subparagraph (A), that the use of deepwater ports in connection with the transportation of oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
+&emsp;&emsp;If the Secretary determines, based on the results of the study conducted under this <sup>1</sup> subparagraph (A), that the use of deepwater ports in connection with the transportationof oil by vessel results in a lower operational or environmental risk than the use of other ports, the Secretary shall initiate, not later than the 180th day following the date of submission of the report to the Congress under subparagraph (B), a rulemaking proceeding to lower the limits of liability under this section for deepwater ports as the Secretary determines appropriate. The Secretary may establish a limit of liability of less than $350,000,000, but not less than $50,000,000, in accordance with paragraph (1).
 
 #### (3) Periodic reports
 

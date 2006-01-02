@@ -2,7 +2,7 @@
 
 #### (a) Cuban trading partners
 
-The President should encourage the governments of countries that conduct trade with Cubato restrict their trade and credit relations with Cuba in a manner consistent with the purposes of this chapter.
+The President should encourage the governments of countries that conduct trade with Cuba to restrict their trade and credit relations with Cuba in a manner consistent with the purposes of this chapter.
 
 #### (b) Sanctions against countries assisting Cuba
 
@@ -38,7 +38,7 @@ The President should encourage the governments of countries that conduct trade w
 
 #### Repeal of Section
 
-<i>Pub. L. 104–114, title II, §204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is repealed.</i>
+<i>Pub. L. 104–114, title II, §204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under</i><i>section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is repealed.</i>
 
 #### References in Text
 

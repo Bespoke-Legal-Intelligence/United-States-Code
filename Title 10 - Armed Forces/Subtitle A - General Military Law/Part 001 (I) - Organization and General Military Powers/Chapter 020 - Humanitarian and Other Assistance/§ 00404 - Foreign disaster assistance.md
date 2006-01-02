@@ -24,7 +24,7 @@ Notification Required.—Not later than 48 hours after the commencement of disas
 
 (d)
 
-Organizing Policies and Programs.—Amounts appropriated to the Department of Defense for any fiscal year for Overseas Humanitarian, Disaster, and Civic Aid (OHDACA) programs of the Department shall be available fororganizing general policies and programs for disaster relief programs for disasters occurring outside the United States.
+Organizing Policies and Programs.—Amounts appropriated to the Department of Defense for any fiscal year for Overseas Humanitarian, Disaster, and Civic Aid (OHDACA) programs of the Department shall be available for organizing general policies and programs for disaster relief programs for disasters occurring outside the United States.
 
 (e)
 

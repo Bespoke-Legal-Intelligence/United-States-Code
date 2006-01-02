@@ -1,12 +1,12 @@
 ### §412. Registration as prerequisite to certain remedies for infringement
 
-In any action under this title, other than an action brought for a violation of the rights of the author under section 106A(a) or an action instituted under section 411(b), no award of statutory damages or of attorney's fees, as provided by sections 504 and 505, shall be made for—
+In any action under this title, other than an action brought for a violation of the rights of the author under section 106A(a), an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement, or an action instituted under section 411(b), no award of statutory damages or of attorney's fees, as provided by sections 504 and 505, shall be made for—
 
 &emsp;(1) any infringement of copyright in an unpublished work commenced before the effective date of its registration; or
 
 &emsp;(2) any infringement of copyright commenced after first publication of the work and before the effective date of its registration, unless such registration is made within three months after the first publication of the work.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 101–650, title VI, §606(c)(2), Dec. 1, 1990, 104 Stat. 5131.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2583; Pub. L. 101–650, title VI, §606(c)(2), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 109–9, title I, §104(c), Apr. 27, 2005, 119 Stat. 222.)
 
 #### Historical and Revision Notes
 
@@ -23,6 +23,8 @@ Under the general scheme of the bill, a copyright owner whose work has been infr
 In providing that statutory damages and attorney's fees are not recoverable for infringement of unpublished, unregistered works, clause (1) of section 412 in no way narrows the remedies available under the present law. With respect to published works, clause (2) would generally deny an award of those two special remedies where infringement takes place before registration. As an exception, however, the clause provides a grace period of three months after publication during which registration can be made without loss of remedies; full remedies could be recovered for any infringement begun during the three months after publication if registration is made before that period has ended. This exception is needed to take care of newsworthy or suddenly popular works which may be infringed almost as soon as they are published, before the copyright owner has had a reasonable opportunity to register his claim.
 
 #### Amendments
+
+2005—Pub. L. 109–9 inserted “, an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement,” after “section 106A(a)” in introductory provisions.
 
 1990—Pub. L. 101–650 inserted “an action brought for a violation of the rights of the author under section 106A(a) or” after “other than” in introductory provisions.
 

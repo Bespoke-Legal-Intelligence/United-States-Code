@@ -72,5 +72,5 @@ Ex. Ord. No. 11282, May 26, 1966, 31 F.R. 7663, which provided for the preventio
 
 #### Executive Order No. 11507
 
-Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for the prevention, control, and abatement of airpollution at Federal facilities, was superseded by Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, formerly set out as a note under section 4331 of this title.
+Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for the prevention, control, and abatement of air pollution at Federal facilities, was superseded by Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, formerly set out as a note under section 4331 of this title.
 

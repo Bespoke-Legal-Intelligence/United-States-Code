@@ -22,7 +22,7 @@
 
 &emsp;thence turning and running in a southeasterly direction paralleling the general alinement of United States Route 6 and generally distant therefrom five-tenths of a mile to a point approximately 700 feet northwesterly of Long Nook Road;
 
-&emsp;thence southwesterly along a ridge generally paralleling the alinement of Long Nook Roadand distant approximately 700 feet therefrom to a point two-tenths of a mile northeasterly of the northerly right-of-way line of United States Route 6;
+&emsp;thence southwesterly along a ridge generally paralleling the alinement of Long Nook Road and distant approximately 700 feet therefrom to a point two-tenths of a mile northeasterly of the northerly right-of-way line of United States Route 6;
 
 &emsp;thence southeasterly paralleling the general alinement of United States Route 6 and generally distant two-tenths of a mile northeasterly thereof to a point 300 feet south of the southerly right-of-way line of Higgins Hollow Road;
 

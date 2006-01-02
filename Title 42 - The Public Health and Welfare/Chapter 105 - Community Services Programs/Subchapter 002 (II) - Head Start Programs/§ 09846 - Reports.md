@@ -48,7 +48,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(14) a study of the delivery of Head Start programs to Indian children living on and near Indian reservations, to children of Alaskan Natives, and to children of migrant and seasonal farmworkers.
 
-> Promptly after submitting such report to the Committee on Education and the Workforce ofthe House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
+> Promptly after submitting such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, the Secretary shall publish in the Federal Register a notice indicating that such report is available to the public and specifying how such report may be obtained.
 
 #### (b) Facilities
 

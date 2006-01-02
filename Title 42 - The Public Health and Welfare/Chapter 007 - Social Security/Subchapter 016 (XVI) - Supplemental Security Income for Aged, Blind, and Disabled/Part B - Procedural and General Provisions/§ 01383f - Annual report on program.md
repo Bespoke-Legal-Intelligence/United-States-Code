@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than May 30 of each year, the Commissioner of Social Security shall prepare and deliver a report annually to the President and the Congress regarding the program under this subchapter, including—
+Not later than May 30 of each year, the Commissioner of Social Security shall prepare and deliver a report annually to the President andthe Congress regarding the program under this subchapter, including—
 
 &emsp;(1) a comprehensive description of the program;
 

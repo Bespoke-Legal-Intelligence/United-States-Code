@@ -32,13 +32,13 @@ Subsection (a) shall not apply to the following powers regardless of by whom hel
 
 &emsp;&emsp;(B) to or for any current income beneficiary, provided that the distribution of corpus must be chargeable against the proportionate share of corpus held in trust for the payment of income to the beneficiary as if the corpus constituted a separate trust.
 
-> &emsp;A power does not fall within the powers described in this paragraph if any person has a power to add to the beneficiary or beneficiaries or to a class of beneficiaries designated to receive the income or corpus, except where such action is to provide for after-born or after-adopted children.
+> &emsp;A power does not fall within the powers described in this paragraph if any person has apower to add to the beneficiary or beneficiaries or to a class of beneficiaries designated to receive the income or corpus, except where such action is to provide for after-born or after-adopted children.
 
 #### (6) Power to withhold income temporarily
 
 &emsp;A power to distribute or apply income to or for any current income beneficiary or to accumulate the income for him, provided that any accumulated income must ultimately be payable—
 
-&emsp;&emsp;(A) to the beneficiary from whom distribution or application is withheld, to his estate, or to his appointees (or persons named as alternate takers in default of appointment) provided that such beneficiary possesses apower of appointment which does not exclude from the class of possible appointees any person other than the beneficiary, his estate, his creditors, or the creditors of his estate, or
+&emsp;&emsp;(A) to the beneficiary from whom distribution or application is withheld, to his estate, or to his appointees (or persons named as alternate takers in default of appointment) provided that such beneficiary possesses a power of appointment which does not exclude from the class of possible appointees any person other than the beneficiary, his estate, his creditors, or the creditors of his estate, or
 
 &emsp;&emsp;(B) on termination of the trust, or in conjunction with a distribution of corpus which is augmented by such accumulated income, to the current income beneficiaries in shares which have been irrevocably specified in the trust instrument.
 
@@ -88,13 +88,9 @@ Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made after Mar. 1, 1986, except for transfers pursuant to a certain binding property settlement agreement, see section 1402(c) of Pub. L. 99–514, set out as a note under section 673 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 672, 677, 678 of this title.
 

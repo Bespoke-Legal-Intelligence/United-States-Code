@@ -14,7 +14,3 @@ All persons undertaking as a matter of business or for profit the collection of 
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7231 of this title.
-

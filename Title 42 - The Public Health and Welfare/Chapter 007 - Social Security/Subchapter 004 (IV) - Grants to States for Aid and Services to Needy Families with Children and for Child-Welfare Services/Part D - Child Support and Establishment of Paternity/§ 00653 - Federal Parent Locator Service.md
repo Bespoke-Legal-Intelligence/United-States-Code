@@ -68,7 +68,7 @@ A request for information under this section shall be filed in such manner and f
 
 (2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
 
-(3) The Secretary of Labor shall enter into an agreement with the Secretary to provide promptaccess for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
+(3) The Secretary of Labor shall enter into an agreement with the Secretary to provide prompt access for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
 
 #### (f) Arrangements and cooperation with State agencies
 
@@ -82,7 +82,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
+&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter,and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
 
 #### (2) Case and order information
 
@@ -288,7 +288,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (v) Restrictions on redisclosure
 
-&emsp;&emsp;&emsp;A person or entity to which information is disclosed under this subparagraph may use or disclose such information only as needed for verifying the employment and income of individuals described in subparagraph (A), subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
+&emsp;&emsp;&emsp;A person or entity to which information is disclosed under this subparagraph mayuse or disclose such information only as needed for verifying the employment and income of individuals described in subparagraph (A), subject to the conditions in clause (iii) and such additional conditions as agreed to by the Secretaries.
 
 #### (F) Reimbursement of HHS costs
 
@@ -356,7 +356,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (D) Use of information by the Secretary of the Treasury
 
-&emsp;&emsp;The Secretary of the Treasury may use information provided under this paragraph only for purposes of collecting the debt described in subparagraph (A).
+&emsp;&emsp;The Secretary of the Treasury may use information provided under this paragraphonly for purposes of collecting the debt described in subparagraph (A).
 
 #### (E) Disclosure of information by the Secretary of the Treasury
 
@@ -426,7 +426,7 @@ The Secretary shall establish and implement safeguards with respect to the entit
 
 &emsp;(1) ensure the accuracy and completeness of information in the Federal Parent Locator Service; and
 
-&emsp;(2) restrict access to confidential information in the Federal Parent Locator Service to authorized persons, and restrict use of such information to authorized purposes.
+&emsp;(2) restrict access to confidential information in the Federal Parent Locator Service toauthorized persons, and restrict use of such information to authorized purposes.
 
 #### (n) Federal Government reporting
 
@@ -448,7 +448,7 @@ Parts A, B, and E of this subchapter, referred to in subsecs. (c)(3), (4), (h)(1
 
 The Internal Revenue Code of 1986, referred to in subsecs. (h)(3), (i)(3), and (<i>l</i>), is classified generally to Title 26, Internal Revenue Code.
 
-The Higher Education Act of 1965, referred to in subsec. (j)(6)(A), (E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, seeShort Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (j)(6)(A), (E), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. Part B of title IV of the Act is classified generally to part B (§1071 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (j)(7)(A)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
@@ -610,7 +610,7 @@ Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided th
 
 #### Coordination Between Secretaries Relating to Amendments by Pub. L. 105–34
 
-Section 1090(a)(3) of Pub. L. 105–34 provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding the implementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlinesfor States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
+Section 1090(a)(3) of Pub. L. 105–34 provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding the implementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlines for States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
 
 #### Requirement for Cooperation
 

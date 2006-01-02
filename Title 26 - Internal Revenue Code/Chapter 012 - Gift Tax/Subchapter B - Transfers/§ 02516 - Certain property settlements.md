@@ -18,7 +18,3 @@ Where a husband and wife enter into a written agreement relative to their marita
 
 Section 425(c)(2) of Pub. L. 98–369 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2043, 7701 of this title.
-

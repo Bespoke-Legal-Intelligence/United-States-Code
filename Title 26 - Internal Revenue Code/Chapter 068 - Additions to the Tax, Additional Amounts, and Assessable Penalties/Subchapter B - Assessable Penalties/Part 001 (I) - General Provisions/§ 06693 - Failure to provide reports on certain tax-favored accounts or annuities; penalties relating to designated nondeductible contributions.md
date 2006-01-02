@@ -64,13 +64,13 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendments note below.</i>
 
 #### Amendments
 
 2003—Subsec. (a)(2)(C) to (E). Pub. L. 108–173 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-2001—Subsec. (a)(2)(C). Pub. L. 107–16, §§402(a)(4)(A), 901, temporarily substituted “qualified tuition” for “qualified State tuition”. See Effective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a)(2)(C). Pub. L. 107–16, §§402(a)(4)(A), 901, temporarily substituted “qualified tuition” for “qualified State tuition”. See Effective and Termination Dates of 2001 Amendments note below.
 
 Subsec. (a)(2)(D). Pub. L. 107–22 substituted “Coverdell education savings” for “education individual retirement”.
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 99–514, §1102(d)(1), (2)(A), redesignated former subsec.
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective and Termination Dates of 2001 Amendments
 
@@ -171,8 +171,4 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 220, 408 of this title.
 

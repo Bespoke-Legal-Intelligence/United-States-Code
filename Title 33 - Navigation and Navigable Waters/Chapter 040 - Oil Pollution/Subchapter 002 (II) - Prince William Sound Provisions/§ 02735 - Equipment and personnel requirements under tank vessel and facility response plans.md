@@ -18,7 +18,7 @@ In addition to the requirements for response plans for vessels established by se
 
 In this section—
 
-&emsp;(1) the term “Prince William Sound” means all State and Federal waters within PrinceWilliam Sound, Alaska, including the approach to Hinchenbrook Entrance out to and encompassing Seal Rocks; and
+&emsp;(1) the term “Prince William Sound” means all State and Federal waters within Prince William Sound, Alaska, including the approach to Hinchenbrook Entrance out to and encompassing Seal Rocks; and
 
 &emsp;(2) the term “worst case discharge” means—
 

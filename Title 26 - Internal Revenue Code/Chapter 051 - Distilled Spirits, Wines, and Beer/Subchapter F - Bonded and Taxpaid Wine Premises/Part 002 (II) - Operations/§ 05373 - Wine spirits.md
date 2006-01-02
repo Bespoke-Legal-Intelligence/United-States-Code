@@ -24,7 +24,7 @@ The wine spirits authorized to be used in wine production shall be brandy or win
 
 #### (c) Distillates containing aldehydes
 
-When the Secretary deems such removal and use will not jeopardize the revenue nor undulyincrease administrative supervision, distillates containing aldehydes may, under such regulations as the Secretary may prescribe, be removed without payment of tax from the bonded premises of a distilled spirits plant to an adjacent bonded wine cellar and used therein in fermentation of wine to be used as distilling material at the distilled spirits plant from which such unfinished distilled spirits were removed.
+When the Secretary deems such removal and use will not jeopardize the revenue nor unduly increase administrative supervision, distillates containing aldehydes may, under such regulations as the Secretary may prescribe, be removed without payment of tax from the bonded premises of a distilled spirits plant to an adjacent bonded wine cellar and used therein in fermentation of wine to be used as distilling material at the distilled spirits plant from which such unfinished distilled spirits were removed.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1382; amended Pub. L. 90–619, §1, Oct. 22, 1968, 82 Stat. 1236; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
@@ -41,8 +41,4 @@ A prior section 5373, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of pr
 #### Effective Date of 1968 Amendment
 
 Section 6 of Pub. L. 90–619 provided that: “The amendments made by this Act \[amending this section and sections 5382 to 5387 of this title\] shall take effect on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Oct. 22, 1968\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5003, 5008, 5214 of this title.
 

@@ -4,7 +4,7 @@
 
 (b) The Commissioner and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of any agency which receives financial assistance under this subchapter that are pertinent to the financial assistance received under this subchapter.
 
-(Pub. L. 88–452, title VIII, §809, formerly §808, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2325; renumbered §809, Pub. L. 100–175, title V, §502(3), Nov. 29, 1987, 101 Stat. 973; amended Pub. L. 102–375, title VIII, §822(9), Sept. 30, 1992, 106 Stat. 1298.)
+(Pub. L. 88–452, title VIII, §809, formerly §808, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat.2325; renumbered §809, Pub. L. 100–175, title V, §502(3), Nov. 29, 1987, 101 Stat. 973; amended Pub. L. 102–375, title VIII, §822(9), Sept. 30, 1992, 106 Stat. 1298.)
 
 #### Prior Provisions
 

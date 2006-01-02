@@ -24,7 +24,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (D) Certain expenses of elementary and secondary school teachers
 
-&emsp;&emsp;In the case of taxable years beginning during 2002 or 2003, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
+&emsp;&emsp;In the case of taxable years beginning during 2002, 2003, 2004, or 2005, the deductions allowed by section 162 which consist of expenses, not in excess of $250, paid or incurred by an eligible educator in connection with books, supplies (other than nonathletic supplies for courses of instruction in health or physical education), computer equipment (including related software and services) and other equipment, and supplementary materials used by the eligible educator in the classroom.
 
 #### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
 
@@ -92,11 +92,15 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 &emsp;The deduction allowed by section 222.
 
-> Nothing in this section shall permit the same item to be deducted more than once.
-
 #### (19) Health savings accounts
 
 &emsp;The deduction allowed by section 223.
+
+#### (20) Costs involving discrimination suits, etc.
+
+&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any action involving a claim of unlawful discrimination (as defined in subsection (e)) or a claim of a violation of subchapter III of chapter 37 of title 31, United States Code <sup>1</sup> or a claim made under section 1862(b)(3)(A) of the Social Security Act (42 U.S.C. 1395y(b)(3)(A)). The preceding sentence shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of a judgment or settlement (whether by suit or agreement and whether as lump sum or periodic payments) resulting from such claim.
+
+> Nothing in this section shall permit the same item to be deducted more than once.
 
 #### (b) Qualified performing artist
 
@@ -162,13 +166,81 @@ For purposes of subsection (a)(2)(A), an arrangement shall in no event be treate
 
 &emsp;A deduction shall be allowed under subsection (a)(2)(D) for expenses only to the extent the amount of such expenses exceeds the amount excludable under section 135, 529(c)(1), or 530(d)(2) for the taxable year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476.)
+#### (e) Unlawful discrimination defined
+
+For purposes of subsection (a)(20), the term “unlawful discrimination” means an act that is unlawful under any of the following:
+
+&emsp;(1) Section 302 of the Civil Rights Act of 1991 (2 U.S.C. 1202).<sup>2</sup>
+
+&emsp;(2) Section 201, 202, 203, 204, 205, 206, or 207 of the Congressional Accountability Act of 1995 (2 U.S.C. 1311, 1312, 1313, 1314, 1315, 1316, or 1317).
+
+&emsp;(3) The National Labor Relations Act (29 U.S.C. 151 et seq.).
+
+&emsp;(4) The Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.).
+
+&emsp;(5) Section 4 or 15 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623 or 633a).
+
+&emsp;(6) Section 501 or 504 of the Rehabilitation Act of 1973 (29 U.S.C. 791 or 794).
+
+&emsp;(7) Section 510 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1140).
+
+&emsp;(8) Title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.).
+
+&emsp;(9) The Employee Polygraph Protection Act of 1988 (29 U.S.C. 2001 et seq.).
+
+&emsp;(10) The Worker Adjustment and Retraining Notification Act (29 U.S.C. 2102 et seq.).
+
+&emsp;(11) Section 105 of the Family and Medical Leave Act of 1993 (29 U.S.C. 2615).
+
+&emsp;(12) Chapter 43 of title 38, United States Code (relating to employment and reemployment rights of members of the uniformed services).
+
+&emsp;(13) Section 1977, 1979, or 1980 of the Revised Statutes (42 U.S.C. 1981, 1983, or 1985).
+
+&emsp;(14) Section 703, 704, or 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–2, 2000e–3, or 2000e–16).
+
+&emsp;(15) Section 804, 805, 806, 808, or 818 of the Fair Housing Act (42 U.S.C. 3604, 3605, 3606, 3608, or 3617).
+
+&emsp;(16) Section 102, 202, 302, or 503 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12112, 12132, 12182, or 12203).
+
+&emsp;(17) Any provision of Federal law (popularly known as whistleblower protection provisions) prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted under Federal law.
+
+&emsp;(18) Any provision of Federal, State, or local law, or common law claims permitted under Federal, State, or local law—
+
+&emsp;&emsp;(i) providing for the enforcement of civil rights, or
+
+&emsp;&emsp;(ii) regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272,title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
+#### References in Text
+
+Section 302 of the Civil Rights Act of 1991, referred to in subsec. (e)(1), was formerly classified to section 1202 of Title 2, The Congress, and was transferred to section 2000e–16b of Title 42, The Public Health and Welfare.
+
+The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+
+The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+
+The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+
+The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
+
+The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
+
 #### Amendments
+
+2005—Subsec. (a)(19), (20). Pub. L. 109–135, §412(q)(1), redesignated par. (19) relating to costs involving discrimination suits, etc., as par. (20) and moved to follow par. (19) relating to health savings accounts.
+
+Subsec. (e). Pub. L. 109–135, §412(q)(2), substituted “subsection (a)(20)” for “subsection (a)(19)” in introductory provisions.
+
+2004—Subsec. (a)(2)(D). Pub. L. 108–311 substituted “, 2003, 2004, or 2005” for “or 2003”.
+
+Subsec. (a)(19). Pub. L. 108–357, §703(a), added par. (19) relating to costs involving discrimination suits, etc.
+
+Subsec. (e). Pub. L. 108–357, §703(b), added subsec. (e).
 
 2003—Subsec. (a)(2)(E). Pub. L. 108–121 added subpar. (E).
 
@@ -262,6 +334,12 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 1962—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### Effective Date of 2004 Amendments
+
+Pub. L. 108–357, title VII, §703(c), Oct. 22, 2004, 118 Stat. 1548, provided that: “The amendments made by this section \[amending this section\] shall apply to fees and costs paid after the date of the enactment of this Act \[Oct. 22, 2004\] with respect to any judgment or settlement occurring after such date.”
+
+Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to expenses paid or incurred in taxable years beginning after December 31, 2003.”
+
 #### Effective Date of 2003 Amendments
 
 Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: “The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003.”
@@ -290,7 +368,7 @@ Section 975(b) of Pub. L. 105–34 provided that: “The amendment made by this 
 
 #### Effective Date of 1996 Amendments
 
-Section 301(j) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and6693 of this title, and renumbering section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996.”
+Section 301(j) of Pub. L. 104–191 provided that: “The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996.”
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
@@ -300,7 +378,7 @@ Section 13213(e) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
+Amendment by Pub. L. 102–486 applicable to property placed in service after June 30, 1993, see section 1913(c)of Pub. L. 102–486, set out as an Effective Date note under section 30 of this title.
 
 Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
 
@@ -366,7 +444,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years of electi
 
 #### Effective Date of 1964 Amendment
 
-Section 213(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) \[enacting section217 and redesignating former section 217 as 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\].”
+Section 213(d) of Pub. L. 88–272 provided that: “The amendments made by subsections (a) \[enacting section 217 and redesignating former section 217 as 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\].”
 
 #### Effective Date of 1962 Amendment
 
@@ -374,7 +452,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 
@@ -394,7 +472,7 @@ Pub. L. 95–427, §2, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–16
 
 Pub. L. 95–615, §2, Nov. 8, 1978, 92 Stat. 3097, provided that with respect to transportation costs paid or incurred after Dec. 31, 1976, and before Apr. 30, 1978, the application of sections 62, 162, and 262 and chapters 21, 23, and 24 of the Internal Revenue Code of 1954 \[now 1986\] to transportation expenses in traveling between a taxpayer's residence and place of work be determined without regard to Revenue Ruling 76–453 or any other regulation, ruling or decision reaching the same or similar result, and with full regard to the rules in effect before that Revenue Ruling, and ceased to have effect on the day after Nov. 8, 1978 pursuant to section 210(a) of that Act.
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-This section is referred to in sections 162, 3402 of this title; title 19 section 2401e; title 20 section 1087e; title 21 section 849; title 42 sections 1395r, 1396<i>o</i>.
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

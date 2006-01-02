@@ -16,11 +16,13 @@ The Attorney General shall ensure, to the extent practicable, that training prog
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section—
+There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010.
 
-&emsp;(1) $1,000,000 for fiscal year 1996; and
+(Pub. L. 103–322, title IV, §40152, Sept. 13, 1994, 108 Stat. 1920; Pub. L. 109–162, title I, §108, title XI, §1167, Jan. 5, 2006, 119 Stat. 2984, 3121.)
 
-&emsp;(2) $1,000,000 for fiscal year 1997.
+#### Amendments
 
-(Pub. L. 103–322, title IV, §40152, Sept. 13, 1994, 108 Stat. 1920.)
+2006—Subsec. (c). Pub. L. 109–162, §1167, added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2007 through 2011.”
+
+Pub. L. 109–162, §108, added subsec. (c) and struck out heading and text of former subsec. (c), which authorized appropriations to carry out this section for fiscal years 1996 and 1997.
 

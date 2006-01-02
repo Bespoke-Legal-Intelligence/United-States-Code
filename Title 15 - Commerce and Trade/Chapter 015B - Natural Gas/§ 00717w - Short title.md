@@ -2,7 +2,7 @@
 
 This chapter may be cited as the “Natural Gas Act.”
 
-(June 21, 1938, ch. 556, §24, 52 Stat. 833.)
+(June 21, 1938, ch. 556, §26, formerly §24, 52 Stat. 833; renumbered §26, Pub. L. 109–58, title III, §314(b)(1)(A), Aug. 8, 2005, 119 Stat. 690.)
 
 #### Short Title of 1988 Amendment
 

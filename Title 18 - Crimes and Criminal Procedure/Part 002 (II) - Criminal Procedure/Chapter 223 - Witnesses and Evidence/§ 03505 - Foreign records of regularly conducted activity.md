@@ -20,7 +20,7 @@
 
 &emsp;(1) “foreign record of regularly conducted activity” means a memorandum, report, record, or data compilation, in any form, of acts, events, conditions, opinions, or diagnoses, maintained in a foreign country;
 
-&emsp;(2) “foreign certification” means a written declaration made and signed in a foreign country by the custodian of a foreign record of regularly conducted activity or another qualified person that, if falsely made, would subject themaker to criminal penalty under the laws of that country; and
+&emsp;(2) “foreign certification” means a written declaration made and signed in a foreign country by the custodian of a foreign record of regularly conducted activity or another qualified person that, if falsely made, would subject the maker to criminal penalty under the laws of that country; and
 
 &emsp;(3) “business” includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.
 

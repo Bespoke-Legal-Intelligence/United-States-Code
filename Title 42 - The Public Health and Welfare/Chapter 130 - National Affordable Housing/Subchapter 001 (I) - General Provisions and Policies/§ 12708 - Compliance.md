@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Each participating jurisdiction shall annually review and report, in a form acceptable to the Secretary, on the progress it has made in carrying out its housing strategy, which report shall include an evaluation of the jurisdiction's progress in meeting its goal established in section 12705(b)(15) <sup>1</sup> of this title, and information on the number and types of households served, including the number of very low-income, low-income, and moderate-income persons served and the racial and ethnic status of persons served that will be assisted with funds made available.
+&emsp;Each participating jurisdiction shall annually review and report, in a form acceptable to the Secretary, on the progress it has made in carrying out its housing strategy, which report shall include an evaluation of the jurisdiction's progress in meeting its goal established in section 12705(b)(15) <sup>1</sup> of this title, and information on the number and types of households served, including the number of very low-income, low-income, and moderate-income persons served and the racial and ethnic statusof persons served that will be assisted with funds made available.
 
 #### (2) Submission
 
-&emsp;The Secretary shall (A) establish dates for submission of reports under this subsection,and (B) review such reports and make such recommendations as the Secretary deems appropriate to carry out the purposes of this Act.
+&emsp;The Secretary shall (A) establish dates for submission of reports under this subsection, and (B) review such reports and make such recommendations as the Secretary deems appropriate to carry out the purposes of this Act.
 
 #### (3) Failure to report
 

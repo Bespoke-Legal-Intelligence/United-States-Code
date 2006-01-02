@@ -38,7 +38,3 @@ For effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93
 
 Nonreduction of number of appointees from congressional sources under this section because of additional Presidential appointments under section 9342(b) (1) of this title, see section 2 of Pub. L. 89–650, set out as a note under section 4343 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9342 of this title.
-

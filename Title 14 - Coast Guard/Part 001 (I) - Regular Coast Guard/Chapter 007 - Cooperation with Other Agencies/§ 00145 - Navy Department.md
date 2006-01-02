@@ -20,7 +20,7 @@ Subsection (a) is based on title 14, U.S.C., 1946 ed., §§28, 42, 57 (Aug. 29, 
 
 Subsection (b) is based on title 14, U.S.C., 1946 ed., §31 (Mar. 6, 1920, ch. 94, §1, 41 Stat. 506).
 
-Subsection (c) is new. This subsection enacts what has been the practice of the Navy and Coast Guard inkeeping the Coast Guard trained to “come on board with some muscle” in time of emergency.
+Subsection (c) is new. This subsection enacts what has been the practice of the Navy and Coast Guard in keeping the Coast Guard trained to “come on board with some muscle” in time of emergency.
 
 Section 3 of this title deals with the relationship of the Coast Guard to the Navy Department. This section deals with cooperation with the Navy. Whereas the status of the Coast Guard in time of war was treated in chapter 1 of this title, this section has application in time of peace when the Coast Guard is not under the Navy Department.
 

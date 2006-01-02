@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (5) Historic peanut producer
 
-&emsp;The term “historic peanut producer” means a producer on a farm in the United States that produced or was prevented from planting peanuts during any or all of the 1998 through 2001 crop years.
+&emsp;The term “historic peanut producer” means a producer on a farm in the United States thatproduced or was prevented from planting peanuts during any or all of the 1998 through 2001 crop years.
 
 #### (6) Payment acres
 

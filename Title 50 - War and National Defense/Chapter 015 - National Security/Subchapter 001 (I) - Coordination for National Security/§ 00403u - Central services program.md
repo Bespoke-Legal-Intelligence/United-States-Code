@@ -8,7 +8,7 @@ The Director may carry out a program under which elements of the Agency provide 
 
 (1) In order to carry out the program, the Director shall—
 
-&emsp;(A) designate the elements of the Agency that are to provide items or services under theprogram (in this section referred to as “central service providers”);
+&emsp;(A) designate the elements of the Agency that are to provide items or services under the program (in this section referred to as “central service providers”);
 
 &emsp;(B) specify the items or services to be provided under the program by such providers; and
 
@@ -112,13 +112,17 @@ Subsec. (h)(1). Pub. L. 106–120, §401(d), substituted “2002” for “2000�
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 108–287, title VIII, §8042, Aug. 5, 2004, 118 Stat. 979, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 109–148, div. A, title VIII, §8038, Dec. 30, 2005, 119 Stat. 2707, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–287, title VIII, §8042, Aug. 5, 2004, 118 Stat. 979.
 
 Pub. L. 108–87, title VIII, §8042, Sept. 30, 2003, 117 Stat. 1081.
 

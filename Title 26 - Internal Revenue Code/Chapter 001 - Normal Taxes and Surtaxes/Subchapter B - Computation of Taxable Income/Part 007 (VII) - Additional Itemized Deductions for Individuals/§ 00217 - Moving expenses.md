@@ -74,7 +74,7 @@ In the case of a member of the Armed Forces of the United States on active duty 
 
 &emsp;(2) any moving and storage expenses which are furnished in kind (or for which reimbursement or an allowance is provided, but only to the extent of the expenses paid or incurred) to such member, his spouse, or his dependents, shall not be includible in gross income, and no reporting with respect to such expenses shall be required by the Secretary of Defense or the Secretary of Transportation, as the case may be; and
 
-&emsp;(3) if moving and storage expenses are furnished in kind (or if reimbursement or an allowance for such expenses is provided) to such member's spouse and his dependents with regard to moving to a location other than the one to which such member moves (or from a location other than the one from which such member moves), this section shall apply with respect to the moving expenses of his spouse and dependents—
+&emsp;(3) if moving and storage expenses are furnished in kind (or if reimbursement or an allowance for such expenses is provided) to such member's spouse and his dependents with regard to moving to a location other than theone to which such member moves (or from a location other than the one from which such member moves), this section shall apply with respect to the moving expenses of his spouse and dependents—
 
 &emsp;&emsp;(A) as if his spouse commenced work as an employee at a new principal place of work at such location; and
 
@@ -160,7 +160,7 @@ Rule for application of subsections (b)(1)
 
 Subsec. (g)(3). Pub. L. 103–66, §13213(a)(2)(C), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “for purposes of subsection (b)(3), as if such place of work was within the same general location as the member's new principal place of work, and”.
 
-Subsec. (h). Pub. L. 103–66, §13213(a)(2)(D), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out heading and text of former par. (1). Text read as follows: “In the case of a foreign move—
+Subsec. (h). Pub. L. 103–66, §13213(a)(2)(D), redesignated pars. (2) to (4) as (1) to (3), respectively, andstruck out heading and text of former par. (1). Text read as follows: “In the case of a foreign move—
 
 &emsp;“(A) subsection (b)(1)(D) shall be applied by substituting ‘90 consecutive days’ for ‘30 consecutive days’,
 
@@ -213,8 +213,4 @@ Pub. L. 93–490, §2, Oct. 26, 1974, 88 Stat. 1466, authorized the Secretary of
 &emsp;(2) permit any taxpayer who was a member of the armed forces not to include in adjusted gross income the amount of any reimbursement in kind of moving expenses made by the Secretary concerned; and
 
 &emsp;(3) permit any taxpayer who was a member of the armed forces to deduct any amount paid by him as moving expenses in connection with any move required by the Secretary concerned, in excess of any reimbursement received for such expenses, without regard to the provisions of subsec. (c) of this section, to the extent it was otherwise deductible under this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 23, 62, 132, 274, 3121, 3306, 3401, 7872 of this title; title 42 section 409.
 

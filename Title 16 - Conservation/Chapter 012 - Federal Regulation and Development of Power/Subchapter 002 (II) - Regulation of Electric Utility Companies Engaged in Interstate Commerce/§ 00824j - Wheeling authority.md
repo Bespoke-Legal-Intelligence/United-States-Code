@@ -10,19 +10,17 @@ No order may be issued under this section or section 824i of this title if, afte
 
 #### (c) Replacement of electric energy
 
-(1) Repealed. Pub. L. 102–486, title VII, §721(4)(A), Oct. 24, 1992, 106 Stat. 2915.
+No order may be issued under subsection (a) or (b) of this section which requires the transmitting utility subject to the order to transmit, during any period, an amount of electric energy which replaces any amount of electric energy—
 
-(2) No order may be issued under subsection (a) or (b) of this section which requires the transmitting utility subject to the order to transmit, during any period, an amount of electric energy which replaces any amount of electric energy—
+&emsp;(1) required to be provided to such applicant pursuant to a contract during such period, or
 
-&emsp;(A) required to be provided to such applicant pursuant to a contract during such period, or
-
-&emsp;(B) currently provided to the applicant by the utility subject to the order pursuant to a rate schedule on file during such period with the Commission: <i>Provided</i>, That nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination of <sup>1</sup> modification of an existing rate schedule: <i>Provided</i>, That such order shall not become effective until termination of such rate schedule or the modification becomes effective.
+&emsp;(2) currently provided to the applicant by the utility subject to the order pursuant to a rate schedule on file during such period with the Commission: <i>Provided</i>, That nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination or modification of an existing rate schedule: <i>Provided</i>, That such order shall not become effective until termination of such rate schedule or the modification becomes effective.
 
 #### (d) Termination or modification of order; notice, hearing and findings of Commission; contents of order; inclusion in order of terms and conditions agreed upon by parties
 
-(1) Any transmitting utility ordered under subsection (a) or (b) of this section to provide transmission services may apply to the Commission for an order permitting such transmitting utility to cease providing all, or any portion of, such services. After public notice, notice to each affected State regulatory authority, each affected Federal power marketing agency, each affected transmitting utility, and each affected electric utility, and after an opportunity for an evidentiary hearing, the Commission shall issue an order terminating or modifying the order issued under subsection (a) or (b) of this section, if the electric utility providing such transmission services has demonstrated, and the Commission has found, that—
+(1) Any transmitting utility ordered under subsection (a) or (b) of this section to provide transmission services may apply to the Commission for an order permitting such transmitting utility to cease providing all, or any portion of, such services. After public notice, notice to each affected State regulatory authority, each affected Federal power marketing agency, each affected transmitting utility, and each affected electric utility, and after an opportunity for an evidentiary hearing, the Commission shall issue an order terminating or modifying the order issued under subsection (a) or (b) of this section, if the transmitting utility providing such transmission services has demonstrated, and the Commission has found, that—
 
-&emsp;(A) due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) of this section are no longer met, or <sup>2</sup>
+&emsp;(A) due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) of this section are no longer met, or <sup>1</sup>
 
 &emsp;(B) any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
@@ -44,15 +42,19 @@ No order may be issued under this section or section 824i of this title if, afte
 
 &emsp;(A) fix a period during which transmission services are to be provided under the order under subsection (a) or (b) of this section, or
 
-&emsp;(B) otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of such order, in the needs of the transmitting utility subject to such order for transmission capacity).
+&emsp;(B) otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of suchorder, in the needs of the transmitting utility subject to such order for transmission capacity).
 
 #### (e) “Facilities” defined
 
 As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
 
-(June 10, 1920, ch. 285, pt. II, §211, as added Pub. L. 95–617, title II, §203, Nov. 9, 1978, 92 Stat. 3136; amended Pub. L. 96–294, title VI, §643(a)(3), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §15, Oct. 16, 1986, 100 Stat. 1257; Pub. L. 102–486, title VII, §721, Oct. 24, 1992, 106 Stat. 2915.)
+(June 10, 1920, ch. 285, pt. II, §211, as added Pub. L. 95–617, title II, §203, Nov. 9, 1978, 92 Stat. 3136; amended Pub. L. 96–294, title VI, §643(a)(3), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §15, Oct. 16, 1986, 100 Stat. 1257; Pub. L. 102–486, title VII, §721, Oct. 24, 1992, 106 Stat. 2915; Pub. L. 109–58, title XII, §1295(c), Aug. 8, 2005, 119 Stat. 985.)
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–58, §1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
+
+Subsec. (d)(1). Pub. L. 109–58, §1295(c)(2), substituted “if the transmitting utility providing” for “if the electric utility providing” in introductory provisions.
 
 1992—Subsec. (a). Pub. L. 102–486, §721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
 
@@ -74,7 +76,7 @@ Subsec. (b). Pub. L. 102–486, §721(3), amended subsec. (b) generally, substit
 
 Subsec. (c). Pub. L. 102–486, §721(4), struck out pars. (1), (3), and (4), and substituted “which requires the transmitting” for “which requires the electric” in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
 
-“(1) No order may be issued under subsection (a) of this section unless the Commission determines thatsuch order would reasonably preserve existing competitive relationships.
+“(1) No order may be issued under subsection (a) of this section unless the Commission determines that such order would reasonably preserve existing competitive relationships.
 
 “(3) No order may be issued under the authority of subsection (a) or (b) of this section which is inconsistent with any State law which governs the retail marketing areas of electric utilities.
 
@@ -92,13 +94,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### State Authorities; Construction
 
-Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of Title 15, Commerce and Trade.
+Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-#### Transfer of Functions
-
-The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
 

@@ -8,7 +8,7 @@ The grantor shall be treated as the owner of any portion of a trust, whether or 
 
 &emsp;(2) held or accumulated for future distribution to the grantor or the grantor's spouse; or
 
-&emsp;(3) applied to the payment of premiums on policies of insurance on the life of the grantoror the grantor's spouse (except policies of insurance irrevocably payable for a purpose specified in section 170(c) (relating to definition of charitable contributions)).
+&emsp;(3) applied to the payment of premiums on policies of insurance on the life of the grantor or the grantor's spouse (except policies of insurance irrevocably payable for a purpose specified in section 170(c) (relating to definition of charitable contributions)).
 
 > This subsection shall not apply to a power the exercise of which can only affect the beneficial enjoyment of the income for a period commencing after the occurrence of an event such that the grantor would not be treated as the owner under section 673 if the power were a reversionary interest; but the grantor may be treated as the owner after the occurrence of the event unless the power is relinquished.
 
@@ -33,8 +33,4 @@ Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made
 #### Effective Date of 1969 Amendment
 
 Section 332(b) of Pub. L. 91–172 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply in respect of property transferred in trust after October 9, 1969.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 674, 678, 1246 of this title.
 

@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Board
 
-&emsp;The term “Board” means the Congressional Recognition for Excellence in Arts Education Awards Board established under section 813 of this title.
+&emsp;The term “Board” means the Congressional Recognition for Excellence in Arts EducationAwards Board established under section 813 of this title.
 
 #### (3) Elementary school; secondary school
 

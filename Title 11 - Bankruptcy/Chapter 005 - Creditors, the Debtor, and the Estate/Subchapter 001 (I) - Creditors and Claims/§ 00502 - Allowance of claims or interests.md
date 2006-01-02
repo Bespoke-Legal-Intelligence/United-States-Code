@@ -36,7 +36,7 @@
 
 &emsp;(8) such claim results from a reduction, due to late payment, in the amount of an otherwise applicable credit available to the debtor in connection with an employment tax on wages, salaries, or commissions earned from the debtor; or
 
-&emsp;(9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide.
+&emsp;(9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) of this title or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
 
 (c) There shall be estimated for purpose of allowance under this section—
 
@@ -56,9 +56,11 @@
 
 (2) A claim for reimbursement or contribution of such an entity that becomes fixed after the commencement of the case shall be determined, and shall be allowed under subsection (a), (b), or (c) of this section, or disallowed under subsection (d) of this section, the same as if such claim had become fixed before the date of the filing of the petition.
 
-(f) In an involuntary case, a claim arising in the ordinary course of the debtor's business orfinancial affairs after the commencement of the case but before the earlier of the appointment of a trustee and the order for relief shall be determined as of the date such claim arises, and shall be allowed under subsection (a), (b), or (c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
+(f) In an involuntary case, a claim arising in the ordinary course of the debtor's business or financial affairs after the commencement of the case but before the earlier of the appointment of a trustee and the order for relief shall be determined as of the date such claim arises, and shall be allowed under subsection (a), (b), or (c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
 
-(g) A claim arising from the rejection, under section 365 of this title or under a plan under chapter 9, 11, 12, or 13 of this title, of an executory contract or unexpired lease of the debtor that has not been assumed shall be determined, and shall be allowed under subsection (a), (b), or (c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
+(g)(1) A claim arising from the rejection, under section 365 of this title or under a plan under chapter 9, 11, 12, or 13 of this title, of an executory contract or unexpired lease of the debtor that has not been assumed shall be determined, and shall be allowed under subsection (a), (b), or (c) of this section or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
+
+(2) A claim for damages calculated in accordance with section 562 shall be allowed under subsection (a), (b), or (c), or disallowed under subsection (d) or (e), as if such claim had arisen before the date of the filing of the petition.
 
 (h) A claim arising from the recovery of property under section 522, 550, or 553 of this title shall be determined, and shall be allowed under subsection (a), (b), or (c) of this section, or disallowed under subsection (d) or (e) of this section, the same as if such claim had arisen before the date of the filing of the petition.
 
@@ -66,7 +68,25 @@
 
 (j) A claim that has been allowed or disallowed may be reconsidered for cause. A reconsidered claim may be allowed or disallowed according to the equities of the case. Reconsideration of a claim under this subsection does not affect the validity of any payment or transfer from the estate made to a holder of an allowed claim on account of such allowed claim that is not reconsidered, but if a reconsidered claim is allowed and is of the same class as such holder's claim, such holder may not receive any additional payment or transfer from the estate on account of such holder's allowed claim until the holder of such reconsidered and allowed claim receives payment on account of such claim proportionate in value to that already received by such other holder. This subsection does not alter or modify the trustee's right to recover from a creditor any excess payment or transfer made to such creditor.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2579; Pub. L. 98–353, title III, §445, July 10, 1984, 98 Stat. 373; Pub. L. 99–554, title II, §§257(j), 283(f), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 103–394, title II, §213(a), title III, §304(h)(1), Oct. 22, 1994, 108 Stat. 4125, 4134.)
+(k)(1) The court, on the motion of the debtor and after a hearing, may reduce a claim filed under this section based in whole on an unsecured consumer debt by not more than 20 percent of the claim, if—
+
+&emsp;(A) the claim was filed by a creditor who unreasonably refused to negotiate a reasonable alternative repayment schedule proposed on behalf of the debtor by an approved nonprofit budget and credit counseling agency described in section 111;
+
+&emsp;(B) the offer of the debtor under subparagraph (A)—
+
+&emsp;&emsp;(i) was made at least 60 days before the date of the filing of the petition; and
+
+&emsp;&emsp;(ii) provided for payment of at least 60 percent of the amount of the debt over a period not to exceed the repayment period of the loan, or a reasonable extension thereof; and
+
+&emsp;(C) no part of the debt under the alternative repayment schedule is nondischargeable.
+
+(2) The debtor shall have the burden of proving, by clear and convincing evidence, that—
+
+&emsp;(A) the creditor unreasonably refused to consider the debtor's proposal; and
+
+&emsp;(B) the proposed alternative repayment schedule was made prior to expiration of the 60-day period specified in paragraph (1)(B)(i).
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2579; Pub. L. 98–353, title III, §445, July 10, 1984, 98 Stat. 373; Pub. L. 99–554, title II, §§257(j), 283(f), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 103–394, title II, §213(a), title III, §304(h)(1), Oct. 22, 1994, 108 Stat. 4125, 4134; Pub. L. 109–8, title II, §201(a), title VII, §716(d), title IX, §910(b), Apr. 20, 2005, 119 Stat. 42, 130, 184.)
 
 #### Historical and Revision Notes
 
@@ -84,7 +104,7 @@ Historically, the limitation on allowable claims of lessors of real property was
 
 However, these considerations are not present in “lease financing” transactions where, in substance, the “lease” involves a sale of the real estate and the rental payments are in substance the payment of principal and interest on a secured loan or sale. In a financing lease the lessor is essentially a secured or unsecured creditor (depending upon whether his interest is perfected or not) of the debtor, and the lessor's claim should not be subject to the 502(b)(7) limitation. Financing “leases” are in substance installment sales or loans. The “lessors” are essentially sellers or lenders and should be treated as such for purposes of the bankruptcy law.
 
-Whether a “lease” is true or bona fide lease or, in the alternative a financing “lease” or a lease intended as security, depends upon the circumstances of each case. The distinction between a true lease and a financing transaction is based upon the economic substance of the transaction and not, for example, upon the locus of title, the form of the transaction or the fact that the transaction is denominated as a “lease.” The fact that the lessee, upon compliance with the terms of the lease, becomes or has the option to become the owner of the leased property for no additional consideration or for nominal consideration indicates that the transaction is a financing lease or lease intended as security. In such cases, the lessor has no substantial interest in the leased property at the expiration of the lease term. In addition, the fact that the lessee assumes and discharges substantially all the risks and obligations ordinarily attributed to the outright ownership of the property is more indicative of a financing transaction than of a true lease. The rental payments in such cases are in substance payments of principal and interest either on a loan secured by the leased real property or on the purchase of the leased real property. See, e.g., Financial Accounting Standards Board Statement No. 13 and SEC Reg. S–X, 17 C.F.R. sec. 210.3–16(q) (1977); <i>cf. First National Bank of Chicago v. Irving Trust Co</i>., 74 F.2d 263 (2nd Cir. 1934); and Albenda and Lief, “Net Lease Financing Transactions Under the Proposed Bankruptcy Act of 1973,” 30 Business Lawyer, 713 (1975).
+Whether a “lease” is true or bona fide lease or, in the alternative a financing “lease” or a lease intended as security, depends upon the circumstances of each case. The distinction between a true lease and a financing transaction is based upon the economic substance of the transaction and not, for example, upon the locus of title, the form of the transaction or the fact that the transaction is denominated as a “lease.” The fact that the lessee, upon compliance with the terms of the lease, becomes or has the option to become the owner of the leased property for no additional consideration or for nominal consideration indicates that the transaction is a financing lease or lease intended as security. In such cases, the lessor has no substantial interest in the leased property at the expiration of the lease term. In addition, the fact that the lessee assumes and discharges substantially all the risks and obligations ordinarily attributed to the outright ownership of the property is more indicative of a financing transaction than of a true lease. The rental payments in such cases are in substance payments of principal and interest either on a loan secured by the leased real property or on thepurchase of the leased real property. See, e.g., Financial Accounting Standards Board Statement No. 13 and SEC Reg. S–X, 17 C.F.R. sec. 210.3–16(q) (1977); <i>cf. First National Bank of Chicago v. Irving Trust Co</i>., 74 F.2d 263 (2nd Cir. 1934); and Albenda and Lief, “Net Lease Financing Transactions Under the Proposed Bankruptcy Act of 1973,” 30 Business Lawyer, 713 (1975).
 
 Section 502(c) of the House amendment presents a compromise between similar provisions contained in the House bill and the Senate amendment. The compromise language is consistent with an amendment to the definition of “claim” in section 104(4)(B) of the House amendment and requires estimation of any right to an equitable remedy for breach of performance if such breach gives rise to a right to payment. To the extent language in the House and Senate reports indicate otherwise, such language is expressly overruled.
 
@@ -116,7 +136,7 @@ Subsection (b) prescribes the grounds on which a claim may be disallowed. The co
 
 Paragraph (1) requires disallowance if the claim is unenforceable against the debtor for any reason (such as usury, unconscionability, or failure of consideration) other than because it is contingent or unmatured. All such contingent or unmatured claims are to be liquidated by the bankruptcy court in order to afford the debtor complete bankruptcy relief; these claims are generally not provable under present law.
 
-Paragraph (2) requires disallowance to the extent that the claim is for unmatured interest as of the date of the petition. Whether interest is matured or unmatured on the date of bankruptcy is to be determined without reference to any ipso facto or bankruptcy clause in the agreement creating the claim. Interest disallowed under this paragraph includes postpetition interest that is not yet due and payable, and any portion of prepaid interest that represents an original discounting of the claim, yet that would not have been earned on the date of bankruptcy. For example, a claim on a $1,000 note issued the day before bankruptcy would only be allowed to the extent of the cash actually advanced. If the original discount was 10 percent so that the cash advanced was only $900, then notwithstanding the face amount of note, only $900 would be allowed. If$900 was advanced under the note some time before bankruptcy, the interest component of the note would have to be prorated and disallowed to the extent it was for interest after the commencement of the case.
+Paragraph (2) requires disallowance to the extent that the claim is for unmatured interest as of the date of the petition. Whether interest is matured or unmatured on the date of bankruptcy is to be determined without reference to any ipso facto or bankruptcy clause in the agreement creating the claim. Interest disallowed under this paragraph includes postpetition interest that is not yet due and payable, and any portion of prepaid interest that represents an original discounting of the claim, yet that would not have been earned on the date of bankruptcy. For example, a claim on a $1,000 note issued the day before bankruptcy would only be allowed to the extent of the cash actually advanced. If the original discount was 10 percent so that the cash advanced was only $900, then notwithstanding the face amount of note, only $900 would be allowed. If $900 was advanced under the note some time before bankruptcy, the interest component of the note would have to be prorated and disallowed to the extent it was for interest after the commencement of the case.
 
 Section 502(b) thus contains two principles of present law. First, interest stops accruing at the date of the filing of the petition, because any claim for unmatured interest is disallowed under this paragraph. Second, bankruptcy operates as the acceleration of the principal amount of all claims against the debtor. One unarticulated reason for this is that the discounting factor for claims after the commencement of the case is equivalent to contractual interest rate on the claim. Thus, this paragraph does not cause disallowance of claims that have not been discounted to a present value because of the irrebuttable presumption that the discounting rate and the contractual interest rate (even a zero interest rate) are equivalent.
 
@@ -167,6 +187,12 @@ Paragraph (9) \[of subsec. (b)\] requires disallowance of certain employment tax
 The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(9), are set out in the Appendix to this title.
 
 #### Amendments
+
+2005—Subsec. (b)(9). Pub. L. 109–8, §716(d), inserted “, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required” before period at end.
+
+Subsec. (g). Pub. L. 109–8, §910(b), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (k). Pub. L. 109–8, §201(a), added subsec. (k).
 
 1994—Subsec. (b)(9). Pub. L. 103–394, §213(a), added par. (9).
 
@@ -220,13 +246,17 @@ Subsec. (h). Pub. L. 98–353, §445(e), substituted “522” for “522(i)”.
 
 Subsec. (j). Pub. L. 98–353, §445(f), amended subsec. (j) generally, inserting provisions relating to reconsideration of a disallowed claim, and provisions relating to reconsideration of a claim under this subsection.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to casescommenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554.
 

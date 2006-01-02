@@ -8,7 +8,7 @@
 
 (4) The Comptroller General may dismiss a protest that the Comptroller General determines is frivolous or which, on its face, does not state a valid basis for protest.
 
-(b)(1) With respect to a solicitation for a contract, or a proposed award or the award of a contract, protested under this subchapter, the Comptroller General may determine whether the solicitation, proposed award, or award complies with statute and regulation. If the Comptroller General determines that the solicitation, proposed award, or award does not comply with a statute or regulation, the Comptroller General shall recommend that the Federal agency—
+(b)(1) With respect to a solicitation for a contract, or a proposed award or the award of a contract, protested under this subchapter, the Comptroller General may determine whether the solicitation, proposed award, or award complies with statute and regulation. If the Comptroller General determines that the solicitation, proposed award, or award does not comply witha statute or regulation, the Comptroller General shall recommend that the Federal agency—
 
 &emsp;(A) refrain from exercising any of its options under the contract;
 

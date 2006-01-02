@@ -12,7 +12,7 @@
 
 &emsp;(3) have experience in a field directly related to aviation.
 
-(d)(1) The Deputy Administrator must be a citizen of the United States and have experience in a field directly related to aviation. An officer on active duty in an armed force may be appointed as Deputy Administrator. However, if the Administrator is a former regular officer of an armed force, the Deputy Administrator may not be an officer on active duty in an armed force, a retired regular officer of an armed force, or a former regular officer of an armed force.
+(d)(1) The Deputy Administrator must be a citizen of the United States and have experience in a field directly related to aviation. An officer on active duty in an armed force may be appointed as Deputy Administrator. However, if the Administrator is a former regular officer of anarmed force, the Deputy Administrator may not be an officer on active duty in an armed force, a retired regular officer of an armed force, or a former regular officer of an armed force.
 
 (2) The annual rate of basic pay of the Deputy Administrator shall be set by the Secretary but shall not exceed the annual rate of basic pay payable to the Administrator of the Federal Aviation Administration.
 
@@ -106,7 +106,7 @@ Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of
 
 (i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for the Administrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
 
-(j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the “Civil Aeromedical Institute”. Research conducted by the institute should take appropriate advantage of capabilities of other government agencies, universities, or the private sector.
+(j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the “Civil Aeromedical Institute”. Research conducted by the institute should take appropriateadvantage of capabilities of other government agencies, universities, or the private sector.
 
 (k)
 
@@ -186,7 +186,7 @@ Contracts.—The Administrator is authorized to enter into and perform such cont
 
 (m)
 
-Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
+Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. Thehead of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
 
 (n)
 
@@ -222,7 +222,7 @@ Management Advisory Council and Air Traffic Services Board.—
 
 &emsp;(1)
 
-Establishment.—Within 3 months after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, the Administrator shall establish an advisory council which shall be known as the Federal Aviation Management Advisory Council (in this subsection referred to as the “Council”). With respect to Administration management, policy, spending, funding, and regulatory matters affecting the aviation industry, the Council may submit comments, recommended modifications, and dissenting views to the Administrator. The Administrator shall include in any submission to Congress, the Secretary, or the general public, and in any submission for publication in theFederal Register, a description of the comments, recommended modifications, and dissenting views received from the Council, together with the reasons for any differences between the views of the Council and the views or actions of the Administrator.
+Establishment.—Within 3 months after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996, the Administrator shall establish an advisory council which shall be known as the Federal Aviation Management Advisory Council (in this subsection referred to as the “Council”). With respect to Administration management, policy, spending, funding, and regulatory matters affecting the aviation industry, the Council may submit comments, recommended modifications, and dissenting views to the Administrator. The Administrator shall include in any submission to Congress, the Secretary, or the general public, and in any submission for publication in the Federal Register, a description of the comments, recommended modifications, and dissenting views received from the Council, together with the reasons for any differences between the views of the Council and the views or actions of the Administrator.
 
 &emsp;(2)
 
@@ -540,7 +540,7 @@ General duties and responsibilities.—The Ombudsman shall—
 
 &emsp;(3)
 
-Number of full-time equivalent employees.—The appointment of an Ombudsmanunder this subsection shall not result in an increase in the number of full-time equivalent employees in the Administration.
+Number of full-time equivalent employees.—The appointment of an Ombudsman under this subsection shall not result in an increase in the number of full-time equivalent employees in the Administration.
 
 (r)
 
@@ -628,7 +628,7 @@ Budget.—To—
 
 &emsp;&emsp;&emsp;(iii) ensure that the budget request supports the agency's annual and long-range strategic plans for air traffic control services.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603; Pub. L. 108–176, title I, §103(a),(b), title II, §§201–204, 224(c), Dec. 12, 2003, 117 Stat. 2495, 2496, 2522–2526, 2528.)
 
 Historical and Revision Notes
 
@@ -762,7 +762,7 @@ Section 44931 of this title, referred to in subsec. (g)(2), was repealed by Pub.
 
 The Federal Advisory Committee Act, referred to in subsec. (p)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec.\(p)(6)(C), (7)(A), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (p)(6)(C), (7)(A), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 The Ethics in Government Act of 1978, referred to in subsec. (p)(6)(I)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
@@ -812,7 +812,7 @@ Subsec. (p)(4)(C). Pub. L. 108–176, §202(2), inserted “or Air Traffic Servi
 
 Subsec. (p)(5). Pub. L. 108–176, §202(3), inserted “, the Air Traffic Services Committee,” after “Council”.
 
-Subsec. (p)(6)(C). Pub. L. 108–176, §202(4), in heading substituted “committee” for “subcommittee” and in text substituted “members appointed” for “member appointed”, “to the Air Traffic Services Committee shall” for “under paragraph (2)(E) shall”, and “the first members of the Committee shall be the members of the Air Traffic Services Subcommittee of the Council on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act who shall serve in an advisory capacity until such time as the President appoints the members of the Committee under paragraph (7).” for “of the members first appointed under paragraph (2)(E)—
+Subsec. (p)(6)(C). Pub. L. 108–176, §202(4), in heading substituted “committee” for “subcommittee” and in text substituted “members appointed” for “member appointed”, “to the Air Traffic Services Committee shall” for “under paragraph (2)(E) shall”, and “the first members of the Committee shall be the members of the Air Traffic Services Subcommittee of the Council on the day before the date of enactment of the Vision 100—Century of Aviation Reauthorization Act who shallserve in an advisory capacity until such time as the President appoints the members of the Committee under paragraph (7).” for “of the members first appointed under paragraph (2)(E)—
 
 &emsp;“(i) 2 members shall be appointed for a term of 3 years;
 
@@ -1000,7 +1000,7 @@ Subsec. (h). Pub. L. 103–272, §5(m)(4)(A), substituted “Section 40101(d) of
 
 Subsec. (j). Pub. L. 103–272, §5(m)(4)(B), substituted “section 44507 of this title” for “section 312(e) of the Federal Aviation Act of 1958”.
 
-Subsec. (k). Pub. L. 103–305, §103, substituted “, $4,576,000,000 for fiscal year 1994, $4,674,000,000 for fiscal year 1995, and $4,810,000,000 for fiscal year 1996” for “, $5,100,000,000 for fiscal year 1994, and $5,520,000,000 for fiscal year 1995”.
+Subsec. (k). Pub. L. 103–305, §103, substituted “, $4,576,000,000 for fiscal year 1994, $4,674,000,000 for fiscal year 1995, and $4,810,000,000 for fiscal year 1996” for“, $5,100,000,000 for fiscal year 1994, and $5,520,000,000 for fiscal year 1995”.
 
 Pub. L. 103–272, §4(j)(3)(C), inserted “to the Secretary of Transportation” after “appropriated”.
 
@@ -1088,7 +1088,7 @@ Pub. L. 108–176, title VII, §702, Dec. 12, 2003, 117 Stat. 2576, provided tha
 
 “(4) A scholarship provided under this section may be expended for tuition, fees, and other authorized expenses as established by the Administrator by regulation.
 
-“(5) The Administrator may enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which the scholarship is provided.
+“(5) The Administrator may enter into a contractual agreement with an institution of higher educationunder which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which the scholarship is provided.
 
 “(f)(1) The period of service for which an individual shall be obligated to serve as an employee of the Federal Aviation Administration is, except as provided in subsection (h)(2), 24 months for each academic year for which a scholarship under this section is provided.
 
@@ -1336,7 +1336,7 @@ Sec. 2. <i>Purpose</i>. The FAA's primary mission is to ensure the safety, secur
 
 (d) operate in accordance with safety performance standards developed by the FAA and rapidly respond to FAA safety and security oversight findings;
 
-(e) consult with its customers, the traveling public, including direct users such as airlines, cargo carriers, manufacturers, airports, general aviation, and commercial space transportation providers, and focus on producing results that satisfy the FAA's external customer needs;
+(e) consult with its customers, the traveling public, including direct users such as airlines, cargo carriers,manufacturers, airports, general aviation, and commercial space transportation providers, and focus on producing results that satisfy the FAA's external customer needs;
 
 (f) consult with appropriate Federal, State, and local public agencies, including the Department of Defense and the National Aeronautics and Space Administration, to determine the best practices for meeting the diverse needs throughout the National Airspace System;
 

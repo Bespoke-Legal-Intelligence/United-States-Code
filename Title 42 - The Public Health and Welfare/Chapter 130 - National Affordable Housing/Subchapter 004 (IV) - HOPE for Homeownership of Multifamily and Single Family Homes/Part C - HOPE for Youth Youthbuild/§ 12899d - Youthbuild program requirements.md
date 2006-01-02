@@ -16,7 +16,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 #### (A) Lease
 
-&emsp;&emsp;The lease between a tenant and an owner of residential rental housing assisted under this part shall be for not less than 1 year, unless otherwise mutually agreed to by the tenant and the owner, and shall contain such terms and conditions as the Secretary shall determine to be appropriate.
+&emsp;&emsp;The lease between a tenant and an owner of residential rental housing assisted underthis part shall be for not less than 1 year, unless otherwise mutually agreed to by the tenant and the owner, and shall contain such terms and conditions as the Secretary shall determine to be appropriate.
 
 #### (B) Termination of tenancy
 
@@ -44,7 +44,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 #### (4) Tenant participation plan
 
-&emsp;For each project owned by a nonprofit organization, the organization shall provide a planfor and follow a program of tenant participation in management decisions.
+&emsp;For each project owned by a nonprofit organization, the organization shall provide a plan for and follow a program of tenant participation in management decisions.
 
 #### (5) Prohibition against discrimination
 
@@ -88,7 +88,7 @@ A project that receives assistance under this part shall comply with the require
 
 #### References in Text
 
-This title, referred to in subsec. (a)(2)(B), means title IV of Pub. L. 101–625, known as the Homeownership and Opportunity Through HOPE Act, and probably should have been “this subtitle”, meaning subtitle D of title IV of Pub. L. 101–625, as added by Pub. L. 102–550, which is classified generally to this part. For complete classification of title IV of Pub. L. 101–625 to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
+This title, referred to in subsec. (a)(2)(B), means title IV of Pub. L. 101–625, known as the Homeownership andOpportunity Through HOPE Act, and probably should have been “this subtitle”, meaning subtitle D of title IV of Pub. L. 101–625, as added by Pub. L. 102–550, which is classified generally to this part. For complete classification of title IV of Pub. L. 101–625 to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title IV of the Act is classified principally to subchapter IV (§11361 et seq.) of chapter 119 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 

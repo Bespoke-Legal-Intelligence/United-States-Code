@@ -14,7 +14,7 @@ The purposes of this subchapter are—
 
 &emsp;&emsp;(B) to develop techniques to use manufacturing expertise for the manufacture of a variety of semiconductor products; and
 
-&emsp;(2) in order to achieve the purpose set out in paragraph (1), to provide a grant program forthe financial support of semiconductor research activities conducted by Sematech.
+&emsp;(2) in order to achieve the purpose set out in paragraph (1), to provide a grant program for the financial support of semiconductor research activities conducted by Sematech.
 
 #### (c) Definitions
 

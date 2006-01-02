@@ -16,7 +16,7 @@
 
 (2) A physical search authorized by this subsection may be conducted only in accordance with the certification and minimization procedures adopted by the Attorney General. The Attorney General shall assess compliance with such procedures and shall report such assessments to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate under the provisions of section 1826 of this title.
 
-(3) The Attorney General shall immediately transmit under seal to the Foreign Intelligence Surveillance Court a copy of the certification. Such certification shall be maintained under security measures established by the Chief Justice of the United States with the concurrence of the Attorney General, in consultation with the Director of National Intelligence, and shall remain sealed unless—
+(3) The Attorney General shall immediately transmit under seal to the Foreign Intelligence Surveillance Court a copy of the certification.Such certification shall be maintained under security measures established by the Chief Justice of the United States with the concurrence of the Attorney General, in consultation with the Director of National Intelligence, and shall remain sealed unless—
 
 &emsp;(A) an application for a court order with respect to the physical search is made under section 1821(4) of this title and section 1823 of this title; or
 
@@ -54,11 +54,13 @@ Judicial proceedings under this subchapter shall be concluded as expeditiously a
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Ex. Ord. No. 12949. Foreign Intelligence Physical Searches
 
-Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, provided:
+Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, as amended by Ex. Ord. No. 13383, §2, July 15, 2005, 70 F.R. 41933, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 (“Act”) (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\], and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
 
@@ -72,19 +74,19 @@ Sec. 3. Pursuant to section 303(a)(7) of the Act, the following officials, each 
 
 &emsp;(b) Secretary of Defense;
 
-&emsp;(c) Director of Central Intelligence;
+&emsp;\[(c)\] Director of National Intelligence;
 
 &emsp;(d) Director of the Federal Bureau of Investigation,
 
 &emsp;(e) Deputy Secretary of State;
 
-&emsp;(f) Deputy Secretary of Defense; and
+&emsp;(f) Deputy Secretary of Defense;
 
-&emsp;(g) Deputy Director of Central Intelligence.
+&emsp;(g) Director of the Central Intelligence Agency; and
+
+&emsp;(h) Principal Deputy Director of National Intelligence.
 
 > None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraphs (A) through (D)”.</i>
 

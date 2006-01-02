@@ -2,7 +2,7 @@
 
 #### (a) Administration of Federal lands
 
-(1) <sup>1</sup> The Secretary shall administer Federal lands within the special management areas in accordance with sections 544 to 544p of this title and other laws, rules and regulations applicable to the national forest system. In addition, the construction of roads and the management, utilization and harvest of timber on Federal lands within the special management areas also shallbe subject to Forest Service visual resource management guidelines. The Secretary shall utilize lands acquired through exchange in calculating the allowable sales quantity on the Gifford Pinchot and Mount Hood National Forests.
+(1) <sup>1</sup> The Secretary shall administer Federal lands within the special management areas in accordance with sections 544 to 544p of this title and other laws, rules and regulations applicable to the national forest system. In addition, the construction of roads and the management, utilization and harvest of timber on Federal lands within the special management areas also shall be subject to Forest Service visual resource management guidelines. The Secretary shall utilize lands acquired through exchange in calculating the allowable sales quantity on the Gifford Pinchot and Mount Hood National Forests.
 
 #### (b) Withdrawal of Federal lands
 
@@ -32,7 +32,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (f) Guidelines for land use ordinances
 
-(1) <sup>2</sup> Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
+(1) <sup>2</sup> Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. TheSecretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
 
 #### (h) <sup>3</sup> Adoption of special management area land use ordinances
 

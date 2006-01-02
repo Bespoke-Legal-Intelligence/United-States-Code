@@ -4,7 +4,7 @@
 
 (b) The Administrator of the Administration appointed under section 4 of the Maritime Act of 1981 (46 App. U.S.C. 1603) reports directly to the Secretary of Transportation.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375.)
 
 Historical and Revision Notes
 

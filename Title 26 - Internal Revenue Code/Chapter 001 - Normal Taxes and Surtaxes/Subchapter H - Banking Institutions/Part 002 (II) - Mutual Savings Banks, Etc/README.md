@@ -31,10 +31,6 @@ Pub. L. 101–73, title XIV, §1401(a)(3)(C), Aug. 9, 1989, 103 Stat. 549, subst
 
 1962—Pub. L. 87–834, §6(d), Oct. 16, 1962, 76 Stat. 984, substituted “Reserves for losses on loans” for “Additions to reserve for bad debts” in item 593, and added item 595.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1381 of this title.
-
 
 ---
 

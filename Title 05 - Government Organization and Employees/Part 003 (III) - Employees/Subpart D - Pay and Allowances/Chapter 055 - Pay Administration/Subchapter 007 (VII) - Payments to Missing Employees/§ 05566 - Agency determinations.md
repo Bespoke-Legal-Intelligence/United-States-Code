@@ -14,7 +14,7 @@
 
 (b) When the head of the agency concerned receives information that he considers to conclusively establish the death of an employee, he shall take action thereon as an official report of death, notwithstanding an earlier action relating to death or status of the employee. After the end of 12 months in a missing status prescribed by section 5565 of this title, the head of the agency concerned or his designee shall make a finding of death when he considers that the information received, or a lapse of time without information, establishes a reasonable presumption that an employee in a missing status is dead.
 
-(c) The head of the agency concerned or his designee may determine the entitlement of an employee to pay and allowances under this subchapter, including credits and charges in his account, and that determination is conclusive. An account may not be charged or debited with an amount that an employee captured, beleaguered, or besieged by a hostile force may receive or be entitled to receive from, or have placed to his credit by, the hostile force as pay, allowances, or other compensation.
+(c) The head of the agency concerned or his designee may determine the entitlement of an employee to pay and allowances under this subchapter, including credits and charges in his account, and that determination is conclusive. An account may not be charged or debited with an amount that an employee captured, beleaguered, or besieged by a hostile force may receive or beentitled to receive from, or have placed to his credit by, the hostile force as pay, allowances, or other compensation.
 
 (d) When circumstances warrant the reconsideration of a determination made under this subchapter, the head of the agency concerned or his designee may change or modify it.
 
@@ -122,7 +122,7 @@ In subsection (f), the words “may not be collected” are substituted for “s
 
 In subsection (g), the words “or his designee” are substituted for “or such subordinate as he may designate”.
 
-In subsection (h), the word “sole” is omitted as surplusage and in view of the provisions of section 5565(c). The word “deemed” is supplied to evidence the legal fiction provided by the words “is a ‘person’ under this Act” in 50A U.S.C. 1009(a). The words “or his designee” are supplied on authority of 50A U.S.C. 1009(a) which is codified in part in subsection (a) of this section. The words “agencies of the United States” are substituted for “departments of the Government”. The words “This section does not entitle” are substituted for <i>“Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
+In subsection (h), the word “sole” is omitted as surplusage and in view of the provisions of section 5565(c). The word “deemed” is supplied to evidence the legal fiction provided by the words “is a ‘person’ under this Act” in 50A U.S.C. 1009(a). The words “or his designee” are supplied on authority of 50A U.S.C. 1009(a) which is codified in part in subsection (a) of this section. The words “agencies of the United States” are substitutedfor “departments of the Government”. The words “This section does not entitle” are substituted for <i>“Provided</i>, That nothing in this section shall be construed as conferring . . . any right”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

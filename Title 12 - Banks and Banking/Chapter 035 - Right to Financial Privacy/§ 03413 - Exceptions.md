@@ -90,7 +90,7 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 (1) Nothing in this chapter shall apply to the disclosure by the financial institution of the name and address of any customer to the Department of Veterans Affairs where the disclosure of such information is necessary to, and such information is used solely for the purposes of, the proper administration of benefits programs under laws administered by the Secretary.
 
-(2) Notwithstanding any other provision of law, any request authorized by paragraph (1)\(and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
+(2) Notwithstanding any other provision of law, any request authorized by paragraph (1) (and the information contained therein) may be used by the financial institution or its agents solely for the purpose of providing the customer's name and address to the Department of Veterans Affairs and shall be barred from redisclosure by the financial institution or its agents.
 
 #### (q) Disclosure pursuant to Federal contractor-issued travel charge card
 
@@ -118,7 +118,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 
 
 1998—Subsec. (q). Pub. L. 105–264 added subsec. (q).
 
-1992—Subsec. (p). Pub. L. 102–586 added subsec. (p).
+1992—Subsec. (p). Pub. L. 102–568 added subsec. (p).
 
 1991—Subsec. (h)(1)(A), (4). Pub. L. 102–242, §411(2), (3), substituted “a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)” for “the financial institution in possession of such records”.
 

@@ -50,11 +50,11 @@ Bilateral Exchanges of Safety Oversight Responsibilities.—
 
 &emsp;(1)
 
-In general.—Notwithstanding the provisions of this chapter, the Administrator, pursuant to Article 83 bis of the Convention on International Civil Aviation and by a bilateral agreement with the aeronautical authorities of another country, may exchange with that country all or part of their respective functions and duties with respect to registered aircraft under the following articles of the Convention: Article 12 (Rules of the Air); Article 31 (Certificates of Airworthiness); or Article 32a (Licenses of Personnel).
+In general.—Notwithstanding the provisions of this chapter, the Administrator, pursuant to Article 83 bis of the Convention on International Civil Aviation and by a bilateralagreement with the aeronautical authorities of another country, may exchange with that country all or part of their respective functions and duties with respect to registered aircraft under the following articles of the Convention: Article 12 (Rules of the Air); Article 31 (Certificates of Airworthiness); or Article 32a (Licenses of Personnel).
 
 &emsp;(2)
 
-Relinquishment and acceptance of responsibility.—The Administrator relinquishesresponsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
+Relinquishment and acceptance of responsibility.—The Administrator relinquishes responsibility with respect to the functions and duties transferred by the Administrator as specified in the bilateral agreement, under the Articles listed in paragraph (1) for United States-registered aircraft described in paragraph (4)(A) transferred abroad and accepts responsibility with respect to the functions and duties under those Articles for aircraft registered abroad and described in paragraph (4)(B) that are transferred to the United States.
 
 &emsp;(3)
 
@@ -314,7 +314,7 @@ Pub. L. 105–170, Apr. 24, 1998, 112 Stat. 47, provided that:
 
 #### “SEC. 2. MEDICAL KIT EQUIPMENT AND TRAINING.
 
-“Not later than 1 year after the date of the enactment of this Act \[Apr. 24, 1998\], the Administrator of the Federal Aviation Administration shall reevaluateregulations regarding: (1) the equipment required to be carried in medical kits of aircraft operated by air carriers; and (2) the training required of flight attendants in the use of such equipment, and, if the Administrator determines that such regulations should be modified as a result of such reevaluation, shall issue a notice of proposed rulemaking to modify such regulations.
+“Not later than 1 year after the date of the enactment of this Act \[Apr. 24, 1998\], the Administrator of the Federal Aviation Administration shall reevaluate regulations regarding: (1) the equipment required to be carried in medical kits of aircraft operated by air carriers; and (2) the training required of flight attendants in the use of such equipment, and, if the Administrator determines that such regulations should be modified as a result of such reevaluation, shall issue a notice of proposed rulemaking to modify such regulations.
 
 #### “SEC. 3. REPORTS REGARDING DEATHS ON AIRCRAFT.
 

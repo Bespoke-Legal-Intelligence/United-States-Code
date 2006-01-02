@@ -40,7 +40,7 @@ All disclosure reports required by this section shall be public records open to 
 
 #### (1) Court orders
 
-&emsp;Whenever it appears that an institution has failed to comply with the requirements of this section, including any rule or regulation promulgated under this section, a civil action may be brought by the Attorney General, atthe request of the Secretary, in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, to request such court to compel compliance with the requirements of this section.
+&emsp;Whenever it appears that an institution has failed to comply with the requirements of this section, including any rule or regulation promulgated under this section, a civil action may be brought by the Attorney General, at the request of the Secretary, in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, to request such court to compel compliance with the requirements of this section.
 
 #### (2) Costs
 

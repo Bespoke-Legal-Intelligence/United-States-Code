@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 104–150, §3, designated existing provisions as par. (1) 
 
 1992—Subsec. (b). Pub. L. 102–587 substituted “coastal states” for “coastal States”.
 
-1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zonepolicies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
+1990—Pub. L. 101–508 amended section generally, substituting present provisions for provisions providing for interstate grants and agreements for developing and administering coordinated coastal zone planning and programs, setting priorities for unified coastal zone policies in contiguous areas of coastal states, providing for a Federal-State consultation procedure, authorizing temporary planning and coordinated activity, and establishing eligibility of States to receive Federal assistance.
 
 1980—Pub. L. 96–464 amended section generally and, among many changes, made a number of technical amendments, and inserted provision making it clear that only states which meet the basic eligibility requirements in this chapter can receive funding under this section.
 

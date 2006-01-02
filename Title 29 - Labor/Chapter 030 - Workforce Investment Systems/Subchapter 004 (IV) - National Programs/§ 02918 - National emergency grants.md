@@ -6,7 +6,7 @@ The Secretary is authorized to award national emergency grants in a timely manne
 
 &emsp;(1) to an entity described in subsection (c) of this section to provide employment and training assistance to workers affected by major economic dislocations, such as plant closures, mass layoffs, or closures and realignments of military installations;
 
-&emsp;(2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the “disaster area”)to provide disaster relief employment in the area;
+&emsp;(2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the “disaster area”) to provide disaster relief employment in the area;
 
 &emsp;(3) to provide additional assistance to a State or local board for eligible dislocated workers in a case in which the State or local board has expended the funds provided under this section to carry out activities described in paragraphs (1) and (2) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
 
@@ -66,7 +66,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (D) Definitions
 
-&emsp;&emsp;In this paragraph, the terms “military institution” <sup>1</sup> and “realignment” have the meanings given the terms in section 2910 of the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
+&emsp;&emsp;In this paragraph, the terms “military institution” <sup>1</sup> and “realignment” have the meanings given the terms in section 2910 ofthe Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
 
 #### (d) Disaster relief employment assistance requirements
 
@@ -332,7 +332,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (2) Income support
 
-&emsp;With respect to any income assistance provided to an eligible individual with such funds, such assistance shall supplement and not supplant other income support or assistance provided under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effect on the day before the effective date of the Trade Act of 2002) or the unemployment compensation laws of the State where the eligible individual resides.
+&emsp;With respect to any income assistance provided to an eligible individual with such funds, such assistance shall supplement and not supplant other income support or assistance provided under chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in effecton the day before the effective date of the Trade Act of 2002) or the unemployment compensation laws of the State where the eligible individual resides.
 
 #### (3) Health insurance coverage
 

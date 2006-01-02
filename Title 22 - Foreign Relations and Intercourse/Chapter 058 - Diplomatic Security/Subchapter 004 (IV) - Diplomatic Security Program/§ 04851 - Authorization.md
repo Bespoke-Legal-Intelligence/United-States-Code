@@ -18,7 +18,7 @@
 
 #### (4) Allocation of amounts authorized to be appropriated
 
-&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment madeby paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
+&emsp;Amounts authorized to be appropriated by this subsection, and by the amendment made by paragraph (2), shall be allocated as provided in the table entitled “Diplomatic Security Program” relating to this section which appears in the Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986).
 
 #### (b) Notification to authorizing Committees of requests for appropriations
 
@@ -46,7 +46,7 @@ Of the amount of funds authorized to be appropriated by subsection (a)(1)(A) of 
 
 #### (1) Use of existing furniture, furnishings, and equipment
 
-&emsp;If physically possible, facilities constructed or acquired pursuant to subsection (a) of this section shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
+&emsp;If physically possible, facilities constructed or acquired pursuant to subsection (a) of thissection shall be furnished and equipped with the furniture, furnishings, and equipment that were being used in the facilities being replaced, rather than with newly acquired furniture, furnishings, and equipment.
 
 #### (2) Omitted
 

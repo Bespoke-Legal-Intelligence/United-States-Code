@@ -129,8 +129,6 @@ Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 
 
 2001—Pub. L. 107–95, §5(g)(1), Dec. 21, 2001, 115 Stat. 918, struck out subchapter VII heading “TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS” and items 1771 “General treatment”, 1772 “Therapeutic housing”, 1773 “Additional services at certain locations”, and 1774 “Coordination with other agencies and organizations”.
 
-§
-
 2000—Pub. L. 106–419, title II, §221(b), Nov. 1, 2000, 114 Stat. 1845, added item 1708.
 
 1999—Pub. L. 106–117, title I, §§101(a)(2), (c)(2), 111(b)(2), title II, §202(b), Nov. 30, 1999, 113 Stat. 1548, 1549, 1556, 1561, added items 1710A, 1710B, 1725, and 1729B.
@@ -181,7 +179,7 @@ Pub. L. 99–272, title XIX, §§19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Sta
 
 1976—Pub. L. 94–581, title II, §§202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
-1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
+1973—Pub. L. 93–82, title I, §§103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614 respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 
 Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “Arrests for crimes in hospitals and domiciliary reservations”.
 

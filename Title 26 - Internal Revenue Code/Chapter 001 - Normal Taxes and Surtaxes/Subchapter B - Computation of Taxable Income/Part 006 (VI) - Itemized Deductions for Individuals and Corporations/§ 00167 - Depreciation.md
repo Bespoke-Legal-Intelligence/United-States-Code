@@ -96,13 +96,17 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;For purposes of this section, the term “computer software” has the meaning given to such term by section 197(e)(3)(B); except that such term shall not include any such software which is an amortizable section 197 intangible.
 
+#### (C) Tax-exempt use property subject to lease
+
+&emsp;&emsp;In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+
 #### (2) Certain interests or rights acquired separately
 
-&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any property described in subparagraph (B), (C), or (D) of section 197(e)(4), such deduction shall be computed in accordance with regulations prescribed by the Secretary.
+&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any property described in subparagraph (B), (C), or (D) of section 197(e)(4), such deduction shall be computed in accordance with regulations prescribed by the Secretary. If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
 
 #### (3) Mortgage servicing rights
 
-&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any right described in section 197(e)(7), such deduction shall be computed by using the straight line method and a useful life of 108 months.
+&emsp;If a depreciation deduction is allowable under subsection (a) with respect to any right described in section 197(e)(6), such deduction shall be computed by using the straight line method and a useful life of 108 months.
 
 #### (g) Depreciation under income forecast method
 
@@ -128,7 +132,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;&emsp;(ii) an estimate of the future income to be earned in connection with such property for periods after the recomputation year and before the close of the 10th taxable year following the taxable year in which the property was placed in service,
 
-&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each such prior taxable year which would resultsolely from the application of subparagraph (A), and
+&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each such prior taxable year which would result solely from the application of subparagraph (A), and
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in section 460(b)(7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
@@ -168,11 +172,15 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under paragraph (1) for any recomputation year shall be treated as an increase in the tax imposed by this chapter for such year.
 
-#### (E) Determinations
+#### (E) Treatment of distribution costs
+
+&emsp;&emsp;For purposes of this subsection, the income with respect to any property shall be the taxpayer's gross income from such property.
+
+#### (F) Determinations
 
 &emsp;&emsp;For purposes of paragraph (2), determinations of the amount of income earned in connection with any property shall be made in the same manner as for purposes of applying the income forecast method; except that any income from the disposition of such property shall be taken into account.
 
-#### (F) Treatment of pass-thru entities
+#### (G) Treatment of pass-thru entities
 
 &emsp;&emsp;Rules similar to the rules of section 460(b)(4) shall apply for purposes of this subsection.
 
@@ -192,15 +200,73 @@ In the case of property held by one person for life with remainder to another pe
 
 > &emsp;Such methods may not be used with respect to any amortizable section 197 intangible (as defined in section 197(c)).
 
-#### (h) Cross references
+#### (7) Treatment of participations and residuals
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of determining the depreciation deduction allowable with respect to a property under this subsection, the taxpayer may include participations and residuals with respect to such property in the adjusted basis of such property for the taxable year in which the property is placed in service, but only to the extent that such participations and residuals relate to income estimated (for purposes of this subsection) to be earned in connection with the property before the close of the 10th taxable year referred to in paragraph (1)(A).
+
+#### (B) Participations and residuals
+
+&emsp;&emsp;For purposes of this paragraph, the term “participations and residuals” means, with respect to any property, costs the amount of which by contract varies with the amount of income earned in connection with such property.
+
+#### (C) Special rules relating to recomputation years
+
+&emsp;&emsp;If the adjusted basis of any property is determined under this paragraph, paragraph (4) shall be applied by substituting “for each taxable year in such period” for “for such period”.
+
+#### (D) Other special rules
+
+#### (i) Participations and residuals
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (A), the taxpayer may exclude participations and residuals from the adjusted basis of such property and deduct such participations and residuals in the taxable year that such participations and residuals are paid.
+
+#### (ii) Coordination with other rules
+
+&emsp;&emsp;&emsp;Deductions computed in accordance with this paragraph shall be allowable notwithstanding paragraph (1)(B), section 263, 263A, 404, 419, or 461(h).
+
+#### (E) Authority to make adjustments
+
+&emsp;&emsp;The Secretary shall prescribe appropriate adjustments to the basis of property and to the look-back method for the additional amounts allowable as a deduction solely by reason of this paragraph.
+
+#### (h) Amortization of geological and geophysical expenditures
+
+#### (1) In general
+
+&emsp;Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas within the United States (as defined in section 638) shall be allowed as a deduction ratably over the 24-month period beginning on the date that such expense was paid or incurred.
+
+#### (2) Half-year convention
+
+&emsp;For purposes of paragraph (1), any payment paid or incurred during the taxable year shall be treated as paid or incurred on the mid-point of such taxable year.
+
+#### (3) Exclusive method
+
+&emsp;Except as provided in this subsection, no depreciation or amortization deduction shall be allowed with respect to such payments.
+
+#### (4) Treatment upon abandonment
+
+&emsp;If any property with respect to which geological and geophysical expenses are paid or incurred is retired or abandoned during the 24-month period described in paragraph (1), no deduction shall be allowed on account of such retirement or abandonment and the amortization deduction under this subsection shall continue with respect to such payment.
+
+#### (i) Cross references
 
 &emsp;&emsp;<b>(1) For additional rule applicable to depreciation of improvements in the case of mines, oil and gas wells, other natural deposits, and timber, see section 611.</b>
 
 &emsp;&emsp;<b>(2) For amortization of goodwill and certain other intangibles, see section 197.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8,1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 51; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 87–834, §13(b), (c)(1), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 89–800, §2, Nov. 8, 1966, 80 Stat. 1513; Pub. L. 90–26, §§1, 2(b), June 13, 1967, 81 Stat. 57, 58; Pub. L. 91–172, title IV, §441(a), title V, §521(a), (d), Dec. 30, 1969, 83 Stat. 625, 649, 653; Pub. L. 92–178, title I, §109(a), Dec. 10, 1971, 85 Stat. 508; Pub. L. 93–625, §3(c), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title II, §§202(c)(3), 203(a), title XIX, §§1901(a)(27), 1906(b)(13)(A), title XXI, §2124(c)(1), (d)(1), Oct. 4, 1976, 90 Stat. 1530, 1768, 1834, 1918; Pub. L. 95–171, §4(a), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–600, title III, §§312(c)(4), 367, title VII, §701(f)(4), (6), Nov. 6, 1978, 92 Stat. 2826, 2857, 2901, 2902; Pub. L. 95–615, §7(a), Nov. 8, 1978, 92 Stat. 3098; Pub. L. 95–618, title III, §301(d)(3), (e)(1), Nov. 9, 1978, 92 Stat. 3200, 3201; Pub. L. 96–541, §§2(c), (d), 3, Dec. 17, 1980, 94 Stat. 3204, 3205; Pub. L. 96–613, §2(a), Dec. 28, 1980, 94 Stat. 3579; Pub. L. 97–34, title II, §§203(a)–(c)(1), (d), 209(d)(3), 212(d)(1), 264(a), Aug. 13, 1981, 95 Stat. 221, 222, 227, 239, 264; Pub. L. 97–424, title V, §541(a)(2), Jan. 6, 1983, 96 Stat. 2192; Pub. L. 98–369, div. A, title X, §1064, July 18, 1984, 98 Stat. 1047; Pub. L. 99–514, title II, §201(d)(1), title XV, §1511(c)(4), title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2139, 2745, 2821; Pub. L. 100–647, title I, §1002(a)(22), (24), (31), (i)(1), Nov. 10, 1988, 102 Stat. 3356, 3357, 3370; Pub. L. 101–239, title VII, §§7622(b)(1) \[(d)(1)\], 7645(a), Dec. 19, 1989, 103 Stat. 2378, 2381; Pub. L. 101–508, title XI, §11812(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–534; Pub. L. 103–66, title XIII, §§13206(c)(2), 13261(b), (f)(1), Aug. 10, 1993, 107 Stat. 466, 538, 539; Pub. L. 104–188, title I, §1604(a), Aug. 20, 1996, 110 Stat. 1836; Pub. L. 105–34, title X, §1086(a), Aug. 5, 1997, 111 Stat. 957; Pub. L. 108–357, title II, §242(a), (b), title VIII, §847(b)(1), (2), Oct. 22, 2004, 118 Stat. 1438, 1439, 1601; Pub. L. 109–58, title XIII, §1329(a), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 109–135, title IV, §412(r), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Amendments
+
+2005—Subsec. (f)(3). Pub. L. 109–135 substituted “section 197(e)(6)” for “section 197(e)(7)”.
+
+Subsecs. (h), (i). Pub. L. 109–58 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+2004—Subsec. (f)(1)(C). Pub. L. 108–357, §847(b)(1), added subpar. (C).
+
+Subsec. (f)(2). Pub. L. 108–357, §847(b)(2), inserted at end “If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).”
+
+Subsec. (g)(5)(E) to (G). Pub. L. 108–357, §242(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+
+Subsec. (g)(7). Pub. L. 108–357, §242(a), added par. (7).
 
 1997—Subsec. (g)(6). Pub. L. 105–34 added par. (6).
 
@@ -228,7 +294,7 @@ Subsec. (g). Pub. L. 103–66, §13261(b)(1), (f)(1), redesignated subsec. (f) a
 
 Subsec. (c). Pub. L. 101–508, §11812(a)(1), redesignated subsec. (g) as (c) and struck out former subsec. (c) “Limitations on use of certain methods and rates” which read as follows: “Paragraphs (2), (3), and (4) of subsection (b) shall apply only in the case of property (other than intangible property) described in subsection (a) with a useful life of 3 years or more—
 
-&emsp;“(1) the construction, reconstruction, or erection of which is completed after December 31, 1953, and then only to that portion of the basis which is properly attributable to such construction, reconstruction, or erection after December 31, 1953, or
+&emsp;“(1) the construction, reconstruction, or erection of which is completed after December 31, 1953, and thenonly to that portion of the basis which is properly attributable to such construction, reconstruction, or erection after December 31, 1953, or
 
 &emsp;“(2) acquired after December 31, 1953, if the original use of such property commences with the taxpayer and commences after such date.
 
@@ -392,6 +458,16 @@ Subsecs. (f) to (i). Pub. L. 87–834, §13(c)(1), added subsec. (f) and redesig
 
 1958—Subsec. (d). Pub. L. 85–866 inserted “certified mail or” before “registered mail”.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title XIII, §1329(c), Aug. 8, 2005, 119 Stat. 1020, provided that: “The amendments made by this section \[amending this section and section 263A of this title\] shall apply to amounts paid or incurred in taxable years beginning after the date of the enactment of this Act \[Aug. 8, 2005\].”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §242(c), Oct. 22, 2004, 118 Stat. 1439, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by section 847(b)(1) of Pub. L. 108–357 applicable to leases entered into after Mar. 12, 2004, and amendment by section 847(b)(2) of Pub. L. 108–357 applicable to leases entered into after Oct. 3, 2004, except that such amendments inapplicable to qualified transportation property, see section 849 of Pub. L. 108–357, set out as an Effective Date note under section 470 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 1086(c) of Pub. L. 105–34 provided that: “The amendment made by this section \[amending this section and section 168 of this title\] shall apply to property placed in service after the date of the enactment of this Act \[Aug. 5, 1997\].”
@@ -458,7 +534,7 @@ Amendment by Pub. L. 97–424 applicable to taxable years beginning after Dec. 3
 
 Section 264(b) of Pub. L. 97–34 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to rehabilitation expenditures incurred after December 31, 1980.”
 
-Amendment by sections 203 and 209 of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, except that amendment by section 203(c) of Pub. L. 97–34 effective Jan. 1, 1981, and applicable with respect to taxable years ending after that date, see section 209(a), (b) ofPub. L. 97–34, set out as an Effective Date note under section 168 of this title.
+Amendment by sections 203 and 209 of Pub. L. 97–34 applicable to property placed in service after Dec. 31, 1980, in taxable years ending after that date, except that amendment by section 203(c) of Pub. L. 97–34 effective Jan. 1, 1981, and applicable with respect to taxable years ending after that date, see section 209(a), (b) of Pub. L. 97–34, set out as an Effective Date note under section 168 of this title.
 
 Amendment by section 212(d)(1) of Pub. L. 97–34 applicable to expenditures incurred after Dec. 31, 1981, in taxable years ending after that date, see section 212(e) of Pub. L. 97–34, set out as a note under section 46 of this title.
 
@@ -484,7 +560,7 @@ Amendment by section 1901(a)(27)(A) of Pub. L. 94–455 applicable with respect 
 
 Amendment by section 202(c)(3) of Pub. L. 94–455 applicable for taxable years ending after Dec. 31, 1975, see section 202(d) of Pub. L. 94–455, set out as a note under section 1250 of this title.
 
-Section 203(b) of Pub. L. 94–455, as amended by Pub. L. 95–171, §4(b), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–615, §7(b), Nov. 8, 1978, 92 Stat. 3098, provided that: “The amendments made by paragraphs (1), (3), and (4) of subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 1975. The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to expenditures incurred after December 31, 1975.”
+Section 203(b) of Pub. L. 94–455, as amended by Pub. L. 95–171, §4(b), Nov. 12, 1977, 91 Stat. 1355; Pub. L. 95–615, §7(b), Nov. 8, 1978, 92 Stat. 3098, provided that:“The amendments made by paragraphs (1), (3), and (4) of subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 1975. The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to expenditures incurred after December 31, 1975.”
 
 \[Section 7(b) of Pub. L. 95–615 \[which amended section 203(b) of Pub. L. 94–455 exactly as that section 203(b) had been amended by Pub. L. 95–171\] to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a Termination Date of 1978 Amendment note under section 61 of this title.\]
 
@@ -522,7 +598,7 @@ Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -565,8 +641,4 @@ Subsidiary assets.—If a significant portion of a class of property first presc
 #### Rehabilitation Expenditures for Low Income Rental Housing Incurred After December 31, 1974, and Before January 1, 1978, Pursuant to Contract Entered Before December 31, 1974
 
 Pub. L. 93–482, §4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding the provisions of section 167(k)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to depreciation of expenditures to rehabilitate low income rental housing), the provisions of section 167(k) shall apply with respect to rehabilitation expenditures incurred with respect to low income rental housing after December 31, 1974, and before January 1, 1978, if such expenditures are incurred pursuant to a binding contract entered into before December 31, 1974.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 56, 62, 132, 142, 168, 169, 172, 174, 175, 179, 179A, 197, 198, 216, 312, 381, 453, 514, 542, 543, 545, 556, 611, 616, 617, 642, 818, 832, 834, 936, 1016, 1082, 1221, 1231, 1239, 1245, 1250, 1400L, 4940, 7518, 7701 of this title; title 33 sections 1316, 1326; title 46 App. section 1177.
 

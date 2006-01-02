@@ -4,7 +4,7 @@
 
 &emsp;(1) the chairman of the Committee on Armed Services of the Senate, or his designee;
 
-&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom aremembers of the Committee on Appropriations of the Senate;
+&emsp;(2) three other members of the Senate designated by the Vice President or the President pro tempore of the Senate, two of whom are members of the Committee on Appropriations of the Senate;
 
 &emsp;(3) the chairman of the Committee on Armed Services of the House of Representatives, or his designee;
 

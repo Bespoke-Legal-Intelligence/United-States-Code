@@ -30,7 +30,7 @@
 
 (f) In addition to amounts authorized before October 10, 1966, there is hereby authorized to be appropriated to the Secretary of State—
 
-&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) of sites and buildings in foreign countries under this chapter, and for major alterations ofbuildings acquired under this chapter, the following sums—
+&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) of sites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
 
 &emsp;&emsp;(A) for use in Africa, not to exceed $5,485,000, of which not to exceed $1,885,000 may be appropriated for the fiscal year 1967;
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(E) for use in the Near East, not to exceed $6,930,000, of which not to exceed $1,890,000 may be appropriated for the fiscal year 1967;
 
-&emsp;&emsp;(F) for facilities for the United States Information Agency, not to exceed $615,000, of which not to exceed $430,000 may be appropriated for the fiscal year 1967;
+&emsp;&emsp;(F) for facilities for the United States Information Agency, not to exceed $615,000, ofwhich not to exceed $430,000 may be appropriated for the fiscal year 1967;
 
 &emsp;&emsp;(G) for facilities for agricultural and defense attache�AE1 housing, not to exceed $800,000, of which not to exceed $400,000 may be appropriated for the fiscal year 1967;
 
@@ -100,7 +100,7 @@ Date of enactment of this section, referred to in subsec. (d), probably means th
 
 #### Amendments
 
-1993—Subsec. (j). Pub. L. 103–199 struck out subsec. (j) which read as follows: “For the purpose of carryinginto effect the provisions of this chapter in the Union of Soviet Socialist Republics, there is authorized to be appropriated, in addition to amounts authorized prior to July 12, 1976, $30,000,000, which amount is authorized to remain available until expended.”
+1993—Subsec. (j). Pub. L. 103–199 struck out subsec. (j) which read as follows: “For the purpose of carrying into effect the provisions of this chapter in the Union of Soviet Socialist Republics, there is authorized to be appropriated, in addition to amounts authorized prior to July 12, 1976, $30,000,000, which amount is authorized to remain available until expended.”
 
 1977—Subsec. (h)(1). Pub. L. 95–45 substituted “$225,000” for “$6,725,000” in subpar. (A), “$12,885,000” for “$8,005,000” in subpar. (B), “$3,400,000” for “$3,745,000” in subpar. (C), “$150,000” for “$420,000” in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
 
@@ -108,7 +108,7 @@ Date of enactment of this section, referred to in subsec. (d), probably means th
 
 Subsec. (j). Pub. L. 94–350, §109(2), added subsec. (j).
 
-1975—Subsec. (g)(1). Pub. L. 94–141, §171(a), substituted “$850,000” for “$2,190,000” in subpar. (A), “$240,000” for “$375,000” in subpar. (B), “$682,000” for “$4,780,000” in subpar. (C), “$1,243,000” for “$2,585,000” in subpar. (D), and “$10,433,000” for “$3,518,000” in subpar. (E).
+1975—Subsec. (g)(1). Pub. L. 94–141, §171(a), substituted “$850,000” for “$2,190,000” in subpar. (A),“$240,000” for “$375,000” in subpar. (B), “$682,000” for “$4,780,000” in subpar. (C), “$1,243,000” for “$2,585,000” in subpar. (D), and “$10,433,000” for “$3,518,000” in subpar. (E).
 
 Subsec. (h). Pub. L. 94–141, §171(b)(1), added subsec. (h). Former subsec. (h) redesignated (i).
 

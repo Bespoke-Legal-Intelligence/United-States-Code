@@ -19,10 +19,6 @@
 
 1958—Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414, added item 5708.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6651 of this title.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 

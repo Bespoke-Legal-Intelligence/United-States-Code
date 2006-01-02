@@ -32,7 +32,7 @@ The Secretary shall ensure that the responsibilities of the Department regarding
 
 Subject to the direction and control of the Secretary, the responsibilities of the Under Secretary for Information Analysis and Infrastructure Protection shall be as follows:
 
-&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies ofthe Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information in order to—
+&emsp;(1) To access, receive, and analyze law enforcement information, intelligence information, and other information from agencies of the Federal Government, State and local government agencies (including law enforcement agencies), and private sector entities, and to integrate such information in order to—
 
 &emsp;&emsp;(A) identify and assess the nature and scope of terrorist threats to the homeland;
 
@@ -74,7 +74,7 @@ Subject to the direction and control of the Secretary, the responsibilities of t
 
 &emsp;(14) To establish and utilize, in conjunction with the chief information officer of the Department, a secure communications and information technology infrastructure, including data-mining and other advanced analytical tools, in order to access, receive, and analyze data and information in furtherance of the responsibilities under this section, and to disseminate information acquired and analyzed by the Department, as appropriate.
 
-&emsp;(15) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analyticaltools developed or utilized by the Department—
+&emsp;(15) To ensure, in conjunction with the chief information officer of the Department, that any information databases and analytical tools developed or utilized by the Department—
 
 &emsp;&emsp;(A) are compatible with one another and with relevant information databases of other agencies of the Federal Government; and
 
@@ -106,7 +106,7 @@ Subject to the direction and control of the Secretary, the responsibilities of t
 
 #### (1) In general
 
-&emsp;In order to assist the Directorate in discharging responsibilities under this section, personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
+&emsp;In order to assist the Directorate in discharging responsibilities under this section,personnel of the agencies referred to in paragraph (2) may be detailed to the Department for the performance of analytic functions and related duties.
 
 #### (2) Covered agencies
 
@@ -170,7 +170,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Ex. Ord. No. 13231. Critical Infrastructure Protection in the Information Age
 
-Ex. Ord. No. 13231, Oct. 16, 2001, 66 F.R. 53063, as amended by Ex. Ord. No. 13284, §2, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13286, §7, Feb. 28, 2003, 68 F.R. 10620, provided:
+Ex. Ord. No. 13231, Oct. 16, 2001, 66 F.R. 53063, as amended by Ex. Ord. No. 13284, §2, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13286, §7, Feb. 28, 2003, 68 F.R. 10620; Ex. Ord. No. 13385, §5, Sept. 29, 2005, 70 F.R. 57990, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure protection of information systems for critical infrastructure, including emergency preparedness communications and the physical assets that support such systems, in the information age, it is hereby ordered as follows:
 
@@ -190,21 +190,21 @@ Sec. 2. <i>Continuing Authorities</i>. This order does not alter the existing au
 
 (c) Additional Responsibilities. The heads of executive branch departments and agencies are responsible and accountable for providing and maintaining adequate levels of security for information systems, including emergency preparedness communications systems, for programs under their control. Heads of such departments and agencies shall ensure the development and, within available appropriations, funding of programs that adequately address these mission systems, especially those critical systems that support the national security and other essential government programs. Additionally, security should enable, and not unnecessarily impede, department and agency business operations.
 
-Sec. 3. <i>The National Infrastructure Advisory Council</i>. The National Infrastructure Advisory Council (NIAC), established on October 16, 2001, shall provide the President through the Secretary of Homeland Security with advice on the security of information systems for critical infrastructure supporting other sectors of the economy: banking and finance, transportation, energy, manufacturing, and emergency government services.
+Sec. 3. <i>The National Infrastructure Advisory Council</i>. The National Infrastructure Advisory Council (NIAC), established on October 16, 2001, shall provide the President through the Secretary of Homeland Security with advice on the security of the critical infrastructure sectors and their information systems.
 
-(a) Membership. The NIAC shall be composed of not more than 30 members appointed by the President. The members of the NIAC shall be selected from the private sector, academia, and State and local government. Members of the NIAC shall have expertise relevant to the functions of the NIAC and generally shall be selected from industry Chief Executive Officers (and equivalently ranked leaders of other organizations) with responsibilities for security of information infrastructure supporting the critical sectors of the economy, including banking and finance, transportation, energy, communications, and emergency government services. Members shall not be full-time officials or employees of the executive branch of the Federal Government. The President shall designate a Chair and Vice Chair from among the members of the NIAC.
+(a) Membership. The NIAC shall be composed of not more than 30 members appointed by the President, taking appropriate account of the benefits of having members (i) from the private sector, including but not limited to banking and finance, transportation, energy, communications, and emergency services organizations and institutions of higher learning, and State, local, and tribal governments, (ii) with senior leadership responsibilities for the reliability and availability, which include security, of the critical infrastructure and key resource sectors, (iii) with expertise relevant to the functions of the NIAC, and (iv) with experience equivalent to that of a chief executive of an organization. Unless otherwise determined by the President, no full-time officer or employee of the executive branch shall be appointed to serve as a member of the NIAC. The President shall designate from among the members of the NIAC a Chair and a Vice Chair, who shall perform the functions of the Chair if the Chair is absent, disabled, or in the instance of a vacancy in the Chair.
 
-(b) Functions of the NIAC. The NIAC will meet periodically to:
+(b) Functions of the NIAC. The NIAC shall meet periodically to:
 
-&emsp;(i) enhance the partnership of the public and private sectors in protecting information systems for critical infrastructures and provide reports on this issue to the Secretary of Homeland Security, as appropriate;
+&emsp;(i) enhance the partnership of the public and private sectors in protecting critical infrastructures and their information systems and provide reports on this issue to the President through the Secretary of Homeland Security, as appropriate;
 
-&emsp;(ii) propose and develop ways to encourage private industry to perform periodic risk assessments of critical information and telecommunications systems;
+&emsp;(ii) propose and develop ways to encourage private industry to perform periodic risk assessments;
 
-&emsp;(iii) monitor the development of private sector Information Sharing and Analysis Centers (ISACs) and provide recommendations to the President through the Secretary of Homeland Security on how these organizations can best foster improved cooperation among the ISACs, the Department of Homeland Security, and other Federal Government entities;
+&emsp;(iii) monitor the development and operations of private sector coordinating councils and their information sharing mechanisms and provide recommendations to the President through the Secretary of Homeland Security on how these organizations can best foster improved cooperation among the sectors, the Department of Homeland Security, and other Federal Government entities;
 
-&emsp;(iv) report to the President through the Secretary of Homeland Security, who shall ensure appropriate coordination with the Assistant to the President for Homeland Security, the Assistant to the President for Economic Policy, and the Assistant to the President for National Security Affairs under the terms of this order; and
+&emsp;(iv) report to the President through the Secretary of Homeland Security, who shall ensure appropriate coordination with the Assistant to the President for Homeland Security and Counterterrorism, the Assistant to the President for Economic Policy, and the Assistant to the President for National Security Affairs under the terms of this order; and
 
-&emsp;(v) advise lead agencies with critical infrastructure responsibilities, sector coordinators, the Department of Homeland Security, and the ISACs.
+&emsp;(v) advise sector specific agencies with critical infrastructure responsibilities to include issues pertaining to sector and government coordinating councils and their information sharing mechanisms.
 
 (c) Administration of the NIAC.
 
@@ -214,19 +214,9 @@ Sec. 3. <i>The National Infrastructure Advisory Council</i>. The National Infras
 
 &emsp;(iii) Senior Federal Government officials may participate in the meetings of the NIAC, as appropriate.
 
-&emsp;(iv) Members shall serve without compensation for their work on the NIAC. However, members may be reimbursed for travel expenses, including per diem inlieu of subsistence, as authorized by law for persons serving intermittently in Federal Government service (5 U.S.C. 5701–5707).
+&emsp;(iv) Members shall serve without compensation for their work on the NIAC. However, members may be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal Government service (5 U.S.C. 5701–5707).
 
 &emsp;(v) To the extent permitted by law and subject to the availability of appropriations, the Department of Homeland Security shall provide the NIAC with administrative services, staff, and other support services, and such funds as may be necessary for the performance of the NIAC's functions.
-
-(d) General Provisions.
-
-&emsp;(i) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the NIAC, the functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Department of Homeland Security in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-&emsp;(ii) The NIAC shall terminate on October 15, 2003, unless extended by the President.
-
-&emsp;(iii) Executive Order 13130 of July 14, 1999, was revoked on October 16, 2001.
-
-&emsp;(iv) Nothing in this order shall supersede any requirement made by or under law.
 
 Sec. 4. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
@@ -234,7 +224,9 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of National Infrastructure Advisory Council
 
-Term of the National Infrastructure Advisory Council extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organizations and Employees.
+Term of the National Infrastructure Advisory Council extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organizations and Employees.
+
+Term of the National Infrastructure Advisory Council extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13284. Amendment of Executive Orders, and Other Actions, in Connection With the Establishment of the Department of Homeland Security
 
@@ -246,7 +238,7 @@ Section 1. \[Amended Ex. Ord. No. 13234.\]
 
 Sec. 2. \[Amended Ex. Ord. No. 13231, set out above.\]
 
-Sec. 3. Executive Order 13228 of October 8, 2001 (“Establishing the Office of Homeland Security and the Homeland Security Council”) \[50 U.S.C. 402 note\], is amended by inserting “the Secretary of Homeland Security,” after “the Secretary of Transportation,” in section 5(b). Further, during the period from January 24, 2003, until March 1, 2003, the Secretary of Homeland Security shall have the responsibility for coordinating the domestic response efforts otherwise assigned to the Assistant to the President for Homeland Security pursuant to section 3(g) of Executive Order 13228.
+Sec. 3. Executive Order 13228 of October 8, 2001 (“Establishing the Office of Homeland Security and the Homeland Security Council”) \[50 U.S.C. 402 note\], is amended by inserting “the Secretary of Homeland Security,” after “the Secretary of Transportation,” in section 5(b). Further, during the period from January24, 2003, until March 1, 2003, the Secretary of Homeland Security shall have the responsibility for coordinating the domestic response efforts otherwise assigned to the Assistant to the President for Homeland Security pursuant to section 3(g) of Executive Order 13228.
 
 Sec. 4. \[Amended Ex. Ord. No. 13224, set out as a note under section 1701 of Title 50, War and National Defense.\]
 

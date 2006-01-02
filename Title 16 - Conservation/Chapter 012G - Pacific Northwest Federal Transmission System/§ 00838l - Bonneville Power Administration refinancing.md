@@ -24,7 +24,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(B) was for a project, facility, or separable unit or feature of a project or facility, placed in service before October 1, 1996;
 
-&emsp;(5) “repayment date” means the end of the period within which the Administrator's ratesare to assure the repayment of the principal amount of a capital investment; and
+&emsp;(5) “repayment date” means the end of the period within which the Administrator's rates are to assure the repayment of the principal amount of a capital investment; and
 
 &emsp;(6) “Treasury rate” means—
 
@@ -40,7 +40,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) the present value of the old payment amounts for the old capital investment, calculated using a discount rate equal to the Treasury rate for the old capital investment; and
 
-&emsp;&emsp;(B) an amount equal to $100,000,000 multiplied by a fraction whose numerator is the principal amount of the old payment amounts for the old capital investment and whose denominator is the sum of the principal amounts of the old payment amounts for all old capital investments.
+&emsp;&emsp;(B) an amount equal to $100,000,000 multiplied by a fraction whose numerator is the principal amount of the old paymentamounts for the old capital investment and whose denominator is the sum of the principal amounts of the old payment amounts for all old capital investments.
 
 #### (2) Determination
 
@@ -90,7 +90,7 @@ During the period October 1, 1996, through September 30, 2001, the total new pri
 
 #### (3) One-year rate
 
-&emsp;For the purposes of this section, “one-year rate” for a fiscal year means a rate determined by the Secretary of the Treasury, taking into consideration prevailing marketyields, during the month preceding the beginning of the fiscal year, on outstanding interest-bearing obligations of the United States with periods to maturity of approximately one year.
+&emsp;For the purposes of this section, “one-year rate” for a fiscal year means a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year, on outstanding interest-bearing obligations of the United States with periods to maturity of approximately one year.
 
 #### (g) Interest rates for new capital investments
 
@@ -114,7 +114,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 &emsp;(2) apart from charges necessary to repay the new principal amount of an old capital investment as established under subsection (b) of this section and to pay the interest on the principal amount under subsection (c) of this section, no amount may be charged for return to the United States Treasury as repayment for or return on an old capital investment, whether by way of rate, rent, lease payment, assessment, user charge, or any other fee;
 
-&emsp;(3) amounts provided under section 1304 of title 31 shall be available to pay, and shall be the sole source for payment of, a judgment against or settlement by the Administrator or the United States on a claim for a breach of the contract provisions required by this Part;<sup>1</sup> and
+&emsp;(3) amounts provided under section 1304 of title 31 shall be available to pay, and shall be the sole source for payment of, a judgment against or settlement by the Administrator or the United States on a claim for a breach of the contract provisions required by this Part; <sup>1</sup> and
 
 &emsp;(4) the contract provisions specified in this Part <sup>1</sup> do not—
 

@@ -52,9 +52,13 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(H) capital expenditures to facilitate programs to improve the empowerment and economic self-sufficiency of public housing residents and to improve resident participation;
 
-&emsp;&emsp;(I) capital expenditures to improve the security and safety of residents; and
+&emsp;&emsp;(I) capital expenditures to improve the security and safety of residents;
 
-&emsp;&emsp;(J) homeownership activities, including programs under section 1437z–4 of this title.
+&emsp;&emsp;(J) homeownership activities, including programs under section 1437z–4 of this title;
+
+&emsp;&emsp;(K) improvement of energy and water-use efficiency by installing fixtures and fittings that conform to the American Society of Mechanical Engineers/American National Standards Institute standards A112.19.2–1998 and A112.18.1–2000, or any revision thereto, applicable at the time of installation, and by increasing energy efficiency and water conservation by such other means as the Secretary determines are appropriate; and
+
+&emsp;&emsp;(L) integrated utility management and capital planning to maximize energy conservation and efficiency measures.
 
 #### (2) Formula
 
@@ -126,7 +130,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;&emsp;(iii) the number of public housing dwelling units owned, assisted, or operated by the public housing agency that are chronically vacant and the amount of assistance appropriate for those units;
 
-&emsp;&emsp;&emsp;(iv) to the extent quantifiable, the extent to which the public housing agency provides programs and activities designed to promote the economic self-sufficiency and management skills of public housing residents;
+&emsp;&emsp;&emsp;(iv) to the extent quantifiable, the extent to which the public housing agencyprovides programs and activities designed to promote the economic self-sufficiency and management skills of public housing residents;
 
 &emsp;&emsp;&emsp;(v) the need of the public housing agency to carry out anti-crime and anti-drug activities, including providing adequate security for public housing residents;
 
@@ -140,7 +144,17 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (C) Treatment of savings
 
-&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energy conservation improvements in one or more of its public housing projects.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energy conservation improvements in one or more of its public housing projects.
+
+#### (ii) Third party contracts
+
+&emsp;&emsp;&emsp;Contracts described in clause (i) may include contracts for equipment conversions to less costly utility sources, projects with resident-paid utilities, and adjustments to frozen base year consumption, including systems repaired to meet applicable building and safety codes and adjustments for occupancy rates increased by rehabilitation.
+
+#### (iii) Term of contract
+
+&emsp;&emsp;&emsp;The total term of a contract described in clause (i) shall not exceed 20 years to allow longer payback periods for retrofits, including windows, heating system replacements, wall insulation, site-based generation, advanced energy savings technologies, including renewable energy generation, and other such retrofits.
 
 #### (3) Condition on use
 
@@ -172,7 +186,7 @@ The formulas under subsections (d)(2) and (e)(2) of this section shall be develo
 
 #### (C) Exception regarding formulas
 
-&emsp;&emsp;Subject to reasonable limitations set by the Secretary, the formulas established under subsections (d)(2) and (e)(2) of this section may provide additional funding for the operation and modernization costs (but not the initial development costs) of housing in excess of amounts otherwise permitted under this paragraph, and such amounts may be so used, if—
+&emsp;&emsp;Subject to reasonable limitations set by the Secretary, the formulas establishedunder subsections (d)(2) and (e)(2) of this section may provide additional funding for the operation and modernization costs (but not the initial development costs) of housing in excess of amounts otherwise permitted under this paragraph, and such amounts may be so used, if—
 
 &emsp;&emsp;&emsp;(i) such units are part of a mixed-finance project or otherwise leverage significant additional private or public investment; and
 
@@ -192,7 +206,7 @@ To the extent amounts are provided in advance in appropriations Acts, the Secret
 
 &emsp;&emsp;(A) at risk of being designated as troubled under section 1437d(j) of this title, to assist such agencies from being so designated; and
 
-&emsp;&emsp;(B) designated as troubled under section 1437d(j) of this title, to assist such agenciesin achieving the removal of that designation;
+&emsp;&emsp;(B) designated as troubled under section 1437d(j) of this title, to assist such agencies in achieving the removal of that designation;
 
 &emsp;(5) contract expertise;
 
@@ -256,7 +270,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (B) Withholding of assistance
 
-&emsp;&emsp;During any fiscal year described in subparagraph (A), the Secretary shall withhold all assistance that would otherwise be provided to the public housing agency. If the public housing agency cures its failure to comply during the year, it shall be provided with the share attributable to the months remaining in the year.
+&emsp;&emsp;During any fiscal year described in subparagraph (A), the Secretary shall withhold all assistance that would otherwise be provided to the public housing agency. If thepublic housing agency cures its failure to comply during the year, it shall be provided with the share attributable to the months remaining in the year.
 
 #### (C) Redistribution
 
@@ -276,7 +290,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (A) In general
 
-&emsp;&emsp;A public housing agency shall spend any assistance received under this section not later than 4 years (plus the period of any extension approved by the Secretary under paragraph (2)) after the date on which fundsbecome available to the agency for obligation.
+&emsp;&emsp;A public housing agency shall spend any assistance received under this section not later than 4 years (plus the period of any extension approved by the Secretary under paragraph (2)) after the date on which funds become available to the agency for obligation.
 
 #### (B) Enforcement
 
@@ -340,13 +354,13 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (3) Services for elderly residents
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one ormore developments. The model project may provide for contracting with private parties for the delivery of services.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
 
 #### (4) Effective date
 
 &emsp;This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 
-(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503.)
+(Sept. 1, 1937, ch. 896, title I, §9, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 666; amended Pub. L. 94–375, §2(c), Aug. 3, 1976, 90 Stat. 1068; Pub. L. 95–24, title I, §101(b), Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–128, title II, §201(f), Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §206(g), Oct. 31, 1978, 92 Stat. 2093; Pub. L. 96–153, title II, §§201(c), 207, 211(a), Dec. 21, 1979, 93 Stat. 1106, 1109, 1110; Pub. L. 96–399, title II, §201(b), (d), Oct. 8, 1980, 94 Stat. 1625; Pub. L. 97–35, title III, §§321(d), 322(c), Aug. 13, 1981, 95 Stat. 399, 402; Pub. L. 98–181, title II, §212, Nov. 30, 1983, 97 Stat. 1184; Pub. L. 99–272, title III, §3003, Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title I, §§112(b)(4), 118, Feb. 5, 1988, 101 Stat. 1824, 1828; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §§507, 572(2), title VIII, §802(p), Nov. 28, 1990, 104 Stat. 4186, 4236, 4317; Pub. L. 102–550, title I, §114, title VI, §673, Oct. 28, 1992, 106 Stat. 3691, 3827; Pub. L. 103–233, title III, §304, Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §218\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–330, title V, §501(b)(5), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title II, §210, title V, §519(a), Oct. 21, 1998, 112 Stat. 2485, 2551; Pub. L. 106–377, §1(a)(1) \[title II, §214(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §212(a), Feb. 20, 2003, 117 Stat. 503; Pub. L. 109–58, title I, §151, Aug. 8, 2005, 119 Stat. 648.)
 
 #### References in Text
 
@@ -359,6 +373,10 @@ Section 1437<i>l</i> of this title, referred to in subsecs. (a) and (d)(3)(A), (
 A prior section 9 of act Sept. 1, 1937, ch. 896, 50 Stat. 891, as amended, authorized loans for low-rent housing and slum clearance projects and was classified to section 1409 of this title, prior to the general revision of this chapter by Pub. L. 93–383. Similar provisions are contained in section 1437b of this title.
 
 #### Amendments
+
+2005—Subsec. (d)(1)(K), (L). Pub. L. 109–58, §151(1), added subpars. (K) and (L).
+
+Subsec. (e)(2)(C). Pub. L. 109–58, §151(2), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) and (iii).
 
 2003—Subsec. (n)(1). Pub. L. 108–7 struck out par. (1) which related to treatment of certain covered locally developed public housing units as eligible public housing units.
 
@@ -512,7 +530,9 @@ Pub. L. 108–447, div. I, title II, Dec. 8, 2004, 118 Stat. 3298, provided in p
 
 Public Housing Operating Fund\] to public housing agencies on a calendar year basis: <i>Provided further</i>, That, in fiscal year 2005 and all fiscal years hereafter, no amounts under this heading in any appropriations Act may be used for payments to public housing agencies for the costs of operation and management of public housing for any year prior to the current year of such Act”.
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 109–115, div. A, title III, Nov. 30, 2005, 119 Stat. 2444.
 
 Pub. L. 108–199, div. G, title II, Jan. 23, 2004, 118 Stat. 375.
 

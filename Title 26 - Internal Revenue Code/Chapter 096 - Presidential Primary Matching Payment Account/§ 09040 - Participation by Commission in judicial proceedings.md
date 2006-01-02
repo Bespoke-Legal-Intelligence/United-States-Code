@@ -6,7 +6,7 @@ The Commission is authorized to appear in and defend against any action institut
 
 #### (b) Recovery of certain payments
 
-The Commission is authorized, through attorneys and counsel described in subsection (a), to institute actions in the district courts of the United States to seek recovery of any amountsdetermined to be payable to the Secretary as a result of an examination and audit made pursuant to section 9038.
+The Commission is authorized, through attorneys and counsel described in subsection (a), to institute actions in the district courts of the United States to seek recovery of any amounts determined to be payable to the Secretary as a result of an examination and audit made pursuant to section 9038.
 
 #### (c) Injunctive relief
 

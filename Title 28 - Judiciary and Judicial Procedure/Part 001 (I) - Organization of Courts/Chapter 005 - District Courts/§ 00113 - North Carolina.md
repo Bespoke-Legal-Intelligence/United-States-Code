@@ -4,7 +4,7 @@ North Carolina is divided into three judicial districts to be known as the Easte
 
 ### Eastern District
 
-(a) The Eastern District comprises the counties of Beaufort, Bertie, Bladen, Brunswick, Camden, Carteret, Chowan, Columbus, Craven, Cumberland, Currituck, Dare, Duplin, Edgecombe, Franklin, Gates, Granville, Greene, Halifax, Harnett, Hertford, Hyde, Johnston, Jones, Lenoir, Martin, Nash, New Hanover,Northampton, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Pitt, Robeson, Sampson, Tyrrell, Vance, Wake, Warren, Washington, Wayne, and Wilson and that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina.
+(a) The Eastern District comprises the counties of Beaufort, Bertie, Bladen, Brunswick, Camden, Carteret, Chowan, Columbus, Craven, Cumberland, Currituck, Dare, Duplin, Edgecombe, Franklin, Gates, Granville, Greene, Halifax, Harnett, Hertford, Hyde, Johnston, Jones, Lenoir, Martin, Nash, New Hanover, Northampton, Onslow, Pamlico, Pasquotank, Pender, Perquimans, Pitt, Robeson, Sampson, Tyrrell, Vance, Wake, Warren, Washington, Wayne, and Wilson and that portion of Durham County encompassing the Federal Correctional Institution, Butner, North Carolina.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Elizabeth City, Fayetteville, Greenville, New Bern, Raleigh, Wilmington, and Wilson.
 
@@ -24,7 +24,7 @@ North Carolina is divided into three judicial districts to be known as the Easte
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §179 (Mar. 3, 1911, ch. 231, §98, 36 Stat. 1120; Oct. 7, 1914, ch. 318, 38 Stat. 728; Mar. 17, 1920, ch. 101, §1, 41 Stat. 531; June 7, 1924, ch. 359, §1, 43 Stat. 661; Dec. 24, 1924, ch. 18, 43 Stat. 721; June 12, 1926, ch. 566, 44 Stat. 734; June 22, 1926, ch. 645, 44 Stat. 758; June 22, 1926, ch. 646, 44 Stat. 758; Mar. 2, 1927, ch. 276, 44 Stat. 1339; Apr. 25, 1928, ch. 432, 45 Stat. 457; May 10, 1928, ch. 516, 45 Stat. 495; Feb. 20, 1933, ch. 107, 47 Stat. 859; Feb. 28, 1933, ch. 133, 47 Stat. 1350; June 28, 1935, ch. 330, §§1, 2, 49 Stat. 429; June 24, 1936, ch. 744, 49 Stat. 1898; June 24, 1936, ch. 759, 49 Stat. 1910; Aug. 17, 1937, ch. 688, 50 Stat. 671).
+Based on title 28, U.S.C., 1940 ed., §179 (Mar. 3, 1911, ch. 231, §98, 36 Stat. 1120; Oct. 7, 1914, ch. 318, 38 Stat.728; Mar. 17, 1920, ch. 101, §1, 41 Stat. 531; June 7, 1924, ch. 359, §1, 43 Stat. 661; Dec. 24, 1924, ch. 18, 43 Stat. 721; June 12, 1926, ch. 566, 44 Stat. 734; June 22, 1926, ch. 645, 44 Stat. 758; June 22, 1926, ch. 646, 44 Stat. 758; Mar. 2, 1927, ch. 276, 44 Stat. 1339; Apr. 25, 1928, ch. 432, 45 Stat. 457; May 10, 1928, ch. 516, 45 Stat. 495; Feb. 20, 1933, ch. 107, 47 Stat. 859; Feb. 28, 1933, ch. 133, 47 Stat. 1350; June 28, 1935, ch. 330, §§1, 2, 49 Stat. 429; June 24, 1936, ch. 744, 49 Stat. 1898; June 24, 1936, ch. 759, 49 Stat. 1910; Aug. 17, 1937, ch. 688, 50 Stat. 671).
 
 References to civil and criminal terms at Raleigh were omitted as more properly the subject of rule of court.
 

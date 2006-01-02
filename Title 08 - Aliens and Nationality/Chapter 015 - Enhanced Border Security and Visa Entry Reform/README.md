@@ -141,6 +141,10 @@
 | (c) | Functions. |
 | (d) | Report. |
 | (e) | Relationship to the NCTC. |
+| [1778\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001778%20-%20Vulnerability%20and%20threat%20assessment.md) | Vulnerability and threat assessment. |
+| (a) | Study. |
+| (b) | Report to Congress. |
+| (c) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -16,7 +16,7 @@ The Trade Representative, after consultation with the administering authority an
 
 Upon initiation of an investigation under this section, the Trade Representative shall request the following determinations be made according to substantive and procedural requirements specified by the Trade Representative, notwithstanding any other provision of this subtitle:
 
-&emsp;(1) The administering authority shall determine whether imports into the United States of the subject merchandise are being sold at less than fair value.
+&emsp;(1) The administering authority shall determine whether imports into the United Statesof the subject merchandise are being sold at less than fair value.
 
 &emsp;(2) The Commission shall determine whether an industry in the petitioning country is materially injured by reason of imports of the subject merchandise into the United States.
 

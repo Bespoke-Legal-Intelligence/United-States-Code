@@ -186,7 +186,3 @@ For requirement of Secretary of the Treasury to report to Congress on number of 
 
 Section 7601(a)(4) of Pub. L. 100–690 provided that: “No inference shall be drawn from the amendment made by paragraph (1) \[amending this section\] on the application of the Internal Revenue Code of 1986 without regard to such amendment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6050R, 6103, 6721, 6724, 7203 of this title; title 12 section 3420; title 25 section 2719; title 28 section 524.
-

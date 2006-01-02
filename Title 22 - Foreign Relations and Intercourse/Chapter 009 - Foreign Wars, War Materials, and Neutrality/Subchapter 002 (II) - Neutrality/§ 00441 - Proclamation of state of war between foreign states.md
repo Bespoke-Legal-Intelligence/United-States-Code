@@ -28,7 +28,7 @@ Section 17 of Joint Res. Nov. 4, 1939, provided that: “If any of the provision
 
 The purpose of Joint Res. Nov. 4, 1939, was expressed in the first three paragraphs of the act as follows:
 
-“Whereas the United States, desiring to preserve its neutrality in wars between foreign states and desiringalso to avoid involvement therein, voluntarily imposes upon its nationals by domestic legislation the restrictions set out in this joint resolution \[this subchapter\]; and
+“Whereas the United States, desiring to preserve its neutrality in wars between foreign states and desiring also to avoid involvement therein, voluntarily imposes upon its nationals by domestic legislation the restrictions set out in this joint resolution \[this subchapter\]; and
 
 “Whereas by so doing the United States waives none of its own rights or privileges, or those of any of its nationals, under international law, and expressly reserves all the rights and privileges to which it and its nationals are entitled under the law of nations; and
 

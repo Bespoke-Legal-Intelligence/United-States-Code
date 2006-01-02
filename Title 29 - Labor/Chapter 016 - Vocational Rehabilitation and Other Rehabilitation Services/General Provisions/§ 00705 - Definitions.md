@@ -128,7 +128,7 @@ For the purposes of this chapter:
 
 #### (B) Cost of construction
 
-&emsp;&emsp;The term “cost of construction” includes architects’ fees and the cost of acquisition of land in connection with construction but does not include the cost of offsite improvements.
+&emsp;&emsp;The term “cost of construction” includes architects’ fees and the cost of acquisition ofland in connection with construction but does not include the cost of offsite improvements.
 
 #### (7) Repealed. Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(c)(1)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–415
 
@@ -310,7 +310,7 @@ For the purposes of this chapter:
 
 #### (B) Certain programs; limitations on major life activities
 
-&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability” means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who—
+&emsp;&emsp;Subject to subparagraphs (C), (D), (E), and (F), the term “individual with a disability”means, for purposes of sections 701, 711, and 712 of this title, and subchapters II, IV, V, and VII of this chapter, any person who—
 
 &emsp;&emsp;&emsp;(i) has a physical or mental impairment which substantially limits one or more of such person's major life activities;
 
@@ -380,7 +380,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;Except as provided in subparagraph (B) or (C), the term “individual with a significant disability” means an individual with a disability—
 
-&emsp;&emsp;&emsp;(i) who has a severe physical or mental impairment which seriously limits one or more functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
+&emsp;&emsp;&emsp;(i) who has a severe physical or mental impairment which seriously limits one ormore functional capacities (such as mobility, communication, self-care, self-direction, interpersonal skills, work tolerance, or work skills) in terms of an employment outcome;
 
 &emsp;&emsp;&emsp;(ii) whose vocational rehabilitation can be expected to require multiple vocational rehabilitation services over an extended period of time; and
 
@@ -516,7 +516,7 @@ For the purposes of this chapter:
 
 #### (37) Transition services
 
-&emsp;The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post school adult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
+&emsp;The term “transition services” means a coordinated set of activities for a student, designed within an outcome-oriented process, that promotes movement from school to post school activities, including postsecondary education, vocational training, integrated employment (including supported employment), continuing and adult education, adult services, independent living, or community participation. The coordinated set of activities shall be based upon the individual student's needs, taking into account the student's preferences and interests, and shall include instruction, community experiences, the development of employment and other post schooladult living objectives, and, when appropriate, acquisition of daily living skills and functional vocational evaluation.
 
 #### (38) Vocational rehabilitation services
 

@@ -54,7 +54,7 @@ $500&nbsp;&nbsp;
 
 &emsp;&emsp;2005
 
-$600&nbsp;&nbsp;
+$600  
 
 &emsp;&emsp;2006
 
@@ -224,7 +224,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) <sup>1</sup> for such individual, the spouse of such individual, and any dependent (as defined in section 152) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise.
+&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) <sup>1</sup> for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -308,7 +308,7 @@ For purposes of this section—
 
 #### (C) Exception for distributions after medicare eligibility
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date onwhich the account beneficiary attains the age specified in section 1811 of the Social Security Act.
+&emsp;&emsp;Subparagraph (A) shall not apply to any payment or distribution after the date on which the account beneficiary attains the age specified in section 1811 of the Social Security Act.
 
 #### (5) Rollover contribution
 
@@ -384,7 +384,11 @@ The Secretary may require—
 
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469.)
+(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634.)
+
+#### Adjustment of Limitation on Deductions for Calendar Year 2006
+
+<i>For adjustment of limitation on deductions for monthly contributions to health savings accounts for calendar year 2006 under subsection (b)(2)(A), (B) of this section, and for adjustment of dollar amounts for calendar year 2006 under subsection (c)(2)(A) of this section, see section 3.22 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -394,13 +398,17 @@ The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv
 
 A prior section 223 was renumbered section 224 of this title.
 
+#### Amendments
+
+2005—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Working Families Tax Relief Act of 2004, Pub. L. 108–311, to which such amendment relates, see section 404(d) of Pub. L. 109–135, set out as a note under section 21 of this title.
+
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note under section 62 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 106, 220, 848, 4973, 4975, 6051, 6693 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a second closing parenthesis.</i>
 

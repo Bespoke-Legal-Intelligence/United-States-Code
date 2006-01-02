@@ -20,10 +20,6 @@
 
 1969—Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498, added analysis of sections.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 4962, 7871 of this title.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 

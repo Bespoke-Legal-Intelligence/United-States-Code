@@ -41,7 +41,7 @@ TABLE 3 <sup>1</sup>
 
 #### (c) References to terms
 
-Any reference in this subpart to a “Moderate Area” or a “Serious Area” shall be considered a reference to a Moderate Area or a Serious Area, respectively, as classified under this section.
+Any reference in this subpart to a “Moderate Area” or a “Serious Area” shall be considered areference to a Moderate Area or a Serious Area, respectively, as classified under this section.
 
 (July 14, 1955, ch. 360, title I, §186, as added Pub. L. 101–549, title I, §104, Nov. 15, 1990, 104 Stat. 2452.)
 

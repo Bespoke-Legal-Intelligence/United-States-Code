@@ -54,7 +54,7 @@
 
 #### (c) Sharing of classified information and sensitive but unclassified information with State and local personnel
 
-(1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified or otherwise protected after the determinations prescribed under the procedures set forth in subsection (a) of this section.
+(1) The President shall prescribe procedures under which Federal agencies may, to the extent the President considers necessary, share with appropriate State and local personnel homeland security information that remains classified orotherwise protected after the determinations prescribed under the procedures set forth in subsection (a) of this section.
 
 (2) It is the sense of Congress that such procedures may include 1 or more of the following means:
 
@@ -104,7 +104,7 @@ As used in this section:
 
 &emsp;(2) The term “intelligence community” has the meaning given such term in section 401a(4) of title 50.
 
-&emsp;(3) The term “State and local personnel” means any of the following persons involved inprevention, preparation, or response for terrorist attack:
+&emsp;(3) The term “State and local personnel” means any of the following persons involved in prevention, preparation, or response for terrorist attack:
 
 &emsp;&emsp;(A) State Governors, mayors, and other locally elected officials.
 
@@ -136,7 +136,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 #### Ex. Ord. No. 13311. Homeland Security Information Sharing
 
-Ex. Ord. No. 13311, July 29, 2003, 68 F.R. 45149, provided:
+Ex. Ord. No. 13311, July 29, 2003, 68 F.R. 45149, as amended by Ex. Ord. No. 13388, §8(a), Oct. 25, 2005, 70 F.R. 62025, provided:
 
 By the authority vested in me by the Constitution and the laws of the United States, including sections 892 and 893 of the Homeland Security Act of 2002 (the “Act”) (6 U.S.C. 482 and 483) and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -146,15 +146,15 @@ Section 1. <i>Assignment of Functions</i>. (a) The functions of the President un
 
 (c) Procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act shall apply to all agencies of the Federal Government. Such procedures shall specify that the President may make, or may authorize another officer of the United States to make, exceptions to the procedures.
 
-(d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney General and the Director of Central Intelligence, to be exercised jointly.
+(d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney General and the Director of National Intelligence, to be exercised jointly.
 
-(e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Director of the Office of Management and Budget, the Director of Central Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
+(e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Director of the Office of Management and Budget, the Director of National Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
 
 (f) A determination, under the procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act, as to whether, or to what extent, an individual who falls within the category of “State and local personnel” as defined in sections 892(f)(3) and (f)(4) of the Act shall have access to information classified pursuant to Executive Order 12958 of April 17, 1995 \[50 U.S.C. 435 note\], as amended, is a discretionary determination and shall be conclusive and not subject to review or appeal.
 
 Sec. 2. <i>Rules of Construction</i>. Nothing in this order shall be construed to impair or otherwise affect:
 
-(a) the authority of the Director of Central Intelligence under section 103(c)(7) of the National Security Act of 1947, as amended (50 U.S.C. 403–3(c)(7)), to protect intelligence sources and methods from unauthorized disclosure;
+(a) the authority of the Director of National Intelligence under section 102A(i)(1) of the National Security Act of 1947, as amended (50 U.S.C. 403–3(c)(7) \[403–1(i)(1)\]), to protect intelligence sources and methods from unauthorized disclosure;
 
 (b) the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals; or
 

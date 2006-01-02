@@ -4,7 +4,7 @@
 
 There is established the Council on Graduate Medical Education (in this section referred to as the “Council”). The Council shall—
 
-&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this sectionreferred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
 
 &emsp;&emsp;(A) the supply and distribution of physicians in the United States;
 
@@ -138,11 +138,11 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Funding for Council on Graduate Medical Education
 
-Pub. L. 108–447, div. F, title II, §218, Dec. 8, 2004, 118 Stat. 3141, provided that: “Notwithstanding any other provisions of law, funds made available under this heading \[
-
-General Provisions\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
+Pub. L. 109–149, title II, §219, Dec. 30, 2005, 119 Stat. 2861, provided that: “Notwithstanding any other provisions of law, funds made available in this Act \[see Tables for classification\] may be used to continue operating the Council on Graduate Medical Education established by section 301 of Public Law 102–408 \[now section 762 of act July 1, 1944, which is classified to this section\].”
 
 Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–447, div. F, title II, §218, Dec. 8, 2004, 118 Stat. 3141.
 
 Pub. L. 108–199, div. E, title II, §219, Jan. 23, 2004, 118 Stat. 255.
 

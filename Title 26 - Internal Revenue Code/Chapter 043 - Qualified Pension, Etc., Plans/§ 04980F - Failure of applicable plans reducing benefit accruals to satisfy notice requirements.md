@@ -36,7 +36,7 @@ There is hereby imposed a tax on the failure of any applicable pension plan to m
 
 #### (B) Taxable years in the case of certain controlled groups
 
-&emsp;&emsp;For purposes of this paragraph, if all persons who are treated as a single employer for purposes of this section do not have the same taxable year, the taxable years taken into account shall be determined under principles similar to the principles of section 1561.
+&emsp;&emsp;For purposes of this paragraph, if all persons who are treated as a single employer forpurposes of this section do not have the same taxable year, the taxable years taken into account shall be determined under principles similar to the principles of section 1561.
 
 #### (4) Waiver by Secretary
 
@@ -132,7 +132,7 @@ Pub. L. 107–16, title VI, §659(c), June 7, 2001, 115 Stat. 141, as amended by
 
 “(1)
 
-In general.—The amendments made by this section \[enacting this section and amending section 1054 of Title 29, Labor\] shall apply to plan amendments taking effect on or after the date of the enactment of this Act \[June 7, 2001\].
+In general.—The amendments made by this section \[enacting this section and amending section 1054 of Title 29, Labor\] shall apply to plan amendments takingeffect on or after the date of the enactment of this Act \[June 7, 2001\].
 
 “(2)
 

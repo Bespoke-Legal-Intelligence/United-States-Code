@@ -34,7 +34,7 @@
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be three years, except that the Secretary of State shall remain a member of the Board during the Director's <sup>1</sup> term of service. Of the other 8 voting members, the initial terms of office of two members shall be one year, and the initial terms of office of 3 other members shall be two years, as determined by the President. The President shall appoint, by and with the advice and consent of the Senate, Board members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of suchterm. Any member whose term has expired may serve until a successor has been appointed and qualified. When there is no Secretary of State, the Acting Secretary of State shall serve as a member of the Board until a Director <sup>2</sup> is appointed.
+The term of office of each member of the Board shall be three years, except that the Secretary of State shall remain a member of the Board during the Director's <sup>1</sup> term of service. Of the other 8 voting members, the initial terms of office of two members shall be one year, and the initial terms of office of 3 other members shall be two years, as determined by the President. The President shall appoint, by and with the advice and consent of the Senate, Board members to fill vacancies occurring prior to the expiration of a term, in which case the members so appointed shall serve for the remainder of such term. Any member whose term has expired may serve until a successor has been appointed and qualified. When there is no Secretary of State, the Acting Secretary of State shall serve as a member of the Board until a Director <sup>2</sup> is appointed.
 
 #### (d) Selection of Board
 
@@ -62,7 +62,7 @@ The Inspector General Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 
 
 #### Amendments
 
-1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2) by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
+1999—Subsec. (b)(2). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(2)\], which directed amendment of par. (2)by inserting “, subject to the advice and consent of the Senate” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
 Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §502(1)\], substituted “appoint” for “designate”.
 

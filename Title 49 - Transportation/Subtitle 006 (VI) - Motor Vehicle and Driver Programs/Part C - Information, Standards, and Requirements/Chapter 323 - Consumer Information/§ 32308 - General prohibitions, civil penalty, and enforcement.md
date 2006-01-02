@@ -14,7 +14,7 @@ Civil Penalty.—(1) A person that violates subsection (a) of this section is li
 
 (2) The Secretary may compromise the amount of a civil penalty imposed under this section.
 
-(3) In determining the amount of a penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.
+(3) In determining the amount of a penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of theperson charged and the gravity of the violation shall be considered.
 
 (4) The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 

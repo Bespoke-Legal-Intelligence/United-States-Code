@@ -20,7 +20,7 @@
 
 #### (b) Subpoena power
 
-(1) The Inspector General of an executive agency appointed under section 3 or 8G <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract Audit Agency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
+(1) The Inspector General of an executive agency appointed under section 3 or 8G <sup>1</sup> of the Inspector General Act of 1978 (5 U.S.C. App.) or, upon request of the head of an executive agency, the Director of the Defense Contract AuditAgency (or any successor agency) of the Department of Defense or the Inspector General of the General Services Administration may require by subpoena the production of records of a contractor, access to which is provided for that executive agency by subsection (a) of this section.
 
 (2) Any such subpoena, in the case of contumacy or refusal to obey, shall be enforceable by order of an appropriate United States district court.
 
@@ -32,7 +32,7 @@
 
 (1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract.
 
-(2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or his designee, that theapplication of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required—
+(2) Paragraph (1) does not apply to a contract or subcontract with a foreign contractor or foreign subcontractor if the executive agency concerned determines, with the concurrence of the Comptroller General or his designee, that the application of that paragraph to the contract or subcontract would not be in the public interest. However, the concurrence of the Comptroller General or his designee is not required—
 
 &emsp;(A) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its records available for examination; and
 
@@ -100,7 +100,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date
 
-For effective date and applicability of section, including amendment by Pub. L. 103–355, see section 10001 ofPub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of section, including amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

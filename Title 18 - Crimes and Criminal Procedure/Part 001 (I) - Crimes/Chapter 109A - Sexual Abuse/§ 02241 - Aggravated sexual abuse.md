@@ -2,7 +2,7 @@
 
 (a)
 
-By Force or Threat.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly causes another person to engage in a sexual act—
+By Force or Threat.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General <sup>1</sup> knowingly causes another person to engage in a sexual act—
 
 &emsp;(1) by using force against that other person; or
 
@@ -12,11 +12,11 @@ By Force or Threat.—Whoever, in the special maritime and territorial jurisdict
 
 (b)
 
-By Other Means.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly—
+By Other Means.—Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General <sup>1</sup> knowingly—
 
 &emsp;(1) renders another person unconscious and thereby engages in a sexual act with that other person; or
 
-&emsp;(2) administers to another person by force or threat of force, or without the knowledge or permission of that person, a drug, intoxicant, or other similar substance and thereby—
+&emsp;(2) administers to another person by force or threat of force, or without the knowledge orpermission of that person, a drug, intoxicant, or other similar substance and thereby—
 
 &emsp;&emsp;(A) substantially impairs the ability of that other person to appraise or control conduct; and
 
@@ -26,19 +26,23 @@ By Other Means.—Whoever, in the special maritime and territorial jurisdiction 
 
 (c)
 
-With Children.—Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than the person so engaging), or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense that would have been an offense under either such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
+With Children.—Whoever crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General <sup>1</sup> knowingly engages in a sexual act with another person who has not attained the age of 12 years, or knowingly engages in a sexual act under the circumstances described in subsections (a) and (b) with another person who has attained the age of 12 years but has not attained the age of 16 years (and is at least 4 years younger than the person so engaging), or attempts to do so, shall be fined under this title, imprisoned for any term of years or life, or both. If the defendant has previously been convicted of another Federal offense under this subsection, or of a State offense that would have been an offense under either such provision had the offense occurred in a Federal prison, unless the death penalty is imposed, the defendant shall be sentenced to life in prison.
 
 (d)
 
 State of Mind Proof Requirement.—In a prosecution under subsection (c) of this section, the Government need not prove that the defendant knew that the other person engaging in the sexual act had not attained the age of 12 years.
 
-(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(a), Oct. 30, 1998, 112 Stat. 2978.)
+(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(a), Oct. 30, 1998, 112 Stat. 2978; Pub. L. 109–162, title XI, §1177(a)(1), (2), Jan. 5, 2006, 119 Stat. 3125.)
 
 #### Codification
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2241.
 
 #### Amendments
+
+2006—Subsecs. (a), (b). Pub. L. 109–162, §1177(a)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+
+Subsec. (c). Pub. L. 109–162, §1177(a)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in first sentence.
 
 1998—Subsec. (c). Pub. L. 105–314 substituted “younger than the person so engaging” for “younger than that person”.
 
@@ -57,4 +61,6 @@ Section 101(a) \[title I, §121\[7(a)\]\] of Pub. L. 104–208 provided that: �
 #### Short Title
 
 Section 87(a) of Pub. L. 99–646 and section 1 of Pub. L. 99–654 provided, respectively, that: “This section \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.” and “This Act \[enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title\] may be cited as the ‘Sexual Abuse Act of 1986’.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

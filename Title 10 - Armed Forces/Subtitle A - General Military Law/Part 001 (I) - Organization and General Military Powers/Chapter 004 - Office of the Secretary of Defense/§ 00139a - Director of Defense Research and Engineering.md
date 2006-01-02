@@ -58,7 +58,7 @@ Subsec. (a). Pub. L. 99–433, §105(1), substituted a new subsec. (a) for forme
 
 Pub. L. 99–348, §501(b)(1), substituted “is an Under Secretary of Defense for Policy and a Director of Defense Research and Engineering” for “are two Under Secretaries of Defense, one of whom shall be the Under Secretary of Defense for Policy and one of whom shall be the Under Secretary of Defense for Research and Engineering” and “They shall” for “The Under Secretaries of Defense shall”.
 
-Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically adding subsec. (b)and striking out former subsec. (b) which read as follows: “The Director of Defense Research and Engineering shall perform such duties relating to research and engineering as the Secretary of Defense may prescribe, including—
+Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically adding subsec. (b) and striking out former subsec. (b) which read as follows: “The Director of Defense Research and Engineering shall perform such duties relating to research and engineering as the Secretary of Defense may prescribe, including—
 
 &emsp;“(1) being the principal adviser to the Secretary on scientific and technical matters;
 
@@ -85,10 +85,6 @@ Subsec. (b). Pub. L. 95–140, §2(a)(2), substituted “The Under Secretary of 
 Subsec. (c). Pub. L. 95–140, §2(a)(3), substituted “Under Secretary of Defense for Policy” for “Director” and “Deputy Secretary” for “Deputy Secretaries” and inserted provision that the Under Secretary of Defense for Research and Engineering takes precedence in the Department of Defense immediately after the Under Secretary of Defense for Policy.
 
 1972—Subsec. (c). Pub. L. 92–596 substituted “Deputy Secretaries” for “Deputy Secretary”.
-
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Redesignation of Position of Under Secretary of Defense for Research and Engineering; Effect on Individual Holding Position
 

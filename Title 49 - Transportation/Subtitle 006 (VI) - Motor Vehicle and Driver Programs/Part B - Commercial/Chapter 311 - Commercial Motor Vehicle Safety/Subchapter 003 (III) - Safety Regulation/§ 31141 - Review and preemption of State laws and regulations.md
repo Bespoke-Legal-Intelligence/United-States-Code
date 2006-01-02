@@ -28,7 +28,7 @@ Regulations with same effect.—If the Secretary decides a State law or regulati
 
 &emsp;(3)
 
-Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed bythe Secretary under section 31136 of this title, the State law or regulation may not be enforced.
+Less stringent regulations.—If the Secretary decides a State law or regulation is less stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may not be enforced.
 
 &emsp;(4)
 
@@ -42,7 +42,7 @@ Additional or more stringent regulations.—If the Secretary decides a State law
 
 &emsp;(5)
 
-Consideration of effect on interstate commerce.—In deciding under paragraph (4) whether a State law or regulation will cause an unreasonable burden on interstate commerce, the Secretary may consider the effect on interstate commerce of implementation of that law or regulation with the implementation of all similar laws and regulations of other States.
+Consideration of effect on interstate commerce.—In deciding under paragraph (4) whether a State law or regulation will causean unreasonable burden on interstate commerce, the Secretary may consider the effect on interstate commerce of implementation of that law or regulation with the implementation of all similar laws and regulations of other States.
 
 (d)
 

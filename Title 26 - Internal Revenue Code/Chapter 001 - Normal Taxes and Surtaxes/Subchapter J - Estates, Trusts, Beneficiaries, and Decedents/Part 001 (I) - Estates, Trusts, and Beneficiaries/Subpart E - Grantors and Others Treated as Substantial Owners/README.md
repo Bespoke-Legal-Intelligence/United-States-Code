@@ -18,10 +18,6 @@ Subpart E—Grantors and Others Treated as Substantial Owners
 
 1976—Pub. L. 94–455, title X, §1013(e)(1), Oct. 4, 1976, 90 Stat. 1616, added item 679.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 402, 665, 685, 901, 1312, 1361, 1445, 2511, 6048, 6654 of this title.
-
 
 ---
 

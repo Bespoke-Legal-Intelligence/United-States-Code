@@ -16,7 +16,7 @@ An Americas Framework Agreement with an eligible country shall—
 
 &emsp;(4) when appropriate, seek to maintain the value of the local currency resources of the Americas Fund in terms of United States dollars;
 
-&emsp;(5) specify, in accordance with subsection (d) of this section, the purposes for which amounts in an Americas Fund may be used; and
+&emsp;(5) specify, in accordance with subsection (d) of this section, the purposes for whichamounts in an Americas Fund may be used; and
 
 &emsp;(6) contain reasonable provisions for the enforcement of the terms of the agreement.
 

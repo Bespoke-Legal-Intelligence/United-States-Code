@@ -42,7 +42,7 @@ Authority To Select Annuity Broker for Structured Settlements.—In any structur
 
 #### Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan
 
-Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
+Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, afterconsultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
 
 #### Report to Congress Regarding Provisions of Law Considered Unconstitutional by the Department of Justice; Declaration of Such Position
 
@@ -88,7 +88,7 @@ Section 1. <i>Guidelines to Promote Just and Efficient Government Civil Litigati
 
 (1) Litigation counsel shall evaluate filings made by opposing parties and, where appropriate, shall petition the court to impose sanctions against those responsible for abusive practices.
 
-(2) Prior to filing a motion for sanctions, litigation counsel shall submit the motion for review to the sanctions officer, or his or her designee, within the litigation counsel's agency. Such officer or designee shall be a senior supervising attorney within the agency, and shall be licensed to practice law before a State court, courts of the District of Columbia, or courts of any territory or Commonwealth of the United States. The sanctions officer or designee shall also review motions for sanctions that are filed against litigation counsel, the United States, its agencies, or its officers.
+(2) Prior to filing a motion for sanctions, litigation counsel shall submit the motion for review to the sanctions officer, or his or her designee, within the litigation counsel's agency. Such officer or designee shall be a senior supervising attorney within the agency, and shall be licensed to practice law before a State court, courts of the District of Columbia, or courts of any territory or Commonwealth of the United States. The sanctions officer or designee shall also review motionsfor sanctions that are filed against litigation counsel, the United States, its agencies, or its officers.
 
 (f) <i>Improved Use of Litigation Resources</i>. Litigation counsel shall employ efficient case management techniques and shall make reasonable efforts to expedite civil litigation in cases under that counsel's supervision and control. This includes but is not limited to:
 

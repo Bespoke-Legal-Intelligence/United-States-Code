@@ -22,7 +22,7 @@ For purposes of applying any exemption from, or reduction of, any tax provided b
 
 &emsp;&emsp;(A) such item is not treated for purposes of the taxation laws of such foreign country as an item of income of such person,
 
-&emsp;&emsp;(B) the treaty does not contain a provision addressing the applicability of the treaty in the case of an item of income derived through a partnership, and
+&emsp;&emsp;(B) the treaty does not contain a provision addressing the applicability of the treaty inthe case of an item of income derived through a partnership, and
 
 &emsp;&emsp;(C) the foreign country does not impose tax on a distribution of such item of income from such entity to such person.
 
@@ -51,8 +51,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date of 1966 Amendment
 
 Section 105(d) of Pub. L. 89–809 provided that: “The amendments made by this section (other than subsections (d) and (f)) \[amending this section and enacting section 896 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 269B, 643, 842 of this title.
 

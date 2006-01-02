@@ -24,7 +24,7 @@ For the purposes of this chapter:
 
 &emsp;(5) The term “Bureau” means the Bureau of Indian Affairs of the Department of the Interior.
 
-&emsp;(6) The term “farmland” means Indian land excluding Indian forest land that is used for production of food, feed, fiber, forage and seedoil crops, or other agricultural products, and may be either dryland, irrigated, or irrigated pasture.
+&emsp;(6) The term “farmland” means Indian land excluding Indian forest land that is used for production of food, feed, fiber, forage and seed oil crops, or other agricultural products, and may be either dryland, irrigated, or irrigated pasture.
 
 &emsp;(7) The term “Indian forest land” means forest land as defined in section 3103(3) of this title.
 

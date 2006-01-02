@@ -1,4 +1,4 @@
-### §1395w–29.Comparative cost adjustment (CCA) program
+### §1395w–29. Comparative cost adjustment (CCA) program
 
 #### (a) Establishment of program
 
@@ -104,7 +104,7 @@
 
 #### (B) Continuation
 
-&emsp;&emsp;If an MA local area meets the requirement of subparagraph (A) and is included in a CCA area for 2010, such local area shall continue to be included in such CCA area for a subsequent year notwithstanding that it no longer meets such requirement so long as there is at least one MA local plan described in section 1395w–21(a)(2)(A)(i) of this title that is offered in such local area.
+&emsp;&emsp;If an MA local area meets the requirement of subparagraph (A) and is included in a CCA area for 2010, such local area shall continue to be included in such CCA area for a subsequent year notwithstanding that it nolonger meets such requirement so long as there is at least one MA local plan described in section 1395w–21(a)(2)(A)(i) of this title that is offered in such local area.
 
 #### (3) Phase-in of CCA benchmark
 
@@ -124,7 +124,7 @@
 
 #### (1) CCA non-drug monthly benchmark amount
 
-&emsp;For purposes of this section, the term “CCA non-drug monthly benchmark amount”means, with respect to a CCA area for a month in a year, the sum of the 2 components described in paragraph (2) for the area and year. The Secretary shall compute such benchmark amount for each such CCA area before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2010) in which the CCA area is so selected.
+&emsp;For purposes of this section, the term “CCA non-drug monthly benchmark amount” means, with respect to a CCA area for a month in a year, the sum of the 2 components described in paragraph (2) for the area and year. The Secretary shall compute such benchmark amount for each such CCA area before the beginning of each annual, coordinated election period under section 1395w–21(e)(3)(B) of this title for each year (beginning with 2010) in which the CCA area is so selected.
 
 #### (2) 2 components
 
@@ -202,7 +202,7 @@
 
 #### (B) Use of full risk adjustment to standardize fee-for-service costs to typical beneficiary
 
-&emsp;&emsp;In determining the adjusted average per capita cost for an area and year under subparagraph (A), such costs shall be adjustedto fully take into account the demographic and health status risk factors established under section 1395w–23(a)(1)(A)(iv) of this title <sup>1</sup> so that such per capita costs reflect the average costs for a typical beneficiary residing in the CCA area.
+&emsp;&emsp;In determining the adjusted average per capita cost for an area and year under subparagraph (A), such costs shall be adjusted to fully take into account the demographic and health status risk factors established under section 1395w–23(a)(1)(A)(iv) of this title <sup>1</sup> so that such per capita costs reflect the average costs for a typical beneficiary residing in the CCA area.
 
 #### (C) Inclusion of costs of VA and DOD military facility services to medicare-eligible beneficiaries
 

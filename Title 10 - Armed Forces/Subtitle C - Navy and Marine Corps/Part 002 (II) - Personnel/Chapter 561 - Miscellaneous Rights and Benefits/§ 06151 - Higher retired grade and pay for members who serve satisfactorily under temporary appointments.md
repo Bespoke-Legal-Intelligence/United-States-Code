@@ -22,7 +22,7 @@
 
 (e) Retired pay computed under subsection (b) or (c), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 385; Pub. L. 85–422, §11(a)(6)(A), May 20, 1958, 72 Stat. 131; Pub. L. 85–861, §1(138), (139)(A), Sept. 2, 1958, 72 Stat. 1507, 1508; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(13), Sept. 8, 1980, 94 Stat. 1108; Pub. L. 96–512, title V, §§503(45), 513(17), Dec. 12, 1980, 94 Stat. 2914, 2932; Pub. L. 98–94, title IX, §§922(a)(9), 923(c)(1), Sept. 24, 1983, 97 Stat. 641, 643; Pub. L. 99–348, title II, §203(c), July 1, 1986, 100 Stat. 696; Pub. L. 104–201, div. A, title V, §521(d), Sept. 23, 1996, 110 Stat. 2517.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 385; Pub. L. 85–422, §11(a)(6)(A), May 20, 1958, 72 Stat. 131; Pub. L. 85–861, §1(138), (139)(A), Sept. 2, 1958, 72 Stat. 1507, 1508; Pub. L. 88–132, §5(h)(4), Oct. 2, 1963, 77 Stat. 214; Pub. L. 96–342, title VIII, §813(d)(13), Sept. 8, 1980, 94 Stat. 1108; Pub. L. 96–512, title V, §§503(45), 513(17), Dec. 12, 1980, 94 Stat. 2914, 2932; Pub. L. 98–94, title IX, §§922(a)(9), 923(c)(1), Sept. 24, 1983, 97 Stat. 641, 643; Pub. L. 99–348, title II, §203(c), July 1, 1986,100 Stat. 696; Pub. L. 104–201, div. A, title V, §521(d), Sept. 23, 1996, 110 Stat. 2517.)
 
 Historical and Revision Notes<br>1956
 
@@ -149,8 +149,4 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1406 of this title.
 

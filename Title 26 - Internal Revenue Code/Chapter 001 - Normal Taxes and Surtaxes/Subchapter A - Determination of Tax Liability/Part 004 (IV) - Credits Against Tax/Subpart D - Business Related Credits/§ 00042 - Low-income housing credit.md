@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (III) Substantial improvement
 
-&emsp;&emsp;&emsp;&emsp;The term “substantial improvement” means the improvements added to capital account with respect to the building during any 24-month period, but only ifthe sum of the amounts added to such account during such period equals or exceeds 25 percent of the adjusted basis of the building (determined without regard to paragraphs (2) and (3) of section 1016(a)) as of the 1st day of such period.
+&emsp;&emsp;&emsp;&emsp;The term “substantial improvement” means the improvements added to capital account with respect to the building during any 24-month period, but only if the sum of the amounts added to such account during such period equals or exceeds 25 percent of the adjusted basis of the building (determined without regard to paragraphs (2) and (3) of section 1016(a)) as of the 1st day of such period.
 
 #### (ii) Special rules for certain transfers
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (I) Application of section 179
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subparagraph (B)(i), section 179(d) shall be applied by substituting “10 percent” for “50 percent” in section <sup>2</sup> 267(b) and 707(b) and in section 179(b)(7).
+&emsp;&emsp;&emsp;&emsp;For purposes of subparagraph (B)(i), section 179(d) shall be applied by substituting “10 percent” for “50 percent” in section <sup>2</sup> 267(b) and 707(b) and in section 179(d)(7).
 
 #### (II) Related person
 
@@ -244,11 +244,11 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The adjusted basis of any building located in a qualified census tract (as defined in paragraph (5)(C)) shall be determined by taking into account the adjustedbasis of property (of a character subject to the allowance for depreciation and not otherwise taken into account) used throughout the taxable year in providing any community service facility.
+&emsp;&emsp;&emsp;The adjusted basis of any building located in a qualified census tract (as defined in paragraph (5)(C)) shall be determined by taking into account the adjusted basis of property (of a character subject to the allowance for depreciation and not otherwise taken into account) used throughout the taxable year in providing any community service facility.
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The increase in the adjusted basis of any building which is taken into account by reason of clause (i) shall not exceed 10 percent of the eligible basis of the qualified low-income housing project of which it is a part. For purposes of the preceding sentence, all community service facilities which are part of the same qualified low-income housing project shall be treated as one facility.
+&emsp;&emsp;&emsp;The increase in the adjusted basis of any building which is taken into account by reason of clause (i) shall not exceed 10 percent of the eligible basis of the qualifiedlow-income housing project of which it is a part. For purposes of the preceding sentence, all community service facilities which are part of the same qualified low-income housing project shall be treated as one facility.
 
 #### (iii) Community service facility
 
@@ -406,7 +406,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amount of such expenditures during any 24-month period meets the requirements of whichever of the following subclauses requires the greater amount of such expenditures:
 
-&emsp;&emsp;&emsp;&emsp;(I) The requirement of this subclause is met if such amount is not less than 10 percent of the adjusted basis of the building (determined as of the 1st day of such period and without regard to paragraphs (2) and (3) of section 1016(a)).
+&emsp;&emsp;&emsp;&emsp;(I) The requirement of this subclause is met if such amount is not less than 10percent of the adjusted basis of the building (determined as of the 1st day of such period and without regard to paragraphs (2) and (3) of section 1016(a)).
 
 &emsp;&emsp;&emsp;&emsp;(II) The requirement of this subclause is met if the qualified basis attributable to such amount, when divided by the number of low-income units in the building, is $3,000 or more.
 
@@ -486,7 +486,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The credit period for an existing building shall not begin before the 1st taxable year ofthe credit period for rehabilitation expenditures with respect to the building.
+&emsp;&emsp;The credit period for an existing building shall not begin before the 1st taxable year of the credit period for rehabilitation expenditures with respect to the building.
 
 #### (B) Acquisition credit allowed for certain buildings not allowed a rehabilitation credit
 
@@ -628,7 +628,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the purchase of the unit is not permitted until after the close of the compliance period with respect to the building in which the unit is located.
 
-> &emsp;Any amount paid to the lessor as described in the preceding sentence shall be included in gross rent under paragraph (2) for purposes of determining whether the unit is rent- restricted.
+> &emsp;Any amount paid to the lessor as described in the preceding sentence shall be included in gross rent under paragraph (2) for purposes of determining whether the unit is rent-restricted.
 
 #### (7) Scattered site projects
 
@@ -1120,7 +1120,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) entirely by full-time students if such students are—
 
-&emsp;&emsp;&emsp;&emsp;(I) single parents and their children and such parents and children are not dependents (as defined in section 152) of another individual, or
+&emsp;&emsp;&emsp;&emsp;(I) single parents and their children and such parents and children are not dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of another individual, or
 
 &emsp;&emsp;&emsp;&emsp;(II) married and file a joint return.
 
@@ -1172,7 +1172,7 @@ For purposes of this section—
 
 &emsp;If—
 
-&emsp;&emsp;(A) as of the close of any taxable year in the compliance period, the amount of thequalified basis of any building with respect to the taxpayer is less than
+&emsp;&emsp;(A) as of the close of any taxable year in the compliance period, the amount of the qualified basis of any building with respect to the taxpayer is less than
 
 &emsp;&emsp;(B) the amount of such basis as of the close of the preceding taxable year,
 
@@ -1256,7 +1256,7 @@ For purposes of this section—
 
 #### (6) No recapture on disposition of building (or interest therein) where bond posted
 
-&emsp;In the case of a disposition of a building or an interest therein, the taxpayer shall be discharged from liability for any additional taxunder this subsection by reason of such disposition if—
+&emsp;In the case of a disposition of a building or an interest therein, the taxpayer shall be discharged from liability for any additional tax under this subsection by reason of such disposition if—
 
 &emsp;&emsp;(A) the taxpayer furnishes to the Secretary a bond in an amount satifactory <sup>5</sup> to the Secretary and for the period required by the Secretary, and
 
@@ -1484,11 +1484,11 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(<i>l</i>)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191.)
 
-#### Low-Income Housing Credit Adjustment for Calendar Year 2004
+#### Low-Income Housing Credit Adjustment for Calendar Year 2006
 
-<i>For inflation adjustment of amounts in subsection (h)(3)(C)(ii) of this section used to calculate the State housing credit ceiling for low-income housing credit for calendar year 2004, see section 3.07 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For inflation adjustment of amounts in subsection (h)(3)(C)(ii) of this section used to calculate the State housing credit ceiling for low-income housing credit for calendar year 2006, see section 3.07 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -1534,6 +1534,10 @@ Another prior section 42 was renumbered section 36 of this title.
 
 #### Amendments
 
+2004—Subsec. (d)(2)(D)(iii)(I). Pub. L. 108–311, §408(a)(3), substituted “section 179(d)(7)” for “section 179(b)(7)”.
+
+Subsec. (i)(3)(D)(ii)(I). Pub. L. 108–311, §207(8), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
 2002—Subsec. (h)(3)(C). Pub. L. 107–147, §417(2), substituted “the amounts described in clauses (ii) through (iv) over the aggregate housing credit dollar amount allocated for such year” for “the amounts described in clauses (ii) and (iii) over the aggregate housing credit dollar amount allocated for such year” in concluding provisions.
 
 Subsec. (m)(1)(B)(ii)(II), (III). Pub. L. 107–147, §417(3), struck out second “and” at end of subcl. (II) and inserted “and” at end of subcl. (III).
@@ -1544,7 +1548,7 @@ Subsec. (d)(4)(A). Pub. L. 106–554, §1(a)(7) \[title I, §134(a)(1)\], substi
 
 Subsec. (d)(4)(C), (D). Pub. L. 106–554, §1(a)(7) \[title I, §134(a)(2), (3)\], added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (d)(5)(C)(ii)(I). Pub. L. 106–554, §1(a)(7) \[title I, §135(b)\], in first sentence, inserted “either” before “inwhich 50 percent” and “or which has a poverty rate of at least 25 percent” before period at end.
+Subsec. (d)(5)(C)(ii)(I). Pub. L. 106–554, §1(a)(7) \[title I, §135(b)\], in first sentence, inserted “either” before “in which 50 percent” and “or which has a poverty rate of at least 25 percent” before period at end.
 
 Subsec. (h)(1)(E)(ii). Pub. L. 106–554, §1(a)(7) \[title I, §135(a)(1)\], in first sentence, substituted “(as of the later of the date which is 6 months after the date that the allocation was made or the close of the calendar year in which the allocation” for “(as of the close of the calendar year in which the allocation”.
 
@@ -1630,11 +1634,11 @@ Subsec. (d)(2)(D)(ii)(V). Pub. L. 101–508, §11407(b)(8), added subcl. (V).
 
 Subsec. (d)(5)(B). Pub. L. 101–508, §11812(b)(3), which directed the insertion of “(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” after “section 167(k)”, was executed to the text, and not the heading, of subpar. (B). See 1996 Amendment note above.
 
-Subsec. (d)(5)(C)(ii)(I). Pub. L. 101–508, §11407(b)(4), inserted at end “If the Secretary of Housing and Urban Development determines that sufficient data for any period are not available to apply this clause on the basis of census tracts, such Secretary shall apply this clause for such period on the basis of enumeration districts.”
+Subsec. (d)(5)(C)(ii)(I). Pub. L. 101–508, §11407(b)(4), inserted at end “If the Secretary of Housing and Urban Development determines that sufficient data for any period are not available to apply this clause on the basis of census tracts, such Secretary shall apply thisclause for such period on the basis of enumeration districts.”
 
 Pub. L. 101–508, §11701(a)(2)(B), inserted before period at end “for such year”.
 
-Pub. L. 101–508, §11701(a)(2)(A), which directed the insertion of “which is designated by the Secretary ofHousing and Urban Development and, for the most recent year for which census data are available on household income in such tract,” after “census tract”, was executed by making the insertion after “any census tract” to reflect the probable intent of Congress.
+Pub. L. 101–508, §11701(a)(2)(A), which directed the insertion of “which is designated by the Secretary of Housing and Urban Development and, for the most recent year for which census data are available on household income in such tract,” after “census tract”, was executed by making the insertion after “any census tract” to reflect the probable intent of Congress.
 
 Subsec. (g)(2)(B)(iv). Pub. L. 101–508, §11407(b)(3), added cl. (iv).
 
@@ -1710,7 +1714,7 @@ Subsec. (d)(2)(A). Pub. L. 101–239, §7108(<i>l</i>)(2), substituted “subpar
 
 &emsp;“(I) the portion of its adjusted basis attributable to its acquisition cost, plus
 
-&emsp;“(II) amounts chargeable to capital account and incurred by the taxpayer (before the close of the 1st taxable year of the credit period for such building) for property (or additions or improvements to property) of a character subject to the allowance for depreciation, and”.
+&emsp;“(II) amounts chargeable to capital account and incurred by the taxpayer (before the close of the 1sttaxable year of the credit period for such building) for property (or additions or improvements to property) of a character subject to the allowance for depreciation, and”.
 
 Subsec. (d)(2)(B)(iv). Pub. L. 101–239, §7108(d)(1), added cl. (iv).
 
@@ -1806,7 +1810,7 @@ Subsec. (m)(4). Pub. L. 101–239, §7831(c)(5), added par. (4).
 
 Subsec. (n). Pub. L. 101–239, §7108(<i>o</i>), redesignated subsec. (m) as (n). Former subsec. (n) redesignated (<i>o</i>).
 
-Pub. L. 101–239, §7108(a)(1), amended subsec. (n) generally. Prior to amendment, subsec. (n) read as follows:“The State housing credit ceiling under subsection (h) shall be zero for any calendar year after 1989 and subsection (h)(4) shall not apply to any building placed in service after 1989.”
+Pub. L. 101–239, §7108(a)(1), amended subsec. (n) generally. Prior to amendment, subsec. (n) read as follows: “The State housing credit ceiling under subsection (h) shall be zero for any calendar year after 1989 and subsection (h)(4) shall not apply to any building placed in service after 1989.”
 
 Subsec. (<i>o</i>). Pub. L. 101–239, §7108(<i>o</i>), redesignated subsec. (n) as (<i>o</i>).
 
@@ -1922,6 +1926,10 @@ Subsec. (n)(1). Pub. L. 100–647, §1002(<i>l</i>)(25), inserted “, and, exc
 
 1986—Subsec. (k)(1). Pub. L. 99–509 substituted “subparagraphs (D)(ii)(II) and (D)(iv)(I)” for “subparagraph (D)(iv)(I)”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 207(8) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(7) \[title I, subtitle D, §131(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–611, provided that: “The amendments made by this section \[amending this section\] shall apply to calendar years after 2000.”
@@ -2010,7 +2018,7 @@ Exception.—The amendments made by this section shall not apply to any property
 
 Exception for previously grandfather expenditures.—The amendments made by this section shall not apply to rehabilitation expenditures described in section 252(f)(5) of the Tax Reform Act of 1986 \[Pub. L. 99–514\] (as added by section 1002(<i>l</i>)(31) of the Technical and Miscellaneous Revenue Act of 1988 \[see Transitional Rules note below\]).”
 
-Amendment by section 11813(b)(3) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(3) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -2100,7 +2108,7 @@ Special rule for rehabilitation expenditures.—Subsection (e) of section 42 of 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by sections 11812(b)(3) and 11813(b)(3) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by sections 11812(b)(3) and 11813(b)(3) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Election To Determine Rent Limitation Based on Number of Bedrooms and Deep Rent Skewing
 
@@ -2305,10 +2313,6 @@ Transitional rule.—In the case of any rehabilitation expenditures incurred wit
 &emsp;“(B) paragraph (1) of section 167(k) of the Internal Revenue Code of 1986, shall be applied as if it did not contain the phrase ‘and before January 1, 1987’.
 
 > The number of units to which the preceding sentence applies shall not exceed 150.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 39, 45D, 55, 469, 772, 774, 1400I of this title; title 12 section 1715z–22; title 15 sections 632, 657d; title 42 sections 1437, 1437f, 1437z–7, 1485, 1490p–2, 12745.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

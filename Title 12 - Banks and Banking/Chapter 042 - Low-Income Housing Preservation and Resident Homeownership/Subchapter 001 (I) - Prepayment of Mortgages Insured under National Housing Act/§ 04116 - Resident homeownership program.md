@@ -24,7 +24,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (2) Approval of method of conversion and limitation on conditions of approval
 
-&emsp;The Secretary shall approve the method for converting the housing to homeownership, which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
+&emsp;The Secretary shall approve the method for converting the housing to homeownership,which may involve acquisition of ownership interests in, or shares representing, the units in a project under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership). The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing.
 
 #### (3) Required conditions
 

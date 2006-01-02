@@ -124,7 +124,7 @@ Sense of congress.—It is the sense of Congress that—
 
 &emsp;&emsp;(A) employees of the Department are entitled to fair treatment in any appeals that they bring in decisions relating to their employment; and
 
-&emsp;&emsp;(B) in prescribing regulations for any such appeals procedures, the Secretary and the Director of the Office of Personnel Management—
+&emsp;&emsp;(B) in prescribing regulations for any such appeals procedures, the Secretary and theDirector of the Office of Personnel Management—
 
 &emsp;&emsp;&emsp;(i) should ensure that employees of the Department are afforded the protections of due process; and
 

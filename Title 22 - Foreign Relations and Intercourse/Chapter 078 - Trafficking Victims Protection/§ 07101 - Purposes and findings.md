@@ -40,9 +40,9 @@ Congress finds that:
 
 &emsp;(16) In some countries, enforcement against traffickers is also hindered by official indifference, by corruption, and sometimes even by official participation in trafficking.
 
-&emsp;(17) Existing laws often fail to protect victims of trafficking, and because victims are often illegal immigrants in the destination country, they are repeatedly punished more harshly than the traffickers themselves.
+&emsp;(17) Existing laws often fail to protect victims of trafficking, and because victims areoften illegal immigrants in the destination country, they are repeatedly punished more harshly than the traffickers themselves.
 
-&emsp;(18) Additionally, adequate services and facilities do not exist to meet victims’ needs regarding health care, housing, education, andlegal assistance, which safely reintegrate trafficking victims into their home countries.
+&emsp;(18) Additionally, adequate services and facilities do not exist to meet victims’ needs regarding health care, housing, education, and legal assistance, which safely reintegrate trafficking victims into their home countries.
 
 &emsp;(19) Victims of severe forms of trafficking should not be inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts committed as a direct result of being trafficked, such as using false documents, entering the country without documentation, or working without documentation.
 
@@ -62,6 +62,10 @@ Congress finds that:
 
 This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–164, §1(a), Jan. 10, 2006, 119 Stat. 3558, provided that: “This Act \[enacting sections 7111 and 7112 of this title, sections 2428, 3271, and 3272 of Title 18, Crimes and Criminal Procedure, and sections 14044 to 14044e of Title 42, The Public Health and Welfare, amending sections 4028, 7103 to 7107, 7109a, and 7110 of this title and sections 1956 and 1961 of Title 18, and enacting provisions set out as notes under this section and sections 7105 and 7106 of this title\] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2005’.”
+
 #### Short Title of 2003 Amendment
 
 Pub. L. 108–193, §1, Dec. 19, 2003, 117 Stat. 2875, provided that: “This Act \[enacting section 7109a of this title and section 1595 of Title 18, Crimes and Criminal Procedure, amending sections 2152d, 7102 to 7107, and 7110 of this title, sections 1101, 1182, 1184, and 1255 of Title 8, Aliens and Nationality, and sections 1591 and 1961 of Title 18, enacting provisions set out as notes under this section and section 7103 of this title, and repealing provisions set out as a note under section 7103 of this title\] may be cited as the ‘Trafficking Victims Protection Reauthorization Act of 2003’.”
@@ -74,6 +78,30 @@ Pub. L. 106–386, div. A, §101, Oct. 28, 2000, 114 Stat. 1466, provided that: 
 
 #### Congressional Findings
 
+Pub. L. 109–164, §2, Jan. 10, 2006, 119 Stat. 3558, provided that: “Congress finds the following:
+
+&emsp;“(1) The United States has demonstrated international leadership in combating human trafficking and slavery through the enactment of the Trafficking Victims Protection Act of 2000 (division A of Public Law 106–386; 22 U.S.C. 7101 et seq.) and the Trafficking Victims Protection Reauthorization Act of 2003 (Public Law 108–193) \[see Short Title of 2003 Amendment note above\].
+
+&emsp;“(2) The United States Government currently estimates that 600,000 to 800,000 individuals are trafficked across international borders each year and exploited through forced labor and commercial sex exploitation. An estimated 80 percent of such individuals are women and girls.
+
+&emsp;“(3) Since the enactment of the Trafficking Victims Protection Act of 2000 \[Oct. 28, 2000\], United States efforts to combat trafficking in persons have focused primarily on the international trafficking in persons, including the trafficking of foreign citizens into the United States.
+
+&emsp;“(4) Trafficking in persons also occurs within the borders of a country, including the United States.
+
+&emsp;“(5) No known studies exist that quantify the problem of trafficking in children for the purpose of commercial sexual exploitation in the United States. According to a report issued by researchers at the University of Pennsylvania in 2001, as many as 300,000 children in the United States are at risk for commercial sexual exploitation, including trafficking, at any given time.
+
+&emsp;“(6) Runaway and homeless children in the United States are highly susceptible to being domestically trafficked for commercial sexual exploitation. According to the National Runaway Switchboard, every day in the United States, between 1,300,000 and 2,800,000 runaway and homeless youth live on the streets. One out of every seven children will run away from home before the age of 18.
+
+&emsp;“(7) Following armed conflicts and during humanitarian emergencies, indigenous populations face increased security challenges and vulnerabilities which result in myriad forms of violence, including trafficking for sexual and labor exploitation. Foreign policy and foreign aid professionals increasingly recognize the increased activity of human traffickers in post-conflict settings and during humanitarian emergencies.
+
+&emsp;“(8) There is a need to protect populations in post-conflict settings and humanitarian emergencies from being trafficked for sexual or labor exploitation. The efforts of aid agencies to address the protection needs of, among others, internally displaced persons and refugees are useful in this regard. Nonetheless, there is a need for further integrated programs and strategies at the United States Agency for International Development, the Department of State, and the Department of Defense to combat human trafficking, including through protection and prevention methodologies, in post-conflict environments and during humanitarian emergencies.
+
+&emsp;“(9) International and human rights organizations have documented a correlation between international deployments of military and civilian peacekeepers and aid workers and a resulting increase in the number of women and girls trafficked into prostitution in post-conflict regions.
+
+&emsp;“(10) The involvement of employees and contractors of the United States Government and members of the Armed Forces in trafficking in persons, facilitating the trafficking in persons, or exploiting the victims of trafficking in persons is inconsistent with United States laws and policies and undermines the credibility and mission of United States Government programs in post-conflict regions.
+
+&emsp;“(11) Further measures are needed to ensure that United States Government personnel and contractors are held accountable for involvement with acts of trafficking in persons, including by expanding United States criminal jurisdiction to all United States Government contractors abroad.”
+
 Pub. L. 108–193, §2, Dec. 19, 2003, 117 Stat. 2875, provided that: “Congress finds the following:
 
 &emsp;“(1) Trafficking in persons continues to victimize countless men, women, and children in the United States and abroad.
@@ -82,7 +110,7 @@ Pub. L. 108–193, §2, Dec. 19, 2003, 117 Stat. 2875, provided that: “Congres
 
 &emsp;“(3) On the other hand, victims of trafficking have faced unintended obstacles in the process of securing needed assistance, including admission to the United States under section 101(a)(15)(T)(i) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T)(i)\].
 
-&emsp;“(4) Additional research is needed to fully understand the phenomenon of trafficking in persons andto determine the most effective strategies for combating trafficking in persons.
+&emsp;“(4) Additional research is needed to fully understand the phenomenon of trafficking in persons and to determine the most effective strategies for combating trafficking in persons.
 
 &emsp;“(5) Corruption among foreign law enforcement authorities continues to undermine the efforts by governments to investigate, prosecute, and convict traffickers.
 

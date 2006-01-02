@@ -2438,6 +2438,13 @@ I74subpart 1—accountability
 | (e) | Report. |
 | (f) | Payments subject to appropriation. |
 | (g) | Local educational agency defined. |
+| [7703b.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007703b%20-%20Assistance%20to%20local%20educational%20agencies%20that%20benefit%20dependents%20of%20members%20of%20the%20Armed%20Forces%20and%20Department%20of%20Defense%20civilian%E2%80%A6.md) | Assistance to local educational agencies that benefit dependents of members of the Armed Forces and Department of Defense civilian employees. |
+| (a) | Assistance to schools with significant numbers of military dependent students. |
+| (b) | Assistance to schools with enrollment changes due to base closures, force structure changes, or force relocations. |
+| (c) | Notification. |
+| (d) | Disbursement of funds. |
+| (e) | Funding for fiscal year 2006. |
+| (f) | Definitions. |
 | [7704\.](Subchapter%20008%20%28VIII%29%20-%20Impact%20Aid/%C2%A7%2007704%20-%20Policies%20and%20procedures%20relating%20to%20children%20residing%20on%20Indian%20lands.md) | Policies and procedures relating to children residing on Indian lands. |
 | (a) | In general. |
 | (b) | Records. |

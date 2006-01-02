@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (4) Purchase
 
-&emsp;The taxpayer shall be considered to have purchased any permitted property if, but forsubsection (c), the unadjusted basis of such property would be its cost within the meaning of section 1012.
+&emsp;The taxpayer shall be considered to have purchased any permitted property if, but for subsection (c), the unadjusted basis of such property would be its cost within the meaning of section 1012.
 
 #### (5) Special rule for trusts
 
@@ -79,8 +79,4 @@ Section 6(a)(2) of Pub. L. 101–280 provided that:
 &emsp;“(i) the sale was made in order to comply with an ethics agreement or pursuant to specific direction from the appropriate agency or confirming committee, and
 
 &emsp;“(ii) the justification for the sale meets the criteria set forth in subsection (b)(2)(A) thereof as implemented by the interim regulations implementing such section 1043, published on April 18, 1990.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1016, 1223 of this title; title 5 section 3704.
 

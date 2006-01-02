@@ -42,31 +42,25 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 &emsp;In the case of the amounts described in subsection (a), there shall be disallowed the amount by which the deductions specified therein exceed the value, at the time of the decedent's death, of property subject to claims, except to the extent that such deductions represent amounts paid before the date prescribed for the filing of the estate tax return. For purposes of this section, the term “property subject to claims” means property includible in the gross estate of the decedent which, or the avails of which, would under the applicable law, bear the burden of the payment of such deductions in the final adjustment and settlement of the estate, except that the value of the property shall be reduced by the amount of the deduction under section 2054 attributable to such property.
 
-#### (d) Certain State and foreign death taxes
+#### (d) Certain foreign death taxes
 
-#### (1) General rule
+#### (1) In general
 
-&emsp;Notwithstanding the provisions of subsection (c)(1)(B) of this section, for purposes of the tax imposed by section 2001 the value of the taxable estate may be determined, if the executor so elects before the expiration of the period of limitation for assessment provided in section 6501, by deducting from the value of the gross estate the amount (as determined in accordance with regulations prescribed by the Secretary) of—
-
-&emsp;&emsp;(A) Any estate, succession, legacy, or inheritance tax imposed by a State or the District of Columbia upon a transfer by the decedent for public, charitable, or religious uses described in section 2055 or 2106(a)(2), and
-
-&emsp;&emsp;(B) any estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country, in respect of any property situated within such foreign country and included in the gross estate of a citizen or resident of the United States, upon a transfer by the decedent for public, charitable, or religious uses described in section 2055.
-
-> &emsp;The determination under subparagraph (B) of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States. Any election under this paragraph shall be exercised in accordance with regulations prescribed by the Secretary.
+&emsp;Notwithstanding the provisions of subsection (c)(1)(B), for purposes of the tax imposed by section 2001, the value of the taxable estate may be determined, if the executor so elects before the expiration of the period of limitation for assessment provided in section 6501, by deducting from the value of the gross estate the amount (as determined in accordance with regulations prescribed by the Secretary) of any estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country, in respect of any property situated within such foreign country and included in the gross estate of a citizen or resident of the United States, upon a transfer by the decedent for public, charitable, or religious uses described in section 2055. The determination under this paragraph of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States. Any election under this paragraph shall be exercised in accordance with regulations prescribed by the Secretary.
 
 #### (2) Condition for allowance of deduction
 
-&emsp;No deduction shall be allowed under paragraph (1) for a State death tax or a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
+&emsp;No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.
 
-#### (3) Effect on credits for State and foreign death taxes of deduction under this subsection
+#### (3) Effect on credit for foreign death taxes of deduction under this subsection
 
 #### (A) Election
 
 &emsp;&emsp;An election under this subsection shall be deemed a waiver of the right to claim a credit, against the Federal estate tax, under a death tax convention with any foreign country for any tax or portion thereof in respect of which a deduction is taken under this subsection.
 
-#### (B) Cross references
+#### (B) Cross reference
 
-&emsp;&emsp;<b>See section 2011(d) for the effect of a deduction taken under this subsection on the credit for State death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
+&emsp;&emsp;<b>See section 2014(f) for the effect of a deduction taken under this paragraph on the credit for foreign death taxes.</b>
 
 #### (e) Marital rights
 
@@ -74,37 +68,17 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I, §102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12) (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948; Pub. L. 107–16, title V, §532(c)(5), June 7, 2001, 115 Stat. 74; Pub. L. 107–134, title I, §103(b)(2), Jan. 23, 2002, 115 Stat. 2431.)
 
-#### Amendment of Subsection (d)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §532(c)(5), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 901, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (d) of this section is temporarily amended to read as follows:</i>
-
-#### <i>(d) Certain foreign death taxes</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Notwithstanding the provisions of subsection (c)(1)(B), for purposes of the tax imposed by section 2001, the value of the taxable estate may be determined, if the executor so elects before the expiration of the period of limitation for assessment provided in section 6501, by deducting from the value of the gross estate the amount (as determined in accordance with regulations prescribed by the Secretary) of any estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country, in respect of any property situated within such foreign country and included in the gross estate of a citizen or resident of the United States, upon a transfer by the decedent for public, charitable, or religious uses described in section 2055. The determination under this paragraph of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States. Any election under this paragraph shall be exercised in accordance with regulations prescribed by the Secretary.</i>
-
-#### <i>(2) Condition for allowance of deduction</i>
-
-&emsp;<i>No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.</i>
-
-#### <i>(3) Effect on credit for foreign death taxes of deduction under this subsection</i>
-
-#### <i>(A) Election</i>
-
-&emsp;&emsp;<i>An election under this subsection shall be deemed a waiver of the right to claim a credit, against the Federal estate tax, under a death tax convention with any foreign country for any tax or portion thereof in respect of which a deduction is taken under this subsection.</i>
-
-#### <i>(B) Cross reference</i>
-
-&emsp;&emsp;<i>See section 2014(f) for the effect of a deduction taken under this paragraph on the credit for foreign death taxes.</i>
-
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
 2002—Subsec. (d)(3)(B). Pub. L. 107–134 substituted “section 2011(d)” for “section 2011(e)”.
 
-1997—Subsec. (c)(1)(B). Pub. L. 105–34, §1073(b)(3), struck out at end “This subparagraph shall not applyto any increase in the tax imposed by this chapter by reason of section 4980A(d).”
+2001—Subsec. (d). Pub. L. 107–16, §§532(c)(5), 901, temporarily substituted “Certain foreign death taxes” for “Certain State and foreign death taxes” in heading and amended text generally, revising and restating provisions of pars. (1) to (3) so as to eliminate provisions relating to deduction for State death taxes. See Effective and Termination Dates of 2001 Amendment note below.
+
+1997—Subsec. (c)(1)(B). Pub. L. 105–34, §1073(b)(3), struck out at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
 Subsec. (c)(1)(D). Pub. L. 105–34, §503(b)(1), added subpar. (D).
 
@@ -124,7 +98,7 @@ Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted “For provisions treati
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under section 2011 of this title.
+Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, withprovisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under section 2011 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -159,8 +133,4 @@ Amendment by Pub. L. 85–866 applicable to estates of decedents dying after Sep
 #### Effective Date of 1956 Amendment
 
 Section 4 of act Feb. 20, 1956, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by sections 2 and 3 of this Act \[amending this section and section 2011 of this title\], and provisions having the same effect as this amendment, which shall be considered to be included in chapter 3 of the Internal Revenue Code of 1939, shall apply to the estates of all decedents dying after December 31, 1953.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 213, 303, 642, 2011, 2013, 2014, 2032A, 2043, 2057, 2106, 2622, 6166, 7481 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)(1) A person under the jurisdiction of the Secretary of a military department may not provide health care independently as a health-care professional under this chapter unless the person has a current license to provide such care. In the case of a physician, the physician may not provide health care as a physician under this chapter unless the current license is an unrestricted license that is not subject to limitation on the scope of practice ordinarily granted to other physicians for a similar specialty by the jurisdiction that granted the license.
 
-(2) The Secretary of Defense may waive paragraph (1) with respect to any person in unusualcircumstances. The Secretary shall prescribe by regulation the circumstances under which such a waiver may be granted.
+(2) The Secretary of Defense may waive paragraph (1) with respect to any person in unusual circumstances. The Secretary shall prescribe by regulation the circumstances under which such a waiver may be granted.
 
 (b) The commanding officer of each health care facility of the Department of Defense shall ensure that each person who provides health care independently as a health-care professional at the facility meets the requirement of subsection (a).
 
@@ -30,11 +30,13 @@
 
 &emsp;&emsp;(B) includes, in the case of such care furnished in a foreign country by any person who is not a national of the United States, a grant of permission by an official agency of that foreign country for that person to provide health care independently as a health-care professional.
 
-&emsp;(2) The term “health-care professional” means a physician, dentist, clinical psychologist, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
+&emsp;(2) The term “health-care professional” means a physician, dentist, clinical psychologist, marriage and family therapist certified as such by a certification recognized by the Secretary of Defense, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
 
-(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §734(a), Oct. 17, 1998, 112 Stat. 2072.)
+(Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), titleXVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §734(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 108–375, div. A, title VII, §717(b), Oct. 28, 2004, 118 Stat. 1986.)
 
 #### Amendments
+
+2004—Subsec. (e)(2). Pub. L. 108–375 inserted “marriage and family therapist certified as such by a certification recognized by the Secretary of Defense,” after “psychologist,”.
 
 1998—Subsec. (a)(1). Pub. L. 105–261 inserted at end “In the case of a physician, the physician may not provide health care as a physician under this chapter unless the current license is an unrestricted license that is not subject to limitation on the scope of practice ordinarily granted to other physicians for a similar specialty by the jurisdiction that granted the license.”
 

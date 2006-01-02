@@ -40,7 +40,7 @@ For purposes of this title, the term “Roth IRA” means an individual retireme
 
 #### (B) Rollover from IRA
 
-&emsp;&emsp;A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement planother than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
+&emsp;&emsp;A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's adjusted gross income exceeds $100,000, or
 
@@ -150,11 +150,11 @@ For purposes of this title—
 
 #### (D) Additional reporting requirements
 
-&emsp;&emsp;Trustees of Roth IRAs, trustees of individual retirement plans, or both, whichever isappropriate, shall include such additional information in reports required under section 408(i) as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
+&emsp;&emsp;Trustees of Roth IRAs, trustees of individual retirement plans, or both, whichever is appropriate, shall include such additional information in reports required under section 408(i) as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
 
 #### (E) Special rules for contributions to which 4-year averaging applies
 
-&emsp;&emsp;In the case of a qualified rollover contribution to a Roth IRA of a distribution to which subparagraph (A)(iii) applied, the following rules shall apply:
+&emsp;&emsp;In the case of a qualified rollover contribution to a Roth IRA of a distribution to whichsubparagraph (A)(iii) applied, the following rules shall apply:
 
 #### (i) Acceleration of inclusion
 
@@ -238,7 +238,7 @@ For purposes of this title—
 
 #### (e) Qualified rollover contribution
 
-For purposes of this section, the term “qualified rollover contribution” means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
+For purposes of this section, the term “qualified rollover contribution” means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). Such term includes a rollover contribution described in section 402A(c)(3)(A). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
 
 #### (f) Individual retirement plan
 
@@ -250,11 +250,13 @@ For purposes of this section—
 
 (Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106.)
 
-#### Amendment of Subsection (e)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title VI, §617(e)(1), (f), title IX, §901, June 7, 2001, 115 Stat. 106, 150, provided that, applicable to taxable years beginning after Dec. 31, 2005, subsection (e) of this section is temporarily amended by inserting after the first sentence “Such term includes a rollover contribution described in section 402A(c)(3)(A).” See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (e). Pub. L. 107–16, §§617(e)(1), 901, temporarily inserted “Such term includes a rollover contribution described in section 402A(c)(3)(A).” after first sentence. See Effective and Termination Dates of 2001 Amendment note below.
 
 1998—Subsec. (c)(3)(A). Pub. L. 105–206, §6005(b)(1), substituted “shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced” for “shall be reduced” in introductory provisions.
 
@@ -327,8 +329,4 @@ Pub. L. 105–206, title VII, §7004(b), July 22, 1998, 112 Stat. 833, provided 
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1997, see section 302(f) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 219 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25B, 219, 402A, 408, 4973 of this title.
 

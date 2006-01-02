@@ -18,7 +18,3 @@ Section 722(f)(2) of Pub. L. 98–369 provided that: “The amendments made by p
 
 For effective date of amendment made by Pub. L. 94–455, see section 2131(f)(3)–(5) of Pub. L. 94–455, set out as a note under section 721 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 705 of this title.
-

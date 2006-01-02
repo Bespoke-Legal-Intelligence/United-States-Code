@@ -42,13 +42,35 @@ Section 705 of Public Law 98–212, to be codified as 10 U.S.C. 2241(b), provide
 
 2003—Subsec. (c). Pub. L. 108–136 added subsec. (c).
 
+#### Obligation of Funds for Installation Support Functions
+
+Pub. L. 108–287, title VIII, §8070, Aug. 5, 2004, 118 Stat. 987, provided that: “Hereafter, funds appropriated for Operation and maintenance and for the Defense Health Program in this Act \[see Tables for classification\], and in future appropriations acts for the Department of Defense, for supervision and administration costs for facilities maintenance and repair, minor construction, or design projects, or any planning studies, environmental assessments, or similar activities related to installation support functions, may be obligated at the time the reimbursable order is accepted by the performing activity: <i>Provided</i>, That for the purpose of this section, supervision and administration costs includes all in-house Government cost.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–87, title VIII, §8071, Sept. 30, 2003, 117 Stat. 1088.
+
+Pub. L. 107–248, title VIII, §8072, Oct. 23, 2002, 116 Stat. 1553.
+
+Pub. L. 107–117, div. A, title VIII, §8080, Jan. 10, 2002, 115 Stat. 2265.
+
+Pub. L. 106–259, title VIII, §8079, Aug. 9, 2000, 114 Stat. 691.
+
+Pub. L. 106–79, title VIII, §8084, Oct. 25, 1999, 113 Stat. 1251.
+
+Pub. L. 105–262, title VIII, §8085, Oct. 17, 1998, 112 Stat. 2318.
+
+Pub. L. 105–56, title VIII, §8093, Oct. 8, 1997, 111 Stat. 1241.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8119\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–114.
+
 #### Limitation on Payment of Facilities Charges Assessed by Department of State
 
 Pub. L. 108–136, div. A, title X, §1007, Nov. 24, 2003, 117 Stat. 1585, provided that:
 
 “(a)
 
-Costs of Goods and Services Provided to Department of State.—Funds appropriated for the Department of Defense may be transferred to the Department of State as remittance for a fee charged to the Department of Defense by the Department of State forany year for the maintenance, upgrade, or construction of United States diplomatic facilities only to the extent that the amount charged (when added to other amounts previously so charged for that fiscal year) exceeds the total amount of the unreimbursed costs incurred by the Department of Defense during that year in providing goods and services to the Department of State.
+Costs of Goods and Services Provided to Department of State.—Funds appropriated for the Department of Defense may be transferred to the Department of State as remittance for a fee charged to the Department of Defense by the Department of State for any year for the maintenance, upgrade, or construction of United States diplomatic facilities only to the extent that the amount charged (when added to other amounts previously so charged for that fiscal year) exceeds the total amount of the unreimbursed costs incurred by the Department of Defense during that year in providing goods and services to the Department of State.
 
 “(b)
 
@@ -140,13 +162,15 @@ Non-united states person.—The term ‘non-United States person’ means any pe
 
 United states person.—The term ‘United States person’ has the meaning given that term in section 101(i) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801(i)).”
 
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out asa note under section 401 of Title 50, War and National Defense.\]
+
 #### Funds Prohibited for Contracts With Persons Convicted of Unlawful Manufacture or Sale of Congressional Medals of Honor
 
-Pub. L. 105–262, title VIII, §8118, Oct. 17, 1998, 112 Stat. 2331, provided that: “During the current fiscal year and hereafter, no funds appropriated or otherwise available to the Department of Defense may be used to award a contract to, extend a contract with, or approve the award of a subcontract to any person who within the preceding 15 years has been convicted under section 704of title 18, United States Code, of the unlawful manufacture or sale of the Congressional Medal of Honor.”
+Pub. L. 105–262, title VIII, §8118, Oct. 17, 1998, 112 Stat. 2331, provided that: “During the current fiscal year and hereafter, no funds appropriated or otherwise available to the Department of Defense may be used to award a contract to, extend a contract with, or approve the award of a subcontract to any person who within the preceding 15 years has been convicted under section 704 of title 18, United States Code, of the unlawful manufacture or sale of the Congressional Medal of Honor.”
 
 #### Use of Funds for Modification of Retired Aircraft, Weapon, Ship or Other Item of Equipment
 
-Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, provided that: “None of the funds provided in this Act \[see Tables for classification\] and hereafter shall be available for use by a military department to modify an aircraft, weapon, ship or other item of equipment, that the military department concerned plans to retire or otherwise dispose of within 5 years after completion of the modification: <i>Provided</i>, That this prohibition shall not apply to safety modifications: <i>Provided further</i>, That this prohibition may be waived by the Secretary of a military department if the Secretary determines it is in the best national security interest of the United States to provide such waiver and so notifies the congressional defense committees in writing.”
+Pub. L. 105–56, title VIII, §8053, Oct. 8, 1997, 111 Stat. 1232, which provided that none of the funds provided in the Act and hereafter would be available for use by a military department to modify an aircraft, weapon, ship or other item of equipment, that the military department concerned planned to retire or otherwise dispose of within 5 years after completion of the modification, was repealed and restated in section 2244a of this title by Pub. L. 109–163, div. A, title III, §372(a), (c), 119 Stat. 3209, 3210.
 
 Similar provisions were contained in the following prior appropriation acts:
 

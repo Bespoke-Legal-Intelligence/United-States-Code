@@ -36,7 +36,7 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 &emsp;(1) provide early intervention and assessment services, including screening programs, to youth who are at risk for mental or emotional disorders that may lead to a suicide attempt, and that are integrated with school systems, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations;
 
-&emsp;(2) demonstrate collaboration among early intervention and prevention services or certifythat entities will engage in future collaboration;
+&emsp;(2) demonstrate collaboration among early intervention and prevention services or certify that entities will engage in future collaboration;
 
 &emsp;(3) employ or include in their applications a commitment to evaluate youth suicide early intervention and prevention practices and strategies adapted to the local community;
 
@@ -126,7 +126,7 @@ Funds appropriated to carry out this section, section 290bb–34 of this title, 
 
 #### (j) Parental consent
 
-States and entities receiving funding under this section and section 290bb–36a of this title shall obtain prior written, informed consent from the child's parent or legal guardian for assessment services, school-sponsored programs, and treatment involving medication related to youth suicide conducted in elementary and secondary schools. The requirement of the preceding sentence does not apply in the following cases:
+States and entities receiving funding under this section and section 290bb–36a of this title shall obtain prior written, informed consent from the child's parent or legal guardian for assessment services, school-sponsored programs, and treatment involving medication related toyouth suicide conducted in elementary and secondary schools. The requirement of the preceding sentence does not apply in the following cases:
 
 &emsp;(1) In an emergency, where it is necessary to protect the immediate health and safety of the student or other students.
 

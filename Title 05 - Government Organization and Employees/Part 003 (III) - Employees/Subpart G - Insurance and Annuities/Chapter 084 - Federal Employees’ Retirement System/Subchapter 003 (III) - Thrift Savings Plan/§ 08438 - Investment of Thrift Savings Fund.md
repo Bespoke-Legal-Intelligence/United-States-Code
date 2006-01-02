@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) payment of all of the investment adviser's liabilities, including any liabilities which may arise by reason of a breach or violation of a duty described in section 8477 of this title, is unconditionally guaranteed by—
 
-&emsp;&emsp;&emsp;&emsp;(I) a person (as defined in section 8471(4) of this title) who directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with the investment adviser and who has, on the last day of the person's latest fiscal year ending before the date of a determination for the purpose of this clause, shareholder's or partner's equity in an amount which, when added to the amount of the shareholder's or partner'sequity of the investment adviser on such day, exceeds $750,000;
+&emsp;&emsp;&emsp;&emsp;(I) a person (as defined in section 8471(4) of this title) who directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with the investment adviser and who has, on the last day of the person's latest fiscal year ending before the date of a determination for the purpose of this clause, shareholder's or partner's equity in an amount which, when added to the amount of the shareholder's or partner's equity of the investment adviser on such day, exceeds $750,000;
 
 &emsp;&emsp;&emsp;&emsp;(II) a qualified professional asset manager described in subparagraph (A), (B), or (C); or
 
@@ -106,7 +106,7 @@
 
 (2) Any issuances of obligations to the Government Securities Investment Fund which, solely by reason of the public debt limit are not issued, shall be issued under subsection (e) by the Secretary of the Treasury as soon as such issuances can be issued without exceeding the public debt limit.
 
-(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then be held by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
+(3) Upon expiration of the debt issuance suspension period, the Secretary of the Treasury shall immediately issue to the Government Securities Investment Fund obligations under chapter 31 of title 31 that (notwithstanding subsection (e)(2) of this section) bear such interest rates and maturity dates as are necessary to ensure that, after such obligations are issued, the holdings of obligations of the United States by the Government Securities Investment Fund will replicate the obligations that would then beheld by the Government Securities Investment Fund under the procedure set forth in paragraph (5), if the suspension of issuances under paragraph (1) of this subsection had not occurred.
 
 (4) On the first business day after the expiration of any debt issuance suspension period, the Secretary of the Treasury shall pay to the Government Securities Investment Fund, from amounts in the general fund of the Treasury of the United States not otherwise appropriated, an amount equal to the excess of the net amount of interest that would have been earned by the Government Securities Investment Fund from obligations of the United States during such debt issuance suspension period if—
 
@@ -148,7 +148,7 @@ Subsec. (e). Pub. L. 101–335, §3(a)(1), redesignated subsec. (f) as (e) and s
 
 Subsec. (f). Pub. L. 101–335, §3(a)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 101–335, §3(a)(1), (5), (6), redesignated subsec. (h) as (g) and substituted “subsection (e)”for “subsection (f)” in pars. (1) and (2), “subsection (e)(2)” for “subsection (f)(2)” in par. (3), and “subsection (h)” for “subsection (i)” in par. (6). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 101–335, §3(a)(1), (5), (6), redesignated subsec. (h) as (g) and substituted “subsection (e)” for “subsection (f)” in pars. (1) and (2), “subsection (e)(2)” for “subsection (f)(2)” in par. (3), and “subsection (h)” for “subsection (i)” in par. (6). Former subsec. (g) redesignated (f).
 
 Subsecs. (h), (i). Pub. L. 101–335, §3(a)(1), (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
 

@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(A) is classified under a tariff classification other than that identified in the petition or the administering authority's prior notices during the proceeding, or
 
-&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additionalfunctions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
+&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
 
 #### (e) Commission advice
 
@@ -164,7 +164,7 @@
 
 #### (3) Commission advice
 
-&emsp;If the Commission believes, after consultation under paragraph (2), that a significant injury issue is presented by the proposed inclusion, the Commission may provide written advice to the administering authority as to whether the inclusion would be inconsistent with the affirmative determination of the Commission on which the order or finding is based. If the Commission decides to provide such written advice, it shall promptly notify the administering authority of its intention to do so, and must provide such advice within 60 days after the date of notification under paragraph (1). For purposes of formulating its advice with respect to merchandise completed or assembled in the United States from parts or components produced in a foreign country, the Commission shall consider whether the inclusion of such parts or components taken as a whole would be inconsistent with its prior affirmative determination.
+&emsp;If the Commission believes, after consultation under paragraph (2), that a significant injury issue is presented by the proposed inclusion, the Commission may provide written advice to the administering authority as to whether the inclusion would be inconsistent with the affirmative determination of the Commission on which the order or finding is based. If the Commission decides to providesuch written advice, it shall promptly notify the administering authority of its intention to do so, and must provide such advice within 60 days after the date of notification under paragraph (1). For purposes of formulating its advice with respect to merchandise completed or assembled in the United States from parts or components produced in a foreign country, the Commission shall consider whether the inclusion of such parts or components taken as a whole would be inconsistent with its prior affirmative determination.
 
 #### (f) Time limits for administering authority determinations
 

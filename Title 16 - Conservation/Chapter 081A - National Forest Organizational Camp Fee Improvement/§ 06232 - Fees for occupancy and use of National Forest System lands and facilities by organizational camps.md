@@ -26,7 +26,7 @@
 
 #### (C) Relation to minimum fee
 
-&emsp;&emsp;The reductions made under this paragraph may not reduce the land use fee for an organizational camp below the minimum land use fee required to be charged under paragraph (4).
+&emsp;&emsp;The reductions made under this paragraph may not reduce the land use fee for an organizational camp below the minimum landuse fee required to be charged under paragraph (4).
 
 #### (D) Special considerations
 

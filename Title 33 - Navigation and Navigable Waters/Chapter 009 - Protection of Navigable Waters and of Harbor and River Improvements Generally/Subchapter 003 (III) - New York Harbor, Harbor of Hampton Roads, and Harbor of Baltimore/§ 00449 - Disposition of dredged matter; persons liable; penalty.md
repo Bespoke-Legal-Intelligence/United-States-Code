@@ -6,7 +6,7 @@ All mud, dirt, sand, dredgings, and material of every kind and description whate
 
 #### References in Text
 
-Sections 443 to 448 of this title, referred to in text, were in the original “the third section of this Act”, meaning section 3 of act June 29, 1888, which enacted sections 443 to 448 of this title. The provision of section 3 relating to specification of the limits within which to discharge is classified to section 443 of this title.
+Sections 443 to 448 of this title, referred to in text, were in the original “the third section of this Act”, meaning section 3 of act June 29, 1888, which enacted sections 443 to 448 of this title. The provision of section3 relating to specification of the limits within which to discharge is classified to section 443 of this title.
 
 #### Codification
 

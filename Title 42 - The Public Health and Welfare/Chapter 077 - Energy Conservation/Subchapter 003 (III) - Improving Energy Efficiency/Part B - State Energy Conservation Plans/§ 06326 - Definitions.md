@@ -54,7 +54,7 @@ Section 6327 of this title, referred to in par. (3)(B)(i), was repealed by Pub. 
 
 #### Amendments
 
-1990—Par. (4). Pub. L. 101–440 substituted “building, building system, energy consuming device associated with the building, or industrial” for “building or industrial”, “May 1, 1989” for “August 14, 1976”, and “maintain or improve the efficiency” for “improve the efficiency”.
+1990—Par. (4). Pub. L. 101–440 substituted “building, building system, energy consuming device associatedwith the building, or industrial” for “building or industrial”, “May 1, 1989” for “August 14, 1976”, and “maintain or improve the efficiency” for “improve the efficiency”.
 
 1978—Pars. (1), (3)(A), (B)(ii), (4), (A), (6), (B), (B)(i). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 

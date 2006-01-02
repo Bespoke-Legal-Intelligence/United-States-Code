@@ -1,6 +1,6 @@
 ### §218. Alaska Highway
 
-(a) Recognizing the benefits that will accrue to the State of Alaska and to the United States from the reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, the Secretary is authorized out of the funds appropriated for the purpose of this section to provide for necessary reconstruction of such highway. Such appropriations shall remain available until expended. Notwithstanding any other provision of law, in addition to such funds, upon agreement with the State of Alaska, the Secretary is authorized to expend on such highway or the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum. Notwithstanding any other provision of law, any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter, including any portion of any other fiscal year thereafter, prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century shall not apply to projects authorized by the preceding sentence. No expenditures shall be made for the construction of the portion of such highways that are in Canada until an agreement has been reached by the Government of Canada and the Government of the United States which shall provide, in part, that the Canadian Government—
+(a) Recognizing the benefits that will accrue to the State of Alaska and to the United States from the reconstruction of the Alaska Highway from the Alaskan border to Haines Junction in Canada and the Haines Cutoff Highway from Haines Junction in Canada to Haines, the Secretary is authorized out of the funds appropriated for the purpose of this section to provide for necessary reconstruction of such highway. Such appropriations shall remain available until expended. Notwithstanding any other provision of law, in addition to such funds, upon agreement with the State of Alaska, the Secretary is authorized to expend on such highway or the Alaska Marine Highway System any Federal-aid highway funds apportioned to the State of Alaska under this title at a Federal share of 100 per centum. Notwithstanding any other provision of law, any obligation limitation enacted for fiscal year 1983 or for any other fiscal year thereafter, including any portion of any other fiscal year thereafter, shall not apply to projects authorized by the preceding sentence. No expenditures shall be made for the construction of the portion of such highways that are in Canada until an agreement has been reached by the Government of Canada and the Government of the United States which shall provide, in part, that the Canadian Government—
 
 &emsp;(1) will provide, without participation of funds authorized under this title, all necessary right-of-way for the reconstruction of such highways;
 
@@ -14,13 +14,15 @@
 
 (b) The survey and construction work undertaken in Canada pursuant to this section shall be under the general supervision of the Secretary.
 
-(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec.12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III, §327, Feb. 20, 2003, 117 Stat. 413.)
+(c) For purposes of this section, the term “Alaska Marine Highway System” includes all existing or planned transportation facilities and equipment in Alaska, including the lease, purchase, or construction of vessels, terminals, docks, floats, ramps, staging areas, parking lots, bridges and approaches thereto, and necessary roads.
 
-#### References in Text
-
-The Transportation Equity Act for the 21st Century, referred to in subsec.(a), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under section 101 of this title and Tables.
+(Added Pub. L. 93–87, title I, §127(a)(1), Aug. 13, 1973, 87 Stat. 264; amended Pub. L. 94–147, Dec. 12, 1975, 89 Stat. 803; Pub. L. 97–424, title I, §158, Jan. 6, 1983, 96 Stat. 2135; Pub. L. 105–277, div. A, §101(g) \[title III, §316\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–468; Pub. L. 108–7, div. I, title III,§327, Feb. 20, 2003, 117 Stat. 413; Pub. L. 109–59, title IV, §4409, Aug. 10, 2005, 119 Stat. 1778.)
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §4409(1), struck out “prior to the date of the enactment of the reauthorization of the Transportation Equity Act for the 21st Century” before “shall not apply” in introductory provisions.
+
+Subsec. (c). Pub. L. 109–59, §4409(2), added subsec. (c).
 
 2003—Subsec. (a). Pub. L. 108–7 inserted “reauthorization of the” before “Transportation”.
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) a description of the criteria used to develop such list; and
 
-&emsp;&emsp;(C) a description of the major factors for each project that determined the ranking of such project on the list, based on the application of the criteria described pursuant to subparagraph (B).
+&emsp;&emsp;(C) a description of the major factors for each project that determined the ranking ofsuch project on the list, based on the application of the criteria described pursuant to subparagraph (B).
 
 #### (3) Criteria
 

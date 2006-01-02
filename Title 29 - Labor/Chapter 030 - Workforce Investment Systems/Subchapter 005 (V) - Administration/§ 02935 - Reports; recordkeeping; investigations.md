@@ -56,7 +56,7 @@
 
 #### (B) Notification requirement
 
-&emsp;&emsp;If the scope, objectives, or purposes of the audit change substantially during the course of the audit, the entity being audited shall be notified of the change as soon as practicable.
+&emsp;&emsp;If the scope, objectives, or purposes of the audit change substantially during the courseof the audit, the entity being audited shall be notified of the change as soon as practicable.
 
 #### (C) Additional requirement
 
@@ -68,7 +68,7 @@
 
 #### (c) Accessibility of reports
 
-Each State, each local board, and each recipient (other than a subrecipient, subgrantee, orcontractor of a recipient) receiving funds under this chapter—
+Each State, each local board, and each recipient (other than a subrecipient, subgrantee, or contractor of a recipient) receiving funds under this chapter—
 
 &emsp;(1) shall make readily accessible such reports concerning its operations and expenditures as shall be prescribed by the Secretary;
 

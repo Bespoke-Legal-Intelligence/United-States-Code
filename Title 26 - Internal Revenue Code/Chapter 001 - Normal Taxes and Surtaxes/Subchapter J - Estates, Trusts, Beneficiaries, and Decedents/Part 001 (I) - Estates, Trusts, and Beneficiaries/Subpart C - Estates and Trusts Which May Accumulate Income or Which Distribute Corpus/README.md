@@ -18,10 +18,6 @@ Subpart C—Estates and Trusts Which May Accumulate Income or Which Distribute C
 
 1969—Pub. L. 91–172, title II, §201(e)(2), Dec. 30, 1969, 83 Stat. 564, added item 664.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 643, 665, 671, 685, 1312 of this title.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

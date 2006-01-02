@@ -1,0 +1,254 @@
+### §114. Construction
+
+(a)
+
+Construction Work In General.—The construction of any Federal-aid highway or a portion of a Federal-aid highway shall be undertaken by the respective State transportation departments or under their direct supervision. The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate. The construction work and labor in each State shall be performed under the direct supervision of the State transportation department and in accordance with the laws of that State and applicable Federal laws. Construction may be begun as soon as funds are available for expenditure pursuant to subsection (a) of section 118 of this title. After July 1, 1973, the State transportation department shall not erect on any project where actual construction is in progress and visible to highway users any informational signs other than official traffic control devices conforming with standards developed by the Secretary of Transportation.
+
+(b)
+
+Convict Labor and Convict Produced Materials.—
+
+&emsp;(1)
+
+Limitation on convict labor.—Convict labor shall not be used in construction of highways or portions of highways located on a Federal-aid system unless it is labor performed by convicts who are on parole, supervised release, or probation.
+
+&emsp;(2)
+
+Limitation on convict produced materials.—Materials produced after July 1, 1991, by convict labor may only be used in such construction—
+
+&emsp;&emsp;(A) if such materials are produced by convicts who are on parole, supervised release, or probation from a prison; or
+
+&emsp;&emsp;(B) if such materials are produced by convicts in a qualified prison facility and the amount of such materials produced in such facility for use in such construction during any 12-month period does not exceed the amount of such materials produced in such facility for use in such construction during the 12-month period ending July 1, 1987.
+
+&emsp;(3)
+
+Qualified prison facility defined.—As used in this subsection, “qualified prison facility” means any prison facility in which convicts, during the 12-month period ending July 1, 1987, produced materials for use in construction of highways or portions of highways located on a Federal-aid system.
+
+(c)
+
+Construction Work in Alaska.—
+
+&emsp;(1)
+
+In general.—The Secretary shall ensure that a worker who is employed on a remote project for the construction of a highway or portion of a highway located on a Federal-aid system in the State of Alaska and who is not a domiciled resident of the locality shall receive meals and lodging.
+
+&emsp;(2)
+
+Lodging.—The lodging under paragraph (1) shall be in accordance with section 1910.142 of title 29, Code of Federal Regulations (relating to temporary labor camp requirements).
+
+&emsp;(3)
+
+Per diem.—
+
+&emsp;&emsp;(A)
+
+In general.—Contractors are encouraged to use commercial facilities and lodges on remote projects, however, when such facilities are not available, per diem in lieu of room and lodging may be paid on remote Federal highway projects at a basic rate of $75.00 per day or part of a day the worker is employed on the project. Where the contractor provides or furnishes room and lodging or pays a per diem, the cost of the amount shall not be considered a part of wages and shall be excluded from the calculation of wages.
+
+&emsp;&emsp;(B)
+
+Secretary of labor.—Such per diem rate shall be adopted by the Secretary ofLabor for all applicable remote Federal highway projects in Alaska.
+
+&emsp;&emsp;(C)
+
+Exception.—Per diem shall not be allowed on any of the following remote projects for the construction of a highway or portion of a highway located on a Federal-aid system:
+
+&emsp;&emsp;&emsp;(i) West of Livengood on the Elliot Highway.
+
+&emsp;&emsp;&emsp;(ii) Mile 0 on the Dalton Highway to the North Slope of Alaska; north of Mile 20 on the Taylor Highway.
+
+&emsp;&emsp;&emsp;(iii) East of Chicken on the Top of the World Highway and south of Tetlin Junction to the Alaska Canadian border.
+
+&emsp;(4)
+
+Definitions.—In this subsection, the following definitions apply:
+
+&emsp;&emsp;(A)
+
+Remote.—The term “remote”, as used with respect to a project, means that the project is 65 road miles or more from the international airport in Fairbanks, Anchorage, or Juneau, Alaska, as the case may be, or is inaccessible by road in a 2-wheel drive vehicle.
+
+&emsp;&emsp;(B)
+
+Resident.—The term “resident”, as used with respect to a project, means a person living within 65 road miles of the midpoint of the project for at least 12 consecutive months prior to the award of the project.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 86–657, §8(f), July 14, 1960, 74 Stat. 525; Pub. L. 93–87, title I, §115, Aug. 13, 1973, 87 Stat. 258; Pub. L. 97–424, title I, §148, Jan. 6, 1983, 96 Stat. 2131; Pub. L. 98–473, title II, §226, Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–17, title I, §112(a), (b)(1), Apr. 2, 1987, 101 Stat. 148; Pub. L. 102–240, title I, §1019, Dec. 18, 1991, 105 Stat. 1948; Pub. L. 105–178, title I, §1212(a)(2)(A), June 9, 1998, 112 Stat. 193; Pub. L. 109–59, title I, §§1409(d), 1904(b), Aug. 10, 2005, 119 Stat. 1232, 1467.)
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §1904(b), substituted “Federal-aid highway or a portion of a Federal-aid highway” for “highways or portions of highways located on a Federal-aid system” and “The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate.” for “Except as provided in section 117 of this title, such construction shall be subject to the inspection and approval of the Secretary.”
+
+Subsec. (c). Pub. L. 109–59, §1409(d), added subsec. (c).
+
+1998—Subsec. (a). Pub. L. 105–178 substituted “State transportation department” for “State highway department” in two places and “State transportation departments” for “State highway departments”.
+
+1991—Subsec. (b)(2). Pub. L. 102–240, inserted “after July 1, 1991,” after “Materials produced” in introductory provisions.
+
+1987—Subsec. (a). Pub. L. 100–17, §112(b)(1), inserted heading.
+
+Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Convict labor or materials produced by convict labor shall not be used in such construction unless it is labor performed by convicts who are on parole or probation.”
+
+1984—Subsec. (b). Pub. L. 98–473 which directed the insertion of “, supervised release,” after “parole” effective Nov. 1, 1987, was not executed, because of intervening general amendment of subsec. (b) by Pub. L. 100–17, §112(a), which contained “, supervised release,” after “parole” wherever appearing.
+
+1983—Subsec. (b). Pub. L. 97–424 inserted “or materials produced by convict labor” after “Convict labor”.
+
+1973—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: “On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments.”
+
+1960—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
+
+#### Effective Date of 1991 Amendment
+
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Effective Date of 1984 Amendment
+
+Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+
+#### Highways for Life Pilot Program
+
+Pub. L. 109–59, title I, §1502, Aug. 10, 2005, 119 Stat. 1236, provided that:
+
+“(a)
+
+Establishment.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] shall establish and implement a pilot program to be known as the ‘Highways for LIFE Pilot Program’.
+
+&emsp;“(2)
+
+Purpose.—The purpose of the pilot program shall be to advance longer-lasting highways using innovative technologies and practices to accomplish the fast construction of efficient and safe highways and bridges.
+
+&emsp;“(3)
+
+Objectives.—Under the pilot program, the Secretary shall provide leadership and incentives to demonstrate and promote state-of-the-art technologies, elevated performance standards, and new business practices in the highway construction process that result in improved safety, faster construction, reduced congestion from construction, and improved quality and user satisfaction.
+
+“(b)
+
+Projects.—
+
+&emsp;“(1)
+
+Applications.—To be eligible to participate in the pilot program, a State shall submit to the Secretary \[of Transportation\] an application that is in such form and contains such information as the Secretary requires. Each application shall contain a description of proposed projects to be carried by the State under the pilot program.
+
+&emsp;“(2)
+
+Eligibility.—A proposed project shall be eligible for assistance under the pilot program if the project—
+
+&emsp;&emsp;“(A) constructs, reconstructs, or rehabilitates a route or connection on a Federal-aid highway eligible for assistance under chapter 1 of title 23, United States Code;
+
+&emsp;&emsp;“(B) uses innovative technologies, manufacturing processes, financing, or contracting methods that improve safety, reduce congestion due to construction, and improve quality; and
+
+&emsp;&emsp;“(C) meets additional criteria as determined by the Secretary.
+
+&emsp;“(3)
+
+Project proposal.—A project proposal submitted under paragraph (1) shall contain—
+
+&emsp;&emsp;“(A) an identification and description of the projects to be delivered;
+
+&emsp;&emsp;“(B) a description of how the projects will result in improved safety, faster construction, reduced congestion due to construction, user satisfaction, and improved quality;
+
+&emsp;&emsp;“(C) a description of the innovative technologies, manufacturing processes, financing, and contracting methods that will be used for the proposed projects; and
+
+&emsp;&emsp;“(D) such other information as the Secretary may require.
+
+&emsp;“(4)
+
+Selection criteria.—In selecting projects for approval under this section, the Secretary shall ensure that the projects provide an evaluation of a broad range of technologies in a wide variety of project types and shall give priority to the projects that—
+
+&emsp;&emsp;“(A) address achieving the Highways for LIFE performance standards for quality, safety, and speed of construction;
+
+&emsp;&emsp;“(B) deliver and deploy innovative technologies, manufacturing processes, financing, contracting practices, and performance measures that will demonstrate substantial improvements in safety, congestion, quality, and cost-effectiveness;
+
+&emsp;&emsp;“(C) include innovation that will lead to change in the administration of the State's transportation program to more quickly construct long-lasting, high-quality, cost-effective projects that improve safety and reduce congestion;
+
+&emsp;&emsp;“(D) are or will be ready for construction within 1 year of approval of the project proposal; and
+
+&emsp;&emsp;“(E) meet such other criteria as the Secretary determines appropriate.
+
+&emsp;“(5)
+
+Financial assistance.—
+
+&emsp;&emsp;“(A)
+
+Funds for highways for life projects.—Out of amounts made available to carry out this section for a fiscal year, the Secretary may allocate to a State up to 20 percent, but not more than $5,000,000, of the total cost of a project approved under this section. Notwithstanding any other provision of law, funds allocated to a State under this subparagraph may be applied to the non-Federal share of the cost of construction of a project under title 23, United States Code.
+
+&emsp;&emsp;“(B)
+
+Use of apportioned funds.—A State may obligate not more than 10 percent of the amount apportioned to the State under one or more of paragraphs (1), (2), (3), and (4) of section 104(b) of title 23, United States Code, for a fiscal year for projects approved under this section.
+
+&emsp;&emsp;“(C)
+
+Increased federal share.—Notwithstanding sections 120 and 129 of title 23, United States Code, the Federal share payable on account of any project constructed with Federal funds allocated under this section, or apportioned under section 104(b) of such title, to a State under such title and approved under this section may amount to 100 percent of the cost of construction of such project.
+
+&emsp;&emsp;“(D)
+
+Limitation on statutory construction.—Except as provided in subparagraph (C), nothing in this subsection shall be construed as altering or otherwise affecting the applicability of the requirements of chapter 1 of title 23, United States Code (including requirements relating to the eligibility of a project for assistance under the program and the location of the project), to amounts apportioned to a State for a program under section 104(b) that are obligated by the State for projects approved under this subsection.
+
+&emsp;“(6)
+
+Project selections.—In the period of fiscal years 2005 through 2009, the Secretary, to the maximum extent possible, shall approve at least 1 project in each State for participation in the pilot program and for financial assistance under paragraph (5) if the State submits an application and the project meets the eligibility requirements and selection criteria under this subsection.
+
+&emsp;“(7)
+
+Maximum number of projects.—The maximum number of projects for which the Secretary may allocate funds under this subsection in a fiscal year is 15.
+
+“(c)
+
+Technology Partnerships.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] may make grants or enter into cooperative agreements or other transactions to foster the development, improvement, and creation of innovative technologies and facilities to improve safety, enhance the speed of highway construction, and improve the quality and durability of highways.
+
+&emsp;“(2)
+
+Federal share.—The Federal share of the cost of an activity carried out under this subsection shall not exceed 80 percent.
+
+“(d)
+
+Technology Transfer and Information Dissemination.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] shall conduct a highways for life technology transfer program.
+
+&emsp;“(2)
+
+Availability of information.—The Secretary shall ensure that the information and technology used, developed, or deployed under this subsection is made available to the transportation community and the public.
+
+“(e)
+
+Stakeholder Input and Involvement.—The Secretary \[of Transportation\] shall establish a process for stakeholder input and involvement in the development, implementation, and evaluation of the Highways for LIFE Pilot Program. The process may include participation by representatives of State departments of transportation and other interested persons.
+
+“(f)
+
+Project Monitoring and Evaluation.—The Secretary \[of Transportation\] shall monitor and evaluate the effectiveness of any activity carried out under this section.
+
+“(g)
+
+Contract Authority.—Except as otherwise provided in this section, funds authorized to be appropriated to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code.
+
+“(h)
+
+State Defined.—In this section, the term ‘State’ has the meaning such term has in section 101(a) of title 23, United States Code.”
+
+#### Materials Produced by Convict Labor
+
+Pub. L. 101–162, title II, §202, Nov. 21, 1989, 103 Stat. 1002, provided that: “During fiscal year 1990 and hereafter, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code.”
+
+Similar fiscal year provisions were contained in the following appropriation acts:
+
+Pub. L. 100–459, title II, §202, Oct. 1, 1988, 102 Stat. 2199.
+
+Pub. L. 100–202, §101(a) \[title II, §202\], Dec. 22, 1987, 101 Stat. 1329, 1329–15.
+
+Pub. L. 99–500, §101(b) \[title II, §202\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–51, and Pub. L. 99–591, §101(b) \[title II, §202\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–51.
+
+Pub. L. 99–180, title II, §202, Dec. 13, 1985, 99 Stat. 1146.
+
+Pub. L. 98–411, title II, §202, Aug. 30, 1984, 98 Stat. 1558, repealed by Pub. L. 100–17, title I, §112(b)(2), Apr. 2, 1987, 101 Stat. 149.
+
+Pub. L. 98–166, title II, §202, Nov. 28, 1983, 97 Stat. 1085.
+

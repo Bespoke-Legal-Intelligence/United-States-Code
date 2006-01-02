@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) was purchased to cover payment of burial expenses or in connection with prearranged funeral expenses.
 
-> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determined by treating all contracts issued to the same contract owner as 1 contract.
+> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determinedby treating all contracts issued to the same contract owner as 1 contract.
 
 #### (f) Other definitions and special rules
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (A) Cash surrender value
 
-&emsp;&emsp;The cash surrender value of any contract shall be its cash value determined withoutregard to any surrender charge, policy loan, or reasonable termination dividends.
+&emsp;&emsp;The cash surrender value of any contract shall be its cash value determined without regard to any surrender charge, policy loan, or reasonable termination dividends.
 
 #### (B) Net surrender value
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a contract to which subsection (a)(2) applies, the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for the contract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
+&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for thecontract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
 
 &emsp;&emsp;&emsp;&emsp;(II) the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction).
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such plan or arrangement provides for the payment of benefits by reason of the death of the individuals covered under such plan or arrangement, and
 
-&emsp;&emsp;(B) such plan or arrangement is provided by a church for the benefit of its employeesand their beneficiaries, directly or through an organization described in section 414(e)(3)(A) or an organization described in section 414(e)(3)(B)(ii).
+&emsp;&emsp;(B) such plan or arrangement is provided by a church for the benefit of its employees and their beneficiaries, directly or through an organization described in section 414(e)(3)(A) or an organization described in section 414(e)(3)(B)(ii).
 
 #### (3) Definitions
 
@@ -489,8 +489,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 
 Section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: “Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 72, 264, 817, 817A, 953, 7702A, 7702B of this title; title 15 section 6712.
 

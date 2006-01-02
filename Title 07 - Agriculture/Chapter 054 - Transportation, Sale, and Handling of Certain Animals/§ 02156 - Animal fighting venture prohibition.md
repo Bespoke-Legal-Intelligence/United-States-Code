@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;(5) the term “animal” means any live bird, or any live dog or other mammal, except man; and
 
-&emsp;(6) the conduct by any person of any activity prohibited by this section shall not render such person subject to the other sections of this chapter as a dealer, exhibitor, or otherwise.
+&emsp;(6) the conduct by any person of any activity prohibited by this section shall not rendersuch person subject to the other sections of this chapter as a dealer, exhibitor, or otherwise.
 
 #### (h) Conflict with State law
 

@@ -64,5 +64,5 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Amendments
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings relating to rural forestryassistance, related to financial, technical, and related assistance to State foresters or equivalent State officials, and authorized appropriations.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings relating to rural forestry assistance, related to financial, technical, and related assistance to State foresters or equivalent State officials, and authorized appropriations.
 

@@ -36,7 +36,7 @@ Executive Order 10485 of September 3, 1953, referred to in subsec. (d), is Ex. O
 
 #### Change of Name
 
-“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) ofPub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+“Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Transfer of Functions
 

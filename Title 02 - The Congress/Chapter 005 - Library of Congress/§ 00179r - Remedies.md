@@ -18,5 +18,5 @@ The several district courts of the United States shall have jurisdiction, for ca
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title.</i>
 

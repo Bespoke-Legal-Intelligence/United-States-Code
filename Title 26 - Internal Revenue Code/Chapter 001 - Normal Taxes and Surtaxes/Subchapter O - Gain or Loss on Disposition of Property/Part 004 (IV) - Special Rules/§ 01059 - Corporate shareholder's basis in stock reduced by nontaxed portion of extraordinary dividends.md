@@ -154,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) section 304(a) had not applied,
 
-> &emsp;&emsp;any amount treated as a dividend with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock. In the case of a redemption described in clause (iii), only the basis in the stock redeemed shall be taken into account under subsection (a).
+> &emsp;&emsp;any amount treated as a dividend with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock. In the case of a redemption described in clause (iii), only the basis in thestock redeemed shall be taken into account under subsection (a).
 
 #### (B) Reorganizations, etc.
 
@@ -250,7 +250,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(2) providing that the rules of subsection (f) shall apply in the case of stock which is not preferred as to dividends in cases where stock is structured to avoid the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918, 1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813.)
+(Added Pub. L. 98–369, div. A, title I, §53(a), July 18, 1984, 98 Stat. 565; amended Pub. L. 99–514, title VI, §614(a)–(e), Oct. 22, 1986, 100 Stat. 2251–2253; Pub. L. 100–647, title I, §1006(c), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 101–239, title VII, §7206(a), Dec. 19, 1989, 103 Stat. 2336; Pub. L. 105–34, title X, §§1011(a)–(c), 1013(b), title XVI, §1604(d)(1), Aug. 5, 1997, 111 Stat. 912, 913, 918,1098; Pub. L. 105–206, title VI, §6010(b), July 22, 1998, 112 Stat. 813.)
 
 #### References in Text
 
@@ -288,7 +288,7 @@ Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1
 
 Subsec. (e)(1)(A)(iii). Pub. L. 105–34, §1013(b), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “which would not have been treated (in whole or in part) as a dividend if any options had not been taken into account under section 318(a)(4).”
 
-1989—Subsecs. (f), (g). Pub. L. 101–239 added subsecs. (f) and (g) and struck out former subsec. (f) which readas follows: “
+1989—Subsecs. (f), (g). Pub. L. 101–239 added subsecs. (f) and (g) and struck out former subsec. (f) which read as follows: “
 
 Regulations.—The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations providing for the application of this section in the case of stock dividends, stock splits, reorganizations, and other similar transactions and in the case of stock held by pass-thru entities.”
 
@@ -441,10 +441,6 @@ Treatment of renegotiations, etc.—For purposes of this paragraph, any loan ren
 &emsp;“(D)
 
 Definition of term and demand loans.—For purposes of this paragraph, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that the second sentence of such paragraph (5) shall not apply.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 246, 263, 1016 of this title; title 29 section 1343.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 #### (b) Final review
 
-If, at the end of the 5-year term of a local flexibility demonstration agreement entered into under this chapter, the local educational agency has not met the requirements described in section 7321(c) of this title, the Secretary may not renew the agreement under section 7321d of this title and, beginning on the date on which such term ends, the local educational agency shall be required to comply with each of the program requirements in effect on such date for each program included in the local flexibility demonstration agreement.
+If, at the end of the 5-year term of a local flexibility demonstration agreement entered into under this division, the local educational agency has not met the requirements described in section 7321(c) of this title, the Secretary may not renew the agreement under section 7321d of this title and, beginning on the date on which such term ends, the local educational agency shall be required to comply with each of the program requirements in effect on such date for each program included in the local flexibility demonstration agreement.
 
 (Pub. L. 89–10, title VI, §6154, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1889.)
 

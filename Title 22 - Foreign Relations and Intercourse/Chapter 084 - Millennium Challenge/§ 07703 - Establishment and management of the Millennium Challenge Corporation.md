@@ -34,7 +34,7 @@ There is established in the executive branch a corporation to be known as the â€
 
 #### (5) Authorities and duties
 
-&emsp;The Chief Executive Officer shall be responsible for the management of the Corporationand shall exercise the powers and discharge the duties of the Corporation.
+&emsp;The Chief Executive Officer shall be responsible for the management of the Corporation and shall exercise the powers and discharge the duties of the Corporation.
 
 #### (6) Authority to appoint officers
 
@@ -70,7 +70,7 @@ There is established in the executive branch a corporation to be known as the â€
 
 #### (A) Officers of the Federal Government
 
-&emsp;&emsp;Each member of the Board described in paragraph (3)(A) shall serve for a term that is concurrent with the term of service of the individual's position as an officer within the other Federal department or agency.
+&emsp;&emsp;Each member of the Board described in paragraph (3)(A) shall serve for a term thatis concurrent with the term of service of the individual's position as an officer within the other Federal department or agency.
 
 #### (B) Other members
 

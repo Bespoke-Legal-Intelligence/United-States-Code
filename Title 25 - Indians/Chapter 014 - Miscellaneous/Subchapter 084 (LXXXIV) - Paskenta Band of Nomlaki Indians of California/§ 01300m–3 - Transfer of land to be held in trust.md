@@ -2,7 +2,7 @@
 
 #### (a) Lands to be taken in trust
 
-The Secretary shall accept any real property located in Tehama County, California, for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary if, at the time of such conveyance or transfer, there are no adverse legal claims to such property, including outstanding liens, mortgages, or taxes owned. The Secretary may accept any additional acreage in the Tribe's service area pursuant to the authority of the Secretary under the Act of June 18, 1934 (25 U.S.C. 461 et seq.).
+The Secretary shall accept any real property located in Tehama County, California, for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary if, at the time of such conveyance or transfer, there are no adverse legal claims to such property, includingoutstanding liens, mortgages, or taxes owned. The Secretary may accept any additional acreage in the Tribe's service area pursuant to the authority of the Secretary under the Act of June 18, 1934 (25 U.S.C. 461 et seq.).
 
 #### (b) Lands to be part of reservation
 

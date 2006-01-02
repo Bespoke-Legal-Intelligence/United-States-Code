@@ -65,13 +65,15 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 &emsp;&emsp;For purposes of this paragraph, the term “rural airport” means, with respect to any calendar year, any airport if—
 
-&emsp;&emsp;&emsp;(i) there were fewer than 100,000 commercial passengers departing by air during the second preceding calendar year from such airport, and
+&emsp;&emsp;&emsp;(i) there were fewer than 100,000 commercial passengers departing by air (in the case of any airport described in clause (ii)(III), on flight segments of at least 100 miles) during the second preceding calendar year from such airport, and
 
 &emsp;&emsp;&emsp;(ii) such airport—
 
-&emsp;&emsp;&emsp;&emsp;(I) is not located within 75 miles of another airport which is not described in clause (i), or
+&emsp;&emsp;&emsp;&emsp;(I) is not located within 75 miles of another airport which is not described in clause (i),
 
-&emsp;&emsp;&emsp;&emsp;(II) is receiving essential air service subsidies as of the date of the enactment of this paragraph.
+&emsp;&emsp;&emsp;&emsp;(II) is receiving essential air service subsidies as of the date of the enactment of this paragraph, or
+
+&emsp;&emsp;&emsp;&emsp;(III) is not connected by paved roads to another airport.
 
 #### (C) No phasein of reduced ticket tax
 
@@ -111,7 +113,7 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting the year before the last nonindexed year for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting the year beforethe last nonindexed year for “calendar year 1992” in subparagraph (B) thereof.
 
 > &emsp;&emsp;If any increase determined under the preceding sentence is not a multiple of 10 cents, such increase shall be rounded to the nearest multiple of 10 cents.
 
@@ -125,7 +127,7 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 #### (C) Taxable event
 
-&emsp;&emsp;For purposes of subparagraph (A), in the case of the tax imposed <sup>1</sup> subsection (b), the beginning of the domestic segment shall be treated as the taxable event.
+&emsp;&emsp;For purposes of subparagraph (A), in the case of the tax imposed by subsection (b), the beginning of the domestic segment shall be treated as the taxable event.
 
 #### (D) Special rule for amounts paid for domestic segments beginning after 2002
 
@@ -139,15 +141,15 @@ Except as provided in section 4263(a), the taxes imposed by this section shall b
 
 &emsp;&emsp;(B) “8 percent” in the case of transportation beginning after September 30, 1998, and before October 1, 1999.
 
-#### (f) Exemption for certain helicopter uses
+#### (f) Exemption for certain uses
 
-No tax shall be imposed under subsection (a) or (b) on air transportation by helicopter for the purpose of—
+No tax shall be imposed under subsection (a) or (b) on air transportation—
 
-&emsp;(1) transporting individuals, equipment, or supplies in the exploration for, or the development or removal of, hard minerals, oil, or gas, or
+&emsp;(1) by helicopter for the purpose of transporting individuals, equipment, or supplies in the exploration for, or the development or removal of, hard minerals, oil, or gas, or
 
-&emsp;(2) the planting, cultivation, cutting, or transportation of, or caring for, trees (including logging operations),
+&emsp;(2) by helicopter or by fixed-wing aircraft for the purpose of the planting, cultivation, cutting, or transportation of, or caring for, trees (including logging operations),
 
-> but only if the helicopter does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970, or otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such use. In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.
+> but only if the helicopter or fixed-wing aircraft does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970, or otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such use. In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.
 
 #### (g) Exemption for air ambulances providing certain emergency medical transportation
 
@@ -161,7 +163,11 @@ No tax shall be imposed under this section or section 4271 on any air transporta
 
 No tax shall be imposed by this section or section 4271 on any air transportation exclusively for the purpose of skydiving.
 
-#### (i) Application of taxes
+#### (i) Exemption for seaplanes
+
+No tax shall be imposed by this section or section 4271 on any air transportation by a seaplane with respect to any segment consisting of a takeoff from, and a landing on, water, but only if the places at which such takeoff and landing occur have not received and are not receiving financial assistance from the Airport and Airways Trust Fund.
+
+#### (j) Application of taxes
 
 #### (1) In general
 
@@ -179,11 +185,11 @@ No tax shall be imposed by this section or section 4271 on any air transportatio
 
 &emsp;If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, §902(a), Dec. 12, 2003, 117 Stat. 2598.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 506; July 25, 1956, ch. 725, §§1, 4(b), 70 Stat. 644, 646; Pub. L. 86–75, §4, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(3), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(3), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §5(a), (b), June 28, 1962, 76 Stat. 115; Pub. L. 88–52, §3(a)(3), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(3), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §303(a), June 21, 1965, 79 Stat. 148; Pub. L. 91–258, title II, §203(a), May 21, 1970, 84 Stat. 238; Pub. L. 94–455, title XIX, §1904(a)(7), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 96–298, §1(b), July 1, 1980, 94 Stat. 829; Pub. L. 97–248, title II, §280(a), Sept. 3, 1982, 96 Stat. 564; Pub. L. 98–369, div. A, title X, §1018(b), July 18, 1984, 98 Stat. 1021; Pub. L. 99–514, title XVIII, §1878(c)(2), Oct. 22, 1986, 100 Stat. 2903; Pub. L. 100–223, title IV, §§402(a)(1), 404(a), (c), Dec. 30, 1987, 101 Stat. 1532, 1533; Pub. L. 101–239, title VII, §7503(a), Dec. 19, 1989, 103 Stat. 2362; Pub. L. 101–508, title XI, §11213(a)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–432, 1388–435; Pub. L. 103–272, §5(g)(2), July 5, 1994, 108 Stat. 1374; Pub. L. 104–188, title I, §1609(b), (d), (e), Aug. 20, 1996, 110 Stat. 1841, 1842; Pub. L. 105–2, §2(b)(1), Feb. 28, 1997, 111 Stat. 5; Pub. L. 105–34, title X, §1031(b)(1), (c)(1), (2), title XIV, §1435(a), title XVI, §1601(f)(4)(D), Aug. 5, 1997, 111 Stat. 929, 930, 1052, 1091; Pub. L. 108–176, title IX, §902(a), Dec. 12, 2003, 117 Stat. 2598; Pub. L. 109–59, title XI, §§11121(c), 11122(a), 11123(a), Aug. 10, 2005, 119 Stat. 1951, 1952; Pub. L. 109–135, title IV, §412(vv), Dec. 21, 2005, 119 Stat. 2640.)
 
-#### Adjustment of Passenger Air Transportation Excise Tax for Calendar Year 2004
+#### Adjustment of Passenger Air Transportation Excise Tax for Calendar Year 2006
 
-<i>For adjustment of tax on domestic segments of taxable air transportation under subsection (b) of this section and of passenger air transportation excise tax under subsection (c) of this section for calendar year 2004, see section 3.27 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of tax on domestic segments of taxable air transportation under subsection (b)</i><i>of this section and of passenger air transportation excise tax under subsection (c) of this section for calendar year 2006, see section 3.30 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -191,9 +197,25 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(1)(B)(ii
 
 The Airport and Airway Development Act of 1970, referred to in subsec. (f), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 to 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49 and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
-The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (i)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
+The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (j)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+
+2005—Subsec. (e)(1)(B)(i). Pub. L. 109–59, §11122(a)(1), inserted “(in the case of any airport described in clause (ii)(III), on flight segments of at least 100 miles)” after “by air”.
+
+Subsec. (e)(1)(B)(ii)(III). Pub. L. 109–59, §11122(a)(2), added subcl. (III).
+
+Subsec. (e)(4)(C). Pub. L. 109–135 substituted “imposed by subsection (b)” for “imposed subsection (b)”.
+
+Subsec. (f). Pub. L. 109–59, §11121(c), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “No tax shall be imposed under subsection (a) or (b) on air transportation by helicopter for the purpose of—
+
+&emsp;“(1) transporting individuals, equipment, or supplies in the exploration for, or the development or removal of, hard minerals, oil, or gas, or
+
+&emsp;“(2) the planting, cultivation, cutting, or transportation of, or caring for, trees (including logging operations),
+
+> but only if the helicopter does not take off from, or land at, a facility eligible for assistance under the Airport and Airway Development Act of 1970, or otherwise use services provided pursuant to section 44509 or 44913(b) or subchapter I of chapter 471 of title 49, United States Code, during such use. In the case of helicopter transportation described in paragraph (1), this subsection shall be applied by treating each flight segment as a distinct flight.”
+
+Subsecs. (i), (j). Pub. L. 109–59, §11123(a), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 2003—Subsec. (e)(4)(D). Pub. L. 108–176 added subpar. (D).
 
@@ -303,6 +325,14 @@ Subsec. (b). Act July 25, 1956, §1, substituted “taxable transportation (as d
 
 Subsec. (d). Act July 25, 1956, §4(b), substituted “Except as provided in section 4264, the” for “The”.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11121(d), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section \[amending this section and section 6420 of this title\] shall apply to fuel use or air transportation after September 30, 2005.”
+
+Pub. L. 109–59, title XI, §11122(b), Aug. 10, 2005, 119 Stat. 1952, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2005.”
+
+Amendment by section 11123(a) of Pub. L. 109–59 applicable to transportation beginning after Sept. 30, 2005, see section 11123(c) of Pub. L. 109–59, set out as a note under section 4083 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–176, title IX, §902(b), Dec. 12, 2003, 117 Stat. 2598, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate.”
@@ -333,7 +363,7 @@ In general.—Paragraph (3) of section 4261(e) of the Internal Revenue Code of 1
 
 &emsp;“(ii)
 
-Payments within controlled group.—For purposes of clause (i), any amount paid after June 11, 1997, and before October 1, 1997, by 1 member of a controlled group for a right which is described in such section 4261(e)(3) and is furnished by another member of such group after September 30, 1997, shall be treated as paid after September 30, 1997. For purposes of the preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of such Code shall be treated as members of a controlled group.”
+Payments within controlled group.—For purposes of clause (i), any amount paid after June 11, 1997, and before October 1, 1997, by 1 member of a controlled group for a right which is described in such section 4261(e)(3) and is furnished by another member of such group after September 30, 1997, shall be treated as paid after September 30, 1997. For purposes ofthe preceding sentence, all persons treated as a single employer under subsection (a) or (b) of section 52 of such Code shall be treated as members of a controlled group.”
 
 Section 1435(c)(1) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after September 30, 1997.”
 
@@ -399,7 +429,7 @@ Section 5(b) of Pub. L. 87–508 provided that the amendment made by that sectio
 
 #### Effective Date of 1956 Amendment
 
-Section 6 of act July 25, 1956, provided that: “The amendments made by this Act \[amending this section and sections 4262 to 4264, 4291, and 6421 of this title\] shall apply to amounts paid on or after the first day of the first month which begins more than sixty days after the date of the enactment of this Act \[July 25,1956\] for transportation commencing on or after such first day.”
+Section 6 of act July 25, 1956, provided that: “The amendments made by this Act \[amending this section and sections 4262 to 4264, 4291, and 6421 of this title\] shall apply to amounts paid on or after the first day of the first month which begins more than sixty days after the date of the enactment of this Act \[July 25, 1956\] for transportation commencing on or after such first day.”
 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 
@@ -408,10 +438,4 @@ Due date for deposits of taxes imposed by this section which would be required t
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4041, 4263, 4281, 4282, 6302, 6415, 7275, 9502 of this title; title 49 section 44940.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “by”.</i>
 

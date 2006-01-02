@@ -14,7 +14,7 @@ Funding Assistance.—The Secretary of Defense may provide funds to the Governor
 
 Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
 
-(2)(A) A member of the National Guard serving on full-time National Guard duty under orders authorized under paragraph (1) shall participate in the training required under section 502(a) of this title in addition to the duty performed for the purpose authorized under that paragraph. The pay, allowances, and other benefits of the member while participating in the training shall be the same as those to which the member is entitled while performing duty for the purpose of carrying out drug interdiction and counter-drug activities. The member is not entitled to additional pay, allowances, or other benefits for participation in training required under section 502(a)(1) of this title.
+(2)(A) A member of the National Guard serving on full-time National Guard duty under ordersauthorized under paragraph (1) shall participate in the training required under section 502(a) of this title in addition to the duty performed for the purpose authorized under that paragraph. The pay, allowances, and other benefits of the member while participating in the training shall be the same as those to which the member is entitled while performing duty for the purpose of carrying out drug interdiction and counter-drug activities. The member is not entitled to additional pay, allowances, or other benefits for participation in training required under section 502(a)(1) of this title.
 
 (B) Appropriations available for the Department of Defense for drug interdiction and counter-drug activities may be used for paying costs associated with a member's participation in training described in subparagraph (A). The appropriation shall be reimbursed in full, out of appropriations available for paying those costs, for the amounts paid. Appropriations available for paying those costs shall be available for making the reimbursements.
 
@@ -70,7 +70,7 @@ End Strength Limitation.—(1) Except as provided in paragraph (2), at the end o
 
 &emsp;(A) on full-time National Guard duty under section 502(f) of this title to perform drug interdiction or counter-drug activities pursuant to an order to duty; or
 
-&emsp;(B) on duty under State authority to perform drug interdiction or counter-drug activities pursuant to an order to duty with State pay and allowances being reimbursed with funds provided under subsection (a)(1).
+&emsp;(B) on duty under State authority to perform drug interdiction or counter-drug activities pursuant to an order to duty with Statepay and allowances being reimbursed with funds provided under subsection (a)(1).
 
 (2) The Secretary of Defense may increase the end strength authorized under paragraph (1) by not more than 20 percent for any fiscal year if the Secretary determines that such an increase is necessary in the national security interests of the United States.
 
@@ -96,7 +96,7 @@ Definitions.—For purposes of this section:
 
 &emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
 
-&emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, theCommanding General of the National Guard of the District of Columbia.
+&emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
 
 &emsp;(3) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 

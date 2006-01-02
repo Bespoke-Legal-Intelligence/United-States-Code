@@ -104,7 +104,7 @@ Any Task Force member who is an officer or employee of the United States, the St
 
 #### (1) Travel expenses
 
-&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, inthe same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
+&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
 
 #### (2) Limitation on spending authority
 

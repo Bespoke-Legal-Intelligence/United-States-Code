@@ -50,7 +50,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the duration of the franchise; and
 
-&emsp;&emsp;&emsp;(iii) that the franchisor may fail to renew the franchise at the conclusion of the term stated in the franchise based upon a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located if the requirements of section 2802(b)(2)(E)(ii) and (iii) of this title are satisfied.
+&emsp;&emsp;&emsp;(iii) that the franchisor may fail to renew the franchise at the conclusion of the term stated in the franchise based upon a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets inthe relevant geographic market area in which the marketing premises are located if the requirements of section 2802(b)(2)(E)(ii) and (iii) of this title are satisfied.
 
 #### (c) Nonrenewal upon meeting statutory notification requirements
 

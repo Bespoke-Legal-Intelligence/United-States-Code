@@ -4,7 +4,3 @@ In addition to the deductions provided in part VI (sec. 161 and following), ther
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 72.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 535 of this title.
-

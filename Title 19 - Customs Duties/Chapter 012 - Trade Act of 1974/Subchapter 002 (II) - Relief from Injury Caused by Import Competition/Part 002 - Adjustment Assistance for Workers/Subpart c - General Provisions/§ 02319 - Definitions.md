@@ -40,7 +40,7 @@ For purposes of this part—
 
 &emsp;(15) The term “benefit period” means, with respect to an individual—
 
-&emsp;&emsp;(A) the benefit year and any ensuing period, as determined under applicable State law, during which the individual is eligiblefor regular compensation, additional compensation, or extended compensation, or
+&emsp;&emsp;(A) the benefit year and any ensuing period, as determined under applicable State law, during which the individual is eligible for regular compensation, additional compensation, or extended compensation, or
 
 &emsp;&emsp;(B) the equivalent to such a benefit year or ensuing period provided for under the applicable Federal unemployment insurance law.
 

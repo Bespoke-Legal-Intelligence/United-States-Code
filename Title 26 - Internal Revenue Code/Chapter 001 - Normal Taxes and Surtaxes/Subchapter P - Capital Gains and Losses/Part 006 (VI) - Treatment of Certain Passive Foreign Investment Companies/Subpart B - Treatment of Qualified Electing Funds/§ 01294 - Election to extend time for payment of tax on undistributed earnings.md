@@ -4,15 +4,11 @@
 
 #### (1) In general
 
-&emsp;At the election of the taxpayer, the time for payment of any undistributed PFIC earningstax liability of the taxpayer for the taxable year shall be extended to the extent and subject to the limitations provided in this section.
+&emsp;At the election of the taxpayer, the time for payment of any undistributed PFIC earnings tax liability of the taxpayer for the taxable year shall be extended to the extent and subject to the limitations provided in this section.
 
-#### (2) Election not permitted where amounts otherwise includible under section 551 or 951
+#### (2) Election not permitted where amounts otherwise includible under section 951
 
-&emsp;The taxpayer may not make an election under paragraph (1) with respect to the undistributed PFIC earnings tax liability attributable to a qualified electing fund for the taxable year if—
-
-&emsp;&emsp;(A) any amount is includible in the gross income of the taxpayer under section 551 with respect to such fund for such taxable year, or
-
-&emsp;&emsp;(B) any amount is includible in the gross income of the taxpayer under section 951 with respect to such fund for such taxable year.
+&emsp;The taxpayer may not make an election under paragraph (1) with respect to the undistributed PFIC earnings tax liability attributable to a qualified electing fund for the taxable year if any amount is includible in the gross income of the taxpayer under section 951 with respect to such fund for such taxable year.
 
 #### (b) Definitions
 
@@ -76,9 +72,15 @@ For purposes of this section and section 1293, any loan by a qualified electing 
 
 &emsp;&emsp;<b>For provisions providing for interest for the period of the extension under this section, see section 6601.</b>
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2570; amended Pub. L. 100–647, title I, §1012(p)(4), (8), (25), (34), Nov. 10, 1988, 102 Stat. 3515, 3517, 3519, 3522.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2570; amended Pub. L. 100–647, title I, §1012(p)(4), (8), (25), (34), Nov. 10, 1988, 102 Stat. 3515, 3517, 3519, 3522; Pub. L. 108–357, title IV, §413(c)(25), Oct. 22, 2004, 118 Stat. 1509.)
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–357 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The taxpayer may not make an election under paragraph (1) with respect to the undistributed PFIC earnings tax liability attributable to a qualified electing fund for the taxable year if—
+
+&emsp;“(A) any amount is includible in the gross income of the taxpayer under section 551 with respect to such fund for such taxable year, or
+
+&emsp;“(B) any amount is includible in the gross income of the taxpayer under section 951 with respect to such fund for such taxable year.”
 
 1988—Subsec. (c)(2). Pub. L. 100–647, §1012(p)(4), (34), substituted “Transfers” for “Dispositions” in heading and “is transferred” for “is disposed of” in subpar. (A), and in closing provisions substituted “such transfer” for “such disposition” in two places and inserted at end “To the extent provided in regulations, the preceding sentence shall not apply in the case of a transfer in a transaction with respect to which gain or loss is not recognized (in whole or in part), and the transferee in such transaction shall succeed to the treatment under this section of the transferor.”
 
@@ -86,15 +88,15 @@ Subsec. (f). Pub. L. 100–647, §1012(p)(25), added subsec. (f).
 
 Subsec. (g). Pub. L. 100–647, §1012(p)(8), added subsec. (g).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 
 Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6503 of this title.
 

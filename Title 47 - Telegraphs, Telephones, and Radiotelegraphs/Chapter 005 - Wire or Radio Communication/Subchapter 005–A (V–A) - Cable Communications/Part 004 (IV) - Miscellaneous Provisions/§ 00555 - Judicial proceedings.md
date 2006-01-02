@@ -16,7 +16,7 @@ The court may award any appropriate relief consistent with the provisions of the
 
 (1) Notwithstanding any other provision of law, any civil action challenging the constitutionality of section 534 or 535 of this title or any provision thereof shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28.
 
-(2) Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under paragraph (1) holding section 534 or 535 of this title or any provision thereof unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any suchappeal shall be filed not more than 20 days after entry of such judgment, decree, or order.
+(2) Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under paragraph (1) holding section 534 or 535 of this title or any provision thereof unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.
 
 (June 19, 1934, ch. 652, title VI, §635, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2800; amended Pub. L. 102–385, §§7(a)(2), 23, 24(b), Oct. 5, 1992, 106 Stat. 1483, 1500, 1501.)
 

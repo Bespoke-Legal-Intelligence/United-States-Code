@@ -6,7 +6,7 @@ All persons within the jurisdiction of the United States shall have the same rig
 
 #### (b) “Make and enforce contracts” defined
 
-For purposes of this section, the term “make and enforce contracts” includes the making, performance, modification, and termination of contracts, and the enjoyment of all benefits, privileges, terms, and conditions of the contractual relationship.
+For purposes of this section, the term “make and enforce contracts” includes the making,performance, modification, and termination of contracts, and the enjoyment of all benefits, privileges, terms, and conditions of the contractual relationship.
 
 #### (c) Protection against impairment
 

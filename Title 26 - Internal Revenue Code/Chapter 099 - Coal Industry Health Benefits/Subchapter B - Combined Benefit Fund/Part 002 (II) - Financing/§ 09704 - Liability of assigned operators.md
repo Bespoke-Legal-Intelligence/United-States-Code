@@ -140,7 +140,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (iv) Plan years
 
-&emsp;&emsp;&emsp;Premiums under subsection (a) shall be reduced for the first plan year for whichamounts described in clause (i) or (ii) are available and for any succeeding plan year until such amounts are exhausted.
+&emsp;&emsp;&emsp;Premiums under subsection (a) shall be reduced for the first plan year for which amounts described in clause (i) or (ii) are available and for any succeeding plan year until such amounts are exhausted.
 
 #### (E) Allocations of contributions and refunds
 
@@ -171,10 +171,6 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9703, 9705, 9706, 9707 of this title; title 30 section 1232.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commissioner”.</i>
 

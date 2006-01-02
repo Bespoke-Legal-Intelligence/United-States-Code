@@ -10,7 +10,7 @@ Each Member-elect (other than an incumbent Member reelected to the ensuing Congr
 
 #### (c) Orientation programs for new Members
 
-With the approval of the majority leader (in the case of a Member or Member-elect of the majority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (a) and (b) of this sectionshall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members <sup>1</sup> in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
+With the approval of the majority leader (in the case of a Member or Member-elect of themajority party) or the minority leader (in the case of a Member or Member-elect of the minority party), subsections (a) and (b) of this section shall apply with respect to the attendance of a Member or Member-elect at a program conducted by the Committee on House Administration for the orientation of new members <sup>1</sup> in the same manner as such provisions apply to the attendance of the Member or Member-elect at the organizational caucus or conference.
 
 (Pub. L. 94–59, title II, §201, July 25, 1975, 89 Stat. 282; Pub. L. 108–447, div. G, title I, §107(b)(2), (c)(2), Dec. 8, 2004, 118 Stat. 3176.)
 

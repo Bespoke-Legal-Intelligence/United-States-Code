@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) United States policy on countertrade and offsets, in light of current trends in international countertrade and offsets and the impact of those trends on the United States economy;
 
-&emsp;&emsp;&emsp;(ii) the use of countertrade and offsets in United States exports and bilateral United States foreign economic assistance programs; and
+&emsp;&emsp;&emsp;(ii) the use of countertrade and offsets in United States exports and bilateral UnitedStates foreign economic assistance programs; and
 
 &emsp;&emsp;&emsp;(iii) the need for and the feasibility of negotiating with other countries, through the Organization for Economic Cooperation and Development and other appropriate international organizations, to reach agreements on the use of countertrade and offsets; and
 

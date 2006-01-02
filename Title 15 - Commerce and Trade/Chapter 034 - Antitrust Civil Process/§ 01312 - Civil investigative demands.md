@@ -48,7 +48,7 @@ Each such demand shall—
 
 &emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this chapter.
 
-(2) Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law\(other than this chapter) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege, including without limitation any right or privilege which may be invoked to resist discovery of trial preparation materials, to which the person making such disclosure may be entitled.
+(2) Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this chapter) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege, including without limitation any right or privilege which may be invoked to resist discovery of trial preparation materials, to which the person making such disclosure may be entitled.
 
 #### (d) Service; jurisdiction
 
@@ -74,7 +74,7 @@ Each such demand shall—
 
 #### (f) Proof of service
 
-A verified return by the individual serving any such demand or petition setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by the return post office receipt of delivery of such demand.
+A verified return by the individual serving any such demand or petition setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by thereturn post office receipt of delivery of such demand.
 
 #### (g) Sworn certificates
 
@@ -104,7 +104,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 (8) Any person appearing for oral examination pursuant to a demand served under this section shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
 
-(Pub. L. 87–664, §3, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §102, Sept. 30, 1976, 90 Stat. 1384; Pub. L. 96–349, §2(b)(1)–(3), Sept. 12, 1980, 94 Stat. 1154; Pub. L. 103–438, §3(e)(1)(B), Nov. 2, 1994, 108 Stat. 4598.)
+(Pub. L. 87–664, §3, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §102, Sept. 30, 1976, 90 Stat.1384; Pub. L. 96–349, §2(b)(1)–(3), Sept. 12, 1980, 94 Stat. 1154; Pub. L. 103–438, §3(e)(1)(B), Nov. 2, 1994, 108 Stat. 4598.)
 
 #### References in Text
 

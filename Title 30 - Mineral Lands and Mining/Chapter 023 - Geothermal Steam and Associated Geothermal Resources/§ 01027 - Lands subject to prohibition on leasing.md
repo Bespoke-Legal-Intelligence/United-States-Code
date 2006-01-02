@@ -1,6 +1,0 @@
-### §1027. Lands subject to prohibition on leasing
-
-The Secretary shall not issue any lease under this chapter on those lands subject to the prohibition provided under section 226–3 of this title.
-
-(Pub. L. 91–581, §29, as added Pub. L. 100–443, §5(d), Sept. 22, 1988, 102 Stat. 1769.)
-

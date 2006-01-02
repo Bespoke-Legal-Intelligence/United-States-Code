@@ -6,7 +6,7 @@ Applicability.—This section applies to registered nurses appointed under this 
 
 (b) 36/40
 
-Work Schedule.—(1)(A) Subject to paragraph (2), if the Secretary determines it to be necessary in order to obtain or retain the services of registered nurses at any Department health-care facility, the Secretary may provide, in the case of nurses employed at such facility, that such nurses who work three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.
+Work Schedule.—(1)(A) Subject to paragraph (2), if the Secretary determines it to be necessary in order to obtain or retain the services of registered nurses at any Departmenthealth-care facility, the Secretary may provide, in the case of nurses employed at such facility, that such nurses who work three regularly scheduled 12-hour tours of duty within a work week shall be considered for all purposes to have worked a full 40-hour basic work week.
 
 (B) A nurse who works under the authority in subparagraph (A) shall be considered a 0.90 full-time equivalent employee in computing full-time equivalent employees for the purposes of determining compliance with personnel ceilings.
 

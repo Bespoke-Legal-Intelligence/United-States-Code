@@ -1,6 +1,6 @@
 ### §2501. Congressional declaration of purpose
 
-(a) The Congress of the United States declares that it is the policy of the United States and the purpose of this chapter to promote world peace and friendship through a Peace Corps, which shall make available to interested countries and areas men and women of the United States qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower, particularly in meeting the basic needs of those living in the poorest areas of such countries, and tohelp promote a better understanding of the American people on the part of the peoples served and a better understanding of other peoples on the part of the American people.
+(a) The Congress of the United States declares that it is the policy of the United States and the purpose of this chapter to promote world peace and friendship through a Peace Corps, which shall make available to interested countries and areas men and women of the United States qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower, particularly in meeting the basic needs of those living in the poorest areas of such countries, and to help promote a better understanding of the American people on the part of the peoples served and a better understanding of other peoples on the part of the American people.
 
 (b) The Congress declares that it is the policy of the United States and a purpose of the Peace Corps to maintain, to the maximum extent appropriate and consistent with programmatic and fiscal considerations, a volunteer corps of at least 10,000 individuals.
 
@@ -66,7 +66,7 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U
 
 Peace Corps
 
-1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continued in existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
+1–101. The Peace Corps, which was established as an agency in the Department of State pursuant to Executive Order No. 10924 of March 1, 1961 (26 FR 1789) \[formerly set out under this section\], which was continuedin existence in that Department under the Peace Corps Act (the “Act”) \[this chapter\] pursuant to Section 102 of Executive Order No. 11041 of August 6, 1962 (27 FR 7859) \[formerly set out under this section\], and which was transferred to and continued as a component of ACTION \[now Corporation for National and Community Service\] by Executive Order No. 11603 of June 30, 1971 (36 FR 12675) \[formerly set out under this section\], shall be an agency within ACTION pursuant to the provisions of this Order.
 
 1–102. All references to the “Director” in Part 1–1 of this Order shall refer to the Director of the Peace Corps for whom provision is made in Section 4(a) of the Act (22 U.S.C. 2503).
 
@@ -138,7 +138,7 @@ Director of ACTION
 
 (b) Provide for the development and operation of a clearinghouse for information on Government programs designed to foster voluntary action.
 
-(c) Initiate proposals for the greater and more effective application of voluntary action in connection with Federal programs, and coordinate, as consistent with law, Federal activities involving such action.
+(c) Initiate proposals for the greater and more effective application of voluntary action in connection withFederal programs, and coordinate, as consistent with law, Federal activities involving such action.
 
 (d) Make grants of seed money, as authorized by law, for stimulating the development or deployment of innovative voluntary action programs directed toward community problems.
 

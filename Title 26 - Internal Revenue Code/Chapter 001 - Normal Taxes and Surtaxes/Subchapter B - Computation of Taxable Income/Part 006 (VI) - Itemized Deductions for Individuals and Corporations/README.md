@@ -22,8 +22,12 @@
 | [178\.](%C2%A7%2000178%20-%20Amortization%20of%20cost%20of%20acquiring%20a%20lease.md) | Amortization of cost of acquiring a lease. |
 | [179\.](%C2%A7%2000179%20-%20Election%20to%20expense%20certain%20depreciable%20business%20assets.md) | Election to expense certain depreciable business assets. |
 | [179A.](%C2%A7%2000179A%20-%20Deduction%20for%20clean-fuel%20vehicles%20and%20certain%20refueling%20property.md) | Deduction for clean-fuel vehicles and certain refueling property. |
+| [179B.](%C2%A7%2000179B%20-%20Deduction%20for%20capital%20costs%20incurred%20in%20complying%20with%20Environmental%20Protection%20Agency%20sulfur%20regulations.md) | Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations. |
+| [179C.](%C2%A7%2000179C%20-%20Election%20to%20expense%20certain%20refineries.md) | Election to expense certain refineries. |
+| [179D.](%C2%A7%2000179D%20-%20Energy%20efficient%20commercial%20buildings%20deduction.md) | Energy efficient commercial buildings deduction. |
 | [180\.](%C2%A7%2000180%20-%20Expenditures%20by%20farmers%20for%20fertilizer%2C%20etc.md) | Expenditures by farmers for fertilizer, etc. |
-| \[181, 182. | Repealed.\] |
+| [181\.](%C2%A7%2000181%20-%20Treatment%20of%20certain%20qualified%20film%20and%20television%20productions.md) | Treatment of certain qualified film and television productions. |
+| \[182. | Repealed.\] |
 | [183\.](%C2%A7%2000183%20-%20Activities%20not%20engaged%20in%20for%20profit.md) | Activities not engaged in for profit. |
 | \[184, 185. | Repealed.\] |
 | [186\.](%C2%A7%2000186%20-%20Recoveries%20of%20damages%20for%20antitrust%20violations%2C%20etc.md) | Recoveries of damages for antitrust violations, etc. |
@@ -37,16 +41,21 @@
 | :--- | ---: |
 | [192\.](%C2%A7%2000192%20-%20Contributions%20to%20black%20lung%20benefit%20trust.md) | Contributions to black lung benefit trust. |
 | [193\.](%C2%A7%2000193%20-%20Tertiary%20injectants.md) | Tertiary injectants. |
-| [194\.](%C2%A7%2000194%20-%20Amortization%20of%20reforestation%20expenditures.md) | Amortization of reforestation expenditures. |
+| [194\.](%C2%A7%2000194%20-%20Treatment%20of%20reforestation%20expenditures.md) | Treatment of reforestation expenditures. |
 | [194A.](%C2%A7%2000194A%20-%20Contributions%20to%20employer%20liability%20trusts.md) | Contributions to employer liability trusts. |
 | [195\.](%C2%A7%2000195%20-%20Start-up%20expenditures.md) | Start-up expenditures. |
 | [196\.](%C2%A7%2000196%20-%20Deduction%20for%20certain%20unused%20business%20credits.md) | Deduction for certain unused business credits. |
 | [197\.](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md) | Amortization of goodwill and certain other intangibles. |
 | [198\.](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md) | Expensing of environmental remediation costs. |
+| [199\.](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md) | Income attributable to domestic production activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–58, title XIII, §§1323(b)(4), 1331(c), Aug. 8, 2005, 119 Stat. 1015, 1024, added items 179C and 179D.
+
+2004—Pub. L. 108–357, title I, §102(d)(8), title II, §244(b), title III, §§322(c)(5), 338(b)(6), Oct. 22, 2004, 118 Stat. 1429, 1446, 1475, 1481, added items 179B, 181, and 199, and substituted “Treatment” for “Amortization” in item 194.
 
 1997—Pub. L. 105–34, title IX, §941(b), Aug. 5, 1997, 111 Stat. 885, added item 198.
 
@@ -96,10 +105,6 @@ Pub. L. 96–223, title II, §251(a)(2)(A), Apr. 2, 1980, 94 Stat. 287, added it
 
 1954—Act Sept. 1, 1954, ch. 1206, title II, §210(b), 68 Stat. 1097, added item 176.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 62, 241, 848 of this title.
-
 <i><sup>1</sup></i><i> Section 191 was repealed by Pub. L. 97–34 without corresponding amendment of part analysis.</i>
 
 
@@ -127,8 +132,11 @@ This part is referred to in sections 62, 241, 848 of this title.
 - [&sect; 00178 - Amortization of cost of acquiring a lease](%C2%A7%2000178%20-%20Amortization%20of%20cost%20of%20acquiring%20a%20lease.md)
 - [&sect; 00179 - Election to expense certain depreciable business assets](%C2%A7%2000179%20-%20Election%20to%20expense%20certain%20depreciable%20business%20assets.md)
 - [&sect; 00179A - Deduction for clean-fuel vehicles and certain refueling property](%C2%A7%2000179A%20-%20Deduction%20for%20clean-fuel%20vehicles%20and%20certain%20refueling%20property.md)
+- [&sect; 00179B - Deduction for capital costs incurred in complying with Environmental Protection Agency sulfur regulations](%C2%A7%2000179B%20-%20Deduction%20for%20capital%20costs%20incurred%20in%20complying%20with%20Environmental%20Protection%20Agency%20sulfur%20regulations.md)
+- [&sect; 00179C - Election to expense certain refineries](%C2%A7%2000179C%20-%20Election%20to%20expense%20certain%20refineries.md)
+- [&sect; 00179D - Energy efficient commercial buildings deduction](%C2%A7%2000179D%20-%20Energy%20efficient%20commercial%20buildings%20deduction.md)
 - [&sect; 00180 - Expenditures by farmers for fertilizer, etc](%C2%A7%2000180%20-%20Expenditures%20by%20farmers%20for%20fertilizer%2C%20etc.md)
-- [&sect; 00181 - Repealed. Pub. L. 88&#8211;272, title II, &sect;203(a)(3) (B), Feb. 26, 1964, 78 Stat. 34](%C2%A7%2000181%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93272%2C%20title%20II%2C%20%C2%A7203%28a%29%283%29%20%28B%29%2C%20Feb.%2026%2C%201964%2C%2078%20Stat.%2034.md)
+- [&sect; 00181 - Treatment of certain qualified film and television productions](%C2%A7%2000181%20-%20Treatment%20of%20certain%20qualified%20film%20and%20television%20productions.md)
 - [&sect; 00182 - Repealed. Pub. L. 99&#8211;514, title IV, &sect;402(a), Oct. 22, 1986, 100 Stat. 2221](%C2%A7%2000182%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20IV%2C%20%C2%A7402%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202221.md)
 - [&sect; 00183 - Activities not engaged in for profit](%C2%A7%2000183%20-%20Activities%20not%20engaged%20in%20for%20profit.md)
 - [&sect; 00184 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(12), Nov. 5, 1990, 104 Stat. 1388&#8211;520](%C2%A7%2000184%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%2812%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93520.md)
@@ -141,9 +149,10 @@ This part is referred to in sections 62, 241, 848 of this title.
 - [&sect; 00191 - Repealed. Pub. L. 97&#8211;34, title II, &sect;212(d)(1), Aug. 13, 1981, 95 Stat. 239](%C2%A7%2000191%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9334%2C%20title%20II%2C%20%C2%A7212%28d%29%281%29%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20239.md)
 - [&sect; 00192 - Contributions to black lung benefit trust](%C2%A7%2000192%20-%20Contributions%20to%20black%20lung%20benefit%20trust.md)
 - [&sect; 00193 - Tertiary injectants](%C2%A7%2000193%20-%20Tertiary%20injectants.md)
-- [&sect; 00194 - Amortization of reforestation expenditures](%C2%A7%2000194%20-%20Amortization%20of%20reforestation%20expenditures.md)
+- [&sect; 00194 - Treatment of reforestation expenditures](%C2%A7%2000194%20-%20Treatment%20of%20reforestation%20expenditures.md)
 - [&sect; 00194A - Contributions to employer liability trusts](%C2%A7%2000194A%20-%20Contributions%20to%20employer%20liability%20trusts.md)
 - [&sect; 00195 - Start-up expenditures](%C2%A7%2000195%20-%20Start-up%20expenditures.md)
 - [&sect; 00196 - Deduction for certain unused business credits](%C2%A7%2000196%20-%20Deduction%20for%20certain%20unused%20business%20credits.md)
 - [&sect; 00197 - Amortization of goodwill and certain other intangibles](%C2%A7%2000197%20-%20Amortization%20of%20goodwill%20and%20certain%20other%20intangibles.md)
 - [&sect; 00198 - Expensing of environmental remediation costs](%C2%A7%2000198%20-%20Expensing%20of%20environmental%20remediation%20costs.md)
+- [&sect; 00199 - Income attributable to domestic production activities](%C2%A7%2000199%20-%20Income%20attributable%20to%20domestic%20production%20activities.md)

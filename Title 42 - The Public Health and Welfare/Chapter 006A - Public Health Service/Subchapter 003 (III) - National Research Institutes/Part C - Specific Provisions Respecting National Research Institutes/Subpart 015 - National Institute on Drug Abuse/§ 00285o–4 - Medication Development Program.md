@@ -46,7 +46,7 @@ In carrying out the activities described in subsection (a) of this section, the 
 
 #### (d) “Pharmacotherapeutics” defined
 
-For purposes of this section, the term “pharmacotherapeutics” means medications used to treat the symptoms and disease of drug abuse, including medications to—
+For purposes of this section, the term “pharmacotherapeutics” means medicationsused to treat the symptoms and disease of drug abuse, including medications to—
 
 &emsp;(1) block the effects of abused drugs;
 

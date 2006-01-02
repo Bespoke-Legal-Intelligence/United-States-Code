@@ -110,7 +110,7 @@ Nothing in this chapter shall be construed to permit the Secretary to establish 
 
 #### (h) Change of accrediting agency
 
-The Secretary shall not recognize the accreditation of any otherwise eligible institution of higher education if the institution of higher education is in the process of changing its accrediting agency or association, unless the eligible institution submits to the Secretary all materials relating to the prior accreditation, including materials demonstrating reasonable cause for changing the accrediting agency or association.
+The Secretary shall not recognize the accreditation of any otherwise eligible institution ofhigher education if the institution of higher education is in the process of changing its accrediting agency or association, unless the eligible institution submits to the Secretary all materials relating to the prior accreditation, including materials demonstrating reasonable cause for changing the accrediting agency or association.
 
 #### (i) Dual accreditation rule
 

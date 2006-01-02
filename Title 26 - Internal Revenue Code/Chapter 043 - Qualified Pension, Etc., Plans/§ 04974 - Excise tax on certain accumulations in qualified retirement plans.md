@@ -34,11 +34,11 @@ If the taxpayer establishes to the satisfaction of the Secretary that—
 
 > the Secretary may waive the tax imposed by subsection (a) for the taxable year.
 
-(Added Pub. L. 93–406, title II, §2002(e), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(i)(1), Nov. 6, 1978, 92 Stat. 2808; Pub. L. 99–514, title XI, §1121(a)(1), title XVIII, §1852(a)(7)(B), (C), Oct. 22, 1986, 100 Stat. 2464, 2866.)
+(Added Pub. L. 93–406, title II, §2002(e), Sept. 2, 1974, 88 Stat. 967; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834;Pub. L. 95–600, title I, §157(i)(1), Nov. 6, 1978, 92 Stat. 2808; Pub. L. 99–514, title XI, §1121(a)(1), title XVIII, §1852(a)(7)(B), (C), Oct. 22, 1986, 100 Stat. 2464, 2866.)
 
 #### Amendments
 
-1986—Pub. L. 99–514, §1121(a)(1), amended section generally, substituting provisions imposing an excise taxon certain accumulations in qualified retirement plans for provisions imposing an excise tax on certain accumulations in individual retirement accounts and annuities.
+1986—Pub. L. 99–514, §1121(a)(1), amended section generally, substituting provisions imposing an excise tax on certain accumulations in qualified retirement plans for provisions imposing an excise tax on certain accumulations in individual retirement accounts and annuities.
 
 Subsec. (a). Pub. L. 99–514, §1852(a)(7)(B), substituted “section 408(a)(6) or 408(b)(3)” for “section 408(a)(6) or (7), or 408(b)(3) or (4)”.
 
@@ -65,8 +65,4 @@ Section effective Jan. 1, 1975, see section 2002(i)(2) of Pub. L. 93–406, set 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25B, 72, 408, 457, 6058 of this title; title 23 section 181; title 49 section 41762.
 

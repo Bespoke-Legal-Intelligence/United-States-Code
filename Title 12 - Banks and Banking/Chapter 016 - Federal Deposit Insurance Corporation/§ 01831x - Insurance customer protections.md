@@ -34,7 +34,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (A) In general
 
-&emsp;&emsp;Requirements that the following disclosures be made orally and in writing beforethe completion of the initial sale and, in the case of clause (iii), at the time of application for an extension of credit:
+&emsp;&emsp;Requirements that the following disclosures be made orally and in writing before the completion of the initial sale and, in the case of clause (iii), at the time of application for an extension of credit:
 
 #### (i) Uninsured status
 
@@ -114,7 +114,7 @@ The regulations prescribed pursuant to subsection (a) of this section shall incl
 
 #### (C) Qualification and licensing requirements
 
-&emsp;&emsp;Standards prohibiting any depository institution from permitting any person to sellor offer for sale any insurance product in any part of any office of the institution, or on behalf of the institution, unless such person is appropriately qualified and licensed.
+&emsp;&emsp;Standards prohibiting any depository institution from permitting any person to sell or offer for sale any insurance product in any part of any office of the institution, or on behalf of the institution, unless such person is appropriately qualified and licensed.
 
 #### (e) Domestic violence discrimination prohibition
 
@@ -178,7 +178,7 @@ The Federal banking agencies shall jointly establish a consumer complaint mechan
 
 #### (iii) Federal preemption and ability of States to override Federal preemption
 
-&emsp;&emsp;&emsp;If the Federal agencies referred to in clause (i) jointly determine that any provision of the regulations prescribed under this section affords greater protections than a comparable State law, rule, regulation, order, or interpretation, those agencies shall send a written preemption notice to the appropriate State regulatory authority to notify the State that the Federal provision will preempt the State provision and will become applicable unless, not later than 3 years after the date ofsuch notice, the State adopts legislation to override such preemption.
+&emsp;&emsp;&emsp;If the Federal agencies referred to in clause (i) jointly determine that any provision of the regulations prescribed under this section affords greater protections than a comparable State law, rule, regulation, order, or interpretation, those agencies shall send a written preemption notice to the appropriate State regulatory authority to notify the State that the Federal provision will preempt the State provision and will become applicable unless, not later than 3 years after the date of such notice, the State adopts legislation to override such preemption.
 
 #### (h) Non-discrimination against non-affiliated agents
 

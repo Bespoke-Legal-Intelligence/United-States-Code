@@ -38,5 +38,5 @@ June 3, 1916, ch. 134, §69; restated July 11, 1919, ch. 8 (20th par. under “N
 
 #### Effective Date of 1961 Amendment
 
-Section 6 of Pub. L. 87–378 provided that: “The amendments made by sections 3, 4, and 5 of this Act \[amending this section and sections 3261 and 8261 of Title 10, Armed Forces\] shall not affect any enlistment, reenlistment, or appointment entered into or made before the effective date of this Act \[Oct. 4, 1961\].”
+Section 6 of Pub. L. 87–378 provided that: “The amendments made by sections 3, 4, and 5 of this Act \[amending this section and sections 3261 and 8261 ofTitle 10, Armed Forces\] shall not affect any enlistment, reenlistment, or appointment entered into or made before the effective date of this Act \[Oct. 4, 1961\].”
 

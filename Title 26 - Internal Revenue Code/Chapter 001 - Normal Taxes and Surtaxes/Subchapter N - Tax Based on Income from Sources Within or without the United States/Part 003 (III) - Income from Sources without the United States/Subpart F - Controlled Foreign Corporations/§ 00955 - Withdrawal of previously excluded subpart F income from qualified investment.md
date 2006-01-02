@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(B) other assets which are used in connection with the performance of services directly related to the use of any such aircraft or vessel.
 
-> &emsp;Such term includes, but is not limited to, investments by a controlled foreign corporation in stock or obligations of another controlled foreign corporation which is a related person (within the meaning of section 954(d)(3)) and which holds assets described in the precedingsentence, but only to the extent that such assets are so used.
+> &emsp;Such term includes, but is not limited to, investments by a controlled foreign corporation in stock or obligations of another controlled foreign corporation which is a related person (within the meaning of section 954(d)(3)) and which holds assets described in the preceding sentence, but only to the extent that such assets are so used.
 
 #### (2) Qualified investments by related persons
 
@@ -84,9 +84,5 @@ Amendment by Pub. L. 99–514 applicable to taxable years of foreign corporation
 
 #### Effective Date
 
-Section 602(f) of Pub. L. 94–12, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section, amending sections 851, 902, 951, and 954 of this title, and repealing section 963 and former section 955 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 902, 951, 964, 970 of this title.
+Section 602(f) of Pub. L. 94–12, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section, amending sections 851, 902, 951, and 954 of thistitle, and repealing section 963 and former section 955 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1975, and to taxable years of United States shareholders (within the meaning of 951(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) within which or with which such taxable years of such foreign corporations end.”
 

@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Reasonable cause
 
-&emsp;For purposes of this subsection, the time prescribed by regulations to furnish information or maintain records (and the beginning of the 90-day period after notice by the Secretary) shall be treated as not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed for failure to furnish the information or maintain the records.
+&emsp;For purposes of this subsection, the time prescribed by regulations to furnish information or maintain records (and the beginning ofthe 90-day period after notice by the Secretary) shall be treated as not earlier than the last day on which (as shown to the satisfaction of the Secretary) reasonable cause existed for failure to furnish the information or maintain the records.
 
 #### (e) Enforcement of requests for certain records
 
@@ -237,8 +237,4 @@ General Rule.—The amendments made by section 7403 of the Revenue Reconciliatio
 “(b)
 
 Continuation of Old Failures.—In the case of any failure with respect to a taxable year beginning on or before July 10, 1989, which first occurs on or before the date of the enactment of this Act \[Nov. 5, 1990\] but which continues after such date of enactment, section 6038A(d)(2) of the Internal Revenue Code of 1986 (as amended by subsection (c) of such section 7403) shall apply for purposes of determining the amount of the penalty imposed for 30-day periods referred to in such section 6038A(d)(2) which begin after the date of the enactment of this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6038C, 6048, 6501 of this title.
 

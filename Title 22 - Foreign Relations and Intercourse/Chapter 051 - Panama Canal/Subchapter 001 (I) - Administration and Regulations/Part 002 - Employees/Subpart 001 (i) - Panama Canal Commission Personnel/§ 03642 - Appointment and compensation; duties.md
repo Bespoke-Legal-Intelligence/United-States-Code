@@ -22,7 +22,7 @@ In the case of an individual who is an officer or employee of the Commission on 
 
 #### Amendments
 
-1998—Subsec. (c). Pub. L. 105–261, §3512(a)(1)(C), which directed substitution of “that date” for “the day before the date of enactment”, was executed by making thesubstitution for “the day before that date of enactment” before “except” in introductory provisions to reflect the probable intent of Congress.
+1998—Subsec. (c). Pub. L. 105–261, §3512(a)(1)(C), which directed substitution of “that date” for “the day before the date of enactment”, was executed by making the substitution for “the day before that date of enactment” before “except” in introductory provisions to reflect the probable intent of Congress.
 
 Pub. L. 105–261, §3512(a)(1)(A), (B), in introductory provisions, substituted “November 17, 1997,” for “the day before the date of the enactment of the Panama Canal Transition Facilitation Act of 1997” and struck out “on or after that date” after “pay for that officer or employee”.
 

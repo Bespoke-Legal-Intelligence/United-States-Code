@@ -1,6 +1,6 @@
 ### §2305. Limitation
 
-All of the funds made available under this chapter shall be used in accordance with the requirements of this chapter. None of the funds made available under this chapter may be used to provide funding under the School-to-Work Opportunities Act of 1994 (20 U.S.C. 6101 et seq.) or to carry out, through programs funded under this chapter, activities that were funded under the School-To-Work Opportunities Act of 1994, unless the programs funded under this chapter serve only those participants eligible to participate in the programs under this chapter.
+All of the funds made available under this chapter shall be used in accordance with the requirements of this chapter. None of the funds made available under this chapter may be used to provide funding under the School-to-Work Opportunities Act of 1994 (20 U.S.C. 6101 et seq.) or to carry out, through programs funded under this chapter, activities that were funded underthe School-To-Work Opportunities Act of 1994, unless the programs funded under this chapter serve only those participants eligible to participate in the programs under this chapter.
 
 (Pub. L. 88–210, §6, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3082.)
 

@@ -78,7 +78,7 @@ An eligible partnership that receives a grant under this section may use such fu
 
 #### (1) Teacher preparation and parent involvement
 
-&emsp;Preparing teachers to work with diverse student populations, including individuals with disabilities and limited English proficient individuals, and involving parents in the teacher preparation program reform process.
+&emsp;Preparing teachers to work with diverse student populations, including individuals withdisabilities and limited English proficient individuals, and involving parents in the teacher preparation program reform process.
 
 #### (2) Dissemination and coordination
 

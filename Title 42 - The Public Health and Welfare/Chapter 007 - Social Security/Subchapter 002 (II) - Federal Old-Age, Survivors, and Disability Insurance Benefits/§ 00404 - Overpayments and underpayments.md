@@ -32,7 +32,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(1) to the person, if any, who is determined by the Commissioner of Social Security to be the surviving spouse of the deceased individual and who either (i) was living in the same household with the deceased at the time of his death or (ii) was, for the month in which the deceased individual died, entitled to a monthly benefit on the basis of the same wages and self-employment income as was the deceased individual;
 
-&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for themonth in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
+&emsp;(2) if there is no person who meets the requirements of paragraph (1), or if the person who meets such requirements dies before the payment due him under this subchapter is completed, to the child or children, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
 &emsp;(3) if there is no person who meets the requirements of paragraph (1) or (2), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
@@ -116,7 +116,7 @@ Pub. L. 108–203, title II, §210(c), Mar. 2, 2004, 118 Stat. 517, provided tha
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–169, title II, §201(c), Dec. 14, 1999, 113 Stat. 1831, provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall apply to overpayments made 12 months or more after the date of the enactment of this Act \[Dec. 14, 1999\].”
+Pub. L. 106–169, title II, §201(c), Dec. 14, 1999, 113 Stat. 1831, provided that: “The amendments made by this section \[amending this section and section 1383 of thistitle\] shall apply to overpayments made 12 months or more after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
 Amendment by section 203(c) of Pub. L. 106–169 applicable to debt outstanding on or after Dec. 14, 1999, see section 203(d) of Pub. L. 106–169, set out as a note under section 3701 of Title 31, Money and Finance.
 

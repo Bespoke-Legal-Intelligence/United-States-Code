@@ -28,7 +28,7 @@ Provisions for transmission of the invoice, papers, and exhibits to the board of
 
 2004—Subsec. (b). Pub. L. 108–429 substituted “concurrent with or” for “after ninety days” in first sentence.
 
-1999—Subsec. (a). Pub. L. 106–36 inserted after third sentence “Within 30 days from the date an applicationfor further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review.”
+1999—Subsec. (a). Pub. L. 106–36 inserted after third sentence “Within 30 days from the date an application for further review is filed, the appropriate customs officer shall allow or deny the application and, if allowed, the protest shall be forwarded to the customs officer who will be conducting the further review.”
 
 1996—Subsec. (d). Pub. L. 104–295 substituted “port director” for “district director”.
 

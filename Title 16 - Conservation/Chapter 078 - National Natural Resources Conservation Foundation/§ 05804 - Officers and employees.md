@@ -24,7 +24,7 @@ The Board may—
 
 #### (A) Initial Director
 
-&emsp;&emsp;The Secretary shall appoint an individual to serve as the initial Executive Director of the Foundation who shall serve, at the direction of the Board, as the chief operating officer of the Foundation.
+&emsp;&emsp;The Secretary shall appoint an individual to serve as the initial Executive Director ofthe Foundation who shall serve, at the direction of the Board, as the chief operating officer of the Foundation.
 
 #### (B) Subsequent Directors
 

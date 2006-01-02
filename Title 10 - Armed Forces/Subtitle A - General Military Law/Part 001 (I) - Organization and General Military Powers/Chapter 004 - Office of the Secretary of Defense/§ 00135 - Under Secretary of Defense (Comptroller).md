@@ -2,7 +2,7 @@
 
 (a) There is an Under Secretary of Defense (Comptroller), appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
-(b) The Under Secretary of Defense (Comptroller) is the agency Chief Financial Officer of theDepartment of Defense for the purposes of chapter 9 of title 31. The Under Secretary of Defense (Comptroller) shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
+(b) The Under Secretary of Defense (Comptroller) is the agency Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31. The Under Secretary of Defense (Comptroller) shall perform such additional duties and exercise such powers as the Secretary of Defense may prescribe.
 
 (c) The Under Secretary of Defense (Comptroller) shall advise and assist the Secretary of Defense—
 
@@ -61,12 +61,4 @@ Subsec. (e). Pub. L. 103–160, §902(b), added subsec. (e).
 #### Change of Name
 
 Section 903(d) of Pub. L. 103–337 provided that: “Any reference to the Comptroller of the Department of Defense in any provision of law other than title 10, United States Code, or in any rule, regulation, or other paper of the United States shall be treated as referring to the Under Secretary of Defense (Comptroller).”
-
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3022, 5025, 8022 of this title.
 

@@ -30,7 +30,3 @@ Any person who with respect to any tax payable by stamps—
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7208, 7303 of this title.
-

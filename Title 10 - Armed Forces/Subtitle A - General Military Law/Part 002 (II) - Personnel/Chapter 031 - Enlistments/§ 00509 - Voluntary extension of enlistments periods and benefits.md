@@ -6,7 +6,3 @@
 
 (Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 906.
-

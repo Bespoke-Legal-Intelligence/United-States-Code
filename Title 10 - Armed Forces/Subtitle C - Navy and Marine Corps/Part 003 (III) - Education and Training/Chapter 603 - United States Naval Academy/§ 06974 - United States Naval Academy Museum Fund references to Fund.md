@@ -42,7 +42,3 @@ Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(b)\], Oct. 30, 2000, 114 St
 
 “(2) Amounts transferred under this subsection shall be merged with other amounts in the gift fund to which transferred and shall be available for the purposes for which amounts in that gift fund are available.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 2055.
-

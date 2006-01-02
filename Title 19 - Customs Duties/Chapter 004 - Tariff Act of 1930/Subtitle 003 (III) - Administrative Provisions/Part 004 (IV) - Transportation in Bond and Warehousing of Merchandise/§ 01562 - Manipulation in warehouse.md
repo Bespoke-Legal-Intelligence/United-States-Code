@@ -26,7 +26,7 @@ Unless by special authority of the Secretary of the Treasury, no merchandise sha
 
 &emsp;(6)(A) without payment of duties for exportation to Chile, if the merchandise is of a kind described in any of paragraphs (1) through (5) of section 203(a) of the United States-Chile Free Trade Agreement Implementation Act; and
 
-&emsp;(B) for exportation to Chile if the merchandise consists of goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, except that—
+&emsp;(B) for exportation to Chile if the merchandise consists of goods subject to Chile FTAdrawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, except that—
 
 &emsp;&emsp;(i) the merchandise may not be withdrawn from warehouse without assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of withdrawal from the warehouse with such additions to, or deductions from, the final appraised value as may be necessary by reason of a change in condition, and
 

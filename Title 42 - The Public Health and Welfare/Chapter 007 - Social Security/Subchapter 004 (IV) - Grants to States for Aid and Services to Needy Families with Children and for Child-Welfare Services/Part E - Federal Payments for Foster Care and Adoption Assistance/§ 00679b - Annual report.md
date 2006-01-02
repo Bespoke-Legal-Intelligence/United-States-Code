@@ -20,7 +20,7 @@ Part B of this subchapter, referred to in par. (1), is classified to section 620
 
 #### Effective Date
 
-Section effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as an Effective Date of 1997 Amendments note under section 622 of this title.
+Section effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation isrequired, see section 501 of Pub. L. 105–89, set out as an Effective Date of 1997 Amendments note under section 622 of this title.
 
 #### Development of Performance-Based Incentive System
 

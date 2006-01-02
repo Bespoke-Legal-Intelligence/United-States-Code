@@ -8,7 +8,7 @@
 
 &emsp;(B) the plan's accumulated funding deficiency under section 1082(a) of this title for such plan year shall be equal to the excess (if any) of—
 
-&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1082(a) of this title if the plan was not in reorganization), over
+&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking intoaccount any overburden credit under section 1424(a) of this title) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such year or under section 1082(a) of this title if the plan was not in reorganization), over
 
 &emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) of this section for the plan year).
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(i) the increase in normal cost for a plan year determined under the entry age normal funding method due to increases in benefits described in section 1421(b)(4)(A)(ii) of this title (determined without regard to section 1421(b)(4)(B)(i) of this title), and
 
-&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plandue to increases in benefits described in clause (i) over—
+&emsp;&emsp;(ii) the amount necessary to amortize in equal annual installments the increase in the value of vested benefits under the plan due to increases in benefits described in clause (i) over—
 
 &emsp;&emsp;&emsp;(I) 10 years, to the extent such increase in value is attributable to persons in pay status, or
 

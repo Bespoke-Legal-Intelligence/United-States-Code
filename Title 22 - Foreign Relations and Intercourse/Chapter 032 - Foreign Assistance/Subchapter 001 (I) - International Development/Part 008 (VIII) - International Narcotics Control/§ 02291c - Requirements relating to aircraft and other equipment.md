@@ -20,7 +20,7 @@
 
 #### (3) Assistance for leasing of aircraft
 
-&emsp;(A) For purposes of satisfying the requirement of paragraph (1), funds made available for the “Foreign Military Financing Program” under section 23 of the Arms Export ControlAct \[22 U.S.C. 2763\] may be used to finance the leasing of aircraft under chapter 6 of that Act \[22 U.S.C. 2796 et seq.\].
+&emsp;(A) For purposes of satisfying the requirement of paragraph (1), funds made available for the “Foreign Military Financing Program” under section 23 of the Arms Export Control Act \[22 U.S.C. 2763\] may be used to finance the leasing of aircraft under chapter 6 of that Act \[22 U.S.C. 2796 et seq.\].
 
 &emsp;(B) Section 61(a)(3) <sup>1</sup> of that Act \[22 U.S.C. 2796(a)(3)\] shall not apply with respect to leases so financed; rather the entire cost of any such lease (including any renewals) shall be an initial, one time payment of the amount which would be the sales price for the aircraft if they were sold under section 21(a)(1)(B) or section 22 of that Act \[22 U.S.C. 2761(a)(1)(B), 2762\] (as appropriate).
 

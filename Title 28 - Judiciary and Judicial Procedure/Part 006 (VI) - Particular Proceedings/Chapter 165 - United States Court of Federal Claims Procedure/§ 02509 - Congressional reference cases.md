@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 97–164, §139(h)(2)(A), (D), substituted “hearing offic
 
 Subsec. (e). Pub. L. 97–164, §139(h)(2)(B), substituted “chief judge” for “chief commissioner”.
 
-Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted “Claims Court” for “Court of Claims”, and“hearing officer” for “trial commissioner” wherever appearing.
+Subsec. (f). Pub. L. 97–164, §139(h)(2)(A), (C), substituted “Claims Court” for “Court of Claims”, and “hearing officer” for “trial commissioner” wherever appearing.
 
 Subsec. (g). Pub. L. 97–164, §139(h)(2)(C), (E), substituted “Claims Court” for “Court of Claims” and “judges serving as hearing officers” for “commissioners serving as trial commissioners”.
 

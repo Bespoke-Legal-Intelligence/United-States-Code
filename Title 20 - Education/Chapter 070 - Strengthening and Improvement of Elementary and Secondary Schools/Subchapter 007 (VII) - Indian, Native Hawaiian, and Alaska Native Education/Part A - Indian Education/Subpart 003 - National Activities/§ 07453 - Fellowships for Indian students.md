@@ -30,7 +30,7 @@ The Secretary shall pay to the institution of higher education at which such a f
 
 #### (1) In general
 
-&emsp;If a fellowship awarded under subsection (a) of this section is vacated prior to the end ofthe period for which the fellowship is awarded, the Secretary may award an additional fellowship for the unexpired portion of the period of the first fellowship.
+&emsp;If a fellowship awarded under subsection (a) of this section is vacated prior to the end of the period for which the fellowship is awarded, the Secretary may award an additional fellowship for the unexpired portion of the period of the first fellowship.
 
 #### (2) Written notice
 

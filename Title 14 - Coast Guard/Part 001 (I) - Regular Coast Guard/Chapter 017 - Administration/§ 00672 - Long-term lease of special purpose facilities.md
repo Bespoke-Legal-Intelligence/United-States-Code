@@ -8,7 +8,7 @@
 
 &emsp;(1) the use of such a lease agreement will promote the efficiency of the ATON, VTS, or NDS programs and will result in reduced total costs under the agreement;
 
-&emsp;(2) the minimum need for the real property or interest therein to be leased is expected to remain substantially unchanged during the contemplated lease period; and
+&emsp;(2) the minimum need for the real property or interest therein to be leased is expected toremain substantially unchanged during the contemplated lease period; and
 
 &emsp;(3) the estimates of both the cost of the lease and the anticipated cost avoidance through the use of a multiyear lease are realistic.
 

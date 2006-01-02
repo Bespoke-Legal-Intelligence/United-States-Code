@@ -8,7 +8,7 @@ All moneys received from the disposal of materials under this subchapter shall b
 
 Subchapter V (§1181a et seq.) of chapter 28 of title 43, referred to in text, was in the original a reference to the Acts of Aug. 28, 1937 (50 Stat. 874), and June 24, 1954 (68 Stat. 270), as amended. For complete classification of these Acts to the Code, see Tables.
 
-Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, as amended. Section 1 of that Act, which made reservation of certain Alaska lands for educational purposes, covered disposition of proceeds or income derived from reservedlands, and set out the exclusion of certain lands, was classified to section 353 of Title 48, Territories and Insular Possessions, and was repealed by Pub. L. 85–508, §6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, as amended. Section 1 of that Act, which made reservation of certain Alaska lands for educational purposes, covered disposition of proceeds or income derived from reserved lands, and set out the exclusion of certain lands, was classified to section 353 of Title 48, Territories and Insular Possessions, and was repealed by Pub. L. 85–508, §6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

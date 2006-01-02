@@ -9,3 +9,4 @@
 - [&sect; 00432 - Operational files of the National Geospatial-Intelligence Agency](%C2%A7%2000432%20-%20Operational%20files%20of%20the%20National%20Geospatial-Intelligence%20Agency.md)
 - [&sect; 00432a - Operational files of the National Reconnaissance Office](%C2%A7%2000432a%20-%20Operational%20files%20of%20the%20National%20Reconnaissance%20Office.md)
 - [&sect; 00432b - Operational files of the National Security Agency](%C2%A7%2000432b%20-%20Operational%20files%20of%20the%20National%20Security%20Agency.md)
+- [&sect; 00432c - Operational files of the Defense Intelligence Agency](%C2%A7%2000432c%20-%20Operational%20files%20of%20the%20Defense%20Intelligence%20Agency.md)

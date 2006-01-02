@@ -48,7 +48,7 @@ The Director, subject to the policy advice of the Museum and Library Services Bo
 
 #### (A) In general
 
-&emsp;&emsp;The Director may use not more than 10 percent of the funds appropriated to carryout this subchapter for technical assistance awards.
+&emsp;&emsp;The Director may use not more than 10 percent of the funds appropriated to carry out this subchapter for technical assistance awards.
 
 #### (B) Individual museums
 

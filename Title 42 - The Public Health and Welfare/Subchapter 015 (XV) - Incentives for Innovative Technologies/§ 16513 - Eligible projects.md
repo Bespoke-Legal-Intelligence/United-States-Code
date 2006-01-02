@@ -1,0 +1,116 @@
+### §16513. Eligible projects
+
+#### (a) In general
+
+The Secretary may make guarantees under this section only for projects that—
+
+&emsp;(1) avoid, reduce, or sequester air pollutants or anthropogenic emissions of greenhouse gases; and
+
+&emsp;(2) employ new or significantly improved technologies as compared to commercial technologies in service in the United States at the time the guarantee is issued.
+
+#### (b) Categories
+
+Projects from the following categories shall be eligible for a guarantee under this section:
+
+&emsp;(1) Renewable energy systems.
+
+&emsp;(2) Advanced fossil energy technology (including coal gasification meeting the criteria in subsection (d)).
+
+&emsp;(3) Hydrogen fuel cell technology for residential, industrial, or transportation applications.
+
+&emsp;(4) Advanced nuclear energy facilities.
+
+&emsp;(5) Carbon capture and sequestration practices and technologies, including agricultural and forestry practices that store and sequester carbon.
+
+&emsp;(6) Efficient electrical generation, transmission, and distribution technologies.
+
+&emsp;(7) Efficient end-use energy technologies.
+
+&emsp;(8) Production facilities for fuel efficient vehicles, including hybrid and advanced diesel vehicles.
+
+&emsp;(9) Pollution control equipment.
+
+&emsp;(10) Refineries, meaning facilities at which crude oil is refined into gasoline.
+
+#### (c) Gasification projects
+
+The Secretary may make guarantees for the following gasification projects:
+
+#### (1) Integrated gasification combined cycle projects
+
+&emsp;Integrated gasification combined cycle plants meeting the emission levels under subsection (d), including—
+
+&emsp;&emsp;(A) projects for the generation of electricity—
+
+&emsp;&emsp;&emsp;(i) for which, during the term of the guarantee—
+
+&emsp;&emsp;&emsp;&emsp;(I) coal, biomass, petroleum coke, or a combination of coal, biomass, and petroleum coke will account for at least 65 percent of annual heat input; and
+
+&emsp;&emsp;&emsp;&emsp;(II) electricity will account for at least 65 percent of net useful annual energy output;
+
+&emsp;&emsp;&emsp;(ii) that have a design that is determined by the Secretary to be capable of accommodating the equipment likely to be necessary to capture the carbon dioxide that would otherwise be emitted in flue gas from the plant;
+
+&emsp;&emsp;&emsp;(iii) that have an assured revenue stream that covers project capital and operating costs (including servicing all debt obligations covered by the guarantee) that is approved by the Secretary and the relevant State public utility commission; and
+
+&emsp;&emsp;&emsp;(iv) on which construction commences not later than the date that is 3 years after the date of the issuance of the guarantee;
+
+&emsp;&emsp;(B) a project to produce energy from coal (of not more than 13,000 Btu/lb and mined in the western United States) using appropriate advanced integrated gasification combined cycle technology that minimizes and offers the potential to sequester carbon dioxide emissions and that—
+
+&emsp;&emsp;&emsp;(i) may include repowering of existing facilities;
+
+&emsp;&emsp;&emsp;(ii) may be built in stages;
+
+&emsp;&emsp;&emsp;(iii) shall have a combined output of at least 100 megawatts;
+
+&emsp;&emsp;&emsp;(iv) shall be located in a western State at an altitude greater than 4,000 feet; and
+
+&emsp;&emsp;&emsp;(v) shall demonstrate the ability to use coal with an energy content of not more than 9,000 Btu/lb;
+
+&emsp;&emsp;(C) a project located in a taconite-producing region of the United States that is entitled under the law of the State in which the plant is located to enter into a long-term contract approved by a State public utility commission to sell at least 450 megawatts of output to a utility;
+
+&emsp;&emsp;(D) facilities that—
+
+&emsp;&emsp;&emsp;(i) generate one or more hydrogen-rich and carbon monoxide-rich product streams from the gasification of coal or coal waste; and
+
+&emsp;&emsp;&emsp;(ii) use those streams to facilitate the production of ultra clean premium fuels through the Fischer-Tropsch process; and
+
+&emsp;&emsp;(E) a project to produce energy and clean fuels, using appropriate coal liquefaction technology, from Western bituminous or subbituminous coal, that—
+
+&emsp;&emsp;&emsp;(i) is owned by a State government; and
+
+&emsp;&emsp;&emsp;(ii) may include tribal and private coal resources.
+
+#### (2) Industrial gasification projects
+
+&emsp;Facilities that gasify coal, biomass, or petroleum coke in any combination to produce synthesis gas for use as a fuel or feedstock and for which electricity accounts for less than 65 percent of the useful energy output of the facility.
+
+#### (3) Petroleum coke gasification projects
+
+&emsp;The Secretary is encouraged to make loan guarantees under this subchapter available for petroleum coke gasification projects.
+
+#### (4) Liquefaction project
+
+&emsp;Notwithstanding any other provision of law, funds awarded under the Department of Energy's Clean Coal Power Initiative for Fischer-Tropsch coal-to-oil liquefaction projects may be used to finance the cost of loan guarantees for projects awarded such funds.
+
+#### (d) Emission levels
+
+In addition to any other applicable Federal or State emission limitation requirements, a project shall attain at least—
+
+&emsp;(1) total sulfur dioxide emissions in flue gas from the project that do not exceed 0.05 lb/MMBtu;
+
+&emsp;(2) a 90-percent removal rate (including any fuel pretreatment) of mercury from the coal-derived gas, and any other fuel, combusted by the project;
+
+&emsp;(3) total nitrogen oxide emissions in the flue gas from the project that do not exceed 0.08 lb/MMBtu; and
+
+&emsp;(4) total particulate emissions in the flue gas from the project that do not exceed 0.01 lb/MMBtu.
+
+#### (e) Qualification of facilities receiving tax credits
+
+A project that receives tax credits for clean coal technology shall not be disqualified from receiving a guarantee under this subchapter.
+
+(Pub. L. 109–58, title XVII, §1703, Aug. 8, 2005, 119 Stat. 1120; Pub. L. 109–168, §1(b)(1), Jan. 10, 2006, 119 Stat. 3580.)
+
+#### Amendments
+
+2006—Subsec. (c)(4). Pub. L. 109–168 substituted “Department of Energy's Clean Coal Power Initiative for Fischer-Tropsch” for “clean coal power initiative under part A of subchapter IV for”.
+

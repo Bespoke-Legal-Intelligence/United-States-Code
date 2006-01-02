@@ -16,7 +16,7 @@
 
 &emsp;On the basis of the determinations made under paragraph (1), the Farm Credit Administration shall—
 
-&emsp;&emsp;(A) apportion the amount of the assessment described in paragraph (1)(B) among the System institutions on a basis that is determined to be equitable by the Farm Credit Administration;
+&emsp;&emsp;(A) apportion the amount of the assessment described in paragraph (1)(B) among the System institutions on a basis that isdetermined to be equitable by the Farm Credit Administration;
 
 &emsp;&emsp;(B) assess and collect such apportioned amounts from time to time during the fiscal year as determined necessary by the Farm Credit Administration; and
 

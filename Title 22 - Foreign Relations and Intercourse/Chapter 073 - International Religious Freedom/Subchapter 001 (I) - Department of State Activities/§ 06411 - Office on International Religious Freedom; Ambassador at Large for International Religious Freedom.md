@@ -14,7 +14,7 @@ The Ambassador at Large shall have the following responsibilities:
 
 #### (1) In general
 
-&emsp;The primary responsibility of the Ambassador at Large shall be to advance the right tofreedom of religion abroad, to denounce the violation of that right, and to recommend appropriate responses by the United States Government when this right is violated.
+&emsp;The primary responsibility of the Ambassador at Large shall be to advance the right to freedom of religion abroad, to denounce the violation of that right, and to recommend appropriate responses by the United States Government when this right is violated.
 
 #### (2) Advisory role
 

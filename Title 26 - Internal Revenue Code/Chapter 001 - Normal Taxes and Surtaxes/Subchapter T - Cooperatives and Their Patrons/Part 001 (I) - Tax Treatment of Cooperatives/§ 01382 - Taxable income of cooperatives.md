@@ -6,7 +6,7 @@ Except as provided in subsection (b), the gross income of any organization to wh
 
 #### (b) Patronage dividends and per-unit retain allocations
 
-In determining the taxable income of an organization to which this part applies, there shallnot be taken into account amounts paid during the payment period for the taxable year—
+In determining the taxable income of an organization to which this part applies, there shall not be taken into account amounts paid during the payment period for the taxable year—
 
 &emsp;(1) as patronage dividends (as defined in section 1388(a)), to the extent paid in money, qualified written notices of allocation (as defined in section 1388(c)), or other property (except nonqualified written notices of allocation (as defined in section 1388(d))) with respect to patronage occurring during such taxable year;
 
@@ -32,7 +32,7 @@ In determining the taxable income of an organization described in section 1381(a
 
 #### (d) Payment period for each taxable year
 
-For purposes of subsections (b) and (c)(2), the payment period for any taxable year is the period beginning with the first day of such taxable year and ending with the fifteenth day of the ninth month following the close of such year. For purposes of subsections (b)(1) and (c)(2)(A), a qualified check issued during the payment period shall be treated as an amount paid in money during such period if endorsed and cashed on or before the 90th day after the close of such period.
+For purposes of subsections (b) and (c)(2), the payment period for any taxable year is the period beginning with the first day of such taxable year and ending with the fifteenth day of the ninth month following the close of such year. For purposes of subsections (b)(1) and (c)(2)(A), a qualified check issued during the payment period shall be treated as an amount paid in money during such period if endorsed and cashedon or before the 90th day after the close of such period.
 
 #### (e) Products marketed under pooling arrangements
 
@@ -101,8 +101,4 @@ Section 211(e) of Pub. L. 89–809 provided that:
 #### Effective Date
 
 Section applicable, except as otherwise provided, to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 941, 943, 1383, 1385, 1388, 6044 of this title.
 

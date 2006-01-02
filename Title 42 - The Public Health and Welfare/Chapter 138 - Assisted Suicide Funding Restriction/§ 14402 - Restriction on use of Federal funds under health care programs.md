@@ -110,5 +110,5 @@ The Social Security Act, referred to in subsec. (d)(1)(A)–(D), is act Aug. 14,
 
 The Public Health Service Act, referred to in subsec. (d)(1)(E), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (d)(1)(F), is Pub. L. 94–437, Sept. 30, 1976, 90Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (d)(1)(F), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 

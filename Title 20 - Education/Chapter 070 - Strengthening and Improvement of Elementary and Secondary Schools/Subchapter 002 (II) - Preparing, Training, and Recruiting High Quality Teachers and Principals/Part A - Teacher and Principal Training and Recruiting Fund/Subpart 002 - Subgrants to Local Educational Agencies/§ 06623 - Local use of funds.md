@@ -76,7 +76,7 @@ A local educational agency that receives a subgrant under section 6621 of this t
 
 &emsp;&emsp;(E) testing of elementary school and secondary school teachers in the academic subjects that the teachers teach.
 
-&emsp;(6) Carrying out professional development activities designed to improve the quality of principals and superintendents, including the development and support of academies to help talented aspiring or current principals and superintendents become outstanding managers and educational leaders.
+&emsp;(6) Carrying out professional development activities designed to improve the quality ofprincipals and superintendents, including the development and support of academies to help talented aspiring or current principals and superintendents become outstanding managers and educational leaders.
 
 &emsp;(7) Hiring highly qualified teachers, including teachers who become highly qualified through State and local alternative routes to certification, and special education teachers, in order to reduce class size, particularly in the early grades.
 

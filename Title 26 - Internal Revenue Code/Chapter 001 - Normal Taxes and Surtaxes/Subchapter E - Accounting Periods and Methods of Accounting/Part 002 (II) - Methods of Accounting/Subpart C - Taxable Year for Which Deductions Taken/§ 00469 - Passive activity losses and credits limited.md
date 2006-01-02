@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (ii) Personal services as an employee
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (B), personal services performed as an employee shall not be treated as performed in realproperty trades or businesses. The preceding sentence shall not apply if such employee is a 5-percent owner (as defined in section 416(i)(1)(B)) in the employer.
+&emsp;&emsp;&emsp;For purposes of subparagraph (B), personal services performed as an employee shall not be treated as performed in real property trades or businesses. The preceding sentence shall not apply if such employee is a 5-percent owner (as defined in section 416(i)(1)(B)) in the employer.
 
 #### (d) Passive activity loss and credit defined
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amounts excludable from gross income under sections 135 and 137,
 
-&emsp;&emsp;&emsp;(iii) the amounts allowable as a deduction under sections 219, 221, and 222, and
+&emsp;&emsp;&emsp;(iii) the amounts allowable as a deduction under sections 199, 219, 221, and 222, and
 
 &emsp;&emsp;&emsp;(iv) any passive activity loss or any loss allowable by reason of subsection (c)(7).
 
@@ -480,6 +480,10 @@ For purposes of this section—
 
 &emsp;For purposes of subsection (g), a taxpayer shall not be treated as having disposed of his entire interest in an activity of a publicly traded partnership until he disposes of his entire interest in such partnership.
 
+#### (4) Application to regulated investment companies
+
+&emsp;For purposes of this section, a regulated investment company (as defined in section 851) holding an interest in a qualified publicly traded partnership (as defined in section 851(h)) shall be treated as a taxpayer described in subsection (a)(2) with respect to items attributable to such interest.
+
 #### (<i>l</i>) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out provisions of this section, including regulations—
@@ -543,7 +547,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) construction of property used in such activity began on or before August 16, 1986.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477.)
 
 #### Amendment of Section
 
@@ -554,6 +558,10 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+2004—Subsec. (i)(3)(F)(iii). Pub. L. 108–357, §102(d)(5), inserted “199,” before “219,”.
+
+Subsec. (k)(4). Pub. L. 108–357, §331(g), added par. (4).
 
 2002—Subsec. (i)(3)(E)(ii) to (iv). Pub. L. 107–147 added cls. (ii) to (iv) and struck out former cls. (ii) to (iv) which read as follows:
 
@@ -581,7 +589,7 @@ Subsec. (i)(6)(B)(iii). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(3)(A)\]
 
 1998—Subsec. (i)(3)(E)(iii). Pub. L. 105–277 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any amount allowable as a deduction under section 219, and”.
 
-1996—Subsec. (c)(3)(B). Pub. L. 104–188, §1704(d)(1), inserted at end “If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed theregular tax liability of the taxpayer for the taxable year which is allocable to such net income.”
+1996—Subsec. (c)(3)(B). Pub. L. 104–188, §1704(d)(1), inserted at end “If the preceding sentence applies to the net income from any property for any taxable year, any credits allowable under subpart B (other than section 27(a)) or D of part IV of subchapter A for such taxable year which are attributable to such property shall be treated as credits not from a passive activity to the extent the amount of such credits does not exceed the regular tax liability of the taxpayer for the taxable year which is allocable to such net income.”
 
 Subsec. (g)(1)(A). Pub. L. 104–188, §1704(e)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If all gain or loss realized on such disposition is recognized, the excess of—
 
@@ -681,13 +689,19 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 1987—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 102(d)(5) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
+Pub. L. 108–357, title III, §331(h), Oct. 22, 2004, 118 Stat. 1477, provided that: “The amendments made by this section \[amending this section and sections 851 and 7704 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], to which such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, seesection 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
@@ -709,7 +723,7 @@ Section 13143(c) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(16) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(16) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -745,7 +759,7 @@ In general.—The amendments made by this section \[enacting this section\] shal
 
 “(2)
 
-Special rule for carryovers.—The amendments made by this section shall not apply to any loss, deduction, or credit carried to a taxable year beginning after December 31, 1986, from a taxable year beginning before January 1, 1987.
+Special rule for carryovers.—The amendments made by this section shall not apply to any loss,deduction, or credit carried to a taxable year beginning after December 31, 1986, from a taxable year beginning before January 1, 1987.
 
 “\[(3) Repealed. Pub. L. 100–647, title IV, §4003(b)(2), Nov. 10, 1988, 102 Stat. 3644.\]
 
@@ -761,7 +775,7 @@ Income from sales of passive activities in taxable years beginning before januar
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(16) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813(b)(16) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Amounts Attributable to Activities Subject to Limitations Under Section 469 Treated as Deduction Allocable to Such Activity
 
@@ -781,7 +795,7 @@ Section 502 of Pub. L. 99–514, as amended by Pub. L. 99–509, title VIII, §8
 
 “(a)
 
-General Rule.—Any loss sustained by a qualified investor with respect to an interest in a qualifiedlow-income housing project for any taxable year in the relief period shall not be treated as a loss from a passive activity for purposes of section 469 of the Internal Revenue Code of 1986.
+General Rule.—Any loss sustained by a qualified investor with respect to an interest in a qualified low-income housing project for any taxable year in the relief period shall not be treated as a loss from a passive activity for purposes of section 469 of the Internal Revenue Code of 1986.
 
 “(b)
 
@@ -864,8 +878,4 @@ Only cash and other property taken into account.—In determining the amount any
 Coordination with credit.—No low-income housing credit shall be determined under section 42 of the Internal Revenue Code of 1986 with respect to any project with respect to which any person has been allowed any benefit under this section.”
 
 \[Section 8073(b) of Pub. L. 99–509 provided that: “The amendment made by subsection (a) \[amending section 502 of Pub. L. 99–514, set out above\] shall take effect as if included in section 502 of the Tax Reform Act of 1986 on the date of its enactment \[Oct. 22, 1986\].”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32, 42, 56, 58, 108, 135, 137, 163, 219, 221, 222, 772, 773 of this title.
 

@@ -102,7 +102,7 @@ Disbursement.—All penalties collected under authority of this subsection shall
 
 &emsp;(viii)
 
-“Violate” defined.—For purposes of this paragraph, the term “violate” includesany action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+“Violate” defined.—For purposes of this paragraph, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 &emsp;(ix)
 

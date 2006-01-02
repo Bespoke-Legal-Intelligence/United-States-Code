@@ -6,7 +6,7 @@
 
 &emsp;(2) in the Indian country as defined in section 1151 of this title,
 
-> knowingly sells or possesses with intent to sell an obscene visual depiction shall be punished bya fine in accordance with the provisions of this title or imprisoned for not more than 2 years, or both.
+> knowingly sells or possesses with intent to sell an obscene visual depiction shall be punished by a fine in accordance with the provisions of this title or imprisoned for not more than 2 years, or both.
 
 (b) For the purposes of this section, the term “visual depiction” includes undeveloped film and videotape but does not include mere words.
 

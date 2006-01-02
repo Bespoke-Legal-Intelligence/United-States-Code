@@ -58,7 +58,3 @@ Amendment by section 101(j)(17) of Pub. L. 91–172 effective Jan. 1, 1970, see 
 
 Amendment by section 331(b) of Pub. L. 91–172 applicable to taxable years beginning before Jan. 1, 1970, see section 331(d) of Pub. L. 91–172, set out as a note under section 665 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 643, 1361 of this title.
-

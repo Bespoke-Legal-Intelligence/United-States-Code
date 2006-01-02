@@ -30,7 +30,7 @@
 
 #### References in Text
 
-The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act (22 U.S.C. 2751 et seq.), referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22,1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 #### Amendments
 

@@ -66,13 +66,13 @@
 
 #### (ii) Consequence of failure to approve or disapprove an amendment
 
-&emsp;&emsp;&emsp;If the Secretary fails to approve or disapprove an amendment submitted under clause (i), the amendment shall be deemed to have been approved by the Secretary, but only to the extent that the amendment is consistent with Federal law and promotes the policies set forth in section 102 of the Indian Land Consolidation Act <sup>1</sup> of 2000.
+&emsp;&emsp;&emsp;If the Secretary fails to approve or disapprove an amendment submitted under clause (i), the amendment shall be deemed to have been approved by the Secretary,but only to the extent that the amendment is consistent with Federal law and promotes the policies set forth in section 102 of the Indian Land Consolidation Act <sup>1</sup> of 2000.
 
 #### (3) Effective dates
 
 &emsp;A tribal probate code approved under paragraph (2) shall become effective on the later of—
 
-&emsp;&emsp;(A) the date specified in section 2206(g)(5) <sup>2</sup> of this title; or
+&emsp;&emsp;(A) the date that is 1 year after the date on which the Secretary makes the certification required under section 8(a)(4) of the American Indian Probate Reform Act of 2004 (25 U.S.C. 2201 note; Public Law 108–374); or
 
 &emsp;&emsp;(B) 180 days after the date of approval.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) the interest is part of a family farm that is devised to a member of the family of the decedent; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) the devisee agrees that the Indian tribe with jurisdiction over the land will have the opportunity to acquire the interest for fair market value if the interest is offered for sale to a person or entity that is not a member of the family of the owner of the land.
+&emsp;&emsp;&emsp;&emsp;(bb) the devisee agrees in writing that the Indian tribe with jurisdiction over the land will have the opportunity to acquire the interest for fair market value if the interest is offered for sale to a person or entity that is not a member of the family of the owner of the land.
 
 #### (ii) Recording of interest
 
@@ -166,7 +166,7 @@
 
 &emsp;The Secretary by regulation may provide for the use of findings of fact and conclusions of law, as rendered by a tribal justice system, as proposed findings of fact and conclusions of law in the adjudication of probate proceedings by the Department of the Interior.
 
-(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993; amended Pub. L. 108–374, §6(a)(3), Oct. 27, 2004, 118 Stat. 1799.)
+(Pub. L. 97–459, title II, §206, as added Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993; amended Pub. L. 108–374, §6(a)(3), Oct. 27, 2004, 118 Stat. 1799; Pub. L. 109–157, §3, Dec. 30, 2005, 119 Stat. 2950.)
 
 #### References in Text
 
@@ -174,25 +174,31 @@ Section 102 of the Indian Land Consolidation Act Amendments of 2000, referred to
 
 This chapter, referred to in subsec. (b)(2)(C), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
-Section 2206(g) of this title, referred to in subsec. (b)(3)(A), was repealed by Pub. L. 108–374, §6(a)(4), Oct. 27, 2004, 118 Stat. 1800.
-
 #### Prior Provisions
 
 A prior section 2205, Pub. L. 97–459, title II, §206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, §1(3), Oct. 30, 1984, 98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993.
 
 #### Amendments
 
+2005—Subsec. (b)(3)(A). Pub. L. 109–157, §3(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date specified in section 2206(g)(5) of this title; or”.
+
+Subsec. (c)(1)(A). Pub. L. 109–157, §3(2)(A), substituted “section 2206(b)(2)(A)(ii)” for “section 2206(a)(6)(A)”.
+
+Subsec. (c)(2)(A)(i)(II)(bb). Pub. L. 109–157, §3(2)(B), inserted “in writing” after “agrees”.
+
 2004—Subsec. (a)(3). Pub. L. 108–374, §6(a)(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The Secretary shall not approve a tribal probate code if such code prevents an Indian person from inheriting an interest in an allotment that was originally allotted to his or her lineal ancestor.”
 
 Subsec. (c)(1). Pub. L. 108–374, §6(a)(3)(B)(i)(I), (III), substituted “Authority” for “In general” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “The Secretary shall transfer such payment to the devisee.”, and added subpar. (B).
 
-Subsec. (c)(1)(A). Pub. L. 108–374, §6(a)(3)(B)(i)(II), which directed the substitution of “section 2206(b)(2)(A)(ii) of this title” for “section 2206(a)(6)(A) of this title” in subpar. (A), was executed by making the substitution for “section 2206(a)(6)(A)” to reflect the probable intent of Congress, because the words “of this title” did not appear in the original.
+Subsec. (c)(1)(A). Pub. L. 108–374, §6(a)(3)(B)(i)(II), which directed the substitution of “section 207(b)(2)(A)(ii) of this title” for “section 207(a)(6)(A) of this title” in the original, could not be executed, because “of this title” did not appear in the original.
 
 Subsec. (c)(2)(A). Pub. L. 108–374, §6(a)(3)(B)(ii)(I), substituted “Inapplicability to certain interests” for “In general” in heading, designated existing provisions as cl. (i) and inserted heading, inserted subcl. (I) designation and added subcl. (II), and added cls. (ii) to (iv).
 
 Subsec. (c)(2)(B). Pub. L. 108–374, §6(a)(3)(B)(ii)(II), which directed the substitution of “paragraph (1)” for “subparagraph (A) or a non-Indian devisee described in section 2206(a)(6)(B) of this title” was executed by making the substitution for language which did not contain the words “of this title” in the original, to reflect the probable intent of Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “Amendments”.</i>
+#### Effective Date of 2005 Amendment
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “Amendments”.</i>
 

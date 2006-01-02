@@ -116,7 +116,7 @@ Section 433 of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §4
 
 “(a)
 
-Petition of Bank.—Notwithstanding any other provision of law, effective for the 12-month period beginning on the date of enactment of this Act \[Jan. 6, 1988\], each Federal land bank association or production credit association, whose chartered territory adjoins the territory of another district, may petition the Farm Credit Administration to amend the charters of the association and the adjoining district bank to provide that the territory of the association is part of the adjoining district.
+Petition of Bank.—Notwithstanding any other provision of law, effective for the 12-month period beginning on the date of enactment of this Act \[Jan. 6, 1988\], each Federal land bank association or productioncredit association, whose chartered territory adjoins the territory of another district, may petition the Farm Credit Administration to amend the charters of the association and the adjoining district bank to provide that the territory of the association is part of the adjoining district.
 
 “(b)
 

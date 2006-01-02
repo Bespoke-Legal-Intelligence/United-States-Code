@@ -66,15 +66,17 @@ For purposes of this chapter, the term “wages” means all remuneration (other
 
 &emsp;(17) for service described in section 3121(b)(20); <sup>2</sup>
 
-&emsp;(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, or 134(b)(4); <sup>2</sup>
+&emsp;(18) for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5); <sup>2</sup>
 
-&emsp;(19) for any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 117, or 132; <sup>2</sup>
+&emsp;(19) for any benefit provided to or on behalf of an employee if at the time such benefit is provided it is reasonable to believe that the employee will be able to exclude such benefit from income under section 74(c), 108(f)(4), 117, or 132; <sup>2</sup>
 
 &emsp;(20) for any medical care reimbursement made to or for the benefit of an employee under a self-insured medical reimbursement plan (within the meaning of section 105(h)(6)); <sup>2</sup>
 
 &emsp;(21) for any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(b); or
 
 &emsp;(22) any payment made to or for the benefit of an employee if at the time of such payment it is reasonable to believe that the employee will be able to exclude such payment from income under section 106(d).
+
+> The term “wages” includes any amount includible in gross income of an employee under section 409A and payment of such amount shall be treated as having been made in the taxable year in which the amount is so includible.
 
 #### (b) Payroll period
 
@@ -100,13 +102,11 @@ For purposes of this chapter, the term “number of withholding exemptions claim
 
 For purposes of subsection (a), the term “wages” includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
 
-#### \[(g) Repealed. Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830\]
-
-#### (h) Crew leader rules to apply
+#### (g) Crew leader rules to apply
 
 Rules similar to the rules of section 3121(<i>o</i>) shall apply for purposes of this chapter.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(<i>l</i>), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(<i>l</i>), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L.94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title III, §320(b)(4), title VIII, §885(b)(2), Oct. 22, 2004, 118 Stat. 1473, 1639; Pub. L. 108–375, div. A, title V, §585(b)(2)(D), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–135, title IV, §412(tt), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Amendment of Section
 
@@ -117,6 +117,14 @@ Rules similar to the rules of section 3121(<i>o</i>) shall apply for purposes of
 Sections 5(c) and 6(1) of the Peace Corps Act, referred to in subsec. (a)(13), are classified to sections 2504(c) and 2505(1), respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2005—Subsecs. (g), (h). Pub. L. 109–135 redesignated subsec. (h) as (g).
+
+2004—Subsec. (a). Pub. L. 108–357, §885(b)(2), inserted concluding provisions.
+
+Subsec. (a)(18). Pub. L. 108–375 substituted “134(b)(4), or 134(b)(5)” for “or 134(b)(4)”.
+
+Subsec. (a)(19). Pub. L. 108–357, §320(b)(4), inserted “108(f)(4),” after “74(c),”.
 
 2003—Subsec. (a)(18). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
 
@@ -206,6 +214,14 @@ Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
 1955—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
 
+#### Effective Date of 2004 Amendments
+
+Amendment by Pub. L. 108–375 applicable to travel benefits provided after Oct. 28, 2004, see section 585(b)(3) of Pub. L. 108–375, set out as a note under section 134 of this title.
+
+Amendment by section 320(b)(4) of Pub. L. 108–357 applicable to amounts received by an individual in taxable years beginning after Dec. 31, 2003, see section 320(c) of Pub. L. 108–357, set out as a note under section 108 of this title.
+
+Amendment by section 885(b)(2) of Pub. L. 108–357 applicable to amounts deferred after Dec. 31, 2004, with special rules relating to earnings and material modifications and exception for nonelective deferred compensation, see section 885(d) of Pub. L. 108–357, set out as an Effective Date note under section 409A of this title.
+
 #### Effective Date of 2003 Amendments
 
 Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
@@ -234,7 +250,7 @@ Section 11703(f)(2) of Pub. L. 101–508 provided that: “The amendment made by
 
 Section 7631(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to remuneration paid after December 31, 1989.”
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -262,7 +278,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Amendment by section 112(b)(5) of Pub. L. 97–34 applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L. 97–34, set out as a note under section 911 of this title.
 
-Amendment by section 124(e)(2)(A) of Pub. L. 97–34 applicable to remuneration paid after Dec. 31, 1981, see section 124(f)(2) of Pub. L. 97–34, set out as a note under section 21 of this title.
+Amendment by section 124(e)(2)(A) of Pub. L. 97–34 applicable to remuneration paid after Dec. 31, 1981, seesection 124(f)(2) of Pub. L. 97–34, set out as a note under section 21 of this title.
 
 Amendment by section 311(h)(6) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
 
@@ -318,7 +334,7 @@ Pub. L. 89–368, §1, Mar. 15, 1966, 80 Stat. 38, provided that: “This Act \[
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
-Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions,see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 201(c) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 
@@ -465,10 +481,6 @@ In general.—Section 530(e)(4) of the Revenue Act of 1978 (as added by subsecti
 No inference.—Nothing in the amendments made by this section shall be construed to infer the proper treatment of the burden of proof with respect to disputes involving periods before January 1, 1997.”\]
 
 \[Section 1706(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending section 530 of Pub. L. 95–600, set out above\] shall apply to remuneration paid and services rendered after December 31, 1986.”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41, 275, 3402, 3507, 3509, 4999, 6014, 6051, 6053, 6103, 6331 of this title; title 42 section 653a.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

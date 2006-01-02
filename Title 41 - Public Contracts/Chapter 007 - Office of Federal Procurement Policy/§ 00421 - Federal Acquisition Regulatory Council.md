@@ -14,7 +14,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 &emsp;(C) the Administrator of General Services.
 
-(2) Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) <sup>1</sup> of this title. No other official or employee may be designated to serve on the Council.
+(2) Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agenciesor, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) <sup>1</sup> of this title. No other official or employee may be designated to serve on the Council.
 
 #### (c) Functions
 
@@ -22,7 +22,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 (2) Any other regulations relating to procurement issued by an executive agency shall be limited to (A) regulations essential to implement Government-wide policies and procedures within the agency, and (B) additional policies and procedures required to satisfy the specific and unique needs of the agency.
 
-(3) The Administrator, in consultation with the Council, shall ensure that procurement regulations promulgated by executive agencies areconsistent with the Federal Acquisition Regulation and in accordance with any policies issued pursuant to section 405(a) of this title.
+(3) The Administrator, in consultation with the Council, shall ensure that procurement regulations promulgated by executive agencies are consistent with the Federal Acquisition Regulation and in accordance with any policies issued pursuant to section 405(a) of this title.
 
 (4)(A) Under procedures established by the Administrator, a person may request the Administrator to review any regulation relating to procurement on the basis that such regulation is inconsistent with the Federal Acquisition Regulation.
 
@@ -58,9 +58,9 @@ Subject to section 405(b) of this title, the Council shall manage, coordinate, c
 
 Section 414 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of this title.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30,1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Tables.
 
-The National Aeronautics and Space Act of 1958, referred to in subsec. (c)(1), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended, which is classified generally to chapter 26 (§2451 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 42 and Tables.
+The National Aeronautics and Space Act of 1958, referred to in subsec. (c)(1), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended, which is classified principally to chapter 26 (§2451 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 42 and Tables.
 
 Section 407 of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–106, div. D, title XLIII, §4305(b), Feb. 10, 1996, 110 Stat. 665.
 

@@ -42,7 +42,3 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 For effective date of amendment by Pub. L. 94–455, see section 1013(f)(1) of Pub. L. 94–455, set out as an Effective Date note under section 679 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1361 of this title.
-

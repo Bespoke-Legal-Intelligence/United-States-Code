@@ -8,7 +8,7 @@ Except as otherwise provided in this chapter, gross income includes any amount r
 
 #### (1) In general
 
-&emsp;Gross income does not include that part of any amount received as an annuity under an annuity, endowment, or life insurance contract which bears the same ratio to suchamount as the investment in the contract (as of the annuity starting date) bears to the expected return under the contract (as of such date).
+&emsp;Gross income does not include that part of any amount received as an annuity under an annuity, endowment, or life insurance contract which bears the same ratio to such amount as the investment in the contract (as of the annuity starting date) bears to the expected return under the contract (as of such date).
 
 #### (2) Exclusion limited to investment
 
@@ -20,7 +20,7 @@ Except as otherwise provided in this chapter, gross income includes any amount r
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) after the annuity starting date, payments as an annuity under the contract cease by reason of the death of an annuitant, and
+&emsp;&emsp;&emsp;(i) after the annuity starting date, payments as an annuity under the contractcease by reason of the death of an annuitant, and
 
 &emsp;&emsp;&emsp;(ii) as of the date of such cessation, there is unrecovered investment in the contract,
 
@@ -410,7 +410,7 @@ In computing, for purposes of subsection (c)(1)(A), the aggregate amount of prem
 
 &emsp;(2) if such amounts had been paid directly to the employee at the time they were contributed, they would not have been includible in the gross income of the employee under the law applicable at the time of such contribution.
 
-> Paragraph (2) shall not apply to amounts which were contributed by the employer after December 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of section 911 if such amounts had been paid directly to the employeeat the time of contribution. The preceding sentence shall not apply to amounts which were contributed by the employer, as determined under regulations prescribed by the Secretary, to provide pension or annuity credits, to the extent such credits are attributable to services performed before January 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on March 12, 1962, and on that date applicable to such services, or to the extent such credits are attributable to services performed as a foreign missionary (within the meaning of section 403(b)(2)(D)(iii), as in effect before the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001.<sup>2</sup>
+> Paragraph (2) shall not apply to amounts which were contributed by the employer after December 31, 1962, and which would not have been includible in the gross income of the employee by reason of the application of section 911 if such amounts had been paid directly to the employee at the time of contribution. The preceding sentence shall not apply to amounts which were contributed by the employer, as determined under regulations prescribed by the Secretary, to provide pension or annuity credits, to the extent such credits are attributable to services performed before January 1, 1963, and are provided pursuant to pension or annuity plan provisions in existence on March 12, 1962, and on that date applicable to such services, or to the extent such credits are attributable to services performed as a foreign missionary (within the meaning of section 403(b)(2)(D)(iii), as in effect before the enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001).
 
 #### (g) Rules for transferee where transfer was for value
 
@@ -524,7 +524,7 @@ Subsection (b) shall not apply in the case of amounts received after December 31
 
 #### (4) Special rule for treatment of rollover amounts
 
-&emsp;For purposes of sections 402(c), 403(a)(4), and 403(b)(8), 408(d)(3), and 457(e)(16), the Secretaryshall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
+&emsp;For purposes of sections 402(c), 403(a)(4), and 403(b)(8), 408(d)(3), and 457(e)(16), the Secretary shall prescribe regulations providing for such allocations of amounts attributable to accumulated deductible employee contributions, and for such other rules, as may be necessary to insure that such accumulated deductible employee contributions do not become eligible for additional tax benefits (or freed from limitations) through the use of rollovers.
 
 #### (5) Definitions and special rules
 
@@ -668,7 +668,7 @@ For purposes of this section—
 
 &emsp;&emsp;(E) from a plan, contract, account, trust, or annuity described in subsection (e)(5)(D),
 
-&emsp;&emsp;(F) allocable to investment in the contract before August 14, 1982, or <sup>3</sup>
+&emsp;&emsp;(F) allocable to investment in the contract before August 14, 1982, or <sup>2</sup>
 
 &emsp;&emsp;(G) under a qualified funding asset (within the meaning of section 130(d), but without regard to whether there is a qualified assignment),
 
@@ -812,7 +812,7 @@ For purposes of this section—
 
 #### (1) Imposition of additional tax
 
-&emsp;If any taxpayer receives any amount from a qualified retirement plan (as defined in section 4974(c)), the taxpayer's tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of such amount which is includible in gross income.
+&emsp;If any taxpayer receives any amount from a qualified retirement plan (as defined in section 4974(c)), the taxpayer's tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion ofsuch amount which is includible in gross income.
 
 #### (2) Subsection not to apply to certain distributions
 
@@ -854,7 +854,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) if such distributions are made during any taxable year during which such unemployment compensation is paid or the succeeding taxable year, and
 
-&emsp;&emsp;&emsp;&emsp;(III) to the extent such distributions do not exceed the amount paid during the taxable year for insurance described in section 213(d)(1)(D) with respect to the individual and the individual's spouse and dependents (as defined in section 152).
+&emsp;&emsp;&emsp;&emsp;(III) to the extent such distributions do not exceed the amount paid during the taxable year for insurance described in section 213(d)(1)(D) with respect to the individual and the individual's spouse and dependents (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 
 #### (ii) Distributions after reemployment
 
@@ -890,7 +890,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) paragraph (1) does not apply to a distribution by reason of paragraph (2)(A)(iv), and
 
-&emsp;&emsp;&emsp;(ii) the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
+&emsp;&emsp;&emsp;(ii) the series of payments under such paragraph are subsequently modified\(other than by reason of death or disability)—
 
 &emsp;&emsp;&emsp;&emsp;(I) before the close of the 5-year period beginning with the date of the first payment and after the employee attains age 591/2, or
 
@@ -922,7 +922,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the taxpayer's spouse, or
 
-&emsp;&emsp;&emsp;(iii) any child (as defined in section 151(c)(3)) or grandchild of the taxpayer or the taxpayer's spouse,
+&emsp;&emsp;&emsp;(iii) any child (as defined in section 152(f)(1)) or grandchild of the taxpayer or the taxpayer's spouse,
 
 > &emsp;&emsp;at an eligible educational institution (as defined in section 529(e)(5)).
 
@@ -960,7 +960,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
 
-&emsp;&emsp;&emsp;&emsp;(II) subsection (h) or (k) of section 1034 <sup>4</sup> (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 <sup>4</sup> (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
+&emsp;&emsp;&emsp;&emsp;(II) subsection (h) or (k) of section 1034 <sup>3</sup> (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 <sup>3</sup> (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
 
 #### (ii) Principal residence
 
@@ -976,7 +976,7 @@ For purposes of this section—
 
 #### (E) Special rule where delay in acquisition
 
-&emsp;&emsp;If any distribution from any individual retirement plan fails to meet the requirements of subparagraph (A) solely by reason of a delay or cancellation of the purchase or construction of the residence, the amount of the distribution may be contributed to an individual retirement plan as provided in section 408(d)(3)(A)(i) (determined by substituting “120th day” for “60th day” in such section), except that—
+&emsp;&emsp;If any distribution from any individual retirement plan fails to meet the requirementsof subparagraph (A) solely by reason of a delay or cancellation of the purchase or construction of the residence, the amount of the distribution may be contributed to an individual retirement plan as provided in section 408(d)(3)(A)(i) (determined by substituting “120th day” for “60th day” in such section), except that—
 
 &emsp;&emsp;&emsp;(i) section 408(d)(3)(B) shall not be applied to such contribution, and
 
@@ -1054,15 +1054,47 @@ For purposes of this section—
 
 &emsp;&emsp;(C) which is part of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the taxpayer or the joint lives (or joint life expectancies) of such taxpayer and his beneficiary.
 
-#### (w) Cross reference
+#### (w) Application of basis rules to nonresident aliens
+
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of this section, for purposes of determining the portion of any distribution which is includible in gross income of a distributee who is a citizen or resident of the United States, the investment in the contract shall not include any applicable nontaxable contributions or applicable nontaxable earnings.
+
+#### (2) Applicable nontaxable contribution
+
+&emsp;For purposes of this subsection, the term “applicable nontaxable contribution” means any employer or employee contribution—
+
+&emsp;&emsp;(A) which was made with respect to compensation—
+
+&emsp;&emsp;&emsp;(i) for labor or personal services performed by an employee who, at the time the labor or services were performed, was a nonresident alien for purposes of the laws of the United States in effect at such time, and
+
+&emsp;&emsp;&emsp;(ii) which is treated as from sources without the United States, and
+
+&emsp;&emsp;(B) which was not subject to income tax (and would have been subject to income tax if paid as cash compensation when the services were rendered) under the laws of the United States or any foreign country.
+
+#### (3) Applicable nontaxable earnings
+
+&emsp;For purposes of this subsection, the term “applicable nontaxable earnings” means earnings—
+
+&emsp;&emsp;(A) which are paid or accrued with respect to any employer or employee contribution which was made with respect to compensation for labor or personal services performed by an employee,
+
+&emsp;&emsp;(B) with respect to which the employee was at the time the earnings were paid or accrued a nonresident alien for purposes of the laws of the United States, and
+
+&emsp;&emsp;(C) which were not subject to income tax under the laws of the United States or any foreign country.
+
+#### (4) Regulations
+
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subsection, including regulations treating contributions and earnings as not subject to tax under the laws of any foreign country where appropriate to carry out the purposes of this subsection.
+
+#### (x) Cross reference
 
 &emsp;&emsp;<b>For limitation on adjustments to basis of annuity contracts sold, see section 1021.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(<i>l</i>)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(<i>l</i>)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendments note below.</i>
 
 #### References in Text
 
@@ -1076,7 +1108,17 @@ Section 1034 (as in effect on the day before the date of the enactment of this p
 
 #### Amendments
 
-2001—Subsec. (e)(9). Pub. L. 107–22, §1(b)(3)(A), which directed amendment of par. (9) by substituting “Coverdell education savings” for “education individual retirement” in heading, was executed by making the substitution for “educational individual retirement”, to reflect the probable intent of Congress.
+2004—Subsec. (e)(9). Pub. L. 108–311, §408(b)(3), amended Pub. L. 107–22, §1(b)(3)(A). See 2001 Amendment note below.
+
+Subsec. (f). Pub. L. 108–311, §408(a)(4), substituted “Economic Growth and Tax Relief Reconciliation Act of 2001)” for “Economic Growth and Tax Relief Reconciliation Act of 2001” in concluding provisions.
+
+Subsec. (t)(2)(D)(i)(III). Pub. L. 108–311, §207(6), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+Subsec. (t)(7)(A)(iii). Pub. L. 108–311, §207(7), substituted “152(f)(1)” for “151(c)(3)”.
+
+Subsecs. (w), (x). Pub. L. 108–357 added subsec. (w) and redesignated former subsec. (w) as (x).
+
+2001—Subsec. (e)(9). Pub. L. 107–22, §1(b)(3)(A), as amended by Pub. L. 108–311, §408(b)(3), substituted “Coverdell education savings” for “educational individual retirement” in heading.
 
 Pub. L. 107–22, §1(b)(1)(A), substituted “a Coverdell education savings” for “an education individual retirement”.
 
@@ -1266,7 +1308,7 @@ Subsec. (m)(5)(A). Pub. L. 99–514, §1123(d)(1), amended subpar. (A) generally
 
 &emsp;&emsp;“(I) are received from a qualified trust described in section 401(a) or under a plan described in section 403(a), and
 
-&emsp;&emsp;“(II) are received by a 5-percent owner before such owner attains the age of 591/2 years, for any reason other than such owner becoming disabled (within the meaning of paragraph (7) of this section), and
+&emsp;&emsp;“(II) are received by a 5-percent owner before such owner attains the age of 591/2 years, for any reason other than such owner becoming disabled\(within the meaning of paragraph (7) of this section), and
 
 &emsp;“(ii) to amounts which are received from a qualified trust described in section 401(a) or under a plan described in section 403(a) at any time by a 5-percent owner, or by the successor of such owner, but only to the extent that such amounts are determined (under regulations prescribed by the Secretary) to exceed the benefits provided for such individual under the plan formula.
 
@@ -1448,13 +1490,19 @@ Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall no
 
 Subsecs. (m) to (<i>o</i>). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (<i>o</i>).
 
+#### Effective Date of 2004 Amendments
+
+Pub. L. 108–357, title VIII, §906(c), Oct. 22, 2004, 118 Stat. 1654, provided that: “The amendments made by this section \[amending this section and section 83 of this title\] shall apply to distributions on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by section 207(6), (7) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective and Termination Dates of 2001 Amendments
 
 Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as a note under section 24 of this title.
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
 
-Pub. L. 107–16, title IV, §402(h), June 7, 2001, 115 Stat. 63, provided that: “The amendments made by this section \[amending this section and sections 135, 221, 529,530, 4973, and 6693 of this title\] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 107–16, title IV, §402(h), June 7, 2001, 115 Stat. 63, provided that: “The amendments made by this section \[amending this section and sections 135, 221, 529, 530, 4973, and 6693 of this title\] shall apply to taxable years beginning after December 31, 2001.”
 
 Pub. L. 107–16, title VI, §632(a)(4), June 7, 2001, 115 Stat. 115, provided that: “The amendments made by this subsection \[amending this section and sections 402, 403, 404, 415, and 664 of this title\] shall apply to years beginning after December 31, 2001.”
 
@@ -1500,7 +1548,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), and 1018(k), (t)(1)(A), (B), and (u)(8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), and 1018(k), (t)(1)(A), (B), and (u)(8) ofPub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 5012(a), (b)(1), (d) of Pub. L. 100–647 applicable to contracts entered into on or after June 21, 1988, with special rule where death benefit increases by more than $150,000, certain other material changes taken into account, certain exchanges permitted, and special rule in the case of annuity contracts, see section 5012(e) of Pub. L. 100–647, set out as an Effective Date note under section 7702A of this title.
 
@@ -1536,7 +1584,7 @@ Transition rule.—The amendments made by this section shall not apply with resp
 
 “(5)
 
-Special rule for distributions under an annuity contract.—The amendments made by paragraphs\(1), (2), and (3) of subsection (b) \[amending this section\] shall not apply to any distribution under an annuity contract if—
+Special rule for distributions under an annuity contract.—The amendments made by paragraphs (1), (2), and (3) of subsection (b) \[amending this section\] shall not apply to any distribution under an annuity contract if—
 
 &emsp;“(A) as of March 1, 1986, payments were being made under such contract pursuant to a written election providing a specific schedule for the distribution of the taxpayer's interest in such contract, and
 
@@ -1716,7 +1764,7 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 Section 1951(b)(1)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[repealing subsec. (i) of this section\], if the provisions of section 72(i) applied to amounts received in taxable years beginning before January 1, 1977, under an annuity contract, then amounts received under such contract on or after such date shall be treated as if such provisions were not repealed.”
 
@@ -1736,15 +1784,9 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 22, 25B, 26, 67, 79, 101, 122, 135, 138, 220, 221, 223, 264, 401, 402, 402A, 403, 406, 407, 408, 408A, 414, 457, 529, 530, 691, 805, 817, 817A, 953, 1014, 1275, 4973, 4978, 5891, 6050G, 7702, 7702A, 7702B of this title; title 5 section 8433; title 12 sections 24a, 1813; title 15 section 6712; title 29 sections 1002, 1345; title 45 section 726.
-
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(B)”.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be preceded by a closing parenthesis.</i>
+<i><sup>2</sup></i><i> So in original. The word “or” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. The word “or” probably should not appear.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

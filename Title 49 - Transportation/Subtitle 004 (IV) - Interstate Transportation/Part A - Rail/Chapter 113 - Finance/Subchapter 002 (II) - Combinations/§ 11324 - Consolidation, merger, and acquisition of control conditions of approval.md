@@ -26,7 +26,7 @@
 
 (e) No transaction described in section 11326(b) may have the effect of avoiding a collective bargaining agreement or shifting work from a rail carrier with a collective bargaining agreement to a rail carrier without a collective bargaining agreement.
 
-(f)(1) To the extent provided in this subsection, a proceeding under this subchapter relating to a transaction involving at least oneClass I rail carrier shall not be considered an adjudication required by statute to be determined on the record after opportunity for an agency hearing, for the purposes of subchapter II of chapter 5 of title 5, United States Code.
+(f)(1) To the extent provided in this subsection, a proceeding under this subchapter relating to a transaction involving at least one Class I rail carrier shall not be considered an adjudication required by statute to be determined on the record after opportunity for an agency hearing, for the purposes of subchapter II of chapter 5 of title 5, United States Code.
 
 (2) Ex parte communications, as defined in section 551(14) of title 5, United States Code, shall be permitted in proceedings described in paragraph (1) of this subsection, subject to the requirements of paragraph (3) of this subsection.
 

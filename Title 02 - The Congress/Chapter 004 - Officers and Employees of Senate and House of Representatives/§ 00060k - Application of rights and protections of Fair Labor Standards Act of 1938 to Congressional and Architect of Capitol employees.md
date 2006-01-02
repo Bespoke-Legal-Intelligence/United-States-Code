@@ -8,7 +8,7 @@
 
 #### (2) Administration
 
-&emsp;In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term “Fair Employment Practices Resolution” means House Resolution 558, One HundredthCongress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989.
+&emsp;In the administration of this subsection, the remedies and procedures under the Fair Employment Practices Resolution shall be applied. As used in this paragraph, the term “Fair Employment Practices Resolution” means House Resolution 558, One Hundredth Congress, agreed to October 4, 1988, as continued in effect by House Resolution 15, One Hundred First Congress, agreed to January 3, 1989.
 
 #### (b) Architect of Capitol employees
 

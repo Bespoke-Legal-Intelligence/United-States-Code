@@ -4,7 +4,7 @@
 
 (b) On request of the debtor at any time, if the case has not been converted under section 706, 1112, or 1208 of this title, the court shall dismiss a case under this chapter. Any waiver of the right to dismiss under this subsection is unenforceable.
 
-(c) Except as provided in subsection (e) of this section, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title, or may dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause, including—
+(c) Except as provided in subsection (e) <sup>1</sup> of this section, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title, or may dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause, including—
 
 &emsp;(1) unreasonable delay by the debtor that is prejudicial to creditors;
 
@@ -22,17 +22,21 @@
 
 &emsp;(8) termination of a confirmed plan by reason of the occurrence of a condition specified in the plan other than completion of payments under the plan;
 
-&emsp;(9) only on request of the United States trustee, failure of the debtor to file, within fifteen days, or such additional time as the court may allow, after the filing of the petition commencing such case, the information required by paragraph (1) of section 521; or
+&emsp;(9) only on request of the United States trustee, failure of the debtor to file, within fifteen days, or such additional time as the court may allow, after the filing of the petition commencing such case, the information required by paragraph (1) of section 521;
 
-&emsp;(10) only on request of the United States trustee, failure to timely file the information required by paragraph (2) of section 521.
+&emsp;(10) only on request of the United States trustee, failure to timely file the information required by paragraph (2) of section 521; or
+
+&emsp;(11) failure of the debtor to pay any domestic support obligation that first becomes payable after the date of the filing of the petition.
 
 (d) Except as provided in subsection (e) of this section, at any time before the confirmation of a plan under section 1325 of this title, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 or 12 of this title.
 
-(e) The court may not convert a case under this chapter to a case under chapter 7, 11, or 12 of this title if the debtor is a farmer, unless the debtor requests such conversion.
+(e) Upon the failure of the debtor to file a tax return under section 1308, on request of a party in interest or the United States trustee and after notice and a hearing, the court shall dismiss a case or convert a case under this chapter to a case under chapter 7 of this title, whichever is in the best interest of the creditors and the estate.
 
-(f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
+(f) The court may not convert a case under this chapter to a case under chapter 7, 11, or 12 of this title if the debtor is a farmer, unless the debtor requests such conversion.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2647; Pub. L. 98–353, title III, §§315, 527, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §§229, 257(v), Oct. 27, 1986, 100 Stat. 3103, 3116.)
+(g) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2647; Pub. L. 98–353, title III, §§315, 527, July 10, 1984, 98 Stat. 356, 389; Pub. L. 99–554, title II, §§229, 257(v), Oct. 27, 1986, 100 Stat. 3103, 3116; Pub. L. 109–8, title II, §213(7), title VII, §716(c), Apr. 20, 2005, 119 Stat. 53, 130.)
 
 #### Historical and Revision Notes
 
@@ -42,13 +46,21 @@ Section 1307(a) is derived from the Senate amendment in preference to a comparab
 
 #### senate report no. 95–989
 
-Subsections (a) and (b) confirm, without qualification, the rights of a chapter 13 debtor to convert the case to a liquidating bankruptcy case under chapter 7 of title 11, at any time, or to have the chapter 13 case dismissed. Waiver of any such right is unenforceable. Subsection (c) specifies various conditions for the exercise of the power of the court to convert a chapter 13 case to one under chapter 7 or to dismiss the case. Subsection (d) deals with the conversion of a chapter 13 case to one under chapter 11. Subsection (e) prohibits conversion of the chapter 13 case filed by a farmer to chapter 7 or 11 except at the request of the debtor. No case is to be converted from chapter 13 to any other chapter, unless the debtor is an eligible debtor under the new chapter.
+Subsections (a) and (b) confirm, without qualification, the rights of a chapter 13 debtor to convert the case to a liquidating bankruptcy case under chapter 7 of title 11, at any time, or to have the chapter 13 case dismissed. Waiver of any such right is unenforceable.Subsection (c) specifies various conditions for the exercise of the power of the court to convert a chapter 13 case to one under chapter 7 or to dismiss the case. Subsection (d) deals with the conversion of a chapter 13 case to one under chapter 11. Subsection (e) prohibits conversion of the chapter 13 case filed by a farmer to chapter 7 or 11 except at the request of the debtor. No case is to be converted from chapter 13 to any other chapter, unless the debtor is an eligible debtor under the new chapter.
 
 #### house report no. 95–595
 
 Subsection (f) reinforces section 109 by prohibiting conversion to a chapter under which the debtor is not eligible to proceed.
 
+#### References in Text
+
+Subsection (e) of this section, referred to in subsec. (c), was redesignated as subsec. (d) of this section, and a new subsec. (e) was added, by Pub. L. 109–8, title VII, §716(c), Apr. 20, 2005, 119 Stat. 130.
+
 #### Amendments
+
+2005—Subsec. (c)(11). Pub. L. 109–8, §213(7), added par. (11).
+
+Subsecs. (e) to (g). Pub. L. 109–8, §716(c), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 1986—Subsec. (b). Pub. L. 99–554, §257(v)(1), inserted reference to section 1208 of this title.
 
@@ -66,13 +78,17 @@ Subsec. (e). Pub. L. 99–554, §257(v)(3), inserted reference to chapter 12.
 
 Subsec. (c)(4). Pub. L. 98–353, §315(2), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 98–353, §§315(1), 527(b)(1), redesignated former par. (4) as (5) and inserted “a requestmade for” before “additional”. Former par. (5) redesignated (6).
+Subsec. (c)(5). Pub. L. 98–353, §§315(1), 527(b)(1), redesignated former par. (4) as (5) and inserted “a request made for” before “additional”. Former par. (5) redesignated (6).
 
 Subsec. (c)(6). Pub. L. 98–353, §315(1), redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
 Subsec. (c)(7). Pub. L. 98–353, §§315(1), 527(b)(2), redesignated former par. (6) as (7) and substituted “or” for “and”. Former par. (7) redesignated (8).
 
 Subsec. (c)(8). Pub. L. 98–353, §§315(1), 527(b)(3), redesignated former par. (7) as (8) and inserted “other than completion of payments under the plan” after “in the plan”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -83,4 +99,6 @@ Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

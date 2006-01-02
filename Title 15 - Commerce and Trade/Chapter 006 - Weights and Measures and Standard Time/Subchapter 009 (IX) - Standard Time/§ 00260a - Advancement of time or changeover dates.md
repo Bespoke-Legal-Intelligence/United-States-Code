@@ -12,7 +12,11 @@ It is hereby declared that it is the express intent of Congress by this section 
 
 For any violation of the provisions of this section the Secretary of Transportation or his duly authorized agent may apply to the district court of the United States for the district in which such violation occurs for the enforcement of this section; and such court shall have jurisdiction to enforce obedience thereto by writ of injunction or by other process, mandatory or otherwise, restraining against further violations of this section and enjoining obedience thereto.
 
-(Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764.)
+(Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764; Pub. L. 109–58, title I, §110(a), Aug. 8, 2005, 119 Stat. 615.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 109–58, title I, §110(a), (b), Aug. 8, 2005, 119 Stat. 615, provided that, effective Mar. 1, 2007, subsection (a) of this section is amended</i><i>by substituting “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.</i>
 
 #### Amendments
 
@@ -22,9 +26,25 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 1972—Subsec. (a). Pub. L. 92–267 authorized any State with parts thereof lying in more than one time zone to exempt by law that part of such State lying within any time zone from provisions of this subsection providing for advancement of time.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title I, §110(b), Aug. 8, 2005, 119 Stat. 615, provided that: “Subsection (a) \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Aug. 8, 2005\] or March 1, 2007, whichever is later.”
+
 #### Effective Date of 1986 Amendment
 
 Section 2(e) of Pub. L. 99–359 provided that: “This section \[amending this section and enacting provisions set out as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
+
+#### Study and Report on Energy Consumption; Reversion
+
+Pub. L. 109–58, title I, §110(c), (d), Aug. 8, 2005, 119 Stat. 615, provided that:
+
+“(c)
+
+Report to Congress.—Not later than 9 months after the effective date stated in subsection (b) \[set out above\], the Secretary \[of Energy\] shall report to Congress on the impact of this section \[amending this section\] on energy consumption in the United States.
+
+“(d)
+
+Right to Revert.—Congress retains the right to revert the Daylight Saving Time back to the 2005 time schedules once the Department \[of Energy\] study is complete.”
 
 #### Congressional Findings; Expansion of Daylight Saving Time
 
@@ -72,7 +92,7 @@ Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is 
 
 Sec. 2. In deciding to grant or deny an exemption or realignment, the Secretary shall consider, among other things, the policy of the United States, as expressed in sections 2 and 4 of the Uniform Time Act of 1966 (80 Stat. 107, 108; 15 U.S.C. 260, 261), to promote the adoption and observance of uniform time within the standard time zones of the United States and the convenience of commerce, as well as possible energy savings, undue hardship to large segments of the population, and the possible impact on the success of and cooperation with the national energy conservation program.
 
-Sec. 3. In carrying out his responsibilities under this order, the Secretary shall, as he deems necessary, consult with the Department of Health, Education, and Welfare, the Federal Energy Office (or any agency which hereafter may succeed to its functions), and any other interested agency and he may call upon those agencies for information and advice. Each interested department or agency shall assist the Secretary, as necessary, to carry out the provisions of this order.
+Sec. 3. In carrying out his responsibilities under this order, the Secretary shall, as he deems necessary, consult with the Department of Health, Education, and Welfare, the Federal Energy Office (or any agency which hereafter may succeed to its functions), and any other interested agency and he may call upon thoseagencies for information and advice. Each interested department or agency shall assist the Secretary, as necessary, to carry out the provisions of this order.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

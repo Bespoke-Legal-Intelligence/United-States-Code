@@ -184,7 +184,7 @@ Exemptions.—This section shall not apply to—
 
 (e)
 
-Lake Mead.—This section shall not apply to any air tour operator while flying over or near the Lake Mead National Recreation Area, solely as a transportation route, to conduct an air tour over the Grand Canyon National Park.
+Lake Mead.—This section shall not apply to any air tour operator while flying over or near the Lake Mead National Recreation Area, solely as a transportation route, to conduct an air tour over the Grand Canyon National Park. For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.
 
 (f)
 
@@ -254,13 +254,15 @@ Administrator.—The term “Administrator” means the Administrator of the Fed
 
 Director.—The term “Director” means the Director of the National Park Service.
 
-(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541.)
+(Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2)(A), (3)(C), and (f)(2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–115 inserted at end “For purposes of this subsection, an air tour operator flying over the Hoover Dam in the Lake Mead National Recreation Area en route to the Grand Canyon National Park shall be deemed to be flying solely as a transportation route.”
 
 2003—Subsec. (a)(1). Pub. L. 108–176, §323(a)(1), inserted “, as defined by this section,” after “tribal lands” in introductory provisions.
 
@@ -293,6 +295,10 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.
+
+#### Grand Canyon Overflight Rules
+
+Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427, provided in part that: “Nothing in this provision \[amending this section\] shall allow exemption from overflight rules for the Grand Canyon.”
 
 #### Quiet Technology Rulemaking for Air Tours Over Grand Canyon National Park
 
@@ -454,7 +460,7 @@ Nonapplication of faca.—Section 14 of the Federal Advisory Committee Act (5 U.
 
 “(a)
 
-Overflight Fee Report.—Not later than 180 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a report on the effects overflight fees are likely to have on the commercial air tour operation industry. The report shall include, but shall not be limited to—
+Overflight Fee Report.—Not later than 180 days after the date of the enactment of this Act \[Apr.5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a report on the effects overflight fees are likely to have on the commercial air tour operation industry. The report shall include, but shall not be limited to—
 
 &emsp;“(1) the viability of a tax credit for the commercial air tour operators equal to the amount of any overflight fees charged by the National Park Service; and
 
@@ -462,7 +468,7 @@ Overflight Fee Report.—Not later than 180 days after the date of the enactment
 
 “(b)
 
-Quiet Aircraft Technology Report.—Not later than 2 years after the date of the enactment of this Act, the Administrator and the Director of the National Park Service shall jointly transmit a report to Congress on the effectiveness of this title in providingincentives for the development and use of quiet aircraft technology.
+Quiet Aircraft Technology Report.—Not later than 2 years after the date of the enactment of this Act, the Administrator and the Director of the National Park Service shall jointly transmit a report to Congress on the effectiveness of this title in providing incentives for the development and use of quiet aircraft technology.
 
 #### “SEC. 808. METHODOLOGIES USED TO ASSESS AIR TOUR NOISE.
 

@@ -2,13 +2,13 @@
 
 #### (a) General rule
 
-In the case of each failure described in subsection (b) by any person with respect to a payeestatement, such person shall pay a penalty of $50 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000.
+In the case of each failure described in subsection (b) by any person with respect to a payee statement, such person shall pay a penalty of $50 for each statement with respect to which such a failure occurs, but the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000.
 
 #### (b) Failures subject to penalty
 
 For purposes of subsection (a), the failures described in this subsection are—
 
-&emsp;(1) any failure to furnish a payee statement on or before the date prescribed therefor to the person to whom such statement is required to be furnished, and
+&emsp;(1) any failure to furnish a payee statement on or before the date prescribed therefor tothe person to whom such statement is required to be furnished, and
 
 &emsp;(2) any failure to include all of the information required to be shown on a payee statement or the inclusion of incorrect information.
 
@@ -41,8 +41,4 @@ Amendment by Pub. L. 101–239 applicable to returns and statements the due date
 #### Effective Date
 
 Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as a note under section 6721 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6047 of this title.
 

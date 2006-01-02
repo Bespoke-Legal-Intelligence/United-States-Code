@@ -2,7 +2,7 @@
 
 #### (a) Evaluation
 
-The Secretary of Agriculture shall conduct a performance evaluation to determine whether federally funded agricultural research, extension, and education programs result in public goods that have national or multistate significance.
+The Secretary of Agriculture shall conduct a performance evaluation to determine whetherfederally funded agricultural research, extension, and education programs result in public goods that have national or multistate significance.
 
 #### (b) Contract
 

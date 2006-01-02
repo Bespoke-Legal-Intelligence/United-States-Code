@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) Organizational camps, such as those administered by the Boy Scouts, Girl Scouts, and faith-based and community-based organizations, provide a valuable service to young people, individuals with a disability, and their families by promoting physical, mental, and spiritual health through activities conducted in a natural environment.
+&emsp;(1) Organizational camps, such as those administered by the Boy Scouts, Girl Scouts, and faith-based and community-based organizations, provide a valuable service to young people, individuals with a disability, and their families by promoting physical, mental, andspiritual health through activities conducted in a natural environment.
 
 &emsp;(2) The 192,000,0000 <sup>1</sup> acres of national forests and grasslands of the National Forest System managed for multiple uses by the Forest Service provides an ideal setting for such organizational camps.
 

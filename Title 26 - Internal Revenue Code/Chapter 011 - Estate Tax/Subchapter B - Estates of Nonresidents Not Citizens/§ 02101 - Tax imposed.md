@@ -68,7 +68,3 @@ Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec
 
 Section 108(i) of Pub. L. 89–809 provided that: “The amendments made by this section \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 691, 2013, 2014, 2015, 2102, 2103, 2106, 2107, 2108, 2201 of this title.
-

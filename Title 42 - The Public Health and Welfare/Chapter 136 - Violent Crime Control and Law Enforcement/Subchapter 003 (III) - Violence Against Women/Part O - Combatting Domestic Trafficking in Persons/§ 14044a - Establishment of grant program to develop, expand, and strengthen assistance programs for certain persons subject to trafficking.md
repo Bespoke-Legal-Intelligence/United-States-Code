@@ -1,0 +1,24 @@
+### §14044a. Establishment of grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking
+
+#### (a) Grant program
+
+The Secretary of Health and Human Services may make grants to States, Indian tribes, units of local government, and nonprofit, nongovernmental victims’ service organizations to establish, develop, expand, and strengthen assistance programs for United States citizens or aliens admitted for permanent residence who are the subject of sex trafficking or severe forms of trafficking in persons that occurs, in whole or in part, within the territorial jurisdiction of the United States.
+
+#### (b) Selection factor
+
+In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants with experience in the delivery of services to persons who have been subjected to sexual abuse or commercial sexual exploitation and to applicants who would employ survivors of sexual abuse or commercial sexual exploitation as a part of their proposed project.
+
+#### (c) Limitation on Federal share
+
+The Federal share of a grant made under this section may not exceed 75 percent of the total costs of the projects described in the application submitted.
+
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated $10,000,000 for each of the fiscal years 2006 and 2007 to carry out the activities described in this section.
+
+(Pub. L. 109–164, title II, §202, Jan. 10, 2006, 119 Stat. 3569.)
+
+#### Codification
+
+Section was enacted as part of the Trafficking Victims Protection Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+

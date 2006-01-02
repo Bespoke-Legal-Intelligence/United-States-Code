@@ -3,7 +3,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [4771\.](%C2%A7%2004771%20-%20Acceptance%20of%20donations%20land%20for%20mobilization%2C%20training%2C%20supply%20base%2C%20or%20aviation%20field.md) | Acceptance of donations: land for mobilization, training, supply base, or aviation field. |
-| \[4772 to 4775. Repealed.\] |  |
+| [4772\.](%C2%A7%2004772%20-%20Heritage%20Center%20for%20the%20National%20Museum%20of%20the%20United%20States%20Army%20development%20and%20operation.md) | Heritage Center for the National Museum of the United States Army: development and operation. |
+| \[4774, 4775. Repealed.\] |  |
 | [4776\.](%C2%A7%2004776%20-%20Emergency%20construction%20fortifications.md) | Emergency construction: fortifications. |
 | [4777\.](%C2%A7%2004777%20-%20Permits%20military%20reservations%3B%20landing%20ferries%2C%20erecting%20bridges%2C%20driving%20livestock.md) | Permits: military reservations; landing ferries, erecting bridges, driving livestock. |
 | [4778\.](%C2%A7%2004778%20-%20Licenses%20military%20reservations%3B%20erection%20and%20use%20of%20buildings%3B%20Young%20Men%27s%20Christian%20Association.md) | Licenses: military reservations; erection and use of buildings; Young Men's Christian Association. |
@@ -13,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. B, title XXVIII, §2822(b), Oct. 28, 2004, 118 Stat. 2132, added item 4772.
 
 1982—Pub. L. 97–295, §1(43)(B), Oct. 12, 1982, 96 Stat. 1298, struck out item 4772 “Reservation and use for air base or testing field”.
 
@@ -30,7 +33,7 @@ Pub. L. 97–214, §10(a)(9)(A), July 12, 1982, 96 Stat. 175, struck out item 47
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 04771 - Acceptance of donations land for mobilization, training, supply base, or aviation field](%C2%A7%2004771%20-%20Acceptance%20of%20donations%20land%20for%20mobilization%2C%20training%2C%20supply%20base%2C%20or%20aviation%20field.md)
-- [&sect; 04772 - Repealed. Pub. L. 97&#8211;295, &sect;1(43)(A), Oct. 12, 1982, 96 Stat. 1298](%C2%A7%2004772%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93295%2C%20%C2%A71%2843%29%28A%29%2C%20Oct.%2012%2C%201982%2C%2096%20Stat.%201298.md)
+- [&sect; 04772 - Heritage Center for the National Museum of the United States Army development and operation](%C2%A7%2004772%20-%20Heritage%20Center%20for%20the%20National%20Museum%20of%20the%20United%20States%20Army%20development%20and%20operation.md)
 - [&sect; 04774 - Repealed. Pub. L. 97&#8211;214, &sect;7(1), July 12, 1982, 96 Stat. 173](%C2%A7%2004774%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93214%2C%20%C2%A77%281%29%2C%20July%2012%2C%201982%2C%2096%20Stat.%20173.md)
 - [&sect; 04775 - Repealed. Pub. L. 92&#8211;145, title V, &sect;509(a), Oct. 27, 1971, 85 Stat. 408](%C2%A7%2004775%20-%20Repealed.%20Pub.%20L.%2092%E2%80%93145%2C%20title%20V%2C%20%C2%A7509%28a%29%2C%20Oct.%2027%2C%201971%2C%2085%20Stat.%20408.md)
 - [&sect; 04776 - Emergency construction fortifications](%C2%A7%2004776%20-%20Emergency%20construction%20fortifications.md)

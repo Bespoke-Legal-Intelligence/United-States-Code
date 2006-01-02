@@ -22,7 +22,7 @@
 
 (B) The initial rate of pay for a career appointee following the position's conversion (as described in paragraph (1)(B)) may not be less than the rate of basic pay last payable to that individual immediately before such position's conversion.
 
-(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, §3,Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, §305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, §529 \[title I, §101(b)(7)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, §2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, §2(35), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 108–136, div. A, title XI, §1125(a)(3), Nov. 24, 2003, 117 Stat. 1639.)
+(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, §3, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, §305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, §529 \[title I, §101(b)(7)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, §2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, §2(35), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 108–136, div. A, title XI, §1125(a)(3), Nov. 24, 2003, 117 Stat. 1639.)
 
 #### Amendments
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 98–615 effective following expiration of 90-day period be
 
 #### Senior Executive Service; Maximum Aggregate Amount Payable, Etc.; Report
 
-Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to study and, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
+Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Office of Personnel Management to studyand, within 12 months after Nov. 29, 1983, submit to each House of Congress a report on effect which 5 U.S.C. 5383(b) (relating to maximum aggregate amount payable to a member of Senior Executive Service in a fiscal year) has had with respect to recruitment, retention, and morale of career appointees in Senior Executive Service.
 

@@ -48,7 +48,7 @@ Placement on revised salary schedule.—
 
 &emsp;&emsp;“(A)
 
-In general.—Each officer and member shall be placed in and receive basic compensation at the corresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title V, Aug. 1, 1958, 72 Stat. 485\] (as amended by section 902(a)) in accordance with the member's total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer's or member's salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
+In general.—Each officer and member shall be placed in and receive basic compensation at thecorresponding scheduled service step of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title V, Aug. 1, 1958, 72 Stat. 485\] (as amended by section 902(a)) in accordance with the member's total years of creditable service, receiving credit for all service step adjustments. If the scheduled rate of pay for the step to which the officer or member would be assigned in accordance with this paragraph is lower than the officer's or member's salary immediately prior to the enactment of this paragraph, the officer or member will be placed in and receive compensation at the next higher service step.
 
 &emsp;&emsp;“(B)
 
@@ -122,5 +122,5 @@ Conforming Amendment.—\[Amended Pub. L. 101–509, §529 \[title IV, §405\], 
 
 “(f)
 
-Effective Date.—The provisions of this section shall become effective on the first day of the first payperiod beginning after the date of enactment of this Act \[Oct. 10, 1997\].”
+Effective Date.—The provisions of this section shall become effective on the first day of the first pay period beginning after the date of enactment of this Act \[Oct. 10, 1997\].”
 

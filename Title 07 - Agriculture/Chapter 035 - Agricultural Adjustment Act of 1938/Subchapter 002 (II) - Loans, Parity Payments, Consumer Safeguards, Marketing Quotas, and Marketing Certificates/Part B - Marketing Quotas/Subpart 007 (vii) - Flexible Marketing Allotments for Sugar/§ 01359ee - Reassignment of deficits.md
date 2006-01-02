@@ -22,7 +22,7 @@ At any time allotments are in effect under this subpart, the Secretary, from tim
 
 &emsp;If the Secretary determines that a sugar beet processor who has been allocated a share of the beet sugar allotment will be unable to market that allocation—
 
-&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account theinterests of producers served by the processors;
+&emsp;&emsp;(A) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
 
 &emsp;&emsp;(B) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
 

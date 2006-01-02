@@ -12,7 +12,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;(4) The primary purpose of the armed forces is to prepare for and to prevail in combat should the need arise.
 
-&emsp;(5) The conduct of military operations requires members of the armed forces to makeextraordinary sacrifices, including the ultimate sacrifice, in order to provide for the common defense.
+&emsp;(5) The conduct of military operations requires members of the armed forces to make extraordinary sacrifices, including the ultimate sacrifice, in order to provide for the common defense.
 
 &emsp;(6) Success in combat requires military units that are characterized by high morale, good order and discipline, and unit cohesion.
 
@@ -80,7 +80,7 @@ Rule of Construction.—Nothing in subsection (b) shall be construed to require 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “homosexual” means a person, regardless of sex, who engages in, attempts toengage in, has a propensity to engage in, or intends to engage in homosexual acts, and includes the terms “gay” and “lesbian”.
+&emsp;(1) The term “homosexual” means a person, regardless of sex, who engages in, attempts to engage in, has a propensity to engage in, or intends to engage in homosexual acts, and includes the terms “gay” and “lesbian”.
 
 &emsp;(2) The term “bisexual” means a person who engages in, attempts to engage in, has a propensity to engage in, or intends to engage in homosexual and heterosexual acts.
 
@@ -115,8 +115,4 @@ Sense of Congress.—It is the sense of Congress that—
 &emsp;“(1) the suspension of questioning concerning homosexuality as part of the processing of individuals for accession into the Armed Forces under the interim policy of January 29, 1993, should be continued, but the Secretary of Defense may reinstate that questioning with such questions or such revised questions as he considers appropriate if the Secretary determines that it is necessary to do so in order to effectuate the policy set forth in section 654 of title 10, United States Code, as added by subsection (a); and
 
 &emsp;“(2) the Secretary of Defense should consider issuing guidance governing the circumstances under which members of the Armed Forces questioned about homosexuality for administrative purposes should be afforded warnings similar to the warnings under section 831(b) of title 10, United States Code (article 31(b) of the Uniform Code of Military Justice).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 983 of this title.
 

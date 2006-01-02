@@ -2,7 +2,7 @@
 
 #### (a) Determination of entitlement
 
-(1) For purposes of determining the natural gas entitlement of any local distribution company under any curtailment plan, if the Commission revises any base period establishedunder such plan, the volumes of natural gas which such local distribution company demonstrates—
+(1) For purposes of determining the natural gas entitlement of any local distribution company under any curtailment plan, if the Commission revises any base period established under such plan, the volumes of natural gas which such local distribution company demonstrates—
 
 &emsp;(A) were sold by the local distribution company, for a priority use immediately before the implementation of conservation measures, and
 
@@ -37,4 +37,8 @@ The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 55
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
+
+#### Definitions
+
+For definitions of terms used in this section, see section 2602 of Title 16, Conservation.
 

@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
+&emsp;(1) “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam,American Samoa, or the Commonwealth of the Northern Mariana Islands.
 
 &emsp;(2) “State educational agency” means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
 

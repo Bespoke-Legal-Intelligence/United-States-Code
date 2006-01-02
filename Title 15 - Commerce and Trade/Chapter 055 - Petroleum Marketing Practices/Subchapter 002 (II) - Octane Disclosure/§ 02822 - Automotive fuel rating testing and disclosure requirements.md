@@ -6,7 +6,7 @@ Each refiner who distributes automotive fuel in commerce shall—
 
 &emsp;(1) determine the automotive fuel rating of any such fuel; and
 
-&emsp;(2) if such refiner distributes such fuel to any person other than the ultimate purchaser, certify, consistent with the determination made under paragraph (1), the automotive fuel rating of such fuel.
+&emsp;(2) if such refiner distributes such fuel to any person other than the ultimate purchaser, certify, consistent with the determinationmade under paragraph (1), the automotive fuel rating of such fuel.
 
 #### (b) Certification of automotive fuel rating by distributor receiving and distributing automotive fuel with certified automotive fuel rating; use of automotive fuel rating for certification by distributor
 
@@ -62,7 +62,7 @@ Any display or representation, with respect to the automotive fuel requirement o
 
 #### Amendments
 
-1992—Pub. L. 102–486 amended section as follows: substituted “Automotive fuel rating” for “Octane” in section catchline; substituted “automotive fuel rating” and “automotive fuel ratings” for “octane rating” and “octane ratings”, respectively, wherever appearing; in subsecs. (a) and (b), substituted “fuel” for “gasoline” wherever appearing; in subsec. (c), substituted “automotive fuel” for “gasoline” wherever appearing except that “fuel” substituted for second reference to “gasoline”; in subsec. (d), substituted “automotive fuel” for “octane”; in subsec. (e), substituted “fuel” for “gasoline” wherever appearing and substituted “fuel's” for “gasoline's”; in subsecs. (f), (g), and (h), substituted “fuel” for “gasoline” wherever appearing; and in subsec. (h), substituted “automotive fuel requirement” for “octane requirement” wherever appearing.
+1992—Pub. L. 102–486 amended section as follows: substituted “Automotive fuel rating” for “Octane” in section catchline; substituted “automotive fuel rating” and “automotive fuel ratings” for “octane rating” and “octane ratings”, respectively, wherever appearing; in subsecs. (a) and (b), substituted “fuel” for “gasoline” wherever appearing; in subsec. (c), substituted “automotive fuel” for “gasoline” wherever appearing except that “fuel” substituted for second reference to “gasoline”; in subsec. (d), substituted “automotive fuel” for “octane”; in subsec. (e), substituted “fuel” for “gasoline” wherever appearing and substituted “fuel's” for “gasoline's”; in subsecs. (f), (g), and (h), substituted“fuel” for “gasoline” wherever appearing; and in subsec. (h), substituted “automotive fuel requirement” for “octane requirement” wherever appearing.
 
 #### Effective Date of 1992 Amendment
 

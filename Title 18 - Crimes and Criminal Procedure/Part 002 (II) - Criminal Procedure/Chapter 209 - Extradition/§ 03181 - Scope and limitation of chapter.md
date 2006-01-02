@@ -42,7 +42,7 @@ Pub. L. 105–323, title II, Oct. 30, 1998, 112 Stat. 3033, provided that:
 
 &emsp;“(4) in enacting the International Parental Kidnapping Crime Act of 1993 (Public Law 103–173; 107 Stat. 1998; 18 U.S.C. 1204), Congress recognized the need to combat parental abduction by making the act of international parental kidnapping a Federal criminal offense;
 
-&emsp;“(5) many of the extradition treaties to which the United States is a party specifically list the offenses that are extraditable and use the word ‘kidnapping’, but it has been the practice of the United States not to consider the term to include parental abduction because these treaties were negotiated by the UnitedStates prior to the development in United States criminal law described in paragraphs (3) and (4);
+&emsp;“(5) many of the extradition treaties to which the United States is a party specifically list the offenses that are extraditable and use the word ‘kidnapping’, but it has been the practice of the United States not to consider the term to include parental abduction because these treaties were negotiated by the United States prior to the development in United States criminal law described in paragraphs (3) and (4);
 
 &emsp;“(6) the more modern extradition treaties to which the United States is a party contain dual criminality provisions, which provide for extradition where both parties make the offense a felony, and therefore it is the practice of the United States to consider such treaties to include parental abduction if the other foreign state party also considers the act of parental abduction to be a criminal offense; and
 

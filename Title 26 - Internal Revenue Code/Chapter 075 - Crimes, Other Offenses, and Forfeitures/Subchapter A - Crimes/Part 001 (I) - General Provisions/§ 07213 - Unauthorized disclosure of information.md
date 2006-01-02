@@ -166,7 +166,3 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 For provisions that nothing in amendments by section 2653 of Pub. L. 98–369 be construed as exempting debts of corporations or any other category of persons from application of such amendments, with such amendments to extend to all Federal agencies (as defined in such amendments), see section 9402(b) of Pub. L. 98–369, set out as a note under section 6402 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6105, 6109, 7213A, 7431, 7513 of this title; title 5 section 3111; title 42 sections 405, 1320b–11.
-

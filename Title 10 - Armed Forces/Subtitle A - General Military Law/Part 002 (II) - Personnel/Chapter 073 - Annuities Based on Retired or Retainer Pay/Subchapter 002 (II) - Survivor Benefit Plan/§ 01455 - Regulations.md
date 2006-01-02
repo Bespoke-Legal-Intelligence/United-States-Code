@@ -74,7 +74,3 @@ Legal effect of payment to guardian or fiduciary.—An annuity paid to a person 
 
 Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1444a, 1448, 1450, 1454, 1460b of this title.
-

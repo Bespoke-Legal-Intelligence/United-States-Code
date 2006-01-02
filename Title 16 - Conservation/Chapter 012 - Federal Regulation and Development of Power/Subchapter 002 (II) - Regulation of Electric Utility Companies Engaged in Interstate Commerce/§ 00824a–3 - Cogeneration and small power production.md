@@ -34,9 +34,9 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 #### (e) Exemptions
 
-(1) Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power productionfacilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act \[16 U.S.C. 791a et seq.\], from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\], from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
+(1) Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power production facilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act \[16 U.S.C. 791a et seq.\], from the Public Utility Holding Company Act,<sup>2</sup> from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
 
-(2) No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act \[16 U.S.C. 796(17)(E)\]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rules under paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act \[15 U.S.C. 79 et seq.\] and from State laws and regulations referred to in such paragraph (1).
+(2) No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act \[16 U.S.C. 796(17)(E)\]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rules under paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act <sup>2</sup> and from State laws and regulations referred to in such paragraph (1).
 
 (3) No qualifying small power production facility or qualifying cogeneration facility may be exempted under this subsection from—
 
@@ -64,7 +64,7 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 (2)(A) The Commission may enforce the requirements of subsection (f) of this section against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) of this section shall be treated as a rule enforceable under the Federal Power Act \[16 U.S.C. 791a et seq.\]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
-&emsp;(i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) of this section <sup>2</sup> or
+&emsp;(i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) of this section <sup>3</sup> or
 
 &emsp;(ii) an action under paragraph (1).
 
@@ -102,25 +102,93 @@ For purposes of this section, the term “new dam or diversion” means a dam or
 
 For purposes of this section, the terms “small power production facility”, “qualifying small power production facility”, “qualifying small power producer”, “primary energy source”, “cogeneration facility”, “qualifying cogeneration facility”, and “qualifying cogenerator” have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act \[16 U.S.C. 796(17), (18)\].
 
-(Pub. L. 95–617, title II, §210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, §643(b), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, §2, Nov. 15, 1990, 104 Stat. 2834.)
+#### (m) Termination of mandatory purchase and sale requirements
+
+#### (1) Obligation to purchase
+
+&emsp;After August 8, 2005, no electric utility shall be required to enter into a new contract or obligation to purchase electric energy from a qualifying cogeneration facility or a qualifying small power production facility under this section if the Commission finds that the qualifying cogeneration facility or qualifying small power production facility has nondiscriminatory access to—
+
+&emsp;&emsp;(A)(i) independently administered, auction-based day ahead and real time wholesale markets for the sale of electric energy; and (ii) wholesale markets for long-term sales of capacity and electric energy; or
+
+&emsp;&emsp;(B)(i) transmission and interconnection services that are provided by a Commission-approved regional transmission entity and administered pursuant to an open access transmission tariff that affords nondiscriminatory treatment to all customers; and (ii) competitive wholesale markets that provide a meaningful opportunity to sell capacity, including long-term and short-term sales, and electric energy, including long-term, short-term and real-time sales, to buyers other than the utility to which the qualifying facility is interconnected. In determining whether a meaningful opportunity to sell exists, the Commission shall consider, among other factors, evidence of transactions within the relevant market; or
+
+&emsp;&emsp;(C) wholesale markets for the sale of capacity and electric energy that are, at a minimum, of comparable competitive quality as markets described in subparagraphs (A) and (B).
+
+#### (2) Revised purchase and sale obligation for new facilities
+
+&emsp;(A) After August 8, 2005, no electric utility shall be required pursuant to this section to enter into a new contract or obligation to purchase from or sell electric energy to a facility that is not an existing qualifying cogeneration facility unless the facility meets the criteria for qualifying cogeneration facilities established by the Commission pursuant to the rulemaking required by subsection (n) of this section.
+
+&emsp;(B) For the purposes of this paragraph, the term “existing qualifying cogeneration facility” means a facility that—
+
+&emsp;&emsp;(i) was a qualifying cogeneration facility on August 8, 2005; or
+
+&emsp;&emsp;(ii) had filed with the Commission a notice of self-certification, self recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by subsection (n) of this section.
+
+#### (3) Commission review
+
+&emsp;Any electric utility may file an application with the Commission for relief from the mandatory purchase obligation pursuant to this subsection on a service territory-wide basis. Such application shall set forth the factual basis upon which relief is requested and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection have been met. After notice, including sufficient notice to potentially affected qualifying cogeneration facilities and qualifying small power production facilities, and an opportunity for comment, the Commission shall make a final determination within 90 days of such application regarding whether the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) have been met.
+
+#### (4) Reinstatement of obligation to purchase
+
+&emsp;At any time after the Commission makes a finding under paragraph (3) relieving an electric utility of its obligation to purchase electric energy, a qualifying cogeneration facility, a qualifying small power production facility, a State agency, or any other affected person may apply to the Commission for an order reinstating the electric utility's obligation to purchase electric energy under this section. Such application shall set forth the factual basis upon which the application is based and describe why the conditions set forth in subparagraph (A), (B), or (C) of paragraph (1) of this subsection are no longer met. After notice, including sufficient notice to potentially affected utilities, and opportunity for comment, the Commission shall issue an order within 90 days of such application reinstating the electric utility's obligation to purchase electric energy under this section if the Commission finds that the conditions set forth in subparagraphs (A), (B) or (C) of paragraph (1) which relieved the obligation to purchase, are no longer met.
+
+#### (5) Obligation to sell
+
+&emsp;After August 8, 2005, no electric utility shall be required to enter into a new contract or obligation to sell electric energy to a qualifying cogeneration facility or a qualifying small power production facility under this section if the Commission finds that—
+
+&emsp;&emsp;(A) competing retail electric suppliers are willing and able to sell and deliver electric energy to the qualifying cogeneration facility or qualifying small power production facility; and
+
+&emsp;&emsp;(B) the electric utility is not required by State law to sell electric energy in its service territory.
+
+#### (6) No effect on existing rights and remedies
+
+&emsp;Nothing in this subsection affects the rights or remedies of any party under any contract or obligation, in effect or pending approval before the appropriate State regulatory authority or non-regulated electric utility on August 8, 2005, to purchase electric energy or capacity from or to sell electric energy or capacity to a qualifying cogeneration facility or qualifying small power production facility under this Act (including the right to recover costs of purchasing electric energy or capacity).
+
+#### (7) Recovery of costs
+
+&emsp;(A) The Commission shall issue and enforce such regulations as are necessary to ensure that an electric utility that purchases electric energy or capacity from a qualifying cogeneration facility or qualifying small power production facility in accordance with any legally enforceable obligation entered into or imposed under this section recovers all prudently incurred costs associated with the purchase.
+
+&emsp;(B) A regulation under subparagraph (A) shall be enforceable in accordance with the provisions of law applicable to enforcement of regulations under the Federal Power Act (16 U.S.C. 791a et seq.).
+
+#### (n) Rulemaking for new qualifying facilities
+
+(1)(A) Not later than 180 days after August 8, 2005, the Commission shall issue a rule revising the criteria in 18 CFR 292.205 for new qualifying cogeneration facilities seeking to sell electric energy pursuant to this section to ensure—
+
+&emsp;(i) that the thermal energy output of a new qualifying cogeneration facility is used in a productive and beneficial manner;
+
+&emsp;(ii) the electrical, thermal, and chemical output of the cogeneration facility is used fundamentally for industrial, commercial, or institutional purposes and is not intended fundamentally for sale to an electric utility, taking into account technological, efficiency, economic, and variable thermal energy requirements, as well as State laws applicable to sales of electric energy from a qualifying facility to its host facility; and
+
+&emsp;(iii) continuing progress in the development of efficient electric energy generating technology.
+
+(B) The rule issued pursuant to paragraph (1)(A) of this subsection shall be applicable only to facilities that seek to sell electric energy pursuant to this section. For all other purposes, except as specifically provided in subsection (m)(2)(A) of this section, qualifying facility status shall be determined in accordance with the rules and regulations of this Act.
+
+(2) Notwithstanding rule revisions under paragraph (1), the Commission's criteria for qualifying cogeneration facilities in effect prior to the date on which the Commission issues the final rule required by paragraph (1) shall continue to apply to any cogeneration facility that—
+
+&emsp;(A) was a qualifying cogeneration facility on August 8, 2005, or
+
+&emsp;(B) had filed with the Commission a notice of self-certification, self-recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by paragraph (1).
+
+(Pub. L. 95–617, title II, §210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, §643(b), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, §2, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 109–58, title XII, §1253(a), Aug. 8, 2005, 119 Stat. 967.)
 
 #### References in Text
 
-The Commission, referred to in subsecs. (a), (e)(1), (2), (f), (h), and (j)(1), (2), means the Federal Energy Regulatory Commission. See section 2602(3) of this title.
+The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The Secretary, referred to in subsec. (g)(2), means the Secretary of Energy. See section 2602(14) of this title.
-
-The Federal Power Act, referred to in subsecs. (e), (h), and (j)(1), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter (§791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
-
-The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
+The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 The Electric Consumers Protection Act of 1986, referred to in subsec. (j)(1), is Pub. L. 99–495, Oct. 16, 1986, 100 Stat. 1243. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 791a of this title and Tables.
+
+This Act, referred to in subsecs. (m)(6) and (n)(1)(B), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
 
+August 8, 2005, referred to in subsec. (n)(1)(A), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsecs. (m) and (n) of this section, to reflect the probable intent of Congress.
+
 #### Amendments
+
+2005—Subsecs. (m), (n). Pub. L. 109–58 added subsecs. (m) and (n).
 
 1990—Subsec. (e)(2). Pub. L. 101–575 inserted “(other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act)” after first reference to “facility”.
 
@@ -130,13 +198,13 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 Subsec. (e)(1). Pub. L. 96–294, §643(b)(2), inserted provisions relating to applicability to geothermal small power production facilities.
 
-Subsec. (e)(2). Pub. L. 96–294, §643(b)(3), inserted provisions respecting a qualifying small power productionfacility using geothermal energy as the primary energy source.
+Subsec. (e)(2). Pub. L. 96–294, §643(b)(3), inserted provisions respecting a qualifying small power production facility using geothermal energy as the primary energy source.
 
 #### Effective Date of 1986 Amendment
 
 Section 8(b) of Pub. L. 99–495 provided that:
 
-“(1) Subsection (j) of section 210 of the Public Utility Regulatory Policies Act of 1978 (as amended by subsection (a) of this section) \[16 U.S.C. 824a–3(j)\] shall apply to any project for which benefits under section 210 of the Public Utility Regulatory Policies Act of 1978 are sought and for which a license or exemption is issued by the Federal Energy Regulatory Commission after the enactment of this Act \[Oct. 16, 1986\], except as otherwise provided in paragraph (2), (3) or (4) of this subsection.
+“(1) Subsection (j) of section 210 of the Public Utility Regulatory Policies Act of 1978 (as amended by subsection (a) of this section) \[16 U.S.C. 824a–3(j)\] shall apply to any project for which benefits under section210 of the Public Utility Regulatory Policies Act of 1978 are sought and for which a license or exemption is issued by the Federal Energy Regulatory Commission after the enactment of this Act \[Oct. 16, 1986\], except as otherwise provided in paragraph (2), (3) or (4) of this subsection.
 
 “(2) Subsection (j) shall not apply to the project if the application for license or exemption for the project was filed, and accepted for filing by the Commission, before the enactment of this Act \[Oct. 16, 1986\].
 
@@ -194,7 +262,13 @@ Section 8(e) of Pub. L. 99–495 provided that: “Notwithstanding the amendment
 
 > For purposes of this subsection, the term ‘moratorium period’ means the period beginning on the date of the enactment of this Act and ending at the expiration of the first full session of Congress after the session during which the report under subsection (d) \[set out as a note above\] has been submitted to the Congress.”
 
+#### Definitions
+
+For definitions of terms used in this section, see section 2602 of this title.
+
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

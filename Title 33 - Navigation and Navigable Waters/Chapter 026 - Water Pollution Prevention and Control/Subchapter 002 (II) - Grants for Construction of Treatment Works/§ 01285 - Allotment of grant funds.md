@@ -8,7 +8,7 @@ Sums authorized to be appropriated pursuant to section 1287 of this title for ea
 
 (1) Any sums allotted to a State under subsection (a) of this section shall be available for obligation under section 1283 of this title on and after the date of such allotment. Such sums shall continue available for obligation in such State for a period of one year after the close of the fiscal year for which such sums are authorized. Any amounts so allotted which are not obligated by the end of such one-year period shall be immediately reallotted by the Administrator, in accordance with regulations promulgated by him, generally on the basis of the ratio used in making the last allotment of sums under this section. Such reallotted sums shall be added to the last allotments made to the States. Any sum made available to a State by reallotment under this subsection shall be in addition to any funds otherwise allotted to such State for grants under this subchapter during any fiscal year.
 
-(2) Any sums which have been obligated under section 1283 of this title and which are released by the payment of the final voucher for the project shall be immediately credited to the State to which such sums were last allotted. Such released sums shall be added to the amounts last allotted to such State and shall be immediately available for obligation in the same manner and to the same extent as such last allotment.
+(2) Any sums which have been obligated under section 1283 of this title and which are releasedby the payment of the final voucher for the project shall be immediately credited to the State to which such sums were last allotted. Such released sums shall be added to the amounts last allotted to such State and shall be immediately available for obligation in the same manner and to the same extent as such last allotment.
 
 #### (c) Funds for fiscal years during period October 1, 1977, and September 30, 1981; funds for fiscal years 1982 to 1990; determination of amount
 
@@ -152,7 +152,7 @@ Sums allotted to the States for a fiscal year shall remain available for obligat
 
 #### (e) Minimum allotment; additional appropriations; ratio of amount available
 
-For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, noState shall receive less than one-half of 1 per centum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.
+For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, no State shall receive less than one-half of 1 per centum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.
 
 #### (f) Omitted
 
@@ -168,7 +168,7 @@ The Administrator shall set aside from funds authorized for each fiscal year beg
 
 #### (i) Set-aside for innovative and alternative projects
 
-Not less than 1/2 of 1 percent of funds allotted to a State for each of the fiscal years ending September 30, 1979, through September 30, 1990, under subsection (c) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the preceding sentence, a total of 2 percent of the funds allotted to a State for each of the fiscal years ending September 30, 1979, and September 30, 1980, and 3 percent of the funds allotted to a State for the fiscal year ending September 30, 1981, under subsection (c) of this section shall be expended only for increasing grants for construction of treatment works pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the first sentence of this subsection, a total (as determined by the Governor of the State) of not less than 4 percent nor more than 71/2 percent of the funds allotted to such State under subsection (c) of this section for each of the fiscal years ending September 30, 1982, through September 30, 1990, shall be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.
+Not less than 1/2 of 1 percent of funds allotted to a State for each of the fiscal years endingSeptember 30, 1979, through September 30, 1990, under subsection (c) of this section shall be expended only for increasing the Federal share of grants for construction of treatment works utilizing innovative processes and techniques pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the preceding sentence, a total of 2 percent of the funds allotted to a State for each of the fiscal years ending September 30, 1979, and September 30, 1980, and 3 percent of the funds allotted to a State for the fiscal year ending September 30, 1981, under subsection (c) of this section shall be expended only for increasing grants for construction of treatment works pursuant to section 1282(a)(2) of this title. Including the expenditures authorized by the first sentence of this subsection, a total (as determined by the Governor of the State) of not less than 4 percent nor more than 71/2 percent of the funds allotted to such State under subsection (c) of this section for each of the fiscal years ending September 30, 1982, through September 30, 1990, shall be expended only for increasing the Federal share of grants for construction of treatment works pursuant to section 1282(a)(2) of this title.
 
 #### (j) Water quality management plan; reservation of funds for nonpoint source management
 
@@ -214,7 +214,7 @@ The Administrator shall allot to the State of New York from sums authorized to b
 
 #### (2) Use of funds
 
-&emsp;Of the sums reserved under this subsection, two-thirds shall be available to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, and one-third shall be available for the implementation of section 1330 of this title, relating to the national estuary program.
+&emsp;Of the sums reserved under this subsection, two-thirds shall be available to address waterquality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, and one-third shall be available for the implementation of section 1330 of this title, relating to the national estuary program.
 
 #### (3) Period of availability
 
@@ -232,7 +232,7 @@ The Administrator shall allot to the State of New York from sums authorized to b
 
 #### (2) Notice requirement
 
-&emsp;The Governor of a State may make a request under paragraph (1) for a deposit into thewater pollution control revolving fund of such State—
+&emsp;The Governor of a State may make a request under paragraph (1) for a deposit into the water pollution control revolving fund of such State—
 
 &emsp;&emsp;(A) in fiscal year 1987 only if no later than 90 days after February 4, 1987, and
 
@@ -302,7 +302,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b)of Pub. L. 107–303, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

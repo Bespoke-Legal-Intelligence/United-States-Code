@@ -4,13 +4,25 @@
 
 Except as provided in subsection (b), no deduction shall be allowed under this chapter to the partnership or to any partner for any amounts paid or incurred to organize a partnership or to promote the sale of (or to sell) an interest in such partnership.
 
-#### (b) Amortization of organization fees
+#### (b) Deduction of organization fees
 
-#### (1) Deduction
+#### (1) Allowance of deduction
 
-&emsp;Amounts paid or incurred to organize a partnership may, at the election of the partnership (made in accordance with regulations prescribed by the Secretary), be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction ratably over such period of not less than 60 months as may be selected by the partnership (beginning with the month in which the partnership begins business), or if the partnership is liquidated before the end of such 60-month period, such deferred expenses (to the extent not deducted under this section) may be deducted to the extent provided in section 165.
+&emsp;If a partnership elects the application of this subsection (in accordance with regulations prescribed by the Secretary) with respect to any organizational expenses—
 
-#### (2) Organizational expenses defined
+&emsp;&emsp;(A) the partnership shall be allowed a deduction for the taxable year in which the partnership begins business in an amount equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) the amount of organizational expenses with respect to the partnership, or
+
+&emsp;&emsp;&emsp;(ii) $5,000, reduced (but not below zero) by the amount by which such organizational expenses exceed $50,000, and
+
+&emsp;&emsp;(B) the remainder of such organizational expenses shall be allowed as a deduction ratably over the 180-month period beginning with the month in which the partnership begins business.
+
+#### (2) Dispositions before close of amortization period
+
+&emsp;In any case in which a partnership is liquidated before the end of the period to which paragraph (1)(B) applies, any deferred expenses attributable to the partnership which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165.
+
+#### (3) Organizational expenses defined
 
 &emsp;The organizational expenses to which paragraph (1) applies, are expenditures which—
 
@@ -20,7 +32,21 @@ Except as provided in subsection (b), no deduction shall be allowed under this c
 
 &emsp;&emsp;(C) are of a character which, if expended incident to the creation of a partnership having an ascertainable life, would be amortized over such life.
 
-(Added Pub. L. 94–455, title II, §213(b)(1), Oct. 4, 1976, 90 Stat. 1547.)
+(Added Pub. L. 94–455, title II, §213(b)(1), Oct. 4, 1976, 90 Stat. 1547; amended Pub. L. 108–357, title VIII, §902(c), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 109–135, title IV, §403(<i>ll</i>), Dec. 21, 2005, 119 Stat. 2632.)
+
+#### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–135 substituted “partnership” for “taxpayer” in introductory provisions and before “shall be allowed” in subpar. (A).
+
+2004—Subsec. (b). Pub. L. 108–357 substituted “Deduction” for “Amortization” in heading, added par. (2), redesignated former par. (2) as (3), and amended heading and text of par. (1) generally. Prior to amendment, text of par. (1) read as follows: “Amounts paid or incurred to organize a partnership may, at the election of the partnership (made in accordance with regulations prescribed by the Secretary), be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction ratably over such period of not less than 60 months as may be selected by the partnership (beginning with the month in which the partnership begins business), or if the partnership is liquidated before the end of such 60-month period, such deferred expenses (to the extent not deducted under this section) may be deducted to the extent provided in section 165.”
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to amounts paid or incurred after Oct. 22, 2004, see section 902(d) of Pub. L. 108–357, set out as a note under section 195 of this title.
 
 #### Effective Date
 

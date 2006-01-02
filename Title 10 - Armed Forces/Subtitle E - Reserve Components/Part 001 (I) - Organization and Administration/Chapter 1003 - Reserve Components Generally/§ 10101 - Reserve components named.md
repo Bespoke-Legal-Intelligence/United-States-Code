@@ -6,7 +6,7 @@ The reserve components of the armed forces are:
 
 &emsp;(2) The Army Reserve.
 
-&emsp;(3) The Naval Reserve.
+&emsp;(3) The Navy Reserve.
 
 &emsp;(4) The Marine Corps Reserve.
 
@@ -16,11 +16,23 @@ The reserve components of the armed forces are:
 
 &emsp;(7) The Coast Guard Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2970.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2970; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(Z), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 261(a) of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+
+#### Amendments
+
+2006—Par. (3). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
+#### Change of Name
+
+Pub. L. 109–163, div. A, title V, §515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: “The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve.”
+
+Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve.”
+
+Pub. L. 108–375, div. A, title V, §517, Oct. 28, 2004, 118 Stat. 1884, which authorized the Secretary of the Navy, with the President's approval, to redesignate the Naval Reserve as the “Navy Reserve”, was repealed by Pub. L. 109–163, div. A, title V, §515(a)(2), Jan. 6, 2006, 119 Stat. 3233.
 
 #### Effective Date
 
@@ -29,6 +41,54 @@ Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Pilot Program on Enhanced Quality of Life for Members of the Army Reserve and Their Families
+
+Pub. L. 109–163, div. A, title V, §520, Jan. 6, 2006, 119 Stat. 3238, provided that:
+
+“(a)
+
+Pilot Program Required.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Army shall carry out a pilot program to assess the feasibility and advisability of using a coalition of military and civilian community personnel in order to enhance the quality of life for members of the Army Reserve and their families.
+
+&emsp;“(2)
+
+Locations.—The Secretary shall carry out the pilot program in areas of the United States in which members of the Army Reserve and their families are concentrated. The Secretary shall select one area in two States for purposes of the pilot program.
+
+“(b)
+
+Participating Personnel.—A coalition of personnel under the pilot program shall include—
+
+&emsp;“(1) military personnel; and
+
+&emsp;“(2) appropriate members of the civilian community, such as clinicians and teachers, who volunteer for participation in the coalition.
+
+“(c)
+
+Report.—Not later than April 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the pilot program carried out under this section. The report shall include—
+
+&emsp;“(1) a description of the pilot program;
+
+&emsp;“(2) an assessment of the benefits of using a coalition of military and civilian community personnel in order to enhance the quality of life for members of the Army Reserve and their families; and
+
+&emsp;“(3) such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program.”
+
+#### Annual Review
+
+Pub. L. 108–375, div. A, title V, §513(h), Oct. 28, 2004, 118 Stat. 1882, provided that:
+
+“(1) The Secretary of Defense shall annually review the reserve components of the Armed Forces with regard to—
+
+&emsp;“(A) the roles and missions of the reserve components; and
+
+&emsp;“(B) the compensation and other benefits, including health care benefits, that are provided for members of the reserve components under the laws of the United States.
+
+“(2) The Secretary shall submit a report of the annual review, together with any comments and recommendations that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+
+“(3) The first review under paragraph (1) shall take place during fiscal year 2006.”
 
 #### Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status
 
@@ -87,8 +147,4 @@ Pub. L. 99–500, §101(c) \[title IX, §9063\], Oct. 18, 1986, 100 Stat. 1783�
 Pub. L. 99–190, §101(b) \[title VIII, §8073\], Dec. 19, 1985, 99 Stat. 1185, 1214.
 
 Pub. L. 98–473, title I, §101(h) \[title VIII, §8106\], Oct. 12, 1984, 98 Stat. 1904, 1943.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 261 of this title; title 5 sections 6323, 8456; title 20 sections 1078, 1087dd; title 26 section 219; title 42 section 12639.
 

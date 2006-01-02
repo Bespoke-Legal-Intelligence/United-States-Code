@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 100–689, §107(c)(1), substituted “$100” and “$1,20
 
 Pub. L. 96–466, §201(5), substituted “$72” and “$869” for “$69” and “$828”, respectively.
 
-Subsec. (b)(2). Pub. L. 96–466, §312, inserted “and is not the eligible veteran's parent, spouse, child (whetheror not married or over eighteen years of age), brother, or sister” after “is qualified”.
+Subsec. (b)(2). Pub. L. 96–466, §312, inserted “and is not the eligible veteran's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister” after “is qualified”.
 
 1977—Subsec. (b). Pub. L. 95–202 substituted “$69” and “$828” for “$65” and “$780”, respectively.
 

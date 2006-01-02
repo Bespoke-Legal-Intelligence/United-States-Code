@@ -6,7 +6,7 @@ Every employer shall furnish and maintain employment and places of employment wh
 
 #### (b) Studies and investigations by Secretary
 
-The Secretary, in enforcing and administering the provisions of this section, is authorized inaddition to such other powers and duties as are conferred upon him—
+The Secretary, in enforcing and administering the provisions of this section, is authorized in addition to such other powers and duties as are conferred upon him—
 
 &emsp;(1) to make studies and investigations with respect to safety provisions and the causes and prevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
 
@@ -32,7 +32,7 @@ The United States district courts shall have jurisdiction for cause shown, in an
 
 #### (f) Violations and penalties
 
-Any employer who, willfully, violates or fails or refuses to comply with the provisions of subsection (a) of this section, or with any lawful rule, regulation, or order adopted to carry out the provisions of this section, and any employer or other person who willfully interferes with, hinders, or delays the Secretary or his authorized representative in carrying out his duties under subsection (c) of this section by refusing to admit the Secretary or his authorized representative to any place, or to permit the inspection or examination of any employment or place of employment, or who willfully hinders or delays the Secretary or his authorized representative in the performance of his duties in the enforcement of this section, shall be guilty of an offense, and, upon conviction thereof, shall be punished for each offense by a fine of not less than $100 nor more than $3,000; and in any case where such employer is a corporation, the officer who willfully permits any such violation to occur shall be guilty of an offense, and, upon conviction thereof, shall be punished also for each offense by a fine of not less than $100 nor more than $3,000. The liability hereunder shall not affect any other liability of the employer under this chapter.
+Any employer who, willfully, violates or fails or refuses to comply with the provisions of subsection (a) of this section, or with any lawful rule, regulation, or order adopted to carry out the provisions of this section, and any employer or other person who willfully interferes with, hinders, or delays the Secretary or his authorized representative in carrying out his duties under subsection (c) of this section by refusing to admit the Secretary or his authorized representative to any place, or to permit the inspection or examination of any employment or place of employment, or who willfully hinders or delays the Secretary or his authorized representative in the performance of his duties in the enforcement of this section, shall be guilty of an offense, and, upon conviction thereof, shall be punished for each offense by a fine of not less than $100 nor more than $3,000; and in any case where such employer is a corporation, the officer who willfully permits any such violation to occur shall be guilty of an offense, and, upon conviction thereof, shall be punished also for each offense by a fine of not less than $100 normore than $3,000. The liability hereunder shall not affect any other liability of the employer under this chapter.
 
 #### (g) Inapplicability to certain employments
 

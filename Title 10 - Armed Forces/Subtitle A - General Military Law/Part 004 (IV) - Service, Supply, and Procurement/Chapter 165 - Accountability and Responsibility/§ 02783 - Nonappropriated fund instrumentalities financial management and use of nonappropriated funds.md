@@ -16,7 +16,7 @@ Penalties for Violations.—(1) A civilian employee of the Department of Defense
 
 (c)
 
-Notification of Violations.—(1) A civilian employee of the Department of Defense (whether paid from nonappropriated funds or from appropriated funds), and a member of the armed forces, whose duties include the obligation ofnonappropriated funds, shall notify the Secretary of Defense of information which the person reasonably believes evidences—
+Notification of Violations.—(1) A civilian employee of the Department of Defense (whether paid from nonappropriated funds or from appropriated funds), and a member of the armed forces, whose duties include the obligation of nonappropriated funds, shall notify the Secretary of Defense of information which the person reasonably believes evidences—
 
 &emsp;(A) a violation by another person of any law, rule, or regulation regarding the management of such funds; or
 

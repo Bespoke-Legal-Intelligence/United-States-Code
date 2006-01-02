@@ -132,7 +132,7 @@ In subsection (e), the words between the second and third semicolons of the firs
 
 In subsection (f), the words “while portraying a member of the Army, Navy, Air Force, or Marine Corps, an actor in a theatrical or motion-picture production” are substituted for the words “any person from wearing the uniform of the United States Army, Navy, or Marine Corps, in any playhouse or theater or in moving-picture films while actually engaged in representing therein a military or naval character”.
 
-In subsection (g), the word “resident” is substituted for the word “members”, since the word “members” related to members of the now disbanded National Home for disabled volunteer soldiers to which were admitted “members” of an organization called the “Disabled Volunteer Soldiers”. The words “veterans’ home” aresubstituted for the words “national home for veterans”, since there are now no “national homes” administered by the Veterans’ Administration.
+In subsection (g), the word “resident” is substituted for the word “members”, since the word “members” related to members of the now disbanded National Home for disabled volunteer soldiers to which were admitted “members” of an organization called the “Disabled Volunteer Soldiers”. The words “veterans’ home” are substituted for the words “national home for veterans”, since there are now no “national homes” administered by the Veterans’ Administration.
 
 In subsection (h), the words “authorized and” and “for wear during such course of instruction” are omitted as surplusage. The word “naval” is omitted as covered by the word “military”. The words “Army, Navy, Air Force, or Marine Corps” are substituted for the words “military or naval authorities”. The words “that armed force” are substituted for the words “such military or naval authorities”.
 
@@ -151,8 +151,4 @@ In subsection (i), the words “Air Force school” are substituted for the word
 Ex. Ord. No. 10554, Aug. 18, 1954, 19 F.R. 5295, as amended by Ex. Ord. No. 13286, §77, Feb. 28, 2003, 68 F.R. 10631, provided:
 
 The authority vested in the President (1) by section 125 of the act of June 3, 1916, 39 Stat. 216, as amended by the first section of the act of July 6, 1953, 67 Stat. 140, and (2) by section 2 of the act of June 21, 1930, 46 Stat. 793, as amended by section 2 of said act of July 6, 1953, to prescribe regulations authorizing occasions upon which the uniform may be worn by persons who have served honorably in the armed forces of the United States in time of war is hereby delegated to the Secretary of Defense so far as it pertains to the uniforms of the Army, Navy, Air Force, and Marine Corps, and to the Secretary of Homeland Security so far as it pertains to the uniform of the Coast Guard.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 771a, 4621, 6156, 7606, 9621 of this title.
 

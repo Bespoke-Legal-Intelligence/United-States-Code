@@ -24,7 +24,7 @@ Except as provided in subsection (c)(1) of this section, any individual—
 
 &emsp;(B) to notify each such former spouse of that individual's rights under this section.
 
-(3) The Secretary shall waive the 6-month limitation set forth in paragraph (1) in any case in which the Secretary determines that the circumstances so warrant.
+(3) The Secretary shall waive the 6-month limitation set forth in paragraph (1) in any case inwhich the Secretary determines that the circumstances so warrant.
 
 #### (c) Disqualification
 

@@ -28,7 +28,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1990—Subsec. (b)(1). Pub. L. 101–627 substituted “any waters of a foreign nation” for “any foreign nation's territorial sea or exclusive economic zone (or the equivalent), to the extent that that sea or zone is recognized by the United States”.
 
-1986—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “There is established a zone contiguous to the territorial sea of the United States to be known as the fishery conservation zone. The inner boundary of the fishery conservation zone is a line coterminous with the seaward boundary of each of the coastal States, and the outer boundary of such zone is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.”
+1986—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “There is established a zone contiguous to the territorial sea of the United States to be known as the fishery conservation zone. The inner boundary of the fishery conservationzone is a line coterminous with the seaward boundary of each of the coastal States, and the outer boundary of such zone is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.”
 
 #### Effective Date of 1992 Amendment
 

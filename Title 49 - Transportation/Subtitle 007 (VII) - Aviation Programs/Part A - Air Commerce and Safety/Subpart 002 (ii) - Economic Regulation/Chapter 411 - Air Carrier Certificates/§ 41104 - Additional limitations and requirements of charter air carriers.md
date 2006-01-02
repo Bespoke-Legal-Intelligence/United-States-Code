@@ -16,13 +16,13 @@ In general.—Except as provided in paragraphs (3) and (4), an air carrier, incl
 
 &emsp;&emsp;(B) has an airport operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation) if the airport—
 
-&emsp;&emsp;&emsp;(i) is a reliever airport (as defined in section 47102) and is designated as such in the national plan of integrated airports maintained under section 47103; and
+&emsp;&emsp;&emsp;(i) is a reliever airport (as defined in section 47102) and is designated as such in thenational plan of integrated airports maintained under section 47103; and
 
 &emsp;&emsp;&emsp;(ii) is located within 20 nautical miles (22 statute miles) of 3 or more airports that each annually account for at least 1 percent of the total United States passenger enplanements and at least 2 of which are operated by the sponsor of the reliever airport.
 
 &emsp;(2)
 
-Definition.—In this paragraph, the term “regularly scheduled charter air transportation” does not include operations for whichthe departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative.
+Definition.—In this paragraph, the term “regularly scheduled charter air transportation” does not include operations for which the departure time, departure location, and arrival location are specifically negotiated with the customer or the customer's representative.
 
 &emsp;(3)
 
@@ -118,7 +118,7 @@ Subsec. (b)(4). Pub. L. 108–176, §822(b), added par. (4).
 
 2000—Subsec. (b). Pub. L. 106–181, §723(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(1). Pub. L. 106–528, §8(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “An air carrier, including an indirect air carrier, which operates aircraft designed for more than nine passenger seats, may not provide regularly scheduled charter air transportation for which the general public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flights to or from an airport that is not located in Alaska and that does not have an operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulations).”
+Subsec. (b)(1). Pub. L. 106–528, §8(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “An air carrier, including an indirect air carrier, which operates aircraft designed for more than nine passenger seats, may not provide regularly scheduled charter air transportation for which the general public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flights to or from an airport that is not located in Alaska and that does not have an operatingcertificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulations).”
 
 Subsec. (b)(3). Pub. L. 106–528, §8(c)(2), added par. (3).
 

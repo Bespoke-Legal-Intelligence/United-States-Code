@@ -56,13 +56,13 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 &emsp;(A) The term “public utility” includes any company which is a part of a holding company system which includes a registered holding company, unless no company in such system is an electric utility.
 
-&emsp;(B) The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\].
+&emsp;(B) The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935.<sup>1</sup>
 
 (June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 95–617, title II, §211(a), Nov. 9, 1978, 92 Stat. 3147; Pub. L. 106–102, title VII, §737, Nov. 12, 1999, 113 Stat. 1479.)
 
 #### References in Text
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -74,9 +74,5 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B)
 
 Section 211(b) of Pub. L. 95–617 provided that: “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act \[subsec. (c)(1) of this section\] before April 30 of the second calendar year which begins after the date of the enactment of this Act \[Nov. 9, 1978\] and no public utility shall be required to publish a list under section 305(c)(2) of such Act \[subsec. (c)(2) of this section\] before January 31 of such second calendar year.”
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to regulation of mergers and securities acquisitions under this chapter transferred to Federal Energy Regulatory Commission by sections7172(a)(1)(F) and 7293 of Title 42, The Public Health and Welfare.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

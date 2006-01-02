@@ -10,13 +10,21 @@ For purposes of this part—
 
 &emsp;&emsp;(C) Large commercial package air conditioning and heating equipment.
 
-&emsp;&emsp;(D) Packaged terminal air-conditioners and packaged terminal heat pumps.
+&emsp;&emsp;(D) Very large commercial package air conditioning and heating equipment.
 
-&emsp;&emsp;(E) Warm air furnaces and packaged boilers.
+&emsp;&emsp;(E) Commercial refrigerators, freezers, and refrigerator-freezers.
 
-&emsp;&emsp;(F) Storage water heaters, instantaneous water heaters, and unfired hot water storage tanks.
+&emsp;&emsp;(F) Automatic commercial ice makers.
 
-&emsp;&emsp;(G) Any other type of industrial equipment which the Secretary classifies as covered equipment under section 6312(b) of this title.
+&emsp;&emsp;(G) Commercial clothes washers.
+
+&emsp;&emsp;(H) Packaged terminal air-conditioners and packaged terminal heat pumps.
+
+&emsp;&emsp;(I) Warm air furnaces and packaged boilers.
+
+&emsp;&emsp;(J) Storage water heaters, instantaneous water heaters, and unfired hot water storage tanks.
+
+&emsp;&emsp;(K) Any other type of industrial equipment which the Secretary classifies as covered equipment under section 6312(b) of this title.
 
 &emsp;(2)(A) The term “industrial equipment” means any article of equipment referred to in subparagraph (B) of a type—
 
@@ -28,7 +36,7 @@ For purposes of this part—
 
 > &emsp;without regard to whether such article is in fact distributed in commerce for industrial or commercial use.
 
-&emsp;(B) The types of equipment referred to in this subparagraph (in addition to electric motors and pumps, small and large commercial package air conditioning and heating equipment, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks) are as follows:
+&emsp;(B) The types of equipment referred to in this subparagraph (in addition to electric motors and pumps, commercial package air conditioning and heating equipment, commercialrefrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers, packaged terminal air-conditioners, packaged terminal heat pumps, warm air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks) are as follows:
 
 &emsp;&emsp;(i) compressors;
 
@@ -64,9 +72,47 @@ For purposes of this part—
 
 &emsp;(7) The terms “energy”, “manufacture”, “import”, “importation”, “consumer product”, “distribute in commerce”, “distribution in commerce”, and “commerce” have the same meaning as is given such terms in section 6291 of this title.
 
-&emsp;(8) The term “small commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
+&emsp;(8)(A) The term “commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application.
 
-&emsp;(9) The term “large commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).
+&emsp;(B) The term “small commercial package air conditioning and heating equipment” means commercial package air conditioning and heating equipment that is rated below 135,000 Btu per hour (cooling capacity).
+
+&emsp;(C) The term “large commercial package air conditioning and heating equipment” means commercial package air conditioning and heating equipment that is rated—
+
+&emsp;&emsp;(i) at or above 135,000 Btu per hour; and
+
+&emsp;&emsp;(ii) below 240,000 Btu per hour (cooling capacity).
+
+&emsp;(D) The term “very large commercial package air conditioning and heating equipment” means commercial package air conditioning and heating equipment that is rated—
+
+&emsp;&emsp;(i) at or above 240,000 Btu per hour; and
+
+&emsp;&emsp;(ii) below 760,000 Btu per hour (cooling capacity).
+
+&emsp;(9)(A) The term “commercial refrigerator, freezer, and refrigerator-freezer” means refrigeration equipment that—
+
+&emsp;&emsp;(i) is not a consumer product (as defined in section 6291 of this title);
+
+&emsp;&emsp;(ii) is not designed and marketed exclusively for medical, scientific, or research purposes;
+
+&emsp;&emsp;(iii) operates at a chilled, frozen, combination chilled and frozen, or variable temperature;
+
+&emsp;&emsp;(iv) displays or stores merchandise and other perishable materials horizontally, semivertically, or vertically;
+
+&emsp;&emsp;(v) has transparent or solid doors, sliding or hinged doors, a combination of hinged, sliding, transparent, or solid doors, or no doors;
+
+&emsp;&emsp;(vi) is designed for pull-down temperature applications or holding temperature applications; and
+
+&emsp;&emsp;(vii) is connected to a self-contained condensing unit or to a remote condensing unit.
+
+&emsp;(B) The term “holding temperature application” means a use of commercial refrigeration equipment other than a pull-down temperature application, except a blast chiller or freezer.
+
+&emsp;(C) The term “integrated average temperature” means the average temperature of all test package measurements taken during the test.
+
+&emsp;(D) The term “pull-down temperature application” means a commercial refrigerator with doors that, when fully loaded with 12 ounce beverage cans at 90 degrees F, can cool those beverages to an average stable temperature of 38 degrees F in 12 hours or less.
+
+&emsp;(E) The term “remote condensing unit” means a factory-made assembly of refrigerating components designed to compress and liquefy a specific refrigerant that is remotely located from the refrigerated equipment and consists of one or more refrigerant compressors, refrigerant condensers, condenser fans and motors, and factory supplied accessories.
+
+&emsp;(F) The term “self-contained condensing unit” means a factory-made assembly of refrigerating components designed to compress and liquefy a specific refrigerant that is an integral part of the refrigerated equipment and consists of one or more refrigerant compressors, refrigerant condensers, condenser fans and motors, and factory supplied accessories.
 
 &emsp;(10)(A) The term “packaged terminal air conditioner” means a wall sleeve and a separate unencased combination of heating and cooling assemblies specified by the builder and intended for mounting through the wall. It includes a prime source of refrigeration, separable outdoor louvers, forced ventilation, and heating availability by builder's choice of hot water, steam, or electricity.
 
@@ -112,9 +158,43 @@ For purposes of this part—
 
 &emsp;&emsp;(B) a design requirement for a product.
 
-(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817.)
+&emsp;(19) The term “automatic commercial ice maker” means a factory-made assembly (not necessarily shipped in one package) that—
+
+&emsp;&emsp;(A) consists of a condensing unit and ice-making section operating as an integrated unit, with means for making and harvesting ice; and
+
+&emsp;&emsp;(B) may include means for storing ice, dispensing ice, or storing and dispensing ice.
+
+&emsp;(20) The term “commercial clothes washer” means a soft-mount front-loading or soft-mount top-loading clothes washer that—
+
+&emsp;&emsp;(A) has a clothes container compartment that—
+
+&emsp;&emsp;&emsp;(i) for horizontal-axis clothes washers, is not more than 3.5 cubic feet; and
+
+&emsp;&emsp;&emsp;(ii) for vertical-axis clothes washers, is not more than 4.0 cubic feet; and
+
+&emsp;&emsp;(B) is designed for use in—
+
+&emsp;&emsp;&emsp;(i) applications in which the occupants of more than one household will be using the clothes washer, such as multi-family housing common areas and coin laundries; or
+
+&emsp;&emsp;&emsp;(ii) other commercial applications.
+
+&emsp;(21) The term “harvest rate” means the amount of ice (at 32 degrees F) in pounds produced per 24 hours.
+
+(Pub. L. 94–163, title III, §340, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3267; amended Pub. L. 102–486, title I, §122(a), (f)(1), Oct. 24, 1992, 106 Stat. 2806, 2817; Pub. L. 109–58, title I, §136(a), Aug. 8, 2005, 119 Stat. 634.)
 
 #### Amendments
+
+2005—Par. (1)(D) to (K). Pub. L. 109–58, §136(a)(1), added subpars. (D) to (G) and redesignated former subpars. (D) to (G) as (H) to (K), respectively.
+
+Par. (2)(B). Pub. L. 109–58, §136(a)(2), substituted “commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers” for “small and large commercial package air conditioning and heating equipment” in introductory provisions.
+
+Pars. (8), (9). Pub. L. 109–58, §136(a)(3), added pars. (8) and (9) and struck out former pars. (8) and (9) which read as follows:
+
+“(8) The term ‘small commercial package air conditioning and heating equipment’ means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
+
+“(9) The term ‘large commercial package air conditioning and heating equipment’ means air-cooled,water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).”
+
+Pars. (19) to (21). Pub. L. 109–58, §136(a)(4), added pars. (19) to (21).
 
 1992—Par. (1)(B) to (G). Pub. L. 102–486, §122(a)(1), added subpars. (B) to (F) and redesignated former subpar. (B) as (G).
 

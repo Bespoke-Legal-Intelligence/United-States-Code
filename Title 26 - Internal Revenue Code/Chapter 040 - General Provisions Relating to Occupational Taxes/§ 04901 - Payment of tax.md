@@ -26,7 +26,7 @@ Amendment by Pub. L. 95–600 applicable with respect to years beginning after J
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -43,8 +43,4 @@ Prosecution for any violation of law occurring, and civil seizures or forfeiture
 #### Persons Engaged in Activities on December 1, 1974, Requiring Payment of Wagering Tax
 
 Person on Dec. 1, 1974, engaging in an activity making him liable for payment of tax imposed by section 4411 of this title (as in effect on such date) to be treated as commencing such activity on such date for purposes of this section and section 4411 of this title, see section 3(d)(2) of Pub. L. 93–499, set out as a note under section 4411 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4413 of this title.
 

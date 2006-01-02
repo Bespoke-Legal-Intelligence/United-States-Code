@@ -56,7 +56,7 @@ Report.—Not later than February 1, 1999, the Secretary of Defense shall submit
 
 #### Enhanced System of Performance Incentives
 
-Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretary of Defense shall review the incentives and personnel actions availableto the Secretary of Defense for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives to facilitate the achievement of goals approved or defined pursuant to section 2220(a) of title 10, United States Code. The enhanced system of incentives shall, to the maximum extent consistent with applicable law—
+Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretary of Defense shall review the incentives and personnel actions available to the Secretary of Defense for encouraging excellence in the management of defense acquisition programs and provide an enhanced system of incentives to facilitate the achievement of goals approved or defined pursuant to section 2220(a) of title 10, United States Code. The enhanced system of incentives shall, to the maximum extent consistent with applicable law—
 
 &emsp;“(1) relate pay to performance (including the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, as added by subsection (a)); and
 

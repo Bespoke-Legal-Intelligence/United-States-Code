@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) A reasonable period ending after section 401(a)(11) applies to the participant.
 
-&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, theapplicable period shall be a reasonable period after separation.
+&emsp;&emsp;&nbsp;In the case of a participant who separates from service before attaining age 35, the applicable period shall be a reasonable period after separation.
 
 #### (4) Requirement of spousal consent for using plan assets as security for loans
 
@@ -250,7 +250,7 @@ For purposes of this section and section 401(a)(11)—
 
 #### (6) Requirements for certain spousal consents
 
-&emsp;No consent of a spouse shall be effective for purposes of subsection (e)(1) or (e)(2) (as the case may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (a)(1)(A) are met.
+&emsp;No consent of a spouse shall be effective for purposes of subsection (e)(1) or (e)(2) (as thecase may be) unless requirements comparable to the requirements for spousal consent to an election under subsection (a)(1)(A) are met.
 
 #### (7) Consultation with the Secretary of Labor
 
@@ -363,8 +363,4 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 409, 411, 414, 415, 2503 of this title.
 

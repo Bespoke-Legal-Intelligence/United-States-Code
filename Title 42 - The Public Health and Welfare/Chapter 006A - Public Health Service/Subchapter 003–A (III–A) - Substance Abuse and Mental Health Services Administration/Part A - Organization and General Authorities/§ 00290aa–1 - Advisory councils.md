@@ -72,7 +72,7 @@
 
 #### (2) Reappointments
 
-&emsp;A member who has been appointed to an advisory council for a term of 4 years may not bereappointed to an advisory council during the 2-year period beginning on the date on which such 4-year term expired.
+&emsp;A member who has been appointed to an advisory council for a term of 4 years may not be reappointed to an advisory council during the 2-year period beginning on the date on which such 4-year term expired.
 
 #### (3) Time for appointment
 

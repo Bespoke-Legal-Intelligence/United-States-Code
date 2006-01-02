@@ -54,7 +54,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 &emsp;(x) for fiscal year 2003 and each succeeding fiscal year—
 
-&emsp;&emsp;(I) the applicable rate in the preceding fiscal year, increased by the percentage, if any,by which the Consumer Price Index for the month of June of the calendar year of the increase exceeds the Consumer Price Index for the month of June of the calendar year preceding the calendar year of the increase, and rounded to the nearest whole cent; or
+&emsp;&emsp;(I) the applicable rate in the preceding fiscal year, increased by the percentage, if any, by which the Consumer Price Index for the month of June of the calendar year of the increase exceeds the Consumer Price Index for the month of June of the calendar year preceding the calendar year of the increase, and rounded to the nearest whole cent; or
 
 &emsp;&emsp;(II) such different rate as the Commissioner determines is appropriate for the State.
 
@@ -92,7 +92,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (4) Payments made under this subchapter with respect to an individual shall be reduced by an amount equal to the amount of any supplementary payment (as described in subsection (a) of this section) or other payment made by a State (or political subdivision thereof) which is made for or on account of any medical or any other type of remedical care provided by an institution of the type described in paragraph (1) to such individual as a resident or an inpatient of such institution if such institution is not approved as meeting the standards described in such paragraph by the appropriate State or local authorities.
 
-(Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat.1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518; Pub. L. 106–170, title IV, §410(a)(1), Dec. 17, 1999, 113 Stat. 1916.)
+(Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518; Pub. L. 106–170, title IV, §410(a)(1), Dec. 17, 1999, 113 Stat. 1916.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Subsec. (d)(4). Pub. L. 105–78, §516(b)(1)(A), amended par. (4) generally. Pr
 
 “(B) That portion of each administration fee in excess of $5, and 100 percent of each additional services fee charged pursuant to paragraph (3), upon collection for fiscal year 1998 and each subsequent fiscal year, shall be credited to a special fund established in the Treasury of the United States for State supplementary payment fees. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this subchapter and related laws. The amounts so credited shall not be scored as receipts under section 902 of title 2, and the amounts so credited shall be credited as a discretionary offset to discretionary spending to the extent that the amounts so credited are made available for expenditure in appropriations Acts.”
 
-Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “All administration fees and additional services fees collected pursuant to this subsection shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.”
+Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Alladministration fees and additional services fees collected pursuant to this subsection shall be deposited in the general fund of the Treasury of the United States as miscellaneous receipts.”
 
 1994—Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner conducts” for “he conducts” in subsec. (b)(2).
 
@@ -162,7 +162,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 #### Limitations on Authorization of Appropriations
 
-Section 516(b)(2) of Pub. L. 105–78 provided that: “From amounts credited pursuant to section1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
+Section 516(b)(2) of Pub. L. 105–78 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter, for administrative expenses in carrying out the supplemental security income program under title XVI of the Social Security Act \[this subchapter\] and related laws.”
 
 Section 5102(b)(2) of Pub. L. 105–33 provided that: “From amounts credited pursuant to section 1616(d)(4)(B) of the Social Security Act \[subsec. (d)(4)(B) of this section\] and section 212(b)(3)(D)(ii) of Public Law 93–66 \[set out as a note under section 1382 of this title\] to the special fund established in the Treasury of the United States for State supplementary payment fees, there is authorized to be appropriated an amount not to exceed $35,000,000 for fiscal year 1998, and such sums as may be necessary for each fiscal year thereafter.”
 
@@ -206,7 +206,7 @@ Individual receiving supplemental security income benefits or payments as part o
 
 #### Application to Northern Mariana Islands
 
-For applicability of this section to the Northern Mariana Islands, see section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States ofAmerica and Proc. No. 4534, Oct. 24, 1977, 42 F.R. 6593, set out as notes under section 1801 of Title 48, Territories and Insular Possessions.
+For applicability of this section to the Northern Mariana Islands, see section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America and Proc. No. 4534, Oct. 24, 1977, 42 F.R. 6593, set out as notes under section 1801 of Title 48, Territories and Insular Possessions.
 
 #### Puerto Rico, Guam, and Virgin Islands
 
@@ -268,5 +268,5 @@ Pub. L. 87–543, §141(b), July 25, 1962, 76 Stat. 205, provided that: “No pa
 
 #### Overpayment or Underpayment Adjustments
 
-Pub. L. 87–543, §141(f), July 25, 1962, 76 Stat. 205, provided that: “In the case of any State which has a State plan approved under title XVI of the Social Security Act \[this subchapter\], any overpayment or underpayment which the Secretary determines was made to such State under section 3, 1003, or 1403 of such Act \[section 303, 1203, or 1353 of this title\] with respect to a period before the approval of the plan under such title XVI, and with respect to which adjustment has not been already made under subsection (b) of such section 3, 1003, or 1403 \[section 303(b), 1203, or 1353 of this title\], shall, for purposes of section 1603(b) of such Act \[section 1383(b) of this title prior to its omission on Oct. 30, 1972\], be considered an overpayment or underpayment (as the case may be) made under section 1603 of such Act \[section 1383 of this title as it existed prior to Oct. 30, 1972\].”
+Pub. L. 87–543, §141(f), July 25, 1962, 76 Stat. 205, provided that: “In the case of any State which has a State plan approved under title XVI of the Social Security Act \[this subchapter\], any overpayment or underpayment which the Secretary determines was made to such State under section 3, 1003, or 1403 of such Act \[section 303, 1203, or 1353 of this title\] with respect to a period before the approval of the plan under such title XVI, and with respect to which adjustment has not been already made under subsection (b) of such section 3, 1003, or 1403 \[section 303(b), 1203, or 1353 of this title\],shall, for purposes of section 1603(b) of such Act \[section 1383(b) of this title prior to its omission on Oct. 30, 1972\], be considered an overpayment or underpayment (as the case may be) made under section 1603 of such Act \[section 1383 of this title as it existed prior to Oct. 30, 1972\].”
 

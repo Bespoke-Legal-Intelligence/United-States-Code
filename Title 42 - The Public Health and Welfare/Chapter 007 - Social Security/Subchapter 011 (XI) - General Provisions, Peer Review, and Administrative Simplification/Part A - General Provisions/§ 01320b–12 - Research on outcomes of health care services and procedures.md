@@ -6,7 +6,7 @@
 
 &emsp;The Secretary, acting through the Director of the Agency for Healthcare Research and Quality, shall—
 
-&emsp;&emsp;(A) conduct and support research with respect to the outcomes, effectiveness, and appropriateness of health care services and procedures in order to identify the mannerin which diseases, disorders, and other health conditions can most effectively and appropriately be prevented, diagnosed, treated, and managed clinically; and
+&emsp;&emsp;(A) conduct and support research with respect to the outcomes, effectiveness, and appropriateness of health care services and procedures in order to identify the manner in which diseases, disorders, and other health conditions can most effectively and appropriately be prevented, diagnosed, treated, and managed clinically; and
 
 &emsp;&emsp;(B) assure that the needs and priorities of the program under subchapter XVIII of this chapter are appropriately reflected in the development and periodic review and updating (through the process set forth in section 299b–2 <sup>1</sup> of this title) of treatment-specific or condition-specific practice guidelines for clinical treatments and conditions in forms appropriate for use in clinical practice, for use in educational programs, and for use in reviewing quality and appropriateness of medical care.
 
@@ -92,7 +92,7 @@ In carrying out this section, the Secretary shall develop—
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a) of this section, and for the education of providers and others in the application of such research findings and guidelines.
+&emsp;The Secretary shall provide for the dissemination of the findings of research and theguidelines described in subsection (a) of this section, and for the education of providers and others in the application of such research findings and guidelines.
 
 #### (2) Cooperative educational activities
 
@@ -154,7 +154,7 @@ Sections 299b–1 to 299b–3 of this title, referred to in subsecs. (a) and (b)
 
 #### Codification
 
-Subsec. (h) of this section, which required the Secretary to report biennially to Congress on the progress of the activities under this section during the preceding 2 fiscal years, including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of thischapter), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 10 on page 94 of House Document No. 103–7.
+Subsec. (h) of this section, which required the Secretary to report biennially to Congress on the progress of the activities under this section during the preceding 2 fiscal years, including the impact of such activities on medical care (particularly medical care for individuals receiving benefits under subchapter XVIII of this chapter), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 10 on page 94 of House Document No. 103–7.
 
 Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L. 101–508, title V, §5111(a)(1), Nov. 5, 1990, 104 Stat. 1388–272, and is classified to section 1320b–13 of this title.
 
@@ -178,7 +178,7 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Report on Linkage of Public and Private Research Related Data
 
-Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
+Section 6103(b)(2) of Pub. L. 101–239 provided that: “Not later than 1 year after the date of the enactmentof this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ The Tennessee Valley Authority shall conduct a least-cost planning program in ac
 
 #### (1) In general
 
-&emsp;In conducting a least-cost planning program under subsection (a) of this section, the Tennessee Valley Authority shall employ and implement a planning and selection process for new energy resources which evaluates the full range of existing and incremental resources (including new power supplies, energy conservation and efficiency, and renewable energyresources) in order to provide adequate and reliable service to electric customers of the Tennessee Valley Authority at the lowest system cost.
+&emsp;In conducting a least-cost planning program under subsection (a) of this section, the Tennessee Valley Authority shall employ and implement a planning and selection process for new energy resources which evaluates the full range of existing and incremental resources (including new power supplies, energy conservation and efficiency, and renewable energy resources) in order to provide adequate and reliable service to electric customers of the Tennessee Valley Authority at the lowest system cost.
 
 #### (2) Planning and selection process
 

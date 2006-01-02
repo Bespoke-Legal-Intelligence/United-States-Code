@@ -2,7 +2,7 @@
 
 #### (a) Disruption of supply or safety
 
-The Administrator, in coordination with the appropriate departments and agencies of theFederal Government, shall review (or enter into contracts or cooperative agreements to provide for a review of) methods and means by which terrorists or other individuals or groups could disrupt the supply of safe drinking water or take other actions against water collection, pretreatment, treatment, storage and distribution facilities which could render such water significantly less safe for human consumption, including each of the following:
+The Administrator, in coordination with the appropriate departments and agencies of the Federal Government, shall review (or enter into contracts or cooperative agreements to provide for a review of) methods and means by which terrorists or other individuals or groups could disrupt the supply of safe drinking water or take other actions against water collection, pretreatment, treatment, storage and distribution facilities which could render such water significantly less safe for human consumption, including each of the following:
 
 &emsp;(1) Methods and means by which pipes and other constructed conveyances utilized in public water systems could be destroyed or otherwise prevented from providing adequate supplies of drinking water meeting applicable public health standards.
 

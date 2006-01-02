@@ -116,7 +116,7 @@ There is established as an independent entity of the legislative branch of the U
 
 #### (D) Allocation of funds to fellowships
 
-&emsp;&emsp;The Board of Trustees shall determine the priority of the programs to be carried out under this section and the amount of funds to be allocated for the Emerson and Leland fellowships.
+&emsp;&emsp;The Board of Trustees shall determine the priority of the programs to be carried outunder this section and the amount of funds to be allocated for the Emerson and Leland fellowships.
 
 #### (d) Purposes; authority of program
 

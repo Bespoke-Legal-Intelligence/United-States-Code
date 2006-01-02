@@ -110,5 +110,21 @@ In carrying out the functions of the Office, the Executive Director may procure 
 
 General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
+#### Permitting Current Executive Director, Deputy Executive Directors, and General Counsel of Office of Compliance To Serve One Additional Term
+
+Pub. L. 109–38, §1, July 27, 2005, 119 Stat. 408, provided that:
+
+“(a)
+
+Executive Director.—Notwithstanding section 302(a)(3) of the Congressional Accountability Act of 1995 (2 U.S.C. 1382(a)(3)), the individual serving as Executive Director of the Office of Compliance as of the date of the enactment of this Act \[July 27, 2005\] may serve one additional term.
+
+“(b)
+
+Deputy Executive Directors.—Notwithstanding section 302(b)(2) of such Act (2 U.S.C. 1382(b)(2)), any individual serving as a Deputy Executive Director of the Office of Compliance as of the date of the enactment of this Act may serve one additional term.
+
+“(c)
+
+General Counsel.—Notwithstanding section 302(c)(5) of such Act (2 U.S.C. 1382(c)(5)), the individual serving as General Counsel of the Office of Compliance as of the date of the enactment of this Act may serve one additional term.”
+
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

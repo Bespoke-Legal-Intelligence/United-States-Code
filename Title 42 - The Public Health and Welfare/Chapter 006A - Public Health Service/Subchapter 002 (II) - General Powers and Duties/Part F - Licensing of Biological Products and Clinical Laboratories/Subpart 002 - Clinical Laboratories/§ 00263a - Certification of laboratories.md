@@ -122,7 +122,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (C) Effect of withdrawal of approval
 
-&emsp;&emsp;If the Secretary withdraws the approval of an accreditation body under subparagraph (B), the certificate of any laboratory accredited by the body shall continue in effect for60 days after the laboratory receives notification of the withdrawal of the approval, except that the Secretary may extend such period for a laboratory if it determines that the laboratory submitted an application for accreditation or a certificate in a timely manner after receipt of the notification of the withdrawal of approval. If an accreditation body withdraws or revokes the accreditation of a laboratory, the certificate of the laboratory shall continue in effect—
+&emsp;&emsp;If the Secretary withdraws the approval of an accreditation body under subparagraph (B), the certificate of any laboratory accredited by the body shall continue in effect for 60 days after the laboratory receives notification of the withdrawal of the approval, except that the Secretary may extend such period for a laboratory if it determines that the laboratory submitted an application for accreditation or a certificate in a timely manner after receipt of the notification of the withdrawal of approval. If an accreditation body withdraws or revokes the accreditation of a laboratory, the certificate of the laboratory shall continue in effect—
 
 &emsp;&emsp;&emsp;(i) for 45 days after the laboratory receives notice of the withdrawal or revocation of the accreditation, or
 
@@ -176,7 +176,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretarydetermines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -184,7 +184,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (C) Approved proficiency testing programs
 
-&emsp;&emsp;For the purpose of administering proficiency testing programs which meet the standards established under subparagraph\(A), the Secretary shall approve a proficiency testing program offered by a private nonprofit organization or a State if the program meets the standards established under subparagraph (A) and the organization or State provides technical assistance to laboratories seeking to qualify under the program. The Secretary shall evaluate each program approved under this subparagraph annually to determine if the program continues to meet the standards established under subparagraph (A) and shall withdraw the approval of any program that no longer meets such standards.
+&emsp;&emsp;For the purpose of administering proficiency testing programs which meet the standards established under subparagraph (A), the Secretary shall approve a proficiency testing program offered by a private nonprofit organization or a State if the program meets the standards established under subparagraph (A) and the organization or State provides technical assistance to laboratories seeking to qualify under the program. The Secretary shall evaluate each program approved under this subparagraph annually to determine if the program continues to meet the standards established under subparagraph (A) and shall withdraw the approval of any program that no longer meets such standards.
 
 #### (D) Onsite testing
 
@@ -238,7 +238,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (2) Compliance with requirements and standards
 
-&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements ofsubsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accredited under subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
+&emsp;The Secretary shall conduct inspections of laboratories under paragraph (1) to determine their compliance with the requirements of subsection (d) of this section and the standards issued under subsection (f) of this section. Inspections of laboratories not accredited under subsection (e) of this section shall be conducted on a biennial basis or with such other frequency as the Secretary determines to be necessary to assure compliance with such requirements and standards. Inspections of laboratories accredited under subsection (e) of this section shall be conducted on such basis as the Secretary determines is necessary to assure compliance with such requirements and standards.
 
 #### (h) Intermediate sanctions
 
@@ -308,7 +308,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (j) Injunctions
 
-Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to thepublic health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated to enjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
+Whenever the Secretary has reason to believe that continuation of any activity by a laboratory would constitute a significant hazard to the public health the Secretary may bring suit in the district court of the United States for the district in which such laboratory is situated to enjoin continuation of such activity. Upon proper showing, a temporary injunction or restraining order against continuation of such activity pending issuance of a final order under this subsection shall be granted without bond by such court.
 
 #### (k) Judicial review
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (j), (k), (<i>l</i>), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (<i>l</i>) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
+Section 3 of Pub. L. 100–578 provided that: “Subsections (g)(1), (h), (i), (j), (k), (<i>l</i>), and (m) of section 353 of the Public Health Service Act \[this section\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (<i>l</i>) of such section 353 as in effect on December 31, 1988, shall continueto apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988.”
 
 #### Effective Date
 

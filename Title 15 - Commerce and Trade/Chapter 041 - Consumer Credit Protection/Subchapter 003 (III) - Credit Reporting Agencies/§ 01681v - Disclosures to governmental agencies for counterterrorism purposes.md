@@ -18,7 +18,7 @@ Nothing in section 1681u of this title shall be construed to limit the authority
 
 #### (e) Safe harbor
 
-Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or other information pursuant to this section in good-faith reliance upon a certification of a government agency pursuant to the provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or anylaw or regulation of any State or any political subdivision of any State.
+Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or other information pursuant to this section in good-faith reliance upon a certification of a government agency pursuant to the provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
 
 (Pub. L. 90–321, title VI, §627, formerly §626, as added Pub. L. 107–56, title III, §358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered §627 and amended Pub. L. 108–159, title II, §214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, §6203(<i>l</i>), Dec. 17, 2004, 118 Stat. 3747.)
 
@@ -36,9 +36,7 @@ Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as 
 
 Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of this title.
 
-#### Effective and Termination Dates
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+#### Effective Date
 
 Section applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as an Effective Date of 2001 Amendment note under section 1829b of this Title 12, Banks and Banking.
 

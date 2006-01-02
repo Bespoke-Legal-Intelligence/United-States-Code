@@ -13,6 +13,8 @@
 
 Pub. L. 97–248, title III, §344(b)(2), Sept. 3, 1982, 96 Stat. 636, added item 6622.
 
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “sections”.</i>
+
 
 ---
 

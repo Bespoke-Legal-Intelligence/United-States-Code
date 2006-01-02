@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the Office of Rural Health Policy 
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the Stateinvolved agrees, with respect to the costs to be incurred by the State in carrying out the purpose described in such subsection, to provide non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than $1 for each $3 of Federal funds provided in the grant;
 

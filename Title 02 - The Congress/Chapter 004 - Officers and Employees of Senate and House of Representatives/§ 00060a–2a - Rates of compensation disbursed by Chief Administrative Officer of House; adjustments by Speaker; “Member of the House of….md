@@ -46,7 +46,7 @@ Section is from the Congressional Operations Appropriations Act, 1988, which is 
 
 #### Order of the Speaker of the House of Representatives
 
-I74January 7, 2005
+I74December 18, 2005
 
 Pursuant to the authority vested in the Speaker by section 311(d) of the Legislative Branch Appropriations Act, 1988 (2 U.S.C. 60a–2a), in order to ensure parity of treatment between employees of the House of Representatives and certain other employees of the Government, it is hereby—
 
@@ -54,9 +54,9 @@ Pursuant to the authority vested in the Speaker by section 311(d) of the Legisla
 
 #### pay for specified positions
 
-Section 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the Chaplain, the Parliamentarian, the Legislative Counsel, the Law Revision Counsel, the General Counsel to the House, the Inspector General, the Director ofInterparliamentary Affairs and the Director of the Office of Emergency Planning, Preparedness, and Operations is $160,600.
+Section 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the Chaplain, the Parliamentarian, the Legislative Counsel, the Law Revision Counsel, the General Counsel to the House, the Inspector General, the Director of Interparliamentary Affairs and the Director of the Office of Emergency Planning, Preparedness, and Operations is $163,700.
 
-(b) Subject to the approval of the Speaker, the Clerk, the Sergeant-at-Arms, the General Counsel to the House, the Law Revision Counsel and the Director of the Office of Emergency Planning, Preparedness, and Operations may establish the pay for the Deputy Clerk, the Deputy Sergeant-at-Arms, the Deputy General Counsel, the Deputy Director of the Office of Emergency Planning, Preparedness, and Operations and, notwithstanding section 2(b)(2), the Deputy Law Revision Counsel, respectively, at a maximum annual rate of $158,976.
+(b) Subject to the approval of the Speaker, the Clerk, the Sergeant-at-Arms, the General Counsel to the House, the Law Revision Counsel and the Director of the Office of Emergency Planning, Preparedness, and Operations may establish the pay for the Deputy Clerk, the Deputy Sergeant-at-Arms, the Deputy General Counsel, the Deputy Director of the Office of Emergency Planning, Preparedness, and Operations and, notwithstanding section 2(b)(2), the Deputy Law Revision Counsel, respectively, at a maximum annual rate of $161,997.
 
 #### pay for certain other positions
 
@@ -80,45 +80,45 @@ Sec. 2. (a) Subject to the maximums under subsection (b), the following Members,
 
 &emsp;(9) The Law Revision Counsel, subject to the approval of the Speaker.
 
-(b)(1) The maximum annual rate under subsection (a) is $160,600 for—
+(b)(1) The maximum annual rate under subsection (a) is $163,700 for—
 
 &emsp;(A) any employee whose maximum annual rate of pay, but for the pay authority of the Speaker under section 311(d) of the Legislative Branch Appropriations Act, 1988 (2 U.S.C. 60a–2a), would be subject to a maximum equal to the rate payable for level III or IV of the Executive Schedule; and
 
 &emsp;(B)(i) one employee of the Republican Conference and one employee of the Democratic Steering and Policy Committee, (ii) any employee in a position under 77 Stat. 817, (iii) 6 minority employees, (iv) the employee in the position in the Office of the Speaker created in 1967, (v) 3 employees in the Speaker's Office for Legislative Floor Activities, and (vi) 3 further minority employees.
 
-(2) The maximum annual rate under subsection (a) is $156,848 for any employee whose maximum annual rate of pay, but for the pay authority of the Speaker referred to in paragraph (1), would be subject to a maximum equal to the rate payable for level V of the Executive Schedule.
+(2) The maximum annual rate under subsection (a) is $159,828 for any employee whose maximum annual rate of pay, but for the pay authority of the Speaker referred to in paragraph (1), would be subject to a maximum equal to the rate payable for level V of the Executive Schedule.
 
 #### pay for employees of committees
 
-Sec. 3. (a) Except as provided in subsection (b), the chairman of a standing, special, or select committee of the House or of a joint committee of Congress, if applicable, may establish the pay for employees of the committee at a maximum annual rate of $156,848.
+Sec. 3. (a) Except as provided in subsection (b), the chairman of a standing, special, or select committee of the House or of a joint committee of Congress, if applicable, may establish the pay for employees of the committee at a maximum annual rate of $159,828.
 
-(b)(1) Each chairman may establish the pay for 3 employees at a maximum annual rate of $160,600, with one such employee to be designated by the ranking minority party member.
+(b)(1) Each chairman may establish the pay for 3 employees at a maximum annual rate of $163,700, with one such employee to be designated by the ranking minority party member.
 
-(2) Each chairman may establish the pay for 9 employees at a maximum annual rate of $158,976, with 3 such employees to be designated by the ranking minority party member, except that the Chairman of the Committee on Appropriations may so establish pay for 24 employees, with 7 such employees to be designated by the ranking minority party member.
+(2) Each chairman may establish the pay for 9 employees at a maximum annual rate of $161,997, with 3 such employees to be designated by the ranking minority party member, except that the Chairman of the Committee on Appropriations may so establish pay for 24 employees, with 7 such employees to be designated by the ranking minority party member.
 
 #### pay for employees of members
 
-Sec. 4. Each Member of the House may establish the pay for employees in the office of the Member at a maximum annual rate of $156,848.
+Sec. 4. Each Member of the House may establish the pay for employees in the office of the Member at a maximum annual rate of $159,828.
 
 #### miscellaneous pay provisions
 
-Sec. 5. (a) Subject to the approval of the Speaker, the Clerk may establish the pay for 3 employees at a maximum annual rate of $156,848.
+Sec. 5. (a) Subject to the approval of the Speaker, the Clerk may establish the pay for 3 employees at a maximum annual rate of $159,828.
 
 (b) Subject to the approval of the Speaker, the Sergeant-at-Arms may establish the pay—
 
-&emsp;(1) for 2 employees at a maximum annual rate of $156,848; and
+&emsp;(1) for 2 employees at a maximum annual rate of $159,828; and
 
 &emsp;(2) for 2 employees at a maximum annual rate equal to 75 percent of the maximum under paragraph (1).
 
 (c) Subject to the approval of the Speaker, the Chief Administrative Officer may establish the pay—
 
-&emsp;(1) for 2 employees at a maximum annual rate of $156,848; and
+&emsp;(1) for 2 employees at a maximum annual rate of $159,828; and
 
-&emsp;(2) for 3 employees at a maximum annual rate of $158,976.
+&emsp;(2) for 3 employees at a maximum annual rate of $161,997.
 
 #### general limitation
 
-Sec. 6. The maximum annual rate of pay is $156,848 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
+Sec. 6. The maximum annual rate of pay is $159,828 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation.
 
 #### shared employees
 
@@ -126,13 +126,15 @@ Sec. 7. An employee who, under applicable rules and regulations, is paid from 2 
 
 #### effective date
 
-Sec. 8. The provisions of this Order shall take effect on January 1, 2005.
+Sec. 8. The provisions of this Order shall take effect on January 1, 2006.
 
 J. Dennis Hastert&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i>Speaker</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior Orders of the Speaker of the House of Representatives were issued on the following dates:
+
+Jan. 7, 2005, eff. Jan. 1, 2005.
 
 Feb. 3, 2004, eff. Jan. 1, 2004.
 

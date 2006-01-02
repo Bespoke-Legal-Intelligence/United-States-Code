@@ -96,7 +96,3 @@ For purposes of this subchapter—
 
 Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under section 4001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4001 of this title.
-

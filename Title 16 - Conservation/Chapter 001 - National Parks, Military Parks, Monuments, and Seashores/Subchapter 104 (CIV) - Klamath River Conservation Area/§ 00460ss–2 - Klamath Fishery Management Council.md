@@ -140,7 +140,7 @@ Any Council member who is an officer or employee of the United States, the State
 
 #### Amendments
 
-1988—Subsec. (g)(1). Pub. L. 100–653, §602(a), substituted “Procedures” for “Decisions of Council” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Council must be by unanimous vote of all of the members.”
+1988—Subsec. (g)(1). Pub. L. 100–653, §602(a), substituted “Procedures” for “Decisions of Council” aspar. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Council must be by unanimous vote of all of the members.”
 
 Subsec. (i). Pub. L. 100–653, §603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”.
 

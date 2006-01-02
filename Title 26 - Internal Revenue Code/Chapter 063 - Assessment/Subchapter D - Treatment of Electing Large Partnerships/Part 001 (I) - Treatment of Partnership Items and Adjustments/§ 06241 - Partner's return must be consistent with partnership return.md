@@ -6,7 +6,7 @@ A partner of any electing large partnership shall, on the partner's return, trea
 
 #### (b) Underpayment due to inconsistent treatment assessed as math error
 
-Any underpayment of tax by a partner by reason of failing to comply with the requirements of subsection (a) shall be assessed and collected in the same manner as if such underpayment were on account of a mathematical or clerical error appearing on the partner's return. Paragraph (2) of section 6213(b) shall not apply to any assessment of an underpayment referred to in the preceding sentence.
+Any underpayment of tax by a partner by reason of failing to comply with the requirements of subsection (a) shall be assessed and collected in the same manner as if such underpaymentwere on account of a mathematical or clerical error appearing on the partner's return. Paragraph (2) of section 6213(b) shall not apply to any assessment of an underpayment referred to in the preceding sentence.
 
 #### (c) Adjustments not to affect prior year of partners
 
@@ -53,8 +53,4 @@ Any underpayment of tax by a partner by reason of failing to comply with the req
 #### Prior Provisions
 
 A prior section 6241, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that tax treatment be determined at the corporate level, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6246 of this title.
 

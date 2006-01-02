@@ -22,7 +22,7 @@ Way End-of-Train Devices.—(1) The Secretary shall require 2-way end-of-train d
 
 (c)
 
-Exclusions.—The Secretary may exclude from regulations prescribed under subsections (a) and (b) of this section any category of trains or rail operations if the Secretary decides that the exclusion is in the public interest and is consistent with railroad safety. The Secretary shall make public the reasons for the exclusion. The Secretary at least shall exclude from the regulations prescribed under subsection (b)—
+Exclusions.—The Secretary may exclude from regulations prescribed under subsections\(a) and (b) of this section any category of trains or rail operations if the Secretary decides that the exclusion is in the public interest and is consistent with railroad safety. The Secretary shall make public the reasons for the exclusion. The Secretary at least shall exclude from the regulations prescribed under subsection (b)—
 
 &emsp;(1) trains that have manned cabooses;
 

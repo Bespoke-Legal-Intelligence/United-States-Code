@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition on Counting Enlisted Service Performed While at Service Academy or in Naval Reserve.—The period of service under an enlistment or period of obligated service while also performing service as a cadet or midshipman or serving as a midshipman in the Naval Reserve may not be counted in computing, for any purpose, the length of service of an officer of an armed force or an officer in the Commissioned Corps of the Public Health Service.
+Prohibition on Counting Enlisted Service Performed While at Service Academy or in Navy Reserve.—The period of service under an enlistment or period of obligated service while also performing service as a cadet or midshipman or serving as a midshipman in the Navy Reserve may not be counted in computing, for any purpose, the length of service of an officer of an armed force or an officer in the Commissioned Corps of the Public Health Service.
 
 (b)
 
@@ -24,7 +24,7 @@ Service as a Cadet or Midshipman Defined.—In this section, the term “service
 
 &emsp;(2) service as a midshipman at the United States Naval Academy.
 
-(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1442; amended Pub. L. 90–235, §6(a) (1), Jan. 2, 1968, 81 Stat. 761; Pub. L. 98–557, §17(a), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 101–189, div. A, title VI, §652(a)(1)(A), (2), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–201, div. A, title V, §581, Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title X, §1073(a)(13), Nov. 18, 1997, 111 Stat. 1900.)
+(Added Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1442; amended Pub. L. 90–235, §6(a) (1), Jan. 2, 1968, 81 Stat. 761; Pub. L. 98–557, §17(a), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 101–189, div. A, title VI, §652(a)(1)(A), (2), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–201, div. A, title V, §581, Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title X, §1073(a)(13), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 109–163, div. A, title V, §515(b)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3233, 3234.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,12 @@ Historical and Revision Notes
 June 25, 1956, ch. 439, §4, 70 Stat. 333.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 substituted “
+
+Navy Reserve” for “
+
+Naval Reserve” in heading and “Navy Reserve” for “Naval Reserve” in text.
 
 1997—Subsec. (b)(4). Pub. L. 105–85 substituted “Commissioned Corps” for “commissioned corps”.
 

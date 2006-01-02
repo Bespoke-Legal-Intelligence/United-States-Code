@@ -26,5 +26,5 @@ This section, referred to in pars. (1) and (2), means section 1 of Pub. L. 100�
 
 #### Construction of 1997 Amendment
 
-Section 3(d) of Pub. L. 105–55 provided that: “Nothing in this section \[amending this section and section 58 of this title, repealing section 58c–1 of this title, and enacting provisions set out as notes under sections 58 and 58c–1 of this title\] affects the authority of the Committee on Rules and Administration of the Senate to prescribe regulations relating to the frank by Senators and officers of the Senate.”
+Section 3(d) of Pub. L. 105–55 provided that: “Nothing in this section \[amending this section and section 58 ofthis title, repealing section 58c–1 of this title, and enacting provisions set out as notes under sections 58 and 58c–1 of this title\] affects the authority of the Committee on Rules and Administration of the Senate to prescribe regulations relating to the frank by Senators and officers of the Senate.”
 

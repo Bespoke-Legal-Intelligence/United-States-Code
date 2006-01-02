@@ -20,7 +20,7 @@ If the Secretary determines that a violation does not warrant termination of the
 
 #### (2) Resumption of operation
 
-&emsp;This subsection shall not void the responsibilities of the owner or producer under the contract if the owner or producer continues or resumes operation, or control, of the contract acreage. On the resumption of operation or control over the contract acreage by theowner or producer, the provisions of the contract in effect on the date of the foreclosure shall apply.
+&emsp;This subsection shall not void the responsibilities of the owner or producer under the contract if the owner or producer continues or resumes operation, or control, of the contract acreage. On the resumption of operation or control over the contract acreage by the owner or producer, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
 #### (d) Review
 

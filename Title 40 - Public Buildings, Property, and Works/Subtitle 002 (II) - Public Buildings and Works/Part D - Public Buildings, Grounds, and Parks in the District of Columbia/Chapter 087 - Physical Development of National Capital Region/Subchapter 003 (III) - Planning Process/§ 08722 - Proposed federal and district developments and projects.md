@@ -30,7 +30,7 @@ Additional Procedure for Developments and Projects Within Environs.—
 
 &emsp;(1)
 
-Submission to commission.—Within the environs, general plans showing the location, character, and extent of, and intensity of use for, proposed federal and District developments and projects involving the acquisition of land shall be submitted to the Commission for report and recommendations before a final commitment to the acquisition is made, unless the matter specifically has been approved by law.
+Submission to commission.—Within the environs, general plans showing the location, character, and extent of, and intensity of usefor, proposed federal and District developments and projects involving the acquisition of land shall be submitted to the Commission for report and recommendations before a final commitment to the acquisition is made, unless the matter specifically has been approved by law.
 
 &emsp;(2)
 

@@ -32,7 +32,7 @@
 
 (2) Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
 
-(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shallsign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+(d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, §1(d)(3), Dec. 21, 2004, 118 Stat. 3892.)
 
@@ -44,7 +44,7 @@
 
 Subsec. (c)(2). Pub. L. 106–361, §2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment by Pub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
+1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment byPub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
 
 Pub. L. 106–65, §661(a)(5)(A), struck out “under section 8351 of this title” after “Thrift Savings Fund”.
 

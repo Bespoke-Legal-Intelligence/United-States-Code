@@ -34,7 +34,3 @@ Subsec. (b). Pub. L. 94–258, §201(15), struck out “and oil shale” after �
 
 Subsec. (b). Pub. L. 87–796 substituted “All money accruing to the United States from lands in the naval petroleum and oil shale reserves” for “Money paid to the United States for petroleum products under this chapter”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 16 section 470h; title 30 section 191; title 43 section 1601.
-

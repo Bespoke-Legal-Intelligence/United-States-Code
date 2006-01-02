@@ -42,7 +42,7 @@ The master, person in charge of a vehicle, or aircraft pilot shall present, or t
 
 #### (e) Prohibition on departures and discharge
 
-Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving in the UnitedStates or Virgin Islands may, but only in accordance with regulations prescribed by the Secretary—
+Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving in the United States or Virgin Islands may, but only in accordance with regulations prescribed by the Secretary—
 
 &emsp;(1) depart from the port, place, or airport of arrival; or
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 103–182, §652(3), amended subsec. (e) generally. Prior t
 
 > only in accordance with regulations prescribed by the Secretary.”
 
-1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for which entry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe.”
+1986—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: “Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for whichentry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe.”
 
 #### Effective Date of 2000 Amendment
 

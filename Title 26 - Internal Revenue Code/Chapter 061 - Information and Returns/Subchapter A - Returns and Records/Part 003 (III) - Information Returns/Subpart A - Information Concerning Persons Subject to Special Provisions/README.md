@@ -12,7 +12,7 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 |  |  |
 | :--- | ---: |
 | [6034A.](%C2%A7%2006034A%20-%20Information%20to%20beneficiaries%20of%20estates%20and%20trusts.md) | Information to beneficiaries of estates and trusts. |
-| [6035\.](%C2%A7%2006035%20-%20Returns%20of%20officers%2C%20directors%2C%20and%20shareholders%20of%20foreign%20personal%20holding%20companies.md) | Returns of officers, directors, and shareholders of foreign personal holding companies. |
+| \[6035. | Repealed.\] |
 | [6036\.](%C2%A7%2006036%20-%20Notice%20of%20qualification%20as%20executor%20or%20receiver.md) | Notice of qualification as executor or receiver. |
 | [6037\.](%C2%A7%2006037%20-%20Return%20of%20S%20corporation.md) | Return of S corporation. |
 | [6038\.](%C2%A7%2006038%20-%20Information%20reporting%20with%20respect%20to%20certain%20foreign%20corporations%20and%20partnerships.md) | Information reporting with respect to certain foreign corporations and partnerships. |
@@ -42,6 +42,8 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 Pub. L. 96–603, §1(e)(1), Dec. 28, 1980, 94 Stat. 3505, which directed that item 6034 be amended by substituting “4947(a)(2)” for “4947(a)”, could not be executed because item 6034 does not contain “4947(a)”.
 
 #### Amendments
+
+2004—Pub. L. 108–357, title IV, §413(c)(33), Oct. 22, 2004, 118 Stat. 1510, struck out item 6035 “Returns of officers, directors, and shareholders of foreign personal holding companies”.
 
 2001—Pub. L. 107–16, title VI, §671(c)(2), June 7, 2001, 115 Stat. 147, added item 6039H.
 
@@ -93,7 +95,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 - [&sect; 06033 - Returns by exempt organizations](%C2%A7%2006033%20-%20Returns%20by%20exempt%20organizations.md)
 - [&sect; 06034 - Returns by trusts described in section 4947(a)(2) or claiming charitable deductions under section 642(c)](%C2%A7%2006034%20-%20Returns%20by%20trusts%20described%20in%20section%204947%28a%29%282%29%20or%20claiming%20charitable%20deductions%20under%20section%20642%28c%29.md)
 - [&sect; 06034A - Information to beneficiaries of estates and trusts](%C2%A7%2006034A%20-%20Information%20to%20beneficiaries%20of%20estates%20and%20trusts.md)
-- [&sect; 06035 - Returns of officers, directors, and shareholders of foreign personal holding companies](%C2%A7%2006035%20-%20Returns%20of%20officers%2C%20directors%2C%20and%20shareholders%20of%20foreign%20personal%20holding%20companies.md)
+- [&sect; 06035 - Repealed. Pub. L. 108&#8211;357, title IV, &sect;413(c)(26), Oct. 22, 2004, 118 Stat. 1509](%C2%A7%2006035%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20IV%2C%20%C2%A7413%28c%29%2826%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201509.md)
 - [&sect; 06036 - Notice of qualification as executor or receiver](%C2%A7%2006036%20-%20Notice%20of%20qualification%20as%20executor%20or%20receiver.md)
 - [&sect; 06037 - Return of S corporation](%C2%A7%2006037%20-%20Return%20of%20S%20corporation.md)
 - [&sect; 06038 - Information reporting with respect to certain foreign corporations and partnerships](%C2%A7%2006038%20-%20Information%20reporting%20with%20respect%20to%20certain%20foreign%20corporations%20and%20partnerships.md)

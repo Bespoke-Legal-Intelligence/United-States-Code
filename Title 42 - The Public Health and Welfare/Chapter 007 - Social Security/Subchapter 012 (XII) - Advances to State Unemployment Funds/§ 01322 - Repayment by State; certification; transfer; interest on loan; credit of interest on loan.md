@@ -2,7 +2,7 @@
 
 #### (a) Repayment by State; certification; transfer
 
-The Governor of any State may at any time request that funds be transferred from the account of such State to the Federal unemployment account in repayment of part or all of that balance of advances, made to such State under section 1321 of this title, specified in the request. The Secretary of Labor shall certify to the Secretary of the Treasury the amount and balance specified in the request; and the Secretary of the Treasury shall promptly transfer such amount in reduction of such balance.
+The Governor of any State may at any time request that funds be transferred from the account of such State to the Federal unemployment account in repayment of part or all of that balance of advances, made to such State under section 1321 of this title, specified in the request. The Secretary of Labor shall certify to the Secretary of the Treasury the amount and balance specified in the request; and the Secretary of theTreasury shall promptly transfer such amount in reduction of such balance.
 
 #### (b) Interest on loan
 
@@ -90,7 +90,7 @@ Subsec. (b)(2)(A). Pub. L. 98–118, §5(a)(2), (3), substituted “advances are
 
 Subsec. (b)(2)(B). Pub. L. 98–118, §5(a)(4), substituted “advances was completed” for “advance was completed”.
 
-Subsec. (b)(3)(A). Pub. L. 98–21, §514, which directed substitution of “prior to” for “not later than” was executed, as the probable intent of Congress, by making that substitution the first time the phrase appearedfollowing “Secretary of Treasury” and not the second time that phrase appeared.
+Subsec. (b)(3)(A). Pub. L. 98–21, §514, which directed substitution of “prior to” for “not later than” was executed, as the probable intent of Congress, by making that substitution the first time the phrase appeared following “Secretary of Treasury” and not the second time that phrase appeared.
 
 Subsec. (b)(3)(C)(i). Pub. L. 98–21, §511(c), substituted, after subcl. II, provision that no interest shall accrue on such deferred interest for provision that any interest the time for payment of which was deferred under this subparagraph would bear interest in the same manner as if it had been an advance made on the day on which it would have been required to be paid but for this subparagraph.
 

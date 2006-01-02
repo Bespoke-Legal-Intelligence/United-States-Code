@@ -6,7 +6,7 @@
 
 (b) A determination that travel by a privately owned vehicle is more advantageous to the Government is not required under subsection (a) of this section when payment on a mileage basis is limited to the cost of travel by common carrier including per diem.
 
-(c) Notwithstanding the provisions of subsections (a) and (b) of this section, in any case in which an employee who is engaged on official business for the Government chooses to use aprivately owned vehicle in lieu of a Government vehicle, payment on a mileage basis is limited to the cost of travel by a Government vehicle.
+(c) Notwithstanding the provisions of subsections (a) and (b) of this section, in any case in which an employee who is engaged on official business for the Government chooses to use a privately owned vehicle in lieu of a Government vehicle, payment on a mileage basis is limited to the cost of travel by a Government vehicle.
 
 (d) In addition to the rate per mile authorized under subsection (a) of this section, the employee may be reimbursed for—
 

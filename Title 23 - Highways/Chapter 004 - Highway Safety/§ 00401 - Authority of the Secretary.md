@@ -42,7 +42,7 @@ Pub. L. 94–280, title II, §201, May 5, 1976, 90 Stat. 451, provided that: “
 
 #### Short Title of 1973 Amendment
 
-Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
+Section 201 of title II of Pub. L. 93–87 provided that: “This title \[enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out asnotes under this section and sections 130, 144, 151, 217, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1973’.”
 
 #### Short Title of 1970 Amendment
 
@@ -50,7 +50,135 @@ Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: 
 
 #### Short Title
 
-Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 ofthis title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
+Section 208 of Pub. L. 89–564 provided that: “This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the ‘Highway Safety Act of 1966’.”
+
+#### Wildlife Vehicle Collision Reduction Study
+
+Pub. L. 109–59, title I, §1119(n), Aug. 10, 2005, 119 Stat. 1190, provided that:
+
+“(1)
+
+In general.—The Secretary \[of Transportation\] shall conduct a study of methods to reduce collisions between motor vehicles and wildlife (in this subsection referred to as ‘wildlife vehicle collisions’).
+
+“(2)
+
+Contents.—
+
+&emsp;“(A)
+
+Areas of study.—The study shall include an assessment of the causes and impacts of wildlife vehicle collisions and solutions and best practices for reducing such collisions.
+
+&emsp;“(B)
+
+Methods for conducting the study.—In carrying out the study, the Secretary shall—
+
+&emsp;&emsp;“(i) conduct a thorough literature review; and
+
+&emsp;&emsp;“(ii) survey current practices of the Department of Transportation.
+
+“(3)
+
+Consultation.—In carrying out the study, the Secretary shall consult with appropriate experts in the field of wildlife vehicle collisions.
+
+“(4)
+
+Report.—
+
+&emsp;“(A)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary shall submit to Congress a report on the results of the study.
+
+&emsp;“(B)
+
+Contents.—The report shall include a description of each of the following:
+
+&emsp;&emsp;“(i) Causes of wildlife vehicle collisions.
+
+&emsp;&emsp;“(ii) Impacts of wildlife vehicle collisions.
+
+&emsp;&emsp;“(iii) Solutions to and prevention of wildlife vehicle collisions.
+
+“(5)
+
+Manual.—
+
+&emsp;“(A)
+
+Development.—Based upon the results of the study, the Secretary shall develop a best practices manual to support State efforts to reduce wildlife vehicle collisions.
+
+&emsp;“(B)
+
+Availability.—The manual shall be made available to States not later than 1 year after the date of transmission of the report under paragraph (4).
+
+&emsp;“(C)
+
+Contents.—The manual shall include, at a minimum, the following:
+
+&emsp;&emsp;“(i) A list of best practices addressing wildlife vehicle collisions.
+
+&emsp;&emsp;“(ii) A list of information, technical, and funding resources for addressing wildlife vehicle collisions.
+
+&emsp;&emsp;“(iii) Recommendations for addressing wildlife vehicle collisions.
+
+&emsp;&emsp;“(iv) Guidance for developing a State action plan to address wildlife vehicle collisions.
+
+“(6)
+
+Training.—Based upon the manual developed under paragraph (5), the Secretary shall develop a training course on addressing wildlife vehicle collisions for transportation professionals.”
+
+#### Worker Injury Prevention and Free Flow of Vehicular Traffic
+
+Pub. L. 109–59, title I, §1402, Aug. 10, 2005, 119 Stat. 1227, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall issue regulations to decrease the likelihood of worker injury and maintain the free flow of vehicular traffic by requiring workers whose duties place them on or in close proximity to a Federal-aid highway (as defined in section 101 of title 23, United States Code) to wear high visibility garments. The regulations may also require such other worker-safety measures for workers with those duties as the Secretary determines to be appropriate.”
+
+#### Roadway Safety Improvements for Older Drivers and Pedestrians
+
+Pub. L. 109–59, title I, §1405, Aug. 10, 2005, 119 Stat. 1230, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] shall carry out a program to improve traffic signs and pavement markings in all States (as such term is defined in section 101 of title 23, United States Code) in a manner consistent with the recommendations included in the publication of the Federal Highway Administration entitled ‘Guidelines and Recommendations to Accommodate Older Drivers and Pedestrians (FHWA–RD–01–103)’ and dated October 2001.
+
+“(b)
+
+Federal Share.—The Federal share of the cost of a project carried out under this section shall be determined in accordance with section 120 of title 23, United States Code.
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2005 through 2009.”
+
+#### Work Zone Safety Grants
+
+Pub. L. 109–59, title I, §1409(a)–(c), Aug. 10, 2005, 119 Stat. 1232, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] shall establish and implement a work zone safety grant program under which the Secretary may make grants to nonprofit organizations and not-for-profit organizations to provide training to prevent or reduce highway work zone injuries and fatalities.
+
+“(b)
+
+Eligible Activities.—Grants may be made under the program for the following purposes:
+
+&emsp;“(1) Training for construction craft workers on the prevention of injuries and fatalities in highway and road construction.
+
+&emsp;“(2) Development of guidelines for the prevention of highway work zone injuries and fatalities.
+
+&emsp;“(3) Training for State and local government transportation agencies and other groups implementing guidelines for the prevention of highway work zone injuries and fatalities.
+
+“(c)
+
+Funding.—
+
+&emsp;“(1)
+
+In general.—There is authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $5,000,000 for each of fiscal years 2006 through 2009.
+
+&emsp;“(2)
+
+Contract authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable.”
+
+#### Prohibition on Other Uses
+
+Pub. L. 109–59, title II, §2001(b), Aug. 10, 2005, 119 Stat. 1520, provided that: “Except as otherwise provided in chapter 4 of title 23, United States Code, and this title \[enacting section 412 of this title and section 39 of Title 18, Crimes and Criminal Procedure, amending sections 402 to 406, 408, and 410 of this title, and enacting provisions set out as notes under sections 402, 403, 405, and 410 of this title\], (including the amendments made by this title), the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapter shall only be used to carry out such program and may not be used by States or local governments for construction purposes.”
 
 #### Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects
 
@@ -88,6 +216,20 @@ Safety applications.—In conducting the study, the Secretary shall determine wh
 
 #### Work Zone Safety Program
 
+Pub. L. 109–59, title I, §1410, Aug. 10, 2005, 119 Stat. 1233, provided that:
+
+“(a)
+
+Grants.—The Secretary \[of Transportation\] shall make grants for fiscal years 2006 through 2009 to a national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by section 358(b)(2) of Public Law 104–59 \[set out below\], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $1,000,000 for each of fiscal years 2006 through 2009.
+
+“(c)
+
+Contract Authority.—Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 100 percent, and such funds shall remain available until expended and shall not be transferable.”
+
 Pub. L. 104–59, title III, §358(b), Nov. 28, 1995, 109 Stat. 625, provided that: “In carrying out the work zone safety program under section 1051 of the Intermodal Surface Transportation Efficiency Act of 1991 \[Pub. L. 102–240\] (23 U.S.C. 401 note; 105 Stat. 2001), the Secretary shall utilize a variety of methods to increase safety at highway construction sites, including each of the following:
 
 &emsp;“(1) Conducting conferences to explore new techniques and stimulate dialogue for improving work zone safety.
@@ -124,13 +266,13 @@ Section 208 of Pub. L. 100–17, as amended by Pub. L. 100–202, §101(<i>l</i>
 
 #### Annual Report by Secretary of Transportation on Highway Safety Performance of Each State
 
-Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
+Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of theStates. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
 
 \[For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.\]
 
 #### National Driver Registration
 
-Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305,Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
+Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
 
 #### Pilot Projects for Highway Safety Education and Information
 

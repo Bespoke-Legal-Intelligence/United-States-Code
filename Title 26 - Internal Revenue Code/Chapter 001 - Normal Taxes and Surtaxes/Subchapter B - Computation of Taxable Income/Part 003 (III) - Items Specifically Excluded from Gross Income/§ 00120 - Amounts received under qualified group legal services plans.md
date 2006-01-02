@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (4) Dependent
 
-&emsp;The term “dependent” has the meaning given to it by section 152.
+&emsp;The term “dependent” has the meaning given to it by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 
 #### (5) Exclusive benefit
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (7) Time of notice to Secretary
 
-&emsp;A plan shall not be a qualified group legal services plan for any period prior to the timenotification was provided to the Secretary in accordance with subsection (c)(4), if such notice is given after the time prescribed by the Secretary by regulations for giving such notice.
+&emsp;A plan shall not be a qualified group legal services plan for any period prior to the time notification was provided to the Secretary in accordance with subsection (c)(4), if such notice is given after the time prescribed by the Secretary by regulations for giving such notice.
 
 #### (e) Termination
 
@@ -80,13 +80,15 @@ This section and section 501(c)(20) shall not apply to taxable years beginning a
 
 &emsp;&emsp;<b>For reporting and recordkeeping requirements, see section 6039D.</b>
 
-(Added Pub. L. 94–455, title XXI, §2134(a), Oct. 4, 1976, 90 Stat. 1926; amended Pub. L. 97–34, title VIII, §802(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–448, title I, §108(a), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–612, §1(a), (b)(3)(A), Oct. 31, 1984, 98 Stat. 3180, 3181; Pub. L. 99–514, title XI, §§1114(b)(3), 1151(c)(3), (g)(1), 1162(b), Oct. 22, 1986, 100 Stat. 2450, 2503, 2506, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4002(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7102(a)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11404(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §104(a)(1), Dec. 11, 1991, 105 Stat. 1687.)
+(Added Pub. L. 94–455, title XXI, §2134(a), Oct. 4, 1976, 90 Stat. 1926; amended Pub. L. 97–34, title VIII, §802(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–448, title I, §108(a), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–612, §1(a), (b)(3)(A), Oct. 31, 1984, 98 Stat. 3180, 3181; Pub. L. 99–514, title XI, §§1114(b)(3), 1151(c)(3), (g)(1), 1162(b), Oct. 22, 1986, 100 Stat. 2450, 2503, 2506, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4002(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7102(a)(1), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11404(a), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L.102–227, title I, §104(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 108–311, title II, §207(10), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### Prior Provisions
 
 A prior section 120, act Aug. 16, 1954, ch. 736, 68A Stat. 39, related to statutory subsistence allowance received by police, prior to repeal by Pub. L. 85–866, title I, §3(a), (c), Sept. 2, 1958, 72 Stat. 1607, effective with respect to taxable years ending after Sept. 30, 1958, but only with respect to amounts received as a statutory subsistence allowance for any day after Sept. 30, 1958.
 
 #### Amendments
+
+2004—Subsec. (d)(4). Pub. L. 108–311 inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
 
 1991—Subsec. (e). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
 
@@ -123,6 +125,10 @@ Subsec. (f). Pub. L. 98–612, §1(b)(3)(A), added subsec. (f).
 1983—Subsec. (e). Pub. L. 97–448 substituted “This section and section 501(c)(20) shall not apply” for “This section shall not apply”.
 
 1981—Subsec. (e). Pub. L. 97–34 added subsec. (e).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -223,8 +229,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Study and Report
 
 Section 2134(d) of Pub. L. 94–455 provided that a complete study and investigation with respect to the desirability and feasibility of continuing the exclusion from income of certain prepaid group legal services benefits under section 120 of the Internal Revenue Code of 1954 be made by the Secretary of Labor and the Secretary of the Treasury, with a report to the President and the Congress not later than Dec. 31, 1980.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 414, 501, 3121, 3306, 3231, 6039D of this title; title 42 section 409.
 

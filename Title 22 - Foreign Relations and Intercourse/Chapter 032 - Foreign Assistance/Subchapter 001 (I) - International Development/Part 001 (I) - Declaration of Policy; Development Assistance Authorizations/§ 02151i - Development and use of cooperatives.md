@@ -78,5 +78,5 @@ Pub. L. 106–309, title IV, §401(c)(1), Oct. 17, 2000, 114 Stat. 1096, provide
 
 #### Report
 
-Pub. L. 106–309, title IV, §401(d), Oct. 17, 2000, 114 Stat. 1097, provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Administrator of the United States Agency for International Development, in consultation with the headsof other appropriate agencies, shall prepare and submit to Congress a report on the implementation of section 111 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151i), as amended by subsection (c).”
+Pub. L. 106–309, title IV, §401(d), Oct. 17, 2000, 114 Stat. 1097, provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Administrator of the United States Agency for International Development, in consultation with the heads of other appropriate agencies, shall prepare and submit to Congress a report on the implementation of section 111 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151i), as amended by subsection (c).”
 

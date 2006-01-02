@@ -58,7 +58,3 @@ The Solid Waste Disposal Act, referred to in subsecs. (a)(4)(B) and (d), is titl
 
 Section 1611(b) of Pub. L. 101–189 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any contract for work on a naval vessel (other than new construction) entered into after the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 29, 1989\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 6939d.
-

@@ -2,17 +2,41 @@
 
 (a)
 
-Criminal Infringement.—Any person who infringes a copyright willfully either—
+Criminal Infringement.—
 
-&emsp;(1) for purposes of commercial advantage or private financial gain, or
+&emsp;(1)
 
-&emsp;(2) by the reproduction or distribution, including by electronic means, during any 180-day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000,
+In general.—Any person who willfully infringes a copyright shall be punished as provided under section 2319 of title 18, if the infringement was committed—
 
-> shall be punished as provided under section 2319 of title 18, United States Code. For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement.
+&emsp;&emsp;(A) for purposes of commercial advantage or private financial gain;
+
+&emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or
+
+&emsp;&emsp;(C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
+
+&emsp;(2)
+
+Evidence.—For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement of a copyright.
+
+&emsp;(3)
+
+Definition.—In this subsection, the term “work being prepared for commercial distribution” means—
+
+&emsp;&emsp;(A) a computer program, a musical work, a motion picture or other audiovisual work, or a sound recording, if, at the time of unauthorized distribution—
+
+&emsp;&emsp;&emsp;(i) the copyright owner has a reasonable expectation of commercial distribution; and
+
+&emsp;&emsp;&emsp;(ii) the copies or phonorecords of the work have not been commercially distributed; or
+
+&emsp;&emsp;(B) a motion picture, if, at the time of unauthorized distribution, the motion picture—
+
+&emsp;&emsp;&emsp;(i) has been made available for viewing in a motion picture exhibition facility; and
+
+&emsp;&emsp;&emsp;(ii) has not been made available in copies for sale to the general public in the United States in a format intended to permit viewing outside a motion picture exhibition facility.
 
 (b)
 
-Forfeiture and Destruction.—When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords.
+Forfeiture and Destruction.—When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty thereinprescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords.
 
 (c)
 
@@ -30,17 +54,25 @@ False Representation.—Any person who knowingly makes a false representation of
 
 Rights of Attribution and Integrity.—Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109–9, title I, §103(a), Apr. 27, 2005, 119 Stat. 220.)
 
 #### Historical and Revision Notes
 
 I74house report no. 94–1476
 
-Four types of criminal offenses actionable under the bill are listed in section 506: willful infringement for profit, fraudulent use of a copyright notice, fraudulent removal of notice, and false representation in connection with a copyright application. The maximum fine on conviction has been increased to $10,000 and, in conformity with the general pattern of the Criminal Code (18 U.S.C.), no minimum fines have been provided. In addition to or instead of a fine, conviction for criminal infringement under section 506(a) can carry with it a sentence of imprisonment of up to one year. Section506(b) deals with seizure, forfeiture, and destruction of material involved in cases of criminal infringement.
+Four types of criminal offenses actionable under the bill are listed in section 506: willful infringement for profit, fraudulent use of a copyright notice, fraudulent removal of notice, and false representation in connection with a copyright application. The maximum fine on conviction has been increased to $10,000 and, in conformity with the general pattern of the Criminal Code (18 U.S.C.), no minimum fines have been provided. In addition to or instead of a fine, conviction for criminal infringement under section 506(a) can carry with it a sentence of imprisonment of up to one year. Section 506(b) deals with seizure, forfeiture, and destruction of material involved in cases of criminal infringement.
 
 Section 506(a) contains a special provision applying to any person who infringes willfully and for purposes of commercial advantage the copyright in a sound recording or a motion picture. For the first such offense a person shall be fined not more than $25,000 or imprisoned for not more than one year, or both. For any subsequent offense a person shall be fined not more than $50,000 or imprisoned not more than two years, or both.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–9 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any person who infringes a copyright willfully either—
+
+&emsp;“(1) for purposes of commercial advantage or private financial gain, or
+
+&emsp;“(2) by the reproduction or distribution, including by electronic means, during any 180-day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000,
+
+> shall be punished as provided under section 2319 of title 18, United States Code. For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement.”
 
 1997—Subsec. (a). Pub. L. 105–147 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 

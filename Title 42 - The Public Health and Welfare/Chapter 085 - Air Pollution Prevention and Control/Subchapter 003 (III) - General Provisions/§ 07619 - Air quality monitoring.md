@@ -1,6 +1,8 @@
 ### §7619. Air quality monitoring
 
-Not later than one year after August 7, 1977, and after notice and opportunity for public hearing, the Administrator shall promulgate regulations establishing an air quality monitoring system throughout the United States which—
+#### (a) In general
+
+After notice and opportunity for public hearing, the Administrator shall promulgate regulations establishing an air quality monitoring system throughout the United States which—
 
 &emsp;(1) utilizes uniform air quality monitoring criteria and methodology and measures such air quality according to a uniform air quality index,
 
@@ -12,9 +14,93 @@ Not later than one year after August 7, 1977, and after notice and opportunity f
 
 > The operation of such air quality monitoring system may be carried out by the Administrator or by such other departments, agencies, or entities of the Federal Government (including the National Weather Service) as the President may deem appropriate. Any air quality monitoring system required under any applicable implementation plan under section 7410 of this title shall, as soon as practicable following promulgation of regulations under this section, utilize the standard criteria and methodology, and measure air quality according to the standard index, established under such regulations.
 
-(July 14, 1955, ch. 360, title III, §319, as added Pub. L. 95–95, title III, §309, Aug. 7, 1977, 91 Stat. 781.)
+#### (b) Air quality monitoring data influenced by exceptional events
+
+#### (1) Definition of exceptional event
+
+&emsp;In this section:
+
+#### (A) In general
+
+&emsp;&emsp;The term “exceptional event” means an event that—
+
+&emsp;&emsp;&emsp;(i) affects air quality;
+
+&emsp;&emsp;&emsp;(ii) is not reasonably controllable or preventable;
+
+&emsp;&emsp;&emsp;(iii) is an event caused by human activity that is unlikely to recur at a particular location or a natural event; and
+
+&emsp;&emsp;&emsp;(iv) is determined by the Administrator through the process established in the regulations promulgated under paragraph (2) to be an exceptional event.
+
+#### (B) Exclusions
+
+&emsp;&emsp;In this subsection, the term “exceptional event” does not include—
+
+&emsp;&emsp;&emsp;(i) stagnation of air masses or meteorological inversions;
+
+&emsp;&emsp;&emsp;(ii) a meteorological event involving high temperatures or lack of precipitation; or
+
+&emsp;&emsp;&emsp;(iii) air pollution relating to source noncompliance.
+
+#### (2) Regulations
+
+#### (A) Proposed regulations
+
+&emsp;&emsp;Not later than March 1, 2006, after consultation with Federal land managers and State air pollution control agencies, the Administrator shall publish in the Federal Register proposed regulations governing the review and handling of air quality monitoring data influenced by exceptional events.
+
+#### (B) Final regulations
+
+&emsp;&emsp;Not later than 1 year after the date on which the Administrator publishes proposed regulations under subparagraph (A), and after providing an opportunity for interested persons to make oral presentations of views, data, and arguments regarding the proposed regulations, the Administrator shall promulgate final regulations governing the review and handling or <sup>1</sup> air quality monitoring data influenced by an exceptional event that are consistent with paragraph (3).
+
+#### (3) Principles and requirements
+
+#### (A) Principles
+
+&emsp;&emsp;In promulgating regulations under this section, the Administrator shall follow—
+
+&emsp;&emsp;&emsp;(i) the principle that protection of public health is the highest priority;
+
+&emsp;&emsp;&emsp;(ii) the principle that timely information should be provided to the public in any case in which the air quality is unhealthy;
+
+&emsp;&emsp;&emsp;(iii) the principle that all ambient air quality data should be included in a timely manner,<sup>2</sup> an appropriate Federal air quality database that is accessible to the public;
+
+&emsp;&emsp;&emsp;(iv) the principle that each State must take necessary measures to safeguard public health regardless of the source of the air pollution; and
+
+&emsp;&emsp;&emsp;(v) the principle that air quality data should be carefully screened to ensure that events not likely to recur are represented accurately in all monitoring data and analyses.
+
+#### (B) Requirements
+
+&emsp;&emsp;Regulations promulgated under this section shall, at a minimum, provide that—
+
+&emsp;&emsp;&emsp;(i) the occurrence of an exceptional event must be demonstrated by reliable, accurate data that is promptly produced and provided by Federal, State, or local government agencies;
+
+&emsp;&emsp;&emsp;(ii) a clear causal relationship must exist between the measured exceedances of a national ambient air quality standard and the exceptional event to demonstrate that the exceptional event caused a specific air pollution concentration at a particular air quality monitoring location;
+
+&emsp;&emsp;&emsp;(iii) there is a public process for determining whether an event is exceptional; and
+
+&emsp;&emsp;&emsp;(iv) there are criteria and procedures for the Governor of a State to petition the Administrator to exclude air quality monitoring data that is directly due to exceptional events from use in determinations by the Administrator with respect to exceedances or violations of the national ambient air quality standards.
+
+#### (4) Interim provision
+
+&emsp;Until the effective date of a regulation promulgated under paragraph (2), the following guidance issued by the Administrator shall continue to apply:
+
+&emsp;&emsp;(A) Guidance on the identification and use of air quality data affected by exceptional events (July 1986).
+
+&emsp;&emsp;(B) Areas affected by PM–10 natural events, May 30, 1996.
+
+&emsp;&emsp;(C) Appendices I, K, and N to part 50 of title 40, Code of Federal Regulations.
+
+(July 14, 1955, ch. 360, title III, §319, as added Pub. L. 95–95, title III, §309, Aug. 7, 1977, 91 Stat. 781; amended Pub. L. 109–59, title VI, §6013(a), Aug. 10, 2005, 119 Stat. 1882.)
+
+#### Amendments
+
+2005—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, substituted “After notice and opportunity for public hearing” for “Not later than one year after August 7, 1977, and after notice and opportunity for public hearing”, and added subsec. (b).
 
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

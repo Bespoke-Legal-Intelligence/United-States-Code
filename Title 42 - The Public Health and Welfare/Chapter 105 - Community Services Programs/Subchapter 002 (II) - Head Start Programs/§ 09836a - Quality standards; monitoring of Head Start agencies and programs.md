@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall develop methods and procedures for measuring, annually and over longer periods, the quality and effectiveness of programs operated by Head Start agencies, and the impact of the services provided through the programs to children and their families (referred to in this subchapter as “results-based performance measures”).
+&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall develop methods and procedures for measuring, annually and over longer periods, the quality and effectiveness of programs operated by Head Start agencies, and the impact of the services provided through the programs to children and theirfamilies (referred to in this subchapter as “results-based performance measures”).
 
 #### (2) Characteristics of measures
 
@@ -98,7 +98,7 @@
 
 #### (5) Additional local results-based performance measures
 
-&emsp;In addition to other applicable results-based performance measures, Head Start agenciesmay establish local results-based educational performance measures.
+&emsp;In addition to other applicable results-based performance measures, Head Start agencies may establish local results-based educational performance measures.
 
 #### (c) Monitoring of local agencies and programs
 
@@ -230,7 +230,7 @@ Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) genera
 
 &emsp;“(ii) at the discretion of the Secretary (taking into consideration the seriousness of the deficiency and the time reasonably required to correct the deficiency), to comply with the requirements of paragraph (2) concerning a quality improvement plan; and”.
 
-Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted “required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted “required to correct a deficiency immediatelyor during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
 
 Subsec. (e). Pub. L. 105–285, §108(e), inserted at end “Such report shall be widely disseminated and available for public review in both written and electronic formats.”
 

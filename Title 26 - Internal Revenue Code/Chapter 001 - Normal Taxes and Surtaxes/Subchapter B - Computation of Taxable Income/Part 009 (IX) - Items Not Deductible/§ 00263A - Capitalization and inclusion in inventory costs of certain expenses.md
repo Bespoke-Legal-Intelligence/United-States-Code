@@ -56,7 +56,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (3) Certain development and other costs of oil and gas wells or other mineral property
 
-&emsp;This section shall not apply to any cost allowable as a deduction under section 263(c), 263(i), 291(b)(2), 616, or 617.
+&emsp;This section shall not apply to any cost allowable as a deduction under section 167(h), 179B, 263(c), 263(i), 291(b)(2), 616, or 617.
 
 #### (4) Coordination with long-term contract rules
 
@@ -236,7 +236,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (3) Interest relating to property used to produce property
 
-&emsp;This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
+&emsp;This subsection shall apply to any interest on indebtedness allocable (as determinedunder paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
 
 #### (4) Definitions
 
@@ -340,9 +340,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930.
+(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, titleI, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020).
 
 #### Amendments
+
+2005—Subsec. (c)(3). Pub. L. 109–58 inserted “167(h),” after “under section”.
+
+2004—Subsec. (c)(3). Pub. L. 108–357, which directed amendment of par. (3) by inserting “179B,” after “section”, was executed by making the insertion after “section” the second place it appeared to reflect the probable intent of Congress.
 
 1999—Subsec. (b)(2)(A). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
 
@@ -388,6 +392,14 @@ Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted “allocable (as de
 
 Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to amounts paid or incurred in taxable years beginning after Aug. 8, 2005, see section 1329(c) of Pub. L. 109–58, set out as a note under section 167 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
@@ -420,7 +432,7 @@ Revocation of election.—If a taxpayer engaged in a farming business involving 
 
 #### Effective Date
 
-Section 7831(d)(2) of Pub. L. 101–239 provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
+Section 7831(d)(2) of Pub. L. 101–239 provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax ReformAct of 1986 \[section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title\] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
 
 Section 803(d) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1008(b)(7), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–239, title VII, §7831(d)(1), Dec. 19, 1989, 103 Stat. 2426, provided that:
 
@@ -448,7 +460,7 @@ Change in method of accounting.—If the taxpayer is required by the amendments 
 
 “(3)
 
-Special rule for self-constructed property.—The amendments made by this section shall not applyto any property which is produced by the taxpayer for use by the taxpayer if substantial construction had occurred before March 1, 1986.
+Special rule for self-constructed property.—The amendments made by this section shall not apply to any property which is produced by the taxpayer for use by the taxpayer if substantial construction had occurred before March 1, 1986.
 
 “(4)
 
@@ -523,8 +535,4 @@ Change in method of accounting.—If the taxpayer is required by this section to
 &emsp;&emsp;&emsp;“(ii) such change shall be treated as made with the consent of the Secretary of the Treasury or his delegate, and
 
 &emsp;&emsp;&emsp;“(iii) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period not longer than 4 taxable years.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 168, 172, 264, 265, 312, 447, 448, 460, 471, 475, 943, 1301 of this title.
 

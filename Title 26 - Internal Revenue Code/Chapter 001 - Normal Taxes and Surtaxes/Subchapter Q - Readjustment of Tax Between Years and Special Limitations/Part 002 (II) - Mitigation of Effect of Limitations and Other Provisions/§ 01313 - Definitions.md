@@ -44,7 +44,3 @@ For purposes of this part, the term “related taxpayer” means a taxpayer who,
 
 1976—Subsec. (a)(3), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1311, 1312, 1314, 1377 of this title.
-

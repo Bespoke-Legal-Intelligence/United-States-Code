@@ -62,7 +62,7 @@ Exception.—The Administrator may lease space with respect to which paragraph (
 
 (g)
 
-Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined bythe composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Dollar Amount Adjustment.—The Administrator annually may adjust any dollar amount referred to in this section to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161.)
 

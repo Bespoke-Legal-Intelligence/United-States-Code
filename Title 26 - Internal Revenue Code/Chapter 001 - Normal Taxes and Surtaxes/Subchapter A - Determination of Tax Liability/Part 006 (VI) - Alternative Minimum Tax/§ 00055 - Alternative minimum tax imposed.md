@@ -66,7 +66,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;&emsp;(II) the unrecaptured section 1250 gain, plus
 
-&emsp;&emsp;(B) 5 percent (0 percent in the case of taxable years beginning after 2007) of so much of the adjusted net capital gain (or, if less, taxable excess) as does not exceed the amount on which a tax is determined under section 1(h)(1)(B), plus
+&emsp;&emsp;(B) 5 percent (0 percent in the case of taxable years beginning after 2007) of so much of the adjusted net capital gain (or, if less, taxable excess) as does not exceed an amount equal to the excess described in section 1(h)(1)(B), plus
 
 &emsp;&emsp;(C) 15 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (B), plus
 
@@ -78,11 +78,15 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 49(b) or 50(a) or subsection (j) or (k) of section 42.
+&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
-#### (2) Cross references
+#### (2) Coordination with income averaging for farmers and fishermen
 
-&emsp;&emsp;<b>For provisions providing that certain credits are not allowable against the tax imposed by this section, see sections 26(a), 29(b)(6), 30(b)(3), and 38(c).</b>
+&emsp;Solely for purposes of this section, section 1301 (relating to averaging of farm and fishing income) shall not apply in computing the regular tax liability.
+
+#### (3) Cross references
+
+&emsp;&emsp;<b>For provisions providing that certain credits are not allowable against the tax imposed by this section, see sections 26(a), 30(b)(3), 30B(g)(2), 30C(d)(2), and 38(c).</b>
 
 #### (d) Exemption amount
 
@@ -92,13 +96,13 @@ For purposes of this section—
 
 &emsp;In the case of a taxpayer other than a corporation, the term “exemption amount” means—
 
-&emsp;&emsp;(A) $45,000 ($58,000 in the case of taxable years beginning in 2003 and 2004) in the case of—
+&emsp;&emsp;(A) $45,000 ($58,000 in the case of taxable years beginning in 2003, 2004, and 2005) in the case of—
 
 &emsp;&emsp;&emsp;(i) a joint return, or
 
 &emsp;&emsp;&emsp;(ii) a surviving spouse,
 
-&emsp;&emsp;(B) $33,750 ($40,250 in the case of taxable years beginning in 2003 and 2004) in the case of an individual who—
+&emsp;&emsp;(B) $33,750 ($40,250 in the case of taxable years beginning in 2003, 2004, and 2005) in the case of an individual who—
 
 &emsp;&emsp;&emsp;(i) is not a married individual, and
 
@@ -182,9 +186,11 @@ For purposes of this section—
 
 &emsp;In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) <sup>1</sup> shall apply for purposes of the preceding sentence.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462;Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 105 of Pub. L. 108–311, see Effective and Termination Dates of 2004 Amendments note below.</i>
 
 <i>For termination of amendment by sections 107 and 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment notes below.</i>
 
@@ -192,13 +198,31 @@ For purposes of this section—
 
 #### References in Text
 
-Section 38(c)(3)(B), referred to in subsec. (e)(5), was redesignated section 38(c)(4)(B) by Pub. L. 107–147, title III, §301(b)(1), Mar. 9, 2002, 116 Stat. 39.
+Section 38(c)(3)(B), referred to in subsec. (e)(5), was redesignated section 38(c)(4)(B) and subsequently section 38(c)(5)(B) by Pub. L. 107–147, title III, §301(b)(1), Mar. 9, 2002, 116 Stat. 39, and Pub. L. 108–357, title VII, §711(a), Oct. 22, 2004, 118 Stat. 1557, respectively.
 
 #### Prior Provisions
 
 A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+2005—Subsec. (c)(1). Pub. L. 109–58, §1302(b), which directed amendment of par. (1) by inserting “45(e)(11)(C),” after “section” in last sentence, was executed by making the insertion after “section” the first place it appeared in last sentence, to reflect the probable intent of Congress.
+
+Subsec. (c)(2). Pub. L. 109–135, §403(h), substituted “regular tax liability” for “regular tax”.
+
+Pub. L. 109–58, §1342(b)(3), which directed amendment of par. (2) by inserting “30C(d)(2),” after “30B(g)(2),”, was repealed by Pub. L. 109–135, §412(p)(3).
+
+Pub. L. 109–58, §1341(b)(3), which directed amendment of par. (2) by inserting “30B(g)(2),” after “30(b)(2),”, was repealed by Pub. L. 109–135, §412(p)(2).
+
+Subsec. (c)(3). Pub. L. 109–135, §412(p)(1), inserted “30B(g)(2), 30C(d)(2),” after “30(b)(3),”.
+
+Pub. L. 109–58, §1322(a)(3)(H), struck out “29(b)(6),” after “26(a),”.
+
+2004—Subsec. (b)(3)(B). Pub. L. 108–311, §406(d), substituted “an amount equal to the excess described in” for “the amount on which a tax is determined under”.
+
+Subsec. (c)(2), (3). Pub. L. 108–357 added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (d)(1)(A), (B). Pub. L. 108–311, §§103(a), 105, temporarily substituted “2003, 2004, and 2005” for “2003 and 2004”. See Effective and Termination Dates of 2004 Amendments note below.
 
 2003—Subsec. (b)(3). Pub. L. 108–27, §§301(b)(2), 303, temporarily struck out first sentence of concluding provisions which read as follows: “In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (B) and (C).” See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -302,11 +326,33 @@ Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end “In the case 
 
 1986—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted “or section 42(j)”.
 
+#### Effective Date of 2005 Amendments
+
+Amendment by section 403(h) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+Amendment by section 1302(b) of Pub. L. 109–58 applicable to taxable years of cooperative organizations ending after Aug. 8, 2005, see section 1302(c) of Pub. L. 109–58, set out as a note under section 45 of this title.
+
+Amendment by section 1322(a)(3)(H) of Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+
+Amendment by section 1342(b)(3) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1342(c) of Pub. L. 109–58, set out as an Effective Date note under section 30C of this title.
+
+Amendment by section 1341(b)(3) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
+
+#### Effective and Termination Dates of 2004 Amendments
+
+Pub. L. 108–357, title III, §314(c), Oct. 22, 2004, 118 Stat. 1469, provided that: “The amendments made by this section \[amending this section and section 1301 of this title\] shall apply to taxable years beginning after December 31, 2003.”
+
+Pub. L. 108–311, title I, §103(b), Oct. 4, 2004, 118 Stat. 1168, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+
+Amendment by section 103(a) of Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provision of such Act to which such amendment relates, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title.
+
+Pub. L. 108–311, title IV, §406(h), Oct. 4, 2004, 118 Stat. 1190, provided that: “The amendments made by this section \[amending this section and sections 246, 529, 530, 901, 1259, and 1397E of this title\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate.”
+
 #### Effective and Termination Dates of 2003 Amendment
 
 Pub. L. 108–27, title I, §106(b), May 28, 2003, 117 Stat. 755, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
 
-Amendment by section 106(a) of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provision of such Act to which such amendment relates, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title.
+Amendment by section 106(a) of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provision of suchAct to which such amendment relates, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title.
 
 Amendment by section 301(a)(1), (2)(B), (b)(2) of Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as a note under section 1 of this title.
 
@@ -332,7 +378,7 @@ Amendment by section 1601(f)(1)(C) of Pub. L. 105–34 effective as if included 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(d)(6) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+Amendment by section 1205(d)(6) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 Amendment by section 1401(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
@@ -352,7 +398,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Section 11102(b) of Pub. L. 101–508 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
 
-Amendment by section 11813(b)(5) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(5) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -390,7 +436,7 @@ Installment sales.—Section 56(a)(6) of the Internal Revenue Code of 1986 (as a
 
 “(4)
 
-Exception for charitable contributions before august 16, 1986.—Section 57(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any deduction attributable to contributions made before August 16, 1986.
+Exception for charitable contributions before august 16, 1986.—Section 57(a)(6) of the InternalRevenue Code of 1986 (as amended by this section) shall not apply to any deduction attributable to contributions made before August 16, 1986.
 
 “(5)
 
@@ -434,7 +480,7 @@ Agreement vessel depreciation adjustment.—
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(5) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813(b)(5) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Transitional Provisions
 
@@ -457,10 +503,6 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting 
 Section 2123 of Pub. L. 94–455, as amended by Pub. L. 98–369, div. A, title IV, §441(b)(1), July 18, 1984, 98 Stat. 815, provided that: “The Secretary of the Treasury shall publish annually information on the amount of tax paid by individual taxpayers with high total incomes. Total income for this purpose is to be calculated and set forth by adding to adjusted gross income any items of tax preference excluded from, or deducted in arriving at, adjusted gross income, and by subtracting any investment expenses incurred in the production of such income to the extent of the investment income. These data are to include the number of such individuals with total income over $200,000 who owe no Federal income tax (after credits) and the deductions, exclusions, or credits used by them to avoid tax.”
 
 \[Section 441(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending section 2123 of Pub. L. 94–455, set out above\] shall apply to information published after the date of the enactment of this Act \[July 18, 1984\].”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 5, 11, 12, 23, 24, 25B, 26, 38, 45A, 45D, 45F, 53, 59, 59A, 168, 443, 641, 666, 815, 847, 860E, 860J, 871, 877, 882, 897, 962, 1260, 1397E, 1400I, 1561, 6015, 6425, 6428, 6655, 6662 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@
 
 &emsp;(i) $40,000, in the case of any graduate or professional student (as defined by regulations issued by the Secretary, and including any loans from such funds made to such person before such person became a graduate or professional student);
 
-&emsp;(ii) $20,000, in the case of a student who has successfully completed 2 years of a program of education leading to a bachelor's degree but who has not completed the work necessary for such a degree (determined under regulations issued by the Secretary), and including any loans from such funds made to such person before such person became such a student; and
+&emsp;(ii) $20,000, in the case of a student who has successfully completed 2 years of a program ofeducation leading to a bachelor's degree but who has not completed the work necessary for such a degree (determined under regulations issued by the Secretary), and including any loans from such funds made to such person before such person became such a student; and
 
 &emsp;(iii) $8,000, in the case of any other student.
 
@@ -106,7 +106,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (f) Special repayment rule authority
 
-(1) Subject to such restrictions as the Secretary may prescribe to protect the interest of the United States, in order to encourage repayment of loans made under this part which are in default, the Secretary may, in the agreement entered into under this part, authorize an institution of higher education to compromise on the repayment of such defaulted loans in accordance with paragraph (2). The Federal share of the compromise repayment shall bear the same relation to the institution's share of such compromise repayment as the Federal capital contribution to the institution's loan fund under this part bears to the institution's capital contribution to such fund.
+(1) Subject to such restrictions as the Secretary may prescribe to protect the interest of the United States, in order to encourage repayment of loans made under this part which are in default, the Secretary may, in the agreement entered into under this part, authorize an institution of higher education to compromise on therepayment of such defaulted loans in accordance with paragraph (2). The Federal share of the compromise repayment shall bear the same relation to the institution's share of such compromise repayment as the Federal capital contribution to the institution's loan fund under this part bears to the institution's capital contribution to such fund.
 
 (2) No compromise repayment of a defaulted loan as authorized by paragraph (1) may be made unless the student borrower pays—
 
@@ -172,9 +172,9 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;&emsp;(A) offer a reduction of the interest rate on a loan on which the borrower has made 48 consecutive, monthly repayments, but in no event may the rate be reduced by more than 1 percent;
 
-&emsp;&emsp;(B) provide for a discount on the balance owed on a loan on which the borrower paysthe principal and interest in full prior to the end of the applicable repayment period, but in no event may the discount exceed 5 percent of the unpaid principal balance due on the loan at the time the early repayment is made; and
+&emsp;&emsp;(B) provide for a discount on the balance owed on a loan on which the borrower pays the principal and interest in full prior to the end of the applicable repayment period, but in no event may the discount exceed 5 percent of the unpaid principal balance due on the loan at the time the early repayment is made; and
 
-&emsp;&emsp;(C) include such other incentive repayment options as the institution determines will carry out the objectives of this subsection.
+&emsp;&emsp;(C) include such other incentive repayment options as the institution determineswill carry out the objectives of this subsection.
 
 #### (2) Limitation
 

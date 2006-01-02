@@ -16,7 +16,7 @@
 
 &emsp;(1) prescribe, by authority of the Secretary of Defense, policies and procedures for the conduct of operational test and evaluation in the Department of Defense;
 
-&emsp;(2) provide guidance to and consult with the Secretary of Defense and the Under Secretaryof Defense for Acquisition, Technology, and Logistics and the Secretaries of the military departments with respect to operational test and evaluation in the Department of Defense in general and with respect to specific operational test and evaluation to be conducted in connection with a major defense acquisition program;
+&emsp;(2) provide guidance to and consult with the Secretary of Defense and the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Secretaries of the military departments with respect to operational test and evaluation in the Department of Defense in general and with respect to specific operational test and evaluation to be conducted in connection with a major defense acquisition program;
 
 &emsp;(3) monitor and review all operational test and evaluation in the Department of Defense;
 
@@ -44,7 +44,7 @@
 
 (3) If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
 
-(4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
+(4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels offunding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
 
 (5) The Secretary may comment on any report of the Director to Congress under this subsection.
 
@@ -108,7 +108,7 @@ Subsec. (a)(2)(B). Pub. L. 101–189, §1622(e)(1)(B), which directed amendment 
 
 Subsec. (b)(4). Pub. L. 101–189, §802(b)(1)(A), inserted “and” after “defense agency;”.
 
-Subsec. (b)(5), (6). Pub. L. 101–189, §802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “analyze the results of the operational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
+Subsec. (b)(5), (6). Pub. L. 101–189, §802(b)(1)(B), (C), redesignated par. (6) as (5) and struck out former par.\(5) which read as follows: “analyze the results of the operational test and evaluation conducted for each major defense acquisition program and, at the conclusion of such operational test and evaluation, report to the Secretary of Defense, to the Under Secretary of Defense for Acquisition, and to the Committees on Armed Services and on Appropriations of the Senate and House of Representatives as provided in subsection (c) on—
 
 &emsp;“(A) whether the test and evaluation performed was adequate; and
 
@@ -151,12 +151,4 @@ Subsec. (i). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§903(c)(7)\], an
 #### Effective Date
 
 Section 1211(c) of Pub. L. 98–94 provided that: “The amendments made by this section \[enacting this section and amending section 5315 of Title 5, Government Organization and Employees\] shall take effect on November 1, 1983.”
-
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 196, 2399 of this title.
 

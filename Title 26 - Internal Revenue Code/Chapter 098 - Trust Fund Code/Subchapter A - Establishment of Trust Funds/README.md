@@ -5,7 +5,7 @@
 | [9501\.](%C2%A7%2009501%20-%20Black%20Lung%20Disability%20Trust%20Fund.md) | Black Lung Disability Trust Fund. |
 | [9502\.](%C2%A7%2009502%20-%20Airport%20and%20Airway%20Trust%20Fund.md) | Airport and Airway Trust Fund. |
 | [9503\.](%C2%A7%2009503%20-%20Highway%20Trust%20Fund.md) | Highway Trust Fund. |
-| [9504\.](%C2%A7%2009504%20-%20Aquatic%20Resources%20Trust%20Fund.md) | Aquatic Resources Trust Fund. |
+| [9504\.](%C2%A7%2009504%20-%20Sport%20Fish%20Restoration%20and%20Boating%20Trust%20Fund.md) | Sport Fish Restoration and Boating Trust Fund. |
 | [9505\.](%C2%A7%2009505%20-%20Harbor%20Maintenance%20Trust%20Fund.md) | Harbor Maintenance Trust Fund. |
 | [9506\.](%C2%A7%2009506%20-%20Inland%20Waterways%20Trust%20Fund.md) | Inland Waterways Trust Fund. |
 | [9507\.](%C2%A7%2009507%20-%20Hazardous%20Substance%20Superfund.md) | Hazardous Substance Superfund. |
@@ -21,6 +21,8 @@
 The amendment by section 8033(b) of Pub. L. 99–509, which provided for adding item 9507 to the table of sections for subchapter A, did not take effect pursuant to section 8033(c)(2)(C) of Pub. L. 99–509 and the enactment of the Superfund Amendments and Reauthorization Act of 1986 (Pub. L. 99–499).
 
 #### Amendments
+
+2005—Pub. L. 109–59, title XI, §11115(b)(2)(E), Aug. 10, 2005, 119 Stat. 1950, substituted “Sport Fish Restoration and Boating” for “Aquatic Resources” in item 9504.
 
 1998—Pub. L. 105–178, title IX, §9011(b)(3), June 9, 1998, 112 Stat. 508, struck out item 9511 “National Recreational Trails Trust Fund”.
 
@@ -40,10 +42,6 @@ Pub. L. 99–499, title V, §§517(d), 522(b), Oct. 17, 1986, 100 Stat. 1774, 17
 
 1982—Pub. L. 97–248, title II, §281(c)(1), Sept. 3, 1982, 96 Stat. 566, struck out “Establishment of” before “Black Lung” in item 9501 and added item 9502.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 9601, 9602 of this title; title 19 section 3539; title 21 section 886; title 42 sections 9604, 9606, 9607, 9611, 9619.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 
@@ -54,7 +52,7 @@ This subchapter is referred to in sections 9601, 9602 of this title; title 19 se
 - [&sect; 09501 - Black Lung Disability Trust Fund](%C2%A7%2009501%20-%20Black%20Lung%20Disability%20Trust%20Fund.md)
 - [&sect; 09502 - Airport and Airway Trust Fund](%C2%A7%2009502%20-%20Airport%20and%20Airway%20Trust%20Fund.md)
 - [&sect; 09503 - Highway Trust Fund](%C2%A7%2009503%20-%20Highway%20Trust%20Fund.md)
-- [&sect; 09504 - Aquatic Resources Trust Fund](%C2%A7%2009504%20-%20Aquatic%20Resources%20Trust%20Fund.md)
+- [&sect; 09504 - Sport Fish Restoration and Boating Trust Fund](%C2%A7%2009504%20-%20Sport%20Fish%20Restoration%20and%20Boating%20Trust%20Fund.md)
 - [&sect; 09505 - Harbor Maintenance Trust Fund](%C2%A7%2009505%20-%20Harbor%20Maintenance%20Trust%20Fund.md)
 - [&sect; 09506 - Inland Waterways Trust Fund](%C2%A7%2009506%20-%20Inland%20Waterways%20Trust%20Fund.md)
 - [&sect; 09507 - Hazardous Substance Superfund](%C2%A7%2009507%20-%20Hazardous%20Substance%20Superfund.md)

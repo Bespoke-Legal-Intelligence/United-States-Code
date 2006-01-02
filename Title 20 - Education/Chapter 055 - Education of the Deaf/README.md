@@ -21,7 +21,7 @@
 | [4305\.](Subchapter%20001%20%28I%29%20-%20Gallaudet%20University%3B%20National%20Technical%20Institute%20for%20the%20Deaf/Part%20A%20-%20Gallaudet%20University/%C2%A7%2004305%20-%20Agreement%20with%20Gallaudet%20University.md) | Agreement with Gallaudet University. |
 | (a) | General authority. |
 | (b) | Provisions of agreement. |
-| 4311,4321, 4322. Repealed. |  |
+| 4311, 4321, 4322. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

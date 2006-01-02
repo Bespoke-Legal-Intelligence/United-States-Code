@@ -84,7 +84,7 @@
 
 #### (1) Purchase by the Corporation
 
-&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 daysafter September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary of the Treasury and the Corporation shall name an independent third party to select the appraiser.
+&emsp;The Secretary of the Treasury shall sell and the Corporation shall purchase, within 90 days after September 30, 1996, the stock of the Corporation held by the Secretary of Education at a price determined by the binding, independent appraisal of a nationally recognized financial firm, except that the 90-day period may be extended by mutual agreement of the Secretary of the Treasury and the Corporation to not more than 150 days after September 30, 1996. The appraiser shall be jointly selected by the Secretary of the Treasury and the Corporation. In the event that the Secretary of the Treasury and the Corporation cannot agree on the appraiser, then the Secretary of the Treasury and the Corporation shall name an independent third party to select the appraiser.
 
 #### (2) Reimbursement of costs and expenses of sale
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) obtaining financing to acquire interests in real property (including by purchase, lease, or donation), including financing to cover planning, development, and other incidental costs;
 
-&emsp;&emsp;&emsp;&emsp;(II) obtaining financing for construction of facilities or the renovation, repair, or alteration of existing property or facilities (including the purchase or replacement of fixtures and equipment), including financing to cover planning, development, and other incidental costs;
+&emsp;&emsp;&emsp;&emsp;(II) obtaining financing for construction of facilities or the renovation, repair, or alteration of existing property orfacilities (including the purchase or replacement of fixtures and equipment), including financing to cover planning, development, and other incidental costs;
 
 &emsp;&emsp;&emsp;&emsp;(III) enhancing the availability of loans (including mortgages) and bonds; and
 
@@ -222,7 +222,7 @@ Subsec. (e)(3)(F). Pub. L. 108–7, §143(c)(2), added subpar. (F).
 
 Subsec. (e)(3). Pub. L. 107–96, pars. (1), (3), amended Pub. L. 106–522, §161(2). See 2000 Amendment note below.
 
-Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in heading of par. (3) and in par.\(3)(A), was executed by revising the amendment by Pub. L. 106–522, §161(2), which had added subsec. (e)(3) to this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
+Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting “revolving” after “enhancement” in heading of par. (3) and in par. (3)(A), was executed by revising the amendment by Pub. L. 106–522, §161(2), which had added subsec. (e)(3) to this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of the cap on administrative costs as amended by Pub. L. 106–522, §161, by substituting “5 percent” for “10 percent”, could not be executed because the words “10 percent” did not appear in this section after the amendment of Pub. L. 106–522, §161(2), by Pub. L. 107–96, par. (3). See 2000 Amendment note below.
 

@@ -6,13 +6,13 @@ Transporting in Air Commerce.—Material that emits ionizing radiation spontaneo
 
 (b)
 
-Procedures.—The Secretary of Transportation shall prescribe procedures for monitoring and enforcing regulations prescribed under this section.
+Procedures.—The Secretary shall prescribe procedures for monitoring and enforcing regulations prescribed under this section.
 
 (c)
 
 Nonapplication.—This section does not apply to material the Secretary decides does not pose a significant hazard to health or safety when transported because of its low order of radioactivity.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 772; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119 Stat. 1909.)
 
 Historical and Revision Notes
 
@@ -41,4 +41,8 @@ Jan. 3, 1975, Pub. L. 93–633, §108, 88 Stat. 2159; Nov. 16, 1990, Pub. L. 101
 In subsection (a), the text of 49 App.:1807(a) (1st sentence) is omitted as executed. The words “or combination of materials” are omitted as surplus.
 
 In subsection (b), the words “further” and “effective” are omitted as surplus.
+
+#### Amendments
+
+2005—Subsec. (b). Pub. L. 109–59 substituted “Secretary” for “Secretary of Transportation”.
 

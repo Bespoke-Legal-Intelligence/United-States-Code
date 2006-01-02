@@ -78,7 +78,7 @@ Duties of the CASMIRC.—The CASMIRC shall perform such duties as the Attorney G
 
 &emsp;“(4) providing, if requested by a Federal, State, or local law enforcement agency, on site consultation and advice in child abduction, mysterious disappearances of children, child homicide and serial murder investigations;
 
-&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal,State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
+&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
 
 &emsp;“(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction, mysterious disappearance of a child, child homicide, and serial murder covered in this section;
 
@@ -118,7 +118,7 @@ Report to Congress.—One year after the establishment of the CASMIRC, the Attor
 
 “(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999, 2000, and 2001.”
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this sectionsuch sums as may be necessary for each of fiscal years 1999, 2000, and 2001.”
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

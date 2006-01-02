@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may carry out an educational flexibility program under which the Secretary authorizes a State educational agency that serves an eligible State to waive statutory or regulatory requirements applicable to one or more programs described in subsection (b) of this section, other than requirements described in subsection (c) ofthis section, for any local educational agency or school within the State.
+&emsp;&emsp;The Secretary may carry out an educational flexibility program under which the Secretary authorizes a State educational agency that serves an eligible State to waive statutory or regulatory requirements applicable to one or more programs described in subsection (b) of this section, other than requirements described in subsection (c) of this section, for any local educational agency or school within the State.
 
 #### (B) Designation
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) holds local educational agencies and schools accountable for meeting the educational goals described in the local applications submitted under paragraph (4) and for engaging in technical assistance and corrective actions consistent with section 1116 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6316\], for the local educational agencies and schools that do not make adequate yearly progress as described in section 1111(b)(2) of such Act \[20 U.S.C. 6311(b)(2)\]; and
 
-&emsp;&emsp;(C) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schools within the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
+&emsp;&emsp;(C) waives State statutory or regulatory requirements relating to education while holding local educational agencies or schoolswithin the State that are affected by such waivers accountable for the performance of the students who are affected by such waivers.
 
 #### (3) State application
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Additional State Educational Agencies Authorized To Waive Federal Requirements
 
-Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
+Pub. L. 104–134, title I, §101(d) \[title III\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–229; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding section 311(e) of Public Law 103–227 \[20 U.S.C. 5891(e)\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

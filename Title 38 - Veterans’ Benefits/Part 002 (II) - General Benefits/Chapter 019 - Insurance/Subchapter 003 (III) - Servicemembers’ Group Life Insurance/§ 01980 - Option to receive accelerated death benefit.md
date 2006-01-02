@@ -6,7 +6,7 @@
 
 (2) The Secretary shall prescribe the maximum amount of the accelerated death benefit available under this section that the Secretary finds to be administratively practicable and actuarially sound, but in no event may the amount of the benefit exceed the amount equal to 50 percent of the face value of the person's insurance in force on the date the election of the person to receive the benefit is approved.
 
-(3) A person making an election under this section may elect to receive an amount that is less than the maximum amount prescribed under paragraph (2). The Secretary shall prescribe the increments in which a reduced amount under this paragraph may be elected.
+(3) A person making an election under this section may elect to receive an amount that isless than the maximum amount prescribed under paragraph (2). The Secretary shall prescribe the increments in which a reduced amount under this paragraph may be elected.
 
 (c) The portion of the face value of insurance which is not paid in a lump sum as an accelerated death benefit under this section shall remain payable in accordance with the provisions of this chapter.
 
@@ -24,7 +24,7 @@
 
 (g) If a person insured under Servicemembers’ Group Life Insurance elects to receive a benefit under this section and the person's Servicemembers’ Group Life Insurance is thereafter converted to Veterans’ Group Life Insurance as provided in section 1968(b) of this title, the amount of the benefit paid under this section shall reduce the amount of Veterans’ Group Life Insurance available to the person under section 1977(a) of this title.
 
-(h) Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposesof determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
+(h) Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposes of determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
 
 (Added Pub. L. 105–368, title III, §302(a)(1), Nov. 11, 1998, 112 Stat. 3332.)
 

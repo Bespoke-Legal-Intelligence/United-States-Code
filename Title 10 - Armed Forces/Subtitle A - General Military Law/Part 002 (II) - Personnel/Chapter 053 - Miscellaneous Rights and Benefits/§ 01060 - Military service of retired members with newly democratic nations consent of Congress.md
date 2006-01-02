@@ -62,7 +62,3 @@ Section 1433(a) of Pub. L. 103–160 provided that: “The Congress makes the fo
 
 &emsp;“(4) The service of retired members of the Armed Forces of the United States in the armed forces of newly democratic nations could lead to a better understanding of military roles and missions in a democracy.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 908.
-

@@ -14,13 +14,29 @@
 
 (D)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
-(ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
+(ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any timeand approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
 
 (E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title. Such rules shall provide that the labeling of any water closet or urinal manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.19.2M–1990, except that each fixture (and flushometer valve associated with such fixture) shall bear a permanent legible marking indicating the water use, expressed in gallons per flush (gpf), and the water use value shall be the actual water use or the maximum water use specified by the standards established in subsection (k) of section 6295 of this title.
 
 (ii) If the marking and labeling requirements of ASME A112.19.2M–1990 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each fixture and flushometer valve to bear a permanent legible marking indicating the water use of such fixture or flushometer valve.
 
-(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-typewhite 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only”.
+(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-type white 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only”.
+
+(F)(i) Not later than 90 days after August 8, 2005, the Commission shall initiate a rulemaking to consider—
+
+&emsp;(I) the effectiveness of the consumer products labeling program in assisting consumers in making purchasing decisions and improving energy efficiency; and
+
+&emsp;(II) changes to the labeling rules (including categorical labeling) that would improve the effectiveness of consumer product labels.
+
+(ii) Not later than 2 years after August 8, 2005, the Commission shall complete the rulemaking initiated under clause (i).
+
+(G)(i) Not later than 18 months after August 8, 2005, the Commission shall issue by rule, in accordance with this section, labeling requirements for the electricity used by ceiling fans to circulate air in a room.
+
+(ii) The rule issued under clause (i) shall apply to products manufactured after the later of—
+
+&emsp;(I) January 1, 2009; or
+
+&emsp;(II) the date that is 60 days after the final rule is issued.
 
 (3) The Commission may prescribe a labeling rule under this section applicable to covered products of a type specified in paragraph (19) of section 6292(a) of this title (or a class thereof) if—
 
@@ -31,6 +47,12 @@
 &emsp;(C) the Commission determines with respect to such type (or class thereof) that application of labeling rules under this section to such type (or class thereof) is economically and technologically feasible.
 
 (4) Any determination under this subsection shall be published in the Federal Register.
+
+(5)(A) For covered products described in subsections (u) through (ff) of section 6295 of this title, after a test procedure has been prescribed under section 6293 of this title, the Secretary or the Commission, as appropriate, may prescribe, by rule, under this section labeling requirements for the products.
+
+(B) In the case of products to which TP–1 standards under section 6295(y) of this title apply, labeling requirements shall be based on the “Standard for the Labeling of Distribution Transformer Efficiency” prescribed by the National Electrical Manufacturers Association (NEMA TP–3) as in effect on August 8, 2005.
+
+(C) In the case of dehumidifiers covered under section 6295(dd) of this title, the Commission shall not require an “Energy Guide” label.
 
 #### (b) Rules in effect; new rules
 
@@ -88,7 +110,7 @@
 
 (7) Paragraphs (1), (2), (3), (5), and (6) of this subsection shall not apply to the covered product specified in paragraphs (13), (14), (15), (16), (17), and (18) of section 6292(a) of this title.
 
-(8) If a manufacturer of a covered product specified in paragraph (15) or (17) of section 6292(a) of this title elects to provide a label for such covered product conveying the estimated annual operating cost of such product or the range of estimated annual operating costs for the type or class of such product—
+(8) If a manufacturer of a covered product specified in paragraph (15) or (17) of section 6292(a) of this title elects to provide a label for such covered product conveying the estimatedannual operating cost of such product or the range of estimated annual operating costs for the type or class of such product—
 
 &emsp;(A) such estimated cost or range of costs shall be determined in accordance with test procedures prescribed under section 6293 of this title;
 
@@ -112,7 +134,7 @@ The Secretary and the Commission shall consult with each other on a continuing b
 
 Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
 
-(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §137, Aug. 8, 2005, 119 Stat. 645.)
 
 #### References in Text
 
@@ -121,6 +143,10 @@ This chapter, referred to in subsecs. (a)(2)(D)(ii), (E)(ii) and (c)(8)(C), was 
 The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 #### Amendments
+
+2005—Subsec. (a)(2)(F), (G). Pub. L. 109–58, §137(a), added subpars. (F) and (G).
+
+Subsec. (a)(5). Pub. L. 109–58, §137(b), added par. (5).
 
 1998—Subsec. (a)(2)(C)(ii). Pub. L. 105–388 substituted “section 6295(i)” for “section 6295(j)”.
 

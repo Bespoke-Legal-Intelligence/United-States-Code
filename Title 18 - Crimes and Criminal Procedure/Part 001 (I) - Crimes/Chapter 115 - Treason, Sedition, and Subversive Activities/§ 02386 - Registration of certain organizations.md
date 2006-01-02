@@ -34,7 +34,7 @@ Every organization which engages both in civilian military activity and in polit
 
 Every organization subject to foreign control which engages in civilian military activity; and
 
-Every organization, the purpose or aim of which, or one of the purposes or aims of which, is the establishment, control, conduct, seizure, or overthrow of a government or subdivision thereof by the use of force, violence, military measures, or threats of any one or more of the foregoing.
+Every organization, the purpose or aim of which, or one of the purposes or aims of which,is the establishment, control, conduct, seizure, or overthrow of a government or subdivision thereof by the use of force, violence, military measures, or threats of any one or more of the foregoing.
 
 Every such organization shall register by filing with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a registration statement containing the information and documents prescribed in subsection (B)(3) and shall within thirty days after the expiration of each period of six months succeeding the filing of such registration statement, file with the Attorney General, on such forms and in such detail as the Attorney General may by rules and regulations prescribe, a supplemental statement containing such information and documents as may be necessary to make the information and documents previously filed under this section accurate and current with respect to such preceding six months’ period. Every statement required to be filed by this section shall be subscribed, under oath, by all of the officers of the organization.
 

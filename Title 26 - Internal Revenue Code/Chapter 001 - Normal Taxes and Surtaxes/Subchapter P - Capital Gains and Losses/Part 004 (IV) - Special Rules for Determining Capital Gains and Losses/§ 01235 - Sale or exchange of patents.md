@@ -76,7 +76,3 @@ Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that 
 
 Section 54(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to transfers after such date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 483, 871, 1274, 1441 of this title.
-

@@ -104,7 +104,7 @@ Contract Quality Requirements.—The regulations prescribed under subsection (a)
 
 “(f)
 
-Defense Contract Clauses.—(1) Section 824(b) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; \[former\] 10 U.S.C. 2325 note) shall cease to be effective on the date on which the regulations implementing this section become effective \[Oct. 1, 1995, see 60 F.R. 48231, Sept. 18, 1995\].
+Defense Contract Clauses.—(1) Section 824(b) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; \[former\] 10U.S.C. 2325 note) shall cease to be effective on the date on which the regulations implementing this section become effective \[Oct. 1, 1995, see 60 F.R. 48231, Sept. 18, 1995\].
 
 “(2) Notwithstanding subsection (b), a contract of the Department of Defense entered into before the date on which section 824(b) ceases to be effective under paragraph (1), and a subcontract entered into before such date under such a contract, may include clauses developed pursuant to paragraphs (2) and (3) of section 824(b) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; \[former\] 10 U.S.C. 2325 note).”
 

@@ -52,5 +52,5 @@ Regulations.—To the extent that it is necessary to prescribe any regulation in
 
 “(c)
 
-Recommendations for Legislation.—If the Board and the Secretary find that legislative actionmay be necessary or appropriate in order to simplify and unify the disclosure requirements under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] and the Truth in Lending Act \[15 U.S.C. 1601 et seq.\], the Board and the Secretary shall submit a report containing recommendations to the Congress concerning such action.”
+Recommendations for Legislation.—If the Board and the Secretary find that legislative action may be necessary or appropriate in order to simplify and unify the disclosure requirements under the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2601 et seq.\] and the Truth in Lending Act \[15 U.S.C. 1601 et seq.\], the Board and the Secretary shall submit a report containing recommendations to the Congress concerning such action.”
 

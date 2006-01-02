@@ -1,6 +1,6 @@
 ### §9777. Permits: military reservations; landing ferries, erecting bridges, driving livestock
 
-Whenever the Secretary of the Air Force considers that it can be done without injury to the reservation or inconvenience to the military forces stationed there, he may permit—
+Whenever the Secretary of the Air Force considers that it can be done without injury to thereservation or inconvenience to the military forces stationed there, he may permit—
 
 &emsp;(1) the landing of ferries at a military reservation;
 

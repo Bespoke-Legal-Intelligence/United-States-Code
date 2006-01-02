@@ -10,7 +10,7 @@ Request by Either House of Congress or Any Committee.—Within a reasonable time
 
 (b)
 
-Request of Committee on Public Works and Environment or Committee on Transportation and Infrastructure.—The Administrator and the United States Postal Service shall make building project surveys requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of theHouse of Representatives, and within a reasonable time shall make a report on the survey to Congress. The report shall contain all other information required to be included in a prospectus of the proposed public building project under section 3307(b) of this title.
+Request of Committee on Public Works and Environment or Committee on Transportation and Infrastructure.—The Administrator and the United States Postal Service shall make building project surveys requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives, and within a reasonable time shall make a report on the survey to Congress. The report shall contain all other information required to be included in a prospectus of the proposed public building project under section 3307(b) of this title.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166.)
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) shall expedite the review by advisory councils under section 284a of this title and by peer review groups under section 289a of this title of applications for grants for research on such disease or disorder or proposals for contracts for such research;
 
-&emsp;(2) shall exercise the authority in section 5 of title 41 respecting public exigencies to waive the advertising requirements of such section in the case of proposals for contracts for such research;
+&emsp;(2) shall exercise the authority in section 5 of title 41 respecting public exigencies towaive the advertising requirements of such section in the case of proposals for contracts for such research;
 
 &emsp;(3) may provide administrative supplemental increases in existing grants and contracts to support new research relevant to such disease or disorder; and
 

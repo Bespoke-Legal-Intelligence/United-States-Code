@@ -40,7 +40,7 @@
 
 (1) It is the intent of the Congress that—
 
-&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administrationshall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as “prelitigation cases”, unless such an action is found not to be warranted;
+&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administration shall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as “prelitigation cases”, unless such an action is found not to be warranted;
 
 &emsp;(B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) of this section to apply to any such case;
 
@@ -52,7 +52,7 @@
 
 #### (d) End of investigations and audits
 
-Notwithstanding any other provision of law, the Secretary shall not initiate, after January 1, 1987, any audit or investigation of alleged civil violations of the Acts or regulations described in subsection (a)(1) of this section for the purpose of commencement of any civil enforcement action. Nothing in this subsection shall affect or apply to any audit or investigation conducted with respect to any civil enforcement action commenced (within the limitation established by subsection (a)(1) of this section) before, on, or after October 21, 1986. Nothing in this subsection shall limit the authority of the Secretary to continue any audit or investigation initiated before January 1, 1987.
+Notwithstanding any other provision of law, the Secretary shall not initiate, after January 1, 1987, any audit or investigation of alleged civil violations of the Acts or regulations described in subsection (a)(1) of this section for the purpose of commencement of any civil enforcement action. Nothing in this subsection shall affect or apply to any audit or investigation conductedwith respect to any civil enforcement action commenced (within the limitation established by subsection (a)(1) of this section) before, on, or after October 21, 1986. Nothing in this subsection shall limit the authority of the Secretary to continue any audit or investigation initiated before January 1, 1987.
 
 #### (e) Limitation on review
 

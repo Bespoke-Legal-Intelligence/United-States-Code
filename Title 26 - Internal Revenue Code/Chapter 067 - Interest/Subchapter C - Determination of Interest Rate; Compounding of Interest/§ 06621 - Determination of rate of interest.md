@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (iii) Exception for letters or notices involving small amounts
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if the amount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
+&emsp;&emsp;&emsp;For purposes of this paragraph, any letter or notice shall be disregarded if theamount of the deficiency or proposed deficiency (or the assessment or proposed assessment) set forth in such letter or notice is not greater than $100,000 (determined by not taking into account any interest, penalties, or additions to tax).
 
 #### (3) Large corporate underpayment
 
@@ -144,7 +144,7 @@ Pub. L. 97–34, §711(c), substituted “January 1” for “February 1”.
 
 Subsec. (c). Pub. L. 97–34, §711(b), struck out “90 percent of” before “the average predominant prime rate”.
 
-1979—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602, 6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
+1979—Subsec. (a). Pub. L. 96–167 substituted provisions setting the annual rate established under this section to be such adjusted rate as is established by the Secretary under subsec. (b) of this section for provision that the rate of interest under sections 6601(a), 6602,6611(a), 6332(c)(1), and 7426(g) of this title, and under section 2411(a) of title 28 was to be 9 percent per annum, or such adjusted rate as was established by the Secretary under subsection (b).
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -219,8 +219,4 @@ Section 7(e) of Pub. L. 93–625 provided that: “The amendments made by this s
 #### Regulations
 
 Section 1511(b) of Pub. L. 99–514 provided that: “The Secretary of the Treasury or his delegate may issue regulations to coordinate section 6621 of the Internal Revenue Code of 1954 \[now 1986\] (as amended by this section) with section 6601(f) of such Code. Such regulations shall not apply to any period after the date 3 years after the date of the enactment of this Act \[Oct. 22, 1986\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 45D, 148, 412, 453A, 460, 664, 668, 852, 1258, 1291, 2057, 6325, 6332, 6343, 6427, 6601, 6602, 6611, 6654, 6655, 7426 of this title; title 5 section 5596; title 10 section 2306a; title 14 section 830; title 15 sections 1116, 1117; title 19 sections 1557, 1592, 1593a, 1677g; title 28 sections 1961, 2411, 2644; title 29 sections 1083, 1084, 1132; title 30 sections 934, 1721; title 41 sections 254b, 422; title 42 sections 7413, 7511d, 7524, 7661a.
 

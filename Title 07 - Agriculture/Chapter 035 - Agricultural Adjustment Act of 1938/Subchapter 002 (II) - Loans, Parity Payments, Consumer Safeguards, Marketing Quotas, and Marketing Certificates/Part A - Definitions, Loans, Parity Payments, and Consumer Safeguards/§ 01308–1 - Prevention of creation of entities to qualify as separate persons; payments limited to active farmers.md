@@ -10,11 +10,11 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (2) Minimal beneficial interests
 
-&emsp;For the purpose of this subsection, a beneficial interest in any entity that is less than 10 percent of all beneficial interests in such entity combined shall not be considered a substantial beneficial interest, unless the Secretary determines, on a case-by-case basis, that a smaller percentage should apply to one or more beneficial interests to ensure that the purpose of this subsection is achieved.
+&emsp;For the purpose of this subsection, a beneficial interest in any entity that is less than 10 percent of all beneficial interests in such entity combined shall not be considered a substantial beneficial interest, unless the Secretary determines, on a case-by-case basis,that a smaller percentage should apply to one or more beneficial interests to ensure that the purpose of this subsection is achieved.
 
 #### (3) Notification by entities
 
-&emsp;To facilitate administration of this subsection, each entity receiving such payments as a separate person shall notify each individual or other entity that acquires or holds asubstantial beneficial interest in it of the requirements and limitations under this subsection. Each such entity receiving payments shall provide to the Secretary of Agriculture, at such times and in such manner as prescribed by the Secretary, the name and social security number of each individual, or the name and taxpayer identification number of each entity, that holds or acquires a substantial beneficial interest.
+&emsp;To facilitate administration of this subsection, each entity receiving such payments as a separate person shall notify each individual or other entity that acquires or holds a substantial beneficial interest in it of the requirements and limitations under this subsection. Each such entity receiving payments shall provide to the Secretary of Agriculture, at such times and in such manner as prescribed by the Secretary, the name and social security number of each individual, or the name and taxpayer identification number of each entity, that holds or acquires a substantial beneficial interest.
 
 #### (4) Notification of interest
 
@@ -76,7 +76,7 @@ For the purposes of preventing the use of multiple legal entities to avoid the e
 
 #### (A) Landowners
 
-&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation ifthe landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
+&emsp;&emsp;A person that is a landowner contributing the owned land to the farming operation if the landowner receives rent or income for such use of the land based on the land's production or the operation's operating results, and the person meets the standard provided in clauses (ii) and (iii) of paragraph (2)(A).
 
 #### (B) Family members
 

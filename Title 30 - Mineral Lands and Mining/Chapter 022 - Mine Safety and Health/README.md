@@ -437,7 +437,7 @@
 | (c) | Unexpended appropriations; personnel; property; records; obligations; commitments; savings provisions; pending proceedings and suits. |
 | (d) | “Function” defined. |
 | (e) | Determinations by Director of Office of Management and Budget. |
-| [962\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Provisions/%C2%A7%2000962%20-%20Acceptance%20of%20contributions%20and%20prosecution%20of%20projects%3B%20cooperative%20programs%20to%20promote%20health%20and%20safety%20education%20and%20training%3B%20use%20of%E2%80%A6.md) | Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; use of funds for costs of mine rescue and survival operations. |
+| [962\.](Subchapter%20005%20%28V%29%20-%20Administrative%20Provisions/%C2%A7%2000962%20-%20Acceptance%20of%20contributions%20and%20prosecution%20of%20projects%3B%20cooperative%20programs%20to%20promote%20health%20and%20safety%20education%20and%20training%E2%80%A6.md) | Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

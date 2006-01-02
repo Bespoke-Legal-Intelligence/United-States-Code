@@ -14,7 +14,7 @@ Consistent with the requirements of sections 1412 and 1413 of this title, but in
 
 #### (d) Review
 
-Any permit issued under this subchapter shall be reviewed periodically and, if appropriate, revised. The Administrator or the Secretary, as the case may be, may limit or deny the issuance of permits, or he may alter or revoke partiallyor entirely the terms of permits issued by him under this subchapter, for the transportation for dumping, or for the dumping, or both, of specified materials or classes of materials, where he finds, based upon monitoring data from the dump site and surrounding area, that such materials cannot be dumped consistently with the criteria and other factors required to be applied in evaluating the permit application. No action shall be taken under this subsection unless the affected person or permittee shall have been given notice and opportunity for a hearing on such action as proposed.
+Any permit issued under this subchapter shall be reviewed periodically and, if appropriate, revised. The Administrator or the Secretary, as the case may be, may limit or deny the issuance of permits, or he may alter or revoke partially or entirely the terms of permits issued by him under this subchapter, for the transportation for dumping, or for the dumping, or both, of specified materials or classes of materials, where he finds, based upon monitoring data from the dump site and surrounding area, that such materials cannot be dumped consistently with the criteria and other factors required to be applied in evaluating the permit application. No action shall be taken under this subsection unless the affected person or permittee shall have been given notice and opportunity for a hearing on such action as proposed.
 
 #### (e) Information for review and evaluation of applications
 
@@ -72,7 +72,7 @@ Notwithstanding any provision of this subchapter to the contrary, during the two
 
 &emsp;(K) such other information which the Administrator may require in order to determine the full effects of such disposal.
 
-(2) The Administrator shall include, in any permit to which paragraph (1) applies, suchterms and conditions as may be necessary to ensure that the monitoring plan required under paragraph (1)(J) is fully implemented, including the analysis by the Administrator of the samples required to be taken under the plan.
+(2) The Administrator shall include, in any permit to which paragraph (1) applies, such terms and conditions as may be necessary to ensure that the monitoring plan required under paragraph (1)(J) is fully implemented, including the analysis by the Administrator of the samples required to be taken under the plan.
 
 (3) The Administrator shall submit a copy of the assessment prepared under paragraph (1) with respect to any permit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 

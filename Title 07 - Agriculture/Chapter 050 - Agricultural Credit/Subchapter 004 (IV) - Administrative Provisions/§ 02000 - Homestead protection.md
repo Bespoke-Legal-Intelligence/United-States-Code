@@ -44,7 +44,7 @@ As used in this section:
 
 &emsp;&emsp;(ii) local agricultural conditions (including natural and economic conditions), in at least 2 calendar years during the 6-year period preceding the calendar year in which the application is made;
 
-&emsp;(C) have received from farming or ranching operations at least 60 percent of the gross annual income of the borrower-owner and any spouse of the borrower-owner in at least 2 calendar years during any 6-year period described in subparagraph (B);
+&emsp;(C) have received from farming or ranching operations at least 60 percent of the gross annual income of the borrower-owner and anyspouse of the borrower-owner in at least 2 calendar years during any 6-year period described in subparagraph (B);
 
 &emsp;(D) have continuously occupied the homestead property during the 6-year period described in subparagraph (B), except that such requirement may be waived if a borrower-owner has, due to circumstances beyond the control of the borrower-owner, had to leave the homestead property for a period of time not to exceed 12 months during the 6-year period;
 
@@ -96,7 +96,7 @@ Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub.
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
 
-Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the propertysecuring a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
+Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
 1992—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining “Secretary”, as (5).
 

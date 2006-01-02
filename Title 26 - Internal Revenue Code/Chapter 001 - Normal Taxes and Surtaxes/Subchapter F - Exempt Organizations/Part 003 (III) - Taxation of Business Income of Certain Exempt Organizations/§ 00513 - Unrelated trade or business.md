@@ -46,7 +46,7 @@ For purposes of this section, the term “trade or business” includes any acti
 
 &emsp;&emsp;&emsp;(ii) accordance with the provisions of State law which permit the activity to be operated or conducted solely by such an organization, or by an agency, instrumentality, or political subdivision of such State, or
 
-&emsp;&emsp;&emsp;(iii) accordance with the provisions of State law which permit such an organization to be granted a license to conduct not more than 20 days of such activity on payment to the State of a lower percentage of the revenue from such licensed activity than the State requires from organizations not described in section 501(c)(3), (4), or (5).
+&emsp;&emsp;&emsp;(iii) accordance with the provisions of State law which permit such an organization to be granted a license to conduct not more than 20 days of such activity on payment to the State of a lower percentage ofthe revenue from such licensed activity than the State requires from organizations not described in section 501(c)(3), (4), or (5).
 
 #### (C) Qualifying organization
 
@@ -190,9 +190,9 @@ In the case of a mutual or cooperative telephone or electric company, the term �
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 172; Pub. L. 86–667, §4, July 14, 1960, 74 Stat. 536; Pub. L. 91–172, title I, §121(b)(4), (c), Dec. 30, 1969, 83 Stat. 541, 542; Pub. L. 94–455, title XIII, §§1305(a), 1311(a), Oct. 4, 1976, 90 Stat. 1716, 1729; Pub. L. 95–502, title III, §301(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 96–605, title I, §106(b), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, title XVI, §§1601(a), 1602(a), (b), Oct. 22, 1986, 100 Stat. 2766, 2767; Pub. L. 101–508, title XI, §11101(d)(1)(G), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 103–66, title XIII, §13201(b)(3)(H), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title IX, §965(a), Aug. 5, 1997, 111 Stat. 893.)
 
-#### Adjustment of Low Cost Article Limitation for Taxable Years Beginning in 2004
+#### Adjustment of Low Cost Article Limitation for Taxable Years Beginning in 2006
 
-<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for taxable years beginning in 2004, see section 3.22(1) of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “low cost article” limitation under subsection (h)(2) of this section for taxable years beginning in 2006, see section 3.24(1) of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -285,8 +285,4 @@ General Rule.—For purposes of section 513 of the Internal Revenue Code of 1986
 Effective Date.—Subsection (a) shall apply to games of chance conducted after June 30, 1981, in taxable years ending after such date.”
 
 \[Section 1834 of Pub. L. 99–514, as amended by Pub. L. 100–647, title VI, §6201, Nov. 10, 1988, 102 Stat. 3730, provided in part that: “The amendment made by this section \[amending section 311 of Pub. L. 98–369, set out above\] shall apply to games of chance conducted after October 22, 1986, in taxable years ending after such date”.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 144, 145, 150, 414, 501, 509, 512, 514, 527, 593, 1245, 1250, 3121, 4942, 7611 of this title; title 16 section 2708; title 29 section 1002; title 39 section 3626; title 42 section 410.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Employment by States of a Sufficient Number of Specialists.—(1)Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans’ outreach program specialists as the State determines appropriate and efficient to carry out intensive services under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
+Requirement for Employment by States of a Sufficient Number of Specialists.—(1) Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans’ outreach program specialists as the State determines appropriate and efficient to carry out intensive services under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
 
 &emsp;(A) Special disabled veterans.
 

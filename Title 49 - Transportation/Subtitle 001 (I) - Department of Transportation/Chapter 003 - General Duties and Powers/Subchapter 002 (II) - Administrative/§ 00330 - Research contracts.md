@@ -14,7 +14,7 @@
 
 (c) The Secretary may distribute publications containing information the Secretary considers relevant to research carried out under this section.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2427.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2427.)
 
 Historical and Revision Notes
 

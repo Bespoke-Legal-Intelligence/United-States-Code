@@ -118,7 +118,7 @@ The preferential treatment described in subsection (a) of this section shall app
 
 #### (B) Merino wool
 
-&emsp;&emsp;Sweaters, 50 percent or more by weight of wool measuring 21.5 microns in diameter orfiner, knit-to-shape in one or more beneficiary sub-Saharan African countries.
+&emsp;&emsp;Sweaters, 50 percent or more by weight of wool measuring 21.5 microns in diameter or finer, knit-to-shape in one or more beneficiary sub-Saharan African countries.
 
 #### (5) Apparel articles wholly assembled from fabric or yarn not available in commercial quantities in the United States
 
@@ -178,7 +178,7 @@ The President shall eliminate the existing quotas on textile and apparel article
 
 &emsp;(2) from Mauritius within 30 days after that country adopts such a visa system.
 
-> The Customs Service shall provide the necessary technical assistance to Kenya and Mauritius in the development and implementation of the visa systems.
+> The Customs Service shall provide the necessary technical assistance to Kenya and Mauritius inthe development and implementation of the visa systems.
 
 #### (d) Special rules
 
@@ -266,7 +266,7 @@ This chapter, referred to in subsec. (e)(4), was in the original “this Act”,
 
 2004—Subsec. (b)(1). Pub. L. 108–274, §7(b)(1), substituted “or both (including” for “(including”.
 
-Subsec. (b)(3). Pub. L. 108–274, §7(b)(2)(A), in introductory provisions, substituted “in the United States orone or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both” for “either in the United States or one or more beneficiary sub-Saharan African countries” wherever appearing and “whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:” for “subject to the following:”.
+Subsec. (b)(3). Pub. L. 108–274, §7(b)(2)(A), in introductory provisions, substituted “in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both” for “either in the United States or one or more beneficiary sub-Saharan African countries” wherever appearing and “whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:” for “subject to the following:”.
 
 Subsec. (b)(3)(A), (B). Pub. L. 108–274, §7(b)(2)(B), added subpars. (A) and (B) and struck out headings and text of former subpars. (A) and (B) which set forth differing percentages and time periods applicable to the preferential treatment of imports of apparel articles from beneficiary countries and to special rules for lesser developed countries.
 

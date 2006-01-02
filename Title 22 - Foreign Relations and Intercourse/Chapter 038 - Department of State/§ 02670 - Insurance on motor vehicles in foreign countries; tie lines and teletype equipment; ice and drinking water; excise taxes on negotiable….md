@@ -2,7 +2,7 @@
 
 The Secretary of State is authorized to—
 
-&emsp;(a) obtain insurance on official motor vehicles operated by the Department of State inforeign countries, and pay the expenses incident thereto;
+&emsp;(a) obtain insurance on official motor vehicles operated by the Department of State in foreign countries, and pay the expenses incident thereto;
 
 &emsp;(b) rent tie lines and teletype equipment;
 

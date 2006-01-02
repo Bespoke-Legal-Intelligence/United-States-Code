@@ -24,7 +24,7 @@ The purpose of the cooperative education exchange programs carried out under thi
 
 #### (c) Activities
 
-In carrying out the cooperative education exchange programs assisted under this section, theCenter for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall—
+In carrying out the cooperative education exchange programs assisted under this section, the Center for Civic Education, the National Council on Economic Education, and organizations described in section 6713(a)(3) of this title shall—
 
 &emsp;(1) provide to the participants from eligible countries—
 
@@ -56,7 +56,7 @@ In carrying out the cooperative education exchange programs assisted under this 
 
 &emsp;&emsp;&emsp;(ii) effective participation in, and improvement of, an efficient market economy; and
 
-&emsp;(3) assist participants from eligible countries and the United States to participate in international conferences on civics and government education, and economic education, for educational leaders, teacher trainers, scholars in related disciplines, and educational policymakers.
+&emsp;(3) assist participants from eligible countries and the United States to participate in international conferences on civics and governmenteducation, and economic education, for educational leaders, teacher trainers, scholars in related disciplines, and educational policymakers.
 
 #### (d) Participants
 

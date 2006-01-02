@@ -98,7 +98,7 @@ Elements of notification.—
 
 &emsp;&emsp;&emsp;(v) A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
 
-&emsp;&emsp;&emsp;(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+&emsp;&emsp;&emsp;(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complainingparty is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 &emsp;&emsp;(B)(i) Subject to clause (ii), a notification from a copyright owner or from a person authorized to act on behalf of the copyright owner that fails to comply substantially with the provisions of subparagraph (A) shall not be considered under paragraph (1)(A) in determining whether a service provider has actual knowledge or is aware of facts or circumstances from which infringing activity is apparent.
 
@@ -258,7 +258,7 @@ Considerations.—The court, in considering the relevant criteria for injunctive
 
 &emsp;&emsp;(B) the magnitude of the harm likely to be suffered by the copyright owner in the digital network environment if steps are not taken to prevent or restrain the infringement;
 
-&emsp;&emsp;(C) whether implementation of such an injunction would be technically feasible andeffective, and would not interfere with access to noninfringing material at other online locations; and
+&emsp;&emsp;(C) whether implementation of such an injunction would be technically feasible and effective, and would not interfere with access to noninfringing material at other online locations; and
 
 &emsp;&emsp;(D) whether other less burdensome and comparably effective means of preventing or restraining access to the infringing material are available.
 

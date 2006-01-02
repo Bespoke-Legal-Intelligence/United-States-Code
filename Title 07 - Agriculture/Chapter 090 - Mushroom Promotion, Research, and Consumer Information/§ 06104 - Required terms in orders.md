@@ -126,7 +126,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 &emsp;The order shall require the Council to—
 
-&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe;
+&emsp;&emsp;(A) maintain such books and records (which shall be available to the Secretaryfor inspection and audit) as the Secretary may prescribe;
 
 &emsp;&emsp;(B) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe; and
 
@@ -174,7 +174,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 #### (h) Prohibition
 
-The order shall prohibit any funds received by the Council under the order from being used inany manner for the purpose of influencing legislation or governmental action or policy, except that such funds may be used by the Council for the development and recommendation to the Secretary of amendments to the order as prescribed in this chapter and for the submission to the Secretary of recommended voluntary grade and quality standards for mushrooms under the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.).
+The order shall prohibit any funds received by the Council under the order from being used in any manner for the purpose of influencing legislation or governmental action or policy, except that such funds may be used by the Council for the development and recommendation to the Secretary of amendments to the order as prescribed in this chapter and for the submission to the Secretary of recommended voluntary grade and quality standards for mushrooms under the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.).
 
 #### (i) Books and records
 
@@ -208,7 +208,7 @@ The order shall prohibit any funds received by the Council under the order from 
 
 #### (B) Penalty
 
-&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
+&emsp;&emsp;Any person knowingly violating this subsection, on conviction, shall be subject to afine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
 
 #### (5) Withholding information
 

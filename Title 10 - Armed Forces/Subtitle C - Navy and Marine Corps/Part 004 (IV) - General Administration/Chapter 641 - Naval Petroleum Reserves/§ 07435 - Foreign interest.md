@@ -40,7 +40,3 @@ Section 227 of title 30, referred to in subsec. (a), was omitted from the Code.
 
 1962—Subsec. (a). Pub. L. 87–796 substituted “land in the naval petroleum, naval oil shale, or other naval fuel reserves” for “land in the naval petroleum or other naval fuel reserves”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1601.
-

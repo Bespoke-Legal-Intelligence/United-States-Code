@@ -80,7 +80,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 (b) Accordingly, I have determined that it is necessary or appropriate to carry out Schedule XX to proclaim such other modifications of duties, such other staged rate reductions, and such other additional duties, beyond those authorized by section 1102 of the 1988 Act (19 U.S.C. 2902), as are set forth in the Annex to this proclamation.
 
-4\. Section 111(d) of the URAA \[19 U.S.C. 3521(d)\] requires the President to proclaim the rate of duty set forth in Column B of the table set forth in that sectionas the column 2 rate of duty for the subheading of the Harmonized Tariff Schedule of the United States (“HTS”) \[see 19 U.S.C. 1202\] that corresponds to the subheading in Schedule XX listed in Column A.
+4\. Section 111(d) of the URAA \[19 U.S.C. 3521(d)\] requires the President to proclaim the rate of duty set forth in Column B of the table set forth in that section as the column 2 rate of duty for the subheading of the Harmonized Tariff Schedule of the United States (“HTS”) \[see 19 U.S.C. 1202\] that corresponds to the subheading in Schedule XX listed in Column A.
 
 5\. (a) Section 22(f) of the Agricultural Adjustment Act (“the Adjustment Act”) (7 U.S.C. 624(f)), as amended by section 401(a)(1) of the URAA, provides that, as of the date of entry into force of the Agreement Establishing the World Trade Organization (“the WTO Agreement”), no quantitative limitation or fee shall be imposed under that section with respect to any article that is the product of a World Trade Organization member, as defined in section 2(10) of the URAA \[19 U.S.C. 3501(10)\].
 
@@ -158,7 +158,7 @@ Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15845, provided:
 
 (c) Section 103(a) of the URAA (19 U.S.C. 3513(a)) authorizes the President to proclaim such actions as may be necessary to ensure that any provision or amendment made by the URAA that takes effect on the date that any of the Uruguay Round Agreements enters into force with respect to the United States is appropriately implemented on such date.
 
-4\. Proclamation 6763 of December 23, 1994 \[set out above\], implemented the Uruguay Round Agreements, including Schedule XX, with respect to the United States; and incorporated in the Harmonized Tariff Schedule of the United States (“the HTS”) \[see 19 U.S.C. 1202\] tariff modifications necessary and appropriate to carry out the Uruguay Round Agreements and certain conforming changes in rules of origin for the North American Free Trade Agreement (“NAFTA”).Certain technical errors, including inadvertent omissions, were made in that proclamation. I have determined that it is necessary, to reflect accurately the intended tariff treatment provided for in the Uruguay Round Agreements and to ensure the continuation of the agreed NAFTA rules of origin, to modify certain provisions of the HTS, as set forth in the Annex to this proclamation.
+4\. Proclamation 6763 of December 23, 1994 \[set out above\], implemented the Uruguay Round Agreements, including Schedule XX, with respect to the UnitedStates; and incorporated in the Harmonized Tariff Schedule of the United States (“the HTS”) \[see 19 U.S.C. 1202\] tariff modifications necessary and appropriate to carry out the Uruguay Round Agreements and certain conforming changes in rules of origin for the North American Free Trade Agreement (“NAFTA”). Certain technical errors, including inadvertent omissions, were made in that proclamation. I have determined that it is necessary, to reflect accurately the intended tariff treatment provided for in the Uruguay Round Agreements and to ensure the continuation of the agreed NAFTA rules of origin, to modify certain provisions of the HTS, as set forth in the Annex to this proclamation.
 
 5\. (a) One of the Uruguay Round Agreements approved by the Congress in sections 101(a) and 101(d) of the URAA (19 U.S.C. 3511(a) and (d)) is the Agreement on Trade-Related Aspects of Intellectual Property Rights (“the TRIPs Agreement”).
 
@@ -200,7 +200,7 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 
 (5) The USTR is authorized to exercise my authority under section 404 of the URAA (19 U.S.C. 3601) to implement the MOU with Argentina, through such regulations as the USTR, or, at the direction of the USTR, other appropriate agencies, may issue.
 
-(6) In order to make conforming changes and technical corrections to certain HTS provisions, pursuant to actions taken in Proclamation 6763 \[set out above\], the HTS and Proclamation 6763 are modified as set forth in the Annex to this proclamation.
+(6) In order to make conforming changes and technical corrections to certain HTS provisions, pursuant to actions taken in Proclamation 6763 \[set out above\],the HTS and Proclamation 6763 are modified as set forth in the Annex to this proclamation.
 
 (7) All provisions of previous proclamations and Executive orders that are inconsistent with the actions taken in this proclamation are superseded to the extent of such inconsistency.
 

@@ -164,7 +164,7 @@
 
 #### (D) Limit on adjustment
 
-&emsp;&emsp;When portable oxygen equipment is used and the attending physician prescribes an oxygen flow rate exceeding 4 liters perminute, there shall only be an increase under either subparagraph (B) or (C), whichever increase is larger, and not under both such subparagraphs.
+&emsp;&emsp;When portable oxygen equipment is used and the attending physician prescribes an oxygen flow rate exceeding 4 liters per minute, there shall only be an increase under either subparagraph (B) or (C), whichever increase is larger, and not under both such subparagraphs.
 
 #### (E) Recertification for patients receiving home oxygen therapy
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;&emsp;(iv) in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii), during the first 6-month period of medical need that follows the period of medical need during which payment is made under clause (i), no payment shall be made for rental or maintenance and servicing of the item;
 
-&emsp;&emsp;&emsp;(v) in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii), during the first month of each succeeding 6-month period of medical need, a maintenance and servicing payment may be made (for parts and labor not covered by the supplier's or manufacturer's warranty, as determined by the Secretary to be appropriate for the particular type of durable medical equipment) and the amount recognized for each such 6-month period is the lower of (I) a reasonable and necessary maintenance and servicing fee or fees established by the Secretary, or (II) 10 percent of the total of the purchase price recognized under paragraph (8) with respect to the item; and
+&emsp;&emsp;&emsp;(v) in the case of an item for which a purchase agreement has not been entered into under clause (ii) or clause (iii), during the first month of each succeeding 6-month period of medical need, a maintenance and servicing payment may be made (for parts and labor not covered by the supplier's or manufacturer's warranty, asdetermined by the Secretary to be appropriate for the particular type of durable medical equipment) and the amount recognized for each such 6-month period is the lower of (I) a reasonable and necessary maintenance and servicing fee or fees established by the Secretary, or (II) 10 percent of the total of the purchase price recognized under paragraph (8) with respect to the item; and
 
 &emsp;&emsp;&emsp;(vi) in the case of an item for which a purchase agreement has been entered into under clause (ii) or clause (iii), maintenance and servicing payments may be made (for parts and labor not covered by the supplier's or manufacturer's warranty, as determined by the Secretary to be appropriate for the particular type of durable medical equipment), and such payments shall be in an amount established by the Secretary on the basis of reasonable charges in the locality for maintenance and servicing.
 
@@ -252,7 +252,7 @@
 
 &emsp;&emsp;With respect to the furnishing of a particular item in a year, the Secretary shall compute a national limited purchase price—
 
-&emsp;&emsp;&emsp;(i) for 1991, equal to the local purchase price computed under subparagraph (A)(ii) for the item for the year, except that such national limited purchase price may not exceed 100 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year, and may not be less than 85 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year;
+&emsp;&emsp;&emsp;(i) for 1991, equal to the local purchase price computed under subparagraph (A)(ii)for the item for the year, except that such national limited purchase price may not exceed 100 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year, and may not be less than 85 percent of the weighted average of all local purchase prices for the item computed under such subparagraph for the year;
 
 &emsp;&emsp;&emsp;(ii) for 1992 and 1993, the amount determined under this subparagraph for the preceding year increased by the covered item update for such subsequent year;
 
@@ -266,7 +266,7 @@
 
 &emsp;&emsp;&emsp;(i) in 1989 or 1990, is 100 percent of the local purchase price computed under subparagraph (A)(ii)(I);
 
-&emsp;&emsp;&emsp;(ii) in 1991, is the sum of (I) 67 percent of the local purchase price computed under subparagraph (A)(ii)(II) for 1991, and (II) 33percent of the national limited purchase price computed under subparagraph (B) for 1991;
+&emsp;&emsp;&emsp;(ii) in 1991, is the sum of (I) 67 percent of the local purchase price computed under subparagraph (A)(ii)(II) for 1991, and (II) 33 percent of the national limited purchase price computed under subparagraph (B) for 1991;
 
 &emsp;&emsp;&emsp;(iii) in 1992, is the sum of (I) 33 percent of the local purchase price computed under subparagraph (A)(ii)(III) for 1992, and (II) 67 percent of the national limited purchase price computed under subparagraph (B) for 1992; and
 
@@ -324,7 +324,7 @@
 
 #### (ii) Budget neutrality
 
-&emsp;&emsp;&emsp;The Secretary may take actions under clause (i) only to the extent such actionsdo not result in expenditures for any year to be more or less than the expenditures which would have been made if such actions had not been taken.
+&emsp;&emsp;&emsp;The Secretary may take actions under clause (i) only to the extent such actions do not result in expenditures for any year to be more or less than the expenditures which would have been made if such actions had not been taken.
 
 #### (10) Exceptions and adjustments
 
@@ -456,7 +456,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a nonparticipating supplier furnishes to an individual enrolled under this part a covered item for which no payment may be made under this part by reason of paragraph (17)(B), the supplier shall refund on a timelybasis to the patient (and shall be liable to the patient for) any amounts collected from the patient for the item, unless—
+&emsp;&emsp;If a nonparticipating supplier furnishes to an individual enrolled under this part a covered item for which no payment may be made under this part by reason of paragraph (17)(B), the supplier shall refund on a timely basis to the patient (and shall be liable to the patient for) any amounts collected from the patient for the item, unless—
 
 &emsp;&emsp;&emsp;(i) the supplier establishes that the supplier did not know and could not reasonably have been expected to know that payment may not be made for the item by reason of paragraph (17)(B), or
 
@@ -804,7 +804,7 @@
 
 #### (2) Limitation
 
-&emsp;The prevailing charge for the technical and professional components of an <sup>2</sup> physician pathology service furnished by a physician through an independent laboratory shall not be reduced pursuant to paragraph (1) to the extent that such reduction would reduce such prevailing charge below 115 percent of the prevailing charge for the professional component of such service when furnished by a hospital-based physician in the same locality. For purposes of the preceding sentence, an independent laboratory is a laboratory that is independent of a hospital and separate from the attending or consulting physicians’ office.
+&emsp;The prevailing charge for the technical and professional components of an <sup>2</sup> physician pathology service furnished by a physicianthrough an independent laboratory shall not be reduced pursuant to paragraph (1) to the extent that such reduction would reduce such prevailing charge below 115 percent of the prevailing charge for the professional component of such service when furnished by a hospital-based physician in the same locality. For purposes of the preceding sentence, an independent laboratory is a laboratory that is independent of a hospital and separate from the attending or consulting physicians’ office.
 
 #### (g) Payment for outpatient critical access hospital services
 
@@ -1088,7 +1088,7 @@
 
 #### (B) “Certificate of medical necessity” defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means a form or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+&emsp;&emsp;For purposes of this paragraph, the term “certificate of medical necessity” means aform or other document containing information required by the carrier to be submitted to show that an item is reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
 
 #### (3) Coverage and review criteria
 
@@ -1104,7 +1104,7 @@
 
 &emsp;&emsp;(C) furnishes an item or service to a beneficiary for which payment is denied under section 1395y(a)(1) of this title;
 
-> &emsp;any expenses incurred for items and services furnished to an individual by such a supplier not on an assigned basis shall be the responsibility of such supplier. The individual shall have no financial responsibility for such expenses and the supplier shall refund on a timely basis to the individual (and shall be liableto the individual for) any amounts collected from the individual for such items or services. The provisions of subsection (a)(18) of this section shall apply to refunds required under the previous sentence in the same manner as such provisions apply to refunds under such subsection.
+> &emsp;any expenses incurred for items and services furnished to an individual by such a supplier not on an assigned basis shall be the responsibility of such supplier. The individual shall have no financial responsibility for such expenses and the supplier shall refund on a timely basis to the individual (and shall be liable to the individual for) any amounts collected from the individual for such items or services. The provisions of subsection (a)(18) of this section shall apply to refunds required under the previous sentence in the same manner as such provisions apply to refunds under such subsection.
 
 #### (5) “Medical equipment and supplies” defined
 
@@ -1176,7 +1176,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a fee schedule for payment for ambulance services whether provided directly by a supplier or provider or under arrangement with a provider under this part through a negotiated rulemaking process described in title 5 and in accordance with the requirements of this subsection.
+&emsp;The Secretary shall establish a fee schedule for payment for ambulance services whether provided directly by a supplier or provider orunder arrangement with a provider under this part through a negotiated rulemaking process described in title 5 and in accordance with the requirements of this subsection.
 
 #### (2) Considerations
 
@@ -1234,7 +1234,7 @@
 
 &emsp;In carrying out the phase-in under paragraph (2)(E) for each level of ground service furnished in a year, the portion of the payment amount that is based on the fee schedule shall be the greater of the amount determined under such fee schedule (without regard to this paragraph) or the following blended rate of the fee schedule under paragraph (1) and of a regional fee schedule for the region involved:
 
-&emsp;&emsp;(A) For 2004 (for services furnished on or after July 1, 2004), the blended rate shall be based 20 percent on the fee schedule under paragraph (1) and 80 percent on the regional fee schedule.
+&emsp;&emsp;(A) For 2004 (for services furnished on or after July 1, 2004), the blended rate shall bebased 20 percent on the fee schedule under paragraph (1) and 80 percent on the regional fee schedule.
 
 &emsp;&emsp;(B) For 2005, the blended rate shall be based 40 percent on the fee schedule under paragraph (1) and 60 percent on the regional fee schedule.
 
@@ -1248,7 +1248,7 @@
 
 #### (11) Adjustment in payment for certain long trips
 
-&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2009, regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate formileage for a trip above 50 miles the per mile rate otherwise established shall be increased by 1/4 of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
+&emsp;In the case of ground ambulance services furnished on or after July 1, 2004, and before January 1, 2009, regardless of where the transportation originates, the fee schedule established under this subsection shall provide that, with respect to the payment rate for mileage for a trip above 50 miles the per mile rate otherwise established shall be increased by 1/4 of the payment per mile otherwise applicable to miles in excess of 50 miles in such trip.
 
 #### (12) Assistance for rural providers furnishing services in low population density areas
 
@@ -1296,7 +1296,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The regulations described in section 1395x(s)(7) of this title shall provide, to the extent that any ambulance services (whether ground or air) may be covered under such section, that a rural air ambulance service (as defined in subparagraph (C)) is reimbursed under this subsection at the air ambulance rate if the air ambulance service—
+&emsp;&emsp;The regulations described in section 1395x(s)(7) of this title shall provide, to theextent that any ambulance services (whether ground or air) may be covered under such section, that a rural air ambulance service (as defined in subparagraph (C)) is reimbursed under this subsection at the air ambulance rate if the air ambulance service—
 
 &emsp;&emsp;&emsp;(i) is reasonable and necessary based on the health condition of the individual being transported at or immediately prior to the time of the transport; and
 
@@ -1312,7 +1312,7 @@
 
 #### (C) Rural air ambulance service defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “rural air ambulance service” means fixedwing and rotary wing air ambulance service in which the point of pick up of the individual occurs in a rural area (as defined in section 1395ww(d)(2)(D) of this title) or in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
+&emsp;&emsp;For purposes of this paragraph, the term “rural air ambulance service” means fixed wing and rotary wing air ambulance service in which the point of pick up of the individual occurs in a rural area (as defined in section 1395ww(d)(2)(D) of this title) or in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
 
 #### (D) Limitation
 
@@ -1546,7 +1546,7 @@ Subsec. (a)(9)(B)(v), (vi). Pub. L. 105–33, §4552(a)(1), (2)(B), (3), added c
 
 Subsec. (a)(9)(D). Pub. L. 105–33, §4552(b), which directed amendment of section 1848(a)(9) (42 U.S.C. 1395m(a)(9)) by adding subpar. (D) at end, was executed by adding subpar. (D) at end of subsec. (a)(9) of this section, to reflect the probable intent of Congress.
 
-Subsec. (a)(10)(B). Pub. L. 105–33, §4316(b), substituted “The Secretary” for “For covered items furnished on or after January 1, 1991, the Secretary” and struck out “(other than subparagraph (D))” before “of section 1395u(b) of this title” and “as such provisions wouldotherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable” before period at end.
+Subsec. (a)(10)(B). Pub. L. 105–33, §4316(b), substituted “The Secretary” for “For covered items furnished on or after January 1, 1991, the Secretary” and struck out “(other than subparagraph (D))” before “of section 1395u(b) of this title” and “as such provisions would otherwise apply to physicians’ services and physicians and a reasonable charge under section 1395u(b) of this title but for the application of section 1395w–4(i)(3) of this title. In applying such provisions to payments for an item under this subsection, the Secretary shall make adjustments to the payment basis for the item described in paragraph (1)(B) if the Secretary determines (in accordance with such provisions and on the basis of prices and costs applicable at the time the item is furnished) that such payment basis is not inherently reasonable” before period at end.
 
 Subsec. (a)(14)(B). Pub. L. 105–33, §4551(a)(1)(B)(i), substituted “1993, 1994, 1995, 1996, and 1997” for “a subsequent year”.
 
@@ -1624,7 +1624,7 @@ Subsec. (a)(17), (18). Pub. L. 103–432, §132(a)(1), (2), added pars. (17) and
 
 Subsec. (b)(4)(D). Pub. L. 103–432, §126(b)(2)(A), in introductory provisions substituted “shall, subject to clause (vii), be reduced to the adjusted conversion factor for the locality determined as follows:” for “shall be determined as follows:”.
 
-Subsec. (b)(4)(D)(iv). Pub. L. 103–432, §126(b)(2)(B), substituted “Adjusted conversion factor” for “Localadjustment” in heading and “The adjusted conversion factor for” for “Subject to clause (vii), the conversion factor to be applied to” in text.
+Subsec. (b)(4)(D)(iv). Pub. L. 103–432, §126(b)(2)(B), substituted “Adjusted conversion factor” for “Local adjustment” in heading and “The adjusted conversion factor for” for “Subject to clause (vii), the conversion factor to be applied to” in text.
 
 Subsec. (b)(4)(D)(vii). Pub. L. 103–432, §126(b)(2)(C), (D), struck out “under this subparagraph” after “applied to a locality” and inserted “reduced under this subparagraph by” before “more than 9.5 percent”.
 
@@ -1690,7 +1690,7 @@ Subsec. (a)(1)(D). Pub. L. 101–508, §4152(a)(1), inserted before period at en
 
 Subsec. (a)(2)(A). Pub. L. 101–508, §4153(a)(2)(D)(ii), substituted “(13)” for “(13)(A)”.
 
-Pub. L. 101–508, §4152(c)(4)(A), inserted “or” after “$150,” in cl. (i), struck out “or” after “purchase,” in cl. (ii), and struck out cl. (iii) which read as follows: “which is a power-driven wheelchair (other than a customized wheelchair that is classified as a customized item under paragraph (4) pursuant to criteria specified by the Secretary),”.
+Pub. L. 101–508, §4152(c)(4)(A), inserted “or” after “$150,” in cl. (i), struck out “or” after “purchase,” in cl. (ii), and struck out cl. (iii) which read as follows:“which is a power-driven wheelchair (other than a customized wheelchair that is classified as a customized item under paragraph (4) pursuant to criteria specified by the Secretary),”.
 
 Subsec. (a)(2)(B). Pub. L. 101–508, §4152(b)(1)(A), (B), struck out “or” after “1987;” in cl. (i), added cls. (ii) to (iv), and struck out former cl. (ii) which read as follows: “in a subsequent year, is the amount specified in this subparagraph for the preceding year increased by the percentage increase in the consumer price index for all urban consumers (U.S. city average) for the 12-month period ending with June of that preceding year.”
 
@@ -1774,7 +1774,7 @@ Subsec. (a)(13). Pub. L. 101–508, §4153(a)(2)(D)(iii), substituted “means d
 
 &emsp;“(C) orthotics and prosthetics (described in section 1395x(s)(9) of this title);
 
-> but does not include intraocular lenses or medical supplies (including catheters, catheter supplies, ostomybags, and supplies related to ostomy care) furnished by a home health agency under section 1395x(m)(5) of this title.”
+> but does not include intraocular lenses or medical supplies (including catheters, catheter supplies, ostomy bags, and supplies related to ostomy care) furnished by a home health agency under section 1395x(m)(5) of this title.”
 
 Subsec. (a)(14). Pub. L. 101–508, §4152(b)(4), added par. (14).
 
@@ -2032,7 +2032,7 @@ Section 13543(c) of Pub. L. 103–66 provided that: “The amendments made by th
 
 Section 13544(a)(3) of Pub. L. 103–66 provided that: “The amendments made by this subsection \[amending this section\] shall apply to items furnished on or after January 1, 1994.”
 
-Amendment by section 13544(b)(1) of Pub. L. 103–66 applicable to items furnished on or after Jan. 1, 1994, seesection 13544(b)(3) of Pub. L. 103–66, set out as a note under section 1395<i>l</i> of this title.
+Amendment by section 13544(b)(1) of Pub. L. 103–66 applicable to items furnished on or after Jan. 1, 1994, see section 13544(b)(3) of Pub. L. 103–66, set out as a note under section 1395<i>l</i> of this title.
 
 Section 13545(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to items furnished on or after January 1, 1994.”
 
@@ -2098,7 +2098,7 @@ Pub. L. 106–554, §1(a)(6) \[title IV, §427(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Transfer of Functions
 
-Physician Payment Review Commission (PPRC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by PPRC, and that, for that purpose,any reference in law to PPRC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
+Physician Payment Review Commission (PPRC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by PPRC, and that, for that purpose, any reference in law to PPRC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
 
 #### GAO Report on Class III Medical Devices
 
@@ -2264,7 +2264,7 @@ Pub. L. 106–554, §1(a)(6) \[title IV, §426(b)\], Dec. 21, 2000, 114 Stat. 27
 
 &emsp;“(1) for items furnished on or after January 1, 2001, and before July 1, 2001, shall be the payment basis for 2001 as determined under the provisions of law in effect on the day before the date of the enactment of this Act \[Dec. 21, 2000\]; and
 
-&emsp;“(2) for items furnished on or after July 1, 2001, and before January 1, 2002, shall be the payment basisthat is determined under such section taking into account the amendments made by subsection (a), increased by a transitional percentage allowance equal to 2.6 percent (to account for the timing of implementation of the CPI update).”
+&emsp;“(2) for items furnished on or after July 1, 2001, and before January 1, 2002, shall be the payment basis that is determined under such section taking into account the amendments made by subsection (a), increased by a transitional percentage allowance equal to 2.6 percent (to account for the timing of implementation of the CPI update).”
 
 #### Preemption of Rule
 
@@ -2330,7 +2330,7 @@ Demonstration Project Contracts with Local Governments.—The Secretary of Healt
 
 &emsp;“(1) the unit of local government furnishes (or arranges for the furnishing of) ambulance services for which payment may be made under part B of title XVIII of the Social Security Act \[this part\] for individuals residing in the unit of local government who are enrolled under such part, except that the unit of local government may not enter into the contract unless the contract covers at least 80 percent of the individuals residing in the unit of local government who are enrolled under such part but not in a Medicare+Choice plan;
 
-&emsp;“(2) any individual or entity furnishing ambulance services under the contract meets the requirements otherwise applicable to individuals and entities furnishing such services under such part; and
+&emsp;“(2) any individual or entity furnishing ambulance services under the contract meets the requirementsotherwise applicable to individuals and entities furnishing such services under such part; and
 
 &emsp;“(3) for each month during which the contract is in effect, the Secretary makes a capitated payment to the unit of local government in accordance with subsection (b).
 
@@ -2494,7 +2494,7 @@ Section 6134 of Pub. L. 101–239 directed Secretary of Health and Human Service
 
 #### GAO Study of Standards for Use of and Payment for Items of Durable Medical Equipment
 
-Section 6139 of Pub. L. 101–239 directed Comptroller General to conduct a study of appropriate uses of items of durable medical equipment and of appropriate criteria for making determinations of medical necessity under this subchapter for such items, with particular emphasis on items (including seat-lift chairs) that may be subject to abusive billing practices, such study to include an analysis of appropriate use of forms in making medical necessity determinations for items of durable medical equipment under such title, and procedures for identifying items of durable medical equipment that should no longer be covered under this subchapter, and to be conducted with a panel convened by the Comptroller General consisting of specialists in the disciplines of orthopedic medicine, rehabilitation, arthritis, and geriatric medicine, representatives of consumer organizations, and representatives of carriers under the medicare program, with the Comptroller General to submit not later than Apr. 1, 1991, a report to Committees on Ways and Means and Energy and Commerce of House of Representatives and Committee on Finance of Senate on the study including recommendations.
+Section 6139 of Pub. L. 101–239 directed Comptroller General to conduct a study of appropriate uses of items of durable medical equipment and of appropriate criteria for making determinations of medical necessity under this subchapter for such items, with particular emphasis on items (including seat-lift chairs) that may be subject to abusive billing practices, such study to include an analysis of appropriate use of forms in making medical necessity determinations for items of durable medical equipment under such title, and procedures for identifying items of durable medical equipment that should no longer be covered under this subchapter, andto be conducted with a panel convened by the Comptroller General consisting of specialists in the disciplines of orthopedic medicine, rehabilitation, arthritis, and geriatric medicine, representatives of consumer organizations, and representatives of carriers under the medicare program, with the Comptroller General to submit not later than Apr. 1, 1991, a report to Committees on Ways and Means and Energy and Commerce of House of Representatives and Committee on Finance of Senate on the study including recommendations.
 
 #### Reports on Medicare Beneficiary Drug Expenses
 
@@ -2502,7 +2502,7 @@ Section 202(i) of Pub. L. 100–360, directed Secretary of Health and Human Serv
 
 #### Additional Studies by Secretary or Comptroller General
 
-Section 202(k) of Pub. L. 100–360 directed Secretary of Health and Human Services to conduct a study, and make a report to Congress by Jan. 1, 1990, on possibility of including drugs which have not yet been approved under section 355 or 357 of Title 21, Food and Drugs, and biological products which have not been licensed under section 262 of this title but which are commonly used in the treatment of cancer or in immunosuppressive therapy and other experimental drugs and biological products as covered outpatient drugs under medicare program, to conduct a study, and report to Congress by Jan. 1, 1990, evaluating potential to use mail service pharmacies to reduce costs to medicare program and to medicare beneficiaries, to conduct a study, and report to Congress by Jan. 1, 1993, on methods to improve utilization review of covered outpatient drugs, and to conduct a longitudinal study, and report to Congress by Jan. 1, 1993, on use of outpatient prescription drugs by medicare beneficiaries with respect to medical necessity, potential for adverse drug interactions, cost (including whether lower cost drugs could have beenused), and patient stockpiling or wastage, and which further directed Comptroller General to conduct studies, and report to Congress by not later than May 1, 1991, on comparing average wholesale prices with actual pharmacy acquisition costs by type of pharmacy, on determining the overhead costs of retail pharmacies, and on discounts given by pharmacies to other third-party insurers, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
+Section 202(k) of Pub. L. 100–360 directed Secretary of Health and Human Services to conduct a study, and make a report to Congress by Jan. 1, 1990, on possibility of including drugs which have not yet been approved under section 355 or 357 of Title 21, Food and Drugs, and biological products which have not been licensed under section 262 of this title but which are commonly used in the treatment of cancer or in immunosuppressive therapy and other experimental drugs and biological products as covered outpatient drugs under medicare program, to conduct a study, and report to Congress by Jan. 1, 1990, evaluating potential to use mail service pharmacies to reduce costs to medicare program and to medicare beneficiaries, to conduct a study, and report to Congress by Jan. 1, 1993, on methods to improve utilization review of covered outpatient drugs, and to conduct a longitudinal study, and report to Congress by Jan. 1, 1993, on use of outpatient prescription drugs by medicare beneficiaries with respect to medical necessity, potential for adverse drug interactions, cost (including whether lower cost drugs could have been used), and patient stockpiling or wastage, and which further directed Comptroller General to conduct studies, and report to Congress by not later than May 1, 1991, on comparing average wholesale prices with actual pharmacy acquisition costs by type of pharmacy, on determining the overhead costs of retail pharmacies, and on discounts given by pharmacies to other third-party insurers, prior to repeal by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
 #### Development of Standard Medicare Claims Forms
 

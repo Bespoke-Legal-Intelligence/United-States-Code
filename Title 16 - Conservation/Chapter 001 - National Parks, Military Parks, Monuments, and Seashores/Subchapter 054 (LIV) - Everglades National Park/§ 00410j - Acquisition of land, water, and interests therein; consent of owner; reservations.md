@@ -14,5 +14,5 @@ The authority to acquire land, water, and interests therein within the park boun
 
 #### Amendments
 
-1970—Pub. L. 91–428 struck out restriction against acquisition of certain described lands in Dade Countywithout the consent of the owner so long as the land is used exclusively for agricultural purposes, including housing directly incident thereto, or is lying fallow or remains in its natural state.
+1970—Pub. L. 91–428 struck out restriction against acquisition of certain described lands in Dade County without the consent of the owner so long as the land is used exclusively for agricultural purposes, including housing directly incident thereto, or is lying fallow or remains in its natural state.
 

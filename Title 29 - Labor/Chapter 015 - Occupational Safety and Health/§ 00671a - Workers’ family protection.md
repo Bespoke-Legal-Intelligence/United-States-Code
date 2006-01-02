@@ -52,7 +52,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 &emsp;&emsp;&emsp;&emsp;(IV) other government agencies (including the Department of Energy and the Environmental Protection Agency), as the Director may determine to be appropriate;
 
-&emsp;&emsp;&emsp;(ii) evaluate current statutory, regulatory, and voluntary industrial hygiene or other measures used by small, medium and large employers to prevent or remediate home contamination;
+&emsp;&emsp;&emsp;(ii) evaluate current statutory, regulatory, and voluntary industrial hygiene or other measures used by small, mediumand large employers to prevent or remediate home contamination;
 
 &emsp;&emsp;&emsp;(iii) compile a summary of the existing research and case histories conducted on incidents of employee transported contaminant releases, including—
 
@@ -120,7 +120,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 #### (2) Additional regulations or standards
 
-&emsp;If the Secretary of Labor determines that additional regulations or standards are needed under paragraph (1), the Secretary shall promulgate, pursuant to the Secretary's authority under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), such regulations or standards as determined to be appropriate not later than 3 years after such determination.
+&emsp;If the Secretary of Labor determines that additional regulations or standards are neededunder paragraph (1), the Secretary shall promulgate, pursuant to the Secretary's authority under the Occupational Safety and Health Act of 1970 (29 U.S.C. 651 et seq.), such regulations or standards as determined to be appropriate not later than 3 years after such determination.
 
 #### (e) Authorization of appropriations
 

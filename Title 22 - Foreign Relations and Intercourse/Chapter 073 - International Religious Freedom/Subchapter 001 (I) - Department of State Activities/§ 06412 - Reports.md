@@ -36,7 +36,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (C) United States policies
 
-&emsp;&emsp;A description of United States actions and policies in support of religious freedom ineach foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
+&emsp;&emsp;A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
 
 #### (D) International agreements in effect
 

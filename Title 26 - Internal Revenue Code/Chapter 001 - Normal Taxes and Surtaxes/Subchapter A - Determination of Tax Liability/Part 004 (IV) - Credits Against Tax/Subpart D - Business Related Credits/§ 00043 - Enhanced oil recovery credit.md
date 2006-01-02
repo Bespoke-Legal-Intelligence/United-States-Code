@@ -16,7 +16,7 @@ For purposes of section 38, the enhanced oil recovery credit for any taxable yea
 
 #### (2) Reference price
 
-&emsp;For purposes of this subsection, the term “reference price” means, with respect to any calendar year, the reference price determined for such calendar year under section 29(d)(2)(C).
+&emsp;For purposes of this subsection, the term “reference price” means, with respect to any calendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
 
 #### (3) Inflation adjustment
 
@@ -54,6 +54,14 @@ For purposes of this section—
 
 &emsp;&emsp;(C) Any qualified tertiary injectant expenses (as defined in section 193(b)) which are paid or incurred in connection with a qualified enhanced oil recovery project and for which a deduction is allowable for the taxable year.
 
+&emsp;&emsp;(D) Any amount which is paid or incurred during the taxable year to construct a gas treatment plant which—
+
+&emsp;&emsp;&emsp;(i) is located in the area of the United States (within the meaning of section 638(1)) lying north of 64 degrees North latitude,
+
+&emsp;&emsp;&emsp;(ii) prepares Alaska natural gas for transportation through a pipeline with a capacity of at least 2,000,000,000,000 Btu of natural gas per day, and
+
+&emsp;&emsp;&emsp;(iii) produces carbon dioxide which is injected into hydrocarbon-bearing geological formations.
+
 #### (2) Qualified enhanced oil recovery project
 
 &emsp;For purposes of this subsection—
@@ -80,6 +88,22 @@ For purposes of this section—
 
 &emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treated as a tertiary recovery method under section 193(b)(3).
 
+#### (5) Alaska natural gas
+
+&emsp;For purposes of paragraph (1)(D)—
+
+#### (A) In general
+
+&emsp;&emsp;The term “Alaska natural gas” means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
+
+&emsp;&emsp;&emsp;(i) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
+
+&emsp;&emsp;&emsp;(ii) pursuant to the applicable State and Federal pollution prevention, control, and permit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)).
+
+#### (B) Natural gas
+
+&emsp;&emsp;The term “natural gas” has the meaning given such term by section 613A(e)(2).
+
 #### (d) Other rules
 
 #### (1) Disallowance of deduction
@@ -104,7 +128,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) (or revocation thereof) shall be made in such manner as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645.)
+(Added Pub. L. 101–508, title XI, §11511(a), Nov. 5, 1990, 104 Stat. 1388–483; amended Pub. L. 106–554, §1(a)(7) \[title III, §317(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–357, title VII, §707(a), (b), Oct. 22, 2004, 118 Stat. 1550; Pub. L. 109–58, title XIII, §1322(a)(3)(B), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(i), Dec. 21, 2005, 119 Stat. 2637.)
 
 #### Prior Provisions
 
@@ -114,7 +138,35 @@ Another prior section 43 was renumbered section 36 of this title.
 
 #### Amendments
 
+2005—Subsec. (b)(2). Pub. L. 109–58 substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
+
+Subsec. (c)(5). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(D)—
+
+&emsp;“(1)
+
+In general.—The term ‘Alaska natural gas’ means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
+
+&emsp;&emsp;“(A) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
+
+&emsp;&emsp;“(B) pursuant to the applicable State and Federal pollution prevention, control, and permit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)).
+
+&emsp;“(2)
+
+Natural gas.—The term ‘natural gas’ has the meaning given such term by section 613A(e)(2).”
+
+2004—Subsec. (c)(1)(D). Pub. L. 108–357, §707(a), added subpar. (D).
+
+Subsec. (c)(5). Pub. L. 108–357, §707(b), added par. (5).
+
 2000—Subsec. (c)(1)(C). Pub. L. 106–554 inserted “(as defined in section 193(b))” after “expenses” and struck out “under section 193” after “allowable”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VII, §707(c), Oct. 22, 2004, 118 Stat. 1550, provided that: “The amendment made by this section \[amending this section\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2004.”
 
 #### Effective Date of 2000 Amendment
 
@@ -131,8 +183,4 @@ In general.—The amendments made by this section \[enacting this section and am
 “(2)
 
 Special rule for significant expansion of projects.—For purposes of section 43(c)(2)(A)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), any significant expansion after December 31, 1990, of a project begun before January 1, 1991, shall be treated as a project with respect to which the first injection commences after December 31, 1990.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 29, 38, 39, 196, 6501 of this title.
 

@@ -54,7 +54,3 @@ Subsec. (d)(3). Pub. L. 105–85, §599(g)(2), inserted “, or part of a debri
 
 Wrongful Withholding.—Except as provided in subsections (a) through (d), any person who knowingly and willfully withholds from the personnel file of a missing person any information relating to the disappearance or whereabouts and status of a missing person shall be fined as provided in title 18 or imprisoned not more than one year, or both.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1509 of this title.
-

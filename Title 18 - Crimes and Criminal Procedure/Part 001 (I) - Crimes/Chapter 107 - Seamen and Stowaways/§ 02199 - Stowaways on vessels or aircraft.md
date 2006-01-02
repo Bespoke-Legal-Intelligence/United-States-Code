@@ -1,6 +1,6 @@
 ### §2199. Stowaways on vessels or aircraft
 
-Whoever, without the consent of the owner, charterer, master, or person in command of any vessel, or aircraft, with intent to obtain transportation, boards, enters or secretes himselfaboard such vessel or aircraft and is thereon at the time of departure of said vessel or aircraft from a port, harbor, wharf, airport or other place within the jurisdiction of the United States; or
+Whoever, without the consent of the owner, charterer, master, or person in command of any vessel, or aircraft, with intent to obtain transportation, boards, enters or secretes himself aboard such vessel or aircraft and is thereon at the time of departure of said vessel or aircraft from a port, harbor, wharf, airport or other place within the jurisdiction of the United States; or
 
 Whoever, with like intent, having boarded, entered or secreted himself aboard a vessel or aircraft at any place within or without the jurisdiction of the United States, remains aboard after the vessel or aircraft has left such place and is thereon at any place within the jurisdiction of the United States; or
 
@@ -22,7 +22,7 @@ In section 469 of title 18, U.S.C., 1940 ed., the element of intent not to pay f
 
 In section 472 of title 18, U.S.C., 1940 ed., the enumerations of State, Territory, Possession, District of Columbia, and The Canal Zone, was omitted as adequately covered by “place within the jurisdiction of the United States.”
 
-The punishment provision is the same as in sections 470, 472, and 473 of title 18, U.S.C., 1940 ed., but the fine is $500 more than the maximum fine provided by said section 469. There seemed no point, however, in preserving a differential in favor of the stowaway as against the aider and abettor of $500. The court can be trusted to exercise a wise discretion within the slightly larger limits provided by the revised section.
+The punishment provision is the same as in sections 470, 472, and 473 of title 18, U.S.C., 1940 ed., but the fine is $500 more than the maximum fine provided by saidsection 469. There seemed no point, however, in preserving a differential in favor of the stowaway as against the aider and abettor of $500. The court can be trusted to exercise a wise discretion within the slightly larger limits provided by the revised section.
 
 The provision for punishment of aiders and abettors in section 470 of title 18, U.S.C., 1940 ed., was omitted as unnecessary since they are punishable as principals by section 2 of this title.
 

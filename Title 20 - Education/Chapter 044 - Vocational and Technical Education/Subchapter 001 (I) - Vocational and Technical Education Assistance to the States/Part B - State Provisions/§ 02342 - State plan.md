@@ -42,7 +42,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(D) how funds will be used to improve or develop new vocational and technical education courses;
 
-&emsp;(2) describes how comprehensive professional development (including initial teacher preparation) for vocational and technical, academic,guidance, and administrative personnel will be provided;
+&emsp;(2) describes how comprehensive professional development (including initial teacher preparation) for vocational and technical, academic, guidance, and administrative personnel will be provided;
 
 &emsp;(3) describes how the eligible agency will actively involve parents, teachers, local businesses (including small- and medium-sized businesses), and labor organizations in the planning, development, implementation, and evaluation of such vocational and technical education programs;
 
@@ -50,7 +50,7 @@ The State plan shall include information that—
 
 &emsp;&emsp;(A) among secondary school vocational and technical education, or postsecondary and adult vocational and technical education, or both, including the rationale for such allocation; and
 
-&emsp;&emsp;(B) among any consortia that will be formed among secondary schools and eligible institutions, and how funds will be allocated among the members of the consortia, including the rationale for such allocation;
+&emsp;&emsp;(B) among any consortia that will be formed among secondary schools and eligibleinstitutions, and how funds will be allocated among the members of the consortia, including the rationale for such allocation;
 
 &emsp;(5) describes how the eligible agency will—
 
@@ -116,7 +116,7 @@ The eligible agency may fulfill the requirements of subsection (a) of this secti
 
 #### (3) Consultation
 
-&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult vocational and technical education, postsecondary vocational and technical education, tech-prep education, and secondary vocational and technical education after consultation with the State agency responsible for supervision of community colleges, technical institutes, or other 2-year postsecondary institutions primarily engaged in providing postsecondary vocational and technical education, and the State agency responsible for secondary education. If a State agency finds that a portion of the final State plan is objectionable, the State agency shall file such objections with the eligible agency. The eligible agency shall respond to any objections of the State agency in the State plan submitted to the Secretary.
+&emsp;The eligible agency shall develop the portion of each State plan relating to the amount and uses of any funds proposed to be reserved for adult vocational and technical education, postsecondary vocational and technical education, tech-prep education, and secondary vocational and technical education after consultation with the State agency responsible for supervision of community colleges, technical institutes, or other 2-year postsecondary institutions primarily engaged in providing postsecondary vocational and technical education, and the State agency responsible forsecondary education. If a State agency finds that a portion of the final State plan is objectionable, the State agency shall file such objections with the eligible agency. The eligible agency shall respond to any objections of the State agency in the State plan submitted to the Secretary.
 
 #### (4) Timeframe
 

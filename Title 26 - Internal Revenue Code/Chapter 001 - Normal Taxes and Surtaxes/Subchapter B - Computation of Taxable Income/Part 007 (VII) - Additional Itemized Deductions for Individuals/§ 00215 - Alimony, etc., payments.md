@@ -30,7 +30,3 @@ No deduction shall be allowed under this section with respect to any payment if,
 
 Amendment by Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, with express provision for application of amendment to modification; and amendment of subsec. (c) by Pub. L. 98–369 applicable to payments made after Dec. 31, 1984, see section 422(e) of Pub. L. 98–369, set out as a note under section 71 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 71, 6724 of this title.
-

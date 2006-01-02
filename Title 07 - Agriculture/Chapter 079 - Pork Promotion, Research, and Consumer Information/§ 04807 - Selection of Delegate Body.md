@@ -16,7 +16,7 @@
 
 (3)(A) Notice of each such election shall be given by the Secretary—
 
-&emsp;(i) by publication in a newspaper or newspapers of general circulation in each State,and in pork production and agriculture trade publications, at least 1 week prior to the election; and
+&emsp;(i) by publication in a newspaper or newspapers of general circulation in each State, and in pork production and agriculture trade publications, at least 1 week prior to the election; and
 
 &emsp;(ii) in any other reasonable manner determined by the Secretary.
 

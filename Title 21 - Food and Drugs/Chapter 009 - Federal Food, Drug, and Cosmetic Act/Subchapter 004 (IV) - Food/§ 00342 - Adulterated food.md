@@ -18,7 +18,7 @@ If it is, or it bears or contains, a color additive which is unsafe within the m
 
 If it is confectionery, and—
 
-&emsp;(1) has partially or completely imbedded therein any nonnutritive object, except that this subparagraph shall not apply in the caseof any nonnutritive object if, in the judgment of the Secretary as provided by regulations, such object is of practical functional value to the confectionery product and would not render the product injurious or hazardous to health;
+&emsp;(1) has partially or completely imbedded therein any nonnutritive object, except that this subparagraph shall not apply in the case of any nonnutritive object if, in the judgment of the Secretary as provided by regulations, such object is of practical functional value to the confectionery product and would not render the product injurious or hazardous to health;
 
 &emsp;(2) bears or contains any alcohol other than alcohol not in excess of one-half of 1 per centum by volume derived solely from the use of flavoring extracts, except that this clause shall not apply to confectionery which is introduced or delivered for introduction into, or received or held for sale in, interstate commerce if the sale of such confectionery is permitted under the laws of the State in which such confectionery is intended to be offered for sale;
 
@@ -58,13 +58,19 @@ If it is oleomargarine or margarine or butter and any of the raw material used t
 
 If it is an article of food imported or offered for import into the United States and the article of food has previously been refused admission under section 381(a) of this title, unless the person reoffering the article affirmatively establishes, at the expense of the owner or consignee of the article, that the article complies with the applicable requirements of this chapter, as determined by the Secretary.
 
-(June 25, 1938, ch. 675, §402, 52 Stat. 1046; Mar. 16, 1950, ch. 61, §3(d), 64 Stat. 21; July 22, 1954, ch. 559, §2, 68 Stat. 511; July 9, 1956, ch. 530, 70 Stat. 512; Pub. L. 85–929, §3(a), (b), Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–2, Mar. 17, 1959, 73 Stat. 3; Pub. L. 86–618, title I, §§102(a)(1), (2), 105(c), July 12, 1960, 74 Stat. 397, 398, 404; Pub. L. 89–477, June 29, 1966, 80 Stat. 231; Pub. L. 90–399, §104, July 13, 1968, 82 Stat. 352; Pub. L. 99–252, §10, Feb. 27, 1986, 100 Stat. 35; Pub. L. 102–571, title I, §107(4), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(i), Aug. 13, 1993, 107 Stat. 776; Pub. L. 103–417, §§4, 9, Oct. 25, 1994, 108 Stat. 4328, 4332; Pub. L. 104–170, title IV, §404, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 107–188, title III, §309, June 12, 2002, 116 Stat. 673.)
+#### (i) Noncompliance with sanitary transportation practices
+
+If it is transported or offered for transport by a shipper, carrier by motor vehicle or rail vehicle, receiver, or any other person engaged in the transportation of food under conditions that are not in compliance with regulations promulgated under section 350e of this title.
+
+(June 25, 1938, ch. 675, §402, 52 Stat. 1046; Mar. 16, 1950, ch. 61, §3(d), 64 Stat. 21; July 22, 1954, ch. 559, §2, 68 Stat. 511; July 9, 1956, ch. 530, 70 Stat. 512; Pub. L. 85–929, §3(a), (b), Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–2, Mar. 17, 1959, 73 Stat. 3; Pub. L. 86–618, title I, §§102(a)(1), (2), 105(c), July 12, 1960, 74 Stat. 397, 398, 404; Pub. L. 89–477, June 29, 1966, 80 Stat. 231; Pub. L. 90–399, §104, July 13, 1968, 82 Stat. 352; Pub. L. 99–252, §10, Feb. 27, 1986, 100 Stat. 35; Pub. L. 102–571, title I, §107(4), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(i), Aug. 13, 1993, 107 Stat. 776; Pub. L. 103–417, §§4, 9, Oct. 25, 1994, 108 Stat. 4328, 4332; Pub. L. 104–170, title IV, §404, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 107–188, title III, §309, June 12, 2002, 116 Stat. 673; Pub. L. 109–59, title VII, §7202(a), Aug. 10, 2005, 119 Stat. 1911.)
 
 #### Amendments
 
+2005—Par. (i). Pub. L. 109–59 added par. (i).
+
 2002—Par. (h). Pub. L. 107–188 added par. (h).
 
-1996—Par. (a). Pub. L. 104–170 added subpar. (2) and struck out former subpar. (2) which read as follows: “(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; (iii) a color additive; or (iv) a new animal drug) which is unsafe within the meaning of section 346 of this title, or (B) if it is a raw agricultural commodity and it bears or contains a pesticidechemical which is unsafe within the meaning of section 346a(a) of this title, or (C) if it is, or if it bears or contains, any food additive which is unsafe within the meaning of section 348 of this title: <i>Provided</i>, That where a pesticide chemical has been used in or on a raw agricultural commodity in conformity with an exemption granted or a tolerance prescribed under section 346a of this title and such raw agricultural commodity has been subjected to processing such as canning, cooking, freezing, dehydrating, or milling, the residue of such pesticide chemical remaining in or on such processed food shall, notwithstanding the provisions of sections 346 and 348 of this title, not be deemed unsafe if such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice and the concentration of such residue in the processed food when ready to eat is not greater than the tolerance prescribed for the raw agricultural commodity, or (D) if it is, or it bears or contains, a new animal drug (or conversion product thereof) which is unsafe within the meaning of section 360b of this title;”. That part of Pub. L. 104–170 which directed the substitution of “or (3) if it consists” for “(3) if it consists” was executed by making the substitution for “(3) If it consists” to reflect the probable intent of Congress.
+1996—Par. (a). Pub. L. 104–170 added subpar. (2) and struck out former subpar. (2) which read as follows: “(2)(A) if it bears or contains any added poisonous or added deleterious substance (other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; (iii) a color additive; or (iv) a new animal drug) which is unsafe within the meaning of section 346 of this title, or (B) if it is a raw agricultural commodity and it bears or contains a pesticide chemical which is unsafe within the meaning of section 346a(a) of this title, or (C) if it is, or if it bears or contains, any food additive which is unsafe within the meaning of section 348 of this title: <i>Provided</i>, That where a pesticide chemical has been used in or on a raw agricultural commodity in conformity with an exemption granted or a tolerance prescribed under section 346a of this title and such raw agricultural commodity has been subjected to processing such as canning, cooking, freezing, dehydrating, or milling, the residue of such pesticide chemical remaining in or on such processed food shall, notwithstanding the provisions of sections 346 and 348 of this title, not be deemed unsafe if such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice and the concentration of such residue in the processed food when ready to eat is not greater than the tolerance prescribed for the raw agricultural commodity, or (D) if it is, or it bears or contains, a new animal drug (or conversion product thereof) which is unsafe within the meaning of section 360b of this title;”. That part of Pub. L. 104–170 which directed the substitution of “or (3) if it consists” for “(3) if it consists” was executed by making the substitution for “(3) If it consists” to reflect the probable intent of Congress.
 
 1994—Par. (f). Pub. L. 103–417, §4, added par. (f).
 
@@ -86,7 +92,7 @@ Par. (d)(3). Pub. L. 103–80, §3(i)(3), substituted “, except that this sub
 
 1960—Par. (a). Pub. L. 86–618, §102(a)(1), substituted “other than one which is (i) a pesticide chemical in or on a raw agricultural commodity; (ii) a food additive; or (iii) a color additive” for “(except a pesticide chemical in or on a raw agricultural commodity and except a food additive)” in cl. (2)(A).
 
-Par. (c). Pub. L. 86–618, §102(a)(2), amended par. (c) generally, substituting provisions deeming a food adulterated if it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376 of this title for provisions which related to food that bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 346 of this title, and struck out provisos which related to the use of color on oranges.
+Par. (c). Pub. L. 86–618, §102(a)(2), amended par. (c) generally, substituting provisions deeming a food adulterated if it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376 ofthis title for provisions which related to food that bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 346 of this title, and struck out provisos which related to the use of color on oranges.
 
 Par. (d). Pub. L. 86–618, §105(c), substituted “authorized coloring” for “harmless coloring”.
 
@@ -99,6 +105,10 @@ Par. (d). Pub. L. 86–618, §105(c), substituted “authorized coloring” for 
 1954—Par. (a)(2). Act July 22, 1954, provided in the case of any raw agricultural commodity bearing or containing a pesticide chemical, that such commodity shall be deemed to be adulterated if such pesticide chemical is unsafe within the meaning of section 346a of this title.
 
 1950—Par. (e). Act Mar. 16, 1950, added par. (e).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 7204 of Pub. L. 109–59, set out as a note under section 331 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -120,7 +130,7 @@ Section 6 of Pub. L. 85–929, as amended by Pub. L. 87–19, §2, Apr. 7, 1961,
 
 “(b) Except as provided in subsection (c) of this section, section 3 of this Act \[amending this section and section 346 of this title\] shall take effect on the one hundred and eightieth day after the date of enactment of this Act \[Sept. 6, 1958\].
 
-“(c) With respect to any particular commercial use of a food additive, if such use was made of such additivebefore January 1, 1958, section 3 of this Act \[amending this section and section 346 of this title\] shall take effect—
+“(c) With respect to any particular commercial use of a food additive, if such use was made of such additive before January 1, 1958, section 3 of this Act \[amending this section and section 346 of this title\] shall take effect—
 
 &emsp;“(1) Either (A) one year after the effective date established in subsection (b) of this section, or (B) at the end of such additional period (but not later than two years from such effective date established in subsection (b)) as the Secretary of Health, Education, and Welfare \[now Health and Human Services\] may prescribe on the basis of a finding that such extension involves no undue risk to the public health and that conditions exist which necessitate the prescribing of such an additional period, or
 
@@ -150,7 +160,7 @@ Pub. L. 88–625, §1, Oct. 3, 1964, 78 Stat. 1002, provided: “That this Act \
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Domestic Fish or Fish Product Compliance With Food Safety Standards or Procedures Deemed To Have Met Requirements for Federal Commodity Purchase Programs
 

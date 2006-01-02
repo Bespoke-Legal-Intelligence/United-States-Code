@@ -6,7 +6,7 @@ For purposes of carrying out this chapter, there are authorized to be appropriat
 
 #### (b) Eldercare Locator Service
 
-There are authorized to be appropriated to carry out section 3012(a)(24) <sup>2</sup> of this title (relating to the National Eldercare Locator Service)such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out section 3012(a)(24) <sup>2</sup> of this title (relating to the National Eldercare Locator Service) such sums as may be necessary for fiscal year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 #### (c) Pension counseling and information programs
 

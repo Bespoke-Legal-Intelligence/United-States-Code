@@ -48,7 +48,3 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7103, 7323 of this title.
-

@@ -22,7 +22,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;(5) such option by its terms is not transferable by such individual otherwise than by will or the laws of descent and distribution, and is exercisable, during his lifetime, only by him; and
 
-&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined votingpower of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
+&emsp;(6) such individual, at the time the option is granted, does not own stock possessing more than 10 percent of the total combined voting power of all classes of stock of the employer corporation or of its parent or subsidiary corporation.
 
 > Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option.
 
@@ -36,7 +36,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;If—
 
-&emsp;&emsp;(A) an individual who has acquired a share of stock by the exercise of an incentive stock option makes a disposition of such share within either of the periods described in subsection (a)(1), and
+&emsp;&emsp;(A) an individual who has acquired a share of stock by the exercise of an incentivestock option makes a disposition of such share within either of the periods described in subsection (a)(1), and
 
 &emsp;&emsp;(B) such disposition is a sale or exchange with respect to which a loss (if sustained) would be recognized to such individual,
 
@@ -88,7 +88,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 #### Prior Provisions
 
-A prior section 422, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 64; amended Pub. L. 94–455, title VI, §603(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1574, 1834; Pub. L. 96–589, §6(i)(3), Dec. 24, 1980, 94 Stat. 3410, related to qualified stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(20), Nov. 5, 1990, 104 Stat. 1388–521. For savings provision, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+A prior section 422, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 64; amended Pub. L. 94–455, title VI, §603(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1574, 1834; Pub. L. 96–589, §6(i)(3), Dec. 24, 1980, 94 Stat. 3410, related to qualified stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(20), Nov. 5, 1990, 104 Stat. 1388–521. For savings provision, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Amendments
 
@@ -180,7 +180,7 @@ Changes in terms of options.—In the case of an option granted on or after Janu
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Treatment of Options as Incentive Stock Options
 
@@ -189,8 +189,4 @@ Section 1003(d)(1)(B) of Pub. L. 100–647 provided that: “In the case of an o
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 421, 424, 1042, 6039 of this title.
 

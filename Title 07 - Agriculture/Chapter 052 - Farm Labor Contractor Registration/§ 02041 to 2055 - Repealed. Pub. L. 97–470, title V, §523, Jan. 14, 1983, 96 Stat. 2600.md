@@ -84,7 +84,7 @@ Section 2041, Pub. L. 88–582, §2, Sept. 7, 1964, 78 Stat. 920; Pub. L. 93–5
 
 Section 2042, Pub. L. 88–582, §3, Sept. 7, 1964, 78 Stat. 920; Pub. L. 93–518, §§2, 3, Dec. 7, 1974, 88 Stat. 1652, 1653; Pub. L. 94–259, §2, Apr. 5, 1976, 90 Stat. 314; Pub. L. 94–561, §6, Oct. 19, 1976, 90 Stat. 2644; Pub. L. 95–562, §4, Oct. 25, 1978, 92 Stat. 2382, defined terms used in Farm Labor Contractor Registration Act of 1963.
 
-Section 2043, Pub. L. 88–582, §4, Sept. 7, 1964, 78 Stat. 921; Pub. L. 93–518, §4, Dec. 7, 1974, 88 Stat. 1653, related to certificates of registration, regular employees of farm contractors, and period of denial of Federal Employment Service.
+Section 2043, Pub. L. 88–582, §4, Sept. 7, 1964, 78 Stat. 921; Pub. L. 93–518, §4, Dec. 7, 1974, 88 Stat. 1653, relatedto certificates of registration, regular employees of farm contractors, and period of denial of Federal Employment Service.
 
 Section 2044, Pub. L. 88–582, §5, Sept. 7, 1964, 78 Stat. 921; Pub. L. 93–518, §§5–8, Dec. 7, 1974, 88 Stat. 1653–1655, provided for issuance of certificates of registration, covering in: subsec. (a), persons qualified; subsec. (b), refusal to issue certificates, suspension, revocation, and refusal to renew; subsec. (c), transfer or assignment of certificates, period of effectiveness, and renewal; and subsec. (d), change of address notice, public central registry, and documentation of vehicles for transportation and real property for housing of migrant workers.
 

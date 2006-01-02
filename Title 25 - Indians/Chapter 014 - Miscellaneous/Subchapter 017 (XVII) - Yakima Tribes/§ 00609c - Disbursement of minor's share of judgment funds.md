@@ -18,7 +18,7 @@ For purposes of this section and section 609c–1 of this title, the term—
 
 #### (b) Disbursement to parent of minor
 
-Notwithstanding any provision of the Act of October 19, 1973 (87 Stat. 466) \[25 U.S.C. 1401 et seq.\], the Act of March 12, 1968 (82 Stat. 47), orany other law, or any regulation or plan promulgated pursuant thereto, the minor's share of judgment funds heretofore or hereafter awarded by the Indian Claims Commission or the United States Court of Claims to a tribe may be disbursed to a parent of such minor pursuant to this section and section 609c–1 of this title.
+Notwithstanding any provision of the Act of October 19, 1973 (87 Stat. 466) \[25 U.S.C. 1401 et seq.\], the Act of March 12, 1968 (82 Stat. 47), or any other law, or any regulation or plan promulgated pursuant thereto, the minor's share of judgment funds heretofore or hereafter awarded by the Indian Claims Commission or the United States Court of Claims to a tribe may be disbursed to a parent of such minor pursuant to this section and section 609c–1 of this title.
 
 #### (c) Disbursements under plan for best interest of minor
 

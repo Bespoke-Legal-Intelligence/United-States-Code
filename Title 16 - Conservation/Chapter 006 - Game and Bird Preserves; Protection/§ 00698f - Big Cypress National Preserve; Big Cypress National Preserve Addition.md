@@ -6,7 +6,7 @@ In order to assure the preservation, conservation, and protection of the natural
 
 #### (b) Location; boundaries; publication in Federal Register; area
 
-The Big Cypress National Preserve (hereafter referred to as the “preserve”) shall comprise thearea generally depicted on the map entitled “Big Cypress National Preserve”, dated November 1971 and numbered BC–91,001, which shall be on file and available for public inspection in the Offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and shall be filed with appropriate offices of Collier, Monroe, and Dade Counties in the State of Florida. The Secretary of the Interior (hereafter referred to as the “Secretary”) shall, as soon as practicable, publish a detailed description of the boundaries of the preserve in the Federal Register which shall include not more than five hundred and seventy thousand acres of land and water.
+The Big Cypress National Preserve (hereafter referred to as the “preserve”) shall comprise the area generally depicted on the map entitled “Big Cypress National Preserve”, dated November 1971 and numbered BC–91,001, which shall be on file and available for public inspection in the Offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and shall be filed with appropriate offices of Collier, Monroe, and Dade Counties in the State of Florida. The Secretary of the Interior (hereafter referred to as the “Secretary”) shall, as soon as practicable, publish a detailed description of the boundaries of the preserve in the Federal Register which shall include not more than five hundred and seventy thousand acres of land and water.
 
 #### (c) Methods of acquisition of land; prerequisites to Federal appropriations; improved property; oil and gas rights; appraisal of property; transfer of Federal property to Secretary
 
@@ -18,7 +18,7 @@ The Secretary is authorized to acquire by donation, purchase with donated or app
 
 (2) Except as provided in paragraph (3), if the State of Florida transfers to the Secretary lands within the Addition, the Secretary shall pay to or reimburse the State of Florida (out of funds appropriated for such purpose) an amount equal to 80 percent of the total costs to the State of Florida of acquiring such lands.
 
-(3) The amount described in paragraph (2) shall be reduced by an amount equal to 20 percent of the amount of the total cost incurred by the Secretary in acquiring lands in the Addition other than from the State of Florida.
+(3) The amount described in paragraph (2) shall be reduced by an amount equal to 20 percent of the amount of the total cost incurred bythe Secretary in acquiring lands in the Addition other than from the State of Florida.
 
 (4) For purposes of this subsection, the term “total cost” means that amount of the total acquisition costs (including the value of exchanged or donated lands) less the amount of the costs incurred by the Federal Highway Administration and the Florida Department of Transportation, including severance damages paid to private property owners as a result of the construction of Interstate 75.
 

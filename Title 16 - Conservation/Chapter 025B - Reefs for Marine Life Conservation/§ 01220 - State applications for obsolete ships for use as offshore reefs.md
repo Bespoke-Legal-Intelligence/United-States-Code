@@ -10,7 +10,7 @@ A State shall apply for obsolete ships under this chapter in such manner and for
 
 #### (c) Copies to Federal officers for official comments and views
 
-Before taking any action with respect to an application submitted under this chapter, theSecretary shall provide copies of the application to the Secretary of the Interior, the Secretary of Defense, and any other appropriate Federal officer, and shall consider comments and views of such officers with respect to the application.
+Before taking any action with respect to an application submitted under this chapter, the Secretary shall provide copies of the application to the Secretary of the Interior, the Secretary of Defense, and any other appropriate Federal officer, and shall consider comments and views of such officers with respect to the application.
 
 (Pub. L. 92–402, §3, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, §207(1), (2), Nov. 8, 1984, 98 Stat. 3397.)
 

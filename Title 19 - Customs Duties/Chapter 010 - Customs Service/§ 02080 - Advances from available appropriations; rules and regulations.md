@@ -14,7 +14,7 @@ The customs laws, referred to in text, are classified generally to this title.
 
 #### Codification
 
-“Section 3324(a) and (b) of title 31” substituted in text for “section 3648 of the Revised Statutes of the United States (U.S.C., title 31, sec. 529)” on authority ofPub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 3324(a) and (b) of title 31” substituted in text for “section 3648 of the Revised Statutes of the United States (U.S.C., title 31, sec. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 529f of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
 

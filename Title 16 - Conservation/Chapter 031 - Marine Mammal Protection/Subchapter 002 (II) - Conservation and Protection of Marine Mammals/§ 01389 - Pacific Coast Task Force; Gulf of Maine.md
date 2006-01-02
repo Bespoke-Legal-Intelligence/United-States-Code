@@ -24,7 +24,7 @@ Notwithstanding any other provision of this subchapter, the Secretary may permit
 
 (3) Within 60 days after establishment, and after reviewing public comments in response to the Federal Register notice under paragraph (1), the Pinniped-Fishery Interaction Task Force shall—
 
-&emsp;(A) recommend to the Secretary whether to approve or deny the proposed intentional lethal taking of the pinniped or pinnipeds, including along with the recommendation a description of the specific pinniped individual orindividuals, the proposed location, time, and method of such taking, criteria for evaluating the success of the action, and the duration of the intentional lethal taking authority; and
+&emsp;(A) recommend to the Secretary whether to approve or deny the proposed intentional lethal taking of the pinniped or pinnipeds, including along with the recommendation a description of the specific pinniped individual or individuals, the proposed location, time, and method of such taking, criteria for evaluating the success of the action, and the duration of the intentional lethal taking authority; and
 
 &emsp;(B) suggest nonlethal alternatives, if available and practicable, including a recommended course of action.
 

@@ -1,6 +1,6 @@
 ### §2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps
 
-Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the value of $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
+Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the valueof $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
 
 Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any falsely made, forged, altered, or counterfeited securities or tax stamps, or pledges or accepts as security for a loan any falsely made, forged, altered, or counterfeited securities or tax stamps, moving as, or which are a part of, or which constitute interstate or foreign commerce, knowing the same to have been so falsely made, forged, altered, or counterfeited; or
 

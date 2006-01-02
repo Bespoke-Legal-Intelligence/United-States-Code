@@ -26,3 +26,4 @@
 - [&sect; 04028 - John H. Chafee Coastal Barrier Resources System](%C2%A7%2004028%20-%20John%20H.%20Chafee%20Coastal%20Barrier%20Resources%20System.md)
 - [&sect; 04029 - Colorado River Floodway](%C2%A7%2004029%20-%20Colorado%20River%20Floodway.md)
 - [&sect; 04030 - Grants for repetitive insurance claims properties](%C2%A7%2004030%20-%20Grants%20for%20repetitive%20insurance%20claims%20properties.md)
+- [&sect; 04031 - Treatment of certain payments](%C2%A7%2004031%20-%20Treatment%20of%20certain%20payments.md)

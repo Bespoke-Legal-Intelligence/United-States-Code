@@ -98,7 +98,3 @@ Amendment by Pub. L. 91–673 effective on first day of first calendar month whi
 
 Amendment by Pub. L. 89–44 effective July 1, 1965, see section 807(c) of Pub. L. 89–44, set out as a note under section 5002 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5051, 5054, 5092, 5222, 5401, 5674 of this title.
-

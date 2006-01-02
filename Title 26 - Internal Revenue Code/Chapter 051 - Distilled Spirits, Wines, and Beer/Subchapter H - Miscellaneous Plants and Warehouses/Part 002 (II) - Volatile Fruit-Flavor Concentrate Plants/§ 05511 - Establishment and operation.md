@@ -28,7 +28,3 @@ Amendment by Pub. L. 88–653 effective on first day of second month which begin
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5001, 5003, 5382 of this title.
-

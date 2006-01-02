@@ -68,7 +68,7 @@ Section 52(a) of act Aug. 10, 1956, provided that: “Section 541 of title 10, U
 
 Section 44 of act Aug. 10, 1956, provided that:
 
-“(a) Notwithstanding any other provision of law, a cadet who graduates from the United States Military Academy may, upon graduation and before the effective date of section 541 of title 10, United States Code, be appointed a second lieutenant in the Regular Air Force.
+“(a) Notwithstanding any other provision of law, a cadet who graduates from the United States MilitaryAcademy may, upon graduation and before the effective date of section 541 of title 10, United States Code, be appointed a second lieutenant in the Regular Air Force.
 
 “(b) Notwithstanding any other provision of law, no person who was a cadet at the United States Military Academy may be originally appointed in a commissioned grade in the Regular Air Force under this section before the date on which his classmates at the Academy are graduated and appointed as officers. No person who was a cadet at, but did not graduate from, the Academy may be credited, upon appointment as a commissioned officer of the Regular Air Force, with longer service than that credited to any member of his class at the Academy whose service in the Air Force, or in the Army and the Air Force, has been continuous since graduation.
 
@@ -77,8 +77,4 @@ Section 44 of act Aug. 10, 1956, provided that:
 “(d) Rank among graduates of each class of the United States Military Academy who, upon graduation, are appointed in the Regular Air Force under this section shall be fixed under regulations prescribed by the Secretary of the Air Force.
 
 “(e) The authorized strength in any regular grade is automatically increased to the minimum extent necessary to give effect to each appointment made under this section. An authorized strength so increased is increased for no other purpose, and while he holds that grade the officer whose appointment caused the increase is counted for the purpose of determining when other appointments, not under this section, may be made in that grade.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 583 of this title.
 

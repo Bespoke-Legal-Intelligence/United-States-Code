@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To the extent consistent with the number of eligible children identified under section 6315(b) of this title in the school district served by a local educational agency who are enrolled in private elementary schools and secondary schools, a local educational agencyshall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment) that address their needs, and shall ensure that teachers and families of the children participate, on an equitable basis, in services and activities developed pursuant to sections 6318 and 6319 of this title.
+&emsp;To the extent consistent with the number of eligible children identified under section 6315(b) of this title in the school district served by a local educational agency who are enrolled in private elementary schools and secondary schools, a local educational agency shall, after timely and meaningful consultation with appropriate private school officials, provide such children, on an equitable basis, special educational services or other benefits under this part (such as dual enrollment, educational radio and television, computer equipment and materials, other technology, and mobile educational services and equipment) that address their needs, and shall ensure that teachers and families of the children participate, on an equitable basis, in services and activities developed pursuant to sections 6318 and 6319 of this title.
 
 #### (2) Secular, neutral, nonideological
 
@@ -54,7 +54,7 @@
 
 #### (4) Documentation
 
-&emsp;Each local educational agency shall maintain in the agency's records and provide to the State educational agency involved a written affirmation signed by officials of each participating private school that the consultation required by this section has occurred. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has taken place to the State educational agency.
+&emsp;Each local educational agency shall maintain in the agency's records and provide to theState educational agency involved a written affirmation signed by officials of each participating private school that the consultation required by this section has occurred. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has taken place to the State educational agency.
 
 #### (5) Compliance
 

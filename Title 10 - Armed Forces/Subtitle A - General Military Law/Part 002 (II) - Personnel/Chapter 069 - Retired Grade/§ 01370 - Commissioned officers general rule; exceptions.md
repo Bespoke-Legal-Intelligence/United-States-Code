@@ -14,6 +14,8 @@ Rule for Retirement in Highest Grade Held Satisfactorily.—(1) Unless entitled 
 
 (E) In the case of a grade below the grade of lieutenant general or vice admiral, the number of members of one of the armed forces in that grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to two percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
 
+(F) Notwithstanding subparagraph (E), during the period ending on December 31, 2007, the number of lieutenant colonels and colonels of the Air Force, and the number of commanders and captains of the Navy, for whom a reduction is made under this section during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed four percent of the authorized active-duty strength for that fiscal year for officers of that armed force in that grade.
+
 (3) A reserve or temporary officer who is notified that he will be released from active duty without his consent and thereafter requests retirement under section 3911, 6323, or 8911 of this title and is retired pursuant to that request is considered for purposes of this section, to have been retired involuntarily. An officer retired pursuant to section 1186(b)(1) of this title is considered for purposes of this section to have been retired voluntarily.
 
 (b)
@@ -36,7 +38,7 @@ Grades.—(1) An officer who is serving in or has served in the grade of general
 
 (3)(A) The Secretary of Defense may delegate authority to make a certification with respect to an officer under paragraph (1) only to the Under Secretary of Defense for Personnel and Readiness or the Deputy Under Secretary of Defense for Personnel and Readiness.
 
-(B) If authority is delegated under subparagraph (A) and, in the course of consideration of an officer for a certification under paragraph (1), the Under Secretary or (if such authority is delegated to both the Under and Deputy Under Secretary) the Deputy Under Secretary makes a determination described in subparagraph (C) with respect to that officer, the Under Secretary orDeputy Under Secretary, as the case may be, may not exercise the delegated authority in that case, but shall refer the matter to the Secretary of Defense, who shall personally determine whether to issue a certification under paragraph (1) with respect to that officer.
+(B) If authority is delegated under subparagraph (A) and, in the course of consideration of an officer for a certification under paragraph (1), the Under Secretary or (if such authority is delegated to both the Under and Deputy Under Secretary) the Deputy Under Secretary makes a determination described in subparagraph (C) with respect to that officer, the Under Secretary or Deputy Under Secretary, as the case may be, may not exercise the delegated authority in that case, but shall refer the matter to the Secretary of Defense, who shall personally determine whether to issue a certification under paragraph (1) with respect to that officer.
 
 (C) A determination referred to in subparagraph (B) is a determination that there is potentially adverse information concerning an officer and that such information has not previously been submitted to the Senate in connection with the consideration by the Senate of a nomination of that officer for an appointment for which the advice and consent of the Senate is required.
 
@@ -80,9 +82,11 @@ Advance Notice to Congressional Committees.—(1) In the case of an officer to b
 
 (3) In the case of an officer to whom subsection (c) applies, the requirement for notification under paragraph (1) is satisfied if the notification is included in the certification submitted with respect to that officer under paragraph (1) of such subsection.
 
-(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, §505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, §506, Nov. 24, 2003, 117 Stat. 1457.)
+(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093; Pub. L. 107–314, div. A, title V, §505, Dec. 2, 2002, 116 Stat. 2533; Pub. L. 108–136, div. A, title V, §506, Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §501, Jan. 6, 2006, 119 Stat. 3225.)
 
 #### Amendments
+
+2006—Subsec. (a)(2)(F). Pub. L. 109–163 added subpar. (F).
 
 2003—Subsec. (a)(2)(A). Pub. L. 108–136, §506(a), struck out “in the case of retirements effective during the period beginning on October 1, 2002, and ending on December 31, 2003” after “two years”.
 
@@ -169,8 +173,4 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions relating to the time-in-grade requirement for voluntary retirement of officers not subsequently promoted, see section 629 of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1406, 1407, 3961, 6151, 6323, 6325, 6383, 8961, 12771 of this title; title 33 section 3071; title 42 section 213a.
 

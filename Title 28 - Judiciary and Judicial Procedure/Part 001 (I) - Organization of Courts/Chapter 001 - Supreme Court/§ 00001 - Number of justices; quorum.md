@@ -10,6 +10,14 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2005 Amendments
+
+Pub. L. 109–63, §1, Sept. 9, 2005, 119 Stat. 1993, provided that: “This Act \[amending sections 48, 141, 152, and 636 of this title\] may be cited as the ‘Federal Judiciary Emergency Special Sessions Act of 2005’.”
+
+Pub. L. 109–8, title XII, §1223(a), Apr. 20, 2005, 119 Stat. 196, provided that: “This section \[amending section 152 of this title and enacting provisions set out as notes under section 152 of this title\] may be cited as the ‘Bankruptcy Judgeship Act of 2005’.”
+
+Pub. L. 109–2, §1(a), Feb. 18, 2005, 119 Stat. 4, provided that: “This Act \[enacting chapter 114 and section 1453 of this title, amending sections 1332, 1335, and 1603 of this title, and enacting provisions set out as notes under sections 1332, 1711, 2071, and 2074 of this title\] may be cited as the ‘Class Action Fairness Act of 2005’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–273, div. C, title I, §11020(a), Nov. 2, 2002, 116 Stat. 1826, provided that: “This section \[enacting sections 1369, 1697, and 1785 of this title, amending sections 1391 and 1441 of this title, and enacting provisions set out as a note under section 1369 of this title\] may be cited as the ‘Multiparty, Multiforum Trial Jurisdiction Act of 2002’.”
@@ -22,11 +30,11 @@ Pub. L. 106–518, §1(a), Nov. 13, 2000, 114 Stat. 2410, provided that: “This
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Act \[amending sections 651 to 658 of this title, enacting provisions set out as notes under section 651 of this title, and repealing provisions set out as a note under section 652 of this title\] may be cited as the ‘Alternative Dispute Resolution Act of 1998’.”
+Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Act \[amending sections 651 to 658 ofthis title, enacting provisions set out as notes under section 651 of this title, and repealing provisions set out as a note under section 652 of this title\] may be cited as the ‘Alternative Dispute Resolution Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–317, §1(a), Oct. 19, 1996, 110 Stat. 3847, provided that: “This Act \[enacting sections 258 and 1932 of this title, amending sections 112, 125, 134, 251, 253, 331, 332, 371, 376, 601, 621, 627, 636, 753, 954, 1332, 1404, 1406, 1442, 1446, 1827, 1914, 1931, and 1963 of this title, sections 3154, 3401, and 3603 of Title 18, Crimes and Criminal Procedure, sections 1983 and 1988 of Title 42, The Public Health and Welfare, and sections 719, 743, 745, 1104, and 1105 of Title 45, Railroads, enacting provisions set out as notes under sections 258, 1332, 1404, 1827, 1914, 1931,and 2412 of this title and section 719 of Title 45, and amending provisions set out as notes under sections 133, 152, 471, and 1913 of this title\] may be cited as the ‘Federal Courts Improvement Act of 1996’.”
+Pub. L. 104–317, §1(a), Oct. 19, 1996, 110 Stat. 3847, provided that: “This Act \[enacting sections 258 and 1932 of this title, amending sections 112, 125, 134, 251, 253, 331, 332, 371, 376, 601, 621, 627, 636, 753, 954, 1332, 1404, 1406, 1442, 1446, 1827, 1914, 1931, and 1963 of this title, sections 3154, 3401, and 3603 of Title 18, Crimes and Criminal Procedure, sections 1983 and 1988 of Title 42, The Public Health and Welfare, and sections 719, 743, 745, 1104, and 1105 of Title 45, Railroads, enacting provisions set out as notes under sections 258, 1332, 1404, 1827, 1914, 1931, and 2412 of this title and section 719 of Title 45, and amending provisions set out as notes under sections 133, 152, 471, and 1913 of this title\] may be cited as the ‘Federal Courts Improvement Act of 1996’.”
 
 #### Short Title of 1994 Amendments
 
@@ -78,7 +86,7 @@ Pub. L. 100–191, §1, Dec. 15, 1987, 101 Stat. 1293, provided that: “This Ac
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–657, §1, Nov. 14, 1986, 100 Stat. 3670, provided that: “This Act \[amending sections 90 and 121 of this title and enacting provisions set out as a note under section 121 of this title\] may be cited as the ‘Judicial Housekeeping Act of 1986’.”
+Pub. L. 99–657, §1, Nov. 14, 1986, 100 Stat. 3670, provided that: “This Act \[amending sections 90 and 121 ofthis title and enacting provisions set out as a note under section 121 of this title\] may be cited as the ‘Judicial Housekeeping Act of 1986’.”
 
 Pub. L. 99–570, §1151, Oct. 27, 1986, 100 Stat. 3207–12, provided that: “This subtitle \[subtitle D (§§1151–1153) of title I of Pub. L. 99–570, amending section 524 of this title, section 1963 of Title 18, Crimes and Criminal Procedure, section 1613a of Title 19, Customs Duties, and section 853 of Title 21, Food and Drugs, and repealing section 1613b of Title 19\] may be cited as the ‘Department of Justice Assets Forfeiture Fund Amendments Act of 1986’.”
 

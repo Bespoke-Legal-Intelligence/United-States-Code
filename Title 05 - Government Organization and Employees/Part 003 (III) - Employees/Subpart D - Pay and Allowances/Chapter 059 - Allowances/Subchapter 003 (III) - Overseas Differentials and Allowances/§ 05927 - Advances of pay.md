@@ -20,7 +20,7 @@
 
 (b) For the purpose of this section, the term “country of employment”, as used with respect to an individual under subsection (a)(3), means the country (or other area) outside the United States where such individual is hired (as described in subsection (a)(3)) by the Government.
 
-(Added Pub. L. 96–465, title II, §2310(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 106–113, div.B, §1000(a)(7) \[div. A, title III, §337\], Nov. 29, 1999, 113 Stat. 1536, 1501A–442; Pub. L. 107–228, div. A, title III, §320, Sept. 30, 2002, 116 Stat. 1380.)
+(Added Pub. L. 96–465, title II, §2310(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §337\], Nov. 29, 1999, 113 Stat. 1536, 1501A–442; Pub. L. 107–228, div. A, title III, §320, Sept. 30, 2002, 116 Stat. 1380.)
 
 #### References in Text
 

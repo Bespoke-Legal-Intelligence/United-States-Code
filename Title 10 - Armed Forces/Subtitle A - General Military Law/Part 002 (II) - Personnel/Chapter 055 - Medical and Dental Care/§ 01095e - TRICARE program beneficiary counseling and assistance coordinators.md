@@ -18,7 +18,7 @@ Establishment of Positions.—The Secretary of Defense shall require in regulati
 
 Duties.—The Secretary shall prescribe the duties of the position of beneficiary counseling and assistance coordinator in the regulations required by subsection (a).
 
-(Added Pub. L. 106–65, div. A, title VII, §715(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L.108–136, div. A, title VII, §707, Nov. 24, 2003, 117 Stat. 1529.)
+(Added Pub. L. 106–65, div. A, title VII, §715(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 108–136, div. A, title VII, §707, Nov. 24, 2003, 117 Stat. 1529.)
 
 #### Amendments
 

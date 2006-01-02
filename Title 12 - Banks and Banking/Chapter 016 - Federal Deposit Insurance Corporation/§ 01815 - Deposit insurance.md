@@ -112,7 +112,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(II) from a Savings Association Insurance Fund member to a Bank Insurance Fund member;
 
-&emsp;&emsp;&nbsp;in a transaction in which the deposit is received from a depositor at an insured depository institution for which a receiver has been appointed and the receiving insured depository institution is acting as agent for the Corporation in connectionwith the payment of such deposit to the depositor at the institution for which a receiver has been appointed.
+&emsp;&emsp;&nbsp;in a transaction in which the deposit is received from a depositor at an insured depository institution for which a receiver has been appointed and the receiving insured depository institution is acting as agent for the Corporation in connection with the payment of such deposit to the depositor at the institution for which a receiver has been appointed.
 
 #### (C) Approval during moratorium
 
@@ -122,7 +122,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;(ii) the conversion occurs in connection with the acquisition of a Savings Association Insurance Fund member in default or in danger of default, and the Corporation determines that the estimated financial benefits to the Savings Association Insurance Fund or Resolution Trust Corporation equal or exceed the Corporation's estimate of loss of assessment income to such insurance fund over the remaining balance of the moratorium period established by subparagraph (A), and the Resolution Trust Corporation concurs in the Corporation's determination; or
 
-&emsp;&emsp;&emsp;(iii) the conversion occurs in connection with the acquisition of a Bank Insurance Fund member in default or in danger of default and the Corporation determines that the estimated financial benefits to the Bank Insurance Fund equal or exceed the Corporation's estimate of the loss of assessment income to the insurance fund over the remaining balance of the moratorium period established by subparagraph (A).
+&emsp;&emsp;&emsp;(iii) the conversion occurs in connection with the acquisition of a Bank Insurance Fund member in default or in danger of default and the Corporation determines thatthe estimated financial benefits to the Bank Insurance Fund equal or exceed the Corporation's estimate of the loss of assessment income to the insurance fund over the remaining balance of the moratorium period established by subparagraph (A).
 
 #### (D) Certain transfers deemed to affect insubstantial portion of total deposits
 
@@ -184,7 +184,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (i) Assessments by SAIF
 
-&emsp;&emsp;&emsp;In the case of any acquiring, assuming, or resulting depository institution which is a Bank Insurance Fund member, that portion of the deposits of such member for any semiannual period which is equal to the adjusted attributable deposit amount (determined under subparagraph (C) with respect to the transaction) shall be treated as deposits which are insured by the Savings Association Insurance Fund.
+&emsp;&emsp;&emsp;In the case of any acquiring, assuming, or resulting depository institution which is a Bank Insurance Fund member, that portion of the deposits of such member for any semiannual period which is equal to the adjusted attributable deposit amount\(determined under subparagraph (C) with respect to the transaction) shall be treated as deposits which are insured by the Savings Association Insurance Fund.
 
 #### (ii) Assessments by BIF
 
@@ -228,7 +228,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (G) Allocation of costs in event of default
 
-&emsp;&emsp;If any acquiring, assuming, or resulting depository institution is in default or danger of default at any time before this paragraph ceases to apply, any loss incurred by the Corporation shall be allocated between the Bank Insurance Fund and the Savings Association Insurance Fund, in amounts reflecting the amount of insured deposits of such acquiring, assuming, or resulting depository institution assessed by the Bank InsuranceFund and the Savings Association Insurance Fund, respectively, under subparagraph (B).
+&emsp;&emsp;If any acquiring, assuming, or resulting depository institution is in default or danger of default at any time before this paragraph ceases to apply, any loss incurred by the Corporation shall be allocated between the Bank Insurance Fund and the Savings Association Insurance Fund, in amounts reflecting the amount of insured deposits of such acquiring, assuming, or resulting depository institution assessed by the Bank Insurance Fund and the Savings Association Insurance Fund, respectively, under subparagraph (B).
 
 #### (H) Subsequent approval of conversion transaction
 
@@ -390,7 +390,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (7) Exclusion for institutions acquired in debt collections
 
-&emsp;Any depository institution shall not be treated as commonly controlled, for purposes of this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period as the Corporation may determine after written application by the acquirer, if—
+&emsp;Any depository institution shall not be treated as commonly controlled, for purposes of this subsection, during the 5-year period beginning on the date of an acquisition described in subparagraph (A) or such longer period asthe Corporation may determine after written application by the acquirer, if—
 
 &emsp;&emsp;(A) 1 depository institution controls another by virtue of ownership of voting shares acquired in securing or collecting a debt previously contracted in good faith; and
 
@@ -418,7 +418,35 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(B) 1 depository institution is controlled by another depository institution.
 
-(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491.)
+(Sept. 21, 1950, ch. 967, §2\[5\], 64 Stat. 876; Pub. L. 95–369, §6(c)(7), Sept. 17, 1978, 92 Stat. 616; Pub. L. 97–320, title VII, §703(c), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 101–73, title II, §§201(a), 206(a), Aug. 9, 1989, 103 Stat. 187, 195; Pub. L. 102–242, title I, §115(a), title III, §302(e)(1), (2), title V, §501(a), Dec. 19, 1991, 105 Stat. 2249, 2349, 2388; Pub. L. 102–550, title XVI, §§1605(a)(5)(B), 1607(a), Oct. 28, 1992, 106 Stat. 4085, 4089; Pub. L. 102–558, title III, §§303(b)(6)(B), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–204, §9, Dec. 17, 1993, 107 Stat. 2388; Pub. L. 103–325, title III, §319(b), title VI, §602(a)(2), (3), Sept. 23, 1994, 108 Stat. 2225, 2288; Pub. L. 104–208, div. A, title II, §§2201(a), 2702(i), 2704(d)(14)(B)–(E), Sept. 30, 1996, 110 Stat. 3009–403, 3009–483, 3009–491; Pub. L. 109–173, §8(a)(2)–(6), Feb. 15, 2006, 119 Stat. 3610, 3611.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §8(a)(2)–(6), (b), Feb. 15, 2006, 119 Stat. 3610, 3611, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (b)(5), by striking “the Bank Insurance Fund or the Savings Association Insurance Fund,” and inserting “the Deposit Insurance Fund,”;</i>
+
+<i>(2) in subsection (c)(4), by striking “deposit insurance fund” and inserting “Deposit Insurance Fund”;</i>
+
+<i>(3) in subsection (d), by striking paragraphs (2) and (3) and in paragraph (1):</i>
+
+<i>(A) in subparagraph (A), by striking “reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund as required by section 1817 of this title” and inserting “the reserve ratio of the Deposit Insurance Fund”;</i>
+
+<i>(B) by striking subparagraph (B) and inserting the following:</i>
+
+#### <i>“(2) Fee credited to the Deposit Insurance Fund.—</i>
+
+&emsp;<i>“The fee paid by the depository institution under paragraph (1) shall be credited to the Deposit Insurance Fund.”;</i>
+
+<i>(C) by striking “(1) Uninsured institutions”; and</i>
+
+<i>(D) by redesignating subparagraphs (A) and (C) as paragraphs (1) and (3), respectively, and realigning the margins; and</i>
+
+<i>(4) in subsection (e):</i>
+
+<i>(A) in paragraph (5)(A), by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”; and</i>
+
+<i>(B) by striking paragraph (6) and by redesignating paragraphs (7), (8), and (9) as paragraphs (6), (7), and (8), respectively.</i>
 
 #### References in Text
 
@@ -510,6 +538,10 @@ Subsecs. (d), (e). Pub. L. 101–73, §206(a)(7), added subsecs. (d) and (e).
 
 1978—Pub. L. 95–369 designated existing provision as subsec. (a) and added subsecs. (b) and (c).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 2704(d)(14)(B)–(E) of Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
@@ -537,6 +569,10 @@ Section 305 of Pub. L. 102–558 provided that: “In the event of the enactment
 &emsp;“(3) Paragraphs (1), (2), and (3) of section 1604(b) of such Act \[amending sections 1817, 1834, and 1834a of this title\].
 
 &emsp;“(3) \[sic\] Paragraphs (2) through (7) of section 1605(a) of such Act \[amending sections 1815, 1817, 1818, 1820, 1834, and 1834a of this title and enacting provisions set out as notes under sections 1817, 1834, and 1834a of this title\].”
+
+#### Deposit of Funds Into Deposit Insurance Fund
+
+Pub. L. 109–173, §8(a)(4), Feb. 15, 2006, 119 Stat. 3610, provided in part that: “any funds resulting from the application of such paragraph (2) \[of subsec. (d) of this section\] prior to its repeal \[see 2006 Amendment note above\] shall be deposited into the general fund of the Deposit Insurance Fund”.
 
 #### Newly Insured Thrift Provision
 

@@ -80,7 +80,7 @@ Financial responsibility under this section may be established by any one, or by
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), a claim for which liability may be established under section 2702 of this title may be asserted directly againstany guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
+&emsp;Subject to paragraph (2), a claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke—
 
 &emsp;&emsp;(A) all rights and defenses which would be available to the responsible party under this Act;
 

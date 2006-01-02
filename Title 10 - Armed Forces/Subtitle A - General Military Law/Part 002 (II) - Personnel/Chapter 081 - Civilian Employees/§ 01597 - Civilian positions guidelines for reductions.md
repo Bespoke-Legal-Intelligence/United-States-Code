@@ -42,7 +42,7 @@ Master Plan.—(1) The Secretary of Defense shall include in the materials submi
 
 &emsp;(B) For industrial-type and commercial-type activities funded through the Defense Business Operations Fund, the following information:
 
-&emsp;&emsp;(i) Annual trends in the amount of funded workload for each activity, based upon theaverage number of months of accumulated, funded workload to be performed, or projected to be performed, by the activity.
+&emsp;&emsp;(i) Annual trends in the amount of funded workload for each activity, based upon the average number of months of accumulated, funded workload to be performed, or projected to be performed, by the activity.
 
 &emsp;&emsp;(ii) The extent to which such workload is funded by funds that are appropriated from appropriation accounts and managed through the Defense Business Operations Fund.
 
@@ -118,7 +118,7 @@ Duration.—No incentive may be paid under the pilot program for training commen
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘non-Federal employer’ means an employer that is not an Executive agency, as defined insection 105 of title 5, United States Code, or an entity in the legislative or judicial branch of the Federal Government.
+&emsp;“(1) The term ‘non-Federal employer’ means an employer that is not an Executive agency, as defined in section 105 of title 5, United States Code, or an entity in the legislative or judicial branch of the Federal Government.
 
 &emsp;“(2) The term ‘reduction in force’ has the meaning of that term as used in chapter 35 of such title 5.
 

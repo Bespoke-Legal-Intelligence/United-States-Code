@@ -10,7 +10,7 @@ The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792
 
 #### Effective Date
 
-Section effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as an Effective Date of 1962 Amendment note under section 1301 of this title.
+Section effective only with respect to programs applicable to crops planted for harvest in calendar year 1964or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as an Effective Date of 1962 Amendment note under section 1301 of this title.
 
 #### Inapplicability of Section
 

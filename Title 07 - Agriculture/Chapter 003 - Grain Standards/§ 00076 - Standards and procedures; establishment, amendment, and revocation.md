@@ -6,7 +6,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 #### (b) Notice and opportunity for comment; standards regarding cleanliness of grain
 
-(1) Before establishing, amending, or revoking any standards under this chapter, the Secretary shall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request, an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
+(1) Before establishing, amending, or revoking any standards under this chapter, the Secretary shall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request,an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
 
 (2)(A)(i) If the Secretary determines that the establishment or amendment of standards regarding cleanliness conditions of wheat, corn, barley, sorghum and soybeans that meet the requirements for grade number 3 or better (as set forth in subparagraph (B)) would—
 
@@ -84,7 +84,7 @@ Section 2003 of title XX of Pub. L. 101–624 provided that: “The Administrato
 
 #### Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation
 
-Pub. L. 99–641, title III, §304, Nov. 10, 1986, 100 Stat. 3565, provided that: “Not later than 6 months after the date of enactment of this Act \[Nov. 10, 1986\], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the UnitedStates Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation.”
+Pub. L. 99–641, title III, §304, Nov. 10, 1986, 100 Stat. 3565, provided that: “Not later than 6 months after the date of enactment of this Act \[Nov. 10, 1986\], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the United States Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation.”
 
 #### Study of Uniform End-Use Value Tests for Grain
 

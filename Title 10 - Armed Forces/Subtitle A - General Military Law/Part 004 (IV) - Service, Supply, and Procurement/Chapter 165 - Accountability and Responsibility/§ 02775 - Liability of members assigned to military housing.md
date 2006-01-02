@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 99–167, §802(b)(1), (c)(1), inserted “and the Secretar
 
 Subsec. (c)(1). Pub. L. 99–167, §802(c)(2), substituted “subsection (a)(1), or the cost of any cleaning made necessary by a failure to clean satisfactorily a family housing unit referred to in subsection (a)(2),” for “subsection (a)”.
 
-Subsec. (d). Pub. L. 99–167, §802(b)(2), (c)(3), inserted “or failure to clean satisfactorily a family housing unit” and “, or the operating expenses account of the Coast Guard, as appropriate”.
+Subsec. (d). Pub. L. 99–167, §802(b)(2), (c)(3), inserted “or failure to clean satisfactorily a family housingunit” and “, or the operating expenses account of the Coast Guard, as appropriate”.
 
 Subsec. (e). Pub. L. 99–167, §802(c)(4), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary of Defense shall prescribe regulations to carry out the provisions of this section, including (1) regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence referred to in subsection (a), and (2) regulations providing for limitations of liability, the compromise or waiver of claims, and the collection of amounts owed under this section.”
 
@@ -80,11 +80,7 @@ Section effective Oct. 1, 1980, see section 608 of title VI of Pub. L. 96–418,
 
 Section 801(b) of Pub. L. 98–407 provided that:
 
-“(1) Regulations shall be prescribed under subsection (e) of section 2775 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Aug. 28, 1984\]. That section shall apply with respect to the liability of a member under such section for damage or loss to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit) or for damage or loss caused by a guest of the member or of a dependent of the member to a family housing unit (or the equipment or furnishings ofa family housing unit) only in the case of damage or loss caused on or after the date that such regulations take effect.
+“(1) Regulations shall be prescribed under subsection (e) of section 2775 of title 10, United States Code, as amended by subsection (a), not later than 180 days after the date of the enactment of this Act \[Aug. 28, 1984\]. That section shall apply with respect to the liability of a member under such section for damage or loss to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit) or for damage or loss caused by a guest of the member or of a dependent of the member to a family housing unit (or the equipment or furnishings of a family housing unit) only in the case of damage or loss caused on or after the date that such regulations take effect.
 
 “(2) The authority of the Secretary of Defense under subsection (b) of such section is applicable to any claim of the United States under such section, whether such claim arose before, on, or after the date of the enactment of this Act \[Aug. 28, 1984\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2782 of this title.
 

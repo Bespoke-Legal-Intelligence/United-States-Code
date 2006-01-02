@@ -14,7 +14,7 @@
 
 (d)(1) The Secretary may provide for the acquisition of not more than three facilities for the provision of outpatient services or nursing home care through lease-purchase arrangements on real property under the jurisdiction of the Department of Veterans Affairs.
 
-(2)(A) In carrying out this subsection and notwithstanding any other provision of law, theSecretary may lease, with or without compensation and for a period of not to exceed 35 years, to another party any of the real property described in paragraph (1) of this subsection.
+(2)(A) In carrying out this subsection and notwithstanding any other provision of law, the Secretary may lease, with or without compensation and for a period of not to exceed 35 years, to another party any of the real property described in paragraph (1) of this subsection.
 
 (B) Such real property shall be used as the site of a facility referred to in paragraph (1) of this subsection—
 

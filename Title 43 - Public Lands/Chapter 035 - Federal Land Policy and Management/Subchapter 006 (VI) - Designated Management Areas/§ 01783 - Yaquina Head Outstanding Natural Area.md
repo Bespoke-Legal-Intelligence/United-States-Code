@@ -20,7 +20,7 @@ In order to protect the unique scenic, scientific, educational, and recreational
 
 #### (c) Revocation of 1866 reservation of lands for lighthouse purposes; restoration to public lands status
 
-The reservation of lands for lighthouse purposes made by Executive order of June 8, 1866, of certain lands totaling approximately 18.1 acres, as depicted on the map referred to in subsection (a) of this section, is hereby revoked. The lands referred to in subsection (a) of this section are hereby restored to the status of public lands as defined in section 103(e) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1702) \[43 U.S.C. 1702(e)\], and shall be administered in accordance with the management plan for the area developed pursuant to subsection (b) of this section, except that such lands are hereby withdrawn from settlement, sale, location, or entry, under the public land laws, including the mining laws (30 U.S.C., ch. 2), leasing under the mineral leasing laws (30 U.S.C. 181 et seq.), and disposals under the Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602) \[43 U.S.C. 601 et seq.\].
+The reservation of lands for lighthouse purposes made by Executive order of June 8, 1866, of certain lands totaling approximately 18.1 acres,as depicted on the map referred to in subsection (a) of this section, is hereby revoked. The lands referred to in subsection (a) of this section are hereby restored to the status of public lands as defined in section 103(e) of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1702) \[43 U.S.C. 1702(e)\], and shall be administered in accordance with the management plan for the area developed pursuant to subsection (b) of this section, except that such lands are hereby withdrawn from settlement, sale, location, or entry, under the public land laws, including the mining laws (30 U.S.C., ch. 2), leasing under the mineral leasing laws (30 U.S.C. 181 et seq.), and disposals under the Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602) \[43 U.S.C. 601 et seq.\].
 
 #### (d) Acquisition of lands not already in Federal ownership
 
@@ -48,7 +48,7 @@ The mining laws and the mineral leasing laws, referred to in subsec. (c), are cl
 
 The Materials Act of July 31, 1947, as amended (30 U.S.C. 601, 602), referred to in subsecs. (c) and (d), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
-The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (d), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (d), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Codification
 

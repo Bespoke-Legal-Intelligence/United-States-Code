@@ -6,7 +6,7 @@
 
 &emsp;(A) A report on health care costs and financing. Such report shall include a description and analysis of the statistics collected under section 242k(b)(1)(G) of this title.
 
-&emsp;(B) A report on health resources. Such report shall include a description and analysis,by geographical area, of the statistics collected under section 242k(b)(1)(E) of this title.
+&emsp;(B) A report on health resources. Such report shall include a description and analysis, by geographical area, of the statistics collected under section 242k(b)(1)(E) of this title.
 
 &emsp;(C) A report on the utilization of health resources. Such report shall include a description and analysis, by age, sex, income, and geographic area, of the statistics collected under section 242k(b)(1)(F) of this title.
 
@@ -32,7 +32,7 @@ The Secretary shall take such action as may be necessary to assure that statisti
 
 #### (d) Information; publication restrictions
 
-No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 242b, 242k, or 242<i>l</i> of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose; and in the case of information obtained in the course of health statistical or epidemiological activities under section 242b or 242k of this title, such information may not be published or released in other form if the particular establishment or person supplying the information or described in it is identifiable unless such establishment or person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
+No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 242b, 242k, or 242<i>l</i> of this title may be used for anypurpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose; and in the case of information obtained in the course of health statistical or epidemiological activities under section 242b or 242k of this title, such information may not be published or released in other form if the particular establishment or person supplying the information or described in it is identifiable unless such establishment or person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 
 #### (e) Payment procedures; advances or reimbursement; installments; conditions; reductions
 
@@ -50,7 +50,7 @@ No information, if an establishment or person supplying the information or descr
 
 Contracts may be entered into under section 242b or 242k of this title without regard to section 3324 of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title III, §308, as added Pub. L. 93–353, title I, §107(a), July 23, 1974, 88 Stat. 368; amended Pub. L. 94–273, §7(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–83, title I, §104, Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–623, §§2, 6(d), 8(b), Nov. 9, 1978, 92 Stat. 3443, 3451, 3455; Pub. L. 97–35,title IX, §§917(a), (b), 919(a)(2)(B), 922, Aug. 13, 1981, 95 Stat. 564, 565, 567; Pub. L. 97–414, §8(c), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 98–551, §7, Oct. 30, 1984, 98 Stat. 2820; Pub. L. 100–177, title I, §§106(a), 107, 108, Dec. 1, 1987, 101 Stat. 988–990; Pub. L. 100–690, title II, §2612, Nov. 18, 1988, 102 Stat. 4235; Pub. L. 101–239, title VI, §6103(e)(4), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(b)(2), (d), Nov. 6, 1990, 104 Stat. 2328; Pub. L. 103–183, title V, §501(c), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 105–392, title IV, §401(d), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title III, §308, as added Pub. L. 93–353, title I, §107(a), July 23, 1974, 88 Stat. 368; amended Pub. L. 94–273, §7(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–83, title I, §104, Aug. 1, 1977, 91 Stat. 384; Pub. L. 95–623, §§2, 6(d), 8(b), Nov. 9, 1978, 92 Stat. 3443, 3451, 3455; Pub. L. 97–35, title IX, §§917(a), (b), 919(a)(2)(B), 922, Aug. 13, 1981, 95 Stat. 564, 565, 567; Pub. L. 97–414, §8(c), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 98–551, §7, Oct. 30, 1984, 98 Stat. 2820; Pub. L. 100–177, title I, §§106(a), 107, 108, Dec. 1, 1987, 101 Stat. 988–990; Pub. L. 100–690, title II, §2612, Nov. 18, 1988, 102 Stat. 4235; Pub. L. 101–239, title VI, §6103(e)(4), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 101–527, §7(b)(2), (d), Nov. 6, 1990, 104 Stat. 2328; Pub. L. 103–183, title V, §501(c), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 105–392, title IV, §401(d), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ Subsec. (h). Pub. L. 103–183, §501(c)(5), struck out subsec. (h) which read a
 
 “(1) Except where the Secretary determines that unusual circumstances make a larger percentage necessary in order to effectuate the purposes of section 242k of this title, a grant or contract under any of such sections of this title with respect to any project for construction of a facility or for acquisition of equipment may not provide for payment of more than 50 per centum of so much of the cost of the facility or equipment as the Secretary determines is reasonably attributable to research, evaluation, or demonstration purposes.
 
-“(2) Laborers and mechanics employed by contractors and subcontractors in the construction of such a facility shall be paid wages at rates not less than those prevailing on similar work in the locality, as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 267a—267a–5, known as the Davis-Bacon Act); and the Secretary of Labor shall have with respect to any labor standards specified in this paragraph the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. Appendix) and section 276c of title 40.
+“(2) Laborers and mechanics employed by contractors and subcontractors in the construction of such a facility shall be paid wages at rates not less than those prevailing on similar work in the locality, as determinedby the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 267a—267a–5, known as the Davis-Bacon Act); and the Secretary of Labor shall have with respect to any labor standards specified in this paragraph the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. Appendix) and section 276c of title 40.
 
 “(3) Such grants and contracts shall be subject to such additional requirements as the Secretary may by regulation prescribe.”
 
@@ -192,7 +192,7 @@ Section 2600 of Pub. L. 100–690 provided that: “Except as provided in sectio
 
 #### Effective Date of 1987 Amendment
 
-Section 106(c) of Pub. L. 100–177 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 242p of this title\] shall apply to reports and profiles required to be submitted after November 1, 1987.”
+Section 106(c) of Pub. L. 100–177 provided that: “The amendments made by subsections (a) and (b) \[amendingthis section and section 242p of this title\] shall apply to reports and profiles required to be submitted after November 1, 1987.”
 
 #### Mine Workers Study; Report Completed and Submitted No Later Than 30 Months After November 9, 1978
 

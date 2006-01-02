@@ -24,18 +24,27 @@
 | <b>O.</b> | <b>Gain or loss on disposition of property</b> | <b>1001</b> |
 | <b>P.</b> | <b>Capital gains and losses</b> | <b>1201</b> |
 | <b>Q.</b> | <b>Readjustment of tax between years and special limitations</b> | <b>1301</b> |
-| <b>\[R.</b> | <b>Repealed.\]</b> |  |
 | <b>S.</b> | <b>Tax treatment of S corporations and their shareholders</b> | <b>1361</b> |
+| <b>R.</b><b><sup>2</sup></b> | <b>Election to determine corporate tax on certain international shipping activities using per ton rate</b> | <b>1352</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | <b>T.</b> | <b>Cooperatives and their patrons</b> | <b>1381</b> |
 | <b>U.</b> | <b>Designation and treatment of empowerment zones, enterprise communities, and rural development investment areas</b> | <b>1391</b> |
 | <b>V.</b> | <b>Title 11 cases</b> | <b>1398</b> |
 | <b>W.</b> | <b>District of Columbia Enterprise Zone</b> | <b>1400</b> |
 | <b>X.</b> | <b>Renewal Communities</b> | <b>1400E</b> |
-| <b>Y.</b> | <b>New York Liberty Zone Benefits</b> | <b>1400L</b> |
+| <b>Y.</b> | <b>Short-Term Regional Benefits</b> | <b>1400L</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–135, title I, §101(b)(4), Dec. 21, 2005, 119 Stat. 2593, substituted “Short-Term Regional Benefits” for “New York Liberty Zone Benefits” in subchapter Y.
+
+2004—Pub. L. 108–357, title II, §248(b)(2), Oct. 22, 2004, 118 Stat. 1457, added subchapter R.
 
 2002—Pub. L. 107–147, title III, §301(c), Mar. 9, 2002, 116 Stat. 40, added subchapter Y.
 
@@ -61,10 +70,6 @@
 
 1958—Pub. L. 85–866, title I, §64(d)(1), Sept. 2, 1958, 72 Stat. 1656, added subchapter S.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 408, 1022, 1501, 2031, 3402, 3406, 3510, 4977, 4980, 4990, 4994, 6012, 6013, 6033, 6039C, 6039E, 6039F, 6048, 6050E, 6075, 6096, 6103, 6161, 6166, 6166A, 6167, 6201, 6211, 6242, 6246, 6404, 6428, 6429, 6651, 6654, 6655, 6662, 6664, 6683, 6713, 7216, 7518, 7611, 7654, 7701, 7704, 9510 of this title; title 2 sections 632, 633, 642; title 7 sections 1926, 1929a; title 12 section 3018; title 22 section 277d–23; title 25 sections 941n, 1486; title 30 section 1141; title 42 sections 291j–7, 300e–7, 300q–2, 409, 411, 1382, 1440, 1490p–2, 5308, 5919, 8833, 14752; title 46 App. sections 1177, 1279c; title 48 section 1574b.
-
 
 ---
 
@@ -87,11 +92,11 @@ This chapter is referred to in sections 408, 1022, 1501, 2031, 3402, 3406, 3510,
 - [Subchapter O - Gain or Loss on Disposition of Property](Subchapter%20O%20-%20Gain%20or%20Loss%20on%20Disposition%20of%20Property/README.md)
 - [Subchapter P - Capital Gains and Losses](Subchapter%20P%20-%20Capital%20Gains%20and%20Losses/README.md)
 - [Subchapter Q - Readjustment of Tax Between Years and Special Limitations](Subchapter%20Q%20-%20Readjustment%20of%20Tax%20Between%20Years%20and%20Special%20Limitations/README.md)
-- [Subchapter R - Repealed](Subchapter%20R%20-%20Repealed/README.md)
+- [Subchapter R - Election to Determine Corporate Tax on Certain International Shipping Activities Using per Ton Rate](Subchapter%20R%20-%20Election%20to%20Determine%20Corporate%20Tax%20on%20Certain%20International%20Shipping%20Activities%20Using%20per%20Ton%20Rate/README.md)
 - [Subchapter S - Tax Treatment of S Corporations and Their Shareholders](Subchapter%20S%20-%20Tax%20Treatment%20of%20S%20Corporations%20and%20Their%20Shareholders/README.md)
 - [Subchapter T - Cooperatives and Their Patrons](Subchapter%20T%20-%20Cooperatives%20and%20Their%20Patrons/README.md)
 - [Subchapter U - Designation and Treatment of Empowerment Zones, Enterprise Communities, and Rural Development Investment Areas](Subchapter%20U%20-%20Designation%20and%20Treatment%20of%20Empowerment%20Zones%2C%20Enterprise%20Communities%2C%20and%20Rural%20Development%20Investment%20Areas/README.md)
 - [Subchapter V - Title 11 Cases](Subchapter%20V%20-%20Title%2011%20Cases/README.md)
 - [Subchapter W - District of Columbia Enterprise Zone](Subchapter%20W%20-%20District%20of%20Columbia%20Enterprise%20Zone/README.md)
 - [Subchapter X - Renewal Communities](Subchapter%20X%20-%20Renewal%20Communities/README.md)
-- [Subchapter Y - New York Liberty Zone Benefits](Subchapter%20Y%20-%20New%20York%20Liberty%20Zone%20Benefits/README.md)
+- [Subchapter Y - Short-Term Regional Benefits](Subchapter%20Y%20-%20Short-Term%20Regional%20Benefits/README.md)

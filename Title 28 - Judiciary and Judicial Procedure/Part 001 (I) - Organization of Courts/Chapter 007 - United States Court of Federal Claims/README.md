@@ -25,7 +25,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(b)(2)\], Oct. 30, 2000, 114
 
 1990—Pub. L. 101–650, title III, §306(a)(2), Dec. 1, 1990, 104 Stat. 5109, added item 178.
 
-1982—Pub. L. 97–164, title I, §105(a), Apr. 2, 1982, 96 Stat. 26, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” as chapter heading, inserted “; designation of chief judge” in item 171, substituted “Tenure and salaries of judges” for “Precedence of judges” in item 172, substituted “Times and places of holding court” for “Tenure and salaries of judges” in item 173, substituted “Assignment of judges;decisions” for “Terms” in item 174, substituted “Official duty station; residence” for “Assignment of judges; divisions; hearings; quorum; decisions” in item 175, and added items 176 and 177.
+1982—Pub. L. 97–164, title I, §105(a), Apr. 2, 1982, 96 Stat. 26, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” as chapter heading, inserted “; designation of chief judge” in item 171, substituted “Tenure and salaries of judges” for “Precedence of judges” in item 172, substituted “Times and places of holding court” for “Tenure and salaries of judges” in item 173, substituted “Assignment of judges; decisions” for “Terms” in item 174, substituted “Official duty station; residence” for “Assignment of judges; divisions; hearings; quorum; decisions” in item 175, and added items 176 and 177.
 
 1966—Pub. L. 89–425, §3, May 11, 1966, 80 Stat. 140, substituted “Assignment of judges; divisions; hearings; quorum; decisions” for “Quorum” in item 175.
 
@@ -34,8 +34,6 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(b)(2)\], Oct. 30, 2000, 114
 #### Rules of the United States Court of Federal Claims
 
 See Appendix to this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 
 
 ---

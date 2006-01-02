@@ -2,9 +2,9 @@
 
 (a) Except as provided in sections 765 and 766 of this title and in subsections (b), (c), and (d) of this section, the trustee, subject to the court's approval, may assume or reject any executory contract or unexpired lease of the debtor.
 
-(b)(1) If there has been a default in an executory contract or unexpired lease of the debtor,the trustee may not assume such contract or lease unless, at the time of assumption of such contract or lease, the trustee—
+(b)(1) If there has been a default in an executory contract or unexpired lease of the debtor, the trustee may not assume such contract or lease unless, at the time of assumption of such contract or lease, the trustee—
 
-&emsp;(A) cures, or provides adequate assurance that the trustee will promptly cure, such default;
+&emsp;(A) cures, or provides adequate assurance that the trustee will promptly cure, such default other than a default that is a breach of a provision relating to the satisfaction of any provision (other than a penalty rate or penalty provision) relating to a default arising from any failure to perform nonmonetary obligations under an unexpired lease of real property, if it is impossible for the trustee to cure such default by performing nonmonetary acts at and after the time of assumption, except that if such default arises from a failure to operate in accordance with a nonresidential real property lease, then such default shall be cured by performance at and after the time of assumption in accordance with such lease, and pecuniary losses resulting from such default shall be compensated in accordance with the provisions of this paragraph;
 
 &emsp;(B) compensates, or provides adequate assurance that the trustee will promptly compensate, a party other than the debtor to such contract or lease, for any actual pecuniary loss to such party resulting from such default; and
 
@@ -18,7 +18,7 @@
 
 &emsp;(C) the appointment of or taking possession by a trustee in a case under this title or a custodian before such commencement; or
 
-&emsp;(D) the satisfaction of any penalty rate or provision relating to a default arising from any failure by the debtor to perform nonmonetary obligations under the executory contract or unexpired lease.
+&emsp;(D) the satisfaction of any penalty rate or penalty provision relating to a default arising from any failure by the debtor to perform nonmonetary obligations under the executory contract or unexpired lease.
 
 (3) For the purposes of paragraph (1) of this subsection and paragraph (2)(B) of subsection (f), adequate assurance of future performance of a lease of real property in a shopping center includes adequate assurance—
 
@@ -38,11 +38,9 @@
 
 &emsp;(B) such party does not consent to such assumption or assignment; or
 
-&emsp;(2) such contract is a contract to make a loan, or extend other debt financing or financial accommodations, to or for the benefit of the debtor, or to issue a security of the debtor;
+&emsp;(2) such contract is a contract to make a loan, or extend other debt financing or financial accommodations, to or for the benefit of the debtor, or to issue a security of the debtor; or
 
-&emsp;(3) such lease is of nonresidential real property and has been terminated under applicable nonbankruptcy law prior to the order for relief; or
-
-&emsp;(4) such lease is of nonresidential real property under which the debtor is the lessee of an aircraft terminal or aircraft gate at an airport at which the debtor is the lessee under one or more additional nonresidential leases of an aircraft terminal or aircraft gate and the trustee, in connection with such assumption or assignment, does not assume all such leases or does not assume and assign all of such leases to the same person, except that the trustee may assume or assign less than all of such leases with the airport operator's written consent.
+&emsp;(3) such lease is of nonresidential real property and has been terminated under applicable nonbankruptcy law prior to the order for relief.
 
 (d)(1) In a case under chapter 7 of this title, if the trustee does not assume or reject an executory contract or unexpired lease of residential real property or of personal property of the debtor within 60 days after the order for relief, or within such additional time as the court, for cause, within such 60-day period, fixes, then such contract or lease is deemed rejected.
 
@@ -50,29 +48,17 @@
 
 (3) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
 
-(4) Notwithstanding paragraphs (1) and (2), in a case under any chapter of this title, if the trustee does not assume or reject an unexpiredlease of nonresidential real property under which the debtor is the lessee within 60 days after the date of the order for relief, or within such additional time as the court, for cause, within such 60-day period, fixes, then such lease is deemed rejected, and the trustee shall immediately surrender such nonresidential real property to the lessor.
+(4)(A) Subject to subparagraph (B), an unexpired lease of nonresidential real propertyunder which the debtor is the lessee shall be deemed rejected, and the trustee shall immediately surrender that nonresidential real property to the lessor, if the trustee does not assume or reject the unexpired lease by the earlier of—
 
-(5) Notwithstanding paragraphs (1) and (4) of this subsection, in a case under any chapter of this title, if the trustee does not assume or reject an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate before the occurrence of a termination event, then (unless the court orders the trustee to assume such unexpired leases within 5 days after the termination event), at the option of the airport operator, such lease is deemed rejected 5 days after the occurrence of a termination event and the trustee shall immediately surrender possession of the premises to the airport operator; except that the lease shall not be deemed to be rejected unless the airport operator first waives the right to damages related to the rejection. In the event that the lease is deemed to be rejected under this paragraph, the airport operator shall provide the affected air carrier adequate opportunity after the surrender of the premises to remove the fixtures and equipment installed by the affected air carrier.
+&emsp;(i) the date that is 120 days after the date of the order for relief; or
 
-(6) For the purpose of paragraph (5) of this subsection and paragraph (f)(1) of this section, the occurrence of a termination event means, with respect to a debtor which is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate—
+&emsp;(ii) the date of the entry of an order confirming a plan.
 
-&emsp;(A) the entry under section 301 or 302 of this title of an order for relief under chapter 7 of this title;
+(B)(i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 120-day period, for 90 days on the motion of the trustee or lessor for cause.
 
-&emsp;(B) the conversion of a case under any chapter of this title to a case under chapter 7 of this title; or
+(ii) If the court grants an extension under clause (i), the court may grant a subsequent extension only upon prior written consent of the lessor in each instance.
 
-&emsp;(C) the granting of relief from the stay provided under section 362(a) of this title with respect to aircraft, aircraft engines, propellers, appliances, or spare parts, as defined in section 40102(a) of title 49, except for property of the debtor found by the court not to be necessary to an effective reorganization.
-
-(7) Any order entered by the court pursuant to paragraph (4) extending the period within which the trustee of an affected air carrier must assume or reject an unexpired lease of nonresidential real property shall be without prejudice to—
-
-&emsp;(A) the right of the trustee to seek further extensions within such additional time period granted by the court pursuant to paragraph (4); and
-
-&emsp;(B) the right of any lessor or any other party in interest to request, at any time, a shortening or termination of the period within which the trustee must assume or reject an unexpired lease of nonresidential real property.
-
-(8) The burden of proof for establishing cause for an extension by an affected air carrier under paragraph (4) or the maintenance of a previously granted extension under paragraph (7)(A) and (B) shall at all times remain with the trustee.
-
-(9) For purposes of determining cause under paragraph (7) with respect to an unexpired lease of nonresidential real property between the debtor that is an affected air carrier and an airport operator under which such debtor is the lessee of an airport terminal or an airport gate, the court shall consider, among other relevant factors, whether substantial harm will result to the airport operator or airline passengers as a result of the extension or the maintenance of a previously granted extension. In making the determination of substantial harm, the court shall consider, among other relevant factors, the level of actual use of the terminals or gates which are the subject of the lease, the public interest in actual use of such terminals or gates, the existence of competing demands for the use of such terminals or gates, the effect of the court's extension or termination of the period of time to assume or reject the lease on such debtor's ability to successfully reorganize under chapter 11 of this title, and whether the trustee of the affected air carrier is capable of continuing to comply with its obligations under section 365(d)(3) of this title.
-
-(10) The trustee shall timely perform all of the obligations of the debtor, except those specified in section 365(b)(2), first arising from or after 60 days after the order for relief in a case under chapter 11 of this title under an unexpired lease of personal property (other than personal property leased to an individual primarily for personal, family, or household purposes), until such lease is assumed or rejected notwithstanding section 503(b)(1) of this title, unless the court, after notice and a hearing and based on the equities of the case, orders otherwise with respect to the obligations or timely performance thereof. This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f). Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
+(5) The trustee shall timely perform all of the obligations of the debtor, except those specified in section 365(b)(2), first arising from or after 60 days after the order for relief in a case under chapter 11 of this title under an unexpired lease of personal property (other than personal property leased to an individual primarily for personal, family, or household purposes), until such lease is assumed or rejected notwithstanding section 503(b)(1) of this title, unless the court, after notice and a hearing and based on the equities of the case, orders otherwise with respect to the obligations or timely performance thereof. This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f). Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
 
 (e)(1) Notwithstanding a provision in an executory contract or unexpired lease, or in applicable law, an executory contract or unexpired lease of the debtor may not be terminated or modified, and any right or obligation under such contract or lease may not be terminated or modified, at any time after the commencement of the case solely because of a provision in such contract or lease that is conditioned on—
 
@@ -84,13 +70,13 @@
 
 (2) Paragraph (1) of this subsection does not apply to an executory contract or unexpired lease of the debtor, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties, if—
 
-&emsp;(A)(i) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to the trustee or to an assignee of such contract or lease, whether or not suchcontract or lease prohibits or restricts assignment of rights or delegation of duties; and
+&emsp;(A)(i) applicable law excuses a party, other than the debtor, to such contract or lease from accepting performance from or rendering performance to the trustee or to an assignee of such contract or lease, whether or not such contract or lease prohibits or restricts assignment of rights or delegation of duties; and
 
 &emsp;(ii) such party does not consent to such assumption or assignment; or
 
 &emsp;(B) such contract is a contract to make a loan, or extend other debt financing or financial accommodations, to or for the benefit of the debtor, or to issue a security of the debtor.
 
-(f)(1) Except as provided in subsection (c) of this section, notwithstanding a provision in an executory contract or unexpired lease of the debtor, or in applicable law, that prohibits, restricts, or conditions the assignment of such contract or lease, the trustee may assign such contract or lease under paragraph (2) of this subsection; except that the trustee may not assign an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate if there has occurred a termination event.
+(f)(1) Except as provided in subsections (b) and (c) of this section, notwithstanding a provision in an executory contract or unexpired lease of the debtor, or in applicable law, that prohibits, restricts, or conditions the assignment of such contract or lease, the trustee may assign such contract or lease under paragraph (2) of this subsection.
 
 (2) The trustee may assign an executory contract or unexpired lease of the debtor only if—
 
@@ -118,7 +104,7 @@
 
 &emsp;(i) if the rejection by the trustee amounts to such a breach as would entitle the lessee to treat such lease as terminated by virtue of its terms, applicable nonbankruptcy law, or any agreement made by the lessee, then the lessee under such lease may treat such lease as terminated by the rejection; or
 
-&emsp;(ii) if the term of such lease has commenced, the lessee may retain its rights under such lease (including rights such as those relating to the amount and timing of payment of rent and other amounts payable by the lessee and any right of use, possession, quiet enjoyment, subletting, assignment, or hypothecation) that are in or appurtenant to the real property for the balance of the term of such lease and for any renewal or extension of such rights to the extent that such rights are enforceable under applicable nonbankruptcy law.
+&emsp;(ii) if the term of such lease has commenced, the lessee may retain its rights under such lease (including rights such as those relating to the amount and timing of payment of rent and other amounts payable by the lessee and any right of use, possession, quiet enjoyment,subletting, assignment, or hypothecation) that are in or appurtenant to the real property for the balance of the term of such lease and for any renewal or extension of such rights to the extent that such rights are enforceable under applicable nonbankruptcy law.
 
 (B) If the lessee retains its rights under subparagraph (A)(ii), the lessee may offset against the rent reserved under such lease for the balance of the term after the date of the rejection of such lease and for the term of any renewal or extension of such lease, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such lease, but the lessee shall not have any other right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
 
@@ -132,7 +118,7 @@
 
 &emsp;(ii) if the term of such timeshare interest has commenced, then the timeshare interest purchaser may retain its rights in such timeshare interest for the balance of such term and for any term of renewal or extension of such timeshare interest to the extent that such rights are enforceable under applicable nonbankruptcy law.
 
-(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term of any renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection,of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
+(B) If the timeshare interest purchaser retains its rights under subparagraph (A), such timeshare interest purchaser may offset against the moneys due for such timeshare interest for the balance of the term after the date of the rejection of such timeshare interest, and the term of any renewal or extension of such timeshare interest, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such timeshare plan, but the timeshare interest purchaser shall not have any right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
 
 (i)(1) If the trustee rejects an executory contract of the debtor for the sale of real property or for the sale of a timeshare interest under a timeshare plan, under which the purchaser is in possession, such purchaser may treat such contract as terminated, or, in the alternative, may remain in possession of such real property or timeshare interest.
 
@@ -190,7 +176,17 @@
 
 (<i>o</i>) In a case under chapter 11 of this title, the trustee shall be deemed to have assumed (consistent with the debtor's other obligations under section 507), and shall immediately cure any deficit under, any commitment by the debtor to a Federal depository institutions regulatory agency (or predecessor to such agency) to maintain the capital of an insured depository institution, and any claim for a subsequent breach of the obligations thereunder shall be entitled to priority under section 507. This subsection shall not extend any commitment that would otherwise be terminated by any act of such an agency.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 98–353, title III, §§362, 402–404, July 10, 1984, 98 Stat. 361, 367; Pub. L. 99–554, title II, §§257(j), (m), 283(e), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 100–506, §1(b), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 101–647, title XXV, §2522(c), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 102–365, §19(b)–(e), Sept. 3, 1992, 106 Stat. 982–984; Pub. L. 103–394, title II, §§205(a), 219(a), (b), title V, §501(d)(10), Oct. 22, 1994, 108 Stat. 4122, 4128, 4145; Pub. L. 103–429, §1, Oct. 31, 1994, 108 Stat. 4377.)
+(p)(1) If a lease of personal property is rejected or not timely assumed by the trustee under subsection (d), the leased property is no longer property of the estate and the stay under section 362(a) is automatically terminated.
+
+(2)(A) If the debtor in a case under chapter 7 is an individual, the debtor may notify the creditor in writing that the debtor desires to assume the lease. Upon being so notified, the creditor may, at its option, notify the debtor that it is willing to have the lease assumed by the debtor and may condition such assumption on cure of any outstanding default on terms set by the contract.
+
+(B) If, not later than 30 days after notice is provided under subparagraph (A), the debtor notifies the lessor in writing that the lease is assumed, the liability under the lease will be assumed by the debtor and not by the estate.
+
+(C) The stay under section 362 and the injunction under section 524(a)(2) shall not be violated by notification of the debtor and negotiation of cure under this subsection.
+
+(3) In a case under chapter 11 in which the debtor is an individual and in a case under chapter 13, if the debtor is the lessee with respect to personal property and the lease is not assumed in the plan confirmed by the court, the lease is deemed rejected as of the conclusion of the hearing on confirmation. If the lease is rejected, the stay under section 362 and any stay under section 1301 is automatically terminated with respect to the property subject to the lease.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 98–353, title III, §§362, 402–404, July 10, 1984, 98 Stat. 361, 367; Pub. L. 99–554, title II, §§257(j), (m), 283(e), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 100–506, §1(b), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 101–647, title XXV, §2522(c), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 102–365, §19(b)–(e), Sept. 3, 1992, 106 Stat. 982–984; Pub. L. 103–394, title II, §§205(a), 219(a), (b), title V, §501(d)(10), Oct. 22, 1994, 108 Stat. 4122, 4128, 4145; Pub. L. 103–429, §1, Oct. 31, 1994, 108 Stat. 4377; Pub. L. 109–8, title III, §§309(b), 328(a), title IV, §404, Apr. 20, 2005, 119 Stat. 82, 100, 104.)
 
 #### Historical and Revision Notes
 
@@ -230,7 +226,7 @@ Subsection (d) places time limits on assumption and rejection. In a liquidation 
 
 Subsection (e) invalidates ipso facto or bankruptcy clauses. These clauses, protected under present law, automatically terminate the contract or lease, or permit the other contracting party to terminate the contract or lease, in the event of bankruptcy. This frequently hampers rehabilitation efforts. If the trustee may assume or assign the contract under the limitations imposed by the remainder of the section, the contract or lease may be utilized to assist in the debtor's rehabilitation or liquidation.
 
-The unenforcibility \[sic\] of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the courtwill have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain.
+The unenforcibility \[sic\] of ipso facto or bankruptcy clauses proposed under this section will require the courts to be sensitive to the rights of the nondebtor party to executory contracts and unexpired leases. If the trustee is to assume a contract or lease, the court will have to insure that the trustee's performance under the contract or lease gives the other contracting party the full benefit of his bargain.
 
 This subsection does not limit the application of an ipso facto or bankruptcy clause if a new insolvency or receivership occurs after the bankruptcy case is closed. That is, the clause is not invalidated in toto, but merely made inapplicable during the case for the purposes of disposition of the executory contract or unexpired lease.
 
@@ -261,6 +257,22 @@ A shopping center is often a carefully planned enterprise, and though it consist
 This subsection does not limit the application of an ipso facto or bankruptcy clause to a new insolvency or receivership after the bankruptcy case is closed. That is, the clause is not invalidated in toto, but merely made inapplicable during the case for the purpose of disposition of the executory contract or unexpired lease.
 
 #### Amendments
+
+2005—Subsec. (b)(1)(A). Pub. L. 109–8, §328(a)(1)(A), inserted before semicolon at end “other than a default that is a breach of a provision relating to the satisfaction of any provision (other than a penalty rate or penalty provision) relating to a default arising from any failure to perform nonmonetary obligations under an unexpired lease of real property, if it is impossible for the trustee to cure such default by performing nonmonetary acts at and after the time of assumption, except that if such default arises from a failure to operate in accordance with a nonresidential real property lease, then such default shall be cured by performance at and after the time of assumption in accordance with such lease, and pecuniary losses resulting from such default shall be compensated in accordance with the provisions of this paragraph”.
+
+Subsec. (b)(2)(D). Pub. L. 109–8, §328(a)(1)(B), substituted “penalty rate or penalty provision” for “penalty rate or provision”.
+
+Subsec. (c)(4). Pub. L. 109–8, §328(a)(2), struck out par. (4) which read as follows: “such lease is of nonresidential real property under which the debtor is the lessee of an aircraft terminal or aircraft gate at an airport at which the debtor is the lessee under one or more additional nonresidential leases of an aircraft terminal or aircraft gate and the trustee, in connection with such assumption or assignment, does not assume all such leases or does not assume and assign all of such leases to the same person, except that the trustee may assume or assign less than all of such leases with the airport operator's written consent.”
+
+Subsec. (d)(4). Pub. L. 109–8, §404(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding paragraphs (1) and (2), in a case under any chapter of this title, if the trustee does not assume or reject an unexpired lease of nonresidential real property under which the debtor is the lessee within 60 days after the date of the order for relief, or within such additional time as the court, for cause, within such 60-day period, fixes, then such lease is deemed rejected, and the trustee shall immediately surrender such nonresidential real property to the lessor.”
+
+Subsec. (d)(5) to (10). Pub. L. 109–8, §328(a)(3), redesignated par. (10) as (5) and struck out former pars. (5) to (9) which related to rejection of leases under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate.
+
+Subsec. (f)(1). Pub. L. 109–8, §404(b), substituted “provided in subsections (b) and” for “provided in subsection”.
+
+Pub. L. 109–8, §328(a)(4), struck out “; except that the trustee may not assign an unexpired lease of nonresidential real property under which the debtor is an affected air carrier that is the lessee of an aircraft terminal or aircraft gate if there has occurred a termination event” before period at end.
+
+Subsec. (p). Pub. L. 109–8, §309(b), added subsec. (p).
 
 1994—Subsec. (b)(2)(D). Pub. L. 103–394, §219(a), added subpar. (D).
 
@@ -329,6 +341,10 @@ Subsec. (h)(2). Pub. L. 98–353, §403, amended par. (2) generally. Prior to am
 Subsec. (i)(1). Pub. L. 98–353, §404, amended par. (1) generally, inserting provisions relating to timeshare interests under timeshare plans.
 
 Subsecs. (<i>l</i>), (m). Pub. L. 98–353, §362(b), added subsecs. (<i>l</i>) and (m).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

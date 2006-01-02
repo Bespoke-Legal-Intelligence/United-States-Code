@@ -48,7 +48,7 @@ The demonstration projects shall be conducted—
 
 #### (e) Evaluation and report
 
-The Secretary shall evaluate the operations of the demonstration projects and shall submit tothe Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
+The Secretary shall evaluate the operations of the demonstration projects and shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
 
 &emsp;(1) not later than 18 months after the beginning of the first project, a preliminary report that contains—
 
@@ -100,7 +100,7 @@ Subsec. (c)(1)(B), (2)(C). Pub. L. 100–690, §2618(h)(4)(C), (5), substituted 
 
 Subsec. (d)(2)(B). Pub. L. 100–690, §2618(h)(6), substituted “cases of acquired immune deficiency syndrome” for “AIDS cases”.
 
-Subsec. (e)(2)(A). Pub. L. 100–690, §2618(h)(7), substituted “individuals infected with the etiologic agent for acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
+Subsec. (e)(2)(A). Pub. L. 100–690, §2618(h)(7), substituted “individuals infected with the etiologic agentfor acquired immune deficiency syndrome” for “patients infected with the human immunodeficiency virus”.
 
 Subsec. (f)(1). Pub. L. 100–690, §2618(h)(8), substituted “acquired immune deficiency syndrome” for “the acquired immunodeficiency syndrome” and “etiologic agent for such syndrome” for “human immunodeficiency virus”.
 

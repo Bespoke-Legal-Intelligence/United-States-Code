@@ -2,13 +2,13 @@
 
 (a)
 
-Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paid special pay under this section at a monthly rate not to exceed $300 while the member is performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.
+Special Pay Authorized.—A member of a uniformed service who is entitled to basic pay may be paid special pay under this section at a monthly rate not to exceed $750 while the member is performing duty in the United States or outside the United States that is designated by the Secretary of Defense as hardship duty.
 
 (b)
 
 Regulations.—The Secretary of Defense shall prescribe regulations for the provision of hardship duty pay under subsection (a), including the specific monthly rates at which the special pay will be available.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 88–132, §12(a), Oct. 2, 1963, 77 Stat. 217; Pub. L. 90–623, §3(4), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 95–485, title VIII, §804(b)(1), Oct. 20, 1978, 92 Stat. 1620; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, §619(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1789, 1790; Pub. L. 105–261, div. A, title VI, §617(a), (c)(1), Oct. 17, 1998, 112 Stat. 2041.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 465; Pub. L. 88–132, §12(a), Oct. 2, 1963, 77 Stat. 217; Pub. L. 90–623, §3(4), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 95–485, title VIII, §804(b)(1), Oct. 20, 1978, 92 Stat. 1620; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, §619(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1789, 1790; Pub. L. 105–261, div. A, title VI, §617(a), (c)(1), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 109–163, div. A, title VI, §627, Jan. 6, 2006, 119 Stat. 3296.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,8 @@ In subsection (a), the words “Except as provided by subsection (b) of this sec
 In subsection (b), the words “Appropriation of” are substituted for the words “of the funds appropriated to” The words “may not be paid” are substituted for the words “no part . . . shall be available for the payment” The words “member of a uniformed service” are substituted for the words “person in the military service” to conform to subsection (a). The words “Puerto Rico” are inserted for clarity, since the source statute was applicable to that place. The words “Virgin Islands” are inserted, since that unincorporated territory is not covered by the word “possession”. The word “Territory” is omitted as obsolete.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 substituted “$750” for “$300”.
 
 1998—Pub. L. 105–261, §617(c)(1), struck out “location” after “duty” in section catchline.
 
@@ -106,7 +108,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Savings Provision
 
-Section 12(b) of Pub. L. 88–132 provided that: “Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of thatassignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\].”
+Section 12(b) of Pub. L. 88–132 provided that: “Notwithstanding subsection (a) \[amending this section\], an enlisted member who, on the day before the effective date of this Act \[Oct. 1, 1963\], was permanently assigned to duty at a place outside the United States or in Alaska or Hawaii, shall, during the remaining period of that assignment, but not after that place is designated for the purpose of section 305(a)(2) of title 37, United States Code, be paid the basic pay to which he was entitled on that date plus special pay under section 305 of title 37, United States Code, whenever qualified thereunder as that section was in effect on the day before the effective date of this Act, if the total of that basic pay and that special pay is more than the basic pay to which he would otherwise be entitled during that period under section 2 of this Act \[amending section 203 of this title\].”
 
 #### Transition Provision
 

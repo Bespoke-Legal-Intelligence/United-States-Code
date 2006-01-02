@@ -17,7 +17,7 @@
 
 #### Amendments
 
-2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children ofVietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
+2003—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
 
 2001—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 

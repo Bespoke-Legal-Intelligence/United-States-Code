@@ -58,7 +58,7 @@
 
 #### (B) No excess for 1st year
 
-&emsp;&emsp;The total excess distributions with respect to any stock shall be zero for the taxable year in which the taxpayer's holding period in such stock begins.
+&emsp;&emsp;The total excess distributions with respect to any stock shall be zero for the taxableyear in which the taxpayer's holding period in such stock begins.
 
 #### (3) Adjustments
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(E) if the distributions are received in a foreign currency, determinations under this subsection shall be made in such currency and the amount of any excess distribution determined in such currency shall be translated into dollars,
 
-&emsp;&emsp;(F) proper adjustment shall be made for amounts not includible in gross income by reason of section 551(d), 959(a), or 1293(c), and
+&emsp;&emsp;(F) proper adjustment shall be made for amounts not includible in gross income by reason of section 959(a) or 1293(c), and
 
 &emsp;&emsp;(G) if a charitable deduction was allowable under section 642(c) to a trust for any distribution of its income, proper adjustments shall be made for the deduction so allowable to the extent allocable to distributions or gain in respect of stock in a passive foreign investment company.
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (B) Due date
 
-&emsp;&emsp;For purposes of this subsection, the term “due date” means the date prescribed by law (determined without regard to extensions)for filing the return of the tax imposed by this chapter for the taxable year.
+&emsp;&emsp;For purposes of this subsection, the term “due date” means the date prescribed by law (determined without regard to extensions) for filing the return of the tax imposed by this chapter for the taxable year.
 
 #### (d) Coordination with subparts B and C
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (e) Certain basis, etc., rules made applicable
 
-Except to the extent inconsistent with the regulations prescribed under subsection (f), rules similar to the rules of subsections (c), (d), (e), and (f) <sup>1</sup> of section 1246 shall apply for purposes of this section; except that—
+Except to the extent inconsistent with the regulations prescribed under subsection (f), rules similar to the rules of subsections (c), (d), (e), and (f) of section 1246 (as in effect on the day before the date of the enactment of the American Jobs Creation Act of 2004) shall apply for purposes of this section; except that—
 
 &emsp;(1) the reduction under subsection (e) of such section shall be the excess of the basis determined under section 1014 over the adjusted basis of the stock immediately before the decedent's death, and
 
@@ -224,7 +224,7 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 &emsp;&emsp;The rules of this subsection also shall apply in the case of any gain which but for this section would be includible in gross income as a dividend under section 1248.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L. 105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(B), June 7, 2001, 115 Stat. 85.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L.105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(B), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(24), Oct. 22, 2004, 118 Stat. 1509.)
 
 #### Amendment of Subsection (e)
 
@@ -232,9 +232,13 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 #### References in Text
 
-Subsection (f) of section 1246, referred to in subsec. (e), was redesignated subsec. (g) of section 1246 by Pub. L. 100–647, title I, §1012(p)(21), Nov. 10, 1988, 102 Stat. 3519.
+The date of the enactment of the American Jobs Creation Act of 2004, referred to in subsec. (e), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Amendments
+
+2004—Subsec. (b)(3)(F). Pub. L. 108–357, §413(c)(24)(A), substituted “959(a)” for “551(d), 959(a),”.
+
+Subsec. (e). Pub. L. 108–357, §413(c)(24)(B), inserted “(as in effect on the day before the date of the enactment of the American Jobs Creation Act of 2004)” after “section 1246” in introductory provisions.
 
 1998—Subsec. (d)(1). Pub. L. 105–206 inserted at end “In the case of stock which is marked to market under section 475 or any other provision of this chapter, this section shall not apply, except that rules similar to the rules of section 1296(j) shall apply.”
 
@@ -286,6 +290,10 @@ Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. 
 
 Subsec. (g). Pub. L. 100–647, §1012(p)(7)(B), added subsec. (g).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
@@ -309,8 +317,4 @@ Amendment by section 6127(b) of Pub. L. 100–647 effective as if included in th
 #### Effective Date
 
 Section 1235(h) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and sections 1293 to 1297 of this title and amending sections 532, 542, 551, 851, 904, 951, 1246, and 6503 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 1986.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1296, 1298 of this title.
 

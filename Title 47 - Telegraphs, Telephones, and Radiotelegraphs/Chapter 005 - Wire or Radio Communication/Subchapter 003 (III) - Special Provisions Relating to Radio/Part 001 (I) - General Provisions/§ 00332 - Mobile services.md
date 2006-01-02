@@ -70,7 +70,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 &emsp;&emsp;(A) The extent of foreign ownership interest shall not be increased above the extent which existed on May 24, 1993.
 
-&emsp;&emsp;(B) Such waiver shall not permit the subsequent transfer of ownership to any other person in violation of section 310(b) of this title.
+&emsp;&emsp;(B) Such waiver shall not permit the subsequent transfer of ownership to any otherperson in violation of section 310(b) of this title.
 
 #### (7) Preservation of local zoning authority
 
@@ -126,7 +126,7 @@ Provisions of part III of title 5, referred to in subsec. (b)(2), are classified
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
-The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Titles III and IV of the Act are classified generally to subchapters III (§731 et seq.) and IV (§741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Titles III and IV of the Act are classified generally to subchapters III (§731 et seq.) and IV\(§741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312, as amended. For complete classification of this Act to the Code, see Tables.
 
@@ -156,7 +156,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Effective dates of mobile service amendments.—The amendments made by subsection (b)(2) \[amending this section and sections 152 and 153 of this title\] shall be effective on the date of enactment of this Act \[Aug. 10, 1993\], except that—
 
-&emsp;“(A) section 332(c)(3)(A) of the Communications Act of 1934 \[subsec. (c)(3)(A) of this section\], as amendedby such subsection, shall take effect 1 year after such date of enactment; and
+&emsp;“(A) section 332(c)(3)(A) of the Communications Act of 1934 \[subsec. (c)(3)(A) of this section\], as amended by such subsection, shall take effect 1 year after such date of enactment; and
 
 &emsp;“(B) any private land mobile service provided by any person before such date of enactment, and any paging service utilizing frequencies allocated as of January 1, 1993, for private land mobile services, shall, except for purposes of section 332(c)(6) of such Act \[subsec. (c)(6) of this section\], be treated as a private mobile service until 3 years after such date of enactment.”
 

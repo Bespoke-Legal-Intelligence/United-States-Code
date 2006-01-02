@@ -1,6 +1,6 @@
 ### §909. Terms of resolution
 
-For the purpose of sections 908 through 912 of this title, “resolution” means only a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That the Congress approves the reorganization plan numbered    transmitted to the Congress by the President on   , 19  .”, and includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter. The blank spaces therein are to be filled appropriately. The term does not include a resolution which specifies more than one reorganization plan.
+For the purpose of sections 908 through 912 of this title, “resolution” means only a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That the Congress approves the reorganization plan numbered    transmitted to the Congress by the President on   , 19  .”, and includes suchmodifications and revisions as are submitted by the President under section 903(c) of this chapter. The blank spaces therein are to be filled appropriately. The term does not include a resolution which specifies more than one reorganization plan.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, §3(c), Nov. 8, 1984, 98 Stat. 3192.)
 

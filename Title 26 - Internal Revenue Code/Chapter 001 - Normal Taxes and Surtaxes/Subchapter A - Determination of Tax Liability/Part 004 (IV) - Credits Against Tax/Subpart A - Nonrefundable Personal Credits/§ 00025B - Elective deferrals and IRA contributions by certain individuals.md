@@ -33,7 +33,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any individual with respect to whom a deduction under section 151 is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins, and
 
-&emsp;&emsp;(B) any individual who is a student (as defined in section 151(c)(4)).
+&emsp;&emsp;(B) any individual who is a student (as defined in section 152(f)(2)).
 
 #### (d) Qualified retirement savings contributions
 
@@ -49,7 +49,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
 
-&emsp;&emsp;&emsp;(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and
+&emsp;&emsp;&emsp;(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined insection 457(b)) of an eligible employer described in section 457(e)(1)(A), and
 
 &emsp;&emsp;(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)).
 
@@ -91,7 +91,7 @@ Notwithstanding any other provision of law, a qualified retirement savings contr
 
 #### (g) Limitation based on amount of tax
 
-The credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
+In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
@@ -101,13 +101,19 @@ The credit allowed under subsection (a) for the taxable year shall not exceed th
 
 This section shall not apply to taxable years beginning after December 31, 2006.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614.)
 
 #### Termination of Section
+
+<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of section by section 901 of Pub. L. 107–16, see Effective and Termination Dates note below.</i>
 
 #### Amendments
+
+2005—Subsec. (g). Pub. L. 109–135, §402(i)(3)(D), (H), temporarily substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions. See Effective and Termination Dates of 2005 Amendment note below.
+
+2004—Subsec. (c)(2)(B). Pub. L. 108–311 substituted “152(f)(2)” for “151(c)(4)”.
 
 2002—Subsec. (d)(2)(A). Pub. L. 107–147, §411(m), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the sum of—
 
@@ -119,19 +125,27 @@ Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relati
 
 2001—Subsec. (g). Pub. L. 107–16, §§618(b)(1), 901, temporarily added subsec. (g) relating to limitation based on amount of tax. See Effective and Termination Dates note below.
 
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by section 402(i)(3)(D) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: “Except as provided in subsection (c) \[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
+Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: “Except as provided in subsection (c)\[amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title\], the amendments made by this section \[amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
 
 #### Effective and Termination Dates
+
+Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
 Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as an Effective and Termination Dates of 2001 Amendment note under section 23 of this title.
 
 Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 24 of this title.
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 25, 26, 904, 1400C of this title.
 

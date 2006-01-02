@@ -30,7 +30,7 @@ This section may not be construed as creating any private right of action.
 
 &emsp;Before the end of the 1-year period beginning on August 9, 1989, the Attorney General and the Comptroller General shall submit a report to the Congress on the results of the study conducted pursuant to paragraph (1).
 
-(Sept. 21, 1950, ch. 967, §2\[30\], as added Pub. L. 101–73, title II, §225, Aug. 9, 1989, 103 Stat. 275;amended Pub. L. 103–325, title VI, §602(a)(59), Sept. 23, 1994, 108 Stat. 2291.)
+(Sept. 21, 1950, ch. 967, §2\[30\], as added Pub. L. 101–73, title II, §225, Aug. 9, 1989, 103 Stat. 275; amended Pub. L. 103–325, title VI, §602(a)(59), Sept. 23, 1994, 108 Stat. 2291.)
 
 #### Amendments
 

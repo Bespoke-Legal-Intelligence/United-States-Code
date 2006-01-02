@@ -1,6 +1,6 @@
 ### §§1981 to 1983. Repealed. Pub. L. 95–561, title XV, §1529, Nov. 1, 1978, 92 Stat. 2380
 
-Section 1981, Pub. L. 93–380, title VII, §731, Aug. 21, 1974, 88 Stat. 596; Pub. L. 94–194, §7, Dec. 31, 1975, 89 Stat. 1105; S. Res. 4, Feb. 4, 1977, set forth evaluation requirements for programs.
+Section 1981, Pub. L. 93–380, title VII, §731, Aug. 21, 1974, 88 Stat. 596; Pub. L. 94–194, §7, Dec. 31, 1975, 89Stat. 1105; S. Res. 4, Feb. 4, 1977, set forth evaluation requirements for programs.
 
 Section 1982, Pub. L. 93–380, title VII, §732, Aug. 21, 1974, 88 Stat. 596; Pub. L. 94–194, §§1(c), 6(c), 9(b), Dec. 31, 1975, 89 Stat. 1104–1106, set forth provisions authorizing appropriations for covered programs.
 

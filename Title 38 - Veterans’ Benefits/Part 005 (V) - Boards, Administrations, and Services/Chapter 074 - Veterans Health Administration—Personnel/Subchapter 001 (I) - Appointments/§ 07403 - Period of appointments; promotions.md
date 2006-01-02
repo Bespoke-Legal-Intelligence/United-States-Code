@@ -38,7 +38,7 @@
 
 (2) In using such authority to appoint individuals to such positions, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter I of chapter 33 of title 5.
 
-(3) Notwithstanding any other provision of this title or other law, all matters relating to adverse actions, reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees, disciplinary actions, and grievance procedures involving individuals appointed to such positions, whether appointed under this section or section 7405(a)(1)(B) of this title (including similar actions and procedures involving an employee in a probationary status), shall be resolved under the provisions of title 5 as though such individuals had been appointed under that title.
+(3) Notwithstanding any other provision of this title or other law, all matters relating to adverse actions, reductions-in-force, the applicability of the principles of preference referred to in paragraph (2), rights of part-time employees, disciplinary actions, and grievance proceduresinvolving individuals appointed to such positions, whether appointed under this section or section 7405(a)(1)(B) of this title (including similar actions and procedures involving an employee in a probationary status), shall be resolved under the provisions of title 5 as though such individuals had been appointed under that title.
 
 (g)(1) The Secretary may appoint in the competitive civil service without regard to the provisions of subchapter I of chapter 33 of title 5 (other than sections 3303 and 3328 of such title) an individual who—
 
@@ -68,7 +68,7 @@
 
 &emsp;(D) if the Secretary determines that activities under subparagraph (B), (C), or both are unsuccessful at reaching such agreement and determines (in the sole and unreviewable discretion of the Secretary) that further meeting and conferral under subparagraph (B), mediation under subparagraph (C), or both are unlikely to reach such agreement—
 
-&emsp;&emsp;(i) notify the congressional veterans’ affairs committees of such determinations,identify for such committees the portions of the recommendations that the Secretary has determined not to accept, and provide such committees an explanation and justification for determining to implement the part of the system subject to such portions of the recommendations without regard to such portions of the recommendations; and
+&emsp;&emsp;(i) notify the congressional veterans’ affairs committees of such determinations, identify for such committees the portions of the recommendations that the Secretary has determined not to accept, and provide such committees an explanation and justification for determining to implement the part of the system subject to such portions of the recommendations without regard to such portions of the recommendations; and
 
 &emsp;&emsp;(ii) commencing not earlier than 30 days after notice under clause (i), implement the part of the system subject to the recommendations that the Secretary has determined not to accept without regard to those recommendations.
 

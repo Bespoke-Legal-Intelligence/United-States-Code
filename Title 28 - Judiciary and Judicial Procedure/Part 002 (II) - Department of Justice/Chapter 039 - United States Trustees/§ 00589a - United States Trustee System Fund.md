@@ -22,9 +22,11 @@
 
 (b) For the purpose of recovering the cost of services of the United States Trustee System, there shall be deposited as offsetting collections to the appropriation “United States Trustee System Fund”, to remain available until expended, the following—
 
-&emsp;(1) 27.42 percent of the fees collected under section 1930(a)(1) of this title;
+&emsp;(1)(A) 40.46 percent of the fees collected under section 1930(a)(1)(A); and
 
-&emsp;(2) one-half of the fees collected under section 1930(a)(3) of this title;
+&emsp;(B) 28.33 percent of the fees collected under section 1930(a)(1)(B);
+
+&emsp;(2) 55 percent of the fees collected under section 1930(a)(3) of this title;
 
 &emsp;(3) one-half of the fees collected under section 1930(a)(4) of this title;
 
@@ -46,13 +48,17 @@
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
-(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20.)
+(Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §109(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297.)
 
 #### Codification
 
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–8, §325(b)(1), as amended by Pub. L. 109–13, §6058(a), added par. (1) and struck out former par. (1), which read as follows: “27.42 percent of the fees collected under section 1930(a)(1) of this title;”.
+
+Subsec. (b)(2). Pub. L. 109–8, §325(b)(2), as amended by Pub. L. 109–13, §6058(a), substituted “55 percent” for “one-half”.
 
 1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(1) \[title I, §113\], substituted “27.42 percent” for “23.08 percent”.
 
@@ -80,9 +86,15 @@ Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 
 1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
 
+#### Effective Date of 2005 Amendments
+
+Pub. L. 109–13, div. A, title VI, §6058(b), May 11, 2005, 119 Stat. 297, provided that: “This section \[amending this section and section 1930 of this title, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section and sections 1930 and 1931 of this title\] and the amendment made by this section shall take effect immediately after the enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 \[Pub. L. 109–8, approved Apr. 20, 2005\].”
+
+Pub. L. 109–8, title III, §325(d), Apr. 20, 2005, 119 Stat. 99, which provided that the amendment made by Pub. L. 109–8, §325(b), (c), would be effective during the 2-year period beginning on Apr. 20, 2005, was omitted in the general amendment of section 325 of Pub. L. 109–8 by Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297. See note above.
+
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that theamendment made by section 1000(a)(1) \[title I, §113\] is effective 30 days after Nov. 29, 1999.
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §113\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that the amendment made by section 1000(a)(1) \[title I, §113\] is effective 30 days after Nov. 29, 1999.
 
 #### Effective Date of 1996 Amendment
 

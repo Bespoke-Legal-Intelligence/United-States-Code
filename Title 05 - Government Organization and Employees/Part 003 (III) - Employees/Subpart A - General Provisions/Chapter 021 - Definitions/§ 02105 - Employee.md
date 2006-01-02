@@ -1,6 +1,6 @@
 ### §2105. Employee
 
-(a) For the purpose of this title, “employee”, except as otherwise provided by this section orwhen specifically modified, means an officer and an individual who is—
+(a) For the purpose of this title, “employee”, except as otherwise provided by this section or when specifically modified, means an officer and an individual who is—
 
 &emsp;(1) appointed in the civil service by one of the following acting in an official capacity—
 
@@ -116,7 +116,7 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act J
 
 1997—Subsec. (b). Pub. L. 105–85 inserted “(if any)” after “Academy dairy”.
 
-1996—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment insuch a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
+1996—Subsec. (b). Pub. L. 104–201 inserted “who is” after “An individual” and “and whose employment in such a position began before October 1, 1996, and has been uninterrupted in such a position since that date” after “Academy dairy,”.
 
 1994—Subsec. (f). Pub. L. 103–424 added subsec. (f).
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90thday after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
 #### Effective Date of 1970 Amendment
 

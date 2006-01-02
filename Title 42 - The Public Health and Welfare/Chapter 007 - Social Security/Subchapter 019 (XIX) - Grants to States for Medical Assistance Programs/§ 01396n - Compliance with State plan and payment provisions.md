@@ -34,7 +34,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(3) to share (through provision of additional services) with recipients of medical assistance under the State plan cost savings resulting from use by the recipient of more cost-effective medical care, and
 
-&emsp;(4) to restrict the provider from (or through) whom an individual (eligible for medical assistance under this subchapter) can obtain services (other than in emergency circumstances) to providers or practitioners who undertake to provide such services and who meet, accept, and comply with the reimbursement, quality, and utilization standards under the State plan, which standards shall be consistent with the requirements of section 1396r–4 of this title and are consistent with access, quality, and efficient and economic provision of covered care and services, if such restriction does not discriminate among classes of providers on grounds unrelated to their demonstrated effectiveness and efficiency in providing those services and if providers under such restriction are paid on a timely basis in the same manner as health care practitionersmust be paid under section 1396a(a)(37)(A) of this title.
+&emsp;(4) to restrict the provider from (or through) whom an individual (eligible for medical assistance under this subchapter) can obtain services (other than in emergency circumstances) to providers or practitioners who undertake to provide such services and who meet, accept, and comply with the reimbursement, quality, and utilization standards under the State plan, which standards shall be consistent with the requirements of section 1396r–4 of this title and are consistent with access, quality, and efficient and economic provision of covered care and services, if such restriction does not discriminate among classes of providers on grounds unrelated to their demonstrated effectiveness and efficiency inproviding those services and if providers under such restriction are paid on a timely basis in the same manner as health care practitioners must be paid under section 1396a(a)(37)(A) of this title.
 
 > No waiver under this subsection may restrict the choice of the individual in receiving services under section 1396d(a)(4)(C) of this title.
 
@@ -74,7 +74,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 (5) For purposes of paragraph (4)(B), the term “habilitation services”—
 
-&emsp;(A) means services designed to assist individuals in acquiring, retaining, and improvingthe self-help, socialization, and adaptive skills necessary to reside successfully in home and community based settings; and
+&emsp;(A) means services designed to assist individuals in acquiring, retaining, and improving the self-help, socialization, and adaptive skills necessary to reside successfully in home and community based settings; and
 
 &emsp;(B) includes (except as provided in subparagraph (C)) prevocational, educational, and supported employment services; but
 
@@ -116,7 +116,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 > &emsp;the State will provide for an evaluation of the need for such skilled nursing facility or intermediate care facility services; and
 
-&emsp;(C) such individuals who are determined to be likely to require the level of care provided in a skilled nursing facility or intermediate care facility are informed of the feasible alternatives to the provision of skilled nursing facility or intermediate care facility services, which such individuals may choose if available under the waiver.
+&emsp;(C) such individuals who are determined to be likely to require the level of care providedin a skilled nursing facility or intermediate care facility are informed of the feasible alternatives to the provision of skilled nursing facility or intermediate care facility services, which such individuals may choose if available under the waiver.
 
 > Each State with a waiver under this subsection shall provide to the Secretary annually, consistent with a reasonable data collection plan designed by the Secretary, information on the impact of the waiver granted under this subsection on the type and amount of medical assistance provided under the State plan and on the health and welfare of recipients.
 
@@ -152,7 +152,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;&emsp;(III) a method for projecting, on a State specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period.
 
-> &emsp;The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period. Effective on and after the date the Secretary promulgates the regulation under clause (iii), any reference in this subparagraph to the “lesser of 7percent” shall be deemed to be a reference to the “greater of 7 percent”.
+> &emsp;The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period. Effective on and after the date the Secretary promulgates the regulation under clause (iii), any reference in this subparagraph to the “lesser of 7 percent” shall be deemed to be a reference to the “greater of 7 percent”.
 
 &emsp;(iv) If there is enacted after December 22, 1987, an Act which amends this subchapter whose provisions become effective on or after such date and which results in an increase in the aggregate amount of medical assistance under this subchapter for nursing facility services and home and community-based services for individuals who have attained the age of 65 years, the Secretary, at the request of a State with a waiver under this subsection for a waiver year or years and in close consultation with the State, shall adjust the projected amount computed under this subparagraph for the waiver year or years to take into account such increase.
 
@@ -200,7 +200,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 (1) The Secretary shall monitor the implementation of waivers granted under this section to assure that the requirements for such waiver are being met and shall, after notice and opportunity for a hearing, terminate any such waiver where he finds noncompliance has occurred.
 
-(2) A request to the Secretary from a State for approval of a proposed State plan or planamendment or a waiver of a requirement of this subchapter submitted by the State pursuant to a provision of this subchapter shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 days of such date, denies such request.
+(2) A request to the Secretary from a State for approval of a proposed State plan or plan amendment or a waiver of a requirement of this subchapter submitted by the State pursuant to a provision of this subchapter shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 days of such date, denies such request.
 
 #### (g) Optional targeted case management services
 
@@ -304,7 +304,7 @@ Subsec. (a)(2). Pub. L. 100–93 amended par. (2) generally. Prior to amendment,
 
 &emsp;“(A) for a reasonable period of time the provider or providers from which an individual (eligible for medical assistance for items or services under the State plan) can receive such items or services, if the State has found, after notice and opportunity for a hearing (in accordance with procedures established by the State), that the individual has utilized such items or services at a frequency or amount not medically necessary (as determined in accordance with utilization guidelines established by the State), or
 
-&emsp;“(B) (through suspension or otherwise) for a reasonable period of time the participation of a provider of items or services under the State plan, if the State has found, after notice and opportunity for a hearing (in accordance with procedures established by theState), that the provider has (in a significant number or proportion of cases) provided such items or services either (i) at a frequency or amount not medically necessary (as determined in accordance with utilization guidelines established by the State), or (ii) of a quality which does not meet professionally recognized standards of health care,
+&emsp;“(B) (through suspension or otherwise) for a reasonable period of time the participation of a provider ofitems or services under the State plan, if the State has found, after notice and opportunity for a hearing (in accordance with procedures established by the State), that the provider has (in a significant number or proportion of cases) provided such items or services either (i) at a frequency or amount not medically necessary (as determined in accordance with utilization guidelines established by the State), or (ii) of a quality which does not meet professionally recognized standards of health care,
 
 > if, under such restriction, individuals eligible for medical assistance for such services have reasonable access (taking into account geographic location and reasonable travel time) to such services of adequate quality.”
 
@@ -378,7 +378,7 @@ Subsec. (g)(1). Pub. L. 99–509, §9411(b), inserted provision at end allowing 
 
 1984—Subsec. (c)(1). Pub. L. 98–369 substituted “under this subchapter” for “under this part”.
 
-1983—Subsec. (c)(2)(B). Pub. L. 97–448 substituted “need for such skilled nursing facility or intermediatecare facility services” for “need for such services” in provisions following cl. (iii).
+1983—Subsec. (c)(2)(B). Pub. L. 97–448 substituted “need for such skilled nursing facility or intermediate care facility services” for “need for such services” in provisions following cl. (iii).
 
 1982—Subsec. (b). Pub. L. 97–248, §137(b)(19)(A), struck out “and section 1396b(m) of this title” after “section 1396a of this title”.
 

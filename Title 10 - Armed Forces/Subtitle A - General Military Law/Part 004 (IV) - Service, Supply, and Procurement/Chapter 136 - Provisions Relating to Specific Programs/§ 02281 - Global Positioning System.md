@@ -10,7 +10,7 @@ Sustainment and Operation for Military Purposes.—The Secretary of Defense shal
 
 (b)
 
-Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peacefulcivil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
+Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peaceful civil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
 
 &emsp;(1) shall provide for the sustainment and operation of the GPS Standard Positioning Service in order to meet the performance requirements of the Federal Radionavigation Plan prepared jointly by the Secretary of Defense and the Secretary of Transportation pursuant to subsection (c);
 
@@ -154,7 +154,7 @@ Findings.—Congress makes the following findings:
 
 “(b)
 
-International Cooperation.—Congress urges the President to promote the security of the United States and its allies, the public safety, and commercial interests by taking the following steps:
+International Cooperation.—Congress urges the President to promote the security of the UnitedStates and its allies, the public safety, and commercial interests by taking the following steps:
 
 &emsp;“(1) Undertaking a coordinated effort within the executive branch to seek to establish the Global Positioning System, and augmentations to the system, as a worldwide resource.
 
@@ -182,7 +182,9 @@ Plan.—Subsection (a) shall cease to apply upon submission by the Secretary of 
 
 #### Limitation on Procurement of Systems Not GPS-Equipped
 
-Pub. L. 103–160, div. A, title I, §152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, §218(e), Oct. 17, 1998, 112 Stat. 1952, provided that: “After September 30, 2005, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
+Pub. L. 103–160, div. A, title I, §152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, §218(e), Oct. 17, 1998, 112 Stat. 1952; Pub. L. 109–163, div. A, title II, §260(a), Jan. 6, 2006, 119 Stat. 3185, provided that: “After September 30, 2007, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
+
+\[Pub. L. 109–163, div. A, title II, §260(b), Jan. 6, 2006, 119 Stat. 3186, provided that: “The amendment made by subsection (a) \[amending section 152(b) of Pub. L. 103–160, set out above\] shall be deemed to have taken effect at the close of September 30, 2005, and any obligation or expenditure of funds by the Department of Defense during the period beginning on October 1, 2005, and ending on the date of the enactment of this Act \[Jan. 6, 2006\] to modify or procure a Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver is hereby ratified with respect to the provision of law specified in subsection (a).”\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -50,7 +50,7 @@ For purposes of this section, the term “plan” means—
 
 #### (B) De minimis distributions
 
-&emsp;&emsp;If the total excess contributions and excess aggregate contributions distributed to arecipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.
+&emsp;&emsp;If the total excess contributions and excess aggregate contributions distributed to a recipient under a plan for any plan year are less than $100, such distributions (and any income allocable thereto) shall be treated as earned and received by the recipient in his taxable year in which such distributions were made.
 
 (Added Pub. L. 99–514, title XI, §1117(b)(1), Oct. 22, 1986, 100 Stat. 2461; amended Pub. L. 100–647, title I, §1011(<i>l</i>)(8)–(11), Nov. 10, 1988, 102 Stat. 3470, 3471.)
 
@@ -79,8 +79,4 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 408, 501 of this title.
 

@@ -40,7 +40,7 @@ Congress finds that—
 
 #### (b) Purpose
 
-It is the purpose of this chapter to authorize the Secretary of Agriculture (hereafter in this chapter referred to as the “Secretary”), with respect to non-Federal forest lands in the United States, and forest lands in foreign countries, of the United States, to assist in—
+It is the purpose of this chapter to authorize the Secretary of Agriculture (hereafter in thischapter referred to as the “Secretary”), with respect to non-Federal forest lands in the United States, and forest lands in foreign countries, of the United States, to assist in—
 
 &emsp;(1) the establishment of a coordinated and cooperative Federal, State, and local forest stewardship program for management of the non-Federal forest lands;
 
@@ -88,7 +88,7 @@ Pub. L. 101–513 and Pub. L. 101–624 were approved by the President after Con
 
 Pub. L. 101–513, §607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
 
-Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and inparagraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
 
 #### Effective Date
 

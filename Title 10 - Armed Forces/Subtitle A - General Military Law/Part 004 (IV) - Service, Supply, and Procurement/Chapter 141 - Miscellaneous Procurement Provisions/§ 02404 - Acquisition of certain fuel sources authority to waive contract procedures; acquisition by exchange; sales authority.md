@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 106–65, §803(a)(4), substituted “a defined fuel source
 
 Subsec. (f). Pub. L. 106–65, §803(a)(5), added subsec. (f).
 
-1993—Pub. L. 103–160, §826(d)(2), substituted “petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority” for “petroleum: authority to waive contract procedures” as section catchline.
+1993—Pub. L. 103–160, §826(d)(2), substituted “petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority” for“petroleum: authority to waive contract procedures” as section catchline.
 
 Subsec. (a). Pub. L. 103–160, §826(a)(1), (d)(1)(A), inserted heading, inserted “or natural gas” after “petroleum” in introductory provisions, inserted “or natural gas market conditions, as the case may be,” after “petroleum market conditions” and “or acquisition of natural gas, respectively,” after “acquisition of petroleum” in par. (1), and inserted “or natural gas, as the case may be,” after “petroleum” in par. (2).
 

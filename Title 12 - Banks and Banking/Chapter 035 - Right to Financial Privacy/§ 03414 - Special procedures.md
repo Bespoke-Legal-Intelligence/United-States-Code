@@ -34,7 +34,7 @@
 
 &emsp;(C) flight to avoid prosecution.
 
-(2) In the instances specified in paragraph (1), the Government shall submit to the financial institution the certificate required in section 3403(b) of this title signed by a supervisory official of a rank designated by the head of the Government authority.
+(2) In the instances specified in paragraph (1), the Government shall submit to the financial institution the certificate required in section3403(b) of this title signed by a supervisory official of a rank designated by the head of the Government authority.
 
 (3) Within five days of obtaining access to financial records under this subsection, the Government authority shall file with the appropriate court a signed, sworn statement of a supervisory official of a rank designated by the head of the Government authority setting forth the grounds for the emergency access. The Government authority shall thereafter comply with the notice provisions of section 3409(c) of this title.
 
@@ -66,9 +66,7 @@ Subsec. (a)(5)(A). Pub. L. 107–56, §505(b), inserted “in a position not low
 
 1982—Subsec. (b)(2). Pub. L. 97–320 struck out “of” after “financial institution”.
 
-#### Effective and Termination Dates of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+#### Effective Date of 2001 Amendment
 
 Amendment by section 358(f)(2) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
 

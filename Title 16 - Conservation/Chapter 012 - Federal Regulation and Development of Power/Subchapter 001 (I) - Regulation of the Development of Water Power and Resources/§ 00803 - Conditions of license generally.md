@@ -18,7 +18,7 @@ All licenses issued under this subchapter shall be on the following conditions:
 
 &emsp;(C) In the case of a State or municipal applicant, or an applicant which is primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities), the electricity consumption efficiency improvement program of the applicant, including its plans, performance and capabilities for encouraging or assisting its customers to conserve electricity cost-effectively, taking into account the published policies, restrictions, and requirements of relevant State regulatory authorities applicable to such applicant.
 
-(3) Upon receipt of an application for a license, the Commission shall solicit recommendationsfrom the agencies and Indian tribes identified in subparagraphs (A) and (B) of paragraph (2) for proposed terms and conditions for the Commission's consideration for inclusion in the license.
+(3) Upon receipt of an application for a license, the Commission shall solicit recommendations from the agencies and Indian tribes identified in subparagraphs (A) and (B) of paragraph (2) for proposed terms and conditions for the Commission's consideration for inclusion in the license.
 
 #### (b) Alterations in project works
 
@@ -88,7 +88,7 @@ In issuing licenses for a minor part only of a complete project, or for a comple
 
 #### (j) Fish and wildlife protection, mitigation and enhancement; consideration of recommendations; findings
 
-(1) That in order to adequately and equitably protect, mitigate damages to, and enhance, fish and wildlife (including related spawning grounds and habitat) affected by the development, operation, and management of the project, each license issued under this subchapter shall include conditions for such protection, mitigation, and enhancement. Subject to paragraph (2), such conditions shall be based on recommendations received pursuant to the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
+(1) That in order to adequately and equitably protect, mitigate damages to, and enhance, fishand wildlife (including related spawning grounds and habitat) affected by the development, operation, and management of the project, each license issued under this subchapter shall include conditions for such protection, mitigation, and enhancement. Subject to paragraph (2), such conditions shall be based on recommendations received pursuant to the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
 
 (2) Whenever the Commission believes that any recommendation referred to in paragraph (1) may be inconsistent with the purposes and requirements of this subchapter or other applicable law, the Commission and the agencies referred to in paragraph (1) shall attempt to resolve any such inconsistency, giving due weight to the recommendations, expertise, and statutory responsibilities of such agencies. If, after such attempt, the Commission does not adopt in whole or in part a recommendation of any such agency, the Commission shall publish each of the following findings (together with a statement of the basis for each of the findings):
 
@@ -147,10 +147,6 @@ Section 9(b) of Pub. L. 99–495 provided that: “Nothing in this Act \[see Sho
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (e)(4) of this section relating to reporting recommendations to Congress every 5 years, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 91 of House Document No. 103–7.
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “; and”.</i>
 

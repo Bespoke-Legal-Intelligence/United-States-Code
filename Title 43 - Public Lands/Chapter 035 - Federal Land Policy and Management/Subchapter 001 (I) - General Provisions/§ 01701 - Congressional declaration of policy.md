@@ -10,7 +10,7 @@
 
 &emsp;(4) the Congress exercise its constitutional authority to withdraw or otherwise designate or dedicate Federal lands for specified purposes and that Congress delineate the extent to which the Executive may withdraw lands without legislative action;
 
-&emsp;(5) in administering public land statutes and exercising discretionary authority granted by them, the Secretary be required to establish comprehensive rules and regulations after considering the views of the general public; and tostructure adjudication procedures to assure adequate third party participation, objective administrative review of initial decisions, and expeditious decisionmaking;
+&emsp;(5) in administering public land statutes and exercising discretionary authority granted by them, the Secretary be required to establish comprehensive rules and regulations after considering the views of the general public; and to structure adjudication procedures to assure adequate third party participation, objective administrative review of initial decisions, and expeditious decisionmaking;
 
 &emsp;(6) judicial review of public land adjudication decisions be provided by law;
 
@@ -86,9 +86,9 @@ Section 701 of Pub. L. 94–579 provided that:
 
 Section 707 of Pub. L. 94–579 provided that: “If any provision of this Act \[see Short Title note set out above\] or the application thereof is held invalid, the remainder of the Act and the application thereof shall not be affected thereby.”
 
-#### Agency-Wide Joint Permitting and Leasing Programs
+#### Cooperative Action and Sharing of Resources by Secretaries of the Interior and Agriculture
 
-Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, provided that: “In fiscal years 2001 through 2005, the Secretaries of the Interior and Agriculture may pilot test agency-wide joint permitting and leasing programs, subject to annual review of Congress, and promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management or the Forest Service.”
+Pub. L. 106–291, title III, §330, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 109–54, title IV, §428, Aug. 2, 2005, 119 Stat. 555, provided that: “In fiscal years 2001 through 2008, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish pilot programs involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased byan agency of either Department; and \[may\] promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the ‘Service First’ initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.”
 
 #### Existing Rights-of-Way
 

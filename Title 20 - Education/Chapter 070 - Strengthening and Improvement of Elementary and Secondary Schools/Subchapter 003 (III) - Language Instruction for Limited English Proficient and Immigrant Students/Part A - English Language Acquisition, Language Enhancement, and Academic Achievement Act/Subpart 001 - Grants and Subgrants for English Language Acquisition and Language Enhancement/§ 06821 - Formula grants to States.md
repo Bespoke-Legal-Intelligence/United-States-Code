@@ -26,7 +26,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 &emsp;&emsp;&emsp;(i) identifying and implementing language instruction educational programs and curricula that are based on scientifically based research on teaching limited English proficient children;
 
-&emsp;&emsp;&emsp;(ii) helping limited English proficient children meet the same challenging State academic content and student academic achievement standards as all children are expected to meet;
+&emsp;&emsp;&emsp;(ii) helping limited English proficient children meet the same challenging Stateacademic content and student academic achievement standards as all children are expected to meet;
 
 &emsp;&emsp;&emsp;(iii) identifying or developing, and implementing, measures of English proficiency; and
 
@@ -64,7 +64,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (B) Use of funds
 
-&emsp;&emsp;The Secretary shall make the awards in order to allow such recipients to receiveawards for the complete period of their grants or fellowships under the appropriate subparts.
+&emsp;&emsp;The Secretary shall make the awards in order to allow such recipients to receive awards for the complete period of their grants or fellowships under the appropriate subparts.
 
 #### (3) State allotments
 

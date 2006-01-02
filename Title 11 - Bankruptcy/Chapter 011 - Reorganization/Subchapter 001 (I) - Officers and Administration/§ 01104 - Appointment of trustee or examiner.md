@@ -2,11 +2,23 @@
 
 (a) At any time after the commencement of the case but before confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of a trustee—
 
-&emsp;(1) for cause, including fraud, dishonesty, incompetence, or gross mismanagement of the affairs of the debtor by current management, either before or after the commencement of the case, or similar cause, but not including the number of holders of securities of the debtor or the amount of assets or liabilities of the debtor; or
+&emsp;(1) for cause, including fraud, dishonesty, incompetence, or gross mismanagement of the affairs of the debtor by current management, either before or after the commencement of the case, or similar cause, but not including the number of holders of securities of the debtor or the amount of assets or liabilities of the debtor;
 
-&emsp;(2) if such appointment is in the interests of creditors, any equity security holders, and other interests of the estate, without regard to the number of holders of securities of the debtor or the amount of assets or liabilities of the debtor.
+&emsp;(2) if such appointment is in the interests of creditors, any equity security holders, and other interests of the estate, without regard to the number of holders of securities of the debtor or the amount of assets or liabilities of the debtor; or
 
-(b) Except as provided in section 1163 of this title, on the request of a party in interest madenot later than 30 days after the court orders the appointment of a trustee under subsection (a), the United States trustee shall convene a meeting of creditors for the purpose of electing one disinterested person to serve as trustee in the case. The election of a trustee shall be conducted in the manner provided in subsections (a), (b), and (c) of section 702 of this title.
+&emsp;(3) if grounds exist to convert or dismiss the case under section 1112, but the court determines that the appointment of a trustee or an examiner is in the best interests of creditors and the estate.
+
+(b)(1) Except as provided in section 1163 of this title, on the request of a party in interest made not later than 30 days after the court orders the appointment of a trustee under subsection (a), the United States trustee shall convene a meeting of creditors for the purpose of electing one disinterested person to serve as trustee in the case. The election of a trustee shall be conducted in the manner provided in subsections (a), (b), and (c) of section 702 of this title.
+
+(2)(A) If an eligible, disinterested trustee is elected at a meeting of creditors under paragraph (1), the United States trustee shall file a report certifying that election.
+
+(B) Upon the filing of a report under subparagraph (A)—
+
+&emsp;(i) the trustee elected under paragraph (1) shall be considered to have been selected and appointed for purposes of this section; and
+
+&emsp;(ii) the service of any trustee appointed under subsection (d) shall terminate.
+
+(C) The court shall resolve any dispute arising out of an election described in subparagraph (A).
 
 (c) If the court does not order the appointment of a trustee under this section, then at any time before the confirmation of a plan, on request of a party in interest or the United States trustee, and after notice and a hearing, the court shall order the appointment of an examiner to conduct such an investigation of the debtor as is appropriate, including an investigation of any allegations of fraud, dishonesty, incompetence, misconduct, mismanagement, or irregularity in the management of the affairs of the debtor of or by current or former management of the debtor, if—
 
@@ -16,13 +28,15 @@
 
 (d) If the court orders the appointment of a trustee or an examiner, if a trustee or an examiner dies or resigns during the case or is removed under section 324 of this title, or if a trustee fails to qualify under section 322 of this title, then the United States trustee, after consultation with parties in interest, shall appoint, subject to the court's approval, one disinterested person other than the United States trustee to serve as trustee or examiner, as the case may be, in the case.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2627; Pub. L. 99–554, title II, §222, Oct. 27, 1986, 100 Stat. 3102; Pub. L. 103–394, title II, §211(a), title V, §501(d)(30), Oct. 22, 1994, 108 Stat. 4125, 4146.)
+(e) The United States trustee shall move for the appointment of a trustee under subsection (a) if there are reasonable grounds to suspect that current members of the governing body of the debtor, the debtor's chief executive or chief financial officer, or members of the governing body who selected the debtor's chief executive or chief financial officer, participated in actual fraud, dishonesty, or criminal conduct in the management of the debtor or the debtor's public financial reporting.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2627; Pub. L. 99–554, title II, §222, Oct. 27, 1986, 100 Stat. 3102; Pub. L. 103–394, title II, §211(a), title V, §501(d)(30), Oct. 22, 1994, 108 Stat. 4125, 4146; Pub. L. 109–8, title IV, §§416, 442(b), title XIV, §1405, Apr. 20, 2005, 119 Stat. 107, 116, 215.)
 
 #### Historical and Revision Notes
 
 I74legislative statements
 
-Section 1104 of the House amendment represents a compromise between the House bill and the Senate amendment concerning the appointment of a trustee or examiner. The method of appointment rather than election, is derived from the House bill; the two alternative standards of appointment are derived with modifications from the Senate amendment, instead of the standard stated in the House bill. For example, if the current management of the debtor gambled away rental income before the filing of the petition, a trustee should be appointed after the petition, whether or not postpetition mismanagement can be shown. However, under no circumstances will cause include the number of security holders of the debtor or the amount of assets or liabilities of the debtor. The standard also applies to the appointment of an examiner in those circumstances in which mandatory appointment, as previously detailed, is not required.
+Section 1104 of the House amendment represents a compromise between the House bill and the Senateamendment concerning the appointment of a trustee or examiner. The method of appointment rather than election, is derived from the House bill; the two alternative standards of appointment are derived with modifications from the Senate amendment, instead of the standard stated in the House bill. For example, if the current management of the debtor gambled away rental income before the filing of the petition, a trustee should be appointed after the petition, whether or not postpetition mismanagement can be shown. However, under no circumstances will cause include the number of security holders of the debtor or the amount of assets or liabilities of the debtor. The standard also applies to the appointment of an examiner in those circumstances in which mandatory appointment, as previously detailed, is not required.
 
 #### senate report no. 95–989
 
@@ -46,9 +60,15 @@ Subsection (b) permits the court, at any time after the commencement of the case
 
 By virtue of proposed 11 U.S.C. 1109, an indenture trustee and the Securities and Exchange Commission will be parties in interest for the purpose of requesting the appointment of a trustee or examiner.
 
-Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel ofprivate trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
+Subsection (c) directs that the United States trustee actually select and appoint the trustee or examiner ordered appointed under this section. The United States trustee is required to consult with various parties in interest before selecting and appointing a trustee. He is not bound to select one of the members of the panel of private trustees established under proposed 28 U.S.C. 586(a)(1) which exists only for the purpose of providing trustees for chapter 7 cases. Neither is he precluded from selecting a panel member if the member is qualified to serve as chapter 11 trustee. Appointment by the United States trustee will remove the court from the often criticized practice of appointing an officer that will appear in litigation before the court against an adverse party.
 
 #### Amendments
+
+2005—Subsec. (a)(3). Pub. L. 109–8, §442(b), added par. (3).
+
+Subsec. (b). Pub. L. 109–8, §416, designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (e). Pub. L. 109–8, §1405, added subsec. (e).
 
 1994—Subsec. (b). Pub. L. 103–394, §211(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -59,6 +79,12 @@ Subsec. (d). Pub. L. 103–394, §§211(a)(1), 501(d)(30), redesignated subsec. 
 1986—Subsecs. (a), (b). Pub. L. 99–554, §222(1), (2), inserted “or the United States trustee” after “party in interest”.
 
 Subsec. (c). Pub. L. 99–554, §222(3), substituted “the United States trustee, after consultation with parties in interest shall appoint, subject to the court's approval, one disinterested person other than the United States trustee to serve” for “the court shall appoint one disinterested person to serve”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by section 1405 of Pub. L. 109–8 effective Apr. 20, 2005, and applicable only with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1406 of Pub. L. 109–8, set out as a note under section 507 of this title.
+
+Amendment by sections 416 and 442(b) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

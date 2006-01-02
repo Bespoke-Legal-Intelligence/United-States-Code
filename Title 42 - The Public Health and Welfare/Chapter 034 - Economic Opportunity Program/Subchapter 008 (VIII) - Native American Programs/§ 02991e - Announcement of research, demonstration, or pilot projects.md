@@ -14,7 +14,7 @@
 
 A prior section 807 of Pub. L. 88–452 was renumbered section 808 and is classified to section 2991f of this title.
 
-A prior section 2991e, Pub. L. 88–452, title VIII, §806, as added Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80Stat. 1474, provided for duration of the VISTA program through June 30, 1970, prior to the general amendment of this subchapter by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722.
+A prior section 2991e, Pub. L. 88–452, title VIII, §806, as added Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1474, provided for duration of the VISTA program through June 30, 1970, prior to the general amendment of this subchapter by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722.
 
 #### Amendments
 

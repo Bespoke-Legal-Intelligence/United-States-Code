@@ -70,7 +70,3 @@ Subsec. (e)(3). Pub. L. 96–596, §2(a)(3)(D), struck out par. (3), which defin
 
 For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 508, 4947, 4963, 6213, 7422, 7454 of this title.
-

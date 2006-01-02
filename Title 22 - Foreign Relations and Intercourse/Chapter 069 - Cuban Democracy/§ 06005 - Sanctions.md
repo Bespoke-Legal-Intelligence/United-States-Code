@@ -14,7 +14,7 @@
 
 #### (1) Vessels engaging in trade
 
-&emsp;Beginning on the 61st day after October 23, 1992, a vessel which enters a port or place inCuba to engage in the trade of goods or services may not, within 180 days after departure from such port or place in Cuba, load or unload any freight at any place in the United States, except pursuant to a license issued by the Secretary of the Treasury.
+&emsp;Beginning on the 61st day after October 23, 1992, a vessel which enters a port or place in Cuba to engage in the trade of goods or services may not, within 180 days after departure from such port or place in Cuba, load or unload any freight at any place in the United States, except pursuant to a license issued by the Secretary of the Treasury.
 
 #### (2) Vessels carrying goods or passengers to or from Cuba
 

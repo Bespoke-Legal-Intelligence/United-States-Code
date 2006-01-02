@@ -2,17 +2,17 @@
 
 (a) The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in section 1930 of title 28.
 
-(b)(1) On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 109(e), 303(b), 507(a), 522(d), and 523(a)(2)(C) immediately before such April 1 shall be adjusted—
+(b)(1) On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28 immediately before such April 1 shall be adjusted—
 
 &emsp;(A) to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent 3-year period ending immediately before January 1 preceding such April 1, and
 
 &emsp;(B) to round to the nearest $25 the dollar amount that represents such change.
 
-(2) Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 109(e), 303(b), 507(a), 522(d), and 523(a)(2)(C) of this title.
+(2) Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on suchApril 1 under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28.
 
 (3) Adjustments made in accordance with paragraph (1) shall not apply with respect to cases commenced before the date of such adjustments.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2555; Pub. L. 103–394, title I, §108(e), Oct. 22, 1994, 108 Stat. 4112; Pub. L. 109–8, title I, §102(j), title II, §§224(e)(2), 226(b), title III, §322(b), title IV, §432(c), title X, §1002, title XII, §1202, Apr. 20, 2005, 119 Stat. 35, 65, 67, 97, 110, 186, 193.)
 
 #### Historical and Revision Notes
 
@@ -32,7 +32,39 @@ If the Judicial Conference has policy recommendations concerning the appropriate
 
 #### Amendments
 
+2005—Subsec. (b)(1). Pub. L. 109–8, §1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3)”.
+
+Pub. L. 109–8, §1002, inserted “101(18),” after “101(3),” in introductory provisions.
+
+Pub. L. 109–8, §432(c), inserted “101(51D),” after “101(3),” in introductory provisions.
+
+Pub. L. 109–8, §322(b), inserted “522(p), 522(q),” after “522(n),” in introductory provisions.
+
+Pub. L. 109–8, §226(b), inserted “101(3),” after “sections” in introductory provisions.
+
+Pub. L. 109–8, §224(e)(2), inserted “522(n),” after “522(d),” in introductory provisions.
+
+Pub. L. 109–8, §102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)” for “and 523(a)(2)(C)” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 109–8, §1202(1)–(3), (5), inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and section 1409(b) of title 28” for “and 1325(b)(3) of this title”.
+
+Pub. L. 109–8, §1002, inserted “101(18),” after “101(3),”.
+
+Pub. L. 109–8, §432(c), inserted “101(51D),” after “101(3),”.
+
+Pub. L. 109–8, §322(b), inserted “522(p), 522(q),” after “522(n),”.
+
+Pub. L. 109–8, §226(b), inserted “101(3),” after “sections”.
+
+Pub. L. 109–8, §224(e)(2), inserted “522(n),” after “522(d),”.
+
+Pub. L. 109–8, §102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)” for “and 523(a)(2)(C)”.
+
 1994—Pub. L. 103–394 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 102(j), 224(e)(2), 226(b), 432(c), 1002, and 1202 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 322(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -1,6 +1,6 @@
 ### §7131. Establishment
 
-There is established at the seat of government an executive department to be known as the Department of Energy. There shall be at the headof the Department a Secretary of Energy (hereinafter in this chapter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of the Senate. The Department shall be administered, in accordance with the provisions of this chapter, under the supervision and direction of the Secretary.
+There is established at the seat of government an executive department to be known as the Department of Energy. There shall be at the head of the Department a Secretary of Energy (hereinafter in this chapter referred to as the “Secretary”), who shall be appointed by the President by and with the advice and consent of the Senate. The Department shall be administered, in accordance with the provisions of this chapter, under the supervision and direction of the Secretary.
 
 (Pub. L. 95–91, title II, §201, Aug. 4, 1977, 91 Stat. 569.)
 

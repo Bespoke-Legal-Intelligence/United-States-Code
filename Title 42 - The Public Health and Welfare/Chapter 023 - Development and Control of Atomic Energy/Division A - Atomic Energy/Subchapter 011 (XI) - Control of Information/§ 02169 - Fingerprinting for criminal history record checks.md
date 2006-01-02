@@ -1,8 +1,36 @@
 ### §2169. Fingerprinting for criminal history record checks
 
-#### (a) Persons subject to fingerprinting; submission of fingerprints to Attorney General; costs; results of check
+#### (a) In general
 
-The Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall require each licensee or applicant for a license to operate a utilization facility under section 2133 or 2134(b) of this title to fingerprint each individual who is permitted unescorted access to the facility or is permitted access to safeguards information under section 2167 of this title. All fingerprints obtained by a licensee or applicant as required in the preceding sentence shall be submitted to the Attorney General of the United States through the Commission for identification and a criminal history records check. The costs of any identification and records check conducted pursuant to the preceding sentence shall be paid by the licensee or applicant. Notwithstanding any other provision of law, the Attorney General may provide all the results of the search to the Commission, and, in accordance with regulations prescribed under this section, the Commission may provide such results to the licensee or applicant submitting such fingerprints.
+(1)(A)(i) The Commission shall require each individual or entity described in clause (ii) to fingerprint each individual described in subparagraph (B) before the individual described in subparagraph (B) is permitted access under subparagraph (B).
+
+(ii) The individuals and entities referred to in clause (i) are individuals and entities that, on or before the date on which an individual is permitted access under subparagraph (B)—
+
+&emsp;(I) are licensed or certified to engage in an activity subject to regulation by the Commission;
+
+&emsp;(II) have filed an application for a license or certificate to engage in an activity subject to regulation by the Commission; or
+
+&emsp;(III) have notified the Commission in writing of an intent to file an application for licensing, certification, permitting, or approval of a product or activity subject to regulation by the Commission.
+
+(B) The Commission shall require to be fingerprinted any individual who—
+
+&emsp;(i) is permitted unescorted access to—
+
+&emsp;&emsp;(I) a utilization facility; or
+
+&emsp;&emsp;(II) radioactive material or other property subject to regulation by the Commission that the Commission determines to be of such significance to the public health and safety or the common defense and security as to warrant fingerprinting and background checks; or
+
+&emsp;(ii) is permitted access to safeguards information under section 2167 of this title.
+
+(2) All fingerprints obtained by an individual or entity as required in paragraph (1) shall besubmitted to the Attorney General of the United States through the Commission for identification and a criminal history records check.
+
+(3) The costs of an identification or records check under paragraph (2) shall be paid by the individual or entity required to conduct the fingerprinting under paragraph (1)(A).
+
+(4) Notwithstanding any other provision of law—
+
+&emsp;(A) the Attorney General may provide any result of an identification or records check under paragraph (2) to the Commission; and
+
+&emsp;(B) the Commission, in accordance with regulations prescribed under this section, may provide the results to the individual or entity required to conduct the fingerprinting under paragraph (1)(A).
 
 #### (b) Waiver
 
@@ -10,7 +38,7 @@ The Commission, by rule, may relieve persons from the obligations imposed by thi
 
 #### (c) Regulations
 
-For purposes of administering this section, the Commission shall prescribe, subject to public notice and comment, regulations—
+For purposes of administering this section, the Commission shall prescribe requirements—
 
 &emsp;(1) to implement procedures for the taking of fingerprints;
 
@@ -18,7 +46,7 @@ For purposes of administering this section, the Commission shall prescribe, subj
 
 &emsp;&emsp;(A) to limit the redissemination of such information;
 
-&emsp;&emsp;(B) to ensure that such information is used solely for the purpose of determining whether an individual shall be permitted unescorted access to the facility of a licensee or applicant or shall be permitted access to safeguards information under section 2167 of this title;
+&emsp;&emsp;(B) to ensure that such information is used solely for the purpose of determining whether an individual shall be permitted unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) of this section or shall be permitted access to safeguards information under section 2167 of this title;
 
 &emsp;&emsp;(C) to ensure that no final determination may be made solely on the basis of information provided under this section involving—
 
@@ -30,7 +58,15 @@ For purposes of administering this section, the Commission shall prescribe, subj
 
 &emsp;(3) to provide each individual subject to fingerprinting under this section with the right to complete, correct, and explain information contained in the criminal history records prior to any final adverse determination.
 
-#### (d) Processing fees; use of amounts collected
+#### (d) Use of biometric methods
+
+The Commission may require a person or individual to conduct fingerprinting under subsection (a)(1) of this section by authorizing or requiring the use of any alternative biometric method for identification that has been approved by—
+
+&emsp;(1) the Attorney General; and
+
+&emsp;(2) the Commission, by regulation.
+
+#### (e) Processing fees; use of amounts collected
 
 (1) The Commission may establish and collect fees to process fingerprints and criminal history records under this section.
 
@@ -38,11 +74,21 @@ For purposes of administering this section, the Commission shall prescribe, subj
 
 &emsp;(A) a portion of the amounts collected under this subsection in any fiscal year may be retained and used by the Commission to carry out this section; and
 
-&emsp;(B) the remaining portion of the amounts collected under this subsection in such fiscalyear may be transferred periodically to the Attorney General and used by the Attorney General to carry out this section.
+&emsp;(B) the remaining portion of the amounts collected under this subsection in such fiscal year may be transferred periodically to the Attorney General and used by the Attorney General to carry out this section.
 
 (3) Any amount made available for use under paragraph (2) shall remain available until expended.
 
-(Aug. 1, 1946, ch. 724, title I, §149, as added Pub. L. 99–399, title VI, §606(a), Aug. 27, 1986, 100 Stat. 876; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §149, as added Pub. L. 99–399, title VI, §606(a), Aug. 27, 1986, 100 Stat. 876; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §652, Aug. 8, 2005, 119 Stat. 810.)
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58, §652(1), revised and restructured provisions of subsec. (a). Prior to amendment, subsec. (a) read as follows: “The Nuclear Regulatory Commission (in this section referred to as the ‘Commission’) shall require each licensee or applicant for a license to operate a utilization facility under section 2133 or 2134(b) of this title to fingerprint each individual who is permitted unescorted access to the facility or is permitted access to safeguards information under section 2167 of this title. All fingerprints obtained by a licensee or applicant as required in the preceding sentence shall be submitted to the Attorney General of the United States through the Commission for identification and a criminal history records check. The costs of any identification and records check conducted pursuant to the preceding sentence shall be paid by the licensee or applicant. Notwithstanding any other provision of law, the Attorney General may provide all the results of the search to the Commission, and, in accordance with regulations prescribed under this section, the Commission may provide such results to the licensee or applicant submitting such fingerprints.” Amendment by Pub. L. 109–58, §652(1)(D), which misquoted the sentence to be stricken by leaving out the word “the” before “licensee”, was nevertheless executed to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 109–58, §652(2)(A), substituted “requirements—” for “, subject to public notice and comment, regulations—” in introductory provisions.
+
+Subsec. (c)(2)(B). Pub. L. 109–58, §652(2)(B), substituted “unescorted access to a utilization facility, radioactive material, or other property described in subsection (a)(1)(B) of this section” for “unescorted access to the facility of a licensee or applicant”.
+
+Subsecs. (d), (e). Pub. L. 109–58, §652(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Effective Date
 

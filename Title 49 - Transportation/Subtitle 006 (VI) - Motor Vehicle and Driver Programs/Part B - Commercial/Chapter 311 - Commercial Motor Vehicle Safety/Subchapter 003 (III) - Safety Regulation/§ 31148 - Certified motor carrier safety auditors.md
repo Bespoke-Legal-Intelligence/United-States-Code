@@ -6,7 +6,7 @@ In General.—Not later than 1 year after the date of the enactment of this sect
 
 (b)
 
-Certified Inspection Audit Requirement.—Not later than 1 year after completion of the rulemaking required by subsection (a), any safety inspection audit or review required by, or based on the authority of, this chapter or chapter 5, 313, or 315 of this title and performed after December 31, 2002, shall be conducted by—
+Certified Inspection Audit Requirement.—Not later than 1 year after completion of the rulemaking required by subsection (a), anysafety inspection audit or review required by, or based on the authority of, this chapter or chapter 5, 313, or 315 of this title and performed after December 31, 2002, shall be conducted by—
 
 &emsp;(1) a motor carrier safety auditor certified under subsection (a); or
 

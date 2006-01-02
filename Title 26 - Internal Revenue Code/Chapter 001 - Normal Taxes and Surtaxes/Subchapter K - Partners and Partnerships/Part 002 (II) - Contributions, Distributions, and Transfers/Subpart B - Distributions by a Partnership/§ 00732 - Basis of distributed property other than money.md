@@ -144,7 +144,3 @@ Section 1061(b) of Pub. L. 105–34 provided that: “The amendment made by subs
 
 Amendment by section 1062(b)(3) of Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 197, 613A, 731, 733, 734, 751, 1276 of this title.
-

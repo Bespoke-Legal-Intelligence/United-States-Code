@@ -32,25 +32,61 @@ For purposes of this section, the term “qualified disaster” means—
 
 #### (d) Coordination with employment taxes
 
-For purposes of chapter 2 and subtitle C, a qualified disaster relief payment shall not be treated as net earnings from self-employment, wages, or compensation subject to tax.
+For purposes of chapter 2 and subtitle C, qualified disaster relief payments and qualified disaster mitigation payments shall not be treated as net earnings from self-employment, wages, or compensation subject to tax.
 
 #### (e) No relief for certain individuals
 
-Subsections (a) and (f) shall not apply with respect to any individual identified by the Attorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
+Subsections (a), (f), and (g) shall not apply with respect to any individual identified by the Attorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
 
 #### (f) Exclusion of certain additional payments
 
 Gross income shall not include any amount received as payment under section 406 of the Air Transportation Safety and System Stabilization Act.
 
-(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432.)
+#### (g) Qualified disaster mitigation payments
+
+#### (1) In general
+
+&emsp;Gross income shall not include any amount received as a qualified disaster mitigation payment.
+
+#### (2) Qualified disaster mitigation payment defined
+
+&emsp;For purposes of this section, the term “qualified disaster mitigation payment” means any amount which is paid pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date) to or for the benefit of the owner of any property for hazard mitigation with respect to such property. Such term shall not include any amount received for the sale or disposition of any property.
+
+#### (3) No increase in basis
+
+&emsp;Notwithstanding any other provision of this subtitle, no increase in the basis or adjusted basis of any property shall result from any amount excluded under this subsection with respect to such property.
+
+#### (h) Denial of double benefit
+
+Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
+
+(Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21.)
 
 #### References in Text
 
 Section 406 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (f), is section 406 of Pub. L. 107–42, which is set out as a note under section 40101 of Title 49, Transportation.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
+The date of the enactment of this subsection, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
+
+The National Flood Insurance Act, referred to in subsec. (g)(2), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+
 #### Prior Provisions
 
 A prior section 139 was renumbered section 140 of this title.
+
+#### Amendments
+
+2005—Subsec. (d). Pub. L. 109–7, §1(a)(2)(A), substituted “qualified disaster relief payments and qualified disaster mitigation payments” for “a qualified disaster relief payment”.
+
+Subsec. (e). Pub. L. 109–7, §1(a)(2)(B), substituted “, (f), and (g)” for “and (f)”.
+
+Subsecs. (g), (h). Pub. L. 109–7, §1(a)(1), added subsecs. (g) and (h).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–7, §1(c)(1), Apr. 15, 2005, 119 Stat. 22, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to amounts received before, on, or after the date of the enactment of this Act \[Apr. 15, 2005\].”
 
 #### Effective Date
 

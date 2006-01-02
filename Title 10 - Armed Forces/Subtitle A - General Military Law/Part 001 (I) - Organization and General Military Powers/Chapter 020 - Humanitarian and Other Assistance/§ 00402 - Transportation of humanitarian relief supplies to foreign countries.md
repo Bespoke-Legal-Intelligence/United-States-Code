@@ -70,7 +70,3 @@ Modification of Applications.—The Administrator of the United States Agency fo
 
 Section 332(d) of Pub. L. 100–180 directed that first report under section 402(d) of this title be submitted not more than six months after the date on which the most recent report was submitted under section 1540(e) of the Department of Defense Authorization Act, 1985 (Pub. L. 98–525; 98 Stat. 2638).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 5463.
-

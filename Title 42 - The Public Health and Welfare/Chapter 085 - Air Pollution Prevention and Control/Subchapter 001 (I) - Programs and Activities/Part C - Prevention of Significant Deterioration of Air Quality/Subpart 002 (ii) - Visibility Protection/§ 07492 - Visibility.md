@@ -22,11 +22,11 @@ Within 24 months after November 15, 1990, the Administrator shall conduct an ass
 
 #### (1) Authority to establish visibility transport regions
 
-&emsp;Whenever, upon the Administrator's motion or by petition from the Governors of at least two affected States, the Administrator has reason to believe that the current or projected interstate transport of air pollutants from one or more States contributes significantly to visibility impairment in class I areas located in the affected States, the Administrator may establish a transport region for such pollutants that includes such States. The Administrator, upon the Administrator's own motion or upon petition from the Governor of any affected State, or upon the recommendations of a transport commission established under subsection (b) of this section <sup>1</sup> may—
+&emsp;Whenever, upon the Administrator's motion or by petition from the Governors of at least two affected States, the Administrator has reason to believe that the current or projected interstate transport of air pollutants from one or more States contributes significantly to visibility impairment in class I areas located in the affected States, the Administrator may establish a transport region for such pollutants that includes such States. The Administrator, upon the Administrator's own motion or upon petition from the Governor of any affected State, or upon the recommendations ofa transport commission established under subsection (b) of this section <sup>1</sup> may—
 
 &emsp;&emsp;(A) add any State or portion of a State to a visibility transport region when the Administrator determines that the interstate transport of air pollutants from such State significantly contributes to visibility impairment in a class I area located within the transport region, or
 
-&emsp;&emsp;(B) remove any State or portion of a State from the region whenever the Administratorhas reason to believe that the control of emissions in that State or portion of the State pursuant to this section will not significantly contribute to the protection or enhancement of visibility in any class I area in the region.
+&emsp;&emsp;(B) remove any State or portion of a State from the region whenever the Administrator has reason to believe that the control of emissions in that State or portion of the State pursuant to this section will not significantly contribute to the protection or enhancement of visibility in any class I area in the region.
 
 #### (2) Visibility transport commissions
 

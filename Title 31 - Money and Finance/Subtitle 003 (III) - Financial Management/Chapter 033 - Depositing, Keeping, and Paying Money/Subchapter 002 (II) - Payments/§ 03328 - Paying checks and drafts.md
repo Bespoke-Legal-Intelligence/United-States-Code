@@ -100,7 +100,7 @@ Subsection (c) is substituted for 31:132(c) for consistency and to eliminate unn
 
 In subsection (d), the words “rules and” and “or proper” are omitted as surplus.
 
-In subsection (e)(1), before clause (A), the word “prescribe” is substituted for “issue and publish” for consistency in the revised title and with other titles of the United States Code. In clause (B), the words “and to prescribe the time, according to the different distances of the depositaries from the seat of Government, within which all drafts upon them, respectively, shall be presented for payment” are omitted as superseded by subsection (a) of the revised section. Clause (C) is substituted for 31:527(words between semicolons) to eliminate unnecessary words.
+In subsection (e)(1), before clause (A), the word “prescribe” is substituted for “issue and publish” for consistency in the revised title and with other titles of the United States Code. In clause (B), the words “and to prescribe the time, according to the different distancesof the depositaries from the seat of Government, within which all drafts upon them, respectively, shall be presented for payment” are omitted as superseded by subsection (a) of the revised section. Clause (C) is substituted for 31:527(words between semicolons) to eliminate unnecessary words.
 
 In subsection (e)(2), the words “and directions” are omitted as surplus.
 

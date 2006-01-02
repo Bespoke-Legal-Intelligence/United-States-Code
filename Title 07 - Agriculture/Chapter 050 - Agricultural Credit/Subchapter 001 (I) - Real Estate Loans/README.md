@@ -16,6 +16,7 @@
 - [&sect; 01926c - Water and waste facility loans and grants to alleviate health risks](%C2%A7%2001926c%20-%20Water%20and%20waste%20facility%20loans%20and%20grants%20to%20alleviate%20health%20risks.md)
 - [&sect; 01926d - Water systems for rural and Native villages in Alaska](%C2%A7%2001926d%20-%20Water%20systems%20for%20rural%20and%20Native%20villages%20in%20Alaska.md)
 - [&sect; 01926e - Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well&#8230;](%C2%A7%2001926e%20-%20Grants%20to%20nonprofit%20organizations%20to%20finance%20the%20construction%2C%20refurbishing%2C%20and%20servicing%20of%20individually-owned%20household%20water%20well%E2%80%A6.md)
+- [&sect; 01926f - Contracts with not-for-profit third parties](%C2%A7%2001926f%20-%20Contracts%20with%20not-for-profit%20third%20parties.md)
 - [&sect; 01927 - Repayment requirements](%C2%A7%2001927%20-%20Repayment%20requirements.md)
 - [&sect; 01927a - Loan interest rates charged by Farmers Home Administration; grant funds associated with loans](%C2%A7%2001927a%20-%20Loan%20interest%20rates%20charged%20by%20Farmers%20Home%20Administration%3B%20grant%20funds%20associated%20with%20loans.md)
 - [&sect; 01928 - Full faith and credit](%C2%A7%2001928%20-%20Full%20faith%20and%20credit.md)

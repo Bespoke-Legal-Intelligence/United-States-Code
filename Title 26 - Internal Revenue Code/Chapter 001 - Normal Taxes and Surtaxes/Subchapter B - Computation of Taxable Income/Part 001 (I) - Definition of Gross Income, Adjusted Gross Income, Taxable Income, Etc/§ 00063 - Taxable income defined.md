@@ -28,19 +28,15 @@ For purposes of this subtitle—
 
 &emsp;For purposes of paragraph (1), the basic standard deduction is—
 
-&emsp;&emsp;(A) the applicable percentage of the dollar amount in effect under subparagraph (D) for the taxable year in the case of—
+&emsp;&emsp;(A) 200 percent of the dollar amount in effect under subparagraph (C) for the taxable year in the case of—
 
 &emsp;&emsp;&emsp;(i) a joint return, or
 
 &emsp;&emsp;&emsp;(ii) a surviving spouse (as defined in section 2(a)),
 
-&emsp;&emsp;(B) $4,400 in the case of a head of household (as defined in section 2(b)),
+&emsp;&emsp;(B) $4,400 in the case of a head of household (as defined in section 2(b)), or
 
-&emsp;&emsp;(C) one-half of the amount in effect under subparagraph (A) in the case of a married individual filing a separate return, or
-
-&emsp;&emsp;(D) $3,000 in any other case.
-
-> &emsp;If any amount determined under subparagraph (A) is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.
+&emsp;&emsp;(C) $3,000 in any other case.
 
 #### (3) Additional standard deduction for aged and blind
 
@@ -48,13 +44,13 @@ For purposes of this subtitle—
 
 #### (4) Adjustments for inflation
 
-&emsp;In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2)(B), (2)(D), or (5) or subsection (f) shall be increased by an amount equal to—
+&emsp;In the case of any taxable year beginning in a calendar year after 1988, each dollar amount contained in paragraph (2)(B), (2)(C), or (5) or subsection (f) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, by substituting for “calendar year 1992” in subparagraph (B) thereof—
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for “calendar year 1992” in subparagraph (B) thereof—
 
-&emsp;&emsp;&emsp;(i) “calendar year 1987” in the case of the dollar amounts contained in paragraph (2)(B), (2)(D), or (5)(A) or subsection (f), and
+&emsp;&emsp;&emsp;(i) “calendar year 1987” in the case of the dollar amounts contained in paragraph (2)(B), (2)(C), or (5)(A) or subsection (f), and
 
 &emsp;&emsp;&emsp;(ii) “calendar year 1997” in the case of the dollar amount contained in paragraph (5)(B).
 
@@ -79,44 +75,6 @@ For purposes of this subtitle—
 &emsp;&emsp;(D) an estate or trust, common trust fund, or partnership,
 
 > &emsp;the standard deduction shall be zero.
-
-#### (7) Applicable percentage
-
-&emsp;For purposes of paragraph (2), the applicable percentage shall be determined in accordance with the following table:
-
-<b>For taxable years beginning</b>
-
-<b>The applicable</b>
-
-<b> in calendar year—</b>
-
-<b>percentage is—</b>
-
-&emsp;&emsp;2003 and 2004
-
-200&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2005
-
-174&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2006
-
-184&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2007
-
-187&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2008
-
-190&nbsp;&nbsp;&nbsp;
-
-&emsp;&emsp;2009 and thereafter
-
-200\.&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### (d) Itemized deductions
 
@@ -172,25 +130,33 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 #### (4) Blindness defined
 
-&emsp;For purposes of this subsection, an individual is blind only if his central visual acuity does not exceed 20/200 in the better eye withcorrecting lenses, or if his visual acuity is greater than 20/200 but is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees.
+&emsp;For purposes of this subsection, an individual is blind only if his central visual acuity does not exceed 20/200 in the better eye with correcting lenses, or if his visual acuity is greater than 20/200 but is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees.
 
 #### (g) Marital status
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167.)
 
-#### Standard Deduction Adjustments for Taxable Years Beginning in 2004
+#### Standard Deduction Adjustments for Taxable Years Beginning in 2006
 
-<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsections (c)(2), (5) and (f) of this section for taxable years beginning in 2004, see section 3.10 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsections (c)(2), (5) and (f) of this section for taxable years beginning in 2006, see section 3.10 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 105 of Pub. L. 108–311, see Effective and Termination Dates of 2004 Amendment note below.</i>
 
 <i>For termination of amendment by section 107 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–311, §§101(b)(1), 105, temporarily reenacted heading without change and amended text generally, substituting provisions relating to a specific percentage for provisions relating to applicable percentage in subpar. (A), redesignating subpar. (D) as (C), and deleting former subpar. (C) relating to married individuals filing separately. See Effective and Termination Dates of 2004 Amendment note below.
+
+Subsec. (c)(4). Pub. L. 108–311, §§101(b)(2)(A), 105, temporarily substituted “(2)(C)” for “(2)(D)” in introductory provisions and in subpar. (B)(i). See Effective and Termination Dates of 2004 Amendment note below.
+
+Subsec. (c)(7). Pub. L. 108–311, §§101(b)(2)(B), 105, temporarily struck out par. (7) which related to applicable percentage for purposes of par. (2). See Effective and Termination Dates of 2004 Amendment note below.
 
 2003—Subsec. (c)(7). Pub. L. 108–27, §§103(a), 107, temporarily inserted table item relating to years 2003 and 2004. See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -320,6 +286,12 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 
 1977—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
 
+#### Effective and Termination Dates of 2004 Amendment
+
+Amendment by section 101(b) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2003, see section 101(e) of Pub. L. 108–311, set out as a note under section 1 of this title.
+
+Amendment by section 101(b) of Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title.
+
 #### Effective and Termination Dates of 2003 Amendment
 
 Pub. L. 108–27, title I, §103(c), May 28, 2003, 117 Stat. 754, provided that: “The amendments made by this section \[amending this section and provisions set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] shall apply to taxable years beginning after December 31, 2002.”
@@ -376,9 +348,5 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 2, 3, 56, 161, 211, 1034, 1375, 3402, 6012, 6013, 6014, 6212, 6504 of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

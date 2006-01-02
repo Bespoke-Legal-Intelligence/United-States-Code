@@ -104,7 +104,7 @@ Section 1012(bb)(7)(B) of Pub. L. 100–647 provided that: “The amendment made
 
 #### Effective Date of 1986 Amendment
 
-Section 1226(c)(2) of Pub. L. 99–514 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 1226(c)(2) of Pub. L. 99–514 provided that: “The amendment made by subsection (b) \[amendingthis section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -133,8 +133,4 @@ Election.—
 &emsp;&emsp;“(ii) Subparagraph (A) shall apply with respect to transactions to which subsection (f) of section 1248 of such Code applies if the domestic corporation described in section 1248(f)(1) of such Code (or its successor) so elects.
 
 &emsp;&emsp;“(iii) Any election under clause (i) or (ii) shall be made not later than the date which is 1 year after the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\] and shall be made in such manner as the Secretary of the Treasury or his delegate shall prescribe.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 304, 851, 951, 956, 960, 961, 962, 986, 1246, 1248, 1291, 1293, 1298 of this title.
 

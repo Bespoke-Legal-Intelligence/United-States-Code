@@ -52,7 +52,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;(ii) makes available 24-hour emergency care services that a State determines are necessary for ensuring access to emergency care services in each area served by a critical access hospital;
 
-&emsp;&emsp;&emsp;(iii) provides not more than 25 acute care inpatient beds (meeting such standards as the Secretary may establish) for providing inpatient care for a period that does not exceed, as determined on an annual, average basis, 96 hours per patient;
+&emsp;&emsp;&emsp;(iii) provides not more than 25 acute care inpatient beds (meeting such standards as the Secretary may establish) for providing inpatient care for a period that does notexceed, as determined on an annual, average basis, 96 hours per patient;
 
 &emsp;&emsp;&emsp;(iv) meets such staffing requirements as would apply under section 1395x(e) of this title to a hospital located in a rural area, except that—
 
@@ -138,7 +138,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 #### (C) Credentialing and quality assurance
 
-&emsp;&emsp;Each critical access hospital that is a member of a rural health network shall have an agreement with respect to credentialing and quality assurance with at least—
+&emsp;&emsp;Each critical access hospital that is a member of a rural health network shall havean agreement with respect to credentialing and quality assurance with at least—
 
 &emsp;&emsp;&emsp;(i) 1 hospital that is a member of the network;
 
@@ -260,7 +260,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (i) Waiver of conflicting part A provisions
 
-The Secretary is authorized to waive such provisions of this part and part E of this subchapteras are necessary to conduct the program established under this section.
+The Secretary is authorized to waive such provisions of this part and part E of this subchapter as are necessary to conduct the program established under this section.
 
 #### (j) Authorization of appropriations
 
@@ -300,7 +300,7 @@ Subsec. (j). Pub. L. 108–173, §405(f)(1), inserted before period at end “,�
 
 Subsec. (c)(2)(B)(i). Pub. L. 106–113, §1000(a)(6) \[title IV, §403(b)\], substituted “hospital” for “nonprofit or public hospital”.
 
-Pub. L. 106–113, §1000(a)(6) \[title IV, §401(b)(2)\], inserted “or is treated as being located in a rural area pursuant to section 1395ww(d)(8)(E) of this title” after “section 1395ww(d)(2)(D) of this title)”.
+Pub. L. 106–113, §1000(a)(6) \[title IV, §401(b)(2)\], inserted “or is treated as being located in a rural areapursuant to section 1395ww(d)(8)(E) of this title” after “section 1395ww(d)(2)(D) of this title)”.
 
 Pub. L. 106–113, §1000(a)(6) \[title III, §321(a)\], substituted “that is located in a county (or equivalent unit of local government) in a rural area (as defined in section 1395ww(d)(2)(D) of this title), and that” for “and is located in a county (or equivalent unit of local government) in a rural area (as defined in section 1395ww(d)(2)(D) of this title) that”.
 
@@ -326,7 +326,7 @@ Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in section 1395x(r)(1) of this title”.
 
-Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skillednursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
+Subsec. (f)(3). Pub. L. 103–432, §102(c), substituted “because, at the time the facility applies to the State for designation as a rural primary care hospital, there is in effect an agreement between the facility and the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities are used for the furnishing of extended care services, except that the number of beds used for the furnishing of such services may not exceed the total number of licensed inpatient beds at the time the facility applies to the State for such designation (minus the number of inpatient beds used for providing inpatient care pursuant to paragraph (1)(F)). For purposes of the previous sentence, the number of beds of the facility used for the furnishing of extended care services shall not include any beds of a unit of the facility that is licensed as a distinct-part skilled nursing facility at the time the facility applies to the State for designation as a rural primary care hospital.” for “because the facility has entered into an agreement with the Secretary under section 1395tt of this title under which the facility's inpatient hospital facilities may be used for the furnishing of extended care services.”
 
 Subsec. (f)(4). Pub. L. 103–432, §102(a)(2), added par. (4).
 
@@ -364,7 +364,7 @@ Amendment by section 405(g)(1) of Pub. L. 108–173 applicable to cost reporting
 
 Amendment by section 1000(a)(6) \[title III, §321(a)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that:“The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §403(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–370, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Nov. 29, 1999\].”
 
@@ -418,7 +418,7 @@ Initial period.—Subject to clause (ii), the transition period described in thi
 
 &emsp;“(ii)
 
-Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998,the Secretary shall provide for an appropriate extension of the transition period.”
+Extension.—If the Secretary determines that the transition is not complete as of October 1, 1998, the Secretary shall provide for an appropriate extension of the transition period.”
 
 #### GAO Reports
 

@@ -2,7 +2,7 @@
 
 #### (a) Forfeiture
 
-Except as otherwise herein provided, any lease issued under the provisions of this chapter may be forfeited and canceled by an appropriate proceeding in the United States district court for the district in which the property, or some part thereof, is located whenever the lessee fails to comply with any of the provisions of this chapter, of the lease, or of the general regulations promulgated under this chapter and in force at the date of the lease; and the lease may provide for resort to appropriate methods for the settlement of disputes or for remedies for breach of specified conditions thereof.
+Except as otherwise herein provided, any lease issued under the provisions of this chapter may be forfeited and canceled by an appropriate proceeding in the United States district court for the district in which the property, or some part thereof, is located whenever the lessee fails to comply with any of the provisions of this chapter, of the lease, or of the general regulations promulgated under this chapter and in force at the date of the lease; and the lease may providefor resort to appropriate methods for the settlement of disputes or for remedies for breach of specified conditions thereof.
 
 #### (b) Cancellation
 
@@ -22,23 +22,23 @@ Where any lease has been or is hereafter terminated automatically by operation o
 
 (2) No lease shall be reinstated under paragraph (1) of this subsection unless—
 
-&emsp;(A) with respect to any lease that terminated under subsection (b) of this section prior to January 12, 1983:
+&emsp;(A) with respect to any lease that terminated under subsection (b) of this section on or before August 8, 2005, a petition for reinstatement (together with the required back rental and royalty accruing after the date of termination) is filed on or before the earlier of—
 
-&emsp;&emsp;(i) the lessee tendered rental prior to January 12, 1983, and the final determination that the lease terminated was made by the Secretary or a court less than three years before January 12, 1983, and
+&emsp;&emsp;(i) 60 days after the lessee receives from the Secretary notice of termination, whether by return of check or by any other form of actual notice; or
 
-&emsp;&emsp;(ii) a petition for reinstatement together with the required back rental and royalty accruing from the date of termination, is filed with the Secretary on or before the one hundred and twentieth day after January 12, 1983, or
+&emsp;&emsp;(ii) 15 months after the termination of the lease; or
 
-&emsp;(B) with respect to any lease that terminated under subsection (b) of this section on or after January 12, 1983, a petition for reinstatement together with the required back rental and royalty accruing from the date of termination is filed on or before the earlier of—
+&emsp;(B) with respect to any lease that terminates under subsection (b) of this section after August 8, 2005, a petition for reinstatement (together with the required back rental and royalty accruing after the date of termination) is filed on or before the earlier of—
 
-&emsp;&emsp;(i) sixty days after the lessee receives from the Secretary notice of termination, whether by return of check or by any other form of actual notice, or
+&emsp;&emsp;(i) 60 days after receipt of the notice of termination sent by the Secretary by certified mail to all lessees of record; or
 
-&emsp;&emsp;(ii) fifteen months after termination of the lease.
+&emsp;&emsp;(ii) 24 months after the termination of the lease.
 
 #### (e) Conditions for reinstatement
 
 Any reinstatement under subsection (d) of this section shall be made only if these conditions are met:
 
-&emsp;(1) no valid lease, whether still in existence or not, shall have been issued affecting any ofthe lands covered by the terminated lease prior to the filing of such petition: <i>Provided, however</i>, That after receipt of a petition for reinstatement, the Secretary shall not issue any new lease affecting any of the lands covered by such terminated lease for a reasonable period, as determined in accordance with regulations issued by him;
+&emsp;(1) no valid lease, whether still in existence or not, shall have been issued affecting any of the lands covered by the terminated lease prior to the filing of such petition: <i>Provided, however</i>, That after receipt of a petition for reinstatement, the Secretary shall not issue any new lease affecting any of the lands covered by such terminated lease for a reasonable period, as determined in accordance with regulations issued by him;
 
 &emsp;(2) payment of back rentals and either the inclusion in a reinstated lease issued pursuant to the provisions of section 226(b) of this title of a requirement for future rentals at a rate of not less than $10 per acre per year, or the inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement that future rentals shall be at a rate not less than $5 per acre per year, all as determined by the Secretary;
 
@@ -64,7 +64,7 @@ Where an unpatented oil placer mining claim validly located prior to February 24
 
 &emsp;(3) a requirement in the lease for payment of rental, including back rentals accruing from the statutory date of abandonment of the oil placer mining claim, of not less than $5 per acre per year;
 
-&emsp;(4) a requirement in the lease for payment of royalty on production removed or sold from the oil placer mining claim, including all royalty on production made subsequent to the statutory date the claim was deemed conclusively abandoned, of not less than 121/2 percent; and
+&emsp;(4) a requirement in the lease for payment of royalty on production removed or sold fromthe oil placer mining claim, including all royalty on production made subsequent to the statutory date the claim was deemed conclusively abandoned, of not less than 121/2 percent; and
 
 &emsp;(5) compliance with the notice and reimbursement of costs provisions of paragraph (4) of subsection (e) of this section but addressed to the petition covering the conversion of an abandoned unpatented oil placer mining claim to a noncompetitive oil and gas lease.
 
@@ -92,13 +92,15 @@ The minimum royalty provisions of section 226(m) of this title and the provision
 
 Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title, the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year's rental, provided the conditions of subparagraphs (1) and (2) of subsection (c) of this section are satisfied.
 
-(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589.)
+(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 109–58, title III, §371(b), Aug. 8, 2005, 119 Stat. 734.)
 
 #### References in Text
 
 The Mineral Leasing Act for Acquired Lands, referred to in subsec. (d)(1), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (d)(2)(A), (B). Pub. L. 109–58 added subpars. (A) and (B) and struck out former subpars. (A) and (B), which related to reinstatement with respect to any lease that terminated under subsec. (b) of this section prior to Jan. 12, 1983, and reinstatement with respect to any lease that terminated under subsec. (b) of this section on or after Jan. 12, 1983.
 
 1994—Subsec. (e). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House” in concluding provisions.
 
@@ -112,7 +114,7 @@ Subsec. (h). Pub. L. 100–203, §5102(d)(2), substituted “section 226(m)” f
 
 1970—Subsec. (b). Pub. L. 91–245, §1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
 
-Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary's power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
+Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of backrental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary's power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
 
 1962—Pub. L. 87–822 designated existing pars. as subsecs. (a) and (b) and added subsecs. (c) and (d).
 
@@ -127,6 +129,22 @@ Committee on Natural Resources of House of Representatives treated as referring 
 #### Savings Provision
 
 See note set out under section 181 of this title.
+
+#### Reinstatement of Leases
+
+Pub. L. 109–58, title III, §371(a), Aug. 8, 2005, 119 Stat. 734, provided that:
+
+“Notwithstanding section 31(d)(2)(B) of the Mineral Leasing Act (30 U.S.C. 188(d)(2)(B)) as in effect before the effective date of this section \[probably means the date of enactment of Pub. L. 109–58, Aug. 8, 2005\], and notwithstanding the amendment made by subsection (b) of this section \[amending this section\], the Secretary of the Interior may reinstate any oil and gas lease issued under that Act \[30 U.S.C. 181 et seq.\] that was terminated for failure of a lessee to pay the full amount of rental on or before the anniversary date of the lease, during the period beginning on September 1, 2001, and ending on June 30, 2004, if—
+
+&emsp;“(1) not later than 120 days after the date of enactment of this Act \[Aug. 8, 2005\], the lessee—
+
+&emsp;&emsp;“(A) files a petition for reinstatement of the lease;
+
+&emsp;&emsp;“(B) complies with the conditions of section 31(e) of the Mineral Leasing Act (30 U.S.C. 188(e)); and
+
+&emsp;&emsp;“(C) certifies that the lessee did not receive a notice of termination by the date that was 13 months before the date of termination; and
+
+&emsp;“(2) the land is available for leasing.”
 
 #### Authority for Issuance of Leases Unaffected by Reinstatement of Leases
 

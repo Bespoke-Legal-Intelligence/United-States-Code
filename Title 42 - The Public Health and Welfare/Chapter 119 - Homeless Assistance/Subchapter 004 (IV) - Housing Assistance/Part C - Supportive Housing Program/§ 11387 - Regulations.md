@@ -6,5 +6,5 @@ Not later than the expiration of the 90-day period beginning on October 28, 1992
 
 #### Prior Provisions
 
-A prior section 11387, Pub. L. 100–77, title IV, §427, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §453, Nov. 7, 1988, 102 Stat. 3236, provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
+A prior section 11387, Pub. L. 100–77, title IV, §427, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §453,Nov. 7, 1988, 102 Stat. 3236, provided for reports to Congress summarizing the activities carried out under the supportive housing demonstration program, prior to repeal by Pub. L. 102–550, §1403(a).
 

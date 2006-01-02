@@ -20,7 +20,7 @@ Retention of Major Generals.—A reserve officer of the Army or Air Force in the
 
 Exception for State Adjutants General and Assistant Adjutants General.—This section does not apply to an officer who is the adjutant general or assistant adjutant general of a State.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, §1501(b)(30), Feb. 10, 1996, 110 Stat. 498; Pub. L. 105–85, div. A, title V, §521(b), Nov. 18, 1997, 111 Stat. 1734.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, §1501(b)(30), Feb. 10,1996, 110 Stat. 498; Pub. L. 105–85, div. A, title V, §521(b), Nov. 18, 1997, 111 Stat. 1734.)
 
 #### Prior Provisions
 
@@ -35,8 +35,4 @@ Provisions similar to those in this section were contained in sections 3851, 385
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10214, 14514, 14702 of this title.
 

@@ -72,6 +72,7 @@
 | [3174\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003174%20-%20Operation%20of%20public%20utility%20communications%20services%20serving%20governmental%20activities.md) | Operation of public utility communications services serving governmental activities. |
 | [3175\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003175%20-%20Acceptance%20of%20gifts%20of%20property.md) | Acceptance of gifts of property. |
 | [3176\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003176%20-%20Administrator%20of%20General%20Services%20to%20furnish%20services%20in%20continental%20United%20States%20to%20international%20bodies.md) | Administrator of General Services to furnish services in continental United States to international bodies. |
+| [3177\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2003177%20-%20Use%20of%20photovoltaic%20energy%20in%20public%20buildings.md) | Use of photovoltaic energy in public buildings.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

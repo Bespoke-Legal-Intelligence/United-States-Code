@@ -48,7 +48,37 @@ Corrections and Amplifications.—The Register may also establish, by regulation
 
 Published Edition of Previously Registered Work.—Registration for the first published edition of a work previously registered in unpublished form may be made even though the work as published is substantially the same as the unpublished version.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2580; Pub. L. 100–568, §9(a), Oct. 31, 1988, 102 Stat. 2859; Pub. L. 102–307, title I, §102(e), June 26, 1992, 106 Stat. 266.)
+(f)
+
+Preregistration of Works Being Prepared for Commercial Distribution.—
+
+&emsp;(1)
+
+Rulemaking.—Not later than 180 days after the date of enactment of this subsection, the Register of Copyrights shall issue regulations to establish procedures for preregistration of a work that is being prepared for commercial distribution and has not been published.
+
+&emsp;(2)
+
+Class of works.—The regulations established under paragraph (1) shall permit preregistration for any work that is in a class of works that the Register determines has had a history of infringement prior to authorized commercial distribution.
+
+&emsp;(3)
+
+Application for registration.—Not later than 3 months after the first publication of a work preregistered under this subsection, the applicant shall submit to the Copyright Office—
+
+&emsp;&emsp;(A) an application for registration of the work;
+
+&emsp;&emsp;(B) a deposit; and
+
+&emsp;&emsp;(C) the applicable fee.
+
+&emsp;(4)
+
+Effect of untimely application.—An action under this chapter for infringement of a work preregistered under this subsection, in a case in which the infringement commenced no later than 2 months after the first publication of the work, shall be dismissed if the items described in paragraph (3) are not submitted to the Copyright Office in proper form within the earlier of—
+
+&emsp;&emsp;(A) 3 months after the first publication of the work; or
+
+&emsp;&emsp;(B) 1 month after the copyright owner has learned of the infringement.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2580; Pub. L. 100–568, §9(a), Oct. 31, 1988, 102 Stat.2859; Pub. L. 102–307, title I, §102(e), June 26, 1992, 106 Stat. 266; Pub. L. 109–9, title I, §104(a), Apr. 27, 2005, 119 Stat. 221.)
 
 #### Historical and Revision Notes
 
@@ -64,13 +94,13 @@ With respect to works published in the United States, a single deposit could be 
 
 <b>Optional Deposit.</b> Consistent with the principle of administrative flexibility underlying all of the deposit and registration provisions, subsection (c) of section 408 also gives the Register latitude in adjusting the type of material deposited to the needs of the registration system. The Register is authorized to issue regulations specifying “the nature of the copies of phonorecords to be deposited in the various classes” and, for particular classes, to require or permit deposit of identifying material rather than copies or phonorecords, deposit of one copy or phonorecord rather than two, or, in the case of a group of related works, a single rather than a number of separate registrations. Under this provision the Register could, where appropriate, permit deposit of phonorecords rather than notated copies of musical compositions, allow or require deposit of print-outs of computer programs under certain circumstances, or permit deposit of one volume of an encyclopedia for purposes of registration of a single contribution.
 
-Where the copies or phonorecords are bulky, unwieldly, easily broken, or otherwise impractical to file and retain as records identifying the work registered, the Register would be able to require or permit the substitute deposit of material that would better serve the purpose of identification. Cases of this sort might include, for example, billboard posters, toys and dolls, ceramics and glassware, costume jewelry, and a wide range of three-dimensional objects embodying copyrighted material. The Register's authority would also extend to rare or extremely valuable copies which would be burdensome or impossible to deposit. Deposit of one copy or phonorecord rather than two would probably be justifiable in the case of most motion pictures, and in any case where the Library of Congress has no need for the deposit and its only purpose is identification.
+Where the copies or phonorecords are bulky, unwieldy, easily broken, or otherwise impractical to file and retain as records identifying the work registered, the Register would be able to require or permit the substitute deposit of material that would better serve the purpose of identification. Cases of this sort might include, for example, billboard posters, toys and dolls, ceramics and glassware, costume jewelry, and a wide range of three-dimensional objects embodying copyrighted material. The Register's authority would also extend to rare or extremely valuable copies which would be burdensome or impossible to deposit. Deposit of one copy or phonorecord rather than two would probably be justifiable in the case of most motion pictures, and in any case where the Library of Congress has no need for the deposit and its only purpose is identification.
 
 The provision empowering the Register to allow a number of related works to be registered together as a group represents a needed and important liberalization of the law now in effect. At present the requirement for separate registrations where related works or parts of a work are published separately has created administrative problems and has resulted in unnecessary burdens and expenses on authors and other copyright owners. In a number of cases the technical necessity for separate applications and fees has caused copyright owners to forego copyright altogether. Examples of cases where these undesirable and unnecessary results could be avoided by allowing a single registration include the various editions or issues of a daily newspaper, a work published in serial installments, a group of related jewelry designs, a group of photographs by one photographer, a series of greeting cards related to each other in some way, or a group of poems by a single author.
 
 <b>Single Registration.</b> Section 408(c)(2) directs the Register of Copyrights to establish regulations permitting under certain conditions a single registration for a group of works by the same individual author, all first published as contributions to periodicals, including newspapers, within a twelve-month period, on the basis of a single deposit, application, and registration fee. It is required that each of the works as first published have a separate copyright notice, and that the name of the owner of copyright in the work, (or an abbreviation by which the name can be recognized, or a generally known alternative designation of the owner) is the same in each notice. It is further required that the deposit consist of one copy of the entire issue of the periodical, or of the entire section in the case of a newspaper, in which each contribution is first published. Finally, the application shall identify each work separately, including the periodical containing it and its date of first publication.
 
-Section 408(c)(3) provides under certain conditions an alternative to the separate renewal registrations of subsection (a). If the specified conditions are met, a single renewal registration may be made for a group of works by the same individual author, all first published as contributions to periodicals, including newspapers, upon the filing of a single application and fee. It is required that the renewal claimant or claimants, and thebasis of claim or claims under section 304(a), is the same for each of the works; that the works were all copyrighted upon their first publication, either through separate copyright notice and registration or by virtue of a general copyright notice in the periodical issue as a whole; that the renewal application and fee are received not more than twenty-eight or less than twenty-seven years after December 31 of the calendar year in which all of the works were first published; and that the renewal application identifies each work separately, including the periodical containing it and its date of first publication.
+Section 408(c)(3) provides under certain conditions an alternative to the separate renewal registrations of subsection (a). If the specified conditions are met, a single renewal registration may be made for a group of works by the same individual author, all first published as contributions to periodicals, including newspapers, upon the filing of a single application and fee. It is required that the renewal claimant or claimants, and the basis of claim or claims under section 304(a), is the same for each of the works; that the works were all copyrighted upon their first publication, either through separate copyright notice and registration or by virtue of a general copyright notice in the periodical issue as a whole; that the renewal application and fee are received not more than twenty-eight or less than twenty-seven years after December 31 of the calendar year inwhich all of the works were first published; and that the renewal application identifies each work separately, including the periodical containing it and its date of first publication.
 
 <b>Corrections and Amplifications.</b> Another unsatisfactory aspect of the present law is the lack of any provision for correcting or amplifying the information given in a completed registration. Subsection (d) of section 408 would remedy this by authorizing the Register to establish “formal procedures for the filing of an application for supplementary registration,” in order to correct an error or amplify the information in a copyright registration. The “error” to be corrected under subsection (d) is an error by the applicant that the Copyright Office could not have been expected to note during its examination of the claim; where the error in a registration is the result of the Copyright Office's own mistake or oversight, the Office can make the correction on its own initiative and without recourse to the “supplementary registration” procedure.
 
@@ -80,7 +110,13 @@ Under subsection (d), a supplementary registration is subject to payment of a se
 
 On the other hand, there will be a number of cases where the copyright owner, although not required to do so, would like to have registration made for the published edition of the work, especially since the owner will still be obliged to deposit copies or phonorecords of it in the Copyright Office under section 407. From the point of view of the public there are advantages in allowing the owner to do so, since registration for the published edition will put on record the facts about the work in the form in which it is actually distributed to the public. Accordingly, section 408(e), which is intended to accomplish this result, makes an exception to the general rule against allowing more than one registration for the same work.
 
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 109–9, which was approved Apr. 27, 2005.
+
 #### Amendments
+
+2005—Subsec. (f). Pub. L. 109–9 added subsec. (f).
 
 1992—Subsec. (a). Pub. L. 102–307 substituted “At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date,” for “At any time during the subsistence of copyright in any published or unpublished work,”.
 

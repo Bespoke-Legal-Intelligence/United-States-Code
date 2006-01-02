@@ -24,7 +24,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 &emsp;The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
 
-&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
+&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agriculturalcommodity, are likely to be applicable to agricultural commodities generally; or
 
 &emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
 
@@ -114,7 +114,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (17) Wild pampas grass control, management, and eradication research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of control, management, and eradication of wild pampas grass.
+&emsp;Research and extension grants may be made under this section for the purpose of control,management, and eradication of wild pampas grass.
 
 #### (18) Food safety, including pathogen detection and limitation, research and extension
 
@@ -272,7 +272,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (C) Submission
 
-&emsp;&emsp;The Secretary shall submit to Congress the final national plan prepared under subparagraph (B) for the control, management,and possible eradication of imported fire ants.
+&emsp;&emsp;The Secretary shall submit to Congress the final national plan prepared under subparagraph (B) for the control, management, and possible eradication of imported fire ants.
 
 #### (g) Formosan termite research and eradication
 

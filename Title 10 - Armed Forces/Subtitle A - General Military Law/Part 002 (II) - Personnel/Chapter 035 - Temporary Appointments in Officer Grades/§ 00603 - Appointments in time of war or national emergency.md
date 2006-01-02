@@ -1,6 +1,6 @@
 ### §603. Appointments in time of war or national emergency
 
-(a) In time of war, or of national emergency declared by the Congress or the President afterNovember 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, or Marine Corps, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
+(a) In time of war, or of national emergency declared by the Congress or the President after November 30, 1980, the President may appoint any qualified person (whether or not already a member of the armed forces) to any officer grade in the Army, Navy, Air Force, or Marine Corps, except that appointments under this section may not be made in grades above major general or rear admiral. Appointments under this section shall be made by the President alone, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned.
 
 (b) Any appointment under this section is a temporary appointment and may be vacated by the President at any time.
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) The date the person appointed is released from active duty.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12. 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502.)
 
 #### Amendments
 
@@ -61,8 +61,4 @@ Sec. 2. <i>Judicial Review</i>. This order is not intended to, and does not, cre
 Sec. 3. <i>Administration</i>. This order shall be transmitted to the Congress and published in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6325 of this title.
 

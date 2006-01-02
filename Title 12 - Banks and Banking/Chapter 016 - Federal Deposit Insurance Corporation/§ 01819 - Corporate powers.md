@@ -90,7 +90,7 @@ Subsec. (b). Pub. L. 101–73, §209(4), added subsec. (b).
 
 1978—Pub. L. 95–630 in par. Tenth inserted “or of any other law which it has the responsibility of administering or enforcing (except to the extent that authority to issue such rules and regulations has been expressly and exclusively granted to any other regulatory agency)” after “provisions of this chapter”.
 
-1966—Pub. L. 89–695 in par. Fourth vested United States district courts, without regard to the amount incontroversy, with original jurisdiction over any action to which the Corporation is a party and authorized the removal of such actions to the Federal courts.
+1966—Pub. L. 89–695 in par. Fourth vested United States district courts, without regard to the amount in controversy, with original jurisdiction over any action to which the Corporation is a party and authorized the removal of such actions to the Federal courts.
 
 #### Effective Date of 1978 Amendment
 

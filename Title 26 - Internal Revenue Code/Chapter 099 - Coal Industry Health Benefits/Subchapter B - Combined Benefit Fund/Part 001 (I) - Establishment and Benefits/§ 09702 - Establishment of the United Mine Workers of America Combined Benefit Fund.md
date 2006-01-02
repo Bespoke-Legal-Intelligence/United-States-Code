@@ -50,15 +50,11 @@
 
 #### (B) Former signatories
 
-&emsp;&emsp;The initial trustee under paragraph (1)(B) shall be designated by the 3 employers, other than 1988 agreement operators, which therecords of the 1950 UMWA Benefit Plan and 1974 UMWA Benefit Plan indicate have the greatest number of eligible beneficiaries as of the enactment date, and such trustee and any successor shall serve until November 1, 1993.
+&emsp;&emsp;The initial trustee under paragraph (1)(B) shall be designated by the 3 employers, other than 1988 agreement operators, which the records of the 1950 UMWA Benefit Plan and 1974 UMWA Benefit Plan indicate have the greatest number of eligible beneficiaries as of the enactment date, and such trustee and any successor shall serve until November 1, 1993.
 
 #### (c) Plan year
 
 The first plan year of the Combined Fund shall begin February 1, 1993, and end September 30, 1993. Each succeeding plan year shall begin on October 1 of each calendar year.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3040.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9701 of this title; title 30 section 1232.
 

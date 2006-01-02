@@ -28,5 +28,5 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 #### Short Title
 
-Pub. L. 108–148, §1(a), Dec. 3, 2003, 117 Stat. 1887, provided that: “This Act \[enacting this chapter and section 2103b of this title and amending section 6601 of Title 7, Agriculture, and provisions set out as a note under section 8101 of Title 7\] may be cited as the ‘Healthy Forests Restoration Act of 2003’.”
+Pub. L. 108–148, §1(a), Dec. 3, 2003, 117 Stat. 1887, provided that: “This Act \[enacting this chapter and section 2103b of this title and amending sections 6601, 8606, and 8609 of Title 7, Agriculture\] may be cited as the ‘Healthy Forests Restoration Act of 2003’.”
 

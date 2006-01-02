@@ -1,6 +1,6 @@
 ### §103. Federal Railroad Administration
 
-(a) The Federal Railroad Administration is an administration in the Department of Transportation. To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices.
+(a) The Federal Railroad Administration is an administration in the Department of Transportation. To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and forensuring that the laws are uniformly administered and enforced among the safety offices.
 
 (b) The head of the Administration is the Administrator who is appointed by the President, by and with the advice and consent of the Senate. The Administrator reports directly to the Secretary.
 
@@ -14,7 +14,7 @@
 
 (e) Subject to the provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions of the Federal Railroad Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–217, §3(n)(1), Aug. 21, 2002, 116 Stat. 1302.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–217, §3(n)(1), Aug. 21, 2002, 116 Stat. 1302.)
 
 Historical and Revision Notes
 

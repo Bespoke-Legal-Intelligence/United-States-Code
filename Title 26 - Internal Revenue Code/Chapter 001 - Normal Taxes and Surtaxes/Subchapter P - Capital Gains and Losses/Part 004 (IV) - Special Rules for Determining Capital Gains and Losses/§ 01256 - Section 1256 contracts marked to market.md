@@ -4,7 +4,7 @@
 
 For purposes of this subtitle—
 
-&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shall be treated as sold for its fair market value on the last business day of such taxable year (andany gain or loss shall be taken into account for the taxable year),
+&emsp;(1) each section 1256 contract held by the taxpayer at the close of the taxable year shall be treated as sold for its fair market value on the last business day of such taxable year (and any gain or loss shall be taken into account for the taxable year),
 
 &emsp;(2) proper adjustment shall be made in the amount of any gain or loss subsequently realized for gain or loss taken into account by reason of paragraph (1),
 
@@ -88,7 +88,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2), the term “hedging transaction” shall not include any transaction entered into by or for a syndicate.
+&emsp;&emsp;Notwithstanding paragraph (2), the term “hedging transaction” shall not include anytransaction entered into by or for a syndicate.
 
 #### (B) Syndicate defined
 
@@ -146,7 +146,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (1) Denial of capital gains treatment for property identified as part of a hedging transaction
 
-&emsp;For purposes of this title, gain from any property shall in no event be considered as gain from the sale or exchange of a capital asset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2)(C) by the taxpayer as being part of a hedging transaction.
+&emsp;For purposes of this title, gain from any property shall in no event be considered as gain from the sale or exchange of a capital asset if such property was at any time personal property (as defined in section 1092(d)(1)) identified under subsection (e)(2) by the taxpayer as being part of a hedging transaction.
 
 #### (2) Subsection (a)(3) not to apply to ordinary income property
 
@@ -232,7 +232,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the value of which is determined directly or indirectly by reference to any stock or any narrow-based security index (as defined in section 3(a)(55) of the Securities Exchange Act of 1934, as in effect on the date of the enactment of this paragraph).
 
-> &emsp;The term “equity option” includes such an option on a group of stocks only if such group meets the requirements for a narrow-based security index (as so defined).
+> &emsp;The term “equity option” includes such an option on a group of stocks only if such group meets the requirements for a narrow-based security index (as so defined). The Secretary may prescribe regulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined).
 
 #### (7) Qualified board or exchange
 
@@ -260,7 +260,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “dealer securities futures contract” means, with respect to any dealer, any securities futures contract, and any option on such a contract, which—
 
-&emsp;&emsp;&emsp;(i) is entered into by such dealer (or, in the case of an option, is purchased or granted by such dealer) in the normal course of his activity of dealing in such contracts or options, as the case may be, and
+&emsp;&emsp;&emsp;(i) is entered into by such dealer (or, in the case of an option, is purchased or granted by such dealer) in the normal course of his activity of dealing in suchcontracts or options, as the case may be, and
 
 &emsp;&emsp;&emsp;(ii) is traded on a qualified board or exchange.
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “securities futures contract” has the meaning given to such term by section 1234B.
 
-(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(<i>oo</i>), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### References in Text
 
@@ -281,6 +281,10 @@ Section 3(a)(55) of the Securities Exchange Act of 1934, referred to in subsec. 
 The date of the enactment of this paragraph, referred to in subsec. (g)(6)(B), probably means the date of enactment of Pub. L. 106–554, which amended subsec. (g)(6) generally and which was approved Dec. 21, 2000.
 
 #### Amendments
+
+2005—Subsec. (f)(1). Pub. L. 109–135 substituted “subsection (e)(2)” for “subsection (e)(2)(C)”.
+
+2004—Subsec. (g)(6). Pub. L. 108–311 added at end of concluding provisions “The Secretary may prescribe regulations regarding the status of options the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as so defined).”
 
 2002—Subsec. (f)(5). Pub. L. 107–147 added par. (5).
 
@@ -364,6 +368,10 @@ Subsec. (g). Pub. L. 97–448, §105(c)(5)(C), added subsec. (g).
 
 1982—Subsec. (e)(3)(B). Pub. L. 97–354 substituted “an S corporation” for “an electing small business corporation within the meaning of section 1371(b)”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 effective as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], see section 405(b) of Pub. L. 108–311, set out as a note under section 1234B of this title.
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title IV, §416(b)(2), Mar. 9, 2002, 116 Stat. 55, provided that: “The amendment made by this subsection \[amending this section\] shall take effect as if included in section 5075 of the Technical and Miscellaneous Revenue Act of 1988 \[Pub. L. 100–647\].”
@@ -434,7 +442,7 @@ In general.—If the taxpayer makes an election under subsection (g)(2) and unde
 
 Date for payment of installment.—
 
-&emsp;&emsp;“(A) If an election is made under this subsection, the first installment under paragraph (1) shall be paid on or before the due date for filing the return for the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed for payment of the preceding installment.
+&emsp;&emsp;“(A) If an election is made under this subsection, the first installment under paragraph (1) shall be paid on or before the due date for filing the returnfor the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed for payment of the preceding installment.
 
 &emsp;&emsp;“(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as due and payable on the day preceding the day on which such case or proceeding is commenced.
 
@@ -595,8 +603,4 @@ Form of Election.—An election under this section shall be made not later than 
 &emsp;“(3) the fair market value on the last business day of the preceding taxable year for each regulated futures contract described in paragraph (2), and
 
 &emsp;“(4) such other information for purposes of carrying out the provisions of this section as may be required by such regulations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 461, 475, 988, 1092, 1212, 1221, 1223, 1234, 1234A, 1234B, 1258, 1281, 1362, 1402 of this title; title 42 section 411.
 

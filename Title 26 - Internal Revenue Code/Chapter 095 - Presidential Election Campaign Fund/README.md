@@ -22,10 +22,6 @@
 
 1974—Pub. L. 93–443, title IV, §406(c), Oct. 15, 1974, 88 Stat. 1296, substituted “Payments for presidential nominating conventions” for “Information on proposed expenses” in item 9008.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 2 sections 431, 432, 434, 437c, 437d, 437f, 437g, 438, 439c, 441a.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 

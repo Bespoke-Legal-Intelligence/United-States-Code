@@ -28,7 +28,7 @@ Notwithstanding any other provision of law, the applicable Secretary may not mak
 
 (1) If, following completion of the applicable hearing process, financial assistance for any individual receiving such assistance on February 5, 1988, is to be terminated, the public housing agency or other local governmental entity involved (in the case of public housing or assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\]) or the applicable Secretary (in the case of any other financial assistance) shall take one of the following actions:
 
-&emsp;(A) Permit the continued provision of financial assistance, if necessary to avoid the division of a family in which the head of household or spouse is a citizen of the United States, a national of the United States, or an alien resident of the United States described in any of paragraphs (1) through (6) of subsection (a) of this section. For purposes of this paragraph, the term “family” means a head of household, any spouse, any parents of the head of household, any parents of the spouse, and any children of the head of household or spouse. Financial assistance continued under this subparagraph for a family may be provided only on a prorated basis, under which the amount of financial assistance is based on the percentage of the total number of members of the family that are eligible for that assistance under the program of financial assistance and under this section.
+&emsp;(A) Permit the continued provision of financial assistance, if necessary to avoid the division of a family in which the head of household or spouse is a citizen of the United States, a national of the United States, or an alien resident of the United States described in any of paragraphs (1) through (6) of subsection (a) of this section. For purposes of this paragraph, the term “family” means a head of household, any spouse, any parents of the head of household, any parents of the spouse, and any children of the head of household or spouse. Financial assistance continued under this subparagraph for a family may be provided only on a prorated basis, under whichthe amount of financial assistance is based on the percentage of the total number of members of the family that are eligible for that assistance under the program of financial assistance and under this section.
 
 &emsp;(B)(i) Defer the termination of financial assistance, if necessary to permit the orderly transition of the individual and any family members involved to other affordable housing.
 
@@ -74,7 +74,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(A) the applicable Secretary—
 
-&emsp;&emsp;&emsp;(i) shall provide a reasonable opportunity, not to exceed 30 days, to submit to the applicable Secretary evidence indicating a satisfactory immigration status, or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),
+&emsp;&emsp;&emsp;(i) shall provide a reasonable opportunity, not to exceed 30 days, to submit to the applicable Secretary evidence indicating a satisfactory immigration status, orto appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),
 
 &emsp;&emsp;&emsp;(ii) in the case of any individual receiving assistance on September 30, 1996, may not delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual until the expiration of that 30-day period; and
 
@@ -142,7 +142,7 @@ For purposes of this section, the term “applicable Secretary” means—
 
 &emsp;A public housing agency (as that term is defined in section 3 of the United States Housing Act of 1937 \[42 U.S.C. 1437a\])—
 
-&emsp;&emsp;(A) may, notwithstanding paragraph (1) of this subsection, elect not to affirmativelyestablish and verify eligibility before providing financial assistance <sup>1</sup>
+&emsp;&emsp;(A) may, notwithstanding paragraph (1) of this subsection, elect not to affirmatively establish and verify eligibility before providing financial assistance <sup>1</sup>
 
 &emsp;&emsp;(B) in carrying out subsection (d) of this section—
 
@@ -194,7 +194,7 @@ Subsec. (d)(6). Pub. L. 105–276, §592(a)(3)(E), inserted “applicable” bef
 
 Subsec. (h). Pub. L. 105–276, §592(a)(5), redesignated subsec. (h), relating to verification of eligibility, as (i).
 
-Subsec. (h)(1). Pub. L. 105–276, §592(a)(4)(A), substituted “No” for “Except in the case of an election under paragraph (2)(A), no” and “subsection (d) of this section” for “this section” and inserted “applicable” before “Secretary”.
+Subsec. (h)(1). Pub. L. 105–276, §592(a)(4)(A), substituted “No” for “Except in the case of an electionunder paragraph (2)(A), no” and “subsection (d) of this section” for “this section” and inserted “applicable” before “Secretary”.
 
 Subsec. (h)(2)(A). Pub. L. 105–276, §592(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “may elect not to comply with this section; and”.
 
@@ -272,7 +272,7 @@ Subsec. (d). Pub. L. 100–242, §164(c)(8), amended last sentence generally. Pr
 
 Subsec. (d)(2). Pub. L. 100–242, §164(c)(1), inserted “, is not 62 years of age or older, and is receiving financial assistance on February 5, 1988” after “States”.
 
-Subsec. (d)(4). Pub. L. 100–242, §164(c)(2), in introductory provisions, inserted “, is not 62 years of age or older, and is receiving financial assistance on February 5, 1988” after “States”, and “or recertification” after “application”.
+Subsec. (d)(4). Pub. L. 100–242, §164(c)(2), in introductory provisions, inserted “, is not 62 years of age or older, and is receiving financial assistance on February5, 1988” after “States”, and “or recertification” after “application”.
 
 Subsec. (d)(4)(A)(i). Pub. L. 100–242, §164(c)(3), inserted after comma “or to appeal to the Immigration and Naturalization Service the verification determination of the Immigration and Naturalization Service under paragraph (3),”.
 
@@ -362,7 +362,7 @@ Pub. L. 98–181, title IV, §474(e), Nov. 30, 1983, 97 Stat. 1239, provided in 
 
 #### Aliens Granted Conditional Entry Eligible for Assisted Housing
 
-Section 329(b) of Pub. L. 97–35 provided that: “An alien who is lawfully present in the United States as a result of being granted conditional entry pursuant to section 203(a)(7) of the Immigration and Nationality Act (8 U.S.C. 1153(a)(7)) before April 1, 1980, because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity shall be deemed, for purposes of section 214 of the Housing and Community Development Act of 1980 \[this section\], to be an alien described in section 214(a)(3) of such Act \[subsec. (a)(3) of this section\].”
+Section 329(b) of Pub. L. 97–35 provided that: “An alien who is lawfully present in the United States as aresult of being granted conditional entry pursuant to section 203(a)(7) of the Immigration and Nationality Act (8 U.S.C. 1153(a)(7)) before April 1, 1980, because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity shall be deemed, for purposes of section 214 of the Housing and Community Development Act of 1980 \[this section\], to be an alien described in section 214(a)(3) of such Act \[subsec. (a)(3) of this section\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “; and”.</i>
 

@@ -20,7 +20,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 &emsp;&emsp;(ii) the selection for carriage of such a signal shall be at the election of the cable operator; and
 
-&emsp;&emsp;(iii) in order to satisfy the requirements for carriage specified in this subsection, the cable operator of the system shall not be required to remove any other programming service actually provided to subscribers on March 29, 1990; except that such cable operator shall use the first channel available to satisfy the requirements of this subparagraph.
+&emsp;&emsp;(iii) in order to satisfy the requirements for carriage specified in this subsection, the cable operator of the system shall not be required to remove any other programming service actually provided to subscribers onMarch 29, 1990; except that such cable operator shall use the first channel available to satisfy the requirements of this subparagraph.
 
 #### (3) Systems with 13 to 36 channels
 
@@ -46,7 +46,7 @@ A cable operator required to add the signals of qualified local noncommercial ed
 
 #### (e) Systems with more than 36 channels
 
-A cable operator of a cable system with a capacity of more than 36 usable activated channelswhich is required to carry the signals of three qualified local noncommercial educational television stations shall not be required to carry the signals of additional such stations the programming of which substantially duplicates the programming broadcast by another qualified local noncommercial educational television station requesting carriage. Substantial duplication shall be defined by the Commission in a manner that promotes access to distinctive noncommercial educational television services.
+A cable operator of a cable system with a capacity of more than 36 usable activated channels which is required to carry the signals of three qualified local noncommercial educational television stations shall not be required to carry the signals of additional such stations the programming of which substantially duplicates the programming broadcast by another qualified local noncommercial educational television station requesting carriage. Substantial duplication shall be defined by the Commission in a manner that promotes access to distinctive noncommercial educational television services.
 
 #### (f) Waiver of nonduplication rights
 

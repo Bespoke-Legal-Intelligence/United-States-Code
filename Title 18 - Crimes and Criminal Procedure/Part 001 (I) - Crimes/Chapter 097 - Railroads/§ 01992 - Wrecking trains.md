@@ -14,7 +14,7 @@ Whoever is convicted of any such violation involving a train that, at the time t
 
 (c) A person who conspires to commit any offense defined in this section shall be subject to the same penalties (other than the penalty of death) as the penalties prescribed for the offense, the commission of which was the object of the conspiracy.
 
-(June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, §402(b), Dec. 29, 1995, 109 Stat. 955; Pub. L. 107–56, title VIII, §811(e), Oct. 26, 2001, 115 Stat. 381; Pub. L. 107–273, div. B, title IV, §4002(a)(6), Nov. 2, 2002, 116 Stat. 1807.)
+(June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, §402(b), Dec. 29, 1995, 109Stat. 955; Pub. L. 107–56, title VIII, §811(e), Oct. 26, 2001, 115 Stat. 381; Pub. L. 107–273, div. B, title IV, §4002(a)(6), Nov. 2, 2002, 116 Stat. 1807.)
 
 #### Historical and Revision Notes
 

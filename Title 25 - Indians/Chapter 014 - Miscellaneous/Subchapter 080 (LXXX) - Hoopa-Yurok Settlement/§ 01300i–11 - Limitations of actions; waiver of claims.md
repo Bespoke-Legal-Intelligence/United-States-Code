@@ -2,7 +2,7 @@
 
 #### (a) Claims against partition of joint reservation
 
-Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 of this title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
+Any claim challenging the partition of the joint reservation pursuant to section 1300i–1 ofthis title or any other provision of this subchapter as having effected a taking under the fifth amendment of the United States Constitution or as otherwise having provided inadequate compensation shall be brought, pursuant to section 1491 or 1505 of title 28, in the United States Court of Federal Claims. The Yurok Transition Team, or any individual thereon, shall not be named as a defendant or otherwise joined in any suit in which a claim is made arising out of this subsection.
 
 #### (b) Limitations on claims
 

@@ -66,7 +66,7 @@
 
 (2) An employee of the Panama Canal Commission or of an Executive agency conducting operations in the Canal Zone or Republic of Panama who is separated from the service before January 1, 2000, who was employed, at a permanent duty station in the Canal Zone, by any Executive agency other than the Canal Zone Government or the Panama Canal Company at any time during the period beginning March 31, 1979, and ending September 30, 1979, and who has had continuous Panama Canal service, without a break in service of more than 3 days, from that time until separation, is entitled to an annuity if—
 
-&emsp;(A) the employee is separated involuntarily, after completing 20 years of service or after becoming 48 years of age and completing 18 years of service; and
+&emsp;(A) the employee is separated involuntarily, after completing 20 years of service or afterbecoming 48 years of age and completing 18 years of service; and
 
 &emsp;(B) the separation is the result of the implementation of any provision of the Panama Canal Treaty of 1977 and related agreements.
 
@@ -492,7 +492,7 @@ Nonapplicability of annuity provisions of subsec. (j) of this section to individ
 
 #### Individuals Entitled to Annuity Payments for Period Prior to October 1, 1979
 
-Section 1241(b)(2) of Pub. L. 96–70 provided that: “Effective October 1, 1979, any individual who, but for paragraph (1) of this subsection \[set out as an Effective Date of 1979 Amendment note above\], would have been entitled to one or more annuity payments pursuant to the amendments made by this section \[amending this section\] for periods before October 1, 1979, shall be entitled, to such extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such annuity payments.”
+Section 1241(b)(2) of Pub. L. 96–70 provided that: “Effective October 1, 1979, any individual who, but for paragraph (1) of this subsection \[set out as an Effective Date of 1979 Amendment note above\], would have been entitled to one or more annuity payments pursuant to the amendments made by this section \[amending thissection\] for periods before October 1, 1979, shall be entitled, to such extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such annuity payments.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

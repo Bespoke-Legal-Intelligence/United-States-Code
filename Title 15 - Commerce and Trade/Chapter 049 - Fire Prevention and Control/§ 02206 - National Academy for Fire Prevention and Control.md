@@ -22,7 +22,7 @@ The Superintendent is authorized to—
 
 &emsp;(5) establish fees and other charges for attendance at, and subscription to, courses and programs offered by the Academy. Such fees may be modified or waived as determined by the Superintendent;
 
-&emsp;(6) conduct short courses, seminars, workshops, conferences, and similar education andtraining activities in all parts and localities of the United States;
+&emsp;(6) conduct short courses, seminars, workshops, conferences, and similar education and training activities in all parts and localities of the United States;
 
 &emsp;(7) enter into such contracts and take such other actions as may be necessary in carrying out the purposes of the Academy; and
 
@@ -104,7 +104,7 @@ The Administrator is authorized to—
 
 &emsp;(2) provide stipends to students attending courses and nondegree training programs approved by the Superintendent at universities, colleges, and junior colleges, in amounts up to 50 per centum of the cost of tuition;
 
-&emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academicyear for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions as the Superintendent and each institution involved may jointly determine; and
+&emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions as the Superintendent and each institution involved may jointly determine; and
 
 &emsp;(4) establish and maintain a placement and promotion opportunities center in cooperation with the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
 
@@ -146,7 +146,7 @@ Pub. L. 108–169, title II, §204(b), Dec. 6, 2003, 117 Stat. 2039, provided th
 
 #### Coordination With Other Programs To Avoid Duplication
 
-Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided that: “The Administrator of the United States Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
+Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided that: “The Administrator of the UnitedStates Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2206(d)(1)) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
 
 &emsp;“(1) to ensure that such training does not duplicate existing courses available to fire service personnel; and
 

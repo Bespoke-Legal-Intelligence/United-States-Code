@@ -2,7 +2,7 @@
 
 #### (a) Reports to Congressional committees of intelligence activities and anticipated activities
 
-(1) The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including anysignificant anticipated intelligence activity as required by this subchapter.
+(1) The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.
 
 (2) Nothing in this subchapter shall be construed as requiring the approval of the congressional intelligence committees as a condition precedent to the initiation of any significant anticipated intelligence activity.
 
@@ -26,7 +26,7 @@ Nothing in this Act shall be construed as authority to withhold information from
 
 As used in this section, the term “intelligence activities” includes covert actions as defined in section 413b(e) of this title, and includes financial intelligence activities.
 
-(July 26, 1947, ch. 343, title V, §501, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 441; amended Pub. L. 107–306, title III, §§342(b), 353(b)(3)(A), (7), Nov. 27, 2002, 116 Stat. 2399, 2402; Pub. L. 108–458, title I, §1071(a)(1)(V), Dec. 17, 2004, 118 Stat. 3689.)
+(July 26, 1947, ch. 343, title V, §501, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105Stat. 441; amended Pub. L. 107–306, title III, §§342(b), 353(b)(3)(A), (7), Nov. 27, 2002, 116 Stat. 2399, 2402; Pub. L. 108–458, title I, §1071(a)(1)(V), Dec. 17, 2004, 118 Stat. 3689.)
 
 #### References in Text
 
@@ -49,6 +49,8 @@ Subsecs. (b) to (e). Pub. L. 107–306, §353(b)(3)(A), substituted “congressi
 Subsec. (f). Pub. L. 107–306, §342(b), inserted “, and includes financial intelligence activities” before period at end.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

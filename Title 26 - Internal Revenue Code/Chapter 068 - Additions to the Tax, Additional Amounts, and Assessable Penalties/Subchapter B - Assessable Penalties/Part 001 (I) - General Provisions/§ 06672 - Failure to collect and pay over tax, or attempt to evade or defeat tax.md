@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any person required to collect, truthfully account for, and pay over any tax imposed by this title who willfully fails to collect such tax, or truthfully account for and pay over such tax, orwillfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
+Any person required to collect, truthfully account for, and pay over any tax imposed by this title who willfully fails to collect such tax, or truthfully account for and pay over such tax, or willfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
 
 #### (b) Preliminary notice requirement
 
@@ -66,7 +66,7 @@ If more than 1 person is liable for the penalty under subsection (a) with respec
 
 #### (e) Exception for voluntary board members of tax-exempt organizations
 
-No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of any board of trustees or directors of an organization exempt from tax under subtitle A if such member—
+No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of any boardof trustees or directors of an organization exempt from tax under subtitle A if such member—
 
 &emsp;(1) is solely serving in an honorary capacity,
 
@@ -141,10 +141,6 @@ Development of explanatory materials.—The Secretary shall develop materials ex
 “(3)
 
 IRS instructions.—The Secretary shall clarify the instructions to Internal Revenue Service employees on the application of the penalty under section 6672 of such Code with regard to voluntary members of boards of trustees or directors of tax-exempt organizations.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6050C, 6103, 6331, 7103, 7421, 7501 of this title; title 20 section 1099c.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

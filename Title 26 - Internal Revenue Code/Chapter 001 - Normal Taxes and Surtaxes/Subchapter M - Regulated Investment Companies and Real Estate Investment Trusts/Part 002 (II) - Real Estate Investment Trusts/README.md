@@ -17,10 +17,6 @@
 
 1960—Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1003, added part II analysis.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 59, 59A, 172, 243, 382, 854 of this title.
-
 
 ---
 

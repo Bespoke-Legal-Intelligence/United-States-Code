@@ -28,7 +28,7 @@ In this part—
 
 &emsp;&emsp;(A) a locomotive, car, vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, by rail, regardless of ownership or an agreement concerning use; and
 
-&emsp;&emsp;(B) services related to that movement, including receipt, delivery, elevation, transferin transit, refrigeration, icing, ventilation, storage, handling, and interchange of passengers and property; and
+&emsp;&emsp;(B) services related to that movement, including receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, and interchange of passengers and property; and
 
 &emsp;(10) “United States” means the States of the United States and the District of Columbia.
 

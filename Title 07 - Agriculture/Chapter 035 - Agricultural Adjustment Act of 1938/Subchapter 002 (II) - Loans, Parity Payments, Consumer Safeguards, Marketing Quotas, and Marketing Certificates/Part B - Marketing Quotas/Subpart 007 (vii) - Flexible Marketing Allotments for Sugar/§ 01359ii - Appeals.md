@@ -48,5 +48,5 @@ An appeal may be taken to the Secretary from any decision under section 1359dd o
 
 #### Prior Provisions
 
-A prior section 1359ii, act Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3487; amended Pub. L. 102–237, title I, §111(k), Dec. 13, 1991, 105 Stat. 1836, related to appeals, prior to the general amendment of this subpart by Pub. L. 107–171.
+A prior section 1359ii, act Feb. 16, 1938, ch. 30, title III, §359i, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3487; amended Pub. L. 102–237, title I,§111(k), Dec. 13, 1991, 105 Stat. 1836, related to appeals, prior to the general amendment of this subpart by Pub. L. 107–171.
 

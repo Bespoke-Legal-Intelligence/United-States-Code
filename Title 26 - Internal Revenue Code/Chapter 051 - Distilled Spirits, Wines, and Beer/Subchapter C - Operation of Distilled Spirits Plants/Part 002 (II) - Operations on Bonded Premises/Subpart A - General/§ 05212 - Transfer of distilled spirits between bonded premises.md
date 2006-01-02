@@ -1,6 +1,6 @@
 ### §5212. Transfer of distilled spirits between bonded premises
 
-Bulk distilled spirits on which the internal revenue tax has not been paid or determined asauthorized by law may, under such regulations as the Secretary shall prescribe, be transferred in bond between bonded premises in any approved container. For the purposes of this chapter, the removal of bulk distilled spirits for transfer in bond between bonded premises shall not be construed to be a withdrawal from bonded premises. The provisions of this section restricting transfers to bulk distilled spirits shall not apply to alcohol bottled under the provisions of section 5235 which is to be withdrawn for industrial purposes.
+Bulk distilled spirits on which the internal revenue tax has not been paid or determined as authorized by law may, under such regulations as the Secretary shall prescribe, be transferred in bond between bonded premises in any approved container. For the purposes of this chapter, the removal of bulk distilled spirits for transfer in bond between bonded premises shall not be construed to be a withdrawal from bonded premises. The provisions of this section restricting transfers to bulk distilled spirits shall not apply to alcohol bottled under the provisions of section 5235 which is to be withdrawn for industrial purposes.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §805(b)(2), July 26, 1979, 93 Stat. 276; Pub. L. 96–598, §6(d), Dec. 24, 1980, 94 Stat. 3490.)
 
@@ -21,8 +21,4 @@ Provisions similar to those comprising this section were contained in prior sect
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5005, 5181 of this title.
 

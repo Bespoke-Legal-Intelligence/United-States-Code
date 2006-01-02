@@ -2,7 +2,19 @@
 
 #### (a) General authority
 
-The Secretary may provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least 1 railroad.
+The Secretary shall provide direct loans and loan guarantees to—
+
+&emsp;(1) State and local governments;
+
+&emsp;(2) interstate compacts consented to by Congress under section 410(a) of the Amtrak Reform and Accountability Act of 1997 (49 U.S.C. 24101 note);
+
+&emsp;(3) government sponsored authorities and corporations;
+
+&emsp;(4) railroads;
+
+&emsp;(5) joint ventures that include at least one railroad; and
+
+&emsp;(6) solely for the purpose of constructing a rail connection between a plant or facility and a second rail carrier, limited option railfreight shippers that own or operate a plant or other facility that is served by no more than a single railroad.
 
 #### (b) Eligible purposes
 
@@ -32,13 +44,17 @@ In granting applications for direct loans or guaranteed loans under this section
 
 &emsp;(4) enable United States companies to be more competitive in international markets;
 
-&emsp;(5) are endorsed by the plans prepared under section 135 of title 23 by the State or States in which they are located; or
+&emsp;(5) are endorsed by the plans prepared under section 135 of title 23 by the State or States in which they are located;
 
-&emsp;(6) preserve or enhance rail or intermodal service to small communities or rural areas.
+&emsp;(6) preserve or enhance rail or intermodal service to small communities or rural areas;
+
+&emsp;(7) enhance service and capacity in the national rail system; or
+
+&emsp;(8) would materially alleviate rail capacity problems which degrade the provision of service to shippers and would fulfill a need in the national transportation system.
 
 #### (d) Extent of authority
 
-The aggregate unpaid principal amounts of obligations under direct loans and loan guarantees made under this section shall not exceed $3,500,000,000 at any one time. Of this amount, not less than $1,000,000,000 shall be available solely for projects primarily benefiting freight railroads other than Class I carriers.
+The aggregate unpaid principal amounts of obligations under direct loans and loan guarantees made under this section shall not exceed $35,000,000,000 at any one time. Of this amount, not less than $7,000,000,000 shall be available solely for projects primarily benefiting freight railroads other than Class I carriers. The Secretary shall not establish any limit on the proportion of the unused amount authorized under this subsection that may be used for 1 loan or loan guarantee.
 
 #### (e) Rates of interest
 
@@ -60,15 +76,17 @@ The aggregate unpaid principal amounts of obligations under direct loans and loa
 
 &emsp;The Secretary shall determine the amount required for credit risk premiums under this subsection on the basis of—
 
-&emsp;&emsp;(A) the circumstances of the applicant, including the amount of collateral offered;
+&emsp;&emsp;(A) the circumstances of the applicant, including the amount of collateral offered, if any;
 
 &emsp;&emsp;(B) the proposed schedule of loan disbursements;
 
 &emsp;&emsp;(C) historical data on the repayment history of similar borrowers;
 
-&emsp;&emsp;(D) consultation with the Congressional Budget Office; and
+&emsp;&emsp;(D) consultation with the Congressional Budget Office;
 
-&emsp;&emsp;(E) any other factors the Secretary considers relevant.
+&emsp;&emsp;(E) the size and characteristics of the cohort of which the loan or loan guarantee is a member; and
+
+&emsp;&emsp;(F) any other factors the Secretary considers relevant.
 
 #### (3) Payment of premiums
 
@@ -76,7 +94,7 @@ The aggregate unpaid principal amounts of obligations under direct loans and loa
 
 #### (4) Cohorts of loans
 
-&emsp;In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans. When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis.
+&emsp;In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans. When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis. A cohort may include loans and loan guarantees. The Secretary shall not establish any limit on the proportion of a cohort that may be used for 1 loan or loan guarantee.
 
 #### (g) Prerequisites for assistance
 
@@ -94,17 +112,65 @@ The Secretary shall not make a direct loan or loan guarantee under this section 
 
 #### (h) Conditions of assistance
 
-The Secretary shall, before granting assistance under this section, require the applicant to agree to such terms and conditions as are sufficient, in the judgment of the Secretary, to ensure that, as long as any principal or interest is due and payable on such obligation, the applicant, and any railroad or railroad partner for whose benefit the assistance is intended—
+(1) The Secretary shall, before granting assistance under this section, require the applicant to agree to such terms and conditions as are sufficient, in the judgment of the Secretary, to ensure that, as long as any principal or interest is due and payable on such obligation, the applicant, and any railroad or railroad partner for whose benefit the assistance is intended—
 
-&emsp;(1) will not use any funds or assets from railroad or intermodal operations for purposes not related to such operations, if such use would impair the ability of the applicant, railroad, or railroad partner to provide rail or intermodal services in an efficient and economic manner, or would adversely affect the ability of the applicant, railroad, or railroad partner to perform any obligation entered into by the applicant under this section;
+&emsp;(A) will not use any funds or assets from railroad or intermodal operations for purposes not related to such operations, if such use would impair the ability of the applicant, railroad, or railroad partner to provide rail or intermodal services in an efficient and economic manner, or would adversely affect the ability of the applicant, railroad, or railroad partner to perform any obligation entered into by the applicant under this section;
 
-&emsp;(2) will, consistent with its capital resources, maintain its capital program, equipment, facilities, and operations on a continuing basis; and
+&emsp;(B) will, consistent with its capital resources, maintain its capital program, equipment, facilities, and operations on a continuing basis; and
 
-&emsp;(3) will not make any discretionary dividend payments that unreasonably conflict with thepurposes stated in subsection (b) of this section.
+&emsp;(C) will not make any discretionary dividend payments that unreasonably conflict with the purposes stated in subsection (b) of this section.
 
-(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473.)
+(2) The Secretary shall not require an applicant for a direct loan or loan guarantee under this section to provide collateral. Any collateral provided or thereafter enhanced shall be valued as a going concern after giving effect to the present value of improvements contemplated by the completion and operation of the project. The Secretary shall not require that an applicant for a direct loan or loan guarantee under this section have previously sought the financial assistance requested from another source.
+
+(3) The Secretary shall require recipients of direct loans or loan guarantees under this section to comply with—
+
+&emsp;(A) the standards of section 24312 of title 49, as in effect on September 1, 2002, with respect to the project in the same manner that the National Railroad Passenger Corporation is required to comply with such standards for construction work financed under an agreement made under section 24308(a) of that title; and
+
+&emsp;(B) the protective arrangements established under section 836 of this title, with respect to employees affected by actions taken in connection with the project to be financed by the loan or loan guarantee.
+
+#### (i) Time limit for approval or disapproval
+
+Not later than 90 days after receiving a complete application for a direct loan or loan guarantee under this section, the Secretary shall approve or disapprove the application.
+
+#### (j) Repayment schedules
+
+#### (1) In general
+
+&emsp;The Secretary shall establish a repayment schedule requiring payments to commence not later than the sixth anniversary date of the original loan disbursement.
+
+#### (2) Accrual
+
+&emsp;Interest shall accrue as of the date of disbursement, and shall be amortized over the remaining term of the loan beginning at the time the payments begin.
+
+(Pub. L. 94–210, title V, §502, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 473; amended Pub. L. 109–59, title IX, §9003(b)–(g), Aug. 10, 2005, 119 Stat. 1921–1923.)
+
+#### References in Text
+
+Section 410(a) of the Amtrak Reform and Accountability Act of 1997, referred to in subsec. (a)(2), is section 410(a) of Pub. L. 105–134, which is set out as a note under section 24101 of Title 49, Transportation.
 
 #### Prior Provisions
 
 A prior section 822, Pub. L. 94–210, title V, §502, Feb. 5, 1976, 90 Stat. 67; Pub. L. 95–620, title VIII, §803(c)(2)–(4), Nov. 9, 1978, 92 Stat. 3347, related to the Rail Fund, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §9003(b), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may provide direct loans and loan guarantees to State and local governments, government sponsored authorities and corporations, railroads, and joint ventures that include at least 1 railroad.”
+
+Subsec. (c)(7), (8). Pub. L. 109–59, §9003(c), added pars. (7) and (8).
+
+Subsec. (d). Pub. L. 109–59, §9003(d), substituted “$35,000,000,000” for “$3,500,000,000” and “$7,000,000,000” for “$1,000,000,000” and inserted at end “The Secretary shall not establish any limit on the proportion of the unused amount authorized under this subsection that may be used for 1 loan or loan guarantee.”
+
+Subsec. (f)(2)(A). Pub. L. 109–59, §9003(f)(2), substituted “amount of collateral offered, if any;” for “amount of collateral offered;”.
+
+Subsec. (f)(2)(E), (F). Pub. L. 109–59, §9003(e)(1)–(3), added subpar. (E) and redesignated former subpar. (E) as (F).
+
+Subsec. (f)(4). Pub. L. 109–59, §9003(e)(4), inserted at end “A cohort may include loans and loan guarantees. The Secretary shall not establish any limit on the proportion of a cohort that may be used for 1 loan or loan guarantee.”
+
+Subsec. (h). Pub. L. 109–59, §9003(f)(1), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added pars. (2) and (3).
+
+Subsecs. (i), (j). Pub. L. 109–59, §9003(g), added subsecs. (i) and (j).
+
+#### Substantive Criteria and Standards
+
+Pub. L. 109–59, title IX, §9003(j), Aug. 10, 2005, 119 Stat. 1923, provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary of Transportation shall publish in the Federal Register and post on the Department of Transportation Web site the substantive criteria and standards used by the Secretary to determine whether to approve or disapprove applications submitted under section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822). The Secretary of Transportation shall ensure adequate procedures and guidelines are inplace to permit the filing of complete applications within 30 days of such publication.”
 

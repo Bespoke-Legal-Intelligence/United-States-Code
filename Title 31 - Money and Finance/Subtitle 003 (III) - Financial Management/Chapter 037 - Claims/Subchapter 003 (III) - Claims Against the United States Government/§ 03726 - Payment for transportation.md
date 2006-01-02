@@ -36,7 +36,7 @@
 
 (g) The Administrator may delegate any authority conferred by this section to another agency or agencies if the Administrator determines that such a delegation would be cost-effective or otherwise in the public interest.
 
-(h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill under this section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
+(h) Under regulations the head of an agency prescribes that conform with standards the Secretary of the Treasury prescribes, a bill underthis section may be paid before the transportation is completed notwithstanding section 3324 of this title when a carrier or freight forwarder issues the usual document for the transportation. Payment for transportation ordered but not provided may be recovered by deduction or other means.
 
 (i)(1) A carrier or freight forwarder may request the Administrator of General Services to review the action of the Administrator if the request is received not later than 6 months (excluding time of war) after the Administrator acts or within the time stated in subsection (c) of this section, whichever is later.
 
@@ -86,7 +86,7 @@ In subsection (a), before clause (1), the word “individual” is substituted f
 
 In subsection (b), before clause (1), the words “<i>Provided, however</i>, That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
 
-In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the UnitedStates” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
+In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the United States” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
 
 In subsection (d)(1), the words “may request” are substituted for “Nothing in subsection (a) of this section hereof shall be deemed to prevent . . . from requesting” to eliminate unnecessary words. The words “of limitation” are omitted as surplus.
 
@@ -174,7 +174,7 @@ Section 2 of Pub. L. 99–627 provided that:
 
 “(c) In studying and investigating the integrated, automated system, the task force shall consider including in that system such elements as automated routing, rating, documentation, payment, and auditing.
 
-“(d) Each department, agency, and instrumentality of the Federal Government shall furnish to the taskforce, upon its request, such data, reports, and other information (not otherwise prohibited by law) as the task force deems necessary to carry out its functions under this section.
+“(d) Each department, agency, and instrumentality of the Federal Government shall furnish to the task force, upon its request, such data, reports, and other information (not otherwise prohibited by law) as the task force deems necessary to carry out its functions under this section.
 
 “(e) The head of each such department, agency, and instrumentality may provide to the task force such services and personnel as the task force requests on such basis (reimbursable or otherwise) as may be agreed upon between such department, agency, or instrumentality and the task force.
 

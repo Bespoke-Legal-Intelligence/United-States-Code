@@ -38,7 +38,7 @@ The purposes for which a grant under this part may be used include delivering or
 
 #### (2) Conditions
 
-&emsp;With respect to an entity that proposes to provide early intervention services under paragraph (1), such paragraph applies only if the entity demonstrates to the satisfaction of the State involved that—
+&emsp;With respect to an entity that proposes to provide early intervention services under paragraph (1), such paragraph applies only ifthe entity demonstrates to the satisfaction of the State involved that—
 
 &emsp;&emsp;(A) Federal, State, or local funds are otherwise inadequate for the early intervention services the entity proposes to provide; and
 

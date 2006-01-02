@@ -52,7 +52,3 @@ In clause (1), the words “ ‘widow’ includes a widower” are omitted as c
 
 Amendment by Pub. L. 90–485 effective on first day of third calendar month following Aug. 13, 1968, see section 6 of Pub. L. 90–485, set out as a note under section 1431 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1433, 1434, 1437 of this title.
-

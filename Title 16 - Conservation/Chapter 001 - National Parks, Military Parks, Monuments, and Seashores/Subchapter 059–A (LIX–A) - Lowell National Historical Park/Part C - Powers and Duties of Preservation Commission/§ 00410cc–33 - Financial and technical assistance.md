@@ -28,7 +28,7 @@ The Commission may make loans to the Lowell Development and Financial Corporatio
 
 &emsp;&emsp;(C) such borrower satisfies any other applicable credit criteria established by the corporation.
 
-> In order to determine whether the corporation has complied with this subsection, the Commission, or such other appropriate person or entity as the Commission may designate, shall conduct an audit at least once every two years of all accounts, financial records, and other information related to loans made under paragraphs (6) and (7) of this subsection. If the Commission determines, after conducting a hearing on the record, that the corporation has substantially failed to comply with this subsection, the outstanding balance of any loan made to the corporation under this subsection shall become payable in full upon the demand of the Commission.
+> In order to determine whether the corporation has complied with this subsection, the Commission, or such other appropriate person or entity as the Commission may designate, shall conduct an audit at least once every two years of all accounts, financial records, and other information related to loans made under paragraphs (6) and (7) of this subsection. If the Commission determines, after conducting a hearing on the record, that the corporation has substantially failed to comply with this subsection, the outstanding balance of any loan made to the corporationunder this subsection shall become payable in full upon the demand of the Commission.
 
 #### (b) Grants to property owners for preservation, etc., of property; grants to persons or public or private entities for educational and cultural programs or for necessary services; terms of grant agreements; recovery of amounts for inconsistent uses
 

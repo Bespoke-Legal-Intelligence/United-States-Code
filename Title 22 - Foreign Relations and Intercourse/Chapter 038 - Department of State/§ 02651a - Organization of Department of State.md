@@ -130,7 +130,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;(VI) Resolving policy, program, and funding disputes among the relevant executive branch agencies.
 
-&emsp;&emsp;&emsp;&emsp;(VII) Directly approving all activities of the United States (including funding)relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003.
+&emsp;&emsp;&emsp;&emsp;(VII) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003.
 
 &emsp;&emsp;&emsp;&emsp;(VIII) Establishing due diligence criteria for all recipients of funds section and all activities subject to the coordination and appropriate monitoring, evaluation, and audits carried out by the Coordinator necessary to assess the measurable outcomes of such activities.
 
@@ -278,7 +278,7 @@ Workforce Plan.—Not later than 180 days after the date of the enactment of thi
 
 “(b)
 
-Domestic Staffing Model.—Not later than one year after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall compile and submit to the appropriate congressional committees a domestic staffing model for the Department.”
+Domestic Staffing Model.—Not later than one year after the date of the enactment of this Act \[Sept.30, 2002\], the Secretary shall compile and submit to the appropriate congressional committees a domestic staffing model for the Department.”
 
 #### “Rightsizing” Overseas Posts
 
@@ -390,7 +390,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §303\], Nov. 29, 1
 
 “(a)
 
-Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experience in the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
+Designation.—The Secretary of State shall designate a senior-level official of the Department of State as the Science and Technology Adviser to the Secretary of State (in this section referred to as the ‘Adviser’). The Adviser shall have substantial experiencein the area of science and technology. The Adviser shall report to the Secretary of State through the appropriate Under Secretary of State.
 
 “(b)
 
@@ -404,7 +404,7 @@ Duties.—The Adviser shall—
 
 Section 161(c) of Pub. L. 103–236 provided that: “Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\].”
 
-\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the UnitedStates, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
+\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 

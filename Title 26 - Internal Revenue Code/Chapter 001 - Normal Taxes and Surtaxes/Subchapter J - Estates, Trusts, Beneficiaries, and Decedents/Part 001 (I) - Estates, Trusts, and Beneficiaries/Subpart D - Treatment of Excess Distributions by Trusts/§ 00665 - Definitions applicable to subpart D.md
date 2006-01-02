@@ -16,7 +16,7 @@ For purposes of this subpart, except as provided in subsection (c), the term “
 
 &emsp;(2) distributable net income for such year reduced (but not below zero) by the amounts specified in paragraph (1) of section 661(a).
 
-> For purposes of section 667 (other than subsection (c) thereof, relating to multiple trusts), the amounts specified in paragraph (2) of section 661(a) shall not include amounts properly paid, credited, or required to be distributed to a beneficiary from a trust (other than a foreign trust) as income accumulated before the birth of such beneficiary or before such beneficiary attains the age of 21. If the amounts properly paid, credited, or required to be distributed by the trust for the taxable year do not exceed the income of the trust for such year, there shall be no accumulation distribution for such year.
+> For purposes of section 667 (other than subsection (c) thereof, relating to multiple trusts),the amounts specified in paragraph (2) of section 661(a) shall not include amounts properly paid, credited, or required to be distributed to a beneficiary from a trust (other than a foreign trust) as income accumulated before the birth of such beneficiary or before such beneficiary attains the age of 21. If the amounts properly paid, credited, or required to be distributed by the trust for the taxable year do not exceed the income of the trust for such year, there shall be no accumulation distribution for such year.
 
 #### (c) Exception for accumulation distributions from certain domestic trusts
 
@@ -40,7 +40,7 @@ For purposes of this subpart—
 
 #### (1) In general
 
-&emsp;The term “taxes imposed on the trust” means the amount of the taxes which are imposed for any taxable year of the trust under this chapter (without regard to this subpart or part IV of subchapter A) and which, under regulations prescribed by the Secretary, are properly allocable to the undistributed portions ofdistributable net income and gains in excess of losses from sales or exchanges of capital assets. The amount determined in the preceding sentence shall be reduced by any amount of such taxes deemed distributed under section 666(b) and (c) to any beneficiary.
+&emsp;The term “taxes imposed on the trust” means the amount of the taxes which are imposed for any taxable year of the trust under this chapter (without regard to this subpart or part IV of subchapter A) and which, under regulations prescribed by the Secretary, are properly allocable to the undistributed portions of distributable net income and gains in excess of losses from sales or exchanges of capital assets. The amount determined in the preceding sentence shall be reduced by any amount of such taxes deemed distributed under section 666(b) and (c) to any beneficiary.
 
 #### (2) Foreign trusts
 
@@ -102,7 +102,7 @@ Subsecs. (f), (g). Pub. L. 94–455, §701(d)(3), struck out subsec. (f) which r
 
 1969—Subsec. (a)(2). Pub. L. 91–172 inserted “attributable to such distributable net income” after “on the trust”.
 
-Subsec. (b). Pub. L. 91–172 substituted “Accumulation distribution” for “Accumulation distributions of trustsother than certain foreign trusts” in heading, combined existing provisions of subsecs. (b) and (c) defining “accumulation distribution” in the case of a trust (other than a foreign trust created by a United States person) and of a foreign trust created by a United States person, respectively, in provisions now designated as pars. (1) and (2), deleting “the amount (if in excess of $2,000)” before “by which” in introductory text and inserting “(but not below zero)” in par. (2), and deleted second sentence providing that for purposes of this subsection, the amount specified in par. (2) of section 661(a) shall be determined without regard to section 666 and excepting from “accumulation distributions”: accumulations before birth or attainment of age 21; distributions for emergency needs; distributions, where beneficiary attained specified age or ages and there were not more than 4 distributions, at intervals of 4 or more years; and final distribution of trust was made more than 9 years after date of last transfer to the trust.
+Subsec. (b). Pub. L. 91–172 substituted “Accumulation distribution” for “Accumulation distributions of trusts other than certain foreign trusts” in heading, combined existing provisions of subsecs. (b) and (c) defining “accumulation distribution” in the case of a trust (other than a foreign trust created by a United States person) and of a foreign trust created by a United States person, respectively, in provisions now designated as pars. (1) and (2), deleting “the amount (if in excess of $2,000)” before “by which” in introductory text and inserting “(but not below zero)” in par. (2), and deleted second sentence providing that for purposes of this subsection, the amount specified in par. (2) of section 661(a) shall be determined without regard to section 666 and excepting from “accumulation distributions”: accumulations before birth or attainment of age 21; distributions for emergency needs; distributions, where beneficiary attained specified age or ages and there were not more than 4 distributions, at intervals of 4 or more years; and final distribution of trust was made more than 9 years after date of last transfer to the trust.
 
 Subsec. (c). Pub. L. 91–172 substituted “Special rule applicable to distributions by certain foreign trusts” for “Accumulation distribution of certain foreign trusts” in heading, inserted introductory phrase “For purposes of this subpart”, reenacted provisions of former third sentence as the subsection, struck out first sentence which defined in the case of a foreign trust created by a United States person the term “accumulation distribution”, (see subsec. (b) of this section), and deleted second sentence which stated that “For purposes of this subsection, the amount specified in paragraph (2) of section 661(a) shall be determined without regard to section 666.”
 
@@ -160,17 +160,13 @@ Exceptions.—
 
 #### Effective Date of 1962 Amendment
 
-Amendment of section by Pub. L. 87–834 applicable with respect to distributions made after Dec. 31, 1962,see section 7(j) of Pub. L. 87–834, set out as a note under section 643 of this title.
+Amendment of section by Pub. L. 87–834 applicable with respect to distributions made after Dec. 31, 1962, see section 7(j) of Pub. L. 87–834, set out as a note under section 643 of this title.
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 667 of this title.
 

@@ -1,6 +1,10 @@
 subpart i—grants for demonstration projects
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 
 
 ---

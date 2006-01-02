@@ -30,9 +30,3 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42, The Public Health and Welfare.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
-

@@ -128,7 +128,7 @@ Section 238(b) of title II of Pub. L. 96–561 provided that: “Effective 15 da
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
+Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union ofSoviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
 #### Short Title of 1996 Amendment
 
@@ -148,7 +148,7 @@ Section 1(a) of Pub. L. 101–627 provided that: “The Act \[enacting sections 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: “This Act \[enacting section 1912 of Title 33, Navigation and Navigable Waters, amending sections 1121 to 1131, 1901 to 1903, 1905, and 1907 to 1909 of Title 33, and enacting provisions set out as notes under thissection, sections 1822 and 1823 of this title, sections 883a, 1121, 1125, 1901, 1902, and 2267 of Title 33, and section 6981 of Title 42, The Public Health and Welfare\] may be cited as the ‘United States-Japan Fishery Agreement Approval Act of 1987’.”
+Pub. L. 100–220, §1, Dec. 29, 1987, 101 Stat. 1458, provided that: “This Act \[enacting section 1912 of Title 33, Navigation and Navigable Waters, amending sections 1121 to 1131, 1901 to 1903, 1905, and 1907 to 1909 of Title 33, and enacting provisions set out as notes under this section, sections 1822 and 1823 of this title, sections 883a, 1121, 1125, 1901, 1902, and 2267 of Title 33, and section 6981 of Title 42, The Public Health and Welfare\] may be cited as the ‘United States-Japan Fishery Agreement Approval Act of 1987’.”
 
 #### Short Title of 1980 Amendment
 
@@ -186,7 +186,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent p
 
 (g) establishing cost-share programs, under existing authorities, that match or exceed Federal funds with nonfederal contributions;
 
-(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems and recreational fisheries and document those effects relative to the purpose of this order; and
+(h) evaluating the effects of Federally funded, permitted, or authorized actions on aquatic systems andrecreational fisheries and document those effects relative to the purpose of this order; and
 
 (i) assisting private landowners to conserve and enhance aquatic resources on their lands.
 
@@ -206,7 +206,7 @@ Sec. 3. <i>Recreational Fishery Resources Conservation Plan</i>. (a) Within 12 m
 
 (b) The Conservation Plan will set forth a 5-year agenda for Federal agencies identified by the Coordination Council. In so doing, the Conservation Plan will establish, to the extent permitted by law and where practicable; (1) measurable objectives to conserve and restore aquatic systems that support viable and healthy recreational fishery resources, (2) actions to be taken by the identified Federal agencies, (3) a method of ensuring the accountability of such Federal agencies, and (4) a comprehensive mechanism to evaluate achievements. The Conservation Plan will, to the extent practicable, be integrated with existing plans and programs, reduce duplication, and will include recommended actions for cooperation with States, Tribes, conservation groups, and the recreational fisheries community.
 
-Sec. 4. <i>Joint Policy for Administering the Endangered Species Act of 1973</i>. All Federal agencies will aggressively work to identify and minimize conflicts between recreational fisheries and their respective responsibilities under the Endangered Species Act of 1973 (“ESA”) (16 U.S.C. 1531 <i>et seq</i>.). Within 6 months of the date of this order, the Fish and Wildlife Service and the National Marine Fisheries Service will promote compatibility and reduce conflicts between the administration of the ESA and recreational fisheries by developing a joint agency policy that will; (1) ensure consistency inthe administration of the ESA between and within the two agencies, (2) promote collaboration with other Federal, State, and Tribal fisheries managers, and (3) improve and increase efforts to inform nonfederal entities of the requirements of the ESA.
+Sec. 4. <i>Joint Policy for Administering the Endangered Species Act of 1973</i>. All Federal agencies will aggressively work to identify and minimize conflicts between recreational fisheries and their respective responsibilities under the Endangered Species Act of 1973 (“ESA”) (16 U.S.C. 1531 <i>et seq</i>.). Within 6 months of the date of this order, the Fish and Wildlife Service and the National Marine Fisheries Service will promote compatibility and reduce conflicts between the administration of the ESA and recreational fisheries by developing a joint agency policy that will; (1) ensure consistency in the administration of the ESA between and within the two agencies, (2) promote collaboration with other Federal, State, and Tribal fisheries managers, and (3) improve and increase efforts to inform nonfederal entities of the requirements of the ESA.
 
 Sec. 5. <i>Sport Fishing and Boating Partnership Council</i>. To assist in the implementation of this order, the Secretary of the Interior shall expand the role of the Sport Fishing and Boating Partnership Council to: (a) monitor specific Federal activities affecting aquatic systems and the recreational fisheries they support;
 

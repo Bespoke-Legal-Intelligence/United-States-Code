@@ -138,7 +138,3 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section 1401(b) of Pub. L. 99–514 provided that: “The amendment made by this section \[amending this section\] shall apply with respect to transfers in trust made after March 1, 1986.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 646, 665, 674, 675, 678, 901, 2035 of this title.
-

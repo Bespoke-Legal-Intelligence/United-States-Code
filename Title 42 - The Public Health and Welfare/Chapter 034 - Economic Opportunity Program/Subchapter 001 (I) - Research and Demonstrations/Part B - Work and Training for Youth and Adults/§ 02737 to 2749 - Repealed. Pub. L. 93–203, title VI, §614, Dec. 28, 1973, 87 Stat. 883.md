@@ -12,7 +12,7 @@ Section 2741, Pub. L. 88–452, title I, §124, as added Pub. L. 90–222, title
 
 Section 2742, Pub. L. 88–452, title I, §125, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 686; amended Pub. L. 92–424, §5, Sept. 19, 1972, 86 Stat. 690, covered program participants.
 
-Section 2743, Pub. L. 88–452, title I, §126, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 686, provided for programs dealing with long-term unemployment of persons fifty-five years and older.
+Section 2743, Pub. L. 88–452, title I, §126, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 686,provided for programs dealing with long-term unemployment of persons fifty-five years and older.
 
 Section 2744, Pub. L. 88–452, title I, §127, as added, Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 687, provided for pilot projects.
 

@@ -12,7 +12,7 @@ In order to prevent discrimination against State-chartered depository institutio
 
 #### (b) Transactions deemed in compliance with applicable regulations
 
-For the purpose of determining the applicability of this section, an alternative mortgagetransaction shall be deemed to be made in accordance with the applicable regulation notwithstanding the housing creditor's failure to comply with the regulation, if—
+For the purpose of determining the applicability of this section, an alternative mortgage transaction shall be deemed to be made in accordance with the applicable regulation notwithstanding the housing creditor's failure to comply with the regulation, if—
 
 &emsp;(1) the transaction is in substantial compliance with the regulation; and
 

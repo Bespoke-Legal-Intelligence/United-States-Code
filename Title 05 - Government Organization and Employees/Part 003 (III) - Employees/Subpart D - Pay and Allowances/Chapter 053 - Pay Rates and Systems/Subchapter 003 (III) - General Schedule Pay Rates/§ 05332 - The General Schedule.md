@@ -118,7 +118,7 @@ Section 504(a) of Pub. L. 95–454 provided that amendment by Pub. L. 95–454 w
 
 #### Effective Date of 1967 Amendment
 
-Section 220(a)(2) of Pub. L. 90–206 provided, except as otherwise expressly provided, that: “Sections 202 \[amending this section and enacting provisions set out as a note under this section\], 203 \[amending section 3301 of Title 39, The Postal Service\], 204 \[enacting section 3512A of Title 39, amending sections 3512, and 3513–3531 of Title 39, and enacting provisions set out as a note under section 3512A of Title 39\], 205 \[amending sections 3542–3544 of Title 39, and enacting provisions set out as notes under sections 3542, 3544, 3552, and 3560 of Title 39\], 206 \[amending sections 3560, 3573, and 3575 of Title 39, and enacting provisions set out as a note under section 3542 of Title 39\], 208 \[amending former section 4107 of Title 38, Veterans’ Benefits\], 209 \[amending sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 867 of Title 22\], 210 \[enacting provisions set out as a note under section 590h of Title 16, Conservation\], 211 \[enacting provisions set out as a note under this section and section 548 of Title 28, Judiciary and Judicial Procedure\], 213 (except subsections (d) and (e)) \[enacting provisions set out as notes under sections 603, 604, and 753 of Title 28\], 214 (except subsections (j), (k), (<i>l</i>), (n), and (<i>o</i>)) \[enacting sections 60e–14, 61–2, 74a–2, and 293c of Title 2, The Congress, amending section 1847 of Title 2, and enacting provisions set out as a note under section 8339 of this title\], and 216 \[enacting provisions set out as a note under section 60e–14 of Title 2\] shall become effective as of the beginning of the first pay period which began on or after October 1, 1967.”
+Section 220(a)(2) of Pub. L. 90–206 provided, except as otherwise expressly provided, that: “Sections 202 \[amending this section and enacting provisions set out as a note under this section\], 203 \[amending section 3301 of Title 39, The Postal Service\], 204 \[enacting section 3512A of Title 39, amending sections 3512, and 3513–3531 of Title 39, and enacting provisions set out as a note under section 3512A of Title 39\], 205 \[amending sections 3542–3544 of Title 39, and enacting provisions set out as notes under sections 3542, 3544, 3552, and 3560 of Title 39\], 206 \[amending sections 3560, 3573, and 3575 of Title 39, and enacting provisions set out as a note under section 3542 of Title 39\], 208 \[amending former section 4107 of Title 38, Veterans’ Benefits\], 209 \[amending sections 867 and 870 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 867 of Title 22\], 210 \[enacting provisions set out as a note under section 590h of Title 16, Conservation\],211 \[enacting provisions set out as a note under this section and section 548 of Title 28, Judiciary and Judicial Procedure\], 213 (except subsections (d) and (e)) \[enacting provisions set out as notes under sections 603, 604, and 753 of Title 28\], 214 (except subsections (j), (k), (<i>l</i>), (n), and (<i>o</i>)) \[enacting sections 60e–14, 61–2, 74a–2, and 293c of Title 2, The Congress, amending section 1847 of Title 2, and enacting provisions set out as a note under section 8339 of this title\], and 216 \[enacting provisions set out as a note under section 60e–14 of Title 2\] shall become effective as of the beginning of the first pay period which began on or after October 1, 1967.”
 
 #### Short Title
 
@@ -128,329 +128,67 @@ Section 201 of title II of Pub. L. 90–206 provided that: “This title \[see T
 
 #### Adjustment of Pay Rates Effective October 1, 1972
 
-Pub. L. 93–549, Dec. 26, 1974, 88 Stat. 1743, provided: “That notwithstanding the provisions of any other law or any regulation issued thereunder, no officer or employee of the United States shall have his pay reduced by reason of Executive Order 11777, dated April 12, 1974, relating to the effective date of the 1972 Federal pay comparability adjustment.
-
-“
-
-Sec. 2. The Civil Service Commission shall issue regulations necessary to implement this Act.”
+Pub. L. 93–549, Dec. 26, 1974, 88 Stat. 1743, provided that no officer or employee of the United States shall have his or her pay reduced by reason of Ex. Ord. No. 11777, Apr. 12, 1974.
 
 #### 1970 Increase in Pay Rates
 
-Pub. L. 91–231, Apr. 15, 1970, 84 Stat. 195, provided that:
-
-“
-
-Sec. 1. \[Short Title\]. This Act may be cited as the ‘Federal Employees Salary Act of 1970’.”
-
-“
-
-Sec. 2. \[Adjustment of Pay Rates\]. (a)(1) The President shall increase the rates of basic pay, basic compensation, and salaries (as such rates were increased by Executive Order Numbered 11474, dated June 16, 1969) \[formerly set out as a note under this section\] contained in the schedules listed in paragraph (2) of this subsection by amounts equal, as nearly as may be practicable and with regard to maintaining approximately equal increments within any grade, level, or class of any such schedule, to 6 percent.
-
-“(2) The schedules referred to in paragraph (1) of this subsection are as follows: the General Schedule contained in section 5332(a) of title 5, United States Code \[subsec. (a) of this section\]; the Postal Field Service Schedule and the Rural Carrier Schedule contained in sections 3542(a) and 3543(a), respectively, of title 39, United States Code; the schedules relating to certain positions within the Department of Medicine and Surgery of the Veterans’ Administration and contained in \[former\] section 4107 of title 38, United States Code; and the Foreign Service schedules contained in sections 412 and 415 of the Foreign Service Act of 1946 \[sections 867 and 870, respectively, of Title 22, Foreign Relations and Intercourse\].
-
-“(b) Rates of basic pay, basic compensation, and salaries of officers and employees paid under the schedules referred to in subsection (a) of this section shall be increased initially under conversion rules prescribed by the President or by such agency as the President may designate.
-
-“(c) The increases made by the President under this section shall have the force and effect of law and shall be printed in (1) the Statutes at Large in the same volume as public laws, (2) the Federal Register, and (3) the Code of Federal Regulations.
-
-“
-
-Sec. 3. \[Employees of ASCS County Committees, Legislative and Judicial Branches; United States Attorneys: Salaries Fixed by Administrative Action\]. (a) The rates of pay of personnel subject to sections 210 and 214 of the Federal Salary Act of 1967 (81 Stat. 633, 635; Public Law 90–206) \[which, respectively, were set out as a note under section 590h of Title 16, Conservation, and amended sections 60e–14, 60j, 61–1, 61–2, 74a–2, 84–1, 84–2, 293c, and 1847 of Title 2, The Congress, and sections 5533 and 8339 note of this title\], relating to Agricultural Stabilization and Conservation County Committee employees and to certain employees of the legislative branch of the Government, respectively, and any minimum or maximum rate, limitation, or allowance applicable to any such personnel, shall be adjusted, effective on the first day of the first pay period which begins on or after December 27, 1969, by amounts which are identical, insofar as practicable, to the amounts of the adjustments under section 2 of this Act for corresponding rates of pay for employees subject to the General Schedule, by the following authorities—
-
-&emsp;“(1) the Secretary of Agriculture, with respect to individuals employed by the county committees established under section 590h(b) of title 16;
-
-&emsp;“(2) the President pro tempore of the Senate, with respect to the United States Senate;
-
-&emsp;“(3) the Finance Clerk of the House of Representatives, with respect to the United States House of Representatives; and
-
-&emsp;“(4) the Architect of the Capitol, with respect to the Office of the Architect of the Capitol.
-
-> The provisions of this section shall not be construed to allow adjustments in the rates of pay of the following officers of the United States House of Representatives: Parliamentarian, Chaplain, Clerk, Sergeant at Arms, Doorkeeper, Postmaster, and the four Floor Assistants to the Minority whose position titles formerly were Minority Clerk, Minority Sergeant at Arms, Minority Doorkeeper, and Minority Postmaster.
-
-“(b) Notwithstanding section 665 of title 31 \[sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of Title 31, Money and Finance\], the rates of pay of employees in and under the judicial branch of the Government, whose rates of pay are fixed by administrative action pursuant to law and are not otherwise adjusted under this section may be adjusted, effective on the first day of the first pay period which begins on or after December 27, 1969, by amounts not to exceed the amounts of the adjustments under section 2(a) of this Act for corresponding rates of pay. The limitations fixed by law with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges shall be adjusted, effective on the first day of the first pay period which begins on or after the date on which adjustments become effective under this section, by amounts not to exceed the amounts of the adjustments under this section for corresponding rates of pay.
-
-“(c) The rates of pay of the United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code, shall be increased, effective on the first day of the first pay period which begins on or after December 27, 1969, by amounts equal, as nearly as may be practicable, to the increases provided pursuant to section 2 of this Act for corresponding rates of pay.
-
-“(d) Notwithstanding section 665 of title 31 \[sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of Title 31, Money and Finance\], the rates of pay of employees of the Federal Government and of the government of the District of Columbia whose rates of pay are fixed by administrative action pursuant to law and are not otherwise increased pursuant to this section are hereby authorized to be increased, effective on the first day of the first pay period which begins on or after December 27, 1969, by amounts not to exceed the increases provided pursuant to section 2 of this Act for corresponding rates of pay in the appropriate schedule or scale of pay.
-
-“
-
-Sec. 4. \[Stop Increases; Administrative Action; Level V Limitations\]. (a) An increase in pay, compensation, or salary which becomes effective under section 2 of this Act is not an equivalent increase in pay within the meaning of section 5335 of title 5, United States Code, or section 3552 of title 39, United States Code.
-
-“(b) Nothing in this Act shall impair any authority pursuant to which rates of pay, compensation, or salary may be fixed by administrative action.
-
-“(c) Notwithstanding any provisions other than section 6 of this Act—
-
-&emsp;“(1) any officer or employee of the United States Government receiving pay, compensation, or salary which is less than the basic pay for level V of the Executive Schedule in section 5316 of title 5, United States Code, in effect on the date of enactment of this Act \[Apr. 15, 1970\], shall not have his pay, compensation, or salary increased, by reason of the enactment of this Act, to a rate in excess of the basic pay for such level V; and
-
-&emsp;“(2) any officer or employee of the United States Government receiving pay, compensation, or salary equal to or in excess of the basic pay for such level V shall not have his pay, compensation, or salary increased.
-
-“
-
-Sec. 5. \[Retroactive Pay\]. (a) Retroactive pay, compensation, or salary shall be paid by reason of this Act only in the case of an individual in the service of the United States (including service in the Armed Forces of the United States) or the municipal government of the District of Columbia on the date of enactment of this Act \[Apr. 15, 1970\], except that such retroactive pay, compensation, or salary shall be paid—
-
-&emsp;“(1) to an officer or employee who retired, during the period beginning on the first day of the first pay period which began on or after December 27, 1969, and ending on the date of enactment of this Act \[Apr. 15, 1970\], for services rendered during such period; and
-
-&emsp;“(2) in accordance with subchapter VIII of chapter 55 of title 5, United States Code, relating to settlement of accounts, for services rendered, during the period beginning on the first day of the first pay period which began on or after December 27, 1969, and ending on the date of enactment of this Act \[Apr. 15, 1970\], by an officer or employee who died during such period.
-
-> Such retroactive pay, compensation, or salary shall not be considered as basic pay for the purposes of subchapter III of chapter 83 of title 5, United States Code, relating to civil service retirement, or any other retirement law or retirement system, in the case of any such retired or deceased officer or employee.
-
-“(b) For the purposes of this section, service in the Armed Forces of the United States, in the case of an individual relieved from training and service in the Armed Forces of the United States or discharged from hospitalization following such training and service, shall include the period provided by law for the mandatory restoration of such individual to a position in or under the United States Government or the municipal government of the District of Columbia.
-
-“
-
-Sec. 6. \[District of Columbia Judges; Board of Tax Appeals\]. \[Section amended sections 11–702(d), 11–902(d), and 47–2402 of the District of Columbia Code and is therefore not set out herein.\]
-
-“
-
-Sec. 7. \[Former Presidents’ Staffs\] \[Section amended section 1(b) of Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended, which is set out as a note under section 102 of Title 3, The President. This section is therefore not set out herein.\]
-
-“
-
-Sec. 8. \[Premium Pay\]. \[Section amended section 5545(c)(2) of this title, and is therefore not set out herein.\]
-
-“
-
-Sec. 9. \[Effective Date\]. (a) Sections 1 to 6, inclusive, of this Act shall become effective on the first day of the first pay period which begins on or after December 27, 1969.
-
-“(b) This section and sections 7 and 8 of this Act shall become effective on the date of enactment of this Act \[Apr. 15, 1970\].
-
-“(c) For purposes of determining the amount of insurance for which an individual is eligible under chapter 87 of title 5, United States Code, relating to group life insurance for Government employees, all changes in rates of pay, compensation, and salary which result from the enactment of this Act shall be held and considered to become effective as of the date of such enactment \[Apr. 15, 1970\].
-
-“(d) Any deduction to be made as the result of the enactment of this Act from the pay, compensation, or salary of an officer or employee enrolled in a retirement system of the United States Government, and the contribution of the agency employing the officer or employee, shall be made at the rates of deductions and contributions in effect for that system on the date of such enactment \[Apr. 15, 1970\].”
+Pub. L. 91–231, Apr. 15, 1970, 84 Stat. 195, known as the Federal Employees Salary Act of 1970, and effective on the first day of the first pay period beginning on or after Dec. 27, 1969, provided for an increase in the rates of basic pay, basic compensation, and salaries contained in the General Schedule, the Postal Field Service Schedule and Rural Carrier Schedule, the schedule relating to certain positions within the Department of Medicine and Surgery of the Veterans’ Administration, and the Foreign Service schedules, and also for employees of Agricultural Stabilization and Conservation County Committees, for certain employees of the Legislative and Judicial Branches, for United States Attorneys, and for other employees of the United States Government and the government of the District of Columbia whose rates of pay were fixed by administrative action and not otherwise increased.
 
 #### Initial Adjustment of 1967
 
 Pay Increases
 
-Section 202(b) of Pub. L. 90–206 provided that: “Except as provided in section 5303 of title 5, United States Code \[section 5303 of this title\], the rates of basic pay of officers and employees to whom the General Schedule set forth in the amendment made by subsection (a) of this section \[amending this section\] applies shall be initially adjusted as of the effective date of this section, as follows:
-
-&emsp;“(1) If the officer or employee is receiving basic pay immediately prior to the effective date of this section \[see Effective Date of 1967 Amendment note under this section\] at one of the rates of a grade in the General Schedule, he shall receive a rate of basic pay at the corresponding rate in effect on and after such date.
-
-&emsp;“(2) If the officer or employee is receiving basic pay immediately prior to the effective date of this section \[see Effective Date of 1967 Amendment note under this section\] at a rate between two rates of a grade in the General Schedule, he shall receive a rate of basic pay at the higher of the two corresponding rates in effect on and after such date.
-
-&emsp;“(3) If the officer or employee is receiving basic pay immediately prior to the effective date of this section \[see Effective Date of 1967 Amendment note under this section\] at a rate in excess of the maximum rate for his grade, he shall receive (A) the maximum rate for his grade in the new schedule, or (B) his existing rate of basic pay increased by 4.5 per centum, rounded to the next highest dollar, if such existing rate as so increased is higher.
-
-&emsp;“(4) If the officer or employee, immediately prior to the effective date of this section \[see Effective Date of 1967 Amendment note under this section\], is receiving, pursuant to section 2(b)(4) of the Federal Employees Salary Increase Act of 1955, an existing aggregate rate of pay determined under section 208(b) of the Act of September 1, 1954, (68 Stat. 1111), plus subsequent increases authorized by law, he shall receive an aggregate rate of pay equal to the sum of his existing aggregate rate of pay on the day preceding the effective date of this section, plus the amount of increase made by this section in the maximum rate of his grade, until (i) he leaves his position, or (ii) he is entitled to receive aggregate pay at a higher rate by reason of the operation of this Act or any other provision of law; but, when such position becomes vacant, the aggregate rate of pay of any subsequent appointee thereto shall be fixed in accordance with applicable provisions of law. Subject to clauses (i) and (ii) of the immediately preceding sentence of this subparagraph, the amount of the increase provided by this section shall be held and considered for the purposes of section 208(b) of the Act of September 1, 1954, to constitute a part of the existing rate of pay of the employee.
-
-&emsp;“(5) If the officer or employee, at any time during the period beginning on the effective date of this section \[see Effective Date of 1967 Amendment note under this section\], and ending on the date of enactment of this title \[Dec. 16, 1967\], was promoted from one grade under the General Schedule contained in section 5332(a) of title 5, United States Code \[subsec. (a) of this section\] to another such grade at a rate which is above the minimum rate thereof, his rate of basic pay shall be adjusted retroactively from the effective date of this section to the date on which he was so promoted, on the basis of the rate which he was receiving during the period from such effective date to the date of such promotion and, from the date of such promotion, on the basis of the rate for that step of the appropriate grade of the General Schedule contained in the amendment made by subsection (a) of this section \[amending the section\] which corresponds numerically to the step of the grade of the General Schedule to which such officer or employee was promoted as in effect (without regard to this title) at the time of such promotion.
-
-&emsp;“(6) If the officer or employee, at any time during the period beginning on the effective date of this section and ending on the date of enactment of this title \[Dec. 16, 1967\] became subject to the General Schedule and his rate of basic pay was set above the minimum rate of the grade on the basis of a previously earned rate above such minimum rate, his rate of basic pay shall be adjusted retroactively to the date on which he became subject to the General Schedule on the basis of the rate of the appropriate grade of the General Schedule contained in this section which corresponds numerically to the rate of the grade at which the pay of such officer or employee was set at the time he became subject to the General Schedule.”
-
-Section 202(b) of Pub. L. 90–206 effective as of the beginning of the first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under this section.
+Pub. L. 90–206, title II, §§202(b), 220(a)(2), Dec. 16, 1967, 81 Stat. 625, 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, made various initial adjustments to the rates of basic pay of officers and employees referred to in the General Schedule set forth in the amendment to this section made by section 202(a) of Pub. L. 90–206.
 
 #### 1967 Salary Increase for Persons Whose Compensation Rates are Fixed by Administrative Action
 
-Section 211(b)–(d) of Pub. L. 90–206 provided that:
-
-“(b) Notwithstanding section 3679 of the Revised Statutes, as amended (31 U.S.C. 665) \[sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of Title 31, Money and Finance\], the rates of pay of officers and employees of the Federal Government and of the municipal government of the District of Columbia whose rates of pay are fixed by administrative action pursuant to law and are not otherwise increased by this title are hereby authorized to be increased, effective on the effective date of section 202 of this title \[see Effective Date of 1967 Amendment note under this section\], by amounts not to exceed the increases provided by this title for corresponding rates of pay in the appropriate schedule or scale of pay.
-
-“(c) Nothing contained in this section shall be held or considered to authorize any increase in the rates of pay of officers and employees whose rates of pay are fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates or practices.
-
-“(d) Nothing contained in this section shall affect the authority contained in any law pursuant to which rates of pay may be fixed by administrative action.”
-
-Sections 211(b)–(d) of Pub. L. 90–206 effective as of the beginning of the first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under this section.
+Pub. L. 90–206, title II, §§211(b)–(d), 220(a)(2), Dec. 16, 1967, 81 Stat. 633, 639, effective as of the beginning of the first pay period which began on or after Oct. 1, 1967, authorized the increase of the rates of pay of certain officers and employees of the Federal Government and of the municipal government of the District of Columbia by amounts not to exceed the increases provided by title II of Pub. L. 90–206 for corresponding rates of pay in the appropriate schedule or scale of pay.
 
 #### Retroactive Compensation Under 1967 Pay Increases
 
-Section 218 of Pub. L. 90–206 provided that:
+Pub. L. 90–206, title II, §218, Dec. 16, 1967, 81 Stat. 638, provided for retroactive pay under title II of Pub. L. 90–206 only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
 
-“(a) Retroactive pay, compensation, or salary shall be paid by reason of this title only in the case of an individual in the service of the United States (including service in the Armed Forces of the United States) or the municipal government of the District of Columbia on the date of enactment of this title \[Dec. 16, 1967\] except that such retroactive pay, compensation, or salary shall be paid—
+#### Ex. Ord. No. 13393. Adjustments of Certain Rates of Pay
 
-&emsp;“(1) to an officer or employee who retired, during the period beginning on the first day of the first pay period which began on or after October 1, 1967, and ending on the date of enactment of this title \[Dec. 16, 1967\], for services rendered during such period, and
-
-&emsp;“(2) in accordance with subchapter VIII of chapter 55 of title 5, United States Code, relating to settlement of accounts, for services rendered, during the period beginning on the first day of the first pay period which began on or after October 1, 1967, and ending on the date of enactment of this title \[Dec. 16, 1967\], by an officer or employee who died during such period.
-
-> Such retroactive pay, compensation, or salary shall not be considered as basic pay for the purposes of subchapter III of chapter 83 of title 5, United States Code, relating to civil service retirement, or any other retirement law or retirement system, in the case of any such retired or deceased officer or employee.
-
-“(b) For the purposes of this section, service in the Armed Forces of the United States, in the case of an individual relieved from training and service in the Armed Forces of the United States or discharged from hospitalization following such training and service, shall include the period provided by law for the mandatory restoration of such individual to a position in or under the Federal Government or the municipal government of the District of Columbia.”
-
-Section 218 of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of this title.
-
-#### Executive Order No. 11413
-
-Ex. Ord. No. 11413, June 11, 1968, 33 F.R. 8641, which provided for adjustment of pay rates effective July 1, 1968, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out below.
-
-#### Executive Order No. 11474
-
-Ex. Ord. No. 11474, June 16, 1969, 34 F.R. 9605, which provided for adjustment of pay rates effective July 1, 1969, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out below.
-
-#### Executive Order No. 11524
-
-Ex. Ord. No. 11524, Apr. 15, 1970, 35 F.R. 6247, which provided for adjustment of pay rates effective first pay period on or after Dec. 27, 1969, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out below.
-
-#### Executive Order No. 11576
-
-Ex. Ord. No. 11576, Jan. 8, 1971, 36 F.R. 347, which provided for adjustment of pay rates effective Jan. 1, 1971, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out below.
-
-#### Executive Order No. 11637
-
-Ex. Ord. No. 11637, Dec. 22, 1971, 36 F.R. 24911, which provided for adjustment of pay rates effective Jan. 1, 1972, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out below.
-
-#### Executive Order No. 11691
-
-Ex. Ord. No. 11691, Dec. 15, 1972, 37 F.R. 27607, as amended by Ex. Ord. No. 11777, Apr. 12, 1974, 39 F.R. 13519, which provided for adjustment of pay rates effective Oct. 1, 1972, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out below.
-
-#### Executive Order No. 11739
-
-Ex. Ord. No. 11739, Oct. 3, 1973, 38 F.R. 27581, which provided for adjustment of pay rates effective Oct. 1, 1973, was superseded by Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, formerly set out below.
-
-#### Executive Order No. 11811
-
-Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, which provided for adjustment of pay rates effective Oct. 1, 1974, was superseded by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, formerly set out below.
-
-#### Executive Order No. 11883
-
-Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, which provided for adjustment of pay rates effective Oct. 1, 1975, was superseded by Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889, formerly set out below.
-
-#### Executive Order No. 11941
-
-Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, which provided for adjustment of pay rates effective Oct. 1, 1976, was superseded by Ex. Ord. No. 12010, Sept. 28, 1977, 42 F.R. 52365, formerly set out below.
-
-#### Executive Order No. 12010
-
-Ex. Ord. No. 12010, Sept. 28, 1977, 42 F.R. 52365, which provided for adjustment of pay rates effective Oct. 1, 1977, was superseded by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, formerly set out below.
-
-#### Executive Order No. 12087
-
-Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, which provided for adjustment of pay rates effective Oct. 1, 1978, was superseded by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, formerly set out below.
-
-#### Executive Order No. 12165
-
-Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 44 F.R. 16443, which provided for adjustment of pay rates effective Oct. 1, 1979, was superseded by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, formerly set out below.
-
-#### Executive Order No. 12248
-
-Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, which provided for adjustment of pay rates effective Oct. 1, 1980, was superseded by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, formerly set out below.
-
-#### Executive Order No. 12330
-
-Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, which provided for adjustment of pay rates effective Oct. 1, 1981, was superseded by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out below.
-
-#### Executive Order No. 12387
-
-Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041, formerly set out below.
-
-#### Executive Order No. 12456
-
-Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out below.
-
-#### Executive Order No. 12496
-
-Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out below.
-
-#### Executive Order No. 12578
-
-Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for adjustment of pay rates effective Jan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out below.
-
-#### Executive Order No. 12622
-
-Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, which provided for adjustment of pay rates effective Jan. 1, 1988, was superseded by Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, formerly set out below.
-
-#### Executive Order No. 12663
-
-Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, which provided for adjustment of pay rates effective Jan. 1, 1989, was superseded by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, formerly set out below.
-
-#### Executive Order No. 12698
-
-Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, which provided for adjustment of pay rates effective Jan. 1 and 31, 1990, was superseded by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, formerly set out below.
-
-#### Executive Order No. 12736
-
-Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, which provided for adjustment of pay rates effective Jan. 1,1991, was superseded by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, formerly set out below.
-
-#### Executive Order No. 12786
-
-Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for adjustment of pay rates effective Jan. 1, 1992, was superseded by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, formerly set out below.
-
-#### Executive Order No. 12826
-
-Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, as amended by Ex. Ord. No. 12886, §3, Dec. 23, 1993, 58 F.R. 68709, which provided for adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out below.
-
-#### Executive Order No. 12886
-
-Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, which provided for adjustment of pay rates for the uniformed services effective Jan. 1, 1994, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out below.
-
-#### Executive Order No. 12944
-
-Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out below.
-
-#### Executive Order No. 12984
-
-Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, as amended by Ex. Ord. No. 12990, §3, Feb. 29, 1996, 61 F.R. 8467, which provided for adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out below.
-
-#### Executive Order No. 12990
-
-Ex. Ord. No. 12990, Feb. 29, 1996, 61 F.R. 8467, which provided for adjustment of pay rates for the uniformed services effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out below.
-
-#### Executive Order No. 13033
-
-Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out below.
-
-#### Executive Order No. 13071
-
-Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out below.
-
-#### Executive Order No. 13106
-
-Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, as amended by Ex. Ord. No. 13144, §8, Dec. 21, 1999, 64 F.R. 72238, provided for adjustment of pay rates effective Jan. 1, 1999, and amendment of Ex. Ord. No. 12748 (5 U.S.C. 5301 note).
-
-#### Executive Order No. 13144
-
-Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out below.
-
-#### Executive Order No. 13182
-
-Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out below.
-
-#### Executive Order No. 13249
-
-Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended, formerly set out below.
-
-#### Executive Order No. 13282
-
-Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, Mar. 21, 2003, 68 F.R. 14525, which provided for adjustment of pay rates effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
-
-#### Executive Order No. 13322
-
-Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out below.
-
-#### Executive Order No. 13332
-
-Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out below.
-
-#### Ex. Ord. No. 13368. Adjustments of Certain Rates of Pay
-
-Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, provided:
+Ex. Ord. No. 13393, Dec. 22, 2005, 70 F.R. 76655, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the laws cited herein, it is hereby ordered as follows:
 
-Section 1. <i>Statutory Pay Systems</i>. The rates of basic pay or salaries of the statutory pay systems (as defined in 5 U.S.C. 5302(1)), as adjusted under 5 U.S.C. 5303(a), are set forth on the schedules attached hereto and made a part hereof: (a) The General Schedule (5 U.S.C. 5332(a)) at Schedule 1; (b) The Foreign Service Schedule (22 U.S.C. 3963) at Schedule 2; and (c) The schedules for the Veterans Health Administration of the Department of Veterans Affairs (38 U.S.C. 7306, 7404; section 301(a) of Public Law 102–40 \[enacting provisions set out as a note under section 7451 of Title 38, Veterans’ Benefits\]) at Schedule 3.
+Section 1. <i>Statutory Pay Systems</i>. The rates of basic pay or salaries of the statutory pay systems (as defined in 5 U.S.C. 5302(1)), as adjusted under 5 U.S.C. 5303(a), are set forth on the schedules attached hereto and made a part hereof:
+
+(a) The General Schedule (5 U.S.C. 5332(a)) at Schedule 1;
+
+(b) The Foreign Service Schedule (22 U.S.C. 3963) at Schedule 2; and
+
+(c) The schedules for the Veterans Health Administration of the Department of Veterans Affairs (38 U.S.C. 7306, 7404; section 301(a) of Public Law 102–40 \[enacting provisions set out as a note under section 7451 of Title 38, Veterans’ Benefits\]; section 3(d) of Public Law 108–445 \[enacting provisions set out as a note under section 7431 of Title 38\]) at Schedule 3.
 
 Sec. 2. <i>Senior Executive Service</i>. The ranges of rates of basic pay for senior executives in the Senior Executive Service, as established pursuant to 5 U.S.C. 5382, are set forth on Schedule 4 attached hereto and made a part hereof.
 
-Sec. 3. <i>Certain Executive, Legislative and Judicial Salaries</i>. The rates of basic pay or salaries for the following offices and positions are set forth on the schedules attached hereto and made a part hereof:
+Sec. 3. <i>Certain Executive, Legislative, and Judicial Salaries</i>. The rates of basic pay or salaries for the following offices and positions are set forth on the schedules attached hereto and made a part hereof:
 
 (a) The Executive Schedule (5 U.S.C. 5312–5318) at Schedule 5;
 
 (b) The Vice President (3 U.S.C. 104) and the Congress (2 U.S.C. 31) at Schedule 6; and
 
-(c) Justices and judges (28 U.S.C. 5, 44(d), 135, 252, and 461(a), section 140 of Public Law 97–92 \[enacting provisions set out as a note under section 461 of Title 28, Judiciary and Judicial Procedure\], and section 306 of Division B of Public Law 108–447 \[enacting provisions set out as a note under section 461 of Title 28\]) at Schedule 7.
+(c) Justices and judges (28 U.S.C. 5, 44(d), 135, 252, and 461(a), section 140 of Public Law 97–92 \[enacting provisions set out as a note under section 461 of Title 28, Judiciary and Judicial Procedure\], and section 405 of Public Law 109–115 \[enacting provisions set out as a note under section 461 of Title 28\]) at Schedule 7.
 
 Sec. 4. <i>Uniformed Services</i>. Pursuant to section 601(a)–(b) of Public Law 108–375 \[enacting provisions set out as a note under section 1009 of Title 37, Pay and Allowances of the Uniformed Services\], the rates of monthly basic pay (37 U.S.C. 203(a)) for members of the uniformed services, as adjusted under 37 U.S.C. 1009, and the rate of monthly cadet or midshipman pay (37 U.S.C. 203(c)) are set forth on Schedule 8 attached hereto and made a part hereof.
 
-Sec. 5. <i>Locality-Based Comparability Payments</i>. (a) Pursuant to section 5304 of title 5, United States Code, and section 640 of Division H of Public Law 108–447 \[enacting provisions set out as a note under section 5303 of this title\], locality-based comparability payments shall be paid in accordance with Schedule 9 attached hereto and made a part hereof.
+Sec. 5. <i>Locality-Based Comparability Payments.</i>
 
-(b) The Director of the Office of Personnel Management shall take such actions as may be necessary toimplement these payments and to publish appropriate notice of such payments in the Federal Register.
+(a) Pursuant to section 5304 of title 5, United States Code, and section 843 of Public Law 109–115 \[enacting provisions set out as a note under section 5303 of this title\], locality-based comparability payments shall be paid in accordance with Schedule 9 attached hereto and made a part hereof.
+
+(b) The Director of the Office of Personnel Management shall take such actions as may be necessary to implement these payments and to publish appropriate notice of such payments in the Federal Register.
 
 Sec. 6. <i>Administrative Law Judges</i>. The rates of basic pay for administrative law judges, as adjusted under 5 U.S.C. 5372(b)(4), are set forth on Schedule 10 attached hereto and made a part hereof.
 
-Sec. 7. <i>Effective Dates</i>. Schedule 8 is effective on January 1, 2005. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2005.
+Sec. 7. <i>Effective Dates</i>. Schedule 8 is effective on January 1, 2006. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2006.
 
-Sec. 8. <i>Prior Order Superseded</i>. Executive Order 13332 of March 3, 2004, is superseded.
+Sec. 8. <i>Prior Order Superseded</i>. Executive Order 13368 of December 30, 2004, is superseded.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 &nbsp;
 
@@ -476,335 +214,335 @@ Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the firs
 
 GS–1
 
-$16,016
+$16,352
 
-$16,550
+$16,898
 
-$17,083
+$17,442
 
-$17,613
+$17,983
 
-$18,146
+$18,527
 
-$18,459
+$18,847
 
-$18,984
+$19,383
 
-$19,515
+$19,925
 
-$19,537
+$19,947
 
-$20,036
+$20,450
 
 GS–2
 
-18,007
+18,385
 
-18,435
+18,822
 
-19,031
+19,431
 
-19,537
+19,947
 
-19,755
+20,169
 
-20,336
+20,762
 
-20,917
+21,355
 
-21,498
+21,948
 
-22,079
+22,541
 
-22,660
+23,134
 
 GS–3
 
-19,647
+20,060
 
-20,302
+20,729
 
-20,957
+21,398
 
-21,612
+22,067
 
-22,267
+22,736
 
-22,922
+23,405
 
-23,577
+24,074
 
-24,232
+24,743
 
-24,887
+25,412
 
-25,542
+26,081
 
 GS–4
 
-22,056
+22,519
 
-22,791
+23,270
 
-23,526
+24,021
 
-24,261
+24,772
 
-24,996
+25,523
 
-25,731
+26,274
 
-26,466
+27,025
 
-27,201
+27,776
 
-27,936
+28,527
 
-28,671
+29,278
 
 GS–5
 
-24,677
+25,195
 
-25,500
+26,035
 
-26,323
+26,875
 
-27,146
+27,715
 
-27,969
+28,555
 
-28,792
+29,395
 
-29,615
+30,235
 
-30,438
+31,075
 
-31,261
+31,915
 
-32,084
+32,755
 
 GS–6
 
-27,507
+28,085
 
-28,424
+29,021
 
-29,341
+29,957
 
-30,258
+30,893
 
-31,175
+31,829
 
-32,092
+32,765
 
-33,009
+33,701
 
-33,926
+34,637
 
-34,843
+35,573
 
-35,760
+36,509
 
 GS–7
 
-30,567
+31,209
 
-31,586
+32,249
 
-32,605
+33,289
 
-33,624
+34,329
 
-34,643
+35,369
 
-35,662
+36,409
 
-36,681
+37,449
 
-37,700
+38,489
 
-38,719
+39,529
 
-39,738
+40,569
 
 GS–8
 
-33,852
+34,563
 
-34,980
+35,715
 
-36,108
+36,867
 
-37,236
+38,019
 
-38,364
+39,171
 
-39,492
+40,323
 
-40,620
+41,475
 
-41,748
+42,627
 
-42,876
+43,779
 
-44,004
+44,931
 
 GS–9
 
-37,390
+38,175
 
-38,636
+39,448
 
-39,882
+40,721
 
-41,128
+41,994
 
-42,374
+43,267
 
-43,620
+44,540
 
-44,866
+45,813
 
-46,112
+47,086
 
-47,358
+48,359
 
-48,604
+49,632
 
 GS–10
 
-41,175
+42,040
 
-42,548
+43,441
 
-43,921
+44,842
 
-45,294
+46,243
 
-46,667
+47,644
 
-48,040
+49,045
 
-49,413
+50,446
 
-50,786
+51,847
 
-52,159
+53,248
 
-53,532
+54,649
 
 GS–11
 
-45,239
+46,189
 
-46,747
+47,729
 
-48,255
+49,269
 
-49,763
+50,809
 
-51,271
+52,349
 
-52,779
+53,889
 
-54,287
+55,429
 
-55,795
+56,969
 
-57,303
+58,509
 
-58,811
+60,049
 
 GS–12
 
-54,221
+55,360
 
-56,028
+57,205
 
-57,835
+59,050
 
-59,642
+60,895
 
-61,449
+62,740
 
-63,256
+64,585
 
-65,063
+66,430
 
-66,870
+68,275
 
-68,677
+70,120
 
-70,484
+71,965
 
 GS–13
 
-64,478
+65,832
 
-66,627
+68,026
 
-68,776
+70,220
 
-70,925
+72,414
 
-73,074
+74,608
 
-75,223
+76,802
 
-77,372
+78,996
 
-79,521
+81,190
 
-81,670
+83,384
 
-83,819
+85,578
 
 GS–14
 
-76,193
+77,793
 
-78,733
+80,386
 
-81,273
+82,979
 
-83,813
+85,572
 
-86,353
+88,165
 
-88,893
+90,758
 
-91,433
+93,351
 
-93,973
+95,944
 
-96,513
+98,537
 
-99,053
+101,130
 
 GS–15
 
-89,625
+91,507
 
-92,613
+94,557
 
-95,601
+97,607
 
-98,589
+100,657
 
-101,577
+103,707
 
-104,565
+106,757
 
-107,553
+109,807
 
-110,541
+112,857
 
-113,529
+115,907
 
-116,517
+118,957
 
-Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 Step
 
@@ -828,285 +566,285 @@ Class 9
 
 1
 
-$89,625
+$91,507
 
-$72,622
+$74,148
 
-$58,845
+$60,081
 
-$47,682
+$48,684
 
-$38,636
+$39,448
 
-$34,540
+$35,265
 
-$30,878
+$31,526
 
-$27,604
+$28,183
 
-$24,677
+$25,195
 
 2
 
-92,314
+94,252
 
-74,801
+76,372
 
-60,610
+61,883
 
-49,112
+50,145
 
-39,795
+40,631
 
-35,576
+36,323
 
-31,804
+32,472
 
-28,432
+29,028
 
-25,417
+25,951
 
 3
 
-95,083
+97,080
 
-77,045
+78,664
 
-62,429
+63,740
 
-50,586
+51,649
 
-40,989
+41,850
 
-36,643
+37,413
 
-32,758
+33,446
 
-29,285
+29,899
 
-26,180
+26,729
 
 4
 
-97,936
+99,992
 
-79,356
+81,024
 
-64,302
+65,652
 
-52,103
+53,198
 
-42,219
+43,106
 
-37,743
+38,535
 
-33,741
+34,449
 
-30,164
+30,796
 
-26,965
+27,531
 
 5
 
-100,874
+102,992
 
-81,737
+83,454
 
-66,231
+67,622
 
-53,667
+54,794
 
-43,485
+44,399
 
-38,875
+39,691
 
-34,753
+35,483
 
-31,069
+31,720
 
-27,774
+28,357
 
 6
 
-103,900
+106,082
 
-84,189
+85,958
 
-68,217
+69,650
 
-55,277
+56,438
 
-44,790
+45,731
 
-40,041
+40,882
 
-35,796
+36,547
 
-32,001
+32,672
 
-28,607
+29,208
 
 7
 
-107,017
+109,264
 
-86,714
+88,537
 
-70,264
+71,740
 
-56,935
+58,131
 
-46,133
+47,103
 
-41,243
+42,108
 
-36,870
+37,644
 
-32,961
+33,652
 
-29,466
+30,084
 
 8
 
-110,227
+112,542
 
-89,316
+91,193
 
-72,372
+73,892
 
-58,643
+59,875
 
-47,517
+48,516
 
-42,480
+43,372
 
-37,976
+38,773
 
-33,949
+34,662
 
-30,350
+30,987
 
 9
 
-113,534
+115,918
 
-91,995
+93,928
 
-74,543
+76,109
 
-60,402
+61,671
 
-48,943
+49,972
 
-43,754
+44,673
 
-39,115
+39,936
 
-34,968
+35,701
 
-31,260
+31,916
 
 10
 
-116,517
+118,957
 
-94,755
+96,746
 
-76,779
+78,392
 
-62,214
+63,522
 
-50,411
+51,471
 
-45,067
+46,013
 
-40,289
+41,134
 
-36,017
+36,772
 
-32,198
+32,874
 
 11
 
-116,517
+118,957
 
-97,598
+99,649
 
-79,083
+80,744
 
-64,081
+65,427
 
-51,924
+53,015
 
-46,419
+47,393
 
-41,497
+42,368
 
-37,097
+37,876
 
-33,164
+33,860
 
 12
 
-116,517
+118,957
 
-100,526
+102,638
 
-81,455
+83,166
 
-66,003
+67,390
 
-53,481
+54,605
 
-47,811
+48,815
 
-42,742
+43,639
 
-38,210
+39,012
 
-34,159
+34,876
 
 13
 
-116,517
+118,957
 
-103,542
+105,717
 
-83,899
+85,661
 
-67,983
+69,412
 
-55,086
+56,243
 
-49,246
+50,279
 
-44,025
+44,949
 
-39,357
+40,182
 
-35,184
+35,922
 
 14
 
-116,517
+118,957
 
-106,648
+108,889
 
-86,416
+88,231
 
-70,023
+71,494
 
-56,738
+57,931
 
-50,723
+51,788
 
-45,345
+46,297
 
-40,537
+41,388
 
-36,239
+37,000
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 &nbsp;
 
@@ -1116,17 +854,11 @@ Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veteran
 
 Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) <sup>1</sup>
 
-Deputy Under Secretary for Health
-
-<sup>2</sup> $152,207
-
-Associate Deputy Under Secretary for Health
-
-<sup>3</sup> 145,786
-
 Assistant Under Secretaries for Health
 
-<sup>3</sup> 141,488
+<sup>2</sup> 144,459
+
+(Only applies to incumbents who are not physicians or dentists)
 
 &nbsp;
 
@@ -1134,159 +866,123 @@ Minimum
 
 Maximum
 
-Medical Directors
-
-$120,718
-
-<sup>3</sup> $136,818
-
 Service Directors
 
-105,113
+107,320
 
-130,543
+133,284
 
 Director, National Center for Preventive Health
 
-89,625
+91,507
 
-130,543
+133,284
 
-Physician and Dentist Schedule
+Physician and Dentist Base and Longevity Schedule <sup>3</sup>
 
-Director Grade
+Physician Grade
 
-$105,113
+$90,000
 
-$130,543
+$132,000
 
-Executive Grade
+Dentist Grade
 
-97,061
+90,000
 
-123,701
-
-Chief Grade
-
-89,625
-
-116,517
-
-Senior Grade
-
-76,193
-
-99,053
-
-Intermediate Grade
-
-64,478
-
-83,819
-
-Full Grade
-
-54,221
-
-70,484
-
-Associate Grade
-
-45,239
-
-58,811
+132,000
 
 Clinical Podiatrist, Chiropractor, and Optometrist Schedule
 
 Chief Grade
 
-$89,625
+$91,507
 
-$116,517
+$118,957
 
 Senior Grade
 
-76,193
+77,793
 
-99,053
+101,130
 
 Intermediate Grade
 
-64,478
+65,832
 
-83,819
+85,578
 
 Full Grade
 
-54,221
+55,360
 
-70,484
+71,965
 
 Associate Grade
 
-45,239
+46,189
 
-58,811
+60,049
 
 Physician Assistant and Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$89,625
+$91,507
 
-$116,517
+$118,957
 
 Assistant Director Grade
 
-76,193
+77,793
 
-99,053
+101,130
 
 Chief Grade
 
-64,478
+65,832
 
-83,819
+85,578
 
 Senior Grade
 
-54,221
+55,360
 
-70,484
+71,965
 
 Intermediate Grade
 
-45,239
+46,189
 
-58,811
+60,049
 
 Full Grade
 
-37,390
+38,175
 
-48,604
+49,632
 
 Associate Grade
 
-32,175
+32,851
 
-41,832
+42,706
 
 Junior Grade
 
-27,507
+28,085
 
-35,760
+36,509
 
-<sup>1</sup> This schedule does not apply to the Assistant Under Secretary for Nursing Programs or the Director of Nursing Services. Pay for these positions is set by the Under Secretary for Health under 38 U.S.C. 7451.
+<sup>1</sup> This schedule does not apply to the Deputy Under Secretary for Health, the Associate Deputy Under Secretary for Health, Assistant Under Secretaries for Health who are physicians or dentists, Medical Directors, the Assistant Under Secretary for Nursing Programs, or the Director of Nursing Services. Pay for these positions is set under section 7431 of title 38, United States Code, for physicians and dentists, and under section 7451 of title 38, United States Code, for registered nurses.
 
-<sup>2</sup> Pursuant to section 3 of Public Law 108–445 and section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $140,300.
+<sup>2</sup> Pursuant to section 7404(d) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $133,900.
 
-<sup>3</sup> Pursuant to section 3 of Public Law 108–445 and section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $131,400.
+<sup>3</sup> Pursuant to section 3 of Public Law 108–445 \[see Tables for classification\] and section 7431 of title 38, United States Code, Veterans Health Administration physicians and dentists may also be paid market pay and performance pay.
 
-<sup>4</sup> Pursuant to section 301(a) of Public Law 102–40, these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) \[former section 4107(b) of Title 38, Veterans’ Benefits\] as in effect on August 14, 1990, with subsequent adjustments.
+<sup>4</sup> Pursuant to section 301(a) of Public Law 102–40 \[38 U.S.C. 7451 note\], these positions are paid according to the Nurse Schedule in section 4107(b) of title 38, United States Code \[former section 4107(b) of Title 38, Veterans’ Benefits\], as in effect on August 14, 1990, with subsequent adjustments.
 
-Schedule 4<br><i>Senior Executive Service</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+Schedule 4<br><i>Senior Executive Service</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 &nbsp;
 
@@ -1302,41 +998,41 @@ Maximum
 
 Agencies with a Certified SES Performance Appraisal System
 
-$107,550
+$109,808
 
-$162,100
+$165,200
 
 Agencies without a Certified SES Performance Appraisal System
 
-$107,550
+$109,808
 
-$149,200
+$152,000
 
 #### Schedule 5
 
 ##### Executive Schedule
 
-##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 Level I
 
-$180,100
+$183,500
 
 Level II
 
-162,100
+165,200
 
 Level III
 
-149,200
+152,000
 
 Level IV
 
-140,300
+143,000
 
 Level V
 
-131,400
+133,900
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1344,43 +1040,43 @@ Level V
 
 ##### Vice President and Members of Congress
 
-##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 Vice President
 
-$208,100
+$212,100
 
 Senators
 
-162,100
+165,200
 
 Members of the House of Representatives
 
-162,100
+165,200
 
 Delegates to the House of Representatives
 
-162,100
+165,200
 
 Resident Commissioner from Puerto Rico
 
-162,100
+165,200
 
 President pro tempore of the Senate
 
-180,100
+183,500
 
 Majority leader and minority leader of the Senate
 
-180,100
+183,500
 
 Majority leader and minority leader of the House of Representatives
 
-180,100
+183,500
 
 Speaker of the House of Representatives
 
-208,100
+212,100
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1388,31 +1084,31 @@ Speaker of the House of Representatives
 
 ##### Judicial Salaries
 
-##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 Chief Justice of the United States
 
-$208,100
+$212,100
 
 Associate Justices of the Supreme Court
 
-199,200
+203,000
 
 Circuit Judges
 
-171,800
+175,100
 
 District Judges
 
-162,100
+165,200
 
 Judges of the United States Court of International Trade
 
-162,100
+165,200
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Schedule 8<br><i>Pay of the Uniformed Services</i><br>(Effective on January 1, 2005)
+Schedule 8<br><i>Pay of the Uniformed Services</i><br>(Effective on January 1, 2006)
 
 part i—monthly basic pay<br>Years of Service (computed under 37 U.S.C. 205)<br>Commissioned Officers
 
@@ -1434,99 +1130,99 @@ O–9
 
 O–8
 
-$8,022.30
+$8,271.00
 
-$8,285.10
+$8,541.90
 
-$8,459.40
+$8,721.60
 
-$8,508.30
+$8,772.00
 
-$8,725.50
+$8,996.10
 
 O–7
 
-6,666.00
+6,872.70
 
-6,975.60
+7,191.90
 
-7,119.00
+7,339.80
 
-7,233.00
+7,457.10
 
-7,439.10
+7,669.80
 
 O–6
 
-4,940.70
+5,094.00
 
-5,427.90
+5,596.20
 
-5,784.00
+5,963.40
 
-5,784.00
+5,963.40
 
-5,805.90
+5,985.90
 
 O–5
 
-4,118.70
+4,246.50
 
-4,639.80
+4,783.50
 
-4,961.10
+5,115.00
 
-5,021.40
+5,177.10
 
-5,221.50
+5,383.50
 
 O–4
 
-3,553.80
+3,663.90
 
-4,113.90
+4,241.40
 
-4,388.40
+4,524.30
 
-4,449.60
+4,587.60
 
-4,704.30
+4,850.10
 
 O–3 <sup>2</sup>
 
-3,124.50
+3,221.40
 
-3,542.10
+3,651.90
 
-3,823.20
+3,941.70
 
-4,168.20
+4,297.50
 
-4,367.70
+4,503.00
 
 O–2 <sup>2</sup>
 
-2,699.40
+2,783.10
 
-3,074.70
+3,170.10
 
-3,541.20
+3,651.00
 
-3,660.90
+3,774.30
 
-3,736.20
+3,852.00
 
 O–1 <sup>2</sup>
 
-2,343.60
+2,416.20
 
-2,439.00
+2,514.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
 &nbsp;
 
@@ -1546,99 +1242,99 @@ O–9
 
 O–8
 
-$9,089.40
+$9,371.10
 
-$9,173.70
+$9,458.10
 
-$9,519.00
+$9,814.20
 
-$9,618.00
+$9,916.20
 
-$9,915.30
+$10,222.80
 
 O–7
 
-7,642.50
+7,879.50
 
-7,878.30
+8,122.50
 
-8,113.50
+8,364.90
 
-8,349.00
+8,607.90
 
-9,089.40
+9,371.10
 
 O–6
 
-6,054.90
+6,242.70
 
-6,087.90
+6,276.60
 
-6,087.90
+6,276.60
 
-6,433.80
+6,633.30
 
-7,045.50
+7,263.90
 
 O–5
 
-5,341.80
+5,507.40
 
-5,605.50
+5,779.20
 
-5,799.00
+5,978.70
 
-6,048.60
+6,236.10
 
-6,431.10
+6,630.60
 
 O–4
 
-4,977.60
+5,131.80
 
-5,317.50
+5,482.20
 
-5,582.70
+5,755.80
 
-5,766.60
+5,945.40
 
-5,872.20
+6,054.30
 
 O–3 <sup>2</sup>
 
-4,586.70
+4,728.90
 
-4,728.60
+4,875.30
 
-4,962.00
+5,115.90
 
-5,083.20
+5,240.70
 
-5,083.20
+5,240.70
 
 O–2 <sup>2</sup>
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
 O–1 <sup>2</sup>
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
 &nbsp;
 
@@ -1654,145 +1350,145 @@ Over 26
 
 O–10 <sup>1</sup>
 
-\*$12,963.00
+\*$13,365.00
 
-\*$13,026.60
+\*$13,430.40
 
-\*$13,297.50
+\*$13,709.70
 
-\*$13,769.40
+\*$14,196.30
 
 O–9
 
-11,337.90
+11,689.50
 
-11,501.10
+11,857.50
 
-11,737.20
+12,101.10
 
-12,149.10
+12,525.60
 
 O–8
 
-$10,345.50
+$10,666.20
 
-10,742.40
+11,075.40
 
-11,007.60
+11,348.70
 
-11,007.60
+11,348.70
 
-11,007.60
+11,348.70
 
 O–7
 
-9,714.60
+10,015.80
 
-9,714.60
+10,015.80
 
-9,714.60
+10,015.80
 
-9,714.60
+10,015.80
 
-9,763.80
+10,066.50
 
 O–6
 
-7,404.60
+7,634.10
 
-7,763.40
+8,004.00
 
-7,967.70
+8,214.60
 
-8,174.10
+8,427.60
 
-8,575.50
+8,841.30
 
 O–5
 
-6,613.20
+6,818.10
 
-6,793.20
+7,003.80
 
-6,997.50
+7,214.40
 
-6,997.50
+7,214.40
 
-6,997.50
+7,214.40
 
 O–4
 
-5,933.70
+6,117.60
 
-5,933.70
+6,117.60
 
-5,933.70
+6,117.60
 
-5,933.70
+6,117.60
 
-5,933.70
+6,117.60
 
 O–3 <sup>2</sup>
 
-5,083.20
+5,240.70
 
-5,083.20
+5,240.70
 
-5,083.20
+5,240.70
 
-5,083.20
+5,240.70
 
-5,083.20
+5,240.70
 
 O–2 <sup>2</sup>
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
-3,736.20
+3,852.00
 
 O–1 <sup>2</sup>
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-2,948.10
+3,039.60
 
-<sup>1</sup> For officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or commander of a unified or specified combatant command (as defined in section 161(c) of title 10, United States Code), basic pay for this grade is calculated to be $15,146.40 per month, regardless of cumulative years of service computed under section 205 of title 37, United States Code. Nevertheless, actual basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,433.20 per month.
+<sup>1</sup>For officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or commander of a unified or specified combatant command (as defined in section 161(c) of title 10, United States Code), basic pay for this grade is calculated to be $15,615.90 per month, regardless of cumulative years of service computed under section 205 of title 37, United States Code. Nevertheless, actual basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,666.60 per month.
 
 <sup>2</sup> Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
 
-\* Basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,433.20 per month.
+\* Basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,666.60 per month.
 
 Commissioned officers with over 4 years active duty service as an enlisted member and/or warrant officer <sup>3</sup>
 
 | Pay Grade | Over 4 | Over 6 | Over 8 | Over 10 |
 | :--- | :---: | :---: | :---: | ---: |
-| O–3E | $4,168.20 | $4,367.70 | $4,586.70 | $4,728.60 |
-| O–2E | 3,660.90 | 3,736.20 | 3,855.30 | 4,055.70 |
-| O–1E | 2,948.10 | 3,148.80 | 3,264.90 | 3,383.70 |
+| O–3E | $4,297.50 | $4,503.00 | $4,728.90 | $4,875.30 |
+| O–2E | 3,774.30 | 3,852.00 | 3,974.70 | 4,181.40 |
+| O–1E | 3,039.60 | 3,246.30 | 3,366.00 | 3,488.70 |
 |  |  |  |  |  |
 | &nbsp; | Over 12 | Over 14 | Over 16 | Over 18 |
 |  |  |  |  |  |
-| O–3E | $4,962.00 | $5,158.50 | $5,271.00 | $5,424.60 |
-| O–2E | 4,211.10 | 4,326.60 | 4,326.60 | 4,326.60 |
-| O–1E | 3,500.70 | 3,660.90 | 3,660.90 | 3,660.90 |
+| O–3E | $5,115.90 | $5,318.40 | $5,434.50 | $5,592.90 |
+| O–2E | 4,341.60 | 4,460.70 | 4,460.70 | 4,460.70 |
+| O–1E | 3,609.30 | 3,774.30 | 3,774.30 | 3,774.30 |
 |  |  |  |  |  |
 | &nbsp; | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |
-| O–3E | $5,424.60 | $5,424.60 | $5,424.60 | $5,424.60 |
-| O–2E | 4,326.60 | 4,326.60 | 4,326.60 | 4,326.60 |
-| O–1E | 3,660.90 | 3,660.90 | 3,660.90 | 3,660.90 |
+| O–3E | $5,592.90 | $5,592.90 | $5,592.90 | $5,592.90 |
+| O–2E | 4,460.70 | 4,460.70 | 4,460.70 | 4,460.70 |
+| O–1E | 3,774.30 | 3,774.30 | 3,774.30 | 3,774.30 |
 
 <sup>3</sup> Reservists with at least 1,460 points as an enlisted member and/or warrant officer which are creditable toward reserve retirement also qualify for these rates.
 
@@ -1801,26 +1497,26 @@ Warrant Officers
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | W–5 |  |  |  |  |  |
-| W–4 | $3,228.60 | $3,473.40 | $3,573.30 | $3,671.40 | $3,840.30 |
-| W–3 | 2,948.40 | 3,071.70 | 3,197.40 | 3,238.80 | 3,371.10 |
-| W–2 | 2,593.50 | 2,741.70 | 2,871.30 | 2,965.50 | 3,046.20 |
-| W–1 | 2,290.20 | 2,477.70 | 2,603.10 | 2,684.40 | 2,900.40 |
+| W–4 | $3,328.80 | $3,581.10 | $3,684.00 | $3,785.10 | $3,959.40 |
+| W–3 | 3,039.90 | 3,166.80 | 3,296.40 | 3,339.30 | 3,475.50 |
+| W–2 | 2,673.90 | 2,826.60 | 2,960.40 | 3,057.30 | 3,140.70 |
+| W–1 | 2,361.30 | 2,554.50 | 2,683.80 | 2,767.50 | 2,990.40 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
 | W–5 |  |  |  |  |  |
-| W–4 | $4,007.10 | $4,176.30 | $4,341.00 | $4,511.70 | $4,779.00 |
-| W–3 | 3,522.30 | 3,721.80 | 3,918.90 | 4,128.30 | 4,285.50 |
-| W–2 | 3,268.20 | 3,438.00 | 3,564.00 | 3,687.00 | 3,771.30 |
-| W–1 | 3,030.90 | 3,146.40 | 3,275.40 | 3,360.90 | 3,438.30 |
+| W–4 | $4,131.30 | $4,305.90 | $4,475.70 | $4,651.50 | $4,927.20 |
+| W–3 | 3,631.50 | 3,837.30 | 4,040.40 | 4,256.40 | 4,418.40 |
+| W–2 | 3,369.60 | 3,544.50 | 3,674.40 | 3,801.30 | 3,888.30 |
+| W–1 | 3,124.80 | 3,243.90 | 3,376.80 | 3,465.00 | 3,544.80 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| W–5 |  | $5,548.20 | $5,738.40 | $5,929.20 | $6,121.20 |
-| W–4 | $4,950.00 | 5,117.40 | 5,290.80 | 5,461.80 | 5,636.40 |
-| W–3 | 4,442.10 | 4,509.30 | 4,578.90 | 4,730.10 | 4,881.30 |
-| W–2 | 3,842.40 | 3,977.40 | 4,111.50 | 4,247.40 | 4,247.40 |
-| W–1 | 3,564.30 | 3,659.70 | 3,659.70 | 3,659.70 | 3,659.70 |
+| W–5 |  | $5,720.10 | $5,916.30 | $6,113.10 | $6,311.10 |
+| W–4 | $5,103.60 | 5,276.10 | 5,454.90 | 5,631.00 | 5,811.00 |
+| W–3 | 4,579.80 | 4,649.10 | 4,720.80 | 4,876.80 | 5,032.50 |
+| W–2 | 3,961.50 | 4,100.70 | 4,239.00 | 4,379.10 | 4,379.10 |
+| W–1 | 3,674.70 | 3,773.10 | 3,773.10 | 3,773.10 | 3,773.10 |
 
 Enlisted Members
 
@@ -1828,42 +1524,42 @@ Enlisted Members
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | E–9 <sup>1</sup> |  |  |  |  |  |
 | E–8 |  |  |  |  |  |
-| E–7 | $2,220.00 | $2,423.10 | $2,515.80 | $2,638.80 | $2,734.50 |
-| E–6 | 1,920.30 | 2,112.60 | 2,205.90 | 2,296.50 | 2,391.00 |
-| E–5 | 1,759.50 | 1,877.10 | 1,967.70 | 2,060.70 | 2,205.30 |
-| E–4 | 1,612.80 | 1,695.60 | 1,787.10 | 1,877.70 | 1,957.80 |
-| E–3 | 1,456.20 | 1,547.70 | 1,641.00 | 1,641.00 | 1,641.00 |
-| E–2 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 |
-| E–1 <sup>2</sup> | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 |
-| E–1 <sup>3</sup> | 1,142.70 |  |  |  |  |
+| E–7 | $2,288.70 | $2,498.10 | $2,593.80 | $2,720.70 | $2,819.40 |
+| E–6 | 1,979.70 | 2,178.00 | 2,274.30 | 2,367.60 | 2,465.10 |
+| E–5 | 1,814.10 | 1,935.30 | 2,028.60 | 2,124.60 | 2,273.70 |
+| E–4 | 1,662.90 | 1,748.10 | 1,842.60 | 1,935.90 | 2,018.40 |
+| E–3 | 1,501.20 | 1,595.70 | 1,692.00 | 1,692.00 | 1,692.00 |
+| E–2 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 |
+| E–1 <sup>2</sup> | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 |
+| E–1 <sup>3</sup> | 1,178.10 |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> |  | $3,901.20 | $3,989.70 | $4,101.00 | $4,232.40 |
-| E–8 | $3,193.50 | 3,334.80 | 3,422.10 | 3,527.10 | 3,640.50 |
-| E–7 | 2,899.50 | 2,992.20 | 3,084.60 | 3,249.60 | 3,332.40 |
-| E–6 | 2,604.30 | 2,687.10 | 2,779.20 | 2,859.90 | 2,888.70 |
-| E–5 | 2,329.80 | 2,421.60 | 2,450.70 | 2,450.70 | 2,450.70 |
-| E–4 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 |
-| E–3 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 |
-| E–2 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 |
-| E–1 <sup>2</sup> | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 |
+| E–9 <sup>1</sup> |  | $4,022.10 | $4,113.30 | $4,228.20 | $4,363.50 |
+| E–8 | $3,292.50 | 3,438.30 | 3,528.30 | 3,636.30 | 3,753.30 |
+| E–7 | 2,989.50 | 3,084.90 | 3,180.30 | 3,350.40 | 3,435.60 |
+| E–6 | 2,685.00 | 2,770.50 | 2,865.30 | 2,948.70 | 2,978.10 |
+| E–5 | 2,402.10 | 2,496.60 | 2,526.60 | 2,526.60 | 2,526.60 |
+| E–4 | 2,018.40 | 2,018.40 | 2,018.40 | 12,018.40 | 2,018.40 |
+| E–3 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 |
+| E–2 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 |
+| E–1 <sup>2</sup> | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> | $4,364.10 | $4,575.90 | $4,755.00 | $4,943.70 | $5,231.70 |
-| E–8 | 3,845.40 | 3,949.20 | 4,125.90 | 4,224.00 | 4,465.20 |
-| E–7 | 3,410.70 | 3,458.70 | 3,620.40 | 3,725.10 | 3,990.00 |
-| E–6 | 2,908.20 | 2,908.20 | 2,908.20 | 2,908.20 | 2,908.20 |
-| E–5 | 2,450.70 | 2,450.70 | 2,450.70 | 2,450.70 | 2,450.70 |
-| E–4 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 |
-| E–3 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 |
-| E–2 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 |
-| E–1 <sup>2</sup> | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 |
+| E–9 <sup>1</sup> | $4,499.40 | $4,717.80 | $4,902.30 | $5,097.00 | $5,394.00 |
+| E–8 | 3,964.50 | 4,071.60 | 4,253.70 | 4,354.80 | 4,603.50 |
+| E–7 | 3,516.30 | 3,565.80 | 3,732.60 | 3,840.60 | 4,113.60 |
+| E–6 | 2,998.50 | 2,998.50 | 2,998.50 | 2,998.50 | 2,998.50 |
+| E–5 | 2,526.60 | 2,526.60 | 2,526.60 | 2,526.60 | 2,526.60 |
+| E–4 | 2,018.40 | 2,018.40 | 2,018.40 | 2,018.40 | 2,018.40 |
+| E–3 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 | 1,692.00 |
+| E–2 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 | 1,427.40 |
+| E–1 <sup>2</sup> | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 | 1,273.50 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 
-<sup>1</sup> For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, or Sergeant Major of the Marine Corps, basic pay for this grade is $6,304.20 per month, regardless of cumulative years of service under section 205 of title 37, United States Code.
+<sup>1</sup> For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, or Sergeant Major of the Marine Corps, basic pay for this grade is $6,499.50 per month, regardless of cumulative years of service under section 205 of title 37, United States Code.
 
 <sup>2</sup> Applies to personnel who have served 4 months or more on active duty.
 
@@ -1871,11 +1567,11 @@ Enlisted Members
 
 part ii—rate of monthly cadet or midshipman pay
 
-The rate of monthly cadet or midshipman pay authorized by section 203(c) of title 37, United States Code, is $820.20.
+The rate of monthly cadet or midshipman pay authorized by section 203(c) of title 37, United States Code, is $845.70.
 
-Note: As a result of the enactment of sections 602–694 \[604\] of Public Law 105–85 \[see Tables for classification\], the National Defense Authorization Act for Fiscal Year 1998, the Secretary of Defense now has the authority to adjust the rates of basic allowances for subsistence and housing. Therefore, these allowances are no longer adjusted by the President in conjunction with the adjustment of basic pay for members of the uniformed services. Accordingly, the tables of allowances included in previous orders are not included here.
+Note: As a result of the enactment of sections 602–694 \[604\] of Public Law 105–85, the National Defense Authorization Act for Fiscal Year 1998 \[see Tables for classification\], the Secretary of Defense now has the authority to adjust the rates of basic allowances for subsistence and housing. Therefore, these allowances are nolonger adjusted by the President in conjunction with the adjustment of basic pay for members of the uniformed services. Accordingly, the tables of allowances included in previous orders are not included here.
 
-Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 Locality Pay Area <sup>1</sup>
 
@@ -1883,131 +1579,131 @@ Rate
 
 Atlanta-Sandy Springs-Gainesville, GA–AL
 
-13\.87%
+15\.10%
 
 Boston-Worcester-Manchester, MA–NH–ME–RI
 
-18\.49%
+19\.99%
+
+Buffalo-Niagara-Cattaraugus, NY
+
+13\.52%
 
 Chicago-Naperville-Michigan City, IL–IN–WI
 
-19\.70%
+21\.15%
 
 Cincinnati-Middletown-Wilmington, OH–KY–IN
 
-16\.04%
+17\.08%
 
 Cleveland-Akron-Elyria, OH
 
-14\.24%
+15\.41%
 
 Columbus-Marion-Chillicothe, OH
 
-13\.98%
+14\.85%
 
 Dallas-Fort Worth, TX
 
-15\.07%
+16\.39%
 
 Dayton-Springfield-Greenville, OH
 
-12\.86%
+13\.83%
 
 Denver-Aurora-Boulder, CO
 
-18\.06%
+19\.49%
 
 Detroit-Warren-Flint, MI
 
-19\.67%
+21\.00%
 
 Hartford-West Hartford-Willimantic, CT–MA
 
-19\.52%
+21\.30%
 
 Houston-Baytown-Huntsville, TX
 
-24\.77%
+26\.37%
 
 Huntsville-Decatur, AL
 
-12\.42%
+13\.35%
 
 Indianapolis-Anderson-Columbus, IN
 
-12\.01%
-
-Kansas City-Overland Park-Kansas City, MO–KS
-
-12\.36%
+12\.85%
 
 Los Angeles-Long Beach-Riverside, CA
 
-21\.65%
+23\.18%
 
 Miami-Fort Lauderdale-Miami Beach, FL
 
-16\.77%
+17\.84%
 
 Milwaukee-Racine-Waukesha, WI
 
-13\.62%
+14\.74%
 
 Minneapolis-St. Paul-St. Cloud, MN–WI
 
-15\.99%
+17\.31%
 
 New York-Newark-Bridgeport, NY–NJ–CT–PA
 
-20\.99%
-
-Orlando-The Villages, FL
-
-11\.75%
+22\.97%
 
 Philadelphia-Camden-Vineland, PA–NJ–DE–MD
 
-16\.67%
+18\.04%
+
+Phoenix-Mesa-Scottsdale, AZ
+
+12\.65%
 
 Pittsburgh-New Castle, PA
 
-12\.86%
+13\.81%
 
 Portland-Vancouver-Beaverton, OR–WA
 
-15\.93%
+17\.16%
+
+Raleigh-Durham-Cary, NC
+
+15\.57%
 
 Richmond, VA
 
-13\.15%
+14\.15%
 
 Sacramento–Arden-Arcade–Truckee, CA–NV
 
-16\.51%
-
-St. Louis-St. Charles-Farmington, MO–IL
-
-12\.09%
+17\.91%
 
 San Diego-Carlsbad-San Marcos, CA
 
-17\.68%
+19\.19%
 
 San Jose-San Francisco-Oakland, CA
 
-26\.39%
+28\.68%
 
 Seattle-Tacoma-Olympia, WA
 
-16\.53%
+17\.93%
 
 Washington-Baltimore-Northern Virginia, DC–MD–PA–VA–WV
 
-15\.98%
+17\.50%
 
 Rest of U.S.
 
-11\.72%
+12\.52%
 
 <sup>1</sup> Locality Pay Areas are defined in 5 CFR 531.603.
 
@@ -2015,39 +1711,119 @@ Rest of U.S.
 
 ##### Administrative Law Judges
 
-##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2005)
+##### (Effective on the first day of the first applicable pay period beginning on or after January 1, 2006)
 
 AL–3/A
 
-$93,500
+$95,500
 
 AL–3/B
 
-100,600
+102,700
 
 AL–3/C
 
-107,800
+110,100
 
 AL–3/D
 
-115,000
+117,400
 
 AL–3/E
 
-122,200
+124,800
 
 AL–3/F
 
-129,300
+132,000
 
 AL–2
 
-136,600
+139,500
 
 AL–1
 
-140,300
+143,000
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Prior adjustments of certain rates of pay were contained in the following:
+
+Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, effective Jan. 1, 2005, superseded by Ex. Ord. No. 13393.
+
+Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, effective Jan. 1, 2004, superseded by Ex. Ord. No. 13368.
+
+Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, effective Jan. 1, 2004, superseded by Ex. Ord. No. 13332.
+
+Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, Mar. 21, 2003, 68 F.R. 14525, effective Jan. 1, 2003, superseded by Ex. Ord. No. 13322.
+
+Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, effective Jan. 1, 2002, superseded by Ex. Ord. No. 13282, as amended.
+
+Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, effective Jan. 1, 2001, superseded by Ex. Ord. No. 13249.
+
+Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, effective Jan. 1, 2000, superseded by Ex. Ord. No. 13182.
+
+Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, effective Jan. 1, 1999, substantially superseded by Ex. Ord. No. 13144.
+
+Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, effective Jan. 1, 1998, superseded by Ex. Ord. No. 13106.
+
+Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, effective Jan. 1, 1997, superseded by Ex. Ord. No. 13071.
+
+Ex. Ord. No. 12990, Feb. 29, 1996, 61 F.R. 8467, effective Jan. 1, 1996, superseded by Ex. Ord. No. 13033.
+
+Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, as amended by Ex. Ord. No. 12990, §3, Feb. 29, 1996, 61 F.R. 8467, effective Jan. 1, 1996, superseded by Ex. Ord. No. 13033.
+
+Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, effective Jan. 1, 1995, superseded by Ex. Ord. No. 12984, as amended.
+
+Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, effective Jan. 1, 1994, superseded by Ex. Ord. No. 12944.
+
+Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, as amended by Ex. Ord. No. 12886, §3, Dec. 23, 1993, 58 F.R. 68709, effective Jan. 1, 1993, superseded by Ex. Ord. No. 12944.
+
+Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, effective Jan. 1, 1992, superseded by Ex. Ord. No. 12826, as amended.
+
+Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, effective Jan. 1, 1991, superseded by Ex. Ord. No. 12786.
+
+Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, effective Jan. 1 and 31, 1990, superseded by Ex. Ord. No. 12736.
+
+Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, effective Jan. 1, 1989, superseded by Ex. Ord. No. 12698.
+
+Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, effective Jan. 1, 1988, superseded by Ex. Ord. No. 12663.
+
+Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, effective Jan. 1, 1987, superseded by Ex. Ord. No. 12622.
+
+Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, effective Jan. 1, 1985, superseded by Ex. Ord. No. 12578.
+
+Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, effective Jan. 1, 1984, superseded by Ex. Ord. No. 12496, as amended.
+
+Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, effective Oct. 1, 1982, superseded by Ex. Ord. No. 12456, as amended.
+
+Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, effective Oct. 1, 1981, superseded by Ex. Ord. No. 12387.
+
+Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, effective Oct. 1, 1980, superseded by Ex. Ord. No. 12330.
+
+Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 44 F.R. 16443, effective Oct. 1, 1979, superseded by Ex. Ord. No. 12248.
+
+Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, effective Oct. 1, 1978, superseded by Ex. Ord. No. 12165, as amended.
+
+Ex. Ord. No. 12010, Sept. 28, 1977, 42 F.R. 52365, effective Oct. 1, 1977, superseded by Ex. Ord. No. 12087.
+
+Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, effective Oct. 1, 1976, superseded by Ex. Ord. No. 12010.
+
+Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, effective Oct. 1, 1975, superseded by Ex. Ord. No. 11941, as amended.
+
+Ex. Ord. No. 11811, Oct. 7, 1974, 39 F.R. 36302, effective Oct. 1, 1974, superseded by Ex. Ord. No. 11883.
+
+Ex. Ord. No. 11739, Oct. 3, 1973, 38 F.R. 27581, effective Oct. 1, 1973, superseded by Ex. Ord. No. 11811.
+
+Ex. Ord. No. 11691, Dec. 15, 1972, 37 F.R. 27607, as amended by Ex. Ord. No. 11777, Apr. 12, 1974, 39 F.R. 13519, effective Oct. 1, 1972, superseded by Ex. Ord. No. 11811.
+
+Ex. Ord. No. 11637, Dec. 22, 1971, 36 F.R. 24911, effective Jan. 1, 1972, superseded by Ex. Ord. No. 11811.
+
+Ex. Ord. No. 11576, Jan. 8, 1971, 36 F.R. 347, effective Jan. 1, 1971, superseded by Ex. Ord. No. 11811.
+
+Ex. Ord. No. 11524, Apr. 15, 1970, 35 F.R. 6247, effective first pay period on or after Dec. 27, 1969, superseded by Ex. Ord. No. 11811.
+
+Ex. Ord. No. 11474, June 16, 1969, 34 F.R. 9605, effective July 1, 1969, superseded by Ex. Ord. No. 11811.
+
+Ex. Ord. No. 11413, June 11, 1968, 33 F.R. 8641, effective July 1, 1968, superseded by Ex. Ord. No. 11811.
 

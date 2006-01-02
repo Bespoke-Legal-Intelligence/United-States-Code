@@ -10,7 +10,7 @@
 
 &emsp;(4) provide that all employees in the executive branch of Government who require access to particularly sensitive classified information, as determined by the President, shall be required, as a condition of maintaining access to such information, to submit to the employing department or agency, during the period of such access, relevant information concerning their financial condition and foreign travel, as determined by the President, as may be necessary to ensure appropriate security; and
 
-&emsp;(5) establish uniform minimum standards to ensure that employees in the executive branch of Government whose access to classified information is being denied or terminated under this subchapter are appropriately advised of the reasons for such denial or termination and are provided an adequate opportunity to respond to all adverse information which forms the basis for such denial or termination before final action by the department or agency concerned.
+&emsp;(5) establish uniform minimum standards to ensure that employees in the executive branch of Government whose access to classified information is being denied or terminated under this subchapter are appropriately advised of the reasons for such denial or termination andare provided an adequate opportunity to respond to all adverse information which forms the basis for such denial or termination before final action by the department or agency concerned.
 
 (b)(1) Subsection (a) of this section shall not be deemed to limit or affect the responsibility and power of an agency head pursuant to other law or Executive order to deny or terminate access to classified information if the national security so requires. Such responsibility and power may be exercised only when the agency head determines that the procedures prescribed by subsection (a) of this section cannot be invoked in a manner that is consistent with the national security.
 
@@ -232,7 +232,7 @@ Authorities of Director of Central Intelligence.—Nothing in this title shall b
 
 “(d)
 
-Exemptions to Release of Information.—Nothing in this title shall be construed to limit any exemption or exception to the release to the public under this title of information that is protected under subsection\(b) of section 552 of title 5, United States Code (commonly referred to as the ‘Freedom of Information Act’), or section 552a of title 5, United States Code (commonly referred to as the ‘Privacy Act’).
+Exemptions to Release of Information.—Nothing in this title shall be construed to limit any exemption or exception to the release to the public under this title of information that is protected under subsection (b) of section 552 of title 5, United States Code (commonly referred to as the ‘Freedom of Information Act’), or section 552a of title 5, United States Code (commonly referred to as the ‘Privacy Act’).
 
 “(e)
 
@@ -416,7 +416,7 @@ Pub. L. 105–261, div. C, title XXXI, §3161, Oct. 17, 1998, 112 Stat. 2259, as
 
 #### Secrecy Agreements Used in Intelligence Activities
 
-Pub. L. 104–93, title III, §306, Jan. 6, 1996, 109 Stat. 966, provided that: “Notwithstanding any other provision oflaw not specifically referencing this section, a nondisclosure policy form or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such form or agreement shall, at a minimum—
+Pub. L. 104–93, title III, §306, Jan. 6, 1996, 109 Stat. 966, provided that: “Notwithstanding any other provision of law not specifically referencing this section, a nondisclosure policy form or agreement that is to be executed by a person connected with the conduct of an intelligence or intelligence-related activity, other than an employee or officer of the United States Government, may contain provisions appropriate to the particular activity for which such document is to be used. Such form or agreement shall, at a minimum—
 
 &emsp;“(1) require that the person will not disclose any classified information received in the course of such activity unless specifically authorized to do so by the United States Government; and
 
@@ -550,7 +550,7 @@ Postal Services.—The Commission may use the United States mails in the same ma
 
 “(a)
 
-In General.—The Chairman, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+In General.—The Chairman, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of payfixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of title 5, United States Code. Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
 
 “(b)
 
@@ -604,7 +604,7 @@ In General.—(1) Not later than February 1 of each year, the head of each cover
 
 &emsp;&emsp;“(iii) the actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted; and
 
-&emsp;&emsp;“(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which thebudget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+&emsp;&emsp;“(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 
 “(b)
 
@@ -788,7 +788,7 @@ Sec. 4. (a) An applicant shall be afforded an opportunity to cross-examine perso
 
 (1) The head of the department supplying the statement certifies that the person who furnished the information is a confidential informant who has been engaged in obtaining intelligence information for the Government and that disclosure of his identity would be substantially harmful to the national interest.
 
-(2) The head of the department concerned or his special designee for that particular purpose has preliminarily determined, after considering information furnished by the investigative agency involved as to the reliability of the person and the accuracy of the statement concerned, that the statement concerned appears to be reliable and material, and the head of the department or such special designee has determined that failure to receive and consider such statement would, in view of the level of access sought, be substantially harmful to the national security and that the person who furnished the information cannot appear to testify (A) due to death, severe illness, or similar cause, in which case the identity of the person and the information to be considered shall be made available to the applicant, or (B) due to some other cause determined by the head of the department to be good and sufficient.
+(2) The head of the department concerned or his special designee for that particular purpose has preliminarily determined, after considering information furnished by the investigative agency involved as to the reliability of the person and the accuracy of the statement concerned, that the statement concerned appears to be reliable and material, and the head of the department or such special designee has determined that failure to receive and consider such statement would, in view of the level of access sought, be substantially harmful to the national security and that the personwho furnished the information cannot appear to testify (A) due to death, severe illness, or similar cause, in which case the identity of the person and the information to be considered shall be made available to the applicant, or (B) due to some other cause determined by the head of the department to be good and sufficient.
 
 (b) Whenever procedures under paragraphs (1) or (2) of subsection (a) of this section are used (1) the applicant shall be given a summary of the information which shall be as comprehensive and detailed as the national security permits, (2) appropriate consideration shall be accorded to the fact that the applicant did not have an opportunity to cross-examine such person or persons, and (3) a final determination adverse to the applicant shall be made only by the head of the department based upon his personal review of the case.
 
@@ -802,7 +802,7 @@ Sec. 7. Any determination under this order adverse to an applicant shall be a de
 
 Sec. 8. Except as otherwise specified in the preceding provisions of this order, any authority vested in the head of a department by this order may be delegated to the the \[sic\] deputy of that department, or the principal assistant to the head of that department, as the case may be.
 
-Sec. 9. Nothing contained in this order shall be deemed to limit or affect the responsibility and powersof the head of a department to deny or revoke access to a specific classification category if the security of the nation so requires. Such authority may not be delegated and may be exercised only when the head of a department determines that the procedures prescribed in sections 3, 4, and 5 cannot be invoked consistently with the national security and such determination shall be conclusive.
+Sec. 9. Nothing contained in this order shall be deemed to limit or affect the responsibility and powers of the head of a department to deny or revoke access to a specific classification category if the security of the nation so requires. Such authority may not be delegated and may be exercised only when the head of a department determines that the procedures prescribed in sections 3, 4, and 5 cannot be invoked consistently with the national security and such determination shall be conclusive.
 
 #### Modification of Executive Order No. 10865
 
@@ -824,7 +824,7 @@ Ex. Ord. No. 11652, Mar. 8, 1972, 37 F.R. 5209, as amended by Ex. Ord. No. 11714
 
 Ex. Ord. No. 11932, Aug. 4, 1976, 41 F.R. 32691, provided:
 
-The United States has entered into the Agreement on an International Energy Program of November 18, 1974, which created the International Energy Agency. This program is a substantial factor in the conduct of our foreign relations and an important element of our national security. The effectiveness of the Agreement depends significantly upon the provision and exchange of information and material by participants in advisory bodies created by the International Energy Agency. Confidentiality is essential to assure the free and open discussion necessary to accomplish the tasks assigned to those bodies. I have consulted with the Secretary of State, the Attorney General and the Administrator of the Federal Energy Administration concerning the handling and safeguarding of information and material in the possession of the United States which has been obtained pursuant to the program, and I find that some of such information and material requires protection as provided in Executive Order No. 11652 of March 8, 1972, as amended \[formerly set out above\].
+The United States has entered into the Agreement on an International Energy Program of November 18, 1974, which created the International Energy Agency. This program is a substantial factor in the conduct of our foreign relations and an important element of our national security. The effectiveness of the Agreement depends significantly upon the provision and exchange of information and material by participants in advisory bodies created by the International Energy Agency. Confidentiality is essential to assure the free and open discussion necessary to accomplish the tasks assigned to those bodies. I have consulted with the Secretary of State, the Attorney General and the Administrator of the Federal Energy Administration concerning thehandling and safeguarding of information and material in the possession of the United States which has been obtained pursuant to the program, and I find that some of such information and material requires protection as provided in Executive Order No. 11652 of March 8, 1972, as amended \[formerly set out above\].
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and statutes of the United States, and as President of the United States, it is hereby ordered as follows:
 
@@ -886,7 +886,7 @@ Therefore, by the authority vested in me as President by the Constitution and th
 
 #### PART 1. ESTABLISHMENT AND POLICY
 
-Section 101. <i>Establishment</i>. (a) There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees of United States agencies. For the purposes of this order, the terms “contractor, licensee, or grantee” means current, prospective, or former contractors, licensees, or grantees of United States agencies. The National Industrial Security Program shall be applicable to all executive branch departments and agencies.
+Section 101. <i>Establishment</i>. (a) There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or granteesof United States agencies. For the purposes of this order, the terms “contractor, licensee, or grantee” means current, prospective, or former contractors, licensees, or grantees of United States agencies. The National Industrial Security Program shall be applicable to all executive branch departments and agencies.
 
 (b) The National Industrial Security Program shall provide for the protection of information classified pursuant to Executive Order No. 12356 of April 2, 1982 \[formerly set out above\], or its successor, and the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 <i>et seq</i>.\].
 
@@ -932,7 +932,7 @@ Sec. 201. <i>National Industrial Security Program Operating Manual</i>. (a) The 
 
 (b) The Manual shall prescribe specific requirements, restrictions, and other safeguards that are necessary to preclude unauthorized disclosure and control authorized disclosure of classified information to contractors, licensees, or grantees. The Manual shall apply to the release of classified information during all phases of the contracting process including bidding, negotiation, award, performance, and termination of contracts, the licensing process, or the grant process, with or under the control of departments or agencies.
 
-(c) The Manual shall also prescribe requirements, restrictions, and other safeguards that are necessary to protect special classes of classified information, including Restricted Data, Formerly Restricted Data, intelligence sources and methods information, Sensitive Compartmented Information, and Special Access Program information.
+(c) The Manual shall also prescribe requirements, restrictions, and other safeguards that are necessary to protect special classes of classified information, including Restricted Data, Formerly Restricted Data, intelligence sources and methods information, SensitiveCompartmented Information, and Special Access Program information.
 
 (d) In establishing particular requirements, restrictions, and other safeguards within the Manual, the Secretary of Defense, the Secretary of Energy, the Nuclear Regulatory Commission, and the Director of Central Intelligence shall take into account these factors: (i) the damage to the national security that reasonably could be expected to result from an unauthorized disclosure; (ii) the existing or anticipated threat to the disclosure of information; and (iii) the short- and long-term costs of the requirements, restrictions, and other safeguards.
 
@@ -974,7 +974,7 @@ Sec. 203. <i>Implementation</i>. (a) The head of each agency that enters into cl
 
 (5) Section 6 is amended by striking out the words “The Secretary of State, the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the Secretary of Transportation, or his representative, or the head of any other department or agency of the United States with which the Department of Defense makes an agreement under section (1)(b),” at the beginning of the first sentence, and inserting in their place “The head of a department of the United States . . . .”
 
-(6) Section 8 is amended by striking out paragraphs (1) through (7) and inserting in their place “. . . the deputy of that department, or the principal assistant to the head of that department, as the case may be.”
+(6) Section 8 is amended by striking out paragraphs (1) through (7) and inserting in their place “. . . thedeputy of that department, or the principal assistant to the head of that department, as the case may be.”
 
 (h) All delegations, rules, regulations, orders, directives, agreements, contracts, licenses, and grants issued under preexisting authorities, including section 1(a) and (b) of Executive Order No. 10865 of February 20, 1960, as amended, by Executive Order No. 10909 of January 17, 1961, and Executive Order No. 11382 of November 27, 1967, shall remain in full force and effect until amended, modified, or terminated pursuant to authority of this order.
 
@@ -1160,7 +1160,7 @@ Sec. 1.6. <i>Identification and Markings</i>. (a) At the time of original classi
 
 (f) Information assigned a level of classification under this or predecessor orders shall be considered as classified at that level of classification despite the omission of other required markings. Whenever such information is used in the derivative classification process or is reviewed for possible declassification, holders of such information shall coordinate with an appropriate classification authority for the application of omitted markings.
 
-(g) The classification authority shall, whenever practicable, use a classified addendum whenever classifiedinformation constitutes a small portion of an otherwise unclassified document.
+(g) The classification authority shall, whenever practicable, use a classified addendum whenever classified information constitutes a small portion of an otherwise unclassified document.
 
 (h) Prior to public release, all declassified records shall be appropriately marked to reflect their declassification.
 
@@ -1192,7 +1192,7 @@ Sec. 1.7. <i>Classification Prohibitions and Limitations.</i>
 
 Sec. 1.8. <i>Classification Challenges</i>. (a) Authorized holders of information who, in good faith, believe that its classification status is improper are encouraged and expected to challenge the classification status of the information in accordance with agency procedures established under paragraph (b) of this section.
 
-(b) In accordance with implementing directives issued pursuant to this order, an agency head or senior agency official shall establish procedures under which authorized holders of information are encouraged and expected to challenge the classification of information that they believe is improperly classified or unclassified. These procedures shall ensure that:
+(b) In accordance with implementing directives issued pursuant to this order, an agency head or senior agency official shall establish procedures under which authorized holders of information are encouraged and expected to challenge the classification of informationthat they believe is improperly classified or unclassified. These procedures shall ensure that:
 
 (1) individuals are not subject to retribution for bringing such actions;
 
@@ -1298,7 +1298,7 @@ Sec. 3.3. <i>Automatic Declassification</i>. (a) Subject to paragraphs (b)–(e)
 
 (f) Information exempted from automatic declassification under this section shall remain subject to the mandatory and systematic declassification review provisions of this order.
 
-(g) The Secretary of State shall determine when the United States should commence negotiations with theappropriate officials of a foreign government or international organization of governments to modify any treaty or international agreement that requires the classification of information contained in records affected by this section for a period longer than 25 years from the date of its creation, unless the treaty or international agreement pertains to information that may otherwise remain classified beyond 25 years under this section.
+(g) The Secretary of State shall determine when the United States should commence negotiations with the appropriate officials of a foreign government or international organization of governments to modify any treaty or international agreement that requires the classification of information contained in records affected by this section for a period longer than 25 years from the date of its creation, unless the treaty or international agreement pertains to information that may otherwise remain classified beyond 25 years under this section.
 
 (h) Records containing information that originated with other agencies or the disclosure of which would affect the interests or activities of other agencies shall be referred for review to those agencies and the information of concern shall be subject to automatic declassification only by those agencies, consistent with the provisions of subparagraphs (e)(3) and (e)(4) of this section.
 
@@ -1396,7 +1396,7 @@ Sec. 4.3. <i>Special Access Programs</i>. (a) Establishment of special access pr
 
 (c) Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.
 
-Sec. 4.4. <i>Access by Historical Researchers and Certain Former Government Personnel</i>. (a) The requirement in section 4.1(a)(3) of this order that access to classified information may be granted only to individuals whohave a need-to-know the information may be waived for persons who:
+Sec. 4.4. <i>Access by Historical Researchers and Certain Former Government Personnel</i>. (a) The requirement in section 4.1(a)(3) of this order that access to classified information may be granted only to individuals who have a need-to-know the information may be waived for persons who:
 
 (1) are engaged in historical research projects;
 
@@ -1574,7 +1574,7 @@ Sec. 6.1. <i>Definitions</i>. For purposes of this order:
 
 (i) “Confidential source” means any individual or organization that has provided, or that may reasonably be expected to provide, information to the United States on matters pertaining to the national security with the expectation that the information or relationship, or both, are to be held in confidence.
 
-(j) “Damage to the national security” means harm to the national defense or foreign relations of the UnitedStates from the unauthorized disclosure of information, taking into consideration such aspects of the information as the sensitivity, value, utility, and provenance of that information.
+(j) “Damage to the national security” means harm to the national defense or foreign relations of the United States from the unauthorized disclosure of information, taking into consideration such aspects of the information as the sensitivity, value, utility, and provenance of that information.
 
 (k) “Declassification” means the authorized change in the status of information from classified information to unclassified information.
 
@@ -1676,7 +1676,7 @@ Executive Secretary of National Security Council designated to exercise authorit
 
 Order of President of the United States, dated Oct. 13, 1995, 60 F.R. 53845, provided:
 
-Pursuant to the provisions of Section 1.4 of Executive Order No. 12958 of April 17, 1995, entitled “Classified National Security Information,” \[set out above\] I hereby designate the following officials to classify information originally as “Top Secret”, “Secret”, or “Confidential”:
+Pursuant to the provisions of Section 1.4 of Executive Order No. 12958 of April 17, 1995, entitled “Classified National Security Information,” \[set out above\] I hereby designate the following officials to classify informationoriginally as “Top Secret”, “Secret”, or “Confidential”:
 
 #### TOP SECRET
 
@@ -1821,6 +1821,20 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Order of President of the United States, dated Sept. 17, 2003, 68 F.R. 55257, provided:
 
 Consistent with the provisions of section 1.3 of Executive Order 12958 of April 17, 1995, as amended, entitled “Classified National Security Information,” \[set out above\] I hereby designate the Director of the Office of Science and Technology Policy to classify information originally as “Top Secret.”
+
+Any delegation of this authority shall be in accordance with section 1.3(c) of Executive Order 12958, as amended.
+
+This order shall be published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Order of President of the United States, dated Apr. 21, 2005, 70 F.R. 21609, provided:
+
+Consistent with the provisions of section 1.3 of Executive Order 12958 of April 17, 1995, as amended, entitled “Classified National Security Information,” \[set out above\] I hereby designate the following officers to classify information originally as “Top Secret:”
+
+Director of National Intelligence; and
+
+Director of the Central Intelligence Agency.
 
 Any delegation of this authority shall be in accordance with section 1.3(c) of Executive Order 12958, as amended.
 

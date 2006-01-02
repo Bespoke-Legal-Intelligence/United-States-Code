@@ -56,7 +56,7 @@ For purposes of this subchapter, the term “unrealized receivables” includes,
 
 &emsp;(2) services rendered, or to be rendered.
 
-> For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
+> For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and,<sup>1</sup> sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section731, 732, or 741, as the case may be) such property had been sold by the partnership.
 
 #### (d) Inventory items
 
@@ -64,11 +64,9 @@ For purposes of this subchapter, the term “inventory items” means—
 
 &emsp;(1) property of the partnership of the kind described in section 1221(a)(1),
 
-&emsp;(2) any other property of the partnership which, on sale or exchange by the partnership, would be considered property other than a capital asset and other than property described in section 1231,
+&emsp;(2) any other property of the partnership which, on sale or exchange by the partnership, would be considered property other than a capital asset and other than property described in section 1231, and
 
-&emsp;(3) any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and
-
-&emsp;(4) any other property held by the partnership which, if held by the selling or distributee partner, would be considered property of the type described in paragraph (1), (2), or (3).
+&emsp;(3) any other property held by the partnership which, if held by the selling or distributee partner, would be considered property of the type described in paragraph (1) or (2).
 
 #### (e) Limitation on tax attributable to deemed sales of section 1248 stock
 
@@ -84,9 +82,11 @@ In determining whether property of a partnership is—
 
 > such partnership shall be treated as owning its proportionate share of the property of any other partnership in which it is a partner. Under regulations, rules similar to the rules of the preceding sentence shall also apply in the case of interests in trusts.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, §231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, §1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, §205(b), title X, §1042(c)(2), title XI, §1101(d)(2), title XIX, §§1901(a)(93), 1906(b)(13)(A), title XXI, §2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, §701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, §402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, §102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§43(c)(3), 76(a), title IV, §492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, §201(d)(10), title XVIII, §1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, §1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, §6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, §532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, §231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, §1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, §205(b), title X, §1042(c)(2), title XI, §1101(d)(2), title XIX, §§1901(a)(93), 1906(b)(13)(A), title XXI, §2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, §701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, §402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, §102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§43(c)(3), 76(a), title IV, §492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, §201(d)(10), title XVIII, §1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, §1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, §6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, §532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(11), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
+
+2004—Subsec. (d)(2) to (4). Pub. L. 108–357 inserted “and” at end of par. (2), redesignated par. (4) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)”, and struck out former par. (3) which read as follows: “any other property of the partnership which, if sold or exchanged by the partnership, would result in a gain taxable under subsection (a) of section 1246 (relating to gain on foreign investment company stock), and”.
 
 1999—Subsec. (d)(1). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
@@ -132,7 +132,7 @@ Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
 1976—Subsec. (b)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c). Pub. L. 94–455, §§205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 2110(a), in second sentence, inserted reference to stock in a DISC (as described in section 992(a)), reference to stock in certain foreign corporations (as described in section 1248), and reference to farm land (as defined in section 1252(a)), franchises, trademarks or trade names (referred to in section 1253(a)), and an oil or gas property (described in section 1254), substituted “1252(a), 1253(a), or 1254(a)” for “or 1252(a)”, and inserted “1248(a),” after “1245(a),” and “995(c),” after “617(d)(1),”.
+Subsec. (c). Pub. L. 94–455, §§205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 2110(a), in second sentence, inserted reference to stock in a DISC (as described in section 992(a)), reference to stock in certain foreign corporations (as described in section 1248), and reference to farm land (as defined in section 1252(a)), franchises, trademarks or trade names (referred to in section 1253(a)), and an oil or gas property (described in section1254), substituted “1252(a), 1253(a), or 1254(a)” for “or 1252(a)”, and inserted “1248(a),” after “1245(a),” and “995(c),” after “617(d)(1),”.
 
 1969—Subsec. (c). Pub. L. 91–172, in second sentence, substituted “section 1250 property (as defined in section 1250(c)), farm recapture property (as defined in section 1251(e)(1)), and farm land (as defined in section 1252(a))”, and “1250(a), 1251(c), or 1252(a)”, for “and section 1250 property (as defined in section 1250(c))” and “1250(a)”, respectively.
 
@@ -143,6 +143,10 @@ Subsec. (c). Pub. L. 94–455, §§205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 
 1962—Subsec. (c). Pub. L. 87–834, §13(f)(1), defined “unrealized receivables” for purposes of this section and section 731, 736, and 741, as including section 1245 property, but only to the extent of the amount which would be treated as gain to which section 1245(a) would apply if (at the time of the transaction described in this section or section 731, 736, or 741, as the case may be) such property had been sold by the partnership at its fair market value.
 
 Subsec. (d)(2). Pub. L. 87–834, §14(b)(2), added subpar. (C), redesignated former subpar. (C) as (D), and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -178,7 +182,7 @@ Amendment by section 492(b)(4) of Pub. L. 98–369 applicable to taxable years b
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendments
 
@@ -204,7 +208,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect of expenditures paid or incurred after such date see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
+Amendment by Pub. L. 89–570 applicable to taxable years ending after Sept. 12, 1966, but only in respect ofexpenditures paid or incurred after such date see section 3 of Pub. L. 89–570, set out as an Effective Date note under section 617 of this title.
 
 #### Effective Date of 1964 Amendment
 
@@ -214,15 +218,11 @@ Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in
 
 Amendment by section 13(f)(1) of Pub. L. 87–834 applicable to taxable years beginning after Dec. 31, 1962, see section 13(g) of Pub. L. 87–834, set out as an Effective Date note under section 1245 of this title.
 
-Amendment by section 14(b)(2) of Pub. L. 87–834 applicable with respect to taxable years beginning after Dec. 31, 1962, see section 14(c) of Pub. L. 87–834, set out as an Effective Date note under section 1246 of this title.
+Amendment by section 14(b)(2) of Pub. L. 87–834 applicable with respect to taxable years beginning after Dec. 31, 1962, see section 14(c) of Pub. L. 87–834, set out as a note under section 312 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 170, 453, 467, 617, 724, 731, 732, 735, 736, 737, 741, 1245, 1250, 1255, 1257, 6050K of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

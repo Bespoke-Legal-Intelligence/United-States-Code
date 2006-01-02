@@ -16,3 +16,5 @@
 - [&sect; 00329 - Debtor's transactions with attorneys](%C2%A7%2000329%20-%20Debtor%27s%20transactions%20with%20attorneys.md)
 - [&sect; 00330 - Compensation of officers](%C2%A7%2000330%20-%20Compensation%20of%20officers.md)
 - [&sect; 00331 - Interim compensation](%C2%A7%2000331%20-%20Interim%20compensation.md)
+- [&sect; 00332 - Consumer privacy ombudsman](%C2%A7%2000332%20-%20Consumer%20privacy%20ombudsman.md)
+- [&sect; 00333 - Appointment of patient care ombudsman](%C2%A7%2000333%20-%20Appointment%20of%20patient%20care%20ombudsman.md)

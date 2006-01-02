@@ -24,7 +24,7 @@ The following provisions of the Indian Self-Determination and Education Assistan
 
 &emsp;(10) Section 106(k) \[25 U.S.C. 450j–1(k)\] (relating to allowable uses of funds).
 
-&emsp;(11) Section 108(c) \[25 U.S.C. 450<i>l</i>(c)\] (Model Agreements provisions (1)(a)(5) <sup>1</sup> (relating tolimitations of costs), (1)(a)(7) <sup>2</sup> (relating to records and monitoring), (1)(a)(8) <sup>3</sup> (relating to property), and (a)(1)(9) <sup>4</sup> (relating to availability of funds).<sup>5</sup>
+&emsp;(11) Section 108(c) \[25 U.S.C. 450<i>l</i>(c)\] (Model Agreements provisions (1)(a)(5) <sup>1</sup> (relating to limitations of costs), (1)(a)(7) <sup>2</sup> (relating to records and monitoring), (1)(a)(8) <sup>3</sup> (relating to property), and (a)(1)(9) <sup>4</sup> (relating to availability of funds).<sup>5</sup>
 
 &emsp;(12) Section 109 \[25 U.S.C. 450m\] (relating to reassumption).
 

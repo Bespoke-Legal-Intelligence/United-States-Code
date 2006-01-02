@@ -28,6 +28,42 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted “a multiyear”
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted “multiyear” for “five-year”.
 
+#### Separate Program Elements Required for Significant Systems Development and Demonstration Projects for Armored Systems Modernization Program
+
+Pub. L. 109–163, div. A, title II, §214, Jan. 6, 2006, 119 Stat. 3168, provided that:
+
+“(a)
+
+Program Elements Specified.—Effective for the budget of the President submitted to Congress under section 1105(a) of title 31, United States Code, for fiscal year 2008 and each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated program element is assigned to each of the following systems development and demonstration projects of the Armored Systems Modernization program:
+
+&emsp;“(1) Manned Ground Vehicles.
+
+&emsp;“(2) Systems of Systems Engineering and Program Management.
+
+&emsp;“(3) Future Combat Systems Reconnaissance Platforms and Sensors.
+
+&emsp;“(4) Future Combat Systems Unmanned Ground Vehicles.
+
+&emsp;“(5) Unattended Sensors.
+
+&emsp;“(6) Sustainment.
+
+“(b)
+
+Early Commencement of Display in Budget Justification Materials.—As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for the systems development and demonstration projects of the Armored Systems Modernization program identified in subsection (a) as if the projects were already separate program elements.
+
+“(c)
+
+Technology Insertion to Current Force.—
+
+&emsp;“(1)
+
+Report on establishment of additional program element.—Not later than June 1, 2006, the Secretary of the Army shall submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] describing the manner in which the costs of integrating Future Combat Systems capabilities into current force programs could be assigned to a separate, dedicated program element and any management issues that would be raised as a result of establishing such a program element.
+
+&emsp;“(2)
+
+Display in budget justification materials.—As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007 and each fiscal year thereafter, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for technology insertion to the current force under the Armored Systems Modernization program.”
+
 #### Annual Submission of Information Regarding Information Technology Capital Assets
 
 Pub. L. 107–314, div. A, title III, §351, Dec. 2, 2002, 116 Stat. 2516, provided that:
@@ -110,9 +146,13 @@ Pub. L. 107–64, §131, Nov. 5, 2001, 115 Stat. 482.
 
 #### Budget Justification Documents for Costs of Armed Forces’ Participation in Contingency Operations
 
-Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, foreach military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
+Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided that: “The budget of the President for fiscal year 2004 submitted to the Congress pursuant to section 1105 of title 31, United States Code, and each annual budget request thereafter, shall include separate budget justification documents for costs of United States Armed Forces’ participation in contingency operations for the Military Personnel accounts, the Overseas Contingency Operations Transfer Fund, the Operation and Maintenance accounts, and the Procurement accounts: <i>Provided</i>, That these budget justification documents shall include a description of the funding requested for each anticipated contingency operation, for each military service, to include active duty and Guard and Reserve components, and for each appropriation account: <i>Provided further</i>, That these documents shall include estimated costs for each element of expense or object class, a reconciliation of increases and decreases for ongoing contingency operations, and programmatic data including, but not limited to troop strength for each active duty and Guard and Reserve component, and estimates of the major weapons systems deployed in support of each contingency: <i>Provided further</i>, That these documents shall include budget exhibits OP–5 and OP–32, as defined in the Department of Defense Financial Management Regulation, for the Overseas Contingency Operations Transfer Fund for fiscal years 2002 and 2003.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 109–148, div. A, title VIII, §8100, Dec. 30, 2005, 119 Stat. 2721.
+
+Pub. L. 108–287, title VIII, §8116, Aug. 5, 2004, 118 Stat. 998.
 
 Pub. L. 108–87, title VIII, §8115, Sept. 30, 2003, 117 Stat. 1099.
 
@@ -154,9 +194,13 @@ Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which 
 
 #### Budget Submissions on Salaries and Expenses Related to Administrative Activities
 
-Pub. L. 108–87, title VIII, §8036, Sept. 30, 2003, 117 Stat. 1080, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
+Pub. L. 109–148, div. A, title VIII, §8032, Dec. 30, 2005, 119 Stat. 2705, provided that: “The President shall include with each budget for a fiscal year submitted to the Congress under section 1105 of title 31, United States Code, and hereafter, materials that shall identify clearly and separately the amounts requested in the budget for appropriation for that fiscal year for salaries and expenses related to administrative activities of the Department of Defense, the military departments, and the defense agencies.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–287, title VIII, §8036, Aug. 5, 2004, 118 Stat. 978.
+
+Pub. L. 108–87, title VIII, §8036, Sept. 30, 2003, 117 Stat. 1080.
 
 Pub. L. 107–248, title VIII, §8036, Oct. 23, 2002, 116 Stat. 1544.
 
@@ -187,8 +231,4 @@ Section 1402(b) of Pub. L. 101–510 provided for limitations on obligation by S
 #### Mission Oriented Presentation of Department of Defense Matters in Budget
 
 Section 1404 of Pub. L. 101–510 directed President to submit with budget submitted to Congress each year of programs of Department of Defense, a budget that organizes programs within major functional category 050 (National Defense) on basis of major roles and missions of Department of Defense, prior to repeal by Pub. L. 102–484, div. A, title X, §1002(b), Oct. 23, 1992, 106 Stat. 2480. See section 222 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 113, 153, 222, 223a, 224, 231, 2461a, 2501, 2869, 2884, 10543 of this title; title 6 section 454; title 50 section 404b.
 

@@ -16,5 +16,5 @@ For purposes of this section, the term “authorized investigative agency” mea
 
 #### References in Text
 
-The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), is Pub. L. 99–508, Oct. 21, 1986,100 Stat. 1848, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 2510 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Electronic Communications Privacy Act of 1986, referred to in subsec. (b), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 2510 of Title 18, Crimes and Criminal Procedure, and Tables.
 

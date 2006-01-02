@@ -6,7 +6,7 @@
 
 &emsp;(A) such State regulation requires testing or the use of any measure of energy consumption, water use, or energy descriptor in any manner other than that provided under section 6293 of this title; or
 
-&emsp;(B) such State regulation requires disclosure of information with respect to the energy use,energy efficiency, or water use of any covered product other than information required under section 6294 of this title.
+&emsp;(B) such State regulation requires disclosure of information with respect to the energy use, energy efficiency, or water use of any covered product other than information required under section 6294 of this title.
 
 (2) For purposes of this section, the following definitions apply:
 
@@ -48,15 +48,23 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(4) is a regulation concerning the water use of lavatory faucets adopted by the State of New York or the State of Georgia before October 24, 1992;
 
-&emsp;(5) is a regulation concerning the water use of lavatory or kitchen faucets adopted by the State of Rhode Island prior to October 24, 1992; or
+&emsp;(5) is a regulation concerning the water use of lavatory or kitchen faucets adopted by the State of Rhode Island prior to October 24, 1992;
 
-&emsp;(6) is a regulation (or portion thereof) concerning the water efficiency or water use of gravity tank-type low consumption water closets for installation in public places, except that such a regulation shall be effective only until January 1, 1997.
+&emsp;(6) is a regulation (or portion thereof) concerning the water efficiency or water use of gravity tank-type low consumption water closets for installation in public places, except that such a regulation shall be effective only until January 1, 1997; or
+
+&emsp;(7)(A) is a regulation concerning standards for commercial prerinse spray valves adopted by the California Energy Commission before January 1, 2005; or
+
+&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations with changes in American Society for Testing and Materials Standard F2324;
+
+&emsp;(8)(A) is a regulation concerning standards for pedestrian modules adopted by the California Energy Commission before January 1, 2005; or
+
+&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations to changes in the Institute for Transportation Engineers standards, entitled “Performance Specification: Pedestrian Traffic Control Signal Indications”.
 
 #### (d) Waiver of Federal preemption
 
 (1)(A) Any State or river basin commission with a State regulation which provides for any energy conservation standard or other requirement with respect to energy use, energy efficiency, or water use for any type (or class) of covered product for which there is a Federal energy conservation standard under section 6295 of this title may file a petition with the Secretary requesting a rule that such State regulation become effective with respect to such covered product.
 
-(B) Subject to paragraphs (2) through (5), the Secretary shall, within the period described inparagraph (2) and after consideration of the petition and the comments of interested persons, prescribe such rule if the Secretary finds (and publishes such finding) that the State or river basin commission has established by a preponderance of the evidence that such State regulation is needed to meet unusual and compelling State or local energy or water interests.
+(B) Subject to paragraphs (2) through (5), the Secretary shall, within the period described in paragraph (2) and after consideration of the petition and the comments of interested persons, prescribe such rule if the Secretary finds (and publishes such finding) that the State or river basin commission has established by a preponderance of the evidence that such State regulation is needed to meet unusual and compelling State or local energy or water interests.
 
 (C) For purposes of this subsection, the term “unusual and compelling State or local energy or water interests” means interests which—
 
@@ -92,7 +100,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;&emsp;(i) there exists within the State an energy emergency condition or, if the State regulation provides for an energy conservation standard or other requirement with respect to the water use of a covered product for which there is a Federal energy conservation standard under subsection (j) or (k) of section 6295 of this title, a water emergency condition, which—
 
-&emsp;&emsp;&emsp;(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gasor electric energy or, in the case of a water emergency condition, water or wastewater treatment, to its residents at less than prohibitive costs; and
+&emsp;&emsp;&emsp;(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gas or electric energy or, in the case of a water emergency condition, water or wastewater treatment, to its residents at less than prohibitive costs; and
 
 &emsp;&emsp;&emsp;(II) cannot be substantially alleviated by the importation of energy or, in the case of a water emergency condition, by the importation of water, or by the use of interconnection agreements; and
 
@@ -122,7 +130,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 &emsp;(B) The code does not require that the covered product have an energy efficiency exceeding the applicable energy conservation standard established in or prescribed under section 6295 of this title, except that the required efficiency may exceed such standard up to the level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
 
-&emsp;(C) The credit to the energy consumption or conservation objective allowed by the code for installing covered products having energy efficiencies exceeding such energy conservation standard established in or prescribed under section 6295 of this title or the efficiency level required in a State regulation referred to in subparagraph (B) is on a one-for-one equivalent energy use or equivalent cost basis.
+&emsp;(C) The credit to the energy consumption or conservation objective allowed by the code for installing covered products having energy efficiencies exceeding such energy conservation standard established in or prescribed under section 6295 of this title or the efficiency levelrequired in a State regulation referred to in subparagraph (B) is on a one-for-one equivalent energy use or equivalent cost basis.
 
 &emsp;(D) If the code uses one or more baseline building designs against which all submitted building designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under section 6295 of this title, the baseline building designs are based on the efficiency level for such covered product which meets but does not exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d) of this section.
 
@@ -130,7 +138,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 &emsp;(F) The energy consumption or conservation objective is specified in terms of an estimated total consumption of energy (which may be calculated from energy loss- or gain-based codes) utilizing an equivalent amount of energy (which may be specified in units of energy or its equivalent cost).
 
-&emsp;(G) The estimated energy use of any covered product permitted or required in the code, or used in calculating the objective, is determined using the applicable test procedures prescribed under section 6293 of this title, except that the State may permit the estimatedenergy use calculation to be adjusted to reflect the conditions of the areas where the code is being applied if such adjustment is based on the use of the applicable test procedures prescribed under section 6293 of this title or other technically accurate documented procedure.
+&emsp;(G) The estimated energy use of any covered product permitted or required in the code, or used in calculating the objective, is determined using the applicable test procedures prescribed under section 6293 of this title, except that the State may permit the estimated energy use calculation to be adjusted to reflect the conditions of the areas where the code is being applied if such adjustment is based on the use of the applicable test procedures prescribed under section 6293 of this title or other technically accurate documented procedure.
 
 (4)(A) Subject to subparagraph (B), a State or local government is not required to submit a petition to the Secretary in order to enforce or apply its building code or to establish that the code meets the conditions set forth in this subsection.
 
@@ -140,9 +148,11 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 Any disclosure with respect to energy use, energy efficiency, or estimated annual operating cost which is required to be made under the provisions of this part shall not create an express or implied warranty under State or Federal law that such energy efficiency will be achieved or that such energy use or estimated annual operating cost will not be exceeded under conditions of actual use.
 
-(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h), Oct. 24, 1992, 106 Stat. 2829.)
+(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h), Oct. 24, 1992, 106 Stat. 2829; Pub. L. 109–58, title I, §135(d), Aug. 8, 2005, 119 Stat. 634.)
 
 #### Amendments
+
+2005—Subsec. (c)(7), (8). Pub. L. 109–58 added pars. (7) and (8).
 
 1992—Subsec. (a)(1). Pub. L. 102–486, §123(h)(1)(A)–(C), in introductory provisions inserted “or water use” after “energy consumption”, in par. (A) inserted “, water use,” after “energy consumption”, and in par. (B) substituted “, energy efficiency, or water use” for “or energy efficiency”.
 
@@ -184,5 +194,5 @@ Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon “, ex
 
 1978—Subsec. (a)(2). Pub. L. 95–619, §424(b), substituted “other requirement” for “similar requirement”.
 
-Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefromrather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
+Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
 

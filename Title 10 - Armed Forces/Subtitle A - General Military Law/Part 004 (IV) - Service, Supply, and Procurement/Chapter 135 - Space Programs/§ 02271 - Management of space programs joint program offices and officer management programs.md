@@ -20,9 +20,109 @@ Officer Management Programs.—(1) The Secretary of Defense shall take appropria
 
 A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
+#### Space Situational Awareness Strategy and Space Control Mission Review
+
+Pub. L. 109–163, div. A, title IX, §911, Jan. 6, 2006, 119 Stat. 3405, provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) the Department of Defense has the responsibility, within the executive branch, for developing the strategy and the systems of the United States for ensuring freedom to operate United States space assets affecting national security; and
+
+&emsp;“(2) the foundation of any credible strategy for ensuring freedom to operate United States space assets is a comprehensive system for space situational awareness.
+
+“(b)
+
+Space Situational Awareness Strategy.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary of Defense shall develop a strategy, to be known as the ‘Space Situational Awareness Strategy’, for ensuring freedom to operate United States space assets affecting national security. The Secretary shall submit the Space Situational Awareness Strategy to Congress not later than April 15, 2006. The Secretary shall submit to Congress an updated, current version of the strategy not later than April 15 of every odd-numbered year thereafter.
+
+&emsp;“(2)
+
+Time periods.—The Space Situational Awareness Strategy shall cover—
+
+&emsp;&emsp;“(A) the 20-year period from 2006 through 2025; and
+
+&emsp;&emsp;“(B) three separate successive periods, the first beginning with 2006, designed to align with the next three periods for the Future-Years Defense Plan.
+
+&emsp;“(3)
+
+Matters to be included.—The Space Situational Awareness Strategy shall include the following for each period specified in paragraph (2):
+
+&emsp;&emsp;“(A) A threat assessment describing the perceived threats to United States space assets affecting national security.
+
+&emsp;&emsp;“(B) A list of the desired effects and required space situational awareness capabilities required for national security.
+
+&emsp;&emsp;“(C) Details for a coherent and comprehensive strategy for the United States for space situational awareness, together with a description of the systems architecture to implement that strategy in light of the threat assessment and the desired effects and required capabilities identified under subparagraphs (A) and (B).
+
+&emsp;&emsp;“(D) The space situational awareness capabilities roadmap required by subsection (c).
+
+“(c)
+
+Space Situational Awareness Capabilities Roadmap.—The Space Situational Awareness Strategy shall include a roadmap, to be known as the ‘space situational awareness capabilities roadmap’, which shall include the following:
+
+&emsp;“(1) A description of each of the individual program concepts that will make up the systems architecture described pursuant to subsection (b)(3)(C).
+
+&emsp;“(2) For each such program concept, a description of the specific capabilities to be achieved and the threats to be abated.
+
+“(d)
+
+Space Situational Awareness Implementation Plan.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary of the Air Force shall develop a plan, to be known as the ‘space situational awareness implementation plan’, for the development of the systems architecture described pursuant to subsection (b)(3)(C).
+
+&emsp;“(2)
+
+Matters to be included.—The space situational awareness implementation plan shall include a description of the following:
+
+&emsp;&emsp;“(A) The capabilities of all systems deployed as of mid-2005 or planned for modernization or acquisition from 2006 to 2015.
+
+&emsp;&emsp;“(B) Recommended solutions for inadequacies in the architecture to address threats and the desired effects and required capabilities identified under subparagraphs (A) and (B) of subsection (b)(3).
+
+“(e)
+
+Space Control Mission Review and Assessment.—
+
+&emsp;“(1)
+
+Requirement.—The Secretary of Defense shall provide for a review and assessment of the requirements of the Department of Defense for the space control mission. The review and assessment shall be conducted by an entity of the Department of Defense outside of the Department of the Air Force.
+
+&emsp;“(2)
+
+Matters to be included.—The review and assessment under paragraph (1) shall consider the following:
+
+&emsp;&emsp;“(A) Whether current activities of the Department of Defense match current requirements of the Department for the current space control mission.
+
+&emsp;&emsp;“(B) Whether there exists proper allocation of appropriate resources to fulfill the current space control mission.
+
+&emsp;&emsp;“(C) The plans of the Department of Defense for the future space control mission.
+
+&emsp;“(3)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review and assessment under paragraph (1). The report shall include the following:
+
+&emsp;&emsp;“(A) The findings and conclusions of the entity conducting the review and assessment on (A) requirements of the Department of Defense for the space control mission, and (B) the efforts of the Department to meet those requirements.
+
+&emsp;&emsp;“(B) Recommendations regarding the best means by which the Department may meet those requirements.
+
+&emsp;“(4)
+
+Space control mission defined.—In this subsection, the term ‘space control mission’ means the mission of the Department of Defense involving the following:
+
+&emsp;&emsp;“(A) Space situational awareness.
+
+&emsp;&emsp;“(B) Defensive counterspace operations.
+
+&emsp;&emsp;“(C) Offensive counterspace operations.”
+
 #### Space Personnel Career Fields
 
-Pub. L. 108–136, div. A, title V, §547, Nov. 24, 2003, 117 Stat. 1480, provided that:
+Pub. L. 108–136, div. A, title V, §547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 “(a)
 
@@ -44,7 +144,7 @@ Report.—Not later than February 1, 2004, the Secretary shall submit to the Com
 
 “(c)
 
-General Accounting Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
+Government Accountability Office Review and Reports.—(1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
 
 “(2) The Comptroller General shall submit to the committees referred to in subsection (b) two reports on the review under paragraph (1), as follows:
 

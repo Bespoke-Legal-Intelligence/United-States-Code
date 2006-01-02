@@ -1,8 +1,10 @@
 subpart 4—transitional housing assistance grants for child victims of domestic violence, stalking, or sexual assault
 
-<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
+#### Codification
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+This subpart was, in the original, chapter 11 of subtitle B of title IV of Pub. L. 103–322, and has been designated as subpart 4 of this part for purposes of codification. Another chapter 11 of subtitle B of title IV of Pub. L. 103–322 was designated subpart 3a of this part.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

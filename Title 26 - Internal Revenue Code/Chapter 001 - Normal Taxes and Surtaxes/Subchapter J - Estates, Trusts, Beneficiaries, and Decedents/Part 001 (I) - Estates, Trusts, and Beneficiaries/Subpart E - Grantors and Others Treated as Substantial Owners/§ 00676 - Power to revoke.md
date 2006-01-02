@@ -18,7 +18,3 @@ Subsection (a) shall not apply to a power the exercise of which can only affect 
 
 Amendment by Pub. L. 99–514 applicable with respect to transfers in trust made after Mar. 1, 1986, except for transfers pursuant to a certain binding property settlement agreement, see section 1402(c) of Pub. L. 99–514, set out as a note under section 673 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 646, 678, 2035 of this title.
-

@@ -84,7 +84,7 @@ The Secretary shall provide the Commission with such staff and technical assista
 
 #### (i) Plan
 
-Within 3 years after appointment of the full membership of the Commission, the Commissionshall submit to the Secretary and the Governor of Minnesota a comprehensive plan for land and water use measures for the area to be developed and implemented by the responsible Federal agencies, the State of Minnesota, and local political subdivisions. The plan shall endeavor to use existing Federal, State, regional, and local plans and where consistent with the intent and goals of this part shall coordinate those plans to present a unified comprehensive plan for the Area. The plan shall include but not be limited to each of the following:
+Within 3 years after appointment of the full membership of the Commission, the Commission shall submit to the Secretary and the Governor of Minnesota a comprehensive plan for land and water use measures for the area to be developed and implemented by the responsible Federal agencies, the State of Minnesota, and local political subdivisions. The plan shall endeavor to use existing Federal, State, regional, and local plans and where consistent with the intent and goals of this part shall coordinate those plans to present a unified comprehensive plan for the Area. The plan shall include but not be limited to each of the following:
 
 &emsp;(1) A program for management of existing and future land and water use which—
 

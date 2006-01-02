@@ -202,7 +202,7 @@ Responsibility for materials; disclosure.—(A) A false claims law investigator 
 
 &emsp;(3)
 
-Use of material, answers, or transcripts in other proceedings.—Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony received under this section may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case or proceeding as such attorney determines to be required. Upon the completion of any such case or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through introduction into the record of such case or proceeding.
+Use of material, answers, or transcripts in other proceedings.—Whenever any attorney of the Department of Justice hasbeen designated to appear before any court, grand jury, or Federal agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony received under this section may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case or proceeding as such attorney determines to be required. Upon the completion of any such case or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through introduction into the record of such case or proceeding.
 
 &emsp;(4)
 
@@ -282,7 +282,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(3) the term “false claims law investigator” means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
 
-&emsp;(4) the term “person” means any natural person, partnership, corporation, association,or other legal entity, including any State or political subdivision of a State;
+&emsp;(4) the term “person” means any natural person, partnership, corporation, association, or other legal entity, including any State or political subdivision of a State;
 
 &emsp;(5) the term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
 

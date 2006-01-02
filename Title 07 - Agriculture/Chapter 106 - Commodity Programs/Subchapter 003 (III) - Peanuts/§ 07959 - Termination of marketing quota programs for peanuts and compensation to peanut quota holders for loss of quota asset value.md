@@ -34,7 +34,7 @@ The amount of the payment for a fiscal year to an eligible peanut quota holder u
 
 &emsp;(1) $0.11 per pound; by
 
-&emsp;(2) the number of pounds of quota with respect to which the person qualifies as a peanutquota holder under subsection (f) of this section.
+&emsp;(2) the number of pounds of quota with respect to which the person qualifies as a peanut quota holder under subsection (f) of this section.
 
 #### (e) Assignment of payments
 

@@ -12,10 +12,14 @@
 | [108\.](%C2%A7%2000108%20-%20Extension%20of%20time.md) | Extension of time. |
 | [109\.](%C2%A7%2000109%20-%20Who%20may%20be%20a%20debtor.md) | Who may be a debtor. |
 | [110\.](%C2%A7%2000110%20-%20Penalty%20for%20persons%20who%20negligently%20or%20fraudulently%20prepare%20bankruptcy%20petitions.md) | Penalty for persons who negligently or fraudulently prepare bankruptcy petitions. |
+| [111\.](%C2%A7%2000111%20-%20Nonprofit%20budget%20and%20credit%20counseling%20agencies%3B%20financial%20management%20instructional%20courses.md) | Nonprofit budget and credit counseling agencies; financial management instructional courses. |
+| [112\.](%C2%A7%2000112%20-%20Prohibition%20on%20disclosure%20of%20name%20of%20minor%20children.md) | Prohibition on disclosure of name of minor children. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–8, title I, §106(e)(2), title II, §233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.
 
 1994—Pub. L. 103–394, title III, §308(b), Oct. 22, 1994, 108 Stat. 4137, added item 110.
 
@@ -36,3 +40,5 @@
 - [&sect; 00108 - Extension of time](%C2%A7%2000108%20-%20Extension%20of%20time.md)
 - [&sect; 00109 - Who may be a debtor](%C2%A7%2000109%20-%20Who%20may%20be%20a%20debtor.md)
 - [&sect; 00110 - Penalty for persons who negligently or fraudulently prepare bankruptcy petitions](%C2%A7%2000110%20-%20Penalty%20for%20persons%20who%20negligently%20or%20fraudulently%20prepare%20bankruptcy%20petitions.md)
+- [&sect; 00111 - Nonprofit budget and credit counseling agencies; financial management instructional courses](%C2%A7%2000111%20-%20Nonprofit%20budget%20and%20credit%20counseling%20agencies%3B%20financial%20management%20instructional%20courses.md)
+- [&sect; 00112 - Prohibition on disclosure of name of minor children](%C2%A7%2000112%20-%20Prohibition%20on%20disclosure%20of%20name%20of%20minor%20children.md)

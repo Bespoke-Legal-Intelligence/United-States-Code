@@ -16,7 +16,7 @@ In this subpart:
 
 &emsp;&emsp;(A) lives with the child;
 
-&emsp;&emsp;(B) is the primary caregiver of the child because the biological or adoptive parents are unable or unwilling to serve as the primary caregiver of the child; and
+&emsp;&emsp;(B) is the primary caregiver of the child because the biological or adoptive parentsare unable or unwilling to serve as the primary caregiver of the child; and
 
 &emsp;&emsp;(C) has a legal relationship to the child, as such legal custody or guardianship, or is raising the child informally.
 

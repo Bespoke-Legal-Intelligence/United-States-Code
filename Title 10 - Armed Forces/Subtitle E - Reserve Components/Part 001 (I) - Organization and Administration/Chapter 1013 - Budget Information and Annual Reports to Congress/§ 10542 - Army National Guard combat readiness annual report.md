@@ -46,7 +46,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(13) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, who underwent a dental screening during the previous fiscal year as provided in section 1117 of ANGCRRA.
 
-&emsp;(14) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, overthe age of 40 who underwent a full physical examination during the previous fiscal year for purposes of section 1117 of ANGCRRA.
+&emsp;(14) The number of members, and the percentage of the total membership, of the Army National Guard, shown for each State, over the age of 40 who underwent a full physical examination during the previous fiscal year for purposes of section 1117 of ANGCRRA.
 
 &emsp;(15) The number of units of the Army National Guard that are scheduled for early deployment in the event of a mobilization and, of those units, the number that are dentally ready for deployment in accordance with section 1118 of ANGCRRA.
 
@@ -60,7 +60,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) based on the information shown in the tables, the Secretary's overall assessment of the deployability of units of the Army National Guard, including a discussion of personnel deficiencies and equipment shortfalls in accordance with such section 1121.
 
-&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the Regular Army under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
+&emsp;(19) Summary tables, shown for each State, of the results of inspections of units of the Army National Guard by inspectors general or other commissioned officers of the RegularArmy under the provisions of section 105 of title 32, together with explanations of the information shown in the tables, and including display of—
 
 &emsp;&emsp;(A) the number of such inspections;
 

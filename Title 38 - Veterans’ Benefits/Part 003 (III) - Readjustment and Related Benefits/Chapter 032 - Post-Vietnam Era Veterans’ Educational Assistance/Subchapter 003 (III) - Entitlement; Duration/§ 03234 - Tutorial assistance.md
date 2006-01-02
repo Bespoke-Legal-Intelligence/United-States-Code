@@ -10,7 +10,7 @@
 
 &emsp;(1) in the case of the first $600 of such benefits paid to an individual, from funds appropriated, or otherwise available, to the Department of Veterans Affairs for the payment of readjustment benefits; and
 
-&emsp;(2) in the case of payments to an individual for such benefits in excess of $600, from the fund from contributions made to the fund by the veteran and by the Secretary of Defense inthe same proportion as these contributions are used to pay other educational assistance to the individual under this chapter.
+&emsp;(2) in the case of payments to an individual for such benefits in excess of $600, from thefund from contributions made to the fund by the veteran and by the Secretary of Defense in the same proportion as these contributions are used to pay other educational assistance to the individual under this chapter.
 
 (Added Pub. L. 100–689, title I, §107(b)(1), Nov. 18, 1988, 102 Stat. 4168, §1634; amended Pub. L. 101–237, title IV, §423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered §3234 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

@@ -44,7 +44,7 @@ In assisting the President, the organization shall—
 
 #### (c) Use of resources of agencies; procedures and committees
 
-The organization shall, to the maximum extent practicable, draw upon the resources of the agencies represented in the organization, as well as such other agencies as it may determine, including the United States International Trade Commission. In addition, the President may establish by regulation such procedures and committees as he may determine to be necessary to enable the organization to provide for the conduct of hearings pursuant to section 2412(b)(2) of this title, and for the carrying out of other functions assigned to the organization pursuant to this section.
+The organization shall, to the maximum extent practicable, draw upon the resources of the agencies represented in the organization, as wellas such other agencies as it may determine, including the United States International Trade Commission. In addition, the President may establish by regulation such procedures and committees as he may determine to be necessary to enable the organization to provide for the conduct of hearings pursuant to section 2412(b)(2) of this title, and for the carrying out of other functions assigned to the organization pursuant to this section.
 
 (Pub. L. 87–794, title II, §242, Oct. 11, 1962, 76 Stat. 878; Pub. L. 93–618, title I, §171(b), title VI, §602(b), Jan. 3, 1975, 88 Stat. 2009, 2072; Pub. L. 96–39, title IX, §902(c), July 26, 1979, 93 Stat. 300; Pub. L. 100–418, title I, §1621(a), Aug. 23, 1988, 102 Stat. 1263.)
 
@@ -88,7 +88,7 @@ Section 1621(b) of Pub. L. 100–418 provided that: “It is the sense of Congre
 
 #### Transfer of Functions From East-West Foreign Trade Board
 
-East-West Foreign Trade Board, which was established by Pub. L. 93–618, title IV, §411, Jan. 3, 1975, 88Stat. 2065, and classified to section 2441 of this title, abolished by Reorg. Plan No. 3 of 1979, §6, 44 Stat. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, and functions of Board under subsecs. (a) and (b) of section 411 of Pub. L. 93–618 transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See section 2441 of this title.
+East-West Foreign Trade Board, which was established by Pub. L. 93–618, title IV, §411, Jan. 3, 1975, 88 Stat. 2065, and classified to section 2441 of this title, abolished by Reorg. Plan No. 3 of 1979, §6, 44 Stat. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, and functions of Board under subsecs. (a) and (b) of section 411 of Pub. L. 93–618 transferred to interagency organization established under this section by section 5(e) of Reorg. Plan No. 3 of 1979. See section 2441 of this title.
 
 #### Trade Policy Committee
 

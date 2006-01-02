@@ -10,7 +10,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(ii) Repayments of principal.
 
-&emsp;&emsp;(iii) Payments of interest and other payments by or to the Government over the lifeof the loan after adjusting for estimated defaults, prepayments, fees, penalties, and other recoveries.
+&emsp;&emsp;(iii) Payments of interest and other payments by or to the Government over the life of the loan after adjusting for estimated defaults, prepayments, fees, penalties, and other recoveries.
 
 > &emsp;Calculation of the cost of a direct loan shall include the effects of changes in loan terms resulting from the exercise by the borrower of an option included in the loan contract.
 

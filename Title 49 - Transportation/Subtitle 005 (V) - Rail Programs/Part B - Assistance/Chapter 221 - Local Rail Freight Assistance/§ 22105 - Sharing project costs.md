@@ -16,7 +16,7 @@ General.—(1) The United States Government's share of the costs of financial as
 
 (b)
 
-Agreements To Combine Amounts.—States may agree to combine any part of the amountsmade available under this chapter to carry out a project that is eligible for assistance under this chapter when—
+Agreements To Combine Amounts.—States may agree to combine any part of the amounts made available under this chapter to carry out a project that is eligible for assistance under this chapter when—
 
 &emsp;(1) the project will benefit each State making the agreement; and
 

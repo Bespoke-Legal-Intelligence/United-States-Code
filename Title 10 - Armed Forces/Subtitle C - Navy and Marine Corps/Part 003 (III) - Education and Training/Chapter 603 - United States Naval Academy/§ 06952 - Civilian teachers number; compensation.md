@@ -42,7 +42,3 @@ In subsection (c) the words “except the authority to prescribe regulations” 
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5102.
-

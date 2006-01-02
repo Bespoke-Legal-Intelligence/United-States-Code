@@ -44,7 +44,3 @@ Any internal revenue officer or employee interested, directly or indirectly, in 
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as Effective Date note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6531 of this title.
-

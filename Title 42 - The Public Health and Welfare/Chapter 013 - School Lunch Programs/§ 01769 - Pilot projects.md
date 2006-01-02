@@ -6,7 +6,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (b) Extension of eligibility of certain school districts to receive cash or commodity letters of credit assistance for school lunch programs
 
-(1) Upon request to the Secretary, any school district that on January 1, 1987, was receiving all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program beginning July 1, 1987. The Secretary, directly or through contract, shall administer the project under this subsection.
+(1) Upon request to the Secretary, any school district that on January 1, 1987, was receivingall cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program beginning July 1, 1987. The Secretary, directly or through contract, shall administer the project under this subsection.
 
 (2) Any school district that elects under paragraph (1) to receive all cash payments or all commodity letters of credit in lieu of entitlement commodities for its school lunch program shall receive bonus commodities in the same manner as if such school district was receiving all entitlement commodities for its school lunch program.
 
@@ -80,7 +80,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (7)(A) Each pilot project established under this subsection shall terminate on the last day of the third year after the establishment of the pilot project.
 
-(B) The Secretary shall advise representatives of each district participating in a pilot project that the district may continue to offer the fortified forms of milk described in paragraph (3) after the project terminates.
+(B) The Secretary shall advise representatives of each district participating in a pilot projectthat the district may continue to offer the fortified forms of milk described in paragraph (3) after the project terminates.
 
 #### (e) Breakfast pilot projects
 
@@ -190,7 +190,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;(A) a State participating in the program under this subsection as of May 1, 2004; and
 
-&emsp;&emsp;(B) a State in which (based on data available in April 2004)—
+&emsp;&emsp;(B) a State in which (based on data available in June 2005)—
 
 &emsp;&emsp;&emsp;(i) the percentage obtained by dividing—
 
@@ -202,7 +202,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;&emsp;&emsp;(II) the average daily number of children receiving free or reduced price meals under the school lunch program in the State in March 2003; is less than
 
-&emsp;&emsp;&emsp;(ii) 66.67 percent of the percentage obtained by dividing—
+&emsp;&emsp;&emsp;(ii) 75 percent of the percentage obtained by dividing—
 
 &emsp;&emsp;&emsp;&emsp;(I) the sum of—
 
@@ -214,7 +214,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (2) Programs
 
-&emsp;The Secretary shall carry out a summer food program in each eligible State to increase thenumber of children participating in the summer food service program in the State.
+&emsp;The Secretary shall carry out a summer food program in each eligible State to increase the number of children participating in the summer food service program in the State.
 
 #### (3) Support levels for service institutions
 
@@ -468,7 +468,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;&emsp;&emsp;The evaluation shall assess the impact of this subsection separately on—
 
-&emsp;&emsp;&emsp;&emsp;(I) children in households with incomes less than 130 percent of the applicable family income levels contained in the nonfarm poverty income guidelines prescribed by the Office of Management andBudget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) children in households with incomes less than 130 percent of the applicable family income levels contained in the nonfarm poverty income guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(II) children in households with incomes greater than 130 percent and not greater than 185 percent of the applicable family income levels contained in the nonfarm poverty income guidelines prescribed by the Office of Management and Budget, as adjusted annually in accordance with section 1758(b)(1)(B) of this title.
 
@@ -498,7 +498,7 @@ Centers for Disease Control and Prevention” in title II of the Departments of 
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection, to remain available until expended.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, titleIII, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161.)
 
 #### References in Text
 
@@ -521,6 +521,10 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 18 of act June 4, 1946, which was classified to section 1767 of this title, was repealed.
 
 #### Amendments
+
+2005—Subsec. (f)(1)(B). Pub. L. 109–97, §777(a)(1), substituted “June 2005” for “April 2004” in introductory provisions.
+
+Subsec. (f)(1)(B)(ii). Pub. L. 109–97, §777(a)(2), substituted “75” for “66.67” in introductory provisions.
 
 2004—Subsec. (f). Pub. L. 108–265, §116(f)(5)(A), substituted “Simplified summer food programs” for “Summer food pilot projects” in heading.
 
@@ -630,9 +634,13 @@ Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–97, title VII, §777(b), Nov. 10, 2005, 119 Stat. 2161, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on January 1, 2006.”
+
 #### Effective Date of 2004 Amendment
 
-Amendment by section 116(f)(1), (3) of Pub. L. 108–265 effective Jan. 1, 2005, and amendment by sections 116(f)(2), (4), (5) and 120 to 124 of Pub. L. 108–265 effectiveJune 30, 2004, see section 502(a), (b)(3) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
+Amendment by section 116(f)(1), (3) of Pub. L. 108–265 effective Jan. 1, 2005, and amendment by sections 116(f)(2), (4), (5) and 120 to 124 of Pub. L. 108–265 effective June 30, 2004, see section 502(a), (b)(3) of Pub. L. 108–265, as amended, set out as an Effective Date note under section 1754 of this title.
 
 #### Effective Date of 2002 Amendment
 

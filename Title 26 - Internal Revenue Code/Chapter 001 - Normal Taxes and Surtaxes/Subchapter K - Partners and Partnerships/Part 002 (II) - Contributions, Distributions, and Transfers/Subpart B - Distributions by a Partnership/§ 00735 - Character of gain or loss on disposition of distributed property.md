@@ -24,7 +24,7 @@ In determining the period for which a partner has held property received in a di
 
 #### (A) In general
 
-&emsp;&emsp;If any property described in subsection (a) is disposed of in a nonrecognition transaction, the tax treatment which applies to such property under such subsection shallalso apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of nonrecognition transactions.
+&emsp;&emsp;If any property described in subsection (a) is disposed of in a nonrecognition transaction, the tax treatment which applies to such property under such subsection shall also apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of nonrecognition transactions.
 
 #### (B) Exception for stock in C corporation
 
@@ -51,8 +51,4 @@ Section 74(d)(2) of Pub. L. 98–369 provided that: “The amendment made by sub
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1223 of this title.
 

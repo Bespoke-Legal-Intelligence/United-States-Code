@@ -36,7 +36,7 @@ Public-Private Partnerships.—(1) To achieve one or more objectives set forth i
 
 (c)
 
-Private Sector Use of Excess Capacity.—Any facilities or equipment of a Center of Industrial and Technical Excellence made available to private industry may be used to perform maintenance or to produce goods in order tomake more efficient and economical use of Government-owned industrial plants and encourage the creation and preservation of jobs to ensure the availability of a workforce with the necessary manufacturing and maintenance skills to meet the needs of the armed forces.
+Private Sector Use of Excess Capacity.—Any facilities or equipment of a Center of Industrial and Technical Excellence made available to private industry may be used to perform maintenance or to produce goods in order to make more efficient and economical use of Government-owned industrial plants and encourage the creation and preservation of jobs to ensure the availability of a workforce with the necessary manufacturing and maintenance skills to meet the needs of the armed forces.
 
 (d)
 
@@ -60,21 +60,21 @@ Availability of Excess Equipment to Private-Sector Partners.—Equipment or faci
 
 (f)
 
-Exclusion of Certain Expenditures From Percentage Limitation.—(1) Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2006 shall not be counted for purposes of applying the percentage limitation in section 2466(a) of this title if the personnel are provided by private industry or other entities outside the Department of Defense pursuant to a public-private partnership.
+Exclusion of Certain Expenditures From Percentage Limitation.—(1) Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2009 shall not be counted for purposes of applying the percentage limitation in section 2466(a) of this title if the personnel are provided by private industry or other entities outside the Department of Defense pursuant to a public-private partnership.
 
-(2) All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of section 2466(e) <sup>1</sup> of this title.
+(2) All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of section 2466(d) of this title.
 
 (g)
 
 Construction of Provision.—Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
 
-(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514.)
-
-#### References in Text
-
-Section 2466(e) of this title, referred to in subsec. (f)(2), was redesignated section 2466(d) of this title by Pub. L. 108–136, div. A, title III, §332(2), Nov. 24, 2003, 117 Stat. 1442.
+(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061; Pub. L. 107–314, div. A, title III, §334, Dec. 2, 2002, 116 Stat. 2514; Pub. L. 108–375, div. A, title III, §323, title X, §1084(d)(20), Oct. 28, 2004, 118 Stat. 1846, 2062.)
 
 #### Amendments
+
+2004—Subsec. (f)(1). Pub. L. 108–375, §323, substituted “through 2009” for “through 2006”.
+
+Subsec. (f)(2). Pub. L. 108–375, §1084(d)(20), substituted “section 2466(d)” for “section 2466(e)”.
 
 2002—Subsec. (f)(1). Pub. L. 107–314, §334(1), substituted “Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract entered into during fiscal years 2003 through 2006” for “Amounts expended out of funds described in paragraph (2) for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence”.
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(b)\], amended
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(3)\], added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(d)\], inserted at end “Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use ofproperty accountable under a contract performed pursuant to this section. Notwithstanding section 2667(d) of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.”
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(d)\], inserted at end “Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(d) of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(1), (2)\], redesignated subsec. (c) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The policy required under subsection (a) shall include measures to enable a private sector entity that enters into a partnership arrangement under subsection (b) or leases excess equipment and facilities at a Center of Industrial and Technical Excellence pursuant to section 2471 of this title to perform additional work at the Center, subject to the limitations outlined in subsection (b) of such section, outside of the types of work normally assigned to the Center.”
 
@@ -109,10 +109,4 @@ Section 361(c) of Pub. L. 105–85 provided that: “Not later than March 1, 199
 &emsp;“(2) the details of any leases entered into as of that date under section 2471 of such title with authorized entities for dual-use (military and nonmilitary) purposes; and
 
 &emsp;“(3) the effect that the partnerships and leases had on capacity utilization, depot rate structures, and readiness.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2208, 2461, 2469 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

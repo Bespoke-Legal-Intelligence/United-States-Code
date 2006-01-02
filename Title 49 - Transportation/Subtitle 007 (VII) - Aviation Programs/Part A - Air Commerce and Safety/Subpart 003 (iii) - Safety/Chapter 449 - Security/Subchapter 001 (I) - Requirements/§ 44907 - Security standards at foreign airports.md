@@ -16,7 +16,7 @@ Assessment.—(1) At intervals the Secretary of Transportation considers necessa
 
 (2) The Secretary of Transportation shall conduct an assessment under paragraph (1) of this subsection—
 
-&emsp;(A) in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrierserving the foreign airport for which the Secretary is conducting the assessment;
+&emsp;(A) in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrier serving the foreign airport for which the Secretary is conducting the assessment;
 
 &emsp;(B) to establish the extent to which a foreign airport effectively maintains and carries out security measures; and
 
@@ -50,7 +50,7 @@ Actions When Airports Not Maintaining and Carrying Out Effective Security Measur
 
 &emsp;(B) each air carrier and foreign air carrier providing transportation between the United States and the airport shall provide written notice of the decision, on or with the ticket, to each passenger buying a ticket for transportation between the United States and the airport;
 
-&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concerned and each air carrier serving the airport and with the approval of the Secretary of State, may withhold, revoke, or prescribe conditions on the operating authority of an air carrier or foreign air carrier that uses that airport to provide foreign air transportation; and
+&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concerned and each air carrier serving the airport and with the approval of the Secretary of State, may withhold, revoke, or prescribe conditions on the operating authority of an air carrier orforeign air carrier that uses that airport to provide foreign air transportation; and
 
 &emsp;(D) the President may prohibit an air carrier or foreign air carrier from providing transportation between the United States and any other foreign airport that is served by aircraft flying to or from the airport with respect to which a decision is made under this section.
 

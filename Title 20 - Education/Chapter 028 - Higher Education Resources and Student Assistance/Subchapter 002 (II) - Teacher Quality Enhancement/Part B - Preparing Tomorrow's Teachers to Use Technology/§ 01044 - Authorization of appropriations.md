@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 #### Prior Provisions
 
-A prior section 1044, Pub. L. 89–329, title II, §234, as added Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat.2090, related to regional balance in allocation of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
+A prior section 1044, Pub. L. 89–329, title II, §234, as added Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090, related to regional balance in allocation of funds, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 224 of Pub. L. 89–329 was classified to section 1034 of this title, prior to repeal by Pub. L. 104–208.
 

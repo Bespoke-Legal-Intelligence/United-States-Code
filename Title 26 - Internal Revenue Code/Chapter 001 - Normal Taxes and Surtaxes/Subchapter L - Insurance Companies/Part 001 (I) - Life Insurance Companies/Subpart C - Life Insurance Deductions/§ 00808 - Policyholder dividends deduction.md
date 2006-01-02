@@ -8,7 +8,7 @@ For purposes of this part, the term “policyholder dividend” means any divide
 
 For purposes of this part, the term “policyholder dividend” includes—
 
-&emsp;(1) any amount paid or credited (including as an increase in benefits) where the amount is not fixed in the contract but depends on the experience of the company or the discretion of the management,
+&emsp;(1) any amount paid or credited (including as an increase in benefits) where the amount isnot fixed in the contract but depends on the experience of the company or the discretion of the management,
 
 &emsp;(2) excess interest,
 
@@ -18,13 +18,7 @@ For purposes of this part, the term “policyholder dividend” includes—
 
 #### (c) Amount of deduction
 
-#### (1) In general
-
-&emsp;Except as limited by paragraph (2), the deduction for policyholder dividends for any taxable year shall be an amount equal to the policyholder dividends paid or accrued during the taxable year.
-
-#### (2) Reduction in case of mutual companies
-
-&emsp;In the case of a mutual life insurance company, the deduction for policyholder dividends for any taxable year shall be reduced by the amount determined under section 809.
+The deduction for policyholder dividends for any taxable year shall be an amount equal to the policyholder dividends paid or accrued during the taxable year.
 
 #### (d) Definitions
 
@@ -72,7 +66,7 @@ For purposes of this part, any policyholder dividend which—
 
 #### (4) 1984 fresh-start adjustment for policyholder dividends
 
-&emsp;For purposes of this subsection, the term “1984 fresh-start adjustment for policyholder dividends” means the amounts held as of December 31, 1983, by the taxpayer as reserves for dividends to policyholders under section 811(b) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) other than for dividends which accrued before January 1, 1984. Such amounts shall be properly reduced to reflect the amount of previously nondeductible policyholder dividends\(as determined under section 809(f) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984).
+&emsp;For purposes of this subsection, the term “1984 fresh-start adjustment for policyholder dividends” means the amounts held as of December 31, 1983, by the taxpayer as reserves for dividends to policyholders under section 811(b) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) other than for dividends which accrued before January 1, 1984. Such amounts shall be properly reduced to reflect the amount of previously nondeductible policyholder dividends (as determined under section 809(f) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984).
 
 #### (5) Separate application with respect to lines of business
 
@@ -96,7 +90,7 @@ For purposes of this part, any policyholder dividend which—
 
 &emsp;This subsection shall not apply to any policyholder dividend paid or accrued with respect to a group policy issued in connection with a plan to provide welfare benefits to employees (within the meaning of section 419(e)(2)).
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 732; amended Pub. L. 99–514, title XVIII, §1821(b), (c), Oct. 22, 1986, 100 Stat. 2838.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 732; amended Pub. L. 99–514, title XVIII, §1821(b), (c), Oct. 22, 1986, 100 Stat. 2838; Pub. L. 108–218, title II, §205(b)(3), Apr. 10, 2004, 118 Stat. 610.)
 
 #### References in Text
 
@@ -104,9 +98,23 @@ The date of enactment of the Tax Reform Act of 1984, referred to in subsec. (f)(
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–218 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—Except as limited by paragraph (2), the deduction for policyholder dividends for any taxable year shall be an amount equal to the policyholder dividends paid or accrued during the taxable year.
+
+“(2)
+
+Reduction in case of mutual companies.—In the case of a mutual life insurance company, the deduction for policyholder dividends for any taxable year shall be reduced by the amount determined under section 809.”
+
 1986—Subsec. (d)(1)(B). Pub. L. 99–514, §1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “determined at a rate in excess of the prevailing State assumed interest rate for such contract.”
 
 Subsec. (f). Pub. L. 99–514, §1821(c), added subsec. (f).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2004, see section 205(c) of Pub. L. 108–218, set out as a note under section 807 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -119,8 +127,4 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 805, 809, 812, 818, 848, 7702B of this title.
 

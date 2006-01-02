@@ -142,7 +142,7 @@ Pub. L. 105–206, title VII, §7002, July 22, 1998, 112 Stat. 827, provided tha
 
 “(a)
 
-In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as held by such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
+In General.—Notwithstanding paragraph (3) of section 136(c) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to stapled stock; stapled entities), the REIT gross income provisions shall be applied by treating the activities and gross income of members of the stapled REIT group properly allocable to any nonqualified real property interest held by the exempt REIT or any stapled entity which is a member of such group (or treated under subsection (c) as heldby such REIT or stapled entity) as the activities and gross income of the exempt REIT in the same manner as if the exempt REIT and such group were one entity.
 
 “(b)
 
@@ -268,7 +268,7 @@ In general.—If, as of March 26, 1998—
 
 &emsp;&emsp;“(B)
 
-Limitation to one partnership.—If, as of January 1, 1999, more than one partnership owned by any exempt REIT or stapled entity meets the requirements of subparagraph (A), only the largest such partnership on such date (determined by aggregate asset bases) shall be treated as meeting such requirements.
+Limitation to one partnership.—If, as of January 1, 1999, more than one partnership ownedby any exempt REIT or stapled entity meets the requirements of subparagraph (A), only the largest such partnership on such date (determined by aggregate asset bases) shall be treated as meeting such requirements.
 
 &emsp;&emsp;“(C)
 

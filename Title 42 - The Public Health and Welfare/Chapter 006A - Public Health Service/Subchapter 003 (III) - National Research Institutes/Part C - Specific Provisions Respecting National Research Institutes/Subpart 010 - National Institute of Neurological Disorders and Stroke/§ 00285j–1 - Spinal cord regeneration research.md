@@ -10,7 +10,7 @@ Section 7 of Pub. L. 99–158 provided that:
 
 “(a)
 
-Establishment.—Within 90 days after the date of enactment of this Act \[Nov. 20, 1985\], the Secretary ofHealth and Human Services shall establish in the National Institute of Neurological and Communicative Diseases and Stroke an Interagency Committee on Spinal Cord Injury (hereafter in this section referred to as the ‘Interagency Committee’). The Interagency Committee shall plan, develop, coordinate, and implement comprehensive Federal initiatives in research on spinal cord injury and regeneration.
+Establishment.—Within 90 days after the date of enactment of this Act \[Nov. 20, 1985\], the Secretary of Health and Human Services shall establish in the National Institute of Neurological and Communicative Diseases and Stroke an Interagency Committee on Spinal Cord Injury (hereafter in this section referred to as the ‘Interagency Committee’). The Interagency Committee shall plan, develop, coordinate, and implement comprehensive Federal initiatives in research on spinal cord injury and regeneration.
 
 “(b)
 
@@ -34,7 +34,7 @@ Committee Composition and Meetings.—(1) The Interagency Committee shall consis
 
 “(c)
 
-Report.—Within the 18 months after the date of enactment of this Act \[Nov. 20, 1985\], the Interagency Committee shall prepare and transmit to the Congress a report concerning its activities under this section. The report shall include a description of research projects on spinal cord injury and regeneration conducted or supported by Federal agencies during such 18-month period, the nature and purpose of each such project, the amounts expended for each such project, and an identification of the entity which conducted the research under each such project.
+Report.—Within the 18 months after the date of enactment of this Act \[Nov. 20, 1985\], the InteragencyCommittee shall prepare and transmit to the Congress a report concerning its activities under this section. The report shall include a description of research projects on spinal cord injury and regeneration conducted or supported by Federal agencies during such 18-month period, the nature and purpose of each such project, the amounts expended for each such project, and an identification of the entity which conducted the research under each such project.
 
 “(d)
 

@@ -32,7 +32,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 &emsp;&emsp;&emsp;(ii) conduct such studies as Congress requires under applicable laws; and
 
-&emsp;&emsp;&emsp;(iii) report the results of the studies to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;&emsp;&emsp;(iii) report the results of the studies to the Committee on Environment and PublicWorks of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 #### (B) Recommendations for shore protection projects
 

@@ -10,7 +10,7 @@ In the case of a corporation, there is hereby imposed (in addition to any other 
 
 #### (b) Modified alternative minimum taxable income
 
-For purposes of this section, the term “modified alternative minimum taxable income”means alternative minimum taxable income (as defined in section 55(b)(2)) but determined without regard to—
+For purposes of this section, the term “modified alternative minimum taxable income” means alternative minimum taxable income (as defined in section 55(b)(2)) but determined without regard to—
 
 &emsp;(1) the alternative tax net operating loss deduction (as defined in section 56(d)), and
 
@@ -82,9 +82,5 @@ Section applicable to taxable years beginning after Dec. 31, 1986, see section 5
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 30A, 164, 275, 882, 936, 1561, 4611, 6425, 6655, 9507 of this title.
+For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

@@ -4,7 +4,3 @@ Except as otherwise provided in regulations prescribed by the Secretary of Defen
 
 (Added Pub. L. 104–106, div. A, title V, §563(a)(2)(A), Feb. 10, 1996, 110 Stat. 325.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12684 of this title.
-

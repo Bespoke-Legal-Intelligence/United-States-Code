@@ -20,10 +20,6 @@
 
 1958—Pub. L. 85–861, §1(30), Sept. 2, 1958, 72 Stat. 1451, added item 1374.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 33 section 857a; title 42 section 213a.
-
 
 ---
 

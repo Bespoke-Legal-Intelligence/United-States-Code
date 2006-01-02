@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalentamount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110 Stat. 1879.)
 
@@ -260,7 +260,7 @@ Subsec. (e)(5). Pub. L. 100–647, §1012(q)(6), added par. (5).
 
 Subsec. (f)(1). Pub. L. 100–647, §1012(f)(3)(A), (14), substituted “this subtitle” for “sections 871, 881, 1441, and 1442” and inserted “(or having gross income treated as effectively connected with the conduct of a trade or business in the United States)” after “United States”.
 
-Pub. L. 100–647, §1012(q)(2)(C)(i), (3)(B), inserted sentence at end and struck out former last sentence which read as follows: “Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence.”
+Pub. L. 100–647, §1012(q)(2)(C)(i), (3)(B), inserted sentence at end and struck out former last sentence whichread as follows: “Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence.”
 
 Subsec. (f)(3). Pub. L. 100–647, §1012(q)(2)(C)(ii), added par. (3).
 
@@ -284,11 +284,7 @@ Section 1012(q)(1)(B) of Pub. L. 100–647, as amended by Pub. L. 101–239, tit
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary toany treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 163, 861, 906, 952, 953 of this title; title 48 section 1421i.
+For nonapplication of amendment by section 1241(a) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Scope
 
-The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person has violated or is about to violate any provision of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation concerning the matters to which this chapter relates. The Commission may permit any person to file with it a statement in writing under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish or make available to State commissions information concerning any such subject.
+The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person, electric utility, transmitting utility, or other entity has violated or is about to violate any provision of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation concerning the matters to which this chapter relates, or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce. The Commission may permit any person, electric utility, transmitting utility, or other entity to file with it a statement in writing under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish or make available to State commissions information concerning any such subject.
 
 #### (b) Attendance of witnesses and production of documents
 
@@ -14,7 +14,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (d) Testimony by deposition
 
-The testimony of any witness may be taken, at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition, at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it, at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which noticeshall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
+The testimony of any witness may be taken, at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition, at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it, at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
 
 #### (e) Deposition of witness in a foreign country
 
@@ -24,19 +24,15 @@ If a witness whose testimony may be desired to be taken by deposition be in a fo
 
 Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(June 10, 1920, ch. 285, pt. III, §307, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 91–452, title II, §221, Oct. 15, 1970, 84 Stat. 929.)
+(June 10, 1920, ch. 285, pt. III, §307, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 91–452, title II, §221, Oct. 15, 1970, 84 Stat. 929; Pub. L. 109–58, title XII, §1284(b), Aug. 8, 2005, 119 Stat. 980.)
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58 inserted “, electric utility, transmitting utility, or other entity” after “person” in two places and inserted “, or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce” before period at end of first sentence.
 
 1970—Subsec. (g). Pub. L. 91–452 struck out subsec. (g) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on 60th day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before 60th day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 

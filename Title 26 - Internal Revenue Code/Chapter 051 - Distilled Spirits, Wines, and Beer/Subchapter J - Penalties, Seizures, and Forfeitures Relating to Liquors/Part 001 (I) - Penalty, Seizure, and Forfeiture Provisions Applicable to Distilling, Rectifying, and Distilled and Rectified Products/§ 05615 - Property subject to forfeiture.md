@@ -60,7 +60,7 @@ The following property shall be forfeited to the United States:
 
 #### (7) Creation of fictitious proof
 
-&emsp;All distilled spirits on which the tax has not been paid or determined as provided by law to which any ingredient or substance has been added for the purpose of creating fictitious proof.
+&emsp;All distilled spirits on which the tax has not been paid or determined as provided by law towhich any ingredient or substance has been added for the purpose of creating fictitious proof.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1405; amended Pub. L. 96–39, title VIII, §807(a)(56), July 26, 1979, 93 Stat. 289; Pub. L. 98–369, div. A, title IV, §451(b)(2), July 18, 1984, 98 Stat. 819.)
 
@@ -167,8 +167,4 @@ Amendment by Pub. L. 98–369 effective on first day of first calendar month whi
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5101, 5177, 5179, 5207, 5221, 5222, 5305, 5505 of this title.
 

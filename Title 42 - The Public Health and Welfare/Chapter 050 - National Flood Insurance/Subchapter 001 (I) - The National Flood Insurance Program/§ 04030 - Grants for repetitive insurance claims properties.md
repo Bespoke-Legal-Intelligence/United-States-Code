@@ -18,3 +18,7 @@ In determining the properties for which funding is to be provided under this sec
 
 (Pub. L. 90–448, title XIII, §1323, as added Pub. L. 108–264, title I, §104(a), June 30, 2004, 118 Stat. 722.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+

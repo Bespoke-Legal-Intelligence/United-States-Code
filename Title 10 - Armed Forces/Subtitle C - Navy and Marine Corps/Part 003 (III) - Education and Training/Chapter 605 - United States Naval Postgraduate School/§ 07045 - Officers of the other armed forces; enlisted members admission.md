@@ -6,17 +6,21 @@
 
 (B) The Secretary may permit an eligible enlisted member of the armed forces to receive instruction at the Postgraduate School in connection with pursuit of a program of education in information assurance as a participant in the Information Security Scholarship program under chapter 112 of this title. To be eligible for instruction under this subparagraph, the enlisted member must have been awarded a baccalaureate degree by an institution of higher education.
 
-(C) In addition to instruction authorized under subparagraphs (A) and (B), the Secretary may, on a space-available basis, permit an enlisted member of the armed forces who is assigned permanently to the staff of the Postgraduate School or to a nearby command to receive instruction at the Postgraduate School.
+(C) The Secretary may permit an eligible enlisted member of the Navy or Marine Corps to receive instruction from the Postgraduate School in certificate programs and courses required for the performance of the member's duties.
+
+(D) In addition to instruction authorized under subparagraphs (A), (B), and (C), the Secretary may, on a space-available basis, permit an enlisted member of the armed forces who is assigned permanently to the staff of the Postgraduate School or to a nearby command to receive instruction at the Postgraduate School.
 
 (b)(1) Except as provided under paragraph (3), the Department of the Army, the Department of the Air Force, and the Department of Homeland Security shall bear the cost of the instruction received by members detailed for that instruction by the Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security, respectively.
 
-(2) In the case of an enlisted member permitted under subsection (a)(2)(C) to receive instruction at the Postgraduate School on a space-available basis, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate.
+(2) In the case of an enlisted member permitted under subsection (a)(2)(D) to receive instruction at the Postgraduate School on a space-available basis, the Secretary of the Navy shall charge that member only for such costs and fees as the Secretary considers appropriate.
 
 (3) The requirements for payment of costs and fees under paragraph (1) shall be subject to such exceptions as the Secretary of Defense may prescribe for members of the armed forces who receive instruction at the Postgraduate School in connection with pursuit of a degree or certification as participants in the Information Security Scholarship program under chapter 112 of this title.
 
 (c) While receiving instruction at the Postgraduate School, members of the Army, Air Force, and Coast Guard are subject to such regulations, as determined appropriate by the Secretary of the Navy, as apply to students who are members of the naval service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472.)
+(d) The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472; Pub. L. 109–163, div. A, title V, §526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246.)
 
 Historical and Revision Notes
 
@@ -39,6 +43,14 @@ In subsection (a) the words “at the request of the Secretary of the Army and t
 In subsection (c) the words “rules and” are omitted. The words “who are officers of the naval service” are substituted for the words “of the United States Navy”, since officers of the Marine Corps are occasionally ordered to attend the Postgraduate School on the same basis as officers of the Navy.
 
 #### Amendments
+
+2006—Subsec. (a)(2)(C). Pub. L. 109–163, §526(a)(1)(B), added subpar. (C). Former subpar.(C) redesignated (D).
+
+Subsec. (a)(2)(D). Pub. L. 109–163, §526(a)(1)(A), (C), redesignated subpar. (C) as (D) and substituted “subparagraphs (A), (B), and (C)” for “subparagraphs (A) and (B)”.
+
+Subsec. (b)(2). Pub. L. 109–163, §526(a)(2), substituted “subsection (a)(2)(D)” for “subsection (a)(2)(C)”.
+
+Subsec. (d). Pub. L. 109–163, §526(b), added subsec. (d).
 
 2003—Subsec. (a)(2). Pub. L. 108–136, §532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis.”
 

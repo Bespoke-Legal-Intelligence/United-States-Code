@@ -72,7 +72,3 @@ In subsection (b) the words “including midshipmen” are omitted as surplusage
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 370(e) of Pub. L. 104–201, set out as a note under section 2105 of Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6976 of this title.
-

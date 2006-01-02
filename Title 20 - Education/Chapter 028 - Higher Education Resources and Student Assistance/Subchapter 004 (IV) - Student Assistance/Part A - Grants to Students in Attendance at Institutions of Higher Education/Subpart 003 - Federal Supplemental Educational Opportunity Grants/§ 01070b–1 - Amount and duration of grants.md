@@ -22,7 +22,7 @@ Nothing in this section shall be construed to prohibit an institution from makin
 
 #### Prior Provisions
 
-A prior section 1070b–1, Pub. L. 89–329, title IV, §413B, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972,86 Stat. 252; amended Pub. L. 96–374, title IV, §403(c), Oct. 3, 1980, 94 Stat. 1405, related to amount and duration of supplemental educational opportunity grants, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070b–1, Pub. L. 89–329, title IV, §413B, as added Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 252; amended Pub. L. 96–374, title IV, §403(c), Oct. 3, 1980, 94 Stat. 1405, related to amount and duration of supplemental educational opportunity grants, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

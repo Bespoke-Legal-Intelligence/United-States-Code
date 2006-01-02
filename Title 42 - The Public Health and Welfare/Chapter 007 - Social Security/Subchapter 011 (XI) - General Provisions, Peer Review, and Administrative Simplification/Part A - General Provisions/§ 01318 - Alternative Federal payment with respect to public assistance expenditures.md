@@ -8,7 +8,7 @@ In the case of any State which has in effect a plan approved under subchapter XI
 
 Paragraph (1) of sections 303(a), 1203(a), and 1353(a) of this title, referred to in text, were repealed by Pub. L. 97–35, title XXI, §2184(a)(4)(A), (c)(2)(A), Aug. 13, 1981, 95 Stat. 816, 817.
 
-Section 1383(a) of this title, referred to in text, is a reference to section 1383(a) of this title as it existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff.Jan. 1, 1974. The prior section (which is set out as a note under section 1383 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
+Section 1383(a) of this title, referred to in text, is a reference to section 1383(a) of this title as it existed prior to the general revision of this subchapter by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974. The prior section (which is set out as a note under section 1383 of this title) continues in effect for Puerto Rico, Guam, and the Virgin Islands.
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDCprogram, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1988 Amendment
 

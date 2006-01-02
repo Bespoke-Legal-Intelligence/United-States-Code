@@ -1,10 +1,12 @@
 ### §11319. Termination
 
-The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2005.
+The Council shall cease to exist, and the requirements of this subchapter shall terminate, on October 1, 2006.
 
-(Pub. L. 100–77, title II, §209, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §205, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–402, §2, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–645, title I, §103, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1422, Oct. 28, 1992, 106 Stat. 4043; Pub. L. 106–377, §1(a)(1) \[title II, §231(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31.)
+(Pub. L. 100–77, title II, §209, July 22, 1987, 101 Stat. 489; Pub. L. 100–628, title II, §205, Nov. 7, 1988, 102 Stat. 3228; Pub. L. 101–402, §2, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–645, title I, §103, Nov. 29, 1990, 104 Stat. 4675; Pub. L. 102–550, title XIV, §1422, Oct. 28, 1992, 106 Stat. 4043; Pub. L. 106–377, §1(a)(1) \[title II, §231(2)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490.)
 
 #### Amendments
+
+2005—Pub. L. 109–115 substituted “2006” for “2005”.
 
 2000—Pub. L. 106–377 substituted “2005” for “1994”.
 

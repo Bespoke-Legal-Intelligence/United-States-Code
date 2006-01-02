@@ -13,3 +13,5 @@ Part A—General
 - [&sect; 01906 - Disposal of surplus property](%C2%A7%2001906%20-%20Disposal%20of%20surplus%20property.md)
 - [&sect; 01907 - Transfer of disbursing function](%C2%A7%2001907%20-%20Transfer%20of%20disbursing%20function.md)
 - [&sect; 01908 - Legal representation authority](%C2%A7%2001908%20-%20Legal%20representation%20authority.md)
+- [&sect; 01909 - Inspector General for the United States Capitol Police](%C2%A7%2001909%20-%20Inspector%20General%20for%20the%20United%20States%20Capitol%20Police.md)
+- [&sect; 01910 - Report of disbursements](%C2%A7%2001910%20-%20Report%20of%20disbursements.md)

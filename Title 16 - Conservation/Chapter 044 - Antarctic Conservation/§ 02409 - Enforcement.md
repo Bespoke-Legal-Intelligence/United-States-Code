@@ -2,7 +2,7 @@
 
 #### (a) Responsibility
 
-The provisions of this chapter and of any regulation prescribed, or permit issued, under this chapter shall be enforced by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of <sup>1</sup> Interior, and the Secretary of the department in which the Coast Guard is operating. The Director and such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other Federal agencyor any State agency in the performance of such duties.
+The provisions of this chapter and of any regulation prescribed, or permit issued, under this chapter shall be enforced by the Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of <sup>1</sup> Interior, and the Secretary of the department in which the Coast Guard is operating. The Director and such Secretaries may utilize by agreement, on a reimbursable basis or otherwise, the personnel, services, and facilities of any other Federal agency or any State agency in the performance of such duties.
 
 #### (b) Powers of authorized officers
 
@@ -52,7 +52,7 @@ The customs laws, referred to in subsec. (e), are classified generally to Title 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

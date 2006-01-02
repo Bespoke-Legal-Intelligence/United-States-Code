@@ -12,7 +12,7 @@
 
 #### (3) Waiver
 
-&emsp;The President may waive the application of paragraph (1) with respect to Iran, Libya, North Korea, and Sudan to the degree the President determines that it is in the nationalsecurity interest of the United States to do so, or for humanitarian reasons.
+&emsp;The President may waive the application of paragraph (1) with respect to Iran, Libya, North Korea, and Sudan to the degree the President determines that it is in the national security interest of the United States to do so, or for humanitarian reasons.
 
 #### (b) Prohibition on financing of agricultural sales to Cuba
 

@@ -2,11 +2,11 @@
 
 #### (a) State failure
 
-For any implementation plan or plan revision required under this part (or required in responseto a finding of substantial inadequacy as described in section 7410(k)(5) of this title), if the Administrator—
+For any implementation plan or plan revision required under this part (or required in response to a finding of substantial inadequacy as described in section 7410(k)(5) of this title), if the Administrator—
 
 &emsp;(1) finds that a State has failed, for an area designated nonattainment under section 7407(d) of this title, to submit a plan, or to submit 1 or more of the elements (as determined by the Administrator) required by the provisions of this chapter applicable to such an area, or has failed to make a submission for such an area that satisfies the minimum criteria established in relation to any such element under section 7410(k) of this title,
 
-&emsp;(2) disapproves a submission under section 7410(k) of this title, for an area designated nonattainment under section 7407 of this title, based on the submission's failure to meet one or more of the elements required by the provisions of this chapter applicable to such an area,
+&emsp;(2) disapproves a submission under section 7410(k) of this title, for an area designatednonattainment under section 7407 of this title, based on the submission's failure to meet one or more of the elements required by the provisions of this chapter applicable to such an area,
 
 &emsp;(3)(A) determines that a State has failed to make any submission as may be required under this chapter, other than one described under paragraph (1) or (2), including an adequate maintenance plan, or has failed to make any submission, as may be required under this chapter, other than one described under paragraph (1) or (2), that satisfies the minimum criteria established in relation to such submission under section 7410(k)(1)(A) of this title, or
 
@@ -52,7 +52,7 @@ The sanctions available to the Administrator as provided in subsection (a) of th
 
 (1) As expeditiously as practicable after the applicable attainment date for any nonattainment area, but not later than 6 months after such date, the Administrator shall determine, based on the area's air quality as of the attainment date, whether the area attained the standard by that date.
 
-(2) Upon making the determination under paragraph (1), the Administrator shall publish anotice in the Federal Register containing such determination and identifying each area that the Administrator has determined to have failed to attain. The Administrator may revise or supplement such determination at any time based on more complete information or analysis concerning the area's air quality as of the attainment date.
+(2) Upon making the determination under paragraph (1), the Administrator shall publish a notice in the Federal Register containing such determination and identifying each area that the Administrator has determined to have failed to attain. The Administrator may revise or supplement such determination at any time based on more complete information or analysis concerning the area's air quality as of the attainment date.
 
 #### (d) Consequences for failure to attain
 

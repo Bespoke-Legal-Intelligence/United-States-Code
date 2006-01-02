@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;This subparagraph shall apply in any case in which, in order to deliver any volume of natural gas pursuant to any sale authorized under paragraph (1), any intrastate pipeline acquires quantities of natural gas under any existing contract, if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such intrastate pipeline acquires any volume of natural gas under such contract in excess of that which such pipeline would otherwise have acquired; and
+&emsp;&emsp;&emsp;&emsp;(I) such intrastate pipeline acquires any volume of natural gas under suchcontract in excess of that which such pipeline would otherwise have acquired; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the price paid for such additional volume of natural gas acquired under such contract is greater than such pipeline's weighted average acquisition cost of natural gas, computed without regard to the acquisition of such additional volume of natural gas.
 

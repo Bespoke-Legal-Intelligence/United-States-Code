@@ -6,7 +6,7 @@ A National Employment Conference may be convened in the District of Columbia wit
 
 #### (b) Subject matter
 
-The subject of the conference shall be employment, with particular attention to structural unemployment and the plight of disadvantaged youth. The conference shall also focus on issues such as implementation of adequate and effective incentives for private sector employers to hire the hard-core unemployed. Special attention shall be given to the creation of jobs through the use of targeted employment tax credits, wage vouchers, and other incentives to private sector businesses.
+The subject of the conference shall be employment, with particular attention to structuralunemployment and the plight of disadvantaged youth. The conference shall also focus on issues such as implementation of adequate and effective incentives for private sector employers to hire the hard-core unemployed. Special attention shall be given to the creation of jobs through the use of targeted employment tax credits, wage vouchers, and other incentives to private sector businesses.
 
 (Pub. L. 95–523, §4, Oct. 27, 1978, 92 Stat. 1889.)
 

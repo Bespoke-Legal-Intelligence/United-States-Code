@@ -14,7 +14,7 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;(1) upon completion of initial entry training (as prescribed by the Secretary of Defense), serve on active duty in a military occupational specialty designated by the Secretary of Defense under subsection (d) for a period of 15 months;
 
-&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additionalperiod of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
+&emsp;(2) upon completion of the period of active duty specified in paragraph (1) and without a break in service, serve either (A) an additional period of active duty as determined by the Secretary of Defense, or (B) a period of 24 months in an active status in the Selected Reserve; and
 
 &emsp;(3) upon completion of the period of service specified in paragraph (2), and without a break in service, serve the remaining period of obligated service specified in the agreement—
 
@@ -24,13 +24,13 @@ National Service.—The total period of national service to which a National Cal
 
 &emsp;&emsp;(C) in the Individual Ready Reserve;
 
-&emsp;&emsp;(D) in the Peace Corps, Americorps, or another national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
+&emsp;&emsp;(D) in Americorps or another domestic national service program jointly designated by the Secretary of Defense and the head of such program for purposes of this section; or
 
 &emsp;&emsp;(E) in any combination of service referred to in subparagraphs (A) through (D) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
 
 (d)
 
-Designated Military Occupational Specialties.—The Secretary of Defense shall designate military occupational specialties for purposes of subsection (c)(1). Such military occupational specialties shall be military occupational specialties that, as determined by the Secretary, will facilitate pursuit of national service by National Call to Service participants.
+Designated Military Occupational Specialties.—The Secretary of Defense shall designate military occupational specialties for purposes of subsection (c)(1). Such military occupational specialties shall be military occupational specialties that, as determined by the Secretary, will facilitate pursuit of national service by National Call to Service participants and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program.
 
 (e)
 
@@ -64,9 +64,9 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (B) If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
 
-(2)(A) The Secretary of Defense shall, to the maximum extent practicable, administer the receipt by National Call to Service participants of incentives under paragraph (3) or (4) of subsection (e) as if such National Call to Service participants were, in receiving such incentives, receiving educational assistance for members of the Selected Reserve under chapter 1606 of this title.
+(2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
 
-(B) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, prescribe regulations for purposes of subparagraph (A). Such regulations shall, to the maximum extent practicable, take into account the administrative provisions of chapters 30 and 36 of title 38 that are specified in section 16136 of this title.
+(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
 
 (3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
 
@@ -76,13 +76,7 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (i)
 
-Repayment.—(1) If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefited from an incentive under subsection (e)(1) or (e)(2) fails to complete the total period of service specified in such agreement, the National Call to Service participant shall refund to the United States the amount that bears the same ratio to the amount of the incentive as the uncompleted part of such service bears to the total period of such service.
-
-(2) Subject to paragraph (3), an obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) The Secretary concerned may waive, in whole or in part, a reimbursement required under paragraph (1) if the Secretary concerned determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
-
-(4) A discharge in bankruptcy under title 11 that is entered into less than five years after the termination of an agreement entered into under subsection (b) does not discharge the person signing the agreement from a debt arising under the agreement or under paragraph (1).
+Repayment.—If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of section 303a(e) of title 37.
 
 (j)
 
@@ -104,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “Secretary of a military department” includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
 
-(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474.)
+(Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333.)
 
 #### References in Text
 
@@ -116,7 +110,23 @@ A prior section 510 was renumbered section 12102 of this title.
 
 #### Amendments
 
+2006—Subsec. (c)(3)(D). Pub. L. 109–163, §545(a), substituted “in Americorps or another domestic national service program” for “in the Peace Corps, Americorps, or another national service program”.
+
+Subsec. (d). Pub. L. 109–163, §545(b), inserted “and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program” before period at end.
+
+Subsec. (h)(2). Pub. L. 109–163, §545(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+
+“(2)(A) The Secretary of Defense shall, to the maximum extent practicable, administer the receipt by National Call to Service participants of incentives under paragraph (3) or (4) of subsection (e) as if such National Call to Service participants were, in receiving such incentives, receiving educational assistance for members of the Selected Reserve under chapter 1606 of this title.
+
+“(B) The Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, prescribe regulations for purposes of subparagraph (A). Such regulations shall, to the maximum extent practicable, take into account the administrative provisions of chapters 30 and 36 of title 38 that are specified in section 16136 of this title.”
+
+Subsec. (i). Pub. L. 109–163, §687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
+
 2003—Subsec. (j). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned.”
+
+#### Savings Provision
+
+Pub. L. 109–163, div. A, title VI, §687(f), Jan. 6, 2006, 119 Stat. 3336, provided that: “In the case of any bonus, incentive pay, special pay, or similar payment, such as education assistance or a stipend, which the United States became obligated to pay before April 1, 2006, under a provision of law amended by subsection (b), (c), or (d) of this section \[amending this section and sections 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of this title, section 182 of Title 14, Coast Guard, and sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of Title 37, Pay and Allowances of the Uniformed Services\], such provision of law, as in effect on the day before the date of the enactment of this Act \[Jan. 6, 2006\], shall continue to apply to the payment, or any repayment, of the bonus, incentive pay, special pay, or similar payment under such provision of law.”
 
 #### Transfer of Functions
 
@@ -133,8 +143,4 @@ Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, prov
 #### Effectiveness Reports
 
 Pub. L. 107–314, div. A, title V, §531(e), Dec. 2, 2002, 116 Stat. 2545, provided that: “Not later than March 31, 2005, and March 31, 2007, the Secretary of Defense shall submit to the committees specified in subsection (d) reports on the effectiveness of the program under section 510 of title 10, United States Code, as added by subsection (a), in attracting new recruits to national service.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2006 of this title.
 

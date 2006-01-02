@@ -92,7 +92,7 @@ Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(B)\]\], re
 
 Subsec. (d)(3). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(2)(B)\]\], redesignated par. (3) as (2).
 
-Subsec. (f)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(3)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Directorprescribes, one of the options available under subsection (b), or”.
+Subsec. (f)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(3)\]\], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or”.
 
 Subsec. (f)(2). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(4)\]\], in introductory provisions substituted “April 1” for “February 1”, in subpar. (A) substituted “701/2” for “65” and inserted “or” after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or”.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 #### Effective Date of 1994 Amendments
 
-Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L. 103–353, set out as an Effective Date note under section 8432b of this title.
+Amendment by section 4(b) of Pub. L. 103–353 effective Oct. 13, 1994, and applicable to any employee whose release from military service, discharge from hospitalization, or other similar event making the individual eligible to seek restoration or reemployment under chapter 43 of Title 38, Veterans’ Benefits, occurs on or after Aug. 2, 1990, with special rules for applying amendment to employees restored or reemployed before effective date, see section 4(e), (f) of Pub. L.103–353, set out as an Effective Date note under section 8432b of this title.
 
 Amendment by section 5(e)(4) of Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38.
 

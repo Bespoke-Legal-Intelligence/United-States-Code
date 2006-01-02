@@ -26,6 +26,10 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;Paragraph (1) shall apply only to a taxpayer whose principal trade or business is farming (within the meaning of section 6420(c)(3)).
 
+#### (3) Special election rules
+
+&emsp;If section 1033(e)(2) applies to a sale or exchange of livestock described in paragraph (1), the election under paragraph (1) shall be deemed valid if made during the replacement period described in such section.
+
 #### (f) Special rule for utility services
 
 #### (1) In general
@@ -80,7 +84,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;&emsp;(A) the bankruptcy or insolvency of the qualified financial institution (or threat thereof), or
 
-&emsp;&emsp;(B) any requirement imposed by the State in which such institution is located by reason of the bankruptcy or insolvency (orthreat thereof) of 1 or more financial institutions in the State.
+&emsp;&emsp;(B) any requirement imposed by the State in which such institution is located by reason of the bankruptcy or insolvency (or threat thereof) of 1 or more financial institutions in the State.
 
 #### (5) Other definitions
 
@@ -118,7 +122,97 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;The Secretary shall provide for the application of this subsection in the case of a partnership or other pass-through entity consisting entirely of individuals described in paragraph (1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918.)
+#### (i) Special rule for sales or dispositions to implement Federal Energy Regulatory Commission or State electric restructuring policy
+
+#### (1) In general
+
+&emsp;In the case of any qualifying electric transmission transaction for which the taxpayer elects the application of this section, qualified gain from such transaction shall be recognized—
+
+&emsp;&emsp;(A) in the taxable year which includes the date of such transaction to the extent the amount realized from such transaction exceeds—
+
+&emsp;&emsp;&emsp;(i) the cost of exempt utility property which is purchased by the taxpayer during the 4-year period beginning on such date, reduced (but not below zero) by
+
+&emsp;&emsp;&emsp;(ii) any portion of such cost previously taken into account under this subsection, and
+
+&emsp;&emsp;(B) ratably over the 8-taxable year period beginning with the taxable year which includes the date of such transaction, in the case of any such gain not recognized under subparagraph (A).
+
+#### (2) Qualified gain
+
+&emsp;For purposes of this subsection, the term “qualified gain” means, with respect to any qualifying electric transmission transaction in any taxable year—
+
+&emsp;&emsp;(A) any ordinary income derived from such transaction which would be required to be recognized under section 1245 or 1250 for such taxable year (determined without regard to this subsection), and
+
+&emsp;&emsp;(B) any income derived from such transaction in excess of the amount described in subparagraph (A) which is required to be included in gross income for such taxable year (determined without regard to this subsection).
+
+#### (3) Qualifying electric transmission transaction
+
+&emsp;For purposes of this subsection, the term “qualifying electric transmission transaction” means any sale or other disposition before January 1, 2008, of—
+
+&emsp;&emsp;(A) property used in the trade or business of providing electric transmission services, or
+
+&emsp;&emsp;(B) any stock or partnership interest in a corporation or partnership, as the case may be, whose principal trade or business consists of providing electric transmission services,
+
+> &emsp;but only if such sale or disposition is to an independent transmission company.
+
+#### (4) Independent transmission company
+
+&emsp;For purposes of this subsection, the term “independent transmission company” means—
+
+&emsp;&emsp;(A) an independent transmission provider approved by the Federal Energy Regulatory Commission,
+
+&emsp;&emsp;(B) a person—
+
+&emsp;&emsp;&emsp;(i) who the Federal Energy Regulatory Commission determines in its authorization of the transaction under section 203 of the Federal Power Act (16 U.S.C. 824b) or by declaratory order is not a market participant within the meaning of such Commission's rules applicable to independent transmission providers, and
+
+&emsp;&emsp;&emsp;(ii) whose transmission facilities to which the election under this subsection applies are under the operational control of a Federal Energy Regulatory Commission-approved independent transmission provider before the close of the period specified in such authorization, but not later than December 31, 2007, or
+
+&emsp;&emsp;(C) in the case of facilities subject to the jurisdiction of the Public Utility Commission of Texas—
+
+&emsp;&emsp;&emsp;(i) a person which is approved by that Commission as consistent with Texas State law regarding an independent transmission provider, or
+
+&emsp;&emsp;&emsp;(ii) a political subdivision or affiliate thereof whose transmission facilities are under the operational control of a person described in clause (i).
+
+#### (5) Exempt utility property
+
+&emsp;For purposes of this subsection:
+
+#### (A) In general
+
+&emsp;&emsp;The term “exempt utility property” means property used in the trade or business of—
+
+&emsp;&emsp;&emsp;(i) generating, transmitting, distributing, or selling electricity, or
+
+&emsp;&emsp;&emsp;(ii) producing, transmitting, distributing, or selling natural gas.
+
+#### (B) Nonrecognition of gain by reason of acquisition of stock
+
+&emsp;&emsp;Acquisition of control of a corporation shall be taken into account under this subsection with respect to a qualifying electric transmission transaction only if the principal trade or business of such corporation is a trade or business referred to in subparagraph (A).
+
+#### (6) Special rule for consolidated groups
+
+&emsp;In the case of a corporation which is a member of an affiliated group filing a consolidated return, any exempt utility property purchased by another member of such group shall be treated as purchased by such corporation for purposes of applying paragraph (1)(A).
+
+#### (7) Time for assessment of deficiencies
+
+&emsp;If the taxpayer has made the election under paragraph (1) and any gain is recognized by such taxpayer as provided in paragraph (1)(B), then—
+
+&emsp;&emsp;(A) the statutory period for the assessment of any deficiency, for any taxable year in which any part of the gain on the transaction is realized, attributable to such gain shall not expire prior to the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may by regulations prescribe) of the purchase of exempt utility property or of an intention not to purchase such property, and
+
+&emsp;&emsp;(B) such deficiency may be assessed before the expiration of such 3-year period notwithstanding any law or rule of law which would otherwise prevent such assessment.
+
+#### (8) Purchase
+
+&emsp;For purposes of this subsection, the taxpayer shall be considered to have purchased any property if the unadjusted basis of such property is its cost within the meaning of section 1012.
+
+#### (9) Election
+
+&emsp;An election under paragraph (1) shall be made at such time and in such manner as the Secretary may require and, once made, shall be irrevocable.
+
+#### (10) Nonapplication of installment sales treatment
+
+&emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997.)
 
 #### References in Text
 
@@ -127,6 +221,14 @@ The Agricultural Act of 1949, as amended, referred to in subsec. (d), is act Oct
 The Disaster Assistance Act of 1988, referred to in subsec. (d), is Pub. L. 100–387, Aug. 11, 1988, 102 Stat. 924. Title II of the Disaster Assistance Act of 1988 is set out as a note under section 1421 of Title 7. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2005—Subsec. (i)(3). Pub. L. 109–58, §1305(a), substituted “2008” for “2007” in introductory provisions.
+
+Subsec. (i)(4)(B)(ii). Pub. L. 109–58, §1305(b), substituted “December 31, 2007” for “the close of the period applicable under subsection (a)(2)(B) as extended under paragraph (2)”.
+
+2004—Subsec. (e)(3). Pub. L. 108–357, §311(c), added par. (3).
+
+Subsec. (i). Pub. L. 108–357, §909(a), added subsec. (i).
 
 1998—Subsec. (h). Pub. L. 105–277 added subsec. (h).
 
@@ -149,6 +251,24 @@ Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 1969—Subsec. (d). Pub. L. 91–172 added subsec. (d).
 
 1965—Subsec. (c). Pub. L. 89–97 added subsec. (c).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title XIII, §1305(c), Aug. 8, 2005, 119 Stat. 997, provided that:
+
+“(1)
+
+In general.—The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 8, 2005\].
+
+“(2)
+
+Technical amendment.—The amendment made by subsection (b) \[amending this section\] shall take effect as if included in the amendments made by section 909 of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, amending this section\].”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title III, §311(d), Oct. 22, 2004, 118 Stat. 1467, provided that: “The amendments made by this section \[amending this section and section 1033 of this title\] shall apply to any taxable year with respect to which the due date (without regard to extensions) for the return is after December 31, 2002.”
+
+Pub. L. 108–357, title VIII, §909(b), Oct. 22, 2004, 118 Stat. 1659, provided that: “The amendments made by this section \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Oct. 22, 2004\], in taxable years ending after such date.”
 
 #### Effective Date of 1998 Amendment
 
@@ -260,7 +380,7 @@ Extended Period Long-Term Contracts Defined.—For purposes of this section—
 
 &emsp;“(1)
 
-In general.—The term ‘extended period long-term contract’ means any long-term contract which the taxpayer estimates (at the time such contract is entered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
+In general.—The term ‘extended period long-term contract’ means any long-term contract which the taxpayer estimates (at the time such contract isentered into) will not be completed within the 2-year period beginning on the contract commencement date of such contract.
 
 &emsp;“(2)
 
@@ -286,7 +406,7 @@ Determination of taxpayer's gross receipts.—For purposes of subparagraph (A), 
 
 &emsp;&emsp;“(C)
 
-Controlled group of corporations.—The term ‘controlled group of corporations’ has themeaning given to such term by section 1563(a), except that—
+Controlled group of corporations.—The term ‘controlled group of corporations’ has the meaning given to such term by section 1563(a), except that—
 
 &emsp;&emsp;&emsp;“(i) ‘more than 50 percent’ shall be substituted for ‘at least 80 percent’ each place it appears in section 1563(a)(1), and
 
@@ -429,8 +549,4 @@ In General.—In the case of a taxpayer reporting on the cash receipts and disbu
 “(b)
 
 Making and Effect of Election—An election under this section for any taxable year shall be made at such time and in such manner as the Secretary of the Treasury may by regulations prescribe and shall apply with respect to all proceeds described in subsection (a) which were received by the taxpayer.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 455, 456, 460, 3402 of this title.
 

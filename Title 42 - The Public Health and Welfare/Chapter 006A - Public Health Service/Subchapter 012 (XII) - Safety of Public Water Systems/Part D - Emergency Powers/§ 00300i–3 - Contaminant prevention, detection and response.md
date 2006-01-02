@@ -14,7 +14,7 @@ The Administrator, in consultation with the Centers for Disease Control and, aft
 
 &emsp;(5) Methods, means, and equipment which could negate or mitigate deleterious effects on public health and the safety and supply caused by the introduction of contaminants into water intended to be used for drinking water, including an examination of the effectiveness of various drinking water technologies in removing, inactivating, or neutralizing biological, chemical, and radiological contaminants.
 
-&emsp;(6) Biomedical research into the short-term and long-term impact on public health of various chemical, biological and radiological contaminants that may be introduced into public water systems through terrorist or other intentional acts.
+&emsp;(6) Biomedical research into the short-term and long-term impact on public health of various chemical, biological and radiological contaminants that may be introduced into publicwater systems through terrorist or other intentional acts.
 
 #### (b) Funding
 

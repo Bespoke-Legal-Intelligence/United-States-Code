@@ -14,7 +14,7 @@ Liability for Certain Acts.—Any person who—
 
 &emsp;(5) authorized to make or deliver a document certifying receipt of property used, or to be used, by the Government and, intending to defraud the Government, makes or delivers the receipt without completely knowing that the information on the receipt is true;
 
-&emsp;(6) knowingly buys, or receives as a pledge of an obligation or debt, public property from an officer or employee of the Government, or amember of the Armed Forces, who lawfully may not sell or pledge the property; or
+&emsp;(6) knowingly buys, or receives as a pledge of an obligation or debt, public property from an officer or employee of the Government, or a member of the Armed Forces, who lawfully may not sell or pledge the property; or
 
 &emsp;(7) knowingly makes, uses, or causes to be made or used, a false record or statement to conceal, avoid, or decrease an obligation to pay or transmit money or property to the Government,
 

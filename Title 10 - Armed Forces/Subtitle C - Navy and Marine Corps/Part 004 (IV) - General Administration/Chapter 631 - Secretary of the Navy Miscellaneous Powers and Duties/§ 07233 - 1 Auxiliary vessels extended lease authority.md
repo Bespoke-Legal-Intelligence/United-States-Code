@@ -70,3 +70,5 @@ Source of Funds for Termination Liability.—If a contract entered into under th
 
 Pub. L. 106–65, div. A, title X, §1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “Section 7233 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
 
+<i><sup>1</sup></i><i> So in original. No section 7232 has been enacted.</i>
+

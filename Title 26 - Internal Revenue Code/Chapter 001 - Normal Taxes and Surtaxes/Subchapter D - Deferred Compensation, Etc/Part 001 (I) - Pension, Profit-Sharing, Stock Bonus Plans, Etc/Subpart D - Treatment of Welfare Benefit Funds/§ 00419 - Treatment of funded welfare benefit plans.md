@@ -244,7 +244,3 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Section 1851(a)(8)(B) of Pub. L. 99–514 provided that: “Except in the case of a reserve for post-retirement medical or life insurance benefits and any other arrangement between an insurance company and an employer under which the employer has a contractual right to a refund or dividend based solely on the experience of such employer, any account held for an employer by any person and defined as a fund in regulations issued pursuant to section 419(e)(3)(C) of the Internal Revenue Code of 1954 \[now 1986\] shall be considered a ‘fund’ no earlier than 6 months following the date such regulations are published in final form.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 162, 401, 404, 419A, 420, 808, 1239, 4976 of this title.
-

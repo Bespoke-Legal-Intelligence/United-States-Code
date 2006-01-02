@@ -20,7 +20,7 @@ Pending disbursement pursuant to a program, plan, or project, the Council may in
 
 The Council shall establish a program coordinating the operation of the Council with those of any State propane education and research council created by State law or regulation, or similar entity. Such coordination shall include a joint or coordinated assessment collection process, a reduced assessment, or an assessment rebate. A reduced assessment or rebate shall be 20 percent of the regular assessment collected in that State under this section. Assessment rebates shall be paid only to—
 
-&emsp;(1) a State propane education and research council created by State law or regulation that meets requirements established by the Council for specific programs approved by the Council; or
+&emsp;(1) a State propane education and research council created by State law or regulationthat meets requirements established by the Council for specific programs approved by the Council; or
 
 &emsp;(2) a similar entity, such as a foundation established by the retail propane gas industry in that State, that meets requirements established by the Council for specific programs approved by the Council.
 

@@ -28,7 +28,7 @@ In allocating resources for technical assistance and training under this section
 
 &emsp;&emsp;&emsp;(ii) meeting the educational performance measures described in section 9836a(b)(4) of this title;
 
-&emsp;(2) supplement amounts provided under section 9835(a)(3)(C)(ii) of this title in order to address the training and career development needs of classroom staff (including instructionfor providing services to children with disabilities) and nonclassroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills;
+&emsp;(2) supplement amounts provided under section 9835(a)(3)(C)(ii) of this title in order to address the training and career development needs of classroom staff (including instruction for providing services to children with disabilities) and nonclassroom staff, including home visitors and other staff working directly with families, including training relating to increasing parent involvement and services designed to increase family literacy and improve parenting skills;
 
 &emsp;(3) assist Head Start agencies in the development of collaborative initiatives with States and other entities within the States, to foster effective early childhood professional development systems;
 
@@ -90,7 +90,7 @@ Subsec. (c)(9), (10). Pub. L. 105–285, §114(a)(2)(F), redesignated pars. (7) 
 
 Subsec. (c)(11). Pub. L. 105–285, §114(a)(2)(H), added par. (11).
 
-Subsec. (e). Pub. L. 105–285, §114(b), inserted “(including services to promote the acquisition of the Englishlanguage)” after “non-English language background children”.
+Subsec. (e). Pub. L. 105–285, §114(b), inserted “(including services to promote the acquisition of the English language)” after “non-English language background children”.
 
 1994—Pub. L. 103–252, §114(1), substituted “Technical assistance and training” for “Technical assistance, training, and staff qualifications” in section catchline.
 

@@ -4,7 +4,7 @@
 
 #### (1) Members
 
-&emsp;The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 20 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph <sup>1</sup> (2), the Librarian shall appoint one member from each such list submitted by such organizations, and shall designate from that list an alternate who may attend at Board expense those meetings to which the individual appointed to the Board cannot attend. The organizations are the following:
+&emsp;The Librarian shall establish in the Library of Congress a National Film Preservation Board to be comprised of 22 members, who shall be selected by the Librarian in accordance with this section. Subject to subparagraphs (C) and (N), the Librarian shall request each organization listed in subparagraphs (A) through (Q) to submit a list of three candidates qualified to serve as a member of the Board. Except for the members-at-large appointed under subparagraph <sup>1</sup> (2), the Librarian shall appoint one member from each such list submitted by such organizations, and shall designate from that list an alternate who may attend at Board expense those meetings to which the individual appointed to the Board cannot attend. The organizations are the following:
 
 &emsp;&emsp;(A) The Academy of Motion Picture Arts and Sciences.
 
@@ -42,7 +42,7 @@
 
 #### (2) Members-at-large
 
-&emsp;In addition to the members appointed under paragraph (1), the Librarian shall appoint up to three members-at-large. The Librarian shall also select an alternate for each member <sup>2</sup> at-large, who may attend at Board expense those meetings which the member <sup>2</sup> at-large cannot attend.
+&emsp;In addition to the members appointed under paragraph (1), the Librarian shall appoint up to 5 members-at-large. The Librarian shall also select an alternate for each member <sup>2</sup> at-large, who may attend at Board expense those meetings which the member <sup>2</sup> at-large cannot attend.
 
 #### (b) Chair
 
@@ -64,11 +64,11 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (d) Quorum
 
-11 members of the Board shall constitute a quorum but a lesser number may hold hearings.
+12 members of the Board shall constitute a quorum but a lesser number may hold hearings.
 
 #### (e) Reimbursement of expenses
 
-Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.
+Members of the Board shall serve without pay, but may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
 #### (f) Meetings
 
@@ -78,11 +78,21 @@ The Board shall meet at least once each fiscal year. Meetings shall be at the ca
 
 The Librarian shall establish rules and procedures to address any potential conflict of interest between a member of the Board and responsibilities of the Board.
 
-(Pub. L. 104–285, title I, §104, Oct. 11, 1996, 110 Stat. 3378.)
+(Pub. L. 104–285, title I, §104, Oct. 11, 1996, 110 Stat. 3378; Pub. L. 109–9, title III, §302(b), Apr. 27, 2005, 119 Stat. 225.)
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title.</i>
+
+#### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted “22” for “20” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 109–9, §302(b)(2), substituted “5” for “three”.
+
+Subsec. (d). Pub. L. 109–9, §302(b)(3), substituted “12” for “11”.
+
+Subsec. (e). Pub. L. 109–9, §302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

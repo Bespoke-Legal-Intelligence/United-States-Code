@@ -2,7 +2,7 @@
 
 The purpose of this subchapter is to assist the several States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel, or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5032; amended Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(3), July 5, 1977, 91 Stat. 262; Pub. L. 98–528, title I, §105(1), Oct. 19, 1984, 98 Stat. 2689; renumbered §8132, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 104–262, title III, §342(b)(2), Oct. 9, 1996, 110 Stat. 3206.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5032; amended Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(3), July 5, 1977, 91 Stat. 262; Pub. L. 98–528,title I, §105(1), Oct. 19, 1984, 98 Stat. 2689; renumbered §8132, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 104–262, title III, §342(b)(2), Oct. 9, 1996, 110 Stat. 3206.)
 
 #### Amendments
 

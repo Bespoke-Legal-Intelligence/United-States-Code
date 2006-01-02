@@ -18,7 +18,7 @@ Pub. L. 102–83, §5(c)(1), substituted “1922” for “722”.
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1964—Pub. L. 88–355 authorized issuance of total disability income provisions to provide coverage to age 65 instead of to age 60, provided that said provisions shall not be issued unless application therefor is made either prior to the insured's 55th birthday, or before the insured's 60th birthday and prior to Jan. 1, 1966, and inserted “or the provisions of this section as in effect before January 1, 1965” before “except upon surrender”, and “if required” after “proof of good health.”
+1964—Pub. L. 88–355 authorized issuance of total disability income provisions to provide coverage to age 65 instead of to age 60, provided that said provisions shallnot be issued unless application therefor is made either prior to the insured's 55th birthday, or before the insured's 60th birthday and prior to Jan. 1, 1966, and inserted “or the provisions of this section as in effect before January 1, 1965” before “except upon surrender”, and “if required” after “proof of good health.”
 
 #### Effective Date of 1964 Amendment
 

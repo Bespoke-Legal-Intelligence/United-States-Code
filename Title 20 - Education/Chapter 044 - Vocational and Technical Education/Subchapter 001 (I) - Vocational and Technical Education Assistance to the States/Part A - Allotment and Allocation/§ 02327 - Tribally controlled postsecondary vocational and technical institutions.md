@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary vocational and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students.
+The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary vocational and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) toprovide basic support for the education and training of Indian students.
 
 #### (b) Use of grants
 
@@ -52,7 +52,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (3) Prohibition on contract denial
 
-&emsp;No tribally controlled postsecondary vocational and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25 may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (except as provided in that Act), or denied appropriatecontract support to administer such portion of the appropriated funds.
+&emsp;No tribally controlled postsecondary vocational and technical institution for which an Indian tribe has designated a portion of the funds appropriated for the tribe from funds appropriated under section 13 of title 25 may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
 
 #### (g) Needs estimate and report on facilities and facilities improvement
 
@@ -132,7 +132,7 @@ In this section:
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181.)
 

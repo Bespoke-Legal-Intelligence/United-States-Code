@@ -32,7 +32,7 @@ Notice.—If the Administrator takes any action pursuant to this paragraph, the 
 
 #### (b) Judicial determinations in appropriate Federal district courts; civil penalties, separate violations
 
-The Administrator may bring a civil action in the appropriate United States district court to require compliance with any applicable requirement with an order issued under subsection (g)of this section, or with any schedule or other requirement imposed pursuant to a variance or exemption granted under section 300g–4 or 300g–5 of this title if—
+The Administrator may bring a civil action in the appropriate United States district court to require compliance with any applicable requirement with an order issued under subsection (g) of this section, or with any schedule or other requirement imposed pursuant to a variance or exemption granted under section 300g–4 or 300g–5 of this title if—
 
 &emsp;(1) authorized under paragraph (1) or (2) of subsection (a) of this section, or
 
@@ -110,7 +110,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;&emsp;(I) be provided to appropriate broadcast media;
 
-&emsp;&emsp;&emsp;&emsp;(II) be prominently published in a newspaper of general circulation serving the area not later than 1 day after distribution of a notice pursuant to clause\(i) or the date of publication of the next issue of the newspaper; or
+&emsp;&emsp;&emsp;&emsp;(II) be prominently published in a newspaper of general circulation serving the area not later than 1 day after distribution of a notice pursuant to clause (i) or the date of publication of the next issue of the newspaper; or
 
 &emsp;&emsp;&emsp;&emsp;(III) be provided by posting or door-to-door notification in lieu of notification by means of broadcast media or newspaper.
 
@@ -118,7 +118,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification procedures for violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
+&emsp;&emsp;&emsp;Regulations issued under subparagraph (A) shall specify notification proceduresfor violations other than the violations covered by subparagraph (C). The procedures shall specify that a public water system shall provide written notice to each person served by the system by notice (I) in the first bill (if any) prepared after the date of occurrence of the violation, (II) in an annual report issued not later than 1 year after the date of occurrence of the violation, or (III) by mail or direct delivery as soon as practicable, but not later than 1 year after the date of occurrence of the violation.
 
 #### (ii) Form and manner of notice
 
@@ -206,7 +206,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 &emsp;(2) the means for the maximum feasible protection of the public health during any period in which such system is not in compliance with a national primary drinking water regulation or requirement applicable to a variance or exemption.
 
-> On the basis of such hearings the Administrator shall issue recommendations which shall be sent to such State and public water system and shallbe made available to the public and communications media.
+> On the basis of such hearings the Administrator shall issue recommendations which shall be sent to such State and public water system and shall be made available to the public and communications media.
 
 #### (g) Administrative order requiring compliance; notice and hearing; civil penalty; civil actions
 

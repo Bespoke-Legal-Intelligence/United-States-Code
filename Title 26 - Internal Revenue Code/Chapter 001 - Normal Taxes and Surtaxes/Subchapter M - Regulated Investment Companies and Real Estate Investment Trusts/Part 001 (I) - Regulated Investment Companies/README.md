@@ -16,10 +16,6 @@
 
 1960—Pub. L. 86–779, §10(b)(1), Sept. 14, 1960, 74 Stat. 1008, inserted “and Real Estate Investment Trusts” in subchapter M heading, part I and part II designations thereunder and part I designation preceding table of sections numbered 851 to 855.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 59, 59A, 382 of this title.
-
 
 ---
 

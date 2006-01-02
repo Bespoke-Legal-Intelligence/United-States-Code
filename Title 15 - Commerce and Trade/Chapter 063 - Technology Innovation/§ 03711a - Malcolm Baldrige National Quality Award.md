@@ -50,7 +50,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 #### (e) Information and technology transfer program
 
-The Director of the National Institute of Standards and Technology shall ensure that all program participants receive the complete results of their audits as well as detailed explanations of all suggestions for improvements. The Director shall also provide information about the awards and the successful quality improvement strategies and programs of the award-winning participants to all participants and other appropriate groups.
+The Director of the National Institute of Standards and Technology shall ensure that all program participants receive the complete results of their audits as well as detailed explanations of all suggestions for improvements. The Director shall also provide informationabout the awards and the successful quality improvement strategies and programs of the award-winning participants to all participants and other appropriate groups.
 
 #### (f) Funding
 
@@ -88,7 +88,7 @@ Findings.—The Congress finds and declares that—
 
 &emsp;“(3) strategic planning for quality and quality improvement programs, through a commitment to excellence in manufacturing and services, are becoming more and more essential to the well-being of our Nation's economy and our ability to compete effectively in the global marketplace;
 
-&emsp;“(4) improved management understanding of the factory floor, worker involvement in quality, andgreater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
+&emsp;“(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
 
 &emsp;“(5) the concept of quality improvement is directly applicable to small companies as well as large, to service industries as well as manufacturing, and to the public sector as well as private enterprise;
 

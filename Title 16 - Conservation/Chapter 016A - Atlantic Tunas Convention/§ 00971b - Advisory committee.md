@@ -12,7 +12,7 @@
 
 (2) The advisory committee shall elect a Chairman for a 2-year term from among its members.
 
-(3) The advisory committee shall meet at appropriate times and places at least twice a year, at the call of the Chairman or upon the request of the majority of its voting members, the United States Commissioners, the Secretary, or the Secretary of State. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
+(3) The advisory committee shall meet at appropriate times and places at least twice a year, at the call of the Chairman or upon the requestof the majority of its voting members, the United States Commissioners, the Secretary, or the Secretary of State. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
 
 (4)(A) The Secretary shall provide to the advisory committee in a timely manner such administrative and technical support services as are necessary for the effective functioning of the committee.
 

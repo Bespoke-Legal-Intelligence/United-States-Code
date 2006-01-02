@@ -24,7 +24,7 @@ Authority of director.—The Director may, in the Director's discretion, place i
 
 #### (2) Effective date of retirement
 
-&emsp;Retirement under paragraph (1) shall be effective on the last day of the month in whichthe participant reaches the age applicable to that participant under that paragraph.
+&emsp;Retirement under paragraph (1) shall be effective on the last day of the month in which the participant reaches the age applicable to that participant under that paragraph.
 
 #### (3) Authority for extension
 

@@ -12,7 +12,7 @@ The Committee on Appropriations is authorized in its discretion—
 
 &emsp;(4) with the prior consent of the Government department or agency concerned and the Committee on Rules and Administration to use, on a reimbursable or nonreimbursable basis, the services of personnel of any such department or agency;
 
-&emsp;(5) to procure the services of individual consultants, or organizations thereof (as authorized by section 72a(i) of this title and Senate Resolution 140, agreed to May 14, 1975); and
+&emsp;(5) to procure the services of individual consultants, or organizations thereof (as authorized by section 72a(i) of this title and Senate Resolution 140, agreed to May 14, 1975, except that any approval (and related reporting requirement) shall not apply); and
 
 &emsp;(6) to provide for the training of the professional staff of such committee (under procedures specified by section 72a(j) of this title).
 
@@ -22,7 +22,7 @@ The Committee on Appropriations is authorized in its discretion—
 
 This section shall be effective on and after October 1, 1998, or the date of enactment of this Act \[October 21, 1998\], whichever is later.
 
-(Pub. L. 105–275, title I, §10, Oct. 21, 1998, 112 Stat. 2435.)
+(Pub. L. 105–275, title I, §10, Oct. 21, 1998, 112 Stat. 2435; Pub. L. 109–55, title I, §6, Aug. 2, 2005, 119 Stat. 568.)
 
 #### References in Text
 
@@ -33,4 +33,8 @@ Senate Resolution 140, agreed to May 14, 1975, referred to in subsec. (a)(5), is
 Section is comprised of section 10 of Pub. L. 105–275. Subsec. (b) of section 10 of Pub. L. 105–275 amended section 4 of Senate Resolution 54, 105th Congress, which is not classified to the Code.
 
 Section is from the Congressional Operations Appropriations Act, 1999, which is title I of the Legislative Branch Appropriations Act, 1999.
+
+#### Amendments
+
+2005—Subsec. (a)(5). Pub. L. 109–55 inserted “, except that any approval (and related reporting requirement) shall not apply” after “May 14, 1975”.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the term “flood” shall have such meaning as may be prescribed in regulations of the Director, and may include inundation from rising waters or from the overflow of streams, rivers, or other bodies of water, or from tidal surges, abnormally high tidal water, tidal waves, tsunamis, hurricanes, or other severe storms or deluge;
 
-&emsp;(2) the terms “United States” (when used in a geographic sense) and “State” includes the several States, the District of Columbia, the territories and possessions, the Commonwealth of Puerto Rico, and the Trust Territory of the Pacific Islands;
+&emsp;(2) the terms “United States” (when used in a geographic sense) and “State” includes theseveral States, the District of Columbia, the territories and possessions, the Commonwealth of Puerto Rico, and the Trust Territory of the Pacific Islands;
 
 &emsp;(3) the terms “Insurance company”, “other insurer” and “insurance agent or broker” include any organizations and persons authorized to engage in the insurance business under the laws of any State;
 

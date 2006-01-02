@@ -68,7 +68,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 511(d)(2)(A) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 511(e) of Pub. L. 99–514, set out as a note under section 163 of this title.
 
-Amendment by section 631(e)(14) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(14) of Pub. L. 99–514 applicable to any distribution in complete liquidation,and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 #### Effective Date of 1980 Amendments
 
@@ -79,10 +79,6 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 #### Effective Date
 
 Section effective with respect to grants made under the programs after Sept. 30, 1979, see section 543(d) of Pub. L. 95–600, set out as a note under section 126 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 126 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

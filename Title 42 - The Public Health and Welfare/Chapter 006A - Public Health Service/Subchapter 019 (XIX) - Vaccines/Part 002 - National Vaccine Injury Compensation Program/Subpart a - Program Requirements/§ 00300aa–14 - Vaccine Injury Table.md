@@ -58,7 +58,7 @@ The following qualifications and aids to interpretation shall apply to the Vacci
 
 &emsp;(B) 180 days after the date of the referral to the Commission,
 
-> whichever occurs first, the Secretary shall conduct a rulemaking proceeding on the matters proposed in the petition or publish in the Federal Register a statement of reasons for not conducting such proceeding.
+> whichever occurs first, the Secretary shall conduct a rulemaking proceeding on the mattersproposed in the petition or publish in the Federal Register a statement of reasons for not conducting such proceeding.
 
 (3) A modification of the Vaccine Injury Table under paragraph (1) may add to, or delete from, the list of injuries, disabilities, illnesses, conditions, and deaths for which compensation may be provided or may change the time periods for the first symptom or manifestation of the onset or the significant aggravation of any such injury, disability, illness, condition, or death.
 

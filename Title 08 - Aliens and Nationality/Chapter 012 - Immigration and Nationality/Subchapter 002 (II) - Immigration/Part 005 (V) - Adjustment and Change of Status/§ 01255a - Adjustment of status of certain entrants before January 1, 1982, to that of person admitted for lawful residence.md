@@ -56,7 +56,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(C) has not assisted in the persecution of any person or persons on account of race, religion, nationality, membership in a particular social group, or political opinion, and
 
-&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 App. U.S.C. 451 et seq.\], if the alien is required to be so registered under that Act.
+&emsp;&emsp;(D) is registered or registering under the Military Selective Service Act \[50 App.U.S.C. 451 et seq.\], if the alien is required to be so registered under that Act.
 
 > &emsp;For purposes of this subsection, an alien in the status of a Cuban and Haitian entrant described in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1522 note\] shall be considered to have entered the United States and to be in an unlawful status in the United States.
 
@@ -154,7 +154,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (4) Limitation on access to information
 
-&emsp;Files and records of qualified designated entities relating to an alien's seeking assistanceor information with respect to filing an application under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien.
+&emsp;Files and records of qualified designated entities relating to an alien's seeking assistance or information with respect to filing an application under this section are confidential and the Attorney General and the Service shall not have access to such files or records relating to an alien without the consent of the alien.
 
 #### (5) Confidentiality of information
 
@@ -202,7 +202,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Use of fees
 
-&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal year limitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
+&emsp;&emsp;The Attorney General shall deposit payments received under this paragraph in a separate account and amounts in such account shall be available, without fiscal yearlimitation, to cover administrative and other expenses incurred in connection with the review of applications filed under this section.
 
 #### (C) Immigration-related unfair employment practices
 
@@ -276,7 +276,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) No review for late filings
 
-&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State or reviewed in any administrative proceeding of the United States Government.
+&emsp;No denial of adjustment of status under this section based on a late filing of an application for such adjustment may be reviewed by a court of the United States or of any State orreviewed in any administrative proceeding of the United States Government.
 
 #### (3) Administrative review
 
@@ -352,7 +352,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) except as provided in paragraphs (2) and (3), the alien is not eligible for—
 
-&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departments and agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
+&emsp;&emsp;&emsp;(i) any program of financial assistance furnished under Federal law (whether through grant, loan, guarantee, or otherwise) on the basis of financial need, as such programs are identified by the Attorney General in consultation with other appropriate heads of the various departmentsand agencies of Government (but in any event including the State program of assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]),
 
 &emsp;&emsp;&emsp;(ii) medical assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], and
 
@@ -368,7 +368,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(A) to a Cuban and Haitian entrant (as defined in paragraph (1) or (2)(A) of section 501(e) of Public Law 96–422 \[8 U.S.C. 1255 note\], as in effect on April 1, 1983), or
 
-&emsp;&emsp;(B) in the case of assistance (other than assistance under a State program funded underpart A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]) which is furnished to an alien who is an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(1)\]).
+&emsp;&emsp;(B) in the case of assistance (other than assistance under a State program funded under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\]) which is furnished to an alien who is an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(1)\]).
 
 #### (3) Restricted medicaid benefits
 
@@ -436,7 +436,7 @@ Beginning not later than the date designated by the Attorney General under subse
 
 The Military Selective Service Act, referred to in subsec. (a)(4)(D), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see note set out under section 451 of Title 50, Appendix, and Tables.
 
-Public Law 96–422, referred to in subsecs. (a) and (h)(2)(A), (5), is Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799,as amended, which is known as the Refugee Education Assistance Act of 1980, and is set out as a note under section 1522 of this title.
+Public Law 96–422, referred to in subsecs. (a) and (h)(2)(A), (5), is Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended, which is known as the Refugee Education Assistance Act of 1980, and is set out as a note under section 1522 of this title.
 
 Public Law 89–732, referred to in subsec. (c)(2)(B), is Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended, which is set out as a note under section 1255 of this title.
 
@@ -670,7 +670,7 @@ Adjustment of Status.—The status of any alien who is a national of a foreign c
 
 &emsp;“(1) applies for such adjustment within two years after the date of the enactment of this Act \[Dec. 22, 1987\];
 
-&emsp;“(2) establishes that (A) the alien entered the United States before July 21, 1984, and (B) has residedcontinuously in the United States since such date and through the date of the enactment of this Act;
+&emsp;“(2) establishes that (A) the alien entered the United States before July 21, 1984, and (B) has resided continuously in the United States since such date and through the date of the enactment of this Act;
 
 &emsp;“(3) establishes continuous physical presence in the United States (other than brief, casual, and innocent absences) since the date of the enactment of this Act;
 

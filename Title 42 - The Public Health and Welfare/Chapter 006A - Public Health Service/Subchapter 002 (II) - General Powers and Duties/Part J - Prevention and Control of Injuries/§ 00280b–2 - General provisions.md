@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Biennial report
 
-Not later than February 1 of 1995 and of every second year thereafter, the Secretary, actingthrough the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
+Not later than February 1 of 1995 and of every second year thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
 
 (July 1, 1944, ch. 373, title III, §394, formerly §393, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(c), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §312(d)(5), Oct. 27, 1992, 106 Stat. 3504; renumbered §394 and amended Pub. L. 103–183, title II, §§201(1), 202, Dec. 14, 1993, 107 Stat. 2231, 2232.)
 
@@ -24,7 +24,7 @@ A prior section 394 of act July 1, 1944, was renumbered section 394A and is clas
 
 1993—Pub. L. 103–183, §202, amended section generally. Prior to amendment, section read as follows: “By not later than September 30, 1992, the Secretary, through the Director of the Centers for Disease Control and Prevention, shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities conducted or supported under this part. The report shall include—
 
-&emsp;“(1) information regarding the practical applications of research conducted pursuant to subsection (a) of section 280b of this title, including information that has not been disseminated under subsection (b) of such section; and
+&emsp;“(1) information regarding the practical applications of research conducted pursuant to subsection (a) of section 280b of this title, including informationthat has not been disseminated under subsection (b) of such section; and
 
 &emsp;“(2) information on such activities regarding the prevention and control of injuries in rural areas, including information regarding injuries that are particular to rural areas.”
 

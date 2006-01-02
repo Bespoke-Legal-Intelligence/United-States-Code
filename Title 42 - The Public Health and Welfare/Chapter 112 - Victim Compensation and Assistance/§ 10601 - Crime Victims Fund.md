@@ -32,7 +32,11 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 &emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18; and
 
-&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals.
+&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
+
+&emsp;&emsp;(A) attaches conditions inconsistent with applicable laws or regulations; or
+
+&emsp;&emsp;(B) is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.
 
 #### (c) Retention of sums in Fund; availability for expenditure without fiscal year limitation
 
@@ -60,7 +64,7 @@ The Fund shall be available as follows:
 
 &emsp;&emsp;(C) 5 percent shall be available for grants under section 10603(c) of this title.
 
-&emsp;(5)(A) In addition to the amounts distributed under paragraphs (2), (3), and (4), the Director may set aside up to $50,000,000 from the amounts transferred to the Fund in response to the airplane hijackings and terrorist acts that occurred on September 11, 2001, as an antiterrorism emergency reserve. The Director may replenish any amounts expended from such reserve in subsequent fiscal years by setting aside up to 5 percent of the amounts remaining in the Fund in any fiscal year after distributing amounts under paragraphs (2), (3) and (4). Such reserve shall not exceed $50,000,000.
+&emsp;(5)(A) In addition to the amounts distributed under paragraphs (2), (3), and (4), the Director may set aside up to $50,000,000 from the amounts transferred to the Fund in response to the airplane hijackings and terrorist acts that occurred on September 11, 2001, as an antiterrorism emergency reserve. The Director may replenish any amounts obligated from such reserve in subsequent fiscal years by setting aside up to 5 percent of the amounts remaining in the Fund in any fiscal year after distributing amounts under paragraphs (2), (3) and (4). Such reserve shall not exceed $50,000,000.
 
 &emsp;(B) The antiterrorism emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title and to provide compensation to victims of international terrorism under section 10603c of this title.
 
@@ -82,15 +86,17 @@ As used in this section, the term “offenses against the United States” does 
 
 #### (g) Grants for Indian tribes; child abuse cases
 
-(1) The Attorney General, acting through the Director, shall use 15 percent of the funds available under subsection (d)(2) of this section to make grants for the purpose of assisting Native American Indian tribes in developing, establishing, and operating programs designed to improve—
+(1) The Attorney General shall use 15 percent of the funds available under subsection (d)(2) of this section to make grants for the purpose of assisting Native American Indian tribes in developing, establishing, and operating programs designed to improve—
 
 &emsp;(A) the handling of child abuse cases, particularly cases of child sexual abuse, in a manner which limits additional trauma to the child victim; and
 
 &emsp;(B) the investigation and prosecution of cases of child abuse, particularly child sexual abuse.
 
-(2) As used in this subsection, the term “tribe” <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
+(2) The Attorney General may use 5 percent of the funds available under subsection (d)(2) of this section (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; amended Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765.)
+(3) As used in this subsection, the term “tribe” <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
+
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2),Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107.)
 
 #### References in Text
 
@@ -104,9 +110,17 @@ Section 619 of the Departments of Commerce, Justice, and State, the Judiciary, a
 
 The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classified generally to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
 
-Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
+Section 450b of title 25, referred to in subsec. (g)(3), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+2006—Subsec. (b)(5). Pub. L. 109–162, §1132(1), struck out period at end and inserted “, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—” and subpars. (A) and (B).
+
+Subsec. (d)(5)(A). Pub. L. 109–162, §1132(2), substituted “obligated” for “expended”.
+
+Subsec. (g)(1). Pub. L. 109–162, §1132(3)(A), struck out “, acting through the Director,” after “Attorney General”.
+
+Subsec. (g)(2), (3). Pub. L. 109–162, §1132(3)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
 2001—Subsec. (b)(5). Pub. L. 107–56, §621(a), added par. (5).
 
@@ -140,7 +154,7 @@ Subsec. (d)(5)(B). Pub. L. 106–386, §2003(c)(2), inserted “, to provide co
 
 Subsec. (e). Pub. L. 106–386, §2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) of this section at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
 
-1999—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
+1999—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5),respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
 
 1997—Subsec. (d)(1). Pub. L. 105–119, §109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
 
@@ -284,7 +298,7 @@ Section 1401 of chapter XIV (§§1401–1411) of title II of Pub. L. 98–473 pr
 
 #### Victims of September 11, 2001
 
-Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided that: “Amounts transferred to the CrimeVictims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding—
+Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided that: “Amounts transferred to the Crime Victims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding—
 
 &emsp;“(1) section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 \[section 1(a)(2) \[title VI, §619\] of Pub. L. 106–553, formerly set out as a note below\], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 \[see Pub. L. 107–77, title VI, §619, Nov. 28, 2001, 115 Stat. 802, set out as a note below\]; and
 
@@ -292,9 +306,11 @@ Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided tha
 
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 108–447, div. B, title VI, §616, Dec. 8, 2004, 118 Stat. 2915, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $625,000,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 109–108, title VI, §612, Nov. 22, 2005, 119 Stat. 2336, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $625,000,000 shall not be available for obligation until the following fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. B, title VI, §616, Dec. 8, 2004, 118 Stat. 2915.
 
 Pub. L. 108–199, div. B, title VI, §618, Jan. 23, 2004, 118 Stat. 95.
 

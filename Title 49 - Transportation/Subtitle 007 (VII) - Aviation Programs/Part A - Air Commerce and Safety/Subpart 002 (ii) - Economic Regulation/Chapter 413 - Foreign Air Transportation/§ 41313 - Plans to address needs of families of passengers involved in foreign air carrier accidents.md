@@ -50,11 +50,11 @@ Consultation regarding disposition of remains and effects.—An assurance that t
 
 &emsp;(6)
 
-Return of possessions.—An assurance that, if requested by the family of a passenger, any possession (regardless of its condition) of that passenger that is within the control of the foreign air carrier will be returned to the family unless the possession is needed for the accident investigation or a criminal investigation.
+Return of possessions.—An assurance that, if requested by the family of a passenger, any possession (regardless of its condition) of that passenger that is within the control of the foreign air carrier will be returned to thefamily unless the possession is needed for the accident investigation or a criminal investigation.
 
 &emsp;(7)
 
-Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign aircarrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
+Unclaimed possessions retained.—An assurance that any unclaimed possession of a passenger within the control of the foreign air carrier will be retained by the foreign air carrier for not less than 18 months after the date of the accident.
 
 &emsp;(8)
 

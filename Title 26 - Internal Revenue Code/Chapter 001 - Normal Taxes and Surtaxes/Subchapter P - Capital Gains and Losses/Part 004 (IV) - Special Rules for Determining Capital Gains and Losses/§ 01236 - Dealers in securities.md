@@ -72,7 +72,3 @@ Amendment by Pub. L. 97–34 applicable to property acquired by the taxpayer aft
 
 Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 475, 512, 1058, 1233 of this title.
-

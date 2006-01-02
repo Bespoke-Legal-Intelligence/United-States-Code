@@ -24,7 +24,3 @@ The source law provided that leases of lands of the United States within the nav
 
 1976—Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1601.
-

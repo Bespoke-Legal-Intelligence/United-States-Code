@@ -146,7 +146,7 @@
 
 #### (d) Rule of construction
 
-Nothing in this section shall be construed to prohibit the use of funds under this subpart byany local educational agency or school for the establishment or implementation of a school uniform policy if such policy is part of the overall comprehensive drug and violence prevention plan of the State involved and is supported by the State's needs assessment and other scientifically based research information.
+Nothing in this section shall be construed to prohibit the use of funds under this subpart by any local educational agency or school for the establishment or implementation of a school uniform policy if such policy is part of the overall comprehensive drug and violence prevention plan of the State involved and is supported by the State's needs assessment and other scientifically based research information.
 
 (Pub. L. 89–10, title IV, §4115, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1745.)
 

@@ -6,7 +6,7 @@
 
 (c) The Administrator shall carry out duties and powers prescribed by the Secretary.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2417; Pub. L. 102–240, title III, §3004(c)(1), (2), Dec. 18, 1991, 105 Stat. 2088.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 102–240, title III, §3004(c)(1), (2), Dec. 18, 1991, 105 Stat. 2088.)
 
 Historical and Revision Notes
 

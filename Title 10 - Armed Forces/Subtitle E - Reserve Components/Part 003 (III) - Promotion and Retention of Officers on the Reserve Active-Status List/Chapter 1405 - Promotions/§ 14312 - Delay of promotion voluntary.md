@@ -26,7 +26,3 @@ Effect of Declining a Promotion.—An officer's name shall be removed from the p
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2941.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14308, 14309 of this title.
-

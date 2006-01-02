@@ -26,7 +26,7 @@ This subchapter does not—
 
 &emsp;&emsp;(B) the consumer, prior to consenting, is provided with a clear and conspicuous statement—
 
-&emsp;&emsp;&emsp;(i) informing the consumer of (I) any right or option of the consumer to have the record provided or made available on paper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties’ relationship), or fees in the event of such withdrawal;
+&emsp;&emsp;&emsp;(i) informing the consumer of (I) any right or option of the consumer to have the record provided or made available onpaper or in nonelectronic form, and (II) the right of the consumer to withdraw the consent to have the record provided or made available in an electronic form and of any conditions, consequences (which may include termination of the parties’ relationship), or fees in the event of such withdrawal;
 
 &emsp;&emsp;&emsp;(ii) informing the consumer of whether the consent applies (I) only to the particular transaction which gave rise to the obligation to provide the record, or (II) to identified categories of records that may be provided or made available during the course of the parties’ relationship;
 
@@ -88,7 +88,7 @@ This subchapter does not—
 
 #### (3) Originals
 
-&emsp;If a statute, regulation, or other rule of law requires a contract or other record relating to a transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).
+&emsp;If a statute, regulation, or other rule of law requires a contract or other record relating toa transaction in or affecting interstate or foreign commerce to be provided, available, or retained in its original form, or provides consequences if the contract or other record is not provided, available, or retained in its original form, that statute, regulation, or rule of law is satisfied by an electronic record that complies with paragraph (1).
 
 #### (4) Checks
 
@@ -128,7 +128,7 @@ An insurance agent or broker acting under the direction of a party that enters i
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act”, meaning Pub. L. 106–229, June30, 2000, 114 Stat. 464, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act”, meaning Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c)(5), see Effective Date note below.
 

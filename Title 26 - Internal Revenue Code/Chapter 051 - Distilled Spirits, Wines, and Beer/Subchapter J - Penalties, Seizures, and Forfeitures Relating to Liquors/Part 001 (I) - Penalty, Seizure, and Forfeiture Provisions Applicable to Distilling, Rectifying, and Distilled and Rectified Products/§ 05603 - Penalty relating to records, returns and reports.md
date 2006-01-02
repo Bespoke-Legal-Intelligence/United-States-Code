@@ -40,7 +40,3 @@ A prior section 5603, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to pena
 
 Provisions similar to those comprising this section were contained in prior sections 5610, 5611, 5620, 5621, 5692, act Aug. 16, 1954, ch. 736, 68A Stat. 685 to 687, 703, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5114, 5207, 5505 of this title.
-

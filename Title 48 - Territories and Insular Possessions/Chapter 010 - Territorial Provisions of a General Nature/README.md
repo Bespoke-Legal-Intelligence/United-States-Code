@@ -24,7 +24,7 @@
 | (b) | Congressional declaration of policy. |
 | (c) | Comprehensive energy plan. |
 | (d) | Demonstration of cost effective renewable energy technologies. |
-| (e) | Submission of comprehensive energy plan to Congress. |
+| (e) | Updating of plans; submission to Congress. |
 | (f) | Authorization of appropriations. |
 | (g) | Financial assistance. |
 | [1493\.](%C2%A7%2001493%20-%20Prosecution%3B%20authorization%20to%20seek%20review%3B%20local%20or%20Federal%20appellate%20courts%3B%20decisions%2C%20judgments%20or%20orders.md) | Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders. |

@@ -42,7 +42,7 @@ For the budget year and each outyear, the baseline shall be calculated using the
 
 #### (3) Social insurance administrative expenses
 
-&emsp;Budgetary resources for the administrative expenses of the following trust funds shall be adjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
+&emsp;Budgetary resources for the administrative expenses of the following trust funds shall beadjusted by the percentage change in the beneficiary population from the current year to that fiscal year: the Federal Hospital Insurance Trust Fund, the Supplementary Medical Insurance Trust Fund, the Unemployment Trust Fund, and the railroad retirement account.
 
 #### (4) Pay annualization; offset to pay absorption
 

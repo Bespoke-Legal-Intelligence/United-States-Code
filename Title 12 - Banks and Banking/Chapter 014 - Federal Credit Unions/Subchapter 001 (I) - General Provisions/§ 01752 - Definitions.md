@@ -28,7 +28,7 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 #### Amendments
 
-1982—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
+1982—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loanssold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
 
 1980—Par. (5). Pub. L. 96–221, §§305(a), 307, inserted provisions respecting applicability to share draft accounts substantially similar to provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 

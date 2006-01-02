@@ -6,13 +6,13 @@ Every person, at his election, shall be entitled to a deduction with respect to 
 
 #### (b) Election of amortization
 
-The election of the taxpayer to take the amortization deduction and to begin the 60-month period with the month following the month in which the facility is completed or acquired, or with the taxable year succeeding the taxableyear in which such facility is completed or acquired, shall be made by filing with the Secretary, in such manner, in such form, and within such time, as the Secretary may by regulations prescribe, a statement of such election.
+The election of the taxpayer to take the amortization deduction and to begin the 60-month period with the month following the month in which the facility is completed or acquired, or with the taxable year succeeding the taxable year in which such facility is completed or acquired, shall be made by filing with the Secretary, in such manner, in such form, and within such time, as the Secretary may by regulations prescribe, a statement of such election.
 
 #### (c) Termination of amortization deduction
 
 A taxpayer which has elected under subsection (b) to take the amortization deduction provided in subsection (a) may, at any time after making such election, discontinue the amortization deduction with respect to the remainder of the amortization period, such discontinuance to begin as of the beginning of any month specified by the taxpayer in a notice in writing filed with the Secretary before the beginning of such month. The depreciation deduction provided under section 167 shall be allowed, beginning with the first month as to which the amortization deduction does not apply, and the taxpayer shall not be entitled to any further amortization deduction under this section with respect to such pollution control facility.
 
-#### (d) Definitions
+#### (d) Definitions and special rules
 
 For purposes of this section—
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (3) Federal certifying authority
 
-&emsp;The term “Federal certifying authority” means, in the case of water pollution, the Secretary of the Interior and, in the case of air pollution, the Secretary of Health, Education, and Welfare.
+&emsp;The term “Federal certifying authority” means, in the case of water pollution, the Secretary of the Interior and, in the case of air pollution, the Secretary of Health and Human Services.
 
 #### (4) New identifiable treatment facility
 
@@ -50,9 +50,17 @@ For purposes of this section—
 
 > &emsp;&emsp;In applying this section in the case of property described in clause (i) there shall be taken into account only that portion of the basis which is properly attributable to construction, reconstruction, or erection after December 31, 1968.
 
-#### (B) Certain plants, etc., placed in operation after 1968
+#### (B) Certain facilities placed in operation after April 11, 2005
 
-&emsp;&emsp;In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969, the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.
+&emsp;&emsp;In the case of any facility described in paragraph (1) solely by reason of paragraph (5), subparagraph (A) shall be applied by substituting “April 11, 2005” for “December 31, 1968” each place it appears therein.
+
+#### (5) Special rule relating to certain atmospheric pollution control facilities
+
+&emsp;In the case of any atmospheric pollution control facility which is placed in service after April 11, 2005, and used in connection with anelectric generation plant or other property which is primarily coal fired—
+
+&emsp;&emsp;(A) paragraph (1) shall be applied without regard to the phrase “in operation before January 1, 1976”, and
+
+&emsp;&emsp;(B) in the case of facility <sup>1</sup> placed in service in connection with a plant or other property placed in operation after December 31, 1975, this section shall be applied by substituting “84” for “60” each place it appears in subsections (a) and (b).
 
 #### (e) Profitmaking abatement works, etc.
 
@@ -66,7 +74,7 @@ The Federal certifying authority shall not certify any property under subsection
 
 #### (2) Special rules
 
-&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjustedbasis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
+&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
 
 &emsp;&emsp;(B) The amortizable basis of a certified pollution control facility with respect to which an election under this section is in effect shall not be increased, for purposes of this section, for additions or improvements after the amortization period has begun.
 
@@ -84,7 +92,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>For special rule with respect to certain gain derived from the disposition of property the adjusted basis of which is determined with regard to this section, see section 1245.</b>
 
-(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I, §104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L. 93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906.)
+(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I, §104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L. 93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906; Pub. L. 109–58, title XIII, §1309(a)–(d), Aug. 8, 2005, 119 Stat. 1007; Pub. L. 109–135, title IV, §402(e), Dec. 21, 2005, 119 Stat. 2611.)
 
 #### References in Text
 
@@ -100,6 +108,16 @@ A prior section 169, act Aug. 16, 1954, ch. 736, 68A Stat. 55, related to amorti
 
 #### Amendments
 
+2005—Subsec. (d). Pub. L. 109–58, §1309(c), inserted “and special rules” after “Definitions” in heading.
+
+Subsec. (d)(3). Pub. L. 109–58, §1309(d), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+
+Subsec. (d)(4)(B). Pub. L. 109–58, §1309(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any treatment facility used in connection with any plant or other property not in operation before January 1, 1969, the preceding sentence shall be applied by substituting December 31, 1975, for December 31, 1968.”
+
+Subsec. (d)(5). Pub. L. 109–58, §1309(a), added par. (5).
+
+Subsec. (d)(5)(B). Pub. L. 109–135 inserted “in the case of facility placed in service in connection with a plant or other property placed in operation after December 31, 1975,” before “this section”.
+
 1976—Subsecs. (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 Subsec. (d)(1). Pub. L. 94–455, §§1906(b)(13)(A), 2112(b), substituted in provisions preceding subpar. (A) “January 1, 1976,” for “January 1, 1969,” and “storing, or preventing the creation or emission of” for “or storing”, struck out in subpar. (B) “or his delegate” after “Secretary”, and added subpar. (C).
@@ -109,6 +127,12 @@ Subsec. (d)(4). Pub. L. 94–455, §2112(c), among other changes, struck out pro
 1975—Subsec. (d)(4)(B). Pub. L. 93–625 substituted “January 1, 1976” for “January 1, 1975”.
 
 1971—Subsec. (h). Pub. L. 92–178 struck out provision that investment credit not be allowed. See section 48(a)(8) of this title.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub.L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+
+Pub. L. 109–58, title XIII, §1309(e), Aug. 8, 2005, 119 Stat. 1007, provided that: “The amendments made by this section \[amending this section\] shall apply to facilities placed in service after April 11, 2005.”
 
 #### Effective Date of 1976 Amendment
 
@@ -120,11 +144,7 @@ Section 704(c) of Pub. L. 91–172 provided that: “The amendments made by this
 
 #### Transfer of Functions
 
-Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
-
 Functions vested in Secretary of the Interior and Secretary of Health, Education, and Welfare by subsec. (d)(1)(B), (3) of this section transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3, of 1970, §2(a)(9), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 291, 642, 1082, 1245, 1250 of this title; title 33 sections 1316, 1326.
+<i><sup>1</sup></i><i> So in original. Probably should be “a facility”.</i>
 

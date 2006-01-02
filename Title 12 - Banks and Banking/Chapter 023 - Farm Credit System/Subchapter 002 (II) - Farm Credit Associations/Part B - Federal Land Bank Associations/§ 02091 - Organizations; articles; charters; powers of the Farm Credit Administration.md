@@ -8,7 +8,7 @@ Each Federal land bank association shall continue as a federally chartered instr
 
 #### (1) In general
 
-&emsp;A Federal land bank association may be organized by any group of 10 or more persons desiring to borrow money from a Farm Credit Bank under section 2015(a) of this title, including persons to whom the Farm Credit Bank has made a loan directly or through an agent and has taken as security real estate located in the territory proposed to be served by the association.
+&emsp;A Federal land bank association may be organized by any group of 10 or more persons desiring to borrow money from a Farm Credit Bank under section 2015(a) of this title, including persons to whom the Farm Credit Bank has made a loan directly or through an agent and has taken as security real estate locatedin the territory proposed to be served by the association.
 
 #### (2) Articles of association
 

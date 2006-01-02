@@ -10,7 +10,7 @@ For purposes of this chapter:
 
 (4) The term “firearm” means any weapon which is designed to or may readily be converted to expel any projectile by the action of an explosive; or the frame or receiver of any such weapon.
 
-(5) The term “explosive or incendiary device” means (A) dynamite and all other forms of high explosives, (B) any explosive bomb, grenade, missile, or similar device, and (C) any incendiary bomb or grenade, fire bomb, or similar device, including any device which (i) consists of or includes a breakable container including aflammable liquid or compound, and a wick composed of any material which, when ignited, is capable of igniting such flammable liquid or compound, and (ii) can be carried or thrown by one individual acting alone.
+(5) The term “explosive or incendiary device” means (A) dynamite and all other forms of high explosives, (B) any explosive bomb, grenade, missile, or similar device, and (C) any incendiary bomb or grenade, fire bomb, or similar device, including any device which (i) consists of or includes a breakable container including a flammable liquid or compound, and a wick composed of any material which, when ignited, is capable of igniting such flammable liquid or compound, and (ii) can be carried or thrown by one individual acting alone.
 
 (6) The term “fireman” means any member of a fire department (including a volunteer fire department) of any State, any political subdivision of a State, or the District of Columbia.
 

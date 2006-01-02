@@ -22,7 +22,3 @@ Provisions similar to those comprising subsecs. (a) and (b) of this section were
 
 1976—Subsecs. (a), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5505 of this title.
-

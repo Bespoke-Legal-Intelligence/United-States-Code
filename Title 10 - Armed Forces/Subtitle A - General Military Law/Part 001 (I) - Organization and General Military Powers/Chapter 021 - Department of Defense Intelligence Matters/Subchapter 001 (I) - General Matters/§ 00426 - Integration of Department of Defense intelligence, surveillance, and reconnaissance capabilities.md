@@ -26,6 +26,10 @@ Integration Roadmap.—(1) The Under Secretary of Defense for Intelligence shall
 
 (Added Pub. L. 108–136, div. A, title IX, §923(c)(1), Nov. 24, 2003, 117 Stat. 1575.)
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Integration of Defense Intelligence, Surveillance, and Reconnaissance Capabilities
 
 Pub. L. 108–136, div. A, title IX, §923(a), (b), Nov. 24, 2003, 117 Stat. 1574, 1575, provided that:
@@ -36,7 +40,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(1) As part of transformation efforts within the Department of Defense, each of the Armed Forces is developing intelligence, surveillance, and reconnaissance capabilities that best support future war fighting as envisioned by the leadership of the military department concerned.
 
-&emsp;“(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps to best support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments.
+&emsp;“(2) Concurrently, intelligence agencies of the Department of Defense outside the military departments are developing transformation roadmaps tobest support the future decisionmaking and war fighting needs of their principal customers, but are not always closely coordinating those efforts with the intelligence, surveillance, and reconnaissance development efforts of the military departments.
 
 &emsp;“(3) A senior official of each military department has been designated as the integrator of intelligence, surveillance, and reconnaissance for each of the Armed Forces in such military department, but there is not currently a well-defined forum through which the integrators of intelligence, surveillance, and reconnaissance capabilities for each of the Armed Forces can routinely interact with each other and with senior representatives of Department of Defense intelligence agencies, as well as with other members of the intelligence community, to ensure unity of effort and to preclude unnecessary duplication of effort.
 

@@ -4,7 +4,3 @@ The Secretary of the Treasury shall invest such portion of the Fund as is not in
 
 (Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 648.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1175 of this title.
-

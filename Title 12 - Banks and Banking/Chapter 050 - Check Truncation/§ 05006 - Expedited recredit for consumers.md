@@ -144,7 +144,7 @@ A bank may reverse a recredit to a consumer account if the bank—
 
 #### (2) Notice of recredit
 
-&emsp;If a bank recredits a consumer account under subsection (c), the bank shall send tothe consumer, no later than the business day following the business day on which the bank makes the recredit, a notice of—
+&emsp;If a bank recredits a consumer account under subsection (c), the bank shall send to the consumer, no later than the business day following the business day on which the bank makes the recredit, a notice of—
 
 &emsp;&emsp;(A) the amount of the recredit; and
 

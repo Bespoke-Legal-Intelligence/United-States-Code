@@ -18,7 +18,7 @@
 
 #### (2) Exception
 
-&emsp;It is not a violation of paragraph (1) to take any proper steps for the purpose of securingcancellation of or exemption from such order of removal or for the purpose of securing the alien's release from incarceration or custody.
+&emsp;It is not a violation of paragraph (1) to take any proper steps for the purpose of securing cancellation of or exemption from such order of removal or for the purpose of securing the alien's release from incarceration or custody.
 
 #### (3) Suspension
 
@@ -90,7 +90,7 @@ Subsec. (h)(2). Pub. L. 101–649, §515(a)(2), inserted sentence at end relatin
 
 1981—Subsec. (a). Pub. L. 97–116 inserted a comma after “subject” in fourth sentence.
 
-1980—Subsec. (h). Pub. L. 96–212 substituted provisions relating to deportation or return of an alien where the Attorney General determines that the return would threaten the life or freedom of the alien on account of race, religion, nationality, membership in a particular social group, or political opinion, for provisions relating to withholding of deportation for anynecessary period of time where the Attorney General decides the alien would be subject to persecution on account of race, religion, or political opinion.
+1980—Subsec. (h). Pub. L. 96–212 substituted provisions relating to deportation or return of an alien where the Attorney General determines that the return would threaten the life or freedom of the alien on account of race, religion, nationality, membership in a particular social group, or political opinion, for provisions relating to withholding of deportation for any necessary period of time where the Attorney General decides the alien would be subject to persecution on account of race, religion, or political opinion.
 
 1978—Subsec. (h). Pub. L. 95–549 inserted “(other than an alien described in section 1251(a) of this title)” before “within the United States”.
 

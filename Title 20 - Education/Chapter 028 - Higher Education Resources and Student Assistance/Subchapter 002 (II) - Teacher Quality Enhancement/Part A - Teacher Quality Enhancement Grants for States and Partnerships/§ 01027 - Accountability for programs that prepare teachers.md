@@ -24,7 +24,7 @@ Each State that receives funds under this chapter shall provide to the Secretary
 
 &emsp;(8) For each State, a description of proposed criteria for assessing the performance of teacher preparation programs within institutions of higher education in the State, including indicators of teacher candidate knowledge and skills.
 
-&emsp;(9) Information on the extent to which teachers or prospective teachers in each State are required to take examinations or other assessments of their subject matter knowledge in the area or areas in which the teachers provide instruction, the standards established for passing any such assessments, and the extent to which teachers or prospective teachers arerequired to receive a passing score on such assessments in order to teach in specific subject areas or grade levels.
+&emsp;(9) Information on the extent to which teachers or prospective teachers in each State are required to take examinations or other assessments of their subject matter knowledge in the area or areas in which the teachers provide instruction, the standards established for passing any such assessments, and the extent to which teachers or prospective teachers are required to receive a passing score on such assessments in order to teach in specific subject areas or grade levels.
 
 #### (c) Initial report
 

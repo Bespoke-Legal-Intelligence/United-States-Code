@@ -6,7 +6,7 @@ It is the sense of the Congress that the President should instruct the United St
 
 #### (b) Prohibition
 
-Notwithstanding any other provision of law, no United States assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be provided to any non-nuclear weapon state that is found by the President to have terminated, abrogated, or materially violated an IAEA full-scope safeguard agreement or materially violated a bilateral United States nuclear cooperation agreement entered into after March 10, 1978.
+Notwithstanding any other provision of law, no United States assistance under the ForeignAssistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be provided to any non-nuclear weapon state that is found by the President to have terminated, abrogated, or materially violated an IAEA full-scope safeguard agreement or materially violated a bilateral United States nuclear cooperation agreement entered into after March 10, 1978.
 
 #### (c) Waiver
 
@@ -20,7 +20,7 @@ The President may waive the application of subsection (b) of this section if—
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). For complete classification of this Actto the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 

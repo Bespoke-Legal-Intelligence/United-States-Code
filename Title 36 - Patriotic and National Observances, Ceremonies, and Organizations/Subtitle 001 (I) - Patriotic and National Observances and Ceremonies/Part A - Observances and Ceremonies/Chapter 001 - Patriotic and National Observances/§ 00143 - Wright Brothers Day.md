@@ -102,7 +102,7 @@ Compensation.—
 
 &emsp;“(1) Prohibition of pay.—Except as provided in paragraph (2), members of the Commission shall serve without pay or compensation.
 
-&emsp;“(2) Travel expenses.—The Commission may adopt a policy, only by unanimous vote, for members of the Commission and related advisory panels to receive travel expenses, including per diem in lieu of subsistence. The policy may not exceed the levels established under sections 5702 and 5703 of title 5, United States Code. Members who are Federal employees shall not receive travel expenses if otherwise reimbursed by the Federal Government.
+&emsp;“(2) Travel expenses.—The Commission may adopt a policy, only by unanimous vote, for members of the Commission and related advisory panels to receivetravel expenses, including per diem in lieu of subsistence. The policy may not exceed the levels established under sections 5702 and 5703 of title 5, United States Code. Members who are Federal employees shall not receive travel expenses if otherwise reimbursed by the Federal Government.
 
 “(e)
 
@@ -196,7 +196,7 @@ Advisory Committees and Task Forces.—
 
 &emsp;“(2) Federal cooperation.—The head of a Federal department or agency, where appropriate, shall furnish information or assistance requested by the Commission, unless prohibited by law.
 
-&emsp;“(3) Prohibition of pay other than travel expenses.—Members of an advisory committee or taskforce authorized under paragraph (1) shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(d)(2).
+&emsp;“(3) Prohibition of pay other than travel expenses.—Members of an advisory committee or task force authorized under paragraph (1) shall not receive pay, but may receive travel expenses pursuant to the policy adopted by the Commission under section 4(d)(2).
 
 “(b)
 
@@ -444,7 +444,7 @@ Prohibition of Compensation Other Than Travel Expenses.—Members of the Advisor
 
 &emsp;“(3) The term ‘Commission’ means the Centennial of Flight Commission.
 
-&emsp;“(4) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustainedflights by a power-driven, heavier-than-air machine, which were accomplished by Orville and Wilbur Wright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
+&emsp;“(4) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustained flights by a power-driven, heavier-than-air machine, which were accomplished by Orville and Wilbur Wright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
 
 #### “SEC. 14. TERMINATION.
 

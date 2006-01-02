@@ -6,7 +6,7 @@ Time for Dissemination.—The names of the officers recommended for promotion in
 
 &emsp;(1) In the case of officers recommended for promotion to a grade below brigadier general or rear admiral (lower half), such names may be disseminated upon, or at any time after, the transmittal of the report to the President.
 
-&emsp;(2) In the case of officers recommended for promotion to a grade above colonel or, in thecase of the Navy, captain, such names may be disseminated upon, or at any time after, the approval of the report by the President.
+&emsp;(2) In the case of officers recommended for promotion to a grade above colonel or, in the case of the Navy, captain, such names may be disseminated upon, or at any time after, the approval of the report by the President.
 
 &emsp;(3) In the case of officers whose names have not been sooner disseminated, such names shall be promptly disseminated—
 
@@ -30,5 +30,5 @@ Provisions similar to those in this section were contained in section 5898(d) of
 
 #### Amendments
 
-2000—Pub. L. 106–398 amended text generally. Prior to amendment, text read as follows: “Upon approval by the President of the report of a promotion board, the names of the officers recommended for promotion by the promotion board (other than any name removed by the President) may be disseminated to the armed force concerned. If those names have not been sooner disseminated, those names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.”
+2000—Pub. L. 106–398 amended text generally. Prior to amendment, text read as follows: “Upon approval by the President of the report of a promotion board, thenames of the officers recommended for promotion by the promotion board (other than any name removed by the President) may be disseminated to the armed force concerned. If those names have not been sooner disseminated, those names (other than the name of any officer whose promotion the Senate failed to confirm) shall be promptly disseminated to the armed force concerned upon confirmation by the Senate.”
 

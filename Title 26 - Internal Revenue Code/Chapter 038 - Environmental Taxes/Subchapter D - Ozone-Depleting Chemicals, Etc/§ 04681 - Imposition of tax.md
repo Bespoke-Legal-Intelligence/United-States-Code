@@ -28,7 +28,7 @@ There is hereby imposed a tax on—
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the tax imposed by subsection (a) on any imported taxable product shall be the amount of tax which would have been imposed by subsection (a) on the ozone-depleting chemicals used as materials in the manufacture or production of such product if such ozone-depleting chemicals had been sold in the United States on the date of the sale of such imported taxable product.
+&emsp;&emsp;The amount of the tax imposed by subsection (a) on any imported taxable productshall be the amount of tax which would have been imposed by subsection (a) on the ozone-depleting chemicals used as materials in the manufacture or production of such product if such ozone-depleting chemicals had been sold in the United States on the date of the sale of such imported taxable product.
 
 #### (B) Certain rules to apply
 
@@ -97,8 +97,4 @@ No deposits required before april 1, 1990.—No deposit of any tax imposed by su
 “(3)
 
 Notification of changes in international agreements.—The Secretary of the Treasury or his delegate shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of changes in the Montreal Protocol and of other international agreements to which the United States is a signatory relating to ozone-depleting chemicals.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4682 of this title.
 

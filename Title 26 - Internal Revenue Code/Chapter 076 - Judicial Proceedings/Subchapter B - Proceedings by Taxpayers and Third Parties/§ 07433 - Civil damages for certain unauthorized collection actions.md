@@ -78,15 +78,11 @@ Requirement that administrative remedies be exhausted.—A judgment for damages 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 applicable to actions of officers or employees of Internal Revenue Serviceafter July 22, 1998, see section 3102(d) of Pub. L. 105–206, set out as a note under section 7426 of this title.
+Amendment by Pub. L. 105–206 applicable to actions of officers or employees of Internal Revenue Service after July 22, 1998, see section 3102(d) of Pub. L. 105–206, set out as a note under section 7426 of this title.
 
 #### Effective Date of 1996 Amendment
 
 Section 801(b) of Pub. L. 104–168 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act \[July 30, 1996\].”
 
 Section 802(b) of Pub. L. 104–168 provided that: “The amendment made by this section \[amending this section\] shall apply in the case of proceedings commenced after the date of the enactment of this Act \[July 30, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6304, 6335, 6673, 7426 of this title.
 

@@ -8,7 +8,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### (1) In general
 
-&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for 2 or more of the activities or programs set forth in paragraph (2), except that the State may include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A)through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
+&emsp;A State may develop and submit to the appropriate Secretaries a State unified plan for 2 or more of the activities or programs set forth in paragraph (2), except that the State may include in the plan the activities described in paragraph (2)(A) only with the prior approval of the legislature of the State. The State unified plan shall cover one or more of the activities set forth in subparagraphs (A) through (D) of paragraph (2) and may cover one or more of the activities set forth in subparagraphs (E) through (O) of paragraph (2). For purposes of this paragraph, the activities and programs described in subparagraphs (A) and (B) of paragraph (2) shall not be considered to be 2 or more activities or programs for purposes of the unified plan. Such activities or programs shall be considered to be 1 activity or program.
 
 #### (2) Activities
 
@@ -82,7 +82,7 @@ In this section, the term “appropriate Secretary” means the head of the Fede
 
 #### References in Text
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(2)(A), (B) and (d)(2)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title prior to beingamended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsecs. (b)(2)(A), (B) and (d)(2)(B), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 Title I, referred to in subsec. (b)(2)(C), is title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of title I to the Code, see Tables.
 

@@ -56,7 +56,3 @@ Amendment by Pub. L. 101–239 applicable to returns the due date for which (det
 
 Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1503(e) of Pub. L. 99–514, set out as a note under section 6653 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6229, 6231 of this title.
-

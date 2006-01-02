@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Qualified payment
 
-&emsp;The term “qualified payment” means any money or property which is transferred to any designated settlement fund pursuant to a court order, other than—
+&emsp;The term “qualified payment” means any money or property which is transferred to anydesignated settlement fund pursuant to a court order, other than—
 
 &emsp;&emsp;(A) any amount which may be transferred from the fund to the taxpayer (or any related person), or
 

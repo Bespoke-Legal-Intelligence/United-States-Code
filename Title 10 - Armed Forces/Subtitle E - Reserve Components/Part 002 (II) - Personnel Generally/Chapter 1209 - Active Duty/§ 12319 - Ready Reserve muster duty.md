@@ -20,7 +20,3 @@ Subsec. (d). Pub. L. 103–337, §1675(c)(10), substituted “1223” for “67�
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 433.
-

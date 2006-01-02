@@ -42,7 +42,73 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 1997—Subsec. (e)(1). Pub. L. 105–85 substituted “section 115a(e)(2)” for “section 115a(g)(2)”.
 
+#### Prohibition on Conversions of Military Medical and Dental Positions to Civilian Medical Positions Until Submission of Certification
+
+Pub. L. 109–163, div. A, title VII, §744, Jan. 6, 2006, 119 Stat. 3360, provided that:
+
+“(a)
+
+Prohibition on Conversions.—
+
+&emsp;“(1)
+
+Submission of certification.—A Secretary of a military department may not convert any military medical or dental position to a civilian medical or dental position until the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a certification that the conversions within that department will not increase cost or decrease quality of care or access to care. Such a certification may not be submitted before June 1, 2006.
+
+&emsp;“(2)
+
+Report with certification.—A Secretary submitting such a certification shall include with the certification a written report that includes—
+
+&emsp;&emsp;“(A) the methodology used by the Secretary in making the determinations necessary for the certification, including the extent to which the Secretary took into consideration the findings of the Comptroller General in the report under subsection (b)(3);
+
+&emsp;&emsp;“(B) the results of a market survey in each affected area of the availability of civilian medical and dental care providers in such area in order to determine whether the civilian medical and dental care providers available in such area are adequate to fill the civilian positions created by the conversion of military medical and dental positions to civilian positions in such area; and
+
+&emsp;&emsp;“(C) any action taken by the Secretary in response to recommendations in the Comptroller General report under subsection (b)(3).
+
+“(b)
+
+Requirement for Study.—
+
+&emsp;“(1)
+
+In general.—The Comptroller General shall conduct a study on the effect of conversions of military medical and dental positions to civilian medical or dental positions on the defense health program.
+
+&emsp;“(2)
+
+Matters covered.—The study shall include the following:
+
+&emsp;&emsp;“(A) The number of military medical and dental positions, by grade and specialty, planned for conversion to civilian medical or dental positions.
+
+&emsp;&emsp;“(B) The number of military medical and dental positions, by grade and specialty, converted to civilian medical or dental positions since October 1, 2004.
+
+&emsp;&emsp;“(C) The ability of the military health care system to fill the civilian medical and dental positions required, by specialty.
+
+&emsp;&emsp;“(D) The degree to which access to health care is affected in both the direct and purchased care system, including an assessment of the effects of any increased shifts in patient load from the direct care to the purchased care system, or any delays in receipt of care in either the direct or purchased care system because of lack of direct care providers.
+
+&emsp;&emsp;“(E) The degree to which changes in military manpower requirements affect recruiting and retention of uniformed medical and dental personnel.
+
+&emsp;&emsp;“(F) The degree to which conversion of the military positions meets the joint medical and dental readiness requirements of the uniformed services, as determined jointly by all the uniformed services.
+
+&emsp;&emsp;“(G) The effect of the conversions of military medical positions to civilian medical and dental positions on the defense health program, including costs associated with the conversions, with a comparison of the estimated costs versus the actual costs incurred by the number of conversions since October 1, 2004.
+
+&emsp;&emsp;“(H) The effectiveness of the conversions in enhancing medical and dental readiness, health care efficiency, productivity, quality, and customer satisfaction.
+
+&emsp;“(3)
+
+Report on study.—Not later than May 1, 2006, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the results of the study under this section.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘military medical or dental position’ means a position for the performance of health care functions within the Armed Forces held by a member of the Armed Forces.
+
+&emsp;“(2) The term ‘civilian medical or dental position’ means a position for the performance of health care functions within the Department of Defense held by an employee of the Department or of a contractor of the Department.
+
+&emsp;“(3) The term ‘affected area’ means an area in which military medical or dental positions were converted to civilian medical or dental positions before October 1, 2004, or in which such conversions are scheduled to occur in the future.
+
+&emsp;“(4) The term ‘uniformed services’ has the meaning given that term in section 1072(1) of title 10, United States Code.”
+
 #### Special Transition Rule for Fiscal Year 1996
 
-Section 564(b) of Pub. L. 104–106 provided that: “For purposes of applying subsection (b)(1) of section 129c oftitle 10, United States Code, as added by subsection (a), during fiscal year 1996, the number against which the percentage limitation of 95 percent is computed shall be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994 (rather than the number as of the end of fiscal year 1995).”
+Section 564(b) of Pub. L. 104–106 provided that: “For purposes of applying subsection (b)(1) of section 129c of title 10, United States Code, as added by subsection (a), during fiscal year 1996, the number against which the percentage limitation of 95 percent is computed shall be the number of medical personnel of the Department of Defense as of the end of fiscal year 1994 (rather than the number as of the end of fiscal year 1995).”
 

@@ -10,7 +10,7 @@ Except as otherwise provided in subsection (b) of this section, any person may c
 
 &emsp;(3) the Secretary in any case in which there is an alleged failure of the Secretary to comply with a nondiscretionary duty to issue a proposed or final rule according to the schedules set forth in section 6295 of this title.
 
-> The United States district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such provision or rule, or order such Federal agency to perform such act or duty, as the case may be. The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the court shall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product.
+> The United States district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such provision or rule, or order such Federal agency to perform such act or duty, as the case may be. The courts shall advance on the docket, and expedite the disposition of, all causes filed therein pursuant to paragraph (3) of this subsection. If the court finds that the Secretary has failed to comply with a deadline established in section 6295 of this title, the courtshall have jurisdiction to order appropriate relief, including relief that will ensure the Secretary's compliance with future deadlines for the same covered product.
 
 #### (b) Limitation
 
@@ -42,7 +42,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 For purposes of this section, if a manufacturer or private labeler complied in good faith with a rule under this part, then he shall not be deemed to have violated any provision of this part by reason of the alleged invalidity of such rule.
 
-(Pub. L. 94–163, title III, §335, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §425(f), titleVI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3288; Pub. L. 100–12, §§8, 11(b)(7), Mar. 17, 1987, 101 Stat. 122, 126.)
+(Pub. L. 94–163, title III, §335, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §425(f), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3288; Pub. L. 100–12, §§8, 11(b)(7), Mar. 17, 1987, 101 Stat. 122, 126.)
 
 #### Amendments
 

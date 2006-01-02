@@ -4,7 +4,7 @@
 
 (1) The Secretary of Energy shall establish and conduct, pursuant to the authorities contained in the Federal Nonnuclear Energy Research and Development Act of 1974 \[42 U.S.C. 5901 et seq.\], an accelerated research, development, and demonstration program for promoting the commercial viability of processes for the recovery of energy from municipal wastes.
 
-(2) The provisions of subsections (d), (m), and (x)(2) of section 19 of such Act \[42 U.S.C. 5919(d), (m), and (x)(2)\] shall not apply with respect to the program established under this section.
+(2) The provisions of subsections (d), (m), and (x)(2) of section 19 of such Act <sup>1</sup> shall not apply with respect to the program established under this section.
 
 (3) As part of the program established under this section, the Secretary, after consulting with the Administrator of the Environmental Protection Agency and the Secretary of Commerce, shall undertake—
 
@@ -38,5 +38,7 @@ All amounts received by the Secretary of Energy as fees, interest, repayment of 
 
 #### References in Text
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. Section 19 of the Act was classified to section 5919 of this title prior to repeal by Pub. L. 109–58, title X, §1009(b)(12), Aug. 8, 2005, 119 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

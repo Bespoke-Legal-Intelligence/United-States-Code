@@ -80,7 +80,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (A) Tax on distributions
 
-&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day of the 4th month following the calendar year inwhich the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
+&emsp;&emsp;The estate tax imposed by paragraph (1)(A) shall be due and payable on the 15th day of the 4th month following the calendar year in which the taxable event occurs; except that the estate tax imposed by paragraph (1)(A) on distributions during the calendar year in which the surviving spouse dies shall be due and payable not later than the date on which the estate tax imposed by paragraph (1)(B) is due and payable.
 
 #### (B) Tax at death of spouse
 
@@ -106,11 +106,11 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (A) In general
 
-&emsp;&emsp;If any property remaining in the qualified domestic trust on the date of the death of the surviving spouse is includible in the gross estate of such spouse for purposes of this chapter (or would be includible if such spouse were a citizen or resident of the United States), any benefit which is allowable (or would be allowable if such spouse were a citizen or resident of the United States) with respect to such property to the estate of such spouse under section 2011, 2014, 2032, 2032A, 2055, 2056, or 6166 shall be allowed for purposes of the tax imposed by paragraph (1)(B).
+&emsp;&emsp;If any property remaining in the qualified domestic trust on the date of the death of the surviving spouse is includible in the gross estate of such spouse for purposes of this chapter (or would be includible if such spouse were a citizen or resident of the United States), any benefit which is allowable (or would be allowable if such spouse were a citizen or resident of the United States) with respect to such property to the estate of such spouse under section 2014, 2032, 2032A, 2055, 2056, 2058, or 6166 shall be allowed for purposes of the tax imposed by paragraph (1)(B).
 
 #### (B) Section 303
 
-&emsp;&emsp;If the estate of the surviving spouse meets the requirements of section 303 with respect to any property described in subparagraph (A), for purposes of section 303, the tax imposed by paragraph (1)(B) with respect to such property shall be treated as a Federal estate tax payable with respect to the estate of the surviving spouse.
+&emsp;&emsp;If the estate of the surviving spouse meets the requirements of section 303 with respect to any property described in subparagraph (A), for purposes of section 303, the tax imposed by paragraph (1)(B) with respect to such property shall be treated as a Federalestate tax payable with respect to the estate of the surviving spouse.
 
 #### (C) Section 6161(a)(2)
 
@@ -150,7 +150,7 @@ For purposes of this section and section 2056(d), the term “qualified domestic
 
 #### (15) No tax on certain distributions
 
-&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust towhich such surviving spouse is not entitled under the terms of the trust.
+&emsp;No tax shall be imposed by paragraph (1) on any distribution to the surviving spouse to the extent such distribution is to reimburse such surviving spouse for any tax imposed by subtitle A on any item of income of the trust to which such surviving spouse is not entitled under the terms of the trust.
 
 #### (c) Definitions
 
@@ -178,23 +178,19 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 100–647, title V, §5033(a)(2), Nov. 10, 1988, 102 Stat. 3670; amended Pub. L. 101–239, title VII, §7815(d)(7), (9)–(13), (15), Dec. 19, 1989, 103 Stat. 2415–2418; Pub. L. 101–508, title XI, §§11702(g)(2)(A), (B), (3)(A), (4), 11704(a)(15), Nov. 5, 1990, 104 Stat. 1388–515, 1388–516, 1388–518; Pub. L. 105–34, title XIII, §§1312(a), 1314(a), Aug. 5, 1997, 111 Stat. 1044, 1045; Pub. L. 107–16, title V, §532(c)(6), June 7, 2001, 115 Stat. 74.)
 
-#### Amendment of Subsection (b)(10)(A)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §532(c)(6), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (b)(10)(A) of this section is temporarily amended—</i>
-
-<i>(1) by striking out “2011,” before “2014,”, and</i>
-
-<i>(2) by inserting “2058,” after “2056,”.</i>
-
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (b)(10)(A). Pub. L. 107–16, §§532(c)(6), 901, temporarily struck out “2011,” before “2014,” and inserted “2058,” after “2056,”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (a)(1)(A). Pub. L. 105–34, §1314(a), inserted “except as provided in regulations prescribed by the Secretary,” before “requires”.
 
 Subsec. (c)(3). Pub. L. 105–34, §1312(a), added par. (3).
 
-1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
+1990—Subsec. (a)(1). Pub. L. 101–508, §11702(g)(2)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “the trust instrument requires that at least 1 trustee of the trust be an individual citizen of the United States or a domestic corporation and that no distribution from the trust may be made without the approval of such a trustee,”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11704(a)(15), substituted “therefor” for “therefore” in concluding provisions.
 
@@ -273,8 +269,4 @@ Effective Date.—The provisions of subsection (a) shall take effect as if inclu
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
 For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, this section shall not apply to the extent such section would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2056, 2210 of this title.
 

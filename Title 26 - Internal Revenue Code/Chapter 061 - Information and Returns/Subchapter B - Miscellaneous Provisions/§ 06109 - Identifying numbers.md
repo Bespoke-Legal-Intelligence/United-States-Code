@@ -26,7 +26,7 @@ When required by regulations prescribed by the Secretary:
 
 (1) Except as provided in paragraph (2), a return of any person with respect to his liability for tax, or any statement or other document in support thereof, shall not be considered for purposes of paragraphs (2) and (3) of subsection (a) as a return, statement, or other document with respect to another person.
 
-(2) For purposes of paragraphs (2) and (3) of subsection (a), a return of an estate or trust with respect to its liability for tax, and anystatement or other document in support thereof, shall be considered as a return, statement, or other document with respect to each beneficiary of such estate or trust.
+(2) For purposes of paragraphs (2) and (3) of subsection (a), a return of an estate or trust with respect to its liability for tax, and any statement or other document in support thereof, shall be considered as a return, statement, or other document with respect to each beneficiary of such estate or trust.
 
 #### (c) Requirement of information
 
@@ -74,7 +74,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (3) Sanctions
 
-&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained by the Secretary of Agriculture or the Federal Crop Insurance Corporation pursuant to this subsection in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of any item of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
+&emsp;Paragraphs (1), (2), and (3) of section 7213(a) shall apply with respect to the unauthorized willful disclosure to any person of employer identification numbers maintained by the Secretary of Agriculture or the Federal Crop Insurance Corporation pursuant to this subsection in the same manner and to the same extent as such paragraphs apply with respect to unauthorized disclosures of return and return information described in such paragraphs. Paragraph (4) of section 7213(a) shall apply with respect to the willful offer of anyitem of material value in exchange for any such employer identification number in the same manner and to the same extent as such paragraph applies with respect to offers (in exchange for any return or return information) described in such paragraph.
 
 #### (h) Identifying information required with respect to certain seller-provided financing
 
@@ -120,7 +120,7 @@ Furnishing Number for Dependents.—Any taxpayer who claims an exemption under s
 
 Subsecs. (f), (g). Pub. L. 104–188, §1704(t)(42), redesignated subsec. (f) relating to access to employer identification numbers for purposes of Federal Crop Insurance Act as subsec. (g).
 
-1994—Subsec. (e). Pub. L. 103–465 substituted “dependents” for “certain dependents” in heading and amendedtext generally. Prior to amendment, text read as follows: “If—
+1994—Subsec. (e). Pub. L. 103–465 substituted “dependents” for “certain dependents” in heading and amended text generally. Prior to amendment, text read as follows: “If—
 
 &emsp;“(1) any taxpayer claims an exemption under section 151 for any dependent on a return for any taxable year, and
 
@@ -187,8 +187,4 @@ Section 1524(c) of Pub. L. 99–514 provided that: “The amendments made by thi
 #### Effective Date
 
 Section 1(d) of Pub. L. 87–397, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Paragraph (1) of section 6109(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a) of this section, shall apply only in respect of returns, statements, and other documents relating to periods commencing after December 31, 1961. Paragraphs (2) and (3) of such section 6109(a) shall apply only in respect of returns, statements, or other documents relating to periods commencing after December 31, 1962.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6695, 6724, 7701 of this title; title 7 section 1506; title 31 sections 3720A, 7701; title 42 sections 653a, 1320a–3, 1320a–3a.
 

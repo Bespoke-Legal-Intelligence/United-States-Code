@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the application in whole or in part of the provision is not needed to protect shippers from the abuse of market power.
 
-(b) The Board may, where appropriate, begin a proceeding under this section on its own initiative or on application by the Secretary of Transportation or an interested party. The Board shall, within 90 days after receipt of any such application, determine whether to begin an appropriate proceeding. If the Board decides not to begin a class exemption proceeding, the reasons for the decision shall be published in the Federal Register. Any proceeding begun as a result of an application under this subsection shall be completed within 9 months after it is begun.
+(b) The Board may, where appropriate, begin a proceeding under this section on its own initiative or on application by the Secretary of Transportation or an interested party. The Board shall, within 90 days after receipt of any such application, determine whether to begin an appropriate proceeding. If the Board decides not to begin a class exemption proceeding, the reasonsfor the decision shall be published in the Federal Register. Any proceeding begun as a result of an application under this subsection shall be completed within 9 months after it is begun.
 
 (c) The Board may specify the period of time during which an exemption granted under this section is effective.
 
@@ -52,7 +52,7 @@ Section 10526, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1364; Pub. L. 96–258,
 
 Section 10527, added Pub. L. 96–296, §16(a), July 1, 1980, 94 Stat. 810; amended Pub. L. 103–272, §5(m)(16), July 5, 1994, 108 Stat. 1377, related to written contracts pertaining to certain interstate movements by motor vehicle.
 
-Section 10528, added Pub. L. 96–296, §21(b)(1), July 1, 1980, 94 Stat. 812; amended Pub. L. 96–454, §11(b), Oct. 15,1980, 94 Stat. 2023; Pub. L. 103–272, §5(m)(17), July 5, 1994, 108 Stat. 1377, related to mixed loads of regulated and unregulated property. See section 13507 of this title.
+Section 10528, added Pub. L. 96–296, §21(b)(1), July 1, 1980, 94 Stat. 812; amended Pub. L. 96–454, §11(b), Oct. 15, 1980, 94 Stat. 2023; Pub. L. 103–272, §5(m)(17), July 5, 1994, 108 Stat. 1377, related to mixed loads of regulated and unregulated property. See section 13507 of this title.
 
 Section 10529, added Pub. L. 96–296, §24(b)(1), July 1, 1980, 94 Stat. 814; amended Pub. L. 103–272, §5(m)(18), July 5, 1994, 108 Stat. 1377, related to authority of Commission over cooperative associations. See section 13508 of this title.
 

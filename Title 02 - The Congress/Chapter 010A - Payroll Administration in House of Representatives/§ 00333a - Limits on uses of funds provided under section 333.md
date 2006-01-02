@@ -6,7 +6,7 @@ The funds provided under the provisions of section 333 of this title shall be li
 
 #### Codification
 
-Section was enacted as part of the Congressional Operations Appropriation Act, 1984, which is title I of theLegislative Branch Appropriation Act, 1984, and not as part of part 6 (§§471–477) of title IV of Pub. L. 91–510 which in part comprises this chapter.
+Section was enacted as part of the Congressional Operations Appropriation Act, 1984, which is title I of the Legislative Branch Appropriation Act, 1984, and not as part of part 6 (§§471–477) of title IV of Pub. L. 91–510 which in part comprises this chapter.
 
 Section, as it applies to funds provided under section 74a–4 of this title, is classified to section 74a–5 of this title.
 

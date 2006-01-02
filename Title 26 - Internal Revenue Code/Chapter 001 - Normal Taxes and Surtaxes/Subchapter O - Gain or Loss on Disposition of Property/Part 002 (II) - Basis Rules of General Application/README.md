@@ -15,6 +15,7 @@
 | [1021\.](%C2%A7%2001021%20-%20Sale%20of%20annuities.md) | Sale of annuities. |
 | [1022\.](%C2%A7%2001022%20-%20Treatment%20of%20property%20acquired%20from%20a%20decedent%20dying%20after%20December%2031%2C%202009.md) | Treatment of property acquired from a decedent dying after December 31, 2009. |
 | [1023\.](%C2%A7%2001023%20-%20Cross%20references.md) | Cross references. |
+| \[1024. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,10 +34,6 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed secti
 Pub. L. 94–455, title XIX, §1901(b)(29)(B), (30)(C), Oct. 4, 1976, 90 Stat. 1799, struck out item 1020 “Election in respect of depreciation, etc., allowed before 1952”, and item 1022 “Increase in basis with respect to certain foreign personal holding company stock or securities”.
 
 1964—Pub. L. 88–272, title II, §225(j)(3), Feb. 26, 1964, 78 Stat. 93, added item 1022 and redesignated former item 1022 as 1023.
-
-#### Part Referred to in Other Sections
-
-This part is referred to in section 742 of this title.
 
 
 ---

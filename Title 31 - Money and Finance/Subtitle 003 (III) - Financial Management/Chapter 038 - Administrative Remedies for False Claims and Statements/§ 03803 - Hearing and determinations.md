@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(ii) be responsible to or subject to the supervision or direction of the investigating official or the reviewing official.
 
-&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do not participate or advise in the decision requiredunder subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
+&emsp;(D) Procedures to ensure that the investigating official and the reviewing official do not participate or advise in the decision required under subsection (h) of this section or the review of the decision by the authority head under subsection (i) of this section, except as provided in subsection (j) of this section.
 
 &emsp;(E) The provision to any person alleged to be liable under section 3802 of this title of opportunities to present such person's case through oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts.
 
@@ -178,7 +178,7 @@
 
 (j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, titleII, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(<i>o</i>), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169.)
 
 #### References in Text
 

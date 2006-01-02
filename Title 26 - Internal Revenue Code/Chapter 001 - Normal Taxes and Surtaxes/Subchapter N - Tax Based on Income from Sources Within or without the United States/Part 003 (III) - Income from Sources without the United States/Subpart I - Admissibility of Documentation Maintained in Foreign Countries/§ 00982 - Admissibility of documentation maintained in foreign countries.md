@@ -58,11 +58,11 @@ For purposes of this section—
 
 #### (3) Authority to extend 90-day period
 
-&emsp;The Secretary, and any court having jurisdiction over a proceeding under subsection\(c)(2), may extend the 90-day period referred to in subsection (a).
+&emsp;The Secretary, and any court having jurisdiction over a proceeding under subsection (c)(2), may extend the 90-day period referred to in subsection (a).
 
 #### (e) Suspension of statute of limitations
 
-If any person takes any action as provided in subsection (c)(2), the running of any period of limitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which the proceeding under such subsection, and appeals therein, are pending.
+If any person takes any action as provided in subsection (c)(2), the running of any period oflimitations under section 6501 (relating to the assessment and collection of tax) or under section 6531 (relating to criminal prosecutions) with respect to such person shall be suspended for the period during which the proceeding under such subsection, and appeals therein, are pending.
 
 (Added Pub. L. 97–248, title III, §337(a), Sept. 3, 1982, 96 Stat. 629; amended Pub. L. 98–369, div. A, title VII, §714(k), July 18, 1984, 98 Stat. 963.)
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) the defendant is a party to an action which is or could have been brought, in whole or in part, under section 1369 in a United States district court and arises from the same accident as the action in State court, even if the action to be removed could not have been brought in a district court as an original matter.
 
-> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
+> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an actionunder section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
 
 (2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
 
@@ -38,7 +38,7 @@ Section consolidates removal provisions of sections 71 and 114 of title 28, U.S.
 
 Phrases such as “in suits of a civil nature, at law or in equity,” the words “case,” “cause,” “suit,” and the like have been omitted and the words “civil action” substituted in harmony with Rules 2 and 81(c) of the Federal Rules of Civil Procedure.
 
-Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S.</i><i>Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
+Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S. Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
 
 All the provisions with reference to removal of controversies between citizens of different States because of inability, from prejudice or local influence, to obtain justice, have been discarded. These provisions, born of the bitter sectional feelings engendered by the Civil War and the Reconstruction period, have no place in the jurisprudence of a nation since united by three wars against foreign powers. Indeed, the practice of removal for prejudice or local influence has not been employed much in recent years.
 

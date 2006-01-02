@@ -2,7 +2,7 @@
 
 #### (a) Economic development assistance programs
 
-There are authorized to be appropriated for economic development assistance programs tocarry out this chapter, to remain available until expended—
+There are authorized to be appropriated for economic development assistance programs to carry out this chapter, to remain available until expended—
 
 &emsp;(1) $400,000,000 for fiscal year 2004;
 

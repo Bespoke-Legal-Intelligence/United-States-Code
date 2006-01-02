@@ -18,7 +18,7 @@
 
 (2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customer if, the Administrator assumes that—
 
-&emsp;(A) the public body and cooperative customers’ general requirements had includedduring such five-year period the direct service industrial customer loads which are—
+&emsp;(A) the public body and cooperative customers’ general requirements had included during such five-year period the direct service industrial customer loads which are—
 
 &emsp;&emsp;(i) served by the Administrator, and
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of this chapter, all rates or rate schedules
 
 #### (<i>l</i>) Rates for sales outside United States; negotiations
 
-In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) of this section shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than the rates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
+In order to further the purposes of this chapter and to protect the consumers of the region, the Administrator may negotiate, or establish, rates for electric power sold by the Administrator to any entity not located in the United States which shall be equitable in relation to rates for all electric power which is, or may be, purchased by the Administrator or the Administrator's customers from entities outside the United States. In establishing rates other than by negotiation, the provisions of subsection (i) of this section shall apply. In the case of any negotiation with an entity not located in the United States, the Administrator shall provide public notice of any proposal to negotiate such rates. Such negotiated rates shall be not less than therates established under this chapter for nonfirm power sold within the United States but outside the region. The Administrator shall also afford notice of any rates negotiated pursuant to this subsection.
 
 #### (m) Impact aid payments; formula
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of this section, rates established by the Ad
 
 #### References in Text
 
-The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended,popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
 The Flood Control Act of 1944, referred to in subsec. (k), is act Dec. 22, 1944, ch. 665, 58 Stat. 887, as amended, which enacted sections 460d and 825s of this title, sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and section 390 of Title 43, Public Lands, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables. For provisions of the Act relating to sale of electric power, see section 825s of this title.
 

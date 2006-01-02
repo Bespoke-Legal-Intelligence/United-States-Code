@@ -14,7 +14,7 @@ Any person who—
 
 #### (3) False or fraudulent application
 
-&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processor of distilled spirits, and files a false or fraudulent application under section 5171; or
+&emsp;engages, or intends to engage, in the business of distiller, warehouseman, or processorof distilled spirits, and files a false or fraudulent application under section 5171; or
 
 #### (4) Failure or refusal of distiller, warehouseman, or processor to give bond
 
@@ -66,7 +66,7 @@ Any person who—
 
 #### (14) Distilling after notice of suspension
 
-&emsp;after the time fixed in the notice given under section 5221(a) to suspend operations as a distiller, carries on the business of a distilleron the premises covered by the notice of suspension, or has mash, wort, or beer on such premises, or on any premises connected therewith, or has in his possession or under his control any mash, wort, or beer, with intent to distill the same on such premises; or
+&emsp;after the time fixed in the notice given under section 5221(a) to suspend operations as a distiller, carries on the business of a distiller on the premises covered by the notice of suspension, or has mash, wort, or beer on such premises, or on any premises connected therewith, or has in his possession or under his control any mash, wort, or beer, with intent to distill the same on such premises; or
 
 #### (15) Unauthorized withdrawal, use, sale, or distribution of distilled spirits for fuel use
 
@@ -147,10 +147,6 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 #### Prosecution and Punishment of Offenses Committed and Penalties or Forfeitures Incurred; Savings Provision
 
 Section 210(c) of title II of Pub. L. 85–859 provided that: “All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title \[enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title\], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5101, 5171, 5177, 5178, 5179, 5221, 5222, 5505 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

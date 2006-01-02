@@ -10,7 +10,7 @@ The Secretary shall not issue any lease under this chapter or under the Geotherm
 
 &emsp;(3) Lands designated by Congress as wilderness study areas, except where oil and gas leasing is specifically allowed to continue by the statute designating the study area.
 
-&emsp;(4) Lands within areas allocated for wilderness or further planning in Executive Communication 1504, Ninety-Sixth Congress (House Document numbered 96–119), unless such lands are allocated to uses other than wilderness bya land and resource management plan or have been released to uses other than wilderness by an act of Congress.
+&emsp;(4) Lands within areas allocated for wilderness or further planning in Executive Communication 1504, Ninety-Sixth Congress (House Document numbered 96–119), unless such lands are allocated to uses other than wilderness by a land and resource management plan or have been released to uses other than wilderness by an act of Congress.
 
 #### (b) Exploration
 

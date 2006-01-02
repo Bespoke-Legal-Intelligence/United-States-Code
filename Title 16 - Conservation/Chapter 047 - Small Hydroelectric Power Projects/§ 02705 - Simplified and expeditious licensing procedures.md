@@ -12,7 +12,7 @@ Before issuing any license under the Federal Power Act \[16 U.S.C. 791a et seq.\
 
 &emsp;(2) shall provide an opportunity for consultation with the Council on Environmental Quality and the Environmental Protection Agency with respect to the environmental effects of such project.
 
-> Nothing in this subsection exempts any such project from any requirement applicable to any such project under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], theFish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], the Endangered Species Act \[16 U.S.C. 1531 et seq.\], or any other provision of Federal law.
+> Nothing in this subsection exempts any such project from any requirement applicable to any such project under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\], the Fish and Wildlife Coordination Act \[16 U.S.C. 661 et seq.\], the Endangered Species Act \[16 U.S.C. 1531 et seq.\], or any other provision of Federal law.
 
 #### (c) Fish and wildlife facilities
 
@@ -30,7 +30,7 @@ The Commission, referred to in text, means the Federal Energy Regulatory Commiss
 
 The Federal Power Act, referred to in subsecs. (a), (b), and (d), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. Part I of the Federal Power Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (b), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 

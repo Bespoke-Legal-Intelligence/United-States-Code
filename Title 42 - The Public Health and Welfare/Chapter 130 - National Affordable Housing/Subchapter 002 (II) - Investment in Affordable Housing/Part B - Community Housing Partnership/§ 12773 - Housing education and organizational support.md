@@ -50,7 +50,7 @@ The Secretary shall provide this assistance only through contract—
 
 &emsp;&emsp;(A) customarily provides, in more than one community, services related to the provision of decent housing that is affordable to low-income and moderate-income persons or the revitalization of deteriorating neighborhoods;
 
-&emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing, technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
+&emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing,technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
 
 &emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training for community-based developers of affordable housing;
 
@@ -72,7 +72,7 @@ Contracts under this section with any one contractor for a fiscal year may not�
 
 #### (e) Single-State contractors
 
-Not less than 40 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provideassistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
+Not less than 40 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
 
 #### (f) “Community land trust” defined
 

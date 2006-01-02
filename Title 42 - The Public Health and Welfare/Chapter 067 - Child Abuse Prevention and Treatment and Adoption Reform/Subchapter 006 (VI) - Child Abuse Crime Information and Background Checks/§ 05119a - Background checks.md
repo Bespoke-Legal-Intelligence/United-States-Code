@@ -28,7 +28,7 @@ The procedures established under subsection (a) of this section shall require—
 
 &emsp;&emsp;(A) to obtain a copy of any background check report; and
 
-&emsp;&emsp;(B) to challenge the accuracy and completeness of any information contained in any such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
+&emsp;&emsp;(B) to challenge the accuracy and completeness of any information contained inany such report and obtain a prompt determination as to the validity of such challenge before a final determination is made by the authorized agency;
 
 &emsp;(3) that an authorized agency, upon receipt of a background check report lacking disposition data, shall conduct research in whatever State and local recordkeeping systems are available in order to obtain complete data;
 
@@ -54,7 +54,7 @@ In the case of a background check pursuant to a State requirement adopted after 
 
 #### References in Text
 
-Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relatingto use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
+Public Law 92–544, referred to in subsec. (b)(5), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. Provisions relating to use of funds for the exchange of identification records are contained in section 201 of Pub. L. 92–544, which is set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 103–322, §320928(e), substituted “eighteen dollars, re
 
 #### Pilot Program for National Criminal History Background Checks and Feasibility Study
 
-Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, §6401, Dec. 17, 2004, 118 Stat. 3755, provided that:
+Pub. L. 108–21, title I, §108, Apr. 30, 2003, 117 Stat. 655, as amended by Pub. L. 108–68, §1, Aug. 1, 2003, 117 Stat. 883; Pub. L. 108–458, title VI, §6401, Dec. 17, 2004, 118 Stat. 3755; Pub. L. 109–162, title XI, §1197, Jan. 5, 2006, 119 Stat. 3131, provided that:
 
 “(a)
 
@@ -94,7 +94,7 @@ In general.—The Attorney General shall designate 3 States as participants in a
 
 &emsp;&emsp;“(B)
 
-Volunteer organization requests.—A volunteer organization in one of the 3 States participating in the State pilot program under this paragraph that is part of the Boys and Girls Clubs of America, the National Mentoring Partnerships, or the National Council of Youth Sports may submit a request for a 10-fingerprint check from the participating State. A volunteer organization in a participating State may not submit background check requests under paragraph (3).
+Volunteer organization requests.—A volunteer organization in one of the 3 States participating in the State pilot program under this paragraph that is part of the Boys and Girls Clubs of America, the National Mentoring Partnerships, or the National Council of Youth Sports may submit a request for a 10-fingerprint check from the participating State.
 
 &emsp;&emsp;“(C)
 
@@ -118,25 +118,35 @@ Child safety pilot program.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Attorney General shall establish a 30-month Child Safety Pilot Program that shall provide for the processing of 100,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
+In general.—The Attorney General shall establish a 60-month Child Safety Pilot Program that shall provide for the processing of 200,000 10-fingerprint check requests from organizations described in subparagraph (B) conducted through the Integrated Automated Fingerprint Identification System of the Federal Bureau of Investigation.
 
 &emsp;&emsp;“(B)
 
-Eligible organizations.—An organization described in this subparagraph is an organization in a State not designated under paragraph (2) that has received a request allotment pursuant to subparagraph (C).
+Participating organizations.—
+
+&emsp;&emsp;&emsp;“(i)
+
+Eligible organizations.—Eligible organizations include—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the Boys and Girls Clubs of America;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the MENTOR/National Mentoring Partnership;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the National Council of Youth Sports; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) any nonprofit organization that provides care, as that term is defined in section 5 of the National Child Protection Act of 1993 (42 U.S.C. 5119c), for children.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Pilot program.—The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria established by such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive.
 
 &emsp;&emsp;“(C)
 
-Request allotments.—The following organizations may allot requests as follows:
-
-&emsp;&emsp;&emsp;“(i) 33,334 for the Boys and Girls Clubs of America.
-
-&emsp;&emsp;&emsp;“(ii) 33,333 for the National Mentoring Partnership.
-
-&emsp;&emsp;&emsp;“(iii) 33,333 for the National Council of Youth Sports.
+Applicants from participating organizations.—Participating organizations may request background checks on applicants for positions as volunteers and employees who will be working with children or supervising volunteers.
 
 &emsp;&emsp;“(D)
 
-Procedures.—The Attorney General shall notify the organizations described in subparagraph (C) of a process by which the organizations may provide fingerprint cards to the Attorney General.
+Procedures.—The Attorney General shall notify participating organizations of a process by which the organizations may provide fingerprint cards to the Attorney General.
 
 &emsp;&emsp;“(E)
 
@@ -158,7 +168,7 @@ Volunteer information required.—An organization authorized to request a backgr
 
 &emsp;&emsp;“(F)
 
-Timing.—For any background checks performed under this paragraph, the Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 14 business days after receiving the request from the organization.
+Timing.—For any background checks performed under this paragraph, the Attorney General shall provide the criminal history records information to the National Center for Missing and Exploited Children within 10 business days after receiving the request from the organization.
 
 &emsp;&emsp;“(G)
 
@@ -190,7 +200,7 @@ Authorization of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 and 2005 to carry out the requirements of this section.
+In general.—There is authorized to be appropriated such sums as may be necessary to the National Center for Missing and Exploited Children for fiscal years 2004 through 2008 to carry out the requirements of this section.
 
 &emsp;“(2)
 
@@ -231,6 +241,8 @@ Study required.—The Attorney General shall conduct a feasibility study within 
 &emsp;&emsp;“(M) Any privacy concerns that may arise from nationwide criminal background checks.
 
 &emsp;&emsp;“(N) Any other information deemed relevant by the Department of Justice.
+
+&emsp;&emsp;“(O) The extent of participation by eligible organizations in the state pilot program.
 
 &emsp;“(2)
 

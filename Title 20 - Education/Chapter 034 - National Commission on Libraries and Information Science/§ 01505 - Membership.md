@@ -18,7 +18,7 @@ Members of the Commission who are not in the regular full-time employ of the Uni
 
 (2) The Commission may procure, without regard to the civil service or classification laws, temporary and intermittent services of such personnel as is necessary to the extent authorized by section 3109 of title 5, but at rates not to exceed the rate specified at the time of such service for grade GS–18 in section 5332 of title 5, including traveltime, and while so serving on the business of the Commission away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons employed intermittently in the Government service.
 
-(Pub. L. 91–345, §6, July 20, 1970, 84 Stat. 442; Pub. L. 93–29, title VIII, §802(b), May 3, 1973, 87 Stat. 59; Pub. L. 102–95, §5, Aug. 14, 1991, 105 Stat. 479; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §703(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–307; Pub. L. 108–81, title IV, §402, Sept. 25, 2003, 117 Stat. 1002.)
+(Pub. L. 91–345, §6, July 20, 1970, 84 Stat. 442; Pub. L. 93–29, title VIII, §802(b), May 3, 1973, 87 Stat. 59; Pub. L. 102–95, §5, Aug. 14, 1991, 105 Stat. 479; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §703(b)\], Sept. 30, 1996, 110 Stat.3009–233, 3009–307; Pub. L. 108–81, title IV, §402, Sept. 25, 2003, 117 Stat. 1002.)
 
 #### References in Text
 

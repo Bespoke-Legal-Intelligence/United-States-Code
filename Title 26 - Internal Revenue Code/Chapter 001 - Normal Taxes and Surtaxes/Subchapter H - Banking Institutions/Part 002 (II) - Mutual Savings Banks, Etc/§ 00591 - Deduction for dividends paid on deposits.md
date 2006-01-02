@@ -24,7 +24,3 @@ For purposes of this part, the term “mutual savings bank” includes any bank�
 
 Section 246(d) of Pub. L. 97–34 provided that: “The amendments made by section 245 \[amending this section and section 593 of this title\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 165, 243, 368, 465, 501, 512, 514, 582, 593, 864, 871, 6050P, 6323 of this title.
-

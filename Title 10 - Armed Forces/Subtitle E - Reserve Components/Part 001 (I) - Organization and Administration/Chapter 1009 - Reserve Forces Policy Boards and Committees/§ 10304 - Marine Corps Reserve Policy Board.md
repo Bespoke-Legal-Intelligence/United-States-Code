@@ -8,7 +8,3 @@ A Marine Corps Reserve Policy Board shall be convened at least once annually at 
 
 Provisions similar to those in this section were contained in section 5252(c) of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(A).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 523, 641, 10301, 12011 of this title.
-

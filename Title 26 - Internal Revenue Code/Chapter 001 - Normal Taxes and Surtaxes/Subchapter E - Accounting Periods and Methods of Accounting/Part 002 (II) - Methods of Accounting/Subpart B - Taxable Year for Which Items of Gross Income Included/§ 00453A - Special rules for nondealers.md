@@ -230,7 +230,3 @@ Certain Refinancings Permitted.—For purposes of subsection (a), if—
 
 For provisions requiring change in accounting method in the case of any taxpayer who made sales under revolving credit plan and was on installment method under this section for such taxpayer's last taxable year beginning before Jan. 1, 1987, see section 812(c)(2) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 453 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 56, 774 of this title.
-

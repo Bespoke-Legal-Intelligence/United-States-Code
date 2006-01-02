@@ -10,7 +10,7 @@
 
 &emsp;(B) the final order in a proceeding under section 2255.
 
-(2) A certificate of appealability may issue under paragraph (1) only if the applicant hasmade a substantial showing of the denial of a constitutional right.
+(2) A certificate of appealability may issue under paragraph (1) only if the applicant has made a substantial showing of the denial of a constitutional right.
 
 (3) The certificate of appealability under paragraph (1) shall indicate which specific issue or issues satisfy the showing required by paragraph (2).
 

@@ -30,9 +30,5 @@ The words “entered into after July 1, 1937” and “entered into subsequent t
 
 #### Delegation of Functions
 
-Functions of the President under this section were delegated to the Secretary of Energy by Ex. Ord. No.12929, Sept. 29, 1994, 59 F.R. 50473, set out as a note under section 7427 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1601.
+Functions of the President under this section were delegated to the Secretary of Energy by Ex. Ord. No. 12929, Sept. 29, 1994, 59 F.R. 50473, set out as a note under section 7427 of this title.
 

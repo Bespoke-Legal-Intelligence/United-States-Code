@@ -36,7 +36,7 @@ Requirement for Appropriation.—No person may be selected to participate in the
 
 (g)
 
-Authority To Expand Placement To Include Firefighters.—(1) The Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligible members and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
+Authority To Expand Placement To Include Firefighters.—(1) The Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligiblemembers and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
 
 (2) The expansion authorized by this subsection may be made through a program covered by an agreement referred to in subsection (a), if feasible, or in such other manner as the Secretary considers appropriate.
 
@@ -61,8 +61,4 @@ Pub. L. 103–337, §1132(a)(1), substituted “eligible members and former memb
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1142 of this title.
 

@@ -12,7 +12,7 @@
 
 #### (3) Priority
 
-&emsp;In carrying out paragraph (1), the President shall give priority to establishing programs in countries that received a significant amount of United States foreign assistance for the prior fiscal year, or in which the United States has a significant economic interest, and that continue to have the most persistent problems with public and private corruption. In determining which countries have the most persistent problems with public and private corruption under the preceding sentence, the President shall take into account criteria such asthe Transparency International Annual Corruption Perceptions Index, standards and codes set forth by the International Bank for Reconstruction and Development and the International Monetary Fund, and other relevant criteria.
+&emsp;In carrying out paragraph (1), the President shall give priority to establishing programs in countries that received a significant amount of United States foreign assistance for the prior fiscal year, or in which the United States has a significant economic interest, and that continue to have the most persistent problems with public and private corruption. In determining which countries have the most persistent problems with public and private corruption under the preceding sentence, the President shall take into account criteria such as the Transparency International Annual Corruption Perceptions Index, standards and codes set forth by the International Bank for Reconstruction and Development and the International Monetary Fund, and other relevant criteria.
 
 #### (4) Relation to other laws
 
@@ -60,7 +60,7 @@ Projects and activities under the programs established pursuant to subsection (a
 
 &emsp;The Secretary of State, in consultation with the Secretary of Commerce and the Administrator of the United States Agency for International Development, shall prepare and transmit to the Committee on International Relations and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate a biennial report on—
 
-&emsp;&emsp;(A) projects and activities carried out under programs established under subsection (a) of this section for the preceding two-year period in priority countries identified pursuant to subsection (a)(3) of this section; and
+&emsp;&emsp;(A) projects and activities carried out under programs established under subsection (a) of this section for the preceding two-yearperiod in priority countries identified pursuant to subsection (a)(3) of this section; and
 
 &emsp;&emsp;(B) projects and activities carried out under programs to combat corruption, improve transparency and accountability, and promote other forms of good governance established under other provisions of law for the preceding two-year period in such countries.
 
@@ -132,7 +132,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(10) Independent and accountable legislatures, responsive political parties, and transparent electoral processes, in conjunction with professional, accountable, and transparent financial management and procurement policies and procedures, are essential to the promotion of good governance and to the combat of corruption.
 
-&emsp;“(11) Transparent business frameworks, including modern commercial codes and intellectual property rights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
+&emsp;“(11) Transparent business frameworks, including modern commercial codes and intellectual propertyrights, are vital to enhancing economic growth and decreasing corruption at all levels of society.
 
 &emsp;“(12) The United States should attempt to improve accountability in foreign countries, including by—
 
@@ -154,5 +154,5 @@ Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note s
 
 #### Deadline for Initial Report
 
-Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report requiredby section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a), shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
+Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report required by section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a), shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
 

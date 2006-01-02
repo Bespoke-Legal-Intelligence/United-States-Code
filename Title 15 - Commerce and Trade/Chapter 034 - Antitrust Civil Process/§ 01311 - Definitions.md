@@ -22,7 +22,7 @@ For the purposes of this chapter—
 
 &emsp;(h) The term “custodian” means the custodian or any deputy custodian designated under section 1313(a) of this title;
 
-&emsp;(i) The term “product of discovery” includes without limitation the original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission obtained by any method of discovery in any judicial litigation or in any administrative litigation of an adversarial nature; any digest, analysis, selection, compilation, or any derivation thereof; and any index or manner of access thereto; and
+&emsp;(i) The term “product of discovery” includes without limitation the original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission obtained by any method of discovery in any judicial litigation or in any administrative litigation of an adversarial nature; any digest, analysis, selection, compilation, or any derivationthereof; and any index or manner of access thereto; and
 
 &emsp;(j) The term “agent” includes any person retained by the Department of Justice in connection with the enforcement of the antitrust laws.
 
@@ -60,7 +60,7 @@ Subsec. (h). Pub. L. 94–435, §101(4), substituted “the custodian” for “
 
 #### Effective Date of 1976 Amendment
 
-Section 106 of Pub. L. 94–435 provided that: “The amendments to the Antitrust Civil Process Act \[see section 1 of Pub. L. 87–664 set out as a Short Title note under this section\] and to section 1505 of title 18, United States Code, made by this title \[title I of Pub. L. 94–435\] shall take effect on the date of enactment of this Act \[Sept. 30, 1976\], except section 3(i)(8) of the Antitrust Civil Process Act \[section 1312(i)(8) of this title\] (as amended by this Act) shall take effect on the later of (1) the date of enactment of this Act \[Sept. 30, 1976\], or (2) October 1, 1976. Any such amendment which provides for the production of documentary material,answers to interrogatories, or oral testimony shall apply to any act or practice without regard to the date on which it occurred.”
+Section 106 of Pub. L. 94–435 provided that: “The amendments to the Antitrust Civil Process Act \[see section 1 of Pub. L. 87–664 set out as a Short Title note under this section\] and to section 1505 of title 18, United States Code, made by this title \[title I of Pub. L. 94–435\] shall take effect on the date of enactment of this Act \[Sept. 30, 1976\], except section 3(i)(8) of the Antitrust Civil Process Act \[section 1312(i)(8) of this title\] (as amended by this Act) shall take effect on the later of (1) the date of enactment of this Act \[Sept. 30, 1976\], or (2) October 1, 1976. Any such amendment which provides for the production of documentary material, answers to interrogatories, or oral testimony shall apply to any act or practice without regard to the date on which it occurred.”
 
 #### Short Title of 1980 Amendment
 

@@ -38,7 +38,7 @@ For the purpose of these Rules and this chapter, except where the context otherw
 
 (<i>l</i>) “Western Rivers” means the Mississippi River, its tributaries, South Pass, and Southwest Pass, to the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States, and the Port Allen-Morgan City Alternate Route, and that part of the Atchafalaya River above its junction with the Port Allen-Morgan City Alternate Route including the Old River and the Red River;
 
-(m) “Great Lakes” means the Great Lakes and their connecting and tributary waters including the Calumet River as far as the Thomas J. O'Brien Lock and Controlling Works (between mile 326 and 327), the Chicago River as far as the east side of the Ashland Avenue Bridge (between mile 321 and 322), and the Saint Lawrence River as far east as the lower exit of Saint Lambert Lock;
+(m) “Great Lakes” means the Great Lakes and their connecting and tributary waters including the Calumet River as far as the Thomas J.O'Brien Lock and Controlling Works (between mile 326 and 327), the Chicago River as far as the east side of the Ashland Avenue Bridge (between mile 321 and 322), and the Saint Lawrence River as far east as the lower exit of Saint Lambert Lock;
 
 (n) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 
@@ -72,5 +72,5 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

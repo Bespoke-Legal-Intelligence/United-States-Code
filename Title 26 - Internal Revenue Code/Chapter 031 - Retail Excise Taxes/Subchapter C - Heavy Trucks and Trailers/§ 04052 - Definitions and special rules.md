@@ -90,7 +90,7 @@ For purposes of this subchapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any personwho is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “related person” means any person who is a member of the same controlled group (within the meaning of section 5061(e)(3)) as the manufacturer, producer, or importer.
 
 #### (ii) Exception for retail establishment
 
@@ -191,8 +191,4 @@ Section 506(b) of Pub. L. 100–17 provided that: “The amendment made by this 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4002 of this title.
 

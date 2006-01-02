@@ -20,7 +20,7 @@ Act
 
 Sept. 11, 1950, ch. 945, §4(b), 64 Stat. 830.
 
-The words “from any community or area” are omitted as surplusage. The word “relocated” is substituted for the words “location \* \* \* be changed”. The words “Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia” are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no “governor” of the District of Columbia. The words “as the case may be” are substituted for the words “within which such unit is situated”. The words “with regard to such withdrawal or change of location” are omitted as surplusage.
+The words “from any community or area” are omitted as surplusage. The word “relocated” is substituted for the words “location \* \* \* be changed”. The words “Territory, or Puerto Rico, or the commanding general of the National Guard of the District of Columbia” are inserted to reflect 50:886(b), since the source statute applied to the District of Columbia and there is no “governor” of the District of Columbia. The words “as thecase may be” are substituted for the words “within which such unit is situated”. The words “with regard to such withdrawal or change of location” are omitted as surplusage.
 
 1958
 
@@ -51,8 +51,4 @@ The words “shall have been consulted” and “such withdrawal or change of lo
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 18233 of this title.
 

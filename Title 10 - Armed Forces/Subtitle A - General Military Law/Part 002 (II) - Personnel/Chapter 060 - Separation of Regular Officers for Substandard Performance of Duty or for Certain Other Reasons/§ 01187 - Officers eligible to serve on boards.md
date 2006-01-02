@@ -34,7 +34,3 @@ Exclusion From Strength Limitation.—A retired general or flag officer who is o
 
 1999—Pub. L. 106–65 amended text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to officers eligible to serve on boards.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1182 of this title.
-

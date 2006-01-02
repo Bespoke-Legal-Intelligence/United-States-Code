@@ -28,5 +28,5 @@ For prior provisions, see note set out under section 1001 of this title.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–203 effective on the first day of the first month that begins on or after the date that is 9 months after Mar. 2, 2004, see section 203(d) ofPub. L. 108–203, set out as a note under section 402 of this title.
+Amendment by Pub. L. 108–203 effective on the first day of the first month that begins on or after the date that is 9 months after Mar. 2, 2004, see section 203(d) of Pub. L. 108–203, set out as a note under section 402 of this title.
 

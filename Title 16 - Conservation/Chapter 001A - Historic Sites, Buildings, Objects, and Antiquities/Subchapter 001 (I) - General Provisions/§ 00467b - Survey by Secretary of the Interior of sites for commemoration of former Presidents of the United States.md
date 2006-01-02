@@ -10,7 +10,7 @@ The Secretary shall, from time to time, prepare and transmit to the Committee on
 
 #### (c) Prohibited statutory constructions
 
-Nothing in this section shall be construed as diminishing the authority of the Secretary under sections 461 to 467 of this title or as authorizing the Secretary to establish any national memorial, creation of which is hereby expressly reserved to the Congress.
+Nothing in this section shall be construed as diminishing the authority of the Secretaryunder sections 461 to 467 of this title or as authorizing the Secretary to establish any national memorial, creation of which is hereby expressly reserved to the Congress.
 
 #### (d) Authorization of appropriations
 

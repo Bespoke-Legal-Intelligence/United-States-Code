@@ -2,7 +2,7 @@
 
 (a) Except as permitted by subsection (b), no Member of Congress or officer or employee of the executive, legislative, or judicial branch shall solicit or accept anything of value from a person—
 
-&emsp;(1) seeking official action from, doing business with, or (in the case of executive branch officers and employees) conducting activities regulated by, the individual's employing entity; or
+&emsp;(1) seeking official action from, doing business with, or (in the case of executive branchofficers and employees) conducting activities regulated by, the individual's employing entity; or
 
 &emsp;(2) whose interests may be substantially affected by the performance or nonperformance of the individual's official duties.
 

@@ -8,7 +8,3 @@ If the employer is the United States, or a State, or political subdivision there
 
 1976—Pub. L. 94–455 struck out “Territory” after “or a State” and “of such State”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3402 of this title.
-

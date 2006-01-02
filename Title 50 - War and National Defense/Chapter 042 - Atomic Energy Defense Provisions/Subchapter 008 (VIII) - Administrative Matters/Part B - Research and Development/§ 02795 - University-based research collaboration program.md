@@ -16,7 +16,7 @@ The Secretary of Energy shall establish a university program at a location that 
 
 #### (c) Funding
 
-Of the funds authorized to be appropriated in title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) to the Department of Energy for fiscal year 1998,the Secretary shall make $5,000,000 available for the establishment and operation of the program under subsection (b).
+Of the funds authorized to be appropriated in title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) to the Department of Energy for fiscal year 1998, the Secretary shall make $5,000,000 available for the establishment and operation of the program under subsection (b).
 
 (Pub. L. 107–314, div. D, title XLVIII, §4814, formerly Pub. L. 105–85, div. C, title XXXI, §3155, Nov. 18, 1997, 111 Stat. 2044; renumbered Pub. L. 107–314, div. D, title XLVIII, §4814, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(9), Nov. 24, 2003, 117 Stat. 1785.)
 

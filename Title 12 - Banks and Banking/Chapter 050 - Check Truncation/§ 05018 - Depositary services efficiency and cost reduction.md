@@ -38,7 +38,7 @@ There are authorized to be appropriated for fiscal years beginning after fiscal 
 
 #### (A) In general
 
-&emsp;&emsp;Following the transition to the use of the appropriations authorized in subsection (b), the Secretary of the Treasury may use the compensating balances to pay financial institutions serving as depositaries and financial agents of the United States only in extraordinary situations where the Secretary determines that they are needed to ensure the fiscal operations of the Government continue to function in an efficient and effective manner.
+&emsp;&emsp;Following the transition to the use of the appropriations authorized in subsection (b), the Secretary of the Treasury may use the compensating balances to pay financial institutions serving as depositaries and financial agents of the United States only in extraordinary situations where the Secretarydetermines that they are needed to ensure the fiscal operations of the Government continue to function in an efficient and effective manner.
 
 #### (B) Report
 

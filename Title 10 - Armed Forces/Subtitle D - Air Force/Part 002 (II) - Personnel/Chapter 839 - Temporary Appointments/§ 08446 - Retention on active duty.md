@@ -24,7 +24,7 @@ Act
 
 June 19, 1948, ch. 511, 62 Stat. 489.
 
-The word “Shall” is substituted for the words “authorized and directed”. The words “on active duty” are substituted for the words “in service”. The words “warrant officers, and flight officers” are omitted, since the definition of “officer” in section 101(14) of this title covers commissioned, warrant, and flight officers. Thewords “who has only a temporary appointment” are substituted for the words “of the Air Force \* \* \* of the United States”. The words “his physical condition is such that he” are substituted for the words “their treatment for physical reconstruction has reached a point where they”. The words “in the Air Force” are substituted for the words “in the military service”.
+The word “Shall” is substituted for the words “authorized and directed”. The words “on active duty” are substituted for the words “in service”. The words “warrant officers, and flight officers” are omitted, since the definition of “officer” in section 101(14) of this title covers commissioned, warrant, and flight officers. The words “who has only a temporary appointment” are substituted for the words “of the Air Force \* \* \* of the United States”. The words “his physical condition is such that he” are substituted for the words “their treatment for physical reconstruction has reached a point where they”. The words “in the Air Force” are substituted for the words “in the military service”.
 
 1958
 

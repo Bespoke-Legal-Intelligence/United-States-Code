@@ -144,11 +144,11 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to authorize the Corporation to enter into partnerships with public and private entities for the purpose of increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by section 7333 of this title, specialty crops, and underserved agricultural commodities.
+&emsp;The purpose of this subsection is to authorize the Corporation to enter into partnershipswith public and private entities for the purpose of increasing the availability of loss mitigation, financial, and other risk management tools for producers, with a priority given to risk management tools for producers of agricultural commodities covered by section 7333 of this title, specialty crops, and underserved agricultural commodities.
 
 #### (2) Authority
 
-&emsp;The Corporation may enter into partnerships with the Cooperative State Research, Education, and Extension Service, the Agricultural Research Service, the National Oceanic Atmospheric Administration, and other appropriate public and private entities withdemonstrated capabilities in developing and implementing risk management and marketing options for producers of specialty crops and underserved agricultural commodities.
+&emsp;The Corporation may enter into partnerships with the Cooperative State Research, Education, and Extension Service, the Agricultural Research Service, the National Oceanic Atmospheric Administration, and other appropriate public and private entities with demonstrated capabilities in developing and implementing risk management and marketing options for producers of specialty crops and underserved agricultural commodities.
 
 #### (3) Objectives
 

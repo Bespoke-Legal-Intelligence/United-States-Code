@@ -24,7 +24,3 @@ Subsec. (b). Pub. L. 93–443, §404(c)(7), substituted “Commission” for “
 
 Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9006, 9009 of this title.
-

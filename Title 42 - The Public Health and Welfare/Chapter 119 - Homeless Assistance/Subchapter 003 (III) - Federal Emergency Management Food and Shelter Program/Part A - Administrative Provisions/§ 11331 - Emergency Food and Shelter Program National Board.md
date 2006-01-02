@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established to carry out the provisions of this subchapter the Emergency Food and Shelter Program National Board. The Director of the Federal Emergency Management Agency shall constitute the National Board in accordance with subsection (b) of this section in administering the program under this subchapter.
+There is established to carry out the provisions of this subchapter the Emergency Food and Shelter Program National Board. The Director of the Federal Emergency ManagementAgency shall constitute the National Board in accordance with subsection (b) of this section in administering the program under this subchapter.
 
 #### (b) Members
 

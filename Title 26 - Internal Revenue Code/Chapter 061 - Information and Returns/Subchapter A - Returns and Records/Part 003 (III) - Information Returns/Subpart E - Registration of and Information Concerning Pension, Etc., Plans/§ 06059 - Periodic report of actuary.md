@@ -48,7 +48,3 @@ Requirements of section applicable only with respect to plan years to which part
 
 Section 1033(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of the Treasury and the Secretary of Labor shall take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by section 6059 of the Internal Revenue Code of 1986 and by section 103(d) of title I of the Employee Retirement Income Security Act of 1974 \[section 1023(d) of Title 29, Labor\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6692 of this title.
-

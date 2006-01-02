@@ -26,7 +26,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 &emsp;(9) to assure the compatibility of United States national measurement standards with those of other nations;
 
-&emsp;(10) to cooperate with other departments and agencies of the Federal Government, with industry, with State and local governments, with the governments of other nations and international organizations, and with private organizations in establishing standard practices, codes, specifications, and voluntary consensus standards;
+&emsp;(10) to cooperate with other departments and agencies of the Federal Government, with industry, with State and local governments,with the governments of other nations and international organizations, and with private organizations in establishing standard practices, codes, specifications, and voluntary consensus standards;
 
 &emsp;(11) to advise government and industry on scientific and technical problems;
 
@@ -84,7 +84,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 #### (d) Management costs
 
-In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278<i>l</i>, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
+In carrying out the extramural funding programs of the Institute, including the programsestablished under sections 278k, 278<i>l</i>, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
 
 (Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782.)
 
@@ -180,7 +180,7 @@ Pub. L. 100–519, title I, §112, Oct. 24, 1988, 102 Stat. 2592, provided that:
 
 “(a)
 
-Program.—The Secretary, acting through the Director of the National Institute of Standards and Technology and other appropriate officials, shall seek funding for and establish, within 6 months after the date of the enactment of this Act \[Oct. 24, 1988\], a program to assist other countries in the development of their domestic standards which are compatible with standards in general use in the United States. After the program is established, it shall be funded through voluntary contributions from the private sector to fully reimburse the United States for expenses incurred during fiscal years 1989 and 1990. The program shall begin on a pilot basis focusing on one or two countries or groups of countries which are major United States trading partners and have expressed interest in such program. The Secretary shall ensure that contributions which are earmarked by country are spent to assist the development of standards by that country or group of countries.
+Program.—The Secretary, acting through the Director of the National Institute of Standards and Technology and other appropriate officials, shall seek funding for and establish, within 6 months after the date of the enactment of this Act \[Oct. 24, 1988\], a program to assist other countries in the development of their domestic standards which are compatible with standards in general use in the United States. After the program is established, it shall be funded through voluntary contributions from the private sector to fullyreimburse the United States for expenses incurred during fiscal years 1989 and 1990. The program shall begin on a pilot basis focusing on one or two countries or groups of countries which are major United States trading partners and have expressed interest in such program. The Secretary shall ensure that contributions which are earmarked by country are spent to assist the development of standards by that country or group of countries.
 
 “(b)
 
@@ -204,7 +204,7 @@ Section 5112(d) of Pub. L. 100–418 provided that:
 
 “(2) The Director may revise the organization plan. Any revision of the organization plan submitted under paragraph (1) shall be submitted to the appropriate committees of the House of Representatives and the Senate at least 60 days before the effective date of such revision.
 
-“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be themajor operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
+“(3) Until the effective date of the organization plan, the major operating units of the Institute shall be the major operating units of the National Bureau of Standards that were in existence on the date of the enactment of this Act \[Aug. 23, 1988\] and the Advanced Technology Program.”
 
 #### National Institute of Standards and Technology; Small Business Plan
 

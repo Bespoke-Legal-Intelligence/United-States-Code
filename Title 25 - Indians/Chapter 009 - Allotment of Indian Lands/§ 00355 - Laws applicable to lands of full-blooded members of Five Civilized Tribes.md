@@ -26,7 +26,7 @@ Act July 2, 1945, ch. 223, 59 Stat. 313, validated titles to certain lands conve
 
 #### Creation of Trusts
 
-Act Jan. 27, 1933, ch. 23, 47 Stat. 777, as amended by act Aug. 4, 1947, ch. 458, §12, 61 Stat. 734, provided for the creation of trusts by Indians; authorized transfers to trustees; denied release of trust agreement restrictions and alienation of corpus and income; made approved contracts irrevocable; provided remedy for illegally procured trusts by cancellation proceedings; and delegated administration of act to Secretary of the Interior.
+Act Jan. 27, 1933, ch. 23, 47 Stat. 777, as amended by act Aug. 4, 1947, ch. 458, §12, 61 Stat. 734, provided for the creation of trusts by Indians; authorized transfers to trustees; denied release of trust agreement restrictions and alienation of corpus and income; made approved contracts irrevocable; provided remedy for illegally procured trusts by cancellation proceedings; anddelegated administration of act to Secretary of the Interior.
 
 #### Removal of Restrictions From Part of Allotted Lands; Leases; Taxation; Appointment of Local Agents
 

@@ -64,7 +64,7 @@ For purposes of this part, the terms “low-income person” and “person of lo
 
 &emsp;(D) locally generated contributions in excess of the amount required to be contributed under subsection (a) of this section, in the discretion of the recipient of a grant or contract under such subsection.
 
-(Pub. L. 93–113, title II, §211, Oct. 1, 1973, 87 Stat. 402; Pub. L. 94–135, title II, §205(b)(1), (2), Nov. 28, 1975, 89 Stat. 727; Pub. L. 94–293, §7, May 27, 1976, 90 Stat. 526; Pub. L. 95–478, title IV, §402(b), Oct. 18, 1978, 92 Stat. 1557; Pub. L. 97–35, title VI,§608(b), Aug. 13, 1981, 95 Stat. 487; Pub. L. 98–288, §14(c), May 21, 1984, 98 Stat. 192; Pub. L. 99–551, §7(a)(1), Oct. 27, 1986, 100 Stat. 3074; Pub. L. 101–204, title V, §§503, 504, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§344, 345, Sept. 21, 1993, 107 Stat. 904, 905; Pub. L. 108–446, title III, §305(k), Dec. 3, 2004, 118 Stat. 2806.)
+(Pub. L. 93–113, title II, §211, Oct. 1, 1973, 87 Stat. 402; Pub. L. 94–135, title II, §205(b)(1), (2), Nov. 28, 1975, 89 Stat. 727; Pub. L. 94–293, §7, May 27, 1976, 90 Stat. 526; Pub. L. 95–478, title IV, §402(b), Oct. 18, 1978, 92 Stat. 1557; Pub. L. 97–35, title VI, §608(b), Aug. 13, 1981, 95 Stat. 487; Pub. L. 98–288, §14(c), May 21, 1984, 98 Stat. 192; Pub. L. 99–551, §7(a)(1), Oct. 27, 1986, 100 Stat. 3074; Pub. L. 101–204, title V, §§503, 504, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§344, 345, Sept. 21, 1993, 107 Stat. 904, 905; Pub. L. 108–446, title III, §305(k), Dec. 3, 2004, 118 Stat. 2806.)
 
 #### References in Text
 

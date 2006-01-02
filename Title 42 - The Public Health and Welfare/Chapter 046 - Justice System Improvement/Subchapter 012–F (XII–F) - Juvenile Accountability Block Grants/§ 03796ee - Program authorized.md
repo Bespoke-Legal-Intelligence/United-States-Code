@@ -32,25 +32,33 @@ Amounts paid to a State or a unit of local government under this subchapter shal
 
 &emsp;(12) establishing and maintaining programs to conduct risk and need assessments of juvenile offenders that facilitate the effective early intervention and the provision of comprehensive services, including mental health screening and treatment and substance abuse testing and treatment to such offenders;
 
-&emsp;(13) establishing and maintaining accountability-based programs that are designed to enhance school safety;
+&emsp;(13) establishing and maintaining accountability-based programs that are designed to enhance school safety, which programs may include research-based bullying, cyberbullying, and gang prevention programs;
 
 &emsp;(14) establishing and maintaining restorative justice programs;
 
-&emsp;(15) establishing and maintaining programs to enable juvenile courts and juvenile probation officers to be more effective and efficient in holding juvenile offenders accountable and reducing recidivism; or
+&emsp;(15) establishing and maintaining programs to enable juvenile courts and juvenile probation officers to be more effective and efficient in holding juvenile offenders accountable and reducing recidivism;
 
-&emsp;(16) hiring detention and corrections personnel, and establishing and maintaining training programs for such personnel to improve facility practices and programming.
+&emsp;(16) hiring detention and corrections personnel, and establishing and maintaining training programs for such personnel to improve facility practices and programming; or
+
+&emsp;(17) establishing, improving, and coordinating pre-release and post-release systems and programs to facilitate the successful reentry of juvenile offenders from State or local custody in the community.
 
 #### (c) Definition
 
 In this section the term “restorative justice program” means a program that emphasizes the moral accountability of an offender toward the victim and the affected community and may include community reparations boards, restitution (in the form of monetary payment or service to the victim or, where no victim can be identified, service to the affected community), and mediation between victim and offender.
 
-(Pub. L. 90–351, title I, §1801, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1859.)
+(Pub. L. 90–351, title I, §1801, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1859; amended Pub. L. 109–162, title XI, §§1165, 1186, Jan. 5, 2006, 119 Stat. 3121, 3127.)
 
 #### Prior Provisions
 
-A prior section 3796ee, Pub. L. 90–351, title I, §1801, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1819; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(34), (f)(26)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, authorized grants for the purpose of developing alternative methods of punishment for young offenders, prior to the general amendment of this subchapter by Pub. L. 107–273.
+A prior section 3796ee, Pub. L. 90–351, title I, §1801, as added Pub. L. 103–322, title II, §20201(a)(3), Sept. 13, 1994, 108 Stat. 1819; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(34), (f)(26)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, authorized grants for thepurpose of developing alternative methods of punishment for young offenders, prior to the general amendment of this subchapter by Pub. L. 107–273.
 
 A prior section 1801 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
+
+#### Amendments
+
+2006—Subsec. (b)(13). Pub. L. 109–162, §1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
+
+Subsec. (b)(17). Pub. L. 109–162, §1165, added par. (17).
 
 #### Effective Date
 

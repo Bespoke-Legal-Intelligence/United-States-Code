@@ -58,7 +58,7 @@ Statement by secretary.—Paragraph (1) of section 1806(a) of the Social Securit
 
 “(B)
 
-Itemized statement.—Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act \[subsecs. (a)(2) and (b) of this section\], as so added, shall take effect not later than January 1, 1999.”
+Itemized statement.—Paragraph (2) of section 1806(a) and section 1806(b) of the Social Security Act\[subsecs. (a)(2) and (b) of this section\], as so added, shall take effect not later than January 1, 1999.”
 
 #### Inclusion of Additional Information in Notices to Beneficiaries About Skilled Nursing Facility Benefits
 

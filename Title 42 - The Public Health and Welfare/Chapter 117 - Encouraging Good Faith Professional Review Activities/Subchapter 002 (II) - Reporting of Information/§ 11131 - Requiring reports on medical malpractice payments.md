@@ -24,7 +24,7 @@ Any entity that fails to report information on a payment required to be reported
 
 #### (d) Report on treatment of small payments
 
-The Secretary shall study and report to Congress, not later than two years after November 14, 1986, on whether information respecting small payments should continue to be required to be reported under subsection (a) of this section and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.
+The Secretary shall study and report to Congress, not later than two years after November14, 1986, on whether information respecting small payments should continue to be required to be reported under subsection (a) of this section and whether information respecting all claims made concerning a medical malpractice action should be required to be reported under such subsection.
 
 (Pub. L. 99–660, title IV, §421, Nov. 14, 1986, 100 Stat. 3788.)
 

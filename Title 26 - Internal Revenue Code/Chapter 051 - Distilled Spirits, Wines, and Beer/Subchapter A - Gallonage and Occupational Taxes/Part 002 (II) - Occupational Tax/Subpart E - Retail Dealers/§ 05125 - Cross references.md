@@ -6,3 +6,7 @@
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that,</i><i>effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed.</i>
+

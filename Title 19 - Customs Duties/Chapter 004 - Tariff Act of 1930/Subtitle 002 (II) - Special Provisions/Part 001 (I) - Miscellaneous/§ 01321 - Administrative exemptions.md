@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury, in order to avoid expense and inconvenience to the Government disproportionate to the amount of revenue that would otherwise be collected, is authorized, under such regulations as he shall prescribe, to—
 
-&emsp;(1) disregard a difference of an amount specified by the Secretary by regulation, but notless than $20, between the total estimated duties, fees, and taxes deposited, or the total duties, fees, and taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties, fees, taxes, and interest actually accruing thereon;
+&emsp;(1) disregard a difference of an amount specified by the Secretary by regulation, but not less than $20, between the total estimated duties, fees, and taxes deposited, or the total duties, fees, and taxes tentatively assessed, with respect to any entry of merchandise and the total amount of duties, fees, taxes, and interest actually accruing thereon;
 
 &emsp;(2) admit articles free of duty and of any tax imposed on or by reason of importation, but the aggregate fair retail value in the country of shipment of articles imported by one person on one day and exempted from the payment of duty shall not exceed an amount specified by the Secretary by regulation, but not less than—
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 #### Effective Date of 1983 Amendment
 
-Section 115(c) of Pub. L. 97–446 provided that: “The amendments made by this section \[amending the TariffSchedules and this section\] shall apply with respect to returning residents of the United States who arrive in the United States on or after the 15th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
+Section 115(c) of Pub. L. 97–446 provided that: “The amendments made by this section \[amending the Tariff Schedules and this section\] shall apply with respect to returning residents of the United States who arrive in the United States on or after the 15th day after the date of the enactment of this Act \[Jan. 12, 1983\].”
 
 #### Effective Date of 1975 Amendment
 

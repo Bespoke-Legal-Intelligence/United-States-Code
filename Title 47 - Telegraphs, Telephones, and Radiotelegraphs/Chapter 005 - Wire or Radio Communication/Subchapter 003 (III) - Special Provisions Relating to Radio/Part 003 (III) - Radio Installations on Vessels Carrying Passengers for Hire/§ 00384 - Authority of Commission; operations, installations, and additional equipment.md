@@ -10,7 +10,7 @@ The Commission shall have authority with respect to any vessel subject to this p
 
 &emsp;(4) to prescribe such additional equipment as may be determined to be necessary to supplement that specified herein for the proper functioning of the radio installation installed in accordance with this part or for the proper conduct of radio communication in time of emergency or distress.
 
-(June 19, 1934, ch. 652, title III, §384, as added Aug. 6, 1956, ch. 973, §1, 70 Stat. 1048; amendedPub. L. 103–414, title III, §303(a)(20)(D), Oct. 25, 1994, 108 Stat. 4295.)
+(June 19, 1934, ch. 652, title III, §384, as added Aug. 6, 1956, ch. 973, §1, 70 Stat. 1048; amended Pub. L. 103–414, title III, §303(a)(20)(D), Oct. 25, 1994, 108 Stat. 4295.)
 
 #### Amendments
 

@@ -36,7 +36,7 @@ Definitions.—In this chapter:
 
 #### Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands
 
-Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, provided that: “The Chairman of the Joint Chiefs of Staff shall consider, as part of the next periodic review by the Chairman of the missions, responsibilities, and force structure of the unified combatantcommands pursuant to section 161(b) of title 10, United States Code, the following matters:
+Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, provided that: “The Chairman of the Joint Chiefs of Staff shall consider, as part of the next periodic review by the Chairman of the missions, responsibilities, and force structure of the unified combatant commands pursuant to section 161(b) of title 10, United States Code, the following matters:
 
 &emsp;“(1) Whether there exists an adequate distribution of threats, mission requirements, and responsibilities for geographic areas among the regional unified combatant commands.
 
@@ -61,8 +61,4 @@ Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, prov
 #### Initial Review of Combatant Commands
 
 Section 212 of Pub. L. 99–433 set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 167, 1051, 1406 of this title.
 

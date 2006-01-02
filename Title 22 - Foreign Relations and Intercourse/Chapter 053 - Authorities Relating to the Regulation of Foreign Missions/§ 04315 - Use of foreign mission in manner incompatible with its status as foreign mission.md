@@ -46,5 +46,5 @@ Section 128(b) of Pub. L. 100–204 provided that:
 
 “(2)(A) The amendment made by subsection (a) shall apply beginning 6 months after the date of enactment of this Act with respect to any nonimmigrant alien who is using a foreign mission as a residence or a place of business on the date of enactment of this Act.
 
-“(B) The Secretary of State may delay the effective date provided for in subparagraph (A) for not more than 6 months with respect to any nonimmigrant alien if the Secretary finds that a hardship to that alien would result from the implementation of subsection (a).”
+“(B) The Secretary of State may delay the effective date provided for in subparagraph (A) for not more than 6 months with respect to any nonimmigrant alien if theSecretary finds that a hardship to that alien would result from the implementation of subsection (a).”
 

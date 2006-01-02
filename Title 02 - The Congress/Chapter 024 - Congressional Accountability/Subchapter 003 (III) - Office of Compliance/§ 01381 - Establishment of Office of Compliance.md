@@ -78,7 +78,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (2) Travel expenses
 
-&emsp;Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employeesof agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
+&emsp;Each member of the Board shall receive travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, for each day the member is engaged in the performance of duties away from the home or regular place of business of the member.
 
 #### (h) Duties
 
@@ -126,7 +126,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–349, §1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
+Pub. L. 108–349, §1(b), Oct. 21, 2004, 118 Stat. 1389, provided that: “The amendment made by subsection (a)\[amending this section\] shall apply with respect to individuals serving on the Board of Directors of the Office of Compliance on or after September 30, 2004.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

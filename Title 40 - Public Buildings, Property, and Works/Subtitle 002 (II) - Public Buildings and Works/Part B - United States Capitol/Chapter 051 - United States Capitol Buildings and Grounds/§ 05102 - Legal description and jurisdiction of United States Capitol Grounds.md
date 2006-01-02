@@ -10,7 +10,7 @@ Jurisdiction.—
 
 &emsp;(1)
 
-Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance andimprovement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
+Architect of the capitol.—The jurisdiction and control over the Grounds, vested prior to July 31, 1946, by law in the Architect, is extended to the entire area of the Grounds. Except as provided in paragraph (2), the Architect is responsible for the maintenance and improvement of the Grounds, including those streets and roadways in the Grounds as shown on the map referred to in subsection (a) as being under the jurisdiction and control of the Commissioners of the District of Columbia.
 
 &emsp;(2)
 
@@ -22,7 +22,7 @@ In general.—The Mayor of the District of Columbia is responsible for the maint
 
 &emsp;&emsp;(B)
 
-Repair and maintenance of utility services.—The Mayor may enter any part of the Grounds to repair or maintain or, subject to the approval of the Architect, construct or alter, any utility service of the District of Columbia Government.
+Repair and maintenance of utility services.—The Mayor may enter any part ofthe Grounds to repair or maintain or, subject to the approval of the Architect, construct or alter, any utility service of the District of Columbia Government.
 
 (c)
 
@@ -208,7 +208,7 @@ United states capitol grounds.—
 
 &emsp;&emsp;“(A)
 
-Definition.—The first section of the Act entitled ‘An Act to define the United States CapitolGrounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (b)(2)(B).
+Definition.—The first section of the Act entitled ‘An Act to define the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C. 193a) \[now 40 U.S.C. 5102\], is amended to include within the definition of the United States Capitol Grounds the parcels of Federal real property described in subsection (b)(2)(B).
 
 &emsp;&emsp;“(B)
 
@@ -278,7 +278,7 @@ Pub. L. 93–198, title VII, §739(g)(3), Dec. 24, 1973, 87 Stat. 828, effective
 
 #### Jurisdiction of the Capitol Police Board and the Architect of the Capitol
 
-Pub. L. 96–432, §3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and after the effective date of this section \[see Pub. L. 96–432, §4, Oct. 10, 1980, 94 Stat. 1853\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to thesame extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
+Pub. L. 96–432, §3, Oct. 10, 1980, 94 Stat. 1852, provided that: “On and after the effective date of this section \[see Pub. L. 96–432, §4, Oct. 10, 1980, 94 Stat. 1853\], that portion of C Street Northeast from the west curb of Second Street Northeast to the east curb of First Street Northeast shall be under the exclusive jurisdiction and control of the Capitol Police Board and the Architect of the Capitol in the same manner and to the same extent as such Board or the Architect of the Capitol has over other streets comprising the United States Capitol Grounds, and the Architect of the Capitol shall be responsible for the maintenance and improvement thereof.”
 
 #### United States Supreme Court and Library of Congress; Jurisdictional Boundaries
 
@@ -324,7 +324,7 @@ WHEREAS, the aforesaid eight squares are identified and bound as follows: <i>Squ
 
 WHEREAS, title to all real property in these 8 squares is now vested in fee simple absolute in the United States of America;
 
-WHEREAS, subsequent to acquisition of these 8 squares, under the aforesaid authority, all alleys in these squares were closed and vacated, as were alsoDelaware Avenue between Independence Avenue and C Street and Carroll Street between First and Second Streets, by the Commissioners of the District of Columbia, and all areas between the property lines and outer faces of curbs surrounding these squares and Square 636 were transferred from the jurisdiction of the Commissioners of the District of Columbia to the jurisdiction of the Architect of the Capitol;
+WHEREAS, subsequent to acquisition of these 8 squares, under the aforesaid authority, all alleys in these squares were closed and vacated, as were also Delaware Avenue between Independence Avenue and C Street and Carroll Street between First and Second Streets, by the Commissioners of the District of Columbia, and all areas between the property lines and outer faces of curbs surrounding these squares and Square 636 were transferred from the jurisdiction of the Commissioners of the District of Columbia to the jurisdiction of the Architect of the Capitol;
 
 WHEREAS, the Rayburn House Office Building has been constructed on Squares 635 and 636 (the latter square being already owned by the government and having been combined with Square 635 as a site for this building under the aforesaid authority), and the said building is now maintained by the Architect of the Capitol as a part of the House Office Buildings, and the sidewalks and other paved and grassed areas surrounding this building are now maintained as part of the Capitol Grounds;
 
@@ -338,7 +338,7 @@ WHEREAS, Squares 732 north and south were acquired as an addition to the Capitol
 
 WHEREAS, the aforesaid Additional House Office Building Act provides, in pertinent part, with respect to these properties, as follows:
 
-&emsp;“\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\] and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\].”
+&emsp;“\* \* \* At such time or times as may be fixed by order of the House Office Building Commission, (1) any real property acquired under, or made available for the purposes of, this chapter shall become part of the United States Capitol Grounds and subject to the Act entitled ‘An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes’, approved July 31, 1946 (40 U.S.C., secs. 193a—193m, \[207a,\] 212a, \[212a–2, 212a–3,\]and 212b) \[now 2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101–5107, 5109, see References in Text note under section 1819 of Title 2, The Congress\], and (2) the building and all facilities constructed pursuant to section 1201 of this chapter shall become subject to such Act approved July 31, 1946, and to the provisions of law relating to the control, supervision, and care of the House Office Building contained in the Act approved Mar. 4, 1907, as amended (40 U.S.C., sec. 175) \[now 2 U.S.C. 2001\].”
 
 NOW, THEREFORE, in formal compliance with the aforecited provisions of the Additional House Office Building Act, the House Office Building Commission, in confirmation of actions heretofore taken by the Commission, hereby orders:
 

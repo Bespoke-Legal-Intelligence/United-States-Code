@@ -12,7 +12,7 @@
 
 (c) When the application of the percentages and ratios specified in this section results in a fraction, a fraction of one-half or more is counted as one, and a fraction of less than one-half is disregarded.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, §1(66), Sept. 2, 1958, 72 Stat. 1463; Pub. L.89–603, §1(2), Sept. 24, 1966, 80 Stat. 846; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §502(5), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §5(b), July 10, 1981, 95 Stat. 128; Pub. L. 102–190, div. A, title X, §1061(a)(20)(A), Dec. 5, 1991, 105 Stat. 1473.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 174; Pub. L. 85–861, §1(66), Sept. 2, 1958, 72 Stat. 1463; Pub. L. 89–603, §1(2), Sept. 24, 1966, 80 Stat. 846; Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §502(5), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, §5(b), July 10, 1981, 95 Stat. 128; Pub. L. 102–190, div. A, title X, §1061(a)(20)(A), Dec. 5, 1991, 105 Stat. 1473.)
 
 Historical and Revision Notes<br>1956
 

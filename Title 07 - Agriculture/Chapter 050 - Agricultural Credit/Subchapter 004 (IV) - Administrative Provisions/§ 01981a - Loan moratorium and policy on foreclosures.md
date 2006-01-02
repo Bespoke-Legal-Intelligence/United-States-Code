@@ -30,17 +30,13 @@ Pub. L. 100–202, §101(k) \[title II\], Dec. 22, 1987, 101 Stat. 1329–322, 1
 
 Pub. L. 99–500, §101(a) \[title II\], Oct. 18, 1986, 100 Stat. 1783, 1783–16, and Pub. L. 99–591, §101(a) \[title II\], Oct. 30, 1986, 100 Stat. 3341, 3341–16.
 
-Pub. L. 99–190, §101(a) \[H.R. 3037, title II\], Dec. 19, 1985, 99 Stat. 1185.
-
-Pub. L. 98–473, title I, §101(a) \[H.R. 5743, title II\], Oct. 12, 1984, 98 Stat. 1837.
-
-Pub. L. 98–151, §101(d) \[H.R. 3223, title II\], Nov. 14, 1983, 97 Stat. 972.
+Pub. L. 99–190, §101(a) \[H.R. 3037, title II\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433.
 
 Pub. L. 97–370, title II, Dec. 18, 1982, 96 Stat. 1800.
 
 #### Forbearance and Restructuring for Farm Loans
 
-Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: “It is the sense of Congressthat the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
+Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: “It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
 &emsp;“(1) exercise forbearance in the collection of interest and principal on direct farmer program loans under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
 

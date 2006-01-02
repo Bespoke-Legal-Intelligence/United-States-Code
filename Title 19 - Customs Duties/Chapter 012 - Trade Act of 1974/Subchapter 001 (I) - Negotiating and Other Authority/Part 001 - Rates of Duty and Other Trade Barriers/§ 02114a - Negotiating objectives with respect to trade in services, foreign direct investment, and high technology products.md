@@ -62,7 +62,7 @@ Principal United States negotiating objectives shall be—
 
 &emsp;(6) to obtain commitments to—
 
-&emsp;&emsp;(A) foster the pursuit of joint scientific cooperation between companies, institutions or governmental entities of the United States and those of the trading partners of the United States in areas of mutual interest through such measures as financial participation and technical and personnel exchanges, and
+&emsp;&emsp;(A) foster the pursuit of joint scientific cooperation between companies, institutions or governmental entities of the United States and those of the trading partners ofthe United States in areas of mutual interest through such measures as financial participation and technical and personnel exchanges, and
 
 &emsp;&emsp;(B) ensure that access by all participants to the results of any such cooperative efforts should not be impaired; and
 

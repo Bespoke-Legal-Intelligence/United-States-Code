@@ -44,7 +44,7 @@ Maximum Period.—An exemption or renewal under subsection (b)(3)(B)(i) of this 
 
 (f)
 
-Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the applicationor relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
+Disclosure.—The Secretary may make public, by the 10th day after an application is filed, information contained in the application or relevant to the application unless the information concerns or is related to a trade secret or other confidential information not relevant to the application.
 
 (g)
 

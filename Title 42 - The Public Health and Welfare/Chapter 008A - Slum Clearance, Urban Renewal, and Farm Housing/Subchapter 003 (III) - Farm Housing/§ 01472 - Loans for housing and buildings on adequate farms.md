@@ -30,7 +30,7 @@ The instruments under which the loan is made and the security given shall—
 
 &emsp;(1) provide for security upon the applicant's equity in the farm or such other security or collateral, if any, as may be found necessary by the Secretary reasonably to assure repayment of the indebtedness;
 
-&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c) of this section;
+&emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary,except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c) of this section;
 
 &emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretary determines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
 
@@ -208,7 +208,7 @@ On and after November 30, 1983—
 
 (1) A loan which may be made or insured under this section with respect to housing shall be made or insured with respect to a manufactured home or with respect to a manufactured home and lot, whether such home or such home and lot is real property, personal property, or mixed real and personal property, if—
 
-&emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of the Housing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
+&emsp;(A) the manufactured home meets the standards prescribed pursuant to title VI of theHousing and Community Development Act of 1974 \[42 U.S.C. 5401 et seq.\];
 
 &emsp;(B) the manufactured home, or the manufactured home and lot, meets the installation, structural, and site requirements which would apply under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\]; and
 
@@ -274,7 +274,7 @@ On and after November 30, 1983—
 
 &emsp;(A) In providing guaranteed loans under this subsection, the Secretary shall give priority to first-time homebuyers (as defined in paragraph (13)).
 
-&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is a first-time homebuyer successfully complete a program of homeownership counseling under section 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
+&emsp;(B) The Secretary may require that, as a condition of receiving a guaranteed loan pursuant to this subsection, a borrower who is a first-time homebuyer successfully complete a program of homeownership counseling undersection 1701x(a)(1)(iii) of title 12 and obtain certification from the provider of the program that the borrower is adequately prepared for the obligations of homeownership.
 
 #### (6) Eligible lenders
 
@@ -292,7 +292,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(i) for a first-time homebuyer, in any amount not in excess of 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section; and
 
-&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee asauthorized by subsection (h)(7) <sup>2</sup> of this section.
+&emsp;&emsp;&emsp;(ii) for any borrower other than a first-time homebuyer, in an amount not in excess of the percentage of the property or the acquisition cost of the property that the Secretary shall determine, such percentage or cost in any event not to exceed 100 percent of the appraised value of the property as of the date the loan is accepted or the acquisition cost of the property, whichever is less, plus the guarantee fee as authorized by subsection (h)(7) <sup>2</sup> of this section.
 
 #### (8) Guarantee fee
 
@@ -554,7 +554,9 @@ Pub. L. 108–285, §3(a), Aug. 2, 2004, 118 Stat. 917, provided that: “The Co
 
 Pub. L. 108–447, div. A, title VII, §765, Dec. 8, 2004, 118 Stat. 2847, provided that: “Notwithstanding any other provision of law, for any fiscal year and hereafter, in the case of a high cost isolated rural area in Alaska that is not connected to a road system, the maximum level for the single family housing assistance shall be 150 percent of the average income level in the metropolitan areas of the State and 115 percent of all other eligible areas of the State.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 109–97, title VII, §754(3), Nov. 10, 2005, 119 Stat. 2157.
 
 Pub. L. 108–199, div. A, title VII, §763, Jan. 23, 2004, 118 Stat. 39.
 

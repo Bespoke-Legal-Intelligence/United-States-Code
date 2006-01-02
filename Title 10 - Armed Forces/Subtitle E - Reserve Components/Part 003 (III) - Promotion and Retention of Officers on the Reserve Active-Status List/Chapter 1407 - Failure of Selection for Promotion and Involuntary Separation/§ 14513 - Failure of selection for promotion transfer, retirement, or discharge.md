@@ -1,6 +1,6 @@
 ### §14513. Failure of selection for promotion: transfer, retirement, or discharge
 
-Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an active status and whose removal from an active status or from a reserve active-status list is required by section 14504, 14505, or 14506 of this title shall (unless the officer's separation is deferred or the officer is continued in an active status under another provision of law) not later than the date specified in those sections—
+Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an active status and whose removal from an active status or from a reserve active-status list is required by section 14504, 14505, or 14506 of this title shall\(unless the officer's separation is deferred or the officer is continued in an active status under another provision of law) not later than the date specified in those sections—
 
 &emsp;(1) be transferred to an inactive status if the Secretary concerned determines that the officer has skills which may be required to meet the mobilization needs of the officer's armed force;
 
@@ -19,8 +19,4 @@ Par. (2). Pub. L. 107–107, §517(b)(1), substituted “if the officer is quali
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–107 effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, see section 517(g) of Pub. L. 107–107, set out as a note under section 10154 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12646, 14504, 14505, 14506, 14516, 14517, 14701 of this title.
 

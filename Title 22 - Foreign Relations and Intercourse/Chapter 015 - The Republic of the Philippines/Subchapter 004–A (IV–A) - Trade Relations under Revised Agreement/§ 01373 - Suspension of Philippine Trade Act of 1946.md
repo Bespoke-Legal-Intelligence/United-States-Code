@@ -12,7 +12,7 @@ The revised agreement, referred to in text, was set out as a note under section 
 
 #### Effective Date
 
-Section 301(b) of title III of act Aug. 1, 1955, provided that: “The provisions of this title \[enacting sections1373 to 1379 of this title and amending section 734 of Title 48, Territories and Insular Possessions\] shall take effect on January 1, 1956, but only if the President of the United States has made the proclamation referred to in subsection (a) \[section 1379 of this title\].”
+Section 301(b) of title III of act Aug. 1, 1955, provided that: “The provisions of this title \[enacting sections 1373 to 1379 of this title and amending section 734 of Title 48, Territories and Insular Possessions\] shall take effect on January 1, 1956, but only if the President of the United States has made the proclamation referred to in subsection (a) \[section 1379 of this title\].”
 
 #### Short Title
 

@@ -10,7 +10,7 @@ North Dakota constitutes one judicial district comprising four divisions.
 
 &emsp;&emsp;Court for the Southeastern Division shall be held at Fargo.
 
-&emsp;&emsp;(3) The Northeastern Division comprises the counties of Benson, Cavalier, GrandForks, Nelson, Pembina, Ramsey, Rolette, Towner, Traill, and Walsh.
+&emsp;&emsp;(3) The Northeastern Division comprises the counties of Benson, Cavalier, Grand Forks, Nelson, Pembina, Ramsey, Rolette, Towner, Traill, and Walsh.
 
 &emsp;&emsp;Court for the Northeastern Division shall be held at Grand Forks.
 

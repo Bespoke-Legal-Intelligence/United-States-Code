@@ -8,6 +8,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, provided that, effective Apr. 1, 2008, the table of subchapters is amended by striking out the item for subchapter III.</i>
+
 #### Amendments
 
 1990—Pub. L. 101–510, div. A, title VI, §631(1), title XIV, §1484(<i>l</i>)(4)(A), Nov. 5, 1990, 104 Stat. 1580, 1719, amended Pub. L. 101–189, §1404(a)(2), see 1989 Amendment note below.
@@ -19,10 +23,6 @@
 1972—Pub. L. 92–425, §1(1), Sept. 21, 1972, 86 Stat. 706, added subchapter analysis and amended chapter heading by inserting “; SURVIVOR BENEFIT PLAN” after “PAY” which could not be executed as directed in view of amendment by Pub. L. 87–381.
 
 1961—Pub. L. 87–381, §1(1), Oct. 4, 1961, 75 Stat. 810, substituted “RETIRED SERVICEMAN'S FAMILY PROTECTION PLAN” for “ANNUITIES BASED ON RETIRED OR RETAINER PAY” in chapter heading.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1408, 1461, 1463 of this title; title 5 sections 5531, 8311, 8317; title 26 sections 72, 122, 6334; title 33 section 3071; title 38 section 5301; title 42 section 213a.
 
 
 ---

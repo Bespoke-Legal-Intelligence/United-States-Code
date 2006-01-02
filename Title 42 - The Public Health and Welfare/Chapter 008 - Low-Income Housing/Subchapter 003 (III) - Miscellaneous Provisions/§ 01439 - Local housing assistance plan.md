@@ -24,7 +24,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 &emsp;(1) applications for assistance involving 12 or fewer units in a single project or development;
 
-&emsp;(2) applications for assistance with respect to housing in new community developments approved under title IV of the Housing and Urban Development Act of 1968 \[42 U.S.C. 3901 et seq.\] or title VII of the Housing and Urban Development Act of 1970 \[42 U.S.C. 4501 et seq.\] which the Secretary determines are necessary to meet the housing requirements under such title; or
+&emsp;(2) applications for assistance with respect to housing in new community developments approved under title IV of the Housing and Urban Development Act of 1968 \[42 U.S.C. 3901 et seq.\] or title VII of the Housing and Urban Development Act of 1970 \[42 U.S.C. 4501 et seq.\]which the Secretary determines are necessary to meet the housing requirements under such title; or
 
 &emsp;(3) applications for assistance with respect to housing financed by loans or loan guarantees from a State or agency thereof, except that the provisions of subsection (a) of this section shall apply where the unit of general local government in which the assistance is to be provided objects in its housing assistance plan to the exemption provided by this paragraph.
 
@@ -96,7 +96,7 @@ Paragraph (4), referred to in subsec. (d)(4)(D), was redesignated paragraph (3) 
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Act of 1974, and not as part of the United States Housing Act of 1937 which comprises this chapter.
+Section was enacted as part of the Housing and Community Development Act of 1974, and not as part of theUnited States Housing Act of 1937 which comprises this chapter.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Subsec. (d)(1)(A)(ii). Pub. L. 105–276, §551(2)(A)(ii), substituted “8(<i>o
 
 Subsec. (d)(1)(B)(i). Pub. L. 105–276, §522(b)(2), which directed the amendment of subsec. (d)(1)(B)(ii), by striking out “or 14”, was executed by striking out “or 14” after “9” in subsec. (d)(1)(B)(i) to reflect the probable intent of Congress.
 
-Subsec. (d)(2) to (5). Pub. L. 105–276, §551(2)(B), (C), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not later than sixty days after approval in an appropriation Act, the Secretary shall allocate from the amounts available for use in nonmetropolitan areas an amount of authority for assistance under section 8(d) of the United States Housing Act of 1937 determined in consultation with the Secretary of Agriculture for use in connection with section 1490m of this title during the fiscal year for which such authority is approved. The amount of assistance allocated to nonmetropolitan areas pursuant to this section in any fiscal year shallnot be less than 20 nor more than 25 per centum of the total amount of the assistance that is subject to allocation under paragraph (1)(A).”
+Subsec. (d)(2) to (5). Pub. L. 105–276, §551(2)(B), (C), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not later than sixty days after approval in an appropriation Act, the Secretary shall allocate from the amounts available for use in nonmetropolitan areas an amount of authority for assistance under section 8(d) of the United States Housing Act of 1937 determined in consultation with the Secretary of Agriculture for use in connection with section 1490m of this title during the fiscal year for which such authority is approved. The amount of assistance allocated to nonmetropolitan areas pursuant to this section in any fiscal year shall not be less than 20 nor more than 25 per centum of the total amount of the assistance that is subject to allocation under paragraph (1)(A).”
 
 1996—Subsec. (d)(1)(B)(ii). Pub. L. 104–330 substituted “public housing” for “public and Indian housing”.
 
@@ -152,7 +152,7 @@ Subsec. (d)(5). Pub. L. 101–235, §101(c), added par. (5).
 
 1983—Subsec. (a)(1). Pub. L. 98–181, §201(a)(1), inserted provision following subpar. (B) requiring that funds be utilized to meet the needs and goals identified in the unit of local government's housing assistance plan.
 
-Subsec. (d)(1). Pub. L. 98–181, §201(a)(2), amended par. (1) generally, inserting provision respecting assistance approved in appropriation Acts for sections 9 and 17 of the United States Housing Act of 1937 uses, requiring allocation of assistance to be based on a formula contained in a regulation, making the relative needs provision applicable to different States, striking out requirement that Secretary assure, in carrying out national housing and community development objectives, that funds available for housing assistance programs be allocated or reserved in accordance with goals described in approved housing assistance plans, and striking out provision respecting allocation of funds for nonmetropolitan areas, which was reenacted as last sentence of par. (2).
+Subsec. (d)(1). Pub. L. 98–181, §201(a)(2), amended par. (1) generally, inserting provision respecting assistance approved in appropriation Acts for sections 9 and 17 of the United States Housing Act of 1937 uses, requiringallocation of assistance to be based on a formula contained in a regulation, making the relative needs provision applicable to different States, striking out requirement that Secretary assure, in carrying out national housing and community development objectives, that funds available for housing assistance programs be allocated or reserved in accordance with goals described in approved housing assistance plans, and striking out provision respecting allocation of funds for nonmetropolitan areas, which was reenacted as last sentence of par. (2).
 
 Subsec. (d)(2). Pub. L. 98–181, §201(a)(2), amended par. (2) generally, inserting provision respecting allocation of nonmetropolitan area funds for use in connection with section 1490<i>l</i> of this title; reenacting as second sentence provision respecting amount of funds allocated for nonmetropolitan areas, which formerly constituted last sentence of par. (1); and striking out former provision respecting reservation of housing assistance funds for new community developments approved under title IV of the Housing and Urban Development Act of 1968 and title VII of the Housing and Urban Development Act of 1970 for persons of low- and moderate-income.
 

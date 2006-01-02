@@ -16,7 +16,7 @@ Penalty authorized.—The Secretary of the Treasury may impose a civil money pen
 
 &emsp;(B)
 
-Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed the amount of the coins and currency (or such other monetary instruments as the Secretary may prescribe) involved in the transaction with respect to which such penalty is imposed.
+Maximum amount limitation.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed theamount of the coins and currency (or such other monetary instruments as the Secretary may prescribe) involved in the transaction with respect to which such penalty is imposed.
 
 &emsp;(C)
 
@@ -76,7 +76,7 @@ In general.—The Secretary of the Treasury may impose a civil money penalty of 
 
 &emsp;(B)
 
-Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter orany regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
 
 (7)
 
@@ -126,7 +126,7 @@ In general.—The Secretary of the Treasury shall prescribe by regulation the te
 
 &emsp;&emsp;(B)
 
-Maximum dollar amount.—The terms and conditions authorized under subparagraph (A) may include, in the Secretary's sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
+Maximum dollar amount.—The terms and conditions authorized under subparagraph (A) may include, in the Secretary'ssole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, §901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, §6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, §330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, §2223(3), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 107–56, title III, §§353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 322, 332, 335; Pub. L. 108–357, title VIII, §821(a), Oct. 22, 2004, 118 Stat. 1586.)
 
@@ -242,7 +242,7 @@ Subsec. (d). Pub. L. 99–570, §1357(f), added subsec. (d).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §821(b), Oct. 22, 2004, 118 Stat. 1586, provided that: “The amendment made by this section \[amending this section\] shall apply to violations occurring after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §821(b), Oct. 22, 2004, 118 Stat. 1586, provided that: “The amendment made bythis section \[amending this section\] shall apply to violations occurring after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1992 Amendment
 

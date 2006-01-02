@@ -20,7 +20,7 @@
 
 &emsp;(2) Aggregate monetary and fiscal policies alone have been unable to achieve full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance, and reasonable price stability, and therefore must be supplemented by other measures designed to serve these ends.
 
-&emsp;(3) Attainment of these objectives should be facilitated by setting explicit short-term andmedium-term economic goals, and by improved coordination among the President, the Congress, and the Board of Governors of the Federal Reserve System.
+&emsp;(3) Attainment of these objectives should be facilitated by setting explicit short-term and medium-term economic goals, and by improved coordination among the President, the Congress, and the Board of Governors of the Federal Reserve System.
 
 &emsp;(4) Increasing job opportunities and full employment would greatly contribute to the elimination of discrimination based upon sex, age, race, color, religion, national origin, handicap, or other improper factors.
 

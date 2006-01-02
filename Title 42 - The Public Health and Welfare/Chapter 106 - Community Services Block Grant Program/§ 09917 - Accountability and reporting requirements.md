@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) a summary of the planned use of funds by each State, and the eligible entities in the State, under the community services block grant program, as contained in each State plan submitted pursuant to section 9908 of this title;
 
-&emsp;&emsp;(B) a description of how funds were actually spent by the State and eligible entities in the State, including a breakdown of fundsspent on administrative costs and on the direct delivery of local services by eligible entities;
+&emsp;&emsp;(B) a description of how funds were actually spent by the State and eligible entities in the State, including a breakdown of funds spent on administrative costs and on the direct delivery of local services by eligible entities;
 
 &emsp;&emsp;(C) information on the number of entities eligible for funds under this chapter, the number of low-income persons served under this chapter, and such demographic data on the low-income populations served by eligible entities as is determined by the Secretary to be feasible;
 

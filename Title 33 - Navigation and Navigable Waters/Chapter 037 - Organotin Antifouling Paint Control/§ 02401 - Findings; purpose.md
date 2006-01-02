@@ -28,7 +28,7 @@ In General.—Except as provided in subsection (b), this Act \[enacting this cha
 
 “(b)
 
-Termination of Interim Prohibition.—Section 5(a) \[section 2404(a) of this title\] shall remain in effect until a final decision regarding the release of organotin into the aquatic environment by antifouling paints, pursuant to the process initiated by the Administrator's Position Document 1 dated January 8, 1986—
+Termination of Interim Prohibition.—Section 5(a) \[section 2404(a) of this title\] shall remain in effect until a final decision regarding the release of organotininto the aquatic environment by antifouling paints, pursuant to the process initiated by the Administrator's Position Document 1 dated January 8, 1986—
 
 &emsp;“(1) is issued by the Administrator; and
 

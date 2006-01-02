@@ -30,7 +30,3 @@ Limitation on Direct Loan and Guarantee Authority.—Direct loans and loan guara
 
 Subsec. (b)(1). Pub. L. 106–65, §2803(c)(2), substituted “an eligible entity” for “any person in the private sector” and “the eligible entity” for “the person”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2883 of this title.
-

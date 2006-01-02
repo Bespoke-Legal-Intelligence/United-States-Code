@@ -130,7 +130,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (C) Chairperson
 
-&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who is not an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
+&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who isnot an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
 
 #### (D) Terms
 
@@ -178,7 +178,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;(D) A review of urban and community forestry research, including—
 
-&emsp;&emsp;&emsp;(i) a review of all ongoing research associated with urban and community forests, arboricultural practices, and the economic, social, and psychological benefitsof trees and forest cover in urban and community environments being conducted by the Forest Service, other Federal agencies, and associated land grant colleges and universities;
+&emsp;&emsp;&emsp;(i) a review of all ongoing research associated with urban and community forests, arboricultural practices, and the economic, social, and psychological benefits of trees and forest cover in urban and community environments being conducted by the Forest Service, other Federal agencies, and associated land grant colleges and universities;
 
 &emsp;&emsp;&emsp;(ii) recommendations for new and expanded research efforts directed toward urban and community forestry concerns; and
 

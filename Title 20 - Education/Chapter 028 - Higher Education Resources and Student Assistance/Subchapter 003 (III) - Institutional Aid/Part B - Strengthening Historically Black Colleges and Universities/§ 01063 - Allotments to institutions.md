@@ -30,7 +30,7 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 #### (g) Special rule for certain District of Columbia eligible institutions
 
-In any fiscal year that the Secretary determines that Howard University or the University of the District of Columbia will receive an allotment under subsections (b) and (c) of this section which is not in excess of amounts receivedby Howard University under section 123 of this title, relating to annual authorization of appropriations for Howard University, or by the University of the District of Columbia under the District of Columbia Home Rule Act (87 Stat. 774) for such fiscal year, then Howard University and the University of the District of Columbia, as the case may be, shall be ineligible to receive an allotment under this section.
+In any fiscal year that the Secretary determines that Howard University or the University of the District of Columbia will receive an allotment under subsections (b) and (c) of this section which is not in excess of amounts received by Howard University under section 123 of this title, relating to annual authorization of appropriations for Howard University, or by the University of the District of Columbia under the District of Columbia Home Rule Act (87 Stat. 774) for such fiscal year, then Howard University and the University of the District of Columbia, as the case may be, shall be ineligible to receive an allotment under this section.
 
 (Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786.)
 
@@ -42,7 +42,7 @@ The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 9
 
 #### Prior Provisions
 
-A prior section 1063, Pub. L. 89–329, title III, §324, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1395, related to Federal share of grants to institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99–498.
+A prior section 1063, Pub. L. 89–329, title III, §324, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat.1395, related to Federal share of grants to institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99–498.
 
 Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 Stat. 1233, related to duration of grant and eligibility for payments, prior to the general revision of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 

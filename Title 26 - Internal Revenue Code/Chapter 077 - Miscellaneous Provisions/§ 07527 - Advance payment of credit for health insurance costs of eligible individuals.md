@@ -6,7 +6,7 @@ Not later than August 1, 2003, the Secretary shall establish a program for makin
 
 #### (b) Limitation on advance payments during any taxable year
 
-The Secretary may make payments under subsection (a) only to the extent that the total amount of such payments made on behalf of any individual during the taxable year does not exceed 65 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+The Secretary may make payments under subsection (a) only to the extent that the totalamount of such payments made on behalf of any individual during the taxable year does not exceed 65 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
 
 #### (c) Certified individual
 
@@ -25,8 +25,4 @@ For purposes of this section, the term “qualified health insurance costs credi
 #### Construction
 
 Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 35, 6050T, 6103 of this title; title 29 section 2918.
 

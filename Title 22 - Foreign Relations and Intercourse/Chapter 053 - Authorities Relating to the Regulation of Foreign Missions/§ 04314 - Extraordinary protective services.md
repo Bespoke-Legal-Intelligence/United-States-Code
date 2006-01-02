@@ -6,7 +6,7 @@ The Secretary may provide extraordinary protective services for foreign missions
 
 #### (b) Requirement of extraordinary circumstances
 
-The Secretary may provide funds to a State or local authority for protective services under this section only if the Secretary has determined that a threat of violence, or other circumstances, exists which requires extraordinary security measures which exceed those which local law enforcment <sup>2</sup> agencies can reasonably be expected to take.
+The Secretary may provide funds to a State or local authority for protective services under this section only if the Secretary has determined that a threat of violence, or other circumstances, exists which requires extraordinary security measures which exceed those whichlocal law enforcment <sup>2</sup> agencies can reasonably be expected to take.
 
 #### (c) Repealed. Pub. L. 103–236, title I, §139(2), Apr. 30, 1994, 108 Stat. 397
 
@@ -26,7 +26,7 @@ Any agreement with a State or local authority for the provision of protective se
 
 #### (f) Requirement for appropriations
 
-Contracts may be entered into in carrying out this section only to such extent or in suchamounts as are provided in advance in appropriation Acts.
+Contracts may be entered into in carrying out this section only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (g) Working capital fund
 

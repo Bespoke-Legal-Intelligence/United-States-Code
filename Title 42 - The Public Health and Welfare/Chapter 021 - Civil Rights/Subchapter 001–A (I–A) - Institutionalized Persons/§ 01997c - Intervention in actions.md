@@ -12,7 +12,7 @@
 
 &emsp;(A) that the Attorney General has notified in writing, at least fifteen days previously, the Governor or chief executive officer, attorney general or chief legal officer of the appropriate State or political subdivision, and the director of the institution of—
 
-&emsp;&emsp;(i) the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of theUnited States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
+&emsp;&emsp;(i) the alleged conditions which deprive rights, privileges, or immunities secured or protected by the Constitution or laws of the United States and the alleged pattern or practice of resistance to the full enjoyment of such rights, privileges, or immunities;
 
 &emsp;&emsp;(ii) the supporting facts giving rise to the alleged conditions, including the dates and time period during which the alleged conditions and pattern or practice of resistance occurred; and
 

@@ -12,6 +12,10 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 Provisions similar to those comprising this section were contained in section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–58, title VI, §601, Aug. 8, 2005, 119 Stat. 779, provided that: “This subtitle \[subtitle A (§§601–610) of title VI of Pub. L. 109–58, amending sections 2210 and 2282a of this title and enacting provisions set out as notes under sections 2210 and 2282a of this title\] may be cited as the ‘Price-Anderson Amendments Act of 2005’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–245, §1, July 10, 2000, 114 Stat. 501, provided that: “This Act \[enacting section 285a–9 of this title and enacting and amending provisions set out as notes under section 2210 of this title\] may be cited as the ‘Radiation Exposure Compensation Act Amendments of 2000’.”

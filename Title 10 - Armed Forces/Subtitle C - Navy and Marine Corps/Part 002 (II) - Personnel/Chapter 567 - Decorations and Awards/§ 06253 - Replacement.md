@@ -24,7 +24,3 @@ The words “Secretary of the Navy may replace” are substituted for the words 
 
 2001—Pub. L. 107–107 substituted “stolen, lost, or destroyed” for “lost or destroyed”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 704.
-

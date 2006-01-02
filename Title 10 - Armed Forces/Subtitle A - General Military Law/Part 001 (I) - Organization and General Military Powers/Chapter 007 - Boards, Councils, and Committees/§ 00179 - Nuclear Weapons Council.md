@@ -1,6 +1,8 @@
 ### §179. Nuclear Weapons Council
 
-(a) There is a Joint Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) composed of three members as follows:
+(a)
+
+Establishment; Membership.—There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
 
 &emsp;(1) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -8,21 +10,29 @@
 
 &emsp;(3) The Under Secretary for Nuclear Security of the Department of Energy.
 
-(b)(1) Except as provided in paragraph (2), the Chairman of the Council shall be the member designated under subsection (a)(1).
+&emsp;(4) The Under Secretary of Defense for Policy.
+
+(b)
+
+Chairman; Meetings.—(1) Except as provided in paragraph (2), the Chairman of the Council shall be the member designated under subsection (a)(1).
 
 (2) A meeting of the Council shall be chaired by the Under Secretary for Nuclear Security of the Department of Energy whenever the matter under consideration is within the primary responsibility or concern of the Department of Energy, as determined by majority vote of the Council.
 
 (3) The Council shall meet not less often than once every three months.
 
-(c)(1) The Secretary of Defense and the Secretary of Energy shall enter into an agreement with the Council to furnish necessary staff and administrative services to the Council.
+(c)
+
+Staff and Administrative Services; Staff Director.—(1) The Secretary of Defense and the Secretary of Energy shall enter into an agreement with the Council to furnish necessary staff and administrative services to the Council.
 
 (2) The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs shall be the Staff Director of the Council.
 
 (3)(A) Whenever the position of Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs has been vacant a period of more than 6 months, the Secretary of Energy shall designate a qualified individual to serve as acting staff director of the Council until the position of that Assistant to the Secretary is filled.
 
-(B) An individual appointed under subparagraph (A) shall possess substantial technical and policy experience relevant to the management and oversight of nuclear weapons programs.
+(B) An individual designated under subparagraph (A) shall possess substantial technical and policy experience relevant to the management and oversight of nuclear weapons programs.
 
-(d) The Council shall be responsible for the following matters:
+(d)
+
+Responsibilities.—The Council shall be responsible for the following matters:
 
 &emsp;(1) Preparing the annual Nuclear Weapons Stockpile Memorandum.
 
@@ -50,9 +60,13 @@
 
 > &emsp;and transmitting such guidance and comments to the Secretary of Defense before the preparation of the annual budget request of the Department of Defense.
 
-(e) In addition to the responsibilities set forth in subsection (d), the Council shall also submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
+(e)
 
-(f) Each fiscal year, at the same time the President submits the budget pursuant to section 1105 of title 31, the Chairman of the Council, through the Secretary of Energy, shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report, in classified form, on the following:
+Report on Difficulties Relating to Safety or Reliability.—The Council shall submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
+
+(f)
+
+Annual Report.—Each fiscal year, at the same time the President submits the budget pursuant to section 1105 of title 31, the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, on the following:
 
 &emsp;(1) The effectiveness and efficiency of the Council, and of the deliberative and decisionmaking processes used by the Council, in carrying out the responsibilities described in subsection (d).
 
@@ -62,7 +76,7 @@
 
 &emsp;&emsp;(B) the schedule for completion of each such activity or study; and
 
-&emsp;&emsp;(C) the degree to which each such activity or study is consistent with United States policy for new nuclear warhead development or warhead modification and with established or projected military requirements.
+&emsp;&emsp;(C) the degree to which each such activity or study is consistent with United Statespolicy for new nuclear warhead development or warhead modification and with established or projected military requirements.
 
 &emsp;(3) A description of the activities of the Council during the 12-month period ending on the date of the report together with any assessments or studies conducted by the Council during that period.
 
@@ -70,9 +84,25 @@
 
 &emsp;(5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
 
-(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, §4213(c), formerly Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered §4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760.)
+(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, §4213(c), formerly Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered §4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 108–375, div. A, title IX, §902(a)–(d), Oct. 28, 2004, 118 Stat. 2025.)
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–375, §902(b), (d)(1), inserted heading and, in introductory provisions, struck out “Joint” before “Nuclear Weapons Council” and substituted “operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:” for “composed of three members as follows:”.
+
+Subsec. (a)(4). Pub. L. 108–375, §902(a), added par. (4).
+
+Subsec. (b). Pub. L. 108–375, §902(d)(2), inserted heading.
+
+Subsec. (c). Pub. L. 108–375, §902(d)(3), inserted heading.
+
+Subsec. (c)(3)(B). Pub. L. 108–375, §902(c)(1), substituted “designated” for “appointed”.
+
+Subsec. (d). Pub. L. 108–375, §902(d)(4), inserted heading.
+
+Subsec. (e). Pub. L. 108–375, §902(c)(2), (d)(5), inserted heading and substituted “The Council shall” for “In addition to the responsibilities set forth in subsection (d), the Council shall also” in text.
+
+Subsec. (f). Pub. L. 108–375, §902(c)(3), (d)(6), inserted heading and substituted “congressional defense committees” for “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives” in introductory provisions.
 
 2001—Subsec. (a)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -113,8 +143,4 @@ Subsec. (e). Pub. L. 103–337, §3152(b), added subsec. (e).
 #### Chairman of JCS To Serve on Council If There Is No Vice Chairman of JCS
 
 Section 3137(b) of Pub. L. 99–661 provided that: “If on the date of the enactment of this section \[Nov. 14, 1986\] the position of Vice Chairman of the Joint Chiefs of Staff, or comparable position, has not been established by law, the Chairman of the Joint Chiefs of Staff shall be a member of the Nuclear Weapons Council established by section 179 of title 10, United States Code, as added by subsection (a). If the position of Vice Chairman of the Joint Chiefs of Staff (or comparable position) is established by law after the date of the enactment of this section, the Chairman of the Joint Chiefs of Staff shall remain a member of such Council only until an individual has been appointed Vice Chairman of the Joint Chiefs of Staff.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 142 of this title; title 42 section 7274p; title 50 section 2402.
 

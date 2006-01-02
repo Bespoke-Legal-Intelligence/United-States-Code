@@ -38,7 +38,7 @@ Prior to submitting a workforce flexibility plan to the Secretary for approval, 
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act, which is classified to section 3056d of Title 42, was amended generally byPub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2276, and provisions formerly appearing in subsec. (a)(3) of that section are now contained in subsec. (e). For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act, which is classified to section 3056d of Title 42, was amended generally by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2276, and provisions formerly appearing in subsec. (a)(3) of that section are now contained in subsec. (e). For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(2)(A) household goods, personal effects, and an automobile, to the extent that their total value does not exceed such amount as the Commissioner of Social Security determines to be reasonable; and
 
-&emsp;(B) the value of any burial space or agreement (including any interest accumulated thereon) representing the purchase of a burial space (subject to such limits as to size orvalue as the Commissioner of Social Security may by regulation prescribe) held for the purpose of providing a place for the burial of the individual, his spouse, or any other member of his immediate family;
+&emsp;(B) the value of any burial space or agreement (including any interest accumulated thereon) representing the purchase of a burial space (subject to such limits as to size or value as the Commissioner of Social Security may by regulation prescribe) held for the purpose of providing a place for the burial of the individual, his spouse, or any other member of his immediate family;
 
 &emsp;(3) other property which is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion, as determined in accordance with and subject to limitations prescribed by the Commissioner of Social Security, except that the Commissioner of Social Security shall not establish a limitation on property (including the tools of a tradesperson and the machinery and livestock of a farmer) that is used in a trade or business or by such individual as an employee;
 
@@ -18,7 +18,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(6) assistance referred to in section 1382a(b)(11) of this title for the 9-month period beginning on the date such funds are received (or for such longer period as the Commissioner of Social Security shall by regulations prescribe in cases where good cause is shown by the individual concerned for extending such period); and, for purposes of this paragraph, the term “assistance” includes interest thereon which is excluded from income under section 1382a(b)(12) of this title;
 
-&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipient concurrently with the payment of such amount;
+&emsp;(7) any amount received from the United States which is attributable to underpayments of benefits due for one or more prior months, under this subchapter or subchapter II of this chapter, to such individual (or spouse) or to any other person whose income is deemed to be included in such individual's (or spouse's) income for purposes of this subchapter; but the application of this paragraph in the case of any such individual (and eligible spouse if any), with respect to any amount so received from the United States, shall be limited to the first 9 months following the month in which such amount is received, and written notice of this limitation shall be given to the recipientconcurrently with the payment of such amount;
 
 &emsp;(8) the value of assistance referred to in section 1382a(b)(14) of this title, paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
 
@@ -48,7 +48,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 #### (b) Disposition of resources; grounds for exemption from disposition requirements
 
-(1) The Commissioner of Social Security shall prescribe the period or periods of time withinwhich, and the manner in which, various kinds of property must be disposed of in order not to be included in determining an individual's eligibility for benefits. Any portion of the individual's benefits paid for any such period shall be conditioned upon such disposal; and any benefits so paid shall (at the time of the disposal) be considered overpayments to the extent they would not have been paid had the disposal occurred at the beginning of the period for which such benefits were paid.
+(1) The Commissioner of Social Security shall prescribe the period or periods of time within which, and the manner in which, various kinds of property must be disposed of in order not to be included in determining an individual's eligibility for benefits. Any portion of the individual's benefits paid for any such period shall be conditioned upon such disposal; and any benefits so paid shall (at the time of the disposal) be considered overpayments to the extent they would not have been paid had the disposal occurred at the beginning of the period for which such benefits were paid.
 
 (2) Notwithstanding the provisions of paragraph (1), the Commissioner of Social Security shall not require the disposition of any real property for so long as it cannot be sold because (A) it is jointly owned (and its sale would cause undue hardship, due to loss of housing, for the other owner or owners), (B) its sale is barred by a legal impediment, or (C) as determined under regulations issued by the Commissioner of Social Security, the owner's reasonable efforts to sell it have been unsuccessful.
 
@@ -124,7 +124,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(iii) the term “trust” has the meaning given such term in subsection (e)(6)(A) of this section.
 
-(2)(A) At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, if any) for such benefits is redetermined, the Commissioner of Social Security shall—
+(2)(A) At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this subchapter, and at the time the eligibility of an individual (and such spouse, ifany) for such benefits is redetermined, the Commissioner of Social Security shall—
 
 &emsp;(i) inform such individual of the provisions of paragraph (1) and section 1396p(c) of this title providing for a period of ineligibility for benefits under this subchapter and subchapter XIX of this chapter, respectively, for individuals who make certain dispositions of resources for less than fair market value, and inform such individual that information obtained pursuant to clause (ii) will be made available to the State agency administering a State plan under subchapter XIX of this chapter (as provided in subparagraph (B)); and
 
@@ -180,7 +180,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;&emsp;(ii) any resource otherwise excluded by this section; and
 
-&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual's spouse) is entitled but does not receive or have access to because of action by—
+&emsp;&emsp;(iii) any other payment or property to which the individual (or of the individual'sspouse) is entitled but does not receive or have access to because of action by—
 
 &emsp;&emsp;&emsp;(I) the individual or spouse;
 

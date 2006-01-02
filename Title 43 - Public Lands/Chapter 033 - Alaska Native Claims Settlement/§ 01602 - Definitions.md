@@ -8,7 +8,7 @@ For the purposes of this chapter, the term—
 
 (c) “Native village” means any tribe, band, clan, group, village, community, or association in Alaska listed in sections 1610 and 1615 of this title, or which meets the requirements of this chapter, and which the Secretary determines was, on the 1970 census enumeration date (as shown by the census or other evidence satisfactory to the Secretary, who shall make findings of fact in each instance), composed of twenty-five or more Natives;
 
-(d) “Native group” means any tribe, band, clan, village, community, or village associationof Natives in Alaska composed of less than twenty-five Natives, who comprise a majority of the residents of the locality;
+(d) “Native group” means any tribe, band, clan, village, community, or village association of Natives in Alaska composed of less than twenty-five Natives, who comprise a majority of the residents of the locality;
 
 (e) “Public lands” means all Federal lands and interests therein located in Alaska except: (1) the smallest practicable tract, as determined by the Secretary, enclosing land actually used in connection with the administration of any Federal installation, and (2) land selections of the State of Alaska which have been patented or tentatively approved under section 6(g) of the Alaska Statehood Act, as amended (72 Stat. 341, 77 Stat. 223), or identified for selection by the State prior to January 17, 1969;
 

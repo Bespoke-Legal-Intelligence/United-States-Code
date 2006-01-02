@@ -1,5 +1,5 @@
 
-11 U.S.C.<br>United States Code, 2004 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
+11 U.S.C.<br>United States Code, 2005 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 11—BANKRUPTCY
 
@@ -13,18 +13,20 @@
 | [<b>7.</b>](Chapter%20007%20-%20Liquidation/README.md) | <b>Liquidation</b> | <b>701</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/README.md) | <b>Adjustment of Debts of a Municipality</b> | <b>901</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Reorganization/README.md) | <b>Reorganization</b> | <b>1101</b> |
-| [<b>12.</b>](Chapter%20012%20-%20Adjustment%20of%20Debts%20of%20a%20Family%20Farmer%20with%20Regular%20Annual%20Income/README.md) | <b>Adjustment of Debts of Family Farmers with Regular Annual Income </b><b><sup>1</sup></b> | <b>1201</b> |
+| [<b>12.</b>](Chapter%20012%20-%20Adjustment%20of%20Debts%20of%20a%20Family%20Farmer%20or%20Fisherman%20with%20Regular%20Annual%20Income/README.md) | <b>Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income </b><b><sup>1</sup></b> | <b>1201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>13.</b>](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/README.md) | <b>Adjustment of Debts of an Individual With Regular Income</b> | <b>1301</b> |
-| <b>\[15.</b> | <b>Repealed.\]</b> |  |
+| [<b>15.</b>](Chapter%20015%20-%20Ancillary%20and%20Other%20Cross-Border%20Cases/README.md) | <b>Ancillary and Other Cross-Border Cases</b> | <b>1501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted “Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income” for “Adjustment of Debts of Family Farmers with Regular Annual Income” in item for chapter 12 and added item for chapter 15.
 
 1994—Pub. L. 103–394, title V, §501(d)(39), Oct. 22, 1994, 108 Stat. 4147, struck out item for chapter 15, “United States Trustees”.
 
@@ -4124,7 +4126,7 @@ T. 15 §78c(a)(4), (5)
 
 #### Enacting Clause
 
-Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549, provided in part: “The law relating to bankruptcy is codified and enacted as title 11 of the United States Code, entitled ‘Bankruptcy’, and may be cited as 11 U.S.C. §—.”
+Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549, provided in part: “The law relating to bankruptcy is codified and enacted as title 11 of the United StatesCode, entitled ‘Bankruptcy’, and may be cited as 11 U.S.C. §—.”
 
 #### Repeals
 
@@ -4209,6 +4211,6 @@ Pub. L. 91–354, §§1–6, July 24, 1970, 84 Stat. 468, as amended by Pub. L. 
 - [Chapter 007 - Liquidation](Chapter%20007%20-%20Liquidation/README.md)
 - [Chapter 009 - Adjustment of Debts of a Municipality](Chapter%20009%20-%20Adjustment%20of%20Debts%20of%20a%20Municipality/README.md)
 - [Chapter 011 - Reorganization](Chapter%20011%20-%20Reorganization/README.md)
-- [Chapter 012 - Adjustment of Debts of a Family Farmer with Regular Annual Income](Chapter%20012%20-%20Adjustment%20of%20Debts%20of%20a%20Family%20Farmer%20with%20Regular%20Annual%20Income/README.md)
+- [Chapter 012 - Adjustment of Debts of a Family Farmer or Fisherman with Regular Annual Income](Chapter%20012%20-%20Adjustment%20of%20Debts%20of%20a%20Family%20Farmer%20or%20Fisherman%20with%20Regular%20Annual%20Income/README.md)
 - [Chapter 013 - Adjustment of Debts of an Individual with Regular Income](Chapter%20013%20-%20Adjustment%20of%20Debts%20of%20an%20Individual%20with%20Regular%20Income/README.md)
-- [Chapter 015 - Repealed](Chapter%20015%20-%20Repealed/README.md)
+- [Chapter 015 - Ancillary and Other Cross-Border Cases](Chapter%20015%20-%20Ancillary%20and%20Other%20Cross-Border%20Cases/README.md)

@@ -1,6 +1,12 @@
 ### §1513a. Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification
 
-Beginning in fiscal year 2006 and for each fiscal year thereafter, the Secretary of Commerce shall include in the budget justification materials that the Secretary submits to Congress in support of the Department of Commerce budget (as submitted with the budget of the President under section 1105(a) of title 31) an estimate for each National Oceanic and Atmospheric Administration procurement, acquisition and construction program having a total multiyear program cost of more than $5,000,000 and simultaneously the budget justification materials shall include an estimate of the budgetary requirements for each such program for each of the 5 subsequent fiscal years.
+Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary of Commerce shall include in the budget justification materials that the Secretary submits to Congress in support of the Department of Commerce budget (as submitted with the budget of the President under section 1105(a) of title 31) an estimate for each National Oceanic and Atmospheric Administration procurement, acquisition and construction program having a total multiyear program cost of more than $5,000,000 and an estimate of the budgetary requirements for each such program for each of the five subsequent fiscal years.
 
-(Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2881.)
+(Pub. L. 109–108, title II, Nov. 22, 2005, 119 Stat. 2312.)
+
+#### Prior Provisions
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2881.
 

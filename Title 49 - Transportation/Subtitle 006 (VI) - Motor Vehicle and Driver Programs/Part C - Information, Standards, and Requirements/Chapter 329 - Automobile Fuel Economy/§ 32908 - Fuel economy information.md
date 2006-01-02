@@ -60,7 +60,7 @@ Fuel Economy Information Booklet.—(1) The Administrator shall prepare the book
 
 &emsp;(i) information on the miles a gallon achieved by the automobiles when operated on alternative fuel; and
 
-&emsp;(ii) a statement explaining how the information made available under this paragraph can be expected to change when the automobile is operated on mixtures of alternative fuel and gasoline or diesel fuel.
+&emsp;(ii) a statement explaining how the information made available under this paragraph can be expected to change when the automobile isoperated on mixtures of alternative fuel and gasoline or diesel fuel.
 
 (3) The Secretary of Energy shall publish and distribute the booklet. The Administrator shall prescribe regulations requiring dealers to make the booklet available to prospective buyers.
 

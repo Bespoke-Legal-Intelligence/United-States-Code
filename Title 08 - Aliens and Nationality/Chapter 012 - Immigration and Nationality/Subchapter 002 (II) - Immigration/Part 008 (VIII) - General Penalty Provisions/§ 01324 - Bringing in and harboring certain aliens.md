@@ -28,6 +28,8 @@
 
 &emsp;(iv) in the case of a violation of subparagraph (A)(i), (ii), (iii), (iv), or (v) resulting in the death of any person, be punished by death or imprisoned for any term of years or for life, fined under title 18, or both.
 
+(C) It is not a violation of clauses <sup>1</sup> (ii) or (iii) of subparagraph (A), or of clause (iv) of subparagraph (A) except where a person encourages or induces an alien to come to or enter the United States, for a religious denomination having a bona fide nonprofit, religious organization in the United States, or the agents or officers of such denomination or organization, to encourage, invite, call, allow, or enable an alien who is present in the United States to perform the vocation of a minister or missionary for the denomination or organization in the United States as a volunteer who is not compensated as an employee, notwithstanding the provision of room, board, travel, medical assistance, and other basic living expenses, provided the minister or missionary has been a member of the denomination for at least one year.
+
 (2) Any person who, knowing or in reckless disregard of the fact that an alien has not received prior official authorization to come to, enter, or reside in the United States, brings to or attempts to bring to the United States in any manner whatsoever, such alien, regardless of any official action which may later be taken with respect to such alien shall, for each alien in respect to whom a violation of this paragraph occurs—
 
 &emsp;(A) be fined in accordance with title 18 or imprisoned not more than one year, or both; or
@@ -92,13 +94,15 @@ Notwithstanding any provision of the Federal Rules of Evidence, the videotaped (
 
 The Secretary of Homeland Security, in consultation with the Attorney General and the Secretary of State, as appropriate, shall develop and implement an outreach program to educate the public in the United States and abroad about the penalties for bringing in and harboring aliens in violation of this section.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720; Pub. L. 106–185, §18(a), Apr. 25, 2000, 114 Stat. 222; Pub. L. 108–458, title V, §5401, Dec. 17, 2004, 118 Stat. 3737.)
+(June 27, 1952, ch. 477, title II, ch. 8, §274, 66 Stat. 228; Pub. L. 95–582, §2, Nov. 2, 1978, 92 Stat. 2479; Pub. L. 97–116, §12, Dec. 29, 1981, 95 Stat. 1617; Pub. L. 99–603, title I, §112, Nov. 6, 1986, 100 Stat. 3381; Pub. L. 100–525, §2(d), Oct. 24, 1988, 102 Stat. 2610; Pub. L. 103–322, title VI, §60024, Sept. 13, 1994, 108 Stat. 1981; Pub. L. 104–208, div. C, title II, §§203(a)–(d), 219, title VI, §671(a)(1), Sept. 30, 1996, 110 Stat. 3009–565, 3009–566, 3009–574, 3009–720; Pub. L. 106–185, §18(a), Apr. 25, 2000, 114 Stat. 222; Pub. L. 108–458, title V, §5401, Dec. 17, 2004, 118 Stat. 3737; Pub. L. 109–97, title VII, §796, Nov. 10, 2005, 119 Stat. 2165.)
 
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2005—Subsec. (a)(1)(C). Pub. L. 109–97 added subpar. (C).
 
 2004—Subsec. (a)(4). Pub. L. 108–458, §5401(a), added par. (4).
 
@@ -126,7 +130,7 @@ Subsec. (a)(3). Pub. L. 104–208, §203(b)(4), added par. (3).
 
 Subsec. (d). Pub. L. 104–208, §219, added subsec. (d).
 
-1994—Subsec. (a)(1). Pub. L. 103–322, §60024(1)(F), as amended by Pub. L. 104–208, §671(a)(1), substituted “shall be punished as provided in subparagraph (B)” for “shall be fined in accordance with title 18, United States Code, or imprisoned not more than five years, or both, for each alien in respect to whom any violation of this paragraph occurs” in concluding provisions.
+1994—Subsec. (a)(1). Pub. L. 103–322, §60024(1)(F), as amended by Pub. L. 104–208, §671(a)(1), substituted“shall be punished as provided in subparagraph (B)” for “shall be fined in accordance with title 18, United States Code, or imprisoned not more than five years, or both, for each alien in respect to whom any violation of this paragraph occurs” in concluding provisions.
 
 Pub. L. 103–322, §60024(1)(A)–(E), (G), designated existing provisions of par. (1) as subpar. (A) of par. (1), redesignated subpars. (A) to (D) of former par. (1) as cls. (i) to (iv), respectively, of subpar. (A), and added subpar. (B).
 
@@ -158,7 +162,7 @@ Subsec. (b)(4)(C). Pub. L. 99–603, §112(b)(5), as amended by Pub. L. 100–52
 
 Subsec. (b)(4)(D). Pub. L. 99–603, §112(b)(6), added subpar. (D).
 
-Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100–525, §2(d)(2)(B), substituted “, exceptthat” for “: <i>Provided</i>, That” in provisions preceding subpar. (A), substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not lawfully entitled to enter, or reside within, the United States” wherever appearing, inserted “or of the Department of State” in subpar. (B), and substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not entitled to enter, or reside within, the United States” in subpar. (C).
+Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100–525, §2(d)(2)(B), substituted “, except that” for “: <i>Provided</i>, That” in provisions preceding subpar. (A), substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not lawfully entitled to enter, or reside within, the United States” wherever appearing, inserted “or of the Department of State” in subpar. (B), and substituted “had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law” for “was not entitled to enter, or reside within, the United States” in subpar. (C).
 
 1981—Subsec. (b). Pub. L. 97–116 strengthened the seizure and forfeiture authority by striking out the “innocent owner” exemption and merely requiring the Government to show probable cause that the conveyance seized has been used to illegally transport aliens, which when demonstrated, shifts the burden of proof to the owner or claimant to show by a preponderance of the evidence that the conveyance was not illegally used, by relieving the Government of the obligation to pay any administrative and incidental costs incurred by a successful claimant provided probable cause for the original seizure was demonstrated, and by striking out the requirement that the Government satisfy any valid lien or third party interest in the conveyance without expense to the interest holder by providing the lienholders interest be satisfied only after costs associated with the seizure have been deducted.
 
@@ -185,4 +189,6 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
 

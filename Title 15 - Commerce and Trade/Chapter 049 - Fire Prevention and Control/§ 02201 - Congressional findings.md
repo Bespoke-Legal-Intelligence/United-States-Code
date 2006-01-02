@@ -160,7 +160,7 @@ There is hereby established as an independent establishment in the Executive Bra
 
 #### Sec. 102. The Director
 
-The Agency shall be headed by a Director, who shall be appointed by the President, by and with the adviceand consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level II of the Executive Schedule \[5 U.S.C. 5313\].
+The Agency shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for level II of the Executive Schedule \[5 U.S.C. 5313\].
 
 #### Sec. 103. The Deputy Director
 
@@ -218,7 +218,7 @@ The provisions of this Reorganization Plan shall become effective at such time o
 
 Today I am transmitting Reorganization Plan No. 3 of 1978. The plan improves Federal emergency management and assistance. By consolidating emergency preparedness, mitigation and response activities, it cuts duplicative administrative costs and strengthens our ability to deal effectively with emergencies.
 
-The plan, together with changes I will make through Executive action, would merge five agencies from the Departments of Defense, Commerce, HUD, and GSA into one new agency.
+The plan, together with changes I will make through Executive action, would merge five agencies from theDepartments of Defense, Commerce, HUD, and GSA into one new agency.
 
 For the first time, key emergency management and assistance functions would be unified and made directly accountable to the President and Congress. This will reduce pressures for increased costs to serve similar goals.
 
@@ -266,7 +266,7 @@ Most State and local governments have consolidated emergency planning, preparedn
 
 Each of the changes set forth in the plan is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. The plan does not call for abolishing any functions now authorized by law. The provisions in the plan for the appointment and pay of any head or officer of the new agency have been found by me to be necessary.
 
-I do not expect these actions to result in any significant changes in program expenditures for those authorities to be transferred. However, cost savings of between $10 to $15 million annually can be achieved by consolidating headquarters and regional facilities and staffs. The elimination (through attrition) of about 300 jobs is also anticipated.
+I do not expect these actions to result in any significant changes in program expenditures for those authorities to be transferred. However, cost savings of between $10 to $15 million annually can be achieved by consolidating headquarters and regional facilities andstaffs. The elimination (through attrition) of about 300 jobs is also anticipated.
 
 The emergency planning and response authorities involved in this plan are vitally important to the security and well-being of our Nation. I urge the Congress to approve it.
 
@@ -278,7 +278,7 @@ The White House, June 19, 1978
 
 Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 

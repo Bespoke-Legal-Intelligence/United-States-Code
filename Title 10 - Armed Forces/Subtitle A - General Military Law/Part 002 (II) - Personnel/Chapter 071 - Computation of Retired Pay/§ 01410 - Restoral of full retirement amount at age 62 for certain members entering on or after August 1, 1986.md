@@ -20,7 +20,3 @@ In the case of a member or former member who first became a member of a uniforme
 
 Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as a note under section 1401a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1451, 1452 of this title; title 37 section 322.
-

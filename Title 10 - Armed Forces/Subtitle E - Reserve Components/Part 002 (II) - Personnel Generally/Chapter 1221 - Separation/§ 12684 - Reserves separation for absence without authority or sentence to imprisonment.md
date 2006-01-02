@@ -18,7 +18,3 @@ Provisions similar to those in this section were contained in section 1163(b) of
 
 1996—Pub. L. 104–106 struck out “or” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12683, 12685 of this title.
-

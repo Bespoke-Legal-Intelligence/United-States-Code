@@ -2,15 +2,15 @@
 
 (a)
 
-Planning Grants.—(1) The Secretary of Transportation shall make grants to States and Indian tribes—
+Planning Grants.—(1) The Secretary shall make grants to States and Indian tribes—
 
 &emsp;(A) to develop, improve, and carry out emergency plans under the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001 et seq.), including ascertaining flow patterns of hazardous material on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe; and
 
 &emsp;(B) to decide on the need for a regional hazardous material emergency response team.
 
-(2) The Secretary of Transportation may make a grant to a State or Indian tribe under paragraph (1) of this subsection in a fiscal year only if—
+(2) The Secretary may make a grant to a State or Indian tribe under paragraph (1) of this subsection in a fiscal year only if—
 
-&emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the United States Government) to develop, improve, and carry out emergency plans under the Act will at least equal the average level of expenditure for the last 2 fiscal years; and
+&emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the United States Government) to develop, improve, and carry out emergency plans under the Act will at least equal the average level of expenditure for the last 5 fiscal years; and
 
 &emsp;(B) the State agrees to make available at least 75 percent of the amount of the grant under paragraph (1) of this subsection in the fiscal year to local emergency planning committees established under section 301(c) of the Act (42 U.S.C. 11001(c)) to develop emergency plans under the Act.
 
@@ -18,11 +18,11 @@ Planning Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 (b)
 
-Training Grants.—(1) The Secretary of Transportation shall make grants to States and Indian tribes to train public sector employees to respond to accidents and incidents involving hazardous material.
+Training Grants.—(1) The Secretary shall make grants to States and Indian tribes to train public sector employees to respond to accidents and incidents involving hazardous material.
 
-(2) The Secretary of Transportation may make a grant under paragraph (1) of this subsection in a fiscal year—
+(2) The Secretary may make a grant under paragraph (1) of this subsection in a fiscal year—
 
-&emsp;(A) to a State or Indian tribe only if the State or tribe certifies that the total amount the State or tribe expends (except amounts of the Government) to train public sector employees to respond to an accident or incident involving hazardous material will at least equal the average level of expenditure for the last 2 fiscal years;
+&emsp;(A) to a State or Indian tribe only if the State or tribe certifies that the total amount the State or tribe expends (except amounts of the Government) to train public sector employees to respond to an accident or incident involving hazardous material will at least equal the average level of expenditure for the last 5 fiscal years;
 
 &emsp;(B) to a State or Indian tribe only if the State or tribe makes an agreement with the Secretary that the State or tribe will use in that fiscal year, for training public sector employees to respond to an accident or incident involving hazardous material—
 
@@ -46,13 +46,13 @@ Training Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 &emsp;(B) by the State, political subdivision, or Indian tribe to provide the training; and
 
-&emsp;(C) to make an agreement the Secretary of Transportation approves authorizing a person (including an authority of a State or political subdivision of a State or Indian tribe) to provide the training—
+&emsp;(C) to make an agreement the Secretary approves authorizing a person (including an authority of a State or political subdivision of a State or Indian tribe) to provide the training—
 
 &emsp;&emsp;(i) if the agreement allows the Secretary and the State or tribe to conduct random examinations, inspections, and audits of the training without prior notice; and
 
 &emsp;&emsp;(ii) if the State or tribe conducts at least one on-site observation of the training each year.
 
-(4) The Secretary of Transportation shall allocate amounts made available for grants under this subsection for a fiscal year among eligible States and Indian tribes based on the needs of the States and tribes for emergency response training. In making a decision about those needs, the Secretary shall consider—
+(4) The Secretary shall allocate amounts made available for grants under this subsection for a fiscal year among eligible States and Indian tribes based on the needs of the States and tribes for emergency response training. In making a decision about those needs, the Secretary shall consider—
 
 &emsp;(A) the number of hazardous material facilities in the State or on land under the jurisdiction of the tribe;
 
@@ -66,11 +66,11 @@ Training Grants.—(1) The Secretary of Transportation shall make grants to Stat
 
 (c)
 
-Compliance With Certain Law.—The Secretary of Transportation may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
+Compliance With Certain Law.—The Secretary may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
 
 (d)
 
-Applications.—A State or Indian tribe interested in receiving a grant under this section shall submit an application to the Secretary of Transportation. The application must be submitted at the time, and contain information, the Secretary requires by regulation to carry out the objectives of this section.
+Applications.—A State or Indian tribe interested in receiving a grant under this section shall submit an application to the Secretary. The application must be submitted at the time, and contain information, the Secretary requires by regulation to carry out the objectives of this section.
 
 (e)
 
@@ -78,11 +78,11 @@ Government's Share of Costs.—A grant under this section is for 80 percent of t
 
 (f)
 
-Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Director of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrator, and Directors each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the national response team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Director of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrator, and Directors each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
 
 (g)
 
-Delegation of Authority.—To minimize administrative costs and to coordinate Government grant programs for emergency responsetraining and planning, the Secretary of Transportation may delegate to the Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
+Delegation of Authority.—To minimize administrative costs and to coordinate Federal financial assistance for emergency response training and planning, the Secretary may delegate to the Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences, Chairman of the Nuclear Regulatory Commission, Administrator of the Environmental Protection Agency, and Secretaries of Labor and Energy any of the following:
 
 &emsp;(1) authority to receive applications for grants under this section.
 
@@ -98,13 +98,15 @@ Minimizing Duplication of Effort and Expenses.—The Secretaries of Transportati
 
 (i)
 
-Annual Registration Fee Account and Its Uses.—The Secretary of the Treasury shall establish an account in the Treasury into which the Secretary of the Treasury shall deposit amounts the Secretary of Transportation collects under section 5108(g)(2)(A) of this title and transfers to the Secretary of the Treasury under section 5108(g)(2)(C) of this title. Without further appropriation, amounts in the account are available—
+Annual Registration Fee Account and Its Uses.—The Secretary of the Treasury shall establish an account in the Treasury (to be known as the “Hazardous Materials Emergency Preparedness Fund”) into which the Secretary of the Treasury shall deposit amounts the Secretary of Transportation transfers to the Secretary of the Treasury under section 5108(g)(2)(C) of this title. Without further appropriation, amounts in the account are available—
 
 &emsp;(1) to make grants under this section;
 
-&emsp;(2) to monitor and provide technical assistance under subsection (f) of this section; and
+&emsp;(2) to monitor and provide technical assistance under subsection (f) of this section;
 
-&emsp;(3) to pay administrative costs of carrying out this section and sections 5108(g)(2) and 5115 of this title, except that not more than 10 percent of the amounts made available from the account in a fiscal year may be used to pay those costs.
+&emsp;(3) to publish and distribute an emergency response guide; and
+
+&emsp;(4) to pay administrative costs of carrying out this section and sections 5108(g)(2) and 5115 of this title, except that not more than 2 percent of the amounts made available from the account in a fiscal year may be used to pay those costs.
 
 (j)
 
@@ -138,9 +140,9 @@ Supplemental Training Grants.—
 
 (k)
 
-Reports.—Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996. Such report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.
+Reports.—The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection\(b), and grants under subsection (j) of this section and under section 5107. The report shall identify the ultimate recipients of training grants and include a detailed accounting of all grant expenditures by grant recipients, the number of persons trained under the grant programs, and an evaluation of the efficacy of training programs carried out.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909.)
 
 Historical and Revision Notes
 
@@ -227,6 +229,30 @@ This amends 49:5116(j)(4)(A) to correct an erroneous cross-reference.
 The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), (2), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of Title 42 and Tables.
 
 #### Amendments
+
+2005—Subsec. (a)(1), (2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+
+Subsec. (a)(2)(A). Pub. L. 109–59, §7114(a), substituted “5 fiscal years” for “2 fiscal years”.
+
+Subsec. (b)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+
+Subsec. (b)(2). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 109–59, §7114(a), substituted “5 fiscal years” for “2 fiscal years”.
+
+Subsec. (b)(3)(C), (4). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions of par. (3)(C) and “Secretary shall allocate” for “Secretary of Transportation shall allocate” in introductory provisions of par. (4).
+
+Subsecs. (c), (d). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in subsec. (c) and “Secretary.” for “Secretary of Transportation.” in subsec. (d).
+
+Subsec. (f). Pub. L. 109–59, §7114(b), substituted “National Response Team” for “national response team”.
+
+Subsec. (g). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation” in introductory provisions.
+
+Pub. L. 109–59, §7114(c), substituted “Federal financial assistance” for “Government grant programs” in introductory provisions.
+
+Subsec. (i). Pub. L. 109–59, §7114(d)(1), (2), in introductory provisions, inserted “(to be known as the ‘Hazardous Materials Emergency Preparedness Fund’)” after “an account in the Treasury” and struck out “collects under section 5108(g)(2)(A) of this title and” before “transfers to the Secretary”, added par. (3), and redesignated former par. (3) as (4) and substituted “2 percent” for “10 percent”.
+
+Subsec. (k). Pub. L. 109–59, §7114(e), substituted “The Secretary shall submit annually to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available to the public information on the allocation and uses of the planning grants allocated under subsection (a), training grants under subsection (b), and grants under subsection (j) of this section and under section 5107” for “Not later than September 30, 1997, the Secretary shall submit to Congress a report on the allocation and uses of training grants authorized under subsection (b) for fiscal year 1993 through fiscal year 1996 and grants authorized under subsection (j) and section 5107 for fiscal years 1995 and 1996” and “The report” for “Such report”.
 
 1996—Subsec. (a)(2). Pub. L. 104–287, §6(b), made technical correction to directory language of Pub. L. 103–311, §105(b)(2). See 1994 Amendment note below.
 

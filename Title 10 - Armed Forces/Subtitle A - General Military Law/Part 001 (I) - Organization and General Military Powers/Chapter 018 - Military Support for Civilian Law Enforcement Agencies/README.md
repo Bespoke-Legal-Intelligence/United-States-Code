@@ -31,10 +31,6 @@
 
 1986—Pub. L. 99–570, title III, §3053(b)(2), Oct. 27, 1986, 100 Stat. 3207–76, added item 379.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 18 section 831; title 50 section 2312.
-
 
 ---
 

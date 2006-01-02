@@ -204,7 +204,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (e) Upon request of the Commission, it shall be the duty of the various probation officers and government bureaus and agencies to furnish the Commission information available to such officer, bureau, or agency, concerning any eligible prisoner or parolee and whenever not incompatible with the public interest, their views and recommendation with respect to any matter within the jurisdiction of the Commission.
 
-(f) Any prisoner sentenced to imprisonment for a term or terms of not less than six months but not more than one year shall be released at the expiration of such sentence less good time deductions provided by law, unless the court which imposed sentence, shall, at the time of sentencing, provide for the prisoner's release as if on parole after service of one-third of such term or terms notwithstanding the provisions of section 4164. This subsection shall not prevent delivery of any person released on parole to the authorities of any State otherwise entitled to his custody.
+(f) Any prisoner sentenced to imprisonment for a term or terms of not less than six months but not more than one year shall be released at the expiration ofsuch sentence less good time deductions provided by law, unless the court which imposed sentence, shall, at the time of sentencing, provide for the prisoner's release as if on parole after service of one-third of such term or terms notwithstanding the provisions of section 4164. This subsection shall not prevent delivery of any person released on parole to the authorities of any State otherwise entitled to his custody.
 
 (g) At any time upon motion of the Bureau of Prisons, the court may reduce any minimum term to the time the defendant has served. The court shall have jurisdiction to act upon the application at any time and no hearing shall be required.
 
@@ -252,7 +252,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### §4208. Parole determination proceeding; time
 
-(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundredand twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
+(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
 
 (b) At least thirty days prior to any parole determination proceeding, the prisoner shall be provided with (1) written notice of the time and place of the proceeding, and (2) reasonable access to a report or other document to be used by the Commission in making its determination. A prisoner may waive such notice, except that if notice is not waived the proceeding shall be held during the next regularly scheduled proceedings by the Commission at the institution in which the prisoner is confined.
 
@@ -304,7 +304,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 > A parolee residing in a residential community treatment center pursuant to paragraph (1) of this subsection may be required to pay such costs incident to such residence as the Commission deems appropriate.
 
-(d)(1) The Commission may modify conditions of parole pursuant to this section on its own motion, or on the motion of a United States probation officer supervising a parolee: <i>Provided</i>, That the parolee receives notice of such action and has ten days after receipt of such notice to express his views on the proposed modification. Following such ten-day period, the Commission shall have twenty-one days, exclusive of holidays,to act upon such motion or application. Notwithstanding any other provision of this paragraph, the Commission may modify conditions of parole, without regard to such ten-day period, on any such motion if the Commission determines that the immediate modification of conditions of parole is required to prevent harm to the parolee or to the public.
+(d)(1) The Commission may modify conditions of parole pursuant to this section on its own motion, or on the motion of a United States probation officer supervising a parolee: <i>Provided</i>, That the parolee receives notice of such action and has ten days after receipt of such notice to express his views on the proposed modification. Following such ten-day period, the Commission shall have twenty-one days, exclusive of holidays, to act upon such motion or application. Notwithstanding any other provision of this paragraph, the Commission may modify conditions of parole, without regard to such ten-day period, on any such motion if the Commission determines that the immediate modification of conditions of parole is required to prevent harm to the parolee or to the public.
 
 (2) A parolee may petition the Commission on his own behalf for a modification of conditions pursuant to this section.
 
@@ -324,7 +324,7 @@ Pub. L. 98–473, §§235(a)(1), 238(e), (i), and Pub. L. 98–596, §12(a)(5), 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, setout as a note under section 14071 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1988 Amendment
 
@@ -462,7 +462,7 @@ Amendment by section 7303(c)(3) of Pub. L. 100–690 applicable with respect to 
 
 #### §4215. Appeal
 
-(a) Whenever parole release is denied under section 4206, parole conditions are imposed or modified under section 4209, parole discharge is denied under section 4211(c), or parole is modified or revoked under section 4214, the individual to whom any such decision applies may appeal such decision by submitting a written application to the National Appeal \[Appeals\] Board not later than thirty days following the date on which the decision is rendered.
+(a) Whenever parole release is denied under section 4206, parole conditions are imposed or modified under section 4209, parole discharge is denied under section 4211(c), or parole is modified or revoked under section4214, the individual to whom any such decision applies may appeal such decision by submitting a written application to the National Appeal \[Appeals\] Board not later than thirty days following the date on which the decision is rendered.
 
 (b) The National Appeals Board, upon receipt of the appellant's papers, must act pursuant to rules and regulations within sixty days to reaffirm, modify, or reverse the decision and shall inform the appellant in writing of the decision and the reasons therefor.
 

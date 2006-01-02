@@ -32,7 +32,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 &emsp;&emsp;(A) the information was blocked in error or a block was requested by the consumer in error;
 
-&emsp;&emsp;(B) the information was blocked, or a block was requested by the consumer, on the basis of a material misrepresentation of fact by the consumer relevant to the request to block; or
+&emsp;&emsp;(B) the information was blocked, or a block was requested by the consumer, on thebasis of a material misrepresentation of fact by the consumer relevant to the request to block; or
 
 &emsp;&emsp;(C) the consumer obtained possession of goods, services, or money as a result of the blocked transaction or transactions.
 
@@ -60,7 +60,7 @@ A consumer reporting agency shall promptly notify the furnisher of information i
 
 &emsp;The sole obligation of the consumer reporting agency under this section, with regard to any request of a consumer under this section, shall be to block the consumer report maintained by the consumer reporting agency from any subsequent use, if—
 
-&emsp;&emsp;(A) the consumer, in accordance with the provisions of subsection (a) of this section,identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
+&emsp;&emsp;(A) the consumer, in accordance with the provisions of subsection (a) of this section, identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
 
 &emsp;&emsp;(B) the consumer reporting agency is a reseller of the identified information.
 

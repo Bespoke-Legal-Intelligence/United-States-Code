@@ -56,7 +56,7 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 &emsp;(B) shall remain in effect for the duration of the applicable fishing year; and
 
-&emsp;(C) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination if the Secretary determines that the reasons for the emergency action no longer exist.
+&emsp;(C) may be terminated by the Secretary at an earlier date by publication in the FederalRegister of a notice of termination if the Secretary determines that the reasons for the emergency action no longer exist.
 
 (4) If the Secretary finds that the incidental mortality and serious injury of marine mammals in the yellowfin tuna fishery in the eastern tropical Pacific Ocean is continuing to have a significant adverse impact on a stock or species, the Secretary may extend the emergency regulations for such additional periods as may be necessary.
 
@@ -76,7 +76,7 @@ The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the
 
 #### Prior Provisions
 
-A prior section 1413, Pub. L. 92–522, title III, §303, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3426,related to research programs prior to repeal by Pub. L. 105–42, §6(c), Aug. 15, 1997, 111 Stat. 1130.
+A prior section 1413, Pub. L. 92–522, title III, §303, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3426, related to research programs prior to repeal by Pub. L. 105–42, §6(c), Aug. 15, 1997, 111 Stat. 1130.
 
 A prior section 303 of Pub. L. 92–522 was renumbered section 403 and is classified to section 1421b of this title.
 

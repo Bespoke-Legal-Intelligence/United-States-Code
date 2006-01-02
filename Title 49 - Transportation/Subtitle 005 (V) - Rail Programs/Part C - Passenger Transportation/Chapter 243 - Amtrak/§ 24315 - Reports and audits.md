@@ -42,7 +42,7 @@ Amtrak General and Legislative Annual Report.—(1) Not later than February 15 o
 
 (c)
 
-Secretary's Report on Effectiveness of This Part.—The Secretary of Transportation shall prepare a report on the effectiveness of this part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
+Secretary's Report on Effectiveness of This Part.—The Secretary of Transportation shall prepare a report on the effectiveness ofthis part in meeting the requirements for a balanced transportation system in the United States. The report may include recommendations for legislation. The Secretary shall include this report as part of the annual report the Secretary submits under section 308(a) of this title.
 
 (d)
 
@@ -164,7 +164,7 @@ Pub. L. 108–7, div. I, title III, §350, Feb. 20, 2003, 117 Stat. 419, provide
 
 #### Amtrak To Notify Congress of Lobbying Relationships
 
-Pub. L. 105–134, title IV, §414, Dec. 2, 1997, 111 Stat. 2589, provided that: “If, at any time, during a fiscalyear in which Amtrak receives Federal assistance, Amtrak enters into a consulting contract or similar arrangement, or a contract for lobbying, with a lobbying firm, an individual who is a lobbyist, or who is affiliated with a lobbying firm, as those terms are defined in section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602), Amtrak shall notify the United States Senate Committee on Commerce, Science, and Transportation, and the United States House of Representatives Committee on Transportation and Infrastructure of—
+Pub. L. 105–134, title IV, §414, Dec. 2, 1997, 111 Stat. 2589, provided that: “If, at any time, during a fiscal year in which Amtrak receives Federal assistance, Amtrak enters into a consulting contract or similar arrangement, or a contract for lobbying, with a lobbying firm, an individual who is a lobbyist, or who is affiliated with a lobbying firm, as those terms are defined in section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602), Amtrak shall notify the United States Senate Committee on Commerce, Science, and Transportation, and the United States House of Representatives Committee on Transportation and Infrastructure of—
 
 &emsp;“(1) the name of the individual or firm involved;
 

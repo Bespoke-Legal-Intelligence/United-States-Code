@@ -14,17 +14,21 @@ Treatment of Housing Cost and Allowance.—Housing cost and allowance may be dis
 
 (d)
 
-Nonrecurring Expenses.—(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) for a nonrecurring expense incurred by the member incident to such duty that—
+Unusual or Extraordinary Expenses.—(1) The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—
 
-&emsp;(A) is directly related to the conditions or location of the duty;
+&emsp;(A) is directly related to the conditions or location of the duty or the location of the member's dependents;
 
 &emsp;(B) is of a nature or a magnitude not normally incurred by members of the uniformed services on duty inside the continental United States; and
 
-&emsp;(C) is not included in the per diem determined under subsection (b) as payable to the member under subsection (a).
+&emsp;(C) is not included in the per diem determined under subsection (b) as payable to the member under subsection (a) or (e).
 
-(2) Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a).
+(2) Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, §622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, §603(b), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–160; Pub. L. 108–375, div. A, title VI, §605(a), (b)(1), (2), Oct. 28, 2004, 118 Stat. 1945.)
+(e)
+
+Payment of Allowance Based on Overseas Location of Dependents.—In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member's dependents and in the best interest of the United States.
+
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 89–718, §57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, §807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, §602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, §1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, §622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, §622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, §603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, §603(b), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–160; Pub. L. 108–375, div. A, title VI, §605(a), (b)(1), (2), Oct. 28, 2004, 118 Stat. 1945; Pub. L. 109–163, div. A, title VI, §612, Jan. 6, 2006, 119 Stat. 3291.)
 
 Historical and Revision Notes
 
@@ -43,6 +47,16 @@ Oct. 12, 1949, ch. 681, §303(b), 63 Stat. 814.
 The words “Secretaries concerned” are substituted for the words “Secretaries of the uniformed services” to conform to other subsections of the source statute. The words “outside the United States, or in Hawaii or Alaska” are substituted for the words “outside the continental United States or in Alaska” to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–163, §612(b)(1), substituted “Unusual or Extraordinary” for “Nonrecurring” in heading.
+
+Subsec. (d)(1). Pub. L. 109–163, §612(b)(1), (3)(A), in introductory provisions, inserted “or (e)” after “subsection (a)” and substituted “an unusual or extraordinary” for “a nonrecurring”.
+
+Subsec. (d)(1)(A). Pub. L. 109–163, §612(b)(3)(B), inserted “or the location of the member's dependents” before semicolon.
+
+Subsec. (d)(1)(C), (2). Pub. L. 109–163, §612(b)(2), inserted “or (e)” after “subsection (a)”.
+
+Subsec. (e). Pub. L. 109–163, §612(a), added subsec. (e).
 
 2004—Pub. L. 108–375, §605(b)(2), amended section catchline generally, substituting “continental United States” for “United States or in Hawaii or Alaska”.
 
@@ -64,7 +78,7 @@ Subsec. (d). Pub. L. 108–375, §605(a), added subsec. (d).
 
 1984—Subsec. (a). Pub. L. 98–525, §602(e)(1), designated first two sentences of existing section as subsec. (a).
 
-Subsec. (b). Pub. L. 98–525, §602(e)(2), (3), designated third and fourth sentences of existing section as subsec. (b), in such third sentence as so designated inserted “for a member who is on duty outside of the UnitedStates” after “under this section”, and inserted after such third sentence: “A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska.”
+Subsec. (b). Pub. L. 98–525, §602(e)(2), (3), designated third and fourth sentences of existing section as subsec. (b), in such third sentence as so designated inserted “for a member who is on duty outside of the United States” after “under this section”, and inserted after such third sentence: “A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska.”
 
 Subsec. (c). Pub. L. 98–525, §602(e)(4), designated last sentence of existing section as subsec. (c).
 

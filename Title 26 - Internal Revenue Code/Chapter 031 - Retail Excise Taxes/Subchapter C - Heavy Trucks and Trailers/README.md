@@ -12,10 +12,6 @@
 
 1990—Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–438, redesignated this subchapter, formerly subchapter B, as subchapter C.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4221 of this title.
-
 
 ---
 

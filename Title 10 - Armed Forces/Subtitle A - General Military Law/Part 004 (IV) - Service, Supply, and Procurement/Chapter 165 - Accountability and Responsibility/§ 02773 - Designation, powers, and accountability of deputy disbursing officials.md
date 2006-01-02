@@ -64,7 +64,3 @@ Subsec. (b)(1). Pub. L. 104–106, §913(a)(2)(B), substituted “the Department
 
 1982—Pub. L. 97–258 substituted provisions authorizing a disbursing official of a military department to designate a deputy disbursing official with the same duties and penalties for misconduct as those of the disbursing official and allowing a deputy disbursing official to continue the accounts and payments in the name of a former disbursing official for two months after the death, disability, or separation of the former disbursing official for provisions authorizing any officer of an armed force accountable for public money to entrust it to another officer of an armed force to make disbursement as his agent, with both officers pecuniarily responsible to the United States for that money.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 14 section 673.
-

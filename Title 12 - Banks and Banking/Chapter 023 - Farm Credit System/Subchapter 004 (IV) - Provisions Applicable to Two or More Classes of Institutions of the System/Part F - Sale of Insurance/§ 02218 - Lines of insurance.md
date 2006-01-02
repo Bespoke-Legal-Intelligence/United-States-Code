@@ -26,7 +26,7 @@ Such regulations shall provide that—
 
 &emsp;&emsp;&emsp;(ii) licensed under State law to do business in the State; and
 
-&emsp;&emsp;(E) in making insurance available through approved insurers, the board of directors of the association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2) of this section; and
+&emsp;&emsp;(E) in making insurance available through approved insurers, the board of directors ofthe association or bank selects and offers at least two approved insurers for each type of insurance made available to the members and borrowers, if at least two insurers have been approved in accordance with subsection (a)(2) of this section; and
 
 &emsp;(3) no bank or association shall directly or indirectly discriminate in any manner against any agent, broker, or insurer that is not affiliated with such bank or association, or against any party who purchases insurance through any such nonaffiliated insurance agent, broker, or insurer.
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 100–399 effective immediately after amendment made by sec
 
 #### Continuation of Program
 
-Section 422(b) of Pub. L. 100–233 provided that: “Notwithstanding the amendments made to section 4.29 \[12 U.S.C. 2218\] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act \[Jan.6, 1988\] that does not meet the requirements of section 4.29, as so amended, may be continued until July 1, 1988.”
+Section 422(b) of Pub. L. 100–233 provided that: “Notwithstanding the amendments made to section 4.29 \[12 U.S.C. 2218\] by subsection (a), any insurance program offered by any bank or association of the Farm Credit System on the date of the enactment of this Act \[Jan. 6, 1988\] that does not meet the requirements of section 4.29, as so amended, may be continued until July 1, 1988.”
 

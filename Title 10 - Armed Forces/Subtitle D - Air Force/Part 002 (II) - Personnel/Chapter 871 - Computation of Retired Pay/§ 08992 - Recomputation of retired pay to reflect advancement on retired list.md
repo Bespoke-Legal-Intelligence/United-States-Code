@@ -50,7 +50,7 @@ This amends 10:8992 to correct an inadvertent error in the codification of title
 
 1994—Pub. L. 103–337 amended section generally. Prior to amendment, section contained table with two formulas for recomputing retired pay of enlisted members and warrant officers of Air Force to reflect advancement on retired list.
 
-1986—Pub. L. 99–348 revised table generally by striking out provision in column 1 that for a person who first became a member of a uniformed service, as defined in section 1407(a)(2), after Sept. 7, 1980, one multiplier is the monthly retired pay base as computed under section 1407(e), substituting in formulas A and B provision that the retired pay base as computed under section 1406(e) or 1407 of this title be multiplied by the retired pay multiplier prescribed in section 1409 of this title for the number of years credited for provisions that the monthly basic pay or base and longevity pay, as the case may be, subject to footnote 1, of the grade to which the member is advanced on the retired list be multiplied by 21/2% of years of service credited, subject to footnote 2, and have subtracted from it the excess over 75% of pay upon which the computation is based, struck out footnote 1, which provided that the computation be at the rate applicable on the date of retirement, and redesignated footnote 2 as 1 and substituted “In determining retired pay multiplier” for “Before applying percentage factor” and “1/12” for “one-twelfth”.
+1986—Pub. L. 99–348 revised table generally by striking out provision in column 1 that for a person who first became a member of a uniformed service, as defined in section 1407(a)(2), after Sept. 7, 1980, one multiplier is the monthly retired pay base as computed under section 1407(e), substituting in formulas A and B provision that the retired pay base as computed under section 1406(e) or 1407 of this title be multiplied by the retired pay multiplier prescribed in section 1409 of this title for the number of years credited for provisionsthat the monthly basic pay or base and longevity pay, as the case may be, subject to footnote 1, of the grade to which the member is advanced on the retired list be multiplied by 21/2% of years of service credited, subject to footnote 2, and have subtracted from it the excess over 75% of pay upon which the computation is based, struck out footnote 1, which provided that the computation be at the rate applicable on the date of retirement, and redesignated footnote 2 as 1 and substituted “In determining retired pay multiplier” for “Before applying percentage factor” and “1/12” for “one-twelfth”.
 
 1983—Pub. L. 98–94, §923(a)(1), (2)(I), in footnote 2 to table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
@@ -75,8 +75,4 @@ Amendment by section 923 of Pub. L. 98–94 applicable with respect to (1) the c
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1406 of this title.
 

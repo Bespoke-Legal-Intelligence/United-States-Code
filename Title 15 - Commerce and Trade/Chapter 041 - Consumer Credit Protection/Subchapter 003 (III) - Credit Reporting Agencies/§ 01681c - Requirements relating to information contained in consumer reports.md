@@ -4,7 +4,7 @@
 
 Except as authorized under subsection (b) of this section, no consumer reporting agency may make any consumer report containing any of the following items of information:
 
-(1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of theorder for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
+(1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
 
 (2) Civil suits, civil judgments, and records of arrest that, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period.
 
@@ -14,9 +14,15 @@ Except as authorized under subsection (b) of this section, no consumer reporting
 
 (5) Any other adverse item of information, other than records of convictions of crimes which antedates the report by more than seven years.
 
+(6) The name, address, and telephone number of any medical information furnisher that has notified the agency of its status, unless—
+
+&emsp;(A) such name, address, and telephone number are restricted or reported using codes that do not identify, or provide information sufficient to infer, the specific provider or the nature of such services, products, or devices to a person other than the consumer; or
+
+&emsp;(B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
+
 #### (b) Exempted cases
 
-The provisions of subsection (a) of this section are not applicable in the case of any consumer credit report to be used in connection with—
+The provisions of paragraphs (1) through (5) of subsection (a) of this section are not applicable in the case of any consumer credit report to be used in connection with—
 
 &emsp;(1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
 
@@ -42,7 +48,7 @@ The provisions of subsection (a) of this section are not applicable in the case 
 
 #### (2) Key factor in credit score information
 
-&emsp;Any consumer reporting agency that furnishes a consumer report that contains any credit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
+&emsp;Any consumer reporting agency that furnishes a consumer report that contains anycredit score or any other risk score or predictor on any consumer shall include in the report a clear and conspicuous statement that a key factor (as defined in section 1681g(f)(2)(B) of this title) that adversely affected such score or predictor was the number of enquiries, if such a predictor was in fact a key factor that adversely affected such score. This paragraph shall not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, but only to the extent that such company is engaged in such activities.
 
 #### (e) Indication of closure of account by consumer
 
@@ -92,20 +98,6 @@ If a consumer reporting agency is notified pursuant to section 1681s–2(a)(3) o
 
 (Pub. L. 90–321, title VI, §605, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 95–598, title III, §312(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 104–208, div. A, title II, §2406(a)–(e)(1), Sept. 30, 1996, 110 Stat. 3009–434, 3009–435; Pub. L. 105–347, §5, Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §113, title II, §212(d), title III, §315, title IV, §412(b), (c), title VIII, §811(c)(1), (2)(A), Dec. 4, 2003, 117 Stat. 1959, 1977, 1996, 2002, 2011.)
 
-#### Amendment of Subsections (a) and (b)
-
-<i>Pub. L. 108–159, title IV, §412(b), (c), (g), Dec. 4, 2003, 117 Stat. 2002, 2003, provided that, effective at the end of the 15-month period beginning on Dec. 4, 2003, this section is amended as follows:</i>
-
-<i>subsection (a) is amended by adding at the end the following:</i>
-
-<i>“(6) The name, address, and telephone number of any medical information furnisher that has notified the agency of its status, unless—</i>
-
-&emsp;<i>“(A) such name, address, and telephone number are restricted or reported using codes that do not identify, or provide information sufficient to infer, the specific provider or the nature of such services, products, or devices to a person other than the consumer; or</i>
-
-&emsp;<i>“(B) the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.” and</i>
-
-<i>subsection (b) is amended by striking “The provisions of subsection (a)” and inserting “The provisions of paragraphs (1) through (5) of subsection (a)”.</i>
-
 #### References in Text
 
 The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
@@ -115,6 +107,10 @@ The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541
 2003—Subsec. (a)(1). Pub. L. 108–159, §811(c)(1), substituted “(1) Cases” for “(1) cases”.
 
 Subsec. (a)(2). Pub. L. 108–159, §811(c)(2)(A), made technical correction to directory language of Pub. L. 105–347, §5(1). See 1998 Amendment note below.
+
+Subsec. (a)(6). Pub. L. 108–159, §412(b), added par. (6).
+
+Subsec. (b). Pub. L. 108–159, §412(c), substituted “The provisions of paragraphs (1) through (5) of subsection\(a)” for “The provisions of subsection (a)” in introductory provisions.
 
 Subsec. (d). Pub. L. 108–159, §212(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -150,7 +146,7 @@ Pub. L. 108–159, title VIII, §811(c)(2)(B), Dec. 4, 2003, 117 Stat. 2011, pro
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 ofPub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1996 Amendment
 

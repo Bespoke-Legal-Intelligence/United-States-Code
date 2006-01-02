@@ -292,7 +292,7 @@ Riparian management.—A program of riparian management, including wide protecti
 
 “(e)
 
-Cost-Effectiveness.—In conducting the pilot project, Secretary shall use the most cost-effective means available, as determined by the Secretary, to implement resource management activities described in subsection (d).
+Cost-Effectiveness.—In conducting the pilot project, Secretary shall use the most cost-effectivemeans available, as determined by the Secretary, to implement resource management activities described in subsection (d).
 
 “(f)
 

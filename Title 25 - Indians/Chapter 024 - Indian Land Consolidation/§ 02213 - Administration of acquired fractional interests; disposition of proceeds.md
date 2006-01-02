@@ -46,7 +46,7 @@ Subject to the conditions described in subsection (b)(1) of this section, an Ind
 
 #### (1) In general
 
-&emsp;Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease oragreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
+&emsp;Paragraph (2) shall apply with respect to any undivided interest in allotted land held by the Secretary in trust for a tribe if a lease or agreement under subsection (a) of this section is otherwise applicable to such undivided interest by reason of this section even though the Indian tribe did not consent to the lease or agreement.
 
 #### (2) Application of lease
 

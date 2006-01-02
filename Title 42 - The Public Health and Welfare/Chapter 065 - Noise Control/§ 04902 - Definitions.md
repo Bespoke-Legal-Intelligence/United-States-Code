@@ -10,7 +10,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) any aircraft, aircraft engine, propeller, or appliance, as such terms are defined in section 40102(a) of title 49; or
 
-&emsp;&emsp;(B)(i) any military weapons or equipment which are designed for combat use; (ii) any rockets or equipment which are designed for research, experimental, or developmentalwork to be performed by the National Aeronautics and Space Administration; or (iii) to the extent provided by regulations of the Administrator, any other machinery or equipment designed for use in experimental work done by or for the Federal Government.
+&emsp;&emsp;(B)(i) any military weapons or equipment which are designed for combat use; (ii) any rockets or equipment which are designed for research, experimental, or developmental work to be performed by the National Aeronautics and Space Administration; or (iii) to the extent provided by regulations of the Administrator, any other machinery or equipment designed for use in experimental work done by or for the Federal Government.
 
 &emsp;(4) The term “ultimate purchaser” means the first person who in good faith purchases a product for purposes other than resale.
 

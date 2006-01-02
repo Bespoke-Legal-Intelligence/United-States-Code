@@ -12,7 +12,7 @@
 
 &emsp;&emsp;2001
 
-6&nbsp;&nbsp;&nbsp;
+6   
 
 &emsp;&emsp;2002
 

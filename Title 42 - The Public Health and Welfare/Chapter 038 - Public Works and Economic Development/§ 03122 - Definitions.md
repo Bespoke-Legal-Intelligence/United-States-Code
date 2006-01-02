@@ -56,7 +56,7 @@ In this chapter:
 
 #### (7) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organizedgroup or community, including any Alaska Native village or Regional Corporation (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (8) Regional Commissions
 
@@ -66,7 +66,7 @@ In this chapter:
 
 &emsp;&emsp;(B) the Delta Regional Authority established under subtitle F of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa et seq.);
 
-&emsp;&emsp;(C) the Denali Commission established under the Denali Commission Act of 1998 (42U.S.C. 3121 note; 112 Stat. 2681–637 et seq.); and
+&emsp;&emsp;(C) the Denali Commission established under the Denali Commission Act of 1998 (42 U.S.C. 3121 note; 112 Stat. 2681–637 et seq.); and
 
 &emsp;&emsp;(D) the Northern Great Plains Regional Authority established under subtitle G of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009bb et seq.).
 

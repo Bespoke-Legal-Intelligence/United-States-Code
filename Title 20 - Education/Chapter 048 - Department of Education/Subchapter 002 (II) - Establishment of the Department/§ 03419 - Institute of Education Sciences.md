@@ -1,6 +1,6 @@
 ### §3419. Institute of Education Sciences
 
-There shall be in the Department of Education the Institute of Education Sciences, which shall be administered in accordance with the Education Sciences Reform Act of 2002 \[20 U.S.C. 9501 et seq.\] by the Director appointed under section 114(a) of that Act \[20 U.S.C. 9514(a)\].
+There shall be in the Department of Education the Institute of Education Sciences, which shallbe administered in accordance with the Education Sciences Reform Act of 2002 \[20 U.S.C. 9501 et seq.\] by the Director appointed under section 114(a) of that Act \[20 U.S.C. 9514(a)\].
 
 (Pub. L. 96–88, title II, §208, as added Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.)
 

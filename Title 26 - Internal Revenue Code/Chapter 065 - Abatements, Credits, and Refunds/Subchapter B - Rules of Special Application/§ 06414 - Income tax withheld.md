@@ -1,6 +1,6 @@
 ### §6414. Income tax withheld
 
-In the case of an overpayment of tax imposed by chapter 24, or by chapter 3, refund or credit shall be made to the employer or to the withholding agent, as the case may be, only to the extent that the amount of such overpaymentwas not deducted and withheld by the employer or withholding agent.
+In the case of an overpayment of tax imposed by chapter 24, or by chapter 3, refund or credit shall be made to the employer or to the withholding agent, as the case may be, only to the extent that the amount of such overpayment was not deducted and withheld by the employer or withholding agent.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 798.)
 

@@ -28,7 +28,7 @@ Definition.—As used in this section, the term “copyright management informat
 
 &emsp;(2) The name of, and other identifying information about, the author of a work.
 
-&emsp;(3) The name of, and other identifying information about, the copyright owner of thework, including the information set forth in a notice of copyright.
+&emsp;(3) The name of, and other identifying information about, the copyright owner of the work, including the information set forth in a notice of copyright.
 
 &emsp;(4) With the exception of public performances of works by radio and television broadcast stations, the name of, and other identifying information about, a performer whose performance is fixed in a work other than an audiovisual work.
 

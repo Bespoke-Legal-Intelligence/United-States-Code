@@ -8,7 +8,7 @@ In order to assure continuous operation of all projects and project facilities g
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of this chapter. For complete classification of this Act to the Code, see section 422k of this title and Tables.
+The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, asamended, which is classified generally to subchapter IV (§422a et seq.) of this chapter. For complete classification of this Act to the Code, see section 422k of this title and Tables.
 
 The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), referred to in text, probably means act July 4, 1955, ch. 271, 69 Stat. 244, as amended, which is classified generally to sections 421a to 421h of this title. Act May 14, 1956, ch. 268, 70 Stat. 155, amended section 421c of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -44,7 +44,7 @@ Pub. L. 100–387, title IV, subtitle B, Aug. 11, 1988, 102 Stat. 957, provided 
 
 “(a)
 
-General Authority.—The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporarybasis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989.
+General Authority.—The Secretary of the Interior may make available, by contract, consistent with existing contracts or agreements and State law, water or canal capacity at existing Federal reclamation projects to water users and others, on a temporary basis to mitigate losses and damages resulting from drought conditions in 1987, 1988, and 1989.
 
 “(b)
 
@@ -132,7 +132,7 @@ Pub. L. 101–101, title III, Sept. 29, 1989, 103 Stat. 661, provided: “That, 
 
 #### Emergency Fund
 
-Provisions relating to appropriations for the emergency fund to assure continuous operation of projectsand project facilities governed by Federal reclamation law were contained in the following appropriation acts:
+Provisions relating to appropriations for the emergency fund to assure continuous operation of projects and project facilities governed by Federal reclamation law were contained in the following appropriation acts:
 
 Pub. L. 103–316, title II, Aug. 26, 1994, 108 Stat. 1714.
 

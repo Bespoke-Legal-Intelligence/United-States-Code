@@ -42,7 +42,7 @@
 
 &emsp;(A) by order grant such registration, or
 
-&emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the groundsfor denial under consideration and opportunity for hearing and shall be concluded within one hundred eighty days of the date of publication of notice of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for the conclusion of such proceedings for up to sixty days if it finds good cause for such extension and publishes its reasons for so finding or for such longer periods as to which the applicant consents.
+&emsp;(B) institute proceedings to determine whether registration should be denied. Such proceedings shall include notice of the grounds for denial under consideration and opportunity for hearing and shall be concluded within one hundred eighty days of the date of publication of notice of the filing of the application for registration. At the conclusion of such proceedings the Commission, by order, shall grant or deny such registration. The Commission may extend the time for the conclusion of such proceedings for up to sixty days if it finds good cause for such extension and publishes its reasons for so finding or for such longer periods as to which the applicant consents.
 
 > The Commission shall grant the registration of a securities information processor if the Commission finds that such securities information processor is so organized, and has the capacity, to be able to assure the prompt, accurate, and reliable performance of its functions as a securities information processor, comply with the provisions of this chapter and the rules and regulations thereunder, carry out its functions in a manner consistent with the purposes of this section, and, insofar as it is acting as an exclusive processor, operate fairly and efficiently. The Commission shall deny the registration of a securities information processor if the Commission does not make any such finding.
 
@@ -60,7 +60,7 @@
 
 &emsp;(A) prevent the use, distribution, or publication of fraudulent, deceptive, or manipulative information with respect to quotations for and transactions in such securities;
 
-&emsp;(B) assure the prompt, accurate, reliable, and fair collection, processing, distribution, and publication of information with respect toquotations for and transactions in such securities and the fairness and usefulness of the form and content of such information;
+&emsp;(B) assure the prompt, accurate, reliable, and fair collection, processing, distribution, and publication of information with respect to quotations for and transactions in such securities and the fairness and usefulness of the form and content of such information;
 
 &emsp;(C) assure that all securities information processors may, for purposes of distribution and publication, obtain on fair and reasonable terms such information with respect to quotations for and transactions in such securities as is collected, processed, or prepared for distribution or publication by any exclusive processor of such information acting in such capacity;
 
@@ -90,13 +90,13 @@
 
 #### (d) National Market Advisory Board
 
-(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the “Advisory Board”) to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than five years. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
+(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the “Advisory Board”) to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than fiveyears. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
 
 (2) It shall be the responsibility of the Advisory Board to formulate and furnish to the Commission its views on significant regulatory proposals made by the Commission or any self-regulatory organization concerning the establishment, operation, and regulation of the markets for securities in the United States.
 
 (3)(A) The Advisory Board shall study and make recommendations to the Commission as to the steps it finds appropriate to facilitate the establishment of a national market system. In so doing, the Advisory Board shall assume the responsibilities of any advisory committee appointed to advise the Commission with respect to the national market system which is in existence at the time of the establishment of the Advisory Board.
 
-(B) The Advisory Board shall study the possible need for modifications of the scheme of self-regulation provided for in this chapter so as to adapt it to a national market system, including the need for the establishment of a new self-regulatory organization (hereinafter in this section referred to as a “National Market Regulatory Board” or “Regulatory Board”) to administer the national market system. In the eventthe Advisory Board determines a National Market Regulatory Board should be established, it shall make recommendations as to:
+(B) The Advisory Board shall study the possible need for modifications of the scheme of self-regulation provided for in this chapter so as to adapt it to a national market system, including the need for the establishment of a new self-regulatory organization (hereinafter in this section referred to as a “National Market Regulatory Board” or “Regulatory Board”) to administer the national market system. In the event the Advisory Board determines a National Market Regulatory Board should be established, it shall make recommendations as to:
 
 &emsp;(i) the point in time at which a Regulatory Board should be established;
 
@@ -142,7 +142,7 @@ Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as foll
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date
 

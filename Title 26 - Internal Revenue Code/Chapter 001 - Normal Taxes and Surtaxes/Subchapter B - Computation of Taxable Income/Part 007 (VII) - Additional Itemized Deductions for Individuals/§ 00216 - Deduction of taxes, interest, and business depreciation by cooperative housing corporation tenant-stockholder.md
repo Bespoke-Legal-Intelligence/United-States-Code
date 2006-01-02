@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The amount of any deduction for depreciation allowable under section 167(a) to a tenant-stockholder with respect to any stock for any taxable year by reason of paragraph\(1) shall not exceed the adjusted basis of such stock as of the close of the taxable year of the tenant-stockholder in which such deduction was incurred.
+&emsp;&emsp;The amount of any deduction for depreciation allowable under section 167(a) to a tenant-stockholder with respect to any stock for any taxable year by reason of paragraph (1) shall not exceed the adjusted basis of such stock as of the close of the taxable year of the tenant-stockholder in which such deduction was incurred.
 
 #### (B) Carryforward of disallowed amount
 
@@ -136,7 +136,7 @@ Subsec. (c). Pub. L. 94–455, §§1906(b)(13)(A), 2101(b), struck out “or his
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions,see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
+Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d)\[(e)\] of Pub. L. 105–34, set out as a note under section 121 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -279,8 +279,4 @@ Ordering rules.—For purposes of subparagraph (A), payments from a reserve shal
 &emsp;&emsp;“(i) first from amounts excluded from gross income by reason of paragraph (1) to the extent thereof, and
 
 &emsp;&emsp;“(ii) then from other amounts in the reserve.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 67, 121, 143, 163, 860G, 911, 6050H of this title; title 12 sections 1451, 1717.
 

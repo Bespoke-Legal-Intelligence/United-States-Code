@@ -32,7 +32,7 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;(A) sums authorized to be appropriated for the Service may be used—
 
-&emsp;&emsp;&emsp;(i) to purchase property, buildings, and other facilities, and to lease space, within the United States, the District of Columbia, and the territories and possessions of the United States without regard to—
+&emsp;&emsp;&emsp;(i) to purchase property, buildings, and other facilities, and to lease space, withinthe United States, the District of Columbia, and the territories and possessions of the United States without regard to—
 
 &emsp;&emsp;&emsp;&emsp;(I) sections 1341 and 3324 of title 31, United States Code,
 
@@ -112,11 +112,11 @@ Any investigator, agent, or other internal revenue officer by whatever term desi
 
 &emsp;&emsp;(A) shall apply after November 17, 1988, and before January 1, 1990, and
 
-&emsp;&emsp;(B) shall apply after the date of the enactment of this paragraph and before January 1, 2006.
+&emsp;&emsp;(B) shall apply after the date of the enactment of this paragraph and before January 1, 2007.
 
-> &emsp;All amounts expended pursuant to this subsection during the period described in subparagraph (B) shall be recovered to the extent possible, and deposited in the Treasury of the United States as miscellaneous receipts, before January 1, 2006.
+> &emsp;All amounts expended pursuant to this subsection during the period described in subparagraph (B) shall be recovered to the extent possible, and deposited in the Treasury of the United States as miscellaneous receipts, before January 1, 2007.
 
-(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641.)
+(Added Pub. L. 85–859, title II, §204(14), Sept. 2, 1958, 72 Stat. 1429; amended Pub. L. 87–863, §6(a), Oct. 23, 1962, 76 Stat. 1143; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–690, title VII, §7601(c)(1), (2), Nov. 18, 1988, 102 Stat. 4504; Pub. L. 101–508, title XI, §11704(a)(32), (33), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 104–168, title XII, §1205(b)–(c)(2), July 30, 1996, 110 Stat. 1471, 1472; Pub. L. 104–316, title I, §113, Oct. 19, 1996, 110 Stat. 3833; Pub. L. 105–206, title I, §1103(e)(4), July 22, 1998, 112 Stat. 710; Pub. L. 106–554, §1(a)(7) \[title III, §303\], Dec. 21, 2000, 114 Stat. 2763, 2763A–632; Pub. L. 107–217, §3(f), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 108–178, §4(e), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–135, title III, §304, Dec. 21, 2005, 119 Stat. 2609.)
 
 #### References in Text
 
@@ -129,6 +129,8 @@ The date of the enactment of this paragraph, referred to in subsec. (c)(6)(B), i
 A prior section 7608 was renumbered section 7613 of this title.
 
 #### Amendments
+
+2005—Subsec. (c)(6). Pub. L. 109–135 substituted “January 1, 2007” for “January 1, 2006” in subpar. (B) and concluding provisions.
 
 2003—Subsec. (c)(1)(A)(i)(IV). Pub. L. 108–178 substituted “title 40, United States Code” for “title 40”.
 
@@ -189,10 +191,6 @@ Section 6(b) of Pub. L. 87–863 provided that: “The amendments made by subsec
 #### Effective Date
 
 Section effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5558, 5604 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

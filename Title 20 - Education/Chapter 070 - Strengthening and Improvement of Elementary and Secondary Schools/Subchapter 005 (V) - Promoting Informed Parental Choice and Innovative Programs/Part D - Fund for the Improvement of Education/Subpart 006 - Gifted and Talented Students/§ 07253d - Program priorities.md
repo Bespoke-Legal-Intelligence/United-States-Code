@@ -10,7 +10,7 @@ In carrying out this subpart, the Secretary shall give highest priority to progr
 
 #### (b) Service priority
 
-The Secretary shall ensure that not less than 50 percent of the applications approved undersection 7253c(a)(2) of this title in a fiscal year address the priority described in subsection (a)(2) of this section.
+The Secretary shall ensure that not less than 50 percent of the applications approved under section 7253c(a)(2) of this title in a fiscal year address the priority described in subsection (a)(2) of this section.
 
 (Pub. L. 89–10, title V, §5465, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1828.)
 

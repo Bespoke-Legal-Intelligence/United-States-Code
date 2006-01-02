@@ -2,7 +2,7 @@
 
 (a) The United States district courts have original jurisdiction, exclusive of the courts of the States, of each prize and each proceeding for the condemnation of property taken as prize, if the prize is—
 
-&emsp;(1) brought into the United States, or the Territories, Commonwealths, or possessions;
+&emsp;(1) brought into the United States, or the Commonwealths or possessions;
 
 &emsp;(2) brought into the territorial waters of a cobelligerent;
 
@@ -18,7 +18,7 @@
 
 (c) The jurisdiction conferred by this section of prizes brought into the territorial waters of a cobelligerent may not be exercised, nor may prizes be appropriated for the use of the United States within those territorial waters, unless the government having jurisdiction over those waters consents to the exercise of the jurisdiction or to the appropriation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 474.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 474; Pub. L. 109–163, div. A, title X, §1057(a)(5), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -52,13 +52,13 @@ Aug. 18, 1942, ch. 553, §8, 56 Stat. 747.
 
 Aug. 18, 1942, ch. 553, §3, 56 Stat. 746.
 
-Subsection (a) reflects 28 U.S.C. 1333 by restating the basic prize jurisdiction of that section over prizes brought into the United States, and by providing that the extension of prize jurisdiction conferred by 34 U.S.C. 1159 on the United States district courts is exclusive of the courts of the States. 34 U.S.C. 1166 andthe second sentence of 34 U.S.C. 1164 are executed in the single jurisdictional statement of this section and the consolidation of the Act of August 18, 1942, ch. 553, 56 Stat. 746 (34 U.S.C. 1159–1166) with the earlier prize provisions. The words “during war” in 34 U.S.C. 1159 are omitted as covered in §7651 of this title. In clause (1) the words “or the Territories, Commonwealths, or possessions” are added, since “United States” in this title is geographically limited to the 48 States and the District of Columbia, whereas the term here is intended to include all places within the jurisdiction of the district courts.
+Subsection (a) reflects 28 U.S.C. 1333 by restating the basic prize jurisdiction of that section over prizes brought into the United States, and by providing that the extension of prize jurisdiction conferred by 34 U.S.C. 1159 on the United States district courts is exclusive of the courts of the States. 34 U.S.C. 1166 and the second sentence of 34 U.S.C. 1164 are executed in the single jurisdictional statement of this section and the consolidation of the Act of August 18, 1942, ch. 553, 56 Stat. 746 (34 U.S.C. 1159–1166) with the earlier prize provisions. The words “during war” in 34 U.S.C. 1159 are omitted as covered in §7651 of this title. In clause (1) the words “or the Territories, Commonwealths, or possessions” are added, since “United States” in this title is geographically limited to the 48 States and the District of Columbia, whereas the term here is intended to include all places within the jurisdiction of the district courts.
 
 In clause (4) the words “taken or” preceding the words “appropriated for the use of the United States” are omitted as surplusage and in order to avoid confusion between the two meanings of the word “taken” in prize law. In both the Revised Statutes and the 1942 Act the phrase “taken or appropriated” means no more than “appropriated” alone, whereas “taken”, in the phrase “taken as prize” means “captured”.
 
 Subsection (b) is included to make the statement of jurisdiction complete. It is derived by implication from the first sentence of R.S. 4625 (34 U.S.C. 1141) which is the source of subsection (c) of §7653 of this title.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 7681 of this title.
+2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”.
 

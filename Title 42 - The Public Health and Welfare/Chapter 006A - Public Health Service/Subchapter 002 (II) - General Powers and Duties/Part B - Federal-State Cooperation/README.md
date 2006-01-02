@@ -59,6 +59,8 @@ Part B—Federal-State Cooperation
 - [&sect; 00247d&#8211;6a - Authority for use of certain procedures regarding qualified countermeasure research and development activities](%C2%A7%2000247d%E2%80%936a%20-%20Authority%20for%20use%20of%20certain%20procedures%20regarding%20qualified%20countermeasure%20research%20and%20development%20activities.md)
 - [&sect; 00247d&#8211;6b - Strategic National Stockpile](%C2%A7%2000247d%E2%80%936b%20-%20Strategic%20National%20Stockpile.md)
 - [&sect; 00247d&#8211;6c - Reports regarding authorities under this Act](%C2%A7%2000247d%E2%80%936c%20-%20Reports%20regarding%20authorities%20under%20this%20Act.md)
+- [&sect; 00247d&#8211;6d - Targeted liability protections for pandemic and epidemic products and security countermeasures](%C2%A7%2000247d%E2%80%936d%20-%20Targeted%20liability%20protections%20for%20pandemic%20and%20epidemic%20products%20and%20security%20countermeasures.md)
+- [&sect; 00247d&#8211;6e - Covered countermeasure process](%C2%A7%2000247d%E2%80%936e%20-%20Covered%20countermeasure%20process.md)
 - [&sect; 00247d&#8211;7 - Demonstration program to enhance bioterrorism training, coordination, and readiness](%C2%A7%2000247d%E2%80%937%20-%20Demonstration%20program%20to%20enhance%20bioterrorism%20training%2C%20coordination%2C%20and%20readiness.md)
 - [&sect; 00247d&#8211;7a - Grants regarding training and education of certain health professionals](%C2%A7%2000247d%E2%80%937a%20-%20Grants%20regarding%20training%20and%20education%20of%20certain%20health%20professionals.md)
 - [&sect; 00247d&#8211;7b - Emergency system for advance registration of health professions volunteers](%C2%A7%2000247d%E2%80%937b%20-%20Emergency%20system%20for%20advance%20registration%20of%20health%20professions%20volunteers.md)

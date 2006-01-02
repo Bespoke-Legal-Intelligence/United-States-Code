@@ -74,7 +74,7 @@
 
 #### (4) No review of substantive issues
 
-&emsp;For purposes of any claim or suit under this subsection, the treatment of partnership items on the partnership return, under the settlement, under the final partnership administrative adjustment, or under the decision of the court (whichever is appropriate) shall be conclusive. In addition, the determination under the final partnership administrative adjustment or under the decision of the court\(whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment.
+&emsp;For purposes of any claim or suit under this subsection, the treatment of partnership items on the partnership return, under the settlement, under the final partnership administrative adjustment, or under the decision of the court (whichever is appropriate) shall be conclusive. In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment.
 
 #### (5) Rules for seeking innocent spouse relief
 
@@ -110,7 +110,7 @@
 
 #### (4) Timely suit
 
-&emsp;Paragraph (1) shall not apply to any credit or refund of any overpayment attributable to a partnership item (or an item affected by such partnership item) if a partner brings a timely suit with respect to a timely administrative adjustment request under section 6228 or a timely claim under subsection (c) relating to such overpayment.
+&emsp;Paragraph (1) shall not apply to any credit or refund of any overpayment attributable toa partnership item (or an item affected by such partnership item) if a partner brings a timely suit with respect to a timely administrative adjustment request under section 6228 or a timely claim under subsection (c) relating to such overpayment.
 
 #### (5) Overpayments refunded without requirement that partner file claim
 
@@ -231,8 +231,4 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6213, 6234, 6422, 6503, 6512, 6515, 7422 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On the application of an eligible recipient that is determined by the Secretary to be unable to comply with the requirements of section 3162 of this title, the Secretary may waive, in whole or in part, the requirements of section 3162 of this title and designate the area represented by the recipient as a special impact area.
+On the application of an eligible recipient that is determined by the Secretary to be unable tocomply with the requirements of section 3162 of this title, the Secretary may waive, in whole or in part, the requirements of section 3162 of this title and designate the area represented by the recipient as a special impact area.
 
 #### (b) Conditions
 
@@ -18,7 +18,7 @@ The Secretary may make a designation under subsection (a) of this section only a
 
 #### (c) Notification
 
-At the time of the designation under subsection (a) of this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committeeon Transportation and Infrastructure of the House of Representatives a written notice of the designation, including a justification for the designation.
+At the time of the designation under subsection (a) of this section, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written notice of the designation, including a justification for the designation.
 
 (Pub. L. 89–136, title II, §214, as added Pub. L. 108–373, title II, §209(a), Oct. 27, 2004, 118 Stat. 1763.)
 

@@ -32,9 +32,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 104–188, title I, §1905(a), Aug. 20, 1996, 110 Stat. 1913.)
 
-#### Adjustment of Aggregate Gift Threshold for Taxable Years Beginning in 2004
+#### Adjustment of Aggregate Gift Threshold for Taxable Years Beginning in 2006
 
-<i>For adjustment of aggregate gift threshold for purposes of triggering reporting requirement under this section for taxable years beginning in 2004, see section 3.29 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of aggregate gift threshold for purposes of triggering reporting requirement under this section for taxable years beginning in 2006, see section 3.32 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Codification
 

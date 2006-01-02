@@ -60,7 +60,7 @@ Whenever any person who has requested agency records under section 552 of title 
 
 #### (g) Decennial review of exempted operational files
 
-Not less than once every ten years, the Director of the Central Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a) ofthis section to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
+Not less than once every ten years, the Director of the Central Intelligence Agency and the Director of National Intelligence shall review the exemptions in force under subsection (a) of this section to determine whether such exemptions may be removed from any category of exempted files or any portion thereof.
 
 The review required by paragraph (1) shall include consideration of the historical value or other public interest in the subject matter of the particular category of files or portions thereof and the potential for declassifying a significant part of the information contained therein.
 
@@ -70,7 +70,7 @@ A complainant who alleges that the Central Intelligence Agency has improperly wi
 
 &emsp;(B) Whether the Central Intelligence Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-(July 26, 1947, ch. 343, title VII, §701, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2209; amended Pub. L. 104–93, title VII, §702, Jan. 6, 1996, 109 Stat. 978; Pub. L. 107–306, title III, §353(b)(10), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–136, div. A, title IX, §922(b)(1), (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, 117 Stat. 1573, 1574; Pub. L. 108–458, title I, §§1071(a)(6), 1072(a)(7), Dec. 17, 2004, 118 Stat. 3690, 3692.)
+(July 26, 1947, ch. 343, title VII, §701, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2209;amended Pub. L. 104–93, title VII, §702, Jan. 6, 1996, 109 Stat. 978; Pub. L. 107–306, title III, §353(b)(10), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–136, div. A, title IX, §922(b)(1), (2)(B)–(F), (d)(1)(B), Nov. 24, 2003, 117 Stat. 1573, 1574; Pub. L. 108–458, title I, §§1071(a)(6), 1072(a)(7), Dec. 17, 2004, 118 Stat. 3690, 3692.)
 
 #### References in Text
 
@@ -109,6 +109,8 @@ Pub. L. 108–136, §922(b)(2)(F)(i), substituted “with this subsection” for
 1996—Subsec. (b)(3). Pub. L. 104–93 substituted “Office of Personnel Security” for “Office of Security”.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

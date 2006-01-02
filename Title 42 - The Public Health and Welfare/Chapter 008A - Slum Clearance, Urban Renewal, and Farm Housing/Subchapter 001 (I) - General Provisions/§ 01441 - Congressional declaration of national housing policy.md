@@ -22,7 +22,7 @@ Pub. L. 98–181, title V, §501, Nov. 30, 1983, 97 Stat. 1240, provided that: �
 
 #### Short Title
 
-Section 1 of act July 15, 1949, provided: “That this Act \[enacting this chapter, sections 1421a and 1433 of this title, and sections 1701d–1, 1701f–1, 1701h, and 1701i of Title 12, Banks and Banking, amending sections 1401, 1402, 1406, 1409 to 1411, 1413 to 1416, and 1422 to 1430 of this title and sections 1701e, 1701f, 1703, 1709, and 1738 of Title 12, and amending provisions set out as a note under section 1701e of Title 12\] may be cited as the ‘Housing Act of 1949’.”
+Section 1 of act July 15, 1949, provided: “That this Act \[enacting this chapter, sections 1421a and 1433 of this title, and sections 1701d–1, 1701f–1, 1701h, and 1701i of Title 12, Banks and Banking, amending sections 1401, 1402, 1406, 1409 to 1411, 1413 to 1416, and 1422 to 1430 ofthis title and sections 1701e, 1701f, 1703, 1709, and 1738 of Title 12, and amending provisions set out as a note under section 1701e of Title 12\] may be cited as the ‘Housing Act of 1949’.”
 
 #### National Commission on Neighborhoods
 

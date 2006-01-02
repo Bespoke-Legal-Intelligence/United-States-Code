@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 2003 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 2005 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 
@@ -15616,10 +15616,6 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 
 1974—Pub. L. 93–443, title IV, §408(a), Oct. 15, 1974, 88 Stat. 1297, added subtitle H heading “Financing of Presidential election campaigns”.
 
-#### Title Referred to in Other Sections
-
-This title is referred to in title 2 sections 31a–2, 31a–3, 31a–4, 60c–1, 65c, 434, 441b, 632, 651, 691e, 691f, 1610, 1953; title 5 sections 5514, 8432, 8440, 8440e; title 6 section 395; title 10 section 2401; title 11 sections 346, 745; title 12 sections 1825, 3413; title 15 sections 78c, 78kkk, 80a–3, 80b–3, 631b; title 16 sections 460<i>lll</i>–47, 470b, 1855; title 18 sections 983, 4043; title 20 sections 1087–1, 1087–2, 1087ee, 1087ss, 1087vv; title 22 sections 3307, 3968, 4071i, 4071j, 5401; title 25 sections 983f, 1716, 2719; title 29 sections 1002, 1061, 1083, 1146, 1301, 1453, 2897; title 30 section 1473; title 31 sections 1324, 3105, 3106, 3124, 3332, 3701, 3711, 3716, 3718, 3720B, 3729, 3801; title 33 section 2717; title 36 sections 20208, 20708, 20909, 21008, 21108, 22908, 40108, 50108, 60108, 70108, 70308, 80508, 100108, 110108, 140708, 150109, 151508, 152108, 152708, 152909, 154508, 154709, 170309, 170508, 190309, 210309, 220708, 230509, 240108; title 38 sections 7361, 7363; title 40 sections 1301, 1312, 3131; title 42 sections 401, 405, 408, 416, 604, 1007, 1395b–5, 1395y, 1471, 4636, 5055, 8217, 10702; title 45 sections 231m, 1347; title 46 App. section 1177; title 49 section 326; title 50 section 2154.
-
 #### Table of Contents
 
 <i>This Table of Contents is inserted for convenience of users and was not enacted as part of the Internal Revenue Code of 1986.</i>
@@ -15785,10 +15781,6 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 31a–4, 60c–1
 
 1984—Pub. L. 98–369, div. A, title IV, §474(r)(29)(D), July 18, 1984, 98 Stat. 844, struck out “and tax-free covenant bonds” at end of item for chapter 3.
 
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 35, 810, 2056A, 2107, 3402, 3502, 3507, 3508, 4911, 4980, 4999, 5041, 5881, 6011, 6012, 6013, 6038A, 6075, 6111, 6159, 6164, 6201, 6211, 6212, 6213, 6214, 6229, 6231, 6234, 6242, 6311, 6315, 6401, 6404, 6420, 6421, 6427, 6501, 6601, 6621, 6672, 6682, 6694, 6695, 6696, 6702, 6871, 6901, 6905, 7001, 7463, 7491, 7701, 7851, 7852, 7872, 7873 of this title; title 22 sections 1627, 5510; title 25 sections 1729, 1754; title 31 section 3105; title 42 sections 411, 11371; title 45 section 231m; title 48 section 1421i; title 50 App. section 2017e.
-
 
 ---
 
@@ -15825,7 +15817,7 @@ This subtitle is referred to in sections 35, 810, 2056A, 2107, 3402, 3502, 3507,
 - [Chapter 042 - Private Foundations; and Certain Other Tax-Exempt Organizations](Chapter%20042%20-%20Private%20Foundations%3B%20and%20Certain%20Other%20Tax-Exempt%20Organizations/README.md)
 - [Chapter 043 - Qualified Pension, Etc., Plans](Chapter%20043%20-%20Qualified%20Pension%2C%20Etc.%2C%20Plans/README.md)
 - [Chapter 044 - Qualified Investment Entities](Chapter%20044%20-%20Qualified%20Investment%20Entities/README.md)
-- [Chapter 045 - Repealed](Chapter%20045%20-%20Repealed/README.md)
+- [Chapter 045 - Provisions Relating to Expatriated Entities](Chapter%20045%20-%20Provisions%20Relating%20to%20Expatriated%20Entities/README.md)
 - [Chapter 046 - Golden Parachute Payments](Chapter%20046%20-%20Golden%20Parachute%20Payments/README.md)
 - [Chapter 047 - Certain Group Health Plans](Chapter%20047%20-%20Certain%20Group%20Health%20Plans/README.md)
 - [Chapter 051 - Distilled Spirits, Wines, and Beer](Chapter%20051%20-%20Distilled%20Spirits%2C%20Wines%2C%20and%20Beer/README.md)

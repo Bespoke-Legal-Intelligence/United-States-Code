@@ -104,7 +104,7 @@ As used in this chapter, the term—
 
 &emsp;(15) “Secretary” means the Secretary of Commerce;
 
-&emsp;(16) “specifications” means the required characteristics identified in the contractualagreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
+&emsp;(16) “specifications” means the required characteristics identified in the contractual agreement with the manufacturer or to which a fastener is otherwise produced, except that the term does not include proprietary standards; and
 
 &emsp;(17) “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving uniform hardness.
 

@@ -102,7 +102,7 @@ Sec. 4. <i>Management Principles</i>. The Secretary of Commerce, or his designee
 
 (b) The Reserve shall be managed using available science and applying a precautionary approach with resource protection favored when there is a lack of information regarding any given activity, to the extent not contrary to law;
 
-(c) Culturally significant, noncommercial subsistence, cultural, and religious uses by Native Hawaiiansshould be allowed within the Reserve, consistent with applicable law and the long-term conservation and protection of Reserve resources;
+(c) Culturally significant, noncommercial subsistence, cultural, and religious uses by Native Hawaiians should be allowed within the Reserve, consistent with applicable law and the long-term conservation and protection of Reserve resources;
 
 (d) The Reserve shall be managed using, when appropriate, geographical zoning and innovative management techniques to ensure that the Reserve resources are protected from degradation or harm;
 
@@ -306,7 +306,7 @@ Sec. 10. <i>National Wildlife Refuges.</i>
 
 (b) Wherever the Reserve overlaps the Hawaiian Islands National Wildlife Refuge, the Reserve shall be managed to supplement and complement management of the Refuge to ensure coordinated conservation and management of the Reserve and the Refuge, consistent with the purposes and policies of the National Marine Sanctuaries Act, the National Marine Sanctuaries Amendments Act of 2000, and this order, and the authorities of the U.S. Fish and Wildlife Service under the National Wildlife Refuge System Administration Act (16 U.S.C. 668dd-668ee) and other laws with respect to management of the Refuge. Nothing in this order shall enlarge or diminish the jurisdiction or authority of the Secretary or Secretary of the Interior in managing the Reserve or Refuge, respectively.
 
-(c) The Secretary of the Interior, through the U.S. Fish and Wildlife Service, shall coordinate with the Secretary and the Governor of the State of Hawaii, as provided under section 5(b) of this order, to ensurecoordinated protection and management among the Reserve, Refuges, and State, consistent with relevant authorities.
+(c) The Secretary of the Interior, through the U.S. Fish and Wildlife Service, shall coordinate with the Secretary and the Governor of the State of Hawaii, as provided under section 5(b) of this order, to ensure coordinated protection and management among the Reserve, Refuges, and State, consistent with relevant authorities.
 
 Sec. 11. <i>Administration and Judicial Review.</i>
 

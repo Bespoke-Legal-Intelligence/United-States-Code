@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 Establishment of Personnel Files for Korean Conflict Cases.—The Secretary of Defense shall ensure that a personnel file is established for each unaccounted for person who is described in subsection (b)(1) if the Secretary possesses information relevant to that person's status. In the case of a person described in subsection (b)(1) for whom a personnel file does not exist, the Secretary shall create a personnel file for such person upon receipt of new information as provided in subsection (a). Each such file shall be handled in accordance with, and subject to the provisions of, section 1506 of this title in the same manner as applies to the file of a missing person.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L.104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771.)
 
 #### Amendments
 
@@ -55,8 +55,4 @@ Subsecs. (c), (d). Pub. L. 104–201, §578(f)(1), redesignated subsec. (d) as (
 “(c)
 
 Special Rule for Persons Classified as ‘KIA/BNR’.—In the case of a person described in subsection (b) who was classified as ‘killed in action/body not recovered’, the case of that person may be reviewed under this section only if the new information referred to in subsection (a) is compelling.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1508, 1513 of this title.
 

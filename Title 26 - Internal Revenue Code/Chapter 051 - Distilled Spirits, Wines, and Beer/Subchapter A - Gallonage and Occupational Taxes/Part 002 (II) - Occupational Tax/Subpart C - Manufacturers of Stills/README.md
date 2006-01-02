@@ -7,6 +7,10 @@ Subpart C—Manufacturers of Stills
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Redesignation and Enactment of Subpart
+
+<i>Pub. L. 109–59, title XI, §11125(b)(2), (4), (c), Aug. 10, 2005, 119 Stat. 1953, 1954, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this subpart is redesignated as subpart A of this part and a new subpart C, consisting of sections 5121 to 5124, is added.</i>
+
 #### Prior Provisions
 
 A prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to the general revision of this subpart by Pub. L. 98–369, div. A, title IV, §451(a), July 18, 1984, 98 Stat. 818.

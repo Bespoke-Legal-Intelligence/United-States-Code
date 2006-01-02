@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(E) the number of family members in postsecondary education, and
 
-&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independentstudents with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
+&emsp;&emsp;(F) an allowance (A) for State and other taxes, as defined in section 1087<i>oo</i>(c)(2) of this title for dependent students and in section 1087qq(b)(2) of this title for independent students with dependents other than a spouse, or (B) for State and other income taxes, as defined in section 1087pp(b)(2) of this title for independent students without dependents other than a spouse.
 
 #### (3) Qualifying forms
 

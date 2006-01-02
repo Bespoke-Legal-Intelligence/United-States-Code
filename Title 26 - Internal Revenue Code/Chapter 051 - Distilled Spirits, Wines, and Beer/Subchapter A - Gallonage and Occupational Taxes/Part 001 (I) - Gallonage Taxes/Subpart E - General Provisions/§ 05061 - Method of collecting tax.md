@@ -56,7 +56,21 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 &emsp;In the case of distilled spirits, wines, and beer which are brought into the United States (other than in bulk containers) from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
 
-#### (4) Special rule for tax due in September
+#### (4) Taxpayers liable for taxes of not more than $50,000
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any taxpayer who reasonably expects to be liable for not more than $50,000 in taxes imposed with respect to distilled spirits, wines, and beer under subparts A, C, and D and section 7652 for the calendar year and who was liable for not more than $50,000 in such taxes in the preceding calendar year, the last day for the payment of tax on withdrawals, removals, and entries (and articles brought into the United States from Puerto Rico) under bond for deferred payment shall be the 14th day after the last day of the calendar quarter during which the action giving rise to the imposition of such tax occurs.
+
+#### (B) No application after limit exceeded
+
+&emsp;&emsp;Subparagraph (A) shall not apply to any taxpayer for any portion of the calendar year following the first date on which the aggregate amount of tax due under subparts A, C, and D and section 7652 from such taxpayer during such calendar year exceeds $50,000, and any tax under such subparts which has not been paid on such date shall be due on the 14th day after the last day of the semimonthly period in which such date occurs.
+
+#### (C) Calendar quarter
+
+&emsp;&emsp;For purposes of this paragraph, the term “calendar quarter” means the three-month period ending on March 31, June 30, September 30, or December 31.
+
+#### (5) Special rule for tax due in September
 
 #### (A) In general
 
@@ -70,9 +84,9 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 &emsp;&emsp;In the case of payments not required to be made by electronic funds transfer, subparagraphs (A) and (B) shall be applied by substituting “September 25” for “September 26”, “September 28” for “September 29”, and “2/3” for “11/15”.
 
-#### (5) Special rule where due date falls on Saturday, Sunday, or holiday
+#### (6) Special rule where due date falls on Saturday, Sunday, or holiday
 
-&emsp;Notwithstanding section 7503, if, but for this paragraph, the due date under this subsection for payment of tax would fall on a Saturday, Sunday, or a legal holiday (within the meaning of section 7503), such due date shall be the immediately preceding day which is not a Saturday, Sunday, or such a holiday (or the immediately following day where the due date described in paragraph (4) falls on a Sunday).
+&emsp;Notwithstanding section 7503, if, but for this paragraph, the due date under this subsection for payment of tax would fall on a Saturday, Sunday, or a legal holiday (within the meaning of section 7503), such due date shall be the immediately preceding day which is not a Saturday, Sunday, or such a holiday (or the immediately following day where the due date described in paragraph (5) falls on a Sunday).
 
 #### (e) Payment by electronic fund transfer
 
@@ -94,7 +108,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 &emsp;&emsp;Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869; Pub. L. 109–59, title XI, §11127(a), (b), Aug. 10, 2005, 119 Stat. 1958, 1959.)
 
 #### Prior Provisions
 
@@ -103,6 +117,8 @@ A prior section 5061, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 Provisions similar to those comprising subsec. (d) of this section were contained in former section 5001(c), act Aug. 16, 1954, ch. 736, 68A Stat. 597, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+2005—Subsec. (d)(4) to (6). Pub. L. 109–59 added par. (4), redesignated former pars. (4) and (5) as (5) and (6), respectively, and in par. (6) substituted “paragraph (5)” for “paragraph (4)”.
 
 1996—Subsec. (b)(3). Pub. L. 104–188 substituted “section 5041(f),” for “section 5041(e),”.
 
@@ -136,6 +152,10 @@ Subsec. (c). Pub. L. 94–455, §1905(a)(6)(C), substituted the import duties pr
 
 Subsec. (d). Pub. L. 94–455, §1905(b)(2)(E)(iii), struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11127(c), Aug. 10, 2005, 119 Stat. 1959, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to quarterly periods beginning on and after January 1, 2006.”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
@@ -162,7 +182,7 @@ Section 8011(c) of Pub. L. 99–509, as amended by Pub. L. 99–514, §2, Oct. 2
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 5054, 5703, and 5704 of this title\] shall apply to removals during semimonthly periods ending on or after December 31, 1986.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 5054, 5703, and 5704 of this title\] shall apply to removals during semimonthly periods ending on or after December 31, 1986.
 
 “(2)
 
@@ -261,8 +281,4 @@ Return of Distilled Spirits Products Containing Other Alcoholic Ingredients.—W
 “(f)
 
 Secretary Defined.—For purposes of this section, the term ‘Secretary’ means the Secretary of the Treasury or his delegate.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4052, 5026, 5043, 5054, 5081, 5703, 5731, 5801, 6302 of this title.
 

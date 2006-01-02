@@ -6,7 +6,7 @@ From amounts made available under section 7241 of this title to carry out this s
 
 #### (b) Amount
 
-The Secretary shall determine the amount of the incentive payment under subsection (a) of this section for each public elementary school for each fiscal year on the basis of the number of students participating in a program describedin such subsection at such school for such year compared to the total number of such students at all such schools in the United States for such year.
+The Secretary shall determine the amount of the incentive payment under subsection (a) of this section for each public elementary school for each fiscal year on the basis of the number of students participating in a program described in such subsection at such school for such year compared to the total number of such students at all such schools in the United States for such year.
 
 #### (c) Requirement
 

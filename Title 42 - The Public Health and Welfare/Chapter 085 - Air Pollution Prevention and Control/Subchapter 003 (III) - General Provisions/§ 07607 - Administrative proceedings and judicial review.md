@@ -130,9 +130,9 @@ It is the intent of Congress that, consistent with the policy of subchapter II o
 
 #### References in Text
 
-Section 7521(b)(4) of this title, referred to in subsec. (a), was repealed by Pub. L. 101–549, title II, §203(2), Nov. 15, 1990, 104 Stat. 2529.
+Section 7521(b)(4) of this title, referred to in subsec. (a), was repealed by Pub. L. 101–549, title II, §230(2), Nov. 15, 1990, 104 Stat. 2529.
 
-Section 7521(b)(5) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 101–549, title II, §203(3), Nov. 15, 1990, 104 Stat. 2529.
+Section 7521(b)(5) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 101–549, title II, §230(3), Nov. 15, 1990, 104 Stat. 2529.
 
 Section 1857c–10(c)(2)(A), (B), or (C) of this title (as in effect before August 7, 1977), referred to in subsec. (b)(1), was in the original “section 119(c)(2)(A), (B), or (C) (as in effect before the date of enactment of the Clean Air Act Amendments of 1977)”, meaning section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 1974, Pub. L. 93–319, §3, 88 Stat. 248, (which was classified to section 1857c–10 of this title) as in effect prior to the enactment of Pub. L. 95–95, Aug. 7, 1977, 91 Stat. 691, effective Aug. 7, 1977. Section 112(b)(1) of Pub. L. 95–95 repealed section 119 of act July 14, 1955, ch. 360, title I, as added by Pub. L. 93–319, and provided that all references to such section 119 in any subsequent enactment which supersedes Pub. L. 93–319 shall be construed to refer to section 113(d) of the Clean Air Act and to paragraph (5) thereof in particular which is classified to subsec. (d)(5) of section 7413 of this title. Section 7413(d) of this title was subsequently amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders. Section 117(b) of Pub. L. 95–95 added a new section 119 of act July 14, 1955, which is classified to section 7419 of this title.
 

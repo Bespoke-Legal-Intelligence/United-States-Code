@@ -14,10 +14,6 @@
 
 1990—Pub. L. 101–510, div. A, title V, §521(a)(2), Nov. 5, 1990, 104 Stat. 1561, added item 638a.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 33 section 3048.
-
 
 ---
 

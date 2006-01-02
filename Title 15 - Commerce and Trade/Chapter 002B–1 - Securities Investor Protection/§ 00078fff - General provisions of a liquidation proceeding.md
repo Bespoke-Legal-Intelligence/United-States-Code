@@ -30,9 +30,9 @@ In a liquidation proceeding under this chapter, any cash or securities remaining
 
 #### (e) Costs and expenses of administration
 
-All costs and expenses of administration of the estate of the debtor and of the liquidation proceeding shall be borne by the general estate of the debtor to the extent it is sufficient therefor, and the priorities of distribution from the general estate shall be as provided in section 726 of title 11. Costs and expenses of administration shall include payments pursuant to section 78fff–2(e) of this title and section 78fff–3(c)(1) of this title (to the extent such payments recovered securities which were apportioned to the general estate pursuant to subsection (d) of this section) and costs and expenses of SIPC employees utilized by the trustee pursuant to section 78fff–1(a)(2) of this title. All funds advanced by SIPC to a trustee for such costs and expenses of administration shall be recouped from the general estate under section 507(a)(1) of title 11.
+All costs and expenses of administration of the estate of the debtor and of the liquidation proceeding shall be borne by the general estate of the debtor to the extent it is sufficient therefor, and the priorities of distribution from the general estate shall be as provided in section 726 of title 11. Costs and expenses of administration shall include payments pursuant to section 78fff–2(e) of this title and section 78fff–3(c)(1) of this title (to the extent such payments recovered securities which were apportioned to the general estate pursuant to subsection (d) of this section) and costs and expenses of SIPC employees utilized by the trustee pursuant to section 78fff–1(a)(2) of this title. All funds advanced by SIPC to a trustee for such costs and expenses of administration shall be recouped from the general estate under section 507(a)(2) of title 11.
 
-(Pub. L. 91–598, §6, Dec. 30, 1970, 84 Stat. 1646; Pub. L. 95–283, §8, May 21, 1978, 92 Stat. 259; Pub. L. 95–598, title III, §308(g), (h), Nov. 6, 1978, 92 Stat. 2675.)
+(Pub. L. 91–598, §6, Dec. 30, 1970, 84 Stat. 1646; Pub. L. 95–283, §8, May 21, 1978, 92 Stat. 259; Pub. L. 95–598, title III, §308(g), (h), Nov. 6, 1978, 92 Stat. 2675; Pub. L. 109–8, title XV, §1502(b), Apr. 20, 2005, 119 Stat. 217.)
 
 #### References in Text
 
@@ -40,9 +40,11 @@ This chapter, referred to in subsecs. (a)(1), (3), (b), (c), and (d), was in the
 
 #### Amendments
 
+2005—Subsec. (e). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
+
 1978—Pub. L. 95–283 substituted “General provisions of a liquidation proceeding” for “Liquidation proceedings” in section catchline.
 
-Subsec. (a). Pub. L. 95–283 in heading substituted “Purposes” for “General purposes of liquidation proceeding”, in introductory text substituted provisions relating to purposes of liquidation proceedings under this chapter, for provisions relating to purposes of any proceeding in which a trustee has been appointed undersection 78eee(b)(3) of this title, in par. (1) substituted provisions requiring execution of authorities to deliver customer name securities and distribute customer property in accordance with this chapter, for provisions requiring execution of authorities to return specifically identifiable property and distribute the single and separate fund in accordance with this section, and in par. (2) substituted provisions authorizing sale, etc., of productive units of the debtor, for provisions authorizing operation of the business of the debtor.
+Subsec. (a). Pub. L. 95–283 in heading substituted “Purposes” for “General purposes of liquidation proceeding”, in introductory text substituted provisions relating to purposes of liquidation proceedings under this chapter, for provisions relating to purposes of any proceeding in which a trustee has been appointed under section 78eee(b)(3) of this title, in par. (1) substituted provisions requiring execution of authorities to deliver customer name securities and distribute customer property in accordance with this chapter, for provisions requiring execution of authorities to return specifically identifiable property and distribute the single and separate fund in accordance with this section, and in par. (2) substituted provisions authorizing sale, etc., of productive units of the debtor, for provisions authorizing operation of the business of the debtor.
 
 Subsec. (b). Pub. L. 95–598, §308(g), in heading substituted “title 11” for “Bankruptcy Act” and in text “under chapters 1, 3, and 5 and subchapters I and II of chapter 7 of title 11. For the purposes of applying such title in carrying out this section, a reference in such title to the date of the filing of the petition shall be deemed to be a reference to the filing date under this chapter.” for “under, the Bankruptcy Act. For purposes of applying the Bankruptcy Act to this chapter, any reference in the Bankruptcy Act to the date of commencement of proceedings under the Bankruptcy Act shall be deemed to be a reference to the filing date under this chapter.”
 
@@ -56,7 +58,7 @@ Subsec. (e). Pub. L. 95–598, §308(h), substituted in first sentence “sectio
 
 Pub. L. 95–283 in heading substituted “Costs and expense of administration” for “Notice”, and in text substituted provisions relating to costs and expenses of administration of the estate of the debtor and of the liquidation proceeding, for provisions relating to notice requirements for the trustee subsequent to appointment as trustee. See section 78fff–2(a)(l) of this title.
 
-Subsec. (f). Pub. L. 95–283 struck out subsec. (f) requiring advances by the SIPC to the trustee for customers’ claims and completion of open contractual commitments, and authorizing discretionary advances to the trustee for compensation of personnel deemed necessary for the liquidation proceeding. See section 78fff–3 of this title.
+Subsec. (f). Pub. L. 95–283 struck out subsec. (f) requiring advances by the SIPC to the trustee for customers’ claims and completion of open contractual commitments, and authorizing discretionary advancesto the trustee for compensation of personnel deemed necessary for the liquidation proceeding. See section 78fff–3 of this title.
 
 Subsec. (g). Pub. L. 95–283 struck out subsec. (g) setting forth provisions relating to payments to customers by the trustee, and provisions respecting the quantum of proof of claim required for such payment. See section 78fff–2(a)(2) and (b) of this title.
 
@@ -65,6 +67,10 @@ Subsec. (h). Pub. L. 95–283 struck out subsec. (h) relating to nonapplicabilit
 Subsec. (i). Pub. L. 95–283 struck out subsec. (i) setting forth provisions relating to reports by the trustee to the court. See section 78fff–1(c) of this title.
 
 Subsec. (j). Pub. L. 95–283 struck out subsec. (j) which related to nonapplicability of provisions to rights of persons to establish by formal proof such claims as they may have to payment or delivery of specific securities. See section 78fff–2(a)(4) of this title.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1978 Amendment
 

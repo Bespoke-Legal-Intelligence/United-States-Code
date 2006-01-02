@@ -30,3 +30,7 @@ Coordination With Director of Central Intelligence.—The Director of the Agency
 
 1997—Subsec. (b)(1). Pub. L. 105–85 substituted semicolon for period after “denied funds”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+

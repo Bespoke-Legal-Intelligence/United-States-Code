@@ -8,7 +8,7 @@ Any contracting agency is authorized—
 
 &emsp;(c) to determine by agreement, joint estimate, or any other method authorized by the Administrator of General Services, the part of any expenditure made pursuant to subsection (b) of this section to be paid by each contracting agency concerned and to make transfers of funds between such contracting agencies accordingly. Transfers of funds between appropriations carried upon the books of the Treasury shall be made by the Administrator of General Services in accordance with joint requests of the contracting agencies involved.
 
-(July 1, 1944, ch. 358, §22, 58 Stat. 670; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1949, 12 F.R.4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
+(July 1, 1944, ch. 358, §22, 58 Stat. 670; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1949, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 
 #### Transfer of Functions
 

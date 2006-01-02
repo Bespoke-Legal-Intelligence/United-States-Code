@@ -18,7 +18,7 @@
 
 &emsp;(D) contain adequate provisions—
 
-&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the State from emitting any air pollutant in amounts which will—
+&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or othertype of emissions activity within the State from emitting any air pollutant in amounts which will—
 
 &emsp;&emsp;&emsp;(I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard, or
 
@@ -80,7 +80,7 @@
 
 (B) The Administrator shall have the authority to promulgate, implement and enforce regulations under subsection (c) of this section respecting indirect source review programs which apply only to federally assisted highways, airports, and other major federally assisted indirect sources and federally owned or operated indirect sources.
 
-(C) For purposes of this paragraph, the term “indirect source means a facility, building, structure, installation, real property, road, or highway which attracts, or may attract, mobile sources of pollution. Such term includes parking lots, parking garages, and other facilities subject to any measure for management of parking supply (within the meaning of subsection (c)(2)(D)(ii) of this section), including regulation of existing off-street parking but such term does not include new or existing on-street parking. Direct emissions sources or facilities at, within, or associated with, any indirect source shall not be deemed indirect sources for the purpose of this paragraph.
+(C) For purposes of this paragraph, the term “indirect source” means a facility, building, structure, installation, real property, road, or highway which attracts, or may attract, mobile sources of pollution. Such term includes parking lots, parking garages, and other facilities subject to any measure for management of parking supply (within the meaning of subsection (c)(2)(D)(ii) of this section), including regulation of existing off-street parking but such term does not include new or existing on-street parking. Direct emissions sources or facilities at, within, or associated with, any indirect source shall not be deemed indirect sources for the purpose of this paragraph.
 
 (D) For purposes of this paragraph the term “indirect source review program” means the facility-by-facility review of indirect sources of air pollution, including such measures as are necessary to assure, or assist in assuring, that a new or modified indirect source will not attract mobile sources of air pollution, the emissions from which would cause or contribute to air pollution concentrations—
 
@@ -108,7 +108,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (2)(A) Repealed. Pub. L. 101–549, title I, §101(d)(3)(A), Nov. 15, 1990, 104 Stat. 2409.
 
-(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicableimplementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
+(B) No parking surcharge regulation may be required by the Administrator under paragraph (1) of this subsection as a part of an applicable implementation plan. All parking surcharge regulations previously required by the Administrator shall be void upon June 22, 1974. This subparagraph shall not prevent the Administrator from approving parking surcharges if they are adopted and submitted by a State as part of an applicable implementation plan. The Administrator may not condition approval of any implementation plan submitted by a State on such plan's including a parking surcharge regulation.
 
 (C) Repealed. Pub. L. 101–549, title I, §101(d)(3)(B), Nov. 15, 1990, 104 Stat. 2409.
 
@@ -156,7 +156,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 &emsp;(B) such unemployment or loss can be totally or partially alleviated by such emergency suspension.
 
-> Not more than one such suspension may be issued for any source on the basis of the same setof circumstances or on the basis of the same emergency.
+> Not more than one such suspension may be issued for any source on the basis of the same set of circumstances or on the basis of the same emergency.
 
 (3) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator, if any. The Administrator may disapprove such suspension if he determines that it does not meet the requirements of paragraph (2).
 
@@ -202,7 +202,7 @@ As a condition for issuance of any permit required under this subchapter, the ow
 
 #### (B) Completeness finding
 
-&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no laterthan 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receipt of the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
+&emsp;&emsp;Within 60 days of the Administrator's receipt of a plan or plan revision, but no later than 6 months after the date, if any, by which a State is required to submit the plan or revision, the Administrator shall determine whether the minimum criteria established pursuant to subparagraph (A) have been met. Any plan or plan revision that a State submits to the Administrator, and that has not been determined by the Administrator (by the date 6 months after receiptof the submission) to have failed to meet the minimum criteria established pursuant to subparagraph (A), shall on that date be deemed by operation of law to meet such minimum criteria.
 
 #### (C) Effect of finding of incompleteness
 
@@ -262,7 +262,7 @@ If an Indian tribe submits an implementation plan to the Administrator pursuant 
 
 #### (p) Reports
 
-Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
+Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development <sup>3</sup> effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
 
 (July 14, 1955, ch. 360, title I, §110, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1680; amended Pub. L. 93–319, §4, June 22, 1974, 88 Stat. 256; Pub. L. 95–95, title I, §§107, 108, Aug. 7, 1977, 91 Stat. 691, 693; Pub. L. 95–190, §14(a)(1)–(6), Nov. 16, 1977, 91 Stat. 1399; Pub. L. 97–23, §3, July 17, 1981, 95 Stat. 142; Pub. L. 101–549, title I, §§101(b)–(d), 102(h), 107(c), 108(d), title IV, §412, Nov. 15, 1990, 104 Stat. 2404–2408, 2422, 2464, 2466, 2634.)
 
@@ -286,7 +286,7 @@ A prior section 110 of act July 14, 1955, was renumbered section 117 by Pub. L. 
 
 1990—Subsec. (a)(1). Pub. L. 101–549, §101(d)(8), substituted “3 years (or such shorter period as the Administrator may prescribe)” for “nine months” in two places.
 
-Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereof and listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
+Subsec. (a)(2). Pub. L. 101–549, §101(b), amended par. (2) generally, substituting present provisions for provisions setting the time within which the Administrator was to approve or disapprove a plan or portion thereofand listing the conditions under which the plan or portion thereof was to be approved after reasonable notice and hearing.
 
 Subsec. (a)(3)(A). Pub. L. 101–549, §101(d)(1), struck out subpar. (A) which directed Administrator to approve any revision of an implementation plan if it met certain requirements and had been adopted by the State after reasonable notice and public hearings.
 
@@ -348,11 +348,11 @@ Subsec. (a)(3)(C). Pub. L. 95–95, §108(c), added subpar. (C).
 
 Subsec. (a)(3)(D). Pub. L. 95–190, §14(a)(4), added subpar. (D).
 
-Subsec. (a)(5). Pub. L. 95–95, §108(3), added par. (5).
+Subsec. (a)(5). Pub. L. 95–95, §108(e), added par. (5).
 
 Subsec. (a)(5)(D). Pub. L. 95–190, §14(a)(3), struck out “preconstruction or premodification” before “review”.
 
-Subsec. (a)(6). Pub. L. 95–95, §108(3), added par. (6).
+Subsec. (a)(6). Pub. L. 95–95, §108(e), added par. (6).
 
 Subsec. (c)(1). Pub. L. 95–95, §108(d)(1), (2), substituted “plan which meets the requirements of this section” for “plan for any national ambient air quality primary or secondary standard within the time prescribed” in subpar. (A) and, in provisions following subpar. (C), directed that any portion of a plan relating to any measure described in first sentence of 7421 of this title (relating to consultation) or the consultation process required under such section 7421 of this title not be required to be promulgated before the date eight months after such date required for submission.
 
@@ -411,4 +411,6 @@ Federal Energy Administration terminated and functions vested by law in Administ
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

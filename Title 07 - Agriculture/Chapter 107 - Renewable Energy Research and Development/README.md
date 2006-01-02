@@ -13,7 +13,8 @@
 | (g) | Procurement program. |
 | (h) | Labeling. |
 | (i) | Limitation. |
-| (j) | Funding. |
+| (j) | Inclusion. |
+| (k) | Funding. |
 | [8103\.](%C2%A7%2008103%20-%20Biorefinery%20development%20grants.md) | Biorefinery development grants. |
 | (a) | Purpose. |
 | (b) | Definitions. |

@@ -20,7 +20,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (3) Judicial assessment
 
-&emsp;The Administrator may bring an action in the United States District <sup>1</sup> court for the appropriate district to assess and collect a penalty of not more than $25,000 per day for each day during which the violation continues in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation, the amount of such penalty may be not more than $75,000 foreach day during which the violation continues.
+&emsp;The Administrator may bring an action in the United States District <sup>1</sup> court for the appropriate district to assess and collect a penalty of not more than $25,000 per day for each day during which the violation continues in the case of a violation of the requirements of section 11004 of this title. In the case of a second or subsequent violation, the amount of such penalty may be not more than $75,000 for each day during which the violation continues.
 
 #### (4) Criminal penalties
 

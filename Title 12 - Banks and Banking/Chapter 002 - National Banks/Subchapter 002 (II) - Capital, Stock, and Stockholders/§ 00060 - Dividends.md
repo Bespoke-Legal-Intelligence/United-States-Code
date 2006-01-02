@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 103–325, §602(h)(2)(B), substituted “net income” for
 
 Subsec. (c). Pub. L. 103–325, §602(h)(2)(C), struck out subsec. (c) which read as follows: “For the purpose of this section the term ‘net profits’ shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets, after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all Federal and State taxes.”
 
-1959—Pub. L. 86–230 designated existing provisions as subsec. (a), authorized the declaration of dividends, quarterly and annually, when at least one-tenth of the bank's net profits of the preceding half year or of the preceding two consecutive half-year periods has been carried to the surplus fund, respectively, and added subsecs. (b) and (c).
+1959—Pub. L. 86–230 designated existing provisions as subsec. (a), authorized the declaration of dividends, quarterly and annually, when at least one-tenth of thebank's net profits of the preceding half year or of the preceding two consecutive half-year periods has been carried to the surplus fund, respectively, and added subsecs. (b) and (c).
 
 1935—Act Aug. 23, 1935, among other changes, inserted proviso.
 

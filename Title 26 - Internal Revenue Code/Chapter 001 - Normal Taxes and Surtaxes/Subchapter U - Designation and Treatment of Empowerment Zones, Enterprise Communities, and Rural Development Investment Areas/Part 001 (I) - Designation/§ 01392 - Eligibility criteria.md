@@ -26,7 +26,7 @@ A nominated area shall be eligible for designation under section 1391 only if it
 
 &emsp;&emsp;(A) does not exceed 20 square miles if an urban area or 1,000 square miles if a rural area,
 
-&emsp;&emsp;(B) has a boundary which is continuous, or, except in the case of a rural area located in more than 1 State, consists of not more than 3 noncontiguous parcels,
+&emsp;&emsp;(B) has a boundary which is continuous, or, except in the case of a rural area locatedin more than 1 State, consists of not more than 3 noncontiguous parcels,
 
 &emsp;&emsp;(C)(i) in the case of an urban area, is located entirely within no more than 2 contiguous States, and
 
@@ -86,7 +86,7 @@ For purposes of subsection (a)(4)—
 
 From among the nominated areas eligible for designation under section 1391 by the appropriate Secretary, such appropriate Secretary shall make designations of empowerment zones and enterprise communities on the basis of—
 
-&emsp;(1) the effectiveness of the strategic plan submitted pursuant to section 1391(f)(2) andthe assurances made pursuant to section 1391(e)(3), and
+&emsp;(1) the effectiveness of the strategic plan submitted pursuant to section 1391(f)(2) and the assurances made pursuant to section 1391(e)(3), and
 
 &emsp;(2) criteria specified by the appropriate Secretary.
 
@@ -103,8 +103,4 @@ A prior section 1392, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 #### Amendments
 
 1997—Subsec. (d). Pub. L. 105–34 added subsec. (d).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1391, 1400E of this title; title 29 section 2914.
 

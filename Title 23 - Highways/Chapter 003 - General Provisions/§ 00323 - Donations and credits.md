@@ -48,7 +48,7 @@ Limitation on amount of credit.—The credit received by a State pursuant to thi
 
 (c)
 
-Credit for Donations of Funds, Materials, or Services.—Nothing in this title or any other law shall prevent a person from offering to donate funds, materials, or services in connection with a project eligible for assistance under this title. In the case of such a project with respect to which the Federal Government and the State share in paying the cost, any donated funds, or the fair market value of any donated materials or services, that are accepted and incorporated into the project by the State transportation department shall be credited against the State share.
+Credit for Donations of Funds, Materials, or Services.—Nothing in this title or any other law shall prevent a person from offering to donate funds, materials, or services, or a local government from offering to donate funds, materials, or services performed by local government employees, in connection with a project eligible for assistance under this title. In the case of such a project with respect to which the Federal Government and the State share in paying the cost, any donated funds, or the fair market value of any donated materials or services, that are accepted and incorporated into the project by the State transportation department shall be credited against the State share.
 
 (d)
 
@@ -60,17 +60,17 @@ Procedures.—A gift or donation in accordance with subsection (a) may be made a
 
 &emsp;(3) any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, if required, and completion of the environmental document.
 
-(e)
-
-Crediting of Contributions by Units of Local Government Toward the State Share.—A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.
-
-(Added Pub. L. 93–87, title I, §145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, §112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, §146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, §322, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, 112 Stat. 193, 225, 226.)
+(Added Pub. L. 93–87, title I, §145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, §112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, §146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, §322, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, 112 Stat. 193, 225, 226; Pub. L. 109–59, title I, §1902, Aug. 10, 2005, 119 Stat. 1464.)
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–59, §1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
+
+Subsec. (e). Pub. L. 109–59, §1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
 
 1998—Pub. L. 105–178, §1301(d)(1), substituted “Donations and credits” for “Donations” in section catchline.
 

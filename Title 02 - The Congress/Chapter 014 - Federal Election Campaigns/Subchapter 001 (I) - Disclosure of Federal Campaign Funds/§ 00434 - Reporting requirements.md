@@ -20,7 +20,7 @@
 
 &emsp;(A) in any calendar year during which a general election is held to fill such office—
 
-&emsp;&emsp;(i) the treasurer shall file monthly reports if such committee has on January 1 of such year, received contributions aggregating $100,000 or made expenditures aggregating $100,000 or anticipates receiving contributions aggregating $100,000 or more or making expenditures aggregating $100,000 or more during such year: such monthly reports shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month, except that, in lieu of filing the report otherwise due in November and December, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year;
+&emsp;&emsp;(i) the treasurer shall file monthly reports if such committee has on January 1 of suchyear, received contributions aggregating $100,000 or made expenditures aggregating $100,000 or anticipates receiving contributions aggregating $100,000 or more or making expenditures aggregating $100,000 or more during such year: such monthly reports shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month, except that, in lieu of filing the report otherwise due in November and December, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year;
 
 &emsp;&emsp;(ii) the treasurer of the other principal campaign committees of a candidate for the office of President shall file a pre-election report or reports in accordance with paragraph (2)(A)(i), a post-general election report in accordance with paragraph (2)(A)(ii), and quarterly reports in accordance with paragraph (2)(A)(iii); and
 
@@ -64,7 +64,7 @@ Definition of expenditure from personal funds.—In this subparagraph, the term 
 
 &emsp;(ii)
 
-Declaration of intent.—Not later than the date that is 15 days after the date on which an individual becomes a candidate for the office of Senator, the candidate shall file a declaration stating the total amount of expenditures from personal funds that the candidate intends to make, or to obligate to make, with respect to the election that will exceed the State-by-State competitive and fair campaign formula with—
+Declaration of intent.—Not later than the date that is 15 days after the date on which an individual becomes a candidate for the office of Senator, the candidate shall file adeclaration stating the total amount of expenditures from personal funds that the candidate intends to make, or to obligate to make, with respect to the election that will exceed the State-by-State competitive and fair campaign formula with—
 
 &emsp;&emsp;(I) the Commission; and
 
@@ -110,7 +110,7 @@ Enforcement.—For provisions providing for the enforcement of the reporting req
 
 (7) The reports required to be filed by this subsection shall be cumulative during the calendar year to which they relate, but where there has been no change in an item reported in a previous report during such year, only the amount need be carried forward.
 
-(8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waivedif such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
+(8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waived if such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
 
 (9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
 
@@ -186,7 +186,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(J) dividends, interest, and other forms of receipts; and
 
-&emsp;&emsp;(K) for an authorized committee of a candidate for the office of President, Federalfunds received under chapter 95 and chapter 96 of title 26;
+&emsp;&emsp;(K) for an authorized committee of a candidate for the office of President, Federal funds received under chapter 95 and chapter 96 of title 26;
 
 &emsp;(3) the identification of each—
 
@@ -254,7 +254,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(ii) person who has received a loan from the reporting committee during the reporting period, together with the date and amount of such loan;
 
-&emsp;&emsp;(iii) person who receives any disbursement during the reporting period in an aggregateamount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), in connection with an independent expenditure by the reporting committee, together with the date, amount, and purpose of any such independent expenditure and a statement which indicates whether such independent expenditure is in support of, or in opposition to, a candidate, as well as the name and office sought by such candidate, and a certification, under penalty of perjury, whether such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such committee;
+&emsp;&emsp;(iii) person who receives any disbursement during the reporting period in an aggregate amount or value in excess of $200 within the calendar year (or election cycle, in the case of an authorized committee of a candidate for Federal office), in connection with an independent expenditure by the reporting committee, together with the date, amount, and purpose of any such independent expenditure and a statement which indicates whether such independent expenditure is in support of, or in opposition to, a candidate, as well as the name and office sought by such candidate, and a certification, under penalty of perjury, whether such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such committee;
 
 &emsp;&emsp;(iv) person who receives any expenditure from the reporting committee during the reporting period in connection with an expenditure under section 441a(d) of this title, together with the date, amount, and purpose of any such expenditure as well as the name of, and office sought by, the candidate on whose behalf the expenditure is made; and
 
@@ -328,7 +328,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(D) The elections to which the electioneering communications pertain and the names (if known) of the candidates identified or to be identified.
 
-&emsp;&emsp;(E) If the disbursements were paid out of a segregated bank account which consists of funds contributed solely by individuals who are United States citizens or nationals or lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8) directly to this account for electioneering communications, the names and addresses of all contributors who contributed an aggregate amount of $1,000 or more to that account during the period beginning on the first day of the preceding calendar year and ending on the disclosure date. Nothing in this subparagraph is to be construed as a prohibition on the use of funds in such a segregated account for a purpose other than electioneering communications.
+&emsp;&emsp;(E) If the disbursements were paid out of a segregated bank account which consists of funds contributed solely by individuals who are United States citizens or nationals or lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8) directly to this account for electioneering communications, the names and addresses of all contributors who contributed an aggregate amount of $1,000 or more to that account during the period beginning on thefirst day of the preceding calendar year and ending on the disclosure date. Nothing in this subparagraph is to be construed as a prohibition on the use of funds in such a segregated account for a purpose other than electioneering communications.
 
 &emsp;&emsp;(F) If the disbursements were paid out of funds not described in subparagraph (E), the names and addresses of all contributors who contributed an aggregate amount of $1,000 or more to the person making the disbursement during the period beginning on the first day of the preceding calendar year and ending on the disclosure date.
 
@@ -360,7 +360,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;&emsp;(ii) a communication which constitutes an expenditure or an independent expenditure under this Act;
 
-&emsp;&emsp;&emsp;(iii) a communication which constitutes a candidate debate or forum conducted pursuant to regulations adopted by the Commission, or which solely promotessuch a debate or forum and is made by or on behalf of the person sponsoring the debate or forum; or
+&emsp;&emsp;&emsp;(iii) a communication which constitutes a candidate debate or forum conducted pursuant to regulations adopted by the Commission, or which solely promotes such a debate or forum and is made by or on behalf of the person sponsoring the debate or forum; or
 
 &emsp;&emsp;&emsp;(iv) any other communication exempted under such regulations as the Commission may promulgate (consistent with the requirements of this paragraph) to ensure the appropriate implementation of this paragraph, except that under any such regulation a communication may not be exempted if it meets the requirements of this paragraph and is described in section 431(20)(A)(iii) of this title.
 
@@ -398,7 +398,7 @@ Each report under this section shall disclose—
 
 #### (A) Initial report
 
-&emsp;&emsp;A person (including a political committee) that makes or contracts to make independent expenditures aggregating $1,000 or more after the 20th day, but more than 24 hours, before the date of an election shall file a report describing the expenditures within 24 hours.
+&emsp;&emsp;A person (including a political committee) that makes or contracts to make independent expenditures aggregating $1,000 or more after the 20th day, but more than 24 hours,before the date of an election shall file a report describing the expenditures within 24 hours.
 
 #### (B) Additional reports
 
@@ -430,7 +430,7 @@ Each report under this section shall disclose—
 
 The Federal Election Commission shall make any report filed by an Inaugural Committee under section 510 of title 36 accessible to the public at the offices of the Commission and on the Internet not later than 48 hours after the report is received by the Commission.
 
-(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 106–346, §101(a) \[title V, §502(a), (c)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §103(a), title II, §§201(a), 212, title III, §§304(b), 306, 308(b), title V, §§501, 503, Mar. 27,2002, 116 Stat. 87, 88, 93, 99, 102, 104, 114, 115; Pub. L. 108–199, div. F, title VI, §641, Jan. 23, 2004, 118 Stat. 359.)
+(Pub. L. 92–225, title III, §304, Feb. 7, 1972, 86 Stat. 14; Pub. L. 93–443, title II, §§204(a)–(d), 208(c)(4), Oct. 15, 1974, 88 Stat. 1276–1278, 1286; Pub. L. 94–283, title I, §104, May 11, 1976, 90 Stat. 480; Pub. L. 96–187, title I, §104, Jan. 8, 1980, 93 Stat. 1348; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §§1(a), 3(b), Dec. 28, 1995, 109 Stat. 791, 792; Pub. L. 106–58, title VI, §§639(a), 641(a), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 106–346, §101(a) \[title V, §502(a), (c)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §103(a), title II, §§201(a), 212, title III, §§304(b), 306, 308(b), title V, §§501, 503, Mar. 27, 2002, 116 Stat. 87, 88, 93, 99, 102, 104, 114, 115; Pub. L. 108–199, div. F, title VI, §641, Jan. 23, 2004, 118 Stat. 359.)
 
 #### References in Text
 
@@ -462,7 +462,7 @@ Subsec. (a)(11)(B). Pub. L. 107–155, §501, amended subpar. (B) generally. Pri
 
 Subsec. (a)(12). Pub. L. 107–155, §306, added par. (12).
 
-Subsec. (c)(2). Pub. L. 107–155, §212(a)(1), struck out concluding provisions which read as follows: “Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be filed within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary or the Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved. Notwithstanding subsection (a)(5) of this section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
+Subsec. (c)(2). Pub. L. 107–155, §212(a)(1), struck out concluding provisions which read as follows: “Any independent expenditure (including those described in subsection (b)(6)(B)(iii) of this section) aggregating $1,000 or more made after the 20th day, but more than 24 hours, before any election shall be filed within 24 hours after such independent expenditure is made. Such statement shall be filed with the Secretary or the Commission and the Secretary of State and shall contain the information required by subsection (b)(6)(B)(iii) of this section indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved. Notwithstanding subsection (a)(5) ofthis section, the time at which the statement under this subsection is received by the Secretary, the Commission, or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.”
 
 Subsec. (d)(1). Pub. L. 107–155, §212(b)(2)(B), inserted “or (g)” after “subsection (c)”.
 

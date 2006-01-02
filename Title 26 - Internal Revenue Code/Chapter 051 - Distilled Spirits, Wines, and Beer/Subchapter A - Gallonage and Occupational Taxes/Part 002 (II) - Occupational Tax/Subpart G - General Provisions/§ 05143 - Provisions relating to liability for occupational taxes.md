@@ -40,7 +40,11 @@ Certain persons, other than the person who has paid the special tax under this p
 
 Any tax imposed by this part shall apply to any agency or instrumentality of the United States unless such agency or instrumentality is granted by statute a specific exemption from such tax.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1347; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1347; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–59, title XI, §11125(b)(20)(A), Aug. 10, 2005, 119 Stat. 1956.)
+
+#### Redesignation of Section
+
+<i>Pub. L. 109–59, title XI, §11125(b)(20)(A), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is redesignated section 5733 of this title and transferred to subchapter D of chapter 52 of this title.</i>
 
 #### Prior Provisions
 
@@ -51,8 +55,4 @@ Provisions similar to those comprising this section were contained in a prior se
 #### Amendments
 
 1976—Subsec. (d)(4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5093 of this title.
 

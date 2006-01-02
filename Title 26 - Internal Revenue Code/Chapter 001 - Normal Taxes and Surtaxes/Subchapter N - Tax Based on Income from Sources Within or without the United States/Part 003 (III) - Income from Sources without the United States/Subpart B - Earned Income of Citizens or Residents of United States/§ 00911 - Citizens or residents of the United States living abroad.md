@@ -55,7 +55,7 @@ At the election of a qualified individual (made separately with respect to parag
 | <b>For calendar year—</b> | <b>The exclusion amount is—</b> |
 | :--- | ---: |
 | &nbsp;&nbsp;1998 | $72,000&nbsp;&nbsp; |
-| &nbsp;&nbsp;1999 | 74,000&nbsp;&nbsp; |
+| &nbsp;&nbsp;1999 | 74,000   |
 | &nbsp;&nbsp;2000 | 76,000&nbsp;&nbsp; |
 | &nbsp;&nbsp;2001 | 78,000&nbsp;&nbsp; |
 | &nbsp;&nbsp;2002 and thereafter | 80,000. |
@@ -310,7 +310,7 @@ Subsec. (d)(7), (8). Pub. L. 97–448, §101(c)(1), added par. (7) and redesigna
 
 Subsec. (a). Pub. L. 96–595, §4(a), inserted “or who performs qualified charitable services in a lesser developed country,” after “hardship area”.
 
-Pub. L. 96–222, §108(a)(1)(C), (D), substituted “a foreign country or” for “qualified foreign” in par. (2) and, in provisions following par. (2), substituted “his gross income any deduction,” for “his gross income” and “other than the deduction allowed by section 217” for “other than the deductions allowed by sections 217”.
+Pub. L. 96–222, §108(a)(1)(C), (D), substituted “a foreign country or” for “qualified foreign” in par. (2) and,in provisions following par. (2), substituted “his gross income any deduction,” for “his gross income” and “other than the deduction allowed by section 217” for “other than the deductions allowed by sections 217”.
 
 Subsec. (c)(1)(A). Pub. L. 96–595, §4(b)(1), substituted “Dollar limitations” for “In general” in heading, redesignated existing provisions as cl. (i), and in cl. (i) as so redesignated, inserted “Camp residents—In the case of an individual who resides in a camp located in a hardship area” before “the amount excluded”, and added cls. (ii) and (iii).
 
@@ -390,7 +390,7 @@ Section 115 of subtitle B (§§111–115) of title I of Pub. L. 97–34 provided
 
 Section 4(d) of Pub. L. 96–595 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978.”
 
-Amendment by section 107(a)(3)(B) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, seesection 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by section 107(a)(3)(B) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if included in the Foreign Earned Income Act of 1978, Pub. L. 95–615, see section 108(a)(2)(A) of Pub. L. 96–222, set out as a note under section 3 of this title.
 
@@ -458,7 +458,7 @@ Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Cana
 
 #### Taxable Years Beginning in 1977 or 1978; Individuals Who Leave Foreign Country After August 31, 1978
 
-Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as an Effective Date of 1980 Amendment note under section 913 of this title.
+Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as anEffective Date of 1980 Amendment note under section 913 of this title.
 
 #### Individuals for Whom Unused Zero Bracket Amount Computation Is Provided for Taxable Years Beginning in 1977
 
@@ -481,8 +481,4 @@ General Rule.—As soon as practicable after December 31, 1993, and as soon as p
 “(b)
 
 Information From Federal Agencies.—Each agency of the Federal Government which pays allowances excludable from gross income under section 912 of such Code shall keep such records and furnish to the Secretary of the Treasury such information as he determines to be necessary to carry out his responsibility under subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 23, 24, 25A, 25B, 32, 59, 66, 72, 79, 86, 105, 135, 137, 219, 221, 222, 403, 410, 414, 415, 469, 505, 530, 865, 879, 988, 1400C, 1402, 3401, 4980B, 6012, 6091, 6103, 7701 of this title; title 22 section 3310; title 29 section 1322; title 42 sections 411, 604, 1395r.
 

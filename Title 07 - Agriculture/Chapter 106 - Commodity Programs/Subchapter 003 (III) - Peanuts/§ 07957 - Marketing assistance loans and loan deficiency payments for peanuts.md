@@ -4,7 +4,7 @@
 
 #### (1) Availability
 
-&emsp;For each of the 2002 through 2007 crops of peanuts, the Secretary shall make available toproducers on a farm nonrecourse marketing assistance loans for peanuts produced on the farm. The loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under subsection (b) of this section.
+&emsp;For each of the 2002 through 2007 crops of peanuts, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for peanuts produced on the farm. The loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under subsection (b) of this section.
 
 #### (2) Eligible production
 

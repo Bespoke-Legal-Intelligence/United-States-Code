@@ -22,7 +22,7 @@ In the case of variable contracts, the basis of each asset in a segregated asset
 
 #### (c) Separate accounting
 
-For purposes of this part (other than section 809), a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
+For purposes of this part, a life insurance company which issues variable contracts shall separately account for the various income, exclusion, deduction, asset, reserve, and other liability items properly attributable to such variable contracts. For such items as are not accounted for directly, separate accounting shall be made—
 
 &emsp;(1) in accordance with the method regularly employed by such company, if such method is reasonable, and
 
@@ -114,7 +114,7 @@ For purposes of this part, the term “annuity contract” includes a contract w
 
 &emsp;In determining whether a segregated asset account is adequately diversified for purposes of paragraph (1), each United States Government agency or instrumentality shall be treated as a separate issuer.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 750; amended Pub. L. 99–514, title XVIII, §1821(m), (t)(1), Oct. 22, 1986, 100 Stat. 2841, 2844; Pub. L. 100–647, title VI, §6080(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 104–188, title I, §1611(a), Aug. 20, 1996, 110 Stat. 1845; Pub. L. 105–34, title XII, §1271(b)(8), Aug. 5, 1997, 111 Stat. 1037.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 750; amended Pub. L. 99–514, title XVIII, §1821(m), (t)(1), Oct. 22, 1986, 100 Stat. 2841, 2844; Pub. L. 100–647, title VI, §6080(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 104–188, title I, §1611(a), Aug. 20, 1996, 110 Stat. 1845; Pub. L. 105–34, title XII, §1271(b)(8), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 108–218, title II, §205(b)(5), Apr. 10, 2004, 118 Stat. 610.)
 
 #### Prior Provisions
 
@@ -123,6 +123,8 @@ A prior section 817, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 132;
 Another prior section 817, act Aug. 16, 1954, ch. 736, §817, as added Mar. 13, 1956, ch. 83, §2, 70 Stat. 46, related to denial of double deductions, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–218, in introductory provisions, struck out “(other than section 809)” after “For purposes of this part”.
 
 1997—Subsec. (h)(2)(A). Pub. L. 105–34, §1271(b)(8)(A), substituted “851(b)(3)” for “851(b)(4)”.
 
@@ -136,9 +138,13 @@ Subsec. (d)(3)(C). Pub. L. 104–188, §1611(a)(2), added subpar. (C).
 
 1986—Subsec. (d). Pub. L. 99–514, §1821(t)(1), inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company's general account.”
 
-Subsec. (h)(1). Pub. L. 99–514, §1821(m)(2), struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
+Subsec. (h)(1). Pub. L. 99–514, §1821(m)(2), struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests ina regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
 
 Subsec. (h)(3) to (5). Pub. L. 99–514, §1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract.”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2004, see section 205(c) of Pub. L. 108–218, set out as a note under section 807 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -178,9 +184,5 @@ Section 1010(i) of Pub. L. 100–647 provided that: “Section 817(h) of the 198
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 264, 817A, 860E, 953, 954, 4982, 7702 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

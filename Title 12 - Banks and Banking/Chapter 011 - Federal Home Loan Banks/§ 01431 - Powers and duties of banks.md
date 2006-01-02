@@ -68,7 +68,11 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 &emsp;&emsp;(B) be adequately secured.
 
-(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616.)
+
+#### Amendment of Subsection (k)
+
+<i>Pub. L. 109–173, §9(d)(1), (j), Feb. 15, 2006, 119 Stat. 3616, 3618, provided that, effective Mar. 31, 2006, subsection (k) of this section is amended by striking “SAIF” and inserting “the Deposit Insurance Fund” in the subsection heading and by striking “Savings Association Insurance Fund” and inserting “Deposit Insurance Fund” wherever appearing in text.</i>
 
 #### References in Text
 
@@ -92,7 +96,7 @@ Subsec. (e)(1). Pub. L. 101–73, §709(1), inserted “incidental to activities
 
 Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 
-Subsec. (e)(2)(C). Pub. L. 101–73, §701(c)(1), which directed insertion of “Federal Home Loan” before “Banks,” was executed the second time that term appeared, because “Federal Home Loan” already preceded the term “Banks,” the first place it appeared.
+Subsec. (e)(2)(C). Pub. L. 101–73, §701(c)(1), which directed insertion of “Federal Home Loan” before“Banks,” was executed the second time that term appeared, because “Federal Home Loan” already preceded the term “Banks,” the first place it appeared.
 
 Subsec. (f). Pub. L. 101–73, §709(2), which directed amendment of subsec. (f) by striking out “or whenever in the judgment of at least 4 members of the board an emergency exists requiring such action” after “empowered to permit,”, was executed by striking out “or whenever in the judgment of at least four members of the board an emergency exists requiring such action”, as the probable intent of Congress. The amendment probably should also have struck out the comma after “empowered to permit” and the words “, to require,” after “such action”.
 
@@ -135,6 +139,10 @@ Subsec. (i). Pub. L. 93–495 substituted “obligations under this paragraph”
 Subsecs. (i), (j). Act June 27, 1950, §4, added subsecs. (i) and (j).
 
 1934—Subsecs. (i), (j). Act June 27, 1934, among other changes, struck out subsecs. (i) and (j).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 1996 Amendment
 

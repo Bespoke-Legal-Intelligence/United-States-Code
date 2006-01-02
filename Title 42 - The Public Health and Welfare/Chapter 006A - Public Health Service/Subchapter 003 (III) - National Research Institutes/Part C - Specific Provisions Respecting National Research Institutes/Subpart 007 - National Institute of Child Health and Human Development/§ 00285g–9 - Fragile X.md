@@ -2,7 +2,7 @@
 
 #### (a) Expansion and coordination of research activities
 
-The Director of the Institute, after consultation with the advisory council for the Institute, shall expand, intensify, and coordinate the activities of the Institute with respect to research on the disease known as fragile X.
+The Director of the Institute, after consultation with the advisory council for the Institute,shall expand, intensify, and coordinate the activities of the Institute with respect to research on the disease known as fragile X.
 
 #### (b) Research centers
 

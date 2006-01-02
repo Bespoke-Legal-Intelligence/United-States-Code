@@ -4,7 +4,7 @@
 
 When used in this subchapter, unless the context otherwise requires, the following definitions shall apply:
 
-&emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser havingonly a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
+&emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
 &emsp;(2) “Bank” means (A) a banking institution organized under the laws of the United States, (B) a member bank of the Federal Reserve System, (C) any other banking institution or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
@@ -28,7 +28,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(12) “Investment company”, affiliated person, and “insurance company” have the same meanings as in the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]. “Control” means the power to exercise a controlling influence over the management or policies of a company, unless such power is solely the result of an official position with such company.
 
-&emsp;(13) “Investment supervisory services” means the giving of continuous advice as to the investment of funds on the basis of the individual needs of each client.
+&emsp;(13) “Investment supervisory services” means the giving of continuous advice as tothe investment of funds on the basis of the individual needs of each client.
 
 &emsp;(14) “Means or instrumentality of interstate commerce” includes any facility of a national securities exchange.
 
@@ -44,7 +44,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(20) “Underwriter” means any person who has purchased from an issuer with a view to, or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributor's or seller's commission. As used in this paragraph the term “issuer” shall include in addition to an issuer, any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer.
 
-&emsp;(21) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], “Public Utility Holding Company Act of 1935” \[15 U.S.C. 79 et seq.\], and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\], mean those Acts, respectively, as heretofore or hereafter amended.
+&emsp;(21) “Securities Act of 1933” \[15 U.S.C. 77a et seq.\], “Securities Exchange Act of 1934” \[15 U.S.C. 78a et seq.\], “Public Utility Holding Company Act of 1935”,<sup>1</sup> and “Trust Indenture Act of 1939” \[15 U.S.C. 77aaa et seq.\], mean those Acts, respectively, as heretofore or hereafter amended.
 
 &emsp;(22) “Business development company” means any company which is a business development company as defined in section 80a–2(a)(48) of this title and which complies with section 80a–54 of this title, except that—
 
@@ -90,7 +90,7 @@ The Securities Act of 1933, referred to in subsec. (a)(21), is act May 27, 1933,
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(21), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(21), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(21), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 The Trust Indenture Act of 1939, referred to in subsec. (a)(21), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, and amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 
@@ -159,4 +159,6 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Transfer of Functions
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

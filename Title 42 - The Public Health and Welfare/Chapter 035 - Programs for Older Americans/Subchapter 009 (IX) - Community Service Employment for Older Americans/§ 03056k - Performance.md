@@ -16,7 +16,7 @@
 
 &emsp;&emsp;The levels of performance described in subparagraph (A) applicable to a grantee shall be adjusted only with respect to the following factors:
 
-&emsp;&emsp;&emsp;(i) High rates of unemployment, poverty, or welfare recipiency in the areas servedby a grantee, relative to other areas of the State or Nation.
+&emsp;&emsp;&emsp;(i) High rates of unemployment, poverty, or welfare recipiency in the areas served by a grantee, relative to other areas of the State or Nation.
 
 &emsp;&emsp;&emsp;(ii) Significant downturns in the areas served by the grantee or in the national economy.
 

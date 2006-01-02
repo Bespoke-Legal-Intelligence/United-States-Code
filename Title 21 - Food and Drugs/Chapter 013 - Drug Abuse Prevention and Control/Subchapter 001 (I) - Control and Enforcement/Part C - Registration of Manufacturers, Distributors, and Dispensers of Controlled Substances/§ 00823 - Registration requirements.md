@@ -78,7 +78,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(5) Such other conduct which may threaten the public health and safety.
 
-> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule Iby a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
 #### (g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver
 
@@ -98,9 +98,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(ii) With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the practitioner has the capacity to refer the patients for appropriate counseling and other appropriate ancillary services.
 
-&emsp;(iii) In any case in which the practitioner is not in a group practice, the total number of such patients of the practitioner at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number.
-
-&emsp;(iv) In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.
+&emsp;(iii) The total number of such patients of the practitioner at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number.
 
 (C) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to narcotic drugs in schedule III, IV, or V or combinations of such drugs are as follows:
 
@@ -118,7 +116,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 (ii) Upon receiving a notification under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (f) of this section. The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
 
-(iii) Not later than 45 days after the date on which the Secretary receives a notification under subparagraph (B), the Secretary shallmake a determination of whether the practitioner involved meets all requirements for a waiver under subparagraph (B). If the Secretary fails to make such determination by the end of the such 45-day period, the Attorney General shall assign the physician an identification number described in clause (ii) at the end of such period.
+(iii) Not later than 45 days after the date on which the Secretary receives a notification under subparagraph (B), the Secretary shall make a determination of whether the practitioner involved meets all requirements for a waiver under subparagraph (B). If the Secretary fails to make such determination by the end of the such 45-day period, the Attorney General shall assign the physician an identification number described in clause (ii) at the end of such period.
 
 (E)(i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of section 824(a)(4) of this title, consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) of this section to be inconsistent with the public interest.
 
@@ -186,7 +184,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;(5) such other factors as are relevant to and consistent with the public health and safety.
 
-(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803.)
+(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, §1(a), (b), Aug. 2, 2005, 119 Stat. 591.)
 
 #### References in Text
 
@@ -197,6 +195,10 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), i
 This chapter, referred to in subsec.(g)(2)(J)(ii)(II), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (g)(2)(B)(iii). Pub. L. 109–56, §1(b), substituted “The total” for “In any case in which the practitioner is not in a group practice, the total”.
+
+Subsec. (g)(2)(B)(iv). Pub. L. 109–56, §1(a), struck out cl. (iv) which read as follows: “In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.”
 
 2002—Subsec. (g)(2)(I). Pub. L. 107–273, §2501(1), which directed the substitution of “on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs,” for “on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,”, was executed by making the substitution for the phrase which in the original began with “on the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “on October 17, 2000,” to reflect the probable intent of Congress.
 
@@ -211,6 +213,10 @@ Subsec. (g)(2)(J)(i). Pub. L. 107–273, §2501(2), which directed the substitut
 1978—Subsec. (f). Pub. L. 95–633 inserted provision relating to the construction of the Convention on Psychotropic Substances.
 
 1974—Subsec. (g). Pub. L. 93–281 added subsec. (g).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–56, §1(c), Aug. 2, 2005, 119 Stat. 591, provided that: “This section \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 2, 2005\].”
 
 #### Effective Date of 1993 Amendment
 

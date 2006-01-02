@@ -8,7 +8,7 @@ Until regulations are promulgated under any provision of this title which depend
 
 #### (1) Reference to law applicable to prior period
 
-&emsp;Any provision of this title which refers to the application of any portion of this title to a prior period (or which depends upon the application to a prior period of any portion of this title) shall, when appropriate and consistent with the purpose of such provision, be deemed to refer to (or depend upon the application of) the corresponding provision of the Internal Revenue Code of 1939 or of such otherinternal revenue laws as were applicable to the prior period.
+&emsp;Any provision of this title which refers to the application of any portion of this title to a prior period (or which depends upon the application to a prior period of any portion of this title) shall, when appropriate and consistent with the purpose of such provision, be deemed to refer to (or depend upon the application of) the corresponding provision of the Internal Revenue Code of 1939 or of such other internal revenue laws as were applicable to the prior period.
 
 #### (2) Elections or other acts
 
@@ -19,8 +19,4 @@ Until regulations are promulgated under any provision of this title which depend
 #### References in Text
 
 The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 481 of this title.
 

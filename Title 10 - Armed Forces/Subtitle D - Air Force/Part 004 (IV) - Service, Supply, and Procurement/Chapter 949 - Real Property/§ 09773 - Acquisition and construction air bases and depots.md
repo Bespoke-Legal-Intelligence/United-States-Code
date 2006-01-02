@@ -1,6 +1,6 @@
 ### §9773. Acquisition and construction: air bases and depots
 
-(a) The Secretary of the Air Force shall determine the sites of such additional permanent air bases and depots in all strategic areas of the United States and the Territories, Commonwealths, possessions, and holdings as he considers necessary. He shall determine when the enlargement of existing air bases and depots is necessary for the effective peacetime training of the Air Force.
+(a) The Secretary of the Air Force shall determine the sites of such additional permanent air bases and depots in all strategic areas of the United States and the Commonwealths, possessions, and holdings as he considers necessary. He shall determine when the enlargement of existing air bases and depots is necessary for the effective peacetime training of the Air Force.
 
 (b) In determining the sites of new air bases and depots, the Secretary shall consider the following regions for the purposes indicated—
 
@@ -26,7 +26,7 @@
 
 &emsp;(3) to locate, in each strategic area in which it is considered necessary, adequate storage facilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force; and
 
-&emsp;(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Force for operations necessary in the defense of the United States, and in the defense and reinforcement of the Territories, Commonwealths, possessions, and holdings.
+&emsp;(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Forcefor operations necessary in the defense of the United States, and in the defense and reinforcement of the Commonwealths, possessions, and holdings.
 
 (d) In carrying out this section, the Secretary, on behalf of the United States, may acquire title, in fee simple and free of encumbrance, to any land that he considers necessary—
 
@@ -42,7 +42,7 @@
 
 (g) The Secretary may direct the transportation of personnel, and the purchase, renovation, and transportation of material, that he considers necessary to carry out this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 588.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 588; Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -91,4 +91,8 @@ In subsection (c), the introductory clause is substituted for 10:1343a (1st 41 w
 In subsection (d), clause (3) is substituted for 10: 1343b (last 26 words). 10:1043b (24 words before 1st proviso) is omitted as surplusage.
 
 In subsection (f), the word “shall” is substituted for the words “is further authorized and directed to”. The word “provide” is substituted for the words “construct, install, and equip, or complete the construction, installation, and equipment”. The words “technical buildings and utilities” are omitted as covered by the words “buildings” and “utilities”. The words “sewer, water, power, station and aerodrome lighting” are omitted as covered by the word “utilities”. The words “communication systems” are substituted for the words “telephone and signal communications”. The words “appurtenances to the foregoing” are substituted for the words “other essentials”.
+
+#### Amendments
+
+2006—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
 

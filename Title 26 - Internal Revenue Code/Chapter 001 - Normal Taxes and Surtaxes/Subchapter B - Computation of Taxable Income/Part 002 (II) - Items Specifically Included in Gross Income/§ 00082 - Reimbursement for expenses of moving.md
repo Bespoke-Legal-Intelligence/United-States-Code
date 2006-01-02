@@ -20,7 +20,3 @@ Section applicable to taxable years beginning after December 31, 1969, except th
 
 Withholding, reporting, inclusion within adjusted gross income, and deduction for reimbursement for moving expenses of members of the uniformed services, see section 2 of Pub. L. 93–490, Oct. 26, 1974, 88 Stat. 1466, set out as a note under section 217 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 274 of this title.
-

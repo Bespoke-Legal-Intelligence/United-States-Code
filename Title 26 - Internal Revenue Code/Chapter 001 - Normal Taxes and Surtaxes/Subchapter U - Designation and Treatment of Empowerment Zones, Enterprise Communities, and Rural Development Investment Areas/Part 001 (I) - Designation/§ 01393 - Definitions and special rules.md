@@ -68,7 +68,3 @@ For purposes of this title, the terms “empowerment zone” and “enterprise c
 
 A prior section 1393, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2894; amended Pub. L. 96–595, §3(a)(5), (6), (8), Dec. 24, 1980, 94 Stat. 3465, related to taxation of general stock ownership corporation taxable income to shareholders, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1391 of this title; title 12 section 1715z–2; title 42 section 1397f.
-

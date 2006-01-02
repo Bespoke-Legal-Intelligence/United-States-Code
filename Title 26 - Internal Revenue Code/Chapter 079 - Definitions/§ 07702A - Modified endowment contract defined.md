@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (B) Treatment of certain premiums returned
 
-&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of any premium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reduce the sum of the premiums paid under the contract during such contract year.
+&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of anypremium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reduce the sum of the premiums paid under the contract during such contract year.
 
 #### (C) Interest returned includible in gross income
 
@@ -187,8 +187,4 @@ Special rule for annuity contracts.—In the case of annuity contracts, the amen
 #### Construction of 2002 Amendment
 
 Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55, provided that: “Paragraph (2) of section 318(a) of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554\](114 Stat. 2763A–645) \[amending this section\] is repealed, and clause (ii) of section 7702A(c)(3)(A) shall read and be applied as if the amendment made by such paragraph had not been enacted.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 72, 264, 817A of this title.
 

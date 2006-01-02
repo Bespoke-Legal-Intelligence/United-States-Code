@@ -44,7 +44,7 @@ Act
 
 Oct. 12, 1949, ch. 681, §402(a) (2d proviso), (b) (2d and last provisos), 63 Stat. 816, 817.
 
-To state fully in the revised section the rule contained in 37:272(a) (2d proviso) and 272(b) (2d and last provisos), the provisions of 37:272(a) (less clause (5), and less 1st proviso), 272(b) (less clause (5), and less 1st proviso) and 272(f) (less applicability to 37:272(c) and (e)), also contained in section 1201 of this title, are repeated.The words “the member may be separated” are substituted for the words “the member concerned shall not be eligible for any disability retirement provided in this section, but may be separated for physical disability,” in 37:272(a) (2d proviso) and 37:272(b) (2d proviso).
+To state fully in the revised section the rule contained in 37:272(a) (2d proviso) and 272(b) (2d and last provisos), the provisions of 37:272(a) (less clause (5), and less 1st proviso), 272(b) (less clause (5), and less 1st proviso) and 272(f) (less applicability to 37:272(c) and (e)), also contained in section 1201 of this title, are repeated. The words “the member may be separated” are substituted for the words “the member concerned shall not be eligible for any disability retirement provided in this section, but may be separated for physical disability,” in 37:272(a) (2d proviso) and 37:272(b) (2d proviso).
 
 Clause (1) is inserted for clarity, since a member who had over 20 years of service would qualify under section 1201 or 1202 of this title.
 
@@ -80,7 +80,7 @@ The changes correct typographical errors.
 
 #### Amendments
 
-1996—Pub. L. 104–201 added subsec. (a), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—”.
+1996—Pub. L. 104–201 added subsec. (a), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member ofa regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the member may be separated from his armed force, with severance pay computed under section 1212 of this title, if the Secretary also determines that—”.
 
 1994—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
 
@@ -121,8 +121,4 @@ Section 3 of Pub. L. 95–377 provided that the amendment made by that section i
 #### Suspension of Certain Promotion and Disability Separation Limitations
 
 For provisions relating to the suspension of certain promotion and disability separation limitations, see Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, set out as a note under section 1201 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1201, 1204, 1205, 1206, 1207a, 1210, 1212 of this title; title 42 section 213a.
 

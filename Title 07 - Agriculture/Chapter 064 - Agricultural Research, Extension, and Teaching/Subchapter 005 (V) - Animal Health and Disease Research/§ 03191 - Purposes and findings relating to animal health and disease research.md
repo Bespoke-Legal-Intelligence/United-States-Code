@@ -4,7 +4,7 @@
 
 The purposes of this subchapter are to—
 
-&emsp;(1) promote the general welfare through the improved health and productivity of domestic livestock, poultry, aquatic animals, and other income-producing animals that are essential to the food supply of the United States and the welfare of producers and consumers of animal products;
+&emsp;(1) promote the general welfare through the improved health and productivity of domestic livestock, poultry, aquatic animals, and otherincome-producing animals that are essential to the food supply of the United States and the welfare of producers and consumers of animal products;
 
 &emsp;(2) improve the health of horses;
 

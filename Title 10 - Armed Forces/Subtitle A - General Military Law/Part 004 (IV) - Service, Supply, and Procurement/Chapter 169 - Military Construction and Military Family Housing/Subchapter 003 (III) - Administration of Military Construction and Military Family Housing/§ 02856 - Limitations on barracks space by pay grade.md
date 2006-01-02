@@ -12,7 +12,3 @@ The Secretary of Defense shall prescribe regulations establishing the maximum al
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2880 of this title.
-

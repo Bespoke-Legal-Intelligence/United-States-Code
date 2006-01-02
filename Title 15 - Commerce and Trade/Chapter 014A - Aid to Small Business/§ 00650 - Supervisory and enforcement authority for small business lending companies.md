@@ -26,7 +26,7 @@ The Administrator is authorized—
 
 #### (c) Civil action
 
-If a small business lending company violates this chapter, the Administrator may institute a civil action in an appropriate district court to terminate the rights, privileges, and franchises of the company under this chapter.
+If a small business lending company violates this chapter, the Administrator may institute acivil action in an appropriate district court to terminate the rights, privileges, and franchises of the company under this chapter.
 
 #### (d) Revocation or suspension of loan authority
 
@@ -56,7 +56,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 (1) Where a small business lending company, a non-Federally regulated lender, or other person violates this chapter or is engaging or is about to engage in any acts or practices which constitute or will constitute a violation of this chapter, the Administrator may order, after the opportunity for hearing pursuant to subsection (f) of this section, the company, lender, or other person to cease and desist from such action or failure to act. The Administrator may delegate the authority under the preceding sentence only to the Deputy Administrator and only if the Administrator is unavailable to take such action.
 
-(2) The Administrator, after finding extraordinary circumstances and in order to protect thefinancial or legal position of the United States, may issue a cease and desist order without conducting a hearing pursuant to subsection (f) of this section. If the Administrator issues a cease and desist order under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f) of this section.
+(2) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a cease and desist order without conducting a hearing pursuant to subsection (f) of this section. If the Administrator issues a cease and desist order under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f) of this section.
 
 (3) The Administrator may further order such small business lending company or non-Federally regulated lender or other person to take such action or to refrain from such action as the Administrator deems necessary to insure compliance with this chapter.
 
@@ -122,7 +122,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;&emsp;&emsp;An order under clause (i) shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) take effect 30 days after the date of service upon the subject small businesslending company or non-Federally regulated lender and the management official concerned (except in the case of an order issued upon consent as described in subparagraph (C)(ii), which shall become effective at the time specified in such order); and
+&emsp;&emsp;&emsp;&emsp;(I) take effect 30 days after the date of service upon the subject small business lending company or non-Federally regulated lender and the management official concerned (except in the case of an order issued upon consent as described in subparagraph (C)(ii), which shall become effective at the time specified in such order); and
 
 &emsp;&emsp;&emsp;&emsp;(II) remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Administrator or a reviewing court in accordance with this section.
 
@@ -198,7 +198,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 (2) The Administrator may by rules and regulations that shall be codified in the Code of Federal Regulations, after an opportunity for notice and comment, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing which shall be conducted pursuant to sections 554, 556, and 557 of title 5, exempt in whole or in part, any small business lending company or non-Federally regulated lender from paragraph (1), upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administrator finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administrator may for the purposes of this section make any alternative requirements appropriate to the situation.
 
-(Pub. L. 85–536, §2\[23\], as added Pub. L. 98–473, title I, §111A(a), Oct. 12, 1984, 98 Stat. 1965; Pub. L. 108–447, div. K, title I, §161, Dec. 8, 2004, 118 Stat. 3458.)
+(Pub. L. 85–536, §2\[23\], as added Pub. L. 98–473, title I, §111A(a), Oct. 12, 1984, 98 Stat. 1965; Pub.L. 108–447, div. K, title I, §161, Dec. 8, 2004, 118 Stat. 3458.)
 
 #### Prior Provisions
 

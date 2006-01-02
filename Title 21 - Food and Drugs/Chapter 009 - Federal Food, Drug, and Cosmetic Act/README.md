@@ -93,6 +93,7 @@
 | (f) | Dietary supplement or ingredient: safety. |
 | (g) | Dietary supplement: manufacturing practices. |
 | (h) | Reoffer of food previously denied admission. |
+| (i) | Noncompliance with sanitary transportation practices. |
 | [343\.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000343%20-%20Misbranded%20food.md) | Misbranded food. |
 | (a) | False or misleading label. |
 | (b) | Offer for sale under another name. |
@@ -199,6 +200,13 @@
 | (a) | Registration. |
 | (b) | Facility. |
 | (c) | Rule of construction. |
+| [350e.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350e%20-%20Sanitary%20transportation%20practices.md) | Sanitary transportation practices. |
+| (a) | Definitions. |
+| (b) | Regulations. |
+| (c) | Contents. |
+| (d) | Waivers. |
+| (e) | Preemption. |
+| (f) | Assistance of other agencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -431,6 +439,7 @@
 | (k) | Research and development. |
 | (<i>l</i>) | Transitional provisions for devices considered as new drugs. |
 | (m) | Humanitarian device exemption. |
+| (n) | Regulation of contact lenses as devices. |
 | [360k.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360k%20-%20State%20and%20local%20requirements%20respecting%20devices.md) | State and local requirements respecting devices. |
 | (a) | General rule. |
 | (b) | Exempt requirements. |
@@ -541,7 +550,7 @@
 | 360aaa–3. | Requirement regarding submission of supplemental application for new use; exemption from requirement. |
 | (a) | In general. |
 | (b) | Certification on supplemental application; condition in case of completed studies. |
-| (c) | Certification on supplemental application; condition in caseof planned studies. |
+| (c) | Certification on supplemental application; condition in case of planned studies. |
 | (d) | Exemption from requirement of supplemental application. |
 | (e) | Requirements regarding applications. |
 | 360aaa–4. | Corrective actions; cessation of dissemination. |
@@ -654,7 +663,9 @@
 | (d) | Information on patents for drugs. |
 | (e) | Powers of enforcement personnel. |
 | [372a.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000372a%20-%20Transferred.md) | Transferred. |
-| [373\.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000373%20-%20Records%20of%20interstate%20shipment.md) | Records of interstate shipment. |
+| [373\.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000373%20-%20Records.md) | Records. |
+| (a) | In general. |
+| (b) | Food transportation records. |
 | [374\.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000374%20-%20Inspection.md) | Inspection. |
 | (a) | Right of agents to enter; scope of inspection; notice; promptness; exclusions. |
 | (b) | Written report to owner; copy to Secretary. |
@@ -742,7 +753,7 @@ I74subpart 1—freedom of information fees
 | [379j.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20C%20-%20Fees/Subpart%20003%20-%20Fees%20Relating%20to%20Devices/%C2%A7%2000379j%20-%20Authority%20to%20assess%20and%20use%20device%20fees.md) | Authority to assess and use device fees. |
 | (a) | Types of fees. |
 | (b) | Fee revenue amounts. |
-| (c) | Adjustments. |
+| (c) | Annual fee setting. |
 | (d) | Small businesses; fee waiver and fee reduction regarding premarket approval fees. |
 | (e) | Small businesses; fee reduction regarding premarket notification submissions. |
 | (f) | Effect of failure to pay fees. |

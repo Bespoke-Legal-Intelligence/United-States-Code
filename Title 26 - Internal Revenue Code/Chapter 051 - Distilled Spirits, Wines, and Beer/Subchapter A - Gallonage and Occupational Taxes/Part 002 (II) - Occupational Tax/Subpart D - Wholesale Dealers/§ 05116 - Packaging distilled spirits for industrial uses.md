@@ -8,7 +8,11 @@ The Secretary may, at his discretion and under such regulations as he may prescr
 
 &emsp;&emsp;<b>For provisions relating to containers of distilled spirits, see section 5206.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(12), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(3), July 18, 1984, 98 Stat. 821.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(12), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(3), July 18, 1984, 98 Stat. 821; Pub. L. 109–59, title XI, §11125(b)(11), Aug. 10, 2005, 119 Stat. 1956.)
+
+#### Amendment and Redesignation of Section
+
+<i>Pub. L. 109–59, title XI, §11125(b)(11), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (a) of this section is amended by inserting “(as defined in section 5121(c))” after “dealer” and this section is redesignated section 5131 and transferred and inserted after the section analysis of subpart D of this part.</i>
 
 #### Prior Provisions
 
@@ -21,6 +25,10 @@ A prior section 5116, act Aug. 16, 1954, ch. 736, 68A Stat. 620, consisted of pr
 1979—Subsec. (b)(1). Pub. L. 96–39 substituted “section 5205(a)(1)” for “section 5205(a)(2)”.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -4,11 +4,13 @@
 | :--- | ---: |
 | [4071\.](%C2%A7%2004071%20-%20Imposition%20of%20tax.md) | Imposition of tax. |
 | [4072\.](%C2%A7%2004072%20-%20Definitions.md) | Definitions. |
-| [4073\.](%C2%A7%2004073%20-%20Exemption%20for%20tires%20with%20internal%20wire%20fastening.md) | Exemption for tires with internal wire fastening. |
+| [4073\.](%C2%A7%2004073%20-%20Exemptions.md) | Exemptions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §869(d)(2), Oct. 22, 2004, 118 Stat. 1623, substituted “Exemptions” for “Exemption for tires with internal wire fastening” in item 4073.
 
 1984—Pub. L. 98–369, div. A, title VII, §735(c)(5)(A), (C), July 18, 1984, 98 Stat. 982, struck out “AND TUBES” from heading of part II and substituted “Exemption for tires with internal wire fastening” for “Exemptions” in item 4073.
 
@@ -21,4 +23,4 @@
 
 - [&sect; 04071 - Imposition of tax](%C2%A7%2004071%20-%20Imposition%20of%20tax.md)
 - [&sect; 04072 - Definitions](%C2%A7%2004072%20-%20Definitions.md)
-- [&sect; 04073 - Exemption for tires with internal wire fastening](%C2%A7%2004073%20-%20Exemption%20for%20tires%20with%20internal%20wire%20fastening.md)
+- [&sect; 04073 - Exemptions](%C2%A7%2004073%20-%20Exemptions.md)

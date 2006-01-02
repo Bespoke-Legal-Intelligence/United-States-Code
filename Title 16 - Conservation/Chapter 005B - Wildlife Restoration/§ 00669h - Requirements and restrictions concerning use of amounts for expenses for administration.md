@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 &emsp;(1) personnel costs of employees who directly administer this chapter on a full-time basis;
 
-&emsp;(2) personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceedthe portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;
+&emsp;(2) personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;
 
 &emsp;(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
 
@@ -58,7 +58,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (1) In general
 
-&emsp;The Inspector General of the Department of the Interior shall procure the performance of biennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
+&emsp;The Inspector General of the Department of the Interior shall procure the performance ofbiennial audits, in accordance with generally accepted accounting principles, of expenditures and obligations of amounts used by the Secretary of the Interior for expenses for administration incurred in implementation of this chapter.
 
 #### (2) Auditor
 

@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The value of the gross estate of the decedent shall be determined by including to the extent provided for in this part, the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated.
+The value of the gross estate of the decedent shall be determined by including to the extentprovided for in this part, the value at the time of his death of all property, real or personal, tangible or intangible, wherever situated.
 
 #### (b) Valuation of unlisted stock and securities
 
@@ -150,7 +150,7 @@ $500,000.
 
 #### (9) Treatment of easements granted after death
 
-&emsp;In any case in which the qualified conservation easement is granted after the date of thedecedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
+&emsp;In any case in which the qualified conservation easement is granted after the date of the decedent's death and on or before the due date (including extensions) for filing the return of tax imposed by section 2001, the deduction under section 2055(f) with respect to such easement shall be allowed to the estate but only if no charitable deduction is allowed under chapter 1 to any person with respect to the grant of such easement.
 
 #### (10) Application of this section to interests in partnerships, corporations, and trusts
 
@@ -223,10 +223,6 @@ Section 18(b) of Pub. L. 87–834 provided that:
 &emsp;“(C) under section 2041(a) to the extent that before February 1, 1962, such property or interest was subject to a general power of appointment (as defined in section 2041) possessed by the decedent.
 
 > In the case of real property, or an interest therein, situated outside of the United States (including a general power of appointment in respect of such property or interest, and including property held by the decedent and the survivor in a joint tenancy or tenancy by the entirety) which was acquired by the decedent after January 31, 1962, by gift within the meaning of section 2511, or from a prior decedent by devise or inheritance, or by reason of death, form of ownership, or other conditions (including the exercise or nonexercise of a power of appointment), for purposes of this paragraph such property or interest therein shall be deemed to have been acquired by the decedent before February 1, 1962, if before that date the donor or prior decedent had acquired the property or his interest therein or had possessed a power of appointment in respect of the property or interest.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1014, 2103, 7520 of this title; title 43 section 1620.
 
 <i><sup>1</sup></i><i> So in original. No closing parenthesis was enacted.</i>
 

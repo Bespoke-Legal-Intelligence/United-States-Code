@@ -56,7 +56,7 @@ For purposes of this title—
 
 #### (iii) Treatment of tax exempt organizations
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply to any organization if substantially all of the contributions to such organization are made by employers who were exempt from tax under this chapter throughout the 5-taxable year period ending with the taxable year in which the contributions are made.
+&emsp;&emsp;&emsp;This subparagraph shall not apply to any organization if substantially all of thecontributions to such organization are made by employers who were exempt from tax under this chapter throughout the 5-taxable year period ending with the taxable year in which the contributions are made.
 
 #### (4) Special rule applicable to organizations described in section 501(c)(19)
 
@@ -86,7 +86,7 @@ For purposes of this title—
 
 The modifications referred to in subsection (a) are the following:
 
-&emsp;(1) There shall be excluded all dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), amounts received or accrued as consideration for entering into agreements to make loans, and annuities, and all deductions directly connected with such income.
+&emsp;(1) There shall be excluded all dividends, interest, payments with respect to securities loans (as defined in subsection (a)(5)), amounts received or accrued as consideration for entering into agreements to make loans, and annuities, and all deductions directly connected with such income.
 
 &emsp;(2) There shall be excluded all royalties (including overriding royalties) whether measured by production or by gross or taxable income from the property, and all deductions directly connected with such income.
 
@@ -96,7 +96,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;&emsp;(i) all rents from real property (including property described in section 1245(a)(3)(C)), and
 
-&emsp;&emsp;&emsp;(ii) all rents from personal property (including for purposes of this paragraph as personal property any property describedin section 1245(a)(3)(B)) leased with such real property, if the rents attributable to such personal property are an incidental amount of the total rents received or accrued under the lease, determined at the time the personal property is placed in service.
+&emsp;&emsp;&emsp;(ii) all rents from personal property (including for purposes of this paragraph as personal property any property described in section 1245(a)(3)(B)) leased with such real property, if the rents attributable to such personal property are an incidental amount of the total rents received or accrued under the lease, determined at the time the personal property is placed in service.
 
 &emsp;&emsp;(B) Subparagraph (A) shall not apply—
 
@@ -114,7 +114,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;&emsp;(B) property held primarily for sale to customers in the ordinary course of the trade or business.
 
-> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse or termination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply with respect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
+> &emsp;There shall also be excluded all gains or losses recognized, in connection with the organization's investment activities, from the lapse or termination of options to buy or sell securities (as defined in section 1236(c)) or real property and all gains or losses from the forfeiture of good-faith deposits (that are consistent with established business practice) for the purchase, sale, or lease of real property in connection with the organization's investment activities. This paragraph shall not apply withrespect to the cutting of timber which is considered, on the application of section 631, as a sale or exchange of such timber.
 
 &emsp;(6) The net operating loss deduction provided in section 172 shall be allowed, except that—
 
@@ -264,6 +264,188 @@ Special rule.—Two or more organizations (and any affiliates of such organizati
 
 Regulations.—The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations for the application of this paragraph in the case of income paid through 1 or more entities or between 2 or more chains of entities.
 
+&emsp;(18)
+
+Treatment of mutual or cooperative electric companies.—In the case of a mutual or cooperative electric company described in section 501(c)(12), there shall be excluded income which is treated as member income under subparagraph (H) thereof.
+
+&emsp;(19)
+
+Treatment of gain or loss on sale or exchange of certain brownfield sites.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding paragraph (5)(B), there shall be excluded any gain or loss from the qualified sale, exchange, or other disposition of any qualifying brownfield property by an eligible taxpayer.
+
+&emsp;&emsp;(B)
+
+Eligible taxpayer.—For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The term “eligible taxpayer” means, with respect to a property, any organization exempt from tax under section 501(a) which—
+
+&emsp;&emsp;&emsp;&emsp;(I) acquires from an unrelated person a qualifying brownfield property, and
+
+&emsp;&emsp;&emsp;&emsp;(II) pays or incurs eligible remediation expenditures with respect to such property in an amount which exceeds the greater of $550,000 or 12 percent of the fair market value of the property at the time such property was acquired by the eligible taxpayer, determined as if there was not a presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exception.—Such term shall not include any organization which is—
+
+&emsp;&emsp;&emsp;&emsp;(I) potentially liable under section 107 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 with respect to the qualifying brownfield property,
+
+&emsp;&emsp;&emsp;&emsp;(II) affiliated with any other person which is so potentially liable through any direct or indirect familial relationship or any contractual, corporate, or financial relationship (other than a contractual, corporate, or financial relationship which is created by the instruments by which title to any qualifying brownfield property is conveyed or financed or by a contract of sale of goods or services), or
+
+&emsp;&emsp;&emsp;&emsp;(III) the result of a reorganization of a business entity which was so potentially liable.
+
+&emsp;&emsp;(C)
+
+Qualifying brownfield property.—For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The term “qualifying brownfield property” means any real property which is certified, before the taxpayer incurs any eligible remediation expenditures (other than to obtain a Phase I environmental site assessment), by an appropriate State agency (within the meaning of section 198(c)(4)) in the State in which such property is located as a brownfield site within the meaning of section 101(39) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph).
+
+&emsp;&emsp;&emsp;(ii)
+
+Request for certification.—Any request by an eligible taxpayer for a certification described in clause (i) shall include a sworn statement by the eligible taxpayer and supporting documentation of the presence of a hazardous substance, pollutant, or contaminant on the property which is complicating the expansion, redevelopment, or reuse of the property given the property's reasonably anticipated future land uses or capacity for uses of the property (including a Phase I environmental site assessment and, if applicable, evidence of the property's presence on a local, State, or Federal list of brownfields or contaminated property) and other environmental assessments prepared or obtained by the taxpayer.
+
+&emsp;&emsp;(D)
+
+Qualified sale, exchange, or other disposition.—For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A sale, exchange, or other disposition of property shall be considered as qualified if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such property is transferred by the eligible taxpayer to an unrelated person, and
+
+&emsp;&emsp;&emsp;&emsp;(II) within 1 year of such transfer the eligible taxpayer has received a certification from the Environmental Protection Agency or an appropriate State agency (within the meaning of section 198(c)(4)) in the State in which such property is located that, as a result of the eligible taxpayer's remediation actions, such property would not be treated as a qualifying brownfield property in the hands of the transferee.
+
+&emsp;&emsp;&nbsp;For purposes of subclause (II), before issuing such certification, the Environmental Protection Agency or appropriate State agency shall respond to comments received pursuant to clause (ii)(V) in the same form and manner as required under section 117(b) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph).
+
+&emsp;&emsp;&emsp;(ii)
+
+Request for certification.—Any request by an eligible taxpayer for a certification described in clause (i) shall be made not later than the date of the transfer and shall include a sworn statement by the eligible taxpayer certifying the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Remedial actions which comply with all applicable or relevant and appropriate requirements (consistent with section 121(d) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980) have been substantially completed, such that there are no hazardous substances, pollutants, or contaminants which complicate the expansion, redevelopment, or reuse of the property given the property's reasonably anticipated future land uses or capacity for uses of the property.
+
+&emsp;&emsp;&emsp;&emsp;(II) The reasonably anticipated future land uses or capacity for uses of the property are more economically productive or environmentally beneficial than the uses of the property in existence on the date of the certification described in subparagraph (C)(i). For purposes of the preceding sentence, use of property as alandfill or other hazardous waste facility shall not be considered more economically productive or environmentally beneficial.
+
+&emsp;&emsp;&emsp;&emsp;(III) A remediation plan has been implemented to bring the property into compliance with all applicable local, State, and Federal environmental laws, regulations, and standards and to ensure that the remediation protects human health and the environment.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The remediation plan described in subclause (III), including any physical improvements required to remediate the property, is either complete or substantially complete, and, if substantially complete, sufficient monitoring, funding, institutional controls, and financial assurances have been put in place to ensure the complete remediation of the property in accordance with the remediation plan as soon as is reasonably practicable after the sale, exchange, or other disposition of such property.
+
+&emsp;&emsp;&emsp;&emsp;(V) Public notice and the opportunity for comment on the request for certification was completed before the date of such request. Such notice and opportunity for comment shall be in the same form and manner as required for public participation required under section 117(a) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (as in effect on the date of the enactment of this paragraph). For purposes of this subclause, public notice shall include, at a minimum, publication in a major local newspaper of general circulation.
+
+&emsp;&emsp;&emsp;(iii)
+
+Attachment to tax returns.—A copy of each of the requests for certification described in clause (ii) of subparagraph (C) and this subparagraph shall be included in the tax return of the eligible taxpayer (and, where applicable, of the qualifying partnership) for the taxable year during which the transfer occurs.
+
+&emsp;&emsp;&emsp;(iv)
+
+Substantial completion.—For purposes of this subparagraph, a remedial action is substantially complete when any necessary physical construction is complete, all immediate threats have been eliminated, and all long-term threats are under control.
+
+&emsp;&emsp;(E)
+
+Eligible remediation expenditures.—For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The term “eligible remediation expenditures” means, with respect to any qualifying brownfield property, any amount paid or incurred by the eligible taxpayer to an unrelated third person to obtain a Phase I environmental site assessment of the property, and any amount so paid or incurred after the date of the certification described in subparagraph (C)(i) for goods and services necessary to obtain a certification described in subparagraph (D)(i) with respect to such property, including expenditures—
+
+&emsp;&emsp;&emsp;&emsp;(I) to manage, remove, control, contain, abate, or otherwise remediate a hazardous substance, pollutant, or contaminant on the property,
+
+&emsp;&emsp;&emsp;&emsp;(II) to obtain a Phase II environmental site assessment of the property, including any expenditure to monitor, sample, study, assess, or otherwise evaluate the release, threat of release, or presence of a hazardous substance, pollutant, or contaminant on the property,
+
+&emsp;&emsp;&emsp;&emsp;(III) to obtain environmental regulatory certifications and approvals required to manage the remediation and monitoring of the hazardous substance, pollutant, or contaminant on the property, and
+
+&emsp;&emsp;&emsp;&emsp;(IV) regardless of whether it is necessary to obtain a certification described in subparagraph (D)(i)(II), to obtain remediation cost-cap or stop-loss coverage, re-opener or regulatory action coverage, or similar coverage under environmental insurance policies, or financial guarantees required to manage such remediation and monitoring.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exceptions.—Such term shall not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any portion of the purchase price paid or incurred by the eligible taxpayer to acquire the qualifying brownfield property,
+
+&emsp;&emsp;&emsp;&emsp;(II) environmental insurance costs paid or incurred to obtain legal defense coverage, owner/operator liability coverage, lender liability coverage, professional liability coverage, or similar types of coverage,
+
+&emsp;&emsp;&emsp;&emsp;(III) any amount paid or incurred to the extent such amount is reimbursed, funded, or otherwise subsidized by grants provided by the United States, a State, or a political subdivision of a State for use in connection with the property, proceeds of an issue of State or local government obligations used to provide financing for the property the interest of which is exempt from tax under section 103, or subsidized financing provided (directly or indirectly) under a Federal, State, or local program provided in connection with the property, or
+
+&emsp;&emsp;&emsp;&emsp;(IV) any expenditure paid or incurred before the date of the enactment of this paragraph.
+
+&emsp;&emsp;&nbsp;For purposes of subclause (III), the Secretary may issue guidance regarding the treatment of government-provided funds for purposes of determining eligible remediation expenditures.
+
+&emsp;&emsp;(F)
+
+Determination of gain or loss.—For purposes of this paragraph, the determination of gain or loss shall not include an amount treated as gain which is ordinary income with respect to section 1245 or section 1250 property, including amounts deducted as section 198 expenses which are subject to the recapture rules of section 198(e), if the taxpayer had deducted such amounts in the computation of its unrelated business taxable income.
+
+&emsp;&emsp;(G)
+
+Special rules for partnerships.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—In the case of an eligible taxpayer which is a partner of a qualifying partnership which acquires, remediates, and sells, exchanges, or otherwise disposes of a qualifying brownfield property, this paragraph shall apply to the eligible taxpayer's distributive share of the qualifying partnership's gain or loss from the sale, exchange, or other disposition of such property.
+
+&emsp;&emsp;&emsp;(ii)
+
+Qualifying partnership.—The term “qualifying partnership” means a partnership which—
+
+&emsp;&emsp;&emsp;&emsp;(I) has a partnership agreement which satisfies the requirements of section 514(c)(9)(B)(vi) at all times beginning on the date of the first certification received by the partnership under subparagraph (C)(i),
+
+&emsp;&emsp;&emsp;&emsp;(II) satisfies the requirements of subparagraphs (B)(i), (C), (D), and (E), if “qualified partnership” is substituted for “eligible taxpayer” each place it appears therein (except subparagraph (D)(iii)), and
+
+&emsp;&emsp;&emsp;&emsp;(III) is not an organization which would be prevented from constituting an eligible taxpayer by reason of subparagraph (B)(ii).
+
+&emsp;&emsp;&emsp;(iii)
+
+Requirement that tax-exempt partner be a partner since first certification.—This paragraph shall apply with respect to any eligible taxpayer which is a partner of a partnership which acquires, remediates, and sells, exchanges, or otherwise disposes of a qualifying brownfield property only if such eligible taxpayer was a partner of the qualifying partnership at all times beginning on the date of the first certification received by the partnership under subparagraph (C)(i) and ending on the date of the sale, exchange, or other disposition of the property by the partnership.
+
+&emsp;&emsp;&emsp;(iv)
+
+Regulations.—The Secretary shall prescribe such regulations as are necessary to prevent abuse of the requirements of this subparagraph, including abuse through—
+
+&emsp;&emsp;&emsp;&emsp;(I) the use of special allocations of gains or losses, or
+
+&emsp;&emsp;&emsp;&emsp;(II) changes in ownership of partnership interests held by eligible taxpayers.
+
+&emsp;&emsp;(H)
+
+Special rules for multiple properties.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—An eligible taxpayer or a qualifying partnership of which the eligible taxpayer is a partner may make a 1-time election to apply this paragraph to more than 1 qualifying brownfield property by averaging the eligible remediation expenditures for all such properties acquired during the election period. If the eligible taxpayer or qualifying partnership makes such an election, the election shall apply to all qualified sales, exchanges, or other dispositions of qualifying brownfield properties the acquisition and transfer of which occur during the period for which the election remains in effect.
+
+&emsp;&emsp;&emsp;(ii)
+
+Election.—An election under clause (i) shall be made with the eligible taxpayer's or qualifying partnership's timely filed tax return (including extensions) for the first taxable year for which the taxpayer or qualifying partnership intends to have the election apply. An election under clause (i) is effective for the period—
+
+&emsp;&emsp;&emsp;&emsp;(I) beginning on the date which is the first day of the taxable year of the return in which the election is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership, and
+
+&emsp;&emsp;&emsp;&emsp;(II) ending on the date which is the earliest of a date of revocation selected by the eligible taxpayer or qualifying partnership, the date which is 8 years after the date described in subclause (I), or, in the case of an election by a qualifying partnership of which the eligible taxpayer is a partner, the date of the termination of the qualifying partnership.
+
+&emsp;&emsp;&emsp;(iii)
+
+Revocation.—An eligible taxpayer or qualifying partnership may revoke an election under clause (i)(II) <sup>1</sup> by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
+
+&emsp;&emsp;(I)
+
+Recapture.—If an eligible taxpayer excludes gain or loss from a sale, exchange, or other disposition of property to which an election under subparagraph (H) applies, and such property fails to satisfy the requirements of this paragraph, the unrelated business taxable income of the eligible taxpayer for the taxable year in which such failure occurs shall be determined by including any previously excluded gain or loss from such sale, exchange, or other disposition allocable to such taxpayer, and interest shall be determined at the overpayment rate established under section 6621 on any resulting tax for the period beginning with the due date of the return for the taxable year during which such sale, exchange, or other disposition occurred, and ending on the date of payment of the tax.
+
+&emsp;&emsp;(J)
+
+Related persons.—For purposes of this paragraph, a person shall be treated as related to another person if—
+
+&emsp;&emsp;&emsp;(i) such person bears a relationship to such other person described in section 267(b) (determined without regard to paragraph (9) thereof), or section 707(b)(1), determined by substituting “25 percent” for “50 percent” each place it appears therein, and
+
+&emsp;&emsp;&emsp;(ii) in the case such other person is a nonprofit organization, if such person controls directly or indirectly more than 25 percent of the governing body of such organization.
+
+&emsp;&emsp;(K)
+
+Termination.—Except for purposes of determining the average eligible remediation expenditures for properties acquired during the election period under subparagraph (H), this paragraph shall not apply to any property acquired by the eligible taxpayer or qualifying partnership after December 31, 2009.
+
 #### (c) Special rules for partnerships
 
 #### (1) In general
@@ -302,7 +484,7 @@ Regulations.—The Secretary shall prescribe such regulations as may be necessar
 
 #### (1) In general
 
-&emsp;If an organization described in section 1361(c)(6) holds stock in an S corporation—
+&emsp;If an organization described in section 1361(c)(2)(A)(vi) or 1361(c)(6) holds stock in an S corporation—
 
 &emsp;&emsp;(A) such interest shall be treated as an interest in an unrelated trade or business, and
 
@@ -322,11 +504,11 @@ Regulations.—The Secretary shall prescribe such regulations as may be necessar
 
 &emsp;This subsection shall not apply to employer securities (within the meaning of section 409(<i>l</i>)) held by an employee stock ownership plan described in section 4975(e)(7).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L.88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 170; Pub. L. 85–367, §1(a), Apr. 7, 1958, 72 Stat. 80; Pub. L. 88–380, §1, July 17, 1964, 78 Stat. 333; Pub. L. 89–809, title I, §104(g), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §121(b)(1), (2), Dec. 30, 1969, 83 Stat. 537, 538; Pub. L. 92–418, §1(b), Aug. 29, 1972, 86 Stat. 656; Pub. L. 94–396, §1(a), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–455, title XIX, §§1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, 90 Stat. 1794, 1834, 1839; Pub. L. 94–568, §1(b), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–345, §2(a)(2), (b), Aug. 15, 1978, 92 Stat. 481; Pub. L. 97–448, title I, §102(m)(3), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title V, §511(b), July 18, 1984, 98 Stat. 860; Pub. L. 99–514, title XVIII, §1851(a)(10), Oct. 22, 1986, 100 Stat. 2861; Pub. L. 100–203, title X, §10213(a), Dec. 22, 1987, 101 Stat. 1330–406; Pub. L. 100–647, title I, §1018(t)(2)(B), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 101–508, title XI, §11801(a)(23), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §§13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, 107 Stat. 443, 444; Pub. L. 104–188, title I, §§1115(a), 1316(c), 1603(a), Aug. 20, 1996, 110 Stat. 1761, 1786, 1835; Pub. L. 105–34, title III, §312(d)(5), title X, §1041(a), title XV, §1523(a), title XVI, §1601(c)(4)(A), (D), Aug. 5, 1997, 111 Stat. 840, 938, 1070, 1087; Pub. L. 105–206, title VI, §§6010(j)(1), (2), 6023(8), July 22, 1998, 112 Stat. 815, 825; Pub. L. 108–357, title II, §233(d), title III, §319(c), title VII, §702(a), Oct. 22, 2004, 118 Stat. 1434, 1472, 1540; Pub. L. 109–135, title IV, §412(dd), (ee)(1), Dec. 21, 2005, 119 Stat. 2639.)
 
-#### Adjustment of Amount of Annual Dues Threshold for Taxable Years Beginning in 2004
+#### Adjustment of Amount of Annual Dues Threshold for Taxable Years Beginning in 2006
 
-<i>For adjustment of maximum amount of annual dues paid to agricultural or horticultural organizations under subsection (d)(1) of this section for taxable years beginning in 2004, see section 3.21 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of maximum amount of annual dues paid to agricultural or horticultural</i><i>organizations under subsection (d)(1) of this section for taxable years beginning in 2006, see section 3.23 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -334,7 +516,21 @@ The date of the enactment of the Taxpayer Relief Act of 1997, referred to in sub
 
 The date of the enactment of the Tax Reform Act of 1984, referred to in subsec. (a)(3)(E)(ii)(II), (III), is the date of enactment of division A of Pub. L. 98–369, which was approved July 18, 1984.
 
+Sections 101(39), 107, 117(a), (b), and 121(d) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (b)(19)(B)(ii)(I), (C)(i), (D)(i), (ii)(I), (V), are classified to sections 9601(39), 9607, 9617(a), (b), and 9621(d), respectively, of Title 42, The Public Health and Welfare.
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(19)(C)(i), (D)(i), (ii)(V), (E)(ii)(IV), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–135, §412(dd), substituted “subsection (a)(5)” for “section 512(a)(5)”.
+
+Subsec. (b)(18), (19). Pub. L. 109–135, §412(ee)(1), redesignated par. (18), relating to treatment of gain or loss on sale or exchange of certain brownfield sites, as (19).
+
+2004—Subsec. (b)(18). Pub. L. 108–357, §702(a), added par. (18) relating to treatment of gain or loss on sale or exchange of certain brownfield sites.
+
+Pub. L. 108–357, §319(c), added par. (18) relating to treatment of mutual or cooperative electric companies.
+
+Subsec. (e)(1). Pub. L. 108–357, §233(d), inserted “1361(c)(2)(A)(vi) or” before “1361(c)(6)” in introductory provisions.
 
 1998—Subsec. (b)(13)(A). Pub. L. 105–206, §6010(j)(1), inserted “or accrues” after “receives” in first sentence.
 
@@ -386,7 +582,7 @@ Subsec. (a)(3)(E)(iii), (iv). Pub. L. 99–514, §1851(a)(10)(B), (D), redesigna
 
 Subsec. (a)(3)(B)(ii). Pub. L. 98–369, §511(b)(1)(B), substituted “paragraph (9), (17), or (20) of section 501(c)” for “section 501(c)(9)”.
 
-Subsec. (a)(3)(C), (D). Pub. L. 98–369, §511(b)(1)(A), substituted in subpars. (C) and (D) “paragraph (7), (9), (17), or (20) of section 501(c)” for “section 501(c)(7) or (9)” wherever appearing.
+Subsec. (a)(3)(C), (D). Pub. L. 98–369, §511(b)(1)(A), substituted in subpars. (C) and (D) “paragraph (7), (9), (17),or (20) of section 501(c)” for “section 501(c)(7) or (9)” wherever appearing.
 
 Subsec. (a)(3)(E). Pub. L. 98–369, §511(b)(2), added subpar. (E).
 
@@ -426,11 +622,19 @@ Subsec. (b)(12). Pub. L. 91–172, §121(b)(2)(B), made the allowance of the spe
 
 Subsec. (b)(15) to (17). Pub. L. 91–172, §121(b)(2)(C), added pars. (15) to (17).
 
-1966—Subsec. (a). Pub. L. 89–809 substituted “, the unrelated business taxable income shall be its unrelated business taxable income which is effectively connected with the conduct of a trade or business within the United States” for ”, the unrelated business taxable income shall be its unrelated business taxable income derived from sources within the United States determined under subchapter N (sec. 861 and following), relating to tax based on income from sources within or without the United States”.
+1966—Subsec. (a). Pub. L. 89–809 substituted “, the unrelated business taxable income shall be its unrelated business taxable income which is effectively connected with the conduct of a trade or business within the United States” for “, the unrelated business taxable income shall be its unrelated business taxable income derived from sources within the United States determined under subchapter N (sec. 861 and following), relating to tax based on income from sources within or without the United States”.
 
 1964—Subsec. (b)(14). Pub. L. 88–380 added par. (14).
 
 1958—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §233(e), Oct. 22, 2004, 118 Stat. 1435, provided that: “The amendments made by this section \[amending this section and sections 1361 and 4975 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by section 319(c) of Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 319(e) of Pub. L. 108–357, set out as a note under section 501 of this title.
+
+Pub. L. 108–357, title VII, §702(d), Oct. 22, 2004, 118 Stat. 1546, provided that: “The amendments made by this section \[amending this section and section 514 of this title\] shall apply to any gain or loss on the sale, exchange, or other disposition of any property acquired by the taxpayer after December 31, 2004.”
 
 #### Effective Date of 1998 Amendment
 
@@ -468,7 +672,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 Transitional rule.—If—
 
-&emsp;“(A) for purposes of applying part III of subchapter F of chapter 1 of the Internal Revenue Code of 1986 to any taxable year beginning before January 1, 1987, an agricultural or horticultural organization did not treat any portion of membership dues received by it as income derived in an unrelated trade or business, and
+&emsp;“(A) for purposes of applying part III of subchapter F of chapter 1 of the Internal Revenue Code of 1986 to any taxable year beginning before January 1, 1987, an agricultural or horticultural organization did not treat any portion of membership dues received by itas income derived in an unrelated trade or business, and
 
 &emsp;“(B) such organization had a reasonable basis for not treating such dues as income derived in an unrelated trade or business,
 
@@ -552,15 +756,15 @@ Section 1(b) of Pub. L. 85–367 provided that: “The amendment made by subsect
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Pub. L. 108–357, title VII, §702(c), Oct. 22, 2004, 118 Stat. 1546, provided that: “Nothing in the amendments made by this section \[amending this section and section 514 of this title\] shall affect any duty, liability, or other requirement imposed under any other Federal or State law. Notwithstanding section 128(b) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 \[42 U.S.C. 9628(b)\], a certification provided by the Environmental Protection Agency or an appropriate State agency (within the meaning of section 198(c)(4) of the Internal Revenue Code of 1986) shall not affect the liability of any person under section 107(a) of such Act \[42 U.S.C. 9607(a)\].”
+
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 Section 1951(b)(8)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], income received in a taxable year beginning after December 31, 1975, shall be excluded from gross income in determining unrelated business taxable income, if such income would have been excluded by paragraph (13) or (14) of section 512(b) if received in a taxable year beginning before such date. Any deductions directly connected with income excluded under the preceding sentence in determining unrelated business taxable income shall also be excluded for such purpose.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 419A, 502, 509, 511, 513, 514, 664, 681, 772, 851, 856, 878, 995, 1443, 4940, 4943, 4976, 6031 of this title.
+<i><sup>1</sup></i><i> So in original.</i>
 

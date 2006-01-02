@@ -22,7 +22,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 (3) Approval of any application for a grant or contract under this section by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria that—
 
-&emsp;(A) provide that the activities and services for which assistance under this section issought will be substantially administered by or under the supervision of the applicant;
+&emsp;(A) provide that the activities and services for which assistance under this section is sought will be substantially administered by or under the supervision of the applicant;
 
 &emsp;(B) provide for such methods of administration as are necessary for the proper and efficient operation of such programs or projects; and
 
@@ -52,7 +52,7 @@ Projects and programs for which grants and contracts are made or entered into un
 
 (B) For purposes of this paragraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981.
 
-(Pub. L. 92–255, title IV, §410, Mar. 21, 1972, 86 Stat. 82; Pub. L. 94–237, §§10, 11, Mar. 19, 1976, 90 Stat. 247; Pub. L. 94–371, §10(c)(1), July 26, 1976, 90 Stat. 1040; Pub. L. 95–461, §§2(b), 6(a), Oct. 14, 1978, 92 Stat. 1268, 1270; Pub. L. 96–181, §7, Jan. 2, 1980, 93 Stat. 1312; Pub. L. 97–35, title IX, §970(b)–(f), Aug. 13, 1981, 95 Stat. 596, 597; Pub. L. 98–24, §5(a)(3), Apr. 26, 1983, 97 Stat. 183.)
+(Pub. L. 92–255, title IV, §410, Mar. 21, 1972, 86 Stat. 82; Pub. L. 94–237, §§10, 11, Mar. 19, 1976, 90 Stat. 247; Pub. L. 94–371, §10(c)(1), July 26, 1976, 90 Stat. 1040; Pub. L. 95–461, §§2(b), 6(a), Oct. 14,1978, 92 Stat. 1268, 1270; Pub. L. 96–181, §7, Jan. 2, 1980, 93 Stat. 1312; Pub. L. 97–35, title IX, §970(b)–(f), Aug. 13, 1981, 95 Stat. 596, 597; Pub. L. 98–24, §5(a)(3), Apr. 26, 1983, 97 Stat. 183.)
 
 #### Amendments
 

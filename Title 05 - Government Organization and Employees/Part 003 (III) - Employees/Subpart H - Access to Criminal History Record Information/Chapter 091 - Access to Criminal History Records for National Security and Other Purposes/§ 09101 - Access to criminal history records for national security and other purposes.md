@@ -34,7 +34,7 @@
 
 &emsp;(C) Acceptance or retention in the armed forces.
 
-&emsp;(D) Appointment, retention, or assignment to a position of public trust or a critical or sensitive position while either employed bythe Government or performing a Government contract.
+&emsp;(D) Appointment, retention, or assignment to a position of public trust or a critical or sensitive position while either employed by the Government or performing a Government contract.
 
 (2) Such a request to a State central criminal history record repository shall be accompanied by the fingerprints of the individual who is the subject of the request if required by State law and if the repository uses the fingerprints in an automated fingerprint identification system.
 
@@ -44,7 +44,7 @@
 
 (c) A covered agency shall not obtain criminal history record information pursuant to this section unless it has received written consent from the individual under investigation for the release of such information for the purposes set forth in paragraph (b)(1).
 
-(d) Criminal history record information received under this section shall be disclosed or used only for the purposes set forth in paragraph (b)(1) or for national security or criminal justice purposes authorized by law, and such information shall be made available to the individual who is the subject of such information upon request.
+(d) Criminal history record information received under this section shall be disclosed or used only for the purposes set forth in paragraph\(b)(1) or for national security or criminal justice purposes authorized by law, and such information shall be made available to the individual who is the subject of such information upon request.
 
 (e)(1) Automated information delivery systems shall be used to provide criminal history record information to a covered agency under subsection (b) whenever available.
 

@@ -36,7 +36,7 @@ The Secretary, acting through the Director of the Bureau of Land Management, is 
 
 #### (d) Visitors use of area
 
-In addition to the Visitors <sup>1</sup> Center <sup>1</sup>, the Secretary may provide for visitor use of the public lands in the conservation area to such extent and in such manner as the Secretary considers consistent with the protection of raptors andraptor habitat, public safety, and the purposes for which the conservation area is established. To the extent practicable, the Secretary shall make available to visitors and other members of the public a map of the conservation area and such other educational and interpretive materials as may be appropriate.
+In addition to the Visitors <sup>1</sup> Center <sup>1</sup>, the Secretary may provide for visitor use of the public lands in the conservation area to such extent and in such manner as the Secretary considers consistent with the protection of raptors and raptor habitat, public safety, and the purposes for which the conservation area is established. To the extent practicable, the Secretary shall make available to visitors and other members of the public a map of the conservation area and such other educational and interpretive materials as may be appropriate.
 
 #### (e) National Guard use of area
 
@@ -70,7 +70,7 @@ Nothing in this subchapter shall be construed as constituting a grant of authori
 
 #### (i) Hydroelectric facilities
 
-Notwithstanding any provision of this subchapter, or regulations and management plans undertaken pursuant to its provisions, the Federal Energy Regulatory Commission shall retain its current jurisdiction concerning all aspects of the continued and future operation of hydroelectric facilities, licensed or relicensed under the Federal Power Act (16 U.S.C. 791a et seq.), located within the boundaries of the conservation area.
+Notwithstanding any provision of this subchapter, or regulations and management plansundertaken pursuant to its provisions, the Federal Energy Regulatory Commission shall retain its current jurisdiction concerning all aspects of the continued and future operation of hydroelectric facilities, licensed or relicensed under the Federal Power Act (16 U.S.C. 791a et seq.), located within the boundaries of the conservation area.
 
 (Pub. L. 103–64, §4, Aug. 4, 1993, 107 Stat. 305.)
 
@@ -86,7 +86,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One HundredFourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

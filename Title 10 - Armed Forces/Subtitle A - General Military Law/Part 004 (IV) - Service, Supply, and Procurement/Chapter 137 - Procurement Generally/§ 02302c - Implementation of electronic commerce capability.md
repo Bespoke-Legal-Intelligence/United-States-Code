@@ -2,7 +2,7 @@
 
 (a)
 
-Implementation of Electronic Commerce Capability.—(1) The head of each agency named in paragraphs (1), (5), and (6) of section 2303(a) of this title shall implement the electronic commerce capability required by section 30 of the Office of Federal Procurement Policy Act (41 U.S.C. 426).
+Implementation of Electronic Commerce Capability.—(1) The head of each agency namedin paragraphs (1), (5), and (6) of section 2303(a) of this title shall implement the electronic commerce capability required by section 30 of the Office of Federal Procurement Policy Act (41 U.S.C. 426).
 
 (2) The Secretary of Defense shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics to implement the capability within the Department of Defense.
 
@@ -10,9 +10,13 @@ Implementation of Electronic Commerce Capability.—(1) The head of each agency 
 
 (b)
 
-Designation of Agency Official.—The head of each agency named in paragraph (5) or (6) of section 2303(a) of this title shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the agency under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).
+Designation of Agency Official.—The head of each agency named in paragraph (5) or (6) of section 2303(a) of this title shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the agency under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).<sup>1</sup>
 
 (Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+
+#### References in Text
+
+Section 16 of the Office of Federal Procurement Policy Act, referred to in subsec. (b), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of Title 41, Public Contracts.
 
 #### Amendments
 
@@ -47,4 +51,6 @@ Section 850(g) of Pub. L. 105–85 provided that:
 #### Effective Date
 
 Section 9002(c) of Pub. L. 103–355 provided that: “A FACNET capability may be implemented and used in an agency before the promulgation of regulations implementing this section (as provided in section 10002) \[set out as a Regulations note under section 251 of Title 41, Public Contracts\]. If such implementation and use occurs, the period for submission of bids or proposals under section 18(a)(3)(B) of the Office of Federal Procurement Policy Act \[41 U.S.C. 416(a)(3)(B)\], in the case of a solicitation through FACNET, may be less than the period otherwise applicable under that section, but shall be at least 10 days. The preceding sentence shall not be in effect after September 30, 1995.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(4) All conveyances, including aircraft, vehicles, or vessels, which are used, or are intended for use, to transport, or in any manner to facilitate the transportation, sale, receipt, possession, or concealment of property described in paragraph (1), (2), or (9).
 
-&emsp;(5) All books, records, and research, including formulas, microfilm, tapes, and data which are used, or intended for use, in violation of this subchapter.
+&emsp;(5) All books, records, and research, including formulas, microfilm, tapes, and data whichare used, or intended for use, in violation of this subchapter.
 
 &emsp;(6) All moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance or listed chemical in violation of this subchapter, all proceeds traceable to such an exchange, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this subchapter.
 
@@ -48,7 +48,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (1) Whenever property is civilly or criminally forfeited under this subchapter the Attorney General may—
 
-&emsp;(A) retain the property for official use or, in the manner provided with respect to transfers under section 1616a of title 19, transfer the property to any Federal agency or to anyState or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
+&emsp;(A) retain the property for official use or, in the manner provided with respect to transfers under section 1616a of title 19, transfer the property to any Federal agency or to any State or local law enforcement agency which participated directly in the seizure or forfeiture of the property;
 
 &emsp;(B) except as provided in paragraph (4), sell, by public sale or any other commercially feasible means, any forfeited property which is not required to be destroyed by law and which is not harmful to the public;
 
@@ -100,7 +100,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (2) The failure, upon demand by the Attorney General or his duly authorized agent, of the person in occupancy or in control of land or premises upon which such species of plants are growing or being stored, to produce an appropriate registration, or proof that he is the holder thereof, shall constitute authority for the seizure and forfeiture.
 
-(3) The Attorney General, or his duly authorized agent, shall have authority to enter uponany lands, or into any dwelling pursuant to a search warrant, to cut, harvest, carry off, or destroy such plants.
+(3) The Attorney General, or his duly authorized agent, shall have authority to enter upon any lands, or into any dwelling pursuant to a search warrant, to cut, harvest, carry off, or destroy such plants.
 
 #### (h) Vesting of title in United States
 
@@ -118,7 +118,7 @@ In addition to the venue provided for in section 1395 of title 28 or any other p
 
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
-(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, §4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
+(Pub. L. 91–513, title II, §511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, §301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, §14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, §74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, §5105, title VI, §§6059, 6074, 6075, 6077(a),\(b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, §1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, §2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, §102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, §201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, §4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### References in Text
 
@@ -238,7 +238,7 @@ Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, i
 
 #### Constructive Seizure Procedures
 
-Pub. L. 101–225, title II, §210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after thedate of enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
+Pub. L. 101–225, title II, §210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after the date of enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
 
 #### Regulations for Expedited Administrative Forfeiture Procedures
 

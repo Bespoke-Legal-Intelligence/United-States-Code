@@ -16,7 +16,3 @@ A prior section 5351, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of pr
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5361 of this title.
-

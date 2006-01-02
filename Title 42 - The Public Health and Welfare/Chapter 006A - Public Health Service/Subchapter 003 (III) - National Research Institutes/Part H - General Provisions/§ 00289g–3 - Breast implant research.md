@@ -26,7 +26,7 @@ In General.—The Comptroller General of the United States shall conduct a study
 
 &emsp;“(2) Whether such information is provided by physicians or other health professionals, and whether the information is provided verbally or in writing, and at what point in the process of determining whether to undergo surgery is such information provided.
 
-&emsp;“(3) Whether the information presented, as a whole, provides a complete and accurate discussion of the risks and benefits of breast implants, and the extentto which women who receive such information understand the risks and benefits.
+&emsp;“(3) Whether the information presented, as a whole, provides a complete and accurate discussion of the risks and benefits of breast implants, and the extent to which women who receive such information understand the risks and benefits.
 
 &emsp;“(4) The number of adverse events that have been reported, and whether such events have been adequately investigated.
 
@@ -44,5 +44,5 @@ Report.—The Comptroller General shall submit to the Congress a report describi
 
 “(c)
 
-Definition.—For purposes of this section, the term ‘breast implant’ means a breast prosthesis that is implanted to augment or reconstruct the female breast.”
+Definition.—For purposes of this section, the term ‘breast implant’ means a breast prosthesis that isimplanted to augment or reconstruct the female breast.”
 

@@ -1,6 +1,6 @@
 ### §401. Congressional declaration of purpose
 
-In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
+In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified directionunder civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
 
 (July 26, 1947, ch. 343, §2, 61 Stat. 496; Aug. 10, 1949, ch. 412, §2, 63 Stat. 579; Pub. L. 85–599, §2, Aug. 6, 1958, 72 Stat. 514.)
 
@@ -32,7 +32,7 @@ Community Management Staff.—Any reference to the Community Management Staff in
 
 #### Effective Date of 2004 Amendments; Transition Provisions
 
-Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, provided that:
+Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, as amended by Pub. L. 109–13, div. A, title I, §1009, May 11, 2005, 119 Stat. 244, provided that:
 
 #### “SEC. 1091. TRANSFER OF COMMUNITY MANAGEMENT STAFF.
 
@@ -88,7 +88,7 @@ Covered Positions.—The positions referred to in this subsection are as follows
 
 “(a)
 
-Report.—Not later than one year after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see below\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress made in the implementation of this title \[see Short Title of 2004 Amendment note below\], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate.
+Report.—Not later than one year after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see below\], the Director of National Intelligence shall submit to the congressional intelligence committees a report on the progress madein the implementation of this title \[see Short Title of 2004 Amendment note below\], including the amendments made by this title. The report shall include a comprehensive description of the progress made, and may include such recommendations for additional legislative or administrative action as the Director considers appropriate.
 
 “(b)
 
@@ -106,9 +106,9 @@ In General.—Upon the request of the Director of National Intelligence, the hea
 
 “(b)
 
-Transfer of Personnel.—In addition to any other authorities available under law for such purposes, in the fiscal year after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see below\], the Director of National Intelligence—
+Transfer of Personnel.—In addition to any other authorities available under law for such purposes, in the fiscal years 2005 and 2006, the Director of National Intelligence—
 
-&emsp;“(1) is authorized within the Office of the Director of National Intelligence 500 new personnel billets; and
+&emsp;“(1) is authorized within the Office of the Director of National Intelligence the total of 500 new personnel positions; and
 
 &emsp;“(2) with the approval of the Director of the Office of Management and Budget, may detail not more than 150 personnel funded within the National Intelligence Program to the Office of the Director of National Intelligence for a period of not more than 2 years.
 
@@ -116,7 +116,7 @@ Transfer of Personnel.—In addition to any other authorities available under la
 
 “(a)
 
-In General.—Except as otherwise expressly provided in this Act \[see Short Title of 2004 Amendment note below\], this title \[see Short Title of 2004 Amendment note below\] and the amendments made by this title shall take effect not later than six months after the date of the enactment of this Act \[Dec. 17, 2004\].
+In General.—Except as otherwise expressly provided in this Act \[see Short Title of 2004 Amendment note below\], this title \[see Short Title of 2004 Amendment note below\] and the amendments made by this title shall take effect not later than six months after the date of the enactment of this Act \[Dec. 17, 2004\] \[For determination by the President that certain sections of title I of Pub. L. 108–458 take effect earlier than six months after the date of enactment, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note below.\].
 
 “(b)
 
@@ -127,6 +127,8 @@ Specific Effective Dates.—(1)(A) Not later than 60 days after the date of the 
 “(2) Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see above\], the President shall transmit to Congress the implementation plan required by section 1094.
 
 “(3) Not later than one year after the date of the enactment of this Act \[Dec. 17, 2004\], the Director of National Intelligence shall prescribe regulations, policies, procedures, standards, and guidelines required under section 102A of the National Security Act of 1947 \[50 U.S.C. 403–1\], as amended by section 1011(a) of this Act.”
+
+\[Functions of President under section 1094 of Pub. L. 108–458, set out in a note above, assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.\]
 
 #### Effective Date
 
@@ -301,7 +303,7 @@ Pub. L. 101–511, title VIII, §8104, Nov. 5, 1990, 104 Stat. 1898, as amended 
 
 &emsp;“(3) Real and potential military threats to the United States and its allies will continue to exist for the foreseeable future from not just the Soviet Union but also from terrorism and from Third World nations.
 
-&emsp;“(4) Proliferation of both sophisticated conventional weapons and of nuclear weapons could produce a world more dangerous than we have faced in the past.
+&emsp;“(4) Proliferation of both sophisticated conventional weapons and of nuclear weapons could producea world more dangerous than we have faced in the past.
 
 &emsp;“(5) Ethnic rivalries as well as economic inequalities may produce instabilities that could spark serious conflict.
 
@@ -459,7 +461,7 @@ Administrative Support Services.—The Administrator of General Services shall p
 
 #### “SEC. 9. INITIAL FUNDING OF COMMISSION.
 
-“If funds are not otherwise available for the necessary expenses of the Commission for fiscal year 1991,the Secretary of Defense shall make available to the Commission, from funds available to the Secretary for the fiscal year concerned, such funds as the Commission requires. When funds are specifically appropriated for the expenses of the Commission, the Commission shall reimburse the Secretary from such funds for any funds provided to it under the preceding sentence.”
+“If funds are not otherwise available for the necessary expenses of the Commission for fiscal year 1991, the Secretary of Defense shall make available to the Commission, from funds available to the Secretary for the fiscal year concerned, such funds as the Commission requires. When funds are specifically appropriated for the expenses of the Commission, the Commission shall reimburse the Secretary from such funds for any funds provided to it under the preceding sentence.”
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -531,7 +533,7 @@ Pursuant to Paragraph 2 of Executive Order 10431, the following regulations are 
 
 #### Executive Order No. 11905
 
-Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 11985, May 13, 1977, 42 F.R.25487; Ex. Ord. No. 11994, June 1, 1977, 42 F.R. 28869, which related to United States foreign intelligence activities, was superseded by Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, formerly set out below.
+Ex. Ord. No. 11905, Feb. 18, 1976, 41 F.R. 7703, as amended by Ex. Ord. No. 11985, May 13, 1977, 42 F.R. 25487; Ex. Ord. No. 11994, June 1, 1977, 42 F.R. 28869, which related to United States foreign intelligence activities, was superseded by Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, formerly set out below.
 
 #### Executive Order No. 12036
 
@@ -720,7 +722,7 @@ The National Security Council
 
 National Foreign Intelligence Advisory Groups
 
-(a) <i>Establishment and Duties</i>. The Director of Central Intelligence shall establish such boards, councils, or groups as required for the purpose of obtaining advice from within the Intelligence Community concerning:
+(a) <i>Establishment and Duties</i>. The Director of Central Intelligence shall establish such boards, councils, orgroups as required for the purpose of obtaining advice from within the Intelligence Community concerning:
 
 (1) Production, review and coordination of national foreign intelligence;
 
@@ -808,7 +810,7 @@ In order to discharge the duties and responsibilities prescribed by law, the Dir
 
 (4) The responsibilities in subsections 1.5(m)(2) and (3) apply, to the maximum extent consistent with applicable law, whether information is to be collected inside or outside the United States.
 
-(n)(1) Develop, determine, and present with the advice of the heads of departments or agencies that havean organization within the Intelligence Community, the annual consolidated NFIP budget. The Director shall be responsible for developing an integrated and balanced national intelligence program that is directly responsive to the national security threats facing the United States. The Director shall submit such budget (accompanied by dissenting views, if any, of the head of a department or agency that has an organization within the Intelligence Community) to the President for approval; and
+(n)(1) Develop, determine, and present with the advice of the heads of departments or agencies that have an organization within the Intelligence Community, the annual consolidated NFIP budget. The Director shall be responsible for developing an integrated and balanced national intelligence program that is directly responsive to the national security threats facing the United States. The Director shall submit such budget (accompanied by dissenting views, if any, of the head of a department or agency that has an organization within the Intelligence Community) to the President for approval; and
 
 (2) Participate in the development by the Secretary of Defense of the annual budgets for the Joint Military Intelligence Program (JMIP) and the Tactical Intelligence and Related Activities (TIARA) Program.
 
@@ -1110,7 +1112,7 @@ Agencies within the Intelligence Community shall use the least intrusive collect
 
 (2) Physical surveillance of a military person employed by a nonintelligence element of a military service.
 
-(d) Physical surveillance of a United States person abroad to collect foreign intelligence, except to obtain significant information that cannot reasonably be acquired by other means.
+(d) Physical surveillance of a United States person abroad to collect foreign intelligence, except to obtainsignificant information that cannot reasonably be acquired by other means.
 
 #### 2\.5
 
@@ -1264,7 +1266,7 @@ Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 1270
 
 #### Ex. Ord. No. 12863. President's Foreign Intelligence Advisory Board
 
-Ex. Ord. No. 12863, Sept. 13, 1993, 58 F.R. 48441, as amended by Ex. Ord. No. 13070, Dec. 15, 1997, 62 F.R. 66493; Ex. Ord. No. 13301, May 14, 2003, 68 F.R. 26981, provided:
+Ex. Ord. No. 12863, Sept. 13, 1993, 58 F.R. 48441, as amended by Ex. Ord. No. 13070, Dec. 15, 1997, 62 F.R. 66493; Ex. Ord. No. 13301, May 14, 2003, 68 F.R. 26981; Ex. Ord. No. 13376, Apr. 13, 2005, 70 F.R. 20261, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the security of the United States by improving the quality and effectiveness of intelligence available to the United States, and to assure the legality of activities of the Intelligence Community, it is ordered as follows:
 
@@ -1276,11 +1278,11 @@ Sec. 1.2. The PFIAB shall assess the quality, quantity, and adequacy of intellig
 
 Sec. 1.3. The PFIAB shall report directly to the President and advise him concerning the objectives, conduct, management and coordination of the various activities of the agencies of the Intelligence Community. The PFIAB shall report periodically, but at least semiannually, concerning its findings and appraisals and shall make appropriate recommendations for the improvement and enhancement of the intelligence efforts of the United States.
 
-Sec. 1.4. The PFIAB shall consider and recommend appropriate action with respect to matters, identified to the PFIAB by the Director of Central Intelligence, the Central Intelligence Agency, or other Government agencies engaged in intelligence or related activities, in which the advice of the PFIAB will further the effectiveness of the national intelligence effort. With respect to matters deemed appropriate by the President, the PFIAB shall advise and make recommendations to the Director of Central Intelligence, the Central Intelligence Agency, and other Government agencies engaged in intelligence and related activities, concerning ways to achieve increased effectiveness in meeting national intelligence needs.
+Sec. 1.4. The PFIAB shall consider and recommend appropriate action with respect to matters, identified to the PFIAB by the Director of National Intelligence, the Central Intelligence Agency, or other Government agencies engaged in intelligence or related activities, in which the advice of the PFIAB will further the effectiveness of the national intelligence effort. With respect to matters deemed appropriate by the President, the PFIAB shall advise and make recommendations to the Director of National Intelligence, the Central Intelligence Agency, and other Government agencies engaged in intelligence and related activities, concerning ways to achieve increased effectiveness in meeting national intelligence needs.
 
 #### PART II. OVERSIGHT OF INTELLIGENCE ACTIVITIES
 
-Sec. 2.1. The Intelligence Oversight Board (IOB) is hereby established as a standing committee of the PFIAB. The IOB shall consist of no more than five members designated by the President from among the membership of the PFIAB. The Chairman of the PFIAB may also serve as the Chairman or a member of the IOB if so designated by the President. The IOB shall utilize such full-time staff and consultants as authorized bythe Chairman of the IOB with the concurrence of the Chairman of the PFIAB.
+Sec. 2.1. The Intelligence Oversight Board (IOB) is hereby established as a standing committee of the PFIAB. The IOB shall consist of no more than five members designated by the President from among the membership of the PFIAB. The Chairman of the PFIAB may also serve as the Chairman or a member of the IOB if so designated by the President. The IOB shall utilize such full-time staff and consultants as authorized by the Chairman of the IOB with the concurrence of the Chairman of the PFIAB.
 
 Sec. 2.2. The IOB shall:
 
@@ -1294,7 +1296,7 @@ Sec. 2.2. The IOB shall:
 
 &emsp;(e) conduct such investigations as the IOB deems necessary to carry out its functions under this order.
 
-Sec. 2.3. The IOB shall report to the President. The IOB shall consider and take appropriate action with respect to matters identified by the Director of Central Intelligence, the Central Intelligence Agency or other agencies of the Intelligence Community. With respect to matters deemed appropriate by the President, the IOB shall advise and make appropriate recommendations to the Director of Central Intelligence, the Central Intelligence Agency and other agencies of the Intelligence Community.
+Sec. 2.3. The IOB shall report to the President. The IOB shall consider and take appropriate action with respect to matters identified by the Director of National Intelligence, the Central Intelligence Agency or other agencies of the Intelligence Community. With respect to matters deemed appropriate by the President, the IOB shall advise and make appropriate recommendations to the Director of National Intelligence, the Central Intelligence Agency and other agencies of the Intelligence Community.
 
 Sec. 2.4. The heads of departments and agencies of the Intelligence Community, to the extent permitted by law, shall provide the IOB with all information that the IOB deems necessary to carry out its responsibilities. Inspectors General and General Counsel of the Intelligence Community, to the extent permitted by law, shall report to the IOB, at least on a quarterly basis and from time to time as necessary or appropriate, concerning intelligence activities that they have reason to believe may be unlawful or contrary to Executive order or Presidential directive.
 
@@ -1305,4 +1307,34 @@ Sec. 3.1. Information made available to the PFIAB, or members of the PFIAB actin
 Sec. 3.2. Members of the PFIAB shall serve without compensation but may receive transportation expenses and per diem allowance as authorized by law. Staff and consultants to the PFIAB shall receive pay and allowances as authorized by the President.
 
 Sec. 3.3. Executive Order No. 12334 of December 4, 1981, as amended, and Executive Order No. 12537 of October 28, 1985, as amended \[50 U.S.C. 403 note\], are revoked.
+
+Sec. 3.4. This order is intended only to improve the internal management of the executive branch of the Federal Government, and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
+
+#### Effective Dates of Provisions in Title I of the Intelligence Reform and Terrorism Prevention Act of 2004
+
+Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of Energy\[,\] the Secretary of Homeland Security\[,\] the Director of the Office of Management and Budget\[, and\] the Director of National Intelligence
+
+Subsection 1097(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, December 17, 2004) (the Act) \[set out in a note above\] provides:
+
+> &emsp;(a) IN GENERAL- Except as otherwise expressly provided in this Act, this title and the amendments made by this title shall take effect not later than 6 months after the date of the enactment of this Act.
+
+Subsection 1097(a) clearly contemplates that one or more of the provisions in Title I of the Act may take effect earlier than the date that is 6 months after the date of enactment of the Act, but does not state explicitly the mechanism for determining when such earlier effect shall occur, leaving it to the President in the execution of the Act. Moreover, given that section 1097(a) evinces a legislative intent to afford the President flexibility, and such flexibility is constitutionally appropriate with respect to intelligence matters (see <i>United States v. Curtiss-Wright Export Corporation</i>, 299 U.S. 304 (1936)), the executive branch shall construe section 1097(a) to authorize the President to select different effective dates that precede the 6-month deadline for different provisions in Title I.
+
+Therefore, pursuant to the Constitution and the laws of the United States of America, including subsection 1097(a) of the Act, I hereby determine and direct:
+
+1\. Sections 1097(a) and 1103 of the Act \[set out in notes above\], relating respectively to effective dates of provisions and to severability, shall take effect immediately upon the signing of this memorandum to any extent that they have not already taken effect.
+
+2\. Provisions in Title I of the Act other than those addressed in numbered paragraph 1 of this memorandum shall take effect immediately upon the signing of this memorandum, except:
+
+(a) any provision in Title I of the Act for which the Act expressly provides the date on which the provision shall take effect; and
+
+(b) sections 1021 and 1092 of the Act \[enacting section 404<i>o</i> of this title and provisions set out in a note above, respectively\], relating to the National Counterterrorism Center.
+
+The taking of effect of a provision pursuant to section 1097(a) of the Act and this memorandum shall not affect the construction of such provision by the executive branch as set forth in my Statement of December 17, 2004, upon signing the Act into law.
+
+The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

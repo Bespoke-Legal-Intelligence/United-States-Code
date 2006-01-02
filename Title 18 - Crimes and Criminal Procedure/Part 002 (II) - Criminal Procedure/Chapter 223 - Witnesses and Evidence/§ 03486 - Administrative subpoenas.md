@@ -18,7 +18,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (C) A subpoena issued under subparagraph (A) with respect to a provider of electronic communication service or remote computing service, in an investigation of a Federal offense involving the sexual exploitation or abuse of children shall not extend beyond—
 
-&emsp;(i) requiring that provider to disclose the information specified in section 2703(c)(2), whichmay be relevant to an authorized law enforcement inquiry; or
+&emsp;(i) requiring that provider to disclose the information specified in section 2703(c)(2), which may be relevant to an authorized law enforcement inquiry; or
 
 &emsp;(ii) requiring a custodian of the records of that provider to give testimony concerning the production and authentication of such records or information.
 
@@ -56,7 +56,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (b)
 
-Service.—A subpoena issued under this section may be served by any person who is at least 18 years of age and is designated in the subpoena to serve it. Service upon a natural person may be made by personal delivery of the subpoena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpoena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpoena entered on a true copy thereof by the person serving it shall be proof of service.
+Service.—A subpoena issued under this section may be served by any person who is at least 18 years of age and is designated in the subpoena to serve it. Service upon a natural person may be made by personal delivery of the subpoena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpoena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law toreceive service of process. The affidavit of the person serving the subpoena entered on a true copy thereof by the person serving it shall be proof of service.
 
 (c)
 

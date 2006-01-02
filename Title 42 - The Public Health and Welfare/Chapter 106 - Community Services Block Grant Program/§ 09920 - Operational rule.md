@@ -22,7 +22,7 @@ For any program carried out by the Federal Government, or by a State or local go
 
 #### (3) Employment practices
 
-&emsp;A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of fundsfrom, programs described in subsection (a) of this section.
+&emsp;A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a) of this section.
 
 #### (c) Limitations on use of funds for certain purposes
 

@@ -56,7 +56,3 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Section 3(c) of Pub. L. 96–137 provided that: “The naval petroleum reserves special account established by section 7432 of title 10, United States Code, as in existence on the day before the date of the enactment of this Act \[Dec. 12, 1979\], is abolished. Unappropriated balances of funds in the naval petroleum reserves special account on the date of the enactment of this Act shall be transferred on the books of the Treasury into miscellaneous receipts, and all moneys accruing to the United States after such date under chapter 641 of title 10, United States Code, shall be covered into the Treasury as miscellaneous receipts.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1601.
-

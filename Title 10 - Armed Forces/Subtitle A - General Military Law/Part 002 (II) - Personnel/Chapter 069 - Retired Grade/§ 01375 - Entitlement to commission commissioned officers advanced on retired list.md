@@ -22,7 +22,3 @@ Mar. 4, 1911, ch. 266, 36 Stat. 1354.
 
 The words “has been or shall hereafter”, “by operation of or in accordance with law”, and “and shall receive” are omitted as surplusage. The words “in the grade to which he is advanced” are substituted for the words “in accordance with such advanced rank”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 3071; title 42 section 213a.
-

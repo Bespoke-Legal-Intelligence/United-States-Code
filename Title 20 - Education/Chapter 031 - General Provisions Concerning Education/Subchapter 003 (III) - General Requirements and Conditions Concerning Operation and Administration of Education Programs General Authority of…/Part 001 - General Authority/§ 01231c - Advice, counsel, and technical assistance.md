@@ -2,7 +2,7 @@
 
 #### (a) State educational agencies, institutions of higher education
 
-For the purpose of carrying out more effectively Federal education programs, the Secretary is authorized, upon request, to provide advice, counsel, and technical assistance to State educational agencies, institutions of higher education, and, with the approval of the appropriate State educational agency, elementary and secondary schools—
+For the purpose of carrying out more effectively Federal education programs, the Secretary is authorized, upon request, to provideadvice, counsel, and technical assistance to State educational agencies, institutions of higher education, and, with the approval of the appropriate State educational agency, elementary and secondary schools—
 
 &emsp;(1) in determining benefits available to them under Federal law;
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 
 #### Transfer of Functions
 
-“Secretary” and “Secretary's”, meaning the Secretary of Education, substituted for “Commissioner” and “Commissioner's”, respectively, in subsecs. (a) to (d) pursuant to sections 301(a)(1) and 507 of Pub. L.96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+“Secretary” and “Secretary's”, meaning the Secretary of Education, substituted for “Commissioner” and “Commissioner's”, respectively, in subsecs. (a) to (d) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
 #### National Institute of Education
 

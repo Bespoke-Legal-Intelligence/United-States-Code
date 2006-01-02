@@ -36,13 +36,13 @@ Notwithstanding any other provision of this chapter, the Secretary may use amoun
 
 &emsp;(1) the National Parks and Federal Recreational Lands Pass during the 5-year period beginning on the date the joint guidelines are issued under section 6804(a)(7) of this title; and
 
-&emsp;(2) a regional multientity pass authorized section 6804(d) of this title during the 5-yearperiod beginning on the date the regional multientity pass agreement for that recreation pass takes effect.
+&emsp;(2) a regional multientity pass authorized section 6804(d) of this title during the 5-year period beginning on the date the regional multientity pass agreement for that recreation pass takes effect.
 
 (Pub. L. 108–447, div. J, title VIII, §808, Dec. 8, 2004, 118 Stat. 3388.)
 
 #### References in Text
 
-Sections 6805 and 6804 of this title, referred to in subsecs. (a)(3)(F) and (d), were in the original references to sections 6 and 5, respectively, and were translated as meaning sections 806 and 805, respectively, of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
+Sections 6805 and 6804 of this title, referred to in subsecs. (a)(3)(F) and (d), were in the original references to sections 6 and 5, respectively, and were translated as meaning sections 806 and 805, respectively, of title VIIIof div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
 
 The Endangered Species Act of 1973, referred to in subsec. (b), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

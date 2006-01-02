@@ -40,7 +40,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;(B) such institution has its liabilities backed by the full faith and credit of a State, or its equivalent;
 
-&emsp;(C) such institution establishes to the satisfaction of the Secretary, with the support of a financial statement audited by an independentcertified public accountant in accordance with generally accepted auditing standards, that the institution has sufficient resources to ensure against the precipitous closure of the institution, including the ability to meet all of its financial obligations (including refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary); or
+&emsp;(C) such institution establishes to the satisfaction of the Secretary, with the support of a financial statement audited by an independent certified public accountant in accordance with generally accepted auditing standards, that the institution has sufficient resources to ensure against the precipitous closure of the institution, including the ability to meet all of its financial obligations (including refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary); or
 
 &emsp;(D) such institution has met standards of financial responsibility, prescribed by the Secretary by regulation, that indicate a level of financial strength not less than those required in paragraph (2).
 
@@ -92,7 +92,7 @@ The Secretary is authorized—
 
 &emsp;(iii) the individual is a member of the board of directors, the chief executive officer, or other executive officer of the institution or of an entity that holds a substantial ownership interest in the institution.
 
-(B) The Secretary may determine that an entity exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapterI of chapter 34 of title 42 if the Secretary determines that the entity directly or indirectly holds a substantial ownership interest in the institution.
+(B) The Secretary may determine that an entity exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 if the Secretary determines that the entity directly or indirectly holds a substantial ownership interest in the institution.
 
 (3) For purposes of this subsection, an ownership interest is defined as a share of the legal or beneficial ownership or control of, or a right to share in the proceeds of the operation of, an institution or institution's parent corporation. An ownership interest may include, but is not limited to—
 
@@ -196,7 +196,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 (2) The Secretary may waive the requirement of section 1001(a)(2) of this title for a branch that (A) is not located in a State, (B) is affiliated with an eligible institution, and (C) was participating in one or more programs under this subchapter and part C of subchapter I of chapter 34 of title 42 on or before January 1, 1992.
 
-(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763.)
+(Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20,1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763.)
 
 #### References in Text
 
@@ -260,7 +260,7 @@ Subsec. (f). Pub. L. 103–208, §2(i)(10), inserted after second sentence “Th
 
 Subsec. (h)(1)(B)(iii). Pub. L. 103–208, §2(i)(11), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “the Secretary determines that the institution is, in the judgment of the Secretary, in an administrative or financial condition that may jeopardize its ability to perform its responsibilities under its program participation agreement.”
 
-Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
+Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of certifying the eligibility of an institution, an eligible institution of higher education that has a change in ownership resulting in a change in control shall not be considered to be the same institution (except as provided in paragraph (3)) and shall be considered a new institution for the purpose of establishing eligibility, except that such institution shall not be required (under section 1088(b)(5) or1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years.”
 
 Subsec. (i)(3)(A). Pub. L. 103–208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or”.
 
@@ -274,7 +274,7 @@ Pub. L. 105–244, title IV, §493(c)(2), Oct. 7, 1998, 112 Stat. 1762, provided
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) ofPub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date
 

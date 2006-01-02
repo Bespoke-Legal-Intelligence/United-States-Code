@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall promulgate regulations for industrial and construction health and safety at Department of Energy facilities that are operated by contractors covered by agreements of indemnification under section 2210(d) of this title, after public notice and opportunity for comment under section 553 of title 5 (commonly known as the “Administrative Procedure Act”). Such regulations shall, subject to paragraph (3), provide a level of protection for workers at such facilities that is substantially equivalent to the level of protectioncurrently provided to such workers at such facilities.
+&emsp;The Secretary shall promulgate regulations for industrial and construction health and safety at Department of Energy facilities that are operated by contractors covered by agreements of indemnification under section 2210(d) of this title, after public notice and opportunity for comment under section 553 of title 5 (commonly known as the “Administrative Procedure Act”). Such regulations shall, subject to paragraph (3), provide a level of protection for workers at such facilities that is substantially equivalent to the level of protection currently provided to such workers at such facilities.
 
 #### (2) Applicability
 
@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;A person (or any subcontractor or supplier of the person) who has entered into an agreement of indemnification under section 2210(d) of this title (or any subcontractor or supplier of the person) that violates (or is the employer of a person that violates) any regulation promulgated under subsection (a) of this section shall be subject to a civil penalty of not more than $70,000 for each such violation.
+&emsp;A person (or any subcontractor or supplier of the person) who has entered into an agreement of indemnification under section 2210(d) of this title (or any subcontractor or supplier of the person) that violates (or is the employer of aperson that violates) any regulation promulgated under subsection (a) of this section shall be subject to a civil penalty of not more than $70,000 for each such violation.
 
 #### (2) Continuing violations
 

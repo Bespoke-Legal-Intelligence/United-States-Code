@@ -90,7 +90,7 @@
 
 &emsp;(C) all matters relating to the implementation of the agreement under section 2903 of this title.
 
-(3) If it is proposed to implement two or more trade agreements in a single implementing bill under section 2903 of this title, the consultation under paragraph (1) shall include the desirability and feasibility of such proposed implementation.
+(3) If it is proposed to implement two or more trade agreements in a single implementing billunder section 2903 of this title, the consultation under paragraph (1) shall include the desirability and feasibility of such proposed implementation.
 
 #### (e) Special provisions regarding Uruguay Round trade negotiations
 

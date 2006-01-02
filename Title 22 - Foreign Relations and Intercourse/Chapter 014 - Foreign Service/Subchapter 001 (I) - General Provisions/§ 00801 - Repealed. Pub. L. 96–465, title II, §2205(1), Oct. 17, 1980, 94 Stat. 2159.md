@@ -24,7 +24,7 @@ Title XI, §1133, 60 Stat. 1040, which provided that repeal of sections by this 
 
 Title XI, §1134, 60 Stat. 1040, which provided that repeal of any section by this chapter shall not be construed as a revival, up to effective date of this chapter, of any section which may have been previously repealed by implication.
 
-Title XI, §1135, 60 Stat. 1040, which provided that notwithstanding provisions of this chapter, existing rules, regulations, and Executive orders remain in effect until revoked or modified, unless clearly inconsistent with the provisions of this chapter.
+Title XI, §1135, 60 Stat. 1040, which provided that notwithstanding provisions of this chapter, existing rules,regulations, and Executive orders remain in effect until revoked or modified, unless clearly inconsistent with the provisions of this chapter.
 
 Title XI, §1141, 60 Stat. 1040, which provided that this chapter be effective three months following Aug. 13, 1946.
 

@@ -8,7 +8,3 @@ It shall be unlawful to have or possess any property intended for use in violati
 
 The Federal Rules of Criminal Procedure, referred to in text, are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5117, 5686, 5763, 7324, 7613 of this title; title 31 section 9703.
-

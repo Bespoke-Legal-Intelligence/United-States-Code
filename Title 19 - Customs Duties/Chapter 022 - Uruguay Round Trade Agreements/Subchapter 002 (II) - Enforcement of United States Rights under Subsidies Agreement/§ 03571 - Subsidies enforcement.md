@@ -70,7 +70,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (D) Consultations
 
-&emsp;&emsp;If the Trade Representative determines that there is reason to believe that serious adverse effects resulting from the subsidy program exist, the Trade Representative, unless the interested party referred to in subparagraph (A) objects, shall invoke the procedures of Article 9 of the Subsidies Agreement, and shall request consultations pursuant to Article 9.2 of the Subsidies Agreement with respect to such serious adverse effects. If such consultations have not resulted in a mutually acceptable solution within 60 days after the request is made for such consultations, the Trade Representative shall refer the matter to the Subsidies Committee pursuant to Article 9.3 of the Subsidies Agreement.
+&emsp;&emsp;If the Trade Representative determines that there is reason to believe that serious adverse effects resulting from the subsidy program exist, the Trade Representative, unless the interested party referred to in subparagraph (A) objects, shall invoke the procedures of Article 9 of the SubsidiesAgreement, and shall request consultations pursuant to Article 9.2 of the Subsidies Agreement with respect to such serious adverse effects. If such consultations have not resulted in a mutually acceptable solution within 60 days after the request is made for such consultations, the Trade Representative shall refer the matter to the Subsidies Committee pursuant to Article 9.3 of the Subsidies Agreement.
 
 #### (E) Determination by Subsidies Committee
 
@@ -150,7 +150,7 @@ For purposes of this section:
 
 #### (8) Subsidies Agreement
 
-&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and CountervailingMeasures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
+&emsp;The term “Subsidies Agreement” means the Agreement on Subsidies and Countervailing Measures described in section 771(8) of the Tariff Act of 1930 (19 U.S.C. 1677(8)).
 
 #### (9) Subsidies Committee
 

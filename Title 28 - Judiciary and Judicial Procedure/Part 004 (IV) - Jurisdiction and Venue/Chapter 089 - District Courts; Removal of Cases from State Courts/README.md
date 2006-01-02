@@ -20,10 +20,13 @@
 | [1450\.](%C2%A7%2001450%20-%20Attachment%20or%20sequestration%3B%20securities.md) | Attachment or sequestration; securities. |
 | [1451\.](%C2%A7%2001451%20-%20Definitions.md) | Definitions. |
 | [1452\.](%C2%A7%2001452%20-%20Removal%20of%20claims%20related%20to%20bankruptcy%20cases.md) | Removal of claims related to bankruptcy cases. |
+| [1453\.](%C2%A7%2001453%20-%20Removal%20of%20class%20actions.md) | Removal of class actions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–2, §5(b), Feb. 18, 2005, 119 Stat. 13, added item 1453.
 
 1996—Pub. L. 104–317, title II, §206(b), Oct. 19, 1996, 110 Stat. 3850, inserted “and agencies” after “officers” in item 1442.
 
@@ -55,3 +58,4 @@
 - [&sect; 01450 - Attachment or sequestration; securities](%C2%A7%2001450%20-%20Attachment%20or%20sequestration%3B%20securities.md)
 - [&sect; 01451 - Definitions](%C2%A7%2001451%20-%20Definitions.md)
 - [&sect; 01452 - Removal of claims related to bankruptcy cases](%C2%A7%2001452%20-%20Removal%20of%20claims%20related%20to%20bankruptcy%20cases.md)
+- [&sect; 01453 - Removal of class actions](%C2%A7%2001453%20-%20Removal%20of%20class%20actions.md)

@@ -14,7 +14,7 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 &emsp;(3) notwithstanding any other provision of law, provide (directly or by grant to or contract with public or private agencies or organizations) for (A) the operation of a national adoption information exchange system (including only such information as is necessary to facilitate the adoptive placement of children, utilizing computers and data processing methods to assist in the location of children who would benefit by adoption and in the placement in adoptive homes of children awaiting adoption); and (B) the coordination of such system with similar State and regional systems;
 
-&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs and activities relating to adoption, and to promote professional leadership training of minorities in the adoption field;
+&emsp;(4) provide (directly or by grant to or contract with public or private agencies or organizations, including adoptive family groups and minority groups) for the provision of technical assistance in the planning, improving, developing, and carrying out of programs and activities relating to adoption, and to promoteprofessional leadership training of minorities in the adoption field;
 
 &emsp;(5) encourage involvement of corporations and small businesses in supporting adoption as a positive family-strengthening option, including the establishment of adoption benefit programs for employees who adopt children;
 
@@ -204,7 +204,7 @@ Subsec. (b)(8), (9). Pub. L. 102–295, §403(2)(D), added par. (8) and redesign
 
 Subsecs. (c), (d). Pub. L. 100–294, §202(b), (c), added subsecs. (c) and (d).
 
-1984—Subsec. (a). Pub. L. 98–457, §203(a), (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs andparticularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
+1984—Subsec. (a). Pub. L. 98–457, §203(a), (b)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” and inserted provision requiring the Secretary to make available services to facilitate the adoption of children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs.
 
 Subsec. (b). Pub. L. 98–457, §203(c)(1), substituted “this subchapter” for “subsection (a) of this section” in provisions preceding par. (1).
 
@@ -266,7 +266,7 @@ Advisory Panel.—
 
 &emsp;“(1)
 
-Establishment.—The Secretary of Health and Human Services, in consultation with the Chairman of the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate, shall convene an advisory panel which shall include parents, foster parents, relative caregivers, former foster children, State and local public officials responsible for administering child welfare programs, private persons involved in the delivery of child welfare services, representatives of tribal governments and tribal courts, judges, and academic experts.
+Establishment.—The Secretary of Health and Human Services, in consultation with the Chairmanof the Committee on Ways and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate, shall convene an advisory panel which shall include parents, foster parents, relative caregivers, former foster children, State and local public officials responsible for administering child welfare programs, private persons involved in the delivery of child welfare services, representatives of tribal governments and tribal courts, judges, and academic experts.
 
 &emsp;“(2)
 

@@ -10,3 +10,5 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 
 No act with the title Federal Procurement Integrity Act, referred to in text, has been enacted. The Federal Procurement Integrity Act probably means section 27 of Pub. L. 93–400, as added by Pub. L. 100–679, §6(a), Nov. 17, 1988, 102 Stat. 4063, which is classified to section 423 of Title 41, Public Contracts.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -30,7 +30,7 @@
 
 &emsp;(1) any power that the debtor may exercise solely for the benefit of an entity other than the debtor;
 
-&emsp;(2) any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expiration of the stated term of such lease before the commencement of the case under this title, and ceases to include any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expiration of the stated term of such lease during the case;
+&emsp;(2) any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expiration of the stated term of such lease before the commencement of the case under this title, and ceases to include any interest of the debtor as a lessee under a lease of nonresidential real property that has terminated at the expirationof the stated term of such lease during the case;
 
 &emsp;(3) any eligibility of the debtor to participate in programs authorized under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.; 42 U.S.C. 2751 et seq.), or any accreditation status or State licensure of the debtor as an educational institution;
 
@@ -42,9 +42,67 @@
 
 &emsp;&emsp;(B)(i) the debtor has transferred such interest pursuant to a written conveyance of a production payment to an entity that does not participate in the operation of the property from which such production payment is transferred; and
 
-&emsp;&emsp;(ii) but for the operation of this paragraph, the estate could include the interest referred to in clause (i) only by virtue of section 542 of this title; or
+&emsp;&emsp;(ii) but for the operation of this paragraph, the estate could include the interest referred to in clause (i) only by virtue of section 365 or 542 of this title;
 
-&emsp;(5) any interest in cash or cash equivalents that constitute proceeds of a sale by the debtor of a money order that is made—
+&emsp;(5) funds placed in an education individual retirement account (as defined in section 530(b)(1) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
+
+&emsp;&emsp;(A) only if the designated beneficiary of such account was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were placed in such account;
+
+&emsp;&emsp;(B) only to the extent that such funds—
+
+&emsp;&emsp;&emsp;(i) are not pledged or promised to any entity in connection with any extension of credit; and
+
+&emsp;&emsp;&emsp;(ii) are not excess contributions (as described in section 4973(e) of the Internal Revenue Code of 1986); and
+
+&emsp;&emsp;(C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+
+&emsp;(6) funds used to purchase a tuition credit or certificate or contributed to an account in accordance with section 529(b)(1)(A) of the Internal Revenue Code of 1986 under a qualified State tuition program (as defined in section 529(b)(1) of such Code) not later than 365 days before the date of the filing of the petition in a case under this title, but—
+
+&emsp;&emsp;(A) only if the designated beneficiary of the amounts paid or contributed to such tuition program was a child, stepchild, grandchild, or stepgrandchild of the debtor for the taxable year for which funds were paid or contributed;
+
+&emsp;&emsp;(B) with respect to the aggregate amount paid or contributed to such program having the same designated beneficiary, only so much of such amount as does not exceed the total contributions permitted under section 529(b)(7) of such Code with respect to such beneficiary, as adjusted beginning on the date of the filing of the petition in a case under this title by the annual increase or decrease (rounded to the nearest tenth of 1 percent) in the education expenditure category of the Consumer Price Index prepared by the Department of Labor; and
+
+&emsp;&emsp;(C) in the case of funds paid or contributed to such program having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $5,000;
+
+&emsp;(7) any amount—
+
+&emsp;&emsp;(A) withheld by an employer from the wages of employees for payment as contributions—
+
+&emsp;&emsp;&emsp;(i) to—
+
+&emsp;&emsp;&emsp;&emsp;(I) an employee benefit plan that is subject to title I of the Employee Retirement Income Security Act of 1974 or under an employee benefit plan which is a governmental plan under section 414(d) of the Internal Revenue Code of 1986;
+
+&emsp;&emsp;&emsp;&emsp;(II) a deferred compensation plan under section 457 of the Internal Revenue Code of 1986; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a tax-deferred annuity under section 403(b) of the Internal Revenue Code of 1986;
+
+&emsp;&emsp;&nbsp;except that such amount under this subparagraph shall not constitute disposable income as defined in section 1325(b)(2); or
+
+&emsp;&emsp;&emsp;(ii) to a health insurance plan regulated by State law whether or not subject to such title; or
+
+&emsp;&emsp;(B) received by an employer from employees for payment as contributions—
+
+&emsp;&emsp;&emsp;(i) to—
+
+&emsp;&emsp;&emsp;&emsp;(I) an employee benefit plan that is subject to title I of the Employee Retirement Income Security Act of 1974 or under an employee benefit plan which is a governmental plan under section 414(d) of the Internal Revenue Code of 1986;
+
+&emsp;&emsp;&emsp;&emsp;(II) a deferred compensation plan under section 457 of the Internal Revenue Code of 1986; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a tax-deferred annuity under section 403(b) of the Internal Revenue Code of 1986;
+
+&emsp;&emsp;&nbsp;except that such amount under this subparagraph shall not constitute disposable income, as defined in section 1325(b)(2); or
+
+&emsp;&emsp;&emsp;(ii) to a health insurance plan regulated by State law whether or not subject to such title;
+
+&emsp;(8) subject to subchapter III of chapter 5, any interest of the debtor in property where the debtor pledged or sold tangible personal property (other than securities or written or printed evidences of indebtedness or title) as collateral for a loan or advance of money given by a person licensed under law to make such loans or advances, where—
+
+&emsp;&emsp;(A) the tangible personal property is in the possession of the pledgee or transferee;
+
+&emsp;&emsp;(B) the debtor has no obligation to repay the money, redeem the collateral, or buy back the property at a stipulated price; and
+
+&emsp;&emsp;(C) neither the debtor nor the trustee have exercised any right to redeem provided under the contract or State law, in a timely manner as provided under State law and section 108(b); or
+
+&emsp;(9) any interest in cash or cash equivalents that constitute proceeds of a sale by the debtor of a money order that is made—
 
 &emsp;&emsp;(A) on or after the date that is 14 days prior to the date on which the petition is filed; and
 
@@ -64,7 +122,11 @@
 
 (d) Property in which the debtor holds, as of the commencement of the case, only legal title and not an equitable interest, such as a mortgage secured by real property, or an interest in such a mortgage, sold by the debtor but as to which the debtor retains legal title to service or supervise the servicing of such mortgage or interest, becomes property of the estate under subsection (a)(1) or (2) of this section only to the extent of the debtor's legal title to such property, but not to the extent of any equitable interest in such property that the debtor does not hold.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129.)
+(e) In determining whether any of the relationships specified in paragraph (5)(A) or (6)(A) of subsection (b) exists, a legally adopted child of an individual (and a child who is a member of an individual's household, if placed with such individual by an authorized placement agency for legal adoption by such individual), or a foster child of an individual (if such child has as the child's principal place of abode the home of the debtor and is a member of the debtor's household) shall be treated as a child of such individual by blood.
+
+(f) Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2594; Pub. L. 98–353, title III, §§363(a), 456, July 10, 1984, 98 Stat. 363, 376; Pub. L. 101–508, title III, §3007(a)(2), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–486, title XXX, §3017(b), Oct. 24, 1992, 106 Stat. 3130; Pub. L. 103–394, title II, §§208(b), 223, Oct. 22, 1994, 108 Stat. 4124, 4129; Pub. L. 109–8, title II, §225(a), title III, §323, title XII, §§1212, 1221(c), 1230, Apr. 20, 2005, 119 Stat. 65, 97, 194, 196, 201.)
 
 #### Historical and Revision Notes
 
@@ -90,7 +152,7 @@ Where it is not possible for the Internal Revenue Service to demonstrate that th
 
 #### senate report no. 95–989
 
-This section defines property of the estate, and specifies what property becomes property of the estate. The commencement of a bankruptcy case creates an estate. Under paragraph (1) of subsection (a), the estate is comprised of all legal or equitable interest of the debtor in property, wherever located, as of the commencement of the case. The scope of this paragraph is broad. It includes all kinds of property, including tangible or intangible property, causes of action (see Bankruptcy Act §70a(6) \[section 110(a)(6) of former title 11\]), and all other forms of property currently specified in section 70a of the Bankruptcy Act §70a \[section 110(a) of former title 11\], as well as property recovered by the trustee under section 542 of proposed title 11, if the property recovered was merely out of the possession of the debtor, yet remained “property of the debtor.” The debtor's interest in property also includes “title” to property, which is an interest, just as are a possessory interest,or lease-hold interest, for example. The result of <i>Segal v. Rochelle</i>, 382 U.S. 375 (1966), is followed, and the right to a refund is property of the estate.
+This section defines property of the estate, and specifies what property becomes property of the estate. The commencement of a bankruptcy case creates an estate. Under paragraph (1) of subsection (a), the estate is comprised of all legal or equitable interest of the debtor in property, wherever located, as of the commencement of the case. The scope of this paragraph is broad. It includes all kinds of property, including tangible or intangible property, causes of action (see Bankruptcy Act §70a(6) \[section 110(a)(6) of former title 11\]), and all other forms of property currently specified in section 70a of the Bankruptcy Act §70a \[section 110(a) of former title 11\], as well as property recovered by the trustee under section 542 of proposed title 11, if the property recovered was merely out of the possession of the debtor, yet remained “property of the debtor.” The debtor's interest in property also includes “title” to property, which is an interest, just as are a possessory interest, or lease-hold interest, for example. The result of <i>Segal v. Rochelle</i>, 382 U.S. 375 (1966), is followed, and the right to a refund is property of the estate.
 
 Though this paragraph will include choses in action and claims by the debtor against others, it is not intended to expand the debtor's rights against others more than they exist at the commencement of the case. For example, if the debtor has a claim that is barred at the time of the commencement of the case by the statute of limitations, then the trustee would not be able to pursue that claim, because he too would be barred. He could take no greater rights than the debtor himself had. But see proposed 11 U.S.C. 108, which would permit the trustee a tolling of the statute of limitations if it had not run before the date of the filing of the petition.
 
@@ -100,7 +162,7 @@ Paragraph (1) also has the effect of overruling <i>Lines v. Frederick</i>, 400 U
 
 Situations occasionally arise where property ostensibly belonging to the debtor will actually not be property of the debtor, but will be held in trust for another. For example, if the debtor has incurred medical bills that were covered by insurance, and the insurance company had sent the payment of the bills to the debtor before the debtor had paid the bill for which the payment was reimbursement, the payment would actually be held in a constructive trust for the person to whom the bill was owed. This section and proposed 11 U.S.C. 545 also will not affect various statutory provisions that give a creditor of the debtor a lien that is valid outside as well as inside bankruptcy, or that creates a trust fund for the benefit of a creditor of the debtor. See Packers and Stockyards Act §206, 7 U.S.C. 196.
 
-Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor's probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, and the discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
+Bankruptcy Act §8 \[section 26 of former title 11\] has been deleted as unnecessary. Once the estate is created, no interests in property of the estate remain in the debtor. Consequently, if the debtor dies during the case, only property exempted from property of the estate or acquired by the debtor after the commencement of the case and not included as property of the estate will be available to the representative of the debtor's probate estate. The bankruptcy proceeding will continue in rem with respect to property of the state, andthe discharge will apply in personam to relieve the debtor, and thus his probate representative, of liability for dischargeable debts.
 
 The estate also includes the interests of the debtor and the debtor's spouse in community property, subject to certain limitations; property that the trustee recovers under the avoiding powers; property that the debtor acquires by bequest, devise, inheritance, a property settlement agreement with the debtor's spouse, or as the beneficiary of a life insurance policy within 180 days after the petition; and proceeds, product, offspring, rents, and profits of or from property of the estate, except such as are earning from services performed by an individual debtor after the commencement of the case. Proceeds here is not used in a confining sense, as defined in the Uniform Commercial Code, but is intended to be a broad term to encompass all proceeds of property of the estate. The conversion in form of property of the estate does not change its character as property of the estate.
 
@@ -116,7 +178,27 @@ Section 541(e) \[enacted as (d)\] confirms the current status under the Bankrupt
 
 The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
+The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7) and (f), is classified generally to Title 26, Internal Revenue Code.
+
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
 #### Amendments
+
+2005—Subsec. (b)(4). Pub. L. 109–8, §225(a)(1)(A), struck out “or” at end.
+
+Subsec. (b)(4)(B)(ii). Pub. L. 109–8, §1212, inserted “365 or” before “542”.
+
+Subsec. (b)(5), (6). Pub. L. 109–8, §225(a)(1)(C), added pars. (5) and (6). Former par. (5) redesignated (9).
+
+Subsec. (b)(7). Pub. L. 109–8, §323, added par. (7).
+
+Subsec. (b)(8). Pub. L. 109–8, §1230, added par. (8).
+
+Subsec. (b)(9). Pub. L. 109–8, §225(a)(1)(B), redesignated par. (5) as (9).
+
+Subsec. (e). Pub. L. 109–8, §225(a)(2), added subsec. (e).
+
+Subsec. (f). Pub. L. 109–8, §1221(c), added subsec. (f).
 
 1994—Subsec. (b)(4). Pub. L. 103–394, §208(b), designated existing provisions of subpar. (A) as cl. (i) of subpar. (A), redesignated subpar. (B) as cl. (ii) of subpar. (A), substituted “the interest referred to in clause (i)” for “such interest”, substituted “; or” for period at end of cl. (ii), and added subpar. (B).
 
@@ -145,6 +227,12 @@ Subsec. (c)(1)(B). Pub. L. 98–353, §456(b)(2), substituted “taking” for �
 Subsec. (d). Pub. L. 98–353, §456(c), inserted “(1) or (2)” after “(a)”.
 
 Subsec. (e). Pub. L. 98–353, §456(d), struck out subsec. (e) which read as follows: “The estate shall have the benefit of any defense available to the debtor as against an entity other than the estate, including statutes of limitation, statutes of frauds, usury, and other personal defenses. A waiver of any such defense by the debtor after the commencement of the case does not bind the estate.”
+
+#### Effective Date of 2005 Amendment
+
+Amendment by section 1221(c) of Pub. L. 109–8 applicable to cases pending under this title on Apr. 20, 2005, or filed under this title on or after Apr. 20, 2005, with certain exceptions, see section 1221(d) of Pub. L. 109–8, set out as a note under section 363 of this title.
+
+Amendment by sections 225(a), 323, 1212, and 1230 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwiseprovided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

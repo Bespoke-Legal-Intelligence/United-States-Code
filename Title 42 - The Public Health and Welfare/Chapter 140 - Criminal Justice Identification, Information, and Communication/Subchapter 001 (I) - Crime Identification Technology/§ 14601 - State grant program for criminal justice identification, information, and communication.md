@@ -30,7 +30,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(2) automated fingerprint identification systems that are compatible with standards established by the National Institute of Standards and Technology and interoperable with the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation;
 
-&emsp;(3) finger imaging, live scan, and other automated systems to digitize fingerprints and to communicate prints in a manner that is compatible with standards established by the National Institute of Standards and Technology and interoperable with systems operated by States and by the Federal Bureau of Investigation;
+&emsp;(3) finger imaging, live scan, and other automated systems to digitize fingerprints and tocommunicate prints in a manner that is compatible with standards established by the National Institute of Standards and Technology and interoperable with systems operated by States and by the Federal Bureau of Investigation;
 
 &emsp;(4) programs and systems to facilitate full participation in the Interstate Identification Index of the National Crime Information Center;
 
@@ -82,13 +82,13 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;&emsp;(C) Federal, State, regional, and local information technology coordination requirements;
 
-&emsp;&emsp;(D) an assurance that the individuals who developed the grant application took intoconsideration the needs of all branches of the State Government and specifically sought the advice of the chief of the highest court of the State with respect to the application;
+&emsp;&emsp;(D) an assurance that the individuals who developed the grant application took into consideration the needs of all branches of the State Government and specifically sought the advice of the chief of the highest court of the State with respect to the application;
 
 &emsp;&emsp;(E) State and local resource needs;
 
 &emsp;&emsp;(F) the establishment of statewide priorities for planning and implementation of information technology systems; and
 
-&emsp;&emsp;(G) a plan for coordinating the programs funded under this subchapter with other federally funded information technology programs, including directly funded local programs such as the Local Law Enforcement Block Grant program (described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program established pursuant to part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3796dd et seq.\].
+&emsp;&emsp;(G) a plan for coordinating the programs funded under this subchapter with other federally funded information technology programs, including directly funded local programs such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program established pursuant to part Q of title I of the Omnibus Crime Control andSafe Streets Act of 1968 \[42 U.S.C. 3796dd et seq.\].
 
 #### (d) Matching funds
 
@@ -114,17 +114,17 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400.)
+(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400; Pub. L. 109–162, title XI, §1111(c)(1), Jan. 5, 2006, 119 Stat. 3101.)
 
 #### References in Text
 
 Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(6), (8) and (c)(1), is section 103(b) of Pub. L. 103–159, as amended, which is set out as a note under section 922 of Title 18, Crimes and Criminal Procedure.
 
-The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c)(2)(G), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” appear at 111 Stat. 2452, and are not classified to the Code.
-
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Part Q of title I of the Act is classified generally to subchapter XII–E (§3796dd et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Amendments
+
+2006—Subsec. (c)(2)(G). Pub. L. 109–162 substituted “such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program” for “such as the Local Law Enforcement Block Grant program (described under the heading ‘Violent Crime Reduction Programs, State and Local Law Enforcement Assistance’ of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program”.
 
 2001—Subsec. (b)(18). Pub. L. 107–56, §1015(1), added par. (18).
 
@@ -133,6 +133,10 @@ Subsec. (e)(1). Pub. L. 107–56, §1015(2), substituted “this section $250,00
 2000—Subsec. (b)(17). Pub. L. 106–177 added par. (17).
 
 Subsec. (e)(2)(B) to (D). Pub. L. 106–561 inserted “and” after semicolon in subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “not less than 20 percent shall be used by the Attorney General for the purposes described in paragraph (11) of subsection (b) of this section; and”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
 
 #### Short Title
 

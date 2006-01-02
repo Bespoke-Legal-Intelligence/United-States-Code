@@ -20,7 +20,7 @@ The term “person” as used in this section means an individual, partnership, 
 
 #### Ex. Ord. No. 10033. Regulations Governing the Providing of Statistical Information to Intergovernmental Organizations
 
-Ex. Ord. No. 10033, Feb. 8, 1949, 14 F.R. 561, as amended by Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813; Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931; Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
+Ex. Ord. No. 10033, Feb. 8, 1949, 14 F.R. 561, as amended by Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813; Ex. Ord.No. 12013, Oct. 7, 1977, 42 F.R. 54931; Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
 
 Section 1. Except as provided in section 2 hereof, the Director of the Office of Management and Budget, hereinafter referred to as the Director, (a) shall determine, with the concurrence of the Secretary of State, what statistical information shall be provided in response to official requests received by the United States Government from any intergovernmental organization of which this country is a member, and (b) shall determine which Federal executive agency or agencies shall prepare the statistical information thus to be provided. The statistical information so prepared shall be transmitted to the requesting intergovernmental organization through established channels by the Secretary of State or by any Federal executive agency now or hereafter authorized by the Secretary of State to transmit such information.
 

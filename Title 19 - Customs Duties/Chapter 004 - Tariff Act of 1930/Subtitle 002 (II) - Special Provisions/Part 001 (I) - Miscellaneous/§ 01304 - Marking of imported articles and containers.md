@@ -38,7 +38,7 @@ Whenever an article is excepted under subdivision (3) of subsection (a) of this 
 
 #### (c) Marking of certain pipe and fittings
 
-(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) of this section with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with theEnglish name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
+(1) Except as provided in paragraph (2), no exception may be made under subsection (a)(3) of this section with respect to pipes of iron, steel, or stainless steel, to pipe fittings of steel, stainless steel, chrome-moly steel, or cast and malleable iron each of which shall be marked with the English name of the country of origin by means of die stamping, cast-in-mold lettering, etching, engraving, or continuous paint stenciling.
 
 (2) If, because of the nature of an article, it is technically or commercially infeasible to mark it by one of the five methods specified in paragraph (1), the article may be marked by an equally permanent method of marking or, in the case of small diameter pipe, tube, and fittings, by tagging the containers or bundles.
 
@@ -62,7 +62,7 @@ The marking requirements of subsections (a) and (b) of this section shall not ap
 
 The marking requirements of subsections (a) and (b) of this section shall not apply either to—
 
-&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1997; or
+&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule ofthe United States, as in effect on January 1, 1997; or
 
 &emsp;(2) articles provided for in heading 5007 of the Harmonized Tariff Schedule of the United States as in effect on January 1, 1997.
 
@@ -240,7 +240,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 #### Effective Date of 1953 Amendments, Enactments, and Repeals
 
-Section 1 of act Aug. 8, 1953, provided that such act \[see Short Title of 1953 Amendment note set out undersection 1654 of this title\] is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment \[Aug. 8, 1953\].
+Section 1 of act Aug. 8, 1953, provided that such act \[see Short Title of 1953 Amendment note set out under section 1654 of this title\] is effective, except as otherwise specifically provided for, on and after the thirtieth day following the date of its enactment \[Aug. 8, 1953\].
 
 The exception “except as otherwise specifically provided for” apparently refers to the amendments made to the provisions preceding subd. (1) of section 1308 of this title, and to section 1557(b) of this title, for which separate effective dates were provided as explained in notes under such sections.
 
@@ -264,5 +264,5 @@ Section 207(b) of Pub. L. 103–182 provided that: “Articles that qualify as g
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 

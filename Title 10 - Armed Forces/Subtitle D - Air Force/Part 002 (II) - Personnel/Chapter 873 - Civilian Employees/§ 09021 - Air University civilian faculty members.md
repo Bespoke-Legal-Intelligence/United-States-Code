@@ -24,7 +24,3 @@ A prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to app
 
 1994—Subsec. (c)(1). Pub. L. 103–337 substituted “after February 27, 1990” for “after the end of the 90-day period beginning on the date of the enactment of this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5102.
-

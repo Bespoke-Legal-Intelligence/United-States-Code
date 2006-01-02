@@ -32,7 +32,7 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (1) Substitution of parties
 
-&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board ofGovernors, or any officer thereof in the official capacity of such officer, is a party to a suit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
+&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board of Governors, or any officer thereof in the official capacity of such officer, is a party to a suit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
 
 #### (2) Liability of the Board
 

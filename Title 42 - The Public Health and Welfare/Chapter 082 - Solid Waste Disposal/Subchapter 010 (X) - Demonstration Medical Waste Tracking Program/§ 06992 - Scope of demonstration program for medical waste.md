@@ -2,7 +2,7 @@
 
 #### (a) Covered States
 
-The States within the demonstration program established under this subchapter for trackingmedical wastes shall be New York, New Jersey, Connecticut, the States contiguous to the Great Lakes and any State included in the program through the petition procedure described in subsection (c) of this section, except for any of such States in which the Governor notifies the Administrator under subsection (b) of this section that such State shall not be covered by the program.
+The States within the demonstration program established under this subchapter for tracking medical wastes shall be New York, New Jersey, Connecticut, the States contiguous to the Great Lakes and any State included in the program through the petition procedure described in subsection (c) of this section, except for any of such States in which the Governor notifies the Administrator under subsection (b) of this section that such State shall not be covered by the program.
 
 #### (b) Opt out
 

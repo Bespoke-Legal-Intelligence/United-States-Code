@@ -40,7 +40,7 @@ Upon receipt of the plan from an eligible entity, the Secretary shall consult wi
 
 #### (f) Plan approval
 
-Within 90 days after the receipt of an entity's plan by the Secretary, the Secretary shall inform the entity, in writing, of the Secretary's approval or disapproval of the plan. If the plan is disapproved, the entity shall be informed, in writing, of the reasons for the disapproval and shall be given an opportunity to amend the plan or to petition the Secretary to reconsider such disapproval.
+Within 90 days after the receipt of an entity's plan by the Secretary, the Secretary shall inform the entity, in writing, of the Secretary's approval or disapproval of the plan. If the plan is disapproved, the entity shall be informed, inwriting, of the reasons for the disapproval and shall be given an opportunity to amend the plan or to petition the Secretary to reconsider such disapproval.
 
 #### (g) Responsibilities of Department of Education
 

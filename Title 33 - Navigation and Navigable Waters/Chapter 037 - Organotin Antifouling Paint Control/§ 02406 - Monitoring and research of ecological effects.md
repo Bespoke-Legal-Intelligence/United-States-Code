@@ -46,7 +46,7 @@ Funding.—The Administrator of the Environmental Protection Agency shall provid
 
 “(c)
 
-Written Agreement.—The Secretary of the Navy and the Administrator of the Environmental Protection Agency shall enter into a written agreement setting forth the actions that the Secretary plans to take under subsection (a) and the funding that the Administrator agrees to provide under subsection (b). If the Secretary determines that the Administrator will not enter into such an agreement, the Secretary shall notify the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate not later than 30 days after such determination.
+Written Agreement.—The Secretary of the Navy and the Administrator of the Environmental Protection Agency shall enter into a written agreement setting forth the actions that the Secretary plans totake under subsection (a) and the funding that the Administrator agrees to provide under subsection (b). If the Secretary determines that the Administrator will not enter into such an agreement, the Secretary shall notify the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate not later than 30 days after such determination.
 
 “(d)
 

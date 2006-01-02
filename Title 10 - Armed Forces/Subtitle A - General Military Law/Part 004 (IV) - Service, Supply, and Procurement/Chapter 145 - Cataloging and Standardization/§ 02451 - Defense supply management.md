@@ -98,7 +98,3 @@ Pub. L. 94–106, title VIII, §814(a), (b), Oct. 7, 1975, 89 Stat. 540, as amen
 
 Pub. L. 93–365, title III, §302(c), Aug. 5, 1974, 88 Stat. 402, as amended by Pub. L. 94–106, title VIII, §814(c), Oct. 7, 1975, 89 Stat. 540; Pub. L. 97–252, title XI, §1121, Sept. 8, 1982, 96 Stat. 754, which had directed the Secretary of Defense to assess the costs and possible loss of effectiveness from the failure of the NATO Allies to standardize equipment, to suggest standardization actions, and to report these matters to the Allies and Congress and to Congress annually on them and results obtained with the Allies, was repealed and restated in section 2457 of this title by Pub. L. 97–295, §§1(30)(A), 6(b), Oct. 12, 1982, 96 Stat. 1294, 1314.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2452, 2453, 2454 of this title.
-

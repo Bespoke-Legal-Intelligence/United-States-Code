@@ -108,7 +108,7 @@ In this subchapter—
 
 &emsp;(14) “passenger boardings”—
 
-&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar year on an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
+&emsp;&emsp;(A) means, unless the context indicates otherwise, revenue passenger boardings in the United States in the prior calendar yearon an aircraft in service in air commerce, as the Secretary determines under regulations the Secretary prescribes; and
 
 &emsp;&emsp;(B) includes passengers who continue on an aircraft in international flight that stops at an airport in the 48 contiguous States, Alaska, or Hawaii for a nontraffic purpose.
 
@@ -318,7 +318,7 @@ Par. (3)(K), (L). Pub. L. 108–176, §159(b)(1), added subpars. (K) and (L) and
 
 “(K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity was carried out when any restriction in the Notice is in effect.
 
-“(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if theSecretary determines that such payments are necessary to prevent a default on the indebtedness.”
+“(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness.”
 
 Par. (3)(M). Pub. L. 108–176, §159(b)(1)(A), redesignated subpar. (M) as (J).
 

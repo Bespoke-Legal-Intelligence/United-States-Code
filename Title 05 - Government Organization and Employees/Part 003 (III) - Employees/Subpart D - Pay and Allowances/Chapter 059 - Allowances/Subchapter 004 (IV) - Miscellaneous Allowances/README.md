@@ -14,7 +14,7 @@ In General.—Notwithstanding any provision of title VI, section 636 of the Trea
 
 “(b)
 
-Reports.—The Director of Central Intelligence shall submit to the Select Committee on Intelligence ofthe Senate and the Permanent Select Committee of Intelligence of the House of Representatives a report on each designation of a category of employees under paragraph (1) of subsection (a), including the approximate number of employees covered by such designation and an estimate of the amount to be expended on reimbursement of such employees under paragraph (2) of that subsection.”
+Reports.—The Director of Central Intelligence shall submit to the Select Committee on Intelligence of the Senate and the Permanent Select Committee of Intelligence of the House of Representatives a report on each designation of a category of employees under paragraph (1) of subsection (a), including the approximate number of employees covered by such designation and an estimate of the amount to be expended on reimbursement of such employees under paragraph (2) of that subsection.”
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 

@@ -10,7 +10,7 @@ The Secretary of Agriculture may use such funds of the Commodity Credit Corporat
 
 #### (b) Limitation
 
-The amount of assistance provided under a provision of law specified in subsection (c) of this section and this section to a person shall not exceed the amount of assistance the person would have been eligible to receive under the provision had the claim of the producer under the provision been timely resolved.
+The amount of assistance provided under a provision of law specified in subsection (c) of this section and this section to a person shall not exceed the amount of assistance the personwould have been eligible to receive under the provision had the claim of the producer under the provision been timely resolved.
 
 #### (c) Covered market loss assistance authorities
 

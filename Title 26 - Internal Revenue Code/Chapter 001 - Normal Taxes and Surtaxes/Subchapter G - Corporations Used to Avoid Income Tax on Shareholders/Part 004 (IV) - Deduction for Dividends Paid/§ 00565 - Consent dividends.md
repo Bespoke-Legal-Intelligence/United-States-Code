@@ -44,7 +44,3 @@ In the case of a consent dividend which, if paid in money would be subject to th
 
 1976—Subsecs. (a), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 543, 561 of this title.
-

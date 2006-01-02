@@ -60,7 +60,7 @@
 
 &emsp;(Q) will provide to the Secretary the description and information described in paragraphs (8) and (14) of section 112(b) of the Workforce Investment Act of 1998 \[29 U.S.C. 2822(b)(8), (14)\]; and
 
-&emsp;(R) will ensure that entities carrying out activities under the project, including State offices, local offices, subgrantees, subcontractors, or other affiliates of such organization or agency shall receive an amount of the administration cost allocation that is sufficient for the administrative activities under the project to be carried out by such State office, local office, subgrantee, subcontractor, or other affiliate.
+&emsp;(R) will ensure that entities carrying out activities under the project, including State offices, local offices, subgrantees, subcontractors, or other affiliates of such organization oragency shall receive an amount of the administration cost allocation that is sufficient for the administrative activities under the project to be carried out by such State office, local office, subgrantee, subcontractor, or other affiliate.
 
 (2) The Secretary is authorized to establish, issue, and amend such regulations as may be necessary to effectively carry out the provisions of this subchapter.
 
@@ -128,7 +128,7 @@
 
 (5) To the extent practicable, an entity that carries out a project under this subchapter shall provide for the payment of the expenses described in paragraph (4) from non-Federal sources.
 
-(6)(A) Amounts made available for a project under this subchapter that are not used to pay for the cost of administration shall be used to pay for the costs of programmatic activities, including—
+(6)(A) Amounts made available for a project under this subchapter that are not used to payfor the cost of administration shall be used to pay for the costs of programmatic activities, including—
 
 &emsp;(i) enrollee wages and fringe benefits (including physical examinations);
 

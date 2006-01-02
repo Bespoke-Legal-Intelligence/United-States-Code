@@ -54,9 +54,5 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date
 
-Section 251(b) of Pub. L. 96–223 provided that: “The amendments made by this section \[enacting this section and amending sections 263, 1245, and 1250 of this title\] shall apply to taxable years beginning after December 31, 1979.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 43, 263, 1245, 1250 of this title.
+Section 251(b) of Pub. L. 96–223 provided that: “The amendments made by this section \[enacting this section and amending sections 263, 1245, and 1250 of thistitle\] shall apply to taxable years beginning after December 31, 1979.”
 

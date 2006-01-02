@@ -6,7 +6,7 @@ The Secretary shall establish by regulation procedures for the determination of 
 
 #### (b) Coordination
 
-In prescribing procedures under subsection (a) of this section, the Secretary shall ensure that the determination of eligibility and the amount of the scholarship is determined in a timely andaccurate manner consistent with the requirements of section 1089 of this title and the submission of the financial aid form required by section 1090 of this title. For such purposes, the Secretary may provide that, for the first academic year of a student's 2 academic years of eligibility under this division, class rank may be determined prior to graduation from secondary school, at such time and in such manner as the Secretary may specify in regulations prescribed under this division.
+In prescribing procedures under subsection (a) of this section, the Secretary shall ensure that the determination of eligibility and the amount of the scholarship is determined in a timely and accurate manner consistent with the requirements of section 1089 of this title and the submission of the financial aid form required by section 1090 of this title. For such purposes, the Secretary may provide that, for the first academic year of a student's 2 academic years of eligibility under this division, class rank may be determined prior to graduation from secondary school, at such time and in such manner as the Secretary may specify in regulations prescribed under this division.
 
 (Pub. L. 89–329, title IV, §406C, as added Pub. L. 105–244, title IV, §404, Oct. 7, 1998, 112 Stat. 1664.)
 

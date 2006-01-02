@@ -26,13 +26,13 @@
 
 (3) Before taking a deposition, reasonable notice must be given in writing by the party or the attorney of that party proposing to take a deposition to the opposing party or the attorney of record of that party, whoever is nearest. The notice shall state the name of the witness and the time and place of taking the deposition.
 
-(4) The testimony of a person deposed under this subsection shall be taken under oath. Theperson taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent.
+(4) The testimony of a person deposed under this subsection shall be taken under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent.
 
 (5) The testimony of a witness who is in a foreign country may be taken by deposition before an officer or person designated by the Secretary or agreed on by the parties by written stipulation filed with the Secretary. The deposition shall be filed with the Secretary promptly.
 
 (f) Each witness summoned before the Secretary or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2431; Pub. L. 103–272, §4(j)(12), July 5, 1994, 108 Stat. 1368.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2431; Pub. L. 103–272, §4(j)(12), July 5, 1994, 108 Stat. 1368.)
 
 Historical and Revision Notes
 

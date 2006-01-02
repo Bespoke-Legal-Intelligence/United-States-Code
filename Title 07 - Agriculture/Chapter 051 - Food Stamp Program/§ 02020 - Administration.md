@@ -20,9 +20,9 @@ The State agency (as defined in section 2012(n)(1) of this title) of each State 
 
 The State plan of operation required under subsection (d) of this section shall provide, among such other provisions as may be required by regulation—
 
-&emsp;(1) that the State agency shall (A) at the option of the State agency, inform low-income households about the availability, eligibility requirements, application procedures, and benefits of the food stamp program; and (B) use appropriate bilingual personnel and printed material in the administration of the program in those portions of political subdivisions in the State in which a substantial number of members of low-income households speak a language other than English;
+&emsp;(1) that the State agency shall (A) at the option of the State agency, inform low-income households about the availability, eligibility requirements, application procedures, and benefits of the food stamp program; and (B) useappropriate bilingual personnel and printed material in the administration of the program in those portions of political subdivisions in the State in which a substantial number of members of low-income households speak a language other than English;
 
-&emsp;(2)(A) that the State agency shall establish procedures governing the operation of foodstamp offices that the State agency determines best serve households in the State, including households with special needs, such as households with elderly or disabled members, households in rural areas with low-income members, homeless individuals, households residing on reservations, and households in areas in which a substantial number of members of low-income households speak a language other than English.
+&emsp;(2)(A) that the State agency shall establish procedures governing the operation of food stamp offices that the State agency determines best serve households in the State, including households with special needs, such as households with elderly or disabled members, households in rural areas with low-income members, homeless individuals, households residing on reservations, and households in areas in which a substantial number of members of low-income households speak a language other than English.
 
 &emsp;(B) In carrying out subparagraph (A), a State agency—
 
@@ -62,7 +62,7 @@ The State plan of operation required under subsection (d) of this section shall 
 
 &emsp;&emsp;(B) the State agency personnel utilized in undertaking such certification shall be employed in accordance with the current standards for a Merit System of Personnel Administration or any standards later prescribed by the Office of Personnel Management pursuant to section 4728 of title 42 modifying or superseding such standards relating to the establishment and maintenance of personnel standards on a merit basis;
 
-&emsp;(7) that an applicant household may be represented in the certification process and thatan eligible household may be represented in coupon issuance or food purchase by a person other than a member of the household so long as that person has been clearly designated as the representative of that household for that purpose by the head of the household or the spouse of the head, and, where the certification process is concerned, the representative is an adult who is sufficiently aware of relevant household circumstances, except that the Secretary may restrict the number of households which may be represented by an individual and otherwise establish criteria and verification standards for representation under this paragraph;
+&emsp;(7) that an applicant household may be represented in the certification process and that an eligible household may be represented in coupon issuance or food purchase by a person other than a member of the household so long as that person has been clearly designated as the representative of that household for that purpose by the head of the household or the spouse of the head, and, where the certification process is concerned, the representative is an adult who is sufficiently aware of relevant household circumstances, except that the Secretary may restrict the number of households which may be represented by an individual and otherwise establish criteria and verification standards for representation under this paragraph;
 
 &emsp;(8) safeguards which limit the use or disclosure of information obtained from applicant households to persons directly connected with the administration or enforcement of the provisions of this chapter, regulations issued pursuant to this chapter, Federal assistance programs, or federally assisted State programs, except that—
 
@@ -134,7 +134,7 @@ The State plan of operation required under subsection (d) of this section shall 
 
 &emsp;(22) in a project area in which 5,000 or more households participate in the food stamp program, for the establishment and operation of a unit for the detection of fraud in the food stamp program, including the investigation, and assistance in the prosecution, of such fraud;
 
-&emsp;(23) at the option of the State, for procedures necessary to obtain payment of uncollected overissuance of coupons from unemployment compensation pursuant to section 2022(c) of this title;
+&emsp;(23) at the option of the State, for procedures necessary to obtain payment of uncollectedoverissuance of coupons from unemployment compensation pursuant to section 2022(c) of this title;
 
 &emsp;(24) the guidelines the State agency uses in carrying out section 2015(i) of this title; and
 
@@ -312,7 +312,7 @@ Each State agency shall—
 
 #### (B) Determination of allotment
 
-&emsp;&emsp;If a household applies for recertification under subparagraph (A), the allotment of thehousehold for all subsequent months shall be determined without regard to this subsection.
+&emsp;&emsp;If a household applies for recertification under subparagraph (A), the allotment of the household for all subsequent months shall be determined without regard to this subsection.
 
 #### (t) Grants for simple application and eligibility determination systems and improved access to benefits
 
@@ -390,9 +390,9 @@ Each State agency shall—
 
 #### References in Text
 
-The Indian Self-Determination Act (25 U.S.C. 450), referred to in subsec. (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act (25 U.S.C. 450), referred to in subsec. (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to part A (§450f et seq.) of subchapter II ofchapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (e)(16), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (e)(16), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (<i>o</i>)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -498,7 +498,7 @@ Subsec. (e)(22). Pub. L. 101–624, §1738(2), substituted semicolon for period 
 
 Subsec. (e)(25). Pub. L. 101–624, §1738(3)–(5), added par. (25).
 
-Subsec. (f). Pub. L. 101–624, §1739, inserted first sentence and struck out former first sentence which read as follows: “To encourage the purchase of nutritious foods, the Secretary is authorized to extend food and nutrition education to reach food stamp program participants, using the methods and techniques developed in the expanded food and nutrition education and other programs.”
+Subsec. (f). Pub. L. 101–624, §1739, inserted first sentence and struck out former first sentence which read as follows: “To encourage the purchase of nutritious foods, the Secretary is authorized to extend food andnutrition education to reach food stamp program participants, using the methods and techniques developed in the expanded food and nutrition education and other programs.”
 
 Subsec. (g). Pub. L. 101–624, §1763(b), inserted “or the requirements established pursuant to section 2032 of this title” after “section 2025(b)(1) of this title” in first sentence.
 
@@ -608,7 +608,7 @@ Subsec. (e)(11). Pub. L. 97–98, §1320(a), inserted provision that allotments 
 
 Subsec. (e)(20), (21). Pub. L. 97–98, §1321, added pars. (20) and (21).
 
-Subsec. (f). Pub. L. 97–98, §1322, substituted “is authorized to extend food and nutrition education to reach food stamp participants, using methods and techniques developed in the expanded food and nutrition education and other programs” for “shall extend the expanded food and nutrition education program to the greatest extent possible to reach food stamp program participants” and struck out provision that the program be supplemented by the development of single concept printed materials, specifically designed for persons with low reading and comprehension levels, on how to buy and prepare more nutritious and economical meals and on the relationship between food and good health.
+Subsec. (f). Pub. L. 97–98, §1322, substituted “is authorized to extend food and nutrition education to reach food stamp participants, using methods and techniques developed in the expanded food and nutrition education and other programs” for “shall extend theexpanded food and nutrition education program to the greatest extent possible to reach food stamp program participants” and struck out provision that the program be supplemented by the development of single concept printed materials, specifically designed for persons with low reading and comprehension levels, on how to buy and prepare more nutritious and economical meals and on the relationship between food and good health.
 
 Subsec. (m). Pub. L. 97–98, §1323, added subsec. (m).
 
@@ -680,7 +680,7 @@ Amendment by Pub. L. 100–435 to be effective and implemented on July 1, 1989, 
 
 #### Effective Date of 1987 Amendment
 
-Section 809(b) of Pub. L. 100–77 provided that: “The amendments made by this section \[amending this section\] shall become effective and be implemented as soon as the Secretary of Agriculture determines is practicable after the date of enactment of this Act \[July 22, 1987\], but not later than 160 days after the date of enactment of this Act.”
+Section 809(b) of Pub. L. 100–77 provided that: “The amendments made by this section \[amending this section\] shall become effective and be implemented assoon as the Secretary of Agriculture determines is practicable after the date of enactment of this Act \[July 22, 1987\], but not later than 160 days after the date of enactment of this Act.”
 
 #### Effective Date of 1985 Amendment
 

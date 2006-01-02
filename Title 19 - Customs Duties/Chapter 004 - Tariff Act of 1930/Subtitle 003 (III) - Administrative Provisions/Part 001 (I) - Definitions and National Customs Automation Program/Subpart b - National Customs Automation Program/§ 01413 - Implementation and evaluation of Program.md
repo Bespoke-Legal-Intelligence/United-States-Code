@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(D) transmit to the Committees the implementation plan, the testing results, and an evaluation report.
 
-> &emsp;In developing an implementation plan under subparagraph (A) and evaluating components under subparagraph (C), the Secretary shallpublish a request for comments in the Customs Bulletin and shall consult with the trade community, including importers, brokers, shippers, and other affected parties.
+> &emsp;In developing an implementation plan under subparagraph (A) and evaluating components under subparagraph (C), the Secretary shall publish a request for comments in the Customs Bulletin and shall consult with the trade community, including importers, brokers, shippers, and other affected parties.
 
 #### (2) Implementation
 
@@ -70,7 +70,7 @@
 
 #### (c) Committees
 
-For purposes of this section, the term “Committees” means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
+For purposes of this section, the term “Committees” means the Committee on Ways andMeans of the House of Representatives and the Committee on Finance of the Senate.
 
 (June 17, 1930, ch. 497, title IV, §413, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2189; amended Pub. L. 104–295, §21(e)(15), Oct. 11, 1996, 110 Stat. 3531.)
 

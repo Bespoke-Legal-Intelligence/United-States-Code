@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “potentially abusive situation” means—
 
-&emsp;&emsp;&emsp;(i) a tax shelter (as defined in section 6662(d)(2)(C)(iii)), and
+&emsp;&emsp;&emsp;(i) a tax shelter (as defined in section 6662(d)(2)(C)(iii)),<sup>1</sup> and
 
 &emsp;&emsp;&emsp;(ii) any other situation which, by reason of—
 
@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (B) Lowest 3-month rate
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “lowest 3-month rate” means the lowest of the applicable Federal rates in effect for any month in the 3-calendar-month period ending with the 1st calendar month in which there is a binding contract in writing for such sale or exchange.
+&emsp;&emsp;For purposes of subparagraph (A), the term “lowest 3-month rate” means the lowest of the applicable Federal rates in effect for anymonth in the 3-calendar-month period ending with the 1st calendar month in which there is a binding contract in writing for such sale or exchange.
 
 #### (3) Term of debt instrument
 
@@ -195,6 +195,10 @@ For purposes of this section—
 &emsp;This subsection shall apply to any debt instrument given in consideration for the sale or exchange of any property if, pursuant to a plan, the transferor or any related person leases a portion of such property after such sale or exchange.
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 538; amended Pub. L. 99–121, title I, §§101(a)(1), (b), (c), 102(b), Oct. 11, 1985, 99 Stat. 505, 506, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(A), Oct. 22, 1986, 100 Stat. 2797; Pub. L. 101–239, title VII, §7721(c)(11), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 104–188, title I, §1704(t)(78), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839.)
+
+#### References in Text
+
+Section 6662(d)(2)(C), referred to in subsec. (b)(3)(B)(i), was subsequently amended and cl. (iii) no longer defines the term “tax shelter”. However, such term is defined elsewhere in that section.
 
 #### Amendments
 
@@ -252,13 +256,11 @@ Section applicable to taxable years ending after July 18, 1984, and applicable t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Purposes of Imputed Interest Rules
 
 Provisions respecting treatment of debt instruments received in exchange for property, relating to special rules for sales after Dec. 31, 1984, and before July 1, 1985, general rule for assumptions of loans, exception for assumptions of loans made on or before Oct. 15, 1984, and exception for assumptions of loans with respect to certain property, see section 44(b)(4)–(7) of Pub. L. 98–369, as amended, set out as an Effective Date note under section 1271 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 108, 143, 148, 163, 167, 249, 280G, 382, 411, 412, 453, 460, 467, 468, 483, 514, 846, 860B, 860E, 860I, 954, 988, 1258, 1260, 1273, 1274A, 1275, 1288, 1298, 6621, 7520, 7872 of this title; title 29 sections 1054, 1082, 1083, 1084.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

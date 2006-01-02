@@ -76,7 +76,7 @@
 
 &emsp;(3) Entering into any agreement or conspiracy that would set or restrain prices of any good or service.
 
-(Pub. L. 98–462, §2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103–42, §3(b), (c), June 10, 1993, 107 Stat. 117, 118; Pub. L. 108–237, title I, §103, June 22, 2004, 118 Stat. 663.)
+(Pub. L. 98–462, §2, Oct. 11, 1984, 98 Stat. 1815; Pub. L. 103–42, §3(b), (c), June 10, 1993, 107 Stat.117, 118; Pub. L. 108–237, title I, §103, June 22, 2004, 118 Stat. 663.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ Pub. L. 108–237, title I, §102, June 22, 2004, 118 Stat. 661, provided that: 
 
 &emsp;&emsp;“(F) the right to express a position, to have it considered, and to appeal an adverse decision.
 
-&emsp;“(6) There are tens of thousands of voluntary consensus standards available for government use. Most of these standards are kept current through interim amendments and interpretations, issuance of addenda, and periodic reaffirmation, revision, or reissuance every 3 to 5 years.
+&emsp;“(6) There are tens of thousands of voluntary consensus standards available for government use. Most of these standards are kept current through interimamendments and interpretations, issuance of addenda, and periodic reaffirmation, revision, or reissuance every 3 to 5 years.
 
 &emsp;“(7) Standards developed by government entities generally are not subject to challenge under the antitrust laws.
 

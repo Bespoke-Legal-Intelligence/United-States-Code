@@ -14,7 +14,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 &emsp;The term “Indian land” means—
 
-&emsp;&emsp;(A) land within the limits of any Indian reservation under the jurisdiction of theUnited States Government, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation;
+&emsp;&emsp;(A) land within the limits of any Indian reservation under the jurisdiction of the United States Government, notwithstanding the issuance of any patent, and including rights-of-way running through the reservation;
 
 &emsp;&emsp;(B) dependent Indian communities within the borders of the United States whether within the original or subsequently acquired territory thereof, and whether within or without the limits of a State; and
 

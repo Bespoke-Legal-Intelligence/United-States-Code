@@ -90,7 +90,3 @@ Section 39 of act Aug. 10, 1956, provided that: “In addition to service with w
 
 Applicability of subsec. (a)(2) of this section to officers of the Reserve Corps and to officers of the Regular Corps of the Public Health Service, see section 212 of Title 42, The Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1201, 1203, 1204, 1206, 1210, 1212, 1401, 1402, 1402a of this title; title 42 section 212.
-

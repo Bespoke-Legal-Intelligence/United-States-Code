@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-Except as provided in subsection (b) of this section, any person having a valid legal interestwhich is or may be adversely affected may commence a civil action for equitable relief on his own behalf in the United States District Court for the District of Columbia whenever such action constitutes a case or controversy—
+Except as provided in subsection (b) of this section, any person having a valid legal interest which is or may be adversely affected may commence a civil action for equitable relief on his own behalf in the United States District Court for the District of Columbia whenever such action constitutes a case or controversy—
 
 &emsp;(1) against any person who is alleged to be in violation of any provision of this chapter or any regulation or condition of a license issued pursuant to this chapter; or
 

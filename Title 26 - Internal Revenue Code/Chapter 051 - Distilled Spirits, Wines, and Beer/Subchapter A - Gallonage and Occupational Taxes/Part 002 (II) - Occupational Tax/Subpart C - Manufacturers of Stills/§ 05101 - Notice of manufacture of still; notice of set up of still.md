@@ -44,7 +44,3 @@ Fortification of Cooking Wine.—The amendments made by section 455 \[amending s
 
 Section 452.—The amendment made by section 452 \[amending section 5134 of this title\] shall apply to products manufactured or produced after October 31, 1984.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5179, 5615 of this title.
-

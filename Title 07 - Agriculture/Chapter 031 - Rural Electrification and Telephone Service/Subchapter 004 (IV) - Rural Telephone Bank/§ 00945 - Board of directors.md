@@ -32,7 +32,7 @@ The Telephone Bank Board shall consist of thirteen individuals, as follows:
 
 #### (2) Balloting
 
-&emsp;Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall be conducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
+&emsp;Balloting in an election under paragraph (2) or (3) of subsection (b) of this section shall beconducted by mail pursuant to the procedures authorized in the bylaws of the telephone bank.
 
 #### (3) No cumulative voting
 

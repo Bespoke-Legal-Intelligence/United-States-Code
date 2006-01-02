@@ -26,7 +26,7 @@ The Secretary of the Interior is authorized to pay any or all appropriate legal 
 
 #### (f) Provision of attorney fees for San Juan Southern Paiute Tribe
 
-(1) Any funds made available for the San Juan Southern Paiute Tribe to pay for attorney's fees shall be paid directly to the tribe's attorneys of record until such tribe is acknowledged as an Indian tribe by the United States: <i>Provided</i>, That the tribe's eligibility for such payments shall cease once a decision by the Secretary of the Interior declining to acknowledge such tribe becomes final and no longer appealable.
+(1) Any funds made available for the San Juan Southern Paiute Tribe to pay for attorney's fees shall be paid directly to the tribe's attorneys of record until such tribe is acknowledged as an Indian tribe by the United States: <i>Provided</i>, Thatthe tribe's eligibility for such payments shall cease once a decision by the Secretary of the Interior declining to acknowledge such tribe becomes final and no longer appealable.
 
 (2) Nothing in this subsection shall be interpreted as a congressional acknowledgement of the San Juan Southern Paiute as an Indian tribe or as affecting in any way the San Juan Southern Paiute Tribe's Petition for Recognition currently pending with the Secretary of the Interior.
 
@@ -46,5 +46,5 @@ The Indian Claims Commission, referred to in subsec. (d), terminated Sept. 30, 1
 
 Subsec. (f). Pub. L. 100–666, §9(b), added subsec. (f).
 
-1980—Subsec. (c). Pub. L. 96–305 substituted provision authorizing, as part of the determination of tribalrights and interests in land, actions for accounting, fair value of grazing, and claims for damages, specifying the formula for determining recovery, and limiting defenses for provision authorizing exchange of reservation lands.
+1980—Subsec. (c). Pub. L. 96–305 substituted provision authorizing, as part of the determination of tribal rights and interests in land, actions for accounting, fair value of grazing, and claims for damages, specifying the formula for determining recovery, and limiting defenses for provision authorizing exchange of reservation lands.
 

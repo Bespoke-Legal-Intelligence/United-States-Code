@@ -4,7 +4,3 @@ Any special tax imposed by this subtitle, except the tax imposed by section 4411
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4413 of this title.
-

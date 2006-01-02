@@ -1,6 +1,6 @@
 ### §3232. Duration; limitations
 
-(a)(1) Except as provided in paragraphs (2) and (3), and subject to paragraph (4), of this subsection, educational assistance benefits shallnot be afforded an eligible veteran under this chapter more than 10 years after the date of such veteran's last discharge or release from active duty.
+(a)(1) Except as provided in paragraphs (2) and (3), and subject to paragraph (4), of this subsection, educational assistance benefits shall not be afforded an eligible veteran under this chapter more than 10 years after the date of such veteran's last discharge or release from active duty.
 
 (2)(A) If any eligible veteran was prevented from initiating or completing such veteran's chosen program of education during the delimiting period determined under paragraph (1) of this subsection because of a physical or mental disability which was not the result of such veteran's own willful misconduct, such veteran shall, upon application made in accordance with subparagraph (B) of this paragraph, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such veteran was so prevented from initiating or completing such program of education.
 

@@ -66,6 +66,8 @@ A prior section 101 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043, 
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 1993 Amendment
@@ -204,7 +206,7 @@ For provision that any new spending authority (within the meaning of section 401
 
 Pub. L. 94–522, title II, §214, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
-“(a) An annuity payable from the Central Intelligence Agency Retirement and Disability Fund to anannuitant which is based on a separation occurring prior to October 20, 1969, is increased by $240 per annum.
+“(a) An annuity payable from the Central Intelligence Agency Retirement and Disability Fund to an annuitant which is based on a separation occurring prior to October 20, 1969, is increased by $240 per annum.
 
 “(b) In lieu of any increase based on an increase under subsection (a) of this section, an annuity payable from the Central Intelligence Agency Retirement and Disability Fund to the surviving spouse of an annuitant, which is based on a separation occurring prior to October 20, 1969, shall be increased by $132 per annum.
 
@@ -232,7 +234,7 @@ Ex. Ord. No. 12197, Mar. 5, 1980, 45 F.R. 14833, conformed Central Intelligence 
 
 #### Executive Order No. 12253
 
-Ex. Ord. No. 12253, Nov. 25, 1980, 45 F.R. 78995, conformed Central Intelligence Agency and Civil Service Retirement and Disability Systems with regard to definition of “dependent”.
+Ex. Ord. No. 12253, Nov. 25, 1980, 45 F.R. 78995, conformed Central Intelligence Agency and Civil ServiceRetirement and Disability Systems with regard to definition of “dependent”.
 
 #### Executive Order No. 12273
 

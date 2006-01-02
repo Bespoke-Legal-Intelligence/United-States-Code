@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year determined—
 
-&emsp;&emsp;(A) without regard to this section and sections 137, 221, 222, 911, 931, and 933, and
+&emsp;&emsp;(A) without regard to this section and sections 137, 199, 221, 222, 911, 931, and 933, and
 
 &emsp;&emsp;(B) after the application of sections 86, 469, and 219.
 
@@ -116,23 +116,25 @@ For purposes of this section—
 
 #### (4) Regulations
 
-&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
+&emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.s
 
-(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197.)
+(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
-#### Adjustment of Limitation on Exclusion of Income Under This Section for Taxable Years Beginning in 2004
+#### Adjustment of Limitation on Exclusion of Income Under This Section for Taxable Years Beginning in 2006
 
-<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for taxable years beginning in 2004, see section 3.13 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for taxable years beginning in 2006, see section 3.13 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendments note below.</i>
 
 #### Prior Provisions
 
 A prior section 135 was renumbered section 140 of this title.
 
 #### Amendments
+
+2004—Subsec. (c)(4)(A). Pub. L. 108–357 inserted “199,” before “221”.
 
 2001—Subsec. (c)(2)(C). Pub. L. 107–22, in heading substituted “Coverdell education savings” for “education individual retirement” and in text substituted “a Coverdell education savings” for “an education individual retirement”.
 
@@ -177,6 +179,10 @@ Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11101(d)(1)(E), struck out before pe
 Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out “(A) or” after “subparagraph”.
 
 1989—Subsec. (d)(1). Pub. L. 101–239 substituted “subsection (a) with respect to” for “subsection (a) respect to”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective and Termination Dates of 2001 Amendments
 
@@ -233,8 +239,4 @@ Section 6009(b) of Pub. L. 100–647 provided that: “The Secretary of the Trea
 #### Parental Assistance With Tuition Stamp Study
 
 Section 6009(e) of Pub. L. 100–647 directed Secretary of the Treasury or his delegate, after consultation with Secretary of Education or his delegate, to conduct a study of feasibility of using stamps or similar programs to encourage and facilitate savings by parents towards purchase of Series EE bonds eligible for exclusion and to submit, not later than Dec. 31, 1989, results of such study, together with any recommendations deemed appropriate, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 86, 137, 219, 221, 222, 469, 6103 of this title; title 42 section 1395r.
 

@@ -12,7 +12,7 @@ The Secretary shall, subject to the availability of appropriations, make grants 
 
 #### (2) Waiver
 
-&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if the State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the State children's health insurance program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
+&emsp;With respect to the population involved, the Secretary may provide to a State a waiver of the requirement of paragraph (1) if the State demonstrates to the satisfaction of the Secretary that the population is receiving HIV-related health services through the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the State children's health insurance program undertitle XXI of such Act \[42 U.S.C. 1397aa et seq.\], or other Federal or State programs.
 
 (July 1, 1944, ch. 373, title XXVI, §2611, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §§3(c)(1), 7(b)(2), May 20, 1996, 110 Stat. 1353, 1368; Pub. L. 106–345, title II, §201, Oct. 20, 2000, 114 Stat. 1329.)
 

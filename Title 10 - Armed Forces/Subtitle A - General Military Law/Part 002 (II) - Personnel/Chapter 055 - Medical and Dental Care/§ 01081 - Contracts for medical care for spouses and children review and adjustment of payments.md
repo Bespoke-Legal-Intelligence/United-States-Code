@@ -38,7 +38,3 @@ A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to noti
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1082 of this title.
-

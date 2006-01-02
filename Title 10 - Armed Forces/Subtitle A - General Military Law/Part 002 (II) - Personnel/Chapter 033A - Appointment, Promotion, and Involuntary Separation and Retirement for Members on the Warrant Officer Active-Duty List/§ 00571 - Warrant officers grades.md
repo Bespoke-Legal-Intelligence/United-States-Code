@@ -16,7 +16,7 @@ Warrant officer, W–1.
 
 (b) Appointments in the grade of regular warrant officer, W–1, shall be made by warrant by the Secretary concerned. Appointments in regular chief warrant officer grades shall be made by commission by the President.
 
-(c) An appointment may not be made in any of the armed forces in the regular warrant officer grade of chief warrant officer, W–5, if the appointment would result in more than 5 percent of the warrant officers of that armed force on active duty being in the grade of chief warrant officer, W–5. In computing the limitation prescribed in the preceding sentence, there shall be excluded warrant officers described in section 582 of this title.
+(c) An appointment may not be made in any of the armed forces in the regular warrant officer grade of chief warrant officer, W–5, if the appointment would result in more than 5 percentof the warrant officers of that armed force on active duty being in the grade of chief warrant officer, W–5. In computing the limitation prescribed in the preceding sentence, there shall be excluded warrant officers described in section 582 of this title.
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 102–484, div. A, title X, §1052(2), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(a)(2), Oct. 5, 1994, 108 Stat. 2764.)
 
@@ -58,7 +58,7 @@ Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Gr
 
 > shall be considered to have been recommended by a board convened under section 573 of title 10, United States Code, as amended by subsection (b), for promotion to the permanent grade equivalent to the grade in which that warrant officer is serving or for which that warrant officer has been recommended for promotion, as the case may be.
 
-“(2) An officer referred to in subparagraph (A) of paragraph (1) who is not promoted to the grade to which that warrant officer is considered under suchsubsection to have been recommended for promotion because that officer's name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by subsection (b), for promotion to the permanent grade equivalent to the temporary grade in which that warrant officer was serving on the effective date of this section as if that warrant officer were serving in the permanent grade.
+“(2) An officer referred to in subparagraph (A) of paragraph (1) who is not promoted to the grade to which that warrant officer is considered under such subsection to have been recommended for promotion because that officer's name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under section 573 of title 10, United States Code, as amended by subsection (b), for promotion to the permanent grade equivalent to the temporary grade in which that warrant officer was serving on the effective date of this section as if that warrant officer were serving in the permanent grade.
 
 “(3) The date of rank of an officer referred to in paragraph (1)(A) who is promoted to the grade in which that warrant officer is serving on the effective date of this section is the date of that officer's temporary appointment in that grade.
 
@@ -142,7 +142,7 @@ Reserves on Active Duty.—A reserve warrant officer who on the effective date o
 
 &emsp;“(2) has retained a permanent enlisted status,
 
-> shall, while continuing on active duty, retain such temporary status and grade. Such an officer shall be considered for promotion to a higher warrant officer grade under this title \[see Short Title note above\] as if thattemporary grade is a permanent grade. If the officer is recommended for promotion, the officer's appointment to that grade shall be a temporary appointment.
+> shall, while continuing on active duty, retain such temporary status and grade. Such an officer shall be considered for promotion to a higher warrant officer grade under this title \[see Short Title note above\] as if that temporary grade is a permanent grade. If the officer is recommended for promotion, the officer's appointment to that grade shall be a temporary appointment.
 
 #### “SEC. 1124. SAVINGS PROVISION FOR CERTAIN REGULAR ARMY WARRANT OFFICERS FACING MANDATORY RETIREMENT FOR LENGTH OF SERVICE.
 
@@ -166,6 +166,10 @@ Exceptions.—Subsection (a) does not apply to a regular warrant officer who—
 
 &emsp;“(3) is continued on active duty under section 580(e) of title 10, United States Code, as added by this title.”
 
+#### Delegation of Functions
+
+Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, set out as a note under section 531 of this title.
+
 #### Establishment of Permanent Grade of Chief Warrant Officer, W–5
 
 Section 541(a)(1) of Pub. L. 103–337 provided that: “The grade of chief warrant officer, W–5, is hereby established in the Coast Guard.”
@@ -173,8 +177,4 @@ Section 541(a)(1) of Pub. L. 103–337 provided that: “The grade of chief warr
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Section 1111(a) of Pub. L. 102–190 provided that: “The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12241 of this title.
 

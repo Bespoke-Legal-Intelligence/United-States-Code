@@ -14,10 +14,6 @@
 
 A prior part I consisted of sections 5501 and 5502, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 5222 of this title.
-
 
 ---
 

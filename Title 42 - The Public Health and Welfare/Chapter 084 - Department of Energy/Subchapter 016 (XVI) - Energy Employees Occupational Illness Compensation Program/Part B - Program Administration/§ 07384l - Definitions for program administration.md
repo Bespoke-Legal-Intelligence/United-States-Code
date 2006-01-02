@@ -190,7 +190,7 @@ Par. (14)(C)(ii). Pub. L. 108–375, §3166(b)(2), substituted “30 days” for
 
 Par. (17)(D). Pub. L. 107–107, §3151(a)(1), added subpar. (D).
 
-Par. (18). Pub. L. 107–107, §3151(a)(4)(C), struck out par. (18) which read as follows: “The term ‘survivor’means any individual or individuals eligible to receive compensation pursuant to section 8133 of title 5.”
+Par. (18). Pub. L. 107–107, §3151(a)(4)(C), struck out par. (18) which read as follows: “The term ‘survivor’ means any individual or individuals eligible to receive compensation pursuant to section 8133 of title 5.”
 
 #### Effective Date of 2001 Amendments
 

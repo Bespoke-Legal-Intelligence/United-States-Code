@@ -22,7 +22,3 @@ For purposes of subsection (a)—
 
 Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 165 of this title.
-

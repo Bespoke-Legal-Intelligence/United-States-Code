@@ -1,0 +1,62 @@
+### §3712e. Community Capacity Development Office
+
+#### (a) Establishment
+
+#### (1) In general
+
+&emsp;There is established within the Office a Community Capacity Development Office, headed by a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
+
+#### (2) Purpose
+
+&emsp;The purpose of the Office shall be to provide training to actual and prospective participants under programs covered by section 3712d(b) <sup>1</sup> of this title to assist such participants in understanding the substantive and procedural requirements for participating in such programs.
+
+#### (3) Exclusivity
+
+&emsp;The Office shall be the exclusive element of the Department of Justice performing functions and activities for the purpose specified in paragraph (2). There are hereby transferred to the Office all functions and activities for such purpose performed immediately before January 5, 2006, by any other element of the Department. This does not preclude a grant-making office from providing specialized training and technical assistance in its area of expertise.
+
+#### (b) Means
+
+The Director shall, in coordination with the heads of the other elements of the Department, carry out the purpose of the Office through the following means:
+
+&emsp;(1) Promoting coordination of public and private efforts and resources within or available to States, units of local government, and neighborhood and community-based organizations.
+
+&emsp;(2) Providing information, training, and technical assistance.
+
+&emsp;(3) Providing support for inter- and intra-agency task forces and other agreements and for assessment of the effectiveness of programs, projects, approaches, or practices.
+
+&emsp;(4) Providing in the assessment of the effectiveness of neighborhood and community-based law enforcement and crime prevention strategies and techniques, in coordination with the National Institute of Justice.
+
+&emsp;(5) Any other similar means.
+
+#### (c) Locations
+
+Training referred to in subsection (a) of this section shall be provided on a regional basis to groups of such participants. In a case in which remedial training is appropriate, as recommended by the Director or the head of any element of the Department, such training may be provided on a local basis to a single such participant.
+
+#### (d) Best practices
+
+The Director shall—
+
+&emsp;(1) identify grants under which clearly beneficial outcomes were obtained, and the characteristics of those grants that were responsible for obtaining those outcomes; and
+
+&emsp;(2) incorporate those characteristics into the training provided under this section.
+
+#### (e) Availability of funds
+
+not <sup>2</sup> to exceed 3 percent of all funding made available for a fiscal year for the programs covered by section 3712d(b) <sup>1</sup> of this title shall be reserved for the Community Capacity Development Office for the activities authorized by this section.
+
+(Pub. L. 90–351, title I, §106, as added Pub. L. 109–162, title XI, §1159(a), Jan. 5, 2006, 119 Stat. 3116.)
+
+#### References in Text
+
+Section 3712d(b) of this title, referred to in subsecs. (a)(2) and (e), was in the original a reference to section105(b) which was translated as meaning the section 105 of Pub. L. 90–351, as added by section 1158(a) of Pub. L. 109–162. Another section 105 of Pub. L. 90–351 was added by section 1121(a) of Pub. L. 109–162 and is classified to section 3712c of this title.
+
+January 5, 2006, referred to in subsec. (a)(3), was in the original “the date of the enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 109–162, which enacted this section, to reflect the probable intent of Congress.
+
+#### Effective Date
+
+Pub. L. 109–162, title XI, §1159(b), Jan. 5, 2006, 119 Stat. 3117, provided that: “This section \[enacting this section\] and the amendment made by this section take effect 90 days after the date of the enactment of this Act \[Jan. 5, 2006\].”
+
+<i><sup>1</sup></i><i> See References in Text Note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+

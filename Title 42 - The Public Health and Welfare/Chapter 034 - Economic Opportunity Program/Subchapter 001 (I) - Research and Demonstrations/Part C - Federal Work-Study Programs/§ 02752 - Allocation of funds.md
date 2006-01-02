@@ -42,7 +42,7 @@
 
 #### (b) Allocation of excess based on share of excess eligible amounts
 
-(1) From the remainder of the amount appropriated pursuant to section 2751(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which hasan excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 2751(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
@@ -94,7 +94,7 @@
 
 &emsp;(F) add the amounts determined under subparagraph (E) of this paragraph for each income category.
 
-(4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
+(4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” meansthe average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
 (B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
@@ -104,7 +104,7 @@
 
 #### (d) Reallocation of excess allocations
 
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate studentsemployed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
+(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
 (2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 

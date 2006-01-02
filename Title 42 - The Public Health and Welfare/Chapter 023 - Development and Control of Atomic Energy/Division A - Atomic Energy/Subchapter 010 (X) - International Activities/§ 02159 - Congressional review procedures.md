@@ -14,7 +14,7 @@ Debate on the resolution, and on all debatable motions and appeals in connection
 
 #### (d) Vote on final approval
 
-Immediately following (1) the conclusion of the debate on such concurrent resolution, (2) a single quorum call at the conclusion of debate if requested in accordance with the rules of the appropriate House, and (3) the consideration of an amendment introduced by the Majority Leader or his designee to insert the phrase, “does not”in lieu of the word “does” if the resolution under consideration is a concurrent resolution of approval, the vote on final approval of the resolution shall occur.
+Immediately following (1) the conclusion of the debate on such concurrent resolution, (2) a single quorum call at the conclusion of debate if requested in accordance with the rules of the appropriate House, and (3) the consideration of an amendment introduced by the Majority Leader or his designee to insert the phrase, “does not” in lieu of the word “does” if the resolution under consideration is a concurrent resolution of approval, the vote on final approval of the resolution shall occur.
 
 #### (e) Appeals from decisions of Chair
 
@@ -58,7 +58,7 @@ This section is enacted by Congress—
 
 (5) A joint resolution under this subsection shall be considered in the Senate in accordance with the provisions of section 601(b)(4) of the International Security Assistance and Arms Export Control Act of 1976. For the purpose of expediting the consideration and passage of joint resolutions reported or discharged pursuant to the provisions of this subsection, it shall be in order for the Committee on Rules of the House of Representatives to present for consideration a resolution of the House of Representatives providing procedures for the immediate consideration of a joint resolution under this subsection which may be similar, if applicable, to the procedures set forth in section 601(b)(4) of the International Security Assistance and Arms Export Control Act of 1976.
 
-(6) In the case of a joint resolution described in paragraph (1), if prior to the passage by oneHouse of a joint resolution of that House, that House receives a joint resolution with respect to the same matter from the other House, then—
+(6) In the case of a joint resolution described in paragraph (1), if prior to the passage by one House of a joint resolution of that House, that House receives a joint resolution with respect to the same matter from the other House, then—
 
 &emsp;(A) the procedure in that House shall be the same as if no joint resolution had been received from the other House; but
 

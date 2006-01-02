@@ -4,7 +4,7 @@
 
 (b) A bankruptcy judge who has retired may, upon consent, be recalled to serve as a bankruptcy judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a bankruptcy judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference of the United States, subject to the restrictions on the payment of an annuity in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such judge.
 
-(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–651, titleII, §202(a), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 100–659, §4(a), Nov. 15, 1988, 102 Stat. 3918.)
+(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–651, title II, §202(a), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 100–659, §4(a), Nov. 15, 1988, 102 Stat. 3918.)
 
 #### Amendments
 

@@ -1,6 +1,6 @@
 ### §467a. Repealed. Pub. L. 96–586, §4(a)(1), (b), Dec. 23, 1980, 94 Stat. 3386
 
-Section, Pub. L. 92–727, §1, Oct. 21, 1972, 86 Stat. 1049, authorized the Secretary of the Interior to accept, maintain, develop, and administer the Mar-A-Lago National Historic Site described in the order of designation dated Jan. 16, 1969, as part of the national park system and directed the Secretary to enter into agreements and take such action as deemed necessary to provide for administration and use of the Mar-A-Lago National Historic Site as a temporary residence for visiting foreign dignitaries or heads of state or members of the executive branch of the United States Government, with any further use determined by the Secretary after conferring with the Mar-A-Lago National Historic Site Advisory Commission.
+Section, Pub. L. 92–527, §1, Oct. 21, 1972, 86 Stat. 1049, authorized the Secretary of the Interior to accept, maintain, develop, and administer the Mar-A-Lago National Historic Site described in the order of designation dated Jan. 16, 1969, as part of the national park system and directed the Secretary to enter into agreements and take such action as deemed necessary to provide for administration and use of the Mar-A-Lago National Historic Site as a temporary residence for visiting foreign dignitaries or heads of state or members of the executive branch of the United States Government, with any further use determined by the Secretary after conferring with the Mar-A-Lago National Historic Site Advisory Commission.
 
 #### Effective Date of Repeal
 
@@ -10,7 +10,7 @@ For effective date of repeal, see Pub. L. 96–586, §4, Dec. 23, 1980, 94 Stat.
 
 Pub. L. 96–586, §4, Dec. 23, 1980, 94 Stat. 3386, provided that:
 
-“(a)(1) Effective upon the conveyance or transfer authorized in subsection b, the Act of October 21, 1972, entitled ‘An Act to provide for the administration of the Mar-A-Lago National Historic Site, in Palm Beach,Florida’ \[sections 467a and 467a–1 of this title\] is repealed.
+“(a)(1) Effective upon the conveyance or transfer authorized in subsection b, the Act of October 21, 1972, entitled ‘An Act to provide for the administration of the Mar-A-Lago National Historic Site, in Palm Beach, Florida’ \[sections 467a and 467a–1 of this title\] is repealed.
 
 “(2) The order of designation of the Mar-A-Lago National Historic Site, dated January 16, 1969, is repealed and the site described therein is hereby designated as the Mar-A-Lago National Historic Landmark.
 

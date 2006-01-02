@@ -30,7 +30,7 @@
 
 (C) The University and NTID shall maintain records of the income generated from its respective Federal endowment fund for the prior fiscal year.
 
-(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, onan annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
+(3)(A) Except as provided in subparagraph (B), the University and NTID, respectively, may, on an annual basis, withdraw or expend not more than 50 percent of the income generated from its Federal endowment fund from the current fiscal year.
 
 (B) The Secretary may permit the University or NTID to withdraw or expend a portion of its Federal endowment fund corpus or more than 50 percent of the income generated from its Federal endowment fund from the prior fiscal year if the institution involved demonstrates, to the Secretary's satisfaction, that such withdrawal or expenditure is necessary because of—
 
@@ -42,7 +42,7 @@
 
 #### (e) Investment and expenditure flexibility
 
-The corpus associated with a Federal payment (and its non-Federal match) made to the Federal endowment fund of the University or NTID shall not be subject to the investment limitations of subsection (c)(1) of this section after 10 fiscal years following the fiscal year in which the funds are matched, and the income generated from such corpus after the tenth fiscal year described in this subsection shall not be subject to such investment limitations or to the withdrawal and expenditure limitations of subsection (d)(3) of this section.
+The corpus associated with a Federal payment (and its non-Federal match) made to the Federal endowment fund of the University or NTID shall not be subject to the investment limitations of subsection (c)(1) of this section after 10 fiscal years following the fiscal year in which the funds are matched, and the income generatedfrom such corpus after the tenth fiscal year described in this subsection shall not be subject to such investment limitations or to the withdrawal and expenditure limitations of subsection (d)(3) of this section.
 
 #### (f) Recovery of payments
 

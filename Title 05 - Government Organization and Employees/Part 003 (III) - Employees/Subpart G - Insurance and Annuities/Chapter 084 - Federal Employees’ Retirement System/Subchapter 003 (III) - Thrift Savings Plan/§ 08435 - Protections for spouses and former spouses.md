@@ -22,7 +22,7 @@
 
 (2) A court decree, order, or agreement referred to in paragraph (1) is, with respect to an employee or Member (or former employee or Member), a court decree of divorce, annulment, or legal separation issued in the case of such employee or Member (or former employee or Member) and any former spouse of the employee or Member (or former employee or Member) or any court order or court-approved property settlement agreement incident to such decree if—
 
-&emsp;(A) the decree, order, or agreement expressly relates to any portion of the balance in the employee's or Member's (or former employee's or Member's) account; and
+&emsp;(A) the decree, order, or agreement expressly relates to any portion of the balance in theemployee's or Member's (or former employee's or Member's) account; and
 
 &emsp;(B) notice of the decree, order, or agreement was received by the Executive Director before—
 
@@ -80,7 +80,7 @@
 
 #### Amendments
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted “may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election” for “may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section” and inserted at end “A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).”
+1996—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted “may withdrawall or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election” for “may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section” and inserted at end “A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).”
 
 Subsec. (c)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(2)(A)\]\], substituted “An election or change of election” for “An election, change of election, or modification of the commencement date of a deferred annuity” and “or transfer” for “modification, or transfer”.
 

@@ -12,11 +12,11 @@
 
 (b) If, except for the pendency of the case under this chapter, transfer of, or operation of or over, any of the debtor's rail lines by an entity other than the debtor or a successor to the debtor under the plan would require approval by the Board under a law of the United States, then a plan may not propose such a transfer or such operation unless the proponent of the plan initiates an appropriate application for such a transfer or such operation with the Board and, within such time as the court may fix, not exceeding 180 days, the Board, with or without a hearing, as the Board may determine, and with or without modification or condition, approves such application, or does not act on such application. Any action or order of the Board approving, modifying, conditioning, or disapproving such application is subject to review by the court only under sections 706(2)(A), 706(2)(B), 706(2)(C), and 706(2)(D) of title 5.
 
-(c)(1) In approving an application under subsection (b) of this section, the Board shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11347 <sup>1</sup> of title 49.
+(c)(1) In approving an application under subsection (b) of this section, the Board shall require the rail carrier to provide a fair arrangement at least as protective of the interests of employees as that established under section 11326(a) of title 49.
 
 (2) Nothing in this subsection shall be deemed to affect the priorities or timing of payment of employee protection which might have existed in the absence of this subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, §227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2644; Pub. L. 96–448, title II, §227(b), Oct. 14, 1980, 94 Stat. 1931; Pub. L. 104–88, title III, §302(2), Dec. 29, 1995, 109 Stat. 943; Pub. L. 109–8, title XII, §1218, Apr. 20, 2005, 119 Stat. 195.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +30,7 @@ The House amendment deletes section 1171(a) of the Senate amendment as a matter 
 
 #### senate report no. 95–989
 
-Section 1170 adds to the general provisions required or permitted in reorganization plans by section 1123. Subsection (1) requires that a reorganization plan under the railroad subchapter specify the means by which the value of the claims of creditors and the interests of equity holders which are materially and adversely affected by the plan are to be realized. Subsection (2) permits a plan to include provisions for the issuance of warrants. Subsection (3) requires that the plan provide for fixed charges by probable earnings fortheir payment. Subsection (4) requires that the plan specify the means by which, and the extent to which, the debtor's rail service is to be continued, and shall identify any rail service to be terminated. Subsection (5) permits other appropriate provisions not inconsistent with the chapter. With the exception of subsection (4), the requirements are comparable to those of present section 77(b) \[section 205(b) of former title 11\]; subsection (4) emphasizes the public interest in the preservation of rail transportation.
+Section 1170 adds to the general provisions required or permitted in reorganization plans by section 1123. Subsection (1) requires that a reorganization plan under the railroad subchapter specify the means by which the value of the claims of creditors and the interests of equity holders which are materially and adversely affected by the plan are to be realized. Subsection (2) permits a plan to include provisions for the issuance of warrants. Subsection (3) requires that the plan provide for fixed charges by probable earnings for their payment. Subsection (4) requires that the plan specify the means by which, and the extent to which, the debtor's rail service is to be continued, and shall identify any rail service to be terminated. Subsection (5) permits other appropriate provisions not inconsistent with the chapter. With the exception of subsection (4), the requirements are comparable to those of present section 77(b) \[section 205(b) of former title 11\]; subsection (4) emphasizes the public interest in the preservation of rail transportation.
 
 Section 1171 imposes on the court, rather than the Interstate Commerce Commission, as in present section 77 \[section 205 of former title 11\], the responsibility for the plan of reorganization. The Commission is empowered to make final decisions subject only to review by the court under the standards of the Administrative Procedure Act \[5 U.S.C. 551 et seq. and 701 et seq.\] as to any part of the plan which deals with transportation matters, such as the grant of operating rights of or over, or transfer of, the debtor's rail lines to other carriers.
 
@@ -46,15 +46,17 @@ Paragraph (1) contemplates a liquidating plan for the debtor's rail lines, much 
 
 The plan may also provide for abandonment in accordance with section 1169, governing abandonment generally. Neither of these provisions in a plan, transfer or abandonment of lines, requires ICC approval. Confirmation of the plan by the court authorizes the debtor to comply with the plan in accordance with section 1142(a) notwithstanding any bankruptcy law to the contrary.
 
-#### References in Text
-
-Section 11347 of title 49, referred to in subsec. (c)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. For provisions similar to those contained in section 11347, see section 11326(a) of Title 49.
-
 #### Amendments
+
+2005—Subsec. (c)(1). Pub. L. 109–8 substituted “section 11326(a)” for “section 11347”.
 
 1995—Subsecs. (b), (c)(1). Pub. L. 104–88 substituted “Board” for “Commission” wherever appearing.
 
 1980—Subsec. (c). Pub. L. 96–448 added subsec. (c).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1995 Amendment
 
@@ -67,6 +69,4 @@ Amendment by Pub. L. 96–448 effective Oct. 1, 1980, see section 710(a) of Pub.
 #### Nonapplication of Subsec. (c)
 
 For provision that subsec. (c) of this section does not apply to Amtrak and its employees, see section 142(d) of Pub. L. 105–134, set out in an Employee Protection Reforms note under section 24706 of Title 49, Transportation.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

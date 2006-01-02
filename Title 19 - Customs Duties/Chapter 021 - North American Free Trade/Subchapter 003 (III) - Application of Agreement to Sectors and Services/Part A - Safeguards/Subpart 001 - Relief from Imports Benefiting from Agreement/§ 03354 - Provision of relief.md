@@ -22,7 +22,7 @@ The import relief (including provisional relief) that the President is authorize
 
 &emsp;&emsp;&emsp;(ii) the column 1 general rate of duty imposed on like articles on December 31, 1988; or
 
-&emsp;&emsp;(C) in the case of a duty applied on a seasonal basis to such article, an increase in the rate of duty imposed on the article to a level that does not exceed the column 1 general rate of duty imposed on the article for the corresponding season occurring immediately before January 1, 1989.
+&emsp;&emsp;(C) in the case of a duty applied on a seasonal basis to such article, an increase in the rate of duty imposed on the article to a level that does not exceed the column 1 general rate of duty imposed on the article for thecorresponding season occurring immediately before January 1, 1989.
 
 &emsp;(2) In the case of imports of a Mexican article—
 

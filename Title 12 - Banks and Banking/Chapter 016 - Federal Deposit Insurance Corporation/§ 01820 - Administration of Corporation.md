@@ -126,7 +126,7 @@ In connection with examinations of insured depository institutions and any State
 
 #### (7) Separate examinations permitted
 
-&emsp;Notwithstanding paragraph (6), each appropriate Federal banking agency may conduct a separate examination in an emergency or under other exigent circumstances, or when the agency believes that a violation of law may have occurred.
+&emsp;Notwithstanding paragraph (6), each appropriate Federal banking agency may conduct aseparate examination in an emergency or under other exigent circumstances, or when the agency believes that a violation of law may have occurred.
 
 #### (8) Report
 
@@ -276,7 +276,7 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (3) Rules of construction
 
-&emsp;For purposes of this subsection, a foreign bank shall be deemed to control any branch or agency of the foreign bank, and a person shall be deemed to act as a consultant for a depository institution, depository institution holding company, or other company, only if such person directly works on matters for, or on behalf of, such depository institution, depositoryinstitution holding company, or other company.
+&emsp;For purposes of this subsection, a foreign bank shall be deemed to control any branch or agency of the foreign bank, and a person shall be deemed to act as a consultant for a depository institution, depository institution holding company, or other company, only if such person directly works on matters for, or on behalf of, such depository institution, depository institution holding company, or other company.
 
 #### (4) Regulations
 
@@ -330,9 +330,9 @@ Except to the extent that authority under this chapter is conferred on any of th
 
 #### (C) Definitions
 
-&emsp;&emsp;Solely for purposes of this paragraph, the “appropriate Federal banking agency” for a company that is not a depository institution or depository institution holding company shall be the Federal banking agency on whose behalf the person described in paragraph (1) performed the functions described in paragraph (1)(B).
+&emsp;&emsp;Solely for purposes of this paragraph, the “appropriate Federal banking agency” for acompany that is not a depository institution or depository institution holding company shall be the Federal banking agency on whose behalf the person described in paragraph (1) performed the functions described in paragraph (1)(B).
 
-(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221,2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751.)
+(Sept. 21, 1950, ch. 967, §2\[10\], 64 Stat. 882; Pub. L. 86–671, §4, July 14, 1960, 74 Stat. 551; Pub. L. 89–695, title II, §203, Oct. 16, 1966, 80 Stat. 1053; Pub. L. 91–452, title II, §208, Oct. 15, 1970, 84 Stat. 929; Pub. L. 95–369, §6(c)(16), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title III, §305, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 97–320, title I, §113(i), title IV, §410(g), Oct. 15, 1982, 96 Stat. 1474, 1520; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–73, title II, §§201(a), 210, Aug. 9, 1989, 103 Stat. 187, 217; Pub. L. 102–242, title I, §§111(a), 113(a), (b), (c)(2), title II, §203(c), title III, §302(d), Dec. 19, 1991, 105 Stat. 2240, 2246–2248, 2292, 2349; Pub. L. 102–550, title XVI, §§1603(b)(1), (4), 1604(a)(3), 1605(a)(4), Oct. 28, 1992, 106 Stat. 4078, 4079, 4082, 4085; Pub. L. 102–558, title III, §§303(b)(5), 305, Oct. 28, 1992, 106 Stat. 4225, 4226; Pub. L. 103–325, title III, §§305(a), 306, 349(a), title V, §529(a), title VI, §602(a)(19), (20), Sept. 23, 1994, 108 Stat. 2216, 2217, 2242, 2266, 2289; Pub. L. 103–328, title I, §105, Sept. 29, 1994, 108 Stat. 2357; Pub. L. 104–208, div. A, title II, §§2221, 2244, Sept. 30, 1996, 110 Stat. 3009–414, 3009–419; Pub. L. 108–386, §8(a)(3), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 108–458, title VI, §6303(b), Dec. 17, 2004, 118 Stat. 3751.)
 
 #### Prior Provisions
 
@@ -422,11 +422,11 @@ Subsec. (d). Pub. L. 101–73, §210(b)(2), struck out subsec. (d) which defined
 
 Subsec. (d). Pub. L. 97–320, §410(g), inserted “as in section 221a(b) of this title and”.
 
-1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank” and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
+1978—Subsec. (b). Pub. L. 95–630, §305(a), inserted “or other institution” after “any State nonmember bank”and struck out provisions that each claim agent have power to administer oaths and affirmations and to examine and to take and preserve testimony under oath as to any matter in respect to claims for insured deposits, and to issue subpenas and subpenas duces tecum, and, for the enforcement thereof, to apply to the United States district court for the judicial district or the United States court in any territory in which the main office of the bank or affiliate thereof is located, or in which the witness resides or carriers on business and that such courts have jurisdiction and power to order and require compliance with any such subpena.
 
 Pub. L. 95–369 inserted “any insured State branch of a foreign bank, any State branch of a foreign bank making application to become an insured bank” after “(except a District bank)”, inserted “or branch” after “and any closed insured bank”, substituted “any national bank, insured Federal branch of a foreign bank, or District bank” for “any national bank or District bank” and inserted “and in the case of a foreign bank, a binding commitment by such bank to permit such examination to the extent determined by the Board of Directors to be necessary to carry out the purposes of this chapter shall be required as a condition to the insurance of any deposits” after “effect of such relations upon such banks”.
 
-Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted references to State nonmember banks, other institutions making application to become insured banks, and investigations to determinecompliance with applicable law and regulations and struck out provisions defining “affiliate” and “member bank”.
+Subsec. (c). Pub. L. 95–630, §305(b), among other changes, inserted references to State nonmember banks, other institutions making application to become insured banks, and investigations to determine compliance with applicable law and regulations and struck out provisions defining “affiliate” and “member bank”.
 
 Subsec. (d). Pub. L. 95–630, §305(b), substituted provisions defining the terms “affiliate” and “member bank” for provisions relating to the enforcement of subpenas and orders.
 

@@ -70,7 +70,7 @@ Assistance.—The Assistance Board established under section 6.0 \[12 U.S.C. 227
 
 “(d)
 
-Initial Board.—Notwithstanding section 1.4 (as added by section 401 of this Act) \[12 U.S.C. 2012\], the initial board of each Farm Credit Bank shall be composed of the members of the district board (which is dissolved upon the creation of such bank) elected by the production credit associations, Federal land bank associations, and stockholders at large. Such initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter the board shall be elected and serve in accordance with the provisions of section 1.4 of the Farm Credit Act of 1971 \[12 U.S.C. 2012\].
+Initial Board.—Notwithstanding section 1.4 (as added by section 401 of this Act) \[12 U.S.C. 2012\], the initial board of each Farm Credit Bank shall be composed of the members of the district board (which is dissolved upon the creation of such bank) elected bythe production credit associations, Federal land bank associations, and stockholders at large. Such initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter the board shall be elected and serve in accordance with the provisions of section 1.4 of the Farm Credit Act of 1971 \[12 U.S.C. 2012\].
 
 “(e)
 
@@ -152,7 +152,7 @@ Compliance.—If the Farm Credit Administration grants an extension under clause
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is not complying with any term or condition on which an extension under clause (i) was conditioned; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is not pursuing in good faith the merger provided for in the letter of intent.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the Farm Credit Administration determines that the Federal Intermediate CreditBank of Jackson is not pursuing in good faith the merger provided for in the letter of intent.
 
 &emsp;&emsp;&nbsp;If the Farm Credit Administration issues an order under subparagraph (D) pursuant to this clause, the Federal Intermediate Credit Bank of Jackson shall be deemed to have failed to comply with the requirements of subparagraph (A).
 
@@ -242,7 +242,7 @@ Certification of plan.—Not later than 30 days after the receipt of the plan de
 
 &emsp;&emsp;&emsp;“(ii) recommend to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify,
 
-&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan asthe arbitrator deems appropriate to secure the certification.
+&nbsp;&nbsp;that the resulting bank and any resulting associations are proposed to be organized in such a fashion that they will, on implementation of the plan, operate in compliance with applicable laws and regulations. The arbitrator and the Farm Credit Administration shall work cooperatively to ensure the expeditious issuance of the certification. If the Farm Credit Administration recommends to the arbitrator revisions to the plan that, if incorporated into the plan, will allow the Farm Credit Administration to certify the plan, the arbitrator shall, not later than 15 days after receipt of the recommended revisions, incorporate the revisions into the plan as the arbitrator deems appropriate to secure the certification.
 
 &emsp;&emsp;“(F)
 
@@ -286,7 +286,7 @@ Publication of results.—The results of the vote under this subparagraph, as ta
 
 &emsp;&emsp;“(G)
 
-Implementation.—Not later than 10 days after the date of the receipt of the results of the referendum conducted under subparagraph (F), the Farm Credit Administration shall issue such charters or charter amendments and take such other regulatory actions as may be necessary to implement the merger or mergers as provided for under the certified plan. In this regard, the Farm Credit Administration shall—
+Implementation.—Not later than 10 days after the date of the receipt of the results of the referendum conducted under subparagraph (F), theFarm Credit Administration shall issue such charters or charter amendments and take such other regulatory actions as may be necessary to implement the merger or mergers as provided for under the certified plan. In this regard, the Farm Credit Administration shall—
 
 &emsp;&emsp;&emsp;“(i) issue a charter or charter amendment and take any such other regulatory actions as may be necessary to provide for the establishment of an agricultural credit association in each of the geographic areas described in subparagraph (F)(iii) where a majority of the farmer-borrowers of both the production credit association and the Federal land bank association voted under subparagraph (F)(i) that they preferred to have credit delivered through an agricultural credit association (which charter shall be subject to change thereafter in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) and any applicable regulations); and
 
@@ -318,7 +318,7 @@ Safety and soundness.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is beingoperated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
+In general.—Except as provided in clause (ii), if at any time prior to the completion of the merger required under this subsection the Farm Credit Administration determines that the Federal Intermediate Credit Bank of Jackson is being operated in an unsafe or unsound manner (as determined in accordance with the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)), the Farm Credit Administration, after consultation with the respective boards of directors of the affected banks and taking into consideration the purposes of this subsection, may require the Federal Intermediate Credit Bank of Jackson to merge with a Farm Credit Bank, subject to such terms and conditions as the Farm Credit Administration may prescribe. The Farm Credit System Insurance Corporation shall expend amounts in the Farm Credit Insurance Fund to the extent necessary to facilitate the merger prescribed under this subparagraph, including the provision of assistance as provided in section 5.61(a)(2)(A)(iii) of the Farm Credit Act of 1971 (12 U.S.C. 2277a–10(a)(2)(A)(iii)), on such terms and conditions as the Corporation deems appropriate.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -378,5 +378,5 @@ Procedures.—Notwithstanding the United States Arbitration Act (9 U.S.C. 1 et s
 
 &emsp;&emsp;&emsp;“(iii)
 
-Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soonas possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.”
+Expedited review.—Any such proceeding before the court shall be assigned for hearing and completed at the earliest possible date, and shall be expedited in every way. The court shall render its final decision relative to any challenge as soon as possible in accordance with the United States Arbitration Act (9 U.S.C. 1 et seq.), or not later than 30 days from the date the challenge is brought, whichever is sooner, unless the court determines that a longer period of time is required to satisfy the requirements of the Constitution.”
 

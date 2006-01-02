@@ -10,7 +10,7 @@ Proclamation.—The President is requested to issue each year a proclamation cal
 
 &emsp;(1) the people of the United States to observe National Pearl Harbor Remembrance Day with appropriate ceremonies and activities; and
 
-&emsp;(2) all departments, agencies, and instrumentalities of the United States Government, and interested organizations, groups, and individuals, to fly the flag of the United States at halfstaff each December 7 in honor of the individuals who died as a result of their service at Pearl Harbor.
+&emsp;(2) all departments, agencies, and instrumentalities of the United States Government, and interested organizations, groups, and individuals, to fly the flag of the United States athalfstaff each December 7 in honor of the individuals who died as a result of their service at Pearl Harbor.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1260.)
 

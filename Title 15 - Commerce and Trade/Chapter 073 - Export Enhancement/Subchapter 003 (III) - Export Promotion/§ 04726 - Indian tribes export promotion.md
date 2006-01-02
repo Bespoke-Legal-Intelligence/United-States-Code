@@ -18,7 +18,7 @@ The Secretary of Commerce shall provide technical assistance and support service
 
 #### (e) Limitation on assistance
 
-No assistance shall be provided under this section in support of any activity which includes the sale or marketing of any craft items other than authentic arts and crafts hand made or hand crafted by American Indian artisans.
+No assistance shall be provided under this section in support of any activity which includesthe sale or marketing of any craft items other than authentic arts and crafts hand made or hand crafted by American Indian artisans.
 
 (Pub. L. 100–418, title II, §2307, Aug. 23, 1988, 102 Stat. 1345.)
 

@@ -60,7 +60,7 @@ Rental rate.—The rental rate per square foot of occupiable space for all space
 
 &emsp;&emsp;(C)
 
-Obligation of amounts.—Obligation of amounts from the Federal Building Fundshall only be made on an annual basis to meet lease payments.
+Obligation of amounts.—Obligation of amounts from the Federal Building Fund shall only be made on an annual basis to meet lease payments.
 
 &emsp;(3)
 

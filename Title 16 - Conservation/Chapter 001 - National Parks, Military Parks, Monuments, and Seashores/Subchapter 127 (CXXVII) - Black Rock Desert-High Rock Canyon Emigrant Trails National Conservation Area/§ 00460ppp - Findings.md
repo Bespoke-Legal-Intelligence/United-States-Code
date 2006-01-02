@@ -2,7 +2,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) The areas of northwestern Nevada known as the Black Rock Desert and High Rock Canyon contain and surround the last nationally significant, untouched segments of the historic California emigrant Trails,<sup>1</sup> including wagon ruts, historic inscriptions, and a wilderness landscape largely unchanged since the days of the pioneers.
+&emsp;(1) The areas of northwestern Nevada known as the Black Rock Desert and High Rock Canyon contain and surround the last nationallysignificant, untouched segments of the historic California emigrant Trails,<sup>1</sup> including wagon ruts, historic inscriptions, and a wilderness landscape largely unchanged since the days of the pioneers.
 
 &emsp;(2) The relative absence of development in the Black Rock Desert and high <sup>2</sup> Rock Canyon areas from emigrant times to the present day offers a unique opportunity to capture the terrain, sights, and conditions of the overland trails as they were experienced by the emigrants and to make available to both present and future generations of Americans the opportunity of experiencing emigrant conditions in an unaltered setting.
 
@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(4) The Black Rock-High Rock region contains a number of cultural and natural resources that have been declared eligible for National Historic Landmark and Natural Landmark status, including a portion of the 1843–44 John Charles Fremont exploration route, the site of the death of Peter Lassen, early military facilities, and examples of early homesteading and mining.
 
-&emsp;(5) The archeological, paleontological, and geographical resources of the Black Rock-High Rock region include numerous prehistoric and historic Native American sites, wooly mammoth sites, some of the largest natural potholes of North America, and a remnant dryPleistocene lakebed (playa) where the curvature of the Earth may be observed.
+&emsp;(5) The archeological, paleontological, and geographical resources of the Black Rock-High Rock region include numerous prehistoric and historic Native American sites, wooly mammoth sites, some of the largest natural potholes of North America, and a remnant dry Pleistocene lakebed (playa) where the curvature of the Earth may be observed.
 
 &emsp;(6) The two large wilderness mosaics that frame the conservation area offer exceptional opportunities for solitude and serve to protect the integrity of the viewshed of the historic emigrant trails.
 

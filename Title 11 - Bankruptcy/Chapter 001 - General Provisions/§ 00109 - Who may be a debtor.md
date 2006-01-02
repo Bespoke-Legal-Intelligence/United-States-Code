@@ -6,9 +6,11 @@
 
 &emsp;(1) a railroad;
 
-&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under subsection (c) or (d) <sup>1</sup> of section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if apetition is filed at the direction of the Board of Governors of the Federal Reserve System; or
+&emsp;(2) a domestic insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958, a small business investment company licensed by the Small Business Administration under section 301 of the Small Business Investment Act of 1958, credit union, or industrial bank or similar institution which is an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act, except that an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor if a petition is filed at the direction of the Board of Governors of the Federal Reserve System; or
 
-&emsp;(3) a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.
+&emsp;(3)(A) a foreign insurance company, engaged in such business in the United States; or
+
+&emsp;(B) a foreign bank, savings bank, cooperative bank, savings and loan association, building and loan association, or credit union, that has a branch or agency (as defined in section 1(b) of the International Banking Act of 1978 <sup>1</sup> in the United States.
 
 (c) An entity may be a debtor under chapter 9 of this title if and only if such entity—
 
@@ -32,7 +34,7 @@
 
 (e) Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual's spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.
 
-(f) Only a family farmer with regular annual income may be a debtor under chapter 12 of this title.
+(f) Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 
 (g) Notwithstanding any other provision of this section, no individual or family farmer may be a debtor under this title who has been a debtor in a case pending under this title at any time in the preceding 180 days if—
 
@@ -40,7 +42,25 @@
 
 &emsp;(2) the debtor requested and obtained the voluntary dismissal of the case following the filing of a request for relief from the automatic stay provided by section 362 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665.)
+(h)(1) Subject to paragraphs (2) and (3), and notwithstanding any other provision of this section, an individual may not be a debtor under this title unless such individual has, during the 180-day period preceding the date of filing of the petition by such individual, received from an approved nonprofit budget and credit counseling agency described in section 111(a) an individual or group briefing (including a briefing conducted by telephone or on the Internet) that outlined the opportunities for available credit counseling and assisted such individual in performing a related budget analysis.
+
+(2)(A) Paragraph (1) shall not apply with respect to a debtor who resides in a district for which the United States trustee (or the bankruptcy administrator, if any) determines that the approved nonprofit budget and credit counseling agencies for such district are not reasonably able to provide adequate services to the additional individuals who would otherwise seek credit counseling from such agencies by reason of the requirements of paragraph (1).
+
+(B) The United States trustee (or the bankruptcy administrator, if any) who makes a determination described in subparagraph (A) shall review such determination not later than 1 year after the date of such determination, and not less frequently than annually thereafter. Notwithstanding the preceding sentence, a nonprofit budget and credit counseling agency may be disapproved by the United States trustee (or the bankruptcy administrator, if any) at any time.
+
+(3)(A) Subject to subparagraph (B), the requirements of paragraph (1) shall not apply with respect to a debtor who submits to the court a certification that—
+
+&emsp;(i) describes exigent circumstances that merit a waiver of the requirements of paragraph (1);
+
+&emsp;(ii) states that the debtor requested credit counseling services from an approved nonprofit budget and credit counseling agency, but was unable to obtain the services referred to in paragraph (1) during the 5-day period beginning on the date on which the debtor made that request; and
+
+&emsp;(iii) is satisfactory to the court.
+
+(B) With respect to a debtor, an exemption under subparagraph (A) shall cease to apply to that debtor on the date on which the debtor meets the requirements of paragraph (1), but in no case may the exemption apply to that debtor after the date that is 30 days after the debtor files a petition, except that the court, for cause, may order an additional 15 days.
+
+(4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2557; Pub. L. 97–320, title VII, §703(d), Oct. 15, 1982, 96 Stat. 1539; Pub. L. 98–353, title III, §§301, 425, July 10, 1984, 98 Stat. 352, 369; Pub. L. 99–554, title II, §253, Oct. 27, 1986, 100 Stat. 3105; Pub. L. 100–597, §2, Nov. 3, 1988, 102 Stat. 3028; Pub. L. 103–394, title I, §108(a), title II, §220, title IV, §402, title V, §501(d)(2), Oct. 22, 1994, 108 Stat. 4111, 4129, 4141, 4143; Pub. L. 106–554, §1(a)(5) \[title I, §112(c)(1), (2)\], §1(a)(8) \[§1(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–393, 2763A–665; Pub. L. 109–8, title I, §106(a), title VIII, §802(d)(1), title X, §1007(b), title XII, §1204(1), Apr. 20, 2005, 119 Stat. 37, 146, 188, 193.)
 
 #### Historical and Revision Notes
 
@@ -54,7 +74,7 @@ Section 109(e) represents a compromise between H.R. 8200 as passed by the House 
 
 #### senate report no. 95–989
 
-This section specifies eligibility to be a debtor under the bankruptcy laws. The first criterion, found in the current Bankruptcy Act section 2a(1) \[section 11(a)(1) of former title 11\] requires that the debtor reside or have a domicile, a place of business, or property in the United States.
+This section specifies eligibility to be a debtor under the bankruptcy laws. The first criterion, found in the current Bankruptcy Act section 2a(1) \[section 11(a)(1) offormer title 11\] requires that the debtor reside or have a domicile, a place of business, or property in the United States.
 
 Subsection (b) defines eligibility for liquidation under chapter 7. All persons are eligible except insurance companies, and certain banking institutions. These exclusions are contained in current law. However, the banking institution exception is expanded in light of changes in various banking laws since the current law was last amended on this point. A change is also made to clarify that the bankruptcy laws cover foreign banks and insurance companies not engaged in the banking or insurance business in the United States but having assets in the United States. Banking institutions and insurance companies engaged in business in this country are excluded from liquidation under the bankruptcy laws because they are bodies for which alternate provision is made for their liquidation under various State or Federal regulatory laws. Conversely, when a foreign bank or insurance company is not engaged in the banking or insurance business in the United States, then those regulatory laws do not apply, and the bankruptcy laws are the only ones available for administration of any assets found in United States.
 
@@ -78,7 +98,7 @@ Whether a small business operated by a husband and wife, the so-called “mom an
 
 Section 351 of the Small Business Investment Act of 1958, referred to in subsec. (b)(2), is classified to section 689 of Title 15, Commerce and Trade.
 
-Section 301 of the Small Business Investment Act of 1958, referred to in subsec. (b)(2), is classified to section 681 of Title 15, Commerce and Trade. Subsec. (d) of section 301 was repealed by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
+Section 301 of the Small Business Investment Act of 1958, referred to in subsec. (b)(2), is classified to section 681 of Title 15, Commerce and Trade.
 
 Section 3(h) of the Federal Deposit Insurance Act, referred to in subsec. (b)(2), is classified to section 1813(h) of Title 12, Banks and Banking.
 
@@ -86,7 +106,17 @@ Section 25A of the Federal Reserve Act, referred to in subsecs. (b)(2) and (d), 
 
 Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsecs. (b)(2) and (d), is classified to section 4422 of Title 12, Banks and Banking.
 
+Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b)(3)(B), is classified to section 3101 of Title 12, Banks and Banking.
+
 #### Amendments
+
+2005—Subsec. (b)(2). Pub. L. 109–8, §1204(1), struck out “subsection (c) or (d) of” before “section 301”.
+
+Subsec. (b)(3). Pub. L. 109–8, §802(d)(1), added par. (3) and struck out former par. (3) which read as follows: “a foreign insurance company, bank, savings bank, cooperative bank, savings and loan association, building and loan association, homestead association, or credit union, engaged in such business in the United States.”
+
+Subsec. (f). Pub. L. 109–8, §1007(b), inserted “or family fisherman” after “family farmer”.
+
+Subsec. (h). Pub. L. 109–8, §106(a), added subsec. (h).
 
 2000—Subsec. (b)(2). Pub. L. 106–554, §1(a)(8) \[§1(e)\], inserted “a New Markets Venture Capital company as defined in section 351 of the Small Business Investment Act of 1958,” after “homestead association,”.
 
@@ -116,6 +146,10 @@ Subsec. (f). Pub. L. 98–353, §301, added subsec. (f).
 
 1982—Subsec. (b)(2). Pub. L. 97–320 inserted reference to industrial banks or similar institutions which are insured banks as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -136,5 +170,5 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 For adjustment of dollar amounts specified in subsec. (e) of this section by the Judicial Conference of the United States, see notes set out under section 104 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

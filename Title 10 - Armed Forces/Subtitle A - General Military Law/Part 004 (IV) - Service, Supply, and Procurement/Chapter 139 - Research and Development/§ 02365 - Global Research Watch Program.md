@@ -12,7 +12,7 @@ Program Goals.—The goals of the program are as follows:
 
 &emsp;(2) To provide standards for comparison and comparative analysis of research capabilities of foreign nations in relation to the research capabilities of the United States.
 
-&emsp;(3) To assist Congress and Department of Defense officials in making investment decisions for research in technical areas where the United States may not be the global leader.
+&emsp;(3) To assist Congress and Department of Defense officials in making investment decisionsfor research in technical areas where the United States may not be the global leader.
 
 &emsp;(4) To identify areas where significant opportunities for cooperative research may exist.
 

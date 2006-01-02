@@ -54,7 +54,7 @@
 
 > the lump-sum credit shall be paid.
 
-(f) If all annuity rights under this chapter (other than under subchapter III of this chapter) based on the service of a deceased employee or Member terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid.
+(f) If all annuity rights under this chapter (other than under subchapter III of this chapter) based on the service of a deceased employee or Member terminate before the total annuity paidequals the lump-sum credit, the difference shall be paid.
 
 (g) If an annuitant dies, annuity accrued and unpaid shall be paid.
 

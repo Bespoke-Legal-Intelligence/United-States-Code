@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expendedby the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
+&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
 
 #### (ii) Redistribution
 
@@ -98,7 +98,7 @@ The Secretary shall be responsible for the proper administration of this section
 
 #### (g) Entitlement
 
-On or before the first day of October in each year after September 29, 1977, the Secretary shall ascertain whether each eligible institution is entitled to receive its share of the annual appropriations under this section and the amount which thereupon each is entitled, respectively, to receive.
+On or before the first day of October in each year after September 29, 1977, the Secretaryshall ascertain whether each eligible institution is entitled to receive its share of the annual appropriations under this section and the amount which thereupon each is entitled, respectively, to receive.
 
 #### (h) Existing legal relationships not impaired or modified
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 105–185, §225(b), inserted subsec. heading, designated e
 
 Subsec. (g). Pub. L. 105–362, §101(e)(1), struck out “(1)” before “On or before”.
 
-Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under theprovisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
+Subsec. (g)(2). Pub. L. 105–362, §101(e)(2), struck out par. (2) which read as follows: “The Secretary shall make an annual report to Congress during the first regular session of each year of the receipts and expenditures and work of the eligible institutions under the provisions of this section and also whether any portion of the appropriation available for allotment to any institution has been withheld and if so the reasons therefor.”
 
 Pub. L. 105–185, §226(b) redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “If it appears to the Secretary from the annual statement of receipts and expenditures of funds by any eligible institution that an amount in excess of 5 percent of the preceding annual appropriation allotted to that institution under this section remains unexpended, such amount in excess of 5 percent of the preceding annual appropriation allotted to that institution shall be deducted from the next succeeding annual allotment to the institution.”
 

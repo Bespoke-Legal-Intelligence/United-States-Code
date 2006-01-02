@@ -182,7 +182,7 @@ Subsec. (a)(14). Pub. L. 99–272, §11004(a)(2)–(4), added par. (14).
 
 Subsec. (a)(15) to (21). Pub. L. 99–272, §11004(a)(2)–(4), added pars. (15) to (21).
 
-Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck out amendments by Pub. L. 96–364, §402(a)(1)(F), which had been executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
+Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par. (1), added par. (2), and struck out amendments by Pub. L. 96–364, §402(a)(1)(F), which hadbeen executed by designating existing provisions as par. (1) and adding pars. (2) to (4). See 1980 Amendment note below. For successor provisions to former pars. (2), (3), and (4), see subsecs. (a)(15), (b)(2)(A), and (b)(2)(B), respectively.
 
 1980—Subsec. (a)(2). Pub. L. 96–364, §402(a)(1)(A), inserted provision excepting multiemployer plan.
 

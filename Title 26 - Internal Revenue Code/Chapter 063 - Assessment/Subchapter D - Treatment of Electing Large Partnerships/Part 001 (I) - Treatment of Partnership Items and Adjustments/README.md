@@ -12,10 +12,6 @@
 
 A prior subchapter D, Tax Treatment of Subchapter S Items, consisted of sections 6241 to 6245, prior to repeal by Pub. L. 104–188, title I, §1307(c)(1), Aug. 20, 1996, 110 Stat. 1781.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6012 of this title.
-
 
 ---
 

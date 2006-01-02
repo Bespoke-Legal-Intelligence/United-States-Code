@@ -2,7 +2,7 @@
 
 #### (a) Authority of Chairman of Council
 
-The Chairman of the Council is authorized to carry out and to delegate the authority to carry out the internal administration of the Council,including the appointment and supervision of employees and the distribution of business among members, employees, and administrative units.
+The Chairman of the Council is authorized to carry out and to delegate the authority to carry out the internal administration of the Council, including the appointment and supervision of employees and the distribution of business among members, employees, and administrative units.
 
 #### (b) Use of personnel, services, and facilities of Federal financial institutions regulatory agencies, Federal Reserve banks, and Federal Home Loan Banks
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) Interlocutory decrees of such district courts or the judges thereof determining the rights and liabilities of the parties to admiralty cases in which appeals from final decrees are allowed.
 
-(b) When a district judge, in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken from such order, if application is made to it within ten days after the entry of the order: <i>Provided, however</i>, That application for an appeal hereunder shall not stay proceedings in the district court unless the district judge or the Court of Appeals or a judge thereof shall so order.
+(b) When a district judge, in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken from such order, ifapplication is made to it within ten days after the entry of the order: <i>Provided, however</i>, That application for an appeal hereunder shall not stay proceedings in the district court unless the district judge or the Court of Appeals or a judge thereof shall so order.
 
 (c) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction—
 
@@ -24,7 +24,7 @@
 
 (4)(A) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of an appeal from an interlocutory order of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, granting or denying, in whole or in part, a motion to transfer an action to the United States Court of Federal Claims under section 1631 of this title.
 
-(B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken inthe district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
+(B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken in the district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
 
 (e) The Supreme Court may prescribe rules, in accordance with section 2072 of this title, to provide for an appeal of an interlocutory decision to the courts of appeals that is not otherwise provided for under subsection (a), (b), (c), or (d).
 
@@ -50,7 +50,7 @@ In subsection (4), which is based on section 227a of title 28, U.S.C., 1940 ed.,
 
 The provision of sections 227 and 227a of title 28, U.S.C., 1940 ed., that appeal must be taken within thirty days after entry of order, decree or judgment is incorporated in section 2107 of this title.
 
-The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay of proceedings pending appeal, were omitted as superseded by Rule 73 of the Federal Rules of Civil Procedure.
+The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay of proceedings pending appeal,were omitted as superseded by Rule 73 of the Federal Rules of Civil Procedure.
 
 The district courts for the districts of Hawaii and Puerto Rico are embraced in the term “district courts of the United States.” (See definitive section 451 of this title.) Consequently the specific reference in section 225 of title 28, U.S.C., 1940 ed., to “the United States district courts for Hawaii” was omitted.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc.No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 

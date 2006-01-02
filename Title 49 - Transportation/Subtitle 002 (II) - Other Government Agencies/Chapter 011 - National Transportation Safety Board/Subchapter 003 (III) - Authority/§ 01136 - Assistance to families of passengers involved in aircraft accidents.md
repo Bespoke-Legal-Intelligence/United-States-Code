@@ -44,7 +44,7 @@ Requests by designated organization.—The organization designated for an accide
 
 &emsp;(2)
 
-Use of information.—The director of family support services and the organization may not release to any person information on a list obtained under paragraph (1) but may provide information on the list about a passenger to the family of the passenger to the extent that the director of family support services or the organization considers appropriate.
+Use of information.—The director of family support services and the organization may not release to any person information on a list obtained under paragraph (1) but may provide information on the list about a passenger to the family of the passenger to the extent that the director of family supportservices or the organization considers appropriate.
 
 (e)
 

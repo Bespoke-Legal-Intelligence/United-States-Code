@@ -12,13 +12,13 @@
 
 (4) The Secretary of Defense shall ensure that no member of the armed forces, while providing assistance under this section that is described in subsection (e)(5)—
 
-&emsp;(A) engages in the physical detection, lifting, or destroying of landmines (unless the member does so for the concurrent purpose of supporting a United States military operation); or
+&emsp;(A) engages in the physical detection, lifting, or destroying of landmines or other explosive remnants of war (unless the member does so for the concurrent purpose of supporting a United States military operation); or
 
 &emsp;(B) provides such assistance as part of a military operation that does not involve the armed forces.
 
 (b)(1) Humanitarian and civic assistance may not be provided under this section to any foreign country unless the Secretary of State specifically approves the provision of such assistance.
 
-(2) Any authority provided under any other provision of law to provide assistance that is described in subsection (e)(5) to a foreign country shall be carried out in accordance with, and subject to, the limitations prescribed in this section. Any such provision may be construed as superseding a provision of this section only if, and to the extent that, such provision specifically refers to this section and specifically identifies the provision of this section that is to be considered superseded or otherwise inapplicable under such provision.
+(2) Any authority provided under any other provision of law to provide assistance that is described in subsection (e)(5) to a foreign country shall be carried out in accordance with, and subject to, the limitations prescribed in this section. Any such provision may be construed as superseding a provision of this section only if, and to the extent that, such provision specifically refers to this section and specifically identifies the provision of this section that is to beconsidered superseded or otherwise inapplicable under such provision.
 
 (c)(1) Expenses incurred as a direct result of providing humanitarian and civic assistance under this section to a foreign country shall be paid for out of funds specifically appropriated for such purpose.
 
@@ -26,9 +26,9 @@
 
 &emsp;(A) Travel, transportation, and subsistence expenses of Department of Defense personnel providing such assistance.
 
-&emsp;(B) The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting the activities described in subsection (e)(5), including any nonlethal, individual, or small-team landmine clearing equipment or supplies that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
+&emsp;(B) The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting the activities described in subsection (e)(5), including any nonlethal, individual, or small-team equipment or supplies for clearing landmines or other explosive remnants of war that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
 
-(3) The cost of equipment, services, and supplies provided in any fiscal year under paragraph (2)(B) may not exceed $5,000,000.
+(3) The cost of equipment, services, and supplies provided in any fiscal year under paragraph (2)(B) may not exceed $10,000,000.
 
 (4) Nothing in this section may be interpreted to preclude the incurring of minimal expenditures by the Department of Defense for purposes of humanitarian and civic assistance out of funds other than funds appropriated pursuant to paragraph (1), except that funds appropriated to the Department of Defense for operation and maintenance (other than funds appropriated pursuant to such paragraph) may be obligated for humanitarian and civic assistance under this section only for incidental costs of carrying out such assistance.
 
@@ -42,7 +42,7 @@
 
 (e) In this section, the term “humanitarian and civic assistance” means any of the following:
 
-&emsp;(1) Medical, dental, and veterinary care provided in areas of a country that are rural or are underserved by medical, dental, and veterinary professionals, respectively.
+&emsp;(1) Medical, surgical, dental, and veterinary care provided in areas of a country that are rural or are underserved by medical, surgical, dental, and veterinary professionals, respectively, including education, training, and technical assistance related to the care provided.
 
 &emsp;(2) Construction of rudimentary surface transportation systems.
 
@@ -50,11 +50,21 @@
 
 &emsp;(4) Rudimentary construction and repair of public facilities.
 
-&emsp;(5) Detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines.
+&emsp;(5) Detection and clearance of landmines and other explosive remnants of war, including activities relating to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war.
 
-(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331.)
+(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331; Pub. L. 108–375, div. A, title XII, §1221, Oct. 28, 2004, 118 Stat. 2089; Pub. L. 109–163, div. A, title XII, §1201, Jan. 6, 2006, 119 Stat. 3455.)
 
 #### Amendments
+
+2006—Subsec. (c)(3). Pub. L. 109–163, §1201(a), substituted “$10,000,000” for “$5,000,000”.
+
+Subsec. (e)(1). Pub. L. 109–163, §1201(b), inserted “surgical,” before “dental,” in two places and “, including education, training, and technical assistance related to the care provided” before period at end.
+
+2004—Subsec. (a)(4)(A). Pub. L. 108–375, §1221(b)(1), inserted “or other explosive remnants of war” after “landmines”.
+
+Subsec. (c)(2)(B). Pub. L. 108–375, §1221(b)(2), substituted “equipment or supplies for clearing landmines or other explosive remnants of war” for “landmine clearing equipment or supplies”.
+
+Subsec. (e)(5). Pub. L. 108–375, §1221(a), inserted “and other explosive remnants of war” after “landmines” in two places.
 
 2000—Subsec. (e)(1). Pub. L. 106–398 substituted “areas of a country that are rural or are underserved by medical, dental, and veterinary professionals, respectively” for “rural areas of a country”.
 
@@ -126,7 +136,7 @@ Notifications Regarding Humanitarian Relief.—Any notification provided to the 
 
 “(d)
 
-Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to the appropriate congressional committees a report on theactivities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547 \[now 2557\], and 2551 \[now 2561\] of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
+Report on Humanitarian Assistance Activities.—(1) The Secretary of Defense shall submit to the appropriate congressional committees a report on the activities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547 \[now 2557\], and 2551 \[now 2561\] of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
 
 “(2) The report shall be submitted at the same time that the President submits the budget for fiscal year 1995 to Congress pursuant to section 1105 of title 31, United States Code.
 
@@ -148,11 +158,15 @@ Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That whe
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 108–87, title VIII, §8009, Sept. 30, 2003, 117 Stat. 1073, provided that: “Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported as required by section 401(d) of title 10, United States Code: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
+Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, provided that: “Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported as required by section 401(d) of title 10, UnitedStates Code: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–287, title VIII, §8009, Aug. 5, 2004, 118 Stat. 971.
+
+Pub. L. 108–87, title VIII, §8009, Sept. 30, 2003, 117 Stat. 1073.
 
 Pub. L. 107–248, title VIII, §8009, Oct. 23, 2002, 116 Stat. 1538.
 

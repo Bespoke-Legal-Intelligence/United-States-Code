@@ -19,11 +19,13 @@
 | [2883\.](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md) | Department of Defense Housing Funds. |
 | [2883a.](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md) | Funds for housing allowances of members of the armed forces assigned to certain military family housing units. |
 | [2884\.](%C2%A7%2002884%20-%20Reports.md) | Reports. |
-| [2885\.](%C2%A7%2002885%20-%20Expiration%20of%20authority.md) | Expiration of authority. |
+| \[2885. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. B, title XXVIII, §2805(b)(2), Oct. 28, 2004, 118 Stat. 2122, struck out item 2885 “Expiration of authority”.
 
 2002—Pub. L. 107–314, div. B, title XXVIII, §§2802(b)(3), (c)(2), 2803(a)(2), Dec. 2, 2002, 116 Stat. 2703, 2705, struck out “to be constructed” after “Leasing of housing” in item 2874, struck out item 2879 “Interim leases”, and added item 2881a.
 
@@ -32,10 +34,6 @@
 2000—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2805(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415, added item 2872a.
 
 1999—Pub. L. 106–65, div. B, title XXVIII, §2803(h)(2), Oct. 5, 1999, 113 Stat. 849, added item 2875 and struck out former item 2875 “Investments in nongovernmental entities”.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2814 of this title; title 20 section 7703; title 42 sections 1758, 1786.
 
 
 ---
@@ -59,4 +57,4 @@ This subchapter is referred to in section 2814 of this title; title 20 section 7
 - [&sect; 02883 - Department of Defense Housing Funds](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md)
 - [&sect; 02883a - Funds for housing allowances of members of the armed forces assigned to certain military family housing units](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md)
 - [&sect; 02884 - Reports](%C2%A7%2002884%20-%20Reports.md)
-- [&sect; 02885 - Expiration of authority](%C2%A7%2002885%20-%20Expiration%20of%20authority.md)
+- [&sect; 02885 - Repealed. Pub. L. 108&#8211;375, div. B, title XXVIII, &sect;2805(b)(1), Oct. 28, 2004, 118 Stat. 2122](%C2%A7%2002885%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72805%28b%29%281%29%2C%20Oct.%2028%2C%202004%2C%20118%20Stat.%202122.md)

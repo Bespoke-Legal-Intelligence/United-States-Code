@@ -20,7 +20,7 @@ The Director may, to the extent provided in appropriation Acts, establish and co
 
 &emsp;&emsp;(A) on-balance-sheet assets of the enterprise, as determined in accordance with generally accepted accounting principles;
 
-&emsp;&emsp;(B) the unpaid principal balance of outstanding mortgage-backed securities issued or guaranteed by the enterprise that are not included in subparagraph (A); and
+&emsp;&emsp;(B) the unpaid principal balance of outstanding mortgage-backed securities issuedor guaranteed by the enterprise that are not included in subparagraph (A); and
 
 &emsp;&emsp;(C) other off-balance-sheet obligations as determined by the Director.
 
@@ -34,7 +34,7 @@ If any amount from any annual assessment collected from an enterprise remains un
 
 #### (e) Initial special assessment
 
-Not later than the expiration of the 30-day period beginning on October 28, 1992, the enterprises shall each pay into the Federal Housing Enterprises Oversight Fund established under subsection (f) of this section an initial assessment of $1,500,000 to cover the startup costs of the Office, including space and modifications thereof, capital equipment, supplies, recruitment, and activities of the Office during the period preceding the first annual assessment under subsection (a) of this section. Any amounts collected from an enterprise under this subsection shall be credited against the first annual assessment collected pursuant to subsection (a) of thissection, and are hereby appropriated, and shall be available and used, without fiscal year limitation, as provided in this section.
+Not later than the expiration of the 30-day period beginning on October 28, 1992, the enterprises shall each pay into the Federal Housing Enterprises Oversight Fund established under subsection (f) of this section an initial assessment of $1,500,000 to cover the startup costs of the Office, including space and modifications thereof, capital equipment, supplies, recruitment, and activities of the Office during the period preceding the first annual assessment under subsection (a) of this section. Any amounts collected from an enterprise under this subsection shall be credited against the first annual assessment collected pursuant to subsection (a) of this section, and are hereby appropriated, and shall be available and used, without fiscal year limitation, as provided in this section.
 
 #### (f) Fund
 

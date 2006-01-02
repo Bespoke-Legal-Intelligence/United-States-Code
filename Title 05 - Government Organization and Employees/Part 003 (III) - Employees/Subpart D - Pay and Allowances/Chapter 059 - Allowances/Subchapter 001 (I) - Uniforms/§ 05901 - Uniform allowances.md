@@ -78,7 +78,7 @@ The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the 
 
 1992—Subsec. (a)(1), (2). Pub. L. 102–378 substituted “5902)” for “5902).”
 
-1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessaryto carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
+1990—Subsec. (a). Pub. L. 101–509, §529 \[title II, §202(a)(1)\], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
 
 Subsec. (a)(1), (2). Pub. L. 101–509, §529 \[title II, §202(a)(2)\], substituted “$400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).” for “$125 a year”.
 

@@ -26,7 +26,7 @@
 
 &emsp;(A) the annuity of the former spouse shall commence on the date the participant would qualify, on the basis of his or her creditable service, for an annuity under this subchapter (other than a disability annuity) or the date the disability annuity begins, whichever is later, and
 
-&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of theannuity for which the participant would otherwise so qualify.
+&emsp;(B) the amount of the annuity of the former spouse shall be calculated on the basis of the annuity for which the participant would otherwise so qualify.
 
 (6)(A) Except as provided in subparagraph (B), any former spouse who becomes entitled to receive any benefit under this part which would otherwise be payable to a participant or former participant shall be entitled to make any election regarding method of payment to such former spouse that such participant would have otherwise been entitled to elect, and the participant may elect an alternate method for the remaining share of such benefits. Such elections shall not increase the actuarial present value of benefits expected to be paid under this part.
 
@@ -58,7 +58,7 @@ If a member becomes a participant under this part after qualifying for benefits 
 
 If a participant dies after completing at least 18 months of service or a former participant dies entitled to a deferred annuity, but before becoming eligible to receive the annuity, and such participant or former participant has left with the Secretary of State a spousal agreement promising a share of a survivor annuity under subchapter IV, chapter 84, title 5, to a former spouse, such survivor annuity shall be paid under the terms of this part as if the survivor annuity had been ordered by a court.
 
-(Pub. L. 96–465, title I, §861, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 619; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title IV, §407, Oct. 27, 1986, 100 Stat. 3139.)
+(Pub. L. 96–465, title I, §861, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 619; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 99–556, title IV, §407, Oct. 27, 1986, 100 Stat. 3139.)
 
 #### Amendments
 

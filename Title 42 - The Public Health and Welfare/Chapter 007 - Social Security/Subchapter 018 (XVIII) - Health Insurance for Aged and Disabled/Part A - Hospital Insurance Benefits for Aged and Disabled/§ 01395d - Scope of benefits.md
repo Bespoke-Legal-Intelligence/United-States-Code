@@ -36,7 +36,7 @@ Payment under this part for services furnished an individual during a spell of i
 
 #### (c) Inpatients of psychiatric hospitals
 
-If an individual is an inpatient of a psychiatric hospital on the first day of the first month for which he is entitled to benefits under this part, the days on which he was an inpatient of such a hospital in the 150-day period immediately before such first day shall be included in determining the number of days limit under subsection (b)(1) of this section insofar as such limit applies to (1) inpatient psychiatric hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosis or treatment of mental illness (but shall not be included in determining such number of days limit insofar as it applies to other inpatient hospital services or in determining the 190-day limit under subsection (b)(3) of this section).
+If an individual is an inpatient of a psychiatric hospital on the first day of the first month for which he is entitled to benefits under this part, the days on which he was an inpatient of such a hospital in the 150-day period immediately before such first day shall be included in determining the number of days limit under subsection (b)(1) of this section insofar as such limit applies to (1) inpatient psychiatric hospital services, or (2) inpatient hospital services for an individual who is an inpatient primarily for the diagnosisor treatment of mental illness (but shall not be included in determining such number of days limit insofar as it applies to other inpatient hospital services or in determining the 190-day limit under subsection (b)(3) of this section).
 
 #### (d) Hospice care; election; waiver of rights; revocation; change of election
 
@@ -70,7 +70,7 @@ For purposes of subsections (b) and (c) of this section, inpatient hospital serv
 
 #### (f) Coverage of extended care services without regard to three-day prior hospitalization requirement
 
-(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are notpost-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
+(1) The Secretary shall provide for coverage, under clause (B) of subsection (a)(2) of this section, of extended care services which are not post-hospital extended care services at such time and for so long as the Secretary determines, and under such terms and conditions (described in paragraph (2)) as the Secretary finds appropriate, that the inclusion of such services will not result in any increase in the total of payments made under this subchapter and will not alter the acute care nature of the benefit described in subsection (a)(2) of this section.
 
 (2) The Secretary may provide—
 
@@ -226,7 +226,7 @@ In general.—Except as provided in paragraph (2) and subsection (b), the amendm
 
 “(2)
 
-Elimination of post-hospital requirement for extended care services.—The amendments made bythis subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
+Elimination of post-hospital requirement for extended care services.—The amendments made by this subtitle, insofar as they eliminate the requirement (under section 1812(a)(2) of the Social Security Act \[subsec. (a)(2) of this section\]) that extended care services are only covered under title XVIII of such Act \[this subchapter\] if they are post-hospital extended care services, shall only apply to extended care services furnished pursuant to an admission to a skilled nursing facility occurring on or after January 1, 1989.”
 
 #### Effective Date of 1983 Amendment
 
@@ -248,7 +248,7 @@ Section 931(e) of Pub. L. 96–499 provided that: “The amendments made by subs
 
 #### Effective Date of 1968 Amendment
 
-Section 129(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 426, 1395e, 1395f, 1395k, 1395<i>l</i>, 1395n, 1395x, and 1395cc of this title and section 228s–2 of Title 45, Railroads\] shall apply with respect to services furnished after March 31, 1968, except that subsection (c)(5) of such section \[amending section 1395f of this title\] shall become effective with respect to services furnished after the date of enactment of this Act \[Jan. 2, 1968\].”
+Section 129(d) of Pub. L. 90–248 provided that: “The amendments made by this section \[amending this section and sections 426, 1395e, 1395f, 1395k, 1395<i>l</i>, 1395n, 1395x, and 1395cc of this title and section 228s–2 of Title 45, Railroads\] shall apply with respect to services furnished after March 31, 1968, except that subsection (c)(5) of such section \[amending section 1395f of this title\]shall become effective with respect to services furnished after the date of enactment of this Act \[Jan. 2, 1968\].”
 
 Section 137(c) of Pub. L. 90–248 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1395e of this title\] shall apply with respect to services furnished after December 31, 1967.”
 

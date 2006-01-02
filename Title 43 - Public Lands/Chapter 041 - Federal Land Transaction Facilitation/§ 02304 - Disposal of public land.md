@@ -12,7 +12,7 @@ The Secretary shall establish a program, using funds made available under sectio
 
 #### (2) Exceptions to competitive bidding requirements
 
-&emsp;The exceptions to competitive bidding requirements under section 1713(f) of this titleshall apply to this section in cases in which the Secretary determines it to be necessary.
+&emsp;The exceptions to competitive bidding requirements under section 1713(f) of this title shall apply to this section in cases in which the Secretary determines it to be necessary.
 
 #### (c) Report in Public Land Statistics
 

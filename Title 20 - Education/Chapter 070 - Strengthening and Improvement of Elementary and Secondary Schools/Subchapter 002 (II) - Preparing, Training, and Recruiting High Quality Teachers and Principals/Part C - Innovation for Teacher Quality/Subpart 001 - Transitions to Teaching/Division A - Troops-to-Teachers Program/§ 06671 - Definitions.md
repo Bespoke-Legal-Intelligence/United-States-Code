@@ -22,7 +22,7 @@ In this division:
 
 &emsp;&emsp;(B) the Army Reserve;
 
-&emsp;&emsp;(C) the Naval Reserve;
+&emsp;&emsp;(C) the Navy Reserve;
 
 &emsp;&emsp;(D) the Marine Corps Reserve;
 
@@ -44,13 +44,15 @@ In this division:
 
 &emsp;&emsp;(D) the Secretary of Homeland Security, with respect to matters concerning the Coast Guard Reserve.
 
-(Pub. L. 89–10, title II, §2301, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1648; amended Pub. L. 107–296, title XVII, §1704(e)(8), Nov. 25, 2002, 116 Stat. 2315.)
+(Pub. L. 89–10, title II, §2301, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1648; amended Pub. L. 107–296, title XVII, §1704(e)(8), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(g)(1), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### Prior Provisions
 
 A prior section 6671, Pub. L. 89–10, title II, §2301, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3633, set forth findings and purpose of former part relating to professional development demonstration project, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
+
+2006—Par. (4)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2002—Par. (5)(D). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 

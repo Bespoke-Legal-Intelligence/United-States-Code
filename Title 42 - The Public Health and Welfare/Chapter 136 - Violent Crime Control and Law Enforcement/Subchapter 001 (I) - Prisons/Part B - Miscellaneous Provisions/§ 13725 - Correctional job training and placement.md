@@ -10,7 +10,7 @@ As used in this section:
 
 #### (1) Correctional institution
 
-&emsp;The term “correctional institution” means any prison, jail, reformatory, work farm, detention center, or halfway house, or any othersimilar institution designed for the confinement or rehabilitation of criminal offenders.
+&emsp;The term “correctional institution” means any prison, jail, reformatory, work farm, detention center, or halfway house, or any other similar institution designed for the confinement or rehabilitation of criminal offenders.
 
 #### (2) Correctional job training or placement program
 

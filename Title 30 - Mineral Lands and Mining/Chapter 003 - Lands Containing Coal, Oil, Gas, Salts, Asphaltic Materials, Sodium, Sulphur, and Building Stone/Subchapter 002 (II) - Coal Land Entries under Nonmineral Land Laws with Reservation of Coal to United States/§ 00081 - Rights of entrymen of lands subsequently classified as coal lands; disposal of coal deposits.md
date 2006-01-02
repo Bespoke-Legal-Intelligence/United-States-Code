@@ -34,7 +34,7 @@ Application.—Subsection (a)—
 
 &emsp;“(5) shall not be construed to constitute a waiver of any rights of the United States with respect to coalbed methane production that is not subject to subsection (a); and
 
-&emsp;“(6) shall not limit the right of any person who entered into a contract or lease before the date of enactment of this Act \[Nov. 10, 1998\], or enters into a contract or lease on or after the date of enactment of this Act, for coal owned by the United States, to mine and remove the coal and to release coalbed methane without liability to any person referred to in subsection (a)(1)(A) or (a)(2).”
+&emsp;“(6) shall not limit the right of any person who entered into a contract or lease before the date of enactment of this Act \[Nov. 10, 1998\], or enters into a contract or lease on or after the date of enactment ofthis Act, for coal owned by the United States, to mine and remove the coal and to release coalbed methane without liability to any person referred to in subsection (a)(1)(A) or (a)(2).”
 
 Similar provisions were contained in Pub. L. 105–277, div. A, §101(e) \[title III, §349\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–300.
 

@@ -12,7 +12,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;(2) To increase the opportunities for small businesses (including socially and economically disadvantaged small business concerns and new small businesses) to use eligible facilities for those purposes.
 
-&emsp;(3) To maintain in the United States a work force having the skills in manufacturing processes that are necessary to meet industrial emergency planned requirements for national security purposes.
+&emsp;(3) To maintain in the United States a work force having the skills necessary to meet industrial emergency planned requirements for national security purposes.
 
 &emsp;(4) To demonstrate innovative business practices, to support Department of Defense acquisition reform, and to serve as both a model and a laboratory for future defense conversion initiatives of the Department of Defense.
 
@@ -34,7 +34,7 @@ Purposes.—The purposes of the ARMS Initiative are as follows:
 
 &emsp;(9) To foster cooperation between the Department of the Army, property managers, commercial interests, and State and local agencies in the implementation of sustainable development strategies and investment in eligible facilities made available for purposes of the ARMS Initiative.
 
-&emsp;(10) To reduce or eliminate the cost of asset disposal that would be incurred if property atan eligible facility was declared excess to the needs of the Department of the Army.
+&emsp;(10) To reduce or eliminate the cost of asset disposal that would be incurred if property at an eligible facility was declared excess to the needs of the Department of the Army.
 
 (c)
 
@@ -50,9 +50,11 @@ Program Support.—(1) Funds appropriated for purposes of the ARMS Initiative ma
 
 (2) A full annual accounting of such expenses for each fiscal year shall be provided to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives not later than March 30 of the following fiscal year.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–68; amended Pub. L. 108–178, §4(b)(5), Dec. 15, 2003, 117 Stat. 2641.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–68; amended Pub. L. 108–178, §4(b)(5), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–163, div. A, title III, §323(d), Jan. 6, 2006, 119 Stat. 3194.)
 
 #### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–163 struck out “in manufacturing processes that are” after “having the skills”.
 
 2003—Subsec. (d). Pub. L. 108–178 substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b),”.
 

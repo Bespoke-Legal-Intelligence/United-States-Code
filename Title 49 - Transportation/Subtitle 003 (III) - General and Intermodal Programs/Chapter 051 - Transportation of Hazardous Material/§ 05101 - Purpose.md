@@ -1,8 +1,8 @@
 ### §5101. Purpose
 
-The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation.
+The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 109–59, title VII, §7101(b), Aug. 10, 2005, 119 Stat. 1891.)
 
 Historical and Revision Notes
 
@@ -22,6 +22,16 @@ Jan. 3, 1975, Pub. L. 93–633, §102, 88 Stat. 2156.
 
 The words “It is declared to be the policy of Congress”, “the Nation”, and “which are” are omitted as surplus.
 
+#### Amendments
+
+2005—Pub. L. 109–59 substituted “The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce” for “The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation”.
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–59, title III, §3001, Aug. 10, 2005, 119 Stat. 1544, provided that: “This title \[see Tables for classification\] may be cited as the ‘Federal Public Transportation Act of 2005’.”
+
+Pub. L. 109–59, title VII, §7001, Aug. 10, 2005, 119 Stat. 1891, provided that: “This title \[see Tables for classification\] may be cited as the ‘Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–178, title III, §3001, June 9, 1998, 112 Stat. 338, provided that: “This title \[amending sections 5302 to 5305, 5307 to 5315, 5317 to 5320, 5323, 5325 to 5328, and 5333 to 5338 of this title and enacting provisions set out as notes under sections 301, 5301, 5307 to 5310, 5323, 5336, and 5338 of this title and sections 138 and 322 of Title 23, Highways\] may be cited as the ‘Federal Transit Act of 1998’.”
@@ -37,6 +47,20 @@ Pub. L. 103–311, title I, §101, Aug. 26, 1994, 108 Stat. 1673, provided that:
 #### Transfer of Functions
 
 For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
+
+#### Findings
+
+Pub. L. 109–59, title VII, §7101(a), Aug. 10, 2005, 119 Stat. 1891, provided that: “Congress finds with respect to hazardous materials transportation that—
+
+&emsp;“(1) approximately 4,000,000,000 tons of regulated hazardous materials are transported each year and approximately 1,200,000 movements of hazardous materials occur each day, according to Department of Transportation estimates;
+
+&emsp;“(2) the movement of hazardous materials in commerce is necessary to maintain economic vitality and meet consumer demands and must be conducted in a safe, secure, and efficient manner;
+
+&emsp;“(3) accidents involving, or unauthorized access to, hazardous materials in transportation may result in a release of such materials and pose a serious threat to public health and safety;
+
+&emsp;“(4) because of the potential risks to life, property, and the environment posed by unintentional releases of hazardous materials, consistency in laws and regulations governing the transportation of hazardous materials is necessary and desirable; and
+
+&emsp;“(5) in order to provide reasonable, adequate, and cost-effective protection from the risks posed by the transportation of hazardous materials, a network of well-trained State and local emergency response personnel and hazmat employees is essential.”
 
 #### Buy American
 

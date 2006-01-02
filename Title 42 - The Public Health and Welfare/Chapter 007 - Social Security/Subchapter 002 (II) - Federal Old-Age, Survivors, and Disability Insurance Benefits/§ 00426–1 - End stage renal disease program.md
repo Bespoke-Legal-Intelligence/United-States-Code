@@ -42,7 +42,7 @@ Notwithstanding the provisions of subsection (b) of this section—
 
 #### (c) <sup>1</sup> Continuing eligibility of certain terminated individuals
 
-For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
+For purposes of this section, each person whose monthly insurance benefit for any monthis terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c) <sup>2</sup> of this title shall be treated as entitled to such benefit for such month.
 
 (Aug. 14, 1935, ch. 531, title II, §226A, as added Pub. L. 95–292, §1(a), June 13, 1978, 92 Stat. 307; amended Pub. L. 97–248, title II, §278(b)(2)(C), Sept. 3, 1982, 96 Stat. 561; Pub. L. 97–448, title III, §309(b)(1), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 99–272, title XIII, §13205(b)(2)(B), Apr. 7, 1986, 100 Stat. 317; Pub. L. 103–296, title II, §201(a)(3)(D)(ii), Aug. 15, 1994, 108 Stat. 1497.)
 

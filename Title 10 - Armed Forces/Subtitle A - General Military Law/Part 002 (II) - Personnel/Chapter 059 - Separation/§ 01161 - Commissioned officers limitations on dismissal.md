@@ -8,7 +8,7 @@
 
 &emsp;(3) in time of war, by order of the President.
 
-(b) The President may drop from the rolls of any armed force any commissioned officer (1)who has been absent without authority for at least three months, (2) who may be separated under section 1167 of this title by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
+(b) The President may drop from the rolls of any armed force any commissioned officer (1) who has been absent without authority for at least three months, (2) who may be separated under section 1167 of this title by reason of a sentence to confinement adjudged by a court-martial, or (3) who is sentenced to confinement in a Federal or State penitentiary or correctional institution after having been found guilty of an offense by a court other than a court-martial or other military court, and whose sentence has become final.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 89; Pub. L. 104–106, div. A, title V, §563(b)(1), Feb. 10, 1996, 110 Stat. 325; Pub. L. 104–201, div. A, title X, §1074(a)(5), Sept. 23, 1996, 110 Stat. 2658.)
 
@@ -51,8 +51,4 @@ Sec. 2. A former retired officer covered by this Act is subject to the penal, pr
 “
 
 Sec. 3. Appropriations available for the payment of retired pay to members of the Armed Forces are available for payments under this Act.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12683 of this title; title 37 section 803; title 38 section 4304.
 

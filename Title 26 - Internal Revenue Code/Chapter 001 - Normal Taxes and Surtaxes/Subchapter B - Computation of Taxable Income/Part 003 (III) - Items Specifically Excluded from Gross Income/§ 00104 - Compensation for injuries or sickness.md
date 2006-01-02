@@ -14,7 +14,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 &emsp;(5) amounts received by an individual as disability income attributable to injuries incurred as a direct result of a terroristic or military action (as defined in section 692(c)(2)).
 
-> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
+> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not betreated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
 #### (b) Termination of application of subsection (a)(4) in certain cases
 
@@ -106,7 +106,7 @@ Subsecs. (b), (c). Pub. L. 94–455, §505(b), added subsec. (b), redesignated f
 
 #### Change of Name
 
-Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant tosection 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 FR 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 FR 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 FR 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes under section 311 of Title 15, Commerce and Trade.
 
@@ -169,8 +169,4 @@ Section 56(e) of Pub. L. 86–723 provided that: “The amendment made by sectio
 Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 22, 105, 130, 5891, 6051, 7701 of this title; title 10 section 1403.
 

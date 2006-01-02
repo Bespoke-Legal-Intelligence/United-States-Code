@@ -75,6 +75,7 @@
 | (b) | Compliance procedures available to Secretary. |
 | (c) | Civil action by Attorney General. |
 | (d) | Waiver of race discrimination prohibitions regarding assistance to Hawaiian Home Lands. |
+| (e) | Equal access. |
 | [5310\.](%C2%A7%2005310%20-%20Labor%20standards%3B%20rate%20of%20wages%3B%20exceptions%3B%20enforcement%20powers.md) | Labor standards; rate of wages; exceptions; enforcement powers. |
 | [5311\.](%C2%A7%2005311%20-%20Remedies%20for%20noncompliance%20with%20community%20development%20requirements.md) | Remedies for noncompliance with community development requirements. |
 | (a) | Notice and hearing; termination, reduction, or limitation of payments by Secretary. |

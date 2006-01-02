@@ -8,7 +8,7 @@ Not later than one hundred and twenty days after the close of each fiscal year, 
 
 &emsp;(2) statistical data collected under section 3012(a)(19) <sup>1</sup> of this title;
 
-&emsp;(3) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals with greatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
+&emsp;(3) statistical data and an analysis of information regarding the effectiveness of the State agency and area agencies on aging in targeting services to older individuals withgreatest economic need and older individuals with greatest social need, with particular attention to low-income minority individuals, older individuals residing in rural areas, low-income individuals, and frail individuals (including individuals with any physical or mental functional impairment); and
 
 &emsp;(4) a description of the implementation of the plan required by section 3012(a)(17) <sup>1</sup> of this title.
 
@@ -92,7 +92,7 @@ Subsec. (b)(1). Pub. L. 102–375, §208(b), substituted “March 1” for “Ja
 
 Subsec. (b)(1)(A). Pub. L. 102–375, §708(a)(2)(A)(i), substituted “subchapters III and XI of this chapter in accordance with section 3058g(c) of this title” for “section 3027(a)(12)(C) of this title”.
 
-Subsec. (b)(3). Pub. L. 102–375, §708(a)(2)(A)(ii)(I), substituted “under subchapters III and XI of this chapter in accordance with section 3058g(h)(1) of this title” for “by section 3027(a)(12)(H)(i) of this title”.
+Subsec. (b)(3). Pub. L. 102–375, §708(a)(2)(A)(ii)(I), substituted “under subchapters III and XI of this chapterin accordance with section 3058g(h)(1) of this title” for “by section 3027(a)(12)(H)(i) of this title”.
 
 Subsec. (b)(3)(E). Pub. L. 102–375, §708(a)(2)(A)(ii)(II), added subpar. (E) and struck out former subpar. (E) which read as follows: “the public agencies and private organizations designated under section 3027(a)(12)(A) of this title.”
 
@@ -126,7 +126,7 @@ Amendment by section 708(a)(2)(A) and (c)(2) of Pub. L. 102–375 inapplicable w
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title andapproved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
+Amendment by Pub. L. 100–175 effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as a note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

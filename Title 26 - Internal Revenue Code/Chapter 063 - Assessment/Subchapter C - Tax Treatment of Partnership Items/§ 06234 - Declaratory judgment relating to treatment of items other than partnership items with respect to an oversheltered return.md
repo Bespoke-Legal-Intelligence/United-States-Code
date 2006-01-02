@@ -22,7 +22,7 @@ For purposes of this section, the term “oversheltered return” means an incom
 
 #### (c) Judicial review in the Tax Court
 
-Within 90 days, or 150 days if the notice is addressed to a person outside the United States, after the day on which the notice of adjustment authorized in subsection (a) is mailed to the taxpayer, the taxpayer may file a petition with the Tax Court for redetermination of the adjustments. Upon the filing of such a petition, the Tax Court shall have jurisdiction to make a declaration with respect to all items (other than partnership items and affected items which require partner level determinations as described in section 6230(a)(2)(A)(i)) for the taxable year to which the notice of adjustment relates, in accordance with the principles of section 6214(a). Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
+Within 90 days, or 150 days if the notice is addressed to a person outside the United States, after the day on which the notice of adjustment authorized in subsection (a) is mailed to the taxpayer, the taxpayer may file a petition with the Tax Court for redetermination of the adjustments. Upon the filing of such a petition, the Tax Court shall have jurisdiction to make a declaration with respect to all items (other than partnership items and affected items which require partner level determinations as described in section 6230(a)(2)(A)(i)) for the taxable year to which the notice of adjustment relates, in accordance with the principles of section 6214(a).Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
 
 #### (d) Failure to file petition
 
@@ -48,7 +48,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 #### (2) Suspension when Secretary mails notice of adjustment
 
-&emsp;If the Secretary mails a notice of adjustment to the taxpayer for a taxable year, theperiod of limitations on the making of assessments shall be suspended for the period during which the Secretary is prohibited from making the assessment (and, in any event, if a proceeding in respect of the notice of adjustment is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+&emsp;If the Secretary mails a notice of adjustment to the taxpayer for a taxable year, the period of limitations on the making of assessments shall be suspended for the period during which the Secretary is prohibited from making the assessment (and, in any event, if a proceeding in respect of the notice of adjustment is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
 
 #### (3) Restrictions on assessment
 
@@ -119,8 +119,4 @@ Amendment by Pub. L. 107–147 applicable with respect to settlement agreements 
 #### Effective Date
 
 Section applicable to partnership taxable years ending after Aug. 5, 1997, see section 1231(d) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 6211 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6501, 7459, 7482 of this title.
 

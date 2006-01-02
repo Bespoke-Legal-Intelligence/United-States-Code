@@ -8,7 +8,7 @@
 
 &emsp;(3) that American folklife has a fundamental influence on the desires, beliefs, values, and character of the American people;
 
-&emsp;(4) that it is appropriate and necessary for the Federal Government to support research and scholarship in American folklife in order to contribute to an understanding of the complex problems of the basic desires, beliefs, and values of the American people in both rural and urban areas;
+&emsp;(4) that it is appropriate and necessary for the Federal Government to support researchand scholarship in American folklife in order to contribute to an understanding of the complex problems of the basic desires, beliefs, and values of the American people in both rural and urban areas;
 
 &emsp;(5) that the encouragement and support of American folklife, while primarily a matter for private and local initiative, is also an appropriate matter of concern to the Federal Government; and
 

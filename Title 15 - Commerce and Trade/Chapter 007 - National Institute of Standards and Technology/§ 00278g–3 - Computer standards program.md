@@ -32,7 +32,7 @@ In developing standards and guidelines required by subsections (a) and (b) of th
 
 &emsp;(1) consult with other agencies and offices (including, but not limited to, the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the Government Accountability Office, and the Secretary of Homeland Security) to assure—
 
-&emsp;&emsp;(A) use of appropriate information security policies, procedures, and techniques, in order to improve information security andavoid unnecessary and costly duplication of effort; and
+&emsp;&emsp;(A) use of appropriate information security policies, procedures, and techniques, in order to improve information security and avoid unnecessary and costly duplication of effort; and
 
 &emsp;&emsp;(B) that such standards and guidelines are complementary with standards and guidelines employed for the protection of national security systems and information contained in such systems;
 
@@ -78,7 +78,7 @@ The Institute shall—
 
 &emsp;(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by section 278g–4 of this title, regarding standards and guidelines developed under subsection (a) of this section and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
 
-&emsp;(9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
+&emsp;(9) prepare an annual public report on activities undertaken in the previous year, andplanned for the coming year, to carry out responsibilities under this section.
 
 #### (e) Definitions
 

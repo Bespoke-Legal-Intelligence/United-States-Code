@@ -8,7 +8,7 @@ Minimum Safety Standards.—Subject to section 30103(a) of this title, the Secre
 
 &emsp;(2) the responsibilities imposed on operators of commercial motor vehicles do not impair their ability to operate the vehicles safely;
 
-&emsp;(3) the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and
+&emsp;(3) the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely and the periodic physical examinations required of such operators are performed by medical examiners who have received training in physical and medical examination standards and, after the national registry maintained by the Department of Transportation under section 31149(d) is established, are listed on such registry; and
 
 &emsp;(4) the operation of commercial motor vehicles does not have a deleterious effect on the physical condition of the operators.
 
@@ -42,7 +42,7 @@ Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) Th
 
 &emsp;(B) waive application to a person or commercial motor vehicle of a regulation related to commercial motor vehicle safety only because the operations of the person or vehicle are entirely in a municipality or commercial zone of a municipality.
 
-(2) If a person was authorized to operate a commercial motor vehicle in a municipality orcommercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
+(2) If a person was authorized to operate a commercial motor vehicle in a municipality or commercial zone of a municipality in the United States for the entire period from November 19, 1987, through November 18, 1988, and if the person is otherwise qualified to operate a commercial motor vehicle, the person may operate a commercial motor vehicle entirely in a municipality or commercial zone of a municipality notwithstanding—
 
 &emsp;(A) paragraph (1) of this subsection;
 
@@ -60,7 +60,7 @@ Limitations on Municipality and Commercial Zone Exemptions and Waivers.—(1) Th
 
 (3) This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(60), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title IV, §4007(c), June 9, 1998, 112 Stat. 403.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1003; Pub. L. 104–59, title III, §344, Nov. 28, 1995, 109 Stat. 610; Pub. L. 104–287, §5(60), Oct. 11, 1996, 110 Stat. 3394; Pub. L. 105–178, title IV, §4007(c), June 9, 1998, 112 Stat. 403; Pub. L. 109–59, title IV, §4116(b), Aug. 10, 2005, 119 Stat. 1728.)
 
 Historical and Revision Notes
 
@@ -110,43 +110,29 @@ In subsection (f)(2)(C)(i), the words “an operator” are substituted for “s
 
 #### Amendments
 
+2005—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and”.
+
 1998—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
 
 1996—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted “November 28, 1995” for “the date of the enactment of this paragraph”.
 
 1995—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
+#### Hours of Service Rules for Operators Providing Transportation to Movie Production Sites
+
+Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: “Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003.”
+
+#### Interstate Van Operations
+
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled.”
+
 #### Authority To Promulgate Safety Standards for Retrofitting
 
 Pub. L. 106–159, title I, §101(f), Dec. 9, 1999, 113 Stat. 1752, provided that: “The authority under title 49, United States Code, to promulgate safety standards for commercial motor vehicles and equipment subsequent to initial manufacture is vested in the Secretary and may be delegated.”
 
-#### Protection of Existing Exemptions
+#### Certain Exemptions
 
-Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made by this section \[amending this section and section 31315 of this title\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or section 31136(e) of title 49, United States Code.”
-
-#### Application of Regulations to Certain Commercial Motor Vehicles
-
-Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: “Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations.”
-
-#### Improved Interstate School Bus Safety
-
-Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
-
-#### Federal Highway Administration Rulemaking
-
-Pub. L. 104–88, title IV, §408, Dec. 29, 1995, 109 Stat. 958, provided that:
-
-“(a)
-
-Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10 hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
-
-“(b)
-
-Rulemaking.—The Federal Highway Administration shall issue a notice of proposed rulemaking dealing with such issues within 1 year after issuance of the advance notice under subsection (a) is published and shall issue a final rule dealing with those issues within 2 years after the last day of such 1-year period.”
-
-#### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
-
-Section 345 of Pub. L. 104–59 provided that:
+Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749, provided that:
 
 “(a)
 
@@ -154,11 +140,11 @@ Exemptions.—
 
 &emsp;“(1)
 
-Transportation of agricultural commodities and farm supplies.—Regulations prescribed by theSecretary under sections 31136 and 31502 of title 49, United States Code, regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies and is during the planting and harvesting seasons within such State, as determined by the State.
+Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to drivers transporting agricultural commodities or farm supplies for agricultural purposes in a State if such transportation is limited to an area within a 100 air mile radius from the source of the commodities or the distribution point for the farm supplies.
 
 &emsp;“(2)
 
-Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time.
+Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence \[Aug. 10, 2005\], no additional off-duty time shall be required in order to operate such vehicle.
 
 &emsp;“(3)
 
@@ -166,7 +152,15 @@ Transportation of construction materials and equipment.—Such regulations shall
 
 &emsp;“(4)
 
-Drivers of utility service vehicles.—Such regulations shall, in the case of a driver of a utility service vehicle, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time.
+Operators of utility service vehicles.—
+
+&emsp;&emsp;“(A)
+
+Inapplicability of federal regulations.—Such regulations shall not apply to a driver of a utility service vehicle.
+
+&emsp;&emsp;“(B)
+
+Prohibition on state regulations.—A State, a political subdivision of a State, an interstate agency, or other entity consisting of two or more States, shall not enact or enforce any law, rule, regulation, or standard that imposes requirements on a driver of a utility service vehicle that are similar to the requirements contained in such regulations.
 
 &emsp;“(5)
 
@@ -174,11 +168,11 @@ Snow and ice removal.—A State may waive the requirements of chapter 313 of tit
 
 “(b)
 
-Preemption.—Nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section.
+Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section.
 
 “(c)
 
-Review by the Secretary.—The Secretary may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (2)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier.
+Review by the Secretary.—The Secretary \[of Transportation\] may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (1), (2), or (4)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier.
 
 “(d)
 
@@ -218,9 +212,53 @@ Utility service vehicle.—The term ‘utility service vehicle’ means any comm
 
 &emsp;&emsp;“(C) except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
+&emsp;“(7)
+
+Agricultural commodity.—The term ‘agricultural commodity’ means any agricultural commodity, non-processed food, feed, fiber, or livestock (including livestock as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471) and insects).
+
+&emsp;“(8)
+
+Farm supplies for agricultural purposes.—The term ‘farm supplies for agricultural purposes’ means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year.
+
 “(f)
 
-Effective Date.—Subsection (a) of this section shall take effect on the 180th day following the date of the enactment of this Act \[Nov. 28, 1995\]; except that paragraphs (1) and (2) of subsection (a) shall take effect on such date of enactment.”
+Emergency Condition Requiring Immediate Response.—
+
+&emsp;“(1)
+
+Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response.
+
+&emsp;“(2)
+
+Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
+
+#### Protection of Existing Exemptions
+
+Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made by this section \[amending this section and section 31315 of this title\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or section 31136(e) of title 49, United States Code.”
+
+#### Application of Regulations to Certain Commercial Motor Vehicles
+
+Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: “Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations.”
+
+#### Improved Interstate School Bus Safety
+
+Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii),Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
+
+#### Federal Highway Administration Rulemaking
+
+Pub. L. 104–88, title IV, §408, Dec. 29, 1995, 109 Stat. 958, provided that:
+
+“(a)
+
+Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10 hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
+
+“(b)
+
+Rulemaking.—The Federal Highway Administration shall issue a notice of proposed rulemaking dealing with such issues within 1 year after issuance of the advance notice under subsection (a) is published and shall issue a final rule dealing with those issues within 2 years after the last day of such 1-year period.”
+
+#### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
+
+Pub. L. 104–59, title III, §345, Nov. 28, 1995, 109 Stat. 613, which related to exemption from certain regulatory or statutory requirements for transportation of agricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by Pub. L. 109–59, title IV, §4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of former section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out above.
 
 #### Winter Home Heating Oil Delivery State Flexibility Program
 

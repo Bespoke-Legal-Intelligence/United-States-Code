@@ -76,7 +76,3 @@ Subsec. (d)(2)(B). Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(8)\], subst
 
 Section applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as an Effective Date of 1996 Amendment note under section 62 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 106, 4980G of this title.
-

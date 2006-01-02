@@ -22,7 +22,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 (1) Each State agency and each grantee under subchapter X of this chapter shall be entitled to use all or any part of amounts allotted under subsection (b) of this section to obtain from the Secretary of Agriculture commodities available through any Federal food commodity processing program, at the rates at which such commodities are valued for purposes of such program.
 
-(2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (if any) of its allotment under subsection (b) of this section which each State agency and subchapter X grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or subchapter X grantee under this subsection bears to the total value of commodities so received.
+(2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (ifany) of its allotment under subsection (b) of this section which each State agency and subchapter X grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or subchapter X grantee under this subsection bears to the total value of commodities so received.
 
 (3) From the allotment under subsection (b) of this section for each State agency and subchapter X grantee, the Secretary shall first reimburse the Secretary of Agriculture for costs of commodities received by such State agency or grantee under this subsection, and shall then pay the balance (if any) to such State agency or grantee.
 
@@ -86,7 +86,7 @@ Subsec. (f). Pub. L. 106–501, §309(2), redesignated subsec. (d) as (f).
 
 1993—Subsec. (a)(4)(B). Pub. L. 103–171 substituted “Assistant Secretary for Aging” for “Commissioner”.
 
-1992—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and, in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
+1992—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and,in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
 
 Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted “$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989, $183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991”.
 
@@ -108,7 +108,7 @@ Subsec. (c)(1)(A). Pub. L. 99–269, §3(b), amended subpar. (A) generally. Prio
 
 Subsec. (d). Pub. L. 99–269, §4, added subsec. (d).
 
-1984—Subsec. (a)(4). Pub. L. 98–459, §310(a)(1), (2), substituted “subsection (c) of this section” for “subsection\(d) of this section” and “Consumer Price Index for All Urban Consumers” for “Consumer Price Index”.
+1984—Subsec. (a)(4). Pub. L. 98–459, §310(a)(1), (2), substituted “subsection (c) of this section” for “subsection (d) of this section” and “Consumer Price Index for All Urban Consumers” for “Consumer Price Index”.
 
 Subsec. (c). Pub. L. 98–459, §310(b)(1), which directed the amendment of this section by redesignating subsec. (d)(1) as (c)(1), was executed by redesignating subsec. (d) as (c) to reflect the probable intent of Congress.
 

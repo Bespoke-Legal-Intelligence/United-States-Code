@@ -22,3 +22,61 @@ Provisions comprising this section were formerly classified to section 1762(f) o
 
 1978—Pub. L. 95–501, §401(4), substituted “this section” for “this subsection” in four places. See Codification note above.
 
+#### Availability of Funds
+
+Pub. L. 109–97, title VII, §707, Nov. 10, 2005, 119 Stat. 2150, provided that: “Hereafter, not to exceed $50,000 in each fiscal year of the funds appropriated by this or any other Appropriations Act to the Department of Agriculture (excluding the Forest Service) shall be available to provide appropriate orientation and language training pursuant to section 606C of the Act of August 28, 1954 (7 U.S.C. 1766b).”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. A, title VII, §707, Dec. 8, 2004, 118 Stat. 2839.
+
+Pub. L. 108–199, div. A, title VII, §707, Jan. 23, 2004, 118 Stat. 32.
+
+Pub. L. 108–7, div. A, title VII, §707, Feb. 20, 2003, 117 Stat. 38.
+
+Pub. L. 107—76, title VII, §707, Nov. 28, 2001, 115 Stat. 732.
+
+Pub. L. 106—387, §1(a) \[title VII, §707\], Oct. 28, 2000, 114 Stat. 1549, 1549A–29.
+
+Pub. L. 106–78, title VII, §707, Oct. 22, 1999, 113 Stat. 1161.
+
+Pub. L. 105–277, div. A, §101(a) \[title VII, §707\], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
+
+Pub. L. 105–86, title VII, §707, Nov. 18, 1997, 111 Stat. 2105.
+
+Pub. L. 104–180, title VII, §707, Aug. 6, 1996, 110 Stat. 1597.
+
+Pub. L. 104–37, title VII, §707, Oct. 21, 1995, 109 Stat. 329.
+
+Pub. L. 103–330, title VII, §707, Sept. 30, 1994, 108 Stat. 2467.
+
+Pub. L. 103–111, title VII, §708, Oct. 21, 1993, 107 Stat. 1078.
+
+Pub. L. 102–341, title VII, §708, Aug. 14, 1992, 106 Stat. 907.
+
+Pub. L. 102–142, title VII, §710, Oct. 28, 1991, 105 Stat. 912.
+
+Pub. L. 101–506, title VI, §610, Nov. 5, 1990, 104 Stat. 1347.
+
+Pub. L. 101–161, title VI, §610, Nov. 21, 1989, 103 Stat. 982.
+
+Pub. L. 100–460, title VI, §610, Oct. 1, 1988, 102 Stat. 2260.
+
+Pub. L. 100–202, §101(k) \[title VI, §610\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–354.
+
+Pub. L. 99–500, §101(a) \[title VI, §610\], Oct. 18, 1986, 100 Stat. 1783, 1783–28, and Pub. L. 99–591, §101(a) \[title VI, §610\], Oct. 30, 1986, 100 Stat. 3341, 3341–28.
+
+Pub. L. 99–190, §101(a) \[H.R. 3037, title VI, §610\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433.
+
+Pub. L. 97–370, title VI, §610, Dec. 18, 1982, 96 Stat. 1810.
+
+Pub. L. 97–103, title VI, §610, Dec. 23, 1981, 95 Stat. 1488.
+
+Pub. L. 96–528, title VI, §610, Dec. 15, 1980, 94 Stat. 3117.
+
+Pub. L. 96–108, title VI, §609, Nov. 9, 1979, 93 Stat. 841.
+
+Pub. L. 95–448, title VI, §610, Oct. 11, 1978, 92 Stat. 1093.
+
+Pub. L. 95–97, title VI, §612, Aug. 12, 1977, 91 Stat. 829.
+

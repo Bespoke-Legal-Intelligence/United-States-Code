@@ -4,7 +4,7 @@ The provisions of title III of the Compact relating to future use by the United 
 
 &emsp;(1) request additional funding, subject to appropriation, related to the use of privately owned land in Palau pursuant to article II of title III of the Compact as may be appropriate in light of actual land use requirements, independent appraisals of such privately owned land accepted by both governments, and other appropriate documentation of actual land use costs; and
 
-&emsp;(2) consent to an extension of the time set forth in a subsidiary agreement to such article in which the Government of Palau is required to make such land available to the United States.
+&emsp;(2) consent to an extension of the time set forth in a subsidiary agreement to such articlein which the Government of Palau is required to make such land available to the United States.
 
 (Pub. L. 101–219, title I, §107, Dec. 12, 1989, 103 Stat. 1872.)
 

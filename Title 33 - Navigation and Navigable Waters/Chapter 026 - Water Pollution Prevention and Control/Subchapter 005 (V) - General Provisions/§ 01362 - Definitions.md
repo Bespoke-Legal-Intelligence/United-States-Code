@@ -6,7 +6,7 @@ Except as otherwise specifically provided, when used in this chapter:
 
 (2) The term “interstate agency” means an agency of two or more States established by or pursuant to an agreement or compact approved by the Congress, or any other agency of two or more States, having substantial powers or duties pertaining to the control of pollution as determined and approved by the Administrator.
 
-(3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+(3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the NorthernMariana Islands, and the Trust Territory of the Pacific Islands.
 
 (4) The term “municipality” means a city, town, borough, county, parish, district, association, or other public body created by or pursuant to State law and having jurisdiction over disposal of sewage, industrial wastes, or other wastes, or an Indian tribe or an authorized Indian tribal organization, or a designated and approved management agency under section 1288 of this title.
 
@@ -88,9 +88,15 @@ Inclusions.—The term “floatable material” includes—
 
 Pathogen indicator.—The term “pathogen indicator” means a substance that indicates the potential for human infectious disease.
 
-(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amendedPub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875.)
+(24)
+
+Oil and gas exploration and production.—The term “oil and gas exploration, production, processing, or treatment operations or transmission facilities” means all field activities or operations associated with exploration, production, processing, or treatment operations, or transmission facilities, including activities necessary to prepare a site for drilling and for the movement and placement of drilling equipment, whether or not such field activities or operations may be considered to be construction activities.
+
+(June 30, 1948, ch. 758, title V, §502, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 886; amended Pub. L. 95–217, §33(b), Dec. 27, 1977, 91 Stat. 1577; Pub. L. 100–4, title V, §§502(a), 503, Feb. 4, 1987, 101 Stat. 75; Pub. L. 100–688, title III, §3202(a), Nov. 18, 1988, 102 Stat. 4154; Pub. L. 104–106, div. A, title III, §325(c)(3), Feb. 10, 1996, 110 Stat. 259; Pub. L. 106–284, §5, Oct. 10, 2000, 114 Stat. 875; Pub. L. 109–58, title III, §323, Aug. 8, 2005, 119 Stat. 694.)
 
 #### Amendments
+
+2005—Par. (24). Pub. L. 109–58 added par. (24).
 
 2000—Pars. (21) to (23). Pub. L. 106–284 added pars. (21) to (23).
 

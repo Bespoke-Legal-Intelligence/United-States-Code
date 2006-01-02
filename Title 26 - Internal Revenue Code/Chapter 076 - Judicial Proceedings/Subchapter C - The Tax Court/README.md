@@ -15,10 +15,6 @@
 
 1974—Pub. L. 93–406, title II, §1041(c), Sept. 2, 1974, 88 Stat. 951, inserted item relating to part IV.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6215, 6406 of this title.
-
 
 ---
 

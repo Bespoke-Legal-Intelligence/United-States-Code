@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) 1.75 percent of the net premiums for such taxable year on specified insurance contracts which are annuity contracts,
 
-&emsp;&emsp;(B) 2.05 percent of the net premiums for such taxable year on specified insurancecontracts which are group life insurance contracts, and
+&emsp;&emsp;(B) 2.05 percent of the net premiums for such taxable year on specified insurance contracts which are group life insurance contracts, and
 
 &emsp;&emsp;(C) 7.7 percent of the net premiums for such taxable year on specified insurance contracts not described in subparagraph (A) or (B).
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (2) Negative capitalization amount
 
-&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, withrespect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
+&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, with respect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount determined under subparagraph (B) of subsection (d)(1) with respect to such category, exceeds
 
@@ -197,8 +197,4 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 #### Effective Date
 
 Section 11301(d)(1) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) and (c) \[enacting this section\] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 197, 264 of this title.
 

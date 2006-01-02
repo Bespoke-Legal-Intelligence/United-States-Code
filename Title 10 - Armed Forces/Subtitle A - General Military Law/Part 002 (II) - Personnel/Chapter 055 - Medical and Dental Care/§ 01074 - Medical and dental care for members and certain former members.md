@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) the request for orders has been approved;
 
-&emsp;&emsp;(iii) the orders are to be issued but have not been issued; and
+&emsp;&emsp;(iii) the orders are to be issued but have not been issued or the orders have been issued but the member has not entered active duty; and
 
 &emsp;&emsp;(iv) the member does not have health care insurance and is not covered by any other health benefits plan.
 
@@ -52,9 +52,7 @@
 
 (2) In this subsection, the term “delayed-effective-date active-duty order” means an order to active duty for a period of more than 30 days in support of a contingency operation under a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(3) This subsection shall cease to be effective on December 31, 2004.
-
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360.)
 
 Historical and Revision Notes
 
@@ -87,6 +85,10 @@ Provisions similar to those in subsec. (c) of this section were contained in Pub
 A prior section 1074, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related to enactment of legislation relating to voting in other elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2006—Subsec. (a)(2)(B)(iii). Pub. L. 109–163 inserted “or the orders have been issued but the member has not entered active duty” before semicolon at end.
+
+2004—Subsec. (d)(3). Pub. L. 108–375 struck out par. (3) which read as follows: “This subsection shall cease to be effective on December 31, 2004.”
 
 2003—Subsec. (a). Pub. L. 108–136, §708, inserted “(1)” after “(a)”, substituted “described in paragraph (2)” for “who is on active duty”, and added par. (2).
 
@@ -146,6 +148,10 @@ Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted “Secretary of Heal
 
 1966—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans’ Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title VII, §743(b), Jan. 6, 2006, 119 Stat. 3360, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of November 24, 2003, and as if included in the enactment of paragraph (2) of section 1074(a) of title 10, United States Code, by section 708 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1530).”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
@@ -178,6 +184,370 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 Authority of President under subsec. (b) to approve uniform rates of reimbursement for care provided in facilities operated by Secretary of Veterans Affairs delegated to Secretary of Veterans Affairs, see section 7(a) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
+#### Pilot Projects on Early Diagnosis and Treatment of Post Traumatic Stress Disorder and Other Mental Health Conditions
+
+Pub. L. 109–163, div. A, title VII, §722, Jan. 6, 2006, 119 Stat. 3347, provided that:
+
+“(a)
+
+Pilot Projects Required.—The Secretary of Defense may carry out pilot projects to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provide early diagnosis and treatment of post traumatic stress disorder (PTSD) and other mental health conditions.
+
+“(b)
+
+Pilot Project Requirements.—
+
+&emsp;“(1)
+
+Mobilization-demobilization facility.—
+
+&emsp;&emsp;“(A)
+
+In general.—A pilot project under subsection (a) may be carried out at a military medical facility at a large military installation at which the mobilization or demobilization of members of the Armed Forces occurs.
+
+&emsp;&emsp;“(B)
+
+Elements.—The pilot project under this paragraph shall be designed to evaluate and produce effective diagnostic and treatment approaches for use by primary care providers in the military health care system in order to improve the capability of such providers to diagnose and treat post traumatic stress disorder in a manner that avoids the referral of patients to specialty care by a psychiatrist or other mental health professional.
+
+&emsp;“(2)
+
+National guard or reserve facility.—
+
+&emsp;&emsp;“(A)
+
+In general.—A pilot project under subsection (a) may be carried out at the location of a National Guard or Reserve unit or units that are located more than 40 miles from a military medical facility and whose personnel are served primarily by civilian community health resources.
+
+&emsp;&emsp;“(B)
+
+Elements.—The pilot project under this paragraph shall be designed—
+
+&emsp;&emsp;&emsp;“(i) to evaluate approaches for providing evidence-based clinical information on post traumatic stress disorder to civilian primary care providers; and
+
+&emsp;&emsp;&emsp;“(ii) to develop educational materials and other tools for use by members of the National Guard or Reserve who come into contact with other members of the National Guard or Reserve who may suffer from post traumatic stress disorder in order to encourage and facilitate early reporting and referral for treatment.
+
+“(c)
+
+Report.—Not later than September 1, 2006, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress toward identifying pilot projects to be carried out under this section. To the extent possible the report shall include a description of each such pilot project, including the location of the pilot projects under paragraphs (1) and (2) of subsection (b), and the scope and objectives of each such pilot project.”
+
+#### Cooperative Outreach to Members and Former Members of the Naval Service Exposed to Environmental Factors Related to Sarcoidosis
+
+Pub. L. 109–163, div. A, title VII, §746, Jan. 6, 2006, 119 Stat. 3362, provided that:
+
+“(a)
+
+Outreach Program Required.—The Secretary of the Navy, in coordination with the Secretary of Veterans Affairs, shall conduct an outreach program intended to contact as many members and former members of the naval service as possible who, in connection with service aboard Navy ships, may have been exposed to aerosolized particles resulting from the removal of nonskid coating used on those ships.
+
+“(b)
+
+Purposes of Outreach Program.—The purposes of the outreach program are as follows:
+
+&emsp;“(1) To develop additional data for use in subsequent studies aimed at determining a causative link between sarcoidosis and military service.
+
+&emsp;“(2) To inform members and former members identified in subsection (a) of the findings of Navy studies identifying an association between service aboard certain naval ships and sarcoidosis.
+
+&emsp;“(3) To provide information to assist members and former members identified in subsection (a) in getting medical evaluations to help clarify linkages between their disease and their service aboard Navy ships.
+
+&emsp;“(4) To provide the Department of Veterans Affairs with data and information for the effective evaluation of veterans who may seek care for sarcoidosis.
+
+“(c)
+
+Implementation and Report.—Not later than six months after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of the Navy shall begin the outreach program. Not later than one year after beginning the program, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives and the Committees on Veterans Affairs of the Senate and House of Representatives a report on the results of the outreach program.”
+
+#### Medical Readiness Plan and Joint Medical Readiness Oversight Committee
+
+Pub. L. 108–375, div. A, title VII, §731, Oct. 28, 2004, 118 Stat. 1993, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that:
+
+“(a)
+
+Requirement for Plan.—The Secretary of Defense shall develop a comprehensive plan to improve medical readiness, and Department of Defense tracking of the health status, of members of the Armed Forces throughout their service in the Armed Forces, and to strengthen medical readiness and tracking before, during, and after deployment of members of the Armed Forces overseas. The matters covered by the comprehensive plan shall include all elements that are described in this title \[probably should be “this subtitle”, meaning subtitle D \[§§731 to 740\] of title VII of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title\] and the amendments made by this title \[subtitle\] and shall comply with requirements in law.
+
+“(b)
+
+Joint Medical Readiness Oversight Committee.—
+
+&emsp;“(1)
+
+Establishment.—The Secretary of Defense shall establish a Joint Medical Readiness Oversight Committee.
+
+&emsp;“(2)
+
+Composition.—The members of the Committee are as follows:
+
+&emsp;&emsp;“(A) The Under Secretary of Defense for Personnel and Readiness, who shall chair the Committee.
+
+&emsp;&emsp;“(B) The Vice Chief of Staff of the Army, the Vice Chief of Naval Operations, the Vice Chief of Staff of the Air Force, and the Assistant Commandant of the Marine Corp.
+
+&emsp;&emsp;“(C) The Assistant Secretary of Defense for Health Affairs.
+
+&emsp;&emsp;“(D) The Assistant Secretary of Defense for Reserve Affairs.
+
+&emsp;&emsp;“(E) The Surgeon General of each of the Army, the Navy, and the Air Force.
+
+&emsp;&emsp;“(F) The Assistant Secretary of the Army for Manpower and Reserve Affairs.
+
+&emsp;&emsp;“(G) The Assistant Secretary of the Navy for Manpower and Reserve Affairs.
+
+&emsp;&emsp;“(H) The Assistant Secretary of the Air Force for Manpower, Reserve Affairs, Installations, and Environment.
+
+&emsp;&emsp;“(I) The Chief of the National Guard Bureau.
+
+&emsp;&emsp;“(J) The Chief of Army Reserve.
+
+&emsp;&emsp;“(K) The Chief of Navy Reserve.
+
+&emsp;&emsp;“(L) The Chief of Air Force Reserve.
+
+&emsp;&emsp;“(M) The Commander, Marine Corps Reserve.
+
+&emsp;&emsp;“(N) The Director of the Defense Manpower Data Center.
+
+&emsp;&emsp;“(O) A representative of the Department of Veterans Affairs designated by the Secretary of Veterans Affairs.
+
+&emsp;“(3)
+
+Duties.—The duties of the Committee are as follows:
+
+&emsp;&emsp;“(A) To advise the Secretary of Defense on the medical readiness and health status of the members of the active and reserve components of the Armed Forces.
+
+&emsp;&emsp;“(B) To advise the Secretary of Defense on the compliance of the Armed Forces with the medical readiness tracking and health surveillance policies of the Department of Defense.
+
+&emsp;&emsp;“(C) To oversee the development and implementation of the comprehensive plan required by subsection (a) and the actions required by this title \[subtitle\] and the amendments made by this title \[subtitle\], including with respect to matters relating to—
+
+&emsp;&emsp;&emsp;“(i) the health status of the members of the reserve components of the Armed Forces;
+
+&emsp;&emsp;&emsp;“(ii) accountability for medical readiness;
+
+&emsp;&emsp;&emsp;“(iii) medical tracking and health surveillance;
+
+&emsp;&emsp;&emsp;“(iv) declassification of information on environmental hazards;
+
+&emsp;&emsp;&emsp;“(v) postdeployment health care for members of the Armed Forces; and
+
+&emsp;&emsp;&emsp;“(vi) compliance with Department of Defense and other applicable policies on blood serum repositories.
+
+&emsp;&emsp;“(D) To ensure unity and integration of efforts across functional and organizational lines within the Department of Defense with regard to medical readiness tracking and health surveillance of members of the Armed Forces.
+
+&emsp;&emsp;“(E) To establish and monitor compliance with the medical readiness standards that are applicable to members and those that are applicable to units.
+
+&emsp;&emsp;“(F) To improve continuity of care in coordination with the Secretary of Veterans Affairs, for members of the Armed Forces separating from active service with service-connected medical conditions.
+
+&emsp;“(4)
+
+First meeting.—The first meeting of the Committee shall be held not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2004\].
+
+“(c)
+
+Annual Report.—
+
+&emsp;“(1)
+
+In general.—In addition to the duties described in subsection (b)(3), the Committee shall prepare and submit to the Secretary of Defense and to the Committees on Armed Services of the Senate and the House of Representatives, not later than February 1 of each year, a report on—
+
+&emsp;&emsp;“(A) the health status and medical readiness of the members of the Armed Forces, including the members of reserve components, based on the comprehensive plan required under subsection (a) and the actions required by this title \[subtitle\] and the amendments made by this title \[subtitle\]; and
+
+&emsp;&emsp;“(B) compliance with Department of Defense policies on medical readiness tracking and health surveillance.
+
+&emsp;“(2)
+
+Opportunity for comment.—Each year, before the Committee submits to Congress the report required under paragraph (1), the Secretary of Defense shall provide an opportunity for representatives of veterans and military health advocacy organizations, and others the Secretary of Defense considers appropriate, to comment on the report. The report submitted to Congress shall include a summary of the comments received and the Secretary's response to them.”
+
+#### Accountability for Medical Readiness of Individuals and Units of the Reserve Components
+
+Pub. L. 108–375, div. A, title VII, §732(b), Oct. 28, 2004, 118 Stat. 1997, provided that:
+
+“(1)
+
+Policy.—The Secretary of Defense shall take measures, in addition to those required by section 1074f of title 10, United States Code, to ensure that individual members and commanders of reserve component units fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
+
+&emsp;“(A) requiring more frequent health assessments of members than is required by section 1074f(b) of title 10, United States Code, with an objective of having every member of the Selected Reserve receive a health assessment as specified in section 1074f of such title not less frequently than once every two years; and
+
+&emsp;“(B) providing additional support and information to commanders to assist them in improving the health status of members of their units.
+
+“(2)
+
+Review and followup care.—The measures under this subsection shall provide for review of the health assessments under paragraph (1) by a medical professional and for any followup care and treatment that is otherwise authorized for medical or dental readiness.
+
+“(3)
+
+Modification of predeployment health assessment survey.—In carrying out paragraph (1), the Secretary shall—
+
+&emsp;“(A) to the extent practicable, modify the predeployment health assessment survey to bring such survey into conformity with the detailed postdeployment health assessment survey in use as of October 1, 2004; and
+
+&emsp;“(B) ensure the use of the predeployment health assessment survey, as so modified, for predeployment health assessments after that date.”
+
+#### Uniform Policy on Deferral of Medical Treatment Pending Deployment to Theaters of Operations
+
+Pub. L. 108–375, div. A, title VII, §732(c), Oct. 28, 2004, 118 Stat. 1997, provided that:
+
+“(1)
+
+Requirement for policy.—The Secretary of Defense shall prescribe, for uniform applicability throughout the Armed Forces, a policy on deferral of medical treatment of members pending deployment.
+
+“(2)
+
+Content.—The policy prescribed under paragraph (1) may specify the following matters:
+
+&emsp;“(A) The circumstances under which treatment for medical conditions may be deferred to be provided within a theater of operations in order to prevent delay or other disruption of a deployment to that theater.
+
+&emsp;“(B) The circumstances under which medical conditions are to be treated before deployment to that theater.”
+
+#### Medical Care and Tracking and Health Surveillance in the Theater of Operations
+
+Pub. L. 108–375, div. A, title VII, §734, Oct. 28, 2004, 118 Stat. 1998, provided that:
+
+“(a)
+
+Recordkeeping Policy.—The Secretary of Defense shall prescribe a policy that requires the records of all medical care provided to a member of the Armed Forces in a theater of operations to be maintained as part of a complete health record for the member.
+
+“(b)
+
+In-Theater Medical Tracking and Health Surveillance.—
+
+&emsp;“(1)
+
+Requirement for evaluation.—The Secretary of Defense shall evaluate the system for the medical tracking and health surveillance of members of the Armed Forces in theaters of operations and take such actions as may be necessary to improve the medical tracking and health surveillance.
+
+&emsp;“(2)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall submit a report on the actions taken under paragraph (1) to the Committees on Armed Services of the Senate and the House of Representatives. The report shall include the following matters:
+
+&emsp;&emsp;“(A) An analysis of the strengths and weaknesses of the medical tracking system administered under section 1074f of title 10, United States Code.
+
+&emsp;&emsp;“(B) An analysis of the efficacy of health surveillance systems as a means of detecting—
+
+&emsp;&emsp;&emsp;“(i) any health problems (including mental health conditions) of members of the Armed Forces contemporaneous with the performance of the assessment under the system; and
+
+&emsp;&emsp;&emsp;“(ii) exposures of the assessed members to environmental hazards that potentially lead to future health problems.
+
+&emsp;&emsp;“(C) An analysis of the strengths and weaknesses of such medical tracking and surveillance systems as a means for supporting future research on health issues.
+
+&emsp;&emsp;“(D) Recommended changes to such medical tracking and health surveillance systems.
+
+&emsp;&emsp;“(E) A summary of scientific literature on blood sampling procedures used for detecting and identifying exposures to environmental hazards.
+
+&emsp;&emsp;“(F) An assessment of whether there is a need for changes to regulations and standards for drawing blood samples for effective tracking and health surveillance of the medical conditions of personnel before deployment, upon the end of a deployment, and for a followup period of appropriate length.
+
+“(c)
+
+Plan To Obtain Health Care Records From Allies.—The Secretary of Defense shall develop a plan for obtaining all records of medical treatment provided to members of the Armed Forces by allies of the United States in Operation Enduring Freedom and Operation Iraqi Freedom. The plan shall specify the actions that are to be taken to obtain all such records.
+
+“(d)
+
+Policy on In-Theater Personnel Locator Data.—Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall prescribe a Department of Defense policy on the collection and dissemination of in-theater individual personnel location data.”
+
+#### Declassification of Information on Exposures to Environmental Hazards
+
+Pub. L. 108–375, div. A, title VII, §735, Oct. 28, 2004, 118 Stat. 1999, provided that:
+
+“(a)
+
+Requirement for Review.—The Secretary of Defense shall review and, as determined appropriate, revise the classification policies of the Department of Defense with a view to facilitating the declassification of data that is potentially useful for the monitoring and assessment of the health of members of the Armed Forces who have been exposed to environmental hazards during deployments overseas, including the following data:
+
+&emsp;“(1) In-theater injury rates.
+
+&emsp;“(2) Data derived from environmental surveillance.
+
+&emsp;“(3) Health tracking and surveillance data.
+
+“(b)
+
+Consultation With Commanders of Theater Combatant Commands.—The Secretary shall, to the extent that the Secretary considers appropriate, consult with the senior commanders of the in-theater forces of the combatant commands in carrying out the review and revising policies under subsection (a).”
+
+#### Uniform Policy for Meeting Mobilization-Related Medical Care Needs at Military Installations
+
+Pub. L. 108–375, div. A, title VII, §737, Oct. 28, 2004, 118 Stat. 2000, provided that:
+
+“(a)
+
+Health Care at Mobilization Installations.—The Secretary of Defense shall take such steps as necessary, including through the uniform policy established under subsection (c), to ensure that anticipated health care needs of members of the Armed Forces at mobilization installations can be met at those installations. Such steps may, within authority otherwise available to the Secretary, include the following with respect to any such installation:
+
+&emsp;“(1) Arrangements for health care to be provided by the Secretary of Veterans Affairs.
+
+&emsp;“(2) Procurement of services from local health care providers.
+
+&emsp;“(3) Temporary employment of health care personnel to provide services at such installation.
+
+“(b)
+
+Mobilization Installations.—For purposes of this section, the term ‘mobilization installation’ means a military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
+
+&emsp;“(1) are mobilized;
+
+&emsp;“(2) are deployed; or
+
+&emsp;“(3) are redeployed from a deployment location.
+
+“(c)
+
+Requirement for Regulations.—
+
+&emsp;“(1)
+
+Policy on implementation.—The Secretary of Defense shall by regulation establish a policy for the implementation of subsection (a) throughout the Department of Defense.
+
+&emsp;“(2)
+
+Identification and analysis of needs.—As part of the policy prescribed under paragraph (1), the Secretary shall require the Secretary of each military department, with respect to each mobilization installation under the jurisdiction of that Secretary, to identify and analyze the anticipated health care needs at that installation with respect to members of the Armed Forces who may be expected to mobilize or deploy or redeploy at that installation as described in subsection (b)(1). Such identification and analysis shall be carried out so as to be completed before the arrival of such members at the installation.
+
+&emsp;“(3)
+
+Response to needs.—The policy established by the Secretary of Defense under paragraph (1) shall require that, based on the results of the identification and analysis under paragraph (2), the Secretary of the military department concerned shall determine how to expeditiously and effectively respond to those anticipated health care needs that cannot be met within the resources otherwise available at that installation, in accordance with subsection (a).
+
+&emsp;“(4)
+
+Implementation of authority.—In implementing the policy established under paragraph (1) at any installation, the Secretary of the military department concerned shall ensure that the commander of the installation, and the officers and other personnel superior to that commander in that commander's chain of command, have appropriate authority and responsibility for such implementation.
+
+“(d)
+
+Policy.—The Secretary of Defense shall ensure—
+
+&emsp;“(1) that the policy prescribed under subsection (c) is carried out with respect to any mobilization installation with the involvement of all agencies of the Department of Defense that have responsibility for management of the installation and all organizations of the Department that have command authority over any activity at the installation; and
+
+&emsp;“(2) that such policy is implemented on a uniform basis throughout the Department of Defense.”
+
+#### Full Implementation of Medical Readiness Tracking and Health Surveillance Program and Force Health Protection and Readiness Program
+
+Pub. L. 108–375, div. A, title VII, §738, Oct. 28, 2004, 118 Stat. 2001, provided that:
+
+“(a)
+
+Implementation at All Levels.—The Secretary of Defense, in conjunction with the Secretaries of the military departments, shall take such actions as are necessary to ensure that the Army, Navy, Air Force, and Marine Corps fully implement at all levels—
+
+&emsp;“(1) the Medical Readiness Tracking and Health Surveillance Program under this title \[see Tables for classification\] and the amendments made by this title; and
+
+&emsp;“(2) the Force Health Protection and Readiness Program of the Department of Defense (relating to the prevention of injury and illness and the reduction of disease and noncombat injury threats).
+
+“(b)
+
+Action Official.—The Secretary of Defense may act through the Under Secretary of Defense for Personnel and Readiness in carrying out subsection (a).”
+
+#### Internet Accessibility of Health Assessment Information for Members of the Armed Forces
+
+Pub. L. 108–375, div. A, title VII, §739(b), Oct. 28, 2004, 118 Stat. 2002, provided that: “Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Chief Information Officer of each military department shall ensure that the online portal website of that military department includes the following information relating to health assessments:
+
+&emsp;“(1) Information on the policies of the Department of Defense and the military department concerned regarding predeployment and postdeployment health assessments, including policies on the following matters:
+
+&emsp;&emsp;“(A) Health surveys.
+
+&emsp;&emsp;“(B) Physical examinations.
+
+&emsp;&emsp;“(C) Collection of blood samples and other tissue samples.
+
+&emsp;“(2) Procedural information on compliance with such policies, including the following information:
+
+&emsp;&emsp;“(A) Information for determining whether a member is in compliance.
+
+&emsp;&emsp;“(B) Information on how to comply.
+
+&emsp;“(3) Health assessment surveys that are either—
+
+&emsp;&emsp;“(A) web-based; or
+
+&emsp;&emsp;“(B) accessible (with instructions) in printer-ready form by download.”
+
+#### Inclusion of Dental Care
+
+Pub. L. 108–375, div. A, title VII, §740, as added by Pub. L. 109–163, div. A, title VII, §745(a), Jan. 6, 2006, 119 Stat. 3362, provided that: “For purposes of the plan, this subtitle \[subtitle D (§§731–740) of title VII of div. A of Pub. L. 108–375, enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title\], and the amendments made by this subtitle, references to medical readiness, health status, and health care shall be considered to include dental readiness, dental status, and dental care.”
+
 #### Disclosure of Information on Project 112 to Department of Veterans Affairs
 
 Pub. L. 107–314, div. A, title VII, §709, Dec. 2, 2002, 116 Stat. 2586, provided that:
@@ -190,7 +560,7 @@ Plan for Disclosure of Information.—Not later than 90 days after the date of t
 
 Plan Requirements.—(1) The records and information covered by the plan under subsection (a) shall be the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
 
-“(2) The plan shall provide for completion of all activities contemplated by the plan not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
+“(2) The plan shall provide for completion of all activities contemplated by the plan not later than oneyear after the date of the enactment of this Act \[Dec. 2, 2002\].
 
 “(c)
 
@@ -486,7 +856,7 @@ Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is 
 
 “(a)
 
-In General.—The Secretary of Defense, in coordination with the Secretary of Veterans Affairs andthe Secretary of Health and Human Services, shall conduct studies and administer grants for studies to determine—
+In General.—The Secretary of Defense, in coordination with the Secretary of Veterans Affairs and the Secretary of Health and Human Services, shall conduct studies and administer grants for studies to determine—
 
 &emsp;“(1) the nature and causes of illnesses suffered by individuals as a consequence of service or employment by the United States in the Southwest Asia theater of operations during the Persian Gulf War; and
 
@@ -550,7 +920,7 @@ Reports.—(1) Not later than March 31, 1995, the Secretary of Defense shall sub
 
 Definition.—In this section, the term ‘Persian Gulf War’ has the meaning given such term in section 101 of title 38, United States Code.”
 
-\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a study by the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, see title VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
+\[For provisions establishing the Persian Gulf War Veterans Health Registry, provisions requiring a study by the Office of Technology Assessment of the Persian Gulf Registry and the Persian Gulf War Veterans Health Registry, provisions relating to an agreement with the National Academy of Sciences for review of health consequences of service during the Persian Gulf War, and coordination of government activities on health-related research on the Persian Gulf War, seetitle VII of Pub. L. 102–585, set out as a note under section 527 of Title 38, Veterans’ Benefits.\]
 
 #### Funding of Fisher Houses Associated With Army Medical Treatment Facilities
 
@@ -562,7 +932,7 @@ Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 241
 
 #### Study on Risk-Sharing Contracts for Health Care
 
-Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contractsin accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
+Pub. L. 102–484, div. A, title VII, §725, Oct. 23, 1992, 106 Stat. 2440, directed Secretary of Defense, in consultation with Secretary of Health and Human Services, not later than 18 months after Oct. 23, 1992, to carry out a study of the feasibility and advisability of entering into risk-sharing contracts with eligible organizations described in 42 U.S.C. 1395mm(b) to furnish health care services to persons entitled to health care in a facility of a uniformed service under section 1074(b) or 1076(b) of this title, to develop a plan for the entry into contracts in accordance with the Secretary's determinations under the study, and to submit to Congress a report describing the results of the study and containing any plan developed.
 
 #### Registry of Members of Armed Forces Serving in Operation Desert Storm
 
@@ -630,7 +1000,7 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 
 &emsp;“(A) The term ‘epidemiologic-assessment interview’ means questioning of a serum-positive member of the Armed Forces for purposes of medical treatment or counseling or for epidemiologic or statistical purposes.
 
-&emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forces who has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
+&emsp;“(B) The term ‘serum-positive member of the Armed Forces’ means a member of the Armed Forceswho has been identified as having been exposed to a virus associated with the acquired immune deficiency syndrome.
 
 &emsp;“(C) The term ‘adverse personnel action’ includes—
 
@@ -659,8 +1029,4 @@ Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Se
 #### Executive Order No. 13075
 
 Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, which established the Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents, was revoked by Ex. Ord. No. 13225, §3(e), Sept. 28, 2001, 66 F.R. 50292.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072, 1074a, 1074d, 1074e, 1075, 1076b, 1078a, 1079, 1086, 1087, 1095, 1095a, 1097, 1097a, 1108 of this title; title 38 section 8111; title 42 section 1395ggg.
 

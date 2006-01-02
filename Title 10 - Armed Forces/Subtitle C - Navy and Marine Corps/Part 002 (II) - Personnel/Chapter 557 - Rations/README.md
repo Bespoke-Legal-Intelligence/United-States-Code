@@ -7,7 +7,12 @@
 | [6083\.](%C2%A7%2006083%20-%20Fixing%20cost%20on%20certain%20vessels%20and%20stations.md) | Fixing cost on certain vessels and stations. |
 | [6084\.](%C2%A7%2006084%20-%20Enlisted%20members%20assigned%20to%20mess%20basic%20allowance%20for%20subsistence%20paid%20to%20mess.md) | Enlisted members assigned to mess: basic allowance for subsistence paid to mess. |
 | [6085\.](%C2%A7%2006085%20-%20Flight%20rations.md) | Flight rations. |
-| [6086\.](%C2%A7%2006086%20-%20Subsistence%20in%20hospital%20messes%20hospital%20ration.md) | Subsistence in hospital messes; hospital ration. |
+| [6086\.](%C2%A7%2006086%20-%20Subsistence%20in%20hospital%20messes%20hospital%20ration.md) | Subsistence in hospital messes; hospital ration.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [6087\.](%C2%A7%2006087%20-%20Sale%20of%20meals%20by%20general%20messes.md) | Sale of meals by general messes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,6 +22,8 @@
 1991—Pub. L. 102–25, title VII, §701(e)(7), Apr. 6, 1991, 105 Stat. 115, inserted a period after “6082” in item 6082.
 
 1990—Pub. L. 101–510, div. A, title V, §557(b), Nov. 5, 1990, 104 Stat. 1571, amended item 6082 generally, substituting “Rations” for “Navy ration: composition” in item 6082.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

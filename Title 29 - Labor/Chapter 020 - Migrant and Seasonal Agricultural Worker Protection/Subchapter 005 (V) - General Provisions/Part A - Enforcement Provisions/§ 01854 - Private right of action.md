@@ -50,7 +50,7 @@ If the court finds in an action which is brought by or for a worker under subsec
 
 &emsp;&emsp;(ii) a person who utilized the services of a farm labor contractor of the type specified in clause (i) without taking reasonable steps to determine that the farm labor contractor possessed a valid certificate of registration authorizing the performance of the farm labor contracting activities which the contractor was requested or permitted to perform with the knowledge of such person,
 
-> the court shall award not more than $10,000 per plaintiff per violation with respect to whom the court made the finding described in paragraph\(1), (2), (3), or (4), except that multiple infractions of a single provision of this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due to a plaintiff under this subsection and in the case of a class action, the court shall award not more than the lesser of up to $10,000 per plaintiff or up to $500,000 for all plaintiffs in such class action.
+> the court shall award not more than $10,000 per plaintiff per violation with respect to whom the court made the finding described in paragraph (1), (2), (3), or (4), except that multiple infractions of a single provision of this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due to a plaintiff under this subsection and in the case of a class action, the court shall award not more than the lesser of up to $10,000 per plaintiff or up to $500,000 for all plaintiffs in such class action.
 
 #### (f) Tolling of statute of limitations
 

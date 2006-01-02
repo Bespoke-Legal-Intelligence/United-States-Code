@@ -56,7 +56,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(i) wage information,
 
-&emsp;&emsp;(ii) whether an individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received (or to be received) by such individual,
+&emsp;&emsp;(ii) whether an individual is receiving, has received, or has made application for, unemployment compensation, and the amount ofany such compensation being received (or to be received) by such individual,
 
 &emsp;&emsp;(iii) the current (or most recent) home address of such individual, and
 
@@ -110,7 +110,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(I) the amount specified by the individual to the State agency to be deducted and withheld under this clause,
 
-&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the State agency under section 654(19)(B)(i) of this title, or
+&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the Stateagency under section 654(19)(B)(i) of this title, or
 
 &emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>2</sup> of this title), and
 
@@ -134,7 +134,7 @@ The State agency charged with the administration of the State law shall provide 
 
 #### (g) Recovery of unemployment benefit payments
 
-(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State, and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating to notice and opportunity for a hearing as apply tothe recovery of overpayments of regular unemployment compensation paid by such State.
+(1) A State may deduct from unemployment benefits otherwise payable to an individual an amount equal to any overpayment made to such individual under an unemployment benefit program of the United States or of any other State, and not previously recovered. The amount so deducted shall be paid to the jurisdiction under whose program such overpayment was made. Any such deduction shall be made only in accordance with the same procedures relating to notice and opportunity for a hearing as apply to the recovery of overpayments of regular unemployment compensation paid by such State.
 
 (2) Any State may enter into an agreement with the Secretary of Labor under which—
 
@@ -154,7 +154,7 @@ The State agency charged with the administration of the State law shall provide 
 
 &emsp;(C) establish such safeguards as the Secretary of Labor determines are necessary to insure that information disclosed under subparagraph (A) is used only for purposes of subsections (i)(1), (i)(3), and (j) of section 653 of this title.
 
-(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, the Secretary shall make no future certification to the Secretary of the Treasury with respect to the State.
+(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Laborshall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, the Secretary shall make no future certification to the Secretary of the Treasury with respect to the State.
 
 (3) For purposes of this subsection—
 
@@ -236,7 +236,7 @@ The State agency charged with the administration of the State law shall provide 
 
 The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51\(§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (d)(1)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Part D of subchapter IV of this chapter, referred to in subsec. (e)(1), is classified to section 651 et seq. of this title.
 
@@ -342,7 +342,7 @@ Definitions.—For purposes of this section—
 
 #### Effective Date of 1997 Amendment
 
-Section 542(a)(2) of Pub. L. 105–65 provided that: “The amendment made by this subsection \[amending thissection\] shall apply to any request for information made after the date of the enactment of this Act \[Oct. 27, 1997\].”
+Section 542(a)(2) of Pub. L. 105–65 provided that: “The amendment made by this subsection \[amending this section\] shall apply to any request for information made after the date of the enactment of this Act \[Oct. 27, 1997\].”
 
 #### Effective Date of 1996 Amendment
 
@@ -378,7 +378,7 @@ Amendment by section 2663(b)(2)–(5) of Pub. L. 98–369 effective July 18, 198
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 523(b) of Pub. L. 98–21 effective Apr. 20, 1983, see section 523(c) of Pub. L. 98–21 set out as a note under section 3304 of Title 26, Internal Revenue Code.
+Amendment by section 523(b) of Pub. L. 98–21 effective Apr. 20, 1983, see section 523(c) of Pub. L. 98–21 setout as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1982 Amendment
 

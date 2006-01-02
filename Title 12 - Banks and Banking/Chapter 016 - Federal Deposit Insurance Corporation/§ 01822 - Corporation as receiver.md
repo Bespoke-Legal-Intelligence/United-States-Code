@@ -22,7 +22,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (A) First notice
 
-&emsp;&emsp;Within 30 days after the initiation of the payment of insured deposits under section 1821(f) of this title, the Corporation shallprovide written notice to all insured depositors that they must claim their deposit from the Corporation, or if the deposit has been transferred to another institution, from the transferee institution.
+&emsp;&emsp;Within 30 days after the initiation of the payment of insured deposits under section 1821(f) of this title, the Corporation shall provide written notice to all insured depositors that they must claim their deposit from the Corporation, or if the deposit has been transferred to another institution, from the transferee institution.
 
 #### (B) Second notice
 
@@ -80,7 +80,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (3) Regulations concerning independent contractors
 
-&emsp;The Board of Directors shall prescribe regulations applicable to those independent contractors who are not deemed, under paragraph (1)(B), to be employees of the Corporation for purposes of title 18 governing conflicts of interest, ethical responsibilities, and the use ofconfidential information consistent with the goals and purposes of titles 18 and 41. Any such regulations shall be in addition to, and not in lieu of, any other statute or regulation which may apply to the conduct of such independent contractors.
+&emsp;The Board of Directors shall prescribe regulations applicable to those independent contractors who are not deemed, under paragraph (1)(B), to be employees of the Corporation for purposes of title 18 governing conflicts of interest, ethical responsibilities, and the use of confidential information consistent with the goals and purposes of titles 18 and 41. Any such regulations shall be in addition to, and not in lieu of, any other statute or regulation which may apply to the conduct of such independent contractors.
 
 #### (4) Disapproval of contractors
 
@@ -146,7 +146,11 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 &emsp;To the extent that the regulations under this subsection conflict with rules of other agencies or Government corporations, officers, directors, employees, and independent contractors of the Corporation who are also subject to the conflict of interest or ethical rules of another agency or Government corporation, shall be governed by the regulations prescribed by the Board of Directors under this subsection when acting for or on behalf of the Corporation. Notwithstanding the preceding sentence, the rules of the Corporation shall not take priority over the ethics and conflict of interest rules and regulations promulgated by the Office of Government Ethics unless specifically authorized by that Office.
 
-(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567.)
+(Sept. 21, 1950, ch. 967, §2\[12\], 64 Stat. 887; Pub. L. 95–369, §6(c)(23), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §113(<i>l</i>), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 101–73, title II, §§201(a), 216, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 103–44, §1, June 28, 1993, 107 Stat. 220; Pub. L. 103–204, §19(a), Dec. 17, 1993, 107 Stat. 2402; Pub. L. 104–179, §4(b)(1), Aug. 6, 1996, 110 Stat. 1567; Pub. L. 109–173, §8(a)(18), Feb. 15, 2006, 119 Stat. 3613.)
+
+#### Amendment of Subsection (f)(4)(E)(iv)
+
+<i>Pub. L. 109–173, §8(a)(18), (b), Feb. 15, 2006, 119 Stat. 3613, 3616, provided that, effective Mar. 31, 2006, subsection (f)(4)(E)(iv) of this section is amended by striking “Federal deposit insurance funds” and inserting “the Deposit Insurance Fund (or any predecessor deposit insurance fund)”.</i>
 
 #### Prior Provisions
 
@@ -156,7 +160,7 @@ Section is derived from subsec. (m) of former section 264 of this title. See Cod
 
 1996—Subsec. (f)(3). Pub. L. 104–179 struck out “, with the concurrence of the Office of Government Ethics,” after “The Board of Directors”.
 
-1993—Subsec. (e). Pub. L. 103–44 inserted heading and amended text generally. Prior to amendment, text read as follows: “If, after the Corporation shall have given at least three months’ notice to the depositor by mailing a copy thereof to his last-known address appearing on the records of the depository institution in default, any depositor in the depository institution in default shall fail to claim his insured deposit from the Corporation within eighteen months after the appointment of the receiver for the depository institution in default, or shall fail within such period to claim or arrange to continue the transferred deposit with the new bank or with the other insured depository institution which assumesliability therefor, all rights of the depositor against the Corporation with respect to the insured deposit, and against the new bank and such other insured depository institution with respect to the transferred deposit, shall be barred, and all rights of the depositor against the depository institution in default and its shareholders, or the receivership estate to which the Corporation may have become subrogated, shall thereupon revert to the depositor. The amount of any transferred deposits not claimed within such eighteen months’ period, shall be refunded to the Corporation.”
+1993—Subsec. (e). Pub. L. 103–44 inserted heading and amended text generally. Prior to amendment, text read as follows: “If, after the Corporation shall have given at least three months’ notice to the depositor by mailing a copy thereof to his last-known address appearing on the records of the depository institution in default, any depositor in the depository institution in default shall fail to claim his insured deposit from the Corporation within eighteen months after the appointment of the receiver for the depository institution in default, or shall fail within such period to claim or arrange to continue the transferred deposit with the new bank or with the other insured depository institution which assumes liability therefor, all rights of the depositor against the Corporation with respect to the insured deposit, and against the new bank and such other insured depository institution with respect to the transferred deposit, shall be barred, and all rights of the depositor against the depository institution in default and its shareholders, or the receivership estate to which the Corporation may have become subrogated, shall thereupon revert to the depositor. The amount of any transferred deposits not claimed within such eighteen months’ period, shall be refunded to the Corporation.”
 
 Subsec. (f). Pub. L. 103–204 added subsec. (f).
 
@@ -173,6 +177,10 @@ Subsec. (e). Pub. L. 101–73, §216(1), substituted “depository institution i
 1982—Subsec. (a). Pub. L. 97–320 inserted “insured Federal savings bank,” after “foreign bank,”.
 
 1978—Subsec. (a). Pub. L. 95–369 inserted “, branch of a foreign bank,” after “a closed national bank”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1993 Amendments
 

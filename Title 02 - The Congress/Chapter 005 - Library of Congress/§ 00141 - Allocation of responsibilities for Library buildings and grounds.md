@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Architect of the Capitol shall have charge of all work at the Library of Congress buildings and grounds (as defined in section 167j of this title) that affects—
+&emsp;The Architect of the Capitol shall have charge of all work at the Library of Congressbuildings and grounds (as defined in section 167j of this title) that affects—
 
 &emsp;&emsp;(A) the structural integrity of the buildings;
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the architectural features of the buildings;
 
-&emsp;&emsp;(D) compliance with building and fire codes, laws, and regulations with respect to the specific responsibilities set for under this paragraph;
+&emsp;&emsp;(D) compliance with building and fire codes, laws, and regulations with respect to the specific responsibilities set for <sup>1</sup> under this paragraph;
 
 &emsp;&emsp;(E) the care and maintenance of Library grounds; and
 
@@ -80,7 +80,7 @@ Transfer Payment by Architect.—Notwithstanding the limitation on reimbursement
 
 #### “SEC. 4. FUND FOR TRANSFERRED FUNDS.
 
-“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on House Oversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
+“There is established in the Treasury of the United States a fund consisting of those gifts or trust funds transferred to the Architect of the Capitol under section 3. Upon prior approval of the Committee on HouseOversight \[now Committee on House Administration\] of the House of Representatives and Committee on Rules and Administration of the Senate, amounts in the fund shall be available to the Architect of the Capitol, subject to appropriation, to remain available until expended, for the structural and mechanical work and refurbishment of Library buildings and grounds. Such funds shall be available for expenditure in fiscal year 1998, subject to the prior approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate.
 
 #### “SEC. 5. EFFECTIVE DATE.
 
@@ -191,4 +191,6 @@ Sec. 2. The structural and mechanical care of the building authorized by this jo
 Sec. 3. There is hereby authorized to be appropriated not to exceed $130,675,000 to construct the building authorized by this joint resolution (including the preparation of all necessary designs, plans, and specifications).
 
 “There is also authorized to be appropriated not exceeding $10,000 to pay the expenses of the James Madison Memorial Commission.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “forth”.</i>
 

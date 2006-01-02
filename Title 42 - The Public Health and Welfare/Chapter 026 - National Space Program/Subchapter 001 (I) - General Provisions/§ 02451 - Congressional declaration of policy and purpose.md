@@ -36,25 +36,33 @@ The aeronautical and space activities of the United States shall be conducted so
 
 #### (e) Ground propulsion systems research and development
 
-The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward ground propulsion systems research and development. Such development shall be conducted so as to contribute to the objectives of developing energy and petroleum-conserving ground propulsion systems, and of minimizing the environmental degradation caused by such systems.
+The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward ground propulsion systems research and development. Suchdevelopment shall be conducted so as to contribute to the objectives of developing energy and petroleum-conserving ground propulsion systems, and of minimizing the environmental degradation caused by such systems.
 
 #### (f) Bioengineering research, development, and demonstration programs
 
 The Congress declares that the general welfare of the United States requires that the unique competence of the National Aeronautics and Space Administration in science and engineering systems be directed to assisting in bioengineering research, development, and demonstration programs designed to alleviate and minimize the effects of disability.
 
-#### (g) Purpose of chapter
+#### (g) Detecting, tracking, cataloguing, and characterizing near-Earth asteroids and comets
 
-It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), and (f) of this section.
+The Congress declares that the general welfare and security of the United States require that the unique competence of the National Aeronautics and Space Administration be directed to detecting, tracking, cataloguing, and characterizing near-Earth asteroids and comets in order to provide warning and mitigation of the potential hazard of such near-Earth objects to the Earth.
 
-(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
+#### (h) Purpose of chapter
+
+It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), (f), and (g) of this section.
+
+(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591; Pub. L. 109–155, title III, §321(d)(2), Dec. 30, 2005, 119 Stat. 2923.)
 
 #### References in Text
 
 Section 2471 of this title, referred to in subsec. (b), was omitted from the Code.
 
-This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 85–568, July 29,1958, 72 Stat. 426, as amended. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
+
+2005—Subsec. (g). Pub. L. 109–155, §321(d)(2)(B), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 109–155, §321(d)(2)(A), (C), redesignated subsec. (g) as (h) and substituted “(f), and (g)” for “and (f)”.
 
 2000—Subsecs. (f) to (h). Pub. L. 106–391 redesignated subsecs. (g) and (h) as (f) and (g), respectively, substituted “and (f)” for “(f), and (g)” in subsec. (g), and struck out former subsec. (f) which read as follows: “The Congress declares that the general welfare of the United States requires that the unique competence in scientific and engineering systems of the National Aeronautics and Space Administration also be directed toward the development of advanced automobile propulsion systems. Such development shall be conducted so as to contribute to the achievement of the purposes set forth in section 2701(b) of title 15.”
 
@@ -112,7 +120,7 @@ Membership.—(1) The Commission shall be composed of 12 members appointed, not 
 
 &emsp;“(E) One member shall be appointed by the minority leader of the House of Representatives.
 
-“(2) The members of the Commission shall be appointed from among persons with extensive experience and national reputations in aerospace manufacturing, economics, finance, national security, international trade, or foreign policy and persons who are representative of labor organizations associated with the aerospace industry.
+“(2) The members of the Commission shall be appointed from among persons with extensive experience and national reputations in aerospace manufacturing, economics, finance, national security, internationaltrade, or foreign policy and persons who are representative of labor organizations associated with the aerospace industry.
 
 “(3) Members shall be appointed for the life of the Commission. A vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
 
@@ -150,7 +158,7 @@ Duties.—(1) The Commission shall—
 
 &emsp;“(F) Programs for the maintenance of the national space launch infrastructure, particularly with a view to assessing the adequacy of current and projected programs for maintaining the national space launch infrastructure.
 
-&emsp;“(G) Programs for the support of science and engineering education, including current programs forsupporting aerospace science and engineering efforts at institutions of higher learning, with a view to determining the adequacy of those programs.
+&emsp;“(G) Programs for the support of science and engineering education, including current programs for supporting aerospace science and engineering efforts at institutions of higher learning, with a view to determining the adequacy of those programs.
 
 “(d)
 
@@ -186,17 +194,17 @@ Termination.—The Commission shall terminate 60 days after the date of the subm
 
 #### International Space Station
 
-Pub. L. 106–391, title II, §§201–203, 205, Oct. 30, 2000, 114 Stat. 1586–1590, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 106–391, title II, §§201–203, 205, Oct. 30, 2000, 114 Stat. 1586–1590, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–155, title II, §207(b), title VII, §706(a), Dec. 30, 2005, 119 Stat. 2916, 2937, provided that:
 
 #### “SEC. 201. INTERNATIONAL SPACE STATION CONTINGENCY PLAN.
 
 “(a)
 
-Bimonthly Reporting on Russian Status.—Not later than the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], and not later than the first day of every second month thereafter until October 1, 2006, the Administrator \[of the National Aeronautics and Space Administration\] shall report to Congress whether or not the Russians have performed work expected of them and necessary to complete the International Space Station. Each such report shall also include a statement of the Administrator's judgment concerning Russia's ability to perform work anticipated and required to complete the International Space Station before the next report under this subsection.
+Bimonthly Reporting on Russian Status.—Not later than the first day of the first month beginning more than 60 days after the date of the enactment of this Act \[Oct. 30, 2000\], and semiannually thereafter until December 31, 2011, the Administrator \[of the National Aeronautics and Space Administration\] shall report to Congress whether or not the Russians have performed work expected of them and necessary to complete the International Space Station. Each such report shall also include a statement of the Administrator's judgment concerning Russia's ability to perform work anticipated and required to complete the International Space Station before the next report under this subsection. Each such report shall also identify each Russian entity or person to whom NASA has, since the date of the enactment of the Iran Nonproliferation Amendments Act of 2005 \[Nov. 22, 2005\], made a payment in cash or in-kind for work to be performed or services to be rendered under the Agreement Concerning Cooperation on the Civil International Space Station, with annex, signed at Washington January 29, 1998, and entered into force March 27, 2001, or any protocol, agreement, memorandum of understanding, or contract related thereto. Each report shall include the specific purpose of each payment made to each entity or person identified in the report.
 
 “(b)
 
-Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the critical path \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision to proceed with the permanent replacement and the costs associated with the decision.
+Decision on Russian Critical Path Items.—The President shall notify Congress within 90 days after the date of the enactment of this Act \[Oct. 30, 2000\] of the decision on whether or not to proceed with permanent replacement of any Russian elements in the criticalpath \[as defined in section 3 of Pub. L. 106–391, 42 U.S.C. 2452 note\] of the International Space Station or any Russian launch services. Such notification shall include the reasons and justifications for the decision and the costs associated with the decision. Such decision shall include a judgment of when all elements identified in Revision E assembly sequence as of June 1999 will be in orbit and operational. If the President decides to proceed with a permanent replacement for any Russian element in the critical path or any Russian launch services, the President shall notify Congress of the reasons and the justification for the decision to proceed with the permanent replacement and the costs associated with the decision.
 
 “(c)
 
@@ -366,6 +374,10 @@ Implementation Plan.—Not later than September 30, 2001, the Administrator shal
 
 &emsp;“(5) a statement of the duration of the agreement.”
 
+\[Pub. L. 109–155, title VII, §706(a)(2), Dec. 30, 2005, 119 Stat. 2937, which directed insertion of two sentences at end of section 201 of Pub. L. 106–391, set out above, was executed by making the insertion at the end of section 201(a) of Pub. L. 106–391, to reflect the probable intent of Congress.\]
+
+\[Section 16636(b) of this title provided that 30 days after the transmittal of the report described in section 16636(a) of this title, section 202 of Pub. L. 106–391, set out above, is repealed.\]
+
 #### Aero-Space Transportation Technology Integration
 
 Pub. L. 106–391, title III, §308, Oct. 30, 2000, 114 Stat. 1592, provided that:
@@ -466,7 +478,7 @@ Pub. L. 106–391, title III, §317, Oct. 30, 2000, 114 Stat. 1596, provided tha
 
 “(a)
 
-Educational Initiative.—In recognition of the 100th anniversary of the first powered flight, the Administrator \[of the National Aeronautics and Space Administration\], in coordination with the Secretary of Education, shall develop and provide for the distribution, for use in the 2001–2002 academic year and thereafter, of age-appropriate educational materials, for use at the kindergarten, elementary, and secondary levels,on the history of flight, the contribution of flight to global development in the 20th century, the practical benefits of aeronautics and space flight to society, the scientific and mathematical principles used in flight, and any other related topics the Administrator considers appropriate. The Administrator shall integrate into the educational materials plans for the development and flight of the Mars plane.
+Educational Initiative.—In recognition of the 100th anniversary of the first powered flight, the Administrator \[of the National Aeronautics and Space Administration\], in coordination with the Secretary of Education, shall develop and provide for the distribution, for use in the 2001–2002 academic year and thereafter, of age-appropriate educational materials, for use at the kindergarten, elementary, and secondary levels, on the history of flight, the contribution of flight to global development in the 20th century, the practical benefits of aeronautics and space flight to society, the scientific and mathematical principles used in flight, and any other related topics the Administrator considers appropriate. The Administrator shall integrate into the educational materials plans for the development and flight of the Mars plane.
 
 “(b)
 
@@ -632,7 +644,7 @@ Strategic Plan.—The Administration shall—
 
 &emsp;“(2) develop a strategy plan for life sciences research and technology development sufficient to accomplish the life sciences knowledge base acquisition schedule developed under paragraph (1)(B), including—
 
-&emsp;&emsp;“(A) a crew certification plan setting acceptable crew conditioning standards for Extended Duration Orbiter operations and verifying countermeasuressufficient to meet those standards before actual Extended Duration Orbiter operations; and
+&emsp;&emsp;“(A) a crew certification plan setting acceptable crew conditioning standards for Extended Duration Orbiter operations and verifying countermeasures sufficient to meet those standards before actual Extended Duration Orbiter operations; and
 
 &emsp;&emsp;“(B) a life sciences implementation plan for the design and development of the space station, to be provided as part of the Preliminary Design Review for the space station, and to include crew adaptability standards; and
 
@@ -676,7 +688,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;“(5) United States space policy needs long-range goals and direction in order to provide understanding for near-term space projects and programs;
 
-&emsp;“(6) over the next five years the National Aeronautics and Space Administration, hereafter referred to as the ‘Administration’, should pursue leadership in science through an aggressive set of major and moderate missions while maintaining a robust series of cost effective missions that can provide frequent flight opportunities to the scientific community\[;\]
+&emsp;“(6) over the next five years the National Aeronautics and Space Administration, hereafter referredto as the ‘Administration’, should pursue leadership in science through an aggressive set of major and moderate missions while maintaining a robust series of cost effective missions that can provide frequent flight opportunities to the scientific community\[;\]
 
 &emsp;“(7) over the next five years the Administration should prepare for the transition to the United States International Space Station of those science and technology programs that can be most efficiently and effectively conducted on that facility;
 
@@ -926,7 +938,7 @@ By virtue of the authority vested in me as President of the United States, it is
 
 Section 1. The Missile Sites Labor Commission is hereby abolished and its functions and responsibilities are transferred to the Federal Mediation and Conciliation Service.
 
-Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continuedcooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
+Sec. 2. The Director of the Federal Mediation and Conciliation Service shall establish within the Federal Mediation and Conciliation Service such procedures as may be necessary to provide for continued priority for resolution of labor disputes or potential labor disputes at missile and space sites, and shall seek the continued cooperation of manufacturers, contractors, construction concerns, and labor unions in avoiding uneconomical operations and work stoppages at missile and space sites.
 
 Sec. 3. The Department of Defense, the National Aeronautics and Space Administration, and other appropriate government departments and agencies shall continue to cooperate in the avoidance of uneconomical operations and work stoppages at missile and space sites. They shall also assist the Federal Mediation and Conciliation Service in the discharge of its responsibilities under this order.
 

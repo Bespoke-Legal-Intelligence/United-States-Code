@@ -6,7 +6,7 @@ It is the purpose of this section to authorize the Secretary of Agriculture to e
 
 #### (b) Competitive grants authorized
 
-Subject to the availability of appropriations to carry out this section, the Secretary may award grants to colleges and universities (as defined in section 3103 of this title) and 1994 Institutions on a competitive basis for integrated agricultural research, education, and extension projects in accordance with this section.
+Subject to the availability of appropriations to carry out this section, the Secretary mayaward grants to colleges and universities (as defined in section 3103 of this title) and 1994 Institutions on a competitive basis for integrated agricultural research, education, and extension projects in accordance with this section.
 
 #### (c) Criteria for grants
 

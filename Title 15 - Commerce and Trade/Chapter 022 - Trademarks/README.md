@@ -181,7 +181,7 @@
 
 #### Effective Date
 
-This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year from July 5, 1946, and repealedchapter 3 of this title as of that date. See notes under section 1051 of this title.
+This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year from July 5, 1946, and repealed chapter 3 of this title as of that date. See notes under section 1051 of this title.
 
 #### Prior Laws
 

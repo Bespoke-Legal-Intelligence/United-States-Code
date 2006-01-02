@@ -4,7 +4,7 @@
 
 The Assistance Board shall assist an institution that has been certified under section 2278a–4 of this title by—
 
-&emsp;(1) authorizing the institution to issue preferred stock under section 2278b–7 of this title, in amounts necessary to maintain the book value of stock, participation certificates, andother similar equities of the institution, at the level provided for in subsection (c) of this section;
+&emsp;(1) authorizing the institution to issue preferred stock under section 2278b–7 of this title, in amounts necessary to maintain the book value of stock, participation certificates, and other similar equities of the institution, at the level provided for in subsection (c) of this section;
 
 &emsp;(2) in the case of high-cost debt for which the institution is primarily liable, authorizing the institution to issue preferred stock under section 2278b–7 of this title, in an amount equal to the premium that would be required by the holder of the debt for the institution to retire the debt at the then current market value;
 
@@ -42,5 +42,5 @@ Subsec. (d). Pub. L. 100–399, §201(d), substituted “Except as provided in s
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

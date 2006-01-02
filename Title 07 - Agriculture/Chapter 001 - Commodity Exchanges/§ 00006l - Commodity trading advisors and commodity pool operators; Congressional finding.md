@@ -4,7 +4,7 @@ It is hereby found that the activities of commodity trading advisors and commodi
 
 &emsp;(1) their advice, counsel, publications, writings, analyses, and reports are furnished and distributed, and their contracts, solicitations, subscriptions, agreements, and other arrangements with clients take place and are negotiated and performed by the use of the mails and other means and instrumentalities of interstate commerce;
 
-&emsp;(2) their advice, counsel, publications, writings, analyses, and reports customarily relate to and their operations are directed toward and cause the purchase and sale of commodities for future delivery on or subject to the rules of contract markets or derivatives transaction execution facilities; and
+&emsp;(2) their advice, counsel, publications, writings, analyses, and reports customarily relate to and their operations are directed towardand cause the purchase and sale of commodities for future delivery on or subject to the rules of contract markets or derivatives transaction execution facilities; and
 
 &emsp;(3) the foregoing transactions occur in such volume as to affect substantially transactions on contract markets or derivatives transaction execution facilities.
 

@@ -8,7 +8,7 @@
 
 #### (2) Approval of order
 
-&emsp;The order shall become effective only if the Secretary determines that the order has been approved by not less than a majority of the producers, feeders, and importers voting in the referendum or at least 2/3 of the productionrepresented by persons voting in the referendum.
+&emsp;The order shall become effective only if the Secretary determines that the order has been approved by not less than a majority of the producers, feeders, and importers voting in the referendum or at least 2/3 of the production represented by persons voting in the referendum.
 
 #### (b) Additional referenda
 

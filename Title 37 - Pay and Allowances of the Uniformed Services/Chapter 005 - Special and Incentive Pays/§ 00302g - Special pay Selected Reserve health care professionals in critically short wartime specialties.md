@@ -14,23 +14,27 @@ Time for Payment.—Special pay under this section shall be paid annually at the
 
 (d)
 
-Refund Requirement.—An officer who voluntarily terminates service in the Selected Reserve of an armed force before the end of the period for which a payment was made to such officer under this section shall refund to the United States the full amount of the payment made for the period on which the payment was based.
+Repayment.—An officer who does not complete the period of service in the Selected Reserve specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (e)
 
-Inapplicability of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person receiving special pay under the agreement from the debt arising under the agreement.
+Termination of Agreement Authority.—No agreement under this section may be entered into after December 31, 2006.
 
-(f)
-
-Termination of Agreement Authority.—No agreement under this section may be entered into after December 31, 2005.
-
-(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(a), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(a), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(a), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §612(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §612(e), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(e), Oct. 28, 2004, 118 Stat. 1947.)
+(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div.A, title VI, §611(a), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(a), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(a), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–314, div. A, title VI, §612(e), Dec. 2, 2002, 116 Stat. 2567; Pub. L. 108–136, div. A, title VI, §612(e), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(e), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(e), 687(b)(10), Jan. 6, 2006, 119 Stat. 3294, 3329.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended, which was set out as a note under section 302 of this title, prior to repeal by Pub. L. 104–106, §614(c)(1).
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–163, §687(b)(10)(A), (B), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “An officer who voluntarily terminates service in the Selected Reserve of an armed force before the end of the period for which a payment was made to such officer under this section shall refund to the United States the full amount of the payment made for the period on which the payment was based.”
+
+Subsec. (e). Pub. L. 109–163, §687(b)(10)(A), (C), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person receiving special pay under the agreement from the debt arising under the agreement.”
+
+Subsec. (f). Pub. L. 109–163, §687(b)(10)(C), redesignated subsec. (f) as (e).
+
+Pub. L. 109–163, §622(e), substituted “December 31, 2006” for “December 31, 2005”.
 
 2004—Subsec. (f). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
@@ -49,4 +53,8 @@ Provisions similar to those in this section were contained in Pub. L. 100–456,
 1997—Subsec. (f). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
 
 1996—Subsec. (f). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

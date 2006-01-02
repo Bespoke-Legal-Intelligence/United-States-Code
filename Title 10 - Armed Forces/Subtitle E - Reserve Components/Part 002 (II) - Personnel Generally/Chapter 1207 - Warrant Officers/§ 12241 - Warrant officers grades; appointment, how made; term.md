@@ -6,7 +6,7 @@
 
 (c) Appointments as Reserves in permanent warrant officer grades are for an indefinite term and are held during the pleasure of the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §597; Pub. L. 99–145, title V, §531(b), Nov. 8, 1985, 99 Stat. 633; Pub. L. 102–190, div. A, title XI, §1131(2), Dec. 5,1991, 105 Stat. 1505; renumbered §12241, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), Oct. 5, 1994, 108 Stat. 2991.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 26, §597; Pub. L. 99–145, title V, §531(b), Nov. 8, 1985, 99 Stat. 633; Pub. L. 102–190, div. A, title XI, §1131(2), Dec. 5, 1991, 105 Stat. 1505; renumbered §12241, Pub. L. 103–337, div. A, title XVI, §1662(d)(2), Oct. 5, 1994, 108 Stat. 2991.)
 
 Historical and Revision Notes
 
@@ -77,8 +77,4 @@ Section 531(c) of Pub. L. 99–145 provided that:
 “(1) The amendments made by subsections (a) and (b) \[amending this section and section 555 of this title\] apply to any appointment of a warrant officer or chief warrant officer on or after the effective date of this section \[see Effective Date of 1985 Amendment note above\].
 
 “(2) An officer who on the effective date of this section is serving in a chief warrant officer grade under an appointment by warrant may be appointed in that grade by commission under section 555(b) or 597(b) \[now 12241(b)\] of title 10, United States Code, as appropriate. The date of rank of an officer who receives an appointment under this paragraph is the date of rank for the officer's appointment by warrant to that grade.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 591 of this title.
 

@@ -304,7 +304,7 @@ Subsec. (h). Pub. L. 102–429, §103(c)(8), substituted “For purposes of this
 
 Subsec. (e)(1). Pub. L. 101–513, §562(d)(1), substituted “for fiscal year 1990, $300,000,000, and for each of fiscal years 1991 and 1992, $500,000,000” for “and for fiscal years 1990 and 1991, $300,000,000”.
 
-1989—Subsec. (a)(5). Pub. L. 101–240, §101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), andconcluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
+1989—Subsec. (a)(5). Pub. L. 101–240, §101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
 
 Subsec. (b)(1). Pub. L. 101–240, §101(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “For the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, the Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—”.
 

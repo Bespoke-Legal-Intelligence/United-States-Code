@@ -40,7 +40,7 @@
 
 #### (2) Voluntary recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approvethe plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator finds that voluntary recall by the registrant and others in the chain of distribution may be as safe and effective as a mandatory recall, the Administrator shall request the registrant of the pesticide to submit, within 60 days of the request, a plan for the voluntary recall of the pesticide. If such a plan is requested and submitted, the Administrator shall approve the plan and order the registrant to conduct the recall in accordance with the plan unless the Administrator determines, after an informal hearing, that the plan is inadequate to protect health or the environment.
 
 #### (3) Mandatory recall
 
@@ -74,7 +74,7 @@
 
 #### (1) Submission of plan
 
-&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meets criteria established by the Administrator by regulation.
+&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meetscriteria established by the Administrator by regulation.
 
 #### (2) Reimbursement
 

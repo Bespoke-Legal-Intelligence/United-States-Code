@@ -12,7 +12,7 @@ There are authorized to be appropriated to the Secretary $16,000,000 for each of
 
 The unexpended balances of appropriations authorized by section 1912(d) <sup>1</sup> of this title are transferred to the Secretary to carry out his functions under this part.
 
-(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901; Pub.L. 106–113, div. B, §1000(a)(5) \[title VII, §702(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(b), 131, Aug. 6, 2002, 116 Stat. 936, 946; Pub. L. 108–429, title II, §2004(a)(3), Dec. 3, 2004, 118 Stat. 2589.)
+(Pub. L. 93–618, title II, §256, Jan. 3, 1975, 88 Stat. 2032; Pub. L. 97–35, title XXV, §2524, Aug. 13, 1981, 95 Stat. 892; Pub. L. 99–272, title XIII, §13008(b), Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–418, title I, §1426(b)(2), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(2), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. J, title I, §1012(c), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §§111(b), 131, Aug. 6, 2002, 116 Stat. 936, 946; Pub. L. 108–429, title II, §2004(a)(3), Dec. 3, 2004, 118 Stat. 2589.)
 
 #### References in Text
 

@@ -139,6 +139,8 @@
 | (u) | Coordination of technology development programs. |
 | (v) | Simplified reporting requirements. |
 | (w) | STTR model agreement for intellectual property rights. |
+| (x) | Research and development focus. |
+| (y) | Commercialization Pilot Program. |
 | [639\.](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md) | Reporting requirements and agency cooperation. |
 | (a) | Annual reports to President and Congressional officers and committees. |
 | (b) | Report of expenditures in conduct of activities; contents; information to Congressional committees. |

@@ -6,5 +6,5 @@ The Comptroller General may audit the operations of the Office, and any such aud
 
 #### Amendments
 
-1996—Pub. L. 104–316, in first sentence, substituted “may audit” for “shall audit” and inserted “, and any such audit shall be conducted” after “Office”, and struck out at end “Audits under this section shall be conducted annually for the first 2 fiscal years following October 28, 1992, and as appropriate thereafter.”
+1996—Pub. L. 104–316, in first sentence, substituted “may audit” for “shall audit” and inserted “, and anysuch audit shall be conducted” after “Office”, and struck out at end “Audits under this section shall be conducted annually for the first 2 fiscal years following October 28, 1992, and as appropriate thereafter.”
 

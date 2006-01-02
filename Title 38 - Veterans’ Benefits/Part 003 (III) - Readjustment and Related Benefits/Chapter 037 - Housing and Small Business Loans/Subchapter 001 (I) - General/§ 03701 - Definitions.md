@@ -6,7 +6,7 @@
 
 &emsp;(1) The term “World War II” (A) means the period beginning on September 16, 1940, and ending on July 25, 1947, and (B) includes, in the case of any veteran who enlisted or reenlisted in a Regular component of the Armed Forces after October 6, 1945, and before October 7, 1946, the period of the first such enlistment or reenlistment.
 
-&emsp;(2) The term “veteran” includes the surviving spouse of any veteran (including a person who died in the active military, naval, or airservice) who died from a service-connected disability, but only if such surviving spouse is not eligible for benefits under this chapter on the basis of the spouse's own active duty. The active duty or service in the Selected Reserve of the deceased spouse shall be deemed to have been active duty or service in the Selected Reserve by such surviving spouse for the purposes of this chapter.
+&emsp;(2) The term “veteran” includes the surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability, but only if such surviving spouse is not eligible for benefits under this chapter on the basis of the spouse's own active duty. The active duty or service in the Selected Reserve of the deceased spouse shall be deemed to have been active duty or service in the Selected Reserve by such surviving spouse for the purposes of this chapter.
 
 &emsp;(3) The term “veteran” also includes, for purposes of home loans, the spouse of any member of the Armed Forces serving on active duty who is listed, pursuant to section 556 of title 37, United States Code, and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (A) missing in action, (B) captured in line of duty by a hostile force, or (C) forcibly detained or interned in line of duty by a foreign government or power. The active duty of the member shall be deemed to have been active duty by such spouse for the purposes of this chapter. The loan eligibility of such spouse under this paragraph shall be limited to one loan guaranteed or made for the acquisition of a home, and entitlement to such loan shall terminate automatically, if not used, upon receipt by such spouse of official notice that the member is no longer listed in one of the categories specified in the first sentence of this paragraph.
 
@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 94–324, §7(2), substituted “spouse” and “the sp
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1981 Amendment
 

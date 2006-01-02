@@ -24,7 +24,7 @@ Initial Assignment of Officers With Critical Occupational Specialties.—The Sec
 
 (d)
 
-Exclusions From Tour Length.—The Secretary of Defense may exclude the following service from the standards prescribed in subsection (a):
+Exclusions From Tour Length.—The Secretary of Defense may exclude the followingservice from the standards prescribed in subsection (a):
 
 &emsp;(1) Service in a joint duty assignment in which the full tour of duty in the assignment is not completed by the officer because of—
 
@@ -274,7 +274,7 @@ Clarification of Intended Relationship Between Credit and Promotions.—\[Amende
 
 “(2) Any joint duty service credit given to an officer under section 933(a)(1) of the National Defense Authorization Act for Fiscal Year 1993 before the date of the enactment of this Act \[Nov. 30, 1993\] may be applied to any provision of title 10, United States Code.”
 
-Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II, §202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, provided that:
+Pub. L. 102–484, div. A, title IX, §933, Oct. 23, 1992, 106 Stat. 2476, as amended by Pub. L. 103–35, title II,§202(a)(9), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title IX, §932(c)(1), Nov. 30, 1993, 107 Stat. 1735, provided that:
 
 “(a)
 
@@ -284,7 +284,7 @@ Authority To Give Joint Duty Credit.—(1) The Secretary of Defense, in consulta
 
 “(3) The Secretary, after consultation with the Chairman of the Joint Chiefs of Staff, may give credit for service in a joint duty assignment under paragraph (1) in the case of an officer recommended for such credit by the Chief of Staff of the Army (for officers in the Army), the Chief of Naval Operations (for officers in the Navy), the Chief of Staff of the Air Force (for officers in the Air Force), and the Commandant of the Marine Corps (for officers in the Marine Corps). Any such credit shall be granted by the Secretary on a case-by-case basis.
 
-“(4) The Secretary of Defense shall establish uniform criteria for defining the standards to be used in determining whether to give an officer credit for service in a joint duty assignment under paragraph (1). Such criteria shall be consistent with the congressional declarations of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) and section 3 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 \[Pub. L. 99–433\] (10 U.S.C. 111 note). The criteria shall include standards to be used in determining whether to give an officer credit for completion of afull tour of duty, or credit countable for determining cumulative service, in a joint duty assignment. Such criteria may not result in the extension of eligibility for joint duty credit under this section to all officers in a specified category of officers that exists other than for reasons of this section.
+“(4) The Secretary of Defense shall establish uniform criteria for defining the standards to be used in determining whether to give an officer credit for service in a joint duty assignment under paragraph (1). Such criteria shall be consistent with the congressional declarations of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) and section 3 of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 \[Pub. L. 99–433\] (10 U.S.C. 111 note). The criteria shall include standards to be used in determining whether to give an officer credit for completion of a full tour of duty, or credit countable for determining cumulative service, in a joint duty assignment. Such criteria may not result in the extension of eligibility for joint duty credit under this section to all officers in a specified category of officers that exists other than for reasons of this section.
 
 “(b)
 
@@ -323,8 +323,4 @@ Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 6
 #### Waiver of Qualifications for Appointment as Service Chief
 
 For waiver of the requirements of this section for the length of a joint duty assignment, see section 532(c) of Pub. L. 99–433, formerly set out as a note under section 3033 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 164, 619a, 661, 667, 3033, 5033, 5043, 8033 of this title.
 

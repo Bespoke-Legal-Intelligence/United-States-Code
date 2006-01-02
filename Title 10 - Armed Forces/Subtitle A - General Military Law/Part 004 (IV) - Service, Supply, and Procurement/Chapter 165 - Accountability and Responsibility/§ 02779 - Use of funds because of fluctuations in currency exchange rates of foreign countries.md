@@ -68,7 +68,7 @@ In subsection (b)(3), the words “contracts or other . . . entered into” ar
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 97–377, title I, §101(c) \[title VII, §791\], Dec. 21, 1982, 96 Stat. 1865, which wasset out as a note under section 114 of this title, prior to repeal by Pub. L. 104–106, §911(d)(2).
+Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 97–377, title I, §101(c) \[title VII, §791\], Dec. 21, 1982, 96 Stat. 1865, which was set out as a note under section 114 of this title, prior to repeal by Pub. L. 104–106, §911(d)(2).
 
 #### Amendments
 

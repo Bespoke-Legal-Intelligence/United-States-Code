@@ -4,7 +4,7 @@
 
 Authority Under AWACS Program.—The Secretary of Defense, in carrying out an AWACS memorandum of understanding, may do the following:
 
-&emsp;(1) Waive reimbursement for the cost of the following functions performed by personnel other than personnel employed in the United States Air Force Airborne Warning and Control System (AWACS) program office:
+&emsp;(1) Waive reimbursement for the cost of the following functions performed by personnelother than personnel employed in the United States Air Force Airborne Warning and Control System (AWACS) program office:
 
 &emsp;&emsp;(A) Auditing.
 

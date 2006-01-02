@@ -12,7 +12,7 @@
 
 (1) Not more than 10 per centum of the original appointments to the Regular Corps authorized to be made during any fiscal year may be made to grades above that of senior assistant, but no such appointment (other than an appointment under section 205 of this title) may be made to a grade above that of director. For the purpose of this subsection the number of original appointments authorized to be made during a fiscal year shall be (1) the excess of the number of officers of the Regular Corps authorized by the appropriation Act or Acts for such year over the number of officers on active duty in the Regular Corps on the first day of such year, plus (2) the number of such officers of the Regular Corps who, during such fiscal year, have been or will be retired upon attainment of age sixty-four or have for any other reason ceased to be on active duty. In determining the number of appointments authorized by this subsection an appointment shall be deemed to be made in the fiscal year in which the nomination is transmitted by the President to the Senate.
 
-(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that ofsenior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
+(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that of senior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
 
 &emsp;(A)(i) was on active duty in the Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
 
@@ -132,7 +132,35 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Functions of President delegated to Secretary of Health and Human Services and Surgeon General, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
+#### Personal Services Contracting
+
+Pub. L. 109–149, title II, §216, Dec. 30, 2005, 119 Stat. 2861, provided that: “The Division of Federal Occupational Health hereafter may utilize personal services contracting to employ professional management/administrative and occupational health professionals.”
+
+#### Similar Provisions
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. F, title II, §216, Dec. 8, 2004, 118 Stat. 3141.
+
+Pub. L. 108–199, div. E, title II, §216, Jan. 23, 2004, 118 Stat. 255.
+
+Pub. L. 108–7, div. G, title II, §216, Feb. 20, 2003, 117 Stat. 325.
+
+Pub. L. 107–116, title II, §216, Jan. 10, 2002, 115 Stat. 2201.
+
+Pub. L. 106–554, §1(a)(1) \[title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–13.
+
+Pub. L. 106–113, div. B, §1000(a)(4) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–225.
+
+Pub. L. 105–277, div. A, §101(f) \[title II\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–347.
+
+Pub. L. 105–78, title II, Nov. 13, 1997, 111 Stat. 1477.
+
+Pub. L. 104–208, div. A, title I, §101(e) \[title II\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–242.
+
+Pub. L. 104–134, title I, §101(d) \[title II\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–221; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
 #### Term of Reserve Commissions in Effect on April 27, 1956
 
-Section 3(c)(2) of act Apr. 27, 1956, provided that: “The enactment of paragraph (1) of this subsection\[amending subsec. (a)(2) of this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
+Section 3(c)(2) of act Apr. 27, 1956, provided that: “The enactment of paragraph (1) of this subsection \[amending subsec. (a)(2) of this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
 

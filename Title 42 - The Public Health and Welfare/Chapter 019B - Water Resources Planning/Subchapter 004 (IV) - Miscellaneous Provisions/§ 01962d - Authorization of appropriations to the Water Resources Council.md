@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 95–404, §1(c), substituted “The sum of $3,179,900 for 
 
 1977—Subsecs. (a), (b). Pub. L. 95–41, §1(b), (c), substituted “for fiscal year 1978” for “annually”.
 
-Subsec. (c). Pub. L. 95–41, §1(a), substituted “not to exceed the sum of $3,905,000 for fiscal year 1978” for “not to exceed a total of $10,000,000 for fiscal years 1976 and 1977”.
+Subsec. (c). Pub. L. 95–41, §1(a), substituted “not to exceed the sum of $3,905,000 for fiscal year 1978” for“not to exceed a total of $10,000,000 for fiscal years 1976 and 1977”.
 
 1976—Subsec. (b). Pub. L. 94–285 substituted “$2,000,000” for “$1,500,000”.
 

@@ -40,7 +40,7 @@
 
 &emsp;(D) has the current technical qualifications for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants;
 
-> may, in addition to all other compensation to which he is entitled, be paid an annual bonus in an amount not to exceed $10,000 for each nuclear service year.
+> may, in addition to all other compensation to which he is entitled, be paid an annual bonus in an amount not to exceed $14,000 for each nuclear service year.
 
 (2) In order to be eligible for an annual bonus for any nuclear service year in accordance with this subsection, an otherwise technically qualified officer must have been on active duty on the last day of that nuclear service year.
 
@@ -58,11 +58,15 @@
 
 (c) Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who is not on active duty on the last day of a nuclear service year or who, on or before the last day of a nuclear service year, loses his technical qualifications or advances from the pay grade of O–6 to a higher pay grade may be paid a bonus in accordance with subsection (a) or (b) on a pro rata basis, if otherwise qualified, unless termination of active duty or loss of technical qualifications was voluntary or was the result of his own misconduct.
 
-(d) For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2005.
+(d) For the purposes of this section, a “nuclear service year” is any fiscal year beginning before December 31, 2006.
 
-(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–513, title V, §516(9), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(c), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(c), Nov. 8, 1985, 99 Stat. 645; Pub. L. 101–189,div. A, title VI, §614(c), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(8), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(i), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(g), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(f), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(f), 624(c), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(f), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(g), 624(c), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(c), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(c), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §613(c), Oct. 28, 2004, 118 Stat. 1947.)
+(Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–513, title V, §516(9), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(c), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(c), Nov. 8, 1985, 99 Stat. 645; Pub. L. 101–189, div. A, title VI, §614(c), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(8), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(i), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(g), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(f), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(f), 624(c), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(f), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(g), 624(c), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(c), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(c), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §613(c), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§623(c), 638, Jan. 6, 2006, 119 Stat. 3295, 3301.)
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–163, §638, substituted “$14,000” for “$10,000” in concluding provisions.
+
+Subsec. (d). Pub. L. 109–163, §623(c), substituted “December 31, 2006” for “December 31, 2005”.
 
 2004—Subsec. (d). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
@@ -112,7 +116,7 @@ Subsec. (e). Pub. L. 99–145, §632(c)(3), substituted “October 1, 1990” fo
 
 Pub. L. 96–513, §516(9)(A), substituted “title. However” for “title: <i>Provided</i>, That”.
 
-Subsec. (b). Pub. L. 96–579, §2(c)(2), substituted “$3,500 for each nuclear service year ending before October 1, 1987” for “$2,400 for each nuclear service year beginning after September 30, 1975, and ending before October 1, 1981”.
+Subsec. (b). Pub. L. 96–579, §2(c)(2), substituted “$3,500 for each nuclear service year ending before October 1, 1987” for “$2,400 for each nuclear service year beginningafter September 30, 1975, and ending before October 1, 1981”.
 
 Subsec. (d). Pub. L. 96–513, §516(9)(B), substituted “Committees on Armed Services of the Senate and House of Representatives” for “House and Senate Armed Service Committees”.
 

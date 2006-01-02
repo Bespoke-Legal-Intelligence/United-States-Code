@@ -18,7 +18,7 @@ For purposes of this subchapter, a community may be a city, county, or multicity
 
 #### (d) Designation; Head Start agency; qualified applicants
 
-If no entity in a community is entitled to the priority specified in subsection (c) of this section, then the Secretary may designate a HeadStart agency from among qualified applicants in such community. In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall give priority to any qualified agency that functioned as a Head Start delegate agency in the community and carried out a Head Start program that the Secretary determines met or exceeded such performance standards and such results-based performance measures. In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall consider the effectiveness of each such applicant to provide Head Start services, based on—
+If no entity in a community is entitled to the priority specified in subsection (c) of this section, then the Secretary may designate a Head Start agency from among qualified applicants in such community. In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall give priority to any qualified agency that functioned as a Head Start delegate agency in the community and carried out a Head Start program that the Secretary determines met or exceeded such performance standards and such results-based performance measures. In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall consider the effectiveness of each such applicant to provide Head Start services, based on—
 
 &emsp;(1) any past performance of such applicant in providing services comparable to Head Start services, including how effectively such applicant provided such comparable services;
 
@@ -60,7 +60,7 @@ If no entity in a community is entitled to the priority specified in subsection 
 
 &emsp;(8) the plan of such applicant to meet the needs of children with disabilities;
 
-&emsp;(9) the plan of such applicant who chooses to assist younger siblings of children who will participate in the proposed Head Start program to obtain health services from other sources; and
+&emsp;(9) the plan of such applicant who chooses to assist younger siblings of children who willparticipate in the proposed Head Start program to obtain health services from other sources; and
 
 &emsp;(10) the plan of such applicant to collaborate with other entities carrying out early childhood education and child care programs in the community.
 
@@ -148,7 +148,7 @@ Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding pro
 
 Subsec. (c)(4). Pub. L. 103–252, §107(b)(1), struck out par. (4) which read as follows: “The results of a review conducted under this subsection shall not be sufficient alone for the purpose of determining whether to continue, or to discontinue, providing funds to a particular Head Start agency.”
 
-Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designationshall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
+Subsec. (d). Pub. L. 103–252, §107(c)(1)–(3)(A), in introductory provisions substituted “If no entity in a community is entitled to the priority specified in subsection (c) of this section,” for “If there is no Head Start agency as described in subsection (c)(2) of this section, and no existing Head Start program serving a community,” and struck out “Any such designation shall be governed by the program and fiscal requirements, criteria, and standards applicable on September 1, 1983, to then existing Head Start agencies.” after first sentence and “subject to the preceding sentence” after “as a Head Start agency”.
 
 Subsec. (d)(3). Pub. L. 103–252, §107(c)(3)(B), inserted “, including Even Start programs under part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2741 et seq.),” after “preschool programs”.
 

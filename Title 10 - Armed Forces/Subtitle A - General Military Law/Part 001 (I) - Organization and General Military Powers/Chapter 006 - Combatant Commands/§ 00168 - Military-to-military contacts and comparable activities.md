@@ -54,27 +54,37 @@ Limitations.—(1) Funds may not be provided under this section for a fiscal yea
 
 (f)
 
-Active Duty End Strengths.—(1) A member of a reserve component referred to in paragraph (2) shall not be counted for purposes of the following personnel strength limitations:
+Active Duty End Strengths.—A member of a reserve component who is engaged in activities authorized under this section shall not be counted for purposes of the following personnel strength limitations:
 
-&emsp;(A) The end strength for active-duty personnel authorized pursuant to section 115(a)(1) of this title for the fiscal year in which the member carries out the activities referred to in paragraph (2).
+&emsp;(1) The end strength for active-duty personnel authorized pursuant to section 115(a)(1) of this title for the fiscal year in which the member carries out the activities referred to under this section.
 
-&emsp;(B) The authorized daily average for members in pay grades E–8 and E–9 under section 517 of this title for the calendar year in which the member carries out such activities.
+&emsp;(2) The authorized daily average for members in pay grades E–8 and E–9 under section 517 of this title for the calendar year in which the member carries out such activities.
 
-&emsp;(C) The authorized strengths for commissioned officers under section 523 of this title for the fiscal year in which the member carries out such activities.
-
-(2) A member of a reserve component referred to in paragraph (1) is any member on active duty under an order to active duty for 180 days or more who is engaged in activities authorized under this section.
+&emsp;(3) The authorized strengths for commissioned officers under section 523 of this title for the fiscal year in which the member carries out such activities.
 
 (g)
 
 Military-to-Military Contacts Defined.—In this section, the term “military-to-military contacts” means contacts between members of the armed forces and members of foreign armed forces through activities described in subsection (c).
 
-(Added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289.)
+(Added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, §416(e), Oct. 28, 2004, 118 Stat. 1868.)
 
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(3), (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–375 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1) A member of a reserve component referred to in paragraph (2) shall not be counted for purposes of the following personnel strength limitations:
+
+&emsp;“(A) The end strength for active-duty personnel authorized pursuant to section 115(a)(1) of this title for the fiscal year in which the member carries out the activities referred to in paragraph (2).
+
+&emsp;“(B) The authorized daily average for members in pay grades E–8 and E–9 under section 517 of this title for the calendar year in which the member carries out such activities.
+
+&emsp;“(C) The authorized strengths for commissioned officers under section 523 of this title for the fiscal year in which the member carries out such activities.
+
+“(2) A member of a reserve component referred to in paragraph (1) is any member on active duty under an order to active duty for 180 days or more who is engaged in activities authorized under this section.”
 
 1996—Subsecs. (f), (g). Pub. L. 104–106 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -164,7 +174,7 @@ Pub. L. 104–201, div. A, title X, §1082, Sept. 23, 1996, 110 Stat. 2672, prov
 
 “(a)
 
-Authority To Enter Into International Exchange Agreements.—(1) The Secretary of Defensemay enter into international defense personnel exchange agreements.
+Authority To Enter Into International Exchange Agreements.—(1) The Secretary of Defense may enter into international defense personnel exchange agreements.
 
 “(2) For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of an ally of the United States or another friendly foreign country for the exchange of—
 

@@ -40,7 +40,7 @@ Stay of Proceedings.—(1) Upon the motion of the United States, the court shall
 
 #### Termination of Section
 
-<i>For termination of section by section 224 of Pub. L. 107–56, see Termination Date of 2001</i><i>Amendment note set out under section 2510 of this title.</i>
+<i>For termination of section by section 224 of Pub. L. 107–56, see Termination Date of 2001 Amendment note set out under section 2510 of this title.</i>
 
 #### References in Text
 

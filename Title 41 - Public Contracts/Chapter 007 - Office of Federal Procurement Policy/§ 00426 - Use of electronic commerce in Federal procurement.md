@@ -46,7 +46,7 @@ Not later than March 1 of each even-numbered year through 2004, the Administrato
 
 #### (f) “Electronic commerce” defined
 
-For the purposes of this section, the term “electronic commerce” means electronic techniques for accomplishing business transactions, including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
+For the purposes of this section, the term “electronic commerce” means electronic techniques for accomplishing business transactions, including electronic mail or messaging, WorldWide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
 
 (Pub. L. 93–400, §30, as added Pub. L. 103–355, title IX, §9001(a), Oct. 13, 1994, 108 Stat. 3399; Pub. L. 105–85, div. A, title VIII, §850(a), Nov. 18, 1997, 111 Stat. 1847; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–210.)
 

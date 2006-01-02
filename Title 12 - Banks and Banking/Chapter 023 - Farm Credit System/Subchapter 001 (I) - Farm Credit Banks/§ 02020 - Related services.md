@@ -48,7 +48,7 @@ Subsec. (b)(3). Pub. L. 101–220, §6(b)(2)(C), added par. (3).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title V, §5403(b), May 13, 2002, 116 Stat. 351, provided that: “The amendments made bythis section \[amending this section and sections 2277a–4 and 2277a–5 of this title\] shall apply with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums.”
+Pub. L. 107–171, title V, §5403(b), May 13, 2002, 116 Stat. 351, provided that: “The amendments made by this section \[amending this section and sections 2277a–4 and 2277a–5 of this title\] shall apply with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums.”
 
 #### Effective Date of 1989 Amendment
 

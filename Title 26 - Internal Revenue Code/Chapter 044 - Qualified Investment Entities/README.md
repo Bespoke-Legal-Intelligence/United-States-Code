@@ -13,10 +13,6 @@
 
 1976—Pub. L. 94–455, title XVI, §1605(a), Oct. 4, 1976, 90 Stat. 1754, added chapter heading and section analysis.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 275, 6103, 6161, 6211, 6212, 6213, 6214, 6405, 6501, 6512, 6862, 6871, 7422 of this title.
-
 
 ---
 

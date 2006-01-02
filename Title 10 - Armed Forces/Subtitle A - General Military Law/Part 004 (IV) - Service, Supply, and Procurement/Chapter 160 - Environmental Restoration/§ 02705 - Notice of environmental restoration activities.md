@@ -46,7 +46,7 @@ Technical Assistance.—(1) The Secretary may, upon the request of the technical
 
 (2) The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) may obtain technical assistance under paragraph (1) for a technical review committee or restoration advisory board only if—
 
-&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsible for overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
+&emsp;(A) the technical review committee or restoration advisory board demonstrates that the Federal, State, and local agencies responsiblefor overseeing environmental restoration at the installation, and available Department of Defense personnel, do not have the technical expertise necessary for achieving the objective for which the technical assistance is to be obtained; or
 
 &emsp;(B) the technical assistance—
 
@@ -151,8 +151,4 @@ Section 324(d)(2) of Pub. L. 104–106 provided that:
 “(2)(A) Subject to subparagraph (B), the total amount of funds made available under section 2705(g) of title 10, United States Code, as added by paragraph (1), for fiscal year 1996 may not exceed $6,000,000.
 
 “(B) Amounts may not be made available under subsection (g) of such section 2705 after September 15, 1996, unless the Secretary of Defense publishes proposed final or interim final regulations required under subsection (d) of such section, as amended by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2706 of this title.
 

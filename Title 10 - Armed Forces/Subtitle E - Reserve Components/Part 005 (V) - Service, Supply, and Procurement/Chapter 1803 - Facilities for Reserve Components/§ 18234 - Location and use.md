@@ -32,7 +32,3 @@ The word “community” is omitted as covered by the word “area”. The word 
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 18233 of this title.
-

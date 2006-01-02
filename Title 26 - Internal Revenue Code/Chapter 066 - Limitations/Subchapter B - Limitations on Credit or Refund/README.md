@@ -10,10 +10,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 905, 6230, 6422 of this title.
-
 
 ---
 

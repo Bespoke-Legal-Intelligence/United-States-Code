@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;In any case where notice has been given under paragraph (1) to any payor with respect to any underreporting, if the Secretary makes a determination under subparagraph (A) during the 12-month period ending on October 15 of any calendar year—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary shall take the action describedin subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), the Secretary shall take the action described in subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
 
 &emsp;&emsp;&emsp;(ii) in the case of—
 
@@ -380,7 +380,7 @@ For purposes of this section—
 
 &emsp;The term “readily tradable instrument” means—
 
-&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and
+&emsp;&emsp;(A) any instrument which is part of an issue any portion of which is traded on anestablished securities market (within the meaning of section 453(f)(5)), and
 
 &emsp;&emsp;(B) except as otherwise provided in regulations prescribed by the Secretary, any instrument which is regularly quoted by brokers or dealers making a market.
 
@@ -424,7 +424,7 @@ Subsec. (b)(6). Pub. L. 99–514, §1899A(46), substituted “6041A(a)” for �
 
 Subsec. (h)(5)(D). Pub. L. 99–514, §1521(b), added subpar. (D).
 
-1984—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted “(but not the reasons for the withholdingunder subsection (a)(1)(C))” for “(but not the reasons therefor)”.
+1984—Subsec. (c)(1). Pub. L. 98–369, §722(h)(2), substituted “(but not the reasons for the withholding under subsection (a)(1)(C))” for “(but not the reasons therefor)”.
 
 Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted “the payor was notified by a broker under subparagraph (B) or” after “if (and only if)” in provisions preceding cl. (i), struck out cl. (i) which read as follows: “the payor was notified by a broker under subparagraph (B),” and redesignated cls. (ii) and (iii) as (i) and (ii), respectively.
 
@@ -465,8 +465,4 @@ Section applicable with respect to payments made after Dec. 31, 1983, see sectio
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 31, 643, 6682, 6705, 7205, 7431 of this title.
 

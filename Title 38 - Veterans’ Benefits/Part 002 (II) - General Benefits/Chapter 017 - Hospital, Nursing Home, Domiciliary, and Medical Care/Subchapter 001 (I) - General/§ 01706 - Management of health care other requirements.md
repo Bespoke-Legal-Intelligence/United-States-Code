@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(iii) the percentage of unique inpatients with substance-use disorder diagnoses treated during the fiscal year who had one or more specialized clinic visits within three days of their index discharge, with a comparison from 1996 until the date of the report;
 
-&emsp;&emsp;(iv) the percentage of unique outpatients seen in a facility or geographic service areaduring the fiscal year who had one or more specialized clinic visits, with a comparison from 1996 until the date of the report; and
+&emsp;&emsp;(iv) the percentage of unique outpatients seen in a facility or geographic service area during the fiscal year who had one or more specialized clinic visits, with a comparison from 1996 until the date of the report; and
 
 &emsp;&emsp;(v) the rate of recidivism of patients at each specialized clinic in each geographic service area of the Veterans Health Administration.
 

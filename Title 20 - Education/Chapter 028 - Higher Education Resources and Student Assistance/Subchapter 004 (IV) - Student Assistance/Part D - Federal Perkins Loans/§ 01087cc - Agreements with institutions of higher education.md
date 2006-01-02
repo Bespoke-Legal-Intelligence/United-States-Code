@@ -30,7 +30,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 &emsp;(4) provide that where a note or written agreement evidencing a loan has been in default despite due diligence on the part of the institution in attempting collection thereon—
 
-&emsp;&emsp;(A) if the institution has knowingly failed to maintain an acceptable collection record with respect to such loan, as determined bythe Secretary in accordance with criteria established by regulation, the Secretary may—
+&emsp;&emsp;(A) if the institution has knowingly failed to maintain an acceptable collection record with respect to such loan, as determined by the Secretary in accordance with criteria established by regulation, the Secretary may—
 
 &emsp;&emsp;&emsp;(i) require the institution to assign such note or agreement to the Secretary, without recompense; and
 

@@ -20,7 +20,7 @@ The provisions of subsection (a) of this section shall not apply to the intercep
 
 #### (c) Scrambling of Public Broadcasting Service programming
 
-No person shall encrypt or continue to encrypt satellite delivered programs included in the National Program Service of the Public Broadcasting Service and intended for public viewing by retransmission by television broadcast stations; except that as long as at least one unencrypted satellite transmission of any program subject to this subsection is provided, this subsection shallnot prohibit additional encrypted satellite transmissions of the same program.
+No person shall encrypt or continue to encrypt satellite delivered programs included in the National Program Service of the Public Broadcasting Service and intended for public viewing by retransmission by television broadcast stations; except that as long as at least one unencrypted satellite transmission of any program subject to this subsection is provided, this subsection shall not prohibit additional encrypted satellite transmissions of the same program.
 
 #### (d) Definitions
 

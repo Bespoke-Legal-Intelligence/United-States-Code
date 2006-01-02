@@ -76,7 +76,3 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 For effective date of amendment by Pub. L. 90–485, see section 6 of Pub. L. 90–485, set out as a note under section 1431 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1440 of this title.
-

@@ -7,6 +7,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal of Part
+
+<i>Pub. L. 109–59, title XI, §11125(b)(19)(A), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this part is repealed.</i>
+
 #### Prior Provisions
 
 A prior part V consisted of sections 5691 to 5693, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

@@ -98,15 +98,19 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
 
-Notice of President of the United States, dated Feb. 18, 2005, 70 F.R. 8919, provided:
+Notice of President of the United States, dated Jan. 10, 2006, 71 F.R. 2133, provided:
 
-On March 1, 1996, by Proclamation 6867 \[set out above\], a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. In July 1996 and on subsequent occasions, the Cuban government stated its intent to forcefully defend its sovereignty against any U.S.-registered vessels or aircraft that might enter Cuban territorial waters or airspace while involved in a flotilla or peaceful protest. Since these events, the Cuban government has not demonstrated that it will refrain from the future use of reckless and excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. On February 26, 2004, by Proclamation 7757 \[set out below\], the scope of the national emergency was expanded in order to deny monetary and material support to the repressive Cuban government, which had taken a series of steps to destabilize relations with the United States, including threatening to abrogate the Migration Accords with the United States and to close the United States Interests Section. Further, Cuba's most senior officials repeatedly asserted that the United States intended to invade Cuba, despite explicit denials from the U.S. Secretaries of State and Defense that such action is planned. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867 as amended and expanded by Proclamation 7757.
+On March 1, 1996, by Proclamation 6867 \[set out above\], a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. In July 1996 and on subsequent occasions, the Cuban government stated its intent to forcefully defend its sovereignty against any U.S.-registered vessels or aircraft that might enter Cuban territorial waters or airspace while involved in a flotilla or peaceful protest. Since these events, the Cuban government has not demonstrated that it will refrain from the future use of reckless and excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. On February 26, 2004, by Proclamation 7757 \[set out below\], the scope of the national emergency was expanded in order to deny monetary and material support to the repressive Cuban government, which had taken a series of steps to destabilize relations with the United States, including threatening to abrogate the Migration Accords with the United States and to close the United States Interests Section.
+
+Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6687 \[6867\], as amended and expanded by Proclamation 7757.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 18, 2005, 70 F.R. 8919.
 
 Notice of President of the United States, dated Feb. 26, 2004, 69 F.R. 9513.
 
@@ -132,7 +136,7 @@ By the authority vested in me by the Constitution and the laws of the United Sta
 
 WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of section 6(j)(1)(A) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)(1)(A)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], and section 40 of the Arms Export Control Act \[22 U.S.C. 2780\];
 
-WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force, including deadly force, against U.S. citizens, in the ostensible enforcement of its sovereignty, including the February 1996 shoot-down of two unarmed U.S.-registered civilian aircraft in international airspace, resulting in the deaths of three American citizens and one other individual;
+WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force,including deadly force, against U.S. citizens, in the ostensible enforcement of its sovereignty, including the February 1996 shoot-down of two unarmed U.S.-registered civilian aircraft in international airspace, resulting in the deaths of three American citizens and one other individual;
 
 WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force, including deadly force, against U.S. citizens and its own citizens, including on July 13, 1995, when persons in U.S.-registered vessels that entered into Cuban territorial waters suffered injury as a result of the reckless use of force against them by the Cuban military, and including the July 1994 sinking of an unarmed Cuban-registered vessel, resulting in the deaths of 41 Cuban citizens;
 

@@ -92,7 +92,7 @@ Compensation and Expenses of United States Members.—
 
 &emsp;“(1)
 
-Compensation.—Each member of the Commission appointed by the President who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. Each such member who is an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
+Compensation.—Each member of the Commission appointed by the President who is not an officeror employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. Each such member who is an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
 
 &emsp;“(2)
 
@@ -211,6 +211,8 @@ Agreement.—The term ‘Agreement’ means an agreement described in section 30
 &emsp;“(2)
 
 Commission.—The term ‘Commission’ means a commission established pursuant to any Agreement.”
+
+<i><sup>1</sup></i><i> So in original.</i>
 
 
 ---

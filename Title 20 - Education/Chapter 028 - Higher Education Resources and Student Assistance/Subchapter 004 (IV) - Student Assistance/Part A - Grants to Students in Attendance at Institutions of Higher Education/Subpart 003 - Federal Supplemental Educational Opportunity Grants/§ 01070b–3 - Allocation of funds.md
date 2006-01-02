@@ -66,7 +66,7 @@
 
 &emsp;(C) compute 75 percent of the average cost of attendance for all undergraduate students;
 
-&emsp;(D) multiply the number of eligible dependent students in each income category by 75 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C), minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
+&emsp;(D) multiply the number of eligible dependent students in each income category by 75 percent of the average cost of attendance forall undergraduate students determined under subparagraph (C), minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;
 
 &emsp;(E) add the amounts determined under subparagraph (D) for each income category of dependent students;
 

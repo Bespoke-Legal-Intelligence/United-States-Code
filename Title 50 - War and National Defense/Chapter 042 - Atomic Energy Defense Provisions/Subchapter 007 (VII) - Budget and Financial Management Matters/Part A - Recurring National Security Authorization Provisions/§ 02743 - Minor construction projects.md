@@ -10,7 +10,7 @@ The Secretary shall submit to the congressional defense committees on an annual 
 
 #### (c) Cost variation reports to congressional committees
 
-If, at any time during the construction of any minor construction project authorized by a DOE national security authorization, the estimatedcost of the project is revised and the revised cost of the project exceeds the minor construction threshold, the Secretary shall immediately submit to the congressional defense committees a report explaining the reasons for the cost variation.
+If, at any time during the construction of any minor construction project authorized by a DOE national security authorization, the estimated cost of the project is revised and the revised cost of the project exceeds the minor construction threshold, the Secretary shall immediately submit to the congressional defense committees a report explaining the reasons for the cost variation.
 
 #### (d) Minor construction project defined
 

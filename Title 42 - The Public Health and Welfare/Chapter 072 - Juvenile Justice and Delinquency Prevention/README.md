@@ -181,12 +181,7 @@
 | (c) | Applicants providing street-based services. |
 | (d) | Applicants providing home-based services. |
 | (e) | Applicants providing drug abuse education and prevention services. |
-| 5712a to 5712c. Repealed. |  |
-| [5712d.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005712d%20-%20Grants%20for%20prevention%20of%20sexual%20abuse%20and%20exploitation.md) | Grants for prevention of sexual abuse and exploitation. |
-| (a) | In general. |
-| (b) | Priority. |
-| (c) | Authorization of appropriations. |
-| (d) | Definitions. |
+| 5712a to 5712d. Repealed. |  |
 | [5713\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20A%20-%20Basic%20Center%20Grant%20Program/%C2%A7%2005713%20-%20Approval%20of%20applications.md) | Approval of applications. |
 | (a) | In general. |
 | (b) | Priority. |
@@ -262,7 +257,7 @@
 | [5751\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005751%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
 | (b) | Separate identification required. |
-| [5752\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005752%20-%20Restriction%20on%20use%20of%20funds.md) | Restrictions on use of funds. |
+| [5752\.](Subchapter%20003%20%28III%29%20-%20Runaway%20and%20Homeless%20Youth/Part%20F%20-%20General%20Provisions/%C2%A7%2005752%20-%20Restriction%20on%20use%20of%20funds.md) | Restriction on use of funds. |
 | (a) | In general. |
 | (b) | Separate accounting. |
 

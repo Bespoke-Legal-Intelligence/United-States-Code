@@ -8,7 +8,7 @@ No credit or refund shall be allowed or made, in pursuance of a court decision o
 
 &emsp;(2) that he has unconditionally repaid the amount claimed to the person who bore the ultimate burden of such amount; or
 
-&emsp;(3) that (A) the owner of the commodity furnished him the amount claimed for payment of the tax, (B) he has filed with the Secretary the written consent of such owner to the allowance to the claimant of the credit or refund, and (C) such owner satisfies the requirements of paragraph (1) or (2).
+&emsp;(3) that (A) the owner of the commodity furnished him the amount claimed for payment of the tax, (B) he has filed with the Secretarythe written consent of such owner to the allowance to the claimant of the credit or refund, and (C) such owner satisfies the requirements of paragraph (1) or (2).
 
 #### (b) Filing of claims
 
@@ -16,7 +16,7 @@ No credit or refund of any amount to which subsection (a) applies shall be allow
 
 #### (c) Application of section
 
-This section shall apply only if the credit or refund is claimed on the grounds that anamount of alcohol or tobacco tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive. This section shall not apply to—
+This section shall apply only if the credit or refund is claimed on the grounds that an amount of alcohol or tobacco tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive. This section shall not apply to—
 
 &emsp;(1) any claim for drawback, and
 

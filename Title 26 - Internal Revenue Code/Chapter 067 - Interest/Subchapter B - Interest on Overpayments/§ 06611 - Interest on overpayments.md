@@ -18,7 +18,7 @@ Such interest shall be allowed and paid as follows:
 
 #### (3) Late returns
 
-&emsp;Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after thelast date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
+&emsp;Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
 
 #### \[(c) Repealed. Pub. L. 85–866, title I, §83(c), Sept. 2, 1958, 72 Stat. 1664\]
 
@@ -70,7 +70,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 #### (A) Filing date
 
-&emsp;&emsp;For purposes of this subsection, the term “filing date” means the last date prescribed for filing the return of tax imposed by subtitle A for the taxable year (determined without regard to extensions).
+&emsp;&emsp;For purposes of this subsection, the term “filing date” means the last date prescribedfor filing the return of tax imposed by subtitle A for the taxable year (determined without regard to extensions).
 
 #### (B) Coordination with subsection (e)
 
@@ -90,7 +90,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a carryback of taxes paid or accrued to foreign countries or possessions of the United States, the taxable year in which such taxes were in fact paid or accrued (or, with respect to any portion of such carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such subsequent taxable year), and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a credit carryback (as defined in paragraph (3)(B)), the taxable year in which such credit carryback arises (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, a capital loss carryback, orother credit carryback from a subsequent taxable year, such subsequent taxable year).
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a credit carryback (as defined in paragraph (3)(B)), the taxable year in which such credit carryback arises (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, a capital loss carryback, or other credit carryback from a subsequent taxable year, such subsequent taxable year).
 
 #### (C) Application of subparagraph (B) where section 6411(a) claim filed
 
@@ -146,7 +146,7 @@ Subsecs. (g) to (i). Pub. L. 105–34, §1055(b)(2)(D), redesignated subsecs. (h
 
 Refund of Income Tax Caused by Carryback of Foreign Taxes.—For purposes of subsection (a), if any overpayment of tax results from a carryback of tax paid or accrued to foreign countries or possessions of the United States, such overpayment shall be deemed not to have been paid or accrued prior to the filing date (as defined in subsection (f)(3)) for the taxable year under this subtitle in which such taxes were in fact paid or accrued.”
 
-1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last date prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
+1993—Subsec. (e). Pub. L. 103–66 amended heading and text of subsec. (e) generally. Prior to amendment, textread as follows: “If any overpayment of tax imposed by subtitle A is refunded within 45 days after the last date prescribed for filing the return of such tax (determined without regard to any extension of time for filing the return) or, in case the return is filed after such last date, is refunded within 45 days after the date the return is filed, no interest shall be allowed under subsection (a) on such overpayment.”
 
 1988—Subsecs. (h) to (j). Pub. L. 100–418 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to special rule for windfall profit tax.
 
@@ -170,7 +170,7 @@ Subsecs. (i), (j). Pub. L. 97–248, §346(b), added subsec. (i) and redesignate
 
 1980—Subsecs. (h), (i). Pub. L. 96–223 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-1978—Subsec. (f)(2). Pub. L. 95–628, §8(c)(3)(A), substituted in heading “Certain credit carrybacks” for“Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
+1978—Subsec. (f)(2). Pub. L. 95–628, §8(c)(3)(A), substituted in heading “Certain credit carrybacks” for “Investment credit carryback”, designated existing provision as subpar. (A), and in subpar. (A) as so designated inserted heading “In general” and extended the application of provision to credit carrybacks, previously limited to investment credit carrybacks, included other credit carrybacks, and added subpar. (B).
 
 Subsec. (f)(4), (5). Pub. L. 95–628, §8(c)(3)(B), struck out pars. (4) and (5) which provided for work incentive program credit carrybacks and new employee credit carrybacks, respectively.
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 99–514 applicable for purposes of determining interest fo
 
 Amendment by section 211(b)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
-Amendment by section 714(n)(2)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 714(n)(2)(A) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 Section 1875(d)(3) of Pub. L. 99–514 provided that: “Notwithstanding section 715 of the Tax Reform Act of 1984 \[Pub. L. 98–369\], the amendments made by section 714(n)(2) of such Act \[amending this section and section 6411 of this title\] shall apply only to applications filed after July 18, 1984.”
 
@@ -301,8 +301,4 @@ Amendment by section 83(b), (c) of Pub. L. 85–866 applicable only in respect o
 #### No Interest on Individual Income Tax Refunds for 1974 Refunded Within 60 Days After Return Is Filed
 
 Pub. L. 94–12, title I, §101(b), Mar. 29, 1975, 89 Stat. 28, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In applying section 6611(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to income tax refund within 45 days after return is filed) in the case of any overpayment of tax imposed by subtitle A of such Code by an individual (other than an estate or trust and other than a nonresident alien individual) for a taxable year beginning in 1974, ‘60 days’ shall be substituted for ‘45 days’ each place it appears in such section 6611(e).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 815, 6411, 6601, 7508 of this title.
 

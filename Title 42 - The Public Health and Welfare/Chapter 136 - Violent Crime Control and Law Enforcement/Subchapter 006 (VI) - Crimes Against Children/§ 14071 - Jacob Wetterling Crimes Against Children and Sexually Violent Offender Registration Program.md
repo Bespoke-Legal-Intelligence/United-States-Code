@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for the time period specified in subparagraph (A) of subsection (b)(6) of this section; and
 
-&emsp;&emsp;(B) a person who is a sexually violent predator to register a current address unless such requirement is terminated under subparagraph (B) of subsection (b)(6) of this section.
+&emsp;&emsp;(B) a person who is a sexually violent predator to register a current address for the time period specified in subparagraph (B) of subsection (b)(6) of this section.
 
 #### (2) Determination of sexually violent predator status; waiver; alternative measures
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) makes such an attempt a criminal offense; and
 
-&emsp;&emsp;&emsp;&emsp;(II) chooses to include such an offense in those which are criminal offensesagainst a victim who is a minor for the purposes of this section.
+&emsp;&emsp;&emsp;&emsp;(II) chooses to include such an offense in those which are criminal offenses against a victim who is a minor for the purposes of this section.
 
 > &emsp;&emsp;For purposes of this subparagraph conduct which is criminal only because of the age of the victim shall not be considered a criminal offense if the perpetrator is 18 years of age or younger.
 
@@ -84,7 +84,7 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(v) require the person to read and sign a form stating that the duty of the person to register under this section has been explained.
 
-&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to register under subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipated future residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
+&emsp;(B) In addition to the requirements of subparagraph (A), for a person required to register under subparagraph (B) of subsection (a)(1) of this section, the State prison officer, the court, or another responsible officer or official, as the case may be, shall obtain the name of the person, identifying factors, anticipatedfuture residence, offense history, and documentation of any treatment received for the mental abnormality or personality disorder of the person.
 
 #### (2) Transfer of information to State and FBI; participation in national sex offender registry
 
@@ -104,7 +104,7 @@ An approved State registration program established under this section shall cont
 
 #### (4) Notification of local law enforcement agencies of changes in address
 
-&emsp;A change of address by a person required to register under this section shall be reported bythe person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system.
+&emsp;A change of address by a person required to register under this section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system.
 
 #### (5) Registration for change of address to another State
 
@@ -158,7 +158,7 @@ Law enforcement agencies, employees of law enforcement agencies and independent 
 
 #### (2) Ineligibility for funds
 
-&emsp;(A) A State that fails to implement the program as described in this section shall not receive 10 percent of the funds that would otherwise be allocated to the State under section 3756 of this title.
+&emsp;(A) A State that fails to implement the program as described in this section shall not receive 10 percent of the funds that would otherwise be allocated to the State under section 3756 <sup>1</sup> of this title.
 
 &emsp;(B)
 
@@ -206,7 +206,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (3) Authorization of appropriations
 
-&emsp;There is authorized to be appropriated for each of the fiscal years 2004 through 2007 such sums as may be necessary to carry out the provisions of section 3796dd(d)(10) of this title, as added by the PROTECT Act.
+&emsp;There is authorized to be appropriated for each of the fiscal years 2004 through 2007 such sums as may be necessary to carry out the provisions of section 3796dd(d)(10) of this title, as added by the PROTECT Act.<sup>1</sup>
 
 #### (j) Notice of enrollment at or employment by institutions of higher education
 
@@ -236,13 +236,17 @@ Each requirement to register under this section shall be deemed to also require 
 
 &emsp;Nothing in this subsection shall require an educational institution to request such information from any State.
 
-(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985; Pub. L. 106–386, div. B, title VI, §1601(b)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 108–21, title VI, §§604(a), 605(a), 606, Apr. 30, 2003, 117 Stat. 688.)
+(Pub. L. 103–322, title XVII, §170101, Sept. 13, 1994, 108 Stat. 2038; Pub. L. 104–145, §2, May 17, 1996, 110 Stat. 1345; Pub. L. 104–236, §§3–7, Oct. 3, 1996, 110 Stat. 3096, 3097; Pub. L. 105–119, title I, §115(a)(1)–(5), Nov. 26, 1997, 111 Stat. 2461–2463; Pub. L. 105–314, title VI, §607(a), Oct. 30, 1998, 112 Stat. 2985; Pub. L. 106–386, div. B, title VI, §1601(b)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 108–21, title VI, §§604(a), 605(a), 606, Apr. 30, 2003, 117 Stat. 688; Pub. L. 109–162, title XI, §1153(b), Jan. 5, 2006, 119 Stat. 3113.)
 
 #### References in Text
 
-Section 3796dd(d)(10) of this title, as added by the PROTECT Act, referred to in subsec. (i)(3), means section 3796dd(d)(10) of this title, as added by Pub. L. 108–21.
+Section 3756 of this title, referred to in subsec. (g)(2)(A), was repealed and a new section 3756 enacted by Pub. L. 109–162, title XI, §1111(a)(1), (2)(C), Jan. 5, 2006, 119 Stat. 3094, 3100. Provisions relating to allocations to States are contained in section 3755 of this title. See section 3750(b)(2) of this title.
+
+Section 3796dd(d)(10) of this title, as added by the PROTECT Act, referred to in subsec. (i)(3), means section 3796dd(d)(10) of this title, as added by Pub. L. 108–21, which was redesignated section 3796dd(b)(15) by Pub. L. 109–162, title XI, §1163(a)(3)(B), Jan. 5, 2006, 119 Stat. 3119.
 
 #### Amendments
+
+2006—Subsec. (a)(1)(B). Pub. L. 109–162 substituted “for the time period specified in” for “unless such requirement is terminated under”.
 
 2003—Pub. L. 108–21, §605(a)(1), substituted “Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Program” for “Establishment of Program” in section catchline.
 
@@ -310,7 +314,7 @@ Subsec. (g). Pub. L. 105–119, §115(a)(3), redesignated subsec. (f), relating 
 
 1996—Subsec. (a)(2). Pub. L. 104–236, §4, inserted before period at end “, victim rights advocates, and representatives from law enforcement agencies”.
 
-Subsec. (b)(2). Pub. L. 104–236, §7, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit theconviction data and fingerprints to the Federal Bureau of Investigation.”
+Subsec. (b)(2). Pub. L. 104–236, §7, amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit the conviction data and fingerprints to the Federal Bureau of Investigation.”
 
 Subsec. (b)(3)(A)(iii). Pub. L. 104–236, §6, inserted at end “The person shall include with the verification form, fingerprints and a photograph of that person.”
 
@@ -362,7 +366,7 @@ Compliance by States.—Each State shall implement the amendments made by sectio
 
 Ineligibility for Funds.—
 
-&emsp;“(1) A State that fails to implement the program as described in sections 3, 4, 5, 6, and 7 of this Act \[amending this section\] shall not receive 10 percent of the funds that would otherwise be allocated to the State under section 506 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3756).
+&emsp;“(1) A State that fails to implement the program as described in sections 3, 4, 5, 6, and 7 of this Act \[amending this section\] shall not receive 10 percent of the funds that would otherwise be allocated to the State under section 506 of the Omnibus Crime Control and Safe Streets Act of 1968 (\[former\] 42 U.S.C. 3756).
 
 &emsp;“(2) Any funds that are not allocated for failure to comply with section 3, 4, 5, 6, or 7 of this Act shall be reallocated to States that comply with these sections.
 
@@ -381,6 +385,10 @@ Section 11 of Pub. L. 104–236 provided that: “If any provision of this Act \
 #### Transfer of Functions
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
+
+#### Simplification of Compliance Deadlines Under Sex-offender Registration Laws
+
+Pub. L. 109–162, title XI, §1153(a), Jan. 5, 2006, 119 Stat. 3113, provided that: “A State shall not be treated, for purposes of any provision of law, as having failed to comply with section 170101 (42 U.S.C. 14071) or 170102 (42 U.S.C. 14072) of the Violent Crime Control and Law Enforcement Act of 1994 until 36 months after the date of the enactment of this Act \[Jan. 5, 2006\], except that the Attorney General may grant an additional 24 months to a State that is making good faith efforts to comply with such sections.”
 
 #### National Internet Site
 
@@ -405,4 +413,6 @@ Contents of Study.—The study under this section shall include an examination o
 &emsp;“(1) existing State programs for informing the public about the presence of sexual predators released from prison, as required in section 170101 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14071), including the use of CD-ROMs, Internet databases, and Sexual Offender Identification Hotlines, such as those used in the State of California; and
 
 &emsp;“(2) the feasibility of establishing a national hotline for parents to access a Federal Bureau of Investigation database that tracks the location of convicted sexual predators established under section 170102 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 14072) and, in determining that feasibility, the Attorney General shall examine issues including the cost, necessary changes to Federal and State laws necessitated by the creation of such a hotline, consistency with Federal and State case law pertaining to community notification, and the need for, and accuracy and reliability of, the information available through such a hotline.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

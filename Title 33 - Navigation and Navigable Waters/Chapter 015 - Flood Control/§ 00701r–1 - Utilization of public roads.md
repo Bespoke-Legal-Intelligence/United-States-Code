@@ -10,7 +10,7 @@ When used in this section—
 
 &emsp;(3) The term “water resources projects to be constructed in the future” includes all projects not yet actually under construction, and, to the extent of work remaining to be completed, includes projects presently under construction where road relocations or identifiable components thereof are not complete as of the date of this section.
 
-&emsp;(4) The term “time of the taking” is the date of the relocation agreement, the date of the filing of a condemnation proceeding, or a dateagreed upon between the parties as the date of taking.
+&emsp;(4) The term “time of the taking” is the date of the relocation agreement, the date of the filing of a condemnation proceeding, or a date agreed upon between the parties as the date of taking.
 
 #### (b) Improvement, reconstruction, and maintenance
 

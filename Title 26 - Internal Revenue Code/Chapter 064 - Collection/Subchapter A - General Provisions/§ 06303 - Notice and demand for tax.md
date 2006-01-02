@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Where it is not otherwise provided by this title, the Secretary shall, as soon as practicable, and within 60 days, after the making of an assessment of a tax pursuant to section 6203, give notice to each person liable for the unpaid tax, stating the amount and demanding paymentthereof. Such notice shall be left at the dwelling or usual place of business of such person, or shall be sent by mail to such person's last known address.
+Where it is not otherwise provided by this title, the Secretary shall, as soon as practicable, and within 60 days, after the making of an assessment of a tax pursuant to section 6203, give notice to each person liable for the unpaid tax, stating the amount and demanding payment thereof. Such notice shall be left at the dwelling or usual place of business of such person, or shall be sent by mail to such person's last known address.
 
 #### (b) Assessment prior to last date for payment
 
@@ -13,8 +13,4 @@ Except where the Secretary believes collection would be jeopardized by delay, if
 #### Amendments
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6305, 6656, 7522 of this title.
 

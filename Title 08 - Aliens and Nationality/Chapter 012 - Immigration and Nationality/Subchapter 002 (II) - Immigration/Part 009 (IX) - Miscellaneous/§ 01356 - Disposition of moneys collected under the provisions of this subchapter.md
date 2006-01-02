@@ -56,7 +56,7 @@ In addition to any other fee authorized by law, the Attorney General shall charg
 
 #### (g) Provision of immigration inspection and preinspection services
 
-Notwithstanding section 1353b of this title, or any other provision of law, the immigration services required to be provided to passengers upon arrival in the United States on scheduled airline flights shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (d) of this section) to airlines and airline passengers at:
+Notwithstanding section 1353b of this title, or any other provision of law, the immigrationservices required to be provided to passengers upon arrival in the United States on scheduled airline flights shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (d) of this section) to airlines and airline passengers at:
 
 &emsp;(1) immigration serviced airports, and
 
@@ -116,7 +116,7 @@ The Attorney General shall prepare and submit annually to Congress statements of
 
 #### (p) Additional effective dates
 
-The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section apply to adjudicationand naturalization services performed and to related fees collected on or after October 1, 1988.
+The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section apply to adjudication and naturalization services performed and to related fees collected on or after October 1, 1988.
 
 #### (q) Land Border Inspection Fee Account
 
@@ -144,7 +144,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 &emsp;(vi) providing for the administration of said account.
 
-(B) The amounts required to be refunded from the Land Border Inspection Fee Account for fiscal years 1992 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years: <i>Provided</i>, That any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of Public Law 101–162.
+(B) The amounts required to be refunded from the Land Border Inspection Fee Account for fiscal years 1992 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years: <i>Provided</i>, That any proposed changes in the amounts designated in said budget requests shall only be made after notification to theCommittees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of Public Law 101–162.
 
 (4) The Attorney General will prepare and submit annually to the Congress statements of financial condition of the Land Border Immigration Fee Account, including beginning account balance, revenues, withdrawals, and ending account balance and projection for the ensuing fiscal year.
 
@@ -192,11 +192,11 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (5) Use of fees for duties relating to petitions
 
-&emsp;5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Homeland Security until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, under paragraph (1)(C) or (D) of section 1154 <sup>5</sup> of this title related to petitions for immigrants described in section 1153(b) of this title.
+&emsp;5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Homeland Security until expended to carry out duties under paragraphs (1) and (9) of section1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, under paragraph (1)(C) or (D) of section 1154 <sup>5</sup> of this title related to petitions for immigrants described in section 1153(b) of this title.
 
 #### (6) Use of fees for application processing and enforcement
 
-&emsp;For fiscal year 1999, 4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and for carrying out section 1182(n)(2) of this title. Beginning with fiscal year 2000, 5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title.
+&emsp;For fiscal year 1999, 4 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and for carrying out section 1182(n)(2) of this title. Beginning with fiscal year 2000, 5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title.
 
 #### (t) Genealogy Fee
 
@@ -210,19 +210,19 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application fee that may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index.
 
-#### (v) H–1B and L Fraud Prevention and Detection Account
+#### (v) Fraud Prevention and Detection Account
 
 #### (1) In general
 
-&emsp;There is established in the general fund of the Treasury a separate account, which shall be known as the “H–1B and L Fraud Prevention and Detection Account”. Notwithstanding any other provision of law, there shall be deposited as offsetting receipts into the account all fees collected under section 1184(c)(12) of this title.
+&emsp;There is established in the general fund of the Treasury a separate account, which shall be known as the “Fraud Prevention and Detection Account”. Notwithstanding any other provision of law, there shall be deposited as offsetting receipts into the account all fees collected under paragraph (12) or (13) of section 1184(c) of this title.
 
 #### (2) Use of fees to combat fraud
 
 #### (A) Secretary of State
 
-&emsp;&emsp;One-third of the amounts deposited into the H–1B and L Fraud Prevention and Detection Account shall remain available to the Secretary of State until expended for programs and activities at United States embassies and consulates abroad—
+&emsp;&emsp;One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of State until expended for programs and activities at United States embassies and consulates abroad—
 
-&emsp;&emsp;&emsp;(i) to increase the number <sup>6</sup> diplomatic security personnel assigned exclusively to the function of preventing and detecting fraud by applicants for visas described in subparagraph (H)(i) or (L) of section 1101(a)(15) of this title;
+&emsp;&emsp;&emsp;(i) to increase the number <sup>6</sup> diplomatic security personnel assigned exclusively to the function of preventing and detecting fraud by applicants for visas described in subparagraph (H)(i), (H)(ii), or (L) of section 1101(a)(15) of this title;
 
 &emsp;&emsp;&emsp;(ii) otherwise to prevent and detect such fraud pursuant to the terms of a memorandum of understanding or other cooperative agreement between the Secretary of State and the Secretary of Homeland Security; and
 
@@ -230,17 +230,17 @@ The Attorney General is authorized to establish and collect a premium fee for em
 
 #### (B) Secretary of Homeland Security
 
-&emsp;&emsp;One-third of the amounts deposited into the H–1B and L Fraud Prevention and Detection Account shall remain available to the Secretary of Homeland Security until expended for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in subparagraph (H)(i) or (L) of section 1101(a)(15) of this title.
+&emsp;&emsp;One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Homeland Security until expended for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in subparagraph (H)(i), (H)(ii), or (L) of section 1101(a)(15) of this title.
 
 #### (C) Secretary of Labor
 
-&emsp;&emsp;One-third of the amounts deposited into the H–1B and L Fraud Prevention and Detection Account shall remain available to the Secretary of Labor until expended for enforcement programs and activities described in section 1182(n) of this title.
+&emsp;&emsp;One-third of the amounts deposited into the Fraud Prevention and Detection Account shall remain available to the Secretary of Labor until expended for enforcement programs and activities described in section 1182(n) of this title.
 
 #### (D) Consultation
 
-&emsp;&emsp;The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the H–1B and L Fraud Prevention and Detection Account.
+&emsp;&emsp;The Secretary of State, the Secretary of Homeland Security, and the Secretary of Labor shall consult one another with respect to the use of the funds in the Fraud Prevention and Detection Account or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1,July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201; Pub. L. 108–7, div. B, title I, §108, div. L, §107, Feb. 20, 2003, 117 Stat. 67, 532; Pub. L. 108–77, title IV, §402(d)(2), Sept. 3, 2003, 117 Stat. 946; Pub. L. 108–447, div. J, title IV, §§426(b), 427, Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109–13, div. A, title VI, §6046, div. B, title IV, §403(b), May 11, 2005, 119 Stat. 295, 319.)
 
 #### Amendment of Section
 
@@ -256,6 +256,22 @@ Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is sectio
 
 #### Amendments
 
+2005—Subsec. (s)(6). Pub. L. 109–13, §6046, inserted “and section 1182(a)(5)(A) of this title” before period at end.
+
+Subsec. (v). Pub. L. 109–13, §403(b)(2), struck out “H–1B and L” before “Fraud Prevention” in heading.
+
+Subsec. (v)(1). Pub. L. 109–13, §403(b)(1)(A), (B), struck out “H–1B and L” before “Fraud Prevention” and substituted “paragraph (12) or (13) of section 1184(c) of this title” for “section 1184(c)(12) of this title”.
+
+Subsec. (v)(2)(A). Pub. L. 109–13, §403(b)(1)(A), struck out “H–1B and L” before “Fraud Prevention” in introductory provisions.
+
+Subsec. (v)(2)(A)(i). Pub. L. 109–13, §403(b)(1)(C), substituted “(H)(i), (H)(ii),” for “(H)(i)”.
+
+Subsec. (v)(2)(B). Pub. L. 109–13, §403(b)(1)(A), (C), struck out “H–1B and L” before “Fraud Prevention” and substituted “(H)(i), (H)(ii),” for “(H)(i)”.
+
+Subsec. (v)(2)(C). Pub. L. 109–13, §403(b)(1)(A), struck out “H–1B and L” before “Fraud Prevention”.
+
+Subsec. (v)(2)(D). Pub. L. 109–13, §403(b)(1)(A), (D), struck out “H–1B and L” before “Fraud Prevention” and inserted “or for programs and activities to prevent and detect fraud with respect to petitions under paragraph (1) or (2)(A) of section 1184(c) of this title to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(ii) of this title” before period at end.
+
 2004—Subsec. (s)(2). Pub. L. 108–447, §427(1), substituted “50 percent” for “55 percent”.
 
 Subsec. (s)(3). Pub. L. 108–447, §427(2), substituted “30 percent” for “22 percent”.
@@ -264,7 +280,7 @@ Subsec. (s)(4)(A). Pub. L. 108–447, §427(3), substituted “10 percent” for
 
 Subsec. (s)(5). Pub. L. 108–447, §427(4), substituted “5 percent” for “4 percent” and “Secretary of Homeland Security” for “Attorney General”.
 
-Subsec. (s)(6). Pub. L. 108–447, §427(5), substituted “Beginning with fiscal year 2000, 5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title” for “Beginning with fiscal year 2000, 2 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title, and 2 percent of such amounts shall remain available to such Secretary until expended for carrying out section1182(n)(2) of this title. Notwithstanding the preceding sentence, both of the amounts made available for any fiscal year (beginning with fiscal year 2000) pursuant to the preceding sentence shall be available to such Secretary, and shall remain available until expended, only for decreasing the processing time for applications under section 1182(n)(1) of this title until the Secretary submits to the Congress a report containing a certification that, during the most recently concluded calendar year, the Secretary substantially complied with the requirement in section 1182(n)(1) of this title relating to the provision of the certification described in section 1101(a)(15)(H)(i)(b) of this title within a 7-day period”.
+Subsec. (s)(6). Pub. L. 108–447, §427(5), substituted “Beginning with fiscal year 2000, 5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title” for “Beginning with fiscal year 2000, 2 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for decreasing the processing time for applications under section 1182(n)(1) of this title and section 1182(a)(5)(A) of this title, and 2 percent of such amounts shall remain available to such Secretary until expended for carrying out section 1182(n)(2) of this title. Notwithstanding the preceding sentence, both of the amounts made available for any fiscal year (beginning with fiscal year 2000) pursuant to the preceding sentence shall be available to such Secretary, and shall remain available until expended, only for decreasing the processing time for applications under section 1182(n)(1) of this title until the Secretary submits to the Congress a report containing a certification that, during the most recently concluded calendar year, the Secretary substantially complied with the requirement in section 1182(n)(1) of this title relating to the provision of the certification described in section 1101(a)(15)(H)(i)(b) of this title within a 7-day period”.
 
 Subsec. (v). Pub. L. 108–447, §426(b), added subsec. (v).
 
@@ -330,7 +346,7 @@ Subsec. (r)(3). Pub. L. 105–119, §110(2)(B), substituted “Attorney General�
 
 Subsec. (r)(4). Pub. L. 105–119, §110(2)(C), added par. (4) and struck out former par. (4) which read as follows: “The amount required to be refunded from the Fund for fiscal year 1994 and thereafter shall be refunded in accordance with estimates made in the budget request of the Attorney General for those fiscal years: <i>Provided</i>, That any proposed changes in the amounts designated in said budget requests shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of Public Law 102–395.”
 
-Subsec. (s). Pub. L. 105–119, §110(1), struck out heading and text of subsec. (s) which established Immigration Detention Account in general fund of the Treasury to be drawn upon to refund to any appropriationamounts paid out for expenses incurred by Attorney General for detention of aliens.
+Subsec. (s). Pub. L. 105–119, §110(1), struck out heading and text of subsec. (s) which established Immigration Detention Account in general fund of the Treasury to be drawn upon to refund to any appropriation amounts paid out for expenses incurred by Attorney General for detention of aliens.
 
 1996—Subsec. (a). Pub. L. 104–208, §308(g)(1), substituted “section 1223(b)” for “section 1228(b)”.
 
@@ -356,7 +372,7 @@ Pub. L. 104–208, §308(d)(4)(K), substituted “removal” for “exclusion”
 
 Pub. L. 104–208, §308(d)(3)(A), substituted “inadmissible” for “excludable” in two places.
 
-Subsec. (q)(1). Pub. L. 104–208, §122(a)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Notwithstanding any other provision of law, the Attorney General is authorized to establish, by regulation, a project under which a fee may be charged and collected for inspection services provided at one or more land border points of entry. Such project may include the establishment of commuter lanes to be made available to qualified United States citizens and aliens, as determined by the Attorney General.”
+Subsec. (q)(1). Pub. L. 104–208, §122(a)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Notwithstanding any other provision of law, the Attorney General is authorized to establish, by regulation, a project under which a fee may be charged and collected for inspection services provided at one or more land border points of entry. Such project may include the establishment of commuter lanes to be made available to qualified United Statescitizens and aliens, as determined by the Attorney General.”
 
 Subsec. (q)(5). Pub. L. 104–208, §122(a)(2), struck out par. (5) which read as follows:
 
@@ -426,7 +442,7 @@ Subsec. (h)(1)(A). Pub. L. 101–515, §210(a)(4), substituted “There is estab
 
 Subsec. (<i>l</i>). Pub. L. 101–515, §210(a)(5), added subsec. (<i>l</i>).
 
-Subsec. (m). Pub. L. 101–515, §210(d)(1), (2), inserted “as offsetting receipts” after “shall be deposited” and inserted before period at end “: <i>Provided further</i>, That fees for providing adjudication and naturalization services may be set at a level that will ensure recovery ofthe full costs of providing all such services, including the costs of similar services provided without charge to asylum applicants or other immigrants. Such fees may also be set at a level that will recover any additonal \[sic\] costs associated with the administration of the fees collected”.
+Subsec. (m). Pub. L. 101–515, §210(d)(1), (2), inserted “as offsetting receipts” after “shall be deposited” and inserted before period at end “: <i>Provided further</i>, That fees for providing adjudication and naturalization services may be set at a level that will ensure recovery of the full costs of providing all such services, including the costs of similar services provided without charge to asylum applicants or other immigrants. Such fees may also be set at a level that will recover any additonal \[sic\] costs associated with the administration of the fees collected”.
 
 Subsec. (q). Pub. L. 101–515, §210(d)(3), added subsec. (q).
 
@@ -468,6 +484,10 @@ Pub. L. 99–591, §101(b) \[title II, §205\], a corrected version of Pub. L. 9
 
 1981—Subsecs. (b), (c). Pub. L. 97–116 added subsec. (b), redesignated former subsec. (b) as (c), and inserted “and subsection (b)” after “subsection (a)”.
 
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by section 403(b) of Pub. L. 109–13 effective 14 days after May 11, 2005, and applicable to filings for a fiscal year after fiscal year 2005, see section 403(c) of Pub. L. 109–13, set out as a note under section 1184 of this title.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 426(b) of Pub. L. 108–447 effective Dec. 8, 2004, and the fees imposed under such amendment applicable to petitions under section 1184(c) of this title, and applications for nonimmigrant visas under section 1202 of this title, filed on or after the date that is 90 days after Dec. 8, 2004, see section 426(c) of Pub. L. 108–447, set out as a note under section 1184 of this title.
@@ -502,7 +522,7 @@ Section 309(a)(3) of Pub. L. 102–232, as amended by Pub. L. 103–416, title I
 
 #### Effective Date of 1990 Amendment
 
-Section 210(b) of Pub. L. 101–515 provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall apply to fees charged onlywith respect to immigration inspection or preinspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1990.”
+Section 210(b) of Pub. L. 101–515 provided that: “The amendment made by subsection (a)(1) of this section \[amending this section\] shall apply to fees charged only with respect to immigration inspection or preinspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1990.”
 
 #### Effective Date of 1988 Amendment
 

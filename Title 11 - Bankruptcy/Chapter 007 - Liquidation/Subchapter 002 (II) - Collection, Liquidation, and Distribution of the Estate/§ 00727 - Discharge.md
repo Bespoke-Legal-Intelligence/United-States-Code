@@ -34,7 +34,7 @@
 
 &emsp;(7) the debtor has committed any act specified in paragraph (2), (3), (4), (5), or (6) of this subsection, on or within one year before the date of the filing of the petition, or during the case, in connection with another case, under this title or under the Bankruptcy Act, concerning an insider;
 
-&emsp;(8) the debtor has been granted a discharge under this section, under section 1141 of this title, or under section 14, 371, or 476 of the Bankruptcy Act, in a case commenced within six years before the date of the filing of the petition;
+&emsp;(8) the debtor has been granted a discharge under this section, under section 1141 of this title, or under section 14, 371, or 476 of the Bankruptcy Act, in a case commenced within 8 years before the date of the filing of the petition;
 
 &emsp;(9) the debtor has been granted a discharge under section 1228 or 1328 of this title, or under section 660 or 661 of the Bankruptcy Act, in a case commenced within six years before the date of the filing of the petition, unless payments under the plan in such case totaled at least—
 
@@ -42,9 +42,17 @@
 
 &emsp;&emsp;(B)(i) 70 percent of such claims; and
 
-&emsp;&emsp;(ii) the plan was proposed by the debtor in good faith, and was the debtor's best effort; or
+&emsp;&emsp;(ii) the plan was proposed by the debtor in good faith, and was the debtor's best effort;
 
-&emsp;(10) the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter.
+&emsp;(10) the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter;
+
+&emsp;(11) after filing the petition, the debtor failed to complete an instructional course concerning personal financial management described in section 111, except that this paragraph shall not apply with respect to a debtor who is a person described in section 109(h)(4) or who resides in a district for which the United States trustee (or the bankruptcy administrator, if any) determines that the approved instructional courses are not adequate to service the additional individuals who would otherwise be required to complete such instructional courses under this section (The United States trustee (or the bankruptcy administrator, if any) who makes a determination described in this paragraph shall review such determination not later than 1 year after the date of such determination, and not less frequently than annually thereafter.); or
+
+&emsp;(12) the court after notice and a hearing held not more than 10 days before the date of the entry of the order granting the discharge finds that there is reasonable cause to believe that—
+
+&emsp;&emsp;(A) section 522(q)(1) may be applicable to the debtor; and
+
+&emsp;&emsp;(B) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
 (b) Except as provided in section 523 of this title, a discharge under subsection (a) of this section discharges the debtor from all debts that arose before the date of the order for relief under this chapter, and any liability on a claim that is determined under section 502 of this title as if such claim had arisen before the commencement of the case, whether or not a proof of claim based on any such debt or liability is filed under section 501 of this title, and whether or not a claim based on any such debt or liability is allowed under section 502 of this title.
 
@@ -56,9 +64,15 @@
 
 &emsp;(1) such discharge was obtained through the fraud of the debtor, and the requesting party did not know of such fraud until after the granting of such discharge;
 
-&emsp;(2) the debtor acquired property that is property of the estate, or became entitled to acquire property that would be property of the estate, and knowingly and fraudulently failed to report the acquisition of or entitlement to such property, or to deliver or surrender such property to the trustee; or
+&emsp;(2) the debtor acquired property that is property of the estate, or became entitled to acquire property that would be property of the estate, and knowingly and fraudulently failed to report the acquisition of or entitlement to such property, or to deliver or surrender such property to the trustee;
 
-&emsp;(3) the debtor committed an act specified in subsection (a)(6) of this section.
+&emsp;(3) the debtor committed an act specified in subsection (a)(6) of this section; or
+
+&emsp;(4) the debtor has failed to explain satisfactorily—
+
+&emsp;&emsp;(A) a material misstatement in an audit referred to in section 586(f) of title 28; or
+
+&emsp;&emsp;(B) a failure to make available for inspection all necessary accounts, papers, documents, financial records, files, and all other papers, things, or property belonging to the debtor that are requested for an audit referred to in section 586(f) of title 28.
 
 (e) The trustee, a creditor, or the United States trustee may request a revocation of a discharge—
 
@@ -70,13 +84,13 @@
 
 &emsp;&emsp;(B) the date the case is closed.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, §480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§220, 257(s), Oct. 27, 1986, 100 Stat. 3101, 3116.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2609; Pub. L. 98–353, title III, §480, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §§220, 257(s), Oct. 27, 1986, 100 Stat. 3101, 3116; Pub. L. 109–8, title I, §106(b), title III, §§312(1), 330(a), title VI, §603(d), Apr. 20, 2005, 119 Stat. 38, 86, 101, 123.)
 
 #### Historical and Revision Notes
 
 I74legislative statements
 
-Sections 727(a) (8) and (9) of the House amendment represent a compromise between provisions contained in section 727(a)(8) of the House bill and Senate amendment. Section 727(a)(8) of the House amendment adopts section 727(a)(8) of the House bill. However, section 727(a)(9) of the House amendment contains a compromise based on section 727(a)(8) of the Senate amendment with respect to the circumstances under which a plan by way of composition under Chapter XIII of the Bankruptcy Act \[chapter 13 of former title 11\] should be a bar to discharge in a subsequent proceeding under title 11. The paragraph provides that a discharge under section 660 or 661 of the Bankruptcy Act \[section 1060 or 1061 of former title 11\] or section 1328 of title 11 in a case commenced within 6 years before the date of the filing of the petition in a subsequent case, operates as a bar to discharge unless, first, payments under the plan totaled at least 100 percent of the allowed unsecured claims in the case; or second, payments under the plan totaled at least 70 percent of the allowed unsecured claims in the case and the plan was proposed by the debtor in good faith and was the debtor's best effort.
+Sections 727(a) (8) and (9) of the House amendment represent a compromise between provisions containedin section 727(a)(8) of the House bill and Senate amendment. Section 727(a)(8) of the House amendment adopts section 727(a)(8) of the House bill. However, section 727(a)(9) of the House amendment contains a compromise based on section 727(a)(8) of the Senate amendment with respect to the circumstances under which a plan by way of composition under Chapter XIII of the Bankruptcy Act \[chapter 13 of former title 11\] should be a bar to discharge in a subsequent proceeding under title 11. The paragraph provides that a discharge under section 660 or 661 of the Bankruptcy Act \[section 1060 or 1061 of former title 11\] or section 1328 of title 11 in a case commenced within 6 years before the date of the filing of the petition in a subsequent case, operates as a bar to discharge unless, first, payments under the plan totaled at least 100 percent of the allowed unsecured claims in the case; or second, payments under the plan totaled at least 70 percent of the allowed unsecured claims in the case and the plan was proposed by the debtor in good faith and was the debtor's best effort.
 
 It is expected that the Rules of Bankruptcy Procedure will contain a provision permitting the debtor to request a determination of whether a plan is the debtor's “best effort” prior to confirmation of a plan in a case under chapter 13 of title 11. In determining whether a plan is the debtor's “best effort” the court will evaluate several factors. Different facts and circumstances in cases under chapter 13 operate to make any rule of thumb of limited usefulness. The court should balance the debtor's assets, including family income, health insurance, retirement benefits, and other wealth, a sum which is generally determinable, against the foreseeable necessary living expenses of the debtor and the debtor's dependents, which unfortunately is rarely quantifiable. In determining the expenses of the debtor and the debtor's dependents, the court should consider the stability of the debtor's employment, if any, the age of the debtor, the number of the debtor's dependents and their ages, the condition of equipment and tools necessary to the debtor's employment or to the operation of his business, and other foreseeable expenses that the debtor will be required to pay during the period of the plan, other than payments to be made to creditors under the plan.
 
@@ -116,6 +130,14 @@ Sections 660 and 661 of the Bankruptcy Act, referred to in subsec. (a)(9), are s
 
 #### Amendments
 
+2005—Subsec. (a)(8). Pub. L. 109–8, §312(1), substituted “8 years” for “six years”.
+
+Subsec. (a)(11). Pub. L. 109–8, §106(b), added par. (11).
+
+Subsec. (a)(12). Pub. L. 109–8, §330(a), added par. (12).
+
+Subsec. (d)(4). Pub. L. 109–8, §603(d), added par. (4).
+
 1986—Subsec. (a)(9). Pub. L. 99–554, §257(s), inserted reference to section 1228 of this title.
 
 Subsec. (c). Pub. L. 99–554, §220, amended subsec. (c) generally, substituting “The trustee, a creditor, or the United States trustee may object” for “The trustee or a creditor may object” in par. (1).
@@ -133,6 +155,12 @@ Subsec. (a)(8). Pub. L. 98–353, §480(a)(3), substituted “371,” for “371
 Subsec. (c)(1). Pub. L. 98–353, §480(b), substituted “to the granting of a discharge” for “to discharge”.
 
 Subsec. (e)(2)(A). Pub. L. 98–353, §480(c), substituted “or” for “and”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by section 603(d) of Pub. L. 109–8 effective 18 months after Apr. 20, 2005, see section 603(e) of Pub. L. 109–8, set out as a note under section 521 of this title.
+
+Amendments by sections 106(b), 312(1), and 330(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 106(b) and 312(1) of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 330(a) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

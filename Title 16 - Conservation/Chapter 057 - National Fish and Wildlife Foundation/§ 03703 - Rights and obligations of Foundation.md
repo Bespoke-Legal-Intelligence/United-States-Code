@@ -48,7 +48,7 @@ To carry out its purposes under section 3701 of this title, the Foundation shall
 
 #### (d) Certain lands, waters, and interests not subject to condemnation
 
-No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fish and Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
+No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fishand Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
 
 #### (e) Acquisition, management, and disposal of real property
 
@@ -98,7 +98,7 @@ Reconveyance of real property.—The Foundation shall convey at not less than fa
 
 (ii) The Directors of the Board shall ensure that any amounts transferred to the Foundation under clause (i) for the endowment fund under paragraph (1) are deposited in that fund in accordance with this subparagraph.
 
-(3) It is the intent of Congress that in making expenditures from the endowment fund under paragraph (1) to carry out activities specified inthat paragraph, the Foundation should give priority to funding projects that address the conservation of populations of whales that the Foundation determines—
+(3) It is the intent of Congress that in making expenditures from the endowment fund under paragraph (1) to carry out activities specified in that paragraph, the Foundation should give priority to funding projects that address the conservation of populations of whales that the Foundation determines—
 
 &emsp;(A) are the most endangered (including the northern right whale (Eubaleana glacialis)); or
 

@@ -306,6 +306,10 @@ Authority to require access to criminal records.
 
 Obtaining information from drug abuse treatment facilities.
 
+(u)
+
+Certification and confidentiality.
+
 |  |  |
 | :--- | ---: |
 | [1437e.](Subchapter%20001%20%28I%29%20-%20General%20Program%20of%20Assisted%20Housing/%C2%A7%2001437e%20-%20Designated%20housing%20for%20elderly%20and%20disabled%20families.md) | Designated housing for elderly and disabled families. |
@@ -457,6 +461,10 @@ Law enforcement and security personnel.
 (dd)
 
 Tenant-based contract renewals.
+
+(ee)
+
+Certification and confidentiality.
 
 |  |  |
 | :--- | ---: |

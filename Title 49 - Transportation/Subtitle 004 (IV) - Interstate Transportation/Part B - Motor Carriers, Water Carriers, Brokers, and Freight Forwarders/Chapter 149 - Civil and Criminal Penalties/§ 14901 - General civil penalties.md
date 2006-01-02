@@ -26,7 +26,19 @@ Factors To Consider in Determining Amount.—In determining and negotiating the 
 
 (d)
 
-Protection of Household Goods Shippers.—If a carrier providing transportation of household goods subject to jurisdiction under subchapter I or III of chapter 135 or a receiver or trustee of such carrier fails or refuses to comply with any regulation issued by the Secretary or the Board relating to protection of individual shippers, such carrier, receiver, or trustee is liable to the United States for a civil penalty of not less than $1,000 for each violation and for each additional day during which the violation continues.
+Protection of Household Goods Shippers.—
+
+&emsp;(1)
+
+In general.—If a carrier providing transportation of household goods subject to jurisdiction under subchapter I or III of chapter 135 or a receiver or trustee of such carrier fails or refuses to comply with any regulation issued by the Secretary or the Board relating to protection of individual shippers, such carrier, receiver, or trustee is liable to the United States for a civil penalty of not less than $1,000 for each violation and for each additional day during which the violation continues.
+
+&emsp;(2)
+
+Estimate of broker without carrier agreement.—If a broker for transportation of household goods subject to jurisdiction under subchapter I of chapter 135 makes an estimate of the cost of transporting any such goods before entering into an agreement with a carrier to provide transportation of household goods subject to such jurisdiction, the broker is liable to the United States for a civil penalty of not less than $10,000 for each violation.
+
+&emsp;(3)
+
+Unauthorized transportation.—If a person provides transportation of household goods subject to jurisdiction under subchapter I of chapter 135 or provides broker services for such transportation without being registered under chapter 139 to provide such transportation or services as a motor carrier or broker, as the case may be, such person is liable to the United States for a civil penalty of not less than $25,000 for each violation.
 
 (e)
 
@@ -64,7 +76,7 @@ In general.—Any business entertainment expense incurred by a water carrier pro
 
 Cost of service.—Any business entertainment expense subject to paragraph (1) that is paid or incurred by a water carrier providing transportation subject to this part shall not be taken into account in determining the cost of service or the rate base for purposes of section 13702.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 913.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 913; amended Pub. L. 109–59, title IV, §4209, Aug. 10, 2005, 119 Stat. 1758.)
 
 #### References in Text
 
@@ -73,6 +85,10 @@ The Solid Waste Disposal Act, referred to in subsec. (b), is title II of Pub. L.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 10751 and 11901 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+2005—Subsec. (d). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
 #### Effective Date
 
@@ -88,7 +104,7 @@ General Rule.—Subject to subsections (b) and (c), a foreign motor carrier or f
 
 “(b)
 
-Penalty for Intentional Violation.—The civil penalty for an intentional violation of subsection (a) bya carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months.
+Penalty for Intentional Violation.—The civil penalty for an intentional violation of subsection (a) by a carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months.
 
 “(c)
 

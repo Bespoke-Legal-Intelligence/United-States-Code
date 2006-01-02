@@ -1715,13 +1715,7 @@ I74subpart 1—jacob k. javits fellowship program
 | (h) | Education delivery systems. |
 | (i) | Allocation of funds. |
 | (j) | Authorization of appropriations. |
-| [1152\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001152%20-%20Grants%20to%20combat%20violent%20crimes%20against%20women%20on%20campuses.md) | Grants to combat violent crimes against women on campuses. |
-| (a) | Grants authorized. |
-| (b) | Use of grant funds. |
-| (c) | Applications. |
-| (d) | General terms and conditions. |
-| (f) | Definitions. |
-| (g) | Authorization of appropriations. |
+| [1152\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001152%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20III%2C%20%C2%A7304%28f%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203016.md) | Repealed. |
 | [1153\.](Subchapter%20008%20%28VIII%29%20-%20Miscellaneous/%C2%A7%2001153%20-%20Underground%20Railroad%20educational%20and%20cultural%20program.md) | Underground Railroad educational and cultural program. |
 | (a) | Program established. |
 | (b) | Grant agreement. |

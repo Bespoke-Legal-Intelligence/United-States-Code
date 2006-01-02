@@ -29,10 +29,6 @@ Pub. L. 108–7, div. H, title II, §211, Feb. 20, 2003, 117 Stat. 384, provided
 
 “(b) Subsection (a) shall apply with respect to statements prepared for taxable years ending on or after December 31, 2004.”
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 274, 6103, 6531 of this title; title 42 section 432.
-
 
 ---
 

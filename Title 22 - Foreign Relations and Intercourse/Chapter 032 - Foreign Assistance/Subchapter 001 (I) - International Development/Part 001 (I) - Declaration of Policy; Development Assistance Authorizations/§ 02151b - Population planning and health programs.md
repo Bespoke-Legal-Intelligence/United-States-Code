@@ -6,7 +6,7 @@ The Congress recognizes that poor health conditions and uncontrolled population 
 
 Large families in developing countries are the result of complex social and economic factors which change relatively slowly among the poor majority least affected by economic progress, as well as the result of a lack of effective birth control. Therefore, effective family planning depends upon economic and social change as well as the delivery of services and is often a matter of political and religious sensitivity. While every country has the right to determine its own policies with respect to population growth, voluntary population planning programs can make a substantial contribution to economic development, higher living standards, and improved health and nutrition.
 
-Good health conditions are a principal element in improved quality of life and contribute to the individual's capacity to participate in the development process, while poor health and debilitating disease can limit productivity.
+Good health conditions are a principal element in improved quality of life and contribute to the individual's capacity to participate in thedevelopment process, while poor health and debilitating disease can limit productivity.
 
 #### (b) Assistance for voluntary population planning
 
@@ -98,13 +98,13 @@ Subsec. (g)(1)(B). Pub. L. 99–529, §404(1), substituted “$180,000,000 for f
 
 Subsec. (c)(3). Pub. L. 99–83, §305(a), added par. (3).
 
-Subsec. (g). Pub. L. 99–83, §303, in amending subsec. (g) generally, substituted in par. (1) provision authorizing appropriations of $290,000,000 and $205,000,000 to carry out subsecs. (b) and (c), respectively, for fiscal years 1986 and 1987 for provisions authorizing $211,000,000 and $133,405,000 to carry out such subsecs. for fiscal years 1982 and 1983, and in par. (2) struck out provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 an 1983 only for the United Nations Fund for Population Activities.
+Subsec. (g). Pub. L. 99–83, §303, in amending subsec. (g) generally, substituted in par. (1) provision authorizing appropriations of $290,000,000 and $205,000,000 to carry out subsecs. (b) and (c), respectively, for fiscal years 1986 and 1987 for provisions authorizing$211,000,000 and $133,405,000 to carry out such subsecs. for fiscal years 1982 and 1983, and in par. (2) struck out provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 an 1983 only for the United Nations Fund for Population Activities.
 
 1984—Subsec. (c). Pub. L. 98–473 designated existing provisions as par. (1) and added par. (2).
 
 1981—Subsec. (f)(3). Pub. L. 97–113, §302(b), added par. (3).
 
-Subsec. (g). Pub. L. 97–113, §302(a), substituted provision authorizing appropriations of $211,000,000 and $133,405,000 to carry out subsecs. (b) and (c) for fiscal years 1982 and 1983 for provision authorizing $238,000,000 and $145,300,000 to carry out such subsections for fiscal year 1981 and provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 and 1983 only for the United Nations Fund for Population Activities for provision making minimum of $3,000,000 available in fiscal year 1981 only to supportthe World Health Organization's Special Program of Research, Development and Research Training in Human Reproduction.
+Subsec. (g). Pub. L. 97–113, §302(a), substituted provision authorizing appropriations of $211,000,000 and $133,405,000 to carry out subsecs. (b) and (c) for fiscal years 1982 and 1983 for provision authorizing $238,000,000 and $145,300,000 to carry out such subsections for fiscal year 1981 and provision that not less than 16 percent of available subsec. (b) appropriations or $38,000,000, whichever amount is less, be available in fiscal years 1982 and 1983 only for the United Nations Fund for Population Activities for provision making minimum of $3,000,000 available in fiscal year 1981 only to support the World Health Organization's Special Program of Research, Development and Research Training in Human Reproduction.
 
 1980—Subsec. (b). Pub. L. 96–533, §302(a), made provision for information and services relating to and supporting natural family planning methods.
 

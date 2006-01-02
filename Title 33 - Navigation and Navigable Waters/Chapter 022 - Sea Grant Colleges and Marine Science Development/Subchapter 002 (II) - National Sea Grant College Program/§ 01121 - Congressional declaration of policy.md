@@ -20,7 +20,7 @@ The Congress finds and declares the following:
 
 &emsp;(2) Investment in a strong program of research, education, training, technology transfer, and public service is essential for this strategy.
 
-&emsp;(3) The expanding use and development of ocean, coastal, and Great Lakes resources resulting from growing coastal area populations and the increasing pressures on the coastal and Great Lakes environment challenge the ability of the United States to manage such resources wisely.
+&emsp;(3) The expanding use and development of ocean, coastal, and Great Lakes resources resulting from growing coastal area populationsand the increasing pressures on the coastal and Great Lakes environment challenge the ability of the United States to manage such resources wisely.
 
 &emsp;(4) The vitality of the Nation and the quality of life of its citizens depend increasingly on the understanding, assessment, development, utilization, and conservation of ocean, coastal, and Great Lakes resources. These resources supply food, energy, and minerals and contribute to human health, the quality of the environment, national security, and the enhancement of commerce.
 
@@ -70,7 +70,7 @@ Pub. L. 102–186, §1, Dec. 4, 1991, 105 Stat. 1282, provided that: “This Act
 
 #### Short Title of 1987 Amendment
 
-Section 3001 of title III of Pub. L. 100–220 provided that: “This title \[amending this section and sections 1122 to 1131 of this title and enacting provisions set out as notes under this section and sections 883a and 1125 of this title\] may be cited as the ‘Marine Science, Technology, and Policy Development Act of 1987’.”
+Section 3001 of title III of Pub. L. 100–220 provided that: “This title \[amending this section and sections1122 to 1131 of this title and enacting provisions set out as notes under this section and sections 883a and 1125 of this title\] may be cited as the ‘Marine Science, Technology, and Policy Development Act of 1987’.”
 
 Section 3101 of subtitle A (§§3101–3111) of title III of Pub. L. 100–220 provided that: “This subtitle \[amending this section and sections 1122 to 1131 of this title and enacting provisions set out as a note under section 1125 of this title\] may be cited as the ‘National Sea Grant College Program Authorization Act of 1987’.”
 

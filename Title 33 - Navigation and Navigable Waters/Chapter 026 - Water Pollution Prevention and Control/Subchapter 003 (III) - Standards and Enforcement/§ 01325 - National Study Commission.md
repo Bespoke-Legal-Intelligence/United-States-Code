@@ -54,7 +54,7 @@ The Rules of the House of Representatives for the One Hundred Sixth Congress wer
 
 Committee on Public Works of Senate abolished and replaced by Committee on Environment and Public Works of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
 
-Committee on Public Works of House of Representatives changed to Committee on Public Works and Transportation of House of Representatives, effective Jan. 3, 1975, by House Resolution No. 988, 93d Congress. Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Public Works of House of Representatives changed to Committee on Public Works andTransportation of House of Representatives, effective Jan. 3, 1975, by House Resolution No. 988, 93d Congress. Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

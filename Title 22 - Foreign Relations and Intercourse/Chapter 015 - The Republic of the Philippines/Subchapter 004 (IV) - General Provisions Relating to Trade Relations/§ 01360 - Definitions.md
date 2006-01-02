@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) any other tax, fee, charge, or exaction, imposed on or in connection with importation unless the law of the country imposing it designates or imposes it as a customs duty or contains a provision to the effect that it shall be treated as a duty imposed under the customs laws.
 
-(b) For the purposes of sections 1271(b) and 1311(b) of this title, any material, used in the production of an article, shall be considered ashaving been used in the production of an article subsequently produced, which is the product of a chain of production in the course of which an article, which is the product of one stage of the chain, is used by its producer or another person, in a subsequent stage of the chain, as a material in the production of another article.
+(b) For the purposes of sections 1271(b) and 1311(b) of this title, any material, used in the production of an article, shall be considered as having been used in the production of an article subsequently produced, which is the product of a chain of production in the course of which an article, which is the product of one stage of the chain, is used by its producer or another person, in a subsequent stage of the chain, as a material in the production of another article.
 
 (c) For the purposes of paragraphs (6) and (7) of subsection (a) of this section—
 

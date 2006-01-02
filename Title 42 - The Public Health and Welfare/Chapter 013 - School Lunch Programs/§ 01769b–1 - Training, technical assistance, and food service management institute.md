@@ -14,7 +14,7 @@ The Secretary—
 
 &emsp;&emsp;&emsp;(iii) as appropriate, other federally assisted feeding programs; and
 
-&emsp;&emsp;(B) assistance, on a competitive basis, to State agencies for the purpose of aiding schools and school food authorities with at least 50 percent of enrolled children certified to receive free or reduced price meals (and, if there are any remaining funds, other schools and school food authorities) in meeting the cost of acquiring or upgrading technology and information management systems for use in food service programs carried out under this chapter and section 1773 of this title, if the school or school food authority submits to the State agency an infrastructure development plan that—
+&emsp;&emsp;(B) assistance, on a competitive basis, to State agencies for the purpose of aiding schools and school food authorities with atleast 50 percent of enrolled children certified to receive free or reduced price meals (and, if there are any remaining funds, other schools and school food authorities) in meeting the cost of acquiring or upgrading technology and information management systems for use in food service programs carried out under this chapter and section 1773 of this title, if the school or school food authority submits to the State agency an infrastructure development plan that—
 
 &emsp;&emsp;&emsp;(i) addresses the cost savings and improvements in program integrity and operations that would result from the use of new or upgraded technology;
 
@@ -82,7 +82,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 &emsp;&emsp;&emsp;(ix) other appropriate activities;
 
-&emsp;&emsp;(C) establishing a national network of trained professionals to present trainingprograms and workshops for food service personnel;
+&emsp;&emsp;(C) establishing a national network of trained professionals to present training programs and workshops for food service personnel;
 
 &emsp;&emsp;(D) developing training materials for use in the programs and workshops described in subparagraph (C);
 
@@ -108,7 +108,7 @@ The activities conducted and assistance provided as required by subsection (a)(1
 
 #### (1) Training activities and technical assistance
 
-&emsp;There are authorized to be appropriated to carry out subsection (a)(1) of this section $3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, and $1,000,000 for each of fiscal years 1992 through 2009.
+&emsp;There are authorized to be appropriated to carry out subsection (a)(1) of this section$3,000,000 for fiscal year 1990, $2,000,000 for fiscal year 1991, and $1,000,000 for each of fiscal years 1992 through 2009.
 
 #### (2) Food service management institute
 
@@ -156,7 +156,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 &emsp;&emsp;(B) to assist State educational agencies in reviewing the administrative practices of local educational agencies, to the extent determined by the Secretary.
 
-(June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §§125, 126(a), title II,§205(b), June 30, 2004, 118 Stat. 761, 763, 787; Pub. L. 108–447, div. A, title VII, §788(c), Dec. 8, 2004, 118 Stat. 2851.)
+(June 4, 1946, ch. 281, §21, as added Pub. L. 101–147, title I, §109, Nov. 10, 1989, 103 Stat. 887; amended Pub. L. 102–337, §1, Aug. 7, 1992, 106 Stat. 865; Pub. L. 103–448, title I, §120, Nov. 2, 1994, 108 Stat. 4726; Pub. L. 105–336, title I, §§103(c)(2), 110, Oct. 31, 1998, 112 Stat. 3147, 3157; Pub. L. 108–265, title I, §§125, 126(a), title II, §205(b), June 30, 2004, 118 Stat. 761, 763, 787; Pub. L. 108–447, div. A, title VII, §788(c), Dec. 8, 2004, 118 Stat. 2851.)
 
 #### Amendments
 

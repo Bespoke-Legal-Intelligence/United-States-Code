@@ -6,7 +6,7 @@
 
 (2) The President may make sales, extend credit, and issue guaranties under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], without regard to any provision of this chapter, the Arms Export Control Act, any law relating to receipts and credits accruing to the United States, and any Act authorizing or appropriating funds for use under the Arms Export Control Act, in furtherance of any of the purposes of such Act, when the President determines, and so notifies in writing the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, that to do so is vital to the national security interests of the United States.
 
-(3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairsand the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+(3) Before exercising the authority granted in this subsection, the President shall consult with, and shall provide a written policy justification to, the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 (4)(A) The authority of this subsection may not be used in any fiscal year to authorize—
 

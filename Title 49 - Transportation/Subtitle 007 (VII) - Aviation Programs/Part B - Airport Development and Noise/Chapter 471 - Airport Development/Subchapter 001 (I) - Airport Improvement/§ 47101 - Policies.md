@@ -16,7 +16,7 @@ General.—It is the policy of the United States—
 
 &emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and the quality of the environment of the United States;
 
-&emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargotraffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
+&emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargo traffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
 
 &emsp;(8) to ensure that nonaviation usage of the navigable airspace be accommodated but not allowed to decrease the safety and capacity of the airspace and airport system;
 
@@ -64,7 +64,7 @@ Consistency With Air Commerce and Safety Policies.—Each airport and airway pro
 
 (e)
 
-Adequacy of Navigation Aids and Airport Facilities.—This subchapter should be carriedout to provide adequate navigation aids and airport facilities for places at which scheduled commercial air service is provided. The facilities provided may include—
+Adequacy of Navigation Aids and Airport Facilities.—This subchapter should be carried out to provide adequate navigation aids and airport facilities for places at which scheduled commercial air service is provided. The facilities provided may include—
 
 &emsp;(1) reliever airports; and
 
@@ -308,7 +308,7 @@ Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: �
 
 #### Innovative Financing Techniques
 
-Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financingtechniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
+Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the Secretary of Transportation until Sept. 30, 1998, to carry out a demonstration program to provide information on the use of innovative financing techniques for airport development projects to Congress and the National Civil Aviation Review Commission. See section 47135 of this title.
 
 #### Authority To Close Airport Located Near Closed or Realigned Military Base
 

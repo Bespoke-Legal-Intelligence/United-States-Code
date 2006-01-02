@@ -1063,7 +1063,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “required annual payment” means the lesser of—
 
-&emsp;&emsp;&emsp;(i) 90 percent of the amount required to be contributed to or under the plan by the employer for the plan year under section 412 of title 26 (without regard to any waiver under subsection (c) thereof), or
+&emsp;&emsp;&emsp;(i) 90 percent of the amount required to be contributed to or under the plan by the employer for the plan year under section 412 of title 26 (without regard to any waiver under subsection (d) thereof), or
 
 &emsp;&emsp;&emsp;(ii) 100 percent of the amount so required for the preceding plan year.
 
@@ -1269,7 +1269,7 @@ For purposes of this section, in the case of a qualified transfer (as defined in
 
 &emsp;&emsp;<b>For alternative amortization method for certain multiemployer plans see section 1013(d) of this Act.</b>
 
-(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604.)
+(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142; Pub. L. 107–147, title IV, §§405(b), 411(v)(2), Mar. 9, 2002, 116 Stat. 42, 52; Pub. L. 108–218, title I, §§101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, 118 Stat. 596, 597, 599, 604; Pub. L. 109–135, title IV, §412(x)(2), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Amendment of Section
 
@@ -1288,6 +1288,8 @@ Section 1013(d) of this Act, referred to in subsec. (h), is section 1013(d) of P
 Section 2005(d)(2) of Pub. L. 100–647, which directed that subsec. (d)(3)(B) of this section be amended by striking out “October 17, 1987” in cl. (i) and inserting in lieu thereof “October 29, 1987”, and by striking out “October 16, 1987” in cl. (iii) and inserting in lieu thereof “October 28, 1987”, could not be executed because it did not contain cls. (i) and (iii).
 
 #### Amendments
+
+2005—Subsec. (e)(4)(B)(i). Pub. L. 109–135 substituted “subsection (d)” for “subsection (c)”.
 
 2004—Subsec. (b)(5)(B)(ii)(I). Pub. L. 108–218, §101(a)(1)(C), inserted “or (III)” after “subclause (II)”.
 
@@ -1313,9 +1315,9 @@ Subsec. (e)(7). Pub. L. 107–147, §405(b)(2), added par. (7).
 
 2001—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §§651(b)(1), 901, temporarily substituted “in the case of plan years beginning before January 1, 2004, the applicable percentage” for “the applicable percentage”. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (c)(7)(F). Pub. L. 107–16, §§651(b)(2), 901, temporarily reenacted heading without change and amended text of subpar. (F) generally, substituting applicable percentages 165 and 170 in the case of any plan year beginning in calendar year 2002 and 2003, respectively, for applicable percentages 155, 160, 165, and 170 in the case of any plan year beginning in 1999 or 2000, 2001 or 2002, 2003 or 2004, and 2005 and succeeding years, respectively. See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(7)(F). Pub. L. 107–16, §§651(b)(2), 901, temporarily reenacted heading without change and amended text of subpar. (F) generally, substituting applicable percentages 165 and 170 in the case of any plan year beginning in calendar year 2002 and 2003, respectively, for applicable percentages 155, 160, 165, and 170 in the caseof any plan year beginning in 1999 or 2000, 2001 or 2002, 2003 or 2004, and 2005 and succeeding years, respectively. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (c)(9). Pub. L. 107–16, §§661(b), 901, temporarily designated existing provisions as subpar. (A) andadded subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (c)(9). Pub. L. 107–16, §§661(b), 901, temporarily designated existing provisions as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(2), added subpar. (E).
 

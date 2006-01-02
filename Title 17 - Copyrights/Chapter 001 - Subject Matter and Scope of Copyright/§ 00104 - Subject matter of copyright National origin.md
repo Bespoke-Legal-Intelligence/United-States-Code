@@ -18,7 +18,7 @@ Published Works.—The works specified by sections 102 and 103, when published, 
 
 &emsp;(5) the work is first published by the United Nations or any of its specialized agencies, or by the Organization of American States; or
 
-&emsp;(6) the work comes within the scope of a Presidential proclamation. Whenever thePresident finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
+&emsp;(6) the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
 
 > For purposes of paragraph (2), a work that is published in the United States or a treaty party within 30 days after publication in a foreign nation that is not a treaty party shall be considered to be first published in the United States or such treaty party, as the case may be.
 
@@ -292,7 +292,7 @@ This Convention shall not apply to works or rights in works which, at the effect
 
 #### Article VIII
 
-1\. This Convention, which shall bear the date of 24 July 1971, shall be deposited with the Director-General and shall remain open for signature by all States party to the 1952 Convention for a period of 120 days after the date of this Convention. It shall be subject to ratification or acceptance by the signatory States.
+1\. This Convention, which shall bear the date of 24 July 1971, shall be deposited with the Director-Generaland shall remain open for signature by all States party to the 1952 Convention for a period of 120 days after the date of this Convention. It shall be subject to ratification or acceptance by the signatory States.
 
 2\. Any State which has not signed this Convention may accede thereto.
 
@@ -370,7 +370,7 @@ A dispute between two or more Contracting States concerning the interpretation o
 
 #### Article XVIII
 
-This Convention shall not abrogate multilateral or bilateral copyright conventions or arrangements that are or may be in effect exclusively between two or more American Republics. In the event of any difference either between the provisions of such existing conventions or arrangements and the provisions of this Convention, or between the provisions of this Convention and those of any new convention or arrangement which may be formulated between two or more American Republics after this Convention comes into force, the convention or arrangement most recently formulated shall prevail between the parties thereto. Rights in works acquired in any Contracting State under existing conventions or arrangements before the date this Convention comes into force in such State shall not be affected.
+This Convention shall not abrogate multilateral or bilateral copyright conventions or arrangements thatare or may be in effect exclusively between two or more American Republics. In the event of any difference either between the provisions of such existing conventions or arrangements and the provisions of this Convention, or between the provisions of this Convention and those of any new convention or arrangement which may be formulated between two or more American Republics after this Convention comes into force, the convention or arrangement most recently formulated shall prevail between the parties thereto. Rights in works acquired in any Contracting State under existing conventions or arrangements before the date this Convention comes into force in such State shall not be affected.
 
 #### Article XIX
 
@@ -442,7 +442,7 @@ Have accepted the following provisions:
 
 2\. (a) This Protocol shall be signed and shall be subject to ratification or acceptance, or may be acceded to, as if the provisions of Article VIII of the 1971 Convention applied hereto.
 
-(b) This Protocol shall enter into force in respect of each State, on the date of deposit of the instrument of ratification, acceptance or accession of the State concerned or on the date of entry into force of the 1971 Convention with respect to such State, whichever is the later.
+(b) This Protocol shall enter into force in respect of each State, on the date of deposit of the instrument ofratification, acceptance or accession of the State concerned or on the date of entry into force of the 1971 Convention with respect to such State, whichever is the later.
 
 (c) On the entry into force of this Protocol in respect of a State not party to Protocol 1 annexed to the 1952 Convention, the latter Protocol shall be deemed to enter into force in respect of such State.
 
@@ -516,7 +516,7 @@ Each Contracting State undertakes to provide for the adequate and effective prot
 
 2\. The term of protection for works protected under this Convention shall not be less than the life of the author and 25 years after his death.
 
-However, any Contracting State which, on the effective date of this Convention in that State, has limited this term for certain classes of works to a period computed from the first publication of the work, shall be entitled to maintain these exceptions and to extend them to other classes of works. For all these classes the term of protection shall not be less than 25 years from the date of first publication.
+However, any Contracting State which, on the effective date of this Convention in that State, has limited this term for certain classes of works to a period computed from the first publication of the work, shall be entitled to maintain these exceptions and to extend them to other classes of works. For all these classesthe term of protection shall not be less than 25 years from the date of first publication.
 
 Any Contracting State which, upon the effective date of this Convention in that State, does not compute the term of protection upon the basis of the life of the author, shall be entitled to compute the term of protection from the date of the first publication of the work or from its registration prior to publication, as the case may be, provided the term of protection shall not be less than 25 years from the date of first publication or from its registration prior to publication, as the case may be.
 
@@ -672,7 +672,7 @@ Having considered the problems relating to the Intergovernmental Committee provi
 
 (a) the normal duration of the term of office of the representatives shall be six years; with one third retiring every two years;
 
-(b) before the expiration of the term of office of any members, the Committee shall decide which States shall cease to be represented on it and which States shall be called upon to designate representatives; therepresentatives of those States which have not ratified, accepted or acceded shall be the first to retire;
+(b) before the expiration of the term of office of any members, the Committee shall decide which States shall cease to be represented on it and which States shall be called upon to designate representatives; the representatives of those States which have not ratified, accepted or acceded shall be the first to retire;
 
 (c) the different parts of the world shall be fairly represented;
 
@@ -744,7 +744,7 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 #### Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on <i>Treaties in Force</i>, as of January 1, 2005, published by the Department of State:
+The following is based on <i>Treaties in Force</i>, as of January 1, 2006, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This note is an attempt to present a complete and annotated list of those countries.
 
@@ -901,6 +901,16 @@ Apr. 15, 1994
 Sept. 8, 2000
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Aug. 6, 2005
+
+T. Doc. 105–17.
 
 &nbsp;
 
@@ -1081,6 +1091,26 @@ Apr. 15, 1994
 Feb. 5, 2003
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2005
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Mar. 6, 2005
+
+T. Doc. 105–17.
 
 Australia <sup>4</sup> DPm DApr. 3, 1918 DMar. 15, 1918 D40 Stat. 1764.
 
@@ -1321,6 +1351,26 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Dec. 15, 2005
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Dec. 15, 2005
+
+T. Doc. 105–17.
 
 Bangladesh DUCC DSept. 6, 1952 DAug. 5, 1975 D6 UST 2731.
 
@@ -1619,6 +1669,26 @@ Apr. 15, 1994
 May 31, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Jan. 27, 2005
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Jan. 27, 2005
+
+T. Doc. 105–17.
 
 Brazil DBAC DAug. 11, 1910 DAug. 31, 1915 D38 Stat. 1785.
 
@@ -2172,6 +2242,16 @@ May 20, 2002
 
 T. Doc. 105–17.
 
+Comoros
+
+Berne (Paris)
+
+July 24, 1971
+
+Apr. 17, 2005
+
+T. Doc. 99–27.
+
 Congo DBerne (Paris) DJuly 24, 1971 DDec. 5, 1975 DT. Doc. 99–27.
 
 &nbsp;
@@ -2507,6 +2587,16 @@ WCT
 Dec. 20, 1996
 
 Nov. 4, 2000
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Dec. 2, 2005
 
 T. Doc. 105–17.
 
@@ -3892,6 +3982,16 @@ Mar. 6, 2002
 
 T. Doc. 105–17.
 
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Feb. 15, 2005
+
+T. Doc. 105–17.
+
 Ireland <sup>4</sup> DPm \\21\\ DSept. 28, 1929 DOct. 1, 1929 D46 Stat. 3005.
 
 &nbsp;
@@ -4402,6 +4502,8 @@ Aug. 21, 1996
 
 T. Doc. 99–27.
 
+&nbsp;
+
 UCC rev.
 
 July 24, 1971
@@ -4409,6 +4511,8 @@ July 24, 1971
 Oct. 1, 1987
 
 25 UST 1341.
+
+&nbsp;
 
 Pg
 
@@ -4587,6 +4691,16 @@ July 24, 1971
 Mar. 8, 1989
 
 T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Dec. 16, 2005
+
+25 UST 309.
 
 Libya
 
@@ -4805,6 +4919,16 @@ WCT
 Dec. 20, 1996
 
 Feb. 4, 2004
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Mar. 20, 2005
 
 T. Doc. 105–17.
 
@@ -5638,6 +5762,26 @@ Nov. 9, 2000
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Sept. 20, 2005
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Sept. 20, 2005
+
+T. Doc. 105–17.
+
 Pakistan <sup>4</sup> DBerne (Rome) DJune 2, 1928 DJuly 5, 1948 D123 LNTS 232.
 
 &nbsp;
@@ -6096,6 +6240,26 @@ Jan. 13, 1996
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Oct. 28, 2005
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Oct. 28, 2005
+
+T. Doc. 105–17.
+
 Romania DPm \\30\\ DMay 14, 1928 DMay 14, 1928 D45 Stat. 2949.
 
 &nbsp;
@@ -6468,6 +6632,16 @@ Singapore DBerne (Paris) DJuly 24, 1971 DDec. 21, 1998 DT. Doc. 99–27.
 
 &nbsp;
 
+Pcss
+
+May 21, 1974
+
+Apr. 27, 2005
+
+T. Doc. 98–31.
+
+&nbsp;
+
 P
 
 May 18, 1987
@@ -6485,6 +6659,26 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Apr. 17, 2005
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Apr. 17, 2005
+
+T. Doc. 105–17.
 
 Slovakia \\33\\ DUCC DSept. 6, 1952 DJan. 6, 1960 D6 UST 2731.
 
@@ -6724,17 +6918,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Sri Lanka DBerne (Rome) DJune 2, 1928 DJuly 20, 1959 D123 LNTS 232.
+Sri Lanka DUCC DSept. 6, 1952 DJan. 25, 1984 D6 UST 2731.
 
 &nbsp;
 
-UCC
+Berne (Paris)
 
-Sept. 6, 1952
+July 24, 1971
 
-Jan. 25, 1984
+Dec. 27, 2005
 
-6 UST 2731.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -7282,6 +7476,16 @@ July 14, 2004
 
 T. Doc. 105–17.
 
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+June 9, 2005
+
+T. Doc. 105–17.
+
 United Kingdom <sup>4</sup> DUCC DSept. 6, 1952 DSept. 27, 1957 D6 UST 2731.
 
 &nbsp;
@@ -7424,15 +7628,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Uzbekistan
+Uzbekistan DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
-UCC
+&nbsp;
 
-Sept. 6, 1952
+Berne (Paris)
 
-May 27, 1973
+July 24, 1971
 
-6 UST 2731.
+Apr. 19, 2005
+
+T. Doc. 99–27.
 
 Vatican City (Holy See) DUCC DSept. 6, 1952 DOct. 5, 1955 D6 UST 2731.
 
@@ -7509,6 +7715,16 @@ Jan. 1, 1995
 33 ILM 15.
 
 Vietnam DBerne (Paris) DJuly 24, 1971 DOct. 26, 2004 DT. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+July 6, 2005
+
+25 UST 309.
 
 &nbsp;
 
@@ -7626,7 +7842,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>14</sup> Treaties and conventions containing provisions relative to copyright protection in territories ceded to the United States are not included in this table: for example, the Treaty of Peace with Spain signed at Paris, December 10, 1898 (30 Stat. 1754; TS 343), and the Convention with Denmark for the Cession to the United States of the Danish West Indies, signed at New York, August 4, 1916 (39 Stat. 1706; TS 629).
 
-<sup>15</sup> The dates of adherence by Germany to multilateral treaties include adherence by the Federal Republic of Germany when that country was divided into the Federal Republic of Germany and the German Democratic Republic. However, through the accession, effective October 3, 1990, of the German Democratic Republic to the Federal Republic of Germany, in accordance with the German Unification Treaty of August 31, 1990, the German Democratic Republic ceased, on the said date, to be a sovereign state. Previously, the German Democratic Republic had become party to the Paris Act of the Berne Convention for the Protection of Literary and Artistic Works on February 18, 1978, but ceased to be a party to the said Convention on October 3, 1990. The German Democratic Republic had also been a member of the Universal Copyright Convention, having become party to the Geneva text of the said Convention on October 5, 1973, and party to the revised Paris text of the same Convention on December 10, 1980.
+<sup>15</sup> The dates of adherence by Germany to multilateral treaties include adherence by the Federal Republic of Germany when that country was divided into the Federal Republic of Germany and the German Democratic Republic. However, through the accession, effective October 3, 1990, of the German Democratic Republic to the Federal Republic of Germany, in accordance with the German Unification Treaty of August 31, 1990, the German Democratic Republic ceased, on the said date, to be a sovereign state. Previously, the German Democratic Republic had becomeparty to the Paris Act of the Berne Convention for the Protection of Literary and Artistic Works on February 18, 1978, but ceased to be a party to the said Convention on October 3, 1990. The German Democratic Republic had also been a member of the Universal Copyright Convention, having become party to the Geneva text of the said Convention on October 5, 1973, and party to the revised Paris text of the same Convention on December 10, 1980.
 
 <sup>16</sup> See note under GERMANY, FEDERAL REPUBLIC OF in bilateral section.
 
@@ -7678,7 +7894,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 Proc. No. 3792, July 12, 1967, 32 F.R. 10341, provided:
 
-WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by the copyright laws of the United States of America, with respect to works first produced or published outside the United States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
+WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by thecopyright laws of the United States of America, with respect to works first produced or published outside the United States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
 
 WHEREAS satisfactory official assurances have been received that, since April 15, 1892, citizens of the United States have been entitled to obtain copyright in Germany for their works on substantially the same basis as German citizens without the need of complying with any formalities, provided such works secured protection in the United States; and
 

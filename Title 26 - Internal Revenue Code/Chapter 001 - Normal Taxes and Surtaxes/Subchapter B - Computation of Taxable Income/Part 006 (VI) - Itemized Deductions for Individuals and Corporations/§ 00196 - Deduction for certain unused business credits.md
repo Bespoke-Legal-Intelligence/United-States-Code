@@ -28,9 +28,15 @@ For purposes of this section, the term “qualified business credits” means—
 
 &emsp;(8) the employer Social Security credit determined under section 45B(a),
 
-&emsp;(9) the new markets tax credit determined under section 45D(a), and
+&emsp;(9) the new markets tax credit determined under section 45D(a),
 
-&emsp;(10) the small employer pension plan startup cost credit determined under section 45E(a).
+&emsp;(10) the small employer pension plan startup cost credit determined under section 45E(a),
+
+&emsp;(11) the biodiesel fuels credit determined under section 40A(a),
+
+&emsp;(12) the low sulfur diesel fuel production credit determined under section 45H(a), and
+
+&emsp;(13) the new energy efficient home credit determined under section 45L(a).
 
 #### (d) Special rule for investment tax credit and research credit
 
@@ -40,13 +46,23 @@ Subsection (a) shall be applied by substituting “an amount equal to 50 percent
 
 &emsp;(2) the research credit determined under section 41(a) for a taxable year beginning before January 1, 1990.
 
-(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110.)
+(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title III, §§302(c)(2), 339(e), Oct. 22, 2004, 118 Stat. 1465, 1484; Pub. L. 109–58, title XIII, §1332(d), Aug. 8, 2005, 119 Stat. 1026.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
+#### Codification
+
+Another section 339(e) of Pub. L. 108–357 amended the table of sections for subpart D of part IV of subchapter A of this chapter.
+
 #### Amendments
+
+2005—Subsec. (c)(13). Pub. L. 109–58 added par. (13).
+
+2004—Subsec. (c)(11). Pub. L. 108–357, §302(c)(2), added par. (11).
+
+Subsec. (c)(12). Pub. L. 108–357, §339(e), added par. (12).
 
 2001—Subsec. (c)(10). Pub. L. 107–16, §§619(c)(2), 901, temporarily added par. (10). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -78,6 +94,16 @@ Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit
 
 1984—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to qualified new energy efficient homes acquired after Dec. 31, 2005, in taxable years ending after such date, see section 1332(f) of Pub. L. 109–58, set out as a note under section 38 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 302(c)(2) of Pub. L. 108–357 applicable to fuel produced, and sold or used, after Dec. 31, 2004, in taxable years ending after such date, see section 302(d) of Pub. L. 108–357, set out as a note under section 38 of this title.
+
+Amendment by section 339(e) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 339(f) of Pub. L. 108–357, set out as a note under section 38 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, set out as a note under section 38 of this title.
@@ -86,7 +112,7 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I,§121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
+Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -104,7 +130,7 @@ Amendment by section 13322(c)(2) of Pub. L. 103–66 applicable to wages paid or
 
 Amendment by section 11511(b)(3) of Pub. L. 101–508 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 1990, see section 11511(d)(1) of Pub. L. 101–508, set out as an Effective Date note under section 43 of this title.
 
-Amendment by section 11813(b)(12) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(12) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -166,7 +192,7 @@ Special rule for historic structures.—In the case of any certified historic st
 
 “(E)
 
-Certain projects with respect to historic structures.—In the case of any certified historic structure (as so defined), the requirements of clause (i) of subparagraph (B) shall be treated as met with respect to such property—
+Certain projects with respect to historic structures.—In the case of any certified historic structure (as so defined), the requirements of clause (i)of subparagraph (B) shall be treated as met with respect to such property—
 
 &emsp;“(i) if the rehabilitation begins after December 31, 1980, and before July 1, 1982, or
 
@@ -180,5 +206,5 @@ Certain projects with respect to historic structures.—In the case of any certi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813(b)(12) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

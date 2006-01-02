@@ -12,7 +12,37 @@
 
 &emsp;(4) provide for the determination of the number of calendar days of leave to which a member is entitled, including the number of calendar days of absence from duty or vacation to be counted or charged against leave.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 493.)
+(c)
+
+Facilitating Granting of Leave for Attendance at Hearings.—
+
+&emsp;(1)
+
+Regulations.—The Secretary concerned shall prescribe regulations to facilitate the granting of leave to a member of the armed forces under the jurisdiction of that Secretary in a case in which—
+
+&emsp;&emsp;(A) the leave is needed for the member to attend a hearing described in paragraph (2);
+
+&emsp;&emsp;(B) the member is not serving in or with a unit deployed in a contingency operation; and
+
+&emsp;&emsp;(C) the exigencies of military service (as determined by the Secretary concerned) do not otherwise require that such leave not be granted.
+
+&emsp;(2)
+
+Covered hearings.—Paragraph (1) applies to a hearing that is conducted by a court or pursuant to an administrative process established under State law, in connection with a civil action—
+
+&emsp;&emsp;(A) to determine whether a member of the armed forces is a natural parent of a child; or
+
+&emsp;&emsp;(B) to determine an obligation of a member of the armed forces to provide child support.
+
+&emsp;(3)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A) The term “court” has the meaning given that term in section 1408(a) of this title.
+
+&emsp;&emsp;(B) The term “child support” has the meaning given that term in section 459(i) of the Social Security Act (42 U.S.C. 659(i)).
+
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 493; amended Pub. L. 108–375, div. A, title X, §1084(k), Oct. 28, 2004, 118 Stat. 2064.)
 
 Historical and Revision Notes
 
@@ -42,41 +72,31 @@ In subsection (a), the 1st 18 words of the 5th sentence of section 31a(a) of exi
 
 In subsection (b), 37:33(e) (less 1st sentence) is omitted as executed.
 
+#### Codification
+
+The text of section 363(b) of Pub. L. 104–193, which was set out as a note under this section and was transferred to the end of this section and redesignated as subsec. (c), was based on Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, as amended by Pub. L. 107–296, title XVII, §1704(e)(1)(B), Nov. 25, 2002, 116 Stat. 2315.
+
+#### Amendments
+
+2004—Subsec. (c). Pub. L. 108–375, §1084(k)(1)–(3), transferred section 363(b) of Pub. L. 104–193 to the end of this section and redesignated it as subsec. (c). See Codification note above.
+
+Subsec. (c)(1). Pub. L. 108–375, §1084(k)(4)(A), (B)(i), in introductory provisions, substituted “Secretary concerned” for “Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy,” and “armed forces” for “Armed Forces”.
+
+Subsec. (c)(1)(B). Pub. L. 108–375, §1084(k)(4)(B)(ii), struck out “(as defined in section 101 of title 10, United States Code)” after “contingency operation”.
+
+Subsec. (c)(2)(A), (B). Pub. L. 108–375, §1084(k)(4)(A), substituted “armed forces” for “Armed Forces”.
+
+Subsec. (c)(3). Pub. L. 108–375, §1084(k)(4)(C)(i), substituted “In this subsection:” for “For purposes of this subsection—” in introductory provisions.
+
+Subsec. (c)(3)(A). Pub. L. 108–375, §1084(k)(4)(C)(ii), substituted “this title” for “title 10, United States Code”.
+
+Subsec. (c)(3)(B). Pub. L. 108–375, §1084(k)(4)(C)(iii), substituted “that term” for “such term”.
+
 #### Effective Date
 
 Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Facilitating Granting of Leave for Attendance at Hearings Involving Parental Support Obligations
 
-Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, as amended by Pub. L. 107–296, title XVII, §1704(e)(1)(B), Nov. 25, 2002, 116 Stat. 2315, provided that:
-
-“(1)
-
-Regulations.—The Secretary of each military department, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to facilitate the granting of leave to a member of the Armed Forces under the jurisdiction of that Secretary in a case in which—
-
-&emsp;“(A) the leave is needed for the member to attend a hearing described in paragraph (2);
-
-&emsp;“(B) the member is not serving in or with a unit deployed in a contingency operation (as defined in section 101 of title 10, United States Code); and
-
-&emsp;“(C) the exigencies of military service (as determined by the Secretary concerned) do not otherwise require that such leave not be granted.
-
-“(2)
-
-Covered hearings.—Paragraph (1) applies to a hearing that is conducted by a court or pursuant to an administrative process established under State law, in connection with a civil action—
-
-&emsp;“(A) to determine whether a member of the Armed Forces is a natural parent of a child; or
-
-&emsp;“(B) to determine an obligation of a member of the Armed Forces to provide child support.
-
-“(3)
-
-Definitions.—For purposes of this subsection—
-
-&emsp;“(A) The term ‘court’ has the meaning given that term in section 1408(a) of title 10, United States Code.
-
-&emsp;“(B) The term ‘child support’ has the meaning given such term in section 459(i) of the Social Security Act (42 U.S.C. 659(i)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 702 of this title.
+Pub. L. 104–193, title III, §363(b), Aug. 22, 1996, 110 Stat. 2248, as amended by Pub. L. 107–296, title XVII, §1704(e)(1)(B), Nov. 25, 2002, 116 Stat. 2315, formerly set out as a note under this section, was transferred to subsec. (c) of this section.
 

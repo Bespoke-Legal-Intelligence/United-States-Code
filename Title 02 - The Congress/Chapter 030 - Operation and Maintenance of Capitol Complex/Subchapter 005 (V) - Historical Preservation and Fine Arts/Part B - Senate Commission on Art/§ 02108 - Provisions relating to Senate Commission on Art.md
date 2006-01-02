@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Curatorial Advisory Board and other advisory boards established by the Commission under paragraph (2) shall be composed of members appointed by the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission.
+&emsp;&emsp;Subject to subparagraph (B), the Curatorial Advisory Board and other advisoryboards established by the Commission under paragraph (2) shall be composed of members appointed by the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission.
 
 #### (B) Applicable rules
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) shall be appointed from public and private life and shall serve at the pleasure of the Commission; and
 
-&emsp;&emsp;&emsp;(ii) in the case of individuals appointed to the Curatorial Advisory Board, shall beexperts or have significant experience in the field of arts, historic preservation, or other appropriate fields.
+&emsp;&emsp;&emsp;(ii) in the case of individuals appointed to the Curatorial Advisory Board, shall be experts or have significant experience in the field of arts, historic preservation, or other appropriate fields.
 
 > &emsp;&emsp;Each member of the Commission may have appointed to an advisory board created by the Commission at least 1 individual requested by that member.
 
@@ -88,7 +88,7 @@
 
 #### (2) Payment of costs
 
-&emsp;The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a) of this section, for official activities of any advisory board established under subsection (b) of this section, and for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title.
+&emsp;The fund shall be available to the Commission for the payment of acquisition and transaction costs incurred for acquisitions under subsection (a) of this section, for official activities of any advisory board established under subsection (b) of this section, for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities.
 
 #### (3) Deposits, credits, and disbursements
 
@@ -126,11 +126,15 @@
 
 &emsp;The Comptroller General of the United States shall conduct annual audits of the Senate Preservation Fund and shall report the results of each audit to the Commission.
 
-(Pub. L. 108–83, title I, §3, Sept. 30, 2003, 117 Stat. 1010.)
+(Pub. L. 108–83, title I, §3, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 109–55, title I, §4, Aug. 2, 2005, 119 Stat. 568.)
 
 #### Codification
 
 Section is comprised of section 3 of Pub. L. 108–83. Subsec. (a)(3) of section 3 of Pub. L. 108–83 repealed section 2106 of this title. Subsec. (d) of section 3 of Pub. L. 108–83 amended sections 2101 and 2107 of this title.
 
 Section is from the Legislative Branch Appropriations Act, 2004.
+
+#### Amendments
+
+2005—Subsec. (c)(2). Pub. L. 109–55 substituted “for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title, and for expenditures, not to exceed $10,000 in any fiscal year, for meals and refreshments in Capitol facilities in connection with official activities of the Commission or other authorized programs or activities” for “and for any purposes for which funds from the contingent fund of the Senate may be used under section 2107(a) of this title”.
 

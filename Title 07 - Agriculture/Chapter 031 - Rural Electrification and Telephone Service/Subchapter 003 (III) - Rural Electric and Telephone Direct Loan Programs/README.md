@@ -28,3 +28,4 @@
 - [&sect; 00940c&#8211;1 - Guarantees for bonds and notes issued for electrification or telephone purposes](%C2%A7%2000940c%E2%80%931%20-%20Guarantees%20for%20bonds%20and%20notes%20issued%20for%20electrification%20or%20telephone%20purposes.md)
 - [&sect; 00940d - Limitations on authorization of appropriations](%C2%A7%2000940d%20-%20Limitations%20on%20authorization%20of%20appropriations.md)
 - [&sect; 00940e - Expansion of 911 access](%C2%A7%2000940e%20-%20Expansion%20of%20911%20access.md)
+- [&sect; 00940f - Extension of period of existing guarantee](%C2%A7%2000940f%20-%20Extension%20of%20period%20of%20existing%20guarantee.md)

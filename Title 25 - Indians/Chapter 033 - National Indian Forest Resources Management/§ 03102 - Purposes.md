@@ -8,7 +8,7 @@ The purposes of this chapter are to—
 
 &emsp;(3) increase the number of professional Indian foresters and related staff in forestry programs on Indian forest land; and
 
-&emsp;(4) provide for the authorization of necessary appropriations to carry out this chapter forthe protection, conservation, utilization, management, and enhancement of Indian forest lands.
+&emsp;(4) provide for the authorization of necessary appropriations to carry out this chapter for the protection, conservation, utilization, management, and enhancement of Indian forest lands.
 
 (Pub. L. 101–630, title III, §303, Nov. 28, 1990, 104 Stat. 4532.)
 

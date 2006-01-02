@@ -32,7 +32,7 @@ No part of the funds appropriated to carry out part A of subchapter I of this ch
 
 #### (d) Availability
 
-Amounts appropriated for part A of subchapter I of this chapter shall remain available for obligation until the end of the fiscal year following the fiscal year for which the amounts were appropriated.
+Amounts appropriated for part A of subchapter I of this chapter shall remain availablefor obligation until the end of the fiscal year following the fiscal year for which the amounts were appropriated.
 
 #### (e) Volunteer service requirement
 

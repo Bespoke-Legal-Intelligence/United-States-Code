@@ -46,7 +46,7 @@
 
 #### (2) Information required to be included in notice
 
-&emsp;The plan sponsors shall include in any notice required to be sent to plan participants and beneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
+&emsp;The plan sponsors shall include in any notice required to be sent to plan participants andbeneficiaries under paragraph (1) information as to the rights and remedies of plan participants and beneficiaries as well as how to contact the Department of Labor for further information and assistance where appropriate.
 
 #### (c) No recoupment
 
@@ -95,8 +95,4 @@ The Secretary may prescribe rules under which, notwithstanding any other provisi
 Section 4022A(b) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is classified to section 1322a(b) of Title 29, Labor.
 
 Section 4212(a) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(1)(A)(ii), is classified to section 1392(a) of Title 29.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 411, 418 of this title.
 

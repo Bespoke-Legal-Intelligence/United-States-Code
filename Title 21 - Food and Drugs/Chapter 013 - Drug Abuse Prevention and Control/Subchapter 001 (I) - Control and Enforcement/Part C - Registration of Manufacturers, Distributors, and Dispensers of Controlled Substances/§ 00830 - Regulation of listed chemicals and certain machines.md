@@ -62,7 +62,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(vi) Any quantity, method, or type of distribution or any quantity, method, or type of distribution of a specific listed chemical (including specific formulations or drug products) or of a group of listed chemicals (including specific formulations or drug products) which the Attorney General has excluded by regulation from such reporting requirement on the basis that such reporting is not necessary for the enforcement of this subchapter or subchapter II of this chapter.
 
-(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D) for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II of this chapter. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
+(E) The Attorney General may revoke any or all of the exemptions listed in subparagraph (D)for an individual regulated person if he finds that drug products distributed by the regulated person are being used in violation of this subchapter or subchapter II of this chapter. The regulated person shall be notified of the revocation, which will be effective upon receipt by the person of such notice, as provided in section 971(c)(1) of this title, and shall have the right to an expedited hearing as provided in section 971(c)(2) of this title.
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
@@ -134,7 +134,7 @@ Section 203(a) of title II of Pub. L. 95–633 provided that:
 
 “(1) Except as provided under paragraph (2), the amendments made by this title \[enacting this section and amending sections 841 to 843 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1978\].
 
-“(2) Any person required to submit a report under section 310(a)(1) of the Controlled Substances Act \[subsec. (a)(1) of this section\] respecting a distribution, sale, or importation of piperidine during the 90 days after the date of the enactment of this Act \[Nov. 10, 1978\] may submit such report any time up to 97 days after such date of enactment.
+“(2) Any person required to submit a report under section 310(a)(1) of the Controlled Substances Act \[subsec. (a)(1) of this section\] respecting a distribution,sale, or importation of piperidine during the 90 days after the date of the enactment of this Act \[Nov. 10, 1978\] may submit such report any time up to 97 days after such date of enactment.
 
 “(3) Until otherwise provided by the Attorney General by regulation, the information required to be reported by a person under section 310(a)(1) of the Controlled Substances Act (as added by section 202(a)(2) of this title) \[subsec. (a)(1) of this section\] with respect to the person's distribution, sale, or importation of piperidine shall—
 

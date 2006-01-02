@@ -1,6 +1,6 @@
 ### §1209. Transfer to inactive status list instead of separation
 
-Any member of the armed forces who has at least 20 years of service computed under section 12732 of this title, and who would be qualified for retirement under this chapter but for the fact that his disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, may elect, instead of being separated under this chapter, to be transferred to the inactive status list under section 12735 of this title and, if otherwise eligible, to receive retired pay under section 12739 of this title upon becoming 60 years of age.
+Any member of the armed forces who has at least 20 years of service computed under section12732 of this title, and who would be qualified for retirement under this chapter but for the fact that his disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, may elect, instead of being separated under this chapter, to be transferred to the inactive status list under section 12735 of this title and, if otherwise eligible, to receive retired pay under section 12739 of this title upon becoming 60 years of age.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 95; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–106, div. A, title XV, §1501(c)(14), Feb. 10, 1996, 110 Stat. 499.)
 
@@ -29,8 +29,4 @@ The words “Notwithstanding the foregoing provisions of this section”, “sat
 #### Effective Date of 1996 Amendment
 
 Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1203, 1206 of this title.
 

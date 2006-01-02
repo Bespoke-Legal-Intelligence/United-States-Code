@@ -4,6 +4,7 @@
 | :--- | :---: | ---: |
 | [<b>111.</b>](Chapter%20111%20-%20General%20Provisions/README.md) | <b>General Provisions</b> | <b>1651</b> |
 | [<b>113.</b>](Chapter%20113%20-%20Process/README.md) | <b>Process</b> | <b>1691</b> |
+| [<b>114.</b>](Chapter%20114%20-%20Class%20Actions/README.md) | <b>Class Actions</b> | <b>1711</b> |
 | [<b>115.</b>](Chapter%20115%20-%20Evidence%3B%20Documentary/README.md) | <b>Evidence; Documentary</b> | <b>1731</b> |
 | [<b>117.</b>](Chapter%20117%20-%20Evidence%3B%20Depositions/README.md) | <b>Evidence; Depositions</b> | <b>1781</b> |
 | [<b>119.</b>](Chapter%20119%20-%20Evidence%3B%20Witnesses/README.md) | <b>Evidence; Witnesses</b> | <b>1821</b> |
@@ -17,6 +18,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+2005—Pub. L. 109–2, §3(b), Feb. 18, 2005, 119 Stat. 9, added item for chapter 114.
+
 
 ---
 
@@ -24,6 +29,7 @@
 
 - [Chapter 111 - General Provisions](Chapter%20111%20-%20General%20Provisions/README.md)
 - [Chapter 113 - Process](Chapter%20113%20-%20Process/README.md)
+- [Chapter 114 - Class Actions](Chapter%20114%20-%20Class%20Actions/README.md)
 - [Chapter 115 - Evidence; Documentary](Chapter%20115%20-%20Evidence%3B%20Documentary/README.md)
 - [Chapter 117 - Evidence; Depositions](Chapter%20117%20-%20Evidence%3B%20Depositions/README.md)
 - [Chapter 119 - Evidence; Witnesses](Chapter%20119%20-%20Evidence%3B%20Witnesses/README.md)

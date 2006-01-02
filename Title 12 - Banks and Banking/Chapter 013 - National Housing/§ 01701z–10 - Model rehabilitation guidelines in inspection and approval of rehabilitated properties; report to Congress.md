@@ -8,7 +8,7 @@
 
 (4) The Secretary may furnish technical assistance to State and local governments to facilitate the use and implementation of such guidelines.
 
-(b) The Secretary shall report to Congress not later than thirty-six months after October 31, 1978, regarding (1) actions taken by State and local governments to adopt guidelines or their equivalents, and (2) recommendations for further action.
+(b) The Secretary shall report to Congress not later than thirty-six months after October 31,1978, regarding (1) actions taken by State and local governments to adopt guidelines or their equivalents, and (2) recommendations for further action.
 
 (Pub. L. 91–609, title V, §511, as added Pub. L. 95–557, title IX, §903, Oct. 31, 1978, 92 Stat. 2125.)
 

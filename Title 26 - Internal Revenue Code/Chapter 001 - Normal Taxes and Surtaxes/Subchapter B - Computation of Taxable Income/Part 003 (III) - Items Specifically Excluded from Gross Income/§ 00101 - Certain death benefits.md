@@ -78,7 +78,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;&emsp;(i) the mortality and other charges guaranteed under the contract, and
 
-&emsp;&emsp;&emsp;(ii) interest at the greater of an annual effective rate of 6 percent or the minimum rate or rates guaranteed upon issue of the contract.
+&emsp;&emsp;&emsp;(ii) interest at the greater of an annual effective rate of 6 percent or the minimumrate or rates guaranteed upon issue of the contract.
 
 #### (C) Guideline level premium
 
@@ -104,7 +104,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (A) Flexible premium life insurance contract
 
-&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timingand amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
+&emsp;&emsp;The terms “flexible premium life insurance contract” and “contract” mean a life insurance contract (including any qualified additional benefits) which provides for the payment of one or more premiums which are not fixed by the insurer as to both timing and amount. Such terms do not include that portion of any contract which is treated under State law as providing any annuity benefits other than as a settlement option.
 
 #### (B) Premiums paid
 
@@ -336,7 +336,7 @@ Subsec. (i)(4). Pub. L. 108–121, §110(b)(1), added par. (4).
 
 2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
-1997—Subsec. (a)(2). Pub. L. 105–34, §1084(b)(2), inserted at end “The term ‘other amounts’ in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).”
+1997—Subsec. (a)(2). Pub. L. 105–34, §1084(b)(2), inserted at end “The term ‘other amounts’ in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interestpaid or accrued is not allowable as a deduction by reason of section 264(a)(4).”
 
 Subsec. (h). Pub. L. 105–34, §1528(a), added subsec. (h).
 
@@ -438,7 +438,7 @@ Amendment by section 239 of Pub. L. 97–248 applicable to decedents dying after
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(16) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(16) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1906(b)(13)(A) of Pub. L. 94–455 effective Feb. 1, 1977, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
@@ -483,8 +483,4 @@ Special rule for contracts entered into before january 1, 1983.—Any contract e
 “(3)
 
 Special rule for certain contracts.—Any contract entered into before January 1, 1983, shall be treated as meeting the requirements of subparagraph (A) of section 101(f)(1) of such Code if such contract would meet such requirements if section 101(f)(2)(C) of such Code were applied by substituting ‘3 percent’ for ‘4 percent’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 72, 818, 953, 6050Q, 7702, 7702B of this title.
 

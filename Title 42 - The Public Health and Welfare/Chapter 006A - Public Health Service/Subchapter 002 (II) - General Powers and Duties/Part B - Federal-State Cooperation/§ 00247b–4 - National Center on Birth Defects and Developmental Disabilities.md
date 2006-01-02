@@ -98,7 +98,7 @@ Subsec. (a)(2)(D), (E). Pub. L. 108–154, §2(1)(B)–(D), added subpars. (D) a
 
 Subsecs. (b), (c). Pub. L. 108–154, §2(2),(4), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to additional provisions regarding collection of data.
 
-Subsec.(d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 108–154, §2(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
 Subsec. (d)(1). Pub. L. 108–154, §2(3)(A), added par. (1) and struck out former par. (1) which read as follows: “contains information regarding the incidence and prevalence of birth defects and the extent to which birth defects have contributed to the incidence and prevalence of infant mortality;”.
 
@@ -108,7 +108,7 @@ Subsec. (d)(5) to (7). Pub. L. 108–154, §2(3)(C)–(E), added pars. (5) and (
 
 Subsec. (e). Pub. L. 108–154, §2(5), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 108–154, §2(6) substituted “such sums as may be necessary for each of fiscal years 2003through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
+Subsec. (f). Pub. L. 108–154, §2(6) substituted “such sums as may be necessary for each of fiscal years 2003 through 2007.” for “$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.”
 
 2000—Pub. L. 106–310, §611(1), substituted “National Center on Birth Defects and Developmental Disabilities” for “Programs regarding birth defects” in section catchline.
 

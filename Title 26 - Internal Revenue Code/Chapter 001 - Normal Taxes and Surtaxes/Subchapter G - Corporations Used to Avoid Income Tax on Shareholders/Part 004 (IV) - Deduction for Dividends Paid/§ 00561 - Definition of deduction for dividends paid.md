@@ -30,7 +30,3 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 Amendment by Pub. L. 87–403 applicable only with respect to distributions made after Feb. 2, 1962, see section 3(g) of Pub. L. 87–403, set out as a note under section 312 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 162, 535, 545, 547, 556, 564, 565, 852, 857, 860, 4981, 4982 of this title.
-

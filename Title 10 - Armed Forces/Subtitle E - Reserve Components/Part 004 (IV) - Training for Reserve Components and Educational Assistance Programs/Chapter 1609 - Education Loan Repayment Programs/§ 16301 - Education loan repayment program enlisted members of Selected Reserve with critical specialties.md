@@ -10,7 +10,9 @@
 
 > Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
 
-(2) The Secretary may repay loans described in paragraph (1) in the case of any person for service performed as an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
+(2) Except as provided in paragraph (3), the Secretary of Defense may repay loans described in paragraph (1) in the case of any person for service performed as an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty specified by the Secretary of Defense. The Secretary may repay such a loan only if the person to whom the loan was made performed such service after the loan was made.
+
+(3) In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve.
 
 (b) The portion or amount of a loan that may be repaid under subsection (a) is 15 percent or $500, whichever is greater, for each year of service, plus the amount of any interest that may accrue during the current year.
 
@@ -24,13 +26,19 @@
 
 (g) The Secretary of Homeland Security may repay loans described in subsection (a)(1) and otherwise administer this section in the case of members of the Selected Reserve of the Coast Guard Reserve when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, §1079(b), Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title VI, §676, Oct. 5, 1999, 113 Stat. 676; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §534, Nov. 24, 2003, 117 Stat. 1474.)
+(Added Pub. L. 103–337, div. A, title XVI, §1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, §1079(b), Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title VI, §676, Oct. 5, 1999, 113 Stat. 676; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §534, Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §526, Oct. 28, 2004, 118 Stat. 1890.)
 
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), C (§1087a et seq.), and D (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
+The date of the enactment of this paragraph, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 108–375, which was approved Oct. 28, 2004.
+
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–375, §526(1), substituted “Except as provided in paragraph (3), the Secretary of Defense may repay loans” for “The Secretary may repay loans”.
+
+Subsec. (a)(3). Pub. L. 108–375, §526(2), added par. (3).
 
 2003—Subsec. (b). Pub. L. 108–136, §534(1), inserted before period at end “, plus the amount of any interest that may accrue during the current year”.
 
@@ -49,8 +57,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2171 of this title.
 

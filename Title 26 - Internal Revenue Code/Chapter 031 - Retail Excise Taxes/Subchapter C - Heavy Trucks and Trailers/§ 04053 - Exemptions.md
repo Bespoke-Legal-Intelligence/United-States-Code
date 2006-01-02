@@ -52,7 +52,17 @@ No tax shall be imposed by section 4051 on any of the following articles:
 
 &emsp;Any chassis or body of a trailer or semitrailer which is designed for use both as a highway vehicle and a railroad car. For purposes of the preceding sentence, piggy-back trailer or semitrailer shall not be treated as designed for use as a railroad car.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2176; amended Pub. L. 98–369, div. A, title VII, §735(b)(1), July 18, 1984, 98 Stat. 981.)
+#### (8) Mobile machinery
+
+&emsp;Any vehicle which consists of a chassis—
+
+&emsp;&emsp;(A) to which there has been permanently mounted (by welding, bolting, riveting, or other means) machinery or equipment to perform a construction, manufacturing, processing, farming, mining, drilling, timbering, or similar operation if the operation of the machinery or equipment is unrelated to transportation on or off the public highways,
+
+&emsp;&emsp;(B) which has been specially designed to serve only as a mobile carriage and mount (and a power source, where applicable) for the particular machinery or equipment involved, whether or not such machinery or equipment is in operation, and
+
+&emsp;&emsp;(C) which, by reason of such special design, could not, without substantial structural modification, be used as a component of a vehicle designed to perform a function of transporting any load other than that particular machinery or equipment or similar machinery or equipment requiring such a specially designed chassis.
+
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2176; amended Pub. L. 98–369, div. A, title VII, §735(b)(1), July 18, 1984, 98 Stat. 981; Pub. L. 108–357, title VIII, §851(a)(1), Oct. 22, 2004, 118 Stat. 1607.)
 
 #### Prior Provisions
 
@@ -62,13 +72,15 @@ For provisions of prior sections 4054 to 4058 of this title, see Prior Provision
 
 #### Amendments
 
+2004—Par. (8). Pub. L. 108–357 added par. (8).
+
 1984—Pub. L. 98–369 amended section generally, substituting provisions listing articles on which no tax under section 4051 shall be imposed for former provisions which stated that no tax be imposed under section 4051 on any article specified in subsection (a) of section 4063 and that the exemptions provided by section 4221(a) extended to the tax imposed by section 4051.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §851(a)(2), Oct. 22, 2004, 118 Stat. 1607, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4221, 4222 of this title.
 

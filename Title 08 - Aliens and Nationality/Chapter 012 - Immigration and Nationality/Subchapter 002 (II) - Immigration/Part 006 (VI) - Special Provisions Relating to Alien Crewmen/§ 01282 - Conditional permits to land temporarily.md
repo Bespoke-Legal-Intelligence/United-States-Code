@@ -10,7 +10,7 @@ No alien crewman shall be permitted to land temporarily in the United States exc
 
 #### (b) Revocation; expenses of detention
 
-Pursuant to regulations prescribed by the Attorney General, any immigration officer may, in his discretion, if he determines that an alien is not a bona fide crewman, or does not intend to depart on the vessel or aircraft which brought him, revoke the conditional permit to land which was granted such crewman under the provisions of subsection (a)(1) of this section, take such crewman into custody, and require the master or commanding officer of the vessel or aircraft on which the crewman arrived to receive and detain him on board such vessel or aircraft, if practicable, and such crewman shall be removed from the United States at the expense of the transportation line which brought him to the United States. Until such alien is so removed, any expenses of his detention shall be borne by such transportation company. Nothing in this section shall be construed to require the procedure prescribed in section 1229a of this title to cases falling within the provisions of this subsection.
+Pursuant to regulations prescribed by the Attorney General, any immigration officer may, in his discretion, if he determines that an alien isnot a bona fide crewman, or does not intend to depart on the vessel or aircraft which brought him, revoke the conditional permit to land which was granted such crewman under the provisions of subsection (a)(1) of this section, take such crewman into custody, and require the master or commanding officer of the vessel or aircraft on which the crewman arrived to receive and detain him on board such vessel or aircraft, if practicable, and such crewman shall be removed from the United States at the expense of the transportation line which brought him to the United States. Until such alien is so removed, any expenses of his detention shall be borne by such transportation company. Nothing in this section shall be construed to require the procedure prescribed in section 1229a of this title to cases falling within the provisions of this subsection.
 
 #### (c) Penalties
 
@@ -26,7 +26,7 @@ Pub. L. 104–208, §308(e)(2)(E), substituted “removed” for “deported” 
 
 1991—Subsec. (c). Pub. L. 102–232 substituted “fined under title 18” for “fined not more than $2,000 (or, if greater, the amount provided under title 18)”.
 
-1990—Subsec. (c). Pub. L. 101–649 substituted “shall be fined not more than $2,000 (or, if greater, the amount provided under title 18) or imprisoned not more than 6months” for “shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $500 or shall be imprisoned for not more than six months”.
+1990—Subsec. (c). Pub. L. 101–649 substituted “shall be fined not more than $2,000 (or, if greater, the amount provided under title 18) or imprisoned not more than 6 months” for “shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $500 or shall be imprisoned for not more than six months”.
 
 #### Effective Date of 1996 Amendment
 

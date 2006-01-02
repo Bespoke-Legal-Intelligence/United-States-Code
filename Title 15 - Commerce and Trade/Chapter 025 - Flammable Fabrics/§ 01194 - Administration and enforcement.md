@@ -18,7 +18,7 @@ The Commission is authorized to—
 
 &emsp;(1) cause inspections, analyses, tests, and examinations to be made of any product, fabric or related material which it has reason to believe falls within the prohibitions of this chapter; and
 
-&emsp;(2) cooperate on matters related to the purposes of this chapter with any department oragency of the Government; with any State or territory or with the District of Columbia or the Commonwealth of Puerto Rico; or with any department, agency, or political subdivision thereof; or with any person.
+&emsp;(2) cooperate on matters related to the purposes of this chapter with any department or agency of the Government; with any State or territory or with the District of Columbia or the Commonwealth of Puerto Rico; or with any department, agency, or political subdivision thereof; or with any person.
 
 #### (e) Penalties
 

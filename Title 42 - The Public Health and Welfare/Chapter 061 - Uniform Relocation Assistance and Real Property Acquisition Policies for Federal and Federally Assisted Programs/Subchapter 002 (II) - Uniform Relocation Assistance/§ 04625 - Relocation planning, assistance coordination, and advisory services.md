@@ -14,7 +14,7 @@ Each relocation assistance advisory program required by subsection (b) of this s
 
 &emsp;(1) determine, and make timely recommendations on, the needs and preferences, if any, of displaced persons for relocation assistance;
 
-&emsp;(2) provide current and continuing information on the availability, sales prices, and rental charges of comparable replacement dwellings for displaced homeowners and tenants and suitable locations for businesses and farm operations;
+&emsp;(2) provide current and continuing information on the availability, sales prices, and rental charges of comparable replacement dwellings for displaced homeowners and tenantsand suitable locations for businesses and farm operations;
 
 &emsp;(3) assure that a person shall not be required to move from a dwelling unless the person has had a reasonable opportunity to relocate to a comparable replacement dwelling, except in the case of—
 

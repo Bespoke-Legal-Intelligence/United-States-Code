@@ -6,7 +6,7 @@ The Secretary of the Interior (a) shall, whenever it shall be shown to his satis
 
 #### References in Text
 
-The leasing and mineral land laws, referred to in text, probably mean the mineral leasing laws which areclassified generally to Title 30, Mineral Lands and Mining.
+The leasing and mineral land laws, referred to in text, probably mean the mineral leasing laws which are classified generally to Title 30, Mineral Lands and Mining.
 
 #### Amendments
 

@@ -44,7 +44,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretaryshall submit a report to Congress on the implementation of such program.
+&emsp;&emsp;Not later than 2 years after the effective date specified in section 455,<sup>1</sup> the Secretary shall submit a report to Congress on the implementation of such program.
 
 #### (5) Pilot initiatives for backlog elimination
 

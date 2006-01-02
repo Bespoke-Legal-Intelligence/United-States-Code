@@ -11,10 +11,6 @@
 
 1998—Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747, added part analysis.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 7803 of this title; title 38 sections 1970, 5301.
-
 
 ---
 

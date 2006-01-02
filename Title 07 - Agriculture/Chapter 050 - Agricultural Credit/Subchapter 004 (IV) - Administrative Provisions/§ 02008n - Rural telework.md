@@ -58,7 +58,7 @@ In this section:
 
 #### (C) Form
 
-&emsp;&emsp;The non-Federal contributions required under subparagraph (A) may be in the form of in-kind contributions, including office equipment, office space, computer software, consultant services, computer networking equipment, and related services.
+&emsp;&emsp;The non-Federal contributions required under subparagraph (A) may be in the formof in-kind contributions, including office equipment, office space, computer software, consultant services, computer networking equipment, and related services.
 
 #### (c) Telework grants
 

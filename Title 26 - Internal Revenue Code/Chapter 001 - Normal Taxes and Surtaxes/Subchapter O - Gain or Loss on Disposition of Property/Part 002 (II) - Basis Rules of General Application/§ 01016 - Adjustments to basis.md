@@ -44,15 +44,15 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(9) for amounts allowed as deductions as deferred expenses under section 616(b) (relating to certain expenditures in the development of mines) and resulting in a reduction of the taxpayer's taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
 
-&emsp;\[(10) Repealed. Pub. L. 94–455, title XIX, §1901(b)(21)(G), Oct. 4, 1976, 90 Stat. 1798.\]
+&emsp;\[(10) Repealed. Pub. L. 94–455, title XIX, §1901(b)(21)(G), Oct. 4, 1976, 90 Stat. 1798\]
 
 &emsp;(11) for deductions to the extent disallowed under section 268 (relating to sale of land with unharvested crops), notwithstanding the provisions of any other paragraph of this subsection;
 
 &emsp;(12) to the extent provided in section 28(h) of the Internal Revenue Code of 1939 in the case of amounts specified in a shareholder's consent made under section 28 of such code;
 
-&emsp;(13) to the extent provided in section 551(e) in the case of the stock of United States shareholders in a foreign personal holding company;
+&emsp;\[(13) Repealed. Pub. L. 108–357, title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1509\]
 
-&emsp;(14) for amounts allowed as deductions as deferred expenses under section 174(b)(1) (relating to research and experimental expenditures) and resulting in a reduction of the taxpayers’ taxes under this subtitle, but not lessthan the amounts allowable under such section for the taxable year and prior years;
+&emsp;(14) for amounts allowed as deductions as deferred expenses under section 174(b)(1) (relating to research and experimental expenditures) and resulting in a reduction of the taxpayers’ taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
 
 &emsp;(15) for deductions to the extent disallowed under section 272 (relating to disposal of coal or domestic iron ore), notwithstanding the provisions of any other paragraph of this subsection;
 
@@ -70,7 +70,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(22) in the case of qualified replacement property the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale or exchange of any property, to the extent provided in section 1042(d),<sup>2</sup>
 
-&emsp;(23) in the case of property the acquisition of which resulted under section 1043, 1044, 1045, or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1044(d), 1045(b)(4), or 1397B(b)(4), as the case may be,<sup>2</sup>
+&emsp;(23) in the case of property the acquisition of which resulted under section 1043, 1044, 1045, or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1044(d), 1045(b)(3), or 1397B(b)(4), as the case may be,<sup>2</sup>
 
 &emsp;(24) to the extent provided in section 179A(e)(6)(A),<sup>2</sup>
 
@@ -78,9 +78,27 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(26) to the extent provided in sections 23(g) and 137(e),<sup>2</sup>
 
-&emsp;(27) in the case of a residence with respect to which a credit was allowed under section 1400C, to the extent provided in section 1400C(h),<sup>2</sup> and
+&emsp;(27) in the case of a residence with respect to which a credit was allowed under section 1400C, to the extent provided in section 1400C(h),<sup>2</sup>
 
-&emsp;(28) in the case of a facility with respect to which a credit was allowed under section 45F, to the extent provided in section 45F(f)(1).
+&emsp;(28) in the case of a facility with respect to which a credit was allowed under section 45F, to the extent provided in section 45F(f)(1),<sup>2</sup>
+
+&emsp;(29) in the case of railroad track with respect to which a credit was allowed under section 45G, to the extent provided in section 45G(e)(3),<sup>2</sup>
+
+&emsp;(30) to the extent provided in section 179B(c),<sup>2</sup>
+
+&emsp;(31) in the case of a facility with respect to which a credit was allowed under section 45H, to the extent provided in section 45H(d),<sup>2</sup>
+
+&emsp;(32) to the extent provided in section 179D(e),<sup>2</sup>
+
+&emsp;(33) to the extent provided in section 45L(e), in the case of amounts with respect to which a credit has been allowed under section 45L,<sup>2</sup>
+
+&emsp;(34) to the extent provided in section 25C(e), in the case of amounts with respect to which a credit has been allowed under section 25C,<sup>2</sup>
+
+&emsp;(35) to the extent provided in section 25D(f), in the case of amounts with respect to which a credit has been allowed under section 25D,<sup>2</sup>
+
+&emsp;(36) to the extent provided in section 30B(h)(4),<sup>2</sup> and
+
+&emsp;(37) to the extent provided in section 30C(f).
 
 #### (b) Substituted basis
 
@@ -126,7 +144,7 @@ Whenever it appears that the basis of property in the hands of the taxpayer is a
 
 #### (B) Interest on recaptured amount
 
-&emsp;&emsp;If an election is made under this subsection with respect to any additional estatetax imposed under section 2032A(c)(1), for purposes of section 6601 (relating to interest on underpayments), the last date prescribed for payment of such tax shall be deemed to be the last date prescribed for payment of the tax imposed by section 2001 with respect to the estate of the decedent (as determined for purposes of section 6601).
+&emsp;&emsp;If an election is made under this subsection with respect to any additional estate tax imposed under section 2032A(c)(1), for purposes of section 6601 (relating to interest on underpayments), the last date prescribed for payment of such tax shall be deemed to be the last date prescribed for payment of the tax imposed by section 2001 with respect to the estate of the decedent (as determined for purposes of section 6601).
 
 #### (d) Reduction in basis of automobile on which gas guzzler tax was imposed
 
@@ -142,7 +160,7 @@ If—
 
 &emsp;&emsp;<b>For treatment of separate mineral interests as one property, see section 614.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53; Pub. L. 108–357, title II, §245(c)(2), title III, §§338(b)(4), 339(d), title IV, §413(c)(19), Oct. 22, 2004, 118 Stat. 1448, 1481, 1484, 1509; Pub. L. 109–58, title XIII, §§1331(b)(1), 1332(c), 1333(b)(1), 1335(b)(4), 1341(b)(2), 1342(b)(2), Aug. 8, 2005, 119 Stat. 1023, 1026, 1029, 1036, 1049, 1051; Pub. L. 109–135, title IV, §412(nn), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### Amendment of Section
 
@@ -168,6 +186,28 @@ Section 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(12),
 
 #### Amendments
 
+2005—Subsec. (a)(23). Pub. L. 109–135 substituted “1045(b)(3)” for “1045(b)(4)”.
+
+Subsec. (a)(32). Pub. L. 109–58, §1331(b)(1), added par. (32).
+
+Subsec. (a)(33). Pub. L. 109–58, §1332(c), added par. (33).
+
+Subsec. (a)(34). Pub. L. 109–58, §1333(b)(1), added par. (34).
+
+Subsec. (a)(35). Pub. L. 109–58, §1335(b)(4), added par. (35).
+
+Subsec. (a)(36). Pub. L. 109–58, §1341(b)(2), added par. (36).
+
+Subsec. (a)(37). Pub. L. 109–58, §1342(b)(2), added par. (37).
+
+2004—Subsec. (a)(13). Pub. L. 108–357, §413(c)(19), struck out par. (13) which read as follows: “to the extent provided in section 551(e) in the case of the stock of United States shareholders in a foreign personal holding company;”.
+
+Subsec. (a)(29). Pub. L. 108–357, §245(c)(2), added par. (29).
+
+Subsec. (a)(30). Pub. L. 108–357, §338(b)(4), added par. (30).
+
+Subsec. (a)(31). Pub. L. 108–357, §339(d), added par. (31).
+
 2001—Subsec. (a)(28). Pub. L. 107–16, §§205(b)(3), 901, temporarily added par. (28). See Effective and Termination Dates of 2001 Amendment note below.
 
 2000—Subsec. (a)(23). Pub. L. 106–554 substituted “1045, or 1397B” for “or 1045” and “1045(b)(4), or 1397B(b)(4)” for “or 1045(b)(4)”.
@@ -182,7 +222,7 @@ Subsec. (a)(27). Pub. L. 105–34, §701(b)(2), added par. (27).
 
 Subsec. (a)(26). Pub. L. 104–188, §1807(c)(5), added par. (26).
 
-1993—Subsec. (a)(19) to (23). Pub. L. 103–66, §13261(f)(3), redesignated pars. (20) to (24) as (19) to (23), respectively, and struck out former par. (19) which read asfollows: “for amounts allowed as deductions for payments made on account of transfers of franchises, trademarks, or trade names under section 1253(d)(2);”.
+1993—Subsec. (a)(19) to (23). Pub. L. 103–66, §13261(f)(3), redesignated pars. (20) to (24) as (19) to (23), respectively, and struck out former par. (19) which read as follows: “for amounts allowed as deductions for payments made on account of transfers of franchises, trademarks, or trade names under section 1253(d)(2);”.
 
 Subsec. (a)(24). Pub. L. 103–66, §13261(f)(3), redesignated par. (25) as (24). Former par. (24) redesignated (23).
 
@@ -316,6 +356,30 @@ Subsec. (a)(18). Pub. L. 85–866, §64(d)(2), added par. (18).
 
 1956—Subsec. (a)(16). Act June 29, 1956, added par. (16).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by section 1331(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1331(d) of Pub. L. 109–58, set out as an Effective Date note under section 179D of this title.
+
+Amendment by section 1332(c) of Pub. L. 109–58 applicable to qualified new energy efficient homes acquired after Dec. 31, 2005, in taxable years ending after such date, see section 1332(f) of Pub. L. 109–58, set out as a note under section 38 of this title.
+
+Amendment by section 1333(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, see section 1333(c) of Pub. L. 109–58, set out as an Effective Date note under section 25C of this title.
+
+Amendment by section 1335(b)(4) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
+
+Amendment by section 1341(b)(2) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
+
+Amendment by section 1342(b)(2) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1342(c) of Pub. L. 109–58, set out as an Effective Date note under section 30C of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 245(c)(2) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004,see section 245(e) of Pub. L. 108–357, set out as a note under section 38 of this title.
+
+Amendment by section 338(b)(4) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
+
+Amendment by section 339(d) of Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 339(f) of Pub. L. 108–357, set out as a note under section 38 of this title.
+
+Amendment by section 413(c)(19) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 205(c) of Pub. L. 107–16, set out as a note under section 38 of this title.
@@ -354,7 +418,7 @@ Amendment by Pub. L. 102–486 applicable to property placed in service after Ju
 
 Amendment by section 11812(b)(10) of Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
-Amendment by section 11813(b)(19) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(19) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -364,7 +428,7 @@ Section 502(c) of Pub. L. 101–194 provided that: “The amendments made by thi
 
 Amendment by section 1006(j)(1)(B) of Pub. L. 100–647 applicable in the case of obligations acquired after Dec. 31, 1987, with exception allowing taxpayer to elect to have amendment apply to obligations acquired after Oct. 22, 1986, see section 1006(j)(1)(C) of Pub. L. 100–647, set out as a note under section 171 of this title.
 
-Amendment by section 1018(u)(22) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(u)(22) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -440,7 +504,7 @@ Amendment by section 203(a)(3)(C) of Pub. L. 88–272 applicable in case of prop
 
 Amendment by section 225(j)(2) of Pub. L. 88–272 applicable in respect of decedents dying after Dec. 31, 1963, see section 225(<i>l</i>) of Pub. L. 88–272, set out as a note under section 316 of this title.
 
-Amendment by section 227(b)(5) of Pub. L. 88–272 applicable with respect to amounts received or accrued intaxable years beginning after Dec. 31, 1963, attributable to iron ore mined in such years, see section 227(c) of Pub. L. 88–272, set out as a note under section 272 of this title.
+Amendment by section 227(b)(5) of Pub. L. 88–272 applicable with respect to amounts received or accrued in taxable years beginning after Dec. 31, 1963, attributable to iron ore mined in such years, see section 227(c) of Pub. L. 88–272, set out as a note under section 272 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -466,7 +530,7 @@ Section 2005(a)(3) of Pub. L. 94–455 and section 702(r)(3) of Pub. L. 95–600
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -542,7 +606,7 @@ For prescribed reserve.—For the amount of the reserve prescribed by the Commis
 
 For allowable depreciation.—For the depreciation allowable under the terms and conditions prescribed by the Commissioner in connection with the changeover.
 
-> This subsection shall not apply in determining adjusted basis for purposes of section 437(c) of the Internal Revenue Code of 1939. This subsection shall apply only with respect to taxable years beginning on or after the changeover date and before the taxpayer's 1956 adjustment date.
+> This subsection shall not apply in determining adjusted basis for purposes of section 437(c) of the Internal Revenue Code of 1939. This subsection shall apply only with respect to taxable years beginning on or after thechangeover date and before the taxpayer's 1956 adjustment date.
 
 “(f)
 
@@ -583,10 +647,6 @@ Predecessor.—The term ‘predecessor’ means any person from whom property of
 &emsp;“(6) The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
 
 &emsp;“(7) The term ‘Commissioner’ means the Commissioner of Internal Revenue.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 75, 126, 174, 264, 265, 291, 312, 616, 818, 1011, 1015, 1053, 1250, 1400I of this title; title 43 section 1620.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

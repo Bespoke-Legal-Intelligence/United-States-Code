@@ -32,7 +32,3 @@ Section 501(b) of Pub. L. 101–193 provided that: “Section 1592 \[now 1596\] 
 
 &emsp;“(2) the date of the enactment of this Act \[Nov. 30, 1989\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1596a of this title.
-

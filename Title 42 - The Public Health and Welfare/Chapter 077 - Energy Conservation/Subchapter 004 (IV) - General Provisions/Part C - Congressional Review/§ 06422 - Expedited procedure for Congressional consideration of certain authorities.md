@@ -6,7 +6,7 @@ Any contingency plan transmitted to the Congress pursuant to section 6261(a)(1)�
 
 #### (b) Necessity of Congressional resolution within certain period for plan to be considered approved
 
-(1) No such energy conservation contingency plan may be considered approved for purposes of section 6261(b) <sup>1</sup> of this title unless between the date of transmittal and the end of the first period of 60 calendar days of continuous session ofCongress after the date on which such action is transmitted to such House, each House of Congress passes a resolution described in subsection (d)(2)(A) of this section.
+(1) No such energy conservation contingency plan may be considered approved for purposes of section 6261(b) <sup>1</sup> of this title unless between the date of transmittal and the end of the first period of 60 calendar days of continuous session of Congress after the date on which such action is transmitted to such House, each House of Congress passes a resolution described in subsection (d)(2)(A) of this section.
 
 (2)(A) Subject to subparagraph (B), any such rationing contingency plan shall be considered approved for purposes of section 6261(d) <sup>1</sup> of this title only if such plan is not disapproved by a resolution described in subsection (d)(2)(B)(i) of this section which passes each House of the Congress during the 30-calendar-day period of continuous session after the plan is transmitted to such Houses and which thereafter becomes law.
 
@@ -46,7 +46,7 @@ For the purpose of subsection (b) of this section—
 
 (5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution, it shall be at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
-(B) Debate on the resolution referred to in subparagraph (A) of this paragraph shall be limited to not more than 10 hours, which shall bedivided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. Except to the extent provided in paragraph (7)(B), an amendment to, or motion to recommit the resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such resolution was agreed to or disagreed to.
+(B) Debate on the resolution referred to in subparagraph (A) of this paragraph shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing such resolution. A motion further to limit debate shall not be debatable. Except to the extent provided in paragraph (7)(B), an amendment to, or motion to recommit the resolution shall not be in order, and it shall not be in order to move to reconsider the vote by which such resolution was agreed to or disagreed to.
 
 (6)(A) Motions to postpone, made with respect to the discharge from committee, or the consideration of a resolution and motions to proceed to the consideration of other business, shall be decided without debate.
 
@@ -96,7 +96,7 @@ Section 6261 of this title, referred to in subsecs. (a), (b)(1), (2)(A), and (d)
 
 Subsec. (c)(2). Pub. L. 96–102, §103(b)(2)(B), substituted “calendar-day period involved” for “60-calendar-day period”.
 
-Subsec. (d)(2). Pub. L. 96–102, §§103(b)(2)(C), 105(a)(4), designated existing provisions as subpar. (A), substituted “For purposes of applying this section with respect to any energy conservation contingency plan” for “For purposes of this subsection” and “energy conservation contingency plan” for “contingency plan” in two places, and added subpar. (B).
+Subsec. (d)(2). Pub. L. 96–102, §§103(b)(2)(C), 105(a)(4), designated existing provisions as subpar. (A), substituted “For purposes of applying this section with respect to any energy conservation contingency plan” for“For purposes of this subsection” and “energy conservation contingency plan” for “contingency plan” in two places, and added subpar. (B).
 
 Subsec. (d)(4)(A). Pub. L. 96–102, §103(b)(2)(D), inserted “in the case of any energy conservation contingency plan or at the end of 10 calendar days after its referral in the case of any rationing contingency plan” after “after its referral”.
 

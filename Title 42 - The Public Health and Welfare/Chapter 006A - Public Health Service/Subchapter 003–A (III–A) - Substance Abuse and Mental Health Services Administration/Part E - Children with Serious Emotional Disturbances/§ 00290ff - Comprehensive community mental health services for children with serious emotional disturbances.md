@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(C) in the case of any public entity that is a political subdivision of a State or that is an Indian tribe or tribal organization—
 
-&emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such agrant that are received by the Secretary from the State in which the entity is located; and
+&emsp;&emsp;&emsp;(i) shall consider any comments regarding the application of the entity for such a grant that are received by the Secretary from the State in which the entity is located; and
 
 &emsp;&emsp;&emsp;(ii) shall give special consideration to the entity if the State agrees to provide a portion of the non-Federal contributions required in subsection (c) of this section regarding such a grant.
 

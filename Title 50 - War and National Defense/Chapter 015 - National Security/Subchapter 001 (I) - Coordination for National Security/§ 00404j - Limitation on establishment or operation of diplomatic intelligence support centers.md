@@ -20,13 +20,13 @@ In this section:
 
 &emsp;&emsp;(B) is not intelligence support traditionally provided to a chief of mission by the Director of National Intelligence.
 
-&emsp;(2) The term “chief of mission” has the meaning given that term by section 3902(3) of title 22, and includes ambassadors at large and ministers of diplomatic missions of the United States, or persons appointed to lead UnitedStates offices abroad designated by the Secretary of State as diplomatic in nature.
+&emsp;(2) The term “chief of mission” has the meaning given that term by section 3902(3) of title 22, and includes ambassadors at large and ministers of diplomatic missions of the United States, or persons appointed to lead United States offices abroad designated by the Secretary of State as diplomatic in nature.
 
 #### (d) Termination
 
 This section shall cease to be effective on October 1, 2000.
 
-(July 26, 1947, ch. 343, title I, §115, as added Pub. L. 106–120, title III, §303(a), Dec. 3, 1999, 113 Stat. 1610; Pub. L. 108–458, title I, §1071(a)(1)(P)–(R), Dec. 17, 2004, 118 Stat. 3689.)
+(July 26, 1947, ch. 343, title I, §115, as added Pub. L. 106–120, title III, §303(a), Dec. 3, 1999, 113 Stat. 1610; amended Pub. L. 108–458, title I, §1071(a)(1)(P)–(R), Dec. 17, 2004, 118 Stat. 3689.)
 
 #### Amendments
 
@@ -37,6 +37,8 @@ Subsec. (b). Pub. L. 108–458, §1071(a)(1)(Q), substituted “Director of Nati
 Subsec. (c)(1)(B). Pub. L. 108–458, §1071(a)(1)(R), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

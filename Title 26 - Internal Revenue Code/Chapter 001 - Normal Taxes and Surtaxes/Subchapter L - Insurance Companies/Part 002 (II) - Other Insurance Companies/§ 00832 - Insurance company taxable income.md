@@ -56,7 +56,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 &emsp;&emsp;&emsp;(i) To losses paid during the taxable year, deduct salvage and reinsurance recovered during the taxable year.
 
-&emsp;&emsp;&emsp;(ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of thetaxable year and deduct all unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.
+&emsp;&emsp;&emsp;(ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct all unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.
 
 &emsp;&emsp;&emsp;(iii) To the results so obtained, add estimated salvage and reinsurance recoverable as of the end of the preceding taxable year and deduct estimated salvage and reinsurance recoverable as of the end of the taxable year.
 
@@ -270,7 +270,7 @@ In the case of taxable years beginning after December 31, 1966, of a company whi
 
 &emsp;&emsp;(B) an amount representing the aggregate of amounts so set aside in such reserve for the 8 preceding taxable years to the extent such amounts were not deducted under this paragraph in such preceding taxable years,
 
-> &emsp;except that the deduction allowable for the taxable year under this paragraph shall not exceed the taxable income for the taxable year computed without regard to this paragraph orto any carryback of a net operating loss. For purposes of this paragraph, the amount required by State law or regulation to be so set aside in any taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in subsection (b)(4)) with respect to mortgage guaranty insurance for such year. For purposes of this subsection, all amounts shall be taken into account on a first-in-time basis. The computation and deduction under this section of losses incurred (including losses resulting from adverse economic cycles) shall not be affected by the provisions of this subsection. For purposes of this subsection, the terms “preceding taxable years” and “preceding taxable year” shall not include taxable years which began before January 1, 1967.
+> &emsp;except that the deduction allowable for the taxable year under this paragraph shall not exceed the taxable income for the taxable year computed without regard to this paragraph or to any carryback of a net operating loss. For purposes of this paragraph, the amount required by State law or regulation to be so set aside in any taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in subsection (b)(4)) with respect to mortgage guaranty insurance for such year. For purposes of this subsection, all amounts shall be taken into account on a first-in-time basis. The computation and deduction under this section of losses incurred (including losses resulting from adverse economic cycles) shall not be affected by the provisions of this subsection. For purposes of this subsection, the terms “preceding taxable years” and “preceding taxable year” shall not include taxable years which began before January 1, 1967.
 
 #### (2) Purchase of bonds
 
@@ -314,7 +314,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 #### (g) Dividends within group
 
-In the case of an insurance company subject to tax under section 831(a) filing or required to filea consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
+In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, §3(b), 70 Stat. 48; Pub. L. 87–834, §8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, §228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, §5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, §5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, §234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, §211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, §1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, §1084(b)(4), Aug. 5, 1997, 111 Stat. 955.)
 
@@ -342,7 +342,7 @@ Subsec. (b)(5)(A). Pub. L. 101–508, §11305(a), amended subpar. (A) generally.
 
 &emsp;“(i) To losses paid during the taxable year, add salvage and reinsurance recoverable outstanding at the end of the preceding taxable year and deduct salvage and reinsurance recoverable outstanding at the end of the taxable year.
 
-&emsp;“(ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.”
+&emsp;“(ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at theend of the taxable year and deduct unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.”
 
 Subsec. (b)(7)(A). Pub. L. 101–508, §11303(b)(2), substituted “such contracts into account” for “such amounts into account”.
 
@@ -584,7 +584,7 @@ Section 1010(d)(3) of Pub. L. 100–647 provided that: “For purposes of sectio
 
 &emsp;“(B) at all times after the date on which such stock or obligation was acquired by the transferor company and before the date of the acquisition by the acquiring company, the transferor company and the acquiring company were members of the same affiliated group filing a consolidated return.
 
-> For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard toany prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization.”
+> For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard to any prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization.”
 
 #### Study of Treatment of Property and Casualty Insurance Companies
 
@@ -630,7 +630,7 @@ Deduction for members of eligible arrangements or associations.—
 
 &emsp;&emsp;“(A)
 
-Payment as trade or business expenses.—To the extent not otherwise allowable under the Internal Revenue Code of 1986, any member of any eligible arrangement or association may treat any initial payment referred to in paragraph (1) made during a taxable year to such arrangement or association as an ordinary and necessary expense incurred in connection with a trade or business for purposes of the deduction allowable under section 162, to the extent such payment does not exceed the amount which would be payable to an independent insurance company for similar annual insurance coverage (as determined by the Secretary), and further reduced by any annual dues, assessments, or premiums paid during such taxable year. Such deduction shall not be allowable as to any initial payment referred to in paragraph (1) made to an eligible arrangement or association by any person who is a member of any other eligible arrangement or association on or after the effective date of the Tax Reform Act of 1986. Any excess amount not allowed as a deduction for the taxable year in which such payment was made pursuant to the limitation contained in the 1st sentence of this subparagraph shall, subject to such limitation, be allowable as a deduction in any of the 5 succeeding taxable years, in order of time, to the extent not previously allowed as a deduction under this sentence.
+Payment as trade or business expenses.—To the extent not otherwise allowable under the Internal Revenue Code of 1986, any member of any eligible arrangement or association may treat any initial payment referred to in paragraph (1) made during a taxable year to such arrangement or association as an ordinary and necessary expense incurred in connection with a trade or business for purposesof the deduction allowable under section 162, to the extent such payment does not exceed the amount which would be payable to an independent insurance company for similar annual insurance coverage (as determined by the Secretary), and further reduced by any annual dues, assessments, or premiums paid during such taxable year. Such deduction shall not be allowable as to any initial payment referred to in paragraph (1) made to an eligible arrangement or association by any person who is a member of any other eligible arrangement or association on or after the effective date of the Tax Reform Act of 1986. Any excess amount not allowed as a deduction for the taxable year in which such payment was made pursuant to the limitation contained in the 1st sentence of this subparagraph shall, subject to such limitation, be allowable as a deduction in any of the 5 succeeding taxable years, in order of time, to the extent not previously allowed as a deduction under this sentence.
 
 &emsp;&emsp;“(B)
 
@@ -656,7 +656,7 @@ Effective Date.—The provisions of subsection (a) shall apply to payments made 
 
 Section 5(g) of Pub. L. 90–240, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect to mortgage guaranty insurance for such year. Theamount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
+“(1) In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect to mortgage guaranty insurance for such year. The amount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
 
 “(2) If a mortgage guaranty insurance company made additions to a reserve which were so treated as unearned premiums described in paragraph (1), such company, in taxable years beginning after 1966, shall include in gross income (in addition to the items specified in section 832(b)(1) of such Code) the sum of the following amounts until there is included in gross income an amount equal to the aggregate additions to the reserve described in paragraph (1) for taxable years beginning before 1967:
 
@@ -673,10 +673,6 @@ Section 5(g) of Pub. L. 90–240, as amended by Pub. L. 99–514, §2, Oct. 22, 
 > Amounts shall be taken into account on a first-in-time basis. For purposes of section 832(e) of such Code and this paragraph, if part of the reserve is reduced under State law or regulation, such reduction shall first apply to the extent of amounts added to the reserve for taxable years beginning before 1967, and only then to amounts added thereafter.
 
 “(3) The provisions of this subsection shall apply to taxable years beginning after December 31, 1956.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 543, 833, 841, 844, 861, 953, 954, 6511 of this title; title 31 section 3109.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

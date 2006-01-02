@@ -70,5 +70,5 @@ Amendment by Pub. L. 90–206 effective on first day of first pay period which b
 
 #### Retroactive Effect of 1967 Amendment
 
-Amendment by Pub. L. 90–206 to have no effect in case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub.L. 90–206, set out as a note under section 8704 of this title.
+Amendment by Pub. L. 90–206 to have no effect in case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub. L. 90–206, set out as a note under section 8704 of this title.
 

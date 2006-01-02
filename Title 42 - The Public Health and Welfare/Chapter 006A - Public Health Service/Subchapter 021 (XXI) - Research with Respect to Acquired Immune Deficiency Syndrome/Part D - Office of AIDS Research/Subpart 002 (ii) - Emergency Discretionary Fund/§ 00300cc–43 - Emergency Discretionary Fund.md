@@ -68,7 +68,7 @@ For purposes of this section:
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of providing amounts for the Fund, there is authorized to be appropriated$100,000,000 for each of the fiscal years 1994 through 1996.
+&emsp;For the purpose of providing amounts for the Fund, there is authorized to be appropriated $100,000,000 for each of the fiscal years 1994 through 1996.
 
 #### (2) Availability
 

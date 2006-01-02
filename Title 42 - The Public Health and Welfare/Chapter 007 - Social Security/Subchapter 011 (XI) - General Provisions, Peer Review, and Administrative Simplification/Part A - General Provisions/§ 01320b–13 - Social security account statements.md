@@ -42,7 +42,7 @@ The Commissioner shall, to the maximum extent practicable, take such steps as ar
 
 #### Amendment of Subsection (a)(2) and (3)
 
-<i>Pub. L. 108–203, title IV, §419(a), (b), (d), Mar. 2, 2004, 118 Stat. 533, 534, provided that, applicable with respect to social security account statements issued on or after Jan. 1, 2007, this section is amended as follows:</i>
+<i>Pub. L. 108–203, title IV, §419(a), (b), (d), Mar. 2, 2004, 118 Stat. 533, 534, provided that,</i><i>applicable with respect to social security account statements issued on or after Jan. 1, 2007, this section is amended as follows:</i>
 
 <i>(1) in subsection (a)(2), by striking “and” at the end of subparagraph (C), by striking the period and inserting “; and” in subparagraph (D), and by adding at the end the following:</i>
 

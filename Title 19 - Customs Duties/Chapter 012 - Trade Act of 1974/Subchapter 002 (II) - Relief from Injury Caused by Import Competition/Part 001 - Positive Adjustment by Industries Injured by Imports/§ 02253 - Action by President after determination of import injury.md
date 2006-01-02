@@ -22,7 +22,7 @@
 
 &emsp;(D) the probable effectiveness of the actions authorized under paragraph (3) to facilitate positive adjustment to import competition;
 
-&emsp;(E) the short- and long-term economic and social costs of the actions authorized under paragraph (3) relative to their short- and long-term economic and social benefits and other considerations relative to the position of the domestic industry in the United States economy;
+&emsp;(E) the short- and long-term economic and social costs of the actions authorized under paragraph (3) relative to their short- and long-term economic and social benefits and other considerations relative to the position of thedomestic industry in the United States economy;
 
 &emsp;(F) other factors related to the national economic interest of the United States, including, but not limited to—
 
@@ -88,7 +88,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (d) Time for taking effect of certain relief
 
-(1) Except as provided in paragraph (2), any action described in subsection (a)(3)(A), (B), or (C) of this section, that is taken under subsection (a)(1) of this section shall take effect within 15 days after the day on which the President proclaims the action, unless the President announces, on the date he decides to take such action, his intention to negotiate one or more agreements described in subsection (a)(3)(E) of this section in which case the action under subsection (a)(3)(A), (B), or (C) of this section shall be proclaimed and take effect within 90 days after the date of such decision.
+(1) Except as provided in paragraph (2), any action described in subsection (a)(3)(A), (B), or (C) of this section, that is taken under subsection\(a)(1) of this section shall take effect within 15 days after the day on which the President proclaims the action, unless the President announces, on the date he decides to take such action, his intention to negotiate one or more agreements described in subsection (a)(3)(E) of this section in which case the action under subsection (a)(3)(A), (B), or (C) of this section shall be proclaimed and take effect within 90 days after the date of such decision.
 
 (2) If the contingency set forth in subsection (c) of this section occurs, the President shall, within 30 days after the date of the enactment of the joint resolution referred to in such subsection, proclaim the action recommended by the Commission under section 2252(e)(1) of this title.
 
@@ -144,7 +144,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 (1) If the President takes action under this section other than the implemention <sup>1</sup> of agreements of the type described in subsection (a)(3)(E) of this section, the President may, after such action takes effect, negotiate agreements of the type described in subsection (a)(3)(E) of this section, and may, after such agreements take effect, suspend or terminate, in whole or in part, any action previously taken.
 
-(2) If an agreement implemented under subsection (a)(3)(E) of this section is not effective, the President may, consistent with the limitations contained in subsection (e) of this section, take additional action under subsection (a) of this section.
+(2) If an agreement implemented under subsection (a)(3)(E) of this section is not effective,the President may, consistent with the limitations contained in subsection (e) of this section, take additional action under subsection (a) of this section.
 
 #### (g) Regulations
 

@@ -2,13 +2,17 @@
 
 #### (a) In general
 
-The Administrator of the Office of Juvenile Justice and Delinquency Prevention shall make grants to expand the court-appointed special advocate program.
+The Administrator of the Office of Juvenile Justice and Delinquency Prevention shall makegrants to initiate, sustain, and expand the court-appointed special advocate program.
 
 #### (b) Grantee organizations
 
-(1) An organization to which a grant is made pursuant to subsection (a) of this section shall be a national organization that has broad membership among court-appointed special advocates and has demonstrated experience in grant administration of court-appointed special advocate programs and in providing training and technical assistance to court-appointed special advocate program; or (2) may be a local public or not-for-profit agency that has demonstrated the willingness to initiate or expand a court-appointed special advocate program.
+(1) An organization to which a grant is made pursuant to subsection (a) of this section—
 
-(2) An organization described in paragraph (1)(a) that receives a grant may be authorized to make subgrants and enter into contracts with public and not-for-profit agencies to initiate and to expand the court-appointed special advocate program. Should a grant be made to a national organization for this purpose, the Administrator shall specify an amount not exceeding 5 percent that can be used for administrative purposes by the national organization.
+&emsp;(A) shall be a national organization that has broad membership among court-appointed special advocates and has demonstrated experience in grant administration of court-appointed special advocate programs and in providing training and technical assistance to court-appointed special advocate program; or
+
+&emsp;(B) may be a local public or not-for-profit agency that has demonstrated the willingness to initiate, sustain, and expand a court-appointed special advocate program.
+
+(2) An organization described in paragraph (1)(A) that receives a grant may be authorized to make subgrants and enter into contracts with public and not-for-profit agencies to initiate, sustain, and expand the court-appointed special advocate program. Should a grant be made to a national organization for this purpose, the Administrator shall specify an amount not exceeding 5 percent that can be used for administrative purposes by the national organization.
 
 #### (c) Grant criteria
 
@@ -28,7 +32,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 &emsp;(F) a court-appointed special advocate program not accept volunteers who have been convicted of, have charges pending for, or have in the past been charged with, a felony or misdemeanor involving a sex offense, violent act, child abuse or neglect, or related acts that would pose risks to children or to the court-appointed special advocate program's credibility;
 
-&emsp;(G) a court-appointed special advocate program have an established procedure to allowthe immediate reporting to a court or appropriate agency of a situation in which a court-appointed special advocate volunteer has reason to believe that a child is in imminent danger;
+&emsp;(G) a court-appointed special advocate program have an established procedure to allow the immediate reporting to a court or appropriate agency of a situation in which a court-appointed special advocate volunteer has reason to believe that a child is in imminent danger;
 
 &emsp;(H) a court-appointed special advocate volunteer be an individual who has been screened and trained by a recognized court-appointed special advocate program and appointed by the court to advocate for children who come into the court system primarily as a result of abuse or neglect; and
 
@@ -36,9 +40,21 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 (3) In awarding grants under this section, the Administrator shall ensure that grants are distributed to localities that have no existing court-appointed special advocate program and to programs in need of expansion.
 
-(Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894.)
+#### (d) Background checks
+
+State and local Court Appointed Special Advocate programs are authorized to request fingerprint-based criminal background checks from the Federal Bureau of Investigation's criminal history database for prospective volunteers. The requesting program is responsible for the reasonable costs associated with the Federal records check.
+
+(Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 109–162, title I, §112(c), Jan. 5, 2006, 119 Stat. 2986.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–162, §112(c)(1), substituted “to initiate, sustain, and expand” for “to expand”.
+
+Subsec. (b)(1). Pub. L. 109–162, §112(c)(2)(A), substituted “subsection (a) of this section—” for “subsection (a) of this section”, inserted subpar. (A) designation before “shall be”, and substituted “(B) may be” for “(2) may be” and “to initiate, sustain, and expand” for “to initiate or expand”.
+
+Subsec. (b)(2). Pub. L. 109–162, §112(c)(2)(B), substituted “(1)(A)” for “(1)(a)” and “to initiate, sustain, and expand” for “to initiate and to expand”.
+
+Subsec. (d). Pub. L. 109–162, §112(c)(3), added subsec. (d).
 
 2002—Subsec. (c)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 

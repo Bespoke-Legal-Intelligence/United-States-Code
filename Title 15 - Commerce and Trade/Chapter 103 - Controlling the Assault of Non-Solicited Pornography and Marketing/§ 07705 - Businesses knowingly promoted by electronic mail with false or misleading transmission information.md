@@ -42,5 +42,5 @@ Except as provided in section 7706(f)(8) of this title, nothing in this section 
 
 #### References in Text
 
-This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 

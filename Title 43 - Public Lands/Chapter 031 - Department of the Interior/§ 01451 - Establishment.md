@@ -10,6 +10,10 @@ R.S. §437 derived from act Mar. 3, 1849, ch. 108, §1, 9 Stat. 395.
 
 Section was formerly classified to section 481 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–125, §1, Dec. 7, 2005, 119 Stat. 2544, provided that: “This Act \[enacting section 1475b of this title and provisions set out as a note under section 1475b of this title\] may be cited as the ‘Department of the Interior Volunteer Recruitment Act of 2005’.”
+
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out below.
@@ -82,7 +86,7 @@ I transmit herewith Reorganization Plan No. 3 of 1950, prepared in accordance wi
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 3 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
-I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of an Assistant Secretary of the Interior and an Administrative Assistant Secretary of the Interior. The rate of compensation fixed for these officers is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
+I have found and hereby declare that it is necessary to include in the accompanying reorganization plan, by reason of reorganizations made thereby, provisions forthe appointment and compensation of an Assistant Secretary of the Interior and an Administrative Assistant Secretary of the Interior. The rate of compensation fixed for these officers is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
 
 The taking effect of the reorganizations included in this plan may not in itself result in substantial immediate savings. However, many benefits in improved operations are probable during the next years which will result in a reduction in expenditures as compared with those that would be otherwise necessary. An itemization of these reductions in advance of actual experience under this plan is not practicable.
 

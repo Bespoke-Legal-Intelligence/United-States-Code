@@ -80,7 +80,7 @@ Annual Report.—Not later than July 1, 2000, and annually thereafter, the Secre
 
 #### Aircraft Noise Research Program
 
-Pub. L. 102–581, title III, §304, Oct. 31, 1992, 106 Stat. 4896, provided that:
+Pub. L. 102–581, title III, §304, Oct. 31, 1992, 106 Stat. 4896, as amended by Pub. L. 109–155, title VII, §706(b), Dec. 30, 2005, 119 Stat. 2937, provided that:
 
 “(a)
 
@@ -88,7 +88,7 @@ Establishment.—The Administrator of the Federal Aviation Administration and th
 
 “(b)
 
-Goal.—The goal of the research program established by subsection (a) is to develop by the year 2000 technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
+Goal.—The goal of the research program established by subsection (a) is to develop by the year 2010 technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
 
 “(c)
 

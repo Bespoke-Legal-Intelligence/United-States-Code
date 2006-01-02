@@ -114,7 +114,3 @@ Amendment by Pub. L. 94–455 applicable to transfers in trust made after May 21
 
 Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1970, see section 803(f) of Pub. L. 91–172, set out as a note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 646, 1361 of this title.
-

@@ -10,7 +10,3 @@ For purposes of applying the provisions of this chapter (including sections 861(
 
 (Added Pub. L. 91–172, title V, §505(a), Dec. 30, 1969, 83 Stat. 634.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 29, 43, 45, 863, 1441, 4121, 4612 of this title.
-

@@ -22,7 +22,7 @@
 
 #### (b) Terms, conditions, and restrictions
 
-Each license and permit issued under this subchapter shall contain such terms, conditions,and restrictions, established by the Administrator, which prescribe the actions the licensee or permittee shall take in the conduct of exploration and commercial recovery activities to assure protection of the environment. The Administrator shall require in all activities under new permits, and wherever practicable in activities under existing permits, the use of the best available technologies for the protection of safety, health, and the environment wherever such activities would have a significant effect on safety, health, or the environment, except where the Administrator determines that the incremental benefits are clearly insufficient to justify the incremental costs of using such technologies. Before establishing such terms, conditions, and restrictions, the Administrator shall consult with the Administrator of the Environmental Protection Agency, the Secretary of State, and the Secretary of the department in which the Coast Guard is operating, concerning such terms, conditions, and restrictions, and the Administrator shall take into account and give due consideration to the information contained in each final environmental impact statement prepared with respect to such license or permit pursuant to subsection (d) of this section.
+Each license and permit issued under this subchapter shall contain such terms, conditions, and restrictions, established by the Administrator, which prescribe the actions the licensee or permittee shall take in the conduct of exploration and commercial recovery activities to assure protection of the environment. The Administrator shall require in all activities under new permits, and wherever practicable in activities under existing permits, the use of the best available technologies for the protection of safety, health, and the environment wherever such activities would have a significant effect on safety, health, or the environment, except where the Administrator determines that the incremental benefits are clearly insufficient to justify the incremental costs of using such technologies. Before establishing such terms, conditions, and restrictions, the Administrator shall consult with the Administrator of the Environmental Protection Agency, the Secretary of State, and the Secretary of the department in which the Coast Guard is operating, concerning such terms, conditions, and restrictions, and the Administrator shall take into account and give due consideration to the information contained in each final environmental impact statement prepared with respect to such license or permit pursuant to subsection (d) of this section.
 
 #### (c) Programmatic environmental impact statement
 
@@ -56,13 +56,13 @@ For the purposes of this chapter, any vessel or other floating craft engaged in 
 
 (3) Within four years after June 28, 1980, the Secretary of State shall submit a report to Congress on the progress of establishing such stable reference areas, including the designation of appropriate zones to insure a representative and stable biota of the deep seabed.
 
-(4) For purposes of this section “stable reference areas” shall mean an area or areas of the deep seabed to be used as a reference zone orzones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
+(4) For purposes of this section “stable reference areas” shall mean an area or areas of the deep seabed to be used as a reference zone or zones for purposes of resource evaluation and environmental assessment of deep seabed mining in which no mining will occur.
 
 (Pub. L. 96–283, title I, §109, June 28, 1980, 94 Stat. 568.)
 
 #### References in Text
 
-The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Clean Water Act, referred to in subsec. (e), is act June 30, 1948, ch. 758, as amended generally by Pub. L.92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 #### Transfer of Functions
 

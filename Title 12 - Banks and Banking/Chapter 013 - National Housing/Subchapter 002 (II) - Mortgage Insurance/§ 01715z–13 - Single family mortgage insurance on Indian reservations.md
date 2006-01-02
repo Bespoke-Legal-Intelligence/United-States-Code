@@ -8,7 +8,7 @@ The Secretary, subject to such special conditions as the Secretary may prescribe
 
 Notwithstanding any other provision of this chapter, with respect to mortgages covering a property upon which there is located a one- to four-family residence—
 
-&emsp;(1) the Secretary may insure and make commitments to insure under this subchapter pursuant to this section advances made during construction where the Secretary determinesthat the proposed construction is otherwise acceptable and meets an applicable tribal or national model building code, and that no feasible financing alternative is available;
+&emsp;(1) the Secretary may insure and make commitments to insure under this subchapter pursuant to this section advances made during construction where the Secretary determines that the proposed construction is otherwise acceptable and meets an applicable tribal or national model building code, and that no feasible financing alternative is available;
 
 &emsp;(2) the applicable percentage limitation on the amount of the principal obligation of a mortgage based on the appraised value or replacement cost, as appropriate, of a one- to four-family owner-occupied residence contained in this subchapter shall apply in the case of all mortgages insured pursuant to this section without regard to whether the residences are owner-occupied where the residences are owned by the tribe; and
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 #### (h) Premium charge for insurance; report to Congress
 
-In the administration of this section, the Secretary shall establish a premium charge for insurance that will be sufficient to cover the full costs of the mortgage insurance program under this section, except that such charge may notexceed 3 percent per annum of the principal amount of the mortgage outstanding at any time. Not later than September 30, 1984, the Secretary shall determine and report to the Congress on the feasibility of eliminating any excess amount of the premium under this section over the premium under section 1709 of this title. In the event such premiums are not sufficient to cover the full costs of the mortgage insurance program under this section, the Secretary shall make recommendations to the Congress about changes to the program.
+In the administration of this section, the Secretary shall establish a premium charge for insurance that will be sufficient to cover the fullcosts of the mortgage insurance program under this section, except that such charge may not exceed 3 percent per annum of the principal amount of the mortgage outstanding at any time. Not later than September 30, 1984, the Secretary shall determine and report to the Congress on the feasibility of eliminating any excess amount of the premium under this section over the premium under section 1709 of this title. In the event such premiums are not sufficient to cover the full costs of the mortgage insurance program under this section, the Secretary shall make recommendations to the Congress about changes to the program.
 
 #### (i) “Indian tribe” and “trust or otherwise restricted land” defined
 

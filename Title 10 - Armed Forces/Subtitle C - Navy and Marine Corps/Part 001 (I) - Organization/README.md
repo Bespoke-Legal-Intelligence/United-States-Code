@@ -9,7 +9,7 @@
 | [<b>507.</b>](Chapter%20507%20-%20Composition%20of%20the%20Department%20of%20the%20Navy/README.md) | <b>Composition of the Department of the Navy</b> | <b>5061</b> |
 | <b>\[509.</b> | <b>Repealed.\]</b> |  |
 | <b>\[511.</b> | <b>Repealed.\]</b> |  |
-| [<b>513.</b>](Chapter%20513%20-%20Bureaus%3B%20Office%20of%20the%20Judge%20Advocate%20General/README.md) | <b>Bureaus: Office of the Judge Advocate General</b> | <b>5131</b> |
+| [<b>513.</b>](Chapter%20513%20-%20Bureaus%3B%20Office%20of%20the%20Judge%20Advocate%20General/README.md) | <b>Bureaus; Office of the Judge Advocate General</b> | <b>5131</b> |
 | <b>\[515.</b> | <b>Repealed.\]</b> |  |
 | <b>\[516.</b> | <b>Repealed.\]</b> |  |
 | <b>\[517.</b> | <b>Repealed.\]</b> |  |

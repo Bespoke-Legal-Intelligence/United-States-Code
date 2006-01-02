@@ -110,7 +110,7 @@ Section 10(c) of Pub. L. 97–22 provided that the amendment made by that sectio
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by section 412 of Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by section 412 of Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1979 Amendment
 

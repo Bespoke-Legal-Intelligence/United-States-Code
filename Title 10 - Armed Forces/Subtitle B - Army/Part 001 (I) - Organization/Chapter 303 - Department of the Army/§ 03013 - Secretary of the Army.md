@@ -74,6 +74,72 @@ Another prior section 3013 was renumbered section 3014 of this title and subsequ
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
+#### Army Training Strategy for Brigade-Based Combat Teams and Functional Supporting Brigades
+
+Pub. L. 109–163, div. A, title III, §353, Jan. 6, 2006, 119 Stat. 3203, provided that:
+
+“(a)
+
+Training Strategy.—
+
+&emsp;“(1)
+
+Strategy required.—The Secretary of the Army shall develop and implement a strategy for the training of brigade-based combat teams and functional supporting brigades in order to ensure the readiness of such teams and brigades.
+
+&emsp;“(2)
+
+Elements.—The training strategy under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A statement of the purpose of training for brigade-based combat teams and functional supporting brigades.
+
+&emsp;&emsp;“(B) Performance goals for both active-component and reserve-component brigade-based combat teams and functional supporting brigades, including goals for live, virtual, and constructive training.
+
+&emsp;&emsp;“(C) Metrics to quantify training performance against the performance goals specified under subparagraph (B).
+
+&emsp;&emsp;“(D) A process to report the status of collective training to Army leadership for monitoring the training performance of brigade-based combat teams and functional supporting brigades.
+
+&emsp;&emsp;“(E) A model to quantify, and to forecast, operation and maintenance funding required for each fiscal year to attain the performance goals specified under subparagraph (B).
+
+&emsp;“(3)
+
+Timing of implementation.—The Secretary of the Army shall develop and implement the training strategy under paragraph (1) as soon as practicable.
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+Report required.—Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the training strategy developed under subsection (a).
+
+&emsp;“(2)
+
+Elements.—The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;“(A) A discussion of the training strategy developed under subsection (a), including a description of the performance goals and metrics developed under that subsection.
+
+&emsp;&emsp;“(B) A discussion and description of the training ranges and other essential elements required to support the training strategy.
+
+&emsp;&emsp;“(C) A list of the funding requirements, shown by fiscal year and set forth in a format consistent with the future-years defense program to accompany the budget of the President under section 221 of title 10, United States Code, necessary to meet the requirements of the training ranges and other essential elements described under subparagraph (B).
+
+&emsp;&emsp;“(D) A schedule for the implementation of the training strategy.
+
+“(c)
+
+Comptroller General Review of Implementation.—
+
+&emsp;“(1)
+
+In general.—The Comptroller General shall monitor the implementation of the training strategy developed under subsection (a).
+
+&emsp;“(2)
+
+Report.—Not later than 180 days after the date on which the Secretary of the Army submits the report under subsection (b), the Comptroller General shall submit to the congressional defense committees a report containing the assessment of the Comptroller General of the current progress of the Army in implementing the training strategy.”
+
+#### Army Transformation to Brigade Structure
+
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
+
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 
 Pub. L. 103–337, div. A, title X, §1065, Oct. 5, 1994, 108 Stat. 2849, provided that:
@@ -88,7 +154,7 @@ Sources of Training.—The Secretary may enter into a cooperative agreement with
 
 “(c)
 
-Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
+Use of Facilities.—Under a cooperative agreement entered into under subsection (b), the Secretarymay lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding section 2667(b)(4) of title 10, United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
 
 “(d)
 
@@ -114,11 +180,5 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, set out as a note under section 3345 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 162, 3033, 10171 of this title; title 32 section 113.
 

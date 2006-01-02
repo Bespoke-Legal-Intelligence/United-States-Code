@@ -1,6 +1,6 @@
 ### §3703. Basic provisions relating to loan guaranty and insurance
 
-(a)(1)(A) Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes specified in section 3710 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
+(a)(1)(A) Any loan to a veteran eligible for benefits under this chapter, if made for any of thepurposes specified in section 3710 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
 
 &emsp;(i)(I) in the case of any loan of not more than $45,000, 50 percent of the loan;
 
@@ -192,7 +192,7 @@ Subsec. (d)(3). Pub. L. 97–72, §303(c)(2), substituted “Any real estate hou
 
 1978—Subsec. (a)(1). Pub. L. 95–476, §103(a), substituted provision extending loan guarantees under this section to veterans eligible for benefits under this chapter for provision limiting such guarantees to World War II or Korean conflict veterans.
 
-Subsec. (c)(1). Pub. L. 95–476, §103(b)(1), inserted provision authorizing the Administrator in establishing rates of interest under this paragraph for purposes of cls. (4) to (7) of section 1810(a) of this title to establish rates higher than the rate specified for other purposes under such section but not in excess of the rate the Administrator may find the loan market demands for loans for such purposes.
+Subsec. (c)(1). Pub. L. 95–476, §103(b)(1), inserted provision authorizing the Administrator in establishing rates of interest under this paragraph for purposes of cls. (4) to (7) of section 1810(a) of this title to establishrates higher than the rate specified for other purposes under such section but not in excess of the rate the Administrator may find the loan market demands for loans for such purposes.
 
 Subsec. (c)(3)(B). Pub. L. 95–476, §103(b)(2), substituted “clauses (4) and (7) of section 1810(a) of this title” for “section 1810(a)(4)”.
 

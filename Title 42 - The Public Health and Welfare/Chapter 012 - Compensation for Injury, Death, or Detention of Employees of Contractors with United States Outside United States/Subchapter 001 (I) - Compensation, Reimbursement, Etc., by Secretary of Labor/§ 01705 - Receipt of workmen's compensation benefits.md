@@ -2,7 +2,7 @@
 
 #### (a) Receipt of benefits under other provisions
 
-No benefits shall be paid or furnished under the provisions of this subchapter for injury ordeath to any person who recovers or receives workmen's compensation benefits for the same injury or death under any other law of the United States, or under the law of any State, Territory, possession, foreign country, or other jurisdiction, or benefits in the nature of workmen's compensation benefits payable under an agreement approved or authorized by the United States pursuant to which a contractor with the United States has undertaken to provide such benefits.
+No benefits shall be paid or furnished under the provisions of this subchapter for injury or death to any person who recovers or receives workmen's compensation benefits for the same injury or death under any other law of the United States, or under the law of any State, Territory, possession, foreign country, or other jurisdiction, or benefits in the nature of workmen's compensation benefits payable under an agreement approved or authorized by the United States pursuant to which a contractor with the United States has undertaken to provide such benefits.
 
 #### (b) Lien and right of recovery against compensation payable under other provisions
 
@@ -16,7 +16,7 @@ Where any person specified in section 1701(a) of this title, or any dependent, b
 
 #### (d) Entitlement to benefits by national of a foreign government under foreign laws
 
-Where a national of a foreign government is entitled to benefits on account of injury or death resulting from a war-risk hazard, under the laws of his native country or any other foreign country, the benefits of this subchapter shall not apply.
+Where a national of a foreign government is entitled to benefits on account of injury ordeath resulting from a war-risk hazard, under the laws of his native country or any other foreign country, the benefits of this subchapter shall not apply.
 
 #### (e) Receipt of benefits for prior accident or disease
 

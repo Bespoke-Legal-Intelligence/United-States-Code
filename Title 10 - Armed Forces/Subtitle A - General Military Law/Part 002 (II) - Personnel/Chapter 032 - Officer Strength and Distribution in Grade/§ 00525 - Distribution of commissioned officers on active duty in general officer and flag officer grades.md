@@ -14,7 +14,7 @@
 
 (B) The President, with the advice and assistance of the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, may designate not more than seven positions within the Joint Staff (provided for under section 155 of this title) as positions referred to in subparagraph (A). The authority of the President under the preceding sentence may not be delegated.
 
-(5)(A) An officer while serving in a position specified in section 604(b) of this title, if serving in the grade of general or admiral, is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above major general or rear admiral, as the case may be, under the first sentence of paragraph (1) or (2), as applicable. Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing an increase in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.
+(5)(A) An officer while serving in a position specified in section 604(b) of this title, if servingin the grade of general or admiral, is in addition to the number that would otherwise be permitted for that officer's armed force for officers serving on active duty in grades above major general or rear admiral, as the case may be, under the first sentence of paragraph (1) or (2), as applicable. Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing an increase in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.
 
 (B) Subparagraph (A) does not apply in the case of an officer serving in such a position if the Secretary of Defense, when considering officers for recommendation to the President for appointment to fill the vacancy in that position which was filled by that officer, did not have a recommendation for that appointment from each Secretary of a military department who (pursuant to section 604(a) of this title) was required to make such a recommendation.
 
@@ -26,7 +26,7 @@
 
 (c)(1) Subject to paragraph (3), the President—
 
-&emsp;(A) may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army and AirForce in the grade of general in excess of the applicable numbers determined under subsection (b)(1), and may make appointments in the Marine Corps in the grade of general in addition to the Commandant and Assistant Commandant, if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and
+&emsp;(A) may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army and Air Force in the grade of general in excess of the applicable numbers determined under subsection (b)(1), and may make appointments in the Marine Corps in the grade of general in addition to the Commandant and Assistant Commandant, if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and
 
 &emsp;(B) may make appointments in the Navy in the grades of vice admiral and admiral in excess of the applicable numbers determined under subsection (b)(2) if each such appointment is made in conjunction with an offsetting reduction under paragraph (2).
 
@@ -40,9 +40,17 @@
 
 (d) An officer continuing to hold the grade of general or admiral under section 601(b)(4) of this title after relief from the position of Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, or Commandant of the Marine Corps shall not be counted for purposes of this section.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456.)
+(e) In determining the total number of general officers or flag officers of an armed force on active duty for purposes of this section, the following officers shall not be counted:
+
+&emsp;(1) An officer of that armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer.
+
+&emsp;(2) An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published.
+
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, §202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, §511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, §405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, §405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, §403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, §404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, §504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, §503(a), Jan. 6, 2006, 119 Stat. 3226.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
 2003—Subsec. (b)(5)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “This paragraph shall cease to be effective at the end of December 31, 2004.”
 
@@ -149,8 +157,4 @@ Pub. L. 98–525, title V, §511, Oct. 19, 1984, 98 Stat. 2521.
 Pub. L. 98–94, title X, §1001, Sept. 24, 1983, 97 Stat. 654.
 
 Pub. L. 97–252, title XI, §1116, Sept. 8, 1982, 96 Stat. 750.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 517, 526, 527, 3038, 5143, 5144, 8038, 10506 of this title.
 

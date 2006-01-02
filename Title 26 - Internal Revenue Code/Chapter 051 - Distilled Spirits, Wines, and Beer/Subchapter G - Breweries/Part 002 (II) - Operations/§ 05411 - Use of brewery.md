@@ -22,7 +22,3 @@ Amendment by Pub. L. 91–673 effective on first day of first calendar month whi
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7851 of this title.
-

@@ -1,6 +1,6 @@
 ### §7314. Geriatric research, education, and clinical centers
 
-(a) The Secretary, upon the recommendation of the Under Secretary for Health and pursuant to the provisions of this section, shall designate not more than 25 Department health-care facilities as the locations for centers of geriatric research, education, and clinical activities and\(subject to the appropriation of sufficient funds for such purpose) shall establish and operate such centers at such locations in accordance with this section.
+(a) The Secretary, upon the recommendation of the Under Secretary for Health and pursuant to the provisions of this section, shall designate not more than 25 Department health-care facilities as the locations for centers of geriatric research, education, and clinical activities and (subject to the appropriation of sufficient funds for such purpose) shall establish and operate such centers at such locations in accordance with this section.
 
 (b) In designating locations for centers under subsection (a), the Secretary, upon the recommendation of the Under Secretary for Health, shall—
 
@@ -68,7 +68,7 @@ Subsecs. (f), (g). Pub. L. 102–585, §521(2), redesignated subsecs. (e) and (f
 
 #### Effective Date of 1994 Amendment
 
-Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
+Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that section is effective Aug. 6,1991, and as if included in the enactment of Pub. L. 102–83.
 
 #### Congressional Declaration of Purpose in Creating Centers of Geriatric Research, Education, and Clinical Activities
 

@@ -50,7 +50,3 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 
 Amendment by Pub. L. 89–809 applicable with respect to calendar year 1967 and all calendar years thereafter, see section 109(c) of Pub. L. 89–809, set out as a note under section 2501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2101, 2501 of this title.
-

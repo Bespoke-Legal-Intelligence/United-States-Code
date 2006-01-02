@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(i) for the security requirements, policies, and standards necessary to protect Federal research computer networks and information resources accessible through Federal research computer networks, including research required to establish security standards for high-performance computing systems and networks; and
 
-&emsp;&emsp;(ii) that agencies and departments identified in the annual report submitted under paragraph (3)(A) shall define and implement a security plan consistent with the Program and with applicable law.
+&emsp;&emsp;(ii) that agencies and departments identified in the annual report submitted underparagraph (3)(A) shall define and implement a security plan consistent with the Program and with applicable law.
 
 (3) The Director shall—
 
@@ -72,7 +72,7 @@
 
 &emsp;(D) describe the levels of Federal funding for each agency and department participating in the Program for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies;
 
-&emsp;(E) include the report of the Secretary of Energy required by section 5523(d) of this title; and
+&emsp;(E) include the report of the Secretary of Energy required by section 5523(d) <sup>1</sup> of this title; and
 
 &emsp;(F) include an analysis of the progress made toward achieving the goals and priorities established for the Program.
 
@@ -102,6 +102,10 @@ The President shall establish an advisory committee on high-performance computin
 
 (Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, §4, Oct. 28, 1998, 112 Stat. 2921.)
 
+#### References in Text
+
+Section 5523 of this title, referred to in subsec. (a)(4)(E), was amended generally by Pub. L. 109–58, title IX, §976(b), Aug. 8, 2005, 119 Stat. 903, and, as so amended, does not contain a subsec. (d).
+
 #### Amendments
 
 1998—Subsec. (a)(2)(A), (B). Pub. L. 105–305, §4(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
@@ -116,7 +120,7 @@ Subsec. (b). Pub. L. 105–305, §4(b), struck out “High-performance computing
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 
@@ -153,4 +157,6 @@ Sec. 3. <i>Administration</i>. To the extent permitted by law and subject to the
 Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 App. U.S.C.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
 
 (b) The Committee shall terminate June 1, 2005, unless extended by the President prior to such date.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

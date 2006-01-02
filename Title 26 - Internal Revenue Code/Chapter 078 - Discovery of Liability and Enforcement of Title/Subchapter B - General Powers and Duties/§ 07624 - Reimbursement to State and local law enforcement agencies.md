@@ -16,13 +16,9 @@ No State or local agency may receive reimbursement under this section if reimbur
 
 #### Effective Date
 
-Section applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) ofPub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 6103 of this title.
+Section applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 6103 of this title.
 
 #### Regulations
 
 Section 7602(g) of Pub. L. 100–690 provided that: “The Secretary of the Treasury shall, not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], prescribe such rules and regulations as shall be necessary and proper to carry out the provisions of this section \[enacting section 7624 of this title, amending sections 6103 and 7809 of this title, and enacting provisions set out as notes under sections 6103 and 7809 of this title\], including regulations relating to the definition of information which substantially contributes to the recovery of Federal taxes and the substantiation of expenses required in order to receive a reimbursement.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 7809 of this title.
 

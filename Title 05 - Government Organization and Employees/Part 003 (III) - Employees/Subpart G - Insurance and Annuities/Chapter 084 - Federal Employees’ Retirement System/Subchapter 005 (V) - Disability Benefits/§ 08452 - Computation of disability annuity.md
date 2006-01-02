@@ -12,7 +12,7 @@
 
 &emsp;(ii) shall, after the end of any period referred to in subparagraph (A)(i), be adjusted to reflect all adjustments made under section 8462(b) after the end of the period referred to in subparagraph (A)(i), whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
+(2)(A) For any month in which an annuitant is entitled both to an annuity under this subchapter as computed under paragraph (1) and to a disability insurance benefit under section 223 of the Social Security Act, the annuitant's annuity for such month (as so computed) shall—
 
 &emsp;(i) if such month occurs during a period referred to in paragraph (1)(A)(i), be reduced by 100 percent of the annuitant's assumed disability insurance benefit for such month; or
 
@@ -26,7 +26,7 @@
 
 &emsp;(II) all adjustments made under section 8462(b) after the end of the period referred to in paragraph (1)(A)(i) (or, if later, after the end of the month preceding the first month for which the annuitant is entitled both to an annuity under this subchapter and disability insurance benefits under section 223 of the Social Security Act) and before the start of the month involved (without regard to whether the annuitant's annuity was affected by any of those adjustments).
 
-(ii) For purposes of applying section 224 of the Social Security Act to the assumed disability insurance benefit used to compute the reduction under this paragraph, the amount of the annuity under this subchapter which is considered shall be the amount of the annuity as determined before the application of this paragraph.
+(ii) For purposes of applying section 224 of the Social Security Act to the assumed disabilityinsurance benefit used to compute the reduction under this paragraph, the amount of the annuity under this subchapter which is considered shall be the amount of the annuity as determined before the application of this paragraph.
 
 (3) Section 8462 shall apply with respect to amounts under this subsection only as provided in paragraphs (1) and (2).
 

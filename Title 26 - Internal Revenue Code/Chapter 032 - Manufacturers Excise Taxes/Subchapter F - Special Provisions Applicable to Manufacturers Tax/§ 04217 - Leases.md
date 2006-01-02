@@ -106,7 +106,3 @@ Section effective on first day of first month which begins more than ten days af
 
 Section 117(c) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4002, 4003, 4052, 4216 of this title.
-

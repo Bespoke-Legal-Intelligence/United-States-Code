@@ -56,7 +56,7 @@ The amount granted to any coal or other mining State for a fiscal year under thi
 
 There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,000,000 annually in each succeeding fiscal year to carry out the provisions of this section, which shall remain available until expended. The Secretary shall provide for an equitable distribution of sums appropriated for grants under this section to the States where there is an approved application, except that no less than one-half of such sum shall be allocated to coal-producing States.
 
-(Pub. L. 91–173, title V, §503, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, §303(c), Nov. 9,1977, 91 Stat. 1320; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title V, §503, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, §303(c), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@ A determination shall be made by the Secretary as soon as possible after the dat
 
 1988—Subsec. (c). Pub. L. 100–418, §1421(a)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if he determines—
 
-&emsp;“(1) that a significant number or proportion of the workers in such firm have become totally or partially separated, or are threatened to become totally or partially separated.
+&emsp;“(1) that a significant number or proportion of the workers in such firm have become totally or partiallyseparated, or are threatened to become totally or partially separated.
 
 &emsp;“(2) that—
 

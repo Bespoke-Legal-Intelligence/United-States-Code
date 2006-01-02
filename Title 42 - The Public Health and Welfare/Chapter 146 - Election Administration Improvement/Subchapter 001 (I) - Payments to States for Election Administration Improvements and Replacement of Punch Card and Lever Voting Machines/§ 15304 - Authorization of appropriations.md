@@ -28,7 +28,7 @@ Any payment made to a State under this subchapter shall be available to the Stat
 
 #### (d) Deposit of amounts in State election fund
 
-When a State has established an election fund described in section 15404(b) of this title, the State shall ensure that any funds provided to the State under this subchapter are deposited and maintained in such fund.
+When a State has established an election fund described in section 15404(b) of this title, theState shall ensure that any funds provided to the State under this subchapter are deposited and maintained in such fund.
 
 #### (e) Authorization of appropriations for Administrator
 

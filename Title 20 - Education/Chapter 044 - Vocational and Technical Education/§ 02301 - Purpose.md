@@ -1,6 +1,6 @@
 ### §2301. Purpose
 
-The purpose of this chapter is to develop more fully the academic, vocational, and technical skills of secondary students and postsecondary students who elect to enroll in vocational and technical education programs, by—
+The purpose of this chapter is to develop more fully the academic, vocational, and technicalskills of secondary students and postsecondary students who elect to enroll in vocational and technical education programs, by—
 
 &emsp;(1) building on the efforts of States and localities to develop challenging academic standards;
 

@@ -34,7 +34,7 @@ Another section 431 was renumbered section 432 of this title.
 
 1996—Subsec. (a). Pub. L. 104–93, §502(b)(1), substituted “described in subsection (e)” for “who are assigned to Defense Attache Offices and Defense Intelligence Agency Liaison Offices outside the United States and who are designated by the Secretary of Defense for the purposes of this subsection”.
 
-Subsecs. (d), (e). Pub. L. 104–93, §502(b)(2), (3), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “Regulations prescribed pursuant to subsection (a) shall be submitted to the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate before such regulations take effect.”
+Subsecs. (d), (e). Pub. L. 104–93, §502(b)(2), (3), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “Regulations prescribed pursuant to subsection (a) shall be submitted to the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representativesand the Committee on Armed Services and the Select Committee on Intelligence of the Senate before such regulations take effect.”
 
 1991—Subsecs. (b) to (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 

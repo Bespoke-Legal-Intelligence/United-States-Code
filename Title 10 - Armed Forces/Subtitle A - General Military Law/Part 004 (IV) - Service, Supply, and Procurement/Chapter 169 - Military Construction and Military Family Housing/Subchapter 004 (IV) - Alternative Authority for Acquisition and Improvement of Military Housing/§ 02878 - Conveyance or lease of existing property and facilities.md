@@ -44,7 +44,3 @@ Subsec. (d)(3). Pub. L. 107–217, §3(b)(23)(B), substituted “Section 1302 of
 
 1997—Subsec. (d)(4). Pub. L. 105–85 substituted “11411” for “11401”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2881a, 2883, 2884 of this title.
-

@@ -20,7 +20,7 @@ For purposes of this section—
 
 #### (2) Qualified architectural and transportation barrier removal expenses
 
-&emsp;The term “qualified architectural and transportation barrier removal expense” means, with respect to any such facility or public transportation vehicle, an architectural or transportation barrier removal expense with respect to which the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any such barrier meets the standards promulgated by the Secretary with the concurrence of the Architectural andTransportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
+&emsp;The term “qualified architectural and transportation barrier removal expense” means, with respect to any such facility or public transportation vehicle, an architectural or transportation barrier removal expense with respect to which the taxpayer establishes, to the satisfaction of the Secretary, that the resulting removal of any such barrier meets the standards promulgated by the Secretary with the concurrence of the Architectural and Transportation Barriers Compliance Board and set forth in regulations prescribed by the Secretary.
 
 #### (3) Handicapped individual
 
@@ -58,9 +58,5 @@ Section 2122(c) of Pub. L. 94–455, as amended by Pub. L. 96–167, §9(c), Dec
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(a)(14) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 67, 263, 1245, 1250 of this title.
+For provisions that nothing in amendment by section 11801(a)(14) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

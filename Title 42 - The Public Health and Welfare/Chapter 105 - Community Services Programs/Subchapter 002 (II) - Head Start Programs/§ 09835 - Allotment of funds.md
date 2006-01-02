@@ -6,7 +6,7 @@
 
 (2) The Secretary shall reserve 13 percent of the amount appropriated for each fiscal year for use in accordance with the following order of priorities—
 
-&emsp;(A) Indian Head Start programs, services for children with disabilities, and migrant andseasonal Head Start programs, except that there shall be made available for each fiscal year for use by Indian Head Start programs and by migrant and seasonal Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian Head Start programs and by migrant and seasonal Head Start programs for fiscal year 1998;
+&emsp;(A) Indian Head Start programs, services for children with disabilities, and migrant and seasonal Head Start programs, except that there shall be made available for each fiscal year for use by Indian Head Start programs and by migrant and seasonal Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian Head Start programs and by migrant and seasonal Head Start programs for fiscal year 1998;
 
 &emsp;(B) payments, subject to paragraph (7)—
 
@@ -84,7 +84,7 @@
 
 &emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian Head Start programs and migrant and seasonal Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
 
-(ii) Funds allotted under clause (i) shall be used by the Secretary to make grants to Head Start agencies that receive grants from funds allotted under paragraph (4) for such fiscal year, in such amounts as the Secretary considers to be appropriate, for expenditure for activities specified in subparagraph (C).
+(ii) Funds allotted under clause (i) shall be used by the Secretary to make grants to Head Start agencies that receive grants from funds allotted under paragraph (4) for such fiscal year, in such amounts as the Secretary considers tobe appropriate, for expenditure for activities specified in subparagraph (C).
 
 (iii) Funds received under this subparagraph shall be used to supplement, not to supplant, funds received under paragraph (2) or (4).
 
@@ -144,7 +144,7 @@
 
 (iii) In this subparagraph:
 
-&emsp;(I) The term “appropriate committees” means the Committee on Education and theWorkforce and the Committee on Appropriations of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Appropriations of the Senate.
+&emsp;(I) The term “appropriate committees” means the Committee on Education and the Workforce and the Committee on Appropriations of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Appropriations of the Senate.
 
 &emsp;(II) The term “reserved portion”, used with respect to a fiscal year, means the amount required to be used in accordance with subparagraph (A) for that fiscal year.
 
@@ -304,7 +304,7 @@ Subsec. (a)(4)(A). Pub. L. 105–285, §106(a)(3)(A), substituted “1998” for
 
 Subsec. (a)(4)(B). Pub. L. 105–285, §106(a)(3)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
-“(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 yearsof age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
+“(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
 
 “(ii) 662/3 percent of such amount shall be distributed on the basis of the relative number of children from birth through 5 years of age living with families with incomes below the poverty line in each State as compared to all States.”
 
@@ -348,7 +348,7 @@ Subsec. (<i>l</i>). Pub. L. 105–285, §106(d), designated existing provisions 
 
 Subsec. (a)(2)(A). Pub. L. 103–252, §105(b)(2)(A), substituted “1994” for “1990”.
 
-Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)” after “Secretary”.
+Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plansunder section 9836a(d)(2) of this title)” after “Secretary”.
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
@@ -442,7 +442,7 @@ Subsec. (h). Pub. L. 101–501, §123(b), added subsec. (h).
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1996 Amendment
 

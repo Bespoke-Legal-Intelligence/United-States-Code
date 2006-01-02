@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, may not require any individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contribution for a similarly situated individual enrolled inthe plan on the basis of any health status-related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.
+&emsp;A group health plan, and a health insurance issuer offering health insurance coverage in connection with a group health plan, may not require any individual (as a condition of enrollment or continued enrollment under the plan) to pay a premium or contribution which is greater than such premium or contribution for a similarly situated individual enrolled in the plan on the basis of any health status-related factor in relation to the individual or to an individual enrolled under the plan as a dependent of the individual.
 
 #### (2) Construction
 

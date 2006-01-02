@@ -12,7 +12,7 @@
 
 #### (b) Qualified community organizations
 
-An organization is a qualified community organization which is eligible to receive a grant under subsection (a) of this section if the organization—
+An organization is a qualified community organization which is eligible to receive a grantunder subsection (a) of this section if the organization—
 
 &emsp;(1) is a nonprofit organization; and
 

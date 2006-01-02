@@ -54,7 +54,7 @@ The Special Education Research Commissioner shall ensure that activities assiste
 
 #### (c) Plan
 
-The Special Education Research Commissioner shall propose to the Director a research plan, developed in collaboration with the Assistant Secretary for Special Education and Rehabilitative Services, that—
+The Special Education Research Commissioner shall propose to the Director a researchplan, developed in collaboration with the Assistant Secretary for Special Education and Rehabilitative Services, that—
 
 &emsp;(1) is consistent with the priorities and mission of the Institute and the mission of the Special Education Research Center;
 

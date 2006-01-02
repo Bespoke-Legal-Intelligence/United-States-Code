@@ -76,7 +76,7 @@ In general.—Pursuant to section 108(b) of the Indian Self-Determination and Ed
 
 &emsp;&emsp;&emsp;“(ii)
 
-Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day of each quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
+Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day ofeach quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
 
 &emsp;&emsp;&emsp;“(iii)
 
@@ -248,7 +248,7 @@ Trust services to individual indians.—For the purposes of this paragraph only,
 
 &emsp;“(5)
 
-Fair and uniform services.—The Contractor shall provide services under this Contract in a fair and uniform manner and shall provide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievances brought by program beneficiaries against the Contractor arising out of the performance of the Contract.
+Fair and uniform services.—The Contractor shall provide services under this Contract in a fair and uniform manner and shall provide access to an administrative or judicial body empowered to adjudicate or otherwise resolve complaints, claims, and grievancesbrought by program beneficiaries against the Contractor arising out of the performance of the Contract.
 
 “(d)
 
@@ -336,7 +336,7 @@ The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the prov
 
 The Act of July 3, 1952, referred to in section 1(b)(15)(A) of the provisions of subsec. (c) setting out the model agreement, is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 
-The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Indian Health Care Improvement Act, referred to in section 1(d)(2) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 1601 of this title and Tables.
 
 #### Prior Provisions
 

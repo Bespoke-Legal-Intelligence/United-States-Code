@@ -50,7 +50,3 @@ Subsec. (b)(5), (6). Pub. L. 106–65, §544(2), (3), added par. (5) and redesig
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2114, 12732 of this title.
-

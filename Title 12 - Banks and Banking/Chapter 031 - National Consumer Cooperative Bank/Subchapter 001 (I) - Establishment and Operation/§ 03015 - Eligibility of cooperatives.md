@@ -46,5 +46,5 @@ Subsec. (a)(5). Pub. L. 97–35, §394(f), inserted provisions relating to excep
 
 #### Effective Date of 1981 Amendment
 
-Section 394(e)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity RedemptionDate”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Section 394(e)(2) of Pub. L. 97–35 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 

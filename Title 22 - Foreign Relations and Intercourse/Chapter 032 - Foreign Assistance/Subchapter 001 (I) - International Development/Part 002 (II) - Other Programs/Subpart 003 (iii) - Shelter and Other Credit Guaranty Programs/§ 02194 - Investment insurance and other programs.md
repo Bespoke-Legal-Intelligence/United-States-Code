@@ -14,7 +14,7 @@ The Corporation is hereby authorized to do the following:
 
 &emsp;(D) loss due to business interruption caused by any of the risks set forth in subparagraphs (A), (B), and (C).
 
-(2) Recognizing that major private investments in less developed friendly countries or areas are often made by enterprises in which there is multinational participation, including significant United States private participation, the Corporation may make arrangements with foreign governments (including agencies, instrumentalities, or political subdivisions thereof) or with multilateral organizations and institutions for sharing liabilities assumed under investment insurance for such investments and may in connection therewith issue insurance to investors not otherwise eligible hereunder, except that liabilities assumed by the Corporation under the authority of this subsection shall be consistent with the purposes of this subpart and that the maximum share of liabilities so assumed shall not exceed the proportionate participation by eligible investors in the project.
+(2) Recognizing that major private investments in less developed friendly countries orareas are often made by enterprises in which there is multinational participation, including significant United States private participation, the Corporation may make arrangements with foreign governments (including agencies, instrumentalities, or political subdivisions thereof) or with multilateral organizations and institutions for sharing liabilities assumed under investment insurance for such investments and may in connection therewith issue insurance to investors not otherwise eligible hereunder, except that liabilities assumed by the Corporation under the authority of this subsection shall be consistent with the purposes of this subpart and that the maximum share of liabilities so assumed shall not exceed the proportionate participation by eligible investors in the project.
 
 (3) Not more than 10 per centum of the maximum contingent liability of investment insurance which the Corporation is permitted to have outstanding under section 2195(a)(1) <sup>1</sup> of this title shall be issued to a single investor.
 
@@ -82,7 +82,7 @@ To administer and manage special projects and programs, including programs of fi
 
 #### (5) Implementation
 
-&emsp;To the extent provided in advance in appropriations Acts, the Corporation is authorized to create such legal vehicles as may be necessary for implementation of its authorities, which legal vehicles may be deemed non-Federal borrowers for purposes of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]. Income and proceeds of investments made pursuant to this subsection may be used to purchase equity or quasi-equity securities in accordance with the provisions of this section: <i>Provided, however</i>, That such purchases shall not be limited to the 4-year period of the pilotprogram: <i>Provided further</i>, That the limitations contained in paragraph (2) shall not apply to such purchases.
+&emsp;To the extent provided in advance in appropriations Acts, the Corporation is authorized to create such legal vehicles as may be necessary for implementation of its authorities, which legal vehicles may be deemed non-Federal borrowers for purposes of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\]. Income and proceeds of investments made pursuant to this subsection may be used to purchase equity or quasi-equity securities in accordance with the provisions of this section: <i>Provided, however</i>, That such purchases shall not be limited to the 4-year period of the pilot program: <i>Provided further</i>, That the limitations contained in paragraph (2) shall not apply to such purchases.
 
 #### (6) Consultations with Congress
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 100–461 added subsec. (g).
 
 1985—Subsec. (a)(1)(D). Pub. L. 99–204, §6(a)(1), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 99–204, §6(a)(2), substituted “insurance for the first time for loss due to business interruption” for “civil strife insurance for the first time” and “definition of ‘civil strife’ or ‘business interruption’ ” for “definition of civil strife” and inserted provision that in the case of insurance for loss due to business interruption an explanation of the underwritingbasis upon which the insurance is to be offered be submitted and provision that any report with respect to insurance for loss due to business interruption be considered in accordance with procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
+Subsec. (a)(4). Pub. L. 99–204, §6(a)(2), substituted “insurance for the first time for loss due to business interruption” for “civil strife insurance for the first time” and “definition of ‘civil strife’ or ‘business interruption’ ” for “definition of civil strife” and inserted provision that in the case of insurance for loss due to business interruption an explanation of the underwriting basis upon which the insurance is to be offered be submitted and provision that any report with respect to insurance for loss due to business interruption be considered in accordance with procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
 
 Subsec. (b). Pub. L. 99–204, §7, substituted “15” for “10”.
 

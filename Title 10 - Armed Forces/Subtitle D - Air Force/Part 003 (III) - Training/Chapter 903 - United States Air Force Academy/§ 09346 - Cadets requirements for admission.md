@@ -56,7 +56,3 @@ In subsection (c), the word “shall” is substituted for the word “may”, s
 
 For authority to waive maximum age limitation in subsec. (a) of this section on basis of service on active duty in connection with Operation Desert Storm, see section 514 of Pub. L. 102–190, set out as a note under section 4346 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9344 of this title.
-

@@ -70,7 +70,7 @@ First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—
 
 (e)
 
-Pro Rating of Initial Adjustment.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 of title 37 shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to thenearest one-tenth of 1 percent) equal to the difference between—
+Pro Rating of Initial Adjustment.—Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 of title 37 shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
 
 &emsp;(1) the percent by which—
 
@@ -84,11 +84,11 @@ Pro Rating of Initial Adjustment.—Notwithstanding subsection (b) but subject t
 
 (f)
 
-Prevention of Pay Inversions
+Prevention of Pay Inversions.—
 
 &emsp;(1)
 
-Prevention of retired pay inversions.—Notwithstanding any other provision of law, the monthly retired pay of a member or a former member of an armed force who initially became entitled to that pay on or after January 1, 1971, may not be less than the monthly retired pay to which he would be entitled if he had become entitled to retired pay at an earlier date based on the grade in which the member is retired, adjusted to reflect any applicable increases in such pay under this section. In computing the amount of retired pay to which such a member or former member would have been entitled on that earlier date, the computation shall be based on his grade, length of service, and the rate of basic pay applicable to him at that time, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired. This subsection does not authorize any increase in the monthly retired pay to which a member was entitled for any period before October 7, 1975.
+Prevention of retired pay inversions.—Notwithstanding any other provision of law, the monthly retired pay of a member or a former member of an armed force who initially became entitled to that pay on or after January 1, 1971, may not be less than themonthly retired pay to which he would be entitled if he had become entitled to retired pay at an earlier date based on the grade in which the member is retired, adjusted to reflect any applicable increases in such pay under this section. In computing the amount of retired pay to which such a member or former member would have been entitled on that earlier date, the computation shall be based on his grade, length of service, and the rate of basic pay applicable to him at that time, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired. This subsection does not authorize any increase in the monthly retired pay to which a member was entitled for any period before October 7, 1975.
 
 &emsp;(2)
 
@@ -148,7 +148,7 @@ Percentage increase” for “
 
 Pre-august 1, 1986 members” in heading.
 
-Pub. L. 106–65, §641(b)(1), substituted “Except as otherwise provided in this subsection, the Secretaryshall increase the retired pay of each member and former member” for “The Secretary shall increase the retired pay of each member and former member who first became a member of a uniformed service before August 1, 1986,”.
+Pub. L. 106–65, §641(b)(1), substituted “Except as otherwise provided in this subsection, the Secretary shall increase the retired pay of each member and former member” for “The Secretary shall increase the retired pay of each member and former member who first became a member of a uniformed service before August 1, 1986,”.
 
 Subsec. (b)(3). Pub. L. 106–65, §643(b)(1)(C), substituted “
 
@@ -260,7 +260,7 @@ Subsec. (e). Pub. L. 100–224, §1(b), substituted “by the percent (adjusted 
 
 Subsecs. (b) to (d). Pub. L. 99–348, §102(a), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which read as follows:
 
-“(b) Each time that an increase is made under section 8340(b) of title 5 in annuities paid under subchapter III of chapter 83 of such title, the Secretary of Defense shall at the same time increase the retired and retainer pay of members and former members of the armed forces by the same percent as the percentage by which annuities are increased under such section.
+“(b) Each time that an increase is made under section 8340(b) of title 5 in annuities paid under subchapter III of chapter 83 of such title, the Secretary of Defense shall at the same time increase the retired and retainerpay of members and former members of the armed forces by the same percent as the percentage by which annuities are increased under such section.
 
 “(c) Notwithstanding subsection (b), if a member or former member of an armed force becomes entitled to retired pay or retainer pay based on rates of monthly basic pay prescribed by section 203 of title 37 that became effective after the last day of the month of the base index, his retired pay or retainer pay shall be increased on the effective date of the next adjustment of retired pay and retainer pay under subsection (b) only by the percent (adjusted to the nearest one-tenth of 1 percent) that the new base index exceeds the index for the calendar month immediately before that in which the rates of monthly basic pay on which his retired pay or retainer pay is based became effective.
 
@@ -384,7 +384,7 @@ Section 632 of Pub. L. 103–337 provided that:
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) Congress, in the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\], changed the effective dates for future cost-of-living adjustments for military retired pay and forFederal civilian retirement annuities, which (before that Act) were provided by law to be made effective on December 1 each year.
+&emsp;“(1) Congress, in the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66, see Tables for classification\], changed the effective dates for future cost-of-living adjustments for military retired pay and for Federal civilian retirement annuities, which (before that Act) were provided by law to be made effective on December 1 each year.
 
 &emsp;“(2) The timing, and the percentage of increase, of military and Federal civilian retirees’ cost-of-living adjustments have been linked for decades.
 
@@ -474,13 +474,13 @@ Pub. L. 96–342, title VIII, §812, Sept. 8, 1980, 94 Stat. 1098, as amended by
 
 “(B) The increase in the retired and retainer pay of members and former members of the uniformed services to be made effective March 1, 1981, under the provisions of paragraph (2)(A) of such section shall, in lieu of the increase prescribed by such paragraph, be the percent change computed under subparagraph (A), adjusted to the nearest 1/10 of one percent.
 
-“(3) The President shall by Executive order provide for only one cost-of-living adjustment in the annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees (50 U.S.C. 403note) during the period beginning on September 1, 1980, and ending on August 31, 1981. Such adjustment shall be effective March 1, 1981, and shall be made in the same manner and percentage as the adjustment provided for in paragraphs (1) and (2) for the retired and retainer pay of members and former members of the uniformed services.
+“(3) The President shall by Executive order provide for only one cost-of-living adjustment in the annuities paid under the Central Intelligence Agency \[Retirement\] Act of 1964 for Certain Employees (50 U.S.C. 403 note) during the period beginning on September 1, 1980, and ending on August 31, 1981. Such adjustment shall be effective March 1, 1981, and shall be made in the same manner and percentage as the adjustment provided for in paragraphs (1) and (2) for the retired and retainer pay of members and former members of the uniformed services.
 
 “(4) Paragraphs (1), (2), and (3) shall not take effect unless similar legislation is enacted which provides for only one cost-of-living increase in annuities paid under subchapter III of chapter 83 of title 5, United States Code, during the period beginning on September 1, 1980, and ending on August 31, 1981.
 
 “(b)(1) Effective August 31, 1981, but subject to paragraph (2), section 1401a(b), of title 10, United States Code, relating to adjustment of retired pay and retainer pay to reflect changes in the Consumer Price Index, is amended to read as follows:
 
-&emsp;‘(b) Each time that an increase is made under section 8340(b) of title 5 in annuities paid under subchapter III of chapter 83 of such title, the Secretary of Defense shall at the same time increase the retired and retainer pay of members and former members of the armed forces by the same percent as the percentage by which annuities are increased under such section.’.
+&emsp;“ ‘(b) Each time that an increase is made under section 8340(b) of title 5 in annuities paid under subchapter III of chapter 83 of such title, the Secretary of Defense shall at the same time increase the retired and retainer pay of members and former members of the armed forces by the same percent as the percentage by which annuities are increased under such section.’.
 
 “(2) The amendment made by paragraph (1) shall not take effect unless legislation is enacted which provides for the adjustment of annuities paid under subchapter III of chapter 83 of title 5, United States Code, on a once-a-year basis. In the event such legislation is enacted, such amendment shall become effective with respect to adjustments in the retired pay and retainer pay of members and former members of the uniformed services at the same time that the legislation providing for such a once-a-year adjustment of annuities paid under subchapter III of chapter 83 of title 5, United States Code, becomes effective.
 
@@ -524,7 +524,7 @@ Section 801(c) of Pub. L. 94–361 provided that:
 
 Pub. L. 93–210, §2, Dec. 28, 1973, 87 Stat. 908, provided that:
 
-“(a) Notwithstanding any other provision of law, effective on the date of enactment of this Act \[Dec. 28, 1973\], the pay and allowances of members of the Armed Forces to whom this Act applies shall be increased to amounts equal to the amounts such pay and allowances would have been increased if the pay and allowances of such members had been increased, under section 1401a(b) of title 10, United States Code, by the same percentage rates, consecutively compounded, that the retired pay or retainer pay of members and former members of the Armed Forces entitled to retired pay or retainer pay since October 1, 1967, has been increased, and such member shall, on and after the date of enactment of this Act \[Dec. 28, 1973\], have his pay and allowances increased effective the same day and by the same percentage rate that the retired pay or retainer pay of members and former members of the Armed Forces is increased under such section 1401a(b).
+“(a) Notwithstanding any other provision of law, effective on the date of enactment of this Act \[Dec. 28, 1973\], the pay and allowances of members of the Armed Forces to whom this Act applies shall be increased to amounts equal to the amounts such pay and allowances would have been increased if the pay and allowances of such members had been increased, under section1401a(b) of title 10, United States Code, by the same percentage rates, consecutively compounded, that the retired pay or retainer pay of members and former members of the Armed Forces entitled to retired pay or retainer pay since October 1, 1967, has been increased, and such member shall, on and after the date of enactment of this Act \[Dec. 28, 1973\], have his pay and allowances increased effective the same day and by the same percentage rate that the retired pay or retainer pay of members and former members of the Armed Forces is increased under such section 1401a(b).
 
 “(b) This section applies to members of the Armed Forces entitled to pay and allowances under either of the following provisions of law:
 
@@ -537,8 +537,4 @@ Pub. L. 93–210, §2, Dec. 28, 1973, 87 Stat. 908, provided that:
 #### Retroactive Adjustment of Retired or Retainer Pay of Persons Entitled Thereto After November 30, 1966, But Prior to Effective Date of Next Increase After July 1, 1966
 
 Section 2(b) of Pub. L. 90–207 provided that: “Notwithstanding section 1401a(d) of title 10, United States Code, a person who is a member or former member of an armed force on the date of enactment of this Act \[Dec. 16, 1967\] and who initially became, or hereafter initially becomes, entitled to retired pay or retainer pay after November 30, 1966, but before the effective date of the next increase after July 1, 1966, in the rates of monthly basic pay prescribed by section 203 of title 37, United States Code, is entitled to have his retired pay or retainer pay increased by 3.7 percent, effective as of the date of his entitlement to that pay.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1402, 1402a, 1408, 1410, 1434, 1451, 1452 of this title; title 24 section 414; title 37 section 322.
 

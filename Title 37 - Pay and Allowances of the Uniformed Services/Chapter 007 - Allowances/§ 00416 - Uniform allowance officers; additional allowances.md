@@ -68,5 +68,5 @@ Section 663(b) of Pub. L. 101–189 provided that: “An officer of an armed for
 
 #### Allowance for Service Prior to October 3, 1964
 
-Section 2 of Pub. L. 88–624 provided that: “The amendments made by this Act \[amending this section\]do not entitle an officer to an allowance for any 4-year period of service completed prior to the effective date of this Act \[Oct. 3, 1964\].”
+Section 2 of Pub. L. 88–624 provided that: “The amendments made by this Act \[amending this section\] do not entitle an officer to an allowance for any 4-year period of service completed prior to the effective date of this Act \[Oct. 3, 1964\].”
 

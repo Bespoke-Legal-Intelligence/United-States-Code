@@ -22,13 +22,13 @@ Each State with a plan approved under this part shall make foster care maintenan
 
 Foster care maintenance payments may be made under this part only on behalf of a child described in subsection (a) of this section who is—
 
-&emsp;(1) in the foster family home of an individual, whether the payments therefor are made to such individual or to a public or nonprofit private child-placement or child-care agency, or
+&emsp;(1) in the foster family home of an individual, whether the payments therefor are made to such individual or to a public or private child-placement or child-care agency, or
 
-&emsp;(2) in a child-care institution, whether the payments therefor are made to such institution or to a public or nonprofit private child-placement or child-care agency, which payments shall be limited so as to include in such payments only those items which are included in the term “foster care maintenance payments” (as defined in section 675(4) of this title).
+&emsp;(2) in a child-care institution, whether the payments therefor are made to such institution or to a public or private child-placement or child-care agency, which payments shall be limited so as to include in such payments only those items which are included in the term “foster care maintenance payments” (as defined in section 675(4) of this title).
 
 #### (c) “Foster family home” and “child-care institution” defined
 
-For the purposes of this part, (1) the term “foster family home” means a foster family home for children which is licensed by the State in which it is situated or has been approved, by the agency of such State having responsibility for licensing homes of this type, as meeting the standards established for such licensing; and (2) the term “child-care institution” means a private child-care institution, or a public child-care institution which accommodates no more than twenty-five children, which is licensed by the State in which it is situated or has been approved, by the agency of such State responsible for licensing or approval of institutions of this type, as meeting the standards established for such licensing, but the term shall not include detention facilities, forestry camps, training schools, or any other facility operated primarily for the detention of children who are determined to be delinquent.
+For the purposes of this part, (1) the term “foster family home” means a foster familyhome for children which is licensed by the State in which it is situated or has been approved, by the agency of such State having responsibility for licensing homes of this type, as meeting the standards established for such licensing; and (2) the term “child-care institution” means a private child-care institution, or a public child-care institution which accommodates no more than twenty-five children, which is licensed by the State in which it is situated or has been approved, by the agency of such State responsible for licensing or approval of institutions of this type, as meeting the standards established for such licensing, but the term shall not include detention facilities, forestry camps, training schools, or any other facility operated primarily for the detention of children who are determined to be delinquent.
 
 #### (d) Children removed from their homes pursuant to voluntary placement agreements
 
@@ -58,7 +58,7 @@ In any case where—
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829.)
+(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829; Pub. L. 109–113, §2, Nov. 22, 2005, 119 Stat. 2371.)
 
 #### References in Text
 
@@ -68,7 +68,9 @@ Parts A and B of this subchapter, referred to in subsecs. (f) and (h), are class
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–169 inserted at end “In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
+2005—Subsec. (b). Pub. L. 109–113 struck out “nonprofit” before “private” in pars. (1) and (2).
+
+1999—Subsec. (a). Pub. L. 106–169 inserted at end “In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) ofthis title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
 
 1997—Subsec. (a). Pub. L. 105–33, §5513(b)(1), substituted “July 16, 1996” for “June 1, 1995” in introductory provisions.
 

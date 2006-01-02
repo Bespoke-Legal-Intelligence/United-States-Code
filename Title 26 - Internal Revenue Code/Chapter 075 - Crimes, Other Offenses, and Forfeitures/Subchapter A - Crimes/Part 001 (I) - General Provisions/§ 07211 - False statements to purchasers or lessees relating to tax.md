@@ -6,7 +6,7 @@ Whoever in connection with the sale or lease, or offer for sale or lease, of any
 
 &emsp;(2) ascribing a particular part of such price to a tax imposed under the authority of the United States,
 
-> knowing that such statement is false or that the tax is not so great as the portion of such price ascribed to such tax, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000, or by imprisonment for not more than 1 year, or both.
+> knowing that such statement is false or that the tax is not so great as the portion of such priceascribed to such tax, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000, or by imprisonment for not more than 1 year, or both.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 854.)
 

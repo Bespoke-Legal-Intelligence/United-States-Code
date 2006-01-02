@@ -10,7 +10,7 @@ Members of any advisory council or committee appointed under this section who ar
 
 #### (c) Delegation of functions
 
-Upon appointment of any such council or committee, the Secretary may delegate to suchcouncil or committee such advisory functions relating to grants-in-aid for research or training projects or programs, in the areas or fields with which such council or committee is concerned, as the Secretary determines to be appropriate.
+Upon appointment of any such council or committee, the Secretary may delegate to such council or committee such advisory functions relating to grants-in-aid for research or training projects or programs, in the areas or fields with which such council or committee is concerned, as the Secretary determines to be appropriate.
 
 (July 1, 1944, ch. 373, title II, §222, as added Pub. L. 87–838, §3, Oct. 17, 1962, 76 Stat. 1073; amended Pub. L. 91–515, title VI, §601(a)(3), (c), Oct. 30, 1970, 84 Stat. 1310, 1311; Pub. L. 99–158, §3(a)(4), Nov. 20, 1985, 99 Stat. 879.)
 

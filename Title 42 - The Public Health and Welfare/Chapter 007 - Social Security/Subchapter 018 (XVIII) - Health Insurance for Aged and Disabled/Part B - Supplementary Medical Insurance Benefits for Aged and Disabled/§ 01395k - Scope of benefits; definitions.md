@@ -42,7 +42,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;&emsp;&emsp;(III) the physician is authorized to perform the procedure in a hospital located in the area in which the office is located,
 
-&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title andfurnished in connection with such surgical procedure to individuals enrolled under this part;
+&emsp;&emsp;&nbsp;and if the physician agrees to accept the standard overhead amount determined under section 1395<i>l</i>(i)(2)(B) of this title as full payment for such services and to accept payment on an assignment-related basis with respect to payment for all services (including all pre- and post-operative services) described in paragraphs (1) and (2)(A) of section 1395x(s) of this title and furnished in connection with such surgical procedure to individuals enrolled under this part;
 
 &emsp;&emsp;(G) covered items (described in section 1395m(a)(13) of this title) furnished by a provider of services or by others under arrangements with them made by a provider of services;
 
@@ -64,7 +64,7 @@ Part B of subchapter XI of this chapter, referred to in subsec. (a)(2)(F)(ii)(I)
 
 #### Amendments
 
-2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in a year during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
+2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in ayear during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
 
 1999—Subsecs. (b), (c). Pub. L. 106–113 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -164,7 +164,7 @@ Amendment by section 4432(b)(5)(B) of Pub. L. 105–33 applicable to items and s
 
 Section 4511(e) of Pub. L. 105–33 provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i>, 1395x, 1395y, 1395cc, and 1395yy of this title\] shall apply with respect to services furnished and supplies provided on and after January 1, 1998.”
 
-Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, see section 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
+Amendment by section 4603(c)(2)(B)(ii) of Pub. L. 105–33 applicable to cost reporting periods beginning on or after Oct. 1, 1999, except as otherwise provided, seesection 4603(d) of Pub. L. 105–33, set out as an Effective Date note under section 1395fff of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -198,7 +198,7 @@ Amendment by section 203(a) of Pub. L. 100–360 applicable to items and service
 
 Section 205(f) of Pub. L. 100–360, which provided that the amendments made by section 205 of Pub. L. 100–360 \[amending this section and sections 1395<i>l</i>, 1395n, 1395x, and 1395y of this title\] were applicable to items and services furnished on or after January 1, 1990, was repealed by Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference toOBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(g)(2)(E), (h)(4)(A), (7)(B), (i)(4)(C)(vi) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 

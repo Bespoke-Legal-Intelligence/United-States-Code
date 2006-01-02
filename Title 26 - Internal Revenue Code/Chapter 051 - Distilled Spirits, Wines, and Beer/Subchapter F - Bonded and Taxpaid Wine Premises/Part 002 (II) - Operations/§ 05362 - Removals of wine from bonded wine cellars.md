@@ -24,7 +24,7 @@ Wine may be withdrawn from bonded wine cellars on payment or determination of th
 
 #### (4) Transfer in bond not treated as removal for consumption or sale
 
-&emsp;For purposes of this chapter, the removal of wine for transfer in bond between bonded premises shall not be treated as a removal for consumption or sale.
+&emsp;For purposes of this chapter, the removal of wine for transfer in bond between bondedpremises shall not be treated as a removal for consumption or sale.
 
 #### (5) Bonded premises
 
@@ -107,8 +107,4 @@ Amendment by section 1905(c)(4) of Pub. L. 94–455 effective on first day of fi
 #### Effective Date of 1967 Amendment
 
 Section 1(b) of Pub. L. 90–73 provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Aug. 29, 1967\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5042, 5043, 5053, 5214, 5222 of this title.
 

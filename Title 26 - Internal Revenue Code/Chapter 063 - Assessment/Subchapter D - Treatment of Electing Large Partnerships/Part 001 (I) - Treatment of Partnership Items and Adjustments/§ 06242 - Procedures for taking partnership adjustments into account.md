@@ -24,7 +24,7 @@
 
 #### (4) Coordination with part II
 
-&emsp;Amounts taken into account under this subsection for any partnership taxable year shall continue to be treated as adjustments for the adjusted year for purposes of determining whether such amounts may be readjusted under part II.
+&emsp;Amounts taken into account under this subsection for any partnership taxable year shall continue to be treated as adjustments for theadjusted year for purposes of determining whether such amounts may be readjusted under part II.
 
 #### (b) Partnership liable for interest and penalties
 
@@ -48,7 +48,7 @@
 
 #### (3) Penalties
 
-&emsp;A partnership shall be liable for any penalty, addition to tax, or additional amount for which it would have been liable if such partnership had been an individual subject to tax under chapter 1 for the adjusted year and theimputed underpayment determined under paragraph (4) were an actual underpayment (or understatement) for such year.
+&emsp;A partnership shall be liable for any penalty, addition to tax, or additional amount for which it would have been liable if such partnership had been an individual subject to tax under chapter 1 for the adjusted year and the imputed underpayment determined under paragraph (4) were an actual underpayment (or understatement) for such year.
 
 #### (4) Imputed underpayment
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (5) Adjustments involving changes in character
 
-&emsp;Under regulations, appropriate adjustments in the application of this section shall be made for purposes of taking into account partnership adjustments which involve a change in the character of any item of income, gain, loss, or deduction.
+&emsp;Under regulations, appropriate adjustments in the application of this section shall be madefor purposes of taking into account partnership adjustments which involve a change in the character of any item of income, gain, loss, or deduction.
 
 #### (e) Payments nondeductible
 
@@ -127,8 +127,4 @@ A prior section 6242, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 16
 A prior section 6243, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that shareholders be notified of proceedings and given opportunity to participate, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
 A prior section 6244, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1691, directed that certain provisions of subchapter C apply to subchapter S items, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6240, 6241, 6246, 6247, 6255 of this title.
 

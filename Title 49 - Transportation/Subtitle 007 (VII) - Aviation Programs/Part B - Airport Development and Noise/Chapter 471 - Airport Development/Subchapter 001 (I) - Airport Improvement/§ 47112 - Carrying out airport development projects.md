@@ -54,7 +54,7 @@ Subsection (c)(1)(A) is substituted for “a disabled veteran is an individual d
 
 In subsection (c)(1)(B), the words “after August 4, 1964, and before May 8, 1975” are substituted for “during the period beginning August 5, 1964, and ending May 7, 1975” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
-In subsection (c)(2), the words “must require that” are substituted for “shall contain such provisions as are necessary to insure that”, and the words “when they are available and qualified for the employment” are substituted for “However, this preference shall apply only where the individuals are available and qualified to perform the work to which the employment relates”, to eliminate unnecessary words.
+In subsection (c)(2), the words “must require that” are substituted for “shall contain such provisions asare necessary to insure that”, and the words “when they are available and qualified for the employment” are substituted for “However, this preference shall apply only where the individuals are available and qualified to perform the work to which the employment relates”, to eliminate unnecessary words.
 
 #### Amendments
 

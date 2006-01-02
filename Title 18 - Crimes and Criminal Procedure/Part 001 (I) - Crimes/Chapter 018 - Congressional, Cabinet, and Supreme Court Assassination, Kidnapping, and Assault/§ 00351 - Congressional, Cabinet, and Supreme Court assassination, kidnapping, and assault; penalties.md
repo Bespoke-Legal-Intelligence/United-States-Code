@@ -12,7 +12,7 @@
 
 (f) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
 
-(g) Violations of this section shall be investigated by the Federal Bureau of Investigation. Assistance may be requested from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
+(g) Violations of this section shall be investigated by the Federal Bureau of Investigation.Assistance may be requested from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
 (h) In a prosecution for an offense under this section the Government need not prove that the defendant knew that the victim of the offense was an individual protected by this section.
 

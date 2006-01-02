@@ -4,7 +4,7 @@
 
 (b) The Postal Service may permit the transmission in the mails, under such rules and regulations as it shall prescribe as to preparation and packing, of any such articles which are not outwardly or of their own force dangerous or injurious to life, health, or property.
 
-(c) The Postal Service is authorized and directed to permit the transmission in the mails,under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall be construed to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
+(c) The Postal Service is authorized and directed to permit the transmission in the mails, under regulations to be prescribed by it, of live scorpions which are to be used for purposes of medical research or for the manufacture of antivenom. Such regulations shall include such provisions with respect to the packaging of such live scorpions for transmission in the mails as the Postal Service deems necessary or desirable for the protection of Postal Service personnel and of the public generally and for ease of handling by such personnel and by any individual connected with such research or manufacture. Nothing contained in this paragraph shall be construed to authorize the transmission in the mails of live scorpions by means of aircraft engaged in the carriage of passengers for compensation or hire.
 
 (d) The transmission in the mails of poisonous drugs and medicines may be limited by the Postal Service to shipments of such articles from the manufacturer thereof or dealer therein to licensed physicians, surgeons, dentists, pharmacists, druggists, cosmetologists, barbers, and veterinarians under such rules and regulations as it shall prescribe.
 
@@ -26,7 +26,7 @@
 
 (h) Any advertising, promotional, or sales matter which solicits or induces the mailing of anything declared nonmailable by this section is likewise nonmailable unless such matter contains wrapping or packaging instructions which are in accord with regulations promulgated by the Postal Service.
 
-(i)(1) Any ballistic knife shall be subject to the same restrictions and penalties provided under subsection (g) for knives described in the first sentence of that subsection.
+(i)(1) Any ballistic knife shall be subject to the same restrictions and penalties provided undersubsection (g) for knives described in the first sentence of that subsection.
 
 (2) As used in this subsection, the term “ballistic knife” means a knife with a detachable blade that is propelled by a spring-operated mechanism.
 
@@ -42,7 +42,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §340 (Mar. 4, 1909. ch. 321, §217, 35 Stat. 1131; May 25, 1920, ch. 196, 41 Stat.620; Jan. 11, 1929, ch. 53, 45 Stat. 1072; June 19, 1934, ch. 650, 48 Stat. 1063).
+Based on title 18, U.S.C., 1940 ed., §340 (Mar. 4, 1909. ch. 321, §217, 35 Stat. 1131; May 25, 1920, ch. 196, 41 Stat. 620; Jan. 11, 1929, ch. 53, 45 Stat. 1072; June 19, 1934, ch. 650, 48 Stat. 1063).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -102,7 +102,7 @@ Pub. L. 107–273, div. B, title IV, §4002(b)(2), Nov. 2, 2002, 116 Stat. 1807,
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–570 effective 30 days after Oct. 27, 1986, see section 10004 of Pub. L. 99–570, set out as an Effective Date note under section 1245 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 99–570 effective 30 days after Oct. 27, 1986, see section 10004 of Pub. L. 99–570, set outas an Effective Date note under section 1245 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1971 Amendment
 

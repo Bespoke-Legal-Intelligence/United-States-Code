@@ -26,11 +26,11 @@ Effective 1 year after December 20, 1993, the Attorney General may reduce, by up
 
 #### References in Text
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Title I of the Act is classified principally to chapter 46 (§3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c), is Pub. L. 90–351, June 19,1968, 82 Stat. 197, as amended. Title I of the Act is classified principally to chapter 46 (§3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Codification
 
-Section is comprised of section 4 of Pub. L. 103–209. Subsec. (a) of section 4 of Pub. L. 103–209 amended section 3759(b) of this title.
+Section is comprised of section 4 of Pub. L. 103–209. Subsec. (a) of section 4 of Pub. L. 103–209 amended former section 3759(b) of this title.
 
 #### Amendments
 

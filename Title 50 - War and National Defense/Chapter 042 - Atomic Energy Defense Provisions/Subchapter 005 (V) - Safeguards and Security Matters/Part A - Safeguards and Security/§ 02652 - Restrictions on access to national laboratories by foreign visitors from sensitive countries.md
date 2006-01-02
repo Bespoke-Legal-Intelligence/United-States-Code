@@ -20,7 +20,7 @@ The Secretary of Energy may not admit to any facility of a national laboratory o
 
 &emsp;(B) That the foreign visitors program at that facility complies with Presidential Decision Directives and similar requirements relating to the safeguarding and security of sensitive information and fulfills any counterintelligence requirements arising under such Directives or requirements.
 
-&emsp;(C) That the foreign visitors program at that facility includes adequate protections againstthe inadvertent release of Restricted Data, information important to the national security of the United States, and any other sensitive information the disclosure of which might harm the interests of the United States.
+&emsp;(C) That the foreign visitors program at that facility includes adequate protections against the inadvertent release of Restricted Data, information important to the national security of the United States, and any other sensitive information the disclosure of which might harm the interests of the United States.
 
 &emsp;(D) That the foreign visitors program at that facility does not pose an undue risk to the national security interests of the United States.
 

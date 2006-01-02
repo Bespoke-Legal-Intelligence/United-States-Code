@@ -76,7 +76,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 &emsp;&emsp;&emsp;&emsp;(I) the date that is 18 months after the date of the lease or sale; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the date that direct farm ownership loan funds or credit sale authorityfor loans becomes available to the beginning farmer or rancher.
+&emsp;&emsp;&emsp;&emsp;(II) the date that direct farm ownership loan funds or credit sale authority for loans becomes available to the beginning farmer or rancher.
 
 #### (iii) Income-producing capability
 
@@ -138,7 +138,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) such Indian tribe itself.
 
-(v) If real property described in clause (i) is not purchased or leased under clause (iii) and the Indian tribe having jurisdiction over the reservation within which the real property is located is unable to purchase or lease the real property, the Secretary shall transfer the realproperty to the Secretary of the Interior who shall administer the real property as if the real property were held in trust by the United States for the benefit of such Indian tribe. From the rental income derived from the lease of the transferred real property, and all other income generated from the transferred real property, the Secretary of the Interior shall pay those State, county, municipal, or other local taxes to which the transferred real property was subject at the time of acquisition by the Secretary, until the earlier of—
+(v) If real property described in clause (i) is not purchased or leased under clause (iii) and the Indian tribe having jurisdiction over the reservation within which the real property is located is unable to purchase or lease the real property, the Secretary shall transfer the real property to the Secretary of the Interior who shall administer the real property as if the real property were held in trust by the United States for the benefit of such Indian tribe. From the rental income derived from the lease of the transferred real property, and all other income generated from the transferred real property, the Secretary of the Interior shall pay those State, county, municipal, or other local taxes to which the transferred real property was subject at the time of acquisition by the Secretary, until the earlier of—
 
 &emsp;(I) the expiration of the 4-year period beginning on the date on which the real property is so transferred, or
 
@@ -258,7 +258,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (5) Notwithstanding any other provisions of law, compliance by the Secretary with this subsection shall not cause any acreage allotment, marketing quota, or acreage base assigned to such property to lapse, terminate, be reduced, or otherwise be adversely affected.
 
-(6) In the event of any conflict between any provision of this subsection and any provision ofthe law of any State providing a right of first refusal to the owner of farmland or the operator of a farm before the sale or lease of land to any other person, such provision of State law shall prevail.
+(6) In the event of any conflict between any provision of this subsection and any provision of the law of any State providing a right of first refusal to the owner of farmland or the operator of a farm before the sale or lease of land to any other person, such provision of State law shall prevail.
 
 #### (f) Normal security income
 
@@ -320,7 +320,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30,1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -444,7 +444,7 @@ Subsec. (c)(2)(B)(iv). Pub. L. 101–624, §2388(g), substituted “cause” for
 
 Subsec. (e)(1)(A)(i). Pub. L. 101–624, §1813(c), substituted “real farm or ranch property (including the principal residence of the borrower)” for “real property”.
 
-Pub. L. 101–624, §1816(e)(1), inserted before period at end “, if such borrower-owner has acted in good faithwith the Secretary, as defined in regulations issued by the Secretary, in connection with such loan”.
+Pub. L. 101–624, §1816(e)(1), inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with such loan”.
 
 Subsec. (e)(1)(A)(iv). Pub. L. 101–624, §1813(d), added cl. (iv).
 
@@ -514,7 +514,7 @@ Section 1314(b) of Pub. L. 99–198 provided that: “The Secretary of Agricultu
 
 #### Completion of Sales of Farmers Home Administration Inventory Farms
 
-Pub. L. 102–142, title VII, §740, Oct. 28, 1991, 105 Stat. 915, provided that: “Hereafter, the Secretary shall complete the sales of Farmers Home Administration inventory farms, in accordance with the law and regulations in effect before November 28, 1990, in situations in which a County Committee, acting pursuant to section335 of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1985\], had made its initial selection of a buyer before November 28, 1990. Such sales shall be completed as soon as the selection decision is administratively final and all terms and conditions have been agreed to. In carrying out sales of inventory property, priority shall be given to the former owner and members of the immediate family.”
+Pub. L. 102–142, title VII, §740, Oct. 28, 1991, 105 Stat. 915, provided that: “Hereafter, the Secretary shall complete the sales of Farmers Home Administration inventory farms, in accordance with the law and regulations in effect before November 28, 1990, in situations in which a County Committee, acting pursuant to section 335 of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1985\], had made its initial selection of a buyer before November 28, 1990. Such sales shall be completed as soon as the selection decision is administratively final and all terms and conditions have been agreed to. In carrying out sales of inventory property, priority shall be given to the former owner and members of the immediate family.”
 
 #### Farm Ownership Outreach Program to Socially Disadvantaged Individuals
 

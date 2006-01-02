@@ -26,11 +26,11 @@ Each loan made pursuant to this section shall bear interest at a discount or int
 
 #### (e) Funding; deposit of amount repaid
 
-Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 of this title; and amounts repaid on such loans shall bedeposited in the Geothermal Resources Development Fund for purposes of this subchapter.
+Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 of this title; and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
 
 #### (f) Authorization of appropriations
 
-For loans under clause (A) of subsection (b)(1) of this section for fiscal year 1981, there is authorized to be appropriated to the Geothermal Resources Development Fund not to exceed $5,000,000, which shall remain available until expended. For loans under such clause (A) for subsequent fiscal years, and for loans under clause (B) of subsection (b)(1) of this section or under subsection (c) of this section (for any such subsequent fiscal year), there may be appropriated to such Fund only such sums as are authorized by legislation hereafter enacted.
+For loans under clause (A) of subsection (b)(1) of this section for fiscal year 1981, there is authorized to be appropriated to the Geothermal Resources Development Fund not to exceed$5,000,000, which shall remain available until expended. For loans under such clause (A) for subsequent fiscal years, and for loans under clause (B) of subsection (b)(1) of this section or under subsection (c) of this section (for any such subsequent fiscal year), there may be appropriated to such Fund only such sums as are authorized by legislation hereafter enacted.
 
 #### (g) “Person” defined
 

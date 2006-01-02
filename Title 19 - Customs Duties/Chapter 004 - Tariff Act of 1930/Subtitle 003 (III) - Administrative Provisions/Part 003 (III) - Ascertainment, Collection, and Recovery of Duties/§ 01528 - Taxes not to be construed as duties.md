@@ -2,7 +2,7 @@
 
 No tax or other charge imposed by or pursuant to any law of the United States shall be construed to be a customs duty for the purpose of any statute relating to the customs revenue, unless the law imposing such tax or charge designates it as a customs duty or contains a provision to the effect that it shall be treated as a duty imposed under the customs laws. Nothing in this section shall be construed to limit or restrict the jurisdiction of the United States Court of International Trade or the United States Court of Appeals for the Federal Circuit.
 
-(June 17, 1930, ch. 497, title IV, §528, as added June 25, 1938, ch. 679, §20, 52 Stat. 1087; amendedPub. L. 96–417, title VI, §601(8), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §163(a)(3), Apr. 2, 1982, 96 Stat. 49.)
+(June 17, 1930, ch. 497, title IV, §528, as added June 25, 1938, ch. 679, §20, 52 Stat. 1087; amended Pub. L. 96–417, title VI, §601(8), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §163(a)(3), Apr. 2, 1982, 96 Stat. 49.)
 
 #### References in Text
 

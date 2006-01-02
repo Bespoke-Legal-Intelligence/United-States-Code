@@ -52,7 +52,7 @@ The Landsat Program Management may, subject to appropriations and only under the
 
 &emsp;&emsp;(A) a broad range of perspectives on basic and applied science and operational needs with respect to land remote sensing data;
 
-&emsp;&emsp;(B) the full spectrum of users of Landsat data, including representatives from United States Government agencies, State and local government agencies, academic institutions, nonprofit organizations, value-added companies, the agricultural, mineral extraction,and other user industries, and the public, and
+&emsp;&emsp;(B) the full spectrum of users of Landsat data, including representatives from United States Government agencies, State and local government agencies, academic institutions, nonprofit organizations, value-added companies, the agricultural, mineral extraction, and other user industries, and the public, and
 
 &emsp;&emsp;(C) a broad diversity of age groups, sexes, and races.
 

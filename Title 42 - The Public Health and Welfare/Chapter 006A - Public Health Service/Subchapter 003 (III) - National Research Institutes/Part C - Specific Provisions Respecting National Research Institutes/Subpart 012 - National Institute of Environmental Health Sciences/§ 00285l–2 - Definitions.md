@@ -12,7 +12,7 @@ In sections 285<i>l</i>–2 to 285<i>l</i>–5 of this title:
 
 &emsp;&emsp;(ii) refines procedures to lessen or eliminate pain or distress to animals, or enhances animal well-being; or
 
-&emsp;&emsp;(iii) replaces animals with non-animal systems or one animal species with aphylogenetically lower animal species, such as replacing a mammal with an invertebrate.
+&emsp;&emsp;(iii) replaces animals with non-animal systems or one animal species with a phylogenetically lower animal species, such as replacing a mammal with an invertebrate.
 
 #### (2) ICCVAM test recommendation
 

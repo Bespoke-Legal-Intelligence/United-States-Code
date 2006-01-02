@@ -30,7 +30,7 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 &emsp;(B) discriminate in the extension of staff or other privileges to any physician or other health care personnel,
 
-> because he performed or assisted in the performance of any lawful health service or research activity, because he refused to perform or assist in the performance of any such service or activity on the grounds that his performance or assistance in the performance of such service or activity would be contrary to his religious beliefs or moral convictions, or because of his religious beliefs or moral convictions respecting any such service or activity.
+> because he performed or assisted in the performance of any lawful health service or research activity, because he refused to perform or assist in the performance of any such service or activity on the grounds that his performance or assistance in the performance of such service or activity would be contrary to his religious beliefs ormoral convictions, or because of his religious beliefs or moral convictions respecting any such service or activity.
 
 #### (d) Individual rights respecting certain requirements contrary to religious beliefs or moral convictions
 

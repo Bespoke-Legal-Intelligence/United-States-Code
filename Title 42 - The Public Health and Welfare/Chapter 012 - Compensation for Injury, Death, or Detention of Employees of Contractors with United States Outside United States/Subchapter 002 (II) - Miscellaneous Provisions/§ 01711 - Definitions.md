@@ -40,7 +40,7 @@ Subsec. (b)(1). Pub. L. 85–608, §104, substituted “a hostile force or perso
 
 Subsec. (b)(2). Pub. L. 85–608, §104, substituted “a hostile force or person” for “the enemy”.
 
-Subsec. (b)(3). Pub. L. 85–608, §103(b), substituted “a war or armed conflict with a hostile force or person as defined herein” for “the national war effort”, and excepted employees of transporters of munitions duringthe transportation thereof or while the munitions are stored on the premises of the transporter.
+Subsec. (b)(3). Pub. L. 85–608, §103(b), substituted “a war or armed conflict with a hostile force or person as defined herein” for “the national war effort”, and excepted employees of transporters of munitions during the transportation thereof or while the munitions are stored on the premises of the transporter.
 
 Subsec. (c). Pub. L. 85–608, §103(c), substituted provisions defining “hostile force or person” for provisions which defined “enemy” to mean any nation, government, or force engaged in armed conflict with the Armed Forces of the United States or of any of its allies.
 

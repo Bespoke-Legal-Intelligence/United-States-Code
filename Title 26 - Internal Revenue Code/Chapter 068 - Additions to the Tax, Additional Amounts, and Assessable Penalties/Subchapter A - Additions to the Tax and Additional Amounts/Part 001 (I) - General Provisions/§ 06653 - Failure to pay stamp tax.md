@@ -134,7 +134,3 @@ Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pu
 
 Regulations issued before May 24, 1985, to carry out subsec. (h) of this section as added by section 179(b)(3) of Pub. L. 98–369 to have no force and effect, see section 1(c) of Pub. L. 99–44, set out as a note under section 274 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5684, 5761, 6601, 6672 of this title.
-

@@ -20,7 +20,7 @@ The Secretary shall deliver, to each State participating in the school lunch pro
 
 (1)(A) The national average value of donated foods, or cash payments in lieu thereof, shall be 11 cents, adjusted on July 1, 1982, and each July 1 thereafter to reflect changes in the Price Index for Food Used in Schools and Institutions. The Index shall be computed using 5 major food components in the Bureau of Labor Statistics’ Producer Price Index (cereal and bakery products, meats, poultry and fish, dairy products, processed fruits and vegetables, and fats and oils). Each component shall be weighed using the same relative weight as determined by the Bureau of Labor Statistics.
 
-(B) The value of food assistance for each meal shall be adjusted each July 1 by the annual percentage change in a 3-month average value of the Price Index for Foods Used in Schools and Institutions for March, April, and May each year. Such adjustment shall be computed to the nearest 1/4 cent.
+(B) The value of food assistance for each meal shall be adjusted each July 1 by the annual percentage change in a 3-month average value of the Price Index for Foods Used in Schools andInstitutions for March, April, and May each year. Such adjustment shall be computed to the nearest 1/4 cent.
 
 (C) For each school year, the total commodity assistance or cash in lieu thereof available to a State for the school lunch program shall be calculated by multiplying the number of lunches served in the preceding school year by the rate established by subparagraph (B). After the end of each school year, the Secretary shall reconcile the number of lunches served by schools in each State with the number of lunches served by schools in each State during the preceding school year and increase or reduce subsequent commodity assistance or cash in lieu thereof provided to each State based on such reconciliation.
 
@@ -70,7 +70,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 “(d) Any funds made available under subsection (b) or (c) of this section shall not be subject to the State matching provisions of section 1756 of this title.”
 
-1994—Subsec. (a). Pub. L. 103–448, §101, substituted in second sentence “Except as provided in the next 2 sentences, any school” for “Any school” and inserted after second sentence “Any school food authority may refuse some or all of the fresh fruits and vegetables offered to the school food authority in any school year and shall receive, in lieu of the offered fruits and vegetables, other more desirable fresh fruits and vegetables that are at least equal in value to the fresh fruits and vegetables refused by the school food authority. The value of any fresh fruits and vegetables refused by a school under the preceding sentence for a school year shall not be used to determine the 20 percent of the total value of agricultural commodities and other foods tendered to the school food authority in the school year under the second sentence.”
+1994—Subsec. (a). Pub. L. 103–448, §101, substituted in second sentence “Except as provided in the next 2 sentences, any school” for “Any school” and inserted after second sentence “Any school food authority may refuse some or all of the fresh fruits and vegetables offered tothe school food authority in any school year and shall receive, in lieu of the offered fruits and vegetables, other more desirable fresh fruits and vegetables that are at least equal in value to the fresh fruits and vegetables refused by the school food authority. The value of any fresh fruits and vegetables refused by a school under the preceding sentence for a school year shall not be used to determine the 20 percent of the total value of agricultural commodities and other foods tendered to the school food authority in the school year under the second sentence.”
 
 Subsec. (b). Pub. L. 103–448, §102, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to cash donations in lieu of commodity donations during school year for school food service programs and withholding of funds for States administered by Secretary for disbursement to participating schools to be used to purchase commodities and other food for their food service programs.
 
@@ -160,7 +160,7 @@ Section 19 of Pub. L. 95–166 provided that the amendment made by that section 
 
 #### Reduction in Commodity Assistance for Fiscal Year Ending September 30, 1981
 
-Section 202(a) of Pub. L. 96–499 provided that for the fiscal year ending Sept. 30, 1981, the national average value of donated foods or cash payments in lieu thereof, as determined under subsec. (e) of this section, shall be reduced by 2 cents, prior to repeal by Pub. L. 97–35, titleVIII, §820(b)(2), Aug. 13, 1981, 95 Stat. 535, effective July 1, 1981.
+Section 202(a) of Pub. L. 96–499 provided that for the fiscal year ending Sept. 30, 1981, the national average value of donated foods or cash payments in lieu thereof, as determined under subsec. (e) of this section, shall be reduced by 2 cents, prior to repeal by Pub. L. 97–35, title VIII, §820(b)(2), Aug. 13, 1981, 95 Stat. 535, effective July 1, 1981.
 
 #### Congressional Findings and Declaration of Purpose
 

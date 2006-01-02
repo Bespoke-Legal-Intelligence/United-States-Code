@@ -44,9 +44,11 @@ GS–15 of the General Schedule, referred to in subsec. (b)(2)(F), is set out un
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date
 
-Pub. L. 105–107, title III, §303(d), Nov. 20, 1997, 111 Stat. 2252, provided that: “The amendment made bysubsection (a) \[enacting this section\] shall apply to an employee on detail on or after January 1, 1997.”
+Pub. L. 105–107, title III, §303(d), Nov. 20, 1997, 111 Stat. 2252, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to an employee on detail on or after January 1, 1997.”
 

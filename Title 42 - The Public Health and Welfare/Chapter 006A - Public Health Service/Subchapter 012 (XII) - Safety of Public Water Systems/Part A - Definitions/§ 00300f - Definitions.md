@@ -18,7 +18,7 @@ For purposes of this subchapter:
 
 > &emsp;At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.
 
-&emsp;(2) The term “secondary drinking water regulation” which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply toany contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary accordingly to geographic and other circumstances.
+&emsp;(2) The term “secondary drinking water regulation” which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply to any contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary accordingly to geographic and other circumstances.
 
 &emsp;(3) The term “maximum contaminant level” means the maximum permissible level of a contaminant in water which is delivered to any user of a public water system.
 
@@ -86,7 +86,7 @@ Community water system.—The term “community water system” means a public w
 
 Noncommunity water system.—The term “noncommunity water system” means a public water system that is not a community water system.
 
-(July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660;amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616.)
+(July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660; amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ Section 3 of Pub. L. 104–182 provided that: “The Congress finds that—
 
 &emsp;“(9) compliance with the requirements of the Safe Drinking Water Act continues to be a concern at public water systems experiencing technical and financial limitations, and Federal, State, and local governments need more resources and more effective authority to attain the objectives of the Safe Drinking Water Act; and
 
-&emsp;“(10) consumers served by public water systems should be provided with information on the source of the water they are drinking and its quality and safety, as well as prompt notification of any violation of drinking water regulations.”
+&emsp;“(10) consumers served by public water systems should be provided with information on the source ofthe water they are drinking and its quality and safety, as well as prompt notification of any violation of drinking water regulations.”
 
 #### GAO Study
 

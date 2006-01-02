@@ -1,6 +1,6 @@
 ### §8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
 
-(a)(1) During and immediately following a period of war, or a period of national emergencydeclared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
+(a)(1) During and immediately following a period of war, or a period of national emergency declared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
 
 (2)(A) During and immediately following a disaster or emergency referred to in subparagraph (B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
 
@@ -50,7 +50,7 @@ The Robert B. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical services’ includes services under sections 1782 and 1783 of this title” before period at end.
 
-2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical servicesunder this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
+2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
 
 1996—Subsec. (b)(2)(A). Pub. L. 104–262 substituted “subsection (a) of section 1710” for “subsection (f) of section 1712”.
 
@@ -98,5 +98,5 @@ Section 2(b) of Pub. L. 97–174 provided that: “The Congress makes the follow
 
 #### Executive Order No. 12751
 
-Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care services for Operation Desert Storm, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, set out as a note under section 1701 of Title 50, War and National Defense.
+Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care services for Operation DesertStorm, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, set out as a note under section 1701 of Title 50, War and National Defense.
 

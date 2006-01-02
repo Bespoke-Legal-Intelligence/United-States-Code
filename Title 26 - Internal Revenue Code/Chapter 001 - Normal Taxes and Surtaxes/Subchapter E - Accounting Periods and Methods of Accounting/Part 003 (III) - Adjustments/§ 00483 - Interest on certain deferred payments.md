@@ -8,7 +8,7 @@ For purposes of this title, in the case of any payment—
 
 &emsp;(2) to which this section applies,
 
-> there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest under section 1272(a), is properly allocable to such payment.
+> there shall be treated as interest that portion of the total unstated interest under such contract which, as determined in a manner consistent with the method of computing interest undersection 1272(a), is properly allocable to such payment.
 
 #### (b) Total unstated interest
 
@@ -64,7 +64,7 @@ For purposes of this section, the term “total unstated interest” means, with
 
 #### (2) Qualified sale
 
-&emsp;For purposes of this subsection, the term “qualified sale” means any sale or exchange ofland by an individual to a member of such individual's family (within the meaning of section 267(c)(4)).
+&emsp;For purposes of this subsection, the term “qualified sale” means any sale or exchange of land by an individual to a member of such individual's family (within the meaning of section 267(c)(4)).
 
 #### (3) $500,000 limitation
 
@@ -94,7 +94,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-1986—Subsec. (d)(3). Pub. L. 99–514 substituted “for which an issue price is determined under section 1273(b) (other than paragraph (4) thereof) or section 1274” for “to which section 1272 applies”.
+1986—Subsec. (d)(3). Pub. L. 99–514 substituted “for which an issue price is determined under section 1273(b)\(other than paragraph (4) thereof) or section 1274” for “to which section 1272 applies”.
 
 1985—Subsec. (b). Pub. L. 99–121, §101(a)(2)(A), struck out “120 percent of” after “discount rate equal to” in closing provisions.
 
@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 98–369 amended subsec. (e) generally, substituting provis
 
 Subsec. (f). Pub. L. 98–369 amended subsec. (f) generally, substituting provisions relating to maximum rate of interest on certain transfers of land between related parties for provisions which related to exceptions and limitations now covered in subsec. (d) of this section.
 
-Subsec. (g). Pub. L. 98–369 amended subsec. (g) generally, substituting provisions which related to calling for the promulgation of regulations by the Secretaryfor provisions which related to the maximum rate of interest on certain transfers of land between related parties now covered in subsec. (f) of this section.
+Subsec. (g). Pub. L. 98–369 amended subsec. (g) generally, substituting provisions which related to calling for the promulgation of regulations by the Secretary for provisions which related to the maximum rate of interest on certain transfers of land between related parties now covered in subsec. (f) of this section.
 
 Subsec. (h). Pub. L. 98–369 added subsec. (h).
 
@@ -162,7 +162,7 @@ Amendment by section 1901(b)(3)(B) of Pub. L. 94–455 effective for taxable yea
 
 #### Effective Date
 
-Section applicable to payments made after Dec. 31, 1963, on account of sales or exchanges of property after June 30, 1963, other than a sale or exchange pursuant to written contract, including an irrevocable written option, entered into before July 1, 1963, see section 224(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 163 of this title.
+Section applicable to payments made after Dec. 31, 1963, on account of sales or exchanges of property afterJune 30, 1963, other than a sale or exchange pursuant to written contract, including an irrevocable written option, entered into before July 1, 1963, see section 224(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 163 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -175,8 +175,4 @@ Section 1803(a)(9) of Pub. L. 99–514 provided that: “In the case of any sale
 #### Transitional Rule for Purposes of Imputed Interest Rules
 
 Provisions, respecting treatment of debt instruments received in exchange for property, relating to special rules for sales after Dec. 31, 1984, and before July 1, 1985, general rule for assumptions of loans, exception for assumptions of loans made on or before Oct. 15, 1984, and exception for assumptions of loans with respect to certain property, see section 44(b)(4)–(7) of Pub. L. 98–369, as amended, set out as an Effective Date note under section 1271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1274, 1274A, 1275, 1288, 4942, 7872 of this title.
 

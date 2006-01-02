@@ -1,6 +1,6 @@
 ### §7421. Jurisdiction and control
 
-(a) The Secretary shall take possession of all properties inside the naval petroleum reserves that are or may become subject to the control of and use by the United States for national defense purposes, except as otherwise provided in this chapter.
+(a) The Secretary shall take possession of all properties inside the naval petroleum reservesthat are or may become subject to the control of and use by the United States for national defense purposes, except as otherwise provided in this chapter.
 
 (b) The Secretary has exclusive jurisdiction and control over those lands inside Naval Petroleum Reserves Numbered 1 and 2 that are covered by leases granted under sections 181–184, 185–188, 189–194, 201, 202–209, 211–214, 223, 224–226, 226d, 226e, 227–229a, 241, 251, and 261–263 of title 30, and shall administer those leases.
 
@@ -51,8 +51,4 @@ Section 227 of title 30, referred to in subsec. (b), was omitted from the Code.
 1976—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”, “and oil shale” after “naval petroleum”, and substituted “for national defense purposes” for “for naval purposes”, and “this chapter” for “section 7438 hereof”.
 
 1962—Subsec. (a). Pub. L. 87–796 empowered the Secretary to take possession of all properties inside the oil shale reserves, and inserted the exception clause.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 43 section 1601.
 

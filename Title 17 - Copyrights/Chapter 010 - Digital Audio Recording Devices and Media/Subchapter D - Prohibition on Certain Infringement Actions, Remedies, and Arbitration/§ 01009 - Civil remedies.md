@@ -52,7 +52,7 @@ Transmission.—A complaining party may recover an award of damages for each tra
 
 &emsp;(2)
 
-Repeated violations.—In any case in which the court finds that a person has violated section 1002 or 1003 within 3 years after a final judgment against that person for another such violation was entered, the court may increase the award of damages to not more than double the amounts that would otherwise be awarded under paragraph (1), as the court considers just.
+Repeated violations.—In any case in which the court finds that a person has violated section 1002 or 1003 within 3 years after a final judgment against that person for another such violation was entered, the court may increase the award of damages to not more than double the amounts that wouldotherwise be awarded under paragraph (1), as the court considers just.
 
 &emsp;(3)
 

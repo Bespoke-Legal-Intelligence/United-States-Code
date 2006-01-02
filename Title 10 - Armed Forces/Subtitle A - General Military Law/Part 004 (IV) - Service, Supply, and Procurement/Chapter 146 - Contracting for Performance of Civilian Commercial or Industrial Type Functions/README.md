@@ -3,10 +3,10 @@
 | Sec. |  |
 | :--- | ---: |
 | [2460\.](%C2%A7%2002460%20-%20Definition%20of%20depot-level%20maintenance%20and%20repair.md) | Definition of depot-level maintenance and repair. |
-| [2461\.](%C2%A7%2002461%20-%20Commercial%20or%20industrial%20type%20functions%20required%20studies%20and%20reports%20before%20conversion%20to%20contractor%20performance.md) | Commercial or industrial type functions: required studies and reports before conversion to contractor performance. |
-| [2461a.](%C2%A7%2002461a%20-%20Development%20of%20system%20for%20monitoring%20cost%20savings%20resulting%20from%20workforce%20reductions.md) | Development of system for monitoring cost savings resulting from workforce reductions. |
-| [2462\.](%C2%A7%2002462%20-%20Contracting%20for%20certain%20supplies%20and%20services%20required%20when%20cost%20is%20lower.md) | Contracting for certain supplies and services required when cost is lower. |
-| [2463\.](%C2%A7%2002463%20-%20Collection%20and%20retention%20of%20cost%20information%20data%20on%20converted%20services%20and%20functions.md) | Collection and retention of cost information data on converted services and functions. |
+| [2461\.](%C2%A7%2002461%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md) | Public-private competition required before conversion to contractor performance. |
+| [2461a.](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md) | Development and implementation of system for monitoring cost saving resulting from public-private competitions. |
+| [2462\.](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md) | Reports on public-private competition. |
+| \[2463. | Repealed.\] |
 | [2464\.](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md) | Core logistics capabilities. |
 | [2465\.](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md) | Prohibition on contracts for performance of firefighting or security-guard functions. |
 | [2466\.](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md) | Limitations on the performance of depot-level maintenance of materiel. |
@@ -16,7 +16,7 @@
 | \[2469a. | Repealed.\] |
 | [2470\.](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md) | Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies. |
 | \[2471. | Repealed.\] |
-| [2472\.](%C2%A7%2002472%20-%20Management%20of%20depot%20employees.md) | Management of depot employees. |
+| [2472\.](%C2%A7%2002472%20-%20Prohibition%20on%20management%20of%20depot%20employees%20by%20end%20strength.md) | Prohibition on management of depot employees by end strength. |
 | [2473\.](%C2%A7%2002473%20-%20Procurements%20from%20the%20small%20arms%20production%20industrial%20base.md) | Procurements from the small arms production industrial base. |
 | [2474\.](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md) | Centers of Industrial and Technical Excellence: designation; public-private partnerships. |
 | [2475\.](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md) | Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements. |
@@ -24,6 +24,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title III, §341(g)(4), Jan. 6, 2006, 119 Stat. 3200, substituted “Public-private competition required” for “Commercial or industrial type functions: required studies and reports” in item 2461, “Development and implementation of system for monitoring cost saving resulting from public-private competitions” for “Development of system for monitoring cost savings resulting from workforce reductions” in item 2461a, and “Reports on public-private competition” for “Contracting for certain supplies and services required when cost is lower” in item 2462 and struck out item 2463 “Collection and retention of cost information data on converted services and functions”.
+
+2004—Pub. L. 108–375, div. A, title III, §322(b)(2), Oct. 28, 2004, 118 Stat. 1846, substituted “Prohibition on management of depot employees by end strength” for “Management of depot employees” in item 2472.
 
 2002—Pub. L. 107–314, div. A, title III, §333(b), Dec. 2, 2002, 116 Stat. 2514, struck out item 2469a “Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at certain military installations”.
 
@@ -57,10 +61,10 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02460 - Definition of depot-level maintenance and repair](%C2%A7%2002460%20-%20Definition%20of%20depot-level%20maintenance%20and%20repair.md)
-- [&sect; 02461 - Commercial or industrial type functions required studies and reports before conversion to contractor performance](%C2%A7%2002461%20-%20Commercial%20or%20industrial%20type%20functions%20required%20studies%20and%20reports%20before%20conversion%20to%20contractor%20performance.md)
-- [&sect; 02461a - Development of system for monitoring cost savings resulting from workforce reductions](%C2%A7%2002461a%20-%20Development%20of%20system%20for%20monitoring%20cost%20savings%20resulting%20from%20workforce%20reductions.md)
-- [&sect; 02462 - Contracting for certain supplies and services required when cost is lower](%C2%A7%2002462%20-%20Contracting%20for%20certain%20supplies%20and%20services%20required%20when%20cost%20is%20lower.md)
-- [&sect; 02463 - Collection and retention of cost information data on converted services and functions](%C2%A7%2002463%20-%20Collection%20and%20retention%20of%20cost%20information%20data%20on%20converted%20services%20and%20functions.md)
+- [&sect; 02461 - Public-private competition required before conversion to contractor performance](%C2%A7%2002461%20-%20Public-private%20competition%20required%20before%20conversion%20to%20contractor%20performance.md)
+- [&sect; 02461a - Development and implementation of system for monitoring cost saving resulting from public-private competitions](%C2%A7%2002461a%20-%20Development%20and%20implementation%20of%20system%20for%20monitoring%20cost%20saving%20resulting%20from%20public-private%20competitions.md)
+- [&sect; 02462 - Reports on public-private competition](%C2%A7%2002462%20-%20Reports%20on%20public-private%20competition.md)
+- [&sect; 02463 - Repealed. Pub. L. 109&#8211;163, div. A, title III, &sect;341(f), Jan. 6, 2006, 119 Stat. 3199](%C2%A7%2002463%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7341%28f%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203199.md)
 - [&sect; 02464 - Core logistics capabilities](%C2%A7%2002464%20-%20Core%20logistics%20capabilities.md)
 - [&sect; 02465 - Prohibition on contracts for performance of firefighting or security-guard functions](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md)
 - [&sect; 02466 - Limitations on the performance of depot-level maintenance of materiel](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md)
@@ -70,7 +74,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02469a - Repealed. Pub. L. 107&#8211;314, div. A, title III, &sect;333(a), Dec. 2, 2002, 116 Stat. 2514](%C2%A7%2002469a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7333%28a%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202514.md)
 - [&sect; 02470 - Depot-level activities of the Department of Defense authority to compete for maintenance and repair workloads of other Federal agencies](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md)
 - [&sect; 02471 - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title III, &sect;341(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;64](%C2%A7%2002471%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20III%2C%20%C2%A7341%28g%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%9364.md)
-- [&sect; 02472 - Management of depot employees](%C2%A7%2002472%20-%20Management%20of%20depot%20employees.md)
+- [&sect; 02472 - Prohibition on management of depot employees by end strength](%C2%A7%2002472%20-%20Prohibition%20on%20management%20of%20depot%20employees%20by%20end%20strength.md)
 - [&sect; 02473 - Procurements from the small arms production industrial base](%C2%A7%2002473%20-%20Procurements%20from%20the%20small%20arms%20production%20industrial%20base.md)
 - [&sect; 02474 - Centers of Industrial and Technical Excellence designation; public-private partnerships](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md)
 - [&sect; 02475 - Consolidation, restructuring, or reengineering of organizations, functions, or activities notification requirements](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md)

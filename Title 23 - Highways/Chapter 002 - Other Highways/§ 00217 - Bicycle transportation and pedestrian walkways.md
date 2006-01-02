@@ -10,7 +10,7 @@ Use of National Highway System Funds.—Subject to project approval by the Secre
 
 (c)
 
-Use of Federal Lands Highway Funds.—Funds authorized for forest highways, forest development roads and trails, public lands development roads and trails, park roads, parkways, Indian reservation roads, and public lands highways shall be available, at the discretion of the department charged with the administration of such funds, for the construction of pedestrian walkways and bicycle transportation facilities in conjunction with such trails, roads, highways, and parkways.
+Use of Federal Lands Highway Funds.—Funds authorized for forest highways, forest development roads and trails, public lands development roads and trails, park roads, parkways, Indian reservation roads, and public lands highways shall be available, at the discretion of the department charged with the administration of such funds, for the construction of pedestrian walkways and bicycle transportation facilities.
 
 (d)
 
@@ -74,9 +74,11 @@ Pedestrian.—The term “pedestrian” means any person traveling by foot and a
 
 Wheelchair.—The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168.)
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515.)
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–59 struck out “in conjunction with such trails, roads, highways, and parkways” before period at end.
 
 1998—Subsec. (b). Pub. L. 105–178, §1202(a)(1), inserted “pedestrian walkways and” after “construction of” and struck out “(other than the Interstate System)” after “on the National Highway System”.
 
@@ -100,7 +102,7 @@ Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out h
 
 1983—Subsec. (a). Pub. L. 97–424 designated as subsec. (a) that portion of former subsec. (a) relating to pedestrian walkways. Remainder of former subsec. (a) relating to bicycles was redesignated (b)(1).
 
-Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicyclesand added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
+Subsec. (b). Pub. L. 97–424 redesignated as par. (1) that portion of former subsec. (a) relating to bicycles and added pars. (2) and (3). Provisions of former subsec. (b) relating to pedestrian walkways and bicycles projects were redesignated (c) and (d), respectively.
 
 Subsec. (c). Pub. L. 97–424 redesignated as subsec. (c) that portion of former subsec. (b) relating to pedestrian walkways. Provisions of former subsec. (c) relating to pedestrian walkways and to bicycle routes were redesignated (e) and (f), respectively.
 
@@ -121,6 +123,54 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substitute
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Nonmotorized Transportation Pilot Program
+
+Pub. L. 109–59, title I, §1807, Aug. 10, 2005, 119 Stat. 1460, provided that:
+
+“(a)
+
+Establishment.—The Secretary \[of Transportation\] shall establish and carry out a nonmotorized transportation pilot program to construct, in the following 4 communities selected by the Secretary, a network of nonmotorized transportation infrastructure facilities, including sidewalks, bicycle lanes, and pedestrian and bicycle trails, that connect directly with transit stations, schools, residences, businesses, recreation areas, and other community activity centers:
+
+&emsp;“(1) Columbia, Missouri.
+
+&emsp;“(2) Marin County, California.
+
+&emsp;“(3) Minneapolis-St. Paul, Minnesota.
+
+&emsp;“(4) Sheboygan County, Wisconsin.
+
+“(b)
+
+Purpose.—The purpose of the program shall be to demonstrate the extent to which bicycling and walking can carry a significant part of the transportation load, and represent a major portion of the transportation solution, within selected communities.
+
+“(c)
+
+Grants.—In carrying out the program, the Secretary \[of Transportation\] may make a grant of $6,250,000 per fiscal year for each of the communities set forth in subsection (a) to State, local, and regional agencies that the Secretary determines are suitably equipped and organized to carry out the objectives and requirements of this section. An agency that receives agrant under this section may suballocate grant funds to a nonprofit organization to carry out the program under this section.
+
+“(d)
+
+Statistical Information.—In carrying out the program, the Secretary \[of Transportation\] shall develop statistical information on changes in motor vehicle, nonmotorized transportation, and public transportation usage in communities participating in the program and assess how such changes decrease congestion and energy usage, increase the frequency of bicycling and walking, and promote better health and a cleaner environment.
+
+“(e)
+
+Reports.—The Secretary \[of Transportation\] shall submit to Congress an interim report not later than September 30, 2007, and a final report not later than September 30, 2010, on the results of the program.
+
+“(f)
+
+Funding.—
+
+&emsp;“(1)
+
+Authorization of appropriations.—There is authorized to be appropriated to carry out this section, out of the Highway Trust Fund (other than the Mass Transit Account), $25,000,000 for each of fiscal years 2006 through 2009.
+
+&emsp;“(2)
+
+Contract authority.—Funds authorized to be appropriated by this section shall be available for obligation in the same manner and to the same extent as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of the project shall be 100 percent, and the funds shall remain available until expended and shall not be transferable.
+
+“(g)
+
+Treatment of Projects.—Notwithstanding any other provision of law, projects assisted under this subsection shall be treated as projects on a Federal-aid system under chapter 1 of title 23, United States Code.”
 
 #### Design Guidance
 

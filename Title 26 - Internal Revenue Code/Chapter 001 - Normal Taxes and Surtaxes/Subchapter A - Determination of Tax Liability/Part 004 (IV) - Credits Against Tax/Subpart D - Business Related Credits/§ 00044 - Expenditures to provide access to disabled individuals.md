@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (3) Partnerships and S corporations
 
-&emsp;In the case of a partnership, the limitation under subsection (a) shall apply with respectto the partnership and each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
+&emsp;In the case of a partnership, the limitation under subsection (a) shall apply with respect to the partnership and each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
 
 #### (4) Short years
 
@@ -115,8 +115,4 @@ Another prior section 44 was renumbered section 36 of this title.
 #### Effective Date
 
 Section applicable to expenditures paid or incurred after Nov. 5, 1990, see section 11611(e)(1) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 38 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 39 of this title.
 

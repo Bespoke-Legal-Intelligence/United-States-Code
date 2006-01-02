@@ -1,6 +1,6 @@
 ### §410gg–5. Authorization of appropriations; entrance or admission fees prohibition
 
-In addition to the sums previously authorized to be appropriated for Biscayne National Monument, there are authorized to be appropriated such sums as may be necessary for the administration of the park, and not to exceed $8,500,000 for the acquisition of lands and interests therein, as provided in this subchapter. Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to the park.
+In addition to the sums previously authorized to be appropriated for Biscayne National Monument, there are authorized to be appropriated such sums as may be necessary for the administration of the park, and not to exceed $8,500,000 for the acquisition of lands and interests therein, as provided in this subchapter. Notwithstanding any other provision of law, no feesshall be charged for entrance or admission to the park.
 
 (Pub. L. 96–287, title I, §106, June 28, 1980, 94 Stat. 600.)
 

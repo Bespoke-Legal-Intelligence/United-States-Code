@@ -18,7 +18,7 @@
 
 &emsp;(2) the order is issued through the Secretary of the military department concerned.
 
-(d) The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Director of Defense Research and Engineering.The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
+(d) The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Director of Defense Research and Engineering. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 (Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, §1 \[\[div. A\], title IX, §901\], Oct. 30, 2000, 114 Stat. 1654, 1654A–223; Pub. L. 107–107, div. A, title IX, §901(c)(1), Dec. 28, 2001, 115 Stat. 1194; Pub. L. 107–314, div. A, title IX, §902(a), (c), (d), Dec. 2, 2002, 116 Stat. 2620, 2621.)
 
@@ -90,7 +90,7 @@ July 26, 1947, ch. 343, §401; added Aug. 10, 1949, ch. 412, §11 (1st 2 pars.),
 
 In subsection (b)(1), 5 U.S.C. 172(b) (last 13 words of 1st sentence) is omitted as surplusage, since they are only a general description of the powers of the Secretary of Defense under this title. 5 U.S.C. 171c–2 (less 1st sentence) is omitted as covered by 5 U.S.C. 171c(c) (1st 18 words of 2d sentence).
 
-In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences), 5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
+In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences), 5031(a) (last two sentences), 8010, and 8012(b) last twosentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
 
 #### Codification
 
@@ -232,10 +232,6 @@ Section 7 of Pub. L. 90–168 provided that: “The provisions of this Act \[see
 
 Section 1 of Pub. L. 90–168 provided: “That this Act \[amending this section, sections 175, 262, 264, 268, 269, 270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title\] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
 
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
 #### Charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict
 
 Section 1211(a)(2)–(5) of Pub. L. 100–180 provided that:
@@ -266,13 +262,9 @@ Section 1211(a)(2)–(5) of Pub. L. 100–180 provided that:
 
 “(B) Throughout the period of time during which the Secretary of the Army is carrying out the duties and responsibilities of that office, he shall submit to the Committees on Armed Services of the Senate and House of Representatives a monthly report on the administrative actions that he has taken and the policy guidance that he has issued to carry out such duties and responsibilities. Each such report shall also describe the actions that he intends to take and the guidance that he intends to issue to fulfill the provisions of section 136(b)(4) \[now 138(b)(4)\] of title 10, United States Code (as amended by paragraph (1)), along with a timetable for completion of such actions and issuance of such guidance. The first such report shall be submitted not later than 30 days after the date of the enactment of this Act \[Dec. 4, 1987\].
 
-“(5) Until the first individual appointed to the position of Assistant Secretary of Defense for Special Operations and Low Intensity Conflict by the President, by and with the advice and consent of the Senate, leaves that office, that Assistant Secretary (and the Secretary of the Army when carrying out the duties and responsibilities of the Assistant Secretary) shall, with respect to the duties and responsibilities of that office, report directly, without intervening review or approval, to the Secretary of Defense personally or, as designated by the Secretary, to the Deputy Secretary of Defense personally.”
+“(5) Until the first individual appointed to the position of Assistant Secretary of Defense for Special Operations and Low Intensity Conflict by the President, by and with the advice and consent of the Senate, leaves that office, that Assistant Secretary (and the Secretary of the Army when carrying out the duties and responsibilities of the Assistant Secretary) shall, with respect to the duties and responsibilities of that office, report directly, without intervening review or approval, to theSecretary of Defense personally or, as designated by the Secretary, to the Deputy Secretary of Defense personally.”
 
 #### Temporary Increase in Number of Assistant Secretaries of Defense
 
 Section 1311 of Pub. L. 100–180 provided that until Jan. 20, 1989, the number of Assistant Secretaries of Defense authorized under subsec. (a) of this section and the number of positions at level IV of the Executive Schedule are each increased by one (to a total of 12).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10201 of this title.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Contracts.—A person under contract with a department, agency, or instrumentality of the United States Government that transports or causes to be transported hazardous material, or manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells as qualified for use in transporting hazardous material must comply with this chapter, regulations prescribed and orders issued under this chapter, and all other requirements of the Government, State and local governments, and Indian tribes (except a requirement preempted by a law of the United States) in the same way and to the same extent that any person engaging in that transportation, manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing that is in or affects commerce must comply with the provision, regulation, order, or requirement.
+Contracts.—A person under contract with a department, agency, or instrumentality of the United States Government that transports hazardous material, or causes hazardous materialto be transported, or designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented as qualified for use in transporting hazardous material shall comply with this chapter, regulations prescribed and orders issued under this chapter, and all other requirements of the Government, State and local governments, and Indian tribes (except a requirement preempted by a law of the United States) in the same way and to the same extent that any person engaging in that transportation, designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing that is in or affects commerce must comply with the provision, regulation, order, or requirement.
 
 (b)
 
@@ -12,7 +12,7 @@ Nonapplication.—This chapter does not apply to—
 
 &emsp;(2) any matter that is subject to the postal laws and regulations of the United States under this chapter or title 18 or 39.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 783; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 783; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 109–59, title VII, §7124, Aug. 10, 2005, 119 Stat. 1908.)
 
 Historical and Revision Notes
 
@@ -39,6 +39,8 @@ Jan. 3, 1975, Pub. L. 93–633, §112(f), 88 Stat. 2161; Nov. 30, 1979, Pub. L. 
 In subsection (a), the word “manufactures” is substituted for “manufacturers” to correct an error in the source provisions. The words “of the executive, legislative, or judicial branch”, “be subject to and”, “substantive and procedural”, and “this chapter or any other” are omitted as surplus.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59 substituted “transports hazardous material, or causes hazardous material to be transported,” for “transports or causes to be transported hazardous material,”, “designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented” for “manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells”, “shall comply with this chapter” for “must comply with this chapter”, and “designing, manufacturing, fabricating, inspecting, marking, maintaining, reconditioning, repairing, or testing” for “manufacturing, fabricating, marking, maintenance, reconditioning, repairing, or testing”.
 
 1994—Subsec. (a). Pub. L. 103–311 substituted “a packaging or a” for “a package or”.
 

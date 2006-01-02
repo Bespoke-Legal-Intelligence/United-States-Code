@@ -24,7 +24,3 @@ Section 5 of Public Law 96–402, referred to in subsec. (b)(2), is set out as a
 
 1989—Subsec. (b). Pub. L. 101–189 inserted “the term” after “In this chapter,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1408 of this title; title 37 section 203.
-

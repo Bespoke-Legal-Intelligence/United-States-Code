@@ -46,7 +46,7 @@
 
 (2) The provisions of subparagraphs (B) and (C) of section 1927(b)(3) of the Social Security Act shall apply to drugs described in paragraph (1) and the Secretary in the same manner as such provisions apply to covered outpatient drugs and the Secretary of Health and Human Services under such subparagraphs, except that references in such subparagraphs to prices or information reported or required under “subparagraph (A)” shall be deemed to refer to information reported under paragraph (1).
 
-(3) In order to determine the accuracy of a drug price that is reported to the Secretaryunder paragraph (1), the Secretary may audit the relevant records of the manufacturer or of any wholesaler that distributes the drug, and may delegate the authority to audit such records to the appropriate Federal agency described in subsection (b).
+(3) In order to determine the accuracy of a drug price that is reported to the Secretary under paragraph (1), the Secretary may audit the relevant records of the manufacturer or of any wholesaler that distributes the drug, and may delegate the authority to audit such records to the appropriate Federal agency described in subsection (b).
 
 (4) Any information contained in a report submitted to the Secretary under paragraph (1) or obtained by the Secretary through any audit conducted under paragraph (3) shall remain confidential, except as the Secretary determines necessary to carry out this section and to permit the Comptroller General and the Director of the Congressional Budget Office to review the information provided.
 
@@ -72,7 +72,7 @@
 
 &emsp;&emsp;(A) a drug described in section 1927(k)(7)(A)(ii) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act;
 
-&emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act, or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act; or
+&emsp;&emsp;(B) a drug described in section 1927(k)(7)(A)(iv) of the Social Security Act,or that would be described in such section but for the application of the first sentence of section 1927(k)(3) of such Act; or
 
 &emsp;&emsp;(C) any biological product identified under section 600.3 of title 21, Code of Federal Regulations.
 
@@ -108,7 +108,7 @@
 
 (i)(1) If the Secretary modifies a multi-year contract described in subsection (d) to include a covered drug of the manufacturer that was not available for inclusion under the contract at the time the contract went into effect, the price of the drug shall be determined as follows:
 
-&emsp;(A) For the portion of the first contract year during which the drug is so included, the price of the drug shall be determined in accordancewith subsection (a)(2), except that the reference in such subsection to “the one-year period beginning on the date the agreement takes effect” shall be considered a reference to such portion of the first contract year.
+&emsp;(A) For the portion of the first contract year during which the drug is so included, the price of the drug shall be determined in accordance with subsection (a)(2), except that the reference in such subsection to “the one-year period beginning on the date the agreement takes effect” shall be considered a reference to such portion of the first contract year.
 
 &emsp;(B) For any subsequent contract year, the price of the drug shall be determined in accordance with subsection (d), except that each reference in such subsection to “the first year for which the contract is in effect” shall be considered a reference to the portion of the first contract year during which the drug is included under the contract.
 
@@ -140,7 +140,7 @@ Subsec. (g)(1), (2). Pub. L. 103–446, §1201(f)(6)(B), substituted “November
 
 Subsec. (c). Pub. L. 103–18, §1(a)(2), in introductory provisions, struck out “for calendar quarters” after “subsection (a)(2),”, and in par. (1), struck out “preceding the month during which the contract goes into effect” after “during such period” and substituted “multiplied by” for “increased by”.
 
-Subsec. (d)(1). Pub. L. 103–18, §1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the first year for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
+Subsec. (d)(1). Pub. L. 103–18, §1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the firstyear for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
 
 Subsec. (i). Pub. L. 103–18, §1(a)(4), added subsec. (i).
 

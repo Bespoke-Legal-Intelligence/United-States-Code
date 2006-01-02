@@ -54,7 +54,3 @@ The change reflects the fact that the source statute for these sections (sec. 1 
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3748, 3755 of this title.
-

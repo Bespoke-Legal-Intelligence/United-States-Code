@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term “undiscounted unpaidlosses” means the unpaid losses shown in the annual statement filed by the taxpayer for the year ending with or within the taxable year of the taxpayer.
+&emsp;Except as otherwise provided in this subsection, the term “undiscounted unpaid losses” means the unpaid losses shown in the annual statement filed by the taxpayer for the year ending with or within the taxable year of the taxpayer.
 
 #### (2) Adjustment if losses discounted on annual statement
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (4) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection including—
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate tocarry out the purposes of this subsection including—
 
 &emsp;&emsp;(A) regulations providing that a taxpayer may not make an election under this subsection if such taxpayer does not have sufficient historical experience for the line of business to determine a loss payment pattern, and
 
@@ -279,8 +279,4 @@ tax in later taxable year.—If—
 &emsp;“(B) such company becomes subject to tax under such section 831(a) for any later taxable year,
 
 > paragraph (2) and subparagraphs (A) and (C) of paragraph (3) shall be applied by treating such later taxable year as its 1st taxable year beginning after December 31, 1986, and by treating the calendar year in which such later taxable year begins as 1987; and paragraph (3)(B) shall not apply.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 807, 832, 847 of this title.
 

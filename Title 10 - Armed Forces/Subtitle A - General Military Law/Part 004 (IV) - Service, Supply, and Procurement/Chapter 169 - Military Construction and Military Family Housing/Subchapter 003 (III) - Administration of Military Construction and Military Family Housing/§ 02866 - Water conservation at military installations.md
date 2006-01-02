@@ -10,7 +10,7 @@ Water Conservation Activities.—(1) The Secretary of Defense shall permit and e
 
 &emsp;(B) as determined by the Secretary, are cost effective for the Federal Government.
 
-(3) Subject to paragraph (4), the Secretary of Defense may authorize the Secretary of a military department having jurisdiction over a military installation to enter into an agreement with a utility to design and implement a cost-effective program that provides incentives for the management of water demand and for water conservation and that addresses the requirements and circumstances of the installation. Activities under the program may include the provision of water management services, the alteration of a facility, and the installation and maintenance by the utility of a water-saving device or technology.
+(3) Subject to paragraph (4), the Secretary of Defense may authorize the Secretary of a military department having jurisdiction over a military installation to enter into an agreement with a utility to design and implement a cost-effective program that provides incentives for the management of water demand and for water conservation and that addresses the requirements and circumstances of the installation. Activities under the program may include the provision of water management services, the alteration of a facility, and the installation andmaintenance by the utility of a water-saving device or technology.
 
 (4)(A) If an agreement under paragraph (3) provides for a utility to pay in advance the financing costs for the design or implementation of a program referred to in that paragraph and for such advance payment to be repayed by the United States, the cost of such advance payment may be recovered by the utility under terms that are not less favorable than the terms applicable to the most favored customer of the utility.
 
@@ -43,8 +43,4 @@ Water Conservation Construction Projects.—(1) The Secretary of Defense may car
 Use of Water Cost Savings.—Water cost savings realized under this section shall be used as provided in section 2865(b)(2) of this title.”
 
 1996—Subsec. (c)(2). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and Appropriations of the Senate and House of Representatives”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2865 of this title.
 

@@ -6,7 +6,7 @@ There is established the Advisory Commission on Childhood Vaccines. The Commissi
 
 &emsp;(1) Nine members appointed by the Secretary as follows:
 
-&emsp;&emsp;(A) Three members who are health professionals, who are not employees of the United States, and who have expertise in the health care of children, the epidemiology, etiology, and prevention of childhood diseases, and the adverse reactions associated with vaccines, of whom at least two shall be pediatricians.
+&emsp;&emsp;(A) Three members who are health professionals, who are not employees of the United States, and who have expertise in the healthcare of children, the epidemiology, etiology, and prevention of childhood diseases, and the adverse reactions associated with vaccines, of whom at least two shall be pediatricians.
 
 &emsp;&emsp;(B) Three members from the general public, of whom at least two shall be legal representatives of children who have suffered a vaccine-related injury or death.
 

@@ -2,7 +2,7 @@
 
 #### (a) Required scope of health insurance coverage
 
-The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with subsection (c)(5) of this section, of any of the following:
+The child health assistance provided to a targeted low-income child under the plan in theform described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with subsection (c)(5) of this section, of any of the following:
 
 #### (1) Benchmark coverage
 
@@ -22,7 +22,7 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (C) Substantial actuarial value for additional services included in benchmark package
 
-&emsp;&emsp;With respect to each of the categories of additional services described in subsection\(c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
 
 #### (3) Existing comprehensive State-based coverage
 
@@ -104,7 +104,7 @@ The benchmark benefit packages are as follows:
 
 #### (5) Construction on prohibited coverage
 
-&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
+&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offeredunder the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
 
 #### (d) Description of existing comprehensive State-based coverage
 
@@ -184,7 +184,7 @@ The benchmark benefit packages are as follows:
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7\(§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act is classified generally to subpart 2 (§300gg–4 et seq.) of part A of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

@@ -60,7 +60,7 @@ For the effective date of the Manufactured Housing Improvement Act of 2000, refe
 
 #### Amendments
 
-2000—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “In carrying out the inspections required under this chapter, the Secretary may establish and imposeon manufactured home manufacturers, distributors, and dealers such reasonable fees as may be necessary to offset the expenses incurred by him in conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except that this section shall not apply in any State which has in effect a State plan under section 5422 of this title.”
+2000—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “In carrying out the inspections required under this chapter, the Secretary may establish and impose on manufactured home manufacturers, distributors, and dealers such reasonable fees as may be necessary to offset the expenses incurred by him in conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except that this section shall not apply in any State which has in effect a State plan under section 5422 of this title.”
 
 1980—Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
 

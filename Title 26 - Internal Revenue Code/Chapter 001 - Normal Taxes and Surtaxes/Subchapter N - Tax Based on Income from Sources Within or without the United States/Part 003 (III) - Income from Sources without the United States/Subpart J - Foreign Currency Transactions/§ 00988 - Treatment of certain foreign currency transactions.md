@@ -38,7 +38,7 @@ Notwithstanding any other provision of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of any corporation, partnership, trust, or estate which is not a United States person, a country other than the United States.
 
-&emsp;&emsp;&nbsp;If an individual does not have a tax home (as so defined), the residence of such individual shall be the United States if such individual is a United States citizen or a resident alien and shall be a country other than the United States if such individual is not a United States citizen or a resident alien.
+&emsp;&emsp;&nbsp;If an individual does not have a tax home (as so defined), the residence of such individual shall be the United States if suchindividual is a United States citizen or a resident alien and shall be a country other than the United States if such individual is not a United States citizen or a resident alien.
 
 #### (ii) Exception
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of this chapter—
 
 &emsp;&emsp;&emsp;(i) For purposes of section 904 only, such loan shall be marked to market on an annual basis.
 
-&emsp;&emsp;&emsp;(ii) Any interest income earned with respect to such loan for the taxable yearshall be treated as income from sources within the United States to the extent of any loss attributable to clause (i).
+&emsp;&emsp;&emsp;(ii) Any interest income earned with respect to such loan for the taxable year shall be treated as income from sources within the United States to the extent of any loss attributable to clause (i).
 
 > &emsp;&emsp;For purposes of this subparagraph, the term “related person” has the meaning given such term by section 954(d)(3), except that such section shall be applied by substituting “United States person” for “controlled foreign corporation” each place such term appears.
 
@@ -358,13 +358,9 @@ Transitional rules.—
 
 &emsp;&emsp;“(i) such partnership was in existence on October 21, 1988, and principally engaged on such date in buying and selling options, futures, or forwards with respect to commodities, or
 
-&emsp;&emsp;“(ii) a registration statement was filed with respect to such partnership with the Securities and Exchange Commission on or before such date and such registration statement indicated that the principal activity of such partnership will consist of buying and selling instruments referred to in clause (i).”
+&emsp;&emsp;“(ii) a registration statement was filed with respect to such partnership with the Securities and Exchange Commission on or before such date and such registration statement indicated that theprincipal activity of such partnership will consist of buying and selling instruments referred to in clause (i).”
 
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as a note under section 985 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 865, 954, 4982 of this title.
 

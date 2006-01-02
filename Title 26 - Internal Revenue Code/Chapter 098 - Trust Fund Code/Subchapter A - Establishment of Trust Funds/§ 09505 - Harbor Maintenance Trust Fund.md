@@ -76,7 +76,3 @@ In general.—Each report to be transmitted under subsection (a) shall contain t
 
 Previous years information.—In addition to information required under paragraph (1), the initial report to be transmitted under subsection (a) shall contain the information described in subparagraphs (A) and (B) of paragraph (1) for fiscal years 1987 through 1992.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 sections 984, 2238.
-

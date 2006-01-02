@@ -58,7 +58,7 @@ For purposes of the 2002 and 2003 crop years, the loan rate for a marketing assi
 
 #### (b) 2004 through 2007 crop years
 
-For purposes of the 2004 through 2007 crop years, the loan rate for a marketing assistanceloan under section 7931 of this title for a loan commodity shall be equal to the following:
+For purposes of the 2004 through 2007 crop years, the loan rate for a marketing assistance loan under section 7931 of this title for a loan commodity shall be equal to the following:
 
 &emsp;(1) In the case of wheat, $2.75 per bushel.
 

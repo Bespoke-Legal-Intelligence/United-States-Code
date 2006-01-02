@@ -14,7 +14,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (E) Pharmaceutical agents included on the uniform formulary shall be available to eligible covered beneficiaries through—
 
-&emsp;(i) facilities of the uniformed services, consistent with the scope of health care services offered in such facilities;
+&emsp;(i) facilities of the uniformed services, consistent with the scope of health care services offered in such facilities and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents;
 
 &emsp;(ii) retail pharmacies designated or eligible under the TRICARE program or the Civilian Health and Medical Program of the Uniformed Services to provide pharmaceutical agents to covered beneficiaries; or
 
@@ -26,7 +26,9 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (5) The pharmacy benefits program shall assure the availability to eligible covered beneficiaries of pharmaceutical agents not included on the uniform formulary. Such pharmaceutical agents shall be available through at least one of the means described in paragraph (2)(E) under terms and conditions that may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.
 
-(6) The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 of this title or 25 percent for beneficiaries covered by section 1086 of this title.
+(6)(A) The Secretary, in the regulations prescribed under subsection (g), may establish cost sharing requirements (which may be established as a percentage or fixed dollar amount) under the pharmacy benefits program for generic, formulary, and nonformulary agents. For nonformulary agents, cost sharing shall be consistent with common industry practice and not in excess of amounts generally comparable to 20 percent for beneficiaries covered by section 1079 ofthis title or 25 percent for beneficiaries covered by section 1086 of this title.
+
+(B) For a medicare-eligible beneficiary, the cost-sharing requirements may not be in excess of the cost-sharing requirements applicable to all other beneficiaries covered by section 1086 of this title. For purposes of the preceding sentence, a medicare-eligible beneficiary is a beneficiary eligible for health benefits under section 1086 of this title pursuant to subsection (d)(2) of such section.
 
 (7) The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appeals process for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
 
@@ -56,7 +58,7 @@ Advisory Panel.—(1) Concurrent with the establishment of the Pharmacy and Ther
 
 Procedures.—(1) In the operation of the pharmacy benefits program under subsection (a), the Secretary of Defense shall assure through management and new contractual arrangements that financial resources are aligned such that the cost of prescriptions is borne by the organization that is financially responsible for the health care of the eligible covered beneficiary.
 
-(2) Effective not later than April 5, 2000, the Secretary shall use a modification to the bid price adjustment methodology in the current managed care support contracts to ensure equitable and timely reimbursement to the TRICARE managed care support contractors for pharmaceutical products delivered in the nonmilitary environments. The methodology shall take into account the “at-risk” nature of thecontracts as well as managed care support contractor pharmacy costs attributable to changes to pharmacy service or formulary management at military medical treatment facilities, and other military activities and policies that affect costs of pharmacy benefits provided through the Civilian Health and Medical Program of the Uniformed Services. The methodology shall also account for military treatment facility costs attributable to the delivery of pharmaceutical products in the military facility environment which were prescribed by a network provider.
+(2) Effective not later than April 5, 2000, the Secretary shall use a modification to the bid price adjustment methodology in the current managed care support contracts to ensure equitable and timely reimbursement to the TRICARE managed care support contractors for pharmaceutical products delivered in the nonmilitary environments. The methodology shall take into account the “at-risk” nature of the contracts as well as managed care support contractor pharmacy costs attributable to changes to pharmacy service or formulary management at military medical treatment facilities, and other military activities and policies that affect costs of pharmacy benefits provided through the Civilian Health and Medical Program of the Uniformed Services. The methodology shall also account for military treatment facility costs attributable to the delivery of pharmaceutical products in the military facility environment which were prescribed by a network provider.
 
 (e)
 
@@ -74,9 +76,13 @@ Definitions.—In this section:
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535.)
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title VII, §725, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 108–375, div. A, title VII, §714, Oct. 28, 2004, 118 Stat. 1985.)
 
 #### Amendments
+
+2004—Subsec. (a)(2)(E)(i). Pub. L. 108–375, §714(b), inserted before semicolon at end “and additional determinations by the Pharmacy and Therapeutics Committee of the relative clinical and cost effectiveness of the agents”.
+
+Subsec. (a)(6). Pub. L. 108–375, §714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
 2003—Subsec. (b)(1). Pub. L. 108–136, §725(1), substituted “facilities and representatives of providers in facilities of the uniformed services” for “facilities, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the national mail-order pharmacy program, providers in facilities of the uniformed services, and TRICARE network providers” in second sentence.
 
@@ -128,7 +134,7 @@ Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, prov
 
 &emsp;“(1) implementation of the uniform formulary required under subsection (a) of section 1074g of title 10, United States Code (as added by subsection (a));
 
-&emsp;“(2) the results of a confidential survey conducted by the Secretary of prescribers for military medicaltreatment facilities and TRICARE contractors to determine—
+&emsp;“(2) the results of a confidential survey conducted by the Secretary of prescribers for military medical treatment facilities and TRICARE contractors to determine—
 
 &emsp;&emsp;“(A) during the most recent fiscal year, how often prescribers attempted to prescribe non-formulary or non-preferred prescription drugs, how often such prescribers were able to do so, and whether covered beneficiaries were able to fill such prescriptions without undue delay;
 

@@ -16,7 +16,7 @@ Readiness Reporting System Characteristics.—In establishing the readiness repo
 
 &emsp;(1) that the readiness reporting system is applied uniformly throughout the Department of Defense;
 
-&emsp;(2) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element ofdefense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
+&emsp;(2) that information in the readiness reporting system is continually updated, with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours of the event necessitating the change in readiness status; and
 
 &emsp;(3) that sufficient resources are provided to establish and maintain the system so as to allow reporting of changes in readiness status as required by this section.
 
@@ -85,8 +85,4 @@ Implementation.—The Secretary of Defense shall establish and implement the rea
 “(c)
 
 Implementation Plan.—Not later than March 1, 1999, the Secretary of Defense shall submit to Congress a report setting forth the Secretary's plan for implementation of section 117 of title 10, United States Code, as added by subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 153 of this title.
 

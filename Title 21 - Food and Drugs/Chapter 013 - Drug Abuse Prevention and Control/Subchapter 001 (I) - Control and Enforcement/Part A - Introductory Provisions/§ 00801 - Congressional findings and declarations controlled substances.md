@@ -32,11 +32,15 @@ This subchapter, referred to in par. (1), was in the original “this title”, 
 
 Section 704 of title II of Pub. L. 91–513 provided that:
 
-“(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
+“(a) Except as otherwise provided in this section, this title \[see Short Title note below\] shall become effectiveon the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment \[Oct. 27, 1970\].
 
 “(b) Parts A, B, E, and F of this title \[Parts A, B, E, and F of this subchapter\], section 702 \[set out as a note under section 321 of this title\], this section, and sections 705 through 709 \[sections 901 to 904 of this title and note set out below\], shall become effective upon enactment \[Oct. 27, 1970\].
 
 “(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–57, §1(a), Aug. 2, 2005, 119 Stat. 592, provided that: “This Act \[amending section 953 of this title\] may be cited as the ‘Controlled Substances Export Reform Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -58,7 +62,7 @@ Pub. L. 106–172, §1, Feb. 18, 2000, 114 Stat. 7, provided that: “This Act \
 
 Pub. L. 105–277, div. C, title VIII, §801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title \[enacting section 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22\] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
 
-Pub. L. 105–277, div. C, title VIII, subtitle G (§§871, 872), §871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §1, Nov. 10, 1998, 112 Stat. 3271, provided thatsuch subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
+Pub. L. 105–277, div. C, title VIII, subtitle G (§§871, 872), §871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §1, Nov. 10, 1998, 112 Stat. 3271, provided that such subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
 
 Pub. L. 105–277, div. E, §1, Oct. 21, 1998, 112 Stat. 2681–759, provided that: “This division \[amending sections 841 and 960 of this title and section 13705 of Title 42, The Public Health and Welfare\] may be cited as the ‘Methamphetamine Trafficking Penalty Enhancement Act of 1998’.”
 
@@ -136,7 +140,7 @@ Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, p
 
 #### Continuation of Orders, Rules, and Regulations
 
-Section 705 of title II of Pub. L. 91–513 provided that: “Any orders, rules, and regulations which have been promulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
+Section 705 of title II of Pub. L. 91–513 provided that: “Any orders, rules, and regulations which have beenpromulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed.”
 
 #### Anti-Drug Messages on Federal Government Internet Sites
 
@@ -176,7 +180,7 @@ Authorization of appropriations.—There are authorized to be appropriated such 
 
 “(c)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 18, 2000\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on current mechanisms for coordinating Federal, State, and local investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or other Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving the abuse of gamma hydroxybutyric acid, other controlled substances, or so-called ‘designer drugs’. The report shallalso include recommendations for the improvement of such mechanisms.
+Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 18, 2000\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on current mechanisms for coordinating Federal, State, and local investigations into and prosecutions related to possible violations of the Controlled Substances Act \[21 U.S.C. 801 et seq.\] or other Federal or State laws that result in or contribute to rape, other crimes of violence, or other crimes involving the abuse of gamma hydroxybutyric acid, other controlled substances, or so-called ‘designer drugs’. The report shall also include recommendations for the improvement of such mechanisms.
 
 #### “SEC. 7. ANNUAL REPORT REGARDING DATE-RAPE DRUGS; NATIONAL AWARENESS CAMPAIGN.
 
@@ -390,7 +394,7 @@ Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of Sta
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
-\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### GAO Study of Capabilities of United States To Control Drug Smuggling Into United States
 
@@ -466,7 +470,7 @@ Establishment of a united states-bahamas drug interdiction task force.—(A) The
 
 Amounts authorized.—There are authorized to be appropriated, in addition to any other amounts authorized to be appropriated in this title \[see section 3001 of Pub. L. 99–570 set out above\], $10,000,000 for the following:
 
-&emsp;&emsp;“(A) $9,000,000 for 3 drug interdiction pursuit helicopters for use primarily for operations of theUnited States-Bahamas Drug Interdiction Task Force established under this section; and
+&emsp;&emsp;“(A) $9,000,000 for 3 drug interdiction pursuit helicopters for use primarily for operations of the United States-Bahamas Drug Interdiction Task Force established under this section; and
 
 &emsp;&emsp;“(B) $1,000,000 to enhance communications capabilities for the operation of a United States-Bahamas Drug Interdiction Task Force established under this section.
 
@@ -548,7 +552,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(c)
 
-\[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 ofsuch title, relating to classification and General Schedule pay rates.
+\[Personnel; experts; information from departments and agencies\] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
 “(2) The Commission may procure, in accordance with the provisions of section 3109 of title 5, United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703(b) of title 5, United States Code, for persons in the Government service employed intermittently.
 
@@ -586,7 +590,7 @@ Ex. Ord. No. 11599, June 17, 1971, 36 F.R. 11793, which established the Special 
 
 #### Executive Order No. 11641
 
-Ex. Ord. No. 11641, Jan. 28, 1972, 37 F.R. 2421, which established the Office for Drug Abuse Law Enforcement, was revoked by Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, set out below.
+Ex. Ord. No. 11641, Jan. 28, 1972, 37 F.R. 2421, which established the Office for Drug Abuse Law Enforcement,was revoked by Ex. Ord. No. 11727, July 6, 1973, 38 F.R. 18357, set out below.
 
 #### Executive Order No. 11676
 

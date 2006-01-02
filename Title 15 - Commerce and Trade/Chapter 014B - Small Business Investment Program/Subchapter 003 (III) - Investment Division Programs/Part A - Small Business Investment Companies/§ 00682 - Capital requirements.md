@@ -18,7 +18,7 @@
 
 &emsp;In addition to the requirements of paragraph (1), the Administrator shall—
 
-&emsp;&emsp;(A) determine whether the private capital of each licensee is adequate to assure a reasonable prospect that the licensee will be operated soundly and profitably, and managed actively and prudently in accordance with its articles; and
+&emsp;&emsp;(A) determine whether the private capital of each licensee is adequate to assure a reasonable prospect that the licensee will be operated soundly and profitably, and managedactively and prudently in accordance with its articles; and
 
 &emsp;&emsp;(B) determine that the licensee will be able <sup>1</sup> both prior to licensing and prior to approving any request for financing, to make periodic payments on any debt of the company which is interest bearing and shall take into consideration the income which the company anticipates on its contemplated investments, the experience of the company's owners and managers, the history of the company as an entity, if any, and the company's financial resources.
 

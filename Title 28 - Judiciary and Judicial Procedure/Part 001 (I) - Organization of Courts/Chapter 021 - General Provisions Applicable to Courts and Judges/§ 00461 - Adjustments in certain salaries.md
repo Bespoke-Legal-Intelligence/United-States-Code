@@ -36,6 +36,8 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub
 
 #### Salary Adjustments
 
+Pub. L. 109–115, div. A, title IV, §405, Nov. 30, 2005, 119 Stat. 2470, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. A of Pub. L. 109–115, see Tables for classification\], Justices and judges of the United States are authorized during fiscal year 2006, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+
 Pub. L. 108–491, §1, Dec. 23, 2004, 118 Stat. 3973, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], Justices and judges of the United States are authorized during fiscal year 2005 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
 
 Pub. L. 108–447, div. B, title III, §306, Dec. 8, 2004, 118 Stat. 2895, provided that: “Pursuant to section 140 of Public Law 97–92 \[set out below\], and from funds appropriated in this Act \[div. B of Pub. L. 108–447, see Tables for classification\], Justices and judges of the United States are authorized during fiscal year 2005, to receive a salary adjustment in accordance with 28 U.S.C. 461.”

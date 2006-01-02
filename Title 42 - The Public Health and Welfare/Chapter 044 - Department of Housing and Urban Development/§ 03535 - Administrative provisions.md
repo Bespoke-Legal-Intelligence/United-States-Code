@@ -12,7 +12,7 @@ The Secretary is authorized, subject to the civil service and classification law
 
 #### (d) Delegation of authority; rules and regulations
 
-The Secretary may delegate any of his functions, powers, and duties to such officers and employees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties as he may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
+The Secretary may delegate any of his functions, powers, and duties to such officers and employees of the Department as he may designate, may authorize such successive redelegations of such functions, powers, and duties ashe may deem desirable, and may make such rules and regulations as may be necessary to carry out his functions, powers, and duties.
 
 #### (e) Temporary employment of experts or consultants; compensation
 
@@ -20,7 +20,7 @@ The Secretary may obtain services as authorized by section 3109 of title 5, at r
 
 #### (f) Working capital fund; establishment; uses; appropriations; capitalization; reimbursement
 
-The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such commonadministrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
+The Secretary is authorized to establish a working capital fund, to be available without fiscal year limitation, for expenses necessary for the maintenance and operation of such common administrative services as he shall find to be desirable in the interest of economy and efficiency in the Department, including such services as a central supply service for stationery and other supplies and equipment for which adequate stocks may be maintained to meet in whole or in part the requirements of the Department and its agencies; central messenger, mail, telephone, and other communications services; office space; central services for document reproduction and for graphics and visual aids; and a central library service. In addition to amounts appropriated to provide capital for said fund, which appropriations are hereby authorized, the fund shall be capitalized by transfer to it of such stock of supplies and equipment on hand or on order as the Secretary shall direct. Such fund shall be reimbursed from available funds of agencies and offices in the Department for which services are performed at rates which will return in full all expenses of operation, including reserves for accrued annual leave and for depreciation of equipment.
 
 #### (g) Seal
 
@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, the Secretary is authorized by contr
 
 (2)(A) Any rule or regulation which is on any agenda submitted under paragraph (1) may not be published for comment prior to or during the 15-calendar day period beginning on the day after the date on which such agenda was transmitted. If within such period, either Committee notifies the Secretary in writing that it intends to review any rule or regulation or portion thereof which appears on the agenda, the Secretary shall submit to both Committees a copy of any such rule or regulation, in the form it is intended to be proposed, at least 15 calendar days prior to its being published for comment in the Federal Register.
 
-(B) Any rule or regulation which has not been published for comment before October 31, 1978, and which does not appear on an agenda submitted under paragraph (1) shall be submitted to both such Committees at least 15 calendar days prior to its being published for comment.
+(B) Any rule or regulation which has not been published for comment before October 31, 1978, and which does not appear on an agenda submitted under paragraph (1) shall be submitted toboth such Committees at least 15 calendar days prior to its being published for comment.
 
 (3) No rule or regulation may become effective until after the expiration of the 30-calendar day period beginning on the day after the day on which such rule or regulation is published as final. Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.
 
@@ -160,7 +160,7 @@ A plan for the reorganization of any regional, area, insuring, or other field of
 
 (B) Any amounts not used for grants, contracts, or interagency agreements under subparagraph (A) shall be used in a manner that increases and strengthens the ability of the Department to monitor and evaluate the programs under paragraph (2) and to collect and maintain data for such purposes through officers and employees of the Department.
 
-(5) There are authorized to be appropriated to carry out this subsection such sums as may benecessary for fiscal year 1993 and fiscal year 1994. Such amounts shall remain available until expended.
+(5) There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 1993 and fiscal year 1994. Such amounts shall remain available until expended.
 
 #### (s) Authorization of appropriations; allocations for staff and training
 
@@ -194,7 +194,7 @@ The Fair Housing Act, referred to in subsec. (r)(2)(D), is title VIII of Pub. L.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (r)(2)(E), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables. Section 810 of the Act which was classified to section 1706e of Title 12, Banks and Banking, was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (r)(2)(F), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted section 1715z–1a of Title 12, Banks and Banking, and amended section 1715z–1 of Title 12.
+Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec.\(r)(2)(F), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted section 1715z–1a of Title 12, Banks and Banking, and amended section 1715z–1 of Title 12.
 
 The Congregate Housing Services Act of 1978, referred to in subsec. (r)(2)(G), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, as amended, which is classified principally to chapter 89 (§8001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
@@ -244,7 +244,7 @@ Subsec. (r)(4)(A). Pub. L. 101–625, §954(a)(4)(A), inserted “and collecting
 
 Subsec. (r)(4)(B). Pub. L. 101–625, §954(a)(4)(B), inserted “and to collect and maintain data for such purposes” after “paragraph (2)”.
 
-1989—Subsec. (e). Pub. L. 101–235, §141, inserted at end “The Secretary is authorized to enter into contracts with private companies for the provision of such managerial support to the Federal Housing Administration as the Secretary determines to be appropriate, including but not limited to the management of insurance risk and the improvement of the delivery of mortgage insurance.”
+1989—Subsec. (e). Pub. L. 101–235, §141, inserted at end “The Secretary is authorized to enter into contracts with private companies for the provision of such managerial support to the Federal Housing Administrationas the Secretary determines to be appropriate, including but not limited to the management of insurance risk and the improvement of the delivery of mortgage insurance.”
 
 Subsec. (<i>o</i>)(2)(A). Pub. L. 101–235, §123(1), substituted “15-calendar day period beginning on the day” for “first period of 15 calendar days of continuous session of Congress which occurs” and struck out “of continuous session” before “prior to its being published”.
 
@@ -252,7 +252,7 @@ Subsec. (<i>o</i>)(2)(B). Pub. L. 101–235, §123(2), struck out “of continuo
 
 Subsec. (<i>o</i>)(3). Pub. L. 101–235, §123(3)(A), substituted “expiration of the 30-calendar day period beginning on the day” for “first period of 30 calendar days of continuous session of Congress which occurs”.
 
-Pub. L. 101–235, §123(3)(B), substituted “Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.” for“If within such 30-day period, either Committee has reported out or been discharged from further consideration of a joint resolution of disapproval or other legislation which is intended to modify or invalidate the rule or regulation or any portion thereof, the rule or regulation or portion thereof so addressed shall not become effective for a period of 90 calendar days from the date of Committee action or discharge unless the House to which such Committee reports has rejected such resolution or legislation, in which case the rule or regulation may go into effect only after the expiration of the 30 calendar days described in the first sentence of this paragraph if the other House does not have such a resolution or legislation pending or adopted, and if the requirements of section 553 of title 5 are met.”
+Pub. L. 101–235, §123(3)(B), substituted “Any regulation implementing any provision of the Department of Housing and Urban Development Reform Act of 1989 that authorizes the imposition of a civil money penalty may not become effective until after the expiration of a public comment period of not less than 60 days.” for “If within such 30-day period, either Committee has reported out or been discharged from further consideration of a joint resolution of disapproval or other legislation which is intended to modify or invalidate the rule or regulation or any portion thereof, the rule or regulation or portion thereof so addressed shall not become effective for a period of 90 calendar days from the date of Committee action or discharge unless the House to which such Committee reports has rejected such resolution or legislation, in which case the rule or regulation may go into effect only after the expiration of the 30 calendar days described in the first sentence of this paragraph if the other House does not have such a resolution or legislation pending or adopted, and if the requirements of section 553 of title 5 are met.”
 
 Subsec. (<i>o</i>)(5). Pub. L. 101–235, §123(4), struck out par. (5) which read as follows: “Congressional inaction on any rule or regulation shall not be deemed an expression of approval of the rule or regulation involved.”
 
@@ -370,7 +370,7 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

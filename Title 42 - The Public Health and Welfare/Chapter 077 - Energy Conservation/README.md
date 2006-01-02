@@ -41,7 +41,7 @@
 | (a) | In general. |
 | (b) | Regular update. |
 | (c) | Inventory. |
-| (d) | Authorization of appropriations. |
+| (d) | Assessments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -69,7 +69,8 @@
 | [6240\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20B%20-%20Strategic%20Petroleum%20Reserve/%C2%A7%2006240%20-%20Petroleum%20products%20for%20storage%2C%20transport%2C%20or%20exchange.md) | Petroleum products for storage, transport, or exchange. |
 | (a) | Eligibility of petroleum products. |
 | (b) | Objectives in determining manner of acquisition. |
-| (c) | to (e) Repealed. |
+| (c) | Procedures. |
+| (d), | (e) Repealed. |
 | (f) | Predrawdown diversion. |
 | (g) | Repealed. |
 | (h) | Purchase from stripper well properties. |
@@ -152,7 +153,7 @@
 | (b) | Deposits. |
 | (c) | Obligation of amounts. |
 | [6250d.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250d%20-%20Exemptions.md) | Exemptions. |
-| [6250e.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [6250e.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20D%20-%20Northeast%20Home%20Heating%20Oil%20Reserve/%C2%A7%2006250e%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20III%2C%20%C2%A7301%28a%29%282%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20683.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -160,7 +161,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6251\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20E%20-%20Expiration/%C2%A7%2006251%20-%20Expiration.md) | Expiration. |
+| [6251\.](Subchapter%20001%20%28I%29%20-%20Domestic%20Supply%20Availability/Part%20E%20-%20Expiration/%C2%A7%2006251%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20III%2C%20%C2%A7301%28a%29%283%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20683.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -222,17 +223,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Energy Emergency Preparedness \[Repealed\]
+#### Part C—Summer Fill and Fuel Budgeting Programs
 
 |  |  |
 | :--- | ---: |
-| 6281, 6282. Repealed. |  |
-| [6283\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20C%20-%20Energy%20Emergency%20Preparedness%20%5BRepealed/%C2%A7%2006283%20-%20Summer%20fill%20and%20fuel%20budgeting%20programs.md) | Summer fill and fuel budgeting programs. |
+| [6283\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20C%20-%20Summer%20Fill%20and%20Fuel%20Budgeting%20Programs/%C2%A7%2006283%20-%20Summer%20fill%20and%20fuel%20budgeting%20programs.md) | Summer fill and fuel budgeting programs. |
 | (a) | Definitions. |
 | (b) | Assistance. |
 | (c) | Preference. |
 | (d) | Authorization of appropriations. |
-| (e) | Inapplicability of expiration provision. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -240,7 +239,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6285\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20D%20-%20Expiration/%C2%A7%2006285%20-%20Expiration.md) | Expiration. |
+| [6285\.](Subchapter%20002%20%28II%29%20-%20Standby%20Energy%20Authorities/Part%20D%20-%20Expiration/%C2%A7%2006285%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20III%2C%20%C2%A7301%28b%29%283%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20683.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -260,6 +259,7 @@
 | (c) | Restriction on certain representations. |
 | (d) | Case in which test procedure is not required. |
 | (e) | Amendment of standard. |
+| (f) | Additional consumer and commercial products. |
 | [6294\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%20-%20Energy%20Conservation%20Program%20for%20Consumer%20Products%20Other%20Than%20Automobiles/%C2%A7%2006294%20-%20Labeling.md) | Labeling. |
 | (a) | In general. |
 | (b) | Rules in effect; new rules. |
@@ -268,6 +268,11 @@
 | (e) | Study of certain products. |
 | (f) | Consultation. |
 | (g) | Other authority of the Commission. |
+| [6294a.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%20-%20Energy%20Conservation%20Program%20for%20Consumer%20Products%20Other%20Than%20Automobiles/%C2%A7%2006294a%20-%20Energy%20Star%20program.md) | Energy Star program. |
+| (a) | In general. |
+| (b) | Division of responsibilities. |
+| (c) | Duties. |
+| (d) | Deadlines. |
 | [6295\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%20-%20Energy%20Conservation%20Program%20for%20Consumer%20Products%20Other%20Than%20Automobiles/%C2%A7%2006295%20-%20Energy%20conservation%20standards.md) | Energy conservation standards. |
 | (a) | Purposes. |
 | (b) | Standards for refrigerators, refrigerator-freezers, and freezers. |
@@ -289,6 +294,19 @@
 | (r) | Inclusion in standards of test procedures and other requirements. |
 | (s) | Determination of compliance with standards. |
 | (t) | Small manufacturer exemption. |
+| (u) | Battery charger and external power supply electric energy consumption. |
+| (v) | Ceiling fans and refrigerated beverage vending machines. |
+| (w) | Illuminated exit signs. |
+| (x) | Torchieres. |
+| (y) | Low voltage dry-type distribution transformers. |
+| (z) | Traffic signal modules and pedestrian modules. |
+| (aa) | Unit heaters. |
+| (bb) | Medium base compact fluorescent lamps. |
+| (cc) | Dehumidifiers. |
+| (dd) | Commercial prerinse spray valves. |
+| (ee) | Mercury vapor lamp ballasts. |
+| (ff) | Ceiling fans and ceiling fan light kits. |
+| (gg) | Application date. |
 | [6296\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%20-%20Energy%20Conservation%20Program%20for%20Consumer%20Products%20Other%20Than%20Automobiles/%C2%A7%2006296%20-%20Requirements%20of%20manufacturers.md) | Requirements of manufacturers. |
 | (a) | In general. |
 | (b) | Notification. |
@@ -331,6 +349,8 @@
 | [6307\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%20-%20Energy%20Conservation%20Program%20for%20Consumer%20Products%20Other%20Than%20Automobiles/%C2%A7%2006307%20-%20Consumer%20education.md) | Consumer education. |
 | (a) | In general. |
 | (b) | State and local incentive programs. |
+| (c) | HVAC maintenance. |
+| (d) | Small business education and assistance. |
 | [6308\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%20-%20Energy%20Conservation%20Program%20for%20Consumer%20Products%20Other%20Than%20Automobiles/%C2%A7%2006308%20-%20Annual%20report.md) | Annual report. |
 | [6309\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%20-%20Energy%20Conservation%20Program%20for%20Consumer%20Products%20Other%20Than%20Automobiles/%C2%A7%2006309%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Authorizations for Secretary. |
@@ -349,8 +369,11 @@
 | (b) | Inclusion of industrial equipment as covered equipment. |
 | (c) | Inclusion of component parts of consumer products as industrial equipment. |
 | [6313\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%E2%80%931%20-%20Certain%20Industrial%20Equipment/%C2%A7%2006313%20-%20Standards.md) | Standards. |
-| (a) | Small and large commercial package air conditioning and heating equipment, packaged terminal air conditioners and heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks. |
+| (a) | Small, large, and very large commercial package air conditioning and heating equipment, packaged terminal air conditioners and heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks. |
 | (b) | Electric motors. |
+| (c) | Commercial refrigerators, freezers, and refrigerator-freezers. |
+| (d) | Automatic commercial ice makers. |
+| (e) | Commercial clothes washers. |
 | [6314\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20A%E2%80%931%20-%20Certain%20Industrial%20Equipment/%C2%A7%2006314%20-%20Test%20procedures.md) | Test procedures. |
 | (a) | Prescription by Secretary; requirements. |
 | (b) | Publication in Federal Register; presentment of oral and written data, views, and arguments by interested persons. |
@@ -392,6 +415,7 @@
 | (d) | Optional features of plans. |
 | (e) | Standby plans. |
 | (f) | Energy Technology Commercialization Services Program. |
+| (g) | Review of plans. |
 | [6323\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006323%20-%20Federal%20assistance%20to%20States.md) | Federal assistance to States. |
 | (a) | Information, technical assistance, and assistance in preparation of reports and development, implementation, or modification of energy conservation plan. |
 | (b) | Financial assistance to assist State in development, implementation, or modification of energy conservation plan; submission of plan to and approval of Secretary; considerations governing approval; amount of assistance. |

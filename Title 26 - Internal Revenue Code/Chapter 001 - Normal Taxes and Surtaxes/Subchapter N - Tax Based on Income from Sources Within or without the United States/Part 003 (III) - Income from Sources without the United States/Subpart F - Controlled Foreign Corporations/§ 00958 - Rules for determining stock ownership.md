@@ -24,7 +24,7 @@ For purposes of sections 951(b), 954(d)(3), 956(c)(2), and 957, section 318(a) (
 
 &emsp;(1) In applying paragraph (1)(A) of section 318(a), stock owned by a nonresident alien individual (other than a foreign trust or foreign estate) shall not be considered as owned by a citizen or by a resident alien individual.
 
-&emsp;(2) In applying subparagraphs (A), (B), and (C) of section 318(a)(2), if a partnership, estate,trust, or corporation owns, directly or indirectly, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of a corporation, it shall be considered as owning all the stock entitled to vote.
+&emsp;(2) In applying subparagraphs (A), (B), and (C) of section 318(a)(2), if a partnership, estate, trust, or corporation owns, directly or indirectly, more than 50 percent of the total combined voting power of all classes of stock entitled to vote of a corporation, it shall be considered as owning all the stock entitled to vote.
 
 &emsp;(3) In applying subparagraph (C) of section 318(a)(2), the phrase “10 percent” shall be substituted for the phrase “50 percent” used in subparagraph (C).
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 94–455 applicable to taxable years of foreign corporation
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes of sections 302 and 304 of this title, such amendments shall not apply to distributions in payment for stock acquisitions or redemptions, if such acquisitions or redemptions occurred before Aug. 31, 1964, see section 4(c) of Pub. L. 88–554, set out as a note under section 318 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 296B, 304, 318, 545, 864, 877, 898, 904, 934, 951, 953, 954, 956, 957, 959, 961, 964, 1246, 1248, 1249, 1297, 2107, 6655 of this title.
 

@@ -6,7 +6,7 @@
 
 (c) A member of an advisory committee advising the Secretary in carrying out aviation duties and powers may serve for not more than 100 days in a calendar year.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2424.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2424.)
 
 Historical and Revision Notes
 
@@ -50,5 +50,5 @@ In subsection (c), the words “A member of an advisory committee advising the S
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

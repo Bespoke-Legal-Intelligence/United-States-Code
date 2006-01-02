@@ -22,13 +22,21 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(10) “Vehicular natural gas” means natural gas that is ultimately used as a fuel in a self-propelled vehicle.
 
-(June 21, 1938, ch. 556, §2, 52 Stat. 821; Pub. L. 102–486, title IV, §404(a)(2), Oct. 24, 1992, 106 Stat. 2879.)
+&emsp;(11) “LNG terminal” includes all natural gas facilities located onshore or in State waters that are used to receive, unload, load, store, transport, gasify, liquefy, or process natural gas that is imported to the United States from a foreign country, exported to a foreign country from the United States, or transported in interstate commerce by waterborne vessel, but does not include—
+
+&emsp;&emsp;(A) waterborne vessels used to deliver natural gas to or from any such facility; or
+
+&emsp;&emsp;(B) any pipeline or storage facility subject to the jurisdiction of the Commission under section 717f of this title.
+
+(June 21, 1938, ch. 556, §2, 52 Stat. 821; Pub. L. 102–486, title IV, §404(a)(2), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, §311(b), Aug. 8, 2005, 119 Stat. 685.)
 
 #### Amendments
 
+2005—Par. (11). Pub. L. 109–58 added par. (11).
+
 1992—Par. (10). Pub. L. 102–486 added par. (10).
 
-#### Transfer of Functions
+#### Termination of Federal Power Commission; Transfer of Functions
 
 Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 

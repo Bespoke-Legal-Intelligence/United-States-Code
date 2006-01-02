@@ -20,7 +20,7 @@ Composition.—(1) A board appointed under this section to inquire into the wher
 
 (3) An individual may be appointed as a member of a board under this section only if the individual has a security clearance that affords the individual access to all information relating to the whereabouts and status of the missing persons covered by the inquiry.
 
-(4) A Secretary appointing a board under this subsection shall, for purposes of providing legalcounsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
+(4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
 
 (d)
 
@@ -96,7 +96,7 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 Determination by Secretary.—(1) Not later than 30 days after receiving a report from a board under subsection (h), the Secretary receiving the report shall review the report.
 
-(2) In reviewing a report under paragraph (1), the Secretary shall determine whether or notthe report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
+(2) In reviewing a report under paragraph (1), the Secretary shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
 (3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
 
@@ -110,7 +110,7 @@ Determination by Secretary.—(1) Not later than 30 days after receiving a repor
 
 (j)
 
-Report to Family Members and Other Interested Persons.—Not later than 30 days after the date on which the Secretary concerned makes a determination of the status of a person under subsection (i), the Secretary shall take reasonable actions to—
+Report to Family Members and Other Interested Persons.—Not later than 30 days afterthe date on which the Secretary concerned makes a determination of the status of a person under subsection (i), the Secretary shall take reasonable actions to—
 
 &emsp;(1) provide to the primary next of kin, the other members of the immediate family, and any other previously designated person of the person—
 
@@ -145,8 +145,4 @@ Subsec. (c)(2) to (4). Pub. L. 104–201, §578(a)(2)(B), (C), redesignated pars
 &emsp;“(A) A military officer, in the case of an inquiry with respect to a member of the armed forces.
 
 &emsp;“(B) A civilian, in the case of an inquiry with respect to a civilian employee of the Department of Defense or of a contractor of the Department of Defense.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1501, 1504, 1507 of this title.
 

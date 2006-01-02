@@ -28,7 +28,7 @@
 
 #### (C) Credits
 
-&emsp;&emsp;The amount of interest accrued on the cash balances shall be credited to the Fund as an offsetting reduction to the amount of interest paid by the Fund on its certificates of beneficial ownership.
+&emsp;&emsp;The amount of interest accrued on the cash balances shall be credited to the Fundas an offsetting reduction to the amount of interest paid by the Fund on its certificates of beneficial ownership.
 
 #### (2) Rural economic development subaccount
 

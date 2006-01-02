@@ -18,7 +18,7 @@ The Assistant Secretary shall be appointed by the President, by and with the adv
 
 #### (e) Implementation
 
-In order to carry out this section, the Secretary of State shall reprogram the position of Deputy Assistant Secretary for South Asian Affairs.
+In order to carry out this section, the Secretary of State shall reprogram the position ofDeputy Assistant Secretary for South Asian Affairs.
 
 (Pub. L. 102–138, title I, §122, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §162(c), Apr. 30, 1994, 108 Stat. 405.)
 
@@ -36,7 +36,7 @@ Subsec. (d)(1). Pub. L. 103–236, §162(c)(3), struck out par. (1) which amende
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department ofState when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Authority of Secretary of State
 

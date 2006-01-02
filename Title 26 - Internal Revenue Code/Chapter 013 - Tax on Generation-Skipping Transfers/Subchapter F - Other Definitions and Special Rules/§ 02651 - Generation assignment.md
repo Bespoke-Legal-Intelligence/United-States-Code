@@ -8,7 +8,7 @@ For purposes of this chapter, the generation to which any person (other than the
 
 #### (1) In general
 
-&emsp;An individual who is a lineal descendant of a grandparent of the transferor shall be assigned to that generation which results fromcomparing the number of generations between the grandparent and such individual with the number of generations between the grandparent and the transferor.
+&emsp;An individual who is a lineal descendant of a grandparent of the transferor shall be assigned to that generation which results from comparing the number of generations between the grandparent and such individual with the number of generations between the grandparent and the transferor.
 
 #### (2) On spouse's side
 
@@ -105,8 +105,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 529, 2612, 2653 of this title.
 

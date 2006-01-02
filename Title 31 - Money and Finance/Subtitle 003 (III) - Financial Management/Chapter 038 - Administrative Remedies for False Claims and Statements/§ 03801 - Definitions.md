@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) who, if a member of the Armed Forces of the United States on active duty, is serving in grade O–7 or above or, if a civilian employee, is serving in a position for which the rate of basic pay is not less than the minimum rate of basic pay for grade GS–16 under the General Schedule;
 
-&emsp;(5) “knows or has reason to know”, for purposes of establishing liability under section3802, means that a person, with respect to a claim or statement—
+&emsp;(5) “knows or has reason to know”, for purposes of establishing liability under section 3802, means that a person, with respect to a claim or statement—
 
 &emsp;&emsp;(A) has actual knowledge that the claim or statement is false, fictitious, or fraudulent;
 

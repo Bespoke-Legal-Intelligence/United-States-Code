@@ -34,7 +34,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;&emsp;(ii) a contour grass sod strip established and maintained as part of an approved conservation plan;
 
-&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanentwildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs; or
+&emsp;&emsp;(C) the land will be devoted to newly established living snow fences, permanent wildlife habitat, windbreaks, shelterbelts, or filterstrips devoted to trees or shrubs; or
 
 &emsp;&emsp;(D) the land poses an off-farm environmental threat, or a threat of continued degradation of productivity due to soil salinity, if permitted to remain in production; and
 
@@ -232,11 +232,121 @@ On the expiration of a contract entered into under this subpart, the land subjec
 
 In determining the acceptability of contract offers under this subpart, the Secretary shall ensure, to the maximum extent practicable, an equitable balance among the conservation purposes of soil erosion, water quality, and wildlife habitat.
 
-(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238.)
+#### (k) Emergency forestry conservation reserve program
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Merchantable timber
+
+&emsp;&emsp;The term “merchantable timber” means timber on private nonindustrial forest land on which the average tree has a trunk diameter of at least 6 inches measured at a point no less than 4.5 feet above the ground.
+
+#### (B) Private nonindustrial forest land
+
+&emsp;&emsp;The term “private nonindustrial forest land” includes State school trust land.
+
+#### (2) Program
+
+&emsp;During calendar year 2006, the Secretary shall carry out an emergency pilot program in States that the Secretary determines have suffered damage to merchantable timber in counties affected by hurricanes during the 2005 calendar year.
+
+#### (3) Eligible acreage
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B) and the availability of funds under subparagraph (G), an owner or operator may enroll private nonindustrial forest land in the conservation reserve under this subsection.
+
+#### (B) Determination of damages
+
+&emsp;&emsp;Eligibility for enrollment shall be limited to owners and operators of private nonindustrial forest land that have experienced a loss of 35 percent or more of merchantable timber in a county affected by hurricanes during the 2005 calendar year.
+
+#### (C) Exemptions
+
+&emsp;&emsp;Acreage enrolled in the conservation reserve under this subsection shall not count toward—
+
+&emsp;&emsp;&emsp;(i) county acreage limitations described in section 3843(b) of this title; or
+
+&emsp;&emsp;&emsp;(ii) the maximum enrollment described in subsection (d) of this section.
+
+#### (D) Duties of owners and operators
+
+&emsp;&emsp;As a condition of entering into a contract under this subsection, during the term of the contract, the owner or operator of private nonindustrial forest land shall agree—
+
+&emsp;&emsp;&emsp;(i) to restore the land, through site preparation and planting of similar species as existing prior to hurricane damages or to the maximum extent practicable with other native species, as determined by the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) to establish temporary vegetative cover the purpose of which is to prevent soil erosion on the eligible acreage, as determined by the Secretary.
+
+#### (E) Duties of the Secretary
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In return for a contract entered into by an owner or operator of private nonindustrial forest land under this subsection, the Secretary shall provide, at the option of the landowner—
+
+&emsp;&emsp;&emsp;&emsp;(I) notwithstanding the limitation in section 3834(f)(1) of this title, a lump sum payment; or
+
+&emsp;&emsp;&emsp;&emsp;(II) annual rental payments.
+
+#### (ii) Calculation of lump sum payment
+
+&emsp;&emsp;&emsp;The lump sum payment described in clause (i)(I) shall be calculated using a net present value formula, as determined by the Secretary, based on the total amount a producer would receive over the duration of the contract.
+
+#### (iii) Calculation of annual rental payments
+
+&emsp;&emsp;&emsp;The annual rental payment described in clause (i)(II) shall be equal to the average rental rate for conservation reserve contracts in the county in which the land is located.
+
+#### (iv) Rolling signup
+
+&emsp;&emsp;&emsp;The Secretary shall offer a rolling signup for contracts under this subsection.
+
+#### (v) Duration of contracts
+
+&emsp;&emsp;&emsp;A contract entered into under this subsection shall have a term of 10 years.
+
+#### (F) Balance of natural resources
+
+&emsp;&emsp;In determining the acceptability of contract offers under this subsection, the Secretary shall consider an equitable balance among the purposes of soil erosion prevention, water quality improvement, wildlife habitat restoration, and mitigation of economic loss.
+
+#### (G) Funding
+
+&emsp;&emsp;The Secretary shall use $404,100,000, to remain available until expended, of funds of the Commodity Credit Corporation to carry out this subsection.
+
+#### (H) Determinations by Secretary
+
+&emsp;&emsp;A determination made by the Secretary under this subsection shall be final and conclusive.
+
+#### (I) Regulations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 90 days after December 30, 2005, the Secretary shall promulgate such regulations as are necessary to implement this subsection.
+
+#### (ii) Procedure
+
+&emsp;&emsp;&emsp;The promulgation of regulations and administration of this subsection shall be made without regard to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the notice and comment provisions of section 553 of title 5;
+
+&emsp;&emsp;&emsp;&emsp;(II) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;&emsp;&emsp;&emsp;(III) chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
+
+#### (iii) Congressional review of agency rulemaking
+
+&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5.
+
+(Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750.)
+
+#### Codification
+
+December 30, 2005, referred to in subsec. (k)(3)(I)(i), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 109–148, which enacted subsec. (k), to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 3831, Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, §758(a), Nov. 28, 2001, 115 Stat. 741, related to a conservation reserve program to be formulated and carried out by the Secretary through the 2002 calendar year, prior to the general amendment of this subpart by Pub. L. 107–171.
+
+#### Amendments
+
+2005—Subsec. (k). Pub. L. 109–148 added subsec. (k).
 
 #### Regulations
 

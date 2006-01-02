@@ -40,7 +40,3 @@ Section 725(e) of Pub. L. 101–189 directed Secretary of Defense, not later tha
 
 Section 725(f) of Pub. L. 101–189 directed Secretary of Defense, not later than Mar. 1, 1991, to submit to Congress a report evaluating the success of the financial assistance program established by such section 725 and describing the number of participants in the program receiving specialized training payments under 10 U.S.C. 2127(e) and the projected number of officers to be gained, by specialty, as a result of the program for each military department.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2173 of this title.
-

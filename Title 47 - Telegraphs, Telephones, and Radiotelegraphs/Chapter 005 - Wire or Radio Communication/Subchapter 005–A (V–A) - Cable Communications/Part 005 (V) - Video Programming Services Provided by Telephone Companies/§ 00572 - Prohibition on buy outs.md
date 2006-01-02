@@ -28,7 +28,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 #### (2) Joint use
 
-&emsp;Notwithstanding subsection (c) of this section, a local exchange carrier may obtain, with the concurrence of the cable operator onthe rates, terms, and conditions, the use of that part of the transmission facilities of a cable system extending from the last multi-user terminal to the premises of the end user, if such use is reasonably limited in scope and duration, as determined by the Commission.
+&emsp;Notwithstanding subsection (c) of this section, a local exchange carrier may obtain, with the concurrence of the cable operator on the rates, terms, and conditions, the use of that part of the transmission facilities of a cable system extending from the last multi-user terminal to the premises of the end user, if such use is reasonably limited in scope and duration, as determined by the Commission.
 
 #### (3) Acquisitions in competitive markets
 

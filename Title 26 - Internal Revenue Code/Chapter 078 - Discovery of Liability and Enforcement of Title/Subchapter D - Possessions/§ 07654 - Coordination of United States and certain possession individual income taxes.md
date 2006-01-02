@@ -66,7 +66,3 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 92–606 applicable with respect to taxable years beginning after Dec. 31, 1972, see section 2 of Pub. L. 92–606, set out in part as an Effective Date note under section 931 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 932, 6688, 7809 of this title; title 48 section 1421i.
-

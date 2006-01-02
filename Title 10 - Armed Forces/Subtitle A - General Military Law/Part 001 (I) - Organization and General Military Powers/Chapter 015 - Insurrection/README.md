@@ -15,10 +15,6 @@
 
 1980—Pub. L. 96–513, title V, §511(11)(C), Dec. 12, 1980, 94 Stat. 2921, added item 335.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 101, 115 of this title; title 6 section 466; title 38 section 4312.
-
 
 ---
 

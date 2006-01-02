@@ -22,7 +22,7 @@
 
 #### (2) Administration
 
-&emsp;The Agency determined by the Secretary under paragraph (1) shall carry out this subsection in collaboration with private healthorganizations that have national education and patient assistance programs on blood-related cancers.
+&emsp;The Agency determined by the Secretary under paragraph (1) shall carry out this subsection in collaboration with private health organizations that have national education and patient assistance programs on blood-related cancers.
 
 #### (3) Authorization of appropriations
 

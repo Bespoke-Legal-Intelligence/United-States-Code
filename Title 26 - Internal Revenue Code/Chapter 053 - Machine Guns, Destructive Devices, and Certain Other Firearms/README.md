@@ -24,10 +24,6 @@ A prior chapter 53, act Aug. 16, 1954, ch. 736, 68A Stat. 721, was generally rev
 
 “Prohibited acts” for “Unlawful acts” in subchapter C.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6808, 7328, 7801 of this title; title 49 section 80302.
-
 
 ---
 

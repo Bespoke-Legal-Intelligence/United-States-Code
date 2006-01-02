@@ -6,7 +6,7 @@ Joint 4-
 
 Star Officer Positions.—(1) Whenever a vacancy occurs, or is anticipated to occur, in a position specified in subsection (b)—
 
-&emsp;(A) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army officer, the Secretary of the Navy to submit the name of at least one Navy officer and the name of at least one Marine Corps officer, and the Secretary of the Air Force to submit the name of at least one AirForce officer for consideration by the Secretary for recommendation to the President for appointment to that position; and
+&emsp;(A) the Secretary of Defense shall require the Secretary of the Army to submit the name of at least one Army officer, the Secretary of the Navy to submit the name of at least one Navy officer and the name of at least one Marine Corps officer, and the Secretary of the Air Force to submit the name of at least one Air Force officer for consideration by the Secretary for recommendation to the President for appointment to that position; and
 
 &emsp;(B) the Chairman of the Joint Chiefs of Staff may submit to the Secretary of Defense the name of one or more officers (in addition to the officers whose names are submitted pursuant to subparagraph (A)) for consideration by the Secretary for recommendation to the President for appointment to that position.
 
@@ -33,8 +33,4 @@ Covered Positions.—Subsection (a) applies to the following positions:
 1999—Subsec. (c). Pub. L. 106–65 substituted “September 30, 2003” for “September 30, 2000”.
 
 1996—Subsec. (c). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 525 of this title.
 

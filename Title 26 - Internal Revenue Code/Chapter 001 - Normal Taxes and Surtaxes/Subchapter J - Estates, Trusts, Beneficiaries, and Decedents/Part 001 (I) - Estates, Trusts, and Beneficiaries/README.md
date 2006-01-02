@@ -11,10 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 59, 67, 543, 553 of this title.
-
 
 ---
 

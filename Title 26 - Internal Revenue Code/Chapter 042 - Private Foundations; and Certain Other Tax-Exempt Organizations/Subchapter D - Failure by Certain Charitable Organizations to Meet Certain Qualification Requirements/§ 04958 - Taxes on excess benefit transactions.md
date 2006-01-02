@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) Authority to include certain other private inurement
 
-&emsp;To the extent provided in regulations prescribed by the Secretary, the term “excess benefit transaction” includes any transaction in which the amount of any economic benefit provided to or for the use of a disqualified person is determined in whole or in part by the revenues of 1 or more activities of the organization but only if such transaction results in inurement not permitted under paragraph (3) or (4) of section 501(c), as the case may be. In the case of any such transaction, the excess benefit shall be the amount of the inurement not so permitted.
+&emsp;To the extent provided in regulations prescribed by the Secretary, the term “excess benefit transaction” includes any transaction in which the amount of any economic benefit provided to or for the use of a disqualified person is determined in whole or in part by the revenues of 1 or more activities of the organization but only if such transaction results ininurement not permitted under paragraph (3) or (4) of section 501(c), as the case may be. In the case of any such transaction, the excess benefit shall be the amount of the inurement not so permitted.
 
 #### (d) Special rules
 
@@ -109,8 +109,4 @@ For purposes of this section—
 #### Effective Date
 
 Section applicable to excess benefit transactions occurring on or after Sept. 14, 1995, and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as an Effective Date of 1996 Amendment note under section 4955 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4955, 4963, 6033, 6213, 7422, 7454 of this title; title 47 section 396.
 

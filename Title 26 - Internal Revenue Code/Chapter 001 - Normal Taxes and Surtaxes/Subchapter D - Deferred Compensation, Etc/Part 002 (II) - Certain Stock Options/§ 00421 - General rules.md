@@ -12,13 +12,13 @@ If a share of stock is transferred to an individual in a transfer in respect of 
 
 #### (b) Effect of disqualifying disposition
 
-If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treated as an increase in income or a deduction from income in the taxable year of such individual or of such employer corporation in which such disposition occurred.
+If the transfer of a share of stock to an individual pursuant to his exercise of an option would otherwise meet the requirements of section 422(a) or 423(a) except that there is a failure to meet any of the holding period requirements of section 422(a)(1) or 423(a)(1), then any increase in the income of such individual or deduction from the income of his employer corporation for the taxable year in which such exercise occurred attributable to such disposition, shall be treated as an increase in income or a deduction from income in the taxable year of such individual or of such employer corporation in which such disposition occurred. No amount shall be required to be deducted and withheld under chapter 24 with respect to any increase in income attributable to a disposition described in the preceding sentence.
 
 #### (c) Exercise by estate
 
 #### (1) In general
 
-&emsp;If an option to which this part applies is exercised after the death of the employee by the estate of the decedent, or by a person who acquired the right to exercise such option by bequest or inheritance or by reason of the death of the decedent, the provisions of subsection (a) shall apply to the same extent as if the option had been exercised by the decedent, except that—
+&emsp;If an option to which this part applies is exercised after the death of the employee by theestate of the decedent, or by a person who acquired the right to exercise such option by bequest or inheritance or by reason of the death of the decedent, the provisions of subsection (a) shall apply to the same extent as if the option had been exercised by the decedent, except that—
 
 &emsp;&emsp;(A) the holding period and employment requirements of sections 422(a) and 423(a) shall not apply, and
 
@@ -36,9 +36,23 @@ If the transfer of a share of stock to an individual pursuant to his exercise of
 
 &emsp;&emsp;(B) the last sentence of section 423(c) shall apply only to the extent that the amount includible in gross income under such section exceeds so much of the basis of the option as is attributable to such share.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 142; Pub. L. 85–320, §1, Feb. 11, 1958, 72 Stat. 4; Pub. L. 85–866, title I, §§25, 26(a), Sept. 2, 1958, 72 Stat. 1623, 1624; Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 63; Pub. L. 97–34, title II, §251(b)(1), Aug. 13, 1981, 95 Stat. 259; Pub. L. 101–508, title XI, §11801(c)(9)(B), Nov. 5, 1990, 104 Stat. 1388–524.)
+#### (d) Certain sales to comply with conflict-of-interest requirements
+
+If—
+
+&emsp;(1) a share of stock is transferred to an eligible person (as defined in section 1043(b)(1)) pursuant to such person's exercise of an option to which this part applies, and
+
+&emsp;(2) such share is disposed of by such person pursuant to a certificate of divestiture (as defined in section 1043(b)(2)),
+
+> such disposition shall be treated as meeting the requirements of section 422(a)(1) or 423(a)(1), whichever is applicable.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 142; Pub. L. 85–320, §1, Feb. 11, 1958, 72 Stat. 4; Pub. L. 85–866, title I, §§25, 26(a), Sept. 2, 1958, 72 Stat. 1623, 1624; Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 63; Pub. L. 97–34, title II, §251(b)(1), Aug. 13, 1981, 95 Stat. 259; Pub. L. 101–508, title XI, §11801(c)(9)(B), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 108–357, title II, §251(b), title VIII, §905(a), Oct. 22, 2004, 118 Stat. 1458, 1653.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–357, §251(b), inserted at end “No amount shall be required to be deducted and withheld under chapter 24 with respect to any increase in income attributable to a disposition described in the preceding sentence.”
+
+Subsec. (d). Pub. L. 108–357, §905(a), added subsec. (d).
 
 1990—Subsec. (a). Pub. L. 101–508, §11801(c)(9)(B)(i)(I), substituted “422(a) or 423(a)” for “422(a), 422A(a), 423(a), or 424(a)” in introductory provisions.
 
@@ -68,6 +82,12 @@ Subsec. (d)(1)(A)(ii). Pub. L. 85–866, §26(a)(1), substituted “in the case 
 
 Subsec. (d)(7). Pub. L. 85–866, §26(a)(2), added par. (7).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §251(d), Oct. 22, 2004, 118 Stat. 1459, provided that: “The amendments made by this section \[amending this section, sections 423, 3121, 3231, and 3306 of this title, and section 409 of Title 42, The Public Health and Welfare\] shall apply to stock acquired pursuant to options exercised after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title VIII, §905(b), Oct. 22, 2004, 118 Stat. 1653, provided that: “The amendment made bythis section \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercised on or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
@@ -96,9 +116,5 @@ Section 3 of Pub. L. 85–320 provided that: “The amendments made by this Act 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 83, 422, 423, 691 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

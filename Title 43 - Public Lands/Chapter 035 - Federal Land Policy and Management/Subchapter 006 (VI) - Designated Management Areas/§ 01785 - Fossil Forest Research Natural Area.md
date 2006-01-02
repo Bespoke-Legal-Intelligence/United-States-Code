@@ -36,7 +36,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (A) Withdrawal
 
-&emsp;&emsp;Subject to valid existing rights, the lands within the Area are withdrawn from all forms of appropriation under the mining laws and from disposition under all laws pertaining to mineral leasing, geothermal leasing, and mineral material sales.
+&emsp;&emsp;Subject to valid existing rights, the lands within the Area are withdrawn from all forms of appropriation under the mininglaws and from disposition under all laws pertaining to mineral leasing, geothermal leasing, and mineral material sales.
 
 #### (B) Coal preference rights
 

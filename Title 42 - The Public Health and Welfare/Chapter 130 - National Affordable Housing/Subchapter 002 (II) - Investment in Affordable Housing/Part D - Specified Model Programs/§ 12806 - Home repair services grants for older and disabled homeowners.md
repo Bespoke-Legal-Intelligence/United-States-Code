@@ -20,7 +20,7 @@ Guidelines for the model program shall require that—
 
 &emsp;(1) assisted dwelling units be the primary residence of the homeowner for whom services are provided;
 
-&emsp;(2) preferences be provided for (A) very low-income families, and (B) individuals with intense need characterized by noneconomic factors such as physical and mental disabilities, language barriers, and cultural, social, or geographical isolation caused by racial or ethnicstatus that restricts the ability of an individual to perform normal daily tasks or that threatens the capacity of the individual to live independently;
+&emsp;(2) preferences be provided for (A) very low-income families, and (B) individuals with intense need characterized by noneconomic factors such as physical and mental disabilities, language barriers, and cultural, social, or geographical isolation caused by racial or ethnic status that restricts the ability of an individual to perform normal daily tasks or that threatens the capacity of the individual to live independently;
 
 &emsp;(3) any fees charged be based on the income of the individual receiving the home repair services.
 

@@ -72,7 +72,7 @@
 
 #### (3) Amount
 
-&emsp;The Director shall establish for each year the amount to be awarded for scholarshipsunder this section for that year, which shall be not less than $7,500 per year, except that no individual shall receive for any year more than the cost of attendance at that individual's institution. Individuals may receive a maximum of 2 years of scholarship support.
+&emsp;The Director shall establish for each year the amount to be awarded for scholarships under this section for that year, which shall be not less than $7,500 per year, except that no individual shall receive for any year more than the cost of attendance at that individual's institution. Individuals may receive a maximum of 2 years of scholarship support.
 
 #### (4) Service obligation
 
@@ -148,7 +148,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 > &emsp;multiplied by 2.
 
-&emsp;(B) If a circumstance described in paragraph (1)(D) or (E) occurs after the completion of one year of a service obligation under this section, the United States shall be entitled to recover from the individual, within one year after the date of the occurrence of such circumstance, an amount equal to the total amount of awards received by such individual under this section minus 1/2 of the amount of the award received per year for each full year of service completed, plus the interest on such amounts which would be payable if at the time theamounts were received they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
+&emsp;(B) If a circumstance described in paragraph (1)(D) or (E) occurs after the completion of one year of a service obligation under this section, the United States shall be entitled to recover from the individual, within one year after the date of the occurrence of such circumstance, an amount equal to the total amount of awards received by such individual under this section minus 1/2 of the amount of the award received per year for each full year of service completed, plus the interest on such amounts which would be payable if at the time the amounts were received they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
 
 #### (3) Exceptions
 

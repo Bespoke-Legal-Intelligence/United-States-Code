@@ -6,11 +6,19 @@
 
 &emsp;(2) provide that an employee whose rate of basic pay is in excess of the maximum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) shall be granted compensatory time off from his scheduled tour of duty equal to the amount of time spent in irregular or occasional overtime work instead of being paid for that work under section 5542 of this title.
 
-(b) The head of an agency may, on request of an employee, grant the employee compensatory time off from the employee's scheduled tour of duty instead of payment under section 5544 or section 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work. An agency head may not require an employee to be compensated for overtime work with an equivalent amount of compensatory time-off from the employee's tour of duty.
+(b) The head of an agency may, on request of an employee, grant the employee compensatory time off from the employee's scheduled tour of duty instead of payment under section 5544 orsection 7 of the Fair Labor Standards Act of 1938 for an equal amount of time spent in irregular or occasional overtime work. An agency head may not require an employee to be compensated for overtime work with an equivalent amount of compensatory time-off from the employee's tour of duty.
 
 (c) The Architect of the Capitol may grant an employee paid on an annual basis compensatory time off from duty instead of overtime pay for overtime work.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(25), Sept. 11, 1967, 81 Stat. 200; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(2)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460; Pub. L. 104–201, div. A, title XVI, §1610(a), Sept. 23, 1996, 110 Stat. 2738.)
+(d)(1) The appropriate Secretary may, on request of an employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c), grant such employee compensatory time off from duty instead of overtime pay for overtime work.
+
+(2) For purposes of this subsection, the term “appropriate Secretary” means—
+
+&emsp;(A) with respect to an employee of a nonappropriated fund instrumentality of the Department of Defense, the Secretary of Defense; and
+
+&emsp;(B) with respect to an employee of a nonappropriated fund instrumentality of the Coast Guard, the Secretary of the Executive department in which it is operating.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(25), Sept. 11, 1967, 81 Stat. 200; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(2)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460; Pub. L. 104–201, div. A, title XVI, §1610(a), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 109–163, div. A, title VI, §674, Jan. 6, 2006, 119 Stat. 3319.)
 
 Historical and Revision Notes<br>1966
 
@@ -65,6 +73,8 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsecs. (a)(1
 GS–10, referred to in subsec. (a)(2), is contained in the General Schedule which is set out under section 5332 of this title.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–163 added subsec. (d).
 
 1996—Subsecs. (b), (c). Pub. L. 104–201 added subsec. (b) and redesignated former subsec. (b) as (c).
 

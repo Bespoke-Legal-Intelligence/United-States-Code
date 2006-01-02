@@ -34,7 +34,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (5) Personal property subject to possessory lien
 
-&emsp;With respect to tangible personal property subject to a lien under local law securing the reasonable price of the repair or improvementof such property, as against a holder of such a lien, if such holder is, and has been, continuously in possession of such property from the time such lien arose.
+&emsp;With respect to tangible personal property subject to a lien under local law securing the reasonable price of the repair or improvement of such property, as against a holder of such a lien, if such holder is, and has been, continuously in possession of such property from the time such lien arose.
 
 #### (6) Real property tax and special assessment liens
 
@@ -192,7 +192,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 #### (i) Real property
 
-&emsp;&emsp;&emsp;In the case of real property, in one office within the State (or the county, or othergovernmental subdivision), as designated by the laws of such State, in which the property subject to the lien is situated; and
+&emsp;&emsp;&emsp;In the case of real property, in one office within the State (or the county, or other governmental subdivision), as designated by the laws of such State, in which the property subject to the lien is situated; and
 
 #### (ii) Personal property
 
@@ -204,7 +204,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 #### (C) With Recorder of Deeds of the District of Columbia
 
-&emsp;&emsp;In the office of the Recorder of Deeds of the District of Columbia, if the property subject to the lien is situated in the District of Columbia.
+&emsp;&emsp;In the office of the Recorder of Deeds of the District of Columbia, if the propertysubject to the lien is situated in the District of Columbia.
 
 #### (2) Situs of property subject to lien
 
@@ -276,7 +276,7 @@ For purposes of this section and section 6324—
 
 #### (1) Security interest
 
-&emsp;The term “security interest” means any interest in property acquired by contract for thepurpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
+&emsp;The term “security interest” means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
 
 #### (2) Mechanic's lienor
 
@@ -284,7 +284,7 @@ For purposes of this section and section 6324—
 
 #### (3) Motor vehicle
 
-&emsp;The term “motor vehicle” means a self-propelled vehicle which is registered for highway use under the laws of any State or foreign country.
+&emsp;The term “motor vehicle” means a self-propelled vehicle which is registered for highwayuse under the laws of any State or foreign country.
 
 #### (4) Security
 
@@ -344,7 +344,7 @@ For purposes of this section and section 6324—
 
 &emsp;&emsp;(C) the withdrawal of such notice will facilitate the collection of the tax liability, or
 
-&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawalof such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
+&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawal of such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
 
 > &emsp;Any such withdrawal shall be made by filing notice at the same office as the withdrawn notice. A copy of such notice of withdrawal shall be provided to the taxpayer.
 
@@ -352,11 +352,11 @@ For purposes of this section and section 6324—
 
 &emsp;Upon written request by the taxpayer with respect to whom a notice of a lien was withdrawn under paragraph (1), the Secretary shall promptly make reasonable efforts to notify credit reporting agencies, and any financial institution or creditor whose name and address is specified in such request, of the withdrawal of such notice. Any such request shall be in such form as the Secretary may prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX,§2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
 
-#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2004
+#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2006
 
-<i>For adjustment of applicable dollar amounts under subsection (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2004, see section 3.30 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of applicable dollar amounts under subsection (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2006, see section 3.33 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -450,7 +450,7 @@ Section 11317(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 &emsp;“(1) taxes assessed after the date of the enactment of this Act \[Nov. 5, 1990\], and
 
-&emsp;“(2) taxes assessed on or before such date if the period specified in section 6502 of the Internal Revenue Code of 1986 (determined without regard to the amendments made by subsection (a) \[amending section 6502 of this title\]) for collection of such taxes has not expired as of such date.”
+&emsp;“(2) taxes assessed on or before such date if the period specified in section 6502 of the Internal RevenueCode of 1986 (determined without regard to the amendments made by subsection (a) \[amending section 6502 of this title\]) for collection of such taxes has not expired as of such date.”
 
 #### Effective Date of 1988 Amendment
 
@@ -513,8 +513,4 @@ Section 21 of Pub. L. 89–493 provided that: “This Act \[amending this sectio
 #### Effective Date of 1964 Amendment
 
 Section 236(d) of Pub. L. 88–272 provided that: “The amendments made by this section \[amending this section and section 6324 of this title\] shall apply only with respect to purchases made after the date of the enactment of this Act \[Feb. 26, 1964.\]”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4101, 6320, 6324, 6324A, 6325, 6332 of this title; title 11 section 724; title 18 section 3613; title 30 section 934; title 42 section 9607.
 

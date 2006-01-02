@@ -16,13 +16,13 @@
 
 #### (c) Use of proceeds
 
-(1) The Secretary may use not more than 15 percent of the revenues derived from the sale ofnational park passports (including stamps) to administer and promote the national park passport program and the National Park System.
+(1) The Secretary may use not more than 15 percent of the revenues derived from the sale of national park passports (including stamps) to administer and promote the national park passport program and the National Park System.
 
 (2) Net proceeds from the sale of national park passports shall be deposited in a special account in the Treasury of the United States and shall remain available until expended, without further appropriation, for high priority visitor service or resource management projects throughout the National Park System.
 
 #### (d) Agreements
 
-The Secretary may enter into cooperative agreements with the National Park Foundation and other interested parties to provide for the development and implementation of the national park passport program and the Secretary shall take such actions as are appropriate to actively market national park passports and stamps.
+The Secretary may enter into cooperative agreements with the National Park Foundationand other interested parties to provide for the development and implementation of the national park passport program and the Secretary shall take such actions as are appropriate to actively market national park passports and stamps.
 
 #### (e) Fee
 

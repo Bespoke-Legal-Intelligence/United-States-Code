@@ -8,7 +8,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (1) In general
 
-&emsp;The Secretary shall establish under this subsection a prospective payment system for payment for all costs of home health services. Under the system under this subsection all services covered and paid on a reasonable cost basis under the medicare home health benefitas of August 5, 1997, including medical supplies, shall be paid for on the basis of a prospective payment amount determined under this subsection and applicable to the services involved. In implementing the system, the Secretary may provide for a transition (of not longer than 4 years) during which a portion of such payment is based on agency-specific costs, but only if such transition does not result in aggregate payments under this subchapter that exceed the aggregate payments that would be made if such a transition did not occur.
+&emsp;The Secretary shall establish under this subsection a prospective payment system for payment for all costs of home health services. Under the system under this subsection all services covered and paid on a reasonable cost basis under the medicare home health benefit as of August 5, 1997, including medical supplies, shall be paid for on the basis of a prospective payment amount determined under this subsection and applicable to the services involved. In implementing the system, the Secretary may provide for a transition (of not longer than 4 years) during which a portion of such payment is based on agency-specific costs, but only if such transition does not result in aggregate payments under this subchapter that exceed the aggregate payments that would be made if such a transition did not occur.
 
 #### (2) Unit of payment
 
@@ -58,7 +58,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (iv) Adjustment for case mix changes
 
-&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of differentunits of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
+&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year or year (or estimates that such adjustments for a future fiscal year or year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year or year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years or years so as to eliminate the effect of such coding or classification changes.
 
 #### (C) Adjustment for outliers
 
@@ -88,7 +88,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (5) Outliers
 
-&emsp;The Secretary may provide for an addition or adjustment to the payment amount otherwise made in the case of outliers because of unusual variations in the type or amount of medically necessary care. The total amount of the additional payments or payment adjustments made under this paragraph with respect to a fiscal year or year may not exceed 5 percent of the total payments projected or estimated to be made based on the prospective payment system under this subsection in that year.
+&emsp;The Secretary may provide for an addition or adjustment to the payment amount otherwise made in the case of outliers because of unusual variations in the type or amount of medically necessary care. The total amount of the additional payments or payment adjustments made under this paragraph with respect to a fiscal year or year may not exceed 5 percent of the total payments projected or estimated to be made based on the prospectivepayment system under this subsection in that year.
 
 #### (6) Proration of prospective payment amounts
 
@@ -130,7 +130,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 #### (2) Physician certification
 
-&emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+&emsp;Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§302(b), 303(b), 306, 321(k)(19)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title V, §§501(a), (c)(1), 504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334.)
 
@@ -258,7 +258,7 @@ Preference in Selecting Agencies.—In selecting home health agencies to partici
 
 “(g)
 
-Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social Security Act \[this subchapter\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
+Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social SecurityAct \[this subchapter\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
 
 “(h)
 
@@ -312,7 +312,7 @@ Pub. L. 108–173, title VII, §704, Dec. 8, 2003, 117 Stat. 2338, provided that
 
 “(a)
 
-In General.—During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 467) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] (such information inthis section referred to as ‘non-medicare/medicaid OASIS information’).
+In General.—During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 467) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] (such information in this section referred to as ‘non-medicare/medicaid OASIS information’).
 
 “(b)
 

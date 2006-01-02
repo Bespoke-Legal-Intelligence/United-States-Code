@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the term “qualified small business stock” means any stock in a C corporation which is originally issued after the date of the enactment of the Revenue Reconciliation Act of 1993, if—
+&emsp;Except as otherwise provided in this section, the term “qualified small business stock”means any stock in a C corporation which is originally issued after the date of the enactment of the Revenue Reconciliation Act of 1993, if—
 
 &emsp;&emsp;(A) as of the date of issuance, such corporation is a qualified small business, and
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;All corporations which are members of the same parent-subsidiary controlled groupshall be treated as 1 corporation for purposes of this subsection.
+&emsp;&emsp;All corporations which are members of the same parent-subsidiary controlled group shall be treated as 1 corporation for purposes of this subsection.
 
 #### (B) Parent-subsidiary controlled group
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (c)(2), the requirements of this subsection are met by a corporation for any period if during such period—
+&emsp;For purposes of subsection (c)(2), the requirements of this subsection are met by acorporation for any period if during such period—
 
 &emsp;&emsp;(A) at least 80 percent (by value) of the assets of such corporation are used by such corporation in the active conduct of 1 or more qualified trades or businesses, and
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a corporation with respect to which an election under section 936 is in effect or which has a direct or indirect subsidiary with respect to which such an election is in effect,
 
-&emsp;&emsp;(C) a regulated investment company, real estate investment trust, REMIC, or FASIT, and
+&emsp;&emsp;(C) a regulated investment company, real estate investment trust, or REMIC, and
 
 &emsp;&emsp;(D) a cooperative.
 
@@ -302,7 +302,7 @@ For purposes of this section—
 
 #### (D) Control test
 
-&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply onlyif, immediately after the transaction, the corporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
+&emsp;&emsp;In the case of a transaction described in section 351, this paragraph shall apply only if, immediately after the transaction, the corporation issuing the stock owns directly or indirectly stock representing control (within the meaning of section 368(c)) of the corporation whose stock was exchanged.
 
 #### (i) Basis rules
 
@@ -346,7 +346,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604.)
+(Added Pub. L. 103–66, title XIII, §13113(a), Aug. 10, 1993, 107 Stat. 422; amended Pub. L. 104–188, title I, §1621(b)(7), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 106–554, §1(a)(7) \[title I, §117(a), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 108–357, title VIII, §835(b)(9), Oct. 22, 2004, 118 Stat. 1594.)
 
 #### References in Text
 
@@ -362,11 +362,17 @@ A prior section 1202, acts Aug. 16, 1954, ch. 736, 68A Stat. 320; Oct. 4, 1976, 
 
 #### Amendments
 
+2004—Subsec. (e)(4)(C). Pub. L. 108–357 substituted “or REMIC” for “REMIC, or FASIT”.
+
 2000—Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(2)\], substituted “Partial” for “50-percent” in section catchline.
 
 Subsec. (a). Pub. L. 106–554, §1(a)(7) \[title I, §117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.”
 
 1996—Subsec. (e)(4)(C). Pub. L. 104–188 substituted “REMIC, or FASIT” for “or REMIC”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -379,8 +385,4 @@ Amendment by Pub. L. 104–188 effective Sept. 1, 1997, see section 1621(d) of P
 #### Effective Date
 
 Section applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 53 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 45D, 57, 172, 642, 643, 691, 871, 1044, 1045, 1223, 1397B, 1400B, 1400F, 6652 of this title.
 

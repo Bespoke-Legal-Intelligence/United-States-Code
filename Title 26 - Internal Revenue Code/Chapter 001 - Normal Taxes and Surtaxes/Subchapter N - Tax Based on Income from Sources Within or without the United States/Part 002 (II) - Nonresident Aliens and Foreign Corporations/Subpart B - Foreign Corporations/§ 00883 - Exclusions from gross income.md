@@ -18,7 +18,7 @@ The following items shall not be included in gross income of a foreign corporati
 
 #### (4) Special rules
 
-&emsp;The rules of paragraphs (5), (6), and (7) of section 872(b) shall apply for purposes of this subsection.
+&emsp;The rules of paragraphs (6), (7), and (8) of section 872(b) shall apply for purposes of this subsection.
 
 #### (5) Special rule for countries which tax on residence basis
 
@@ -50,15 +50,17 @@ The earnings derived from the ownership or operation of a communications satelli
 
 #### (4) Stock ownership through entities
 
-&emsp;For purposes of paragraph (1), stock owned (directly or indirectly) by or for a corporation, partnership, trust, or estate shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, forpurposes of applying such sentence, be treated as actually owned by such person.
+&emsp;For purposes of paragraph (1), stock owned (directly or indirectly) by or for a corporation, partnership, trust, or estate shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 283; Pub. L. 90–622, §1(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–164, §6(a), Dec. 23, 1975, 89 Stat. 975; Pub. L. 99–514, title XII, §1212(c)(3)–(5), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(1), (2)(A), (5), Nov. 10, 1988, 102 Stat. 3499, 3500; Pub. L. 101–239, title VII, §7811(i)(8)(D), (10), Dec. 19, 1989, 103 Stat. 2411.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 283; Pub. L. 90–622, §1(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–164, §6(a), Dec. 23, 1975, 89 Stat. 975; Pub. L. 99–514, title XII, §1212(c)(3)–(5), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(1), (2)(A), (5), Nov. 10, 1988, 102 Stat. 3499, 3500; Pub. L. 101–239, title VII, §7811(i)(8)(D), (10), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §419(b), Oct. 22, 2004, 118 Stat. 1513.)
 
 #### References in Text
 
 The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§701 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 47 and Tables.
 
 #### Amendments
+
+2004—Subsec. (a)(4). Pub. L. 108–357 substituted “(6), (7), and (8)” for “(5), (6), and (7)”.
 
 1989—Subsec. (a)(4). Pub. L. 101–239, §7811(i)(8)(D), substituted “(5), (6), and (7)” for “(5) and (6)”.
 
@@ -86,6 +88,10 @@ Subsec. (c). Pub. L. 99–514, §1212(c)(5), added subsec. (c).
 
 1968—Pub. L. 90–622 designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to wagers made after Oct. 22, 2004, see section 419(c) of Pub. L. 108–357, set out as a note under section 872 of this title.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
@@ -109,8 +115,4 @@ Section 1(b) of Pub. L. 90–622 provided that: “The amendment made by subsect
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For nonapplication of amendment by section 1212(c)(3)–(5) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 884, 887, 953 of this title.
 

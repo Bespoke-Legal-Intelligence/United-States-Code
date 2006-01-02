@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(H) the National Naval Volunteers;
 
-&emsp;&emsp;(I) the Naval Reserve Force;
+&emsp;&emsp;(I) the Navy Reserve Force;
 
 &emsp;&emsp;(J) the Army without specification of component;
 
@@ -68,7 +68,7 @@
 
 (f) Notwithstanding subsection (a), the periods of service of a commissioned officer appointed under section 12203 of title 10 after receiving financial assistance under section 16401 of such title that are counted under this section may not include a period of service after January 1, 2000, that the officer performed concurrently as an enlisted member of the Marine Corps Platoon Leaders Class program and the Marine Corps Reserve, except that service after that date that the officer performed before commissioning (concurrently with the period of service as a member of the Marine Corps Platoon Leaders Class program) as an enlisted member on active duty or as a member of the Selected Reserve may be so counted.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 458; Pub. L. 88–647, title II, §202(1), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §49(a)(1), (b), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–545, §2, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–342, title VIII, §813(b)(3)(D), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title IV, §402, title V, §516(3), Dec. 12, 1980, 94 Stat. 2904, 2937; Pub. L. 98–525, title VI, §607(a), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 101–189, div. A, title V, §501(c), Nov. 29, 1989, 103 Stat. 1435; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title V, §517(b), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 103–35, title II, §204(a)(1), May 31, 1993, 107 Stat. 102; Pub. L. 103–337, div. A, title XVI, §1676(b)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title V, §507(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 105–85, div. A, title X, §1073(b), Nov. 18, 1997, 111Stat. 1904; Pub. L. 106–65, div. A, title V, §551(c), Oct. 5, 1999, 113 Stat. 614; Pub. L. 106–398, §1 \[\[div. A\], title V, §533(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–111.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 458; Pub. L. 88–647, title II, §202(1), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, §49(a)(1), (b), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–545, §2, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–342, title VIII, §813(b)(3)(D), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title IV, §402, title V, §516(3), Dec. 12, 1980, 94 Stat. 2904, 2937; Pub. L. 98–525, title VI, §607(a), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 101–189, div. A, title V, §501(c), Nov. 29, 1989, 103 Stat. 1435; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title V, §517(b), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 103–35, title II, §204(a)(1), May 31, 1993, 107 Stat. 102; Pub. L. 103–337, div. A, title XVI, §1676(b)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title V, §507(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 105–85, div. A, title X, §1073(b), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §551(c), Oct. 5, 1999, 113 Stat. 614; Pub. L. 106–398, §1 \[\[div. A\], title V, §533(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–111; Pub. L. 109–163, div. A, title V, §515(d)(1)(C), Jan. 6, 2006, 119 Stat. 3236.)
 
 Historical and Revision Notes
 
@@ -107,6 +107,8 @@ In subsection (b), the first 33 words of section 233(d) of existing title 37 are
 In subsection (c)(3), the words “chapter 67 of title 10” are substituted for the words “title III of the Army and Air Force Vitalization and Retirement Equalization Act of 1948,” since that title was repealed by section 53 of the Act of August 10, 1956, ch. 1041 (70A Stat. 641), and is now codified as chapter 67 of title 10 by section 1 of that Act.
 
 #### Amendments
+
+2006—Subsec. (a)(2)(I). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2000—Subsec. (f). Pub. L. 106–398 substituted “that the officer performed concurrently as an enlisted member” for “that the officer performed concurrently as a member” and “section 12203” for “section 12209”.
 
@@ -171,6 +173,18 @@ Amendment by section 516(3) of Pub. L. 96–513 effective Dec. 12, 1980, see sec
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### Inclusion of Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff Among Senior Enlisted Members of the Armed Forces
+
+Pub. L. 109–163, div. A, title VI, §685(a), Jan. 6, 2006, 119 Stat. 3325, provided that:
+
+“(1)
+
+Equal treatment.—The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
+
+“(2)
+
+Effective date.—Paragraph (1) shall apply beginning on the date on which an enlisted member of the Armed Forces is first appointed to serve as Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff.”
 
 #### Transition Provision
 

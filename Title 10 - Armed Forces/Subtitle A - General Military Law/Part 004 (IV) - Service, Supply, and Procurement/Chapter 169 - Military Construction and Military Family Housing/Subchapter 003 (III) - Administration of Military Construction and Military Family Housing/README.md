@@ -4,14 +4,14 @@
 | :--- | ---: |
 | [2851\.](%C2%A7%2002851%20-%20Supervision%20of%20military%20construction%20projects.md) | Supervision of military construction projects. |
 | [2852\.](%C2%A7%2002852%20-%20Military%20construction%20projects%20waiver%20of%20certain%20restrictions.md) | Military construction projects: waiver of certain restrictions. |
-| [2853\.](%C2%A7%2002853%20-%20Authorized%20cost%20variations.md) | Authorized cost variations. |
+| [2853\.](%C2%A7%2002853%20-%20Authorized%20cost%20and%20scope%20of%20work%20variations.md) | Authorized cost and scope of work variations. |
 | [2854\.](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md) | Restoration or replacement of damaged or destroyed facilities. |
 | [2854a.](%C2%A7%2002854a%20-%20Conveyance%20of%20damaged%20or%20deteriorated%20military%20family%20housing%3B%20use%20of%20proceeds.md) | Conveyance of damaged or deteriorated military family housing; use of proceeds. |
 | [2855\.](%C2%A7%2002855%20-%20Law%20applicable%20to%20contracts%20for%20architectural%20and%20engineering%20services%20and%20construction%20design.md) | Law applicable to contracts for architectural and engineering services and construction design. |
 | [2856\.](%C2%A7%2002856%20-%20Limitations%20on%20barracks%20space%20by%20pay%20grade.md) | Limitations on barracks space by pay grade. |
 | [2857\.](%C2%A7%2002857%20-%20Use%20of%20renewable%20forms%20of%20energy%20in%20new%20facilities.md) | Use of renewable forms of energy in new facilities. |
 | [2858\.](%C2%A7%2002858%20-%20Limitation%20on%20the%20use%20of%20funds%20for%20expediting%20a%20construction%20project.md) | Limitation on the use of funds for expediting a construction project. |
-| \[2859. | Repealed.\] |
+| [2859\.](%C2%A7%2002859%20-%20Construction%20requirements%20related%20to%20antiterrorism%20and%20force%20protection.md) | Construction requirements related to antiterrorism and force protection. |
 | [2860\.](%C2%A7%2002860%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
 | \[2861. | Repealed.\] |
 | [2862\.](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md) | Turn-key selection procedures. |
@@ -26,6 +26,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. B, title XXVIII, §2804(c)(2), Jan. 6, 2006, 119 Stat. 3507, substituted “Authorized cost and scope of work variations” for “Authorized cost variations” in item 2853.
+
+Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 2122, added item 2859.
 
 2003—Pub. L. 108–136, div. A, title X, §1044(b)(2), div. B, title XXVIII, §2805(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1721, struck out item 2859 “Transmission of annual military construction authorization request” and added item 2869.
 
@@ -56,14 +60,14 @@
 
 - [&sect; 02851 - Supervision of military construction projects](%C2%A7%2002851%20-%20Supervision%20of%20military%20construction%20projects.md)
 - [&sect; 02852 - Military construction projects waiver of certain restrictions](%C2%A7%2002852%20-%20Military%20construction%20projects%20waiver%20of%20certain%20restrictions.md)
-- [&sect; 02853 - Authorized cost variations](%C2%A7%2002853%20-%20Authorized%20cost%20variations.md)
+- [&sect; 02853 - Authorized cost and scope of work variations](%C2%A7%2002853%20-%20Authorized%20cost%20and%20scope%20of%20work%20variations.md)
 - [&sect; 02854 - Restoration or replacement of damaged or destroyed facilities](%C2%A7%2002854%20-%20Restoration%20or%20replacement%20of%20damaged%20or%20destroyed%20facilities.md)
 - [&sect; 02854a - Conveyance of damaged or deteriorated military family housing; use of proceeds](%C2%A7%2002854a%20-%20Conveyance%20of%20damaged%20or%20deteriorated%20military%20family%20housing%3B%20use%20of%20proceeds.md)
 - [&sect; 02855 - Law applicable to contracts for architectural and engineering services and construction design](%C2%A7%2002855%20-%20Law%20applicable%20to%20contracts%20for%20architectural%20and%20engineering%20services%20and%20construction%20design.md)
 - [&sect; 02856 - Limitations on barracks space by pay grade](%C2%A7%2002856%20-%20Limitations%20on%20barracks%20space%20by%20pay%20grade.md)
 - [&sect; 02857 - Use of renewable forms of energy in new facilities](%C2%A7%2002857%20-%20Use%20of%20renewable%20forms%20of%20energy%20in%20new%20facilities.md)
 - [&sect; 02858 - Limitation on the use of funds for expediting a construction project](%C2%A7%2002858%20-%20Limitation%20on%20the%20use%20of%20funds%20for%20expediting%20a%20construction%20project.md)
-- [&sect; 02859 - Repealed. Pub. L. 108&#8211;136, div. A, title X, &sect;1044(b)(1), Nov. 24, 2003, 117 Stat. 1612](%C2%A7%2002859%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71044%28b%29%281%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201612.md)
+- [&sect; 02859 - Construction requirements related to antiterrorism and force protection](%C2%A7%2002859%20-%20Construction%20requirements%20related%20to%20antiterrorism%20and%20force%20protection.md)
 - [&sect; 02860 - Availability of appropriations](%C2%A7%2002860%20-%20Availability%20of%20appropriations.md)
 - [&sect; 02861 - Repealed. Pub. L. 107&#8211;107, div. B, title XXVIII, &sect;2803(a), Dec. 28, 2001, 115 Stat. 1305](%C2%A7%2002861%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72803%28a%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201305.md)
 - [&sect; 02862 - Turn-key selection procedures](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md)

@@ -4,7 +4,7 @@
 
 (b) Interest at a rate prescribed by the President, not to exceed 10 percent a year, will accrue on amounts deposited under this section. However, the maximum amount upon which interest may be paid under this subsection to any member is $10,000, except that such limitation shall not apply to deposits made on or after September 1, 1966, in the case of those members in a missing status during the Vietnam conflict, the Persian Gulf conflict, or a contingency operation. Interest under this subsection shall terminate 90 days after the member's return to the United States or its possessions.
 
-(c) Except as provided in joint regulations prescribed by the Secretaries concerned, payments of deposits, and interest thereon, may not be made to the member while he is on duty outside the United States or its possessions.
+(c) Except as provided in joint regulations prescribed by the Secretaries concerned, paymentsof deposits, and interest thereon, may not be made to the member while he is on duty outside the United States or its possessions.
 
 (d) An amount deposited under this section, with interest thereon, is exempt from liability for the member's debts, including any indebtedness to the United States or any instrumentality thereof, and is not subject to forfeiture by sentence of a court-martial.
 
@@ -163,8 +163,4 @@ By virtue of the authority vested in me by Section 1035 of Title 10 of the Unite
 This order shall be effective September 1, 1966.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 3071; title 42 section 213a.
 

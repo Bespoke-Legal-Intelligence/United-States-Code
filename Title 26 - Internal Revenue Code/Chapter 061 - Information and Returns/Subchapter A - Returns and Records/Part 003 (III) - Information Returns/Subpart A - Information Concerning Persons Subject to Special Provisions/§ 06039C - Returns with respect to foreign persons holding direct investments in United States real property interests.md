@@ -50,7 +50,7 @@ For purposes of this section—
 
 A nonresident alien individual or foreign corporation subject to tax under section 897(a) (and any person required to withhold tax under section 1445) shall pay any tax and file any return required by this title—
 
-&emsp;(1) to the United States, in the case of any interest in real property located in the United States and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the United States) described in section 897(c)(1)(A)(ii), and
+&emsp;(1) to the United States, in the case of any interest in real property located in the United States and an interest (other than an interestsolely as a creditor) in a domestic corporation (with respect to the United States) described in section 897(c)(1)(A)(ii), and
 
 &emsp;(2) to the Virgin Islands, in the case of any interest in real property located in the Virgin Islands and an interest (other than an interest solely as a creditor) in a domestic corporation (with respect to the Virgin Islands) described in section 897(c)(1)(A)(ii).
 
@@ -81,8 +81,4 @@ Amendment by Pub. L. 97–34 applicable to dispositions after June 18, 1980, in 
 #### Effective Date
 
 Section applicable to 1980 and subsequent calendar years, with 1980 being treated as beginning on June 19, 1980, and ending on Dec. 31, 1980, see section 1125(b) of Pub. L. 96–499, set out as a note under section 897 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 897, 6652 of this title; title 22 section 3142.
 

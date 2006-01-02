@@ -76,7 +76,7 @@ The Federal Mine Safety and Health Act of 1977, referred to in subsec. (e), is P
 
 1980—Subsec. (e). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
 
-1978—Subsec. (b). Pub. L. 95–488, §1(a), substituted provision limiting the allowable deduction to the greater of the amount necessary to fund the remaining unfunded liability of the taxpayer for the black lung claims filed or expected to be filed by past or present employees of the taxpayer or the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year for provision limiting the allowable deduction to the amount necessary, when added to the fair market value of trust assets at the beginning of the taxable year, to fund the greater of current year obligations or certain future obligations.
+1978—Subsec. (b). Pub. L. 95–488, §1(a), substituted provision limiting the allowable deduction to the greater of the amount necessary to fund the remainingunfunded liability of the taxpayer for the black lung claims filed or expected to be filed by past or present employees of the taxpayer or the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year for provision limiting the allowable deduction to the amount necessary, when added to the fair market value of trust assets at the beginning of the taxable year, to fund the greater of current year obligations or certain future obligations.
 
 Subsec. (c)(1). Pub. L. 95–488, §1(b), substituted “Method of determining amounts referred to in subsection (b)” for “Determination of expected future payments” in heading and in text inserted provisions establishing the funding period as the greater of the average remaining working life of miners who are present employees of the taxpayer or 10 taxable years and permitting a different funding period if prescribed or consented to by the Secretary.
 
@@ -97,8 +97,4 @@ Section 1(e) of Pub. L. 95–488, as amended by Pub. L. 99–514, §2, Oct. 22, 
 #### Effective Date
 
 Section 4(f) of Pub. L. 95–227 provided that: “The amendments made by this section \[enacting this section and sections 4951 to 4953 and amending sections 501, 4946, 6104, 6213, 6405, 6501, 6503, and 7451 of this title\] shall apply with respect to contributions, acts, and expenditures made after December 31, 1977, in and for taxable years beginning after such date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 501, 4952, 4953 of this title.
 

@@ -6,7 +6,7 @@ Election.—A dependent covered by section 1079 of this title may elect to recei
 
 (b)
 
-Issuance of Nonavailability-of-Health-Care Statements.—In determining whether to issue a nonavailability-of-health-care statement for a dependent described in subsection (a), the commanding officer of a facility of the uniformed services may consider the availability of health care services for the dependent pursuant to any contract or agreement entered into under this chapter for the provision of health care services. Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.
+Issuance of Nonavailability-of-Health-Care Statements.—In determining whether to issue a nonavailability-of-health-care statement for a dependent described in subsection (a), the commanding officer of a facility of the uniformed services may consider the availability of health care services for the dependent pursuant to any contract or agreement entered into under this chapter for the provision of health care services. Notwithstanding any other provision oflaw, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.
 
 (c)
 
@@ -55,8 +55,4 @@ Subsec. (c). Pub. L. 104–201, §734(b)(1), added subsec. (c).
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1082, 1086 of this title.
 

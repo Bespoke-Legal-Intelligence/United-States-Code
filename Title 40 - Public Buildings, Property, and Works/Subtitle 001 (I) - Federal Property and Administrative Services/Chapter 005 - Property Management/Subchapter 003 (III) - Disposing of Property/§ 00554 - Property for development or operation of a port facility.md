@@ -6,13 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Base closure law.—The term “base closure law” means the following:
-
-&emsp;&emsp;(A) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
-
-&emsp;&emsp;(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-&emsp;&emsp;(C) Section 2687 of title 10.
+Base closure law.—The term “base closure law” has the meaning given that term in section 101(a)(17) of title 10.
 
 &emsp;(2)
 
@@ -48,15 +42,15 @@ No Monetary Consideration.—A conveyance under this section shall be made witho
 
 Deed of Conveyance.—The deed of conveyance of any surplus real and related personal property disposed of under this section shall—
 
-&emsp;(1) provide that all of the property be used and maintained for the purpose for which itwas conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
+&emsp;(1) provide that all of the property be used and maintained for the purpose for which it was conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
 
 &emsp;(2) contain additional terms, reservations, restrictions, and conditions that the Secretary of Transportation shall by regulation require to ensure use of the property for the purposes for which it was conveyed and to safeguard the interests of the Government.
 
 (f)
 
-Enforcement and Revision of Instruments Transferring Property Under This Section.—The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
+Enforcement and Revision of Instruments Transferring Property Under This Section.—The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, andshall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100; Pub. L. 109–163, div. A, title X, §1056(a)(5)(A), Jan. 6, 2006, 119 Stat. 3439.)
 
 Historical and Revision Notes
 
@@ -75,4 +69,14 @@ Historical and Revision Notes
 June 30, 1949, ch. 288, title II, §203(q), as added Pub. L. 103–160, div. B, title XXIX, §2927(2), Nov. 30, 1993, 107 Stat. 1933.
 
 In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands, Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163 substituted “has the meaning given that term in section 101(a)(17) of title 10.” for “means the following:
+
+&emsp;“(A) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+&emsp;“(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;“(C) Section 2687 of title 10.”
 

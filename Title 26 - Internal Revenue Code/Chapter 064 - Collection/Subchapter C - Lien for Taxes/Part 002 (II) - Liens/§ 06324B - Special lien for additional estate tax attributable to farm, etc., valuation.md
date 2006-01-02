@@ -48,7 +48,3 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 Amendment by Pub. L. 95–600 applicable to estates of decedents dying after Dec. 31, 1976, see section 702(r)(5) of Pub. L. 95–600, set out as a note under section 2051 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2032A, 2057, 6324A, 6325 of this title.
-

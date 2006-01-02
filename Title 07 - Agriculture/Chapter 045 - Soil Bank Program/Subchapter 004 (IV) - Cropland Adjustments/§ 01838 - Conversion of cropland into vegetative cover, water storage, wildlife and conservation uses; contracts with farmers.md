@@ -34,11 +34,11 @@ In carrying out the program, the Secretary shall utilize the services of local, 
 
 #### (i) Transfer of funds
 
-For the purpose of obtaining an increase in the permanent retirement of cropland to noncrop uses the Secretary may, notwithstanding anyother provision of law, transfer funds available for carrying out the program to any other Federal agency or to States or local government agencies for use in acquiring cropland for the preservation of open spaces, natural beauty, the development of wildlife or recreational facilities, or the prevention of air or water pollution under terms and conditions consistent with and at costs not greater than those under agreements entered into with producers, provided the Secretary determines that the purposes of the program will be accomplished by such action.
+For the purpose of obtaining an increase in the permanent retirement of cropland to noncrop uses the Secretary may, notwithstanding any other provision of law, transfer funds available for carrying out the program to any other Federal agency or to States or local government agencies for use in acquiring cropland for the preservation of open spaces, natural beauty, the development of wildlife or recreational facilities, or the prevention of air or water pollution under terms and conditions consistent with and at costs not greater than those under agreements entered into with producers, provided the Secretary determines that the purposes of the program will be accomplished by such action.
 
 #### (j) Conservation of open spaces, natural beauty, and recreational resources, and prevention of pollution
 
-The Secretary also is authorized to share the cost with State and local governmental agencies in the establishment of practices or uses which will establish, protect, and conserve open spaces, natural beauty, wildlife or recreational resources, or prevent air or water pollution under terms and conditions and at costs consistent with those under agreements entered into with producers, provided the Secretary determines that the purposes of the program will be accomplished by such action.
+The Secretary also is authorized to share the cost with State and local governmental agencies in the establishment of practices or uses which will establish, protect, and conserve open spaces, natural beauty, wildlife or recreational resources, or prevent air or water pollutionunder terms and conditions and at costs consistent with those under agreements entered into with producers, provided the Secretary determines that the purposes of the program will be accomplished by such action.
 
 #### (k) Limitation on payments during any calendar year
 
@@ -88,5 +88,5 @@ Subsec. (k). Pub. L. 90–559, §1(7), substituted “June 30, 1969” for “Ju
 
 #### Termination of Advisory Boards
 
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year periodfollowing Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

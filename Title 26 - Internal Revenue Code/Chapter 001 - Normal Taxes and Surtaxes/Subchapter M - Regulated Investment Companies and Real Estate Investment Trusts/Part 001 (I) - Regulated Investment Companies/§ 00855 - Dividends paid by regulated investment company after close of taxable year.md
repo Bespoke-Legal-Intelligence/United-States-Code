@@ -56,7 +56,3 @@ Amendment by Pub. L. 88–272 applicable to taxable years of regulated investmen
 
 Amendment by Pub. L. 86–779 applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as an Effective Date note under section 856 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 265, 852, 860, 4982 of this title.
-

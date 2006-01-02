@@ -44,7 +44,7 @@ Interest shall be allowed and paid at the overpayment rate established under sec
 
 &emsp;(1) in a case described in subsection (b)(2), from the date the Secretary receives the money to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days, or
 
-&emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days.
+&emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to adate (to be determined by the Secretary) preceding the date of return by not more than 30 days.
 
 #### (d) Return of property in certain cases
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 105–206, §3432(a), added subsec. (e).
 
 1996—Subsec. (d). Pub. L. 104–168 added subsec. (d).
 
-1988—Subsec. (a). Pub. L. 100–647 inserted “and notice of release” after “levy” in heading and amended text generally. Prior to amendment, text read as follows: “It shall be lawful for the Secretary, under regulations prescribed by the Secretary, to release the levy upon all or part of the property or rights to property levied upon where the Secretary determines that such action will facilitate the collection of the liability, but suchrelease shall not operate to prevent any subsequent levy.”
+1988—Subsec. (a). Pub. L. 100–647 inserted “and notice of release” after “levy” in heading and amended text generally. Prior to amendment, text read as follows: “It shall be lawful for the Secretary, under regulations prescribed by the Secretary, to release the levy upon all or part of the property or rights to property levied upon where the Secretary determines that such action will facilitate the collection of the liability, but such release shall not operate to prevent any subsequent levy.”
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
@@ -109,8 +109,4 @@ Section 4(c)(1) of Pub. L. 96–167 provided that: “The amendment made by subs
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6331, 6502, 6503, 6532 of this title.
 

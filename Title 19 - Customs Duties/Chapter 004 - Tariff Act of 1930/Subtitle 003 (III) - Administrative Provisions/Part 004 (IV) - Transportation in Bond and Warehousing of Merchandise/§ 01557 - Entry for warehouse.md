@@ -16,7 +16,7 @@ The right to withdraw any merchandise entered in accordance with subsection (a) 
 
 #### (c) Destruction of merchandise at request of consignee
 
-Merchandise entered under bond, under any provision of law, may, upon payment of all charges other than duty on the merchandise, be destroyed, at the request and at the expense of the consignee, within the bonded period under customs supervision, in lieu of exportation, and upon such destruction the entry of such merchandise shall be liquidated without payment of duty and any duties collected shall be refunded.
+Merchandise entered under bond, under any provision of law, may, upon payment of allcharges other than duty on the merchandise, be destroyed, at the request and at the expense of the consignee, within the bonded period under customs supervision, in lieu of exportation, and upon such destruction the entry of such merchandise shall be liquidated without payment of duty and any duties collected shall be refunded.
 
 #### (d) Withdrawal before payment
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 95–410, §108(a), added subsec. (d).
 
 1955—Subsec. (a). Act June 30, 1955, inserted “Johnston Island” in two places.
 
-1953—Subsec. (b). Act Aug. 8, 1953, provided that all transfers shall be irrevocable; that in the case of each transfer the transferee shall file a bond undertaking to pay all unpaid duties, taxes, charges, and exactions on the merchandise the subject of the transfer; and that a transferee shall have no right to file a protest under section 1514 of this title, or to a separate liquidation in his behalf, unless the rate of duty, tax, charge, or exaction has been changed pursuant to statute or proclamation after the right to withdraw the merchandise was transferred to him.
+1953—Subsec. (b). Act Aug. 8, 1953, provided that all transfers shall be irrevocable; that in the case of eachtransfer the transferee shall file a bond undertaking to pay all unpaid duties, taxes, charges, and exactions on the merchandise the subject of the transfer; and that a transferee shall have no right to file a protest under section 1514 of this title, or to a separate liquidation in his behalf, unless the rate of duty, tax, charge, or exaction has been changed pursuant to statute or proclamation after the right to withdraw the merchandise was transferred to him.
 
 1938—Act June 25, 1938, amended section generally, and among other changes, inserted “Wake Island, Midway Islands, Kingman Reef” before “or the island of Guam,” and struck out “(or ten months in the case of grain)” wherever appearing.
 
@@ -84,7 +84,7 @@ Amendment by act June 30, 1955, effective July 1, 1955, see note set out under s
 
 #### Effective Date of 1953 Amendment
 
-Section 21(b) of act Aug. 8, 1953, provided that: “Notwithstanding any other provision of this Act \[amending this section and sections 258, 1001, 1201, 1304, 1308, 1309,1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
+Section 21(b) of act Aug. 8, 1953, provided that: “Notwithstanding any other provision of this Act \[amending this section and sections 258, 1001, 1201, 1304, 1308, 1309, 1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
 
 #### Effective Date of 1938 Amendment
 

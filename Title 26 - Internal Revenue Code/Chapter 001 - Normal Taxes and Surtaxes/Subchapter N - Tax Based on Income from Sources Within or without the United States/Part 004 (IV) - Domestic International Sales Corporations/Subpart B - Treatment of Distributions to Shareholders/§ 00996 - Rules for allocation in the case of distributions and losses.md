@@ -56,7 +56,7 @@ Any actual distribution made during a taxable year shall be treated as being mad
 
 #### (2) Corporate adjustment upon redemption
 
-&emsp;If section 995(c) applies to a redemption of stock in a DISC or former DISC, the accumulated DISC income shall be reduced by an amount equal to the gain described in section995(c) with respect to such stock which is (or has been) treated as ordinary income, except to the extent distributions with respect to such stock have been treated under paragraph (1).
+&emsp;If section 995(c) applies to a redemption of stock in a DISC or former DISC, the accumulated DISC income shall be reduced by an amount equal to the gain described in section 995(c) with respect to such stock which is (or has been) treated as ordinary income, except to the extent distributions with respect to such stock have been treated under paragraph (1).
 
 #### (e) Adjustment to basis
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to distributions on or after June 22, 1984, see section 805(a)(3) of Pub. L. 98–369, as amended, set out as a note under section 245 of this title.
+Amendment by Pub. L. 98–369 applicable to distributions on or after June 22, 1984, see section 805(a)(3) ofPub. L. 98–369, as amended, set out as a note under section 245 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -123,8 +123,4 @@ Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 applicable with respect t
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 995, 1014 of this title.
 

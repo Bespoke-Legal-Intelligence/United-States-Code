@@ -122,7 +122,3 @@ The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 
 
 1997—Pub. L. 105–34 renumbered section 9805 of this title as this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 35, 4980D, 9801, 9831 of this title; title 29 sections 1144a, 2918.
-

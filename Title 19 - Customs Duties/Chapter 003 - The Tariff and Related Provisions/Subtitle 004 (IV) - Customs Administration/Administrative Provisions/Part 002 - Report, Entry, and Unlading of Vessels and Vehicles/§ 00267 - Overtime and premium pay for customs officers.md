@@ -20,7 +20,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Compensation for commuting time is not payable under clause (i) if the work for which compensation is authorized under paragraph (1)—
+&emsp;&emsp;&emsp;Compensation for commuting time is not payable under clause (i) if the work forwhich compensation is authorized under paragraph (1)—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not commence within 16 hours of the customs officer's last regularly scheduled work assignment, or
 

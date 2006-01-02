@@ -24,7 +24,7 @@ Pub. L. 105–85, div. A, title VIII, §849, Nov. 18, 1997, 111 Stat. 1846, as a
 
 “(a)
 
-Review of Acquisition Corps Promotion Selections.—Upon the approval of the President or his designee of the report of a selection board convened under section 611(a) of title 10, United States Code, which considered members of an Acquisition Corps of a military department for promotion to a grade above O–4, the Secretary of the military department shall submit acopy of the report to the Under Secretary of Defense for Acquisition, Technology, and Logistics for review.
+Review of Acquisition Corps Promotion Selections.—Upon the approval of the President or his designee of the report of a selection board convened under section 611(a) of title 10, United States Code, which considered members of an Acquisition Corps of a military department for promotion to a grade above O–4, the Secretary of the military department shall submit a copy of the report to the Under Secretary of Defense for Acquisition, Technology, and Logistics for review.
 
 “(b)
 

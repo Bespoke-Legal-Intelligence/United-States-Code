@@ -16,7 +16,7 @@
 
 &emsp;(2) apply amounts received under those leases or agreements to the cost of maintaining the facility.
 
-(d) Except as otherwise agreed when the contribution is made, and except as the agreement is later changed, a State may not permit any use or disposition of the facility that would interfere with its use—
+(d) Except as otherwise agreed when the contribution is made, and except as the agreementis later changed, a State may not permit any use or disposition of the facility that would interfere with its use—
 
 &emsp;(1) for administering and training the reserve components of the armed forces; or
 
@@ -130,9 +130,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 18233 of this title.
+Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and toconstruction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 

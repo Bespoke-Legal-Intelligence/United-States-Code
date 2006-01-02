@@ -14,31 +14,45 @@
 
 #### (A) Certain individuals
 
-&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor who, within the 10-year period ending with the date of transfer, lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.
+&emsp;&emsp;Paragraph (2) shall not apply in the case of a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer.
 
-#### (B) Certain individuals treated as having tax avoidance purpose
-
-&emsp;&emsp;For purposes of subparagraph (A), an individual shall be treated as having a principal purpose to avoid such taxes if such individual is so treated under section 877(a)(2).
-
-#### (C) Exception for certain individuals
-
-&emsp;&emsp;Subparagraph (B) shall not apply to a donor meeting the requirements of section 877(c)(1).
-
-#### (D) Credit for foreign gift taxes
+#### (B) Credit for foreign gift taxes
 
 &emsp;&emsp;The tax imposed by this section solely by reason of this paragraph shall be credited with the amount of any gift tax actually paid to any foreign country in respect of any gift which is taxable under this section solely by reason of this paragraph.
 
-#### (E) Cross reference
-
-&emsp;&emsp;<b>For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).</b>
-
-#### (4) Burden of proof
-
-&emsp;If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for paragraph (3), result in a substantial reduction for the calendar year in the taxes on the transfer of property by gift, the burden of proving thatsuch loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A shall be on such individual.
-
-#### (5) Transfers to political organizations
+#### (4) Transfers to political organizations
 
 &emsp;Paragraph (1) shall not apply to the transfer of money or other property to a political organization (within the meaning of section 527(e)(1)) for the use of such organization.
+
+#### (5) Transfers of certain stock
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a transfer of stock in a foreign corporation described in subparagraph (B) by a donor to whom section 877(b) applies for the taxable year which includes the date of the transfer—
+
+&emsp;&emsp;&emsp;(i) section 2511(a) shall be applied without regard to whether such stock is situated within the United States, and
+
+&emsp;&emsp;&emsp;(ii) the value of such stock for purposes of this chapter shall be its U.S.-asset value determined under subparagraph (C).
+
+#### (B) Foreign corporation described
+
+&emsp;&emsp;A foreign corporation is described in this subparagraph with respect to a donor if—
+
+&emsp;&emsp;&emsp;(i) the donor owned (within the meaning of section 958(a)) at the time of such transfer 10 percent or more of the total combined voting power of all classes of stock entitled to vote of the foreign corporation, and
+
+&emsp;&emsp;&emsp;(ii) such donor owned (within the meaning of section 958(a)), or is considered to have owned (by applying the ownership rules of section 958(b)), at the time of such transfer, more than 50 percent of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total combined voting power of all classes of stock entitled to vote of such corporation, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the total value of the stock of such corporation.
+
+#### (C) U.S.-asset value
+
+&emsp;&emsp;For purposes of subparagraph (A), the U.S.-asset value of stock shall be the amount which bears the same ratio to the fair market value of such stock at the time of transfer as—
+
+&emsp;&emsp;&emsp;(i) the fair market value (at such time) of the assets owned by such foreign corporation and situated in the United States, bears to
+
+&emsp;&emsp;&emsp;(ii) the total fair market value (at such time) of all assets owned by such foreign corporation.
 
 #### (b) Certain residents of possessions considered citizens of the United States
 
@@ -54,9 +68,11 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 &emsp;&emsp;<b>(2) For exclusion of transfers of property outside the United States by a nonresident who is not a citizen of the United States, see section 2511(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 85–866, title I, §§43(b), 102(b), Sept. 2, 1958, 72 Stat. 1641, 1674; Pub. L. 86–779, §4(d), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §109(a), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 91–614, title I, §102(a)(1), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–625, §14(a), Jan. 3, 1975, 88 Stat. 2121; Pub. L. 94–455, title XIX, §§1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834; Pub. L. 97–34, title IV, §442(a)(1), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–647, title III, §3031(a)(2), Nov. 10, 1988, 102 Stat. 3635; Pub. L. 101–508, title XI, §11601(b)(2), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 104–191, title V, §511(e)(2), (f)(2)(B), Aug. 21, 1996, 110 Stat. 2098, 2100; Pub. L. 105–34, title XVI, §1602(g)(5), Aug. 5, 1997, 111 Stat. 1095.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 403; Pub. L. 85–866, title I, §§43(b), 102(b), Sept. 2, 1958, 72 Stat. 1641, 1674; Pub. L. 86–779, §4(d), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §109(a), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 91–614, title I, §102(a)(1), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–625, §14(a), Jan. 3, 1975, 88 Stat. 2121; Pub. L. 94–455, title XIX, §§1902(a)(10), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1805, 1834; Pub. L. 97–34, title IV, §442(a)(1), Aug. 13, 1981, 95 Stat. 320; Pub. L. 100–647, title III, §3031(a)(2), Nov. 10, 1988, 102 Stat. 3635; Pub. L. 101–508, title XI, §11601(b)(2), Nov. 5, 1990, 104 Stat. 1388–490; Pub. L. 104–191, title V, §511(e)(2), (f)(2)(B), Aug. 21, 1996, 110 Stat. 2098, 2100; Pub. L. 105–34, title XVI, §1602(g)(5), Aug. 5, 1997, 111 Stat. 1095; Pub. L. 108–357, title VIII, §804(d), Oct. 22, 2004, 118 Stat. 1571.)
 
 #### Amendments
+
+2004—Subsec. (a)(3) to (5). Pub. L. 108–357 added pars. (3) and (5), redesignated former par. (5) as (4), and struck out former pars. (3) and (4) which related to exception of certain individuals from taxable transfers and burden of proof.
 
 1997—Subsec. (a)(3)(C). Pub. L. 105–34 substituted “donor” for “decedent”.
 
@@ -93,6 +109,10 @@ Subsecs. (c), (d). Pub. L. 86–779, §4(d)(1), added subsec. (c) and redesignat
 1958—Subsec. (b). Pub. L. 85–866, §102(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c). Pub. L. 85–866, §102(b), redesignated former subsec. (b) as (c) and Pub. L. 85–866, §43(b), made the heading read in the plural, designated existing provisions as par. (2) and added par. (1).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -153,8 +173,4 @@ Pub. L. 97–448, title I, §104(d)(3), Jan. 12, 1983, 96 Stat. 2383, as amended
 “(B) An election under subparagraph (A) shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe.
 
 “(C) An election under subparagraph (A), once made, shall be irrevocable.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 305, 351, 877, 2056A, 2502, 2505, 2511, 2523, 2661 of this title.
 

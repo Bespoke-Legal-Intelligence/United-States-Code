@@ -7,10 +7,6 @@ Subpart D—Treatment of Welfare Benefit Funds
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 4976 of this title.
-
 
 ---
 

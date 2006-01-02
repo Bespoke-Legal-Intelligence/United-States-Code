@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;There is hereby imposed on the agreement of any foundation manager to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 21/2 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who agreed to the making of the expenditure.
+&emsp;There is hereby imposed on the agreement of any foundation manager to the making of anexpenditure, knowing that it is a taxable expenditure, a tax equal to 21/2 percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who agreed to the making of the expenditure.
 
 #### (b) Additional taxes
 
@@ -74,7 +74,7 @@ Subsection (d)(2) shall not apply to any amount paid or incurred by any organiza
 
 &emsp;(5) contributions to which for voter registration drives are not subject to conditions that they may be used only in specified States, possessions of the United States, or political subdivisions or other areas of any of the foregoing, or the District of Columbia, or that they may be used in only one specific election period.
 
-> In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years of such organization (excluding therefrom any preceding taxable year which begins before January 1, 1970). Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
+> In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years ofsuch organization (excluding therefrom any preceding taxable year which begins before January 1, 1970). Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
 
 #### (g) Individual grants
 
@@ -153,8 +153,4 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 #### Savings Provision
 
 Applicability of subsecs. (d)(4) and (h) of this section to grants to private foundations described in section 101(<i>l</i>)(C)(3) of Pub. L. 91–172, see section 101(<i>l</i>)(5) of Pub. L. 91–172, set out as a note under section 4940 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 508, 4947, 4955, 4963, 6213, 7422, 7454 of this title.
 

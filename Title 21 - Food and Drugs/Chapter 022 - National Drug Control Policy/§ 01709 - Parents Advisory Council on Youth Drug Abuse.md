@@ -26,7 +26,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each member of the Council shall be an individual from the private sector with a demonstrated interest and expertise in research, education, treatment, or prevention activities related to youth drug abuse.
+&emsp;&emsp;&emsp;Each member of the Council shall be an individual from the private sector with ademonstrated interest and expertise in research, education, treatment, or prevention activities related to youth drug abuse.
 
 #### (ii) Representatives of nonprofit organizations
 
@@ -52,7 +52,7 @@
 
 #### (B) Vacancies
 
-&emsp;&emsp;Any vacancy in the Council shall not affect its powers, provided that a quorum is present, but shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which themember's predecessor was appointed shall be appointed only for the remainder of that term.
+&emsp;&emsp;Any vacancy in the Council shall not affect its powers, provided that a quorum is present, but shall be filled in the same manner as the original appointment. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term.
 
 #### (C) Appointment of successor
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated to the Council such sums as may be neces
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
 

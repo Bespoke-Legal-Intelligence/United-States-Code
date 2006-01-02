@@ -8,7 +8,3 @@ No deduction shall be allowed for amounts paid or accrued for such taxes and car
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 163, 1016 of this title.
-

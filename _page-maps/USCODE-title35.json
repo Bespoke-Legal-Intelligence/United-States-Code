@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title35",
- "package": "USCODE-2004-title35",
+ "package": "USCODE-2005-title35",
  "pieces": [
   {
    "id": "35_",
@@ -1660,10 +1660,14 @@
    "id": "35_-ptIII",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 79]",
-     true
+     "I",
+     18,
+     [
+      [
+       110,
+       "[Page 79]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/README.md",
@@ -1694,14 +1698,10 @@
    "id": "35_252",
    "marks": [
     [
-     "I",
+     "L",
      12,
-     [
-      [
-       267,
-       "[Page 80]"
-      ]
-     ]
+     "[Page 80]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00252 - Effect of reissue.md",
@@ -1721,30 +1721,26 @@
   },
   {
    "id": "35_254",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 81]",
+     true
+    ]
+   ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00254 - Certificate of correction of Patent and Trademark Office mistake.md",
    "printed_pages": [
     80,
-    80
+    81
    ]
   },
   {
    "id": "35_255",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 81]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 025 - Amendment and Correction of Patents/§ 00255 - Certificate of correction of applicant's mistake.md",
    "printed_pages": [
-    80,
+    81,
     81
    ]
   },
@@ -1770,10 +1766,14 @@
    "id": "35_261",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 82]",
-     true
+     "I",
+     4,
+     [
+      [
+       94,
+       "[Page 82]"
+      ]
+     ]
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 026 - Ownership and Assignment/§ 00261 - Ownership; assignment.md",
@@ -1813,14 +1813,10 @@
    "id": "35_267",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       111,
-       "[Page 83]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 83]",
+     true
     ]
    ],
    "path": "Part 003 (III) - Patents and Protection of Patent Rights/Chapter 027 - Government Interests in Patents/§ 00267 - Time for taking action in Government applications.md",
@@ -1846,14 +1842,14 @@
      32,
      [
       [
-       613,
+       328,
        "[Page 84]"
       ]
      ]
     ],
     [
      "L",
-     86,
+     84,
      "[Page 85]",
      true
     ]
@@ -2589,6 +2585,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2004-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2005-title35 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 35 - Patents"
 }

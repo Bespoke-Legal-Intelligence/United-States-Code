@@ -10,9 +10,9 @@
 
 &emsp;(3) if he is not transferred to the Retired Reserve or an inactive status, be discharged from his reserve appointment.
 
-(c) This section does not apply to commissioned warrant officers or to adjutants general or assistant adjutants general of States and Territories, Puerto Rico, and the District of Columbia.
+(c) This section does not apply to commissioned warrant officers or to adjutants general or assistant adjutants general of States, Puerto Rico, and the District of Columbia.
 
-(Added Pub. L. 85–861, §1(22)(A), Sept. 2, 1958, 72 Stat. 1443, §1002; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12642 and amended Pub. L. 103–337, div. A, title XVI, §§1662(h)(2), 1675(d)(1), Oct. 5, 1994, 108 Stat. 2996, 3018.)
+(Added Pub. L. 85–861, §1(22)(A), Sept. 2, 1958, 72 Stat. 1443, §1002; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; renumbered §12642 and amended Pub. L. 103–337, div. A, title XVI, §§1662(h)(2), 1675(d)(1), Oct. 5, 1994, 108 Stat. 2996, 3018; Pub. L. 109–163, div. A, title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -52,6 +52,8 @@ In subsection (a), the word “minimum” is omitted as surplusage. The last sen
 
 #### Amendments
 
+2006—Subsec. (c). Pub. L. 109–163 struck out “and Territories” after “States”.
+
 1994—Pub. L. 103–337, §1662(h)(2), renumbered section 1002 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(d)(1)(A), substituted “12732(a)(2)” for “1332(a)(2)”.
@@ -63,8 +65,4 @@ Subsec. (b). Pub. L. 103–337, §1675(d)(1)(B), substituted “12645” for “
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10214 of this title.
 

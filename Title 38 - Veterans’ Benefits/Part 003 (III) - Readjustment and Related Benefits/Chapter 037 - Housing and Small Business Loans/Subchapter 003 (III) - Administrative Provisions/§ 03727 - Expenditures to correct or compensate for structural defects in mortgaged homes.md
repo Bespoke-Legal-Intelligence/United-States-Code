@@ -18,7 +18,7 @@ Subsec. (c). Pub. L. 105–368, §602(e)(1)(C), substituted “fund established 
 
 Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3723 and 3724” for “1823 and 1824”.
 
-1989—Pub. L. 101–237 substituted “Secretary”, “Secretary's”, and “Department of Veterans Affairs” for “Administrator”, “Administrator's”, and “Veterans’ Administration”, respectively, wherever appearing.
+1989—Pub. L. 101–237 substituted “Secretary”, “Secretary's”, and “Department of Veterans Affairs” for“Administrator”, “Administrator's”, and “Veterans’ Administration”, respectively, wherever appearing.
 
 1976—Subsec. (a). Pub. L. 94–324 substituted “the Administrator finds” for “he finds”.
 

@@ -22,7 +22,7 @@ A jeopardy assessment may not be made after the decision of the Tax Court has be
 
 #### (f) Collection of unpaid amounts
 
-When the petition has been filed with the Tax Court and when the amount which should havebeen assessed has been determined by a decision of the Tax Court which has become final, then any unpaid portion, the collection of which has been stayed by bond as provided in section 6863(b) shall be collected as part of the tax upon notice and demand from the Secretary, and any remaining portion of the assessment shall be abated. If the amount already collected exceeds the amount determined as the amount which should have been assessed, such excess shall be credited or refunded to the taxpayer as provided in section 6402, without the filing of claim therefor. If the amount determined as the amount which should have been assessed is greater than the amount actually assessed, then the difference shall be assessed and shall be collected as part of the tax upon notice and demand from the Secretary.
+When the petition has been filed with the Tax Court and when the amount which should have been assessed has been determined by a decision of the Tax Court which has become final, then any unpaid portion, the collection of which has been stayed by bond as provided in section 6863(b) shall be collected as part of the tax upon notice and demand from the Secretary, and any remaining portion of the assessment shall be abated. If the amount already collected exceeds the amount determined as the amount which should have been assessed, such excess shall be credited or refunded to the taxpayer as provided in section 6402, without the filing of claim therefor. If the amount determined as the amount which should have been assessed is greater than the amount actually assessed, then the difference shall be assessed and shall be collected as part of the tax upon notice and demand from the Secretary.
 
 #### (g) Abatement if jeopardy does not exist
 
@@ -45,8 +45,4 @@ The Secretary may abate the jeopardy assessment if he finds that jeopardy does n
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 534, 6015, 6212, 6213, 6231, 6234, 6656, 6852, 6863, 6867, 7429, 7611 of this title; title 5 section 5568; title 37 section 558.
 

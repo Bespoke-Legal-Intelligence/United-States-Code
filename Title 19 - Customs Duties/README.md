@@ -1,5 +1,5 @@
 
-19 U.S.C.<br>United States Code, 2004 Edition<br>Title 19 - CUSTOMS DUTIES<br>From the U.S. Government Publishing Office, www.gpo.gov
+19 U.S.C.<br>United States Code, 2005 Edition<br>Title 19 - CUSTOMS DUTIES<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 19—CUSTOMS DUTIES
 
@@ -31,6 +31,7 @@
 | [<b>23.</b>](Chapter%20023%20-%20Extension%20of%20Certain%20Trade%20Benefits%20to%20Sub-Saharan%20Africa/README.md) | <b>Extension of Certain Trade Benefits to Sub-Saharan Africa</b> | <b>3701</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Bipartisan%20Trade%20Promotion%20Authority/README.md) | <b>Bipartisan Trade Promotion Authority</b> | <b>3801</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Clean%20Diamond%20Trade/README.md) | <b>Clean Diamond Trade</b> | <b>3901</b> |
+| [<b>26.</b>](Chapter%20026%20-%20Dominican%20Republic-Central%20America%20Free%20Trade/README.md) | <b>Dominican Republic-Central America Free Trade</b> | <b>4001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -65,3 +66,4 @@
 - [Chapter 023 - Extension of Certain Trade Benefits to Sub-Saharan Africa](Chapter%20023%20-%20Extension%20of%20Certain%20Trade%20Benefits%20to%20Sub-Saharan%20Africa/README.md)
 - [Chapter 024 - Bipartisan Trade Promotion Authority](Chapter%20024%20-%20Bipartisan%20Trade%20Promotion%20Authority/README.md)
 - [Chapter 025 - Clean Diamond Trade](Chapter%20025%20-%20Clean%20Diamond%20Trade/README.md)
+- [Chapter 026 - Dominican Republic-Central America Free Trade](Chapter%20026%20-%20Dominican%20Republic-Central%20America%20Free%20Trade/README.md)

@@ -20,7 +20,3 @@ Whenever, pursuant to the provisions of this title (other than section 7485), or
 
 1972—Pub. L. 92–310 struck out reference to section 6803(a)(1).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7324 of this title.
-

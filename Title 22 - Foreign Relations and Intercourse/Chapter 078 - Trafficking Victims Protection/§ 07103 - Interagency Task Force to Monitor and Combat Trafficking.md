@@ -6,7 +6,7 @@ The President shall establish an Interagency Task Force to Monitor and Combat Tr
 
 #### (b) Appointment
 
-The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of Central Intelligence, and such other officials as may be designated by the President.
+The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security, and such other officials as may be designated by the President.
 
 #### (c) Chairman
 
@@ -30,7 +30,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;(7) Not later than May 1, 2004, and annually thereafter, the Attorney General shall submit to the Committee on Ways and Means, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives and the Committee on Finance, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate, a report on Federal agencies that are implementing any provision of this chapter, or any amendment made by this chapter, which shall include, at a minimum, information on—
 
-&emsp;&emsp;(A) the number of persons who received benefits or other services under section 7105(b) of this title in connection with programs or activities funded or administeredby the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
+&emsp;&emsp;(A) the number of persons who received benefits or other services under section 7105(b) of this title in connection with programs or activities funded or administered by the Secretary of Health and Human Services, the Secretary of Labor, the Board of Directors of the Legal Services Corporation, and other appropriate Federal agencies during the preceding fiscal year;
 
 &emsp;&emsp;(B) the number of persons who have been granted continued presence in the United States under section 7105(c)(3) of this title during the preceding fiscal year;
 
@@ -40,13 +40,15 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(E) the amount, recipient, and purpose of each grant issued by any Federal agency to carry out the purposes of sections 7104 and 7105 of this title, or section 2152d of this title, during the preceding fiscal year;
 
-&emsp;&emsp;(F) the nature of training conducted pursuant to section 7105(c)(4) of this title during the preceding fiscal year; and
+&emsp;&emsp;(F) the nature of training conducted pursuant to section 7105(c)(4) of this title during the preceding fiscal year;
 
-&emsp;&emsp;(G) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (f) of this section.
+&emsp;&emsp;(G) the amount, recipient, and purpose of each grant under sections 14044a and 14044c of title 42; <sup>1</sup> and
+
+&emsp;&emsp;(H) the activities undertaken by the Senior Policy Operating Group to carry out its responsibilities under subsection (f) of this section.
 
 #### (e) Support for the Task Force
 
-The Secretary of State is authorized to establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
+The Secretary of State is authorized to establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, andwith trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
 
 #### (f) Senior Policy Operating Group
 
@@ -80,25 +82,27 @@ The Secretary of State is authorized to establish within the Department of State
 
 &emsp;Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881.)
+(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (d) to (f), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
+Sections 14044a and 14044c of title 42, referred to in subsec. (d)(7)(G), was in the original “sections 202 and 204 of the Trafficking Victims Protection Act of 2005”, and was translated as reading “sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005”, which enacted sections 14044a and 14044c of Title 42, The Public Health and Welfare, to reflect the probable intent of Congress.
+
 Executive Order No. 13257, referred to in subsec. (f)(2)(A), is set out as a note below.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–164, §104(a), substituted “the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security” for “the Director of Central Intelligence”.
+
+Subsec. (d)(7)(G), (H). Pub. L. 109–164, §205, added subpar. (G) and redesignated former subpar. (G) as (H).
 
 2003—Subsec. (d)(7). Pub. L. 108–193, §6(a)(1), added par. (7).
 
 Subsec. (e). Pub. L. 108–193, §6(b)(1), inserted before period at end of second sentence “, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large”.
 
 Subsec. (f). Pub. L. 108–193, §6(c)(1), added subsec. (f).
-
-#### Change of Name
-
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Savings Provision
 
@@ -142,7 +146,7 @@ Sec. 2. <i>Activities</i>. The Task Force shall, consistent with applicable law 
 
 (a) coordinate the implementation of the Act;
 
-(b) measure and evaluate progress of the United States and other countries in the areas of trafficking in persons prevention, protection, and assistance to victims of trafficking in persons, and prosecutions and other enforcement efforts against traffickers, including the role of public corruption in facilitating trafficking in persons;
+(b) measure and evaluate progress of the United States and other countries in the areas of trafficking in persons prevention, protection, and assistance to victims of trafficking in persons, and prosecutions andother enforcement efforts against traffickers, including the role of public corruption in facilitating trafficking in persons;
 
 (c) assist the Secretary of State in the preparation of the annual reports described in section 110 of the Act \[22 U.S.C. 7107\];
 
@@ -184,7 +188,7 @@ Sec. 5. <i>Enhanced Prevention of Trafficking in Persons</i>. (a) The Secretary 
 
 (d) The Secretary of State shall have responsibility to initiate appropriate regulatory implementation of the requirements set out in section 106(g) of the Act with respect to contracts, including proposing appropriate amendments to the Federal Acquisition Regulation. Each affected executive branch department or agency shall implement, within that department or agency, the requirements set out in section 106(g) of the Act with respect to grants and cooperative agreements.
 
-Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according tosuch policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22 U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
+Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according to such policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22 U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
 
 Sec. 7. <i>Guidance for Exercising Authority and Performing Duties</i>. In exercising authority delegated by, or performing functions assigned in, this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to:
 
@@ -199,4 +203,6 @@ Sec. 7. <i>Guidance for Exercising Authority and Performing Duties</i>. In exerc
 Sec. 8. <i>Judicial Review</i>. This order does not create any rights or benefits, enforceable at law or equity, against the United States, its departments, its agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

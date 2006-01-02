@@ -2,7 +2,7 @@
 
 #### (a) Prime contractors
 
-It is the policy of the Government, and it shall be the responsibility of the contracting agencies and the Administrator of General Services, in accordance with and subject to the provisions ofthis chapter, to provide war contractors having any termination claim or claims, pending their settlement, with adequate interim financing, within thirty days after proper application therefor.
+It is the policy of the Government, and it shall be the responsibility of the contracting agencies and the Administrator of General Services, in accordance with and subject to the provisions of this chapter, to provide war contractors having any termination claim or claims, pending their settlement, with adequate interim financing, within thirty days after proper application therefor.
 
 #### (b) Method of financing; amounts payable
 
@@ -34,7 +34,7 @@ Any contracting agency may allow any advance payments, previously made or author
 
 #### (f) Liquidation of loans, etc., prior to final settlement
 
-No interim financing shall be made by any contracting agency under this chapter unless the terms of such financing provide for the liquidation by the war contractor of all loans, discounts, advance payments, or partial payments thereunder not later than the time of final payment of the amount due on the settlement of the termination claim or claims of the war contractor involved or such time thereafter as the contracting agency deems necessary for the liquidation of such interim financing in an orderly manner.
+No interim financing shall be made by any contracting agency under this chapter unless the terms of such financing provide for the liquidation by the war contractor of all loans, discounts, advance payments, or partial payments thereunder not later than the time of final payment of the amount due on the settlement ofthe termination claim or claims of the war contractor involved or such time thereafter as the contracting agency deems necessary for the liquidation of such interim financing in an orderly manner.
 
 #### (g) Settlement of claims; validation of prior financing
 

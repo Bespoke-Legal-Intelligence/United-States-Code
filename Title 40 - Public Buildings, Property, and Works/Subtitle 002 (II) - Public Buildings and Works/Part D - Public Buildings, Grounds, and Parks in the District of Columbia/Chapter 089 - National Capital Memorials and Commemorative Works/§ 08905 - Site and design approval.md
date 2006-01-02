@@ -2,7 +2,7 @@
 
 (a)
 
-Consultation on, and Submission of, Proposals.—A sponsor authorized by law to establish a commemorative work in the District of Columbia and its environs may request a permitfor construction of the commemorative work only after the following requirements are met:
+Consultation on, and Submission of, Proposals.—A sponsor authorized by law to establish a commemorative work in the District of Columbia and its environs may request a permit for construction of the commemorative work only after the following requirements are met:
 
 &emsp;(1)
 

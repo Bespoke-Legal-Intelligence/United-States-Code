@@ -116,7 +116,7 @@ For purposes of this section, the term “designated congressional committees”
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(3) and (b)(1), (2)(B), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835, known as the Project BioShield Act of 2004. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
+This Act, referred to in subsecs. (a)(3) and (b)(1), (2)(B), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835, known as the Project BioShield Act of 2004. For complete classification of this Act to the Code, see ShortTitle of 2004 Amendments note set out under section 201 of this title and Tables.
 
 #### Codification
 

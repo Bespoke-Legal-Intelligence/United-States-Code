@@ -22,7 +22,7 @@ A State which has primary enforcement responsibility may exempt any public water
 
 > Before a schedule prescribed by a State pursuant to this subsection may take effect, the State shall provide notice and opportunity for a public hearing on the schedule. A notice given pursuant to the preceding sentence may cover the prescribing of more than one such schedule and a hearing held pursuant to such notice shall include each of the schedules covered by the notice.
 
-(2)(A) A schedule prescribed pursuant to this subsection for a public water system granted an exemption under subsection (a) of this section shall require compliance by the system with each contaminant level and treatment technique requirement with respect to which the exemption was granted as expeditiously as practicable (as the State may reasonably determine)but not later than 3 years after the otherwise applicable compliance date established in section 300g–1(b)(10) of this title.
+(2)(A) A schedule prescribed pursuant to this subsection for a public water system granted an exemption under subsection (a) of this section shall require compliance by the system with each contaminant level and treatment technique requirement with respect to which the exemption was granted as expeditiously as practicable (as the State may reasonably determine) but not later than 3 years after the otherwise applicable compliance date established in section 300g–1(b)(10) of this title.
 
 (B) No exemption shall be granted unless the public water system establishes that—
 

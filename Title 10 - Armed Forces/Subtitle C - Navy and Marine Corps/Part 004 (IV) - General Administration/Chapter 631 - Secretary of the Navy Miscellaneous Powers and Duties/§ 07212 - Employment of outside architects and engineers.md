@@ -2,7 +2,7 @@
 
 (a) Whenever the Secretary of the Navy believes that the existing facilities of the Department of the Navy are inadequate and he considers it advantageous to national defense, he may employ, by contract or otherwise, without advertising and without reference to sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5, architectural or engineering corporations, or firms, or individual architects or engineers, to produce designs, plans, drawings, and specifications for the accomplishment of any naval public works or utilities project or for the construction of any vessel or aircraft, or part thereof.
 
-(b) The fee for any service under this section may not exceed 6 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
+(b) The fee for any service under this section may not exceed 6 percent of the estimated cost,as determined by the Secretary, of the project to which the fee applies.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 444; Pub. L. 89–718, §28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, §703(c)(3), title VIII, §801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, §513(25), Dec. 12, 1980, 94 Stat. 2932.)
 

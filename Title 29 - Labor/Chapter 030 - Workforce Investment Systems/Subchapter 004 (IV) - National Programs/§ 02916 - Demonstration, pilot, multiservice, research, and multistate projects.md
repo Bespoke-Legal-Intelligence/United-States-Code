@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(B) in which the entity carrying out the project, in conjunction with employers, organized labor, and other groups such as the disability community, will design, develop, and test various training approaches in order to determine effective practices; and
 
-&emsp;&emsp;(C) that will assist in the development and replication of effective service deliverystrategies for targeted populations for the national employment and training system as a whole.
+&emsp;&emsp;(C) that will assist in the development and replication of effective service delivery strategies for targeted populations for the national employment and training system as a whole.
 
 #### (2) Research projects
 
@@ -140,7 +140,7 @@
 
 #### (d) Dislocated worker projects
 
-Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
+Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
 
 (Pub. L. 105–220, title I, §171, Aug. 7, 1998, 112 Stat. 1031; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 

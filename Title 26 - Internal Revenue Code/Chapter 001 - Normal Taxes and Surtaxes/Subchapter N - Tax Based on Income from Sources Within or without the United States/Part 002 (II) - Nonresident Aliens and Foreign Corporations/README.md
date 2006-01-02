@@ -13,10 +13,6 @@
 
 1986—Pub. L. 99–514, title XII, §1212(b)(2), Oct. 22, 1986, 100 Stat. 2538, added item for subpart C and redesignated item for former subpart C as D.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 864 of this title.
-
 
 ---
 

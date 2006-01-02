@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) Original issue discount
 
-&emsp;The term “original issue discount” has the meaning given to such term by section 1273(a) without regard to paragraph (3) thereof. In applying section 483 or 1274, under regulations prescribed by the Secretary, appropriate adjustments shall be made to the applicable Federal rate to take into account the tax exemption for interest on the obligation.
+&emsp;The term “original issue discount” has the meaning given to such term by section 1273(a)without regard to paragraph (3) thereof. In applying section 483 or 1274, under regulations prescribed by the Secretary, appropriate adjustments shall be made to the applicable Federal rate to take into account the tax exemption for interest on the obligation.
 
 #### (2) Tax-exempt obligation
 
@@ -37,8 +37,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years ending after July 18, 1984, and applicable to obligations issued after Sept. 3, 1982, and acquired after Mar. 1, 1984, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 163 of this title.
 

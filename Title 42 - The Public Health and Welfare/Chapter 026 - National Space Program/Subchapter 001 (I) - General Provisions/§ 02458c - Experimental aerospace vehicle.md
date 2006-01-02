@@ -26,7 +26,7 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (C) Increase in dollar amounts
 
-&emsp;&emsp;The Administrator may increase the dollar amounts set forth in section 70112(a)(3)(A) of title 49 for the purpose of applying that section under this section to a developer after consultation with the Comptroller General and such experts and consultants as may be appropriate, and after publishing notice of the increase in the Federal Register not less than 180 days before the increase goes into effect. The Administrator shall make available for public inspection, not later than the date of publication of such notice, a complete record of any correspondence received by the Administration, and a transcript of any meetings in which the Administrationparticipated, regarding the proposed increase.
+&emsp;&emsp;The Administrator may increase the dollar amounts set forth in section 70112(a)(3)(A) of title 49 for the purpose of applying that section under this section to a developer after consultation with the Comptroller General and such experts and consultants as may be appropriate, and after publishing notice of the increase in the Federal Register not less than 180 days before the increase goes into effect. The Administrator shall make available for public inspection, not later than the date of publication of such notice, a complete record of any correspondence received by the Administration, and a transcript of any meetings in which the Administration participated, regarding the proposed increase.
 
 #### (D) Safety review required before Administrator provides insurance
 
@@ -54,7 +54,7 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (B) Liability for negligence
 
-&emsp;&emsp;A reciprocal waiver under paragraph (1) may not absolve any party of liability to any natural person (including, but not limited to, a natural person who is an employee of the United States, the developer, the cooperating party, or their respective subcontractors) or such a natural person's estate, survivors, or subrogees for negligence, except with respect to a subrogee that is a party to the waiver or has otherwise agreed to be bound by the terms of the waiver.
+&emsp;&emsp;A reciprocal waiver under paragraph (1) may not absolve any party of liability toany natural person (including, but not limited to, a natural person who is an employee of the United States, the developer, the cooperating party, or their respective subcontractors) or such a natural person's estate, survivors, or subrogees for negligence, except with respect to a subrogee that is a party to the waiver or has otherwise agreed to be bound by the terms of the waiver.
 
 #### (C) Indemnification for damages
 
@@ -108,13 +108,13 @@ In this section:
 
 #### (1) In general
 
-&emsp;The provisions of this section shall terminate on December 31, 2002, except that the Administrator may extend the termination date to a date not later than September 30, 2005, if the Administrator determines that such extension is in the interests of the United States.
+&emsp;The provisions of this section shall terminate on December 31, 2010.
 
 #### (2) Effect of termination on agreement
 
 &emsp;The termination of this section shall not terminate or otherwise affect any cross-waiver agreement, insurance agreement, indemnification agreement, or other agreement entered into under this section, except as may be provided in that agreement.
 
-(Pub. L. 85–568, title III, §309, formerly title III, as added Pub. L. 106–74, title IV, §435(a), Oct. 20, 1999, 113 Stat. 1097; designated §309 and amended Pub. L. 106–391, title III, §324(a)(2), (b), Oct. 30, 2000, 114 Stat. 1599, 1600.)
+(Pub. L. 85–568, title III, §309, formerly title III, as added Pub. L. 106–74, title IV, §435(a), Oct. 20, 1999, 113 Stat. 1097; designated §309 and amended Pub. L. 106–391, title III, §324(a)(2), (b), Oct. 30, 2000, 114 Stat. 1599, 1600; Pub. L. 109–155, title VII, §702, Dec. 30, 2005, 119 Stat. 2936.)
 
 #### Codification
 
@@ -126,13 +126,11 @@ A prior section 309 of Pub. L. 85–568 was renumbered section 310 and is classi
 
 #### Amendments
 
+2005—Subsec. (f)(1). Pub. L. 109–155 substituted “December 31, 2010.” for “December 31, 2002, except that the Administrator may extend the termination date to a date not later than September 30, 2005, if the Administrator determines that such extension is in the interests of the United States.”
+
 2000—Subsec. (c)(1). Pub. L. 106–391, §324(b)(1), substituted “departments, agencies, and instrumentalities” for “departments, agencies, and related entities”.
 
 Subsec. (c)(2)(D). Pub. L. 106–391, §324(b)(2), added subpar. (D).
 
 Subsec. (f). Pub. L. 106–391, §324(b)(3), added subsec. (f).
-
-#### Extension of Termination Date for Section
-
-The termination date for this section was extended to Sept. 30, 2005, by the Administrator of the National Aeronautics and Space Administration on Dec. 30, 2002.
 

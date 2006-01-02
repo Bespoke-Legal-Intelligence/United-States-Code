@@ -20,7 +20,3 @@ A prior section 4338, acts Aug. 10, 1956, ch. 1041, 70A Stat. 239; Sept. 7, 1962
 
 1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5102.
-

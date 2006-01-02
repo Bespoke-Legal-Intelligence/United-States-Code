@@ -40,7 +40,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 &emsp;For purposes of paragraph (1) in determining capital gain net income—
 
-&emsp;&emsp;(A) There shall be taken into account only gains and losses from the sale or other disposition of property used for the production of interest, dividends, rents, and royalties, and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax).
+&emsp;&emsp;(A) There shall be taken into account only gains and losses from the sale or other disposition of property used for the productionof interest, dividends, rents, and royalties, and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax).
 
 &emsp;&emsp;(B) The basis for determining gain in the case of property held by the private foundation on December 31, 1969, and continuously thereafter to the date of its disposition shall be deemed to be not less than the fair market value of such property on December 31, 1969.
 
@@ -146,7 +146,7 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 #### (C) Special rule where tax reduced under this subsection
 
-&emsp;&emsp;For purposes of this paragraph, if the amount of the tax imposed by this section for any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions made by the private foundation during such year shall be reduced by the amount of such reduction in tax.
+&emsp;&emsp;For purposes of this paragraph, if the amount of the tax imposed by this section for any taxable year in the base period is reduced by reason of this subsection, the amount of the qualifying distributions madeby the private foundation during such year shall be reduced by the amount of such reduction in tax.
 
 #### (4) Base period
 
@@ -304,7 +304,7 @@ Section 4943.—
 
 &emsp;&emsp;“(i) which was incorporated before January 1, 1951;
 
-&emsp;&emsp;“(ii) substantially all of the assets of which on May 26, 1969, consist of more than 90 percent of the stock of an incorporated business enterprise which is licensed and regulated, the sales or contracts of which are regulated, and the professional representatives of which are licensed, by State regulatory agencies in at least 10 States; and
+&emsp;&emsp;“(ii) substantially all of the assets of which on May 26, 1969, consist of more than 90 percent of the stock of an incorporated business enterprise whichis licensed and regulated, the sales or contracts of which are regulated, and the professional representatives of which are licensed, by State regulatory agencies in at least 10 States; and
 
 &emsp;&emsp;“(iii) which acquired such stock solely by gift, devise, or bequest, section 4943(c)(4)(A)(i) shall be applied with respect to the holdings of such foundation in such incorporated business enterprise as if it did not contain the phrase ‘, but in no event shall the percentage so substituted be more than 50 percent’, and section 4943(c)(4)(D) shall not apply with respect to such holdings. For purposes of the preceding sentence, stock of such enterprise in a trust created before May 27, 1969, of which the foundation is the remainder beneficiary shall be deemed to be held by such foundation on May 26, 1969, if such foundation held (without regard to such trust) more than 20 percent of the stock of such enterprise on May 26, 1969.
 
@@ -312,7 +312,7 @@ Section 4943.—
 
 &emsp;&emsp;“(i) the foundation does not purchase any stock or other interest in the enterprise described in subparagraph (A) after May 26, 1969, and does not acquire any stock or other interest in any other business enterprise which constitutes excess business holdings under section 4943; and
 
-&emsp;&emsp;“(ii) in the last 5 taxable years ending on or before December 31, 1970, the foundation expends substantially all of its adjusted net income (as definedin section 4942(f)) for the purpose or function for which it is organized and operated.
+&emsp;&emsp;“(ii) in the last 5 taxable years ending on or before December 31, 1970, the foundation expends substantially all of its adjusted net income (as defined in section 4942(f)) for the purpose or function for which it is organized and operated.
 
 &emsp;“(C) For purposes of section 4943(c)(6), the term ‘purchase’ does not include an exchange which is described in paragraph (2)(B) of this subsection and which is pursuant to a plan for disposition of excess business holdings.
 
@@ -351,8 +351,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Public Support Requirement Not Applicable to Certain Existing Foundations
 
 Section 302(c)(3) of Pub. L. 98–369 provided that: “A foundation which was an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 41, 4942, 4945, 4948, 6212, 6501, 6655 of this title.
 

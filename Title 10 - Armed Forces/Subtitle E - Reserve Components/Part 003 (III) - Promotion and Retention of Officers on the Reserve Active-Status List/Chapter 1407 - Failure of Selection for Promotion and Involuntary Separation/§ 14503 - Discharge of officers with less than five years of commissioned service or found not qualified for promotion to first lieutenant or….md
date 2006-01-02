@@ -32,7 +32,3 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 Section 1689 of title XVI of div. A of Pub. L. 103–337 provided that: “A reserve officer of the Army, Navy, Air Force, or Marine Corps who was in an active status on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] and who was subject to placement of the reserve active-status list on the effective date of this title may not be discharged under section 14503 of title 10, United States Code, as added by this title, until on or after the day on which that officer completes three years of continuous service as a reserve commissioned officer.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14703 of this title.
-

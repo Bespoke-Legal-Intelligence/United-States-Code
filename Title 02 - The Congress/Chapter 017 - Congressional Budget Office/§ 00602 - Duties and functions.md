@@ -10,7 +10,7 @@ At the request of the Committee on Appropriations of either House, the Committee
 
 #### (c) Assistance to other committees and Members
 
-(1) At the request of any other committee of the House of Representatives or the Senate or any joint committee of the Congress, the Office shall provide to such committee or joint committee any information compiled in carrying out clauses (1) and (2) of subsection (a) of this section, and, to the extent practicable, such additional information related to the foregoing as may be requested.
+(1) At the request of any other committee of the House of Representatives or the Senate orany joint committee of the Congress, the Office shall provide to such committee or joint committee any information compiled in carrying out clauses (1) and (2) of subsection (a) of this section, and, to the extent practicable, such additional information related to the foregoing as may be requested.
 
 (2) At the request of any committee of the Senate or the House of Representatives, the Office shall, to the extent practicable, consult with and assist such committee in analyzing the budgetary or financial impact of any proposed legislation that may have—
 
@@ -36,7 +36,7 @@ At the request of the Committee on the Budget of either House, personnel of the 
 
 #### (f) Use of computers and other techniques
 
-The Director may equip the Office with up-to-date computer capability (upon approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain theservices of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
+The Director may equip the Office with up-to-date computer capability (upon approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain the services of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
 
 #### (g) Studies
 
@@ -58,7 +58,7 @@ The Director may equip the Office with up-to-date computer capability (upon appr
 
 &emsp;&emsp;&emsp;(I) the future direct cost of the Federal mandate to the extent that such costs significantly differ from or extend beyond the 5-year period after the mandate is first effective; and
 
-&emsp;&emsp;&emsp;(II) any disproportionate budgetary effects of Federal mandates upon particular industries or sectors of the economy, States, regions, and urban or rural or other types of communities, as appropriate.
+&emsp;&emsp;&emsp;(II) any disproportionate budgetary effects of Federal mandates upon particular industries or sectors of the economy, States, regions, and urban or rural orother types of communities, as appropriate.
 
 &emsp;(C) In conducting a study on private sector mandates under subparagraph (A), the Director shall provide estimates, if and to the extent that the Director determines that such estimates are reasonably feasible, of—
 

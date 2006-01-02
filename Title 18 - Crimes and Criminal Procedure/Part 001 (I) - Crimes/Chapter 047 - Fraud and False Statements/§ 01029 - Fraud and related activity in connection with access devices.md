@@ -30,7 +30,7 @@
 
 (b)(1) Whoever attempts to commit an offense under subsection (a) of this section shall be subject to the same penalties as those prescribed for the offense attempted.
 
-(2) Whoever is a party to a conspiracy of two or more persons to commit an offense under subsection (a) of this section, if any of the parties engages in any conduct in furtherance of such offense, shall be fined an amount not greater than the amount provided as the maximum fine for such offense under subsection (c) of this section or imprisoned not longer than one-half theperiod provided as the maximum imprisonment for such offense under subsection (c) of this section, or both.
+(2) Whoever is a party to a conspiracy of two or more persons to commit an offense under subsection (a) of this section, if any of the parties engages in any conduct in furtherance of such offense, shall be fined an amount not greater than the amount provided as the maximum fine for such offense under subsection (c) of this section or imprisoned not longer than one-half the period provided as the maximum imprisonment for such offense under subsection (c) of this section, or both.
 
 (c)
 
@@ -88,7 +88,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 (h) Any person who, outside the jurisdiction of the United States, engages in any act that, if committed within the jurisdiction of the United States, would constitute an offense under subsection (a) or (b) of this section, shall be subject to the fines, penalties, imprisonment, and forfeiture provided in this title if—
 
-&emsp;(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit cardsystem member, or other entity within the jurisdiction of the United States; and
+&emsp;(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
 
 &emsp;(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
 
@@ -183,10 +183,6 @@ Pub. L. 103–322, §250007(3)(C), added par. (7) defining “credit card system
 1990—Subsec. (f). Pub. L. 101–647 inserted at end “For purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
 1986—Subsec. (f). Pub. L. 99–646 which directed that subsec. (f) be amended by substituting “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)” was executed by making the substitution for “title V of the Organized Crime Control Act of 1970) 18 U.S.C. note prec. 3481)” to reflect the probable intent of Congress.
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

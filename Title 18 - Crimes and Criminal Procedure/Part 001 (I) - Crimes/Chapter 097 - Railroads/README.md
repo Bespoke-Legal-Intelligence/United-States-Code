@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [1991\.](%C2%A7%2001991%20-%20Entering%20train%20to%20commit%20crime.md) | Entering train to commit crime. |
 | [1992\.](%C2%A7%2001992%20-%20Wrecking%20trains.md) | Wrecking trains. |
-| [1993\.](%C2%A7%2001993%20-%20Terrorist%20attacks%20and%20other%20acts%20of%20violence%20against%20mass%20transportation%20systems.md) | Terrorist attacks and other acts of violence against mass transportation systems. |
+| [1993\.](%C2%A7%2001993%20-%20Terrorist%20attacks%20and%20other%20acts%20of%20violence%20against%20public%20transportation%20systems.md) | Terrorist attacks and other acts of violence against public transportation systems. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -16,6 +16,8 @@ Attention is directed to the consideration of the extension of the laws now appl
 
 #### Amendments
 
+2005—Pub. L. 109–59, title III, §3042(b), Aug. 10, 2005, 119 Stat. 1640, substituted “public transportation” for “mass transportation” in item 1993.
+
 2001—Pub. L. 107–56, title VIII, §801(f), Oct. 26, 2001, 115 Stat. 376, added item 1993.
 
 
@@ -25,4 +27,4 @@ Attention is directed to the consideration of the extension of the laws now appl
 
 - [&sect; 01991 - Entering train to commit crime](%C2%A7%2001991%20-%20Entering%20train%20to%20commit%20crime.md)
 - [&sect; 01992 - Wrecking trains](%C2%A7%2001992%20-%20Wrecking%20trains.md)
-- [&sect; 01993 - Terrorist attacks and other acts of violence against mass transportation systems](%C2%A7%2001993%20-%20Terrorist%20attacks%20and%20other%20acts%20of%20violence%20against%20mass%20transportation%20systems.md)
+- [&sect; 01993 - Terrorist attacks and other acts of violence against public transportation systems](%C2%A7%2001993%20-%20Terrorist%20attacks%20and%20other%20acts%20of%20violence%20against%20public%20transportation%20systems.md)

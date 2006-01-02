@@ -24,7 +24,7 @@ Notice of Release of Prisoners.—(1) At least 5 days prior to the date on which
 
 &emsp;(B) the prisoner's criminal history, including a description of the offense of which the prisoner was convicted; and
 
-&emsp;(C) any restrictions on conduct or other conditions to the release of the prisoner that areimposed by law, the sentencing court, or the Bureau of Prisons or any other Federal agency.
+&emsp;(C) any restrictions on conduct or other conditions to the release of the prisoner that are imposed by law, the sentencing court, or the Bureau of Prisons or any other Federal agency.
 
 (3) A prisoner is described in this paragraph if the prisoner was convicted of—
 

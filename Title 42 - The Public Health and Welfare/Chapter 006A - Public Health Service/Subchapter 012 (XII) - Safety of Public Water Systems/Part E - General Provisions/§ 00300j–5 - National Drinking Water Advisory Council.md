@@ -6,7 +6,7 @@ There is established a National Drinking Water Advisory Council which shall cons
 
 &emsp;(1) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term; and
 
-&emsp;(2) the terms of the members first taking office shall expire as follows: Five shall expire three years after December 16, 1974, five shall expire two years after such date, and five shall expire one year after such date, as designated by the Administrator at the time of appointment.
+&emsp;(2) the terms of the members first taking office shall expire as follows: Five shall expirethree years after December 16, 1974, five shall expire two years after such date, and five shall expire one year after such date, as designated by the Administrator at the time of appointment.
 
 > The members of the Council shall be eligible for reappointment.
 

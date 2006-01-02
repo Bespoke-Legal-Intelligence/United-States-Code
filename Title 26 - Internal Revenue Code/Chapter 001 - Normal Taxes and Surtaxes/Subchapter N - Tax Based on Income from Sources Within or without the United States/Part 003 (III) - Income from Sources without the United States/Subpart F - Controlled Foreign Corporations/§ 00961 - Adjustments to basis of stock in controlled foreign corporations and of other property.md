@@ -8,23 +8,35 @@ Under regulations prescribed by the Secretary, the basis of a United States shar
 
 #### (1) In general
 
-&emsp;Under regulations prescribed by the Secretary, the adjusted basis of stock or other property with respect to which a United States shareholder or a United States person receives an amount which is excluded fromgross income under section 959(a) shall be reduced by the amount so excluded. In the case of a United States shareholder who has made an election under section 962 for any prior taxable year, the reduction in basis provided by this paragraph shall not exceed an amount equal to the amount received which is excluded from gross income under section 959(a) after the application of section 962(d).
+&emsp;Under regulations prescribed by the Secretary, the adjusted basis of stock or other property with respect to which a United States shareholder or a United States person receives an amount which is excluded from gross income under section 959(a) shall be reduced by the amount so excluded. In the case of a United States shareholder who has made an election under section 962 for any prior taxable year, the reduction in basis provided by this paragraph shall not exceed an amount equal to the amount received which is excluded from gross income under section 959(a) after the application of section 962(d).
 
 #### (2) Amount in excess of basis
 
 &emsp;To the extent that an amount excluded from gross income under section 959(a) exceeds the adjusted basis of the stock or other property with respect to which it is received, the amount shall be treated as gain from the sale or exchange of property.
 
-#### (c) Basis adjustments in stock held by foreign corporation
+#### (c) Basis adjustments in stock held by foreign corporations
 
-Under regulations prescribed by the Secretary, if a United States shareholder is treated under section 958(a)(2) as owning any stock in a controlled foreign corporation which is actually owned by another controlled foreign corporation, adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to the basis of such stock in the hands of such other controlled foreign corporation, but only for the purposes of determining the amount included under section 951 in the gross income of such United States shareholder (or any other United States shareholder who acquires from any person any portion of the interest of such United States shareholder by reason of which such shareholder was treated as owning such stock, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations).
+Under regulations prescribed by the Secretary, if a United States shareholder is treated under section 958(a)(2) as owning stock in a controlled foreign corporation which is owned by another controlled foreign corporation, then adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to—
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1022; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XI, §1112(b)(1), Aug. 5, 1997, 111 Stat. 969.)
+&emsp;(1) the basis of such stock, and
+
+&emsp;(2) the basis of stock in any other controlled foreign corporation by reason of which the United States shareholder is considered under section 958(a)(2) as owning the stock described in paragraph (1),
+
+> but only for the purposes of determining the amount included under section 951 in the gross income of such United States shareholder (orany other United States shareholder who acquires from any person any portion of the interest of such United States shareholder by reason of which such shareholder was treated as owning such stock, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations). The preceding sentence shall not apply with respect to any stock to which a basis adjustment applies under subsection (a) or (b).
+
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1022; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XI, §1112(b)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 109–135, title IV, §409(b), Dec. 21, 2005, 119 Stat. 2635.)
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–135 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary, if a United States shareholder is treated under section 958(a)(2) as owning any stock in a controlled foreign corporation which is actually owned by another controlled foreign corporation, adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to the basis of such stock in the hands of such other controlled foreign corporation, but only for the purposes of determining the amount included under section 951 in the gross income of such United States shareholder (or any other United States shareholder who acquires from any person any portion of the interest of such United States shareholder by reason of which such shareholder was treated as owning such stock, but only to the extent of such portion, and subject to such proof of identity of such interest as the Secretary may prescribe by regulations).”
 
 1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
 1976—Subsecs. (a), (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–135, title IV, §409(d), Dec. 21, 2005, 119 Stat. 2636, provided that: “The amendments made by this section \[amending this section and sections 6038B, 6411, and 6601 of this title\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate.”
 
 #### Effective Date of 1997 Amendment
 
@@ -33,8 +45,4 @@ Section 1112(b)(2) of Pub. L. 105–34 provided that: “The amendment made by p
 #### Dual Resident Companies
 
 Basis adjustments of this section not applicable in certain circumstances involving dual resident companies, see section 6126 of Pub. L. 100–647, set out as a note under section 1502 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 304, 1016 of this title.
 

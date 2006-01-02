@@ -38,7 +38,3 @@ Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(a)\], Oct. 30, 2000, 114 St
 
 “(2) Amounts transferred to the Department of the Navy General Gift Fund under this subsection shall be merged with other amounts in that Fund and shall be available for the purposes for which amounts in that Fund are available.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 2055.
-

@@ -2,7 +2,7 @@
 
 The Chairman of the Board, subject to the approval of the Board, may establish one or more advisory committees in accordance with the Federal Advisory Committee Act and may appoint to such committee or committees individuals who are members of the Federal Farm Credit Board when such Board is terminated by the Farm Credit Amendments Act of 1985.
 
-(Pub. L. 92–181, title V, §5.12, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(d), Jan. 6, 1988, 101 Stat. 1660.)
+(Pub. L. 92–181, title V, §5.12, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23,1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(d), Jan. 6, 1988, 101 Stat. 1660.)
 
 #### References in Text
 

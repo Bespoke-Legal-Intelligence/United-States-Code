@@ -13,10 +13,14 @@
 | [229\.](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md) | Programs for combating terrorism: display of budget information. |
 | \[230. | Repealed.\] |
 | [231\.](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md) | Budgeting for construction of naval vessels: annual plan and certification. |
+| [232\.](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md) | United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts. |
+| [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title II, §214(b), title X, §1003(a)(2), Oct. 28, 2004, 118 Stat. 1834, 2035, added items 232 and 233.
 
 2003—Pub. L. 108–136, div. A, title II, §223(a)(2), title X, §1031(a)(6)(B)(ii), Nov. 24, 2003, 117 Stat. 1420, 1596, added item 223a and substituted “Quarterly” for “Monthly” in item 228.
 
@@ -54,3 +58,5 @@
 - [&sect; 00229 - Programs for combating terrorism display of budget information](%C2%A7%2000229%20-%20Programs%20for%20combating%20terrorism%20display%20of%20budget%20information.md)
 - [&sect; 00230 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000230%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%282%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
 - [&sect; 00231 - Budgeting for construction of naval vessels annual plan and certification](%C2%A7%2000231%20-%20Budgeting%20for%20construction%20of%20naval%20vessels%20annual%20plan%20and%20certification.md)
+- [&sect; 00232 - United States Joint Forces Command amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts](%C2%A7%2000232%20-%20United%20States%20Joint%20Forces%20Command%20amounts%20for%20research%2C%20development%2C%20test%2C%20and%20evaluation%20to%20be%20derived%20only%20from%20Defense-wide%20amounts.md)
+- [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)

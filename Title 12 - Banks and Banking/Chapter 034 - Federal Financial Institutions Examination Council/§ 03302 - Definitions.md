@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) the term “Council” means the Financial Institutions Examination Council; and
 
-&emsp;(3) the term “financial institution” means a commercial bank, a savings bank, a trust company, a savings association, a building andloan association, a homestead association, a cooperative bank, or a credit union; <sup>1</sup>
+&emsp;(3) the term “financial institution” means a commercial bank, a savings bank, a trust company, a savings association, a building and loan association, a homestead association, a cooperative bank, or a credit union; <sup>1</sup>
 
 (Pub. L. 95–630, title X, §1003, Nov. 10, 1978, 92 Stat. 3694; Pub. L. 101–73, title VII, §744(a)(1), Aug. 9, 1989, 103 Stat. 438.)
 

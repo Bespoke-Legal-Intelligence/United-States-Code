@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Pursuant to regulations prescribed by the Secretary the earnings and profits of each member of an affiliated group required to be included in a consolidated return for such group filed for a taxable year shall be determined by allocating the tax liability of the group for such year among the members of the group in accord with whichever of the following methods the groupshall elect in its first consolidated return filed for such a taxable year:
+Pursuant to regulations prescribed by the Secretary the earnings and profits of each member of an affiliated group required to be included in a consolidated return for such group filed for a taxable year shall be determined by allocating the tax liability of the group for such year among the members of the group in accord with whichever of the following methods the group shall elect in its first consolidated return filed for such a taxable year:
 
 &emsp;(1) The tax liability shall be apportioned among the members of the group in accordance with the ratio which that portion of the consolidated taxable income attributable to each member of the group having taxable income bears to the consolidated taxable income.
 
@@ -26,7 +26,7 @@ If no election is made in such first return, the tax liability shall be allocate
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(159) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(159) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1964 Amendment
 

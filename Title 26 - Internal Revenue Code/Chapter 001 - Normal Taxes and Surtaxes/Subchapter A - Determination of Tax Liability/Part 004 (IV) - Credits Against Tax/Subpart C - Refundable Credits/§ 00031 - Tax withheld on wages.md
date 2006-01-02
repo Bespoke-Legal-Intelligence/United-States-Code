@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered an amount withheld at source as tax under section 3402.
+&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered anamount withheld at source as tax under section 3402.
 
 #### (2) Year of credit
 
@@ -65,8 +65,4 @@ Section 311(d) of Pub. L. 97–448 provided that: “The amendments made by sect
 #### Construction of Amendment by Title VII of Division A of Pub. L. 98–369
 
 Section 701 of title VII of div. A of Pub. L. 98–369 provided that: “For purposes of applying the amendments made by any title of this Act \[see Tables for classification\] other than this title, the provisions of this title shall be treated as having been enacted immediately before the provisions of such other titles.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 643, 874, 995, 3406, 3510, 6211, 6413, 6513, 6654 of this title.
 

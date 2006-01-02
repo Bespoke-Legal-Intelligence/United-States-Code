@@ -22,7 +22,7 @@ Within 6 months after November 17, 1988, the Secretary shall publish an update o
 
 > &emsp;may provide appropriate protections against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5.
 
-&emsp;(5) The plan shall assure basic research support, for the research carried out under the research plan, from independent laboratories, universities, and nonprofit organizations, by coordinating activities under the research plan with the basic research efforts of the Department of Energy, such as the Energy Conversion and Utilization Technologies Program and the Materials Processing and Sensor and Controls programs within the Office of Industrial Technologies.
+&emsp;(5) The plan shall assure basic research support, for the research carried out under the research plan, from independent laboratories, universities, and nonprofit organizations, by coordinating activities under the research plan with the basic research efforts of the Department of Energy, such as the Energy Conversion and Utilization Technologies Program and the Materials Processing and Sensor andControls programs within the Office of Industrial Technologies.
 
 #### (c) Priorities
 

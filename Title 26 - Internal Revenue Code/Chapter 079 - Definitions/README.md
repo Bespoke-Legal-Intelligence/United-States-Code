@@ -23,10 +23,6 @@
 
 1984—Pub. L. 98–369, div. A, title II, §221(c), July 18, 1984, 98 Stat. 772, added item 7702.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 5002, 7801, 7851 of this title.
-
 
 ---
 

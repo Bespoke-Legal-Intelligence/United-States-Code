@@ -6,7 +6,7 @@
 
 (2) Not later than six months after August 7, 1977, the Secretary of the Interior in consultation with other Federal land managers shall review all mandatory class I Federal areas and identify those where visibility is an important value of the area. From time to time the Secretary of the Interior may revise such identifications. Not later than one year after August 7, 1977, the Administrator shall, after consultation with the Secretary of the Interior, promulgate a list of mandatory class I Federal areas in which he determines visibility is an important value.
 
-(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete a study and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
+(3) Not later than eighteen months after August 7, 1977, the Administrator shall complete astudy and report to Congress on available methods for implementing the national goal set forth in paragraph (1). Such report shall include recommendations for—
 
 &emsp;(A) methods for identifying, characterizing, determining, quantifying, and measuring visibility impairment in Federal areas referred to in paragraph (1), and
 
@@ -58,7 +58,7 @@ For the purpose of this section—
 
 &emsp;(1) in determining reasonable progress there shall be taken into consideration the costs of compliance, the time necessary for compliance, and the energy and nonair quality environmental impacts of compliance, and the remaining useful life of any existing source subject to such requirements;
 
-&emsp;(2) in determining best available retrofit technology the State (or the Administrator in determining emission limitations which reflect such technology) shall take into consideration the costs of compliance, the energy and nonair quality environmental impacts of compliance, any existing pollution controltechnology in use at the source, the remaining useful life of the source, and the degree of improvement in visibility which may reasonably be anticipated to result from the use of such technology;
+&emsp;(2) in determining best available retrofit technology the State (or the Administrator in determining emission limitations which reflect such technology) shall take into consideration the costs of compliance, the energy and nonair quality environmental impacts of compliance, any existing pollution control technology in use at the source, the remaining useful life of the source, and the degree of improvement in visibility which may reasonably be anticipated to result from the use of such technology;
 
 &emsp;(3) the term “manmade air pollution” means air pollution which results directly or indirectly from human activities;
 

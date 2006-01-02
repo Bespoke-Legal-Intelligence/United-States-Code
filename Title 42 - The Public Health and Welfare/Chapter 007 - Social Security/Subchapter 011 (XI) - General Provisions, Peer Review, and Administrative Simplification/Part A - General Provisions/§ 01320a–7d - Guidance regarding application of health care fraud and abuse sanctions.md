@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(B) the volume and frequency of the conduct that would be identified in the special fraud alert.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–554, §1(a)(6) \[title V, §543\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
+(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110 Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–554, §1(a)(6) \[title V, §543\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
 
 #### References in Text
 

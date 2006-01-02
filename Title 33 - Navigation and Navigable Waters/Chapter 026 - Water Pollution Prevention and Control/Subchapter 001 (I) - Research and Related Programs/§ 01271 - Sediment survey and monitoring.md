@@ -136,7 +136,7 @@ Cochairmen.—The Administrator and the Secretary shall serve as cochairmen of t
 
 &emsp;“(4)
 
-Clerical and technical assistance.—Such clerical and technical assistance as may be necessary to discharge the duties of the Task Force shall be provided by the personnel of the Environmental Protection Agency and the Army Corps of Engineers.
+Clerical and technical assistance.—Such clerical and technical assistance as may be necessaryto discharge the duties of the Task Force shall be provided by the personnel of the Environmental Protection Agency and the Army Corps of Engineers.
 
 &emsp;“(5)
 

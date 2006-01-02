@@ -12,7 +12,7 @@ Waiver When Reciprocal Services Provided United States Military Personnel.—Not
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9020, Nov. 21, 1989, 103 Stat. 1133, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(f)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9020, Nov. 21, 1989,103 Stat. 1133, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(f)(3).
 
 #### Amendments
 

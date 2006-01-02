@@ -44,7 +44,7 @@ The term “unauthorized person” means any person who, or agency which, is not
 
 > if not inconsistent with this subsection.
 
-(4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
+(4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime VictimsFund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
 (5) As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 

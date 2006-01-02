@@ -14,7 +14,7 @@ The Secretary may, by regulation and under such conditions and procedures as he 
 
 &emsp;(5) the sale of eggs by shell egg packers on his own premises directly to household consumers for use by such consumer and members of his household and his nonpaying guests and employees, and the transportation, possession, and use of such eggs in accordance with this paragraph;
 
-&emsp;(6) for such period of time (not to exceed two years) during the initiation of operations under this chapter as the Secretary determines that it is impracticable to provide inspection, the processing of egg products at any class of plants and the egg products processed at such plants; and
+&emsp;(6) for such period of time (not to exceed two years) during the initiation of operations under this chapter as the Secretary determines that it is impracticable to provide inspection, the processing of egg products at anyclass of plants and the egg products processed at such plants; and
 
 &emsp;(7) the sale of eggs by any egg producer with an annual egg production from a flock of three thousand or less hens.
 
@@ -24,7 +24,7 @@ The Secretary shall, by regulation and under such procedures as he may prescribe
 
 #### (c) Suspension or termination of exemptions
 
-The Secretary may immediately suspend or terminate any exemption under subsection (a)(2) or (6) of this section at any time with respect toany person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
+The Secretary may immediately suspend or terminate any exemption under subsection (a)(2) or (6) of this section at any time with respect to any person, if the conditions of exemption prescribed by this section or the regulations of the Secretary are not being met. The Secretary may modify or revoke any regulation granting exemption under this chapter whenever he deems such action appropriate to effectuate the purposes of this chapter.
 
 (Pub. L. 91–597, §15, Dec. 29, 1970, 84 Stat. 1629; Pub. L. 92–67, Aug. 6, 1971, 85 Stat. 173.)
 

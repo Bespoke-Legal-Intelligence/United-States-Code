@@ -4,7 +4,3 @@ The term “executor” wherever it is used in this title in connection with the
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 401.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2652, 6036 of this title.
-

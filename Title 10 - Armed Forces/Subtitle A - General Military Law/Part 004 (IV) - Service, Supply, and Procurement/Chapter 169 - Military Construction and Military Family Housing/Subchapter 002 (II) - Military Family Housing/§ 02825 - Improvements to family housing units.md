@@ -82,7 +82,3 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 Maximum amount of $30,000 per unit for an improvement project for family housing units under this section during the period beginning Oct. 1, 1982, and ending on the date of the enactment of the Military Construction Authorization Act for fiscal year 1984 or Oct. 1, 1983, whichever is later, see section 11(3) of Pub. L. 97–214, set out as a note under section 2828 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2822 of this title.
-

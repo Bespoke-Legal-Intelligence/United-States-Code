@@ -2,7 +2,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) factual knowledge, independently verified, about the countries of Eastern Europe and the independent states of the former Soviet Union is of the utmost importance for the national security of the United States, for the furtherance of our national interests in the conduct of foreign relations, and for the prudent management of our domestic affairs;
+&emsp;(1) factual knowledge, independently verified, about the countries of Eastern Europe and the independent states of the former Soviet Union is of the utmost importance for the national security of the United States, for the furtherance of our national interests in theconduct of foreign relations, and for the prudent management of our domestic affairs;
 
 &emsp;(2) the development and maintenance of knowledge about the countries of Eastern Europe and the independent states of the former Soviet Union depends upon the national capability for advanced research by highly trained and experienced specialists, available for service in and out of Government;
 

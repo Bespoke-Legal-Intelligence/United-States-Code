@@ -12,6 +12,7 @@ Subpart A—Distilled Spirits
 | [5008\.](%C2%A7%2005008%20-%20Abatement%2C%20remission%2C%20refund%2C%20and%20allowance%20for%20loss%20or%20destruction%20of%20distilled%20spirits.md) | Abatement, remission, refund, and allowance for loss or destruction of distilled spirits. |
 | \[5009. | Repealed.\] |
 | [5010\.](%C2%A7%2005010%20-%20Credit%20for%20wine%20content%20and%20for%20flavors%20content.md) | Credit for wine content and for flavors content. |
+| [5011\.](%C2%A7%2005011%20-%20Income%20tax%20credit%20for%20average%20cost%20of%20carrying%20excise%20tax.md) | Income tax credit for average cost of carrying excise tax. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,13 +22,11 @@ A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled
 
 #### Amendments
 
+2005—Pub. L. 109–59, title XI, §11126(c), Aug. 10, 2005, 119 Stat. 1958, added item 5011.
+
 1980—Pub. L. 96–598, §6(b), Dec. 24, 1980, 94 Stat. 3489, added item 5010.
 
 1979—Pub. L. 96–39, title VIII, §807(b)(2), July 26, 1979, 93 Stat. 290, struck out item 5009 “Drawback”.
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5505, 6651 of this title.
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
@@ -50,3 +49,4 @@ This subchapter is referred to in sections 5505, 6651 of this title.
 - [&sect; 05008 - Abatement, remission, refund, and allowance for loss or destruction of distilled spirits](%C2%A7%2005008%20-%20Abatement%2C%20remission%2C%20refund%2C%20and%20allowance%20for%20loss%20or%20destruction%20of%20distilled%20spirits.md)
 - [&sect; 05009 - Repealed. Pub. L. 96&#8211;39, title VIII, &sect;807(a)(7), July 26, 1979, 93 Stat. 281](%C2%A7%2005009%20-%20Repealed.%20Pub.%20L.%2096%E2%80%9339%2C%20title%20VIII%2C%20%C2%A7807%28a%29%287%29%2C%20July%2026%2C%201979%2C%2093%20Stat.%20281.md)
 - [&sect; 05010 - Credit for wine content and for flavors content](%C2%A7%2005010%20-%20Credit%20for%20wine%20content%20and%20for%20flavors%20content.md)
+- [&sect; 05011 - Income tax credit for average cost of carrying excise tax](%C2%A7%2005011%20-%20Income%20tax%20credit%20for%20average%20cost%20of%20carrying%20excise%20tax.md)

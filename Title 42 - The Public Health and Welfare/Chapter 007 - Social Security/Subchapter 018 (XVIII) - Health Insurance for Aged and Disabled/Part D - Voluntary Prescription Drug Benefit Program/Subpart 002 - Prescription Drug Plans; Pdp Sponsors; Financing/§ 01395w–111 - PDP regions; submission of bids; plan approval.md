@@ -228,7 +228,7 @@
 
 #### (iii) Competitive procedures
 
-&emsp;&emsp;&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used toenter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
+&emsp;&emsp;&emsp;Competitive procedures (as defined in section 403(5) of title 41) shall be used to enter into a contract under this subsection. The provisions of subsection (d) of section 1395kk–1 of this title shall apply to a contract under this section in the same manner as they apply to a contract under such section.
 
 #### (iv) Timing
 

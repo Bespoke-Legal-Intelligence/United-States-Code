@@ -12,7 +12,7 @@
 
 #### (b) Definition of foreign expropriation loss
 
-For purposes of this section, the term “foreign expropriation loss” means any loss sustained by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing. For purposes of the preceding sentence, a debt which becomes worthless shall, to the extent of any deduction allowed under section 166(a), be treated as a loss.
+For purposes of this section, the term “foreign expropriation loss” means any loss sustained by reason of the expropriation, intervention, seizure, or similar taking of property by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing. For purposes of the preceding sentence, a debt which becomes worthlessshall, to the extent of any deduction allowed under section 166(a), be treated as a loss.
 
 #### (c) Amount of recovery
 
@@ -78,7 +78,7 @@ For purposes of this subtitle, proper adjustment shall be made, under regulation
 
 &emsp;(5) such other items as may be specified by such regulations,
 
-> for the taxable year of a recovery of a foreign expropriation loss to which this section applies, and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
+> for the taxable year of a recovery of a foreign expropriation loss to which this section applies,and for succeeding taxable years, to take into account items changed in making the computations under subsection (d) for taxable years prior to the taxable year of such recovery.
 
 (Added Pub. L. 89–384, §1(a), Apr. 8, 1966, 80 Stat. 99; amended Pub. L. 94–455, title X, §1031(b)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1623, 1834; Pub. L. 95–600, title III, §301(b)(17), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 98–369, div. A, title I, §42(a)(12), title II, §211(b)(18), title IV, §474(r)(25), July 18, 1984, 98 Stat. 557, 756, 844; Pub. L. 99–514, title XVIII, §1812(a)(4), Oct. 22, 1986, 100 Stat. 2833.)
 
@@ -133,8 +133,4 @@ Section 2 of Pub. L. 89–384, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 30A, 80, 936, 6167 of this title.
 

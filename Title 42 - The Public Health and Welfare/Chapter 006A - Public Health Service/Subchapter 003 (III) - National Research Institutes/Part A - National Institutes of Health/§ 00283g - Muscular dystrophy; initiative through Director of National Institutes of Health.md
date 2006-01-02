@@ -58,7 +58,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 &emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
 
-> &emsp;Members appointed under subparagraph (B) shall serve for a term of 3 years, and may serve for an unlimited number of terms if reappointed.
+> &emsp;Members appointed under subparagraph (B) shall serve for a term of 3 years, and mayserve for an unlimited number of terms if reappointed.
 
 #### (3) Chair
 
@@ -120,7 +120,7 @@ The Secretary shall, under subsection (a)(1) of this section, provide for a mean
 
 #### (h) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorizationof appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.
 
 (July 1, 1944, ch. 373, title IV, §404E, as added Pub. L. 107–84, §3, Dec. 18, 2001, 115 Stat. 824.)
 

@@ -28,7 +28,3 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 821 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 11 of this title.
-

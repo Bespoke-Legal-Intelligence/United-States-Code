@@ -2,25 +2,37 @@
 
 #### (a) Physical damage to facilities, etc.
 
-Any person who intentionally and willfully destroys or causes physical damage to—
+Any person who knowingly destroys or causes physical damage to—
 
 &emsp;(1) any production facility or utilization facility licensed under this chapter;
 
-&emsp;(2) any nuclear waste storage facility licensed under this chapter;
+&emsp;(2) any nuclear waste treatment, storage, or disposal facility licensed under this chapter;
 
-&emsp;(3) any nuclear fuel for such a utilization facility, or any spent nuclear fuel from such a facility; or
+&emsp;(3) any nuclear fuel for a utilization facility licensed under this chapter, or any spent nuclear fuel from such a facility;
 
-&emsp;(4) any uranium enrichment facility licensed by the Nuclear Regulatory Commission,
+&emsp;(4) any uranium enrichment, uranium conversion, or nuclear fuel fabrication facility licensed or certified by the Nuclear Regulatory Commission;
+
+&emsp;(5) any production, utilization, waste storage, waste treatment, waste disposal, uranium enrichment, uranium conversion, or nuclear fuel fabrication facility subject to licensing or certification under this chapter during construction of the facility, if the destruction or damage caused or attempted to be caused could adversely affect public health and safety during the operation of the facility;
+
+&emsp;(6) any primary facility or backup facility from which a radiological emergency preparedness alert and warning system is activated; or
+
+&emsp;(7) any radioactive material or other property subject to regulation by the Commission that, before the date of the offense, the Commission determines, by order or regulation published in the Federal Register, is of significance to the public health and safety or to common defense and security; <sup>1</sup>
 
 > or attempts or conspires to do such an act, shall be fined not more than $10,000 or imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
 #### (b) Unauthorized use or tampering with facilities, etc.
 
-Any person who intentionally and willfully causes an interruption of normal operation of any such facility through the unauthorized use of or tampering with the machinery, components, or controls of any such facility, or attempts or conspires to do such an act, shall be fined not more than $10,000 or imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
+Any person who knowingly causes an interruption of normal operation of any such facility through the unauthorized use of or tampering with the machinery, components, or controls of any such facility, or attempts or conspires to do such an act, shall be fined not more than $10,000 or imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
-(Aug. 1, 1946, ch. 724, title I, §236, as added Pub. L. 96–295, title II, §204(a), June 30, 1980, 94 Stat. 787; amended Pub. L. 97–415, §16, Jan. 4, 1983, 96 Stat. 2076; Pub. L. 101–575, §5(d), Nov. 15, 1990, 104 Stat. 2835; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 107–56, title VIII, §§810(f), 811(h), Oct. 26, 2001, 115 Stat. 380, 381.)
+(Aug. 1, 1946, ch. 724, title I, §236, as added Pub. L. 96–295, title II, §204(a), June 30, 1980, 94 Stat. 787; amended Pub. L. 97–415, §16, Jan. 4, 1983, 96 Stat. 2076; Pub. L. 101–575, §5(d), Nov. 15, 1990, 104 Stat. 2835; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 107–56, title VIII, §§810(f), 811(h), Oct. 26, 2001, 115 Stat. 380, 381; Pub. L. 109–58, title VI, §655, Aug. 8, 2005, 119 Stat. 813.)
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58, §655(b), substituted “knowingly” for “intentionally and willfully” in introductory provisions.
+
+Pub. L. 109–58, §655(a), substituted “treatment, storage, or disposal facility” for “storage facility” in par. (2), “a utilization facility licensed under this chapter” for “such a utilization facility” in par. (3), and “, uranium conversion, or nuclear fuel fabrication facility licensed or certified” for “facility licensed” in par. (4) and added pars. (5) to (7).
+
+Subsec. (b). Pub. L. 109–58, §655(b), substituted “knowingly” for “intentionally and willfully”.
 
 2001—Subsec. (a). Pub. L. 107–56, §§810(f)(1), (2), 811(h)(1)(A), (C), in introductory provisions, struck out “, or who intentionally and willfully attempts to destroy or cause physical damage to” before “—”, and in concluding provisions, inserted “or attempts or conspires to do such an act,” before “shall be fined” and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “ten years, or both.”
 

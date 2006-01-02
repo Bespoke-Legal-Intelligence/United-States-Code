@@ -503,6 +503,7 @@
 | (d) | Costs of treatment. |
 | (e) | Death or separation of member. |
 | (f) | Review; medical care contracts. |
+| (g) | Retention of medical reimbursements. |
 | [4085\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004085%20-%20Entertainment%20and%20representation%20expenses.md) | Entertainment and representation expenses. |
 | [4086\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004086%20-%20Entitlement%20to%20vote%20in%20a%20State%20in%20a%20Federal%20election%3B%20preconditions%3B%20applicability.md) | Entitlement to vote in a State in a Federal election; preconditions; applicability. |
 

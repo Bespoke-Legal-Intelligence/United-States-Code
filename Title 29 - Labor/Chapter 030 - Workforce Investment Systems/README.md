@@ -157,6 +157,7 @@
 | [2881\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002881%20-%20Purposes.md) | Purposes. |
 | [2882\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002882%20-%20Definitions.md) | Definitions. |
 | [2883\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002883%20-%20Establishment.md) | Establishment. |
+| [2883a.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002883a%20-%20Office%20of%20Job%20Corps.md) | Office of Job Corps. |
 | [2884\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002884%20-%20Individuals%20eligible%20for%20the%20Job%20Corps.md) | Individuals eligible for the Job Corps. |
 | [2885\.](Subchapter%20003%20%28III%29%20-%20Job%20Corps/%C2%A7%2002885%20-%20Recruitment%2C%20screening%2C%20selection%2C%20and%20assignment%20of%20enrollees.md) | Recruitment, screening, selection, and assignment of enrollees. |
 | (a) | Standards and procedures. |

@@ -4,7 +4,7 @@
 
 Pursuant to section 2903 of this title and section 2191 of this title, the Congress approves—
 
-&emsp;(1) the North American Free Trade Agreement entered into on December 17, 1992, with the Governments of Canada and Mexico and submitted to the Congress on November 4, 1993; and
+&emsp;(1) the North American Free Trade Agreement entered into on December 17, 1992, withthe Governments of Canada and Mexico and submitted to the Congress on November 4, 1993; and
 
 &emsp;(2) the statement of administrative action proposed to implement the Agreement that was submitted to the Congress on November 4, 1993.
 
@@ -22,7 +22,7 @@ The President is authorized to exchange notes with the Government of Canada or M
 
 &emsp;&emsp;&emsp;(ii) otherwise ensure the effective implementation of the binational panel review process under chapter 19 of the Agreement regarding final antidumping and countervailing duty determinations; and
 
-&emsp;(2) the Government of such country exchanges notes with the United States providing for the entry into force of the North American Agreement on Environmental Cooperation and the North American Agreement onLabor Cooperation for that country and the United States.
+&emsp;(2) the Government of such country exchanges notes with the United States providing for the entry into force of the North American Agreement on Environmental Cooperation and the North American Agreement on Labor Cooperation for that country and the United States.
 
 (Pub. L. 103–182, title I, §101, Dec. 8, 1993, 107 Stat. 2061.)
 
@@ -96,7 +96,7 @@ Sec. 5. <i>Government Procurement Procedures</i>. (a) Waiver.
 
 (g) Pursuant to section 25 of the Office of Federal Procurement Policy Act, as amended (41 U.S.C. 421(a)), the Federal Acquisition Regulatory Council shall ensure that the policies established herein are incorporated in the FAR within 30 days from the date this order is issued.
 
-Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, within 30 days from the date thisorder is issued, modify or adopt procedures to ensure compliance with Article 1709(10) of the NAFTA regarding notice when patented technology is used by or for the Federal Government without a license from the owner, except that the requirement of Article 1709(10)(b) regarding reasonable efforts to obtain advance authorization from the patent owner:
+Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, within 30 days from the date this order is issued, modify or adopt procedures to ensure compliance with Article 1709(10) of the NAFTA regarding notice when patented technology is used by or for the Federal Government without a license from the owner, except that the requirement of Article 1709(10)(b) regarding reasonable efforts to obtain advance authorization from the patent owner:
 
 &emsp;(1) is hereby waived for an invention used or manufactured by or for the Federal Government, except that the patent owner must be notified whenever the agency or its contractor, without making a patent search, knows or has demonstrable reasonable grounds to know that an invention described in and covered by a valid United States patent is or will be used or manufactured without a license; and
 

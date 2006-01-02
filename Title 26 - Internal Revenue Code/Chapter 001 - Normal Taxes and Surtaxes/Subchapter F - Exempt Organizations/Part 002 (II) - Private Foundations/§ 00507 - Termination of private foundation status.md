@@ -20,7 +20,7 @@ Except as provided in subsection (b), the status of any organization as a privat
 
 &emsp;&emsp;(A) such organization distributes all of its net assets to one or more organizations described in section 170(b)(1)(A) (other than in clauses (vii) and (viii)) each of which has been in existence and so described for a continuous period of at least 60 calendar months immediately preceding such distribution, or
 
-&emsp;&emsp;(B)(i) such organization meets the requirements of paragraph (1), (2), or (3) of section509(a) by the end of the 12-month period beginning with its first taxable year which begins after December 31, 1969, or for a continuous period of 60 calendar months beginning with the first day of any taxable year which begins after December 31, 1969,
+&emsp;&emsp;(B)(i) such organization meets the requirements of paragraph (1), (2), or (3) of section 509(a) by the end of the 12-month period beginning with its first taxable year which begins after December 31, 1969, or for a continuous period of 60 calendar months beginning with the first day of any taxable year which begins after December 31, 1969,
 
 &emsp;&emsp;(ii) such organization notifies the Secretary (in such manner as the Secretary may by regulations prescribe) before the commencement of such 12-month or 60-month period (or before the 90th day after the day on which regulations first prescribed under this subsection become final) that it is terminating its private foundation status, and
 
@@ -98,7 +98,7 @@ For purposes of subsection (c), the value of the net assets shall be determined 
 
 #### (f) Liability in case of transfers of assets from private foundation
 
-For purposes of determining liability for the tax imposed by subsection (c) in the case of assets transferred by the private foundation, such tax shall be deemed to have been imposed on the first day on which action is taken by the organization which culminates in its ceasing to be a private foundation.
+For purposes of determining liability for the tax imposed by subsection (c) in the case of assets transferred by the private foundation, suchtax shall be deemed to have been imposed on the first day on which action is taken by the organization which culminates in its ceasing to be a private foundation.
 
 #### (g) Abatement of taxes
 
@@ -133,8 +133,4 @@ Pub. L. 95–170, §3, Nov. 12, 1977, 91 Stat. 1352, as amended by Pub. L. 99–
 &emsp;“(2) were coincident with or by reason of the reduction in the required payments under such lease,
 
 > shall not be taken into account. For purposes of applying section 507(d)(2)(B)(iv) of such Code, the preceding sentence shall be treated as having taken effect on January 1, 1970.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 508, 509, 4940, 4946, 4947, 4948, 6104, 6214, 6501, 6503 of this title.
 

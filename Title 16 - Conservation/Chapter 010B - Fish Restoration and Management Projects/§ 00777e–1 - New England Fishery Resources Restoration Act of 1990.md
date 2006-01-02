@@ -22,7 +22,7 @@ The Director of the United States Fish and Wildlife Service, hereinafter referre
 
 The Director shall conduct a study to identify impediments to upstream and downstream passage of fish in rivers and streams in the New England States due to dams that are not licensed by the Federal Energy Regulatory Commission or other human-caused obstructions. In addition, the study shall identify actions needed to alleviate those impediments where desirable and feasible. The study shall include, but not be limited to, identifying—
 
-&emsp;(1) all dams not licensed by the Federal Energy Regulatory Commission and other human-caused obstructions on New England rivers and streams where construction of upstream or downstream fish passage facilities or their removal would benefit fishery resources, including an estimate of the degree of benefits expected; and
+&emsp;(1) all dams not licensed by the Federal Energy Regulatory Commission and otherhuman-caused obstructions on New England rivers and streams where construction of upstream or downstream fish passage facilities or their removal would benefit fishery resources, including an estimate of the degree of benefits expected; and
 
 &emsp;(2) the proposed nature and size and estimated cost of appropriate fish passage facilities or other actions determined to be necessary and feasible or each dam or other obstruction identified in response to paragraph (1).
 
@@ -54,7 +54,7 @@ Section was enacted as the New England Fishery Resources Restoration Act of 1990
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

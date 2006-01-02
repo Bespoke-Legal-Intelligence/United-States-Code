@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation involved in a coalition with the United States while the liaison officer is assigned temporarily to the headquarters of a combatant command, component command, or subordinate operational command of the United States in connection with the planning for, or conduct of, a coalition operation.
+Authority.—The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation involved in a coalition with the United States while the liaison officer is assigned temporarily to the headquarters of acombatant command, component command, or subordinate operational command of the United States in connection with the planning for, or conduct of, a coalition operation.
 
 (b)
 
@@ -28,9 +28,15 @@ Definitions.—In this section:
 
 (e)
 
-Expiration of Authority.—The authority under this section shall expire on September 30, 2005.
+Expiration of Authority.—The authority under this section shall expire on September 30, 2007.
 
-(Added Pub. L. 107–314, div. A, title XII, §1201(a)(1), Dec. 2, 2002, 116 Stat. 2662.)
+(Added Pub. L. 107–314, div. A, title XII, §1201(a)(1), Dec. 2, 2002, 116 Stat. 2662; amended Pub. L. 109–13, div. A, title I, §1010, May 11, 2005, 119 Stat. 244; Pub. L. 109–163, div. A, title XII, §1205, Jan. 6, 2006, 119 Stat. 3456.)
+
+#### Amendments
+
+2006—Subsec. (e). Pub. L. 109–163, which directed amendment of subsec. (e) by substituting “September 30, 2007” for “September 30, 2005”, was executed by making the substitution for “December 31, 2005”, to reflect the probable intent of Congress and the amendment by Pub. L. 109–13. See note below.
+
+2005—Subsec. (e). Pub. L. 109–13 substituted “December 31, 2005” for “September 30, 2005”.
 
 #### GAO Report
 

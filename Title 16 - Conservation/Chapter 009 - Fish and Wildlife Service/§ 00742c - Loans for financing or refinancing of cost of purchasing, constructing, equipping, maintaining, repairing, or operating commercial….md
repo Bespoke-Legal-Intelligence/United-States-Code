@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Secretary of the Interior is authorized, under such rules and regulations and under such terms and conditions as he may prescribe, to make loans for financing or refinancing of the cost of purchasing, constructing, equipping, maintaining, repairing, or operating new or used commercial fishing vessels or gear.
+The Secretary of the Interior is authorized, under such rules and regulations and under such terms and conditions as he may prescribe, to make loans for financing or refinancing of the cost of purchasing, constructing, equipping,maintaining, repairing, or operating new or used commercial fishing vessels or gear.
 
 #### (b) Conditions
 
@@ -104,7 +104,7 @@ Loan Authority.—During the period beginning on the date of the enactment of th
 
 Loans To Avoid Default on Obligations Covering Fishing Vessels.—(1) The Secretary may make loans for the purpose of assisting obligors to avoid default on obligations that are issued with respect to the construction, reconstruction, reconditioning or purchase of fishing vessels and that—
 
-&emsp;“(A) are guaranteed by the United States under title XI of the Merchant Marine Act, 1936 (46 U.S.C. 1271–1280, relating to Federal ship mortgage insurance); or
+&emsp;“(A) are guaranteed by the United States under title XI of the Merchant Marine Act, 1936 (46 U.S.C.1271–1280, relating to Federal ship mortgage insurance); or
 
 &emsp;“(B) are not guaranteed under such title XI, but the fishing vessels concerned meet the use and documentation requirements, and the obligors meet the citizenship requirements, that would apply if the obligations were guaranteed under that title.
 

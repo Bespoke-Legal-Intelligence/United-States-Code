@@ -4,7 +4,7 @@
 
 &emsp;(1) damage caused by a vessel in the Coast Guard service or by other property under the jurisdiction of the Department in which the Coast Guard is operating;
 
-&emsp;(2) compensation for towage and salvage services, including contract salvage, rendered to a vessel in the Coast Guard service or toother property under the jurisdiction of the Department in which the Coast Guard is operating; or
+&emsp;(2) compensation for towage and salvage services, including contract salvage, rendered to a vessel in the Coast Guard service or to other property under the jurisdiction of the Department in which the Coast Guard is operating; or
 
 &emsp;(3) damage caused by a maritime tort committed by an agent or employee of the Department in which the Coast Guard is operating or by property under the jurisdiction of that Department.
 

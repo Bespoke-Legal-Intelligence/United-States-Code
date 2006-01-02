@@ -16,7 +16,7 @@ Any person who, on the effective date of this chapter, held a position compensat
 
 #### References in Text
 
-The effective date of this chapter, referred to in subsecs. (a) and (c), refers to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
+The effective date of this chapter, referred to in subsecs. (a) and (c), refers to the effective date of Pub. L.93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 
 #### Codification
 

@@ -14,7 +14,7 @@
 
 #### (B) Time period for review
 
-&emsp;&emsp;Not later than 30 days after the date on which the Secretary is notified under subparagraph (A) by an accredited person with respect to a recommendation of an initial classification of a device, the Secretary shallmake a determination with respect to the initial classification.
+&emsp;&emsp;Not later than 30 days after the date on which the Secretary is notified under subparagraph (A) by an accredited person with respect to a recommendation of an initial classification of a device, the Secretary shall make a determination with respect to the initial classification.
 
 #### (C) Special rule
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
+&emsp;&emsp;Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretaryshall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
 
 #### (B) Withdrawal of accreditation
 
@@ -90,7 +90,7 @@
 
 #### (4) Selection of accredited persons
 
-&emsp;The Secretary shall provide each person who chooses to use an accredited person to receivea section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
+&emsp;The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
 
 #### (5) Compensation of accredited persons
 

@@ -24,10 +24,6 @@
 
 1958—Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1282, added subchapter heading and section analysis.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4064 of this title.
-
 
 ---
 

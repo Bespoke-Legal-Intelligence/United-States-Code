@@ -1,6 +1,6 @@
 ### §175b. Possession by restricted persons
 
-(a)(1) No restricted person shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations.
+(a)(1) No restricted person shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations.
 
 (2) Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
 
@@ -58,10 +58,6 @@ Certain other biological agents and toxins.—Whoever knowingly possesses a biol
 
 (Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767.)
 
-#### Amendment of Subsection (a)(1)
-
-<i>Pub. L. 108–458, title VI, §6802(d), Dec. 17, 2004, 118 Stat. 3767, provided that, effective at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective, subsec. (a)(1) of this section is amended by striking “as a select agent in Appendix A” and all that follows and inserting the following: “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations.” See Effective Date of 2004 Amendment note below.</i>
-
 #### References in Text
 
 Section 351A of the Public Health Service Act, referred to in subsecs. (a)(1), (b)(1), and (c)(1), is classified to section 262a of Title 42, The Public Health and Welfare.
@@ -70,7 +66,9 @@ Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to
 
 #### Amendments
 
-2004—Subsec. (d)(2)(G). Pub. L. 108–458, §6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
+2004—Subsec. (a)(1). Pub. L. 108–458, §6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
+
+Subsec. (d)(2)(G). Pub. L. 108–458, §6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
 
 Subsec. (d)(2)(H). Pub. L. 108–458, §6802(c)(2), substituted “; or” for period at end.
 

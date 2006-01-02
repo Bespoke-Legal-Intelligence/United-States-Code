@@ -72,7 +72,7 @@ Each eligible partnership receiving a grant under section 1023 of this title sha
 
 #### (1) Report
 
-&emsp;Each eligible State or eligible partnership receiving a grant under this part shall report annually on the progress of the eligible State or eligible partnership toward meeting thepurposes of this part and the goals, objectives, and measures described in subsections (a) and (b) of this section.
+&emsp;Each eligible State or eligible partnership receiving a grant under this part shall report annually on the progress of the eligible State or eligible partnership toward meeting the purposes of this part and the goals, objectives, and measures described in subsections (a) and (b) of this section.
 
 #### (2) Revocation
 
@@ -82,7 +82,7 @@ Each eligible partnership receiving a grant under section 1023 of this title sha
 
 #### (B) Eligible partnerships
 
-&emsp;&emsp;If the Secretary determines that an eligible partnership is not making substantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the third year of a grant under this part, then the grant payments shall not be made for any succeeding year of the grant.
+&emsp;&emsp;If the Secretary determines that an eligible partnership is not making substantial progress in meeting the purposes, goals, objectives, and measures, as appropriate, by the end of the third year of a grant underthis part, then the grant payments shall not be made for any succeeding year of the grant.
 
 #### (d) Evaluation and dissemination
 

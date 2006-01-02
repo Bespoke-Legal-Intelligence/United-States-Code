@@ -12,7 +12,3 @@ Assistance under this chapter—
 
 1994—Par. (1). Pub. L. 103–337 substituted “3524” for “1724”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2182, 2183 of this title.
-

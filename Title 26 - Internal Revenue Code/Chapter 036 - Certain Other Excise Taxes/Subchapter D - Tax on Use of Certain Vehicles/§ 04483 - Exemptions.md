@@ -100,21 +100,31 @@ The tax imposed by section 4481 shall be reduced by 25 percent with respect to a
 
 &emsp;(2) such vehicle is registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used in the transportation of harvested forest products.
 
-#### (f) Reduction in tax for trucks base-plated in a contiguous foreign country
+#### \[(f) Repealed. Pub. L. 108–357, title VIII, §867(d), Oct. 22, 2004, 118 Stat. 1622\]
 
-If the base for registration purposes of any highway motor vehicle is in a contiguous foreign country for any taxable period, the tax imposed by section 4481 for such period shall be 75 percent of the tax which would (but for this subsection) be imposed by section 4481 for such period.
+#### (g) Exemption for mobile machinery
 
-#### (g) Termination of exemptions
+No tax shall be imposed by section 4481 on the use of any vehicle described in section 4053(8).
 
-Subsections (a) and (c) shall not apply on and after October 1, 2005.
+#### (h) Termination of exemptions
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 391; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–618, title II, §233(a)(3)(C), Nov. 9, 1978, 92 Stat. 3191; Pub. L. 97–424, title V, §§513(b), 516(b)(3), Jan. 6, 1983, 96 Stat. 2177, 2183; Pub. L. 98–369, div. A, title IX, §§902(a), 903(a), July 18, 1984, 98 Stat. 1004; Pub. L. 100–17, title V, §§502(b)(5), 507(b), Apr. 2, 1987, 101 Stat. 257, 260; Pub. L. 101–508, title XI, §11211(d)(4), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(b)(2), June 9, 1998, 112 Stat. 500.)
+Subsections (a) and (c) shall not apply on and after October 1, 2011.
+
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 391; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–618, title II, §233(a)(3)(C), Nov. 9, 1978,92 Stat. 3191; Pub. L. 97–424, title V, §§513(b), 516(b)(3), Jan. 6, 1983, 96 Stat. 2177, 2183; Pub. L. 98–369, div. A, title IX, §§902(a), 903(a), July 18, 1984, 98 Stat. 1004; Pub. L. 100–17, title V, §§502(b)(5), 507(b), Apr. 2, 1987, 101 Stat. 257, 260; Pub. L. 101–508, title XI, §11211(d)(4), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(4), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, §9002(b)(2), June 9, 1998, 112 Stat. 500; Pub. L. 108–357, title VIII, §§851(b)(1), 867(d), Oct. 22, 2004, 118 Stat. 1607, 1622; Pub. L. 109–14, §9(c)(4), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(b)(2), Aug. 10, 2005, 119 Stat. 1944.)
 
 #### References in Text
 
 The date of the enactment of the Energy Tax Act of 1978, referred to in subsec. (c), is the date of enactment of Pub. L. 95–618, which was approved Nov. 9, 1978.
 
 #### Amendments
+
+2005—Subsec. (h). Pub. L. 109–59 substituted “2011” for “2006”.
+
+Pub. L. 109–14 substituted “2006” for “2005”.
+
+2004—Subsec. (f). Pub. L. 108–357, §867(d), struck out heading and text of subsec. (f). Text read as follows: “If the base for registration purposes of any highway motor vehicle is in a contiguous foreign country for any taxable period, the tax imposed by section 4481 for such period shall be 75 percent of the tax which would (but for this subsection) be imposed by section 4481 for such period.”
+
+Subsecs. (g), (h). Pub. L. 108–357, §851(b)(1), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1998—Subsec. (g). Pub. L. 105–178 substituted “2005” for “1999”.
 
@@ -141,6 +151,12 @@ Subsec. (e). Pub. L. 97–424, §516(b)(3), added subsec. (e).
 1976—Subsecs. (a), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(B), inserted “of the Treasury” after “Secretary”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §851(b)(2), Oct. 22, 2004, 118 Stat. 1608, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by section 867(d) of Pub. L. 108–357 applicable to taxable periods beginning after Oct. 22, 2004, see section 867(e) of Pub. L. 108–357, set out as a note under section 4481 of this title.
 
 #### Effective Date of 1987 Amendment
 

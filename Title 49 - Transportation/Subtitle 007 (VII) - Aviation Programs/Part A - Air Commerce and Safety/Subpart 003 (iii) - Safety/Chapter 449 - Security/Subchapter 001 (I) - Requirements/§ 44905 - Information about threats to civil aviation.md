@@ -96,7 +96,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §321; added Nov. 16, 1990, Pub. 
 
 49 App.:1358d(g).
 
-In subsection (a), the words “employed by an air carrier, airport operator, or ticket agent” are substituted for “employed by such an entity” for clarity. Thewords “or a designee of the Secretary” are omitted as unnecessary.
+In subsection (a), the words “employed by an air carrier, airport operator, or ticket agent” are substituted for “employed by such an entity” for clarity. The words “or a designee of the Secretary” are omitted as unnecessary.
 
 In subsections (c)(1), before clause (A), and (d), the words “Not later than 180 days after November 16, 1990” are omitted as obsolete.
 

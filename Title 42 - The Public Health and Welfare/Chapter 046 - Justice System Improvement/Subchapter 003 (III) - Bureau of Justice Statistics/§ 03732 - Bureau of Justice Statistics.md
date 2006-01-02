@@ -6,17 +6,17 @@ There is established within the Department of Justice, under the general authori
 
 #### (b) Appointment of Director; experience; authority; restrictions
 
-The Bureau shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate. The Director shall have had experience in statistical programs. The Director shall have final authority for all grants, cooperative agreements, and contracts awarded by the Bureau. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Bureau makes any contract or other arrangement under this Act.
+The Bureau shall be headed by a Director appointed by the President, by and with the advice and consent of the Senate. The Director shall have had experience in statistical programs. The Director shall have final authority for all grants, cooperative agreements, and contracts awarded by the Bureau. The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure. The Director shall report to the Attorney General through the Assistant Attorney General. The Director shall not engage in any other employment than that of serving as Director; nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Bureau makes any contract or other arrangement under this Act.
 
 #### (c) Duties and functions of Bureau
 
 The Bureau is authorized to—
 
-&emsp;(1) make grants to, or enter into cooperative agreements or contracts with public agencies, institutions of higher education, private organizations, or private individuals for purposes related to this subchapter; grants shall be made subject to continuing compliance with standards for gathering justice statistics set forth in rules and regulations promulgated by the Director;
+&emsp;(1) make grants to, or enter into cooperative agreements or contracts with public agencies, institutions of higher education, private organizations, or private individuals for purposes related to this subchapter; grants shall be made subject to continuing compliance withstandards for gathering justice statistics set forth in rules and regulations promulgated by the Director;
 
 &emsp;(2) collect and analyze information concerning criminal victimization, including crimes against the elderly, and civil disputes;
 
-&emsp;(3) collect and analyze data that will serve as a continuous and comparable national social indication of the prevalence, incidence,rates, extent, distribution, and attributes of crime, juvenile delinquency, civil disputes, and other statistical factors related to crime, civil disputes, and juvenile delinquency, in support of national, State, and local justice policy and decisionmaking;
+&emsp;(3) collect and analyze data that will serve as a continuous and comparable national social indication of the prevalence, incidence, rates, extent, distribution, and attributes of crime, juvenile delinquency, civil disputes, and other statistical factors related to crime, civil disputes, and juvenile delinquency, in support of national, State, and local justice policy and decisionmaking;
 
 &emsp;(4) collect and analyze statistical information, concerning the operations of the criminal justice system at the Federal, State, and local levels;
 
@@ -48,7 +48,7 @@ The Bureau is authorized to—
 
 &emsp;(18) provide for the development and enhancement of State and local criminal justice information systems, and the standardization of data reporting relating to the collection, analysis or dissemination of data and statistics about drug offenses, drug related offenses, or drug dependent offenders;
 
-&emsp;(19) provide for research and improvements in the accuracy, completeness, and inclusiveness of criminal history record information, information systems, arrest warrant, and stolen vehicle record information and information systems and support research concerning the accuracy, completeness, and inclusiveness of other criminal justice record information;
+&emsp;(19) provide for improvements in the accuracy, quality, timeliness, immediate accessibility, and integration of State criminal history and related records, support the development and enhancement of national systems of criminal history and related records including the National Instant Criminal Background Check System, the National Incident-Based Reporting System, and the records of the National Crime Information Center, facilitate State participation in national records and information systems, and support statistical research for critical analysis of the improvement and utilization of criminal history records;
 
 &emsp;(20) maintain liaison with State and local governments and governments of other nations concerning justice statistics;
 
@@ -68,9 +68,11 @@ To insure that all justice statistical collection, analysis, and dissemination i
 
 &emsp;(3) request such information, data, and reports from any Federal agency as may be required to carry out the purposes of this chapter;
 
-&emsp;(4) seek the cooperation of the judicial branch of the Federal Government in gathering data from criminal justice records; and
+&emsp;(4) seek the cooperation of the judicial branch of the Federal Government in gathering data from criminal justice records;
 
-&emsp;(5) encourage replication, coordination and sharing among justice agencies regarding information systems, information policy, and data.
+&emsp;(5) encourage replication, coordination and sharing among justice agencies regarding information systems, information policy, and data; and
+
+&emsp;(6) confer and cooperate with Federal statistical agencies as needed to carry out the purposes of this subchapter, including by entering into cooperative data sharing agreements in conformity with all laws and regulations applicable to the disclosure and use of data.
 
 #### (e) Furnishing of information, data, or reports by Federal agencies
 
@@ -80,7 +82,7 @@ Federal agencies requested to furnish information, data, or reports pursuant to 
 
 In recommending standards for gathering justice statistics under this section, the Director shall consult with representatives of State and local government, including, where appropriate, representatives of the judiciary.
 
-(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139.)
+(Pub. L. 90–351, title I, §302, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1176; amended Pub. L. 98–473, title II, §605(b), Oct. 12, 1984, 98 Stat. 2079; Pub. L. 100–690, title VI, §6092(a), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 103–322, title XXXIII, §330001(h)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 109–162, title XI, §1115(a), Jan. 5, 2006, 119 Stat. 3103.)
 
 #### References in Text
 
@@ -91,6 +93,12 @@ This Act, referred to in subsecs. (b) and (c)(11), is Pub. L. 90–351, June 19,
 A prior section 3732, Pub. L. 90–351, title I, §302, June 19, 1968, 82 Stat. 200; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 201; Pub. L. 94–503, title I, §110, Oct. 15, 1976, 90 Stat. 2412, related to establishment of State planning agencies to develop comprehensive State plans for grants for law enforcement and criminal justice purposes, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–162, §1115(a)(1), inserted after third sentence “The Director shall be responsible for the integrity of data and statistics and shall protect against improper or illegal use or disclosure.”
+
+Subsec. (c)(19). Pub. L. 109–162, §1115(a)(2), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide for research and improvements in the accuracy, completeness, and inclusiveness of criminal history record information, information systems, arrest warrant, and stolen vehicle record information and information systems and support research concerning the accuracy, completeness, and inclusiveness of other criminal justice record information;”.
+
+Subsec. (d)(6). Pub. L. 109–162, §1115(a)(3), added par. (6).
 
 1994—Subsec. (c)(19). Pub. L. 103–322 substituted a semicolon for period at end.
 

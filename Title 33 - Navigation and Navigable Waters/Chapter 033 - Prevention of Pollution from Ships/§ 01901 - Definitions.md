@@ -160,7 +160,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### “SEC. 1404. LIMITATIONS ON DISCHARGE OF TREATED SEWAGE OR GRAYWATER.
 
-“(a) No person shall discharge any treated sewage or graywater from a cruise vessel into the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve unless—
+“(a) No person shall discharge any treated sewage or graywater from a cruise vessel into the waters of theAlexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve unless—
 
 &emsp;“(1) the cruise vessel is underway and proceeding at a speed of not less than six knots;
 
@@ -184,7 +184,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### “SEC. 1405. SAFETY EXCEPTION.
 
-“Sections 1403 and 1404 of this title shall not apply to discharges made for the purpose of securing the safetyof the cruise vessel or saving life at sea, provided that all reasonable precautions have been taken for the purpose of preventing or minimizing the discharge.
+“Sections 1403 and 1404 of this title shall not apply to discharges made for the purpose of securing the safety of the cruise vessel or saving life at sea, provided that all reasonable precautions have been taken for the purpose of preventing or minimizing the discharge.
 
 #### “SEC. 1406. INSPECTION AND SAMPLING REGIME.
 
@@ -230,7 +230,7 @@ Classes of penalties.—
 
 &emsp;&emsp;“(A)
 
-Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
+Class i.—The amount of a class I civil penalty under this section may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as thecase may be, shall give to the person to be assessed such penalty written notice of the Secretary's or Administrator's proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
 &emsp;&emsp;“(B)
 
@@ -376,7 +376,7 @@ Administrator.—The term ‘Administrator’ means the Administrator of the Uni
 
 &emsp;“(2)
 
-Cruise vessel.—The term ‘cruise vessel’ means a passenger vessel as defined in section 2101(22) of title 46, United States Code. The term ‘cruise vessel’ does not include a vessel of the United States operated by the Federal Government or a vessel owned and operated by the government of a State.
+Cruise vessel.—The term ‘cruise vessel’ means a passenger vessel as defined in section 2101(22) of title 46, United States Code. The term ‘cruise vessel’does not include a vessel of the United States operated by the Federal Government or a vessel owned and operated by the government of a State.
 
 &emsp;“(3)
 

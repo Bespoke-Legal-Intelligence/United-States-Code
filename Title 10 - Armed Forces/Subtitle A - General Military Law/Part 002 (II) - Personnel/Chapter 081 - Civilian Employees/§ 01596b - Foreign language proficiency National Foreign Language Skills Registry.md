@@ -52,7 +52,3 @@ Linguistic Services Defined.—In this section, the term “linguistic services�
 
 (Added Pub. L. 107–314, div. A, title X, §1064(a)(1), Dec. 2, 2002, 116 Stat. 2653.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1588 of this title.
-

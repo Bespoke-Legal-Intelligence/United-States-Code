@@ -90,7 +90,7 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Director of the National Counter Proliferation Center.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, §1(a)(2) \[title IV, §404(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, §1002(a)(2), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–71, title I, §101(c)(1), Nov. 19, 2001, 115 Stat. 602; Pub. L. 107–295, title II, §215(b), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 107–296, title XVII, §1702(a)(2), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–199, div. D, title VI, §604(b)(4)(B), Jan. 23, 2004, 118 Stat. 212; Pub. L. 108–458, title I, §1015(b), Dec. 17, 2004, 118 Stat. 3664.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II,§202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, §1(a)(2) \[title IV, §404(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, §1002(a)(2), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–71, title I, §101(c)(1), Nov. 19, 2001, 115 Stat. 602; Pub. L. 107–295, title II, §215(b), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 107–296, title XVII, §1702(a)(2), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–199, div. D, title VI, §604(b)(4)(B), Jan. 23, 2004, 118 Stat. 212; Pub. L. 108–458, title I, §1015(b), Dec. 17, 2004, 118 Stat. 3664.)
 
 Historical and Revision Notes<br>1966
 
@@ -170,7 +170,7 @@ Pub. L. 99–348 inserted item relating to Under Secretary of Defense for Acquis
 
 1983—Pub. L. 98–80 inserted item relating to Administrator of Environmental Protection Agency.
 
-Pub. L. 97–499, §3(1), inserted item relating to Administrator, Federal Highway Administration.
+Pub. L. 97–449, §3(1), inserted item relating to Administrator, Federal Highway Administration.
 
 1980—Pub. L. 96–465 inserted item relating to Ambassadors at Large.
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
@@ -298,82 +298,6 @@ Office of Director of Office of Science and Technology abolished and functions v
 
 Pub. L. 107–71, title I, §101(c)(2), Nov. 19, 2001, 115 Stat. 602, provided that: “In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Under Secretary may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of pay, based on the Secretary's evaluation of the Under Secretary's performance.”
 
-#### Salary Increases
-
-2005—Salaries of positions at level II increased to $162,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2005, as provided by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title.
-
-2004—Salaries of positions at level II increased to $158,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891.
-
-Salaries of positions at level II increased to $157,000 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2004, as provided by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
-
-2003—Salaries of positions at level II increased to $154,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2003, as provided by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133.
-
-2002—Salaries of positions at level II increased to $150,000 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2002, as provided by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
-
-2001—Salaries of positions at level II increased to $145,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057.
-
-2000—Salaries of positions at level II increased to $141,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237.
-
-1999—Salaries of positions at level II continued at $136,700 per annum by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151.
-
-1998—Salaries of positions at level II increased to $136,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1998, as provided by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521.
-
-1997—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987.
-
-1996—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237.
-
-1995—Salaries of positions at level II continued at $133,600 per annum by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309.
-
-1993—Salaries of positions at level II increased to $133,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1993, as provided by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909.
-
-1992—Salaries of positions at level II increased to $129,500 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1992, as provided by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453.
-
-1991—Salaries of positions at level II increased to $125,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1991, as provided by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385.
-
-1990—Salaries of positions at level II continued at $89,500 per annum, and increased to $96,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 31, 1990, as provided by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473.
-
-1989—Salaries of positions at level II continued at $89,500 per annum, see Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
-
-1988—Salaries of positions at level II continued at $89,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
-
-1987—Salaries of positions at level II increased to $89,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
-Salaries of positions at level II increased to $77,400 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1987, as provided by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
-
-1985—Salaries of positions at level II increased to $75,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1985, as provided by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
-
-1984—Salaries of positions at level II increased to $72,600 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1984, as provided by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
-
-1982—Salaries of positions at level II increased to $77,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1982, as provided by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $60,662.50.
-
-Maximum rate payable after Dec. 17, 1982, increased from $60,662.50 to $69,800.00, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of this title.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
-
-1981—Salaries of positions at level II increased to $74,300 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $60,662.50.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of this title.
-
-1980—Salaries of positions at level II increased to $70,900 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1980, as provided by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199. Ex. Ord. No. 12248, further provided that pursuant to section 101(c) of Pub. L. 96–369, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of this title.
-
-1979—Salaries of positions at level II increased to $65,000 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1979, as provided by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443. Ex. Ord. No. 12165 further provided that pursuant to section 101(c) of Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the rate in effect on Sept. 30, 1978, which is a maximum rate payable of $60,662.50.
-
-Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of this title.
-
-1978—Salaries of positions at level II increased to $60,700 per annum, effective in the first pay period beginning on or after Oct. 1, 1978, as provided by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $57,500.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1979, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal or above level V of the Executive Schedule, see section 304 of Pub. L. 95–391 and section 613 of Pub. L. 95–429, set out as a note under section 5318 of this title.
-
-1977—Salaries of positions at level II increased to $57,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
-1976—Salaries of positions at level II increased to $46,800 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1976, see Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889. Ex. Ord. No. 11941, further provided that pursuant to the Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1976, which was $44,600.
-
-1975—Salaries of positions at level II increased to $44,600 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
-
-1969—Salaries of positions at level II increased from $30,000 to $42,500 per annum, commencing on the first day of the pay period which begins after February 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
 #### Pay Increase; Effective Date
 
 Persons occupying a position under the Executive Schedule on May 18, 1972, and later appointed to a position created or authorized by Pub. L. 92–302, not eligible to an increase on basic pay until Jan. 21, 1973, see section 3(c) of Pub. L. 92–302, May 18, 1972, 86 Stat. 149.
@@ -381,4 +305,12 @@ Persons occupying a position under the Executive Schedule on May 18, 1972, and l
 #### Director of the Federal Bureau of Investigation, Department of Justice
 
 Director of Federal Bureau of Investigation, Department of Justice to receive compensation at rate prescribed for level II of Federal Executive Salary Schedule \[this section\], effective as of day following date on which person holding such office on June 19, 1968, ceases to serve as Director, see section 1101(a) of Pub. L. 90–351, June 19, 1968, 82 Stat. 236, set out as a note under section 532 of Title 28, Judiciary and Judicial Procedure.
+
+#### Salary Increases
+
+For adjustment of salaries under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of this title.
+
+For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of Title 2, The Congress.
+
+For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of this title.
 

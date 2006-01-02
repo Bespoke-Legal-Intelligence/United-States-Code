@@ -22,10 +22,6 @@
 
 (June 10, 1920, ch. 285, pt. III, §319, as added Pub. L. 95–617, title II, §212, Nov. 9, 1978, 92 Stat. 3148.)
 
-#### Transfer of Functions
-
-The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.

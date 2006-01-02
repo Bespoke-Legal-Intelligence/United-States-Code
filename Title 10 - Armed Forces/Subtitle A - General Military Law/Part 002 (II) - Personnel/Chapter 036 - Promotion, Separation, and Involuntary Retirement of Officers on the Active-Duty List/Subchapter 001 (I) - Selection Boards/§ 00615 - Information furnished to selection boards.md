@@ -12,17 +12,19 @@
 
 &emsp;(D) A factual summary of the information described in subparagraphs (A), (B), and (C) that, in accordance with the regulations prescribed pursuant to paragraph (1), is prepared by administrative personnel for the purpose of facilitating the work of the selection board.
 
-(3) Information provided to a selection board in accordance with paragraph (2) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the selection board.
+(3) In the case of an eligible officer considered for promotion to a grade above colonel or, in the case of the Navy, captain, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry, shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
-(4) Paragraphs (2) and (3) do not apply to the furnishing of appropriate administrative processing information to the selection board by administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
+(4) Information provided to a selection board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the selection board.
 
-(5) Information furnished to a selection board that is described in subparagraph (B), (C), or (D) of paragraph (2) may not be furnished to a later selection board unless—
+(5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the selection board by administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
+
+(6) Information furnished to a selection board that is described in subparagraph (B), (C), or (D) of paragraph (2), or in paragraph (3), may not be furnished to a later selection board unless—
 
 &emsp;(A) the information has been properly placed in the official military personnel file of the officer concerned; or
 
-&emsp;(B) the information is provided to the later selection board in accordance with paragraph (2).
+&emsp;(B) the information is provided to the later selection board in accordance with paragraph (2) or (3), as applicable.
 
-(6)(A) Before information described in paragraph (2)(B) regarding an eligible officer is furnished to a selection board, the Secretary of the military department concerned shall ensure—
+(7)(A) Before information described in paragraph (2)(B) or (3) regarding an eligible officer is furnished to a selection board, the Secretary of the military department concerned shall ensure—
 
 &emsp;(i) that such information is made available to such officer; and
 
@@ -44,15 +46,35 @@
 
 &emsp;(6) such other information and guidelines as may be necessary to enable the board to properly perform its functions.
 
-(c) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance in joint duty assignments of officers who are serving, or have served, in such assignments.
+(c) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title givesappropriate consideration to the performance in joint duty assignments of officers who are serving, or have served, in such assignments.
 
 (d) Information or guidelines furnished to a selection board under subsection (b) may not be modified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title, except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 
 (e) The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a selection board convened under section 611(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of the Navy, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 99–433, title IV, §402(b), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(a), Sept. 29, 1988, 102 Stat. 1965; Pub. L. 101–189, div. A, title V, §519, Nov. 29, 1989, 103 Stat. 1444; Pub. L. 102–190, div. A, title V, §504(a)(1), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title X, §1052(7), Oct. 23, 1992, 106 Stat. 2499.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 99–433, title IV, §402(b), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(a), Sept. 29, 1988, 102 Stat. 1965; Pub. L. 101–189, div. A, title V, §519, Nov. 29, 1989, 103 Stat. 1444; Pub. L. 102–190, div. A, title V, §504(a)(1), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title X, §1052(7), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–163, div. A, title V, §506(a), Jan. 6, 2006, 119 Stat. 3227.)
 
 #### Amendments
+
+2006—Subsec. (a)(3). Pub. L. 109–163, §506(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 109–163, §506(a)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Pub. L. 109–163, §506(a)(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 109–163, §506(a)(2)(B), substituted “, (3), and (4)” for “and (3)”.
+
+Pub. L. 109–163, §506(a)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 109–163, §506(a)(2)(C)(i), inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions.
+
+Pub. L. 109–163, §506(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(6)(B). Pub. L. 109–163, §506(a)(2)(C)(ii), inserted “or (3), as applicable” before period at end.
+
+Subsec. (a)(7). Pub. L. 109–163, §506(a)(1)(A), redesignated par. (6) as (7).
+
+Subsec. (a)(7)(A). Pub. L. 109–163, §506(a)(2)(D), inserted “or (3)” after “paragraph (2)(B)” in introductory provisions.
 
 1992—Subsec. (b)(5). Pub. L. 102–484, §1052(7)(A), substituted “subsection (c)” for “subsection (b)”.
 
@@ -68,6 +90,10 @@ Subsec. (c). Pub. L. 100–456, §501(a)(2), added subsec. (c).
 
 1986—Pub. L. 99–433 designated existing provisions as subsec. (a), added par. (5), redesignated former par. (5) as (6), and added subsec. (b).
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title V, §506(c), Jan. 6, 2006, 119 Stat. 3228, provided that: “The amendments made by this section \[amending this section and section 14107 of this title\] shall take effect on October 1, 2006, and shall apply with respect to promotion selection boards convened on or after that date.”
+
 #### Effective Date of 1991 Amendment
 
 Section 504(e) of Pub. L. 102–190 provided that: “The amendments made by this section \[amending this section and sections 614, 616, 618, and 619 of this title\] shall apply to selection boards convened under section 611(a) of title 10, United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
@@ -79,8 +105,4 @@ Section 501(e) of Pub. L. 100–456 provided that: “The amendments made by thi
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–433 effective with respect to selection boards convened under section 611(a) of this title after end of 120-day period beginning on Oct. 1, 1986, see section 406(f) of Pub. L. 99–433, set out as a note under section 612 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 616, 617, 618 of this title.
 

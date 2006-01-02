@@ -16,31 +16,31 @@ In the making of appropriations under any provision of this Act or amendment mad
 
 In this section—“Federal law enforcement program” means a program authorized in any of the following sections:
 
-&emsp;(1) section 190001(a);
+&emsp;(1) section 190001(a); <sup>1</sup>
 
-&emsp;(2) section 190001(b);
+&emsp;(2) section 190001(b); <sup>1</sup>
 
-&emsp;(3) section 190001(c);
+&emsp;(3) section 190001(c); <sup>1</sup>
 
-&emsp;(4) section 190001(d);
+&emsp;(4) section 190001(d); <sup>1</sup>
 
-&emsp;(5) section 190001(e);
+&emsp;(5) section 190001(e); <sup>1</sup>
 
-&emsp;(6) section 320925; <sup>1</sup>
+&emsp;(6) section 320925; <sup>2</sup>
 
 &emsp;(7) section 14062 of this title;
 
 &emsp;(8) section 14171 of this title;
 
-&emsp;(9) section 130002;
+&emsp;(9) section 130002; <sup>1</sup>
 
-&emsp;(10) section 130005;
+&emsp;(10) section 130005; <sup>1</sup>
 
-&emsp;(11) section 130006;
+&emsp;(11) section 130006; <sup>1</sup>
 
-&emsp;(12) section 130007;
+&emsp;(12) section 130007; <sup>1</sup>
 
-&emsp;(13) section 250005;
+&emsp;(13) section 250005; <sup>1</sup>
 
 &emsp;(14) sections 14131–14134 of this title;
 
@@ -50,85 +50,85 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 “State and local law enforcement program” means a program authorized in any of the following sections:
 
-&emsp;(1) sections 10001–10003;
+&emsp;(1) sections 10001–10003; <sup>1</sup>
 
-&emsp;(2) section 210201;
+&emsp;(2) section 210201; <sup>1</sup>
 
-&emsp;(3) section 210603;
+&emsp;(3) section 210603; <sup>1</sup>
 
-&emsp;(4) section 180101;
+&emsp;(4) section 180101; <sup>1</sup>
 
 &emsp;(5) section 14082 of this title;
 
 &emsp;(6) sections 13861–13868 of this title;
 
-&emsp;(7) section 14161 of this title;
+&emsp;(7) section 14161 <sup>1</sup> of this title;
 
 &emsp;(8) sections 13811–13812 of this title;
 
-&emsp;(9) section 210302;
+&emsp;(9) section 210302; <sup>1</sup>
 
-&emsp;(10) section 14151 of this title;
+&emsp;(10) section 14151 <sup>1</sup> of this title;
 
 &emsp;(11) section 210101;
 
-&emsp;(12) section 320930; <sup>2</sup>
+&emsp;(12) section 320930; <sup>3</sup>
 
 &emsp;(13) sections 13701–13709 of this title;
 
-&emsp;(14) section 20301;
+&emsp;(14) section 20301; <sup>1</sup>
 
 &emsp;(15) section 13911 of this title; and
 
-&emsp;(16) section 20201.
+&emsp;(16) section 20201. <sup>1</sup>
 
 “prevention program” means a program authorized in any of the following sections:
 
-&emsp;(1) section 50001;
+&emsp;(1) section 50001; <sup>1</sup>
 
 &emsp;(2) sections 13741–13744 of this title;
 
-&emsp;(3) sections 13751–13758 of this title;
+&emsp;(3) sections 13751–13758 <sup>1</sup> of this title;
 
 &emsp;(4) sections 13771–13777 of this title;
 
 &emsp;(5) sections 13791–13793 of this title;
 
-&emsp;(6) sections 13801–13802 of this title;
+&emsp;(6) sections 13801–13802 <sup>1</sup> of this title;
 
 &emsp;(7) chapter 67 of title 31;
 
-&emsp;(8) section 31101 and sections 13821–13853 of this title;
+&emsp;(8) section 31101 <sup>1</sup> and sections 13821–13853 of this title;
 
-&emsp;(9) sections 31501–31505;
+&emsp;(9) sections 31501–31505; <sup>1</sup>
 
-&emsp;(10) section 31901 and sections 13881–13902 of this title;
+&emsp;(10) section 31901 <sup>1</sup> and sections 13881–13902 of this title;
 
-&emsp;(11) section 32001;
+&emsp;(11) section 32001; <sup>1</sup>
 
-&emsp;(12) section 32101;
+&emsp;(12) section 32101; <sup>1</sup>
 
 &emsp;(13) section 13921 of this title;
 
-&emsp;(14) section 40114;
+&emsp;(14) section 40114; <sup>1</sup>
 
-&emsp;(15) section 40121;
+&emsp;(15) section 40121; <sup>1</sup>
 
-&emsp;(16) section 300w–10 <sup>3</sup> of this title;
+&emsp;(16) section 300w–10 <sup>1</sup> of this title;
 
 &emsp;(17) section 13941 of this title;
 
-&emsp;(18) section 5712d of this title;
+&emsp;(18) section 5712d <sup>1</sup> of this title;
 
-&emsp;(19) section 40156;
+&emsp;(19) section 40156; <sup>1</sup>
 
 &emsp;(20) section 10416 of this title;
 
-&emsp;(21) section 40231;
+&emsp;(21) section 40231; <sup>1</sup>
 
-&emsp;(22) section 40241;
+&emsp;(22) section 40241; <sup>1</sup>
 
-&emsp;(23) section 10417 <sup>3</sup> of this title;
+&emsp;(23) section 10417 <sup>1</sup> of this title;
 
 &emsp;(24) section 10418 of this title;
 
@@ -144,9 +144,9 @@ In this section—“Federal law enforcement program” means a program authoriz
 
 &emsp;(30) section 14012 of this title;
 
-&emsp;(31) section 40601 and sections 14031–14040 of this title; and
+&emsp;(31) section 40601 <sup>1</sup> and sections 14031–14040 of this title; and
 
-&emsp;(32) section 14181 <sup>3</sup> of this title.
+&emsp;(32) section 14181 <sup>1</sup> of this title.
 
 (Pub. L. 103–322, title XXXI, §310004, Sept. 13, 1994, 108 Stat. 2106.)
 
@@ -174,7 +174,11 @@ Section 210603, referred to in subsec. (d), is section 210603 of Pub. L. 103–3
 
 Section 180101, referred to in subsec. (d), is section 180101 of Pub. L. 103–322, 108 Stat. 2045, which amended sections 3793 and 3796bb of this title.
 
-Section 210302, referred to in subsec. (d), is section 210302 of Pub. L. 103–322, 108 Stat. 2065, which enacted subchapter XII–L (§3796kk et seq.) of chapter 46 of this title, amended sections 3751, 3753, 3793, and 3797 of this title, and enacted provisions set out as a note under section 3751 of this title.
+Section 14161 of this title, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1154(b)(4), Jan. 5, 2006, 119 Stat. 3113.
+
+Section 210302, referred to in subsec. (d), is section 210302 of Pub. L. 103–322, 108 Stat. 2065, which enacted subchapter XII–L (§3796kk et seq.) of chapter 46 of this title, amended former sections 3751 and 3753 of this title and sections 3793 and 3797 of this title, and enacted provisions set out as a note under former section 3751 of this title.
+
+Section 14151 of this title, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1154(b)(3), Jan. 5, 2006, 119 Stat. 3113.
 
 Section 210101, referred to in subsec. (d), is section 210101 of Pub. L. 103–322, 108 Stat. 2061, which is not classified to the Code.
 
@@ -184,6 +188,10 @@ Section 20201, referred to in subsec. (d), is section 20201 of Pub. L. 103–322
 
 Section 50001, referred to in subsec. (d), is section 50001 of Pub. L. 103–322, 108 Stat. 1955, which enacted former subchapter XII–J (§3796ii et seq.) of chapter 46 of this title and amended sections 3793 and 3797 of this title.
 
+Sections 13751–13758 of this title, referred to in subsec. (d), were repealed by Pub. L. 109–162, title XI, §1154(b)(1), Jan. 5, 2006, 119 Stat. 3113.
+
+Sections 13801–13802 of this title, referred to in subsec. (d), were repealed by Pub. L. 109–162, title XI, §1154(b)(2), Jan. 5, 2006, 119 Stat. 3113.
+
 Section 31101, referred to in subsec. (d), is section 31101 of Pub. L. 103–322, 108 Stat. 1882, which is set out as a note under section 13701 of this title.
 
 Sections 31501–31505, referred to in subsec. (d), are sections 31501–31505 of Pub. L. 103–322, 108 Stat. 1888, 1889, which amended sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation.
@@ -192,7 +200,7 @@ Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322
 
 Section 32001, referred to in subsec. (d), is section 32001 of Pub. L. 103–322, 108 Stat. 1896, which amended section 3621 of Title 18, Crimes and Criminal Procedure.
 
-Section 32101, referred to in subsec. (d), is section 32101 of Pub. L. 103–322, 108 Stat. 1898, which enactedsubchapter XII–G (§3796ff et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
+Section 32101, referred to in subsec. (d), is section 32101 of Pub. L. 103–322, 108 Stat. 1898, which enacted subchapter XII–G (§3796ff et seq.) of chapter 46 of this title and amended sections 3791, 3793, and 3797 of this title.
 
 Section 40114, referred to in subsec. (d), is section 40114 of Pub. L. 103–322, 108 Stat. 1910, which is not classified to the Code.
 
@@ -200,7 +208,9 @@ Section 40121, referred to in subsec. (d), is section 40121 of Pub. L. 103–322
 
 Section 300w–10 of this title, referred to in subsec. (d), was repealed by Pub. L. 106–386, div. B, title IV, §1401(b), Oct. 28, 2000, 114 Stat. 1513.
 
-Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6, 13012, 13014, 13021, and 13024 of this title and repealed sections 3796aa–4 and 3796aa–7 of this title.
+Section 5712d of this title, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1172(b), Jan. 5, 2006, 119 Stat. 3123.
+
+Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 3793, 3796aa–1 to 3796aa–3, 3796aa–5, 3796aa–6,13012, 13014, 13021, and 13024 of this title and repealed sections 3796aa–4 and 3796aa–7 of this title.
 
 Section 40231, referred to in subsec. (d), is section 40231 of Pub. L. 103–322, 108 Stat. 1932, which enacted subchapter XII–I (§3796hh et seq.) of chapter 46 of this title and amended sections 3782, 3783, 3793, and 3797 of this title.
 

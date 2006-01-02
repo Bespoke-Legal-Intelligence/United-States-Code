@@ -6,7 +6,7 @@ Effective on the date of the proclamation provided for in section 757 of this ti
 
 #### (b) Termination of Federal power
 
-Effective on the date of the proclamation provided for in section 757 of this title, all powers of the Secretary or other officer of the United States to take, review, or approve any action under the constitution and bylaws of the tribe are terminated. Any powers conferred upon the tribe by such constitution which are inconsistent with the provisions of this subchapter areterminated. Such termination shall not affect the power of the tribe to take any action under its constitution and bylaws that is consistent with this subchapter without the participation of the Secretary or other officer of the United States.
+Effective on the date of the proclamation provided for in section 757 of this title, all powers of the Secretary or other officer of the United States to take, review, or approve any action under the constitution and bylaws of the tribe are terminated. Any powers conferred upon the tribe by such constitution which are inconsistent with the provisions of this subchapter are terminated. Such termination shall not affect the power of the tribe to take any action under its constitution and bylaws that is consistent with this subchapter without the participation of the Secretary or other officer of the United States.
 
 (Sept. 1, 1954, ch. 1207, §18, 68 Stat. 1104.)
 

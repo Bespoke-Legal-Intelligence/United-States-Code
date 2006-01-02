@@ -56,7 +56,3 @@ To” for “
 
 to” in heading.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 166 of this title.
-

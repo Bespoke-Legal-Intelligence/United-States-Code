@@ -2,7 +2,7 @@
 
 #### (a) Proposed acquisition, sale, or other disposition
 
-(1) The Secretary shall require any foreign mission, including any mission to an international organization (as defined in section 4309(b)(2) of this title), to notify the Secretary prior to any proposed acquisition, or any proposed sale or other disposition, of any real property by or on behalf of such mission. The foreign mission (or other party acting on behalf of the foreign mission) may initiate or execute any contract, proceeding, application, or other action required for the proposed action—
+(1) The Secretary shall require any foreign mission, including any mission to an international organization (as defined in section 4309(b)(2) of this title), to notify the Secretaryprior to any proposed acquisition, or any proposed sale or other disposition, of any real property by or on behalf of such mission. The foreign mission (or other party acting on behalf of the foreign mission) may initiate or execute any contract, proceeding, application, or other action required for the proposed action—
 
 &emsp;(A) only after the expiration of the 60-day period beginning on the date of such notification (or after the expiration of such shorter period as the Secretary may specify in a given case); and
 
@@ -66,5 +66,5 @@ Subsec. (b)(3). Pub. L. 99–93, §127(d), added par. (3).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier,see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 

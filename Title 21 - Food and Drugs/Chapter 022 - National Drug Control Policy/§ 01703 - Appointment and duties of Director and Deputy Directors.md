@@ -16,7 +16,7 @@
 
 #### (3) Designation of other officers
 
-&emsp;In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant, the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.
+&emsp;In the absence of the Deputy Director, or if the Office of the Deputy Director is vacant,the Director shall designate such other permanent employee of the Office to serve as the Director, if the Director is absent or unable to serve.
 
 #### (4) Prohibition
 
@@ -34,7 +34,7 @@ The Director—
 
 &emsp;(2) shall promulgate the National Drug Control Strategy under section 1705(a) of this title and each report under section 1705(b) of this title in accordance with section 1705 of this title;
 
-&emsp;(3) shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Programagency heads with respect to implementation of Federal counter-drug programs;
+&emsp;(3) shall coordinate and oversee the implementation by the National Drug Control Program agencies of the policies, goals, objectives, and priorities established under paragraph (1) and the fulfillment of the responsibilities of such agencies under the National Drug Control Strategy and make recommendations to National Drug Control Program agency heads with respect to implementation of Federal counter-drug programs;
 
 &emsp;(4) shall make such recommendations to the President as the Director determines are appropriate regarding changes in the organization, management, and budgets of Federal departments and agencies engaged in drug enforcement, and changes in the allocation of personnel to and within those departments and agencies, to implement the policies, goals, priorities, and objectives established under paragraph (1) and the National Drug Control Strategy;
 
@@ -94,7 +94,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategy shall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to theOffice of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
+&emsp;&emsp;For each fiscal year, the head of each department, agency, or program of the Federal Government with responsibilities under the National Drug Control Program Strategy shall transmit to the Director a copy of the proposed drug control budget request of the department, agency, or program at the same time as that budget request is submitted to their superiors (and before submission to the Office of Management and Budget) in the preparation of the budget of the President submitted to Congress under section 1105(a) of title 31.
 
 #### (B) Submission of drug control budget requests
 
@@ -146,7 +146,7 @@ The Director—
 
 #### (iii) Congressional notification
 
-&emsp;&emsp;&emsp;The head of a National Drug Control Program agency shall submit a copy of any impact statement under clause (ii) to the Senate and the House of Representatives at the time the budget for that agency is submitted to Congress under section 1105(a) of title 31.
+&emsp;&emsp;&emsp;The head of a National Drug Control Program agency shall submit a copy ofany impact statement under clause (ii) to the Senate and the House of Representatives at the time the budget for that agency is submitted to Congress under section 1105(a) of title 31.
 
 #### (D) Certification of budget submissions
 
@@ -176,7 +176,7 @@ The Director—
 
 #### (A) In general
 
-&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogrammingor transfer request with respect to any amount of appropriated funds in an amount exceeding $5,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director.
+&emsp;&emsp;No National Drug Control Program agency shall submit to Congress a reprogramming or transfer request with respect to any amount of appropriated funds in an amount exceeding $5,000,000 that is included in the National Drug Control Program budget unless the request has been approved by the Director.
 
 #### (B) Appeal
 
@@ -218,7 +218,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;&emsp;&emsp;(i) submit to Congress, including to the Committees on Appropriations of the Senate and the House of Representatives, the authorizing committees for the Office, and any other applicable committees of jurisdiction, a reprogramming or transfer request in advance of any transfer under this paragraph in accordance with the regulations of the affected agency or agencies; and
 
-&emsp;&emsp;&emsp;(ii) annually submit to Congress a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) of this section during the 12-month period preceding the date on which the report is submitted;
+&emsp;&emsp;&emsp;(ii) annually submit to Congress a report describing the effect of all transfers of funds made pursuant to this paragraph or subsection (c)(4) of this section during the12-month period preceding the date on which the report is submitted;
 
 &emsp;(9) issue to the head of a National Drug Control Program agency a fund control notice described in subsection (f) of this section to ensure compliance with the National Drug Control Program Strategy; and
 
@@ -246,7 +246,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (C) Aggregate amount
 
-&emsp;&emsp;The aggregate amount paid during any fiscal year to an employee detailed to the Office as basic pay, awards, bonuses, and other compensation shall not exceed the annual rate payable at the end of such fiscal yearfor positions at level III of the Executive Schedule.
+&emsp;&emsp;The aggregate amount paid during any fiscal year to an employee detailed to the Office as basic pay, awards, bonuses, and other compensation shall not exceed the annual rate payable at the end of such fiscal year for positions at level III of the Executive Schedule.
 
 #### (3) Maximum number of detailees
 

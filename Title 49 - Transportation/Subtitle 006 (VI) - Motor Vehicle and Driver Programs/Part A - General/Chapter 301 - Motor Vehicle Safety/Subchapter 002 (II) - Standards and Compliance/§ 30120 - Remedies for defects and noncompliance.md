@@ -24,7 +24,7 @@ Tire Remedies.—(1) A manufacturer of a tire, including an original equipment t
 
 &emsp;(B) if the manufacturer decides to replace the tire, the day the owner or purchaser receives notification that a replacement is available.
 
-(2) If the manufacturer decides to replace the tire and the replacement is not available during the 60-day period, the owner or purchaser must present the tire for remedy during a subsequent 60-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequentperiod, only a tire presented for remedy during that period must be remedied.
+(2) If the manufacturer decides to replace the tire and the replacement is not available during the 60-day period, the owner or purchaser must present the tire for remedy during a subsequent 60-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
 
 (c)
 

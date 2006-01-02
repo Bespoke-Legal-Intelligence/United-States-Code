@@ -22,5 +22,5 @@ Report Elements.—Each report under subsection (a) shall specify for the period
 
 #### Initial Report
 
-Pub. L. 107–135, title I, §125(b), Jan. 23, 2002, 115 Stat. 2453, provided that: “The initial report required under section 7324 of title 38, United States Code, as added by subsection (a), shall be submitted to the National Commission on VA Nursing established under subtitle D \[set out as a note under section 7451 of this title\] as well as to Congress.”
+Pub. L. 107–135, title I, §125(b), Jan. 23, 2002, 115 Stat. 2453, required that the initial report under this section be submitted to the National Commission on VA Nursing as well as to Congress.
 

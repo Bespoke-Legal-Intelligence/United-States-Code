@@ -42,13 +42,31 @@ For purposes of this subchapter:
 
 #### (7) Indian tribe
 
-&emsp;The term “Indian tribe” means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by the United States under Federal law to Indians because of their status as Indians.
+&emsp;The term “Indian tribe” means an Indian tribe, band, nation, or other organized group or community, including any Native village, Regional Corporation, or Village Corporation, as defined in subsection (c), (g), or (j), respectively, of section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(c), (g), or (j)), that is recognized as eligible for the special programs and services provided by theUnited States under Federal law to Indians because of their status as Indians.
 
-#### (8) Public lands
+#### (8) Priority project
+
+&emsp;The term “priority project” means an appropriate conservation project conducted on eligible service lands to further 1 or more of the purposes of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6501 et seq.), as follows:
+
+&emsp;&emsp;(A) To reduce wildfire risk to a community, municipal water supply, or other at-risk Federal land.
+
+&emsp;&emsp;(B) To protect a watershed or address a threat to forest and rangeland health, including catastrophic wildfire.
+
+&emsp;&emsp;(C) To address the impact of insect or disease infestations or other damaging agents on forest and rangeland health.
+
+&emsp;&emsp;(D) To protect, restore, or enhance forest ecosystem components to—
+
+&emsp;&emsp;&emsp;(i) promote the recovery of threatened or endangered species;
+
+&emsp;&emsp;&emsp;(ii) improve biological diversity; or
+
+&emsp;&emsp;&emsp;(iii) enhance productivity and carbon sequestration.
+
+#### (9) Public lands
 
 &emsp;The term “public lands” means any lands or waters (or interest therein) owned or administered by the United States, except that such term does not include any Indian lands.
 
-#### (9) Qualified youth or conservation corps
+#### (10) Qualified youth or conservation corps
 
 &emsp;The term “qualified youth or conservation corps” means any program established by a State or local government, by the governing body of any Indian tribe, or by a nonprofit organization that—
 
@@ -58,15 +76,23 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) provides participants with the opportunity to develop citizenship values and skills through service to their community and the United States.
 
-#### (10) Resource assistant
+#### (11) Resource assistant
 
 &emsp;The term “resource assistant” means a resource assistant selected under section 1725 of this title.
 
-#### (11) State
+#### (12) Secretary
+
+&emsp;The term “Secretary” means—
+
+&emsp;&emsp;(A) with respect to National Forest System land, the Secretary of Agriculture; and
+
+&emsp;&emsp;(B) with respect to Indian lands, Hawaiian home lands, or land administered by the Department of the Interior, the Secretary of the Interior.
+
+#### (13) State
 
 &emsp;The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 91–378, title II, §203, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 849.)
+(Pub. L. 91–378, title II, §203, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 849; amended Pub. L. 109–154, §2(a), Dec. 30, 2005, 119 Stat. 2890.)
 
 #### References in Text
 
@@ -75,4 +101,10 @@ The Hawaiian Homes Commission Act, 1920, referred to in par. (4), is act July 9,
 Section 4 of Public Law 86–3, referred to in par. (4), is set out as a note preceding section 491 of Title 48.
 
 The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+The Healthy Forests Restoration Act of 2003, referred to in par. (8), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+
+#### Amendments
+
+2005—Pars. (8) to (13). Pub. L. 109–154 added pars. (8) and (12) and redesignated former pars. (8) to (11) as pars. (9) to (11) and (13), respectively.
 

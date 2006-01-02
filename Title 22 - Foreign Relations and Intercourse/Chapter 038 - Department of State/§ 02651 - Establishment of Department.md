@@ -26,7 +26,7 @@ Pub. L. 107–228, div. A, §101, Sept. 30, 2002, 116 Stat. 1355, provided that:
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[§1\], Nov. 29, 1999, 113 Stat. 1536, 1501A–405, provided that: “This Act \[H.R.3427, as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001’.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[§1\], Nov. 29, 1999, 113 Stat. 1536, 1501A–405, provided that: “This Act \[H.R. 3427, as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001’.”
 
 #### Short Title of 1998 Amendment
 
@@ -54,7 +54,7 @@ Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: “This Act
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
+Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004,1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
 
 #### Short Title of 1975 Amendment
 
@@ -62,7 +62,7 @@ Pub. L. 94–141, §1, Nov. 29, 1975, 89 Stat. 756, provided: “That this Act \
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: “That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title, and section 5924 of Title 5, Government Organization and Employees, enacting provisionsset out as notes under sections 901a, 966, and 2151 of this title and amending provisions set out as notes preceding section 1 of Title 50, Appendix, War and National Defense\] may be cited as the ‘State Department/USIA Authorization Act, Fiscal Year 1975’.”
+Pub. L. 93–475, §1, Oct. 26, 1974, 88 Stat. 1439, provided: “That this Act \[enacting sections 966, 2679a, 2680a, and 2686 of this title, amending sections 901a, 1439, 1476, and 2680 of this title, and section 5924 of Title 5, Government Organization and Employees, enacting provisions set out as notes under sections 901a, 966, and 2151 of this title and amending provisions set out as notes preceding section 1 of Title 50, Appendix, War and National Defense\] may be cited as the ‘State Department/USIA Authorization Act, Fiscal Year 1975’.”
 
 #### Short Title of 1973 Amendment
 
@@ -120,7 +120,7 @@ Pub. L. 107–228, §3, Sept. 30, 2002, 116 Stat. 1355, provided that: “In thi
 
 &emsp;“(1)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ meansthe Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
 
 &emsp;“(2)
 

@@ -60,19 +60,21 @@ Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by P
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
 
+Pub. L. 109–163, div. C, title XXXIII, §§3303, 3304, Jan. 6, 2006, 119 Stat. 3546.
+
 Pub. L. 108–375, div. C, title XXXIII, §3303, Oct. 28, 2004, 118 Stat. 2193.
 
 Pub. L. 107–107, div. C, title XXXIII, §§3301, 3303, 3306(a), Dec. 28, 2001, 115 Stat. 1388, 1389, 1391.
 
 Pub. L. 106–398, §1 \[div. C, title XXXIII, §3303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483.
 
-Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973; Pub. L. 108–136, div. C, title XXXIII, §3302, Nov. 24, 2003, 117 Stat. 1788.
+Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973; Pub. L. 108–136, div. C, title XXXIII, §3302, Nov. 24, 2003, 117 Stat. 1788; Pub. L. 109–163, div. C, title XXXIII, §3302(b), Jan. 6, 2006, 119 Stat. 3546.
 
 Pub. L. 106–31, title I, §303, May 21, 1999, 113 Stat. 67.
 
 Pub. L. 105–262, title VIII, §8109, Oct. 17, 1998, 112 Stat. 2322.
 
-Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 108–375, div. C, title XXXIII, §3302, Oct. 28, 2004, 118 Stat. 2193.
+Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390; Pub. L. 108–375, div. C, title XXXIII, §3302, Oct. 28, 2004, 118 Stat. 2193; Pub. L. 109–163, div. C, title XXXIII, §3302(a), Jan. 6, 2006, 119 Stat. 3545.
 
 Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973; Pub. L. 107–107, div. C, title XXXIII, §§3304(b), 3305, Dec. 28, 2001, 115 Stat. 1390.
 

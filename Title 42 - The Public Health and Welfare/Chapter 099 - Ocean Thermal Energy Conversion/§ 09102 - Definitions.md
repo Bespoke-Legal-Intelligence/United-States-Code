@@ -36,13 +36,13 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(17) “thermal plume” means the area of the ocean in which a significant difference in temperature, as defined in regulations by the Administrator, occurs as a result of the operation of an ocean thermal energy conversion facility or plantship; and
 
-&emsp;(18) “United States citizen” means (A) any individual who is a citizen of the United States by law, birth, or naturalization; (B) any Federal, State, or local government in the United States, or any entity of any such government; or (C) any corporation, partnership, association, or other entity, organized or existing under the laws of the United States, or of any State, which has as its president or other executive officer and as its chairman of the board of directors, or holder of similar office, an individual who is a United States citizen and which has no more of its directors who are not United States citizens than constitute a minority of the number required for a quorum necessary to conduct the business of the board.
+&emsp;(18) “United States citizen” means (A) any individual who is a citizen of the United States by law, birth, or naturalization; (B) any Federal, State, or local government in the United States, or any entity of any such government; or (C) any corporation, partnership, association, or other entity, organized or existing under the laws of the United States, or of any State, which has as its president or other executive officer and as its chairman of the board of directors, or holder of similar office, an individual who is a United States citizen and which has no more of its directors who are not United States citizens than constitutea minority of the number required for a quorum necessary to conduct the business of the board.
 
 (Pub. L. 96–320, §3, Aug. 3, 1980, 94 Stat. 975; Pub. L. 98–623, title VI, §602(a)(2), (e)(7), Nov. 8, 1984, 98 Stat. 3410, 3412.)
 
 #### References in Text
 
-Act of July 2, 1890, as amended, referred to in par. (3), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended,known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+Act of July 2, 1890, as amended, referred to in par. (3), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
 Act of October 15, 1914, as amended, referred to in par. (3), is act Oct. 15, 1914, ch. 323, 78 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 

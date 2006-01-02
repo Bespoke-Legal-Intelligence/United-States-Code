@@ -104,7 +104,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (C) Determination of adjusted gross income in case of estates and trusts
 
-&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall becomputed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
+&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
 
 #### (D) Coordination with estate tax
 
@@ -118,7 +118,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (1) Election to take deduction for preceding year
 
-&emsp;Notwithstanding the provisions of subsection (a), any loss attributable to a disaster occurring in an area subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
+&emsp;Notwithstanding the provisions of subsection (a), any loss attributable to a disaster occurring in an area subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
 
 #### (2) Year of loss
 
@@ -130,7 +130,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (4) Use of disaster loan appraisals to establish amount of loss
 
-&emsp;Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a Presidentially declared disaster (as defined by section 1033(h)(3)) may be used to establish the amount of any loss described in paragraph (1) or (2).
+&emsp;Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from theFederal Government as a result of a Presidentially declared disaster (as defined by section 1033(h)(3)) may be used to establish the amount of any loss described in paragraph (1) or (2).
 
 #### (j) Denial of deduction for losses on certain obligations not in registered form
 
@@ -166,7 +166,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (k) Treatment as disaster loss where taxpayer ordered to demolish or relocate residence in disaster area because of disaster
 
-In the case of a taxpayer whose residence is located in an area which has been determined by the President of the United States to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act, if—
+In the case of a taxpayer whose residence is located in an area which has been determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, if—
 
 &emsp;(1) not later than the 120th day after the date of such determination, the taxpayer is ordered, by the government of the State or any political subdivision thereof in which such residence is located, to demolish or relocate such residence, and
 
@@ -254,13 +254,15 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;<b>(5) For special rule for losses on small business stock, see section 1244.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 49; Pub. L. 85–866, title I, §§7, 57(c)(1), title II, §202(a), Sept. 2, 1958, 72 Stat. 1608, 1646, 1676; Pub. L. 87–426, §2(a), Mar. 31, 1962, 76 Stat. 51; Pub. L. 88–272, title II, §§208(a), 238, Feb. 26, 1964, 78 Stat. 43, 128; Pub. L. 88–348, §3(a), June 30, 1964, 78 Stat. 237; Pub. L. 91–606, title III, §301(h), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–677, §1(a), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 91–687, §1, Jan. 12, 1971, 84 Stat. 2071; Pub. L. 92–336, §2(a), July 1, 1972, 86 Stat. 406; Pub. L. 92–418, §2(a), Aug. 29, 1972, 86 Stat. 656, 657; Pub. L. 93–288, title VII, §702(h), formerly title VI, §602(h), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(h), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1901(a)(26), Oct. 4, 1976, 90 Stat. 1767; Pub. L. 97–248, title II, §203(a), (b), title III, §310(b)(5), Sept. 3, 1982, 96 Stat. 422, 598; Pub. L. 98–369, div. A, title I, §42(a)(4), title VII, §711(c)(1), (2)(A)(i), (ii), title X, §1051(a), July 18, 1984, 98 Stat. 556, 943, 1044; Pub. L. 99–514, title IX, §905(a), title X, §1004(a), Oct. 22, 1986, 100 Stat. 2385, 2388; Pub. L. 100–647, title I, §1009(d)(1), Nov. 10, 1988, 102 Stat. 3449; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 105–34, title IX, §912(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 108–311, title IV, §408(a)(7)(A), (B), Oct. 4, 2004, 118 Stat. 1191.)
 
 #### References in Text
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsecs. (i)(1) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (i)(1) and (k), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsecs. (i)(1), (k). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act”.
 
 2000—Subsec. (g)(3). Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(2)\], struck out last sentence of concluding provisions which read as follows: “As used in subparagraph (A), the term ‘stock’ does not include nonvoting stock which is limited and preferred as to dividends.”
 
@@ -286,7 +288,7 @@ Subsec. (h). Pub. L. 98–369, §711(c)(2)(A)(ii), substituted heading “Treatm
 
 &emsp;“(B) the aggregate amount of all such losses sustained by such individual during the taxable year (determined after application of subparagraph (A) exceeds 10 percent of the adjusted gross income of the individual.”;
 
-> added par. (2) “Net casualty loss allowed only to the extent it exceeds 10 percent of adjusted gross income” provision and par. (3) “Definitions of personal casualty gain and personal casualty loss” provisions; redesignated as par. (4) former par. (2) catchline; added par. (4)(A) “Personal casualty losses allowable in computing adjusted gross income to the extent of personal casualty gains” provision; redesignated as par. (4)(B) former par. (2)(A) joint returns provision, substituting “For purposes of this section” for “For purposes of the $100 and 10 percent limitations described in paragraph (1)” and “individual” for “one individual”; redesignated as par. (4)(C) former par. (2)(B), substituting therein paragraph “(2)” for “(1)”; and redesignated as par. (4)(D) former par. (2)(C).
+> added par. (2) “Net casualty loss allowed only to the extent it exceeds 10 percent of adjusted gross income” provision and par. (3) “Definitions of personal casualty gain and personal casualty loss” provisions; redesignated as par. (4) former par. (2) catchline; added par. (4)(A) “Personal casualty losses allowable in computing adjusted gross income to the extent of personal casualty gains” provision; redesignated as par. (4)(B) former par. (2)(A) joint returns provision, substituting “For purposes of this section” for “For purposes of the $100 and 10 percent limitations described in paragraph (1)” and “individual” for “one individual”; redesignated as par. (4)(C) former par. (2)(B), substitutingtherein paragraph “(2)” for “(1)”; and redesignated as par. (4)(D) former par. (2)(C).
 
 Pub. L. 98–369, §711(c)(1), amended par. (2) by redesignating subpar. (B) as (C) and by adding a new subpar. (B) relating to the determination of adjusted gross income in case of estates and trusts.
 
@@ -532,7 +534,7 @@ Special Rule for Motor Carrier Operating Authority.—In the case of a corporati
 
 “(d)
 
-Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section 334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out below\] shall be a reference to such section as in effect before its repeal.
+Application of Section 334(b)(2).—For purposes of subsections (a) and (b), the reference to section334(b)(2) in section 266(c)(2)(A)(ii) of the Economic Recovery Tax Act of 1981 \[section 266(c)(2)(A)(ii) of Pub. L. 97–34, set out below\] shall be a reference to such section as in effect before its repeal.
 
 “(e)
 
@@ -634,7 +636,7 @@ Application of Section.—This section shall apply to any individual—
 
 Effect of Election.—In the case of any individual to whom this section applies—
 
-&emsp;“(1) the tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the taxable year in which the income taken into account is received or accrued which is attributable to such income shall not exceed the additional tax under such chapter which would have been payable for the year in which the deduction for the loss was taken if such deduction had not been taken for such year,
+&emsp;“(1) the tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the taxable year in which the income taken into account is received or accruedwhich is attributable to such income shall not exceed the additional tax under such chapter which would have been payable for the year in which the deduction for the loss was taken if such deduction had not been taken for such year,
 
 &emsp;“(2) any amount of tax imposed by chapter 1 attributable to the income taken into account which, on October 1, 1975, was unpaid may be paid in 3 equal annual installments (with the first such installment due and payable on April 15, 1977), and
 
@@ -659,8 +661,4 @@ Statute of Limitations.—If refund or credit of any overpayment of income tax r
 #### Refund or Credit of Overpayment; Time for Filing Claim; Interest
 
 Section 1(b)(2) of Pub. L. 91–677 authorized refund or credit of overpayment attributable to the amendments made by subsec. (a) to subsec. (i) of this section if claim therefor was filed after Jan. 12, 1971, and before July 1, 1971, without interest for any period before Jan. 1, 1972.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 62, 67, 68, 80, 86, 148, 166, 172, 195, 271, 272, 451, 593, 709, 832, 873, 877, 897, 1022, 1042, 1212, 1351, 1367, 6227, 6405, 6511 of this title.
 

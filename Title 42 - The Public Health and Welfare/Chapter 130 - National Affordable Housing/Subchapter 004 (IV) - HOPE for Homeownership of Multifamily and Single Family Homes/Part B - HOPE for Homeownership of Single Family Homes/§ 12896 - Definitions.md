@@ -8,7 +8,7 @@ For purposes of this part:
 
 &emsp;(3) The term “eligible family” means a family or individual who—
 
-&emsp;&emsp;(A) has an income that does not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families; and
+&emsp;&emsp;(A) has an income that does not exceed 80 percent of the median income for the area,as determined by the Secretary with adjustments for smaller and larger families; and
 
 &emsp;&emsp;(B) is a first-time homebuyer.
 

@@ -132,5 +132,5 @@ Section 5 of Pub. L. 99–158, as amended by Pub. L. 102–531, title III, §312
 
 #### Interagency Committee on Learning Disabilities
 
-Section 9 of Pub. L. 99–158 directed Director of the National Institutes of Health, not later than 90 days after Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
+Section 9 of Pub. L. 99–158 directed Director of the National Institutes of Health, not later than 90 daysafter Nov. 20, 1985, to establish an Interagency Committee on Learning Disabilities to review and assess Federal research priorities, activities, and findings regarding learning disabilities (including central nervous system dysfunction in children), provided for composition of the Committee, directed Committee to report to Congress on its activities not later than 18 months after Nov. 20, 1985, and provided that the Committee terminate 90 days after submission of the report.
 

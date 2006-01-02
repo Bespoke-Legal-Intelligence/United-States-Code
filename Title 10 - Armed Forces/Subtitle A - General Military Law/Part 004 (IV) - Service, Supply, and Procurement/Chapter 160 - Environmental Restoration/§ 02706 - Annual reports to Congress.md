@@ -36,7 +36,7 @@ Report on Environmental Quality Programs and Other Environmental Activities.—(
 
 (2) Each report shall include the following:
 
-&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the report is submitted, and the fiscal year following the fiscal year in which the report is submitted.
+&emsp;(A) A description of the environmental quality program of the Department of Defense, and of each of the military departments, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year in which the reportis submitted, and the fiscal year following the fiscal year in which the report is submitted.
 
 &emsp;(B) For each of the major activities under the environmental quality programs:
 
@@ -48,43 +48,13 @@ Report on Environmental Quality Programs and Other Environmental Activities.—(
 
 &emsp;(C) A summary of the major achievements of the environmental quality programs and of any major problems with the programs.
 
-&emsp;(D) A list of the planned or ongoing projects necessary to support the environmental quality programs during the period covered by the report, the cost of which has exceeded or is anticipated to exceed $1,500,000. The list and accompanying material shall include the following:
+&emsp;(D) A summary of fines and penalties imposed or assessed against the Department of Defense and the military departments under Federal, State, or local environmental laws during the fiscal year in which the report is submitted and the four preceding fiscal years, which summary shall include—
 
-&emsp;&emsp;(i) A separate listing of the projects inside the United States and of the projects outside the United States.
+&emsp;&emsp;(i) a trend analysis of such fines and penalties for military installations inside and outside the United States; and
 
-&emsp;&emsp;(ii) For each project commenced during the first four fiscal years of the period covered by the report (other than a project that was reported as fully executed in the report for a previous fiscal year), a description of—
+&emsp;&emsp;(ii) a list of such fines or penalties that exceeded $1,000,000 and the provisions of law under which such fines or penalties were imposed or assessed.
 
-&emsp;&emsp;&emsp;(I) the amount specified in the initial budget request for the project;
-
-&emsp;&emsp;&emsp;(II) the aggregate amount allocated to the project through the fiscal year preceding the fiscal year for which the report is submitted; and
-
-&emsp;&emsp;&emsp;(III) the aggregate amount obligated for the project through that fiscal year.
-
-&emsp;&emsp;(iii) For each project commenced or to be commenced in the fiscal year in which the report is submitted, a description of—
-
-&emsp;&emsp;&emsp;(I) the amount specified for the project in the budget for the fiscal year; and
-
-&emsp;&emsp;&emsp;(II) the amount allocated to the project in the fiscal year.
-
-&emsp;&emsp;(iv) For each project to be commenced in the last fiscal year of the period, a description of the amount, if any, specified for the project in the budget for the fiscal year.
-
-&emsp;&emsp;(v) If the anticipated aggregate cost of any project covered by the report will exceed by more than 25 percent the amount specified in the initial budget request for such project, a justification for that variance.
-
-&emsp;(E) A statement of the fines and penalties imposed or assessed against the Department of Defense and the military departments under Federal, State, or local environmental laws during the fiscal year in which the report is submitted and the four preceding fiscal years, which shall set forth the following:
-
-&emsp;&emsp;(i) Each Federal environmental statute under which a fine or penalty was imposed or assessed during each such fiscal year.
-
-&emsp;&emsp;(ii) With respect to each such Federal statute—
-
-&emsp;&emsp;&emsp;(I) the aggregate amount of fines and penalties imposed under the statute during each such fiscal year;
-
-&emsp;&emsp;&emsp;(II) the aggregate amount of fines and penalties paid under the statute during each such fiscal year; and
-
-&emsp;&emsp;&emsp;(III) the total amount required during such fiscal years for supplemental environmental projects in lieu of the payment of a fine or penalty under the statute and the extent to which the cost of such projects during such fiscal years has exceeded the original amount of the fine or penalty.
-
-&emsp;&emsp;(iii) A trend analysis of fines and penalties imposed or assessed during each such fiscal year for military installations inside and outside the United States.
-
-&emsp;(F) A statement of the amounts expended, and anticipated to be expended, during the period covered by the report for any activities overseas relating to the environment, including amounts for activities relating to environmental remediation, compliance, conservation, pollution prevention, and environmental technology and amounts for conferences, meetings, and studies for pilot programs, and for travel related to such activities.
+&emsp;(E) A statement of the amounts expended, and anticipated to be expended, during the period covered by the report for any activities overseas relating to the environment, including amounts for activities relating to environmental remediation, compliance, conservation, pollution prevention, and environmental technology.
 
 (c)
 
@@ -124,9 +94,11 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) Pollution prevention activities.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§344(a), 345, Nov. 18, 1997, 111 Stat. 1688; Pub. L. 105–261, div. A, title III, §325, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 106–65, div. A, title III, §§322, 323(c)(1), Oct. 5, 1999, 113 Stat. 560, 563; Pub. L. 107–107, div. A, title III, §315, Dec. 28, 2001, 115 Stat. 1053.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1724; amended Pub. L. 101–189, div. A, title III, §357(a)(1), (2)(A), Nov. 29, 1989, 103 Stat. 1426, 1427; Pub. L. 101–510, div. A, title III, §§341, 342(a), Nov. 5, 1990, 104 Stat. 1536, 1537; Pub. L. 103–160, div. A, title X, §1001(a)–(d), Nov. 30, 1993, 107 Stat. 1742–1744; Pub. L. 103–337, div. A, title X, §1070(b)(9), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 104–106, div. A, title III, §324(f), Feb. 10, 1996, 110 Stat. 254; Pub. L. 104–201, div. A, title III, §321, Sept. 23, 1996, 110 Stat. 2477; Pub. L. 105–85, div. A, title III, §§344(a), 345, Nov. 18, 1997, 111 Stat. 1688; Pub. L. 105–261, div. A, title III, §325, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 106–65, div. A, title III, §§322, 323(c)(1), Oct. 5, 1999, 113 Stat. 560, 563; Pub. L. 107–107, div. A, title III, §315, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 109–163, div. A, title III, §311, Jan. 6, 2006, 119 Stat. 3190.)
 
 #### Amendments
+
+2006—Subsec. (b)(2)(D) to (F). Pub. L. 109–163 added subpar. (D), struck out former subpars. (D) and (E) which related to a list of the planned or ongoing projects necessary to support the environmental quality programs and a statement of the fines and penalties imposed or assessed against the Department of Defense and the military departments under environmental laws, redesignated subpar. (F) as (E) and struck out “and amounts for conferences, meetings, and studies for pilot programs, and for travel related to such activities” before period.
 
 2001—Subsec. (c). Pub. L. 107–107, §315(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
 
@@ -228,7 +200,7 @@ Report on Environmental Restoration Activities.—The Secretary of Defense shall
 
 &emsp;“(3) An assessment of the technology currently available for the remediation of unexploded ordnance, discarded military munitions, and munitions constituents.
 
-&emsp;“(4) An assessment of the impact of improved technology on the cost of such remediation and a plan for the development and use of such improved technology.
+&emsp;“(4) An assessment of the impact of improved technology on the cost of such remediation and a plan forthe development and use of such improved technology.
 
 “(b)
 

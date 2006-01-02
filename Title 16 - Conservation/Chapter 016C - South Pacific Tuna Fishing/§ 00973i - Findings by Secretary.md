@@ -8,7 +8,7 @@ Following any investigation conducted in accordance with section 973h(b) of this
 
 &emsp;&emsp;(A) while fishing in the Licensing Area did not have a license under the Treaty to fish in the Licensing Area, and that under paragraph 2 of Article 3 of the Treaty, such fishing is not authorized to be conducted in the Licensing Area without a license;
 
-&emsp;&emsp;(B) was involved in any incident in which an Authorized Officer, Authorized Party Officer, or observer was allegedly assaultedwith resultant bodily harm, physically threatened, forcefully resisted, refused boarding, or subjected to physical intimidation or physical interference in the performance of duties as authorized by this chapter or the Treaty;
+&emsp;&emsp;(B) was involved in any incident in which an Authorized Officer, Authorized Party Officer, or observer was allegedly assaulted with resultant bodily harm, physically threatened, forcefully resisted, refused boarding, or subjected to physical intimidation or physical interference in the performance of duties as authorized by this chapter or the Treaty;
 
 &emsp;&emsp;(C) has not made full payment within 60 days of any amount due as a result of a final judgment or other final determination deriving from a violation in waters within the Treaty Area of a Pacific Island Party; or
 

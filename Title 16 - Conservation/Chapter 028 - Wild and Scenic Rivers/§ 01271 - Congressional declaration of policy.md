@@ -8,6 +8,10 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–44, §1, Aug. 2, 2005, 119 Stat. 443, provided that: “This Act \[amending section 1274 of this title\] may be cited as the ‘Upper White Salmon Wild and Scenic Rivers Act’.”
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–365, §1, Dec. 19, 2002, 116 Stat. 3027, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Caribbean National Forest Wild and Scenic Rivers Act of 2002’.”
@@ -54,11 +58,11 @@ Pub. L. 102–215, §1, Dec. 11, 1991, 105 Stat. 1664, provided that: “This Ac
 
 Pub. L. 102–214, §1, Dec. 11, 1991, 105 Stat. 1663, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Lamprey River Study Act of 1991’.”
 
-Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as notes under sections 1a–5 and 1274 of this title\] may be cited as the ‘Niobrara Scenic River Designation Act of 1991’.”
+Pub. L. 102–50, §1, May 24, 1991, 105 Stat. 254, provided that: “This Act \[amending sections 1274 and 1276 of this title and enacting provisions classified as notes undersections 1a–5 and 1274 of this title\] may be cited as the ‘Niobrara Scenic River Designation Act of 1991’.”
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–628, title VII, §701, Nov. 28, 1990, 104 Stat. 4497, provided that: “This title \[amending section 1276of this title\] may be cited as the ‘Sudbury, Assabet, and Concord Wild and Scenic River Study Act’.”
+Pub. L. 101–628, title VII, §701, Nov. 28, 1990, 104 Stat. 4497, provided that: “This title \[amending section 1276 of this title\] may be cited as the ‘Sudbury, Assabet, and Concord Wild and Scenic River Study Act’.”
 
 Pub. L. 101–628, title XIII, §1301, Nov. 28, 1990, 104 Stat. 4509, provided that: “This Act \[probably should be “this title”, amending section 1274 of this title\] may be cited as the ‘Clarks Fork Wild and Scenic River Designation Act of 1990’.”
 

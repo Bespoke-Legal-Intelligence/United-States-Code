@@ -26,7 +26,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(3) The “finance charge”, not itemized, using that term.
 
-&emsp;(4) The finance charge expressed as an “annual percentage rate”, using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financed exceeds $75 and the finance charge does not exceed $7.50.
+&emsp;(4) The finance charge expressed as an “annual percentage rate”, using that term. This shall not be required if the amount financed does not exceed $75 and the finance charge does not exceed $5, or if the amount financedexceeds $75 and the finance charge does not exceed $7.50.
 
 &emsp;(5) The sum of the amount financed and the finance charge, which shall be termed the “total of payments”.
 
@@ -48,29 +48,41 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Board for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Board, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
 
+&emsp;(15) In the case of a consumer credit transaction that is secured by the principal dwelling of the consumer, in which the extension of credit may exceed the fair market value of the dwelling, a clear and conspicuous statement that—
+
+&emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
+
+&emsp;&emsp;(B) the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
+
 #### (b) Form and timing of disclosures; residential mortgage transaction requirements
 
 (1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of section 1605 of this title shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
 
-(2) In the case of a residential mortgage transaction, as defined in section 1602(w) of this title, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures requiredunder subsection (a) of this section shall be made in accordance with regulations of the Board under section 1631(c) of this title before the credit is extended, or shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which ever is earlier. If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.
+(2) In the case of a residential mortgage transaction, as defined in section 1602(w) of this title, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Board under section 1631(c) of this title before the credit is extended, or shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which ever is earlier. If the disclosure statement furnished within three days of the written application contains an annual percentage rate which is subsequently rendered inaccurate within the meaning of section 1606(c) of this title, the creditor shall furnish another statement at the time of settlement or consummation.
+
+(3) In the case of a credit transaction described in paragraph (15) of subsection (a) of this section, disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
 
 #### (c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests
 
 (1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor's catalog or other printed material distributed to the public, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
 
-(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor's printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+(2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor's printed material distributed to the public, or in the contract of loan or other printed material deliveredto the obligor, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
 
 #### (d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance
 
 If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
-(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402.)
+(Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208.)
 
 #### References in Text
 
 The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2), probably refers to the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 12 and Tables.
 
 #### Amendments
+
+2005—Subsec. (a)(15). Pub. L. 109–8, §1302(b)(1)(A), added par. (15).
+
+Subsec. (b)(3). Pub. L. 109–8, §1302(b)(1)(B), added par. (3).
 
 1996—Subsec. (a)(14). Pub. L. 104–208 added par. (14).
 
@@ -79,6 +91,10 @@ The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2), probab
 Subsec. (b). Pub. L. 96–221, §614(b), designated existing provisions as par. (1), inserted provisions relating to the conspicuous segregation of required disclosures, and struck out provisions authorizing the required information to be disclosed in the signed evidence of indebtedness, and added par. (2).
 
 Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. (1), substituted “total sale” for “deferred payment”, and added par. (2).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1980 Amendment
 

@@ -26,17 +26,17 @@ The Commission may, on its own motion, and shall, on application of any person o
 
 #### References in Text
 
-The Commission, referred to in text, means the Federal Energy Regulatory Commission. See section 2602(3) of this title
-
-The Secretary, referred to in subsec. (b), means the Secretary of Energy. See section 2602(14) of this title.
-
 This Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the “Public Utility Regulatory Policies Act of 1978”. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 The Federal Power Act, referred to in subsec. (b)(2), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
+The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health andWelfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
 
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
+
+#### Definitions
+
+For definitions of terms used in this section, see section 2602 of this title.
 

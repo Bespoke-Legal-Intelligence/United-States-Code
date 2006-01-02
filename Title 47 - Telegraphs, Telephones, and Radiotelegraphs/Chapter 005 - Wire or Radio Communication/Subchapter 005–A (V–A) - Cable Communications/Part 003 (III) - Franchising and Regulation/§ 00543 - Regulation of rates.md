@@ -42,7 +42,7 @@
 
 #### (6) Exercise of jurisdiction by Commission
 
-&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercise that jurisdiction by filing a new certification that meets the requirements of paragraph (3). Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
+&emsp;If the Commission disapproves a franchising authority's certification under paragraph (4), or revokes such authority's jurisdiction under paragraph (5), the Commission shall exercise the franchising authority's regulatory jurisdiction under paragraph (2)(A) until the franchising authority has qualified to exercise that jurisdiction by filing a new certification that meets the requirements of paragraph (3).Such new certification shall be effective upon approval by the Commission. The Commission shall act to approve or disapprove any such new certification within 90 days after the date it is filed.
 
 #### (7) Aggregation of equipment costs
 
@@ -168,7 +168,7 @@
 
 &emsp;&emsp;(C) the history of the rates for cable programming services of the system, including the relationship of such rates to changes in general consumer prices;
 
-&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cable services provided by the system, other than programming provided on a per channel or per program basis;
+&emsp;&emsp;(D) the rates, as a whole, for all the cable programming, cable equipment, and cable services provided by the system, other thanprogramming provided on a per channel or per program basis;
 
 &emsp;&emsp;(E) capital and operating costs of the cable system, including the quality and costs of the customer service provided by the cable system; and
 
@@ -196,7 +196,7 @@ Nothing in this subchapter shall be construed as prohibiting any Federal agency,
 
 #### (f) Negative option billing prohibited
 
-A cable operator shall not charge a subscriber for any service or equipment that the subscriberhas not affirmatively requested by name. For purposes of this subsection, a subscriber's failure to refuse a cable operator's proposal to provide such service or equipment shall not be deemed to be an affirmative request for such service or equipment.
+A cable operator shall not charge a subscriber for any service or equipment that the subscriber has not affirmatively requested by name. For purposes of this subsection, a subscriber's failure to refuse a cable operator's proposal to provide such service or equipment shall not be deemed to be an affirmative request for such service or equipment.
 
 #### (g) Collection of information
 
@@ -234,7 +234,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) served by at least two unaffiliated multichannel video programming distributors each of which offers comparable video programming to at least 50 percent of the households in the franchise area; and
 
-&emsp;&emsp;&emsp;(ii) the number of households subscribing to programming services offered by multichannel video programming distributors other than the largest multichannel video programming distributor exceeds 15 percent of the households in the franchise area;
+&emsp;&emsp;&emsp;(ii) the number of households subscribing to programming services offered by multichannel video programming distributorsother than the largest multichannel video programming distributor exceeds 15 percent of the households in the franchise area;
 
 &emsp;&emsp;(C) a multichannel video programming distributor operated by the franchising authority for that franchise area offers video programming to at least 50 percent of the households in that franchise area; or
 
@@ -262,7 +262,7 @@ As used in this section—
 
 Notwithstanding any other provision of this section or of section 532 of this title, losses associated with a cable system (including losses associated with the grant or award of a franchise) that were incurred prior to September 4, 1992, with respect to a cable system that is owned and operated by the original franchisee of such system shall not be disallowed, in whole or in part, in the determination of whether the rates for any tier of service or any type of equipment that is subject to regulation under this section are lawful.
 
-(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118.)
+(June 19, 1934, ch. 652, title VI, §623, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2788; amended Pub. L. 102–385, §3(a), Oct. 5, 1992, 106 Stat. 1464; Pub. L. 104–104, title III, §301(b), (c), (j), (k)(1), Feb. 8, 1996, 110 Stat. 114, 116, 118.)
 
 #### Amendments
 

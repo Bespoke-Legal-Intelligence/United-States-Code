@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the first corporation shall be treated as holding a portion of each asset of the second corporation equal to the percentage of the fair market value of the stock of the second corporation represented by the stock held by the first corporation, and
 
-&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) which is used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
+&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) whichis used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
 
 > &emsp;&emsp;Any asset treated as held by the first corporation by reason of the preceding sentence shall be so treated for purposes of applying the preceding sentence successively to corporations which are above the first corporation in a chain of corporations.
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (C) Constructive ownership rules
 
-&emsp;&emsp;For purposes of determining under paragraph (3) whether any person holds morethan 5 percent of any class of stock and of determining under paragraph (5) whether a person holds a controlling interest in any corporation, section 318(a) shall apply (except that paragraphs (2)(C) and (3)(C) of section 318(a) shall be applied by substituting “5 percent” for “50 percent”).
+&emsp;&emsp;For purposes of determining under paragraph (3) whether any person holds more than 5 percent of any class of stock and of determining under paragraph (5) whether a person holds a controlling interest in any corporation, section 318(a) shall apply (except that paragraphs (2)(C) and (3)(C) of section 318(a) shall be applied by substituting “5 percent” for “50 percent”).
 
 #### (d) Treatment of distributions by foreign corporations
 
@@ -174,35 +174,45 @@ For purposes of this section—
 
 Under regulations prescribed by the Secretary, the amount of any money, and the fair market value of any property, received by a nonresident alien individual or foreign corporation in exchange for all or part of its interest in a partnership, trust, or estate shall, to the extent attributable to United States real property interests, be considered as an amount received from the sale or exchange in the United States of such property.
 
-#### (h) Special rules for REITS
+#### (h) Special rules for certain investment entities
 
 For purposes of this section—
 
 #### (1) Look-through of distributions
 
-&emsp;Any distribution by a REIT to a nonresident alien individual or a foreign corporation shall, to the extent attributable to gain from sales or exchanges by the REIT of United States real property interests, be treated as gain recognized by such nonresident alien individual or foreign corporation from the sale or exchange of a United States real property interest.
+&emsp;Any distribution by a qualified investment entity to a nonresident alien individual or a foreign corporation shall, to the extent attributable to gain from sales or exchanges by the qualified investment entity of United States real property interests, be treated as gain recognized by such nonresident alien individual or foreign corporation from the sale or exchange of a United States real property interest. Notwithstanding the preceding sentence, any distribution by a real estate investment trust with respect to any class of stock which is regularly traded on an established securitiesmarket located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the 1-year period ending on the date of the distribution.
 
-#### (2) Sale of stock in domestically-controlled REIT not taxed
+#### (2) Sale of stock in domestically controlled entity not taxed
 
-&emsp;The term “United States real property interest” does not include any interest in a domestically-controlled REIT.
+&emsp;The term “United States real property interest” does not include any interest in a domestically controlled qualified investment entity.
 
-#### (3) Distributions by domestically-controlled REITS
+#### (3) Distributions by domestically controlled qualified investment entities
 
-&emsp;In the case of a domestically-controlled REIT, rules similar to the rules of subsection (d) shall apply to the foreign ownership percentage of any gain.
+&emsp;In the case of a domestically controlled qualified investment entity, rules similar to the rules of subsection (d) shall apply to the foreign ownership percentage of any gain.
 
 #### (4) Definitions
 
-#### (A) REIT
+#### (A) Qualified investment entity
 
-&emsp;&emsp;The term “REIT” means a real estate investment trust.
+#### (i) In general
 
-#### (B) Domestically-controlled REIT
+&emsp;&emsp;&emsp;The term “qualified investment entity” means—
 
-&emsp;&emsp;The term “domestically-controlled REIT” means a REIT in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.
+&emsp;&emsp;&emsp;&emsp;(I) any real estate investment trust, and
+
+&emsp;&emsp;&emsp;&emsp;(II) any regulated investment company.
+
+#### (ii) Termination
+
+&emsp;&emsp;&emsp;Clause (i)(II) shall not apply after December 31, 2007.
+
+#### (B) Domestically controlled
+
+&emsp;&emsp;The term “domestically controlled qualified investment entity” means any qualified investment entity in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.
 
 #### (C) Foreign ownership percentage
 
-&emsp;&emsp;The term “foreign ownership percentage” means that percentage of the stock of the REIT which was held (directly or indirectly) by foreign persons at the time during the testing period during which the direct and indirect ownership of stock by foreign persons was greatest.
+&emsp;&emsp;The term “foreign ownership percentage” means that percentage of the stock of the qualified investment entity which was held (directly or indirectly) by foreign persons at the time during the testing period during which the direct and indirect ownership of stock by foreign persons was greatest.
 
 #### (D) Testing period
 
@@ -212,7 +222,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the 5-year period ending on the date of the disposition or of the distribution, as the case may be, or
 
-&emsp;&emsp;&emsp;(iii) the period during which the REIT was in existence.
+&emsp;&emsp;&emsp;(iii) the period during which the qualified investment entity was in existence.
 
 #### (i) Election by foreign corporation to be treated as domestic corporation
 
@@ -256,9 +266,27 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;(B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626.)
 
 #### Amendments
+
+2005—Subsec. (h)(1). Pub. L. 109–135 substituted “any distribution by a real estate investment trust with respect to any class of stock” for “any distribution by a REIT with respect to any class of stock” and “the 1-year period ending on the date of the distribution” for “the taxable year”.
+
+2004—Subsec. (h). Pub. L. 108–357, §411(c)(5), substituted “certain investment entities” for “REITS” in heading.
+
+Subsec. (h)(1). Pub. L. 108–357, §418(a), inserted at end “Notwithstanding the preceding sentence, any distribution by a REIT with respect to any class of stock which is regularly traded on an established securities market located in the United States shall not be treated as gain recognized from the sale or exchange of a United States real property interest if the shareholder did not own more than 5 percent of such class of stock at any time during the taxable year.”
+
+Pub. L. 108–357, §411(c)(1), substituted “qualified investment entity” for “REIT” in two places.
+
+Subsec. (h)(2). Pub. L. 108–357, §411(c)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘United States real property interest’ does not include any interest in a domestically-controlled REIT.”
+
+Subsec. (h)(3). Pub. L. 108–357, §411(c)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In the case of a domestically-controlled REIT, rules similar to the rules of subsection (d) shall apply to the foreign ownership percentage of any gain.”
+
+Subsec. (h)(4)(A). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The term ‘REIT’ means a real estate investment trust.”
+
+Subsec. (h)(4)(B). Pub. L. 108–357, §411(c)(3), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘domestically-controlled REIT’ means a REIT in which at all times during the testing period less than 50 percent in value of the stock was held directly or indirectly by foreign persons.”
+
+Subsec. (h)(4)(C), (D)(iii). Pub. L. 108–357, §411(c)(4), substituted “qualified investment entity” for “REIT”.
 
 1996—Subsec. (f). Pub. L. 104–188 struck out subsec. (f) which read as follows:
 
@@ -302,11 +330,21 @@ Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to secti
 
 Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted “Assets” for “Interests” in heading and in first sentence “Under regulations prescribed by the Secretary, assets held by a partnership, trust or estate shall be treated as held” for “United States real property interests held by a partnership, trust, or estate shall be treated as owned” before “proportionately by its partners or beneficiaries”, and inserted provisions respecting treatment of an asset as used or held for use in a trade or business by a partner or beneficiary when used or held by the partnership, trust, or estate in a trade or business and attributing chain treatment of such trade or business to partnership, trust, or estate which are above the first such entity.
 
-Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted “Exceptions” for “Exception where there is a carryover basis” in heading, inserted introductory text “Gain shall not be recognized under subparagraph (A)”, inserted cls. (i)(I) and (ii), and substituted cl. (i)(II) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation” for subpar. (B) provision “Subparagraph (A) shall not apply if the basis of the distributed property in the hands of the distributee is the same as the adjusted basis of such property before the distribution increased by the amount of any gain recognized by the distributing corporation.”
+Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted “Exceptions” for “Exception where there is a carryoverbasis” in heading, inserted introductory text “Gain shall not be recognized under subparagraph (A)”, inserted cls. (i)(I) and (ii), and substituted cl. (i)(II) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation” for subpar. (B) provision “Subparagraph (A) shall not apply if the basis of the distributed property in the hands of the distributee is the same as the adjusted basis of such property before the distribution increased by the amount of any gain recognized by the distributing corporation.”
 
 Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted “holds a United States real property interest” for “has a permanent establishment in the United States”, in par. (1)(B) substituted “treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest” for “treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities”, in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted “such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders” for “such conditions as may be prescribed by the Secretary”, and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (<i>l</i>).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 411(c)(1) of Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, and amendment by section 411(c)(2)–(5) of Pub. L. 108–357 effective after Dec. 31, 2004, see section 411(d)(1), (3) of Pub. L. 108–357, set out as a note under section 871 of this title.
+
+Amendment by section 418(a) of Pub. L. 108–357 applicable to any distribution by a real estate investment trust which is either treated as a deduction for a taxable year of such trust beginning after Oct. 22, 2004, or made after Oct. 22, 2004, and treated as a deduction under section 860 of this title for a taxable year of such trust beginning on or before Oct. 22, 2004, see section 418(c) of Pub. L. 108–357, as amended, set out as a note under section 857 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -350,7 +388,7 @@ Reporting.—The amendments made by section 1123 \[enacting section 6039C of thi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -358,7 +396,7 @@ For applicability of amendment by section 701(e)(4)(G) of Pub. L. 99–514 notwi
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Applying Section 897
 
@@ -425,8 +463,4 @@ Nontaxed gain.—For purposes of paragraph (1), the term ‘nontaxed gain’ mea
 &emsp;“(A) because the disposition occurred before June 19, 1980, or
 
 &emsp;“(B) because of any treaty obligation of the United States.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 861, 862, 871, 882, 884, 1445, 6039C of this title.
 

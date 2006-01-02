@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;(5) Some commercial electronic mail contains material that many recipients may consider vulgar or pornographic in nature.
 
-&emsp;(6) The growth in unsolicited commercial electronic mail imposes significant monetary costs on providers of Internet access services, businesses, and educational and nonprofit institutions that carry and receive such mail, as there is a finite volume of mail that such providers, businesses, and institutions can handle without further investment in infrastructure.
+&emsp;(6) The growth in unsolicited commercial electronic mail imposes significant monetarycosts on providers of Internet access services, businesses, and educational and nonprofit institutions that carry and receive such mail, as there is a finite volume of mail that such providers, businesses, and institutions can handle without further investment in infrastructure.
 
 &emsp;(7) Many senders of unsolicited commercial electronic mail purposefully disguise the source of such mail.
 

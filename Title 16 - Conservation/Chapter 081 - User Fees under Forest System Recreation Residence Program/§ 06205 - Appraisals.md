@@ -110,7 +110,7 @@ In the development of specific appraisal guidelines in accordance with subsectio
 
 #### (i) Agency
 
-&emsp;&emsp;&emsp;Utilities, access, or facilities serving a lot that are provided by the agency shallbe included as features of the lot being appraised.
+&emsp;&emsp;&emsp;Utilities, access, or facilities serving a lot that are provided by the agency shall be included as features of the lot being appraised.
 
 #### (ii) Cabin owners
 
@@ -118,7 +118,7 @@ In the development of specific appraisal guidelines in accordance with subsectio
 
 #### (iii) Third parties
 
-&emsp;&emsp;&emsp;Utilities, access, or facilities serving a lot that are provided by a third party shall not be included as a feature of the lot being appraised unless, in accordance with subsection (a)(1) of this section, the agency determines that the capital costs have not been or are not being paid by the cabin owner (or a predecessor of the cabin owner).
+&emsp;&emsp;&emsp;Utilities, access, or facilities serving a lot that are provided by a third party shallnot be included as a feature of the lot being appraised unless, in accordance with subsection (a)(1) of this section, the agency determines that the capital costs have not been or are not being paid by the cabin owner (or a predecessor of the cabin owner).
 
 #### (iv) Withdrawal of utility or access by agency
 

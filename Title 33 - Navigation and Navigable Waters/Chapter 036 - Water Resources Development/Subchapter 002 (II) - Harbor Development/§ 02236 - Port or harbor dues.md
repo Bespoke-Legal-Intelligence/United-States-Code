@@ -20,7 +20,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (3) General limitations
 
-&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based onits design draft, could have utilized the project at mean low water before construction. In the case of project features which solely—
+&emsp;(A) Port or harbor dues may not be levied under this section in conjunction with a deepening feature of a navigation improvement project on any vessel if that vessel, based on its design draft, could have utilized the project at mean low water before construction. In the case of project features which solely—
 
 &emsp;&emsp;(i) widen channels or harbors,
 
@@ -88,7 +88,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 (3) On petition of the Attorney General or any other party, that district court may—
 
-&emsp;(A) grant appropriate injunctive relief to restrain an action by that non-Federal interestviolating the conditions of consent in subsection (a) of this section;
+&emsp;(A) grant appropriate injunctive relief to restrain an action by that non-Federal interest violating the conditions of consent in subsection (a) of this section;
 
 &emsp;(B) order the refund of any port or harbor dues not lawfully collected; and
 

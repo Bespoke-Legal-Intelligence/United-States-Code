@@ -40,7 +40,7 @@
 
 #### (B) Reduction for amounts referred to in paragraph (1)(A)
 
-&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced (but not below 0)by the amount determined under paragraph (1)(A).
+&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced (but not below 0) by the amount determined under paragraph (1)(A).
 
 #### (C) Overall limitation on paragraph
 
@@ -272,7 +272,7 @@ Subsec. (e)(1). Pub. L. 104–188, §1616(b)(7)(A), substituted “by a taxpayer
 
 Pub. L. 104–188, §1616(b)(7)(C)–(E), in closing provisions, substituted “a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “the association or an institution that is treated as a mutual savings bank under section 591(b)” after “complete liquidation of” and for “an association” after “an interest in” and inserted at end “This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.”
 
-Subsec. (e)(1)(B). Pub. L. 104–188, §1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
+Subsec. (e)(1)(B). Pub. L. 104–188, §1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve forlosses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
 
 Subsecs. (f), (g). Pub. L. 104–188, §1616(a), added subsecs. (f) and (g).
 
@@ -426,15 +426,11 @@ Section 6(g)(1) of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1374 of this title.
+Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

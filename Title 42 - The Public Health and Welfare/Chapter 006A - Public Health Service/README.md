@@ -2362,6 +2362,74 @@ Designated congressional committees.
 
 |  |  |
 | :--- | ---: |
+| 247d–6d. | Targeted liability protections for pandemic and epidemic products and security countermeasures. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Liability protections.
+
+(b)
+
+Declaration by Secretary.
+
+(c)
+
+Definition of willful misconduct.
+
+(d)
+
+Exception to immunity of covered persons.
+
+(e)
+
+Procedures for suit.
+
+(f)
+
+Actions by and against the United States.
+
+(g)
+
+Severability.
+
+(h)
+
+Rule of construction concerning National Vaccine Injury Compensation Program.
+
+(i)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 247d–6e. | Covered countermeasure process. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of Fund.
+
+(b)
+
+Payment of compensation.
+
+(c)
+
+Voluntary program.
+
+(d)
+
+Exhaustion; exclusivity; election.
+
+(e)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
 | 247d–7. | Demonstration program to enhance bioterrorism training, coordination, and readiness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3813,13 +3881,63 @@ Authorization of appropriations.
 
 Date certain for termination of program.
 
-#### subpart vi—health services for residents of public housing
-
 |  |  |
 | :--- | ---: |
-| [256a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20006%20%28vi%29%20-%20Health%20Services%20for%20Residents%20of%20Public%20Housing/%C2%A7%2000256a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93299%2C%20%C2%A74%28a%29%283%29%2C%20Oct.%2011%2C%201996%2C%20110%20Stat.%203645.md) | Repealed. |
+| [256a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20005%20%28v%29%20-%20Healthy%20Communities%20Access%20Program/%C2%A7%2000256a%20-%20Patient%20navigator%20grants.md) | Patient navigator grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Prohibitions.
+
+(d)
+
+Grant period.
+
+(e)
+
+Application.
+
+(f)
+
+Uniform baseline measures.
+
+(g)
+
+Preference.
+
+(h)
+
+Duplication of services.
+
+(i)
+
+Coordination with other programs.
+
+(j)
+
+Study; reports.
+
+(k)
+
+Rule of construction.
+
+(<i>l</i>)
+
+Definitions.
+
+(m)
+
+Authorization of appropriations.
 
 #### subpart vii—drug pricing agreements
 
@@ -4664,11 +4782,11 @@ Initial report requirements.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part I—National Bone Marrow Donor Registry
+#### Part I—C.W. Bill Young Cell Transplantation Program
 
 |  |  |
 | :--- | ---: |
-| [274k.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20National%20Bone%20Marrow%20Donor%20Registry/%C2%A7%2000274k%20-%20National%20Registry.md) | National Registry. |
+| [274k.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20C.W.%20Bill%20Young%20Cell%20Transplantation%20Program/%C2%A7%2000274k%20-%20National%20Program.md) | National Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -4678,57 +4796,65 @@ Establishment.
 
 (b)
 
-Functions.
+Accreditation.
 
 (c)
 
-Recruitment; priorities; information and education.
+Informed consent.
 
 (d)
 
-Patient advocacy; case management.
+Functions.
 
 (e)
 
-Criteria, standards, and procedures.
+Bone marrow recruitment; priorities; information and education.
 
 (f)
 
-Comment procedures.
+Bone marrow criteria, standards, and procedures.
 
 (g)
 
-Consultation.
+Cord blood recruitment; priorities; information and education.
 
 (h)
 
-Application.
+Patient advocacy and case management for bone marrow and cord blood.
 
 (i)
 
-Eligibility.
+Comment procedures.
 
 (j)
 
-Records.
+Consultation.
 
 (k)
 
-Penalties for disclosure.
+Contracts.
 
 (<i>l</i>)
 
-Annual report regarding pretransplant costs.
+Eligibility.
+
+(m)
+
+Records.
+
+(n)
+
+Penalties for disclosure.
 
 |  |  |
 | :--- | ---: |
-| 274<i>l</i>. | Bone marrow scientific registry. |
+| 274<i>l</i>. | Stem cell therapeutic outcomes database. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Establishment of recipient registry.
+Establishment.
 
 (b)
 
@@ -4738,9 +4864,14 @@ Information.
 
 Annual report on patient outcomes.
 
+(d)
+
+Publicly available data.
+
 |  |  |
 | :--- | ---: |
-| [274m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20National%20Bone%20Marrow%20Donor%20Registry/%C2%A7%2000274m%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| 274<i>l</i>–1. | Definitions. |
+| [274m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20I%20-%20C.W.%20Bill%20Young%20Cell%20Transplantation%20Program/%C2%A7%2000274m%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | 275 to 280a–1. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4816,8 +4947,21 @@ Biennial report.
 |  |  |
 | :--- | ---: |
 | 280b–3. | Authorization of appropriations. |
+| 280b–4. | Study conducted by the Centers for Disease Control and Prevention. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purposes.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Authorization of appropriations.
 
 #### Part K—Health Care Services in the Home
 
@@ -5291,6 +5435,90 @@ Coordination of activities.
 Definition.
 
 (e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 280g–3. | .Controlled substance monitoring program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Development of minimum requirements.
+
+(c)
+
+Application approval process.
+
+(d)
+
+Reporting requirements.
+
+(e)
+
+Database.
+
+(f)
+
+Use and disclosure of information.
+
+(g)
+
+Limitations.
+
+(h)
+
+Electronic format.
+
+(i)
+
+Rules of construction.
+
+(j)
+
+Studies and reports.
+
+(k)
+
+Preference.
+
+(<i>l</i>)
+
+Advisory council.
+
+(m)
+
+Definitions.
+
+(n)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 280g–4. | Grants to foster public health responses to domestic violence, dating violence, sexual assault, and stalking. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authority to award grants.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Allocation of funds.
+
+(d)
 
 Authorization of appropriations.
 
@@ -11594,6 +11822,32 @@ Allocation.
 
 Obligation of certain amounts.
 
+|  |  |
+| :--- | ---: |
+| [294h.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294h%20-%20Interdisciplinary%20training%20and%20education%20on%20domestic%20violence%20and%20other%20types%20of%20violence%20and%20abuse.md) | Interdisciplinary training and education on domestic violence and other types of violence and abuse. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Requirements of grantees.
+
+(e)
+
+Authorization of appropriations.
+
 #### Part E—Health Professions and Public Health Workforce
 
 I74subpart 1—health professions workforce information and analysis
@@ -12690,11 +12944,119 @@ Limitation on CMS.
 
 Authorization of appropriations.
 
-#### Part C—General Provisions
+#### Part C—Patient Safety Improvement
 
 |  |  |
 | :--- | ---: |
-| [299c.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20C%20-%20General%20Provisions/%C2%A7%2000299c%20-%20Advisory%20Council%20for%20Healthcare%20Research%20and%20Quality.md) | Advisory Council for Healthcare Research and Quality. |
+| 299b–21. | Definitions. |
+| 299b–22. | Privilege and confidentiality protections. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Privilege.
+
+(b)
+
+Confidentiality of patient safety work product.
+
+(c)
+
+Exceptions.
+
+(d)
+
+Continued protection of information after disclosure.
+
+(e)
+
+Reporter protection.
+
+(f)
+
+Enforcement.
+
+(g)
+
+Rule of construction.
+
+(h)
+
+Clarification.
+
+(i)
+
+Clarification of application of HIPAA confidentiality regulations to patient safety organizations.
+
+(j)
+
+Reports on strategies to improve patient safety.
+
+|  |  |
+| :--- | ---: |
+| 299b–23. | Network of patient safety databases. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Data standards.
+
+(c)
+
+Use of information.
+
+|  |  |
+| :--- | ---: |
+| 299b–24. | Patient safety organization certification and listing. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Certification.
+
+(b)
+
+Criteria.
+
+(c)
+
+Review of certification.
+
+(d)
+
+Listing.
+
+(e)
+
+Revocation of acceptance of certification.
+
+(f)
+
+Status of data after removal from listing.
+
+(g)
+
+Disposition of work product and data.
+
+|  |  |
+| :--- | ---: |
+| 299b–25. | Technical assistance. |
+| 299b–26. | Severability. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part D—General Provisions
+
+|  |  |
+| :--- | ---: |
+| [299c.](Subchapter%20007%20%28VII%29%20-%20Agency%20for%20Healthcare%20Research%20and%20Quality/Part%20D%20-%20General%20Provisions/%C2%A7%2000299c%20-%20Advisory%20Council%20for%20Healthcare%20Research%20and%20Quality.md) | Advisory Council for Healthcare Research and Quality. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -12881,6 +13243,10 @@ Evaluations.
 (d)
 
 Health disparities research.
+
+(e)
+
+Patient safety and quality improvement.
 
 |  |  |
 | :--- | ---: |
@@ -13240,6 +13606,12 @@ Special consideration for certain rural areas.
 (c)
 
 Requirement of application.
+
+|  |  |
+| :--- | ---: |
+| 300d–4. | Emergency medical services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part B—Formula Grants With Respect to Modifications of State Plans
 

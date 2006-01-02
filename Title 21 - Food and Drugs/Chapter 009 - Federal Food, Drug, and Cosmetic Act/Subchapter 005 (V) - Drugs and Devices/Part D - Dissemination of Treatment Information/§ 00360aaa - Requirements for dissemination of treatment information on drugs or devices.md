@@ -50,7 +50,7 @@ A manufacturer may disseminate information under subsection (a) of this section 
 
 &emsp;&emsp;&emsp;(v) if applicable, a statement that there are products or treatments that have been approved or cleared for the use that is the subject of the information being disseminated pursuant to subsection (a)(1) of this section; and
 
-&emsp;&emsp;&emsp;(vi) the identification of any person that has provided funding for the conduct of a study relating to the new use of a drug or device for which such information is being disseminated; and
+&emsp;&emsp;&emsp;(vi) the identification of any person that has provided funding for the conduct of astudy relating to the new use of a drug or device for which such information is being disseminated; and
 
 &emsp;&emsp;(B) a bibliography of other articles from a scientific reference publication or scientific or medical journal that have been previously published about the use of the drug or device covered by the information disseminated (unless the information already includes such bibliography).
 

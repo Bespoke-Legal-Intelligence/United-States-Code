@@ -16,7 +16,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 > &emsp;Clause (iv) shall not apply if for the taxable year such spouse makes a separate return or any other taxpayer is entitled to an exemption for such spouse under section 151(c).
 
-&emsp;(B) The amount specified in clause (i), (ii), or (iii) of subparagraph (A) shall be increased bythe amount of 1 additional standard deduction (within the meaning of section 63(c)(3)) in the case of an individual entitled to such deduction by reason of section 63(f)(1)(A) (relating to individuals age 65 or more), and the amount specified in clause (iv) of subparagraph (A) shall be increased by the amount of the additional standard deduction for each additional standard deduction to which the individual or his spouse is entitled by reason of section 63(f)(1).
+&emsp;(B) The amount specified in clause (i), (ii), or (iii) of subparagraph (A) shall be increased by the amount of 1 additional standard deduction (within the meaning of section 63(c)(3)) in the case of an individual entitled to such deduction by reason of section 63(f)(1)(A) (relating to individuals age 65 or more), and the amount specified in clause (iv) of subparagraph (A) shall be increased by the amount of the additional standard deduction for each additional standard deduction to which the individual or his spouse is entitled by reason of section 63(f)(1).
 
 &emsp;(C) The exception under subparagraph (A) shall not apply to any individual—
 
@@ -146,7 +146,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1525(a), added subsec. (d) and redesignat
 
 1984—Subsec. (b)(2). Pub. L. 98–369 struck out “or section 6015(a)” after “subsection (a)”.
 
-1981—Subsec. (a)(1). Pub. L. 97–34, §104(d)(1)(D), substituted “the exemption amount” for “$1,000”, wherever appearing, substituted “the sum of the exemption amount plus the zero bracket amount applicable to such an individual” for “$3,300” in subpar. (A)(i) and for“$4,400” in subpar. (A)(ii), substituted “the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return” for “$5,400” in subpar. (A)(iii), and added subpar. (D).
+1981—Subsec. (a)(1). Pub. L. 97–34, §104(d)(1)(D), substituted “the exemption amount” for “$1,000”, wherever appearing, substituted “the sum of the exemption amount plus the zero bracket amount applicable to such an individual” for “$3,300” in subpar. (A)(i) and for “$4,400” in subpar. (A)(ii), substituted “the sum of twice the exemption amount plus the zero bracket amount applicable to a joint return” for “$5,400” in subpar. (A)(iii), and added subpar. (D).
 
 Subsec. (c). Pub. L. 97–34, §111(b)(3), substituted “relating to citizens or residents of the United States living abroad” for “relating to income earned by employees in certain camps”.
 
@@ -320,11 +320,7 @@ Effective Date.—Subsection (a) shall apply to taxable years beginning after De
 
 #### Exemption From Filing Requirement for Prior Years Where Income of Political Party was $100 or Less
 
-Section 10(f) of Pub. L. 93–625 provided for exemption from filing requirement for a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1975, of any section 527(e)(1) organization where income of political organization was $100 or less.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 106, 882, 911, 6014, 6032, 6033, 6034A, 6037, 6062, 6072, 6513, 6652 of this title; title 38 section 1503.
+Section 10(f) of Pub. L. 93–625 provided for exemption from filing requirement for a taxable year beginning after Dec. 31, 1971, and before Jan. 1, 1975, of any section527(e)(1) organization where income of political organization was $100 or less.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

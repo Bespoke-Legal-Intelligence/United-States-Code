@@ -12,7 +12,7 @@ The Office shall be administered by a director who shall be appointed by the Sec
 
 #### (1) Appointments
 
-&emsp;The Director may appoint such employees as may be necessary to assist the Director in carrying out this section. Such employees shall include individuals who have professional expertise in matters related to environmental quality, including (but not limited to) agricultural production, water quality, wetland, wildlife conservation, soil conservation, and agricultural chemical usage.
+&emsp;The Director may appoint such employees as may be necessary to assist the Director in carrying out this section. Such employees shall include individuals who have professional expertise in matters related to environmentalquality, including (but not limited to) agricultural production, water quality, wetland, wildlife conservation, soil conservation, and agricultural chemical usage.
 
 #### (2) Liaisons
 

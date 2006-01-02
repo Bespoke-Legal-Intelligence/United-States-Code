@@ -6,7 +6,7 @@ All operators of coal mining operations subject to the provisions of this chapte
 
 #### (b) Due date
 
-Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending June 30, 2005, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section.
+Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after August 3, 1977, and ending June 30, 2006, after which time the fee shall be established at a rate to continue to provide for the deposit referred to in subsection (h) of this section.
 
 #### (c) Submission of statement
 
@@ -78,7 +78,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (6) Any State may receive and retain, without regard to the 3-year limitation referred to in paragraph (1)(D), up to 10 percent of the total of the grants made annually to such State under paragraphs (1) and (5) if such amounts are deposited into either—
 
-&emsp;(A) a special trust fund established under State law pursuant to which such amounts\(together with all interest earned on such amounts) are expended by the State solely to achieve the priorities stated in section 1233(a) of this title after September 30, 1995, or
+&emsp;(A) a special trust fund established under State law pursuant to which such amounts (together with all interest earned on such amounts) are expended by the State solely to achieve the priorities stated in section 1233(a) of this title after September 30, 1995, or
 
 &emsp;(B) an acid mine drainage abatement and treatment fund established under State law as provided in paragraph (7).
 
@@ -130,13 +130,17 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (4) If, for any fiscal year, the amount transferred is more or less than the amount required to be transferred, the Secretary shall appropriately adjust the amount transferred for the next fiscal year.
 
-(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068.)
+(Pub. L. 95–87, title IV, §402, Aug. 3, 1977, 91 Stat. 457; Pub. L. 100–34, title I, §101, May 7, 1987, 101 Stat. 300; Pub. L. 101–508, title VI, §§6003, 6004, Nov. 5, 1990, 104 Stat. 1388–290, 1388–291; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172; Pub. L. 102–486, title XIX, §19143(b)(1), (2), (3)(B), title XXV, §2515, Oct. 24, 1992, 106 Stat. 3056, 3113; Pub. L. 108–447, div. E, title I, §135(a), Dec. 8, 2004, 118 Stat. 3068; Pub. L. 109–13, div. A, title VI, §6035, May 11, 2005, 119 Stat. 289; Pub. L. 109–54, title I, §129, Aug. 2, 2005, 119 Stat. 525.)
 
 #### Codification
 
 November 5, 1990, referred to in subsec. (g)(4)(B)(ii), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 101–508, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–54 substituted “June 30, 2006” for “September 30, 2005”.
+
+Pub. L. 109–13 substituted “September 30, 2005” for “June 30, 2005”.
 
 2004—Subsec. (b). Pub. L. 108–447 substituted “June 30, 2005” for “September 30, 2004”.
 

@@ -2,7 +2,7 @@
 
 (a) The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for damages for injury or loss of property caused by the negligent or wrongful act or omission of any person who is an attorney, paralegal, or other member of a legal staff within the Department of Defense (including the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32) or within the Coast Guard, in connection with providing legal services while acting within the scope of the person's duties or employment, is exclusive of any other civil action or proceeding by reason of the same subject matter against the person (or the estate of the person) whose act or omission gave rise to such action or proceeding.
 
-(b) The Attorney General shall defend any civil action or proceeding brought in any court against any person referred to in subsection (a) (or the estate of such person) for any such injury. Any person against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person (or an attested true copy thereof) to such person's immediate superior or to whomever was designated by the head of the agency concerned to receive such papers. Such person shall promptly furnish copies of the pleading and process therein—
+(b) The Attorney General shall defend any civil action or proceeding brought in any court against any person referred to in subsection (a) (or the estate of such person) for any such injury. Any person against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person (or anattested true copy thereof) to such person's immediate superior or to whomever was designated by the head of the agency concerned to receive such papers. Such person shall promptly furnish copies of the pleading and process therein—
 
 &emsp;(1) to the United States attorney for the district embracing the place wherein the action or proceeding is brought;
 
@@ -43,8 +43,4 @@ Section 1356(b) of Pub. L. 99–661 provided that: “Section 1054 of title 10, 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1588 of this title.
 

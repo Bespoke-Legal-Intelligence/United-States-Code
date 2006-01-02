@@ -76,7 +76,7 @@ Contracting out.—Any collective bargaining agreement entered into between Amtr
 
 &emsp;“(2)
 
-Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsection is binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
+Enforceability of amendment.—The amendment to any such collective bargaining agreement deemed to be made by paragraph (1) of this subsectionis binding on all parties to the agreement and has the same effect as if arrived at by agreement of the parties under the Railway Labor Act \[45 U.S.C. 151 et seq.\].
 
 “(c)
 

@@ -50,5 +50,5 @@ Subsec. (c)(3). Pub. L. 107–217, §3(b)(1)(D), substituted “section 11103 of
 
 #### Effective Date
 
-Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: “Section 2223 of title 10,United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title III, §331(b), Oct. 17, 1998, 112 Stat. 1968, provided that: “Section 2223 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
 

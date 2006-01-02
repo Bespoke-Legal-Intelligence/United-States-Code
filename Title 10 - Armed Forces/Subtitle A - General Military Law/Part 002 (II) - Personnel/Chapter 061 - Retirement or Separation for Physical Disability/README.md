@@ -8,6 +8,7 @@
 | [1204\.](%C2%A7%2001204%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20retirement.md) | Members on active duty for 30 days or less or on inactive-duty training: retirement. |
 | [1205\.](%C2%A7%2001205%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20temporary%20disability%20retired%20list.md) | Members on active duty for 30 days or less: temporary disability retired list. |
 | [1206\.](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20separation.md) | Members on active duty for 30 days or less or on inactive-duty training: separation. |
+| [1206a.](%C2%A7%2001206a%20-%20Reserve%20component%20members%20unable%20to%20perform%20duties%20when%20ordered%20to%20active%20duty%20disability%20system%20processing.md) | Reserve component members unable to perform duties when ordered to active duty: disability system processing. |
 | [1207\.](%C2%A7%2001207%20-%20Disability%20from%20intentional%20misconduct%20or%20willful%20neglect%20separation.md) | Disability from intentional misconduct or willful neglect: separation. |
 | [1207a.](%C2%A7%2001207a%20-%20Members%20with%20over%20eight%20years%20of%20active%20service%20eligibility%20for%20disability%20retirement%20for%20pre-existing%20conditions.md) | Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions. |
 | [1208\.](%C2%A7%2001208%20-%20Computation%20of%20service.md) | Computation of service. |
@@ -19,7 +20,7 @@
 | [1214\.](%C2%A7%2001214%20-%20Right%20to%20full%20and%20fair%20hearing.md) | Right to full and fair hearing. |
 | [1215\.](%C2%A7%2001215%20-%20Members%20other%20than%20Regulars%20applicability%20of%20laws.md) | Members other than Regulars: applicability of laws. |
 | [1216\.](%C2%A7%2001216%20-%20Secretaries%20powers%2C%20functions%2C%20and%20duties.md) | Secretaries: powers, functions, and duties. |
-| [1217\.](%C2%A7%2001217%20-%20Cadets%2C%20midshipmen%2C%20and%20aviation%20cadets%20chapter%20does%20not%20apply%20to.md) | Cadets, midshipmen, and aviation cadets: chapter does not apply to. |
+| [1217\.](%C2%A7%2001217%20-%20Academy%20cadets%20and%20midshipmen%20applicability%20of%20chapter.md) | Academy cadets and midshipmen: applicability of chapter. |
 | [1218\.](%C2%A7%2001218%20-%20Discharge%20or%20release%20from%20active%20duty%20claims%20for%20compensation%2C%20pension%2C%20or%20hospitalization.md) | Discharge or release from active duty: claims for compensation, pension, or hospitalization. |
 | [1219\.](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md) | Statement of origin of disease or injury: limitations. |
 | \[1220. | Repealed.\] |
@@ -28,6 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §§521(b), 555(b)(2), Oct. 28, 2004, 118 Stat. 1888, 1914, added item 1206a and substituted “Academy cadets and midshipmen: applicability of chapter” for “Cadets, midshipmen, and aviation cadets: chapter does not apply to” in item 1217.
 
 1999—Pub. L. 106–65, div. A, title VI, §653(a)(2), Oct. 5, 1999, 113 Stat. 666, added item 1207a.
 
@@ -41,10 +44,6 @@
 
 1957—Pub. L. 85–56, title XXII, §2201(31)(B), June 17, 1957, 71 Stat. 161, eff. Jan. 1, 1958, added items 1218 to 1220.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 1142, 1370, 1402, 1402a, 1408, 1409, 1413a, 1414, 1431, 1448, 1452, 1458, 1471, 1481 of this title; title 14 section 294; title 20 section 6673; title 33 section 3071; title 37 sections 404, 406; title 42 sections 212, 213a.
-
 
 ---
 
@@ -56,6 +55,7 @@ This chapter is referred to in sections 1142, 1370, 1402, 1402a, 1408, 1409, 141
 - [&sect; 01204 - Members on active duty for 30 days or less or on inactive-duty training retirement](%C2%A7%2001204%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20retirement.md)
 - [&sect; 01205 - Members on active duty for 30 days or less temporary disability retired list](%C2%A7%2001205%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20temporary%20disability%20retired%20list.md)
 - [&sect; 01206 - Members on active duty for 30 days or less or on inactive-duty training separation](%C2%A7%2001206%20-%20Members%20on%20active%20duty%20for%2030%20days%20or%20less%20or%20on%20inactive-duty%20training%20separation.md)
+- [&sect; 01206a - Reserve component members unable to perform duties when ordered to active duty disability system processing](%C2%A7%2001206a%20-%20Reserve%20component%20members%20unable%20to%20perform%20duties%20when%20ordered%20to%20active%20duty%20disability%20system%20processing.md)
 - [&sect; 01207 - Disability from intentional misconduct or willful neglect separation](%C2%A7%2001207%20-%20Disability%20from%20intentional%20misconduct%20or%20willful%20neglect%20separation.md)
 - [&sect; 01207a - Members with over eight years of active service eligibility for disability retirement for pre-existing conditions](%C2%A7%2001207a%20-%20Members%20with%20over%20eight%20years%20of%20active%20service%20eligibility%20for%20disability%20retirement%20for%20pre-existing%20conditions.md)
 - [&sect; 01208 - Computation of service](%C2%A7%2001208%20-%20Computation%20of%20service.md)
@@ -67,7 +67,7 @@ This chapter is referred to in sections 1142, 1370, 1402, 1402a, 1408, 1409, 141
 - [&sect; 01214 - Right to full and fair hearing](%C2%A7%2001214%20-%20Right%20to%20full%20and%20fair%20hearing.md)
 - [&sect; 01215 - Members other than Regulars applicability of laws](%C2%A7%2001215%20-%20Members%20other%20than%20Regulars%20applicability%20of%20laws.md)
 - [&sect; 01216 - Secretaries powers, functions, and duties](%C2%A7%2001216%20-%20Secretaries%20powers%2C%20functions%2C%20and%20duties.md)
-- [&sect; 01217 - Cadets, midshipmen, and aviation cadets chapter does not apply to](%C2%A7%2001217%20-%20Cadets%2C%20midshipmen%2C%20and%20aviation%20cadets%20chapter%20does%20not%20apply%20to.md)
+- [&sect; 01217 - Academy cadets and midshipmen applicability of chapter](%C2%A7%2001217%20-%20Academy%20cadets%20and%20midshipmen%20applicability%20of%20chapter.md)
 - [&sect; 01218 - Discharge or release from active duty claims for compensation, pension, or hospitalization](%C2%A7%2001218%20-%20Discharge%20or%20release%20from%20active%20duty%20claims%20for%20compensation%2C%20pension%2C%20or%20hospitalization.md)
 - [&sect; 01219 - Statement of origin of disease or injury limitations](%C2%A7%2001219%20-%20Statement%20of%20origin%20of%20disease%20or%20injury%20limitations.md)
 - [&sect; 01220 - Repealed. Pub. L. 87&#8211;651, title I, &sect;107(d), Sept. 7, 1962, 76 Stat. 509](%C2%A7%2001220%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93651%2C%20title%20I%2C%20%C2%A7107%28d%29%2C%20Sept.%207%2C%201962%2C%2076%20Stat.%20509.md)

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Base period
 
-&emsp;The term “base period’<sup>1</sup> means the one-year period ending the June 30 before the beginning of a fiscal year.
+&emsp;The term “base period’ <sup>1</sup> means the one-year period ending the June 30 before the beginning of a fiscal year.
 
 #### (2) Gross domestic volume
 
@@ -14,7 +14,7 @@ In this section:
 
 &emsp;&emsp;(A) removed (as defined by section 5702 of title 26); and
 
-&emsp;&emsp;(B) not exempt from tax under chapter 52 of title 26 at the time of their removal under that chapter or the Harmonized Tariff Schedule of the United States.
+&emsp;&emsp;(B) not exempt from tax under chapter 52 of title 26 at the time of their removal underthat chapter or the Harmonized Tariff Schedule of the United States.
 
 #### (3) Market share
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (B) Base period quarter
 
-&emsp;&emsp;The assessment for a calendar year quarter shall correspond to the base period quarter that ended at the end of the preceding calendar year quarter.
+&emsp;&emsp;The assessment for a calendar year quarter shall correspond to the base period quarterthat ended at the end of the preceding calendar year quarter.
 
 #### (e) Allocation of assessment within each class of tobacco product
 
@@ -146,7 +146,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 &emsp;&emsp;(A) the removal of tobacco products into domestic commerce (as defined by section 5702 of title 26); and
 
-&emsp;&emsp;(B) the payment of the taxes imposed under charter <sup>2</sup> 52 of title 26, including AFT Form 5000.24 and United States CustomsForm 7501 under currently applicable regulations.
+&emsp;&emsp;(B) the payment of the taxes imposed under charter <sup>2</sup> 52 of title 26, including AFT Form 5000.24 and United States Customs Form 7501 under currently applicable regulations.
 
 #### (3) Effect of failure to provide required information
 

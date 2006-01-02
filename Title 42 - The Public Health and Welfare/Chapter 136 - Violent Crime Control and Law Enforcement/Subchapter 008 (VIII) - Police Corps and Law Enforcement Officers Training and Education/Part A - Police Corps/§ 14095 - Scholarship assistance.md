@@ -18,7 +18,7 @@
 
 (4)(A) The Director shall make scholarship payments under this section directly to the institution of higher education that the student is attending.
 
-(B) Each institution of higher education receiving a payment on behalf of a participant pursuant to subparagraph (A) shall remit to such student any funds in excess of the costs oftuition, fees, and room and board payable to the institution.
+(B) Each institution of higher education receiving a payment on behalf of a participant pursuant to subparagraph (A) shall remit to such student any funds in excess of the costs of tuition, fees, and room and board payable to the institution.
 
 #### (b) Reimbursement authorized
 
@@ -56,7 +56,7 @@ Scholarships awarded under this subsection <sup>1</sup> shall only be used to a
 
 &emsp;&emsp;(II) Police Corps training and certification by the Director that the participant has met such performance standards as may be established pursuant to section 14097 of this title; and
 
-&emsp;(iii) repay all of the scholarship or payment received plus interest at the rate of 10 percent if the conditions of clauses (i) and (ii) are not complied with.
+&emsp;(iii) repay all of the scholarship or payment received plus interest at the rate of 10 percentif the conditions of clauses (i) and (ii) are not complied with.
 
 (2)(A) A recipient of a scholarship or payment under this section shall not be considered to be in violation of the agreement entered into pursuant to paragraph (1) if the recipient—
 

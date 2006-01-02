@@ -22,7 +22,7 @@ For purposes of this section, the term “hydrographic product” means any publ
 
 #### (c) Limitation on liability
 
-The Government of the United States shall not be liable for any negligence by a person that produces hydrographic products certified under this section.
+The Government of the United States shall not be liable for any negligence by a person thatproduces hydrographic products certified under this section.
 
 #### (d) Hydrographic Services Account
 

@@ -22,7 +22,7 @@
 
 (2) An officer who holds the regular grade of brigadier general, major general, rear admiral (lower half), or rear admiral who is recommended for early retirement under this section and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approved the report of the board which recommended the officer for early retirement.
 
-(3) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer orfor other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
+(3) The Secretary concerned may defer for not more than 90 days the retirement of an officer otherwise approved for early retirement under this section or section 638a of this title in order to prevent a personal hardship to the officer or for other humanitarian reasons. Any such deferral shall be made on a case-by-case basis considering the circumstances of the case of the particular officer concerned. The authority of the Secretary to grant such a deferral may not be delegated.
 
 (c) So long as an officer in a grade below brigadier general or rear admiral (lower half) holds the same grade, he may not be considered for early retirement under this section more than once in any five-year period.
 
@@ -52,7 +52,7 @@ Subsec. (b)(1). Pub. L. 101–510, §521(b)(2)(B), inserted “or section 638a o
 
 1988—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A regular officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps—
 
-&emsp;“(1) who holds the regular grade of lieutenant colonel or commander and has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times and whose name is not on a list of officers recommended for promotion;
+&emsp;“(1) who holds the regular grade of lieutenant colonel or commander and has failed of selection for promotion to the grade of colonel or, in the case of an officer of the Navy, captain two or more times andwhose name is not on a list of officers recommended for promotion;
 
 &emsp;“(2) who holds the regular grade of colonel or, in the case of an officer of the Navy, captain and has served at least four years of active duty in that grade and whose name is not on a list of officers recommended for promotion;
 
@@ -73,8 +73,4 @@ Subsecs. (b), (c). Pub. L. 97–86 substituted “commodore” for “commodore 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 611, 638a, 688, 1558 of this title.
 

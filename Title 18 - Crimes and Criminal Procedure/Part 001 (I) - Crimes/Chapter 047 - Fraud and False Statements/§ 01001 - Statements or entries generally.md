@@ -32,7 +32,7 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 Words “or any corporation in which the United States of America is a stockholder” in said section 80 were omitted as unnecessary in view of definition of “agency” in section 6 of this title.
 
-In addition to minor changes of phraseology, the maximum term of imprisonment was changed from 10to 5 years to be consistent with comparable sections. (See reviser's note under section 287 of this title.)
+In addition to minor changes of phraseology, the maximum term of imprisonment was changed from 10 to 5 years to be consistent with comparable sections. (See reviser's note under section 287 of this title.)
 
 #### Amendments
 

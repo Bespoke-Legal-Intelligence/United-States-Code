@@ -38,7 +38,7 @@ For purposes of this section, the term “special IRP tax” means a tax imposed
 
 &emsp;&emsp;<b>For provisions relating to penalties for failure to file a return required by this section, see section 6652(e).</b>
 
-&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect</b><b>to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 945; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(k)(1), Nov. 6, 1978, 92 Stat. 2809; Pub. L. 98–369, div. A, title IV, §491(d)(48), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), Oct. 22, 1986, 100 Stat. 2740.)
 
@@ -75,10 +75,6 @@ Section 157(k)(3) of Pub. L. 95–600 provided that: “The amendments made by p
 #### Effective Date
 
 Section effective Sept. 2, 1974, except that the requirements of subsec. (a) shall apply only with respect to plan years beginning after Sept. 2, 1974, see section 1034 of Pub. L. 93–406, set out as a note under section 6057 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6033, 6104, 6652 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

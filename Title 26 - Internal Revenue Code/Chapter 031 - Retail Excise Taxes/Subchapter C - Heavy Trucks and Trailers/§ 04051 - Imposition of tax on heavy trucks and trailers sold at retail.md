@@ -18,13 +18,21 @@
 
 #### (2) Exclusion for trucks weighing 33,000 pounds or less
 
-&emsp;The tax imposed by paragraph (1) shall not apply to automobile truck chassis and automobile truck bodies, suitable for use with a vehicle which has a gross vehicle weight of 33,000 pounds or less (as determined under regulations prescribed by the Secretary).
+&emsp;The tax imposed by paragraph (1) shall not apply to automobile truck chassis and automobile truck bodies, suitable for use with avehicle which has a gross vehicle weight of 33,000 pounds or less (as determined under regulations prescribed by the Secretary).
 
 #### (3) Exclusion for trailers weighing 26,000 pounds or less
 
 &emsp;The tax imposed by paragraph (1) shall not apply to truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer which has a gross vehicle weight of 26,000 pounds or less (as determined under regulations prescribed by the Secretary.<sup>1</sup>
 
-#### (4) Sale of trucks, etc., treated as sale of chassis and body
+#### (4) Exclusion for tractors weighing 19,500 pounds or less
+
+&emsp;The tax imposed by paragraph (1) shall not apply to tractors of the kind chiefly used for highway transportation in combination with a trailer or semitrailer if—
+
+&emsp;&emsp;(A) such tractor has a gross vehicle weight of 19,500 pounds or less (as determined by the Secretary), and
+
+&emsp;&emsp;(B) such tractor, in combination with a trailer or semitrailer, has a gross combined weight of 33,000 pounds or less (as determined by the Secretary).
+
+#### (5) Sale of trucks, etc., treated as sale of chassis and body
 
 &emsp;For purposes of this subsection, a sale of an automobile truck or truck trailer or semitrailer shall be considered to be a sale of a chassis and of a body described in paragraph (1).
 
@@ -56,7 +64,7 @@ Under regulations prescribed by the Secretary—
 
 #### (c) Termination
 
-On and after October 1, 2005, the taxes imposed by this section shall not apply.
+On and after October 1, 2011, the taxes imposed by this section shall not apply.
 
 #### (d) Credit against tax for tire tax
 
@@ -68,13 +76,17 @@ If—
 
 > there shall be allowed as a credit against the tax imposed by this subchapter an amount equal to the tax (if any) imposed by section 4071 on such tires.
 
-(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499.)
+(Added Pub. L. 97–424, title V, §512(b)(1), Jan. 6, 1983, 96 Stat. 2174; amended Pub. L. 98–369, div. A, title VII, §734(g), title IX, §921, July 18, 1984, 98 Stat. 980, 1009; Pub. L. 99–514, title XVIII, §§1877(c), 1899A(47), Oct. 22, 1986, 100 Stat. 2902, 2961; Pub. L. 100–17, title V, §502(a)(2), Apr. 2, 1987, 101 Stat. 256; Pub. L. 101–508, title XI, §11211(c)(1), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(1), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–34, title XIV, §§1401(a), 1402(a), 1432(a), Aug. 5, 1997, 111 Stat. 1045, 1046, 1050; Pub. L. 105–178, title IX, §9002(a)(1)(D), June 9, 1998, 112 Stat. 499; Pub. L. 109–59, title XI, §§11101(a)(1)(D), 11112(a), Aug. 10, 2005, 119 Stat. 1943, 1946.)
 
 #### Prior Provisions
 
 A prior section 4051, act Aug. 16, 1954, ch. 736, 68A Stat. 479, defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+
+2005—Subsec. (a)(4), (5). Pub. L. 109–59, §11112(a), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (c). Pub. L. 109–59, §11101(a)(1)(D), substituted “2011” for “2005”.
 
 1998—Subsec. (c). Pub. L. 105–178 substituted “2005” for “1999”.
 
@@ -96,9 +108,13 @@ Pub. L. 105–34, §1401(a), amended heading and text of subsec. (e) generally. 
 
 Subsec. (d)(3). Pub. L. 99–514, §1877(c), inserted at end “No tax shall be imposed by reason of this paragraph on any use or resale which occurs more than 6 years after the date of the first retail sale.”
 
-1984—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
+1984—Subsec. (b)(3). Pub. L. 98–369, §734(g), substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition tothe owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
 
 Subsecs. (d), (e). Pub. L. 98–369, §921, added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11112(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendments made by this section \[amending this section\] shall apply to sales after September 30, 2005.”
 
 #### Effective Date of 1997 Amendment
 
@@ -121,10 +137,6 @@ Section 512(b)(3) of Pub. L. 97–424 provided that: “The amendments made by t
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4052, 4053, 4221, 4293, 6416, 9503 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 

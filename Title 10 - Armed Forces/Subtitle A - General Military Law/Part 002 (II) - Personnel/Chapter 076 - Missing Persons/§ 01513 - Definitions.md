@@ -72,7 +72,3 @@ Par. (8). Pub. L. 105–85, §599(b)(2), added par. (8).
 
 Par. (8). Pub. L. 104–201, §578(b)(3), struck out par. (8) which read as follows: “The term ‘theater component commander’ means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 section 404<i>l.</i>
-

@@ -30,7 +30,7 @@ Nothing in this section shall be construed to—
 
 As used in this section, the term “appropriate committees of Congress” means the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate and the Committee on Foreign Relations and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252; amended Pub. L. 107–306, title VIII, §811(b)(1)(C), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–177, title III, §§361(b), 377(a), Dec. 13, 2003, 117 Stat. 2625, 2630; Pub. L. 108–458, title I,§§1071(a)(1)(K), (L), 1072(a)(4), Dec. 17, 2004, 118 Stat. 3689, 3692.)
+(July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252; amended Pub. L. 107–306, title VIII, §811(b)(1)(C), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–177, title III, §§361(b), 377(a), Dec. 13, 2003, 117 Stat. 2625, 2630; Pub. L. 108–458, title I, §§1071(a)(1)(K), (L), 1072(a)(4), Dec. 17, 2004, 118 Stat. 3689, 3692.)
 
 #### Codification
 
@@ -55,6 +55,8 @@ Subsec. (d)(1). Pub. L. 108–177, §377(a), substituted “section 403–3(c)(7
 2002—Subsec. (b)(3). Pub. L. 107–306 added par. (3).
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

@@ -6,7 +6,7 @@ The people of the Virgin Islands shall have the rights of initiative and recall 
 
 #### (b) Initiative
 
-(1) An initiative may enact, amend, or repeal any law, except that an initiative shall not beused to repeal a law declared by the legislature at the time of passage to be an emergency law necessary for the preservation of the public health, safety, or peace.
+(1) An initiative may enact, amend, or repeal any law, except that an initiative shall not be used to repeal a law declared by the legislature at the time of passage to be an emergency law necessary for the preservation of the public health, safety, or peace.
 
 (2) An initiative that proposes a reduction of taxes shall also provide for an equivalent reduction of expenditures or an equivalent increase in revenues from other sources.
 
@@ -28,7 +28,7 @@ The people of the Virgin Islands shall have the rights of initiative and recall 
 
 (2) A recall election may be initiated by a two-thirds vote of the members of the legislature or by a petition under this subsection.
 
-(3) Prior to circulation a recall petition which identifies by name and office the official being recalled and which states the grounds for recall shall be submitted to the Supervisor of Elections. The sponsors of the recall petition shall be allowed a period of 60 days after such submission for filing with the Supervisor of Elections a list of signatures equal in number to at least 50 percent of the whole number of votes cast for that office in the last general election at which that office was filled. The Supervisor of Elections shall have 15 days in which to determine whether the minimum number of valid signatures are contained in the recall petition.
+(3) Prior to circulation a recall petition which identifies by name and office the official beingrecalled and which states the grounds for recall shall be submitted to the Supervisor of Elections. The sponsors of the recall petition shall be allowed a period of 60 days after such submission for filing with the Supervisor of Elections a list of signatures equal in number to at least 50 percent of the whole number of votes cast for that office in the last general election at which that office was filled. The Supervisor of Elections shall have 15 days in which to determine whether the minimum number of valid signatures are contained in the recall petition.
 
 (4) A special recall election shall be held with respect to an elected public official not earlier than 30 days after a vote of the legislature under paragraph (2) or a determination of the board of elections under paragraph (3), as the case may be, and not later than 60 days after such vote or determination.
 
@@ -58,5 +58,5 @@ As used in this section, the term—
 
 #### Effective Date of 1968 Amendment
 
-Amendment of provisions of section necessary to authorize the holding of an election for Governor andLieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
+Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
 

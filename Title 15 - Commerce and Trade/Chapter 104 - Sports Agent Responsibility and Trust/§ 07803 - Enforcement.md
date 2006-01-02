@@ -6,7 +6,7 @@ A violation of this chapter shall be treated as a violation of a rule defining a
 
 #### (b) Actions by the Commission
 
-The Commission shall enforce this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this chapter.
+The Commission shall enforce this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41et seq.) were incorporated into and made a part of this chapter.
 
 (Pub. L. 108–304, §4, Sept. 24, 2004, 118 Stat. 1127.)
 

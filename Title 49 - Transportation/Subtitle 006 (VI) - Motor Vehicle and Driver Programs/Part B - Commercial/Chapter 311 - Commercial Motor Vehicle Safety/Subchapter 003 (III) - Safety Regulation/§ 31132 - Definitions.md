@@ -32,17 +32,19 @@ In this subchapter—
 
 &emsp;(5) “intrastate commerce” means trade, traffic, or transportation in a State that is not interstate commerce.
 
-&emsp;(6) “regulation” includes a standard or order.
+&emsp;(6) “medical examiner” means an individual licensed, certified, or registered in accordance with regulations issued by the Federal Motor Carrier Safety Administration as a medical examiner.
 
-&emsp;(7) “State” means a State of the United States, the District of Columbia, and, in sections 31136 and 31140–31142 <sup>1</sup> of this title, a political subdivision of a State.
+&emsp;(7) “regulation” includes a standard or order.
 
-&emsp;(8) “State law” includes a law enacted by a political subdivision of a State.
+&emsp;(8) “State” means a State of the United States, the District of Columbia, and, in sections 31136 and 31140–31142 <sup>1</sup> of this title, a political subdivision of a State.
 
-&emsp;(9) “State regulation” includes a regulation prescribed by a political subdivision of a State.
+&emsp;(9) “State law” includes a law enacted by a political subdivision of a State.
 
-&emsp;(10) “United States” means the States of the United States and the District of Columbia.
+&emsp;(10) “State regulation” includes a regulation prescribed by a political subdivision of a State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1000; Pub. L. 104–88, title I, §104(f), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4008(a), June 9, 1998, 112 Stat. 404.)
+&emsp;(11) “United States” means the States of the United States and the District of Columbia.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1000; Pub. L. 104–88, title I, §104(f), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4008(a), June 9, 1998, 112 Stat. 404; Pub. L. 109–59, title IV, §4116(c), Aug. 10, 2005, 119 Stat. 1728.)
 
 Historical and Revision Notes
 
@@ -64,13 +66,15 @@ The text of 49 App.:2503(6) is omitted as unnecessary because of 1:1. The text o
 
 #### References in Text
 
-Section 31140 of this title, referred to in par. (7), was repealed by Pub. L. 105–178, title IV, §4008(d), June 9, 1998, 112 Stat. 404.
+Section 31140 of this title, referred to in par. (8), was repealed by Pub. L. 105–178, title IV, §4008(d), June 9, 1998, 112 Stat. 404.
 
 #### Amendments
 
+2005—Pars. (6) to (11). Pub. L. 109–59 added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
+
 1998—Par. (1)(A). Pub. L. 105–178, §4008(a)(1), inserted “or gross vehicle weight” after “rating” and “, whichever is greater” after “pounds”.
 
-Par. (1)(B). Pub. L. 105–178, §4008(a)(2), which directed substitution of “more than 8 passengers (including the driver) for compensation;” for “passengers” and all that follows through semicolon at end, was executed by making the substitution for “passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;” to reflect the probable intent of Congress.
+Par. (1)(B). Pub. L. 105–178, §4008(a)(2), which directed substitution of “more than 8 passengers (including thedriver) for compensation;” for “passengers” and all that follows through semicolon at end, was executed by making the substitution for “passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;” to reflect the probable intent of Congress.
 
 1995—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “is designed to transport more than 15 passengers including the driver; or”.
 

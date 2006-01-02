@@ -86,7 +86,7 @@ Evidence.—The court, in issuing a restraining order under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) may rely on information set forth in an affidavit describing the nature of the proceeding or investigation underway in the foreign country, and setting forth a reasonable basis to believe that the property to be restrained will be named in a judgment of forfeiture at the conclusion of such proceeding; or
 
-&emsp;&emsp;&emsp;(ii) may register and enforce a restraining order that has been issued by a courtof competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
+&emsp;&emsp;&emsp;(ii) may register and enforce a restraining order that has been issued by a court of competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
 
 &emsp;&emsp;(C)
 
@@ -115,10 +115,6 @@ Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that 
 Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
 
 Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Effective Date
 

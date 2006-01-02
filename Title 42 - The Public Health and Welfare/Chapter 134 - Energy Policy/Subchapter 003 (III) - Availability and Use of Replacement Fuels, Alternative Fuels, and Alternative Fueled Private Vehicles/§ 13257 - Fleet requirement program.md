@@ -52,7 +52,7 @@
 
 &emsp;(2) The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
 
-&emsp;(3) If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) of this section shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary's findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection that such program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e) of this section.
+&emsp;(3) If the Secretary does not determine that such program is necessary under this subsection, the provisions of subsection (e) of this section shall apply to the consideration in the future of any fleet requirement program. The record of this rulemaking, including the Secretary's findings, shall be incorporated into a rulemaking under that subsection. If the Secretary determines under this subsection thatsuch program is necessary, the Secretary shall not initiate the later rulemaking under subsection (e) of this section.
 
 #### (c) Advance notice of proposed rulemaking
 
@@ -110,7 +110,7 @@ If the Secretary determines, based on findings under subsection (b) or (e) of th
 
 (3) Nothing in this subchapter shall be construed as requiring any fleet to acquire alternative fueled vehicles or alternative fuels that do not meet the normal business requirements and practices and needs of that fleet.
 
-(4) A vehicle operating only on gasoline that complies with applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] shall not be considered an alternative fueled vehicle under subsection (b) of this section or this subsection, except that the Secretary, as part of the rule under subsection (b) of this section or this subsection, may determine that such vehicle should be treated as an alternative fueled vehicle for purposes of this section, for fleets subject to part C of title II of the Clean Air Act \[42 U.S.C. 7581 et seq.\], taking into consideration the impact on energy security and the goals stated in section 13252(a) of this title.
+(4) A vehicle operating only on gasoline that complies with applicable requirements of the Clean Air Act \[42 U.S.C. 7401 et seq.\] shall not be considered an alternative fueled vehicle under subsection (b) of this section or this subsection, except that the Secretary, as part of the rule under subsection (b) of this section or this subsection, may determine that such vehicle should be treated as an alternative fueled vehicle for purposes of this section, for fleets subject to part C of title II of the Clean Air Act \[42 U.S.C.7581 et seq.\], taking into consideration the impact on energy security and the goals stated in section 13252(a) of this title.
 
 #### (h) Extension of deadlines
 
@@ -142,7 +142,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 #### (<i>l</i>) Consideration of factors
 
-In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (includingusers of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
+In carrying out this section, the Secretary shall take into consideration energy security, costs, safety, lead time requirements, vehicle miles traveled annually, effect on greenhouse gases, technological feasibility, energy requirements, economic impacts, including impacts on workers and the impact on consumers (including users of the alternative fuel for purposes such as for residences, agriculture, process use, and non-fuel purposes) and fleets, the availability of alternative fuels and alternative fueled vehicles, and other relevant factors.
 
 #### (m) Consultation and participation of other Federal agencies
 

@@ -1,7 +1,5 @@
 ### <b>\[CHAPTER 359—REPEALED\]</b>
 
-<i><sup>1</sup></i><i> Another section 3755 is set out preceding this section.</i>
-
 
 ---
 

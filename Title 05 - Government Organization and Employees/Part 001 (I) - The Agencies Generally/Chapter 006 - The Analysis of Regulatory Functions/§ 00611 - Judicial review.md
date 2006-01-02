@@ -1,6 +1,6 @@
 ### §611. Judicial review
 
-(a)(1) For any rule subject to this chapter, a small entity that is adversely affected or aggrieved by final agency action is entitled to judicial review of agency compliance with the requirements of sections 601, 604, 605(b), 608(b), and610 in accordance with chapter 7. Agency compliance with sections 607 and 609(a) shall be judicially reviewable in connection with judicial review of section 604.
+(a)(1) For any rule subject to this chapter, a small entity that is adversely affected or aggrieved by final agency action is entitled to judicial review of agency compliance with the requirements of sections 601, 604, 605(b), 608(b), and 610 in accordance with chapter 7. Agency compliance with sections 607 and 609(a) shall be judicially reviewable in connection with judicial review of section 604.
 
 (2) Each court having jurisdiction to review such rule for compliance with section 553, or under any other provision of law, shall have jurisdiction to review any claims of noncompliance with sections 601, 604, 605(b), 608(b), and 610 in accordance with chapter 7. Agency compliance with sections 607 and 609(a) shall be judicially reviewable in connection with judicial review of section 604.
 

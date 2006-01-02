@@ -2,7 +2,7 @@
 
 A motor carrier, motor carrier of migrant workers, or motor private carrier not obeying a subpena or requirement of the Secretary of Transportation under this chapter to appear and testify or produce records shall be fined at least $100 but not more than $5,000, imprisoned for not more than one year, or both.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2437.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2437.)
 
 Historical and Revision Notes
 

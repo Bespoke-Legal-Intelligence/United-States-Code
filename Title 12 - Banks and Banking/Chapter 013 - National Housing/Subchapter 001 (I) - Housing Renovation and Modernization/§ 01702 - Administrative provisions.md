@@ -22,7 +22,7 @@ The powers conferred by this chapter shall be exercised by the Secretary of Hous
 
 1951—Act Sept. 1, 1951, inserted references to subchapter X of this chapter.
 
-1950—Act Apr. 20, 1950, made technical amendments to section to reflect change in title of Administrator toCommissioner and to omit provisions relating to tenure and compensation of Commissioner.
+1950—Act Apr. 20, 1950, made technical amendments to section to reflect change in title of Administrator to Commissioner and to omit provisions relating to tenure and compensation of Commissioner.
 
 1949—Joint Res. Oct. 25, 1949, inserted proviso at end of fourth sentence.
 
@@ -48,7 +48,7 @@ Act Aug. 10, 1948, ch. 832, title V, §501(a), 62 Stat. 1283, formerly cited as 
 
 Functions, powers, and duties of Federal Housing Administration and Housing and Home Finance Agency transferred to Secretary of Housing and Urban Development who was authorized to delegate such functions, powers, and duties to such officers and employees of Department of Housing and Urban Development as Secretary may designate, see sections 3534 and 3535 of Title 42, The Public Health and Welfare.
 
-Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5, Government Organization and Employees, abolished office of Federal Housing Administrator and transferred functions to Federal Housing Commissioner. It also consolidated Federal Housing Administration with other agencies into Housing and Home Finance Agency and transferred functions of Federal Loan Administrator with respect to Federal Housing Administration and its functions to Housing and Home Finance Administrator. Federal Housing Administration continued as a constituent agency within Housing and Home Finance Agency. For provisions concerning appointment and compensation of Federal Housing Commissioner, see section 3 of Reorganization Plan.
+Reorg. Plan No. 3 of 1947, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954, set out in the Appendix to Title 5,Government Organization and Employees, abolished office of Federal Housing Administrator and transferred functions to Federal Housing Commissioner. It also consolidated Federal Housing Administration with other agencies into Housing and Home Finance Agency and transferred functions of Federal Loan Administrator with respect to Federal Housing Administration and its functions to Housing and Home Finance Administrator. Federal Housing Administration continued as a constituent agency within Housing and Home Finance Agency. For provisions concerning appointment and compensation of Federal Housing Commissioner, see section 3 of Reorganization Plan.
 
 Functions, powers, and duties of National Housing Agency with respect to property, funds, and other assets which were formerly under administration of Farm Security Administration and were transferred to National Housing Agency by Ex. Ord. No. 9070, Feb. 24, 1942, 7 F.R. 1529, as amended, were abolished by section 2(a)(3) of act Aug. 14, 1946, ch. 964, 60 Stat. 1063, as amended, set out as a note under sections 1001 to 1005d of Title 7, Agriculture, except with respect of housing projects and such other properties and assets in process of liquidation.
 

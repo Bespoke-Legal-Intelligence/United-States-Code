@@ -18,7 +18,3 @@ For purposes of this section, the term “parent” includes an individual who i
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 24.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6201 of this title.
-

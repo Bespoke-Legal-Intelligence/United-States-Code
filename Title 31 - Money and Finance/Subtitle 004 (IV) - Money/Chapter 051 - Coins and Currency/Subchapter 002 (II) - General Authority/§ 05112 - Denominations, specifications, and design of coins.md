@@ -22,11 +22,13 @@
 
 &emsp;(10) A five dollar gold coin that is 16.5 millimeters in diameter, weighs 3.393 grams, and contains one-tenth troy ounce of fine gold.
 
+&emsp;(11) A $50 gold coin that is of an appropriate size and thickness, as determined by the Secretary, weighs 1 ounce, and contains 99.99 percent pure gold.
+
 (b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
-(d)(1) United States coins shall have the inscription “In God We Trust”. The obverse side of each coin shall have the inscription “Liberty”. The reverse side of each coin shall have the inscriptions “United States of America” and “E Pluribus Unum” and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
+(d)(1) United States coins shall have the inscription “In God We Trust”. The obverse side of each coin shall have the inscription “Liberty”.The reverse side of each coin shall have the inscriptions “United States of America” and “E Pluribus Unum” and a designation of the value of the coin. The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle. Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello. The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin. The coins have an inscription of the year of minting or issuance. However, to prevent or alleviate a shortage of a denomination, the Secretary may inscribe coins of the denomination with the year that was last inscribed on coins of the denomination.
 
 (2) The Secretary shall prepare the devices, models, hubs, and dies for coins, emblems, devices, inscriptions, and designs authorized under this chapter. The Secretary may, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, adopt and prepare new designs or models of emblems or devices that are authorized in the same way as when new coins or devices are authorized. The Secretary may change the design or die of a coin only once within 25 years of the first adoption of the design, model, hub, or die for that coin. The Secretary may procure services under section 3109 of title 5 in carrying out this paragraph.
 
@@ -232,7 +234,399 @@ Exception.—If the Secretary determines, based on independent, market-based res
 
 Designated recipient organization defined.—For purposes of this paragraph, the term “designated recipient organization” means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619.)
+(n)
+
+Redesign and Issuance of Circulating $1
+
+Coins Honoring Each of the Presidents of the United States.—
+
+&emsp;(1)
+
+Redesign beginning in 2007.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding subsection (d) and in accordance with the provisions of this subsection, $1 coins issued during the period beginning January 1, 2007, and ending upon the termination of the program under paragraph (8), shall—
+
+&emsp;&emsp;&emsp;(i) have designs on the obverse selected in accordance with paragraph (2)(B) which are emblematic of the Presidents of the United States; and
+
+&emsp;&emsp;&emsp;(ii) have a design on the reverse selected in accordance with paragraph (2)(A).
+
+&emsp;&emsp;(B)
+
+Continuity provisions.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Notwithstanding subparagraph (A), the Secretary shall continue to mint and issue $1 coins which bear any design in effect before the issuance of coins as required under this subsection (including the so-called “Sacagawea-design” $1 coins).
+
+&emsp;&emsp;&emsp;(ii)
+
+Circulation quantity.—Beginning January 1, 2007, and ending upon the termination of the program under paragraph (8), the Secretary annually shall mint and issue such “Sacagawea-design” $1 coins for circulation in quantities of no less than 1/3 of the total $1 coins minted and issued under this subsection.”.<sup>1</sup>
+
+&emsp;(2)
+
+Design requirements.—The $1 coins issued in accordance with paragraph (1)(A) shall meet the following design requirements:
+
+&emsp;&emsp;(A)
+
+Coin reverse.—The design on the reverse shall bear—
+
+&emsp;&emsp;&emsp;(i) a likeness of the Statue of Liberty extending to the rim of the coin and large enough to provide a dramatic representation of Liberty while not being large enough to create the impression of a “2-headed” coin;
+
+&emsp;&emsp;&emsp;(ii) the inscription “$1”; and
+
+&emsp;&emsp;&emsp;(iii) the inscription “United States of America”.
+
+&emsp;&emsp;(B)
+
+Coin obverse.—The design on the obverse shall contain—
+
+&emsp;&emsp;&emsp;(i) the name and likeness of a President of the United States; and
+
+&emsp;&emsp;&emsp;(ii) basic information about the President, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) the dates or years of the term of office of such President; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a number indicating the order of the period of service in which the President served.
+
+&emsp;&emsp;(C)
+
+Edge-incused inscriptions.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The inscription of the year of minting or issuance of the coin and the inscriptions “E Pluribus Unum” and “In God We Trust” shall be edge-incused into the coin.
+
+&emsp;&emsp;&emsp;(ii)
+
+Preservation of distinctive edge.—The edge-incusing of the inscriptions under clause (i) on coins issued under this subsection shall be done in a manner that preserves the distinctive edge of the coin so that the denomination of the coin is readily discernible, including by individuals who are blind or visually impaired.
+
+&emsp;&emsp;(D)
+
+Inscriptions of “liberty”.—Notwithstanding the second sentence of subsection (d)(1), because the use of a design bearing the likeness of the Statue of Liberty on the reverse of the coins issued under this subsection adequately conveys the concept of Liberty, the inscription of “Liberty” shall not appear on the coins.
+
+&emsp;&emsp;(E)
+
+Limitation in series to deceased presidents.—No coin issued under this subsection may bear the image of a living former or current President, or of any deceased former President during the 2-year period following the date of the death of that President.
+
+&emsp;(3)
+
+Issuance of coins commemorating presidents.—
+
+&emsp;&emsp;(A)
+
+Order of issuance.—The coins issued under this subsection commemorating Presidents of the United States shall be issued in the order of the period of service of eachPresident, beginning with President George Washington.
+
+&emsp;&emsp;(B)
+
+Treatment of period of service.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subject to clause (ii), only 1 coin design shall be issued for a period of service for any President, no matter how many consecutive terms of office the President served.
+
+&emsp;&emsp;&emsp;(ii)
+
+Nonconsecutive terms.—If a President has served during 2 or more nonconsecutive periods of service, a coin shall be issued under this subsection for each such nonconsecutive period of service.
+
+&emsp;(4)
+
+Issuance of coins commemorating 4 presidents during each year of the period.—
+
+&emsp;&emsp;(A)
+
+In general.—The designs for the $1 coins issued during each year of the period referred to in paragraph (1) shall be emblematic of 4 Presidents until each President has been so honored, subject to paragraph (2)(E).
+
+&emsp;&emsp;(B)
+
+Number of 4 circulating coin designs in each year.—The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of $1 coins that shall be issued with each of the designs selected for each year of the period referred to in paragraph (1).
+
+&emsp;(5)
+
+Legal tender.—The coins minted under this title shall be legal tender, as provided in section 5103.
+
+&emsp;(6)
+
+Treatment as numismatic items.—For purposes of section <sup>2</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+
+&emsp;(7)
+
+Issuance of numismatic coins.—The Secretary may mint and issue such number of $1 coins of each design selected under this subsection in uncirculated and proof qualities as the Secretary determines to be appropriate.
+
+&emsp;(8)
+
+Termination of program.—The issuance of coins under this subsection shall terminate when each President has been so honored, subject to paragraph (2)(E), and may not be resumed except by an Act of Congress.
+
+&emsp;(9)
+
+Reversion to preceding design.—Upon the termination of the issuance of coins under this subsection, the design of all $1 coins shall revert to the so-called “Sacagawea-design” $1 coins.
+
+(<i>o</i>)
+
+First Spouse Bullion Coin Program.—
+
+&emsp;(1)
+
+In general.—During the same period described in subsection (n), the Secretary shall issue bullion coins under this subsection that are emblematic of the spouse of each such President.
+
+&emsp;(2)
+
+Specifications.—The coins issued under this subsection shall—
+
+&emsp;&emsp;(A) have the same diameter as the $1 coins described in subsection (n);
+
+&emsp;&emsp;(B) weigh 0.5 ounce; and
+
+&emsp;&emsp;(C) contain 99.99 percent pure gold.
+
+&emsp;(3)
+
+Design requirements.—
+
+&emsp;&emsp;(A)
+
+Coin obverse.—The design on the obverse of each coin issued under this subsection shall contain—
+
+&emsp;&emsp;&emsp;(i) the name and likeness of a person who was a spouse of a President during the President's period of service;
+
+&emsp;&emsp;&emsp;(ii) an inscription of the years during which such person was the spouse of a President during the President's period of service; and
+
+&emsp;&emsp;&emsp;(iii) a number indicating the order of the period of service in which such President served.
+
+&emsp;&emsp;(B)
+
+Coin reverse.—The design on the reverse of each coin issued under this subsection shall bear—
+
+&emsp;&emsp;&emsp;(i) images emblematic of the life and work of the First Spouse whose image is borne on the obverse; and
+
+&emsp;&emsp;&emsp;(ii) the inscription “United States of America”.
+
+&emsp;&emsp;(C)
+
+Designated denomination.—Each coin issued under this subsection shall bear, on the reverse, an inscription of the nominal denomination of the coin which shall be “$10”.
+
+&emsp;&emsp;(D)
+
+Design in case of no first spouse.—In the case of any President who served without a spouse—
+
+&emsp;&emsp;&emsp;(i) the image on the obverse of the bullion coin corresponding to the $1 coin relating to such President shall be an image emblematic of the concept of “Liberty”—
+
+&emsp;&emsp;&emsp;&emsp;(I) as represented on a United States coin issued during the period of service of such President; or
+
+&emsp;&emsp;&emsp;&emsp;(II) as represented, in the case of President Chester Alan Arthur, by a design incorporating the name and likeness of Alice Paul, a leading strategist in the suffrage movement, who was instrumental in gaining women the right to vote upon the adoption of the 19th amendment and thus the ability to participate in the election of future Presidents, and who was born on January 11, 1885, during the term of President Arthur; and
+
+&emsp;&emsp;&emsp;(ii) the reverse of such bullion coin shall be of a design representative of themes of such President, except that in the case of the bullion coin referred to in clause (i)(II) the reverse of such coin shall be representative of the suffrage movement.
+
+&emsp;&emsp;(E)
+
+Design and coin for each spouse.—A separate coin shall be designed and issued under this section for each person who was the spouse of a President during any portion of a term of office of such President.
+
+&emsp;&emsp;(F)
+
+Inscriptions.—Each bullion coin issued under this subsection shall bear the inscription of the year of minting or issuance of the coin and such other inscriptions as the Secretary may determine to be appropriate.
+
+&emsp;(4)
+
+Sale of bullion coins.—Each bullion coin issued under this subsection shall be sold by the Secretary at a price that is equal to or greater than the sum of—
+
+&emsp;&emsp;(A) the face value of the coins; and
+
+&emsp;&emsp;(B) the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
+
+&emsp;(5)
+
+Issuance of coins commemorating first spouses.—
+
+&emsp;&emsp;(A)
+
+In general.—The bullion coins issued under this subsection with respect to any spouse of a President shall be issued on the same schedule as the $1 coin issued under subsection (n) with respect to each such President.
+
+&emsp;&emsp;(B)
+
+Maximum number of bullion coins for each design.—The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) prescribe, on the basis of such factors as the Secretary determines to be appropriate, the maximum number of bullion coins that shall be issued with each of the designs selected under this subsection; and
+
+&emsp;&emsp;&emsp;(ii) announce, before the issuance of the bullion coins of each such design, the maximum number of bullion coins of that design that will be issued.
+
+&emsp;&emsp;(C)
+
+Termination of program.—No bullion coin may be issued under this subsection after the termination, in accordance with subsection (n)(8), of the $1 coin program established under subsection (n).
+
+&emsp;(6)
+
+Quality of coins.—The bullion coins minted under this Act shall be issued in both proof and uncirculated qualities.
+
+&emsp;(7)
+
+Source of gold bullion.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
+
+&emsp;&emsp;(B)
+
+Price of gold.—The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
+
+&emsp;(8)
+
+Bronze medals.—The Secretary may strike and sell bronze medals that bear the likeness of the bullion coins authorized under this subsection, at a price, size, and weight, and with such inscriptions, as the Secretary determines to be appropriate.
+
+&emsp;(9)
+
+Legal tender.—The coins minted under this title shall be legal tender, as provided in section 5103.
+
+&emsp;(10)
+
+Treatment as numismatic items.—For purposes of section <sup>2</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+
+(p)
+
+Removal of Barriers to Circulation of $1
+
+Coin.—
+
+&emsp;(1)
+
+Acceptance by agencies and instrumentalities.—Beginning January 1, 2006, all agencies and instrumentalities of the United States, the United States Postal Service, all nonappropriated fund instrumentalities established under title 10, United States Code, all transit systems that receive operational subsidies or any disbursement of funds from the Federal Government, such as funds from the Federal Highway Trust Fund, including the Mass Transit Account, and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government, shall take such action as may be appropriate to ensure that by the end of the 2-year period beginning on such date—
+
+&emsp;&emsp;(A) any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of accepting and dispensing $1 coins in connection with such operations; and
+
+&emsp;&emsp;(B) displays signs and notices denoting such capability on the premises where coins or currency are accepted or dispensed, including on each vending machine.
+
+&emsp;(2)
+
+Publicity.—The Director of the United States Mint,<sup>3</sup> shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
+
+&emsp;(3)
+
+Coordination.—The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of $1 coins is available for commerce and collectors at such places and in such quantities as are appropriate by—
+
+&emsp;&emsp;(A) consulting, to accurately gauge demand for coins and to anticipate and eliminate obstacles to the easy and efficient distribution and circulation of $1 coins as well as all other circulating coins, from time to time but no less frequently than annually, with a coin users group, which may include—
+
+&emsp;&emsp;&emsp;(i) representatives of merchants who would benefit from the increased usage of $1 coins;
+
+&emsp;&emsp;&emsp;(ii) vending machine and other coin acceptor manufacturers;
+
+&emsp;&emsp;&emsp;(iii) vending machine owners and operators;
+
+&emsp;&emsp;&emsp;(iv) transit officials;
+
+&emsp;&emsp;&emsp;(v) municipal parking officials;
+
+&emsp;&emsp;&emsp;(vi) depository institutions;
+
+&emsp;&emsp;&emsp;(vii) coin and currency handlers;
+
+&emsp;&emsp;&emsp;(viii) armored-car operators;
+
+&emsp;&emsp;&emsp;(ix) car wash operators; and
+
+&emsp;&emsp;&emsp;(x) coin collectors and dealers;
+
+&emsp;&emsp;(B) submitting an annual report to the Congress containing—
+
+&emsp;&emsp;&emsp;(i) an assessment of the remaining obstacles to the efficient and timely circulation of coins, particularly $1 coins;
+
+&emsp;&emsp;&emsp;(ii) an assessment of the extent to which the goals of subparagraph (C) are being met; and
+
+&emsp;&emsp;&emsp;(iii) such recommendations for legislative action the Board and the Secretary may determine to be appropriate;
+
+&emsp;&emsp;(C) consulting with industry representatives to encourage operators of vending machines and other automated coin-accepting devices in the United States to accept coins issued under the Presidential $1 Coin Program established under subsection (n) and any coins bearing any design in effect before the issuance of coins required under subsection (n) (including the so-called “Sacagawea-design” $1 coins), and to include notices on the machines and devices of such acceptability;
+
+&emsp;&emsp;(D) ensuring that—
+
+&emsp;&emsp;&emsp;(i) during an introductory period, all institutions that want unmixed supplies of each newly-issued design of $1 coins minted under subsections (n) and (<i>o</i>) are able to obtain such unmixed supplies; and
+
+&emsp;&emsp;&emsp;(ii) circulating coins will be available for ordinary commerce in packaging of sizes and types appropriate for and useful to ordinary commerce, including rolled coins;
+
+&emsp;&emsp;(E) working closely with any agency, instrumentality, system, or entity referred to in paragraph (1) to facilitate compliance with the requirements of such paragraph; and
+
+&emsp;&emsp;(F) identifying, analyzing, and overcoming barriers to the robust circulation of $1 coins minted under subsections (n) and (<i>o</i>), including the use of demand prediction, improved methods of distribution and circulation, and improved public education and awareness campaigns.
+
+&emsp;(4)
+
+Bullion dealers.—The Director of the United States Mint shall take all steps necessary to ensure that a maximum number of reputable, reliable, and responsible dealers are qualified to offer for sale all bullion coins struck and issued by the United States Mint.
+
+&emsp;(5)
+
+Review of co-circulation.—At such time as the Secretary determines to be appropriate, and after consultation with the Board of Governors of the Federal Reserve System, the Secretary shall notify the Congress of its assessment of issues related to the co-circulation of any circulating $1 coin bearing any design, other than the so-called “Sacagawea-design” $1 coin, in effect before the issuance of coins required under subsection (n), including the effect of co-circulation on the acceptance and use of $1 coins, and make recommendations to the Congress for improving the circulation of $1 coins.
+
+(q)
+
+Gold Bullion Coins.—
+
+&emsp;(1)
+
+In general.—Not later than 6 months after the date of enactment of the Presidential $1 Coin Act of 2005, the Secretary shall commence striking and issuing for sale such number of $50 gold bullion and proof coins as the Secretary may determine to be appropriate, in such quantities, as the Secretary, in the Secretary's discretion, may prescribe.
+
+&emsp;(2)
+
+Initial design.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided under subparagraph (B), the obverse and reverse of the gold bullion coins struck under this subsection during the first year of issuance shall bear the original designs by James Earle Fraser, which appear on the 5-cent coin commonly referred to as the “Buffalo nickel” or the “1913 Type 1”.
+
+&emsp;&emsp;(B)
+
+Variations.—The coins referred to in subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) have inscriptions of the weight of the coin and the nominal denomination of the coin incused in that portion of the design on the reverse of the coin commonly known as the “grassy mound”; and
+
+&emsp;&emsp;&emsp;(ii) bear such other inscriptions as the Secretary determines to be appropriate.
+
+&emsp;(3)
+
+Subsequent designs.—After the 1-year period described to in paragraph (2), the Secretary may—
+
+&emsp;&emsp;(A) after consulting with the Commission of Fine Arts, and subject to the review of the Citizens Coinage Advisory Committee, change the design on the obverse or reverse of gold bullion coins struck under this subsection; and
+
+&emsp;&emsp;(B) change the maximum number of coins issued in any year.
+
+&emsp;(4)
+
+Source of gold bullion.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall acquire gold for the coins issued under this subsection by purchase of gold mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
+
+&emsp;&emsp;(B)
+
+Price of gold.—The Secretary shall pay not more than the average world price for the gold mined under subparagraph (A).
+
+&emsp;(5)
+
+Sale of coins.—Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
+
+&emsp;&emsp;(A) the market value of the bullion at the time of sale; and
+
+&emsp;&emsp;(B) the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping.
+
+&emsp;(6)
+
+Legal tender.—The coins minted under this title shall be legal tender, as provided in section 5103.
+
+&emsp;(7)
+
+Treatment as numismatic items.—For purposes of section <sup>2</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+
+&emsp;(8)
+
+Protective covering.—
+
+&emsp;&emsp;(A)
+
+In general.—Each bullion coin having a metallic content as described in subsection (a)(11) and a design specified in paragraph (2) shall be sold in an inexpensive covering that will protect the coin from damage due to ordinary handling or storage.
+
+&emsp;&emsp;(B)
+
+Design.—The protective covering required under subparagraph (A) shall be readily distinguishable from any coin packaging that may be used to protect proof coins minted and issued under this subsection.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L.109–145, title I, §§102–104, title II, §201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672.)
 
 Historical and Revision Notes<br>1982
 
@@ -362,7 +756,21 @@ The date of enactment of the United States $1 Coin Act of 1997, referred to in s
 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (<i>l</i>)(6)(C), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
+This Act, referred to in subsec. (<i>o</i>)(6), probably means Pub. L. 109–145, Dec. 22, 2005, 119 Stat. 2664, known as the Presidential $1 Coin Act of 2005, which amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
+
+The date of enactment of the Presidential $1 Coin Act of 2005, referred to in subsec. (q)(1), is the date of enactment of Pub. L. 109–145, which was approved Dec. 22, 2005.
+
 #### Amendments
+
+2005—Subsec. (a)(11). Pub. L. 109–145, §201(1), added par. (11).
+
+Subsec. (n). Pub. L. 109–145, §102, added subsec. (n).
+
+Subsec. (<i>o</i>). Pub. L. 109–145, §103, added subsec. (<i>o</i>).
+
+Subsec. (p). Pub. L. 109–145, §104, added subsec. (p).
+
+Subsec. (q). Pub. L. 109–145, §201(2), added subsec. (q).
 
 2003—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
 
@@ -429,6 +837,122 @@ Section 205 of title II of Pub. L. 99–61 provided that: “This title \[amendi
 Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
 Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
+
+#### Presidential Commemorative Dollar Coins; Findings
+
+Pub. L. 109–145, title I, §101, Dec. 22, 2005, 119 Stat. 2664, provided that: “Congress finds the following:
+
+&emsp;“(1) There are sectors of the United States economy, including public transportation, parking meters, vending machines, and low-dollar value transactions, in which the use of a $1 coin is both useful and desirable for keeping costs and prices down.
+
+&emsp;“(2) For a variety of reasons, the new $1 coin introduced in 2000 has not been widely sought-after by the public, leading to higher costs for merchants and thus higher prices for consumers.
+
+&emsp;“(3) The success of the 50 States Commemorative Coin Program (31 U.S.C. 5112(<i>l</i>)) for circulating quarter dollars shows that a design on a United States circulating coin that is regularly changed in a manner similar to the systematic change in designs in such Program radically increases demand for the coin, rapidly pulling it through the economy.
+
+&emsp;“(4) The 50 States Commemorative Coin Program also has been an educational tool, teaching both Americans and visitors something about each State for which a quarter has been issued.
+
+&emsp;“(5) A national survey and study by the Government Accountability Office has indicated that many Americans who do not seek, or who reject, the new $1 coin for use in commerce would actively seek the coin if an attractive, educational rotating design were to be struck on the coin.
+
+&emsp;“(6) The President is the leader of our tripartite government and the President's spouse has often set the social tone for the White House while spearheading and highlighting important issues for the country.
+
+&emsp;“(7) Sacagawea, as currently represented on the new $1 coin, is an important symbol of American history.
+
+&emsp;“(8) Many people cannot name all of the Presidents, and fewer can name the spouses, nor can many people accurately place each President in the proper time period of American history.
+
+&emsp;“(9) First Spouses have not generally been recognized on American coinage.
+
+&emsp;“(10) In order to revitalize the design of United States coinage and return circulating coinage to its position as not only a necessary means of exchange in commerce, but also as an object of aesthetic beauty in its own right, it is appropriate to move many of the mottos and emblems, the inscription of the year, and the so-called ‘mint marks’ that currently appear on the 2 faces of each circulating coin to the edge of the coin, which would allow larger and more dramatic artwork on the coins reminiscent of the so-called ‘Golden Age of Coinage’ in the United States, at the beginning of the Twentieth Century, initiated by President Theodore Roosevelt, with the assistance of noted sculptors and medallic artists James Earle Fraser and Augustus Saint-Gaudens.
+
+&emsp;“(11) Placing inscriptions on the edge of coins, known as edge-incusing, is a hallmark of modern coinage and is common in large-volume production of coinage elsewhere in the world, such as the 2,700,000,000 2-Euro coins in circulation, but it has not been done on a large scale in United States coinage in recent years.
+
+&emsp;“(12) Although the Congress has authorized the Secretary of the Treasury to issue gold coins with a purity of 99.99 percent, the Secretary has not done so.
+
+&emsp;“(13) Bullion coins are a valuable tool for the investor and, in some cases, an important aspect of coin collecting.”
+
+#### Abraham Lincoln Bicentennial 1-cent Coin Redesign
+
+Pub. L. 109–145, title III, Dec. 22, 2005, 119 Stat. 2673, provided that:
+
+#### “SEC. 301. FINDINGS.
+
+“Congress finds the following:
+
+&emsp;“(1) Abraham Lincoln, the 16th President, was one of the Nation's greatest leaders, demonstrating true courage during the Civil War, one of the greatest crises in the Nation's history.
+
+&emsp;“(2) Born of humble roots in Hardin County (present-day LaRue County), Kentucky, on February 12, 1809, Abraham Lincoln rose to the Presidency through a combination of honesty, integrity, intelligence, and commitment to the United States.
+
+&emsp;“(3) With the belief that all men are created equal, Abraham Lincoln led the effort to free all slaves in the United States.
+
+&emsp;“(4) Abraham Lincoln had a generous heart, with malice toward none, and with charity for all.
+
+&emsp;“(5) Abraham Lincoln gave the ultimate sacrifice for the country he loved, dying from an assassin's bullet on April 15, 1865.
+
+&emsp;“(6) All Americans could benefit from studying the life of Abraham Lincoln, for Lincoln's life is a model for accomplishing the ‘American dream’ through honesty, integrity, loyalty, and a lifetime of education.
+
+&emsp;“(7) The year 2009 will be the bicentennial anniversary of the birth of Abraham Lincoln.
+
+&emsp;“(8) Abraham Lincoln was born in Kentucky, grew to adulthood in Indiana, achieved fame in Illinois, and led the nation in Washington, D.C.
+
+&emsp;“(9) The so-called ‘Lincoln cent’ was introduced in 1909 on the 100th anniversary of Lincoln's birth, making the obverse design the most enduring on the nation's coinage.
+
+&emsp;“(10) President Theodore Roosevelt was so impressed by the talent of Victor David Brenner that the sculptor was chosen to design the likeness of President Lincoln for the coin, adapting a design from a plaque Brenner had prepared earlier.
+
+&emsp;“(11) In the nearly 100 years of production of the ‘Lincoln cent’, there have been only 2 designs on the reverse: the original, featuring 2 wheat-heads in memorial style enclosing mottoes, and the current representation of the Lincoln Memorial in Washington, D.C.
+
+&emsp;“(12) On the occasion of the bicentennial of President Lincoln's birth and the 100th anniversary of the production of the Lincoln cent, it is entirely fitting to issue a series of 1-cent coins with designs on the reverse that are emblematic of the 4 major periods of President Lincoln's life.
+
+#### “SEC. 302. REDESIGN OF LINCOLN CENT FOR 2009.
+
+“(a)
+
+In General.—During the year 2009, the Secretary of the Treasury shall issue 1-cent coins in accordance with the following design specifications:
+
+&emsp;“(1)
+
+Obverse.—The obverse of the 1-cent coin shall continue to bear the Victor David Brenner likeness of President Abraham Lincoln.
+
+&emsp;“(2)
+
+Reverse.—The reverse of the coins shall bear 4 different designs each representing a different aspect of the life of Abraham Lincoln, such as—
+
+&emsp;&emsp;“(A) his birth and early childhood in Kentucky;
+
+&emsp;&emsp;“(B) his formative years in Indiana;
+
+&emsp;&emsp;“(C) his professional life in Illinois; and
+
+&emsp;&emsp;“(D) his presidency, in Washington, D.C.
+
+“(b)
+
+Issuance of Redesigned Lincoln Cents in 2009.—
+
+&emsp;“(1)
+
+Order.—The 1-cent coins to which this section applies shall be issued with 1 of the 4 designs referred to in subsection (a)(2) beginning at the start of each calendar quarter of 2009.
+
+&emsp;“(2)
+
+Number.—The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of 1-cent coins that shall be issued with each of the designs selected for each calendar quarter of 2009.
+
+“(c)
+
+Design Selection.—The designs for the coins specified in this section shall be chosen by the Secretary—
+
+&emsp;“(1) after consultation with the Abraham Lincoln Bicentennial Commission and the Commission of Fine Arts; and
+
+&emsp;“(2) after review by the Citizens Coinage Advisory Committee.
+
+#### “SEC. 303. REDESIGN OF REVERSE OF 1-CENT COINS AFTER 2009.
+
+“The design on the reverse of the 1-cent coins issued after December 31, 2009, shall bear an image emblematic of President Lincoln's preservation of the United States of America as a single and united country.
+
+#### “SEC. 304. NUMISMATIC PENNIES WITH THE SAME METALLIC CONTENT AS THE 1909 PENNY.
+
+“The Secretary of the Treasury shall issue 1-cent coins in 2009 with the exact metallic content as the 1-cent coin contained in 1909 in such number as the Secretary determines to be appropriate for numismatic purposes.
+
+#### “SEC. 305. SENSE OF THE CONGRESS.
+
+“It is the sense of the Congress that the original Victor David Brenner design for the 1-cent coin was a dramatic departure from previous American coinage that should be reproduced, using the original form and relief of the likeness of Abraham Lincoln, on the 1-cent coins issued in 2009.”
 
 #### Designs on the 5-Cent Coin
 
@@ -628,7 +1152,7 @@ In general.—Each person who receives, after the date of the enactment of this 
 
 &emsp;“(2)
 
-Information to be included.—The report under paragraph (1) shall include information on the proportion of the surcharges received during the period covered by the report to the total revenue of such person during such period, expressed as a percentage, and the percentage of total revenue during such period which was spent on administrative expenses (including salaries, travel, overhead, and fund raising).
+Information to be included.—The report under paragraph (1) shall include information on theproportion of the surcharges received during the period covered by the report to the total revenue of such person during such period, expressed as a percentage, and the percentage of total revenue during such period which was spent on administrative expenses (including salaries, travel, overhead, and fund raising).
 
 &emsp;“(3)
 
@@ -649,6 +1173,8 @@ Section 2(g) of Pub. L. 99–185 provided that: “The Secretary shall take all 
 #### Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 109–146, Dec. 22, 2005, 119 Stat. 2676.—Little Rock Central High School Desegregation 50th Anniversary.
 
 Pub. L. 108–486, Dec. 23, 2004, 118 Stat. 3934.—American Bald Eagle Recovery and National Emblem.
 
@@ -732,5 +1258,11 @@ Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 
 #### Possession of Gold Coins and Bullion
 
-The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
+The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked byEx. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974. See notes set out under section 95a of Title 12, Banks and Banking.
+
+<i><sup>1</sup></i><i> So in original. The closing quotation marks and second period probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

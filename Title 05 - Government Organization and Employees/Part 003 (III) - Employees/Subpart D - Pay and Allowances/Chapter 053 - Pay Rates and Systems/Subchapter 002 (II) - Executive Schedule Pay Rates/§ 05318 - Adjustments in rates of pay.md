@@ -56,7 +56,7 @@ Generally.—Effective the first day of the first applicable pay period that beg
 
 &emsp;&emsp;“(B)
 
-Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for a Senator, the President pro tempore of the Senate, or the majority leader or the minority leader of the Senate.
+Exceptions.—Nothing in subparagraph (A) shall affect the rate of basic pay for a Senator, thePresident pro tempore of the Senate, or the majority leader or the minority leader of the Senate.
 
 &emsp;“(3)
 
@@ -64,7 +64,7 @@ Judicial positions.—Effective the first day of the first applicable pay period
 
 “(b)
 
-Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position asof the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
+Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
 
 #### Revision in Method by Which Annual Pay Adjustments for Certain Executive, Legislative, and Judicial Positions Are To Be Made
 
@@ -122,153 +122,45 @@ Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of 
 
 #### Reduction of Rate of Salary or Basic Pay of Offices or Positions in the Executive, Legislative, and Judicial Branches to the Salary or Basic Pay Rate Payable as of July 14, 1983
 
-Pub. L. 98–51, title III, §304, July 14, 1983, 97 Stat. 279, provided that:
+Pub. L. 98–51, title III, §304, July 14, 1983, 97 Stat. 279, reduced the rate of salary or basic pay prescribed by law as of July 14, 1983, for any office or position at level I, II, or III of the Executive Schedule, any Member of Congress, and certain other offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia and also reduced the maximum rate of salary or basic pay prescribed by law as of July 14, 1983, for certain offices and positions in the legislative, executive, or judicial branch, or in the government of the District of Columbia.
 
-“(a) Except as provided in subsection (b), the rate of salary or basic pay prescribed by law as of the date of the enactment of this Act \[July 14, 1983\] shall be reduced to the salary or basic pay rate payable as of such date in the case of—
+#### Limitation on Maximum Rate of Salary Increases for Senior Executive, Judicial, and Legislative Positions for Services Performed After December 17, 1982
 
-&emsp;“(1) any office or position at level I, II, or III of the Executive Schedule,
-
-&emsp;“(2) any Member of Congress, and
-
-&emsp;“(3) any other office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, for which the rate of salary or basic pay that is payable on such date of enactment is less than the rate then prescribed by law.
-
-“(b) In the case of any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, for which the maximum rate of salary or basic pay that is payable on the date of the enactment of this Act \[July 14, 1983\] is less than the maximum rate then prescribed by law, the maximum rate prescribed by law as of such date of enactment shall be reduced to the maximum rate payable as of such date.
-
-“(c) In determining the amount of the reduction under this section in the case of any Senator, the provisions of section 129, of Public Law 97–377 \[set out as a note below\] shall be applied without regard to subsection (c) of such section.”
-
-#### Limitation on Maximum Rate of Salary Increases for Senior Executive, Judicial, and Legislative Positions (Including Members of Congress); Services Performed After December 17, 1982; Applicability to Senators; Construction With Provisions Relating to Annual Rates of Compensation of Officers and Employees of the Senate
-
-Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, provided that:
-
-“(b) In lieu of payment of salary increases of up to 27.2 percent as authorized by law for senior executive, judicial, and legislative positions (including Members of Congress), it is the purpose of this section \[enacting this provision and amending section 101(e) of Pub. L. 97–276, set out below\] to limit such increases to 15 percent. Notwithstanding the provisions of section 306 of S. 2939 \[set out below\] made applicable by subsection (a) of this section, nothing in subsection (a) shall (or be construed to) require that the rate of salary or pay payable to any individual for or on account of services performed after December 17, 1982, be limited to an amount less than the rate (or maximum rate, if higher) of salary or pay payable as of such date for the position involved increased by 15 percent and rounded in accordance with section 5318 of title 5, United States Code.
-
-“(c) Subsection (b) shall not apply to Senators.
-
-“(d) For the purposes of any rule, regulation, or order having the force and effect of law and limiting the annual rates of compensation of officers and employees of the Senate by reference to the annual rate of pay of Senators, the annual rate of pay of Senators shall be deemed to be the annual rate of pay that would be payable to Senators without regard to subsection (c) of this section.”
+Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, reduced salary increases for senior executive, judicial, and legislative positions (including Members of Congress but excluding Senators) from up to 27.2 percent to 15 percent.
 
 #### Fiscal Year 1983 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, provided in part that: “the provisions of section 306(a), (b), and (d) of S. 2939 \[Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982\] shall apply to any appropriation, fund, or authority made available for the period October 1, 1982, through September 30, 1983, by this or any other Act.” Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, provided that:
-
-“(a) No part of the funds appropriated for the fiscal year ending September 30, 1983, by this Act or any other Act may be used to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeds the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for September 30, 1982, if the rate of salary or basic pay for that office or position is—
-
-&emsp;“(1) fixed at a rate which is equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of title 5, United States Code, or
-
-&emsp;“(2) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level V (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code, or any other provision of law or congressional resolution.
-
-“(b) For purposes of subsection (a), the rate or maximum rate (as the case may be) of salary or basic pay payable for September 30, 1982, for any office or position which was not in existence on such date shall be deemed to be the rate or maximum rate (as the case may be) of salary or basic pay payable to individuals in comparable offices or positions for such date, as determined under regulations prescribed—
-
-&emsp;“(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
-
-&emsp;“(2) jointly by the Speaker of the House of Representatives and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
-
-&emsp;“(3) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
-
-“(d) For purposes of administering any provisions of law, rule, or regulation which provides retirement, life insurance, or other employee benefit, which requires any deduction or contribution, or which imposes any requirement or limitation, on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.”
+Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
 #### Fiscal Year 1982 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 97–92, §101(g), Dec. 15, 1981, 95 Stat. 1190, provided that: “The provisions of section 305(a), (b), and (d) of H.R. 4120, entitled the Legislative Branch Appropriation Act, 1982, shall apply to any appropriation, fund, or authority made available for the period October 1, 1981, through September 30, 1982, by this or any other Act.” Section 305(a), (b), and (d) of H.R. 4120, as reported July 9, 1981, provided that:
+Section 305(a), (b), and (d) of H.R. 4120, as reported July 9, 1981, made applicable by Pub. L. 97–92, §101(g), Dec. 15, 1981, 95 Stat. 1190, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1982, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1981, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
-“(a) No part of the funds appropriated for the fiscal year ending September 30, 1982, by this Act or any other Act may be used to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeds the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for September 30, 1981, if the rate of salary or basic pay for that office or position is—
+Similar provisions were contained in Pub. L. 97–51, §101(c), Oct. 1, 1981, 95 Stat. 959, as amended by Pub. L. 97–85, Nov. 23, 1981, 95 Stat. 1098.
 
-&emsp;“(1) fixed at a rate which is equal to or greater than the rate of basic pay for level V of the executive Schedule under section 5316 of title 5, United States Code, or
-
-&emsp;“(2) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level V (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code, or any other provision of law or congressional resolution.
-
-“(b) For purposes of subsection (a), the rate or maximum rate (as the case may be) of salary or basic pay payable for September 30, 1981, for any office or position which was not in existence on such date shall be deemed to be the rate or maximum rate (as the case may be) of salary or basic pay payable to individuals in comparable offices or positions for such date, as determined under regulations prescribed—
-
-&emsp;“(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
-
-&emsp;“(2) jointly by the Speaker of the House of Representatives and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
-
-&emsp;“(3) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
-
-“(d) For purposes of administering any provision of law, rule, or regulation which provides retirement, life insurance, or other employee benefit, which requires any deduction or contribution, or which imposes any requirement or limitation, on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.”
-
-Similar provisions were contained in Pub. L. 97–51, §101(c), Oct. 1, 1981, 95 Stat. 959, as amended Pub. L. 97–85, Nov. 23, 1981, 95 Stat. 1098.
-
-Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that:
-
-“(a) Notwithstanding the provisions of section 305 of H.R. 4120 made applicable by section 101(g) of this joint resolution \[set out above\], but subject to subsection (b) of this section, nothing in section 101(g) shall (or shall be construed to) require that the rate of salary or basic pay, payable to any individual for or on account of services performed after December 31, 1981, be limited to or reduced to an amount which is less than—
-
-&emsp;“(1) $59,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level III of the Executive Schedule under section 5314 of title 5, United States Code;
-
-&emsp;“(2) $58,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level IV of the Executive Schedule under section 5315 of title 5, United States Code; or
-
-&emsp;“(3) $57,500, if such individual has an office or position the salary or pay for which corresponds to the rate of basic pay for level V of the Executive Schedule under section 5316 of title 5, United States Code.
-
-“(b)(1) For purposes of subsection (a), any rate of salary or pay shall be considered to correspond to the basic pay for a level of the Executive Schedule if the rate of salary or pay for that office or position is (i) fixed at a rate which is equal to or greater than the rate of basic pay for that level of the Executive Schedule or (ii) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code, or any other provision of law (other than the provisions of such section 305, as made applicable by section 101(g) of this joint resolution) or congressional resolution.
-
-“(2) In applying subsection (a) for any office or position for which the rate of salary or basic pay is limited to a percentage of such a maximum rate, there shall be substituted, in lieu of the amount specified in subsection (a) for that office or position, an amount equal to such percentage of the specified amount.
-
-“(c) Any adjustment pursuant to this section made to the pay of any employee or class of employees whose pay is disbursed by the Clerk of the House should be of such amount as to assure, to the maximum extent practicable, that such employees are not paid at rates at less than employees or classes of employees whose pay is disbursed by the Secretary of the Senate and who hold equivalent positions.”
+Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31,1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
 
 #### Fiscal Year 1981 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, as amended by Pub. L. 97–12, title IV, §401, June 5, 1981, 95 Stat. 95, making further continuing appropriations for fiscal year 1981, provided in part that: “the provisions of section 306(a), (b), and (d) of H.R. 7593 (providing salary pay cap limitations for executive, legislative, and judicial employees and officials) \[as passed the House of Representatives, July 21, 1980\] shall apply to any appropriation, fund, or authority made available for the period October 1, 1980, through September 30, 1981, by this or any other Act.” Section 306(a), (b), and (d) of H.R. 7593, as passed the House of Representatives on July 21, 1980, provided that:
-
-“(a) No part of the funds appropriated for the fiscal year ending September 30, 1981, by this Act or any other Act may be used to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeds the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for September 30, 1980, if the rate of salary or basic pay for that office or position is—
-
-&emsp;“(1) fixed at a rate which is equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of title 5, United States Code, or
-
-&emsp;“(2) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level V (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code, or any other provision of law or congressional resolution.
-
-“(b) For purposes of subsection (a), the rate or maximum rate (as the case may be) of salary or basic pay payable for September 3, 1980, for any office or position which was not in existence on such date shall be deemed to be the rate or maximum rate (as the case may be) of salary or basic pay payable to individuals in comparable offices or positions for such date, as determined under regulations prescribed—
-
-&emsp;“(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
-
-&emsp;“(2) jointly by the Speaker of the House of Representatives and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
-
-&emsp;“(3) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
-
-“(d) For purposes of administering any provision of law, rule, or regulation which provides retirement, life insurance, or other employee benefit, which requires any deduction or contribution, or which imposes any requirement or limitation, on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.”
+Section 306(a), (b), and (d) of H.R. 7593, as passed the House of Representatives on July 21, 1980, made applicable by Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, as amended by Pub. L. 97–12, title IV, §401, June 5, 1981, 95 Stat. 95, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1981, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1980, if the rate of salary or basic pay for that office or position was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
 Similar provisions were contained in Pub. L. 96–369, §101(c), Oct. 1, 1980, 94 Stat. 1352.
 
 #### Fiscal Year 1980 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, provided in part that:
-
-“For the fiscal year 1980, funds available for payment to executive employees, which includes Members of Congress, who under existing law are entitled to approximately 12.9 percent increase in pay, shall not be used to pay any such employee or elected or appointed official any sum in excess of 5.5 percent increase in existing pay and such sum if accepted shall be in lieu of the 12.9 percent due for such fiscal year.
-
-“<i>Provided, further</i>, That for the purpose of carrying out this provision and notwithstanding the provisions of the Federal Pay Comparability Act of 1970 \[Pub. L. 91–656\], the Executive Salary Cost-Of-Living Adjustment Act \[Pub. L. 94–82\], or any other related provision of law, which would provide an approximate 12.9 percent increase in pay for certain Federal officials for pay periods beginning on or after October 1, 1979, and notwithstanding section 102 of this joint resolution, the provisions of section 304 of the Legislative Branch Appropriation Act, 1979 \[set out below\], which limit the pay for certain Federal offices and positions, shall apply to funds appropriated by this joint resolution or any Act for the fiscal year 1980, except that in applying such limitation the term ‘at a rate which exceeds by more than 5.5 percent the rate’ shall be substituted for the term ‘at a rate which exceeds the rate’ where it appears in subsection (a) of such section for the purpose of limiting pay increases to 5.5 percent.”
+Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year.
 
 #### Fiscal Year 1979 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 95–429, title VI, §613, Oct. 10, 1978, 92 Stat. 1017, provided that:
-
-“(a) No part of the funds appropriated for the fiscal year ending September 30, 1979, by this Act or any other Act may be used to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeds the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for September 30, 1978, if the rate of salary or basic pay for such office or position is—
-
-&emsp;“(1) fixed at a rate which is equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of title 5, United States Code, or
-
-&emsp;“(2) limited to a maximum rate which is equal to or greater than the rate of basic pay for such level V (or to a percentage of such a maximum rate) by reason of section 5308 of title 5, United States Code or any other provision of law or congressional resolution.
-
-“(b) For purposes of subsection (a), the rate or maximum rate (as the case may be) of salary or basic pay payable for September 30, 1978, for any office or position which was not in existence on such date shall be deemed to be the rate or maximum rate (as the case may be) of salary or basic pay payable to individuals in comparable offices or positions for such date, as determined under regulations prescribed—
-
-&emsp;“(1) by the President, in the case of any office or position within the executive branch or in the government of the District of Columbia;
-
-&emsp;“(2) jointly by the Speaker of the House and the President pro tempore of the Senate, in the case of any office or position within the legislative branch; or
-
-&emsp;“(3) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
-
-“(c) For purposes of administering any provision of law, rule, or regulation which provides retirement, life insurance, or other employee benefit, which requires any deduction or contribution, or which imposes any requirement or limitation, on the basis of a rate of salary or basic pay, the rate of salary or basic pay payable after the application of this section shall be treated as the rate of salary or basic pay.”
+Pub. L. 95–429, title VI, §613, Oct. 10, 1978, 92 Stat. 1017, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1979, to pay the salary or pay of any individual in any office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1978, if the rate of salary or basic pay for such office or position was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
 Identical provisions were enacted by Pub. L. 95–391, title III, §304, Sept. 30, 1978, 92 Stat. 788.
 
-#### 1977 Comparability Adjustment not Effective for Certain Positions
+#### 1977 Comparability Adjustment Not Effective for Certain Positions
 
-Pub. L. 95–66, July 11, 1977, 91 Stat. 270, provided that: “The first adjustment which, but for this Act, would be made after the date of enactment of this Act under the following provisions of law in the salary or rate of pay of positions or individuals to which such provisions apply, shall not take effect:
-
-&emsp;“(1) the second sentence of section 104 of title 3, United States Code, relating to comparability adjustments in the salary of the Vice President of the United States;
-
-&emsp;“(2) paragraph (2) of section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31), relating to comparability adjustments in the annual rate of pay of Members of Congress;
-
-&emsp;“(3) section 461 of title 28, United States Code, relating to comparability adjustments in the salary and rate of pay of justices, judges, commissioners, and referees; and
-
-&emsp;“(4) section 5318 of title 5, United States Code, relating to comparability adjustments in the annual rate of pay for positions in the Executive Schedule.”
+Pub. L. 95–66, July 11, 1977, 91 Stat. 270, nullified the first adjustment in pay which would have been made after July 11, 1977, under the following provisions of law: the second sentence of section 104 of Title 3, The President; par. (2) of section 31 of Title 2, The Congress; section 461 of Title 28, Judiciary and Judicial Procedure; and section 5318 of this title.
 
 #### Fiscal Year 1977 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 94–440, title II, §100, Oct. 1, 1976, 90 Stat. 1446, provided that: “No part of the funds appropriated inthis Act or any other Act shall be used to pay the salary of an individual in a position or office referred to in section 225(f) of the Federal Salary Act of 1967, as amended (2 U.S.C. 356), including a Delegate to the House of Representatives, at a rate which exceeds the salary rate in effect on September 30, 1976, for such position or office except increases submitted by the President pursuant to section 225 of the Federal Salary Act of 1967.”
+Pub. L. 94–440, title II, §100, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of funds appropriated in any Act to pay the salary of an individual in a position or office referred to in section 356 of Title 2, The Congress, at a rate exceeding the salary rate for such position or office in effect on Sept. 30, 1976, except increases submitted by the President pursuant to sections 351 to 364 of Title 2.
 

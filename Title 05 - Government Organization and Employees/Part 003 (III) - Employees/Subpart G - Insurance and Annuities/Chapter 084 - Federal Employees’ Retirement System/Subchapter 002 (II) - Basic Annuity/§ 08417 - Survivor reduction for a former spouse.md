@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(II) any agreement referred to in such section 8445(a) which was entered into before such date; or
 
-&emsp;&emsp;(ii) would cause the total of survivor annuities payable under sections 8442 and 8445, respectively, based on the service of the employee or Member to exceed the amount which would be payable to a widow or widower of such employee or Member undersuch section 8442 (determined without regard to any reduction to provide for an annuity under such section 8445); and
+&emsp;&emsp;(ii) would cause the total of survivor annuities payable under sections 8442 and 8445, respectively, based on the service of the employee or Member to exceed the amount which would be payable to a widow or widower of such employee or Member under such section 8442 (determined without regard to any reduction to provide for an annuity under such section 8445); and
 
 &emsp;(B) shall not be effective, in the case of an employee or Member who is then married, unless it is made with the spouse's written consent.
 

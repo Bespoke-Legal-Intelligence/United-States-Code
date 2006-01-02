@@ -76,7 +76,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 &emsp;(B) as soon as practicable, integrate reporting of security clearance applications, security clearance investigations, and determinations of eligibility for security clearances, with the database required by subsection (e) of this section; and
 
-&emsp;(C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements establishedunder subsection (b) of this section, including uniform security questionnaires and financial disclosure requirements.
+&emsp;(C) ensure that security clearance investigations are conducted in accordance with uniform standards and requirements established under subsection (b) of this section, including uniform security questionnaires and financial disclosure requirements.
 
 #### (d) Reciprocity of security clearance and access determinations
 
@@ -90,7 +90,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 (4) An authorized investigative agency or authorized adjudicative agency may not conduct an investigation for purposes of determining whether to grant a security clearance to an individual where a current investigation or clearance of equal level already exists or has been granted by another authorized adjudicative agency.
 
-(5) The head of the entity selected pursuant to subsection (b) of this section may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) of this section determines that such action is necessary for national security purposes.
+(5) The head of the entity selected pursuant to subsection (b) of this section may disallow thereciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) of this section determines that such action is necessary for national security purposes.
 
 (6) The head of the entity selected pursuant to subsection (b) of this section shall establish a review procedure by which agencies can seek review of actions required under this section.
 
@@ -130,7 +130,7 @@ Not later than 90 days after December 17, 2004, the President shall select a sin
 
 #### (g) Reduction in length of personnel security clearance process
 
-(1) The head of the entity selected pursuant to subsection (b) of this section shall, within 90days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
+(1) The head of the entity selected pursuant to subsection (b) of this section shall, within 90 days of selection under that subsection, develop, in consultation with the appropriate committees of Congress and each authorized adjudicative agency, a plan to reduce the length of the personnel security clearance process.
 
 (2)(A) To the extent practical the plan under paragraph (1) shall require that each authorized adjudicative agency make a determination on at least 90 percent of all applications for a personnel security clearance within an average of 60 days after the date of receipt of the completed application for a security clearance by an authorized investigative agency. Such 60-day average period shall include—
 

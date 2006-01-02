@@ -4,7 +4,7 @@ The Administrator of the Federal Aviation Administration may examine and rate th
 
 &emsp;(1) civilian schools giving instruction in flying or repairing, altering, and maintaining aircraft, aircraft engines, propellers, and appliances, on the adequacy of instruction, the suitability and airworthiness of equipment, and the competency of instructors.
 
-&emsp;(2) repair stations and shops that repair, alter, and maintain aircraft, aircraft engines, propellers, and appliances, on the adequacy and suitability of the equipment, facilities, and materials for, and methods of, repair and overhaul, and the competency of the individuals doing the work or giving instruction in the work.
+&emsp;(2) repair stations and shops that repair, alter, and maintain aircraft, aircraft engines,propellers, and appliances, on the adequacy and suitability of the equipment, facilities, and materials for, and methods of, repair and overhaul, and the competency of the individuals doing the work or giving instruction in the work.
 
 &emsp;(3) other air agencies the Administrator decides are necessary in the public interest.
 

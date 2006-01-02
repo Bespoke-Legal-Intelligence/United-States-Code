@@ -8,7 +8,7 @@ If for any taxable year—
 
 &emsp;(2)(A) the closing balance for such items, reduced by
 
-&emsp;(B) the sum of (i) the amount of the policyholders’ share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, plus (ii) any excess described in section 809(a)(2) for the taxable year,
+&emsp;(B) the amount of the policyholders’ share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,
 
 > such excess shall be included in gross income under section 803(a)(2).
 
@@ -18,7 +18,7 @@ If for any taxable year—
 
 &emsp;(1)(A) the closing balance for the items described in subsection (c), reduced by
 
-&emsp;(B) the sum of (i) the amount of the policyholders’ share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, plus (ii) any excess described in section 809(a)(2) for the taxable year, exceeds
+&emsp;(B) the amount of the policyholders’ share of tax-exempt interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, exceeds
 
 &emsp;(2) the opening balance for such items,
 
@@ -32,7 +32,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;(2) The unearned premiums and unpaid losses included in total reserves under section 816(c)(2).
 
-&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy theobligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
+&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy the obligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
 
 &emsp;(4) Dividend accumulations, and other amounts, held at interest in connection with insurance and annuity contracts.
 
@@ -52,7 +52,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;&emsp;(B) the reserve determined under paragraph (2).
 
-> &emsp;In no event shall the reserve determined under the preceding sentence for any contract as of any time exceed the amount which would be taken into account with respect to such contract as of such time in determining statutory reserves (as defined in section 809(b)(4)(B)).
+> &emsp;In no event shall the reserve determined under the preceding sentence for any contract as of any time exceed the amount which would be taken into account with respect to such contract as of such time in determining statutory reserves (as defined in paragraph (6)).
 
 #### (2) Amount of reserve
 
@@ -120,7 +120,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for thecalendar year in which the contract was issued.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for the calendar year in which the contract was issued.
 
 #### (ii) Election to recompute Federal interest rate every 5 years
 
@@ -148,7 +148,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) When rate determined
 
-&emsp;&emsp;&emsp;The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
+&emsp;&emsp;&emsp;The prevailing State assumed interest rate with respect to any contract shall bedetermined as of the beginning of the calendar year in which the contract was issued.
 
 #### (5) Prevailing commissioners’ standard tables
 
@@ -179,6 +179,10 @@ The items referred to in subsections (a) and (b) are as follows:
 #### (E) Special rule where more than 1 table or option applicable
 
 &emsp;&emsp;If, with respect to any category of risks, there are 2 or more tables (or options under 1 or more tables) which meet the requirements of subparagraph (A) (or, where applicable, subparagraph (B) or (C)), the table (and option thereunder) which generally yields the lowest reserves shall be used for purposes of paragraph (2)(C).
+
+#### (6) Statutory reserves
+
+&emsp;The term “statutory reserves” means the aggregate amount set forth in the annual statement with respect to items described in section 807(c). Such term shall not include any reserve attributable to a deferred and uncollected premium if the establishment of such reserve is not permitted under section 811(c).
 
 #### (e) Special rules for computing reserves
 
@@ -350,7 +354,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, §1084(b)(2), Aug. 5, 1997, 111 Stat. 954.)
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, §1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, §205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610.)
 
 #### Codification
 
@@ -361,6 +365,12 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, §2, 70 Stat. 36.
 
 #### Amendments
+
+2004—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, §205(b)(1), struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
+
+Subsec. (d)(1). Pub. L. 108–218, §205(b)(2)(A), substituted “paragraph (6)” for “section 809(b)(4)(B)” in concluding provisions.
+
+Subsec. (d)(6). Pub. L. 108–218, §205(b)(2)(B), added par. (6).
 
 1997—Subsec. (a)(2)(B). Pub. L. 105–34, §1084(b)(2)(A), substituted “interest and the amount of the policyholder's share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
 
@@ -383,6 +393,10 @@ Subsec. (d)(4). Pub. L. 100–203, §10241(b)(1), substituted “Applicable Fede
 Pub. L. 99–514, §1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
 
 Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–218, title II, §205(c), Apr. 10, 2004, 118 Stat. 610, provided that: “The amendments made by this section \[amending this section and sections 808, 812, 817, and 842 of this title and repealing section 809 of this title\] shall apply to taxable years beginning after December 31, 2004.”
 
 #### Effective Date of 1997 Amendment
 
@@ -438,11 +452,11 @@ Treatment of certain mutual assessment life insurance companies.—In the case o
 
 “(3)
 
-Statutory reserves.—For purposes of this subsection, the term ‘statutory reserves’ has the meaning given to such term by section 809(b)(4)(B) of such Code.”
+Statutory reserves.—For purposes of this subsection, the term ‘statutory reserves’ has the meaning given to such term by \[former\] section 809(b)(4)(B) of such Code.”
 
 #### Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts
 
-Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat.2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
+Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
 &emsp;“(1) such company—
 
@@ -453,8 +467,4 @@ Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title X
 &emsp;“(2) after December 31, 1983, and through such taxable year, such company has continuously used the net level reserve method for computing at least 99 percent of its tax and statutory reserves on such contracts, and
 
 &emsp;“(3) for any such contract for which the company does not use the net level reserve method, such company uses the same method for computing tax reserves as such company uses for computing its statutory reserves.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 412, 415, 417, 803, 805, 809, 811, 812, 817, 817A, 818, 832, 842, 846, 848, 954, 1351, 7702 of this title; title 29 sections 1055, 1082.
 

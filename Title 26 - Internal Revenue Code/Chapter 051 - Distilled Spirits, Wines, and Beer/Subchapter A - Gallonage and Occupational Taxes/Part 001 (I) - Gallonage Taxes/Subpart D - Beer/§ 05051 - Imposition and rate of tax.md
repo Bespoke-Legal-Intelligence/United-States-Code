@@ -90,7 +90,3 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 Imposition of tax on beer, exception for small domestic producers, exception for certain small wholesale or retail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5041, 5054, 5061, 5671 of this title.
-

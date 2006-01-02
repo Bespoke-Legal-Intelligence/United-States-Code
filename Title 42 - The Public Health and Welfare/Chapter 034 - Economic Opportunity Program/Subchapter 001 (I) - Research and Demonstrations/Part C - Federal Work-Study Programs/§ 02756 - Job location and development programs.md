@@ -2,7 +2,7 @@
 
 #### (a) Agreements required
 
-(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $50,000 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs,including community service jobs, for currently enrolled students.
+(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $50,000 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
 
 (2) Jobs located and developed under this section shall be jobs that are suitable to the scheduling and other needs of such students and that, to the maximum extent practicable, complement and reinforce the educational programs or vocational goals of such students.
 
@@ -44,7 +44,7 @@ Provisions similar to this section were contained in section 2756a of this title
 
 1980—Subsec. (a). Pub. L. 96–374, §§435(a), 1391(a)(1), substituted “Secretary” for “Commissioner” and inserted provision that criteria established under this subsection not result in institution's receiving an amount less than institution used under this section for fiscal year 1979, unless there has been a substantial decline in student enrollment of institution.
 
-Subsec. (b). Pub. L. 96–374, §435(b), inserted provision that, of sums granted to an eligible institution under this part for any fiscal year, 10 per centum may, at discretion of institution, remain available for expenditure during succeeding fiscal year to carry out programs under this part, and substituted “close of the second fiscal year next succeeding the fiscal year for which funds were appropriated” for “close of the fiscal year next succeeding the fiscal year for which such funds were appropriated” in provision covering available time period during which funds not used remain available to Secretary for making grants to other institutions in same State.
+Subsec. (b). Pub. L. 96–374, §435(b), inserted provision that, of sums granted to an eligible institution underthis part for any fiscal year, 10 per centum may, at discretion of institution, remain available for expenditure during succeeding fiscal year to carry out programs under this part, and substituted “close of the second fiscal year next succeeding the fiscal year for which funds were appropriated” for “close of the fiscal year next succeeding the fiscal year for which such funds were appropriated” in provision covering available time period during which funds not used remain available to Secretary for making grants to other institutions in same State.
 
 Subsec. (c). Pub. L. 96–374, §435(b), added subsec. (c).
 
@@ -74,5 +74,5 @@ Section 5 of Pub. L. 94–43 provided that:
 
 “(a) The amendment made by the provisions of section 2 of this Act \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning after June 30, 1974.
 
-“(b) Subsections (b) and (d) of section 431 \[now 437\] of the General Education Provisions Act \[section 1232(b)and (d) of Title 20, Education\] shall not operate to delay the effectiveness of regulations issued by the Commissioner of Education to implement the provisions of this Act \[see Short Title of 1975 Amendment note set out under section 2701 of this title\].”
+“(b) Subsections (b) and (d) of section 431 \[now 437\] of the General Education Provisions Act \[section 1232(b) and (d) of Title 20, Education\] shall not operate to delay the effectiveness of regulations issued by the Commissioner of Education to implement the provisions of this Act \[see Short Title of 1975 Amendment note set out under section 2701 of this title\].”
 

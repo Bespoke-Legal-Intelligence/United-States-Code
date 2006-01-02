@@ -60,7 +60,7 @@ Subsec. (e)(2). Pub. L. 105–85, §3525(b), substituted “, to other Commissi
 
 1996—Subsec. (d). Pub. L. 104–106 struck out “appropriations or” before “funds of the Commission” in introductory provisions.
 
-Subsec. (e). Pub. L. 104–201 inserted concluding provisions “Notwithstanding the provisions relating to the availability of adequate schools contained in section 5924(4)(A) of title 5, the Commission shall by regulation determine the extent to which costs of educational services may be defrayed under this subsection.”
+Subsec. (e). Pub. L. 104–201 inserted concluding provisions “Notwithstanding the provisions relating to the availability of adequate schools contained in section 5924(4)(A) of title 5, the Commission shall by regulationdetermine the extent to which costs of educational services may be defrayed under this subsection.”
 
 1994—Subsec. (e)(2). Pub. L. 103–337 inserted “or the United States” after “schools in the Republic of Panama”.
 

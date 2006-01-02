@@ -28,7 +28,7 @@ Pub. L. 92–470, Oct. 6, 1972, 86 Stat. 783, provided: “That (a) a suitable s
 
 #### Rocky Boy's Indian Reservation
 
-Pub. L. 85–773, Aug. 27, 1958, 72 Stat. 931, provided: “That the land acquired by the United States pursuant to section 5 of the Act of June 18, 1934 (48 Stat. 984) \[this section\], title to which was conveyed to the United States of America in trust for the Chippewa, Cree, and other Indians of Montana, and thereafter added to the Rocky Boy's Indian Reservation, Montana, by proclamation signed by the Assistant Secretary of the Interior on November 26, 1947, is hereby designated for the exclusive use of the members of the Chippewa Cree Tribe of the Rocky Boy's Reservation, Montana.”
+Pub. L. 85–773, Aug. 27, 1958, 72 Stat. 931, provided: “That the land acquired by the United States pursuant to section 5 of the Act of June 18, 1934 (48 Stat. 984)\[this section\], title to which was conveyed to the United States of America in trust for the Chippewa, Cree, and other Indians of Montana, and thereafter added to the Rocky Boy's Indian Reservation, Montana, by proclamation signed by the Assistant Secretary of the Interior on November 26, 1947, is hereby designated for the exclusive use of the members of the Chippewa Cree Tribe of the Rocky Boy's Reservation, Montana.”
 
 #### Seminole Indian Reservation
 

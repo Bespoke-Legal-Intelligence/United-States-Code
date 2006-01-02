@@ -20,7 +20,3 @@ Ex. Ord. No. 11079, Jan. 25, 1963, 28 F.R. 819, as amended by Ex. Ord. No. 11382
 
 By virtue of the authority vested in me by section 2603 of Title 10, United States Code \[this section\], I hereby designate the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, the Secretary of Homeland Security, with respect to members of the Coast Guard when it is not operating as a service in the Navy, and the Secretary of Health and Human Services, with respect to commissioned officers of the Public Health Service, to prescribe regulations under which members of the Armed Forces and commissioned officers of the Public Health Service may accept fellowships, scholarships, or grants from corporations, funds, foundations, or educational institutions organized and operated primarily for scientific, literary, or educational purposes. To the extent practicable, such regulations shall be uniform.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 632 of this title; title 42 section 213a.
-

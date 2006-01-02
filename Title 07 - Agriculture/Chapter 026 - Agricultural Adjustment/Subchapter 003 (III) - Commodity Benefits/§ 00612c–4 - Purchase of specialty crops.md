@@ -2,7 +2,7 @@
 
 #### (a) General purchase authority
 
-Of the funds made available under section 612c of this title, for fiscal year 2002 and each subsequent fiscal year, the Secretary of Agriculture shall use not less than $200,000,000 each fiscal year to purchase fruits, vegetables, and other specialty food crops.
+Of the funds made available under section 612c of this title, for fiscal year 2002 and each subsequent fiscal year, the Secretary of Agriculture shall use not less than $200,000,000 each fiscalyear to purchase fruits, vegetables, and other specialty food crops.
 
 #### (b) Purchase authority
 

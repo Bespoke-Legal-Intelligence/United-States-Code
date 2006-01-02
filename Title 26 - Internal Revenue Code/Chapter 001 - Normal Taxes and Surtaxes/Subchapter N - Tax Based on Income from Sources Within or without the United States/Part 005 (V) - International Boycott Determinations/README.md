@@ -3,16 +3,13 @@
 | Sec. |  |
 | :--- | ---: |
 | [999\.](%C2%A7%2000999%20-%20Reports%20by%20taxpayers%3B%20determinations.md) | Reports by taxpayers; determinations. |
+| \[1000. | Reserved.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
 1976—Pub. L. 94–455, title X, §1064(a), Oct. 4, 1976, 90 Stat. 1650, added part heading and analysis of sections.
-
-#### Part Referred to in Other Sections
-
-This part is referred to in section 1373 of this title.
 
 
 ---

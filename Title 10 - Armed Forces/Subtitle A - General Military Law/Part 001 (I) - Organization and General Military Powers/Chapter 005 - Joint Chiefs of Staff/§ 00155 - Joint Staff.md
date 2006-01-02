@@ -88,7 +88,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters
 
-Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, provided that:
+Pub. L. 105–85, div. A, title IX, §901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that:
 
 “(a)
 
@@ -108,13 +108,13 @@ Selection.—(1) The Assistant to the Chairman of the Joint Chiefs of Staff for 
 
 &emsp;“(C) are in a grade above the grade of colonel.
 
-“(2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters shall be selected by the Chairman from officers of the Army Reserve, the Naval Reserve, the Marine Corps Reserve, or the Air Force Reserve who—
+“(2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters shall be selected by the Chairman from officers of the Army Reserve, the Navy Reserve, the Marine Corps Reserve, or the Air Force Reserve who—
 
 &emsp;“(A) are recommended for such selection by the Secretary of the military department concerned;
 
 &emsp;“(B) have had at least 10 years of commissioned service in their reserve component; and
 
-&emsp;“(C) are in a grade above the grade of colonel or, in the case of the Naval Reserve, captain.
+&emsp;“(C) are in a grade above the grade of colonel or, in the case of the Navy Reserve, captain.
 
 “(c)
 
@@ -122,7 +122,7 @@ Term of Office.—Each Assistant to the Chairman under subsection (a) serves at 
 
 “(d)
 
-Grade.—Each Assistant to the Chairman, while so serving, holds the grade of major general or, in the case of the Naval Reserve, rear admiral. Each such officer shall be considered to be serving in a position external to that officer's Armed Force for purposes of section 721 of title 10, United States Code, as added by section 501(a).
+Grade.—Each Assistant to the Chairman, while so serving, holds the grade of major general or, in the case of the Navy Reserve, rear admiral. Each such officer shall be considered to be serving in a position external to that officer's Armed Force for purposes of section 721 of title 10, United States Code, as added by section 501(a).
 
 “(e)
 
@@ -137,8 +137,4 @@ Other Reserve Component Representation on Joint Staff.—(1) The Secretary of De
 “(g)
 
 Effective Date.—The positions specified in subsection (a) shall be established by the Secretary of Defense not later than 60 days after the date of the enactment of this Act \[Nov. 18, 1997\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 525, 664 of this title.
 

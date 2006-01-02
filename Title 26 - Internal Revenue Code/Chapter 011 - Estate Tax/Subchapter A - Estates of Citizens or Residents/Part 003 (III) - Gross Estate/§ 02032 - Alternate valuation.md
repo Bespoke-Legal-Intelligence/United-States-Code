@@ -2,7 +2,7 @@
 
 #### (a) General
 
-The value of the gross estate may be determined, if the executor so elects, by valuing allthe property included in the gross estate as follows:
+The value of the gross estate may be determined, if the executor so elects, by valuing all the property included in the gross estate as follows:
 
 &emsp;(1) In the case of property distributed, sold, exchanged, or otherwise disposed of, within 6 months after the decedent's death such property shall be valued as of the date of distribution, sale, exchange, or other disposition.
 
@@ -38,7 +38,7 @@ No election may be made under this section with respect to an estate unless such
 
 &emsp;No election may be made under this section if such return is filed more than 1 year after the time prescribed by law (including extensions) for filing such return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 91–614, title I, §101(a), Dec. 31, 1970, 84 Stat. 1836; Pub. L. 98–369, div. A, title X, §§1023(a), 1024(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title XIV, §1432(c)(1), Oct. 22, 1986, 100 Stat. 2730.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 91–614, title I, §101(a), Dec. 31, 1970, 84 Stat. 1836;Pub. L. 98–369, div. A, title X, §§1023(a), 1024(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title XIV, §1432(c)(1), Oct. 22, 1986, 100 Stat. 2730.)
 
 #### Amendments
 
@@ -80,9 +80,5 @@ Transitional rule.—In the case of an estate of a decedent dying before the dat
 
 #### Effective Date of 1970 Amendment
 
-Section 101(j) of Pub. L. 91–614 provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notesunder this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 996, 1014, 1016, 2055, 2056A, 2106, 2624 of this title.
+Section 101(j) of Pub. L. 91–614 provided that: “The amendments made by this section \[enacting section 6905 of this title, amending this section and sections 1223, 2055, 2204, 6040, 6075, 6091, 6161, 6314, 6324, and 6504 of this title, and enacting provisions set out as notes under this section and sections 2204 and 6905 of this title\] (other than subsection (f)) \[amending sections 2204 and 6905 of this title\] shall apply with respect to decedents dying after December 31, 1970.”
 

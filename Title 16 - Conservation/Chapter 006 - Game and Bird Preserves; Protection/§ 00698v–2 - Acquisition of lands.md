@@ -12,7 +12,7 @@
 
 #### (3) Basis of sale
 
-&emsp;The acquisition under paragraph (1) shall be based on an appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions and—
+&emsp;The acquisition under paragraph (1) shall be based on an appraisal done in conformity withthe Uniform Appraisal Standards for Federal Land Acquisitions and—
 
 &emsp;&emsp;(A) in the case of purchase, such purchase shall be on a willing seller basis for no more than the fair market value of the land or interests therein acquired; and
 
@@ -64,7 +64,31 @@ The Secretary, acting through the Forest Service, in cooperation with the Secret
 
 #### (e) Outstanding mineral interests
 
-The acquisition of the Baca ranch by the Secretary shall be subject to all outstanding valid existing mineral interests. The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest on a willing seller basis for not to exceed its fair market value, as determined by appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions. Any such interests acquired within the boundaries of the Upper Alamo watershed, as referred to in subsection (b) of this section, shall be administered by the Secretary of the Interior as part of Bandelier National Monument.
+#### (1) In general
+
+&emsp;The acquisition of the Baca ranch by the Secretary shall be subject to all outstanding valid existing mineral interests.
+
+#### (2) Acquisition
+
+&emsp;The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest for not to exceed its fair market value, as determined by appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions.
+
+#### (3) Administration
+
+&emsp;Any such interests acquired within the boundaries of the Upper Alamo watershed, as referred to in subsection (b) of this section, shall be administered by the Secretary of the Interior as part of Bandelier National Monument.
+
+#### (4) Available funds
+
+&emsp;Any such interests shall be acquired with available funds.
+
+#### (5) Declaration of taking
+
+#### (A) In general
+
+&emsp;&emsp;If negotiations to acquire the interests are unsuccessful by the date that is 60 days after Dec. 20, 2005, the Secretary shall acquire the interests pursuant to section 3114 of title 40.
+
+#### (B) Source of funds
+
+&emsp;&emsp;Any difference between the sum of money estimated to be just compensation by the Secretary and the amount awarded shall be paid from the permanent judgment appropriation under section 1304 of title 31.
 
 #### (f) Boundaries of the Baca ranch
 
@@ -74,7 +98,7 @@ For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Bac
 
 #### (1) In general
 
-&emsp;The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair market value portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
+&emsp;The Secretary may assign to the Pueblo of Santa Clara rights to acquire for fair marketvalue portions of the Baca ranch. The portion that may be assigned shall be determined by mutual agreement between the Pueblo and the Secretary based on optimal management considerations for the Preserve including manageable land line locations, public access, and retention of scenic and natural values. All appraisals shall be done in conformity with the Uniform Appraisal Standards for Federal Land Acquisition.
 
 #### (2) Status of land acquired
 
@@ -88,11 +112,15 @@ For purposes of section 460<i>l</i>–9 of this title, the boundaries of the Bac
 
 &emsp;Any reservations, easements, and covenants contained in an assignment agreement entered into under paragraph (1) shall not be affected by the acquisition of the Baca ranch by the United States, the assumption of management by the Valles Caldera Trust, or the lands acquired by the Pueblo being taken into trust.
 
-(Pub. L. 106–248, title I, §104, July 25, 2000, 114 Stat. 600.)
+(Pub. L. 106–248, title I, §104, July 25, 2000, 114 Stat. 600; Pub. L. 109–132, §2(a), Dec. 20, 2005, 119 Stat. 2570.)
 
 #### References in Text
 
 Section 3 of Pub. L. 105–376, referred to in subsecs. (b) and (c)(2), appears in the item for Bandelier National Monument, New Mexico, in the table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
+
+#### Amendments
+
+2005—Subsec. (e). Pub. L. 109–132 designated existing provisions as pars. (1) to (3), inserted par. headings, struck out “on a willing seller basis” after “such fractional interest” in par. (2), and added pars. (4) and (5).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

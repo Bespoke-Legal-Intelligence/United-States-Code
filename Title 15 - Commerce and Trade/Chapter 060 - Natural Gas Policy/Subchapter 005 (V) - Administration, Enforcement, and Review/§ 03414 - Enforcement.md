@@ -30,9 +30,9 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 &emsp;&emsp;Any person who knowingly violates any provision of this chapter, or any provision of any rule or order under this chapter, shall be subject to—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii) a civil penalty, which the Commission may assess, of not more than $5,000 for any one violation; and
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii) a civil penalty, which the Commission may assess, of not more than $1,000,000 for any one violation; and
 
-&emsp;&emsp;&emsp;(ii) a civil penalty, which the President may assess, of not more than $25,000, in the case of any violation of an order under section 3362 of this title or an order or supplemental order under section 3363 of this title.
+&emsp;&emsp;&emsp;(ii) a civil penalty, which the President may assess, of not more than $1,000,000, in the case of any violation of an order under section 3362 of this title or an order or supplemental order under section 3363 of this title.
 
 #### (B) “Knowing” defined
 
@@ -64,15 +64,15 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 &emsp;Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any provision of this chapter shall be subject to—
 
-&emsp;&emsp;(A) a fine of not more than $5,000; or
+&emsp;&emsp;(A) a fine of not more than $1,000,000; or
 
-&emsp;&emsp;(B) imprisonment for not more than two years; or
+&emsp;&emsp;(B) imprisonment for not more than 5 years; or
 
 &emsp;&emsp;(C) both such fine and such imprisonment.
 
 #### (2) Violation of rules or orders generally
 
-&emsp;Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E) of this section), shall be subject to a fine of not more than $500 for each violation.
+&emsp;Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E) of this section), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
 
 #### (3) Violations of emergency orders
 
@@ -90,9 +90,15 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 &emsp;&emsp;(B) had constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
 
-(Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989, 103 Stat. 158, 159.)
+(Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989, 103 Stat. 158, 159; Pub. L. 109–58, title III, §314(a)(2), (b)(2), Aug. 8, 2005, 119 Stat. 690, 691.)
 
 #### Amendments
+
+2005—Subsec. (b)(6)(A). Pub. L. 109–58, §314(b)(2), substituted “$1,000,000” for “$5,000” in cl. (i) and “$1,000,000” for “$25,000” in cl. (ii).
+
+Subsec. (c)(1). Pub. L. 109–58, §314(a)(2)(A), substituted “$1,000,000” for “$5,000” in subpar. (A) and “5 years” for “two years” in subpar. (B).
+
+Subsec. (c)(2). Pub. L. 109–58, §314(a)(2)(B), substituted “$50,000 for each day on which the offense occurs” for “$500 for each violation”.
 
 1989—Subsec. (a). Pub. L. 101–60, §3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
 

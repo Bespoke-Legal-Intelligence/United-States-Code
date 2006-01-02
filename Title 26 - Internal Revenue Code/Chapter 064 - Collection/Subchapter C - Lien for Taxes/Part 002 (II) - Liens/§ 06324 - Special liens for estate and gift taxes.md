@@ -14,7 +14,7 @@ Except as otherwise provided in subsection (c)—
 
 #### (3) Continuance after discharge of fiduciary
 
-&emsp;The provisions of section 2204 (relating to discharge of fiduciary from personal liability) shall not operate as a release of any part of the gross estate from the lien for any deficiency that may thereafter be determined to be due, unless such part of the gross estate (or any interest therein) has been transferred to a purchaser or a holder of a security interest, in which case such part (or such interest) shall not be subject to a lien or to any claim or demand for any such deficiency, but the lien shall attach to the consideration received from such purchaser or holder of a security interest, by the heirs, legatees, devisees, or distributees.
+&emsp;The provisions of section 2204 (relating to discharge of fiduciary from personal liability) shall not operate as a release of any part of the gross estate from the lien for any deficiency that may thereafter be determined to be due, unless such part of the gross estate (orany interest therein) has been transferred to a purchaser or a holder of a security interest, in which case such part (or such interest) shall not be subject to a lien or to any claim or demand for any such deficiency, but the lien shall attach to the consideration received from such purchaser or holder of a security interest, by the heirs, legatees, devisees, or distributees.
 
 #### (b) Lien for gift tax
 
@@ -52,7 +52,7 @@ Subsec. (d). Pub. L. 88–272, §236(b), added subsec. (d).
 
 #### Effective Date of 1970 Amendment
 
-Amendment by section 101(d)(2) of Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31,1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
+Amendment by section 101(d)(2) of Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
 
 Amendment by section 102(d)(7) of Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
 
@@ -63,8 +63,4 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–272 applicable to purchases made after Feb. 26, 1964, see section 236(d) of Pub. L. 88–272, set out as a note under section 6323 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2056A, 6323, 6324A, 6325, 6901 of this title.
 

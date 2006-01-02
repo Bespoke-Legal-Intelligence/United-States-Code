@@ -60,7 +60,7 @@ For the purposes of this section—
 
 #### (5) Renewal of grants
 
-&emsp;A grant under this subsection may continue to be renewed after 2 consecutive fiscal years during which a State receives a grant underthis subsection, subject to the availability of funds, if—
+&emsp;A grant under this subsection may continue to be renewed after 2 consecutive fiscal years during which a State receives a grant under this subsection, subject to the availability of funds, if—
 
 &emsp;&emsp;(A) the Secretary determines that the funds made available to the State during the previous 2 years were used in a manner required under paragraph (1); and
 

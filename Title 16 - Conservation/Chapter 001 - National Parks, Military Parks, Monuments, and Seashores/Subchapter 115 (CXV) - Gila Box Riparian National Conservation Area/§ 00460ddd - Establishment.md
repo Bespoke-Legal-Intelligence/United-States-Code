@@ -10,7 +10,7 @@ The conservation area shall consist of the public lands generally depicted on a 
 
 #### (c) Map
 
-As soon as practicable after November 28, 1990, a map and legal description of the conservation area shall be filed by the Secretary with the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such map shall have the same force and effect as if included in this section. Copies of such map shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the appropriate office of the Bureau of Land Management in Arizona.
+As soon as practicable after November 28, 1990, a map and legal description of the conservationarea shall be filed by the Secretary with the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Such map shall have the same force and effect as if included in this section. Copies of such map shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the appropriate office of the Bureau of Land Management in Arizona.
 
 #### (d) Management of conservation area
 
@@ -20,7 +20,7 @@ As soon as practicable after November 28, 1990, a map and legal description of t
 
 #### (e) Withdrawal
 
-Subject to valid existing rights, all Federal lands within the conservation area are herebywithdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
+Subject to valid existing rights, all Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and all amendments thereto.
 
 #### (f) Water
 
@@ -50,7 +50,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (2) The Secretary is authorized to adjust the boundaries of the conservation area so as to incorporate within the conservation area any lands or interests within the Eagle Creek riparian area that may be acquired after November 28, 1990, as well as public lands within that portion of the Eagle Creek riparian area west of the centerline of Eagle Creek that the Secretary finds appropriate in order to properly manage such acquired lands as part of the conservation area. Any lands or interests so incorporated shall be managed as part of the conservation area.
 
-(3) No lands or interests therein owned by the State of Arizona or any political subdivision of such State shall be acquired pursuant to this subsection except through donation or exchange, and no lands or interests within the conservation area or the Eagle Creek riparian area shall be acquired from any other party or entity except by donation, exchange, or purchase with the consent of the owner of such lands or interests.
+(3) No lands or interests therein owned by the State of Arizona or any political subdivision ofsuch State shall be acquired pursuant to this subsection except through donation or exchange, and no lands or interests within the conservation area or the Eagle Creek riparian area shall be acquired from any other party or entity except by donation, exchange, or purchase with the consent of the owner of such lands or interests.
 
 #### (i) No buffer zones
 
@@ -58,7 +58,7 @@ The Congress does not intend for the establishment of the conservation area to l
 
 #### (j) Advisory committee
 
-The Secretary shall establish an advisory committee to advise the Secretary with respect to the preparation and implementation of the management plan. Such advisory committee shall consist of seven members appointed by the Secretary. One member shall be appointed from among recommendations submitted by the Governor of Arizona, one member shall be appointed from among recommendations submitted by the Graham County Board of Supervisors and one member shall be appointed from among recommendations submitted by the Greenlee County Board of Supervisors. The remaining membersshall be persons recognized as experts in wildlife conservation, riparian ecology, archeology, paleontology, or other disciplines directly related to the purposes for which the conservation area is established.
+The Secretary shall establish an advisory committee to advise the Secretary with respect to the preparation and implementation of the management plan. Such advisory committee shall consist of seven members appointed by the Secretary. One member shall be appointed from among recommendations submitted by the Governor of Arizona, one member shall be appointed from among recommendations submitted by the Graham County Board of Supervisors and one member shall be appointed from among recommendations submitted by the Greenlee County Board of Supervisors. The remaining members shall be persons recognized as experts in wildlife conservation, riparian ecology, archeology, paleontology, or other disciplines directly related to the purposes for which the conservation area is established.
 
 #### (k) Report
 

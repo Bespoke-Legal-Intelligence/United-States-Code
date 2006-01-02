@@ -42,7 +42,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 (1) There is established an account which, subject to appropriation, and except as provided in paragraphs (2) and (3), shall be the exclusive source for all salaries and expenses for activities carried out under this section. The Chief Administrative Officer shall deposit in the account any amounts received under subsection (c) of this section.
 
-(2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, andsimilar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
+(2) With respect to employees of the center, the House of Representatives shall make Government contributions and payments for health insurance, retirement, employment taxes, and similar benefits and programs in the same manner as such contributions and payments are made for other employees of the House of Representatives.
 
 (3) The House of Representatives shall make payments from amounts provided in appropriations acts for salaries and expenses of the Office of the Chief Administrative Officer for the following activities carried out under this section:
 
@@ -126,13 +126,13 @@ Definitions.—For the purpose of this section—
 
 &emsp;&emsp;“(B) in chapter 84 of title 5, United States Code, to the extent that this section relates to the Federal Employees’ Retirement System.
 
-“(b) CSRS.—(1) Subject to paragraph (2), any individual who is an employee of the House Child Care Center on the date of enactment of this Act \[Aug. 11, 1993\] shall be allowed credit under subchapter III of chapter 83 of title 5, United States Code, as a Congressional employee, for any service if—
+“(b) CSRS.—(1) Subject to paragraph (2), any individual who is an employee of the House Child Care Centeron the date of enactment of this Act \[Aug. 11, 1993\] shall be allowed credit under subchapter III of chapter 83 of title 5, United States Code, as a Congressional employee, for any service if—
 
 &emsp;“(A) such service was performed before October 1, 1991, as an employee of the House Child Care Center (as constituted before that date); and
 
 &emsp;“(B) the employee is subject to subchapter III of chapter 83 of such title as of the date of enactment of this Act.
 
-“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there is paid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which wouldhave been applicable under section 8334(c) of title 5, United States Code, for the period of service involved, if such employee were then a Congressional employee, including interest. Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
+“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there is paid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been applicable under section 8334(c) of title 5, United States Code, for the period of service involved, if such employee were then a Congressional employee, including interest. Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
 
 “(c) FERS.—(1) Subject to paragraph (2), any individual who is an employee of the House Child Care Center on the date of enactment of this Act \[Aug. 11, 1993\] shall be allowed credit under chapter 84 of title 5, United States Code, as a Congressional employee, for any service if—
 

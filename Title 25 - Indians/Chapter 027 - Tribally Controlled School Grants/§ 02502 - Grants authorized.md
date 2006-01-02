@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) operate other tribally controlled schools eligible for assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants; or
 
-&emsp;&emsp;(C) elect to assume operation of Bureau-funded schools with the assistance underthis chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants.
+&emsp;&emsp;(C) elect to assume operation of Bureau-funded schools with the assistance under this chapter and submit applications (which are approved by their tribal governing bodies) to the Secretary for such grants.
 
 #### (2) Deposit of funds
 
@@ -56,7 +56,7 @@
 
 #### (2) Definition of school site
 
-&emsp;For purposes of this subsection, the term “school site” means the physical location and the facilities of an elementary or secondary educational or residential program operated by, or under contract or grant with, the Bureau for which a discreet student count is identified under the funding formula established under section 1127 of the Education Amendments of 1978 \[25 U.S.C. 2007\].
+&emsp;For purposes of this subsection, the term “school site” means the physical location and the facilities of an elementary or secondary educational or residential program operated by, or under contract or grant with, the Bureau for which a discreet <sup>1</sup> student count is identified under the funding formula established under section 1127 of the Education Amendments of 1978 \[25 U.S.C. 2007\].
 
 #### (d) No requirement to accept grants
 
@@ -88,7 +88,7 @@ Grants provided under this chapter shall not terminate, modify, suspend, or redu
 
 &emsp;&emsp;(A) with assistance under this chapter; or
 
-&emsp;&emsp;(B) upon assumption of operation of the program under this chapter, if the schoolwas a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] before receiving assistance under this chapter.
+&emsp;&emsp;(B) upon assumption of operation of the program under this chapter, if the school was a Bureau-funded school under title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\] before receiving assistance under this chapter.
 
 #### (g) Prohibition of termination for administrative convenience
 
@@ -109,4 +109,6 @@ A prior section 2502, Pub. L. 100–297, title V, §5203, Apr. 28, 1988, 102 Sta
 #### Effective Date
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “discrete”.</i>
 

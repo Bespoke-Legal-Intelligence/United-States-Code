@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-The objectives of this chapter are to promote the protection of health and the environmentand to conserve valuable material and energy resources by—
+The objectives of this chapter are to promote the protection of health and the environment and to conserve valuable material and energy resources by—
 
 &emsp;(1) providing technical and financial assistance to State and local governments and interstate agencies for the development of solid waste management plans (including resource recovery and resource conservation systems) which will promote improved solid waste management techniques (including more effective organizational arrangements), new and improved methods of collection, separation, and recovery of solid waste, and the environmentally safe disposal of nonrecoverable residues;
 

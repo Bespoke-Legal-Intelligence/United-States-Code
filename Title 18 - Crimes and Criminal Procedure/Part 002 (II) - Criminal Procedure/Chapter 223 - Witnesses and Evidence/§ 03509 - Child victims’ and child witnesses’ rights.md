@@ -62,7 +62,7 @@ Child's live testimony by 2-way closed circuit television.—
 
 &emsp;&emsp;&emsp;(iv) Conduct by defendant or defense counsel causes the child to be unable to continue testifying.
 
-&emsp;&emsp;(C) The court shall support a ruling on the child's inability to testify with findings on the record. In determining whether the impact on an individual child of one or more of the factors described in subparagraph (B) is so substantial as to justify an order under subparagraph (A), the court may question the minor in chambers, or at some other comfortable place other than the courtroom, on the record for a reasonable period of time with the child attendant, the prosecutor, the child's attorney, the guardian ad litem, and the defense counsel present.
+&emsp;&emsp;(C) The court shall support a ruling on the child's inability to testify with findings onthe record. In determining whether the impact on an individual child of one or more of the factors described in subparagraph (B) is so substantial as to justify an order under subparagraph (A), the court may question the minor in chambers, or at some other comfortable place other than the courtroom, on the record for a reasonable period of time with the child attendant, the prosecutor, the child's attorney, the guardian ad litem, and the defense counsel present.
 
 &emsp;&emsp;(D) If the court orders the taking of testimony by television, the attorney for the Government and the attorney for the defendant not including an attorney pro se for a party shall be present in a room outside the courtroom with the child and the child shall be subjected to direct and cross-examination. The only other persons who may be permitted in the room with the child during the child's testimony are—
 
@@ -78,7 +78,7 @@ Child's live testimony by 2-way closed circuit television.—
 
 &emsp;(2)
 
-Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for anorder that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
+Videotaped deposition of child.—(A) In a proceeding involving an alleged offense against a child, the attorney for the Government, the child's attorney, the child's parent or legal guardian, or the guardian ad litem appointed under subsection (h) may apply for an order that a deposition be taken of the child's testimony and that the deposition be recorded and preserved on videotape.
 
 &emsp;(B)(i) Upon timely receipt of an application described in subparagraph (A), the court shall make a preliminary finding regarding whether at the time of trial the child is likely to be unable to testify in open court in the physical presence of the defendant, jury, judge, and public for any of the following reasons:
 
@@ -118,7 +118,7 @@ Handling of videotape.—The complete record of the examination of the child, in
 
 &emsp;(D) Upon timely receipt of notice that new evidence has been discovered after the original videotaping and before or during trial, the court, for good cause shown, may order an additional videotaped deposition. The testimony of the child shall be restricted to the matters specified by the court as the basis for granting the order.
 
-&emsp;(E) In connection with the taking of a videotaped deposition under this paragraph, the court may enter a protective order for the purpose of protecting the privacy of the child.
+&emsp;(E) In connection with the taking of a videotaped deposition under this paragraph, thecourt may enter a protective order for the purpose of protecting the privacy of the child.
 
 &emsp;(F) The videotape of a deposition taken under this paragraph shall be destroyed 5 years after the date on which the trial court entered its judgment, but not before a final judgment is entered on appeal including Supreme Court review. The videotape shall become part of the court record and be kept by the court until it is destroyed.
 
@@ -162,7 +162,7 @@ Not before jury.—A competency examination regarding a child witness shall be c
 
 &emsp;(7)
 
-Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on thebasis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
+Direct examination of child.—Examination of a child related to competency shall normally be conducted by the court on the basis of questions submitted by the attorney for the Government and the attorney for the defendant including a party acting as an attorney pro se. The court may permit an attorney but not a party acting as an attorney pro se to examine a child directly on competency if the court is satisfied that the child will not suffer emotional trauma as a result of the examination.
 
 &emsp;(8)
 
@@ -218,7 +218,7 @@ Disclosure of information.—This subsection does not prohibit disclosure of the
 
 (e)
 
-Closing the Courtroom.—When a child testifies the court may order the exclusion from the courtroom of all persons, including members of the press, who do not have a direct interest in the case. Such an order may be made if the court determines on the record that requiring the child to testify in open court would cause substantial psychological harm to the child or would result in the child's inability to effectively communicate. Such an order shall be narrowly tailored to serve the Government's specific compelling interest.
+Closing the Courtroom.—When a child testifies the court may order the exclusion fromthe courtroom of all persons, including members of the press, who do not have a direct interest in the case. Such an order may be made if the court determines on the record that requiring the child to testify in open court would cause substantial psychological harm to the child or would result in the child's inability to effectively communicate. Such an order shall be narrowly tailored to serve the Government's specific compelling interest.
 
 (f)
 
@@ -236,7 +236,7 @@ In general.—A multidisciplinary child abuse team shall be used when it is feas
 
 Role of multidisciplinary child abuse teams.—The role of the multidisciplinary child abuse team shall be to provide for a child services that the members of the team in their professional roles are capable of providing, including—
 
-&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation ofx-rays, laboratory tests, and related services, as needed, and documentation of findings;
+&emsp;&emsp;(A) medical diagnoses and evaluation services, including provision or interpretation of x-rays, laboratory tests, and related services, as needed, and documentation of findings;
 
 &emsp;&emsp;(B) telephone consultation services in emergencies and in other situations;
 
@@ -272,7 +272,7 @@ Adult Attendant.—A child testifying at or attending a judicial proceeding shal
 
 (j)
 
-Speedy Trial.—In a proceeding in which a child is called to give testimony, on motion by the attorney for the Government or a guardian ad litem, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall, consistent with these rules, expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must endure the stress of involvement with the criminal process. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child's well-being. The court shall make written findings of fact and conclusions of law when granting a continuance in cases involving a child.
+Speedy Trial.—In a proceeding in which a child is called to give testimony, on motion by the attorney for the Government or a guardian ad litem, or on its own motion, the court may designate the case as being of special public importance. In cases so designated, the court shall, consistent with these rules, expedite the proceeding and ensure that it takes precedence over any other. The court shall ensure a speedy trial in order to minimize the length of time the child must endure the stress of involvement with the criminal process. When deciding whether to grant a continuance, the court shall take into consideration the age of the child and the potential adverse impact the delay may have on the child's well-being. The court shall make written findings of fact and conclusions of law whengranting a continuance in cases involving a child.
 
 (k)
 

@@ -14,10 +14,6 @@ Subpart G—Export Trade Corporations
 
 1962—Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027, added heading of subpart G, and items 970 to 972.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 954, 964 of this title.
-
 
 ---
 

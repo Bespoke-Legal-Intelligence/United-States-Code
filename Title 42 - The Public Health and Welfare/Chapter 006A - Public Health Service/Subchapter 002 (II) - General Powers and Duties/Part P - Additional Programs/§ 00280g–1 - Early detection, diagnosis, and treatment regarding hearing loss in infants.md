@@ -28,7 +28,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (2) National Institutes of Health
 
-&emsp;The Director of the National Institutes of Health, acting through the Director of the National Institute on Deafness and Other Communication Disorders, shall for purposes of this section, continue a program of researchand development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
+&emsp;The Director of the National Institutes of Health, acting through the Director of the National Institute on Deafness and Other Communication Disorders, shall for purposes of this section, continue a program of research and development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
 
 #### (c) Coordination and collaboration
 

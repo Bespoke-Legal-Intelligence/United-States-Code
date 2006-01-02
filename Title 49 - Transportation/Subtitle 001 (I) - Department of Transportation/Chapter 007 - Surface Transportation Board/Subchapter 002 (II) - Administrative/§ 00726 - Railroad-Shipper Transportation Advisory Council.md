@@ -38,7 +38,7 @@ Election and Duties of Officers.—The Council Chairman and Vice Chairman and ot
 
 (d)
 
-Expenses.—(1) The members of the Council shall receive no compensation for their services as such, but upon request by the Council Chairman, based on a showing of significant economic burden, the Secretary of Transportation or the Chairman of the Board, to the extent provided in advance in appropriation Acts, may provide reasonable and necessary travel expenses for such individual Council members from Department or Board funding sources in order to foster balanced representation on the Council.
+Expenses.—(1) The members of the Council shall receive no compensation for their services as such, but upon request by the Council Chairman, based on a showing of significant economic burden, the Secretary of Transportation or the Chairman of the Board, to the extent provided in advance in appropriation Acts, may provide reasonable and necessary travel expenses forsuch individual Council members from Department or Board funding sources in order to foster balanced representation on the Council.
 
 (2) Upon request by the Council Chairman, the Secretary or Chairman of the Board, to the extent provided in advance in appropriations Acts, may pay the reasonable and necessary expenses incurred by the Council in connection with the coordination of Council activities, announcement and reporting of meetings, and preparation of such Council documents as are required or permitted by this section.
 

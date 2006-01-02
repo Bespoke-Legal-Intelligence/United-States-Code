@@ -26,11 +26,29 @@
 
 &emsp;&emsp;The term “tax advice” means advice given by an individual with respect to a matter which is within the scope of the individual's authority to practice described in subparagraph (A).
 
-#### (b) Section not to apply to communications regarding corporate tax shelters
+#### (b) Section not to apply to communications regarding tax shelters
 
-The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connection with the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii)).
+The privilege under subsection (a) shall not apply to any written communication which is—
 
-(Added Pub. L. 105–206, title III, §3411(a), July 22, 1998, 112 Stat. 750.)
+&emsp;(1) between a federally authorized tax practitioner and—
+
+&emsp;&emsp;(A) any person,
+
+&emsp;&emsp;(B) any director, officer, employee, agent, or representative of the person, or
+
+&emsp;&emsp;(C) any other person holding a capital or profits interest in the person, and
+
+&emsp;(2) in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
+
+(Added Pub. L. 105–206, title III, §3411(a), July 22, 1998, 112 Stat. 750; amended Pub. L. 108–357, title VIII, §813(a), Oct. 22, 2004, 118 Stat. 1581.)
+
+#### Amendments
+
+2004—Subsec. (b). Pub. L. 108–357 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connection with the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii)).”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §813(b), Oct. 22, 2004, 118 Stat. 1581, provided that: “The amendment made bythis section \[amending this section\] shall apply to communications made on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date
 

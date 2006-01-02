@@ -10,7 +10,7 @@ During the demonstration program a controllable diversion rate will be establish
 
 #### (c) River stages approaching bankfull conditions on Illinois Waterway or Mississippi River or further increased diversion adversely affecting St. Lawrence Seaway water levels: limitation on diversion
 
-When river stages approach or are predicted to approach bankfull conditions at the established flood warning stations on the Illinois Waterway or the Mississippi River, or when further increased diversion of water from Lake Michigan would adversely affect water levels necessary for navigational requirements of the Saint Lawrence Seaway in its entirety throughout the Saint Lawrence River and Great Lakes-Saint Lawrence Seaway, water shall not be diverted directly from Lake Michigan at the Wilmette, O'Brien, or Chicago River control structures other than as necessary for navigational requirements.
+When river stages approach or are predicted to approach bankfull conditions at the established flood warning stations on the Illinois Waterway or the Mississippi River, or when further increased diversion of water from Lake Michiganwould adversely affect water levels necessary for navigational requirements of the Saint Lawrence Seaway in its entirety throughout the Saint Lawrence River and Great Lakes-Saint Lawrence Seaway, water shall not be diverted directly from Lake Michigan at the Wilmette, O'Brien, or Chicago River control structures other than as necessary for navigational requirements.
 
 #### (d) Additional study and demonstration program: determination of effects on Great Lakes levels and Illinois Waterway water quality and susceptibility to additional flooding and investigation of other adverse or beneficial impacts; report and recommendations to Congress
 

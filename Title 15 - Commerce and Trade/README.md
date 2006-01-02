@@ -1,5 +1,5 @@
 
-15 U.S.C.<br>United States Code, 2004 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
+15 U.S.C.<br>United States Code, 2005 Edition<br>Title 15 - COMMERCE AND TRADE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 15—COMMERCE AND TRADE
 
@@ -133,6 +133,7 @@
 | [<b>102.</b>](Chapter%20102%20-%20Fairness%20to%20Contact%20Lens%20Consumers/README.md) | <b>Fairness to Contact Lens Consumers</b> | <b>7601</b> |
 | [<b>103.</b>](Chapter%20103%20-%20Controlling%20the%20Assault%20of%20Non-Solicited%20Pornography%20and%20Marketing/README.md) | <b>Controlling the Assault of Non-Solicited Pornography and Marketing</b> | <b>7701</b> |
 | [<b>104.</b>](Chapter%20104%20-%20Sports%20Agent%20Responsibility%20and%20Trust/README.md) | <b>Sports Agent Responsibility and Trust</b> | <b>7801</b> |
+| [<b>105.</b>](Chapter%20105%20-%20Protection%20of%20Lawful%20Commerce%20in%20Arms/README.md) | <b>Protection of Lawful Commerce in Arms</b> | <b>7901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -269,3 +270,4 @@
 - [Chapter 102 - Fairness to Contact Lens Consumers](Chapter%20102%20-%20Fairness%20to%20Contact%20Lens%20Consumers/README.md)
 - [Chapter 103 - Controlling the Assault of Non-Solicited Pornography and Marketing](Chapter%20103%20-%20Controlling%20the%20Assault%20of%20Non-Solicited%20Pornography%20and%20Marketing/README.md)
 - [Chapter 104 - Sports Agent Responsibility and Trust](Chapter%20104%20-%20Sports%20Agent%20Responsibility%20and%20Trust/README.md)
+- [Chapter 105 - Protection of Lawful Commerce in Arms](Chapter%20105%20-%20Protection%20of%20Lawful%20Commerce%20in%20Arms/README.md)

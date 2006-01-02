@@ -26,7 +26,7 @@ The requirements of this subsection are met with respect to a unit of general lo
 
 &emsp;(1) the unit is in compliance with the requirements of part B of subchapter II of this chapter;
 
-&emsp;(2) the unit has submitted to the State advisory group a minimum 3-year comprehensive plan outlining the unit's local front end plans for investment for delinquency prevention and early intervention activities;
+&emsp;(2) the unit has submitted to the State advisory group a minimum 3-year comprehensiveplan outlining the unit's local front end plans for investment for delinquency prevention and early intervention activities;
 
 &emsp;(3) the unit has included in its application to the Administrator for formula grant funds a summary of the minimum 3-year comprehensive plan described in paragraph (2);
 

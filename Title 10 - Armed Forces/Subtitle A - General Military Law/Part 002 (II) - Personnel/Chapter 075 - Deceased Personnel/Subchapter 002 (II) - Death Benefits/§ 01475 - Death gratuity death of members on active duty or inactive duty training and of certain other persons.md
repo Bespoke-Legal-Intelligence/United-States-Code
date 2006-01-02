@@ -88,7 +88,85 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
-#### Section Referred to in Other Sections
+#### Policy and Procedures on Casualty Assistance to Survivors of Military Decedents
 
-This section is referred to in sections 1478, 1479, 1480 of this title.
+Pub. L. 109–163, div. A, title V, §562, Jan. 6, 2006, 119 Stat. 3267, provided that:
+
+“(a)
+
+Comprehensive Policy on Casualty Assistance.—
+
+&emsp;“(1)
+
+Policy required.—Not later than August 1, 2006, the Secretary of Defense shall prescribe a comprehensive policy for the Department of Defense onthe provision of casualty assistance to survivors and next of kin of members of the Armed Forces who die during military service (in this section referred to as ‘military decedents’).
+
+&emsp;“(2)
+
+Consultation.—The Secretary shall develop the policy under paragraph (1) in consultation with the Secretaries of the military departments, the Secretary of Veterans Affairs, and the Secretary of Homeland Security with respect to the Coast Guard.
+
+&emsp;“(3)
+
+Incorporation of past experience and practice.—The policy developed under paragraph (1) shall be based on—
+
+&emsp;&emsp;“(A) the experience and best practices of the military departments;
+
+&emsp;&emsp;“(B) the recommendations of nongovernment organizations with demonstrated expertise in responding to the needs of survivors of military decedents; and
+
+&emsp;&emsp;“(C) such other matters as the Secretary of Defense considers appropriate.
+
+&emsp;“(4)
+
+Procedures.—The policy shall include procedures to be followed by the military departments in the provision of casualty assistance to survivors and next of kin of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
+
+“(b)
+
+Elements of Policy.—The comprehensive policy developed under subsection (a) shall address the following matters:
+
+&emsp;“(1) The initial notification of primary and secondary next of kin of the deaths of military decedents and any subsequent notifications of next of kin warranted by circumstances.
+
+&emsp;“(2) The transportation and disposition of remains of military decedents, including notification of survivors of the performance of autopsies.
+
+&emsp;“(3) The qualifications, assignment, training, duties, supervision, and accountability for the performance of casualty assistance responsibilities.
+
+&emsp;“(4) The relief or transfer of casualty assistance officers, including notification to survivors and next of kin of the reassignment of such officers to other duties.
+
+&emsp;“(5) Centralized, short-term and long-term case-management procedures for casualty assistance by each military department, including rapid access by survivors of military decedents and casualty assistance officers to expert case managers and counselors.
+
+&emsp;“(6) The provision, through a computer accessible Internet website and other means and at no cost to survivors of military decedents, of personalized, integrated information on the benefits and financial assistance available to such survivors from the Federal Government.
+
+&emsp;“(7) The provision, at no cost to survivors of military decedents, of legal assistance by military attorneys on matters arising from the deaths of such decedents, including tax matters, on an expedited, prioritized basis.
+
+&emsp;“(8) The provision of financial counseling to survivors of military decedents, particularly with respect to appropriate disposition of death gratuity and insurance proceeds received by surviving spouses, minor dependent children, and their representatives.
+
+&emsp;“(9) The provision of information to survivors and next of kin of military decedents on mechanisms for registering complaints about, or requests for, additional assistance related to casualty assistance.
+
+&emsp;“(10) Liaison with the Department of Veterans Affairs and the Social Security Administration in order to ensure prompt and accurate resolution of issues relating to benefits administered by those agencies for survivors of military decedents.
+
+&emsp;“(11) Data collection regarding the incidence and quality of casualty assistance provided to survivors of military decedents, including surveys of such survivors and military and civilian members assigned casualty assistance duties.
+
+“(c)
+
+Adoption by Military Departments.—Not later than November 1, 2006, the Secretary of each military department shall prescribe regulations, or modify current regulations, on the policies and procedures of such military department on the provision of casualty assistance to survivors and next of kin of military decedents in order to conform such policies and procedures to the policy developed under subsection (a).
+
+“(d)
+
+Report on Improvement of Casualty Assistance Programs.—Not later than December 1, 2006, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report that includes—
+
+&emsp;“(1) the assessment of the Secretary of the adequacy and sufficiency of the current casualty assistance programs of the military departments;
+
+&emsp;“(2) a plan for a system for the uniform provision to survivors of military decedents of personalized, accurate, and integrated information on the benefits and financial assistance available to such survivors through the casualty assistance programs of the military departments under subsection (c); and
+
+&emsp;“(3) such recommendations for other legislative or administrative action as the Secretary considers appropriate to enhance and improve such programs to achieve their intended purposes.
+
+“(e) GAO
+
+Report.—
+
+&emsp;“(1)
+
+Report required.—Not later than July 1, 2006, the Comptroller General shall submit to the committees specified in subsection (d) a report on the evaluation by the Comptroller General of the casualty assistance programs of the Department of Defense and of such other departments and agencies of the Federal Government as provide casualty assistance to survivors and next of kin of military decedents.
+
+&emsp;“(2)
+
+Assessment.—The report shall include the assessment of the Comptroller General of the adequacy of the current policies and procedures of, and funding for, the casualty assistance programs covered by the report to achieve their intended purposes.”
 

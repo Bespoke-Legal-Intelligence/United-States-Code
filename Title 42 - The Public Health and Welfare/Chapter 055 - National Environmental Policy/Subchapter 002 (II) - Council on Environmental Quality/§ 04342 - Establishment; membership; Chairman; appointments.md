@@ -6,9 +6,11 @@ There is created in the Executive Office of the President a Council on Environme
 
 #### Council on Environmental Quality; Reduction of Members
 
-Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332, provided in part: “That notwithstanding section 202 of the National Environmental Policy Act of 1970 \[1969, 42 U.S.C. 4342\], the Council shall consist of one member, appointed by the President, by and with the advice and consent of the Senate, serving as chairman and exercising all powers, functions, and duties of the Council.”
+Pub. L. 109–54, title III, Aug. 2, 2005, 119 Stat. 543, provided in part: “That notwithstanding section 202 of the National Environmental Policy Act of 1970 \[1969, 42 U.S.C. 4342\], the Council shall consist of one member, appointed by the President, by and with the advice and consent of the Senate, serving as chairman and exercising all powers, functions, and duties of the Council.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3332.
 
 Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 408.
 

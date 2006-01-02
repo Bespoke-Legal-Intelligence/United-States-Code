@@ -103,7 +103,7 @@ Amendment by Pub. L. 108–183 effective July 1, 2004, and applicable with respe
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–103 effective Jan. 1, 2002, and applicable with respect to educational assistanceallowances payable under chapter 35 of this title and subsec. (b)(2) of this section for months beginning on or after that date, see section 102(e) of Pub. L. 107–103, set out as a note under section 3532 of this title.
+Amendment by Pub. L. 107–103 effective Jan. 1, 2002, and applicable with respect to educational assistance allowances payable under chapter 35 of this title and subsec. (b)(2) of this section for months beginning on or after that date, see section 102(e) of Pub. L. 107–103, set out as a note under section 3532 of this title.
 
 #### Effective Date of 2000 Amendment
 

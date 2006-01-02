@@ -48,7 +48,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary shall 
 
 &emsp;&emsp;&emsp;(i) the unsatisfied liability giving rise to the lien can be satisfied from a source other than such property; or
 
-&emsp;&emsp;&emsp;(ii) the value of the interest of the United States in the property is less thanthe Secretary's prior determination of such value.
+&emsp;&emsp;&emsp;(ii) the value of the interest of the United States in the property is less than the Secretary's prior determination of such value.
 
 #### (C) Use of deposit, etc., if action to contest lien not filed
 
@@ -74,7 +74,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary may is
 
 &emsp;(2) the Secretary believes that the amount realizable by the United States from the property to which the certificate relates, or from any other property subject to the lien, will ultimately be increased by reason of the issuance of such certificate and that the ultimate collection of the tax liability will be facilitated by such subordination, or
 
-&emsp;(3) in the case of any lien imposed by section 6324B, if the Secretary determines that the United States will be adequately secured after such subordination.
+&emsp;(3) in the case of any lien imposed by section 6324B, if the Secretary determines that theUnited States will be adequately secured after such subordination.
 
 #### (e) Nonattachment of lien
 
@@ -148,7 +148,7 @@ Subsec. (e). Pub. L. 85–866, §77(2), redesignated former subsec. (d) as (e).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3106(c), July 22, 1998, 112 Stat. 734, provided that: “The amendments made by this section \[amending this section and sections 6503 and 7426 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3106(c), July 22, 1998, 112 Stat. 734, provided that: “The amendments made bythis section \[amending this section and sections 6503 and 7426 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
 #### Effective Date of 1982 Amendment
 
@@ -171,8 +171,4 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6503, 7103, 7426, 7432 of this title; title 28 section 3201.
 

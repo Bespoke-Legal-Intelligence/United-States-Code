@@ -8,7 +8,7 @@ On or before the last day of each calendar quarter, a participating State shall 
 
 &emsp;(2) indicate the amount of contributions which is subject to reimbursement, which shall be equal to the total amount of contributions, unless one of the limitations contained in section 4747 of this title is applicable;
 
-&emsp;(3) if one of the limitations in section 4747 of this title is applicable, provide documentation of the applicability of such limitation for each loan for which the limitation applies; and
+&emsp;(3) if one of the limitations in section 4747 of this title is applicable, provide documentationof the applicability of such limitation for each loan for which the limitation applies; and
 
 &emsp;(4) include a certification by the participating State that—
 

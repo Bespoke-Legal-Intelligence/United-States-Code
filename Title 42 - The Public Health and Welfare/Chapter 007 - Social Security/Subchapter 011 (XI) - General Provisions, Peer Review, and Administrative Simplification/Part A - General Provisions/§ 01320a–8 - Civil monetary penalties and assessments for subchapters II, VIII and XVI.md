@@ -82,7 +82,7 @@ In determining pursuant to subsection (a) of this section the amount or scope of
 
 &emsp;(D) by authorities provided under the Debt Collection Act of 1982, as amended, to the extent applicable to debts arising under this chapter;
 
-&emsp;(E) by deduction of the amount of such penalty or assessment, when finally determined, or the amount agreed upon in compromise, from any sum then or later owing by theUnited States to the person against whom the penalty or assessment has been assessed; or
+&emsp;(E) by deduction of the amount of such penalty or assessment, when finally determined, or the amount agreed upon in compromise, from any sum then or later owing by the United States to the person against whom the penalty or assessment has been assessed; or
 
 &emsp;(F) by any combination of the foregoing.
 
@@ -98,7 +98,7 @@ A determination pursuant to subsection (a) of this section by the Commissioner o
 
 #### (g) Notification of appropriate entities of finality of determination
 
-Whenever the Commissioner's determination to impose a penalty or assessment under this section with respect to a medical provider or physician becomes final, the Commissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination.
+Whenever the Commissioner's determination to impose a penalty or assessment under this section with respect to a medical provider orphysician becomes final, the Commissioner shall notify the Secretary of the final determination and the reasons therefor, and the Secretary shall then notify the entities described in section 1320a–7a(h) of this title of such final determination.
 
 #### (h) Injunction
 
@@ -136,7 +136,7 @@ A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as adde
 
 #### Amendments
 
-2004—Subsec. (a)(1). Pub. L. 108–203, §201(a)(1), substantially rewrote par. (1). Prior to amendment, par. (1)read as follows: “Any person (including an organization, agency, or other entity) who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
+2004—Subsec. (a)(1). Pub. L. 108–203, §201(a)(1), substantially rewrote par. (1). Prior to amendment, par. (1) read as follows: “Any person (including an organization, agency, or other entity) who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
 
 &emsp;“(A) monthly insurance benefits under subchapter II of this chapter,
 
@@ -192,7 +192,7 @@ Pub. L. 103–296, §108(b)(10)(A)(i), (v), in subsec. (<i>l</i>) as added by Pu
 
 Pub. L. 108–203, title I, §111(b), Mar. 2, 2004, 118 Stat. 507, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to violations committed after the date of the enactment of this Act \[Mar. 2, 2004\].”
 
-Pub. L. 108–203, title II, §201(d), Mar. 2, 2004, 118 Stat. 508, provided that: “The amendments made by this section \[amending this section and section 1320a–8a of this title\] shall apply with respect to violations committed after the date on which the Commissioner of Social Security implements the centralized computer file described in section 202 \[set out as a note under section 902 of this title\].”
+Pub. L. 108–203, title II, §201(d), Mar. 2, 2004, 118 Stat. 508, provided that: “The amendments made by this section \[amending this section and section 1320a–8a of this title\] shall apply with respect to violations committed after the date on which the Commissioner of Social Security implements the centralized computer file described in section 202 \[set out as a note under section 902 of this title\].” \[The centralized computer file was implemented Nov. 27, 2006, see 72 F.R. 27424.\]
 
 #### Effective Date of 1994 Amendment
 

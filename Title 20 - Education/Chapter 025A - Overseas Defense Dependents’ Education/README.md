@@ -17,6 +17,9 @@
 | (b) | Determination of amount of tuition; use of payments. |
 | (c) | Regulations respecting enrollment requirements. |
 | (d) | Enrollment of certain children in overseas schools. |
+| [923a.](%C2%A7%2000923a%20-%20Enrollment%20of%20certain%20additional%20children%20on%20tuition-free%20basis.md) | Enrollment of certain additional children on tuition-free basis. |
+| (a) | Enrollment authorized. |
+| (b) | Funding. |
 | [924\.](%C2%A7%2000924%20-%20Annual%20educational%20assessment.md) | Annual educational assessment. |
 | (a) | Contents. |
 | (b) | Availability. |
@@ -57,6 +60,7 @@
 - [&sect; 00921 - Defense dependents&#8217; education system](%C2%A7%2000921%20-%20Defense%20dependents%E2%80%99%20education%20system.md)
 - [&sect; 00922 - Administration of defense dependents&#8217; education system](%C2%A7%2000922%20-%20Administration%20of%20defense%20dependents%E2%80%99%20education%20system.md)
 - [&sect; 00923 - Space-available enrollment of students; tuition](%C2%A7%2000923%20-%20Space-available%20enrollment%20of%20students%3B%20tuition.md)
+- [&sect; 00923a - Enrollment of certain additional children on tuition-free basis](%C2%A7%2000923a%20-%20Enrollment%20of%20certain%20additional%20children%20on%20tuition-free%20basis.md)
 - [&sect; 00924 - Annual educational assessment](%C2%A7%2000924%20-%20Annual%20educational%20assessment.md)
 - [&sect; 00925 - Budget request for school construction funds for Director of Dependents&#8217; Education](%C2%A7%2000925%20-%20Budget%20request%20for%20school%20construction%20funds%20for%20Director%20of%20Dependents%E2%80%99%20Education.md)
 - [&sect; 00926 - School system for dependents in overseas areas](%C2%A7%2000926%20-%20School%20system%20for%20dependents%20in%20overseas%20areas.md)

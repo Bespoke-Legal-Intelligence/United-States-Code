@@ -4,7 +4,7 @@
 
 (b)(1) This subsection applies—
 
-&emsp;(A) to a regular officer of an armed force on the active-duty list (and a regular officer of the Coast Guard on the active duty promotion list);
+&emsp;(A) to a regular officer of an armed force on the active-duty list (and a regular officer ofthe Coast Guard on the active duty promotion list);
 
 &emsp;(B) to a retired regular officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days; and
 
@@ -82,9 +82,5 @@ Section 1002(b), (c) of Pub. L. 98–94 provided that:
 
 &emsp;“(2) to have terminated the military appointment of an officer of an Armed Force by reason of the acceptance of a civil office, or the exercise of its functions, by that officer in furtherance of assigned official duties.
 
-“(c) Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall preclude a Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act \[Sept. 24, 1983\], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 806 of this title; title 40 section 311; title 44 section 2105.
+“(c) Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall precludea Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act \[Sept. 24, 1983\], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election.”
 

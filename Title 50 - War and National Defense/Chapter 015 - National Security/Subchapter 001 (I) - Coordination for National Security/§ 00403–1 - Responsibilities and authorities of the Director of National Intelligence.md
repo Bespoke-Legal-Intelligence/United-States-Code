@@ -52,7 +52,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 #### (d) Role of Director of National Intelligence in transfer and reprogramming of funds
 
-(1)(A) No funds made available under the National Intelligence Program may be transferred or reprogrammed without the prior approval of the Director of National Intelligence, except in accordance with procedures prescribed by the Director of National Intelligence.
+(1)(A) No funds made available under the National Intelligence Program may be transferredor reprogrammed without the prior approval of the Director of National Intelligence, except in accordance with procedures prescribed by the Director of National Intelligence.
 
 (B) The Secretary of Defense shall consult with the Director of National Intelligence before transferring or reprogramming funds made available under the Joint Military Intelligence Program.
 
@@ -244,7 +244,7 @@ The Director of National Intelligence, subject to the direction of the President
 
 &emsp;(3) ensure that security clearances granted by individual elements of the intelligence community are recognized by all elements of the intelligence community, and under contracts entered into by those agencies; and
 
-&emsp;(4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information is performed in the most expeditious manner possible consistent with applicable standards for national security.
+&emsp;(4) ensure that the process for investigation and adjudication of an application for access to sensitive compartmented information isperformed in the most expeditious manner possible consistent with applicable standards for national security.
 
 #### (k) Coordination with foreign governments
 
@@ -298,7 +298,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (1) In carrying out the responsibilities and authorities under this section, the Director of National Intelligence may exercise the acquisition and appropriations authorities referred to in the Central Intelligence Agency Act of 1949 (50 U.S.C. 403a et seq.) other than the authorities referred to in section 8(b) of that Act (50 U.S.C. 403j(b)).
 
-(2) For the purpose of the exercise of any authority referred to in paragraph (1), a reference to the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
+(2) For the purpose of the exercise of any authority referred to in paragraph (1), a referenceto the head of an agency shall be deemed to be a reference to the Director of National Intelligence or the Principal Deputy Director of National Intelligence.
 
 (3)(A) Any determination or decision to be made under an authority referred to in paragraph (1) by the head of an agency may be made with respect to individual purchases and contracts or with respect to classes of purchases or contracts, and shall be final.
 
@@ -370,6 +370,8 @@ Another prior section 403–1, act July 26, 1947, ch. 343, title I, §102a, as a
 
 #### Effective Date
 
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Joint Procedures for Operational Coordination Between Department of Defense and Central Intelligence Agency
@@ -434,7 +436,7 @@ Purpose.—The purpose of the relationship under subsection (a) shall be to perm
 
 #### Pilot Program on Analysis of Signals and Other Intelligence by Intelligence Analysts of Various Elements of the Intelligence Community
 
-Pub. L. 108–177, title III, §317, Dec. 13, 2003, 117 Stat. 2611, as amended by Pub. L. 108–458, title I, §§1071(g)(3)(A)(i), (ii), 1072(d)(2)(A), Dec. 17, 2004, 118 Stat. 3692, 3693, provided that:
+Pub. L. 108–177, title III, §317, Dec. 13, 2003, 117 Stat. 2611, as amended by Pub. L. 108–458, title I,§§1071(g)(3)(A)(i), (ii), 1072(d)(2)(A), Dec. 17, 2004, 118 Stat. 3692, 3693, provided that:
 
 “(a)
 
@@ -468,7 +470,7 @@ Various Mechanisms Required.—In carrying out the pilot program under subsectio
 
 “(f)
 
-Security.—(1) In carrying out the pilot program under subsection (a), the Director shall take appropriate actions to protect against the disclosure and unauthorized use of intelligence in the databases of theelements of the intelligence community which may endanger sources and methods which (as determined by the Director) warrant protection.
+Security.—(1) In carrying out the pilot program under subsection (a), the Director shall take appropriate actions to protect against the disclosure and unauthorized use of intelligence in the databases of the elements of the intelligence community which may endanger sources and methods which (as determined by the Director) warrant protection.
 
 “(2) The actions taken under paragraph (1) shall include the provision of training on the accessing and handling of information in the databases of various elements of the intelligence community and the establishment of limitations on access to information in such databases regarding United States persons.
 

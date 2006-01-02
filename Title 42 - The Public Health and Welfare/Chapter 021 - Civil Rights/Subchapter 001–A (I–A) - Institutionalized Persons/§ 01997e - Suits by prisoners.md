@@ -28,7 +28,7 @@ The failure of a State to adopt or adhere to an administrative grievance procedu
 
 (3) No award of attorney's fees in an action described in paragraph (1) shall be based on an hourly rate greater than 150 percent of the hourly rate established under section 3006A of title 18 for payment of court-appointed counsel.
 
-(4) Nothing in this subsection shall prohibit a prisoner from entering into an agreement to pay an attorney's fee in an amount greater than theamount authorized under this subsection, if the fee is paid by the individual rather than by the defendant pursuant to section 1988 <sup>1</sup> of this title.
+(4) Nothing in this subsection shall prohibit a prisoner from entering into an agreement to pay an attorney's fee in an amount greater than the amount authorized under this subsection, if the fee is paid by the individual rather than by the defendant pursuant to section 1988 <sup>1</sup> of this title.
 
 #### (e) Limitation on recovery
 

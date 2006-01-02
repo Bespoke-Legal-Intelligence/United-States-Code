@@ -2,7 +2,7 @@
 
 #### (a) Office of Management Conference of the Long Island Sound Study
 
-The Administrator shall continue the Management Conference of the Long Island Sound Study (hereinafter referred to as the “Conference”) as established pursuant to section 1330 of this title, and shall establish an office (hereinafter referred to as the “Office”) to be located on or near Long Island Sound.
+The Administrator shall continue the Management Conference of the Long Island SoundStudy (hereinafter referred to as the “Conference”) as established pursuant to section 1330 of this title, and shall establish an office (hereinafter referred to as the “Office”) to be located on or near Long Island Sound.
 
 #### (b) Administration and staffing of Office
 
@@ -72,17 +72,19 @@ The Office shall assist the Management Conference of the Long Island Sound Study
 
 #### (f) Authorizations
 
-(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 2001 through 2005.
+(1) There is authorized to be appropriated to the Administrator for the implementation of this section, other than subsection (d) of this section, such sums as may be necessary for each of the fiscal years 2001 through 2010.
 
-(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $40,000,000 for each of fiscal years 2001 through 2005.
+(2) There is authorized to be appropriated to the Administrator for the implementation of subsection (d) of this section not to exceed $40,000,000 for each of fiscal years 2001 through 2010.
 
-(June 30, 1948, ch. 758, title I, §119, as added Pub. L. 101–596, title II, §202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, §583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§402—404, Nov. 7, 2000, 114 Stat. 1973.)
+(June 30, 1948, ch. 758, title I, §119, as added Pub. L. 101–596, title II, §202, Nov. 16, 1990, 104 Stat. 3004; amended Pub. L. 104–303, title V, §583, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–457, title IV, §§402—404, Nov. 7, 2000, 114 Stat. 1973; Pub. L. 109–137, §1, Dec. 22, 2005, 119 Stat. 2646.)
 
 #### References in Text
 
 The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (c)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (f). Pub. L. 109–137 substituted “2010” for “2005” in pars. (1) and (2).
 
 2000—Subsec. (c)(1). Pub. L. 106–457, §402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
 

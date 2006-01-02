@@ -44,7 +44,7 @@ For purposes of this subchapter:
 
 (7) The term “medically underserved population” means the population of an urban or rural area designated by the Secretary as an area with a shortage of personal health services or a population group designated by the Secretary as having a shortage of such services. Such a designation may be made by the Secretary only after consideration of the comments (if any) of (A) each State health planning and development agency which covers (in whole or in part) such urban or rural area or the area in which such population group resides, and (B) each health systems agency designated for a health service area which covers (in whole or in part) such urban or rural area or the area in which such population group resides.
 
-(8)(A) The term “community rating system” means the systems, described in subparagraphs (B) and (C), of fixing rates of payments for health services. A health maintenance organization may fix its rates of payments under the system described in subparagraph (B) or (C) or under both such systems, but a health maintenance organization may use only one such system for fixing its rates of payments for any one group.
+(8)(A) The term “community rating system” means the systems, described in subparagraphs\(B) and (C), of fixing rates of payments for health services. A health maintenance organization may fix its rates of payments under the system described in subparagraph (B) or (C) or under both such systems, but a health maintenance organization may use only one such system for fixing its rates of payments for any one group.
 
 (B) A system of fixing rates of payment for health services may provide that the rates shall be fixed on a per-person or per-family basis and may authorize the rates to vary with the number of persons in a family, but, except as authorized in subparagraph (D), such rates must be equivalent for all individuals and for all families of similar composition.
 
@@ -152,7 +152,7 @@ Section 816 of title VIII of Pub. L. 99–660 provided that: “The provisions o
 
 #### Basic Health Service Status of Certain Organ Transplant Services After April 1, 1988
 
-Section 812(b)(2) of Pub. L. 99–660, which provided that after Apr. 1, 1988, for purposes of this subchapter, no health service directly associated with an organ transplant was to be considered to be a basic health service if such service would otherwise have been added as a basic health service between Apr. 15, 1985, and Apr. 1, 1988, was repealed by Pub. L. 100–517, §6(a), Oct. 24, 1988, 102 Stat. 2579.
+Section 812(b)(2) of Pub. L. 99–660, which provided that after Apr. 1, 1988, for purposes of this subchapter, no health service directly associated with an organ transplant was to be considered to be a basic health service if such service would otherwise have been added as a basic health service between Apr. 15, 1985, and Apr.1, 1988, was repealed by Pub. L. 100–517, §6(a), Oct. 24, 1988, 102 Stat. 2579.
 
 #### Reports Respecting Medically Underserved Areas and Population Groups and Non-Metropolitan Areas
 

@@ -106,7 +106,7 @@ In the case of the 50,000 mile standards and the 100,000 mile standards, for pur
 
 #### (b) Exhaust standards for light-duty trucks of more than 3,750 lbs. LVW and up to 5,750 lbs. LVW and up to 6,000 lbs. GVWR
 
-The standards set forth in this paragraph shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 3,750 lbs. loaded vehicle weight (lvw) but not more than 5,750 lbs. lvw and not more than 6,000 lbs. gross weight rating (GVWR):
+The standards set forth in this paragraph <sup>1</sup> shall apply in the case of clean-fuel vehicles which are light-duty trucks of more than 3,750 lbs. loaded vehicle weight (lvw) but not more than 5,750 lbs. lvw and not more than 6,000 lbs. gross weight rating (GVWR):
 
 #### (1) Phase I
 
@@ -247,7 +247,7 @@ For the 50,000 mile standards and the 120,000 mile standards set forth in the ta
 
 #### (1) In general
 
-&emsp;The Administrator shall establish standards and requirements under this section for the model year 1996 and thereafter for vehicles weighing not more than 8,500 lbs. gvwr which are capable of operating on more than one fuel. Such standards shall require that such vehicles meet the exhaust standards applicable under subsection <sup>1</sup> (a), (b), and (c) of this section for CO, NO<sub>x</sub>, and HCHO, and if appropriate, PM for single-fuel vehicles of the same vehicle category and model year.
+&emsp;The Administrator shall establish standards and requirements under this section for the model year 1996 and thereafter for vehicles weighing not more than 8,500 lbs. gvwr which are capable of operating on more than one fuel. Such standards shall require that such vehicles meet the exhaust standards applicable under subsection <sup>2</sup> (a), (b), and (c) of this section for CO, NO<sub>x</sub>, and HCHO, and if appropriate, PM for single-fuel vehicles of the same vehicle category and model year.
 
 #### (2) Exhaust NMOG standard for operation on clean alternative fuel
 
@@ -329,5 +329,7 @@ Notwithstanding any provision of the Low-Emission Vehicle and Clean Fuels Regula
 
 (July 14, 1955, ch. 360, title II, §243, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2514.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsections”.</i>
 

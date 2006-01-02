@@ -8,7 +8,7 @@ In this chapter:
 
 #### (2) State
 
-&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa,and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 107–12, §5, May 30, 2001, 115 Stat. 22.)
 

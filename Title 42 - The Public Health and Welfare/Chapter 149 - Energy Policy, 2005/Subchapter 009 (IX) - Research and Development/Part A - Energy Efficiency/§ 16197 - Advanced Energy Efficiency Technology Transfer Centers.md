@@ -1,0 +1,72 @@
+### §16197. Advanced Energy Efficiency Technology Transfer Centers
+
+#### (a) Grants
+
+Not later than 18 months after August 8, 2005, the Secretary shall make grants to nonprofit institutions, State and local governments, or universities (or consortia thereof), to establish a geographically dispersed network of Advanced Energy Efficiency Technology Transfer Centers, to be located in areas the Secretary determines have the greatest need of the services of such Centers. In establishing the network, the Secretary shall consider the special needs and opportunities for increased energy efficiency for manufactured and site-built housing.
+
+#### (b) Activities
+
+#### (1) In general
+
+&emsp;Each Center shall operate a program to encourage demonstration and commercial application of advanced energy methods and technologies through education and outreach to building and industrial professionals, and to other individuals and organizations with an interest in efficient energy use.
+
+#### (2) Advisory panel
+
+&emsp;Each Center shall establish an advisory panel to advise the Center on how best to accomplish the activities under paragraph (1).
+
+#### (c) Application
+
+A person seeking a grant under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require. The Secretary may award a grant under this section to an entity already in existence if the entity is otherwise eligible under this section.
+
+#### (d) Selection criteria
+
+The Secretary shall award grants under this section on the basis of the following criteria, at a minimum:
+
+&emsp;(1) The ability of the applicant to carry out the activities described in subsection (b)(1).
+
+&emsp;(2) The extent to which the applicant will coordinate the activities of the Center with other entities, such as State and local governments, utilities, and educational and research institutions.
+
+#### (e) Cost-sharing
+
+In carrying out this section, the Secretary shall require cost-sharing in accordance with the requirements of section 16352 of this title for commercial application activities.
+
+#### (f) Advisory committee
+
+The Secretary shall establish an advisory committee to advise the Secretary on the establishment of Centers under this section. The advisory committee shall be composed of individuals with expertise in the area of advanced energy methods and technologies, including at least one representative from—
+
+&emsp;(1) State or local energy offices;
+
+&emsp;(2) energy professionals;
+
+&emsp;(3) trade or professional associations;
+
+&emsp;(4) architects, engineers, or construction professionals;
+
+&emsp;(5) manufacturers;
+
+&emsp;(6) the research community; and
+
+&emsp;(7) nonprofit energy or environmental organizations.
+
+#### (g) Definitions
+
+For purposes of this section:
+
+#### (1) Advanced energy methods and technologies
+
+&emsp;The term “advanced energy methods and technologies” means all methods and technologies that promote energy efficiency and conservation, including distributed generation technologies, and life-cycle analysis of energy use.
+
+#### (2) Center
+
+&emsp;The term “Center” means an Advanced Energy Technology Transfer Center established pursuant to this section.
+
+#### (3) Distributed generation
+
+&emsp;The term “distributed generation” means an electric power generation facility that is designed to serve retail electric consumers at or near the facility site.
+
+#### (h) Authorization of appropriations
+
+In addition to amounts otherwise authorized to be appropriated in section 16191 of this title, there are authorized to be appropriated for the program under this section such sums as may be appropriated.
+
+(Pub. L. 109–58, title IX, §917, Aug. 8, 2005, 119 Stat. 863.)
+

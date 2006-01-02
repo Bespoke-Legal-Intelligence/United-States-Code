@@ -13,10 +13,6 @@
 
 1988—Pub. L. 100–647, title VII, §7106(a), Nov. 10, 1988, 102 Stat. 3772, reenacted chapter heading and item 3321 without change, substituted “Definitions” for “Taxable period” in item 3322, and omitted item 3323 “Other definitions”.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 6513 of this title.
-
 
 ---
 

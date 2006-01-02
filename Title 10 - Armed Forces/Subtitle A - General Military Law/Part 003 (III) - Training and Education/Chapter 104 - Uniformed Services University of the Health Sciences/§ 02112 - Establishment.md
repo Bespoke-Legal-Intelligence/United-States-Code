@@ -66,7 +66,7 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 
 &emsp;“(3) A review of the quality of the medical education provided at the University with the quality of medical education provided by other sources of military physicians.
 
-&emsp;“(4) A review of the overall issue of the special needs of military medicine and how those special needs are being met by physicians obtained from University and physicians obtained from other sources.
+&emsp;“(4) A review of the overall issue of the special needs of military medicine and how those specialneeds are being met by physicians obtained from University and physicians obtained from other sources.
 
 &emsp;“(5) An assessment of the extent to which the University has responded to the 1990 report of the Inspector General of the Department of Defense, including recommendations as to resolution of any continuing issues relating to management and internal fiscal controls of the University, including issues relating to the Henry M. Jackson Foundation for the Advancement of Military Medicine identified in the 1990 report.
 
@@ -75,8 +75,4 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 #### F. Edward He�AE1bert School of Medicine
 
 Pub. L. 98–94, title XII, §1265, Sept. 24, 1983, 97 Stat. 704, provided that: “The School of Medicine of the Uniformed Services University of the Health Sciences shall after the date of the enactment of this Act \[Sept. 24, 1983\] be known and designated as the ‘F. Edward He�AE1bert School of Medicine’. Any reference to such school of medicine in any law, regulation, map, document, or other record of the United States shall after such date be deemed to be a reference to such school of medicine as the F. Edward He�AE1bert School of Medicine.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2173 of this title.
 

@@ -90,6 +90,12 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 Provisions authorizing the travel expenses of the judges of the United States Tax Court to be paid upon the written certificate of the judge were contained in the following appropriation acts:
 
+Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490.
+
+Pub. L. 108–447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3264.
+
+Pub. L. 108–199, div. F, title IV, Jan. 23, 2004, 118 Stat. 340.
+
 Pub. L. 108–7, div. J, title IV, Feb. 20, 2003, 117 Stat. 460.
 
 Pub. L. 107–67, title IV, Nov. 12, 2001, 115 Stat. 543.
@@ -189,8 +195,4 @@ June 1, 1955, ch. 113, title III, 69 Stat. 78.
 #### Executive Order No. 12064
 
 Ex. Ord. No. 12064, June 5, 1978, 43 F.R. 24661, which established the United States Tax Court Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7443A, 7447, 7448 of this title.
 

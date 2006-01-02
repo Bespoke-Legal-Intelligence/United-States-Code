@@ -26,25 +26,21 @@ Selection and Payment of Special Pay or Bonus.—Not later than the date on whic
 
 (d)
 
-Repayment of Bonus.—(1) A member who, having entered into a written agreement to extend a tour of duty for a period under subsection (a), receives a bonus payment under subsection (b)(2) for a 12-month period covered by the agreement and ceases during that 12-month period to perform the agreed tour of duty shall refund to the United States the unearned portion of the bonus. The unearned portion of the bonus is the amount by which the amount of the bonus paid to the member exceeds the amount determined by multiplying the amount of the bonus paid by the percent determined by dividing 12 into the number of full months during which the member performed the duty in the 12-month period.
-
-(2) The Secretary concerned may waive the obligation of a member to reimburse the United States under paragraph (1) if the Secretary determines that conditions and circumstances warrant the waiver.
-
-(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of the agreement does not discharge the member signing the agreement from a debt arising under the agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998.
+Repayment.—A member who, having entered into a written agreement to extend a tour of duty for a period under subsection (a), receives a bonus payment under subsection (b)(2) for a 12-month period covered by the agreement and ceases during that 12-month period to perform the agreed tour of duty shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (e)
 
 Effect of Rest and Recuperative Absence.—A member who elects to receive one of the benefits specified in section 705(b) of title 10 as part of the extension of a tour of duty is not entitled to the special pay authorized by subsection (b)(1) for the period of the extension of duty for which the benefit under such section is provided.
 
-(Added Pub. L. 96–579, §5(a)(1), Dec. 23, 1980, 94 Stat. 3366; amended Pub. L. 99–145, title VI, §641(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 105–85, div. A, title VI, §625(a)(1), Nov. 18, 1997, 111 Stat. 1794; Pub. L. 107–314, div. A, title VI, §654(b)(1), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §621(a)(1), (2)(A), Nov. 24, 2003, 117 Stat. 1505.)
+(Added Pub. L. 96–579, §5(a)(1), Dec. 23, 1980, 94 Stat. 3366; amended Pub. L. 99–145, title VI, §641(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 105–85, div. A, title VI, §625(a)(1), Nov. 18, 1997, 111 Stat. 1794; Pub. L. 107–314, div. A, title VI, §654(b)(1), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, §621(a)(1), (2)(A), Nov. 24, 2003, 117 Stat. 1505; Pub. L. 109–163, div. A, title VI, §687(b)(23), Jan. 6, 2006, 119 Stat. 3331.)
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
 
 #### Amendments
+
+2006—Subsec. (d). Pub. L. 109–163 amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when member receives bonus payment but fails to complete agreed upon extended tour of duty.
 
 2003—Pub. L. 108–136, §621(a)(2)(A), substituted “qualified members” for “qualified enlisted members” in section catchline.
 
@@ -67,4 +63,8 @@ Section 641(b) of Pub. L. 99–145 provided that: “The amendment made by subse
 #### Effective Date
 
 Section 5(c)(1) of Pub. L. 96–579 provided: “Section 314 of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month following the month in which this section is enacted \[Dec. 1980\] and shall apply to periods of extended duty overseas beginning before, on, or after such date, but no payment may be made under such section for any month before the first day of the first month following the month in which this section is enacted.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

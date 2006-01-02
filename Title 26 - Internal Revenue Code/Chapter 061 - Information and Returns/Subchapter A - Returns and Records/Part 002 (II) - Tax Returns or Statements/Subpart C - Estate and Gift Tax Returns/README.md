@@ -7,10 +7,6 @@ Subpart C—Estate and Gift Tax Returns
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 6011 of this title.
-
 
 ---
 

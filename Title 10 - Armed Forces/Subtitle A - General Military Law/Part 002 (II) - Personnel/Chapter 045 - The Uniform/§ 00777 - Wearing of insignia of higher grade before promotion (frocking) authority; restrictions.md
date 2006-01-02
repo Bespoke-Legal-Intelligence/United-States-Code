@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—An officer who has been selected for promotion to the next higher grade may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that next higher grade. An officer who is so authorized to wear the insignia of the next higher grade is said to be “frocked” to that grade.
+Authority.—An officer in a grade below the grade of major general or, in the case of the Navy, rear admiral, who has been selected for promotion to the next higher grade may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that next higher grade. An officer who is so authorized to wear the insignia of the next higher grade is said to be “frocked” to that grade.
 
 (b)
 
@@ -34,13 +34,21 @@ Benefits Not To Be Construed as Accruing.—(1) Authority provided to an officer
 
 (d)
 
-Limitation on Number of Officers Frocked to Specified Grades.—(1) The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.
+Limitation on Number of Officers Frocked to Specified Grades.—(1) The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
 
-(2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
+(2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, ofthe total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
-(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, §502, Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, §509(a), Nov. 24, 2003, 117 Stat. 1458.)
+(Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, §502, Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, §509(a), Nov. 24, 2003, 117 Stat. 1458; Pub. L. 108–375, div. A, title V, §503, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §§503(c), 504, Jan. 6, 2006, 119 Stat. 3226.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163, §503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
+
+Subsec. (d)(1). Pub. L. 109–163, §504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grade may not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
+
+Subsec. (d)(2), (3). Pub. L. 109–163, §504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
+
+2004—Subsec. (d). Pub. L. 108–375 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 2003—Subsec. (b)(3). Pub. L. 108–136 added par. (3).
 
@@ -61,8 +69,4 @@ Pub. L. 108–136, div. A, title V, §509(b), Nov. 24, 2003, 117 Stat. 1459, pro
 #### Temporary Variation of Limitations on Numbers of Frocked Officers
 
 Section 503(b) of Pub. L. 104–106 provided that: “In the administration of section 777(d)(2) of title 10, United States Code (as added by subsection (a)), the percent limitation applied under that section for fiscal year 1996 shall be 2 percent (instead of 1 percent).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 721 of this title.
 

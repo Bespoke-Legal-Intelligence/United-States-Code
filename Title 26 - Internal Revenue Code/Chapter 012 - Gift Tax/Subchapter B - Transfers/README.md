@@ -21,7 +21,7 @@
 
 1981—Pub. L. 97–34, title IV, §403(c)(3)(C), (d)(3)(B)(ii), Aug. 13, 1981, 95 Stat. 302, 304, as amended Pub. L. 97–448, title I, §104(a)(3)(B), Jan. 12, 1983, 96 Stat. 2380, struck out items 2515 “Tenancies by the entirety in real property” and 2515A “Tenancies by the entirety in personal property” and added item 2519.
 
-1978—Pub. L. 95–600, title VII, §702(k)(1)(C), Nov. 6, 1978, 92 Stat. 2932, substituted in item 2515 “Tenanciesby the entirety in real property” for “Tenancies by the entirety” and added item 2515A.
+1978—Pub. L. 95–600, title VII, §702(k)(1)(C), Nov. 6, 1978, 92 Stat. 2932, substituted in item 2515 “Tenancies by the entirety in real property” for “Tenancies by the entirety” and added item 2515A.
 
 1976—Pub. L. 94–455, title XX, §2009(b)(3)(A), Oct. 4, 1976, 90 Stat. 1894, added item 2518.
 

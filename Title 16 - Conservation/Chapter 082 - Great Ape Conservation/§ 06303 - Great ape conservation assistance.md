@@ -50,7 +50,7 @@ Subject to the availability of funds and in consultation with other appropriate 
 
 &emsp;&emsp;(A) not later than 30 days after receiving a project proposal, provide a copy of the proposal to other appropriate Federal officials; and
 
-&emsp;&emsp;(B) review each project proposal in a timely manner to determine if the proposalmeets the criteria specified in subsection (d) of this section.
+&emsp;&emsp;(B) review each project proposal in a timely manner to determine if the proposal meets the criteria specified in subsection (d) of this section.
 
 #### (2) Consultation; approval or disapproval
 

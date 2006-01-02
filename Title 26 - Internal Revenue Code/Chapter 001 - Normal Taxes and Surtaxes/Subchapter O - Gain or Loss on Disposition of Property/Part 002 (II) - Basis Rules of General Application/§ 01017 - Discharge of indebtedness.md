@@ -38,7 +38,7 @@ If—
 
 #### (C) Special rule for partnership interests
 
-&emsp;&emsp;For purposes of this section, any interest of a partner in a partnership shall be treated as depreciable property to the extent of such partner's proportionate interest in the depreciable property held by such partnership. The preceding sentence shall apply only if there is a corresponding reduction in thepartnership's basis in depreciable property with respect to such partner.
+&emsp;&emsp;For purposes of this section, any interest of a partner in a partnership shall be treated as depreciable property to the extent of such partner's proportionate interest in the depreciable property held by such partnership. The preceding sentence shall apply only if there is a corresponding reduction in the partnership's basis in depreciable property with respect to such partner.
 
 #### (D) Special rule in case of affiliated group
 
@@ -179,8 +179,4 @@ Amendment by section 822(b)(4), (5) of Pub. L. 99–514 applicable to discharges
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–589 applicable to transactions which occur after Dec. 31, 1980, other than transactions which occur in a proceeding in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11 commencing on or after Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to transactions occurring after Sept. 30, 1979 in a specified manner, see section 7(a) and (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 108, 312, 1033 of this title.
 

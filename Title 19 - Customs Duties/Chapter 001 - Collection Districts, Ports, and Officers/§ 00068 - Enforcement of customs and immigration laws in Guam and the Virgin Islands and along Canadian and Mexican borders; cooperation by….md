@@ -8,7 +8,7 @@ To aid in the enforcement of the customs and immigration laws along the Canadian
 
 1974—Pub. L. 93–396 substituted “$200,000” for “$100,000”.
 
-1965—Pub. L. 89–87 extended to Guam and the Virgin Islands the authority of the Attorney General and the Secretary of the Treasury to construct facilities for the enforcement of the customs and immigration laws.
+1965—Pub. L. 89–87 extended to Guam and the Virgin Islands the authority of the Attorney General and theSecretary of the Treasury to construct facilities for the enforcement of the customs and immigration laws.
 
 1962—Pub. L. 87–465 substituted “$100,000” for “$40,000” and “$80,000”.
 

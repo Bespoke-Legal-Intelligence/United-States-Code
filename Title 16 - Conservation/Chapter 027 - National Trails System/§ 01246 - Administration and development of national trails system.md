@@ -18,7 +18,7 @@ National scenic or national historic trails may contain campsites, shelters, and
 
 #### (d) Use and acquisition of lands within exterior boundaries of areas included within right-of-way
 
-Within the exterior boundaries of areas under their administration that are included in the right-of-way selected for a national recreation, national scenic, or national historic trail, the heads of Federal agencies may use lands for trail purposes and may acquire lands or interests in lands by written cooperative agreement, donation, purchase with donated or appropriated funds or exchange.
+Within the exterior boundaries of areas under their administration that are included in the right-of-way selected for a national recreation, national scenic, or national historic trail, theheads of Federal agencies may use lands for trail purposes and may acquire lands or interests in lands by written cooperative agreement, donation, purchase with donated or appropriated funds or exchange.
 
 #### (e) Right-of-way lands outside exterior boundaries of federally administered areas; cooperative agreements or acquisition; failure to agree or acquire; agreement or acquisition by Secretary concerned; right of first refusal for original owner upon disposal
 

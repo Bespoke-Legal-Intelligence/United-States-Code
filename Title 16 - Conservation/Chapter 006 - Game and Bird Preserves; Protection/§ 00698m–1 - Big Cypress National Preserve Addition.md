@@ -22,7 +22,7 @@ The area within the boundaries depicted on the map referred to in subsection (b)
 
 #### (d) Completion of land acquisition; time
 
-For purposes of administering the Addition and notwithstanding section 698g(c) of this title, it is the express intent of the Congress that theSecretary should substantially complete the land acquisition program contemplated with respect to the Addition in not more than five years after April 29, 1988.
+For purposes of administering the Addition and notwithstanding section 698g(c) of this title, it is the express intent of the Congress that the Secretary should substantially complete the land acquisition program contemplated with respect to the Addition in not more than five years after April 29, 1988.
 
 (Pub. L. 93–440, §9, as added Pub. L. 100–301, §3(a), Apr. 29, 1988, 102 Stat. 444.)
 

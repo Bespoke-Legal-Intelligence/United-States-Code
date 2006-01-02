@@ -62,7 +62,7 @@ Pub. L. 99–272, title VI, §6041, Apr. 7, 1986, 100 Stat. 124, provided that: 
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
+Section 1 of Pub. L. 96–464 provided: “That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and1463a of this title\] may be cited as the ‘Coastal Zone Management Improvement Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 
@@ -156,7 +156,7 @@ Assessment of Harmful Algal Blooms.—
 
 Assessment of Hypoxia.—
 
-&emsp;“(1) Not later than 12 months after the date of the enactment of this title \[Nov. 13, 1998\], the Task Force, in cooperation with the States, Indian tribes, local governments, industry, agricultural, academic institutions, and non-governmental organizations with expertise in watershed and coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of hypoxia in United States coastal waters, alternatives for reducing, mitigating, and controlling hypoxia, and the social and economic costs and benefits of such alternatives.
+&emsp;“(1) Not later than 12 months after the date of the enactment of this title \[Nov. 13, 1998\], the Task Force, in cooperation with the States, Indian tribes, local governments, industry, agricultural, academicinstitutions, and non-governmental organizations with expertise in watershed and coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of hypoxia in United States coastal waters, alternatives for reducing, mitigating, and controlling hypoxia, and the social and economic costs and benefits of such alternatives.
 
 &emsp;“(2) The assessment shall—
 
@@ -198,7 +198,7 @@ Local and Regional Scientific Assessments.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Commerce, in coordination with the Task Force and appropriateState, Indian tribe, and local governments, to the extent of funds available, shall provide for local and regional scientific assessments of hypoxia and harmful algal blooms, as requested by States, Indian tribes, and local governments, or for affected areas as identified by the Secretary. If the Secretary receives multiple requests, the Secretary shall ensure, to the extent practicable, that assessments under this subsection cover geographically and ecologically diverse locations with significant ecological and economic impacts from hypoxia or harmful algal blooms. The Secretary shall establish a procedure for reviewing requests for local and regional assessments. The Secretary shall ensure, through consultation with Sea Grant Programs, that the findings of the assessments are communicated to the appropriate State, Indian tribe, and local governments, and to the general public.
+In general.—The Secretary of Commerce, in coordination with the Task Force and appropriate State, Indian tribe, and local governments, to the extent of funds available, shall provide for local and regional scientific assessments of hypoxia and harmful algal blooms, as requested by States, Indian tribes, and local governments, or for affected areas as identified by the Secretary. If the Secretary receives multiple requests, the Secretary shall ensure, to the extent practicable, that assessments under this subsection cover geographically and ecologically diverse locations with significant ecological and economic impacts from hypoxia or harmful algal blooms. The Secretary shall establish a procedure for reviewing requests for local and regional assessments. The Secretary shall ensure, through consultation with Sea Grant Programs, that the findings of the assessments are communicated to the appropriate State, Indian tribe, and local governments, and to the general public.
 
 &emsp;“(2)
 
@@ -272,7 +272,7 @@ Assessment Report.—Not later than May 30, 1999, the Task Force shall complete 
 
 “(b)
 
-Submission of a Plan.—No later than March 30, 2000, the President, in conjunction with the chief executive officers of the States, shall develop and submit to Congress a plan, based on the integrated assessmentsubmitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the northern Gulf of Mexico. In developing such plan, the President shall consult with State, Indian tribe, and local governments, academic, agricultural, industry, and environmental groups and representatives. Such plan shall include incentive-based partnership approaches. The plan shall also include the social and economic costs and benefits of the measures for reducing, mitigating, and controlling hypoxia. At least 90 days before the President submits such plan to the Congress, a summary of the proposed plan shall be published in the Federal Register for a public comment period of not less than 60 days.
+Submission of a Plan.—No later than March 30, 2000, the President, in conjunction with the chief executive officers of the States, shall develop and submit to Congress a plan, based on the integrated assessment submitted under subsection (a), for reducing, mitigating, and controlling hypoxia in the northern Gulf of Mexico. In developing such plan, the President shall consult with State, Indian tribe, and local governments, academic, agricultural, industry, and environmental groups and representatives. Such plan shall include incentive-based partnership approaches. The plan shall also include the social and economic costs and benefits of the measures for reducing, mitigating, and controlling hypoxia. At least 90 days before the President submits such plan to the Congress, a summary of the proposed plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
 #### “SEC. 605. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -324,7 +324,7 @@ Findings.—Congress finds and declares the following:
 
 “(b)
 
-Purpose.—It is the purpose of Congress in this subtitle \[see Short Title of 1990 Amendment note above\] to enhance the effectiveness of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\] by increasing our understanding of the coastal environmentand expanding the ability of State coastal zone management programs to address coastal environmental problems.”
+Purpose.—It is the purpose of Congress in this subtitle \[see Short Title of 1990 Amendment note above\] to enhance the effectiveness of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1451 et seq.\] by increasing our understanding of the coastal environment and expanding the ability of State coastal zone management programs to address coastal environmental problems.”
 
 #### Establishment of Positions and Fixing of Compensation by Secretary of Commerce; Appointments
 

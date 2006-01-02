@@ -84,7 +84,7 @@ In general.—Any copyright owner who is injured, or is threatened with injury, 
 
 Discretion of court.—In any action brought under paragraph (1), the court—
 
-&emsp;&emsp;(A) may grant 1 or more temporary or permanent injunctions on such terms as the court determines to be reasonable to prevent or restrain a violation of subsection (a);
+&emsp;&emsp;(A) may grant 1 or more temporary or permanent injunctions on such terms as thecourt determines to be reasonable to prevent or restrain a violation of subsection (a);
 
 &emsp;&emsp;(B) at any time while the action is pending, may order the impounding, on such terms as the court determines to be reasonable, of any article that is in the custody or control of the alleged violator and that the court has reasonable cause to believe was involved in a violation of subsection (a); and
 
@@ -162,7 +162,7 @@ Subsec. (c)(3). Pub. L. 108–482, §102(a)(4)(A), added par. (3) and struck for
 
 Subsec. (c)(4). Pub. L. 108–482, §102(a)(4)(B), struck out “for a computer program” after “packaging”.
 
-Subsec. (d). Pub. L. 108–482, §102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two places and inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
+Subsec. (d). Pub. L. 108–482, §102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two placesand inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
 
 Subsec. (f). Pub. L. 108–482, §102(b), added subsec. (f).
 

@@ -128,7 +128,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after Jan. 1, 1993, see section 13221(d) of Pub. L. 103–66, set out as a note under section 11 of this title.
+Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after Jan. 1, 1993, see section13221(d) of Pub. L. 103–66, set out as a note under section 11 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -311,8 +311,4 @@ Pass-through entity defined.—For purposes of clause (i), the term ‘pass-thro
 #### Study of Effects of Changes in the Tax Treatment of Capital Gains on Stimulating Investment and Economic Growth
 
 Section 555 of Pub. L. 95–600 required the Secretary of the Treasury to submit to specific committees of Congress a report, not later than Sept. 30, 1981, respecting effects of changes in tax treatment of capital gains on stimulating investment and economic growth as a result of the enactment of title V of Pub. L. 95–600.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12, 453A, 527, 594, 691, 801, 831, 852, 857, 882, 904, 1374, 1381, 6425, 6655, 7518 of this title; title 46 App. section 1177.
 

@@ -4,7 +4,3 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 390.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 303, 642, 2013, 2053, 2106, 6166 of this title.
-

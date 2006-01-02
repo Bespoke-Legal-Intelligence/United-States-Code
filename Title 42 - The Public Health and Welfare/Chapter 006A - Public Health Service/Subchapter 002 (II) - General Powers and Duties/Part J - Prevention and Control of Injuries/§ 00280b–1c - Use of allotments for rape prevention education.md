@@ -26,11 +26,11 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $80,000,000 for each of fiscal years 2001 through 2005.
+&emsp;There is authorized to be appropriated to carry out this section $80,000,000 for each of fiscal years 2007 through 2011.
 
-#### (2) National resource center allotment
+#### (2) National sexual violence resource center allotment
 
-&emsp;Of the total amount made available under this subsection in each fiscal year, not more than the greater of $1,000,000 or 2 percent of such amount shall be available for allotment under subsection (b) of this section.
+&emsp;Of the total amount made available under this subsection in each fiscal year, not less than $1,500,000 shall be available for allotment under subsection (b) of this section.
 
 #### (d) Limitations
 
@@ -46,9 +46,13 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 &emsp;A State may not use more than 5 percent of the amount received by the State under this section for each fiscal year for administrative expenses.
 
-(July 1, 1944, ch. 373, title III, §393B, as added Pub. L. 106–386, div. B, title IV, §1401(a), Oct. 28, 2000, 114 Stat. 1512.)
+(July 1, 1944, ch. 373, title III, §393B, as added Pub. L. 106–386, div. B, title IV, §1401(a), Oct. 28, 2000, 114 Stat. 1512; amended Pub. L. 109–162, title III, §302, Jan. 5, 2006, 119 Stat. 3004.)
 
 #### Codification
 
 Another section 393B of act July 1, 1944, is classified to section 280b–1d of this title.
+
+#### Amendments
+
+2006—Subsec. (c). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text contained provisions in par. (1) authorizing appropriations for fiscal years 2001 through 2005 and in par. (2) directing an allotment under subsec. (b) of this section.
 

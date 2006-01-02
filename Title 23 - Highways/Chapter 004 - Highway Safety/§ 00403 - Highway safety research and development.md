@@ -2,31 +2,25 @@
 
 (a)
 
-Authority of the Secretary.—
+Authority of the Secretary.—The Secretary is authorized to use funds appropriated to carry out this section to—
 
-&emsp;(1)
+&emsp;(1) conduct research on all phases of highway safety and traffic conditions, including accident causation, highway or driver characteristics, communications, and emergency care;
 
-In general.—The Secretary is authorized to use funds appropriated to carry out this section to engage in research on all phases of highway safety and traffic conditions.
+&emsp;(2) conduct ongoing research into driver behavior and its effect on traffic safety;
 
-&emsp;(2)
+&emsp;(3) conduct research on, launch initiatives to counter, and conduct demonstration projects on fatigued driving by drivers of motor vehicles and distracted driving in such vehicles, including the effect that the use of electronic devices and other factors deemed relevant by the Secretary have on driving;
 
-Additional authority.—In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for—
+&emsp;(4) conduct training or education programs in cooperation with other Federal departments and agencies, States, private sector persons, highway safety personnel, and law enforcement personnel;
 
-&emsp;&emsp;(A) training or education of highway safety personnel, including training in work zone safety management,
+&emsp;(5) conduct research on, and evaluate the effectiveness of, traffic safety countermeasures, including seat belts and impaired driving initiatives;
 
-&emsp;&emsp;(B) research fellowships in highway safety,
+&emsp;(6) conduct research on, evaluate, and develop best practices related to driver education programs (including driver education curricula, instructor training and certification, program administration and delivery mechanisms) and make recommendations for harmonizing driver education and multistage graduated licensing systems;
 
-&emsp;&emsp;(C) development of improved accident investigation procedures,
+&emsp;(7) conduct research, training, and education programs related to older drivers;
 
-&emsp;&emsp;(D) emergency service plans,
+&emsp;(8) conduct demonstration projects; and
 
-&emsp;&emsp;(E) demonstration projects, and
-
-&emsp;&emsp;(F) related research and development activities which the Secretary deems will promote the purposes of this section.
-
-&emsp;(3)
-
-Safety defined.—As used in this section, the term “safety” includes highway safety and highway safety-related research and development, including research and development relating to highway and driver characteristics, crash investigations, communications, emergency medical care, and transportation of the injured.
+&emsp;(9) conduct research, training, and programs relating to motorcycle safety, including impaired driving.
 
 (b)
 
@@ -39,6 +33,10 @@ Drugs and Driver Behavior.—In addition to the research authorized by subsectio
 &emsp;(3) Measures that may deter drugged driving.
 
 &emsp;(4) Programs to train law enforcement officers on motor vehicle pursuits conducted by the officers.
+
+&emsp;(5) Technology to detect drug use and enable States to efficiently process toxicology evidence.
+
+&emsp;(6) Research on the effects of illicit drugs and the compound effects of alcohol and illicit drugs on impairment.
 
 (c) The research authorized by subsections (a) and (b) of this section may be conducted by the Secretary through grants and contracts with public and private agencies, institutions, and individuals.
 
@@ -66,13 +64,23 @@ Project selection.—In selecting projects to be conducted under this subsection
 
 Applicability of stevenson-wydler technology innovation act.—The research, development, or utilization of any technology pursuant to an agreement under the provisions of this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325.)
+(g)
+
+International Cooperation.—The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
+
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540.)
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classifiedgenerally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §2003(a), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
+
+Subsec. (b)(5), (6). Pub. L. 109–59, §2013(e), added pars. (5) and (6).
+
+Subsec. (g). Pub. L. 109–59, §2003(b), added subsec. (g).
 
 1998—Subsec. (a)(2)(A). Pub. L. 105–178, §2002(a), inserted “, including training in work zone safety management” after “personnel”.
 
@@ -96,6 +104,10 @@ Subsecs. (b), (c). Pub. L. 93–87, §208(a), added subsecs. (b) and (c).
 
 Subsecs. (d) to (f). Pub. L. 93–87, §§221, 222, 226(a), added subsecs. (d) to (f).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by section 2003(a), (b) of Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L. 109–59, set out as a note under section 402 of this title.
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and not applicable to funds appropriated or made available on or before Dec. 18, 1991, see section 2008 of Pub. L. 102–240, set out as a note under section 402 of this title.
@@ -103,6 +115,80 @@ Amendment by Pub. L. 102–240, except as otherwise provided, effective Dec. 18,
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed on page 134), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Research on Distracted, Inattentive, and Fatigued Drivers
+
+Pub. L. 109–59, title II, §2003(d), Aug. 10, 2005, 119 Stat. 1523, provided that: “In conducting research under section 403(a)(3) of title 23, United States Code, the Secretary \[of Transportation\] shall carry out not less than 2 demonstration projects to evaluate new and innovative means of combating traffic system problems caused by distracted, inattentive, or fatigued drivers. The demonstration projects shall be in addition to any other research carried out under such section.”
+
+#### Drug-Impaired Driving Enforcement
+
+Pub. L. 109–59, title II, §2013, Aug. 10, 2005, 119 Stat. 1539, provided that:
+
+“(a)
+
+Illicit Drug.—In this section, the term ‘illicit drug’ includes substances listed in schedules I through V of section 112(e) \[202(c)\] of the Controlled Substances Act (21 U.S.C. 812) not obtained by a legal and valid prescription.
+
+“(b)
+
+Duties.—The Secretary \[of Transportation\] shall—
+
+&emsp;“(1) advise and coordinate with other Federal agencies on how to address the problem of driving under the influence of an illegal drug; and
+
+&emsp;“(2) conduct research on the prevention, detection, and prosecution of driving under the influence of an illegal drug.
+
+“(c)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than 18 months after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\], in cooperation with the National Institutes of Health, shall submit toCongress a report on the problem of drug-impaired driving.
+
+&emsp;“(2)
+
+Contents.—The report shall include, at a minimum, the following:
+
+&emsp;&emsp;“(A) An assessment of methodologies and technologies for measuring driver impairment resulting from use of the most common illicit drugs (including the use of such drugs in combination with alcohol).
+
+&emsp;&emsp;“(B) Effective and efficient methods for training law enforcement personnel, including drug recognition experts, to detect or measure the level of impairment of a driver who is under the influence of an illicit drug by the use of technology or otherwise.
+
+&emsp;&emsp;“(C) A description of the role of drugs as causal factor in traffic crashes and the extent of the problem of drug-impaired driving.
+
+&emsp;&emsp;“(D) A description and assessment of current State and Federal laws relating to drug-impaired driving.
+
+&emsp;&emsp;“(E) Recommendations for addressing the problem of drug-impaired driving, including recommendations on levels of impairment.
+
+&emsp;&emsp;“(F) Recommendations for developing a model statute relating to drug-impaired driving.
+
+“(d)
+
+Model Statute.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] shall develop a model statute for States relating to drug-impaired driving.
+
+&emsp;“(2)
+
+Contents.—Based on recommendations and findings contained in the report submitted under subsection (c), the model statute may include—
+
+&emsp;&emsp;“(A) threshold levels of impairment for illicit drugs;
+
+&emsp;&emsp;“(B) practicable methods for detecting the presence of illicit drugs; and
+
+&emsp;&emsp;“(C) penalties for drug impaired driving.
+
+&emsp;“(3)
+
+Date.—The model statute shall be provided to States not later than 1 year after date of submission of the report under subsection (c).
+
+“(e)
+
+Research and Development.—\[Amended section 403(b) of this title.\]
+
+“(f)
+
+Funding.—Out of amounts made available to carry out section 403 of title 23, United States Code, for each of fiscal years 2006 through 2009, the Secretary \[of Transportation\] shall make available $1,200,000 for such fiscal year to carry out this section.”
 
 #### Safety Studies
 
@@ -270,7 +356,7 @@ Regulations.—The Secretary may issue regulations to assist States in implement
 
 “(g)
 
-Report.—Not later than 30 months after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary shall prepare and transmit to Congress a comprehensive report setting forth the results of the pilot program conducted under this section. Such report shall include any recommendations of the Secretaryconcerning the desirability and implementation of a system for random testing of such operators of motor vehicles.
+Report.—Not later than 30 months after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary shall prepare and transmit to Congress a comprehensive report setting forth the results of the pilot program conducted under this section. Such report shall include any recommendations of the Secretary concerning the desirability and implementation of a system for random testing of such operators of motor vehicles.
 
 “(h)
 
@@ -306,7 +392,7 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9,1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 #### Appropriations Authorizations
 

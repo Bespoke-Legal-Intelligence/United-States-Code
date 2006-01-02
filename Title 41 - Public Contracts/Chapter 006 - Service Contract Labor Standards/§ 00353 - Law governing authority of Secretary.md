@@ -2,7 +2,7 @@
 
 #### (a) Enforcement of chapter
 
-Sections 38 and 39 of this title shall govern the Secretary's authority to enforce this chapter, make rules, regulations, issue orders, hold hearings, and make decisions based upon findings of fact, and take other appropriate action hereunder.
+Sections 38 and 39 of this title shall govern the Secretary's authority to enforce this chapter,make rules, regulations, issue orders, hold hearings, and make decisions based upon findings of fact, and take other appropriate action hereunder.
 
 #### (b) Limitations and regulations allowing variations, tolerances, and exemptions
 
@@ -10,7 +10,7 @@ The Secretary may provide such reasonable limitations and may make such rules an
 
 #### (c) Predecessor contracts; employees’ wages and fringe benefits
 
-No contractor or subcontractor under a contract, which succeeds a contract subject to thischapter and under which substantially the same services are furnished, shall pay any service employee under such contract less than the wages and fringe benefits, including accrued wages and fringe benefits, and any prospective increases in wages and fringe benefits provided for in a collective-bargaining agreement as a result of arm's-length negotiations, to which such service employees would have been entitled if they were employed under the predecessor contract: <i>Provided</i>, That in any of the foregoing circumstances such obligations shall not apply if the Secretary finds after a hearing in accordance with regulations adopted by the Secretary that such wages and fringe benefits are substantially at variance with those which prevail for services of a character similar in the locality.
+No contractor or subcontractor under a contract, which succeeds a contract subject to this chapter and under which substantially the same services are furnished, shall pay any service employee under such contract less than the wages and fringe benefits, including accrued wages and fringe benefits, and any prospective increases in wages and fringe benefits provided for in a collective-bargaining agreement as a result of arm's-length negotiations, to which such service employees would have been entitled if they were employed under the predecessor contract: <i>Provided</i>, That in any of the foregoing circumstances such obligations shall not apply if the Secretary finds after a hearing in accordance with regulations adopted by the Secretary that such wages and fringe benefits are substantially at variance with those which prevail for services of a character similar in the locality.
 
 #### (d) Duration of contract
 

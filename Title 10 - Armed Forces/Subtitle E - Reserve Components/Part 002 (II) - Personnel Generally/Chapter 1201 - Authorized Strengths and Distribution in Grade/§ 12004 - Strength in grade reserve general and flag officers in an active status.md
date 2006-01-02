@@ -28,15 +28,15 @@
 
 &emsp;(3) Those counted under section 526 of this title.
 
-(c)(1) The authorized strength of the Navy under subsection (a) is exclusive of officers counted under section 526 of this title. Of the number authorized under subsection (a), 39 aredistributed among the line and the staff corps as follows:
+(c)(1) The authorized strength of the Navy under subsection (a) is exclusive of officers counted under section 526 of this title. Of the number authorized under subsection (a), 40 are distributed among the line and the staff corps as follows:
 
 &emsp;&emsp;Line
 
-28
+33
 
 &emsp;&emsp;Medical Department staff corps
 
-9
+5
 
 &emsp;&emsp;Chaplain Corps
 
@@ -50,7 +50,7 @@
 
 (2) The remaining authorizations for the Navy under subsection (a) shall be distributed among such other staff corps as are established by the Secretary of the Navy under the authority provided by section 5150(b) of this title, except that—
 
-&emsp;(A) if the Secretary has established a Supply Corps, the authorized strength for the Supply Corps shall be seven; and
+&emsp;(A) if the Secretary has established a Supply Corps, the authorized strength for the Supply Corps shall be six; and
 
 &emsp;(B) if the Secretary has established a Civil Engineering Corps, the authorized strength for the Civil Engineering Corps shall be two.
 
@@ -72,15 +72,21 @@
 
 (e)(1) A reserve general officer of the Army or Air Force may not be reduced in grade because of a reduction in the number of general officers authorized under subsection (a).
 
-(2) An officer of the Naval Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
+(2) An officer of the Navy Reserve or the Marine Corps Reserve may not be reduced in permanent grade because of a reduction in the number authorized by this section for his grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2984; amended Pub. L. 104–106, div. A, title XV, §1501(b)(9), Feb. 10, 1996, 110 Stat. 496; Pub. L. 105–261, div. A, title IV, §415, Oct. 17, 1998, 112 Stat. 1998.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2984; amended Pub. L. 104–106, div. A, title XV, §1501(b)(9), Feb. 10, 1996, 110 Stat. 496; Pub. L. 105–261, div. A, title IV, §415, Oct. 17, 1998, 112 Stat. 1998; Pub. L. 109–163, div. A, title V, §§512, 515(b)(1)(EE), Jan. 6, 2006, 119 Stat. 3232, 3233.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3218, 5457(a), 5458(a), and 8218 of this title, prior to repeal by Pub. L. 103–337, §1662(a)(3).
 
 #### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–163, §512(a), (b), (d), substituted “40” for “39” in introductory provisions and “33” for “28” and “5” for “9” in table.
+
+Subsec. (c)(2)(A). Pub. L. 109–163, §512(c), substituted “six” for “seven”.
+
+Subsec. (e)(2). Pub. L. 109–163, §515(b)(1)(EE), substituted “Navy Reserve” for “Naval Reserve”.
 
 1998—Subsec. (c)(1). Pub. L. 105–261, §415(1), in table, inserted item relating to Medical Department staff corps and struck out items relating to Medical Corps, Dental Corps, Nurse Corps, and Medical Service Corps.
 
@@ -91,8 +97,4 @@ Subsec. (c)(4). Pub. L. 105–261, §415(2), added par. (4).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 10214, 12005, 12006 of this title.
 

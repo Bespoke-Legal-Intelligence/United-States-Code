@@ -32,7 +32,7 @@ Apr. 29, 1941, ch. 81, §1, 55 Stat. 147; June 3, 1955, ch. 129, 69 Stat. 83.
 
 Apr. 29, 1941, ch. 81, §2, as added Pub. L. 91–469, §39, Oct. 21, 1970, 84 Stat. 1036; Pub. L. 97–31, §12(12), Aug. 6, 1981, 95 Stat. 154.
 
-In subsection (a), the words “Secretary of Transportation” are substituted for “Secretary of Commerce” because of 49:108. The words “the manufacturing, producing, furnishing, construction, alteration, repair,processing, or assembling of” and “of any kind or nature” are omitted as unnecessary.
+In subsection (a), the words “Secretary of Transportation” are substituted for “Secretary of Commerce” because of 49:108. The words “the manufacturing, producing, furnishing, construction, alteration, repair, processing, or assembling of” and “of any kind or nature” are omitted as unnecessary.
 
 In subsection (b), the words “of any kind or nature” are omitted as unnecessary. The words “sections 1535 and 1536 of title 31” are substituted for “the Act of June 30, 1932 (47 Stat. 382, 417–418), as amended \[31 U.S.C. 686, 686b\]” because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 

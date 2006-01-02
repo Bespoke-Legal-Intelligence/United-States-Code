@@ -2,7 +2,7 @@
 
 #### (a) Immediate assessment
 
-If the Secretary believes that the collection of any tax (other than income tax, estate tax, gift tax, and the excise taxes imposed by chapters 41, 42, 43, and 44) under any provision of the internal revenue laws will be jeopardized by delay, he shall, whether or not the time otherwise prescribed by law for making return and paying such tax has expired, immediately assess such tax (together with all interest, additional amounts, and additions to the tax provided for by law). Such tax, additions to the tax, and interest shall thereupon become immediately due and payable, and immediate notice and demand shall be made by the Secretary for the payment thereof.
+If the Secretary believes that the collection of any tax (other than income tax, estate tax, gift tax, and the excise taxes imposed by chapters 41, 42, 43, and 44) under any provision of the internal revenue laws will be jeopardized by delay, he shall, whether or not the time otherwise prescribed by law for making return and payingsuch tax has expired, immediately assess such tax (together with all interest, additional amounts, and additions to the tax provided for by law). Such tax, additions to the tax, and interest shall thereupon become immediately due and payable, and immediate notice and demand shall be made by the Secretary for the payment thereof.
 
 #### (b) Immediate levy
 
@@ -35,8 +35,4 @@ Amendment by Pub. L. 96–222 effective as if included in the provisions of the 
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6656, 6863, 7429 of this title.
 

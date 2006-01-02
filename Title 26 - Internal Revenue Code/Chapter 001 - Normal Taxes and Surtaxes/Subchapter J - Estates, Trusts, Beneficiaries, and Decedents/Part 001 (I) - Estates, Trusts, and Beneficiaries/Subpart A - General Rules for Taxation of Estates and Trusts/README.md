@@ -23,10 +23,6 @@ Subpart A—General Rules for Taxation of Estates and Trusts
 
 1976—Pub. L. 94–455, title VII, §701(g)(2), Oct. 4, 1976, 90 Stat. 1580, added item 644.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 643, 671, 1312 of this title.
-
 
 ---
 

@@ -20,7 +20,3 @@ R.S. 1534.
 
 The words “vessels of the Navy” are substituted for the words “of the public armed vessels”. The words “actual”, “in his opinion”, and “by the nature of the service” are omitted as surplusage. The words “in reserve” are substituted for the words “to be laid up in ordinary in convenient ports” to conform to modern terminology.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 6939d.
-

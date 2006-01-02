@@ -34,7 +34,3 @@ Clause (1) is substituted for 37:272(d) (104th through 128th words, as applicabl
 
 1996—Pars. (3), (4). Pub. L. 104–201 substituted “a physical examination” for “his physical examination for promotion”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1406 of this title.
-

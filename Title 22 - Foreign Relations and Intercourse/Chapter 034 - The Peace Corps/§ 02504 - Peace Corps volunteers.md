@@ -204,7 +204,7 @@ Section 2(b) of Pub. L. 89–572 provided that: “The authority contained in su
 
 Ex. Ord. No. 11103, Apr. 10, 1963, 28 F.R. 3571, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by the Civil Service Act (22 Stat. 403) \[see, generally, section 1101 etseq. of Title 5, Government Organization and Employers\], and section 1753 of the Revised Statutes \[section 3301 of Title 5\], and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Civil Service Act (22 Stat. 403) \[see, generally, section 1101 et seq. of Title 5, Government Organization and Employers\], and section 1753 of the Revised Statutes \[section 3301 of Title 5\], and as President of the United States, it is hereby ordered as follows:
 
 Section 1. Under such regulations as the Office of Personnel Management may prescribe, the head of any agency in the Executive Branch may appoint in the competitive service any person who is certified by the Director of the Peace Corps as having served satisfactorily as a Volunteer or Volunteer Leader under the Peace Corps Act \[see Short Title note set out under section 2501 of this title\] and who passes such examination as the Office of Personnel Management may prescribe. Any person so appointed shall, upon completion of the prescribed probationary period, acquire a competitive status.
 

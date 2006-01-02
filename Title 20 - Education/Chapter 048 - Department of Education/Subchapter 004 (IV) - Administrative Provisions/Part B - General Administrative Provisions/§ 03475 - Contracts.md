@@ -2,7 +2,7 @@
 
 #### (a) Authorization of Secretary
 
-Subject to the provisions of the Federal Property and Administrative Services Act of 1949,<sup>1</sup>the Secretary is authorized to make, enter into, and perform such contracts, grants, leases, cooperative agreements, or other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and to make such payments, by way of advance or reimbursement, as the Secretary may determine necessary or appropriate to carry out functions of the Secretary or the Department.
+Subject to the provisions of the Federal Property and Administrative Services Act of 1949,<sup>1</sup> the Secretary is authorized to make, enter into, and perform such contracts, grants, leases, cooperative agreements, or other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and to make such payments, by way of advance or reimbursement, as the Secretary may determine necessary or appropriate to carry out functions of the Secretary or the Department.
 
 #### (b) Limitations
 

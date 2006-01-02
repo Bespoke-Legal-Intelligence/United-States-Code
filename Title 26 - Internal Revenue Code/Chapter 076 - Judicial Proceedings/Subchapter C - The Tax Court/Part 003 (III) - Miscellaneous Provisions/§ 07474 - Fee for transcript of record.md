@@ -4,7 +4,3 @@ The Tax Court is authorized to fix a fee, not in excess of the fee fixed by law 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 888.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7487 of this title.
-

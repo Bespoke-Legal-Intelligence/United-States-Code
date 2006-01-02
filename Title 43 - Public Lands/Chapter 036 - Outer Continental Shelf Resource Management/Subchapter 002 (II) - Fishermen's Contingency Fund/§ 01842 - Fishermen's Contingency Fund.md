@@ -20,7 +20,7 @@
 
 &emsp;(C) attorney and other fees awarded under section 1845(e) of this title with respect to any such claim.
 
-(3) Sums in the Fund that are not currently needed for the purposes of the Fund shall bekept on deposit in appropriate interest-bearing accounts that shall be established by the Secretary of the Treasury or invested in obligations of, or guaranteed by, the United States. Any revenue accruing from such deposits and investments shall be deposited into the Fund.
+(3) Sums in the Fund that are not currently needed for the purposes of the Fund shall be kept on deposit in appropriate interest-bearing accounts that shall be established by the Secretary of the Treasury or invested in obligations of, or guaranteed by, the United States. Any revenue accruing from such deposits and investments shall be deposited into the Fund.
 
 (4) The Fund may sue and be sued in its own name. All litigation by or against the Fund shall be referred to the Attorney General.
 

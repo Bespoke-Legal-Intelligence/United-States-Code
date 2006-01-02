@@ -32,7 +32,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 (2) Repealed. Pub. L. 106–469, title I, §103(15)(F)(ii), Nov. 9, 2000, 114 Stat. 2031.
 
-(3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold orexchanged to or with entities that are not part of the Federal Government.
+(3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
 
 (4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the same area at the time the Secretary is offering crude oil for sale in such area under this subsection.
 
@@ -208,7 +208,7 @@ Subsec. (e). Pub. L. 106–469, §103(15)(E), amended subsec. (e) generally. Pri
 
 Subsec. (f). Pub. L. 106–469, §103(15)(C), struck out subsec. (f) which read as follows: “The Secretary may permit any importer or refiner who owns any petroleum products stored in the Industrial Petroleum Reserve pursuant to section 6236 of this title to remove or otherwise dispose of such products upon such terms and conditions as the Secretary may prescribe.”
 
-Subsec. (g)(1). Pub. L. 106–469, §103(15)(F)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall conduct a continuing evaluation of the Distribution Plan. In the conduct of such evaluation, the Secretary is authorized to carry out test drawdown and distribution of crude oil from the Reserve. If any such test drawdown includes the sale or exchange of crude oil, then the aggregate quantity of crude oil withdrawn from the Reserve may not exceed 5,000,000 barrels during any such test drawdown or distribution.”
+Subsec. (g)(1). Pub. L. 106–469, §103(15)(F)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall conduct a continuing evaluation of the Distribution Plan. In the conduct of such evaluation, the Secretary is authorized to carryout test drawdown and distribution of crude oil from the Reserve. If any such test drawdown includes the sale or exchange of crude oil, then the aggregate quantity of crude oil withdrawn from the Reserve may not exceed 5,000,000 barrels during any such test drawdown or distribution.”
 
 Subsec. (g)(2). Pub. L. 106–469, §103(15)(F)(ii), struck out par. (2) which read as follows: “The Secretary shall carry out such drawdown and distribution in accordance with the Distribution Plan and implementing regulations and contract provisions, modified as the Secretary considers appropriate taking into consideration the artificialities of a test and the absence of a severe energy supply interruption. To meet the requirements of subsections (d) and (e) of section 6239 of this title, the Secretary shall transmit any such modification of the Plan, along with explanatory and supporting material, to both Houses of the Congress no later than 15 calendar days prior to the offering of any crude oil for sale under this subsection.”
 

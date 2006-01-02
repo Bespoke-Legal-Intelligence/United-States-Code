@@ -16,19 +16,81 @@ Duties and Powers.—The Director shall carry out the duties of the Secretary de
 
 Research.—The Director shall—
 
-&emsp;(1) coordinate United States Government research on intermodal transportation as provided in the plan developed under section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2177); and
+&emsp;(1) coordinate United States Government research on intermodal transportation as provided in the plan developed under section6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2177); and
 
 &emsp;(2) carry out additional research needs identified by the Director.
 
 (e)
 
-Technical Assistance.—The Director shall provide technical assistance to States and to metropolitan planning organizations for urban areas having a population of at least 1,000,000 in collecting data related to intermodal transportation to facilitate the collection of the data by States and metropolitan planning organizations.
+Technical Assistance.—The Director shall provide technical assistance to States and to metropolitan planning organizations for urban areas having a population of at least 1,000,000 in collecting data related to intermodal transportation to facilitate the collection of the data by States and metropolitan planning organizations. Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.
 
 (f)
 
+National Intermodal System Improvement Plan.—
+
+&emsp;(1)
+
+In general.—The Director, in consultation with the advisory board established under section 5502 and other public and private transportation interests, shall develop a plan to improve the national intermodal transportation system. The plan shall include—
+
+&emsp;&emsp;(A) an assessment and forecast of the national intermodal transportation system's impact on mobility, safety, energy consumption, the environment, technology, international trade, economic activity, and quality of life in the United States;
+
+&emsp;&emsp;(B) an assessment of the operational and economic attributes of each passenger and freight mode of transportation and the optimal role of each mode in the national intermodal transportation system;
+
+&emsp;&emsp;(C) a description of recommended intermodal and multimodal research and development projects;
+
+&emsp;&emsp;(D) a description of emerging trends that have an impact on the national intermodal transportation system;
+
+&emsp;&emsp;(E) recommendations for improving intermodal policy, transportation decision-making, and financing to maximize mobility and the return on investment of Federal spending on transportation;
+
+&emsp;&emsp;(F) an estimate of the impact of current Federal and State transportation policy on the national intermodal transportation system; and
+
+&emsp;&emsp;(G) specific near and long-term goals for the national intermodal transportation system.
+
+&emsp;(2)
+
+Progress reports.—The Director shall submit an initial report on the plan to improve the national intermodal transportation system 2 years after the date of enactment of the Surface Transportation Safety Improvement Act of 2005,<sup>1</sup> and a follow-up report 2 years after that, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The progress report shall—
+
+&emsp;&emsp;(A) describe progress made toward achieving the plan's goals;
+
+&emsp;&emsp;(B) describe challenges and obstacles to achieving the plan's goals;
+
+&emsp;&emsp;(C) update the plan to reflect changed circumstances or new developments; and
+
+&emsp;&emsp;(D) make policy and legislative recommendations the Director believes are necessary and appropriate to achieve the goals of the plan.
+
+&emsp;(3)
+
+Plan development funding.—Such sums as may be necessary from the administrative expenses of the Research and Innovative Technology Administration shall be reserved by the Secretary of Transportation each year for the purpose of completing and updating the plan to improve the national intermodal transportation plan.
+
+(g)
+
+Impact Measurement Methodology; Impact Review.—The Director and the Director of the Bureau of Transportation Statistics shall jointly—
+
+&emsp;(1) develop, in consultation with the modal administrations, and State and local planning organizations, common measures to compare transportation investment decisions across the various modes of transportation; and
+
+&emsp;(2) formulate a methodology for measuring the impact of intermodal transportation on—
+
+&emsp;&emsp;(A) the environment;
+
+&emsp;&emsp;(B) public health and welfare;
+
+&emsp;&emsp;(C) energy consumption;
+
+&emsp;&emsp;(D) the operation and efficiency of the transportation system;
+
+&emsp;&emsp;(E) congestion, including congestion at the Nation's ports; and
+
+&emsp;&emsp;(F) the economy and employment.
+
+(h) <sup>2</sup>
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of Transportation such sums as may be necessary for fiscal years 2006 through 2009 to carry out this chapter.
+
+(h) <sup>2</sup>
+
 Administrative and Clerical Support.—The Director shall provide administrative and clerical support to the Intermodal Transportation Advisory Board.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, §4(c), Nov. 30, 2004, 118 Stat. 2425.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 850; Pub. L. 105–178, title V, §5109(b), June 9, 1998, 112 Stat. 440; Pub. L. 108–426, §4(c), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title IV, §4149, Aug. 10, 2005, 119 Stat. 1750.)
 
 Historical and Revision Notes
 
@@ -50,7 +112,17 @@ Dec. 18, 1991, Pub. L. 102–240, §5002(c), 105 Stat. 2158.
 
 Section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (d)(1), is section 6009(b) of Pub. L. 102–240, which is set out as a note under section 508 of Title 23, Highways.
 
+The date of enactment of the Surface Transportation Safety Improvement Act of 2005, referred to in subsec. (f)(2), probably means the date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–59, §4149(1), inserted at end “Amounts reserved under section 5504(d) notawarded to States as grants may be used by the Director to provide technical assistance under this subsection.”
+
+Subsecs. (f), (g). Pub. L. 109–59, §4149(2), (3), added subsecs. (f) and (g). Former subsec. (f) redesignated (h) relating to administrative and clerical support.
+
+Subsec. (h). Pub. L. 109–59, §4149(3), added subsec. (h) relating to authorization of appropriations.
+
+Pub. L. 109–59, §4149(2), redesignated subsec. (f) as (h) relating to administrative and clerical support.
 
 2004—Subsec. (a). Pub. L. 108–426 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism.”
 
@@ -65,4 +137,8 @@ Section 6009(b) of the Intermodal Surface Transportation Efficiency Act of 1991,
 &emsp;“(C) public and private investment in intermodal transportation facilities and services.
 
 “(2) The Director shall make information from the data base available to the public.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

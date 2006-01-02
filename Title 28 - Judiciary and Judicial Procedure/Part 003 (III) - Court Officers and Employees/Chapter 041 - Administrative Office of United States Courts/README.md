@@ -35,6 +35,10 @@
 
 1949—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “112”.</i>
+
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 104–106 without corresponding amendment of chapter analysis.</i>
 
 

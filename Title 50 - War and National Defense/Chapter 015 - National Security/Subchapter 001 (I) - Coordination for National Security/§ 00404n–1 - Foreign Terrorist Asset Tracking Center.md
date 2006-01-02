@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director of National Intelligence shall establish within the Central Intelligence Agencyan element responsible for conducting all-source intelligence analysis of information relating to the financial capabilities, practices, and activities of individuals, groups, and nations associated with international terrorism in their activities relating to international terrorism.
+The Director of National Intelligence shall establish within the Central Intelligence Agency an element responsible for conducting all-source intelligence analysis of information relating to the financial capabilities, practices, and activities of individuals, groups, and nations associated with international terrorism in their activities relating to international terrorism.
 
 #### (b) Designation
 
@@ -23,6 +23,8 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 2004—Subsec. (a). Pub. L. 108–458 substituted “Director of National Intelligence shall establish within the Central Intelligence Agency” for “Director of Central Intelligence, acting as the head of the intelligence community, shall establish in the Central Intelligence Agency”.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

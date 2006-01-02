@@ -20,7 +20,7 @@
 
 &emsp;(B) in an established merit system in the excepted service,
 
-> if such individual (i) served satisfactorily under the authority of this subsection, as certified by the President, for not less than thirty-six months on a continuous basis without a break in service of more than three days, and (ii) is qualified for the position in question.
+> if such individual (i) served satisfactorily under the authority of this subsection, as certified bythe President, for not less than thirty-six months on a continuous basis without a break in service of more than three days, and (ii) is qualified for the position in question.
 
 (5) Except as provided in paragraph (6), the Director of the Peace Corps may make appointments or assignments of United States citizens under paragraph (2) for periods of more than five years only in the case of individuals whose performance as employees of the Peace Corps has been exceptional and only in order to achieve one or more of the following purposes:
 
@@ -34,7 +34,7 @@
 
 > At no time may the number of appointments or assignments of United States citizens in effect under paragraph (2) for periods in excess of five years exceed fifteen percent of the total of all appointments and assignments of United States citizens then in effect under paragraph (2).
 
-(6) Notwithstanding the limitation set forth in paragraph (2)(A) on the length of an appointment or assignment under paragraph (2) and notwithstanding the limitations set forth inparagraph (5) on the circumstances under which such an appointment or assignment may exceed five years, the Director of the Peace Corps, under special circumstances, may personally approve an extension of an appointment or assignment under paragraph (2) for not more than one year on an individual basis.
+(6) Notwithstanding the limitation set forth in paragraph (2)(A) on the length of an appointment or assignment under paragraph (2) and notwithstanding the limitations set forth in paragraph (5) on the circumstances under which such an appointment or assignment may exceed five years, the Director of the Peace Corps, under special circumstances, may personally approve an extension of an appointment or assignment under paragraph (2) for not more than one year on an individual basis.
 
 #### (b) Repealed. Pub. L. 96–465, title II, §2205(9), Oct. 17, 1980, 94 Stat. 2160
 
@@ -74,7 +74,7 @@ Subsec. (b). Pub. L. 96–465, §2205(9), struck out subsec. (b) which related t
 
 1979—Subsec. (a)(4). Pub. L. 96–53 added par. (4).
 
-1970—Subsec. (a)(3). Pub. L. 91–352 substantially reenacted provisions and substituted references to section 5941 of title 5, and sections 5923 through 5925 of such title 5, for references to section 118h of title 5 and title II of the Overseas Differentials and Allowances Act.
+1970—Subsec. (a)(3). Pub. L. 91–352 substantially reenacted provisions and substituted references to section 5941 of title 5, and sections 5923 through 5925 of suchtitle 5, for references to section 118h of title 5 and title II of the Overseas Differentials and Allowances Act.
 
 1965—Subsec. (a). Pub. L. 89–134, §4(a), (b), redesignated subsec. (c) as (a), incorporated into par. (1) material formerly set out as introductory material, spelled out the authority of the President to utilize his authority to appoint and assign persons under the Foreign Service Act of 1946 by making specific reference to his authority as it related to Foreign Service Reserve Officers, Foreign Service Staff officers and employees, alien clerks and employees and other Government officers and employees apart from the Foreign Service, limited to five-year duration all Foreign Service Reserve or Staff appointments and assignments unless the Director of the Peace Corps personally approved one-years extensions on an individual basis, prohibited reappointment or reassignment under this par. before expiration of a period of time equal to the length of the appointee's preceding tour of duty, inserted proviso in par. (2) allowing appointment of an unenumerated class of Foreign Service staff officers and employees ranking below class 10 to be paid basic compensation at rates lower than those of class 10 to perform duties of a more routine nature than are usually performed by Foreign Service staff officers and employees of class 10, and, in par. (3), inserted reference to section 118h of title 5 and substituted reference to subsec. (a) for reference to subsec. (c). Former subsec. (a), relating to domestic employment, was repealed.
 
@@ -134,7 +134,7 @@ Persons appointed, employed, or assigned under subsec. (a) of this section are n
 
 #### Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments
 
-Section 5(b) of Pub. L. 89–134 provided that: “Under such regulations as the President may prescribe, each person employed under authorities repealed by section 4(a) of this Act \[which repealed former subsecs. (a) and (b) of this section providing for employment of Washington headquarters personnel in accordance with standard civil service laws\] immediately prior to the effective date of that section \[see Effective Date of 1965 Amendment note above\] shall effective on that date be appointed a Foreign Service Reserve officer or Foreign Service staff officer or employee under the authority of section 7(a)(2) of the Peace Corps Act \[subsec. (a)(2) of this section\], as amended, and appointed or assigned to an appropriate class thereof; except that—
+Section 5(b) of Pub. L. 89–134 provided that: “Under such regulations as the President may prescribe, each person employed under authorities repealed by section 4(a) of this Act \[which repealed former subsecs. (a) and (b) of this section providing for employment of Washington headquarters personnel in accordance with standard civil service laws\] immediately prior to the effective date of that section \[see Effective Date of 1965 Amendment note above\] shall effective on that date be appointed a Foreign Service Reserve officer or ForeignService staff officer or employee under the authority of section 7(a)(2) of the Peace Corps Act \[subsec. (a)(2) of this section\], as amended, and appointed or assigned to an appropriate class thereof; except that—
 
 &emsp;“(1) no person who holds a career or career-conditional appointment immediately prior to the effective date of section 4(a) of this Act \[see effective date of 1965 Amendment note above\] shall, without his consent, be so appointed until three years after such effective date; and
 

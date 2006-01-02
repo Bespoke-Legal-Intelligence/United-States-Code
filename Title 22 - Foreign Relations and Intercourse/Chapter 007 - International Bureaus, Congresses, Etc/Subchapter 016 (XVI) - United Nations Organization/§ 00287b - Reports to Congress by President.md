@@ -58,7 +58,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;(A) the status under international law of members of multinational forces, including the legal status of such personnel if captured, missing, or detained;
 
-&emsp;&emsp;(B) the extent of the risk for United States military personnel who are captured while participating in multinational forces in cases where their captors fail to respect the 1949 Geneva Conventions and other international agreements intended to protect prisoners of war; and
+&emsp;&emsp;(B) the extent of the risk for United States military personnel who are captured whileparticipating in multinational forces in cases where their captors fail to respect the 1949 Geneva Conventions and other international agreements intended to protect prisoners of war; and
 
 &emsp;&emsp;(C) the specific steps that have been taken to protect United States military personnel participating in multinational forces, together (if necessary) with any recommendations for the enactment of legislation to achieve that objective.
 
@@ -168,7 +168,7 @@ Another subsec. (a)(2) of section 724 of Pub. L. 106–113, div. B, §1000(a)(7)
 
 2002—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees.”
 
-Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively,and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
+Subsecs. (c), (d). Pub. L. 107–228, §405(a)(1), (4), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of State shall promptly transmit to the designated congressional committees any published report prepared by the United Nations and distributed to the members of the Security Council that contains assessments of any proposed, ongoing, or concluded United Nations peacekeeping operation.”
 
 Subsec. (e). Pub. L. 107–228, §405(a)(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -192,7 +192,7 @@ For delegation of congressional reporting functions of President under this sect
 
 #### Consultations and Reports on United Nations Peacekeeping Operations
 
-Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
+Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interimbasis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §724(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
 
 #### Designated Congressional Committees
 

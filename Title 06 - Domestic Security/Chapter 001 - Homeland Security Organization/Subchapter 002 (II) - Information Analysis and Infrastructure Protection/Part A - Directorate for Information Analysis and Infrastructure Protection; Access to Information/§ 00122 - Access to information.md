@@ -20,7 +20,7 @@ Except as otherwise directed by the President, with respect to information to wh
 
 &emsp;&emsp;(A) all reports (including information reports containing intelligence which has not been fully evaluated), assessments, and analytical information relating to threats of terrorism against the United States and to other areas of responsibility assigned by the Secretary;
 
-&emsp;&emsp;(B) all information concerning the vulnerability of the infrastructure of the United States, or other vulnerabilities of the United States, to terrorism, whether or not such information has been analyzed;
+&emsp;&emsp;(B) all information concerning the vulnerability of the infrastructure of the UnitedStates, or other vulnerabilities of the United States, to terrorism, whether or not such information has been analyzed;
 
 &emsp;&emsp;(C) all other information relating to significant and credible threats of terrorism against the United States, whether or not such information has been analyzed; and
 
@@ -58,7 +58,7 @@ This subchapter, referred to in subsec. (d)(1), was in the original “this titl
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out asa note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis after “50”.</i>
 

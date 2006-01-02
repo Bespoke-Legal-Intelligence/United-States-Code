@@ -62,7 +62,7 @@ Section 294z, act July 1, 1944, ch. 373, title VII, §758, as added Oct. 12, 197
 
 Section 294aa, act July 1, 1944, ch. 373, title VII, §759, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(c), 90 Stat. 2289; amended Nov. 16, 1990, Pub. L. 101–597, title IV, §401(b)\[(a)\], 104 Stat. 3035, established a Lister Hill scholarship program of grants for family practice of medicine.
 
-Section 294bb, act July 1, 1944, ch. 373, title VII, §760, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2323, related to grants and other assistance for students from disadvantaged backgrounds. See section 293a of this title.
+Section 294bb, act July 1, 1944, ch. 373, title VII, §760, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2323,related to grants and other assistance for students from disadvantaged backgrounds. See section 293a of this title.
 
 Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2325, related to a loan repayment program regarding service on faculties of certain health professions schools. See section 293b of this title.
 

@@ -14,11 +14,11 @@ As used in this Act, unless the context otherwise indicates, the term—
 
 &emsp;(6) “Office” means the Rail Services Planning Office of the Commission;
 
-&emsp;(7) “railroad” means a rail carrier subject to part A of subtitle IV of title 49, and includes the National Railroad Passenger Corporation; and
+&emsp;(7) “railroad” has the meaning given that term in section 20102 of title 49; and
 
 &emsp;(8) “Secretary” means the Secretary of Transportation or his designated representative.
 
-(Pub. L. 94–210, title I, §102, Feb. 5, 1976, 90 Stat. 33; Pub. L. 97–468, title VI, §615(b)(2), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 104–88, title III, §330(1), Dec. 29, 1995, 109 Stat. 953.)
+(Pub. L. 94–210, title I, §102, Feb. 5, 1976, 90 Stat. 33; Pub. L. 97–468, title VI, §615(b)(2), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 104–88, title III, §330(1), Dec. 29, 1995, 109 Stat. 953; Pub. L. 109–59, title IX, §9003(a), Aug. 10, 2005, 119 Stat. 1921.)
 
 #### References in Text
 
@@ -27,6 +27,8 @@ This Act, referred to in text, means Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31
 The Regional Rail Reorganization Act of 1973, referred to in par. (4), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 #### Amendments
+
+2005—Par. (7). Pub. L. 109–59 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘railroad’ means a rail carrier subject to part A of subtitle IV of title 49, and includes the National Railroad Passenger Corporation; and”.
 
 1995—Par. (7). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad or express, as defined in section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))”.
 

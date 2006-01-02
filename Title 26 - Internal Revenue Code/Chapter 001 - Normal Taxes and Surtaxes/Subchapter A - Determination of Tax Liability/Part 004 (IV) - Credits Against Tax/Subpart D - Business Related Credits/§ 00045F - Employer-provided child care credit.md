@@ -224,7 +224,3 @@ Section applicable to taxable years beginning after Dec. 31, 2001, see section 2
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 1016 of this title.
-

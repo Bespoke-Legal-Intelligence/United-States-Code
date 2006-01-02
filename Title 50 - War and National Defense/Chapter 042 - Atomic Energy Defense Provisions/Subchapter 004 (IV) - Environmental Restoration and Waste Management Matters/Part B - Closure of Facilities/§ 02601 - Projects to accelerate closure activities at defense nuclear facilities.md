@@ -68,7 +68,7 @@ Notwithstanding section 254c(d) of title 41, the Secretary of Energy may enter i
 
 #### (h) Annual report
 
-The Secretary of Energy shall submit each year to Congress a report on the status of eachclosure-acceleration project being carried out under this section. The report shall include, for each such project, the following:
+The Secretary of Energy shall submit each year to Congress a report on the status of each closure-acceleration project being carried out under this section. The report shall include, for each such project, the following:
 
 &emsp;(1) A description of the funding already provided for the project.
 
@@ -152,7 +152,7 @@ Covered States.—For purposes of this section, the following States are covered
 
 Construction.—(1) Nothing in this section shall impair, alter, or modify the full implementation of any Federal Facility Agreement and Consent Order or other applicable consent decree for a Department of Energy site.
 
-“(2) Nothing in this section establishes any precedent or is binding on the State of Washington, the State of Oregon, or any other State not covered by subsection\(d) for the management, storage, treatment, and disposition of radioactive and hazardous materials.
+“(2) Nothing in this section establishes any precedent or is binding on the State of Washington, the State of Oregon, or any other State not covered by subsection (d) for the management, storage, treatment, and disposition of radioactive and hazardous materials.
 
 “(3) Nothing in this section amends the definition of ‘transuranic waste’ or regulations for repository disposal of transuranic waste pursuant to the Waste Isolation Pilot Plant Land Withdrawal Act \[Pub. L. 102–579, 106 Stat. 4777\] or part 191 of title 40, Code of Federal Regulations.
 

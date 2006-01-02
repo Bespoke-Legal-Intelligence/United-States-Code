@@ -26,7 +26,7 @@ Enactment of section 1601 of the Social Security Act \[this section\] by Pub. L.
 
 #### §1381. Authorization of appropriations
 
-For the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish financial assistance to needy individuals who are 65 years of age or over, are blind, or are 18 years of age or over and permanently and totally disabled, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States which have submitted, and had approved by the Commissioner of Social Security, State plans for aid to the aged, blind, or disabled.
+For the purpose of enabling each State, as far as practicable under the conditions in such State, to furnish financial assistance to needy individuals who are 65 years of age or over, are blind, or are 18 years of age or over and permanently and totally disabled, there is hereby authorized to be appropriated for each fiscal year a sum sufficient to carry out the purposes of this subchapter. The sums made available under this section shall be used for making payments to States whichhave submitted, and had approved by the Commissioner of Social Security, State plans for aid to the aged, blind, or disabled.
 
 > (Aug. 14, 1935, ch. 531, title XVI, §1601, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 197; amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Aug. 13, 1981, Pub. L. 97–35, title XXI, §2184(d)(3), title XXIII, §2353(m)(1), 95 Stat. 817, 873; Aug. 15, 1994, Pub. L. 103–296, title I, §107(a)(1), 108 Stat. 1477.)
 

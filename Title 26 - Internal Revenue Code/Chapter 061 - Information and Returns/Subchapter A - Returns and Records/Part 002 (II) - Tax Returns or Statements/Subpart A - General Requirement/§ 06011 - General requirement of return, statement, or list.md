@@ -92,7 +92,7 @@ Subsecs. (e), (f). Pub. L. 94–455, §1904(b)(10)(A)(ii), redesignated subsecs.
 
 Subsec. (d)(3). Pub. L. 91–128, §4(g), eased recordkeeping requirements by providing that nonparticipating be subject to the recordkeeping and reporting requirements prescribed by the Secretary or his delegate only insofar as they engage in sales or acquisitions in which the nonparticipating firm has received a validation certificate indicating the stock or debt obligation qualifies for the exemption or where the U.S. person acquiring the stock or debt obligation is subject to the interest equalization tax, including acquisitions where a broker's confirmation to the customer indicates, or should indicate that the particular acquisition is or may be subject to the tax.
 
-1967—Subsec. (d)(1). Pub. L. 90–59 designated existing provisions as subpar. (A), substituted a copy of any return made during a quarter under subpar. (B) for a certificate of American ownership complying with section 4918(e) or a summary statement establishing exemption together with reasons for person's inability to establish prior American ownership as the document to accompany the list of acquisitions made during the calendar quarter for which an exemption is claimed under section 4918, struck out “a written confirmation, furnished in accordance with the requirements described in section 4918(c) or (d), is treated as conclusive proof of prior American ownership;” after “No return or accompanying evidence shall be required under this paragraph, inconnection with any acquisition with respect to which”, and added clauses (i), (ii), and (iii) and subpar. (B).
+1967—Subsec. (d)(1). Pub. L. 90–59 designated existing provisions as subpar. (A), substituted a copy of any return made during a quarter under subpar. (B) for a certificate of American ownership complying with section 4918(e) or a summary statement establishing exemption together with reasons for person's inability to establish prior American ownership as the document to accompany the list of acquisitions made during the calendar quarter for which an exemption is claimed under section 4918, struck out “a written confirmation, furnishedin accordance with the requirements described in section 4918(c) or (d), is treated as conclusive proof of prior American ownership;” after “No return or accompanying evidence shall be required under this paragraph, in connection with any acquisition with respect to which”, and added clauses (i), (ii), and (iii) and subpar. (B).
 
 1965—Subsec. (c). Pub. L. 89–44 repealed subsec. (c) which related to return of retailers excise taxes by suppliers.
 
@@ -180,7 +180,7 @@ Electronic commerce advisory group.—To ensure that the Secretary receives inpu
 
 “(d)
 
-Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) \[set out as a note above\] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight \[now Committee on Government Reform\], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs, and Small Business of the Senate on—
+Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) \[set out as a note above\] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight \[now Committee on Government Reform\], and Small Business of the House ofRepresentatives and the Committees on Finance, Appropriations, Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\], and Small Business \[now Committee on Small Business and Entrepreneurship\] of the Senate on—
 
 &emsp;“(1) the progress of the Internal Revenue Service in meeting the goal of receiving electronically 80 percent of tax and information returns by 2007;
 
@@ -213,8 +213,4 @@ Pub. L. 95–600, title V, §551, Nov. 6, 1978, 92 Stat. 2890, required a study 
 Section 3(d)(1) of Pub. L. 89–243, Oct. 9, 1965, 79 Stat. 955, provided that the first period for which returns were to be made under subsec. (d)(1) of this section with respect to acquisitions made subject to tax by this section was the period commencing Feb. 11, 1965, and ending at the close of the calendar quarter in which the enactment of Pub. L. 89–243 \[Oct. 9, 1965\] occurred.
 
 Section 3(e) of Pub. L. 88–563 provided that the first period for which returns were to be made under subsec. (d)(1) of this section was the period commencing July 19, 1963, and ending at the close of the calendar quarter in which the enactment of Pub. L. 88–563 \[Sept. 2, 1964\] occurred.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 911, 6501, 6724 of this title; title 42 section 405.
 

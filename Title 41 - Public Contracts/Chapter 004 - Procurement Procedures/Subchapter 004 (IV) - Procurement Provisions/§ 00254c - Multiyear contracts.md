@@ -4,7 +4,7 @@
 
 An executive agency may enter into a multiyear contract for the acquisition of property or services if—
 
-&emsp;(1) funds are available and obligated for such contract, for the full period of the contract orfor the first fiscal year in which the contract is in effect, and for the estimated costs associated with any necessary termination of such contract; and
+&emsp;(1) funds are available and obligated for such contract, for the full period of the contract or for the first fiscal year in which the contract is in effect, and for the estimated costs associated with any necessary termination of such contract; and
 
 &emsp;(2) the executive agency determines that—
 

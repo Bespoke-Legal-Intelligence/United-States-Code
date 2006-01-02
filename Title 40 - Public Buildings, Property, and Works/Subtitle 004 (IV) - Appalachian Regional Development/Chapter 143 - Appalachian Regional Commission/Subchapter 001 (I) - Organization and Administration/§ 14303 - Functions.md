@@ -4,7 +4,7 @@
 
 In General.—In carrying out the purposes of this subtitle, the Appalachian Regional Commission shall—
 
-&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs and establish priorities under those plans and programs, giving due consideration to other federal, state, and local planning in the Appalachian region;
+&emsp;(1) develop, on a continuing basis, comprehensive and coordinated plans and programs and establish priorities under those plans andprograms, giving due consideration to other federal, state, and local planning in the Appalachian region;
 
 &emsp;(2) conduct and sponsor investigations, research, and studies, including an inventory and analysis of the resources of the region, and, in cooperation with federal, state, and local agencies, sponsor demonstration projects designed to foster regional productivity and growth;
 

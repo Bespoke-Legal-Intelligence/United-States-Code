@@ -128,7 +128,3 @@ Section 20(e)(2) of Pub. L. 87–834 provided that: “The amendments made by su
 
 Section 8 of Pub. L. 86–780 provided that: “The amendments made by section 7 \[amending this section\] shall apply only with respect to foreign corporations created or organized, or reorganized, after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 964, 6501, 6679 of this title.
-

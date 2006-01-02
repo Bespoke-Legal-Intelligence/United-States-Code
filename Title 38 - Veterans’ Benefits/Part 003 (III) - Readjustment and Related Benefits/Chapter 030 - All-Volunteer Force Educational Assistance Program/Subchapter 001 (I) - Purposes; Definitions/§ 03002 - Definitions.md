@@ -22,23 +22,25 @@ For the purposes of this chapter—
 
 (5) The term “Secretary of Defense” means the Secretary of Defense, except that it means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
+(6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
 (7) The term “active duty” includes full-time National Guard duty first performed after June 30, 1985, by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard.
 
 (8) The term “educational institution” has the meaning given such term in section 3452(c) of this title.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §107(a), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–117, title VII, §701, Nov. 30, 1999, 113 Stat. 1582; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §107(a), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–117, title VII, §701, Nov. 30, 1999, 113 Stat. 1582; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 109–163, div. A, title V, §515(e)(2), Jan. 6, 2006, 119 Stat. 3236.)
 
 #### Prior Provisions
 
 Prior sections 3002 to 3004 were renumbered sections 5102 to 5104 of this title, respectively.
 
-Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, related to reopening of disallowed claims and to effective date of any subsequent awards, prior to repeal by Pub. L. 87–825, §§5(a), 7, Oct. 15, 1962, 76 Stat. 950, effective first day of second calendar month which begins after Oct. 15, 1962.
+Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, related to reopening of disallowedclaims and to effective date of any subsequent awards, prior to repeal by Pub. L. 87–825, §§5(a), 7, Oct. 15, 1962, 76 Stat. 950, effective first day of second calendar month which begins after Oct. 15, 1962.
 
 Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title, respectively.
 
 #### Amendments
+
+2006—Par. (6)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2002—Par. (5). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 

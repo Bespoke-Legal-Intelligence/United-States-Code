@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(III)(aa) is approved or cleared under chapter V of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 351 et seq.\] or licensed under section 262 of this title; or
 
-&emsp;&emsp;&emsp;(bb) is a countermeasure for which the Secretary determines that sufficient and satisfactory clinical experience or research data (including data, if available, from pre-clinical and clinical trials) support a reasonable conclusion that the countermeasure will qualify for approval or licensing within eight years after the date of a determination under paragraph (5); or
+&emsp;&emsp;&emsp;(bb) is a countermeasure for which the Secretary determines that sufficient and satisfactory clinical experience or research data (including data, if available, from pre-clinical and clinical trials) support areasonable conclusion that the countermeasure will qualify for approval or licensing within eight years after the date of a determination under paragraph (5); or
 
 &emsp;&emsp;&emsp;(ii) is authorized for emergency use under section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\].
 
@@ -86,7 +86,7 @@
 
 #### (3) Assessment of availability and appropriateness of countermeasures
 
-&emsp;The Secretary, in consultation with the Homeland Security Secretary, shall assess onan ongoing basis the availability and appropriateness of specific countermeasures to address specific threats identified under paragraph (2).
+&emsp;The Secretary, in consultation with the Homeland Security Secretary, shall assess on an ongoing basis the availability and appropriateness of specific countermeasures to address specific threats identified under paragraph (2).
 
 #### (4) Call for development of countermeasures; commitment for recommendation for procurement
 
@@ -190,7 +190,7 @@
 
 #### (I) Payment conditioned on delivery
 
-&emsp;&emsp;&emsp;&emsp;The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.
+&emsp;&emsp;&emsp;&emsp;The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if thereis a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.
 
 #### (II) Discounted payment
 
@@ -252,7 +252,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In using the authority provided in section 253(c)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement under this subsection, the phrase “available from only one responsible source” in such section 253(c)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
+&emsp;&emsp;&emsp;&emsp;In using the authority provided in section 253(c)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement under this subsection, the phrase “available from onlyone responsible source” in such section 253(c)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
 
 #### (II) Relation to other authorities
 
@@ -356,7 +356,7 @@ Section was formerly classified to section 300hh–12 of this title prior to ren
 
 2004—Pub. L. 108–276, §3(a)(2), amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of “stockpile”, and in subsec. (e) to authorization of appropriations.
 
-2002—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted “The Secretary of Homeland Security” for“The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
+2002—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted “The Secretary of Homeland Security” for “The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
 
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted “of Health and Human Services” after “Secretary” wherever appearing.
 

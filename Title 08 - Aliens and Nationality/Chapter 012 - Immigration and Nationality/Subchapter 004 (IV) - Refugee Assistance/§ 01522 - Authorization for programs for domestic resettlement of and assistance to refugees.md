@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(IV) the secondary migration of refugees to and from the area that is likely to occur.
 
-(D) With respect to the location of placement of refugees within a State, the Federal agency administering subsection (b)(1) of this section shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
+(D) With respect to the location of placement of refugees within a State, the Federal agencyadministering subsection (b)(1) of this section shall, consistent with such policies and strategies and to the maximum extent possible, take into account recommendations of the State.
 
 (3) In the provision of domestic assistance under this section, the Director shall make a periodic assessment, based on refugee population and other relevant factors, of the relative needs of refugees for assistance and services under this subchapter and the resources available to meet such needs. The Director shall compile and maintain data on secondary migration of refugees within the United States and, by State of residence and nationality, on the proportion of refugees receiving cash or medical assistance described in subsection (e) of this section. In allocating resources, the Director shall avoid duplication of services and provide for maximum coordination between agencies providing related services.
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(iv) The extent to which the agency has coordinated its activities with local social service providers in a manner which avoids duplication of activities and has provided notices to local welfare offices and the reporting of medical conditions of certain aliens to local health departments in accordance with subparagraphs (B)(i) and (C).
 
-&emsp;&emsp;(v) Such other information as the agency administering paragraph (1) deems to be appropriate in monitoring the effectiveness of agencies in carrying out their functions under such grants and contracts.
+&emsp;&emsp;(v) Such other information as the agency administering paragraph (1) deems to be appropriate in monitoring the effectiveness ofagencies in carrying out their functions under such grants and contracts.
 
 > The agency administering paragraph (1) shall promptly forward a copy of each annual report transmitted under subparagraph (E) to the Committees on the Judiciary of the House of Representatives and of the Senate.
 
@@ -194,7 +194,7 @@
 
 (ii) The Director shall attempt to arrange for the placement under the laws of the States of such unaccompanied refugee children, who have been accepted for admission to the United States, before (or as soon as possible after) their arrival in the United States. During any interim period while such a child is in the United States or in transit to the United States but before the child is so placed, the Director shall assume legal responsibility (including financial responsibility) for the child, if necessary, and is authorized to make necessary decisions to provide for the child's immediate care.
 
-(iii) In carrying out the Director's responsibilities under clause (ii), the Director is authorized to enter into contracts with appropriate public or private nonprofit agencies under such conditions as the Director determines to be appropriate.
+(iii) In carrying out the Director's responsibilities under clause (ii), the Director is authorizedto enter into contracts with appropriate public or private nonprofit agencies under such conditions as the Director determines to be appropriate.
 
 (iv) The Director shall prepare and maintain a list of (I) all such unaccompanied children who have entered the United States after April 1, 1975, (II) the names and last known residences of their parents (if living) at the time of arrival, and (III) the children's location, status, and progress.
 
@@ -260,7 +260,7 @@
 
 > &emsp;under this chapter.
 
-(2) For a State or county to be eligible to receive compensation under this subsection, thechief executive officer of the State or county shall submit to the Attorney General, in accordance with rules to be issued by the Attorney General, an application containing—
+(2) For a State or county to be eligible to receive compensation under this subsection, the chief executive officer of the State or county shall submit to the Attorney General, in accordance with rules to be issued by the Attorney General, an application containing—
 
 &emsp;(A) the number and names of the Cuban nationals with respect to whom the State or county is entitled to such compensation, and
 
@@ -298,7 +298,7 @@ Subsec. (e)(7)(C). Pub. L. 103–236, §162(n)(2)(C), struck out “, in consul
 
 Subsec. (e)(7)(D). Pub. L. 103–416 struck out “paragraph (1) or (2) of” after “appropriated under”.
 
-1988—Subsecs. (f)(5), (g). Pub. L. 100–525 redesignated subsec. (g) as (f)(5) and substituted “all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2)” for “all appropriate Federal, State, and county officials referred to in section 13 of this Act”, “Cuban nationals described in paragraph (1)” for “such persons defined in subsection (f)(1) of this section” and “authorized to carry out this subsection” for “hereafter authorized by this section”.
+1988—Subsecs. (f)(5), (g). Pub. L. 100–525 redesignated subsec. (g) as (f)(5) and substituted “all other appropriate Federal officials and all appropriate State and county officials referred to in paragraph (2)” for “all appropriate Federal, State, and county officials referred to in section 13 of this Act”, “Cuban nationalsdescribed in paragraph (1)” for “such persons defined in subsection (f)(1) of this section” and “authorized to carry out this subsection” for “hereafter authorized by this section”.
 
 1986—Subsec. (a)(2)(A). Pub. L. 99–605, §4(1), inserted “and the Federal agency administering subsection (b)(1) of this section” after “The Director”, “(not less often than quarterly)” after “shall consult regularly”, and “before their placement in those States and localities” after “States and localities”.
 
@@ -412,7 +412,7 @@ Section 8 of Pub. L. 97–363 provided that: “The amendments made by—
 
 Section 313 of part B of title III of Pub. L. 96–212 provided that:
 
-“(a) Except as otherwise provided in this section, the amendments made by this part \[enacting sections 1521to 1524 of this title, amending section 2601 of Title 22, Foreign Relations and Intercourse, and repealing provisions set out as a note under section 2601 of Title 22\] shall apply to fiscal years beginning on or after October 1, 1979.
+“(a) Except as otherwise provided in this section, the amendments made by this part \[enacting sections 1521 to 1524 of this title, amending section 2601 of Title 22, Foreign Relations and Intercourse, and repealing provisions set out as a note under section 2601 of Title 22\] shall apply to fiscal years beginning on or after October 1, 1979.
 
 “(b) Subject to subsection (c), the limitations contained in sections 412(d)(2)(A) and 412(e)(1) of the Immigration and Nationality Act \[subsecs. (d)(2)(A) and (e)(1) of this section\] on the duration of the period for which child welfare services and cash and medical assistance may be provided to particular refugees shall not apply to such services and assistance provided before April 1, 1981.
 
@@ -466,7 +466,7 @@ Pub. L. 97–35, title V, §§543(a)(2), 547, Aug. 13, 1981, 95 Stat. 459, 463, 
 
 #### Cuban Refugees; Incarceration and Deportation of Certain Cubans
 
-Pub. L. 96–533, title VII, §716, Dec. 16, 1980, 94 Stat. 3162, provided that: “The Congress finds that the United States Government has already incarcerated recently arrived Cubans who are admitted criminals, are security threats, or have incited civil disturbances in Federal processing facilities. The Congress urges the Executive branch, consistent with United States law, to seek the deportation of such individuals.”
+Pub. L. 96–533, title VII, §716, Dec. 16, 1980, 94 Stat. 3162, provided that: “The Congress finds that theUnited States Government has already incarcerated recently arrived Cubans who are admitted criminals, are security threats, or have incited civil disturbances in Federal processing facilities. The Congress urges the Executive branch, consistent with United States law, to seek the deportation of such individuals.”
 
 #### Refugee Education Assistance Act of 1980
 
@@ -538,7 +538,7 @@ I74“state entitlements
 
 “(b)(1) As soon as possible after the date of the enactment of the Consolidated Refugee Education Assistance Act \[Aug. 13, 1981\], the Secretary shall establish a formula (reflecting the availability of the full amount authorized for this title under section 203(b)) by which to determine the amount of the grant which each State educational agency is entitled to receive under this title for any fiscal year. The formula established by the Secretary shall take into account the number of years that an eligible participant assisted under this title has resided within the United States and the relative costs, by grade level, of providing education for elementary and secondary school children. On the basis of the formula the Secretary shall allocate among the State educational agencies, for each fiscal year, the amounts available to carry out this title, subject to such reductions or adjustments as may be required under paragraph (2) or subsection (c). Funds shall be allocated among State educational agencies pursuant to the formula without regard to variations in educational costs among different geographical areas.
 
-“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscalyear, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
+“(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
@@ -646,7 +646,7 @@ I74“state entitlements
 
 &emsp;&emsp;“(C) that the provision of services pursuant to this paragraph shall be provided by employees of a public agency or through contract by such public agency with a person, association, agency or corporation who or which, in the provision of such services, is independent of such elementary or secondary nonpublic school and of any religious organization; and such employment or contract shall be under the control and supervision of such public agency, and the funds provided under this paragraph shall not be commingled with State or local funds.
 
-“(b) The Secretary shall approve an application which meets the requirements of subsection (a). TheSecretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
+“(b) The Secretary shall approve an application which meets the requirements of subsection (a). The Secretary shall not finally disapprove an application of a State educational agency except after reasonable notice and opportunity for a hearing on the record to such agency.
 
 #### “payments
 
@@ -758,7 +758,7 @@ Pub. L. 97–35, title V, §541, Aug. 13, 1981, 95 Stat. 458, provided that: “
 
 #### Executive Order No. 12246
 
-Ex. Ord. No. 12246, Oct. 10, 1980, 45 F.R. 68367, which delegated to the Secretary of State the functions of the President under section 501(c) of Pub. L. 96–422, set out above, was revoked by Ex. Ord. No. 12251, Nov. 15, 1980, 45 F.R. 76085, formerly set out below.
+Ex. Ord. No. 12246, Oct. 10, 1980, 45 F.R. 68367, which delegated to the Secretary of State the functions of thePresident under section 501(c) of Pub. L. 96–422, set out above, was revoked by Ex. Ord. No. 12251, Nov. 15, 1980, 45 F.R. 76085, formerly set out below.
 
 #### Executive Order No. 12251
 

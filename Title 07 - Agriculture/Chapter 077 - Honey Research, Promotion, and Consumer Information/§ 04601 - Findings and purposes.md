@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) In recent years, large quantities of low-cost, imported honey have been brought into the United States, replacing domestic honey in the normal trade channels.
 
-&emsp;(4) The maintenance and expansion of existing honey markets and the development of new or improved markets or uses are vital to the welfare of honey producers and those concerned with marketing, using, and processinghoney, along with those engaged in general agricultural endeavors requiring bees for pollinating purposes.
+&emsp;(4) The maintenance and expansion of existing honey markets and the development of new or improved markets or uses are vital to the welfare of honey producers and those concerned with marketing, using, and processing honey, along with those engaged in general agricultural endeavors requiring bees for pollinating purposes.
 
 &emsp;(5) The honey production industry within the United States is comprised mainly of small- and medium-sized businesses.
 

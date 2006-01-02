@@ -8,10 +8,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 7 section 1926; title 20 section 6368; title 42 section 1397f.
-
 
 ---
 

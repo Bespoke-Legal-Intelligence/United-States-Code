@@ -8,7 +8,7 @@
 
 &emsp;(2) attempts to intimidate, coerce, threaten, or harass a foreign official or an official guest or obstruct a foreign official in the performance of his duties; or
 
-&emsp;(3) within the United States and within one hundred feet of any building or premises inwhole or in part owned, used, or occupied for official business or for diplomatic, consular, or residential purposes by—
+&emsp;(3) within the United States and within one hundred feet of any building or premises in whole or in part owned, used, or occupied for official business or for diplomatic, consular, or residential purposes by—
 
 &emsp;&emsp;(A) a foreign government, including such use as a mission to an international organization;
 

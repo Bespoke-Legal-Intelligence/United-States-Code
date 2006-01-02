@@ -8,7 +8,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (1) Recipients
 
-&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized, without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, combinations of such institutions, agencies and organizations, and in exceptional circumstances, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
+&emsp;For the purposes described in subsection (a) of this section, the Secretary is authorized,without regard to section 5 of title 41, to make grants to, and contracts with, institutions of higher education, public and private agencies and organizations, combinations of such institutions, agencies and organizations, and in exceptional circumstances, secondary schools, for planning, developing, or carrying out one or more of the services assisted under this division.
 
 #### (2) Duration
 
@@ -140,7 +140,7 @@ For the purpose of this division:
 
 #### References in Text
 
-The Higher Education Amendments of 1992, referred to in subsec. (f), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
+The Higher Education Amendments of 1992, referred to in subsec. (f), is Pub. L. 102–325, July 23, 1992, 106Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
 
 #### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
 

@@ -1,84 +1,36 @@
 ### §777c. Division of annual appropriations
 
-#### (a) Initial distribution
+#### (a) In general
 
-The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (title III, Public Law 101–646) \[16 U.S.C. 3951 et seq.\]. Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2019.
+For each of fiscal years 2006 through 2009, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) of this section and for multistate conservation grants under section 777m of this title shall be distributed as follows:
 
-#### (b) Use of balance after distribution
+#### (1) Coastal wetlands
 
-#### (1) Fiscal year 1998
+&emsp;An amount equal to 18.5 percent to the Secretary of the Interior for distribution as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (16 U.S.C. 3951 et seq.).
 
-&emsp;In fiscal year 1998, an amount equal to $20,000,000 of the balance remaining after the distribution under subsection (a) of this section shall be transferred to the Secretary of Transportation and shall be expended for State recreational boating safety programs under section 13106(a)(1) of title 46.
+#### (2) Boating safety
 
-#### (2) Fiscal year 1999
+&emsp;An amount equal to 18.5 percent to the Secretary of the department in which the Coast Guard is operating for State recreational boating safety programs under section 13106 of title 46.
 
-&emsp;For fiscal year 1999, of the balance of each annual appropriation remaining after making the distribution under subsection (a) of this section, an amount equal to $74,000,000, reduced by 82 percent of the amount appropriated for that fiscal year from the Boat Safety Account of the Aquatic Resources Trust Fund established by section 9504 of title 26 to carry out the purposes of section 13106(a) of title 46, shall be used as follows:
+#### (3) Clean Vessel Act
 
-&emsp;&emsp;(A) $10,000,000 shall be available to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 (33 U.S.C. 1322 note).
+&emsp;An amount equal to 2.0 percent to the Secretary of the Interior for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 (33 U.S.C. 1322 note).
 
-&emsp;&emsp;(B) The balance remaining after the application of subparagraph (A) shall be transferred to the Secretary of Transportation and shall be expended for State recreational boating safety programs under section 13106 of title 46.
+#### (4) Boating infrastructure
 
-#### (3) Fiscal years 2000–2003
+&emsp;An amount equal to 2.0 percent to the Secretary of the Interior for obligation for qualified projects under section 777g–1(d) of this title.
 
-&emsp;For each of fiscal years 2000 through 2003, of the balance of each annual appropriation remaining after making the distribution under subsection (a) of this section, an amount equal to $82,000,000, reduced by 82 percent of the amount appropriated for that fiscal year from the Boat Safety Account of the Aquatic Resources Trust Fund established by section 9504 of title 26 to carry out the purposes of section 13106(a) of title 46, shall be used as follows:
+#### (5) National outreach and communications
 
-&emsp;&emsp;(A) $10,000,000 shall be available for each fiscal year to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 (33 U.S.C. 1322 note).
+&emsp;An amount equal to 2.0 percent to the Secretary of the Interior for the National Outreach and Communications Program under section 777g(d) of this title. Such amounts shall remain available for 3 fiscal years, after which any portion thereof that is unobligated by the Secretary for that program may be expended by the Secretary under subsection (c) of this section.
 
-&emsp;&emsp;(B) $8,000,000 shall be available for each fiscal year to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 777g–1(d) of this title.
-
-&emsp;&emsp;(C) The balance remaining after the application of subparagraphs (A) and (B) shall be transferred for each such fiscal year to the Secretary of Transportation and shall be expended for State recreational boating safety programs under section 13106 of title 46.
-
-#### (4) Fiscal year 2004
-
-&emsp;For fiscal year 2004, of the balance of each annual appropriation remaining after making the distribution under subsection (a) of this section, an amount equal to $82,000,000, reduced by 82 percent of the amount appropriated for that fiscal year from the Boat Safety Account of the Aquatic Resources Trust Fund established by section 9504 of title 26 to carry out the purposes of section 13106(a) of title 46, shall be used as follows:
-
-&emsp;&emsp;(A) $10,000,000 shall be available to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 (33 U.S.C. 1322 note).
-
-&emsp;&emsp;(B) $8,000,000 shall be available to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 777g–1(d) of this title.
-
-&emsp;&emsp;(C) The balance remaining after the application of subparagraphs (A) and (B) shall be transferred to the Secretary of Transportation and shall be expended for State recreational boating safety programs under section 13106 of title 46.
-
-#### (5) First 8 months of fiscal year 2005
-
-&emsp;For the period of October 1, 2004, through May 31, 2005, of the balance of each annual appropriation remaining after making the distribution under subsection (a) of this section, an amount equal to $54,666,664, reduced by 82 percent of the amount appropriated for that fiscal year from the Boat Safety Account of the Aquatic Resources Trust Fund established by section 9504 of title 26 to carry out the purposes of section 13106(a) of title 46, shall be used as follows:
-
-&emsp;&emsp;(A) $6,666,664 shall be available to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 5604(c) of the Clean Vessel Act of 1992 (33 U.S.C. 1322 note).
-
-&emsp;&emsp;(B) $5,333,334 shall be available to the Secretary of the Interior for 3 fiscal years for obligation for qualified projects under section 777g–1(d) of this title.
-
-&emsp;&emsp;(C) The balance remaining after the application of subparagraphs (A) and (B) shall be transferred to the Secretary of Transportation and shall be expended for State recreational boating safety programs under section 13106 of title 46.
-
-#### (6) Transfer of certain funds
-
-&emsp;Amounts available under subparagraph (A) of paragraph (2) and subparagraphs (A) and (B) of paragraph (3) that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of Transportation and shall be expended for State recreational boating safety programs under section 13106(a) of title 46.
-
-#### (c) National Outreach and Communications Program
-
-Of the balance of each such annual appropriation remaining after making the distribution under subsections (a) and (b) of this section, respectively, an amount equal to—
-
-&emsp;(1) $5,000,000 for fiscal year 1999;
-
-&emsp;(2) $6,000,000 for fiscal year 2000;
-
-&emsp;(3) $7,000,000 for fiscal year 2001;
-
-&emsp;(4) $8,000,000 for fiscal year 2002;
-
-&emsp;(5) $10,000,000 for fiscal year 2003;
-
-&emsp;(6) $10,000,000 for fiscal year 2004; and
-
-&emsp;(7) $6,666,664 for the period of October 1, 2004, through May 31, 2005;
-
-> shall be used for the National Outreach and Communications Program under section 777g(d) of this title. Such amounts shall remain available for 3 fiscal years, after which any portion thereof that is unobligated by the Secretary of the Interior for that program may be expended by the Secretary under subsection (e) of this section.
-
-#### (d) Set-aside for expenses for administration of this chapter
+#### (b) Set-aside for expenses for administration of this chapter
 
 #### (1) In general
 
-#### (A) Set-aside
+#### (A) Set-aside for administration
 
-&emsp;&emsp;For fiscal year 2001 and each fiscal year thereafter, of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section and section 777m of this title, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 777h of this title.
+&emsp;&emsp;From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title. The amount specified in subparagraph (B) for a fiscal year may not be included in the amount of the annual appropriation distributed under subsection (a) of this section for the fiscal year.
 
 #### (B) Available amounts
 
@@ -106,35 +58,85 @@ Of the balance of each such annual appropriation remaining after making the dist
 
 #### (B) Apportionment of unobligated amounts
 
-&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (e) of this section for the fiscal year.
+&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (e) <sup>2</sup> of this section for the fiscal year.
 
-#### (e) Apportionment among States
+#### (c) Apportionment among States
 
-The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), (c), and (d) of this section, respectively, and after deducting amounts used for grants under section 777m of this title, shall apportion the remainder of each such annual appropriation among the several States in the following manner: 40 per centum in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 per centum in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 per centum nor more than 5 per centum of the total amount apportioned. Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocatenot more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
+The Secretary, for each of fiscal years 2006 through 2009, after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance of each such annual appropriation among the several States in the following manner: 40 percent in the ratio which the area of each State including coastal and Great Lakes waters (as determined by the Secretary of the Interior) bears to the total area of all the States, and 60 percent in the ratio which the number of persons holding paid licenses to fish for sport or recreation in the State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the number of such persons in all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than 1 percent nor more than 5 percent of the total amount apportioned. Where the apportionment to any State under this section is less than $4,500 annually, the Secretary of the Interior may allocate not more than $4,500 of said appropriation to said State to carry out the purposes of this chapter when said State certifies to the Secretary of the Interior that it has set aside not less than $1,500 from its fish-and-game funds or has made, through its legislature, an appropriation in this amount of said purposes.
 
-#### (f) Unallocated funds
+#### (d) Unallocated funds
 
 So much of any sum not allocated under the provisions of this section for any fiscal year is hereby authorized to be made available for expenditure to carry out the purposes of this chapter until the close of the succeeding fiscal year. The term fiscal year as used in this section shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of persons holding licenses to fish shall be a State's fiscal or license year.
 
-#### (g) Expenses for administration of certain programs
+#### (e) Expenses for administration of certain programs
 
 #### (1) In general
 
-&emsp;For each fiscal year, of the amounts appropriated under section 777b of this title, the Secretary of the Interior shall use only funds authorized for use under subsections (a), (b)(3)(A), (b)(3)(B), and (c) of this section to pay the expenses for administration incurred in carrying out the provisions of law referred to in those subsections, respectively.
+&emsp;For each fiscal year, of the amounts appropriated under section 777b of this title, the Secretary of the Interior shall use only funds authorized for use under paragraphs (1), (3), (4), and (5) of subsection (a) of this section to pay the expenses for administration incurred in carrying out the provisions of law referred to in those subsections, respectively.
 
 #### (2) Maximum amount
 
 &emsp;For each fiscal year, the Secretary of the Interior may use not more than $900,000 in accordance with paragraph (1).
 
-(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) \[title VI, §605\], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, §9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, §9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, §114(b), Dec. 8, 2004, 118 Stat. 2944.)
+#### (f) Transfer of certain funds
+
+Amounts available under paragraphs (3) and (4) of subsection (a) of this section that are unobligated by the Secretary of the Interior after 3 fiscal years shall be transferred to the Secretary of the department in which the Coast Guard is operating and shall be expended for State recreational boating safety programs under section 13106(a) of title 46.
+
+(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) \[title VI, §605\], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774; Pub. L. 108–88, §9(a), (b), Sept. 30, 2003, 117 Stat. 1126; Pub. L. 108–202, §7(a), (b), Feb. 29, 2004, 118 Stat. 483; Pub. L. 108–224, §6(a), (b), Apr. 30, 2004, 118 Stat. 632; Pub. L. 108–263, §6(a), (b), June 30, 2004, 118 Stat. 703; Pub. L. 108–280, §6(a), (b), July 30, 2004, 118 Stat. 881, 882; Pub. L. 108–310, §9(a), (b), Sept. 30, 2004, 118 Stat. 1159; Pub. L. 108–447, div. C, title I, §114(b), Dec. 8, 2004, 118 Stat. 2944; Pub. L. 109–14, §8(a), (b), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §8(a), (b), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §8(a), (b), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §8(a), (b), July 22, 2005, 119 Stat. 404, 405; Pub. L. 109–40, §8(a), (b), July 28, 2005, 119 Stat. 421; Pub. L. 109–59, title X, §10113, Aug. 10, 2005, 119 Stat. 1927; Pub. L. 109–74, title II, §§201, 202, Sept. 29, 2005, 119 Stat. 2031.)
 
 #### References in Text
 
-The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, which is classified generally to chapter 59A (§3951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of this title and Tables.
+The Coastal Wetlands Planning, Protection and Restoration Act, referred to in subsec. (a)(1), is title III of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4778, as amended, which is classified generally to chapter 59A (§3951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3951 of this title and Tables.
 
-Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (b)(2)(A), (3)(A), (4)(A), (5)(A), is section 5604(c) of Pub. L. 102–587, which is set out as a note under section 1322 of Title 33, Navigation and Navigable Waters.
+Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3), is section 5604(c) of Pub. L. 102–587, which is set out as a note under section 1322 of Title 33, Navigation and Navigable Waters.
+
+Subsection (e) of this section, referred to in subsec. (b)(2)(B), was redesignated subsection (c) by Pub. L. 109–59, title X, §10113(1), Aug. 10, 2005, 119 Stat. 1927.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §10113(1), (2), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection, and Restoration Act (title III, Public Law 101–646). Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2019.”
+
+Subsec. (b). Pub. L. 109–59, §10113(1), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to use of the balance of each annual appropriation remaining after making the distribution under subsec. (a) in fiscal years 1998 through 2005.
+
+Subsec. (b)(1)(A). Pub. L. 109–59, §10113(3), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “For fiscal year 2001 and each fiscal year thereafter, of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section and section 777m of this title, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 777h of this title.”
+
+Subsec. (b)(4). Pub. L. 109–74, §202, substituted “Fiscal” for “First 303 days of fiscal” in heading, “September 30, 2005” for “July 30, 2005” and “$82,000,000” for “$68,071,233” in introductory provisions, “$10,000,000” for “$8,301,370” in subpar. (A), and “$8,000,000” for “$6,641,096” in subpar. (B).
+
+Pub. L. 109–40, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 303 days of fiscal year 2005 for similar provisions relating to use of funds for first 300 days of fiscal year 2005.
+
+Pub. L. 109–37, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 300 days of fiscal year 2005 for similar provisions relating to use of funds for first 42 weeks of fiscal year 2005.
+
+Pub. L. 109–35, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 42 weeks of fiscal year 2005 for similar provisions relating to use of funds for first 292 days of fiscal year 2005.
+
+Pub. L. 109–20, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 292 days of fiscal year 2005 for similar provisions relating to use of funds for first 9 months of fiscal year 2005.
+
+Pub. L. 109–14, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 9 months of fiscal year 2005 for similar provisions relating to use of funds for fiscal year 2004.
+
+Subsec. (c). Pub. L. 109–59, §10113(4), (5), substituted “Secretary, for each of fiscal years 2006 through 2009, after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance” for “Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), (c), and (d) of this section, respectively, and after deducting amounts used for grants under section 777m of this title, shall apportion the remainder” and “percent” for “per centum” after “40”, “60”, “1”, and “5”.
+
+Pub. L. 109–59, §10113(1), redesignated subsec. (e) as (c) and struck out former subsec. (c) which obligated amounts for the National Outreach and Communications Program for fiscal years 1999 through 2005.
+
+Subsec. (c)(7). Pub. L. 109–74, §201, amended par. (7) generally, substituting “$10,000,000 for fiscal year 2005;” for “$8,301,370 for the period of October 1, 2004, through July 30, 2005;”.
+
+Pub. L. 109–40, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,219,180 for the period of October 1, 2004, through July 27, 2005;”.
+
+Pub. L. 109–37, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,099,997 for the period of October 1, 2004, through July 21, 2005;”.
+
+Pub. L. 109–35, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,000,000 for the period of October 1, 2004, through July 19, 2005;”.
+
+Pub. L. 109–20, §8(a), substituted “(7) $8,000,000 for the period of October 1, 2004, through July 19, 2005;” for “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;”.
+
+Pub. L. 109–14, §8(a), directed amendment of par. (7) generally by substituting “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;” for “(7) $6,666,664 for the period of October 1, 2004, through May 31, 2005;”. See above.
+
+Subsec. (d). Pub. L. 109–59, §10113(1), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+
+Subsec. (e). Pub. L. 109–59, §10113(1), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (c).
+
+Subsec. (e)(1). Pub. L. 109–59, §10113(6), substituted “paragraphs (1), (3), (4), and (5) of subsection (a)” for “subsections (a), (b)(3)(A), (b)(3)(B), and (c)”.
+
+Subsec. (f). Pub. L. 109–59, §10113(7), added subsec. (f). Former subsec. (f) redesignated (d).
+
+Subsec. (g). Pub. L. 109–59, §10113(1), redesignated subsec. (g) as (e).
 
 2004—Subsec. (a). Pub. L. 108–447 substituted “2019” for “2009”.
 
@@ -166,7 +168,7 @@ Subsec. (c)(6). Pub. L. 108–88, §9(a), added par. (6).
 
 2000—Subsec. (a). Pub. L. 106–377 and Pub. L. 106–408, §123, amended subsec. (a) identically, substituting “fiscal year 2009” for “fiscal year 2000”.
 
-Subsec. (d). Pub. L. 106–408, §121(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section, respectively, so much, not to exceed 6 per centum of such balance, as the Secretary of the Interior may estimate to be necessary for his or her expenses in the conduct of necessary investigations, administration, and the execution of this chapter, for an outreach and communications program and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters, shall be deducted for that purpose, and such sum is authorized to be made available until the expiration of the next succeeding fiscal year. Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c) of this section. No funds available to the Secretary under this subsection may be used to replace funding traditionallyprovided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
+Subsec. (d). Pub. L. 106–408, §121(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section, respectively, so much, not to exceed 6 per centum of such balance, as the Secretary of the Interior may estimate to be necessary for his or her expenses in the conduct of necessary investigations, administration, and the execution of this chapter, for an outreach and communications program and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters, shall be deducted for that purpose, and such sum is authorized to be made available until the expiration of the next succeeding fiscal year. Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c) of this section. No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
 
 Subsec. (e). Pub. L. 106–408, §122(b), inserted “and after deducting amounts used for grants under section 777m of this title,” after “respectively,” in first sentence.
 
@@ -192,7 +194,7 @@ Pub. L. 105–178, §7402(b)(1), redesignated subsec. (d) as (e). Former subsec.
 
 Subsec. (f). Pub. L. 105–178, §7402(b)(1), redesignated subsec. (e) as (f).
 
-1992—Pub. L. 102–587 added subsecs. (a) to (c), inserted subsec. (d) designation and substituted “The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), and (c) of this section, respectively, shall apportion the remainder of each such annual appropriation among the several States” for “So much, not to exceed 6 per centum, of each annual appropriation made in accordance with the provisions of section 777b of this title as the Secretary of the Interior may estimate to be necessary for his expenses in the conduct of necessary investigations, administration, and the execution of this chapter and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year. The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: <i>Provided</i>, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999. The Secretary of the Interior, after making the aforesaid deduction, shall apportion the remainder of the appropriation for each fiscal year among the several States”, and inserted subsec. (e) designation.
+1992—Pub. L. 102–587 added subsecs. (a) to (c), inserted subsec. (d) designation and substituted “The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), and (c) of this section, respectively, shall apportion the remainder of each such annual appropriation among the several States” for “So much, not to exceed 6 per centum, of each annual appropriation made in accordance with the provisions of section 777b of this title as the Secretary of the Interior may estimate to be necessary for his expenses in the conduct of necessary investigations, administration, and the execution of this chapter and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters shall be deducted for that purpose, and such sum is authorized to be made availabletherefor until the expiration of the next succeeding fiscal year. The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: <i>Provided</i>, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999. The Secretary of the Interior, after making the aforesaid deduction, shall apportion the remainder of the appropriation for each fiscal year among the several States”, and inserted subsec. (e) designation.
 
 1990—Pub. L. 101–646 inserted after first sentence “The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: <i>Provided</i>, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999.”
 
@@ -201,6 +203,12 @@ Subsec. (f). Pub. L. 105–178, §7402(b)(1), redesignated subsec. (e) as (f).
 1976—Pub. L. 94–273 substituted “September” for “June”, and “October” for “July”.
 
 1970—Pub. L. 91–503 changed method of apportionment of funds by striking out reference to “to all the States” and inserted definition of “fiscal year”.
+
+#### Effective Date of 2005 Amendments
+
+From Aug. 10, 2005, to end of fiscal year 2005, section considered to read as immediately before enactment of Pub. L. 109–59, except as provided by the amendments by sections 201 and 202 of Pub. L. 109–74, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
+
+Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -215,4 +223,6 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

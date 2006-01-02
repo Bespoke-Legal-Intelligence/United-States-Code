@@ -12,21 +12,31 @@
 
 &emsp;(3) the debtor has not filed a plan that has been accepted, before 180 days after the date of the order for relief under this chapter, by each class of claims or interests that is impaired under the plan.
 
-(d) On request of a party in interest made within the respective periods specified in subsections (b) and (c) of this section and after notice and a hearing, the court may for cause reduce or increase the 120-day period or the 180-day period referred to in this section.
+(d)(1) Subject to paragraph (2), on request of a party in interest made within the respective periods specified in subsections (b) and (c) of this section and after notice and a hearing, the court may for cause reduce or increase the 120-day period or the 180-day period referred to in this section.
 
-(e) In a case in which the debtor is a small business and elects to be considered a small business—
+(2)(A) The 120-day period specified in paragraph (1) may not be extended beyond a date that is 18 months after the date of the order for relief under this chapter.
 
-&emsp;(1) only the debtor may file a plan until after 100 days after the date of the order for relief under this chapter;
+(B) The 180-day period specified in paragraph (1) may not be extended beyond a date that is 20 months after the date of the order for relief under this chapter.
 
-&emsp;(2) all plans shall be filed within 160 days after the date of the order for relief; and
+(e) In a small business case—
 
-&emsp;(3) on request of a party in interest made within the respective periods specified in paragraphs (1) and (2) and after notice and a hearing, the court may—
+&emsp;(1) only the debtor may file a plan until after 180 days after the date of the order for relief, unless that period is—
 
-&emsp;&emsp;(A) reduce the 100-day period or the 160-day period specified in paragraph (1) or (2) for cause; and
+&emsp;&emsp;(A) extended as provided by this subsection, after notice and a hearing; or
 
-&emsp;&emsp;(B) increase the 100-day period specified in paragraph (1) if the debtor shows that the need for an increase is caused by circumstances for which the debtor should not be held accountable.
+&emsp;&emsp;(B) the court, for cause, orders otherwise;
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §506, July 10, 1984, 98 Stat. 385; Pub. L. 99–554, title II, §283(u), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title II, §217(d), Oct. 22, 1994, 108 Stat. 4127.)
+&emsp;(2) the plan and a disclosure statement (if any) shall be filed not later than 300 days after the date of the order for relief; and
+
+&emsp;(3) the time periods specified in paragraphs (1) and (2), and the time fixed in section 1129(e) within which the plan shall be confirmed, may be extended only if—
+
+&emsp;&emsp;(A) the debtor, after providing notice to parties in interest (including the United States trustee), demonstrates by a preponderance of the evidence that it is more likely than not that the court will confirm a plan within a reasonable period of time;
+
+&emsp;&emsp;(B) a new deadline is imposed at the time the extension is granted; and
+
+&emsp;&emsp;(C) the order extending time is signed before the existing deadline has expired.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §506, July 10, 1984, 98 Stat. 385; Pub. L. 99–554, title II, §283(u), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 103–394, title II, §217(d), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§411, 437, Apr. 20, 2005, 119 Stat. 106, 113.)
 
 #### Historical and Revision Notes
 
@@ -38,11 +48,25 @@ Section 1121 of the House amendment is derived from section 1121 of the House bi
 
 Subsection (a) permits the debtor to file a reorganization plan with a petition commencing a voluntary case or at any time during a voluntary or involuntary case.
 
-Subsection (b) gives the debtor the exclusive right to file a plan during the first 120 days of the case. There are exceptions, however, enumerated in subsection (c). If a trustee has been appointed, if the debtor does not meet the 120-day deadline, or if the debtor fails to obtain the required consent within 180 days after the filing of the petition, any party in interest may propose a plan. This includes the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, and an indenture trustee. The list is not exhaustive. In the case of a public company, a trustee is appointed within 10 daysof the petition. In such a case, for all practical purposes, any party in interest may file a plan.
+Subsection (b) gives the debtor the exclusive right to file a plan during the first 120 days of the case. There are exceptions, however, enumerated in subsection (c). If a trustee has been appointed, if the debtor does not meet the 120-day deadline, or if the debtor fails to obtain the required consent within 180 days after the filing of the petition, any party in interest may propose a plan. This includes the debtor, the trustee, a creditors’ committee, an equity security holders’ committee, a creditor, an equity security holder, and an indenture trustee. The list is not exhaustive. In the case of a public company, a trustee is appointed within 10 days of the petition. In such a case, for all practical purposes, any party in interest may file a plan.
 
 Subsection (d) permits the court, for cause, to increase or reduce the 120-day and 180-day periods specified. Since, the debtor has an exclusive privilege for 6 months during which others may not file a plan, the granted extension should be based on a showing of some promise of probable success. An extension should not be employed as a tactical device to put pressure on parties in interest to yield to a plan they consider unsatisfactory.
 
 #### Amendments
+
+2005—Subsec. (d). Pub. L. 109–8, §411, designated existing provisions as par. (1), substituted “Subject to paragraph (2), on” for “On”, and added par. (2).
+
+Subsec. (e). Pub. L. 109–8, §437, added subsec. (e) and struck out former subsec. (e) which read as follows: “In a case in which the debtor is a small business and elects to be considered a small business—
+
+&emsp;“(1) only the debtor may file a plan until after 100 days after the date of the order for relief under this chapter;
+
+&emsp;“(2) all plans shall be filed within 160 days after the date of the order for relief; and
+
+&emsp;“(3) on request of a party in interest made within the respective periods specified in paragraphs (1) and (2) and after notice and a hearing, the court may—
+
+&emsp;&emsp;“(A) reduce the 100-day period or the 160-day period specified in paragraph (1) or (2) for cause; and
+
+&emsp;&emsp;“(B) increase the 100-day period specified in paragraph (1) if the debtor shows that the need for anincrease is caused by circumstances for which the debtor should not be held accountable.”
 
 1994—Subsec. (e). Pub. L. 103–394 added subsec. (e).
 
@@ -51,6 +75,10 @@ Subsection (d) permits the court, for cause, to increase or reduce the 120-day a
 1984—Subsec. (c)(3). Pub. L. 98–353, §506(a), substituted “of claims or interests that is” for “the claims or interests of which are”.
 
 Subsec. (d). Pub. L. 98–353, §506(b), inserted “made within the respective periods specified in subsection (c) of this section”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

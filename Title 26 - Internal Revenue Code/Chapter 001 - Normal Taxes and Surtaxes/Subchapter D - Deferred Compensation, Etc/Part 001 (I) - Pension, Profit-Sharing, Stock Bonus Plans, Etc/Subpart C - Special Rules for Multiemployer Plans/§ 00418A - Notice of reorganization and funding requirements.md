@@ -40,7 +40,3 @@ The Pension Benefit Guaranty Corporation may prescribe additional or alternative
 
 Section 4212(a) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(A), is classified to section 1392(a) of Title 29, Labor.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 418E of this title.
-

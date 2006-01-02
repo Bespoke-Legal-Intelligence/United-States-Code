@@ -19,3 +19,5 @@
 - [&sect; 01112 - Conversion or dismissal](%C2%A7%2001112%20-%20Conversion%20or%20dismissal.md)
 - [&sect; 01113 - Rejection of collective bargaining agreements](%C2%A7%2001113%20-%20Rejection%20of%20collective%20bargaining%20agreements.md)
 - [&sect; 01114 - Payment of insurance benefits to retired employees](%C2%A7%2001114%20-%20Payment%20of%20insurance%20benefits%20to%20retired%20employees.md)
+- [&sect; 01115 - Property of the estate](%C2%A7%2001115%20-%20Property%20of%20the%20estate.md)
+- [&sect; 01116 - Duties of trustee or debtor in possession in small business cases](%C2%A7%2001116%20-%20Duties%20of%20trustee%20or%20debtor%20in%20possession%20in%20small%20business%20cases.md)

@@ -38,7 +38,7 @@ For purposes of this title, an earned income eligibility certificate is a statem
 
 &emsp;&emsp;(B) if the employee is not married, or if no earned income eligibility certificate is in effect with respect to the spouse of the employee, shall treat the credit provided by section 32 as if it were a credit—
 
-&emsp;&emsp;&emsp;(i) of not more than 60 percent of the credit percentage in effect under section 32(b)(1) for an eligible individual with 1 qualifying child and with earned income not in excess of the earned income amount in effect under section 32(b)(2) for such an eligible individual, which
+&emsp;&emsp;&emsp;(i) of not more than 60 percent of the credit percentage in effect under section 32(b)(1) for an eligible individual with 1 qualifying child and with earned income not in excess of the earned income amountin effect under section 32(b)(2) for such an eligible individual, which
 
 &emsp;&emsp;&emsp;(ii) phases out at 60 percent of the phaseout percentage in effect under section 32(b)(1) for such an eligible individual between the phaseout amount in effect under section 32(b)(2) for such an eligible individual and the amount of earned income at which the credit under section 32(a) phases out for such an eligible individual, or
 
@@ -76,7 +76,7 @@ For purposes of this title, an earned income eligibility certificate is a statem
 
 #### (4) Failure to make advance payments
 
-&emsp;For purposes of this title (including penalties), failure to make any advance payment under this section at the time provided therefor shall be treated as the failure at such time to deduct and withhold under chapter 24 anamount equal to the amount of such advance payment.
+&emsp;For purposes of this title (including penalties), failure to make any advance payment under this section at the time provided therefor shall be treated as the failure at such time to deduct and withhold under chapter 24 an amount equal to the amount of such advance payment.
 
 #### (e) Furnishing and taking effect of certificates
 
@@ -146,7 +146,7 @@ Subsec. (f). Pub. L. 103–66, §13131(d)(6), added subsec. (f).
 
 &emsp;“(i) of not more than 14 percent of earned income not in excess of the amount of earned income taken into account under section 32(a), which
 
-&emsp;“(ii) phases out between the amount of earned income at which the phaseout begins under subsection\(b) of section 32 and the amount of earned income at which the credit under section 32 is phased out under such subsection, or
+&emsp;“(ii) phases out between the amount of earned income at which the phaseout begins under subsection (b) of section 32 and the amount of earned income at which the credit under section 32 is phased out under such subsection, or
 
 “(C) if an earned income eligibility certificate is in effect with respect to the spouse of the employee, shall treat the credit provided by section 32 as if it were a credit—
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) ofPub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -229,8 +229,4 @@ In General.—The Comptroller General of the United States shall, in consultatio
 “(b)
 
 Report.—Not later than 1 year after the date of the enactment of this title \[Nov. 5, 1990\], the Comptroller shall report the results of the study conducted under subsection (a), together with any recommendations, to the Committee on Finance of the United States Senate and the Committee on Ways and Means of the House of Representatives.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 32, 6012, 6051, 6302 of this title; title 7 section 2014; title 42 sections 653, 1382a, 1382b.
 

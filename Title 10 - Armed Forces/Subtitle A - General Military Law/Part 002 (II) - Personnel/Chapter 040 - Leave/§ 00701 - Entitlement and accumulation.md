@@ -10,7 +10,7 @@
 
 &emsp;(4) leave required to be taken under section 876a of this title.
 
-> Full-time training, or other full-time duty for a period of more than 29 days, performed undersection 316, 502, 503, 504, or 505 of title 32 by a member of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, and for which he is entitled to pay, is active service for the purposes of this section.
+> Full-time training, or other full-time duty for a period of more than 29 days, performed under section 316, 502, 503, 504, or 505 of title 32 by a member of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, and for which he is entitled to pay, is active service for the purposes of this section.
 
 (b) Except as provided in subsection (f) and subsection (g), a member may not accumulate more than 60 days’ leave. However, leave taken during a fiscal year may be charged to leave accumulated during that fiscal year without regard to this limitation.
 
@@ -22,11 +22,13 @@
 
 (f)(1)(A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize a member described in subparagraph (B) who, except for this paragraph, would lose any accumulated leave in excess of 60 days at the end of the fiscal year, to retain an accumulated total of 120 days leave.
 
-(B) This subsection applies to a member who serves on active duty for a continuous period of at least 120 days—
+(B) This subsection applies to a member who—
 
-&emsp;(i) in an area in which the member is entitled to special pay under section 310(a) of title 37; or
+&emsp;(i) serves on active duty for a continuous period of at least 120 days in an area in which the member is entitled to special pay under section 310(a) of title 37;
 
-&emsp;(ii) while assigned to a deployable ship or mobile unit or to other duty comparable to that specified in clause (i) that is designated for the purpose of this subsection.
+&emsp;(ii) is assigned to a deployable ship or mobile unit or to other duty designated for the purpose of this section; or
+
+&emsp;(iii) on or after August 29, 2005, performs duty designated by the Secretary of Defense as qualifying duty for purposes of this subsection.
 
 (C) Except as provided in paragraph (2), leave in excess of 60 days accumulated under this paragraph is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the continuous period of service referred to in subparagraph (B) terminated.
 
@@ -46,7 +48,15 @@
 
 (h) A member who has taken leave in excess of that authorized by this section and who is being discharged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478.)
+(i)(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces adopting a child in a qualifying child adoption is allowed up to 21 days of leave in a calendar year to be used in connection with the adoption.
+
+(2) For the purpose of this subsection, an adoption of a child by a member is a qualifying child adoption if the member is eligible for reimbursement of qualified adoption expenses for such adoption under section 1052 of this title.
+
+(3) In the event that two members of the armed forces who are married to each other adopt a child in a qualifying child adoption, only one such member shall be allowed leave under this subsection.
+
+(4) Leave under paragraph (1) is in addition to other leave provided under other provisions of this section.
+
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321.)
 
 Historical and Revision Notes
 
@@ -90,6 +100,14 @@ In subsection (e), the words “before or after August 9, 1946” and section 31
 
 #### Amendments
 
+2006—Subsec. (f)(1)(B). Pub. L. 109–163, §682, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “This subsection applies to a member who serves on active duty for a continuous period of at least 120 days—
+
+&emsp;“(i) in an area in which the member is entitled to special pay under section 310(a) of title 37; or
+
+&emsp;“(ii) while assigned to a deployable ship or mobile unit or to other duty comparable to that specified in clause (i) that is designated for the purpose of this subsection.”
+
+Subsec. (i). Pub. L. 109–163, §593(a), added subsec. (i).
+
 2003—Subsec. (f)(1). Pub. L. 108–136 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Under uniform regulations to be prescribed by the Secretary concerned, and approved by the Secretary of Defense, a member who serves on active duty for a continuous period of at least 120 days in an area in which he is entitled to special pay under section 310(a) of title 37 or a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section, may accumulate 90 days’ leave. Except as provided in paragraph (2), leave in excess of 60 days accumulated under this subsection is lost unless it is used by the member before the end of the third fiscal year after the fiscal year in which the service terminated.”
 
 1991—Subsec. (f). Pub. L. 102–190 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), leave” for “Leave” in last sentence, and added par. (2).
@@ -118,6 +136,10 @@ Subsec. (f). Pub. L. 90–245, §1(2), added subsec. (f).
 
 1965—Subsec. (d). Pub. L. 89–151 repealed subsec. (d) which provided that accumulated leave did not survive the death of a member during active service.
 
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title V, §593(b), Jan. 6, 2006, 119 Stat. 3281, provided that: “Subsection (i) of section 701 of title 10, United States Code (as added by subsection (a)), shall take effect on January 1, 2006, and shall apply only with respect to adoptions completed on or after that date.”
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–136, div. A, title V, §542(b), Nov. 24, 2003, 117 Stat. 1478, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2003, or the date of the enactment of this Act \[Nov. 24, 2003\], whichever is later.”
@@ -132,7 +154,7 @@ Section 1031(b)(1), (2) of Pub. L. 98–94 provided that:
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effective date, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
+Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effectivedate, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
 
 #### Effective Date of 1972 Amendment
 
@@ -163,8 +185,4 @@ Authority vested by this chapter in “military departments”, “the Secretary
 Pub. L. 97–39, title VII, §702, Aug. 14, 1981, 95 Stat. 943, provided that: “The amendment made by section 10 of the Military Pay and Allowances Benefits Act of 1980 (Public Law 96–579; 94 Stat. 3368) \[amending this section\] shall apply with respect to the accumulation of leave by members of the Armed Forces who after September 30, 1979, are assigned (1) to a deployable ship or mobile unit, or (2) to other duty designated after the date of the enactment of this Act \[Aug. 14, 1981\] as duty qualifying for the purpose of section 701(f) of title 10, United States Code, as amended by that amendment.”
 
 For savings provision extending period for which certain accrued leave under subsec. (f) of this section may be retained by members of Armed Forces, see section 1115 of Pub. L. 101–510, set out as a Treatment of Accumulated Leave note under section 501 of Title 37, Pay and Allowances of the Uniformed Services.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 702, 703 of this title; title 37 sections 501, 502.
 

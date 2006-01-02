@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) 18 years of age or older and incapable of self-care because of a mental or physical disability.
 
-(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II,§202(c)(2), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 19; amended Pub. L. 104–1, title II, §202(c)(2), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 

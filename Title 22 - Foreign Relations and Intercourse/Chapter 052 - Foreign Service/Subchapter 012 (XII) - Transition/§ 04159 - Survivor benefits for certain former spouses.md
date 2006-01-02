@@ -14,7 +14,7 @@ Any participant or former participant in the Foreign Service Retirement and Disa
 
 #### (c) Portion of annuity as basis for benefits
 
-An election under this section may provide for a survivor benefit based on all or any portion of that part of the annuity of the participant which is not designated or committed as a basefor survivor benefits for a spouse or any other former spouse of the participant. The participant and his or her spouse may make an election under section 4046(b)(1)(B) of this title prior to the time of retirement for the purpose of allowing an election to be made under this section.
+An election under this section may provide for a survivor benefit based on all or any portion of that part of the annuity of the participant which is not designated or committed as a base for survivor benefits for a spouse or any other former spouse of the participant. The participant and his or her spouse may make an election under section 4046(b)(1)(B) of this title prior to the time of retirement for the purpose of allowing an election to be made under this section.
 
 #### (d) Amount of reduction; effective date
 

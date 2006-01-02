@@ -30,6 +30,174 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### Support for Youth Organizations
+
+Pub. L. 109–163, div. A, title X, §1058(a), (b), Jan. 6, 2006, 119 Stat. 3442, provided that:
+
+“(a)
+
+Youth Organization Defined.—In this section, the term ‘youth organization’ means—
+
+&emsp;“(1) the Boy Scouts of America;
+
+&emsp;“(2) the Girl Scouts of the United States of America;
+
+&emsp;“(3) the Boys Clubs of America;
+
+&emsp;“(4) the Girls Clubs of America;
+
+&emsp;“(5) the Young Men's Christian Association;
+
+&emsp;“(6) the Young Women's Christian Association;
+
+&emsp;“(7) the Civil Air Patrol;
+
+&emsp;“(8) the United States Olympic Committee;
+
+&emsp;“(9) the Special Olympics;
+
+&emsp;“(10) Campfire USA;
+
+&emsp;“(11) the Young Marines;
+
+&emsp;“(12) the Naval Sea Cadets Corps;
+
+&emsp;“(13) 4–H Clubs;
+
+&emsp;“(14) the Police Athletic League;
+
+&emsp;“(15) Big Brothers—Big Sisters of America;
+
+&emsp;“(16) National Guard Challenge Program; and
+
+&emsp;“(17) any other organization designated by the President as an organization that is primarily intended to—
+
+&emsp;&emsp;“(A) serve individuals under the age of 21 years;
+
+&emsp;&emsp;“(B) provide training in citizenship, leadership, physical fitness, service to community, and teamwork; and
+
+&emsp;&emsp;“(C) promote the development of character and ethical and moral values.
+
+“(b)
+
+Support for Youth Organizations.—
+
+&emsp;“(1)
+
+Continuation of support.—No Federal law (including any rule, regulation, directive, instruction, or order) shall be construed to limit any Federal agency from providing any form of support for a youth organization (including the Boy Scouts of America or any group officially affiliated with the Boy Scouts of America) that would result in that Federal agency providing less support to that youth organization (or any similar organization chartered under the chapter of title 36, United States Code, relating to that youth organization) than was provided during the preceding fiscal year to that youth organization. This paragraph shall be subject to the availability of appropriations.
+
+&emsp;“(2)
+
+Youth organizations that cease to exist.—Paragraph (1) shall not apply to any youth organization that ceases to exist.
+
+&emsp;“(3)
+
+Waivers.—The head of a Federal agency may waive the application of paragraph (1) to a youth organization with respect to each conviction or investigation described under subparagraph (A) or (B) for a period of not more than two fiscal years if—
+
+&emsp;&emsp;“(A) any senior officer (including any member of the board of directors) of the youth organization is convicted of a criminal offense relating to the official duties of that officer or the youth organization is convicted of a criminal offense; or
+
+&emsp;&emsp;“(B) the youth organization is the subject of a criminal investigation relating to fraudulent use or waste of Federal funds.
+
+&emsp;“(4)
+
+Types of support.—Support described in paragraph (1) includes—
+
+&emsp;&emsp;“(A) authorizing a youth organization to hold meetings, camping events, or other activities on Federal property;
+
+&emsp;&emsp;“(B) hosting any official event of a youth organization;
+
+&emsp;&emsp;“(C) loaning equipment for the use of a youth organization; and
+
+&emsp;&emsp;“(D) providing personnel services and logistical support for a youth organization.”
+
+Pub. L. 109–148, div. A, title VIII, §8126(b), Dec. 30, 2005, 119 Stat. 2728, provided that:
+
+“(1)
+
+Definitions.—In this subsection—
+
+&emsp;“(A) the term ‘Federal agency’ means each department, agency, instrumentality, or other entity of the United States Government; and
+
+&emsp;“(B) the term ‘youth organization’—
+
+&emsp;&emsp;“(i) means any organization that is designated by the President as an organization that is primarily intended to—
+
+&emsp;&emsp;&emsp;“(I) serve individuals under the age of 21 years;
+
+&emsp;&emsp;&emsp;“(II) provide training in citizenship, leadership, physical fitness, service to community, and teamwork; and
+
+&emsp;&emsp;&emsp;“(III) promote the development of character and ethical and moral values; and
+
+&emsp;&emsp;“(ii) shall include—
+
+&emsp;&emsp;&emsp;“(I) the Boy Scouts of America;
+
+&emsp;&emsp;&emsp;“(II) the Girl Scouts of the United States of America;
+
+&emsp;&emsp;&emsp;“(III) the Boys Clubs of America;
+
+&emsp;&emsp;&emsp;“(IV) the Girls Clubs of America;
+
+&emsp;&emsp;&emsp;“(V) the Young Men's Christian Association;
+
+&emsp;&emsp;&emsp;“(VI) the Young Women's Christian Association;
+
+&emsp;&emsp;&emsp;“(VII) the Civil Air Patrol;
+
+&emsp;&emsp;&emsp;“(VIII) the United States Olympic Committee;
+
+&emsp;&emsp;&emsp;“(IX) the Special Olympics;
+
+&emsp;&emsp;&emsp;“(X) Campfire USA;
+
+&emsp;&emsp;&emsp;“(XI) the Young Marines;
+
+&emsp;&emsp;&emsp;“(XII) the Naval Sea Cadets Corps;
+
+&emsp;&emsp;&emsp;“(XIII) 4–H Clubs;
+
+&emsp;&emsp;&emsp;“(XIV) the Police Athletic League;
+
+&emsp;&emsp;&emsp;“(XV) Big Brothers—Big Sisters of America; and
+
+&emsp;&emsp;&emsp;“(XVI) National Guard Youth Challenge.
+
+“(2)
+
+In general.—
+
+&emsp;“(A)
+
+Support for youth organizations.—
+
+&emsp;&emsp;“(i)
+
+Support.—No Federal law (including any rule, regulation, directive, instruction, or order) shall be construed to limit any Federal agency from providing any form of support for a youth organization (including the Boy Scouts of America or any group officially affiliated with the Boy Scouts ofAmerica) that would result in that Federal agency providing less support to that youth organization (or any similar organization chartered under the chapter of title 36, United States Code, relating to that youth organization) than was provided during the preceding fiscal year. This clause shall be subject to the availability of appropriations.
+
+&emsp;&emsp;“(ii)
+
+Youth organizations that cease to exist.—Clause (i) shall not apply to any youth organization that ceases to exist.
+
+&emsp;&emsp;“(iii)
+
+Waivers.—The head of a Federal agency may waive the application of clause (i) to any youth organization with respect to each conviction or investigation described under subclause (I) or (II) for a period of not more than 2 fiscal years if—
+
+&emsp;&emsp;&emsp;“(I) any senior officer (including any member of the board of directors) of the youth organization is convicted of a criminal offense relating to the official duties of that officer or the youth organization is convicted of a criminal offense; or
+
+&emsp;&emsp;&emsp;“(II) the youth organization is the subject of a criminal investigation relating to fraudulent use or waste of Federal funds.
+
+&emsp;“(B)
+
+Types of support.—Support described under this paragraph shall include—
+
+&emsp;&emsp;“(i) holding meetings, camping events, or other activities on Federal property;
+
+&emsp;&emsp;“(ii) hosting any official event of such organization;
+
+&emsp;&emsp;“(iii) loaning equipment; and
+
+&emsp;&emsp;“(iv) providing personnel services and logistical support.”
+
 #### Minimum Standards for Birth Certificates
 
 Pub. L. 108–458, title VII, §7211(a)–(d), Dec. 17, 2004, 118 Stat. 3825–3827, provided that:

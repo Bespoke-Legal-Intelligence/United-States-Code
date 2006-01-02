@@ -8,7 +8,3 @@ Any person required under section 6057(e) to furnish a statement to a participan
 
 Section effective Sept. 2, 1974, see section 1034 of Pub. L. 93–406, set out as a note under section 6057 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6057 of this title.
-

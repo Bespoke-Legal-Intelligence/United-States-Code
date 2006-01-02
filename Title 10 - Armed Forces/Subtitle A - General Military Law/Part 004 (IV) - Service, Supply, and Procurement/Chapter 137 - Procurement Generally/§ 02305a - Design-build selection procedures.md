@@ -66,13 +66,29 @@ Requirement for Guidance and Regulations.—The Federal Acquisition Regulation s
 
 &emsp;(3) providing for a uniform approach to be used Government-wide.
 
-(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–217, §3(b)(4), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–178, §4(b)(3), Dec. 15, 2003, 117 Stat. 2641.)
+(f)
+
+Special Authority for Military Construction Projects.—(1) The Secretary of a military department may use funds available to the Secretary under section 2807(a) or 18233(e) of this title to accelerate the design effort in connection with a military construction project for which the two-phase selection procedures described in subsection (c) are used to select the contractor for both the design and construction portion of the project before the project is specifically authorized by law and before funds are appropriated for the construction portion of the project. Notwithstanding the limitations contained in such sections, use of such funds for the design portion of a military construction project may continue despite the subsequent authorization of the project. The advance notice requirement of section 2807(b) of this title shall continue to apply whenever the estimated cost of the design portion of the project exceeds the amount specified in such section.
+
+(2) Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience before funds are first made available for construction may not exceed an amount attributable to the final design of the project.
+
+(3) For each fiscal year during which the authority provided by this subsection is in effect, the Secretary of a military department may select not more than two military construction projects to include the accelerated design effort authorized by paragraph (1) for each armed force under the jurisdiction of the Secretary. To be eligible for selection under this subsection, a request for the authorization of the project, and for the authorization of appropriations for the project, must have been included in the annual budget of the President for a fiscal year submitted to Congress under section 1105(a) of title 31.
+
+(4) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report evaluating the usefulness of the authority provided by this subsection in expediting the design and construction of military construction projects. The authority provided by this subsection expires September 30, 2008, except that, if the report required by this paragraph is not submitted by March 1, 2008, the authority shall expire on that date.
+
+(Added Pub. L. 104–106, div. D, title XLI, §4105(a)(1), Feb. 10, 1996, 110 Stat. 645; amended Pub. L. 105–85, div. A, title X, §1073(a)(44), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–217, §3(b)(4), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 108–178, §4(b)(3), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 108–375, div. B, title XXVIII, §2807, Oct. 28, 2004, 118 Stat. 2123; Pub. L. 109–163, div. B, title XXVIII, §2807, Jan. 6, 2006, 119 Stat. 3508.)
 
 #### Prior Provisions
 
 A prior section 2305a was renumbered section 2438 of this title.
 
 #### Amendments
+
+2006—Subsec. (f)(2). Pub. L. 109–163, §2807(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any military construction contract that provides for an accelerated design effort, as authorized by paragraph (1), shall include as a condition of the contract that the liability of the United States in a termination for convenience may not exceed the actual costs incurred as of the termination date.”
+
+Subsec. (f)(4). Pub. L. 109–163, §2807(b), substituted “2008” for “2007” wherever appearing.
+
+2004—Subsec. (f). Pub. L. 108–375 added subsec. (f).
 
 2003—Subsec. (c)(1). Pub. L. 108–178 substituted “chapter 11 of title 40” for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”.
 

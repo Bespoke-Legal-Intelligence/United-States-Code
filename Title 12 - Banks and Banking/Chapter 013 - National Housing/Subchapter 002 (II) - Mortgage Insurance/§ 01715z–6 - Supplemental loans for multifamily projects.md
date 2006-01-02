@@ -8,7 +8,7 @@ With respect to a multifamily project, hospital, or group practice facility cove
 
 To be eligible for insurance under this section, a supplemental loan shall—
 
-&emsp;(1) be limited to 90 per centum of the amount which the Secretary estimates will be the value of such improvements, additions, and equipment, except that such amount when added to the outstanding balance of the mortgage covering the project or facility, shall not exceed the maximum mortgage amount insurable under the section or subchapter pursuant to which the mortgage covering such project or facility is insured or an amount acceptable to the Secretary;
+&emsp;(1) be limited to 90 per centum of the amount which the Secretary estimates will be the value of such improvements, additions, and equipment, except that such amount when added to the outstanding balance of the mortgage covering the project or facility, shall not exceed the maximum mortgage amount insurable under the section or subchapter pursuantto which the mortgage covering such project or facility is insured or an amount acceptable to the Secretary;
 
 &emsp;(2) have a maturity satisfactory to the Secretary;
 
@@ -16,7 +16,7 @@ To be eligible for insurance under this section, a supplemental loan shall—
 
 &emsp;(4) be secured in such manner as the Secretary may require;
 
-&emsp;(5) be governed by the labor standards provisions of section 1715c of this title that are applicable to the section or subchapter pursuantto which the mortgage covering the project or facility is insured or pursuant to which the original mortgage covering the project or facility was insured; and
+&emsp;(5) be governed by the labor standards provisions of section 1715c of this title that are applicable to the section or subchapter pursuant to which the mortgage covering the project or facility is insured or pursuant to which the original mortgage covering the project or facility was insured; and
 
 &emsp;(6) contain such other terms, conditions, and restrictions as the Secretary may prescribe.
 
@@ -52,7 +52,7 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (3) The provisions of subsection (c) of this section shall apply to loans insured under this subsection.
 
-(4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
+(4) The Secretary shall provide that any person obligated on the note for any loan insuredunder this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
 
 #### (f) Repealed. Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885
 

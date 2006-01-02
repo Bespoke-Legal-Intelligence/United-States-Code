@@ -10,7 +10,7 @@ Any vessel which violates section 269 of this title, or any regulations thereund
 
 #### (c) Remittance or mitigation of forfeitures
 
-With the approval of the Secretary, the Surgeon General may, upon application therefor,remit or mitigate any forfeiture provided for under subsection (b) of this section, and he shall have authority to ascertain the facts upon all such applications.
+With the approval of the Secretary, the Surgeon General may, upon application therefor, remit or mitigate any forfeiture provided for under subsection (b) of this section, and he shall have authority to ascertain the facts upon all such applications.
 
 (July 1, 1944, ch. 373, title III, §368, 58 Stat. 706; June 25, 1948, ch. 646, §1, 62 Stat. 909; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
 

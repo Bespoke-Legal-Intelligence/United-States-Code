@@ -224,7 +224,7 @@ The purposes of the Center shall be to—
 
 #### (A) Nominating body
 
-&emsp;&emsp;The Secretary shall appoint the voting members of the Board from nominations submitted by organizations described in subparagraph (B).
+&emsp;&emsp;The Secretary shall appoint the voting members of the Board from nominationssubmitted by organizations described in subparagraph (B).
 
 #### (B) National organizations
 

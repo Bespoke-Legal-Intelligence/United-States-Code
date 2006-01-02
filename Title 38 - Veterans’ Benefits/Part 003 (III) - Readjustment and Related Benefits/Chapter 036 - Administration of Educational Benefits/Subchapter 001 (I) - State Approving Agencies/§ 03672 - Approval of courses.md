@@ -10,13 +10,13 @@
 
 &emsp;(B) the training establishment is a carrier directly engaged in interstate commerce which provides such training in more than one State,
 
-> the Secretary shall act as a “State approving agency” as such term is used in section 3687(a)(1) of this title and shall be responsible for the approval of all such programs.
+> the Secretary shall act as a “State approving agency” as such term is used in section3687(a)(1) of this title and shall be responsible for the approval of all such programs.
 
 (2) The period of a program of apprenticeship may be determined based upon a specific period of time (commonly referred to as a “time-based program”), based upon the demonstration of successful mastery of skills (commonly referred to as a “competency-based program”), or based upon a combination thereof.
 
 (3)(A) In the case of a competency-based program of apprenticeship, State approving agencies shall determine the period for which payment may be made for such a program under chapters 30 and 35 of this title and chapter 1606 of title 10. In determining the period of such a program, State approving agencies shall take into consideration the approximate term of the program recommended in registered apprenticeship program standards recognized by the Secretary of Labor.
 
-(B) The sponsor of a competency-based program of apprenticeship shall provide notice tothe State approving agency involved of any such standards that may apply to the program and the proposed approximate period of training under the program.
+(B) The sponsor of a competency-based program of apprenticeship shall provide notice to the State approving agency involved of any such standards that may apply to the program and the proposed approximate period of training under the program.
 
 (4) The sponsor of a competency-based program of apprenticeship shall notify the Secretary upon the successful completion of a program of apprenticeship by an individual under chapter 30 or 35 of this title, or chapter 1606 of title 10, as the case may be.
 

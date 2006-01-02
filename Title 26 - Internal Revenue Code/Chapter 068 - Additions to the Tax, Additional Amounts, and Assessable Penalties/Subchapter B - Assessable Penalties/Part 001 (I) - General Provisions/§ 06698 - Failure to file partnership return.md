@@ -8,7 +8,7 @@ In addition to the penalty imposed by section 7203 (relating to willful failure 
 
 &emsp;(2) files a return which fails to show the information required under section 6031,
 
-> such partnership shall be liable for a penalty determined under subsection (b) for each month (or fraction thereof) during which such failure continues (but not to exceed 5 months), unless it is shown that such failure is due to reasonable cause.
+> such partnership shall be liable for a penalty determined under subsection (b) for each month\(or fraction thereof) during which such failure continues (but not to exceed 5 months), unless it is shown that such failure is due to reasonable cause.
 
 #### (b) Amount per month
 

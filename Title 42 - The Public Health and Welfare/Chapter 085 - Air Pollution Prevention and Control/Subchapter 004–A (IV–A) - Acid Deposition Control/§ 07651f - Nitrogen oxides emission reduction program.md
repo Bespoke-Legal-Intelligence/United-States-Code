@@ -28,7 +28,7 @@ On the date that a coal-fired utility unit becomes an affected unit pursuant to 
 
 #### (c) Revised performance standards
 
-(1) Not later than January 1, 1993, the Administrator shall propose revised standards of performance to section 7411 of this title for nitrogen oxides emissions from fossil-fuel fired steam generating units, including both electric utility and nonutility units. Not later than January 1, 1994, the Administrator shall promulgate such revised standards of performance. Such revised standards of performance shall reflect improvements in methods for the reduction of emissions of oxides of nitrogen.
+(1) <sup>2</sup> Not later than January 1, 1993, the Administrator shall propose revised standards of performance to section 7411 of this title for nitrogen oxides emissions from fossil-fuel fired steam generating units, including both electric utility and nonutility units. Not later than January 1, 1994, the Administrator shall promulgate such revised standards of performance. Such revised standards of performance shall reflect improvements in methods for the reduction of emissions of oxides of nitrogen.
 
 #### (d) Alternative emission limitations
 
@@ -46,7 +46,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 &emsp;(3) has specified an emission rate that such unit can meet on an annual average basis.
 
-> The permitting authority shall issue an operating permit for the unit in question, in accordance with section 7651g of this title and part B <sup>2</sup> of title III—
+> The permitting authority shall issue an operating permit for the unit in question, in accordance with section 7651g of this title and part B <sup>3</sup> of title III—
 
 &emsp;(i) that permits the unit during the demonstration period referred to in subparagraph (2) above, to emit at a rate in excess of the applicable emission rate;
 
@@ -58,7 +58,7 @@ The permitting authority shall, upon request of an owner or operator of a unit s
 
 In lieu of complying with the applicable emission limitations under subsection (b)(1), (2), or (d) of this section, the owner or operator of two or more units subject to one or more of the applicable emission limitations set pursuant to these sections, may petition the permitting authority for alternative contemporaneous annual emission limitations for such units that ensure that (1) the actual annual emission rate in pounds of nitrogen oxides per million Btu averaged over the units in question is a rate that is less than or equal to (2) the Btu-weighted average annual emission rate for the same units if they had been operated, during the same period of time, in compliance with limitations set in accordance with the applicable emission rates set pursuant to subsections (b)(1) and (2) of this section.
 
-If the permitting authority determines, in accordance with regulations issued by the Administrator not later than eighteen months after November 15, 1990; <sup>3</sup> that the conditions in the paragraph above can be met, the permitting authority shall issue operating permits for such units, in accordance with section 7651g of this title and part B <sup>2</sup> of title III, that allow alternative contemporaneous annual emission limitations. Such emission limitations shall only remain in effect while both units continue operation under the conditions specified in their respective operating permits.
+If the permitting authority determines, in accordance with regulations issued by the Administrator not later than eighteen months after November 15, 1990; <sup>4</sup> that the conditions in the paragraph above can be met, the permitting authority shall issue operating permits for such units, in accordance with section 7651g of thistitle and part B <sup>3</sup> of title III, that allow alternative contemporaneous annual emission limitations. Such emission limitations shall only remain in effect while both units continue operation under the conditions specified in their respective operating permits.
 
 (July 14, 1955, ch. 360, title IV, §407, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2613.)
 
@@ -68,7 +68,9 @@ Part B of title III, referred to in subsecs. (d) and (e), means title III of the
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
 
-<i><sup>3</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

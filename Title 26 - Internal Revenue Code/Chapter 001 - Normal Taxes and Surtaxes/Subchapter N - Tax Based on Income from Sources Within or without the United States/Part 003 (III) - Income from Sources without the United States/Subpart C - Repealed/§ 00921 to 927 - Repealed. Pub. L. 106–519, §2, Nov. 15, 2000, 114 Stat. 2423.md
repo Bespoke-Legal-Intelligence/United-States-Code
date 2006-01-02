@@ -20,5 +20,5 @@ Section 927, added Pub. L. 98–369, div. A, title VIII, §801(a), July 18, 1984
 
 #### Effective Date of Repeal
 
-Repeal applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as an Effective Date note under section 941 of this title.
+Repeal applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as an Effective Date of 2000 Amendments note under section 56 of this title.
 

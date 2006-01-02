@@ -10,7 +10,7 @@
 
 &emsp;(4) the head of the agency decides ordered goods or services cannot be provided by contract as conveniently or cheaply by a commercial enterprise.
 
-(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
+(b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment ofamounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
 (c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
@@ -118,7 +118,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted “by contract” after “provided”.
 
-Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling theorder might be able to provide or procure by contract, was struck out.
 
 #### Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires
 
@@ -162,35 +162,11 @@ Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: �
 
 #### Economy Act Purchases
 
-Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulationwas to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
+Pub. L. 103–355, title I, §1074, Oct. 13, 1994, 108 Stat. 3271, provided that the Federal Acquisition Regulation was to be revised to include regulations governing the exercise of authority under this section for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies, and further provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 
 #### Department of Defense Purchases Through Other Agencies
 
-Pub. L. 105–261, div. A, title VIII, §814, Oct. 17, 1998, 112 Stat. 2087, provided that:
-
-“(a)
-
-Extension of Regulations.—Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Secretary of Defense shall revise the regulations issued pursuant to section 844 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1720; 31 U.S.C. 1535 note) to—
-
-&emsp;“(1) cover any purchase described in subsection (b) that is greater than the micro-purchase threshold; and
-
-&emsp;“(2) provide for a streamlined method of compliance for any such purchase that is not greater than the simplified acquisition threshold.
-
-“(b)
-
-Description of Purchases.—A purchase referred to in subsection (a) is a purchase of goods or services for one agency of the Department of Defense by any other agency under a task or delivery order contract entered into by the other agency under section 2304a of title 10, United States Code, or section 303H of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h).
-
-“(c)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘micro-purchase threshold’ has the meaning provided in section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428).
-
-&emsp;“(2) The term ‘simplified acquisition threshold’ has the meaning provided in section 4 of such Act (41 U.S.C. 403).
-
-“(d)
-
-Termination.—This section shall cease to be effective 1 year after the date on which final regulations prescribed pursuant to subsection (a) take effect.”
+Pub. L. 105–261, div. A, title VIII, §814, Oct. 17, 1998, 112 Stat. 2087, which directed Secretary of Defense, not later than 90 days after Oct. 17, 1998, to revise regulations issued pursuant to section 844 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103–160, see below) to cover certain purchases greater than the micro-purchase threshold and to provide for a streamlined method of compliance for any such purchase that is not greater than the simplified acquisition threshold, ceased to be effective 1 year after date on which final regulations took effect. Final regulations were published in the Federal Register Mar. 25, 1999, effective on that date. See 64 F.R. 14399.
 
 Pub. L. 103–160, div. A, title VIII, §844, Nov. 30, 1993, 107 Stat. 1720, directed Secretary of Defense, not later than six months after Nov. 30, 1993, to prescribe regulations governing exercise by Department of Defense of authority under this section to purchase goods and services under contracts entered into or administered by another agency, and provided for content of regulations, establishment of system to monitor procurements under regulations, and that section would cease to be effective one year after date on which final regulations took effect. Final regulations were published in the Federal Register Sept. 26, 1995, effective Oct. 1, 1995. See 60 F.R. 49720.
 

@@ -12,10 +12,6 @@
 
 A prior subchapter A consisted of parts I to IV, prior to the general revision of this chapter by Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1227.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 6651 of this title.
-
 
 ---
 

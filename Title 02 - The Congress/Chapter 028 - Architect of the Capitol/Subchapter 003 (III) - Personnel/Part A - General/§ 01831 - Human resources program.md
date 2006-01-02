@@ -32,7 +32,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 &emsp;&emsp;(D) A program for the training of Architect of the Capitol employees which has among its goals improved employee performance and opportunities for employee advancement.
 
-&emsp;&emsp;(E) A formal performance appraisal system which will permit the accurate evaluation of job performance on the basis of objective criteria for all Architect of the Capitol employees.
+&emsp;&emsp;(E) A formal performance appraisal system which will permit the accurate evaluation ofjob performance on the basis of objective criteria for all Architect of the Capitol employees.
 
 &emsp;&emsp;(F) A fair and equitable system to address unacceptable conduct and performance by Architect of the Capitol employees, including a general statement of violations, sanctions, and procedures which shall be made known to all employees, and a formal grievance procedure.
 
@@ -98,7 +98,7 @@ Pub. L. 107–68, title I, §133(a), Nov. 12, 2001, 115 Stat. 581, as amended by
 
 &emsp;“(C) An individual employed by the Architect of the Capitol as a temporary employee as of the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, not later than 90 days after such date, an option offered by the Architect to remain under the pay system (including benefits) provided for the individual as of such date.
 
-&emsp;“(D) An individual who becomes employed by the Architect of the Capitol after the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, prior to the individual's employment, an option offered by the Architect to receive pay and benefits under an alternative system which does not provide the benefits described in paragraph (1), except that under such an option the Architect shall be required to provide the individual with the benefits described in paragraph (1) as soon as the individual's period of service as a temporary employee exceeds 1 year in length.
+&emsp;“(D) An individual who becomes employed by the Architect of the Capitol after the date of the enactment of this Act \[Nov. 12, 2001\] who exercises in writing, prior to the individual's employment, an option offered by the Architect to receive pay and benefits under an alternative system which does not provide the benefits described in paragraph (1), except that under such an option the Architect shall be required to provide the individual with the benefits described in paragraph (1) as soon as the individual's period ofservice as a temporary employee exceeds 1 year in length.
 
 &emsp;“(E) An individual who is covered by a collective bargaining agreement entered into by the Architect of the Capitol establishing terms and conditions of employment which include eligibility for life insurance, health insurance, retirement, and other benefits.
 

@@ -162,15 +162,11 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 “(2)
 
-Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the InternalRevenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
+Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.”
 
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45D, 1202, 1394, 1397B, 1400, 1400B, 1400G of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

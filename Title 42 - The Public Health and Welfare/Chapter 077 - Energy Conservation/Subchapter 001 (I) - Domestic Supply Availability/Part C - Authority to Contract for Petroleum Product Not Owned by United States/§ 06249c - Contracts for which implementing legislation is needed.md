@@ -58,7 +58,7 @@ Subsections (e) through (h) of this section are enacted by the Congress—
 
 #### (g) Discharge in Senate
 
-(1) Except as provided in paragraph (3), if the committee or committees of the Senate to which an implementing bill has been referred have not reported it at the close of the 30th day after its introduction, such committee or committees shall be automatically discharged from further consideration of the bill, and it shall be placed on the appropriate calendar.
+(1) Except as provided in paragraph (3), if the committee or committees of the Senate towhich an implementing bill has been referred have not reported it at the close of the 30th day after its introduction, such committee or committees shall be automatically discharged from further consideration of the bill, and it shall be placed on the appropriate calendar.
 
 (2) A vote on final passage of the bill shall be taken in the Senate on or before the close of the 15th day after the bill is reported by the committee or committees to which it was referred or after such committee or committees have been discharged from further consideration of the bill.
 

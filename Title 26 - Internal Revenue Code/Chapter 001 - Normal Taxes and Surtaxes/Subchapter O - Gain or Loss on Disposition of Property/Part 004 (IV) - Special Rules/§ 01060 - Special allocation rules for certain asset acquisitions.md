@@ -108,7 +108,3 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section 641(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and renumbering former section 1060 as 1061\] shall apply to any acquisition of assets after May 6, 1986, unless such acquisition is pursuant to a binding contract which was in effect on May 6, 1986, and at all times thereafter.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6724 of this title.
-

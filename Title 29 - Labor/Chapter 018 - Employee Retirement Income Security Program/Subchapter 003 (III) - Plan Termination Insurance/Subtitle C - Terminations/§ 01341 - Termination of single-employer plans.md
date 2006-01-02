@@ -8,7 +8,7 @@
 
 #### (2) 60-day notice of intent to terminate
 
-&emsp;Not less than 60 days before the proposed termination date of a standard termination under subsection (b) of this section or a distress termination under subsection (c) of this section, the plan administrator shall provideto each affected party (other than the corporation in the case of a standard termination) a written notice of intent to terminate stating that such termination is intended and the proposed termination date. The written notice shall include any related additional information required in regulations of the corporation.
+&emsp;Not less than 60 days before the proposed termination date of a standard termination under subsection (b) of this section or a distress termination under subsection (c) of this section, the plan administrator shall provide to each affected party (other than the corporation in the case of a standard termination) a written notice of intent to terminate stating that such termination is intended and the proposed termination date. The written notice shall include any related additional information required in regulations of the corporation.
 
 #### (3) Adherence to collective bargaining agreements
 
@@ -86,7 +86,7 @@
 
 #### (ii) Extension
 
-&emsp;&emsp;&emsp;The corporation and the plan administrator may agree to extend the 60-day period referred to in clause (i) by a written agreement signed by the corporation and the plan administrator before the expiration of the 60-day period. The 60-day period shall be extended as provided in the agreement and may be further extended by subsequent written agreements signed by thecorporation and the plan administrator made before the expiration of a previously agreed upon extension of the 60-day period. Any extension may be made upon such terms and conditions (including the payment of benefits) as are agreed upon by the corporation and the plan administrator.
+&emsp;&emsp;&emsp;The corporation and the plan administrator may agree to extend the 60-day period referred to in clause (i) by a written agreement signed by the corporation and the plan administrator before the expiration of the 60-day period. The 60-day period shall be extended as provided in the agreement and may be further extended by subsequent written agreements signed by the corporation and the plan administrator made before the expiration of a previously agreed upon extension of the 60-day period. Any extension may be made upon such terms and conditions (including the payment of benefits) as are agreed upon by the corporation and the plan administrator.
 
 #### (D) Final distribution of assets in absence of notice of noncompliance
 
@@ -162,7 +162,7 @@
 
 #### (B) Determination by the corporation of necessary distress criteria
 
-&emsp;&emsp;Upon receipt of the notice of intent to terminate required under subsection (a)(2) ofthis section and the information required under subparagraph (A), the corporation shall determine whether the requirements of this subparagraph are met as provided in clause (i), (ii), or (iii). The requirements of this subparagraph are met if each person who is (as of the proposed termination date) a contributing sponsor of such plan or a member of such sponsor's controlled group meets the requirements of any of the following clauses:
+&emsp;&emsp;Upon receipt of the notice of intent to terminate required under subsection (a)(2) of this section and the information required under subparagraph (A), the corporation shall determine whether the requirements of this subparagraph are met as provided in clause (i), (ii), or (iii). The requirements of this subparagraph are met if each person who is (as of the proposed termination date) a contributing sponsor of such plan or a member of such sponsor's controlled group meets the requirements of any of the following clauses:
 
 #### (i) Liquidation in bankruptcy or insolvency proceedings
 
@@ -218,7 +218,7 @@
 
 #### (ii) Cases of sufficiency for guaranteed benefits without a finding of sufficiency for benefit liabilities
 
-&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administrator shall proceed to distribute the plan's assets in the manner described in subsection (b)(3) of this section, make certification tothe corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
+&emsp;&emsp;&emsp;In any case in which the corporation determines that the plan is sufficient for guaranteed benefits, but further determines that it is unable to determine that the plan is sufficient for benefit liabilities on the basis of the information made available to it, the plan administrator shall proceed to distribute the plan's assets in the manner described in subsection (b)(3) of this section, make certification to the corporation that the distribution has occurred, and take such actions as may be appropriate to carry out the termination of the plan.
 
 #### (iii) Cases without any finding of sufficiency
 
@@ -274,7 +274,7 @@ For purposes of this section—
 
 The adoption of an amendment to a plan which causes the plan to become a plan described in section 1321(b)(1) of this title constitutes a termination of the plan. Such an amendment may take effect only after the plan satisfies the requirements for standard termination under subsection (b) of this section or distress termination under subsection (c) of this section.
 
-(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat. 244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050.)
+(Pub. L. 93–406, title IV, §4041, Sept. 2, 1974, 88 Stat. 1020; Pub. L. 96–364, title IV, §403(d), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §§11007, 11008(a), (b), 11009, Apr. 7, 1986, 100 Stat.244, 247, 248; Pub. L. 100–203, title IX, §§9312(c)(1), (2), 9313(a)(1)–(2)(E), (b)(1)–(5), 9314(a), Dec. 22, 1987, 101 Stat. 1330–363 to 1330–366; Pub. L. 101–239, title VII, §§7881(f)(7), (g)(1)–(6), 7893(c), (d), Dec. 19, 1989, 103 Stat. 2440, 2441, 2447; Pub. L. 103–465, title VII, §§776(b)(3), 778(a)(1), (b)(1), Dec. 8, 1994, 108 Stat. 5048–5050.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ Chapter 11, referred to in subsec. (c)(2)(B)(ii)(IV), probably means chapter 11 
 
 #### Amendments
 
-1994—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out formersubcl. (I) which read as follows: “It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or”.
+1994—Subsec. (b)(2)(C)(i)(I). Pub. L. 103–465, §778(a)(1)(A), added subcl. (I) and struck out former subcl. (I) which read as follows: “It has reason to believe that any requirement of subsection (a)(2) of this section or subparagraph (A) or (B) has not been met, or”.
 
 Subsec. (b)(2)(C)(i)(III). Pub. L. 103–465, §778(a)(1)(B), (C), added subcl. (III).
 
@@ -434,7 +434,7 @@ Transitional Rules.—
 
 &emsp;“(1)
 
-In general.—In the case of a single-employer plan termination for which a notice of intent to terminate was filed with the Pension Benefit Guaranty Corporation under section 4041 of the Employee Retirement Income Security Act of 1974 (as in effect before the amendments made by this title) \[29 U.S.C. 1341\] on or after January 1, 1986, but before the date of the enactment of this Act \[Apr. 7, 1986\], the amendments made by this title \[see Short Title of 1986 Amendment note set out under section 1001 of thistitle\] shall apply with respect to such termination, as modified by paragraphs (2) and (3).
+In general.—In the case of a single-employer plan termination for which a notice of intent to terminate was filed with the Pension Benefit Guaranty Corporation under section 4041 of the Employee Retirement Income Security Act of 1974 (as in effect before the amendments made by this title) \[29 U.S.C. 1341\] on or after January 1, 1986, but before the date of the enactment of this Act \[Apr. 7, 1986\], the amendments made by this title \[see Short Title of 1986 Amendment note set out under section 1001 of this title\] shall apply with respect to such termination, as modified by paragraphs (2) and (3).
 
 &emsp;“(2)
 

@@ -131,7 +131,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) if the expenditure limits of section 501(h)(1) are exceeded, each such organization as to which an election under section 501(h) is effective for such year shall be treated as an organization which is not described in section 501(c)(3) by reason of the application of 501(h), and
 
-&emsp;&emsp;(D) subparagraphs (C) and (D) of subsection (d)(2), paragraph (3) or subsection (d), and clause (i) of subsection (e)(1)(C) shall be applied as if such affiliated group were one organization.
+&emsp;&emsp;(D) subparagraphs (C) and (D) of subsection (d)(2), paragraph (3) or subsection\(d), and clause (i) of subsection (e)(1)(C) shall be applied as if such affiliated group were one organization.
 
 #### (2) Definition of affiliation
 
@@ -153,7 +153,7 @@ For purposes of this section—
 
 &emsp;If two or more organizations are members of an affiliated group of organizations (as defined in paragraph (2) without regard to subparagraph (B) thereof), no two members of such affiliated group are affiliated (as defined in paragraph (2) without regard to subparagraph (A) thereof), and the governing instrument of no such organization requires it to be bound by decisions of any of the other such organizations on legislative issues other than as to action with respect to Acts, bills, resolutions, or similar items by the Congress, then—
 
-&emsp;&emsp;(A) in the case of any organization whose decisions bind one or more members of such affiliated group, directly or indirectly, thedetermination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization has paid or incurred those amounts paid or incurred by such members of such affiliated group to influence legislation with respect to Acts, bills, resolutions, or similar items by the Congress, and
+&emsp;&emsp;(A) in the case of any organization whose decisions bind one or more members of such affiliated group, directly or indirectly, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization has paid or incurred those amounts paid or incurred by such members of such affiliated group to influence legislation with respect to Acts, bills, resolutions, or similar items by the Congress, and
 
 &emsp;&emsp;(B) in the case of any organization to which subparagraph (A) does not apply, but which is a member of such affiliated group, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization is not a member of such affiliated group.
 
@@ -166,8 +166,4 @@ For purposes of this section—
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 162, 501, 6033, 9907 of this title; title 2 section 1610; title 7 section 4809.
 

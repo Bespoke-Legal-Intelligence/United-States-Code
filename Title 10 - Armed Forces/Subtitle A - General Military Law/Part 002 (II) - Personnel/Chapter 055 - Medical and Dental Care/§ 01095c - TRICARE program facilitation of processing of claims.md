@@ -38,7 +38,7 @@ Incentives for Electronic Processing.—The Secretary of Defense shall require t
 
 (d)
 
-Correspondence to Medicare Claims Information Requirements.—The Secretary of Defense, in consultation with the other administering Secretaries, shall limit the information required in support of claims for payment for health care items and services provided under the TRICARE program to that information that is identical to the information that would be required for claims for reimbursement for those items and services under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) except for that information, if any, that is uniquely required by the TRICARE program. The Secretary of Defense shall report to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any information that is exceptedunder this provision, and the justification for that exception.
+Correspondence to Medicare Claims Information Requirements.—The Secretary of Defense, in consultation with the other administering Secretaries, shall limit the information required in support of claims for payment for health care items and services provided under the TRICARE program to that information that is identical to the information that would be required for claims for reimbursement for those items and services under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) except for that information, if any, that is uniquely required by the TRICARE program. The Secretary of Defense shall report to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any information that is excepted under this provision, and the justification for that exception.
 
 (Added Pub. L. 106–65, div. A, title VII, §713(a)(1), Oct. 5, 1999, 113 Stat. 688; amended Pub. L. 107–107, div. A, title VII, §708(b), Dec. 28, 2001, 115 Stat. 1164; Pub. L. 107–314, div. A, title VII, §711(a), Dec. 2, 2002, 116 Stat. 2588.)
 
@@ -78,5 +78,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §727\], Oct. 30, 2000, 114 Stat
 
 #### Deadline for Implementation
 
-Pub. L. 106–65, div. A, title VII, §713(c), Oct. 5, 1999, 113 Stat. 689, provided that: “The system for processing claims required under section 1095c(a) of title 10, United States Code (as added by subsection (a)), shall be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 5, 1999\].”
+Pub. L. 106–65, div. A, title VII, §713(c), Oct. 5, 1999, 113 Stat. 689, provided that: “The system for processingclaims required under section 1095c(a) of title 10, United States Code (as added by subsection (a)), shall be implemented not later than 6 months after the date of the enactment of this Act \[Oct. 5, 1999\].”
 

@@ -68,7 +68,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 #### (C) Timing of determination
 
-&emsp;&emsp;For purposes of this paragraph, determinations of net worth shall be made as of a day chosen by the corporation (during the 120-day period ending with the terminationdate) and shall be computed without regard to any liability under this section.
+&emsp;&emsp;For purposes of this paragraph, determinations of net worth shall be made as of a day chosen by the corporation (during the 120-day period ending with the termination date) and shall be computed without regard to any liability under this section.
 
 #### (2) Pre-tax profits
 
@@ -142,7 +142,7 @@ Subsec. (f). Pub. L. 99–272, §11011(a)(1), (b), redesignated former subsec. (
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(f)(2), (10)(A), (B) of Pub. L. 101–239 effective, except as otherwise provided, as ifincluded in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(f)(2), (10)(A), (B) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

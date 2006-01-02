@@ -6,7 +6,7 @@ Transportation Provided at Rates Other Than Legal Tariff Rates.—
 
 &emsp;(1)
 
-In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
+In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billedand collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
 
 &emsp;&emsp;(A) the carrier or freight forwarder is no longer transporting property or is transporting property for the purpose of avoiding the application of this section; and
 
@@ -52,7 +52,7 @@ Effects of Election.—When a person from whom additional legally applicable fre
 
 (f)
 
-Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the legally applicable freight rate or charges being claimed by a carrier or freight forwarder in addition to those already billed and collected, the person shall not have to pay any additional compensation to thecarrier or freight forwarder until the Board has made a determination as to the reasonableness of the challenged rate as applied to the freight of the person against whom the claim is made.
+Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the legally applicable freight rate or charges being claimed by a carrier or freight forwarder in addition to those already billed and collected, the person shall not have to pay any additional compensation to the carrier or freight forwarder until the Board has made a determination as to the reasonableness of the challenged rate as applied to the freight of the person against whom the claim is made.
 
 (g)
 
@@ -76,7 +76,7 @@ Pending suits for collection made before december 4, 1993.—If the carrier or f
 
 &emsp;(4)
 
-Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additional freight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
+Demands for payment made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has demanded the payment of additional freight charges, and has not filed a suit for the collection of such additionalfreight charges, before December 4, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the later of—
 
 &emsp;&emsp;(A) the 60th day following the filing of an answer to a suit for the collection of such additional legally applicable freight rate or charges, or
 

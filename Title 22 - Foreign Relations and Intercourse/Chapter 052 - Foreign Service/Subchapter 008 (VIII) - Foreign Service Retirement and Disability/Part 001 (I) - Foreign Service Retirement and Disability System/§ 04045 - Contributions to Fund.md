@@ -20,7 +20,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (1) If a member of the Service who is under another retirement system for Government employees becomes a participant in the System by direct transfer, the total contributions and deposits of that member that would otherwise be refundable on separation (except voluntary contributions), including interest thereon, shall be transferred to the Fund effective as of the date such member becomes a participant in the System. Each such member shall be deemed to consent to the transfer of such funds, and such transfer shall be a complete discharge and acquittance of all claims and demands against the other Government retirement fund on account of service rendered by such member prior to becoming a participant in the System.
 
-(2) A member of the Service whose contributions are transferred to the Fund pursuant toparagraph (1) shall not be required to make additional contributions for periods of service for which required contributions were made to the other Government retirement fund; nor shall any refund be made to any such member on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed by subsection (d) of this section.
+(2) A member of the Service whose contributions are transferred to the Fund pursuant to paragraph (1) shall not be required to make additional contributions for periods of service for which required contributions were made to the other Government retirement fund; nor shall any refund be made to any such member on account of contributions made during any period to the other Government retirement fund at a higher rate than that fixed by subsection (d) of this section.
 
 #### (d) Contribution for civilian service; creditability of interim service
 
@@ -58,7 +58,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (e) Contribution for military or naval service
 
-(1) Subject to paragraph (5), each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this part is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
+(1) Subject to paragraph (5), each participant who has performed military or naval service before the date of separation on which the entitlement to any annuity under this part is based may pay to the Secretary a special contribution equal to 7 percent of the amount of the basic pay paid under section 204 of title 37, to the participant for each period of military or naval service after December 1956. The amount of such payments shall be based on such evidence of basicpay for military service as the participant may provide or if the Secretary determines sufficient evidence has not been so provided to adequately determine basic pay for military or naval service, such payment shall be based upon estimates of such basic pay provided to the Department under paragraph (4).
 
 (2) Any deposit made under paragraph (1) of this subsection more than two years after the later of—
 
@@ -106,7 +106,7 @@ The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 5
 
 2002—Subsec. (a)(1). Pub. L. 107–228, §322(a)(2)(C), which directed amendment of par. (1) by substituting “employing agency” for “Department” wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where “Department” appears before “of Transportation and Related Agencies Appropriations Act, 2001”, to reflect the probable intent of Congress.
 
-Pub. L. 107–228, §322(a)(2)(A), substituted “7.25 percent” for “7 percent” and “The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made” for “An equal amount shall be contributed by the Department”.
+Pub. L. 107–228, §322(a)(2)(A), substituted “7.25 percent” for “7 percent” and “The contribution by the employing agency shall be a percentage of basic salaryequal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made” for “An equal amount shall be contributed by the Department”.
 
 Subsec. (a)(2)(A), (B). Pub. L. 107–228, §322(a)(2)(C), substituted “employing agency” for “Department” wherever appearing.
 
@@ -122,7 +122,7 @@ Subsec. (a)(3). Pub. L. 105–382, §2(b)(1), added par. (3).
 
 Subsec. (d)(6). Pub. L. 105–382, §2(c), added par. (6).
 
-1997—Subsec. (d)(1). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relatingto service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
+1997—Subsec. (d)(1). Pub. L. 105–33, §7001(d)(2)(C), in table in concluding provisions, inserted items relating to service periods January 1, 1970, through December 31, 1998; January 1, 1999, through December 31, 1999; January 1, 2000, through December 31, 2000; January 1, 2001, through December 31, 2002; and after December 31, 2002, and struck out former item relating to service period on and after January 1, 1970.
 
 Subsec. (e)(1). Pub. L. 105–33, §7001(d)(2)(D)(i), substituted “Subject to paragraph (5), each” for “Each”.
 

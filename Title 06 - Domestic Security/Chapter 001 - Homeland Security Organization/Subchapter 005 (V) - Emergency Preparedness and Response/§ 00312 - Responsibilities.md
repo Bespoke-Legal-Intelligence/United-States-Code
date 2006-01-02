@@ -34,7 +34,7 @@ The Secretary,<sup>1</sup> acting through the Under Secretary for Emergency Prep
 
 #### Amendments
 
-2004—Par. (3)(B). Pub. L. 108–276, §3(b)(1)(A), struck out “the Strategic National Stockpile,”after “Domestic Emergency Support Team,”.
+2004—Par. (3)(B). Pub. L. 108–276, §3(b)(1)(A), struck out “the Strategic National Stockpile,” after “Domestic Emergency Support Team,”.
 
 Par. (3)(D). Pub. L. 108–276, §3(b)(1)(B), inserted “, including requiring deployment of the Strategic National Stockpile,” after “resources”.
 
@@ -62,7 +62,7 @@ Sec. 2. <i>Establishment of Council</i>. (a) There is hereby established, within
 
 (b) The Secretary of Homeland Security shall chair the Council, convene and preside at its meetings, determine its agenda, direct its work, and, as appropriate to particular subject matters, establish and direct subgroups of the Council, which shall consist exclusively of Council members.
 
-(c) A member of the Council may designate, to perform the Council functions of the member, an employee of the member's department or agency who is either an officer of the United States appointed by the President, or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule.
+(c) A member of the Council may designate, to perform the Council functions of the member, an employeeof the member's department or agency who is either an officer of the United States appointed by the President, or a full-time employee serving in a position with pay equal to or greater than the minimum rate payable for GS–15 of the General Schedule.
 
 Sec. 3. <i>Functions of Council</i>. (a) The Council shall:
 

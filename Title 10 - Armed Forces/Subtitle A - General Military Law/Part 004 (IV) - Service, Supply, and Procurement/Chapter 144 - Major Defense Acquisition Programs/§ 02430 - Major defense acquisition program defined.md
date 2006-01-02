@@ -34,7 +34,7 @@ Applicability of Major Defense Acquisition Program Authorities.—(1) Each proje
 
 “(c)
 
-Milestone Decision Authority.—(1) The authority to make a decision that a program is authorized to proceed from one milestone stage into another (referred to as the milestone decision authority) may only be exercised by the Under Secretary of Defense for Acquisition, Technology, and Logistics for the following:
+Milestone Decision Authority.—(1) The authority to make a decision that a program is authorized toproceed from one milestone stage into another (referred to as the milestone decision authority) may only be exercised by the Under Secretary of Defense for Acquisition, Technology, and Logistics for the following:
 
 &emsp;“(A) Each project of the National Security Agency Modernization Program that is to be managed as a major defense acquisition program, as designated under subsection (b).
 
@@ -96,7 +96,7 @@ Authority.—The Secretary of Defense is authorized to conduct major defense acq
 
 “(b)
 
-Limitation on Spiral Development Programs.—A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the militarydepartment or Defense Agency concerned, but such authority may not be further delegated.
+Limitation on Spiral Development Programs.—A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the military department or Defense Agency concerned, but such authority may not be further delegated.
 
 “(c)
 
@@ -306,7 +306,7 @@ Collection and Analysis of Performance Information.—The Secretary of Defense s
 
 Information To Be Included.—Information collected under subsection (a) shall include the history of the performance of each contractor under the Defense Acquisition Pilot Program contracts and, for each such contract performed by the contractor, a technical evaluation of the contractor's performance prepared by the program manager responsible for the contract.”
 
-Pub. L. 101–510, div. A, title VIII, §809, Nov. 5, 1990, 104 Stat. 1593, as amended by Pub. L. 102–484, div. A, title VIII, §811, Oct. 23, 1992, 106 Stat. 2450; Pub. L. 103–160, div. A, title VIII, §832, Nov. 30, 1993, 107 Stat. 1715, provided that:
+Pub. L. 101–510, div. A, title VIII, §809, Nov. 5, 1990, 104 Stat. 1593, as amended by Pub. L. 102–484, div. A, titleVIII, §811, Oct. 23, 1992, 106 Stat. 2450; Pub. L. 103–160, div. A, title VIII, §832, Nov. 30, 1993, 107 Stat. 1715, provided that:
 
 “(a)
 
@@ -371,8 +371,4 @@ Limitation on Waiver Authority.—The applicability of the following requirement
 “(g)
 
 Termination of Authority.—The authority to waive or limit the applicability of any law under this section may not be exercised after September 30, 1995.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 139, 1621, 1733, 1737, 2433 of this title; title 50 section 1521a.
 

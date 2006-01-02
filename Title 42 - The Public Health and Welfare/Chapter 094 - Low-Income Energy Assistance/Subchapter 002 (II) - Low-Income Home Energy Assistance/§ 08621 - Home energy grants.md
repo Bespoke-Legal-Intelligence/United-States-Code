@@ -6,7 +6,7 @@ The Secretary is authorized to make grants, in accordance with the provisions of
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the provisions of this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999, such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.
+There are authorized to be appropriated to carry out the provisions of this subchapter (other than section 8626a of this title), $2,000,000,000 for each of fiscal years 1995 through 1999, such sums as may be necessary for each of fiscal years 2000 and 2001, and $5,100,000,000 for each of fiscal years 2005 through 2007. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.
 
 #### (c) Availability of appropriations
 
@@ -14,7 +14,7 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 #### (d) Authorization of appropriations for leveraged resources
 
-(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000 for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
+(1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
 
 (2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) of this section is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out section 8626a of this title.
 
@@ -22,13 +22,15 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 There is authorized to be appropriated in each fiscal year for payments under this subchapter, in addition to amounts appropriated for distribution to all the States in accordance with section 8623 of this title (other than subsection (e) of such section), $600,000,000 to meet the additional home energy assistance needs of one or more States arising from a natural disaster or other emergency. Funds appropriated pursuant to this subsection are hereby designated to be emergency requirements pursuant to section 251(b)(2)(D) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(D)\], except that such funds shall be made available only after the submission to Congress of a formal budget request by the President (for all or a part of the appropriation pursuant to this subsection) that includes a designation of the amount requested as an emergency requirement as defined in such Act \[2 U.S.C. 900 et seq.\].
 
-(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30, 1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756.)
+(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30, 1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756; Pub. L. 109–58, title I, §121(a), Aug. 8, 2005, 119 Stat. 616.)
 
 #### References in Text
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of this title, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of this title, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58 substituted “and $5,100,000,000 for each of fiscal years 2005 through 2007” for “and $2,000,000,000 for each of fiscal years 2002 through 2004”.
 
 1998—Subsec. (b). Pub. L. 105–285, §302(a), inserted “, such sums as may be necessary for each of fiscal years 2000 and 2001, and $2,000,000,000 for each of fiscal years 2002 through 2004” after “1995 through 1999”.
 
@@ -50,7 +52,7 @@ Subsec. (b). Pub. L. 103–252, §§303(a)(1), 311(c)(1)(A), substituted “this
 
 Subsec. (c)(1). Pub. L. 103–252, §311(c)(1)(B), made technical amendment to reference to this subchapter to correct reference to corresponding provision of original act.
 
-Pub. L. 103–252, §303(a)(2), which directed the substitution of “October 1” for “July 1” and “following theyear in which” for “for which” in last sentence of subsec. (c), was executed by making the substitutions in last sentence of subsec. (c)(1) to reflect the probable intent of Congress.
+Pub. L. 103–252, §303(a)(2), which directed the substitution of “October 1” for “July 1” and “following the year in which” for “for which” in last sentence of subsec. (c), was executed by making the substitutions in last sentence of subsec. (c)(1) to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–252, §303(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out section 8626a of this title, $25,000,000 in fiscal year 1992, and $50,000,000 for each of the fiscal years 1993, 1994, and 1995.”
 
@@ -68,7 +70,7 @@ Subsec. (c). Pub. L. 101–501, §701, added subsec. (c).
 
 Subsec. (d). Pub. L. 101–501, §707(b)(2), added subsec. (d).
 
-1986—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carry out the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
+1986—Subsec. (b). Pub. L. 99–425 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There is authorized to be appropriated to carryout the provisions of this subchapter $2,140,000,000 for the fiscal year 1985, and $2,275,000,000 for the fiscal year 1986.”
 
 1984—Subsec. (b). Pub. L. 98–558 substituted “$2,140,000,000 for fiscal year 1985, and $2,275,000,000 for fiscal year 1986” for “$1,875,000,000 for each of fiscal years 1982, 1983, and 1984”.
 

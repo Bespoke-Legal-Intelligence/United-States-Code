@@ -40,7 +40,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (1) In general
 
-&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of thissection, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
+&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
 
 #### (2) Prerequisites
 
@@ -104,7 +104,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (A) Priority considerations
 
-&emsp;&emsp;To the maximum extent practicable, the Board shall give priority in the approval ofloan guarantees under this chapter in the following order:
+&emsp;&emsp;To the maximum extent practicable, the Board shall give priority in the approval of loan guarantees under this chapter in the following order:
 
 &emsp;&emsp;&emsp;(i) First, to projects that will serve households in nonserved areas. In considering such projects, the Board shall balance projects that will serve the largest number of households with projects that will serve remote, isolated communities (including noncontiguous States) in areas that are unlikely to be served through market mechanisms.
 
@@ -190,7 +190,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (D) Deductions from Escrow Account
 
-&emsp;&emsp;If a default occurs with respect to any loan guaranteed under this chapter and the default is not cured in accordance with the terms of the underlying loan or loan guarantee agreement, the Administrator, in accordance with subsections (i) and (j) of section 1104 of this title, shall liquidate, or shall cause to be liquidated, all assets collateralizing such loan as to which it has a lien or security interest. Any shortfall between the proceeds of the liquidation net of costs and expenses relating to the liquidation, and the guarantee amount paid pursuant to this chapter shall be deducted from funds in the Escrow Account and credited to the Administrator for payment of such shortfall. At such time as determined under subsection (d)(2)(E) of this section when all loans guaranteed under this chapter have been repaid or otherwise satisfied in accordance with this chapter and the regulations promulgated hereunder, remaining funds in the Escrow Account, if any, shall be refunded, on a pro rata basis, to applicants whose loans guaranteed under this chapter were not in default, or where any default was cured in accordance with the terms of the underlying loan or loan guarantee agreement.
+&emsp;&emsp;If a default occurs with respect to any loan guaranteed under this chapter and the default is not cured in accordance with the terms of the underlying loan or loan guarantee agreement, the Administrator, in accordance with subsections (i) and (j) of section 1104 of this title, shall liquidate, or shall cause to be liquidated, all assets collateralizing such loan as to which it has a lien or security interest. Any shortfall between the proceeds of the liquidation net of costs and expenses relating to the liquidation, and the guarantee amount paid pursuant to this chapter shall be deducted from funds in the Escrow Account and credited to the Administrator for payment of such shortfall. At such time as determined under subsection (d)(2)(E) of this section when all loans guaranteed under this chapter havebeen repaid or otherwise satisfied in accordance with this chapter and the regulations promulgated hereunder, remaining funds in the Escrow Account, if any, shall be refunded, on a pro rata basis, to applicants whose loans guaranteed under this chapter were not in default, or where any default was cured in accordance with the terms of the underlying loan or loan guarantee agreement.
 
 #### (i) Limitations on guarantees for certain cable operators
 

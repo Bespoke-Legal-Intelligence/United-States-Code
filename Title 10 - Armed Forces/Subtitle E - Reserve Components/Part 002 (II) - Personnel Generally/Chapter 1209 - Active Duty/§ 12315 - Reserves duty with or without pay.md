@@ -8,7 +8,7 @@
 
 > Duty without pay shall be considered for all purposes as if it were duty with pay.
 
-(b) A Reserve who is kept on active duty after his term of service expires is entitled to pay and allowances while on that duty, except as they may be forfeited under the approved sentence of a court-martial or by non-judicial punishment by a commanding officer or when he is otherwise in a non-pay status.
+(b) A Reserve who is kept on active duty after his term of service expires is entitled to pay andallowances while on that duty, except as they may be forfeited under the approved sentence of a court-martial or by non-judicial punishment by a commanding officer or when he is otherwise in a non-pay status.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 31, §683; renumbered §12315, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992.)
 
@@ -39,8 +39,4 @@ In subsection (b), the word “kept” is substituted for the words “retained 
 #### Amendments
 
 1994—Pub. L. 103–337 renumbered section 683 of this title as this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 6323.
 

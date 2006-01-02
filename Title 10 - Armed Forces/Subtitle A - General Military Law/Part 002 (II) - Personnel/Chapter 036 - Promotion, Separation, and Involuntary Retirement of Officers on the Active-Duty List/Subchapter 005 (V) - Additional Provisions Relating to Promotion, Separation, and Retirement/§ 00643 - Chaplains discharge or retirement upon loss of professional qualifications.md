@@ -4,7 +4,3 @@ Under regulations prescribed by the Secretary of Defense, a commissioned officer
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2867.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1174 of this title.
-

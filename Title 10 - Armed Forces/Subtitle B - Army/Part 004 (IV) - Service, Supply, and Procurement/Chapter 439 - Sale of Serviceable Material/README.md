@@ -16,7 +16,7 @@
 
 #### Amendments
 
-1990—Pub. L. 101–510, div. A, title XV, §1533(a)(5)(C), Nov. 5, 1990, 104 Stat. 1734, amended item 4624 generally,substituting “Armed Forces Retirement Home” for “Soldiers’ and Airmen's Home”.
+1990—Pub. L. 101–510, div. A, title XV, §1533(a)(5)(C), Nov. 5, 1990, 104 Stat. 1734, amended item 4624 generally, substituting “Armed Forces Retirement Home” for “Soldiers’ and Airmen's Home”.
 
 1980—Pub. L. 96–513, title V, §512(18)(C), Dec. 12, 1980, 94 Stat. 2930, inserted “and Airmen's” after “Soldiers’ ” in item 4624.
 

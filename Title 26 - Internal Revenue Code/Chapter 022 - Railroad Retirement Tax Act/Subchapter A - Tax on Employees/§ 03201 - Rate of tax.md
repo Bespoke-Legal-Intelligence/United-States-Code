@@ -22,7 +22,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 &emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, §102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(a), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §204(c), Dec. 21, 2001, 115 Stat. 892.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4,5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, §102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(a), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §204(c), Dec. 21, 2001, 115 Stat. 892.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages
 
 1963—Pub. L. 88–133 limited existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-1959—Pub. L. 86–28 increased tax from 61/4 percent of compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excessof $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
+1959—Pub. L. 86–28 increased tax from 61/4 percent of compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 1954—Act Aug. 31, 1954, substituted “$350” for “$300”.
 
@@ -120,7 +120,7 @@ Section 202 of Pub. L. 86–28 provided that: “The amendments made by section 
 
 #### Effective Date of 1954 Amendment
 
-Section 407 of act Aug. 31, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, providedthat: “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by section 206 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title\] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
+Section 407 of act Aug. 31, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided that: “The amendments to the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by section 206 \[amending this section and sections 3202, 3211, 3221, and 3231 of this title\] shall become effective as if enacted as a part of the Internal Revenue Code of 1986.”
 
 #### Separability
 
@@ -129,8 +129,4 @@ Section 301 of Pub. L. 93–69 provided that: “If any provision of this Act \[
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 
 For provision that no penalties or interest shall be assessed on account of any failure to make timely payment of taxes imposed by subsec. (b) of this section with respect to payments made for the period Jan. 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to section 3 of Pub. L. 97–123 or the amendments made by that section, see section 3(f) of Pub. L. 97–123, set out as a note under section 3101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 72, 275, 1402, 3202, 3231, 3241, 3502, 6051, 6053, 6205, 6413, 6652 of this title; title 45 sections 231, 231e, 231f–1, 231n–1.
 

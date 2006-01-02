@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 95–176 redesignated former subsec. (b) as par. (1) and ad
 
 1971—Subsec. (a). Pub. L. 91–659, §2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
 
-Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
+Subsec. (b). Pub. L. 91–659, §2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spiritswithdrawn by pipeline. Former subsec. (c) redesignated (b).
 
 1965—Subsec. (a). Pub. L. 89–44 inserted reference to destruction to redistillation, denaturation, and mingling in second sentence on list of options which might be used in disposing of returned distilled spirits.
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 89–44 effective July 1, 1965, see section 805(g)(1) of Pu
 #### Distilled Spirits to Which Alcoholic Ingredients Other Than Distilled Spirits Have Been Added and Which Have Been Withdrawn From Distilled Spirits Plants Before January 1, 1980
 
 Subsec. (a) of this section to apply to distilled spirits to which alcoholic ingredients other than distilled spirits have been added and which have been withdrawn from a distilled spirits plant before Jan. 1, 1980, only if such spirits are returned to the distilled spirits plant from which withdrawn, see section 808(e) of Pub. L. 96–39, set out as a note under section 5061 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5008, 5612 of this title.
 

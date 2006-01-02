@@ -38,9 +38,9 @@ If a foreign corporation owns (directly or indirectly) at least 25 percent (by v
 
 &emsp;(2) received directly its proportionate share of the income of such other corporation.
 
-#### (d) Section 1247 corporations
+#### (d) Section 1247 <sup>1</sup> corporations
 
-For purposes of this part, the term “passive foreign investment company” does not include any foreign investment company to which section 1247 applies.
+For purposes of this part, the term “passive foreign investment company” does not include any foreign investment company to which section 1247 <sup>1</sup> applies.
 
 #### (e) Exception for United States shareholders of controlled foreign corporations
 
@@ -101,6 +101,8 @@ For purposes of this part, the term “passive foreign investment company” doe
 (Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2572, §1296; amended Pub. L. 100–647, title I, §§1012(p)(2), (5), (16), (26), (27), 1018(u)(40), Nov. 10, 1988, 102 Stat. 3515, 3518–3520, 3592; Pub. L. 103–66, title XIII, §13231(d)(1), (3), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1704(r)(1), Aug. 20, 1996, 110 Stat. 1887; renumbered §1297 and amended Pub. L. 105–34, title XI, §§1121, 1122(a), (d)(4), 1123, Aug. 5, 1997, 111 Stat. 971, 972, 977; Pub. L. 105–206, title VI, §6011(b)(1), (d), July 22, 1998, 112 Stat. 817, 818.)
 
 #### References in Text
+
+Section 1247, referred to in subsec. (d), was repealed by Pub. L. 108–357, title IV, §413(a)(3), Oct. 22, 2004, 118 Stat. 1506.
 
 Section 11A of the Securities and Exchange Act of 1934, referred to in subsec. (f)(3)(A), is classified to section 78k–1 of Title 15, Commerce and Trade.
 
@@ -172,7 +174,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 532, 542, 672, 904, 1260, 1298 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

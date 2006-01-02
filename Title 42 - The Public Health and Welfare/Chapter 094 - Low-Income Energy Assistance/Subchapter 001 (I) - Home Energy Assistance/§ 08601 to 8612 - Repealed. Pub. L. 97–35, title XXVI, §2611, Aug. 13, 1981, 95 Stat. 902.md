@@ -30,5 +30,5 @@ Section 2611 of Pub. L. 97–35 provided that the repeal made by that section is
 
 #### Short Title
 
-Section 301 of title III of Pub. L. 96–223 provided that title III of Pub. L. 96–223, which enacted sections 8601 to8612 of this title, and amended section 2014(d) of Title 7, Agriculture, was to be cited as the “Home Energy Assistance Act of 1980”, prior to repeal by Pub. L. 97–35, title XXVI, §2611, Aug. 13, 1981, 95 Stat. 902.
+Section 301 of title III of Pub. L. 96–223 provided that title III of Pub. L. 96–223, which enacted sections 8601 to 8612 of this title, and amended section 2014(d) of Title 7, Agriculture, was to be cited as the “Home Energy Assistance Act of 1980”, prior to repeal by Pub. L. 97–35, title XXVI, §2611, Aug. 13, 1981, 95 Stat. 902.
 

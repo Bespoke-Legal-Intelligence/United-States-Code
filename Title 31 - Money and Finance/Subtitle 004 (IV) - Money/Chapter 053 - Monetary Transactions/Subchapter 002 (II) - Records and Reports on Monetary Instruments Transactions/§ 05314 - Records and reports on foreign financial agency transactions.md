@@ -1,6 +1,6 @@
 ### §5314. Records and reports on foreign financial agency transactions
 
-(a) Considering the need to avoid impeding or controlling the export or import of monetary instruments and the need to avoid burdening unreasonably a person making a transaction with a foreign financial agency, the Secretary of the Treasury shall require a resident or citizen of the United States or a person in, and doing business in, the United States, to keep records, file reports, or keep records and file reports, when the resident, citizen, or person makes a transaction or maintains a relation for any person with a foreign financial agency. The records and reports shall contain the following information in the way and to the extent the Secretary prescribes:
+(a) Considering the need to avoid impeding or controlling the export or import of monetary instruments and the need to avoid burdening unreasonably a person making a transaction with a foreign financial agency, the Secretary of theTreasury shall require a resident or citizen of the United States or a person in, and doing business in, the United States, to keep records, file reports, or keep records and file reports, when the resident, citizen, or person makes a transaction or maintains a relation for any person with a foreign financial agency. The records and reports shall contain the following information in the way and to the extent the Secretary prescribes:
 
 &emsp;(1) the identity and address of participants in a transaction or relationship.
 
@@ -52,7 +52,7 @@ In subsection (a), before clause (1), the words “currency or other”, “legi
 
 In subsection (b), the words “or a regulation under this section” are added because of the restatement. The words “or does not apply” and “uniform” in clause (2) are omitted as surplus. In clause (5), the words “carry out” are substituted for “the application of” for consistency.
 
-In subsection (c), the words “produce or otherwise . . . the contents of” and “in compliance with a subpena or summons duly authorized and issued or . . . may otherwise be” are omitted as surplus. The words“under a regulation” are added because of the restatement.
+In subsection (c), the words “produce or otherwise . . . the contents of” and “in compliance with a subpena or summons duly authorized and issued or . . . may otherwise be” are omitted as surplus. The words “under a regulation” are added because of the restatement.
 
 #### Compliance With Reporting Requirements
 

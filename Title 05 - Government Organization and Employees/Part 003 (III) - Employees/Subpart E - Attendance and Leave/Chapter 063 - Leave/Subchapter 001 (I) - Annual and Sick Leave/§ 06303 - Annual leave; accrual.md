@@ -26,7 +26,7 @@
 
 (c) A change in the rate of accrual of annual leave by an employee under this section takes effect at the beginning of the pay period after the pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, in which the employee completed the prescribed period of service.
 
-(d) Leave granted under this subchapter is exclusive of time actually and necessarily occupied in going to or from a post of duty and timenecessarily occupied awaiting transportation, in the case of an employee—
+(d) Leave granted under this subchapter is exclusive of time actually and necessarily occupied in going to or from a post of duty and time necessarily occupied awaiting transportation, in the case of an employee—
 
 &emsp;(1) to whom section 6304(b) of this title applies;
 

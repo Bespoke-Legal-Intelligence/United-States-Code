@@ -42,9 +42,9 @@ Every registered investment company shall transmit to its stockholders, at least
 
 &emsp;(3) a statement of income, for the period covered by the report, which shall be itemized at least with respect to each category of income and expense representing more than 5 per centum of total income or expense;
 
-&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the total charges or credits during the period covered by the report;
+&emsp;(4) a statement of surplus, which shall be itemized at least with respect to each charge or credit to the surplus account which represents more than 5 per centum of the totalcharges or credits during the period covered by the report;
 
-&emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and toeach member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
+&emsp;(5) a statement of the aggregate remuneration paid by the company during the period covered by the report (A) to all directors and to all members of any advisory board for regular compensation; (B) to each director and to each member of an advisory board for special compensation; (C) to all officers; and (D) to each person of whom any officer or director of the company is an affiliated person; and
 
 &emsp;(6) a statement of the aggregate dollar amounts of purchases and sales of investment securities, other than Government securities, made during the period covered by the report:
 

@@ -70,7 +70,7 @@
 
 #### (A) Revised plan
 
-&emsp;&emsp;After the resolution of a review under paragraph (2), each school identified under paragraph (1) for school improvement shall, not later than 3 months after being so identified, develop or revise a school plan, in consultation with parents, school staff, the local educational agency serving the school, and outside experts, for approval by such local educational agency. The school plan shall cover a 2-year period and—
+&emsp;&emsp;After the resolution of a review under paragraph (2), each school identified underparagraph (1) for school improvement shall, not later than 3 months after being so identified, develop or revise a school plan, in consultation with parents, school staff, the local educational agency serving the school, and outside experts, for approval by such local educational agency. The school plan shall cover a 2-year period and—
 
 &emsp;&emsp;&emsp;(i) incorporate strategies based on scientifically based research that will strengthen the core academic subjects in the school and address the specific academic issues that caused the school to be identified for school improvement, and may include a strategy for the implementation of a comprehensive school reform model that includes each of the components described in part F of this subchapter;
 
@@ -218,7 +218,7 @@
 
 #### (D) Delay
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, the local educational agency may delay, for a period not to exceed 1 year, implementation of the requirements under paragraph (5), corrective action under this paragraph, or restructuring under paragraph\(8) if the school makes adequate yearly progress for 1 year or if its failure to make adequate yearly progress is due to exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency or school. No such period shall be taken into account in determining the number of consecutive years of failure to make adequate yearly progress.
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, the local educational agency may delay, for a period not to exceed 1 year, implementation of the requirements under paragraph (5), corrective action under this paragraph, or restructuring under paragraph (8) if the school makes adequate yearly progress for 1 year or if its failure to make adequate yearly progress is due to exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the local educational agency or school. No such period shall be taken into account in determining the number of consecutive years of failure to make adequate yearly progress.
 
 #### (E) Publication and dissemination
 
@@ -270,7 +270,7 @@
 
 #### (9) Transportation
 
-&emsp;In any case described in paragraph (1)(E) for schools described in paragraphs (1)(A), (5), (7)(C)(i), and (8)(A), and subsection (c)(10)(C)(vii) of this section, the local educational agency shall provide, or shall pay for the provision of, transportation for the student to the public school the student attends.
+&emsp;In any case described in paragraph (1)(E) for schools described in paragraphs (1)(A), (5),\(7)(C)(i), and (8)(A), and subsection (c)(10)(C)(vii) of this section, the local educational agency shall provide, or shall pay for the provision of, transportation for the student to the public school the student attends.
 
 #### (10) Funds for transportation and supplemental educational services
 
@@ -290,7 +290,7 @@
 
 #### (C) Insufficient funds
 
-&emsp;&emsp;If the amount of funds described in subparagraph (A)(ii) or (iii) and available toprovide services under this subsection is insufficient to provide supplemental educational services to each child whose parents request the services, the local educational agency shall give priority to providing the services to the lowest-achieving children.
+&emsp;&emsp;If the amount of funds described in subparagraph (A)(ii) or (iii) and available to provide services under this subsection is insufficient to provide supplemental educational services to each child whose parents request the services, the local educational agency shall give priority to providing the services to the lowest-achieving children.
 
 #### (D) Prohibition
 
@@ -350,7 +350,7 @@
 
 #### (B) Evidence
 
-&emsp;&emsp;If the local educational agency believes that the proposed identification is in error for statistical or other substantive reasons,the agency may provide supporting evidence to the State educational agency, which shall consider the evidence before making a final determination not later than 30 days after the State educational agency provides the local educational agency with the opportunity to review such data under subparagraph (A).
+&emsp;&emsp;If the local educational agency believes that the proposed identification is in error for statistical or other substantive reasons, the agency may provide supporting evidence to the State educational agency, which shall consider the evidence before making a final determination not later than 30 days after the State educational agency provides the local educational agency with the opportunity to review such data under subparagraph (A).
 
 #### (6) Notification to parents
 
@@ -412,7 +412,7 @@
 
 &emsp;&emsp;After providing technical assistance under paragraph (9) and subject to subparagraph (E), the State—
 
-&emsp;&emsp;&emsp;(i) may take corrective action at any time with respect to a local educationalagency that has been identified under paragraph (3);
+&emsp;&emsp;&emsp;(i) may take corrective action at any time with respect to a local educational agency that has been identified under paragraph (3);
 
 &emsp;&emsp;&emsp;(ii) shall take corrective action with respect to any local educational agency that fails to make adequate yearly progress, as defined by the State, by the end of the second full school year after the identification of the agency under paragraph (3); and
 
@@ -454,7 +454,7 @@
 
 #### (d) Construction
 
-Nothing in this section shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded school or school district employees under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
+Nothing in this section shall be construed to alter or otherwise affect the rights, remedies,and procedures afforded school or school district employees under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
 
 #### (e) Supplemental educational services
 
@@ -544,7 +544,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (A) Requirement
 
-&emsp;&emsp;At the request of a local educational agency, a State educational agency may waive,in whole or in part, the requirement of this subsection to provide supplemental educational services if the State educational agency determines that—
+&emsp;&emsp;At the request of a local educational agency, a State educational agency may waive, in whole or in part, the requirement of this subsection to provide supplemental educational services if the State educational agency determines that—
 
 &emsp;&emsp;&emsp;(i) none of the providers of those services on the list approved by the State educational agency under paragraph (4)(C) makes those services available in the area served by the local educational agency or within a reasonable distance of that area; and
 

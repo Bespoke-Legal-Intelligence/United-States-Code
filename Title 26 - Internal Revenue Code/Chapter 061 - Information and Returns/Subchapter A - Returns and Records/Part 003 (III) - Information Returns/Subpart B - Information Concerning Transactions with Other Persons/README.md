@@ -11,6 +11,7 @@ Subpart B—Information Concerning Transactions With Other Persons
 | :--- | ---: |
 | [6042\.](%C2%A7%2006042%20-%20Returns%20regarding%20payments%20of%20dividends%20and%20corporate%20earnings%20and%20profits.md) | Returns regarding payments of dividends and corporate earnings and profits. |
 | [6043\.](%C2%A7%2006043%20-%20Liquidating%2C%20etc.%2C%20transactions.md) | Liquidating, etc., transactions. |
+| [6043A.](%C2%A7%2006043A%20-%20Returns%20relating%20to%20taxable%20mergers%20and%20acquisitions.md) | Returns relating to taxable mergers and acquisitions. |
 | [6044\.](%C2%A7%2006044%20-%20Returns%20regarding%20payments%20of%20patronage%20dividends.md) | Returns regarding payments of patronage dividends. |
 | [6045\.](%C2%A7%2006045%20-%20Returns%20of%20brokers.md) | Returns of brokers. |
 | [6046\.](%C2%A7%2006046%20-%20Returns%20as%20to%20organization%20or%20reorganization%20of%20foreign%20corporations%20and%20as%20to%20acquisitions%20of%20their%20stock.md) | Returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock. |
@@ -35,7 +36,7 @@ Subpart B—Information Concerning Transactions With Other Persons
 | :--- | ---: |
 | [6050J.](%C2%A7%2006050J%20-%20Returns%20relating%20to%20foreclosures%20and%20abandonments%20of%20security.md) | Returns relating to foreclosures and abandonments of security. |
 | [6050K.](%C2%A7%2006050K%20-%20Returns%20relating%20to%20exchanges%20of%20certain%20partnership%20interests.md) | Returns relating to exchanges of certain partnership interests. |
-| [6050L.](%C2%A7%2006050L%20-%20Returns%20relating%20to%20certain%20dispositions%20of%20donated%20property.md) | Returns relating to certain dispositions of donated property. |
+| [6050L.](%C2%A7%2006050L%20-%20Returns%20relating%20to%20certain%20donated%20property.md) | Returns relating to certain donated property. |
 | [6050M.](%C2%A7%2006050M%20-%20Returns%20relating%20to%20persons%20receiving%20contracts%20from%20Federal%20executive%20agencies.md) | Returns relating to persons receiving contracts from Federal executive agencies. |
 | [6050N.](%C2%A7%2006050N%20-%20Returns%20regarding%20payments%20of%20royalties.md) | Returns regarding payments of royalties. |
 | [6050P.](%C2%A7%2006050P%20-%20Returns%20relating%20to%20the%20cancellation%20of%20indebtedness%20by%20certain%20entities.md) | Returns relating to the cancellation of indebtedness by certain entities. |
@@ -47,6 +48,10 @@ Subpart B—Information Concerning Transactions With Other Persons
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §882(c)(2), Oct. 22, 2004, 118 Stat. 1630, which directed amendment of the analysis for subpart A of part II of subchapter A of chapter 61 of this title by substituting “Returns relating to certain donated property” for “Returns relating to certain dispositions of donated property” in item 6050L, was executed by making the substitution in item 6050L in the analysis for this subpart, to reflect the probable intent of Congress.
+
+Pub. L. 108–357, title VIII, §805(c), Oct. 22, 2004, 118 Stat. 1574, added item 6043A.
 
 2002—Pub. L. 107–210, div. A, title II, §202(d)(2), Aug. 6, 2002, 116 Stat. 963, added item 6050T.
 
@@ -98,10 +103,6 @@ Pub. L. 87–792, §7(m)(2), Oct. 10, 1962, 76 Stat. 831, added item 6047.
 
 1960—Pub. L. 86–780, §7(b), Sept. 14, 1960, 74 Stat. 1016, substituted “Returns as to creation or organization, or reorganization, of foreign corporations” for “Returns as to formation or reorganization of foreign corporations,” in item 6046.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 6071, 6201 of this title.
-
 <i><sup>1</sup></i><i> Editorially supplied. Section 6041A added by Pub. L. 97–248 without corresponding amendment of subpart analysis.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
@@ -115,6 +116,7 @@ This subpart is referred to in sections 6071, 6201 of this title.
 - [&sect; 06041A - Returns regarding payments of remuneration for services and direct sales](%C2%A7%2006041A%20-%20Returns%20regarding%20payments%20of%20remuneration%20for%20services%20and%20direct%20sales.md)
 - [&sect; 06042 - Returns regarding payments of dividends and corporate earnings and profits](%C2%A7%2006042%20-%20Returns%20regarding%20payments%20of%20dividends%20and%20corporate%20earnings%20and%20profits.md)
 - [&sect; 06043 - Liquidating, etc., transactions](%C2%A7%2006043%20-%20Liquidating%2C%20etc.%2C%20transactions.md)
+- [&sect; 06043A - Returns relating to taxable mergers and acquisitions](%C2%A7%2006043A%20-%20Returns%20relating%20to%20taxable%20mergers%20and%20acquisitions.md)
 - [&sect; 06044 - Returns regarding payments of patronage dividends](%C2%A7%2006044%20-%20Returns%20regarding%20payments%20of%20patronage%20dividends.md)
 - [&sect; 06045 - Returns of brokers](%C2%A7%2006045%20-%20Returns%20of%20brokers.md)
 - [&sect; 06046 - Returns as to organization or reorganization of foreign corporations and as to acquisitions of their stock](%C2%A7%2006046%20-%20Returns%20as%20to%20organization%20or%20reorganization%20of%20foreign%20corporations%20and%20as%20to%20acquisitions%20of%20their%20stock.md)
@@ -134,7 +136,7 @@ This subpart is referred to in sections 6071, 6201 of this title.
 - [&sect; 06050I - Returns relating to cash received in trade or business, etc](%C2%A7%2006050I%20-%20Returns%20relating%20to%20cash%20received%20in%20trade%20or%20business%2C%20etc.md)
 - [&sect; 06050J - Returns relating to foreclosures and abandonments of security](%C2%A7%2006050J%20-%20Returns%20relating%20to%20foreclosures%20and%20abandonments%20of%20security.md)
 - [&sect; 06050K - Returns relating to exchanges of certain partnership interests](%C2%A7%2006050K%20-%20Returns%20relating%20to%20exchanges%20of%20certain%20partnership%20interests.md)
-- [&sect; 06050L - Returns relating to certain dispositions of donated property](%C2%A7%2006050L%20-%20Returns%20relating%20to%20certain%20dispositions%20of%20donated%20property.md)
+- [&sect; 06050L - Returns relating to certain donated property](%C2%A7%2006050L%20-%20Returns%20relating%20to%20certain%20donated%20property.md)
 - [&sect; 06050M - Returns relating to persons receiving contracts from Federal executive agencies](%C2%A7%2006050M%20-%20Returns%20relating%20to%20persons%20receiving%20contracts%20from%20Federal%20executive%20agencies.md)
 - [&sect; 06050N - Returns regarding payments of royalties](%C2%A7%2006050N%20-%20Returns%20regarding%20payments%20of%20royalties.md)
 - [&sect; 06050P - Returns relating to the cancellation of indebtedness by certain entities](%C2%A7%2006050P%20-%20Returns%20relating%20to%20the%20cancellation%20of%20indebtedness%20by%20certain%20entities.md)

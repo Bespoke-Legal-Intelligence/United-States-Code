@@ -14,7 +14,7 @@ To receive funds available under a line of credit provided under this subpart, a
 
 #### (d) Use of proceeds from investments
 
-Proceeds derived from investments made using funds made available under this subpart may be used only for the purposes described in section 13821 of this title and shall be reinvested in the community in which they were generated.
+Proceeds derived from investments made using funds made available under this subpart may beused only for the purposes described in section 13821 of this title and shall be reinvested in the community in which they were generated.
 
 (Pub. L. 103–322, title III, §31115, Sept. 13, 1994, 108 Stat. 1884.)
 

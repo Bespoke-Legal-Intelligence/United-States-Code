@@ -1,12 +1,22 @@
 ### §1410. Venue of cases ancillary to foreign proceedings
 
-(a) A case under section 304 of title 11 to enjoin the commencement or continuation of an action or proceeding in a State or Federal court, or the enforcement of a judgment, may be commenced only in the district court for the district where the State or Federal court sits in which is pending the action or proceeding against which the injunction is sought.
+A case under chapter 15 of title 11 may be commenced in the district court of the United States for the district—
 
-(b) A case under section 304 of title 11 to enjoin the enforcement of a lien against a property, or to require the turnover of property of an estate, may be commenced only in the district court for the district in which such property is found.
+&emsp;(1) in which the debtor has its principal place of business or principal assets in the United States;
 
-(c) A case under section 304 of title 11, other than a case specified in subsection (a) or (b) of this section, may be commenced only in the district court for the district in which is located the principal place of business in the United States, or the principal assets in the United States, of the estate that is the subject of such case.
+&emsp;(2) if the debtor does not have a place of business or assets in the United States, in which there is pending against the debtor an action or proceeding in a Federal or State court; or
 
-(Added Pub. L. 98–353, title I, §102(a), July 10, 1984, 98 Stat. 335.)
+&emsp;(3) in a case other than those specified in paragraph (1) or (2), in which venue will be consistent with the interests of justice and the convenience of the parties, having regard to the relief sought by the foreign representative.
+
+(Added Pub. L. 98–353, title I, §102(a), July 10, 1984, 98 Stat. 335; amended Pub. L. 109–8, title VIII, §802(c)(4), Apr. 20, 2005, 119 Stat. 146.)
+
+#### Amendments
+
+2005—Pub. L. 109–8 amended section generally. Prior to amendment, section related to venue of cases commenced under section 304 of title 11.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date
 

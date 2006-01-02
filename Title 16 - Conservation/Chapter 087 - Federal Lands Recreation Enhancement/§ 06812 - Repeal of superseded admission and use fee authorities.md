@@ -2,7 +2,7 @@
 
 #### (a) Land and Water Conservation Fund Act
 
-Subsections (a), (b), (c), (d), (e), (f), (g), and (i) of section 460<i>l</i>–6a of this title are repealed, except that the Secretary may continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under such section until the date the notice required by section 6804(a)(3) of this title is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass.
+Subsections (a), (b), (c), (d), (e), (f), (g), and (i) (except for paragraph (1)(C)) of section 460<i>l</i>–6a of this title are repealed, except that the Secretary may continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under such section until the date the notice required by section 6804(a)(3) of this title is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass.
 
 #### (b) Recreational fee demonstration program
 
@@ -24,7 +24,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 #### (1) Land and water conservation fund special accounts
 
-&emsp;Amounts in the special accounts established under section 460<i>l</i>–6a(i)(1) of this title for Federal land management agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 460<i>l</i>6a(i)(1) of this title for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 460<i>l</i>–6a of this title by subsection (a) of this section.
+&emsp;Amounts in the special accounts established under section 460<i>l</i>–6a(i)(1) of this title for Federal land management agencies that are unobligated on December 8, 2004, shall be transferred to the appropriate special account established under section 6806 of this title and shall be available to the Secretary in accordance with this chapter. A special account established under section 460<i>l</i>–6a(i)(1) of this title for a Federal agency that is not a Federal land management area, and the use of such special account, is not affected by the repeal of section 460<i>l</i>–6a of this title by subsection (a) of this section.
 
 #### (2) National parks passport
 
@@ -42,7 +42,7 @@ Effective on the date the notice required by section 6804(a)(3) of this title is
 
 A regulation or policy issued under a provision of law repealed by this section shall remain in effect to the extent such a regulation or policy is consistent with the provisions of this chapter until the Secretary issues a regulation, guideline, or policy under this chapter that supersedes the earlier regulation.
 
-(Pub. L. 108–447, div. J, title VIII, §813, Dec. 8, 2004, 118 Stat. 3390.)
+(Pub. L. 108–447, div. J, title VIII, §813, Dec. 8, 2004, 118 Stat. 3390; Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526.)
 
 #### References in Text
 
@@ -53,6 +53,14 @@ Section 315 of the Department of the Interior and Related Agencies Appropriation
 The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d)(2) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497, as amended. Title VI of the Act is classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 This chapter, referred to in subsecs. (e) and (f), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–54 inserted “(except for paragraph (1)(C))” after “and (i)”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–54 effective Dec. 8, 2004, see section 132(d) of Pub. L. 109–54, set out as a note under section 460<i>l</i>–6a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

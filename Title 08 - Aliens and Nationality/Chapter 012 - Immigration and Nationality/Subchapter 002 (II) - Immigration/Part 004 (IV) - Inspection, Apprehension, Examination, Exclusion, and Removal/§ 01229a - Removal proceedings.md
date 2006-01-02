@@ -146,17 +146,35 @@
 
 &emsp;&emsp;In any proceeding under this chapter, any record of conviction or abstract that has been submitted by electronic means to the Service from a State or court shall be admissible as evidence to prove a criminal conviction if it is—
 
-&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from its repository or by a court official from the court in which the conviction was entered as an official record from its repository, and
+&emsp;&emsp;&emsp;(i) certified by a State official associated with the State's repository of criminal justice records as an official record from itsrepository or by a court official from the court in which the conviction was entered as an official record from its repository, and
 
 &emsp;&emsp;&emsp;(ii) certified in writing by a Service official as having been received electronically from the State's record repository or the court's record repository.
 
 > &emsp;&emsp;A certification under clause (i) may be by means of a computer-generated signature and statement of authenticity.
 
-#### (4) Notice
+#### (4) Applications for relief from removal
+
+#### (A) In general
+
+&emsp;&emsp;An alien applying for relief or protection from removal has the burden of proof to establish that the alien—
+
+&emsp;&emsp;&emsp;(i) satisfies the applicable eligibility requirements; and
+
+&emsp;&emsp;&emsp;(ii) with respect to any form of relief that is granted in the exercise of discretion, that the alien merits a favorable exercise of discretion.
+
+#### (B) Sustaining burden
+
+&emsp;&emsp;The applicant must comply with the applicable requirements to submit information or documentation in support of the applicant's application for relief or protection as provided by law or by regulation or in the instructions for the application form. In evaluating the testimony of the applicant or other witness in support of the application, the immigration judge will determine whether or not the testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant has satisfied the applicant's burden of proof. In determining whether the applicant has met such burden, the immigration judge shall weigh the credible testimony along with other evidence of record. Where the immigration judge determines that the applicant should provide evidence which corroborates otherwise credible testimony, such evidence must be provided unless the applicant demonstrates that the applicant does not have the evidence and cannot reasonably obtain the evidence.
+
+#### (C) Credibility determination
+
+&emsp;&emsp;Considering the totality of the circumstances, and all relevant factors, the immigration judge may base a credibility determination on the demeanor, candor, or responsiveness of the applicant or witness, the inherent plausibility of the applicant's or witness's account, the consistency between the applicant's or witness's written and oral statements (whenever made and whether or not under oath, and considering the circumstances under which the statements were made), the internal consistency of each such statement, the consistency of such statements with other evidence of record (including the reports of the Department of State on country conditions), and any inaccuracies or falsehoods in such statements, without regard to whether an inconsistency, inaccuracy, or falsehood goes to the heart of the applicant's claim, or any other relevant factor. There is no presumption of credibility, however, if no adverse credibility determination is explicitly made, the applicant or witness shall have a rebuttable presumption of credibility on appeal.
+
+#### (5) Notice
 
 &emsp;If the immigration judge decides that the alien is removable and orders the alien to be removed, the judge shall inform the alien of the right to appeal that decision and of the consequences for failure to depart under the order of removal, including civil and criminal penalties.
 
-#### (5) Motions to reconsider
+#### (6) Motions to reconsider
 
 #### (A) In general
 
@@ -170,11 +188,11 @@
 
 &emsp;&emsp;The motion shall specify the errors of law or fact in the previous order and shall be supported by pertinent authority.
 
-#### (6) Motions to reopen
+#### (7) Motions to reopen
 
 #### (A) In general
 
-&emsp;&emsp;An alien may file one motion to reopen proceedings under this section.
+&emsp;&emsp;An alien may file one motion to reopen proceedings under this section, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv).
 
 #### (B) Contents
 
@@ -194,15 +212,19 @@
 
 &emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
 
-#### (iv) Special rule for battered spouses and children
+#### (iv) Special rule for battered spouses, children, and parents
 
-&emsp;&emsp;&emsp;The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply—
+&emsp;&emsp;&emsp;Any limitation under this section on the deadlines for filing such motions shall not apply—
 
-&emsp;&emsp;&emsp;&emsp;(I) if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title, clause (ii) or (iii) of section 1154(a)(1)(B) of this title, or section 1229b(b)(2) of this title;
+&emsp;&emsp;&emsp;&emsp;(I) if the basis for the motion is to apply for relief under clause (iii) or (iv) of section 1154(a)(1)(A) of this title, clause (ii) or (iii) of section 1154(a)(1)(B) of this title,,<sup>1</sup> section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997);
 
-&emsp;&emsp;&emsp;&emsp;(II) if the motion is accompanied by a cancellation of removal application to be filed with the Attorney General or by a copy of the self-petition that has been or will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen; and
+&emsp;&emsp;&emsp;&emsp;(II) if the motion is accompanied by a cancellation of removal application to be filed with the Attorney General or by a copy of the self-petition that has been or will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen;
 
-&emsp;&emsp;&emsp;&emsp;(III) if the motion to reopen is filed within 1 year of the entry of the final order of removal, except that the Attorney General may, in the Attorney General's discretion, waive this time limitation in the case of an alien who demonstrates extraordinary circumstances or extreme hardship to the alien's child.
+&emsp;&emsp;&emsp;&emsp;(III) if the motion to reopen is filed within 1 year of the entry of the final order of removal, except that the Attorney General may, in the Attorney General's discretion, waive this time limitation in the case of an alien who demonstrates extraordinary circumstances or extreme hardship to the alien's child; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) if the alien is physically present in the United States at the time of filing the motion.
+
+&emsp;&emsp;&nbsp;The filing of a motion to reopen under this clause shall only stay the removal of a qualified alien (as defined in section 1641(c)(1)(B) of this title <sup>2</sup> pending the final disposition of the motion, including exhaustion of all appeals if the motion establishes that the alien is a qualified alien.
 
 #### (d) Stipulated removal
 
@@ -214,7 +236,7 @@ In this section and section 1229b of this title:
 
 #### (1) Exceptional circumstances
 
-&emsp;The term “exceptional circumstances” refers to exceptional circumstances (such as serious illness of the alien or serious illness or death of the spouse, child, or parent of the alien, but not including less compelling circumstances) beyond the control of the alien.
+&emsp;The term “exceptional circumstances” refers to exceptional circumstances (such as battery or extreme cruelty to the alien or any child or parent of the alien, serious illness of the alien, or serious illness or death of the spouse, child, or parent of the alien, but not including less compelling circumstances) beyond the control of the alien.
 
 #### (2) Removable
 
@@ -224,7 +246,11 @@ In this section and section 1229b of this title:
 
 &emsp;&emsp;(B) in the case of an alien admitted to the United States, that the alien is deportable under section 1227 of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §240, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–589; amended Pub. L. 106–386, div. B, title V, §1506(c)(1)(A), Oct. 28, 2000, 114 Stat. 1528.)
+(June 27, 1952, ch. 477, title II, ch. 4, §240, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–589; amended Pub. L. 106–386, div. B, title V, §1506(c)(1)(A), Oct. 28, 2000, 114 Stat. 1528; Pub. L. 109–13, div. B, title I, §101(d), May 11, 2005, 119 Stat. 304; Pub. L. 109–162, title VIII, §§813(a)(1), 825(a), Jan. 5, 2006, 119 Stat. 3057, 3063.)
+
+#### References in Text
+
+Section 1254 of this title, referred to in subsec. (c)(7)(C)(iv)(I), was repealed by Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615.
 
 #### Prior Provisions
 
@@ -232,7 +258,27 @@ A prior section 240 of act June 27, 1952, was renumbered section 240C, and is cl
 
 #### Amendments
 
+2006—Subsec. (c)(7)(A). Pub. L. 109–162, §825(a)(1), inserted before period at end “, except that this limitation shall not apply so as to prevent the filing of one motion to reopen described in subparagraph (C)(iv)”.
+
+Subsec. (c)(7)(C)(iv). Pub. L. 109–162, §825(a)(2)(A), (B), substituted “spouses, children, and parents” for “spouses and children” in heading and “Any limitation under this section on the deadlines for filing such motions shall not apply” for “The deadline specified in subsection (b)(5)(C) of this section for filing a motion to reopen does not apply” in introductory provisions.
+
+Subsec. (c)(7)(C)(iv)(I). Pub. L. 109–162, §825(a)(2)(C), which directed substitution of “, section 1229b(b) of this title, or section 1254(a)(3) of this title (as in effect on March 31, 1997)” for “or section 1229b(b) of this title”, was executed by making the substitution for “or section 1229b(b)(2) of this title”, to reflect the probable intent of Congress.
+
+Subsec. (c)(7)(C)(iv)(IV). Pub. L. 109–162, §825(a)(2)(D)–(F), added subcl. (IV).
+
+Subsec. (e)(1). Pub. L. 109–162, §813(a)(1), substituted “battery or extreme cruelty to the alien or any child or parent of the alien, serious illness of the alien,” for “serious illness of the alien”.
+
+2005—Subsec. (c)(4) to (7). Pub. L. 109–13 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+
 2000—Subsec. (c)(6)(C)(iv). Pub. L. 106–386 added cl. (iv).
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–162, title VIII, §813(a)(2), Jan. 5, 2006, 119 Stat. 3058, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to a failure to appear that occurs before, on, or after the date of the enactment of this Act \[Jan. 5, 2006\].”
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applications for asylum, withholding, or other relief from removal made on or after such date, see section 101(h)(2) of Pub. L. 109–13, set out as a note under section 1158 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -240,7 +286,7 @@ Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 15
 
 #### Effective Date
 
-Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
@@ -250,23 +296,31 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Elimination of Time Limitations on Motions To Reopen Deportation Proceedings for Victims of Domestic Violence
 
-Pub. L. 106–386, div. B, title V, §1506(c)(2), Oct. 28, 2000, 114 Stat. 1528, provided that:
+Pub. L. 106–386, div. B, title V, §1506(c)(2), Oct. 28, 2000, 114 Stat. 1528, as amended by Pub. L. 109–162, title VIII, §§814(a), 825(b), Jan. 5, 2006, 119 Stat. 3058, 3064, provided that:
 
-“(A)
+“(A)(i)
 
-In general.—Notwithstanding any limitation imposed by law on motions to reopen or rescind deportation proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1101 note)), there is no time limit on the filing of a motion to reopen such proceedings, and the deadline specified in section 242B(c)(3) of the Immigration and Nationality Act (as so in effect) (8 U.S.C. 1252b(c)(3)) does not apply—
+In general.—Notwithstanding any limitation imposed by law on motions to reopen or rescind deportation proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1101 note))—
 
-&emsp;“(i) if the basis of the motion is to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), or section 244(a)(3) of such Act (as so in effect) (8 U.S.C. 1254(a)(3)); and
+&emsp;“(I) there is no time limit on the filing of a motion to reopen such proceedings, and the deadline specified in section 242B(c)(3) of the Immigration and Nationality Act (as so in effect) (8 U.S.C. 1252b(c)(3)) does not apply—
 
-&emsp;“(ii) if the motion is accompanied by a suspension of deportation application to be filed with the Attorney General or by a copy of the self-petition that will be filed with the Immigration and Naturalization Service upon the granting of the motion to reopen.
+&emsp;&emsp;“(aa) if the basis of the motion is to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), or section 244(a)(3) of such Act (as so in effect) (8 U.S.C. 1254(a)(3)); and
+
+&emsp;&emsp;“(bb) if the motion is accompanied by a suspension of deportation application to be filed with the Secretary of Homeland Security or by a copy of the self-petition that will be filed with the Department of Homeland Security upon the granting of the motion to reopen; and
+
+&emsp;“(II) any such limitation shall not apply so as to prevent the filing of one motion to reopen described in section 240(c)(7)(C)(iv) of the Immigration and Nationality Act (8 U.S.C. 1229a(c)(7)).
+
+“(ii)
+
+Prima facie case.—The filing of a motion to reopen under this subparagraph shall only stay the removal of a qualified alien (as defined in section 431(c)(1)(B) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1641(c)(1)(B))\[)\] pending the final disposition of the motion, including exhaustion of all appeals if the motion establishes that the alien is a qualified alien.
 
 “(B)
 
-Applicability.—Subparagraph (A) shall apply to motions filed by aliens who—
+Applicability.—Subparagraph (A) shall apply to motions filed by aliens who are physically present in the United States and who—
 
-&emsp;“(i) are, or were, in deportation proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\](as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1101 note)); and
+&emsp;“(i) are, or were, in deportation or exclusion proceedings under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1101 note)); and
 
-&emsp;“(ii) have become eligible to apply for relief under clause (iii) or (iv) of section 204(a)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(A)), clause (ii) or (iii) of section 204(a)(1)(B) of such Act (8 U.S.C. 1154(a)(1)(B)), or section 244(a)(3) of such Act (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1101 note)) as a result of the amendments made by—
+&emsp;“(ii) have become eligible to apply for relief described in subparagraph (A)(i) as a result of the amendments made by—
 
 &emsp;&emsp;“(I) subtitle G \[§40701 et seq.\] of title IV of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322; 108 Stat. 1953 et seq.) \[see Tables for classification\]; or
 
@@ -277,4 +331,6 @@ Applicability.—Subparagraph (A) shall apply to motions filed by aliens who—
 For purposes of this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should appear.</i>
 

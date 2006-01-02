@@ -1,6 +1,6 @@
 ### §1909. Examiner performing other services
 
-Whoever, being a national-bank examiner, Federal Deposit Insurance Corporation examiner, or farm credit examiner, performs any other service, for compensation, for any bank or banking or loan association, or for any officer, director, or employee thereof, or for any person connected therewith in any capacity, shall befined under this title or imprisoned not more than one year, or both.
+Whoever, being a national-bank examiner, Federal Deposit Insurance Corporation examiner, or farm credit examiner, performs any other service, for compensation, for any bank or banking or loan association, or for any officer, director, or employee thereof, or for any person connected therewith in any capacity, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §§330004(12), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147.)
 

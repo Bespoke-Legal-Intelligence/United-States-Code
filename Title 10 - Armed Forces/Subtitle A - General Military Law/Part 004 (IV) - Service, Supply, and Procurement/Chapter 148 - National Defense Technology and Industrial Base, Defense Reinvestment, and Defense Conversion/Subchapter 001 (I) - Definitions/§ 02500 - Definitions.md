@@ -140,7 +140,3 @@ Section 4201 of title XLII of div. D of Pub. L. 102–484 provided that: “The 
 
 Section 4203(b) of Pub. L. 102–484 provided that until first national technology and industrial base assessment was submitted to Congress by Secretary of Defense pursuant to former section 2506(e) of this title, the term “defense critical technology” for purposes of this chapter, would have meaning given such term in section 2521 of this title, as in effect on day before Oct. 23, 1992.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2474, 2534 of this title.
-

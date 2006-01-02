@@ -4,7 +4,7 @@
 
 #### (1) Amount for grants
 
-&emsp;Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
+&emsp;For each of fiscal years 2006 through 2009, not more than $3,000,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.
 
 #### (2) Period of availability; apportionment
 
@@ -14,7 +14,7 @@
 
 #### (B) Apportionment
 
-&emsp;&emsp;At the end of the period of availability under subparagraph (A), the Secretary of the Interior shall apportion any amounts that remain available among the States in the manner specified in section 777c(e) of this title for use by the States in the same manner as funds apportioned under section 777c(e) of this title.
+&emsp;&emsp;At the end of the period of availability under subparagraph (A), the Secretary of the Interior shall apportion any amounts that remain available among the States in the manner specified in section 777c(c) of this title for use by the States in the same manner as funds apportioned under section 777c(c) of this title.
 
 #### (b) Selection of projects
 
@@ -84,7 +84,7 @@ A grant under this section shall not be used, in whole or in part, for an activi
 
 #### (e) Funding for other activities
 
-Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—
+Of amounts made available under section 777c(b) of this title for each fiscal year—
 
 &emsp;(1) $200,000 shall be made available for each of—
 
@@ -102,9 +102,23 @@ Of the balance of each annual appropriation made under section 777b of this titl
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
 
-(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772.)
+(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, §10118, Aug. 10, 2005, 119 Stat. 1929.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59, §10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.”
+
+Subsec. (a)(2)(B). Pub. L. 109–59, §10118(2), substituted “section 777c(c)” for “section 777c(e)” in two places.
+
+Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—”.
+
+#### Effective Date of 2005 Amendments
+
+From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a)(1), (2)(B) and (e) of this section considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
+
+Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 

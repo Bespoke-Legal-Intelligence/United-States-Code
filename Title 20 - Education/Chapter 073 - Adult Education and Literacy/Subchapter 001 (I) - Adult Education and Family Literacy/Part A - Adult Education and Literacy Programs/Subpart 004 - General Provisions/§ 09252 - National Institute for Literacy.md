@@ -52,7 +52,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;&emsp;(C) to coordinate the support of reliable and replicable research and development on literacy and basic skills in families and adults across Federal agencies, especially with the Office of Educational Research and Improvement in the Department of Education, and to carry out basic and applied research and development on topics that are not being investigated by other organizations or agencies, such as the special literacy needs of individuals with learning disabilities;
 
-&emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that show great promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of the National Institute of Child Health and Human Development;
+&emsp;&emsp;(D) to collect and disseminate information on methods of advancing literacy that showgreat promise, including phonemic awareness, systematic phonics, fluency, and reading comprehension based on the work of the National Institute of Child Health and Human Development;
 
 &emsp;&emsp;(E) to provide policy and technical assistance to Federal, State, and local entities for the improvement of policy and programs relating to literacy;
 
@@ -214,7 +214,7 @@ Provisions similar to this section were contained in section 1213c of this title
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Advisory Boards
 
@@ -222,5 +222,5 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### Office of Educational Research and Improvement
 
-The Office of Educational Research and Improvement was established by section 3419 of this title. Section3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
 

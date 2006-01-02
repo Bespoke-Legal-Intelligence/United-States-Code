@@ -76,7 +76,3 @@ Subsec. (h). Pub. L. 94–455, §1901(a)(78), struck out subsec. (h) relating to
 
 Amendment by section 1901(a)(78) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 316, 381, 6422, 6503, 6515 of this title.
-

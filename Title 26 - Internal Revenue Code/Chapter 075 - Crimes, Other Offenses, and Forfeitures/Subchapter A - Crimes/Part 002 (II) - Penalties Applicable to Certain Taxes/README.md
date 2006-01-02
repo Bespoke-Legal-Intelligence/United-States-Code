@@ -3,12 +3,14 @@
 | Sec. |  |
 | :--- | ---: |
 | [7231\.](%C2%A7%2007231%20-%20Failure%20to%20obtain%20license%20for%20collection%20of%20foreign%20items.md) | Failure to obtain license for collection of foreign items. |
-| [7232\.](%C2%A7%2007232%20-%20Failure%20to%20register%20under%20section%204101%2C%20false%20representations%20of%20registration%20status%2C%20etc.md) | Failure to register under section 4101, false representations of registration status, etc. |
+| [7232\.](%C2%A7%2007232%20-%20Failure%20to%20register%20or%20reregister%20under%20section%204101%2C%20false%20representations%20of%20registration%20status%2C%20etc.md) | Failure to register or reregister under section 4101, false representations of registration status, etc. |
 | \[7233 to 7241. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title XI, §11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted “or reregister” after “register” in item 7232.
 
 1997—Pub. L. 105–34, title X, §1032(e)(12)(C), Aug. 5, 1997, 111 Stat. 935, added item 7232 and struck out former item 7232 “Failure to register, or false statement by manufacturer or producer of gasoline, diesel fuel, or aviation fuel”.
 
@@ -38,7 +40,7 @@ Pub. L. 100–418, title I, §1941(b)(3)(F), Aug. 23, 1988, 102 Stat. 1324, stru
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 07231 - Failure to obtain license for collection of foreign items](%C2%A7%2007231%20-%20Failure%20to%20obtain%20license%20for%20collection%20of%20foreign%20items.md)
-- [&sect; 07232 - Failure to register under section 4101, false representations of registration status, etc](%C2%A7%2007232%20-%20Failure%20to%20register%20under%20section%204101%2C%20false%20representations%20of%20registration%20status%2C%20etc.md)
+- [&sect; 07232 - Failure to register or reregister under section 4101, false representations of registration status, etc](%C2%A7%2007232%20-%20Failure%20to%20register%20or%20reregister%20under%20section%204101%2C%20false%20representations%20of%20registration%20status%2C%20etc.md)
 - [&sect; 07233 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1952(n)(2)(A), Oct. 4, 1976, 90 Stat. 1846](%C2%A7%2007233%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71952%28n%29%282%29%28A%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201846.md)
 - [&sect; 07234 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(7)(B)(i), Oct. 4, 1976, 90 Stat. 1815](%C2%A7%2007234%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%287%29%28B%29%28i%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201815.md)
 - [&sect; 07235 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(9)(B)(i), Oct. 4, 1976, 90 Stat. 1816](%C2%A7%2007235%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%289%29%28B%29%28i%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201816.md)

@@ -24,7 +24,3 @@ If any one of the transfers, trusts, interests, rights, or powers enumerated and
 
 Section 425(c)(1) of Pub. L. 98–369 provided that: “The amendments made by subsection (a) \[amending this section and section 2053 of this title\] shall apply to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2053 of this title.
-

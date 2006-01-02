@@ -1,6 +1,6 @@
 ### §1060. Assignment
 
-(a)(1) A registered mark or a mark for which an application to register has been filed shall be assignable with the good will of the business in which the mark is used, or with that part of the good will of the business connected with the use of and symbolized by the mark. Notwithstanding the preceding sentence, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of an amendment under section 1051(c) of this title to bring the application into conformity with section 1051(a) of this title or the filing of the verified statement of use under section 1051(d) of this title, except for an assignment to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing.
+(a)(1) A registered mark or a mark for which an application to register has been filed shall be assignable with the good will of the business in which the mark is used, or with that part of the good will of the business connected with the use of and symbolized by the mark. Notwithstandingthe preceding sentence, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of an amendment under section 1051(c) of this title to bring the application into conformity with section 1051(a) of this title or the filing of the verified statement of use under section 1051(d) of this title, except for an assignment to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing.
 
 (2) In any assignment authorized by this section, it shall not be necessary to include the good will of the business connected with the use of and symbolized by any other mark used in the business or by the name or style under which the business is conducted.
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], subs
 
 “An assignee not domiciled in the United States shall be subject to and comply with the provisions of section 1051(e) of this title.”
 
-1988—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of thistitle, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
+1988—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 

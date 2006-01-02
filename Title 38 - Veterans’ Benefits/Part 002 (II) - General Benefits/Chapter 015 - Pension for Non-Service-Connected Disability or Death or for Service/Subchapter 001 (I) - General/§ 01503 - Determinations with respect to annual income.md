@@ -32,7 +32,7 @@
 
 &emsp;(10) in the case of a child, any current-work income received during the year, to the extent that the total amount of such income does not exceed an amount equal to the sum of—
 
-&emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is required under section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
+&emsp;&emsp;(A) the lowest amount of gross income for which an income tax return is required under section 6012(a) of the Internal Revenue Code of 1986, to be filed by an individual who is not married (as determined under section 7703 of such Code), is not a surviving spouse (as defined in section 2(a) of such Code), and is not a head of household (as defined in section 2(b) of such Code); and
 
 &emsp;&emsp;(B) if the child is pursuing a course of postsecondary education or vocational rehabilitation or training, the amount paid by such child for such course of education or vocational rehabilitation or training, including the amount paid for tuition, fees, books, and materials; and
 
@@ -120,7 +120,7 @@ Pars. (14) to (17). Pub. L. 91–588, §7(3), added pars. (14) to (17).
 
 Par. (9). Pub. L. 90–77, §103(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
-1964—Par. (6). Pub. L. 88–664, §1(a), inserted “10 per centum of the amount of” before “payments” andstruck out “equal to his contributions thereto” after “programs”.
+1964—Par. (6). Pub. L. 88–664, §1(a), inserted “10 per centum of the amount of” before “payments” and struck out “equal to his contributions thereto” after “programs”.
 
 Pars. (9) to (13). Pub. L. 88–664, §1(b), added pars. (9) to (13).
 

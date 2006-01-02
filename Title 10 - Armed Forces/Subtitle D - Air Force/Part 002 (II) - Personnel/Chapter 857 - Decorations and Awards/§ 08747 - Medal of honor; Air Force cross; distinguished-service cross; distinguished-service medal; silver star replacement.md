@@ -26,7 +26,3 @@ The words “issued for wear with or in place of any of them” are inserted for
 
 1960—Pub. L. 86–593 inserted “Air Force cross” in section catchline and in text.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8748 of this title; title 18 section 704.
-

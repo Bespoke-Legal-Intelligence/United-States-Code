@@ -1256,7 +1256,24 @@ Papago Indians; permits for easements, etc.
 | [463e.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463e%20-%20Exchanges%20of%20land.md) | Exchanges of land. |
 | [463f.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463f%20-%20Title%20to%20lands.md) | Title to lands. |
 | [463g.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000463g%20-%20Use%20of%20funds%20appropriated%20under%20section%20465.md) | Use of funds appropriated under section 465. |
-| [464\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000464%20-%20Transfer%20of%20restricted%20Indian%20lands%20or%20shares%20in%20assets%20of%20Indian%20tribes%20or%20corporation%3B%20exchange%20of%20lands.md) | Transfer of restricted Indian lands or shares in assets of Indian tribes or corporation; exchange of lands. |
+| [464\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000464%20-%20Transfer%20and%20exchange%20of%20restricted%20Indian%20land%20and%20shares%20of%20Indian%20tribes%20and%20corporations.md) | Transfer and exchange of restricted Indian land and shares of Indian tribes and corporations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Approval.
+
+(b)
+
+Transfer to Indian tribe.
+
+(c)
+
+Voluntary exchanges.
+
+|  |  |
+| :--- | ---: |
 | [465\.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000465%20-%20Acquisition%20of%20lands%2C%20water%20rights%20or%20surface%20rights%3B%20appropriation%3B%20title%20to%20lands%3B%20tax%20exemption.md) | Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption. |
 | [465a.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000465a%20-%20Receipt%20and%20purchase%20in%20trust%20by%20United%20States%20of%20land%20for%20Klamath%20Tribe%20Indians.md) | Receipt and purchase in trust by United States of land for Klamath Tribe Indians. |
 | [465b.](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Indians%20and%20Conservation%20of%20Resources/%C2%A7%2000465b%20-%20%E2%80%9CKlamath%20Tribe%20of%20Indians%E2%80%9D%20defined.md) | “Klamath Tribe of Indians” defined. |

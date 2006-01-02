@@ -6,7 +6,7 @@
 
 (3) The Secretary shall specify in regulations the criteria to be met for a business concern to qualify as a veterans’ small business concern for the purposes of this subchapter. Such regulations shall include requirements—
 
-&emsp;(A) that at least 51 percent of a business concern must be owned by individuals who are veterans of the Vietnam era or disabled veterans in order for such concern to qualify for aloan guaranty and that at least 51 percent of a business concern must be owned by disabled veterans in order for such concern to qualify for a direct loan; and
+&emsp;(A) that at least 51 percent of a business concern must be owned by individuals who are veterans of the Vietnam era or disabled veterans in order for such concern to qualify for a loan guaranty and that at least 51 percent of a business concern must be owned by disabled veterans in order for such concern to qualify for a direct loan; and
 
 &emsp;(B) that the management and daily business operations of the concern must be directed by one or more of the veterans whose ownership interest is part of the majority ownership for the purposes of meeting the requirement in clause (A) of this paragraph.
 

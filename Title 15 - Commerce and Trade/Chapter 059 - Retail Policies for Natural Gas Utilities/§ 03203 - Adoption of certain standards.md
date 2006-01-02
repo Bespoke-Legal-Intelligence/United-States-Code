@@ -62,7 +62,7 @@ Section 115(e) of Pub. L. 102–486 provided that: “The report under section 1
 
 #### Definitions
 
-The definition of State in section 2602 of Title 16, Conservation, applies to this section.
+The definitions of State and system cost in section 2602 of Title 16, Conservation, apply to this section.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

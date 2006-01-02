@@ -2,7 +2,7 @@
 
 #### (a) Establishment and administrative role; composition of membership
 
-There is established within the Department of the Interior a commission to be known as theLowell Historic Preservation Commission which shall administer the preservation district and provide certain services within the park in accordance with this part. The Commission shall consist of fifteen members appointed by the Secretary as follows:
+There is established within the Department of the Interior a commission to be known as the Lowell Historic Preservation Commission which shall administer the preservation district and provide certain services within the park in accordance with this part. The Commission shall consist of fifteen members appointed by the Secretary as follows:
 
 &emsp;(1) Three members who are members of the city council of Lowell, appointed from recommendations made by the mayor of Lowell.
 

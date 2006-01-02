@@ -20,7 +20,7 @@ Applicability.—Subsection (a) shall not apply if—
 
 &emsp;(2) the defendant knowingly and voluntarily waived the right to request DNA testing of the biological evidence in a court proceeding conducted after the date of enactment of the Innocence Protection Act of 2004;
 
-&emsp;(3) after a conviction becomes final and the defendant has exhausted all opportunities for direct review of the conviction, the defendant is notified that the biological evidence may be destroyed and the defendant does not file a motion under section 3600 within 180 days of receipt of the notice;
+&emsp;(3) after a conviction becomes final and the defendant has exhausted all opportunities for direct review of the conviction, the defendant is notified that the biological evidence may be destroyed and the defendant does not file amotion under section 3600 within 180 days of receipt of the notice;
 
 &emsp;(4)(A) the evidence must be returned to its rightful owner, or is of such a size, bulk, or physical character as to render retention impracticable; and
 

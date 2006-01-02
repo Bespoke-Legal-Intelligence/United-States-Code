@@ -20,7 +20,7 @@ An eligible institution may, upon the request of a student, make payments to the
 
 #### Codification
 
-Section was originally enacted as section 125 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 516. As such, it had been amended by Pub. L. 89–329, title IV, §441(6), Nov. 8, 1965, 79 Stat. 1250, and renumbered section 145 by Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726.
+Section was originally enacted as section 125 of the Economic Opportunity Act of 1964, Pub. L. 88–452, titleI, Aug. 20, 1964, 78 Stat. 516. As such, it had been amended by Pub. L. 89–329, title IV, §441(6), Nov. 8, 1965, 79 Stat. 1250, and renumbered section 145 by Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726.
 
 Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of Part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was struck out to accommodate the transferal but the amendment of this section by section 441(6) of Pub. L. 89–329 has not been struck out.
 

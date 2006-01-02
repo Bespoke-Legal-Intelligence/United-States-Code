@@ -38,7 +38,7 @@ Screening and Foreign Air Carrier and Airport Security.—The Under Secretary sh
 
 &emsp;&emsp;(B) for which extraordinary security measures are in place.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1220; Pub. L. 103–305, title V, §502, Aug. 23, 1994, 108Stat. 1595; Pub. L. 105–362, title XV, §1502(b), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1220; Pub. L. 103–305, title V, §502, Aug. 23, 1994, 108 Stat. 1595; Pub. L. 105–362, title XV, §1502(b), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §316(k)(4); added Nov. 16, 1990,
 
 Nov. 16, 1990, Pub. L. 101–604, §106(d), 104 Stat. 3075.
 
-In subsection (a), before clause (1), the words “each year” are substituted for “of calendar year 1991 and of each calendar year thereafter” to eliminate unnecessary words. In clauses (8) and (9), the word “financial” is substituted for “funding” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a), before clause (1), the words “each year” are substituted for “of calendar year 1991 and ofeach calendar year thereafter” to eliminate unnecessary words. In clauses (8) and (9), the word “financial” is substituted for “funding” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b)(1), the word “screening” is omitted as surplus.
 

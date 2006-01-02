@@ -32,7 +32,23 @@
 
 #### (1) In general
 
-&emsp;The Attorney General may grant asylum to an alien who has applied for asylum in accordance with the requirements and procedures established by the Attorney General under this section if the Attorney General determines that such alien is a refugee within the meaning of section 1101(a)(42)(A) of this title.
+#### (A) Eligibility
+
+&emsp;&emsp;The Secretary of Homeland Security or the Attorney General may grant asylum to an alien who has applied for asylum in accordance with the requirements and procedures established by the Secretary of Homeland Security or the Attorney General under this section if the Secretary of Homeland Security or the Attorney General determines that such alien is a refugee within the meaning of section 1101(a)(42)(A) of this title.
+
+#### (B) Burden of proof
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The burden of proof is on the applicant to establish that the applicant is a refugee, within the meaning of section 1101(a)(42)(A) of this title. To establish that the applicant is a refugee within the meaning of such section, the applicant must establish that race, religion, nationality, membership in a particular social group, or political opinion was or will be at least one central reason for persecuting the applicant.
+
+#### (ii) Sustaining burden
+
+&emsp;&emsp;&emsp;The testimony of the applicant may be sufficient to sustain the applicant's burden without corroboration, but only if the applicant satisfies the trier of fact that the applicant's testimony is credible, is persuasive, and refers to specific facts sufficient to demonstrate that the applicant is a refugee. In determining whether the applicant has met the applicant's burden, the trier of fact may weigh the credible testimony along with other evidence of record. Where the trier of fact determines that the applicant should provide evidence that corroborates otherwise credible testimony, such evidence must be provided unless the applicant does not have the evidence and cannot reasonably obtain the evidence.
+
+#### (iii) Credibility determination
+
+&emsp;&emsp;&emsp;Considering the totality of the circumstances, and all relevant factors, a trier of fact may base a credibility determination on the demeanor, candor, or responsiveness of the applicant or witness, the inherent plausibility of the applicant's or witness's account, the consistency between the applicant's or witness's written and oral statements (whenever made and whether or not under oath, and considering the circumstances under which the statements were made), the internal consistency of each such statement, the consistency of such statements with other evidence of record (including the reports of the Department of State on country conditions), and any inaccuracies or falsehoods in such statements, without regard to whether an inconsistency, inaccuracy, or falsehood goes to the heart of the applicant's claim, or any other relevant factor. There is no presumption of credibility, however, if no adverse credibility determination is explicitly made, the applicant or witness shall have a rebuttable presumption of credibility on appeal.
 
 #### (2) Exceptions
 
@@ -48,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(iv) there are reasonable grounds for regarding the alien as a danger to the security of the United States;
 
-&emsp;&emsp;&emsp;(v) the alien is inadmissible under subclause (I), (II), (III), (IV), or (VI) of section 1182(a)(3)(B)(i) of this title or removable under section 1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien inadmissible under subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
+&emsp;&emsp;&emsp;(v) the alien is described in subclause (I), (II), (III), (IV), or (VI) of section 1182(a)(3)(B)(i) of this title or section 1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien described in subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
 
 &emsp;&emsp;&emsp;(vi) the alien was firmly resettled in another country prior to arriving in the United States.
 
@@ -74,7 +90,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title)of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
 
 #### (B) Continued classification of certain aliens as children
 
@@ -138,7 +154,7 @@
 
 &emsp;&emsp;The procedure established under paragraph (1) shall provide that—
 
-&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, including the Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
+&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, includingthe Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
 
 &emsp;&emsp;&emsp;(ii) in the absence of exceptional circumstances, the initial interview or hearing on the asylum application shall commence not later than 45 days after the date an application is filed;
 
@@ -160,9 +176,15 @@
 
 &emsp;Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928.)
+(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928; Pub. L. 109–13, div. B, title I, §101(a), (b), May 11, 2005, 119 Stat. 302, 303.)
 
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–13, §101(a)(1), (2), designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The Secretary of Homeland Security or the Attorney General” for “The Attorney General” and “the Secretary of Homeland Security or the Attorney General” for “the Attorney General” in two places.
+
+Subsec. (b)(1)(B). Pub. L. 109–13, §101(a)(3), added subpar. (B)
+
+Subsec. (b)(2)(A)(v). Pub. L. 109–13, §101(b), substituted “described in” for “inadmissible under” in two places and struck out “removable under” before “section 1227(a)(4)(B)”.
 
 2002—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.”
 
@@ -175,6 +197,14 @@ Subsec. (a). Pub. L. 104–132, §421(a), inserted at end “The Attorney Genera
 1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
 1990—Subsec. (d). Pub. L. 101–649 added subsec. (d).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–13, div. B, title I, §101(h)(1), (2), May 11, 2005, 119 Stat. 305, provided that:
+
+“(1) The amendments made by paragraphs (1) and (2) of subsection (a) \[amending this section\] shall take effect as if enacted on March 1, 2003.
+
+“(2) The amendments made by subsections (a)(3), (b), (c), and (d) \[amending this section and sections 1229a and 1231 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to applications for asylum, withholding, or other relief from removal made on or after such date.”
 
 #### Effective Date of 2002 Amendment
 

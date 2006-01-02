@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed or interpreted as preempting any Stat
 
 #### (b) Recovery under other State or Federal law of compensation for removal costs or damages, or payment of claims
 
-Any person who receives compensation for removal costs or damages or claims pursuant tothis chapter shall be precluded from recovering compensation for the same removal costs or damages or claims pursuant to any other State or Federal law. Any person who receives compensation for removal costs or damages or claims pursuant to any other Federal or State law shall be precluded from receiving compensation for the same removal costs or damages or claims as provided in this chapter.
+Any person who receives compensation for removal costs or damages or claims pursuant to this chapter shall be precluded from recovering compensation for the same removal costs or damages or claims pursuant to any other State or Federal law. Any person who receives compensation for removal costs or damages or claims pursuant to any other Federal or State law shall be precluded from receiving compensation for the same removal costs or damages or claims as provided in this chapter.
 
 #### (c) Recycled oil
 
@@ -44,7 +44,7 @@ Except as provided in this subchapter, no owner or operator of a vessel or facil
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§6921 et seq.) and IX (§6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(3), (4), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitles C and I of the Solid Waste Disposal Act are classified generally to subchapters III (§6921 et seq.) and IX (§6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 6901 of this title and Tables.
 
 #### Amendments
 

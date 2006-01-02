@@ -22,7 +22,7 @@ There are authorized to be appropriated such sums as may be necessary to establi
 
 #### (c) Requisite features of State plans
 
-In order to participate in the pilot program and be eligible to receive payments for any period under subsection (d) of this section, a State (during such period) must have a plan, approvedby the Commissioner of Social Security as meeting the requirements of this section, which provides medical and social services for severely handicapped individuals whose earnings are above the level which ordinarily demonstrates an ability to engage in substantial gainful activity and who are not receiving benefits under section 1382 or 1382h of this title or assistance under a State plan approved under section 1396a of this title, and which—
+In order to participate in the pilot program and be eligible to receive payments for any period under subsection (d) of this section, a State (during such period) must have a plan, approved by the Commissioner of Social Security as meeting the requirements of this section, which provides medical and social services for severely handicapped individuals whose earnings are above the level which ordinarily demonstrates an ability to engage in substantial gainful activity and who are not receiving benefits under section 1382 or 1382h of this title or assistance under a State plan approved under section 1396a of this title, and which—
 
 &emsp;(1) declares the intent of the State to participate in the pilot program;
 
@@ -34,7 +34,7 @@ In order to participate in the pilot program and be eligible to receive payments
 
 &emsp;(5) describes the medical and social services to be provided under the plan;
 
-&emsp;(6) describes the manner in which the medical and social services involved are to be provided and, if they are not to be provided through the State's medical assistance and social services programs under subchapters XIX and XX of this chapter (with the Federal payments being made under subsection (d) of this section rather than under those subchapters), specifies the particular mechanisms and procedures to be used in providing such services; and
+&emsp;(6) describes the manner in which the medical and social services involved are to be provided and, if they are not to be provided through the State's medical assistance and social services programs under subchapters XIX and XX of this chapter (with the Federal payments being made under subsection (d) of this section rather than under those subchapters),specifies the particular mechanisms and procedures to be used in providing such services; and
 
 &emsp;(7) contains such other provisions as the Commissioner of Social Security may find to be necessary or appropriate to meet the requirements of this section or otherwise carry out its purpose.
 

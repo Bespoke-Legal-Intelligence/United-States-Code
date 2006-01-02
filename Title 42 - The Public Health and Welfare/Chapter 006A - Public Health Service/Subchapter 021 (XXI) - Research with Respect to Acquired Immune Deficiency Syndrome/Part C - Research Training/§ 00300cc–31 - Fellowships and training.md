@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Programs conducted by National Institute of Mental Health
 
-The Secretary, acting through the Director of the National Institute of Mental Health, shall conduct or support fellowship and training programs for individuals pursuing graduate or postgraduate study in order to train such individuals to conduct scientific research into the psychological and social sciences as such sciences relate to acquired immune deficiency syndrome.
+The Secretary, acting through the Director of the National Institute of Mental Health, shallconduct or support fellowship and training programs for individuals pursuing graduate or postgraduate study in order to train such individuals to conduct scientific research into the psychological and social sciences as such sciences relate to acquired immune deficiency syndrome.
 
 #### (c) Relationship to limitation on number of employees
 

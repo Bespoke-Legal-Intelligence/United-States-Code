@@ -8,7 +8,7 @@ As used in this subchapter, the terms “rural” and “rural area” mean any 
 
 2000—Pub. L. 106–554 and Pub. L. 106–569 amended second sentence identically, substituting “1990 or 2000 decennial census” for “1990 decennial census” and “year 2010” for “year 2000”.
 
-1998—Pub. L. 105–276 inserted before period at end “, and the city of Altus, Oklahoma, shall be considered a rural area for purposes of this subchapter until the receipt of data from the decennial census in the year 2000”.
+1998—Pub. L. 105–276 inserted before period at end “, and the city of Altus, Oklahoma, shall be considered a rural area for purposes of this subchapter until thereceipt of data from the decennial census in the year 2000”.
 
 1992—Pub. L. 102–550 inserted at end “Notwithstanding any other provision of this section, the city of Plainview, Texas, shall be considered a rural area for purposes of this subchapter.”
 

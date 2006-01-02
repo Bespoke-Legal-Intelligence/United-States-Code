@@ -58,7 +58,7 @@
 
 #### (B) Mission; improving capacities
 
-&emsp;&emsp;For the purposes of achieving the mission of the Centers for Disease Control and Prevention described in subsection (a)(1) of this section, for carrying out subsection (a)(3) of this section, for better conducting the capacities described in section 247d–1 of this title, and for supporting public health activities, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2006.
+&emsp;&emsp;For the purposes of achieving the mission of the Centers for Disease Control and Prevention described in subsection (a)(1) of this section, for carrying out subsection (a)(3) of this section, for better conducting the capacities described in section 247d–1 of thistitle, and for supporting public health activities, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2006.
 
 #### (2) National communications and surveillance networks
 

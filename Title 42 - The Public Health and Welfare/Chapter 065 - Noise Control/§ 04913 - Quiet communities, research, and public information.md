@@ -28,7 +28,7 @@ To promote the development of effective State and local noise control programs, 
 
 &emsp;&emsp;&emsp;(D) evaluating techniques for controlling noise (including institutional arrangements) and demonstrating the best available techniques in such jurisdiction;
 
-&emsp;&emsp;(2) purchase of monitoring and other equipment for loan to State and local noise control programs to meet special needs orassist in the beginning implementation of a noise control program or project;
+&emsp;&emsp;(2) purchase of monitoring and other equipment for loan to State and local noise control programs to meet special needs or assist in the beginning implementation of a noise control program or project;
 
 &emsp;&emsp;(3) development and implementation of a quality assurance program for equipment and monitoring procedures of State and local noise control programs to help communities assure that their data collection activities are accurate;
 
@@ -58,5 +58,5 @@ In subsec. (b)(2), “section 44715 of title 49” substituted for reference to 
 
 #### Amendments
 
-1978—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration of Quiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
+1978—Pub. L. 95–609 completely revised and restructured existing provisions, inserting provisions relating to authorized use of grants and direct action, investigation of economic impact of noise, administration ofQuiet Communities Program, development of noise assessment program, establishment of regional centers, technical assistance to State and local governments, and use by senior citizens of these programs.
 

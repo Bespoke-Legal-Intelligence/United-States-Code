@@ -1,14 +1,14 @@
 ### §12306. Standby Reserve
 
-(a) Units and members in the Standby Reserve may be ordered to active duty (other than for training) only as provided in section 12301 of this title.
+(a) Units and members in the Standby Reserve may be ordered to active duty only as provided in section 12301 of this title, but subject to the limitations in subsection (b).
 
 (b) In time of emergency—
 
-&emsp;(1) no unit in the Standby Reserve organized to serve as a unit or any member thereof maybe ordered to active duty (other than for training), unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough of the required kinds of units in the Ready Reserve that are readily available; and
+&emsp;(1) no unit in the Standby Reserve organized to serve as a unit or any member thereof may be ordered to active duty under section 12301(a) of this title, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough of the required kinds of units in the Ready Reserve that are readily available; and
 
-&emsp;(2) no other member in the Standby Reserve may be ordered to active duty (other than for training) as an individual without his consent, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough qualified members in the Ready Reserve in the required category who are readily available.
+&emsp;(2) notwithstanding section 12301(a) of this title, no other member in the Standby Reserve may be ordered to active duty as an individual under such section without his consent, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough qualified members in the Ready Reserve in the required category who are readily available.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 29, §674; Pub. L. 87–651, title I, §130, Sept. 7, 1962, 76 Stat. 514; renumbered §12306 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(4), Oct. 5, 1994, 108 Stat. 2992, 3017.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 29, §674; Pub. L. 87–651, title I, §130, Sept. 7, 1962, 76 Stat. 514; renumbered §12306 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(4), Oct. 5,1994, 108 Stat. 2992, 3017; Pub. L. 108–375, div. A, title V, §514(d), Oct. 28, 2004, 118 Stat. 1883.)
 
 Historical and Revision Notes<br>1956
 
@@ -40,6 +40,12 @@ The change is made to conform section 674(a) more closely to the source law for 
 
 #### Amendments
 
+2004—Subsec. (a). Pub. L. 108–375, §514(d)(1), substituted “active duty only as provided in section 12301 of this title, but subject to the limitations in subsection (b)” for “active duty (other than for training) only as provided in section 12301 of this title”.
+
+Subsec. (b)(1). Pub. L. 108–375, §514(d)(2)(A), substituted “under section 12301(a) of this title” for “(other than for training)”.
+
+Subsec. (b)(2). Pub. L. 108–375, §514(d)(2)(B), substituted “notwithstanding section 12301(a) of this title, no other member in the Standby Reserve may be ordered to active duty as an individual under such section without his consent” for “no other member in the Standby Reserve may be ordered to active duty (other than for training) as an individual without his consent”.
+
 1994—Pub. L. 103–337, §1662(e)(2), renumbered section 674 of this title as this section.
 
 Subsec. (a). Pub. L. 103–337, §1675(c)(4), substituted “12301” for “672”.
@@ -49,8 +55,4 @@ Subsec. (a). Pub. L. 103–337, §1675(c)(4), substituted “12301” for “672
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 10151 of this title; title 38 section 3011; title 50 App. section 593.
 

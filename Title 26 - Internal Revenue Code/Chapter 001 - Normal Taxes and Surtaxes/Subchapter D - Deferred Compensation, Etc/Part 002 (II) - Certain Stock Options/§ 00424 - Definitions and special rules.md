@@ -4,7 +4,7 @@
 
 For purposes of this part, the term “issuing or assuming a stock option in a transaction to which section 424(a) applies” means a substitution of a new option for the old option, or an assumption of the old option, by an employer corporation, or a parent or subsidiary of such corporation, by reason of a corporate merger, consolidation, acquisition of property or stock, separation, reorganization, or liquidation, if—
 
-&emsp;(1) the excess of the aggregate fair market value of the shares subject to the option immediately after the substitution or assumption over the aggregate option price of such shares is not more than the excess of the aggregate fair market value of all shares subject to the option immediately before such substitution or assumption over the aggregate option price of such shares, and
+&emsp;(1) the excess of the aggregate fair market value of the shares subject to the option immediately after the substitution or assumption over the aggregate option price of suchshares is not more than the excess of the aggregate fair market value of all shares subject to the option immediately before such substitution or assumption over the aggregate option price of such shares, and
 
 &emsp;(2) the new option or the assumption of the old option does not give the employee additional benefits which he did not have under the old option.
 
@@ -72,7 +72,7 @@ For purposes of this part, the term “subsidiary corporation” means any corpo
 
 #### (g) Special rule for applying subsections (e) and (f)
 
-In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall besubstituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
+In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsection (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies” as the case may be.
 
 #### (h) Modification, extension, or renewal of option
 
@@ -82,7 +82,7 @@ In applying subsections (e) and (f) for purposes of section <sup>1</sup> 422(a)
 
 #### (2) Special rule for section 423 options
 
-&emsp;In the case of the transfer of stock pursuant to the exercise of an option to which section 423 applies and which has been so modified, extended, or renewed, the fair market value of such stock at the time of the granting of the option shall be considered as whichever of the following is the highest—
+&emsp;In the case of the transfer of stock pursuant to the exercise of an option to which section423 applies and which has been so modified, extended, or renewed, the fair market value of such stock at the time of the granting of the option shall be considered as whichever of the following is the highest—
 
 &emsp;&emsp;(A) the fair market value of such stock on the date of the original granting of the option,
 
@@ -112,7 +112,7 @@ For purposes of this part, if the grant of an option is subject to approval by s
 
 #### Prior Provisions
 
-A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 69; amended Pub. L. 94–455, title VI, §603(c), title XIV, §1402(b)(1)(F), (2), Oct. 4, 1976, 90 Stat. 1574, 1732, related to restricted stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(21), Nov. 5, 1990, 104 Stat. 1388–521. For savings provisions, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 69; amended Pub. L. 94–455, title VI, §603(c), title XIV, §1402(b)(1)(F), (2), Oct. 4, 1976, 90 Stat. 1574, 1732, related to restricted stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(21), Nov. 5, 1990, 104 Stat. 1388–521. For savings provisions, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Amendments
 
@@ -156,7 +156,7 @@ Subsec. (h)(3)(B). Pub. L. 97–34, §251(b)(4), inserted reference to section 4
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1984 Amendment
 
-Section 555(c)(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1855(a)(4), Oct. 22, 1986, 100 Stat. 2882, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984.”
+Section 555(c)(3) of Pub. L. 98–369, as amended by Pub. L. 99–514, title XVIII, §1855(a)(4), Oct. 22, 1986, 100 Stat.2882, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to modifications of options after March 20, 1984.”
 
 #### Effective Date of 1983 Amendment
 
@@ -186,11 +186,7 @@ Section applicable to taxable years ending after Dec. 31, 1963, except in cases 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402, 421, 422, 423 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

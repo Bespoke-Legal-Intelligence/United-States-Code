@@ -28,7 +28,7 @@ If a determination (as defined in section 1313) is described in one or more of t
 
 #### (3) Existence of relationship
 
-&emsp;In case the amount of the adjustment would be assessed and collected in the same manner as a deficiency (except for cases described in section 1312(3)(B)), the adjustment shall not be made with respect to a related taxpayer unless he stands in such relationship to the taxpayer at the time the latter first maintains the inconsistent position in a return, claim for refund, or petition (or amended petition) to the Tax Court for the taxable year with respect to which the determination is made, or if such position is not so maintained, then at the time of the determination.
+&emsp;In case the amount of the adjustment would be assessed and collected in the same manner as a deficiency (except for cases described in section 1312(3)(B)), the adjustment shall not be made with respect to a related taxpayer unless he stands in such relationship to the taxpayer at the time the latter first maintains the inconsistent position in a return, claim for refund, or petition (or amended petition) to the Tax Court for the taxable year with respect towhich the determination is made, or if such position is not so maintained, then at the time of the determination.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 337; Pub. L. 94–455, title XIX, §§1901(a)(142), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1834.)
 
@@ -41,8 +41,4 @@ Subsec. (b)(3). Pub. L. 94–455, §1901(a)(142), struck out “of the United St
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1901(a)(142) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1312, 1314 of this title.
 

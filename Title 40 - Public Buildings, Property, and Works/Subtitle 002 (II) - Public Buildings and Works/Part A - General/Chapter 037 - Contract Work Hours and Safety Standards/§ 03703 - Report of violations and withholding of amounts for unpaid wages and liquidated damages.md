@@ -46,7 +46,7 @@ Review by secretary.—The Secretary shall review all pertinent facts in the mat
 
 &emsp;(4)
 
-Judicial action.—A contractor or subcontractor aggrieved by a final order for the withholding of liquidated damages may file a claim in the United States Court of FederalClaims within 60 days after the final order. A final order of the agency head, Mayor, or Secretary is conclusive with respect to findings of fact if supported by substantial evidence.
+Judicial action.—A contractor or subcontractor aggrieved by a final order for the withholding of liquidated damages may file a claim in the United States Court of Federal Claims within 60 days after the final order. A final order of the agency head, Mayor, or Secretary is conclusive with respect to findings of fact if supported by substantial evidence.
 
 (e)
 
@@ -102,5 +102,5 @@ In subsection (d)(4), the words “United States Court of Federal Claims” are 
 
 #### References in Text
 
-Reorganization Plan Numbered 14 of 1950, referred to in subsec. (e)(1), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 14 of 1950, referred to in subsec. (e)(1), is Reorg. Plan No. 14 of 1950, eff. May24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

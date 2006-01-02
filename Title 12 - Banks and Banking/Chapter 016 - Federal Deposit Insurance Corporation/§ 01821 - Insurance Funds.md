@@ -16,7 +16,7 @@ Net amount of insured deposit.—The net amount due to any depositor at an insur
 
 &emsp;(C)
 
-Aggregation of deposits.—For the purpose of determining the net amount due to any depositor under subparagraph (B), the Corporation shall aggregate the amounts of all deposits in the insured depository institution which are maintained by a depositor in the same capacity and the same right for the benefit of the depositor either in the name of the depositor or in the name of any other person, other than any amount in a trust fund described in paragraph (1) or (2) of section 1817(i) of this title or any funds described in section 1817(i)(3) of this title.
+Aggregation of deposits.—For the purpose of determining the net amount due to any depositor under subparagraph (B), the Corporation shall aggregate the amounts of all deposits in the insured depository institution which are maintained by a depositor in the same capacity and the same right for the benefit of the depositor either in the name of the depositor or in the name of any other person, other than any amount in a trust fund described in paragraph (1) or (2) of section 1817(i)of this title or any funds described in section 1817(i)(3) of this title.
 
 &emsp;(D)
 
@@ -32,7 +32,7 @@ Exception.—After the end of the 1-year period beginning on December 19, 1991, 
 
 &emsp;&emsp;(iii)
 
-Coverage under certain circumstances.—Clause (ii) shall not apply with respect to any deposit accepted by an insureddepository institution described in such clause if, at the time the deposit is accepted—
+Coverage under certain circumstances.—Clause (ii) shall not apply with respect to any deposit accepted by an insured depository institution described in such clause if, at the time the deposit is accepted—
 
 &emsp;&emsp;&emsp;(I) the institution meets each applicable capital standard; and
 
@@ -220,7 +220,7 @@ Availability of rtc funding.—At any time before the end of the 2-year period b
 
 &emsp;&emsp;&emsp;(I) utilizing staff counsel when such utilization would provide the same level of quality in legal services as the use of outside counsel at the same or a lower estimated cost; and
 
-&emsp;&emsp;&emsp;(II) employing outside counsel only if the use of outside counsel would provide the most practicable, efficient, and cost-effective resolution to the action and only under a negotiated fee, contingent fee, or competitively bid fee agreement.
+&emsp;&emsp;&emsp;(II) employing outside counsel only if the use of outside counsel would provide the most practicable, efficient, and cost-effective resolution to the action and onlyunder a negotiated fee, contingent fee, or competitively bid fee agreement.
 
 &emsp;(G)
 
@@ -240,7 +240,7 @@ In general.—The Corporation may borrow from the Federal home loan banks, with 
 
 &emsp;&emsp;(ii)
 
-Terms and conditions.—Any loan from any Federal home loan bank under clause (i)to the Savings Association Insurance Fund shall—
+Terms and conditions.—Any loan from any Federal home loan bank under clause (i) to the Savings Association Insurance Fund shall—
 
 &emsp;&emsp;&emsp;(I) bear a rate of interest of not less than such bank's current marginal cost of funds, taking into account the maturities involved;
 
@@ -324,7 +324,7 @@ Definitions.—For purposes of subparagraph (A)—
 
 &emsp;&emsp;(i)
 
-Benefit-responsive withdrawals or transfers.—The term “benefit-responsive withdrawals or transfers” means any withdrawal or transfer of funds (consisting of any portion of the principal and any interest credited at a rate guaranteed by the insured depository institution investment contract) during the period in which any guaranteed rate is in effect, without substantial penaltyor adjustment, to pay benefits provided by the employee benefit plan or to permit a plan participant or beneficiary to redirect the investment of his or her account balance.
+Benefit-responsive withdrawals or transfers.—The term “benefit-responsive withdrawals or transfers” means any withdrawal or transfer of funds (consisting of any portion of the principal and any interest credited at a rate guaranteed by the insured depository institution investment contract) during the period in which any guaranteed rate is in effect, without substantial penalty or adjustment, to pay benefits provided by the employee benefit plan or to permit a plan participant or beneficiary to redirect the investment of his or her account balance.
 
 &emsp;&emsp;(ii)
 
@@ -384,7 +384,7 @@ For the purposes of this chapter an insured depository institution shall be deem
 
 #### (D) Depository institution in conservatorship subject to banking agency supervision
 
-&emsp;&emsp;Notwithstanding subparagraph (C), any insured State depository institution for which the Corporation has been appointed conservator shall remain subject to the supervision of the appropriate State bank or savings association supervisor.
+&emsp;&emsp;Notwithstanding subparagraph (C), any insured State depository institution for whichthe Corporation has been appointed conservator shall remain subject to the supervision of the appropriate State bank or savings association supervisor.
 
 #### (4) Appointment of Corporation by the Corporation
 
@@ -500,7 +500,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (B) Receiver
 
-&emsp;&emsp;Whenever the Director of the Office of Thrift Supervision appoints a receiver under the provisions of subparagraph (A) or (C) of section 1464(d)(2) of this title for the purpose of liquidation or winding up any savings association's affairs—
+&emsp;&emsp;Whenever the Director of the Office of Thrift Supervision appoints a receiver underthe provisions of subparagraph (A) or (C) of section 1464(d)(2) of this title for the purpose of liquidation or winding up any savings association's affairs—
 
 &emsp;&emsp;&emsp;(i) before such date as is determined by the Chairperson of the Thrift Depositor Protection Oversight Board under section 1441a(b)(3)(A)(ii) of this title, the Resolution Trust Corporation shall be appointed;
 
@@ -568,7 +568,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;In any case in which the Corporation is appointed conservator or receiver under paragraph (4), (6), (9), or (10) for any insured State depository institution—
 
-&emsp;&emsp;(A) this section shall apply to the Corporation as conservator or receiver in the same manner and to the same extent as if that institution were a Federal depository institution for which the Corporation had been appointed conservator or receiver; and
+&emsp;&emsp;(A) this section shall apply to the Corporation as conservator or receiver in the samemanner and to the same extent as if that institution were a Federal depository institution for which the Corporation had been appointed conservator or receiver; and
 
 &emsp;&emsp;(B) the Corporation as receiver of the institution may—
 
@@ -658,7 +658,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (iii) Rule of construction
 
-&emsp;&emsp;&emsp;This subsection shall not be construed as limiting any rights that the Corporation,in any capacity, might otherwise have under section 1820(c) of this title.
+&emsp;&emsp;&emsp;This subsection shall not be construed as limiting any rights that the Corporation, in any capacity, might otherwise have under section 1820(c) of this title.
 
 #### (J) Incidental powers
 
@@ -726,7 +726,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against a depository institution is filed with the Corporation as receiver, the Corporation shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
+&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against adepository institution is filed with the Corporation as receiver, the Corporation shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
 
 #### (ii) Extension of time
 
@@ -1066,7 +1066,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation may enter into contracts with any State housing finance authority for the sale of mortgage-related assets (as such terms are defined in section 1441a–1 of this title) of any depository institution in default (including assets and liabilities associated with any trust business), such contracts to be effective in accordance with their terms without any further approval, assignment, or consent with respect thereto.
+&emsp;&emsp;The Corporation may enter into contracts with any State housing finance authority forthe sale of mortgage-related assets (as such terms are defined in section 1441a–1 of this title) of any depository institution in default (including assets and liabilities associated with any trust business), such contracts to be effective in accordance with their terms without any further approval, assignment, or consent with respect thereto.
 
 #### (B) Factors to consider
 
@@ -1134,13 +1134,13 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (20) Treatment of claims arising from breach of contracts executed by the receiver or conservator
 
-&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against a receiver or conservator for an insured depository institution for the breach of an agreement executed or approved by such receiver or conservator after the date of its appointment shall be paid as an administrative expense of the receiver or conservator. Nothing in this paragraph shall be construed to limit the power of a receiver or conservator to exercise any rights under contract or law, including to terminate, breach, cancel, or otherwise discontinue such agreement.
+&emsp;Notwithstanding any other provision of this subsection, any final and unappealable judgment for monetary damages entered against a receiver or conservator for an insured depository institution for the breach of an agreement executed or approved by such receiver or conservator after the date of its appointment shall be paid as an administrative expense ofthe receiver or conservator. Nothing in this paragraph shall be construed to limit the power of a receiver or conservator to exercise any rights under contract or law, including to terminate, breach, cancel, or otherwise discontinue such agreement.
 
 #### (e) Provisions relating to contracts entered into before appointment of conservator or receiver
 
 #### (1) Authority to repudiate contracts
 
-&emsp;In addition to any other rights a conservator or receiver may have, the conservator or receiver for any insured depository institutionmay disaffirm or repudiate any contract or lease—
+&emsp;In addition to any other rights a conservator or receiver may have, the conservator or receiver for any insured depository institution may disaffirm or repudiate any contract or lease—
 
 &emsp;&emsp;(A) to which such institution is a party;
 
@@ -1224,7 +1224,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;&emsp;(I) shall continue to pay the contractual rent pursuant to the terms of the lease after the date of the repudiation of such lease;
 
-&emsp;&emsp;&emsp;&emsp;(II) may offset against any rent payment which accrues after the date of the repudiation of the lease, any damages which accrue after such date due to the nonperformance of any obligation of the insured depository institution under the lease after such date; and
+&emsp;&emsp;&emsp;&emsp;(II) may offset against any rent payment which accrues after the date of the repudiation of the lease, any damages which accrue after such date due to thenonperformance of any obligation of the insured depository institution under the lease after such date; and
 
 &emsp;&emsp;&emsp;(ii) the conservator or receiver shall not be liable to the lessee for any damages arising after such date as a result of the repudiation other than the amount of any offset allowed under clause (i)(II).
 
@@ -1232,7 +1232,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (A) In general
 
-&emsp;&emsp;If the conservator or receiver repudiates any contract (which meets the requirements of each paragraph of section 1823(e) of this title) for the sale of real property and thepurchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
+&emsp;&emsp;If the conservator or receiver repudiates any contract (which meets the requirements of each paragraph of section 1823(e) of this title) for the sale of real property and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
 
 &emsp;&emsp;&emsp;(i) treat the contract as terminated by such repudiation; or
 
@@ -1292,23 +1292,23 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (A) Rights of parties to contracts
 
-&emsp;&emsp;Subject to paragraph (10) of this subsection and notwithstanding any other provision of this chapter (other than subsection (d)(9) of this section and section 1823(e) of this title), any other Federal law, or the law of any State, no person shall be stayed or prohibited from exercising—
+&emsp;&emsp;Subject to paragraphs (9) and (10) of this subsection and notwithstanding any other provision of this chapter (other than subsection (d)(9) of this section and section 1823(e) of this title), any other Federal law, or the law of any State, no person shall be stayed or prohibited from exercising—
 
-&emsp;&emsp;&emsp;(i) any right to cause the termination or liquidation of any qualified financial contract with an insured depository institution which arises upon the appointment of the Corporation as receiver for such institution at any time after such appointment;
+&emsp;&emsp;&emsp;(i) any right such person has to cause the termination, liquidation, or acceleration of any qualified financial contract with an insured depository institution which arises upon the appointment of the Corporation as receiver for such institution at any time after such appointment;
 
-&emsp;&emsp;&emsp;(ii) any right under any security arrangement relating to any contract or agreement described in clause (i); or
+&emsp;&emsp;&emsp;(ii) any right under any security agreement or arrangement or other credit enhancement related to one or more qualified financial contracts described in clause (i); <sup>5</sup>
 
 &emsp;&emsp;&emsp;(iii) any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
 
 #### (B) Applicability of other provisions
 
-&emsp;&emsp;Subsection (d)(12) of this section shall apply in the case of any judicial action or proceeding brought against any receiver referred to in subparagraph (A), or the insured depository institution for which such receiver was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such institution.
+&emsp;&emsp;Subsection (d)(12) of this section shall apply in the case of any judicial action orproceeding brought against any receiver referred to in subparagraph (A), or the insured depository institution for which such receiver was appointed, by any party to a contract or agreement described in subparagraph (A)(i) with such institution.
 
 #### (C) Certain transfers not avoidable
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (11), the Corporation, whether acting as such or as conservator or receiver of an insured depository institution, may not avoid any transfer of money or other property in connection with any qualified financial contract with an insured depository institution.
+&emsp;&emsp;&emsp;Notwithstanding paragraph (11), section 91 of this title or any other Federal or State law relating to the avoidance of preferential or fraudulent transfers, the Corporation, whether acting as such or as conservator or receiver of an insured depository institution, may not avoid any transfer of money or other property in connection with any qualified financial contract with an insured depository institution.
 
 #### (ii) Exception for certain transfers
 
@@ -1316,81 +1316,175 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (D) Certain contracts and agreements defined
 
-&emsp;&emsp;For purposes of this subsection—
+&emsp;&emsp;For purposes of this subsection, the following definitions shall apply:
 
 #### (i) Qualified financial contract
 
-&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Corporation determines by regulation to be a qualified financial contract for purposes of this paragraph.
+&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Corporation determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
 
 #### (ii) Securities contract
 
 &emsp;&emsp;&emsp;The term “securities contract”—
 
-&emsp;&emsp;&emsp;&emsp;(I) has the meaning given to such term in section 741 of title 11, except that the term “security” (as used in such section) shall be deemed to include any mortgage loan, any mortgage-related security (as defined in section 78c(a)(41) of title 15), and any interest in any mortgage loan or mortgage-related security; and
+&emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
 
-&emsp;&emsp;&emsp;&emsp;(II) does not include any participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such participation within the meaning of such term.
+&emsp;&emsp;&emsp;&emsp;(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
+
+&emsp;&emsp;&emsp;&emsp;(III) means any option entered into on a national securities exchange relating to foreign currencies;
+
+&emsp;&emsp;&emsp;&emsp;(IV) means the guarantee by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+
+&emsp;&emsp;&emsp;&emsp;(V) means any margin loan;
+
+&emsp;&emsp;&emsp;&emsp;(VI) means any other agreement or transaction that is similar to any agreement or transaction referred to in this clause;
+
+&emsp;&emsp;&emsp;&emsp;(VII) means any combination of the agreements or transactions referred to in this clause;
+
+&emsp;&emsp;&emsp;&emsp;(VIII) means any option to enter into any agreement or transaction referred to in this clause;
+
+&emsp;&emsp;&emsp;&emsp;(IX) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and
+
+&emsp;&emsp;&emsp;&emsp;(X) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
 
 #### (iii) Commodity contract
 
-&emsp;&emsp;&emsp;The term “commodity contract” has the meaning given to such term in section 761 of title 11.
+&emsp;&emsp;&emsp;The term “commodity contract” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to a futures commission merchant, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
+
+&emsp;&emsp;&emsp;&emsp;(II) with respect to a foreign futures commission merchant, a foreign future;
+
+&emsp;&emsp;&emsp;&emsp;(III) with respect to a leverage transaction merchant, a leverage transaction;
+
+&emsp;&emsp;&emsp;&emsp;(IV) with respect to a clearing organization, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or boardof trade that is cleared by such clearing organization;
+
+&emsp;&emsp;&emsp;&emsp;(V) with respect to a commodity options dealer, a commodity option;
+
+&emsp;&emsp;&emsp;&emsp;(VI) any other agreement or transaction that is similar to any agreement or transaction referred to in this clause;
+
+&emsp;&emsp;&emsp;&emsp;(VII) any combination of the agreements or transactions referred to in this clause;
+
+&emsp;&emsp;&emsp;&emsp;(VIII) any option to enter into any agreement or transaction referred to in this clause;
+
+&emsp;&emsp;&emsp;&emsp;(IX) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this clause, except that the master agreement shall be considered to be a commodity contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), (IV), (V), (VI), (VII), or (VIII); or
+
+&emsp;&emsp;&emsp;&emsp;(X) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
 
 #### (iv) Forward contract
 
-&emsp;&emsp;&emsp;The term “forward contract” has the meaning given to such term in section 101 of title 11.
+&emsp;&emsp;&emsp;The term “forward contract” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than 2 days after the date the contract is entered into, including,<sup>6</sup> a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+
+&emsp;&emsp;&emsp;&emsp;(II) any combination of agreements or transactions referred to in subclauses (I) and (III);
+
+&emsp;&emsp;&emsp;&emsp;(III) any option to enter into any agreement or transaction referred to in subclause (I) or (II);
+
+&emsp;&emsp;&emsp;&emsp;(IV) a master agreement that provides for an agreement or transaction referred to in subclauses (I), (II), or (III), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a forward contract under this clause, except that the master agreement shall be considered to be a forward contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), or (III); or
+
+&emsp;&emsp;&emsp;&emsp;(V) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (II), (III), or (IV), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
 #### (v) Repurchase agreement
 
-&emsp;&emsp;&emsp;The term “repurchase agreement”—
+&emsp;&emsp;&emsp;The term “repurchase agreement” (which definition also applies to a reverse repurchase agreement)—
 
-&emsp;&emsp;&emsp;&emsp;(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15), any mortgage loan, and any interest in any mortgage loan; and
+&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\]), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
 
-&emsp;&emsp;&emsp;&emsp;(II) does not include any participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such participation within the meaning of such term.
+&emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such participation within the meaning of such term;
+
+&emsp;&emsp;&emsp;&emsp;(III) means any combination of agreements or transactions referred to in subclauses (I) and (IV);
+
+&emsp;&emsp;&emsp;&emsp;(IV) means any option to enter into any agreement or transaction referred to in subclause (I) or (III);
+
+&emsp;&emsp;&emsp;&emsp;(V) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), or (IV); and
+
+&emsp;&emsp;&emsp;&emsp;(VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
+
+&emsp;&emsp;&nbsp;For purposes of this clause, the term “qualified foreign government security” means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development (as determined by regulation or order adopted by the appropriate Federal banking authority).
 
 #### (vi) Swap agreement
 
-&emsp;&emsp;&emsp;The term “swap agreement”—
+&emsp;&emsp;&emsp;The term “swap agreement” means—
 
-&emsp;&emsp;&emsp;&emsp;(I) means any agreement, including the terms and conditions incorporated by reference in any such agreement, which is a rate swap agreement, basis swap, commodity swap, forward rate agreement, interest rate future, interest rate option purchased, forward foreign exchange agreement, rate cap agreement, rate floor agreement, rate collar agreement, currency swap agreement, cross-currency rate swap agreement, currency future, or currency option purchased or any other similar agreement, and
+&emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; or a weather swap, weather derivative, or weather option;
 
-&emsp;&emsp;&emsp;&emsp;(II) includes any combination of such agreements and any option to enter into any such agreement.
+&emsp;&emsp;&emsp;&emsp;(II) any agreement or transaction that is similar to any other agreement or transaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, or option on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
 
-#### (vii) Treatment of master agreement as 1 swap agreement
+&emsp;&emsp;&emsp;&emsp;(III) any combination of agreements or transactions referred to in this clause;
 
-&emsp;&emsp;&emsp;Any master agreement for any agreements described in clause (vi)(I) together with all supplements to such master agreement shall be treated as 1 swap agreement.
+&emsp;&emsp;&emsp;&emsp;(IV) any option to enter into any agreement or transaction referred to in this clause;
+
+&emsp;&emsp;&emsp;&emsp;(V) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
+
+&emsp;&emsp;&emsp;&emsp;(VI) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in subclause (I), (II), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
+
+&emsp;&emsp;&nbsp;Such term is applicable for purposes of this subsection only and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any swap agreement under any other statute, regulation, or rule, including the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939 \[15 U.S.C. 77aaa et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], the Securities Investor Protection Act of 1970 \[15 U.S.C. 78aaa et seq.\], the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000 \[7 U.S.C. 27 to 27f\].
+
+#### (vii) Treatment of master agreement as one agreement
+
+&emsp;&emsp;&emsp;Any master agreement for any contract or agreement described in any preceding clause of this subparagraph (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contract. If a master agreement contains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the master agreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
 
 #### (viii) Transfer
 
-&emsp;&emsp;&emsp;The term “transfer” has the meaning given to such term in section 101 of title 11.
+&emsp;&emsp;&emsp;The term “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the depository institution's equity of redemption.
 
 #### (E) Certain protections in event of appointment of conservator
 
-&emsp;&emsp;Notwithstanding any other provision of this chapter (other than paragraph (12) of this subsection, subsection (d)(9) of this section, and section 1823(e) of this title), any other Federal law, or the law of any State, no person shall be stayed or prohibited from exercising—
+&emsp;&emsp;Notwithstanding any other provision of this chapter (other than subsections (d)(9) and (e)(10) of this section, and section 1823(e) of this title), any other Federal law, or the law of any State, no person shall be stayed or prohibited from exercising—
 
 &emsp;&emsp;&emsp;(i) any right such person has to cause the termination, liquidation, or acceleration of any qualified financial contract with a depository institution in a conservatorship based upon a default under such financial contract which is enforceable under applicable noninsolvency law;
 
-&emsp;&emsp;&emsp;(ii) any right under any security arrangement relating to such qualified financial contracts; or
+&emsp;&emsp;&emsp;(ii) any right under any security agreement or arrangement or other credit enhancement related to one or more qualified financial contracts described in clause (i); <sup>7</sup>
 
 &emsp;&emsp;&emsp;(iii) any right to offset or net out any termination values, payment amounts, or other transfer obligations arising under or in connection with such qualified financial contracts.
 
+#### (F) Clarification
+
+&emsp;&emsp;No provision of law shall be construed as limiting the right or power of the Corporation, or authorizing any court or agency to limit or delay, in any manner, the right or power of the Corporation to transfer any qualified financial contract in accordance with paragraphs (9) and (10) of this subsection or to disaffirm or repudiate any such contract in accordance with subsection (e)(1) of this section.
+
+#### (G) Walkaway clauses not effective
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding the provisions of subparagraphs (A) and (E), and sections 4403 and 4404 of this title, no walkaway clause shall be enforceable in a qualified financial contract of an insured depository institution in default.
+
+#### (ii) Walkaway clause defined
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “walkaway clause” means a provision in a qualified financial contract that, after calculation of a value of a party's position or an amount due to or from 1 of the parties in accordance with its terms upon termination, liquidation, or acceleration of the qualified financial contract, either does not create a payment obligation of a party or extinguishes a payment obligation of a party in whole or in part solely because of such party's status as a nondefaulting party.
+
+#### (H) Recordkeeping requirements
+
+&emsp;&emsp;The Corporation, in consultation with the appropriate Federal banking agencies, may prescribe regulations requiring more detailed recordkeeping by any insured depository institution with respect to qualified financial contracts (including market valuations) only if such insured depository institution is in a troubled condition (as such term is defined by the Corporation pursuant to section 1831i of this title).
+
 #### (9) Transfer of qualified financial contracts
 
-&emsp;In making any transfer of assets or liabilities of a depository institution in default which includes any qualified financial contract, the conservator or receiver for such depository institution shall either—
+#### (A) In general
 
-&emsp;&emsp;(A) transfer to 1 depository institution (other than a depository institution in default)—
+&emsp;&emsp;In making any transfer of assets or liabilities of a depository institution in default which includes any qualified financial contract, the conservator or receiver for such depository institution shall either—
 
-&emsp;&emsp;&emsp;(i) all qualified financial contracts between—
+&emsp;&emsp;&emsp;(i) transfer to one financial institution, other than a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding—
 
-&emsp;&emsp;&emsp;&emsp;(I) any person or any affiliate of such person; and
+&emsp;&emsp;&emsp;&emsp;(I) all qualified financial contracts between any person or any affiliate of such person and the depository institution in default;
 
-&emsp;&emsp;&emsp;&emsp;(II) the depository institution in default;
+&emsp;&emsp;&emsp;&emsp;(II) all claims of such person or any affiliate of such person against such depository institution under any such contract (other than any claim which, under the terms of any such contract, is subordinated to the claims of general unsecured creditors of such institution);
 
-&emsp;&emsp;&emsp;(ii) all claims of such person or any affiliate of such person against such depository institution under any such contract (other than any claim which, under the terms of any such contract, is subordinated to theclaims of general unsecured creditors of such institution);
+&emsp;&emsp;&emsp;&emsp;(III) all claims of such depository institution against such person or any affiliate of such person under any such contract; and
 
-&emsp;&emsp;&emsp;(iii) all claims of such depository institution against such person or any affiliate of such person under any such contract; and
+&emsp;&emsp;&emsp;&emsp;(IV) all property securing or any other credit enhancement for any contract described in subclause (I) or any claim described in subclause (II) or (III) under any such contract; or
 
-&emsp;&emsp;&emsp;(iv) all property securing any claim described in clause (ii) or (iii) under any such contract; or
+&emsp;&emsp;&emsp;(ii) transfer none of the qualified financial contracts, claims, property or other credit enhancement referred to in clause (i) (with respect to such person and any affiliate of such person).
 
-&emsp;&emsp;(B) transfer none of the financial contracts, claims, or property referred to in subparagraph (A) (with respect to such person and any affiliate of such person).
+#### (B) Transfer to foreign bank, foreign financial institution, or branch or agency of a foreign bank or financial institution
+
+&emsp;&emsp;In transferring any qualified financial contracts and related claims and property under subparagraph (A)(i), the conservator or receiver for the depository institution shall not make such transfer to a foreign bank, financial institution organized under the laws of a foreign country, or a branch or agency of a foreign bank or financial institution unless, under the law applicable to such bank, financial institution, branch or agency, to the qualified financial contracts, and to any netting contract, any security agreement or arrangement or other credit enhancement related to one or more qualified financial contracts, the contractual rights of the parties to such qualified financial contracts, netting contracts, security agreements or arrangements, or other credit enhancements are enforceable substantially to the same extent as permitted under this section.
+
+#### (C) Transfer of contracts subject to the rules of a clearing organization
+
+&emsp;&emsp;In the event that a conservator or receiver transfers any qualified financial contract and related claims, property, and credit enhancements pursuant to subparagraph (A)(i) and such contract is cleared by or subject to the rules of a clearing organization, the clearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
+
+#### (D) Definitions
+
+&emsp;&emsp;For purposes of this paragraph, the term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, or any other institution, as determined by the Corporation by regulation to be a financial institution, and the term “clearing organization” has the same meaning as in section 4402 of this title.
 
 #### (10) Notification of transfer
 
@@ -1402,27 +1496,69 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;&emsp;(ii) the transfer includes any qualified financial contract,
 
-> &emsp;&emsp;the conservator or receiver shall use such conservator's or receiver's best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time) on the business day following such transfer.
+> &emsp;&emsp;the conservator or receiver shall notify any person who is a party to any such contract of such transfer by 5:00 p.m. (eastern time) on the business day following the date of the appointment of the receiver in the case of a receivership, or the business day following such transfer in the case of a conservatorship.
 
-#### (B) “Business day” defined
+#### (B) Certain rights not enforceable
+
+#### (i) Receivership
+
+&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured depository institution may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(A) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a receiver for the depository institution (or the insolvency or financial condition of the depository institution for which the receiver has been appointed)—
+
+&emsp;&emsp;&emsp;&emsp;(I) until 5:00 p.m. (eastern time) on the business day following the date of the appointment of the receiver; or
+
+&emsp;&emsp;&emsp;&emsp;(II) after the person has received notice that the contract has been transferred pursuant to paragraph (9)(A).
+
+#### (ii) Conservatorship
+
+&emsp;&emsp;&emsp;A person who is a party to a qualified financial contract with an insured depository institution may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a conservator for the depository institution (or the insolvency or financial condition of the depository institution for which the conservator has been appointed).
+
+#### (iii) Notice
+
+&emsp;&emsp;&emsp;For purposes of this paragraph, the Corporation as receiver or conservator of an insured depository institution shall be deemed to have notified a person who is a party to a qualified financial contract with such depository institution if the Corporation has taken steps reasonably calculated to provide notice to such person by the time specified in subparagraph (A).
+
+#### (C) Treatment of bridge banks
+
+&emsp;&emsp;The following institutions shall not be considered to be a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding for purposes of paragraph (9):
+
+&emsp;&emsp;&emsp;(i) A bridge bank.
+
+&emsp;&emsp;&emsp;(ii) A depository institution organized by the Corporation, for which a conservator is appointed either—
+
+&emsp;&emsp;&emsp;&emsp;(I) immediately upon the organization of the institution; or
+
+&emsp;&emsp;&emsp;&emsp;(II) at the time of a purchase and assumption transaction between the depository institution and the Corporation as receiver for a depository institution in default.
+
+#### (D) “Business day” defined
 
 &emsp;&emsp;For purposes of this paragraph, the term “business day” means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
 
-#### (11) Certain security interests not avoidable
+#### (11) Disaffirmance or repudiation of qualified financial contracts
+
+&emsp;In exercising the rights of disaffirmance or repudiation of a conservator or receiver with respect to any qualified financial contract to which an insured depository institution is a party, the conservator or receiver for such institution shall either—
+
+&emsp;&emsp;(A) disaffirm or repudiate all qualified financial contracts between—
+
+&emsp;&emsp;&emsp;(i) any person or any affiliate of such person; and
+
+&emsp;&emsp;&emsp;(ii) the depository institution in default; or
+
+&emsp;&emsp;(B) disaffirm or repudiate none of the qualified financial contracts referred to in subparagraph (A) (with respect to such person or any affiliate of such person).
+
+#### (12) Certain security interests not avoidable
 
 &emsp;No provision of this subsection shall be construed as permitting the avoidance of any legally enforceable or perfected security interest in any of the assets of any depository institution except where such an interest is taken in contemplation of the institution's insolvency or with the intent to hinder, delay, or defraud the institution or the creditors of such institution.
 
-#### (12) Authority to enforce contracts
+#### (13) Authority to enforce contracts
 
 #### (A) In general
 
-&emsp;&emsp;The conservator or receiver may enforce any contract, other than a director's or officer's liability insurance contract or a depository institution bond, entered into by the depository institution notwithstanding any provision of the contract providing for termination, default, acceleration, or exercise of rights upon, or solely by reason of, insolvency or the appointment of a conservator or receiver.
+&emsp;&emsp;The conservator or receiver may enforce any contract, other than a director's or officer's liability insurance contract or a depository institution bond, entered into by the depository institution notwithstanding any provision of the contract providing for termination, default, acceleration, or exercise of rights upon, or solely by reason of, insolvency or the appointment of or the exercise of rights or powers by a conservator or receiver.
 
 #### (B) Certain rights not affected
 
 &emsp;&emsp;No provision of this paragraph may be construed as impairing or affecting any right of the conservator or receiver to enforce or recover under a director's or officer's liability insurance contract or depository institution bond under other applicable law.
 
-#### (13) Exception for Federal Reserve and Federal home loan banks
+#### (14) Exception for Federal Reserve and Federal home loan banks
 
 &emsp;No provision of this subsection shall apply with respect to—
 
@@ -1430,7 +1566,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;(B) any security interest in the assets of the institution securing any such extension of credit.
 
-#### (14) Selling credit card accounts receivable
+#### (15) Selling credit card accounts receivable
 
 #### (A) Notification required
 
@@ -1472,7 +1608,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 &emsp;&emsp;This paragraph does not limit any other authority of the Corporation to waive the Corporation's right to repudiate an agreement or lease under this section.
 
-#### (15) Certain credit card customer lists protected
+#### (16) Certain credit card customer lists protected
 
 #### (A) In general
 
@@ -1481,6 +1617,10 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 #### (B) Fraudulent transactions excluded
 
 &emsp;&emsp;Subparagraph (A) does not limit the Corporation's authority to repudiate any agreement entered into with the intent to hinder, delay, or defraud the institution, the institution's creditors, or the Corporation.
+
+#### (17) Savings clause
+
+&emsp;The meanings of terms used in this subsection are applicable for purposes of this subsection only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000 \[7 U.S.C. 27 to 27f\], the securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\]), and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (f) Payment of insured deposits
 
@@ -1558,7 +1698,7 @@ Money laundering offense.—The Attorney General notifies the appropriate Federa
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of Federal law or the law of any State and regardless of the method which the Corporation determines to utilize with respect to an insured depository institution in default or in danger of default, including transactions authorized under subsection (n) of this section and section 1823(c) of this title, this subsection shall govern the rights of the creditors (other than insured depositors) of such institution.
+&emsp;Notwithstanding any other provision of Federal law or the law of any State and regardlessof the method which the Corporation determines to utilize with respect to an insured depository institution in default or in danger of default, including transactions authorized under subsection (n) of this section and section 1823(c) of this title, this subsection shall govern the rights of the creditors (other than insured depositors) of such institution.
 
 #### (2) Maximum liability
 
@@ -1592,7 +1732,7 @@ A director or officer of an insured depository institution may be held personall
 
 &emsp;(3) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by an insured depository institution or its affiliate in connection with assistance provided under section 1823 of this title,
 
-> for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence) including intentional tortious conduct, as such terms are defined and determined under applicable State law. Nothing in this paragraph shallimpair or affect any right of the Corporation under other applicable law.
+> for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence) including intentional tortious conduct, as such terms are defined and determined under applicable State law. Nothing in this paragraph shall impair or affect any right of the Corporation under other applicable law.
 
 #### (<i>l</i>) Damages
 
@@ -1622,7 +1762,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (6) New deposits
 
-&emsp;The new bank may, with the approval of the Corporation, accept new deposits which shall be subject to withdrawal on demand and which, except where the new bank is the only bank in the community, shall not exceed $100,000 from any depositor.
+&emsp;The new bank may, with the approval of the Corporation, accept new deposits which shallbe subject to withdrawal on demand and which, except where the new bank is the only bank in the community, shall not exceed $100,000 from any depositor.
 
 #### (7) Insured status
 
@@ -1662,7 +1802,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (15) Issuance of stock
 
-&emsp;(A) Whenever in the judgment of the Board of Directors it is desirable to do so, the Corporation shall cause capital stock of the new bank to be offered for sale on such terms and conditions as the Board of Directors shall deem advisable in an amount sufficient, in the opinion of the Board of Directors, to make possible the conduct of the business of the new bank on a sound basis, but in no event lessthan that required by section 51 <sup>5</sup> of this title for the organization of a national bank in the place where such new bank is located.
+&emsp;(A) Whenever in the judgment of the Board of Directors it is desirable to do so, the Corporation shall cause capital stock of the new bank to be offered for sale on such terms and conditions as the Board of Directors shall deem advisable in an amount sufficient, in the opinion of the Board of Directors, to make possible the conduct of the business of the new bank on a sound basis, but in no event less than that required by section 51 <sup>8</sup> of this title for the organization of a national bank in the place where such new bank is located.
 
 &emsp;(B) The stockholders of the insured bank in default shall be given the first opportunity to purchase any shares of common stock so offered.
 
@@ -1676,7 +1816,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (18) Winding up
 
-&emsp;Unless the capital stock of the new bank is sold or its assets are taken over and its liabilities are assumed by an insured depository institution as above provided within 2 years after the date of its organization, the Corporation shall wind up the affairs of such bank, after giving such notice, if any, as the Comptroller of the Currency may require, and shall certify to the Comptroller of the Currency the termination of the new bank. Thereafter the Corporation shall be liable for the obligations of such bank and shall be the owner of its assets.
+&emsp;Unless the capital stock of the new bank is sold or its assets are taken over and its liabilities are assumed by an insured depository institution as above provided within 2 yearsafter the date of its organization, the Corporation shall wind up the affairs of such bank, after giving such notice, if any, as the Comptroller of the Currency may require, and shall certify to the Comptroller of the Currency the termination of the new bank. Thereafter the Corporation shall be liable for the obligations of such bank and shall be the owner of its assets.
 
 #### (19) Applicability of certain laws
 
@@ -1752,7 +1892,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (ii) Subsequent transfers
 
-&emsp;&emsp;&emsp;At any time after a charter is granted to a bridge bank, the Corporation, as receiver, or any other receiver appointed with respect to an insured bank in default may transfer any assets and liabilities of such insured bank in default as the Corporation may, in its discretion, determine to be appropriate in accordance with paragraph (1).
+&emsp;&emsp;&emsp;At any time after a charter is granted to a bridge bank, the Corporation, as receiver, or any other receiver appointed with respect to an insured bank in default may transfer any assets and liabilities ofsuch insured bank in default as the Corporation may, in its discretion, determine to be appropriate in accordance with paragraph (1).
 
 #### (iii) Treatment of trust business
 
@@ -1784,7 +1924,7 @@ In any proceeding related to any claim against an insured depository institution
 
 &emsp;&emsp;(B) the Corporation may indemnify the representatives for purposes of paragraph (1)(B) and the interim directors, directors, officers, employees, and agents of a bridge bank on such terms as the Corporation determines to be appropriate;
 
-&emsp;&emsp;(C) no requirement under section 51 <sup>6</sup> of this title or any other provision of law relating to the capital of a national bank shall apply with respect to a bridge bank;
+&emsp;&emsp;(C) no requirement under section 51 <sup>9</sup> of this title or any other provision of law relating to the capital of a national bank shall apply with respect to a bridge bank;
 
 &emsp;&emsp;(D) the Comptroller of the Currency may establish a limitation on the extent to which any person may become indebted to a bridge bank without regard to the amount of the bridge bank's capital or surplus;
 
@@ -1852,7 +1992,7 @@ In any proceeding related to any claim against an insured depository institution
 
 #### (A) In general
 
-&emsp;&emsp;The responsible agency shall notify the Attorney General of any transaction involving the merger or sale of a bridge bank requiring approval under section 1828(c) of this title and if a report on competitive factors is requested within 10 days, such transaction may not be consummated before the 5th calendar day after the date of approval by the responsible agency with respect thereto. If the responsible agency has found that it must act immediately to prevent the probable failure of 1 of the banks involved, thepreceding sentence does not apply and the transaction may be consummated immediately upon approval by the agency.
+&emsp;&emsp;The responsible agency shall notify the Attorney General of any transaction involving the merger or sale of a bridge bank requiring approval under section 1828(c) of this title and if a report on competitive factors is requested within 10 days, such transaction may not be consummated before the 5th calendar day after the date of approval by the responsible agency with respect thereto. If the responsible agency has found that it must act immediately to prevent the probable failure of 1 of the banks involved, the preceding sentence does not apply and the transaction may be consummated immediately upon approval by the agency.
 
 #### (B) By out-of-State holding company
 
@@ -1872,7 +2012,7 @@ In any proceeding related to any claim against an insured depository institution
 
 &emsp;&emsp;(C) the sale of 80 percent, or more, of the capital stock of the bridge bank to an entity other than the Corporation and other than another bridge bank;
 
-&emsp;&emsp;(D) at the election of the Corporation, either the assumption of all or substantially all of the deposits and other liabilities of the bridge bank by a depository institution holding company or a depository institution that is not a bridge bank, or the acquisition of all or substantially all of the assets of the bridge bank by a depository institution holding company, a depository institution that is not a bridge bank, or other entity as permitted under applicable law; and
+&emsp;&emsp;(D) at the election of the Corporation, either the assumption of all or substantially all of the deposits and other liabilities of the bridge bank by a depository institution holding company or a depository institution that is not a bridge bank, or the acquisition of all or substantially all of the assets of thebridge bank by a depository institution holding company, a depository institution that is not a bridge bank, or other entity as permitted under applicable law; and
 
 &emsp;&emsp;(E) the expiration of the period provided in paragraph (9), or the earlier dissolution of the bridge bank as provided in paragraph (12).
 
@@ -1948,7 +2088,7 @@ In addition to the requirements of section 1817(a)(2) of this title to provide t
 
 &emsp;Except as provided in paragraph (3), any person who—
 
-&emsp;&emsp;(A) has been convicted of an offense under section 215, 656, 657, 1005, 1006, 1007, 1008,<sup>7</sup> 1014, 1032, 1341, 1343, or 1344 of title 18 or of conspiring to commit such an offense, affecting any insured depository institution for which any conservator or receiver has been appointed; and
+&emsp;&emsp;(A) has been convicted of an offense under section 215, 656, 657, 1005, 1006, 1007, 1008,<sup>10</sup> 1014, 1032, 1341, 1343, or 1344 of title 18 or of conspiring to commit such an offense, affecting any insured depository institution for which any conservator or receiver has been appointed; and
 
 &emsp;&emsp;(B) is in default on any loan or other extension of credit from such insured depository institution which, if not paid, will cause substantial loss to the institution, any deposit insurance fund, the Corporation, the FSLIC Resolution Fund, or the Resolution Trust Corporation,
 
@@ -1974,7 +2114,7 @@ In addition to the requirements of section 1817(a)(2) of this title to provide t
 
 #### (2) Scheduling
 
-&emsp;Consistent with section 1657 of title 18,<sup>8</sup> a court of the United States shall expedite theconsideration of any case brought by the Corporation against an insured depository institution's director, officer, employee, agent, attorney, accountant, or appraiser or any other person employed by or providing services to an insured depository institution. As far as practicable the court shall give such case priority on its docket.
+&emsp;Consistent with section 1657 of title 18,<sup>11</sup> a court of the United States shall expedite the consideration of any case brought by the Corporation against an insured depository institution's director, officer, employee, agent, attorney, accountant, or appraiser or any other person employed by or providing services to an insured depository institution. As far as practicable the court shall give such case priority on its docket.
 
 #### (3) Judicial discretion
 
@@ -2058,7 +2198,7 @@ The Corporation may not enter into any agreement or approve any protective order
 
 #### (v) Preference for sales for homeless families
 
-Subject to subsection (u) of this section, in selling any real property (other than eligible residential property and eligible condominium property, as such terms are defined in section 1831q(p) of this title) to which the Corporation acquires title, the Corporation shall give preference among offers to purchase the property that will result in the same net present value proceeds, to any offer that would provide for the property to be used, during the remaining usefullife of the property, to provide housing or shelter for homeless persons (as such term is defined in section 11302 of title 42) or homeless families.
+Subject to subsection (u) of this section, in selling any real property (other than eligible residential property and eligible condominium property, as such terms are defined in section 1831q(p) of this title) to which the Corporation acquires title, the Corporation shall give preference among offers to purchase the property that will result in the same net present value proceeds, to any offer that would provide for the property to be used, during the remaining useful life of the property, to provide housing or shelter for homeless persons (as such term is defined in section 11302 of title 42) or homeless families.
 
 #### (w) Preferences for sales of certain commercial real properties
 
@@ -2082,7 +2222,77 @@ Subject to subsection (u) of this section, in selling any real property (other t
 
 &emsp;&emsp;The terms “nonprofit organization” and “public agency” have the same meanings as in section 1831q(p) of this title.
 
-(Sept. 21, 1950, ch. 967, §2\[11\], 64 Stat. 884; Pub. L. 89–695, title III, §301(c), (d), Oct. 16, 1966, 80 Stat. 1055; Pub. L. 91–151, title I, §7(a)(3), (4), Dec. 23, 1969, 83 Stat. 375; Pub. L. 93–495, title I, §§101(a)(3), 102(a)(3), (4), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(17)–(22), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title XIV, §1401(a), Nov. 10, 1978, 92 Stat. 3712; Pub. L. 96–153, title III, §323(a), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(a)(1)(C), (D), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I, §103(c), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §113(j), (k), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §§503(a), 507, Aug. 10, 1987, 101 Stat. 629, 634; Pub. L. 101–73, title II, §§201(a), 211–214, title IX, §909, Aug. 9, 1989, 103 Stat. 187, 218–246, 477; Pub. L. 101–647, title XXV, §§2521(a)(1), 2526(a), 2527(a), 2528(a), 2532(b), 2534(a), Nov. 29, 1990, 104 Stat. 4863, 4875, 4877, 4880, 4882; Pub. L. 102–233, title I, §102, title II, §202(a), (b), title III, §302(a), Dec. 12, 1991, 105 Stat. 1761, 1766, 1767; Pub. L. 102–242, title I, §§123(a), 133(a), (e), 141(b), (d), 161(a), (e), title II, §241(c)(1), title III, §311(a)(1), (b)(1), (2), (5)(B), (C), title IV, §§416, 426, 446, Dec. 19, 1991, 105 Stat. 2252, 2270, 2272, 2277, 2285, 2286, 2331, 2363, 2364, 2366, 2376, 2378, 2382; Pub. L. 102–550, title XV, §§1501(a), 1544, title XVI, §§1603(e)(1), 1604(c)(2), 1606(c), 1611(b), Oct. 28, 1992, 106 Stat. 4044, 4069, 4081, 4083, 4088, 4090; Pub. L. 103–66, title III, §3001(a), (b), Aug. 10, 1993, 107 Stat. 336; Pub. L. 103–204, §§3(d), 4(b), 8(a)–(f), (i), 11, 15(b), 16(b), 17(b), 20, 27(b), 38(b), Dec. 17, 1993, 107 Stat. 2379, 2380, 2384–2389, 2399–2401, 2404, 2410, 2416; Pub. L. 103–325, title III, §325, title IV, §411(c)(2)(A), title VI, §602(a)(21)–(33), Sept. 23, 1994, 108 Stat. 2228, 2253, 2289; Pub. L. 103–328, title II, §201(a), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 103–394, title V, §501(c)(2), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 104–208, div. A, title II, §§2602, 2704(d)(1)–(3), (6)(C), (14)(H), (I), 2705, Sept. 30, 1996, 110 Stat. 3009–469, 3009–487, 3009–488, 3009–492, 3009–495; Pub. L. 104–316, title I, §106(i), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 106–102, title I, §117, title VII, §736(a), (b)(2), Nov. 12, 1999, 113 Stat. 1372, 1479; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–569, title XII, §1222, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–386, §8(a)(4), Oct. 30, 2004, 118 Stat. 2231.)
+(Sept. 21, 1950, ch. 967, §2\[11\], 64 Stat. 884; Pub. L. 89–695, title III, §301(c), (d), Oct. 16, 1966, 80 Stat. 1055; Pub. L. 91–151, title I, §7(a)(3), (4), Dec. 23, 1969, 83 Stat. 375; Pub. L. 93–495, title I, §§101(a)(3), 102(a)(3), (4), Oct. 28, 1974, 88 Stat. 1500, 1502; Pub. L. 95–369, §6(c)(17)–(22), Sept. 17, 1978, 92 Stat. 619; Pub. L. 95–630, title XIV, §1401(a), Nov. 10, 1978, 92 Stat. 3712; Pub. L. 96–153, title III, §323(a), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, §308(a)(1)(C), (D), Mar. 31, 1980, 94 Stat. 147; Pub. L. 97–110, title I,§103(c), Dec. 26, 1981, 95 Stat. 1514; Pub. L. 97–320, title I, §113(j), (k), Oct. 15, 1982, 96 Stat. 1474; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §§503(a), 507, Aug. 10, 1987, 101 Stat. 629, 634; Pub. L. 101–73, title II, §§201(a), 211–214, title IX, §909, Aug. 9, 1989, 103 Stat. 187, 218–246, 477; Pub. L. 101–647, title XXV, §§2521(a)(1), 2526(a), 2527(a), 2528(a), 2532(b), 2534(a), Nov. 29, 1990, 104 Stat. 4863, 4875, 4877, 4880, 4882; Pub. L. 102–233, title I, §102, title II, §202(a), (b), title III, §302(a), Dec. 12, 1991, 105 Stat. 1761, 1766, 1767; Pub. L. 102–242, title I, §§123(a), 133(a), (e), 141(b), (d), 161(a), (e), title II, §241(c)(1), title III, §311(a)(1), (b)(1), (2), (5)(B), (C), title IV, §§416, 426, 446, Dec. 19, 1991, 105 Stat. 2252, 2270, 2272, 2277, 2285, 2286, 2331, 2363, 2364, 2366, 2376, 2378, 2382; Pub. L. 102–550, title XV, §§1501(a), 1544, title XVI, §§1603(e)(1), 1604(c)(2), 1606(c), 1611(b), Oct. 28, 1992, 106 Stat. 4044, 4069, 4081, 4083, 4088, 4090; Pub. L. 103–66, title III, §3001(a), (b), Aug. 10, 1993, 107 Stat. 336; Pub. L. 103–204, §§3(d), 4(b), 8(a)–(f), (i), 11, 15(b), 16(b), 17(b), 20, 27(b), 38(b), Dec. 17, 1993, 107 Stat. 2379, 2380, 2384–2389, 2399–2401, 2404, 2410, 2416; Pub. L. 103–325, title III, §325, title IV, §411(c)(2)(A), title VI, §602(a)(21)–(33), Sept. 23, 1994, 108 Stat. 2228, 2253, 2289; Pub. L. 103–328, title II, §201(a), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 103–394, title V, §501(c)(2), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 104–208, div. A, title II, §§2602, 2704(d)(1)–(3), (6)(C), (14)(H), (I), 2705, Sept. 30, 1996, 110 Stat. 3009–469, 3009–487, 3009–488, 3009–492, 3009–495; Pub. L. 104–316, title I, §106(i), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 106–102, title I, §117, title VII, §736(a), (b)(2), Nov. 12, 1999, 113 Stat. 1372, 1479; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–569, title XII, §1222, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–386, §8(a)(4), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 109–8, title IX, §§901(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), (f)(1), (g)(1), (h)(1), (i)(1), 902(a), 903(a), 904(a), 905(a), 908(a), Apr. 20, 2005, 119 Stat. 146, 147, 149, 151, 152, 155, 157–160, 165, 166, 183; Pub. L. 109–173, §§2(a), (c)(1), 8(a)(11)–(14), Feb. 15, 2006, 119 Stat. 3601, 3602, 3611, 3612.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §2(a), (c)(1), (e), Feb. 15, 2006, 119 Stat. 3601, 3602, 3605, provided that, effective Apr. 1, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (a)(2):</i>
+
+<i>(A) in subparagraph (A), by realigning the margins of clauses (i) through (v), by striking the semicolon at the end of clause (v) and inserting a period, by striking, in the matter following clause (v), “such depositor shall” and all that follows through the period, and by striking “(2)(A) Notwithstanding” and all that follows through “a depositor who is—” and inserting the following:</i>
+
+#### <i>“(2) Government depositors</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of deposit insurance available to any 1 depositor—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) a government depositor shall, for the purpose of determining the amount of insured deposits under this subsection, be deemed to be a depositor separate and distinct from any other officer, employee, or agent of the United States or any public unit referred to in subparagraph (B); and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) except as provided in subparagraph (C), the deposits of a government depositor shall be insured in an amount equal to the standard maximum deposit insurance amount (as determined under paragraph (1)).</i>
+
+#### <i>“(B) Government depositor</i>
+
+&emsp;&emsp;<i>“In this paragraph, the term ‘government depositor’ means a depositor that is—”; and</i>
+
+<i>(B) in subparagraph (B), by striking “depositor referred to in subparagraph (A) of this paragraph” each place such term appears and inserting “government depositor” and by striking “(B) The” and inserting the following:</i>
+
+#### <i>“(C) Authority to limit deposits</i>
+
+&emsp;&emsp;<i>“The”; and</i>
+
+<i>(2) in subsection (m)(6), by striking “$100,000” and inserting “an amount equal to the standard maximum deposit insurance amount”.</i>
+
+<i>Pub. L. 109–173, §8(a)(11)–(14), (b), Feb. 15, 2006, 119 Stat. 3611, 3612, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (a):</i>
+
+<i>(A) by striking paragraph (4) and inserting the following new paragraph:</i>
+
+<i>“(4) DEPOSIT INSURANCE FUND.—</i>
+
+&emsp;<i>“(A) ESTABLISHMENT.—There is established the Deposit Insurance Fund, which the Corporation shall—</i>
+
+&emsp;&emsp;<i>“(i) maintain and administer;</i>
+
+&emsp;&emsp;<i>“(ii) use to carry out its insurance purposes, in the manner provided by this subsection; and</i>
+
+&emsp;&emsp;<i>“(iii) invest in accordance with section 1823(a) of this title.</i>
+
+&emsp;<i>“(B) USES.—The Deposit Insurance Fund shall be available to the Corporation for use with respect to insured depository institutions the deposits of which are insured by the Deposit Insurance Fund.</i>
+
+&emsp;<i>“(C) LIMITATION ON USE.—Notwithstanding any provision of law other than section 1823(c)(4)(G) of this title, the Deposit Insurance Fund shall not be used in any manner to benefit any shareholder or affiliate (other than an insured depository institution that receives assistance in accordance with the provisions of this chapter) of—</i>
+
+&emsp;&emsp;<i>“(i) any insured depository institution for which the Corporation has been appointed conservator or receiver, in connection with any type of resolution by the Corporation;</i>
+
+&emsp;&emsp;<i>“(ii) any other insured depository institution in default or in danger of default, in connection with any type of resolution by the Corporation; or</i>
+
+&emsp;&emsp;<i>“(iii) any insured depository institution, in connection with the provision of assistance under this section or section 1823 of this title with respect to such institution, except that this clause shall not prohibit any assistance to any insured depository institution that is not in default, or that is not in danger of default, that is acquiring (as defined in section 1823(f)(8)(B) of this title) another insured depository institution.</i>
+
+&emsp;<i>“(D) DEPOSITS.—All amounts assessed against insured depository institutions by the Corporation shall be deposited into the Deposit Insurance Fund.”; and</i>
+
+<i>(B) by striking paragraphs (5), (6), and (7) and by redesignating paragraph (8) as paragraph (5);</i>
+
+<i>(2) in subsection (c), by striking “deposit insurance fund” each place that term appears and inserting “Deposit Insurance Fund” in paragraphs (5)(H)(iii) and (10)(B)(i), (ii);</i>
+
+<i>(3) in subsection (e)(15)(B)(i), by striking “deposit insurance fund” and inserting “Deposit Insurance Fund”;</i>
+
+<i>(4) in subsection (f)(1), by striking “, except that—” and all that follows through the end of the paragraph and inserting a period;</i>
+
+<i>(5) in subsection (i)(3), by striking subparagraph (B) and by redesignating subparagraph (C) as subparagraph (B) and substituting “subparagraph (A)” for “subparagraphs (A) and (B)”; and</i>
+
+<i>(6) in subsection (p)(2)(B), by striking “deposit insurance fund” and inserting “Deposit Insurance Fund” and by striking “institution, any” and inserting “institution, the”.</i>
 
 #### References in Text
 
@@ -2094,6 +2304,26 @@ Section 1823(e)(2) of this title, referred to in subsec. (d)(9)(B), was redesign
 
 The Federal Rules of Civil Procedure, referred to in subsec. (d)(18), (19), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+The Securities Exchange Act of 1934, referred to in subsec. (e)(8)(D)(v)(I), (vi), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+The Securities Act of 1933, referred to in subsec. (e)(8)(D)(vi), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+
+The Public Utility Holding Company Act of 1935, referred to in subsec. (e)(8)(D)(vi), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+
+The Trust Indenture Act of 1939, referred to in subsec. (e)(8)(D)(vi), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+
+The Investment Company Act of 1940, referred to in subsec. (e)(8)(D)(vi), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+
+The Investment Advisers Act of 1940, referred to in subsec. (e)(8)(D)(vi), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+
+The Securities Investor Protection Act of 1970, referred to in subsec. (e)(8)(D)(vi), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+
+The Commodity Exchange Act, referred to in subsec. (e)(8)(D)(vi), (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+The Gramm-Leach-Bliley Act, referred to in subsec. (e)(8)(D)(vi), (17), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+
+The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (e)(8)(D)(vi), (17), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, §1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+
 Section 51 of this title, referred to in subsecs. (m)(15)(A) and (n)(4)(C), was repealed by Pub. L. 106–569, title XII, §1233(c), Dec. 27, 2000, 114 Stat. 3037.
 
 Section 1008 of title 18, referred to in subsec. (p)(2)(A), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
@@ -2103,6 +2333,64 @@ Section 1008 of title 18, referred to in subsec. (p)(2)(A), was repealed by Pub.
 Section is derived from subsec. (<i>l</i>) of former section 264 of this title. See Codification note set out under section 1811 of this title.
 
 #### Amendments
+
+2005—Subsec. (e)(8)(A). Pub. L. 109–8, §901(h)(1)(A), substituted “paragraphs (9) and (10)” for “paragraph (10)” in introductory provisions and “such person has to cause the termination, liquidation, or acceleration” for “to cause the termination or liquidation” in cl. (i), added cl. (ii), and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to any contract or agreement described in clause (i); or”.
+
+Subsec. (e)(8)(C)(i). Pub. L. 109–8, §901(i)(1), inserted “section 91 of this title or any other Federal or State law relating to the avoidance of preferential or fraudulent transfers,” before “the Corporation”.
+
+Subsec. (e)(8)(D). Pub. L. 109–8, §901(a)(1)(A), substituted “subsection, the following definitions shall apply:” for “subsection—” in introductory provisions.
+
+Subsec. (e)(8)(D)(i). Pub. L. 109–8, §901(a)(1)(B), inserted “, resolution, or order” after “any similar agreement that the Corporation determines by regulation”.
+
+Subsec. (e)(8)(D)(ii). Pub. L. 109–8, §901(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘securities contract’—
+
+&emsp;“(I) has the meaning given to such term in section 741 of title 11, except that the term ‘security’ (as used in such section) shall be deemed to include any mortgage loan, any mortgage-related security (as defined in section 78c(a)(41) of title 15), and any interest in any mortgage loan or mortgage-related security; and
+
+&emsp;“(II) does not include any participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such participation within the meaning of such term.”
+
+Subsec. (e)(8)(D)(iii). Pub. L. 109–8, §901(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘commodity contract’ has the meaning given to such term in section 761 of title 11.”
+
+Subsec. (e)(8)(D)(iv). Pub. L. 109–8, §901(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘forward contract’ has the meaning given to such term in section 101 of title 11.”
+
+Subsec. (e)(8)(D)(v). Pub. L. 109–8, §901(e)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘repurchase agreement’—
+
+&emsp;“(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15), any mortgage loan, and any interest in any mortgage loan; and
+
+&emsp;“(II) does not include any participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such participation within the meaning of such term.”
+
+Subsec. (e)(8)(D)(vi). Pub. L. 109–8, §901(f)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘swap agreement’—
+
+&emsp;“(I) means any agreement, including the terms and conditions incorporated by reference in any such agreement, which is a rate swap agreement, basis swap, commodity swap, forward rate agreement, interest rate future, interest rate option purchased, forward foreign exchange agreement, rate cap agreement, rate floor agreement, rate collar agreement, currency swap agreement, cross-currency rate swap agreement, currency future, or currency option purchased or any other similar agreement, and
+
+&emsp;“(II) includes any combination of such agreements and any option to enter into any such agreement.”
+
+Subsec. (e)(8)(D)(vii). Pub. L. 109–8, §905(a), amended heading and text of cl. (vii) generally. Prior to amendment, text read as follows: “Any master agreement for any agreements described in clause (vi)(I) together with all supplements to such master agreement shall be treated as 1 swap agreement.”
+
+Subsec. (e)(8)(D)(viii). Pub. L. 109–8, §901(g)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘transfer’ has the meaning given to such term in section 101 of title 11.”
+
+Subsec. (e)(8)(E). Pub. L. 109–8, §902(a)(1)(A), substituted “other than subsections (d)(9) and (e)(10)” for “other than paragraph (12) of this subsection, subsection (d)(9)” in introductory provisions.
+
+Subsec. (e)(8)(E)(ii). Pub. L. 109–8, §901(h)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to such qualified financial contracts; or”.
+
+Subsec. (e)(8)(F), (G). Pub. L. 109–8, §902(a)(1)(B), added subpars. (F) and (G).
+
+Subsec. (e)(8)(H). Pub. L. 109–8, §908(a), added subpar. (H).
+
+Subsec. (e)(9). Pub. L. 109–8, §903(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text related to transfer of qualified financial contracts, claims, and property of a depository institution in default.
+
+Subsec. (e)(10)(A). Pub. L. 109–8, §903(a)(2), substituted concluding provisions for former concluding provisions which read as follows: “the conservator or receiver shall use such conservator's or receiver's best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time) on the business day following such transfer.”
+
+Subsec. (e)(10)(B) to (D). Pub. L. 109–8, §903(a)(3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+
+Subsec. (e)(11). Pub. L. 109–8, §904(a)(2), added par. (11). Former par. (11) redesignated (12).
+
+Subsec. (e)(12). Pub. L. 109–8, §904(a)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+
+Subsec. (e)(12)(A). Pub. L. 109–8, §902(a)(2), inserted “or the exercise of rights or powers by” after “the appointment of”.
+
+Subsec. (e)(13) to (16). Pub. L. 109–8, §904(a)(1), redesignated pars. (12) to (15) as (13) to (16), respectively.
+
+Subsec. (e)(17). Pub. L. 109–8, §904(a)(3), added par. (17).
 
 2004—Subsec. (c)(2)(A)(i). Pub. L. 108–386, §8(a)(4)(A), struck out “or District bank” after “Federal depository institution”.
 
@@ -2332,7 +2620,7 @@ Subsec. (d)(3)(A). Pub. L. 102–242, §161(a)(1), substituted “paragraph (4)�
 
 Subsec. (d)(4). Pub. L. 102–242, §416, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Corporation may prescribe regulations regarding the allowance or disallowance of claims by the receiver and providing for administrative determination of claims and review of such determination.”
 
-Subsec. (d)(5)(D). Pub. L. 102–242, §141(b), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “The receiver may disallow any portion of any claim by a creditor or claim of security, preference, or priority which is not proved to the satisfaction of the receiver.”
+Subsec. (d)(5)(D). Pub. L. 102–242, §141(b), amended subpar. (D) generally. Prior to amendment, subpar. (D)read as follows: “The receiver may disallow any portion of any claim by a creditor or claim of security, preference, or priority which is not proved to the satisfaction of the receiver.”
 
 Subsec. (d)(11)(B). Pub. L. 102–242, §161(a)(2), substituted “paragraph (15)(B)” for “paragraph (14)(C)”.
 
@@ -2438,7 +2726,7 @@ Subsec. (e). Pub. L. 95–369, §6(c)(18), (19), inserted “or any insured bran
 
 Subsec. (f). Pub. L. 95–369, §6(c)(20), inserted “or insured branch of a foreign bank” after “Whenever an insured bank”.
 
-Subsec. (g). Pub. L. 95–369, §6(c)(21), (22), inserted “insured branch of a foreign bank” after “In the case of a closed national bank”, and substituted “In the case of any closed insured bank or closed insured branch of a foreign bank, such subrogation” for “In the case of any closed insured bank, such subrogation”.
+Subsec. (g). Pub. L. 95–369, §6(c)(21), (22), inserted “insured branch of a foreign bank” after “In the case of a closed national bank”, and substituted “In the case ofany closed insured bank or closed insured branch of a foreign bank, such subrogation” for “In the case of any closed insured bank, such subrogation”.
 
 1974—Subsec. (a). Pub. L. 93–495, §§101(a)(3), 102(a)(3), redesignated existing provisions as par. (1), inserted exception relating to applicability of par. (2), substituted “$40,000” for “$20,000’, and added par. (2).
 
@@ -2457,6 +2745,16 @@ Subsec. (i). Pub. L. 89–695, §301(d), substituted “$15,000” for “$10,00
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Oversight Board redesignated Thrift Depositor Protection Oversight Board, effective Feb. 1, 1992, see section 302(a) of Pub. L. 102–233, set out as a note under section 1441a of this title. Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, set out as a note under section 1441a of this title.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 2(a), (c)(1) of Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. L. 109–173, set out as a note under section 1785 of this title.
+
+Amendment by section 8(a)(11)–(14) of Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 2004 Amendment
 
@@ -2496,7 +2794,7 @@ Section 311(c) of Pub. L. 102–242 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by subsection (a) and paragraphs (2) and (3) of subsection (b) \[amending this section andsection 1817 of this title\] shall take effect at the end of the 2-year period beginning on the date of the enactment of this Act \[Dec. 19, 1991\].
+In general.—Except as provided in paragraph (2), the amendments made by subsection (a) and paragraphs (2) and (3) of subsection (b) \[amending this section and section 1817 of this title\] shall take effect at the end of the 2-year period beginning on the date of the enactment of this Act \[Dec. 19, 1991\].
 
 “(2)
 
@@ -2524,7 +2822,7 @@ Effective date for amendment relating to certain employee plans.—
 
 &emsp;&emsp;“(ii) January 1, 1992.
 
-&emsp;“(B) Section 11(a)(3)(A) of the Federal Deposit Insurance Act (as amended by subsection (b)(2) of this section) shall take effect on the earlier of the dates described in clauses (i) and (ii) of subparagraph (A) with respect to plans described in clause (ii) of such section.”
+&emsp;“(B) Section 11(a)(3)(A) of the Federal Deposit Insurance Act (as amended by subsection (b)(2) of thissection) shall take effect on the earlier of the dates described in clauses (i) and (ii) of subparagraph (A) with respect to plans described in clause (ii) of such section.”
 
 #### Effective Date of 1980 Amendment
 
@@ -2710,7 +3008,7 @@ BIF member, saif member.—The terms ‘Bank Insurance Fund member’ and ‘Sav
 
 &emsp;“(3)
 
-Various banking terms.—The terms ‘bank’, ‘Board of Directors’, ‘Corporation’, ‘deposit’, ‘insureddepository institution’, ‘Federal savings association’, ‘savings association’, ‘State savings bank’, and ‘State depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+Various banking terms.—The terms ‘bank’, ‘Board of Directors’, ‘Corporation’, ‘deposit’, ‘insured depository institution’, ‘Federal savings association’, ‘savings association’, ‘State savings bank’, and ‘State depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
 &emsp;“(4)
 
@@ -2732,7 +3030,7 @@ SAIF-assessable deposit.—The term ‘SAIF-assessable deposit’—
 
 &emsp;&emsp;“(A) means a deposit that is subject to assessment for purposes of the Savings Association Insurance Fund under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] (including a deposit that is treated as insured by the Savings Association Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)\]); and
 
-&emsp;&emsp;“(B) includes any deposit described in subparagraph (A) which is assumed after March 31, 1995, if the insured depository institution, the deposits of which are assumed, is not an insured depository institution when the special assessment is imposed under section 2702(a) \[12 U.S.C. 1817 note\].”
+&emsp;&emsp;“(B) includes any deposit described in subparagraph (A) which is assumed after March 31, 1995, ifthe insured depository institution, the deposits of which are assumed, is not an insured depository institution when the special assessment is imposed under section 2702(a) \[12 U.S.C. 1817 note\].”
 
 <i><sup>1</sup></i><i> So in original. The second occurrence of the phrase “in an amount not to exceed $100,000 per account” probably should not appear.</i>
 
@@ -2742,11 +3040,17 @@ SAIF-assessable deposit.—The term ‘SAIF-assessable deposit’—
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
-<i><sup>6</sup></i><i> See References in Text note below.</i>
+<i><sup>6</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>7</sup></i><i> See References in Text note below.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “title 28,”.</i>
+<i><sup>8</sup></i><i> See References in Text note below.</i>
+
+<i><sup>9</sup></i><i> See References in Text note below.</i>
+
+<i><sup>10</sup></i><i> See References in Text note below.</i>
+
+<i><sup>11</sup></i><i> So in original. Probably should be “title 28,”.</i>
 

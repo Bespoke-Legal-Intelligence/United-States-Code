@@ -16,5 +16,5 @@ The Individuals with Disabilities Education Act, referred to in par. (2), is tit
 
 #### Prior Provisions
 
-A prior section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3581; amended Pub. L. 105–220, title II, §251(b)(2)(C), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to eligible participants in an Even Start program, prior to the general amendment of thissubchapter by Pub. L. 107–110. See section 6381e of this title.
+A prior section 6366, Pub. L. 89–10, title I, §1206, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3581; amended Pub. L. 105–220, title II, §251(b)(2)(C), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–332, related to eligible participants in an Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381e of this title.
 

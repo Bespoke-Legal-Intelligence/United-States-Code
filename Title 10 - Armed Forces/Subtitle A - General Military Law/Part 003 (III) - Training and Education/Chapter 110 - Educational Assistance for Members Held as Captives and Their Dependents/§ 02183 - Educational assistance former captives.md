@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) the end of any semester or quarter (as appropriate) that begins before the end of the 10-year period beginning on the date on which the status of that person as a captive terminates; or
 
-&emsp;&emsp;(B) if the educational or training institution is not operated on a semester or quartersystem, the earlier of the end of any course that began before such date or the end of the 16-week period following that date.
+&emsp;&emsp;(B) if the educational or training institution is not operated on a semester or quarter system, the earlier of the end of any course that began before such date or the end of the 16-week period following that date.
 
 (c) Payments shall be available under this section only to the extent that such payments are not otherwise authorized by law.
 

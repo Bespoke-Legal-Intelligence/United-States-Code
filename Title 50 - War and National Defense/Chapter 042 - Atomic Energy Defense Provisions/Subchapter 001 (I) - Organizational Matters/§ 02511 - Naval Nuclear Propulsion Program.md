@@ -14,7 +14,7 @@ Section was formerly set out as a note under section 7158 of Title 42, The Publi
 
 #### Transfer of Functions
 
-All national security functions and activities performed immediately before Oct. 5, 1999, by the Office of Naval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344, set out below, see sections 2406 and 2481 of this title.
+All national security functions and activities performed immediately before Oct. 5, 1999, by the Office ofNaval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344, set out below, see sections 2406 and 2481 of this title.
 
 #### Executive Order No. 12344 To Remain in Force
 

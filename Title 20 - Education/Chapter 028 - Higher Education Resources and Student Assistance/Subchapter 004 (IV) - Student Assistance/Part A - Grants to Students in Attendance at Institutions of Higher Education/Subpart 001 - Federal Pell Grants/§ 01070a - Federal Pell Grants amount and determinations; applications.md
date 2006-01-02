@@ -10,7 +10,7 @@
 
 #### (b) Purpose and amount of grants
 
-(1) The purpose of this subpart is to provide a Federal Pell Grant that in combination with reasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087<i>ll</i> of this title), unless the institution determines that a greater amount ofassistance would better serve the purposes of section 1070 <sup>2</sup> of this title.
+(1) The purpose of this subpart is to provide a Federal Pell Grant that in combination with reasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087<i>ll</i> of this title), unless the institution determines that a greater amount of assistance would better serve the purposes of section 1070 <sup>2</sup> of this title.
 
 (2)(A) The amount of the Federal Pell Grant for a student eligible under this part shall be—
 
@@ -26,7 +26,7 @@
 
 > less an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.
 
-(B) In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which that student is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
+(B) In any case where a student attends an institution of higher education on less than a full-time basis (including a student who attends an institution of higher education on less than a half-time basis) during any academic year, the amount of the Federal Pell Grant to which that student is entitled shall be reduced in proportion to the degree to which that student is not so attending on a full-time basis, in accordancewith a schedule of reductions established by the Secretary for the purposes of this division, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
 
 (3)(A) For any academic year for which an appropriation Act provides a maximum basic grant in an amount in excess of $2,700, the amount of a student's basic grant shall equal $2,700 plus—
 
@@ -76,7 +76,7 @@
 
 (1) The Secretary shall from time to time set dates by which students shall file applications for Federal Pell Grants under this subpart.
 
-(2) Each student desiring a Federal Pell Grant for any year shall file an application therefor containing such information and assurances as the Secretary may deem necessary to enable the Secretary to carry out the functions and responsibilities of this subpart.
+(2) Each student desiring a Federal Pell Grant for any year shall file an application thereforcontaining such information and assurances as the Secretary may deem necessary to enable the Secretary to carry out the functions and responsibilities of this subpart.
 
 #### (e) Distribution of grants to students
 
@@ -284,7 +284,7 @@ Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutio
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
 
@@ -329,6 +329,8 @@ Section 1306 of Pub. L. 99–498 directed Secretary to conduct a study and repor
 #### Maximum Pell Grants
 
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 109–149, title III, Dec. 30, 2005, 119 Stat. 2868.
 
 Pub. L. 108–447, div. F, title III, Dec. 8, 2004, 118 Stat. 3148.
 

@@ -74,7 +74,7 @@ If an action is brought under subsection (a) or (b) with respect to a partnershi
 
 #### (2) Refund on request
 
-&emsp;If an action brought in a district court of the United States or in the Court of Federal Claims is dismissed by reason of the priority of a Tax Court action under paragraph (2) of subsection (b), the Secretary shall, at the request of the partner who made the deposit, refund the amount deposited under paragraph (1).
+&emsp;If an action brought in a district court of the United States or in the Court of FederalClaims is dismissed by reason of the priority of a Tax Court action under paragraph (2) of subsection (b), the Secretary shall, at the request of the partner who made the deposit, refund the amount deposited under paragraph (1).
 
 #### (3) Interest payable
 
@@ -121,8 +121,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 97–448 effective as if included in the provisions of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 311(d) of Pub. L. 97–448, set out as a note under section 31 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6223, 6225, 6228, 6229, 6230, 6234, 7451, 7459, 7482, 7485 of this title; title 28 sections 1346, 1508.
 

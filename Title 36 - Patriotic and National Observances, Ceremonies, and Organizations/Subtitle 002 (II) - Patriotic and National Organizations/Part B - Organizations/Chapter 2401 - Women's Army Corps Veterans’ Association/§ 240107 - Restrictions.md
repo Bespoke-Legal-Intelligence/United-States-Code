@@ -66,5 +66,5 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (b), the words “as such” are substituted for “thereof” for consistency in the revised title.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure” for consistency in the revised title. The words “This subsection does not prevent” are substituted for “Nothing in this subsection shall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (c), the words “inure to the benefit of” are substituted for “inure” for consistency in the revised title. The words “This subsection does not prevent” are substituted for “Nothing in this subsectionshall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words.
 

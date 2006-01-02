@@ -74,7 +74,7 @@ The objectives of the Program are to—
 
 #### (B) Technical assistance
 
-&emsp;&emsp;The technical assistance activity shall consist of the transfer of knowledge andtechnical information among the Federal and non-Federal elements described in paragraph (2).
+&emsp;&emsp;The technical assistance activity shall consist of the transfer of knowledge and technical information among the Federal and non-Federal elements described in paragraph (2).
 
 #### (C) Public awareness
 
@@ -154,7 +154,7 @@ The objectives of the Program are to—
 
 #### (6) Review of State dam safety programs
 
-&emsp;Using the expertise of the Board, the Director shall periodically review State dam safetyprograms. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
+&emsp;Using the expertise of the Board, the Director shall periodically review State dam safety programs. If the Board finds that a State dam safety program has proven inadequate to reasonably protect human life and property and the Director concurs, the Director shall revoke approval of the State dam safety program, and withhold assistance under this subsection, until the State dam safety program again meets the requirements for approval.
 
 #### (f) Board
 
@@ -220,7 +220,7 @@ The objectives of the Program are to—
 
 #### (B) Other individuals
 
-&emsp;&emsp;To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
+&emsp;&emsp;To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee ofan agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
 
 #### (9) Applicability of Federal Advisory Committee Act
 

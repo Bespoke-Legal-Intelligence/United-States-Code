@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;(1) The term “commissioned officer” does not include a commissioned warrant officer.
 
-&emsp;(2) The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in whichArmed Forces of the United States are or have (after June 24, 1950) engaged in combat.
+&emsp;(2) The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have (after June 24, 1950) engaged in combat.
 
 &emsp;(3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.
 
@@ -94,7 +94,7 @@ Section 3(a)(1) of Pub. L. 92–279 provided that: “The amendment made by the 
 
 #### Effective Date of 1966 Amendment
 
-Section 2 of Pub. L. 89–739 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending afterDecember 31, 1965, for periods of active service after such date.”
+Section 2 of Pub. L. 89–739 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date.”
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
@@ -208,7 +208,7 @@ Withholding.—Subsection (a)(5) and the amendment made by subsection (c) shall 
 
 Section 3(a)(2), (3) of Pub. L. 92–279, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(2) If refund or credit of any overpayment for any taxable year resulting from the application of theamendment made by the first section of this Act \[amending this section\] (including interest, additions to the tax, and additional amounts) is prevented at any time before the expiration of the applicable period specified in paragraph (3) by the operation of any law or rule of law, such refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such applicable period.
+“(2) If refund or credit of any overpayment for any taxable year resulting from the application of the amendment made by the first section of this Act \[amending this section\] (including interest, additions to the tax, and additional amounts) is prevented at any time before the expiration of the applicable period specified in paragraph (3) by the operation of any law or rule of law, such refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such applicable period.
 
 “(3) For purposes of paragraph (2), the applicable period for any individual with respect to any compensation is the period ending on whichever of the following days is the later:
 
@@ -293,8 +293,4 @@ Pursuant to the authority vested in me as President by the Constitution and the 
 For purposes of this order, I designate September 19, 2001, as the date of the commencement of combatant activities in such zone.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 692, 2201, 3401, 4253, 6013, 7508 of this title; title 5 sections 6304, 6326; title 10 section 1580.
 

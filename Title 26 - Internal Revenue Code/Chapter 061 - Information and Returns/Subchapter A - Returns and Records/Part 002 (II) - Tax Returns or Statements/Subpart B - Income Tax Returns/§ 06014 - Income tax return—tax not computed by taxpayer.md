@@ -60,7 +60,3 @@ Amendment by section 201(d)(14) of Pub. L. 88–272 applicable with respect to d
 
 Amendment by section 301(b)(2) of Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, except for purpose of section 21, see section 301(c) of Pub. L. 88–272, set out as a note under section 3 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3, 6151, 6211 of this title.
-

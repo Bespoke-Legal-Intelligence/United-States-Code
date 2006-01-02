@@ -8,7 +8,7 @@ Every person—
 
 &emsp;(2) who receives payments of royalties (or similar amounts) as a nominee and who makes payments aggregating $10 or more during any calendar year to any other person with respect to the royalties (or similar amounts) so received,
 
-> shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
+> shall make a return according to the forms or regulations prescribed by the Secretary, settingforth the aggregate amount of such payments and the name and address of the person to whom paid.
 
 #### (b) Statements to be furnished to persons with respect to whom information is furnished
 
@@ -37,8 +37,4 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 #### Effective Date
 
 Section 1523(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and amending sections 3406, 6041, and 6676 of this title\] shall apply with respect to payments made after December 31, 1986.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3406, 6041, 6724 of this title.
 

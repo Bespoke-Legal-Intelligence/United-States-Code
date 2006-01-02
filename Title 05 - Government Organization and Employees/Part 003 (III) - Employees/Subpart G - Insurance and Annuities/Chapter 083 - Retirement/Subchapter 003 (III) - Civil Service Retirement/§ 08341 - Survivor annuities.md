@@ -422,7 +422,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 &emsp;“(B) with respect to periods beginning on or after such date.
 
-“(4)(A) Except as provided in subparagraph (B), the amendment made by section 2(3)(A) of this Act \[amending section 8339 of this title\] (but only to the extentthat it amends title 5, United States Code, by adding a new section 8339(j)(5)(C)) and the amendment made by section 2(3)(C) of this Act \[amending section 8339 of this title\] (which relate to the election of a survivor annuity for a spouse in the case of a post-retirement marriage or remarriage) shall apply—
+“(4)(A) Except as provided in subparagraph (B), the amendment made by section 2(3)(A) of this Act \[amending section 8339 of this title\] (but only to the extent that it amends title 5, United States Code, by adding a new section 8339(j)(5)(C)) and the amendment made by section 2(3)(C) of this Act \[amending section 8339 of this title\] (which relate to the election of a survivor annuity for a spouse in the case of a post-retirement marriage or remarriage) shall apply—
 
 &emsp;“(i) to an employee or Member who retires before, on, or after May 7, 1985; and
 
@@ -438,7 +438,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(ii) The requirement referred to in clause (i) is the requirement prescribed in section 8339(j)(3) of title 5, United States Code, for an employee or Member to make an election in the case of a former spouse under such section 8339(j)(3) at the time of retirement or, if later, within 2 years after the date on which the marriage of the former spouse to the employee or Member is dissolved.
 
-“(iii) Clause (i) applies to an election which is made by an employee or Member who retires on or after May 7, 1985, and before the date of the enactment of the Federal Employees Benefits Improvement Act of 1986 \[Feb. 27, 1986\], and is received by the Office of Personnel Management within the 2-year period beginning on the date of the enactment of such Act.
+“(iii) Clause (i) applies to an election which is made by an employee or Member who retires on or after May7, 1985, and before the date of the enactment of the Federal Employees Benefits Improvement Act of 1986 \[Feb. 27, 1986\], and is received by the Office of Personnel Management within the 2-year period beginning on the date of the enactment of such Act.
 
 “(C) A survivor annuity shall be paid a former spouse as provided in section 8341(h) of title 5, United States Code (as amended by section 2(4)(G) of this Act), pursuant to an election made in the case of such former spouse under this paragraph.
 
@@ -490,7 +490,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 &emsp;“(2) the employee or Member failed to notify the Office of the employee or Member's post-retirement marriage within one year after the marriage,
 
-> may elect in writing, within one year after the date of enactment of this Act, in accordance with procedures prescribed by the Office, to provide for a survivor annuity for such spouse under section 8341(b) of title 5, United States Code, as amended by this Act, to have the retired employee or Member's annuity reduced under section 8339(j) of such title, as so amended, and to deposit in the Civil Service Retirement and Disability Fund an amount determined by the Office, as nearly as may be administratively feasible, to reflect the amount by which such employee or Member's annuity would have been reduced had the election been continuously in effect since the annuity commenced, plus interest. For the purposes of the preceding sentence, the annual rate of interest for each year during which the annuity would have been reduced if the election had been in effect on and after the date the annuity commenced shall be 6 percent. If the retired employee or Member does not make such deposit, the Office shall collect such amount by offset against such employee or Member's annuity, up to a maximum of 25 percent of the net annuity otherwise payable to such employee or Member, and such employee or Member is deemed to consent to such offset. The Office shall provide for general public notice of the right to make an election under this subsection. In cases to which paragraph (2) of this subsection applies, the retired employee or Member shall provide the Office with such documentation as the Office shall decide is appropriate, that such employee or Member attempted to elect a reduced annuity with survivor benefit for such employee or Member's current spouse and that such employee or Member's election was rejected by the Office because it was untimely filed.
+> may elect in writing, within one year after the date of enactment of this Act, in accordance with procedures prescribed by the Office, to provide for a survivor annuity for such spouse under section 8341(b) of title 5, United States Code, as amended by this Act, to have the retired employee or Member's annuity reduced under section 8339(j) of such title, as so amended, and to deposit in the Civil Service Retirement and Disability Fund an amount determined by the Office, as nearly as may be administratively feasible, to reflect the amount by which such employee or Member's annuity would have been reduced had the election been continuously in effect since the annuity commenced, plus interest. For the purposes of the preceding sentence, the annual rate of interest for each year during which the annuity would have been reduced if the election had been in effect on and after the date the annuity commenced shall be 6 percent. If the retired employee orMember does not make such deposit, the Office shall collect such amount by offset against such employee or Member's annuity, up to a maximum of 25 percent of the net annuity otherwise payable to such employee or Member, and such employee or Member is deemed to consent to such offset. The Office shall provide for general public notice of the right to make an election under this subsection. In cases to which paragraph (2) of this subsection applies, the retired employee or Member shall provide the Office with such documentation as the Office shall decide is appropriate, that such employee or Member attempted to elect a reduced annuity with survivor benefit for such employee or Member's current spouse and that such employee or Member's election was rejected by the Office because it was untimely filed.
 
 “(d) A deposit required by subsection (b)(1)(A) or (c) of this section may be made by the surviving former spouse or spouse, as applicable, of the retired employee or Member.
 
@@ -528,7 +528,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Section 5(a) of Pub. L. 96–179 provided that: “The amendments made by the first section \[amending this section\] and section 2 of this Act \[amending section 8901 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 2, 1980\], except that no benefits under chapter 89 of title 5, United States Code,made available by reason of such amendments shall be payable for any period before October 1, 1979.”
+Section 5(a) of Pub. L. 96–179 provided that: “The amendments made by the first section \[amending this section\] and section 2 of this Act \[amending section 8901 of this title\] shall take effect on the date of the enactment of this Act \[Jan. 2, 1980\], except that no benefits under chapter 89 of title 5, United States Code, made available by reason of such amendments shall be payable for any period before October 1, 1979.”
 
 #### Effective Date of 1978 Amendments
 
@@ -556,7 +556,7 @@ Section 1(b) of Pub. L. 93–260 provided that: “The amendments made by subsec
 
 Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
 
-Section 2 of Pub. L. 92–243 provided that: “The amendment made by the first section of this Act \[amending this section\] is effective upon enactment \[Mar. 9, 1972\]. Upon application to the Civil Service Commission, it also applies to a child of an employee or Member who died or retired before such date of enactment \[Mar. 9, 1972\] but no annuity shall be paid by reason of the amendment for any period prior to the date of enactment.”
+Section 2 of Pub. L. 92–243 provided that: “The amendment made by the first section of this Act \[amending this section\] is effective upon enactment \[Mar. 9, 1972\]. Upon application to the Civil Service Commission, it also applies to a child of an employee or Member who died or retired before such date of enactment \[Mar. 9, 1972\] but no annuity shall be paid byreason of the amendment for any period prior to the date of enactment.”
 
 #### Effective Date of 1969 Amendments
 
@@ -622,7 +622,7 @@ Section 205 of Pub. L. 91–93 provided that: “The provisions of subsection (b
 
 > except that no annuity shall be paid by reason of this section for any period prior to the enactment of this section. No annuity shall be terminated solely by reason of the enactment of this section. Notwithstanding the prohibition contained in the first sentence of this section on the payment of annuity for any period prior to the enactment of this section, in any case in which the Civil Service Commission determines that—
 
-&emsp;“(1) the remarriage of any widow or widower described in such sentence was entered into by the widow or widower in good faith and in reliance on erroneous information provided by Government authority prior to that remarriage that the then existing survivor annuity of the widow or widower would not be terminated because of the remarriage; and
+&emsp;“(1) the remarriage of any widow or widower described in such sentence was entered into by the widow or widower in good faith and in reliance on erroneous information provided by Government authority prior to that remarriage that the then existingsurvivor annuity of the widow or widower would not be terminated because of the remarriage; and
 
 &emsp;“(2) such annuity was terminated by law because of that remarriage;
 

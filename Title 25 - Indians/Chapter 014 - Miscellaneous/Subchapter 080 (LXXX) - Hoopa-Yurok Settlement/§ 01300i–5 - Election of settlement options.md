@@ -32,13 +32,13 @@
 
 #### (c) Yurok tribal membership option
 
-(1) Any person on the Settlement Roll may elect to become a member of the Yurok Tribe and shall be entitled to participate in the organization of such tribe as provided in section 1300i–8 of this title.
+(1) Any person on the Settlement Roll may elect to become a member of the Yurok Tribeand shall be entitled to participate in the organization of such tribe as provided in section 1300i–8 of this title.
 
 (2) All persons making an election under this subsection shall form the base roll of the Yurok Tribe for purposes of organization pursuant to section 1300i–8 of this title and the Secretary shall determine the quantum of “Indian blood” if any pursuant to the criteria established in the March 31, 1982, decision of the United States Court of Claims in the case of Jesse Short et al. v. United States, (Cl. Ct. No. 102–63).
 
 (3) The Secretary, subject to the provisions of section 1407 of this title, shall pay to each person making an election under this subsection, $5,000 out of the Settlement Fund for those persons who are, on the date established pursuant to subsection (a)(4) of this section, below the age of 50 years, and $7,500 out of the Settlement Fund for those persons who are, on that date, age 50 or older.
 
-(4) Any person making an election under this subsection shall no longer have any right or interest whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation or the Hoopa Valley Tribe or, except to the extent authorized by paragraph (3), in the Settlement Fund. Any such person shallalso be deemed to have granted to members of the Interim Council established under section 1300i–8 of this title an irrevocable proxy directing them to approve a proposed resolution waiving any claim the Yurok Tribe may have against the United States arising out of the provisions of this subchapter, and granting tribal consent as provided in section 1300i–8(d)(2) of this title.
+(4) Any person making an election under this subsection shall no longer have any right or interest whatsoever in the tribal, communal, or unallotted land, property, resources, or rights within, or appertaining to, the Hoopa Valley Reservation or the Hoopa Valley Tribe or, except to the extent authorized by paragraph (3), in the Settlement Fund. Any such person shall also be deemed to have granted to members of the Interim Council established under section 1300i–8 of this title an irrevocable proxy directing them to approve a proposed resolution waiving any claim the Yurok Tribe may have against the United States arising out of the provisions of this subchapter, and granting tribal consent as provided in section 1300i–8(d)(2) of this title.
 
 #### (d) Lump sum payment option
 

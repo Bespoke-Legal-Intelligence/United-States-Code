@@ -34,9 +34,9 @@
 
 (h)(1) If the Secretary <sup>1</sup> receives, from an employer, the name and other identifying information of a responsible person or an employee who will be authorized by the employer to possess explosive materials in the course of employment with the employer, the Secretary <sup>1</sup> shall determine whether the responsible person or employee is one of the persons described in any paragraph of section 842(i). In making the determination, the Secretary <sup>1</sup> may take into account a letter or document issued under paragraph (2).
 
-(2)(A) If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one ofthe persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
+(2)(A) If the Secretary <sup>1</sup> determines that the responsible person or the employee is not one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue, to the responsible person or employee, a letter of clearance, which confirms the determination.
 
-(B) If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer in writing or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
+(B) If the Secretary <sup>1</sup> determines that the responsible person or employee is one of the persons described in any paragraph of section 842(i), the Secretary <sup>1</sup> shall notify the employer inwriting or electronically of the determination and issue to the responsible person or the employee, as the case may be, a document that—
 
 &emsp;(i) confirms the determination;
 

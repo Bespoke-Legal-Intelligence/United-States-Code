@@ -2,7 +2,7 @@
 
 #### (a) Fiscal control and auditing procedures
 
-Each State electing to establish a water pollution control revolving fund under this subchapter shall establish fiscal controls and accounting procedures sufficient to assure properaccounting during appropriate accounting periods for—
+Each State electing to establish a water pollution control revolving fund under this subchapter shall establish fiscal controls and accounting procedures sufficient to assure proper accounting during appropriate accounting periods for—
 
 &emsp;(1) payments received by the fund;
 

@@ -10,7 +10,7 @@
 
 (3)(A) The Board shall allow any agency which would be subject to a stay under this subsection to comment to the Board on such stay request.
 
-(B) Except as provided in subparagraph (C), a stay granted under this subsection shall remain in effect for such period as the Board determines to be appropriate.
+(B) Except as provided in subparagraph (C), a stay granted under this subsection shall remainin effect for such period as the Board determines to be appropriate.
 
 (C) The Board may modify or dissolve a stay under this subsection at any time, if the Board determines that such a modification or dissolution is appropriate.
 

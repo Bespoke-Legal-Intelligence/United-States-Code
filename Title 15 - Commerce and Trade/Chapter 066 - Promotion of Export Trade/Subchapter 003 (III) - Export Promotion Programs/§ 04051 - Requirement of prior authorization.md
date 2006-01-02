@@ -38,7 +38,7 @@ For purposes of this subchapter, the term “export promotion program” means a
 
 &emsp;(B) the acceptance of private notices and advertisements in connection with the printing and distribution of such documents.
 
-(2) Any fees received by the Secretary pursuant to paragraph (1) shall be deposited in a separate account or accounts which may be used to defray directly the costs incurred in conducting activities authorized by paragraph (1) or to repay or make advances to appropriations or other funds available for such activities.
+(2) Any fees received by the Secretary pursuant to paragraph (1) shall be deposited in a separate account or accounts which may be used to defray directly the costs incurred in conductingactivities authorized by paragraph (1) or to repay or make advances to appropriations or other funds available for such activities.
 
 (Pub. L. 99–64, title II, §201, July 12, 1985, 99 Stat. 157; Pub. L. 100–418, title II, §§2305(a), 2308(a), Aug. 23, 1988, 102 Stat. 1344, 1346.)
 

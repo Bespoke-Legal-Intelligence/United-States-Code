@@ -38,9 +38,15 @@ For purposes of this section—
 
 &emsp;The term “principal residence” has the same meaning as when used in section 121.
 
-#### (d) Carryover of credit
+#### (d) Carryforward of unused credit
 
-If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+#### (1) Rule for years in which all personal credits allowed against regular and alternative minimum tax
+
+&emsp;In the case of a taxable year to which section 26(a)(2) applies, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(2) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+
+#### (2) Rule for other years
+
+&emsp;In the case of a taxable year to which section 26(a)(2) does not apply, if the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a)(1) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and sections 23, 24, 25B, and 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
 
 #### (e) Special rules
 
@@ -92,15 +98,23 @@ For purposes of this subtitle, if a credit is allowed under this section with re
 
 #### (i) Application of section
 
-This section shall apply to property purchased after August 4, 1997, and before January 1, 2004.
+This section shall apply to property purchased after August 4, 1997, and before January 1, 2006.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 867; amended Pub. L. 105–206, title VI, §6008(d)(1)–(5), July 22, 1998, 112 Stat. 811, 812; Pub. L. 106–170, title V, §510, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–554, §1(a)(7) \[title I, §163\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 107–16, title II, §§201(b)(2)(H), 202(f)(2)(C), title VI, §618(b)(2)(E), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), Mar. 9, 2002, 116 Stat. 57.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 867; amended Pub. L. 105–206, title VI, §6008(d)(1)–(5), July 22, 1998, 112 Stat. 811, 812; Pub. L. 106–170, title V, §510, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–554, §1(a)(7) \[title I, §163\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 107–16, title II, §§201(b)(2)(H), 202(f)(2)(C), title VI, §618(b)(2)(E), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title III, §310(d), Oct. 4, 2004, 118 Stat. 1180; Pub. L. 109–58, title XIII, §1335(b)(3), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(F), (4), Dec. 21, 2005, 119 Stat. 2614, 2615.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendments note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2005—Subsec. (d). Pub. L. 109–135, §402(i)(3)(F), (H), temporarily amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.” See Effective and Termination Dates of 2005 Amendments note below.
+
+Pub. L. 109–58, §1335(b)(3), which directed amendment of subsec. (d) by substituting “this section and section 25D” for “this section”, was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendments notes below.
+
+2004—Subsec. (i). Pub. L. 108–311 substituted “2006” for “2004”.
 
 2002—Subsec. (d). Pub. L. 107–147 amended directory language of Pub. L. 107–16, §618(b)(2)(E). See 2001 Amendment note below.
 
@@ -120,11 +134,27 @@ Subsec. (c)(1). Pub. L. 105–206, §6008(d)(2), reenacted heading without chang
 
 Subsec. (e)(2)(B). Pub. L. 105–206, §6008(d)(3), inserted “on the date the taxpayer first occupies such residence” before the period at end.
 
-Subsec. (e)(3). Pub. L. 105–206, §6008(d)(4), substituted “on the date such residence is purchased.” for “on thedate of acquisition (within the meaning of section 72(t)(8)(D)(iii)).”
+Subsec. (e)(3). Pub. L. 105–206, §6008(d)(4), substituted “on the date such residence is purchased.” for “on the date of acquisition (within the meaning of section 72(t)(8)(D)(iii)).”
 
 Subsec. (i). Pub. L. 105–206, §6008(d)(5), substituted “Application of section” for “Termination” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply to any property purchased after December 31, 2000.”
 
+#### Effective and Termination Dates of 2005 Amendments
+
+Amendment by section 402(i)(3)(F) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1135(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(F) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 effective Jan. 1, 2004, see section 310(e)(1) of Pub. L. 108–311, set out as a note under section 1400 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
@@ -139,8 +169,4 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 23, 25, 1016 of this title.
 

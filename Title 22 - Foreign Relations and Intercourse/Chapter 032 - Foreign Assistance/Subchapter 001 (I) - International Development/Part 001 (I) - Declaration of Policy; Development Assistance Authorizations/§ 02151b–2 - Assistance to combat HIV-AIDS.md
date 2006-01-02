@@ -132,7 +132,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;(II) the number of patients currently receiving treatment for AIDS in each country that receives assistance under this chapter.
 
-&emsp;&emsp;&emsp;(ii) the progress made toward improving health care delivery systems (including the training of adequate numbers of staff) and infrastructure to ensure increased access to care and treatment;
+&emsp;&emsp;&emsp;(ii) the progress made toward improving health care delivery systems (includingthe training of adequate numbers of staff) and infrastructure to ensure increased access to care and treatment;
 
 &emsp;&emsp;&emsp;(iii) with respect to tuberculosis, the increase in the number of people treated and the increase in number of tuberculosis patients cured through each program, project, or activity receiving United States foreign assistance for tuberculosis control purposes; and
 

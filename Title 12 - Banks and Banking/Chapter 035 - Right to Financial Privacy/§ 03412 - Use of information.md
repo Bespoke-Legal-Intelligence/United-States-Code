@@ -66,9 +66,7 @@ Pub. L. 101–73, §944(2), substituted “Council and the Securities and Exchan
 
 1982—Subsec. (e). Pub. L. 97–320 added subsec. (e).
 
-#### Effective and Termination Dates of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+#### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
 

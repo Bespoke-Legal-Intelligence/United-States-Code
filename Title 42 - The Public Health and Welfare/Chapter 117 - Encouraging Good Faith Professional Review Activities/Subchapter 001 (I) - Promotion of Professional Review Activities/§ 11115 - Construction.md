@@ -14,7 +14,7 @@ Nothing in this subchapter shall be construed as affecting, or modifying any pro
 
 #### (d) Treatment of patient malpractice claims
 
-Nothing in this chapter shall be construed as affecting in any manner the rights and remedies afforded patients under any provision of Federal or State law to seek redress for any harm or injury suffered as a result of negligent treatmentor care by any physician, health care practitioner, or health care entity, or as limiting any defenses or immunities available to any physician, health care practitioner, or health care entity.
+Nothing in this chapter shall be construed as affecting in any manner the rights and remedies afforded patients under any provision of Federal or State law to seek redress for any harm or injury suffered as a result of negligent treatment or care by any physician, health care practitioner, or health care entity, or as limiting any defenses or immunities available to any physician, health care practitioner, or health care entity.
 
 (Pub. L. 99–660, title IV, §415, Nov. 14, 1986, 100 Stat. 3787; Pub. L. 100–177, title IV, §402(c), as added Pub. L. 101–239, title VI, §6103(e)(6)(A), Dec. 19, 1989, 103 Stat. 2208.)
 

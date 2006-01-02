@@ -40,11 +40,9 @@ The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A
 
 1988—Par. (1). Pub. L. 100–690 inserted “unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.” before semicolon at end.
 
-#### Effective and Termination Dates of 2001 Amendment
+#### Effective Date of 2001 Amendment
 
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
-
-Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, orafter Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
+Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

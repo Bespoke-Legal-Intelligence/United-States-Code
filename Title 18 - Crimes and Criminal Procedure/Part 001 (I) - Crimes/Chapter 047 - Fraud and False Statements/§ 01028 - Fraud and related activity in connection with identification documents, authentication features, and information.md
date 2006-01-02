@@ -16,7 +16,7 @@
 
 &emsp;(7) knowingly transfers, possesses, or uses, without lawful authority, a means of identification of another person with the intent to commit, or to aid or abet, or in connection with, any unlawful activity that constitutes a violation of Federal law, or that constitutes a felony under any applicable State or local law; or
 
-&emsp;(8) knowingly traffics in false authentication features for use in false identification documents, document-making implements, or means of identification;
+&emsp;(8) knowingly traffics in false or actual authentication features for use in false identification documents, document-making implements, or means of identification;
 
 > shall be punished as provided in subsection (b) of this section.
 
@@ -64,7 +64,7 @@
 
 &emsp;(3) either—
 
-&emsp;&emsp;(A) the production, transfer, possession, or use prohibited by this section is in or affects interstate or foreign commerce, including the transfer of a document by electronic means; or
+&emsp;&emsp;(A) the production, transfer, possession, or use prohibited by this section is in or affects interstate or foreign commerce, includingthe transfer of a document by electronic means; or
 
 &emsp;&emsp;(B) the means of identification, identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, possession, or use prohibited by this section.
 
@@ -138,9 +138,11 @@ Forfeiture; Disposition.—In the circumstance in which any person is convicted 
 
 Rule of Construction.—For purpose of subsection (a)(7), a single identification document or false identification document that contains 1 or more means of identification shall be construed to be 1 means of identification.
 
-(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, §3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, §607(b), Apr. 30, 2003, 117 Stat. 689; Pub. L. 108–275, §§2(c), 3, July 15, 2004, 118 Stat. 832; Pub. L. 108–458, title VII, §7216, Dec. 17, 2004, 118 Stat. 3833.)
+(Added Pub. L. 97–398, §2, Dec. 31, 1982, 96 Stat. 2009; amended Pub. L. 99–646, §44(a), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 100–690, title VII, §7023, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–647, title XII, §1205(e), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, §330016(1)(K), (M), (O), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–208, div. C, title II, §211(a)(1), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 104–294, title VI, §601(a)(3), (p), Oct. 11, 1996, 110 Stat. 3498, 3502; Pub. L. 105–318, §3(a)–(h)(1), Oct. 30, 1998, 112 Stat. 3007–3009; Pub. L. 106–578, §3, Dec. 28, 2000, 114 Stat. 3076; Pub. L. 108–21, title VI, §607(b), Apr. 30, 2003, 117 Stat. 689; Pub. L. 108–275, §§2(c), 3, July 15, 2004, 118 Stat. 832; Pub. L. 108–458, title VII, §7216, Dec. 17, 2004, 118 Stat. 3833; Pub. L. 109–13, div. B, title II, §203(a), May 11, 2005, 119 Stat. 315.)
 
 #### Amendments
+
+2005—Subsec. (a)(8). Pub. L. 109–13 substituted “false or actual authentication features” for “false authentication features”.
 
 2004—Subsec. (a)(7). Pub. L. 108–275, §3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
 

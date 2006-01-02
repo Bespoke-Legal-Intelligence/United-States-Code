@@ -6,7 +6,7 @@ Payments under this subchapter, pursuant to a grant or contract, may be made (af
 
 #### (b) Percentage of approved costs
 
-Except as provided in the second sentence of section 5632(c) of this title, financial assistance extended under this subchapter shall be 100 percentum of the approved costs of the program or activity involved.
+Except as provided in the second sentence of section 5632(c) of this title, financial assistance extended under this subchapter shall be 100 per centum of the approved costs of the program or activity involved.
 
 #### (c) Increase of grants to Indian tribes; waiver of liability
 
@@ -22,7 +22,7 @@ Except as provided in the second sentence of section 5632(c) of this title, fina
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 107–273 effective on the first day of the first fiscal year that begins after Nov. 2, 2002,and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, as amended, set out as a note under section 5601 of this title.
 
 #### Effective Date
 

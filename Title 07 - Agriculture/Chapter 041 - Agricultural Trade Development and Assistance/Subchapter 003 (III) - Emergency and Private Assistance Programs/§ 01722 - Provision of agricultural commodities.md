@@ -2,7 +2,7 @@
 
 #### (a) Emergency assistance
 
-Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
+Notwithstanding any other provision of law, the Administrator may provide agriculturalcommodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
 
 #### (b) Nonemergency assistance
 
@@ -104,7 +104,7 @@ Commodities provided under this subchapter shall, to the extent practicable, be 
 
 #### (B) Consultation with congressional committees
 
-&emsp;&emsp;Not later than 180 days after May 13, 2002, the Administrator shall consult with theCommittee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on progress made in carrying out this subsection.
+&emsp;&emsp;Not later than 180 days after May 13, 2002, the Administrator shall consult with the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on progress made in carrying out this subsection.
 
 #### (4) Report
 
@@ -156,7 +156,7 @@ Subsec. (b)(2). Pub. L. 96–53, §202, substituted provisions relating to encou
 
 Subsec. (b). Pub. L. 95–88, §207(3), added subsec. (b).
 
-1966—Pub. L. 89–808 substituted provisions for furnishing commodities for prescribed purposes through use of friendly governments, agencies, and organizations, using to extent practicable registered and approved nonprofit voluntary agencies, identification of source of commodities, determination by the President of the manner and terms and conditions of furnishing the commodities and for directions of the assistance toward community and self-help activities for former provisions for transfer of commodities on a grant bases to assist the prescribed programs.
+1966—Pub. L. 89–808 substituted provisions for furnishing commodities for prescribed purposes throughuse of friendly governments, agencies, and organizations, using to extent practicable registered and approved nonprofit voluntary agencies, identification of source of commodities, determination by the President of the manner and terms and conditions of furnishing the commodities and for directions of the assistance toward community and self-help activities for former provisions for transfer of commodities on a grant bases to assist the prescribed programs.
 
 1963—Pub. L. 88–205 substituted “economic and community development” for “economic developments”.
 

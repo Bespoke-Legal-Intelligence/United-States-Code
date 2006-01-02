@@ -30,5 +30,5 @@ Changes were made in phraseology.
 
 1996—Pub. L. 104–317, §206(a)(1), inserted “or agencies” after “officers” in section catchline.
 
-Subsec. (a). Pub. L. 104–317, §206(a)(2), struck out “persons” after “following” in introductory provisions and substituted “The United States or any agency thereof or any officer (or any person acting under thatofficer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office” for “Any officer of the United States or any agency thereof, or person acting under him, for any act under color of such office” in par. (1).
+Subsec. (a). Pub. L. 104–317, §206(a)(2), struck out “persons” after “following” in introductory provisions and substituted “The United States or any agency thereof or any officer (or any person acting under that officer) of the United States or of any agency thereof, sued in an official or individual capacity for any act under color of such office” for “Any officer of the United States or any agency thereof, or person acting under him, for any act under color of such office” in par. (1).
 

@@ -18,7 +18,7 @@
 
 (5) A Government corporation shall reimburse the Comptroller General of the United States for the full cost of any audit conducted by the Comptroller General under this subsection, as determined by the Comptroller General. All reimbursements received under this paragraph by the Comptroller General of the United States shall be deposited in the Treasury as miscellaneous receipts.
 
-(b) Upon request of the Comptroller General of the United States, a Government corporationshall provide to the Comptroller General of the United States all books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Government corporation and its auditor that the Comptroller General of the United States considers necessary to the performance of any audit or review under this section.
+(b) Upon request of the Comptroller General of the United States, a Government corporation shall provide to the Comptroller General of the United States all books, accounts, financial records, reports, files, workpapers, and property belonging to or in use by the Government corporation and its auditor that the Comptroller General of the United States considers necessary to the performance of any audit or review under this section.
 
 (c) Activities of the Comptroller General of the United States under this section are in lieu of any audit of the financial transactions of a Government corporation that the Comptroller General is required to make under any other law.
 
@@ -82,7 +82,7 @@ In subsection (b)(1), the words “pursuant to law” are omitted as surplus.
 
 In subsection (b)(2), the words “may make a contract” are substituted for “is authorized in his discretion to employ by contract” to eliminate unnecessary words.
 
-In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency and because of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
+In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency andbecause of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
 
 Subsection (d) is substituted for 31:850(1st sentence proviso words before 7th comma) because of the restatement.
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
 
 #### Deposit of Funds Reimbursed to Comptroller General to Appropriation of Government Accountability Office
 

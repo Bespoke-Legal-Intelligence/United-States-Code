@@ -2,7 +2,7 @@
 
 (a) The Attorney General may settle, for not more than $50,000 in any one case, a claim for personal injury, death, or damage to, or loss of, privately owned property, caused by an investigative or law enforcement officer as defined in section 2680(h) of title 28 who is employed by the Department of Justice acting within the scope of employment that may not be settled under chapter 171 of title 28. An officer or employee of the United States Government may not present a claim arising during the scope of employment. A claim may be allowed only if it is presented to the Attorney General within one year after it accrues.
 
-(b) A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
+(b) A claim may be paid under this section only if the claimant accepts the amount of thesettlement in complete satisfaction of the claim against the Government.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, §1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805; Pub. L. 105–362, title X, §1001(c), Nov. 10, 1998, 112 Stat. 3291.)
 

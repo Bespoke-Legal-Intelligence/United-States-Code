@@ -78,7 +78,3 @@ Section 311(b) of Pub. L. 92–178 provided that: “The amendment made by subse
 
 Section 213(d) of Pub. L. 91–172 provided that: “The amendments made by this section \[enacting this section, amending section 6504 of this title, and repealing section 270 of this title\] shall apply to taxable years beginning after December 31, 1969.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280A, 6212 of this title.
-

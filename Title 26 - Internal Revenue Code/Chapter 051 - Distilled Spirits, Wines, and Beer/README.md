@@ -44,10 +44,6 @@ The provisions of a prior chapter 51, Distilled Spirits, Wines, and Beer, were s
 
 &emsp;&emsp;Subchapter J, Penalties, seizures, and forfeitures relating to liquors, comprising sections 5601 to 5650, 5661 to 5663, 5671 to 5676, 5681 to 5690, and 5691 to 5693.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 5846, 6103, 6423, 6808, 7328 of this title; title 6 section 531; title 19 section 1754.
-
 
 ---
 

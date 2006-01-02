@@ -32,13 +32,75 @@ The Secretary may lease, upon terms and conditions the Secretary considers appro
 
 #### (f) Retention and use of rentals; report
 
-To the extent provided in advance in appropriations Acts, the Secretary may retain anduse money rentals received by the Secretary directly from a lease entered into under subsection (c) of this section in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
+To the extent provided in advance in appropriations Acts, the Secretary may retain and use money rentals received by the Secretary directly from a lease entered into under subsection (c) of this section in any amount the Secretary considers necessary to cover the administrative expenses of the lease, the maintenance and repair of the leased property, or environmental restoration activities at the facility where the leased property is located. Amounts retained under this subsection shall be retained in a separate fund established in the Treasury for such purpose. The Secretary shall annually submit to the Congress a report on amounts retained and amounts used under this subsection.
 
-(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952.)
+#### (g) Additional authorities
+
+(1) In addition to authority granted to the Secretary under any other provision of law, the Secretary may exercise the same authority to enter into transactions (other than contracts, cooperative agreements, and grants), subject to the same terms and conditions as the Secretary of Defense under section 2371 of title 10 (other than subsections (b) and (f) of that section).
+
+(2) In applying section 2371 of title 10 to the Secretary under paragraph (1)—
+
+&emsp;(A) the term “basic” shall be replaced by the term “research”;
+
+&emsp;(B) the term “applied” shall be replaced by the term “development”; and
+
+&emsp;(C) the terms “advanced research projects” and “advanced research” shall be replaced by the term “demonstration projects”.
+
+(3) The authority of the Secretary under paragraph (1) shall not be subject to—
+
+&emsp;(A) section 5908 of this title; or
+
+&emsp;(B) section 2182 of this title.
+
+(4)(A) The Secretary shall use such competitive, merit-based selection procedures in entering into transactions under paragraph (1), as the Secretary determines in writing to be practicable.
+
+(B) A transaction under paragraph (1) shall relate to a research, development, or demonstration project only if the Secretary determines in writing that the use of a standard contract, grant, or cooperative agreement for the project is not feasible or appropriate.
+
+(5) The Secretary may protect from disclosure, for up to 5 years after the date on which the information is developed, any information developed pursuant to a transaction under paragraph (1) that would be protected from disclosure under section 552(b)(4) of title 5, if obtained from a person other than a Federal agency.
+
+(6)(A) Not later than 90 days after August 8, 2005, the Secretary shall issue guidelines for transactions under paragraph (1).
+
+(B) The guidelines shall be published in the Federal Register for public comment in accordance with rulemaking procedures of the Department.
+
+(C) The Secretary shall not have authority to carry out transactions under paragraph (1) until the guidelines for transactions required under subparagraph (A) are final.
+
+(7) The annual report of the head of an executive agency under section 2371(h) of title 10 shall be submitted to Congress.
+
+(8)(A) In this paragraph, the term “nontraditional Government contractor” has the meaning given the term “nontraditional defense contractor” in section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+
+(B) Not later than 1 year after the date on which the final guidelines are published under paragraph (6), the Comptroller General of the United States shall submit to Congress a report describing—
+
+&emsp;(i) the use by the Department of authorities under this section, including the ability to attract nontraditional Government contractors; and
+
+&emsp;(ii) whether additional safeguards are necessary to carry out the authorities.
+
+(9) The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
+
+(10) Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2010.
+
+(Pub. L. 95–91, title VI, §646, Aug. 4, 1977, 91 Stat. 599; Pub. L. 103–160, div. C, title XXXI, §3154, Nov. 30, 1993, 107 Stat. 1952; Pub. L. 109–58, title X, §1007, Aug. 8, 2005, 119 Stat. 932.)
 
 #### Amendments
 
+2005—Subsec. (g). Pub. L. 109–58 added subsec. (g).
+
 1993—Subsecs. (c) to (f). Pub. L. 103–160 added subsecs. (c) to (f).
+
+#### Small Business Contracting
+
+Pub. L. 109–13, div. A, title VI, §6022(a), (b), May 11, 2005, 119 Stat. 285, provided that:
+
+“(a) Not later than September 30, 2005, the Department of Energy and the Small Business Administration shall enter into a memorandum of understanding setting forth an appropriate methodology for measuring the achievement of the Department of Energy with respect to awarding contracts to small businesses.
+
+“(b) The methodology set forth in the memorandum of understanding entered into under subsection (a) shall, at a minimum, include—
+
+&emsp;“(1) a method of counting the achievement of the Department of Energy in awards of—
+
+&emsp;&emsp;“(A) prime contracts; and
+
+&emsp;&emsp;“(B) subcontracts to small businesses awarded by Department of Energy management and operating, management and integration, and other facility management prime contractors; and
+
+&emsp;“(2) uniform criteria that could be used by prime contractors when measuring the value and number of subcontracts awarded to small businesses.”
 
 #### Pilot Program Relating to Use of Proceeds of Disposal or Utilization of Certain Department of Energy Assets
 

@@ -34,7 +34,7 @@
 
 #### (2) Individuals
 
-&emsp;No Federal agency shall make a grant to any individual unless such individual agrees as acondition of such grant that the individual will not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in conducting any activity with such grant.
+&emsp;No Federal agency shall make a grant to any individual unless such individual agrees as a condition of such grant that the individual will not engage in the unlawful manufacture, distribution, dispensation, possession, or use of a controlled substance in conducting any activity with such grant.
 
 #### (b) Suspension, termination, or debarment of grantee
 

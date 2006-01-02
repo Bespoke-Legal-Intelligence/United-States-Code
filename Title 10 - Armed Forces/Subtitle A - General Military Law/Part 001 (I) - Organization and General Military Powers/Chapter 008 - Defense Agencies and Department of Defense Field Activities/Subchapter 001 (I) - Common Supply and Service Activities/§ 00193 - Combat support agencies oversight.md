@@ -70,6 +70,10 @@ Subsec. (e). Pub. L. 104–201, §1112(c)(2), substituted “DIA, NSA, and NIMA�
 
 Subsec. (f)(4). Pub. L. 104–201, §1112(c)(3), substituted “The National Imagery and Mapping Agency” for “Defense Mapping Agency”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 1996 Amendment
 
 Section 1124 of title XI of div. A of Pub. L. 104–201 provided that: “This title \[enacting section 424 and chapter 22 of this title and sections 404e and 404f of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44\] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act \[Sept. 23, 1996\], whichever is later.”

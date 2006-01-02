@@ -208,7 +208,7 @@
 
 #### (2) Restriction on member business loans
 
-&emsp;Notwithstanding section 1757a(a) of this title, an insured credit union that is undercapitalized may not make any increase in the total amount of member business loans (as defined in section 1757a(c) of this title) outstanding at that credit union at any one time, until such time as the credit union becomes adequately capitalized.
+&emsp;Notwithstanding section 1757a(a) of this title, an insured credit union that is undercapitalized may not make any increase in thetotal amount of member business loans (as defined in section 1757a(c) of this title) outstanding at that credit union at any one time, until such time as the credit union becomes adequately capitalized.
 
 #### (h) More stringent treatment based on other supervisory criteria
 

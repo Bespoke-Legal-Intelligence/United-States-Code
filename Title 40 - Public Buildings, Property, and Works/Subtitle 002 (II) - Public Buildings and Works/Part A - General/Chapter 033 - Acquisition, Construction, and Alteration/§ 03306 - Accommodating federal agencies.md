@@ -30,7 +30,7 @@ Unit of general local government.—The term “unit of general local government
 
 (b)
 
-Duties of Administrator.—To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplishthe purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
+Duties of Administrator.—To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
 
 &emsp;(1) acquire and utilize space in suitable buildings of historical, architectural, or cultural significance, unless use of the space would not prove feasible and prudent compared with available alternatives;
 

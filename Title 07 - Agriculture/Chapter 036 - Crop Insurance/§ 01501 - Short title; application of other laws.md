@@ -74,7 +74,7 @@ Pub. L. 96–365, §1, Sept, 26, 1980, 94 Stat. 1312, provided: “That this Act
 
 #### Regulations
 
-Pub. L. 106–224, title I, §172, June 20, 2000, 114 Stat. 397, provided that: “Not later than 120 days after the date of the enactment of this Act \[June 20, 2000\], the Secretary of Agriculture shall promulgate regulationsto carry out this Act \[probably means this title, see Tables for classification\] and the amendments made by this Act.”
+Pub. L. 106–224, title I, §172, June 20, 2000, 114 Stat. 397, provided that: “Not later than 120 days after thedate of the enactment of this Act \[June 20, 2000\], the Secretary of Agriculture shall promulgate regulations to carry out this Act \[probably means this title, see Tables for classification\] and the amendments made by this Act.”
 
 #### Savings Clause
 

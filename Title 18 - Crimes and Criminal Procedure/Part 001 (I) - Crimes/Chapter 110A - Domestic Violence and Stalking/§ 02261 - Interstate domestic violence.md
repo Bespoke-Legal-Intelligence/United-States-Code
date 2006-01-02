@@ -6,11 +6,11 @@ Offenses.—
 
 &emsp;(1)
 
-Travel or conduct of offender.—A person who travels in interstate or foreign commerce or enters or leaves Indian country with the intent to kill, injure, harass, or intimidate a spouse or intimate partner, and who, in the course of or as a result of such travel, commits or attempts to commit a crime of violence against that spouse or intimate partner, shall be punished as provided in subsection (b).
+Travel or conduct of offender.—A person who travels in interstate or foreign commerce or enters or leaves Indian country or within the special maritime and territorial jurisdiction of the United States with the intent to kill, injure, harass, or intimidate a spouse, intimate partner, or dating partner, and who, in the course of or as a result of such travel, commits or attempts to commit a crime of violence against that spouse, intimate partner, or dating partner, shall be punished as provided in subsection (b).
 
 &emsp;(2)
 
-Causing travel of victim.—A person who causes a spouse or intimate partner to travel in interstate or foreign commerce or to enter or leave Indian country by force, coercion, duress, or fraud, and who, in the course of, as a result of, or to facilitate such conduct or travel, commits or attempts to commit a crime of violence against that spouse or intimate partner, shall be punished as provided in subsection (b).
+Causing travel of victim.—A person who causes a spouse, intimate partner, or dating partner to travel in interstate or foreign commerce or to enter or leave Indian country by force, coercion, duress, or fraud, and who, in the course of, as a result of, or to facilitate such conduct or travel, commits or attempts to commit a crime of violence against that spouse, intimate partner, or dating partner, shall be punished as provided in subsection (b).
 
 (b)
 
@@ -28,9 +28,19 @@ Penalties.—A person who violates this section or section 2261A shall be fined 
 
 > or both fined and imprisoned.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1926; amended Pub. L. 104–201, div. A, title X, §1069(b)(1), (2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 106–386, div. B, title I, §1107(a), Oct. 28, 2000, 114 Stat. 1497.)
+&emsp;(6) Whoever commits the crime of stalking in violation of a temporary or permanent civil or criminal injunction, restraining order, no-contact order, or other order described in section 2266 of title 18, United States Code, shall be punished by imprisonment for not less than 1 year.
+
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1926; amended Pub. L. 104–201, div. A, title X, §1069(b)(1), (2), Sept. 23, 1996, 110 Stat. 2656; Pub. L. 106–386, div. B, title I, §1107(a), Oct. 28, 2000, 114 Stat. 1497; Pub. L. 109–162, title I, §§114(b), 116(a), 117(a), Jan. 5, 2006, 119 Stat. 2988, 2989.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–162, §117(a), inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
+
+Pub. L. 109–162, §116(a)(1), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+
+Subsec. (a)(2). Pub. L. 109–162, §116(a)(2), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+
+Subsec. (b)(6). Pub. L. 109–162, §114(b), added par. (6).
 
 2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 

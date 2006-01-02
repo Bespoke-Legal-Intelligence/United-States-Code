@@ -44,7 +44,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the operations loss deduction shall not be allowed, and
 
-&emsp;&emsp;(B) the deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received on certain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
+&emsp;&emsp;(B) the deductions allowed by sections 243 (relating to dividends received by corporations), 244 (relating to dividends received oncertain preferred stock of public utilities), and 245 (relating to dividends received from certain foreign corporations) shall be computed without regard to section 246(b) as modified by section 805(a)(4).
 
 #### (d) Offset defined
 
@@ -85,8 +85,4 @@ A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125;
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 381, 805, 844, 1351 of this title.
 

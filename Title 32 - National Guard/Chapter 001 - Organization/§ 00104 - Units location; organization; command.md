@@ -1,12 +1,12 @@
 ### §104. Units: location; organization; command
 
-(a) Each State or Territory and Puerto Rico may fix the location of the units and headquarters of its National Guard.
+(a) Each State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands may fix the location of the units and headquarters of its National Guard.
 
-(b) Except as otherwise specifically provided in this title, the organization of the Army National Guard and the composition of its units shall be the same as those prescribed for the Army, subject, in time of peace, to such general exceptions as the Secretary of the Army may authorize; and the organization of the Air National Guard and the composition of its units shall be the same as those prescribed for the Air Force, subject, in time of peace, to such general exceptions as the Secretary of the Air Force may authorize.
+(b) Except as otherwise specifically provided in this title, the organization of the Army National Guard and the composition of its units shall be the same as those prescribed for theArmy, subject, in time of peace, to such general exceptions as the Secretary of the Army may authorize; and the organization of the Air National Guard and the composition of its units shall be the same as those prescribed for the Air Force, subject, in time of peace, to such general exceptions as the Secretary of the Air Force may authorize.
 
-(c) To secure a force the units of which when combined will form complete higher tactical units, the President may designate the units of the National Guard, by branch of the Army or organization of the Air Force, to be maintained in each State and Territory, Puerto Rico, and the District of Columbia. However, no change in the branch, organization, or allotment of a unit located entirely within a State may be made without the approval of its governor.
+(c) To secure a force the units of which when combined will form complete higher tactical units, the President may designate the units of the National Guard, by branch of the Army or organization of the Air Force, to be maintained in each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands. However, no change in the branch, organization, or allotment of a unit located entirely within a State may be made without the approval of its governor.
 
-(d) To maintain appropriate organization and to assist in training and instruction, the President may assign the National Guard to divisions, wings, and other tactical units, and may detail commissioned officers of the National Guard or of the Regular Army or the Regular Air Force, as the case may be, to command those units. However, the commanding officer of a unit organized wholly within a State or Territory, Puerto Rico, or the District of Columbia may not be displaced under this subsection.
+(d) To maintain appropriate organization and to assist in training and instruction, the President may assign the National Guard to divisions, wings, and other tactical units, and may detail commissioned officers of the National Guard or of the Regular Army or the Regular Air Force, as the case may be, to command those units. However, the commanding officer of a unit organized wholly within a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands may not be displaced under this subsection.
 
 (e) To insure prompt mobilization of the National Guard in time of war or other emergency, the President may, in time of peace, detail a commissioned officer of the Regular Army to perform the duties of chief of staff for each fully organized division of the Army National Guard, and a commissioned officer of the Regular Air Force to perform the duties of the corresponding position for each fully organized wing of the Air National Guard.
 
@@ -16,7 +16,7 @@
 
 &emsp;(2) the actual strength of such an organization in commissioned officers or enlisted members may not be reduced below the minimum strength prescribed by the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 100–456, div. A, title XII, §1234(b)(1), (2), Sept. 29, 1988, 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 598; Pub. L. 100–456, div. A, title XII, §1234(b)(1), (2), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(2)–(4), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -70,6 +70,12 @@ In subsection (f), the words “have received compensation from the United State
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+
+Subsec. (c). Pub. L. 109–163, §1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
+
+Subsec. (d). Pub. L. 109–163, §1057(b)(3), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia”.
+
 1988—Subsec. (a). Pub. L. 100–456, §1234(b)(2), substituted “Each State or Territory and Puerto Rico” for “Each State and Territory, Puerto Rico, and the Canal Zone”.
 
 Subsecs. (c), (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
@@ -84,7 +90,7 @@ Pub. L. 107–314, div. A, title V, §511(a), Dec. 2, 2002, 116 Stat. 2536, prov
 
 &emsp;“(3) The Comptroller General's assessment of the process for, and the nature and extent of, the administrative or judicial corrective action taken by the Secretary of Defense, the Secretary of the Army, and the Secretary of the Air Force as a result of Inspector General investigations or other investigations in which allegations against senior National Guard officers are substantiated in whole or in part.
 
-&emsp;“(4) The Comptroller General's determination of the effectiveness of the Federal protections provided for members or employees of the National Guard who report allegations of waste, fraud, abuse, or mismanagement and the nature and extent to which corrective action is taken against those in the National Guard who retaliate against such members or employees.”
+&emsp;“(4) The Comptroller General's determination of the effectiveness of the Federal protections providedfor members or employees of the National Guard who report allegations of waste, fraud, abuse, or mismanagement and the nature and extent to which corrective action is taken against those in the National Guard who retaliate against such members or employees.”
 
 #### Study of State and Federal Missions of National Guard
 

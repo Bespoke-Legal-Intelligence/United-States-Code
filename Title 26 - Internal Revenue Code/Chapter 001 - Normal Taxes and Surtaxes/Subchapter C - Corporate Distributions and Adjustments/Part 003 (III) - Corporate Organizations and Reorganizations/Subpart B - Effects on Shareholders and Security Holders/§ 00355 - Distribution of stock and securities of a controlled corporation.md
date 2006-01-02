@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(ii) an amount of stock in the controlled corporation constituting control within the meaning of section 368(c), and it is established to the satisfaction of the Secretary that the retention by the distributing corporation of stock (or stock and securities) in the controlled corporation was not in pursuance of a plan having as one of its principal purposes the avoidance of Federal income tax,
 
-> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the income of) such shareholder or security holder on the receipt of such stock or securities.
+> &emsp;then no gain or loss shall be recognized to (and no amount shall be includible in the incomeof) such shareholder or security holder on the receipt of such stock or securities.
 
 #### (2) Non pro rata distributions, etc.
 
@@ -66,7 +66,7 @@
 
 #### (4) Cross references
 
-&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but</b><b>not including property to which paragraph (3)(C) applies), see section 356.</b>
+&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (3)(C) applies), see section 356.</b>
 
 &emsp;&emsp;<b>(B) For treatment of accrued interest in the case of an exchange described in paragraph (3)(C), see section 61.</b>
 
@@ -250,7 +250,7 @@
 
 #### (1) General rule
 
-&emsp;If there is a distribution to which this subsection applies, any stock or securities in thecontrolled corporation shall not be treated as qualified property for purposes of subsection (c)(2) of this section or section 361(c)(2).
+&emsp;If there is a distribution to which this subsection applies, any stock or securities in the controlled corporation shall not be treated as qualified property for purposes of subsection (c)(2) of this section or section 361(c)(2).
 
 #### (2) Distributions to which subsection applies
 
@@ -330,7 +330,7 @@
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out thepurposes of this subsection, including regulations—
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
 
 &emsp;&emsp;(A) providing for the application of this subsection where there is more than 1 controlled corporation,
 
@@ -428,7 +428,7 @@ Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as s
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -478,9 +478,5 @@ Amendment by Pub. L. 100–203 applicable to distributions or transfers after De
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, and to exchanges which occur after Dec. 31, 1980, and which do not occur in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11, Bankruptcy, commenced on or before Dec. 31, 1980, with an exception permitting the debtor to make the amendment applicable to such cases, proceedings or exchanges commencing after Sept. 30, 1979, see section 7(c), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 83, 108, 306, 312, 338, 346, 351, 355, 356, 358, 361, 367, 368, 424, 815, 877, 995, 1223, 1248, 1276, 2107, 2501, 6038B, 6166 of this title.
+Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencing after Dec. 31, 1980, and to exchanges which occur after Dec. 31, 1980, and which do not occur in a bankruptcy case or similar judicial proceeding or in a proceeding under Title 11, Bankruptcy, commenced on or before Dec. 31, 1980, with an exception permitting thedebtor to make the amendment applicable to such cases, proceedings or exchanges commencing after Sept. 30, 1979, see section 7(c), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 

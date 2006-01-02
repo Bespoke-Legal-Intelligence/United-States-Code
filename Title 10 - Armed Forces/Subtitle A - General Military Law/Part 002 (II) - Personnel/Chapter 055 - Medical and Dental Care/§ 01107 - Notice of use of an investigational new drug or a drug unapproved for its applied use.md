@@ -36,15 +36,9 @@ Records of Use.—The Secretary of Defense shall ensure that the medical records
 
 (f)
 
-Limitation and Waiver.—(1) In the case of the administration of an investigational new drug or a drug unapproved for its applied use to a member of the armed forces in connection with the member's participation in a particular military operation, the requirement that the member provide prior consent to receive the drug in accordance with the prior consent requirement imposed under section 505(i)(4) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)(4)) may be waived only by the President. The President may grant such a waiver only if the President determines, in writing, that obtaining consent—
+Limitation and Waiver.—(1) In the case of the administration of an investigational new drug or a drug unapproved for its applied use to a member of the armed forces in connection with the member's participation in a particular military operation, the requirement that the member provide prior consent to receive the drug in accordance with the prior consent requirement imposed under section 505(i)(4) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)(4)) may be waived only by the President. The President may grant such a waiver only if the President determines, in writing, that obtaining consent is not in the interests of national security.
 
-&emsp;(A) is not feasible;
-
-&emsp;(B) is contrary to the best interests of the member; or
-
-&emsp;(C) is not in the interests of national security.
-
-(2) In making a determination to waive the prior consent requirement on a ground described in subparagraph (A) or (B) of paragraph (1), the President shall apply the standards and criteria that are set forth in the relevant FDA regulations for a waiver of the prior consent requirement on that ground.
+(2) The waiver authority provided in paragraph (1) shall not be construed to apply to any case other than a case in which prior consent for administration of a particular drug is required by reason of a determination by the Secretary of Health and Human Services that such drug is subject to the investigational new drug requirements of section 505(i) of the Federal Food, Drug, and Cosmetic Act.
 
 (3) The Secretary of Defense may request the President to waive the prior consent requirement with respect to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the armed forces in connection with the member's participation in a particular military operation. With respect to any such administration—
 
@@ -66,9 +60,19 @@ Definitions.—In this section:
 
 &emsp;(2) The term “drug unapproved for its applied use” means a drug administered for a use not described in the approved labeling of the drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355).
 
-(Added Pub. L. 105–85, div. A, title VII, §766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, §731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(7), Nov. 24, 2003, 117 Stat. 1611.)
+(Added Pub. L. 105–85, div. A, title VII, §766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, §731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(7), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VII, §726(a), Oct. 28, 2004, 118 Stat. 1992.)
 
 #### Amendments
+
+2004—Subsec. (f)(1). Pub. L. 108–375, §726(a)(1), substituted “obtaining consent is” for “obtaining consent—
+
+&emsp;“(A) is not feasible;
+
+&emsp;“(B) is contrary to the best interests of the member; or
+
+&emsp;“(C) is”.
+
+Subsec. (f)(2). Pub. L. 108–375, §726(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In making a determination to waive the prior consent requirement on a ground described in subparagraph (A) or (B) of paragraph (1), the President shall apply the standards and criteria that are set forth in the relevant FDA regulations for a waiver of the prior consent requirement on that ground.”
 
 2003—Subsec. (f)(4)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “The term ‘congressional defense committee’ means each of the following:
 
@@ -86,7 +90,7 @@ Subsecs. (f), (g). Pub. L. 105–261, §731(a)(1), added subsec. (f) and redesig
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VII, §731(a)(2), Oct. 17, 1998, 112 Stat. 2071, provided that: “Subsection (f) of section 1107 of title 10, United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the Armed Forces in connection with the member's participation in a particular military operation on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title VII, §731(a)(2), Oct. 17, 1998, 112 Stat. 2071, provided that: “Subsection (f) of section 1107 of title 10, United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for itsapplied use to a member of the Armed Forces in connection with the member's participation in a particular military operation on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
 
 #### Waivers of Requirement for Prior Consent Granted Before October 17, 1998
 
@@ -180,13 +184,9 @@ Sec. 5. <i>Training for Military Personnel</i>. (a) The DoD shall provide ongoin
 
 (d) The DoD shall keep operational commanders informed of the overall requirements of successful protocol execution and their role, with the support of medical personnel, in ensuring successful execution of the protocol.
 
-Sec. 6. <i>Scope</i>. (a) This order applies to the consideration and Presidential approval of a waiver of informedconsent under 10 U.S.C. 1107 and does not apply to other FDA regulations.
+Sec. 6. <i>Scope</i>. (a) This order applies to the consideration and Presidential approval of a waiver of informed consent under 10 U.S.C. 1107 and does not apply to other FDA regulations.
 
 (b) This order is intended only to improve the internal management of the Federal Government. Nothing contained in this order shall create any right or benefit, substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1107a of this title.
 

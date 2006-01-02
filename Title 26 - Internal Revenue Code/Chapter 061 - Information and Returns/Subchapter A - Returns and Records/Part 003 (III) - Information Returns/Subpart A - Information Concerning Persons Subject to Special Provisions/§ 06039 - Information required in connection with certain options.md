@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;<b>(2) the term “employee stock purchase plan” </b><b><sup>1</sup></b> see section 423(b).
 
-(Added Pub. L. 88–272, title II, §221(b)(1), Feb. 26, 1964, 78 Stat. 73; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §7(a), Dec. 29, 1979, 93 Stat. 1276; Pub. L. 97–34, title II, §251(b)(5), Aug. 13, 1981, 95Stat. 259; Pub. L. 101–508, title XI, §11801(c)(9)(J), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 105–206, title VI, §6023(20), July 22, 1998, 112 Stat. 825.)
+(Added Pub. L. 88–272, title II, §221(b)(1), Feb. 26, 1964, 78 Stat. 73; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §7(a), Dec. 29, 1979, 93 Stat. 1276; Pub. L. 97–34, title II, §251(b)(5), Aug. 13, 1981, 95 Stat. 259; Pub. L. 101–508, title XI, §11801(c)(9)(J), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 105–206, title VI, §6023(20), July 22, 1998, 112 Stat. 825.)
 
 #### Prior Provisions
 
@@ -88,11 +88,7 @@ Section applicable to stock transferred pursuant to options exercised on or afte
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 424, 6724 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

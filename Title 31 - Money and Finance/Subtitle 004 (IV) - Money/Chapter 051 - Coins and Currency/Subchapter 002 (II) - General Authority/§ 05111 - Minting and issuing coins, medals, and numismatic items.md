@@ -32,7 +32,7 @@ Determination.—
 
 &emsp;&emsp;(A)
 
-In general.—Any determination of the Secretary referred to in paragraph (2) shallnot be reviewable in any administrative proceeding or court of the United States.
+In general.—Any determination of the Secretary referred to in paragraph (2) shall not be reviewable in any administrative proceeding or court of the United States.
 
 &emsp;&emsp;(B)
 
@@ -168,7 +168,7 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
-Pub. L. 108–447, div. B, title I, §124, Dec. 8, 2004, 118 Stat. 2871, recognizing members of public safety agencies killed in the terrorist attacks in the United States on September 11, 2001.
+Pub. L. 108–447, div. B, title I, §124, Dec. 8, 2004, 118 Stat. 2871, as amended by Pub. L. 109–13, div. A, title VI, §6060, May 11, 2005, 119 Stat. 297, recognizing members of public safety agencies killed in the terrorist attacks in the United States on Sept. 11, 2001.
 
 Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746, recognizing Reverend Doctor Martin Luther King, Jr. and his widow Coretta Scott King.
 

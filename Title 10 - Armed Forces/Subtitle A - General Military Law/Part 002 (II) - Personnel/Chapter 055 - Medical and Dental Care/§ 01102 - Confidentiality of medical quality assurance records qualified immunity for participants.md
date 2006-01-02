@@ -22,7 +22,7 @@ Authorized Disclosure and Testimony.—(1) Subject to paragraph (2), a medical q
 
 &emsp;(D) To a hospital, medical center, or other institution that provides health care services, if such medical quality assurance record or testimony is needed by such institution to assess the professional qualifications of any health care provider who is or was a member or employee of the Department of Defense and who has applied for or been granted authority or employment to provide health care services in or on behalf of such institution.
 
-&emsp;(E) To an officer, employee, or contractor of the Department of Defense who has a need for such record or testimony to perform official duties.
+&emsp;(E) To an officer, employee, or contractor of the Department of Defense who has a need forsuch record or testimony to perform official duties.
 
 &emsp;(F) To a criminal or civil law enforcement agency or instrumentality charged under applicable law with the protection of the public health or safety, if a qualified representative of such agency or instrumentality makes a written request that such record or testimony be provided for a purpose authorized by law.
 
@@ -34,7 +34,7 @@ Authorized Disclosure and Testimony.—(1) Subject to paragraph (2), a medical q
 
 Disclosure for Certain Purposes.—(1) Nothing in this section shall be construed as authorizing or requiring the withholding from any person or entity aggregate statistical information regarding the results of Department of Defense medical quality assurance programs.
 
-(2) Nothing in this section shall be construed as authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the General Accounting Office if such record pertains to any matter within their respective jurisdictions.
+(2) Nothing in this section shall be construed as authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the Comptroller General if such record pertains to any matter within their respective jurisdictions.
 
 (e)
 
@@ -50,7 +50,7 @@ Limitation on Civil Liability.—A person who participates in or provides inform
 
 (h)
 
-Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds thatthe information was presented during meetings of a review body that are part of a medical quality assurance program.
+Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 
 (i)
 
@@ -70,9 +70,11 @@ Definitions.—In this section:
 
 Penalty.—Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
-(Added Pub. L. 99–661, div. A, title VII, §705(a)\[(1)\], Nov. 14, 1986, 100 Stat. 3902; amended Pub. L. 100–180, div. A, title XII, §1231(5), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title VI, §653(f), Nov. 29, 1989, 103 Stat. 1463.)
+(Added Pub. L. 99–661, div. A, title VII, §705(a)\[(1)\], Nov. 14, 1986, 100 Stat. 3902; amended Pub. L. 100–180, div. A, title XII, §1231(5), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title VI, §653(f), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 108–375, div. A, title X, §1084(c)(2), Oct. 28, 2004, 118 Stat. 2061.)
 
 #### Amendments
+
+2004—Subsec. (d)(2). Pub. L. 108–375 substituted “Comptroller General” for “General Accounting Office”.
 
 1989—Subsec. (j)(1). Pub. L. 101–189 substituted “November 14, 1986” for “the date of the enactment of this section”.
 

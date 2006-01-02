@@ -2,7 +2,7 @@
 
 #### (a) Treatment of gain as ordinary income
 
-In the case of a sale or exchange of property, directly or indirectly, between related persons,any gain recognized to the transferor shall be treated as ordinary income if such property is, in the hands of the transferee, of a character which is subject to the allowance for depreciation provided in section 167.
+In the case of a sale or exchange of property, directly or indirectly, between related persons, any gain recognized to the transferor shall be treated as ordinary income if such property is, in the hands of the transferee, of a character which is subject to the allowance for depreciation provided in section 167.
 
 #### (b) Related persons
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 96–471 substituted provisions defining an “80-percent o
 
 1976—Pub. L. 94–455 substituted “sale of depreciable property between certain related taxpayers” for “sale of certain property between spouses or between an individual and a controlled corporation” in section catchline.
 
-Subsec. (a). Pub. L. 94–455 substituted provisions for transactions between related persons for such transactions (1) between a husband and wife; or (2) betweenan individual and a corporation more than 80 percent in value of the outstanding stock of which is owned by such individual, his spouse, and his minor children and minor grandchildren and “any gain recognized to the transferee shall be treated as ordinary income if such property is, in the hands of the transferee, subject to the allowance for depreciation provided in section 167” for “any gain recognized to the transferor from the sale or exchange of such property shall be considered as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+Subsec. (a). Pub. L. 94–455 substituted provisions for transactions between related persons for such transactions (1) between a husband and wife; or (2) between an individual and a corporation more than 80 percent in value of the outstanding stock of which is owned by such individual, his spouse, and his minor children and minor grandchildren and “any gain recognized to the transferee shall be treated as ordinary income if such property is, in the hands of the transferee, subject to the allowance for depreciation provided in section 167” for “any gain recognized to the transferor from the sale or exchange of such property shall be considered as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
 Subsec. (b). Pub. L. 94–455 substituted definition of “related persons” for prior provision making section applicable only to sales or exchanges of depreciable property.
 
@@ -127,8 +127,4 @@ Section 701(v)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 #### Effective Date of 1976 Amendment
 
 Section 2129(b) of Pub. L. 94–455 provided that: “The amendment made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Oct. 4, 1976\]. For purposes of the preceding sentence, a sale or exchange is considered to have occurred on or before such date of enactment if such sale or exchange is made pursuant to a binding contract entered into on or before that date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 453 of this title.
 

@@ -36,8 +36,6 @@ Provisions of title 5 relating to appointments, referred to in subsec. (c), are 
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
-The tort claim provisions of title 28, referred to in subsec. (g), are the provisions of the Federal Tort Claims Act, which is classified generally to section 1346(b) and to chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
-
 #### Prior Provisions
 
 A prior section 3788, Pub. L. 90–351, title I, §810, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204, contained in part provisions similar to subsec. (a) of this section, prior to repeal by section 609B(e) of Pub. L. 98–473.

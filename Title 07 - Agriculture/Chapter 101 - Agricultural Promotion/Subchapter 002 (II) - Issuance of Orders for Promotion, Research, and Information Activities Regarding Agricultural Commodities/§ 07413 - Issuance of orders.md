@@ -32,7 +32,7 @@
 
 #### (2) Consideration of proposed order
 
-&emsp;If the Secretary determines that a proposed order is consistent with and will effectuate thepurpose of this subchapter, the Secretary shall publish the proposed order in the Federal Register and give due notice and opportunity for public comment on the proposed order.
+&emsp;If the Secretary determines that a proposed order is consistent with and will effectuate the purpose of this subchapter, the Secretary shall publish the proposed order in the Federal Register and give due notice and opportunity for public comment on the proposed order.
 
 #### (3) Existence of other orders
 

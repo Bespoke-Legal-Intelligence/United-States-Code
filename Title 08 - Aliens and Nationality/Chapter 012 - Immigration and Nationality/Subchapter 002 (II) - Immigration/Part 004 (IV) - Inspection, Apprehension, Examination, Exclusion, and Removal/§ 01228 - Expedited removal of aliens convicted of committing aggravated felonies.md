@@ -12,7 +12,7 @@
 
 #### (3) Expedited proceedings
 
-&emsp;(A) Notwithstanding any other provision of law, the Attorney General shall provide for the initiation and, to the extent possible, the completion of removal proceedings, and any administrative appeals thereof, in the case of any alien convicted of an aggravated felony before the alien's release from incarceration for the underlying aggravated felony.
+&emsp;(A) Notwithstanding any other provision of law, the Attorney General shall provide forthe initiation and, to the extent possible, the completion of removal proceedings, and any administrative appeals thereof, in the case of any alien convicted of an aggravated felony before the alien's release from incarceration for the underlying aggravated felony.
 
 &emsp;(B) Nothing in this section shall be construed as requiring the Attorney General to effect the removal of any alien sentenced to actual incarceration, before release from the penitentiary or correctional institution where such alien is confined.
 
@@ -94,7 +94,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 &emsp;The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this chapter, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of removal from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of removal pursuant to the terms of such stipulation.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Pub. L. 100–690, title VII, §7347(a), Nov. 18, 1988, 102 Stat. 4471; amended Pub. L. 101–649, title V, §506(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §309(b)(10), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–322, title XIII, §130004(a), (c), Sept. 13, 1994, 108 Stat. 2026, 2027; Pub. L. 103–416, title II, §§223(a), 224(a), Oct. 25, 1994, 108 Stat. 4322; Pub. L. 104–132, title IV, §§440(g), 442(a), (c), Apr. 24, 1996, 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D),\(10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), Sept. 30, 1996, 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 4, §238, formerly ch. 5, §242A, as added Pub. L. 100–690, title VII, §7347(a), Nov. 18, 1988, 102 Stat. 4471; amended Pub. L. 101–649, title V, §506(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §309(b)(10), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–322, title XIII, §130004(a), (c), Sept. 13, 1994, 108 Stat. 2026, 2027; Pub. L. 103–416, title II, §§223(a), 224(a), Oct. 25, 1994, 108 Stat. 4322; Pub. L. 104–132, title IV, §§440(g), 442(a), (c), Apr. 24, 1996, 110 Stat. 1278–1280; renumbered ch. 4, §238, and amended Pub. L. 104–208, div. C, title III, §§304(c)(1), 306(d), 308(b)(5), (c)(1), (4)(A), (e)(1)(F), (2)(D), (10), (g)(1), (2)(A), (C), (5)(A)(ii), (C), (D), (10)(H), 374(a), title VI, §671(b)(13), (c)(5), (6), Sept. 30, 1996, 110 Stat. 3009–597, 3009–612, 3009–615, 3009–616, 3009–619, 3009–620, 3009–622, 3009–623, 3009–625, 3009–647, 3009–722, 3009–723.)
 
 #### References in Text
 
@@ -300,7 +300,7 @@ Section 130007 of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, ti
 
 “(a)
 
-In General.—Subject to the availability of appropriations, the Attorney General may expand theprogram authorized by section\[s\] 238(a)(3) and 239(d) of the Immigration and Nationality Act \[8 U.S.C. 1228(a)(3), 1229(d)\] to ensure that such aliens are immediately deportable upon their release from incarceration.
+In General.—Subject to the availability of appropriations, the Attorney General may expand the program authorized by section\[s\] 238(a)(3) and 239(d) of the Immigration and Nationality Act \[8 U.S.C. 1228(a)(3), 1229(d)\] to ensure that such aliens are immediately deportable upon their release from incarceration.
 
 “(b)
 

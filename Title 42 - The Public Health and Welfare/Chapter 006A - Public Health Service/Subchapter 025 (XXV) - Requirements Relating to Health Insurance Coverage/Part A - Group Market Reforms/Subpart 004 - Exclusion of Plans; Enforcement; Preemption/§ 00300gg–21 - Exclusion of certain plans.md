@@ -92,7 +92,7 @@ For purposes of this part—
 
 #### References in Text
 
-Section 300gg–91(c)(4) of this title, referred to in subsec. (d)(3), was in the original “section 27971(c)(4)” and was translated as reading “section 2791(c)(4)”, meaning section 2791(c)(4) of act July 1, 1944, as added by Pub. L. 104–191, §102(a), to reflect the probable intent of Congress. Act July 1, 1944, does not contain a section 27971.
+Section 300gg–91(c)(4) of this title, referred to in subsec. (d)(3), was in the original “section 27971(c)(4)” andwas translated as reading “section 2791(c)(4)”, meaning section 2791(c)(4) of act July 1, 1944, as added by Pub. L. 104–191, §102(a), to reflect the probable intent of Congress. Act July 1, 1944, does not contain a section 27971.
 
 #### Amendments
 

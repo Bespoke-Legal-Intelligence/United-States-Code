@@ -30,7 +30,3 @@ The words “in his discretion” are omitted as surplusage. The last 10 words o
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 515, 1166, 1174 of this title; title 14 section 286a.
-

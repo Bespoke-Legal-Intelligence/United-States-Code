@@ -12,7 +12,7 @@ The purpose of the Initiative is to provide funds to enable the Director of NIHâ
 
 &emsp;(2) to enhance collaborative efforts among the Institutes to conduct and support multidisciplinary research in the areas that the Director deems most promising; and
 
-&emsp;(3) in coordination with the Food and Drug Administration, to increase the development of adequate pediatric clinical trials and pediatric use information to promote the safer and more effective use of prescription drugs in the pediatric population.
+&emsp;(3) in coordination with the Food and Drug Administration, to increase the development of adequate pediatric clinical trials and pediatric use information to promote the safer andmore effective use of prescription drugs in the pediatric population.
 
 #### (c) Duties
 

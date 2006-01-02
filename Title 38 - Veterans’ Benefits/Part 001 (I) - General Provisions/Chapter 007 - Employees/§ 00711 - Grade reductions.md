@@ -6,7 +6,7 @@
 
 (c) The employees referred to in subsection (b) are—
 
-&emsp;(1) health-care personnel who are determined by the Secretary to be providing either directpatient-care services or services incident to direct patient-care services;
+&emsp;(1) health-care personnel who are determined by the Secretary to be providing either direct patient-care services or services incident to direct patient-care services;
 
 &emsp;(2) individuals who meet the definition of professional employee as set forth in section 7103(a)(15) of title 5; and
 

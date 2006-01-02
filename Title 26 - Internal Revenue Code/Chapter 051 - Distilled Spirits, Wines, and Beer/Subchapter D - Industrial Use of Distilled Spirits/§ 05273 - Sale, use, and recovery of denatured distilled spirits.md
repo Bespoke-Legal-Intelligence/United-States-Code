@@ -64,9 +64,5 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 655, 65
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5214, 5607 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

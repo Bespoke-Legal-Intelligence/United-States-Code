@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;(i) Administering the distribution of competitive subgrants to eligible local educational agencies under subsection (c) of this section and section 6364(d) of this title.
 
-&emsp;&emsp;&emsp;(ii) Assessing and evaluating, on a regular basis, eligible local educational agencyactivities assisted under this subpart, with respect to whether they have been effective in increasing the number of children in grades 1, 2, and 3 served under this subpart who can read at or above grade level.
+&emsp;&emsp;&emsp;(ii) Assessing and evaluating, on a regular basis, eligible local educational agency activities assisted under this subpart, with respect to whether they have been effective in increasing the number of children in grades 1, 2, and 3 served under this subpart who can read at or above grade level.
 
 #### (C) Annual reporting
 
@@ -304,7 +304,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (c)(7)(A
 
 #### Prior Provisions
 
-A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 105–220, title II, §251(b)(2)(A),Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§201, 202\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, 2681–408; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §§1604(c)–(e), 1606(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–329, 2763A–330, 2763A–334, authorized Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381a of this title.
+A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 105–220, title II, §251(b)(2)(A), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§201, 202\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, 2681–408; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §§1604(c)–(e), 1606(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–329, 2763A–330, 2763A–334, authorized Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6381a of this title.
 
 A prior section 1202 of Pub. L. 89–10 was classified to section 2782 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 

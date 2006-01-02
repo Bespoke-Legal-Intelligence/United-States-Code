@@ -2,7 +2,7 @@
 
 (a)
 
-Consultation Regarding Appointment.—Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.
+Consultation Regarding Appointment.—Before submitting a recommendation to thePresident regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.
 
 (b)
 
@@ -40,6 +40,10 @@ A prior section 201 was renumbered section 202 of this title and subsequently re
 
 1996—Pub. L. 104–201 substituted “Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance” for “Consultation regarding appointment of certain intelligence officials” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency or Director of the National Security Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation.”
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of this title.
@@ -50,39 +54,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section are containe
 
 #### Defense Intelligence Agency
 
-Section 921 of Pub. L. 102–190, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(1), Oct. 5, 1994, 108 Stat. 2858, provided that:
-
-“(a)
-
-Supervision.—Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary of Defense referred to in section 138(b)(3) of title 10, United States Code, may during the period beginning on the date of the enactment of this Act \[Dec. 5, 1991\] and ending on January 1, 1993, be assigned supervision of the Defense Intelligence Agency but, notwithstanding any other provision of law, may not be assigned day-to-day operational control over the Defense Intelligence Agency.
-
-“(b)
-
-Responsibilities of Director.—Subject to the authority, direction, and control of the Secretary of Defense, the responsibilities of the Director of the Defense Intelligence Agency during the period beginning on the date of the enactment of this Act \[Dec. 5, 1991\] and ending on January 1, 1993, shall include the following:
-
-&emsp;“(1) Providing intelligence and intelligence support to—
-
-&emsp;&emsp;“(A) the Secretary of Defense;
-
-&emsp;&emsp;“(B) the Director of Central Intelligence;
-
-&emsp;&emsp;“(C) the Chairman of the Joint Chiefs of Staff; and
-
-&emsp;&emsp;“(D) the commanders of the unified and specified combatant commands.
-
-&emsp;“(2) Managing the General Defense Intelligence Program, including—
-
-&emsp;&emsp;“(A) preparing, reviewing, and submitting to the Secretary of Defense and the Director of Central Intelligence the budget proposal for that program for any fiscal year; and
-
-&emsp;&emsp;“(B) supervising the overall execution of the budgets and programs of all functional areas within the General Defense Intelligence Program, with emphasis on science and technology activities, human intelligence activities, and imagery activities.
-
-&emsp;“(3) Ensuring that the roles and authorities of the functional managers within the Defense Intelligence Agency are strong enough to ensure that those managers have a significant role in the preparation, review, approval, and supervision of the overall execution of the budgets and programs within their areas of responsibility.
-
-> The provision of substantive intelligence by the Director to the officers named in paragraph (1) shall not be subject to prior screening by any other official.
-
-“(c)
-
-Transfer of Certain Activities To DIA.—The Secretary of the Army and the Director of the Defense Intelligence Agency shall take all required actions, including transfer of all necessary resources, in order to transfer the Armed Forces Medical Intelligence Center and the Missile and Space Intelligence Center from the Department of the Army to the control of the Defense Intelligence Agency. Transfers pursuant to the preceding sentence shall be completed not later than January 1, 1992.”
+Pub. L. 102–190, div. A, title IX, §921, Dec. 5, 1991, 105 Stat. 1452, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(1), Oct. 5, 1994, 108 Stat. 2858, provided that, during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, the Assistant Secretary of Defense referred to in section 138(b)(3) of this title could be assigned supervision of the Defense Intelligence Agency other than day-to-day operational control over the Agency, set forth the responsibilities of the Director of the Defense Intelligence Agency during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, and directed the Secretary of the Army and the Director of the Defense Intelligence Agency to take all required actions in order to transfer the Armed Forces Medical Intelligence Center and the Missile and Space Intelligence Center from the Department of the Army to the control of the Defense Intelligence Agency not later than Jan. 1, 1992.
 
 #### Joint Intelligence Center
 

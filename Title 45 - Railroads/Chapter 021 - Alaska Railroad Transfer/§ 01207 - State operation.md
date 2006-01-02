@@ -80,15 +80,17 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 #### Alaska Railroad
 
-Pub. L. 105–178, title VII, §7204, June 9, 1998, 112 Stat. 477, provided that:
+Pub. L. 109–59, title IX, §9006, Aug. 10, 2005, 119 Stat. 1925, provided that:
 
 “(a)
 
-Grants.—The Secretary may make grants to the Alaska Railroad for capital rehabilitation of and improvements to its passenger services.
+Grants.—The Secretary \[of Transportation\] shall make grants to the Alaska Railroad for capital rehabilitation and improvements benefiting its passenger operations.
 
 “(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $5,250,000 for each of fiscal years 1998 through 2003.”
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary.”
+
+Similar provisions were contained in Pub. L. 105–178, title VII, §7204, June 9, 1998, 112 Stat. 477.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “that part,”.</i>
 

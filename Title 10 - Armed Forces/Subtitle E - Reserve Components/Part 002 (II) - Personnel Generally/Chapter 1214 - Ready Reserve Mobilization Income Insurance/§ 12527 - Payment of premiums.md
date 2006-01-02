@@ -12,7 +12,7 @@ Advance Pay for Premium.—The Secretary concerned may advance to an insured mem
 
 (c)
 
-Premiums To Be Deposited in Fund.—Premium amounts deducted and withheld from thepay of insured members and premium amounts paid directly to the Secretary shall be credited monthly to the Fund.
+Premiums To Be Deposited in Fund.—Premium amounts deducted and withheld from the pay of insured members and premium amounts paid directly to the Secretary shall be credited monthly to the Fund.
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 302; amended Pub. L. 104–201, div. A, title V, §547, Sept. 23, 1996, 110 Stat. 2524; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
@@ -27,8 +27,4 @@ Subsec. (a)(2). Pub. L. 104–201, §547(2), added par. (2) and struck out forme
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12528 of this title.
 

@@ -8,7 +8,19 @@
 
 (d) Any holder of a claim or interest that has accepted or rejected a plan is deemed to have accepted or rejected, as the case may be, such plan as modified, unless, within the time fixed by the court, such holder changes such holder's previous acceptance or rejection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, §511, July 10, 1984, 98 Stat. 386.)
+(e) If the debtor is an individual, the plan may be modified at any time after confirmation of the plan but before the completion of payments under the plan, whether or not the plan has been substantially consummated, upon request of the debtor, the trustee, the United States trustee, or the holder of an allowed unsecured claim, to—
+
+&emsp;(1) increase or reduce the amount of payments on claims of a particular class provided for by the plan;
+
+&emsp;(2) extend or reduce the time period for such payments; or
+
+&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim made other than under the plan.
+
+(f)(1) Sections 1121 through 1128 and the requirements of section 1129 apply to any modification under subsection (a).
+
+(2) The plan, as modified, shall become the plan only after there has been disclosure under section 1125 as the court may direct, notice and a hearing, and such modification is approved.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2635; Pub. L. 98–353, title III, §511, July 10, 1984, 98 Stat. 386; Pub. L. 109–8, title III, §321(e), Apr. 20, 2005, 119 Stat. 96.)
 
 #### Historical and Revision Notes
 
@@ -38,9 +50,15 @@ Subsection (d) simplifies modification procedure by deeming any creditor or equi
 
 #### Amendments
 
+2005—Subsecs. (e), (f). Pub. L. 109–8 added subsecs. (e) and (f).
+
 1984—Subsec. (a). Pub. L. 98–353, §511(a), inserted “of a plan” after “After the proponent”, and “of such plan” after “modification”.
 
 Subsec. (b). Pub. L. 98–353, §511(b), substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under section 1129 of this title” for “the court, after notice and a hearing, confirms such plan, as modified, under section 1129 of this title, and circumstances warrant such modification”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

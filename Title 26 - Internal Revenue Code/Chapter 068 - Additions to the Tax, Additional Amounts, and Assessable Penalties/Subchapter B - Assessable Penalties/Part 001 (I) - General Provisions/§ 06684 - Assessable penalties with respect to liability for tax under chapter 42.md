@@ -22,7 +22,3 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 Section effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4948 of this title.
-

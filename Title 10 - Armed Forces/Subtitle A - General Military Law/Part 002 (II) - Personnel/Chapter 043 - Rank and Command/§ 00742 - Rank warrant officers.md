@@ -2,7 +2,7 @@
 
 (a) Among warrant officer grades, warrant officer grades of a higher numerical designation are senior to warrant officer grades of a lower numerical designation.
 
-(b) Rank among warrant officers of the same grade, and date of rank of warrant officers, is determined in the same manner as prescribed in section 741 of this title for officers in grades above warrant officer grades.
+(b) Rank among warrant officers of the same grade, and date of rank of warrant officers, isdetermined in the same manner as prescribed in section 741 of this title for officers in grades above warrant officer grades.
 
 (Added Pub. L. 102–190, div. A, title XI, §1114(a), Dec. 5, 1991, 105 Stat. 1502.)
 

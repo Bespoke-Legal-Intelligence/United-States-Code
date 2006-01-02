@@ -46,7 +46,7 @@ In this section:
 
 &emsp;If the Secretary promulgates any regulations applicable to subsection (b)(2) of this section, the Secretary shall—
 
-&emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indiantribes, tribal organizations, and individual tribal members; and
+&emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members; and
 
 &emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the “Negotiated Rulemaking Act of 1990”.
 

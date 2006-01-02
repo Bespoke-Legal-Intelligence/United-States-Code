@@ -10,7 +10,7 @@
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8337(a) of this title, the procedures under section 7701 of this title shall apply and the decision of the Board shall be subject to judicial review under section 7703 of this title.
 
-(e) The Office shall fix the fees for examinations made under this subchapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering this subchapter.
+(e) The Office shall fix the fees for examinations made under this subchapter by physiciansor surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering this subchapter.
 
 (f) The Office shall select three actuaries, to be known as the Board of Actuaries of the Civil Service Retirement System. The Office shall fix the pay of the members of the Board, except members otherwise in the employ of the United States. The Board shall report annually on the actuarial status of the System and furnish its advice and opinion on matters referred to it by the Office. The Board may recommend to the Office and to Congress such changes as in the Board's judgment are necessary to protect the public interest and maintain the System on a sound financial basis. The Office shall keep, or cause to be kept, such records as it considers necessary for making periodic actuarial valuations of the System. The Board shall make actuarial valuations every 5 years, or oftener if considered necessary by the Office.
 
@@ -160,7 +160,7 @@ Subsec. (p). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating t
 
 Subsec. (q). Pub. L. 102–378, §2(64)(A), redesignated subsec. (p), relating to employees of Department of Defense and Coast Guard, as (q).
 
-Subsec. (q)(1)(A), (2)(A). Pub. L. 102–378, §2(64)(B), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+Subsec. (q)(1)(A), (2)(A). Pub. L. 102–378, §2(64)(B), amended subpars. (A) generally. Prior to amendment,subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
 1991—Subsec. (m)(2). Pub. L. 102–54 substituted “Secretary” for “Administrator”.
 
@@ -258,7 +258,7 @@ Applicability; Related Provisions.—
 
 &emsp;“(1)
 
-Prospective rules.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 3502 and 8461 of this title\] shall apply with respect to moves occurring on or after the effective date of the regulations under subsection (b). Moves occurring on or after the date of the enactment of this Act \[Feb. 10, 1996\] and before the effective date of such regulations shall be subject to applicable provisions of title 5, United States Code, disregarding the amendments made by this section, except that any individual making an election pursuant to this sentence shall be ineligible to make an election otherwise allowable under paragraph (2).
+Prospective rules.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 3502 and 8461 of this title\] shall apply with respect to moves occurring on or after the effective date of the regulations under subsection (b). Moves occurring onor after the date of the enactment of this Act \[Feb. 10, 1996\] and before the effective date of such regulations shall be subject to applicable provisions of title 5, United States Code, disregarding the amendments made by this section, except that any individual making an election pursuant to this sentence shall be ineligible to make an election otherwise allowable under paragraph (2).
 
 &emsp;“(2)
 

@@ -1,0 +1,19 @@
+### SUBCHAPTER IX—RESEARCH AND DEVELOPMENT
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 16181 - Goals](%C2%A7%2016181%20-%20Goals.md)
+- [&sect; 16182 - Definitions](%C2%A7%2016182%20-%20Definitions.md)
+- [Part A - Energy Efficiency](Part%20A%20-%20Energy%20Efficiency/README.md)
+- [Part B - Distributed Energy and Electric Energy Systems](Part%20B%20-%20Distributed%20Energy%20and%20Electric%20Energy%20Systems/README.md)
+- [Part C - Renewable Energy](Part%20C%20-%20Renewable%20Energy/README.md)
+- [Part D - Agricultural Biomass Research and Development Programs](Part%20D%20-%20Agricultural%20Biomass%20Research%20and%20Development%20Programs/README.md)
+- [Part E - Nuclear Energy](Part%20E%20-%20Nuclear%20Energy/README.md)
+- [Part F - Fossil Energy](Part%20F%20-%20Fossil%20Energy/README.md)
+- [Part G - Science](Part%20G%20-%20Science/README.md)
+- [Part H - International Cooperation](Part%20H%20-%20International%20Cooperation/README.md)
+- [Part I - Research Administration and Operations](Part%20I%20-%20Research%20Administration%20and%20Operations/README.md)
+- [Part J - Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Resources](Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/README.md)

@@ -30,7 +30,7 @@
 | [1812\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001812%20-%20Care%20and%20superintendence%20of%20Capitol.md) | Care and superintendence of Capitol. |
 | [1813\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001813%20-%20Exterior%20of%20Capitol.md) | Exterior of Capitol. |
 | [1814\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001814%20-%20Repairs%20of%20Capitol.md) | Repairs of Capitol. |
-| [1815\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001815%20-%20Energy%20conservation%20and%20management.md) | Energy conservation and management. |
+| [1815\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001815%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20I%2C%20%C2%A7101%28c%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20606.md) | Repealed. |
 | [1816\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/%C2%A7%2001816%20-%20Construction%20contracts.md) | Construction contracts. |
 | (a) | Liquidated damages. |
 | (b) | Amount of payment. |
@@ -42,7 +42,8 @@
 | (a) | Acquisition of buildings and facilities. |
 | (b) | Acquisition subject to approval. |
 | (c) | United States Capitol grounds provisions applicable. |
-| (d) | Effective date. |
+| (d) | Lease of buildings and facilities. |
+| (e) | Effective date. |
 | 1820\. | Acquisition of real property for Capitol Police. |
 | (a) | Authority for acquisition. |
 | (b) | United States Capitol grounds provisions applicable. |
@@ -92,7 +93,7 @@
 | (d) | Effective date. |
 | [1849\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001849%20-%20Compensation%20of%20certain%20positions%20under%20jurisdiction%20of%20Architect%20of%20the%20Capitol.md) | Compensation of certain positions under jurisdiction of Architect of the Capitol. |
 | (a) | Twelve positions fixed in relation to Senior Executive Service. |
-| (b) | Eight positions fixed in relation to General Schedule. |
+| (b) | Nine positions fixed in relation to General Schedule. |
 | (c) | Executive Project Directors. |
 | [1850\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001850%20-%20Compensation%20of%20registered%20nurses.md) | Compensation of registered nurses. |
 | [1851\.](Subchapter%20003%20%28III%29%20-%20Personnel/Part%20B%20-%20Compensation/%C2%A7%2001851%20-%20Gratuities%20for%20survivors%20of%20deceased%20employees.md) | Gratuities for survivors of deceased employees. |

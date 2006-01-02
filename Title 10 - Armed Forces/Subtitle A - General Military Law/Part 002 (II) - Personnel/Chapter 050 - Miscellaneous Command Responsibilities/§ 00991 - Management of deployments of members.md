@@ -144,7 +144,3 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §574(d)\], Oct. 30, 2000, 114 Sta
 
 &emsp;“(3) any recommendations for revision of section 991 of title 10, United States Code, or section 436 of title 37, United States Code, that the Secretary considers appropriate.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 436.
-

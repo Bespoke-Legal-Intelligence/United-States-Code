@@ -32,9 +32,11 @@
 
 &emsp;(M) orders approving the use or lease of property, including the use of cash collateral;
 
-&emsp;(N) orders approving the sale of property other than property resulting from claims brought by the estate against persons who have not filed claims against the estate; and
+&emsp;(N) orders approving the sale of property other than property resulting from claims brought by the estate against persons who have not filed claims against the estate;
 
-&emsp;(O) other proceedings affecting the liquidation of the assets of the estate or the adjustment of the debtor-creditor or the equity security holder relationship, except personal injury tort or wrongful death claims.
+&emsp;(O) other proceedings affecting the liquidation of the assets of the estate or the adjustment of the debtor-creditor or the equity security holder relationship, except personal injury tort or wrongful death claims; and
+
+&emsp;(P) recognition of foreign proceedings and other matters under chapter 15 of title 11.
 
 (3) The bankruptcy judge shall determine, on the judge's own motion or on timely motion of a party, whether a proceeding is a core proceeding under this subsection or is a proceeding that is otherwise related to a case under title 11. A determination that a proceeding is not a core proceeding shall not be made solely on the basis that its resolution may be affected by State law.
 
@@ -50,13 +52,19 @@
 
 (e) If the right to a jury trial applies in a proceeding that may be heard under this section by a bankruptcy judge, the bankruptcy judge may conduct the jury trial if specially designated to exercise such jurisdiction by the district court and with the express consent of all the parties.
 
-(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 340; amended Pub. L. 99–554, title I, §§143, 144(b), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 103–394, title I, §112, Oct. 22, 1994, 108 Stat. 4117.)
+(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 340; amended Pub. L. 99–554, title I, §§143, 144(b), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 103–394, title I, §112, Oct. 22, 1994, 108 Stat. 4117; Pub. L. 109–8, title VIII, §802(c)(1), Apr. 20, 2005, 119 Stat. 145.)
 
 #### Amendments
+
+2005—Subsec. (b)(2)(P). Pub. L. 109–8 added subpar. (P).
 
 1994—Subsec. (e). Pub. L. 103–394 added subsec. (e).
 
 1986—Subsec. (b)(2). Pub. L. 99–554, in subpar. (B) substituted “interests” for “interest” and inserted reference to chapter 12, and in subpar. (G) inserted a comma after “annul”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1994 Amendment
 

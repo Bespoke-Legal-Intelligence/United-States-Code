@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of a domestic corporation subject to the tax imposed by section 11 or 801, if the value of any security (as defined in section 165(g)(2))—
+In the case of a domestic corporation subject to the tax imposed by section 11 or 801, if thevalue of any security (as defined in section 165(g)(2))—
 
 &emsp;(1) which became worthless by reason of the expropriation, intervention, seizure, or similar taking by the government of any foreign country, any political subdivision thereof, or any agency or instrumentality of the foregoing of property to which such security was related, and
 
@@ -12,7 +12,7 @@ In the case of a domestic corporation subject to the tax imposed by section 11 o
 
 #### (b) Reduction for failure to receive tax benefit
 
-The amount otherwise includible in gross income under subsection (a) in respect of any security shall be reduced by an amount equal to the amount (if any) of the loss described in subsection (a)(2) which did not result in a reductionof the taxpayer's tax under this subtitle for any taxable year, determined under regulations prescribed by the Secretary.
+The amount otherwise includible in gross income under subsection (a) in respect of any security shall be reduced by an amount equal to the amount (if any) of the loss described in subsection (a)(2) which did not result in a reduction of the taxpayer's tax under this subtitle for any taxable year, determined under regulations prescribed by the Secretary.
 
 #### (c) Character of income
 

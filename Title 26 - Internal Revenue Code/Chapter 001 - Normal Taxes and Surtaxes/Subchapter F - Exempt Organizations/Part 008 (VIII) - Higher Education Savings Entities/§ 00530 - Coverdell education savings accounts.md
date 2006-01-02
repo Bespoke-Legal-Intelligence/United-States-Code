@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) Coverdell education savings account
 
-&emsp;The term “Coverdell education savings account” means a trust created or organized in the United States exclusively for the purpose of paying the qualified education expenses of an individual who is the designated beneficiary of the trust (and designated as a Coverdell education savings account at the timecreated or organized), but only if the written governing instrument creating the trust meets the following requirements:
+&emsp;The term “Coverdell education savings account” means a trust created or organized in the United States exclusively for the purpose of paying the qualified education expenses of an individual who is the designated beneficiary of the trust (and designated as a Coverdell education savings account at the time created or organized), but only if the written governing instrument creating the trust meets the following requirements:
 
 &emsp;&emsp;(A) No contribution will be accepted—
 
@@ -38,17 +38,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) qualified higher education expenses (as defined in section 529(e)(3)), and
 
-&emsp;&emsp;&emsp;(ii) qualified elementary and secondary education expenses (as defined in paragraph (4)).
+&emsp;&emsp;&emsp;(ii) qualified elementary and secondary education expenses (as defined in paragraph (3)).
 
 #### (B) Qualified tuition programs
 
 &emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined in section 529(b)) on behalf of the designated beneficiary (as defined in section 529(e)(1)); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of subsection (d)(2).
 
-#### (3) Eligible educational institution
-
-&emsp;The term “eligible educational institution” has the meaning given such term by section 529(e)(5).
-
-#### (4) Qualified elementary and secondary education expenses
+#### (3) Qualified elementary and secondary education expenses
 
 #### (A) In general
 
@@ -66,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “school” means any school which provides elementary education or secondary education (kindergarten through grade 12), as determined under State law.
 
-#### (5) Time when contributions deemed made
+#### (4) Time when contributions deemed made
 
 &emsp;An individual shall be deemed to have made a contribution to an education individual retirement account on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
 
@@ -110,7 +106,7 @@ For purposes of this section—
 
 #### (i) Credit coordination
 
-&emsp;&emsp;&emsp;The total amount of qualified higher education expenses with respect to an individual for the taxable year shall be reduced—
+&emsp;&emsp;&emsp;The total amount of qualified education expenses with respect to an individual for the taxable year shall be reduced—
 
 &emsp;&emsp;&emsp;&emsp;(I) as provided in section 25A(g)(2), and
 
@@ -148,7 +144,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) attributable to the designated beneficiary's being disabled (within the meaning of section 72(m)(7)),
 
-&emsp;&emsp;&emsp;(iii) made on account of a scholarship, allowance, or payment described in section 25A(g)(2) received by the account holder to the extent the amount of the payment or distribution does not exceed the amount of the scholarship, allowance, or payment,
+&emsp;&emsp;&emsp;(iii) made on account of a scholarship, allowance, or payment described in section 25A(g)(2) received by the designated beneficiary to the extent the amount of the payment or distribution does not exceed the amount of the scholarship, allowance, or payment,
 
 &emsp;&emsp;&emsp;(iv) made on account of the attendance of the designated beneficiary at the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy, to the extent that the amount of the payment or distribution does not exceed the costs of advanced education (as defined by section 2005(e)(3) of title 10, United States Code, as in effect on the date of the enactment of this section) attributable to such attendance, or
 
@@ -166,7 +162,7 @@ For purposes of this section—
 
 #### (5) Rollover contributions
 
-&emsp;Paragraph (1) shall not apply to any amount paid or distributed from a Coverdell education savings account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another Coverdell education savings account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary whohas not attained age 30 as of such date. The preceding sentence shall not apply to any payment or distribution if it applied to any prior payment or distribution during the 12-month period ending on the date of the payment or distribution.
+&emsp;Paragraph (1) shall not apply to any amount paid or distributed from a Coverdell education savings account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another Coverdell education savings account for the benefit of the same beneficiary or a member of the family (within the meaning of section 529(e)(2)) of such beneficiary who has not attained age 30 as of such date. The preceding sentence shall not apply to any payment or distribution if it applied to any prior payment or distribution during the 12-month period ending on the date of the payment or distribution.
 
 #### (6) Change in beneficiary
 
@@ -196,7 +192,7 @@ For purposes of this section, a custodial account shall be treated as a trust if
 
 The trustee of a Coverdell education savings account shall make such reports regarding such account to the Secretary and to the beneficiary of the account with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required.
 
-(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339.)
+(Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### Amendment of Section
 
@@ -207,6 +203,14 @@ The trustee of a Coverdell education savings account shall make such reports reg
 The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of Pub. L. 105–34, which enacted this section and was approved Aug. 5, 1997.
 
 #### Amendments
+
+2005—Subsec. (b)(2)(A)(ii). Pub. L. 109–135, §412(ff)(2), substituted “paragraph (3)” for “paragraph (4)”.
+
+Subsec. (b)(3) to (5). Pub. L. 109–135, §412(ff)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The term ‘eligible educational institution’ has the meaning given such term by section 529(e)(5).”
+
+2004—Subsec. (d)(2)(C)(i). Pub. L. 108–311, §404(a), struck out “higher” after “qualified” in introductory provisions.
+
+Subsec. (d)(4)(B)(iii). Pub. L. 108–311, §406(b), substituted “designated beneficiary” for “account holder”.
 
 2003—Subsec. (d)(4)(B)(iv), (v). Pub. L. 108–121 added cl. (iv) and redesignated former cl. (iv) as (v).
 
@@ -284,6 +288,12 @@ Subsec. (d)(7). Pub. L. 105–206, §6004(d)(2)(B), inserted at end “In applyi
 
 Subsec. (d)(8). Pub. L. 105–206, §6004(d)(2)(C), added par. (8).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+
+Amendment by section 406(b) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–121, title I, §107(b), Nov. 11, 2003, 117 Stat. 1339, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
@@ -308,9 +318,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set outas an Effective Date of 1997 Amendment note under section 26 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 62, 72, 135, 221, 222, 529, 4973, 4975, 6693 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 26 of this title.
 

@@ -100,7 +100,7 @@ The Secretaries may not provide an implementation grant under section 6142 of th
 
 #### (C) Third year and succeeding years
 
-&emsp;&emsp;In the 3d fiscal year for which a State receives amounts from a grant under section 6142 of this title, and in each succeeding year, the State shall use not less than 90 percent of such amounts to provide subgrants to local partnerships under paragraph (1).
+&emsp;&emsp;In the 3d fiscal year for which a State receives amounts from a grant under section6142 of this title, and in each succeeding year, the State shall use not less than 90 percent of such amounts to provide subgrants to local partnerships under paragraph (1).
 
 #### (c) Additional State activities
 

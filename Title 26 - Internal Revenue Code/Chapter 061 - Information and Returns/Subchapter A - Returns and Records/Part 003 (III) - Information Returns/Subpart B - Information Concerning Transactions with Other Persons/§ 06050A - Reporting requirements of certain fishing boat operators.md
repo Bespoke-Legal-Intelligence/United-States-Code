@@ -38,7 +38,3 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 Section effective for calendar years beginning after Oct. 4, 1976, see section 1207(f)(4)(A) of Pub. L. 94–455, set out as a note under section 3121 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3406, 6724 of this title.
-

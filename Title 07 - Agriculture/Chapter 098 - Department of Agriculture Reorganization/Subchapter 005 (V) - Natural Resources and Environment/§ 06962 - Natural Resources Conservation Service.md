@@ -70,7 +70,7 @@ Section is comprised of section 246 of Pub. L. 103–354. Subsec. (f) of section
 
 2002—Subsec. (b)(2). Pub. L. 107–171 substituted “forest land enhancement program” for “forestry incentive program”.
 
-1996—Subsec. (b)(1). Pub. L. 104–127, §336(d)(2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “The rural environmental conservation program under title X of the Agricultural Act of 1970 (16 U.S.C. 1501 et seq.).”
+1996—Subsec. (b)(1). Pub. L. 104–127, §336(d)(2)(A), redesignated par. (3) as (1) and struck out former par. (1)which read as follows: “The rural environmental conservation program under title X of the Agricultural Act of 1970 (16 U.S.C. 1501 et seq.).”
 
 Subsec. (b)(2). Pub. L. 104–127, §336(b)(2)(B), (d)(2)(A)(ii), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “The Great Plains Conservation Program under section 16(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590p(b)).”
 

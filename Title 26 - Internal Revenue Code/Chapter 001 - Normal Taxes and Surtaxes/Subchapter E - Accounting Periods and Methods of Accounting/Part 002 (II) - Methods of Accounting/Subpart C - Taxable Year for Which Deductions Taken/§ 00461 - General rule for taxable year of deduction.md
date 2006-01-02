@@ -32,7 +32,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (2) Limitation
 
-&emsp;Under regulations prescribed by the Secretary, paragraph (1) shall be inapplicable to any item of tax to the extent that its application would (but for this paragraph) prevent all persons (including successors in interest) from ever taking such item into account.
+&emsp;Under regulations prescribed by the Secretary, paragraph (1) shall be inapplicable to any item of tax to the extent that its application would (but for this paragraph) prevent allpersons (including successors in interest) from ever taking such item into account.
 
 #### (e) Dividends or interest paid on certain deposits or withdrawable accounts
 
@@ -66,7 +66,7 @@ If—
 
 #### (2) Exception
 
-&emsp;This subsection shall not apply to points paid in respect of any indebtedness incurred inconnection with the purchase or improvement of, and secured by, the principal residence of the taxpayer to the extent that, under regulations prescribed by the Secretary, such payment of points is an established business practice in the area in which such indebtedness is incurred, and the amount of such payment does not exceed the amount generally charged in such area.
+&emsp;This subsection shall not apply to points paid in respect of any indebtedness incurred in connection with the purchase or improvement of, and secured by, the principal residence of the taxpayer to the extent that, under regulations prescribed by the Secretary, such payment of points is an established business practice in the area in which such indebtedness is incurred, and the amount of such payment does not exceed the amount generally charged in such area.
 
 #### (h) Certain liabilities not incurred before economic performance
 
@@ -160,7 +160,7 @@ If—
 
 #### (i) Tax shelter partnerships
 
-&emsp;&emsp;&emsp;In the case of a tax shelter which is a partnership, in applying section 704(d) to adeduction or loss for any taxable year attributable to an item which is deductible by reason of subparagraph (A), the term “cash basis” shall be substituted for the term “adjusted basis”.
+&emsp;&emsp;&emsp;In the case of a tax shelter which is a partnership, in applying section 704(d) to a deduction or loss for any taxable year attributable to an item which is deductible by reason of subparagraph (A), the term “cash basis” shall be substituted for the term “adjusted basis”.
 
 #### (ii) Other tax shelters
 
@@ -186,7 +186,7 @@ If—
 
 &emsp;&emsp;(B) any syndicate (within the meaning of section 1256(e)(3)(B)), and
 
-&emsp;&emsp;(C) any tax shelter (as defined in section 6662(d)(2)(C)(iii)).
+&emsp;&emsp;(C) any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
 
 #### (4) Special rules for farming
 
@@ -196,9 +196,11 @@ If—
 
 &emsp;For purposes of this subsection, the term “economic performance” has the meaning given such term by subsection (h).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### Amendments
+
+2005—Subsec. (i)(3)(C). Pub. L. 109–135 substituted “section 6662(d)(2)(C)(ii)” for “section 6662(d)(2)(C)(iii)”.
 
 1996—Subsec. (i)(3)(C). Pub. L. 104–188, §1704(t)(78), substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
 
@@ -234,7 +236,7 @@ Subsec. (i). Pub. L. 99–514, §801(b)(1), substituted “Special rules for tax
 
 Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted “Recurring item exception not to apply” for “In general” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under this chapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof).”
 
-Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurson or before 90th day after close of the taxable year to the extent of cash basis.
+Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurs on or before 90th day after close of the taxable year to the extent of cash basis.
 
 Pub. L. 99–514, §1807(a)(1), substituted “on or before the 90th day” for “within 90 days” in heading and substituted “before the close of the 90th day after the close of the taxable year” for “within 90 days after the close of the taxable year” in subpar. (A).
 
@@ -477,8 +479,4 @@ Section 223(d) of Pub. L. 88–272 provided that: “The amendments made by subs
 &emsp;“(2) refund or credit of any overpayment which would result from the application of such amendments to such transfer is prevented by the operation of any law or rule of law.
 
 > In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 164, 167, 172, 448, 468A, 468B, 5891 of this title.
 

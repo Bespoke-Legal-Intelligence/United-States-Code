@@ -26,7 +26,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(C) Subparagraph (B) shall apply only in those geographic areas where, due to the failure of a Federal intermediate credit bank to merge in accordance with section 410(a) of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note), the Federal intermediate credit bank or its successor is chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that is not the successor to the Federal intermediate credit bank is chartered to provide long-term credit, in the same geographic territory.
 
-&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directlylegislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
+&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
 
 &emsp;(4) Approve the issuance of obligations of the System under subsections (c) and (d) of section 2153 of this title for the purpose of funding the authorized operations of the institutions of the System, and prescribe collateral therefor.
 
@@ -58,7 +58,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(12) Require surety bonds or other provisions for protection of the assets of the institutions of the System against losses occasioned by employees.
 
-&emsp;(13)(A) Subject to subparagraph (B), the Farm Credit Administration may approve an amendment to the charter of any institution of the Farm Credit System operating under subchapter I or II of this chapter, which would authorize the institution to exercise lending authority in any territory—
+&emsp;(13)(A) Subject to subparagraph (B), the Farm Credit Administration may approve an amendment to the charter of any institution of the Farm Credit System operating under subchapter I or II of this chapter, which wouldauthorize the institution to exercise lending authority in any territory—
 
 &emsp;&emsp;(i) in the geographic area served by an association that was reassigned pursuant to section 433 of the Agricultural Credit Act of 1987 (12 U.S.C. 2071 note) (where the geographic area was a part of the association's territory as of the date of the reassignment); and
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Regulations
 
-Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act\[Jan. 6, 1988\], the Farm Credit Administration shall amend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
+Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall amend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
 
 #### Termination of Reporting Requirements
 

@@ -160,7 +160,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 “(2)
 
-Federal health program.—The amendments made by subsection (c) \[amending section 1320a–7 ofthis title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
+Federal health program.—The amendments made by subsection (c) \[amending section 1320a–7 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(3)
 

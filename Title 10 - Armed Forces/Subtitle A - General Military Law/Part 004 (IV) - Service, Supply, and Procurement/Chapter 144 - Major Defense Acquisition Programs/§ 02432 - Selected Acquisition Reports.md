@@ -70,9 +70,11 @@
 
 &emsp;(6) The reasons for any change in program acquisition cost, program acquisition unit cost, procurement cost, or procurement unit cost or in program schedule from the previous Selected Acquisition Report.
 
-&emsp;(7) The major contracts under the program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
+&emsp;(7) The reasons for any significant changes (from the previous Selected Acquisition Report) in the total program cost for development and procurement of the software component of the program, schedule milestones for the software component of the program, or expected performance for the software component of the program that are known, expected, or anticipated by the program manager.
 
-&emsp;(8) Program highlights since the last Selected Acquisition Report.
+&emsp;(8) The major contracts under the program and the reasons for any cost or schedule variances under those contracts since the last Selected Acquisition Report.
+
+&emsp;(9) Program highlights since the last Selected Acquisition Report.
 
 (f) Each comprehensive annual Selected Acquisition Report shall be submitted within 60 days after the date on which the President transmits the Budget to Congress for the following fiscal year, and each Quarterly Selected Acquisition Report shall be submitted within 45 days after the end of the fiscal-year quarter.
 
@@ -94,13 +96,15 @@
 
 (3) The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
 
-(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–136, div. A, title X, §1045(a)(6), Nov. 24, 2003, 117 Stat. 1612.)
+(Added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 739, §139a; amended Pub. L. 98–525, title XII, §1242(a), Oct. 19, 1984, 98 Stat. 2606; Pub. L. 99–145, title XII, §1201, Nov. 8, 1985, 99 Stat. 715; renumbered §2432 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, 100 Stat. 995, 1003, 1004; Pub. L. 99–500, §101(c) \[title X, §961(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–175, and Pub. L. 99–591, §101(c) \[title X, §961(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–175; Pub. L. 99–661, div. A, title IX, formerly title IV, §961(a), Nov. 14, 1986, 100 Stat. 3955, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(b)(3), (k)(2), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XII, §1233(a)(1), title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1161, 1175; Pub. L. 101–189, div. A, title VIII, §811(c), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XIV, §§1407(a)–(c), 1484(f)(4), Nov. 5, 1990, 104 Stat. 1681, 1717; Pub. L. 102–25, title VII, §701(f)(3), Apr. 6, 1991, 105 Stat. 115; Pub. L. 102–190, div. A, title VIII, §801(b)(2), title X, §1061(a)(14), Dec. 5, 1991, 105 Stat. 1412, 1473; Pub. L. 102–484, div. A, title VIII, §817(c), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 103–355, title III, §3002(a)(1), (b)–(h), Oct. 13, 1994, 108 Stat. 3328, 3329; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §806, Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, §841(c), Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–136, div. A, title X, §1045(a)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 108–375, div. A, title VIII, §801(b)(2), Oct. 28, 2004, 118 Stat. 2004.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2004—Subsec. (e)(7) to (9). Pub. L. 108–375, which directed addition of par. (7) and redesignation of former pars. (7) to (9) as (8) to (10), respectively, was executed by adding par. (7) and redesignating former pars. (7) and (8) as (8) and (9), respectively, to reflect the probable intent of Congress because subsec. (e) did not contain par. (9). See 1996 Amendment note below.
 
 2003—Subsec. (h)(1). Pub. L. 108–136 inserted “program” after “for such” in first sentence.
 
@@ -192,7 +196,7 @@ Subsec. (a)(3). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§961(a)(1)\],
 
 Subsec. (a)(4). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§961(a)(2)\], Pub. L. 99–661, §961(a)(2), amended par. (4) identically, substituting “$40,000,000” for “$2,000,000”.
 
-Subsec. (b)(2)(B). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§961(a)(3)\], Pub. L. 99–661, §961(a)(3), amendedsubpar. (B) identically, substituting “six-month” for “three-month”.
+Subsec. (b)(2)(B). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§961(a)(3)\], Pub. L. 99–661, §961(a)(3), amended subpar. (B) identically, substituting “six-month” for “three-month”.
 
 Subsec. (c)(1). Pub. L. 99–433, §110(g)(7), substituted “section 2431” for “section 139”.
 
@@ -202,7 +206,7 @@ Subsec. (c)(3)(C). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§961(a)(5)
 
 Subsec. (h). Pub. L. 99–500 and Pub. L. 99–591, §101(c) \[§961(a)(6)\], Pub. L. 99–661, §961(a)(6), amended section identically, adding subsec. (h).
 
-1985—Subsec. (c). Pub. L. 99–145 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each Selected Acquisition Report for the first quarter of a fiscal year shall include (1) the same information, in detailed and summarized form, as is provided in reports submitted under section 139 of this title, (2) the current program acquisition unit cost for each major defense acquisition program included in the report and the history of that cost from the date the program was first included in a Selected Acquisition Report to the end of the quarter for which the current report is submitted, and (3) such other information as the Secretary of Defense considers appropriate. Selected Acquisition Reports for the first quarter of a fiscal year shall be known as comprehensive annual Selected Acquisition Reports.”
+1985—Subsec. (c). Pub. L. 99–145 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each Selected Acquisition Report for the first quarter of a fiscal year shall include (1) the same information, in detailed and summarized form, as is provided in reports submitted under section 139 of this title, (2) the current program acquisition unit cost for each major defense acquisition program included in the report and the history of that cost from the date the program was first included in a Selected AcquisitionReport to the end of the quarter for which the current report is submitted, and (3) such other information as the Secretary of Defense considers appropriate. Selected Acquisition Reports for the first quarter of a fiscal year shall be known as comprehensive annual Selected Acquisition Reports.”
 
 1984—Subsec. (a)(3). Pub. L. 98–525, §1242(a)(1), substituted “funds programed to be available for obligation for procurement” for “procurement funds appropriated” and “of funds programed to be available for obligation” for “of funds appropriated”.
 
@@ -213,6 +217,10 @@ Subsec. (b)(2). Pub. L. 98–525, §1242(a)(3), substituted “during the period
 Subsec. (f). Pub. L. 98–525, §1242(a)(4), substituted: “60” for “30”, “45” for “30, and “A preliminary report shall be submitted for each annual Selected Acquisition Report within 30 days of the date on which the President submits the Budget to Congress” for “If a preliminary report is submitted for the comprehensive annual Selected Acquisition Report in any year, the final report shall be submitted within 15 days after the submission of the preliminary report”.
 
 Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title VIII, §801(c), Oct. 28, 2004, 118 Stat. 2004, provided that: “The amendments made by this section \[amending this section and section 2433 of this title\] shall take effect on the date occurring 60 days after the date of the enactment of this Act \[Oct. 28, 2004\], and shall apply with respect to reports due to be submitted to Congress on or after such date.”
 
 #### Effective Date of 1990 Amendment
 
@@ -255,8 +263,4 @@ Section 825 of Pub. L. 100–180 related to the sense of Congress on preparation
 #### Duration of Assignment of Program Managers for Major Programs
 
 Section 1243 of Pub. L. 98–525, as amended by Pub. L. 100–26, §11(a)(1), Apr. 21, 1987, 101 Stat. 288, which related to waivable minimum four-year tour of duty of program managers for major defense acquisition programs, was repealed and restated in section 2435(c) of this title by Pub. L. 100–370, §1(i), July 19, 1988, 102 Stat. 848.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1734, 2400, 2433 of this title.
 

@@ -24,7 +24,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;&emsp;(G)(i) the mitigation of negative impacts on the private sector that may result from relieving State, local, and tribal governments from Federal mandates (if and to the extent that such negative impacts exist on the private sector); and
 
-&emsp;&emsp;(ii) the feasibility of applying relief from Federal mandates in the same manner and to the same extent to private sector entities as such relief is applied to State, local, and tribal governments; and
+&emsp;&emsp;(ii) the feasibility of applying relief from Federal mandates in the same manner andto the same extent to private sector entities as such relief is applied to State, local, and tribal governments; and
 
 &emsp;(4) identify and consider in each recommendation made under paragraph (3), to the extent practicable—
 
@@ -58,7 +58,7 @@ The Advisory Commission on Intergovernmental Relations shall in accordance with 
 
 &emsp;No later than 9 months after March 22, 1995, the Commission shall—
 
-&emsp;&emsp;(A) prepare and publish a preliminary report on its activities under this subchapter,including preliminary recommendations pursuant to subsection (a) of this section;
+&emsp;&emsp;(A) prepare and publish a preliminary report on its activities under this subchapter, including preliminary recommendations pursuant to subsection (a) of this section;
 
 &emsp;&emsp;(B) publish in the Federal Register a notice of availability of the preliminary report; and
 

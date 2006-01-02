@@ -44,7 +44,7 @@ An award under subsection (a) of this section may be expended for activities tha
 
 &emsp;(2) To address deficiencies identified in the assessment conducted under section 247d–2 of this title.
 
-&emsp;(3) To purchase or upgrade equipment (including stationary or mobile communications equipment), supplies, pharmaceuticals or other priority countermeasures to enhance preparedness for and response to bioterrorism or other public health emergencies, consistent with the plan described in subsection (c) of this section.
+&emsp;(3) To purchase or upgrade equipment (including stationary or mobile communicationsequipment), supplies, pharmaceuticals or other priority countermeasures to enhance preparedness for and response to bioterrorism or other public health emergencies, consistent with the plan described in subsection (c) of this section.
 
 &emsp;(4) To conduct exercises to test the capability and timeliness of public health emergency response activities.
 
@@ -108,7 +108,7 @@ An award under subsection (a) of this section may be expended for activities tha
 
 #### (2) Areas of emphasis within categories
 
-&emsp;The Secretary shall determine areas of emphasis within the category of hazards specified in clause (i) of paragraph (1)(A), and shall determine areas of emphasis within the category of hazards specified in clause (ii) of such paragraph, based on an assessment of the risk and likely consequences of such hazards and on an evaluation of Federal, State, and local needs, and may also take into account the extent to which receiving an award under subsection (a) of this section will develop capacities that can be used for public health emergencies of varying types.
+&emsp;The Secretary shall determine areas of emphasis within the category of hazards specified in clause (i) of paragraph (1)(A), and shall determine areas of emphasis within the category of hazards specified in clause (ii) of such paragraph, based on an assessment of the risk and likely consequences of such hazards and on an evaluation of Federal, State, and local needs, and may also take into account the extent to which receiving an award under subsection (a) of this section will develop capacities that canbe used for public health emergencies of varying types.
 
 #### (f) Certain activities
 
@@ -202,7 +202,7 @@ For purposes of this section, the term “eligible entity” means an entity tha
 
 #### (C) Relationship to formula grants
 
-&emsp;&emsp;In the case of a State that will receive an award pursuant to paragraph (3), and inwhich there is located a political subdivision that will receive an award pursuant to subparagraph (A), the Secretary shall, in determining the amount under paragraph (3)(C) for the State, subtract from the population of the State an amount equal to the population of such political subdivision.
+&emsp;&emsp;In the case of a State that will receive an award pursuant to paragraph (3), and in which there is located a political subdivision that will receive an award pursuant to subparagraph (A), the Secretary shall, in determining the amount under paragraph (3)(C) for the State, subtract from the population of the State an amount equal to the population of such political subdivision.
 
 #### (D) Continuity of funding
 

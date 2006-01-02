@@ -10,7 +10,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(3) the term “maintain” includes maintain, collect, use, or disseminate;
 
-&emsp;(4) the term “record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a finger or voice print or a photograph;
+&emsp;(4) the term “record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name, or the identifying number,symbol, or other identifying particular assigned to the individual, such as a finger or voice print or a photograph;
 
 &emsp;(5) the term “system of records” means a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual;
 
@@ -56,7 +56,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(9) the term “recipient agency” means any agency, or contractor thereof, receiving records contained in a system of records from a source agency for use in a matching program;
 
-&emsp;(10) the term “non-Federal agency” means any State or local government, or agency thereof, which receives records contained in asystem of records from a source agency for use in a matching program;
+&emsp;(10) the term “non-Federal agency” means any State or local government, or agency thereof, which receives records contained in a system of records from a source agency for use in a matching program;
 
 &emsp;(11) the term “source agency” means any agency which discloses records contained in a system of records to be used in a matching program, or any State or local government, or agency thereof, which discloses records to be used in a matching program;
 
@@ -66,7 +66,7 @@ Definitions.—For purposes of this section—
 
 (b)
 
-Conditions of Disclosure.—No agency shall disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains, unless disclosure of the record would be—
+Conditions of Disclosure.—No agency shall disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with theprior written consent of, the individual to whom the record pertains, unless disclosure of the record would be—
 
 &emsp;(1) to those officers and employees of the agency which maintains the record who have a need for the record in the performance of their duties;
 
@@ -122,11 +122,11 @@ Access to Records.—Each agency that maintains a system of records shall—
 
 &emsp;&emsp;&emsp;(i) make any correction of any portion thereof which the individual believes is not accurate, relevant, timely, or complete; or
 
-&emsp;&emsp;&emsp;(ii) inform the individual of its refusal to amend the record in accordance with hisrequest, the reason for the refusal, the procedures established by the agency for the individual to request a review of that refusal by the head of the agency or an officer designated by the head of the agency, and the name and business address of that official;
+&emsp;&emsp;&emsp;(ii) inform the individual of its refusal to amend the record in accordance with his request, the reason for the refusal, the procedures established by the agency for the individual to request a review of that refusal by the head of the agency or an officer designated by the head of the agency, and the name and business address of that official;
 
 &emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
 
-&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
+&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) ofthis subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
 
 &emsp;(5) nothing in this section shall allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
@@ -178,7 +178,7 @@ Agency Requirements.—Each agency that maintains a system of records shall—
 
 &emsp;(9) establish rules of conduct for persons involved in the design, development, operation, or maintenance of any system of records, or in maintaining any record, and instruct each such person with respect to such rules and the requirements of this section, including any other rules and procedures adopted pursuant to this section and the penalties for noncompliance;
 
-&emsp;(10) establish appropriate administrative, technical, and physical safeguards to insure the security and confidentiality of records andto protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained;
+&emsp;(10) establish appropriate administrative, technical, and physical safeguards to insure the security and confidentiality of records and to protect against any anticipated threats or hazards to their security or integrity which could result in substantial harm, embarrassment, inconvenience, or unfairness to any individual on whom information is maintained;
 
 &emsp;(11) at least 30 days prior to publication of information under paragraph (4)(D) of this subsection, publish in the Federal Register notice of any new use or intended use of the information in the system, and provide an opportunity for interested persons to submit written data, views, or arguments to the agency; and
 
@@ -190,7 +190,7 @@ Agency Rules.—In order to carry out the provisions of this section, each agenc
 
 &emsp;(1) establish procedures whereby an individual can be notified in response to his request if any system of records named by the individual contains a record pertaining to him;
 
-&emsp;(2) define reasonable times, places, and requirements for identifying an individual who requests his record or information pertaining to him before the agency shall make the record or information available to the individual;
+&emsp;(2) define reasonable times, places, and requirements for identifying an individual whorequests his record or information pertaining to him before the agency shall make the record or information available to the individual;
 
 &emsp;(3) establish procedures for the disclosure to an individual upon his request of his record or information pertaining to him, including special procedure, if deemed necessary, for the disclosure to an individual of medical records, including psychological records, pertaining to him;
 
@@ -228,7 +228,7 @@ Civil Remedies.—Whenever any agency
 
 &emsp;(B) the costs of the action together with reasonable attorney fees as determined by the court.
 
-(5) An action to enforce any liability created under this section may be brought in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, without regard to the amount in controversy, within two years from the date on which the cause of action arises, except that where an agency has materially and willfullymisrepresented any information required under this section to be disclosed to an individual and the information so misrepresented is material to establishment of the liability of the agency to the individual under this section, the action may be brought at any time within two years after discovery by the individual of the misrepresentation. Nothing in this section shall be construed to authorize any civil action by reason of any injury sustained as the result of a disclosure of a record prior to September 27, 1975.
+(5) An action to enforce any liability created under this section may be brought in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, without regard to the amount in controversy, within two years from the date on which the cause of action arises, except that where an agency has materially and willfully misrepresented any information required under this section to be disclosed to an individual and the information so misrepresented is material to establishment of the liability of the agency to the individual under this section, the action may be brought at any time within two years after discovery by the individual of the misrepresentation. Nothing in this section shall be construed to authorize any civil action by reason of any injury sustained as the result of a disclosure of a record prior to September 27, 1975.
 
 (h)
 
@@ -238,7 +238,7 @@ Rights of Legal Guardians.—For the purposes of this section, the parent of any
 
 Criminal Penalties.—Any officer or employee of an agency, who by virtue of his employment or official position, has possession of, or access to, agency records which contain individually identifiable information the disclosure of which is prohibited by this section or by rules or regulations established thereunder, and who knowing that disclosure of the specific material is so prohibited, willfully discloses the material in any manner to any person or agency not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000.
 
-(2) Any officer or employee of any agency who willfully maintains a system of records without meeting the notice requirements of subsection (e)(4) of this section shall be guilty of a misdemeanor and fined not more than $5,000.
+(2) Any officer or employee of any agency who willfully maintains a system of records without meeting the notice requirements of subsection\(e)(4) of this section shall be guilty of a misdemeanor and fined not more than $5,000.
 
 (3) Any person who knowingly and willfully requests or obtains any record concerning an individual from an agency under false pretenses shall be guilty of a misdemeanor and fined not more than $5,000.
 
@@ -344,7 +344,7 @@ Verification and Opportunity to Contest Findings.—(1) In order to protect any 
 
 &emsp;(A)(i) the agency has independently verified the information; or
 
-&emsp;(ii) the Data Integrity Board of the agency, or in the case of a non-Federal agency the Data Integrity Board of the source agency, determines in accordance with guidance issued by the Director of the Office of Management and Budget that—
+&emsp;(ii) the Data Integrity Board of the agency, or in the case of a non-Federal agency theData Integrity Board of the source agency, determines in accordance with guidance issued by the Director of the Office of Management and Budget that—
 
 &emsp;&emsp;(I) the information is limited to identification and amount of benefits paid by the source agency under a Federal benefit program; and
 
@@ -464,7 +464,7 @@ Office of Management and Budget Responsibilities.—The Director of the Office o
 
 &emsp;(2) provide continuing assistance to and oversight of the implementation of this section by agencies.
 
-(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975,89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
@@ -542,7 +542,7 @@ Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or
 
 Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of thissection during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
+Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
@@ -558,7 +558,7 @@ Amendment by Pub. L. 106–170 applicable to individuals whose period of confine
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to levies issued after Aug. 5, 1997, see section 1026(c) of Pub. L. 105–34, set out as a note under section 6103 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 105–34 applicable to levies issued after Aug. 5, 1997, see section 1026(c) of Pub. L.105–34, set out as a note under section 6103 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendment
 
@@ -738,7 +738,7 @@ Definition.—In this section, the definition of ‘identifiable form’ is cons
 
 #### Publication of Guidance Under Subsection (p)(1)(A)(ii)
 
-Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office ofManagement and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
+Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
 
 #### Limitation on Application of Verification Requirement
 
@@ -752,7 +752,7 @@ Section 7201(c) of Pub. L. 101–508 provided that: “Section 552a(p)(1)(A)(ii)
 
 Pub. L. 101–366, title II, §206(d), Aug. 15, 1990, 104 Stat. 442, provided that:
 
-“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and Privacy Protection Act of 1988 \[Pub. L. 100–503\] (other than the amendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
+“(1) In the case of computer matching programs between the Department of Veterans Affairs and the Department of Defense in the administration of education benefits programs under chapters 30 and 32 of title 38 and chapter 106 of title 10, United States Code, the amendments made to section 552a of title 5, United States Code, by the Computer Matching and Privacy Protection Act of 1988 \[Pub. L. 100–503\] (other than theamendments made by section 10(b) of that Act) \[see Effective Date of 1988 Amendment note above\] shall take effect on October 1, 1990.
 
 “(2) For purposes of this subsection, the term ‘matching program’ has the same meaning provided in section 552a(a)(8) of title 5, United States Code.”
 

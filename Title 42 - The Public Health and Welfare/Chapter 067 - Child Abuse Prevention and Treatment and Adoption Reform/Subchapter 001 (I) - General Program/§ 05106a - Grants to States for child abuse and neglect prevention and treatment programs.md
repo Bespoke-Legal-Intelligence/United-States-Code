@@ -26,7 +26,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(B) training regarding the legal duties of such individuals; and
 
-&emsp;&emsp;(C) personal safety training for case workers;;<sup>1</sup>
+&emsp;&emsp;(C) personal safety training for case workers;; <sup>1</sup>
 
 &emsp;(7) improving the skills, qualifications, and availability of individuals providing services to children and families, and the supervisors of such individuals, through the child protection system, including improvements in the recruitment and retention of caseworkers;
 
@@ -42,7 +42,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(C) services necessary to facilitate adoptive placement of any such infants who have been relinquished for adoption;
 
-&emsp;(11) developing and delivering information to improve public education relating to the roleand responsibilities of the child protection system and the nature and basis for reporting suspected incidents of child abuse and neglect;
+&emsp;(11) developing and delivering information to improve public education relating to the role and responsibilities of the child protection system and the nature and basis for reporting suspected incidents of child abuse and neglect;
 
 &emsp;(12) developing and enhancing the capacity of community-based programs to integrate shared leadership strategies between parents and professionals to prevent and treat child abuse and neglect at the neighborhood level;
 
@@ -178,7 +178,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(A) the term “near fatality” means an act that, as certified by a physician, places the child in serious or critical condition; and
 
-&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial risk of death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
+&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial riskof death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
 #### (c) Citizen review panels
 
@@ -300,7 +300,7 @@ Each State to which a grant is made under this section shall annually work with 
 
 Within 6 months after receiving the State reports under subsection (d) of this section, the Secretary shall prepare a report based on information provided by the States for the fiscal year under such subsection and shall make the report and such information available to the Congress and the national clearinghouse for information relating to child abuse.
 
-(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107,113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812.)
+(Pub. L. 93–247, title I, §106, formerly §8, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 110; renumbered title I, §107, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; amended Pub. L. 102–295, title I, §114(a)–(c), May 28, 1992, 106 Stat. 192, 195; Pub. L. 102–586, §9(b), Nov. 4, 1992, 106 Stat. 5037; renumbered §106 and amended Pub. L. 104–235, title I, §§107, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3071, 3079; Pub. L. 108–36, title I, §114(a)–(d), June 25, 2003, 117 Stat. 808–812.)
 
 #### References in Text
 
@@ -416,7 +416,7 @@ Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), De
 
 #### Report
 
-Pub. L. 108–36, title I, §114(e), June 25, 2003, 117 Stat. 812, provided that: “Not later than 2 years after the date of enactment of this Act \[June 25, 2003\], the Secretary of Health and Human Services shall prepare and submit to Congress a report that describes the extent to which States are implementing the policies and procedures required under section 106(b)(2)(B)(ii) of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5106a(b)(2)(B)(ii)\].”
+Pub. L. 108–36, title I, §114(e), June 25, 2003, 117 Stat. 812, required the Secretary of Health and Human Services to prepare and submit to Congress, not later than 2 years after June 25, 2003, a report describing the extent of State implementation of the policies and procedures required under section 5106a(b)(2)(B)(ii) of this title.
 
 #### Congressional Findings
 

@@ -13,3 +13,4 @@ Part D—Interdisciplinary, Community-Based Linkages
 - [&sect; 00294e - Allied health and other disciplines](%C2%A7%2000294e%20-%20Allied%20health%20and%20other%20disciplines.md)
 - [&sect; 00294f - Advisory Committee on Interdisciplinary, Community-Based Linkages](%C2%A7%2000294f%20-%20Advisory%20Committee%20on%20Interdisciplinary%2C%20Community-Based%20Linkages.md)
 - [&sect; 00294g - Authorization of appropriations](%C2%A7%2000294g%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00294h - Interdisciplinary training and education on domestic violence and other types of violence and abuse](%C2%A7%2000294h%20-%20Interdisciplinary%20training%20and%20education%20on%20domestic%20violence%20and%20other%20types%20of%20violence%20and%20abuse.md)

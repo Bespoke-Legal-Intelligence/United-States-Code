@@ -20,7 +20,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 #### (2) Adjustment for liabilities and other relevant items
 
-&emsp;The amount described in paragraph (1) shall be adjusted under regulations prescribed bythe Secretary for liabilities of the target corporation and other relevant items.
+&emsp;The amount described in paragraph (1) shall be adjusted under regulations prescribed by the Secretary for liabilities of the target corporation and other relevant items.
 
 #### (3) Election to step-up the basis of certain target stock
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 #### (13) Tax on deemed sale not taken into account for estimated tax purposes
 
-&emsp;For purposes of section 6655, tax attributable to the sale described in subsection (a)(1) shall not be taken into account.
+&emsp;For purposes of section 6655, tax attributable to the sale described in subsection (a)(1) shall not be taken into account. The preceding sentence shall not apply with respect to a qualified stock purchase for which an election is made under paragraph (10).
 
 #### \[(14) Repealed. Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763\]
 
@@ -272,7 +272,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(2) regulations providing for the coordination of the provisions of this section with the provision of this title relating to foreign corporations and their shareholders.
 
-(Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, titleIII, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763.)
+(Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, §839(a), Oct. 22, 2004, 118 Stat. 1597.)
 
 #### Amendment of Section
 
@@ -283,6 +283,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 A prior section 338, act Aug. 16, 1954, ch. 736, 68A Stat. 107, made reference to a special rule relating to the effect on earnings and profits of certain distributions in partial liquidation in section 312(e), prior to repeal by Pub. L. 97–248, §222(e)(4).
 
 #### Amendments
+
+2004—Subsec. (h)(13). Pub. L. 108–357 inserted at end “The preceding sentence shall not apply with respect to a qualified stock purchase for which an election is made under paragraph (10).”
 
 2003—Subsec. (h)(14). Pub. L. 108–27, §§302(e)(4)(B)(i), 303, temporarily struck out heading and text of par. (14). Text read as follows: “For purposes of determining whether section 341 applies to a disposition within 1 year after the acquisition date of stock by a shareholder (other than the acquiring corporation) who held stock in the target corporation on the acquisition date, section 341 shall be applied without regard to this section.” See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -328,7 +330,7 @@ Subsec. (h)(12). Pub. L. 99–514, §631(e)(5), struck out par. (12) relating to
 
 Subsec. (b). Pub. L. 98–369, §712(k)(1)(B), substituted “Basis of assets after deemed purchase” for “Price at which deemed sale made” in heading.
 
-Subsec. (b)(1). Pub. L. 98–369, §712(k)(1)(B), amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation's recently purchased stock, and” for “purchasing corporation's stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation's nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
+Subsec. (b)(1). Pub. L. 98–369, §712(k)(1)(B), amended par. (1) generally, substituting “as purchased for an amount equal to the sum of” for “as sold (and purchased) at an amount equal to” in introductory text, “purchasing corporation's recently purchased stock,and” for “purchasing corporation's stock in the target corporation on the acquisition date” in subpar. (A), and “the basis of the purchasing corporation's nonrecently purchased stock” in subpar. (B) in lieu of provision relating to adjustment for liabilities and other relevant items, now covered in par. (2).
 
 Subsec. (b)(2). Pub. L. 98–369, §712(k)(1)(B), amended par. (2) generally, incorporating former par. (1)(B) provision, inserting heading “Adjustment for liabilities and other relevant items” and substituting “adjusted under regulations” for “properly adjusted under regulations”. Former par. (2) redesignated (4).
 
@@ -367,6 +369,10 @@ Subsec. (h)(11) to (15). Pub. L. 98–369, §712(k)(6)(C), added pars. (11) to (
 Subsec. (i). Pub. L. 98–369, §712(k)(7), provided in introductory text that the regulations be appropriate to carry out the purposes of this section; designated existing provisions as par. (1) and substituted therein “treatment of stock and asset sales and purchases” for “treatment of stock and asset purchases with respect to a target corporation and its target affiliates (whether by treating all of them as stock purchases or as asset purchases)” before “may not be circumvented”, and added par. (2).
 
 1983—Subsec. (h)(8), (9). Pub. L. 97–448 added pars. (8) and (9).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §839(b), Oct. 22, 2004, 118 Stat. 1597, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective and Termination Dates of 2003 Amendment
 
@@ -498,7 +504,7 @@ Section 1804(e)(9) of Pub. L. 99–514 provided that: “In the case of a Rhode 
 
 #### Special Rules for Deemed Purchases under Prior Law
 
-Section 712(k)(10) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), but would not be so treated under the amendments made by paragraphs (5) and (6) \[amending subsec. (h) and section 318(b)(4) of this title\] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unless such corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.
+Section 712(k)(10) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, before October 20, 1983, a corporation was treated as making a qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]), but would not be so treated under the amendments made by paragraphs (5) and (6) \[amending subsec. (h) and section 318(b)(4) of this title\] of this subsection, the amendments made by such paragraphs shall not apply to such purchase unlesssuch corporation elects (at such time and in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have the amendments made by such paragraphs apply.”
 
 #### Exception for Stock Purchases in Contemplation of Target Corporation as Member of Affiliated Group
 
@@ -509,8 +515,4 @@ Section 306(a)(8)(A)(ii) of Pub. L. 97–448, as amended by Pub. L. 98–369, di
 &emsp;“(II) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the target corporation would be treated as a member of the affiliated group which includes the selling corporation,
 
 > then the amendment made by clause (i) \[amending subsec. (h)\] shall not apply to such qualified stock purchase.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 172, 269, 318, 382, 1060, 1362, 6724 of this title; title 45 section 1347.
 

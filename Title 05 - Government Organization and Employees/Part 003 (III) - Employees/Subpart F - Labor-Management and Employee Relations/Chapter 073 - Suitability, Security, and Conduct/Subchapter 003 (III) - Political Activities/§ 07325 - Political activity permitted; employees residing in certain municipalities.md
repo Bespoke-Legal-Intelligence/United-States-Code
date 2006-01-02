@@ -4,7 +4,7 @@ The Office of Personnel Management may prescribe regulations permitting employee
 
 &emsp;(1) the municipality or political subdivision is in Maryland or Virginia and in the immediate vicinity of the District of Columbia, or is a municipality in which the majority of voters are employed by the Government of the United States; and
 
-&emsp;(2) the Office determines that because of special or unusual circumstances which exist inthe municipality or political subdivision it is in the domestic interest of the employees and individuals to permit that political participation.
+&emsp;(2) the Office determines that because of special or unusual circumstances which exist in the municipality or political subdivision it is in the domestic interest of the employees and individuals to permit that political participation.
 
 (Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1004; amended Pub. L. 104–93, title III, §308, Jan. 6, 1996, 109 Stat. 966.)
 

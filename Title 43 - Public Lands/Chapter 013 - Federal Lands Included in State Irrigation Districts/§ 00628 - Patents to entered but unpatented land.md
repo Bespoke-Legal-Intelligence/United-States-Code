@@ -18,7 +18,7 @@ The reclamation Act of June 17, 1902, referred to in text, is classified general
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registersof district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
+“Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 
 Previously, references to “receiver” were changed to “register” by acts Oct. 28, 1921, and Mar. 3, 1925.
 

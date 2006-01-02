@@ -10,25 +10,9 @@
 
 &emsp;(B) in which the position to which the employee is detailed is eliminated on or before the date of the closure, realignment, or restructuring.
 
-(c) For purposes of this section—
+(c) For purposes of this section, the term “base closure law” has the meaning given such term in section 101(a)(17) of title 10.
 
-&emsp;(1) the term “base closure law” means—
-
-&emsp;&emsp;(A) section 2687 of title 10;
-
-&emsp;&emsp;(B) title II of the Defense Authorization Amendments and Base Closure and Realignment Act (10 U.S.C. 2687 note); and
-
-&emsp;&emsp;(C) the Defense Base Closure and Realignment Act of 1990 (10 U.S.C. 2687 note); and
-
-&emsp;(2) the term “military installation”—
-
-&emsp;&emsp;(A) in the case of an installation covered by section 2687 of title 10, has the meaning given such term in subsection (e)(1) of such section;
-
-&emsp;&emsp;(B) in the case of an installation covered by the Act referred to in subparagraph (B) of paragraph (1), has the meaning given such term in section 209(6) of such Act; and
-
-&emsp;&emsp;(C) in the case of an installation covered by the Act referred to in subparagraph (C) of that paragraph, has the meaning given such term in section 2910(4) of such Act.
-
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 424; Pub. L. 104–106, div. A, title X, §1033(a), Feb. 10, 1996, 110 Stat. 429.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 424; Pub. L. 104–106, div. A, title X, §1033(a), Feb. 10, 1996, 110 Stat. 429; Pub. L. 109–163, div. A, title X, §1056(a)(4), Jan. 6, 2006, 119 Stat. 3439.)
 
 Historical and Revision Notes
 
@@ -56,13 +40,9 @@ This section was part of title IV of the Revised Statutes. The Act of July 26, 1
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-
-Section 209(6) of such Act, referred to in subsec. (c)(2)(B), means section 209(6) of Pub. L. 100–526, which is set out as a note under section 2687 of Title 10, Armed Forces.
-
-Section 2910(4) of such Act, referred to in subsec. (c)(2)(C), means section 2910(4) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10.
-
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–163 amended subsec. (c) generally. Prior to amendment, subsec. (c) defined the terms “base closure law” and “military installation” for purposes of this section.
 
 1996—Subsec. (b). Pub. L. 104–106 designated existing provisions as par. (1) and added par. (2).
 

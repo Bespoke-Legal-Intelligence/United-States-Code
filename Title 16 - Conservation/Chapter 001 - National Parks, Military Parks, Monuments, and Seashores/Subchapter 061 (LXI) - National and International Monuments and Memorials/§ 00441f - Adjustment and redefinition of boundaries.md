@@ -10,5 +10,5 @@ Reference to the monument's approximately 154,119 acre area as of “May 7, 1952
 
 #### Change of Name
 
-Words “Park” and “park” substituted in text for “Monument” and “monument”, respectively, pursuantto Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.
+Words “Park” and “park” substituted in text for “Monument” and “monument”, respectively, pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.
 

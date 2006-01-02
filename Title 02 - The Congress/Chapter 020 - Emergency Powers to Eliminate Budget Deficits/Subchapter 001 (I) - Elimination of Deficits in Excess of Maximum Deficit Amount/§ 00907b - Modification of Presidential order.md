@@ -8,7 +8,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### (1) Referral to committee
 
-&emsp;A joint resolution introduced in the Senate under subsection (a) of this section shall not be referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
+&emsp;A joint resolution introduced in the Senate under subsection (a) of this section shall notbe referred to a committee of the Senate and shall be placed on the calendar pending disposition of such joint resolution in accordance with this subsection.
 
 #### (2) Consideration in Senate
 
@@ -20,7 +20,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 &emsp;(B) A motion to postpone, or a motion to proceed to the consideration of other business is not in order. A motion to reconsider the vote by which the joint resolution is agreed to or disagreed to is not in order, and a motion to recommit the joint resolution is not in order.
 
-&emsp;(C)(i) No amendment that is not germane to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. In the Senate,an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or their designees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minority leader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
+&emsp;(C)(i) No amendment that is not germane to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. In the Senate, an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or their designees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minority leader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
 
 &emsp;(ii) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution in more than one place or amends language previously amended. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
 
@@ -54,7 +54,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### (8) Senate action on House resolution
 
-&emsp;If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
+&emsp;If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is notidentical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
 (Pub. L. 99–177, title II, §258A, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–595.)
 

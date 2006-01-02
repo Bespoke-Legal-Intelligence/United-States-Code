@@ -34,7 +34,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 #### (d) Changes in previously approved actions
 
-The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
+The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified of any significant change in a previously approved covert action, or any significant undertaking pursuant toa previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
 
 #### (e) “Covert action” defined
 
@@ -69,6 +69,8 @@ Subsec. (c)(4). Pub. L. 107–306, §353(b)(8), substituted “congressional int
 Subsec. (d). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees”.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

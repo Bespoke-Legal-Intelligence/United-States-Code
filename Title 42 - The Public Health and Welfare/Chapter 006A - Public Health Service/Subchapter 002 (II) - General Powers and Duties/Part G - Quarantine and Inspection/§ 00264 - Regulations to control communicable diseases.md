@@ -30,7 +30,7 @@ Nothing in this section or section 266 of this title, or the regulations promulg
 
 #### Amendments
 
-2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 ofthe Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
+2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
 
 Subsec. (b). Pub. L. 107–188, §142(a)(1), substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
 
@@ -58,7 +58,7 @@ Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, which specified certain commun
 
 #### Ex. Ord. No. 13295. Revised List of Quarantinable Communicable Diseases
 
-Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, provided:
+Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, as amended by Ex. Ord. No. 13375, §1, Apr. 1, 2005, 70 F.R. 17299, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 361(b) of the Public Health Service Act (42 U.S.C. 264(b)), it is hereby ordered as follows:
 
@@ -67,6 +67,8 @@ Section 1. Based upon the recommendation of the Secretary of Health and Human Se
 (a) Cholera; Diphtheria; infectious Tuberculosis; Plague; Smallpox; Yellow Fever; and Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named).
 
 (b) Severe Acute Respiratory Syndrome (SARS), which is a disease associated with fever and signs and symptoms of pneumonia or other respiratory illness, is transmitted from person to person predominantly by the aerosolized or droplet route, and, if spread in the population, would have severe public health consequences.
+
+(c) Influenza caused by novel or reemergent influenza viruses that are causing, or have the potential to cause, a pandemic.
 
 Sec. 2. The Secretary, in the Secretary's discretion, shall determine whether a particular condition constitutes a communicable disease of the type specified in section 1 of this order.
 

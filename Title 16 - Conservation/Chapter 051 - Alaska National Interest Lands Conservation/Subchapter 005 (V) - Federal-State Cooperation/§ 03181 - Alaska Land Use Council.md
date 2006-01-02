@@ -22,7 +22,7 @@ In addition to the Cochairmen, the Council shall consist of the following member
 
 #### (d) State decision not to participate
 
-If the State elects not to participate on the Council or elects to end its participation prior to termination of the Council, the Council shall be composed of the Federal Cochairman, the agencies referred to in subsection (c)(1) of this section and the representatives of the Alaska Native Regional Corporations referred to in subsection (c)(3) of this section. The Council, so composed, shall carry out the administrative functions required by this subchapter and shall make recommendations to Federal officials with respect to the matters referred to in subsections (i) and (j) of this section. In addition, the Council may make recommendations from time to time to State officials and private landowners concerning such matters.
+If the State elects not to participate on the Council or elects to end its participation prior to termination of the Council, the Council shall be composed of the Federal Cochairman, theagencies referred to in subsection (c)(1) of this section and the representatives of the Alaska Native Regional Corporations referred to in subsection (c)(3) of this section. The Council, so composed, shall carry out the administrative functions required by this subchapter and shall make recommendations to Federal officials with respect to the matters referred to in subsections (i) and (j) of this section. In addition, the Council may make recommendations from time to time to State officials and private landowners concerning such matters.
 
 #### (e) Compensation and expenses
 
@@ -30,7 +30,7 @@ If the State elects not to participate on the Council or elects to end its parti
 
 (2) The other members of the Council who are Federal employees shall receive no additional compensation for service on the Council.
 
-(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3) of this section, shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.
+(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3) of this section, shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.<sup>1</sup>
 
 (4) The State Cochairman and other State members of the Council have been compensated in accordance with applicable State law.
 
@@ -58,7 +58,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 #### (i) Functions of the Council
 
-(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture, other Federal agencies, the State, local governments, and Native Corporations with respect toongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
+(1) The Council shall conduct studies and advise the Secretary, the Secretary of Agriculture, other Federal agencies, the State, local governments, and Native Corporations with respect to ongoing, planned, and proposed land and resources uses in Alaska, including transportation planning, land use designation, fish and wildlife management, tourism, agricultural development, coastal zone management, preservation of cultural and historical resources, and such other matters as may be submitted for advice by the members.
 
 (2) It shall be the function of the Council—
 
@@ -112,9 +112,13 @@ The Council shall establish and implement a public participation program to assi
 
 #### References in Text
 
+Section 5703 of title 5, referred to in subsec. (e)(3), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+
 This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to submitting report to Congress no later than February 1 of each calendar year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 154 of House Document No. 103–7.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

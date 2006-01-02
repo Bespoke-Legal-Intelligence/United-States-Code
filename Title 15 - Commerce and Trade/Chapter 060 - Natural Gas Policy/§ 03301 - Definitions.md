@@ -90,7 +90,7 @@ For purposes of this chapter—
 
 #### (16) Intrastate pipeline
 
-&emsp;The term “intrastate pipeline” means any person engaged in natural gas transportation (not including gathering) which is not subjectto the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] (other than any such pipeline which is not subject to the jurisdiction of the Commission solely by reason of section 1(c) of the Natural Gas Act \[15 U.S.C. 717(c)\]).
+&emsp;The term “intrastate pipeline” means any person engaged in natural gas transportation (not including gathering) which is not subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\] (other than any such pipeline which is not subject to the jurisdiction of the Commission solely by reason of section 1(c) of the Natural Gas Act \[15 U.S.C. 717(c)\]).
 
 #### (17) Local distribution company
 
@@ -158,7 +158,7 @@ For purposes of this chapter—
 
 #### (22) Deliver
 
-&emsp;The term “deliver”, when used with respect to any first sale of natural gas, means the physical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
+&emsp;The term “deliver”, when used with respect to any first sale of natural gas, means thephysical delivery from the seller; except that in the case of the sale of proven reserves in place to any interstate pipeline, any intrastate pipeline, any local distribution company, or any user of such natural gas, such term means the transfer of title to such reserves.
 
 #### (23) Certificate
 

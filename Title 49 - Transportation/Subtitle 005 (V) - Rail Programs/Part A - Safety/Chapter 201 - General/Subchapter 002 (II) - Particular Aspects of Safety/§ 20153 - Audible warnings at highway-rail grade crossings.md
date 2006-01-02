@@ -32,7 +32,7 @@ Application for Waiver or Exemption.—Notwithstanding any other provision of th
 
 (e)
 
-Development of Supplementary Safety Measures.—(1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures at highway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
+Development of Supplementary Safety Measures.—(1) In order to promote the quiet of communities affected by rail operations and the development of innovative safety measures athighway-rail grade crossings, the Secretary may, in connection with demonstration of proposed new supplementary safety measures, order railroad carriers operating over one or more crossings to cease temporarily the sounding of locomotive horns at such crossings. Any such measures shall have been subject to testing and evaluation and deemed necessary by the Secretary prior to actual use in lieu of the locomotive horn.
 
 (2) The Secretary may include in regulations issued under this subsection special procedures for approval of new supplementary safety measures meeting the requirements of subsection (c)(1) of this section following successful demonstration of those measures.
 
@@ -50,7 +50,7 @@ Specific Rules.—The Secretary may, by regulation, provide that the following c
 
 (g)
 
-Issuance.—The Secretary shall issue regulations required by this section pertaining tocategories of highway-rail grade crossings that in the judgment of the Secretary pose the greatest safety hazard to rail and highway users not later than 24 months following November 2, 1994. The Secretary shall issue regulations pertaining to any other categories of crossings not later than 48 months following November 2, 1994.
+Issuance.—The Secretary shall issue regulations required by this section pertaining to categories of highway-rail grade crossings that in the judgment of the Secretary pose the greatest safety hazard to rail and highway users not later than 24 months following November 2, 1994. The Secretary shall issue regulations pertaining to any other categories of crossings not later than 48 months following November 2, 1994.
 
 (h)
 

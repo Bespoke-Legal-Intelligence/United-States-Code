@@ -24,11 +24,53 @@ Any order issued under this section shall state with reasonable specificity the 
 
 &emsp;(A) any requirement or standard promulgated by the Administrator under section 6991b of this title;
 
-&emsp;(B) any requirement or standard of a State program approved pursuant to section 6991c of this title; or
+&emsp;(B) any requirement or standard of a State program approved pursuant to section 6991c of this title;
 
-&emsp;(C) the provisions of section 6991b(g) of this title (entitled “Interim Prohibition”)
+&emsp;(C) the provisions of section 6991b(g) of this title (entitled “Interim Prohibition”); or <sup>1</sup>
 
-> shall be subject to a civil penalty not to exceed $10,000 for each tank for each day of violation.
+&emsp;(D) <sup>2</sup> the requirements established in section 6991b(i) of this title, <sup>3</sup>
 
-(Pub. L. 89–272, title II, §9006, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3285.)
+&emsp;(D) <sup>2</sup> the training requirements established by States pursuant to section 6991i of this title (relating to operator training); or
+
+&emsp;(E) the delivery prohibition requirement established by section 6991k of this title,
+
+> shall be subject to a civil penalty not to exceed $10,000 for each tank for each day of violation. Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of section 6991k of this title shall also be subject to the same civil penalty for each day of such violation.
+
+#### (e) Incentive for performance
+
+Both of the following may be taken into account in determining the terms of a civil penalty under subsection (d) of this section:
+
+&emsp;(1) The compliance history of an owner or operator in accordance with this subchapter or a program approved under section 6991c of this title.
+
+&emsp;(2) Any other factor the Administrator considers appropriate.
+
+(Pub. L. 89–272, title II, §9006, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3285; Pub. L. 109–58, title XV, §§1524(c), 1526(d), 1527(b), 1530(d), Aug. 8, 2005, 119 Stat. 1096, 1098, 1099, 1104.)
+
+#### Amendments
+
+2005—Subsec. (d)(2). Pub. L. 109–58, §1527(b)(2), inserted at end “Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of section 6991k of this title shall also be subject to the same civil penalty for each day of such violation.”
+
+Subsec. (d)(2)(B). Pub. L. 109–58, §1530(d)(1), which directed amendment of subpar. (B) by striking out “or” at end, could not be executed because “or” did not appear subsequent to amendment by Pub. L. 109–58, §1524(c)(1). See below.
+
+Pub. L. 109–58, §1524(c)(1), struck out “or” at end.
+
+Subsec. (d)(2)(C). Pub. L. 109–58, §1530(d)(2), inserted “; or” at end.
+
+Subsec. (d)(2)(D). Pub. L. 109–58, §1530(d)(3), added subpar. (D) relating to requirements established in section 6991b(i) of this title.
+
+Pub. L. 109–58, §1524(c)(2), added subpar. (D) relating to training requirements established by States pursuant to section 6991i of this title.
+
+Subsec. (d)(2)(E). Pub. L. 109–58, §1527(b)(1), added subpar. (E).
+
+Subsec. (e). Pub. L. 109–58, §1526(d), added subsec. (e).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by section 1530(d) of Pub. L. 109–58 effective 18 months after Aug. 8, 2005, see section 1530(b) of Pub. L. 109–58, set out as a note under section 6991b of this title.
+
+<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subpars. (D) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -36,7 +36,7 @@ Duties Relating to Defense Against Weapons of Mass Destruction.—(1) Notwithsta
 
 (4) Reserves on active duty who are performing duties described in paragraph (1) shall be counted against the annual end strength authorizations required by section 115(a)(1)(B) and 115(a)(2) of this title. The justification material for the defense budget request for a fiscal year shall identify the number and component of the Reserves programmed to be performing duties described in paragraph (1) during that fiscal year.
 
-(5) A reserve component rapid assessment element team, and any Reserve assigned to such ateam, may not be used to respond to an emergency described in paragraph (1) unless the Secretary of Defense has certified to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that that team, or that Reserve, possesses the requisite skills, training, and equipment to be proficient in all mission requirements.
+(5) A reserve component rapid assessment element team, and any Reserve assigned to such a team, may not be used to respond to an emergency described in paragraph (1) unless the Secretary of Defense has certified to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that that team, or that Reserve, possesses the requisite skills, training, and equipment to be proficient in all mission requirements.
 
 (6) If the Secretary of Defense submits to Congress any request for the enactment of legislation to modify the requirements of paragraph (3), the Secretary shall provide with the request—
 
@@ -140,11 +140,7 @@ Plan.—Not later than 180 days after the date of the enactment of this Act \[De
 
 Definitions.—For purposes of this section:
 
-&emsp;“(1) The term ‘Weapons of Mass Destruction Civil Support Team’ means a team of members of the reserve components of the Armed Forces that is established under section 12310(c) of title 10, United States Code, in support of emergency preparedness programsto prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
+&emsp;“(1) The term ‘Weapons of Mass Destruction Civil Support Team’ means a team of members of the reserve components of the Armed Forces that is established under section 12310(c) of title 10, United States Code, in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
 
 &emsp;“(2) The term ‘State and territory’ means each of the several States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12011, 12012, 12318 of this title; title 37 section 305b.
 

@@ -32,7 +32,7 @@ To be eligible to receive a grant under subsection (a) of this section, an entit
 
 #### (3) Limitation
 
-&emsp;Not to exceed 10 percent of the amounts received under this section by a grantee shall beused for training, technical assistance and administrative purposes.
+&emsp;Not to exceed 10 percent of the amounts received under this section by a grantee shall be used for training, technical assistance and administrative purposes.
 
 #### (d) Use of proceeds from investments
 

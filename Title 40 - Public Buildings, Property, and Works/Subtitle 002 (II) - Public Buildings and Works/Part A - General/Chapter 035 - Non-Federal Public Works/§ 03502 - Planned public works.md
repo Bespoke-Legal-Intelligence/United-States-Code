@@ -24,7 +24,7 @@ Requirements for Advances.—An advance shall not be made under subsection (a) f
 
 &emsp;(2) the project conforms to an overall state, local, or regional plan approved by a competent state, local, or regional authority; and
 
-&emsp;(3) the public agency or Indian tribe formally contracts with the Federal Governmentto complete the plan preparation promptly and to repay part or all of the advance when due.
+&emsp;(3) the public agency or Indian tribe formally contracts with the Federal Government to complete the plan preparation promptly and to repay part or all of the advance when due.
 
 (e)
 

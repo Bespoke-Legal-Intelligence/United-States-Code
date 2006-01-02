@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-Pursuant to paragraph 4 of Article VII of the Chemical Weapons Convention, the President shall designate the Department of State to be the United States National Authority.
+Pursuant to paragraph 4 of Article VII of the Chemical Weapons Convention, the Presidentshall designate the Department of State to be the United States National Authority.
 
 #### (b) Purposes
 
@@ -56,7 +56,7 @@ Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agenc
 
 Sec. 7. The USNA, in coordination with the interagency group designated in section 2 of this order, is authorized to determine whether disclosure of confidential business information pursuant to section 404(c) of the Act \[22 U.S.C. 6744(c)\] is in the national interest. Disclosure will not be permitted if contrary to national security or law enforcement needs.
 
-Sec. 8. In order to take additional steps with respect to the proliferation of weapons of mass destruction andmeans of delivering them and the national emergency described and declared in Executive Order 12938 of November 14, 1994 \[50 U.S.C. 1701 note\], as amended by Executive Order 13094 of July 30, 1998, section 3 of Executive Order 12938, as amended, is amended to add a new subsection (e) to read as follows:
+Sec. 8. In order to take additional steps with respect to the proliferation of weapons of mass destruction and means of delivering them and the national emergency described and declared in Executive Order 12938 of November 14, 1994 \[50 U.S.C. 1701 note\], as amended by Executive Order 13094 of July 30, 1998, section 3 of Executive Order 12938, as amended, is amended to add a new subsection (e) to read as follows:
 
 &emsp;“(e) the Secretary of Commerce shall impose and enforce such restrictions on the importation of chemicals into the United States as may be necessary to carry out the requirements of the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction.”
 

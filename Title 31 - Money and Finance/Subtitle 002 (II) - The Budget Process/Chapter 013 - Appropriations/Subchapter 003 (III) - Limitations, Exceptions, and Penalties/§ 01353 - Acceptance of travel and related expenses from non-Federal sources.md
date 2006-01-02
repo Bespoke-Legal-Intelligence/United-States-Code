@@ -30,7 +30,7 @@
 
 &emsp;(C) be submitted not later than November 30 of each year with respect to payments in the preceding period beginning on April 1 and ending on September 30.
 
-(Added Pub. L. 101–194, title III, §302(a), Nov. 30, 1989, 103 Stat. 1745, §1352; renumbered §1353 andamended Pub. L. 101–280, §4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
+(Added Pub. L. 101–194, title III, §302(a), Nov. 30, 1989, 103 Stat. 1745, §1352; renumbered §1353 and amended Pub. L. 101–280, §4(b)(1), (c), May 4, 1990, 104 Stat. 157, 158.)
 
 #### Amendments
 

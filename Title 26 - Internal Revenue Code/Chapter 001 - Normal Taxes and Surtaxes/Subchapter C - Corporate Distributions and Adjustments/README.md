@@ -24,10 +24,6 @@
 
 1969—Pub. L. 91–172, title IV, §415(b), Dec. 30, 1969, 83 Stat. 614, redesignated item for part VI as VII and added part VI.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 26, 56, 447, 485, 535, 997, 1011, 1012, 1081, 1371, 1375 of this title.
-
 
 ---
 

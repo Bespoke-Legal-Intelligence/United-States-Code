@@ -30,6 +30,12 @@ Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this 
 
 Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
 
+#### Short Title of 2005 Amendments
+
+Pub. L. 109–59, title VII, §7201, Aug. 10, 2005, 119 Stat. 1911, provided that: “This subtitle \[subtitle B (§§7201–7204) of title VII of Pub. L. 109–59, enacting section 350e of this title, amending sections 331, 342, and 373 of this title and section 5701 of Title 49, Transportation, omitting sections 5702 to 5714 of Title 49, and enacting provisions set out as a note under section 331 of this title\] may be cited as the ‘Sanitary Food Transportation Act of 2005’.”
+
+Pub. L. 109–43, §1, Aug. 1, 2005, 119 Stat. 439, provided that: “This Act \[amending sections 352 and 379j of this title, enacting provisions set out as a note under section 352 of this title, and amending provisions set out as notes under sections 352 and 379i of this title\] may be cited as the ‘Medical Device User Fee Stabilization Act of 2005’.”
+
 #### Short Title of 2004 Amendments
 
 Pub. L. 108–282, title I, §101, Aug. 2, 2004, 118 Stat. 891, provided that: “This title \[enacting sections 360ccc to 360ccc–2 of this title, amending sections 321, 331, 352, 353, 354, and 360b of this title, enacting provisions set out as notes under sections 360ccc and 393 of this title, and amending provisions set out as a note under section 360b of this title\] may be cited as the ‘Minor Use and Minor Species Animal Health Act of 2004’.”
@@ -50,13 +56,13 @@ Pub. L. 107–281, §1, Nov. 6, 2002, 116 Stat. 1992, provided that: “This Act
 
 Pub. L. 107–250, §1(a), Oct. 26, 2002, 116 Stat. 1588, provided that: “This Act \[enacting sections 379i and 379j of this title and section 289g–3 of Title 42, The Public Health and Welfare, amending sections 321, 331, 333, 335a, 352, 353, 360, 360c, 360e, 360m, and 374 of this title, and enacting provisions set out as notes under sections 352, 360e, 360j, 360<i>l</i>, 379i, and 379j of this title and section 289g–3 of Title 42\] may be cited as the ‘Medical Device User Fee and Modernization Act of 2002’.”
 
-Pub. L. 107–188, title V, §501, June 12, 2002, 116 Stat. 687, provided that: “This subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending sections 356b, 379g, and 379h of this title and enacting provisions set out as notes under sections 356b and 379g of this title\] may be cited as the ‘Prescription Drug User Fee Amendments of 2002’.”
+Pub. L. 107–188, title V, §501, June 12, 2002, 116 Stat. 687, provided that: “This subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending sections 356b, 379g, and 379h of this title and enacting provisions set out as notes under sections 356b and 379g of this title\]may be cited as the ‘Prescription Drug User Fee Amendments of 2002’.”
 
 Pub. L. 107–109, §1, Jan. 4, 2002, 115 Stat. 1408, provided that: “This Act \[enacting sections 355b and 393a of this title and section 284m of Title 42, The Public Health and Welfare, amending sections 321, 355, 355a, and 379h of this title and sections 282, 284k, 284<i>l</i>, 285a–2, and 290b of Title 42, and enacting provisions set out as notes under sections 355 and 355a of this title and sections 284m and 289 of Title 42\] may be cited as the ‘Best Pharmaceuticals for Children Act’.”
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–387, §1(a) \[title VII, §745(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35, provided that: “This section \[enacting section 384 of this title, amending sections 331, 333, and 381 of this title, and enacting provisions set out as a note under section 384 of this title\] may becited as the ‘Medicine Equity and Drug Safety Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title VII, §745(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35, provided that: “This section \[enacting section 384 of this title, amending sections 331, 333, and 381 of this title, and enacting provisions set out as a note under section 384 of this title\] may be cited as the ‘Medicine Equity and Drug Safety Act of 2000’.”
 
 Pub. L. 106–387, §1(a) \[title VII, §746(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40, provided that: “This section \[amending section 381 of this title and enacting provisions set out as a note under section 381 of this title\] may be cited as the ‘Prescription Drug Import Fairness Act of 2000’.”
 
@@ -106,7 +112,7 @@ Pub. L. 101–635, §1(a), Nov. 28, 1990, 104 Stat. 4583, provided that: “This
 
 Pub. L. 101–629, §1(a), Nov. 28, 1990, 104 Stat. 4511, provided that: “This Act \[enacting sections 360<i>l</i> and 383 of this title, amending sections 321, 333, 351, 353, and 360c to 360j of this title and sections 263b to 263n of Title 42, The Public Health and Welfare, redesignating sections 263b to 263n of Title 42 as sections 360gg to 360ss of this title, repealing section 263b of Title 42, and enacting provisions set out as notes under sections 333, 360c, 360i, 360j, 360hh and 383 of this title\] may be cited as the ‘Safe Medical Devices Act of 1990’.”
 
-Pub. L. 101–535, §1(a), Nov. 8, 1990, 104 Stat. 2353, provided that: “This Act \[enacting section 343–1 of this title, amending sections 321, 337, 343, 345, and 371 of this title, and enacting provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Nutrition Labeling and Education Act of 1990’.”
+Pub. L. 101–535, §1(a), Nov. 8, 1990, 104 Stat. 2353, provided that: “This Act \[enacting section 343–1 of this title, amending sections 321, 337, 343, 345, and 371 of thistitle, and enacting provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Nutrition Labeling and Education Act of 1990’.”
 
 #### Short Title of 1988 Amendments
 

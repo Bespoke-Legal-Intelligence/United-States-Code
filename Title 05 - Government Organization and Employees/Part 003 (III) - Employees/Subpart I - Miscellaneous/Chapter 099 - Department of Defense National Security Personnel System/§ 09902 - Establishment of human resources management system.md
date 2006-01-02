@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding any other provision of this part, the Secretary may, in regulations prescribed jointly with the Director, establish, and from time to time adjust, a human resources management system for some or all of the organizational or functional units of the Department of Defense. The human resources management system established under authority of this section shall be referred to as the “National Security Personnel System”.
+In General.—Notwithstanding any other provision of this part, the Secretary may, inregulations prescribed jointly with the Director, establish, and from time to time adjust, a human resources management system for some or all of the organizational or functional units of the Department of Defense. The human resources management system established under authority of this section shall be referred to as the “National Security Personnel System”.
 
 (b)
 
@@ -138,7 +138,7 @@ Provisions To Ensure Collaboration With Employee Representatives.—(1) In order
 
 &emsp;(2) The Secretary may, at the Secretary's discretion, engage in any and all collaboration activities described in this subsection at an organizational level above the level of exclusive recognition.
 
-&emsp;(3) In the case of any employees who are not within a unit with respect to which a labor organization is accorded exclusive recognition, the Secretary and the Director may develop procedures for representation by any appropriate organization which represents a substantial percentage of those employees or, if none, in such other manner as may be appropriate, consistent with the purposes of this subsection.
+&emsp;(3) In the case of any employees who are not within a unit with respect to which a labor organization is accorded exclusive recognition,the Secretary and the Director may develop procedures for representation by any appropriate organization which represents a substantial percentage of those employees or, if none, in such other manner as may be appropriate, consistent with the purposes of this subsection.
 
 &emsp;(4) The procedures under this subsection are the exclusive procedures for the participation of employee representatives in the planning, development, implementation, or adjustment of the National Security Personnel System.
 
@@ -234,7 +234,7 @@ Provisions Related to Separation and Retirement Incentives.—(1) The Secretary 
 
 (B) An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 (Public Law 103–236; <sup>1</sup> 108 Stat. 111) and accepts employment with the Government of the United States, or who commences work through a personal services contract with the United States within 5 years after the date of the separation on which payment of the separation pay is based, shall be required to repay the entire amount of the separation pay to the Department of Defense. If the employment is with an Executive agency (as defined by section 105) other than the Department of Defense, the Director may, at the request of the head of that agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is within the Department of Defense, the Secretary may waive the repayment if the individual involved is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
-(7) Under this program, early retirement and separation pay may be offered only pursuant to regulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
+(7) Under this program, early retirement and separation pay may be offered only pursuant toregulations established by the Secretary, subject to such limitations or conditions as the Secretary may require.
 
 (j)
 
@@ -284,7 +284,7 @@ Labor Management Relations in the Department of Defense.—(1) Notwithstanding s
 
 &emsp;(C)(i) Any part of the proposal described in subparagraph (A) as to which employee representatives do not make a recommendation, or as to which the recommendations are accepted under subparagraph (B), may be implemented immediately.
 
-&emsp;(ii) With respect to any parts of the proposal as to which recommendations have been made but not accepted, at any time after 30 calendar days have elapsed since the consultation and mediation procedures set forth in subparagraph (B), if the Secretary, in his discretion, determines that further consultation and mediation is unlikely to produce agreement, the Secretary may implement any or all of suchparts (including any modifications made in response to the recommendations as the Secretary determines advisable), but only after 30 days have elapsed after notifying Congress of the decision to implement the part or parts involved (as so modified, if applicable).
+&emsp;(ii) With respect to any parts of the proposal as to which recommendations have been made but not accepted, at any time after 30 calendar days have elapsed since the consultation and mediation procedures set forth in subparagraph (B), if the Secretary, in his discretion, determines that further consultation and mediation is unlikely to produce agreement, the Secretary may implement any or all of such parts (including any modifications made in response to the recommendations as the Secretary determines advisable), but only after 30 days have elapsed after notifying Congress of the decision to implement the part or parts involved (as so modified, if applicable).
 
 &emsp;(D) The process for collaborating with employee representatives provided for under this subsection shall begin no later than 60 calendar days after the date of enactment of this subsection.
 
@@ -321,6 +321,10 @@ The date of the enactment of this subsection and enactment of this subsection, r
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+#### Civilian Pay
+
+Pub. L. 109–13, div. A, title I, §1020, May 11, 2005, 119 Stat. 251, provided that: “None of the funds appropriated to the Department of Defense by this Act or any other Act for fiscal year 2005 or any other fiscal year may be expended for any pay raise granted on or after January 1, 2005, that is implemented in a manner that provides a greater increase for non-career employees than for career employees on the basis of their status as career or non-career employees, unless specifically authorized by law: <i>Provided</i>, That this provision shall be implemented for fiscal year 2005 without regard to the requirements of section 5383 of title 5, United States Code: <i>Provided further</i>, That no employee of the Department of Defense shall have his or her pay reduced for the purpose of complying with the requirements of this provision.”
 
 #### Pilot Program for Improved Civilian Personnel Management
 

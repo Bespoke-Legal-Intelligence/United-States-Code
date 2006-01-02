@@ -14,7 +14,7 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
-1996—Pub. L. 104–208 substituted “that the admission” for “that the entry”, “shall be admitted to” for “shall be given entry into”, and “families admitted to” for “families entering”.
+1996—Pub. L. 104–208 substituted “that the admission” for “that the entry”, “shall be admitted to” for“shall be given entry into”, and “families admitted to” for “families entering”.
 
 #### Change of Name
 

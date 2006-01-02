@@ -8,7 +8,7 @@ The Secretary may make grants to encourage cooperative arrangements—
 
 &emsp;(2) with funds available to carry out part B of this subchapter, between institutions eligible for assistance under part B of this subchapter and institutions not receiving assistance under this subchapter;
 
-> for the activities described in section 1057(b) of this title or section 1062 of this title, as the case may be, so that the resources of the cooperatinginstitutions might be combined and shared to achieve the purposes of such parts and avoid costly duplicative efforts and to enhance the development of part A and part B eligible institutions.
+> for the activities described in section 1057(b) of this title or section 1062 of this title, as the case may be, so that the resources of the cooperating institutions might be combined and shared to achieve the purposes of such parts and avoid costly duplicative efforts and to enhance the development of part A and part B eligible institutions.
 
 #### (b) Priority
 
@@ -18,7 +18,7 @@ The Secretary shall give priority to grants for the purposes described under sub
 
 Grants to institutions having a cooperative arrangement may be made under this section for a period as determined under section 1059 of this title or section 1062 of this title.
 
-(Pub. L. 89–329, title III, §394, formerly §354, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305; renumbered §394, Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636.)
+(Pub. L. 89–329, title III, §394, formerly §354, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305; renumbered §394, Pub. L.105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636.)
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §601. Manufacture, importation, and public distribution of certain copies
 
-(a) Prior to July 1, 1986, and except as provided by subsection (b), the importation into or public distribution in the United States of copies of a work consisting preponderantly of nondramatic literary material that is in the English language and is protected under this title is prohibited unless the portions consisting of such material have been manufactured in the United States or Canada.
+(a) Prior to July 1, 1986, and except as provided by subsection (b), the importation into or public distribution in the United States of copies of awork consisting preponderantly of nondramatic literary material that is in the English language and is protected under this title is prohibited unless the portions consisting of such material have been manufactured in the United States or Canada.
 
 (b) The provisions of subsection (a) do not apply—
 
@@ -24,7 +24,7 @@
 
 &emsp;(7) where, on the date when importation is sought or public distribution in the United States is made—
 
-&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receivescompensation for the transfer or license of the right to distribute the work in the United States; and
+&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receives compensation for the transfer or license of the right to distribute the work in the United States; and
 
 &emsp;&emsp;(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee who was not a national or domiciliary of the United States or a domestic corporation or enterprise; and
 
@@ -50,7 +50,7 @@
 
 (e) In any action for infringement of the exclusive rights to reproduce and distribute copies of a work containing material required by this section to be manufactured in the United States or Canada, the copyright owner shall set forth in the complaint the names of the persons or organizations who performed the processes specified by subsection (c) with respect to that material, and the places where those processes were performed.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178; Pub. L. 105–80, §12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178;Pub. L. 105–80, §12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535.)
 
 #### Historical and Revision Notes
 
@@ -114,7 +114,7 @@ Under subsection (c) the manufacturing requirement is confined to the following 
 
 Subsection (d) provides a complete defense in any civil action or criminal proceeding for infringement of the exclusive rights of reproduction or distribution of copies where, under certain circumstances, the defendant proves violation of the manufacturing requirements. The defense is limited to infringement of the “nondramatic literary material comprised in the work and any other parts of the work in which the exclusive rights to reproduce and distribute copies are owned by the same person who owns such exclusive rights in the nondramatic literary material.” This means, for example, that the owner of copyright in photographs or illustrations published in a book copyrighted by someone else who would not be deprived of rights against an infringer who proves that there had been a violation of section 601.
 
-Section 601(d) places the full burden for proving violation on the infringer. The infringer's defense must be based on proof that: (1) copies in violation of section 601 have been imported or publicly distributed in the United States “by or with the authority” of the copyright owner; and (2) that the infringing copies complied with the manufacturing requirements; and (3) that the infringement began before an authorized edition complying with the requirements had been registered. The third of these clauses of subsection (d) means, in effect, that a copyright owner can reinstate full exclusive rights by manufacturing an edition in the United States and making registration for it.
+Section 601(d) places the full burden for proving violation on the infringer. The infringer's defense must be based on proof that: (1) copies in violation of section 601have been imported or publicly distributed in the United States “by or with the authority” of the copyright owner; and (2) that the infringing copies complied with the manufacturing requirements; and (3) that the infringement began before an authorized edition complying with the requirements had been registered. The third of these clauses of subsection (d) means, in effect, that a copyright owner can reinstate full exclusive rights by manufacturing an edition in the United States and making registration for it.
 
 Subsection (e) requires the plaintiff in any infringement action involving publishing rights in material subject to the manufacturing clause to identify the manufacturers of the copies in his complaint. Correspondingly, section 409 would require the manufacturers to be identified in applications for registration covering published works subject to the requirements of section 601.
 

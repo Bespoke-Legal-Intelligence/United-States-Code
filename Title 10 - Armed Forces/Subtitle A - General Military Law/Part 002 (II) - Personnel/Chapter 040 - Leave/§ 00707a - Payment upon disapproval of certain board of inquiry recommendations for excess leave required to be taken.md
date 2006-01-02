@@ -4,7 +4,7 @@
 
 &emsp;(1) who is required to take leave under section 1182(c)(2) of this title, any period of which is charged as excess leave under section 706(a) of this title, and
 
-&emsp;(2) whose recommendation for removal from active duty in a report of a board of inquiry is not approved by the Secretary concerned under section 1184 of this title,
+&emsp;(2) whose recommendation for removal from active duty in a report of a board of inquiry isnot approved by the Secretary concerned under section 1184 of this title,
 
 > shall be paid, as provided in subsection (b), for the period of leave charged as excess leave.
 
@@ -17,8 +17,4 @@
 (c) This section shall be administered under uniform regulations prescribed by the Secretaries concerned. The regulations may provide for the method of determining an officer's income during any period the officer is deemed to have accrued pay and allowances, including a requirement that the officer provide income tax returns and other documentation to verify the amount of the officer's income.
 
 (Added Pub. L. 107–314, div. A, title V, §506(b), Dec. 2, 2002, 116 Stat. 2535.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 706 of this title.
 

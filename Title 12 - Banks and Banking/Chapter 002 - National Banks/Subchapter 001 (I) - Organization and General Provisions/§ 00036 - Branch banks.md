@@ -4,11 +4,11 @@ The conditions upon which a national banking association may retain or establish
 
 #### (a) Lawful and continuous operation
 
-A national banking association may retain and operate such branch or branches as it may have had in lawful operation on February 25, 1927, and any national banking association which continuously maintained and operated not more than one branch for a period of more than twenty-five years immediately preceding February 25, 1927, may continue to maintain and operate such branch.
+A national banking association may retain and operate such branch or branches as it mayhave had in lawful operation on February 25, 1927, and any national banking association which continuously maintained and operated not more than one branch for a period of more than twenty-five years immediately preceding February 25, 1927, may continue to maintain and operate such branch.
 
 #### (b) Converted State banks
 
-(1) A national bank resulting from the conversion of a State bank may retain and operate asa branch any office which was a branch of the State bank immediately prior to conversion if such office—
+(1) A national bank resulting from the conversion of a State bank may retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office—
 
 &emsp;(A) might be established under subsection (c) of this section as a new branch of the resulting national bank, and is approved by the Comptroller of the Currency for continued operation as a branch of the resulting national bank;
 
@@ -42,11 +42,11 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (1) In general
 
-&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorized under this section or section 1823(f), 1823(k), or 1831u of this title.
+&emsp;Effective June 1, 1997, a national bank may not acquire, establish, or operate a branch in any State other than the bank's home State (as defined in subsection (g)(3)(B) of this section) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of such branch in such State by such national bank is authorizedunder this section or section 1823(f), 1823(k), or 1831u of this title.
 
 #### (2) Retention of branches
 
-&emsp;In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank's home State (as defined in subsection (g)(3)(B) of this section) before the relocation of such office only to theextent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
+&emsp;In the case of a national bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank's home State (as defined in subsection (g)(3)(B) of this section) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in paragraph (1), to acquire, establish, or commence to operate a branch in such State if—
 
 &emsp;&emsp;(A) the bank had no branches in such State; or
 
@@ -130,7 +130,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (C) Host State
 
-&emsp;&emsp;The term “host State” means, with respect to a bank, a State, other than thehome State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
+&emsp;&emsp;The term “host State” means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
 #### (h) Repealed. Pub. L. 104–208, div. A, title II, §2204, Sept. 30, 1996, 110 Stat. 3009–405
 
@@ -198,7 +198,7 @@ Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L
 
 #### Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress
 
-Pub. L. 95–369, §14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not laterthan one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[Feb. 25, 1927, ch. 191, 44 Stat. 1224\] to the then current financial, banking, and economic environment.
+Pub. L. 95–369, §14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[Feb. 25, 1927, ch. 191, 44 Stat. 1224\] to the then current financial, banking, and economic environment.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

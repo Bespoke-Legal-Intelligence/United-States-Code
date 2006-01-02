@@ -6,7 +6,7 @@ Program Authority and Purpose.—The Secretary of Defense may use the National G
 
 (b)
 
-Conduct of the Program.—(1) The Secretary of Defense shall provide for the conduct of the Program in such States as the Secretary considers to be appropriate.
+Conduct of the Program.—(1) The Secretary of Defense shall provide for the conductof the Program in such States as the Secretary considers to be appropriate.
 
 (2) The Secretary shall carry out the Program using—
 
@@ -74,7 +74,7 @@ Program Personnel.—(1) Personnel of the National Guard of a State in which the
 
 (h)
 
-Equipment and Facilities.—(1) Equipment and facilities of the National Guard, includingmilitary property of the United States issued to the National Guard, may be used in carrying out the Program.
+Equipment and Facilities.—(1) Equipment and facilities of the National Guard, including military property of the United States issued to the National Guard, may be used in carrying out the Program.
 
 (2) Activities under the Program shall be considered noncombat activities of the National Guard for purposes of section 710 of this title.
 

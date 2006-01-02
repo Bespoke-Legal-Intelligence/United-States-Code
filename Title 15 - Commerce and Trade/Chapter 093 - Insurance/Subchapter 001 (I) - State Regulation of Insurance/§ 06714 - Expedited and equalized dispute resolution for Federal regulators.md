@@ -10,7 +10,7 @@ The United States Court of Appeals in which a petition for review is filed in ac
 
 #### (c) Supreme Court review
 
-Any request for certiorari to the Supreme Court of the United States of any judgment of a United States Court of Appeals with respect to a petition for review under this section shall be filed with the Supreme Court of the UnitedStates as soon as practicable after such judgment is issued.
+Any request for certiorari to the Supreme Court of the United States of any judgment of a United States Court of Appeals with respect to a petition for review under this section shall be filed with the Supreme Court of the United States as soon as practicable after such judgment is issued.
 
 #### (d) Statute of limitation
 

@@ -12,7 +12,7 @@ Period of Contract.—The period of a contract entered into under subsection (a)
 
 Option To Purchase Facility.—A contract under this section may contain an option for the purchase by the United States of the facility covered by the contract at the expiration or termination of the contract, without regard to subsections (a) and (b) of section 3324 of title 31, and before approval of title to the underlying land by the Attorney General.
 
-(Added Pub. L. 85–861, §1(46), Sept. 2, 1958, 72 Stat. 1457; amended Pub. L. 97–214, §10(a)(3), July 12, 1982, 96 Stat. 175; Pub. L. 97–258, §3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, §1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, §1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, §3064, Oct. 13, 1994, 108 Stat. 3337.)
+(Added Pub. L. 85–861, §1(46), Sept. 2, 1958, 72 Stat. 1457; amended Pub. L. 97–214, §10(a)(3), July12, 1982, 96 Stat. 175; Pub. L. 97–258, §3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, §1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, §1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, §1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, §825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, §3064, Oct. 13, 1994, 108 Stat. 3337.)
 
 Historical and Revision Notes<br>1956
 

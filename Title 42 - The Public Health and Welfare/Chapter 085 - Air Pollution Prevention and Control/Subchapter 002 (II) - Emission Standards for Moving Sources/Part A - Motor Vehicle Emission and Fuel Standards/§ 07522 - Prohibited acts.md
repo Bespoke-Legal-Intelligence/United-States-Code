@@ -40,7 +40,7 @@ The following acts and the causing thereof are prohibited—
 
 (3) A new motor vehicle or new motor vehicle engine intended solely for export, and so labeled or tagged on the outside of the container and on the vehicle or engine itself, shall be subject to the provisions of subsection (a) of this section, except that if the country which is to receive such vehicle or engine has emission standards which differ from the standards prescribed under section 7521 of this title, then such vehicle or engine shall comply with the standards of such country which is to receive such vehicle or engine.
 
-(July 14, 1955, ch. 360, title II, §203, as added Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat.993; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499; Pub. L. 91–604, §§7(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, 84 Stat. 1693, 1705, 1713; Pub. L. 95–95, title II, §§206, 211(a), 218(a), (d), 219(a), (b), Aug. 7, 1977, 91 Stat. 755, 757, 761, 762; Pub. L. 95–190, §14(a)(66)–(68), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title II, §§228(a), (b), (e), 230(6), Nov. 15, 1990, 104 Stat. 2507, 2511, 2529.)
+(July 14, 1955, ch. 360, title II, §203, as added Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 993; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499; Pub. L. 91–604, §§7(a), 11(a)(2)(A), 15(c)(2), Dec. 31, 1970, 84 Stat. 1693, 1705, 1713; Pub. L. 95–95, title II, §§206, 211(a), 218(a), (d), 219(a), (b), Aug. 7, 1977, 91 Stat. 755, 757, 761, 762; Pub. L. 95–190, §14(a)(66)–(68), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title II, §§228(a), (b), (e), 230(6), Nov. 15, 1990, 104 Stat. 2507, 2511, 2529.)
 
 #### Codification
 
@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 101–549, §228(b)(1), amended par. (3) generally. Prio
 
 “(A) for any person to remove or render inoperative any device or element of design installed on or in a motor vehicle or motor vehicle engine in compliance with regulations under this subchapter prior to its sale and delivery to the ultimate purchaser, or for any manufacturer or dealer knowingly to remove or render inoperative any such device or element of design after such sale and delivery to the ultimate purchaser; or
 
-“(B) for any person engaged in the business of repairing, servicing, selling, leasing, or trading motor vehicles or motor vehicle engines, or who operates a fleet of motor vehicles, knowingly to remove or render inoperative any device or element of design installed on or in a motor vehicle or motor vehicle engine in compliance with regulations under this subchapter following its sale and delivery to the ultimate purchaser; or”.
+“(B) for any person engaged in the business of repairing, servicing, selling, leasing, or trading motor vehicles or motor vehicle engines, or who operates a fleet of motor vehicles, knowingly to remove or render inoperative any device or element of design installed on orin a motor vehicle or motor vehicle engine in compliance with regulations under this subchapter following its sale and delivery to the ultimate purchaser; or”.
 
 Subsec. (a)(4). Pub. L. 101–549, §228(e)(2), inserted “part C of this subchapter” after “section 7521 of this title”.
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an EffectiveDate of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

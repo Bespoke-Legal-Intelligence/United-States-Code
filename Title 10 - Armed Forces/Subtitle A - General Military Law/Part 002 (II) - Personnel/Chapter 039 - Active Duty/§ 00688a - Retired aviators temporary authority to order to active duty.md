@@ -30,7 +30,3 @@ Expiration of Authority.—An officer may not be ordered to active duty under th
 
 Pub. L. 107–314, div. A, title V, §503(c), Dec. 2, 2002, 116 Stat. 2531, provided that: “Any officer ordered to active duty under section 501 of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65; 113 Stat. 589) who continues on active duty under such order to active duty after the date of the enactment of this Act \[Dec. 2, 2002\] shall be counted for purposes of the limitation under subsection (c) of section 688a of title 10, United States Code, as added by subsection (a).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 689 of this title.
-

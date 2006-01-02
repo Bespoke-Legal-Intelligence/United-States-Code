@@ -22,7 +22,7 @@
 
 (2) In the case of withholdings made under subsection (a)(2) of this section, the regulations promulgated pursuant to this subsection shall include the following requirements:
 
-&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time thatthe State first began to enforce the child support order involved under the State plan, and may limit the application of the withholding to past-due support accrued since such time.
+&emsp;(A) The withholding shall apply only in the case where the State determines that the amount of the past-due support which will be owed at the time the withholding is to be made, based upon the pattern of payment of support and other enforcement actions being pursued to collect the past-due support, is equal to or greater than $500. The State may limit the $500 threshold amount to amounts of past-due support accrued since the time that the State first began to enforce the child support order involved under the State plan, and may limit the application of the withholding to past-due support accrued since such time.
 
 &emsp;(B) The fee which the Secretary of the Treasury may impose to cover the costs of the withholding and notification may not exceed $25 per case submitted.
 
@@ -58,7 +58,7 @@ Pub. L. 105–33, §5532(i)(1), inserted “in accordance with section 657 of th
 
 Pub. L. 104–193 substituted “section 657” for “section 657(b)(4) or (d)(3)”.
 
-Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by the Secretary of the Department of the Treasury or his designee.”
+Subsec. (a)(2)(A). Pub. L. 104–134, §31001(v)(2)(2), inserted at end “This subsection may be executed by theSecretary of the Department of the Treasury or his designee.”
 
 1990—Subsec. (a)(2)(B). Pub. L. 101–508, §5011(a), struck out “, and before January 1, 1991” after “1985”.
 

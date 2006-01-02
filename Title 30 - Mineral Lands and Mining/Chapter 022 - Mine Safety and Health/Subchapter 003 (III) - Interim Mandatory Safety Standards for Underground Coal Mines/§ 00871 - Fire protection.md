@@ -18,7 +18,7 @@ All welding, cutting, or soldering with arc or flame in all underground areas of
 
 #### (e) Installation of fire suppression devices on unattended underground equipment; flame-resistant hydraulic fluids
 
-Within one year after the operative date of this subchapter, fire suppression devices meeting specifications prescribed by the Secretary shall be installed on unattended underground equipment and suitable fire-resistant hydraulic fluids approved by the Secretary shall be used in the hydraulic systems of such equipment. Such fluids shall be used in the hydraulic systems of other underground equipment unless fire suppression devices meeting specifications prescribed by the Secretary are installed on such equipment.
+Within one year after the operative date of this subchapter, fire suppression devices meeting specifications prescribed by the Secretaryshall be installed on unattended underground equipment and suitable fire-resistant hydraulic fluids approved by the Secretary shall be used in the hydraulic systems of such equipment. Such fluids shall be used in the hydraulic systems of other underground equipment unless fire suppression devices meeting specifications prescribed by the Secretary are installed on such equipment.
 
 #### (f) Deluge-type water sprays at main and secondary drives
 

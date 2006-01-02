@@ -1,0 +1,12 @@
+### §6991j. Use of funds for release prevention and compliance
+
+Funds made available under section 6991m(2)(D) of this title from the Trust Fund may be used to conduct inspections, issue orders, or bring actions under this subchapter—
+
+&emsp;(1) by a State, in accordance with a grant or cooperative agreement with the Administrator, of <sup>1</sup> State regulations pertaining to underground storage tanks regulated under this subchapter; and
+
+&emsp;(2) by the Administrator, for tanks regulated under this subchapter (including under a State program approved under section 6991c of this title).
+
+(Pub. L. 89–272, title II, §9011, as added Pub. L. 109–58, title XV, §1526(a), Aug. 8, 2005, 119 Stat. 1097.)
+
+<i><sup>1</sup></i><i> So in original.</i>
+

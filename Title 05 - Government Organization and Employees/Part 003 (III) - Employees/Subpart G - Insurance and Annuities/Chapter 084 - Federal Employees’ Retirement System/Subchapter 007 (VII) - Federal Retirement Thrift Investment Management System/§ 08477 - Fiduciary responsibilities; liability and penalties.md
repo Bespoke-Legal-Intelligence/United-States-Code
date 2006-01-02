@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) defraying reasonable expenses of administering the Thrift Savings Fund or applicable portions thereof;
 
-&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent individual acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like objectives; and
+&emsp;(B) with the care, skill, prudence, and diligence under the circumstances then prevailingthat a prudent individual acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like objectives; and
 
 &emsp;(C) to the extent permitted by section 8438 of this title, by diversifying the investments of the Thrift Savings Fund or applicable portions thereof so as to minimize the risk of large losses, unless under the circumstances it is clearly prudent not to do so.
 
@@ -166,7 +166,7 @@
 
 (4)(A) In all civil actions under paragraph (3)(A), attorneys appointed by the Secretary may represent the Secretary (except as provided in section 518(a) of title 28), however all such litigation shall be subject to the direction and control of the Attorney General.
 
-(B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process tothe Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
+(B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process to the Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
 
 (C) Upon certification by the Attorney General that a fiduciary described in paragraph (3)(C)(ii) was acting in the scope of such fiduciary's duties or employment as a fiduciary at the time of the occurrence or omission out of which the action arose, any such civil action or proceeding commenced in a State court shall be—
 

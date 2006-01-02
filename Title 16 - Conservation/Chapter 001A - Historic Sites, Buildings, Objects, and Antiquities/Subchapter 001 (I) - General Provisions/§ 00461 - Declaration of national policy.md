@@ -4,6 +4,10 @@ It is declared that it is a national policy to preserve for public use historic 
 
 (Aug. 21, 1935, ch. 593, §1, 49 Stat. 666.)
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–156, §1, Dec. 30, 2005, 119 Stat. 2946, provided that: “This Act \[amending section 463 of this title and enacting provisions set out as a note under section 463 of this title\] may be cited as the ‘Delaware Water Gap National Recreation Area Improvement Act’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–291, title I, §150(a), Oct. 11, 2000, 114 Stat. 956, provided that: “This section \[enacting section 469<i>l</i>–2 of this title and provisions set out as a note under section 469<i>l</i>–2 of this title\] may be cited as the ‘National Underground Railroad Freedom Center Act’.”
@@ -160,7 +164,7 @@ Salem Maritime National Historic Site, Massachusetts.—Designated Mar. 17, 1938
 
 San Juan National Historic Site, Puerto Rico.—Designated Feb. 14, 1949.
 
-Sand Creek Massacre National Historic Site, Colorado.—Pub. L. 106–465, Nov. 7, 2000, 114 Stat. 2019.
+Sand Creek Massacre National Historic Site, Colorado.—Pub. L. 106–465, Nov. 7, 2000, 114 Stat. 2019; Pub. L. 109–45, Aug. 2, 2005, 119 Stat. 445.
 
 Saugus Iron Works National Historic Site, Massachusetts.—Pub. L. 90–282, Apr. 5, 1968, 82 Stat. 72.
 
@@ -358,7 +362,7 @@ Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. 
 
 &emsp;“(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
 
-“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
+“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary toaccomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
 
 “Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
@@ -398,7 +402,7 @@ Sec. 3. \[Personnel; financial and administrative services\] (a) The Commission 
 
 “(b) The Commission shall have power to appoint and fix the compensation of such additional personnel as may be necessary to carry out its duties, without regard to the provisions of the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees\].
 
-“(c) The Commission may also procure, without regard to the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5\], temporary and intermittent services to the same extent as is authorized for the executive departments by section 15 of the Administrative Expenses Act of 1946 \[see section 3109 of Title 5\], but at rates not to exceed $100 per diem for individuals.
+“(c) The Commission may also procure, without regard to the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title5\], temporary and intermittent services to the same extent as is authorized for the executive departments by section 15 of the Administrative Expenses Act of 1946 \[see section 3109 of Title 5\], but at rates not to exceed $100 per diem for individuals.
 
 “(d) The members of the Commission specified in paragraph (1) of section 2(a) shall provide the Commission, on a reimbursable basis, with such facilities and services under their jurisdiction and control as may be needed by the Commission to carry out its duties, to the extent that such facilities and services are requested by the Commission and are otherwise available for that purpose. To the extent of available appropriations, the Commission may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties. Upon the termination of the Commission all property, personal and real, and unexpended funds shall be transferred to the Department of the Interior.
 
@@ -462,7 +466,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°1736 N., Longitude 80°1000 W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°2006 N., Longitude 80°1236 W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”;thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°0225 N., Longitude 80°2536 W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°0018 N., Longitude 80°2230 W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 

@@ -6,7 +6,7 @@ The Secretary shall periodically determine the amount which should be paid under
 
 #### (b) Conditions
 
-No payment shall be made to a provider of services which is a hospital for or with respect to services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality control and peer review organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under thissubchapter for utilization review activities provided by a quality control and peer review organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
+No payment shall be made to a provider of services which is a hospital for or with respect to services furnished by it for any period with respect to which it is deemed, under section 1395x(w)(2) of this title, to have in effect an arrangement with a quality control and peer review organization for the conduct of utilization review activities by such organization unless such hospital has paid to such organization the amount due (as determined pursuant to such section) to such organization for the review activities conducted by it pursuant to such arrangements or such hospital has provided assurances satisfactory to the Secretary that such organization will promptly be paid the amount so due to it from the proceeds of the payment claimed by the hospital. Payment under this subchapter for utilization review activities provided by a quality control and peer review organization pursuant to an arrangement or deemed arrangement with a hospital under section 1395x(w)(2) of this title shall be calculated without any requirement that the reasonable cost of such activities be apportioned among the patients of such hospital, if any, to whom such activities were not applicable.
 
 #### (c) Payments under assignment or power of attorney
 
@@ -14,7 +14,7 @@ No payment which may be made to a provider of services under this subchapter for
 
 #### (d) Accrual of interest on balance of excess or deficit not paid
 
-Whenever a final determination is made that the amount of payment made under this part to a provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
+Whenever a final determination is made that the amount of payment made under this part to a provider of services was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on thebalance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments.
 
 #### (e) Periodic interim payments
 
@@ -62,7 +62,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;(B) the merging or consolidating hospitals or campuses would each meet the requirement of paragraph (1)(B)(i) if such hospitals or campuses were treated as independent hospitals for purposes of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 97–248, §117(a)(1), added subsec. (d).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004.”
+Pub. L. 108–173, title IV, §405(c)(3), Dec. 8, 2003, 117 Stat. 2267, provided that: “The amendments made byparagraph (1) \[amending this section\] shall apply to payments made on or after July 1, 2004.”
 
 #### Effective Date of 1997 Amendment
 

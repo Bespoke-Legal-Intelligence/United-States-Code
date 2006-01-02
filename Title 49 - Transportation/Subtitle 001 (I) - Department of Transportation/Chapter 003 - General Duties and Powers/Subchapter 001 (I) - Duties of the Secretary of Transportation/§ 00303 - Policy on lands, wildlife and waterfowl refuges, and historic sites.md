@@ -4,13 +4,57 @@
 
 (b) The Secretary of Transportation shall cooperate and consult with the Secretaries of the Interior, Housing and Urban Development, and Agriculture, and with the States, in developing transportation plans and programs that include measures to maintain or enhance the natural beauty of lands crossed by transportation activities or facilities.
 
-(c) The Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
+(c)
+
+Approval of Programs and Projects.—Subject to subsection (d), the Secretary may approve a transportation program or project (other than any project for a park road or parkway under section 204 of title 23) requiring the use of publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance (as determined by the Federal, State, or local officials having jurisdiction over the park, area, refuge, or site) only if—
 
 &emsp;(1) there is no prudent and feasible alternative to using that land; and
 
 &emsp;(2) the program or project includes all possible planning to minimize harm to the park, recreation area, wildlife and waterfowl refuge, or historic site resulting from the use.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2419; Pub. L. 100–17, title I, §133(d), Apr. 2, 1987, 101 Stat. 173.)
+(d)
+
+De Minimis Impacts.—
+
+&emsp;(1)
+
+Requirements.—
+
+&emsp;&emsp;(A)
+
+Requirements for historic sites.—The requirements of this section shall be considered to be satisfied with respect to an area described in paragraph (2) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area.
+
+&emsp;&emsp;(B)
+
+Requirements for parks, recreation areas, and wildlife or waterfowl refuges.—The requirements of subsection (c)(1) shall be considered to be satisfied with respect to an area described in paragraph (3) if the Secretary determines, in accordance with this subsection, that a transportation program or project will have a de minimis impact on the area. The requirements of subsection (c)(2) with respect to an area described in paragraph (3) shall not include an alternatives analysis.
+
+&emsp;&emsp;(C)
+
+Criteria.—In making any determination under this subsection, the Secretary shall consider to be part of a transportation program or project any avoidance, minimization, mitigation, or enhancement measures that are required to be implemented as a condition of approval of the transportation program or project.
+
+&emsp;(2)
+
+Historic sites.—With respect to historic sites, the Secretary may make a finding of de minimis impact only if—
+
+&emsp;&emsp;(A) the Secretary has determined, in accordance with the consultation process required under section 106 of the National Historic Preservation Act (16 U.S.C. 470f), that—
+
+&emsp;&emsp;&emsp;(i) the transportation program or project will have no adverse effect on the historic site; or
+
+&emsp;&emsp;&emsp;(ii) there will be no historic properties affected by the transportation program or project;
+
+&emsp;&emsp;(B) the finding of the Secretary has received written concurrence from the applicable State historic preservation officer or tribal historic preservation officer (and from the Advisory Council on Historic Preservation if the Council is participating in the consultation process); and
+
+&emsp;&emsp;(C) the finding of the Secretary has been developed in consultation with parties consulting as part of the process referred to in subparagraph (A).
+
+&emsp;(3)
+
+Parks, recreation areas, and wildlife or waterfowl refuges.—With respect to parks, recreation areas, or wildlife or waterfowl refuges, the Secretary may make a finding of de minimis impact only if—
+
+&emsp;&emsp;(A) the Secretary has determined, after public notice and opportunity for public review and comment, that the transportation program or project will not adversely affect the activities, features, and attributes of the park, recreation area, or wildlife or waterfowl refuge eligible for protection under this section; and
+
+&emsp;&emsp;(B) the finding of the Secretary has received concurrence from the officials with jurisdiction over the park, recreation area, or wildlife or waterfowl refuge.
+
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 100–17, title I, §133(d), Apr. 2, 1987, 101 Stat. 173; Pub. L. 109–59, title VI, §6009(a)(2), Aug. 10, 2005, 119 Stat. 1875.)
 
 Historical and Revision Notes
 
@@ -49,6 +93,10 @@ In subsection (b), the words “crossed by transportation activities or faciliti
 In subsection (c), before clause (1), the words “After August 23, 1968” after “Secretary” are omitted as executed. The word “transportation” is inserted before “program” for clarity. In clause (2), the words “or project” are added for consistency.
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–59, §6009(a)(2)(A), inserted heading and substituted “Subject to subsection (d), the Secretary” for “The Secretary” in introductory provisions.
+
+Subsec. (d). Pub. L. 109–59, §6009(a)(2)(B), added subsec. (d).
 
 1987—Subsec. (c). Pub. L. 100–17 inserted “(other than any project for a park road or parkway under section 204 of title 23)” after “program or project”.
 

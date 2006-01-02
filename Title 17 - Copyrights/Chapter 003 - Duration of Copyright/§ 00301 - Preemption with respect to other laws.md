@@ -72,7 +72,7 @@ The proprietor of data displayed on the cathode ray tube of a computer terminal 
 
 Nothing contained in section 301 precludes the owner of a material embodiment of a copy or a phonorecord from enforcing a claim of conversion against one who takes possession of the copy or phonorecord without consent.
 
-A unique and difficult problem is presented with respect to the status of sound recordings fixed before February 12, 1972, the effective date of the amendment bringing recordings fixed after that date under Federal copyright protection. In its testimony during the 1975hearings, the Department of Justice pointed out that, under section 301 as then written:
+A unique and difficult problem is presented with respect to the status of sound recordings fixed before February 12, 1972, the effective date of the amendment bringing recordings fixed after that date under Federal copyright protection. In its testimony during the 1975 hearings, the Department of Justice pointed out that, under section 301 as then written:
 
 &emsp;This language could be read as abrogating the anti-piracy laws now existing in 29 states relating to pre-February 15, 1972, sound recordings on the grounds that these statutes proscribe activities violating rights equivalent to \* \* \* the exclusive rights within the general scope of copyright. \* \* \* Certainly such a result cannot have been intended for it would likely effect the immediate resurgence of piracy of pre-February 15, 1972, sound recordings.
 
@@ -100,7 +100,7 @@ Subsec. (f). Pub. L. 101–650, §605, added subsec. (f).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 605 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by section 605 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L.101–650, set out as an Effective Date note under section 106A of this title.
 
 Amendment by section 705 Pub. L. 101–650 applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as a note under section 101 of this title.
 

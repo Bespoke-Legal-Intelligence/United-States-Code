@@ -8,7 +8,7 @@ Except as otherwise provided in this section, a partnership, S corporation, or p
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), an election may be made under subsection (a)only if the deferral period of the taxable year elected is not longer than 3 months.
+&emsp;Except as provided in paragraphs (2) and (3), an election may be made under subsection (a) only if the deferral period of the taxable year elected is not longer than 3 months.
 
 #### (2) Changes in taxable year
 
@@ -110,7 +110,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 “(2)
 
-Required payments.—The amendments made by subsection (b) \[enacting section 7519 of this title\] shallapply to applicable election years beginning after December 31, 1986.
+Required payments.—The amendments made by subsection (b) \[enacting section 7519 of this title\] shall apply to applicable election years beginning after December 31, 1986.
 
 “(3)
 
@@ -125,8 +125,4 @@ Special rule for existing entities electing s corporation status.—If a C corpo
 &emsp;“(B) elected to have the calendar year as the taxable year of the S corporation,
 
 > then section 444(b)(2)(B) of such Code shall be applied by taking into account the deferral period of the last taxable year of the C corporation rather than the deferral period of the taxable year being changed. The preceding sentence shall apply only in the case of an election under section 444 of such Code made for a taxable year beginning before 1989.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280H, 7519 of this title.
 

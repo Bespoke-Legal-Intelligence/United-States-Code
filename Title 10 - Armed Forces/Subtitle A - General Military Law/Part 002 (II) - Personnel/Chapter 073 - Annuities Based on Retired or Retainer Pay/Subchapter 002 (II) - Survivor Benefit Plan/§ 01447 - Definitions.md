@@ -90,7 +90,7 @@ In general.—The term “dependent child” means a person who—
 
 &emsp;&emsp;(B)
 
-Special rules for college students.—For the purpose of subparagraph\(A), a child whose twenty-second birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is considered to have become 22 years of age on the first day of July after that birthday. A child who is a student is considered not to have ceased to be a student during an interim between school years if the interim is not more than 150 days and if the child shows to the satisfaction of the Secretary of Defense that the child has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim.
+Special rules for college students.—For the purpose of subparagraph (A), a child whose twenty-second birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is considered to have become 22 years of age on the first day of July after that birthday. A child who is a student is considered not to have ceased to be a student during an interim between school years if the interim is not more than 150 days and if the child shows to the satisfaction of the Secretary of Defense that the child has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
 &emsp;&emsp;(C)
 
@@ -225,8 +225,4 @@ Section 1 of Pub. L. 96–402 provided: “That this Act \[amending this section
 #### End of 90-Day Period With Respect to Certain Individuals
 
 Section 208 of Pub. L. 95–397, as amended by Pub. L. 96–107, title VIII, §816, Nov. 9, 1979, 93 Stat. 818, provided that the 90-day period referred to in former sections 1447(2)(C) and 1448(a)(2) and (4)(B) of this title was to be considered to end on Mar. 31, 1980, for an individual who would have been eligible for retired pay under former chapter 67 of this title on the effective date of title II of Pub. L. 95–397 (see Effective Date of 1978 Amendment note above), but for the fact such individual was under 60 years of age, or for an individual who received before Jan. 1, 1980, a notification that such individual had completed the years of service required for eligibility for such retired pay.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1078a, 1456 of this title.
 

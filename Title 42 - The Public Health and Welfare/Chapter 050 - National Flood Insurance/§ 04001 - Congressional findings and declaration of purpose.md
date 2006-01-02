@@ -18,11 +18,11 @@ It is therefore the purpose of this chapter to (1) authorize a flood insurance p
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
-It is the further purpose of this chapter to (1) encourage State and local governments to makeappropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
+It is the further purpose of this chapter to (1) encourage State and local governments to make appropriate land use adjustments to constrict the development of land which is exposed to flood damage and minimize damage caused by flood losses, (2) guide the development of proposed future construction, where practicable, away from locations which are threatened by flood hazards, (3) encourage lending and credit institutions, as a matter of national policy, to assist in furthering the objectives of the flood insurance program, (4) assure that any Federal assistance provided under the program will be related closely to all flood-related programs and activities of the Federal Government, and (5) authorize continuing studies of flood hazards in order to provide for a constant reappraisal of the flood insurance program and its effect on land use requirements.
 
 #### (f) Mudslides
 
-The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
+The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowingwaters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
 
 (Pub. L. 90–448, title XIII, §1302, Aug. 1, 1968, 82 Stat. 572; Pub. L. 91–152, title IV, §409(a), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §108(a), Dec. 31, 1973, 87 Stat. 979; Pub. L. 103–325, title V, §552(d), Sept. 23, 1994, 108 Stat. 2269.)
 
@@ -41,6 +41,12 @@ This chapter, referred to in subsecs. (d) to (f), is title XIII of Pub. L. 90–
 #### Effective Date
 
 Section 1377 of title XIII of Pub. L. 90–448 provided that: “This title \[enacting this chapter, amending section 2414 of this title, repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
+
+#### Short Title of 2005 Amendments
+
+Pub. L. 109–106, §1, Nov. 21, 2005, 119 Stat. 2288, provided that: “This Act \[amending section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Further Enhanced Borrowing Authority Act of 2005’.”
+
+Pub. L. 109–65, §1, Sept. 20, 2005, 119 Stat. 1998, provided that: “This Act \[amending section 4016 of this title\] may be cited as the ‘National Flood Insurance Program Enhanced Borrowing Authority Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -68,7 +74,7 @@ Section 1301 of title XIII of Pub. L. 90–448 provided that: “This title \[en
 
 Section 583 of title V of Pub. L. 103–325 provided that: “The Director of the Federal Emergency Management Agency and any appropriate Federal agency may each issue any regulations necessary to carry out the applicable provisions of this title \[see Short Title of 1994 Amendment note above\] and the applicable amendments made by this title.”
 
-\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d),552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Evaluation of Erosion Hazards
 
@@ -180,7 +186,7 @@ Submission.—The Director shall submit the report to the Congress as soon as pr
 
 #### Relation of Title V of Pub. L. 103–325 to State and Local Laws
 
-Section 584 of title V of Pub. L. 103–325 provided that: “This title \[see Short Title of 1994 Amendment note above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
+Section 584 of title V of Pub. L. 103–325 provided that: “This title \[see Short Title of 1994 Amendment noteabove\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control.”
 
 #### Floodplain Management
 

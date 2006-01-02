@@ -16,7 +16,7 @@
 
 (d) Subsections (a) and (b) do not apply to—
 
-&emsp;(1) officers who are discharged or transferred from an active status for physical disability,for cause, or because they have reached the age at which transfer from an active status or discharge is required by law; or
+&emsp;(1) officers who are discharged or transferred from an active status for physical disability, for cause, or because they have reached the age at which transfer from an active status or discharge is required by law; or
 
 &emsp;(2) commissioned warrant officers.
 
@@ -80,7 +80,7 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §205), 205, 307(c), 503(c
 
 50:1195(c).
 
-In subsections (a) and (b), the words “Notwithstanding any other provisions of this chapter, except as provided in sections 1265 and 1279 of this title” and “has been credited with, or” are omitted as surplusage. The words “entitled to be” in clause (1) are inserted for clarity.
+In subsections (a) and (b), the words “Notwithstanding any other provisions of this chapter, except as provided in sections 1265 and 1279 of this title” and “has been credited with, or” are omitted as surplusage. Thewords “entitled to be” in clause (1) are inserted for clarity.
 
 In subsection (e), the words “at the end of that period” are substituted for the word “then” for clarity. The words “before the end of that period” are substituted for the word “earlier” for clarity.
 
@@ -121,8 +121,4 @@ Amendment by sections 1662(h)(2) and 1675(d)(3)(A) of Pub. L. 103–337 effectiv
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14504, 14505, 14506, 14507 of this title; title 14 sections 740, 741.
 

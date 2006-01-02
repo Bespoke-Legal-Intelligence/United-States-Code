@@ -14,7 +14,7 @@
 
 (c) An allowance paid under this section shall be treated in the same manner as is provided in subsection (c) of section 5901 of title 5 for an allowance paid under that section.
 
-(Added Pub. L. 100–178, title VI, §601(a), Dec. 2, 1987, 101 Stat. 1015, §1606; amended Pub. L.101–189, div. A, title III, §336(b), Nov. 29, 1989, 103 Stat. 1419; renumbered §1622, Pub. L. 104–201, div. A, title XVI, §1632(a)(2), Sept. 23, 1996, 110 Stat. 2745.)
+(Added Pub. L. 100–178, title VI, §601(a), Dec. 2, 1987, 101 Stat. 1015, §1606; amended Pub. L. 101–189, div. A, title III, §336(b), Nov. 29, 1989, 103 Stat. 1419; renumbered §1622, Pub. L. 104–201, div. A, title XVI, §1632(a)(2), Sept. 23, 1996, 110 Stat. 2745.)
 
 #### Prior Provisions
 
@@ -29,8 +29,4 @@ A prior section 1622, added Pub. L. 99–145, title IX, §924(a)(1), Nov. 8, 198
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–189 effective Jan. 1, 1990, see section 336(c) of Pub. L. 101–189, set out as an Effective Date note under section 1593 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1593 of this title.
 

@@ -30,7 +30,7 @@ To contribute to the achievement of the goals under the Full Employment and Bala
 
 &emsp;(J) proper attention to the dislocation of jobs caused by Federal laws, regulations, and policies;
 
-&emsp;(K) policies and programs designed to increase exports and improve the international competitive position of agriculture, business, and industry, including measures to promote a free and fair international trading system, a sound and stable international monetary system and innovation in agriculture, business, and industry;
+&emsp;(K) policies and programs designed to increase exports and improve the international competitive position of agriculture, business, and industry, including measures to promote afree and fair international trading system, a sound and stable international monetary system and innovation in agriculture, business, and industry;
 
 &emsp;(L) such other priority policies and programs as the President deems appropriate.
 

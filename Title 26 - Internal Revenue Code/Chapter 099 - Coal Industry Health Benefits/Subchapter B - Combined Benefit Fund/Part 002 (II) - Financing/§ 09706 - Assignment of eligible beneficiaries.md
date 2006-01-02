@@ -16,7 +16,7 @@ For purposes of this chapter, the Commissioner of Social Security shall, before 
 
 &emsp;&emsp;(B) was the most recent signatory operator to employ the coal industry retiree in the coal industry.
 
-&emsp;(3) Third, if the retiree is not assigned under paragraph (1) or (2), to the signatory operator which employed the coal industry retiree in the coal industry for a longer period of time than any other signatory operator prior to the effective date of the 1978 coal wage agreement.
+&emsp;(3) Third, if the retiree is not assigned under paragraph (1) or (2), to the signatory operator which employed the coal industry retiree inthe coal industry for a longer period of time than any other signatory operator prior to the effective date of the 1978 coal wage agreement.
 
 #### (b) Rules relating to employment and reassignment upon purchase
 
@@ -64,7 +64,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (3) Trustees
 
-&emsp;The trustees of the Combined Fund, the 1950 UMWA Benefit Plan, the 1974 UMWA Benefit Plan, the 1950 UMWA Pension Plan, and the 1974 UMWA Pension Plan shall fully and promptly cooperate with the Commissioner infurnishing, or assisting the Commissioner to obtain, any information the Commissioner needs to carry out the Commissioner's responsibilities under this section.
+&emsp;The trustees of the Combined Fund, the 1950 UMWA Benefit Plan, the 1974 UMWA Benefit Plan, the 1950 UMWA Pension Plan, and the 1974 UMWA Pension Plan shall fully and promptly cooperate with the Commissioner in furnishing, or assisting the Commissioner to obtain, any information the Commissioner needs to carry out the Commissioner's responsibilities under this section.
 
 #### (e) Notice by Commissioner
 
@@ -125,8 +125,4 @@ Any person to which information is provided by the Commissioner of Social Securi
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9701, 9702, 9704 of this title.
 

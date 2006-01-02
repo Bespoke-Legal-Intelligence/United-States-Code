@@ -82,7 +82,7 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 #### (g) Matters to be considered by Enterprise Funds
 
-In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, andthe likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
+In carrying out this section, each Enterprise Fund shall take into account such considerations as internationally recognized worker rights and other internationally recognized human rights, environmental factors, United States economic and employment effects, and the likelihood of commercial viability of the activity receiving assistance from the Enterprise Fund.
 
 #### (h) Retention of interest
 
@@ -114,7 +114,7 @@ Executive branch agencies may conduct programs and activities and provide servic
 
 #### (m) Independent private audits
 
-The accounts of each Enterprise Fund shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by this section.
+The accounts of each Enterprise Fund shall be audited annually in accordance with generallyaccepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by this section.
 
 #### (n) GAO audits
 

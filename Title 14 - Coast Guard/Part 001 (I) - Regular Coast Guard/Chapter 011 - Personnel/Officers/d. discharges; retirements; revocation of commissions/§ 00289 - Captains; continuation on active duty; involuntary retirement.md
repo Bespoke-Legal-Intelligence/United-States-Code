@@ -34,7 +34,7 @@
 
 #### Effective Date
 
-Section 6 of Pub. L. 88–130 provided that: “Section 289 of title 14, United States Code, as enacted by section 1(10)(C) of this Act \[see section 5(a) of Pub. L. 88–130, setout as a note under section 211 of this title\], becomes effective three years after the effective date of this Act \[Sept. 24, 1963\], or on July 1, 1966, whichever is later.”
+Section 6 of Pub. L. 88–130 provided that: “Section 289 of title 14, United States Code, as enacted by section 1(10)(C) of this Act \[see section 5(a) of Pub. L. 88–130, set out as a note under section 211 of this title\], becomes effective three years after the effective date of this Act \[Sept. 24, 1963\], or on July 1, 1966, whichever is later.”
 
 #### Consideration for Retention on Active Duty Under Former Section 248 of This Title
 

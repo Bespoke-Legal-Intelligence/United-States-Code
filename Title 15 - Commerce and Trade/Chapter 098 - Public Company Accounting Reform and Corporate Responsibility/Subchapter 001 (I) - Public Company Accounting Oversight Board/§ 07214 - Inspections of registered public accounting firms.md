@@ -22,7 +22,7 @@ The Board shall conduct a continuing program of inspections to assess the degree
 
 The Board shall, in each inspection under this section, and in accordance with its rules for such inspections—
 
-&emsp;(1) identify any act or practice or omission to act by the registered public accounting firm, or by any associated person thereof, revealed by such inspection that may be in violation of this Act, the rules of the Board, therules of the Commission, the firm's own quality control policies, or professional standards;
+&emsp;(1) identify any act or practice or omission to act by the registered public accounting firm, or by any associated person thereof, revealed by such inspection that may be in violation of this Act, the rules of the Board, the rules of the Commission, the firm's own quality control policies, or professional standards;
 
 &emsp;(2) report any such act, practice, or omission, if appropriate, to the Commission and each appropriate State regulatory authority; and
 
@@ -50,7 +50,7 @@ The rules of the Board shall provide a procedure for the review of and response 
 
 A written report of the findings of the Board for each inspection under this section, subject to subsection (h) of this section, shall be—
 
-&emsp;(1) transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector, and any letter of response from the registered public accounting firm; and
+&emsp;(1) transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector,and any letter of response from the registered public accounting firm; and
 
 &emsp;(2) made available in appropriate detail to the public (subject to section 7215(b)(5)(A) of this title, and to the protection of such confidential and proprietary information as the Board may determine to be appropriate, or as may be required by law), except that no portions of the inspection report that deal with criticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm, to the satisfaction of the Board, not later than 12 months after the date of the inspection report.
 

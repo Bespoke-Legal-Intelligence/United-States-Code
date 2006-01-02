@@ -722,6 +722,72 @@ In general.
 
 Program description.
 
+|  |  |
+| :--- | ---: |
+| [2152f.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152f%20-%20Assistance%20for%20orphans%20and%20other%20vulnerable%20children.md) | Assistance for orphans and other vulnerable children. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings.
+
+(b)
+
+Definitions.
+
+(c)
+
+Assistance.
+
+(d)
+
+Monitoring and evaluation.
+
+(e)
+
+Special Advisor for Assistance to Orphans and Vulnerable Children.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [2152g.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152g%20-%20Annual%20report.md) | Annual report. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Report.
+
+(b)
+
+Contents.
+
+|  |  |
+| :--- | ---: |
+| [2152h.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152h%20-%20Assistance%20to%20provide%20safe%20water%20and%20sanitation.md) | Assistance to provide safe water and sanitation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purposes.
+
+(b)
+
+Authorization.
+
+(c)
+
+Activities supported.
+
+(d)
+
+Local currency.
+
 #### Part II—Other Programs
 
 I74subpart i—multilateral and regional development programs
@@ -3832,6 +3898,28 @@ Waiver.
 (i)
 
 Certain claims for expropriation by the Government of Nicaragua.
+
+|  |  |
+| :--- | ---: |
+| [2370b.](Subchapter%20003%20%28III%29%20-%20General%20and%20Administrative%20Provisions/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002370b%20-%20Humanitarian%20assistance%20code%20of%20conduct.md) | Humanitarian assistance code of conduct. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Consistency with United Nations principles.
+
+(c)
+
+Reports.
+
+(d)
+
+Effective date.
 
 |  |  |
 | :--- | ---: |

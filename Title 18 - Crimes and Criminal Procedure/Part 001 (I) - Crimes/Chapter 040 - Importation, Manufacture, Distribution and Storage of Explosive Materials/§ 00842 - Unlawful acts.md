@@ -100,7 +100,7 @@
 
 (j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Attorney General. In promulgating such regulations, the Attorney General shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
 
-(k) It shall be unlawful for any person who has knowledge of the theft or loss of any explosivematerials from his stock, to fail to report such theft or loss within twenty-four hours of discovery thereof, to the Attorney General and to appropriate local authorities.
+(k) It shall be unlawful for any person who has knowledge of the theft or loss of any explosive materials from his stock, to fail to report such theft or loss within twenty-four hours of discovery thereof, to the Attorney General and to appropriate local authorities.
 
 (<i>l</i>) It shall be unlawful for any person to manufacture any plastic explosive that does not contain a detection agent.
 
@@ -164,7 +164,7 @@ Subsec. (i)(5)(A). Pub. L. 108–177, §372(b)(1), struck out “or” at end.
 
 Subsec. (i)(5)(B). Pub. L. 108–177, §372(b)(2), inserted “or” at end of cl. (i) and struck out cls. (iii) and (iv) which read as follows:
 
-“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+“(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the UnitedStates under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
 
 “(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;”.
 

@@ -26,7 +26,7 @@
 
 &emsp;(D) proper notice, opportunities for public participation, including a public hearing prior to making any designation or redesignation, pursuant to this section.
 
-(5) Determinations of the unsuitability of land for surface coal mining, as provided for in this section, shall be integrated as closely as possible with present and future land use planning and regulation processes at the Federal, State, and local levels.
+(5) Determinations of the unsuitability of land for surface coal mining, as provided for in this section, shall be integrated as closely as possiblewith present and future land use planning and regulation processes at the Federal, State, and local levels.
 
 (6) The requirements of this section shall not apply to lands on which surface coal mining operations are being conducted on August 3, 1977, or under a permit issued pursuant to this chapter, or where substantial legal and financial commitments in such operation were in existence prior to January 4, 1977.
 
@@ -52,7 +52,7 @@ After August 3, 1977, and subject to valid existing rights no surface coal minin
 
 &emsp;&emsp;(A) surface operations and impacts are incident to an underground coal mine; or
 
-&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within thosenational forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>, That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
+&emsp;&emsp;(B) where the Secretary of Agriculture determines, with respect to lands which do not have significant forest cover within those national forests west of the 100th meridian, that surface mining is in compliance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], the Federal Coal Leasing Amendments Act of 1975, the National Forest Management Act of 1976, and the provisions of this chapter: <i>And provided further</i>, That no surface coal mining operations may be permitted within the boundaries of the Custer National Forest;
 
 &emsp;(3) which will adversely affect any publicly owned park or places included in the National Register of Historic Sites unless approved jointly by the regulatory authority and the Federal, State, or local agency with jurisdiction over the park or the historic site;
 

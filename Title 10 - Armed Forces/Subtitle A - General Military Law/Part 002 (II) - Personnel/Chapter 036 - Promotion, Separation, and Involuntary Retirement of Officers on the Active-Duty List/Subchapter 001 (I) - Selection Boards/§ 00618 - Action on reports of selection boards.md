@@ -60,7 +60,7 @@ Subsec. (b)(2)(A), (4). Pub. L. 102–484, §1052(9), substituted “section 615
 
 1991—Subsec. (g). Pub. L. 102–190 added subsec. (g).
 
-1988—Subsec. (a). Pub. L. 100–456, §501(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If, after reviewing the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military departmentconcerned determines that the board has acted contrary to law or regulation, the Secretary shall return the report to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.”
+1988—Subsec. (a). Pub. L. 100–456, §501(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “If, after reviewing the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned determines that the board has acted contrary to law or regulation, the Secretary shall return the report to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.”
 
 Subsec. (c)(1). Pub. L. 100–456, §501(d)(2), struck out “, modification,” after “for his approval” and inserted at end “If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense.”
 
@@ -89,8 +89,4 @@ Amendment by Pub. L. 99–433 effective with respect to selection boards convene
 Functions of President under subsec. (b)(1) to approve, modify, or disapprove report of a selection board delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(a), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested in President by subsec. (c) of this section to remove a name from a selection board report, see section 1(g) of Ex. Ord. No. 12396.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 615, 628 of this title.
 

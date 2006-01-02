@@ -1,6 +1,6 @@
 ### §5843. Records and returns
 
-Importers, manufacturers, and dealers shall keep such records of, and render such returns inrelation to, the importation, manufacture, making, receipt, and sale, or other disposition, of firearms as the Secretary may by regulations prescribe.
+Importers, manufacturers, and dealers shall keep such records of, and render such returns in relation to, the importation, manufacture, making, receipt, and sale, or other disposition, of firearms as the Secretary may by regulations prescribe.
 
 (Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

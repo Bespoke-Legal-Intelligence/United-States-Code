@@ -28,7 +28,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(D) on or used in connection with housing and residential projects;
 
-&emsp;&emsp;(E) on military installations (including any fort, camp, post, naval training station, airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense);
+&emsp;&emsp;(E) on military installations (including any fort, camp, post, naval training station,airfield, proving ground, military supply depot, military school, or any similar facility of the Department of Defense);
 
 &emsp;&emsp;(F) on installations of the Department of Veteran <sup>2</sup> Affairs used for hospital or domiciliary purposes; or
 
@@ -40,7 +40,7 @@ As used in this subchapter, the term—
 
 #### Codification
 
-“Section 3301(a) of title 40” substituted in par. (9) for “section 13 of the Public Buildings Act of 1959 (40 U.S.C.612)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 3301(a) of title 40” substituted in par. (9) for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

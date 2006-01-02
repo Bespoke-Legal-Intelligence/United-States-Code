@@ -40,7 +40,7 @@
 
 (B) After the close of the 1993 fiscal year of the Federal Government, persons shall be appointed as members of the Commission with respect to every fourth fiscal year following the 1993 fiscal year. The terms of office of persons so appointed shall be for the period of the fiscal year with respect to which the appointment is made, except that, if any appointment is made after the beginning and before the close of any such fiscal year, the term of office based on such appointment shall be for the remainder of such fiscal year.
 
-(C)(i) Notwithstanding any provision of subparagraph (A) or (B), members of the Commission may continue to serve after the close of a fiscal year, if the date designated by the President under section 357 of this title (relating to the date by which the Commission is to submit its report to the President) is subsequent to the close of such fiscal year, and only if or to the extent necessary to allow the Commission to submit such report.
+(C)(i) Notwithstanding any provision of subparagraph (A) or (B), members of the Commission may continue to serve after the close of a fiscal year, if the date designated by the President under section 357 of this title (relating to the date by which the Commission is to submit its report to the President) is subsequent to theclose of such fiscal year, and only if or to the extent necessary to allow the Commission to submit such report.
 
 (ii) Notwithstanding any provision of section 353 of this title, authority under such section shall remain available, after the close of a fiscal year, so long as members of the Commission continue to serve.
 

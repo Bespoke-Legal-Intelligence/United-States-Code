@@ -26,7 +26,7 @@
 
 &emsp;(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
-(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
+(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriateofficial of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
 
 &emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
 
@@ -62,7 +62,7 @@
 
 (f) In section 3711 of this title, “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469;Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, §5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, §115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, §203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, §335, Dec. 28, 2001, 115 Stat. 1060.)
 
 Historical and Revision Notes<br>1982
 
@@ -204,7 +204,7 @@ Subsecs. (e), (f). Pub. L. 104–134, §31001(z)(1)(C), added subsecs. (e) and (
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–169, title II, §203(d), Dec. 14, 1999, 113 Stat. 1832, provided that: “The amendments made by thissection \[amending this section and sections 404 and 1383 of Title 42, The Public Health and Welfare\] shall apply to debt outstanding on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
+Pub. L. 106–169, title II, §203(d), Dec. 14, 1999, 113 Stat. 1832, provided that: “The amendments made by this section \[amending this section and sections 404 and 1383 of Title 42, The Public Health and Welfare\] shall apply to debt outstanding on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
 
 #### Effective Date of 1994 Amendment
 

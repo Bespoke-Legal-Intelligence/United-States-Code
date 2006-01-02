@@ -12,7 +12,7 @@ An application for a grant under this subchapter shall be submitted in such form
 
 In accordance with the regulations or guidelines established by the Attorney General, each application for a grant under this subchapter shall—
 
-&emsp;(1) include a long-term strategy and detailed implementation plan that reflects consultation with community groups and appropriate private and public agencies and reflects consideration of the statewide strategy under section 3753(a)(1) of this title;
+&emsp;(1) include a long-term strategy and detailed implementation plan that reflects consultation with community groups and appropriate private and public agencies;
 
 &emsp;(2) demonstrate a specific public safety need;
 
@@ -42,7 +42,17 @@ In accordance with the regulations or guidelines established by the Attorney Gen
 
 #### (2) Small grant amount
 
-&emsp;Notwithstanding any other provision of this subchapter, in relation to applications under section 3796dd(d) of this title for grants of less than $1,000,000, the Attorney General may waive 1 or more of the requirements of subsection (c) of this section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
+&emsp;Notwithstanding any other provision of this subchapter, in relation to applications under section 3796dd(b) of this title for grants of less than $1,000,000, the Attorney General may waive 1 or more of the requirements of subsection (c) of this section and may otherwise make special provisions to facilitate the expedited submission, processing, and approval of such applications.
 
-(Pub. L. 90–351, title I, §1702, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1811.)
+(Pub. L. 90–351, title I, §1702, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1811; amended Pub. L. 109–162, title XI, §§1111(c)(2)(I), 1163(b), Jan. 5, 2006, 119 Stat. 3102, 3120.)
+
+#### Amendments
+
+2006—Subsec. (c)(1). Pub. L. 109–162, §1111(c)(2)(I), struck out “and reflects consideration of the statewide strategy under section 3753(a)(1) of this title” before semicolon at end.
+
+Subsec. (d)(2). Pub. L. 109–162, §1163(b), substituted “section 3796dd(b)” for “section 3796dd(d)”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 1111(c)(2)(I) of Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
 

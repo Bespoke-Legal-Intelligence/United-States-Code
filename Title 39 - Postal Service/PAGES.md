@@ -1,6 +1,6 @@
 # Printed pages - Title 39 - Postal Service
 
-GPO's 2004 edition (laws in effect as of 2005-01-03), from its printed page marks. The exact position of
+GPO's 2005 edition (laws in effect as of 2006-01-02), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title39.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -45,9 +45,9 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00605 - Searching vessels for letters](Part%20001%20%28I%29%20-%20General/Chapter%20006%20-%20Private%20Carriage%20of%20Letters/%C2%A7%2000605%20-%20Searching%20vessels%20for%20letters.md) | 23 |
 | [&sect; 00606 - Disposition of seized mail](Part%20001%20%28I%29%20-%20General/Chapter%20006%20-%20Private%20Carriage%20of%20Letters/%C2%A7%2000606%20-%20Disposition%20of%20seized%20mail.md) | 23 |
 | [Part 002 (II) - Personnel](Part%20002%20%28II%29%20-%20Personnel/README.md) | 23 |
-| [Chapter 010 - Employment Within the Postal Service](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/README.md) | 23 |
-| [&sect; 01001 - Appointment and status](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/%C2%A7%2001001%20-%20Appointment%20and%20status.md) | 23–24 |
-| [&sect; 01002 - Political recommendations](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/%C2%A7%2001002%20-%20Political%20recommendations.md) | 24–25 |
+| [Chapter 010 - Employment Within the Postal Service](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/README.md) | 23–24 |
+| [&sect; 01001 - Appointment and status](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/%C2%A7%2001001%20-%20Appointment%20and%20status.md) | 24–25 |
+| [&sect; 01002 - Political recommendations](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/%C2%A7%2001002%20-%20Political%20recommendations.md) | 25 |
 | [&sect; 01003 - Employment policy](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/%C2%A7%2001003%20-%20Employment%20policy.md) | 25–26 |
 | [&sect; 01004 - Supervisory and other managerial organizations](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/%C2%A7%2001004%20-%20Supervisory%20and%20other%20managerial%20organizations.md) | 26–28 |
 | [&sect; 01005 - Applicability of laws relating to Federal employees](Part%20002%20%28II%29%20-%20Personnel/Chapter%20010%20-%20Employment%20Within%20the%20Postal%20Service/%C2%A7%2001005%20-%20Applicability%20of%20laws%20relating%20to%20Federal%20employees.md) | 28–30 |
@@ -188,8 +188,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 05202 - Applicability](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005202%20-%20Applicability.md) | 91 |
 | [&sect; 05203 - Authorization of service by carrier](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005203%20-%20Authorization%20of%20service%20by%20carrier.md) | 91 |
 | [&sect; 05204 - Changes in service; placement of equipment](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005204%20-%20Changes%20in%20service%3B%20placement%20of%20equipment.md) | 91 |
-| [&sect; 05205 - Evidence of service](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005205%20-%20Evidence%20of%20service.md) | 91 |
-| [&sect; 05206 - Fines and deductions](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005206%20-%20Fines%20and%20deductions.md) | 91–92 |
+| [&sect; 05205 - Evidence of service](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005205%20-%20Evidence%20of%20service.md) | 91–92 |
+| [&sect; 05206 - Fines and deductions](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005206%20-%20Fines%20and%20deductions.md) | 92 |
 | [&sect; 05207 - Surface Transportation Board to fix rates](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005207%20-%20Surface%20Transportation%20Board%20to%20fix%20rates.md) | 92 |
 | [&sect; 05208 - Procedures](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005208%20-%20Procedures.md) | 92 |
 | [&sect; 05209 - Special rates](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20052%20-%20Transportation%20of%20Mail%20by%20Surface%20Carrier/%C2%A7%2005209%20-%20Special%20rates.md) | 92–93 |
@@ -208,4 +208,4 @@ from edition to edition; the section files hold the text only.
 | [&sect; 05602 - Termination of contracts for foreign transportation](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20056%20-%20Transportation%20of%20Mail%20by%20Vessel/%C2%A7%2005602%20-%20Termination%20of%20contracts%20for%20foreign%20transportation.md) | 103 |
 | [&sect; 05603 - Transportation of mail by vessel as freight or express](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20056%20-%20Transportation%20of%20Mail%20by%20Vessel/%C2%A7%2005603%20-%20Transportation%20of%20mail%20by%20vessel%20as%20freight%20or%20express.md) | 103 |
 | [&sect; 05604 - Fines on ocean carriers](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20056%20-%20Transportation%20of%20Mail%20by%20Vessel/%C2%A7%2005604%20-%20Fines%20on%20ocean%20carriers.md) | 103 |
-| [&sect; 05605 - Contracts for transportation of mail by vessel](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20056%20-%20Transportation%20of%20Mail%20by%20Vessel/%C2%A7%2005605%20-%20Contracts%20for%20transportation%20of%20mail%20by%20vessel.md) | 103 |
+| [&sect; 05605 - Contracts for transportation of mail by vessel](Part%20005%20%28V%29%20-%20Transportation%20of%20Mail/Chapter%20056%20-%20Transportation%20of%20Mail%20by%20Vessel/%C2%A7%2005605%20-%20Contracts%20for%20transportation%20of%20mail%20by%20vessel.md) | 103–104 |

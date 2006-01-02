@@ -17,10 +17,13 @@
 | \[183. | Repealed.\] |
 | [184\.](%C2%A7%2000184%20-%20Department%20of%20Defense%20regional%20centers%20for%20security%20studies.md) | Department of Defense regional centers for security studies. |
 | [185\.](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md) | Financial Management Modernization Executive Committee. |
+| [186\.](%C2%A7%2000186%20-%20Defense%20Business%20System%20Management%20Committee.md) | Defense Business System Management Committee. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title III, §332(b)(2), Oct. 28, 2004, 118 Stat. 1855, added item 186.
 
 2002—Pub. L. 107–314, div. A, title X, §1041(a)(1)(B), Dec. 2, 2002, 116 Stat. 2645, struck out item 183 “Advisory committees: annual justification required”.
 
@@ -62,3 +65,4 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00183 - Repealed. Pub. L. 107&#8211;314, div. A, title X, &sect;1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645](%C2%A7%2000183%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71041%28a%29%281%29%28A%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202645.md)
 - [&sect; 00184 - Department of Defense regional centers for security studies](%C2%A7%2000184%20-%20Department%20of%20Defense%20regional%20centers%20for%20security%20studies.md)
 - [&sect; 00185 - Financial Management Modernization Executive Committee](%C2%A7%2000185%20-%20Financial%20Management%20Modernization%20Executive%20Committee.md)
+- [&sect; 00186 - Defense Business System Management Committee](%C2%A7%2000186%20-%20Defense%20Business%20System%20Management%20Committee.md)

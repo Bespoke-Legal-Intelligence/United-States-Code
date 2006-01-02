@@ -30,7 +30,7 @@
 
 (1) The inpatient hospital deductible for 1987 shall be $520. The inpatient hospital deductible for any succeeding year shall be an amount equal to the inpatient hospital deductible for the preceding calendar year, changed by the Secretary's best estimate of the payment-weighted average of the applicable percentage increases (as defined in section 1395ww(b)(3)(B) of this title) which are applied under section 1395ww(d)(3)(A) of this title for discharges in the fiscal year that begins on October 1 of such preceding calendar year, and adjusted to reflect changes in real case mix (determined on the basis of the most recent case mix data available). Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiples of $4, to the next higher multiple of $4).
 
-(2) The Secretary shall promulgate the inpatient hospital deductible and all coinsurance amounts under this section between September 1 and September 15 of the year preceding the year to which they will apply.
+(2) The Secretary shall promulgate the inpatient hospital deductible and all coinsuranceamounts under this section between September 1 and September 15 of the year preceding the year to which they will apply.
 
 (3) The inpatient hospital deductible for a year shall apply to—
 
@@ -64,7 +64,7 @@ Subsec. (b)(3). Pub. L. 100–360, §102(2), struck out par. (3) which related t
 
 “(1) The inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section shall be $40 in the case of any spell of illness beginning before 1969.
 
-“(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiplies of $4, to the next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatienthospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section.”
+“(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiplies of $4, to the next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatient hospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section.”
 
 Subsec. (b)(2). Pub. L. 99–272 substituted “September 15” for “October 1”.
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 101(d) of Pub
 
 Amendment by section 102 of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
-Section 411(b)(1)(H)(iii) of Pub. L. 100–360 provided that: “The amendment made by clause (ii) \[amending Pub. L. 100–203\] shall apply to the inpatient hospital deductible for years beginning with 1989.”
+Section 411(b)(1)(H)(iii) of Pub. L. 100–360 provided that: “The amendment made by clause (ii) \[amendingPub. L. 100–203\] shall apply to the inpatient hospital deductible for years beginning with 1989.”
 
 #### Effective Date of 1986 Amendments
 
@@ -174,5 +174,5 @@ Section 104(b) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 #### Promulgation of New Deductible
 
-Section 9301(c) of Pub. L. 99–509 directed Secretary of Health and Human Services to provide, within 30 days after Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
+Section 9301(c) of Pub. L. 99–509 directed Secretary of Health and Human Services to provide, within 30 daysafter Oct. 21, 1986, for publication of inpatient hospital deductible, coinsurance amounts for inpatient hospital services and post-hospital extended care services, and monthly part A premiums for 1987, as modified under the amendment of this section made by subsection (a).
 

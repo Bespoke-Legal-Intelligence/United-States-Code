@@ -102,7 +102,3 @@ Subsec. (d). Pub. L. 101–189, §652(a)(7)(B), struck out subsec. (d) which rea
 
 Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8911, 8918, 8924, 8928 of this title.
-

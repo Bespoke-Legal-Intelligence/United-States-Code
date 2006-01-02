@@ -10,7 +10,7 @@ If, under the allocation provisions applicable under this part, any metropolitan
 
 #### (c) Distributions to nonprofit organizations
 
-Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals. Any State receiving assistance under thispart may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
+Any local government receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals. Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.
 
 #### (d) Reallocation of funds
 

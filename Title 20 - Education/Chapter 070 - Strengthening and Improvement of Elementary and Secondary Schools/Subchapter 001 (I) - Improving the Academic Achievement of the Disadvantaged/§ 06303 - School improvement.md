@@ -32,7 +32,7 @@ If, after consultation with local educational agencies in the State, the State e
 
 #### (e) Special rule
 
-Notwithstanding any other provision of this section, the amount of funds reserved by the State educational agency under subsection (a) of this section in any fiscal year shall not decrease the amount of funds each local educational agency receives under subpart 2 <sup>1</sup> below the amount received by such local educational agency under such subpart for the preceding fiscal year.
+Notwithstanding any other provision of this section, the amount of funds reserved by the State educational agency under subsection (a) ofthis section in any fiscal year shall not decrease the amount of funds each local educational agency receives under subpart 2 <sup>1</sup> below the amount received by such local educational agency under such subpart for the preceding fiscal year.
 
 #### (f) Reporting
 

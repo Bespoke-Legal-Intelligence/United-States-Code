@@ -12,13 +12,13 @@
 
 #### (3) Exception
 
-&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscal year if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
+&emsp;The Administrator may waive the requirements of paragraphs (1) and (2) for any fiscalyear if the Administrator determines that such quantities of commodities cannot be used effectively to carry out this subchapter or in order to meet an emergency. In making a waiver under this paragraph, the Administrator shall prepare and submit to the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and Agriculture, Nutrition, and Forestry of the Senate a report containing the reasons for the waiver. No waiver shall be made before the beginning of the applicable fiscal year.
 
 #### (b) Use of value-added commodities
 
 #### (1) Minimum levels
 
-&emsp;Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form ofprocessed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
+&emsp;Except as provided in paragraph (2), in making agricultural commodities available under this subchapter, the Administrator shall ensure that not less than 75 percent of the quantity of such commodities required to be distributed during each fiscal year under subsection (a)(2) of this section be in the form of processed, fortified, or bagged commodities and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States.
 
 #### (2) Waiver of minimum
 

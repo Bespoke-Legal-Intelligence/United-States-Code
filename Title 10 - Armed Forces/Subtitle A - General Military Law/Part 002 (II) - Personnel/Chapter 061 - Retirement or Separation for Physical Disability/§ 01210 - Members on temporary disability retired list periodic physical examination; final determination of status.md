@@ -14,7 +14,7 @@
 
 &emsp;(A) treat the member as provided in section 1211 of this title; or
 
-&emsp;(B) discharge the member, retire the member, or transfer the member to the Fleet Reserve, Fleet Marine Corps Reserve, or inactiveReserve under any other law if, under that law, the member—
+&emsp;(B) discharge the member, retire the member, or transfer the member to the Fleet Reserve, Fleet Marine Corps Reserve, or inactive Reserve under any other law if, under that law, the member—
 
 &emsp;&emsp;(i) applies for and qualifies for that retirement or transfer; or
 
@@ -105,8 +105,4 @@ In subsection (g), the words “members in his retired grade traveling in connec
 1985—Subsecs. (b) to (d). Pub. L. 99–145, §513(a)(2)(A), inserted “and stable” after “permanent nature”.
 
 Subsec. (f). Pub. L. 99–145, §513(a)(2)(B), designated existing provisions as par. (1), substituted “or rating, the Secretary shall—” for “and rating, the Secretary shall treat him as provided in section 1211 of this title”, added subpars. (A) and (B), and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1211 of this title.
 

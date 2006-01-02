@@ -16,7 +16,7 @@ To be eligible for funds under this section, a health education training center 
 
 #### (b) Allocation of funds
 
-The Secretary shall make available 50 percent of the amounts appropriated for each fiscal year under this section <sup>1</sup> for the establishment or operation of health education training centers through projects in States along the border between the United States and Mexico and in the State of Florida.
+The Secretary shall make available 50 percent of the amounts appropriated for each fiscal year under this section <sup>1</sup> for the establishment or operation of health education training centersthrough projects in States along the border between the United States and Mexico and in the State of Florida.
 
 (July 1, 1944, ch. 373, title VII, §752, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544.)
 

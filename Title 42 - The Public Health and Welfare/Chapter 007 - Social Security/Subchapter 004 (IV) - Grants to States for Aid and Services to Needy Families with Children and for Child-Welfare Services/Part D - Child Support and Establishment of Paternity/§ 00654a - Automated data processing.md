@@ -26,7 +26,7 @@ In order to enable the Secretary to determine the incentive payments and penalty
 
 #### (d) Information integrity and security
 
-The State agency shall have in effect safeguards on the integrity, accuracy, and completeness of, access to, and use of data in the automated system required by this section, which shall include the following (in addition to suchother safeguards as the Secretary may specify in regulations):
+The State agency shall have in effect safeguards on the integrity, accuracy, and completeness of, access to, and use of data in the automated system required by this section, which shall include the following (in addition to such other safeguards as the Secretary may specify in regulations):
 
 #### (1) Policies restricting access
 

@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 14, U.S.C., 1946 ed., §§45–47, 51, 52, 66, 67, 104, and on title 33, U.S.C., 1946 ed., §755 (R.S. 2747, 2758, 2760, 2762; June 18, 1878, ch. 265, §4, 20 Stat. 163; June 16, 1880, ch. 235, 21 Stat. 263; June 22, 1936, ch. 705, §§1–3, 49 Stat. 1820; July 11, 1941, ch. 290, §7, 55 Stat. 585).
+Based on title 14, U.S.C., 1946 ed., §§45–47, 51, 52, 66, 67, 104, and on title 33, U.S.C., 1946 ed., §755 (R.S. 2747, 2758, 2760, 2762; June 18, 1878, ch. 265, §4, 20 Stat. 163; June 16,1880, ch. 235, 21 Stat. 263; June 22, 1936, ch. 705, §§1–3, 49 Stat. 1820; July 11, 1941, ch. 290, §7, 55 Stat. 585).
 
 The words “or such merchandise” are inserted in the last clause of subsection (a) in order to provide for situations where it may be desirable to seize merchandise without seizing the vessel.
 

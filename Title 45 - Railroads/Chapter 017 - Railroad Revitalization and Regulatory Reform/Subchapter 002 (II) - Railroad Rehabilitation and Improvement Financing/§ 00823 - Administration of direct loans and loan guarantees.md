@@ -54,7 +54,7 @@ The Secretary shall prescribe regulations setting forth procedures in the event 
 
 #### (h) Action against obligor
 
-The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under section 822 of this title, or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under section 822 of this title.The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
+The Secretary may bring a civil action in an appropriate Federal court in the name of the United States in the event of a default on a direct loan made under section 822 of this title, or in the name of the United States or of the holder of the obligation in the event of a default on a loan guaranteed under section 822 of this title. The holder of a guarantee shall make available to the Secretary all records and evidence necessary to prosecute the civil action. The Secretary may accept property in full or partial satisfaction of any sums owed as a result of a default. If the Secretary receives, through the sale or other disposition of such property, an amount greater than the aggregate of—
 
 &emsp;(1) the amount paid to the holder of a guarantee under subsection (g) of this section; and
 
@@ -70,11 +70,15 @@ The Attorney General shall commence a civil action in an appropriate Federal cou
 
 No attachment or execution may be issued against the Secretary, or any property in the control of the Secretary, prior to the entry of final judgment to such effect in any State, Federal, or other court.
 
-#### (k) Investigation charge
+#### (k) Evaluation charge
 
-The Secretary may charge and collect from each applicant a reasonable charge for appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation.
+The Secretary may charge and collect from each applicant a reasonable charge for the cost of evaluating the application, including appraisal of the value of the equipment or facilities for which the direct loan or loan guarantee is sought, and for making necessary determinations and findings. Such charge shall not aggregate more than one-half of 1 percent of the principal amount of the obligation. Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.
 
-(Pub. L. 94–210, title V, §503, as added and amended Pub. L. 105–178, title VII, §7203(a)(1), (4), June 9, 1998, 112 Stat. 475, 477.)
+#### (<i>l</i>) Fees and charges
+
+Except as provided in this subchapter, the Secretary may not assess any fees, including user fees, or charges in connection with a direct loan or loan guarantee provided under section 822 of this title.
+
+(Pub. L. 94–210, title V, §503, as added and amended Pub. L. 105–178, title VII, §7203(a)(1), (4), June 9, 1998, 112 Stat. 475, 477; Pub. L. 109–59, title IX, §9003(h), (i), Aug. 10, 2005, 119 Stat. 1923.)
 
 #### Codification
 
@@ -85,6 +89,10 @@ The text of section 831(c) of this title, which was transferred to subsec. (b) o
 A prior section 823, Pub. L. 94–210, title V, §503, Feb. 5, 1976, 90 Stat. 69; Pub. L. 94–555, title II, §216(b), Oct. 19, 1976, 90 Stat. 2627, related to classification and designation of rail lines, prior to repeal by Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.
 
 #### Amendments
+
+2005—Subsec. (k). Pub. L. 109–59, §9003(h), in heading, substituted “Evaluation” for “Investigation” and, in text, inserted “the cost of evaluating the application, including” after “reasonable charge for” and inserted at end “Amounts collected under this subsection shall be credited directly to the Safety and Operations account of the Federal Railroad Administration, and shall remain available until expended to pay for the evaluation costs described in this subsection.”
+
+Subsec. (<i>l</i>). Pub. L. 109–59, §9003(i), added subsec. (<i>l</i>).
 
 1998—Subsec. (b). Pub. L. 105–178, §7203(a)(4), redesignated subsec. (c) of section 831 of this title as subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary. See Codification note above.
 

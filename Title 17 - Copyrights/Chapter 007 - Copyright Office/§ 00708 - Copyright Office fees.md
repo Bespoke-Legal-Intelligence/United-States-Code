@@ -4,7 +4,7 @@
 
 Fees.—Fees shall be paid to the Register of Copyrights—
 
-&emsp;(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made;
+&emsp;(1) on filing each application under section 408 for registration of a copyright claim or fora supplementary registration, including the issuance of a certificate of registration if registration is made;
 
 &emsp;(2) on filing each application for registration of a claim for renewal of a subsisting copyright under section 304(a), including the issuance of a certificate of registration if registration is made;
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 1992—Subsec. (a)(2). Pub. L. 102–307 struck out “in its first term” after “copyright” and substituted “$20” for “$12”.
 
-1990—Subsec. (a). Pub. L. 101–318, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “The following fees shall be paid to the Register of Copyrights:
+1990—Subsec. (a). Pub. L. 101–318, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
 
 &emsp;“(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;
 
@@ -128,7 +128,7 @@ Pub. L. 106–379, §3(c)(1), Oct. 27, 2000, 114 Stat. 1445, provided that: “T
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section 102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
+Amendment by Pub. L. 102–307 effective June 26, 1992, but applicable only to copyrights secured between January 1, 1964, and December 31, 1977, and not affecting court proceedings pending on June 26, 1992, with copyrights secured before January 1, 1964, governed by section 304(a) of this title as in effect on the day before June 26, 1992, except each reference to forty-seven years in such provisions deemed to be 67 years, see section102(g) of Pub. L. 102–307, as amended, set out as a note under section 101 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -1,6 +1,6 @@
 ### §7623. Admiralty claims by the United States
 
-(a) The Secretary of the Navy may settle, or compromise, and receive payment of a claim bythe United States for damage to property under the jurisdiction of the Department of the Navy or property for which the Department has assumed an obligation to respond for damage, if—
+(a) The Secretary of the Navy may settle, or compromise, and receive payment of a claim by the United States for damage to property under the jurisdiction of the Department of the Navy or property for which the Department has assumed an obligation to respond for damage, if—
 
 &emsp;(1) the claim is—
 

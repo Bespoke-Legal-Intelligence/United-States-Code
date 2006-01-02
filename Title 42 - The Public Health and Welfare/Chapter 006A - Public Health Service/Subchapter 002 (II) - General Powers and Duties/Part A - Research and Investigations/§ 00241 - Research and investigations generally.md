@@ -24,7 +24,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 #### (b) Testing for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects; consultation
 
-(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
+(1) The Secretary shall conduct and may support through grants and contracts studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects. In carrying out this paragraph, the Secretary shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon requestof such an entity and under appropriate arrangements for the payment of expenses, may conduct for such entity studies and testing of substances for carcinogenicity, teratogenicity, mutagenicity, and other harmful biological effects.
 
 (2)(A) The Secretary shall establish a comprehensive program of research into the biological effects of low-level ionizing radiation under which program the Secretary shall conduct such research and may support such research by others through grants and contracts.
 
@@ -78,7 +78,7 @@ Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted “recommendations o
 
 1976—Subsecs. (c), (h). Pub. L. 94–278 substituted “heart, blood vessel, lung, and blood diseases and blood resources” for “heart diseases” and “National Heart, Lung and Blood Advisory Council” for “National Heart and Lung Advisory Council”.
 
-1974—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted “research projects” for “research or research training projects” in two places, “general support of their research” for“general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
+1974—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted “research projects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
 
 Subsec. (d). Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (e) as (d).
 
@@ -122,7 +122,7 @@ Subsec. (g). Act July 3, 1946, gave National Advisory Health Council the right t
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(7), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(7), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L.96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1978 Amendment
 
@@ -184,7 +184,7 @@ Section 632 of Pub. L. 100–607 provided that with respect to any program of re
 
 #### Continuing Care for Psychiatric Patients in Former Clinical Research Center at National Institute on Drug Abuse
 
-Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
+Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health andHuman Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
 
 #### Analysis of Thyroid Cancer; Creation and Publication of Radioepidemiological Tables
 

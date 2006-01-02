@@ -52,7 +52,7 @@ For the purposes of this section—
 
 #### (3) Cooperative agreements
 
-&emsp;The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to theCommonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.
+&emsp;The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.
 
 #### (4) Construction of facilities on non-Federal lands
 
@@ -202,7 +202,7 @@ For the purposes of this section—
 
 #### (4) Approval of plan
 
-&emsp;(A) The Partnership shall submit the plan to the Governor of Massachusetts for review. TheGovernor shall have 90 days to review and make any recommendations. After considering the Governor's recommendations, the Partnership shall submit the plan to the Secretary, who shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
+&emsp;(A) The Partnership shall submit the plan to the Governor of Massachusetts for review. The Governor shall have 90 days to review and make any recommendations. After considering the Governor's recommendations, the Partnership shall submit the plan to the Secretary, who shall approve or disapprove the plan within 90 days. In reviewing the plan the Secretary shall consider each of the following:
 
 &emsp;&emsp;(i) The adequacy of public participation.
 

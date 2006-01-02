@@ -12,7 +12,7 @@ The President of the Institute shall submit an annual report to the Congress and
 
 (3) In determining the amount of funds to be appropriated to the Institute on the basis of such proposals, the Congress shall not consider the amount of private fundraising or bequests made on behalf of the Institute during any preceding fiscal year.
 
-(Pub. L. 99–498, title XV, §1515, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 100–297, title V, §5406(f), Apr.28, 1988, 102 Stat. 418; Pub. L. 102–325, title XIII, §1331(g), July 23, 1992, 106 Stat. 807.)
+(Pub. L. 99–498, title XV, §1515, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 100–297, title V, §5406(f), Apr. 28, 1988, 102 Stat. 418; Pub. L. 102–325, title XIII, §1331(g), July 23, 1992, 106 Stat. 807.)
 
 #### Amendments
 

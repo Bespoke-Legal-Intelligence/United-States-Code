@@ -54,7 +54,7 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 
 #### Amendments
 
-1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Air Force warrant officers; regular enlisted members” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Air Force, and each enlisted member of the Regular Air Force, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the grade that is equal to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Air Force.”
+1987—Pub. L. 100–180 substituted “warrant officers and enlisted members” for “Air Force warrant officers; regular enlisted members” in section catchline, and amended text generally. Prior to amendment, text read as follows: “Each warrant officer of the Air Force, and each enlisted member of the Regular Air Force, who is retired before or after this title is enacted is entitled, when his active service plus his service on the retiredlist totals 30 years, to be advanced on the retired list to the grade that is equal to the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the Air Force.”
 
 1984—Pub. L. 98–525 substituted “highest grade” for “highest temporary grade”.
 
@@ -63,8 +63,4 @@ May 31, 1956, ch. 348, §1, 70 Stat. 222.
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–180 applicable to any reserve enlisted member who completes 30 years of service in Armed Forces before, on, or after Dec. 4, 1987, and no person to be paid retired pay at higher rate by reason of enactment of Pub. L. 100–180 for any period before Dec. 4, 1987, see section 512(f) of Pub. L. 100–180, set out as a note under section 3964 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8965, 8992 of this title.
 

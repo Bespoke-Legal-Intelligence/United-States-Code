@@ -4,7 +4,7 @@ Section 8076, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition
 
 Section 8077, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to composition of Air National Guard of United States. See section 10111 of this title.
 
-Section 8078, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, provided that Air National Guard is component of Air Force when in service of United States. See section 10112 of this title.
+Section 8078, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, provided that Air National Guard is component of AirForce when in service of United States. See section 10112 of this title.
 
 Section 8079, act Aug. 10, 1956, ch. 1041, 70A Stat. 496, related to status of Air National Guard of United States when not in Federal service. See section 10113 of this title.
 

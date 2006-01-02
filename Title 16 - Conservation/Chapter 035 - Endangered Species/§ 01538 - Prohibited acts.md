@@ -24,7 +24,7 @@
 
 &emsp;(B) remove and reduce to possession any such species from areas under Federal jurisdiction; maliciously damage or destroy any such species on any such area; or remove, cut, dig up, or damage or destroy any such species on any other area in knowing violation of any law or regulation of any State or in the course of any violation of a State criminal trespass law;
 
-&emsp;(C) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by anymeans whatsoever and in the course of a commercial activity, any such species;
+&emsp;(C) deliver, receive, carry, transport, or ship in interstate or foreign commerce, by any means whatsoever and in the course of a commercial activity, any such species;
 
 &emsp;(D) sell or offer for sale in interstate or foreign commerce any such species; or
 

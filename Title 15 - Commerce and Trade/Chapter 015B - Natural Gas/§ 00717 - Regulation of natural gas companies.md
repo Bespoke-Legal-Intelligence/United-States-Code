@@ -6,7 +6,7 @@ As disclosed in reports of the Federal Trade Commission made pursuant to S. Res.
 
 #### (b) Transactions to which provisions of chapter applicable
 
-The provisions of this chapter shall apply to the transportation of natural gas in interstate commerce, to the sale in interstate commerce of natural gas for resale for ultimate public consumption for domestic, commercial, industrial, or any other use, and to natural-gas companies engaged in such transportation or sale, but shall not apply to any other transportation or sale of natural gas or to the local distribution of natural gas or to the facilities used for such distribution or to the production or gathering of natural gas.
+The provisions of this chapter shall apply to the transportation of natural gas in interstate commerce, to the sale in interstate commerce of natural gas for resale for ultimate public consumption for domestic, commercial, industrial, or any other use, and to natural-gas companies engaged in such transportation or sale, and to the importation or exportation of natural gas in foreign commerce and to persons engaged in such importation or exportation, but shall not apply to any other transportation or sale of natural gas or to the local distribution of natural gas or to the facilities used for such distribution or to the production or gathering of natural gas.
 
 #### (c) Intrastate transactions exempt from provisions of chapter; certification from State commission as conclusive evidence
 
@@ -20,17 +20,19 @@ The provisions of this chapter shall not apply to any person solely by reason of
 
 &emsp;(2) subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdiction over the sale, sale for resale, or transportation of vehicular natural gas.
 
-(June 21, 1938, ch. 556, §1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Pub. L. 102–486, title IV, §404(a)(1), Oct. 24, 1992, 106 Stat. 2879.)
+(June 21, 1938, ch. 556, §1, 52 Stat. 821; Mar. 27, 1954, ch. 115, 68 Stat. 36; Pub. L. 102–486, title IV, §404(a)(1), Oct. 24, 1992, 106 Stat. 2879; Pub. L. 109–58, title III, §311(a), Aug. 8, 2005, 119 Stat. 685.)
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58 inserted “and to the importation or exportation of natural gas in foreign commerce and to persons engaged in such importation or exportation,” after “such transportation or sale,”.
 
 1992—Subsec. (d). Pub. L. 102–486 added subsec. (d).
 
 1954—Subsec. (c). Act Mar. 27, 1954, added subsec. (c).
 
-#### Transfer of Functions
+#### Termination of Federal Power Commission; Transfer of Functions
 
-Federal Power Commission terminated and functions with regard to establishment, review, and enforcement of rates and charges for transportation and sale of natural gas by a producer or gatherer or by a natural gas pipeline or natural gas company transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(C) and 7293 of Title 42, The Public Health and Welfare.
+Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### State Laws and Regulations
 

@@ -16,7 +16,7 @@ For the purposes of this part:
 
 &emsp;&emsp;(B) a facility for the administration of an educational program, or a student center or student union, except that not more than 5 percent of the loan proceeds provided under this part may be used for the facility, center or union if the facility, center or union is owned, leased, managed, or operated by a private business, that, in return for such use, makes a payment to the eligible institution;
 
-&emsp;&emsp;(C) instructional equipment technology,,<sup>1</sup> research instrumentation, and any capitalequipment or fixture related to facilities described in subparagraph (A);
+&emsp;&emsp;(C) instructional equipment technology,,<sup>1</sup> research instrumentation, and any capital equipment or fixture related to facilities described in subparagraph (A);
 
 &emsp;&emsp;(D) a maintenance, storage, or utility facility that is essential to the operation of a facility, a library, a dormitory, equipment, instrumentation, a fixture, real property or an interest therein, described in this paragraph;
 
@@ -30,7 +30,7 @@ For the purposes of this part:
 
 &emsp;(6) The term “interest” includes accredited value or any other payment constituting interest on an obligation.
 
-&emsp;(7) The term “outstanding”, when used with respect to bonds, shall not include bonds the payment of which shall have been provided for by the irrevocable deposit in trust of obligations maturing as to principal and interest in such amounts and at such times as will ensure the availability of sufficient moneys to make payments on such bonds.
+&emsp;(7) The term “outstanding”, when used with respect to bonds, shall not include bonds the payment of which shall have been provided forby the irrevocable deposit in trust of obligations maturing as to principal and interest in such amounts and at such times as will ensure the availability of sufficient moneys to make payments on such bonds.
 
 &emsp;(8) The term “designated bonding authority” means the private, for-profit corporation selected by the Secretary pursuant to section 1066d(1) of this title for the purpose of issuing taxable construction bonds in furtherance of the purposes of this part.
 

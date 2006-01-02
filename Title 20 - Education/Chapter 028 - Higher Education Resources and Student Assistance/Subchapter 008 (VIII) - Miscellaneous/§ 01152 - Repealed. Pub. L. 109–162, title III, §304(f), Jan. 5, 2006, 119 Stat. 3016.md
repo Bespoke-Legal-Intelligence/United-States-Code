@@ -1,0 +1,4 @@
+### §1152. Repealed. Pub. L. 109–162, title III, §304(f), Jan. 5, 2006, 119 Stat. 3016
+
+Section, Pub. L. 105–244, title VIII, §826, Oct. 7, 1998, 112 Stat. 1815; Pub. L. 106–386, div. B, title I, §1108(a), title V, §1512(d), Oct. 28, 2000, 114 Stat. 1500, 1533; Pub. L. 109–162, title XI, §1135(d), Jan. 5, 2006, 119 Stat. 3109, related to grants to combat violent crimes against women on campuses.
+

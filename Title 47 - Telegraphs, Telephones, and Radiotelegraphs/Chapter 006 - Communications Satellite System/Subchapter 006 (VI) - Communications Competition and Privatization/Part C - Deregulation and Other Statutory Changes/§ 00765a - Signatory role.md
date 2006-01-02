@@ -8,7 +8,7 @@
 
 #### (2) No signatories required
 
-&emsp;The United States Government shall not require signatories to represent the United States in INTELSAT or Inmarsat or in any successor entities after a pro-competitive privatization is achieved consistent with sections 763, 763a, and 763c of this title.
+&emsp;The United States Government shall not require signatories to represent the United States in INTELSAT or Inmarsat or in any successor entities after a pro-competitive privatization is achieved consistent with sections 763, 763a, and 763c <sup>1</sup> of this title.
 
 #### (b) Clarification of privileges and immunities of COMSAT
 
@@ -33,4 +33,10 @@
 Notwithstanding any other law or executive agreement, the Commission shall have the authority to impose similar regulatory fees on the United States signatory which it imposes on other entities providing similar services.
 
 (Pub. L. 87–624, title VI, §642, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 55.)
+
+#### References in Text
+
+Section 763c of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 109–34, §3, July 12, 2005, 119 Stat. 377, and no longer relates to specific criteria for Inmarsat privatization.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

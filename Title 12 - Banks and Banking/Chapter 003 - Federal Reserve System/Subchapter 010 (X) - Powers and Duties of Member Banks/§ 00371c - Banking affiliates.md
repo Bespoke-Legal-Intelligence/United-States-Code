@@ -8,7 +8,7 @@
 
 &emsp;(B) in the case of all affiliates, the aggregate amount of covered transactions of the member bank and its subsidiaries will not exceed 20 per centum of the capital stock and surplus of the member bank.
 
-(2) For the purpose of this section, any transaction by a member bank with any person shall be deemed to be a transaction with an affiliate to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, that affiliate.
+(2) For the purpose of this section, any transaction by a member bank with any person shallbe deemed to be a transaction with an affiliate to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, that affiliate.
 
 (3) A member bank and its subsidiaries may not purchase a low-quality asset from an affiliate unless the bank or such subsidiary, pursuant to an independent credit evaluation, committed itself to purchase such asset prior to the time such asset was acquired by the affiliate.
 
@@ -148,7 +148,7 @@ The provisions of this section, except subsection (a)(4) of this section, shall 
 
 &emsp;(5) purchasing securities issued by any company of the kinds described in section 1843(c)(1) of this title;
 
-&emsp;(6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or,subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
+&emsp;(6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
 
 &emsp;(7) purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
 
@@ -224,7 +224,7 @@ Subsec. (f). Pub. L. 106–102, §121(b)(1)(A), (3), redesignated subsec. (e) as
 
 Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted “, subject to the prohibition contained in subsection (a)(3) of this section,” after “market quotation or”.
 
-1982—Pub. L. 97–320 amended section generally by substituting provisions in lettered subsections relating to restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
+1982—Pub. L. 97–320 amended section generally by substituting provisions in lettered subsections relatingto restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
 
 “No member bank shall (1) make any loan or any extension of credit to, or purchase securities under repurchase agreement from, any of its affiliates, or (2) invest any of its funds in the capital stock, bonds, debentures, or other such obligations of any such affiliate, or (3) accept the capital stock, bonds, debentures, or other such obligations of any such affiliate as collateral security for advances made to any person, partnership, association, or corporation, if, in the case of any such affiliate, the aggregate amount of such loans, extensions of credit, repurchase agreements, investments, and advances against such collateral security will exceed 10 per centum of the capital stock and surplus of such member bank, or if, in the case of all such affiliates, the aggregate amount of such loans, extensions of credits, repurchase agreements, investments, and advances against such collateral security will exceed 20 per centum of the capital stock and surplus of such member bank.
 
@@ -242,7 +242,7 @@ Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted “, subject to the prohibi
 
 1959—Pub. L. 86–230 struck out from second and third pars. references to Home Owners’ Loan Corporation after Federal Home Loan Banks.
 
-1954—Act June 30, 1954, amended third par. substituting “solely” for “on June 16, 1934” after “(1) engaged” and struck out “or in maintaining and operating properties acquired for banking purposes prior to such date” after “is affiliated”.
+1954—Act June 30, 1954, amended third par. substituting “solely” for “on June 16, 1934” after “(1) engaged”and struck out “or in maintaining and operating properties acquired for banking purposes prior to such date” after “is affiliated”.
 
 1935—Act Aug. 23, 1935, amended third par.
 

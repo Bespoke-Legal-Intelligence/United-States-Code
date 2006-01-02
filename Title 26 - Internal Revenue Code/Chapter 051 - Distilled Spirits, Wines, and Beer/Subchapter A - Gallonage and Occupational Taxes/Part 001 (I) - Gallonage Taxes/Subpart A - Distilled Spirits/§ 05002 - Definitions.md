@@ -106,7 +106,11 @@ For purposes of this chapter—
 
 &emsp;&emsp;<b>(5) For definitions of general application to this title, see chapter 79.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1315; amended Pub. L. 89–44, title VIII, §807(a), June 21, 1965, 79 Stat. 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §805(e), July 26, 1979, 93 Stat. 278; Pub. L. 103–465, title I, §136(c)(1), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1315; amended Pub. L. 89–44, title VIII, §807(a), June 21, 1965, 79 Stat. 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §805(e), July 26, 1979, 93 Stat. 278; Pub. L. 103–465, title I, §136(c)(1), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 109–59, title XI, §11125(b)(13), Aug. 10, 2005, 119 Stat. 1956.)
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 109–59, title XI, §11125(b)(13), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (b) of this section is amended by substituting “section 5121(c)(3)” for “section 5112(a)”, “section 5121(c)” for “section 5112”, and “section 5122(c)” for “section 5122”.</i>
 
 #### Prior Provisions
 
@@ -138,6 +142,10 @@ Subsec. (b). Pub. L. 95–39 struck out par. (2) which provided for a cross refe
 
 1965—Subsec. (a). Pub. L. 89–44 added par. (12).
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11125(c), Aug. 10, 2005, 119 Stat. 1957, provided that: “The amendments made by this section \[see Tables for classification\] shall take effect on July 1, 2008, but shall not apply to taxes imposed for periods before such date.”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title.
@@ -149,8 +157,4 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 #### Effective Date of 1965 Amendment
 
 Section 807(c) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 5053 of this title\] shall take effect on July 1, 1965.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5214, 5273, 5291, 5301 of this title; title 19 section 81c; title 23 section 158.
 

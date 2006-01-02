@@ -1,6 +1,6 @@
 ### §7622. Admiralty claims against the United States
 
-(a) The Secretary of the Navy may settle, or compromise, and pay in an amount not more than $15,000,000 an admiralty claim against the United States for—
+(a) The Secretary of the Navy may settle, or compromise, and pay in an amount not morethan $15,000,000 an admiralty claim against the United States for—
 
 &emsp;(1) damage caused by a vessel in the naval service or by other property under the jurisdiction of the Department of the Navy;
 

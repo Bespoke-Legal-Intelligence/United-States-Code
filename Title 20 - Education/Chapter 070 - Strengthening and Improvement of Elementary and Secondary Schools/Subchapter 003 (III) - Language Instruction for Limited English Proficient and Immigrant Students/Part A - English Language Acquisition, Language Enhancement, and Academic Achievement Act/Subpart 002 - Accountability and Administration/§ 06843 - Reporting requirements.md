@@ -24,7 +24,7 @@ Every second year, the Secretary shall prepare and submit to the Committee on Ed
 
 &emsp;(8) containing the number of limited English proficient children served by eligible entities receiving funding under this part who were transitioned out of language instruction educational programs funded under this part into classrooms where instruction is not tailored for limited English proficient children; and
 
-&emsp;(9) containing other information gathered from the evaluations from specially qualified agencies and other reports submitted to the Secretary under this subchapter when applicable.
+&emsp;(9) containing other information gathered from the evaluations from specially qualified agencies and other reports submitted to theSecretary under this subchapter when applicable.
 
 (Pub. L. 89–10, title III, §3123, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1704.)
 

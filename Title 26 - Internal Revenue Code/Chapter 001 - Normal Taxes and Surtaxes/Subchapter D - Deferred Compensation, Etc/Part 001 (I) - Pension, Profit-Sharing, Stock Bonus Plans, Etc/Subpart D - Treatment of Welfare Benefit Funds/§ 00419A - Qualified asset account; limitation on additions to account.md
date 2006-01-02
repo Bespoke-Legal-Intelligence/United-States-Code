@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (2) Limitation on amount of life insurance benefits
 
-&emsp;Life insurance benefits shall not be taken into account under subsection (c)(2) to the extent the aggregate amount of such benefits to be provided with respect to the employee exceeds $50,000.
+&emsp;Life insurance benefits shall not be taken into account under subsection (c)(2) to the extent the aggregate amount of such benefits tobe provided with respect to the employee exceeds $50,000.
 
 #### (f) Definitions and other special rules
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such plan has at least 50 employees (determined without regard to subsection (h)(1)), and
 
-&emsp;&emsp;&emsp;(ii) no employee is entitled to a refund with respect to amounts in the fund, otherthan a refund based on the experience of the entire fund.
+&emsp;&emsp;&emsp;(ii) no employee is entitled to a refund with respect to amounts in the fund, other than a refund based on the experience of the entire fund.
 
 #### (6) Exception for 10-or-more employer plans
 
@@ -311,8 +311,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Application of Section 419A(e) to Group-Term Life Insurance
 
 Section 1851(a)(3)(B) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 \[now 1986\] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 \[section 223(a) of Pub. L. 98–369, amending section 79 of this title\] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act \[set out as a note under section 79 of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 415, 419, 512, 4976 of this title.
 

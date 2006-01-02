@@ -86,11 +86,11 @@ Appropriated Amounts for Affordable Child Care.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “Executive agency” has themeaning given that term in section 105 of title 5, but does not include the Government Accountability Office.
+Definition.—For purposes of this subsection, the term “Executive agency” has the meaning given that term in section 105 of title 5, but does not include the Government Accountability Office.
 
 &emsp;(2)
 
-In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal or leased facility, or through contract, for civilian employees of the agency.
+In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal orleased facility, or through contract, for civilian employees of the agency.
 
 &emsp;(3)
 

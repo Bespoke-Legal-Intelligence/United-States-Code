@@ -56,7 +56,7 @@ The Secretary may not make a grant under this part to a State unless the State a
 
 #### (f) Rule of construction regarding counseling without testing
 
-Agreements made pursuant to this section may not be construed to prohibit any grantee under this part from expending the grant for the purpose of providing counseling services described in this section to an individual who doesnot undergo testing for HIV disease as a result of the grantee or the individual determining that such testing of the individual is not appropriate.
+Agreements made pursuant to this section may not be construed to prohibit any grantee under this part from expending the grant for the purpose of providing counseling services described in this section to an individual who does not undergo testing for HIV disease as a result of the grantee or the individual determining that such testing of the individual is not appropriate.
 
 (July 1, 1944, ch. 373, title XXVI, §2662, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 610; amended Pub. L. 106–345, title III, §321, Oct. 20, 2000, 114 Stat. 1346.)
 

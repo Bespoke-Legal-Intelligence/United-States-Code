@@ -1,6 +1,6 @@
 ### §2158. Conduct resulting in termination of nuclear exports
 
-No nuclear materials and equipment or sensitive nuclear technology shall be exported to—
+(a) No nuclear materials and equipment or sensitive nuclear technology shall be exported to—
 
 &emsp;(1) any non-nuclear-weapon state that is found by the President to have, at any time after March 10, 1978,
 
@@ -20,17 +20,37 @@ No nuclear materials and equipment or sensitive nuclear technology shall be expo
 
 &emsp;&emsp;(C) entered into an agreement after March 10, 1978, for the transfer of reprocessing equipment, materials, or technology to the sovereign control of a non-nuclear-weapon state except in connection with an international fuel cycle evaluation in which the United States is a participant or pursuant to a subsequent international agreement or understanding to which the United States subscribes;
 
-> unless the President determines that cessation of such exports would be seriously prejudicial tothe achievement of United States non-proliferation objectives or otherwise jeopardize the common defense and security: <i>Provided</i>, That prior to the effective date of any such determination, the President's determination, together with a report containing the reasons for his determination, shall be submitted to the Congress and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of sixty days of continuous session (as defined in section 2159(g) of this title), but any such determination shall not become effective if during such sixty-day period the Congress adopts a concurrent resolution stating in substance that it does not favor the determination. Any such determination shall be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions.
+> unless the President determines that cessation of such exports would be seriously prejudicial to the achievement of United States non-proliferation objectives or otherwise jeopardize the common defense and security: <i>Provided</i>, That prior to the effective date of any such determination, the President's determination, together with a report containing the reasons for his determination, shall be submitted to the Congress and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of sixty days of continuous session (as defined in section 2159(g) of this title), but any such determination shall not become effective if during such sixty-day period the Congress adopts a concurrent resolution stating in substance that it does not favor the determination. Any such determination shall be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions.
 
-(Aug. 1, 1946, ch. 724, title I, §129, as added Pub. L. 95–242, title III, §307, Mar. 10, 1978, 92 Stat. 138; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(5), Nov. 2, 1994, 108 Stat. 4592.)
+(b)(1) Notwithstanding any other provision of law, including specifically section 2151 of this title, and except as provided in paragraphs (2) and (3), no nuclear materials and equipment or sensitive nuclear technology, including items and assistance authorized by section 2077(b) of this title and regulated under part 810 of title 10, Code of Federal Regulations, and nuclear-related items on the Commerce Control List maintained under part 774 of title 15 of the Code of Federal Regulations, shall be exported or reexported, or transferred or retransferred whether directly or indirectly, and no Federal agency shall issue any license, approval, or authorization for the export or reexport, or transfer, or retransfer, whether directly or indirectly, of these items or assistance (as defined in this paragraph) to any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which has been determined by the Secretary of State under section 2371(a) of title 22, section 2405(j)(1) of title 50, Appendix, or section 2780(d) of title 22 to have repeatedly provided support for acts of international terrorism).
+
+(2) This subsection shall not apply to exports, reexports, transfers, or retransfers of radiation monitoring technologies, surveillance equipment, seals, cameras, tamper-indication devices, nuclear detectors, monitoring systems, or equipment necessary to safely store, transport, or remove hazardous materials, whether such items, services, or information are regulated by the Department of Energy, the Department of Commerce, or the Commission, except to the extent that such technologies, equipment, seals, cameras, devices, detectors, or systems are available for use in the design or construction of nuclear reactors or nuclear weapons.
+
+(3) The President may waive the application of paragraph (1) to a country if the President determines and certifies to Congress that the waiver will not result in any increased risk that the country receiving the waiver will acquire nuclear weapons, nuclear reactors, or any materials or components of nuclear weapons and—
+
+&emsp;(A) the government of such country has not within the preceding 12-month period willfully aided or abetted the international proliferation of nuclear explosive devices to individuals or groups or willfully aided and abetted an individual or groups in acquiring unsafeguarded nuclear materials;
+
+&emsp;(B) in the judgment of the President, the government of such country has provided adequate, verifiable assurances that it will cease its support for acts of international terrorism;
+
+&emsp;(C) the waiver of that paragraph is in the vital national security interest of the United States; or
+
+&emsp;(D) such a waiver is essential to prevent or respond to a serious radiological hazard in the country receiving the waiver that may or does threaten public health and safety.
+
+(Aug. 1, 1946, ch. 724, title I, §129, as added Pub. L. 95–242, title III, §307, Mar. 10, 1978, 92 Stat. 138; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(5), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 109–58, title VI, §632(a), Aug. 8, 2005, 119 Stat. 788.)
 
 #### Amendments
+
+2005—Pub. L. 109–58 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1994—Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations” in closing provisions.
 
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title VI, §632(b), Aug. 8, 2005, 119 Stat. 789, provided that: “Subsection b. of section 129 of Atomic Energy Act of 1954 \[42 U.S.C. 2158(b)\], as added by subsection (a) of this section, shall apply with respect to exports that have been approved for transfer as of the date of the enactment of this Act \[Aug. 8, 2005\] but have not yet been transferred as of that date.”
 
 #### Effective Date
 

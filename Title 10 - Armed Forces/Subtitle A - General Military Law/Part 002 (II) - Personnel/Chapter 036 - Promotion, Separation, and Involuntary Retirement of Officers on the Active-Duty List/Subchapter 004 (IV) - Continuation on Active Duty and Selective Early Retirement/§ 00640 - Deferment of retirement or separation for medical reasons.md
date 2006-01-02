@@ -10,7 +10,3 @@
 
 2001—Pub. L. 107–107 amended text generally. Prior to amendment, text read as follows: “The Secretary of the military department concerned may defer the retirement or separation under this title of any officer if the evaluation of the physical condition of the officer and determination of the officer's entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date on which the officer would otherwise be required to retire or be separated under this title.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 641 of this title.
-

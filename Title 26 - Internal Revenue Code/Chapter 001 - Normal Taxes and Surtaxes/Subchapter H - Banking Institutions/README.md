@@ -16,5 +16,5 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Part 001 (I) - Rules of General Applica](Part%20001%20%28I%29%20-%20Rules%20of%20General%20Applica/README.md)
+- [Part 001 (I) - Rules of General Application to Banking Institutions](Part%20001%20%28I%29%20-%20Rules%20of%20General%20Application%20to%20Banking%20Institutions/README.md)
 - [Part 002 (II) - Mutual Savings Banks, Etc](Part%20002%20%28II%29%20-%20Mutual%20Savings%20Banks%2C%20Etc/README.md)

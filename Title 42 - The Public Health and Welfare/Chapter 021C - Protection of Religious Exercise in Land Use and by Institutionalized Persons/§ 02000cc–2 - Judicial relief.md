@@ -6,7 +6,7 @@ A person may assert a violation of this chapter as a claim or defense in a judic
 
 #### (b) Burden of persuasion
 
-If a plaintiff produces prima facie evidence to support a claim alleging a violation of the FreeExercise Clause or a violation of section 2000cc of this title, the government shall bear the burden of persuasion on any element of the claim, except that the plaintiff shall bear the burden of persuasion on whether the law (including a regulation) or government practice that is challenged by the claim substantially burdens the plaintiff's exercise of religion.
+If a plaintiff produces prima facie evidence to support a claim alleging a violation of the Free Exercise Clause or a violation of section 2000cc of this title, the government shall bear the burden of persuasion on any element of the claim, except that the plaintiff shall bear the burden of persuasion on whether the law (including a regulation) or government practice that is challenged by the claim substantially burdens the plaintiff's exercise of religion.
 
 #### (c) Full faith and credit
 

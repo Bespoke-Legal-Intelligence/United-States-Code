@@ -2,7 +2,7 @@
 
 #### (a) Amount of compensation to be that specified in appropriations Acts
 
-Notwithstanding any other provision of law, the pay for positions described in subsection (b) of this section shall be the amounts specified for such positions in appropriations Acts.
+Notwithstanding any other provision of law, the pay for positions described in subsection (b)of this section shall be the amounts specified for such positions in appropriations Acts.
 
 #### (b) Positions covered
 

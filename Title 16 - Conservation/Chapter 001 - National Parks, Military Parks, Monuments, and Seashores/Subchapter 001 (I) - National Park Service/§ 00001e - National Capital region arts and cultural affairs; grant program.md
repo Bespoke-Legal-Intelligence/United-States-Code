@@ -22,7 +22,7 @@ The contractual amounts required for the support of Ford's Theater and Wolf Trap
 
 #### References in Text
 
-The Historic Sites Act of 1935, referred to in text, which is also known as the Historic Sites, Buildings, and Antiquities Act, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, which is classified to sections 461 to 467 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+The Historic Sites Act of 1935, referred to in text, which is also known as the Historic Sites, Buildings, and Antiquities Act, is act Aug. 21, 1935, ch. 593, 49 Stat. 666, as amended, which is classified to sections 461 to 467 of this title. For complete classification of this Actto the Code, see Short Title note set out under section 461 of this title and Tables.
 
 #### Amendments
 

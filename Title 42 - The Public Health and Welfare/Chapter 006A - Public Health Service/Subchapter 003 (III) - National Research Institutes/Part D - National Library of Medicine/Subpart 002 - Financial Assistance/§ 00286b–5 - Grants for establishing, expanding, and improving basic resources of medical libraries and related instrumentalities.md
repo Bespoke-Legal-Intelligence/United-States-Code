@@ -22,7 +22,7 @@
 
 &emsp;(E) the staff of any hospital or hospitals or of any clinic or clinics with which such library or instrumentality is affiliated; and
 
-&emsp;(F) the geographic area served by such library or instrumentality and the availability within such area of medical library or relatedservices provided by other libraries or related instrumentalities.
+&emsp;(F) the geographic area served by such library or instrumentality and the availability within such area of medical library or related services provided by other libraries or related instrumentalities.
 
 (2) Grants to such medical libraries or related instrumentalities under this section shall be in such amounts as the Secretary may by regulation prescribe with a view to assuring adequate continuing financial support for such libraries or instrumentalities from other sources during and after the period for which grants are provided, except that in no case shall any grant under this section to a medical library or related instrumentality for any fiscal year exceed $1,000,000.
 

@@ -4,9 +4,33 @@
 
 There shall be in the Department a Deputy Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level II of the Executive Schedule under section 5313 of title 5. The Deputy Secretary shall act for and exercise the functions of the Secretary during the absence or disability of the Secretary or in the event the office of Secretary becomes vacant. The Secretary shall designate the order in which the Under Secretary and other officials shall act for and perform the functions of the Secretary during the absence or disability of both the Secretary and Deputy Secretary or in the event of vacancies in both of those offices.
 
-#### (b) Under Secretary; General Counsel
+#### (b) Under Secretary for Science
 
-There shall be in the Department an Under Secretary and a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe. The Under Secretary shall bear primary responsibility for energy conservation. The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5, and the General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+(1) There shall be in the Department an Under Secretary for Science, who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(2) The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5.
+
+(3) The Under Secretary for Science shall be appointed from among persons who—
+
+&emsp;(A) have extensive background in scientific or engineering fields; and
+
+&emsp;(B) are well qualified to manage the civilian research and development programs of the Department.
+
+(4) The Under Secretary for Science shall—
+
+&emsp;(A) serve as the Science and Technology Advisor to the Secretary;
+
+&emsp;(B) monitor the research and development programs of the Department in order to advise the Secretary with respect to any undesirable duplication or gaps in the programs;
+
+&emsp;(C) advise the Secretary with respect to the well-being and management of the multipurpose laboratories under the jurisdiction of the Department;
+
+&emsp;(D) advise the Secretary with respect to education and training activities required for effective short- and long-term basic and applied research activities of the Department;
+
+&emsp;(E) advise the Secretary with respect to grants and other forms of financial assistance required for effective short- and long-term basic and applied research activities of the Department;
+
+&emsp;(F) advise the Secretary with respect to long-term planning, coordination, and development of a strategic framework for Department research and development activities; and
+
+&emsp;(G) carry out such additional duties assigned to the Under Secretary by the Secretary relating to basic and applied research, including supervision or support of research activities carried out by any of the Assistant Secretaries designated by section 7133 of this title, as the Secretary considers advantageous.
 
 #### (c) Under Secretary for Nuclear Security
 
@@ -20,9 +44,25 @@ There shall be in the Department an Under Secretary and a General Counsel, who s
 
 (3) The Under Secretary for Nuclear Security shall serve as the Administrator for Nuclear Security under section 2402 of title 50. In carrying out the functions of the Administrator, the Under Secretary shall be subject to the authority, direction, and control of the Secretary. Such authority, direction, and control may be delegated only to the Deputy Secretary of Energy, without redelegation.
 
-(Pub. L. 95–91, title II, §202, Aug. 4, 1977, 91 Stat. 569; Pub. L. 106–65, div. C, title XXXII, §3202, Oct. 5, 1999, 113 Stat. 954.)
+#### (d) Under Secretary
+
+(1) There shall be in the Department an Under Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe, consistent with this section.
+
+(2) The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5.
+
+#### (e) General Counsel
+
+(1) There shall be in the Department a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe.
+
+(2) The General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+
+(Pub. L. 95–91, title II, §202, Aug. 4, 1977, 91 Stat. 569; Pub. L. 106–65, div. C, title XXXII, §3202, Oct. 5, 1999, 113 Stat. 954; Pub. L. 109–58, title X, §1006(a), (c)(1), Aug. 8, 2005, 119 Stat. 930, 931.)
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58, §1006(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “There shall be in the Department an Under Secretary and a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall perform such functions and duties as the Secretary shall prescribe. The Under Secretary shall bear primary responsibility for energy conservation. The Under Secretary shall be compensated at the rate provided for level III of the Executive Schedule under section 5314 of title 5, and the General Counsel shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.”
+
+Subsecs. (d), (e). Pub. L. 109–58, §1006(c)(1), added subsecs. (d) and (e).
 
 1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 

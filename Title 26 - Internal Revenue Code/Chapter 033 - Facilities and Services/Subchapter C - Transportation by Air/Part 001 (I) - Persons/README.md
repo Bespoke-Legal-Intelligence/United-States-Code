@@ -18,10 +18,6 @@
 
 1956—Act July 25, 1956, ch. 725, §5, 70 Stat. 646, added items 4262 and 4264 and redesignated former item 4262 as 4263.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 8 section 1356; title 19 section 58c.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to part heading.</i>
 
 

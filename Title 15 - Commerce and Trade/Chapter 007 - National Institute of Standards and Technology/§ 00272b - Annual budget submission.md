@@ -6,5 +6,5 @@ The National Institute of Standards and Technology shall annually submit to the 
 
 #### Codification
 
-Section was enacted as part of the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+Section was enacted as part of the National Institute of Standards and Technology Authorization Act forFiscal Year 1989, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 

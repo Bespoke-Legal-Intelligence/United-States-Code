@@ -112,7 +112,7 @@ In the case of gross income derived from sources partly within and partly withou
 
 &emsp;For purposes of this section, the term “international communications income” includes all income derived from the transmission of communications or data from the United States to any foreign country (or possession of the United States) or from any foreign country (or possession of the United States) to the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 277; Pub. L. 94–455, title XIX, §§1901(b)(26)(C), (D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1799, 1834; Pub. L. 98–369, div. A, title I, §124(a), July 18, 1984, 98 Stat. 646; Pub. L. 99–514, title XII, §§1211(b)(1)(A), 1212(a), (e), 1213(a), Oct. 22, 1986, 100 Stat. 2536, 2539, 2540; Pub. L. 100–647, title I, §1012(e)(3)(A), (f), Nov 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 105–34, title XI, §1174(a)(2), Aug. 5, 1997, 111 Stat. 989.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 277; Pub. L. 94–455, title XIX, §§1901(b)(26)(C), (D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1799, 1834; Pub. L. 98–369, div. A, title I, §124(a), July 18, 1984, 98 Stat. 646; Pub. L. 99–514, title XII, §§1211(b)(1)(A), 1212(a), (e), 1213(a), Oct. 22, 1986, 100 Stat. 2536, 2539, 2540; Pub. L. 100–647, title I, §1012(e)(3)(A), (f), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 105–34, title XI, §1174(a)(2), Aug. 5, 1997, 111 Stat. 989.)
 
 #### Amendments
 
@@ -174,7 +174,7 @@ In general.—In the case of any property described in subparagraph (B), paragra
 
 &emsp;“(B)
 
-Property to which paragraph applies.—Property described in this subparagraph consists of 4 ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and whichinvolved the following amount of financing, respectively:
+Property to which paragraph applies.—Property described in this subparagraph consists of 4 ships which are to be leased by the United States Navy and which are the subject of Internal Revenue Service rulings bearing the following dates and which involved the following amount of financing, respectively:
 
 &nbsp;&nbsp;“March 5, 1986
 
@@ -217,8 +217,4 @@ For rule governing allocation under subsec. (b) of this section of amounts allow
 #### Allocation Under Section 861 of Research and Experimental Expenditures
 
 For purposes of subsec. (b) of this section, all amounts allowable as a deduction for qualified research and experimental expenditures are to be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States for taxable years beginning after Aug. 13, 1983, and on or before Aug. 1, 1986, see section 126 of Pub. L. 98–369, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 818, 864, 865, 887, 954 of this title.
 

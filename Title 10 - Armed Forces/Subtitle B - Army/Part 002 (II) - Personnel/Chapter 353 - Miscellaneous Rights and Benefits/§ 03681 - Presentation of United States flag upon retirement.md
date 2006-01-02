@@ -24,5 +24,5 @@ A prior section 3681, act Aug. 10, 1956, ch. 1041, 70A Stat. 210, related to ser
 
 #### Effective Date
 
-Pub. L. 105–261, div. A, title VI, §644(e), Oct. 17, 1998, 112 Stat. 2049, provided that: “Sections 3681, 6141, and8681 of title 10, United States Code (as added by this section), and section 516 of title 14, United States Code (as added by subsection (d)), shall apply with respect to releases from active duty described in those sections on or after October 1, 1998.”
+Pub. L. 105–261, div. A, title VI, §644(e), Oct. 17, 1998, 112 Stat. 2049, provided that: “Sections 3681, 6141, and 8681 of title 10, United States Code (as added by this section), and section 516 of title 14, United States Code (as added by subsection (d)), shall apply with respect to releases from active duty described in those sections on or after October 1, 1998.”
 

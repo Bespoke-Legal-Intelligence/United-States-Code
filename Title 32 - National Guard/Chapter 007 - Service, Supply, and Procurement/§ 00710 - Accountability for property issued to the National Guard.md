@@ -4,7 +4,7 @@
 
 (b) The Secretary of the Army shall prescribe regulations for accounting for property issued by the United States to the Army National Guard and for the fixing of responsibility for that property. The Secretary of the Air Force shall prescribe regulations for accounting for property issued by the United States to the Air National Guard and for the fixing of responsibility for that property. So far as practicable, regulations prescribed under this section shall be uniform among the components of each service.
 
-(c) Under regulations prescribed by the Secretary concerned under subsection (b), liability for the value of property issued by the United States to the National Guard that is lost, damaged, or destroyed may be charged (1) to a member of the Army National Guard or the Air National Guard when in similar circumstances a member of the Army or Air Force serving on active duty would be so charged, or (2) to a State or Territory, Puerto Rico, or the District of Columbia when the property is lost, damaged, or destroyed incident to duty directed pursuant to the laws of, and in support of the authorities of, such jurisdiction. Liability charged to a member of the Army National Guard or the Air National Guard shall be paid out of pay due to the member for duties performed as a member of the National Guard, unless the Secretary concerned shall for good cause remit or cancel that liability. Liability charged to a State or Territory, Puerto Rico, or the District of Columbia shall be paid from its funds or from any other non-Federal funds.
+(c) Under regulations prescribed by the Secretary concerned under subsection (b), liability for the value of property issued by the United States to the National Guard that is lost, damaged, or destroyed may be charged (1) to a member of the Army National Guard or the Air National Guard when in similar circumstances a member of the Army or Air Force serving on active duty would be so charged, or (2) to a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands when the property is lost, damaged, or destroyed incident to duty directed pursuant to the laws of, and in support of the authorities of, such jurisdiction. Liability charged to a member of the Army National Guard or the Air National Guard shall be paid out of pay due to the member for duties performed as a member of the National Guard, unless the Secretary concerned shall for good cause remit or cancel that liability. Liability charged to a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands shall be paid from its funds or from any other non-Federal funds.
 
 (d) If property surveyed under this section is found to be unserviceable or unsuitable, the Secretary concerned or his designated representative shall direct its disposition by sale or otherwise. The proceeds of the following under this subsection shall be deposited in the Treasury under section 4(b)(22) of the Permanent Appropriation Repeal Act, 1934:
 
@@ -12,11 +12,11 @@
 
 &emsp;(2) A stoppage against a member of the National Guard.
 
-&emsp;(3) A collection from a person, or from a State or Territory, Puerto Rico, or the District of Columbia, to reimburse the United States for the loss or destruction of, or damage to, the property.
+&emsp;(3) A collection from a person, or from a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands, to reimburse the United States for the loss or destruction of, or damage to, the property.
 
-(e) If a State or Territory, Puerto Rico, or the District of Columbia, whichever is concerned, neglects or refuses to pay for the loss or destruction of, or damage to, property charged against it under subsection (c), the Secretary concerned may bar it from receiving any part of appropriations for the Army National Guard or the Air National Guard, as the case may be, until the payment is made.
+(e) If a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands, whichever is concerned, neglects or refuses to pay for the loss or destruction of, or damage to, property charged against it under subsection (c), the Secretary concerned may bar it from receiving any part of appropriations for the Army National Guard or the Air National Guard, as the case may be, until the payment is made.
 
-(f)(1) Instead of the procedure prescribed by subsections (b), (c), and (d), property issued to the National Guard that becomes unserviceable through fair wear and tear in service may, under regulations to be prescribed by the Secretary concerned, be sold or otherwise disposed of after an inspection, and a finding of unserviceability because of that wear and tear, by a commissioned officer designated by the Secretary. The State or Territory, Puerto Rico, or the District of Columbia, whichever is concerned, is relieved of accountability for that property.
+(f)(1) Instead of the procedure prescribed by subsections (b), (c), and (d), property issued to the National Guard that becomes unserviceable through fair wear and tear in service may, under regulations to be prescribed by the Secretary concerned, be sold or otherwise disposed of after an inspection, and a finding of unserviceability because of that wear and tear, by a commissioned officer designated by the Secretary. The State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands, whichever is concerned, is relieved of accountability for that property.
 
 (2) In designating an officer to conduct inspections and make findings for purposes of paragraph (1), the Secretary concerned shall designate—
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) in the case of the Air National Guard, a commissioned officer of the Regular Air Force or a commissioned officer of the Air National Guard who is also a commissioned officer of the Air National Guard of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 615; Pub. L. 85–861, §33(c)(3), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–328, §1(a), (b)(1), Aug. 8, 1980, 94 Stat. 1027; Pub. L. 96–513, title V, §515(8), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 97–258, §3(h)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–160, div. A, title V, §524(e), Nov. 30, 1993, 107 Stat. 1657.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 615; Pub. L. 85–861, §33(c)(3), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 96–328, §1(a), (b)(1), Aug. 8, 1980, 94 Stat. 1027; Pub. L. 96–513, title V, §515(8), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 97–258, §3(h)(2), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–160, div. A, title V, §524(e), Nov. 30, 1993, 107 Stat. 1657; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes<br>1956
 
@@ -97,6 +97,8 @@ This change corrects a typographical error.
 Section 4(b)(22) of the Permanent Appropriation Repeal Act, 1934, referred to in subsec. (d), is section 4(b)(22) of act June 26, 1934, ch. 756, 48 Stat. 1228, which was classified to section 725c(b)(22) of former Title 31, and was omitted from the Code in the general revision and reenactment of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
+
+2006—Subsecs. (c), (d)(3), (e), (f)(1). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia” wherever appearing.
 
 1993—Subsec. (f). Pub. L. 103–160 designated existing provisions as par. (1), substituted “subsections (b), (c), and (d)” for “subsections (b)–(d)”, struck out “of the Regular Army or the Regular Air Force, as the case may be,” after “commissioned officer”, and added par. (2).
 

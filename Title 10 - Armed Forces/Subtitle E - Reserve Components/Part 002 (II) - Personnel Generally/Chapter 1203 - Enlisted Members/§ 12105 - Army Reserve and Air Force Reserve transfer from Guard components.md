@@ -6,7 +6,7 @@
 
 &emsp;(2) an enlisted member of the Air National Guard of the United States may be transferred in grade to the Air Force Reserve.
 
-(b) Upon such a transfer, the member transferred is eligible for promotion to the highest regular or reserve grade ever held by him in the Army, if transferred under subsection (a)(1), or the Air Force, if transferred under subsection (a)(2), if his service has been honorable.
+(b) Upon such a transfer, the member transferred is eligible for promotion to the highest regular or reserve grade ever held by him in the Army, if transferred under subsection (a)(1), orthe Air Force, if transferred under subsection (a)(2), if his service has been honorable.
 
 (c) A transfer under this section may only be made with the consent of the governor or other appropriate authority of the State concerned.
 
@@ -15,8 +15,4 @@
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3259 and 8259 of this title, prior to repeal by Pub. L. 103–337, §1662(b)(3).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 32 section 323.
 

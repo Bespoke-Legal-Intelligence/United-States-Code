@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(ii) Subsections (c) through (g).
 
-&emsp;&emsp;(iii) Subsection (h), except for the matter in paragraph (4) pertaining to transmissionof findings and decisions to a State advisory panel.
+&emsp;&emsp;(iii) Subsection (h), except for the matter in paragraph (4) pertaining to transmission of findings and decisions to a State advisory panel.
 
 &emsp;&emsp;(iv) Paragraphs (1) and (2) of subsection (i).
 

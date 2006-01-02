@@ -2,7 +2,7 @@
 
 #### (a) Rules, regulations, and expenditures; appropriations
 
-The Secretary may make such rules, regulations, and orders as may be necessary to carry out the provisions of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees, not in conflict with existing law, and make such expenditures for rent outside the District of Columbia, printing, telegrams, telephones, law books, books of reference, periodicals, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be necessary tothe administration of this chapter in the District of Columbia and elsewhere, and as may be appropriated for by Congress, and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for such purpose.
+The Secretary may make such rules, regulations, and orders as may be necessary to carry out the provisions of this chapter and may cooperate with any department or agency of the Government, any State, Territory, District, or possession, or department, agency, or political subdivision thereof, or any person; and shall have the power to appoint, remove, and fix the compensation of such officers and employees, not in conflict with existing law, and make such expenditures for rent outside the District of Columbia, printing, telegrams, telephones, law books, books of reference, periodicals, furniture, stationery, office equipment, travel, and other supplies and expenses as shall be necessary to the administration of this chapter in the District of Columbia and elsewhere, and as may be appropriated for by Congress, and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for such purpose.
 
 #### (b) Deductions from proceeds for financing promotional, educational, and research activities
 
@@ -34,7 +34,7 @@ For the purposes of subsection (d) of this section—
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–354, §293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
+1994—Subsec. (b). Pub. L. 103–354, §293(b)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec.\(b) which read as follows: “The Secretary shall maintain within the Department of Agriculture a separate enforcement unit to administer and enforce subchapter II of this chapter.”
 
 Subsec. (c). Pub. L. 103–437, which directed the amendment of subsec. (d) by substituting “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”, was executed by making the amendment to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (c) by Pub. L. 103–354. See below.
 

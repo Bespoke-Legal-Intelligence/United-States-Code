@@ -22,9 +22,17 @@ Such assistance shall be available—
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Statement of Policy
+
+Pub. L. 109–165, §2, Jan. 10, 2006, 119 Stat. 3574, provided that: “It is the policy of the United States—
+
+&emsp;“(1) to ensure that, in its support abroad for programs and centers for the treatment of victims of torture, particular incentives and support should be given to establishing and supporting such programs and centers in emerging democracies, in post-conflict environments, and, with a view to providing services to refugees and internally displaced persons, in areas as close to ongoing conflict as safely as possible; and
+
+&emsp;“(2) to ensure that, in its support for domestic programs and centers for the treatment of victims of torture, particular attention should be given to regions with significant immigrant or refugee populations.”
+
 #### Torture Victims Relief; Effective Date
 
-Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87, §6(b), Nov. 3, 1999, 113 Stat. 1302; Pub. L. 108–179, §§2(a), 3(a), Dec. 15, 2003, 117 Stat. 2643, provided that:
+Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87, §6(b), Nov. 3, 1999, 113 Stat. 1302; Pub. L. 108–179, §§2(a), 3(a), Dec. 15, 2003, 117 Stat. 2643; Pub. L. 109–165, §§3, 4, Jan. 10, 2006, 119 Stat. 3574, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -36,7 +44,7 @@ Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87
 
 &emsp;“(1) The American people abhor torture by any government or person. The existence of torture creates a climate of fear and international insecurity that affects all people.
 
-&emsp;“(2) Torture is the deliberate mental and physical damage caused by governments to individuals to destroy individual personality and terrorize society. The effects of torture are long term. Those effects can last a lifetime for the survivors and affect future generations.
+&emsp;“(2) Torture is the deliberate mental and physical damage caused by governments to individuals to destroy individual personality and terrorize society. The effects of torture are long term. Those effectscan last a lifetime for the survivors and affect future generations.
 
 &emsp;“(3) By eliminating the leadership of their opposition and frightening the general public, repressive governments often use torture as a weapon against democracy.
 
@@ -66,7 +74,7 @@ Funding.—
 
 &emsp;“(1)
 
-Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 2004 and 2005 pursuant to chapter 1 of part I ofthe Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President to carry out section 130 of such Act \[this section\] (relating to assistance for centers in foreign countries and programs for the treatment of victims of torture) $11,000,000 for fiscal year 2004 and $12,000,000 for fiscal year 2005.
+Authorization of appropriations.—Of the amounts authorized to be appropriated for fiscal years 2006 and 2007 pursuant to chapter 1 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], there are authorized to be appropriated to the President to carry out section 130 of such Act \[this section\] $12,000,000 for fiscal year 2006 and $13,000,000 for fiscal year 2007.
 
 &emsp;“(2)
 
@@ -94,7 +102,7 @@ Funding.—
 
 &emsp;“(1)
 
-Authorization of appropriations.—Of the amounts authorized to be appropriated for the Department of Health and Human Services for fiscal years 2004 and 2005, there are authorized to be appropriated to carry out subsection (a) (relating to assistance for domestic centers and programs for the treatment of victims of torture) $20,000,000 for fiscal year 2004 and $25,000,000 for fiscal year 2005.
+Authorization of appropriations.—Of the amounts authorized to be appropriated for the Department of Health and Human Services for fiscal years 2006 and 2007, there are authorized to be appropriated to carry out subsection (a) $25,000,000 for each of the fiscal years 2006 and 2007.
 
 &emsp;“(2)
 

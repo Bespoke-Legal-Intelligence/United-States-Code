@@ -18,4 +18,5 @@
 - [&sect; 13261 - Prohibited acts](%C2%A7%2013261%20-%20Prohibited%20acts.md)
 - [&sect; 13262 - Enforcement](%C2%A7%2013262%20-%20Enforcement.md)
 - [&sect; 13263 - Powers of Secretary](%C2%A7%2013263%20-%20Powers%20of%20Secretary.md)
+- [&sect; 13263a - Alternative compliance](%C2%A7%2013263a%20-%20Alternative%20compliance.md)
 - [&sect; 13264 - Authorization of appropriations](%C2%A7%2013264%20-%20Authorization%20of%20appropriations.md)

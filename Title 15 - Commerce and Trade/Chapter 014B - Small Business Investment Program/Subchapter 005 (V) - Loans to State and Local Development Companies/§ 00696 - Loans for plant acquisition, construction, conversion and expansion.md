@@ -64,7 +64,7 @@ Funding from a small business concern.—The small business concern (or its owne
 
 &emsp;&emsp;(ii) at least 15 percent of the total cost of the project financed if the project involves the construction of a limited or single purpose building or structure;
 
-&emsp;&emsp;(iii) at least 20 percent of the total cost of the project financed if the project involvesboth of the conditions set forth in clauses (i) and (ii); or
+&emsp;&emsp;(iii) at least 20 percent of the total cost of the project financed if the project involves both of the conditions set forth in clauses (i) and (ii); or
 
 &emsp;&emsp;(iv) at least 10 percent of the total cost of the project financed, in all other circumstances, at the discretion of the development company.
 
@@ -92,7 +92,7 @@ Appraisals.—With respect to commercial real property provided by the small bus
 
 (5)
 
-Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted small business to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
+Limitation on leasing.—In addition to any portion of the project permitted to be leased under paragraph (4), not to exceed 20 percent of the project may be leased by the assisted smallbusiness to 1 or more other tenants, if the assisted small business occupies permanently and uses not less than a total of 60 percent of the space in the project after the execution of any leases authorized under this section.
 
 (6)
 

@@ -10,7 +10,7 @@
 
 (1) Where authorized in subsection (a) of this section to acquire land or interests therein without the consent of the owner, the Secretary shall—
 
-&emsp;(A) acquire only such land or interests therein as is reasonably necessary to accomplish the purposes of sections 544 to 544p of this title; and
+&emsp;(A) acquire only such land or interests therein as is reasonably necessary to accomplishthe purposes of sections 544 to 544p of this title; and
 
 &emsp;(B) do so only in cases where all reasonable efforts to acquire with the consent of the owner such lands, or interests therein, have failed.
 
@@ -170,7 +170,7 @@ Zig-Zag Area
 
 #### (A) Before April 1, 2001
 
-&emsp;&emsp;Land within a special management area for which the landowner, before April 1, 2001,makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised—
+&emsp;&emsp;Land within a special management area for which the landowner, before April 1, 2001, makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised—
 
 &emsp;&emsp;&emsp;(i) without regard to the effect of any zoning or land use restriction made in response to sections 544 to 544p of this title; but
 
@@ -244,7 +244,7 @@ Pub. L. 105–277, div. A, §101(e) \[title III, §341\], Oct. 21, 1998, 112 Sta
 
 #### Land Exchanges
 
-Pub. L. 105–83, title III, §336, Nov. 14, 1997, 111 Stat. 1602, provided that: “To facilitate priority land exchanges through which the United States will receive land within the White Salmon Wild and Scenic River boundaries and within the Columbia River Gorge National Scenic Area, the Secretary of Agriculture may, until September 30, 2000, accept title to such lands deemed appropriate by the Secretary within the Statesof Oregon and Washington, regardless of the State in which the transferred lands are located, following existing exchange authorities.”
+Pub. L. 105–83, title III, §336, Nov. 14, 1997, 111 Stat. 1602, provided that: “To facilitate priority land exchanges through which the United States will receive land within the White Salmon Wild and Scenic River boundaries and within the Columbia River Gorge National Scenic Area, the Secretary of Agriculture may, until September 30, 2000, accept title to such lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located, following existing exchange authorities.”
 
 #### Wind River Nursery
 

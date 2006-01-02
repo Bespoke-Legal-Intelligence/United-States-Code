@@ -8,7 +8,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (1) In general
 
-&emsp;The Director of NIH shall provide for the coordination of the program established undersubsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
+&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
 
 #### (2) Conference
 
@@ -18,7 +18,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (1) In general
 
-&emsp;The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson's Disease.
+&emsp;The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary researchand provide training concerning Parkinson's disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson's Disease.
 
 #### (2) Requirements
 

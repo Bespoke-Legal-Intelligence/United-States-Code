@@ -14,7 +14,3 @@ Where any taxpayer lays off part or all of a wager with another person who is li
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6612 of this title.
-

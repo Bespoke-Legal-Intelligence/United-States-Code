@@ -78,7 +78,7 @@ Rights and Liability Upon Final Disposition.—(1) If, upon final disposition, t
 
 &emsp;(A) the restriction shall be cancelled; and
 
-&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor asserting the restriction shall be liable to the United States for payment of the cost to the United States of reviewing the asserted restriction and the fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the United States in challenging the asserted restriction, unless special circumstances would make such payment unjust.
+&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor asserting the restriction shall be liable to the United States for payment of the cost to the United States of reviewing the asserted restriction and the fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the United States in challenging the asserted restriction, unless specialcircumstances would make such payment unjust.
 
 (2) If, upon final disposition, the contracting officer's challenge to the use or release restriction is not sustained—
 
@@ -118,7 +118,7 @@ Subsec. (b). Pub. L. 100–26, §7(a)(5)(A)(ii), added subsec. (b) and struck ou
 
 “(1) The Secretary of Defense shall ensure that there is a thorough review of the appropriateness of any restriction on the right of the United States to release or disclose technical data delivered under a contract to persons outside the Government, or to permit the use of such technical data by such persons. Such review shall be conducted before the end of the three-year period beginning on the date on which final payment is made on a contract under which technical data is required to be delivered, or the date on which the technical data is delivered under such contract, whichever is later.
 
-“(2)(A) If the Secretary determines, at any time before the end of the three-year period beginning on the date on which final payment is made on a contract under which technical data is required to be delivered, or the date on which the technical data is delivered under such contract, whichever is later, that a challenge to a restriction is warranted, the Secretary shallprovide written notice to the contractor or subcontractor asserting the restriction. Such a determination shall be based on a finding by the Secretary that reasonable grounds exist to question the current validity of the asserted restriction and that the continued adherence to the asserted restriction by the United States would make it impracticable to procure the item competitively at a later time. Such notice shall—
+“(2)(A) If the Secretary determines, at any time before the end of the three-year period beginning on the date on which final payment is made on a contract under which technical data is required to be delivered, or the date on which the technical data is delivered under such contract, whichever is later, that a challenge to a restriction is warranted, the Secretary shall provide written notice to the contractor or subcontractor asserting the restriction. Such a determination shall be based on a finding by the Secretary that reasonable grounds exist to question the current validity of the asserted restriction and that the continued adherence to the asserted restriction by the United States would make it impracticable to procure the item competitively at a later time. Such notice shall—
 
 &emsp;“(i) state the specific grounds for challenging the asserted restriction;
 
@@ -189,8 +189,4 @@ Amendment by Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 applicable
 #### Effective Date
 
 Section applicable with respect to solicitations issued after the end of the one-year period beginning Oct. 19, 1984, see section 1216(c)(2) of Pub. L. 98–525, set out as a note under section 2319 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2320 of this title.
 

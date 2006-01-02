@@ -2,7 +2,7 @@
 
 In connection with loans made or insured under this chapter, the Secretary shall require—
 
-&emsp;(1) the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish an appropriate written financial statement;
+&emsp;(1) the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable ratesand terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish an appropriate written financial statement;
 
 &emsp;(2) except with respect to a loan under section 1926, 1932, or 1944 of this title—
 

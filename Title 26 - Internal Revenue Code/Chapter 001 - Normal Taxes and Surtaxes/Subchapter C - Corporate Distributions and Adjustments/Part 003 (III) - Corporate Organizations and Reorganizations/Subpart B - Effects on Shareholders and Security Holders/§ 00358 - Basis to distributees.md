@@ -52,7 +52,7 @@ For purposes of this section, a distribution to which section 355 (or so much of
 
 #### (e) Exception
 
-This section shall not apply to property acquired by a corporation by the exchange of itsstock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
+This section shall not apply to property acquired by a corporation by the exchange of its stock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
 
 #### (f) Definition of nonrecognition property in case of section 361 exchange
 
@@ -166,7 +166,7 @@ Section 21(b) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 
@@ -179,8 +179,4 @@ Pub. L. 106–554, §1(a)(7) \[title III, §309(c)\], Dec. 21, 2000, 114 Stat. 2
 &emsp;“(1) shall prescribe rules which provide appropriate adjustments under subchapter K of chapter 1 of the Internal Revenue Code of 1986 to prevent the acceleration or duplication of losses through the assumption of (or transfer of assets subject to) liabilities described in section 358(h)(3) of such Code (as added by subsection (a)) in transactions involving partnerships, and
 
 &emsp;“(2) may prescribe rules which provide appropriate adjustments under subchapter S of chapter 1 of such Code in transactions described in paragraph (1) involving S corporations rather than partnerships.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 304, 351, 357 of this title.
 

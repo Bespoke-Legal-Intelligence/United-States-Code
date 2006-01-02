@@ -4,9 +4,3 @@ Whenever the Commission, upon complaint of a State commission, after notice to e
 
 (June 10, 1920, ch. 285, pt. II, §207, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 853.)
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to establishment, review, and enforcement of rates and charges for transmission or sale of electric energy, including determinations on construction work in progress under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(B) and 7293 of Title 42, The Public Health and Welfare.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
-

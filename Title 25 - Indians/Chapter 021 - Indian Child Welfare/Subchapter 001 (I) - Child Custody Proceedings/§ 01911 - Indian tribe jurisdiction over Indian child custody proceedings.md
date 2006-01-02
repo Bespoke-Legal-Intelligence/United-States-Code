@@ -10,7 +10,7 @@ In any State court proceeding for the foster care placement of, or termination o
 
 #### (c) State court proceedings; intervention
 
-In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child, the Indian custodianof the child and the Indian child's tribe shall have a right to intervene at any point in the proceeding.
+In any State court proceeding for the foster care placement of, or termination of parental rights to, an Indian child, the Indian custodian of the child and the Indian child's tribe shall have a right to intervene at any point in the proceeding.
 
 #### (d) Full faith and credit to public acts, records, and judicial proceedings of Indian tribes
 

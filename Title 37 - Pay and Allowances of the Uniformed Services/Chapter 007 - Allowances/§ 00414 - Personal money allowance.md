@@ -30,9 +30,9 @@ Allowance for Certain Naval Officers.—In addition to other pay or allowances a
 
 (c)
 
-Allowance for Senior Enlisted Members.—In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, or the Master Chief Petty Officer of the Coast Guard.
+Allowance for Senior Enlisted Members.—In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer ofthe Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149; Pub. L. 108–375, div. A, title V, §557(a)(2), Oct. 28, 2004, 118 Stat. 1915.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, §49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, §702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, §1 \[\[div. A\], title VI, §609(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–149; Pub. L. 108–375, div. A, title V, §557(a)(2), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–148, div. A, title VIII, §8124(b), Dec. 30, 2005, 119 Stat. 2727; Pub. L. 109–163, div. A, title VI, §685(c), Jan. 6, 2006, 119 Stat. 3325.)
 
 Historical and Revision Notes
 
@@ -57,6 +57,12 @@ Aug. 2, 1946, ch. 756, §3, 60 Stat. 853.
 In subsection (b), the words “pay or” are inserted to conform to subsection (a). The word “position” is substituted for the words “capacities” and “officers”, respectively. In clause (1), the words “Superintendent of the Naval Postgraduate School” are substituted for the words “Head of the Postgraduate school at the Naval Academy” to reflect present terminology.
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–163, §685(c)(2) inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
+
+Pub. L. 109–163, §685(c)(1), which directed that subsec. (c) be amended by striking “or” after “Sergeant Major of the Marine Corps,” could not be executed because of prior amendment by Pub. L. 109–148. See below.
+
+2005–Subsec. (c). Pub. L. 109–148 substituted “the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff” for “or the Master Chief Petty Officer of the Coast Guard”.
 
 2004—Subsec. (b)(1). Pub. L. 108–375 substituted “President of the Naval Postgraduate School” for “Superintendent of the Naval Postgraduate School”.
 

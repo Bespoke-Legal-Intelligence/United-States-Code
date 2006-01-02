@@ -38,11 +38,11 @@ Subject to subsection (d) of this section, the assessment required under this se
 
 &emsp;(5) the effects of the standard or regulation on energy use.
 
-> Nothing in this section shall be construed to provide that the analysis of the factors specified in this subsection affects or alters the factors which the Administrator is required to consider in taking any action referred to in subsection (a) of this section.
+> Nothing in this section shall be construed to provide that the analysis of the factors specified in this subsection affects or alters the factorswhich the Administrator is required to consider in taking any action referred to in subsection (a) of this section.
 
 #### (d) Extensiveness of assessment
 
-The assessment required under this section shall be as extensive as practicable, in the judgment of the Administrator taking into account the time and resources available to the Environmental Protection Agency and other duties andauthorities which the Administrator is required to carry out under this chapter.
+The assessment required under this section shall be as extensive as practicable, in the judgment of the Administrator taking into account the time and resources available to the Environmental Protection Agency and other duties and authorities which the Administrator is required to carry out under this chapter.
 
 #### (e) Limitations on construction of section
 

@@ -36,7 +36,7 @@ The Joint Committee, or any subcommittee thereof, is authorized to make such exp
 
 #### (e) Investigations
 
-The Joint Committee shall review all requests (other than requests by the chairman or ranking member of a committee or subcommittee) for investigations of the Internal Revenue Service by the General Accounting Office, and approve such requests when appropriate, with a view towards eliminating overlapping investigations, ensuring that the General Accounting Office has the capacity to handle the investigation, and ensuring that investigations focus on areas of primary importance to tax administration.
+The Joint Committee shall review all requests (other than requests by the chairman or ranking member of a committee or subcommittee) for investigations of the Internal Revenue Service by the Government Accountability Office, and approve such requests when appropriate, with a view towards eliminating overlapping investigations, ensuring that the Government Accountability Office has the capacity to handle the investigation, and ensuring that investigations focus on areas of primary importance to tax administration.
 
 #### (f) Relating to joint reviews
 
@@ -46,11 +46,15 @@ The Joint Committee shall review all requests (other than requests by the chairm
 
 #### (2) Joint reviews
 
-&emsp;Before June 1 of each calendar year after 1998 and before 2004, there shall be a joint review of the strategic plans and budget for the Internal Revenue Service and such other matters as the Chairman of the Joint Committee deems appropriate. Such joint review shall be held at the call of the Chairman of the Joint Committee and shall include two members of the majority and one member of the minority from each of the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives.
+&emsp;Before June 1 of each calendar year after 1998 and before 2005, there shall be a joint review of the strategic plans and budget for the Internal Revenue Service and such other matters as the Chairman of the Joint Committee deems appropriate. Such joint review shall be held at the call of the Chairman of the Joint Committee and shall include two members of the majority and one member of the minority from each of the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 94–455, title XIX, §1907(a)(3), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 100–647, title I, §1018(s)(1), Nov. 10, 1988, 102 Stat. 3586; Pub. L. 105–206, title IV, §4001(a), July 22, 1998, 112 Stat. 783.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 94–455, title XIX, §1907(a)(3), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 100–647, title I, §1018(s)(1), Nov. 10, 1988, 102 Stat. 3586; Pub. L. 105–206, title IV, §4001(a), July 22, 1998, 112 Stat. 783; Pub. L. 108–311, title III, §321(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–135, title IV, §412(rr)(5), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+
+2004—Subsec. (f)(2). Pub. L. 108–311 substituted “2005” for “2004”.
 
 1998—Subsecs. (e), (f). Pub. L. 105–206 added subsecs. (e) and (f).
 
@@ -59,6 +63,8 @@ The Joint Committee shall review all requests (other than requests by the chairm
 1976—Subsec. (d). Pub. L. 94–455 struck out par. (2) relating to limitation on cost of stenographic services in reporting hearings.
 
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
@@ -77,4 +83,8 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
+
+#### Time for Joint Review
+
+Pub. L. 108–311, title III, §321(c), Oct. 4, 2004, 118 Stat. 1182, provided that: “The joint review required by section 8021(f)(2) of the Internal Revenue Code of 1986 to be made before June 1, 2004, shall be treated as timely if made before June 1, 2005.”
 

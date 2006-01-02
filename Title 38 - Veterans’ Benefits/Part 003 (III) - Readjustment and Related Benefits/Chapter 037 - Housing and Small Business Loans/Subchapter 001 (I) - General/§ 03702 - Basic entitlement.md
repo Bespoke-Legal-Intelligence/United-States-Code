@@ -116,7 +116,7 @@ Subsec. (g). Pub. L. 100–322, §415(a)(2)(B), redesignated subsec. (g) as (a)(
 
 1982—Subsec. (f). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-1981—Subsec. (a). Pub. L. 97–72, §303(b)(1), (2), substituted “the housing loan benefits” for “the benefits”in two places and “insured housing loan” for “insured loan”.
+1981—Subsec. (a). Pub. L. 97–72, §303(b)(1), (2), substituted “the housing loan benefits” for “the benefits” in two places and “insured housing loan” for “insured loan”.
 
 Subsec. (b). Pub. L. 97–72, §303(b)(3), substituted “insurance housing loan entitlement” for “insurance entitlement” in two places.
 

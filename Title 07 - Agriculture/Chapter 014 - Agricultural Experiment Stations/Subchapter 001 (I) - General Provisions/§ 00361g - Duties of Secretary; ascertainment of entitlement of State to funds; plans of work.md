@@ -38,7 +38,7 @@ Each plan of work for a State required under subsection (d) of this section shal
 
 &emsp;(3) The efforts made to identify and collaborate with other colleges and universities within the State, and within other States, that have a unique capacity to address the identified agricultural issues in the State and the extent of current and emerging efforts (including regional efforts) to work with those other institutions.
 
-&emsp;(4) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues in the State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.
+&emsp;(4) The manner in which research and extension, including research and extension activities funded other than through formula funds, will cooperate to address the critical issues inthe State, including the activities to be carried out separately, the activities to be carried out sequentially, and the activities to be carried out jointly.
 
 #### (f) Research protocols
 

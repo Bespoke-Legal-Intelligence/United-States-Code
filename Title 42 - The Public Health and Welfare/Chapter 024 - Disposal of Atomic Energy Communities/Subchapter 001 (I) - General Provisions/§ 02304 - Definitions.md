@@ -32,7 +32,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 &emsp;(2) An officer or employee employed at a school or hospital located in the project area;
 
-&emsp;(3) A person engaged in or employed in the project area by any professional, commercial, or industrial enterprise occupying premises located in the project area; or
+&emsp;(3) A person engaged in or employed in the project area by any professional, commercial,or industrial enterprise occupying premises located in the project area; or
 
 &emsp;(4) An officer or employee of any church or nonprofit organization occupying premises located in the project area.
 

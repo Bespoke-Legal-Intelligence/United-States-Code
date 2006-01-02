@@ -16,7 +16,7 @@ To be eligible to enter into a contract to receive a contract payment under this
 
 #### (2) Poundage quotas
 
-&emsp;Subject to adjustment under subsection (d), for each kind of tobacco for which the marketing quota is expressed in pounds, the basequota level for each tobacco quota holder shall be equal to the basic quota for quota tobacco established for the 2002 tobacco marketing year under a marketing quota program established under part I of subtitle B of title III of the Agriculture <sup>2</sup> Adjustment Act of 1938 \[7 U.S.C. 1311 et seq.\] on the farm owned by the tobacco quota holder.
+&emsp;Subject to adjustment under subsection (d), for each kind of tobacco for which the marketing quota is expressed in pounds, the base quota level for each tobacco quota holder shall be equal to the basic quota for quota tobacco established for the 2002 tobacco marketing year under a marketing quota program established under part I of subtitle B of title III of the Agriculture <sup>2</sup> Adjustment Act of 1938 \[7 U.S.C. 1311 et seq.\] on the farm owned by the tobacco quota holder.
 
 #### (3) Marketing quotas other than poundage quotas
 

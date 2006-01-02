@@ -30,9 +30,5 @@ Amendment by Pub. L. 98–369 applicable with respect to taxable years beginning
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–364 applicable with respect to taxable years beginning after Dec. 31, 1967, except as provided by section 104 of Pub. L. 90–364, see section 103(f) of Pub. L. 90–364, set out as a note under section 243 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6229, 6248, 6501, 6651, 6664 of this title.
+Amendment by Pub. L. 90–364 applicable with respect to taxable years beginning after Dec. 31, 1967, except asprovided by section 104 of Pub. L. 90–364, see section 103(f) of Pub. L. 90–364, set out as a note under section 243 of this title.
 

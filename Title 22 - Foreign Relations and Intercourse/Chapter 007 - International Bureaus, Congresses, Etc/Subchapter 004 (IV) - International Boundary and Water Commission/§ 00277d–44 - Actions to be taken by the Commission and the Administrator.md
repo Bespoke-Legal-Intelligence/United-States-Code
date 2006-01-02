@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944, and notwithstanding section 510(b)(2) of the Water Quality Act of 1987 (101 Stat. 81), the Commission is authorized and directed to provide for the secondary treatment of a total of not more than 50 mgd in Mexico—
+&emsp;Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Coloradoand Tijuana Rivers and of the Rio Grande, dated February 3, 1944, and notwithstanding section 510(b)(2) of the Water Quality Act of 1987 (101 Stat. 81), the Commission is authorized and directed to provide for the secondary treatment of a total of not more than 50 mgd in Mexico—
 
 &emsp;&emsp;(A) of effluent from the IWTP if such treatment is not provided for at a facility in the United States; and
 

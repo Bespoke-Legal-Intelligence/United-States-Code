@@ -20,7 +20,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (3) Notice and hearing
 
-&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity fora hearing before the Secretary with respect to such violation.
+&emsp;No penalty shall be assessed or cease and desist order issued by the Secretary under this subsection unless the Secretary gives the person against whom the penalty is assessed or the order is issued notice and opportunity for a hearing before the Secretary with respect to such violation.
 
 #### (4) Finality
 

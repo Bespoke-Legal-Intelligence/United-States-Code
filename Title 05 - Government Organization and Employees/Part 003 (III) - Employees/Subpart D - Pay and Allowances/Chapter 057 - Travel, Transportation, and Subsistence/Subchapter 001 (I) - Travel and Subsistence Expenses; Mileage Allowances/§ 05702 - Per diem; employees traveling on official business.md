@@ -18,7 +18,7 @@
 
 &emsp;(B) because of a personal emergency situation (such as serious illness, injury, or death of a member of the employee's family, or an emergency situation such as fire, flood, or act of God), may be allowed, with the approval of an appropriate official of the agency concerned, reimbursement for expenses of transportation to the employee's designated post of duty, or home or regular place of business, as the case may be, and payments pursuant to subsection (a) of this section until that location is reached.
 
-(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph\(1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
+(2)(A) Under regulations prescribed pursuant to section 5707 of this title, an employee who is described in subsection (a) of this section and who, with the approval of an appropriate official of the agency concerned, interrupts the travel assignment prior to its completion for a reason specified in subparagraph (A) or (B) of paragraph (1) of this subsection, may be allowed (subject to the limitation provided in subparagraph (B) of this paragraph)—
 
 &emsp;(i) reimbursement for expenses of transportation to the location where necessary medical services are provided or the emergency situation exists,
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 96–346, §1(3), increased to $33 from $21 the maximum rei
 
 Subsec. (b). Pub. L. 94–22 inserted provision relating to an individual described under section 5703, inserted “appropriate” before “transportation”, and “or home or regular place of business, as the case may be.” after “expenses to his designated post of duty”.
 
-Subsec. (c). Pub. L. 94–22 substituted the Administrator of General Services, or his designee, for the head of the agency concerned, as the party who may prescribe conditions for reimbursement for actual and necessary expenses, raised from $40 to $50 the maximum reimbursement for travel within the continental United States when the rate otherwise allowable is inadequate due to unusual circumstances or due to travel to areas designated as high rate areas, and struck out a provision, now covered by subsec. (d), for a maximum allowance per day for travel outside the continental United States.
+Subsec. (c). Pub. L. 94–22 substituted the Administrator of General Services, or his designee, for the headof the agency concerned, as the party who may prescribe conditions for reimbursement for actual and necessary expenses, raised from $40 to $50 the maximum reimbursement for travel within the continental United States when the rate otherwise allowable is inadequate due to unusual circumstances or due to travel to areas designated as high rate areas, and struck out a provision, now covered by subsec. (d), for a maximum allowance per day for travel outside the continental United States.
 
 Subsecs. (d), (e). Pub. L. 94–22 transferred from subsec. (c) to (d) provisions for reimbursement for actual and necessary expenses for travel outside the continental United States and raised from $18 to $21 the maximum reimbursement for such expenses, and redesignated former subsec. (d) as (e).
 
@@ -172,7 +172,7 @@ Section 1. Section 1 of Executive Order No. 10621 of July 1, 1955, as amended \[
 
 “(h) The authority vested in the President by Section 102(a) of the Federal Civilian Employee and Contractor Travel Expenses Act of 1985, 5 U.S.C. 5702(a), to establish maximum rates of per diem allowances and reimbursements for the actual and necessary expenses of official travel for employees of the Government to the extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of the United States.”
 
-Sec. 2. There is hereby delegated to the Secretary of State the authority vested in the President by Section 102(a) of the Act (5 U.S.C. 5702(a)) to establish maximum rates of per diem allowances and reimbursements for the actual and necessary expenses of official travel for employees of the Government to the extent that such authority pertains to travel status in localities (including the Trust Territories of the Pacific Islands) in any area situated outside the United States, the Commonwealth of Puerto Rico, and possessions of the United States.
+Sec. 2. There is hereby delegated to the Secretary of State the authority vested in the President by Section 102(a) of the Act (5 U.S.C. 5702(a)) to establish maximum rates of per diem allowances and reimbursements for the actual and necessary expenses of official travelfor employees of the Government to the extent that such authority pertains to travel status in localities (including the Trust Territories of the Pacific Islands) in any area situated outside the United States, the Commonwealth of Puerto Rico, and possessions of the United States.
 
 Sec. 3. Executive Order No. 11294 of August 4, 1966, is revoked.
 

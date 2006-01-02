@@ -28,6 +28,8 @@
 
 &emsp;&emsp;(vi) The Office of the Director of NRO.
 
+&emsp;&emsp;(vii) The Office of the Inspector General of the NRO.
+
 (4)(A) Files that are not exempted under paragraph (1) which contain information derived or disseminated from exempted operational files shall be subject to search and review.
 
 (B) The inclusion of information from exempted operational files in files that are not exempted under paragraph (1) shall not affect the exemption under paragraph (1) of the originating operational files from search, review, publication, or disclosure.
@@ -72,7 +74,7 @@
 
 &emsp;(B) Whether NRO, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-(July 26, 1947, ch. 343, title VII, §703, formerly title I, §105D, as added Pub. L. 107–306, title V, §502(a), Nov. 27, 2002, 116 Stat. 2405; renumbered title VII, §703, and amended Pub. L. 108–136, div. A, title IX, §922(c), (d)(1)(D), Nov. 24, 2003, 117Stat. 1573, 1574; Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(GG)–(II), Dec. 17, 2004, 118 Stat. 3689.)
+(July 26, 1947, ch. 343, title VII, §703, formerly title I, §105D, as added Pub. L. 107–306, title V, §502(a), Nov. 27, 2002, 116 Stat. 2405; renumbered title VII, §703, and amended Pub. L. 108–136, div. A, title IX, §922(c), (d)(1)(D), Nov. 24, 2003, 117 Stat. 1573, 1574; Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(GG)–(II), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 109–163, div. A, title IX, §933(b)(2), Jan. 6, 2006, 119 Stat. 3416.)
 
 #### References in Text
 
@@ -83,6 +85,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(6)(B)(v), are s
 Section was formerly classified to section 403–5e of this title prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+2006—Subsec. (a)(3)(C)(vii). Pub. L. 109–163 added cl. (vii).
 
 2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(GG), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -95,6 +99,8 @@ Subsec. (b)(1). Pub. L. 108–458, §1071(a)(1)(II), substituted “Director of 
 2003—Pub. L. 108–136 substituted “Operational files of the National Reconnaissance Office” for “Protection of operational files of the National Reconnaissance Office” in section catchline.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

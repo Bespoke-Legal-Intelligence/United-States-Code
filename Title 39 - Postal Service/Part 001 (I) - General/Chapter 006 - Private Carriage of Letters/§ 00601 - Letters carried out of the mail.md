@@ -14,7 +14,7 @@
 
 &emsp;(6) the date of the letter, of its transmission or receipt by the carrier is endorsed on the envelope in ink.
 
-(b) The Postal Service may suspend the operation of any part of this section upon any mail route where the public interest requires the suspension.
+(b) The Postal Service may suspend the operation of any part of this section upon any mailroute where the public interest requires the suspension.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 727.)
 

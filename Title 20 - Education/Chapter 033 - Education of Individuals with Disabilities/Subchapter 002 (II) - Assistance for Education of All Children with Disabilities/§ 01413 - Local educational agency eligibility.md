@@ -74,7 +74,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (A) Uses
 
-&emsp;&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating tocommingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
+&emsp;&emsp;Notwithstanding paragraph (2)(A) or section 1412(a)(17)(B) of this title (relating to commingled funds), funds provided to the local educational agency under this subchapter may be used for the following activities:
 
 #### (i) Services and aids that also benefit nondisabled children
 
@@ -90,7 +90,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (B) Administrative case management
 
-&emsp;&emsp;A local educational agency may use funds received under this subchapter to purchase appropriate technology for recordkeeping, data collection, and related case management activities of teachers and related services personnel providing services described in the individualized education program of children with disabilities, that is needed for the implementation of such case management activities.
+&emsp;&emsp;A local educational agency may use funds received under this subchapter to purchase appropriate technology for recordkeeping, data collection, and related case management activities of teachers and related services personnel providing services described in the individualized education program ofchildren with disabilities, that is needed for the implementation of such case management activities.
 
 #### (5) Treatment of charter schools and their students
 
@@ -268,7 +268,7 @@ The State may require that a local educational agency include in the records of 
 
 #### (3) Education activities
 
-&emsp;If a State educational agency exercises the authority under paragraph (1), the agency shall use funds from State sources, in an amount equal to the amount of the reduction under paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or to support need based student or teacher higher education programs.
+&emsp;If a State educational agency exercises the authority under paragraph (1), the agency shall use funds from State sources, in an amount equal to the amount of the reductionunder paragraph (1), to support activities authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] or to support need based student or teacher higher education programs.
 
 #### (4) Report
 

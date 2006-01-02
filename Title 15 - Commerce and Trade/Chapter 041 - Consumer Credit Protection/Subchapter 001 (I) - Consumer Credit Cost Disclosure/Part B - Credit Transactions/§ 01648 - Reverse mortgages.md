@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to the disclosures required under this subchapter, for each reverse mortgage, thecreditor shall, not less than 3 days prior to consummation of the transaction, disclose to the consumer in conspicuous type a good faith estimate of the projected total cost of the mortgage to the consumer expressed as a table of annual interest rates. Each annual interest rate shall be based on a projected total future credit extension balance under a projected appreciation rate for the dwelling and a term for the mortgage. The disclosure shall include—
+In addition to the disclosures required under this subchapter, for each reverse mortgage, the creditor shall, not less than 3 days prior to consummation of the transaction, disclose to theconsumer in conspicuous type a good faith estimate of the projected total cost of the mortgage to the consumer expressed as a table of annual interest rates. Each annual interest rate shall be based on a projected total future credit extension balance under a projected appreciation rate for the dwelling and a term for the mortgage. The disclosure shall include—
 
 &emsp;(1) statements of the annual interest rates for not less than 3 projected appreciation rates and not less than 3 credit transaction periods, as determined by the Board, including—
 

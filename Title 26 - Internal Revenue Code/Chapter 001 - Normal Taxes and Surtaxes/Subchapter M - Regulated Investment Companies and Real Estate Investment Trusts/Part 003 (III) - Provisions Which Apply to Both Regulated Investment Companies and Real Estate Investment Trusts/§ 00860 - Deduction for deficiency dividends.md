@@ -62,15 +62,17 @@ For purposes of this section, the term “determination” means—
 
 &emsp;(1) a decision by the Tax Court, or a judgment, decree, or other order by any court of competent jurisdiction, which has become final;
 
-&emsp;(2) a closing agreement made under section 7121; or
+&emsp;(2) a closing agreement made under section 7121;
 
-&emsp;(3) under regulations prescribed by the Secretary, an agreement signed by the Secretary and by, or on behalf of, the qualified investment entity relating to the liability of such entity for tax.
+&emsp;(3) under regulations prescribed by the Secretary, an agreement signed by the Secretary and by, or on behalf of, the qualified investment entity relating to the liability of such entity for tax; or
+
+&emsp;(4) a statement by the taxpayer attached to its amendment or supplement to a return of tax for the relevant tax year.
 
 #### (f) Deficiency dividends
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the term “deficiency dividends” means a distribution ofproperty made by the qualified investment entity on or after the date of the determination and before filing claim under subsection (g), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for tax resulting from the determination exists if distributed during such taxable year. No distribution of property shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination, and unless a claim for a deficiency dividend deduction with respect to such distribution is filed pursuant to subsection (g).
+&emsp;For purposes of this section, the term “deficiency dividends” means a distribution of property made by the qualified investment entity on or after the date of the determination and before filing claim under subsection (g), which would have been includible in the computation of the deduction for dividends paid under section 561 for the taxable year with respect to which the liability for tax resulting from the determination exists if distributed during such taxable year. No distribution of property shall be considered as deficiency dividends for purposes of subsection (a) unless distributed within 90 days after the determination, and unless a claim for a deficiency dividend deduction with respect to such distribution is filed pursuant to subsection (g).
 
 #### (2) Limitations
 
@@ -124,7 +126,7 @@ No deficiency dividend deduction shall be allowed under subsection (a) if the de
 
 &emsp;&emsp;<b>For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.</b>
 
-(Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306.)
+(Added Pub. L. 95–600, title III, §362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, §103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, §667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, §243(f)(5), Oct. 22, 2004, 118 Stat. 1445.)
 
 #### Prior Provisions
 
@@ -132,9 +134,15 @@ A prior section 860 was renumbered section 859 of this title.
 
 #### Amendments
 
+2004—Subsec. (e)(4). Pub. L. 108–357 added par. (4).
+
 1986—Subsec. (j). Pub. L. 99–514 substituted “regulated investment company” for “qualified investment entity”.
 
 1980—Subsec. (f). Pub. L. 96–222 substituted in heading “Deficiency” for “Efficiency” and in par. (2)(A)(i) “(computed without regard” for “computed without regard”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to statements filed after Oct. 22, 2004, see section 243(g)(4)(E) of Pub. L. 108–357, set out as a note under section 856 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -143,8 +151,4 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 #### Effective Date
 
 Section 362(e) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(11)(A), Apr. 1, 1980, 94 Stat. 212; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section, amending sections 316, 381, 852, 857, 6422, 6503, 6515, and 6697 of this title, repealing section 859 of this title, and redesignating prior section 860 as 859 of this title\] shall apply with respect to determinations (as defined in section 860(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) after the date of the enactment of this Act \[Nov. 6, 1978\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 316, 381, 852, 857, 4981, 4982, 6422, 6503, 6515, 6697 of this title.
 

@@ -12,7 +12,7 @@
 
 (b) The population of the several States and of the United States shall be determined on the basis of the most recent data available, to be furnished by the Department of Commerce by October 1 of the year preceding the fiscal year for which funds are appropriated pursuant to statutory authorizations.
 
-(Pub. L. 93–112, §8, formerly §7, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1110; renumbered §8, Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
+(Pub. L. 93–112, §8, formerly §7, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1110; renumbered §8, Pub. L. 105–277, div. A, §101(f)\[title VIII, §402(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
 
 #### Prior Provisions
 

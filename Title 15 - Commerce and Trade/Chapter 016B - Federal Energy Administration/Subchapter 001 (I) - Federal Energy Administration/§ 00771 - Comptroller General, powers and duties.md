@@ -40,7 +40,7 @@ Subsections (d) and (g) of section 766 of this title, referred to in subsec. (c)
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Functions of Comptroller General of United States under this section made applicable with respect tomonitoring and evaluation of all functions and activities of Department of Energy by section 7137 of Title 42.
+Functions of Comptroller General of United States under this section made applicable with respect to monitoring and evaluation of all functions and activities of Department of Energy by section 7137 of Title 42.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

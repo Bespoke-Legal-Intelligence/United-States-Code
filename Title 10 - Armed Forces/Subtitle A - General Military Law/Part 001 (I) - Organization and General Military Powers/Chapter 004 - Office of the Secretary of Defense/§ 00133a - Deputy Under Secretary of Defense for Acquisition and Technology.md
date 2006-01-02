@@ -26,9 +26,5 @@ A prior section 133a was renumbered section 117 of this title.
 
 1994—Subsec. (b). Pub. L. 103–337 inserted “and Technology” before “in the performance of”.
 
-1993—Pub. L. 103–160 substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for “Deputy Under Secretary of Defense for Acquisition” as section catchline and in subsecs. (a) and (b).
-
-#### Order of Succession
-
-For order of succession in event of death, disability, or resignation of Secretary, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+1993—Pub. L. 103–160 substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for“Deputy Under Secretary of Defense for Acquisition” as section catchline and in subsecs. (a) and (b).
 

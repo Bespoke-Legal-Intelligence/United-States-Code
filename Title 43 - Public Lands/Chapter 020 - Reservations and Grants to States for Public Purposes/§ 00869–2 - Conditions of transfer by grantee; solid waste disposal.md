@@ -6,7 +6,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 #### (b) New disposal sites
 
-(1) Notwithstanding the provisions of subsection (a) of this section, if the Secretary receives an application for conveyance of land under sections 869 to 869–4 of this title for the express purpose of solid waste disposal or for another purpose which the Secretary finds may include the disposal, placement, or release of any hazardous substance, the Secretary may convey such land subject only to the provisions of this subsection.
+(1) Notwithstanding the provisions of subsection (a) of this section, if the Secretary receives an application for conveyance of land under sections 869 to 869–4 of this title for the express purpose of solid waste disposal or for another purpose which the Secretary finds may include the disposal, placement, or release of any hazardous substance, the Secretary may conveysuch land subject only to the provisions of this subsection.
 
 (2) Prior to issuance of any conveyance of land under this subsection the Secretary shall investigate the land covered by an application for such conveyance to determine whether or not any hazardous substance is present on such land. Such investigation shall include a review of any available records as to the use of such land and all appropriate analysis of the soil, water and air associated with such land. No land shall be conveyed under this subsection if such investigation indicates that any hazardous substance is present on such land.
 
@@ -20,7 +20,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 &emsp;(A) Except as otherwise provided in subparagraphs (B) and (D) of this paragraph, the document of conveyance shall provide that the lands conveyed under this subsection shall revert to the United States, unless substantially all of the lands have been used, on or before the date five years after the date of conveyance, for the purpose or purposes specified in the application, or for other use or uses authorized under subsection (a) of this section with the consent of the Secretary.
 
-&emsp;(B) In the event that at any time after such conveyance any portion of such lands has not been used for the purpose or purposes specified in the application, and the party to whom such lands were conveyed by the Secretary shall transfer ownership of such unused portion to any other party, the party to whom such lands were conveyed by the Secretary shall be liable to pay the Secretary, on behalf of the United States, the fair market value of such transferred portion as of the date of suchtransfer, including the value of any improvements thereon. Subject to appropriations, all amounts received by the Secretary under this subparagraph shall be retained by the Secretary and used for the management of public lands and shall remain available until expended.
+&emsp;(B) In the event that at any time after such conveyance any portion of such lands has not been used for the purpose or purposes specified in the application, and the party to whom such lands were conveyed by the Secretary shall transfer ownership of such unused portion to any other party, the party to whom such lands were conveyed by the Secretary shall be liable to pay the Secretary, on behalf of the United States, the fair market value of such transferred portion as of the date of such transfer, including the value of any improvements thereon. Subject to appropriations, all amounts received by the Secretary under this subparagraph shall be retained by the Secretary and used for the management of public lands and shall remain available until expended.
 
 &emsp;(C) Pricing for conveyances of land under this subsection shall be in accordance with the provisions of section 869–1 of this title, except that no compensation shall be required for the inclusion of only the limited reverter specified in this paragraph.
 
@@ -38,7 +38,7 @@ Title to lands conveyed by the Government under sections 869 to 869–4 of this 
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(7), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec.\(b)(7), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Prior Provisions
 

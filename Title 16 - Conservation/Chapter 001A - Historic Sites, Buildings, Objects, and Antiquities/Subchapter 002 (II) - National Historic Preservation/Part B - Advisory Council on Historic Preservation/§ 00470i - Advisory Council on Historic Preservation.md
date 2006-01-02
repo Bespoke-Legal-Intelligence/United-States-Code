@@ -28,7 +28,7 @@ There is established as an independent agency of the United States Government an
 
 #### (b) Designation of substitutes
 
-Each member of the Council specified in paragraphs (2) through (8) other than (5) and (6) of subsection (a) of this section may designate another officer of his department, agency, or organization to serve on the Council in his stead, except that, in the case of paragraphs (2) and (4),no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated.
+Each member of the Council specified in paragraphs (2) through (8) other than (5) and (6) of subsection (a) of this section may designate another officer of his department, agency, or organization to serve on the Council in his stead, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated.
 
 #### (c) Term of office
 
@@ -54,7 +54,7 @@ Nine members of the Council shall constitute a quorum.
 
 Subsec. (c). Pub. L. 104–333, §509(c)(2), which directed substitution of “through (11)” for “and 10”, was executed by making the substitution for “and (10)” to reflect the probable intent of Congress.
 
-1992—Subsec. (a). Pub. L. 102–575, §4019(b), which directed amendment of subsec. (a) by striking “(hereafter referred to as the ‘Council’)”, was executed by striking “(hereinafter referred to as the ‘Council’)” after “Historic Preservation” in introductory provisions to reflect the probable intent of Congress.
+1992—Subsec. (a). Pub. L. 102–575, §4019(b), which directed amendment of subsec. (a) by striking “(hereafter referred to as the ‘Council’)”, was executed by striking“(hereinafter referred to as the ‘Council’)” after “Historic Preservation” in introductory provisions to reflect the probable intent of Congress.
 
 Subsec. (a)(11). Pub. L. 102–575, §4016, added par. (11).
 

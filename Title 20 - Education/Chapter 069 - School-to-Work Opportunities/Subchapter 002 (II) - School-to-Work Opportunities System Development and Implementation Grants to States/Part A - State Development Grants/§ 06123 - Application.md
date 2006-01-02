@@ -48,7 +48,7 @@ Such application shall include—
 
 A State seeking assistance under both this part and the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\] may—
 
-&emsp;(1) submit a single application containing plans that meet the requirements of such partand such Act and ensure that the plans are coordinated and not duplicative; or
+&emsp;(1) submit a single application containing plans that meet the requirements of such part and such Act and ensure that the plans are coordinated and not duplicative; or
 
 &emsp;(2) if such State has already submitted its application for funds under the Goals 2000: Educate America Act, submit its application under this part as an amendment to the Goals 2000: Educate America Act application if such amendment meets the requirements of this part and is coordinated with and not duplicative of the Goals 2000: Educate America Act application.
 

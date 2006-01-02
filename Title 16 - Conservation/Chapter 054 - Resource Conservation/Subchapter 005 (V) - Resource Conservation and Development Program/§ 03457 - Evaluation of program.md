@@ -6,7 +6,7 @@ The Secretary, in consultation with councils, shall evaluate the program establi
 
 #### (b) Report
 
-Not later than June 30, 2005, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the results of the evaluation, together with any recommendations of the Secretary for continuing, terminating, or modifying the program.
+Not later than June 30, 2005, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry ofthe Senate a report describing the results of the evaluation, together with any recommendations of the Secretary for continuing, terminating, or modifying the program.
 
 (Pub. L. 97–98, title XV, §1534, as added Pub. L. 107–171, title II, §2504, May 13, 2002, 116 Stat. 273.)
 

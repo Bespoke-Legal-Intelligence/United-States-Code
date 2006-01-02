@@ -38,7 +38,7 @@ There is hereby established a body corporate to be known as the Telecommunicatio
 
 #### (3) Meetings and functions of the Board
 
-&emsp;The Board of Directors shall meet at the call of its Chairman, but at least quarterly. The Board shall determine the general policies which shall govern the operations of the Fund. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers of the Fund and shall discharge all such functions, powers, and duties.
+&emsp;The Board of Directors shall meet at the call of its Chairman, but at least quarterly. The Board shall determine the general policies which shall govern the operations of the Fund. The Chairman of the Board shall, with the approval of the Board, select, appoint, and compensate qualified persons to fill the offices as may be provided for in the bylaws, with such functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the officers ofthe Fund and shall discharge all such functions, powers, and duties.
 
 #### (d) Accounts of Fund
 

@@ -41,10 +41,6 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 
 1986—Pub. L. 99–433, title I, §101(a)(1), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 2, consisting of items 111 to 118.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 20 section 1087vv.
-
 
 ---
 

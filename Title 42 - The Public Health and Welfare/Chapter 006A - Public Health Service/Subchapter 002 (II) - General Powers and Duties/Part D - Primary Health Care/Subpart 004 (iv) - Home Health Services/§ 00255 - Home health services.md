@@ -32,7 +32,7 @@
 
 (2) Any program established with a grant or contract under this subsection to train homemaker home health aides shall—
 
-&emsp;(A) extend for at least forty hours, and consist of classroom instruction and at leasttwenty hours (in the aggregate) of supervised clinical instruction directed toward preparing students to deliver home health services;
+&emsp;(A) extend for at least forty hours, and consist of classroom instruction and at least twenty hours (in the aggregate) of supervised clinical instruction directed toward preparing students to deliver home health services;
 
 &emsp;(B) be carried out under appropriate professional supervision and be designed to train students to maintain or enhance the personal care of an individual in his home in a manner which promotes the functional independence of the individual; and
 
@@ -52,7 +52,7 @@
 
 The Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives on or before January 1, 1984, with respect to—
 
-&emsp;(1) the impact of grants made and contracts entered into under subsections (a) and (b) of this section (as such subsections were in effect prior to October 1, 1981);
+&emsp;(1) the impact of grants made and contracts entered into under subsections (a) and (b) ofthis section (as such subsections were in effect prior to October 1, 1981);
 
 &emsp;(2) the need to continue grants and loans under subsections (a) and (b) of this section (as such subsections are in effect on the day after January 4, 1983); and
 

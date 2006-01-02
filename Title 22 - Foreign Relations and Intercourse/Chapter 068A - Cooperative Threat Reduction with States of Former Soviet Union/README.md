@@ -38,7 +38,7 @@
 | (b) | Deadline for report. |
 | (c) | Matters to be included. |
 | (d) | Input of DCI. |
-| (e) | Comptroller General assessment. |
+| (e) | Repealed. |
 | (f) | First report. |
 | (g) | Omitted. |
 | (h) | Limitation on use of funds until submission of multiyear plan. |

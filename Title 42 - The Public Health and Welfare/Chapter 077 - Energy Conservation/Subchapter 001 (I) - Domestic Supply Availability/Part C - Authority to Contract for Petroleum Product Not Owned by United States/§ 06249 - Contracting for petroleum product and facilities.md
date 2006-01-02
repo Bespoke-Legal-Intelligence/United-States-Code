@@ -42,7 +42,7 @@ The Secretary may utilize such funds as are available in the SPR Petroleum Accou
 
 #### Prior Provisions
 
-A prior section 171 of Pub. L. 94–163 was renumbered section 191 and is classified to section 6251 of this title.
+A prior section 171 of Pub. L. 94–163 was renumbered section 191 and was classified to section 6251 of this title, prior to repeal by Pub. L. 109–58.
 
 #### Amendments
 

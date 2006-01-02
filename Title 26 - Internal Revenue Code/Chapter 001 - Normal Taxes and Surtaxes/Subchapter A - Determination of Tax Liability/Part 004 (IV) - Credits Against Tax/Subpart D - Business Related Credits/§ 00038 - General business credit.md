@@ -40,9 +40,39 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;(13) the new markets tax credit determined under section 45D(a),
 
-&emsp;(14) in the case of an eligible employer (as defined in section 45E(c)), the small employer pension plan startup cost credit determined under section 45E(a), plus
+&emsp;(14) in the case of an eligible employer (as defined in section 45E(c)), the small employer pension plan startup cost credit determined under section 45E(a),
 
-&emsp;(15) the employer-provided child care credit determined under section 45F(a).
+&emsp;(15) the employer-provided child care credit determined under section 45F(a),
+
+&emsp;(16) the railroad track maintenance credit determined under section 45G(a),
+
+&emsp;(17) the biodiesel fuels credit determined under section 40A(a),
+
+&emsp;(18) the low sulfur diesel fuel production credit determined under section 45H(a),
+
+&emsp;(19) the marginal oil and gas well production credit determined under section 45I(a),
+
+&emsp;(20) the distilled spirits credit determined under section 5011(a),
+
+&emsp;(21) the advanced nuclear power facility production credit determined under section 45J(a),
+
+&emsp;(22) the nonconventional source production credit determined under section 45K(a),
+
+&emsp;(23) the new energy efficient home credit determined under section 45L(a),
+
+&emsp;(24) the energy efficient appliance credit determined under section 45M(a),
+
+&emsp;(25) the portion of the alternative motor vehicle credit to which section 30B(g)(1) applies,
+
+&emsp;(26) the portion of the alternative fuel vehicle refueling property credit to which section 30C(d)(1) applies,
+
+&emsp;(27) the Hurricane Katrina housing credit determined under section 1400P(b),
+
+&emsp;(28) the Hurricane Katrina employee retention credit determined under section 1400R(a),
+
+&emsp;(29) the Hurricane Rita employee retention credit determined under section 1400R(b), and
+
+&emsp;(30) the Hurricane Wilma employee retention credit determined under section 1400R(c).
 
 #### (c) Limitation based on amount of tax
 
@@ -68,11 +98,11 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;&emsp;&emsp;&emsp;(I) 75 percent of the tentative minimum tax shall be substituted for the tentative minimum tax under subparagraph (A) thereof, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit or the New York Liberty Zone business employee credit).
+&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit, the New York Liberty Zone business employee credit, and the specified credits).
 
 #### (B) Empowerment zone employment credit
 
-&emsp;&emsp;For purposes of this paragraph, the term “empowerment zone employment credit” means the portion of the credit under subsection (a) which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit).
+&emsp;&emsp;For purposes of this paragraph, the term “empowerment zone employment credit”means the portion of the credit under subsection (a) which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit).
 
 #### (3) Special rules for New York Liberty Zone business employee credit
 
@@ -86,13 +116,39 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;&emsp;&emsp;&emsp;(I) the tentative minimum tax shall be treated as being zero, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the New York Liberty Zone business employee credit).
+&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the New York Liberty Zone business employee credit and the specified credits).
 
 #### (B) New York Liberty Zone business employee credit
 
 &emsp;&emsp;For purposes of this subsection, the term “New York Liberty Zone business employee credit” means the portion of work opportunity credit under section 51 determined under section 1400L(a).
 
-#### (4) Special rules
+#### (4) Special rules for specified credits
+
+#### (A) In general
+
+&emsp;&emsp;In the case of specified credits—
+
+&emsp;&emsp;&emsp;(i) this section and section 39 shall be applied separately with respect to such credits, and
+
+&emsp;&emsp;&emsp;(ii) in applying paragraph (1) to such credits—
+
+&emsp;&emsp;&emsp;&emsp;(I) the tentative minimum tax shall be treated as being zero, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the specified credits).
+
+#### (B) Specified credits
+
+&emsp;&emsp;For purposes of this subsection, the term “specified credits” means—
+
+&emsp;&emsp;&emsp;(i) for taxable years beginning after December 31, 2004, the credit determined under section 40, and
+
+&emsp;&emsp;&emsp;(ii) the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced—
+
+&emsp;&emsp;&emsp;&emsp;(I) at a facility which is originally placed in service after the date of the enactment of this paragraph, and
+
+&emsp;&emsp;&emsp;&emsp;(II) during the 4-year period beginning on the date that such facility was originally placed in service <sup>1</sup>
+
+#### (5) Special rules
 
 #### (A) Married individuals
 
@@ -104,7 +160,7 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 #### (C) Limitations with respect to certain persons
 
-&emsp;&emsp;In the case of a person described in subparagraph (A) or (B) of section 46(e)(1) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified undersubparagraph (B) of paragraph (1) shall equal such person's ratable share (as determined under section 46(e)(2) (as so in effect) of such amount.
+&emsp;&emsp;In the case of a person described in subparagraph (A) or (B) of section 46(e)(1) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), the $25,000 amount specified under subparagraph (B) of paragraph (1) shall equal such person's ratable share (as determined under section 46(e)(2) (as so in effect) of such amount.
 
 #### (D) Estates and trusts
 
@@ -126,7 +182,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the credit allowable by section 40, as in effect on the day before the date of the enactment of the Tax Reform Act of 1984, (relating to expenses of work incentive programs) and the credit allowable by section 41(a), as in effect on the day before the date of the enactment of the Tax Reform Act of 1986, (relating to employee stock ownership credit) shall be treated as referred to in that order after the last paragraph of subsection (b), and
+&emsp;&emsp;(A) the credit allowable by section 40, as in effect on the day before the date of the enactment of the Tax Reform Act of 1984, (relating to expenses of work incentive programs) and the credit allowable by section 41(a), as in effect on the day before the date of the enactment of the Tax Reform Act of 1986, (relating to employee stock ownershipcredit) shall be treated as referred to in that order after the last paragraph of subsection (b), and
 
 &emsp;&emsp;(B) the credit determined under section 46—
 
@@ -134,7 +190,7 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 &emsp;&emsp;&emsp;(ii) to the extent attributable to the regular percentage (as defined in section 46(b)(1) as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall be treated as the first credit listed in section 46.
 
-(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46.)
+(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637.)
 
 #### Amendment of Section
 
@@ -144,7 +200,9 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 For reference to section 51 of this title, referred to in subsec. (b), treated as including reference to section 51A of this title, see section 51A(d)(2) of this title.
 
-The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (c)(4)(C) and (d)(3)(B)(ii), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+The date of the enactment of this paragraph, referred to in subsec. (c)(4)(B)(ii)(I), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (c)(5)(C) and (d)(3)(B)(ii), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 The date of the enactment of the Tax Reform Act of 1984, referred to in subsec. (d)(3)(A), (B)(i), is the date of enactment of Pub. L. 98–369, which was approved July 18, 1984.
 
@@ -157,6 +215,44 @@ A prior section 38, added Pub. L. 87–834, §2(a), Oct. 16, 1962, 76 Stat. 962;
 Another prior section 38 was renumbered section 36 of this title.
 
 #### Amendments
+
+2005—Subsec. (b)(20). Pub. L. 109–59, §11126(b), added par. (20).
+
+Subsec. (b)(21). Pub. L. 109–58, §1306(b), as amended by Pub. L. 109–59, §11151(d)(1), added par. (21).
+
+Subsec. (b)(22). Pub. L. 109–58, §1322(a)(2), added par. (22).
+
+Subsec. (b)(23). Pub. L. 109–58, §1332(b), added par. (23).
+
+Subsec. (b)(24). Pub. L. 109–58, §1342(b)(1), which directed the striking out of “plus” at end, was executed by striking out “and” at end, to reflect the probable intent of Congress.
+
+Pub. L. 109–58, §1334(b), added par. (24).
+
+Subsec. (b)(25). Pub. L. 109–58, §1341(b)(1), added par. (25).
+
+Subsec. (b)(26). Pub. L. 109–58, §1342(b)(1), added par. (26).
+
+Subsec. (b)(27). Pub. L. 109–135, §103(b)(1), added par. (27).
+
+Subsec. (b)(28) to (30). Pub. L. 109–135, §201(b)(1), added pars. (28) to (30).
+
+Subsec. (c)(2)(A)(ii)(II). Pub. L. 109–135, §412(f)(1), substituted “, the New York Liberty Zone business employee credit, and the specified credits” for “or the New York Liberty Zone business employee credit or the specified credits”.
+
+Subsec. (c)(3)(A)(ii)(II). Pub. L. 109–135, §412(f)(2), substituted “and the specified credits” for “or the specified credits”.
+
+Subsec. (c)(4)(B). Pub. L. 109–135, §412(f)(3), substituted “means” for “includes” in introductory provisions and inserted “and” at end of cl. (i).
+
+2004—Subsec. (b)(16). Pub. L. 108–357, §245(c)(1), added par. (16).
+
+Subsec. (b)(17). Pub. L. 108–357, §302(b), added par. (17).
+
+Subsec. (b)(18). Pub. L. 108–357, §339(b), added par. (18).
+
+Subsec. (b)(19). Pub. L. 108–357, §341(b), added par. (19).
+
+Subsec. (c)(2)(A)(ii)(II), (3)(A)(ii)(II). Pub. L. 108–357, §711(b), inserted “or the specified credits” after “employee credit”.
+
+Subsec. (c)(4), (5). Pub. L. 108–357, §711(a), added par. (4) and redesignated former par. (4) as (5).
 
 2002—Subsec. (b)(15). Pub. L. 107–147, §411(d)(2), substituted “45F(a)” for “45F”.
 
@@ -262,6 +358,38 @@ Pub. L. 99–514, §231(d)(3)(B), inserted “41(a),” after “40(a),”.
 
 1984—Subsec. (c)(2). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
 
+#### Effective Date of 2005 Amendments
+
+Pub. L. 109–59, title XI, §11126(d), Aug. 10, 2005, 119 Stat. 1958, provided that: “The amendments made by this section \[enacting section 5011 of this title and amending this section\] shall apply to taxable years beginning after September 30, 2005.”
+
+Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provided that: “If the Energy Policy Act of 2005 \[Pub. L. 109–58, see Tables for classification\] is enacted before the date of the enactment of this Act \[Aug. 10, 2005\], for purposes of executing any amendments made by the Energy Policy Act of 2005 to section 38(b) of the Internal Revenue Code of 1986, the amendments made by section 11126(b) of this Act \[amending this section\] shall be treated as having been executed before such amendments made by the Energy Policy Act of 2005.”
+
+Pub. L. 109–59, title XI, §11151(f)(3), Aug. 10, 2005, 119 Stat. 1969, provided that: “The amendments made by subsections (d)(1) and (e)(2) \[amending this section and sections 4041 and 6426 of this title\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58, title XIII\] to which they relate.”
+
+Pub. L. 109–58, title XIII, §1306(d), Aug. 8, 2005, 119 Stat. 999, provided that: “The amendments made by this section \[enacting section 45J of this title and amending this section\] shall apply to production in taxable years beginning after the date of the enactment of this Act \[Aug. 8, 2005\].”
+
+Amendment by section 1322(a)(2) of Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+
+Pub. L. 109–58, title XIII, §1332(f), Aug. 8, 2005, 119 Stat. 1026, provided that: “The amendments made by this section \[enacting section 45L of this title and amending this section and sections 196 and 1016 of this title\] shall apply to qualified new energy efficient homes acquired after December 31, 2005, in taxable years ending after such date.”
+
+Pub. L. 109–58, title XIII, §1334(d), Aug. 8, 2005, 119 Stat. 1033, provided that: “The amendments made by this section \[enacting section 45M of this title and amending this section\] shall apply to appliances produced after December 31, 2005.”
+
+Amendment by section 1341(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
+
+Amendment by section 1342(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1342(c) of Pub. L. 109–58, set out as an Effective Date note under section 30C of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §245(e), Oct. 22, 2004, 118 Stat. 1448, provided that: “The amendments made by this section \[enacting section 45G of this title and amending this section and sections 39 and 1016 of this title\] shall apply to taxable years beginning after December 31, 2004.”
+
+Pub. L. 108–357, title III, §302(d), Oct. 22, 2004, 118 Stat. 1466, provided that: “The amendments made by this section \[enacting section 40A of this title and amending this section and sections 87 and 196 of this title\] shall apply to fuel produced, and sold or used, after December 31, 2004, in taxable years ending after such date.”
+
+Pub. L. 108–357, title III, §339(f), Oct. 22, 2004, 118 Stat. 1485, provided that: “The amendments made by this section \[enacting section 45H of this title and amending this section and sections 196, 280C, and 1016 of this title\] shall apply to expenses paid or incurred after December 31, 2002, in taxable years ending after such date.”
+
+Pub. L. 108–357, title III, §341(e), Oct. 22, 2004, 118 Stat. 1487, provided that: “The amendments made by this section \[enacting section 45I of this title and amending this section and section 39 of this title\] shall apply to production in taxable years beginning after December 31, 2004.”
+
+Pub. L. 108–357, title VII, §711(c), Oct. 22, 2004, 118 Stat. 1558, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title III, §301(b)(3), Mar. 9, 2002, 116 Stat. 40, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001.”
@@ -284,7 +412,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, §121(e)\], Dec. 21, 2000, 114 Stat. 276
 
 Section 1201(g) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section and sections 41, 45A, 51, 196, and 1396 of this title\] shall apply to individuals who begin work for the employer after September 30, 1996.”
 
-Amendment by section 1205(a)(2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+Amendment by section 1205(a)(2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 Section 1702(i) of Pub. L. 104–188 provided that: “Except as otherwise expressly provided, any amendment made by this section \[amending this section, sections 50, 56, 59, 143, 151, 168, 172, 179, 243, 280F, 341, 424, 460, 613A, 805, 832, 861, 897, 1248, 1250, 1367, 1504, 2701, 2702, 2704, 4093, 4975, 5041, 5061, 5354, 6038A, 6302, 6416, 6427, 6501, 6503, 6621, 6724, and 7012 of this title, and provisions set out as a note under section 42 of this title\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, title XI\] to which such amendment relates.”
 
@@ -314,7 +442,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Subsection (c).—The amendment made by subsection (c) \[amending section 190 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act.”
 
-Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -354,7 +482,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, and to carryb
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813(b)(2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Credit for Contributions to Certain Community Development Corporations
 
@@ -624,7 +752,7 @@ Section 1011B(<i>l</i>)(3) of Pub. L. 100–647 provided that: “If any newspap
 
 #### Accounting for Investment Credit in Certain Financial Reports and Reports to Federal Agencies
 
-Pub. L. 92–178, title I, §101(c), Dec. 10, 1971, 85 Stat. 499, as amended by Pub. L. 98–369, div. A, title IV, §450(a), July 18, 1984, 98 Stat. 818; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–178, title I, §101(c), Dec. 10, 1971, 85 Stat. 499, as amended by Pub. L. 98–369, div. A, title IV,§450(a), July 18, 1984, 98 Stat. 818; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 &emsp;“(1)
 
@@ -652,7 +780,5 @@ Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by 
 
 Section 203(e) of Pub. L. 88–272, not applicable to public utility property to which section 46(e) of this title applies, see section 105(e) of Pub. L. 92–178, set out as a note under section 46 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 29, 39, 40, 41, 42, 43, 44, 45, 45A, 45B, 45C, 45D, 45E, 45F, 46, 49, 50, 51, 51A, 52, 55, 108, 179, 196, 280C, 381, 877, 1016, 1274A, 1351, 1396, 4612 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

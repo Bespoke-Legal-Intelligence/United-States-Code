@@ -38,7 +38,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (B) Relation to other obligations
 
-&emsp;&emsp;Compensation under subsection (a) of this section shall not be made to an eligible individual to the extent that the total ofamounts paid to the individual under such subsection and under the other obligations referred to in subparagraph (A) is an amount that exceeds the rate specified in subsection (b)(1) of this section. If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this paragraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
+&emsp;&emsp;Compensation under subsection (a) of this section shall not be made to an eligible individual to the extent that the total of amounts paid to the individual under such subsection and under the other obligations referred to in subparagraph (A) is an amount that exceeds the rate specified in subsection (b)(1) of this section. If under any such other obligation a lump-sum payment is made, such payment shall, for purposes of this paragraph, be deemed to be received over multiple years rather than received in a single year. The Secretary may, in the discretion of the Secretary, determine how to apportion such payment over multiple years.
 
 #### (2) No benefits in case of death
 

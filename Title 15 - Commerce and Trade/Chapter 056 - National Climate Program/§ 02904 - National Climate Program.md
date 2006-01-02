@@ -34,7 +34,7 @@ The President shall—
 
 > The analysis described in subparagraph (D) shall include an analysis of how each agency's budget request relates to the priorities and goals of the program established pursuant to this chapter.
 
-(3) The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, forclimate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9) of this section, if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
+(3) The Secretary may provide, through the Office, financial assistance, in the form of contracts or grants or cooperative agreements, for climate-related activities which are needed to meet the goals and priorities of the program set forth in the 5-year plan pursuant to subsection (d)(9) of this section, if such goals and priorities are not being adequately addressed by any Federal department, agency, or instrumentality.
 
 (4) Each Federal officer, employee, department and agency involved in the Program shall cooperate with the Secretary in carrying out the provisions of this chapter.
 
@@ -80,7 +80,7 @@ The Program shall include, but not be limited to, the following elements:
 
 (1) The Program shall be conducted so as to encourage cooperation with, and participation in the Program by, other organizations or agencies involved in related activities. For this purpose the Secretary shall cooperate and participate with other Federal agencies, and foreign, international, and domestic organizations and agencies involved in international or domestic climate-related programs.
 
-(2) The Secretary and the Secretary of State shall cooperate with the Office in (A) providingrepresentation at climate-related international meetings and conferences in which the United States participates, and (B) coordinating the activities of the Program with the climate programs of other nations and international agencies and organizations, including the World Meteorological Organization, the International Council of Scientific Unions, the United Nations Environmental Program, the United Nations Educational, Scientific, and Cultural Organization, the World Health Organization, and Food and Agriculture Organization.
+(2) The Secretary and the Secretary of State shall cooperate with the Office in (A) providing representation at climate-related international meetings and conferences in which the United States participates, and (B) coordinating the activities of the Program with the climate programs of other nations and international agencies and organizations, including the World Meteorological Organization, the International Council of Scientific Unions, the United Nations Environmental Program, the United Nations Educational, Scientific, and Cultural Organization, the World Health Organization, and Food and Agriculture Organization.
 
 #### (g) Budgeting
 

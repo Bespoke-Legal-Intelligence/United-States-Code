@@ -12,5 +12,5 @@ A prior section 4001 of Pub. L. 89–10 was classified to section 3041 of this t
 
 #### Development of Model Program of Strategies and Tactics
 
-Pub. L. 101–647, title XV, §1501, Nov. 29, 1990, 104 Stat. 4836, required the Attorney General to develop a model program of strategies and tactics for establishing and maintaining drug-free school zones and to submit a report to Congress, at the conclusion of the program, describing the strategies and tactics that were found tobe successful in establishing, enforcing, and maintaining drug-free school zones.
+Pub. L. 101–647, title XV, §1501, Nov. 29, 1990, 104 Stat. 4836, required the Attorney General to develop a model program of strategies and tactics for establishing and maintaining drug-free school zones and to submit a report to Congress, at the conclusion of the program, describing the strategies and tactics that were found to be successful in establishing, enforcing, and maintaining drug-free school zones.
 

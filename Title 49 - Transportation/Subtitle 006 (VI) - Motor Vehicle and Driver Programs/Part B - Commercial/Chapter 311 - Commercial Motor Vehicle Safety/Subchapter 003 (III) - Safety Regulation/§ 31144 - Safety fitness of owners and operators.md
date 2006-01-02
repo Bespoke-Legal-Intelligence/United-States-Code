@@ -4,7 +4,11 @@
 
 In General.—The Secretary shall—
 
-&emsp;(1) determine whether an owner or operator is fit to operate safely commercial motor vehicles;
+&emsp;(1) determine whether an owner or operator is fit to operate safely commercial motor vehicles, utilizing among other things the accident record of an owner or operator operating in interstate commerce and the accident record and safety inspection record of such owner or operator—
+
+&emsp;&emsp;(A) in operations that affect interstate commerce within the United States; and
+
+&emsp;&emsp;(B) in operations in Canada and Mexico if the owner or operator also conducts operations within the United States;
 
 &emsp;(2) periodically update such safety fitness determinations;
 
@@ -22,13 +26,13 @@ Procedure.—The Secretary shall maintain by regulation a procedure for determin
 
 &emsp;(3) Specific time frames within which the Secretary will determine whether an owner or operator is fit.
 
-(c) <sup>1</sup>
+(c)
 
 Prohibited Transportation.—
 
 &emsp;(1)
 
-In general.—Except as provided in sections 521(b)(5)(A) and 5113 and this subsection, an owner or operator who the Secretary determines is not fit may not operate commercial motor vehicles in interstate commerce beginning on the 61st day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
+In general.—Except as provided in section 521(b)(5)(A) and this subsection, an owner or operator who the Secretary determines is not fit may not operate commercial motor vehicles in interstate commerce beginning on the 61st day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
 
 &emsp;(2)
 
@@ -36,19 +40,27 @@ Owners or operators transporting passengers.—With regard to owners or operator
 
 &emsp;(3)
 
-Owners or operators transporting hazardous material.—With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit.
+Owners or operators transporting hazardous material.—With regard to owners or operators of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, an owner or operator who the Secretary determines is not fit may not operate in interstate commerce beginning on the 46th day after the date of such fitness determination and until the Secretary determines such owner or operator is fit. A violation of this paragraph by an owner or operator transporting hazardous material shall be considered a violation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.
 
 &emsp;(4)
 
 Secretary's discretion.—Except for owners or operators described in paragraphs (2) and (3), the Secretary may allow an owner or operator who is not fit to continue operating for an additional 60 days after the 61st day after the date of the Secretary's fitness determination, if the Secretary determines that such owner or operator is making a good faith effort to become fit.
 
+&emsp;(5)
+
+Transportation affecting interstate commerce.—Owners or operators of commercial motor vehicles prohibited from operating in interstate commerce pursuant to paragraphs (1) through (3) of this section may not operate any commercial motor vehicle that affects interstate commerce until the Secretary determines that such owner or operator is fit.
+
 (d)
+
+Determination of Unfitness by State.—If a State that receives motor carrier safety assistance program funds under section 31102 determines, by applying the standards prescribed by the Secretary under subsection (b), that an owner or operator of a commercial motor vehicle that has its principal place of business in that State and operates in intrastate commerce is unfit under such standards and prohibits the owner or operator from operating such vehicle in the State, the Secretary shall prohibit the owner or operator from operating such vehicle in interstate commerce until the State determines that the owner or operator is fit.
+
+(e)
 
 Review of Fitness Determinations.—
 
 &emsp;(1)
 
-In general.—Not later than 45 days after an unfit owner or operator requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+In general.—Not later than 45 days after an unfit owner or operator requests a review, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed tocomply and resulted in the Secretary determining that the owner or operator was not fit.
 
 &emsp;(2)
 
@@ -56,13 +68,13 @@ Owners or operators transporting passengers.—Not later than 30 days after an u
 
 &emsp;(3)
 
-Owners or operators transporting hazardous material.—Not later than 30 days after an unfit owner or operator of commercialmotor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+Owners or operators transporting hazardous material.—Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
-(e)
+(f)
 
 Prohibited Government Use.—A department, agency, or instrumentality of the United States Government may not use to provide any transportation service an owner or operator who the Secretary has determined is not fit until the Secretary determines such owner or operator is fit.
 
-(c) <sup>1</sup>
+(g)
 
 Safety Reviews of New Operators.—
 
@@ -82,7 +94,23 @@ Phase-in of requirement.—The Secretary shall phase in the requirements of para
 
 New entrant authority.—Notwithstanding any other provision of this title, any new operating authority granted after the date on which section 31148(b) is first implemented shall be designated as new entrant authority until the safety review required by paragraph (1) is completed.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764.)
+&emsp;(5)
+
+New entrant audits.—
+
+&emsp;&emsp;(A)
+
+Grants.—The Secretary may make grants to States and local governments for new entrant motor carrier audits under this subsection without requiring a matching contribution from such States and local governments.
+
+&emsp;&emsp;(B)
+
+Set aside.—The Secretary shall set aside from amounts made available by section 31104(a) up to $29,000,000 per fiscal year for audits of new entrant motor carriers conducted pursuant to this paragraph.
+
+&emsp;&emsp;(C)
+
+Determination.—If the Secretary determines that a State or local government is not able to use government employees to conduct new entrant motor carrier audits, the Secretary may use the funds set aside under this paragraph to conduct audits for such States or local governments.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899.)
 
 Historical and Revision Notes
 
@@ -114,6 +142,38 @@ In subsection (a)(1), the words “after notice and opportunity for comment” a
 
 #### Amendments
 
+2005—Subsec. (a). Pub. L. 109–59, §4114(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall—
+
+&emsp;“(1) determine whether an owner or operator is fit to operate safely commercial motor vehicles;
+
+&emsp;“(2) periodically update such safety fitness determinations;
+
+&emsp;“(3) make such final safety fitness determinations readily available to the public; and
+
+&emsp;“(4) prescribe by regulation penalties for violations of this section consistent with section 521.”
+
+Subsec. (c). Pub. L. 109–59, §7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), could not be executed because of amendment by Pub. L. 109–59, §4107(b)(1). See below.
+
+Pub. L. 109–59, §4107(b)(1), which directed amendment of section 31104 of this title by redesignating “the second subsection” as subsec. (f), was executed by redesignating the second subsec. (c) of this section, relating to safety reviews of new operators, as (f), to reflect the probable intent of Congress.
+
+Subsec. (c)(1). Pub. L. 109–59, §7112(b)(1), substituted “section 521(b)(5)(A)” for “sections 521(b)(5)(A) and 5113”.
+
+Subsec. (c)(3). Pub. L. 109–59, §7112(b)(2), inserted at end “A violation of this paragraph by an owner or operator transporting hazardous material shall be considered a violation of chapter 51, and shall be subject to the penalties in sections 5123 and 5124.”
+
+Subsec. (c)(5). Pub. L. 109–59, §4114(b), added par. (5).
+
+Subsecs. (d), (e). Pub. L. 109–59, §4114(c), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 109–59, §7112(c), which directed amendment of this section by redesignating the second subsec. (c), relating to safety reviews of new operators, as (f), could not be executed because of amendment by Pub. L. 109–59, §4107(b)(1). See below.
+
+Pub. L. 109–59, §4114(c)(1), redesignated subsec. (e) as (f).
+
+Pub. L. 109–59, §4107(b)(1), which directed amendment of section 31104 of this title by redesignating “the second subsection” as subsec. (f), was executed by redesignating the second subsec. (c) of this section, relating to safety reviews of new operators, as (f), to reflect the probable intent of Congress.
+
+Subsec. (f)(5). Pub. L. 109–59, §4107(b)(2), which directed amendment of this section by adding par. (5) “at the end of such subsection”, was executed by adding par. (5) at the end of subsec. (f), as redesignated by Pub. L. 109–59, §4107(b)(1), to reflect the probable intent of Congress. See above.
+
+Subsec. (g). Pub. L. 109–59, §4114(c)(1), which directed amendment of this section by redesignating “the second subsection (c)” as (g), was executed by redesignating subsec. (f) as (g) to reflect the probable intent of Congress and the redesignation of the second subsec. (c) as (f) by Pub. L. 109–59, §4107(b)(1). See above.
+
 1999—Subsec. (c). Pub. L. 106–159 added subsec. (c) relating to safety reviews of new operators.
 
 1998—Pub. L. 105–178 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), general provisions for provisions relating to procedure and, in subsec. (b), provisions relating to procedure for provisions relating to findings and action on registrations, and adding subsecs. (c) to (e).
@@ -132,9 +192,11 @@ Findings and Action on Applications.—The Commission shall—
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of this title.
 
+#### High Risk Carrier Compliance Reviews
+
+Pub. L. 109–59, title IV, §4138, Aug. 10, 2005, 119 Stat. 1745, provided that: “From the funds authorized by section 31104(i) of title 49, United States Code, the Secretary \[of Transportation\] shall ensure that compliance reviews are completed on motor carriers that have demonstrated through performance data that they pose the highest safety risk. At a minimum, a compliance review shall be conducted whenever a motor carrier is rated as category A or B for 2 consecutive months.”
+
 #### Minimum Requirements
 
 Pub. L. 106–159, title II, §210(b), Dec. 9, 1999, 113 Stat. 1765, provided that: “The Secretary shall initiate a rulemaking to establish minimum requirements for applicant motor carriers, including foreign motor carriers, seeking Federal interstate operating authority to ensure applicant carriers are knowledgeable about applicable Federal motor carrier safety standards. As part of that rulemaking, the Secretary shall consider the establishment of a proficiency examination for applicant motor carriers as well as other requirements to ensure such applicants understand applicable safety regulations before being granted operating authority.”
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

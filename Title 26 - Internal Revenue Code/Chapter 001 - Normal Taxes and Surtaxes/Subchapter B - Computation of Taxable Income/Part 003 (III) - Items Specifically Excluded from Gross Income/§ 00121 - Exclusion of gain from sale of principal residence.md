@@ -26,7 +26,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (B) Other joint returns
 
-&emsp;&emsp;If such spouses do not meet the requirements of subparagraph (A), the limitation under paragraph (1) shall be the sum of the limitations under paragraph (1) to which each spouse would be entitled if such spouses had not been married. For purposes of the preceding sentence, each spouse shall be treated as owning the property during the period that either spouse owned the property.
+&emsp;&emsp;If such spouses do not meet the requirements of subparagraph (A), the limitationunder paragraph (1) shall be the sum of the limitations under paragraph (1) to which each spouse would be entitled if such spouses had not been married. For purposes of the preceding sentence, each spouse shall be treated as owning the property during the period that either spouse owned the property.
 
 #### (3) Application to only 1 sale or exchange every 2 years
 
@@ -108,7 +108,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (C) Property acquired after involuntary conversion
 
-&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part) under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall be treated as holding and use by the taxpayer of the property sold or exchanged.
+&emsp;&emsp;If the basis of the property sold or exchanged is determined (in whole or in part) under section 1033(b) (relating to basis of property acquired through involuntary conversion), then the holding and use by the taxpayer of the converted property shall betreated as holding and use by the taxpayer of the property sold or exchanged.
 
 #### (6) Recognition of gain attributable to depreciation
 
@@ -176,6 +176,10 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 &emsp;&emsp;&emsp;An election under subparagraph (A) may be revoked at any time.
 
+#### (10) Property acquired in like-kind exchange
+
+&emsp;If a taxpayer acquires property in an exchange with respect to which gain is not recognized (in whole or in part) to the taxpayer under subsection (a) or (b) of section 1031, subsection (a) shall not apply to the sale or exchange of such property by such taxpayer (or by any person whose basis in such property is determined, in whole or in part, by reference to the basis in the hands of such taxpayer) during the 5-year period beginning with the date of such acquisition.
+
 #### (e) Denial of exclusion for expatriates
 
 This section shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) applies to such individual.
@@ -186,15 +190,15 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 #### (g) Residences acquired in rollovers under section 1034
 
-For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effecton the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(7) in determining the holding period of such property) had been so owned and used.
+For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used suchproperty as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) in determining the holding period of such property) had been so owned and used.
 
-(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336.)
+(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631.)
 
 #### Amendment of Subsection (d)
 
-<i>Pub. L. 107–16, title V, §542(c), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (d) of this section is temporarily amended by adding paragraph (9) at end to read as follows:</i>
+<i>Pub. L. 107–16, title V, §542(c), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, as amended by Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 109–135, title IV, §403(ee)(1), Dec. 21, 2005, 119 Stat. 2631, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (d) of this section is temporarily amended by adding paragraph (11) at end to read as follows:</i>
 
-#### <i>(9) Property acquired from a decedent</i>
+#### <i>(11) Property acquired from a decedent</i>
 
 &emsp;<i>The exclusion under this section shall apply to property sold by—</i>
 
@@ -206,7 +210,7 @@ For purposes of this section, in the case of property the acquisition of which b
 
 > &emsp;<i>determined by taking into account the ownership and use by the decedent.</i>
 
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>See Codification notes and Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -218,13 +222,21 @@ Section 1034 (as in effect on the day before the date of the enactment of this s
 
 #### Codification
 
-Pub. L. 108–121, title I, §101(a), (b)(1), Nov. 11, 2003, 117 Stat. 1336, which directed that subsec. (d) of this section be amended by redesignating paragraph (9) as (10) and adding a new paragraph (9), effective as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997, Pub. L. 105–34, could not be executed insofar as it directed the redesignation because subsection (d), as amended by Pub. L. 105–34, did not contain a paragraph (9).
+Pub. L. 109–135, title IV, §403(ee)(1), (nn), Dec. 21, 2005, 119 Stat. 2631, 2632, which directed that subsec. (d) of this section be amended by redesignating the paragraph (10) relating to property acquired from a decedent as paragraph (11), effective as if included in the provisions to which such amendment relates of the American Jobs Creation Act of 2004, Pub. L. 108–357, was executed as the probable intent of Congress by redesignating as paragraph (11) the paragraph (10) to be added to subsec. (d) of this section by Pub. L. 107–16, §542(c), (f)(1), applicable to estates of decedents dying after Dec. 31, 2009. See italicized Amendment of Subsection (d) note above and Codification note and Effective Date of 2005 Amendment note below.
+
+Pub. L. 108–121, title I, §101(a), (b)(1), Nov. 11, 2003, 117 Stat. 1336, which directed that subsec. (d) of this section be amended by redesignating paragraph (9) as (10) and adding a new paragraph (9), effective as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997, Pub. L. 105–34, could not literally be executed insofar as it directed the redesignation because subsec. (d), as amended by Pub. L. 105–34, did not contain a paragraph (9). However, to reflect the probable intent of Congress, the amendment was executed by redesignating as paragraph (10) the paragraph (9) to be added to subsec. (d) of this section by Pub. L. 107–16, §542(c), (f)(1), applicable to estates of decedents dying after Dec. 31, 2009. See italicized Amendment of Subsection (d) note above and Effective Date of 2003 Amendment note below.
 
 #### Prior Provisions
 
 A prior section 121 was renumbered section 140 of this title.
 
 #### Amendments
+
+2005—Subsec. (d)(10). Pub. L. 109–135, §403(ee)(2), amended heading and text of par. (10) relating to property acquired in like-kind exchange generally. Prior to amendment, text read as follows: “If a taxpayer acquired property in an exchange to which section 1031 applied, subsection (a) shall not apply to the sale or exchange of such property if it occurs during the 5-year period beginning with the date of the acquisition of such property.”
+
+Subsec. (g). Pub. L. 109–135, §402(a)(3), substituted “section 1223(6)” for “section 1223(7)”.
+
+2004—Subsec. (d)(10). Pub. L. 108–357 added par. (10) relating to property acquired in like-kind exchange.
 
 2003—Subsec. (d)(9). Pub. L. 108–121 added par. (9).
 
@@ -272,13 +284,23 @@ Subsec. (d)(8). Pub. L. 95–600, §404(b), added par. (8).
 
 Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by section 402(a)(3) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+
+Amendment by section 403(ee) of Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §840(b), Oct. 22, 2004, 118 Stat. 1597, provided that: “The amendment made by this section \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–121, title I, §101(b), Nov. 11, 2003, 117 Stat. 1336, provided that:
 
 “(1)
 
-Effective date.—The amendments made by this section \[amending this section\] shall take effect as ifincluded in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].
+Effective date.—The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 312 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\].
 
 “(2)
 
@@ -359,10 +381,6 @@ Pub. L. 105–261, div. A, title X, §1074, Oct. 17, 1998, 112 Stat. 2138, provi
 #### Transitional Rule in Case of Sale or Exchange of Residence Before July 26, 1981
 
 Section 404(d)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of a sale or exchange of a residence before July 26, 1981, a taxpayer who has attained age 65 on the date of such sale or exchange may elect to have section 121 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applied by substituting ‘8-year period’ for ‘5-year period’ and ‘5 years’ for ‘3 years’ in subsections (a), (d)(2), and (d)(5) of such section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25, 45F, 56, 72, 143, 163, 216, 280A, 464, 1033, 1038, 1274, 1400C, 6012, 6045, 6334, 7872 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

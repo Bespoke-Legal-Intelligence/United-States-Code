@@ -98,7 +98,7 @@ Required Minimum Level of Access to Local Offices.—In addition to such other a
 
 “(b)
 
-Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilities for each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
+Telephone Listings.—The Secretary shall make such requests of local telephone utilities in the United States as are necessary to ensure that the listings subsequently maintained and published by such utilitiesfor each locality include the address and telephone number for each local office of the Social Security Administration to which direct telephone access is maintained under subsection (a) in such locality. Such listing may also include information concerning the availability of a toll-free number which may be called for general information.
 
 “(c)
 
@@ -126,7 +126,7 @@ Pub. L. 98–21, title III, §338, Apr. 20, 1983, 97 Stat. 132, as amended by Pu
 
 #### Earnings Sharing Implementation Report
 
-Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for socialsecurity benefit purposes) and report such proposals to such committees not later than July 1, 1984.
+Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secretary of Health and Human Services to develop, in consultation with Committee on Finance of the Senate and Committee on Ways and Means of the House of Representatives, proposals for earnings sharing legislation (i.e., proposals that combined earnings of a husband and wife during period of their marriage be divided equally and shared between them for social security benefit purposes) and report such proposals to such committees not later than July 1, 1984.
 
 #### Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary
 

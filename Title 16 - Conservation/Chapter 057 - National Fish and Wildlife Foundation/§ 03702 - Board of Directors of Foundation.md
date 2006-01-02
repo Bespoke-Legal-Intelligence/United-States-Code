@@ -50,7 +50,7 @@
 
 #### (B) Initial appointments to new member positions
 
-&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
+&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph\(2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
 
 #### (C) Subsequent appointments to new member positions
 
@@ -130,7 +130,7 @@ Provisions of title 5 governing appointments in competitive service, referred to
 
 > The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.”
 
-Subsec. (b). Pub. L. 106–408, §203(b), added subsec. (b) and struck out heading and text of former subsec. (b).Text read as follows: “By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the ‘Secretary’) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
+Subsec. (b). Pub. L. 106–408, §203(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the ‘Secretary’) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
 
 1994—Subsec. (a). Pub. L. 103–232, §103(b), substituted “15 Directors” for “nine Directors” in introductory provisions and “4” for “three” in par. (2).
 

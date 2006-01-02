@@ -16,7 +16,7 @@ The Council shall develop standards and criteria for economic evaluation of wate
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Chairman of Water Resources Council, see Ex. Ord. No. 11747, eff. Nov. 7, 1973, 38 F.R. 30993, as amended, set out as a note under section 1962a–3 of this title.
+Functions of President under this section delegated to Chairman of Water Resources Council, see Ex. Ord.No. 11747, eff. Nov. 7, 1973, 38 F.R. 30993, as amended, set out as a note under section 1962a–3 of this title.
 
 #### Computation of Prices for Agricultural Commodities for Use in Evaluation of Water Resources Development Projects
 

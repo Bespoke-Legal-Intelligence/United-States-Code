@@ -164,7 +164,7 @@ Pub. L. 98–223, title I, §108, Mar. 2, 1984, 98 Stat. 40, provided that: “I
 
 #### Veterans’ Disability Benefits Commission
 
-Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, provided that:
+Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, as amended by Pub. L. 109–163, div. A, title V, §590, Jan. 6, 2006, 119 Stat. 3279, provided that:
 
 #### “SEC. 1501. ESTABLISHMENT OF COMMISSION.
 
@@ -250,7 +250,7 @@ Consultation With Institute of Medicine.—In carrying out the study under this 
 
 #### “SEC. 1503. REPORT.
 
-“Not later than 15 months after the date on which the commission first meets, the commission shall submit to the President and Congress a report on the study. The report shall include the following:
+“Not later than October 1, 2007, the commission shall submit to the President and Congress a report on the study. The report shall include the following:
 
 &emsp;“(1) The findings and conclusions of the commission, including its findings and conclusions with respect to the matters referred to in section 1502(c).
 
@@ -294,7 +294,7 @@ Staff.—(1) The chairman of the commission may, without regard to the civil ser
 
 “(d)
 
-Detail of Government Employees.—Upon request of the chairman of the commission, the head ofany Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
+Detail of Government Employees.—Upon request of the chairman of the commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties.
 
 “(e)
 

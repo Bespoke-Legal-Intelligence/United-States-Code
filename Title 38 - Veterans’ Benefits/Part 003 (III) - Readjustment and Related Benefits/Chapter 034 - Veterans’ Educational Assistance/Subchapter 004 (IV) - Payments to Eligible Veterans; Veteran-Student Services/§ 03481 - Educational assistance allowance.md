@@ -12,7 +12,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a), (b), (d), and (e) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1179, which was classified to former section 1631 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a), (b), (d), and (e) of this section were contained in Pub.L. 85–857, Sept. 2, 1958, 72 Stat. 1179, which was classified to former section 1631 of this title, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 

@@ -40,7 +40,7 @@ Section 5790, act Aug. 10, 1956, ch. 1041, 70A Stat. 368, authorized advancement
 
 Section 5791, acts Aug. 10, 1956, ch. 1041, 70A Stat. 368; Sept. 28, 1971, Pub. L. 92–129, title VI, §603(c), 85 Stat. 362; Sept. 19, 1978, Pub. L. 95–377, §6(b), 92 Stat. 721, vested power to make appointments under former sections 5751 to 5793, except for former sections 5787 and 5787d, of this title in President, by and with advice and consent of Senate. See section 624 of this title.
 
-Section 5792, acts Aug. 10 1956, ch. 1041, 70A Stat. 368; Nov. 2, 1966, Pub. L. 89–718, §4, 80 Stat. 1115, dispensed with need for an oath of office upon promotion to a higher grade in the case of an officer of the naval service who had served continuously since subscribing to the oath of office prescribed in section 3331 of title 5. See section 626 of this title.
+Section 5792, acts Aug. 10 1956, ch. 1041, 70A Stat. 368; Nov. 2, 1966, Pub. L. 89–718, §4, 80 Stat. 1115, dispensed with need for an oath of office upon promotion to ahigher grade in the case of an officer of the naval service who had served continuously since subscribing to the oath of office prescribed in section 3331 of title 5. See section 626 of this title.
 
 Section 5793, added Pub. L. 90–228, §1(3)(A), Dec. 28, 1967, 81 Stat. 745, related to authorized strengths in grade and promotions of Medical Corps and Dental Corps officers. See section 521 et seq. of this title.
 

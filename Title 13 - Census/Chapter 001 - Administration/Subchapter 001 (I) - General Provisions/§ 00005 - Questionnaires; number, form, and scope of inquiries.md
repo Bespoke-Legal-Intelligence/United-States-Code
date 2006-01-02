@@ -26,5 +26,9 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 #### Restriction on Collection of Census Data on Race
 
-Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2876, provided in part: “That none of the funds provided in this or any other Act for any fiscal year may be used for the collection of Census data on race identification that does not include ‘some other race’ as a catagory \[sic\].”
+Pub. L. 109–108, title II, Nov. 22, 2005, 119 Stat. 2308, provided in part: “That none of the funds provided in this or any other Act for any fiscal year may be used for the collection of Census data on race identification that does not include ‘some other race’ as a category.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2876.
 

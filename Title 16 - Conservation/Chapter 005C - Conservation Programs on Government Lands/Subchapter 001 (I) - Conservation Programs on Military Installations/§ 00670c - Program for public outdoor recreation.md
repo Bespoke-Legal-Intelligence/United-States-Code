@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary of Defense is also authorized to carry out a program for the development, enhancement, operation, and maintenance of public outdoor recreation resources at military installations in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense and the Secretary of the Interior, in consultation with the appropriate State agency designated by the State in which the installations are located.
+The Secretary of Defense is also authorized to carry out a program for the development, enhancement, operation, and maintenance of public outdoor recreation resources at military installations in accordance with an integratednatural resources management plan mutually agreed upon by the Secretary of Defense and the Secretary of the Interior, in consultation with the appropriate State agency designated by the State in which the installations are located.
 
 #### (b) Access for disabled veterans, military dependents with disabilities, and other persons with disabilities
 
@@ -20,7 +20,7 @@ The Secretary of Defense is also authorized to carry out a program for the devel
 
 #### (c) Acceptance of donations
 
-In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement undersubsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
+In connection with the facilities and programs for public outdoor recreation at military installations, in particular the requirement under subsection (b) of this section to provide access for persons described in paragraph (2) of such subsection, the Secretary of Defense may accept—
 
 &emsp;(1) the voluntary services of individuals and organizations; and
 

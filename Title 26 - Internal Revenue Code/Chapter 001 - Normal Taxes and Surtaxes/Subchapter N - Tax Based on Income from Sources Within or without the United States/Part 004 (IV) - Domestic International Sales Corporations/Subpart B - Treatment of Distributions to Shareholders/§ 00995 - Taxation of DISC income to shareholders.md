@@ -190,7 +190,7 @@ If—
 
 #### (C) Tax liability
 
-&emsp;&emsp;The term “tax liability” means the amount of the tax imposed by this chapterfor the taxable year reduced by credits allowable against such tax (other than credits allowable under sections 31, 32, and 34).
+&emsp;&emsp;The term “tax liability” means the amount of the tax imposed by this chapter for the taxable year reduced by credits allowable against such tax (other than credits allowable under sections 31, 32, and 34).
 
 #### (3) Deferred DISC income
 
@@ -352,13 +352,9 @@ Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 applicable with respect t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Proration of Base Period in Case of Fixed Contracts
 
 Section 1101(g)(5) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(i)(4), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of determining adjusted base period export gross receipts (under section 995(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section), if any DISC has export gross receipts from export property by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975, \[set out as an Effective Date of 1975 Amendment note under section 993 of this title\], then the export gross receipts of such DISC for the taxable years of the base period shall be increased by an amount equal to the amount of gross receipts which were excluded from export gross receipts during each taxable year of the base period by reason of the last sentence of section 995(e)(3) of such Code multiplied by a fraction, the numerator of which is the amount of the gross receipts in the taxable year which are export gross receipts by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975 and the denominator of which is the amount of total gross receipts which are excluded from export gross receipts in the taxable year by reason of subparagraph (C) or (D) of paragraph (2) of section 993(c) (determined without regard to paragraph (2) of section 603(b) of the Tax Reduction Act of 1975).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 246, 751, 861, 996, 999, 1014 of this title.
 

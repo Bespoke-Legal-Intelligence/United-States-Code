@@ -12,7 +12,3 @@ The value of the gross estate shall include the value of all property to the ext
 
 Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct. 16, 1962, except as otherwise provided, see section 18(b) of Pub. L. 87–834, set out as a note under section 2031 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2056 of this title; title 43 section 1620.
-

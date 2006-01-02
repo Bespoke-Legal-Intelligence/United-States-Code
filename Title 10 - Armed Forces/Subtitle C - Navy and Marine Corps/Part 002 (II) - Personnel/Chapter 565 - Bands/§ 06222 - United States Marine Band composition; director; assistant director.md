@@ -4,7 +4,7 @@
 
 (b) The Secretary shall designate the director and assistant directors of the Marine Band from among qualified members of the Marine Corps. Upon the recommendation of the Secretary, a member so designated may be appointed by the President, by and with the advice and consent of the Senate, to a commissioned grade in the Regular Marine Corps.
 
-(c) The initial appointment to a commissioned grade of a member designated as director of the Marine Band shall be in the grade of captain, except that a member who, at the time of his designation, holds an appointment in a higher grade may be appointed in that higher grade, but not above lieutenant colonel. The initial appointment of a member designated as assistant director shall be in a grade below captain.
+(c) The initial appointment to a commissioned grade of a member designated as director of the Marine Band shall be in the grade of captain, except that a member who, at the time of his designation, holds an appointment in a highergrade may be appointed in that higher grade, but not above lieutenant colonel. The initial appointment of a member designated as assistant director shall be in a grade below captain.
 
 (d) The Secretary shall prescribe regulations for the promotion of members designated as director or assistant director of the Marine Band, and the President, by and with the advice and consent of the Senate, may from time to time appoint them to higher grades.
 
@@ -107,8 +107,4 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 sections 207, 424.
 

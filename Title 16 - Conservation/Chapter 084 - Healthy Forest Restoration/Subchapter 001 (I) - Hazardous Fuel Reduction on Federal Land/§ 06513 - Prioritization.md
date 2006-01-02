@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In accordance with the Implementation Plan, the Secretary shall develop an annual program of work for Federal land that gives priority to authorized hazardous fuel reduction projects that provide for the protection of at-risk communities or watersheds or that implement community wildfire protection plans.
+In accordance with the Implementation Plan, the Secretary shall develop an annual programof work for Federal land that gives priority to authorized hazardous fuel reduction projects that provide for the protection of at-risk communities or watersheds or that implement community wildfire protection plans.
 
 #### (b) Collaboration
 

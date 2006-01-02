@@ -16,11 +16,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any straddle which is an identified straddle as of the close of any taxable year—
+&emsp;&emsp;In the case of any straddle which is an identified straddle—
 
-&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply for such taxable year, and
+&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply with respect to identified positions comprising the identified straddle,
 
-&emsp;&emsp;&emsp;(ii) any loss with respect to such straddle shall be treated as sustained not earlier than the day on which all of the positions making up the straddle are disposed of.
+&emsp;&emsp;&emsp;(ii) if there is any loss with respect to any identified position of the identified straddle, the basis of each of the identified offsetting positions in the identified straddle shall be increased by an amount which bears the same ratio to the loss as the unrecognized gain with respect to such offsetting position bears to the aggregate unrecognized gain with respect to all such offsetting positions, and
+
+&emsp;&emsp;&emsp;(iii) any loss described in clause (ii) shall not otherwise be taken into account for purposes of this title.
 
 #### (B) Identified straddle
 
@@ -32,13 +34,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) such time as the Secretary may prescribe by regulations.
 
-&emsp;&emsp;&emsp;(ii) all of the original positions of which (as identified by the taxpayer) are acquired on the same day and with respect to which—
-
-&emsp;&emsp;&emsp;&emsp;(I) all of such positions are disposed of on the same day during the taxable year, or
-
-&emsp;&emsp;&emsp;&emsp;(II) none of such positions has been disposed of as of the close of the taxable year, and
+&emsp;&emsp;&emsp;(ii) to the extent provided by regulations, the value of each position of which (in the hands of the taxpayer immediately before the creation of the straddle) is not less than the basis of such position in the hands of the taxpayer at the time the straddle is created, and
 
 &emsp;&emsp;&emsp;(iii) which is not part of a larger straddle.
+
+#### (C) Regulations
+
+&emsp;&emsp;The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph. Such regulations or other guidance may specify the proper methods for clearly identifying a straddle as an identified straddle (and for identifying the positions comprising such straddle), the rules for the application of this section to a taxpayer which fails to comply with those identification requirements, and the ordering rules in cases where a taxpayer disposes (or otherwise ceases to be the holder) of any part of any position which is part of an identified straddle.
 
 #### (3) Unrecognized gain
 
@@ -52,7 +54,11 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of any position with respect to which, as of the close of the taxable year, gain has been realized but not recognized, the amount of gain so realized.
 
-#### (B) Reporting of gain
+#### (B) Special rule for identified straddles
+
+&emsp;&emsp;For purposes of paragraph (2)(A)(ii), the unrecognized gain with respect to any identified offsetting position shall be the excess of the fair market value of the position at the time of the determination over the fair market value of the position at the time the taxpayer identified the position as a position in an identified straddle.
+
+#### (C) Reporting of gain
 
 #### (i) In general
 
@@ -128,11 +134,7 @@ For purposes of this section—
 
 &emsp;&emsp;A taxpayer holds offsetting positions with respect to personal property if there is a substantial diminution of the taxpayer's risk of loss from holding any position with respect to personal property by reason of his holding 1 or more other positions with respect to personal property (whether or not of the same kind).
 
-#### (B) One side larger than other side
-
-&emsp;&emsp;If 1 or more positions offset only a portion of 1 or more other positions, the Secretary shall by regulations prescribe the method for determining the portion of such other positions which is to be taken into account for purposes of this section.
-
-#### (C) Special rule for identified straddles
+#### (B) Special rule for identified straddles
 
 &emsp;&emsp;In the case of any position which is not part of an identified straddle (within the meaning of subsection (a)(2)(B)), such position shall not be treated as offsetting with respect to any position which is part of an identified straddle.
 
@@ -272,27 +274,15 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “personal property” does not include stock. The preceding sentence shall not apply to any interest in stock.
+&emsp;&emsp;In the case of stock, the term “personal property” includes stock only if—
 
-#### (B) Exceptions
+&emsp;&emsp;&emsp;(i) such stock is of a type which is actively traded and at least 1 of the positions offsetting such stock is a position with respect to such stock or substantially similar or related property, or
 
-&emsp;&emsp;The term “personal property” includes—
+&emsp;&emsp;&emsp;(ii) such stock is of a corporation formed or availed of to take positions in personal property which offset positions taken by any shareholder.
 
-&emsp;&emsp;&emsp;(i) any stock which is part of a straddle at least 1 of the offsetting positions of which is—
+#### (B) Rule for application
 
-&emsp;&emsp;&emsp;&emsp;(I) an option with respect to such stock or substantially identical stock or securities,
-
-&emsp;&emsp;&emsp;&emsp;(II) a securities futures contract (as defined in section 1234B) with respect to such stock or substantially identical stock or securities, or
-
-&emsp;&emsp;&emsp;&emsp;(III) under regulations, a position with respect to substantially similar or related property (other than stock), and
-
-&emsp;&emsp;&emsp;(ii) any stock of a corporation formed or availed of to take positions in personal property which offset positions taken by any shareholder.
-
-#### (C) Special rules
-
-&emsp;&emsp;&emsp;(i) For purposes of subparagraph (B), subsection (c) and paragraph (4) shall be applied as if stock described in clause (i) or (ii) of subparagraph (B) were personal property.
-
-&emsp;&emsp;&emsp;(ii) For purposes of determining whether subsection (e) applies to any transaction with respect to stock described in clause (ii) of subparagraph (B), all includible corporations of an affiliated group (within the meaning of section 1504(a)) shall be treated as 1 taxpayer.
+&emsp;&emsp;For purposes of determining whether subsection (e) applies to any transaction with respect to stock described in subparagraph (A)(ii), all includible corporations of an affiliated group (within the meaning of section 1504(a)) shall be treated as 1 taxpayer.
 
 #### (4) Positions held by related persons, etc.
 
@@ -336,6 +326,14 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of paragraph (1), foreign currency for which there is an active interbank market is presumed to be actively traded.
 
+#### (8) Special rules for physically settled positions
+
+&emsp;For purposes of subsection (a), if a taxpayer settles a position which is part of a straddle by delivering property to which the position relates (and such position, if terminated, would result in a realization of a loss), then such taxpayer shall be treated as if such taxpayer—
+
+&emsp;&emsp;(A) terminated the position for its fair market value immediately before the settlement, and
+
+&emsp;&emsp;(B) sold the property so delivered by the taxpayer at its fair market value.
+
 #### (e) Exception for hedging transactions
 
 This section shall not apply in the case of any hedging transaction (as defined in section 1256(e)).
@@ -356,13 +354,37 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 &emsp;&emsp;<b>For provision requiring capitalization of certain interest and carrying charges where there is a straddle, see section 263(g).</b>
 
-(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649.)
+(Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632.)
 
 #### References in Text
 
 Section 246(c)(3) of this title, referred to in subsec. (c)(4)(E), was amended by Pub. L. 105–34, title X, §1015(b)(2), Aug. 5, 1997, 111 Stat. 922, by striking out subpar. (B) and redesignating subpar. (C) as (B).
 
 #### Amendments
+
+2005—Subsec. (a)(2). Pub. L. 109–135 added subpar. (C) and struck out concluding provisions of subpar. (B) which read as follows: “The Secretary shall prescribe regulations which specify the proper methods for clearly identifying a straddle as an identified straddle (and the positions comprising such straddle), which specify the rules for the application of this section for a taxpayer which fails to properly identify the positions of an identified straddle, and which specify the ordering rules in cases where a taxpayer disposes of less than an entire position which is part of an identified straddle.”
+
+2004—Subsec. (a)(2)(A). Pub. L. 108–357, §888(a)(1), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “In the case of any straddle which is an identified straddle as of the close of any taxable year—
+
+&emsp;“(i) paragraph (1) shall not apply for such taxable year, and
+
+&emsp;“(ii) any loss with respect to such straddle shall be treated as sustained not earlier than the day on which all of the positions making up the straddle are disposed of.”
+
+Subsec. (a)(2)(B). Pub. L. 108–357, §888(a)(2)(B), inserted concluding provisions.
+
+Subsec. (a)(2)(B)(ii). Pub. L. 108–357, §888(a)(2)(A), added cl. (ii) and struck out former cl. (ii) which read as follows: “all of the original positions of which (as identified by the taxpayer) are acquired on the same day and with respect to which—
+
+&emsp;“(I) all of such positions are disposed of on the same day during the taxable year, or
+
+&emsp;“(II) none of such positions has been disposed of as of the close of the taxable year, and”.
+
+Subsec. (a)(3)(B), (C). Pub. L. 108–357, §888(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (c)(2)(B), (C). Pub. L. 108–357, §888(a)(4), redesignated subpar. (C) as (B) and struck out heading and text of former subpar. (B). Text read as follows: “If 1 or more positions offset only a portion of 1 or more other positions, the Secretary shall by regulations prescribe the method for determining the portion of such other positions which is to be taken into account for purposes of this section.”
+
+Subsec. (d)(3). Pub. L. 108–357, §888(c)(1), reenacted heading without change and amended text of par. (3) generally, substituting provisions directing that the term “personal property” includes stock only if it is of a certain type or of a certain type of corporation and setting forth rule for application of subsec. (e), for provisions directing that the term “personal property” includes any stock which is part of a straddle at least 1 of the offsetting positions of which is an option, a securities futures contract, or a position with respect to substantially similar or related property (other than stock), and of a certain type of corporation, and setting forth special rules relating to application of subsecs. (c), (d)(4), and (e).
+
+Subsec. (d)(8). Pub. L. 108–357, §888(b), added par. (8).
 
 2000—Subsec. (d)(3)(B)(i)(II), (III). Pub. L. 106–554 added subcl. (II) and redesignated former subcl. (II) as (III).
 
@@ -415,6 +437,14 @@ Subsec. (a)(3)(B)(i)(II). Pub. L. 97–448, §105(a)(1)(C), substituted “unrec
 Subsec. (c)(2)(C). Pub. L. 97–448, §105(a)(4), substituted “subsection (a)(2)(B)” for “subsection (a)(3)(B)”.
 
 Subsec. (d)(4). Pub. L. 97–448, §105(a)(3), substituted “a straddle at least 1 (but not all) of the positions of which are regulated futures contracts, the provisions of this section shall apply” for “a straddle— (A) at lease 1 (but not all) of the positions of which are regulated futures contracts, and (B) with respect to which the taxpayer has elected not to have the provisions of section 1256 apply, the provisions of this section shall apply”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to positions established on or after Oct. 22, 2004, see section 888(e) of Pub. L. 108–357, set out as a note under section 246 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -555,8 +585,4 @@ Regulated Futures Contracts.—For purposes of this section, the term ‘regulat
 “(h)
 
 Syndicates.—For purposes of this section, any loss incurred by a person (other than a commodities dealer) with respect to an interest in a syndicate (within the meaning of section 1256(e)(3)(B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) shall not be considered to be a loss incurred in a trade or business.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 246, 263, 475, 731, 871, 988, 1233, 1234B, 1256, 1258, 1259 of this title.
 

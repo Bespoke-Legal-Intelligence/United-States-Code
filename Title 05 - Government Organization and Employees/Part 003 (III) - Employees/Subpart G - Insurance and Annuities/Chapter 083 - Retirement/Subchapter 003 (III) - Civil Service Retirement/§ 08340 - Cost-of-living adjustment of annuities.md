@@ -6,7 +6,7 @@
 
 &emsp;(2) the price index for a base quarter is the arithmetical mean of such index for the 3 months comprising such quarter.
 
-(b) Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of thepreceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
+(b) Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
 
 (c) Eligibility for an annuity increase under this section is governed by the commencing date of each annuity payable from the Fund as of the effective date of an increase, except as follows:
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a widow, widower, former spouse, or insurable interest designee of a deceased annuitant whose annuity has not been so increased, since the annuity was first payable to the deceased annuitant.
 
-&emsp;(2) Effective from its commencing date, an annuity payable from the Fund to an annuitant's survivor (except a child entitled under section 8341(e) of this title), which annuity commences the day after the death of the annuitant and after the effective date of the first increase under this section, shall be increased by the total percent increase the annuitant was receiving under this section at death. However, the increase in a survivor annuity authorized by section 8 of the Act of May 29, 1930, as amended to July 6, 1950, shall be computed as if the annuity commencing date had been the effective date of the first increase under this section.
+&emsp;(2) Effective from its commencing date, an annuity payable from the Fund to an annuitant's survivor (except a child entitled under section 8341(e) of this title), which annuitycommences the day after the death of the annuitant and after the effective date of the first increase under this section, shall be increased by the total percent increase the annuitant was receiving under this section at death. However, the increase in a survivor annuity authorized by section 8 of the Act of May 29, 1930, as amended to July 6, 1950, shall be computed as if the annuity commencing date had been the effective date of the first increase under this section.
 
 &emsp;(3) For the purpose of computing the annuity of a child under section 8341(e) of this title that commences after October 31, 1969, the items $900, $1,080, $2,700, and $3,240 appearing in section 8341(e) of this title shall be increased by the total percent increases allowed and in force under this section on or after such day and, in case of a deceased annuitant, the items 60 percent and 75 percent appearing in section 8341(e) of this title shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
 
@@ -68,7 +68,7 @@ July 31, 1956, ch. 804, §401 “Sec. 18”; added Oct. 11, 1962, Pub. L. 87–7
 
 In subsection (a), the words “After January 1, 1964” and “other than 1964” and subsection (a)(1) of former section 2268, are omitted as executed.
 
-In subsection (b), the words “subsection (a) of this section” are substituted for “subsection (a)(1) or (a)(2)of this section” since subsection (a)(1) has been omitted as executed.
+In subsection (b), the words “subsection (a) of this section” are substituted for “subsection (a)(1) or (a)(2) of this section” since subsection (a)(1) has been omitted as executed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -114,7 +114,7 @@ July 18, 1966, Pub. L. 89–504, §507, 80 Stat. 302.
 
 In subsection (a), the words “Effective December 1, 1965 \* \* \* before December 2, 1965,” are substituted for “Effective the first day of the third month which begins after the date of enactment of this amendment \* \* \* not later than such effective date.” In clause (1), the words “month of July 1965” are substituted for “month latest published on date of enactment of this amendment” for clarity and since the July 1965 price index was the price index for the month latest published on September 27, 1965, the date of enactment of the amendment. The word “base” is inserted before “month of July 1965” for clarity and on authority of the second sentence of 5 U.S.C. App. 2268(a) which provided: “The month used in determining the increase based on the per centum rise in the price index under this subsection shall be the base month for determining the per centum change in the price index until the next succeeding increase occurs.” In view of the foregoing and of the definition of “base month” in 5 U.S.C. 8331(16), the quoted sentence is omitted as executed and unnecessary. In clause (2), the words “before October 2, 1956,” are substituted for “on or before October 1, 1956.” In the second sentence, which is based on 5 App. U.S.C. 2268(f), the words “before January 1, 1966,” are substituted for “not later than December 31, 1965.” In clause (B), the words “Act of June 25, 1958 (72 Stat. 219)” are substituted for “Public Law 85–465” to conform to the style of title 5, United States Code.
 
-In the first sentence of subsection (b), the words “after the first increase under this section,” following “Each month,” are omitted as executed and unnecessary.
+In the first sentence of subsection (b), the words “after the first increase under this section,” following“Each month,” are omitted as executed and unnecessary.
 
 In subsection (f), the words “September 1, 1966,” are substituted for “the first day of the second month after the enactment of this subsection.”
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 97–253, §309(a), added subsec. (g).
 
 Subsec. (c)(1). Pub. L. 97–35, §1702(b), in opening provision inserted reference to the widow or widower of a deceased annuitant whose annuity has not been increased under this subsection or subsection (b) of this section, in par. (A) substituted “1/12” for “1/6”, and in subpar. (B) designated existing provisions as item (i) and added item (ii).
 
-1980—Subsec. (c)(1). Pub. L. 96–499, substituted formula for computing the first increase to be made under subsec. (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow or widower of a deceased employee or Member for provisions that an annuity, except a deferred annuity under section 8338 of this title or any other provision of law, payable from the Fund to an employee or Member who retires, or to the widow or widower of a deceased employee or Member and having a commencing date after the effective date of the then last preceding annuity increase under subsec. (b) of this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of the then last preceding annuity increase under subsec. (b) of this section and that employees or deceased employees were tobe deemed, for purposes of section 8339(m) of this title to have to their credit, on the effective date of the last preceding increase under subsec. (b), unused sick leave equal to that unused sick leave to his credit on the date of separation from service.
+1980—Subsec. (c)(1). Pub. L. 96–499, substituted formula for computing the first increase to be made under subsec. (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow or widower of a deceased employee or Member for provisions that an annuity, except a deferred annuity under section 8338 of this title or any other provision of law, payable from the Fund to an employee or Member who retires, or to the widow or widower of a deceased employee or Member and having a commencing date after the effective date of the then last preceding annuity increase under subsec. (b) of this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of the then last preceding annuity increase under subsec. (b) of this section and that employees or deceased employees were to be deemed, for purposes of section 8339(m) of this title to have to their credit, on the effective date of the last preceding increase under subsec. (b), unused sick leave equal to that unused sick leave to his credit on the date of separation from service.
 
 1978—Subsecs. (a)(1), (b)(1). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
@@ -158,7 +158,7 @@ Subsec. (c)(3). Pub. L. 94–183 substituted “after October 31, 1969” for �
 
 1969—Subsec. (b). Pub. L. 91–93, §204(a), increased the annuity payable from the Fund by 1 percent.
 
-Subsec. (c)(2). Pub L. 91–93, §204(b), increased the minimum survivor annuity for children of a deceased Federal employee, substituting dollar and percentage references to $900, $1,080, $2,700, $3,240, and 60 and 75 percent for prior references to $600, $720, $1,800, $2,160 and 40 and 50 percent respectively, such new increases to commence on or after the first day of the first month that begins on or after Oct. 20, 1969, the date of enactment of the Civil Service Retirement Amendments of 1969, whereas prior provisions were for computation of a child's annuity commencing after effective date of first increase under this section based on employee annuity that commenced after Oct. 1, 1956, or was payable at death.
+Subsec. (c)(2). Pub L. 91–93, §204(b), increased the minimum survivor annuity for children of a deceased Federal employee, substituting dollar and percentage references to $900, $1,080, $2,700, $3,240, and 60 and 75 percent for prior references to $600, $720, $1,800, $2,160 and 40 and 50 percent respectively, such new increases to commence on or after the first day of the first month that begins on or after Oct. 20, 1969, the date of enactment of the Civil Service Retirement Amendments of 1969, whereas prior provisions were for computation of a child's annuity commencing after effective date offirst increase under this section based on employee annuity that commenced after Oct. 1, 1956, or was payable at death.
 
 #### Effective Date of 1984 Amendment
 

@@ -4,7 +4,7 @@
 
 (2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b).
 
-(b)(1) Under regulations prescribed by the Secretary of Defense, a person who is receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps, or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training, shall be credited with constructive service for such education, training, or experience, as follows:
+(b)(1) Under regulations prescribed by the Secretary of Defense, a person who is receiving an original appointment as a reserve commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or MarineCorps, or a designation in, or an assignment to, an officer category in which advanced education or training is required and who has advanced education or training, shall be credited with constructive service for such education, training, or experience, as follows:
 
 &emsp;(A) One year for each year of advanced education beyond the baccalaureate degree level, for persons appointed or designated in, or assigned to, officer categories requiring such advanced education or an advanced degree as a prerequisite for such appointment, designation, or assignment. In determining the number of years of constructive service to be credited under this subparagraph to officers in any professional field, the Secretary concerned shall credit an officer with, but with not more than, the number of years of advanced education required by a majority of institutions that award degrees in that professional field for completion of the advanced education or award of the advanced degree.
 
@@ -18,7 +18,7 @@
 
 &emsp;(E) Additional credit for experience as a physician or dentist, if appointed, assigned, or designated as a medical or dental officer.
 
-(2) If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who isreceiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Naval Reserve, lieutenant.
+(2) If the Secretary of Defense determines that the number of medical or dental officers serving in an active status in a reserve component of the Army, Navy, or Air Force in grades below major or lieutenant commander is critically below the number needed by such reserve component in such grades, the Secretary of Defense may authorize the Secretary of the military department concerned to credit any person who is receiving an original appointment for service as a medical or dental officer with a period of constructive credit in such amount (in addition to any amount credited such person under subsection (b)) as will result in the grade of such person being that of captain or, in the case of the Navy Reserve, lieutenant.
 
 (3) Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of a medical or dental officer, the amount of constructive service credited an officer under this subsection may not exceed the amount required in order for the officer to be eligible for an original appointment as a reserve officer of the Army, Air Force, or Marine Corps in the grade of major or as a reserve officer of the Navy in the grade of lieutenant commander.
 
@@ -38,7 +38,7 @@
 
 (f) The grade and position on the reserve active-status list of a person receiving an appointment as a reserve officer who at the time of appointment is credited with service under this section shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited.
 
-(Added §596b and renumbered §12207, Pub. L. 103–337, div. A, title XVI, §§1634, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990.)
+(Added §596b and renumbered §12207, Pub. L. 103–337, div. A, title XVI, §§1634, 1662(c)(2), Oct. 5, 1994, 108 Stat. 2965, 2990; amended Pub. L. 109–163,div. A, title V, §515(b)(1)(LL), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Prior Provisions
 
@@ -46,13 +46,11 @@ Provisions similar to those in this section were contained in sections 3353, 560
 
 #### Amendments
 
+2006—Subsec. (b)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 1994—Pub. L. 103–337, §1662(c)(2), renumbered section 596b of this title as this section.
 
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2121, 12320 of this title.
 

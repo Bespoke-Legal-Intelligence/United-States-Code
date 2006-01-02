@@ -2,7 +2,7 @@
 
 #### (a) Initiative for Proliferation Prevention program
 
-(1) Not more than 35 percent of the funds available in any fiscal year after fiscal year 1999for the Initiatives for Proliferation Prevention program (IPP) may be obligated or expended by the Department of Energy national laboratories to carry out or provide oversight of any activities under that program.
+(1) Not more than 35 percent of the funds available in any fiscal year after fiscal year 1999 for the Initiatives for Proliferation Prevention program (IPP) may be obligated or expended by the Department of Energy national laboratories to carry out or provide oversight of any activities under that program.
 
 (2)(A) None of the funds available in any fiscal year after fiscal year 1999 for the Initiatives for Proliferation Prevention program may be used to increase or otherwise supplement the pay or benefits of a scientist or engineer if the scientist or engineer—
 

@@ -24,11 +24,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-2001—Pub. L. 107–56 substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline and “25 years” for “five years” in last par. and inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person's control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money; or”.
+2001—Pub. L. 107–56 substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline and “25 years” for “five years” in last par. and inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person's control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise topay, lawfully issued by such foreign government and intended to circulate as money; or”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
-
-#### Termination Date of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 

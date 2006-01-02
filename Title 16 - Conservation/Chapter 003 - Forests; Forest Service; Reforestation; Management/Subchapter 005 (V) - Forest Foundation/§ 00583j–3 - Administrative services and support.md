@@ -6,7 +6,7 @@ For purposes of assisting the Foundation in establishing an office and meeting i
 
 #### (b) Matching funds
 
-In addition to the startup funds provided under subsection (a) of this section, for a period of five years beginning October 1, 1992, the Secretary is authorized to provide matching funds for administrative and project expenses incurredby the Foundation as authorized by section 583j–8(b) of this title including reimbursement of expenses under section 583j–1 of this title, not to exceed then current Federal Government per diem rates.
+In addition to the startup funds provided under subsection (a) of this section, for a period of five years beginning October 1, 1992, the Secretary is authorized to provide matching funds for administrative and project expenses incurred by the Foundation as authorized by section 583j–8(b) of this title including reimbursement of expenses under section 583j–1 of this title, not to exceed then current Federal Government per diem rates.
 
 #### (c) Administrative expenses
 

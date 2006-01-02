@@ -46,11 +46,11 @@ In general.—Notwithstanding any other provision of law, regulations issued und
 
 &emsp;(2)
 
-Declaration of emergency.—An elected State or local government official or elected officials of more than one State or local government jointly may issue an emergency declaration for purposes of paragraph (1) after notice to the Regional Director of the Federal Highway Administration with jurisdiction over the area covered by the declaration.
+Declaration of emergency.—An elected State or local government official or elected officials of more than one State or local government jointly may issue an emergency declaration for purposes of paragraph (1) after notice to the Field Administrator of the Federal Motor Carrier Safety Administration with jurisdiction over the area covered by the declaration.
 
 &emsp;(3)
 
-Incident report.—Within 30 days after the end of the declared emergency period the official who issued the emergency declaration shall file with the Regional Director a report of each safety-related incident or accident that occurred during the emergency period involving—
+Incident report.—Within 30 days after the end of the declared emergency period the official who issued the emergency declaration shall file with the Field Administrator a report of each safety-related incident or accident that occurred during the emergency period involving—
 
 &emsp;&emsp;(A) a utility service vehicle driver to which the declaration applied; or
 
@@ -62,13 +62,13 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Driver of a utility service vehicle.—The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
+Driver of a utility service vehicle.—The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) <sup>1</sup> of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
 
 &emsp;&emsp;(B)
 
-Utility service vehicle.—The term “utility service vehicle” has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat <sup>1</sup> 614–615).
+Utility service vehicle.—The term “utility service vehicle” has the meaning that term has under section 345(e)(6) <sup>1</sup> of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat <sup>2</sup> 614–615).
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 104–88, title III, §308(k)(3), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–178, title IV, §4012(a), June 9, 1998, 112 Stat. 408.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 104–88, title III, §308(k)(3), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–178, title IV, §4012(a), June 9, 1998, 112 Stat. 408; Pub. L. 109–59, title IV, §4145(b), Aug. 10, 2005, 119 Stat. 1749.)
 
 Historical and Revision Notes
 
@@ -124,9 +124,13 @@ In subsection (c), the word “prescribe” is substituted for “establish” f
 
 #### References in Text
 
-Subsections (a)(4) and (e)(6) of section 345 of the National Highway System Designation Act of 1995, referred to in subsec. (e)(4), is section 345 of Pub. L. 104–59, which is set out as a note under section 31136 of this title.
+Section 345 of the National Highway System Designation Act of 1995, referred to in subsec. (e)(4), is section 345 of Pub. L. 104–59, which was set out as a note under section 31136 of this title, prior to repeal by Pub. L. 109–59, title IV, §4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out as a note under section 31136 of this title.
 
 #### Amendments
+
+2005—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted “Field Administrator of the Federal Motor Carrier Safety Administration” for “Regional Director of the Federal Highway Administration”.
+
+Subsec. (e)(3). Pub. L. 109–59, §4145(b)(2), substituted “Field Administrator” for “Regional Director” in introductory provisions.
 
 1998—Subsec. (e). Pub. L. 105–178 added subsec. (e).
 
@@ -196,5 +200,7 @@ Funding.—From amounts set aside under section 104(a) of title 23, United State
 
 For provisions relating to exemptions from regulations prescribed under this section as to maximum driving and on-duty time for drivers used by motor carriers, see section 345 of Pub. L. 104–59, set out as a note under section 31136 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

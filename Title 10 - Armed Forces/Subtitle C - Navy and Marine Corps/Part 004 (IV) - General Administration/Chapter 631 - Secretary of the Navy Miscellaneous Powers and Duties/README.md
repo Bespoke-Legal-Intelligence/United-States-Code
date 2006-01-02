@@ -21,18 +21,23 @@
 | [7222\.](%C2%A7%2007222%20-%20Naval%20Historical%20Center%20Fund%20references%20to%20Fund.md) | Naval Historical Center Fund: references to Fund. |
 | [7223\.](%C2%A7%2007223%20-%20Acquisition%20of%20land%20for%20radio%20stations%20and%20for%20other%20purposes.md) | Acquisition of land for radio stations and for other purposes. |
 | [7224\.](%C2%A7%2007224%20-%20Transportation%20on%20naval%20vessels%20during%20wartime.md) | Transportation on naval vessels during wartime. |
-| [7225\.](%C2%A7%2007225%20-%20Naval%20Reserve%20flag.md) | Naval Reserve flag. |
-| [7226\.](%C2%A7%2007226%20-%20Naval%20Reserve%20yacht%20pennant.md) | Naval Reserve yacht pennant. |
+| [7225\.](%C2%A7%2007225%20-%20Navy%20Reserve%20flag.md) | Navy Reserve flag. |
+| [7226\.](%C2%A7%2007226%20-%20Navy%20Reserve%20yacht%20pennant.md) | Navy Reserve yacht pennant. |
 | [7227\.](%C2%A7%2007227%20-%20Foreign%20naval%20vessels%20and%20aircraft%20supplies%20and%20services.md) | Foreign naval vessels and aircraft: supplies and services. |
 | [7228\.](%C2%A7%2007228%20-%20Merchant%20vessels%20supplies.md) | Merchant vessels: supplies. |
 | [7229\.](%C2%A7%2007229%20-%20Purchase%20of%20fuel.md) | Purchase of fuel. |
 | \[7230. | Repealed.\] |
 | [7231\.](%C2%A7%2007231%20-%20Accounting%20for%20expenditures%20for%20obtaining%20information.md) | Accounting for expenditures for obtaining information. |
 | [7233\.](%C2%A7%2007233%20-%201%20Auxiliary%20vessels%20extended%20lease%20authority.md) | Auxiliary vessels: extended lease authority. |
+| [7234\.](%C2%A7%2007234%20-%20Submarine%20safety%20programs%20participation%20of%20NATO%20naval%20personnel.md) | Submarine safety programs: participation of NATO naval personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §515(b)(4)(D), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for ‘Naval Reserve” in items 7225 and 7226.
+
+2004—Pub. L. 108–375, div. A, title XII, §1223(b), Oct. 28, 2004, 118 Stat. 2090, added item 7234.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(e)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–243, substituted “Naval Historical Center Fund: references to Fund” for “Naval Historical Center Fund” in item 7222.
 
@@ -93,11 +98,12 @@
 - [&sect; 07222 - Naval Historical Center Fund references to Fund](%C2%A7%2007222%20-%20Naval%20Historical%20Center%20Fund%20references%20to%20Fund.md)
 - [&sect; 07223 - Acquisition of land for radio stations and for other purposes](%C2%A7%2007223%20-%20Acquisition%20of%20land%20for%20radio%20stations%20and%20for%20other%20purposes.md)
 - [&sect; 07224 - Transportation on naval vessels during wartime](%C2%A7%2007224%20-%20Transportation%20on%20naval%20vessels%20during%20wartime.md)
-- [&sect; 07225 - Naval Reserve flag](%C2%A7%2007225%20-%20Naval%20Reserve%20flag.md)
-- [&sect; 07226 - Naval Reserve yacht pennant](%C2%A7%2007226%20-%20Naval%20Reserve%20yacht%20pennant.md)
+- [&sect; 07225 - Navy Reserve flag](%C2%A7%2007225%20-%20Navy%20Reserve%20flag.md)
+- [&sect; 07226 - Navy Reserve yacht pennant](%C2%A7%2007226%20-%20Navy%20Reserve%20yacht%20pennant.md)
 - [&sect; 07227 - Foreign naval vessels and aircraft supplies and services](%C2%A7%2007227%20-%20Foreign%20naval%20vessels%20and%20aircraft%20supplies%20and%20services.md)
 - [&sect; 07228 - Merchant vessels supplies](%C2%A7%2007228%20-%20Merchant%20vessels%20supplies.md)
 - [&sect; 07229 - Purchase of fuel](%C2%A7%2007229%20-%20Purchase%20of%20fuel.md)
 - [&sect; 07230 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;824(a)(4), Nov. 30, 1993, 107 Stat. 1707](%C2%A7%2007230%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7824%28a%29%284%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201707.md)
 - [&sect; 07231 - Accounting for expenditures for obtaining information](%C2%A7%2007231%20-%20Accounting%20for%20expenditures%20for%20obtaining%20information.md)
 - [&sect; 07233 - 1 Auxiliary vessels extended lease authority](%C2%A7%2007233%20-%201%20Auxiliary%20vessels%20extended%20lease%20authority.md)
+- [&sect; 07234 - Submarine safety programs participation of NATO naval personnel](%C2%A7%2007234%20-%20Submarine%20safety%20programs%20participation%20of%20NATO%20naval%20personnel.md)

@@ -16,10 +16,6 @@ Subpart F—Rules for Computing Work Opportunity Credit
 
 1984—Pub. L. 98–369, div. A, title IV, §474(n)(1), (2), (p)(9), July 18, 1984, 98 Stat. 833, 838, substituted “F” for “D” as subpart designation, substituted “Rules for Computing Targeted Jobs Credit” for “Rules for Computing Credit for Employment of Certain New Employees” in heading, and struck out item 53 “Limitation based on amount of tax”.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 53, 1400L of this title.
-
 
 ---
 

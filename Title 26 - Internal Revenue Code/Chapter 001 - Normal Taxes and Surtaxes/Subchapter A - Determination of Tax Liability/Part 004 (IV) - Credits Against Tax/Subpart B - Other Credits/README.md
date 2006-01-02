@@ -3,14 +3,19 @@ Subpart B—Other Credits
 | Sec. |  |
 | :--- | ---: |
 | [27\.](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States%3B%20possession%20tax%20credit.md) | Taxes of foreign countries and possessions of the United States; possession tax credit. |
-| \[28. | Renumbered.\] |
-| [29\.](%C2%A7%2000029%20-%20Credit%20for%20producing%20fuel%20from%20a%20nonconventional%20source.md) | Credit for producing fuel from a nonconventional source. |
+| \[28, 29. | Renumbered.\] |
 | [30\.](%C2%A7%2000030%20-%20Credit%20for%20qualified%20electric%20vehicles.md) | Credit for qualified electric vehicles. |
 | [30A.](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md) | Puerto Rico economic activity credit. |
+| [30B.](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md) | Alternative motor vehicle credit. |
+| [30C.](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md) | Alternative fuel vehicle refueling property credit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–135, title IV, §412(e), Dec. 21, 2005, 119 Stat. 2637, substituted “Alternative fuel vehicle refueling property credit” for “Clean-fuel vehicle refueling property credit” in item 30C.
+
+Pub. L. 109–58, title XIII, §§1322(a)(3)(K), 1341(b)(5), 1342(b)(5), Aug. 8, 2005, 119 Stat. 1012, 1049, 1051, struck out item 29 “Credit for producing fuel from a nonconventional source” and added items 30B and 30C.
 
 1997—Pub. L. 105–34, title XVI, §1601(f)(1)(B), Aug. 5, 1997, 111 Stat. 1090, substituted “Puerto Rico” for “Puerto Rican” in item 30A.
 
@@ -22,11 +27,7 @@ Subpart B—Other Credits
 
 1984—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart B heading and analysis of sections for subpart B consisting of items 27 (formerly 33), 28 (formerly 44H), 29 (formerly 44D), and 30 (formerly 44F). Former subpart B was redesignated E.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 38, 53, 469, 6401 of this title.
-
-<i><sup>1</sup></i><i> See Change of Name note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---
@@ -35,6 +36,8 @@ This subpart is referred to in sections 38, 53, 469, 6401 of this title.
 
 - [&sect; 00027 - Taxes of foreign countries and possessions of the United States; possession tax credit](%C2%A7%2000027%20-%20Taxes%20of%20foreign%20countries%20and%20possessions%20of%20the%20United%20States%3B%20possession%20tax%20credit.md)
 - [&sect; 00028 - Renumbered &sect;45C](%C2%A7%2000028%20-%20Renumbered%20%C2%A745C.md)
-- [&sect; 00029 - Credit for producing fuel from a nonconventional source](%C2%A7%2000029%20-%20Credit%20for%20producing%20fuel%20from%20a%20nonconventional%20source.md)
+- [&sect; 00029 - Renumbered &sect;45K](%C2%A7%2000029%20-%20Renumbered%20%C2%A745K.md)
 - [&sect; 00030 - Credit for qualified electric vehicles](%C2%A7%2000030%20-%20Credit%20for%20qualified%20electric%20vehicles.md)
 - [&sect; 00030A - Puerto Rico economic activity credit](%C2%A7%2000030A%20-%20Puerto%20Rico%20economic%20activity%20credit.md)
+- [&sect; 00030B - Alternative motor vehicle credit](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md)
+- [&sect; 00030C - Alternative fuel vehicle refueling property credit](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md)

@@ -8,7 +8,7 @@
 
 &emsp;(B) with respect to a food's advertising which the Secretary determines causes the food to be so misbranded,
 
-> the Secretary shall, in accordance with paragraph (2), notify in writing the Federal TradeCommission of the action the Secretary proposes to take respecting such food or advertising.
+> the Secretary shall, in accordance with paragraph (2), notify in writing the Federal Trade Commission of the action the Secretary proposes to take respecting such food or advertising.
 
 (2) The notice required by paragraph (1) shall—
 
@@ -22,7 +22,7 @@
 
 &emsp;(A) it has initiated under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] an investigation of such advertising to determine if it is prohibited by such Act or any order or rule under such Act,
 
-&emsp;(B) it has commenced (or intends to commence) a civil action under section 5, 13, or 19 \[15 U.S.C. 45, 53, or 57b\] with respect to such advertising or the Attorney General has commenced (or intends to commence) a civil action under section 5 \[15 U.S.C. 45\] with respect to such advertising,
+&emsp;(B) it has commenced (or intends to commence) a civil action under section 5, 13, or 19\[15 U.S.C. 45, 53, or 57b\] with respect to such advertising or the Attorney General has commenced (or intends to commence) a civil action under section 5 \[15 U.S.C. 45\] with respect to such advertising,
 
 &emsp;(C) it has issued and served (or intends to issue and serve) a complaint under section 5(b) of such Act \[15 U.S.C. 45(b)\] respecting such advertising, or
 

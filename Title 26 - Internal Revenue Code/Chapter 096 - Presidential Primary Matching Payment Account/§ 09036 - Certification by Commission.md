@@ -10,7 +10,3 @@ Initial certifications by the Commission under subsection (a), and all determina
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1300.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9037, 9039 of this title.
-

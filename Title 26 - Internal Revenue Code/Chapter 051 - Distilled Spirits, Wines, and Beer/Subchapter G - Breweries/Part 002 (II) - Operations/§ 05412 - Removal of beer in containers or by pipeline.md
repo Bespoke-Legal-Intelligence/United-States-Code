@@ -18,7 +18,3 @@ A prior section 5412, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5675 of this title.
-

@@ -20,7 +20,7 @@ Except as provided in the regulations under section 1092(b) or this section, or 
 
 #### (c) Securities futures contract
 
-For purposes of this section, the term “securities futures contract” means any security future (as defined in section 3(a)(55)(A) of the Securities Exchange Act of 1934, as in effect on the date of the enactment of this section).
+For purposes of this section, the term “securities futures contract” means any security future (as defined in section 3(a)(55)(A) of the Securities Exchange Act of 1934, as in effect on the date of the enactment of this section). The Secretary may prescribe regulations regarding the status of contracts the values of which are determined directly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as defined for purposes of section 1256(g)(6)).
 
 #### (d) Contracts not treated as commodity futures contracts
 
@@ -34,7 +34,7 @@ The Secretary shall prescribe such regulations as may be appropriate to provide 
 
 &emsp;&emsp;<b>For special rules relating to dealer securities futures contracts, see section 1256.</b>
 
-(Added Pub. L. 106–554, §1(a)(7) \[title IV, §401(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; amended Pub. L. 107–147, title IV, §412(d)(1)(B), (3)(B), Mar. 9, 2002, 116 Stat. 53, 54.)
+(Added Pub. L. 106–554, §1(a)(7) \[title IV, §401(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; amended Pub. L. 107–147, title IV, §412(d)(1)(B), (3)(B), Mar. 9, 2002, 116 Stat. 53, 54; Pub. L. 108–311, title IV, §405(a)(1), Oct. 4, 2004, 118 Stat. 1188.)
 
 #### References in Text
 
@@ -48,17 +48,19 @@ Pub. L. 106–554, §1(a)(7) \[title IV, §401(a)\], which directed amendment of
 
 #### Amendments
 
+2004—Subsec. (c). Pub. L. 108–311 inserted at end “The Secretary may prescribe regulations regarding the status of contracts the values of which are determineddirectly or indirectly by reference to any index which becomes (or ceases to be) a narrow-based security index (as defined for purposes of section 1256(g)(6)).”
+
 2002—Subsec. (a)(1). Pub. L. 107–147, §412(d)(1)(B)(i), substituted “sale, exchange, or termination of a securities futures contract” for “sale or exchange of a securities futures contract”.
 
 Subsec. (b). Pub. L. 107–147, §412(d)(1)(B)(i), (3)(B), inserted “or in section 1233,” after “or this section,” and substituted “sale, exchange, or termination of a securities futures contract” for “sale or exchange of a securities futures contract”.
 
 Subsec. (f). Pub. L. 107–147, §412(d)(1)(B)(ii), added subsec. (f).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title IV, §405(b), Oct. 4, 2004, 118 Stat. 1189, provided that: “The amendments made by subsection (a) \[amending this section and section 1256 of this title\] shall take effect as if included in section 401 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–587\].”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], to which such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1032, 1091, 1092, 1223, 1233, 1234A, 1275 of this title.
 

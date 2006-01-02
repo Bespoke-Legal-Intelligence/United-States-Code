@@ -8,7 +8,7 @@ Every employer who during any calendar year provides group-term life insurance o
 
 Every employer required to make a return under subsection (a) shall furnish to each employee whose name is required to be set forth in such return a written statement showing the cost of the group-term life insurance shown on such return. The written statement required under the preceding sentence shall be furnished to the employee on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
-(Added Pub. L. 88–272, title II, §204(c)(1), Feb. 26, 1964, 78 Stat. 37; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834;Pub. L. 99–514, title XV, §1501(c)(14), Oct. 22, 1986, 100 Stat. 2740.)
+(Added Pub. L. 88–272, title II, §204(c)(1), Feb. 26, 1964, 78 Stat. 37; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1501(c)(14), Oct. 22, 1986, 100 Stat. 2740.)
 
 #### Amendments
 
@@ -23,8 +23,4 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 #### Effective Date
 
 Section applicable to group-term life insurance provided after Dec. 31, 1963, in taxable years ending after such date, see section 204(d) of Pub. L. 88–272, set out as a note under section 79 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 79, 6041A, 6724 of this title.
 

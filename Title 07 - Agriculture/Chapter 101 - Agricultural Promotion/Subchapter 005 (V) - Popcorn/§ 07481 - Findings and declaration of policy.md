@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) the cooperative development, financing, and implementation of a coordinated program of popcorn promotion, research, consumer information, and industry information is necessary to maintain and expand markets for popcorn; and
 
-&emsp;(6) popcorn moves in interstate and foreign commerce, and popcorn that does not move inthose channels of commerce directly burdens or affects interstate commerce in popcorn.
+&emsp;(6) popcorn moves in interstate and foreign commerce, and popcorn that does not move in those channels of commerce directly burdens or affects interstate commerce in popcorn.
 
 #### (b) Policy
 

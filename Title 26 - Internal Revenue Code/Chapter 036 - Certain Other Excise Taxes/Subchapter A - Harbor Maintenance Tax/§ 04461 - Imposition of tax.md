@@ -14,21 +14,15 @@ The amount of the tax imposed by subsection (a) on any port use shall be an amou
 
 &emsp;The tax imposed by subsection (a) shall be paid by—
 
-&emsp;&emsp;(A) in the case of cargo entering the United States, the importer,
+&emsp;&emsp;(A) in the case of cargo entering the United States, the importer, or
 
-&emsp;&emsp;(B) in the case of cargo to be exported from the United States, the exporter, or
-
-&emsp;&emsp;(C) in any other case, the shipper.
+&emsp;&emsp;(B) in any other case, the shipper.
 
 #### (2) Time of imposition
 
-&emsp;Except as provided by regulations, the tax imposed by subsection (a) shall be imposed—
+&emsp;Except as provided by regulations, the tax imposed by subsection (a) shall be imposed at the time of unloading.
 
-&emsp;&emsp;(A) in the case of cargo to be exported from the United States, at the time of loading, and
-
-&emsp;&emsp;(B) in any other case, at the time of unloading.
-
-(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 101–508, title XI, §11214(a), Nov. 5, 1990, 104 Stat. 1388–436.)
+(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 101–508, title XI, §11214(a), Nov. 5, 1990, 104 Stat. 1388–436; Pub. L. 109–59, title XI, §11116(b), Aug. 10, 2005, 119 Stat. 1951.)
 
 #### Prior Provisions
 
@@ -36,7 +30,19 @@ For prior section 4461, see Prior Provisions note set out preceding section 4471
 
 #### Amendments
 
+2005—Subsec. (c)(1). Pub. L. 109–59, §11116(b)(1), inserted “or” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “in the case of cargo to be exported from the United States, the exporter, or”.
+
+Subsec. (c)(2). Pub. L. 109–59, §11116(b)(2), substituted “imposed” for “imposed—
+
+&emsp;“(A) in the case of cargo to be exported from the United States, at the time of loading, and
+
+&emsp;“(B) in any other case,”.
+
 1990—Subsec. (b). Pub. L. 101–508 substituted “0.125 percent” for “0.04 percent”.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11116(c), Aug. 10, 2005, 119 Stat. 1951, provided that: “The amendments made by this section \[amending this section and section 4462 of this title\] shall take effect before, on, and after the date of the enactment of this Act \[Aug. 10, 2005\].”
 
 #### Effective Date of 1990 Amendment
 
@@ -65,8 +71,4 @@ Review.—The Secretary of the Treasury may, at any time, review and revise the 
 “(c)
 
 Implementation of Findings.—For purposes of section 4462(d)(2)(B) of the Internal Revenue Code of 1954 \[now 1986\], the findings of the study or review conducted pursuant to subsections (a) and (b) of this section shall be effective 60 days after notification to the ports concerned.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4462, 9505 of this title.
 

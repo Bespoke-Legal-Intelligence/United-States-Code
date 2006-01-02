@@ -12,11 +12,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 99–190, §101(a) \[H.R. 3037, title I\], Dec. 19, 1985, 99 Stat. 1185.
-
-Pub. L. 98–473, title I, §101(a) \[H.R. 5743, title I\], Oct. 12, 1984, 98 Stat. 1837.
-
-Pub. L. 98–151, §101(d) \[H.R. 3223, title I\], Nov. 14, 1983, 97 Stat. 972.
+Pub. L. 99–190, §101(a) \[H.R. 3037, title I\], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433.
 
 Pub. L. 97–370, title I, Dec. 18, 1982, 96 Stat. 1794.
 

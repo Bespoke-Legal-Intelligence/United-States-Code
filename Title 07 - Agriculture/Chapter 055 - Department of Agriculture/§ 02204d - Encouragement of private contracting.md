@@ -6,13 +6,13 @@ For the purpose of promoting local job creation and private sector investment in
 
 #### (b) Plan required
 
-The Secretary shall develop and implement a plan that will result in increasing the use of contracts awarded to private firms by the Department of Agriculture, and maximizing the use of grant, loan, or other financial assistance made for the purpose of rural development to provide the goods and services purchased to carry out the purposes of this title.<sup>1</sup>
+The Secretary shall develop and implement a plan that will result in increasing the use ofcontracts awarded to private firms by the Department of Agriculture, and maximizing the use of grant, loan, or other financial assistance made for the purpose of rural development to provide the goods and services purchased to carry out the purposes of this title.<sup>1</sup>
 
 (Pub. L. 101–624, title XXIII, §2394, Nov. 28, 1990, 104 Stat. 4057.)
 
 #### References in Text
 
-This title, referred to in text, is title XXIII of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3979, known as the RuralEconomic Development Act of 1990. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1921 of this title and Tables.
+This title, referred to in text, is title XXIII of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3979, known as the Rural Economic Development Act of 1990. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1921 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

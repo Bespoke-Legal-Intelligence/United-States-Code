@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 99–554, §111(c), struck out “for cause” after “rem
 
 #### Effective Date of 1986 Amendment; Transition and Administrative Provisions
 
-Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, §501, Nov. 13, 2000, 114 Stat. 2421, provided that:
+Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, §501, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 109–8, title X, §1001(c), Apr. 20, 2005, 119 Stat. 186, provided that:
 
 #### “SEC. 301. INCUMBENT UNITED STATES TRUSTEES.
 
@@ -258,7 +258,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;“(B) Any election under subparagraph (A) shall be made upon a majority vote of the chief judge of such district and each bankruptcy judge in such judicial district in favor of such election.
 
-&emsp;“(C) Notice that an election has been made under subparagraph (A) shall be given, not later than 10days after such election, to the Attorney General and the appropriate Federal Circuit Court of Appeals for such district.
+&emsp;“(C) Notice that an election has been made under subparagraph (A) shall be given, not later than 10 days after such election, to the Attorney General and the appropriate Federal Circuit Court of Appeals for such district.
 
 &emsp;“(D) Any election made under subparagraph (A) shall become effective on the date the amendments made by subtitle A of title II of this Act become effective in the region that includes such district or 30 days after the Attorney General receives the notice required under subparagraph (C), whichever occurs later.
 
@@ -324,12 +324,6 @@ Amendments inapplicable.—For purposes of paragraph (1), the amendments made by
 
 Rule of construction regarding fees for cases.—This Act \[see Short Title of 1986 Amendment note below\] and the amendments made by section 117(4) of this Act \[amending section 1930 of this title\] shall not be construed to require the payment of a fee under paragraph (6) of section 1930(a) of title 28, United States Code, in a case under title 11 of the United States Code for any conduct or period occurring before such paragraph becomes effective in the district in which such case is pending.
 
-“(f)
-
-Repeal of Chapter 12
-
-of Title 11.—Chapter 12 of title 11 of the United States Code is repealed on October 1, 1998. All cases commenced or pending under chapter 12 of title 11, United States Code, and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter had not been repealed. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter had not been repealed.
-
 #### “SEC. 303. CERTIFICATION OF JUDICIAL DISTRICTS; NOTICE AND PUBLICATION OF CERTIFICATION.
 
 “(a)
@@ -348,7 +342,7 @@ Notice and Publication of Certification.—Whenever the Attorney General transmi
 
 “(a)
 
-Cooperative Arrangements.—The Attorney General and the Director of the Administrative Officeof the United States Courts may enter into agreements under which United States trustees may—
+Cooperative Arrangements.—The Attorney General and the Director of the Administrative Office of the United States Courts may enter into agreements under which United States trustees may—
 
 &emsp;“(1) use—
 
@@ -510,5 +504,17 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–554 provided: “That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, set out in the Appendix to Title 11, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the “Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
+Section 1 of Pub. L. 99–554 provided: “That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, set out in the Appendix to Title 11, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a notepreceding this section\] may be cited as the “Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
+
+#### Bankruptcy Crimes
+
+Pub. L. 109–162, title XI, §1175, Jan. 5, 2006, 119 Stat. 3125, provided that: “The Director of the Executive Office for United States Trustees shall prepare an annual report to the Congress detailing—
+
+&emsp;“(1) the number and types of criminal referrals made by the United States Trustee Program;
+
+&emsp;“(2) the outcomes of each criminal referral;
+
+&emsp;“(3) for any year in which the number of criminal referrals is less than for the prior year, an explanation of the decrease; and
+
+&emsp;“(4) the United States Trustee Program's efforts to prevent bankruptcy fraud and abuse, particularly with respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor's failure to disclose all assets.”
 

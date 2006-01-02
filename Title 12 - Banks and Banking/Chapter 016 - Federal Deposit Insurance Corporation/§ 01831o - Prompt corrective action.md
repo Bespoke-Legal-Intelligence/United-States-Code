@@ -18,7 +18,7 @@ For purposes of this section:
 
 #### (A) Well capitalized
 
-&emsp;&emsp;An insured depository institution is “well capitalized” if it significantly exceeds the required minimum level for each relevant capital measure.
+&emsp;&emsp;An insured depository institution is “well capitalized” if it significantly exceeds therequired minimum level for each relevant capital measure.
 
 #### (B) Adequately capitalized
 
@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) any dividend consisting only of shares of the institution or company or rights to purchase such shares; or
 
-&emsp;&emsp;&emsp;&emsp;(II) any amount paid on the deposits of a mutual or cooperative institution that the appropriate Federal banking agencydetermines is not a distribution for purposes of this section;
+&emsp;&emsp;&emsp;&emsp;(II) any amount paid on the deposits of a mutual or cooperative institution that the appropriate Federal banking agency determines is not a distribution for purposes of this section;
 
 &emsp;&emsp;&emsp;(ii) a payment by an insured depository institution or company to repurchase, redeem, retire, or otherwise acquire any of its shares or other ownership interests, including any extension of credit to finance an affiliated company's acquisition of those shares or interests; or
 
@@ -112,7 +112,7 @@ For purposes of this section:
 
 #### (2) Capital categories generally
 
-&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+&emsp;Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insureddepository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
 
 #### (3) Critical capital
 
@@ -416,7 +416,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
+&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60 days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
 
 #### (B) Exceptions
 
@@ -658,7 +658,7 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(A) to become adequately capitalized, to the extent that the order is based on the institution's capital level or failure to submit or implement a capital restoration plan; and
 
-&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to the extent that the order is based on subsection (g)(1) of this section.
+&emsp;&emsp;(B) to correct the unsafe or unsound condition or unsafe or unsound practice, to theextent that the order is based on subsection (g)(1) of this section.
 
 #### (<i>o</i>) Transition rules for savings associations
 
@@ -686,7 +686,29 @@ This section does not limit any authority of an appropriate Federal banking agen
 
 &emsp;&emsp;(C) the savings association remains in compliance with the plan or is operating under a written agreement with the appropriate Federal banking agency.
 
-(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831.)
+(Sept. 21, 1950, ch. 967, §2\[38\], as added Pub. L. 102–242, title I, §131(a), Dec. 19, 1991, 105 Stat. 2253; amended Pub. L. 102–550, title XVI, §1603(d)(1), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title VI, §602(a)(64), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(AA)–(CC), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 104–316, title I, §106(d), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 109–173, §8(a)(36)–(39), Feb. 15, 2006, 119 Stat. 3615.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §8(a)(36)–(39), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (a), by striking “Funds” and inserting “Fund” in the subsection heading and by striking “the deposit insurance fund” and inserting “the Deposit Insurance Fund” in paragraph (1);</i>
+
+<i>(2) in subsection (k):</i>
+
+<i>(A) in paragraph (1), by striking “a deposit insurance fund” and inserting “the Deposit Insurance Fund” in introductory provisions and by striking “the deposit insurance fund” and inserting “the Deposit Insurance Fund” in subparagraph (A)(i);</i>
+
+<i>(B) in paragraph (2)(A), by striking “A deposit insurance fund” and inserting “The Deposit Insurance Fund” in introductory provisions and by striking “the deposit insurance fund's outlays” and inserting “the outlays of the Deposit Insurance Fund” in clause (ii); and</i>
+
+<i>(C) in paragraph (3)(B), by striking “the deposit insurance fund's outlays” and inserting “the outlays of the Deposit Insurance Fund”; and</i>
+
+<i>(3) in subsection (o):</i>
+
+<i>(A) by striking paragraph (1) and paragraph (2) designation and heading;</i>
+
+<i>(B) by redesignating subparagraphs (A), (B), and (C) of former paragraph (2) as paragraphs (1), (2), and (3), respectively, and realigning the margins; and</i>
+
+<i>(C) in paragraph (1) (as so redesignated), by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and realigning the margins.</i>
 
 #### References in Text
 
@@ -698,7 +720,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), 
 
 Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductoryprovisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
 
 Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
 
@@ -715,6 +737,10 @@ Subsec. (<i>o</i>). Pub. L. 104–208, §2704(d)(14)(CC), which directed the ame
 Subsec. (f)(6). Pub. L. 102–550, §1603(d)(1)(B), (D), in heading substituted “other regulators” for “functional regulators” and in text substituted “appropriate regulator” for “functional regulator (as defined in section 1841(s) of this title)”.
 
 Subsec. (g)(1)(B). Pub. L. 102–550, §1603(d)(1)(C), substituted “capitalized (but not well capitalized)” for “capitalized”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -2,19 +2,27 @@
 
 #### (a) In general
 
-(1) To request a grant under this subchapter, the chief executive of a State shall submit anapplication to the Director in such form and containing such information as the Director may reasonably require.
+(1) To request a grant under this subchapter, the chief executive of a State shall submit an application to the Director in such form and containing such information as the Director may reasonably require.
 
 (2) An application under paragraph (1) shall include assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
 
 #### (b) State office
 
-The office designated under section 3757 of this title—
+The office responsible for the trust fund required by section 3757 of this title—
 
 &emsp;(1) shall prepare the application required under this section; and
 
 &emsp;(2) shall administer grant funds received under this subchapter, including, review of spending, processing, progress, financial reporting, technical assistance, grant adjustments, accounting, auditing, and fund disbursement.
 
-(Pub. L. 90–351, title I, §1602, as added Pub. L. 102–521, §4(a)(3), Oct. 25, 1992, 106 Stat. 3404.)
+(Pub. L. 90–351, title I, §1602, as added Pub. L. 102–521, §4(a)(3), Oct. 25, 1992, 106 Stat. 3404; amended Pub. L. 109–162, title XI, §1111(c)(2)(H), Jan. 5, 2006, 119 Stat. 3102.)
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–162 substituted “The office responsible for the trust fund required by section 3757 of this title” for “The office designated under section 3757 of this title”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
 
 #### Transfer of Functions
 

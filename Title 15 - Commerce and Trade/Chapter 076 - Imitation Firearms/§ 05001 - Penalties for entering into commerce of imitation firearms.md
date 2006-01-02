@@ -22,7 +22,7 @@ The Director of the Bureau of Justice Statistics is authorized and directed to c
 
 #### (c) <sup>1</sup> Technical evaluation of marking systems
 
-The Director of <sup>2</sup> National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) of this section to determine their effectiveness in police combat situations. The Director shall begin the studywithin 3 months after November 5, 1988, and such study shall be completed within 9 months after November 5, 1988.
+The Director of <sup>2</sup> National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) of this section to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988, and such study shall be completed within 9 months after November 5, 1988.
 
 #### (f) Effective date
 

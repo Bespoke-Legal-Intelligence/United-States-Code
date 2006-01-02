@@ -4,21 +4,11 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;(1) Reserve officers—
 
-&emsp;&emsp;(A) on active duty for training;
+&emsp;&emsp;(A) on active duty authorized under section 115(a)(1)(B) or 115(b)(1) of this title, or excluded from counting for active duty end strengths under section 115(i) of this title;
 
-&emsp;&emsp;(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32;
+&emsp;&emsp;(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32; or
 
-&emsp;&emsp;(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
-
-&emsp;&emsp;(D) on active duty under section 12301(d) of this title, other than as provided under subparagraph (C), if the call or order to active duty, under regulations prescribed by the Secretary concerned, specifies a period of three years or less and continued placement on the reserve active-status list;
-
-&emsp;&emsp;(E) on active duty to pursue special work;
-
-&emsp;&emsp;(F) ordered to active duty under section 12304 of this title;
-
-&emsp;&emsp;(G) on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System; or
-
-&emsp;&emsp;(H) on full-time National Guard duty.
+&emsp;&emsp;(C) on full-time National Guard duty.
 
 &emsp;(2) The director of admissions, dean, and permanent professors at the United States Military Academy and the registrar, dean, and permanent professors at the United States Air Force Academy.
 
@@ -28,13 +18,35 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;(5) Students at the Uniformed Services University of the Health Sciences.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 108–375, div. A, title IV, §416(j), title V, §501(d), Oct. 28, 2004, 118 Stat. 1869, 1874.)
 
 #### Codification
 
 Pub. L. 103–337, div. A, title XVI, §§1624, 1691(b)(1), Oct. 5, 1994, 108 Stat. 2961, 3026, which directed amendment of this section effective Oct. 1, 1996, by inserting “(a)” before “Officers in the following” and by adding at the end a new subsec. (b), was amended by Pub. L. 104–106, div. A, title XV, §1501(a)(1)(A), Feb. 10, 1996, 110 Stat. 495, and, as so amended, amends section 620 of this title instead of this section.
 
 #### Amendments
+
+2004—Par. (1). Pub. L. 108–375, §416(j), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+
+“(1) Reserve officers—
+
+&emsp;“(A) on active duty for training;
+
+&emsp;“(B) on active duty under section 3038, 5143, 5144, 8038, 10211, 10301 through 10305, 10502, 10505, 10506(a), 10506(b), 10507, or 12402 of this title or section 708 of title 32;
+
+&emsp;“(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
+
+&emsp;“(D) on active duty under section 12301(d) of this title, other than as provided under subparagraph (C), if the call or order to active duty, under regulations prescribed by the Secretary concerned, specifies a period of three years or less and continued placement on the reserve active-status list;
+
+&emsp;“(E) on active duty to pursue special work;
+
+&emsp;“(F) ordered to active duty under section 12304 of this title;
+
+&emsp;“(G) on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System; or
+
+&emsp;“(H) on full-time National Guard duty.”
+
+Par. (1)(F). Pub. L. 108–375, §501(d), which directed substitution of “sections 12302 and 12304” for “section 12304” in subpar. (F), could not be executed because par. (1) did not contain a subpar. (F) subsequent to amendment by Pub. L. 108–375, §416(j). See above.
 
 2001—Par. (1)(D). Pub. L. 107–107 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “on the reserve active-status list who are on active duty under section 12301(d) of this title, other than as provided in subparagraph (C), under a call or order to active duty specifying a period of three years or less;”.
 
@@ -57,6 +69,10 @@ Par. (1)(E). Pub. L. 103–337, §1671(c)(5)(C), substituted “12304” for “
 Par. (1)(C). Pub. L. 98–525, §414(a)(5)(A), struck out “or under section 502 or 503 of title 32” after “section 672(d) of this title”.
 
 Par. (1)(G). Pub. L. 98–525, §414(a)(5)(B)–(D), added subpar. (G).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 501(d) of Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -81,8 +97,4 @@ Pub. L. 107–107, div. A, title V, §511(b), Dec. 28, 2001, 115 Stat. 1092, pro
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 101, 620 of this title.
 

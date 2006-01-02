@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (3) Treatment under securities laws
 
-&emsp;The filing of a registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]shall not be required with respect to the sale or offer for sale by the Bank of a loan or any interest therein pursuant to this section. For purposes of the Securities Act of 1933, the Bank shall not be deemed to be an issuer or underwriter with respect to any subsequent sale or other disposition of such loan (or any interest therein) or any security received by an eligible purchaser pursuant to any debt-for-equity swap, debt-for-development swap, or debt-for-nature swap.
+&emsp;The filing of a registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] shall not be required with respect to the sale or offer for sale by the Bank of a loan or any interest therein pursuant to this section. For purposes of the Securities Act of 1933, the Bank shall not be deemed to be an issuer or underwriter with respect to any subsequent sale or other disposition of such loan (or any interest therein) or any security received by an eligible purchaser pursuant to any debt-for-equity swap, debt-for-development swap, or debt-for-nature swap.
 
 #### (4) Administration
 

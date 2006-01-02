@@ -2,7 +2,7 @@
 
 (a) It is the intent of Congress to provide an Army that is capable, in conjunction with the other armed forces, of—
 
-&emsp;(1) preserving the peace and security, and providing for the defense, of the United States, the Territories, Commonwealths, and possessions, and any areas occupied by the United States;
+&emsp;(1) preserving the peace and security, and providing for the defense, of the United States, the Commonwealths and possessions, and any areas occupied by the United States;
 
 &emsp;(2) supporting the national policies;
 
@@ -26,7 +26,7 @@
 
 > necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 166.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 166; Pub. L. 109–163, div. A, title X, §1057(a)(6), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -76,7 +76,7 @@ In subsection (c)(2), the words “or inducted” are omitted as covered by the 
 
 In subsection (d), 10:20i (8th through 38th words) is omitted as surplusage. The words “consists of all” are substituted for the words “shall include all of”. The words “members of the Army” are substituted for the word “personnel”.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in section 125 of this title.
+2006—Subsec. (a)(1). Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 

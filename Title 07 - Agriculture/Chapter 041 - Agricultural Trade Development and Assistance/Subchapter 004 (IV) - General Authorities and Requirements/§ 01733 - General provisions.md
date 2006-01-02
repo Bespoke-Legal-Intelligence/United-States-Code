@@ -32,7 +32,7 @@ Private trade channels shall be used under this chapter to the maximum extent pr
 
 #### (1) In general
 
-&emsp;In carrying out this chapter, reasonable precautions shall be taken to assure that sales or donations of agricultural commodities will not unduly disrupt world prices for agricultural commodities or normal patterns of commercial trade with foreign countries.
+&emsp;In carrying out this chapter, reasonable precautions shall be taken to assure that sales ordonations of agricultural commodities will not unduly disrupt world prices for agricultural commodities or normal patterns of commercial trade with foreign countries.
 
 #### (2) Sale price
 

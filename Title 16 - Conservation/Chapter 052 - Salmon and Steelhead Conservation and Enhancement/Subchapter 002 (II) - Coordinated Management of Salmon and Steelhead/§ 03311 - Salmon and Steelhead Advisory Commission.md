@@ -64,7 +64,7 @@ The Secretary shall provide such clerical and technical support as may be necess
 
 #### (h) Termination of Commission
 
-Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary's approval of the Commission's report pursuant to subsection (e) of this section.
+Unless otherwise agreed to by the voting members of the Commission and approved bythe Secretary, the Commission shall terminate upon the Secretary's approval of the Commission's report pursuant to subsection (e) of this section.
 
 (Pub. L. 96–561, title I, §110, Dec. 22, 1980, 94 Stat. 3277.)
 

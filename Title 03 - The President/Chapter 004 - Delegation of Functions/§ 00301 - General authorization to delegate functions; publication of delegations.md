@@ -1,6 +1,6 @@
 ### §301. General authorization to delegate functions; publication of delegations
 
-The President of the United States is authorized to designate and empower the head of any department or agency in the executive branch, or any official thereof who is required to be appointed by and with the advice and consent of the Senate, to perform without approval, ratification, or other action by the President (1) any function which is vested in the President by law, or (2) any function which such officer is required or authorized by law to perform only with or subject to the approval, ratification, or other action of the President: <i>Provided</i>, That nothingcontained herein shall relieve the President of his responsibility in office for the acts of any such head or other official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be published in the Federal Register, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
+The President of the United States is authorized to designate and empower the head of any department or agency in the executive branch, or any official thereof who is required to be appointed by and with the advice and consent of the Senate, to perform without approval, ratification, or other action by the President (1) any function which is vested in the President by law, or (2) any function which such officer is required or authorized by law to perform only with or subject to the approval, ratification, or other action of the President: <i>Provided</i>, That nothing contained herein shall relieve the President of his responsibility in office for the acts of any such head or other official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be published in the Federal Register, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
 
 (Added Oct. 31, 1951, ch. 655, §10, 65 Stat. 712.)
 
@@ -36,7 +36,7 @@ Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732
 
 (i) The authority vested in the President by section 2250 of the Revised Statutes \[43 U.S.C. 125\] to discontinue a land office in a land district under certain circumstances and to annex the same to some other adjoining land district.
 
-(j) The authority vested in the President by section 2251 of the Revised Statutes \[43 U.S.C. 126\] to change the location of the land offices in the several land districts established by law and to relocate the same from time to time at such point in the district as may be deemed expedient.
+(j) The authority vested in the President by section 2251 of the Revised Statutes \[43 U.S.C. 126\] to change the location of the land offices in the several land districts established by law and to relocate the same fromtime to time at such point in the district as may be deemed expedient.
 
 (k) The authority vested in the President by section 2253 of the Revised Statutes \[43 U.S.C. 127\], to change and reestablish the boundaries of land districts.
 
@@ -146,7 +146,7 @@ Sec. 6. The Attorney General and the Archivist of the United States are hereby d
 
 #### general provisions
 
-Sec. 7. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved by thePresident in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+Sec. 7. All actions heretofore taken by the President in respect of the matters affected by this order and in force at the time of the issuance of this order, including any regulations prescribed or approved by the President in respect of such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
 Sec. 8. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise.”
 
@@ -178,7 +178,7 @@ Sec. 2. The Secretary of Defense, and, as designated by the said Secretary for t
 
 (b) The authority vested in the President by section 1 of the act of April 9, 1906, ch. 1370, 34 Stat. 104 \[10 U.S.C. 6961\], to approve the dismissal by the Secretary of the Navy of a midshipman from the United States Naval Academy.
 
-Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force and effect at the time of the issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in force and effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force and effect at the time of the issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall,except as they may be inconsistent with the provisions of this order, remain in force and effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
 Sec. 4. As used in this order, the term “functions” includes duties, powers, responsibilities, authority, and discretion, and the term “perform” may be construed to mean “exercise”.
 
@@ -222,7 +222,7 @@ Section 1. The Secretary of Homeland Security is hereby designated and empowered
 
 (q) The authority vested in the President by section 2 of the act of October 17, 1940, ch. 896, 54 Stat. 1201 \[former 46 U.S.C. 643b\], to extend, whenever in his judgment the national interest requires, the provisions of subsection (b) of section 4551, Revised Statutes, as amended \[46 U.S.C. 7304\], to such additional class or classes of vessels and to such waters as he may designate.
 
-(r) The authority vested in the President by section 6 of the act of July 24, 1941, ch. 320, 55 Stat. 604, as amended (34 U.S.C. 350e) \[see Historical and Revision Notes set out under 10 U.S.C. 5501\], to make appointments of officers below flag rank without the advice and consent of the Senate, to the extent that such authority relates, pursuant to section 11(b) of the said act, as amended (34 U.S.C. 350j) \[see 14 U.S.C. 214, 275\], to officers of the United States Coast Guard.
+(r) The authority vested in the President by section 6 of the act of July 24, 1941, ch. 320, 55 Stat. 604, as amended (34 U.S.C. 350e) \[see Historical and RevisionNotes set out under 10 U.S.C. 5501\], to make appointments of officers below flag rank without the advice and consent of the Senate, to the extent that such authority relates, pursuant to section 11(b) of the said act, as amended (34 U.S.C. 350j) \[see 14 U.S.C. 214, 275\], to officers of the United States Coast Guard.
 
 Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to perform without the approval, ratification, or other action of the President the following described functions to the extent that they relate to the United States Coast Guard:
 
@@ -238,7 +238,7 @@ Sec. 2. The Secretary of Homeland Security is hereby designated and empowered to
 
 (f) The authority vested in the President by section 248 of the said Armed Forces Reserve Act \[see 10 U.S.C. 12681, 12682\], to effect the discharge of commissioned officers of the reserve.
 
-(g) The authority vested in the President by section 6 of the act of February 21, 1946, ch. 34, 60 Stat. 27 \[10 U.S.C. 6323\], as made applicable to the Coast Guard Reserve by section 755(a) of Title 14 of the United States Code, in his discretion, to place upon the retired listany officer of the Coast Guard Reserve, upon his own application, who has completed more than twenty years of active service as described in the said section 6.
+(g) The authority vested in the President by section 6 of the act of February 21, 1946, ch. 34, 60 Stat. 27 \[10 U.S.C. 6323\], as made applicable to the Coast Guard Reserve by section 755(a) of Title 14 of the United States Code, in his discretion, to place upon the retired list any officer of the Coast Guard Reserve, upon his own application, who has completed more than twenty years of active service as described in the said section 6.
 
 Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force at the time of issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
 
@@ -310,7 +310,7 @@ Sec. 4. Existing regulations prescribed by the Director of the Office of Managem
 
 #### Ex. Ord. No. 11023. Delegation of Functions to Secretary of Commerce
 
-Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R.34617; Ex. Ord. No. 13341, May 20, 2004, 69 F.R. 29843, provided:
+Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13341, May 20, 2004, 69 F.R. 29843, provided:
 
 By virtue of the authority vested in me by section 301 of title 3, of the United States Code, and as President of the United States, it is ordered as follows:
 
@@ -336,7 +336,7 @@ Section 1. The Secretary of Commerce is hereby designated and empowered to perfo
 
 (j) The authority contained in section 230(b)(3) of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3030(b)(3)), to appoint temporarily in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized to fill vacancies caused by transfer of officers to the military departments.
 
-(k) The authority vested in the President by section 251 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3061), to transfer to service and jurisdiction of the Department of Defense, as he may deem to be to the best interest of the country, vessels, equipment, stations, and officers of the National Oceanic and Atmospheric Administration; but the Secretary of Commerce may effect such transfers only during the existence of a state of national emergency proclaimed by President. Commissioned officers so transferred shall serve under their commissions in the National Oceanic and Atmospheric Administration and while so serving shall constitute a part of the active armed forces of the United States and shall be under the direct orders of, and shall be subject to the applicable laws, regulations, and orders for the government of, the armed forces to which they are transferred, respectively. The Secretary of Commerce may return such vessels, equipment, stations, and officers to the jurisdiction of the Department of Commerce, but in time of national emergency such return shall be effected only with the concurrence of the Secretary of Defense.
+(k) The authority vested in the President by section 251 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (Public Law 107–372; 33 U.S.C. 3061), to transfer to service and jurisdiction of the Department of Defense, as he may deem to be to the best interest of the country, vessels, equipment, stations, and officers of the National Oceanic and Atmospheric Administration; but the Secretary of Commerce may effect such transfers only during the existence of a state of national emergency proclaimed by President. Commissioned officers so transferred shall serve under their commissions in the National Oceanic and Atmospheric Administration and while so serving shall constitute a part of the active armed forces of the United States and shall be under the direct orders of, and shall be subject to the applicable laws, regulations, and orders for the government of, the armed forces to which they are transferred, respectively. The Secretary of Commerce may return suchvessels, equipment, stations, and officers to the jurisdiction of the Department of Commerce, but in time of national emergency such return shall be effected only with the concurrence of the Secretary of Defense.
 
 (<i>l</i>) The authority vested in the President by section 8 of the Act of August 6, 1947 (61 Stat. 788; 33 U.S.C. 883h) to employ public vessels, and to give instructions for regulating their conduct, to carry out the provisions of the Act of August 6, 1947 \[33 U.S.C. 883a et seq.\]; but the employment by the Secretary of Commerce of vessels, except those of the Department of Commerce or of any subordinate entity thereof, shall require the concurrence of the head of the department or other executive agency having custody or control of the vessel.
 
@@ -346,7 +346,7 @@ Sec. 2. Upon receipt by the Secretary of Commerce from the President or from the
 
 Sec. 3. In connection with making appointments or promotions under authority delegated to him by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, the Secretary of Commerce shall issue to each person appointed or promoted by him thereunder a certificate evidencing the appointment or promotion of such person. Such certificate may be issued in the name of the President.
 
-Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and controlof the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, be deemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
+Sec. 4. Any requirement of any provision of law that commissions of officers under the direction and control of the Secretary of Commerce be signed by the President before the seal of the Department of Commerce may be affixed thereto shall, in the case of officers appointed under the procedure set forth in section 2 of this order and in the case of officers appointed or promoted under authority delegated by subsections (b), (c), (d), (h), (i), and (j) of section 1 of this order, be deemed to be satisfied by signature of the commission or certificate by the Secretary of Commerce, before the departmental seal is affixed thereto.
 
 Sec. 5. The Secretary of Commerce is hereby authorized to accept, in the name of the President, the resignation of a commissioned officer, either permanent or temporary, of the National Oceanic and Atmospheric Administration.
 
@@ -386,7 +386,7 @@ Section 1. The Office of Personnel Management is hereby designated and empowered
 
 (2) The authority vested in the President by Section 203(f) of the Annual and Sick Leave Act of 1951, 65 Stat. 680 (5 U.S.C. 2062(f)) \[5 U.S.C. 6305(a)\], to prescribe regulations governing the granting of leave of absence as described in that Section.
 
-(3) Except as to Presidential appointees, the authority vested in the President (A) by Section 204 of the Act of June 30, 1932, 47 Stat. 404 \[5 U.S.C. 3323(a)\], to exempt from automatic separation from the service under that Section any person when, in his judgment, the public interest so requires and (B) by Section 5(c) of the Civil Service Retirement Act, 70 Stat. 748 (5 U.S.C. 2255(c)) \[5 U.S.C. 8335(c)\], to exempt from automatic separation from the service under Section 5 of that Act \[5 U.S.C. 8335\] any employee when, in his judgment, the public interest so requires.
+(3) Except as to Presidential appointees, the authority vested in the President (A) by Section 204 of the Act of June 30, 1932, 47 Stat. 404 \[5 U.S.C. 3323(a)\], to exempt from automatic separation from the service under that Section any person when, in his judgment, the publicinterest so requires and (B) by Section 5(c) of the Civil Service Retirement Act, 70 Stat. 748 (5 U.S.C. 2255(c)) \[5 U.S.C. 8335(c)\], to exempt from automatic separation from the service under Section 5 of that Act \[5 U.S.C. 8335\] any employee when, in his judgment, the public interest so requires.
 
 (4) The authority vested in the President by Section 9(b) (8) of the Federal Employees Salary Act of 1965 (approved October 29, 1965) \[5 U.S.C. 5595(a)(2)\] to prescribe rules and regulations excluding officers or employees from the application of Section 9 of that Act \[5 U.S.C. 5595\].
 
@@ -460,7 +460,7 @@ Sec. 2. All actions heretofore taken by or for the President with respect to the
 
 #### Ex. Ord. No. 11423. Delegation of Functions to Secretary of State Respecting Certain Facilities Constructed and Maintained on United States Borders
 
-Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R. 29511; Ex. Ord. No. 13284, §14, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13337, §2, Apr. 30, 2004, 69 F.R. 25300, provided:
+Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R. 29511; Ex. Ord. No. 13284, §14, Jan. 23, 2003, 68 F.R. 4076;Ex. Ord. No. 13337, §2, Apr. 30, 2004, 69 F.R. 25300, provided:
 
 WHEREAS the proper conduct of the foreign relations of the United States requires that executive permission be obtained for the construction and maintenance at the borders of the United States of facilities connecting the United States with a foreign country; and
 
@@ -560,7 +560,7 @@ Section 1. <i>General Services Administration</i>. The Administrator of General 
 
 (17) The authority of the President under section 7(b) of the Tennessee Valley Authority Act of May 18, 1933, 48 Stat. 63 (16 U.S.C. 831f(b)), to provide for the transfer to the Tennessee Valley Authority of the use, possession, and control of real or personal property of the United States deemed by the Administrator of General Services to be necessary and proper for the purposes of that Authority as stated in that Act.
 
-(18) The authority of the President under section 1 of the Act of March 4, 1927, c. 505, 44 Stat. 1422 (20 U.S.C. 191), to transfer to the jurisdiction of the Secretary of Agriculture for the purposes of that Act any land belonging to the United States within or adjacent to the District of Columbia located along the Anacostia River North of Benning Bridge.
+(18) The authority of the President under section 1 of the Act of March 4, 1927, c. 505, 44 Stat. 1422 (20 U.S.C. 191), to transfer to the jurisdiction of the Secretary of Agriculture for the purposes of that Act any land belonging to the United States within or adjacent to theDistrict of Columbia located along the Anacostia River North of Benning Bridge.
 
 (19) That part of the authority of the President under section 7(a) of the Act of July 17, 1959, P.L. 86–91, 73 Stat. 216, as amended (20 U.S.C. 905(a)), which consists of authority to prescribe regulations relating to storage (including packing, drayage, unpacking, and transportation to and from storage) of household effects and personal possessions.
 
@@ -616,7 +616,7 @@ Sec. 9. <i>Office of Management and Budget</i>. The Director of the Office of Ma
 
 (3) The authority of the President under section 202 of the Budget and Accounting Procedures Act of September 12, 1950, 64 Stat. 833 (31 U.S.C. 581c) \[31 U.S.C. 1531\] to approve the transfers of balances of appropriations provided for in subsections (a) and (b) of that section.
 
-(4) The authority of the President under the last sentence of section 11 of the Act of June 6, 1924, c. 270, 43 Stat. 463 (40 U.S.C. 72) \[now 40 U.S.C. 8731(d)\], to approve (i) the designation of lands to be acquired by condemnation, (ii) contracts for purchase of lands, and (iii) agreements between the National Capital Planning Commission and officials of the States of Maryland and Virginia.
+(4) The authority of the President under the last sentence of section 11 of the Act of June 6, 1924, c. 270, 43 Stat. 463 (40 U.S.C. 72) \[now 40 U.S.C. 8731(d)\], to approve (i) the designation of lands to be acquired by condemnation, (ii) contracts for purchase of lands, and (iii)agreements between the National Capital Planning Commission and officials of the States of Maryland and Virginia.
 
 (5) The authority of the President under section 1 of the Act of December 22, 1928, c. 48, 45 Stat. 1070 (40 U.S.C. 72a) \[now 40 U.S.C. 8732\], to approve contracts for acquisition of land subject to limited rights reserved to the grantor and for the acquisition of limited permanent rights in land adjoining park property.
 
@@ -708,7 +708,7 @@ Ex. Ord. No. 11784, May 30, 1974, 39 F.R. 19443, which related to the delegation
 
 Ex. Ord. No. 12001, June 29, 1977, 42 F.R. 33709, provided:
 
-By virtue of the authority vested in me by Section 7(b) of the Act of December 11, 1973 (87 Stat. 701) \[Pub.L. 93–179\], hereinafter referred to as the Act, Section 202(b) of the Budget and Accounting Procedures Act of 1950 (64 Stat. 838, 31 U.S.C. 581c(b)) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America it is hereby ordered as follows:
+By virtue of the authority vested in me by Section 7(b) of the Act of December 11, 1973 (87 Stat. 701) \[Pub. L. 93–179\], hereinafter referred to as the Act, Section 202(b) of the Budget and Accounting Procedures Act of 1950 (64 Stat. 838, 31 U.S.C. 581c(b)) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America it is hereby ordered as follows:
 
 Section 1. The Secretary of the Interior, hereinafter referred to as the Secretary, shall, through existing National Park Service programs, provide for the continuation of appropriate commemoration of events relating to the American Revolution until December 31, 1983.
 
@@ -758,7 +758,7 @@ Section 1. The Secretary of Defense is designated to perform, without approval, 
 
 (e) The authority vested in the President by Section 6323(a) of Title 10 of the United States Code, to approve the application of an officer of the Navy or the Marine Corps for retirement after the completion of more than 20 years of active service and to designate the month in which such retirements shall become effective.
 
-(f) The authority vested in the President by Sections 3918 and 8918 of Title 10 of the United States Code, to approve the request of a regular commissioned officer of the Army or the Air Force to retire after at least 30 years of service.
+(f) The authority vested in the President by Sections 3918 and 8918 of Title 10 of the United States Code, to approve the request of a regular commissioned officerof the Army or the Air Force to retire after at least 30 years of service.
 
 (g) Nothing in this Section shall be deemed to delegate the authority vested in the President by Section 618(c) of Title 10 to remove a name from a selection board report.
 
@@ -858,7 +858,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 (b) The Secretary of the Treasury shall submit the following reports:
 
-1\. Report on the National Emergency With Respect to Libya, Executive Order 12543 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+1\. Report on the National Emergency With Respect to Libya, Executive Order 12543 \[formerly 50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 2\. Report on the National Emergency With Respect to the Western Balkans, Executive Order 13219 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
@@ -880,7 +880,7 @@ Section 1. The functions of the President of submitting certain recurring report
 
 11\. Report on the National Emergency With Respect to Sudan, Executive Order 13067 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
-12\. Report on the National Emergency With Respect to Iraq, Executive Order 12722 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
+12\. Report on the National Emergency With Respect to Iraq, Executive Order 12722 \[formerly 50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
 13\. Report on the National Emergency With Respect to the Development Fund for Iraq, Executive Order 13303 \[50 U.S.C. 1701 note\], consistent with section 401(c) of the National Emergencies Act, 50 U.S.C. 1641(c), and section 204(c) of the International Emergency Economic Powers Act, 50 U.S.C. 1703(c);
 
@@ -918,7 +918,7 @@ Sec. 2. Reports to the Congress described in certain Senate resolutions shall be
 
 3\. Report on Chemical Weapons Convention Compliance, consistent with Condition 10(C) of the Resolution of Advice and Consent to the Chemical Weapons Convention adopted by the Senate on April 24, 1997; and
 
-4\. Report on Moscow Treaty Implementation, consistent with section 2(2) of the Resolution of Advice andConsent to Ratification of the Treaty on Strategic Offensive Reductions of May 24, 2002.
+4\. Report on Moscow Treaty Implementation, consistent with section 2(2) of the Resolution of Advice and Consent to Ratification of the Treaty on Strategic Offensive Reductions of May 24, 2002.
 
 (b) The Secretary of Commerce shall submit the Report on the Status of the World Intellectual Property Organization Copyright Treaty and the Performance and Phonograms Treaty, consistent with the Senate's resolution of ratification of October 21, 1998.
 
@@ -948,7 +948,7 @@ Section 1. (a) Except with respect to facilities covered by Executive Order 1048
 
 &emsp;(iii) Refer the application and pertinent information to, and request the views of, such other Federal Government department and agency heads as the Secretary of State deems appropriate.
 
-(c) All Federal Government officials consulted by the Secretary of State pursuant to paragraph (b)(ii) or (b)(iii) of this section shall provide their views and render such assistance as may be requested, consistent with their authority, in a timely manner, but not to exceed 90 days from the date of the request.
+(c) All Federal Government officials consulted by the Secretary of State pursuant to paragraph (b)(ii) or (b)(iii) of this section shall provide their views and render such assistance as may be requested, consistentwith their authority, in a timely manner, but not to exceed 90 days from the date of the request.
 
 (d) Should any of the Federal Government officials consulted pursuant to paragraph (b)(ii) or (b)(iii) of this section request from the Department of State additional information that is necessary for them to provide their views or to render such assistance as may be required, the time elapsed between the date of that request for additional information and the date such additional information is received shall not be counted in calculating the time period prescribed in paragraph (c) of this section.
 
@@ -1047,6 +1047,36 @@ Sec. 4. <i>General Provisions</i>. (a) This order shall take effect on October 1
 (b) Nothing in this order shall be construed to limit or otherwise affect the authority of the President as Commander in Chief of the Armed Forces of the United States, or under the Constitution and laws of the United States to nominate or to make or terminate appointments.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Memorandum on Assignment of Reporting Functions Under the Intelligence Reform and Terrorism Prevention Act of 2004
+
+Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, as amended by Memorandum of President of the United States, July 1, 2005, 70 F.R. 41341, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of Defense\[,\] the Director of National Intelligence\[,\] the Attorney General\[, and\] the Secretary of Homeland Security
+
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code:
+
+1\. The reporting functions of the President under sections 4026(a)(4)(A), 4026(c)(2), 7104(e)(4)(A), 7202(d), 7204(c)(1)–(2), and 7120 \[118 Stat. 3803\] of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 118 Stat. 3638) (the “Act”) \[8 U.S.C. 1777(d), 22 U.S.C. 2656 note, 2751 note, 7555\] are hereby assigned to the Secretary of State.
+
+The reporting function under section 7202(d) of the Act \[8 U.S.C. 1777(d)\] on the Human Smuggling and Trafficking Center shall be coordinated with the Attorney General and the Secretary of Homeland Security.
+
+Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary of State information the Secretary requests to perform such functions, in the format and on the schedule specified by the Secretary.
+
+2\. The reporting function of the President under section 7104(i) of the Act \[22 U.S.C. 7536\] is hereby assigned to the Secretary of Defense.
+
+Heads of departments and agencies shall, to the extent permitted by law, furnish to the Secretary of Defense information the Secretary requests to perform such functions, in the format and on the schedule specified by the Secretary.
+
+3\. The reporting functions under sections 1022 and 1094 of the Act \[50 U.S.C. 404<i>o</i>–1, 401 note\] are hereby assigned to the Director of National Intelligence.
+
+Heads of departments and agencies shall, to the extent permitted by law, furnish to the Director of National Intelligence information the Director requests to perform such functions, in the format and on the schedule specified by the Director.
+
+The Secretaries of State and Defense, and the Director of National Intelligence shall perform such functions in a manner consistent with the President's constitutional authority to withhold information the disclosure of which could impair foreign relations, national security, the deliberative processes of the Executive, or the performance of the Executive's constitutional duties.
+
+Any reference in this memorandum to the provision of any Act shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision.
+
+The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

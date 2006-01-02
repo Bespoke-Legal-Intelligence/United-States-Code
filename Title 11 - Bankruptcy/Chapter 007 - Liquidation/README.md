@@ -10,7 +10,7 @@
 | [704\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000704%20-%20Duties%20of%20trustee.md) | Duties of trustee. |
 | [705\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000705%20-%20Creditors%E2%80%99%20committee.md) | Creditors’ committee. |
 | [706\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000706%20-%20Conversion.md) | Conversion. |
-| [707\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000707%20-%20Dismissal.md) | Dismissal. |
+| [707\.](Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000707%20-%20Dismissal%20of%20a%20case%20or%20conversion%20to%20a%20case%20under%20chapter%2011%20or%2013.md) | Dismissal of a case or conversion to a case under chapter 11 or 13. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,7 +25,7 @@
 | [725\.](Subchapter%20002%20%28II%29%20-%20Collection%2C%20Liquidation%2C%20and%20Distribution%20of%20the%20Estate/%C2%A7%2000725%20-%20Disposition%20of%20certain%20property.md) | Disposition of certain property. |
 | [726\.](Subchapter%20002%20%28II%29%20-%20Collection%2C%20Liquidation%2C%20and%20Distribution%20of%20the%20Estate/%C2%A7%2000726%20-%20Distribution%20of%20property%20of%20the%20estate.md) | Distribution of property of the estate. |
 | [727\.](Subchapter%20002%20%28II%29%20-%20Collection%2C%20Liquidation%2C%20and%20Distribution%20of%20the%20Estate/%C2%A7%2000727%20-%20Discharge.md) | Discharge. |
-| [728\.](Subchapter%20002%20%28II%29%20-%20Collection%2C%20Liquidation%2C%20and%20Distribution%20of%20the%20Estate/%C2%A7%2000728%20-%20Special%20tax%20provisions.md) | Special tax provisions. |
+| \[728. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,6 +45,7 @@
 | [750\.](Subchapter%20003%20%28III%29%20-%20Stockbroker%20Liquidation/%C2%A7%2000750%20-%20Distribution%20of%20securities.md) | Distribution of securities. |
 | [751\.](Subchapter%20003%20%28III%29%20-%20Stockbroker%20Liquidation/%C2%A7%2000751%20-%20Customer%20name%20securities.md) | Customer name securities. |
 | [752\.](Subchapter%20003%20%28III%29%20-%20Stockbroker%20Liquidation/%C2%A7%2000752%20-%20Customer%20property.md) | Customer property. |
+| [753\.](Subchapter%20003%20%28III%29%20-%20Stockbroker%20Liquidation/%C2%A7%2000753%20-%20Stockbroker%20liquidation%20and%20forward%20contract%20merchants%2C%20commodity%20brokers%2C%20stockbrokers%2C%20financial%20institutions%2C%20financial%20participants%E2%80%A6.md) | Stockbroker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,6 +59,7 @@
 | [764\.](Subchapter%20004%20%28IV%29%20-%20Commodity%20Broker%20Liquidation/%C2%A7%2000764%20-%20Voidable%20transfers.md) | Voidable transfers. |
 | [765\.](Subchapter%20004%20%28IV%29%20-%20Commodity%20Broker%20Liquidation/%C2%A7%2000765%20-%20Customer%20instructions.md) | Customer instructions. |
 | [766\.](Subchapter%20004%20%28IV%29%20-%20Commodity%20Broker%20Liquidation/%C2%A7%2000766%20-%20Treatment%20of%20customer%20property.md) | Treatment of customer property. |
+| [767\.](Subchapter%20004%20%28IV%29%20-%20Commodity%20Broker%20Liquidation/%C2%A7%2000767%20-%20Commodity%20broker%20liquidation%20and%20forward%20contract%20merchants%2C%20commodity%20brokers%2C%20stockbrokers%2C%20financial%20institutions%2C%20financial%E2%80%A6.md) | Commodity broker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -73,6 +75,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–8, title I, §102(k), title VII, §719(b)(2), title IX, §907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in item 707, and struck out item 728 “Special tax provisions”.
 
 2000—Pub. L. 106–554, §1(a)(5) \[title I, §112(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–396, added subchapter V heading and items 781 to 784.
 

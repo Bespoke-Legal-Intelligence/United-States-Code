@@ -26,7 +26,3 @@ In subsection (a) the words “necessary rules and” are omitted as surplusage,
 
 1976—Subsec. (a). Pub. L. 94–258 struck out “of the Navy, subject to approval by the President,” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7437 of this title; title 43 section 1601.
-

@@ -28,7 +28,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 &emsp;(C) all relevant data bearing on the physical or other technical effect such additive is intended to produce, and the quantity of such additive required to produce such effect;
 
-&emsp;(D) a description of practicable methods for determining the quantity of such additive in or on food, and any substance formed in or on food, because of its use; and
+&emsp;(D) a description of practicable methods for determining the quantity of such additive inor on food, and any substance formed in or on food, because of its use; and
 
 &emsp;(E) full reports of investigations made with respect to the safety for use of such additive, including full information as to the methods and controls used in conducting such investigations.
 
@@ -92,7 +92,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (3) The court, on such judicial review, shall not sustain the order of the Secretary if he failed to comply with any requirement imposed on him by subsection (f)(2) of this section.
 
-(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such termsand conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
+(4) If application is made to the court for leave to adduce additional evidence, the court may order such additional evidence to be taken before the Secretary and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper, if such evidence is material and there were reasonable grounds for failure to adduce such evidence in the proceedings below. The Secretary may modify his findings as to the facts and order by reason of the additional evidence so taken, and shall file with the court such modified findings and order.
 
 (5) The judgment of the court affirming or setting aside, in whole or in part, any order under this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28. The commencement of proceedings under this section shall not, unless specifically ordered by the court to the contrary, operate as a stay of an order.
 
@@ -108,7 +108,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) of this section is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b) of this section.
 
-(B) The Secretary is authorized to promulgate regulations to identify the circumstances in which a petition shall be filed under subsection (b) of this section, and shall consider criteria such as the probable consumption of such food contact substance and potential toxicity of the food contact substance in determining the circumstances in which a petition shall be filed under subsection (b) of this section.
+(B) The Secretary is authorized to promulgate regulations to identify the circumstances inwhich a petition shall be filed under subsection (b) of this section, and shall consider criteria such as the probable consumption of such food contact substance and potential toxicity of the food contact substance in determining the circumstances in which a petition shall be filed under subsection (b) of this section.
 
 (4) The Secretary shall keep confidential any information provided in a notification under paragraph (1) for 120 days after receipt by the Secretary of the notification. After the expiration of such 120 days, the information shall be available to any interested party except for any matter in the notification that is a trade secret or confidential commercial information.
 
@@ -188,7 +188,7 @@ Section effective Sept. 6, 1958, see section 6(a) of Pub. L. 85–929, set out a
 
 #### Transfer of Functions
 
-Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970,§2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Glass and Ceramic Ware
 

@@ -90,7 +90,7 @@ In clause (3)(A), the words “money, property, services, or” are omitted as b
 
 In clause (3)(B), the words “or procurement of property or services for the direct benefit or use of the Government” are added for consistency in subtitle V of the revised title.
 
-In clause (4)(A), the words “or benefits” are omitted as being included in “assistance”. Subclause (ii) is included for consistency in the revised title because the District of Columbia is stated when a provision ismeant to apply to the District. In subclause (vi), the word “grouping” is omitted as being included in “political subdivision or instrumentality”. In subclauses (vii)–(ix), the words “profit or nonprofit” are omitted as surplus. In subclause (ix), the words “individual of the United States” are substituted for “domestic . . . individual” for clarity.
+In clause (4)(A), the words “or benefits” are omitted as being included in “assistance”. Subclause (ii) is included for consistency in the revised title because the District of Columbia is stated when a provision is meant to apply to the District. In subclause (vi), the word “grouping” is omitted as being included in “political subdivision or instrumentality”. In subclauses (vii)–(ix), the words “profit or nonprofit” are omitted as surplus. In subclause (ix), the words “individual of the United States” are substituted for “domestic . . . individual” for clarity.
 
 #### Amendments
 
@@ -158,7 +158,7 @@ Federal financial assistance.—The term ‘Federal financial assistance’ has 
 
 &emsp;“(4)
 
-Local government.—The term ‘local government’ means a political subdivision of a State that is a unit of general local government (as defined under section 7501(a)(11) of title 31, United States Code).
+Local government.—The term ‘local government’ means a political subdivision of a State that isa unit of general local government (as defined under section 7501(a)(11) of title 31, United States Code).
 
 &emsp;“(5)
 
@@ -272,7 +272,7 @@ Deadline.—All actions required under this section shall be carried out not lat
 
 “(a)
 
-In General.—The Government Accountability Office shall evaluate the effectiveness of this Act. Not later than 6 years after the date of the enactment of this Act \[Nov. 20, 1999\], the evaluation shall be submitted to the lead agency, the Director, and Congress. The evaluation shall be performed with input from State, local, and tribal governments, and nonprofit organizations.
+In General.—The Government Accountability Office shall evaluate the effectiveness of this Act. Notlater than 6 years after the date of the enactment of this Act \[Nov. 20, 1999\], the evaluation shall be submitted to the lead agency, the Director, and Congress. The evaluation shall be performed with input from State, local, and tribal governments, and nonprofit organizations.
 
 “(b)
 
@@ -346,7 +346,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelinesissued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 
@@ -376,7 +376,7 @@ Sec. 2. <i>Governmentwide Effect.</i>
 
 (a) To the extent permitted by law and upon resolution of differences and promulgation of final regulations pursuant to section 3 of this order, the debarment, suspension, or other exclusion of a participant in a procurement activity under the Federal Acquisition Regulation, or in a nonprocurement activity under regulations issued pursuant to Executive Order No. 12549, shall have governmentwide effect. No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.
 
-(b) An agency may grant an exception permitting a debarred, suspended, or otherwise excluded party to participate in procurement activities of that agency tothe extent exceptions are authorized under the Federal Acquisition Regulation, or to participate in nonprocurement activities of that agency to the extent exceptions are authorized under regulations issued pursuant to Executive Order No. 12549.
+(b) An agency may grant an exception permitting a debarred, suspended, or otherwise excluded party to participate in procurement activities of that agency to the extent exceptions are authorized under the Federal Acquisition Regulation, or to participate in nonprocurement activities of that agency to the extent exceptions are authorized under regulations issued pursuant to Executive Order No. 12549.
 
 Sec. 3. <i>Implementation.</i>
 

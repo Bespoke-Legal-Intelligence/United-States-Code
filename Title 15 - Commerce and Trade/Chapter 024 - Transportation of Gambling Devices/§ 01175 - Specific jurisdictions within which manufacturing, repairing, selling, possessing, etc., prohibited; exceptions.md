@@ -42,7 +42,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;&emsp;&emsp;(ii) that is part of a voyage to another State or to a foreign country; and
 
-&emsp;&emsp;&emsp;(iii) in which the vessel reaches the other State or foreign country within 3 days after leaving the State in which it begins.
+&emsp;&emsp;&emsp;(iii) in which the vessel reaches the other State or foreign country within 3days after leaving the State in which it begins.
 
 #### (c) Exception for Alaska
 
@@ -60,7 +60,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;(C) is of at least 60 hours duration.
 
-(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Pub. L. 102–251, title II, §202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, §1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, §1106, Oct. 19,1996, 110 Stat. 3967; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §147\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
+(Jan. 2, 1951, ch. 1194, §5, 64 Stat. 1135; Pub. L. 102–251, title II, §202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, §1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, §1106, Oct. 19, 1996, 110 Stat. 3967; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §147\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
 
 #### Amendments
 

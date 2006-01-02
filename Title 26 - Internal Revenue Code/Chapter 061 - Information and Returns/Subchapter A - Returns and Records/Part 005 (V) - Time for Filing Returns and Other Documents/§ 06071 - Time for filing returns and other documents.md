@@ -12,7 +12,11 @@ Returns made under subparts B and C of part III of this subchapter which are fil
 
 &emsp;&emsp;<b>For payment of special taxes before engaging in certain trades and businesses, see section 4901 and section 5142.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 85–859, title II, §204(1), Sept. 2, 1958, 72 Stat. 1428; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2002(a), July 22, 1998, 112 Stat. 724.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 85–859, title II, §204(1), Sept. 2, 1958, 72 Stat. 1428; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2002(a), July 22, 1998, 112 Stat. 724; Pub. L. 109–59, title XI, §11125(b)(21), Aug. 10, 2005, 119 Stat. 1957.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 109–59, title XI, §11125(b)(21), (c), Aug. 10, 2005, 119 Stat. 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (c) of this section is amended by substituting “section 5732” for “section 5142”.</i>
 
 #### Amendments
 
@@ -22,6 +26,10 @@ Returns made under subparts B and C of part III of this subchapter which are fil
 
 1958—Subsec. (b). Pub. L. 85–859 inserted reference to section 5142 of this title.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title II, §2002(c), July 22, 1998, 112 Stat. 724, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns required to be filed after December 31, 1999.”
@@ -29,8 +37,4 @@ Pub. L. 105–206, title II, §2002(c), July 22, 1998, 112 Stat. 724, provided t
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3302 of this title.
 

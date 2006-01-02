@@ -2,7 +2,7 @@
 
 It is the purpose of this part—
 
-&emsp;(1) to expand the supply of permanent affordable housing for homeless individuals andmembers of low- and very low-income families by utilizing the energies and talents of economically disadvantaged young adults;
+&emsp;(1) to expand the supply of permanent affordable housing for homeless individuals and members of low- and very low-income families by utilizing the energies and talents of economically disadvantaged young adults;
 
 &emsp;(2) to provide economically disadvantaged young adults with opportunities for meaningful work and service to their communities in helping to meet the housing needs of homeless individuals and members of low- and very low-income families;
 

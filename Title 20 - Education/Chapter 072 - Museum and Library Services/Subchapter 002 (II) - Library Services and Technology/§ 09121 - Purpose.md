@@ -10,7 +10,7 @@ It is the purpose of this subchapter—
 
 &emsp;(4) to encourage resource sharing among all types of libraries for the purpose of achieving economical and efficient delivery of library services to the public.
 
-(Pub. L. 94–462, title II, §212, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\],Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 108–81, title II, §201, Sept. 25, 2003, 117 Stat. 997.)
+(Pub. L. 94–462, title II, §212, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 108–81, title II, §201, Sept. 25, 2003, 117 Stat. 997.)
 
 #### Amendments
 

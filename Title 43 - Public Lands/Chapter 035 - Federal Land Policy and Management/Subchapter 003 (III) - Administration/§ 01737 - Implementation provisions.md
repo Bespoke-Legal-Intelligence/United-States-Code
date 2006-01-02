@@ -22,7 +22,7 @@ In accepting such services of individuals as volunteers, the Secretary—
 
 &emsp;(1) shall not permit the use of volunteers in hazardous duty or law enforcement work, or in policymaking processes or to displace any employee; and
 
-&emsp;(2) may provide for services or costs incidental to the utilization of volunteers, includingtransportation, supplies, lodging, subsistence, recruiting, training, and supervision.
+&emsp;(2) may provide for services or costs incidental to the utilization of volunteers, including transportation, supplies, lodging, subsistence, recruiting, training, and supervision.
 
 #### (f) Federal employment status of volunteers
 
@@ -39,12 +39,6 @@ Volunteers shall not be deemed employees of the United States except for the pur
 Effective with fiscal years beginning after September 30, 1984, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of subsection (d) of this section, but not more than $250,000 may be appropriated for any one fiscal year.
 
 (Pub. L. 94–579, title III, §307, Oct. 21, 1976, 90 Stat. 2766; Pub. L. 98–540, §2, Oct. 24, 1984, 98 Stat. 2718; Pub. L. 101–286, title II, §204(c), May 9, 1990, 104 Stat. 175.)
-
-#### References in Text
-
-The civil service classification laws, referred to in subsec. (d), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
-
-The tort claims provisions of title 28, referred to in subsec. (f)(1), is the Federal Tort Claims Act, which is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

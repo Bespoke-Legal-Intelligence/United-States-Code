@@ -34,7 +34,7 @@ The Director shall—
 
 &emsp;(6) represent the Department on the Intergovernmental Panel on Climate Change; and
 
-&emsp;(7) review all Department budget items relating to climate change issues, including specifically the research budget to be submitted by the Secretary to the Office of Science andTechnology Policy and the Office of Management and Budget.
+&emsp;(7) review all Department budget items relating to climate change issues, including specifically the research budget to be submitted by the Secretary to the Office of Science and Technology Policy and the Office of Management and Budget.
 
 (Pub. L. 101–624, title XXIV, §2402, Nov. 28, 1990, 104 Stat. 4058.)
 

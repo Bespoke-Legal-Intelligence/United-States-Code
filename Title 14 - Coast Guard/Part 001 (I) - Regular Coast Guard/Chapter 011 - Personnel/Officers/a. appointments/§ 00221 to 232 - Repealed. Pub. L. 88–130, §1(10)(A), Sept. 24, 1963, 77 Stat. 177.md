@@ -1,6 +1,6 @@
 ### \[§§221 to 232. Repealed. Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177\]
 
-Section 221, act Aug. 4, 1949, ch. 393, 63 Stat. 512, authorized filling of vacancies in active list of regular commissioned officers. See sections 251, 271(b) of this title.
+Section 221, act Aug. 4, 1949, ch. 393, 63 Stat. 512, authorized filling of vacancies in active list of regularcommissioned officers. See sections 251, 271(b) of this title.
 
 Section 222, acts Aug. 4, 1949, ch. 393, 63 Stat. 512; May 14, 1960, Pub. L. 86–474, §1(16), 74 Stat. 146, related to promotion to flag rank. See section 256 of this title.
 

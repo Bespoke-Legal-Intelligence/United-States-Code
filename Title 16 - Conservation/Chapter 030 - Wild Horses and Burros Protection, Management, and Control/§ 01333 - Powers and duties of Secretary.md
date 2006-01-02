@@ -20,7 +20,7 @@ All wild free-roaming horses and burros are hereby declared to be under the juri
 
 #### (c) Title of transferee to limited number of excess animals adopted for requisite period
 
-Where excess animals have been transferred to a qualified individual for adoption and privatemaintenance pursuant to this chapter and the Secretary determines that such individual has provided humane conditions, treatment and care for such animal or animals for a period of one year, the Secretary is authorized upon application by the transferee to grant title to not more than four animals to the transferee at the end of the one-year period.
+Where excess animals have been transferred to a qualified individual for adoption and private maintenance pursuant to this chapter and the Secretary determines that such individual has provided humane conditions, treatment and care for such animal or animals for a period of one year, the Secretary is authorized upon application by the transferee to grant title to not more than four animals to the transferee at the end of the one-year period.
 
 #### (d) Loss of status as wild free-roaming horses and burros; exclusion from coverage
 

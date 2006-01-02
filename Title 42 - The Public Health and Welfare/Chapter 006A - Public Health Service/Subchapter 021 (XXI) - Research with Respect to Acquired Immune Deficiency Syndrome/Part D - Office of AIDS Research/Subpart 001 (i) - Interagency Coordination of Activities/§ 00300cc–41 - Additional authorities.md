@@ -38,7 +38,7 @@ The Director of the Office shall each fiscal year prepare and submit to the Secr
 
 #### (c) Projects for cooperation among public and private health entities
 
-In carrying out subsection (a) of this section, the Director of the Office shall establish projects to promote cooperation among Federal agencies, State, local, and regional public health agencies, and private entities, in research concerning the diagnosis, prevention, and treatment of acquired immune deficiency syndrome.
+In carrying out subsection (a) of this section, the Director of the Office shall establish projects to promote cooperation among Federal agencies, State, local, and regional public healthagencies, and private entities, in research concerning the diagnosis, prevention, and treatment of acquired immune deficiency syndrome.
 
 (July 1, 1944, ch. 373, title XXIII, §2354, formerly §2351, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3076; renumbered §2354 and amended Pub. L. 103–43, title XVIII, §1801(a)(2), (b), June 10, 1993, 107 Stat. 192, 196.)
 
@@ -60,7 +60,7 @@ Subsec. (a)(1). Pub. L. 103–43, §1801(b)(2)(B), redesignated par. (3) as (1) 
 
 Subsec. (a)(2). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (4) as (2), substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”, and struck out former par. (2) which read as follows: “shall coordinate activities relating to acquired immune deficiency syndrome conducted by the national research institutes and the agencies of the National Institutes of Health;”.
 
-Subsec. (a)(3). Pub. L. 103–43, §1801(b)(2)(B), (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes ofHealth,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
+Subsec. (a)(3). Pub. L. 103–43, §1801(b)(2)(B), (C), (E), redesignated par. (5) as (3), struck out “, in consultation with the advisory council for the appropriate national research institute of the National Institutes of Health,” after “may” in introductory provisions, and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome” in subpar. (A). Former par. (3) redesignated (1).
 
 Subsec. (a)(4). Pub. L. 103–43, §1801(b)(2)(B), (E), redesignated par. (6) as (4) and substituted “AIDS research” for “research relating to acquired immune deficiency syndrome”. Former par. (4) redesignated (2).
 

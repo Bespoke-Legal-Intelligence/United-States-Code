@@ -22,7 +22,7 @@
 
 #### (2) Redistribution of amounts returned late in an academic year
 
-&emsp;In any academic year in which amounts are returned to the eligible agency under section 2351 or 2352 of this title and the eligible agency is unable to reallocate such amounts according to such sections in time for such amounts to be expended in such academic year, the eligible agency shall retain such amounts for distribution in combination with amounts provided under section 2322(a)(1) of this title for the following academic year.
+&emsp;In any academic year in which amounts are returned to the eligible agency under section 2351 or 2352 of this title and the eligible agency is unable to reallocate such amounts according to such sections in time for such amountsto be expended in such academic year, the eligible agency shall retain such amounts for distribution in combination with amounts provided under section 2322(a)(1) of this title for the following academic year.
 
 #### (c) Construction
 

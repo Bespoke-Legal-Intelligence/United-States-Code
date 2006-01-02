@@ -6,7 +6,7 @@ The Secretary is authorized to conduct data collection, dissemination, research,
 
 #### (b) Competitive awards
 
-Research and program evaluation activities carried out under this subpart shall be supported through competitive grants, contracts, and cooperative agreements awarded to institutions of higher education, nonprofit organizations, State educational agencies, and local educational agencies.
+Research and program evaluation activities carried out under this subpart shall be supportedthrough competitive grants, contracts, and cooperative agreements awarded to institutions of higher education, nonprofit organizations, State educational agencies, and local educational agencies.
 
 #### (c) Administration
 

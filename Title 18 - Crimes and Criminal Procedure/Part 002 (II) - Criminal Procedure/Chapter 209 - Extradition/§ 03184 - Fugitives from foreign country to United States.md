@@ -16,7 +16,7 @@ Minor changes of phraseology were made.
 
 1990—Pub. L. 101–647 inserted “or, if there is reason to believe the person will shortly enter the United States” after “are not known” in second sentence.
 
-1988—Pub. L. 100–690 inserted after first sentence “Such complaint may be filed before and such warrantmay be issued by a judge or magistrate of the United States District Court for the District of Columbia if the whereabouts within the United States of the person charged are not known.”
+1988—Pub. L. 100–690 inserted after first sentence “Such complaint may be filed before and such warrant may be issued by a judge or magistrate of the United States District Court for the District of Columbia if the whereabouts within the United States of the person charged are not known.”
 
 1968—Pub. L. 90–578 substituted “magistrate” for “commissioner” in two places.
 

@@ -122,7 +122,7 @@
 
 (5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
-(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. Anamendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(6) When a committee has reported, or has been discharged from further consideration of aresolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (7) Motions to postpone, made with respect to the discharge from committee, or the consideration of, a resolution and motions to proceed to the consideration of other business shall be decided without debate. Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 
@@ -186,7 +186,7 @@ Subsec. (c)(1)(A)(iv). Pub. L. 101–508, §12021(a)(2), added cl. (iv).
 
 Subsec. (c)(1)(A)(iii). Pub. L. 101–239, §7881(h)(2), realigned margin.
 
-1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
+1987—Subsec. (a)(3)(A)(i). Pub. L. 100–203, §9331(a), substituted “for plan years beginning after December 31, 1987, an amount equal to the sum of $16 plus the additional premium (if any) determined under subparagraph (E)” for “for plan years beginning after December 31, 1985, an amount equal to $8.50”.
 
 Subsec. (a)(3)(E). Pub. L. 100–203, §9331(b), added subpar. (E).
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 #### Transitional Rule
 
-Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by thissection \[amending this section\] shall not apply to plan years beginning before the earlier of—
+Section 774(c) of Pub. L. 103–465 provided that: “In the case of a regulated public utility described in section 7701(a)(33)(A)(i) of the Internal Revenue Code of 1986 \[26 U.S.C. 7701(a)(33)(A)(i)\], the amendments made by this section \[amending this section\] shall not apply to plan years beginning before the earlier of—
 
 &emsp;“(1) January 1, 1998, or
 

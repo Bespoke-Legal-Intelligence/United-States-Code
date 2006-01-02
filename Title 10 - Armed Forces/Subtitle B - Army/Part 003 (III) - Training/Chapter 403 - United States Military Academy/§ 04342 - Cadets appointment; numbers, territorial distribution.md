@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) are, or who died while they were, retired with pay or granted retired or retainer pay;
 
-&emsp;&emsp;(C) are serving as members of reserve components and are credited with at least eight years of service computed under section 12733 of this title; or
+&emsp;&emsp;(C) are serving as members of reserve components and are credited with at least eightyears of service computed under section 12733 of this title; or
 
 &emsp;&emsp;(D) would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
 
@@ -90,7 +90,7 @@
 
 (4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of the Corps of Cadets of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7,1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, §532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, §524(a), title X, §1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, §532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, §524(a), title X, §1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603.)
 
 Historical and Revision Notes
 
@@ -323,10 +323,6 @@ Section 803(a) of Pub. L. 94–106 provided that: “Notwithstanding any other p
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 
 Section 803(c) of Pub. L. 94–106 provided that: “It is the sense of Congress that, subject to the provisions of subsection (a) \[note set out above\], the Secretaries of the military departments shall, under the direction of the Secretary of Defense, continue to exercise the authority granted them in chapters 403, 603 and 903 of title 10, United States Code, but such authority must be exercised within a program providing for the orderly and expeditious admission of women to the academies, consistent with the needs of the services, with the implementation of such program upon enactment of this Act \[Oct. 7, 1975\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4343, 4344 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “cadets”.</i>
 

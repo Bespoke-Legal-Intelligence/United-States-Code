@@ -2,11 +2,11 @@
 
 #### (a) General rule
 
-Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.
+Notwithstanding any other provision of State or Federal law (other than paragraphs (8)(E), (8)(F), and (10)(B) of section 1821(e) of this title, paragraphs (8)(E), (8)(F), and (10)(B) of section 1787(c) of this title, or any order authorized under section 78eee(b)(2) of title 15), the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract (except as provided in section 561(b)(2) of title 11).
 
 #### (b) Limitation on obligation to make payment
 
-The only obligation, if any, of a financial institution to make payment with respect to covered contractual payment obligations to another financial institution shall be equal to itsnet obligation to such other financial institution, and no such obligation shall exist if there is no net obligation.
+The only obligation, if any, of a financial institution to make payment with respect to covered contractual payment obligations to another financial institution shall be equal to its net obligation to such other financial institution, and no such obligation shall exist if there is no net obligation.
 
 #### (c) Limitation on right to receive payment
 
@@ -20,5 +20,19 @@ The net entitlement of any failed financial institution, if any, shall be paid t
 
 This section shall be given effect notwithstanding that a financial institution is a failed financial institution.
 
-(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374.)
+#### (f) Enforceability of security agreements
+
+The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than paragraphs (8)(E), (8)(F), and (10)(B) of section 1821(e) of this title, paragraphs (8)(E), (8)(F), and (10)(B) of section 1787(c) of this title, and section 78eee(b)(2) of title 15).
+
+(Pub. L. 102–242, title IV, §403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(b), Apr. 20, 2005, 119 Stat. 168.)
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–8, §906(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.”
+
+Subsec. (f). Pub. L. 109–8, §906(b)(2), added subsec. (f).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 

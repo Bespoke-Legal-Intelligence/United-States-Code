@@ -1,6 +1,6 @@
 ### §715. Property loss; personal injury or death: activities under certain sections of this title
 
-(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
+(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force mayprescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
 
 &emsp;(1) damage to, or loss of, real property, including damage or loss incident to use and occupancy;
 
@@ -10,7 +10,7 @@
 
 (b) A claim may be allowed under subsection (a) only if—
 
-&emsp;(1) it is presented in writing within two years after it accrues, except that if the claimaccrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
+&emsp;(1) it is presented in writing within two years after it accrues, except that if the claim accrues in time of war or armed conflict or if such a war or armed conflict intervenes within two years after it accrues, and if good cause is shown, the claim may be presented not later than two years after the war or armed conflict is terminated;
 
 &emsp;(2) it is not covered by section 2734 of title 10 or section 2672 of title 28;
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Assistant Secretary shall be responsible for the administration, implementation, and making of grants and contracts under this subchapter and shall not delegate authority under this subchapter to any other individual, agency, or organization.
+The Assistant Secretary shall be responsible for the administration, implementation, andmaking of grants and contracts under this subchapter and shall not delegate authority under this subchapter to any other individual, agency, or organization.
 
 #### (b) Report
 
@@ -78,7 +78,7 @@ Another prior section 3035d, Pub. L. 89–73, title IV, §423, as added Pub. L. 
 
 Section 3035e, Pub. L. 89–73, title IV, §426, as added Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1605; amended Pub. L. 98–459, title IV, §410(b), Oct. 9, 1984, 98 Stat. 1785; Pub. L. 102–375, title I, §102(b)(9)(D), Sept. 30, 1992, 106 Stat. 1202, related to utility and home heating cost demonstration projects.
 
-Another prior section 3035e, Pub. L. 89–73, title IV, §424, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1543, provided for national impact demonstrations, prior to the general amendment of this subchapter by Pub. L. 97–115.
+Another prior section 3035e, Pub. L. 89–73, title IV, §424, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct.18, 1978, 92 Stat. 1543, provided for national impact demonstrations, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 Section 3035f, Pub. L. 89–73, title IV, §427, as added Pub. L. 100–175, title I, §156(e)(1), Nov. 29, 1987, 101 Stat. 955; amended Pub. L. 102–375, title IV, §408, Sept. 30, 1992, 106 Stat. 1249; Pub. L. 103–171, §3(a)(7), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(B), Oct. 30, 2000, 114 Stat. 1739, related to ombudsman, legal assistance, and advocacy demonstration projects.
 
@@ -104,7 +104,7 @@ Section 3035m, Pub. L. 89–73, title IV, §429E, as added Pub. L. 102–375, ti
 
 Section 3035n, Pub. L. 89–73, title IV, §429F, as added Pub. L. 102–375, title IV, §415, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(C), Oct. 30, 2000, 114 Stat. 1739, related to demonstration programs for older individuals with developmental disabilities.
 
-Section 3035<i>o</i>, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat.1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
+Section 3035<i>o</i>, Pub. L. 89–73, title IV, §429G, as added Pub. L. 102–375, title IV, §416, Sept. 30, 1992, 106 Stat. 1257; amended Pub. L. 103–171, §§2(17), 3(a)(11), (13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to housing demonstration programs.
 
 Section 3035p, Pub. L. 89–73, title IV, §429H, as added Pub. L. 102–375, title IV, §417, Sept. 30, 1992, 106 Stat. 1260; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to private resource enhancement projects.
 

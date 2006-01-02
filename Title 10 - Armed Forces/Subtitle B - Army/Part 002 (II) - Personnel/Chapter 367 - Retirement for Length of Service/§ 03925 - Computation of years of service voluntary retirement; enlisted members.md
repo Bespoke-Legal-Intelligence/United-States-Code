@@ -88,9 +88,5 @@ Amendment by Pub. L. 103–337 applicable to computation of retired pay of any e
 
 Amendment by Pub. L. 96–343 effective with respect to retired pay payable for months beginning after Sept. 8, 1980, see section 9(c) of Pub. L. 96–343, set out as a note under section 3914 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3914, 3917 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

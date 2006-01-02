@@ -20,7 +20,3 @@ Provisions similar to those in this section were contained in sections 3496 and 
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 523, 641, 10507, 12011 of this title; title 32 section 107; title 37 section 204.
-

@@ -52,7 +52,3 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 85–866 effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5568; title 37 section 558.
-

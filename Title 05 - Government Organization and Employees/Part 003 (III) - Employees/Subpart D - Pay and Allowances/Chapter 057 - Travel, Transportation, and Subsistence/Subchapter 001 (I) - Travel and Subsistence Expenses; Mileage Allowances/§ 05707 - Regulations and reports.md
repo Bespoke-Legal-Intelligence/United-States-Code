@@ -30,7 +30,7 @@
 
 &emsp;(C) The Administrator shall report the specific figures to Congress not later than five working days after the Administrator makes the cost determination. Each such report shall be printed in the Federal Register.
 
-&emsp;(D) The mileage reimbursement rates contained in the regulations prescribed under this section shall be adjusted within thirty days following the submission of the report under subparagraph (C) of this paragraph.
+&emsp;(D) The mileage reimbursement rates contained in the regulations prescribed under this section shall be adjusted within thirty daysfollowing the submission of the report under subparagraph (C) of this paragraph.
 
 (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 

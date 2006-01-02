@@ -6,7 +6,7 @@
 
 (2) No funds granted by the Endowment may be used to finance activities of the Republican National Committee or the Democratic National Committee.
 
-(3) No grants may be made to any institute, foundation, or organization engaged in partisanactivities on behalf of the Republican or Democratic National Committee, on behalf of any candidate for public office, or on behalf of any political party in the United States.
+(3) No grants may be made to any institute, foundation, or organization engaged in partisan activities on behalf of the Republican or Democratic National Committee, on behalf of any candidate for public office, or on behalf of any political party in the United States.
 
 #### (b) Consultation with Department of State
 

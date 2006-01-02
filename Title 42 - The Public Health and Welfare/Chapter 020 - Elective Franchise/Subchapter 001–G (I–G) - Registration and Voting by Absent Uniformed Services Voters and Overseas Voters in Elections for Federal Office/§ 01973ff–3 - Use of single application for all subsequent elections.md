@@ -36,5 +36,5 @@ Subsec. (e). Pub. L. 107–252, §706(a), added subsec. (e).
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–252, title VII, §706(b), Oct. 29, 2002, 116 Stat. 1725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply withrespect to elections for Federal office that occur after January 1, 2004.”
+Pub. L. 107–252, title VII, §706(b), Oct. 29, 2002, 116 Stat. 1725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to elections for Federal office that occur after January 1, 2004.”
 

@@ -132,9 +132,7 @@ Subsec. (j)(1). Pub. L. 102–550, §1535(b), inserted “, or any person who w
 
 Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of this title.
 
-#### Effective and Termination Dates of 2001 Amendment
-
-Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+#### Effective Date of 2001 Amendment
 
 Pub. L. 107–56, title III, §358(h), Oct. 26, 2001, 115 Stat. 328, provided that: “The amendments made by this section \[enacting section 1681v of Title 15, Commerce and Trade, amending this section and sections 1953, 3412, 3414, and 3420 of this title, section 1681u of Title 15, and sections 5311, 5318, and 5319 of Title 31, Money and Finance\] shall apply with respect to reports filed or records maintained on, before, or after the date of enactment of this Act \[Oct. 26, 2001\].”
 

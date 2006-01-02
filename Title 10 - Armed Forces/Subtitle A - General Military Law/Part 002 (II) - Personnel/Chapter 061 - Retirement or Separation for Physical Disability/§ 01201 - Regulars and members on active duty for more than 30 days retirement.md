@@ -92,7 +92,7 @@ The changes correct typographical errors.
 
 #### Amendments
 
-1996—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been called or ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
+1996—Pub. L. 104–201 added subsecs. (a) and (c), designated existing provisions as subsec. (b), and substituted introductory provisions of subsec. (b) for “Upon a determination by the Secretary concerned that a member of a regular component of the armed forces entitled to basic pay, or any other member of the armed forces entitled to basic pay who has been calledor ordered to active duty (other than for training under section 10148(a) of this title) for a period of more than 30 days, is unfit to perform the duties of his office, grade, rank, or rating because of physical disability incurred while entitled to basic pay, the Secretary may retire the member, with retired pay computed under section 1401 of this title, if the Secretary also determines that—”.
 
 1994—Pub. L. 103–337 substituted “10148(a)” for “270(b)” in introductory provisions.
 
@@ -137,8 +137,4 @@ Authority vested by this chapter in “military departments”, “the Secretary
 #### Executive Order No. 12239
 
 Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, which related to suspension of certain promotion and disability separation limitations, was revoked by Ex. Ord. No. 12396, Dec. 9, 1982, 47 F.R. 55897, set out as a note under section 301 of Title 3, The President.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1202, 1203, 1204, 1205, 1206, 1207a, 1210, 1372, 1401, 1402, 1402a, 1406, 1407, 1451 of this title; title 42 section 213a.
 

@@ -68,7 +68,7 @@ In subsection (a)(1), the word “complete” is substituted for “in full” f
 
 #### Amendments
 
-2003—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
+2003—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
 
 #### Reports on Certain Open Safety Recommendations
 

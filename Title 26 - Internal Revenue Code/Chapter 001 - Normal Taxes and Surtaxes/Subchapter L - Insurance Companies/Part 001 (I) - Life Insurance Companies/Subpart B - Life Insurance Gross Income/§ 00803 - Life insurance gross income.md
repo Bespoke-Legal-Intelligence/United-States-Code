@@ -60,7 +60,3 @@ A prior section 803, acts Aug. 16, 1954, ch. 736, 68A Stat. 256; Mar. 13, 1956, 
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 807, 848, 953 of this title.
-

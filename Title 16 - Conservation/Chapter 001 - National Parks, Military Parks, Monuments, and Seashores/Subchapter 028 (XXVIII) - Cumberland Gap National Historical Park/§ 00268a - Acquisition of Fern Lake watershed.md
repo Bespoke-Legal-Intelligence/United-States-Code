@@ -12,7 +12,7 @@ This section may be cited as the “Fern Lake Conservation and Recreation Act”
 
 &emsp;&emsp;(A) Fern Lake and its surrounding watershed in Bell County, Kentucky, and Claiborne County, Tennessee, is <sup>1</sup> within the potential boundaries of Cumberland Gap National Historical Park as originally authorized by the Act of June 11, 1940 (54 Stat. 262; 16 U.S.C. 261 et seq.).
 
-&emsp;&emsp;(B) The acquisition of Fern Lake and its surrounding watershed and its inclusion inCumberland Gap National Historical Park would protect the vista from Pinnacle Overlook, which is one of the park's most valuable scenic resources and most popular attractions, and enhance recreational opportunities at the park.
+&emsp;&emsp;(B) The acquisition of Fern Lake and its surrounding watershed and its inclusion in Cumberland Gap National Historical Park would protect the vista from Pinnacle Overlook, which is one of the park's most valuable scenic resources and most popular attractions, and enhance recreational opportunities at the park.
 
 &emsp;&emsp;(C) Fern Lake is the water supply source for the city of Middlesboro, Kentucky, and environs.
 
@@ -54,7 +54,7 @@ This section may be cited as the “Fern Lake Conservation and Recreation Act”
 
 #### (3) Boundary adjustment and administration
 
-&emsp;Subject to paragraph (4), the Secretary shall revise the boundaries of the park to include the land acquired under paragraph (2). The Secretary shall administer the acquired lands as part of the park in accordance with the laws and regulations applicable to the park.
+&emsp;Subject to paragraph (4), the Secretary shall revise the boundaries of the park to include the land acquired under paragraph (2). TheSecretary shall administer the acquired lands as part of the park in accordance with the laws and regulations applicable to the park.
 
 #### (4) Conveyance of Fern Lake
 
@@ -84,7 +84,7 @@ This section may be cited as the “Fern Lake Conservation and Recreation Act”
 
 #### References in Text
 
-This section and the section, referred to in subecs. (a) and (b)(2), were in the original “This Act” and “the Act”, which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress.
+This section and the section, referred to in subsecs. (a) and (b)(2), were in the original “This Act” and “the Act”, which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress.
 
 The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is act June 11, 1940, ch. 304, 54 Stat. 262, as amended, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 

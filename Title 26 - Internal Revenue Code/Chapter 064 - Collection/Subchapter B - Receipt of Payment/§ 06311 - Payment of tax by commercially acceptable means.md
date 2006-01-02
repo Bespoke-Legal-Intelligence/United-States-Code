@@ -118,7 +118,3 @@ Pub. L. 105–206, title III, §3703, July 22, 1998, 112 Stat. 777, provided tha
 
 Pub. L. 104–168, title XII, §1202, July 30, 1996, 110 Stat. 1470, provided that: “If any payment is received by the Secretary of the Treasury or his delegate from any taxpayer and the Secretary cannot associate such payment with such taxpayer, the Secretary shall make reasonable efforts to notify the taxpayer of such inability within 60 days after the receipt of such payment.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6201, 7431 of this title.
-

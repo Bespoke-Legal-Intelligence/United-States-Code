@@ -132,7 +132,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–221, §1, July 23, 1982, 96 Stat. 227, provided: “That this Act \[enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and section 6106 of this title\] may be cited as the ‘Federal Employees Flexible and Compressed Work Schedules Act of 1982’.”
+Pub. L. 97–221, §1, July 23, 1982, 96 Stat. 227, provided: “That this Act \[enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section andsection 6106 of this title\] may be cited as the ‘Federal Employees Flexible and Compressed Work Schedules Act of 1982’.”
 
 #### Delegation of Functions
 
@@ -172,7 +172,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(2) Each agency may conduct one or more experiments under titles I and II of this Act. Such experiments shall be subject to such regulations as the Commission may prescribe under section 305 of this Act.
 
-“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria bywhich the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
+“(b) The Commission shall, not later than 90 days after the effective date of this section, establish a master plan which shall contain guidelines and criteria by which the Commission will study and evaluate experiments conducted under titles I and II of this Act. Such master plan shall provide for the study and evaluation of experiments within a sample of organizations of different size, geographic location, and functions and activities, sufficient to insure adequate evaluation of the impact of varied work schedules on—
 
 &emsp;“(1) the efficiency of Government operations;
 
@@ -214,7 +214,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 &emsp;“(1) any experiment under subsection (a) of this section may be terminated by the Commission if it determines that the experiment is not in the best interest of the public, the Government, or the employees; or
 
-&emsp;“(2) if the head of an agency determines that any organization within the agency which is participating in an experiment under subsection (a) is being substantially disrupted in carrying out its functions or is incurring additional costs because of such participation, such agency head may—
+&emsp;“(2) if the head of an agency determines that any organization within the agency which is participatingin an experiment under subsection (a) is being substantially disrupted in carrying out its functions or is incurring additional costs because of such participation, such agency head may—
 
 &emsp;&emsp;“(A) restrict the employees’ choice of arrival and departure time,
 
@@ -328,7 +328,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 #### “application of experiments in the case of negotiated contracts
 
-“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees hasbeen accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
+“Sec. 302. (a) Employees within a unit with respect to which an organization of Government employees has been accorded exclusive recognition shall not be included within any experiment under title I or II of this Act except to the extent expressly provided under a written agreement between the agency and such organization.
 
 “(b) The Commission or an agency may not participate in a flexible or compressed schedule experiment under a negotiated contract which contains premium pay provisions which are inconsistent with the provisions of section 103 or 203 of this Act, as applicable.
 

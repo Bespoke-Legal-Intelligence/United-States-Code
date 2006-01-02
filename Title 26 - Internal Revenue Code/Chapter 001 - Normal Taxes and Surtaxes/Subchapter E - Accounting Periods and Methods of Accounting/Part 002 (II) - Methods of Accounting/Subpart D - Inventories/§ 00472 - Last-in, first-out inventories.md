@@ -44,7 +44,7 @@ The Secretary shall prescribe regulations permitting the use of suitable publish
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in regulations, all members of the same group of financially related corporations shall be treated as 1 taxpayer for purposes of subsections (c) and (e)(2).
+&emsp;Except as otherwise provided in regulations, all members of the same group of financiallyrelated corporations shall be treated as 1 taxpayer for purposes of subsections (c) and (e)(2).
 
 #### (2) Group of financially related corporations
 
@@ -79,8 +79,4 @@ Section 236(b) of Pub. L. 97–34 provided that: “The amendment made by subsec
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1901(b)(36)(A) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 312, 473, 474, 1363 of this title.
 

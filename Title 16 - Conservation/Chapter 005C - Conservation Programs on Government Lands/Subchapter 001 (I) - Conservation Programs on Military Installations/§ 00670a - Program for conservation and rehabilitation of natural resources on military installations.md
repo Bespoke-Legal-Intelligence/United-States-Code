@@ -194,7 +194,7 @@ Pub. L. 97–396, §1(2), inserted provision that cooperative plans agreed to un
 
 Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: “Section 101(g) of the Sikes Act, as added by paragraph (1), \[subsec. (g) of this section\] shall apply—
 
-&emsp;“(A) to any integrated natural resources management plan prepared for a military installation in Guam under section 101(a)(1) of such Act on or after the date of the enactment of this Act \[Nov. 24, 2003\]; and
+&emsp;“(A) to any integrated natural resources management plan prepared for a military installation inGuam under section 101(a)(1) of such Act on or after the date of the enactment of this Act \[Nov. 24, 2003\]; and
 
 &emsp;“(B) effective March 1, 2004, to any integrated natural resources management plan prepared for a military installation in Guam under such section before the date of the enactment of this Act.”
 
@@ -228,7 +228,7 @@ Report to congress.—Not later than one year after the date of enactment of thi
 
 “(c)
 
-Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required undersubsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
+Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required under subsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
 
 &emsp;“(1) prepare and begin implementing such a plan in accordance with section 101(a) of the Sikes Act \[16 U.S.C. 670a(a)\] (as amended by this title); or
 

@@ -32,7 +32,7 @@ A State that receives funds under this part for a fiscal year shall provide the 
 
 &emsp;&emsp;(F) an assurance that the program will primarily target students who attend schools eligible for schoolwide programs under section 6314 of this title and the families of such students;
 
-&emsp;&emsp;(G) an assurance that funds under this part will be used to increase the level of State, local, and other non-Federal funds that would, in the absence of funds under this part, be made available for programs and activities authorized under this part, and in no case supplant Federal, State, local, or non-Federal funds;
+&emsp;&emsp;(G) an assurance that funds under this part will be used to increase the level of State, local, and other non-Federal funds thatwould, in the absence of funds under this part, be made available for programs and activities authorized under this part, and in no case supplant Federal, State, local, or non-Federal funds;
 
 &emsp;&emsp;(H) a description of the partnership between a local educational agency, a community-based organization, and another public entity or private entity, if appropriate;
 

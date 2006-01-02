@@ -12,7 +12,7 @@
 
 #### (3) Plans
 
-&emsp;Each budget shall include a plan for research, promotion, and consumer information regarding kiwifruit. A plan under this paragraph shall become effective on approval by the Secretary. The Board may enter into contracts and agreements, on approval by the Secretary, for—
+&emsp;Each budget shall include a plan for research, promotion, and consumer informationregarding kiwifruit. A plan under this paragraph shall become effective on approval by the Secretary. The Board may enter into contracts and agreements, on approval by the Secretary, for—
 
 &emsp;&emsp;(A) the development and carrying out of the plan; and
 
@@ -110,7 +110,7 @@ The order shall provide that funds collected by the Board under this subchapter 
 
 #### (2) Others
 
-&emsp;To make information and data available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this subchapter (or any order or regulation issued under this subchapter), the order shall require handlers and importers who are responsible for the collection, payment, or remittance of assessments under subsection (b) of this section—
+&emsp;To make information and data available to the Board and the Secretary that is appropriate or necessary for the effectuation, administration, or enforcement of this subchapter (or any order or regulation issued under this subchapter), the order shall requirehandlers and importers who are responsible for the collection, payment, or remittance of assessments under subsection (b) of this section—
 
 &emsp;&emsp;(A) to maintain and make available for inspection by the employees and agents of the Board and the Secretary such books and records as may be required by the order; and
 

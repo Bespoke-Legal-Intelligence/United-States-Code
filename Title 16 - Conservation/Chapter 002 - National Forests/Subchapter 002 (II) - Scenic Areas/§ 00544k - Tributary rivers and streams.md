@@ -10,7 +10,7 @@ The following rivers and streams shall be subject to the same restrictions on th
 
 &emsp;(3) the Wind River, Washington, for a period not less than three years following the later of—
 
-&emsp;&emsp;(A) final approval of the Gifford Pinchot National Forest Plan, adopted pursuant tothe National Forest Management Act of 1976 (Act of October 22, 1976, Public Law 94–588, as amended) (16 U.S.C. 1600 et seq.); or
+&emsp;&emsp;(A) final approval of the Gifford Pinchot National Forest Plan, adopted pursuant to the National Forest Management Act of 1976 (Act of October 22, 1976, Public Law 94–588, as amended) (16 U.S.C. 1600 et seq.); or
 
 &emsp;&emsp;(B) submittal by the Secretary of a report to the President on the suitability or nonsuitability for addition to the national wild and scenic rivers system and a report by the President to the Congress of recommendations and proposals with respect to the designation of such river under the Wild and Scenic Rivers Act \[16 U.S.C. 1271 et seq.\];
 

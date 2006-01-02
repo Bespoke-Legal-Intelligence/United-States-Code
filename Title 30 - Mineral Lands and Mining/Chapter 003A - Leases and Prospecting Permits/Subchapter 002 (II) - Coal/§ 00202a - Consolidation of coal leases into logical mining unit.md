@@ -6,11 +6,17 @@ The Secretary, upon determining that maximum economic recovery of the coal depos
 
 #### (2) Mining plan; requirements
 
-After the Secretary has approved the establishment of a logical mining unit, any mining plan approved for that unit must require such diligent development, operation, and production that the reserves of the entire unit will be mined within a period established by the Secretary which shall not be more than forty years.
+(A) After the Secretary has approved the establishment of a logical mining unit, any mining plan approved for that unit must require such diligent development, operation, and production that the reserves of the entire unit will be mined within a period established by the Secretary which shall not be more than forty years.
+
+(B) The Secretary may establish a period of more than 40 years if the Secretary determines that the longer period—
+
+&emsp;(i) will ensure the maximum economic recovery of a coal deposit; or
+
+&emsp;(ii) the longer period is in the interest of the orderly, efficient, or economic development of a coal resource.
 
 #### (3) Conditions for approval
 
-In approving a logical mining unit, the Secretary may provide, among other things, that (i) diligent development, continuous operation, and production on any Federal lease or non-Federal land in the logical mining unit shall be construed as occurring on all Federal leases in that logical mining unit, and (ii) the rentals and royalties for all Federal leases in a logical mining unit may be combined, and advanced royalties paid for any lease within a logical mining unit may be credited against such combined royalties.
+In approving a logical mining unit, the Secretary may provide, among other things, that (i) diligent development, continuous operation, and production on any Federal lease or non-Federal land in the logical mining unit shall be construed as occurring on all Federal leases in that logical mining unit, and (ii) the rentals and royalties for all Federal leases in a logical miningunit may be combined, and advanced royalties paid for any lease within a logical mining unit may be credited against such combined royalties.
 
 #### (4) Amendment to lease
 
@@ -32,7 +38,7 @@ No logical mining unit shall be approved by the Secretary if the total acreage (
 
 Nothing in this section shall be construed to waive the acreage limitations for coal leases contained in section 184(a) of this title.
 
-(Feb. 25, 1920, ch. 85, §2(d), as added Pub. L. 94–377, §5(b), Aug. 4, 1976, 90 Stat. 1086.)
+(Feb. 25, 1920, ch. 85, §2(d), as added Pub. L. 94–377, §5(b), Aug. 4, 1976, 90 Stat. 1086; amended Pub. L. 109–58, title IV, §433, Aug. 8, 2005, 119 Stat. 761.)
 
 #### References in Text
 
@@ -43,4 +49,12 @@ This section, referred to in pars. (5) and (8), is section 2 of act Feb. 25, 192
 #### Codification
 
 Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added by Pub. L. 94–377. Subsecs. (a) and (b) of said section 2 are classified to section 201 of this title. Subsec. (c) of said section 2 is classified to section 202 of this title.
+
+#### Amendments
+
+2005—Par. (2). Pub. L. 109–58 designated existing provisions as subpar. (A) and added subpar. (B).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable with respect to any coal lease issued before, on, or after Aug. 8, 2005, see section 438 of Pub. L. 109–58, set out as a note under section 201 of this title.
 

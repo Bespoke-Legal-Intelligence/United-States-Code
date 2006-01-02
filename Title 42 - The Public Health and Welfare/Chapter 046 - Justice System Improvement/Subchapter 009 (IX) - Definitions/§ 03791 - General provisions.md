@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(1) “criminal justice” means activities pertaining to crime prevention, control, or reduction, or the enforcement of the criminal law, including, but not limited to, police efforts to prevent, control, or reduce crime or to apprehend criminals, including juveniles, activities of courts having criminal jurisdiction, and related agencies (including but not limited to prosecutorial and defender services, juvenile delinquency agencies and pretrial service or release agencies), activities of corrections, probation, or parole authorities and related agencies assisting in the rehabilitation, supervision, and care of criminal offenders, and programs relating to the prevention, control, or reduction of narcotic addiction and juvenile delinquency;
 
-&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purpose of section 3756(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
+&emsp;(2) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands: <i>Provided</i>, That for the purposes of section 3755(a) of this title, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one state <sup>1</sup> and that for these purposes 67 per centum of the amounts allocated shall be allocated to American Samoa, and 33 per centum to the Commonwealth of the Northern Mariana Islands.<sup>2</sup>
 
 &emsp;(3) “unit of local government” means—
 
@@ -18,7 +18,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(ii) has the authority to, in a manner independent of other State entities, establish a budget and impose taxes;
 
-&emsp;&emsp;(C) an Indian Tribe (as that term is defined in section 5603 of this title) that performs law enforcement functions, as determined by the Secretary of the Interior; or
+&emsp;&emsp;(C) an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or
 
 &emsp;&emsp;(D) for the purposes of assistance eligibility, any agency of the government of the District of Columbia or the Federal Government that performs law enforcement functions in and for—
 
@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;(4) “construction” means the erection, acquisition, renovation, repairs, remodeling, or expansion of new or existing buildings or other physical facilities, and the acquisition or installation of initial equipment therefor;
 
-&emsp;(5) “combination” as applied to States or units of local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a criminal justice program or project;
+&emsp;(5) “combination” as applied to States or units of local government means any grouping or joining together of such States or units for the purpose of preparing, developing, or implementing a criminal justice program, plan, or project;
 
 &emsp;(6) “public agency” means any State, unit of local government, combination of such States or units, or any department, agency, or instrumentality of any of the foregoing;
 
@@ -40,7 +40,7 @@ As used in this chapter—
 
 &emsp;(10) “evaluation” means the administration and conduct of studies and analyses to determine the impact and value of a project or program in accomplishing the statutory objectives of this chapter;
 
-&emsp;(11) “neighborhood or community-based organizations” means organizations which are representative of communities or significant segments of communities;
+&emsp;(11) “neighborhood or community-based organizations” means organizations, including faith-based, that are representative of communities or significant segments of communities;
 
 &emsp;(12) “chief executive” means the highest official of a State or local jurisdiction;
 
@@ -66,13 +66,17 @@ As used in this chapter—
 
 &emsp;(23) “boot camp prison” includes a correctional facility in which inmates are required to participate in a highly regimented program that provides strict discipline, physical training, and hard labor, together with extensive rehabilitative activities and with educational, job training, and drug treatment support;
 
-&emsp;(24) the term “young offender” means a non-violent first-time offender or a non-violent offender with a minor criminal record who is 22 years of age or younger (including juveniles); and
+&emsp;(24) the term “young offender” means a non-violent first-time offender or a non-violent offender with a minor criminal record who is 22 years of age or younger (including juveniles);
 
 &emsp;(25) the term “residential substance abuse treatment program” means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
 
 &emsp;&emsp;(A) directed at the substance abuse problems of the prisoner; and
 
-&emsp;&emsp;(B) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems.
+&emsp;&emsp;(B) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems;
+
+&emsp;(26) the term “Indian Tribe” has the meaning given the term “Indian tribe” in section 450b(e) of title 25; and
+
+&emsp;(27) the term “private person” means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof).
 
 #### (b) Data basis for definitions; reflection of technical changes or modifications
 
@@ -80,9 +84,9 @@ Where appropriate, the definitions in subsection (a) of this section shall be ba
 
 #### (c) Designation of public agencies for undertaking a program or project
 
-One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
+One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit oflocal government to undertake a program or project in whole or in part.
 
-(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76.)
+(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114.)
 
 #### Prior Provisions
 
@@ -93,6 +97,16 @@ A prior section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, 
 A prior section 3792 of this title, Pub. L. 90–351, title I, §652, as added Pub. L. 91–644, title I, §10, Jan. 2, 1971, 84 Stat. 1889; amended Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 218, related to fraudulent and false statements or entries, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3795a of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(2). Pub. L. 109–162, §1111(c)(2)(F), which directed the substitution of “for the purposes of section 3755(a) of this title” for “for the purposes of section 3756(a) of this title”, was executed by making the substitution for “for the purpose of section 3756(a) of this title”, to reflect the probable intent of Congress.
+
+Subsec. (a)(3)(C). Pub. L. 109–162, §1156(1), struck out “(as that term is defined in section 5603 of this title)” after “an Indian Tribe”.
+
+Subsec. (a)(5). Pub. L. 109–162, §1156(2), substituted “program, plan, or project” for “program or project”.
+
+Subsec. (a)(11). Pub. L. 109–162, §1156(3), substituted “, including faith-based, that” for “which”.
+
+Subsec. (a)(26), (27). Pub. L. 109–162, §1156(4), added pars. (26) and (27).
 
 1998—Subsec. (a)(3). Pub. L. 105–277, which directed the general amendment of par. (3) of this section, was executed to subsec. (a)(3) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(3) read as follows: “ ‘unit of local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government or the United States Government performing law enforcement functions in and for the District of Columbia, and the Trust Territory of the Pacific Islands;”.
 
@@ -137,6 +151,10 @@ Subsec. (a)(8). Pub. L. 98–473, §609C(b)(5), substituted definition of “cor
 Subsec. (a)(13). Pub. L. 98–473, §609C(b)(6), substituted definition of “cost of construction” for “municipality”.
 
 Subsecs. (a)(17), (b). Pub. L. 98–473, §609C(a), substituted “Office” for “Administration”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by section 1111(c)(2)(F) of Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
 
 #### Effective Date of 1998 Amendment
 

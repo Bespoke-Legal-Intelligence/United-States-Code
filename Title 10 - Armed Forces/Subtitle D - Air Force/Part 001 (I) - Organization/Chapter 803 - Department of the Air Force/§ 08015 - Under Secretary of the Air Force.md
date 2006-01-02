@@ -14,7 +14,5 @@ A prior section 8015, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, §8014; renum
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, seeEx. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, set out as a note under section 3345 of Title 5.
 

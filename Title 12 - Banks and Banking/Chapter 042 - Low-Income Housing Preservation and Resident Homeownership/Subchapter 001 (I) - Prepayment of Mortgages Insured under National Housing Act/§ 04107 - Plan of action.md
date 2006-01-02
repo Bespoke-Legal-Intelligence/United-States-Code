@@ -8,7 +8,7 @@
 
 #### (2) Copies to tenants
 
-&emsp;Each owner submitting a plan of action under this section to the Secretary shall also submit a copy to the tenants of the housing. The owner shall simultaneously submit the plan of action to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located. Each owner and the Secretary shall also, upon request, make available to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information. An appropriate agency of such State or local government shall review the plan and advise the tenants of the housing of any programs that are available to assist the tenants in carrying out the purposes of this title.<sup>1</sup>
+&emsp;Each owner submitting a plan of action under this section to the Secretary shall also submit a copy to the tenants of the housing. The owner shall simultaneously submit the plan of action to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located. Each owner and the Secretary shall also, upon request, makeavailable to the tenants of the housing and to the office of the chief executive officer of the appropriate State or local government for the jurisdiction within which the housing is located all documentation supporting the plan of action, but not including any information that the Secretary determines is proprietary information. An appropriate agency of such State or local government shall review the plan and advise the tenants of the housing of any programs that are available to assist the tenants in carrying out the purposes of this title.<sup>1</sup>
 
 #### (3) Failure to submit
 
@@ -34,7 +34,7 @@
 
 #### (2) Extension of affordability restrictions
 
-&emsp;If the plan of action proposes to extend the low-income affordability restrictions of the housing in accordance with section 4109 of thistitle or transfer the housing to a qualified purchaser in accordance with section 4110 of this title, the plan shall include—
+&emsp;If the plan of action proposes to extend the low-income affordability restrictions of the housing in accordance with section 4109 of this title or transfer the housing to a qualified purchaser in accordance with section 4110 of this title, the plan shall include—
 
 &emsp;&emsp;(A) a description of any proposed changes in the status or terms of the mortgage or regulatory agreement;
 

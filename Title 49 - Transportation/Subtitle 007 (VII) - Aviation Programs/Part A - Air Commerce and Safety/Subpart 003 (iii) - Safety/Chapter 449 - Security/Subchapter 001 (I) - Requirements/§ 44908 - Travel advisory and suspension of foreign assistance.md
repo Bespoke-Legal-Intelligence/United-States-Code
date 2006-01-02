@@ -2,7 +2,7 @@
 
 (a)
 
-Travel Advisories.—On being notified by the Secretary of Transportation that the Secretary of Transportation has decided under section 44907(d)(2)(A)(ii) of this title that a condition exists that threatens the safety or security of passengers, aircraft, or crew traveling to or from a foreign airport that the Secretary of Transportation has decided under section 44907 of this title does not maintain and carry out effective security measures, the Secretary of State—
+Travel Advisories.—On being notified by the Secretary of Transportation that the Secretary of Transportation has decided under section 44907(d)(2)(A)(ii) of this title that a condition exists that threatens the safety or security of passengers, aircraft, or crew traveling to or from a foreign airport that the Secretary of Transportation has decided under section 44907of this title does not maintain and carry out effective security measures, the Secretary of State—
 
 &emsp;(1) immediately shall issue a travel advisory for that airport; and
 

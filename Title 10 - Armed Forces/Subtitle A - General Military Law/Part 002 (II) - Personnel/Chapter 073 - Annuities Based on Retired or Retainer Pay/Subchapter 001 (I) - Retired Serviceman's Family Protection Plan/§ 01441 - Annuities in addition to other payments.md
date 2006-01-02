@@ -1,6 +1,6 @@
 ### §1441. Annuities in addition to other payments
 
-An annuity under this subchapter is in addition to any pension or other payment to whichthe beneficiary is entitled under any other provision of law, and may not be considered as income under any law administered by the Department of Veterans Affairs.
+An annuity under this subchapter is in addition to any pension or other payment to which the beneficiary is entitled under any other provision of law, and may not be considered as income under any law administered by the Department of Veterans Affairs.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 111; Pub. L. 85–857, §13(v)(1), Sept. 2, 1958, 72 Stat. 1266; Pub. L. 85–861, §1(31B), Sept. 2, 1958, 72 Stat. 1452; Pub. L. 86–211, §8(a), Aug. 29, 1959, 73 Stat. 436; Pub. L. 91–588, §8(b), Dec. 24, 1970, 84 Stat. 1584; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602.)
 
@@ -65,8 +65,4 @@ Amendment by Pub. L. 86–211 effective July 1, 1960, see section 10 of Pub. L. 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1446 of this title.
 

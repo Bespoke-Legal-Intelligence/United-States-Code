@@ -8,6 +8,10 @@ Subpart B—Brewer
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal and Redesignation of Subpart
+
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(B), (b)(3)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this subpart is repealed and subpart F of this part and sections 5131 to 5134 are redesignated subpart B and sections 5111 to 5114, respectively.</i>
+
 #### Prior Provisions
 
 A prior subpart B, consisting of sections 5091 to 5093, related to brewer, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

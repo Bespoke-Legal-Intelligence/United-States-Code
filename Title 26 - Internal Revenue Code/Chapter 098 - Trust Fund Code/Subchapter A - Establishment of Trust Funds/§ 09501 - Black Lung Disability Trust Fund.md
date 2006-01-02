@@ -58,7 +58,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 &emsp;(2) the payment of obligations incurred by the Secretary of Labor with respect to all claims of miners of their survivors in which the miner's last coal mine employment was before January 1, 1970,
 
-&emsp;(3) the repayment into the Treasury of the United States of an amount equal to the sumof the amounts expended by the Secretary of Labor for claims under part C of the Black Lung Benefits Act which were paid before April 1, 1978, except that the Black Lung Disability Trust Fund shall not be obligated to pay or reimburse any such amounts which are attributable to periods of eligibility before January 1, 1974,
+&emsp;(3) the repayment into the Treasury of the United States of an amount equal to the sum of the amounts expended by the Secretary of Labor for claims under part C of the Black Lung Benefits Act which were paid before April 1, 1978, except that the Black Lung Disability Trust Fund shall not be obligated to pay or reimburse any such amounts which are attributable to periods of eligibility before January 1, 1974,
 
 &emsp;(4) the repayment of, and the payment of interest on, repayable advances to the Black Lung Disability Trust Fund,
 
@@ -102,7 +102,15 @@ Section 103(d)(2) of Pub. L. 97–119 provided that: “The Black Lung Disabilit
 
 #### Funds to Remain Available
 
-Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303, provided in part that: “Beginning in fiscal year 2003 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund, to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\], as amended; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
+Pub. L. 109–149, title I, Dec. 30, 2005, 119 Stat. 2839, provided in part that: “In fiscal year 2006 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund, to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\], as amended; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. F, title I, Dec. 8, 2004, 118 Stat. 3118.
+
+Pub. L. 108–199, div. E, title I, Jan. 23, 2004, 118 Stat. 231.
+
+Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 303.
 
 #### Moratorium on Interest Accruals on Indebtedness of Black Lung Disability Trust Fund
 
@@ -111,10 +119,6 @@ Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided 
 #### Provisions Relating to Payment of Benefits to Miners and Eligible Survivors of Miners To Take Effect as Rules and Regulations of Secretary of Labor
 
 Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: “In the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 501 of this title; title 30 sections 902, 925, 932.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

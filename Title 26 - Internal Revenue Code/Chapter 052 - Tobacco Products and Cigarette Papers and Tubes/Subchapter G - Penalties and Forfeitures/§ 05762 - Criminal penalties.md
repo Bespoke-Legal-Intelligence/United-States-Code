@@ -50,7 +50,7 @@ Subsec. (a)(8) to (11). Pub. L. 94–455 struck out pars. (8) to (11) which rela
 
 Subsec. (a)(2). Pub. L. 89–44, §502(b)(12)(B), struck out reference to statements.
 
-1958—Subsec. (a). Pub. L. 85–859 included export warehouse proprietors in par. (1), struck out provisions inpars. (6) and (9) to (11) which related to labels and notices, and added pars. (7) and (8).
+1958—Subsec. (a). Pub. L. 85–859 included export warehouse proprietors in par. (1), struck out provisions in pars. (6) and (9) to (11) which related to labels and notices, and added pars. (7) and (8).
 
 #### Effective Date of 1997 Amendment
 
@@ -67,8 +67,4 @@ Amendment by Pub. L. 89–44 applicable on and after January 1, 1966, see sectio
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5754 of this title.
 

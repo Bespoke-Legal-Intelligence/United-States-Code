@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 #### (b) Definitions
 
-Subject to the provisions of subsection (c) of this section, for purposes of applying laws of the United States and regulations issued pursuantto such laws with respect to transactions, occurrences, or status on or after October 1, 1979—
+Subject to the provisions of subsection (c) of this section, for purposes of applying laws of the United States and regulations issued pursuant to such laws with respect to transactions, occurrences, or status on or after October 1, 1979—
 
 &emsp;(1) “Canal Zone” shall be deemed to refer to the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements;
 

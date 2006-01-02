@@ -16,7 +16,7 @@
 
 #### (b) Standards regarding evictions
 
-Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
+Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to thissection or because of any action taken by the Secretary or any public housing agency pursuant to this section.
 
 #### (c) Relocation assistance
 
@@ -56,7 +56,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (1) Review and notification
 
-&emsp;The Secretary shall conduct a limited review of each plan under subsection (d) of this section that is submitted to the Secretary to ensure that the plan is complete and complies with the requirements of subsection (d) of this section. The Secretary shall notify each public housing agency submitting a plan whether the plan complies with such requirements notlater than 60 days after receiving the plan. If the Secretary does not notify the public housing agency, as required under this paragraph or paragraph (2), the plan shall be considered, for purposes of this section, to comply with the requirements under subsection (d) of this section and the Secretary shall be considered to have notified the agency of such compliance upon the expiration of such 60-day period.
+&emsp;The Secretary shall conduct a limited review of each plan under subsection (d) of this section that is submitted to the Secretary to ensure that the plan is complete and complies with the requirements of subsection (d) of this section. The Secretary shall notify each public housing agency submitting a plan whether the plan complies with such requirements not later than 60 days after receiving the plan. If the Secretary does not notify the public housing agency, as required under this paragraph or paragraph (2), the plan shall be considered, for purposes of this section, to comply with the requirements under subsection (d) of this section and the Secretary shall be considered to have notified the agency of such compliance upon the expiration of such 60-day period.
 
 #### (2) Notice of reasons for determination of noncompliance
 

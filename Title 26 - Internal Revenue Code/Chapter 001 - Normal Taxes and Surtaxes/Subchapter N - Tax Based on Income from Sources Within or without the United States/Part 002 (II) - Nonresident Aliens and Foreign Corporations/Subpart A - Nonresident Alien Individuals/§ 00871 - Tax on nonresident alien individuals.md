@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the nonresident alien individual (except that such original issue discount shall be taken into account under this clause only to the extent such discount was not theretofore taken into account under this clause and only to the extent that the tax thereon does not exceed the payment less the tax imposed by subparagraph (A) thereon), and
 
-&emsp;&emsp;(D) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any such property, to the extent such gains are from payments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
+&emsp;&emsp;(D) gains from the sale or exchange after October 4, 1966, of patents, copyrights, secret processes and formulas, good will, trademarks, trade brands, franchises, and other like property, or of any interest in any such property, to the extent such gains are frompayments which are contingent on the productivity, use, or disposition of the property or interest sold or exchanged,
 
 > &emsp;but only to the extent the amount so received is not effectively connected with the conduct of a trade or business within the United States.
 
@@ -46,7 +46,7 @@
 
 #### (c) Participants in certain exchange or training programs
 
-For purposes of this section, a nonresident alien individual who (without regard to this subsection) is not engaged in trade or business within the United States and who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(15)(F), (J),\(M), or (Q)), shall be treated as a nonresident alien individual engaged in trade or business within the United States, and any income described in the second sentence of section 1441(b) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States.
+For purposes of this section, a nonresident alien individual who (without regard to this subsection) is not engaged in trade or business within the United States and who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(15)(F), (J), (M), or (Q)), shall be treated as a nonresident alien individual engaged in trade or business within the United States, and any income described in the second sentence of section 1441(b) which is received by such individual shall, to the extent derived from sources within the United States, be treated as effectively connected with the conduct of a trade or business within the United States.
 
 #### (d) Election to treat real property income as income connected with United States business
 
@@ -164,7 +164,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;The term “10-percent shareholder” means—
 
-&emsp;&emsp;&emsp;(i) in the case of an obligation issued by a corporation, any person who owns 10 percent or more of the total combined voting power of all classes of stock of such corporation entitled to vote, or
+&emsp;&emsp;&emsp;(i) in the case of an obligation issued by a corporation, any person who owns 10 percent or more of the total combined votingpower of all classes of stock of such corporation entitled to vote, or
 
 &emsp;&emsp;&emsp;(ii) in the case of an obligation issued by a partnership, any person who owns 10 percent or more of the capital or profits interest in such partnership.
 
@@ -216,7 +216,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;(ii) any amount of interest solely by reason of the fact that the interest is paid with respect to nonrecourse or limited recourse indebtedness,
 
-&emsp;&emsp;&emsp;(iii) any amount of interest all or substantially all of which is determined byreference to any other amount of interest not described in subparagraph (A) (or by reference to the principal amount of indebtedness on which such other interest is paid),
+&emsp;&emsp;&emsp;(iii) any amount of interest all or substantially all of which is determined by reference to any other amount of interest not described in subparagraph (A) (or by reference to the principal amount of indebtedness on which such other interest is paid),
 
 &emsp;&emsp;&emsp;(iv) any amount of interest solely by reason of the fact that the debtor or a related person enters into a hedging transaction to manage the risk of interest rate or currency fluctuations with respect to such interest,
 
@@ -282,6 +282,8 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;(C) Income derived by a foreign central bank of issue from bankers’ acceptances.
 
+&emsp;&emsp;(D) Dividends paid by a foreign corporation which are treated under section 861(a)(2)(B) as income from sources within the United States.
+
 #### (3) Deposits
 
 &emsp;For purposes of paragraph (2), the term “deposits” means amounts which are—
@@ -294,9 +296,81 @@ For purposes of this section and section 881—
 
 #### (j) Exemption for certain gambling winnings
 
-No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds from a wager placed in any of the following games: blackjack, baccarat, craps, roulette, or big-6 wheel. The preceding sentence shall not apply in any casewhere the Secretary determines by regulation that the collection of the tax is administratively feasible.
+No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds from a wager placed in any of the following games: blackjack, baccarat, craps, roulette, or big-6 wheel. The preceding sentence shall not apply in any case where the Secretary determines by regulation that the collection of the tax is administratively feasible.
 
-#### (k) Cross references
+#### (k) Exemption for certain dividends of regulated investment companies
+
+#### (1) Interest-related dividends
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1)(A) of subsection (a) on any interest-related dividend received from a regulated investment company.
+
+#### (B) Exceptions
+
+&emsp;&emsp;Subparagraph (A) shall not apply—
+
+&emsp;&emsp;&emsp;(i) to any interest-related dividend received from a regulated investment company by a person to the extent such dividend is attributable to interest (other than interest described in subparagraph (E)(i) or (iii)) received by such company on indebtedness issued by such person or by any corporation or partnership with respect to which such person is a 10-percent shareholder,
+
+&emsp;&emsp;&emsp;(ii) to any interest-related dividend with respect to stock of a regulated investment company unless the person who would otherwise be required to deduct and withhold tax from such dividend under chapter 3 receives a statement (which meets requirements similar to the requirements of subsection (h)(5)) that the beneficial owner of such stock is not a United States person, and
+
+&emsp;&emsp;&emsp;(iii) to any interest-related dividend paid to any person within a foreign country (or any interest-related dividend payment addressed to, or for the account of, persons within such foreign country) during any period described in subsection (h)(6) with respect to such country.
+
+> &emsp;&emsp;Clause (iii) shall not apply to any dividend with respect to any stock which was acquired on or before the date of the publication of the Secretary's determination under subsection (h)(6).
+
+#### (C) Interest-related dividend
+
+&emsp;&emsp;For purposes of this paragraph, the term “interest-related dividend” means any dividend (or part thereof) which is designated bythe regulated investment company as an interest-related dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified net interest income of the company for such taxable year, the portion of each distribution which shall be an interest-related dividend shall be only that portion of the amounts so designated which such qualified net interest income bears to the aggregate amount so designated. Such term shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2007.
+
+#### (D) Qualified net interest income
+
+&emsp;&emsp;For purposes of subparagraph (C), the term “qualified net interest income” means the qualified interest income of the regulated investment company reduced by the deductions properly allocable to such income.
+
+#### (E) Qualified interest income
+
+&emsp;&emsp;For purposes of subparagraph (D), the term “qualified interest income” means the sum of the following amounts derived by the regulated investment company from sources within the United States:
+
+&emsp;&emsp;&emsp;(i) Any amount includible in gross income as original issue discount (within the meaning of section 1273) on an obligation payable 183 days or less from the date of original issue (without regard to the period held by the company).
+
+&emsp;&emsp;&emsp;(ii) Any interest includible in gross income (including amounts recognized as ordinary income in respect of original issue discount or market discount or acquisition discount under part V of subchapter P and such other amounts as regulations may provide) on an obligation which is in registered form; except that this clause shall not apply to—
+
+&emsp;&emsp;&emsp;&emsp;(I) any interest on an obligation issued by a corporation or partnership if the regulated investment company is a 10-percent shareholder in such corporation or partnership, and
+
+&emsp;&emsp;&emsp;&emsp;(II) any interest which is treated as not being portfolio interest under the rules of subsection (h)(4).
+
+&emsp;&emsp;&emsp;(iii) Any interest referred to in subsection (i)(2)(A) (without regard to the trade or business of the regulated investment company).
+
+&emsp;&emsp;&emsp;(iv) Any interest-related dividend includable in gross income with respect to stock of another regulated investment company.
+
+#### (F) 10-percent shareholder
+
+&emsp;&emsp;For purposes of this paragraph, the term “10-percent shareholder” has the meaning given such term by subsection (h)(3)(B).
+
+#### (2) Short-term capital gain dividends
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), no tax shall be imposed under paragraph (1)(A) of subsection (a) on any short-term capital gain dividend received from a regulated investment company.
+
+#### (B) Exception for aliens taxable under subsection (a)(2)
+
+&emsp;&emsp;Subparagraph (A) shall not apply in the case of any nonresident alien individual subject to tax under subsection (a)(2).
+
+#### (C) Short-term capital gain dividend
+
+&emsp;&emsp;For purposes of this paragraph, the term “short-term capital gain dividend” means any dividend (or part thereof) which is designated by the regulated investment company as a short-term capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified short-term gain of the company for such taxable year, the portion of each distribution which shall be a short-term capital gain dividend shall be only that portion of the amounts so designated which such qualified short-term gain bears to the aggregate amount so designated. Such term shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2007.
+
+#### (D) Qualified short-term gain
+
+&emsp;&emsp;For purposes of subparagraph (C), the term “qualified short-term gain” means the excess of the net short-term capital gain of the regulated investment company for the taxable year over the net long-term capital loss (if any) of such company for such taxable year. For purposes of this subparagraph—
+
+&emsp;&emsp;&emsp;(i) the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain, and
+
+&emsp;&emsp;&emsp;(ii) the excess of the net short-term capital gain for a taxable year over the net long-term capital loss for a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net short-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net short-term capital loss shall be treated as arising on the 1st day of the next taxable year.
+
+> &emsp;&emsp;To the extent provided in regulations, clause (ii) shall apply also for purposes of computing the taxable income of the regulated investment company.
+
+#### (<i>l</i>) Cross references
 
 &emsp;&emsp;<b>(1) For tax treatment of certain amounts distributed by the United States to nonresident alien individuals, see section 402(e)(2).</b>
 
@@ -312,7 +386,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 &emsp;&emsp;<b>(7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500.)
 
 #### References in Text
 
@@ -323,6 +397,10 @@ Section 932(c), referred to in subsec. (a)(3), was repealed and a new section 93
 The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 #### Amendments
+
+2004—Subsec. (i)(2)(D). Pub. L. 108–357, §409(a), added subpar. (D).
+
+Subsecs. (k), (<i>l</i>). Pub. L. 108–357, §411(a)(1), added subsec. (k) and redesignated former subsec. (k) as (<i>l</i>).
 
 2000—Subsec. (f)(2)(B). Pub. L. 106–554 inserted opening parenthesis before “19 U.S.C.”.
 
@@ -370,7 +448,7 @@ Subsec. (a)(3). Pub. L. 99–272 inserted at end “For treatment of certain cit
 
 Subsec. (e). Pub. L. 99–514, §1211(b)(5), struck out subsec. (e) which related to gains from sale or exchange of certain intangible property, par. (1) treating payments as contingent on use, etc., and par. (2) containing source rule.
 
-Subsec. (h)(2). Pub. L. 99–514, §1810(d)(1)(A), (3)(B), inserted “which would be subject to tax under subsection (a) but for this subsection and” in introductory provisions and substituted “receives a statement” for “has received a statement” in subpar. (B)(ii).
+Subsec. (h)(2). Pub. L. 99–514, §1810(d)(1)(A), (3)(B), inserted “which would be subject to tax under subsection\(a) but for this subsection and” in introductory provisions and substituted “receives a statement” for “has received a statement” in subpar. (B)(ii).
 
 Subsec. (h)(3)(C)(ii), (iii). Pub. L. 99–514, §1810(d)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
@@ -437,6 +515,24 @@ Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted “$1
 1958—Subsec. (a)(1). Pub. L. 85–866, §40(a), inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
 Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under section 116 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §409(b), Oct. 22, 2004, 118 Stat. 1500, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2004.”
+
+Pub. L. 108–357, title IV, §411(d), Oct. 22, 2004, 118 Stat. 1505, provided that:
+
+“(1)
+
+In general.—Except as otherwise provided in this subsection, the amendments made by this section\[amending this section and sections 881, 897, 1441, 1442, and 2105 of this title\] shall apply to dividends with respect to taxable years of regulated investment companies beginning after December 31, 2004.
+
+“(2)
+
+Estate tax treatment.—The amendment made by subsection (b) \[amending section 2105 of this title\] shall apply to estates of decedents dying after December 31, 2004.
+
+“(3)
+
+Certain other provisions.—The amendments made by subsection (c) \[amending section 897 of this title\] (other than paragraph (1) thereof) shall take effect after December 31, 2004.”
 
 #### Effective Date of 1999 Amendment
 
@@ -522,7 +618,7 @@ Section 128(d) of Pub. L. 98–369 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 163 and 881 of this title\] shall apply to payments made on or after the 60th day after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after March 31, 1972.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 163 and 881 of this title\] shall apply to payments made on or after the 60th day after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after March 31, 1972.
 
 “(2)
 
@@ -608,15 +704,11 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 5, 26, 32, 306, 860G, 861, 864, 873, 877, 881, 882, 884, 887, 891, 897, 906, 1235, 1276, 1278, 1441, 1442, 1444, 1445, 2105, 6012, 6049, 7701 of this title; title 48 section 1421i.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@ The Secretary of Energy shall conduct evaluations, arrange for tests, and dissem
 
 #### (e) Intensification of research in basic areas by Department of Energy
 
-The Department of Energy shall intensify research in key basic science areas in which the lack of knowledge limits development of advanced automobile propulsion systems.
+The Department of Energy shall intensify research in key basic science areas in which thelack of knowledge limits development of advanced automobile propulsion systems.
 
 #### (f) Program provisions and requirements; administrative and judicial procedures applicable to contracts, grants, or projects; additional information for reports and budget submissions; nonretroactivity of provisions and requirements
 
@@ -36,7 +36,7 @@ The Department of Energy shall intensify research in key basic science areas in 
 
 &emsp;(C) avoids duplication of private research and development.
 
-(2) To that end, the Secretary of Energy shall issue administrative regulations, within 60 daysafter February 25, 1978, which shall specify procedures, standards, and criteria for the timely review for compliance of each new contract, grant, Department of Energy project, or other agency project funded or to be funded under the authority of this Act. Such regulations shall require that the Secretary of Energy or his designee shall certify that each such contract, grant, or project satisfies the requirement of this subsection, and shall include in such certification a discussion of the relationship of any related or comparable industry research and development, in terms of this subsection, to the proposed research and development under the authority of this Act. The discussion shall also address related issues, such as cost sharing and patent rights.
+(2) To that end, the Secretary of Energy shall issue administrative regulations, within 60 days after February 25, 1978, which shall specify procedures, standards, and criteria for the timely review for compliance of each new contract, grant, Department of Energy project, or other agency project funded or to be funded under the authority of this Act. Such regulations shall require that the Secretary of Energy or his designee shall certify that each such contract, grant, or project satisfies the requirement of this subsection, and shall include in such certification a discussion of the relationship of any related or comparable industry research and development, in terms of this subsection, to the proposed research and development under the authority of this Act. The discussion shall also address related issues, such as cost sharing and patent rights.
 
 (3) Such certifications shall be available to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The provisions of chapter 5 of title 5 shall not apply to such certifications and no court shall have any jurisdiction to review the preparation or adequacy of such certifications; but section 553 of title 5 and section 5916 of title 42 shall apply to public disclosure of such certifications.
 

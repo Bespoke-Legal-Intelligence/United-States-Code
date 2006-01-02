@@ -22,7 +22,3 @@ Section 320 of The Federal Election Campaign Act of 1971, referred to in subsec.
 
 Section 305(d) of Pub. L. 94–283, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9035(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9033, 9042 of this title.
-

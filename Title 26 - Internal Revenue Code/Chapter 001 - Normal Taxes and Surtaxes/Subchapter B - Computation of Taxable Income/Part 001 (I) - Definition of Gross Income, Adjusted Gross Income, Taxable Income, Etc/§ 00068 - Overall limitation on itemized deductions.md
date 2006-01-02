@@ -40,40 +40,40 @@ This section shall be applied after the application of any other limitation on t
 
 This section shall not apply to any estate or trust.
 
-(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44.)
+#### (f) Phaseout of limitation
 
-#### Adjustment of Applicable Amount Under This Section for Taxable Years Beginning in 2004
+#### (1) In general
 
-<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for taxable years beginning in 2004, see section 3.11 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+&emsp;In the case of taxable years beginning after December 31, 2005, and before January 1, 2010, the reduction under subsection (a) shall be equal to the applicable fraction of the amount which would (but for this subsection) be the amount of such reduction.
 
-#### Enactment of Subsections (f) and (g)
+#### (2) Applicable fraction
 
-<i>Pub. L. 107–16, title I, §§103, 901, June 7, 2001, 115 Stat. 44, 150, provided that, applicable to taxable years beginning after Dec. 31, 2005, this section is temporarily amended by adding subsections (f) and (g) to read as follows:</i>
-
-#### <i>(f) Phaseout of limitation</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>In the case of taxable years beginning after December 31, 2005, and before January 1, 2010, the</i><i>reduction under subsection (a) shall be equal to the applicable fraction of the amount which would (but for this subsection) be the amount of such reduction.</i>
-
-#### <i>(2) Applicable fraction</i>
-
-&emsp;<i>For purposes of paragraph (1), the applicable fraction shall be determined in accordance with the following table:</i>
+&emsp;For purposes of paragraph (1), the applicable fraction shall be determined in accordance with the following table:
 
 &nbsp;
 
-| <i>For taxable years beginning</i> in calendar year— | <i>The applicable</i> fraction is— |
+| <b>For taxable years beginning in calendar year—</b> | <b>The applicable fraction is—</b> |
 | :--- | ---: |
 | &nbsp;&nbsp;2006 and 2007 | 2/3&nbsp; |
 | &nbsp;&nbsp;2008 and 2009 | 1/3. |
 
-#### <i>(g) Termination</i>
+#### (g) Termination
 
-<i>This section shall not apply to any taxable year beginning after December 31, 2009.</i>
+This section shall not apply to any taxable year beginning after December 31, 2009.
 
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44.)
+
+#### Adjustment of Applicable Amount Under This Section for Taxable Years Beginning in 2006
+
+<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for taxable years beginning in 2006, see section 3.11 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsecs. (f), (g). Pub. L. 107—16, §§103(a), 901, temporarily added subsecs. (f) and (g). See Effective and Termination Dates of 2001 Amendment note below.
 
 1998—Subsec. (c)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”.
 
@@ -98,8 +98,4 @@ Amendment by section 13201(b)(3)(E) of Pub. L. 103–66 applicable to taxable ye
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1990, see section 11103(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 56, 773 of this title.
 

@@ -48,7 +48,7 @@ The United States Trade Representative shall consult on a continuing basis with 
 
 #### Amendments
 
-1988—Pub. L. 100–418 amended section generally, substituting present provisions for similar provisions which had related to Congressional delegates to negotiations, and changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
+1988—Pub. L. 100–418 amended section generally, substituting present provisions for similar provisionswhich had related to Congressional delegates to negotiations, and changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
 
 1979—Subsec. (b)(1). Pub. L. 96–39 substituted “trade agreement or any requirement of, amendment to, or recommendation under, such agreement” for “trade agreement”.
 

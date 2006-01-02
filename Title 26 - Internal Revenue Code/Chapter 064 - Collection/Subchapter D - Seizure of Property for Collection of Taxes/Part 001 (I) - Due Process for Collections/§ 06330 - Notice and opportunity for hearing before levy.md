@@ -152,7 +152,3 @@ Amendment by section 1(a)(7) \[title III, §313(b)(2)(A)\] of Pub. L. 106–554 
 
 Section applicable to collection actions initiated after the date which is 180 days after July 22, 1998, see section 3401(d) of Pub. L. 105–206, set out as a note under section 6320 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6320, 7421, 7443A, 7463, 7803 of this title.
-

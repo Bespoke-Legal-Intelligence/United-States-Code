@@ -120,7 +120,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 2(c)(53) of Pub. L. 103–208 effective on and after 60 days after Dec. 20, 1993 and amendments by section 2(c)(54), (k)(4) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L.102–325, see section 5(a), (b)(4) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by section 2(c)(53) of Pub. L. 103–208 effective on and after 60 days after Dec. 20, 1993 and amendments by section 2(c)(54), (k)(4) of Pub. L. 103–208 effective, except as otherwise provided, as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, see section 5(a), (b)(4) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

@@ -64,11 +64,15 @@ Pub. L. 97–462, §1, Jan. 12, 1983, 96 Stat. 2527, provided: “That this Act 
 
 Section 406 of title IV of Pub. L. 100–702 provided that: “The rules prescribed in accordance with law before the effective date of this title \[Dec. 1, 1988\] and in effect on the date of such effective date shall remain in force until changed pursuant to the law as amended by this title \[see Effective Date of 1988 Amendment note above\].”
 
+#### Rulemaking Authority of Supreme Court and Judicial Conference
+
+Pub. L. 109–2, §8, Feb. 18, 2005, 119 Stat. 14, provided that: “Nothing in this Act \[see Short Title of 2005 Amendments note set out under section 1 of this title\] shall restrict in any way the authority of the Judicial Conference and the Supreme Court to propose and prescribe general rules of practice and procedure under chapter 131 of title 28, United States Code.”
+
 #### Tax Court Rulemaking Not Affected
 
 Section 405 of title IV of Pub. L. 100–702 provided that: “The amendments made by this title \[see Effective Date of 1988 Amendment note above\] shall not affect the authority of the Tax Court to prescribe rules under section 7453 of the Internal Revenue Code of 1986 \[26 U.S.C. 7453\].”
 
 #### Admiralty Rules
 
-The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20, 1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F,Federal Rules of Civil Procedure, Appendix to this title.
+The Rules of Practice in Admiralty and Maritime Cases, promulgated by the Supreme Court on Dec. 20,1920, effective Mar. 7, 1921, as revised, amended, and supplemented, were rescinded, effective July 1, 1966, in accordance with the general unification of civil and admiralty procedure which became effective July 1, 1966. Provision for certain distinctly maritime remedies were preserved however in the Supplemental Rules for Certain Admiralty and Maritime Claims, rules A to F, Federal Rules of Civil Procedure, Appendix to this title.
 

@@ -128,7 +128,7 @@ In this section:
 
 #### (5) Crediting of amounts
 
-&emsp;Any amount repaid by, or recovered from, an eligible employee under this section shall be credited to the subaccount for the employing office from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such subaccount for the employing office and shall be available for the same purposes, and subject to the same limitations (if any), as the sums with which such amount is merged.
+&emsp;Any amount repaid by, or recovered from, an eligible employee under this section shall becredited to the subaccount for the employing office from which the amount involved was originally paid. Any amount so credited shall be merged with other sums in such subaccount for the employing office and shall be available for the same purposes, and subject to the same limitations (if any), as the sums with which such amount is merged.
 
 #### (e) Records and reports
 

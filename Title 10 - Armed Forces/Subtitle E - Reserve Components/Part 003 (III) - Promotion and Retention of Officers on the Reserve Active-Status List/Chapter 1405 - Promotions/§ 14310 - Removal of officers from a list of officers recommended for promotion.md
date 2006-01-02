@@ -18,11 +18,11 @@ Continued Eligibility for Promotion.—An officer whose name is removed from a l
 
 Provisions similar to those in this section were contained in section 5905 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
+#### Delegation of Functions
+
+For assignment of functions of President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
+
 #### Removals From Promotion List
 
 Section 1684(b) of title XVI of div. A of Pub. L. 103–337, as amended by Pub. L. 104–106, div. A, title XV, §1501(a)(9), Feb. 10, 1996, 110 Stat. 495, provided that: “An action that was initiated before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect before that date to remove the name of an officer from a promotion list or from a list of officers recommended or approved for promotion shall continue on and after such date as if such action had been initiated under section 14111(c) or 14310, as appropriate, of title 10, United States Code, as added by this title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14501 of this title.
 

@@ -14,7 +14,3 @@ If a taxpayer exercises the election provided for in subsection (a) for any taxa
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1016, 3402 of this title.
-

@@ -10,7 +10,7 @@
 
 &emsp;(4) Reasonable assurance that upon completion of such project the facilities will be used principally to furnish to veterans the level of care for which such application is made and that not more than 25 percent of the bed occupancy at any one time will consist of patients who are not receiving such level of care as veterans.
 
-&emsp;(5) Reasonable assurance that title to such site is or will be vested solely in the applicant,a State home, or another agency or instrumentality of the State.
+&emsp;(5) Reasonable assurance that title to such site is or will be vested solely in the applicant, a State home, or another agency or instrumentality of the State.
 
 &emsp;(6) Reasonable assurance that adequate financial support will be available for the construction of the project (or for facility acquisition and construction of the project) by July 1 of the fiscal year for which the application is approved and for its maintenance and operation when complete.
 
@@ -40,7 +40,7 @@
 
 (2) Subject to paragraphs (3) and (5)(C) of this subsection, the Secretary shall accord priority to applications in the following order:
 
-&emsp;(A) An application from a State that has made sufficient funds available for the project for which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
+&emsp;(A) An application from a State that has made sufficient funds available for the projectfor which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
 
 &emsp;(B) An application from a State for a project at an existing facility to remedy a condition or conditions that have been cited by an accrediting institution, by the Secretary, or by a local licensing or approving body of the State as being threatening to the lives or safety of the patients in the facility.
 
@@ -66,7 +66,7 @@
 
 (5)(A) The Secretary shall defer approval of an application that otherwise meets the requirements of this section if the State submitting the application does not, by the July 1 deadline (as defined in subparagraph (D) of this paragraph), demonstrate to the satisfaction of the Secretary that the State has provided adequate financial support for construction of the project.
 
-(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for award of a grant or grants under this subsection an application or applications which would not havebeen approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
+(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for award of a grant or grants under this subsection an application or applications which would not have been approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
 
 (C) An application deferred in accordance with the requirements of this paragraph shall be accorded priority in any subsequent fiscal year ahead of applications that had not been approved before the first day of the fiscal year in which the deferred application was first approved.
 
@@ -190,7 +190,7 @@ Subsec. (b). Pub. L. 94–581, §§206(b), 210(e)(10), substituted “the Admini
 
 Section 403(b) of Pub. L. 102–585 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to projects that are conditionally approved after September 30, 1992.”
 
-Section 404(b) of Pub. L. 102–585 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to rescissions of conditional approvalof projects after the date of the enactment of this Act \[Nov. 4, 1992\].”
+Section 404(b) of Pub. L. 102–585 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to rescissions of conditional approval of projects after the date of the enactment of this Act \[Nov. 4, 1992\].”
 
 #### Effective Date of 1986 Amendment
 

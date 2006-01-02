@@ -53,10 +53,6 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 
 1958—Pub. L. 85–861, §1(16), Sept. 2, 1958, 72 Stat. 1441, added items 684 and 685.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 513 of this title; title 33 section 3049.
-
 
 ---
 

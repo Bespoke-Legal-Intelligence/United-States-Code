@@ -10,7 +10,7 @@ The Counsel, the Deputy Counsel, or any designated Assistant Counsel or counsel 
 
 #### (c) Standing to sue; jurisdiction
 
-Nothing in this chapter shall be construed to confer standing on any party seeking to bring,or jurisdiction on any court with respect to, any civil or criminal action against Congress, either House of Congress, a Member of Congress, a committee or subcommittee of a House of Congress, any office or agency of Congress, or any officer or employee of a House of Congress or any office or agency of Congress.
+Nothing in this chapter shall be construed to confer standing on any party seeking to bring, or jurisdiction on any court with respect to, any civil or criminal action against Congress, either House of Congress, a Member of Congress, a committee or subcommittee of a House of Congress, any office or agency of Congress, or any officer or employee of a House of Congress or any office or agency of Congress.
 
 (Pub. L. 95–521, title VII, §713, Oct. 26, 1978, 92 Stat. 1883.)
 

@@ -1,6 +1,6 @@
 ### §514. Legal services on pending claims in departments and agencies
 
-When the head of an executive department or agency is of the opinion that the interests of the United States require the service of counsel on the examination of any witness concerning any claim, or on the legal investigation of any claim, pending in the department or agency, he shall notify the Attorney General, giving all facts necessary to enable him to furnish proper professional service in attending the examination or making the investigation, and the Attorney General shall provide for the service.
+When the head of an executive department or agency is of the opinion that the interests of the United States require the service of counsel onthe examination of any witness concerning any claim, or on the legal investigation of any claim, pending in the department or agency, he shall notify the Attorney General, giving all facts necessary to enable him to furnish proper professional service in attending the examination or making the investigation, and the Attorney General shall provide for the service.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 613.)
 
@@ -22,7 +22,7 @@ R.S. §187.
 
 R.S. §364.
 
-Sections 187 and 364 of the Revised Statutes are combined into one section since they both deal with thesame subject matter and are derived from the Act of Feb. 14, 1871, ch. 51, §3, 16 Stat. 412.
+Sections 187 and 364 of the Revised Statutes are combined into one section since they both deal with the same subject matter and are derived from the Act of Feb. 14, 1871, ch. 51, §3, 16 Stat. 412.
 
 The words “executive department” are substituted for “Department” because “Department”, as used in R.S. §§187 and 364, meant “executive department”. (See R.S. §159.) The word “agency” is substituted for “bureau” as it has a more common current acceptance. The word “concerning” is substituted for “touching”. Reference to application for a subpena is omitted as R.S. §364 gives the department head the same authority to request aid from the Attorney General whether or not application has been made for a subpena.
 

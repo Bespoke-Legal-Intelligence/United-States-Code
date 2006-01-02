@@ -24,13 +24,7 @@ Relationship to Other Pay and Allowances.—A bonus paid to a member under this 
 
 (e)
 
-Repayment of Bonus.—(1) A member who receives a bonus under this section and who, voluntarily or because of misconduct, fails to serve in such military occupational specialty for the period specified in the agreement executed under subsection (a) shall refund to the United States an amount that bears the same ratio to the bonus amount paid to the member as the unserved part of such period bears to the total period agreed to be served.
-
-(2) An obligation to reimburse the United States imposed under paragraph (1) is, for all purposes, a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of the agreement for which a bonus was paid under this section shall not discharge the person signing such agreement from the debt arising under paragraph (1).
-
-(4) Under regulations prescribed pursuant to subsection (f), the Secretary concerned may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
+Repayment.—A member who does not convert to and complete the period of service in the military occupational specialty specified in the agreement executed under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (f)
 
@@ -40,9 +34,11 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 Termination of Authority.—No agreement under this section may be entered into after December 31, 2006.
 
-(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955.)
+(Added Pub. L. 108–136, div. A, title VI, §625(a), Nov. 24, 2003, 117 Stat. 1506; amended Pub. L. 108–375, div. A, title VI, §622, Oct. 28, 2004, 118 Stat. 1955; Pub. L. 109–163, div. A, title VI, §687(b)(34), Jan. 6, 2006, 119 Stat. 3333.)
 
 #### Amendments
+
+2006—Subsec. (e). Pub. L. 109–163, amended heading and text of subsec. (e) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when member fails to serve in specified military occupational specialty for agreed upon period.
 
 2004—Subsec. (a). Pub. L. 108–375, §622(a)(1), inserted “of a regular or reserve component” after “an eligible member”.
 
@@ -51,4 +47,8 @@ Subsec. (b). Pub. L. 108–375, §622(a)(2), substituted comma for dash after �
 Subsec. (c)(1). Pub. L. 108–375, §622(b), inserted before period at end “, in the case of a member of a regular component of the armed forces, and $2,000, in the case of a member of a reserve component of the armed forces”.
 
 Subsec. (c)(2). Pub. L. 108–375, §622(a)(3), inserted “regular or reserve component of the” after “chief personnel officer of the”.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

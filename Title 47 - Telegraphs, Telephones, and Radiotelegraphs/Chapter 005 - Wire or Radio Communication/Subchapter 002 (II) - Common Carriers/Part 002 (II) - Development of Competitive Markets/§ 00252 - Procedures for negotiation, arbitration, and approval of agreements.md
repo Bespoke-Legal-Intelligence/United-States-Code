@@ -4,7 +4,7 @@
 
 #### (1) Voluntary negotiations
 
-&emsp;Upon receiving a request for interconnection, services, or network elements pursuant to section 251 of this title, an incumbent local exchange carrier may negotiate and enter into a binding agreement with the requesting telecommunications carrier or carriers without regard to the standards set forth in subsections (b) and (c) of section 251 of this title. The agreement shall include a detailed schedule of itemized charges for interconnection and each service or network element included in the agreement. The agreement, including any interconnection agreement negotiated before February 8, 1996, shall be submitted to the State commission under subsection (e) of this section.
+&emsp;Upon receiving a request for interconnection, services, or network elements pursuant to section 251 of this title, an incumbent local exchange carrier may negotiate and enter into a binding agreement with the requesting telecommunications carrier or carriers without regard to the standards set forth in subsections (b) and (c) of section 251 of this title. The agreement shall include a detailed schedule of itemized charges for interconnectionand each service or network element included in the agreement. The agreement, including any interconnection agreement negotiated before February 8, 1996, shall be submitted to the State commission under subsection (e) of this section.
 
 #### (2) Mediation
 
@@ -152,7 +152,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (g) Consolidation of State proceedings
 
-Where not inconsistent with the requirements of this chapter, a State commission may, to theextent practical, consolidate proceedings under sections 214(e), 251(f), 253 of this title, and this section in order to reduce administrative burdens on telecommunications carriers, other parties to the proceedings, and the State commission in carrying out its responsibilities under this chapter.
+Where not inconsistent with the requirements of this chapter, a State commission may, to the extent practical, consolidate proceedings under sections 214(e), 251(f), 253 of this title, and this section in order to reduce administrative burdens on telecommunications carriers, other parties to the proceedings, and the State commission in carrying out its responsibilities under this chapter.
 
 #### (h) Filing required
 

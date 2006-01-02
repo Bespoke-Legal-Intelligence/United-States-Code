@@ -16,7 +16,7 @@
 
 (b) The procedures for judicial review established by section 211 of the Economic Stabilization Act of 1970 shall apply to proceedings to which subsection (a) of this section applies, as if such proceedings took place under such Act. Such procedures for judicial review shall apply notwithstanding the expiration of the Economic Stabilization Act of 1970.
 
-(c) Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) of this section shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days after the date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
+(c) Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) of this section shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days afterthe date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
 
 (Pub. L. 94–163, title V, §523, Dec. 22, 1975, 89 Stat. 962.)
 
@@ -28,5 +28,5 @@ The Economic Stabilization Act of 1970, referred to in subsec. (b), is title II 
 
 #### Codification
 
-Words “(other than any provision of such titles which amends another law)”, appearing in the original at the end of subsec. (a), have been omitted as unnecessary. Such titles meant titles I, II, and V of Pub. L. 94–163,which titles are classified to subchapters I, II, and V of this chapter. The provisions of such titles that amended other laws were not classified to subchapters I, II, and V of this chapter.
+Words “(other than any provision of such titles which amends another law)”, appearing in the original at the end of subsec. (a), have been omitted as unnecessary. Such titles meant titles I, II, and V of Pub. L. 94–163, which titles are classified to subchapters I, II, and V of this chapter. The provisions of such titles that amended other laws were not classified to subchapters I, II, and V of this chapter.
 

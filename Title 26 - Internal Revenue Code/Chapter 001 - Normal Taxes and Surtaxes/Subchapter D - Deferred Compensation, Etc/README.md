@@ -11,10 +11,6 @@
 
 1964—Pub. L. 88–272, title II, §221(d)(1), Feb. 26, 1964, 78 Stat. 75, substituted “Certain stock options” for “Miscellaneous provisions” in heading to part II.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6103, 7476, 7802 of this title; title 29 sections 623, 1054.
-
 
 ---
 

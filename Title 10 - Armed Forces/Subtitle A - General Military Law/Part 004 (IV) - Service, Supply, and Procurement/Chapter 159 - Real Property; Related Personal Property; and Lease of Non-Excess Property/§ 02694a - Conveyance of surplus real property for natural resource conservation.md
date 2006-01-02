@@ -10,7 +10,7 @@ Authority to Convey.—The Secretary of a military department may convey to an e
 
 &emsp;(3) has been made available for public benefit transfer for a sufficient period of time to potential claimants; and
 
-&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient forpublic benefit transfer under the real property disposal processes and authorities under subtitle I of title 40.
+&emsp;(4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real property disposal processes and authorities under subtitle I of title 40.
 
 (b)
 
@@ -60,31 +60,17 @@ Definitions.—In this section:
 
 &emsp;(1) The term “appropriate committees of Congress” has the meaning given such term in section 2801 of this title.
 
-&emsp;(2) The term “base closure law” means the following:
+&emsp;(2) The term “Secretary concerned” means the Secretary of a military department.
 
-&emsp;&emsp;(A) Section 2687 of this title.
+&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
-&emsp;&emsp;(B) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act of 1988 (10 U.S.C. 2687 note).
-
-&emsp;&emsp;(C) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-&emsp;&emsp;(D) Any other similar authority for the closure or realignment of military installations that is enacted after the date of the enactment of the Bob Stump National Defense Authorization Act for Fiscal Year 2003.
-
-&emsp;(3) The term “Secretary concerned” means the Secretary of a military department.
-
-&emsp;(4) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, and the territories and possessions of the United States.
-
-(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707.)
+(Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439.)
 
 #### References in Text
 
 Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2), is set out as a note under section 521 of Title 40, Public Buildings, Property, and Works.
 
-The Defense Authorization Amendments and Base Closure and Realignment Act of 1988, referred to in subsec. (i)(2)(B), probably means the Defense Authorization Amendments and Base Closure and Realignment Act, Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of this title and Tables.
+#### Amendments
 
-The date of the enactment of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referredto in subsec. (i)(2)(D), is the date of enactment of Pub. L. 107–314, which was approved Dec. 2, 2002.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2695 of this title.
+2006—Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and American Samoa” for “and the territories and possessions of the United States”.
 

@@ -8,7 +8,3 @@ Unless retired, transferred to the Retired Reserve, or discharged at an earlier 
 
 Provisions similar to those in this section were contained in sections 3844 and 8844 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(3), (c)(3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14512, 14515 of this title.
-

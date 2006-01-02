@@ -2,11 +2,11 @@
 
 (a)
 
-Offer and Acceptance.—On approving a project grant application under this subchapter,the Secretary of Transportation shall offer the sponsor a grant to pay the United States Government's share of the project costs allowable under section 47110 of this title. The Secretary may impose terms on the offer that the Secretary considers necessary to carry out this subchapter and regulations prescribed under this subchapter. An offer shall state the obligations to be assumed by the sponsor and the maximum amount the Government will pay for the project from the amounts authorized under chapter 481 of this title (except sections 48102(e), 48106, 48107, and 48110). At the request of the sponsor, an offer of a grant for a project that will not be completed in one fiscal year shall provide for the obligation of amounts apportioned or to be apportioned to a sponsor under section 47114(c) or 47114(d)(3)(A) of this title for the fiscal years necessary to pay the Government's share of the cost of the project. An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor. The Government may pay or be obligated to pay a project cost only after a grant agreement for the project is signed.
+Offer and Acceptance.—On approving a project grant application under this subchapter, the Secretary of Transportation shall offer the sponsor a grant to pay the United States Government's share of the project costs allowable under section 47110 of this title. The Secretary may impose terms on the offer that the Secretary considers necessary to carry out this subchapter and regulations prescribed under this subchapter. An offer shall state the obligations to be assumed by the sponsor and the maximum amount the Government will pay for the project from the amounts authorized under chapter 481 of this title (except sections 48102(e), 48106, 48107, and 48110). At the request of the sponsor, an offer of a grant for a project that will not be completed in one fiscal year shall provide for the obligation of amounts apportioned or to be apportioned to a sponsor under section 47114(c) or 47114(d)(3)(A) of this title for the fiscal years necessary to pay the Government's share of the cost of the project. An offer that is accepted in writing by the sponsor is an agreement binding on the Government and the sponsor. The Government may pay or be obligated to pay a project cost only after a grant agreement for the project is signed.
 
 (b)
 
-Increasing Government's Share Under This Subchapter or Chapter 475.—(1) When an offer has been accepted in writing, the amount stated in the offer as the maximum amount the Government will pay may be increased only as provided in paragraphs (2) and (3) of this subsection.
+Increasing Government's Share Under This Subchapter or Chapter 475.—(1) When an offer has been accepted in writing, the amount stated in the offer as the maximum amount the Government will pay may be increased only asprovided in paragraphs (2) and (3) of this subsection.
 
 (2)(A) For a project receiving assistance under a grant approved under the Airport and Airway Improvement Act of 1982 before October 1, 1987, the amount may be increased by not more than—
 
@@ -46,7 +46,11 @@ Changes to nonprimary airport status.—If the status of a primary airport chang
 
 Changes to noncommercial service airport status.—If the status of a commercial service airport changes to a noncommercial service airport at a time when a terminal development project under a phased-funding arrangement is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the arrangement subject to the availability of funds.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84; Pub. L. 108–176, title I, §149(a), Dec. 12, 2003, 117 Stat. 2505.)
+&emsp;(3)
+
+Changes to nonhub primary status.—If the status of a nonhub primary airport changes to a small hub primary airport at a time when the airport has received discretionary funds under this chapter for a terminal development project in accordance with section 47110(d)(2), and the project is not yet completed, the project shall remain eligible for funding from the discretionary fund and the small airport fund to pay costs allowable under section 47110(d). Such project shall remain eligible for such funds for three fiscal years after the start of construction of the project, or if the Secretary determines that a further extension of eligibility is justified, until the project is completed.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1262; Pub. L. 106–181, title I, §135(c), Apr. 5, 2000, 114 Stat. 84; Pub. L. 108–176, title I, §149(a), Dec. 12, 2003, 117 Stat. 2505; Pub. L. 109–115, div. A, title I, §176(a), Nov. 30, 2005, 119 Stat. 2427.)
 
 Historical and Revision Notes
 
@@ -88,7 +92,7 @@ In subsection (b)(2), the text of 49 App.:2211(b)(2) (last sentence) is restated
 
 In subsection (b)(3)(B), the words “for fiscal year 1993 and thereafter” are omitted as unnecessary.
 
-In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “a project receiving assistance under” are added for consistency.
+In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. Thewords “a project receiving assistance under” are added for consistency.
 
 In subsection (d), the word “sponsor” is substituted for “grant recipient” for clarity. The words “amount the Government may pay” are substituted for “obligation of the United States authorized” for clarity and consistency in this section.
 
@@ -99,6 +103,8 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A)
 The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 #### Amendments
+
+2005—Subsec. (e)(3). Pub. L. 109–115 added par. (3).
 
 2003—Subsec. (a). Pub. L. 108–176 inserted “or 47114(d)(3)(A)” after “under section 47114(c)”.
 

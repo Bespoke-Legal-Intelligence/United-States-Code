@@ -18,7 +18,7 @@ Any joint resolution under subsection (a) of this section shall be considered in
 
 For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a) of this section, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-(Pub. L. 90–629, ch. 6, §63, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, §1(d), Feb. 12, 1986, 100 Stat. 9; Pub. L. 104–164, title I, §141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, §1405(a)(3), Sept. 30, 2002, 116 Stat. 1457.)
+(Pub. L. 90–629, ch. 6, §63, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, §1(d), Feb. 12, 1986, 100 Stat. 9;Pub. L. 104–164, title I, §141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, §1405(a)(3), Sept. 30, 2002, 116 Stat. 1457.)
 
 #### References in Text
 

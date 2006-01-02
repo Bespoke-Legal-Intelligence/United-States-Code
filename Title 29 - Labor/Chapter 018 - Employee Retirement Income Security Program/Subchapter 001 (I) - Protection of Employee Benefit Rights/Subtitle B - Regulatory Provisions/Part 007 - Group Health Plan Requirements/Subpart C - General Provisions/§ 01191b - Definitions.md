@@ -82,7 +82,7 @@ For purposes of this part, the term “excepted benefits” means benefits under
 
 #### (4) Benefits not subject to requirements if offered as separate insurance policy
 
-&emsp;Medicare supplemental health insurance (as defined under section 1395ss(g)(1) of title 42), coverage supplemental to the coverage provided under chapter 55 of title 10, and similar supplemental coverage provided to coverage under a group health plan.
+&emsp;Medicare supplemental health insurance (as defined under section 1395ss(g)(1) of title 42), coverage supplemental to the coverage provided under chapter 55 of title 10, and similarsupplemental coverage provided to coverage under a group health plan.
 
 #### (d) Other definitions
 

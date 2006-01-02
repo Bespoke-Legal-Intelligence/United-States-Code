@@ -173,87 +173,19 @@ Section 168 of Pub. L. 97–164 provided that: “The Congress—
 
 #### Salary Increases
 
-2005—Salaries of circuit judges increased to $171,800 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2005, by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+For adjustment of salaries of circuit judges under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-2004—Salaries of circuit judges increased to $167,600 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of Title 5.
+For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of Title 2, The Congress.
 
-Salaries of circuit judges increased to $166,500 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2004, by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
+For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under section 5318 of Title 5, Government Organization and Employees.
 
-2003—Salaries of circuit judges increased to $164,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2003, by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, as amended by Ex. Ord. No. 13291, §3, Mar. 21, 2003, 68 F.R. 14525, formerly set out as a note under section 5332 of Title 5.
+Salaries of circuit judges increased from $12,500 to $17,500 a year by act July 31, 1946, ch. 704, §1, 60 Stat. 716.
 
-2002—Salaries of circuit judges increased to $159,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2002, by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of Title 5.
+Salaries of circuit judges increased from $8,500 to $12,500 a year by act Dec. 13, 1926, ch. 6, §1, 44 Stat. 919.
 
-2001—Salaries of circuit judges increased to $153,900 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of Title 5.
+Salaries of circuit judges increased from $7,000 to $8,500 a year by act Feb. 25, 1919, ch. 29, §1, 40 Stat. 1156.
 
-2000—Salaries of circuit judges increased to $149,900 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
-
-1999—Salaries of circuit judges continued at $145,000 per annum, by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
-
-1998—Salaries of circuit judges increased to $145,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1998, by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
-
-1997—Salaries of circuit judges continued at $141,700 per annum, by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of Title 5.
-
-1996—Salaries of circuit judges continued at $141,700 per annum, by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out as a note under section 5332 of Title 5.
-
-1995—Salaries of circuit judges continued at $141,700 per annum, by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5.
-
-1993—Salaries of circuit judges increased to $141,700 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1993, by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, formerly set out as a note under section 5332 of Title 5.
-
-1992—Salaries of circuit judges increased to $137,300 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1992, by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, formerly set out as a note under section 5332 of Title 5.
-
-1991—Salaries of circuit judges increased to $132,700 per annum, effective on first day of first pay period beginning on or after Jan. 1, 1991, by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, formerly set out as a note under section 5332 of Title 5.
-
-1990—Salaries of circuit judges continued at $95,000 per annum, and increased to $102,500, effective on first day of first pay period beginning on or after Jan. 31, 1990, by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, formerly set out as a note under section 5332 of Title 5.
-
-1989—Salaries of circuit judges increased in the amount of 25 percent of their rates (as last in effect before the increase), effective Jan. 1, 1991, see Pub. L. 101–194, title VII, §703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5.
-
-Salaries of circuit judges continued at $95,000 per annum by Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, formerly set out as a note under section 5332 of Title 5.
-
-1988—Salaries of circuit judges continued at $95,000 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5.
-
-1987—Salaries of circuit judges increased to $95,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
-Salaries of circuit judges increased to $85,700 effective on first day of first pay period beginning on or after Jan. 1, 1987, by Ex. Ord. No. 12578, Dec. 31, 1986, 55 F.R. 505, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
-
-1985—Salaries of circuit judges increased to $83,200 effective on first day of first pay period beginning on or after Jan. 1, 1985, by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
-
-1984—Salaries of circuit judges increased to $80,400 effective on first day of first pay period beginning on or after Jan. 1, 1984, by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
-
-1982—Salaries of circuit judges increased to $77,300 effective on first day of first pay period beginning on or after Oct. 1, 1982, by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12387 further provided that pursuant to section 140 of Pub. L. 97–92 funds are not available to pay a salary at a rate which exceeds the rate in effect on Dec. 15, 1981, which was $74,300.
-
-Maximum rate payable after Dec. 17, 1982, increased from $74,300 to $77,300, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5.
-
-1981—Salaries of circuit judges increased to $74,300 effective on first day of first pay period beginning on or after Oct. 1, 1981, by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, formerly set out as a note under section 5332 of Title 5.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V ofthe Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
-
-1980—Salaries of circuit judges increased to $70,900 effective on first day of first pay period beginning on or after Oct. 1, 1980, by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12248 further provided that pursuant to Pub. L. 96–369 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
-
-Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
-
-1979—Salaries of circuit judges increased to $65,000 effective on first day of first applicable pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $60,662.50 for circuit judges.
-
-Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above Level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of Title 5.
-
-1978—Salaries of circuit judges increased to $60,700 effective on first day of first pay period beginning on or after Oct. 1, 1978, by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12087 further provided that pursuant to the Legislative Branch Appropriation Act, 1979 \[Pub. L. 95–391, title III, §304, Sept. 30, 1978, 92 Stat. 788, set out as a note under section 5318 of Title 5\], funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $57,500.
-
-1977—Salaries of circuit judges increased to $57,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
-
-1976—Salaries of circuit judges increased to $46,800 effective on first day of first pay period beginning on or after Oct. 1, 1976, by Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees. Ex. Ord. No. 11941 further provided that pursuant to Legislative Branch Appropriation Act, 1977, funds are not available to pay a salary at a rate which exceeds rate in effect on Sept. 30, 1976, which was $44,600.
-
-1975—Salaries of circuit judges increased to $44,600 effective on first day of first pay period beginning on or after Oct. 1, 1975, by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, formerly set out as a note under section 5332 of Title 5.
-
-1969—Salary of circuit judge increased from $33,000 to $42,500 per annum, commencing Feb. 14, 1969, on recommendation of President of United States, see note set out under section 358 of Title 2, The Congress.
-
-1946—Salaries of circuit judges increased from $12,500 to $17,500 a year by act July 31, 1946, ch. 704, §1, 60 Stat. 716.
-
-1926—Salaries of circuit judges increased from $8,500 to $12,500 a year by act Dec. 13, 1926, ch. 6, §1, 44 Stat. 919.
-
-1919—Salaries of circuit judges increased from $7,000 to $8,500 a year by act Feb. 25, 1919, ch. 29, §1, 40 Stat. 1156.
-
-1911—Salaries of circuit court judges set at $7,000 a year by the Judicial Code of 1911, act Mar. 3, 1911, ch. 231, §1, 36 Stat. 1131.
+Salaries of circuit court judges set at $7,000 a year by the Judicial Code of 1911, act Mar. 3, 1911, ch. 231, §1, 36 Stat. 1131.
 
 #### Additional Judges
 
@@ -289,7 +221,7 @@ Section 1(c) of Pub. L. 89–372, as amended by Pub. L. 90–347, §2, June 18, 
 
 Section 1 of Pub. L. 90–347 provided: “That the President shall appoint, by and with the advice and consent of the Senate, one additional circuit judge for the third circuit, two additional circuit judges for the fifth circuit, one additional circuit judge for the sixth circuit, four additional circuit judges for the ninth circuit, and one additional circuit judge for the tenth circuit.”
 
-Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional circuit judgeship for the first circuit, two additional circuit judgeshipsfor the second circuit, one additional circuit judgeship for the third circuit, three additional circuit judgeships for the fourth circuit, eleven additional circuit judgeships for the fifth circuit, two additional circuit judgeships for the sixth circuit, one additional circuit judgeship for the seventh circuit, one additional circuit judgeship for the eighth circuit, ten additional circuit judgeships for the ninth circuit, one additional circuit judgeship for the tenth circuit, and two additional circuit judgeships for the District of Columbia.”
+Section 3(a) of Pub. L. 95–486 provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional circuit judgeship for the first circuit, two additional circuit judgeships for the second circuit, one additional circuit judgeship for the third circuit, three additional circuit judgeships for the fourth circuit, eleven additional circuit judgeships for the fifth circuit, two additional circuit judgeships for the sixth circuit, one additional circuit judgeship for the seventh circuit, one additional circuit judgeship for the eighth circuit, ten additional circuit judgeships for the ninth circuit, one additional circuit judgeship for the tenth circuit, and two additional circuit judgeships for the District of Columbia.”
 
 Section 201(a) of Pub. L. 98–353 provided that:
 

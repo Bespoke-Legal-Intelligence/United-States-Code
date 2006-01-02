@@ -30,7 +30,7 @@
 
 &emsp;Nothing contained in sections 2021b to 2021j of this title or any compact may be construed to confer any new authority on any compact commission or State—
 
-&emsp;&emsp;(A) to regulate the packaging, generation, treatment, storage, disposal, or transportation of low-level radioactive waste in a manner incompatible with the regulations ofthe Nuclear Regulatory Commission or inconsistent with the regulations of the Department of Transportation;
+&emsp;&emsp;(A) to regulate the packaging, generation, treatment, storage, disposal, or transportation of low-level radioactive waste in a manner incompatible with the regulations of the Nuclear Regulatory Commission or inconsistent with the regulations of the Department of Transportation;
 
 &emsp;&emsp;(B) to regulate health, safety, or environmental hazards from source material, byproduct material, or special nuclear material;
 

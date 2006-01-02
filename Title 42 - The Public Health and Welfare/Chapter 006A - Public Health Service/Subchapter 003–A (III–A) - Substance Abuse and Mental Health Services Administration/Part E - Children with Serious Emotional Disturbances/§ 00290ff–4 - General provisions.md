@@ -58,7 +58,7 @@ Nothing in this part shall be construed as limiting the rights of a child with a
 
 &emsp;Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b) of this section.
 
-(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175.)
+(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div.B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175.)
 
 #### References in Text
 

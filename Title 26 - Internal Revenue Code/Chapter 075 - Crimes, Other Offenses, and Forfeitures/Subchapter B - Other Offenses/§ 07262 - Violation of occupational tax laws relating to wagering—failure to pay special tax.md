@@ -4,7 +4,3 @@ Any person who does any act which makes him liable for special tax under subchap
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 862.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7012 of this title.
-

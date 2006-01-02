@@ -4,7 +4,3 @@ Any person required by section 7001 (relating to collection of certain foreign i
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 857.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7001 of this title.
-

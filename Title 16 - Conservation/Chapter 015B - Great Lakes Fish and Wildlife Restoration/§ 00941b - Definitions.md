@@ -22,7 +22,7 @@ In this chapter—
 
 &emsp;(8) the term “non-Federal source” includes a State government, local government, Indian tribe, other non-Federal governmental entity, private entity, and individual;
 
-&emsp;(9) the term “nonindigenous species” means a species of plant, animal, or other organism that did not occur in the Great Lakes Basin before European colonization of North America;
+&emsp;(9) the term “nonindigenous species” means a species of plant, animal, or other organism that did not occur in the Great Lakes Basinbefore European colonization of North America;
 
 &emsp;(10) the term “Report” means the United States Fish and Wildlife Service report entitled “Great Lakes Fishery Resources Restoration Study”, submitted to the President of the Senate and the Speaker of the House of Representatives on September 13, 1995;
 

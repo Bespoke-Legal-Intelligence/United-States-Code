@@ -2,7 +2,7 @@
 
 #### (a) Strategy
 
-The President shall establish a comprehensive, integrated, five-year strategy to combat globalHIV/AIDS that strengthens the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS. Such strategy shall maintain sufficient flexibility and remain responsive to the ever-changing nature of the HIV/AIDS pandemic and shall—
+The President shall establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthens the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS. Such strategy shall maintain sufficient flexibility and remain responsive to the ever-changing nature of the HIV/AIDS pandemic and shall—
 
 &emsp;(1) include specific objectives, multisectoral approaches, and specific strategies to treat individuals infected with HIV/AIDS and to prevent the further spread of HIV infections, with a particular focus on the needs of families with children (including the prevention of mother-to-child transmission), women, young people, and children (such as unaccompanied minor children and orphans);
 
@@ -80,7 +80,7 @@ The President shall establish a comprehensive, integrated, five-year strategy to
 
 &emsp;&emsp;(U) A description of the specific strategies developed to promote sustainability of HIV/AIDS pharmaceuticals (including antiretrovirals) and the effects of drug resistance on HIV/AIDS patients.
 
-&emsp;&emsp;(V) A description of the specific strategies to ensure that the extraordinary benefit of HIV/AIDS pharmaceuticals (especially antiretrovirals) are not diminished through the illegal counterfeiting of pharmaceuticals and black market sales of such pharmaceuticals.
+&emsp;&emsp;(V) A description of the specific strategies to ensure that the extraordinary benefit ofHIV/AIDS pharmaceuticals (especially antiretrovirals) are not diminished through the illegal counterfeiting of pharmaceuticals and black market sales of such pharmaceuticals.
 
 &emsp;&emsp;(W) An analysis of the prevalence of Human Papilloma Virus (HPV) in sub-Saharan Africa and the impact that condom usage has upon the spread of HPV in sub-Saharan Africa.
 

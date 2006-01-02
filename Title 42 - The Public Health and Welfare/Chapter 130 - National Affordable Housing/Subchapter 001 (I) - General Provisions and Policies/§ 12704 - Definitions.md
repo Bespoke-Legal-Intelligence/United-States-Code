@@ -2,7 +2,7 @@
 
 As used in this subchapter and in subchapter II of this chapter:
 
-&emsp;(1) The term “unit of general local government” means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the FederatedStates of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with section 12746(2) of this title; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
+&emsp;(1) The term “unit of general local government” means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the Federated States of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with section 12746(2) of this title; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
 
 &emsp;(2) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act.
 
@@ -56,7 +56,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;&emsp;(A) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse;
 
-&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
+&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as afirst-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
 
 &emsp;&emsp;(C) an individual shall not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual owns or owned, as a principal residence during such 3-year period, a dwelling unit whose structure is—
 

@@ -8,7 +8,7 @@ The Congress makes the following findings:
 
 &emsp;(2) As a result, many United States security firms that provide local guard services abroad have been unaware that local guard contracts were available for bidding abroad and such firms have been disadvantaged as a result.
 
-&emsp;(3) Undoubtedly, United States security firms would be interested in bidding on more local guard contracts abroad if such firms knew of the opportunity to bid on such contracts.
+&emsp;(3) Undoubtedly, United States security firms would be interested in bidding on morelocal guard contracts abroad if such firms knew of the opportunity to bid on such contracts.
 
 #### (b) Objective
 
@@ -48,7 +48,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) has performed within the United States or overseas security services similar in complexity to the contract being bid;
 
-&emsp;&emsp;(E) with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greaterthan the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
+&emsp;&emsp;(E) with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
 
 &emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States; and
 

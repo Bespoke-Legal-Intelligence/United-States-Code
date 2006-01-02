@@ -8,7 +8,7 @@ The following foreclosure costs shall be paid from the sale proceeds before sati
 
 #### (2) Mileage
 
-&emsp;Mileage (determined by the most reasonable road distance) for posting notices and for theforeclosure commissioner's or auctioneer's attendance at the sale, as provided in section 1821 of title 28.
+&emsp;Mileage (determined by the most reasonable road distance) for posting notices and for the foreclosure commissioner's or auctioneer's attendance at the sale, as provided in section 1821 of title 28.
 
 #### (3) Title and lien search
 

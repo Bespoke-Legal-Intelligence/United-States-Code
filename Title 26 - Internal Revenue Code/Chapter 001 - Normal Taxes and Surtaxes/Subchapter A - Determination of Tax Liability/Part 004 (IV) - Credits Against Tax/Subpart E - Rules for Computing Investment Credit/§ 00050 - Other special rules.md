@@ -21,7 +21,7 @@ Under regulations prescribed by the Secretary—
 | (i) One full year after placed in service | 100&nbsp;&nbsp;&nbsp; |
 | (ii) One full year after the close of the period described in clause (i) | 80&nbsp;&nbsp;&nbsp; |
 | (iii) One full year after the close of the period described in clause (ii) | 60&nbsp;&nbsp;&nbsp; |
-| (iv) One full year after the close of the period described in clause (iii) | 40    |
+| (iv) One full year after the close of the period described in clause (iii) | 40&nbsp;&nbsp;&nbsp; |
 | (v) One full year after the close of the period described in clause (iv) | 20&nbsp;&nbsp;&nbsp; |
 
 #### (2) Property ceases to qualify for progress expenditures
@@ -32,7 +32,7 @@ Under regulations prescribed by the Secretary—
 
 #### (B) Certain excess credit recaptured
 
-&emsp;&emsp;Any amount which would have been applied as a reduction under paragraph (2) of section 47(b) but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section 47(b)(1) below zero shall be treated as an amount required to be recaptured under subparagraph (A) for the taxable year during which the building is placed in service.
+&emsp;&emsp;Any amount which would have been applied as a reduction under paragraph (2) ofsection 47(b) but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section 47(b)(1) below zero shall be treated as an amount required to be recaptured under subparagraph (A) for the taxable year during which the building is placed in service.
 
 #### (C) Certain sales and leasebacks
 
@@ -44,7 +44,7 @@ Under regulations prescribed by the Secretary—
 
 #### (E) Special rules
 
-&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(a)(5).
+&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b).
 
 #### (3) Carrybacks and carryovers adjusted
 
@@ -106,7 +106,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (3) Property used by certain tax-exempt organization
 
-&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
+&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, incomputing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
 
 #### (4) Property used by governmental units or foreign persons or entities
 
@@ -146,7 +146,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (3) Special rule
 
-&emsp;In the case of any energy credit or reforestation credit—
+&emsp;In the case of any energy credit—
 
 &emsp;&emsp;(A) only 50 percent of such credit shall be taken into account under paragraph (1), and
 
@@ -192,7 +192,7 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 > Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796.)
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(<i>o</i>), Dec. 21, 2005, 119 Stat. 2638.)
 
 #### References in Text
 
@@ -200,9 +200,13 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 #### Prior Provisions
 
-A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit for investment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
+A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit forinvestment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+
+2005—Subsec. (a)(2)(E). Pub. L. 109–135 substituted “section 48(b)” for “section 48(a)(5)”.
+
+2004—Subsec. (c)(3). Pub. L. 108–357 struck out “or reforestation credit” after “energy credit” in introductory provisions.
 
 1998—Subsec. (a)(5)(C). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
 
@@ -211,6 +215,10 @@ A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat.
 Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(11), substituted “48(a)(5)” for “48(a)(5)(A)”.
 
 Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or incurred after Oct. 22, 2004, see section 322(e) of Pub. L. 108–357, set out as a note under section 46 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -224,15 +232,11 @@ Amendment by section 1702(h)(11) of Pub. L. 104–188 effective, except as other
 
 #### Effective Date
 
-Section applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 29 of this title.
+Section applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 45K of this title.
 
 #### Savings Provision
 
-For provisions that nothing in this section be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 29, 30, 47, 49, 55, 179, 179A, 196, 312, 774, 1371, 1503 of this title.
+For provisions that nothing in this section be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Petroleum tanks
 
-Not later than twelve months after November 8, 1984, the Administrator shall complete a study of underground storage tanks used for the storage of regulated substances defined in section 6991(2)(B) of this title.
+Not later than twelve months after November 8, 1984, the Administrator shall complete a study of underground storage tanks used for the storage of regulated substances defined in section 6991(7)(B) of this title.
 
 #### (b) Other tanks
 
@@ -14,7 +14,7 @@ The studies under subsections (a) and (b) of this section shall include an asses
 
 #### (d) Farm and heating oil tanks
 
-Not later than thirty-six months after November 8, 1984, the Administrator shall conduct a study regarding the tanks referred to in section 6991(1)(A) and (B) of this title. Such study shall include estimates of the number and location of such tanks and an analysis of the extent to which there may be releases or threatened releases from such tanks into the environment.
+Not later than thirty-six months after November 8, 1984, the Administrator shall conduct a study regarding the tanks referred to in subparagraphs (A) and (B) of section 6991(10) of this title. Such study shall include estimates of the number and location of such tanks and an analysis of the extent to which there may be releases or threatened releases from such tanks into the environment.
 
 #### (e) Reports
 
@@ -30,11 +30,17 @@ Upon completion of the studies authorized by this section, the Administrator sha
 
 (4) For purposes of judicial review, a determination by the Administrator under this subsection shall be considered final agency action.
 
-(Pub. L. 89–272, title II, §9009, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3287.)
+(Pub. L. 89–272, title II, §9009, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3287; amended Pub. L. 109–58, title XV, §1532(b)(3), Aug. 8, 2005, 119 Stat. 1105.)
 
 #### References in Text
 
 Section 6916(g) of this title, referred to in subsec. (f)(3), probably means section 6916(f) of this title which authorizes appropriations for this subchapter. There is no subsec. (g) of section 6916.
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58, §1532(b)(3)(A), substituted “6991(7)(B)” for “6991(2)(B)”.
+
+Subsec. (d). Pub. L. 109–58, §1532(b)(3)(B), substituted “subparagraphs (A) and (B) of section 6991(10)” for “section 6991(1)(A) and (B)”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

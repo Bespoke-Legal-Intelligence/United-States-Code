@@ -82,9 +82,15 @@ If the Customs Service finds indications of a pattern of conduct by an exporter 
 
 If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer of false or unsupported representations that goods qualify under the rules of origin set out in section 202 of the United States-Chile Free Trade Agreement Implementation Act, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may deny preferential tariff treatment under the United States-Chile Free Trade Agreement to entries of identical goods imported by that person until the person establishes to the satisfaction of the Bureau of Customs and Border Protection that representations of that person are in conformity with such section 202.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597.)
+#### (h) Denial of preferential tariff treatment under the Dominican Republic-Central America-United States Free Trade Agreement
+
+If the Bureau of Customs and Border Protection or the Bureau of Immigration and Customs Enforcement finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin set out in section 4033 of this title, the Bureau of Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the Dominican Republic-Central America-United States Free Trade Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until the Bureau of Customs and Border Protection determines that representations of that person are in conformity with such section 4033 of this title.
+
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
@@ -104,11 +110,13 @@ Section was formerly classified to former section 579 of this title subsequent t
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §514, 42 Stat. 969. That section was superseded by section 514 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provisions that the decision of the collector as to duties, including dutiable costs and charges, and as to all fees and exactions, should be final and conclusive unless a protest was filed within 30 days after ascertainment and liquidation of duties, or within 15 days afterpayment of fees, charges and exactions, with further provisions as to fees, transmission of the papers to the Board of General Appraisers, etc., were contained in act Oct. 3, 1913, ch. 16, §III, N, 38 Stat. 187, the provisions of which were substituted for provisions of a similar nature in the Customs Administrative Act of June 10, 1890, ch. 407, §14, 26 Stat. 137, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III, N, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
+Provisions that the decision of the collector as to duties, including dutiable costs and charges, and as to all fees and exactions, should be final and conclusive unless a protest was filed within 30 days after ascertainment and liquidation of duties, or within 15 days after payment of fees, charges and exactions, with further provisions as to fees, transmission of the papers to the Board of General Appraisers, etc., were contained in act Oct. 3, 1913, ch. 16, §III, N, 38 Stat. 187, the provisions of which were substituted for provisions of a similar nature in the Customs Administrative Act of June 10, 1890, ch. 407, §14, 26 Stat. 137, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 100. Section III, N, of the 1913 act was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
 Provisions relating to decisions of the collector, and appeals therefrom to the Secretary of the Treasury were contained in R.S. §§2931, 2932, prior to repeal by section 29 of the Customs Administrative Act, 26 Stat. 141.
 
 #### Amendments
+
+2005—Subsec. (h). Pub. L. 109–53, §§107(d), 206(b), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
 
 2004—Subsec. (a). Pub. L. 108–429, §2103(1)(A), substituted “(relating to refunds), any clerical error, mistake of fact, or other inadvertence, whether or not resulting from or contained in an electronic transmission, adverse to the importer, in any entry, liquidation, or reliquidation, and” for “(relating to refunds and errors)” in introductory provisions.
 
@@ -166,11 +174,15 @@ Subsec. (b). Pub. L. 96–39, §1001(b)(3)(D), added subsec. (b). Former subsec.
 
 Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
 
-Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extendanother authorized person's time to protest as specified in this subsection.
+Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extend another authorized person's time to protest as specified in this subsection.
 
 Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) as (d).
 
 1970—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
+
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -216,7 +228,7 @@ Amendment by section 208 of Pub. L. 103–182 to be made after amendment by sect
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
@@ -238,7 +250,7 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 
 &emsp;“(B) establish procedures that allow individuals described in section 514(c)(1) of the Tariff Act of 1930 (19 U.S.C. 1514(c)(1)), any port authority, and any other interested party (within the meaning of section 516(a)(2) of the Tariff Act of 1930 (19 U.S.C. 1516(a)(2))) to petition the Secretary to obtain such uniformity in an expedited and timely fashion.
 
-“(2) The Secretary of the Treasury shall publish in the Federal Register and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives the proposedand final form of the regulations prescribed under paragraph (1) and shall receive and consider comments from the public regarding the proposed form of such regulations during the 60-day period beginning on the date the proposed form of such regulations are published in the Federal Register.
+“(2) The Secretary of the Treasury shall publish in the Federal Register and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives the proposed and final form of the regulations prescribed under paragraph (1) and shall receive and consider comments from the public regarding the proposed form of such regulations during the 60-day period beginning on the date the proposed form of such regulations are published in the Federal Register.
 
 “(3) The regulations prescribed under paragraph (1) shall take effect by no later than April 1, 1989.
 

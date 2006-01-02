@@ -126,7 +126,7 @@
 
 #### (B) Elected members
 
-&emsp;&emsp;The members elected under subparagraphs (A) and (B) of subsection (b)(2) of this section shall each be elected annually for a term ending on the date of the next annual meeting of the common stockholders of theCorporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
+&emsp;&emsp;The members elected under subparagraphs (A) and (B) of subsection (b)(2) of this section shall each be elected annually for a term ending on the date of the next annual meeting of the common stockholders of the Corporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
 
 #### (C) Vacancy appointment
 

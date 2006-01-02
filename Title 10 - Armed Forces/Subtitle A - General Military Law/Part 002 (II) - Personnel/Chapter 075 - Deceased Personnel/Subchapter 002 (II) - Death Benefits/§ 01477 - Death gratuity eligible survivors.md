@@ -92,7 +92,3 @@ In subsection (d), the words “the death gratuity” are substituted for the wo
 
 1989—Subsec. (b)(5)(C). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1475, 1476, 1478, 1480 of this title.
-

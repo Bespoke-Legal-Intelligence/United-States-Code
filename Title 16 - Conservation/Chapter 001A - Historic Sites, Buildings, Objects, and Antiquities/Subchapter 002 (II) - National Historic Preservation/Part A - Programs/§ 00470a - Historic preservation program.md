@@ -20,13 +20,13 @@
 
 &emsp;(F) notifying the owner of a property, any appropriate local governments, and the general public, when the property is being considered for inclusion on the National Register, for designation as a National Historic Landmark or for nomination to the World Heritage List.
 
-(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), and any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall be included on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
+(3) Subject to the requirements of paragraph (6), any State which is carrying out a program approved under subsection (b) of this section, shall nominate to the Secretary properties which meet the criteria promulgated under subsection (a) of this section for inclusion on the National Register. Subject to paragraph (6), any property nominated under this paragraph or under section 470h–2(a)(2) of this title shall be included on the National Register on the date forty-five days after receipt by the Secretary of the nomination and the necessary documentation, unless the Secretary disapproves such nomination within such forty-five day period or unless an appeal is filed under paragraph (5).
 
 (4) Subject to the requirements of paragraph (6) the Secretary may accept a nomination directly from any person or local government for inclusion of a property on the National Register only if such property is located in a State where there is no program approved under subsection (b) of this section. The Secretary may include on the National Register any property for which such a nomination is made if he determines that such property is eligible in accordance with the regulations promulgated under paragraph (2). Such determination shall be made within ninety days from the date of the nomination unless the nomination is appealed under paragraph (5).
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
-(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection hasbeen made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
+(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
 
 (7) The Secretary shall promulgate, or revise, regulations—
 
@@ -52,7 +52,7 @@
 
 &emsp;(B) provides for an adequate and qualified State historic preservation review board designated by the State Historic Preservation Officer unless otherwise provided for by State law; and
 
-&emsp;(C) provides for adequate public participation in the State Historic Preservation Program, including the process of recommending properties for nomination to the National Register.
+&emsp;(C) provides for adequate public participation in the State Historic Preservation Program, including the process of recommendingproperties for nomination to the National Register.
 
 (2)(A) Periodically, but not less than every 4 years after the approval of any State program under this subsection, the Secretary, in consultation with the Council on the appropriate provisions of this subchapter, and in cooperation with the State Historic Preservation Officer, shall evaluate the program to determine whether it is consistent with this subchapter.
 
@@ -80,7 +80,7 @@
 
 &emsp;(E) advise and assist, as appropriate, Federal and State agencies and local governments in carrying out their historic preservation responsibilities;
 
-&emsp;(F) cooperate with the Secretary, the Advisory Council on Historic Preservation, andother Federal and State agencies local governments, and organizations and individuals to ensure that historic properties are taken into consideration at all levels of planning and development;
+&emsp;(F) cooperate with the Secretary, the Advisory Council on Historic Preservation, and other Federal and State agencies, local governments, and organizations and individuals to ensure that historic properties are taken into consideration at all levels of planning and development;
 
 &emsp;(G) provide public information, education, and training and technical assistance in historic preservation;
 
@@ -232,7 +232,7 @@
 
 &emsp;(iv) to assist persons or small businesses within any historic district included in the National Register to remain within the district.
 
-(B) The Secretary may also, in consultation with the appropriate State Historic preservation Officer, make grants or loans or both under this section to Indian tribes and to nonprofit organizations representing ethnic or minority groups for the preservation of their cultural heritage.
+(B) The Secretary may also, in consultation with the appropriate State Historic Preservation Officer, make grants or loans or both under this section to Indian tribes and to nonprofit organizations representing ethnic or minority groups for the preservation of their cultural heritage.
 
 (C) Grants may be made under subparagraph (A)(i) and (iv) only to the extent that the project cannot be carried out in as effective a manner through the use of an insured loan under section 470d of this title.
 
@@ -418,7 +418,7 @@ Consultation and appointment.—
 
 &emsp;&emsp;“(A)
 
-In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
+In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shallconsult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
 
 &emsp;&emsp;“(B)
 

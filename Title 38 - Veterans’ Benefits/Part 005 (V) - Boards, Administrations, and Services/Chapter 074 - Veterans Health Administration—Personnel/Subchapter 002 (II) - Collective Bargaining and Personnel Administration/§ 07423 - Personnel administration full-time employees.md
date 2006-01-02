@@ -8,7 +8,7 @@
 
 &emsp;(2) Accept payment under any insurance or assistance program established under title XVIII or XIX of the Social Security Act or under chapter 55 of title 10 for professional services rendered by such person while carrying out such person's responsibilities under this title.
 
-&emsp;(3) Accept from any source, with respect to any travel performed by such person in thecourse of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
+&emsp;(3) Accept from any source, with respect to any travel performed by such person in the course of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
 
 &emsp;(4) Request or permit any individual or organization to pay, on such person's behalf for insurance insuring such person against malpractice claims arising in the course of carrying out such person's responsibilities under this title or for such person's dues or similar fees for membership in medical or dental societies or related professional associations, except where such payments constitute a part of such person's remuneration for the performance of professional responsibilities permitted under this section, other than those carried out under this title.
 

@@ -56,7 +56,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 #### (d) Reports by Inspector General and Secretary of State
 
-(1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2)and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
+(1) The Inspector General shall keep the Secretary of State fully and currently informed, by means of the reports required by paragraphs (2) and (3) and otherwise, concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of activities and operations administered or financed by the Department of State.
 
 (2) The Inspector General shall, not later than April 30 of each year, prepare and furnish to the Secretary of State an annual report summarizing the activities of the Inspector General. Such report shall include—
 
@@ -88,7 +88,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
 
-(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
+(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual whois the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 

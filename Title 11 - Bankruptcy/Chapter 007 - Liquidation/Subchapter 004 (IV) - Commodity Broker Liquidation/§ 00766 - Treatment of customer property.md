@@ -12,7 +12,7 @@
 
 (c) The trustee shall return promptly to a customer any specifically identifiable security, property, or commodity contract to which such customer is entitled, or shall transfer, on such customer's behalf, such security, property, or commodity contract to a commodity broker that is not a debtor under this title, subject to such rules or regulations as the Commission may prescribe, to the extent that the value of such security, property, or commodity contract does not exceed the amount to which such customer would be entitled under subsection (h) or (i) of this section if such security, property, or commodity contract were not returned or transferred under this subsection.
 
-(d) If the value of a specifically identifiable security, property, or commodity contract exceedsthe amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such customer to whom such security, property, or commodity contract is specifically identified may deposit cash with the trustee equal to the difference between the value of such security, property, or commodity contract and such amount, and the trustee then shall—
+(d) If the value of a specifically identifiable security, property, or commodity contract exceeds the amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such customer to whom such security, property, or commodity contract is specifically identified may deposit cash with the trustee equal to the difference between the value of such security, property, or commodity contract and such amount, and the trustee then shall—
 
 &emsp;(1) return promptly such security, property, or commodity contract to such customer; or
 
@@ -30,7 +30,7 @@
 
 (g) The trustee may not distribute a security or other property except under subsection (h) or (i) of this section.
 
-(h) Except as provided in subsection (b) of this section, the trustee shall distribute customer property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims, and in priority to all other claims, except claims of a kind specified in section 507(a)(1) of this title that are attributable to the administration of customer property. Such distribution shall be in the form of—
+(h) Except as provided in subsection (b) of this section, the trustee shall distribute customer property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims, and in priority to all other claims, except claims of a kind specified in section 507(a)(2) of this title that are attributable to the administration of customer property. Such distribution shall be in the form of—
 
 &emsp;(1) cash;
 
@@ -38,19 +38,19 @@
 
 &emsp;(3) payment of margin calls under subsection (a) of this section.
 
-> Notwithstanding any other provision of this subsection, a customer net equity claim based on a proprietary account, as defined by Commission rule, regulation, or order, may not be paid either in whole or in part, directly or indirectly, out of customer property unless all other customer net equity claims have been paid in full.
+> Notwithstanding any other provision of this subsection, a customer net equity claim based on a proprietary account, as defined by Commissionrule, regulation, or order, may not be paid either in whole or in part, directly or indirectly, out of customer property unless all other customer net equity claims have been paid in full.
 
 (i) If the debtor is a clearing organization, the trustee shall distribute—
 
-&emsp;(1) customer property, other than member property, ratably to customers on the basis and to the extent of such customers’ allowed net equity claims based on such customers’ accounts other than proprietary accounts, and in priority to all other claims, except claims of a kind specified in section 507(a)(1) of this title that are attributable to the administration of such customer property; and
+&emsp;(1) customer property, other than member property, ratably to customers on the basis and to the extent of such customers’ allowed net equity claims based on such customers’ accounts other than proprietary accounts, and in priority to all other claims, except claims of a kind specified in section 507(a)(2) of this title that are attributable to the administration of such customer property; and
 
-&emsp;(2) member property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims based on such customers’ proprietary accounts, and in priority to all other claims, except claims of a kind specified in section 507(a)(1) of this title that are attributable to the administration of member property or customer property.
+&emsp;(2) member property ratably to customers on the basis and to the extent of such customers’ allowed net equity claims based on such customers’ proprietary accounts, and in priority to all other claims, except claims of a kind specified in section 507(a)(2) of this title that are attributable to the administration of member property or customer property.
 
 (j)(1) The trustee shall distribute customer property in excess of that distributed under subsection (h) or (i) of this section in accordance with section 726 of this title.
 
 (2) Except as provided in section 510 of this title, if a customer is not paid the full amount of such customer's allowed net equity claim from customer property, the unpaid portion of such claim is a claim entitled to distribution under section 726 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2619; Pub. L. 97–222, §19, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, §489, July 10, 1984, 98 Stat. 383.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2619; Pub. L. 97–222, §19, July 27, 1982, 96 Stat. 240; Pub. L. 98–353, title III, §489, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title XV, §1502(a)(4), Apr. 20, 2005, 119 Stat. 216.)
 
 #### Historical and Revision Notes
 
@@ -70,7 +70,7 @@ Section 768 of the Senate amendment was deleted from the House amendment as unwi
 
 Section 769 of the Senate amendment is deleted in the House amendment as unnecessary. The provision was intended to codify <i>Board of Trade v. Johnson</i>, 264 U.S. 1 (1924) \[Ill.1924, 44 S.Ct. 232\]. <i>Board of Trade against Johnson</i> is codified in section 363(f) of the House amendment which indicates the only five circumstances in which property may be sold free and clear of an interest in such property of an entity other than the estate.
 
-Section 770 of the Senate amendment is deleted in the House amendment as unnecessary. That section would have permitted commodity brokers to liquidate commodity contracts, notwithstanding any contrary order of the court. It would require an extraordinary circumstance, such as a threat to the national security, to enjoin a commodity broker from liquidating a commodity contract. However, in those circumstances, an injunction must prevail. Failure of the House amendment to incorporate section 770 of the Senate amendment does not imply that the automatic stay prevents liquidation of commodity contracts by commodity brokers. To the contrary, whenever by contract, or otherwise, a commodity broker is entitled to liquidate a position as a result of a condition specified in a contract, other than a condition or default of the kind specified in section 365(b)(2) of title 11, the commodity broker may engage in such liquidation. To this extent, the commodity broker's contract with his customer is treated no differently than any other contract under section 365 of title 11.
+Section 770 of the Senate amendment is deleted in the House amendment as unnecessary. That section would have permitted commodity brokers to liquidate commodity contracts, notwithstanding any contrary order of the court. It would require an extraordinary circumstance, such as a threat to the national security, to enjoin a commodity broker from liquidating a commodity contract. However, in those circumstances, an injunction must prevail. Failure of the House amendment to incorporate section 770 of the Senate amendment does not imply that the automatic stay prevents liquidationof commodity contracts by commodity brokers. To the contrary, whenever by contract, or otherwise, a commodity broker is entitled to liquidate a position as a result of a condition specified in a contract, other than a condition or default of the kind specified in section 365(b)(2) of title 11, the commodity broker may engage in such liquidation. To this extent, the commodity broker's contract with his customer is treated no differently than any other contract under section 365 of title 11.
 
 #### senate report no. 95–989
 
@@ -88,7 +88,7 @@ Section 767 sets forth the procedures to be followed by the trustee. It should b
 
 The initial duty of the trustee is to endeavor to transfer to another commodity broker or brokers all identified customer accounts together with the customer property margining such accounts, to the extent the trustee deems appropriate. Although it is preferable for all such accounts to be transferred, exigencies may dictate a partial transfer. The requirement that the value of the accounts and property transferred not exceed the customer's distribution share may necessitate a slight delay until the trustee can submit to the court, for its disapproval, an estimate of each customer's distribution share pursuant to section 768.
 
-Subsection (c) \[enacted as section 766(e)\] provides that contemporaneously with the estimate of the distribution share and the transfer of identified customer accounts and property, subsection (c) provides that the trustee should make arrangements for the liquidationof all commodity contracts maintained by the debtor that are not identifiable to specific customers. These contracts would, of course, include all such contracts held in the debtor's proprietory account.
+Subsection (c) \[enacted as section 766(e)\] provides that contemporaneously with the estimate of the distribution share and the transfer of identified customer accounts and property, subsection (c) provides that the trustee should make arrangements for the liquidation of all commodity contracts maintained by the debtor that are not identifiable to specific customers. These contracts would, of course, include all such contracts held in the debtor's proprietory \[sic\] account.
 
 At approximately the same time, the trustee should notify each customer of the debtor's bankruptcy and instruct each customer immediately to submit a claim including any claim to a specifically identifiable security or other property, and advise the trustee as to the desired disposition of commodity contracts carried by the debtor for the customer.
 
@@ -98,7 +98,7 @@ If the customer submits instructions pursuant to subsection (a) after the custom
 
 Under subsection (d) \[enacted as section 766(e)\], the trustee has discretion to liquidate any commodity contract carried by the debtor at any time. This discretion must be exercised with restraint in such cases, consistent with the purposes of this subchapter and good business practices. The committee intends that hedged accounts will be given special consideration before liquidation as discussed in connection with subsection (c).
 
-Subsection (e) \[enacted as section 766(c)\] instructs the trustee as to the disposition of any security or other property, not disposed of pursuant to subsection (b) or (d), that is specifically identifiable to a customer and to which the customer is entitled. Such security or other property must be returned to the customer or promptly transferred to another commodity broker for the benefit of the customer. If the value of the security or other property retained or transferred, together with any other distribution made by the trustee to or on behalf of the customer, exceeds the customer's distribution share the customer must deposit cash with the trustee equal to that difference before the return or transfer of the security or other property.
+Subsection (e) \[enacted as section 766(c)\] instructs the trustee as to the disposition of any security or other property, not disposed of pursuant to subsection (b) or (d), that is specifically identifiable to a customer and to which the customer is entitled. Such security or other property must be returned to the customer or promptly transferred to another commodity broker for the benefit of the customer. If the value of the security or other property retained or transferred, together withany other distribution made by the trustee to or on behalf of the customer, exceeds the customer's distribution share the customer must deposit cash with the trustee equal to that difference before the return or transfer of the security or other property.
 
 Subsection (f) \[enacted as section 766(a)\] requires the trustee to answer margin calls on specifically identifiable customer commodity contracts, but only to the extent that the margin payment, together with any other distribution made by the trustee to or on behalf of the customer, does not exceed the customer's distribution share.
 
@@ -120,7 +120,7 @@ Subsection (c) \[of section 765 (enacted as section 766(e))\] sets forth the gen
 
 Section 766(a) \[enacted as section 766(g)\] indicates that the trustee may distribute securities or other property only under section 768. This does not preclude a distribution of cash under section 767(a) or distribution of any excess customer property under section 767(c) to the general estate.
 
-Subsection (b) \[enacted as section 766(f)\] indicates that the trustee shall liquidate all securities and otherproperty that is not specifically identifiable property as soon as practicable after the commencement of the case and in accordance with good market practice. If securities are restricted or trading has been suspended, the trustee will have to make an exempt sale or file a registration statement. In the event of a private placement, a customer is not entitled to “bid in” his net equity claim. To do so would enable him to receive a greater percentage recovery than other customers.
+Subsection (b) \[enacted as section 766(f)\] indicates that the trustee shall liquidate all securities and other property that is not specifically identifiable property as soon as practicable after the commencement of the case and in accordance with good market practice. If securities are restricted or trading has been suspended, the trustee will have to make an exempt sale or file a registration statement. In the event of a private placement, a customer is not entitled to “bid in” his net equity claim. To do so would enable him to receive a greater percentage recovery than other customers.
 
 Section 767(a) \[enacted as section 766(h)\] provides for the trustee to distribute customer property pro rata according to customers’ net equity claims. The court will determine an equitable portion of customer property to pay administrative expenses. Paragraphs (2) and (3) indicate that the return of specifically identifiable property constitutes a distribution of net equity.
 
@@ -132,6 +132,10 @@ Subsection (c) \[enacted as section 766(a)\] permits the trustee to answer all m
 
 #### Amendments
 
+2005—Subsec. (h). Pub. L. 109–8, §1502(a)(4)(A), substituted “507(a)(2)” for “507(a)(1)” in introductory provisions.
+
+Subsec. (i). Pub. L. 109–8, §1502(a)(4)(B), substituted “507(a)(2)” for “507(a)(1)” in pars. (1) and (2).
+
 1984—Subsec. (j)(2). Pub. L. 98–353 substituted “section 726” for “section 726(a)”.
 
 1982—Subsec. (a). Pub. L. 97–222, §19(a), inserted “to such customer” after “distribution”.
@@ -141,6 +145,10 @@ Subsec. (b). Pub. L. 97–222, §19(b), struck out “that is being actively tra
 Subsec. (d). Pub. L. 97–222, §19(c), substituted “the amount to which the customer of the debtor is entitled under subsection (h) or (i) of this section, then such” for “such amount, then the” and “the trustee then shall” for “the trustee shall”.
 
 Subsec. (h). Pub. L. 97–222, §19(d), inserted provision that notwithstanding any other provision of this subsection, a customer net equity claim based on a proprietary account, as defined by Commission rule, regulation, or order, may not be paid either in whole or in part, directly or indirectly, out of customer property unless all other customer net equity claims have been paid in full.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -62,7 +62,7 @@
 
 #### (c) Guaranteed payments
 
-To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a member of the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
+To the extent determined without regard to the income of the partnership, payments to a partner for services or the use of capital shall be considered as made to one who is not a memberof the partnership, but only for the purposes of section 61(a) (relating to gross income) and, subject to section 263, for purposes of section 162(a) (relating to trade or business expenses).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 243; Pub. L. 94–455, title II, §213(b)(3), title XIX, §1901(b)(3)(C), Oct. 4, 1976, 90 Stat. 1547, 1792; Pub. L. 98–369, div. A, title I, §73(a), July 18, 1984, 98 Stat. 591; Pub. L. 99–514, title VI, §642(a)(2), title XVIII, §§1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, 100 Stat. 2284, 2810, 2834.)
 
@@ -131,8 +131,4 @@ Amendment by section 1901(b)(3)(C) of Pub. L. 94–455 effective for taxable yea
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 45D, 121, 144, 147, 163, 170, 179, 179A, 197, 213, 221, 267, 304, 351, 355, 453, 465, 469, 475, 514, 613A, 631, 643, 685, 706, 736, 860L, 871, 936, 988, 1031, 1033, 1060, 1202, 1235, 1259, 1397, 1400B, 1400C, 1402, 2701, 5881, 6038A, 6111, 7519, 7612 of this title; title 2 section 691e; title 42 section 411.
 

@@ -1,18 +1,16 @@
 ### §5928. Danger pay allowance
 
-An employee serving in a foreign area may be granted a danger pay allowance on the basis of civil insurrection, civil war, terrorism, or wartime conditions which threaten physical harm or imminent danger to the health or well-being of the employee. A danger pay allowance may not exceed 25 percent of the basic pay of the employee or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development, except that if an employee is granted an additional differential under section 5925(b) of this title with respect to an assignment, the sum of that additional differential and any danger pay allowance granted to the employee with respect to that assignment may not exceed 25 percent of the basic pay of the employee or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development. The presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section. In each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of the action taken and the circumstances justifying it.
+An employee serving in a foreign area may be granted a danger pay allowance on the basis of civil insurrection, civil war, terrorism, or wartime conditions which threaten physical harm or imminent danger to the health or well-being of the employee. A danger pay allowance may not exceed 35 percent of the basic pay of the employee, except that if an employee is granted an additional differential under section 5925(b) of this title with respect to an assignment, the sum of that additional differential and any danger pay allowance granted to the employee with respect to that assignment may not exceed 35 percent of the basic pay of the employee. The presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section. In each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of the action taken and the circumstances justifying it.
 
-(Added Pub. L. 96–465, title II, §2311(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 98–164, title I, §131, Nov. 22, 1983, 97 Stat. 1028; Pub. L. 108–199, div. D, title V, §591(b), Jan. 23, 2004, 118 Stat. 207.)
+(Added Pub. L. 96–465, title II, §2311(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 98–164, title I, §131, Nov. 22, 1983, 97 Stat. 1028; Pub. L. 108–199, div. D, title V, §591(b), Jan. 23, 2004, 118 Stat. 207; Pub. L. 109–140, §4(c), Dec. 22, 2005, 119 Stat. 2651.)
 
 #### Amendments
+
+2005—Pub. L. 109–140 substituted “35 percent of the basic pay of the employee” for “25 percent of the basic pay of the employee or 35 percent of the basic pay ofthe employee in the case of an employee of the United States Agency for International Development” in two places.
 
 2004—Pub. L. 108–199 inserted “or 35 percent of the basic pay of the employee in the case of an employee of the United States Agency for International Development” after “25 percent of the basic pay of the employee” in two places.
 
 1983—Pub. L. 98–164 inserted provision that presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section, and that each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of action taken and circumstances justifying it.
-
-#### Effective Date of 2004 Amendment
-
-Amendment by Pub. L. 108–199 not effective until the same authority is enacted for employees of the Department of State, except for employees of the United States Agency for International Development stationed in Iraq and Afghanistan, see section 591(c) of Pub. L. 108–199, set out as a note under section 5925 of this title.
 
 #### Effective Date
 

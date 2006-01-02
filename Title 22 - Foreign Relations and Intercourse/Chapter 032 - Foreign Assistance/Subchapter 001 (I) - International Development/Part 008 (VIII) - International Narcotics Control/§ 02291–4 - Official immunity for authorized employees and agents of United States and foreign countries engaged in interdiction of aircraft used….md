@@ -72,3 +72,7 @@ Colombia, Determination No. 2004–42, Aug. 17, 2004, 69 F.R. 52807.
 
 Brazil, Determination No. 2005–03, Oct. 16, 2004, 69 F.R. 62797.
 
+Colombia, Determination No. 2005–32, Aug. 17, 2005, 70 F.R. 50949.
+
+Brazil, Determination No. 2006–02, Oct. 16, 2005, 70 F.R. 62227.
+

@@ -24,7 +24,7 @@ Section was enacted as part of the Agricultural Act of 1970, and not as part of 
 
 #### Amendments
 
-1977—Par. (1). Pub. L. 95–113 substituted “to receive under one or more of the annual programs establishedby titles IV, V, and VI of this Act for the 1974 through 1976 crops of the commodities and by titles IV and V of the Food and Agriculture Act of 1977 and titles IV, V, and VI of this Act for the 1977 crop” for “to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1977 crops”.
+1977—Par. (1). Pub. L. 95–113 substituted “to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1976 crops of the commodities and by titles IV and V of the Food and Agriculture Act of 1977 and titles IV, V, and VI of this Act for the 1977 crop” for “to receive under one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1977 crops”.
 
 1973—Par. (1). Pub. L. 93–86 substituted “one or more of the annual programs established by titles IV, V, and VI of this Act for the 1974 through 1977 crops of the Commodities shall not exceed $20,000” for “each of the annual programs established by titles IV, V, and VI of this Act for the 1971, 1972, or 1973 crop of the commodity shall not exceed $55,000”.
 

@@ -4,7 +4,7 @@
 
 The Secretary shall, during the formulation of any transportation plan authorized pursuant to section 2302 of this title—
 
-&emsp;(1) give public notice of intention to formulate such a plan by publication in the Federal Register and in a newspaper or periodical having general circulation in the vicinity of the affected unit of the national park system;
+&emsp;(1) give public notice of intention to formulate such a plan by publication in the Federal Register and in a newspaper or periodical having general circulation in the vicinity of the affected unit of the national park system; <sup>1</sup>
 
 &emsp;(2) following such notice hold a public meeting at a location or locations convenient to the affected unit of the National Park System.
 
@@ -25,4 +25,6 @@ Prior to the implementation of any project developed pursuant to the transportat
 #### Change of Name
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

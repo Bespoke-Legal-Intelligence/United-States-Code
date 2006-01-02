@@ -54,7 +54,7 @@ Pub. L. 104–63, §1, Dec. 8, 1995, 109 Stat. 687, provided that: “This Act \
 
 #### Short Title of 1990 Amendment
 
-Section 1 of Pub. L. 101–588 provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 of this title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
+Section 1 of Pub. L. 101–588 provided: “That this Act \[amending this section and sections 2, 3, 15a, and 19 ofthis title and repealing section 20 of this title\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
 
 #### Short Title of 1984 Amendment
 

@@ -36,7 +36,7 @@ Publication of data.—The Secretary of Transportation shall publish data on inc
 
 Monthly reports from secretary of homeland security.—To assist in the publication of data under paragraph (1), the Secretary of Transportation may request the Secretary of Homeland Security to periodically report on the number of complaints about security screening received by the Secretary of Homeland Security.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366; Pub. L. 104–287, §5(3), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 108–176, title IV, §421, title VIII, §805(a), Dec. 12, 2003, 117 Stat. 2551, 2587.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2426; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 98–443, §5(a), Oct. 4, 1984, 98 Stat. 1705; Pub. L. 103–272, §4(j)(7), July 5, 1994, 108 Stat. 1366; Pub. L. 104–287, §5(3), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 108–176, title IV, §421, title VIII, §805(a), Dec. 12, 2003, 117 Stat. 2551, 2587.)
 
 #### Amendment of Subsection (b)(1)
 
@@ -98,7 +98,7 @@ In subsection (c)(1), the words “of the United States” are added for clarity
 
 In subsection (c)(2), the words “governmental authority requesting information under paragraph (1) of this subsection” are substituted for “body requesting it” for clarity and consistency. The word “separate” before “account” is omitted as unnecessary and for consistency. The words “must pay” are substituted for “upon the payment” after “other records” for clarity. The words “preparing the information” are substituted for “such work” after “actual cost of” for clarity. The word “payments” is substituted for “All moneys received by the Department in payment of the cost of work under paragraph (1)” to eliminate unnecessary words. The words “in the Treasury” are added for clarity and consistency. The words “The Secretary may use amounts in the account” are substituted for “These moneys may be used, in the discretion of the Secretary” for clarity and to eliminate unnecessary words. The words “to getting and providing the information” are substituted for “to the work and/or to secure in connection therewith the special services of persons who are neither officers nor employees of the United States” for clarity and to eliminate unnecessary words.
 
-In subsection (d), the words “in carrying out duties and powers under the Federal Aviation Act of 1958 (49 U.S.C. 1301 et seq.)” are substituted for “in discharge of responsibilities under this chapter” in 49:1343(b) because of the transfer of aviation functions to the Secretary under 49:1655(c)(1) and for consistency. The words “directly related to carrying out that part” are substituted for “directly relating to such responsibilities” in 49:1343(b) because of the restatement of the source provisions.
+In subsection (d), the words “in carrying out duties and powers under the Federal Aviation Act of 1958 (49U.S.C. 1301 et seq.)” are substituted for “in discharge of responsibilities under this chapter” in 49:1343(b) because of the transfer of aviation functions to the Secretary under 49:1655(c)(1) and for consistency. The words “directly related to carrying out that part” are substituted for “directly relating to such responsibilities” in 49:1343(b) because of the restatement of the source provisions.
 
 #### Pub. L. 103–272
 

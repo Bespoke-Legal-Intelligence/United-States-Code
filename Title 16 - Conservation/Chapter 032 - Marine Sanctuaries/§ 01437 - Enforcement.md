@@ -96,7 +96,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (2) Liability for costs
 
-&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation or permit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
+&emsp;Any person assessed a civil penalty for a violation of this chapter or of any regulation orpermit issued under this chapter, and any claimant in a forfeiture action brought for such a violation, shall be liable for the reasonable costs incurred by the Secretary in storage, care, and maintenance of any sanctuary resource or other property seized in connection with the violation.
 
 #### (g) Subpoenas
 
@@ -116,7 +116,7 @@ If the Secretary determines that there is an imminent risk of destruction or los
 
 #### (k) Area of application and enforceability
 
-The area of application and enforceability of this chapter includes the territorial sea of theUnited States, as described in Presidential Proclamation 5928 of December 27, 1988, which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
+The area of application and enforceability of this chapter includes the territorial sea of the United States, as described in Presidential Proclamation 5928 of December 27, 1988, which is subject to the sovereignty of the United States, and the United States exclusive economic zone, consistent with international law.
 
 #### (<i>l</i>) Nationwide service of process
 

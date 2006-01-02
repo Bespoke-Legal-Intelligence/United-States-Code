@@ -96,7 +96,7 @@ Sections 5 to 10 of Pub. L. 96–452 provided that:
 
 &emsp;“(2) If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, shall, by appropriate orders, be transferred to the court to which it would have gone had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced, and further proceedings in respect of the case shall be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court.
 
-&emsp;“(3) A petition for rehearing or a petition for rehearing en banc in a matter decided before the effective date of this Act \[Oct. 1, 1981\], or submitted before the effective date of this Act and decided on or after the effective date as provided in paragraph (1) of this section, shall be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted,the matter shall be reheard by a court comprised as though this Act had not been enacted.
+&emsp;“(3) A petition for rehearing or a petition for rehearing en banc in a matter decided before the effective date of this Act \[Oct. 1, 1981\], or submitted before the effective date of this Act and decided on or after the effective date as provided in paragraph (1) of this section, shall be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted, the matter shall be reheard by a court comprised as though this Act had not been enacted.
 
 “Sec. 10. As used in sections 5, 6, 7, 8, and 9 of this Act, the term—
 

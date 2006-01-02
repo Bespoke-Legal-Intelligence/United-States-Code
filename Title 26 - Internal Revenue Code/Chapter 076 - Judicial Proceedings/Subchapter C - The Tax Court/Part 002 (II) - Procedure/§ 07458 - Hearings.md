@@ -8,7 +8,3 @@ Notice and opportunity to be heard upon any proceeding instituted before the Tax
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and struck out “nor his delegate” after “nor the Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6110 of this title.
-

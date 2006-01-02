@@ -14,7 +14,7 @@ On and after the effective date of this Act the Secretary is authorized to make,
 
 (1) On and after October 21, 1976, a withdrawal aggregating five thousand acres or more may be made (or such a withdrawal or any other withdrawal involving in the aggregate five thousand acres or more which terminates after such date of approval may be extended) only for a period of not more than twenty years by the Secretary on his own motion or upon request by a department or agency head. The Secretary shall notify both Houses of Congress of such a withdrawal no later than its effective date and the withdrawal shall terminate and become ineffective at the end of ninety days (not counting days on which the Senate or the House of Representatives has adjourned for more than three consecutive days) beginning on the day notice of such withdrawal has been submitted to the Senate and the House of Representatives, if the Congress has adopted a concurrent resolution stating that such House does not approve the withdrawal. If the committee to which a resolution has been referred during the said ninety day period, has not reported it at the end of thirty calendar days after its referral, it shall be in order to either discharge the committee from further consideration of such resolution or to discharge the committee from consideration of any other resolution with respect to the Presidential recommendation. A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported such a resolution), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be made with respect to any other resolution with respect to the same Presidential recommendation. When the committee has reprinted, or has been discharged from further consideration of a resolution, it shall at any time thereafter be in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion shall be highly privileged and shall not be debatable. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
-(2) With the notices required by subsection (c)(1) of this section and within three monthsafter filing the notice under subsection (e) of this section, the Secretary shall furnish to the committees—
+(2) With the notices required by subsection (c)(1) of this section and within three months after filing the notice under subsection (e) of this section, the Secretary shall furnish to the committees—
 
 &emsp;(1) a clear explanation of the proposed use of the land involved which led to the withdrawal;
 
@@ -22,7 +22,7 @@ On and after the effective date of this Act the Secretary is authorized to make,
 
 &emsp;(3) an identification of present users of the land involved, and how they will be affected by the proposed use;
 
-&emsp;(4) an analysis of the manner in which existing and potential resource uses are incompatible with or in conflict with the proposed use, together with a statement of the provisions to be made for continuation or termination of existing uses, including an economic analysis of such continuation or termination;
+&emsp;(4) an analysis of the manner in which existing and potential resource uses are incompatible with or in conflict with the proposed use, together with a statement of the provisions tobe made for continuation or termination of existing uses, including an economic analysis of such continuation or termination;
 
 &emsp;(5) an analysis of the manner in which such lands will be used in relation to the specific requirements for the proposed use;
 
@@ -104,7 +104,7 @@ The Mineral Leasing Act of 1920 (41 Stat. 437, as amended; 30 U.S.C. 181 et seq.
 
 #### Amendments
 
-1994—Subsec. (e). Pub. L. 103–437, §16(d)(1)(A), substituted “Committee on Natural Resources of the House of Representatives or the Committee on Energy and Natural Resources of the Senate” for “Committee on Interior and Insular Affairs of either the House of Representatives or the Senate” and “both of those Committees” for “the Committees on Interior and Insular Affairs of the Senate and the House of Representatives”.
+1994—Subsec. (e). Pub. L. 103–437, §16(d)(1)(A), substituted “Committee on Natural Resources of the House of Representatives or the Committee on Energy and Natural Resources of the Senate” for “Committeeon Interior and Insular Affairs of either the House of Representatives or the Senate” and “both of those Committees” for “the Committees on Interior and Insular Affairs of the Senate and the House of Representatives”.
 
 Subsec. (f). Pub. L. 103–437, §16(d)(1)(B), substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the House of Representatives and the Senate”.
 

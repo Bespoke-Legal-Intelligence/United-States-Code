@@ -28,7 +28,3 @@ Provisions similar to those comprising this section were contained in prior sect
 
 “United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5604, 7613 of this title.
-

@@ -2,7 +2,7 @@
 
 The Assistant Secretary shall consult and coordinate with State agencies, area agencies on aging, and recipients of grants under subchapter X of this chapter in the development of Federal goals, regulations, program instructions, and policies under this chapter.
 
-(Pub. L. 89–73, title II, §203A, as added Pub. L. 102–375, title II, §204, Sept. 30, 1992, 106 Stat. 1211;amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title II, §203A, as added Pub. L. 102–375, title II, §204, Sept. 30, 1992, 106 Stat. 1211; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
 #### Amendments
 

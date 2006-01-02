@@ -6,7 +6,7 @@ In addition to any amount appropriated pursuant to section 629f of this title, t
 
 #### (b) Reservation of certain amounts
 
-From the amount (if any) appropriated pursuant to subsection (a) of this section for a fiscalyear, the Secretary shall reserve amounts as follows:
+From the amount (if any) appropriated pursuant to subsection (a) of this section for a fiscal year, the Secretary shall reserve amounts as follows:
 
 #### (1) Evaluation, research, training, and technical assistance
 
@@ -28,7 +28,7 @@ From the amount (if any) appropriated pursuant to subsection (a) of this section
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 621 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applyingsubection <sup>1</sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 621 of this title.
 
 #### (3) Other States
 

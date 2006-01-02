@@ -58,7 +58,7 @@ The Commission shall prepare written rules for the conduct of its activities, sh
 
 This Act, referred to in subsecs. (b), (c), and (f)(3), (4), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1), (4),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1), (4), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -106,7 +106,7 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 #### Operation of Federal Election Commission After 1976 Amendment of Federal Election Campaign Act; Appointment of Commission Members; Transfer of Personnel, Liabilities, Contracts, Property, and Records, of Commission; References to Commission Prior to Amendment Deemed References to Commission as Constituted After 1976 Amendment of Federal Election Campaign Act
 
-Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rulesopinions, and proceedings issued, pending, or commenced before such amendments.
+Section 101(e)–(g) of Pub. L. 94–283 provided for the transition of the Federal Election Commission as it was reconstituted under the Federal Election Campaign Act of 1971 as amended by Pub. L. 94–283 by providing for appointment of members, transfer of personnel, liabilities, contracts, property, and records, and savings provisions for orders, determinations, rules opinions, and proceedings issued, pending, or commenced before such amendments.
 
 #### Transitional Provision Pending Appointment and Qualification of Members and General Counsel of Federal Election Commission and Transfer of Records, Documents, Memorandums, and Other Papers
 

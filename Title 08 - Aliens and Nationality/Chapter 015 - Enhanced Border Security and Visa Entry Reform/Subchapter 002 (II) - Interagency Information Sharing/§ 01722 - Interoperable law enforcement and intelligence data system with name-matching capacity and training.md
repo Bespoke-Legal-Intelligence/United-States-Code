@@ -4,11 +4,11 @@
 
 #### (1) Requirement for integrated immigration and naturalization data system
 
-&emsp;The Immigration and Naturalization Service shall fully integrate all databases and data systems maintained by the Service that process or contain information on aliens. The fullyintegrated data system shall be an interoperable component of the electronic data system described in paragraph (2).
+&emsp;The Immigration and Naturalization Service shall fully integrate all databases and data systems maintained by the Service that process or contain information on aliens. The fully integrated data system shall be an interoperable component of the electronic data system described in paragraph (2).
 
 #### (2) Requirement for interoperable data system
 
-&emsp;Upon the date of commencement of implementation of the plan required by section 1721(c) of this title, the President shall develop and implement an interoperable electronic data system to provide current and immediate access to information in databases of Federal law enforcement agencies and the intelligence community that is relevant to determine whether to issue a visa or to determine the admissibility or deportability of an alien (also known as the “Chimera system”).
+&emsp;Upon the date of commencement of implementation of the plan required by section 1721(c) of this title, the President shall develop and implement an interoperable electronic data system to provide current and immediate access to information in databases of Federal law enforcement agencies and the intelligencecommunity that is relevant to determine whether to issue a visa or to determine the admissibility or deportability of an alien (also known as the “Chimera system”).
 
 #### (3) Consultation requirement
 
@@ -92,7 +92,7 @@
 
 #### (B) Guidelines
 
-&emsp;&emsp;Not later than 120 days after May 14, 2002, the Director of Central Intelligence shall issue the guidelines and submit the copy of those guidelines previously required by section 309(b) of the Intelligence Authorization Act for Fiscal Year 1998 (50 U.S.C. 403–3 note).
+&emsp;&emsp;Not later than 120 days after May 14, 2002, the Director of Central Intelligence shall issue the guidelines and submit the copy of those guidelines previously required by section 309(b) of the Intelligence Authorization Act for Fiscal Year 1998.
 
 #### (6) Authorization of appropriations
 
@@ -102,7 +102,7 @@
 
 #### References in Text
 
-Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105–107, which is set out as a note under section 403–3 of Title 50, War and National Defense.
+Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105–107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out as a note under former section403–3 of Title 50, War and National Defense, and has been omitted from the Code.
 
 #### Codification
 

@@ -36,7 +36,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;&emsp;(D) cooked or uncooked fish, whether breaded or not, or frozen or fresh shellfish, or byproducts thereof not intended for human consumption, other than fish or shellfish that have been treated for preserving, such as canned, smoked, pickled, spiced, corned, or kippered products; and
 
-&emsp;&emsp;(E) livestock and poultry feed and agricultural seeds and plants, if such products (excluding products otherwise exempt under this paragraph) are transported to a site of agricultural production or to a business enterprise engaged in the sale to agricultural producers of goods used in agricultural production;
+&emsp;&emsp;(E) livestock and poultry feed and agricultural seeds and plants, if such products (excluding products otherwise exempt underthis paragraph) are transported to a site of agricultural production or to a business enterprise engaged in the sale to agricultural producers of goods used in agricultural production;
 
 &emsp;(7) a motor vehicle used only to distribute newspapers;
 
@@ -64,7 +64,7 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board, as applicable, finds it necessary to exercise jurisdiction to carry out the transportation policy of section 13101, neither the Secretary nor the Board has jurisdiction under this part over—
 
-&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or ina zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
+&emsp;(1) transportation provided entirely in a municipality, in contiguous municipalities, or in a zone that is adjacent to, and commercially a part of, the municipality or municipalities, except—
 
 &emsp;&emsp;(A) when the transportation is under common control, management, or arrangement for a continuous carriage or shipment to or from a place outside the municipality, municipalities, or zone; or
 

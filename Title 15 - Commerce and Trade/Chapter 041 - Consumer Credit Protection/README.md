@@ -95,6 +95,7 @@
 | (e) | Other rules for disclosures under subsections (c) and (d). |
 | (f) | Disclosure of range of certain fees which vary by State allowed. |
 | (g) | Insurance in connection with certain open end credit card plans. |
+| (h) | Prohibition on certain actions for failure to incur finance charges. |
 | [1637a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20B%20-%20Credit%20Transactions/%C2%A7%2001637a%20-%20Disclosure%20requirements%20for%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md) | Disclosure requirements for open end consumer credit plans secured by consumer's principal dwelling. |
 | (a) | Application disclosures. |
 | (b) | Time and form of disclosures. |
@@ -181,6 +182,7 @@
 | (b) | Advertisements of residential real estate. |
 | (c) | Rate of finance charge expressed as annual percentage rate. |
 | (d) | Requisite disclosures in advertisement. |
+| (e) | Credit transaction secured by principal dwelling of consumer. |
 | [1665\.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001665%20-%20Nonliability%20of%20advertising%20media.md) | Nonliability of advertising media. |
 | [1665a.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001665a%20-%20Use%20of%20annual%20percentage%20rate%20in%20oral%20disclosures%3B%20exceptions.md) | Use of annual percentage rate in oral disclosures; exceptions. |
 | [1665b.](Subchapter%20001%20%28I%29%20-%20Consumer%20Credit%20Cost%20Disclosure/Part%20C%20-%20Credit%20Advertising/%C2%A7%2001665b%20-%20Advertising%20of%20open%20end%20consumer%20credit%20plans%20secured%20by%20consumer%27s%20principal%20dwelling.md) | Advertising of open end consumer credit plans secured by consumer's principal dwelling. |

@@ -54,7 +54,7 @@ Except as otherwise provided in this section, gross income of an employee does n
 
 #### (1) In general
 
-&emsp;In the case of an employee who is an eligible individual (as defined in section 223(c)(1)), amounts contributed by such employee's employer to any health savings account (as defined in section 223(d)) of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceedthe limitation under section 223(b) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
+&emsp;In the case of an employee who is an eligible individual (as defined in section 223(c)(1)), amounts contributed by such employee's employer to any health savings account (as defined in section 223(d)) of such employee shall be treated as employer-provided coverage for medical expenses under an accident or health plan to the extent such amounts do not exceed the limitation under section 223(b) (determined without regard to this subsection) which is applicable to such employee for such taxable year.
 
 #### (2) Special rules
 
@@ -130,7 +130,7 @@ Amendment by section 3011(b)(1) of Pub. L. 100–647 applicable to taxable years
 
 Amendment by section 1114(b)(1) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, see section 1114(c)(1) of Pub. L. 99–514, set out as a note under section 414 of this title.
 
-Amendment by section 1151(j)(2) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) ofPub. L. 99–514, as amended, set out as a note under section 79 of this title.
+Amendment by section 1151(j)(2) of Pub. L. 99–514 applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see section 1151(k) of Pub. L. 99–514, as amended, set out as a note under section 79 of this title.
 
 Section 10001(e) of Pub. L. 99–272 provided that:
 
@@ -159,8 +159,4 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 223, 51A, 104, 125, 220, 414, 3231, 3306, 3401, 4973, 6039D, 6041, 7701 of this title; title 29 section 1167.
 

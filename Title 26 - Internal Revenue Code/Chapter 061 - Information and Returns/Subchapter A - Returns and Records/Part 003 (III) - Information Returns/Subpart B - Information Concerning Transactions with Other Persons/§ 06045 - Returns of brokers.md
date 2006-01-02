@@ -104,9 +104,7 @@ If any broker—
 
 &emsp;&emsp;&emsp;(iii) the full amount of the gain on such sale or exchange is excludable from gross income under section 121.
 
-> &emsp;&emsp;If such assurance includes an assurance that the seller is married, the preceding sentence shall be applied by substituting “$500,000” for “$250,000”.
-
-> &emsp;The Secretary may by regulation increase the dollar amounts under this subparagraph if the Secretary determines that such an increase will not materially reduce revenues to the Treasury.
+> &emsp;&emsp;If such assurance includes an assurance that the seller is married, the preceding sentence shall be applied by substituting “$500,000” for “$250,000”. The Secretary may by regulation increase the dollar amounts under this subparagraph if the Secretary determines that such an increase will not materially reduce revenues to the Treasury.
 
 #### (B) Seller
 
@@ -128,9 +126,11 @@ If any broker—
 
 &emsp;&emsp;This subsection shall not apply to the portion of any payment which is required to be reported under section 6041(a) (or would be so required but for the dollar limitation contained therein) or section 6051.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §311(a)(1), Sept. 3, 1982, 96 Stat. 600; Pub. L. 98–369, div. A, title I, §150(a), title VII, §714(e)(1), July 18, 1984, 98 Stat. 690, 961; Pub. L. 99–514, title XV, §§1501(c)(4), 1521(a), Oct. 22, 1986, 100 Stat. 2737, 2746; Pub. L. 100–647, title I, §1015(e)(1)(A), (2)(A), (3), title IV, §4005(g)(3), Nov. 10, 1988, 102 Stat. 3569, 3570, 3650; Pub. L. 101–239, title VII, §7814(c)(1), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11704(a)(25), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 102–486, title XIX, §1939(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 104–168, title XII, §1201(a)(5), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(<i>o</i>)(1), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title III, §312(c), title X, §1021(a), Aug. 5, 1997, 111 Stat. 839, 922; Pub. L. 109–135, title IV, §412(xx), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Amendments
+
+2005—Subsec. (e)(5)(A). Pub. L. 109–135 adjusted the margin of the third sentence to include it in concluding provisions with the second sentence.
 
 1997—Subsec. (e)(5). Pub. L. 105–34, §312(c), added par. (5).
 
@@ -220,9 +220,5 @@ Section 311(c)(1) of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct.
 
 #### No Penalty for Payments Before January 1, 1985
 
-Section 714(e)(2) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No penalty shall be imposed under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any person required (by reason of the amendment made by paragraph (1) \[amending this section\]) to file a return under section 6045 of such Code with respect to any payment before January 1, 1985.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1400C, 3406, 6041, 6049, 6721, 6722, 6724, 7603 of this title.
+Section 714(e)(2) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“No penalty shall be imposed under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to any person required (by reason of the amendment made by paragraph (1) \[amending this section\]) to file a return under section 6045 of such Code with respect to any payment before January 1, 1985.”
 

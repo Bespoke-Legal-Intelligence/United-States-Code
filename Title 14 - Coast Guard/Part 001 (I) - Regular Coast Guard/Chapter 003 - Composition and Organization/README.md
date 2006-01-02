@@ -16,10 +16,13 @@
 | [51\.](%C2%A7%2000051%20-%20Retirement.md) | Retirement. |
 | [52\.](%C2%A7%2000052%20-%20Vice%20admirals%2C%20continuity%20of%20grade.md) | Vice admirals, continuity of grade. |
 | [53\.](%C2%A7%2000053%20-%20Office%20of%20the%20Coast%20Guard%20Reserve%3B%20Director.md) | Office of the Coast Guard Reserve; Director. |
+| [54\.](%C2%A7%2000054%20-%20Chief%20of%20Staff%20to%20President%20appointment.md) | Chief of Staff to President: appointment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §597(b), Jan. 6, 2006, 119 Stat. 3283, added item 54.
 
 1999—Pub. L. 106–65, div. A, title V, §557(b), Oct. 5, 1999, 113 Stat. 620, added item 53.
 
@@ -52,3 +55,4 @@
 - [&sect; 00051 - Retirement](%C2%A7%2000051%20-%20Retirement.md)
 - [&sect; 00052 - Vice admirals, continuity of grade](%C2%A7%2000052%20-%20Vice%20admirals%2C%20continuity%20of%20grade.md)
 - [&sect; 00053 - Office of the Coast Guard Reserve; Director](%C2%A7%2000053%20-%20Office%20of%20the%20Coast%20Guard%20Reserve%3B%20Director.md)
+- [&sect; 00054 - Chief of Staff to President appointment](%C2%A7%2000054%20-%20Chief%20of%20Staff%20to%20President%20appointment.md)

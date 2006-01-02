@@ -34,7 +34,7 @@ A State may not make payments from a grant under subsection (a) of this section 
 
 #### Prior Provisions
 
-A prior section 398 of act July 1, 1944, ch. 373, title III, formerly §399a, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §399, Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), 84 Stat. 67; renumbered §398, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373, which related to the continuing availability of appropriated funds, was classified to section 280b–10 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+A prior section 398 of act July 1, 1944, ch. 373, title III, formerly §399a, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1066; renumbered §399, Mar. 13, 1970, Pub. L. 91–212, §10(c)(3), 84 Stat. 67; renumbered §398, July 23, 1974, Pub. L. 93–353, title II, §204, 88 Stat. 373, which related to the continuing availability of appropriated funds, was classified to section 280b–10 of this title,prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 #### Amendments
 

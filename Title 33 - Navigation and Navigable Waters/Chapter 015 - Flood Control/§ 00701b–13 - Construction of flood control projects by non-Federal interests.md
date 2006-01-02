@@ -12,7 +12,7 @@ Non-Federal interests are authorized to undertake flood control projects in the 
 
 #### (2) By Secretary
 
-&emsp;Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and design activities for any construction to be undertaken pursuant tosubsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to provide to the United States funds for the studies and design activities during the period in which the studies and design activities will be conducted.
+&emsp;Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and design activities for any construction to be undertaken pursuant to subsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to provide to the United States funds for the studies and design activities during the period in which the studies and design activities will be conducted.
 
 #### (c) Completion of studies and design activities
 
@@ -58,7 +58,7 @@ In the case of any study or design documents for a flood control project that we
 
 &emsp;Subject to appropriations Acts, the Secretary may reimburse any non-Federal interest an amount equal to the estimate of the Federal share, without interest, of the cost of any authorized flood control project, or separable element of a flood control project, constructed pursuant to this section and provide credit for the non-Federal share of the project—
 
-&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves the plans for construction of such project by the non-Federal interest;
+&emsp;&emsp;(A) if, after authorization and before initiation of construction of the project or separable element, the Secretary approves theplans for construction of such project by the non-Federal interest;
 
 &emsp;&emsp;(B) if the Secretary finds, after a review of studies and design documents prepared pursuant to this section, that construction of the project or separable element is economically justified and environmentally acceptable; and
 

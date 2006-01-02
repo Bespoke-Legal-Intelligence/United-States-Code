@@ -16,7 +16,7 @@ Suspensions and Restrictions.—Without a hearing, but subject to the approval o
 
 &emsp;&emsp;&emsp;(i) limited or denied the operating rights of an air carrier; or
 
-&emsp;&emsp;&emsp;(ii) engaged in unfair, discriminatory, or restrictive practices that have a substantial adverse competitive impact on an air carrier related to air transportation to, from, through, or over the territory of the foreign country; and
+&emsp;&emsp;&emsp;(ii) engaged in unfair, discriminatory, or restrictive practices that have a substantial adverse competitive impact on an aircarrier related to air transportation to, from, through, or over the territory of the foreign country; and
 
 &emsp;(2) to make this subsection effective, may restrict operations between the United States and the foreign country by a foreign air carrier of a third country.
 

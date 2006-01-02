@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Program funds shall be administered in such a manner as to allow for a determination that funds from specific programs (or an amount equal to the amount attracted from each program) are spent on allowable activities authorized under such program.
+&emsp;Program funds shall be administered in such a manner as to allow for a determination that funds from specific programs (or an amountequal to the amount attracted from each program) are spent on allowable activities authorized under such program.
 
 #### (2) Separate records not required
 

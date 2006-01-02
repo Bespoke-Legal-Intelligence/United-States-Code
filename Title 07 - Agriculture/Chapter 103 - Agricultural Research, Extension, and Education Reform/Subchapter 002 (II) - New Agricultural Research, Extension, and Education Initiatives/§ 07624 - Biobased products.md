@@ -88,5 +88,5 @@ Subsec. (h). Pub. L. 107–171, §7124(b), substituted “2007” for “2002”
 
 #### Ex. Ord. No. 13134. Developing and Promoting Biobased Products and Bioenergy
 
-Ex. Ord. No. 13134, Aug. 12, 1999, 64 F.R. 44639, as amended, was transferred and is set out as a note under section 8101 of this title.
+Ex. Ord. No. 13134, Aug. 12, 1999, 64 F.R. 44639, as amended, was transferred and is set out as a note under section 8601 of this title.
 

@@ -30,7 +30,13 @@ Periodic Review.—(1) Periodically (and not less often than every two years), t
 
 Special Rule for Defense Commissary Agency.—Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Commissary Agency, the Secretary of Defense may not transfer to the Secretary of a military department the responsibility to manage and fund the provision of services and supplies provided by the Defense Commissary Agency unless the transfer of the management and funding responsibility is specifically authorized by a law enacted after October 17, 1998.
 
-(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770.)
+(e)
+
+Special Rule for Defense Business Transformation Agency.—(1) The Defense Business Transformation Agency shall be supervised by the vice chairman of the Defense Business System Management Committee.
+
+(2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Agency be managed cooperatively by the Deputy Under Secretary of Defense for Business Transformation and the Deputy Under Secretary of Defense for Financial Management.
+
+(Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209.)
 
 #### Prior Provisions
 
@@ -38,15 +44,17 @@ A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat.
 
 #### Amendments
 
+2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
+
 1999—Subsec. (d). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this subsection”.
 
 1998—Subsec. (d). Pub. L. 105–261 added subsec. (d).
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### First Review of Defense Agencies by Secretary of Defense
 
 Section 304(a) of Pub. L. 99–433 provided that: “The first review under section 192(c) of title 10, United States Code (as added by section 301(a)), shall be completed not later than two years after the date that the report under section 303(e) \[see section 303(f) of Pub. L. 99–433, set out as a note under section 191 of this title\] is required to be submitted to Congress.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2482 of this title.
 

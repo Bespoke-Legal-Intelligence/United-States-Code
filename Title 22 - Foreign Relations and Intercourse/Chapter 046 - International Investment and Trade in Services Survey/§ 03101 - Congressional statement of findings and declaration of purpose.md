@@ -58,5 +58,5 @@ Sec. 2. Subject to the provisions of section 1 of this order, and in the absence
 
 Sec. 3. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce, with respect to direct investment and trade in services, shall perform the functions set forth in sections 4(a)(1), (2), (4), (5) and 4(b) of the Act \[22 U.S.C. 3103(a)(1), (2), (4), (5) and (b)\].
 
-Sec. 4. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerce shall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act \[22 U.S.C. 3103(a)(3)\].
+Sec. 4. Subject to the provisions of section 1 of this order, and in the absence of any contrary delegation or direction by the Director, the Secretary of Commerceshall perform the function of making periodic reports to the Committees of the Congress as set forth in Section 4(a)(3) of the Act \[22 U.S.C. 3103(a)(3)\].
 

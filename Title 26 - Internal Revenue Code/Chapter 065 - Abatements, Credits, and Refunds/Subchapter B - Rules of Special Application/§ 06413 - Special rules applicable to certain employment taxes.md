@@ -8,7 +8,7 @@
 
 #### (2) United States as employer
 
-&emsp;For purposes of this subsection, in the case of remuneration received from the UnitedStates or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality who makes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall be deemed a separate employer.
+&emsp;For purposes of this subsection, in the case of remuneration received from the United States or a wholly-owned instrumentality thereof during any calendar year, each head of a Federal agency or instrumentality who makes a return pursuant to section 3122 and each agent, designated by the head of a Federal agency or instrumentality, who makes a return pursuant to such section shall be deemed a separate employer.
 
 #### (3) Guam or American Samoa as employer
 
@@ -44,7 +44,7 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (C) Employees of certain foreign affiliates
 
-&emsp;&emsp;For purposes of paragraph (1) of this subsection, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 3121(<i>l</i>) as would be wages if such services constituted employment; the term “employer” includes any American employer which has entered into an agreement pursuant to section 3121(<i>l</i>); the term “tax” or “tax imposed by section 3101(a),” includes, in the case of services covered by an agreement entered intopursuant to section 3121(<i>l</i>), an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of paragraph (1) of this subsection shall apply whether or not any amount deducted from the employee's remuneration as a result of the agreement entered into pursuant to section 3121(<i>l</i>) has been paid to the Secretary.
+&emsp;&emsp;For purposes of paragraph (1) of this subsection, the term “wages” includes such remuneration for services covered by an agreement made pursuant to section 3121(<i>l</i>) as would be wages if such services constituted employment; the term “employer” includes any American employer which has entered into an agreement pursuant to section 3121(<i>l</i>); the term “tax” or “tax imposed by section 3101(a),” includes, in the case of services covered by an agreement entered into pursuant to section 3121(<i>l</i>), an amount equivalent to the tax which would be imposed by section 3101(a), if such services constituted employment as defined in section 3121; and the provisions of paragraph (1) of this subsection shall apply whether or not any amount deducted from the employee's remuneration as a result of the agreement entered into pursuant to section 3121(<i>l</i>) has been paid to the Secretary.
 
 #### (D) Governmental employees in Guam
 
@@ -102,7 +102,7 @@ Subsec. (c)(2). Pub. L. 98–21, §321(e)(4)(B), substituted “foreign affiliat
 
 Subsec. (c)(2)(C). Pub. L. 98–21, §321(e)(4)(A), substituted “foreign affiliates” for “foreign corporations” in heading and, in text, substituted “American employer” for “domestic corporation”.
 
-1982—Catchline and subsecs. (a)(1), (b), (c)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the section catchline is amended by substituting “taxes under subtitle C” for “employment taxes”; subsec. (a)(1) is amended by substituting “3402 or 3451 is paid with respect to any payment of remuneration, interest, dividends, or other amounts,” for “or 3402 is paid with respect to any payment of remuneration,”; subsec. (b) is amended by striking out “of certain employment taxes” from heading, and by substituting “3402 or 3451 is paid or deducted with respect to any payment of remuneration, interest, dividends, or other amount”; and subsec. (c)(1) is amended by substituting “section 31(c)” for “section 31(b)”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Catchline and subsecs. (a)(1), (b), (c)(1). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the section catchline is amended by substituting “taxes under subtitle C” for “employmenttaxes”; subsec. (a)(1) is amended by substituting “3402 or 3451 is paid with respect to any payment of remuneration, interest, dividends, or other amounts,” for “or 3402 is paid with respect to any payment of remuneration,”; subsec. (b) is amended by striking out “of certain employment taxes” from heading, and by substituting “3402 or 3451 is paid or deducted with respect to any payment of remuneration, interest, dividends, or other amount”; and subsec. (c)(1) is amended by substituting “section 31(c)” for “section 31(b)”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 1976—Subsec. (a)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -171,11 +171,11 @@ Subsec. (c)(2)(F). Pub. L. 89–97, §317(f)(1), added subpar. (F) and inserted 
 
 Subsec. (c)(2). Pub. L. 86–778, §103(r) (3), (4), inserted governmental employees in Guam and American Samoa in heading, and added subpars. (D) and (E).
 
-1958—Subsec. (c)(1). Pub. L. 85–840, §402(d)(1), conformed the special-refund provisions to the increasemade by Pub. L. 85–840, in the limitation on wages from $4,200 to $4,800 for calendar years after 1958.
+1958—Subsec. (c)(1). Pub. L. 85–840, §402(d)(1), conformed the special-refund provisions to the increase made by Pub. L. 85–840, in the limitation on wages from $4,200 to $4,800 for calendar years after 1958.
 
 Subsec. (c)(2)(A). Pub. L. 85–840, §402(d)(2), substituted “$4,200 for the calendar year 1955, 1956, 1957, or 1958, or $4,800 for any calendar year after 1958” for “$4,200 for any calendar year after 1954”.
 
-1954—Subsec. (c)(1). Act Sept. 1, 1954, §202(a)(1), conformed the special-refund provisions to the increase made by said act Sept. 1, 1954, in the limitation on wages from $3,600 to $4,200 for calendar years after 1954.
+1954—Subsec. (c)(1). Act Sept. 1, 1954, §202(a)(1), conformed the special-refund provisions to the increasemade by said act Sept. 1, 1954, in the limitation on wages from $3,600 to $4,200 for calendar years after 1954.
 
 Subsec. (c)(2). Act Sept. 1, 1954, §202(b)(1), inserted “and employees of certain foreign corporations” in heading.
 
@@ -240,8 +240,4 @@ Amendment by Pub. L. 86–778 applicable only with respect to (1) service in the
 #### Effective Date of 1954 Amendment
 
 Amendment by act Sept. 1, 1954, applicable only with respect to remuneration paid after 1954, see section 202(d) of act Sept. 1, 1954, set out as a note under section 1401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 21, 24, 31, 3121, 6612 of this title; title 10 section 1451; title 42 sections 401, 1395i.
 

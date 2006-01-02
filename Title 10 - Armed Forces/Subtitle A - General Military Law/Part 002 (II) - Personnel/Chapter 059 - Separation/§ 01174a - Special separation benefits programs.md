@@ -14,7 +14,7 @@ Benefits.—Upon the approval of the request of an eligible member, the member s
 
 &emsp;&emsp;(A) separation pay equal to 15 percent of the product of (i) the member's years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
 
-&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Actfor Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
+&emsp;&emsp;(B) the same benefits and services as are provided under chapter 58 of this title, sections 404 and 406 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 406 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
 (c)
 
@@ -72,7 +72,7 @@ Application Requirements.—(1) In order to be separated under a program establi
 
 (g)
 
-Other Conditions, Requirements, and Administrative Provisions.—Subsections (e) through (h), other than subsection (e)(2)(A), of section 1174 of this title shall apply in the administration of programs established under this section.
+Other Conditions, Requirements, and Administrative Provisions.—Subsections (e) through (h), other than subsection (e)(2)(A), ofsection 1174 of this title shall apply in the administration of programs established under this section.
 
 (h)
 
@@ -179,8 +179,4 @@ Section 661(b) of Pub. L. 102–190 provided that: “The Secretary of each mili
 #### Report on Programs
 
 Section 663 of Pub. L. 102–190 directed Secretary, not later than 180 days after Dec. 5, 1991, to submit to Congress a report containing the Secretary's assessment of effectiveness of programs established under sections 1174a and 1175 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1152, 1153, 1175 of this title; title 29 section 2918; title 33 section 3071; title 38 section 3018B.
 

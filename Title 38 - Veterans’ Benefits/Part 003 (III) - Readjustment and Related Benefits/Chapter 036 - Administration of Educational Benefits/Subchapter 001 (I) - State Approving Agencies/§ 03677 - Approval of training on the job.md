@@ -26,7 +26,7 @@
 
 &emsp;(7) No course of training will be considered bona fide if given to an eligible veteran or person who is already qualified by training and experience for the job.
 
-&emsp;(8) A signed copy of the training agreement for each eligible veteran or person, including the training program and wage scale as approved by the State approving agency, is provided to the veteran or person and to the Secretary and the State approving agency by the employer.
+&emsp;(8) A signed copy of the training agreement for each eligible veteran or person, includingthe training program and wage scale as approved by the State approving agency, is provided to the veteran or person and to the Secretary and the State approving agency by the employer.
 
 &emsp;(9) That the course meets such other criteria as may be established by the State approving agency.
 

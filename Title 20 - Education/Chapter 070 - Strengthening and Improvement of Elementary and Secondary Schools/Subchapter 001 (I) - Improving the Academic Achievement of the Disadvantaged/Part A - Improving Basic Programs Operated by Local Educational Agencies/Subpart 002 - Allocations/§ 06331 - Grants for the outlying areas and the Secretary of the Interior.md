@@ -48,7 +48,7 @@ From the amount appropriated for payments to States for any fiscal year under se
 
 For the purpose of subsections (a) and (b) of this section—
 
-&emsp;(1) the term “freely associated states” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau; and
+&emsp;(1) the term “freely associated states” means the Republic of the Marshall Islands,the Federated States of Micronesia, and the Republic of Palau; and
 
 &emsp;(2) the term “outlying area” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 

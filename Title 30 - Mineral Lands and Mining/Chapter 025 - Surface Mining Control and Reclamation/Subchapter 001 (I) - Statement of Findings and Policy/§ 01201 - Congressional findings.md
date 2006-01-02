@@ -44,7 +44,7 @@ Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: “This A
 
 Section 1 of Pub. L. 95–87 provided: “That this Act \[enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
 
-Pub. L. 98–409, §11, as added by Pub. L. 100–483, §12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312,§1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
+Pub. L. 98–409, §11, as added by Pub. L. 100–483, §12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, §1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

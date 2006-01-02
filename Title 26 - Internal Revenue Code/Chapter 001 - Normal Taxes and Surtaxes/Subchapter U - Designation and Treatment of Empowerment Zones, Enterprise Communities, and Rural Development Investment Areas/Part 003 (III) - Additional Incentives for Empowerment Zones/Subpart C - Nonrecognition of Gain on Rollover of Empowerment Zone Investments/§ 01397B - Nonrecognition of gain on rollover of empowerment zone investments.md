@@ -66,7 +66,3 @@ A prior section 1397B was renumbered section 1397C of this title.
 
 Section applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note under section 1016 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1016, 1223 of this title.
-

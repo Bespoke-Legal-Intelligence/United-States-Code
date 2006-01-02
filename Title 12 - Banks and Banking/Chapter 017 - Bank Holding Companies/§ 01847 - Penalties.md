@@ -36,7 +36,7 @@
 
 #### (c) Notice under this section after separation from service
 
-The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a bank holding company (including a separation caused by the deregistration of such a company) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company (whether such date occurs before, on, or after August 9, 1989).
+The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a bank holding company (including a separation caused by the deregistration of such a company) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company\(whether such date occurs before, on, or after August 9, 1989).
 
 #### (d) Penalty for failure to make reports
 
@@ -76,7 +76,7 @@ The resignation, termination of employment or participation, or separation of an
 
 &emsp;Any company against which any penalty is assessed under this subsection shall be afforded an agency hearing if such company submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
 
-(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647;Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
+(May 9, 1956, ch. 240, §8, 70 Stat. 138; Pub. L. 95–630, title I, §106(a), Nov. 10, 1978, 92 Stat. 3647; Pub. L. 97–320, title IV, §424(a), (d)(4), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, §§905(i), 907(j), 911(e), Aug. 9, 1989, 103 Stat. 461, 475, 481.)
 
 #### Amendments
 
@@ -100,7 +100,7 @@ Subsec. (c). Pub. L. 101–73, §905(i), added subsec. (c).
 
 Subsec. (d). Pub. L. 101–73, §911(e), added subsec. (d).
 
-1982—Subsec. (b)(1). Pub. L. 97–320 inserted proviso giving the Board discretionary authority to compromise, etc., any civil money penalty imposed under this subsection, and substituted “may be assessed” for “shall be assessed”.
+1982—Subsec. (b)(1). Pub. L. 97–320 inserted proviso giving the Board discretionary authority to compromise, etc., any civil money penalty imposed underthis subsection, and substituted “may be assessed” for “shall be assessed”.
 
 1978—Pub. L. 95–630 designated existing provisions as subsec. (a) and added subsec. (b).
 

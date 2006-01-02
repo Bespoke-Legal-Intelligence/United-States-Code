@@ -2,11 +2,11 @@
 
 #### (a) General rule
 
-If any taxable event is corrected during the correction period for such event, then any second tier tax imposed with respect to such event (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
+If any taxable event is corrected during the correction period for such event, then any second tier tax imposed with respect to such event (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and ifcollected shall be credited or refunded as an overpayment.
 
 #### (b) Supplemental proceeding
 
-If the determination by a court that the taxpayer is liable for a second tier tax has become final, such court shall have jurisdiction to conduct any necessary supplemental proceeding to determine whether the taxable event was corrected during the correction period. Such a supplemental proceeding may be begun only during the period which ends on the 90th day after thelast day of the correction period. Where such a supplemental proceeding has begun, the reference in the second sentence of section 6213(a) to a final decision of the Tax Court shall be treated as including a final decision in such supplemental proceeding.
+If the determination by a court that the taxpayer is liable for a second tier tax has become final, such court shall have jurisdiction to conduct any necessary supplemental proceeding to determine whether the taxable event was corrected during the correction period. Such a supplemental proceeding may be begun only during the period which ends on the 90th day after the last day of the correction period. Where such a supplemental proceeding has begun, the reference in the second sentence of section 6213(a) to a final decision of the Tax Court shall be treated as including a final decision in such supplemental proceeding.
 
 #### (c) Suspension of period of collection for second tier tax
 
@@ -53,8 +53,4 @@ Second tier taxes.—The amendments made by this section with respect to any sec
 “(3)
 
 First and second tier tax.—For purposes of this subsection, the terms ‘first tier tax’ and ‘second tier tax’ have the respective meanings given to such terms by section 4962 of the Internal Revenue Code of 1986.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4963 of this title.
 

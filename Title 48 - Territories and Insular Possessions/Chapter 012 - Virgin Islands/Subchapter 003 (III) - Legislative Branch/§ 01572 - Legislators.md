@@ -10,7 +10,7 @@ No person shall be eligible to be a member of the legislature who is not a citiz
 
 #### (c) Appointment of electoral officers; popular election of members of boards of election
 
-All officers and employees charged with the duty of directing the administration of the electoral system of the Virgin Islands and its representative districts shall be appointed in such manner as the legislature may by law direct: <i>Provided, however</i>, That members of boards of elections, which entities of government have been duly organized and established by the government of the Virgin Islands, shall be popularly elected.
+All officers and employees charged with the duty of directing the administration of the electoral system of the Virgin Islands and its representative districts shall be appointed in such manner as the legislature may by law direct:<i>Provided, however</i>, That members of boards of elections, which entities of government have been duly organized and established by the government of the Virgin Islands, shall be popularly elected.
 
 #### (d) Immunity of members
 

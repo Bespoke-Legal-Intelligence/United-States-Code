@@ -2,7 +2,7 @@
 
 (a)(1)
 
-In general.—A cable operator or satellite carrier may elect to retransmit, to subscribers in an eligible county—
+In General.—A cable operator or satellite carrier may elect to retransmit, to subscribers in an eligible county—
 
 &emsp;(A) any television broadcast stations that are located in the State in which the county is located and that any cable operator or satellite carrier was retransmitting to subscribers in the county on January 1, 2004; or
 
@@ -10,11 +10,11 @@ In general.—A cable operator or satellite carrier may elect to retransmit, to 
 
 (2)
 
-Deemed significantly viewed.—A station described in subsection (a) of this section is deemed to be significantly viewed in the eligible county within the meaning of section 76.54 of the Commission's regulations (47 CFR 76.54).
+Deemed Significantly Viewed.—A station described in subsection (a) of this section is deemed to be significantly viewed in the eligible county within the meaning of section 76.54 of the Commission's regulations (47 CFR 76.54).
 
 (3)
 
-Definition of eligible county.—For purposes of this section, the term “eligible county” means any 1 of 4 counties that—
+Definition of Eligible County.—For purposes of this section, the term “eligible county” means any 1 of 4 counties that—
 
 &emsp;(A) are all in a single State;
 

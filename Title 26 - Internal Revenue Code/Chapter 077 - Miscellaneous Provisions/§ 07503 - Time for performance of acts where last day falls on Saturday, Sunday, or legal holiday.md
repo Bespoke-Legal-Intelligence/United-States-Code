@@ -12,7 +12,3 @@ When the last day prescribed under authority of the internal revenue laws for pe
 
 Pub. L. 100–647, title VI, §6278, Nov. 10, 1988, 102 Stat. 3754, provided that: “Section 7503 of the 1986 Code shall apply for purposes of determining whether any disposition meets the requirements of section 10222(b)(2)(B) of the Revenue Act of 1987 \[Pub. L. 100–203, set out as a note under section 301 of this title\]. If any disposition meets the requirements of such section by reason of the preceding sentence, for all purposes of the 1986 Code, such disposition shall be deemed to have occurred on December 31, 1988.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5061, 5703, 7851 of this title.
-

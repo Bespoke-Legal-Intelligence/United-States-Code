@@ -22,7 +22,7 @@ There shall be allowed as a deduction all interest paid or accrued within the ta
 
 #### (c) Redeemable ground rents
 
-For purposes of this subtitle, any annual or periodic rental under a redeemable ground rent\(excluding amounts in redemption thereof) shall be treated as interest on an indebtedness secured by a mortgage.
+For purposes of this subtitle, any annual or periodic rental under a redeemable ground rent (excluding amounts in redemption thereof) shall be treated as interest on an indebtedness secured by a mortgage.
 
 #### (d) Limitation on investment interest
 
@@ -191,7 +191,17 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;If any debt instrument having original issue discount is held by a related foreign person, any portion of such original issue discount shall not be allowable as a deduction to the issuer until paid. The preceding sentence shall not apply to the extent that the original issue discount is effectively connected with the conduct by such foreign related person of a trade or business within the United States unless such original issue discount is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
 
-#### (B) Related foreign person
+#### (B) Special rule for certain foreign entities
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of any debt instrument having original issue discount which is held by a related foreign person which is a controlled foreign corporation (as defined in section 957) or a passive foreign investment company (as defined in section 1297), a deduction shall be allowable to the issuer with respect to such original issue discount for any taxable year before the taxable year in which paid only to the extent such original issue discount is includible (determined without regard to properly allocable deductions and qualified deficits under section 952(c)(1)(B)) during such prior taxable year in the gross income of a United States person who owns (within the meaning of section 958(a)) stock in such corporation.
+
+#### (ii) Secretarial authority
+
+&emsp;&emsp;&emsp;The Secretary may by regulation exempt transactions from the application of clause (i), including any transaction which is entered into by a payor in the ordinary course of a trade or business in which the payor is predominantly engaged.
+
+#### (C) Related foreign person
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “related foreign person” means any person—
 
@@ -217,7 +227,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;(ii) the remainder of such original issue discount shall not be allowable as a deduction until paid.
 
-> &emsp;&emsp;For purposes of this paragraph, rules similar to the rules of subsection (i)(3)(B) shall apply in determining the amount of the original issue discount and when the original issue discount is paid.
+> &emsp;&emsp;For purposes of this paragraph, rules similar to the rules of subsection (i)(3)(B) shallapply in determining the amount of the original issue discount and when the original issue discount is paid.
 
 #### (B) Disqualified portion treated as stock distribution for purposes of dividend received deduction
 
@@ -323,7 +333,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (1) In general
 
-&emsp;In the case of a taxpayer other than a corporation, no deduction shall be allowed underthis chapter for personal interest paid or accrued during the taxable year.
+&emsp;In the case of a taxpayer other than a corporation, no deduction shall be allowed under this chapter for personal interest paid or accrued during the taxable year.
 
 #### (2) Personal interest
 
@@ -499,7 +509,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (4) Debt instrument
 
-&emsp;For purposes of this subsection, the term “debt instrument” means any instrumentwhich is a debt instrument as defined in section 1275(a).
+&emsp;For purposes of this subsection, the term “debt instrument” means any instrument which is a debt instrument as defined in section 1275(a).
 
 #### (5) Regulations
 
@@ -583,7 +593,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any personwho is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “related person” means any person who is related (within the meaning of section 267(b) or 707(b)(1)) to the taxpayer.
 
 #### (B) Special rule for certain partnerships
 
@@ -621,9 +631,11 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;&emsp;(I) any deduction allowable under this chapter for the net interest expense,
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount of any net operating loss deduction under section 172, and
+&emsp;&emsp;&emsp;&emsp;(II) the amount of any net operating loss deduction under section 172,
 
-&emsp;&emsp;&emsp;&emsp;(III) any deduction allowable for depreciation, amortization, or depletion, and
+&emsp;&emsp;&emsp;&emsp;(III) any deduction allowable under section 199, and
+
+&emsp;&emsp;&emsp;&emsp;(IV) any deduction allowable for depreciation, amortization, or depletion, and
 
 &emsp;&emsp;&emsp;(ii) computed with such other adjustments as the Secretary may by regulations prescribe.
 
@@ -659,7 +671,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;&emsp;(II) if the taxpayer owns a controlling interest in the guarantor.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), except as provided in regulations, the term “a controlling interest” means direct or indirect ownership of at least 80 percent of the total voting power and value of all classes of stock of a corporation, or 80 percent of the profit and capital interests in any other entity. For purposes of the preceding sentence, the rules of paragraphs (1) and (5) of section 267(c) shall apply; except that such rules shall also apply to interest in entities other than corporations.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), except as provided in regulations, the term “a controlling interest” means direct or indirect ownership of at least 80 percent of the total voting power and value of all classes of stock of a corporation, or 80 percent of the profit and capital interests in any other entity. For purposes of the precedingsentence, the rules of paragraphs (1) and (5) of section 267(c) shall apply; except that such rules shall also apply to interest in entities other than corporations.
 
 #### (iii) Guarantee
 
@@ -701,11 +713,11 @@ No deduction shall be allowed under this section for any interest payable under 
 
 #### (2) Disqualified debt instrument
 
-&emsp;For purposes of this subsection, the term “disqualified debt instrument” means any indebtedness of a corporation which is payable in equity of the issuer or a related party.
+&emsp;For purposes of this subsection, the term “disqualified debt instrument” means any indebtedness of a corporation which is payable in equity of the issuer or a related party or equity held by the issuer (or any related party) in any other person.
 
 #### (3) Special rules for amounts payable in equity
 
-&emsp;For purposes of paragraph (2), indebtedness shall be treated as payable in equity of the issuer or a related party only if—
+&emsp;For purposes of paragraph (2), indebtedness shall be treated as payable in equity of the issuer or any other person only if—
 
 &emsp;&emsp;(A) a substantial amount of the principal or interest is required to be paid or converted, or at the option of the issuer or a related party is payable in, or convertible into, such equity,
 
@@ -715,15 +727,27 @@ No deduction shall be allowed under this section for any interest payable under 
 
 > &emsp;For purposes of this paragraph, principal or interest shall be treated as required to be so paid, converted, or determined if it may be required at the option of the holder or a related party and there is a substantial certainty the option will be exercised.
 
-#### (4) Related party
+#### (4) Capitalization allowed with respect to equity of persons other than issuer and related parties
+
+&emsp;If the disqualified debt instrument of a corporation is payable in equity held by the issuer (or any related party) in any other person (other than a related party), the basis of such equity shall be increased by the amount not allowed as a deduction by reason of paragraph (1) with respect to the instrument.
+
+#### (5) Exception for certain instruments issued by dealers in securities
+
+&emsp;For purposes of this subsection, the term “disqualified debt instrument” does not include indebtedness issued by a dealer in securities (or a related party) which is payable in, or by reference to, equity (other than equity of the issuer or a related party) held by such dealer in its capacity as a dealer in securities. For purposes of this paragraph, the term “dealer in securities” has the meaning given such term by section 475.
+
+#### (6) Related party
 
 &emsp;For purposes of this subsection, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b).
 
-#### (5) Regulations
+#### (7) Regulations
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through the use of an issuer other than a corporation.
 
-#### (m) Cross references
+#### (m) Interest on unpaid taxes attributable to nondisclosed reportable transactions
+
+No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) is not met.
+
+#### (n) Cross references
 
 &emsp;&emsp;<b>(1) For disallowance of certain amounts paid in connection with insurance, endowment, or annuity contracts, see section 264.</b>
 
@@ -735,13 +759,25 @@ No deduction shall be allowed under this section for any interest payable under 
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 303 of Pub. L. 108–27, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### Amendments
+
+2005—Subsec. (j)(6)(A)(i)(III), (IV). Pub. L. 109–135 added subcl. (III) and redesignated former subcl. (III) as (IV).
+
+2004—Subsec. (e)(3)(B), (C). Pub. L. 108–357, §841(a), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (<i>l</i>)(2). Pub. L. 108–357, §845(a), inserted “or equity held by the issuer (or any related party) in any other person” after “or a related party”.
+
+Subsec. (<i>l</i>)(3). Pub. L. 108–357, §845(d), substituted “or any other person” for “or a related party” in introductory provisions.
+
+Subsec. (<i>l</i>)(4) to (7). Pub. L. 108–357, §845(b), (c), added pars. (4) and (5) and redesignated former pars. (4) and (5) as (6) and (7), respectively.
+
+Subsecs. (m), (n). Pub. L. 108–357, §838(a), added subsec. (m) and redesignated former subsec. (m) as (n).
 
 2003—Subsec. (d)(4)(B). Pub. L. 108–27, §§302(b), 303, temporarily inserted at end “Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.” See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -897,7 +933,7 @@ Limitation on period of refinancing.—Subclause (II) of clause (i) shall not ap
 
 &emsp;&emsp;&emsp;“(I) the expiration of the term of the indebtedness described in clause (i)(I), or
 
-&emsp;&emsp;&emsp;“(II) if the principal of the indebtedness described in clause (i)(I) is not amortized over its term, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such refinancing).
+&emsp;&emsp;&emsp;“(II) if the principal of the indebtedness described in clause (i)(I) is not amortized over itsterm, the expiration of the term of the 1st refinancing of such indebtedness (or if earlier, the date which is 30 years after the date of such refinancing).
 
 &emsp;“(D)
 
@@ -951,7 +987,7 @@ Subsec. (g). Pub. L. 97–248, §310(b)(2), redesignated former subsec. (f), set
 
 1976—Subsec. (b)(1). Pub. L. 94–455, §1901(b)(8)(C), substituted “organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization” for “institution (as defined in section 151(e)(4)) and which is provided for a student of such institution”.
 
-Subsec. (d)(1). Pub. L. 94–455, §209(a)(1), among other changes, substituted in subpar. (A) “$10,000” for “$25,000” and “$5,000” for “$12,500”, struck out subpar. (C) relating to the excess of net long-term capital gain over short-term capital loss and subpar. (D) relating to the excess of investment interest over amounts in subpar. (A), and in provisions following lettered paragraphs substituted “$10,000” for “$25,000” and struckout provisions relating to the determination of the amount referred to in subpar. (C).
+Subsec. (d)(1). Pub. L. 94–455, §209(a)(1), among other changes, substituted in subpar. (A) “$10,000” for “$25,000” and “$5,000” for “$12,500”, struck out subpar. (C) relating to the excess of net long-term capital gain over short-term capital loss and subpar. (D) relating to the excess of investment interest over amounts in subpar. (A), and in provisions following lettered paragraphs substituted “$10,000” for “$25,000” and struck out provisions relating to the determination of the amount referred to in subpar. (C).
 
 Subsec. (d)(2). Pub. L. 94–455, §209(a)(1), among other changes, struck out provisions relating to the limitation on the amount of interest allowable by this par. and to reduction of disallowed investment interest for capital gain deduction purposes.
 
@@ -984,6 +1020,18 @@ Subsec. (d)(7). Pub. L. 92–178, §304(a)(2)(B), added par. (7).
 1964—Subsec. (b)(1). Pub. L. 88–272 included the purchase of educational services, and defined “educational services”.
 
 1963—Subsecs. (c), (d). Pub. L. 88–9, §1(a), (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §838(b), Oct. 22, 2004, 118 Stat. 1597, provided that: “The amendments made by this section \[amending this section\] shall apply to transactions in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title VIII, §841(c), Oct. 22, 2004, 118 Stat. 1598, provided that: “The amendments made by this section \[amending this section and section 267 of this title\] shall apply to payments accrued on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title VIII, §845(e), Oct. 22, 2004, 118 Stat. 1601, provided that: “The amendments made by this section \[amending this section\] shall apply to debt instruments issued after October 3, 2004.”
 
 #### Effective and Termination Dates of 2003 Amendment
 
@@ -1043,7 +1091,7 @@ Section 13228(d) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision ofthe Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -1163,7 +1211,7 @@ Indebtedness incurred before september 11, 1975.—In the case of indebtedness a
 
 &emsp;“(B) was incurred before September 11, 1975, or is incurred after September 10, 1975, pursuant to a written contract or commitment which on September 11, 1975, and at all times thereafter before the incurring of such indebtedness, is binding on the taxpayer,
 
-> the amendments made by this section shall not apply, but section 163(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the enactment of this Act \[Oct. 4, 1976\]) shall apply. For purposes of the preceding sentence, so much of the net investment income (as defined in section 163(d)(3)(A) of such Code) for any taxable year as is not taken into account under section 163(d) of such Code, as amended by this Act, by reason of the last sentence of section 163(d)(3)(A) of such Code, shall be taken into account for purposes of applying such section as in effect before the date of enactment of this Act \[Oct. 4, 1976\] with respect to interest on indebtedness referred to in the preceding sentence.”
+> the amendments made by this section shall not apply, but section 163(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the enactment of this Act \[Oct. 4, 1976\]) shall apply. For purposes of the preceding sentence, so much of the net investment income (as defined in section 163(d)(3)(A) of such Code) for any taxable year as is not taken into account undersection 163(d) of such Code, as amended by this Act, by reason of the last sentence of section 163(d)(3)(A) of such Code, shall be taken into account for purposes of applying such section as in effect before the date of enactment of this Act \[Oct. 4, 1976\] with respect to interest on indebtedness referred to in the preceding sentence.”
 
 Amendment by section 1901(b)(8)(C), (3)(K) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -1230,10 +1278,6 @@ Election.—The election under subsection (a)(2) shall be made at such time and 
 #### Transitional Rule
 
 For provision that, for purposes of amendments by section 231(b) of Pub. L. 97–248, any evidence of indebtedness issued pursuant to a written commitment which was binding on July 1, 1982, and at all times thereafter be treated as issued on July 1, 1982, see section 231(e) of Pub. L. 97–248, set out as a note under section 1232A of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 56, 67, 68, 149, 162, 165, 195, 216, 263A, 312, 465, 469, 483, 691, 805, 832, 860H, 860K, 860L, 871, 881, 911, 1275, 1287, 1288, 2057, 4701, 6109, 7872 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
 

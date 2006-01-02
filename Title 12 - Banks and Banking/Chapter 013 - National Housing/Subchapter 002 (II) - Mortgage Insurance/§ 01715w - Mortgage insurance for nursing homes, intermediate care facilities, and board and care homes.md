@@ -18,7 +18,7 @@ For the purposes of this section—
 
 &emsp;(2) the term “intermediate care facility” means a proprietary facility or facility of a private nonprofit corporation or association licensed or regulated by the State (or, if there is no State law providing for such licensing and regulation by the State, by the municipality or other political subdivision in which the facility is located) for the accommodation of persons who, because of incapacitating infirmities, require minimum but continuous care but are not in need of continuous medical or nursing services;
 
-&emsp;(3) the term a <sup>1</sup> “nursing home” or “intermediate care facility” may include such additional facilities as may be authorized by the Secretary for the nonresident care of elderly individuals and others who are able to live independently but who require care during the day;
+&emsp;(3) the term a <sup>1</sup> “nursing home” or “intermediate care facility” may include such additional facilities as may be authorized by theSecretary for the nonresident care of elderly individuals and others who are able to live independently but who require care during the day;
 
 &emsp;(4) the term “mortgage” means a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof (A) under a lease for not less than ninety-nine years which is renewable, or (B) under a lease having a period of not less than ten years to run beyond the maturity date of the mortgage. The term “first mortgage” means such classes of first liens as are commonly given to secure advances (including but not limited to advances during construction) on, or the unpaid purchase price of, real estate under the laws of the State in which the real estate is located, together with the credit instrument or instruments, if any, secured thereby, and any mortgage may be in the form of one or more trust mortgages or mortgage indentures or deeds of trust, securing notes, bonds, or other credit instruments, and, by the same instrument or by a separate instrument, may create a security interest in initial equipment, whether or not attached to the realty. The term “mortgagor” shall have the meaning set forth in section 1713(a) of this title;
 
@@ -72,7 +72,7 @@ In order to carry out the purposes of this section, the Secretary is authorized 
 
 #### (e) Release of part of mortgaged property or project from lien
 
-The Secretary may consent to the release of a part or parts of the mortgaged property or project from the lien of any mortgage insured underthis section upon such terms and conditions as he may prescribe.
+The Secretary may consent to the release of a part or parts of the mortgaged property or project from the lien of any mortgage insured under this section upon such terms and conditions as he may prescribe.
 
 #### (f) Applicability of other laws
 
@@ -122,7 +122,7 @@ Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the
 
 Section 1521 of the Public Health Service Act, referred to in subsec. (d)(4)(A), is section 1521 of act July 1, 1944, which was classified to section 300m of Title 42, The Public Health and Welfare, prior to repeal, effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
-The Social Security Act, referred to in subsec. (i)(1), is act Aug. 13, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 etseq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (i)(1), is act Aug. 13, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Subsec. (a)(3). Pub. L. 102–550, §511(a)(2), added par. (3).
 
 Subsec. (b)(6), (7). Pub. L. 102–550, §511(b), added pars. (6) and (7).
 
-Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, and intermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated,” after first reference to “intermediate care facility”.
+Subsec. (d). Pub. L. 102–550, §511(c)(1), in introductory provisions, inserted “, assisted living facility,” after “rehabilitated nursing home,”, substituted “any combination of nursing home, assisted living facility, andintermediate care facility” for “combined nursing home and intermediate care facility”, and inserted “, including a new addition to an existing nursing home, assisted living facility, or intermediate care facility and regardless of whether the existing home or facility is being rehabilitated,” after first reference to “intermediate care facility”.
 
 Subsec. (d)(2). Pub. L. 102–550, §511(c)(2), inserted “or 95 percent of the estimated value of the property or project in the case of a mortgagor that is a private nonprofit corporation or association (under the meaning given such term for purposes of section 1715<i>l</i>(d)(3) of this title),” before “including” in introductory provisions.
 
@@ -198,7 +198,7 @@ Subsec. (d)(4). Pub. L. 91–152, §111(6), substituted “section 291d(a)(1) of
 
 Subsecs. (g), (h). Pub. L. 91–152, §111(7), added subsecs. (g) and (h).
 
-1968—Subsec. (b)(2). Pub. L. 90–448, §314(1), redefined term “mortgage” to mean a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof under a lease for not less than ninety-nine years which is renewable, or under a lease having a period of not less than fifty years to run from the date the mortgage was executed, and inserted definition of “first mortgage”.
+1968—Subsec. (b)(2). Pub. L. 90–448, §314(1), redefined term “mortgage” to mean a first mortgage on real estate in fee simple, or on the interest of either the lessor or lessee thereof under a lease for not less than ninety-nine years which is renewable, or under a lease having a period of not less than fifty years to run from thedate the mortgage was executed, and inserted definition of “first mortgage”.
 
 Subsec. (d). Pub. L. 90–448, §314(2), (3), authorized the Secretary to insure a mortgage which includes equipment to be used in the operation of a nursing home, and permitted the value of the equipment to be included in the calculation of the 90 per centum of the estimated value.
 

@@ -32,7 +32,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 (4) Funds appropriated under the authority of this subsection may be used by any Indian tribe or tribal organization to purchase or lease any land or facilities if—
 
-&emsp;(A) the Secretary of the Interior determines that no Federal land or facilities are reasonably available for emergency shelters or halfway <sup>1</sup> houses described in subsection (a) ofthis section to serve the needs of that Indian tribe or tribal organization, and
+&emsp;(A) the Secretary of the Interior determines that no Federal land or facilities are reasonably available for emergency shelters or halfway <sup>1</sup> houses described in subsection (a) of this section to serve the needs of that Indian tribe or tribal organization, and
 
 &emsp;(B) the Indian tribe or tribal organization enters into an agreement with the Secretary of the Interior that requires the Indian tribe or tribal organization to use the land or facilities for emergency shelters or half-way houses described in subsection (a) of this section.
 
@@ -68,7 +68,7 @@ Subsec. (e)(4), (5). Pub. L. 101–272, §1(3), added pars. (4) and (5).
 
 1988—Subsec. (a). Pub. L. 100–690, §2207(a), inserted provisions which permitted half-way houses to be used as either intake facilities or aftercare facilities, and authorized Indian Health Service, Bureau of Indian Affairs, and tribes to use resources to staff and operate such facilities.
 
-Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act.”
+Subsec. (e). Pub. L. 100–690, §2207(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For the planning and design, construction, and renovation of emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 foreach of the fiscal years 1987, 1988, and 1989. For the operation of emergency shelters or half-way houses there is authorized to be appropriated $3,000,000 for each of the fiscal years 1987, 1988, and 1989. The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting pursuant to the Indian Self-Determination Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “half-way”.</i>
 

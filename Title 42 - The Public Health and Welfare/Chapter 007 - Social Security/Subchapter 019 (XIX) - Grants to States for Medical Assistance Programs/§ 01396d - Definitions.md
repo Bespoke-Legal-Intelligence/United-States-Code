@@ -96,7 +96,7 @@ The term “medical assistance” means payment of part or all of the cost of th
 
 &emsp;(B) any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases.
 
-> For purposes of clause (vi) of the preceding sentence, a person shall be considered essential to another individual if such person is the spouse of and is living with such individual, the needs of such person are taken into account in determining the amount of aid or assistance furnished to such individual (under a State plan approved under subchapter I, X, XIV, or XVI of this chapter), and such person is determined, under such a State plan, to be essential to the well-being of such individual. The payment described in the first sentence may include expenditures for medicare cost-sharing and for premiums under part B of subchapter XVIII of this chapter for individuals who are eligible for medical assistance under the plan and (A) are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI of this chapter, or part A of subchapter IV of this chapter, or with respect to whom supplemental security income benefits are being paid under subchapter XVI of this chapter, or (B) with respect to whom there is being paid a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title, and, except in the case of individuals 65 years of age or older and disabled individuals entitled to health insurance benefits under subchapter XVIII of this chapter who are not enrolled under part B of subchapter XVIII of this chapter, other insurance premiums for medical or any other type of remedial care or the cost thereof. No service (including counseling) shall be excluded from the definition of “medical assistance” solely because it is provided as a treatment service for alcoholism or drug dependency.
+> For purposes of clause (vi) of the preceding sentence, a person shall be considered essential to another individual if such person is the spouse of and is living with such individual, the needs of such person are taken into account in determining the amount of aid or assistance furnished to such individual (under a State plan approved under subchapter I, X, XIV, or XVI of this chapter), and such person is determined, under such a State plan, to be essential to the well-being of such individual. The payment described in the first sentence may include expenditures for medicare cost-sharing and for premiums under part B of subchapter XVIII of this chapter for individuals who are eligible for medical assistance under the plan and (A) are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI of this chapter, or part A of subchapter IV of this chapter, or with respect to whom supplemental security income benefits are being paid under subchapter XVI of this chapter, or (B) with respect to whom there is being paid a State supplementary payment and are eligible formedical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title, and, except in the case of individuals 65 years of age or older and disabled individuals entitled to health insurance benefits under subchapter XVIII of this chapter who are not enrolled under part B of subchapter XVIII of this chapter, other insurance premiums for medical or any other type of remedial care or the cost thereof. No service (including counseling) shall be excluded from the definition of “medical assistance” solely because it is provided as a treatment service for alcoholism or drug dependency.
 
 #### (b) Federal medical assistance percentage; State percentage; Indian health care percentage
 
@@ -142,7 +142,7 @@ If the State plan includes provision of chiropractors’ services, such services
 
 (1) For purposes of paragraph (16) of subsection (a) of this section, the term “inpatient psychiatric hospital services for individuals under age 21” includes only—
 
-&emsp;(A) inpatient services which are provided in an institution (or distinct part thereof) which is a psychiatric hospital as defined in section 1395x(f) of this title or in another inpatientsetting that the Secretary has specified in regulations;
+&emsp;(A) inpatient services which are provided in an institution (or distinct part thereof) which is a psychiatric hospital as defined in section 1395x(f) of this title or in another inpatient setting that the Secretary has specified in regulations;
 
 &emsp;(B) inpatient services which, in the case of any individual (i) involve active treatment which meets such standards as may be prescribed in regulations by the Secretary, and (ii) a team, consisting of physicians and other personnel qualified to make determinations with respect to mental health conditions and the treatment thereof, has determined are necessary on an inpatient basis and can reasonably be expected to improve the condition, by reason of which such services are necessary, to the extent that eventually such services will no longer be necessary; and
 
@@ -184,7 +184,7 @@ Increased supplemental security income benefits payable pursuant to section 211 
 
 #### (m) Qualified family member
 
-(1) Subject to paragraph (2), the term “qualified family member” means an individual (other than a qualified pregnant woman or child, as defined in subsection (n) of this section) who is a member of a family that would be receiving aid under the State plan under part A of subchapter IV of this chapter pursuant to section 607 <sup>5</sup> ofthis title if the State had not exercised the option under section 607(b)(2)(B)(i) <sup>5</sup> of this title.
+(1) Subject to paragraph (2), the term “qualified family member” means an individual (other than a qualified pregnant woman or child, as defined in subsection (n) of this section) who is a member of a family that would be receiving aid under the State plan under part A of subchapter IV of this chapter pursuant to section 607 <sup>5</sup> of this title if the State had not exercised the option under section 607(b)(2)(B)(i) <sup>5</sup> of this title.
 
 (2) No individual shall be a qualified family member for any period after September 30, 1998.
 
@@ -300,7 +300,7 @@ The term “qualified severely impaired individual” means an individual under 
 
 &emsp;(2) with respect to whom the Commissioner of Social Security determines that—
 
-&emsp;&emsp;(A) the individual continues to be blind or continues to have the disabling physical or mental impairment on the basis of which he was found to be under a disability and, except for his earnings, continues to meet all non-disability-related requirements for eligibility for benefits under subchapter XVI of this chapter,
+&emsp;&emsp;(A) the individual continues to be blind or continues to have the disabling physical ormental impairment on the basis of which he was found to be under a disability and, except for his earnings, continues to meet all non-disability-related requirements for eligibility for benefits under subchapter XVI of this chapter,
 
 &emsp;&emsp;(B) the income of such individual would not, except for his earnings, be equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382(b) of this title (if he were otherwise eligible for such payments),
 
@@ -376,7 +376,7 @@ The term “qualified disabled and working individual” means an individual—
 
 &emsp;(2) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program) does not exceed 200 percent of the official poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved;
 
-&emsp;(3) whose resources (as determined under section 1382b of this title for purposes of thesupplemental security income program) do not exceed twice the maximum amount of resources that an individual or a couple (in the case of an individual with a spouse) may have and obtain benefits for supplemental security income benefits under subchapter XVI of this chapter; and
+&emsp;(3) whose resources (as determined under section 1382b of this title for purposes of the supplemental security income program) do not exceed twice the maximum amount of resources that an individual or a couple (in the case of an individual with a spouse) may have and obtain benefits for supplemental security income benefits under subchapter XVI of this chapter; and
 
 &emsp;(4) who is not otherwise eligible for medical assistance under this subchapter.
 
@@ -482,7 +482,7 @@ Section 606 of this title, referred to in subsec. (a)(ii), was repealed and a ne
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (k), is section 211 of Pub. L. 93–66, July 9, 1973, 87 Stat. 152, as amended, which is set out as a note under section 1382 of this title.
 
-The Indian Self-Determination Act, referred to in subsec. (<i>l</i>)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975,88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (<i>l</i>)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (<i>l</i>)(2)(B), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
@@ -560,7 +560,7 @@ Subsec. (u)(2)(A). Pub. L. 105–100, §162(2)(B), substituted “subparagraph (
 
 Subsec. (u)(2)(B), (C). Pub. L. 105–100, §162(2)(C), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) The amount described in this subparagraph, for a State for a fiscal year, is the amount of the State's allotment under section 1397dd of this title (not taking into account reductions under section 1397dd(d)(2) of this title) for the fiscal year reduced by the amount of any payments made under section 1397ee of this title to the State from such allotment for such fiscal year.
+“(B) The amount described in this subparagraph, for a State for a fiscal year, is the amount of the State'sallotment under section 1397dd of this title (not taking into account reductions under section 1397dd(d)(2) of this title) for the fiscal year reduced by the amount of any payments made under section 1397ee of this title to the State from such allotment for such fiscal year.
 
 “(C) For purposes of this paragraph, the term ‘optional targeted low-income child’ means a targeted low-income child as defined in section 1397jj(b)(1) of this title who would not qualify for medical assistance under the State plan under this subchapter based on such plan as in effect on April 15, 1997 (but taking into account the expansion of age of eligibility effected through the operation of section 1396a(<i>l</i>)(2)(D) of this title).”
 
@@ -644,7 +644,7 @@ Subsec. (<i>o</i>)(1)(A). Pub. L. 101–508, §4717, inserted “and for which p
 
 Subsec. (<i>o</i>)(3). Pub. L. 101–508, §4705(a)(1), struck out “a State which elects not to provide medical assistance for hospice care, but provides medical assistance for skilled nursing or intermediate care facility services with respect to” after “In the case of” in introductory provisions.
 
-Pub. L. 101–508, §4705(a)(3), (4), in concluding provisions, substituted “the additional amount described in section 1396a(a)(13)(D) of this title” for “the amounts allocated under the plan for room and board in the facility, in accordance with the rates established under section 1396a(a)(13) of this title,” and struck out at end“For purposes of this paragraph and section 1396a(a)(13)(D) of this title, the term ‘room and board’ includes performance of personal care services, including assistance in activities of daily living, in socializing activities, administration of medication, maintaining the cleanliness of a resident's room, and supervising and assisting in the use of durable medical equipment and prescribed therapies.”
+Pub. L. 101–508, §4705(a)(3), (4), in concluding provisions, substituted “the additional amount described in section 1396a(a)(13)(D) of this title” for “the amounts allocated under the plan for room and board in the facility, in accordance with the rates established under section 1396a(a)(13) of this title,” and struck out at end “For purposes of this paragraph and section 1396a(a)(13)(D) of this title, the term ‘room and board’ includes performance of personal care services, including assistance in activities of daily living, in socializing activities, administration of medication, maintaining the cleanliness of a resident's room, and supervising and assisting in the use of durable medical equipment and prescribed therapies.”
 
 Subsec. (<i>o</i>)(3)(A), (C). Pub. L. 101–508, §4705(a)(2), substituted “nursing facility or intermediate care facility for the mentally retarded” for “skilled nursing or intermediate care facility”.
 
@@ -816,7 +816,7 @@ Subsec. (b). Pub. L. 98–369, §2373(b)(18), substituted “section 1301(a)(8)(
 
 Subsec. (d)(1). Pub. L. 98–369, §2373(b)(19), substituted “the institution meets” for “which meet”.
 
-Subsec. (h)(1)(A). Pub. L. 98–369, §2340(b), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “inpatient services which are provided in an institution which is accredited as a psychiatric hospital by the Joint Commission on Accreditation of Hospitals;”.
+Subsec. (h)(1)(A). Pub. L. 98–369, §2340(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “inpatient services which are provided in an institution which is accredited as a psychiatric hospital by the Joint Commission on Accreditation of Hospitals;”.
 
 Subsec. (m). Pub. L. 98–369, §2373(b)(20), substituted “the nurse” for “he” in two places.
 
@@ -976,7 +976,7 @@ Amendment by section 13603(e) of Pub. L. 103–66 applicable to medical assistan
 
 Section 13605(b) of Pub. L. 103–66 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after October 1, 1993.”
 
-Section 13606(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to calendar quarters beginning on or after July 1, 1993.”
+Section 13606(b) of Pub. L. 103–66 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to calendar quarters beginning on or after July 1, 1993.”
 
 Amendment by section 13631(f)(2) of Pub. L. 103–66 applicable, except as otherwise provided, to calendar quarters beginning on or after Oct. 1, 1993, without regard to whether or not final regulations to carry out the amendments by section 13631(f) of Pub. L. 103–66 have been promulgated by such date, see section 13631(f)(3) of Pub. L. 103–66, set out as a note under section 1396a of this title.
 
@@ -1176,7 +1176,7 @@ Report.—Not later than 12 months after the date of the enactment of this Act \
 
 #### References to Provisions of Part A of Subchapter IV Considered References to Such Provisions as in Effect July 16, 1996
 
-For provisions that certain references to provisions of part A (§601 et seq.) of subchapter IV of this chapter be considered references to such provisions of part A asin effect July 16, 1996, see section 1396u–1(a) of this title.
+For provisions that certain references to provisions of part A (§601 et seq.) of subchapter IV of this chapter be considered references to such provisions of part A as in effect July 16, 1996, see section 1396u–1(a) of this title.
 
 #### Limitation on Disallowances or Deferral of Federal Financial Participation for Certain Inpatient Psychiatric Hospital Services for Individuals Under Age 21
 

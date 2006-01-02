@@ -136,7 +136,7 @@ Subsec. (g)(2). Pub. L. 104–105, §107(3), substituted “2279aa(9) of this ti
 
 1988—Subsec. (a)(1). Pub. L. 100–399, §601(f), substituted “represents interests solely in, or obligations fully backed by, any pool consisting solely of qualified loans which meet the standards established under section 2279aa–8 of this title and which are” for “represents interests in, or obligations backed by, any pool of qualified loans”.
 
-Subsec. (e). Pub. L. 100–399, §601(g), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “registration requirements (if any) with respect to such securities; and”.
+Subsec. (e). Pub. L. 100–399, §601(g), redesignated par. (3) as (2) and struck out former par. (2) which read asfollows: “registration requirements (if any) with respect to such securities; and”.
 
 Subsec. (f)(1). Pub. L. 100–399, §601(h), substituted “date of the enactment” for “effective date”, both of which for purposes of codification were translated as “January 6, 1988,”.
 

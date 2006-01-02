@@ -56,7 +56,7 @@ For purposes of this part (other than section 816), amounts in the nature of int
 
 &emsp;(2) is guaranteed beyond the end of the taxable year on which the reserves are being computed,
 
-> shall be taken into account in computing the reserves with respect to such contract as if suchinterest were guaranteed only up to the end of the taxable year.
+> shall be taken into account in computing the reserves with respect to such contract as if such interest were guaranteed only up to the end of the taxable year.
 
 #### (e) Short taxable years
 
@@ -87,8 +87,4 @@ Amendment by section 42(a)(8) of Pub. L. 98–369 applicable to taxable years en
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 805, 808, 809, 817A, 848, 1016, 1272 of this title.
 

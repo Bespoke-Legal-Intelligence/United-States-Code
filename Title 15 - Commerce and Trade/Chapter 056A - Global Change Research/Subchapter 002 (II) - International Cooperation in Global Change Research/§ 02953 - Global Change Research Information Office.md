@@ -6,7 +6,7 @@ Not more than 180 days after November 16, 1990, the President shall, in consulta
 
 &emsp;(2) promoting the use of solar and renewable energy sources which reduce the amount of greenhouse gases released into the atmosphere;
 
-&emsp;(3) developing replacements for chlorofluorocarbons, halons, and other ozone-depleting substances which exhibit a significantly reduced potential for depleting stratospheric ozone;
+&emsp;(3) developing replacements for chlorofluorocarbons, halons, and other ozone-depletingsubstances which exhibit a significantly reduced potential for depleting stratospheric ozone;
 
 &emsp;(4) promoting the conservation of forest resources which help reduce the amount of carbon dioxide in the atmosphere;
 

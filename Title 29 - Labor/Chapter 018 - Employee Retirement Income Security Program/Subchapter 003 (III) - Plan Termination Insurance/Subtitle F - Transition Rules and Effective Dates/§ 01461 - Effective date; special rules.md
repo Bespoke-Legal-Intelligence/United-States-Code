@@ -34,11 +34,11 @@
 
 &emsp;(A) may establish requirements for the continuation of payments which commenced before January 2, 1974, with respect to retired participants under the plan,
 
-&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a plan who, on January 1, 1974, was receiving payment of retirement benefits, in excess of the amounts and rates payable with respect to such participant on that date,
+&emsp;(B) may not, notwithstanding any other provision of this subchapter, make payments with respect to any participant under such a plan who, on January 1, 1974, was receiving payment of retirement benefits, in excess of theamounts and rates payable with respect to such participant on that date,
 
 &emsp;(C) may not make any payments with respect to benefits guaranteed under this subchapter in connection with such a plan which are derived, directly or indirectly, from amounts borrowed under section 1305(c) of this title, and
 
-&emsp;(D) shall review from time to time payments made under the authority granted to it by paragraphs (2) and (3), and reduce or terminatesuch payments to the extent necessary to avoid jeopardizing the ability of the corporation to make payments of benefits guaranteed under this subchapter in connection with multiemployer plans which terminate after July 31, 1980, without increasing premium rates for such plans.
+&emsp;(D) shall review from time to time payments made under the authority granted to it by paragraphs (2) and (3), and reduce or terminate such payments to the extent necessary to avoid jeopardizing the ability of the corporation to make payments of benefits guaranteed under this subchapter in connection with multiemployer plans which terminate after July 31, 1980, without increasing premium rates for such plans.
 
 (d) Notwithstanding any other provision of this subchapter, guaranteed benefits payable by the corporation pursuant to its discretionary authority under this section shall continue to be paid at the level guaranteed under section 1322 of this title, without regard to any limitation on payment under subparagraph (C) or (D) of subsection (c)(4) of this section.
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Actions Taken Before Regulations Are Prescribed
 
@@ -188,5 +188,5 @@ Section 405 of Pub. L. 96–364 provided that:
 
 “(a) Except as otherwise provided in the amendments made by this Act \[see Short Title of 1980 Amendment note set out under section 1001 of this title\] and in subsection (b), if the way in which any such amendment will apply to a particular circumstance is to be set forth in regulations, any reasonable action during the period before such regulations take effect shall be treated as complying with such regulations for such period.
 
-“(b) Subsection (a) shall not apply to any action which violates any instruction issued, or temporaryrule prescribed, by the agency having jurisdiction but only if such instruction or rule was published, or furnished to the party taking the action, before such action was taken.”
+“(b) Subsection (a) shall not apply to any action which violates any instruction issued, or temporary rule prescribed, by the agency having jurisdiction but only if such instruction or rule was published, or furnished to the party taking the action, before such action was taken.”
 

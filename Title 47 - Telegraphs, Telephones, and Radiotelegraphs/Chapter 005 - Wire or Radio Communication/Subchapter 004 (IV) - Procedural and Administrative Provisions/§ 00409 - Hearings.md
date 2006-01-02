@@ -6,7 +6,7 @@ In every case of adjudication (as defined in section 551 of title 5) which has b
 
 #### (b) Exceptions to initial decisions; memoranda; determination of Commission or authority within Commission; prohibition against consideration of own decision
 
-In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, any party to the proceeding shall be permitted to file exceptions and memoranda in support thereof to the initial, tentative, or recommended decision, which shall be passed upon by the Commission or by the authority within the Commission, if any, to whom the function of passing upon the exceptions is delegated under section 155(d)(1) <sup>1</sup> of this title:<i>Provided, however</i>, That such authority shall not be the same authority which made the decision to which the exception is taken.
+In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, any party to the proceeding shall be permitted to file exceptions and memoranda in support thereof to the initial, tentative, or recommended decision, which shall be passed upon by the Commission or by the authority within the Commission, if any, to whom the function of passing upon the exceptions is delegated under section 155(d)(1) <sup>1</sup> of this title: <i>Provided, however</i>, That such authority shall not be the same authority which made the decision to which the exception is taken.
 
 #### (c) Notice and opportunity for participation by parties; applicability of administrative procedure provisions
 
@@ -28,7 +28,7 @@ Such attendance of witnesses, and the production of such documentary evidence, m
 
 #### (g) Contempts
 
-Any of the district courts of the United States within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any common carrier or licensee or other person, issue an order requiring such common carrier, licensee, or other person to appear before the Commission (and produce books and papers if so ordered) and give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Any of the district courts of the United States within the jurisdiction of which such inquiry is carried on may, in case of contumacy or refusal to obey a subpena issued to any common carrier or licensee or other person, issue an order requiring such common carrier, licensee, or other person to appear before the Commission (and produce books and papers if so ordered) and give evidence touching the matter in question; andany failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (h) Depositions
 

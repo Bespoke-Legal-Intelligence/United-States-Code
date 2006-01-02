@@ -2,7 +2,7 @@
 
 The Office of Personnel Management may prescribe such regulations as it considers necessary for the administration of this subchapter.
 
-(Added Pub. L. 90–83, §1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 96–54, §2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 101–509, title V, §529 \[title II, §202(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456.)
+(Added Pub. L. 90–83, §1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 96–54, §2(a)(2), Aug.14, 1979, 93 Stat. 381; Pub. L. 101–509, title V, §529 \[title II, §202(b)\], Nov. 5, 1990, 104 Stat. 1427, 1456.)
 
 Historical and Revision Notes
 

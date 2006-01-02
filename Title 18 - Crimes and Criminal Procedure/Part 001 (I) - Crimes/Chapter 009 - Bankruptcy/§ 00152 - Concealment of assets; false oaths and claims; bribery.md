@@ -12,7 +12,7 @@ A person who—
 
 &emsp;(5) knowingly and fraudulently receives any material amount of property from a debtor after the filing of a case under title 11, with intent to defeat the provisions of title 11;
 
-&emsp;(6) knowingly and fraudulently gives, offers, receives, or attempts to obtain any money orproperty, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
+&emsp;(6) knowingly and fraudulently gives, offers, receives, or attempts to obtain any money or property, remuneration, compensation, reward, advantage, or promise thereof for acting or forbearing to act in any case under title 11;
 
 &emsp;(7) in a personal capacity or as an agent or officer of any person or corporation, in contemplation of a case under title 11 by or against the person or any other person or corporation, or with intent to defeat the provisions of title 11, knowingly and fraudulently transfers or conceals any of his property or the property of such other person or corporation;
 
@@ -22,7 +22,7 @@ A person who—
 
 > shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 86–519, §2, June 12, 1960, 74 Stat. 217; Pub. L. 86–701, Sept. 2, 1960, 74 Stat. 753; Pub. L. 94–550, §4, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 95–598, title III, §314(a), (c), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 100–690, title VII, §7017, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, §312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4138; Pub. L. 104–294, title VI, §601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 86–519, §2, June 12, 1960, 74 Stat. 217; Pub. L. 86–701, Sept. 2, 1960, 74 Stat. 753; Pub. L. 94–550, §4, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 95–598, title III, §314(a), (c), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub.L. 100–690, title VII, §7017, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, §312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4138; Pub. L. 104–294, title VI, §601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 
 #### Historical and Revision Notes
 

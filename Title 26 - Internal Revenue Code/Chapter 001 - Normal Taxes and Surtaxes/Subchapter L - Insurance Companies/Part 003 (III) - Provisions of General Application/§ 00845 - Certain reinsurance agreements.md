@@ -10,13 +10,21 @@ In the case of 2 or more related persons (within the meaning of section 482) who
 
 &emsp;(3) make any other adjustment,
 
-> if he determines that such allocation, recharacterization, or adjustment is necessary to reflect the proper source and character of the taxable income (or any item described in paragraph (1) relating to such taxable income) of each such person.
+> if he determines that such allocation, recharacterization, or adjustment is necessary to reflect the proper amount, source, or character of the taxable income (or any item described in paragraph (1) relating to such taxable income) of each such person.
 
 #### (b) Reinsurance contract having significant tax avoidance effect
 
 If the Secretary determines that any reinsurance contract has a significant tax avoidance effect on any party to such contract, the Secretary may make proper adjustments with respect to such party to eliminate such tax avoidance effect (including treating such contract with respect to such party as terminated on December 31 of each year and reinstated on January 1 of the next year).
 
-(Added Pub. L. 98–369, div. A, title II, §212(a), July 18, 1984, 98 Stat. 757.)
+(Added Pub. L. 98–369, div. A, title II, §212(a), July 18, 1984, 98 Stat. 757; amended Pub. L. 108–357, title VIII, §803(a), Oct. 22, 2004, 118 Stat. 1569.)
+
+#### Amendments
+
+2004—Subsec. (a). Pub. L. 108–357 substituted “amount, source, or character” for “source and character” in concluding provisions.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §803(b), Oct. 22, 2004, 118 Stat. 1569, provided that: “The amendments made by this section \[amending this section\] shall apply to any risk reinsured after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date
 

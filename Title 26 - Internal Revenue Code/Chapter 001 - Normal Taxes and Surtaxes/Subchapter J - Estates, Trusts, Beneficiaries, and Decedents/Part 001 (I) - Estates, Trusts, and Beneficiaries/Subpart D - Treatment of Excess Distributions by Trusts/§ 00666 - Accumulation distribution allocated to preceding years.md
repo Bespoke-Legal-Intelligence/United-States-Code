@@ -30,7 +30,7 @@ No refund or credit shall be allowed to a trust or a beneficiary of such trust f
 
 1976—Subsec. (e). Pub. L. 94–455 added subsec. (e).
 
-1969—Subsec. (a). Pub. L. 91–172 substituted in first sentence “In the case of a trust which is subject to subpart (C)” for “In the case of a trust (other than a foreign trust created by a United States person) which for a taxable year beginning after December 31, 1953, is subject to subpart (C)”, “for a taxable year” for “for such taxable year”, and “undistributed net income for all earlier preceding taxable years” for “undistributed net incomes for any taxable years intervening between the taxable year with respect to which the accumulationdistribution is determined and such preceding taxable year” and in second sentence “for such” for “of such”, inserted in first sentence “, commencing with the earliest of such years,” after “preceding taxable years”, struck out “5” before “preceding taxable years” in first and third sentences and last sentence which read as follows: “In the case of a foreign trust created by a United States person, this subsection shall apply to the preceding taxable years of the trust without regard to any provision of the preceding sentences which would (but for this sentence) limit its application to the 5 preceding taxable years.”
+1969—Subsec. (a). Pub. L. 91–172 substituted in first sentence “In the case of a trust which is subject to subpart (C)” for “In the case of a trust (other than a foreign trust created by a United States person) which for a taxable year beginning after December 31, 1953, is subject to subpart (C)”, “for a taxable year” for “for such taxable year”, and “undistributed net income for all earlier preceding taxable years” for “undistributed net incomes for any taxable years intervening between the taxable year with respect to which the accumulation distribution is determined and such preceding taxable year” and in second sentence “for such” for “of such”, inserted in first sentence “, commencing with the earliest of such years,” after “preceding taxable years”, struck out “5” before “preceding taxable years” in first and third sentences and last sentence which read as follows: “In the case of a foreign trust created by a United States person, this subsection shall apply to the preceding taxable years of the trust without regard to any provision of the preceding sentences which would (but for this sentence) limit its application to the 5 preceding taxable years.”
 
 Subsec. (b). Pub. L. 91–172 inserted “attributable to the undistributed net income” after “taxable year” in second sentence and “attributable to such undistributed net income” before “shall be computed” in third sentence.
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–834 applicable with respect to distributions made after Dec. 31, 1962, see section 7(j) of Pub. L. 87–834, set out as a note under section 643 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 164, 665, 667, 668, 904 of this title.
 

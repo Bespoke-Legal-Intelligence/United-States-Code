@@ -8,7 +8,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### (1) In general
 
-&emsp;The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $20,000,000 to carry out such projects. Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
+&emsp;The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $30,000,000 to carry out such projects. Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
 
 &emsp;&emsp;(A) the construction of a reef for fish habitat in Lake Erie in the vicinity of Buffalo, New York;
 
@@ -34,9 +34,11 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 > In carrying out paragraph (4),<sup>1</sup> the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
 
-(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496.)
+(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, §126, Nov. 19, 2005, 119 Stat. 2259.)
 
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–103 substituted “$30,000,000” for “$20,000,000” in introductory provisions.
 
 2001—Subsec. (b). Pub. L. 107–66 inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read “The non-Federal share of the cost of any project under this section shall be 25 percent.”
 

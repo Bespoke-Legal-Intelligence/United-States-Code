@@ -22,13 +22,13 @@ For purposes of this section—
 
 &emsp;&emsp;(A) is a benefit described in paragraph (1), or
 
-&emsp;&emsp;(B) is excludable from gross income under this title without regard to any provision of law which is not contained in this title and which is not contained in a revenue Act.
+&emsp;&emsp;(B) is excludable from gross income under this title without regard to any provision oflaw which is not contained in this title and which is not contained in a revenue Act.
 
 #### (3) Limitations on modifications
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C) and paragraph (4), no modification or adjustment of any qualified military benefit after September 9, 1986, shall be taken into account.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C) and paragraphs (4) and (5), no modification or adjustment of any qualified military benefit after September 9, 1986, shall be taken into account.
 
 #### (B) Exception for certain adjustments to cash benefits
 
@@ -46,17 +46,27 @@ For purposes of this section—
 
 &emsp;For purposes of paragraph (1), such term includes any dependent care assistance program (as in effect on the date of the enactment of this paragraph) for any individual described in paragraph (1)(A).
 
-(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, title I, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490; Pub. L. 108–121, title I, §§102(b)(1), (2), 106(a), (b)(1), Nov. 11, 2003, 117 Stat. 1337–1339.)
+#### (5) Travel benefits under operation hero miles
+
+&emsp;The term “qualified military benefit” includes a travel benefit provided under section 2613 of title 10, United States Code (as in effect on the date of the enactment of this paragraph).
+
+(Added Pub. L. 99–514, title XI, §1168(a), Oct. 22, 1986, 100 Stat. 2512; amended Pub. L. 100–647, title I, §1011B(f)(1), (2)(A), (3), Nov. 10, 1988, 102 Stat. 3489, 3490; Pub. L. 108–121, title I, §§102(b)(1), (2), 106(a), (b)(1), Nov. 11, 2003, 117 Stat. 1337–1339; Pub. L. 108–375, div. A, title V, §585(b)(1), (2)(A), Oct. 28, 2004, 118 Stat. 1931, 1932.)
 
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 108–121, which was approved Nov. 11, 2003.
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 108–375, which was approved Oct. 28, 2004.
 
 #### Prior Provisions
 
 A prior section 134 was renumbered section 140 of this title.
 
 #### Amendments
+
+2004—Subsec. (b)(3)(A). Pub. L. 108–375, §585(b)(2)(A), substituted “paragraphs (4) and (5)” for “paragraph (4)”.
+
+Subsec. (b)(5). Pub. L. 108–375, §585(b)(1), added par. (5).
 
 2003—Subsec. (b)(3)(A). Pub. L. 108–121, §106(b)(1), inserted “and paragraph (4)” after “subparagraphs (B) and (C)”.
 
@@ -71,6 +81,10 @@ Subsec. (b)(4). Pub. L. 108–121, §106(a), added par. (4).
 Subsec. (b)(1)(B). Pub. L. 100–647, §1011B(f)(1), substituted “, regulation, or administrative practice” for “or regulation thereunder”.
 
 Subsec. (b)(3)(A). Pub. L. 100–647, §1011B(f)(3), struck out “under any provision of law or regulation described in paragraph (1)” after “September 9, 1986,”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title V, §585(b)(3), Oct. 28, 2004, 118 Stat. 1932, provided that: “The amendments made by this subsection \[amending this section and sections 3121, 3306, and 3401 of this title\] shall apply to travel benefits provided after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
 #### Effective Date of 2003 Amendment
 
@@ -91,8 +105,4 @@ Section 1168(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 
 Pub. L. 108–121, title I, §106(d), Nov. 11, 2003, 117 Stat. 1339, provided that: “No inference may be drawn from the amendments made by this section \[amending this section and sections 3121, 3306, and 3401 of this title\] with respect to the tax treatment of any amounts under the program described in section 134(b)(4) of the Internal Revenue Code of 1986 (as added by this section) for any taxable year beginning before January 1, 2003.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3121, 3306, 3401 of this title.
 

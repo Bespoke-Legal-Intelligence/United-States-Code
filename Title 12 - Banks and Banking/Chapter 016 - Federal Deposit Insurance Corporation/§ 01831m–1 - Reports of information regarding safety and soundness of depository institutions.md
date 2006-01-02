@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) provide the appropriate Federal banking agency a description of the information that is as specific as possible without jeopardizing the investigation, litigation, or prosecution, threatening serious bodily injury or death to Government employees, informants, or witnesses or their respective families, or disclosing sensitive investigation techniques and methods; and
 
-&emsp;&emsp;&emsp;(ii) permit a full review of the information by the Federal banking agency at a location and under procedures that the Attorney General determines will ensure the effective protection of the information while permitting the Federal banking agency to ensure the safety and soundness of any depository institution.
+&emsp;&emsp;&emsp;(ii) permit a full review of the information by the Federal banking agency at a location and under procedures that the Attorney General determines will ensure the effective protection of the informationwhile permitting the Federal banking agency to ensure the safety and soundness of any depository institution.
 
 #### (C) Grand jury investigations; criminal procedure
 
@@ -54,7 +54,7 @@ This section does not impose an affirmative duty on the Attorney General, the Se
 
 #### (d) Definitions
 
-For purposes of this section, the terms “appropriate Federal banking agency” and “depositoryinstitution” have the same meanings as in section 1818 of this title.
+For purposes of this section, the terms “appropriate Federal banking agency” and “depository institution” have the same meanings as in section 1818 of this title.
 
 (Pub. L. 102–550, title XV, §1542, Oct. 28, 1992, 106 Stat. 4067; Pub. L. 105–362, title X, §1001(f), Nov. 10, 1998, 112 Stat. 3292.)
 

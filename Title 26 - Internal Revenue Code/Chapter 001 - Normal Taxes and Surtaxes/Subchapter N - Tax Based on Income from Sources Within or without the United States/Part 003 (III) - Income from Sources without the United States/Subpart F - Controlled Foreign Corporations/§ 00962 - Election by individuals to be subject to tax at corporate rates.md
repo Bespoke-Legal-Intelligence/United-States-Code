@@ -36,7 +36,7 @@ Pub. L. 94–12 substituted “$50,000” for “$25,000”.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 Amendment by Pub. L. 94–164 applicable to taxable years beginning after Dec. 31, 1975, see section 4(e) of Pub. L. 94–164, set out as a note under section 11 of this title.
 
 Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, but to cease to apply for taxable years ending after Dec. 31, 1975, see section 305(b)(1) of Pub. L. 94–12, set out as a note under section 11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 961 of this title.
 

@@ -58,7 +58,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) is used for the placement, after adjudication and disposition, of any juvenile who has been adjudicated as having committed an offense or any other individual convicted of a criminal offense;
 
-&emsp;(14) the term “serious crime” means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breakingand entering, extortion accompanied by threats of violence, and arson punishable as a felony;
+&emsp;(14) the term “serious crime” means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
 
 &emsp;(15) the term “treatment” includes but is not limited to medical, educational, special education, social, psychological, and vocational services, corrective and preventive guidance and training, and other rehabilitative services designed to protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use;
 
@@ -158,7 +158,7 @@ Par. (22). Pub. L. 107–273, §12204(8)(A), redesignated cls. (i) to (iii) as s
 
 Pars. (24) to (29). Pub. L. 107–273, §12204(8)(B)–(10), added pars. (24) to (29).
 
-1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of generallocal government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
 
 Par. (9). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(B)\], substituted “units of local government” for “units of general local government”.
 

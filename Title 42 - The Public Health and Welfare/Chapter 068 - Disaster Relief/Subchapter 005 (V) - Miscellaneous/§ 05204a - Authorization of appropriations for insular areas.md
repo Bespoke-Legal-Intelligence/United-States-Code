@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated to the Secretary such sums as may
 
 &emsp;(2) enhance the survivability of essential public facilities in the event of disasters in the insular areas,
 
-> except that with respect to the disaster declared by the President in the case of Hurricane Hugo, September 1989, amounts for any fiscal year shall not exceed 25 percent of the estimated aggregate amount of grants to be made under sections 5170b and 5172 of this title for such disaster. Such sums shall remain available until expended.
+> except that with respect to the disaster declared by the President in the case of Hurricane Hugo,September 1989, amounts for any fiscal year shall not exceed 25 percent of the estimated aggregate amount of grants to be made under sections 5170b and 5172 of this title for such disaster. Such sums shall remain available until expended.
 
 (Pub. L. 102–247, title II, §202, Feb. 24, 1992, 106 Stat. 37.)
 

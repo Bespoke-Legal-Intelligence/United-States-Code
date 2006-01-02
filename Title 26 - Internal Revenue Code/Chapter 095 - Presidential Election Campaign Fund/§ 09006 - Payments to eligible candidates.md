@@ -6,7 +6,7 @@ There is hereby established on the books of the Treasury of the United States a 
 
 #### (b) Payments from the fund
 
-Upon receipt of a certification from the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary of the Treasury shall pay to such candidates out of the fund the amount certified by the Commission. Amounts paid to any such candidates shall be under the control of such candidates.
+Upon receipt of a certification from the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary of the Treasury shall pay to such candidates out of the fund the amount certified bythe Commission. Amounts paid to any such candidates shall be under the control of such candidates.
 
 #### (c) Insufficient amounts in fund
 
@@ -30,7 +30,7 @@ Subsec. (d). Pub. L. 94–283, §302(a), redesignated subsec. (d) as (c).
 
 Subsecs. (c), (d). Pub. L. 93–443, §404(c)(8), substituted “Commission” for “Comptroller General” wherever appearing.
 
-1973—Subsec. (a). Pub. L. 93–53 struck out second sentence requiring the Secretary to maintain in the fund (1) a separate account for the candidates of each major party, each minor party, and each new party for whicha specific designation is made under section 6096 for payment into an account in the fund and (2) a general account for which no specific designation is made, and in the last sentences, substituted “transfer to the fund”, “Presidential”, and “to the fund by individuals under section 6096”, for “transfer to each account in the fund”, “presidential”, and “to such account by individuals under section 6096 for payment into such account of the fund”, respectively.
+1973—Subsec. (a). Pub. L. 93–53 struck out second sentence requiring the Secretary to maintain in the fund (1) a separate account for the candidates of each major party, each minor party, and each new party for which a specific designation is made under section 6096 for payment into an account in the fund and (2) a general account for which no specific designation is made, and in the last sentences, substituted “transfer to the fund”, “Presidential”, and “to the fund by individuals under section 6096”, for “transfer to each account in the fund”, “presidential”, and “to such account by individuals under section 6096 for payment into such account of the fund”, respectively.
 
 Subsec. (b). Pub. L. 93–53 substituted “Presidential” for “presidential”.
 
@@ -51,8 +51,4 @@ Provision effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set ou
 #### Designation to the Presidential Election Campaign Fund
 
 Designation made under section 6096 of this title (as in effect for taxable years beginning before Jan. 1, 1973) for the account of the candidates of any specified political party treated solely as a designation to the Presidential Election Campaign Fund, see section 6(d) of Pub. L. 93–53, set out as a note under section 6096 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6096, 9002, 9003, 9004, 9005, 9007, 9008, 9012, 9037 of this title.
 

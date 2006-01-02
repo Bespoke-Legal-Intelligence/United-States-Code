@@ -16,7 +16,7 @@ In this section, the term “Indian tribe” has the meaning given the term in s
 
 #### (2) Reburial
 
-&emsp;In consultation with and with the consent of the lineal descendant or the affected Indian tribe, the Secretary may recover and rebury, at Federal expense, the remains at the areas identified and set aside under subsection (b)(1) of this section.
+&emsp;In consultation with and with the consent of the lineal descendant or the affected Indiantribe, the Secretary may recover and rebury, at Federal expense, the remains at the areas identified and set aside under subsection (b)(1) of this section.
 
 #### (c) Conveyance authority
 

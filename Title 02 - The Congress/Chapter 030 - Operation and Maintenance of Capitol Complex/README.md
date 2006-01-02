@@ -80,7 +80,7 @@
 | (c) | Duties of Chief Administrative Officer of House of Representatives. |
 | (d) | Salaries and expenses; funding limits. |
 | (e) | Definitions. |
-| [2063](Subchapter%20004%20%28IV%29%20-%20Child%20Care/%C2%A7%2002063%20-%20Senate%20Employee%20Child%20Care%20Center.md) | Senate Employee Child Care Center. |
+| [2063\.](Subchapter%20004%20%28IV%29%20-%20Child%20Care/%C2%A7%2002063%20-%20Senate%20Employee%20Child%20Care%20Center.md) | Senate Employee Child Care Center. |
 | (a) | Applicability of provisions. |
 | (b) | Employee election of health care insurance coverage. |
 | (c) | Deductions and withholding from employee pay. |
@@ -180,6 +180,9 @@
 |  |  |
 | :--- | ---: |
 | [2131\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002131%20-%20National%20Statuary%20Hall.md) | National Statuary Hall. |
+| [2131a.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002131a%20-%20Eligibility%20for%20placement%20of%20statues%20in%20National%20Statuary%20Hall.md) | Eligibility for placement of statues in National Statuary Hall. |
+| (a) | Eligibility. |
+| (b) | Exceptions. |
 | [2132\.](Subchapter%20005%20%28V%29%20-%20Historical%20Preservation%20and%20Fine%20Arts/Part%20D%20-%20Miscellaneous/%C2%A7%2002132%20-%20Replacement%20of%20statue%20in%20Statuary%20Hall.md) | Replacement of statue in Statuary Hall. |
 | (a) | Request by State. |
 | (b) | Agreement upon approval. |

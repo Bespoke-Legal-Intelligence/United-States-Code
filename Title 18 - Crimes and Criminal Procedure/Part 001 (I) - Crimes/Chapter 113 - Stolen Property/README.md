@@ -12,6 +12,12 @@
 | [2318\.](%C2%A7%2002318%20-%20Trafficking%20in%20counterfeit%20labels%2C%20illicit%20labels%2C%20or%20counterfeit%20documentation%20or%20packaging.md) | Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging. |
 | [2319\.](%C2%A7%2002319%20-%20Criminal%20infringement%20of%20a%20copyright.md) | Criminal infringement of a copyright. |
 | [2319A.](%C2%A7%2002319A%20-%20Unauthorized%20fixation%20of%20and%20trafficking%20in%20sound%20recordings%20and%20music%20videos%20of%20live%20musical%20performances.md) | Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances. |
+| [2319B.](%C2%A7%2002319B%20-%20Unauthorized%20recording%20of%20Motion%20pictures%20in%20a%20Motion%20picture%20exhibition%20facility.md) | Unauthorized recording of motion pictures in a motion picture exhibition facility.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [2320\.](%C2%A7%2002320%20-%20Trafficking%20in%20counterfeit%20goods%20or%20services.md) | Trafficking in counterfeit goods or services. |
 | [2321\.](%C2%A7%2002321%20-%20Trafficking%20in%20certain%20motor%20vehicles%20or%20motor%20vehicle%20parts.md) | Trafficking in certain motor vehicles or motor vehicle parts. |
 | [2322\.](%C2%A7%2002322%20-%20Chop%20shops.md) | Chop shops. |
@@ -20,9 +26,11 @@
 
 #### Amendments
 
+2005—Pub. L. 109–9, title I, §102(b), Apr. 27, 2005, 119 Stat. 220, added item 2319B.
+
 2004—Pub. L. 108–482, title I, §102(c), Dec. 23, 2004, 118 Stat. 3915, substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in item 2318.
 
-1996—Pub. L. 104–153, §4(b)(2), July 2, 1996, 110 Stat. 1387, substituted “Trafficking in counterfeit labels forphonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in item 2318.
+1996—Pub. L. 104–153, §4(b)(2), July 2, 1996, 110 Stat. 1387, substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in item 2318.
 
 1994—Pub. L. 103–465, title V, §513(b), Dec. 8, 1994, 108 Stat. 4976, added item 2319A.
 
@@ -42,6 +50,8 @@ Pub. L. 98–473, title II, §§1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 217
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -57,6 +67,7 @@ Pub. L. 98–473, title II, §§1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 217
 - [&sect; 02318 - Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging](%C2%A7%2002318%20-%20Trafficking%20in%20counterfeit%20labels%2C%20illicit%20labels%2C%20or%20counterfeit%20documentation%20or%20packaging.md)
 - [&sect; 02319 - Criminal infringement of a copyright](%C2%A7%2002319%20-%20Criminal%20infringement%20of%20a%20copyright.md)
 - [&sect; 02319A - Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances](%C2%A7%2002319A%20-%20Unauthorized%20fixation%20of%20and%20trafficking%20in%20sound%20recordings%20and%20music%20videos%20of%20live%20musical%20performances.md)
+- [&sect; 02319B - Unauthorized recording of Motion pictures in a Motion picture exhibition facility](%C2%A7%2002319B%20-%20Unauthorized%20recording%20of%20Motion%20pictures%20in%20a%20Motion%20picture%20exhibition%20facility.md)
 - [&sect; 02320 - Trafficking in counterfeit goods or services](%C2%A7%2002320%20-%20Trafficking%20in%20counterfeit%20goods%20or%20services.md)
 - [&sect; 02321 - Trafficking in certain motor vehicles or motor vehicle parts](%C2%A7%2002321%20-%20Trafficking%20in%20certain%20motor%20vehicles%20or%20motor%20vehicle%20parts.md)
 - [&sect; 02322 - Chop shops](%C2%A7%2002322%20-%20Chop%20shops.md)

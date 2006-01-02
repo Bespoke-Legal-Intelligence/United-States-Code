@@ -4,7 +4,7 @@ Section, added Pub. L. 91–172, title IV, §401(b)(1), Dec. 30, 1969, 83 Stat. 
 
 #### Savings Provision
 
-For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 ## Subtitle B—Estate and Gift Taxes
 
@@ -29,8 +29,4 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 1986—Pub. L. 99–514, title XIV, §1431(b), Oct. 22, 1986, 100 Stat. 2729, struck out “certain” after “Tax on” in item for chapter 13.
 
 1976—Pub. L. 94–455, title XX, §2006(b)(1), Oct. 4, 1976, 90 Stat. 1888, added item for chapter 13.
-
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 404, 877, 6019, 6211, 6212, 6213, 6214, 6404, 6501, 6662, 6871, 6901, 7491, 7701, 7702 of this title.
 

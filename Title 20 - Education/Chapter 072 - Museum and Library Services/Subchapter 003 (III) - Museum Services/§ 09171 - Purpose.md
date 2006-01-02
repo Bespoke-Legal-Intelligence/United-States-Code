@@ -10,7 +10,7 @@ It is the purpose of this subchapter—
 
 &emsp;(4) to assist, encourage, and support museums in carrying out their stewardship responsibilities to achieve the highest standards in conservation and care of the cultural, historic, natural, and scientific heritage of the United States to benefit future generations;
 
-&emsp;(5) to assist, encourage, and support museums in achieving the highest standards of management and service to the public, and to ease the financial burden borne by museums as a result of their increasing use by the public; and
+&emsp;(5) to assist, encourage, and support museums in achieving the highest standards ofmanagement and service to the public, and to ease the financial burden borne by museums as a result of their increasing use by the public; and
 
 &emsp;(6) to support resource sharing and partnerships among museums, libraries, schools, and other community organizations.
 

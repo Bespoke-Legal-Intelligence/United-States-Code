@@ -46,7 +46,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (1) Tax not to apply where failure not discovered exercising reasonable diligence
 
-&emsp;No tax shall be imposed by subsection (a) on any failure during any period for which it isestablished to the satisfaction of the Secretary that none of the persons referred to in subsection (e) knew, or exercising reasonable diligence would have known, that such failure existed.
+&emsp;No tax shall be imposed by subsection (a) on any failure during any period for which it is established to the satisfaction of the Secretary that none of the persons referred to in subsection (e) knew, or exercising reasonable diligence would have known, that such failure existed.
 
 #### (2) Tax not to apply to failures corrected within 30 days
 
@@ -364,7 +364,7 @@ This section shall not apply to—
 
 > &emsp;&emsp;of such beneficiary's rights under this subsection.
 
-> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> &emsp;The requirements of subparagraph (B) shall be considered satisfied in the case of a multiemployer plan in connection with a qualifying event described in paragraph (3)(B) if the plan provides that the determination of the occurrence of such qualifying event will be made by the plan administrator. For purposes of subparagraph (D), any notification shall be made within 14 days (or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan) of the date on which the plan administrator is notified under subparagraph (B) or (C), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of thecovered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 #### (7) Covered employee
 
@@ -438,7 +438,7 @@ The Public Health Service Act, referred to in subsec. (f)(1), does not contain a
 
 The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (V), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(2)(B)(iv)(I), (5)(C)(iii), and (g)(3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, asamended. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Sections 3(16)(A) and 701(c)(2) of the Act are classified to sections 1002(16)(A) and 1181(c)(2), respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), (5)(C)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Section 2701(c)(2) of the Act is classified to section 300gg(c)(2) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -464,7 +464,7 @@ Subsec. (g)(2). Pub. L. 104–191, §321(d)(1), inserted at end “Such term sha
 
 1993—Subsec. (f)(1). Pub. L. 103–66 inserted “the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if” after “only if”.
 
-1990—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employeeson a typical business day during the preceding calendar year,”.
+1990—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year,”.
 
 1989—Subsec. (f)(2)(B)(i). Pub. L. 101–239, §6701(a)(1), as amended by Pub. L. 104–188, §1704(t)(21), inserted at end “In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B), any reference in subclause (I) or (II) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.”
 
@@ -494,7 +494,7 @@ Subsec. (g)(2). Pub. L. 101–239, §6202(b)(3)(B), substituted “section 5000(
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of Title 19.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or afterthe date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of Title 19.
 
 #### Effective Date of 1996 Amendments
 
@@ -532,7 +532,7 @@ Section 7891(d)(2)(C) of Pub. L. 101–239 provided that: “The amendments made
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for anyplan year to which section 162(k) of this title (as in effect on the day before Nov. 10, 1988) did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 162 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1988, but not applicable to any plan for any plan year to which section 162(k) of this title (as in effect on the day before Nov. 10, 1988) did not apply by reason of section 10001(e)(2) of Pub. L. 99–272, see section 3011(d) of Pub. L. 100–647, set out as an Effective Date of 1988 Amendment note under section 162 of this title.
 
 #### Construction of 2002 Amendment
 
@@ -541,10 +541,6 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 #### Notification of Changes in Continuation Coverage
 
 Section 421(e) of Pub. L. 104–191 provided that: “Not later than November 1, 1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 35, 51A, 106, 414, 9707, 9832 of this title; title 29 sections 1191b, 2918; title 38 section 4317; title 42 sections 300gg–91, 1396a, 1396e.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

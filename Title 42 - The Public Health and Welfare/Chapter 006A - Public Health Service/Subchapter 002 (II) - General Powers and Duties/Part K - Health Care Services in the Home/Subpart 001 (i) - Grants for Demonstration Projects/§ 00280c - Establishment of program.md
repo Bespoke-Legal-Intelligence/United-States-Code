@@ -26,11 +26,11 @@ A State may not make payments from a grant under subsection (a) of this section 
 
 &emsp;(2) by an entity that provides health services on a prepaid basis.
 
-(July 1, 1944, ch. 373, title III, §395, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 979; amended Pub. L. 101–557, title I, §101(a)–(c), Nov. 15, 1990, 104 Stat. 2766; Pub. L. 102–108, §2(f), Aug. 17, 1991, 105 Stat. 550.)
+(July 1, 1944, ch. 373, title III, §395, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 979; amended Pub. L. 101–557, title I, §101(a)–(c),Nov. 15, 1990, 104 Stat. 2766; Pub. L. 102–108, §2(f), Aug. 17, 1991, 105 Stat. 550.)
 
 #### Prior Provisions
 
-A prior section 280C, act July 1, 1944, ch. 373, title III, §399A, formerly §399c, as added Dec. 29, 1973, Pub. L.93–222, §3, 87 Stat. 934; renumbered §399A, July 29, 1975, Pub. L. 94–63, title VI, §607(a), (c), 89 Stat. 351, provided for programs designed to assure the quality of health care, prior to repeal by Pub. L. 95–623, §11(b), Nov. 9, 1978, 92 Stat. 3455.
+A prior section 280C, act July 1, 1944, ch. 373, title III, §399A, formerly §399c, as added Dec. 29, 1973, Pub. L. 93–222, §3, 87 Stat. 934; renumbered §399A, July 29, 1975, Pub. L. 94–63, title VI, §607(a), (c), 89 Stat. 351, provided for programs designed to assure the quality of health care, prior to repeal by Pub. L. 95–623, §11(b), Nov. 9, 1978, 92 Stat. 3455.
 
 A prior section 395 of act July 1, 1944, ch. 373, title III, formerly §397, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1063; renumbered §396 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(e), 6(a)(1), (2), 10(c)(3), (d)(2)(A), 84 Stat. 63, 64, 67; June 18, 1973, Pub. L. 93–45, title I, §107(d), 87 Stat. 92; renumbered §395 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(c), 204, 88 Stat. 372, 373, which related to grants for establishing, expanding, and improving basic medical library or related resources, was classified to section 280b–7 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 

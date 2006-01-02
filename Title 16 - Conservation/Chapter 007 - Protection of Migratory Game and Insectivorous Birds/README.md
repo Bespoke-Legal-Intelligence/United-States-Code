@@ -111,10 +111,12 @@
 | [719a.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719a%20-%20Junior%20Duck%20Stamp.md) | Junior Duck Stamp. |
 | (a) | Competition. |
 | (b) | Licensing and marketing of design of Junior Duck Stamps. |
-| (c) | Use of proceeds from licensing and marketing of Junior Duck Stamps and Junior Duck Stamp designs. |
+| (c) | Use of proceeds. |
 | [719b.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719b%20-%20Acceptance%20of%20gifts%2C%20devises%2C%20and%20bequests.md) | Acceptance of gifts, devises, and bequests. |
 | 719b–1. | Definition of State. |
 | [719c.](Subchapter%20005%20%28V%29%20-%20Junior%20Duck%20Stamp%20Conservation%20and%20Design%20Program/%C2%A7%2000719c%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | Authorization. |
+| (b) | Limitations on use for distribution to State and regional coordinators to implement competitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

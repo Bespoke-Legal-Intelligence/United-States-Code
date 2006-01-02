@@ -30,7 +30,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(1) The outstanding balance in the account at the beginning of the statement period.
 
-&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such information in accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
+&emsp;(2) The amount and date of each extension of credit during the period, and a brief identification, on or accompanying the statement of each extension of credit in a form prescribed by the Board sufficient to enable the obligor either to identify the transaction or to relate it to copies of sales vouchers or similar instruments previously furnished, except that a creditor's failure to disclose such informationin accordance with this paragraph shall not be deemed a failure to comply with this part or this subchapter if (A) the creditor maintains procedures reasonably adapted to procure and provide such information, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title. In lieu of complying with the requirements of the previous sentence, in the case of any transaction in which the creditor and seller are the same person, as defined by the Board, and such person's open end credit plan has fewer than 15,000 accounts, the creditor may elect to provide only the amount and date of each extension of credit during the period and the seller's name and location where the transaction took place if (A) a brief identification of the transaction has been previously furnished, and (B) the creditor responds to and treats any inquiry for clarification or documentation as a billing error and an erroneously billed amount under section 1666 of this title.
 
 &emsp;(3) The total amount credited to the account during the period.
 
@@ -47,6 +47,52 @@ The creditor of any account under an open end consumer credit plan shall transmi
 &emsp;(9) The date by which or the period (if any) within which, payment must be made to avoid additional finance charges, except that the creditor may, at his election and without disclosure, impose no such additional finance charge if payment is received after such date or the termination of such period.
 
 &emsp;(10) The address to be used by the creditor for the purpose of receiving billing inquiries from the obligor.
+
+&emsp;(11)(A) In the case of an open end credit plan that requires a minimum monthly payment of not more than 4 percent of the balance on which finance charges are accruing, the following statement, located on the front of the billing statement, disclosed clearly and conspicuously: “Minimum Payment Warning: Making only the minimum payment will increase the interest you pay and the time it takes to repay your balance. For example, making only the typical 2% minimum monthly payment on a balance of $1,000 at an interest rate of 17% would take 88 months to repay the balance in full. For an estimate of the time it would take to repay your balance, making only minimum payments, call this toll-free number: \_\_\_\_\_\_\_\_\_\_\_\_.” (the blank space to be filled in by the creditor).
+
+&emsp;(B) In the case of an open end credit plan that requires a minimum monthly payment of more than 4 percent of the balance on which finance charges are accruing, the following statement, in a prominent location on the front of the billing statement, disclosed clearly and conspicuously: “Minimum Payment Warning: Making only the required minimum payment will increase the interest you pay and the time it takes to repay your balance. Making a typical 5% minimum monthly payment on a balance of $300 at an interest rate of 17% would take 24 months to repay the balance in full. For an estimate of the time it would take to repay your balance, making only minimum monthly payments, call this toll-free number: \_\_\_\_\_\_\_\_\_\_\_\_.” (the blank space to be filled in by the creditor).
+
+&emsp;(C) Notwithstanding subparagraphs (A) and (B), in the case of a creditor with respect to which compliance with this subchapter is enforced by the Federal Trade Commission, the following statement, in a prominent location on the front of the billing statement, disclosed clearly and conspicuously: “Minimum Payment Warning: Making only the required minimum payment will increase the interest you pay and the time it takes to repay your balance. For example, making only the typical 5% minimum monthly payment on a balance of $300 at an interest rate of 17% would take 24 months to repay the balance in full. For an estimate of the time it would take to repay your balance, making only minimum monthly payments, call the Federal Trade Commission at this toll-free number: \_\_\_\_\_\_\_\_\_\_\_\_.” (the blank space to be filled in by the creditor). A creditor who is subject to this subparagraph shall not be subject to subparagraph (A) or (B).
+
+&emsp;(D) Notwithstanding subparagraph (A), (B), or (C), in complying with any such subparagraph, a creditor may substitute an example based on an interest rate that is greater than 17 percent. Any creditor that is subject to subparagraph (B) may elect to provide the disclosure required under subparagraph (A) in lieu of the disclosure required under subparagraph (B).
+
+&emsp;(E) The Board shall, by rule, periodically recalculate, as necessary, the interest rate and repayment period under subparagraphs (A), (B), and (C).
+
+&emsp;(F)(i) The toll-free telephone number disclosed by a creditor or the Federal Trade Commission under subparagraph (A), (B), or (G), as appropriate, may be a toll-free telephone number established and maintained by the creditor or the Federal Trade Commission, as appropriate, or may be a toll-free telephone number established and maintained by a third party for use by the creditor or multiple creditors or the Federal Trade Commission, as appropriate. The toll-free telephone number may connect consumers to an automated device through which consumers may obtain information described in subparagraph (A), (B), or (C), by inputting information using a touch-tone telephone or similar device, if consumers whose telephones are not equipped to use such automated device are provided the opportunity to be connected to an individual from whom the information described in subparagraph (A), (B), or (C), as applicable, may be obtained. A person that receives a request for information described in subparagraph (A), (B), or (C) from an obligor through the toll-free telephone number disclosed under subparagraph (A), (B), or (C), as applicable, shall disclose in response to such request only the information set forth in the table promulgated by the Board under subparagraph (H)(i).
+
+&emsp;(ii)(I) The Board shall establish and maintain for a period not to exceed 24 months following the effective date of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, a toll-free telephone number, or provide a toll-free telephone number established and maintained by a third party, for use by creditors that are depository institutions (as defined in section 1813 of title 12), including a Federal credit union or State credit union (as defined in section 1752 of title 12), with total assets not exceeding $250,000,000. The toll-free telephone number may connect consumers to an automated device through which consumers may obtain information described in subparagraph (A) or (B), as applicable, by inputting information using a touch-tone telephone or similar device, if consumers whose telephones are not equipped to use such automated device are provided the opportunity to be connected to an individual from whom the information described in subparagraph (A) or (B), as applicable, may be obtained. A person that receives a request for information described in subparagraph (A) or (B) from an obligor through the toll-free telephone number disclosed under subparagraph (A) or (B), as applicable, shall disclose in response to such request only the information set forth in the table promulgated by the Board under subparagraph (H)(i). The dollar amount contained in this subclause shall be adjusted according to an indexing mechanism established by the Board.
+
+&emsp;(II) Not later than 6 months prior to the expiration of the 24-month period referenced in subclause (I), the Board shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the program described in subclause (I).
+
+&emsp;(G) The Federal Trade Commission shall establish and maintain a toll-free number for the purpose of providing to consumers the information required to be disclosed under subparagraph (C).
+
+&emsp;(H) The Board shall—
+
+&emsp;&emsp;(i) establish a detailed table illustrating the approximate number of months that it would take to repay an outstanding balance if a consumer pays only the required minimum monthly payments and if no other advances are made, which table shall clearly present standardized information to be used to disclose the information required to be disclosed under subparagraph (A), (B), or (C), as applicable;
+
+&emsp;&emsp;(ii) establish the table required under clause (i) by assuming—
+
+&emsp;&emsp;&emsp;(I) a significant number of different annual percentage rates;
+
+&emsp;&emsp;&emsp;(II) a significant number of different account balances;
+
+&emsp;&emsp;&emsp;(III) a significant number of different minimum payment amounts; and
+
+&emsp;&emsp;&emsp;(IV) that only minimum monthly payments are made and no additional extensions of credit are obtained; and
+
+&emsp;&emsp;(iii) promulgate regulations that provide instructional guidance regarding the manner in which the information contained in the table established under clause (i) should be used in responding to the request of an obligor for any information required to be disclosed under subparagraph (A), (B), or (C).
+
+&emsp;(I) The disclosure requirements of this paragraph do not apply to any charge card account, the primary purpose of which is to require payment of charges in full each month.
+
+&emsp;(J) A creditor that maintains a toll-free telephone number for the purpose of providing customers with the actual number of months that it will take to repay the customer's outstanding balance is not subject to the requirements of subparagraph (A) or (B).
+
+&emsp;(K) A creditor that maintains a toll-free telephone number for the purpose of providing customers with the actual number of months that it will take to repay an outstanding balance shall include the following statement on each billing statement: “Making only the minimum payment will increase the interest you pay and the time it takes to repay your balance. For more information, call this toll-free number: \_\_\_\_\_\_\_\_\_\_\_\_.” (the blank space to be filled in by the creditor).
+
+&emsp;(12) If a late payment fee is to be imposed due to the failure of the obligor to make payment on or before a required payment due date, the following shall be stated clearly and conspicuously on the billing statement:
+
+&emsp;&emsp;(A) The date on which that payment is due or, if different, the earliest date on which a late payment fee may be charged.
+
+&emsp;&emsp;(B) The amount of the late payment fee to be imposed if payment is made after such date.
 
 #### (c) Disclosure in credit and charge card applications and solicitations
 
@@ -76,7 +122,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;&emsp;&emsp;(I) The date by which or the period within which any credit extended under such credit plan for purchases of goods or services must be repaid to avoid incurring a finance charge, and, if no such period is offered, such fact shall be clearly stated.
 
-&emsp;&emsp;&emsp;(II) If the length of such “grace period” varies, the card issuer may disclose therange of days in the grace period, the minimum number of days in the grace period, or the average number of days in the grace period, if the disclosure is identified as such.
+&emsp;&emsp;&emsp;(II) If the length of such “grace period” varies, the card issuer may disclose the range of days in the grace period, the minimum number of days in the grace period, or the average number of days in the grace period, if the disclosure is identified as such.
 
 #### (iv) Balance calculation method
 
@@ -246,6 +292,72 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;The Board may, by regulation, require the disclosure of information in addition to that otherwise required by this subsection or subsection (d) of this section, and modify any disclosure of information required by this subsection or subsection (d) of this section, in any application to open a credit card account for any person under an open end consumer credit plan or any application to open a charge card account for any person, or a solicitation to open any such account without requiring an application, if the Board determines that such action is necessary to carry out the purposes of, or prevent evasions of, any paragraph of this subsection.
 
+#### (6) Additional notice concerning “introductory rates”
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), an application or solicitation to open a credit card account and all promotional materials accompanying such application or solicitation for which a disclosure is required under paragraph (1), and that offers a temporary annual percentage rate of interest, shall—
+
+&emsp;&emsp;&emsp;(i) use the term “introductory” in immediate proximity to each listing of the temporary annual percentage rate applicable to such account, which term shall appear clearly and conspicuously;
+
+&emsp;&emsp;&emsp;(ii) if the annual percentage rate of interest that will apply after the end of the temporary rate period will be a fixed rate, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing of the temporary annual percentage rate in the tabular format described in section 1632(c) of this title), the time period in which the introductory period will end and the annual percentage rate that will apply after the end of the introductory period; and
+
+&emsp;&emsp;&emsp;(iii) if the annual percentage rate that will apply after the end of the temporary rate period will vary in accordance with an index, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing in the tabular format prescribed by section 1632(c) of this title), the time period in which the introductory period will end and the rate that will apply after that, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
+
+#### (B) Exception
+
+&emsp;&emsp;Clauses (ii) and (iii) of subparagraph (A) do not apply with respect to any listing of a temporary annual percentage rate on an envelope or other enclosure in which an application or solicitation to open a credit card account is mailed.
+
+#### (C) Conditions for introductory rates
+
+&emsp;&emsp;An application or solicitation to open a credit card account for which a disclosure is required under paragraph (1), and that offers a temporary annual percentage rate of interest shall, if that rate of interest is revocable under any circumstance or upon any event, clearly and conspicuously disclose, in a prominent manner on or with such application or solicitation—
+
+&emsp;&emsp;&emsp;(i) a general description of the circumstances that may result in the revocation of the temporary annual percentage rate; and
+
+&emsp;&emsp;&emsp;(ii) if the annual percentage rate that will apply upon the revocation of the temporary annual percentage rate—
+
+&emsp;&emsp;&emsp;&emsp;(I) will be a fixed rate, the annual percentage rate that will apply upon the revocation of the temporary annual percentage rate; or
+
+&emsp;&emsp;&emsp;&emsp;(II) will vary in accordance with an index, the rate that will apply after the temporary rate, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
+
+#### (D) Definitions
+
+&emsp;&emsp;In this paragraph—
+
+&emsp;&emsp;&emsp;(i) the terms “temporary annual percentage rate of interest” and “temporary annual percentage rate” mean any rate of interest applicable to a credit card account for an introductory period of less than 1 year, if that rate is less than an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation; and
+
+&emsp;&emsp;&emsp;(ii) the term “introductory period” means the maximum time period for which the temporary annual percentage rate may be applicable.
+
+#### (E) Relation to other disclosure requirements
+
+&emsp;&emsp;Nothing in this paragraph may be construed to supersede subsection (a) of section 1632 of this title, or any disclosure required by paragraph (1) or any other provision of this subsection.
+
+#### (7) Internet-based solicitations
+
+#### (A) In general
+
+&emsp;&emsp;In any solicitation to open a credit card account for any person under an open end consumer credit plan using the Internet or other interactive computer service, the person making the solicitation shall clearly and conspicuously disclose—
+
+&emsp;&emsp;&emsp;(i) the information described in subparagraphs (A) and (B) of paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) the information described in paragraph (6).
+
+#### (B) Form of disclosure
+
+&emsp;&emsp;The disclosures required by subparagraph (A) shall be—
+
+&emsp;&emsp;&emsp;(i) readily accessible to consumers in close proximity to the solicitation to open a credit card account; and
+
+&emsp;&emsp;&emsp;(ii) updated regularly to reflect the current policies, terms, and fee amounts applicable to the credit card account.
+
+#### (C) Definitions
+
+&emsp;&emsp;For purposes of this paragraph—
+
+&emsp;&emsp;&emsp;(i) the term “Internet” means the international computer network of both Federal and non-Federal interoperable packet switched data networks; and
+
+&emsp;&emsp;&emsp;(ii) the term “interactive computer service” means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
+
 #### (d) Disclosure prior to renewal
 
 #### (1) In general
@@ -316,9 +428,31 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 &emsp;The Board shall define, in regulations, what constitutes a “substantial decrease in coverage or service” for purposes of paragraph (1).
 
-(Pub. L. 90–321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, §613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, §2(b), Nov. 23, 1988, 102 Stat. 4729.)
+#### (h) Prohibition on certain actions for failure to incur finance charges
+
+A creditor of an account under an open end consumer credit plan may not terminate an account prior to its expiration date solely because the consumer has not incurred finance charges on the account. Nothing in this subsection shall prohibit a creditor from terminating an account for inactivity in 3 or more consecutive months.
+
+(Pub. L. 90–321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, §613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, §2(b), Nov. 23, 1988, 102 Stat. 4729; Pub. L. 109–8, title XIII, §§1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, 119 Stat. 204, 209, 211, 212.)
+
+#### Enactment of Subsections (b)(11), (12), (c)(6), (7), and (h)
+
+<i>Subsections (b)(11), (12), (c)(6), (7), and (h) of this section not effective until the later of 12 to 18 months after Apr. 20, 2005, or 12 months after date of publication by Board of Governors of the Federal Reserve System of final regulations implementing the requirements of each of those subsections, see Effective Date of 2005 Amendment note below.</i>
+
+#### References in Text
+
+For effective date of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, referred to in subsec. (b)(11)(F)(ii)(I), as being 180 days after Apr. 20, 2005, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of Title 11, Bankruptcy. For effective date of subsec. (b)(11) of this section, see Effective Date of 2005 Amendment note below.
 
 #### Amendments
+
+2005—Subsec. (b)(11). Pub. L. 109–8, §1301(a), added par. (11).
+
+Subsec. (b)(12). Pub. L. 109–8, §1305(a), added par. (12).
+
+Subsec. (c)(6). Pub. L. 109–8, §1303(a), added par. (6).
+
+Subsec. (c)(7). Pub. L. 109–8, §1304(a), added par. (7).
+
+Subsec. (h). Pub. L. 109–8, §1306(a), added subsec. (h).
 
 1988—Subsec. (a)(8). Pub. L. 100–709 added par. (8).
 
@@ -352,6 +486,38 @@ Subsec. (b)(11). Pub. L. 93–495, §305, added par. (11).
 
 Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–8, title XIII, §1301(b)(2), Apr. 20, 2005, 119 Stat. 207, provided that: “Section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section, and the regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+
+&emsp;“(A) 18 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+
+&emsp;“(B) 12 months after the publication of such final regulations by the Board \[of Governors of the Federal Reserve System\].”
+
+Pub. L. 109–8, title XIII, §1303(b)(2), Apr. 20, 2005, 119 Stat. 211, provided that: “Section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section, and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+
+&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+
+&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\].”
+
+Pub. L. 109–8, title XIII, §1304(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: “The amendment made by subsection (a) \[amending this section\] and the regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+
+&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+
+&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\].”
+
+Pub. L. 109–8, title XIII, §1305(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: “The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+
+&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+
+&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\].”
+
+Pub. L. 109–8, title XIII, §1306(b)(2), Apr. 20, 2005, 119 Stat. 212, provided that: “The amendment made by subsection (a) \[amending this section\] and regulations issued under paragraph (1) of this subsection \[set out as a note under this section\] shall not take effect until the later of—
+
+&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+
+&emsp;“(B) 12 months after the date of publication of such final regulations by the Board \[of Governors of the Federal Reserve System\].”
+
 #### Effective Date of 1988 Amendment
 
 For effective date of amendments by Pub. L. 100–709, see Regulations; Effective Date note below.
@@ -367,6 +533,32 @@ For effective date of amendment by sections 304 and 305 of Pub. L. 93–495, see
 For effective date of amendment by section 411 of Pub. L. 93–495, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
 
 Amendment by section 415 of Pub. L. 93–495 effective Oct. 28, 1974, see section 416 of Pub. L. 93–495, set out as an Effective Date note under section 1665a of this title.
+
+#### Regulations
+
+Pub. L. 109–8, title XIII, §1301(b)(1), Apr. 20, 2005, 119 Stat. 207, provided that: “The Board of Governors of the Federal Reserve System (hereafter in this title \[amending this section and sections 1637a, 1638, 1664, and 1665b of this title and enacting provisions set out as notes under this section and section 1637a of this title\] referred to as the ‘Board’) shall promulgate regulations implementing the requirements of section 127(b)(11) of the Truth in Lending Act \[subsec. (b)(11) of this section\], as added by subsection (a) of this section.”
+
+Pub. L. 109–8, title XIII, §1303(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(6) of the Truth in Lending Act \[subsec. (c)(6) of this section\], as added by this section.”
+
+Pub. L. 109–8, title XIII, §1304(b)(1), Apr. 20, 2005, 119 Stat. 211, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(c)(7) of the Truth in Lending Act \[subsec. (c)(7) of this section\], as added by this section.”
+
+Pub. L. 109–8, title XIII, §1305(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(b)(12) of the Truth in Lending Act \[subsec. (b)(12) of this section\], as added by this section.”
+
+Pub. L. 109–8, title XIII, §1306(b)(1), Apr. 20, 2005, 119 Stat. 212, provided that: “The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the requirements of section 127(h) of the Truth in Lending Act \[subsec. (h) of this section\], as added by this section.”
+
+Pub. L. 109–8, title XIII, §1309, Apr. 20, 2005, 119 Stat. 213, provided that:
+
+“(a)
+
+Regulations.—Not later than 6 months after the date of enactment of this Act \[Apr. 20, 2005\], the Board \[of Governors of the Federal Reserve System\], in consultation with the other Federal banking agencies (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, and the Federal Trade Commission, shall promulgate regulations to provide guidance regarding the meaning of the term ‘clear and conspicuous’, as used in subparagraphs (A), (B), and (C) of section 127(b)(11) and clauses (ii) and (iii) of section 127(c)(6)(A) of the Truth in Lending Act \[subsecs. (b)(11) and (c)(6)(A) of this section\].
+
+“(b)
+
+Examples.—Regulations promulgated under subsection (a) shall include examples of clear and conspicuous model disclosures for the purposes of disclosures required by the provisions of the Truth in Lending Act \[15 U.S.C. 1601 et seq.\] referred to in subsection (a).
+
+“(c)
+
+Standards.—In promulgating regulations under this section, the Board \[of Governors of the Federal Reserve System\] shall ensure that the clear and conspicuous standard required for disclosures made under the provisions of the Truth in Lending Act referred to in subsection (a) can be implemented in a manner which results in disclosures which are reasonably understandable and designed to call attention to the nature and significance of the information in the notice.”
 
 #### Regulations; Effective Date
 

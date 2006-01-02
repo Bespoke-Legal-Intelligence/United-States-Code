@@ -28,17 +28,39 @@
 
 #### (3) Special rule
 
-&emsp;For purposes of this subsection, in any case in which the Secretary determines that an article is not taxable, the term “ultimate purchaser” (when used in paragraph (1)(B) of this subsection) includes a wholesaler, jobber, distributor, or retailer who, on the 15th day after the date of such determination, holds such article for sale; but only if claim for credit or refund by reason of this paragraph is filed on or before the date for filing the return with respect to the taxes imposed under chapter 32 for the first period which begins more than 60 days after the date on such determination.
+&emsp;For purposes of this subsection, in any case in which the Secretary determines that an article is not taxable, the term “ultimate purchaser” (when used in paragraph (1)(B) of this subsection) includes a wholesaler, jobber, distributor, or retailer who, on the 15th day after the date of such determination, holds such article for sale; but only if claim for credit or refund by reason of this paragraph is filed on or before the date for filing the return with respect to the taxes imposed under chapter 32 forthe first period which begins more than 60 days after the date on such determination.
 
-#### (4) Wholesale distributors to administer credits and refunds of gasoline tax
+#### (4) Registered ultimate vendor or credit card issuer to administer credits and refunds of gasoline tax
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, a wholesale distributor who purchases any gasoline on which tax imposed by section 4081 has been paid and who sells the gasoline to its ultimate purchaser shall be treated as the person (and the only person) who paid such tax.
+&emsp;&emsp;For purposes of this subsection, except as provided in subparagraph (B), if an ultimate vendor purchases any gasoline on which tax imposed by section 4081 has been paid and sells such gasoline to an ultimate purchaser described in subparagraph (C) or (D) of subsection (b)(2) (and such gasoline is for a use described in such subparagraph), such ultimate vendor shall be treated as the person (and the only person) who paid such tax, but only if such ultimate vendor is registered under section 4101.
 
-#### (B) Wholesale distributor
+#### (B) Credit card issuer
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “wholesale distributor” has the meaning given such term by section 4093(b)(2) (determined by substituting “any gasoline taxable under section 4081” for “aviation fuel” therein). Such term includes any person who makes retail sales of gasoline at 10 or more retail motor fuel outlets.
+&emsp;&emsp;For purposes of this subsection, if the purchase of gasoline described in subparagraph (A) (determined without regard to the registration status of the ultimate vendor) is made by means of a credit card issued to the ultimate purchaser, paragraph (1) shall not apply and the person extending the credit to the ultimate purchaser shall be treated as the person (and the only person) who paid the tax, but only if such person—
+
+&emsp;&emsp;&emsp;(i) is registered under section 4101,
+
+&emsp;&emsp;&emsp;(ii) has established, under regulations prescribed by the Secretary, that such person—
+
+&emsp;&emsp;&emsp;&emsp;(I) has not collected the amount of the tax from the person who purchased such article, or
+
+&emsp;&emsp;&emsp;&emsp;(II) has obtained the written consent from the ultimate purchaser to the allowance of the credit or refund, and
+
+&emsp;&emsp;&emsp;(iii) has so established that such person—
+
+&emsp;&emsp;&emsp;&emsp;(I) has repaid or agreed to repay the amount of the tax to the ultimate vendor,
+
+&emsp;&emsp;&emsp;&emsp;(II) has obtained the written consent of the ultimate vendor to the allowance of the credit or refund, or
+
+&emsp;&emsp;&emsp;&emsp;(III) has otherwise made arrangements which directly or indirectly provides the ultimate vendor with reimbursement of such tax.
+
+> &emsp;&emsp;If clause (i), (ii), or (iii) is not met by such person extending the credit to the ultimate purchaser, then such person shall collect an amount equal to the tax from the ultimate purchaser and only such ultimate purchaser may claim such credit or payment.
+
+#### (C) Timing of claims
+
+&emsp;&emsp;The procedure and timing of any claim under subparagraph (A) or (B) shall be the same as for claims under section 6427(i)(4), except that the rules of section 6427(i)(3)(B) regarding electronic claims shall not apply unless the ultimate vendor or credit card issuer has certified to the Secretary for the most recent quarter of the taxable year that all ultimate purchasers of the vendor or credit card issuer are certified and entitled to a refund under subparagraph (C) or (D) of subsection (b)(2).
 
 #### (b) Special cases in which tax payments considered overpayments
 
@@ -74,13 +96,13 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 &emsp;&emsp;(F) in the case of gasoline, used or sold for use in the production of special fuels referred to in section 4041.
 
-> &emsp;Subparagraphs (C) and (D) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not apply in the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4091 or 4121.
+> &emsp;Subparagraphs (C) and (D) shall not apply in the case of any tax paid under section 4064. In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. This paragraph shall not applyin the case of any tax imposed under section 4041(a)(1) or 4081 on diesel fuel or kerosene and any tax paid under section 4121. Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met.
 
 #### (3) Tax-paid articles used for further manufacture, etc.
 
 &emsp;If the tax imposed by chapter 32 has been paid with respect to the sale of any article (other than coal taxable under section 4121) by the manufacturer, producer, or importer thereof and such article is sold to a subsequent manufacturer or producer before being used, such tax shall be deemed to be an overpayment by such subsequent manufacturer or producer if—
 
-&emsp;&emsp;(A) in the case of any article other than any fuel taxable under section 4081 or 4091, such article is used by the subsequent manufacturer or producer as material in the manufacture or production of, or as a component part of—
+&emsp;&emsp;(A) in the case of any article other than any fuel taxable under section 4081, such article is used by the subsequent manufacturer or producer as material in the manufacture or production of, or as a component part of—
 
 &emsp;&emsp;&emsp;(i) another article taxable under chapter 32, or
 
@@ -88,13 +110,13 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 > &emsp;&emsp;manufactured or produced by him; or
 
-&emsp;&emsp;(B) in the case of any fuel taxable under section 4081 or 4091, such fuel is used by the subsequent manufacturer or producer, for nonfuel purposes, as a material in the manufacture or production of any other article manufactured or produced by him.
+&emsp;&emsp;(B) in the case of any fuel taxable under section 4081, such fuel is used by the subsequent manufacturer or producer, for nonfuel purposes, as a material in the manufacture or production of any other article manufactured or produced by him.
 
 #### (4) Tires
 
 &emsp;If—
 
-&emsp;&emsp;(A) the tax imposed by section 4071 has been paid with respect to the sale of any tireby the manufacturer, producer, or importer thereof, and
+&emsp;&emsp;(A) the tax imposed by section 4071 has been paid with respect to the sale of any tire by the manufacturer, producer, or importer thereof, and
 
 &emsp;&emsp;(B) such tire is sold by any person on or in connection with, or with the sale of, any other article, such tax shall be deemed to be an overpayment by such person if such other article is—
 
@@ -132,7 +154,7 @@ Under regulations prescribed by the Secretary the amount of any tax imposed by c
 
 #### (d) Credit on returns
 
-Any person entitled to a refund of tax imposed by chapter 31 or 32, paid to the Secretary may, instead of filing a claim for refund, take credit therefor against taxes imposed by such chapter due on any subsequent return. The preceding sentence shall not apply to the tax imposed by section 4081 in the case of refunds described in section 4081(e) or to the tax imposed by section 4091 in the case of refunds described in section 4091(d).
+Any person entitled to a refund of tax imposed by chapter 31 or 32, paid to the Secretary may, instead of filing a claim for refund, take credit therefor against taxes imposed by such chapter due on any subsequent return. The preceding sentence shall not apply to the tax imposed by section 4081 in the case of refunds described in section 4081(e).
 
 #### (e) Accounting procedures for like articles
 
@@ -148,9 +170,29 @@ Under regulations prescribed by the Secretary, if any person uses or resells lik
 
 For purposes of this section, any term used in this section has the same meaning as when used in chapter 31, 32, or 33, as the case may be.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961,75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826; Pub. L. 108–357, title VIII, §§853(d)(2)(G)–(I), 865(a), Oct. 22, 2004, 118 Stat. 1613, 1621; ; Pub. L. 109–59, title XI, §11163(b), Aug. 10, 2005, 119 Stat. 1973.)
 
 #### Amendments
+
+2005—Subsec. (a)(4). Pub. L. 109–59, §11163(b)(1)(E), inserted “or credit card issuer” after “vendor” in heading.
+
+Subsec. (a)(4)(A). Pub. L. 109–59, §11163(b)(1)(A), inserted “except as provided in subparagraph (B),” after “For purposes of this subsection,”.
+
+Subsec. (a)(4)(B). Pub. L. 109–59, §11163(b)(1)(B), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (a)(4)(C). Pub. L. 109–59, §11163(b)(1)(D), which directed the insertion of “or credit card issuer” after “vendor”, was executed by inserting “or credit card issuer” after “vendor” both places it appeared, to reflect the probable intent of Congress.
+
+Pub. L. 109–59, §11163(b)(1)(B), (C), redesignated subpar. (B) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A)”.
+
+Subsec. (b)(2). Pub. L. 109–59, §11163(b)(2), inserted at end “Subparagraphs (C) and (D) shall not apply in the case of any tax imposed on gasoline under section 4081 if the requirements of subsection (a)(4) are not met.”
+
+2004—Subsec. (a)(4). Pub. L. 108–357, §865(a), amended heading and text of par. (4) generally, substituting provisions relating to administration of credits and refunds of gasoline tax by a registered ultimate vendor for provisions relating to administration of credits and refunds of gasoline tax by wholesale distributors.
+
+Subsec. (b)(2). Pub. L. 108–357, §853(d)(2)(G), struck out “4091 or” before “4121” in concluding provisions.
+
+Subsec. (b)(3). Pub. L. 108–357, §853(d)(2)(H), struck out “or 4091” after “4081” in subpars. (A) and (B).
+
+Subsec. (d). Pub. L. 108–357, §853(d)(2)(I), struck out “or to the tax imposed by section 4091 in the case of refunds described in section 4091(d)” before period at end.
 
 1998—Subsec. (b)(5). Pub. L. 105–206 substituted “section 4216(d)(1)” for “section 4216(e)(1)” in subpar. (A) and concluding provisions.
 
@@ -416,13 +458,23 @@ Subsec. (b)(3)(A). Act Aug. 11, 1955, ch. 805, §1(h), inserted “and other tha
 
 Subsec. (b)(3)(B). Act Aug. 11, 1955, ch. 805, §1(i), substituted provisions allowing a credit for automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under sections 4061(b), 4111, 4141, or 4171, respectively, of this title, for provisions allowing a credit for radio and television components purchased and used by a producer in the manufacture of communication, detection, or navigation receivers in commercial, military, or marine installations if such receivers were sold to the United States.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 applicable to sales after Dec. 31, 2005, see section 11163(e) of Pub. L. 109–59, set out as a note under section 4101 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 853(d)(2)(G)–(I) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
+
+Pub. L. 108–357, title VIII, §865(b), Oct. 22, 2004, 118 Stat. 1621, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2005.”
+
 #### Effective Date of 1997 Amendment
 
 Section 905(b) of Pub. L. 105–34 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 Amendment by section 1032(e)(6) of Pub. L. 105–34 effective July 1, 1998, see section 1032(f)(1) of Pub. L. 105–34, as amended, set out as a note under section 4041 of this title.
 
-Amendment by section 1436(b) of Pub. L. 105–34 applicable to fuel acquired by producer after Sept. 30, 1997, see section 1436(c) of Pub. L. 105–34, set out as a note under section 4091 of this title.
+Pub. L. 105–34, title XIV, §1436(c), Aug. 5, 1997, 111 Stat. 1053, provided that: “The amendments made by this section \[amending this section and section 4091 of this title\] shall apply to fuel acquired by the producer after September 30, 1997.”
 
 #### Effective Date of 1996 Amendment
 
@@ -555,8 +607,4 @@ Section 163(e) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22
 &emsp;“(2) such other article was (before any other use) by any person exported, or sold to a State or local government for the exclusive use of a State or local government,
 
 > then any tax imposed by chapter 32 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or the corresponding provisions of prior revenue law) in respect of such set or component which has been paid shall be deemed to have been an overpayment, by the manufacturer, producer, or importer of such other article, at the time paid. No credit or refund shall be allowed or made under this subsection unless the manufacturer, producer, or importer of such other article establishes to the satisfaction of the Secretary of the Treasury or his delegate that he did not include the amount of the tax in the price of such other article (and has not collected the amount of the tax from the purchaser of such other article), that the amount of the tax has been repaid to the ultimate purchaser of such other article, or that he has obtained the written consent of such ultimate purchaser to the allowance of the credit or the making of the refund. No interest shall be allowed or paid in respect of any such overpayment.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4064, 4216, 6427, 6612, 7851, 9510 of this title.
 

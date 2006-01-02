@@ -50,7 +50,3 @@ Employees Covered.—This section applies only with respect to separation pay of
 
 1992—Subsec. (b)(1), (2). Pub. L. 102–484 substituted “December 5, 1991,” for “the date of the enactment of this section”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1592 of this title.
-

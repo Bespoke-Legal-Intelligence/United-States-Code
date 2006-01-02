@@ -8,7 +8,7 @@ The Attorney General, the Assistant Attorney General, the Director of the Nation
 
 A prior section 3786, Pub. L. 90–351, title I, §806, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1204, contained provisions similar to this section, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
-A prior section 805 of Pub. L. 90–351 was renumbered section 804 and is classified to section 3785 of this title.
+A prior section 805 of Pub. L. 90–351 was renumbered section 804 and was classified to section 3785 of this title prior to repeal by Pub. L. 109–162.
 
 #### Effective Date
 

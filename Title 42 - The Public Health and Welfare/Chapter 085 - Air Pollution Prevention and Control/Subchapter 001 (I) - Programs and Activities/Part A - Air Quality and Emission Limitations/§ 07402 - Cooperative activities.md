@@ -20,7 +20,7 @@ Section was formerly classified to section 1857a of this title.
 
 #### Prior Provisions
 
-Provisions similar to those in the first clause of subsec. (a) of this section were contained in subsec. (b)(1) of a prior section 1857a, of this title, act July 14, 1955, ch. 360, §2, 69 Stat. 322, prior to the general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in the first clause of subsec. (a) of this section were contained in subsec. (b)(1) of a prior section 1857a, of this title, act July 14, 1955,ch. 360, §2, 69 Stat. 322, prior to the general amendment of this chapter by Pub. L. 88–206.
 
 #### Amendments
 

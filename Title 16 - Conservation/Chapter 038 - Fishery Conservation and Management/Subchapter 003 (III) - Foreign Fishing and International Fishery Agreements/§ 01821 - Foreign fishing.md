@@ -30,7 +30,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;&emsp;(i) to board, and search or inspect, any such vessel at any time,
 
-&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this title whenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or any person has committed an act prohibited by section 1857 of this title, and
+&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this title whenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or anyperson has committed an act prohibited by section 1857 of this title, and
 
 &emsp;&emsp;&emsp;(iii) to examine and make notations on the permit issued pursuant to section 1824 of this title for such vessel;
 
@@ -84,7 +84,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 &emsp;(i) whether, and to what extent, such nation imposes tariff barriers or nontariff barriers on the importation, or otherwise restricts the market access, of both United States fish and fishery products, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
-&emsp;(ii) whether, and to what extent, such nation is cooperating with the United States in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation;
+&emsp;(ii) whether, and to what extent, such nation is cooperating with the United States in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products fromUnited States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
 &emsp;(iii) whether, and to what extent, such nation and the fishing fleets of such nation have cooperated with the United States in the enforcement of United States fishing regulations;
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-StevensFishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -254,7 +254,7 @@ Subsec. (i)(2)(B). Pub. L. 99–659, §103(a)(3), amended subpar. (B) generally.
 
 &emsp;“(i) the time during which the vessel engages in such fishing will be of such short duration that the placing of a United States observer aboard the vessel would be impractical, or
 
-&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out of observer functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
+&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out ofobserver functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
 
 Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
@@ -312,7 +312,7 @@ Sections 237, 238(b) of Pub. L. 96–561, as amended by Pub. L. 104–208, div. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Implementation of Pacific Albacore Tuna Treaty
 
@@ -362,7 +362,7 @@ Pub. L. 104–43, title VIII, §802, Nov. 3, 1995, 109 Stat. 396, as amended by 
 
 Pub. L. 100–629, §6, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
-“(a) The Secretary of State, the Secretary of Commerce, and the Secretary of the department in whichthe Coast Guard is operating, as appropriate, shall exercise their authority under section 201(c)(2)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821) to require the use of transponders or other such appropriate position-fixing and identification equipment on any vessel other than a vessel of the United States engaged in fishing in the United States Exclusive Economic Zone.
+“(a) The Secretary of State, the Secretary of Commerce, and the Secretary of the department in which the Coast Guard is operating, as appropriate, shall exercise their authority under section 201(c)(2)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821) to require the use of transponders or other such appropriate position-fixing and identification equipment on any vessel other than a vessel of the United States engaged in fishing in the United States Exclusive Economic Zone.
 
 “(b) The Secretary of Commerce, after consultation with the Secretary of Defense, the Secretary of State, and the Secretary of the department in which the Coast Guard is operating shall report to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate within 180 days after the date of enactment of this Act \[Nov. 7, 1988\] on the results of their compliance with subsection (a).”
 

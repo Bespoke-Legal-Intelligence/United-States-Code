@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) a graduate or professional program.
 
-(2)(A) A program is an eligible program for purposes of part B of this subchapter if it is a program of at least 300 clock hours of instruction, but less than 600 clock hours of instruction, offered during a minimum of 10 weeks, that—
+(2)(A) A program is an eligible program for purposes of part B of this subchapter if it is aprogram of at least 300 clock hours of instruction, but less than 600 clock hours of instruction, offered during a minimum of 10 weeks, that—
 
 &emsp;(i) has a verified completion rate of at least 70 percent, as determined in accordance with the regulations of the Secretary;
 

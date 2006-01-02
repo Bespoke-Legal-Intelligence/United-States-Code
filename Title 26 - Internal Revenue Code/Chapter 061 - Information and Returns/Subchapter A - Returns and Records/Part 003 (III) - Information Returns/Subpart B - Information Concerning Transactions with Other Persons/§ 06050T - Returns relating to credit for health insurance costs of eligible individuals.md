@@ -28,7 +28,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;(2) the information required to be shown on the return with respect to such individual.
 
-> The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendaryear for which the return under subsection (a) is required to be made.
+> The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
 
 (Added Pub. L. 107–210, div. A, title II, §202(c)(1), Aug. 6, 2002, 116 Stat. 962.)
 
@@ -39,8 +39,4 @@ Pub. L. 107–210, div. A, title II, §202(e), Aug. 6, 2002, 116 Stat. 963, prov
 #### Construction
 
 Nothing in title II of Pub. L. 107–210 or the amendments by that title, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 35, 6724 of this title.
 

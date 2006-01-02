@@ -48,7 +48,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 &emsp;Solely for purposes of determining gain or loss on the disposition of intragroup stock and the amount of any inclusion by reason of an excess loss account, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year (and in determining the amount in such account)—
 
-&emsp;&emsp;(A) such earnings and profits shall be determined as if section 312 were applied for such taxable year (and all preceding consolidated years of the member with respect to such group) without regard to subsections (k) and (n) thereof, and
+&emsp;&emsp;(A) such earnings and profits shall be determined as if section 312 were applied for such taxable year (and all preceding consolidated years of the member with respect tosuch group) without regard to subsections (k) and (n) thereof, and
 
 &emsp;&emsp;(B) earnings and profits shall not include any amount excluded from gross income under section 108 to the extent the amount so excluded was not applied to reduce tax attributes (other than basis in property).
 
@@ -110,7 +110,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 #### (B) Group credit item
 
-&emsp;&emsp;The term “group credit item” means any credit allowable under part IV of subchapterA of chapter 1 (other than section 34) to any other member of the affiliated group which includes the subsidiary and any carryover or carryback of any such credit.
+&emsp;&emsp;The term “group credit item” means any credit allowable under part IV of subchapter A of chapter 1 (other than section 34) to any other member of the affiliated group which includes the subsidiary and any carryover or carryback of any such credit.
 
 #### (3) Other definitions
 
@@ -148,7 +148,7 @@ In any case in which a consolidated return is made or is required to be made, th
 
 &emsp;&emsp;(A) to prevent the avoidance of this subsection through the transfer of built-in losses to the subsidiary,
 
-&emsp;&emsp;(B) to provide rules for cases in which the subsidiary owns (directly or indirectly) stock in another member of the affiliated group, and
+&emsp;&emsp;(B) to provide rules for cases in which the subsidiary owns (directly or indirectly)stock in another member of the affiliated group, and
 
 &emsp;&emsp;(C) to provide for the application of this subsection where dividends are not paid currently, where the redemption and liquidation rights of the applicable preferred stock exceed the issue price for such stock, or where the stock is otherwise structured to avoid the purposes of this subsection.
 
@@ -194,7 +194,7 @@ Subsec. (c). Pub. L. 94–455, §1507(b)(3), added subsec. (c).
 
 1964—Subsec. (a). Pub. L. 88–272, §234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined “consolidated taxable income”.
 
-Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more WesternHemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
+Subsec. (b). Pub. L. 88–272, §234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
 
 Subsec. (c). Pub. L. 88–272, §234(b)(1), struck out subsec. (c) which defined regulated public utility. See section 7701(a)(33) of this title.
 
@@ -204,7 +204,7 @@ Subsec. (d). Pub. L. 88–272, §234(b)(1), redesignated subsec. (d) as (b).
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -328,11 +328,7 @@ Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 178, 337, 584, 806, 847, 953 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> Subsec. (a) heading editorially supplied.</i>
 

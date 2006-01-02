@@ -50,9 +50,9 @@ Definitions.—As used in this section—
 
 &emsp;(3) the terms “controlled substance” and “narcotic drug” have, respectively, the meanings given those terms in section 102 of the Controlled Substances Act (21 U.S.C. 802); and
 
-&emsp;(4) the term “prison” means a Federal correctional, detention, or penal facility.
+&emsp;(4) the term “prison” means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, §1178, Jan. 5, 2006, 119 Stat. 3126.)
 
 #### Historical and Revision Notes
 
@@ -71,6 +71,8 @@ Minor verbal changes also were made.
 Schedules I, II, and III, referred to in subsec. (d)(1)(A), (B), probably mean schedules I to III of the schedules of controlled substances, which are set out in section 812(c) of Title 21, Food and Drugs.
 
 #### Amendments
+
+2006—Subsec. (d)(4). Pub. L. 109–162 inserted “or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “penal facility”.
 
 1996—Subsec. (c). Pub. L. 104–294 inserted heading.
 

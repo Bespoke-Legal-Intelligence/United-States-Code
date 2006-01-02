@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) by an individual or entity during the period when such individual or entity is excluded under this subchapter or subchapter V, XVIII, or XIX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title, or
 
-&emsp;&emsp;(B) at the medical direction or on the prescription of a physician during the period when the physician is excluded under this subchapter or subchapter V, XVIII, or XIX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time periodafter reasonable notice has been furnished to the person); or
+&emsp;&emsp;(B) at the medical direction or on the prescription of a physician during the period when the physician is excluded under this subchapter or subchapter V, XVIII, or XIX of this chapter pursuant to section 1320a–7, 1320a–7a, 1320c–5, or 1395u(j)(2) of this title and when the person furnishing such item or service knew or had reason to know of the exclusion (after a reasonable time period after reasonable notice has been furnished to the person); or
 
 &emsp;(10) in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 

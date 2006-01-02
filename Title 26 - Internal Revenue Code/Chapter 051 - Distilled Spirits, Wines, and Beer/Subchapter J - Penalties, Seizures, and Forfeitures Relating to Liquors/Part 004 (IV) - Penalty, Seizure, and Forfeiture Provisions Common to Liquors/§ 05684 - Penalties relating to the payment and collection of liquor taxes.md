@@ -60,7 +60,7 @@ Amendment by section 722(a)(5) of Pub. L. 98–369 effective as if included in t
 
 Section 722(a)(4) of Pub. L. 97–34 provided that: “The amendments made by this subsection \[enacting section 6659 of this title and amending this section and section 5761 of this title\] shall apply to returns filed after December 31, 1981.”
 
-Amendment by section 724(b)(4) of Pub. L. 97–34 applicable to returns filed after Aug. 13, 1981, see section724(c) of Pub. L. 97–34, set out as a note under section 6656 of this title.
+Amendment by section 724(b)(4) of Pub. L. 97–34 applicable to returns filed after Aug. 13, 1981, see section 724(c) of Pub. L. 97–34, set out as a note under section 6656 of this title.
 
 #### Effective Date of 1969 Amendment
 

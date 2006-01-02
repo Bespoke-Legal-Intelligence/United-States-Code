@@ -46,7 +46,7 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 (ii) In no case shall the number computed under subparagraph (A) be less than 226,000.
 
-(2) The number computed under this paragraph for a fiscal year is the sum of the number of aliens described in subparagraphs (A) and (B) of subsection (b)(2) of this section who were issuedimmigrant visas or who otherwise acquired the status of aliens lawfully admitted to the United States for permanent residence in the previous fiscal year.
+(2) The number computed under this paragraph for a fiscal year is the sum of the number of aliens described in subparagraphs (A) and (B) of subsection (b)(2) of this section who were issued immigrant visas or who otherwise acquired the status of aliens lawfully admitted to the United States for permanent residence in the previous fiscal year.
 
 (3)(A) The number computed under this paragraph for fiscal year 1992 is zero.
 
@@ -94,13 +94,19 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 &emsp;In the case of a petition under section 1154 of this title initially filed for an alien's classification as a family-sponsored immigrant under section 1153(a)(3) of this title, based on the alien's being a married son or daughter of a citizen, if the petition is later converted, due to the legal termination of the alien's marriage, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section or as an unmarried son or daughter of a citizen under section 1153(a)(1) of this title, the determination described in paragraph (1) shall be made using the age of the alien on the date of the termination of the marriage.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927.)
+#### (4) Application to self-petitions
+
+&emsp;Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
+
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109–162, title VIII, §805(b)(1), Jan. 5, 2006, 119 Stat. 3056.)
 
 #### Amendments
 
+2006—Subsec. (f)(4). Pub. L. 109–162 added par. (4).
+
 2002—Subsec. (f). Pub. L. 107–208 added subsec. (f).
 
-2000—Subsec. (b)(2)(A)(i). Pub. L. 106–386 inserted at end “For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse orparent loses United States citizenship on account of the abuse.”
+2000—Subsec. (b)(2)(A)(i). Pub. L. 106–386 inserted at end “For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.”
 
 1996—Subsec. (b)(1)(C). Pub. L. 104–208, §671(d)(1)(A), struck out “, 1161,” after “section 1160”.
 
@@ -164,7 +170,7 @@ Section 40701(d) of Pub. L. 103–322 provided that: “The amendments made by t
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -262,7 +268,7 @@ In general.—A spouse or child of an alien described in paragraph (3) who is in
 
 &emsp;&emsp;“(B)
 
-Petitions.—An alien spouse or child described in subparagraph (A) may file a petition withthe Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
+Petitions.—An alien spouse or child described in subparagraph (A) may file a petition with the Secretary of Homeland Security for classification of the alien under section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)). For purposes of such Act \[8 U.S.C. 1101 et seq.\], such a petition shall be considered a petition filed under section 204(a)(1)(A) of such Act (8 U.S.C. 1154(a)(1)(A)).
 
 &emsp;“(2)
 

@@ -100,7 +100,7 @@ In subsection (d), the words “National Bureau of Standards of the Department o
 
 #### Amendments
 
-1988—Subsec. (a)(1). Pub. L. 100–274, §2(c)(4), substituted “each mint” and “superintendent receives” for“each mint and the assay office at New York and the officer in charge of the assay office at San Francisco” and “superintendent or officer receives”, respectively.
+1988—Subsec. (a)(1). Pub. L. 100–274, §2(c)(4), substituted “each mint” and “superintendent receives” for “each mint and the assay office at New York and the officer in charge of the assay office at San Francisco” and “superintendent or officer receives”, respectively.
 
 Subsec. (a)(2). Pub. L. 100–274, §2(c)(5), substituted “credit each superintendent with the amount” and “superintendent returns” for “credit each superintendent and the officer with the amount” and “superintendent or officer returns”, respectively.
 

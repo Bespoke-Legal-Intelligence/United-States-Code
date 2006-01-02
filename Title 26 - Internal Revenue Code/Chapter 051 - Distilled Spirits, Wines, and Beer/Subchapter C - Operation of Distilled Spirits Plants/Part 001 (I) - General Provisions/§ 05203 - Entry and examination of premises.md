@@ -6,7 +6,7 @@ Every proprietor of a distilled spirits plant shall furnish the Secretary such k
 
 #### (b) Right of entry and examination
 
-It shall be lawful for any internal revenue officer at all times, as well by night as by day, to enter any distilled spirits plant, or any other premises where distilled spirits operations are carried on, or structure or place used in connection therewith for storage or other purposes; to make examination of the materials, equipment, and facilities thereon; and make such gauges and inventories as he deems necessary. Whenever any officer, having demanded admittance, and having declared his name and office, is not admitted into such premises by the proprietor or other person having charge thereof, it shall be lawful for such officer, at all times, as well by night as by day, to use such force as is necessary for him to gain entry to such premises.
+It shall be lawful for any internal revenue officer at all times, as well by night as by day, toenter any distilled spirits plant, or any other premises where distilled spirits operations are carried on, or structure or place used in connection therewith for storage or other purposes; to make examination of the materials, equipment, and facilities thereon; and make such gauges and inventories as he deems necessary. Whenever any officer, having demanded admittance, and having declared his name and office, is not admitted into such premises by the proprietor or other person having charge thereof, it shall be lawful for such officer, at all times, as well by night as by day, to use such force as is necessary for him to gain entry to such premises.
 
 #### (c) Furnishing facilities and assistance
 
@@ -51,8 +51,4 @@ Subsec. (d). Pub. L. 96–39, §807(a)(22)(C), substituted “where distilled sp
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5505, 5511, 5604 of this title.
 

@@ -50,7 +50,7 @@
 
 #### (B) Reports
 
-&emsp;&emsp;The Secretary shall submit the reports described in subparagraph (A) to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways andMeans and the Committee on Commerce of the House of Representatives.
+&emsp;&emsp;The Secretary shall submit the reports described in subparagraph (A) to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Commerce of the House of Representatives.
 
 (July 1, 1944, ch. 373, title IX, §917, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1661.)
 
@@ -60,7 +60,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 
 #### Codification
 
-December 6, 1999, referred to in subsec. (b)(2)(A), was in the original “the date of the enactment of this title”, which was translated as meaning the date of enactment of Pub. L. 106–129, which amended this subchapter generally, to reflect the probable intent of Congress.
+December 6, 1999, referred to in subsec. (b)(2)(A), was in the original “the date of the enactment of thistitle”, which was translated as meaning the date of enactment of Pub. L. 106–129, which amended this subchapter generally, to reflect the probable intent of Congress.
 
 #### Change of Name
 

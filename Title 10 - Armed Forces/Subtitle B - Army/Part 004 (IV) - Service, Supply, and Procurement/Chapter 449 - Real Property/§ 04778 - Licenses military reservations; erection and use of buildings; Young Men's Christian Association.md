@@ -1,8 +1,8 @@
 ### §4778. Licenses: military reservations; erection and use of buildings; Young Men's Christian Association
 
-Under such conditions as he may prescribe, the Secretary of the Army may issue a revocable license to the International Committee of Young Men's Christian Associations of North America to erect and maintain on military reservations, inside the United States and the Territories, Commonwealths, and possessions, buildings needed by that organization for the promotion of the social, physical, intellectual, and moral welfare of the members of the Army on those reservations.
+Under such conditions as he may prescribe, the Secretary of the Army may issue a revocable license to the International Committee of Young Men's Christian Associations of North America to erect and maintain on military reservations, inside the United States and the Commonwealths and possessions, buildings needed by that organization for the promotion of the social, physical, intellectual, and moral welfare of the members of the Army on those reservations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 270.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 270; Pub. L. 109–163, div. A, title X, §1057(a)(5), (6), Jan. 6, 2006, 119 Stat. 3440, 3441.)
 
 Historical and Revision Notes
 
@@ -19,4 +19,10 @@ Historical and Revision Notes
 May 31, 1902, ch. 943, 32 Stat. 282.
 
 The words “may issue” are substituted for the words “Authority is given to \* \* \* in his discretion, to grant permission”. The words “Under such conditions as he may prescribe” are substituted for the words “under such regulations as the Secretary of the Army may impose”. The words “members of the Army” are substituted for the word “garrisons”. The words “the Territories, Commonwealths, and possessions” are substituted for the words “or its island possessions” for clarity.
+
+#### Amendments
+
+2006—Pub. L. 109–163, §1057(a)(6), substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
+
+Pub. L. 109–163, §1057(a)(5), which directed the substitution of “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”, could not be executed because “Territories, Commonwealths, or possessions” does not appear in text.
 

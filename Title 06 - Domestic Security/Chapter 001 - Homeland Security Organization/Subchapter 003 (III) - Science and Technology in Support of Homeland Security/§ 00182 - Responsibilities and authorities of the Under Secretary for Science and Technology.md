@@ -4,7 +4,7 @@ The Secretary, acting through the Under Secretary for Science and Technology, sh
 
 &emsp;(1) advising the Secretary regarding research and development efforts and priorities in support of the Department's missions;
 
-&emsp;(2) developing, in consultation with other appropriate executive agencies, a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government's civilian efforts to identify and develop countermeasures to chemical, biological, radiological, nuclear, and other emerging terrorist threats, including the development of comprehensive, research-based definable goals for such efforts and development of annual measurable objectives and specific targets to accomplish and evaluate the goals for such efforts;
+&emsp;(2) developing, in consultation with other appropriate executive agencies, a national policy and strategic plan for, identifying priorities, goals, objectives and policies for, and coordinating the Federal Government's civilian efforts to identify and develop countermeasures to chemical, biological, radiological,nuclear, and other emerging terrorist threats, including the development of comprehensive, research-based definable goals for such efforts and development of annual measurable objectives and specific targets to accomplish and evaluate the goals for such efforts;
 
 &emsp;(3) supporting the Under Secretary for Information Analysis and Infrastructure Protection, by assessing and testing homeland security vulnerabilities and possible threats;
 

@@ -14,5 +14,5 @@ Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part that act Fe
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration to Federal Security Agency, see notes set out under section 321 of this title.
 

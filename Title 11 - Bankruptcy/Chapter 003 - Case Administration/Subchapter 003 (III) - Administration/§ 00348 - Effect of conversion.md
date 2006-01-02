@@ -1,8 +1,8 @@
 ### §348. Effect of conversion
 
-(a) Conversion of a case from a case under one chapter of this title to a case under another chapter of this title constitutes an order for relief under the chapter to which the case is converted, but, except as provided in subsections (b) and (c) of this section, does not effect a changein the date of the filing of the petition, the commencement of the case, or the order for relief.
+(a) Conversion of a case from a case under one chapter of this title to a case under another chapter of this title constitutes an order for relief under the chapter to which the case is converted, but, except as provided in subsections (b) and (c) of this section, does not effect a change in the date of the filing of the petition, the commencement of the case, or the order for relief.
 
-(b) Unless the court for cause orders otherwise, in sections 701(a), 727(a)(10), 727(b), 728(a), 728(b), 1102(a), 1110(a)(1), 1121(b), 1121(c), 1141(d)(4), 1146(a), 1146(b), 1201(a), 1221, 1228(a), 1301(a), and 1305(a) of this title, “the order for relief under this chapter” in a chapter to which a case has been converted under section 706, 1112, 1208, or 1307 of this title means the conversion of such case to such chapter.
+(b) Unless the court for cause orders otherwise, in sections 701(a), 727(a)(10), 727(b), 728(a), 728(b),<sup>1</sup> 1102(a), 1110(a)(1), 1121(b), 1121(c), 1141(d)(4), 1146(a), 1146(b), 1201(a), 1221, 1228(a), 1301(a), and 1305(a) of this title, “the order for relief under this chapter” in a chapter to which a case has been converted under section 706, 1112, 1208, or 1307 of this title means the conversion of such case to such chapter.
 
 (c) Sections 342 and 365(d) of this title apply in a case that has been converted under section 706, 1112, 1208, or 1307 of this title, as if the conversion order were the order for relief.
 
@@ -12,13 +12,19 @@
 
 (f)(1) Except as provided in paragraph (2), when a case under chapter 13 of this title is converted to a case under another chapter under this title—
 
-&emsp;(A) property of the estate in the converted case shall consist of property of the estate, as of the date of filing of the petition, that remains in the possession of or is under the control of the debtor on the date of conversion; and
+&emsp;(A) property of the estate in the converted case shall consist of property of the estate, as of the date of filing of the petition, that remains in the possession of or is under the control of the debtor on the date of conversion;
 
-&emsp;(B) valuations of property and of allowed secured claims in the chapter 13 case shall apply in the converted case, with allowed secured claims reduced to the extent that they have been paid in accordance with the chapter 13 plan.
+&emsp;(B) valuations of property and of allowed secured claims in the chapter 13 case shall apply only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed secured claims in cases under chapters 11 and 12 reduced to the extent that they have been paid in accordance with the chapter 13 plan; and
 
-(2) If the debtor converts a case under chapter 13 of this title to a case under another chapter under this title in bad faith, the property in the converted case shall consist of the property of the estate as of the date of conversion.
+&emsp;(C) with respect to cases converted from chapter 13—
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2568; Pub. L. 99–554, title II, §257(i), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title III, §311, title V, §501(d)(5), Oct. 22, 1994, 108 Stat. 4138, 4144.)
+&emsp;&emsp;(i) the claim of any creditor holding security as of the date of the petition shall continue to be secured by that security unless the full amount of such claim determined under applicable nonbankruptcy law has been paid in full as of the date of conversion, notwithstanding any valuation or determination of the amount of an allowed secured claim made for the purposes of the case under chapter 13; and
+
+&emsp;&emsp;(ii) unless a prebankruptcy default has been fully cured under the plan at the time of conversion, in any proceeding under this title or otherwise, the default shall have the effect given under applicable nonbankruptcy law.
+
+(2) If the debtor converts a case under chapter 13 of this title to a case under another chapter under this title in bad faith, the property of the estate in the converted case shall consist of the property of the estate as of the date of conversion.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2568; Pub. L. 99–554, title II, §257(i), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title III, §311, title V, §501(d)(5), Oct. 22, 1994, 108 Stat. 4138, 4144; Pub. L. 109–8, title III, §309(a), title XII, §1207, Apr. 20, 2005, 119 Stat. 82, 194.)
 
 #### Historical and Revision Notes
 
@@ -26,7 +32,7 @@ I74legislative statements
 
 The House amendment adopts section 348(b) of the Senate amendment with slight modifications, as more accurately reflecting sections to which this particular effect of conversion should apply.
 
-Section 348(e) of the House amendment is a stylistic revision of similar provisions contained in H.R. 8200 as passed by the House and in the Senate amendment. Termination of services is expanded to cover any examiner serving in the case before conversion, as done in H.R. 8200 as passed by the House.
+Section 348(e) of the House amendment is a stylistic revision of similar provisions contained in H.R. 8200 aspassed by the House and in the Senate amendment. Termination of services is expanded to cover any examiner serving in the case before conversion, as done in H.R. 8200 as passed by the House.
 
 #### senate report no. 95–989
 
@@ -38,7 +44,17 @@ Subsection (d) provides for special treatment of claims that arise during chapte
 
 Subsection (e) provides that conversion of a case terminates the service of any trustee serving in the case prior to conversion.
 
+#### References in Text
+
+Section 728 of this title, referred to in subsec. (b), was repealed by Pub. L. 109–8, title VII, §719(b)(1), Apr. 20, 2005, 119 Stat. 133.
+
 #### Amendments
+
+2005—Subsec. (f)(1)(B). Pub. L. 109–8, §309(a)(2)(A), substituted “only in a case converted to a case under chapter 11 or 12, but not in a case converted to a case under chapter 7, with allowed secured claims in cases under chapters 11 and 12” for “in the converted case, with allowed secured claims”.
+
+Subsec. (f)(1)(C). Pub. L. 109–8, §309(a)(1), (2)(B), (3), added subpar. (C).
+
+Subsec. (f)(2). Pub. L. 109–8, §1207, inserted “of the estate” after “bad faith, the property”.
 
 1994—Subsec. (b). Pub. L. 103–394, §501(d)(5), substituted “1201(a), 1221, 1228(a), 1301(a), and 1305(a)” for “1301(a), 1305(a), 1201(a), 1221, and 1228(a)” and “1208, or 1307” for “1307, or 1208”.
 
@@ -50,6 +66,10 @@ Subsec. (f). Pub. L. 103–394, §311, added subsec. (f).
 
 Subsecs. (c) to (e). Pub. L. 99–554, §257(i)(2), (3), inserted reference to section 1208 of this title.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -57,4 +77,6 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

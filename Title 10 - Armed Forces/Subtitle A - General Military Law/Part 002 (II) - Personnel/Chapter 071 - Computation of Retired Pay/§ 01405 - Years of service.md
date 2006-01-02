@@ -94,7 +94,7 @@ Amendment by section 1662(j)(3) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -111,8 +111,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1175, 1401, 1414, 3991, 3992, 6151, 6333, 6334 of this title; title 14 section 423; title 33 section 3045; title 37 section 322.
 

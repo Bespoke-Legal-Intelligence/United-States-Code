@@ -44,7 +44,3 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5206 of this title.
-

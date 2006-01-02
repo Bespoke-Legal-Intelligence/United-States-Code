@@ -32,7 +32,7 @@
 
 #### (C) Eligible producers
 
-&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during arepresentative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
+&emsp;&emsp;Each additional referendum shall be conducted among all producers who, during a representative period, as determined by the Secretary, have been engaged in the production of soybeans to determine whether such producers favor the termination or suspension of the order.
 
 #### (2) Disapproval of order
 
@@ -56,7 +56,7 @@
 
 #### (C) Notifications
 
-&emsp;&emsp;The Secretary shall publish a notice in the Federal Register, and the Board shall provide written notification to producers, not later than 60 days prior to the end of the period established under subparagraph (B)(i) for in-person requests, of the producers’ opportunity to request the additional referendum. Such notifications shall explain the producers’ rights to, and the procedure specified in this subsection for, the conduct of an additional referendum, the purpose of the referendum, and the date and method by which producers may act to request the additional referenda under this paragraph. The Secretary shall take such other actions as the Secretary determines are necessary to ensure that producers are made aware of the opportunity to request an additional referendum on the order.
+&emsp;&emsp;The Secretary shall publish a notice in the Federal Register, and the Board shall provide written notification to producers, not later than 60 days prior to the end of the period established under subparagraph (B)(i) for in-person requests, of the producers’ opportunity to request the additional referendum. Such notifications shall explain the producers’ rights to, and the procedure specified in this subsection for, the conduct of an additional referendum, the purpose of the referendum, and the date and method by which producers may act to request the additional referenda under this paragraph. The Secretary shall take such other actions as the Secretary determines are necessary to ensure that producers are made aware of theopportunity to request an additional referendum on the order.
 
 #### (D) Action by Secretary
 

@@ -4,29 +4,39 @@
 
 (2) The court may not so determine—
 
-&emsp;(A) the amount or legality of a tax, fine, penalty, or addition to tax if such amount or legality was contested before and adjudicated by a judicial or administrative tribunal of competent jurisdiction before the commencement of the case under this title; or
+&emsp;(A) the amount or legality of a tax, fine, penalty, or addition to tax if such amount or legality was contested before and adjudicated by a judicial or administrative tribunal of competent jurisdiction before the commencement of the case under this title;
 
 &emsp;(B) any right of the estate to a tax refund, before the earlier of—
 
 &emsp;&emsp;(i) 120 days after the trustee properly requests such refund from the governmental unit from which such refund is claimed; or
 
-&emsp;&emsp;(ii) a determination by such governmental unit of such request.
+&emsp;&emsp;(ii) a determination by such governmental unit of such request; or
 
-(b) A trustee may request a determination of any unpaid liability of the estate for any tax incurred during the administration of the case by submitting a tax return for such tax and a request for such a determination to the governmental unit charged with responsibility for collection or determination of such tax. Unless such return is fraudulent, or contains a material misrepresentation, the trustee, the debtor, and any successor to the debtor are discharged from any liability for such tax—
+&emsp;(C) the amount or legality of any amount arising in connection with an ad valorem tax on real or personal property of the estate, if the applicable period for contesting or redetermining that amount under any law (other than a bankruptcy law) has expired.
 
-&emsp;(1) upon payment of the tax shown on such return, if—
+(b)(1)(A) The clerk shall maintain a list under which a Federal, State, or local governmental unit responsible for the collection of taxes within the district may—
 
-&emsp;&emsp;(A) such governmental unit does not notify the trustee, within 60 days after such request, that such return has been selected for examination; or
+&emsp;(i) designate an address for service of requests under this subsection; and
 
-&emsp;&emsp;(B) such governmental unit does not complete such an examination and notify the trustee of any tax due, within 180 days after such request or within such additional time as the court, for cause, permits;
+&emsp;(ii) describe where further information concerning additional requirements for filing such requests may be found.
 
-&emsp;(2) upon payment of the tax determined by the court, after notice and a hearing, after completion by such governmental unit of such examination; or
+(B) If such governmental unit does not designate an address and provide such address to the clerk under subparagraph (A), any request made under this subsection may be served at the address for the filing of a tax return or protest with the appropriate taxing authority of such governmental unit.
 
-&emsp;(3) upon payment of the tax determined by such governmental unit to be due.
+(2) A trustee may request a determination of any unpaid liability of the estate for any tax incurred during the administration of the case by submitting a tax return for such tax and a request for such a determination to the governmental unit charged with responsibility for collection or determination of such tax at the address and in the manner designated in paragraph (1). Unless such return is fraudulent, or contains a material misrepresentation, the estate, the trustee, the debtor, and any successor to the debtor are discharged from any liability for such tax—
+
+&emsp;(A) upon payment of the tax shown on such return, if—
+
+&emsp;&emsp;(i) such governmental unit does not notify the trustee, within 60 days after such request, that such return has been selected for examination; or
+
+&emsp;&emsp;(ii) such governmental unit does not complete such an examination and notify the trustee of any tax due, within 180 days after such request or within such additional time as the court, for cause, permits;
+
+&emsp;(B) upon payment of the tax determined by the court, after notice and a hearing, after completion by such governmental unit of such examination; or
+
+&emsp;(C) upon payment of the tax determined by such governmental unit to be due.
 
 (c) Notwithstanding section 362 of this title, after determination by the court of a tax under this section, the governmental unit charged with responsibility for collection of such tax may assess such tax against the estate, the debtor, or a successor to the debtor, as the case may be, subject to any otherwise applicable law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2582; Pub. L. 98–353, title III, §447, July 10, 1984, 98 Stat. 374.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2582; Pub. L. 98–353, title III, §447, July 10, 1984, 98 Stat. 374; Pub. L. 109–8, title VII, §§701(b), 703, 715, Apr. 20, 2005, 119 Stat. 124, 125, 129.)
 
 #### Historical and Revision Notes
 
@@ -38,7 +48,7 @@ Determinations of tax liability: Authority of bankruptcy court to rule on merits
 
 The House amendment adopts the rule of the Senate bill that the bankruptcy court can, under certain conditions, determine the amount of tax refund claim by the trustee. Under the House amendment, if the refund results from an offset or counterclaim to a claim or request for payment by the Internal Revenue Service, or other tax authority, the trustee would not first have to file an administrative claim for refund with the tax authority.
 
-However, if the trustee requests a refund in other situations, he would first have to submit an administrative claim for the refund. Under the House amendment, if the Internal Revenue Service, or other tax authority does not rule on the refund claim within 120 days, then the bankruptcy court may rule on the merits of the refund claim.
+However, if the trustee requests a refund in other situations, he would first have to submit an administrative claim for the refund. Under the House amendment, if the Internal Revenue Service, or other tax authoritydoes not rule on the refund claim within 120 days, then the bankruptcy court may rule on the merits of the refund claim.
 
 Under the Internal Revenue Code \[title 26\], a suit for refund of Federal taxes cannot be filed until 6 months after a claim for refund is filed with the Internal Revenue Service (sec. 6532(a) \[title 26\]). Because of the bankruptcy aim to close the estate as expeditiously as possible, the House amendment shortens to 120 days the period for the Internal Revenue Service to decide the refund claim.
 
@@ -52,7 +62,7 @@ The rules are more complex where the debtor is an individual under chapter 7, 11
 
 Where no proceeding in the Tax Court is pending at the commencement of the bankruptcy case, the tax authority can, under the House amendment, file a claim against the estate for a prepetition tax liability and may also file a request that the bankruptcy court hear arguments and decide the merits of an individual debtor's personal liability for the balance of any nondischargeable tax liability not satisfied from assets of the estate. Bankruptcy terminology refers to the latter type of request as a creditor's complaint to determine the dischargeability of a debt. Where such a complaint is filed, the bankruptcy court will have personal jurisdiction over an individual debtor, and the debtor himself would have no access to the Tax Court, or to any other court, to determine his personal liability for nondischargeable taxes.
 
-If a tax authority decides not to file a claim for taxes which would typically occur where there are few, if any, assets in the estate, normally the tax authority would also not request the bankruptcy court to rule onthe debtor's personal liability for a nondischargeable tax. Under the House amendment, the tax authority would then have to follow normal procedures in order to collect a nondischargeable tax. For example, in the case of nondischargeable Federal income taxes, the Internal Revenue Service would be required to issue a deficiency notice to an individual debtor, and the debtor could then file a petition in the Tax Court—or a refund suit in a district court—as the forum in which to litigate his personal liability for a nondischargeable tax.
+If a tax authority decides not to file a claim for taxes which would typically occur where there are few, if any, assets in the estate, normally the tax authority would also not request the bankruptcy court to rule on the debtor's personal liability for a nondischargeable tax. Under the House amendment, the tax authority would then have to follow normal procedures in order to collect a nondischargeable tax. For example, in the case of nondischargeable Federal income taxes, the Internal Revenue Service would be required to issue a deficiency notice to an individual debtor, and the debtor could then file a petition in the Tax Court—or a refund suit in a district court—as the forum in which to litigate his personal liability for a nondischargeable tax.
 
 Under the House amendment, as under present law, an individual debtor can also file a complaint to determine dischargeability. Consequently, where the tax authority does not file a claim or a request that the bankruptcy court determine dischargeability of a specific tax liability, the debtor could file such a request on his own behalf, so that the bankruptcy court would then determine both the validity of the claim against assets in the estate and also the personal liability of the debtor for any nondischargeable tax.
 
@@ -62,7 +72,7 @@ Where the trustee does not want to intervene in the Tax Court, but an individual
 
 The bankruptcy judge could, however, lift the stay on the debtor to allow him to petition the Tax Court, while reserving the right to rule on the tax authority's claim against assets of the estate. The bankruptcy court could also, upon request by the trustee, authorize the trustee to intervene in the Tax Court for purposes of having the estate also governed by the decision of the Tax Court.
 
-In essence, under the House amendment, the bankruptcy judge will have authority to determine which court will determine the merits of the tax claim both as to claims against the estate and claims against the debtor concerning his personal liability for nondischargeable taxes. Thus, if the Internal Revenue Service, or a State or local tax authority, files a petition to determine dischargeability, the bankruptcy judge can either rule on the merits of the claim and continue the stay on any pending Tax Court proceeding or lift the stay on the Tax Court and hold the dischargeability complaint in abeyance. If he rules on the merits of the complaint before the decision of the Tax Court is reached, the bankruptcy court's decision would bind the debtor as to nondischargeable taxes and the Tax Court would be governed by that decision under principles of res judicata. If the bankruptcy judge does not rule on the merits of the complaint before the decision of the Tax Court is reached, the bankruptcy court will be bound by the decision of the Tax Court as it affects the amount of any claim against the debtor's estate.
+In essence, under the House amendment, the bankruptcy judge will have authority to determine which court will determine the merits of the tax claim bothas to claims against the estate and claims against the debtor concerning his personal liability for nondischargeable taxes. Thus, if the Internal Revenue Service, or a State or local tax authority, files a petition to determine dischargeability, the bankruptcy judge can either rule on the merits of the claim and continue the stay on any pending Tax Court proceeding or lift the stay on the Tax Court and hold the dischargeability complaint in abeyance. If he rules on the merits of the complaint before the decision of the Tax Court is reached, the bankruptcy court's decision would bind the debtor as to nondischargeable taxes and the Tax Court would be governed by that decision under principles of res judicata. If the bankruptcy judge does not rule on the merits of the complaint before the decision of the Tax Court is reached, the bankruptcy court will be bound by the decision of the Tax Court as it affects the amount of any claim against the debtor's estate.
 
 If the Internal Revenue Service does not file a complaint to determine dischargeability and the automatic stay on a pending Tax Court proceeding is not lifted, the bankruptcy court could determine the merits of any tax claim against the estate. That decision will not bind the debtor personally because he would not have been personally before the bankruptcy court unless the debtor himself asks the bankruptcy court to rule on his personal liability. In any such situation where no party filed a dischargeability petition, the debtor would have access to the Tax Court to determine his personal liability for a nondischargeable tax debt. While the Tax Court in such a situation could take into account the ruling of the bankruptcy court on claims against the estate in deciding the debtor's personal liability, the bankruptcy court's ruling would not bind the Tax Court under principles of res judicata, because the debtor, in that situation, would not have been personally before the bankruptcy court.
 
@@ -88,7 +98,7 @@ Subsections (a) and (b) are derived, with only stylistic changes, from section 2
 
 Section (c) deals with procedures for obtaining a prompt audit of tax returns filed by the trustee in a liquidation or reorganization case. Under the bill as originally introduced, a trustee who is “in doubt” concerning tax liabilities of the estate incurred during a title 11 proceeding could obtain a discharge from personal liability for himself and the debtor (but not for the debtor or the debtor's successor in a reorganization), provided that certain administrative procedures were followed. The trustee could request a prompt tax audit by the local, State, or Federal governmental unit. The taxing authority would have to notify the trustee and the court within sixty days whether it accepted the return or desired to audit the returns more fully. If an audit were conducted, the tax office would have to notify the trustee of any tax deficiency within 4 months (subject to an extension of time if the court approved). These procedures would apply only to tax years completed on or before the case was closed and for which the trustee had filed a tax return.
 
-The committee bill eliminates the “in doubt” rule and makes mandatory (rather than optional) the trustee's request for a prompt audit of the estate's tax returns. In many cases, the trustee could not be certain that his returns raised no doubt about possible tax issues. In addition, it is desirable not to create a situation where the taxing authority asserts a tax liability against the debtor (as transferee of surplus assets, if any, return to him) after the case is over; in any such situation, the debtor would be called on to defend a tax return which he did not prepare. Under the amendment, all disputes concerning these returns are to be resolved by the bankruptcy court, and both the trustee and the debtor himself do not then face potential post-bankruptcy tax liabilities based on these returns. This result would occur as to the debtor, however, only in a liquidation case.
+The committee bill eliminates the “in doubt” rule and makes mandatory (rather than optional) the trustee's request for a prompt audit of the estate's tax returns. In many cases, the trustee could not be certain that his returns raised no doubt about possible tax issues. In addition, it is desirable not to create a situation where the taxing authority asserts a tax liability against the debtor (as transferee of surplus assets, ifany, return to him) after the case is over; in any such situation, the debtor would be called on to defend a tax return which he did not prepare. Under the amendment, all disputes concerning these returns are to be resolved by the bankruptcy court, and both the trustee and the debtor himself do not then face potential post-bankruptcy tax liabilities based on these returns. This result would occur as to the debtor, however, only in a liquidation case.
 
 In a reorganization in which the debtor or a successor to the debtor continues in existence, the trustee could obtain a discharge from personal liability through the prompt audit procedure, but the Treasury could still claim a deficiency against the debtor (or his successor) for additional taxes due on returns filed during the title 11 proceedings.
 
@@ -98,7 +108,17 @@ Subsection (c) is new. It codifies in part the referee's decision in <i>In re St
 
 #### Amendments
 
+2005—Subsec. (a)(2)(C). Pub. L. 109–8, §701(b), added subpar. (C).
+
+Subsec. (b). Pub. L. 109–8, §703, added par. (1), redesignated existing provisions of subsec. (b) as par. (2) and inserted “at the address and in the manner designated in paragraph (1)” after “determination of such tax” in introductory provisions, redesignated former pars. (1) to (3) of subsec. (b) as subpars. (A) to (C), respectively, of par. (2), and redesignated former subpars (A) and (B) of par. (1) as cls. (i) and (ii), respectively, of subpar. (A).
+
+Subsec. (b)(2). Pub. L. 109–8, §715, inserted “the estate,” after “misrepresentation,” in introductory provisions.
+
 1984—Subsec. (a)(2)(B)(i). Pub. L. 98–353 substituted “or” for “and”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

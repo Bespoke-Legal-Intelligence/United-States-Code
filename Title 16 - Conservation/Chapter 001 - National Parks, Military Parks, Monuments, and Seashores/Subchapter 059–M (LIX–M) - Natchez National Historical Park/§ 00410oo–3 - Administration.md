@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, the Secretary may accept and expend 
 
 #### (d) General management plan
 
-Within three complete fiscal years after October 7, 1988, the Secretary shall submit to theCommittee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a general management plan for the park. The plan shall be prepared in accordance with section 1a–7(b) of this title. Such plan shall identify appropriate facilities for proper interpretation of the site for visitors.
+Within three complete fiscal years after October 7, 1988, the Secretary shall submit to the Committee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a general management plan for the park. The plan shall be prepared in accordance with section 1a–7(b) of this title. Such plan shall identify appropriate facilities for proper interpretation of the site for visitors.
 
 (Pub. L. 100–479, §4, Oct. 7, 1988, 102 Stat. 2325.)
 

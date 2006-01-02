@@ -4,17 +4,19 @@
 
 #### (1) In general
 
-&emsp;Every nonresident alien individual who, within the 10-year period immediately preceding the close of the taxable year, lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B, shall be taxable for such taxable year in the manner provided in subsection (b) if the tax imposed pursuant to such subsection (after any reduction in such tax under the last sentence of such subsection) exceeds the tax which, without regard to this section, is imposed pursuant to section 871.
+&emsp;Every nonresident alien individual to whom this section applies and who, within the 10-year period immediately preceding the close of the taxable year, lost United States citizenship shall be taxable for such taxable year in the manner provided in subsection (b) if the tax imposed pursuant to such subsection (after any reduction in such tax under the last sentence of such subsection) exceeds the tax which, without regard to this section, is imposed pursuant to section 871.
 
-#### (2) Certain individuals treated as having tax avoidance purpose
+#### (2) Individuals subject to this section
 
-&emsp;For purposes of paragraph (1), an individual shall be treated as having a principal purpose to avoid such taxes if—
+&emsp;This section shall apply to any individual if—
 
-&emsp;&emsp;(A) the average annual net income tax (as defined in section 38(c)(1)) of such individual for the period of 5 taxable years ending before the date of the loss of United States citizenship is greater than $100,000, or
+&emsp;&emsp;(A) the average annual net income tax (as defined in section 38(c)(1)) of such individual for the period of 5 taxable years ending before the date of the loss of United States citizenship is greater than $124,000,
 
-&emsp;&emsp;(B) the net worth of the individual as of such date is $500,000 or more.
+&emsp;&emsp;(B) the net worth of the individual as of such date is $2,000,000 or more, or
 
-> &emsp;In the case of the loss of United States citizenship in any calendar year after 1996, such $100,000 and $500,000 amounts shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “1994” for “1992” in subparagraph (B) thereof. Any increase under the preceding sentence shall be rounded to the nearest multiple of $1,000.
+&emsp;&emsp;(C) such individual fails to certify under penalty of perjury that he has met the requirements of this title for the 5 preceding taxable years or fails to submit such evidence of such compliance as the Secretary may require.
+
+> &emsp;In the case of the loss of United States citizenship in any calendar year after 2004, such $124,000 amount shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “2003” for “1992” in subparagraph (B) thereof. Any increase under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
 #### (b) Alternative tax
 
@@ -22,47 +24,47 @@ A nonresident alien individual described in subsection (a) shall be taxable for 
 
 &emsp;(1) the gross income shall include only the gross income described in section 872(a) (as modified by subsection (d) of this section), and
 
-&emsp;(2) the deductions shall be allowed if and to the extent that they are connected with the gross income included under this section, except that the capital loss carryover provided by section 1212(b) shall not be allowed; and the proper allocation and apportionment of the deductions for this purpose shall be determined as provided under regulations prescribed by the Secretary.
+&emsp;(2) the deductions shall be allowed if and to the extent that they are connected with the gross income included under this section, except that the capital loss carryover provided by section 1212(b) shall not be allowed; and the proper allocation and apportionment of the deductions for this purpose shall be determinedas provided under regulations prescribed by the Secretary.
 
-> For purposes of paragraph (2), the deductions allowed by section 873(b) shall be allowed; and the deduction (for losses not connected with the trade or business if incurred in transactions entered into for profit) allowed by section 165(c)(2) shall be allowed, but only if the profit, if such transaction had resulted in a profit, would be included in gross income under this section. The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer onwhich tax is imposed solely by reason of this section.
+> For purposes of paragraph (2), the deductions allowed by section 873(b) shall be allowed; and the deduction (for losses not connected with the trade or business if incurred in transactions entered into for profit) allowed by section 165(c)(2) shall be allowed, but only if the profit, if such transaction had resulted in a profit, would be included in gross income under this section. The tax imposed solely by reason of this section shall be reduced (but not below zero) by the amount of any income, war profits, and excess profits taxes (within the meaning of section 903) paid to any foreign country or possession of the United States on any income of the taxpayer on which tax is imposed solely by reason of this section.
 
-#### (c) Tax avoidance not presumed in certain cases
+#### (c) Exceptions
 
 #### (1) In general
 
-&emsp;Subsection (a)(2) shall not apply to an individual if—
+&emsp;Subparagraphs (A) and (B) of subsection (a)(2) shall not apply to an individual described in paragraph (2) or (3).
 
-&emsp;&emsp;(A) such individual is described in a subparagraph of paragraph (2) of this subsection, and
+#### (2) Dual citizens
 
-&emsp;&emsp;(B) within the 1-year period beginning on the date of the loss of United States citizenship, such individual submits a ruling request for the Secretary's determination as to whether such loss has for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B.
+#### (A) In general
 
-#### (2) Individuals described
+&emsp;&emsp;An individual is described in this paragraph if—
 
-#### (A) Dual citizenship, etc.
+&emsp;&emsp;&emsp;(i) the individual became at birth a citizen of the United States and a citizen of another country and continues to be a citizen of such other country, and
 
-&emsp;&emsp;An individual is described in this subparagraph if—
+&emsp;&emsp;&emsp;(ii) the individual has had no substantial contacts with the United States.
 
-&emsp;&emsp;&emsp;(i) the individual became at birth a citizen of the United States and a citizen of another country and continues to be a citizen of such other country, or
+#### (B) Substantial contacts
 
-&emsp;&emsp;&emsp;(ii) the individual becomes (not later than the close of a reasonable period after loss of United States citizenship) a citizen of the country in which—
+&emsp;&emsp;An individual shall be treated as having no substantial contacts with the United States only if the individual—
 
-&emsp;&emsp;&emsp;&emsp;(I) such individual was born,
+&emsp;&emsp;&emsp;(i) was never a resident of the United States (as defined in section 7701(b)),
 
-&emsp;&emsp;&emsp;&emsp;(II) if such individual is married, such individual's spouse was born, or
+&emsp;&emsp;&emsp;(ii) has never held a United States passport, and
 
-&emsp;&emsp;&emsp;&emsp;(III) either of such individual's parents were born.
+&emsp;&emsp;&emsp;(iii) was not present in the United States for more than 30 days during any calendar year which is 1 of the 10 calendar years preceding the individual's loss of United States citizenship.
 
-#### (B) Long-term foreign residents
+#### (3) Certain minors
 
-&emsp;&emsp;An individual is described in this subparagraph if, for each year in the 10-year period ending on the date of loss of United States citizenship, the individual was present in the United States for 30 days or less. The rule of section 7701(b)(3)(D)(ii) shall apply for purposes of this subparagraph.
+&emsp;An individual is described in this paragraph if—
 
-#### (C) Renunciation upon reaching age of majority
+&emsp;&emsp;(A) the individual became at birth a citizen of the United States,
 
-&emsp;&emsp;An individual is described in this subparagraph if the individual's loss of United States citizenship occurs before such individual attains age 181/2.
+&emsp;&emsp;(B) neither parent of such individual was a citizen of the United States at the time of such birth,
 
-#### (D) Individuals specified in regulations
+&emsp;&emsp;(C) the individual's loss of United States citizenship occurs before such individual attains age 181/2, and
 
-&emsp;&emsp;An individual is described in this subparagraph if the individual is described in a category of individuals prescribed by regulation by the Secretary.
+&emsp;&emsp;(D) the individual was not present in the United States for more than 30 days during any calendar year which is 1 of the 10 calendar years preceding the individual's loss of United States citizenship.
 
 #### (d) Special rules for source, etc.
 
@@ -110,7 +112,7 @@ For purposes of subsection (b)—
 
 #### (C) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with the Secretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) during such 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
+&emsp;&emsp;Subparagraph (A) shall not apply if the individual enters into an agreement with the Secretary which specifies that any income or gain derived from the property acquired in the exchange (or any other property which has a basis determined in whole or part by reference to such property) duringsuch 10-year period shall be treated as from sources within the United States. If the property transferred in the exchange is disposed of by the person acquiring such property, such agreement shall terminate and any gain which was not recognized by reason of such agreement shall be recognized as of the date of such disposition.
 
 #### (D) Secretary may extend period
 
@@ -186,7 +188,7 @@ For purposes of subsection (b)—
 
 #### (2) Long-term resident
 
-&emsp;For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described insubparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+&emsp;For purposes of this subsection, the term “long-term resident” means any individual\(other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
 
 #### (3) Special rules
 
@@ -210,17 +212,61 @@ For purposes of subsection (b)—
 
 If the Secretary establishes that it is reasonable to believe that an individual's loss of United States citizenship would, but for this section, result in a substantial reduction for the taxable year in the taxes on his probable income for such year, the burden of proving for such taxable year that such loss of citizenship did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle B shall be on such individual.
 
-(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096.)
+#### (g) Physical presence
 
-#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2004
+#### (1) In general
 
-<i>For adjustment of average annual net income tax and net worth amounts under subsection (a)(2) of this section for calendar year 2004, see section 3.24 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+&emsp;This section shall not apply to any individual to whom this section would otherwise apply for any taxable year during the 10-year period referred to in subsection (a) in which such individual is physically present in the United States at any time on more than 30 days in the calendar year ending in such taxable year, and such individual shall be treated for purposes of this title as a citizen or resident of the United States, as the case may be, for such taxable year.
+
+#### (2) Exception
+
+#### (A) In general
+
+&emsp;&emsp;In the case of an individual described in any of the following subparagraphs of this paragraph, a day of physical presence in the United States shall be disregarded if the individual is performing services in the United States on such day for an employer. The preceding sentence shall not apply if—
+
+&emsp;&emsp;&emsp;(i) such employer is related (within the meaning of section 267 and 707) to such individual, or
+
+&emsp;&emsp;&emsp;(ii) such employer fails to meet such requirements as the Secretary may prescribe by regulations to prevent the avoidance of the purposes of this paragraph.
+
+> &emsp;&emsp;Not more than 30 days during any calendar year may be disregarded under this subparagraph.
+
+#### (B) Individuals with ties to other countries
+
+&emsp;&emsp;An individual is described in this subparagraph if—
+
+&emsp;&emsp;&emsp;(i) the individual becomes (not later than the close of a reasonable period after loss of United States citizenship or termination of residency) a citizen or resident of the country in which—
+
+&emsp;&emsp;&emsp;&emsp;(I) such individual was born,
+
+&emsp;&emsp;&emsp;&emsp;(II) if such individual is married, such individual's spouse was born, or
+
+&emsp;&emsp;&emsp;&emsp;(III) either of such individual's parents were born, and
+
+&emsp;&emsp;&emsp;(ii) the individual becomes fully liable for income tax in such country.
+
+#### (C) Minimal prior physical presence in the United States
+
+&emsp;&emsp;An individual is described in this subparagraph if, for each year in the 10-year period ending on the date of loss of United States citizenship or termination of residency, the individual was physically present in the United States for 30 days or less. The rule of section 7701(b)(3)(D) shall apply for purposes of this subparagraph.
+
+(Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096; Pub. L. 108–357, title VIII, §804(a)(1), (2), (c), Oct. 22, 2004, 118 Stat. 1569, 1570; Pub. L. 109–135, title IV, §403(v)(1), Dec. 21, 2005, 119 Stat. 2628.)
+
+#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2006
+
+<i>For adjustment of average annual net income tax and net worth amounts under subsection</i><i>(a)(2) of this section for calendar year 2006, see section 3.26 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
 A prior section 877 was renumbered section 878 of this title.
 
 #### Amendments
+
+2005—Subsec. (g)(2)(C). Pub. L. 109–135 substituted “section 7701(b)(3)(D)” for “section 7701(b)(3)(D)(ii)”.
+
+2004—Subsec. (a). Pub. L. 108–357, §804(a)(1), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, subsec. (a) stated general rule on taxation of nonresident alien individuals who lost United States citizenship and provided that an individual would be treated as having a tax avoidance purpose if the average annual net income tax was greater than $100,000 or the net worth of the individual was $500,000 or more.
+
+Subsec. (c). Pub. L. 108–357, §804(a)(2), amended heading and text of subsec. (c) generally, substituting provisions setting forth exceptions for dual citizens and certain minors for provisions relating to inapplicability of presumption of tax avoidance to dual citizens, long-term foreign residents, minors who renounced citizenship upon reaching age of majority, and individuals specified in regulations.
+
+Subsec. (g). Pub. L. 108–357, §804(c), added subsec. (g).
 
 1997—Subsec. (d)(2)(B). Pub. L. 105–34, §1602(g)(1), substituted “the 10-year period beginning on the date the individual loses United States citizenship” for “the 10-year period described in subsection (a)” in introductory provisions.
 
@@ -288,6 +334,14 @@ Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesig
 
 1974—Subsec. (b). Pub. L. 93–406 inserted reference to section 402(e)(1).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §804(f), Oct. 22, 2004, 118 Stat. 1573, provided that: “The amendments made by this section \[amending this section and sections 2107, 2501, 6039G, and 7701 of this title\] shall apply to individuals who expatriate after June 3, 2004.”
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
@@ -353,10 +407,6 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 #### Plan Amendments Not Required Until January 1, 1994
 
 For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2, 121, 865, 894, 2057, 2107, 2501, 3405, 6039G, 7701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “section”.</i>
 

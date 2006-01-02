@@ -26,3 +26,19 @@ Par. (3). Pub. L. 98–94, §1268(11)(F), substituted “Advanced” for “adva
 
 Pub. L. 98–94, §1003(a)(1), inserted parenthetical provision relating to a fifth academic year or a combination of a fifth academic year and summer sessions.
 
+#### Promotion of Foreign Language Skills Among Members of the Reserve Officers’ Training Corps
+
+Pub. L. 109–163, div. A, title V, §535, Jan. 6, 2006, 119 Stat. 3249, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense shall support the acquisition of foreign language skills among cadets and midshipmen in the Reserve Officers’ Training Corps, including through the development and implementation of—
+
+&emsp;“(1) incentives for cadets and midshipmen to participate in study of a foreign language, including special emphasis for Arabic, Chinese, and other ‘strategic languages’, as defined by the Secretary of Defense in consultation with other relevant agencies; and
+
+&emsp;“(2) a recruiting strategy to target foreign language speakers, including members of heritage communities, to participate in the Reserve Officers’ Training Corps.
+
+“(b)
+
+Report Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary shall submit to the Committee on Armed Services \[of\] the Senate and the Committee on Armed Services of the House of Representatives a report on the actions taken to carry out this section.”
+

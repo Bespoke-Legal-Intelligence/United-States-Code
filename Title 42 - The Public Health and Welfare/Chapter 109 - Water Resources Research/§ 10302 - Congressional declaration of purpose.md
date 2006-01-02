@@ -1,6 +1,6 @@
 ### §10302. Congressional declaration of purpose
 
-It is the purpose of this chapter to assist the Nation and the States in augmenting their water resources science and technology as a way to—
+It is the purpose of this chapter to assist the Nation and the States in augmenting theirwater resources science and technology as a way to—
 
 &emsp;(1) assure supplies of water sufficient in quantity and quality to meet the Nation's expanding needs for the production of food, materials, and energy;
 

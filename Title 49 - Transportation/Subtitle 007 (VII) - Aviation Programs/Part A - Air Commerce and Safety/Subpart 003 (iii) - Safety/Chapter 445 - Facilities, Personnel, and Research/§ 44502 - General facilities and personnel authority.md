@@ -252,9 +252,11 @@ Certification.—Not later than 180 days after the conclusion of work under the 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 108–447, div. H, title I, §101, Dec. 8, 2004, 118 Stat. 3203, provided that: “Notwithstanding any other provision of law, airports may transfer without consideration to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That, the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
+Pub. L. 109–115, div. A, title I, §101, Nov. 30, 2005, 119 Stat. 2401, provided that: “Notwithstanding any other provision of law, airports may transfer without consideration to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. H, title I, §101, Dec. 8, 2004, 118 Stat. 3203.
 
 Pub. L. 108–199, div. F, title I, §101, Jan. 23, 2004, 118 Stat. 284.
 
@@ -278,7 +280,7 @@ Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by
 
 #### Cost Savings Associated With Purchase
 
-Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
+Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of suchequipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
 
 #### Grandfather Provision for FAA Demonstration Project
 

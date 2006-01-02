@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Alien Registration Act, 1940, referred to in subsecs. (a) and (b), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Sections 30 and 31 of that act were classified to sections 451 and 452 of this title and were repealed by section 403(a)(39) of act June 27, 1952.
+The Alien Registration Act, 1940, referred to in subsecs. (a) and (b), is act June 28, 1940, ch. 439, 54 Stat. 670,as amended. Sections 30 and 31 of that act were classified to sections 451 and 452 of this title and were repealed by section 403(a)(39) of act June 27, 1952.
 
 #### Amendments
 
@@ -38,5 +38,5 @@ Section effective 180 days after June 27, 1952, see section 407 of act June 27, 
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

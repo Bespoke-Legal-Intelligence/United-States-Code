@@ -16,7 +16,7 @@ When used in this Act:
 
 &emsp;(A) if such individual has received contributions aggregating in excess of $5,000 or has made expenditures aggregating in excess of $5,000; or
 
-&emsp;(B) if such individual has given his or her consent to another person to receive contributions or make expenditures on behalf of such individual and if such person has received such contributions aggregating in excess of $5,000 or has made such expenditures aggregating in excess of $5,000.
+&emsp;(B) if such individual has given his or her consent to another person to receive contributions or make expenditures on behalf of suchindividual and if such person has received such contributions aggregating in excess of $5,000 or has made such expenditures aggregating in excess of $5,000.
 
 (3) The term “Federal office” means the office of President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress.
 
@@ -44,7 +44,7 @@ When used in this Act:
 
 &emsp;(i) the value of services provided without compensation by any individual who volunteers on behalf of a candidate or political committee;
 
-&emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, tothe extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
@@ -108,7 +108,7 @@ When used in this Act:
 
 &emsp;(iii) any communication by any membership organization or corporation to its members, stockholders, or executive or administrative personnel, if such membership organization or corporation is not organized primarily for the purpose of influencing the nomination for election, or election, of any individual to Federal office, except that the costs incurred by a membership organization (including a labor organization) or by a corporation directly attributable to a communication expressly advocating the election or defeat of a clearly identified candidate (other than a communication primarily devoted to subjects other than the express advocacy of the election or defeat of a clearly identified candidate), shall, if such costs exceed $2,000 for any election, be reported to the Commission in accordance with section 434(a)(4)(A)(i) of this title, and in accordance with section 434(a)(4)(A)(ii) of this title with respect to any general election;
 
-&emsp;(iv) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to costs incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
+&emsp;(iv) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held inthe State in which such committee is organized, except that this clause shall not apply to costs incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
 &emsp;(v) any payment made or obligation incurred by a corporation or a labor organization which, under section 441b(b) of this title, would not constitute an expenditure by such corporation or labor organization;
 
@@ -130,7 +130,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(ix) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf ofnominees of such party for President and Vice President: <i>Provided</i>, That—
+&emsp;(ix) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -260,7 +260,7 @@ The Federal Election Campaign Act of 1971, as amended, referred to in par. (19),
 
 #### Amendments
 
-2002—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv), respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
+2002—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv),respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
 
 Par. (17). Pub. L. 107–155, §211, added par. (17) and struck out former par. (17) which read as follows: “The term ‘independent expenditure’ means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or any authorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.”
 
@@ -294,7 +294,7 @@ Subsec. (a)(5). Pub. L. 93–443, §201(a)(2), struck out from definition of “
 
 Subsec. (d). Pub. L. 93–443, §201(a)(3), inserted reference to “club,” before “association” and substituted “other group of persons” and “receives” for “organization” and “accepts”.
 
-Subsec. (e). Pub. L. 93–443, §201(a)(4), transferred the word “means” after introductory word “contribution” to become the initial word in pars. (1) to (4); in par. (1), incorporated existing provisions in provisions designated subpars. (A) and (B), and deleted former provisions respecting contributions for the purpose of influencing the nomination for election, or election, of anyperson as a presidential election or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States; in par. (2), provided for express or implied transactions; in par. (3), substitution of “funds received by a political committee which are transferred to such committee from another political committee or other source” for “a transfer of funds between political committees”; inserted at end of par. (4) the word “but”; and added par. (5.)
+Subsec. (e). Pub. L. 93–443, §201(a)(4), transferred the word “means” after introductory word “contribution” to become the initial word in pars. (1) to (4); in par. (1), incorporated existing provisions in provisions designated subpars. (A) and (B), and deleted former provisions respecting contributions for the purpose of influencing the nomination for election, or election, of any person as a presidential election or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States; in par. (2), provided for express or implied transactions; in par. (3), substitution of “funds received by a political committee which are transferred to such committee from another political committee or other source” for “a transfer of funds between political committees”; inserted at end of par. (4) the word “but”; and added par. (5.)
 
 Subsec. (f). Pub. L. 93–443, §201(a)(5), transferred the word “means” following introductory word “expenditure” to become the initial word in pars. (1) to (3); in par. (1), incorporated existing provisions in provisions designated subpars. (A) to (C) and deleted end text reading “, or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States”; in par. (2), provided for express or implied transactions; in par. (3), substituted “the transfer of funds by a political committee to another political committee; but” for “a transfer of funds between political committees”; and added par. (4).
 
@@ -336,7 +336,7 @@ Soft Money of National Political Parties.—
 
 &emsp;“(1)
 
-In general.—Except for subsection (b) of such section, section 323 of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i\] (as added by section 101(a)) shall take effect on November 6, 2002.
+In general.—Except for subsection (b) of such section, section 323 of the Federal Election CampaignAct of 1971 \[2 U.S.C. 441i\] (as added by section 101(a)) shall take effect on November 6, 2002.
 
 &emsp;“(2)
 
@@ -416,7 +416,7 @@ Section 1 of Pub. L. 96–187 provided: “That this Act \[amending this section
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–283 provided that: “This Act \[enacting sections 441a to 441j of this title, amending this section and sections 432, 434, 436, 437b to 439c, and 455 of this title, section 591 of Title 18, Crimes and Criminal Procedure, and sections 9002, 9003, 9004, 9006, 9007, 9008, 9009, 9012, 9032, 9033, 9034, 9035, and 9039 of Title 26, Internal Revenue Code, repealing sections 437a, 441, and 456 of this title and sections 608, 610, 611, 612, 613, 614, 615, 616, and 617 of Title 18, and enacting provisions set out as notes under sections 437c, 437f, and 441 of this title and sections 9002, 9004, and 9035 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1976’.”
+Section 1 of Pub. L. 94–283 provided that: “This Act \[enacting sections 441a to 441j of this title, amending this section and sections 432, 434, 436, 437b to 439c, and455 of this title, section 591 of Title 18, Crimes and Criminal Procedure, and sections 9002, 9003, 9004, 9006, 9007, 9008, 9009, 9012, 9032, 9033, 9034, 9035, and 9039 of Title 26, Internal Revenue Code, repealing sections 437a, 441, and 456 of this title and sections 608, 610, 611, 612, 613, 614, 615, 616, and 617 of Title 18, and enacting provisions set out as notes under sections 437c, 437f, and 441 of this title and sections 9002, 9004, and 9035 of Title 26\] may be cited as the ‘Federal Election Campaign Act Amendments of 1976’.”
 
 #### Short Title of 1974 Amendment
 
@@ -458,7 +458,7 @@ In general.—The Comptroller General shall conduct a study of the clean money c
 
 Matters studied.—
 
-&emsp;&emsp;(A)
+&emsp;&emsp;“(A)
 
 Statistics on clean money clean elections candidates.—The Comptroller General shall determine—
 

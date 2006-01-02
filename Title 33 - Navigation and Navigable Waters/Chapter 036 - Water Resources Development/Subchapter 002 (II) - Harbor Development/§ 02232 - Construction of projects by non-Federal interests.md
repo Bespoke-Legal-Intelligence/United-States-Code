@@ -20,7 +20,7 @@ Any non-Federal interest which has requested and received from the Secretary pur
 
 #### (1) General rule
 
-&emsp;Subject to the enactment of appropriation Acts, the Secretary is authorized to reimburse any non-Federal interest an amount equal to the estimate of Federal share, without interest, of the cost of any authorized harbor or inland harbor improvement, or separable element thereof, including any small navigation project approved pursuant to section 577 of this title, constructed under the terms of this section if—
+&emsp;Subject to the enactment of appropriation Acts, the Secretary is authorized to reimburse any non-Federal interest an amount equal to the estimate of Federal share, without interest, of the cost of any authorized harbor or inland harbor improvement, or separable element thereof, including any small navigationproject approved pursuant to section 577 of this title, constructed under the terms of this section if—
 
 &emsp;&emsp;(A) after authorization of the project (or, in the case of a small navigation project, after completion of a favorable project report by the Corps of Engineers) and before initiation of construction of the project or separable element—
 

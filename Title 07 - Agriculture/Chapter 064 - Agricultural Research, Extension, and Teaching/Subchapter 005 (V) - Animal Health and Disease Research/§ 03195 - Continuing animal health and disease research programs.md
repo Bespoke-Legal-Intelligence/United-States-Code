@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 2007, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall beused: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
+There are authorized to be appropriated such funds as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 for each of the fiscal years 1991 through 2007, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year. Funds appropriated under this section shall be used: (1) to meet expenses of conducting animal health and disease research, publishing and disseminating the results of such research, and contributing to the retirement of employees subject to the provisions of section 331 of this title; (2) for administrative planning and direction; and (3) to purchase equipment and supplies necessary for conducting such research.
 
 #### (b) Apportionment of appropriated funds
 
@@ -24,7 +24,7 @@ When the amount available under this section for allotment to any State on the b
 
 #### (e) Reallocation of funds to new colleges of veterinary medicine
 
-Whenever a new college of veterinary medicine is established in a State and is accredited, the Secretary, after consultation with the dean of such college and the director of the State agricultural experiment station and, where applicable, deans of other accredited colleges in the State, shall provide for the reallocation of funds available to the State pursuant to subsection (b) of this section between the new college and other eligible institutions in the State, based on the animal health research capacity of each eligible institution.
+Whenever a new college of veterinary medicine is established in a State and is accredited,the Secretary, after consultation with the dean of such college and the director of the State agricultural experiment station and, where applicable, deans of other accredited colleges in the State, shall provide for the reallocation of funds available to the State pursuant to subsection (b) of this section between the new college and other eligible institutions in the State, based on the animal health research capacity of each eligible institution.
 
 #### (f) Joint establishment or support of accredited regional college of veterinary medicine
 

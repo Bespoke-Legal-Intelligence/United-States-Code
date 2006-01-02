@@ -8,7 +8,7 @@
 
 (3) Fellowships shall be awarded to outstanding graduate students who intend to pursue advanced degrees in mathematics and the natural sciences.
 
-(4) The Foundation may provide, directly or by contract, for the conduct of nationwide competition for the purpose of selecting recipients of scholarships and fellowships awarded under this chapter.
+(4) The Foundation may provide, directly or by contract, for the conduct of nationwide competition for the purpose of selecting recipientsof scholarships and fellowships awarded under this chapter.
 
 #### (b) Barry Goldwater Scholars
 

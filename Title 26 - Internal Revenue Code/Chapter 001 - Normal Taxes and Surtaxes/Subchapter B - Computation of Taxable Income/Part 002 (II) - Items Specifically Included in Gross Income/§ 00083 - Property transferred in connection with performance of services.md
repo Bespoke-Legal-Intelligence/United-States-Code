@@ -44,6 +44,8 @@ For purposes of this section—
 
 &emsp;&emsp;(B) not transferable.
 
+&emsp;(4) For purposes of determining an individual's basis in property transferred in connection with the performance of services, rules similar to the rules of section 72(w) shall apply.
+
 #### (d) Certain restrictions which will never lapse
 
 #### (1) Valuation
@@ -96,13 +98,15 @@ If property to which subsection (a) applies is exchanged for property subject to
 
 In the case of a transfer of property to which this section applies or a cancellation of a restriction described in subsection (d), there shall be allowed as a deduction under section 162, to the person for whom were performed the services in connection with which such property was transferred, an amount equal to the amount included under subsection (a), (b), or (d)(2) in the gross income of the person who performed such services. Such deduction shall be allowed for the taxable year of such person in which or with which ends the taxable year in which such amount is included in the gross income of the person who performed such services.
 
-(Added Pub. L. 91–172, title III, §321(a), Dec. 30, 1969, 83 Stat. 588; amended Pub. L. 94–455, title XIX, §§1901(a)(15), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–34, title II, §252(a), Aug. 13, 1981, 95 Stat. 260; Pub. L. 97–448, title I, §102(k)(1), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title II, §223(c), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XVIII, §1827(e), Oct. 22, 1986, 100 Stat. 2851; Pub. L. 101–508, title XI, §11801(a)(5), Nov. 5, 1990, 104 Stat. 1388–520.)
+(Added Pub. L. 91–172, title III, §321(a), Dec. 30, 1969, 83 Stat. 588; amended Pub. L. 94–455, title XIX, §§1901(a)(15), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–34, title II, §252(a), Aug. 13, 1981, 95 Stat. 260; Pub. L. 97–448, title I, §102(k)(1), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title II, §223(c), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XVIII, §1827(e), Oct. 22, 1986, 100 Stat. 2851; Pub. L. 101–508, title XI, §11801(a)(5), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 108–357, title VIII, §906(b), Oct. 22, 2004, 118 Stat. 1654.)
 
 #### References in Text
 
 Section 16(b) of the Securities Exchange Act of 1934, referred to in subsec. (c)(3), is classified to section 78p(b) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2004—Subsec. (c)(4). Pub. L. 108–357 added par. (4).
 
 1990—Subsec. (i). Pub. L. 101–508 struck out subsec. (i) “Transition rules” which read as follows: “This section shall apply to property transferred after June 30, 1969, except that this section shall not apply to property transferred—
 
@@ -128,6 +132,10 @@ Section 16(b) of the Securities Exchange Act of 1934, referred to in subsec. (c)
 
 Subsec. (d)(1), (2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to distributions on or after Oct. 22, 2004, see section 906(c) of Pub. L. 108–357, set out as a note under section 72 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
@@ -150,11 +158,11 @@ Amendment by section 1901(a)(15) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date
 
-Section 321(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) and (c) \[amending sections 402, 403, and 404 of this title\] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) \[enacting this section\] shall apply with respect to contributions made and premiums paid after August 1, 1969.”
+Section 321(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) and (c) \[amendingsections 402, 403, and 404 of this title\] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) \[enacting this section\] shall apply with respect to contributions made and premiums paid after August 1, 1969.”
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -168,7 +176,7 @@ Section 1879(p) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 
 &emsp;“(A) such transfer occurred in November or December of 1973 and was pursuant to the exercise of an option granted in November or December of 1971,
 
-&emsp;“(B) in December 1973 the corporation granting the option was acquired by another corporation in atransaction qualifying as a reorganization under section 368 of the Internal Revenue Code of 1954 \[now 1986\],
+&emsp;“(B) in December 1973 the corporation granting the option was acquired by another corporation in a transaction qualifying as a reorganization under section 368 of the Internal Revenue Code of 1954 \[now 1986\],
 
 &emsp;“(C) the fair market value (as of July 1, 1974) of the stock received by such person in the reorganization in exchange for the stock transferred to him pursuant to the exercise of such option was less than 50 percent of the fair market value of the stock so received (as of December 4, 1973),
 
@@ -205,8 +213,4 @@ Section 556 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVII
 #### Property Subject to Transfer Restrictions To Comply With “Pooling-of-Interests Accounting” Rules
 
 Section 252(b) of Pub. L. 97–34, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided, effective with respect to taxable years ending after Dec. 31, 1981, that: “For purposes of section 83 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], property is subject to substantial risk of forfeiture and is not transferable so long as such property is subject to a restriction on transfer to comply with the “Pooling-of-Interests Accounting” rules set forth in Accounting Series Release Numbered 130 ((10/5/72) 37 FR 20937; 17 CFR 211.130) and Accounting Series Release Numbered 135 ((1/18/73) 38 FR 1734; 17 CFR 211.135).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402, 403, 419, 422A, 457, 1042, 3121 of this title.
 

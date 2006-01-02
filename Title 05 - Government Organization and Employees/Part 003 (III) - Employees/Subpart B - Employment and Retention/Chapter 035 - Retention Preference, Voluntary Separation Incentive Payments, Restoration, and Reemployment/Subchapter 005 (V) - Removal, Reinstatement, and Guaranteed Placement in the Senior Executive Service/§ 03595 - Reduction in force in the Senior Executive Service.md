@@ -10,9 +10,9 @@
 
 &emsp;(A) is entitled to be assigned by the head of that agency to a vacant Senior Executive Service position for which the career appointee is qualified; or
 
-&emsp;(B) if the agency head certifies, in writing, to the Office of Personnel Management thatno such position is available in the agency, shall be placed by the Office in any agency in any vacant Senior Executive Service position unless the head of that agency determines that the career appointee is not qualified for that position.
+&emsp;(B) if the agency head certifies, in writing, to the Office of Personnel Management that no such position is available in the agency, shall be placed by the Office in any agency in any vacant Senior Executive Service position unless the head of that agency determines that the career appointee is not qualified for that position.
 
-> The Office of Personnel Management shall take all reasonable steps to place a career appointee under subparagraph (B) and may require any agency to take any action which the Office considers necessary to carry out any such placement.
+> The Office of Personnel Management shall take all reasonable steps to place a career appointeeunder subparagraph (B) and may require any agency to take any action which the Office considers necessary to carry out any such placement.
 
 (4) A career appointee who is not assigned under paragraph (3)(A) may be removed from the Senior Executive Service due to a reduction in force if the career appointee declines a reasonable offer for placement in a Senior Executive Service position under paragraph (3)(B).
 

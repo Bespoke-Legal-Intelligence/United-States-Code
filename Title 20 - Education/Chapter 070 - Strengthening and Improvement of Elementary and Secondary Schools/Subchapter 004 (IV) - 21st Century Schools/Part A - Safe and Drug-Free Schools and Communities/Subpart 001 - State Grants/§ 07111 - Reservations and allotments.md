@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) one-half of the remainder not reserved under subsection (a) of this section according to the ratio between the school-aged population of each State and the school-aged population of all the States; and
 
-&emsp;&emsp;(B) one-half of such remainder according to the ratio between the amount each Statereceived under section 6334 of this title for the preceding year and the sum of such amounts received by all the States.
+&emsp;&emsp;(B) one-half of such remainder according to the ratio between the amount each State received under section 6334 of this title for the preceding year and the sum of such amounts received by all the States.
 
 #### (2) Minimum
 

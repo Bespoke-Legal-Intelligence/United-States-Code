@@ -44,7 +44,7 @@ Section 3 of Pub. L. 93–300 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1936 Amendment
 
-Section 1 of act June 20, 1936, in conjunction with sections 2 to 5 of that act, provided that the amendment of this section and sections 704, 705, 707, 708 and the enactment of section 709a of this title by that act, are effective as of the day on which the President shall proclaim the exchange of ratifications of the conventionbetween the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937.
+Section 1 of act June 20, 1936, in conjunction with sections 2 to 5 of that act, provided that the amendment of this section and sections 704, 705, 707, 708 and the enactment of section 709a of this title by that act, are effective as of the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937.
 
 #### Publication of List
 

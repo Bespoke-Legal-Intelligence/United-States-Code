@@ -36,7 +36,9 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(25), Oct. 13, 1964, 78 Stat. 1073; Pub. L. 98–525, title V, §§541(c), 542(d), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(c), Nov. 8, 1985, 99 Stat. 625; Pub. L. 101–189, div. A, title V, §511(d), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(c), Feb. 10, 1996, 110 Stat. 314.)
+(f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under section <sup>1</sup> (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 565; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(25), Oct. 13, 1964, 78 Stat. 1073; Pub. L. 98–525, title V, §§541(c), 542(d), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(c), Nov. 8, 1985, 99 Stat. 625; Pub. L. 101–189, div. A, title V, §511(d), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(c), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(11), Jan. 6, 2006, 119 Stat. 3335.)
 
 Historical and Revision Notes
 
@@ -55,6 +57,8 @@ June 30, 1950, ch. 421, §3, 64 Stat. 304.
 The word “agreement” is substituted for the word “articles”. The words “Hereafter”, “appointed to the United States Military Academy”, “engage”, and 10: 1092c (1st 25 words of clause (2) are omitted as surplusage. The word “separated” is substituted for the words “discharged by competent authority”. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only when accepted. The first 32 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have”.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
 1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
@@ -106,5 +110,11 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 
 #### Regulations Implementing 1985 Amendment
 
-Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub.L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+Secretary of the Air Force to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 4348 of this title.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

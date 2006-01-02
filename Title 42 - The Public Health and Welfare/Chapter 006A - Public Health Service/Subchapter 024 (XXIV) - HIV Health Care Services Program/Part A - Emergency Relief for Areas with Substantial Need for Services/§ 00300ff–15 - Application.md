@@ -18,7 +18,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;(5) that entities within the eligible area that will receive funds under a grant provided under section 300ff–11(a) of this title shall participate in an established HIV community-based continuum of care if such continuum exists within the eligible area;
 
-&emsp;(6) that funds received under a grant awarded under this part will not be utilized to make payments for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to that item or service—
+&emsp;(6) that funds received under a grant awarded under this part will not be utilized to makepayments for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to that item or service—
 
 &emsp;&emsp;(A) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program; or
 
@@ -94,7 +94,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 &emsp;&emsp;&emsp;(ii) will impose the charge according to a schedule of charges that is made available to the public;
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent ofsuch poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 

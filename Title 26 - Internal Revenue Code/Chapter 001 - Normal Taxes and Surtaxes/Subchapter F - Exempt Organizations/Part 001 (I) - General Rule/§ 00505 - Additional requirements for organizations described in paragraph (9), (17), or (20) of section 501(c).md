@@ -54,7 +54,7 @@
 
 #### (7) Compensation limit
 
-&emsp;A plan shall not be treated as meeting the requirements of this subsection unless underthe plan the annual compensation of each employee taken into account for any year does not exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). This paragraph shall not apply in determining whether the requirements of section 79(d) are met.
+&emsp;A plan shall not be treated as meeting the requirements of this subsection unless under the plan the annual compensation of each employee taken into account for any year does not exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). This paragraph shall not apply in determining whether the requirements of section 79(d) are met.
 
 #### (c) Requirement that organization notify Secretary that it is applying for tax-exempt status
 
@@ -134,7 +134,7 @@ Subsec. (c)(2). Pub. L. 99–514, §1899A(16), substituted “July 18, 1984” f
 
 Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied andadministered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -181,8 +181,4 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 414, 419A, 4976 of this title.
 

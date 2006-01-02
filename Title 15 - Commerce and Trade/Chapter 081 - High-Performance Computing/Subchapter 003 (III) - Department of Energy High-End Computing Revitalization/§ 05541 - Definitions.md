@@ -32,3 +32,7 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 
 This section was enacted as part of the Department of Energy High-End Computing Revitalization Act of 2004 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 
+#### Short Title
+
+This subchapter known as the “Department of Energy High-End Computing Revitalization Act of 2004”, see Short Title note set out under section 5501 of this title.
+

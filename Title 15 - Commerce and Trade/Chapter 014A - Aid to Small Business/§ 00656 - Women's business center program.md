@@ -32,7 +32,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 &emsp;(1) financial assistance, including training and counseling in how to apply for and secure business credit and investment capital, preparing and presenting financial statements, and managing cash flow and other financial operations of a business concern;
 
-&emsp;(2) management assistance, including training and counseling in how to plan, organize,staff, direct, and control each major activity and function of a small business concern; and
+&emsp;(2) management assistance, including training and counseling in how to plan, organize, staff, direct, and control each major activity and function of a small business concern; and
 
 &emsp;(3) marketing assistance, including training and counseling in identifying and segmenting domestic and international market opportunities, preparing and executing marketing plans, developing pricing strategies, locating contract opportunities, negotiating contracts, and utilizing varying public relations and advertising techniques.
 
@@ -60,7 +60,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (d) Contract authority
 
-A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
+A women's business center may enter into a contract with a Federal department or agencyto provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
 
 #### (e) Submission of 5-year plan
 
@@ -110,7 +110,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 &emsp;&emsp;&emsp;&emsp;(I) administer and manage the Women's Business Center program;
 
-&emsp;&emsp;&emsp;&emsp;(II) recommend the annual administrative and program budgets for the Officeof Women's Business Ownership (including the budget for the Women's Business Center program);
+&emsp;&emsp;&emsp;&emsp;(II) recommend the annual administrative and program budgets for the Office of Women's Business Ownership (including the budget for the Women's Business Center program);
 
 &emsp;&emsp;&emsp;&emsp;(III) establish appropriate funding levels therefore <sup>1</sup> ;
 
@@ -242,7 +242,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (1) In general
 
-&emsp;There is established a 4-year pilot program under which the Administration is authorized to award grants (referred to in this section as “sustainability grants”) on a competitive basis for an additional 5-year project under this section to any private nonprofit organization (or a division thereof)—
+&emsp;There is established a 4-year pilot program under which the Administration is authorized to award grants (referred to in this section as “sustainability grants”) on a competitivebasis for an additional 5-year project under this section to any private nonprofit organization (or a division thereof)—
 
 &emsp;&emsp;(A) that has received financial assistance under this section pursuant to a grant, contract, or cooperative agreement; and
 
@@ -294,7 +294,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;&emsp;(i) to serve women business owners or potential owners in the future by improving fundraising and training activities; and
 
-&emsp;&emsp;&emsp;(ii) to provide training and services to a representative number of women who areboth socially and economically disadvantaged.
+&emsp;&emsp;&emsp;(ii) to provide training and services to a representative number of women who are both socially and economically disadvantaged.
 
 #### (3) Review of applications
 
@@ -394,7 +394,7 @@ Subsec. (h). Pub. L. 103–403, §412, added subsec. (h).
 
 #### Change of Name
 
-Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1999 Amendments
 

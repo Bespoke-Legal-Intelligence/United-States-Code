@@ -12,7 +12,7 @@
 
 (b) The Chief of Staff, while so serving, has the grade of general without vacating his permanent grade.
 
-(c) Except as otherwise prescribed by law and subject to section 8013(f) of this title, the Chief of Staff performs his duties under the authority, direction, and control of the Secretary of the Air Force and is directly responsible to the Secretary.
+(c) Except as otherwise prescribed by law and subject to section 8013(f) of this title, the Chiefof Staff performs his duties under the authority, direction, and control of the Secretary of the Air Force and is directly responsible to the Secretary.
 
 (d) Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief of Staff shall—
 

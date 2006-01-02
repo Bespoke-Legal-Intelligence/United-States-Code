@@ -6,7 +6,7 @@ The gain from the sale or other disposition of property shall be the excess of t
 
 #### (b) Amount realized
 
-The amount realized from the sale or other disposition of property shall be the sum of any money received plus the fair market value of the property (other than money) received. In determining the amount realized—
+The amount realized from the sale or other disposition of property shall be the sum of anymoney received plus the fair market value of the property (other than money) received. In determining the amount realized—
 
 &emsp;(1) there shall not be taken into account any amount received as reimbursement for real property taxes which are treated under section 164(d) as imposed on the purchaser, and
 
@@ -93,8 +93,4 @@ Section 516(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 #### Repeals
 
 Pub. L. 95–600, §702(c)(9), cited as a credit to this section, and the amendment made thereby, were repealed by Pub. L. 96–223, title IV, §401(a), 94 Stat. 299, resulting in the text of this section reading as it read prior to enactment of section 702(c)(9). See Effective Date of 1980 Amendment and Revival of Prior Law note set out above.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 167, 331, 368 of this title.
 

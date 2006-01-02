@@ -12,7 +12,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) is nonrecourse project-financed (as such term is defined by the Secretary of Energy within 3 months of November 15, 1990);
 
-&emsp;&emsp;(C) does not generate electric energy sold to any affiliate (as defined in section 79b(a)(11) of title 15) of the facility's owner or operator unless the owner or operator of the facility demonstrates that it cannot obtain allowances from the affiliate; and
+&emsp;&emsp;(C) does not generate electric energy sold to any affiliate (as defined in section 79b(a)(11) <sup>1</sup> of title 15) of the facility's owner or operator unless the owner or operator of the facility demonstrates that it cannot obtain allowances from the affiliate; and
 
 &emsp;&emsp;(D) is a new unit required to hold allowances under this subchapter.
 
@@ -72,7 +72,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 &emsp;&emsp;(D) has not received (within 180 days after submitting offers to purchase under subparagraph (C)) an acceptance of the offer to purchase the required allowances,
 
-> &emsp;shall, within 30 days after submission of such application, be entitled to receive the Administrator's written guarantee (subject to theeligibility requirements set forth in paragraph (4)) that such required allowances will be made available for purchase from the Direct Sale Subaccount established under this subsection and at a guaranteed price. The guaranteed price at which such allowances shall be made available for purchase shall be $1,500 per ton, adjusted by the percentage, if any, by which the Consumer Price Index (as determined under section 7661a(b)(3)(B)(v) of this title) for the year in which the allowance is purchased exceeds the Consumer Price Index for the calendar year 1990.
+> &emsp;shall, within 30 days after submission of such application, be entitled to receive the Administrator's written guarantee (subject to the eligibility requirements set forth in paragraph (4)) that such required allowances will be made available for purchase from the Direct Sale Subaccount established under this subsection and at a guaranteed price. The guaranteed price at which such allowances shall be made available for purchase shall be $1,500 per ton, adjusted by the percentage, if any, by which the Consumer Price Index (as determined under section 7661a(b)(3)(B)(v) of this title) for the year in which the allowance is purchased exceeds the Consumer Price Index for the calendar year 1990.
 
 #### (4) Eligibility requirements
 
@@ -195,4 +195,8 @@ Pursuant to rulemaking after public notice and comment the Administrator may at 
 The Administrator may terminate the withholding of allowances and the auction sales under this section if the Administrator determines that, during any period of 3 consecutive calendar years after 2002, less than 20 percent of the allowances available in the auction subaccount have been purchased. Pursuant to regulations under this section, the Administrator may by delegation or contract provide for the conduct of sales or auctions under the Administrator's supervision by other departments or agencies of the United States Government or by nongovernmental agencies, groups, or organizations.
 
 (July 14, 1955, ch. 360, title IV, §416, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2626.)
+
+#### References in Text
+
+Section 79b of title 15, referred to in subsec. (a)(2)(C), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. See section 16451(1) of this title.
 

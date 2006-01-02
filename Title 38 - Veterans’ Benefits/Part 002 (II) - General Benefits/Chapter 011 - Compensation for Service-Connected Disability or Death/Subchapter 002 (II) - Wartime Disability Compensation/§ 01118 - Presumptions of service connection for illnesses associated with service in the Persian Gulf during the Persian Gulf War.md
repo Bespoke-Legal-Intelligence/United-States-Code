@@ -12,7 +12,7 @@
 
 (4) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness include the signs and symptoms listed in section 1117(g) of this title.
 
-(b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), theSecretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
+(b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
 
 (B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
 

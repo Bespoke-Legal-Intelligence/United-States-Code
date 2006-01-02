@@ -92,9 +92,9 @@
 
 (B) This paragraph shall apply with respect to any individual whose continued coverage is based on a separation occurring on or after the date of enactment of this paragraph and before—
 
-&emsp;(i) October 1, 2006; or
+&emsp;(i) October 1, 2010; or
 
-&emsp;(ii) February 1, 2007, if specific notice of such separation was given to such individual before October 1, 2006.
+&emsp;(ii) February 1, 2011, if specific notice of such separation was given to such individual before October 1, 2010.
 
 (C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
 
@@ -128,7 +128,7 @@
 
 &emsp;(A) to any individual who—
 
-&emsp;&emsp;(i) if subparagraphs (A) and (C) of paragraph (10) of section 8901 were disregarded, would be eligible to be considered a former spouse within the meaning of such paragraph; but
+&emsp;&emsp;(i) if subparagraphs (A) and (C) of paragraph (10) of section 8901 were disregarded,would be eligible to be considered a former spouse within the meaning of such paragraph; but
 
 &emsp;&emsp;(ii) would not, but for this subsection, be eligible to be so considered; and
 
@@ -152,7 +152,7 @@
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, §1101(a), Oct. 28, 2004, 118 Stat. 2072.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, §1101(a), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–163, div. A, title XI, §1101, Jan. 6, 2006, 119 Stat. 3447.)
 
 #### References in Text
 
@@ -163,6 +163,10 @@ Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A),
 The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+
+2006—Subsec. (d)(4)(B)(i). Pub. L. 109–163, §1101(1), substituted “October 1, 2010” for “October 1, 2006”.
+
+Subsec. (d)(4)(B)(ii). Pub. L. 109–163, §1101(2), substituted “February 1, 2011” for “February 1, 2007” and “October 1, 2010” for “October 1, 2006”.
 
 2004—Subsec. (a). Pub. L. 108–375, §1101(a)(1), struck out “paragraph (1) or (2) of” after “Any individual described in”.
 

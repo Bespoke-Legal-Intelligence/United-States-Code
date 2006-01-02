@@ -134,7 +134,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (i) Low nonimmigrant visa refusal rate in previous 2-year period
 
-&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during the two previous full fiscal years was less than 2 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
+&emsp;&emsp;&emsp;The average number of refusals of nonimmigrant visitor visas for nationals of that country during the two previous fullfiscal years was less than 2 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years.
 
 #### (ii) Low nonimmigrant visa refusal rate in each of the 2 previous years
 
@@ -154,7 +154,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
-&emsp;&emsp;&emsp;&emsp;(II) shall determine, based upon the evaluation in subclause (I), whether anysuch designation ought to be continued or terminated under subsection (d) of this section; and
+&emsp;&emsp;&emsp;&emsp;(II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;(III) shall submit a written report to the Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate regarding the continuation or termination of the country's designation that includes an explanation of such determination and the effects described in subclause (I).
 
@@ -202,7 +202,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(i) nationals of a country whose designation is terminated under subparagraph (A) or (B) shall remain eligible for a waiver under subsection (a) of this section until the effective date of such termination; and
 
-&emsp;&emsp;&emsp;(ii) a waiver under this section that is provided to such a national for a period described in subsection (a)(1) of this section shall not, by such termination, be deemed to have been rescinded or otherwise rendered invalid, if the waiver is granted prior to such termination.
+&emsp;&emsp;&emsp;(ii) a waiver under this section that is provided to such a national for a period described in subsection (a)(1) of this section shall not, by such termination, be deemedto have been rescinded or otherwise rendered invalid, if the waiver is granted prior to such termination.
 
 #### (6) Computation of visa refusal rates
 
@@ -260,7 +260,7 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 #### (2) Termination of agreements
 
-&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domesticcorporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
 #### (3) Business aircraft requirements
 
@@ -568,7 +568,7 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Machine Readable Passports
 

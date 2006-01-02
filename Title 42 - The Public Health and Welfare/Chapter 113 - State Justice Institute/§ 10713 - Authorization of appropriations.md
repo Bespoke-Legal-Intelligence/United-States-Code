@@ -6,7 +6,7 @@ There are authorized to be appropriated to carry out the purposes of this chapte
 
 #### Amendments
 
-2004—Pub. L. 108–372 amended section generally, inserting section catchline and substituting provisionsauthorizing appropriations for fiscal years 2005 to 2008 for provisions authorizing appropriations for fiscal years 1993 to 1996.
+2004—Pub. L. 108–372 amended section generally, inserting section catchline and substituting provisions authorizing appropriations for fiscal years 2005 to 2008 for provisions authorizing appropriations for fiscal years 1993 to 1996.
 
 1992—Pub. L. 102–572 amended section generally. Prior to amendment, section authorized appropriations of $15,000,000 for each of fiscal years 1989, 1990, 1991, and 1992.
 

@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 104–182, §121(2), (3), redesignated subsec. (a)(2)(B) as
 
 &emsp;“(1) collect and make available information pertaining to research, investigations, and demonstrations with respect to providing a dependably safe supply of drinking water together with appropriate recommendations in connection therewith;
 
-&emsp;“(2) make available research facilities of the Agency to appropriate public authorities, institutions, andindividuals engaged in studies and research relating to the purposes of this subchapter;”.
+&emsp;“(2) make available research facilities of the Agency to appropriate public authorities, institutions, and individuals engaged in studies and research relating to the purposes of this subchapter;”.
 
 Subsecs. (b)(3), (c)(3). Pub. L. 104–182, §121(1), which directed redesignation of subsec. (b)(3) as par. (3) of subsec. (d) and transfer of that par. to follow par. (2) of subsec. (d), was executed by redesignating subsec. (b)(3) as par. (3) of subsec. (c) and transferring that par. to follow par. (2) of subsec. (c) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (c) by Pub. L. 104–66. See 1995 Amendment note below. Moreover, subsec. (d) does not have any pars.
 

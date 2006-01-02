@@ -14,7 +14,7 @@
 
 &emsp;(E) each amendment, revision, or repeal of the foregoing.
 
-> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to,or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
+> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in theFederal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
 
 (2) Each agency, in accordance with published rules, shall make available for public inspection and copying—
 
@@ -92,7 +92,7 @@
 
 &emsp;(ii) make a determination with respect to any appeal within twenty days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such appeal. If on appeal the denial of the request for records is in whole or in part upheld, the agency shall notify the person making such request of the provisions for judicial review of that determination under paragraph (4) of this subsection.
 
-(B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
+(B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension andthe date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
 
 (ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
 
@@ -132,7 +132,7 @@
 
 (iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
 
-(iv) A district court of the United States shall not have jurisdiction to review an agency denialof expedited processing of a request for records after the agency has provided a complete response to the request.
+(iv) A district court of the United States shall not have jurisdiction to review an agency denial of expedited processing of a request for records after the agency has provided a complete response to the request.
 
 (v) For purposes of this subparagraph, the term “compelling need” means—
 
@@ -250,7 +250,7 @@ In subsection (a)(1)(A), the words “employees (and in the case of a uniformed 
 
 In the last sentence of subsection (a)(2), the words “A final order \* \* \* may be relied on \* \* \* only if” are substituted for “No final order \* \* \* may be relied upon \* \* \* unless”; and the words “a party other than an agency” and “the party” are substituted for “a private party” and “the private party”, respectively, on authority of the definition of “private party” in 5 App. U.S.C. 1002(g).
 
-In subsection (a)(3), the words “the responsible employee, and in the case of a uniformed service, the responsible member” are substituted for “the responsible officers” to retain the coverage of Public Law 89–487 and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
+In subsection (a)(3), the words “the responsible employee, and in the case of a uniformed service, the responsible member” are substituted for “the responsible officers” to retain the coverage of Public Law 89–487and to conform to the definitions in 5 U.S.C. 2101, 2104, and 2105.
 
 In subsection (a)(4), the words “shall maintain and make available for public inspection a record” are substituted for “shall keep a record \* \* \* and that record shall be available for public inspection”.
 
@@ -370,13 +370,13 @@ In General.—Except as provided in subsection (b), this Act \[amending this sec
 
 “(b)
 
-Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effectone year after the date of the enactment of this Act \[Oct. 2, 1996\].”
+Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 2, 1996\].”
 
 #### Effective Date of 1986 Amendment
 
 Section 1804 of Pub. L. 99–570 provided that:
 
-“(a) The amendments made by section 1802 \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 27, 1986\], and shall apply with respect to any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
+“(a) The amendments made by section 1802 \[amending this section\] shall be effective on the date of enactment of this Act \[Oct. 27, 1986\], and shall apply with respectto any requests for records, whether or not the request was made prior to such date, and shall apply to any civil action pending on such date.
 
 “(b)(1) The amendments made by section 1803 \[amending this section\] shall be effective 180 days after the date of enactment of this Act \[Oct. 27, 1986\], except that regulations to implement such amendments shall be promulgated by such 180th day.
 
@@ -456,7 +456,7 @@ Pub. L. 108–7, div. J, title VI, §644, Feb. 20, 2003, 117 Stat. 473, provided
 
 #### Disclosure of Information on Japanese Imperial Government
 
-Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, as amended by Pub. L. 108–199, div. H, §163, Jan. 23, 2004, 118 Stat. 452, provided that:
+Pub. L. 106–567, title VIII, Dec. 27, 2000, 114 Stat. 2864, as amended by Pub. L. 108–199, div. H, §163, Jan. 23, 2004, 118 Stat. 452; Pub. L. 109–5, §1, Mar. 25, 2005, 119 Stat. 19, provided that:
 
 #### “SEC. 801. SHORT TITLE.
 
@@ -478,7 +478,7 @@ Interagency group.—The term ‘Interagency Group’ means the Nazi War Crimes 
 
 &emsp;“(3)
 
-Japanese imperial government records.—The term ‘Japanese Imperial Government records’ means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
+Japanese imperial government records.—The term ‘Japanese Imperial Government records’ means classified records or portions of records that pertain to any person with respect to whom the UnitedStates Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
 
 &emsp;&emsp;“(A) the Japanese Imperial Government;
 
@@ -498,7 +498,7 @@ Establishment of Interagency Group.—
 
 &emsp;“(1)
 
-In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2000\], the President shall designate the Working Group established under the Nazi War Crimes Disclosure Act (Public Law 105–246; 5 U.S.C. 552 note) to also carry out the purposes of this title with respect to Japanese Imperial Government records, and that Working Group shall remain in existence for 4 years after the date on which this title takes effect. Such Working Group is redesignated as the ‘Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group’.
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2000\], the President shall designate the Working Group established under the Nazi War Crimes Disclosure Act (Public Law 105–246; 5 U.S.C. 552 note) to also carry out the purposes of this title with respect to Japanese Imperial Government records, and that Working Group shall remain in existence for 6 years after the date on which this title takes effect. Such Working Group is redesignated as the ‘Nazi War Crimes and Japanese Imperial Government Records Interagency Working Group’.
 
 &emsp;“(2)
 
@@ -692,7 +692,7 @@ In general.—In applying the exemptions listed in subparagraphs (B) through (J)
 
 &emsp;&emsp;“(B)
 
-Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that appliesin the case of records withheld under section 552(b)(1) of title 5, United States Code.
+Application of title 5.—A determination by an agency head to apply an exemption listed in subparagraphs (B) through (I) of paragraph (2) shall be subject to the same standard of review that applies in the case of records withheld under section 552(b)(1) of title 5, United States Code.
 
 &emsp;“(4)
 
@@ -877,4 +877,124 @@ Sec. 4. <i>Administration</i>. (a) To the extent permitted by law and subject to
 (b) The Working Group shall terminate 3 years from the date of this Executive order.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13392. Improving Agency Disclosure of Information
+
+Ex. Ord. No. 13392, Dec. 14, 2005, 70 F.R. 75373, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and to ensure appropriate agency disclosure of information, and consistent with the goals of section 552 of title 5, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Policy.</i>
+
+(a) The effective functioning of our constitutional democracy depends upon the participation in public life of a citizenry that is well informed. For nearly four decades, the Freedom of Information Act (FOIA) \[5 U.S.C. 552\] has provided an important means through which the public can obtain information regarding the activities of Federal agencies. Under the FOIA, the public can obtain records from any Federal agency, subject to the exemptions enacted by the Congress to protect information that must be held in confidence for the Government to function effectively or for other purposes.
+
+(b) FOIA requesters are seeking a service from the Federal Government and should be treated as such. Accordingly, in responding to a FOIA request, agencies shall respond courteously and appropriately. Moreover, agencies shall provide FOIA requesters, and the public in general, with citizen-centered ways to learn about the FOIA process, about agency records that are publicly available (e.g., on the agency's website), and about the status of a person's FOIA request and appropriate information about the agency's response.
+
+(c) Agency FOIA operations shall be both results-oriented and produce results. Accordingly, agencies shall process requests under the FOIA in an efficient and appropriate manner and achieve tangible, measurable improvements in FOIA processing. When an agency's FOIA program does not produce such results, it should be reformed, consistent with available resources appropriated by the Congress and applicable law, to increase efficiency and better reflect the policy goals and objectives of this order.
+
+(d) A citizen-centered and results-oriented approach will improve service and performance, thereby strengthening compliance with the FOIA, and will help avoid disputes and related litigation.
+
+Sec. 2. <i>Agency Chief FOIA Officers.</i>
+
+(a) <i>Designation</i>. The head of each agency shall designate within 30 days of the date of this order a senior official of such agency (at the Assistant Secretary or equivalent level), to serve as the Chief FOIA Officer of that agency. The head of the agency shall promptly notify the Director of the Office of Management and Budget (OMB Director) and the Attorney General of such designation and of any changes thereafter in such designation.
+
+(b) <i>General Duties</i>. The Chief FOIA Officer of each agency shall, subject to the authority of the head of the agency:
+
+(i) have agency-wide responsibility for efficient and appropriate compliance with the FOIA;
+
+(ii) monitor FOIA implementation throughout the agency, including through the use of meetings with the public to the extent deemed appropriate by the agency's Chief FOIA Officer, and keep the head of the agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency's performance in implementing the FOIA, including the extent to which the agency meets the milestones in the agency's plan under section 3(b) of this order and training and reporting standards established consistent with applicable law and this order;
+
+(iii) recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to carry out the policy set forth in section 1 of this order;
+
+(iv) review and report, through the head of the agency, at such times and in such formats as the Attorney General may direct, on the agency's performance in implementing the FOIA; and
+
+(v) facilitate public understanding of the purposes of the FOIA's statutory exemptions by including concise descriptions of the exemptions in both the agency's FOIA handbook issued under section 552(g) of title 5, United States Code, and the agency's annual FOIA report, and by providing an overview, where appropriate, of certain general categories of agency records to which those exemptions apply.
+
+(c) <i>FOIA Requester Service Center and FOIA Public Liaisons</i>. In order to ensure appropriate communication with FOIA requesters:
+
+(i) Each agency shall establish one or more FOIA Requester Service Centers (Center), as appropriate, which shall serve as the first place that a FOIA requester can contact to seek information concerning the status of the person's FOIA request and appropriate information about the agency's FOIA response. The Center shall include appropriate staff to receive and respond to inquiries from FOIA requesters;
+
+(ii) The agency Chief FOIA Officer shall designate one or more agency officials, as appropriate, as FOIA Public Liaisons, who may serve in the Center or who may serve in a separate office. FOIA Public Liaisons shall serve as supervisory officials to whom a FOIA requester can raise concerns about the service the FOIA requester has received from the Center, following an initial response from the Center staff. FOIA Public Liaisons shall seek to ensure a service-oriented response to FOIA requests and FOIA-related inquiries. For example, the FOIA Public Liaison shall assist, as appropriate, in reducing delays, increasing transparency and understanding of the status of requests, and resolving disputes. FOIA Public Liaisons shall report to the agency Chief FOIA Officer on their activities and shall perform their duties consistent with applicable law and agency regulations;
+
+(iii) In addition to the services to FOIA requesters provided by the Center and FOIA Public Liaisons, the agency Chief FOIA Officer shall also consider what other FOIA-related assistance to the public should appropriately be provided by the agency;
+
+(iv) In establishing the Centers and designating FOIA Public Liaisons, the agency shall use, as appropriate, existing agency staff and resources. A Center shall have appropriate staff to receive and respond to inquiries from FOIA requesters;
+
+(v) As determined by the agency Chief FOIA Officer, in consultation with the FOIA Public Liaisons, each agency shall post appropriate information about its Center or Centers on the agency's website, including contact information for its FOIA Public Liaisons. In the case of an agency without a website, the agency shall publish the information on the Firstgov.gov website or, in the case of any agency with neither a website nor the capability to post on the Firstgov.gov website, in the Federal Register; and
+
+(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whether the agency's implementation of other means (such as tracking numbers for requests, or an agency telephone or Internet hotline) would be appropriate for responding to status inquiries.
+
+Sec. 3. <i>Review, Plan, and Report.</i>
+
+(a) <i>Review</i>. Each agency's Chief FOIA Officer shall conduct a review of the agency's FOIA operations to determine whether agency practices are consistent with the policies set forth in section 1 of this order. In conducting this review, the Chief FOIA Officer shall:
+
+(i) evaluate, with reference to numerical and statistical benchmarks where appropriate, the agency's administration of the FOIA, including the agency's expenditure of resources on FOIA compliance and the extent to which, if any, requests for records have not been responded to within the statutory time limit (backlog);
+
+(ii) review the processes and practices by which the agency assists and informs the public regarding the FOIA process;
+
+(iii) examine the agency's:
+
+&emsp;(A) use of information technology in responding to FOIA requests, including without limitation the tracking of FOIA requests and communication with requesters;
+
+&emsp;(B) practices with respect to requests for expedited processing; and
+
+&emsp;(C) implementation of multi-track processing if used by such agency;
+
+(iv) review the agency's policies and practices relating to the availability of public information through websites and other means, including the use of websites to make available the records described in section 552(a)(2) of title 5, United States Code; and
+
+(v) identify ways to eliminate or reduce its FOIA backlog, consistent with available resources and taking into consideration the volume and complexity of the FOIA requests pending with the agency.
+
+(b) <i>Plan.</i>
+
+(i) Each agency's Chief FOIA Officer shall develop, in consultation as appropriate with the staff of the agency (including the FOIA Public Liaisons), the Attorney General, and the OMB Director, an agency-specific plan to ensure that the agency's administration of the FOIA is in accordance with applicable law and the policies set forth in section 1 of this order. The plan, which shall be submitted to the head of the agency for approval, shall address the agency's implementation of the FOIA during fiscal years 2006 and 2007.
+
+(ii) The plan shall include specific activities that the agency will implement to eliminate or reduce the agency's FOIA backlog, including (as applicable) changes that will make the processing of FOIA requests more streamlined and effective, as well as increased reliance on the dissemination of records that can be made available to the public through a website or other means that do not require the public to make a request for the records under the FOIA.
+
+(iii) The plan shall also include activities to increase public awareness of FOIA processing, including as appropriate, expanded use of the agency's Center and its FOIA Public Liaisons.
+
+(iv) The plan shall also include, taking appropriate account of the resources available to the agency and the mission of the agency, concrete milestones, with specific timetables and outcomes to be achieved, by which the head of the agency, after consultation with the OMB Director, shall measure and evaluate the agency's success in the implementation of the plan.
+
+(c) <i>Agency Reports to the Attorney General and OMB Director.</i>
+
+(i) The head of each agency shall submit a report, no later than 6 months from the date of this order, to the Attorney General and the OMB Director that summarizes the results of the review under section 3(a) of this order and encloses a copy of the agency's plan under section 3(b) of this order. The agency shall publish a copy of the agency's report on the agency's website or, in the case of an agency without a website, on the Firstgov.gov website, or, in the case of any agency with neither a website nor the capability to publish on the Firstgov.gov website, in the Federal Register.
+
+(ii) The head of each agency shall include in the agency's annual FOIA reports for fiscal years 2006 and 2007 a report on the agency's development and implementation of its plan under section 3(b) of this order and on the agency's performance in meeting the milestones set forth in that plan, consistent with any related guidelines the Attorney General may issue under section 552(e) of title 5, United States Code.
+
+(iii) If the agency does not meet a milestone in its plan, the head of the agency shall:
+
+&emsp;(A) identify this deficiency in the annual FOIA report to the Attorney General;
+
+&emsp;(B) explain in the annual report the reasons for the agency's failure to meet the milestone;
+
+&emsp;(C) outline in the annual report the steps that the agency has already taken, and will be taking, to address the deficiency; and
+
+&emsp;(D) report this deficiency to the President's Management Council.
+
+Sec. 4. <i>Attorney General.</i>
+
+(a) <i>Report</i>. The Attorney General, using the reports submitted by the agencies under subsection 3(c)(i) of this order and the information submitted by agencies in their annual FOIA reports for fiscal year 2005, shall submit to the President, no later than 10 months from the date of this order, a report on agency FOIA implementation. The Attorney General shall consult the OMB Director in the preparation of the report and shall include in the report appropriate recommendations on administrative or other agency actions for continued agency dissemination and release of public information. The Attorney General shall thereafter submit two further annual reports, by June 1, 2007, and June 1, 2008, that provide the President with an update on the agencies’ implementation of the FOIA and of their plans under section 3(b) of this order.
+
+(b) <i>Guidance</i>. The Attorney General shall issue such instructions and guidance to the heads of departments and agencies as may be appropriate to implement sections 3(b) and 3(c) of this order.
+
+Sec. 5. <i>OMB Director</i>. The OMB Director may issue such instructions to the heads of agencies as are necessary to implement this order, other than sections 3(b) and 3(c) of this order.
+
+Sec. 6. <i>Definitions</i>. As used in this order:
+
+(a) the term “agency” has the same meaning as the term “agency” under section 552(f)(1) of title 5, United States Code; and
+
+(b) the term “record” has the same meaning as the term “record” under section 552(f)(2) of title 5, United States Code.
+
+Sec. 7. <i>General Provisions.</i>
+
+(a) The agency reviews under section 3(a) of this order and agency plans under section 3(b) of this order shall be conducted and developed in accordance with applicable law and applicable guidance issued by the President, the Attorney General, and the OMB Director, including the laws and guidance regarding information technology and the dissemination of information.
+
+(b) This order:
+
+(i) shall be implemented in a manner consistent with applicable law and subject to the availability of appropriations;
+
+(ii) shall not be construed to impair or otherwise affect the functions of the OMB Director relating to budget, legislative, or administrative proposals; and
+
+(iii) is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -50,7 +50,7 @@
 
 #### (3) Report
 
-&emsp;Not later than 4 years after June 25, 2003, the Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that contains the results of the research conducted under paragraph (2).
+&emsp;Not later than 4 years after June 25, 2003, the Secretary shall prepare and submit to theCommittee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report that contains the results of the research conducted under paragraph (2).
 
 #### (4) Priorities
 
@@ -158,7 +158,7 @@ A prior section 104 of Pub. L. 93–247 was renumbered section 103 and is classi
 
 2003—Subsec. (a)(1). Pub. L. 108–36, §112(a)(1)(A), inserted “, including longitudinal research,” after “interdisciplinary program of research” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 108–36, §112(a)(1)(B), inserted before semicolon “, including the effects of abuse and neglect on a child's development and the identificationof successful early intervention services or other services that are needed”.
+Subsec. (a)(1)(B). Pub. L. 108–36, §112(a)(1)(B), inserted before semicolon “, including the effects of abuse and neglect on a child's development and the identification of successful early intervention services or other services that are needed”.
 
 Subsec. (a)(1)(C). Pub. L. 108–36, §112(a)(1)(C), substituted “judicial systems, including multidisciplinary, coordinated decisionmaking procedures” for “judicial procedures” and struck out “and” at end.
 
@@ -206,7 +206,7 @@ Subsec. (a)(1)(D). Pub. L. 104–235, §105(a)(1)(B), (E), redesignated subpar. 
 
 Subsec. (a)(2). Pub. L. 104–235, §105(a)(2), struck out “and demonstration” after “research”, substituted “paragraph (1)” for “paragraph (1)(A) and activities under section 5106 of this title” in subpar. (A) and struck out “and demonstration” after “research” in introductory provisions of subpar. (B).
 
-Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out “, through the Center,” after “Secretary shall”, inserted “State and local” before “public and nonprofit” and “assessment,” before “identification”, added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
+Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1), inserted par. heading, struck out“, through the Center,” after “Secretary shall”, inserted “State and local” before “public and nonprofit” and “assessment,” before “identification”, added pars. (2) and (3), and struck out heading and text of former subsec. (b) consisting of pars. (1) to (5) which related to publication and dissemination of information.
 
 Subsec. (c). Pub. L. 104–235, §105(d), redesignated subsec. (d) as (c) and in par. (2) struck out at end “The Secretary shall review each such grant at least annually, utilizing peer review mechanisms to assure the quality and progress of research conducted under such grant.” Former subsec. (c) redesignated (b).
 

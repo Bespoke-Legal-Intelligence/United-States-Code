@@ -28,7 +28,3 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under section 6166 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 642 of this title.
-

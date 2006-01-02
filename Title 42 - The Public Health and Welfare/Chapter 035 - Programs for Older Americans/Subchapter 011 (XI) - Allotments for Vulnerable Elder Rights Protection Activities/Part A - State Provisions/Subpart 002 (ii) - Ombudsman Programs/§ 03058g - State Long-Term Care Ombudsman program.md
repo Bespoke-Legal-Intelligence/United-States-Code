@@ -76,7 +76,7 @@
 
 #### (B) Duties
 
-&emsp;&emsp;An individual so designated shall, in accordance with the policies and procedures established by the Office and the State agency—
+&emsp;&emsp;An individual so designated shall, in accordance with the policies and proceduresestablished by the Office and the State agency—
 
 &emsp;&emsp;&emsp;(i) provide services to protect the health, safety, welfare <sup>1</sup> and rights of residents;
 
@@ -114,7 +114,7 @@
 
 #### (ii) Policies
 
-&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees,of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
+&emsp;&emsp;&emsp;In a case in which the entities are grantees, or the representatives are employees, of area agencies on aging, the State agency shall develop the policies in consultation with the area agencies on aging. The policies shall provide for participation and comment by the agencies and for resolution of concerns with respect to case activity.
 
 #### (iii) Confidentiality and disclosure
 
@@ -208,7 +208,7 @@ The State agency shall—
 
 &emsp;&emsp;(C) is not employed by, or participating in the management of, a long-term care facility; and
 
-&emsp;&emsp;(D) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensationarrangement with an owner or operator of a long-term care facility; and
+&emsp;&emsp;(D) does not receive, or have the right to receive, directly or indirectly, remuneration (in cash or in kind) under a compensation arrangement with an owner or operator of a long-term care facility; and
 
 &emsp;(4) establish, and specify in writing, mechanisms to identify and remove conflicts of interest referred to in paragraphs (1) and (2), and to identify and eliminate the relationships described in subparagraphs (A) through (D) of paragraph (3), including such mechanisms as—
 

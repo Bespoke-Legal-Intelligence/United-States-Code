@@ -14,7 +14,7 @@
 
 (3) The provisions of section 3031(d) of title 38 shall apply to the period of entitlement prescribed by subsection (a) in the case of a disability incurred in or aggravated by service in the Selected Reserve.
 
-(4) In the case of a member of the Selected Reserve of the Ready Reserve who serves on active duty pursuant to an order to active duty issuedunder section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title—
+(4) In the case of a member of the Selected Reserve of the Ready Reserve who serves on active duty pursuant to an order to active duty issued under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title—
 
 &emsp;(A) the period of such active duty service plus four months shall not be considered in determining the expiration date applicable to such member under subsection (a); and
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
+Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces whoqualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
 
 #### Effective Date of 1980 Amendment
 

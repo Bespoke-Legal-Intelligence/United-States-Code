@@ -50,7 +50,7 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 #### (5) Certification that the State will provide Indians with equitable access to assistance
 
-&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indiantribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under this part attributable to funds provided by the Federal Government.
+&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indian tribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under this part attributable to funds provided by the Federal Government.
 
 #### (6) Certification of standards and procedures to ensure against program fraud and abuse
 
@@ -96,7 +96,7 @@ A prior section 602, acts Aug. 14, 1935, ch. 531, title IV, §402, 49 Stat. 627;
 
 1997—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
-Subsec. (a). Pub. L. 105–33, §5501(a), substituted “27-month period ending with the close of the 1st quarterof” for “2-year period immediately preceding” in introductory provisions.
+Subsec. (a). Pub. L. 105–33, §5501(a), substituted “27-month period ending with the close of the 1st quarter of” for “2-year period immediately preceding” in introductory provisions.
 
 Subsec. (a)(1)(A)(ii). Pub. L. 105–33, §5501(b), inserted “, consistent with section 607(e)(2) of this title” before period at end.
 

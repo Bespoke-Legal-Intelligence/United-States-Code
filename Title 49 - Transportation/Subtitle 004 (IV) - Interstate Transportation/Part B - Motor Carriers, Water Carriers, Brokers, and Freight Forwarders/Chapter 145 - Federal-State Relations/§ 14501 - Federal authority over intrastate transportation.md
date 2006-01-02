@@ -46,7 +46,7 @@ Matters not covered.—Paragraph (1)—
 
 &emsp;&emsp;(A) shall not restrict the safety regulatory authority of a State with respect to motor vehicles, the authority of a State to impose highway route controls or limitations based on the size or weight of the motor vehicle or the hazardous nature of the cargo, or the authority of a State to regulate motor carriers with regard to minimum amounts of financial responsibility relating to insurance requirements and self-insurance authorization;
 
-&emsp;&emsp;(B) does not apply to the transportation of household goods; and
+&emsp;&emsp;(B) does not apply to the intrastate transportation of household goods; and
 
 &emsp;&emsp;(C) does not apply to the authority of a State or a political subdivision of a State to enact or enforce a law, regulation, or other provision relating to the price of for-hire motor vehicle transportation by a tow truck, if such transportation is performed without the prior consent or authorization of the owner or operator of the motor vehicle.
 
@@ -86,6 +86,10 @@ Election.—Notwithstanding any other provision of law, a carrier affiliated wit
 
 Nonapplicability to hawaii.—This subsection shall not apply with respect to the State of Hawaii.
 
+&emsp;(5)
+
+Limitation on statutory construction.—Nothing in this section shall be construed to prevent a State from requiring that, in the case of a motor vehicle to be towed from private property without the consent of the owner or operator of the vehicle, the person towing the vehicle have prior written authorization from the property owner or lessee (or an employee or agent thereof) or that such owner or lessee (or an employee or agent thereof) be present at the time the vehicle is towed from the property, or both.
+
 (d)
 
 Pre-Arranged Ground Transportation.—
@@ -118,7 +122,7 @@ Matters not covered.—Nothing in this subsection shall be construed—
 
 &emsp;&emsp;(C) as restricting the right of any State or political subdivision of a State to require, in a nondiscriminatory manner, that any individual operating a vehicle providing prearranged ground transportation service originating in the State or political subdivision have submitted to pre-licensing drug testing or a criminal background investigation of the records of the State in which the operator is domiciled, by the State or political subdivision by which the operator is licensed to provide such service, or by the motor carrier providing such service, as a condition of providing such service.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277, div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586; Pub. L. 107–298, §2, Nov. 26, 2002, 116 Stat. 2342.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277, div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586; Pub. L. 107–298, §2, Nov. 26, 2002, 116 Stat. 2342; Pub. L. 109–59, title IV, §§4105(a), 4206(a), Aug. 10, 2005, 119 Stat. 1717, 1754.)
 
 #### References in Text
 
@@ -129,6 +133,10 @@ The Surface Freight Forwarder Deregulation Act of 1986, referred to in subsec. (
 Provisions similar to those in this section were contained in section 11501 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+2005—Subsec. (c)(2)(B). Pub. L. 109–59, §4206(a), inserted “intrastate” before “transportation”.
+
+Subsec. (c)(5). Pub. L. 109–59, §4105(a), added par. (5).
 
 2002—Subsec. (d). Pub. L. 107–298 added subsec. (d).
 

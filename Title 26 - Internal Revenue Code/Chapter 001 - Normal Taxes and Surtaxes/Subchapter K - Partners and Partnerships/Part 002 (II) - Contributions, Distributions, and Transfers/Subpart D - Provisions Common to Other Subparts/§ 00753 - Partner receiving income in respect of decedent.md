@@ -4,7 +4,3 @@ The amount includible in the gross income of a successor in interest of a deceas
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 251.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 691 of this title.
-

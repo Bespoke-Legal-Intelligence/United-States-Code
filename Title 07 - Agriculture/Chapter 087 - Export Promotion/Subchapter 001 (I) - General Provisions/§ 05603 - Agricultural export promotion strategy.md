@@ -14,7 +14,7 @@ The Secretary shall develop a strategy for implementing Federal agricultural exp
 
 #### (b) Purpose of strategy
 
-The strategy developed under subsection (a) of this section shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
+The strategy developed under subsection (a) of this section shall encourage the maintenance,development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
 
 #### (c) Goals of strategy
 

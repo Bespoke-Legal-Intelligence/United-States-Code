@@ -10,7 +10,3 @@ For purposes of this part, stock shall be treated as redeemed by a corporation i
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 99.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 301, 302, 306, 593 of this title.
-

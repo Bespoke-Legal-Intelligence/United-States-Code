@@ -42,7 +42,7 @@ In general.—Any property involved in a violation of subsection (a), or a consp
 
 &emsp;(2)
 
-Procedure.—The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering casespursuant to section 981(a)(1)(A) of title 18, United States Code.
+Procedure.—The seizure and forfeiture shall be governed by the procedures governing civil forfeitures in money laundering cases pursuant to section 981(a)(1)(A) of title 18, United States Code.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(4) The intentional transportation into or out of the United States of large amounts of currency or monetary instruments, in a manner designed to circumvent the mandatory reporting provisions of subchapter II of chapter 53 of title 31, United States Code,, \[sic\] is the equivalent of, and creates the same harm as, the smuggling of goods.
 
-&emsp;“(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement's effort to stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part.
+&emsp;“(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement's effortto stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part.
 
 &emsp;“(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense.
 

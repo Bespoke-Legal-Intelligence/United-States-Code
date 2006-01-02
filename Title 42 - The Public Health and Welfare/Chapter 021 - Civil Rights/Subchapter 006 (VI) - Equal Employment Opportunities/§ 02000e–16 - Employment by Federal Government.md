@@ -38,7 +38,7 @@ Nothing contained in this Act shall relieve any Government agency or official of
 
 #### References in Text
 
-This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to theCode, see Short Title note set out under section 2000a of this title and Tables.
 
 Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set out as a note under section 2000e of this title.
 
@@ -84,7 +84,7 @@ By the authority vested in me as President of the United States by the Constitut
 
 Section 1. <i>Nondiscrimination in Federal Employment on the Basis of Protected Genetic Information.</i>
 
-1–101. It is the policy of the Government of the United States to provide equal employment opportunity inFederal employment for all qualified persons and to prohibit discrimination against employees based on protected genetic information, or information about a request for or the receipt of genetic services. This policy of equal opportunity applies to every aspect of Federal employment.
+1–101. It is the policy of the Government of the United States to provide equal employment opportunity in Federal employment for all qualified persons and to prohibit discrimination against employees based on protected genetic information, or information about a request for or the receipt of genetic services. This policy of equal opportunity applies to every aspect of Federal employment.
 
 1–102. The head of each Executive department and agency shall extend the policy set forth in section 1101 to all its employees covered by section 717 of Title VII of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–16).
 

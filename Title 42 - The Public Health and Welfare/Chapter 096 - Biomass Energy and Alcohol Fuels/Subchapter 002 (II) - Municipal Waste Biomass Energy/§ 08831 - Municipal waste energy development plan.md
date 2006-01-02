@@ -24,7 +24,7 @@ The comprehensive plan under this section shall include a statement setting fort
 
 #### (d) Report to President and Congress; contents
 
-Not later than January 1, 1982, the Secretary shall prepare and submit to the President and the Congress a report containing a complete description of any financial, institutional, environmental, and social barriers to the development and application of technologies for the recovery of energy from municipal wastes.
+Not later than January 1, 1982, the Secretary shall prepare and submit to the President andthe Congress a report containing a complete description of any financial, institutional, environmental, and social barriers to the development and application of technologies for the recovery of energy from municipal wastes.
 
 (Pub. L. 96–294, title II, §231, June 30, 1980, 94 Stat. 696.)
 

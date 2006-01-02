@@ -1,6 +1,6 @@
 ### §27e. Exclusion of covered swap agreements
 
-No provision of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] (other than section 5b of such Act \[7 U.S.C. 7a–1\] with respect to the clearing of covered swap agreements) shall apply to, andthe Commodity Futures Trading Commission shall not exercise regulatory authority with respect to, a covered swap agreement offered, entered into, or provided by a bank.
+No provision of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] (other than section 5b of such Act \[7 U.S.C. 7a–1\] with respect to the clearing of covered swap agreements) shall apply to, and the Commodity Futures Trading Commission shall not exercise regulatory authority with respect to, a covered swap agreement offered, entered into, or provided by a bank.
 
 (Pub. L. 106–554, §1(a)(5) \[title IV, §407\], Dec. 21, 2000, 114 Stat. 2763, 2763A–461.)
 

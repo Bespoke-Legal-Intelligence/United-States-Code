@@ -30,7 +30,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may take action in a State under this subsection only on finding that measures being taken by the State are inadequate to control or eradicate the pest or disease, after review and consultation with—
+&emsp;&emsp;The Secretary may take action in a State under this subsection only on finding thatmeasures being taken by the State are inadequate to control or eradicate the pest or disease, after review and consultation with—
 
 &emsp;&emsp;&emsp;“(i) <sup>1</sup> the Governor or an appropriate animal health official of the State; or
 

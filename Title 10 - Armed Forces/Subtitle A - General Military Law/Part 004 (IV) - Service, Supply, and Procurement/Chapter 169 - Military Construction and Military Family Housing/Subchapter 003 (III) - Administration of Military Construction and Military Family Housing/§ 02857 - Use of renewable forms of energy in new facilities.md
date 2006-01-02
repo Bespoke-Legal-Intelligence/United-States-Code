@@ -1,8 +1,8 @@
 ### §2857. Use of renewable forms of energy in new facilities
 
-(a) The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) where use of such form of energy would be practical and economically feasible.
+(a) The Secretary of Defense shall encourage the use of energy systems using solar energy orother renewable forms of energy as a source of energy for military construction projects (including military family housing projects) where use of such form of energy would be practical and economically feasible.
 
-(b)(1) The Secretary concerned shall require that the design of all new facilities (includingfamily housing) shall include consideration of energy systems using solar energy or other renewable forms of energy in those cases in which use of such forms of energy has the potential for reduced energy costs.
+(b)(1) The Secretary concerned shall require that the design of all new facilities (including family housing) shall include consideration of energy systems using solar energy or other renewable forms of energy in those cases in which use of such forms of energy has the potential for reduced energy costs.
 
 (2) The Secretary concerned shall require that contracts for construction resulting from such design include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
 
@@ -53,8 +53,4 @@ Section 1405(45)(B) of Pub. L. 98–525 provided that: “The amendment made by 
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2394a of this title.
 

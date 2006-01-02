@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 2004 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 2005 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -97,10 +97,11 @@
 | [<b>79.</b>](Chapter%20079%20-%20Trade%20Sanctions%20Reform%20and%20Export%20Enhancement/README.md) | <b>Trade Sanctions Reform and Export Enhancement</b> | <b>7201</b> |
 | [<b>80.</b>](Chapter%20080%20-%20Diplomatic%20Telecommunications%20Service%20Program%20Office%20%28DTS-PO%29/README.md) | <b>Diplomatic Telecommunications Service Program Office (DTS-PO)</b> | <b>7301</b> |
 | [<b>81.</b>](Chapter%20081%20-%20International%20Criminal%20Court/README.md) | <b>International Criminal Court</b> | <b>7401</b> |
-| [<b>82.</b>](Chapter%20082%20-%20Afghanistan%20Freedom/README.md) | <b>Afghanistan Freedom Support</b> | <b>7501</b> |
+| [<b>82.</b>](Chapter%20082%20-%20Afghanistan%20Freedom%20Support/README.md) | <b>Afghanistan Freedom Support</b> | <b>7501</b> |
 | [<b>83.</b>](Chapter%20083%20-%20United%20States%20Leadership%20Against%20HIV-AIDS%2C%20Tuberculosis%2C%20and%20Malaria/README.md) | <b>United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria</b> | <b>7601</b> |
 | [<b>84.</b>](Chapter%20084%20-%20Millennium%20Challenge/README.md) | <b>Millennium Challenge</b> | <b>7701</b> |
 | [<b>85.</b>](Chapter%20085%20-%20North%20Korean%20Human%20Rights/README.md) | <b>North Korean Human Rights</b> | <b>7801</b> |
+| [<b>86.</b>](Chapter%20086%20-%20Climate%20Change%20Technology%20Deployment%20in%20Developing%20Countries/README.md) | <b>Climate Change Technology Deployment in Developing Countries</b> | <b>7901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -201,7 +202,8 @@
 - [Chapter 079 - Trade Sanctions Reform and Export Enhancement](Chapter%20079%20-%20Trade%20Sanctions%20Reform%20and%20Export%20Enhancement/README.md)
 - [Chapter 080 - Diplomatic Telecommunications Service Program Office (DTS-PO)](Chapter%20080%20-%20Diplomatic%20Telecommunications%20Service%20Program%20Office%20%28DTS-PO%29/README.md)
 - [Chapter 081 - International Criminal Court](Chapter%20081%20-%20International%20Criminal%20Court/README.md)
-- [Chapter 082 - Afghanistan Freedom](Chapter%20082%20-%20Afghanistan%20Freedom/README.md)
+- [Chapter 082 - Afghanistan Freedom Support](Chapter%20082%20-%20Afghanistan%20Freedom%20Support/README.md)
 - [Chapter 083 - United States Leadership Against HIV-AIDS, Tuberculosis, and Malaria](Chapter%20083%20-%20United%20States%20Leadership%20Against%20HIV-AIDS%2C%20Tuberculosis%2C%20and%20Malaria/README.md)
 - [Chapter 084 - Millennium Challenge](Chapter%20084%20-%20Millennium%20Challenge/README.md)
 - [Chapter 085 - North Korean Human Rights](Chapter%20085%20-%20North%20Korean%20Human%20Rights/README.md)
+- [Chapter 086 - Climate Change Technology Deployment in Developing Countries](Chapter%20086%20-%20Climate%20Change%20Technology%20Deployment%20in%20Developing%20Countries/README.md)

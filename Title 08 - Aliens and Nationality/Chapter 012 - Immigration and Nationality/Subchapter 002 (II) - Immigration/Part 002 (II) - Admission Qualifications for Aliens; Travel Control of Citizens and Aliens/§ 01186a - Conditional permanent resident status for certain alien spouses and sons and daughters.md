@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an alien with permanent resident status on a conditional basis under subsection (a) of this section, if the Attorney General determines, before the second anniversary of the alien's obtaining the status oflawful admission for permanent residence, that—
+&emsp;In the case of an alien with permanent resident status on a conditional basis under subsection (a) of this section, if the Attorney General determines, before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence, that—
 
 &emsp;&emsp;(A) the qualifying marriage—
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) extreme hardship would result if such alien is removed,
 
-&emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, butthe qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1), or
+&emsp;&emsp;(B) the qualifying marriage was entered into in good faith by the alien spouse, but the qualifying marriage has been terminated (other than through the death of the spouse) and the alien was not at fault in failing to meet the requirements of paragraph (1), or
 
 &emsp;&emsp;(C) the qualifying marriage was entered into in good faith by the alien spouse and during the marriage the alien spouse or child was battered by or was the subject of extreme cruelty perpetrated by his or her spouse or citizen or permanent resident parent and the alien was not at fault in failing to meet the requirements of paragraph (1).
 
@@ -142,7 +142,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedingsagainst an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 

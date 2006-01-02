@@ -6,15 +6,21 @@ In the case of the District of Columbia Enterprise Zone, subparagraph (A) of sec
 
 #### (b) Period of applicability
 
-This section shall apply to bonds issued during the period beginning on January 1, 1998, and ending on December 31, 2003.
+This section shall apply to bonds issued during the period beginning on January 1, 1998, and ending on December 31, 2005.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 864; amended Pub. L. 105–206, title VI, §6008(b), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §164(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 864; amended Pub. L. 105–206, title VI, §6008(b), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §164(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §310(b), Oct. 4, 2004, 118 Stat. 1180.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–311 substituted “2005” for “2003”.
 
 2000—Subsec. (b). Pub. L. 106–554 substituted “2003” for “2002”.
 
 1998—Subsec. (a). Pub. L. 105–206 inserted before the period at end “and section 1394(b)(3)(B)(iii) shall be applied without regard to the employee residency requirement”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to obligations issued after Oct. 4, 2004, see section 310(e)(2) of Pub. L. 108–311, set out as a note under section 1400 of this title.
 
 #### Effective Date of 1998 Amendment
 

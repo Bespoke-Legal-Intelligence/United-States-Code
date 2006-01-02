@@ -4,7 +4,7 @@
 
 (b) An officer transferred under this section may not be assigned precedence or relative rank higher than that which he held on the day before the transfer.
 
-(Added Pub. L. 85–599, §11(2), Aug. 6, 1958, 72 Stat. 521; amended Pub. L. 91–392, §1, Sept. 1, 1970, 84 Stat. 834; Pub. L. 96–215, §2(a), Mar. 25,1980, 94 Stat. 123; Pub. L. 97–295, §1(10), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, §1007(a)(1), Sept. 24, 1983, 97 Stat. 661; Pub. L. 99–348, title III, §304(a)(1), July 1, 1986, 100 Stat. 703; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 85–599, §11(2), Aug. 6, 1958, 72 Stat. 521; amended Pub. L. 91–392, §1, Sept. 1, 1970, 84 Stat. 834; Pub. L. 96–215, §2(a), Mar. 25, 1980, 94 Stat. 123; Pub. L. 97–295, §1(10), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, §1007(a)(1), Sept. 24, 1983, 97 Stat. 661; Pub. L. 99–348, title III, §304(a)(1), July 1, 1986, 100 Stat. 703; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Codification
 
@@ -36,7 +36,7 @@ Another section 716 was renumbered section 717 of this title.
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
+#### Delegation of Functions
 
-This section is referred to in title 33 section 3071.
+Functions of President under subsec. (a) of this section delegated to Secretary of Commerce by section 1(m) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 

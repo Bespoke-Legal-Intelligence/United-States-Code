@@ -25,10 +25,6 @@
 
 1969—Pub. L. 91–172, title I, §101(j)(58), Dec. 30, 1969, 83 Stat. 532, added part II heading, and redesignated former parts II, III and IV as parts III, IV and V, respectively.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 532, 542, 552 of this title.
-
 
 ---
 

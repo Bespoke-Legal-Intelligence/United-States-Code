@@ -22,9 +22,15 @@
 
 &emsp;(B) an applicant for a license from the Commission or such an agreement State;
 
-&emsp;(C) a contractor or subcontractor of such a licensee or applicant; and
+&emsp;(C) a contractor or subcontractor of such a licensee or applicant;
 
-&emsp;(D) a contractor or subcontractor of the Department of Energy that is indemnified by the Department under section 170 d. of the Atomic Energy Act of 1954 (42 U.S.C. 2210(d)), but such term shall not include any contractor or subcontractor covered by Executive Order No. 12344.
+&emsp;(D) a contractor or subcontractor of the Department of Energy that is indemnified by the Department under section 170 d. of the Atomic Energy Act of 1954 (42 U.S.C. 2210(d)), but such term shall not include any contractor or subcontractor covered by Executive Order No. 12344;
+
+&emsp;(E) a contractor or subcontractor of the Commission;
+
+&emsp;(F) the Commission; and
+
+&emsp;(G) the Department of Energy.
 
 #### (b) Complaint, filing and notification
 
@@ -42,6 +48,8 @@
 
 (D) Relief may not be ordered under paragraph (2) if the employer demonstrates by clear and convincing evidence that it would have taken the same unfavorable personnel action in the absence of such behavior.
 
+(4) If the Secretary has not issued a final decision within 1 year after the filing of a complaint under paragraph (1), and there is no showing that such delay is due to the bad faith of the person seeking relief under this paragraph, such person may bring an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+
 #### (c) Review
 
 (1) Any person adversely affected or aggrieved by an order issued under subsection (b) of this section may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
@@ -54,7 +62,7 @@ Whenever a person has failed to comply with an order issued under subsection (b)
 
 #### (e) Commencement of action
 
-(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil actionagainst the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+(1) Any person on whose behalf an order was issued under paragraph (2) of subsection (b) of this section may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
 
 (2) The court, in issuing any final order under this subsection, may award costs of litigation (including reasonable attorney and expert witness fees) to any party whenever the court determines such award is appropriate.
 
@@ -84,7 +92,7 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 (2) A determination by the Secretary under this section that a violation of subsection (a) of this section has not occurred shall not be considered by the Commission or the Department of Energy in its determination of whether a substantial safety hazard exists.
 
-(Pub. L. 93–438, title II, §211, formerly §210, as added Pub. L. 95–601, §10, Nov. 6, 1978, 92 Stat. 2951; renumbered §211 and amended Pub. L. 102–486, title XXIX, §2902(a)–(g), (h)(2), (3), Oct. 24, 1992, 106 Stat. 3123, 3124.)
+(Pub. L. 93–438, title II, §211, formerly §210, as added Pub. L. 95–601, §10, Nov. 6, 1978, 92 Stat. 2951; renumbered §211 and amended Pub. L. 102–486, title XXIX, §2902(a)–(g), (h)(2), (3), Oct. 24, 1992, 106 Stat. 3123, 3124; Pub. L. 109–58, title VI, §629, Aug. 8, 2005, 119 Stat. 785.)
 
 #### References in Text
 
@@ -94,9 +102,13 @@ Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 123
 
 #### Amendments
 
+2005—Subsec. (a)(2)(E) to (G). Pub. L. 109–58, §629(a), added subpars. (E) to (G).
+
+Subsec. (b)(4). Pub. L. 109–58, §629(b), added par. (4).
+
 1992—Subsec. (a). Pub. L. 102–486, §2902(a), designated existing provisions as par. (1) and struck out “, including a Commission licensee, an applicant for a Commission license, or a contractor or a subcontractor of a Commission licensee or applicant,” after “No employer”, added subpars. (A) to (C), redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 102–486, §2902(b), (h)(2), substituted “180” for “thirty”, “(in this section referred to as the ‘Secretary’)” for “(hereinafter in this subsection referred to as the ‘Secretary’)”, and “, the Commission, and the Department of Energy” for “and the Commission”.
+Subsec. (b)(1). Pub. L. 102–486, §2902(b), (h)(2), substituted “180” for “thirty”, “(in this section referred toas the ‘Secretary’)” for “(hereinafter in this subsection referred to as the ‘Secretary’)”, and “, the Commission, and the Department of Energy” for “and the Commission”.
 
 Subsec. (b)(2)(A). Pub. L. 102–486, §2902(c), inserted before last sentence “Upon the conclusion of such hearing and the issuance of a recommended decision that the complaint has merit, the Secretary shall issue a preliminary order providing the relief prescribed in subparagraph (B), but may not order compensatory damages pending a final order.”
 

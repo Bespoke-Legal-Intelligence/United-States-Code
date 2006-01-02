@@ -18,7 +18,7 @@ Recommendations for Removal of Selected Officers From Report.—If the Secretary
 
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5898(b) and (c) of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
-#### Section Referred to in Other Sections
+#### Delegation of Functions
 
-This section is referred to in sections 14110, 14501, 14502 of this title.
+For assignment of functions of President under first sentence of subsec. (a) of this section, see section 1(c) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
 

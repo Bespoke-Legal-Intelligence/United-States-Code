@@ -1,4 +1,4 @@
-PART A—IMPROVING ACADEMIC ACHIEVEMENT
+Part A—Improving Academic Achievement
 
 
 ---

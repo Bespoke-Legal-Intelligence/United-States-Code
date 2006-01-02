@@ -42,7 +42,7 @@
 
 &emsp;(B) paragraph (14) of that section.
 
-(3) This subchapter, except section 5348, does not apply to officers and members of crews of vessels excepted from chapter 51 of this title by section 5102(c)(8) of this title.
+(3) This subchapter, except section 5348, does not apply to officers and members of crews ofvessels excepted from chapter 51 of this title by section 5102(c)(8) of this title.
 
 (c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 

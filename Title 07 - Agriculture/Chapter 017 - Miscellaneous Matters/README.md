@@ -29,6 +29,7 @@
 | [426a.](%C2%A7%2000426a%20-%20Omitted.md) | Omitted. |
 | [426b.](%C2%A7%2000426b%20-%20Authorization%20of%20expenditures%20for%20the%20eradication%20and%20control%20of%20predatory%20and%20other%20wild%20animals.md) | Authorization of expenditures for the eradication and control of predatory and other wild animals. |
 | [426c.](%C2%A7%2000426c%20-%20Control%20of%20nuisance%20mammals%20and%20birds%20and%20those%20constituting%20reservoirs%20of%20zoonotic%20diseases%3B%20exception.md) | Control of nuisance mammals and birds and those constituting reservoirs of zoonotic diseases; exception. |
+| [426d.](%C2%A7%2000426d%20-%20Expenditures%20for%20cooperative%20agreements%20to%20lease%20aircraft.md) | Expenditures for cooperative agreements to lease aircraft. |
 | [427\.](%C2%A7%2000427%20-%20Agriculture%20research%3B%20declaration%20of%20policy%3B%20duties%20of%20Secretary%20of%20Agriculture%3B%20use%20of%20existing%20facilities.md) | Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities. |
 | 427a to 427h. Repealed. |  |
 | [427i.](%C2%A7%2000427i%20-%20Agricultural%20research%3B%20authorization%20of%20additional%20appropriations%3B%20administrative%20expenses%3B%20availability%20of%20special%20research%20fund.md) | Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund. |
@@ -125,6 +126,7 @@
 - [&sect; 00426a - Omitted](%C2%A7%2000426a%20-%20Omitted.md)
 - [&sect; 00426b - Authorization of expenditures for the eradication and control of predatory and other wild animals](%C2%A7%2000426b%20-%20Authorization%20of%20expenditures%20for%20the%20eradication%20and%20control%20of%20predatory%20and%20other%20wild%20animals.md)
 - [&sect; 00426c - Control of nuisance mammals and birds and those constituting reservoirs of zoonotic diseases; exception](%C2%A7%2000426c%20-%20Control%20of%20nuisance%20mammals%20and%20birds%20and%20those%20constituting%20reservoirs%20of%20zoonotic%20diseases%3B%20exception.md)
+- [&sect; 00426d - Expenditures for cooperative agreements to lease aircraft](%C2%A7%2000426d%20-%20Expenditures%20for%20cooperative%20agreements%20to%20lease%20aircraft.md)
 - [&sect; 00427 - Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities](%C2%A7%2000427%20-%20Agriculture%20research%3B%20declaration%20of%20policy%3B%20duties%20of%20Secretary%20of%20Agriculture%3B%20use%20of%20existing%20facilities.md)
 - [&sect; 00427a to 427h - Repealed. Aug. 11, 1955, ch. 790, &sect;2, 69 Stat. 674](%C2%A7%2000427a%20to%20427h%20-%20Repealed.%20Aug.%2011%2C%201955%2C%20ch.%20790%2C%20%C2%A72%2C%2069%20Stat.%20674.md)
 - [&sect; 00427i - Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund](%C2%A7%2000427i%20-%20Agricultural%20research%3B%20authorization%20of%20additional%20appropriations%3B%20administrative%20expenses%3B%20availability%20of%20special%20research%20fund.md)

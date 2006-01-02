@@ -6,11 +6,11 @@ Definition.—In this subchapter, the term “contractor” means a person award
 
 (b)
 
-Type of Bonds Required.—Before any contract of more than $100,000 is awarded for the construction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
+Type of Bonds Required.—Before any contract of more than $100,000 is awarded for theconstruction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
 
 &emsp;(1)
 
-Performance bond.—A performance bond with a surety satisfactory to the officerawarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
+Performance bond.—A performance bond with a surety satisfactory to the officer awarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
 
 &emsp;(2)
 

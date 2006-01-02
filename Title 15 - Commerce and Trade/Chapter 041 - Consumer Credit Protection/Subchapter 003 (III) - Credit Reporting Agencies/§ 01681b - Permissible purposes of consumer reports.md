@@ -72,7 +72,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (C) Scope
 
-&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumerin connection with the consumer's application for employment only if—
+&emsp;&emsp;Subparagraph (B) shall apply to a person procuring a consumer report on a consumer in connection with the consumer's application for employment only if—
 
 &emsp;&emsp;&emsp;(i) the consumer is applying for a position over which the Secretary of Transportation has the power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49, or a position subject to safety regulation by a State transportation agency; and
 
@@ -216,7 +216,7 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 &emsp;An election of a consumer under paragraph (1)—
 
-&emsp;&emsp;(A) shall be effective with respect to a consumer reporting agency beginning 5 business days after the date on which the consumernotifies the agency in accordance with paragraph (2);
+&emsp;&emsp;(A) shall be effective with respect to a consumer reporting agency beginning 5 business days after the date on which the consumer notifies the agency in accordance with paragraph (2);
 
 &emsp;&emsp;(B) shall be effective with respect to a consumer reporting agency—
 
@@ -256,13 +256,13 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;(1) the consumer report is obtained for a purpose for which the consumer report is authorized to be furnished under this section; and
 
-&emsp;(2) the purpose is certified in accordance with section 1681e of this title by a prospective user of the report through a general or specific certification.
+&emsp;(2) the purpose is certified in accordance with section 1681e of this title by a prospectiveuser of the report through a general or specific certification.
 
 #### (g) Protection of medical information
 
 #### (1) Limitation on consumer reporting agencies
 
-&emsp;A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless—
+&emsp;A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information (other than medical contact information treated in the manner required under section 1681c(a)(6) of this title) about a consumer, unless—
 
 &emsp;&emsp;(A) if furnished in connection with an insurance transaction, the consumer affirmatively consents to the furnishing of the report;
 
@@ -276,7 +276,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 #### (2) Limitation on creditors
 
-&emsp;Except as permitted pursuant to paragraph (3)(C) or regulations prescribed under paragraph (5)(A), a creditor shall not obtain or use medical information pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit.
+&emsp;Except as permitted pursuant to paragraph (3)(C) or regulations prescribed under paragraph (5)(A), a creditor shall not obtain or use medical information (other than medical information treated in the manner required under section 1681c(a)(6) of this title) pertaining to a consumer in connection with any determination of the consumer's eligibility, or continued eligibility, for credit.
 
 #### (3) Actions authorized by Federal law, insurance activities and regulatory determinations
 
@@ -306,15 +306,7 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 &emsp;No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625.)
-
-#### Amendment of Subsection (g)
-
-<i>Pub. L. 108–159, title IV, §412(f), (g), Dec. 4, 2003, 117 Stat. 2003, provided that, effective at the end of the 15-month period beginning on Dec. 4, 2003, subsection (g) of this section is amended:</i>
-
-<i>(1) in paragraph (1), by inserting “(other than medical contact information treated in the manner required under section 1681c(a)(6) of this title)” after “a consumer report that contains medical information”; and</i>
-
-<i>(2) in paragraph (2), by inserting “(other than medical information treated in the manner required under section 1681c(a)(6) of this title)” after “a creditor shall not obtain or use medical information”.</i>
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306,title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426; Pub. L. 108–159, title II, §213(c), title IV, §§411(a), 412(f), title VIII, §811(b), Dec. 4, 2003, 117 Stat. 1979, 1999, 2003, 2011; Pub. L. 108–177, title III, §361(j), Dec. 13, 2003, 117 Stat. 2625.)
 
 #### References in Text
 
@@ -342,7 +334,11 @@ Reports to congressional intelligence committees.—In the case of a report to b
 
 Subsec. (e)(3)(A), (4)(B)(i). Pub. L. 108–159, §213(c), substituted “5-year period” for “2-year period”.
 
-Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment,text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
+Subsec. (g). Pub. L. 108–159, §411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
+
+Subsec. (g)(1). Pub. L. 108–159, §412(f)(1), inserted “(other than medical contact information treated in the manner required under section 1681c(a)(6) of this title)” after “a consumer report that contains medical information” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 108–159, §412(f)(2), inserted “(other than medical information treated in the manner required under section 1681c(a)(6) of this title)” after “a creditor shall not obtain or use medical information”.
 
 2002—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
 
@@ -396,7 +392,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
+Pub. L. 105–107, title III, §311(c), Nov. 20, 1997, 111 Stat. 2256, provided that: “The amendments made bysubsections (a) and (b) \[amending this section and section 1681e of this title\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§2401–2422) of subtitle D of title II of div. A of Pub. L. 104–208\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
 
 #### Effective Date of 1996 Amendments
 

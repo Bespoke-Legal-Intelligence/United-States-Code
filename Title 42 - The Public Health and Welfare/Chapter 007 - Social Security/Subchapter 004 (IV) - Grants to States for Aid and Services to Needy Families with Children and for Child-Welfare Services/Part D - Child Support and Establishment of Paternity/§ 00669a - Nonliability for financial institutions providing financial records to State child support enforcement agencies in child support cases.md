@@ -12,7 +12,7 @@ A State child support enforcement agency which obtains a financial record of an 
 
 #### (1) Disclosure by State officer or employee
 
-&emsp;If any person knowingly, or by reason of negligence, discloses a financial record of anindividual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
+&emsp;If any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
 
 #### (2) No liability for good faith but erroneous interpretation
 

@@ -28,7 +28,7 @@ Payments made by milk handlers to milk producers and cooperatives, and prices re
 
 #### (d) Duration
 
-The authority of the Secretary of Agriculture to carry out the pilot program shall terminateon December 31, 2004. No forward price contract entered into under the program may extend beyond that date.
+The authority of the Secretary of Agriculture to carry out the pilot program shall terminate on December 31, 2004. No forward price contract entered into under the program may extend beyond that date.
 
 #### (e) Study and report on effect of pilot program
 
@@ -38,7 +38,7 @@ The authority of the Secretary of Agriculture to carry out the pilot program sha
 
 #### (2) Report
 
-&emsp;Not later than April 30, 2002, the Secretary shall submit to the Committee on Agriculture, Nutrition and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report containing the results of the study.
+&emsp;Not later than April 30, 2002, the Secretary shall submit to the Committee on Agriculture, Nutrition and Forestry of the Senate and theCommittee on Agriculture of the House of Representatives a report containing the results of the study.
 
 (May 12, 1933, ch. 25, title I, §23, as added Pub. L. 106–113, div. B, §1000(a)(8) \[§3\], Nov. 29, 1999, 113 Stat. 1536, 1501A–519.)
 

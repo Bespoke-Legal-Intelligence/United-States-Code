@@ -128,5 +128,5 @@ Pub. L. 106–65, div. C, title XXXII, §3297, Oct. 5, 1999, 113 Stat. 971, prov
 
 #### Classification in United States Code
 
-Pub. L. 106–65, div. C, title XXXII, §3298, Oct. 5, 1999, 113 Stat. 971, provided that: “Subtitles A through F of this title \[§§3211–3281, enacting this chapter and amending sections 5595 and 8905a of Title 5, Government Organization and Employees\] (other than provisions of those subtitles amending existing provisions of law)shall be classified to the United States Code as a new chapter of title 50, United States Code.”
+Pub. L. 106–65, div. C, title XXXII, §3298, Oct. 5, 1999, 113 Stat. 971, provided that: “Subtitles A through F of this title \[§§3211–3281, enacting this chapter and amending sections 5595 and 8905a of Title 5, Government Organization and Employees\] (other than provisions of those subtitles amending existing provisions of law) shall be classified to the United States Code as a new chapter of title 50, United States Code.”
 

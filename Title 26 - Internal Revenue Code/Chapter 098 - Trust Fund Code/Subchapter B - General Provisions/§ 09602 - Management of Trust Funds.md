@@ -24,10 +24,6 @@ It shall be the duty of the Secretary of the Treasury to hold each Trust Fund es
 
 (Added Pub. L. 97–119, title I, §103(a), Dec. 29, 1981, 95 Stat. 1638.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9502, 9503, 9504, 9505, 9506, 9507, 9508, 9509 of this title; title 19 section 3539; title 42 sections 9505, 9506, 9507, 9508, 9510.
-
 ## Subtitle J—Coal Industry Health Benefits
 
 | Chapter |  | Sec.<sup>1</sup> |

@@ -14,7 +14,7 @@ The Federal reclamation laws, referred to in text, are defined in section 422b o
 
 #### Effective Date of 1986 Amendment
 
-Section 310 of title III of Pub. L. 99–546 provided that: “The provisions of Sections 303 and 308 of this title \[amending sections 422c and 422h of this title\] shall take effect upon enactment of this title \[Oct. 27, 1986\]. The provisions of sections 304(a) and 305 of this title \[amending section 422d of this title\] shall be applicable to all proposals for which final applications are received by the Secretary after January 1, 1986. The provisions of Sections 302, 304(b), 306, and 307 \[amending this section and sections 422d and 422e of this title\] shall be applicable to all proposals for which draft applications are received by the Secretary after Auguest \[sic\] 15, 1986.”
+Section 310 of title III of Pub. L. 99–546 provided that: “The provisions of Sections 303 and 308 of this title \[amending sections 422c and 422h of this title\] shalltake effect upon enactment of this title \[Oct. 27, 1986\]. The provisions of sections 304(a) and 305 of this title \[amending section 422d of this title\] shall be applicable to all proposals for which final applications are received by the Secretary after January 1, 1986. The provisions of Sections 302, 304(b), 306, and 307 \[amending this section and sections 422d and 422e of this title\] shall be applicable to all proposals for which draft applications are received by the Secretary after Auguest \[sic\] 15, 1986.”
 
 #### Separability
 

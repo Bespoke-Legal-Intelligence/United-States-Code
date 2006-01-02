@@ -14,10 +14,6 @@ Subpart C—Election of Mark to Market for Marketable Stock
 
 A prior subpart C, consisting of sections 1296 and 1297 of this title, was redesignated subpart D consisting of sections 1297 and 1298.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 1291 of this title.
-
 
 ---
 

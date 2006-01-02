@@ -231,7 +231,7 @@ Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for �
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on orafter July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1993 Amendment
 

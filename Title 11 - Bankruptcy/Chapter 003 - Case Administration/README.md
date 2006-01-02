@@ -7,10 +7,11 @@
 | [301\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000301%20-%20Voluntary%20cases.md) | Voluntary cases. |
 | [302\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000302%20-%20Joint%20cases.md) | Joint cases. |
 | [303\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000303%20-%20Involuntary%20cases.md) | Involuntary cases. |
-| [304\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000304%20-%20Cases%20ancillary%20to%20foreign%20proceedings.md) | Cases ancillary to foreign proceedings. |
+| \[304. | Repealed.\] |
 | [305\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000305%20-%20Abstention.md) | Abstention. |
 | [306\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000306%20-%20Limited%20appearance.md) | Limited appearance. |
 | [307\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000307%20-%20United%20States%20trustee.md) | United States trustee. |
+| [308\.](Subchapter%20001%20%28I%29%20-%20Commencement%20of%20a%20Case/%C2%A7%2000308%20-%20Debtor%20reporting%20requirements.md) | Debtor reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,6 +30,8 @@
 | [329\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000329%20-%20Debtor%27s%20transactions%20with%20attorneys.md) | Debtor's transactions with attorneys. |
 | [330\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000330%20-%20Compensation%20of%20officers.md) | Compensation of officers. |
 | [331\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000331%20-%20Interim%20compensation.md) | Interim compensation. |
+| [332\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000332%20-%20Consumer%20privacy%20ombudsman.md) | Consumer privacy ombudsman. |
+| [333\.](Subchapter%20002%20%28II%29%20-%20Officers/%C2%A7%2000333%20-%20Appointment%20of%20patient%20care%20ombudsman.md) | Appointment of ombudsman.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,11 +44,12 @@
 | [343\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000343%20-%20Examination%20of%20the%20debtor.md) | Examination of the debtor. |
 | [344\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000344%20-%20Self-incrimination%3B%20immunity.md) | Self-incrimination; immunity. |
 | [345\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000345%20-%20Money%20of%20estates.md) | Money of estates. |
-| [346\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000346%20-%20Special%20tax%20provisions.md) | Special tax provisions. |
+| [346\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000346%20-%20Special%20provisions%20related%20to%20the%20treatment%20of%20State%20and%20local%20taxes.md) | Special provisions related to the treatment of State and local taxes. |
 | [347\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000347%20-%20Unclaimed%20property.md) | Unclaimed property. |
 | [348\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000348%20-%20Effect%20of%20conversion.md) | Effect of conversion. |
 | [349\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000349%20-%20Effect%20of%20dismissal.md) | Effect of dismissal. |
 | [350\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000350%20-%20Closing%20and%20reopening%20cases.md) | Closing and reopening cases. |
+| [351\.](Subchapter%20003%20%28III%29%20-%20Administration/%C2%A7%2000351%20-%20Disposal%20of%20patient%20records.md) | Disposal of patient records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -63,6 +67,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–8, title II, §232(c), title IV, §434(a)(2), title VII, §719(a)(2), title VIII, §802(d)(4), title XI, §§1102(b), 1104(a)(2), Apr. 20, 2005, 119 Stat. 74, 111, 133, 146, 190, 192, added items 308, 332, 333, and 351, substituted “Special provisions related to the treatment of State and local taxes” for “Special tax provisions” in item 346, and struck out item 304 “Cases ancillary to foreign proceedings”.
 
 1986—Pub. L. 99–554, title II, §205(b), Oct. 27, 1986, 100 Stat. 3098, added item 307.
 

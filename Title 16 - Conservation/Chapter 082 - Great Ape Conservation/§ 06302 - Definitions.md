@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;The term “conservation”—
 
-&emsp;&emsp;(A) means the use of methods and procedures necessary to prevent the diminution of, and to sustain viable populations of, a species; and
+&emsp;&emsp;(A) means the use of methods and procedures necessary to prevent the diminutionof, and to sustain viable populations of, a species; and
 
 &emsp;&emsp;(B) includes all activities associated with wildlife management, such as—
 

@@ -11,10 +11,6 @@
 
 A prior subchapter A (§§4451 to 4457), act Aug. 16, 1954, ch. 736, 68A Stat. 529, 530, related to tax on playing cards, prior to repeal by Pub. L. 89–44, title IV, §402, June 21, 1965, 79 Stat. 148. Repeal of sections 4451 to 4457 applicable on and after June 22, 1965, see section 701(c)(2) of Pub. L. 89–44, set out in part as an Effective Date of 1965 Amendment note under section 4905 of this title.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 9505 of this title.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 <i><sup>2</sup></i><i> Subchapter repealed by Pub. L. 95–600 without corresponding amendment of chapter analysis.</i>

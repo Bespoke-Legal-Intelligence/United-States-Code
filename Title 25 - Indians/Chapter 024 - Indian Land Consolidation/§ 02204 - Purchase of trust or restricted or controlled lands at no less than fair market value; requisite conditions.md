@@ -1,8 +1,24 @@
 ### §2204. Purchase of trust or restricted or controlled lands at no less than fair market value; requisite conditions
 
-#### (a) In general
+#### (a) Purchase of land
 
-Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.
+#### (1) In general
+
+&emsp;Subject to subsection (b) of this section, any Indian tribe may purchase, at not less than fair market value and with the consent of the owners of the interests, part or all of the interests in—
+
+&emsp;&emsp;(A) any tract of trust or restricted land within the boundaries of the reservation of the tribe; or
+
+&emsp;&emsp;(B) land that is otherwise subject to the jurisdiction of the tribe.
+
+#### (2) Required consent
+
+#### (A) In general
+
+&emsp;&emsp;The Indian tribe may purchase all interests in a tract described in paragraph (1) with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in the tract.
+
+#### (B) Interest owned by tribe
+
+&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
 
 #### (b) Conditions applicable to purchase
 
@@ -14,11 +30,11 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;(3) the approval of the Secretary shall be required for a land sale initiated under this section, except that such approval shall not be required with respect to a land sale transaction initiated by an Indian tribe that has in effect a land consolidation plan that has been approved by the Secretary under section 2203 of this title.
 
-#### (d) <sup>1</sup> Partition of highly fractionated Indian lands
+#### (c) Partition of highly fractionated Indian lands
 
 #### (1) Applicability
 
-&emsp;This subsection shall be applicable only to parcels of land (including surface and subsurface interests, except with respect to a subsurface interest that has been severed from the surface interest, in which case this subsection shall apply only to the surface interest) which the Secretary has determined, pursuant to paragraph (2)(B),<sup>2</sup> to be parcels of highly fractionated Indian land.
+&emsp;This subsection shall be applicable only to parcels of land (including surface and subsurface interests, except with respect to a subsurface interest that has been severed from the surface interest, in which case this subsection shall apply only to the surface interest) which the Secretary has determined, pursuant to paragraph (2)(B),<sup>1</sup> to be parcels of highly fractionated Indian land.
 
 #### (2) Requirements
 
@@ -36,7 +52,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (B) Costs of serving notice and publication
 
-&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, or furnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
+&emsp;&emsp;The costs of serving and publishing notice under subparagraph (F) shall be borne by the applicant. Upon receiving written notice from the Secretary, the applicant must pay to the Secretary an amount determined by the Secretary to be the estimated costs of such service of notice and publication, orfurnish a sufficient bond for such estimated costs within the time stated in the notice, failing which, unless an extension is granted by the Secretary, the Secretary shall not be required to commence the partition process under subparagraph (A) and may deny the application. The Secretary shall have the discretion and authority in any case to waive either the payment or the bond (or any portion of such payment or bond) otherwise required by this subparagraph, upon making a determination that such waiver will further the policies of this chapter.
 
 #### (C) Determination
 
@@ -106,7 +122,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (I) Service by certified mail
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonablesearch (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall use due diligence to provide all owners of interests in the subject parcel, as evidenced by the Secretary's records at the time of the determination under subparagraph (C), with actual notice of the partition proceedings by mailing a copy of the written notice described in clause (i) by certified mail, restricted delivery, to each such owner at the owner's last known address. For purposes of this subsection, owners shall be determined from the Secretary's land title records as of the date of the determination under subparagraph (C) or a date that is not more than 90 days prior to the date of mailing under this clause, whichever is later. In the event the written notice to an owner is returned undelivered, the Secretary shall attempt to obtain a current address for such owner by conducting a reasonable search (including a reasonable search of records maintained by local, State, Federal and tribal governments and agencies) and by inquiring with the Indian tribe with jurisdiction over the subject parcel, and, if different from that tribe, the Indian tribe of which the owner is a member, and, if successful in locating any such owner, send written notice by certified mail in accordance with this subclause.
 
 #### (II) Notice by publication
 
@@ -134,7 +150,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;Notice shall be given—
 
-&emsp;&emsp;&emsp;&emsp;(I) in accordance with subparagraph (H), where the new appraisal results in a higher valuation of the land; or
+&emsp;&emsp;&emsp;&emsp;(I) in accordance with subparagraph (H), where the new appraisal results in a value of the land that is equal to or greater than that of the earlier appraisal; or
 
 &emsp;&emsp;&emsp;&emsp;(II) in accordance with subparagraph (F)(ii), where the new appraisal results in a lower valuation of the land.
 
@@ -166,7 +182,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing notice to owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
+&emsp;&emsp;&emsp;Subject to clauses (ii) and (iii) and the consent requirements of paragraph (2)(D), the Secretary shall, after providing noticeto owners under subparagraph (H), including the time and place of sale or for receiving sealed bids, at public auction or by sealed bid (whichever of such methods of sale the Secretary determines to be more appropriate under the circumstances) sell the parcel of land by competitive bid for not less than the final appraised fair market value to the highest bidder from among the following eligible bidders:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Indian tribe, if any, with jurisdiction over the trust or restricted interests in the parcel being sold.
 
@@ -196,13 +212,13 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) equal to or greater than 20 percent of the entire undivided ownership of the parcel;
 
-&emsp;&emsp;&emsp;&emsp;(III) within 3 days following the date of the auction or for receiving sealed bids, and in accordance with the regulations adopted to implement this section, the owner delivers to the Secretary a written notice of intent to exercise the owner's rights under this clause; and
+&emsp;&emsp;&emsp;&emsp;(III) within 3 days following the date of the auction or for receiving sealed bids, and in accordance with the regulations adopted to implement this section (if any), the owner delivers to the Secretary a written notice of intent to exercise the owner's rights under this clause; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) such owner tenders the amount of the purchase price required under this clause—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not less than 30 days after the date of the auction or time for receiving sealed bids; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) not more than 30 days after the date of the auction or time for receiving sealed bids; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in accordance with any requirements of the regulations promulgated to implement this section.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in accordance with any requirements of the regulations promulgated under paragraph (5).
 
 #### (iv) Interest acquired
 
@@ -238,7 +254,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;(i) commence a civil action in the United States district court for the district in which the parcel of land is located; and
 
-&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriateremedy necessary for the partition of the land by sale.
+&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriate remedy necessary for the partition of the land by sale.
 
 #### (B) Federal role
 
@@ -262,21 +278,39 @@ Subsection (a) of this section applies on the condition that—
 
 #### (5) Regulations
 
-&emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations shall include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
+&emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797.)
+(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952.)
 
 #### References in Text
 
-Section 8(a)(4) of the American Indian Probate Reform Act of 2004, referred to in subsec. (d)(2)(A), is section 8(a)(4) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
+Section 8(a)(4) of the American Indian Probate Reform Act of 2004, referred to in subsec. (c)(2)(A), is section 8(a)(4) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
-This chapter, referred to in subsec. (d)(2)(B), (E), (G)(i), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
 #### Amendments
 
+2005—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
+
+Subsec. (c). Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
+
+Subsec. (c)(2)(G)(ii)(I). Pub. L. 109–157, §2(3)(A)(i), substituted “a value of the land that is equal to or greater than that of the earlier appraisal” for “a higher valuation of the land”.
+
+Subsec. (c)(2)(I)(iii)(III). Pub. L. 109–157, §2(3)(A)(ii)(I), inserted “(if any)” after “this section”.
+
+Subsec. (c)(2)(I)(iii)(IV)(aa). Pub. L. 109–157, §2(3)(A)(ii)(II)(aa), substituted “more” for “less”.
+
+Subsec. (c)(2)(I)(iii)(IV)(bb). Pub. L. 109–157, §2(3)(A)(ii)(II)(bb), substituted “under paragraph (5)” for “to implement this section”.
+
+Subsec. (c)(5). Pub. L. 109–157, §2(3)(B), in second sentence, substituted “may” for “shall”.
+
+Subsec. (d). Pub. L. 109–157, §8(a)(1), amended directory language of Pub. L. 108–374, §4. See 2004 Amendment note below.
+
+Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c).
+
 2004—Subsec. (a). Pub. L. 108–374, §6(a)(1), in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
 
-Subsec. (d). Pub. L. 108–374, §4, added subsec. (d).
+Subsec. (d). Pub. L. 108–374, §4, as amended by Pub. L. 109–157, §8(a)(1), added subsec. (d).
 
 2001—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) of this section applies on the condition that—” for “: <i>Provided</i>, That—”, was executed by making the substitution for “<i>Provided</i>, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
 
@@ -296,11 +330,13 @@ Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 
 Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted “subject to approval” for “approved” and struck out former par. (3), which provided that “this section shall not apply to any tract of land owned by less than fifteen persons; and”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
+
 #### Severability
 
-Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (d)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, set out as a note under section 2201 of this title.
+Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
 
-<i><sup>1</sup></i><i> So in original. No subsec. (c) has been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph “(2)(C),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(C),”.</i>
 

@@ -10,7 +10,7 @@ Section 5842, Pub. L. 103–227, title II, §212, Mar. 31, 1994, 108 Stat. 139, 
 
 Section 5843, Pub. L. 103–227, title II, §213, Mar. 31, 1994, 108 Stat. 142, related to duties of Council.
 
-Section 5844, Pub. L. 103–227, title II, §214, Mar. 31, 1994, 108 Stat. 147, required Council to submit annual reports to President, Secretary, appropriate committees of Congress, Governor of each State, and Goals Panel regarding its work.
+Section 5844, Pub. L. 103–227, title II, §214, Mar. 31, 1994, 108 Stat. 147, required Council to submit annualreports to President, Secretary, appropriate committees of Congress, Governor of each State, and Goals Panel regarding its work.
 
 Section 5845, Pub. L. 103–227, title II, §215, Mar. 31, 1994, 108 Stat. 147; Pub. L. 103–382, title III, §361(b)(2), Oct. 20, 1994, 108 Stat. 3975, related to powers of Council.
 

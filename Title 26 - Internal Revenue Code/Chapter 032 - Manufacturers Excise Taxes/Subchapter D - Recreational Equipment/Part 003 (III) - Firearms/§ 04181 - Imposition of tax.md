@@ -16,7 +16,3 @@ There is hereby imposed upon the sale by the manufacturer, producer, or importer
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 490.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4182, 6091 of this title; title 6 section 531; title 15 section 2052; title 16 section 669b.
-

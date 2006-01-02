@@ -28,7 +28,7 @@ Pub. L. 94–570, §1, Oct. 20, 1976, 90 Stat. 2701, provided: “That this Act 
 
 #### Regulations
 
-Pub. L. 103–129, §6, Nov. 1, 1993, 107 Stat. 1367, provided that: “Except as provided in section 2(b) of theRural Electrification Act of 1936 \[7 U.S.C. 902(b)\] and section 370 of the Consolidated Farm and Rural Development Act \[7 U.S.C. 2008e\], as added by sections 2(c)(1)(C) and 5 of this Act, not later than 45 days after the date of enactment of this Act \[Nov. 1, 1993\], interim final regulations shall be issued by—
+Pub. L. 103–129, §6, Nov. 1, 1993, 107 Stat. 1367, provided that: “Except as provided in section 2(b) of the Rural Electrification Act of 1936 \[7 U.S.C. 902(b)\] and section 370 of the Consolidated Farm and Rural Development Act \[7 U.S.C. 2008e\], as added by sections 2(c)(1)(C) and 5 of this Act, not later than 45 days after the date of enactment of this Act \[Nov. 1, 1993\], interim final regulations shall be issued by—
 
 &emsp;“(1) the Administrator of the Rural Electrification Administration to carry out the amendments made by this Act \[see Short Title of 1993 Amendment note above\] to programs administered by the Administrator;
 

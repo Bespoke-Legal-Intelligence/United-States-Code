@@ -1,9 +1,9 @@
 
-49 U.S.C.<br>United States Code, 2004 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+49 U.S.C.<br>United States Code, 2005 Edition<br>Title 49 - TRANSPORTATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 49—TRANSPORTATION
 
-<i>This title was enacted by Pub. L. 95–473, §1, Oct. 17, 1978, 92 Stat. 1337; Pub. L. 97–449, §1, Jan. 12, 1983, 96 Stat. 2413; and Pub. L. 103–272, July 5, 1994, 108 Stat. 745</i>
+<i>This title was enacted by Pub. L. 95–473, §1, Oct. 17, 1978, 92 Stat. 1337; Pub. L. 97–449, §1, Jan. 12, 1983, 96 Stat. 2413; Pub. L. 103–272, July 5, 1994, 108 Stat. 745</i>
 
 | Subtitle |  | Sec. |
 | :--- | :---: | ---: |

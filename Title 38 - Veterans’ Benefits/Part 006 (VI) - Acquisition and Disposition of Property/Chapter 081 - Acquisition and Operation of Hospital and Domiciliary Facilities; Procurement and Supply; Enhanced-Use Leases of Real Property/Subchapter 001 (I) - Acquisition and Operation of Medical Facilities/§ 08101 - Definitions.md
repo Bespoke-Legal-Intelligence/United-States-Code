@@ -26,7 +26,7 @@ Section 302 of Pub. L. 96–22 provided that:
 
 “(a) Except as provided in subsection (b) of this section, the amendments made by section 301 \[enacting this subchapter, redesignating sections 5011 to 5014 of this title as sections 5021 to 5024 \[now 8121 to 8124\], respectively, and amending section 5022 \[now 8122\] of this title as so redesignated\] shall take effect on October 1, 1979.
 
-“(b)(1) The amendments made by section 301 shall not apply with respect to the acquisition, construction, or alteration of any medical facility (as defined in section 5001(3) \[now 8101(3)\] of title 38, United States Code, as amended by section 301(a) of this Act) if such acquisition, construction, or alteration (not including exchange) was approved before October 1, 1979, by the President.
+“(b)(1) The amendments made by section 301 shall not apply with respect to the acquisition, construction, or alteration of any medical facility (as defined in section 5001(3) \[now 8101(3)\] of title 38, United States Code, asamended by section 301(a) of this Act) if such acquisition, construction, or alteration (not including exchange) was approved before October 1, 1979, by the President.
 
 “(2) The provisions of section 5007(a) \[now 8107(a)\] of title 38, United States Code, as amended by section 301(a) of this Act, shall take effect on the date of the enactment of this Act \[June 13, 1979\].”
 

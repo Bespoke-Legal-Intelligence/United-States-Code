@@ -26,7 +26,7 @@ This section shall not apply for purposes of part I of subchapter D of chapter 1
 
 #### (3) Revision for recent mortality charges
 
-&emsp;Not later than December 31, 1989, the Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Suchtables shall be revised not less frequently than once each 10 years thereafter to take into account the most recent mortality experience available as of the time of the revision.
+&emsp;Not later than December 31, 1989, the Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years thereafter to take into account the most recent mortality experience available as of the time of the revision.
 
 #### (d) Valuation date
 
@@ -49,8 +49,4 @@ Another section 7520 was renumbered section 7521 of this title.
 #### Effective Date
 
 Section 5031(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 664, 2702 of this title.
 

@@ -104,11 +104,19 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 The Secretary shall deposit all civil money penalties collected under this section into moneys of the Association pursuant to section 1722 of this title.
 
-(June 27, 1934, ch. 847, title III, §317, as added Pub. L. 101–235, title I, §110(a), Dec. 15, 1989, 103 Stat. 2011; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(A), Sept. 30, 1996, 110 Stat. 3009–490.)
+(June 27, 1934, ch. 847, title III, §317, as added Pub. L. 101–235, title I, §110(a), Dec. 15, 1989, 103 Stat. 2011; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(A), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 109–173, §9(f)(1), Feb. 15, 2006, 119 Stat. 3618.)
+
+#### Amendment of Subsection (b)(1)(B)
+
+<i>Pub. L. 109–173, §9(f)(1), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, subsection (b)(1)(B) of this section is amended by striking “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”.</i>
 
 #### Amendments
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations”, was not executed. See Effective Date of 1996 Amendment note below.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 1996 Amendment
 

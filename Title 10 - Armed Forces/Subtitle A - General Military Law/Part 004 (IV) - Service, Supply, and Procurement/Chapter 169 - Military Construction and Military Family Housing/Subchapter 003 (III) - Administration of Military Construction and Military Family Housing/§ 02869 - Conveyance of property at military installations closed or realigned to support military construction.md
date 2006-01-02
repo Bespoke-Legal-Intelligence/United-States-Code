@@ -48,7 +48,7 @@ Deposit of Funds.—The Secretary concerned may deposit funds received under sub
 
 Annual Report.—In the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31, the Secretary of Defense shall include a report detailing the following:
 
-&emsp;(1) The extent to which the Secretaries concerned used the authority provided by subsection (a) during the preceding fiscal year to convey real property in exchange for military construction and military housing, including the total value of the real property that was actually conveyed during such fiscal year using such authority and the total value of the military construction and military housing services obtained in exchange.
+&emsp;(1) The extent to which the Secretaries concerned used the authority provided by subsection (a) during the preceding fiscal year to convey real property in exchange for militaryconstruction and military housing, including the total value of the real property that was actually conveyed during such fiscal year using such authority and the total value of the military construction and military housing services obtained in exchange.
 
 &emsp;(2) The plans for the use of such authority for the current fiscal year, the fiscal year covered by the budget, and the period covered by the current future-years defense program under section 221 of this title.
 
@@ -63,8 +63,4 @@ Description of Property.—The exact acreage and legal description of real prope
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
 (Added Pub. L. 108–136, div. B, title XXVIII, §2805(a)(1), Nov. 24, 2003, 117 Stat. 1719.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2822, 2883 of this title.
 

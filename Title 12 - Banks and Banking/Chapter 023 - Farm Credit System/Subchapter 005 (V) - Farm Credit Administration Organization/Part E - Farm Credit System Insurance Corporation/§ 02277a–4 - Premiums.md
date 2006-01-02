@@ -22,7 +22,7 @@
 
 #### (3) “Government-guaranteed loans” defined
 
-&emsp;As used in this section and section 2020(b) of this title, the term “government-guaranteed loans” means loans or credits, or portions of loans or credits, that are guaranteed—
+&emsp;As used in this section and section 2020(b) of this title, the term “government-guaranteedloans” means loans or credits, or portions of loans or credits, that are guaranteed—
 
 &emsp;&emsp;(A) by the full faith and credit of the United States Government or any State government;
 
@@ -46,7 +46,7 @@ For purposes of this part, the term “secure base amount” means, with respect
 
 For the purpose of subsections (a), (c), and (e) of this section, the principal outstanding on all loans made by an insured System bank shall be determined based on all loans made—
 
-&emsp;(1) by any production credit association, or any other association making direct loansunder authority provided under section 2279b of this title, that is able to make such loans because such association is receiving, or has received, funds provided through the insured System bank;
+&emsp;(1) by any production credit association, or any other association making direct loans under authority provided under section 2279b of this title, that is able to make such loans because such association is receiving, or has received, funds provided through the insured System bank;
 
 &emsp;(2) by any bank, company, institution, corporation, union, or association described in section 2015(b)(1)(B) of this title, that is able to make such loans because such entity is receiving, or has received, funds provided through the insured System bank; and
 
@@ -80,7 +80,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (5) Use of funds in Allocated Insurance Reserves Accounts
 
-&emsp;To the extent that the sum of the operating expenses of the Corporation and the insurance obligations of the Corporation for a calendar year exceeds the sum of operating expenses and insurance obligations determined under paragraph (3) for the calendar year, the Corporation shall cover the expenses and obligations by—
+&emsp;To the extent that the sum of the operating expenses of the Corporation and the insuranceobligations of the Corporation for a calendar year exceeds the sum of operating expenses and insurance obligations determined under paragraph (3) for the calendar year, the Corporation shall cover the expenses and obligations by—
 
 &emsp;&emsp;(A) reducing each Allocated Insurance Reserves Account by the same proportion; and
 
@@ -112,7 +112,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 #### (i) Sufficient funding
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (4)(A), on provision by the Corporation for the accumulation in the Account established under paragraph (1)(B) of funds in an amount equal to $56,000,000 (in addition to theamounts described in subparagraph (F)(ii)), the Corporation shall not allocate any further funds to the Account except to replenish the Account if funds are diminished below $56,000,000 by the Corporation under paragraph (5).
+&emsp;&emsp;&emsp;Notwithstanding paragraph (4)(A), on provision by the Corporation for the accumulation in the Account established under paragraph (1)(B) of funds in an amount equal to $56,000,000 (in addition to the amounts described in subparagraph (F)(ii)), the Corporation shall not allocate any further funds to the Account except to replenish the Account if funds are diminished below $56,000,000 by the Corporation under paragraph (5).
 
 #### (ii) Wind down and termination
 
@@ -136,7 +136,7 @@ For the purpose of subsections (a), (c), and (e) of this section, the principal 
 
 &emsp;&emsp;Notwithstanding subparagraph (A), the initial payment made to each payee under subparagraph (A) shall be in such amount determined by the Corporation to be equal to the sum of—
 
-&emsp;&emsp;&emsp;(i) the total of the amounts that would have been paid if payments under subparagraph (A) had been authorized to begin, under the same terms and conditions, in the first calendar year beginning more than 5 years after the date on which the aggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, and to continue through the 2 immediately subsequent years;
+&emsp;&emsp;&emsp;(i) the total of the amounts that would have been paid if payments under subparagraph (A) had been authorized to begin, under the same terms and conditions, in the first calendar year beginning more than 5 years after the date on which theaggregate of the amounts in the Farm Credit Insurance Fund exceeds the secure base amount, and to continue through the 2 immediately subsequent years;
 
 &emsp;&emsp;&emsp;(ii) interest earned on any amounts that would have been paid as described in clause (i) from the date on which the payments would have been paid as described in clause (i); and
 

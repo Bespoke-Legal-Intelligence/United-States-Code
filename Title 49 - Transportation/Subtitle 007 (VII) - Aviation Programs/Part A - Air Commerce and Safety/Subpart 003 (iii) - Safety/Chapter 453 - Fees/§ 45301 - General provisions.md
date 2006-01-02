@@ -32,7 +32,7 @@ Use of Experts and Consultants.—In developing the system, the Administrator ma
 
 Production-Certification Related Service Defined.—In this section, the term “production-certification related service” has the meaning given that term in appendix C of part 187 of title 14, Code of Federal Regulations.
 
-(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, titleVII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629.)
+(Added Pub. L. 104–264, title II, §273(a), Oct. 9, 1996, 110 Stat. 3239; amended Pub. L. 106–181, title VII, §719, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §119(d), Nov. 19, 2001, 115 Stat. 629.)
 
 #### Prior Provisions
 
@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 106–181, §719(2), added subsec. (d).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date
 

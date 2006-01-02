@@ -32,7 +32,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 (2) The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Pub. L. 93–406, title I, §304, Sept. 2, 1974, 88 Stat. 873; Pub. L. 99–272, title XI, §§11015(b)(1)(B),11016(c)(3), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, §9306(c)(2)(B), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(3), Dec. 19, 1989, 103 Stat. 2445, 2449.)
+(Pub. L. 93–406, title I, §304, Sept. 2, 1974, 88 Stat. 873; Pub. L. 99–272, title XI, §§11015(b)(1)(B), 11016(c)(3), Apr. 7, 1986, 100 Stat. 267, 273; Pub. L. 100–203, title IX, §9306(c)(2)(B), Dec. 22, 1987, 101 Stat. 1330–355; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(d)(3), Dec. 19, 1989, 103 Stat. 2445, 2449.)
 
 #### References in Text
 

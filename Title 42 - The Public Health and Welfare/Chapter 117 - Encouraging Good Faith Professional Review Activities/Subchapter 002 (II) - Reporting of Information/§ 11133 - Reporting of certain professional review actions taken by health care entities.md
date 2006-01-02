@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) in return for not conducting such an investigation or proceeding; or
 
-&emsp;&emsp;(C) in the case of such an entity which is a professional society, takes a professionalreview action which adversely affects the membership of a physician in the society,
+&emsp;&emsp;(C) in the case of such an entity which is a professional society, takes a professional review action which adversely affects the membership of a physician in the society,
 
 > &emsp;shall report to the Board of Medical Examiners, in accordance with section 11134(a) of this title, the information described in paragraph (3).
 

@@ -32,19 +32,23 @@
 
 (f) In carrying out a cooperative project, the Secretary of Defense may also agree to the disposal of property that is jointly acquired by the members of the project without regard to any laws of the United States applicable to the disposal of property owned by the United States. Disposal of such property may include a transfer of the interest of the United States in such property to one of the other governments participating in the cooperative agreement or the sale of such property. Payment for the transfer or sale of any interest of the United States in any such property shall be made in accordance with the terms of the cooperative agreement.
 
-(g) Nothing in this section shall be construed as authorizing—
+(g) Nothing in this section shall be construed as authorizing the Secretary of Defense—
 
-&emsp;(1) the Secretary of Defense to waive any of the financial management responsibilities administered by the Secretary of the Treasury; or
+&emsp;(1) to waive any of the financial management responsibilities administered by the Secretary of the Treasury; or
 
 &emsp;(2) to waive the cargo preference laws of the United States, including section 2631 of this title and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b)).
 
-(Added Pub. L. 99–145, title XI, §1102(b)(1), Nov. 8, 1985, 99 Stat. 710, §2407; amended Pub. L. 99–661, div. A, title XI, §1103(b)(1), (2)(A), title XIII, §1343(a)(15), Nov. 14, 1986, 100 Stat. 3963, 3993; renumbered §2350b and amended Pub. L. 101–189, div. A, title IX, §931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 104–106, div. A, title XIII, §1335, div. D, title XLIII, §4321(b)(10), Feb. 10, 1996, 110 Stat. 484, 672.)
+(Added Pub. L. 99–145, title XI, §1102(b)(1), Nov. 8, 1985, 99 Stat. 710, §2407; amended Pub. L. 99–661, div. A, title XI, §1103(b)(1), (2)(A), title XIII, §1343(a)(15), Nov. 14, 1986, 100 Stat. 3963, 3993; renumbered §2350b and amended Pub. L. 101–189, div. A, title IX, §931(b)(1), (e)(3), Nov. 29, 1989, 103 Stat. 1534, 1535; Pub. L. 104–106, div. A, title XIII, §1335, div. D, title XLIII, §4321(b)(10), Feb. 10, 1996, 110 Stat. 484, 672; Pub. L. 108–375, div. A, title X, §1084(d)(19), Oct. 28, 2004, 118 Stat. 2062.)
 
 #### References in Text
 
 The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 #### Amendments
+
+2004—Subsec. (g). Pub. L. 108–375, §1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
+
+Subsec. (g)(1). Pub. L. 108–375, §1084(d)(19)(B), struck out “the Secretary of Defense” before “to waive”.
 
 1996—Subsec. (c)(1). Pub. L. 104–106, §4321(b)(10)(A), inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
 

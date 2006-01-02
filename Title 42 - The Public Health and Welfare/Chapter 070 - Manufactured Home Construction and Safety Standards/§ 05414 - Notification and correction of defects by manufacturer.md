@@ -30,7 +30,7 @@ If the Secretary determines that any manufactured home—
 
 &emsp;(2) contains a defect which constitutes an imminent safety hazard,
 
-> then he shall immediately notify the manufacturer of such manufactured home of such defect or failure to comply. The notice shall contain the findings of the Secretary and shall include all information upon which the findings are based. The Secretary shall afford such manufacturer an opportunity to present his views and evidence in support thereof, to establish that there is no failure of compliance. If after such presentation by the manufacturer the Secretary determines that such manufactured home does not comply with applicable Federal manufactured home construction or safety standards, or contains a defect which constitutes an imminent safety hazard, the Secretary shall direct the manufacturer to furnish the notification specified in subsections (a) and (b) of this section.
+> then he shall immediately notify the manufacturer of such manufactured home of such defect or failure to comply. The notice shall contain the findings of the Secretary and shall include all information upon which the findings are based. The Secretary shall afford such manufacturer an opportunity to present his views and evidence in support thereof, to establish that there is no failure of compliance. If after such presentation by the manufacturer the Secretary determines that such manufactured home doesnot comply with applicable Federal manufactured home construction or safety standards, or contains a defect which constitutes an imminent safety hazard, the Secretary shall direct the manufacturer to furnish the notification specified in subsections (a) and (b) of this section.
 
 #### (f) Maintenance by manufacturers of record of names and addresses of first purchasers of manufactured homes; procedures for ascertaining names and addresses of subsequent purchasers; establishment and reasonableness of procedures for maintaining records
 
@@ -58,7 +58,7 @@ Where a defect or failure to comply in a manufactured home cannot be adequately 
 
 #### Codification
 
-References to “mobile homes”, wherever appearing in text, changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12,Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+References to “mobile homes”, wherever appearing in text, changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
 
 #### Amendments
 

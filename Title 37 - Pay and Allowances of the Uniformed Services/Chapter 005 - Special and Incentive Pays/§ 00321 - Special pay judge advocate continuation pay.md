@@ -26,23 +26,27 @@ Payment Methods.—Upon acceptance of an agreement under subsection (b) by the S
 
 (e)
 
-Additional Pay.—Any amount paid to an officer under this section is in addition to anyother pay and allowances to which the officer is entitled.
+Additional Pay.—Any amount paid to an officer under this section is in addition to any other pay and allowances to which the officer is entitled.
 
 (f)
 
-Repayment.—(1) If an officer who has entered into a written agreement under subsection (b) and has received all or part of the amount payable under the agreement fails to complete the total period of active duty specified in the agreement, the Secretary concerned may require the officer to repay the United States, to the extent that the Secretary determines conditions and circumstances warrant, any or all sums paid under this section.
-
-(2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (b) does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1).
+Repayment.—An officer who has entered into a written agreement under subsection (b) and has received all or part of the amount payable under the agreement but who does not complete the total period of active duty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (g)
 
 Regulations.—The Secretary concerned shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VI, §629(a)(1), Oct. 5, 1999, 113 Stat. 659.)
+(Added Pub. L. 106–65, div. A, title VI, §629(a)(1), Oct. 5, 1999, 113 Stat. 659; amended Pub. L. 109–163, div. A, title VI, §687(b)(29), Jan. 6, 2006, 119 Stat. 3332.)
+
+#### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163 amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer fails to complete total period of agreed upon active duty.
 
 #### Effective Date
 
 Pub. L. 106–65, div. A, title VI, §629(c), Oct. 5, 1999, 113 Stat. 661, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

@@ -8,7 +8,7 @@ Any person who has entered into an agreement of indemnification under section 22
 
 (1) The Secretary shall have the power to compromise, modify or remit, with or without conditions, such civil penalties and to prescribe regulations as he may deem necessary to implement this section.
 
-(2) In determining the amount of any civil penalty under this subsection, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require. In implementing this section, the Secretary shall determine by rule whether nonprofit educational institutions should receive automatic remission of any penalty under this section.
+(2) In determining the amount of any civil penalty under this subsection, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
 
 #### (c) Assessment and payment
 
@@ -26,33 +26,27 @@ Any person who has entered into an agreement of indemnification under section 22
 
 (4) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order under paragraph (2), or after the appropriate district court has entered final judgment in favor of the Secretary under paragraph (3), the Secretary shall institute an action to recover the amount of such penalty in any appropriate district court of the United States. In such action, the validity and appropriateness of such final assessment order or judgment shall not be subject to review.
 
-#### (d) Excepted institutions
+#### (d) Limitation for not-for-profit institutions
 
-The provisions of this section shall not apply to:
+(1) Notwithstanding subsection (a) of this section, in the case of any not-for-profit contractor, subcontractor, or supplier, the total amount of civil penalties paid under subsection (a) of this section may not exceed the total amount of fees paid within any 1-year period (as determined by the Secretary) under the contract under which the violation occurs.
 
-&emsp;(1) The University of Chicago (and any subcontractors or suppliers thereto) for activities associated with Argonne National Laboratory;
+(2) For purposes of this section, the term “not-for-profit” means that no part of the net earnings of the contractor, subcontractor, or supplier inures to the benefit of any natural person or for-profit artificial person.
 
-&emsp;(2) The University of California (and any subcontractors or suppliers thereto) for activities associated with Los Alamos National Laboratory, Lawrence Livermore National Laboratory, and Lawrence Berkeley National Laboratory;
-
-&emsp;(3) American Telephone an <sup>1</sup> Telegraph Company and its subsidiaries (and any subcontractors or suppliers thereto) for activities associated with Sandia National Laboratories;
-
-&emsp;(4) Universities Research Association, Inc. (and any subcontractors or suppliers thereto) for activities associated with FERMI National Laboratory;
-
-&emsp;(5) Princeton University (and any subcontractors or suppliers thereto) for activities associated with Princeton Plasma Physics Laboratory;
-
-&emsp;(6) The Associated Universities, Inc. (and any subcontractors or suppliers thereto) for activities associated with the Brookhaven National Laboratory; and
-
-&emsp;(7) Battelle Memorial Institute (and any subcontractors or suppliers thereto) for activities associated with Pacific Northwest Laboratory.
-
-(Aug. 1, 1946, ch. 724, title I, §234A, as added Pub. L. 100–408, §17, Aug. 20, 1988, 102 Stat. 1081; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 106–65, div. C, title XXXI, §3147(c), Oct. 5, 1999, 113 Stat. 938.)
+(Aug. 1, 1946, ch. 724, title I, §234A, as added Pub. L. 100–408, §17, Aug. 20, 1988, 102 Stat. 1081; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 106–65, div. C, title XXXI, §3147(c), Oct. 5, 1999, 113 Stat. 938; Pub. L. 109–58, title VI, §610(a), (b), Aug. 8, 2005, 119 Stat. 781.)
 
 #### Amendments
 
+2005—Subsec. (b)(2). Pub. L. 109–58, §610(a), struck out at end “In implementing this section, the Secretary shall determine by rule whether nonprofit educational institutions should receive automatic remission of any penalty under this section.”
+
+Subsec. (d). Pub. L. 109–58, §610(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that the provisions of this section would not apply to the University of Chicago for activities associated with Argonne National Laboratory; the University of California for activities associated with Los Alamos National Laboratory, Lawrence Livermore National Laboratory, and Lawrence Berkeley National Laboratory; American Telephone and Telegraph Company and its subsidiaries for activities associated with Sandia National Laboratories; Universities Research Association, Inc. for activities associated with FERMI National Laboratory; Princeton University for activities associated with Princeton Plasma Physics Laboratory; the Associated Universities, Inc. for activities associated with the Brookhaven National Laboratory; and Battelle Memorial Institute for activities associated with Pacific Northwest Laboratory.
+
 1999—Pub. L. 106–65 inserted “safety” before “regulations” in section catchline.
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title VI, §610(c), Aug. 8, 2005, 119 Stat. 782, provided that: “The amendments made by this section \[amending this section\] shall not apply to any violation of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) occurring under a contract entered into before the date of enactment of this section \[Aug. 8, 2005\].”
 
 #### Effective Date
 
 Section effective Aug. 20, 1988, but inapplicable to any violation occurring before Aug. 20, 1988, see section 20 of Pub. L. 100–408, set out as an Effective Date of 1988 Amendment note under section 2014 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
 

@@ -42,7 +42,7 @@ The program shall provide for—
 
 #### (2) Agreement
 
-&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Services to carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
+&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Servicesto carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
 
 #### (3) Actions of Director
 
@@ -122,7 +122,7 @@ In general.—Within 15 months after October 24, 1992, and as often thereafter a
 
 &emsp;(B)
 
-Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
+Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and theDirector shall consult with the Advisory Committee.
 
 &emsp;(C)
 

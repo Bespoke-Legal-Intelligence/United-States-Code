@@ -10,7 +10,7 @@ Not later than 6 months after January 7, 1983, and notwithstanding the failure o
 
 &emsp;(A) an evaluation by the Secretary as to whether such site is suitable for siting research under the guidelines established under subsection (a) of this section;
 
-&emsp;(B) an evaluation by the Secretary of the effects of the siting research activities at suchsite on the public health and safety and the environment;
+&emsp;(B) an evaluation by the Secretary of the effects of the siting research activities at such site on the public health and safety and the environment;
 
 &emsp;(C) a reasonable comparative evaluation by the Secretary of such site with other sites and locations that have been considered;
 

@@ -46,13 +46,13 @@
 
 #### (ii) Insufficient funds to award alternative minimum
 
-&emsp;&emsp;&emsp;If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2003 yet is insufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $340,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $40,000.
+&emsp;&emsp;&emsp;If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) of this section for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2003 yet isinsufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $340,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $40,000.
 
 #### (D) Special rule
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants tothe United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
 
 #### (ii) Award basis
 

@@ -1,6 +1,6 @@
 ### §470jj. Cooperation with private individuals
 
-The Secretary of the Interior shall take such action as may be necessary, consistent with the purposes of this chapter, to foster and improve the communication, cooperation, and exchange of information between—
+The Secretary of the Interior shall take such action as may be necessary, consistent with thepurposes of this chapter, to foster and improve the communication, cooperation, and exchange of information between—
 
 &emsp;(1) private individuals having collections of archaeological resources and data which were obtained before the date of the enactment of this chapter, and
 

@@ -58,7 +58,7 @@ Nothing in this section shall be construed—
 
 #### (2) Increased cost exemption
 
-&emsp;This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in an increase in the cost under the plan (or for such coverage) of at least 1 percent.
+&emsp;This section shall not apply with respect to a group health plan (or health insurance coverage offered in connection with a group health plan) if the application of this section to such plan (or to such coverage) results in anincrease in the cost under the plan (or for such coverage) of at least 1 percent.
 
 #### (d) Separate application to each option offered
 
@@ -86,15 +86,17 @@ For purposes of this section—
 
 #### (f) Sunset
 
-This section shall not apply to benefits for services furnished after December 31, 2005.
+This section shall not apply to benefits for services furnished after December 31, 2006.
 
-(July 1, 1944, ch. 373, title XXVII, §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(b), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(b), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(c), Oct. 4, 2004, 118 Stat. 1179.)
+(July 1, 1944, ch. 373, title XXVII, §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(b), Dec. 2, 2002, 116 Stat. 2457; Pub. L. 108–197, §2(b), Dec. 19, 2003, 117 Stat. 2898; Pub. L. 108–311, title III, §302(c), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–151, §1(b), Dec. 30, 2005, 119 Stat. 2886.)
 
 #### Prior Provisions
 
 A prior section 2705 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238d of this title.
 
 #### Amendments
+
+2005—Subsec. (f). Pub. L. 109–151 substituted “December 31, 2006” for “December 31, 2005”.
 
 2004—Subsec. (f). Pub. L. 108–311 substituted “after December 31, 2005” for “on or after December 31, 2004”.
 

@@ -6,7 +6,7 @@ Every alien applying for an immigrant visa and for alien registration shall make
 
 #### (b) Other documentary evidence for immigrant visa
 
-Every alien applying for an immigrant visa shall present a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the eventthat the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain. All immigrant visa applications shall be reviewed and adjudicated by a consular officer.
+Every alien applying for an immigrant visa shall present a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the event that the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain. All immigrant visa applications shall be reviewed and adjudicated by a consular officer.
 
 #### (c) Nonimmigrant visas; nonimmigrant registration; form, manner and contents of application
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of this chapter, the Secretary of State shal
 
 &emsp;&emsp;&emsp;(ii) within the NATO visa category;
 
-&emsp;&emsp;&emsp;(iii) within that class of nonimmigrants enumerated in section 1101(a)(15)(C)(iii) <sup>3</sup> ofthis title (referred to as the “C–3 visa” category); or
+&emsp;&emsp;&emsp;(iii) within that class of nonimmigrants enumerated in section 1101(a)(15)(C)(iii) <sup>3</sup> of this title (referred to as the “C–3 visa” category); or
 
 &emsp;&emsp;&emsp;(iv) granted a diplomatic or official visa on a diplomatic or official passport or on the equivalent thereof;
 
@@ -177,6 +177,10 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Sharing of Certain Information
+
+Pub. L. 109–162, title VIII, §834, Jan. 5, 2006, 119 Stat. 3077, provided that: “Section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) shall not be construed to prevent the sharing of information regarding a United States petitioner for a visa under clause (i) or (ii) of section 101(a)(15)(K) of such Act (8 U.S.C. 1101(a)(15)(K)) for the limited purposes of fulfilling disclosure obligations imposed by the amendments made by section 832(a) \[amending section 1184 of this title\] or by section 833 \[enacting section 1375a of this title\], including reporting obligations of the Comptroller General of the United States under section 833(f).”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

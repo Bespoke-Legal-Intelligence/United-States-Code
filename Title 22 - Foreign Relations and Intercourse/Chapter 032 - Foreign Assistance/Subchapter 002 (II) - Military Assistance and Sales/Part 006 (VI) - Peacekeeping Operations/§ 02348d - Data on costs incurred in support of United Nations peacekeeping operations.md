@@ -12,7 +12,7 @@ The President shall request that the United Nations compile and publish informat
 
 #### References in Text
 
-Section 8079 of the Department of Defense Appropriations Act, 1998, referred to in subsec. (a), is section 8079of Pub. L. 105–56, title VIII, Oct. 8, 1997, 111 Stat. 1236, which is not classified to the Code.
+Section 8079 of the Department of Defense Appropriations Act, 1998, referred to in subsec. (a), is section 8079 of Pub. L. 105–56, title VIII, Oct. 8, 1997, 111 Stat. 1236, which is not classified to the Code.
 
 #### Prior Provisions
 

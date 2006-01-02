@@ -2,7 +2,7 @@
 
 #### (a) Civil penalties
 
-(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates section 3372(d) of this title, may be assessed a civil penalty by theSecretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
+(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates section 3372(d) of this title, may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
 
 (2) Any person who violates section 3372(b) of this title may be assessed a civil penalty by the Secretary of not more than $250.
 
@@ -52,7 +52,7 @@ The Secretary may also suspend, modify, or cancel any Federal hunting or fishing
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Codification
 

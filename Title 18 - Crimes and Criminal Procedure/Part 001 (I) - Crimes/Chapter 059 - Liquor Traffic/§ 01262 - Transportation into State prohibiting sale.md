@@ -22,7 +22,7 @@ Those cases overruled <i>Arnold v. U.S</i>. (1940, 115 F. 2d 523) and Gregg v. U
 
 Subsection (b) of section 223 of title 27, U.S.C., 1940 ed., has been reworded to apply the definition of intoxicating liquor contained in the laws of the respective States to this section only, in accordance with administrative interpretation. Said section 223 was derived from section 3 of the Liquor Enforcement Act of 1936 (Act June 25, 1936, ch. 815, 49 Stat. 1928), which was enacted for the protection of dry States. As originally enacted, its provisions relating to such definition also embraced the interstate commerce liquor laws from which sections 1263–1265 of this title were derived. In the enforcement of the latter, however, their own definitions have been applied and not the definitions of the States into which or through which the liquor was shipped.
 
-Words “Territory, District, or Possession” were inserted after “State”, to conform with the definition of “State” given in said section 222 of title 27, U.S.C., 1940 ed. Such section, including subsection (b) thereof, is also incorporated in section 3615 of this title.
+Words “Territory, District, or Possession” were inserted after “State”, to conform with the definition of “State” given in said section 222 of title 27, U.S.C., 1940ed. Such section, including subsection (b) thereof, is also incorporated in section 3615 of this title.
 
 Words “be guilty of a misdemeanor and shall” were omitted in view of definitive section 1 of this title.
 

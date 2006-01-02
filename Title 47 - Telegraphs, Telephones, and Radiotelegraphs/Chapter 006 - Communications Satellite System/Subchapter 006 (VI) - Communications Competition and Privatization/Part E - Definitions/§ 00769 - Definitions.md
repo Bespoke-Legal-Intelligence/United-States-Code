@@ -58,7 +58,7 @@ As used in this subchapter:
 
 #### (11) Non-core services
 
-&emsp;The term “non-core services” means, with respect to INTELSAT provision, services other than public-switched network voice telephony and occasional-use television, and with respect to Inmarsat provision, services other than global maritime distress and safety services orother existing maritime or aeronautical services for which there are not alternative providers.
+&emsp;The term “non-core services” means, with respect to INTELSAT provision, services other than public-switched network voice telephony and occasional-use television, and with respect to Inmarsat provision, services other than global maritime distress and safety services or other existing maritime or aeronautical services for which there are not alternative providers.
 
 #### (12) Additional services
 

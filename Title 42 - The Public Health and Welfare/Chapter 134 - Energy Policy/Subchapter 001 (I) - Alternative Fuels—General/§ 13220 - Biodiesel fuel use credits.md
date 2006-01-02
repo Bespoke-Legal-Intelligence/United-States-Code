@@ -48,7 +48,15 @@ The Secretary shall collect such data as are required to make a determination de
 
 For purposes of this section—
 
-&emsp;(1) the term “biodiesel” means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 7545 of this title; and
+&emsp;(1) the term “biodiesel”—
+
+&emsp;&emsp;(A) means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 7545 of this title;
+
+&emsp;&emsp;(B) includes biodiesel derived from—
+
+&emsp;&emsp;&emsp;(i) animal wastes, including poultry fats and poultry wastes, and other waste materials; or
+
+&emsp;&emsp;&emsp;(ii) municipal solid waste and sludges and oils derived from wastewater and the treatment of wastewater; and
 
 &emsp;(2) the term “qualifying volume” means—
 
@@ -56,7 +64,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if the Secretary determines by rule that the average annual alternative fuel use in light duty vehicles by fleets and covered persons exceeds 450 gallons or gallon equivalents, the amount of such average annual alternative fuel use.
 
-(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480.)
+(Pub. L. 102–486, title III, §312, as added Pub. L. 105–277, div. A, §101(a) \[title XII, §1201(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–48; Pub. L. 105–388, §7(a), Nov. 13, 1998, 112 Stat. 3480; Pub. L. 109–58, title XV, §1515, Aug. 8, 2005, 119 Stat. 1091.)
 
 #### References in Text
 
@@ -65,4 +73,8 @@ The date of the enactment of this section, referred to in subsec. (a)(1), probab
 #### Codification
 
 Pub. L. 105–277 and Pub. L. 105–388 enacted identical sections.
+
+#### Amendments
+
+2005—Subsec. (f)(1). Pub. L. 109–58 inserted dash after “ ‘biodiesel’ ”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 

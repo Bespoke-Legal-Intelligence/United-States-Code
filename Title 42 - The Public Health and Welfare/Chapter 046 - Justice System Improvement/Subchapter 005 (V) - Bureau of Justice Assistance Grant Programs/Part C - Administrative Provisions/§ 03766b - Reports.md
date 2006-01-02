@@ -1,8 +1,8 @@
 ### §3766b. Reports
 
-(a) Each State which receives a grant under section 3756 of this title shall submit to the Director, for each year in which any part of such grant is expended by a State or unit of local government, a report which contains—
+(a) Each State which receives a grant under section 3755 of this title shall submit to the Director, for each year in which any part of such grant is expended by a State or unit of local government, a report which contains—
 
-&emsp;(1) a summary of the activities carried out with such grant and an assessment of the impact of such activities on meeting the needs identified in the State strategy submitted under section 3753 of this title;
+&emsp;(1) a summary of the activities carried out with such grant and an assessment of the impact of such activities on meeting the purposes of part A of this subchapter;
 
 &emsp;(2) a summary of the activities carried out in such year with any grant received under part B of this subchapter by such State;
 
@@ -26,11 +26,19 @@
 
 &emsp;(5) evaluation results of programs and projects and State strategy implementation.
 
-(Pub. L. 90–351, title I, §522, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4337.)
+(Pub. L. 90–351, title I, §522, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4337; amended Pub. L. 109–162, title XI, §1111(c)(2)(C), Jan. 5, 2006, 119 Stat. 3101.)
 
 #### Prior Provisions
 
 For prior sections 523, 524, and 526 to 528 of Pub. L. 90–351 and prior sections 3767 and 3768 of this title, see note set out preceding section 3750 of this title.
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–162 substituted “section 3755” for “section 3756” in introductory provisions and “an assessment of the impact of such activities on meeting the purposes of part A of this subchapter” for “an assessment of the impact of such activities on meeting the needs identified in the State strategy submitted under section 3753 of this title” in par. (1).
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
 
 #### Transfer of Functions
 

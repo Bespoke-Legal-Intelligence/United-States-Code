@@ -18,7 +18,7 @@ In a case of actual controversy involving—
 
 #### (1) Petitioner
 
-&emsp;A pleading may be filed under this section only by a petitioner who is the employer, theplan administrator, an employee who has qualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
+&emsp;A pleading may be filed under this section only by a petitioner who is the employer, the plan administrator, an employee who has qualified under regulations prescribed by the Secretary as an interested party for purposes of pursuing administrative remedies within the Internal Revenue Service, or the Pension Benefit Guaranty Corporation.
 
 #### (2) Notice
 
@@ -26,7 +26,7 @@ In a case of actual controversy involving—
 
 #### (3) Exhaustion of administrative remedies
 
-&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal Revenue Service. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270 days after the request for such determination was made.
+&emsp;The Tax Court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted administrative remedies available to him within the Internal Revenue Service. A petitioner shall not be deemed to have exhausted his administrative remedies with respect to a failure by the Secretary to make a determination with respect to initial qualification or continuing qualification of a retirement plan before the expiration of 270days after the request for such determination was made.
 
 #### (4) Plan put into effect
 
@@ -86,15 +86,11 @@ Section 701(dd)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct
 
 Amendment by section 1042(d)(2)(C) of Pub. L. 94–455 applicable to pleadings filed with the Tax Court after Oct. 4, 1976, but only with respect to transfers beginning after Oct. 9, 1975, see section 1042(e)(1) of Pub. L. 94–455, set out as a note under section 367 of this title.
 
-Amendment by section 1306(b)(3) of Pub. L. 94–455 applicable with respect to pleadings filed with the UnitedStates Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976 but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under section 7428 of this title.
+Amendment by section 1306(b)(3) of Pub. L. 94–455 applicable with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976 but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as an Effective Date note under section 7428 of this title.
 
 Amendment by section 1906(a)(48), (b)(13)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
 #### Effective Date
 
 Section 1041(d) of Pub. L. 93–406 provided that: “The amendments made by this section \[enacting this section and amending sections 7451, 7459, and 7482 of this title\] shall apply to pleadings filed more than 1 year after the date of the enactment of this Act \[Sept. 2, 1974\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7482 of this title; title 29 section 1201.
 

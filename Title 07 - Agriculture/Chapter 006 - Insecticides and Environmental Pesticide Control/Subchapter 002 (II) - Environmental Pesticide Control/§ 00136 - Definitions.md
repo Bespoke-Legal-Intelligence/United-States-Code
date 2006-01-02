@@ -8,7 +8,7 @@ The term “active ingredient” means—
 
 &emsp;(1) in the case of a pesticide other than a plant regulator, defoliant, desiccant, or nitrogen stabilizer, an ingredient which will prevent, destroy, repel, or mitigate any pest;
 
-&emsp;(2) in the case of a plant regulator, an ingredient which, through physiological action, will accelerate or retard the rate of growth or rateof maturation or otherwise alter the behavior of ornamental or crop plants or the product thereof;
+&emsp;(2) in the case of a plant regulator, an ingredient which, through physiological action, will accelerate or retard the rate of growth or rate of maturation or otherwise alter the behavior of ornamental or crop plants or the product thereof;
 
 &emsp;(3) in the case of a defoliant, an ingredient which will cause the leaves or foliage to drop from a plant;
 
@@ -176,7 +176,7 @@ The term “pesticide” means (1) any substance or mixture of substances intend
 
 #### (v) Plant regulator
 
-The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
+The term “plant regulator” means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term “plant regulator” shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagationof plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
 
 #### (w) Producer and produce
 
@@ -300,7 +300,7 @@ The term “minor use” means the use of a pesticide on an animal, on a commerc
 
 #### (3) Included products
 
-&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any other preservative product that is not excluded by paragraph (2).
+&emsp;The term “antimicrobial pesticide” does include any other chemical sterilant product (other than liquid chemical sterilant products exempt under subsection (u) of this section), any other disinfectant product, any other industrial microbiocide product, and any otherpreservative product that is not excluded by paragraph (2).
 
 #### (nn) Public health pesticide
 

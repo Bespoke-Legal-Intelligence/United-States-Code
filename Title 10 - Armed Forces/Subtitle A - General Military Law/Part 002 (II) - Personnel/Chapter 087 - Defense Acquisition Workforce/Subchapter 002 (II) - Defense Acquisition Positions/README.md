@@ -23,4 +23,4 @@
 - [&sect; 01722 - Career development](%C2%A7%2001722%20-%20Career%20development.md)
 - [&sect; 01723 - General education, training, and experience requirements](%C2%A7%2001723%20-%20General%20education%2C%20training%2C%20and%20experience%20requirements.md)
 - [&sect; 01724 - Contracting positions qualification requirements](%C2%A7%2001724%20-%20Contracting%20positions%20qualification%20requirements.md)
-- [&sect; 01725 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;832(a), Nov. 24, 2003, 117 Stat. 1550](%C2%A7%2001725%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7832%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201550.md)
+- [&sect; 01725 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;832(a), Nov. 24, 2003, 117 Stat. 1550; amended Pub. L. 108&#8211;375, div. A, title X&#8230;](%C2%A7%2001725%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7832%28a%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201550%3B%20amended%20Pub.%20L.%20108%E2%80%93375%2C%20div.%20A%2C%20title%20X%E2%80%A6.md)

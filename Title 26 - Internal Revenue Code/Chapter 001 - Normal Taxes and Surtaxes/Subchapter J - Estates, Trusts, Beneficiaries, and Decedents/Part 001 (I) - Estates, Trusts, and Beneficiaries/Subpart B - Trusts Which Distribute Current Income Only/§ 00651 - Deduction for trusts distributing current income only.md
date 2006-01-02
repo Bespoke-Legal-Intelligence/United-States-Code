@@ -16,7 +16,3 @@ If the amount of income required to be distributed currently exceeds the distrib
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 219.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 67, 642, 643, 646, 652, 663 of this title.
-

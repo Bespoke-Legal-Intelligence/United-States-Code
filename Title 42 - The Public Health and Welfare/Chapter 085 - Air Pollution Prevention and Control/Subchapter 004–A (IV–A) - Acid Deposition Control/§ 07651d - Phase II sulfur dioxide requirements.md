@@ -54,7 +54,7 @@ After January 1, 2000, it shall be unlawful for any existing oil and gas-fired u
 
 (1) After January 1, 2000, it shall be unlawful for any oil and gas-fired existing utility unit the lesser of whose actual or allowable 1985 emission rate is less than 0.60 lbs/mmBtu and whose average annual fuel consumption during the period 1980 through 1989 on a Btu basis was 90 percent or less in the form of natural gas to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's baseline multiplied by (A) the lesser of 0.60 lbs/mmBtu or the unit's allowable 1985 emissions, and (B) a numerical factor of 120 percent, divided by 2,000, unless the owner or operator of such unit holds allowances to emit not less than the unit's total annual emissions.
 
-(2) In addition to allowances allocated pursuant to paragraph (1) as basic Phase II allowance allocations and section 7651b(a)(1) of this title, beginning January 1, 2000, the Administrator shall, in the case of any unit operated by a utility that furnishes electricity, electric energy, steam, and natural gas within an area consisting of a city and 1 contiguous county, and in the case of any unit owned by a State authority, the output of which unit is furnished within that same area consisting of a city and 1 contiguous county, the Administrator shall allocate for each unit in the utility its pro rata share of 7,000 allowances and for each unit in the State authority its pro rata share of 2,000 allowances.
+(2) In addition to allowances allocated pursuant to paragraph (1) as basic Phase II allowance allocations and section 7651b(a)(1) of this title, beginning January 1, 2000, the Administrator shall,<sup>2</sup> in the case of any unit operated by a utility that furnishes electricity, electric energy, steam, and natural gas within an area consisting of a city and 1 contiguous county, and in the case of any unit owned by a State authority, the output of which unit is furnished within that same area consisting of a city and 1 contiguous county, the Administrator shall allocate for each unit in the utility its pro rata share of 7,000 allowances and for each unit in the State authority its pro rata share of 2,000 allowances.
 
 #### (g) Units that commence operation between 1986 and December 31, 1995
 
@@ -78,15 +78,15 @@ TABLE B
 | Cross 1 | 6,401 |
 | Malakoff 1 | 1,759 |
 
-> Notwithstanding any other paragraph of this subsection, for units subject to this paragraph, the Administrator shall not allocate allowances pursuant to any other paragraph of this subsection, Provided <sup>2</sup> that the owner or operator of a unit listed on Table B may elect an allocation of allowances under another paragraph of this subsection in lieu of an allocation under this paragraph.
+> Notwithstanding any other paragraph of this subsection, for units subject to this paragraph, the Administrator shall not allocate allowances pursuant to any other paragraph of this subsection, Provided <sup>3</sup> that the owner or operator of a unit listed on Table B may elect an allocation of allowances under another paragraph of this subsection in lieu of an allocation under this paragraph.
 
-(3) Beginning January 1, 2000, the Administrator shall allocate to the owner or operator of any utility unit that commences commercial operation, or has commenced commercial operation, on or after October 1, 1990, but not later than December 31, 1992 allowances in an amount equal to the product of the unit's annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 0.30 lbs/mmBtu or the unit's allowable sulfur dioxide emission rate (converted, if necessary, to pounds per mmBtu), divided by 2,000.
+(3) Beginning January 1, 2000, the Administrator shall allocate to the owner or operator of any utility unit that commences commercial operation, or has commenced commercial operation, on or after October 1, 1990, but not later than December 31, 1992 allowances in an amount equal to the product of the unit's annual fuelconsumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 0.30 lbs/mmBtu or the unit's allowable sulfur dioxide emission rate (converted, if necessary, to pounds per mmBtu), divided by 2,000.
 
 (4) Beginning January 1, 2000, the Administrator shall allocate to the owner or operator of any utility unit that has commenced construction before December 31, 1990 and that commences commercial operation between January 1, 1993 and December 31, 1995, allowances in an amount equal to the product of the unit's annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 0.30 lbs/mmBtu or the unit's allowable sulfur dioxide emission rate (converted, if necessary, to pounds per mmBtu), divided by 2,000.
 
-(5) After January 1, 2000, it shall be unlawful for any existing utility unit that has completed conversion from predominantly gas fired existing operation to coal fired operation between January 1, 1985 and December 31, 1987, for which there has been allocated a proposed or final prohibition order pursuant to section 301(b) <sup>3</sup> of the Powerplant and Industrial Fuel Use Act of 1978 (42 U.S.C. 8301 et seq, repealed 1987) to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 1.20 lbs/mmBtu or the unit's allowable 1987 sulfur dioxide emissions rate, divided by 2,000, unless the owner or operator of such unit has obtained allowances equal to its actual emissions.
+(5) After January 1, 2000, it shall be unlawful for any existing utility unit that has completed conversion from predominantly gas fired existing operation to coal fired operation between January 1, 1985 and December 31, 1987, for which there has been allocated a proposed or final prohibition order pursuant to section 301(b) <sup>4</sup> of the Powerplant and Industrial Fuel Use Act of 1978 (42 U.S.C. 8301 et seq, repealed 1987) to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's annual fuel consumption, on a Btu basis, at a 65 percent capacity factor multiplied by the lesser of 1.20 lbs/mmBtu or the unit's allowable 1987 sulfur dioxide emissions rate, divided by 2,000, unless the owner or operator of such unit has obtained allowances equal to its actual emissions.
 
-(6)(A) <sup>4</sup> Unless the Administrator has approved a designation of such facility under section 7651i of this title, the provisions of this subchapter shall not apply to a “qualifying small power production facility” or “qualifying cogeneration facility” (within the meaning of section 796(17)(C) or 796(18)(B) of title 16) or to a “new independent power production facility” as defined in section 7651<i>o</i> of this title except that clause (iii) <sup>5</sup> of such definition in section 7651<i>o</i> of this title shall not apply for purposes of this paragraph if, as of November 15, 1990,
+(6)(A) <sup>5</sup> Unless the Administrator has approved a designation of such facility under section 7651i of this title, the provisions of this subchapter shall not apply to a “qualifying small power production facility” or “qualifying cogeneration facility” (within the meaning of section 796(17)(C) or 796(18)(B) of title 16) or to a “new independent power production facility” as defined in section 7651<i>o</i> of this title except that clause (iii) <sup>6</sup> of such definition in section 7651<i>o</i> of this title shall not apply for purposes of this paragraph if, as of November 15, 1990,
 
 &emsp;(i) an applicable power sales agreement has been executed;
 
@@ -128,11 +128,13 @@ Section 301(b) of the Powerplant and Industrial Fuel Use Act of 1978, referred t
 
 <i><sup>1</sup></i><i> So in original. Probably should be “unit's”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. The words “the Administrator shall,” probably should not appear.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>4</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably means clause “(C)”.</i>
+<i><sup>5</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
+
+<i><sup>6</sup></i><i> So in original. Probably means clause “(C)”.</i>
 

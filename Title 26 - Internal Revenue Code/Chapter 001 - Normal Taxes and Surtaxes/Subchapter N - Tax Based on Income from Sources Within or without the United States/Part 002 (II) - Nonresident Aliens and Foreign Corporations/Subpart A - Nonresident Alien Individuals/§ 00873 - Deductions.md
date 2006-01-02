@@ -28,7 +28,7 @@ The following deductions shall be allowed whether or not they are connected with
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–277 amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The deduction for losses allowed by section 165(c)(3), but only if the loss is of property located within the United States.”
+1998—Subsec. (b)(1). Pub. L. 105–277 amended heading and text of par. (1) generally. Prior to amendment, textread as follows: “The deduction for losses allowed by section 165(c)(3), but only if the loss is of property located within the United States.”
 
 1984—Subsec. (b)(1). Pub. L. 98–369 substituted “for losses” for “, for losses of property not connected with the trade or business if arising from certain casualties or theft,”.
 
@@ -59,8 +59,4 @@ Amendment by Pub. L. 92–580 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 103(n)(1) of Pub. L. 89–809, set out as a note under section 871 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 153, 170, 877, 906 of this title.
 

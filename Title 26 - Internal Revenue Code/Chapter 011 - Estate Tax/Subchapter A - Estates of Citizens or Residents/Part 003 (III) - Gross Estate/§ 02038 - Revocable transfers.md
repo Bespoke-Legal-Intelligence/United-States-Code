@@ -14,7 +14,7 @@ The value of the gross estate shall include the value of all property—
 
 #### (b) Date of existence of power
 
-For purposes of this section, the power to alter, amend, revoke, or terminate shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the alteration, amendment, revocation, or termination takes effect only on the expiration of a stated period after the exercise of the power, whether or not on or before the date of the decedent's death notice has been given orthe power has been exercised. In such cases proper adjustment shall be made representing the interests which would have been excluded from the power if the decedent had lived, and for such purpose, if the notice has not been given or the power has not been exercised on or before the date of his death, such notice shall be considered to have been given, or the power exercised, on the date of his death.
+For purposes of this section, the power to alter, amend, revoke, or terminate shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the alteration, amendment, revocation, or termination takes effect only on the expiration of a stated period after the exercise of the power, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised. In such cases proper adjustment shall be made representing the interests which would have been excluded from the power if the decedent had lived, and for such purpose, if the notice has not been given or the power has not been exercised on or before the date of his death, such notice shall be considered to have been given, or the power exercised, on the date of his death.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 383; Pub. L. 86–141, §1, Aug. 7, 1959, 73 Stat. 288; Pub. L. 87–834, §18(a)(2)(F), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XIX, §1902 (a)(3), title XX, §2001(c)(1)(K), Oct. 4, 1976, 90 Stat. 1804, 1852.)
 
@@ -43,8 +43,4 @@ Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct
 #### Effective Date of 1959 Amendment
 
 Section 2 of Pub. L. 86–141 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to estates of decedents dying after August 16, 1954. No interest shall be allowed or paid on any overpayment resulting from the application of the amendment made by the first section of this Act with respect to any payment made before the date of the enactment of this Act \[Aug. 7, 1959\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2035, 2041, 2043, 2045, 2104, 2107, 6324 of this title.
 

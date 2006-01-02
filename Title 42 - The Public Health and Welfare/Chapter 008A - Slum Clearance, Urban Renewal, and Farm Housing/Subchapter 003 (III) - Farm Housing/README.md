@@ -47,3 +47,4 @@
 - [&sect; 01490q - Disaster assistance](%C2%A7%2001490q%20-%20Disaster%20assistance.md)
 - [&sect; 01490r - Rural housing voucher program](%C2%A7%2001490r%20-%20Rural%20housing%20voucher%20program.md)
 - [&sect; 01490s - Enforcement provisions](%C2%A7%2001490s%20-%20Enforcement%20provisions.md)
+- [&sect; 01490t - Indian tribes](%C2%A7%2001490t%20-%20Indian%20tribes.md)

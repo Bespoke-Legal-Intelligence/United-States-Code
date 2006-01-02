@@ -16,7 +16,7 @@ Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions
 
 #### Effective Date of Nematocide, Plant Regulator, Defoliant, and Desiccant Amendment of 1959
 
-Effective date of subsec. (a) as in force prior to July 22, 1954, with respect to particular commercial use of a nematocide, plant regulator, defoliant, or desiccant in or on a raw agricultural commodity made before Jan. 1, 1958, see section 3(b) of Pub. L. 86–139, Aug. 7, 1959, 73 Stat. 288.
+Effective date of subsec. (a) as in force prior to July 22, 1954, with respect to particular commercial use of anematocide, plant regulator, defoliant, or desiccant in or on a raw agricultural commodity made before Jan. 1, 1958, see section 3(b) of Pub. L. 86–139, Aug. 7, 1959, 73 Stat. 288.
 
 #### Effective Date of 1958 Amendment
 
@@ -26,5 +26,5 @@ For effective date of amendment by Pub. L. 85–929, see section 6(b), (c) of Pu
 
 Functions vested in Secretary of Health, Education, and Welfare \[now Health and Human Services\] in establishing tolerances for pesticide chemicals under this section together with authority to monitor compliance with tolerances and effectiveness of surveillance and enforcement and to provide technical assistance to States and conduct research under this chapter and section 201 et seq. of Title 42, The Public Health and Welfare, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(4), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration to Federal Security Agency, see notes set out under section 321 of this title.
 

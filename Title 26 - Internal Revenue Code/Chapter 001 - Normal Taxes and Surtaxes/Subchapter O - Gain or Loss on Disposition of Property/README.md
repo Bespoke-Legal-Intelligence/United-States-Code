@@ -7,7 +7,12 @@
 | [III.](Part%20003%20%28III%29%20-%20Common%20Nontaxable%20Exchanges/README.md) | Common nontaxable exchanges. |
 | [IV.](Part%20004%20%28IV%29%20-%20Special%20Rules/README.md) | Special rules. |
 | \[V. | Repealed.\] |
-| [VI.](Part%20006%20%28VI%29%20-%20Exchanges%20in%20Obedience%20to%20S.E.C.%20Orders/README.md) | Exchanges in obedience to S.E.C. orders. |
+| \[VI. | Repealed.\] <sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [VII.](Part%20007%20%28VII%29%20-%20Wash%20Sales%3B%20Straddles/README.md) | Wash sales; straddles. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,7 +43,7 @@ Pub. L. 94–452, §2(c), Oct. 2, 1976, 90 Stat. 1512, struck out “of 1956” 
 - [Part 003 (III) - Common Nontaxable Exchanges](Part%20003%20%28III%29%20-%20Common%20Nontaxable%20Exchanges/README.md)
 - [Part 004 (IV) - Special Rules](Part%20004%20%28IV%29%20-%20Special%20Rules/README.md)
 - [Part 005 (V) - Repealed](Part%20005%20%28V%29%20-%20Repealed/README.md)
-- [Part 006 (VI) - Exchanges in Obedience to S.E.C. Orders](Part%20006%20%28VI%29%20-%20Exchanges%20in%20Obedience%20to%20S.E.C.%20Orders/README.md)
+- [Part 006 (VI) - Repealed](Part%20006%20%28VI%29%20-%20Repealed/README.md)
 - [Part 007 (VII) - Wash Sales; Straddles](Part%20007%20%28VII%29%20-%20Wash%20Sales%3B%20Straddles/README.md)
 - [Part 008 (VIII) - Repealed](Part%20008%20%28VIII%29%20-%20Repealed/README.md)
 - [Part 009 (IX) - Repealed](Part%20009%20%28IX%29%20-%20Repealed/README.md)

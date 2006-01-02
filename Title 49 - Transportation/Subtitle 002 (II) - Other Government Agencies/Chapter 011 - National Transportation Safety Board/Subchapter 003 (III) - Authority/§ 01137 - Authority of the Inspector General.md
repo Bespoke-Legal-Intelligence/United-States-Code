@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Inspector General of the Department of Transportation, in accordance with the mission of the Inspector General to prevent and detect fraud and abuse, shall have authority to review only the financial management, property management, and business operations of the National Transportation Safety Board, including internal accounting and administrative control systems, to determine compliance with applicable Federal laws, rules, and regulations.
+In General.—The Inspector General of the Department of Transportation, in accordance with the mission of the Inspector General to prevent and detect fraud and abuse, shall haveauthority to review only the financial management, property management, and business operations of the National Transportation Safety Board, including internal accounting and administrative control systems, to determine compliance with applicable Federal laws, rules, and regulations.
 
 (b)
 

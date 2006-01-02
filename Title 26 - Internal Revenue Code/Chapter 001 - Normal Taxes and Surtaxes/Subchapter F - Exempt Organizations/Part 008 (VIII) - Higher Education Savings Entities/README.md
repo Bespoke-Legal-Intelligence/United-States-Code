@@ -9,7 +9,9 @@
 
 #### Amendments
 
-2001—Pub. L. 107–22, §1(a)(6), July 26, 2001, 115 Stat. 196, which directed amendment of the analysis for part VII of subchapter F of chapter 1 of this title by substituting “Coverdell education savings accounts” for “Education individual retirement accounts” in item 530, was executed by making the substitution in item 530 in the analysis for this part, to reflect the probable intent of Congress.
+2004—Pub. L. 108–311, title IV, §408(b)(2), Oct. 4, 2004, 118 Stat. 1192, amended directory language of Pub. L. 107–22, §1(a)(6). See 2001 Amendment note below.
+
+2001—Pub. L. 107–22, §1(a)(6), July 26, 2001, 115 Stat. 196, as amended by Pub. L. 108–311, title IV, §408(b)(2), Oct. 4, 2004, 118 Stat. 1192, substituted “Coverdell education savings accounts” for “Education individual retirement accounts” in item 530.
 
 Pub. L. 107–16, title IV, §402(a)(4)(E), June 7, 2001, 115 Stat. 61, struck out “State” before “tuition” in item 529.
 

@@ -16,7 +16,7 @@ This Act, referred to in text, is act June 25, 1910, ch. 431, 36 Stat. 855, as a
 
 1990—Pub. L. 101–301 substituted “his decisions shall be subject to judicial review to the same extent as determinations rendered under section 373 of this title” for “his decision thereon shall be final and conclusive”.
 
-1934—Act Apr. 30, 1934, substituted “, all payments made, together with all interest paid on such deferred installments, shall be so forfeited” for “a further amount, not exceeding 15 per centum of the purchase price together with all interest paid on such deferred installments may be so forfeited”, inserted “allottee or his” in sentence beginning “All forfeitures shall inure” and struck out “hereafter” from last proviso.
+1934—Act Apr. 30, 1934, substituted “, all payments made, together with all interest paid on such deferredinstallments, shall be so forfeited” for “a further amount, not exceeding 15 per centum of the purchase price together with all interest paid on such deferred installments may be so forfeited”, inserted “allottee or his” in sentence beginning “All forfeitures shall inure” and struck out “hereafter” from last proviso.
 
 1928—Act Mar. 3, 1928, inserted in introductory text “or may hereafter be made,” after “has been made,”, “together with all interest paid on such deferred installments” after “purchase price”, “or may hereafter be” after “restrictions on alienation has been”, and “hereafter” in last proviso, and substituted “by this or any other Act” for “by any Act”.
 

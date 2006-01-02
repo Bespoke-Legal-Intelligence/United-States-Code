@@ -2,7 +2,7 @@
 
 (a)
 
-Preliminary Investigation With Respect to Certain Covered Persons.—The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
+Preliminary Investigation With Respect to Certain Covered Persons.—The Attorney General shall conduct a preliminary investigation in accordance with section 592 whenever the Attorney General receives information sufficient to constitute grounds to investigate whether any person described in subsection (b) may have violated any Federal criminal lawother than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (b)
 
@@ -118,7 +118,7 @@ Subsec. (c). Pub. L. 97–409, §4(a)(2), added subsec. (c).
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 

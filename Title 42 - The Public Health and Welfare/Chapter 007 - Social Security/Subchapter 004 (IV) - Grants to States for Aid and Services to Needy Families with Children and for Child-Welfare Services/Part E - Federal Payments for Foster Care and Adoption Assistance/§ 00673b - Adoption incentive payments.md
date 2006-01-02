@@ -46,7 +46,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 &emsp;&emsp;(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
-&emsp;&emsp;(B) $2,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
+&emsp;&emsp;(B) $2,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptionsthat are not older child adoptions for the State for the fiscal year; and
 
 &emsp;&emsp;(C) $4,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.
 
@@ -180,7 +180,7 @@ Determinations based on afcars data.—Except as provided in subparagraph (B), t
 
 “(B)
 
-Alternative data sources permitted for fiscal years 1995 through 1997.—For purposes of the determination described in subparagraph (A) for fiscal years1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.”
+Alternative data sources permitted for fiscal years 1995 through 1997.—For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.”
 
 Subsec. (d)(1). Pub. L. 108–145, §3(a)(3), inserted “that are not older child adoptions” after “adoptions” in two places in subpar. (B) and added subpar. (C).
 

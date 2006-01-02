@@ -14,7 +14,7 @@ This section shall apply to all cargo to be exported that is moved by a vessel c
 
 &emsp;(A) for shipments for which a shipper's export declaration is required, a copy of the export declaration or, if the shipper files such declarations electronically in the Automated Export System, the complete bill of lading, and the master or equivalent shipping instructions, including the Internal Transaction Number (ITN); or
 
-&emsp;(B) for shipments for which a shipper's export declaration is not required, a shipper's export declaration exemption statement and such other documents or information as the Secretary may by regulation prescribe.
+&emsp;(B) for shipments for which a shipper's export declaration is not required, a shipper'sexport declaration exemption statement and such other documents or information as the Secretary may by regulation prescribe.
 
 (4) The Secretary shall by regulation prescribe the time, manner, and form by which shippers shall transmit documents or information required under this subsection to the Customs Service.
 
@@ -48,7 +48,7 @@ Whoever is found to have violated subsection (b) of this section shall be liable
 
 #### (f) Seizure of undocumented cargo
 
-(1) Any cargo that is not properly documented pursuant to this section and has remained in themarine terminal for more than 48 hours after being delivered to the marine terminal operator shall be subject to search, seizure, and forfeiture.
+(1) Any cargo that is not properly documented pursuant to this section and has remained in the marine terminal for more than 48 hours after being delivered to the marine terminal operator shall be subject to search, seizure, and forfeiture.
 
 (2) The shipper of any such cargo is liable to the marine terminal operator and to the ocean carrier for demurrage and other applicable charges for any undocumented cargo which has been notified to or searched or seized by the Customs Service for the entire period the cargo remains under the order and direction of the Customs Service. Unless the cargo is seized by the Customs Service and forfeited, the marine terminal operator and the ocean carrier shall have a lien on the cargo for the amount of the demurrage and other charges.
 

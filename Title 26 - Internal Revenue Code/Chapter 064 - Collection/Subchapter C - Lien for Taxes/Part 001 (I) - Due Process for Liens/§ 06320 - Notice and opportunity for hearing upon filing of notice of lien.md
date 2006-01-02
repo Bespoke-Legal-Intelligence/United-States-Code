@@ -58,7 +58,3 @@ For purposes of this section, subsections (c), (d) (other than paragraph (2)(B) 
 
 Pub. L. 105–206, title III, §3401(d), July 22, 1998, 112 Stat. 750, provided that: “The amendments made by this section \[enacting this section and section 6330 of this title and amending section 7443A of this title\] shall apply to collection actions initiated after the date which is 180 days after the date of the enactment of this Act \[July 22, 1998\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6330, 7443A, 7803 of this title.
-

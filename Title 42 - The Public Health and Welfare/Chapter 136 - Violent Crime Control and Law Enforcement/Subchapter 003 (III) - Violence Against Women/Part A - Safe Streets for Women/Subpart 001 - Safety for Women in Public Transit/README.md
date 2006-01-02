@@ -1,5 +1,7 @@
 subpart 1—safety for women in public transit
 
+<i><sup>1</sup></i><i> So in original. Probably should be “proscribed”.</i>
+
 
 ---
 

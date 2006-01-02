@@ -10,7 +10,7 @@ The Board of Directors shall adopt and publish its own conflict of interest rule
 
 #### References in Text
 
-Executive Order Numbered 11222, referred to in text, which was formerly set out as a note under section 201of Title 18, Crimes and Criminal Procedure, was revoked by Ex. Ord. No. 12674, §501(a), Apr. 12, 1989, 54 F.R. 15161.
+Executive Order Numbered 11222, referred to in text, which was formerly set out as a note under section 201 of Title 18, Crimes and Criminal Procedure, was revoked by Ex. Ord. No. 12674, §501(a), Apr. 12, 1989, 54 F.R. 15161.
 
 #### Amendments
 

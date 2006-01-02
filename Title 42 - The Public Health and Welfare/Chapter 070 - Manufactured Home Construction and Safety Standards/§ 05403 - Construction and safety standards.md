@@ -34,7 +34,7 @@
 
 #### (B) Competitively procured contract
 
-&emsp;&emsp;Upon the expiration of the 4-year period beginning on the date on which all members of the consensus committee are appointed under paragraph (3), the Secretary shall, using competitive procedures (as such term is defined in section 403 of title 41), enter into a competitively awarded contract with an administering organization. The administering organization shall administer the consensus process for the development and interpretation of the Federal standards, the procedural and enforcement regulations, and regulations specifying the permissible scope and conduct of monitoring, in accordance with this chapter.
+&emsp;&emsp;Upon the expiration of the 4-year period beginning on the date on which all members of the consensus committee are appointed under paragraph (3), the Secretary shall,using competitive procedures (as such term is defined in section 403 of title 41), enter into a competitively awarded contract with an administering organization. The administering organization shall administer the consensus process for the development and interpretation of the Federal standards, the procedural and enforcement regulations, and regulations specifying the permissible scope and conduct of monitoring, in accordance with this chapter.
 
 #### (C) Performance review
 
@@ -268,7 +268,7 @@
 
 #### (5) Authority to act and emergency
 
-&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergency that jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) of this section or in this subsection, if the Secretary—
+&emsp;If the Secretary determines, in writing, that such action is necessary to address an issue on which the Secretary determines that the consensus committee has not made a timely recommendation following a request by the Secretary, or in order to respond to an emergencythat jeopardizes the public health or safety, the Secretary may issue an order that is not developed under the procedures set forth in subsection (a) of this section or in this subsection, if the Secretary—
 
 &emsp;&emsp;(A) provides to the consensus committee a written description and sets forth the reasons why action is necessary and all supporting documentation; and
 

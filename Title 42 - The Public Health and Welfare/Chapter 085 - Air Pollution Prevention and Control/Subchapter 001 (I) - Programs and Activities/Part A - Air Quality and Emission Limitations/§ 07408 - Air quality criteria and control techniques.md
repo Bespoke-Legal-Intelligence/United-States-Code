@@ -10,7 +10,7 @@
 
 &emsp;(C) for which air quality criteria had not been issued before December 31, 1970 but for which he plans to issue air quality criteria under this section.
 
-(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects onpublic health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
+(2) The Administrator shall issue air quality criteria for an air pollutant within 12 months after he has included such pollutant in a list under paragraph (1). Air quality criteria for an air pollutant shall accurately reflect the latest scientific knowledge useful in indicating the kind and extent of all identifiable effects on public health or welfare which may be expected from the presence of such pollutant in the ambient air, in varying quantities. The criteria for an air pollutant, to the extent practicable, shall include information on—
 
 &emsp;(A) those variable factors (including atmospheric conditions) which of themselves or in combination with other factors may alter the effects on public health or welfare of such air pollutant;
 
@@ -82,7 +82,7 @@ The Administrator shall, after consultation with the Secretary of Transportation
 
 &emsp;&emsp;(xv) programs for new construction and major reconstructions of paths, tracks or areas solely for the use by pedestrian or other non-motorized means of transportation when economically feasible and in the public interest. For purposes of this clause, the Administrator shall also consult with the Secretary of the Interior; and
 
-&emsp;&emsp;(xvi) program to encourage the voluntary removal from use and the marketplace of pre-1980 model year light duty vehicles and pre-1980 model light duty trucks.
+&emsp;&emsp;(xvi) program to encourage the voluntary removal from use and the marketplace of pre-1980 model year light duty vehicles and pre-1980 model light duty trucks.<sup>2</sup>
 
 &emsp;(B) information on additional methods or strategies that will contribute to the reduction of mobile source related pollutants during periods in which any primary ambient air quality standard will be exceeded and during episodes for which an air pollution alert, warning, or emergency has been declared;
 
@@ -136,7 +136,7 @@ Subsec. (h). Pub. L. 101–549, §108(c), added subsec. (h).
 
 1977—Subsec. (a)(1)(A). Pub. L. 95–95, §401(a), substituted “emissions of which, in his judgment, cause or contribute to air pollution which may reasonably be anticipated to endanger public health or welfare” for “which in his judgment has an adverse effect on public health or welfare”.
 
-Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements,emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
+Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted “cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology” for “technology and costs of emission control”.
 
 Subsec. (c). Pub. L. 95–95, §104(b), inserted provision directing the Administrator, not later than six months after Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
 
@@ -151,4 +151,6 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

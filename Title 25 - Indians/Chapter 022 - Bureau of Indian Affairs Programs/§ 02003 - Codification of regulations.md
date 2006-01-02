@@ -6,13 +6,13 @@ The provisions of part 32 of title 25, Code of Federal Regulations, as in effect
 
 #### (b) Definition of regulation
 
-In this section, the term “regulation” means any rule, regulation, guideline, interpretation, order, or requirement of general applicability prescribed by any officer or employee of the executive branch.
+In this section, the term “regulation” means any rule, regulation, guideline, interpretation,order, or requirement of general applicability prescribed by any officer or employee of the executive branch.
 
 (Pub. L. 95–561, title XI, §1123, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2019.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known asthe Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (a), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) Evidence and form
 
-An applicant for naturalization shall make and file with the Attorney General a sworn application in writing, signed by the applicant in the applicant's own handwriting if physically able to write, which application shall be on a form prescribed by the Attorney General and shall include averments of all facts which in the opinion of the Attorney General may be material to the applicant's naturalization, and required to be proved under this subchapter. In the case of an applicant subject to a requirement of continuous residence under section 1427(a) or 1430(a) of this title, the application for naturalization may be filed up to 3 months before the date the applicant would first otherwise meet such continuous residence requirement.
+An applicant for naturalization shall make and file with the Attorney General a sworn application in writing, signed by the applicant in the applicant's own handwriting if physically able to write, which application shall be on a form prescribed by the Attorney General and shall include averments of all facts which in theopinion of the Attorney General may be material to the applicant's naturalization, and required to be proved under this subchapter. In the case of an applicant subject to a requirement of continuous residence under section 1427(a) or 1430(a) of this title, the application for naturalization may be filed up to 3 months before the date the applicant would first otherwise meet such continuous residence requirement.
 
 #### (b) Who may file
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

@@ -1,0 +1,36 @@
+### §3752. Applications
+
+To request a grant under this part, the chief executive officer of a State or unit of local government shall submit an application to the Attorney General within 90 days after the date on which funds to carry out this part are appropriated for a fiscal year, in such form as the Attorney General may require. Such application shall include the following:
+
+&emsp;(1) A certification that Federal funds made available under this part will not be used to supplant State or local funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for law enforcement activities.
+
+&emsp;(2) An assurance that, not fewer than 30 days before the application (or any amendment to the application) was submitted to the Attorney General, the application (or amendment) was submitted for review to the governing body of the State or unit of local government (or to an organization designated by that governing body).
+
+&emsp;(3) An assurance that, before the application (or any amendment to the application) was submitted to the Attorney General—
+
+&emsp;&emsp;(A) the application (or amendment) was made public; and
+
+&emsp;&emsp;(B) an opportunity to comment on the application (or amendment) was provided to citizens and to neighborhood or community-based organizations, to the extent applicable law or established procedure makes such an opportunity available.
+
+&emsp;(4) An assurance that, for each fiscal year covered by an application, the applicant shall maintain and report such data, records, and information (programmatic and financial) as the Attorney General may reasonably require.
+
+&emsp;(5) A certification, made in a form acceptable to the Attorney General and executed by the chief executive officer of the applicant (or by another officer of the applicant, if qualified under regulations promulgated by the Attorney General), that—
+
+&emsp;&emsp;(A) the programs to be funded by the grant meet all the requirements of this part;
+
+&emsp;&emsp;(B) all the information contained in the application is correct;
+
+&emsp;&emsp;(C) there has been appropriate coordination with affected agencies; and
+
+&emsp;&emsp;(D) the applicant will comply with all provisions of this part and all other applicable Federal laws.
+
+(Pub. L. 90–351, title I, §502, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3096.)
+
+#### Prior Provisions
+
+For prior sections 502 of Pub. L. 90–351 and prior sections 3752 of this title, see notes set out preceding section 3750 of this title.
+
+#### Effective Date
+
+Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 3750 of this title.
+

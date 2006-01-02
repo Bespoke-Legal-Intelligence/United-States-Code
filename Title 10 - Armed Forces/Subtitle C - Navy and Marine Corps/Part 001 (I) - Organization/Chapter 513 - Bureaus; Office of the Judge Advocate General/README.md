@@ -15,7 +15,7 @@
 | [5141\.](%C2%A7%2005141%20-%20Bureau%20of%20Naval%20Personnel%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md) | Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel. |
 | [5142\.](%C2%A7%2005142%20-%20Chaplain%20Corps%20and%20Chief%20of%20Chaplains.md) | Chaplain Corps and Chief of Chaplains. |
 | [5142a.](%C2%A7%2005142a%20-%20Deputy%20Chief%20of%20Chaplains.md) | Deputy Chief of Chaplains. |
-| [5143\.](%C2%A7%2005143%20-%20Office%20of%20Naval%20Reserve%20appointment%20of%20Chief.md) | Office of Naval Reserve: appointment of Chief. |
+| [5143\.](%C2%A7%2005143%20-%20Office%20of%20Navy%20Reserve%20appointment%20of%20Chief.md) | Office of Navy Reserve: appointment of Chief. |
 | [5144\.](%C2%A7%2005144%20-%20Office%20of%20Marine%20Forces%20Reserve%20appointment%20of%20Commander.md) | Office of Marine Forces Reserve: appointment of Commander. |
 | \[5145 to 5147. Repealed.\] |  |
 | [5148\.](%C2%A7%2005148%20-%20Judge%20Advocate%20General%27s%20Corps%20Office%20of%20the%20Judge%20Advocate%20General%3B%20Judge%20Advocate%20General%3B%20appointment%2C%20term%2C%20emoluments%2C%20duties.md) | Judge Advocate General's Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties. |
@@ -28,6 +28,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §515(b)(4)(A), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy” for “Naval” in item 5143.
 
 1996—Pub. L. 104–201, div. A, title XII, §1212(b)(2), (c)(2), Sept. 23, 1996, 110 Stat. 2692, 2693, added items 5143 and 5144.
 
@@ -43,7 +45,7 @@ Pub. L. 96–343, §11(b), Sept. 8, 1980, 94 Stat. 1130, substituted “Chaplain
 
 1967—Pub. L. 90–179, §2(3), Dec. 8, 1967, 81 Stat. 547, inserted reference to Judge Advocate General's Corps in item 5148 and inserted reference to Deputy Judge Advocate General and substituted “Advocates General” for “Advocate General; succession to duties” after “Assistant Judge” in item 5149.
 
-1966—Pub. L. 89–718, §§35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items 5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Heads thereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
+1966—Pub. L. 89–718, §§35(2), (5), 36, Nov. 2, 1966, 80 Stat. 1120, inserted “and Judge Advocate General” after “Bureau Chiefs” in item 5133, struck out items5145, 5146, 5147, and 5154 which related to Bureau of Ships and the Chief, Deputy Chief, and Division Heads thereof, Bureau of Supplies and Accounts and the Chief and Deputy Chief thereof, Bureau of Yards and Docks and the Chief and Deputy Chief thereof, and Bureau of Naval Weapons and the Chief and Deputy Chief thereof, respectively, and struck out “pay,” in item 5149.
 
 1959—Pub. L. 86–174, §§1(3), 2(4), Aug. 18, 1959, 73 Stat. 395, 396, added item 5154 and eliminated items 5136 and 5144.
 
@@ -65,7 +67,7 @@ Pub. L. 96–343, §11(b), Sept. 8, 1980, 94 Stat. 1130, substituted “Chaplain
 - [&sect; 05141 - Bureau of Naval Personnel Chief of Naval Personnel; Deputy Chief of Naval Personnel](%C2%A7%2005141%20-%20Bureau%20of%20Naval%20Personnel%20Chief%20of%20Naval%20Personnel%3B%20Deputy%20Chief%20of%20Naval%20Personnel.md)
 - [&sect; 05142 - Chaplain Corps and Chief of Chaplains](%C2%A7%2005142%20-%20Chaplain%20Corps%20and%20Chief%20of%20Chaplains.md)
 - [&sect; 05142a - Deputy Chief of Chaplains](%C2%A7%2005142a%20-%20Deputy%20Chief%20of%20Chaplains.md)
-- [&sect; 05143 - Office of Naval Reserve appointment of Chief](%C2%A7%2005143%20-%20Office%20of%20Naval%20Reserve%20appointment%20of%20Chief.md)
+- [&sect; 05143 - Office of Navy Reserve appointment of Chief](%C2%A7%2005143%20-%20Office%20of%20Navy%20Reserve%20appointment%20of%20Chief.md)
 - [&sect; 05144 - Office of Marine Forces Reserve appointment of Commander](%C2%A7%2005144%20-%20Office%20of%20Marine%20Forces%20Reserve%20appointment%20of%20Commander.md)
 - [&sect; 05145 to 5147 - Repealed. Pub. L. 89&#8211;718, &sect;35(5), Nov. 2, 1966, 80 Stat. 1120](%C2%A7%2005145%20to%205147%20-%20Repealed.%20Pub.%20L.%2089%E2%80%93718%2C%20%C2%A735%285%29%2C%20Nov.%202%2C%201966%2C%2080%20Stat.%201120.md)
 - [&sect; 05148 - Judge Advocate General's Corps Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties](%C2%A7%2005148%20-%20Judge%20Advocate%20General%27s%20Corps%20Office%20of%20the%20Judge%20Advocate%20General%3B%20Judge%20Advocate%20General%3B%20appointment%2C%20term%2C%20emoluments%2C%20duties.md)

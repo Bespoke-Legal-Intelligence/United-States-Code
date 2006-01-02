@@ -32,7 +32,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(8) the applicant has not agreed to the condition that no vessel may be used for the transportation to the United States of things produced, processed, refined, or manufactured at the ocean thermal energy conversion facility or plantship unless such vessel is documented under the laws of the United States;
 
-&emsp;(9) when the license is for an ocean thermal energy conversion facility, he determines that the facility, including any submarine electric transmission cables and equipment or pipelines which are components of the facility,will not be located and designed so as to minimize interference with other uses of the high seas or the Continental Shelf, including cables or pipelines already in position on or in the seabed and the possibility of their repair;
+&emsp;(9) when the license is for an ocean thermal energy conversion facility, he determines that the facility, including any submarine electric transmission cables and equipment or pipelines which are components of the facility, will not be located and designed so as to minimize interference with other uses of the high seas or the Continental Shelf, including cables or pipelines already in position on or in the seabed and the possibility of their repair;
 
 &emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
 

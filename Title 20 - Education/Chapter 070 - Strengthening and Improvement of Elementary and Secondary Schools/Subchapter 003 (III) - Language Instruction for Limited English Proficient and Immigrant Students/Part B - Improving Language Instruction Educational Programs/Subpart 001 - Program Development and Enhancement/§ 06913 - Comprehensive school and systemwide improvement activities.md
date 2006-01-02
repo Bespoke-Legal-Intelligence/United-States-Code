@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) aligning the activities carried out under this section with State and local school reform efforts;
 
-&emsp;&emsp;(C) providing training, aligned with State and local standards, to school personnel andparticipating community-based organization personnel to improve the instruction and assessment of limited English proficient children;
+&emsp;&emsp;(C) providing training, aligned with State and local standards, to school personnel and participating community-based organization personnel to improve the instruction and assessment of limited English proficient children;
 
 &emsp;&emsp;(D) developing and implementing plans, coordinated with plans for programs carried out under title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\] (where applicable), and subchapter II of this chapter (where applicable), to recruit teachers trained to serve limited English proficient children;
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(I) developing and implementing programs to help children become proficient in English and other languages;
 
-&emsp;&emsp;(J) acquiring or developing education technology or instruction materials for limited English proficient children, including materials in languages other than English;
+&emsp;&emsp;(J) acquiring or developing education technology or instruction materials for limitedEnglish proficient children, including materials in languages other than English;
 
 &emsp;&emsp;(K) participating in electronic networks for materials, training, and communication and incorporating information derived from such participation in curricula and programs; and
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(A) not less than one-third of the remainder shall be used to award grants to eligible entities for activities carried out within an entire school district; and
 
-&emsp;&emsp;(B) not less than two-thirds of the remainder shall be used to award grants to eligibleentities for activities carried out within individual schools.
+&emsp;&emsp;(B) not less than two-thirds of the remainder shall be used to award grants to eligible entities for activities carried out within individual schools.
 
 #### (c) Priority
 

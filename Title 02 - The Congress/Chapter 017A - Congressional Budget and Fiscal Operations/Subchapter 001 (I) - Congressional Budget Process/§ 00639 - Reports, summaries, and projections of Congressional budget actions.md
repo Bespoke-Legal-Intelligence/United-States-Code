@@ -54,7 +54,7 @@ Pub. L. 105–33, §10110(1)(D), in introductory provisions, struck out “, ne
 
 Subsec. (a)(1)(B). Pub. L. 105–33, §10110(1)(C), substituted “revenues, or tax expenditures” for “spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments”.
 
-Pub. L. 105–33, §10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
+Pub. L. 105–33, §10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read asfollows: “including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
 
 Subsec. (a)(1)(C), (D). Pub. L. 105–33, §10110(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively.
 

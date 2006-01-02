@@ -96,7 +96,7 @@ For purposes of this title—
 
 #### (4) Aggregation rules
 
-&emsp;Section 72 shall be applied separately with respect to distributions and payments from a designated Roth account and other distributions and payments from the plan.
+&emsp;Section 72 shall be applied separately with respect to distributions and payments from adesignated Roth account and other distributions and payments from the plan.
 
 #### (e) Other definitions
 
@@ -125,8 +125,4 @@ For purposes of this section—
 Section applicable to taxable years beginning after Dec. 31, 2005, see section 617(f) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 402 of this title.
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 402, 408A, 6047, 6051 of this title.
 

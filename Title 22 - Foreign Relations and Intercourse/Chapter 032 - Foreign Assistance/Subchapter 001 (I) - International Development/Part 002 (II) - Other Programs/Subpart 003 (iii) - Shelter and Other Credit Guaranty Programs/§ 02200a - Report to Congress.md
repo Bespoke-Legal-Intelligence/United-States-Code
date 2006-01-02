@@ -66,7 +66,7 @@ Amendment by Pub. L. 100–461 is based on sections 105(b) and 110(b) of title I
 
 #### Amendments
 
-1992—Subsec. (b)(2), (3). Pub. L. 102–549 added pars. (2) and (3) and struck out former par. (2) which read as follows: “Each report required by this subsection shall be based on an analysis of each of the projects described in paragraph (1). The reports may, however, present information and analysis in aggregate form, but only if—
+1992—Subsec. (b)(2), (3). Pub. L. 102–549 added pars. (2) and (3) and struck out former par. (2) which read as follows: “Each report required by this subsection shall be based on an analysis of each of the projects describedin paragraph (1). The reports may, however, present information and analysis in aggregate form, but only if—
 
 &emsp;“(A) those projects which are projected to have a positive effect on employment in the United States and those projects which are projected to have a negative effect on employment in the United States are grouped separately; and
 

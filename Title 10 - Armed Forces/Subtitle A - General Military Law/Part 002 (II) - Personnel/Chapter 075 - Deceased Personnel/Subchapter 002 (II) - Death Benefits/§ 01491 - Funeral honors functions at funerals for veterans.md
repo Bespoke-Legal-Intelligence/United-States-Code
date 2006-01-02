@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Funeral Honors Detail Ensured.—The Secretary of Defense shall ensure that, upon request, a funeral honors detail is provided for the funeral of any veteran.
+Availability of Funeral Honors Detail Ensured.—The Secretary of Defense shall ensure that, upon request, a funeral honors detail is provided for the funeral of any veteran, except when military honors are prohibited under section 985(a) of this title.
 
 (b)
 
@@ -30,7 +30,7 @@ Support.—(1) To support a funeral honors detail under this section, the Secret
 
 (e)
 
-Waiver Authority.—(1) The Secretary of Defense may waive any requirement provided inor pursuant to this section when the Secretary considers it necessary to do so to meet the requirements of war, national emergency, or a contingency operation or other military requirements. The authority to make such a waiver may not be delegated to an official of a military department other than the Secretary of the military department and may not be delegated within the Office of the Secretary of Defense to an official at a level below Under Secretary of Defense.
+Waiver Authority.—(1) The Secretary of Defense may waive any requirement provided in or pursuant to this section when the Secretary considers it necessary to do so to meet the requirements of war, national emergency, or a contingency operation or other military requirements. The authority to make such a waiver may not be delegated to an official of a military department other than the Secretary of the military department and may not be delegated within the Office of the Secretary of Defense to an official at a level below Under Secretary of Defense.
 
 (2) Before or promptly after granting a waiver under paragraph (1), the Secretary shall transmit a notification of the waiver to the Committees on Armed Services of the Senate and House of Representatives.
 
@@ -58,9 +58,11 @@ Veteran Defined.—In this section, the term “veteran” means a decedent who�
 
 &emsp;(2) was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
 
-(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556.)
+(Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, §662(b)(4), Jan. 6, 2006, 119 Stat. 3315.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 inserted “, except when military honors are prohibited under section 985(a) of this title” before period at end.
 
 2002—Subsec. (d)(1). Pub. L. 107–314, §571(1), designated existing provisions as par. (1) and substituted “ To support a” for “To provide a”. Former par. (1) redesignated (1)(A).
 
@@ -98,11 +100,11 @@ Subsec. (h). Pub. L. 106–65, §578(e), amended heading and text of subsec. (h)
 
 Pub. L. 106–65, §578(c)(1), redesignated subsec. (f) as (h).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–163 applicable with respect to funerals and burials that occur on or after Jan. 6, 2006, see section 662(e) of Pub. L. 109–163, set out as a note under section 985 of this title.
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–65, div. A, title V, §578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: “Section 1491(a) of title 10, United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 115, 1588, 12503, 12552 of this title; title 32 section 115; title 37 section 435.
 

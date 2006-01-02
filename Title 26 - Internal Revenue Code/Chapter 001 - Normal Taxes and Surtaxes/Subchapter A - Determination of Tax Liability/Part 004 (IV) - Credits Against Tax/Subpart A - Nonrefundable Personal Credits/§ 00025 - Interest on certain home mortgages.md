@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the certificate credit rate specified in such certificate,
 
-&emsp;&emsp;&nbsp;shall be treated as proceeds of such issue and the sum of such products shall betreated as the total proceeds of such issue, and
+&emsp;&emsp;&nbsp;shall be treated as proceeds of such issue and the sum of such products shall be treated as the total proceeds of such issue, and
 
 &emsp;&emsp;&emsp;(iii) paragraph (1) of section 143(d) shall be applied by substituting “100 percent” for “95 percent or more”.
 
@@ -158,7 +158,11 @@ For purposes of this section—
 
 #### (C) Applicable tax limit
 
-&emsp;&emsp;For purposes of this paragraph, the term “applicable tax limit” means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, and 1400C).
+&emsp;&emsp;For purposes of this paragraph, the term “applicable tax limit” means—
+
+&emsp;&emsp;&emsp;(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C), and
+
+&emsp;&emsp;&emsp;(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, 25D, and 1400C).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met
 
@@ -192,7 +196,7 @@ For purposes of this section—
 
 #### (5) Public notice that certificates will be issued
 
-&emsp;At least 90 days before any mortgage credit certificate is to be issued after a qualifiedmortgage credit certificate program, the issuing authority shall provide reasonable public notice of—
+&emsp;At least 90 days before any mortgage credit certificate is to be issued after a qualified mortgage credit certificate program, the issuing authority shall provide reasonable public notice of—
 
 &emsp;&emsp;(A) the eligibility requirements for such certificate,
 
@@ -246,7 +250,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the credit amount for any mortgage credit certificate program, over
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount which would have been the credit amount for such program had such program met the requirements of paragraph (2) of subsection (d).
+&emsp;&emsp;&emsp;&emsp;(II) the amount which would have been the credit amount for such program hadsuch program met the requirements of paragraph (2) of subsection (d).
 
 #### (ii) Credit amount
 
@@ -280,7 +284,7 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 #### (1) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations which may require recipients of mortgagecredit certificates to pay a reasonable processing fee to defray the expenses incurred in administering the program.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations which may require recipients of mortgage credit certificates to pay a reasonable processing fee to defray the expenses incurred in administering the program.
 
 #### (2) Contracts
 
@@ -290,9 +294,11 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 &emsp;&emsp;<b>For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section 143(m).</b>
 
-(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108.)
+(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 402(i)(3)(H) of Pub. L. 109–135, see Effective and Termination Dates of 2005 Amendments note below.</i>
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
@@ -301,6 +307,10 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 A prior section 25 was renumbered section 26 of this title.
 
 #### Amendments
+
+2005—Subsec. (e)(1)(C). Pub. L. 109–135, §402(i)(3)(C), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘applicable tax limit’ means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, and 1400C).” See Effective and Termination Dates of 2005 Amendments notes below.
+
+Pub. L. 109–58, §1335(b)(2), which directed amendment of subpar. (C) by substituting “other than this section, section 23, section 25D, and section 1400C” for “this section and sections 23 and 1400C”, was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendments notes below.
 
 2001—Subsec. (e)(1)(C). Pub. L. 107–16, §§618(b)(2)(B), 901, temporarily inserted “25B,” after “24,”. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -372,7 +382,7 @@ Subsec. (d)(3). Pub. L. 99–514, §1301(f)(2)(G), struck out par. (3) “Additi
 
 > the certificate credit rate for any mortgage credit certificate shall not exceed 20 percent unless the issuing authority submits a plan to the Secretary to ensure that the weighted average of the certificate credit rates in such mortgage credit certificate program does not exceed 20 percent and the Secretary approves such plan.”
 
-Subsec. (e)(1)(B). Pub. L. 99–514, §1862(c), amended subpar. (B) generally. Prior to amendment, subpar. (B)“Limitations” read as follows: “The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount by which the applicable tax limit for such taxable year exceeds the sum of the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.”
+Subsec. (e)(1)(B). Pub. L. 99–514, §1862(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) “Limitations” read as follows: “The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount by which the applicable tax limit for such taxable year exceeds the sum of the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.”
 
 Subsec. (e)(2). Pub. L. 99–514, §1301(f)(2)(H), substituted “subsections (c)(1), (d), (e), (f), and (i) of section 143” for “subsection (d)(1), (e), (f), and (j) of section 103A”.
 
@@ -394,11 +404,23 @@ Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted “section 146(d)
 
 Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted “ensure” for “insure”.
 
+#### Effective and Termination Dates of 2005 Amendments
+
+Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
 Amendment by Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
-Amendment by section 201(b)(2)(F) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
+Amendment by section 201(b)(2)(F) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31,2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
 Amendment by section 618(b)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
 
@@ -457,8 +479,4 @@ Elections.—The amendments made by this section shall apply to elections under 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 143, 146, 163, 6708 of this title; title 42 section 12852.
 

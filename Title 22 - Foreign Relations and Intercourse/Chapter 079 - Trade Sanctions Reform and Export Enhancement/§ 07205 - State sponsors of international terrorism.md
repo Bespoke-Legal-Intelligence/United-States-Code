@@ -16,7 +16,7 @@ The applicable department or agency of the Federal Government shall submit to th
 
 #### (c) Biennial reports
 
-Not later than 2 years after October 28, 2000, and every 2 years thereafter, the applicable department or agency of the Federal Government shall submit a report to the appropriate congressional committees on the operation of the licensing system under this section for the preceding 2-year period, including—
+Not later than 2 years after October 28, 2000, and every 2 years thereafter, the applicable department or agency of the Federal Governmentshall submit a report to the appropriate congressional committees on the operation of the licensing system under this section for the preceding 2-year period, including—
 
 &emsp;(1) the number and types of licenses applied for;
 

@@ -2,7 +2,7 @@
 
 #### (a) Inclusion
 
-Subject to subsection (b), the amount of income for the taxable year required to be distributed currently by a trust described in section 651 shall be included in the gross income of thebeneficiaries to whom the income is required to be distributed, whether distributed or not. If such amount exceeds the distributable net income, there shall be included in the gross income of each beneficiary an amount which bears the same ratio to distributable net income as the amount of income required to be distributed to such beneficiary bears to the amount of income required to be distributed to all beneficiaries.
+Subject to subsection (b), the amount of income for the taxable year required to be distributed currently by a trust described in section 651 shall be included in the gross income of the beneficiaries to whom the income is required to be distributed, whether distributed or not. If such amount exceeds the distributable net income, there shall be included in the gross income of each beneficiary an amount which bears the same ratio to distributable net income as the amount of income required to be distributed to such beneficiary bears to the amount of income required to be distributed to all beneficiaries.
 
 #### (b) Character of amounts
 
@@ -17,8 +17,4 @@ If the taxable year of a beneficiary is different from that of the trust, the am
 #### Amendments
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 643 of this title.
 

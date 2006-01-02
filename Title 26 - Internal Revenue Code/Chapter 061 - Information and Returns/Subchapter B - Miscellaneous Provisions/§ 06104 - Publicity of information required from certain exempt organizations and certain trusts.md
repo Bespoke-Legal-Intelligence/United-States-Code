@@ -238,7 +238,7 @@ Amendment by Pub. L. 107–276 effective as if included in the amendments made b
 
 Pub. L. 106–554, §1(a)(7) \[title III, §312(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 1 of this title\] shall take effect as if included in the provisions of the Tax and Trade Relief Extension Act of 1998 \[Pub. L. 105–277, div. J\], to which they relate.”
 
-Amendment by section 1(b) of Pub. L. 106–230 effective July 1, 2000, except that amendment by section 1(b)(2) of Pub. L. 106–230 effective 45 days after July 1, 2000, see section 1(d) of Pub. L. 106–230, set out as a note under section 527 of this title.
+Amendment by section 1(b) of Pub. L. 106–230 effective July 1, 2000, except that amendment by section1(b)(2) of Pub. L. 106–230 effective 45 days after July 1, 2000, see section 1(d) of Pub. L. 106–230, set out as a note under section 527 of this title.
 
 Amendment by section 3(b) of Pub. L. 106–230 applicable to returns for taxable years beginning after June 30, 2000, see section 3(d) of Pub. L. 106–230, set out as a note under section 6012 of this title.
 
@@ -308,11 +308,7 @@ Section 75(c) of Pub. L. 85–866 provided that: “The amendments made by subse
 
 #### Effect of Amendments on Existing Disclosures
 
-Pub. L. 107–276, §7, Nov. 2, 2002, 116 Stat. 1935, provided that: “Notices, reports, or returns that were required to be filed with the Secretary of the Treasurybefore the date of the enactment of the amendments made by this Act \[Nov. 2, 2002\] and that were disclosed by the Secretary of the Treasury consistent with the law in effect at the time of disclosure shall remain subject on and after such date to the disclosure provisions of section 6104 of the Internal Revenue Code of 1986.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 507, 527, 6110, 6652, 6685, 7207 of this title.
+Pub. L. 107–276, §7, Nov. 2, 2002, 116 Stat. 1935, provided that: “Notices, reports, or returns that were required to be filed with the Secretary of the Treasury before the date of the enactment of the amendments made by this Act \[Nov. 2, 2002\] and that were disclosed by the Secretary of the Treasury consistent with the law in effect at the time of disclosure shall remain subject on and after such date to the disclosure provisions of section 6104 of the Internal Revenue Code of 1986.”
 
 <i><sup>1</sup></i><i> So in original. Three pars. (6) have been enacted.</i>
 

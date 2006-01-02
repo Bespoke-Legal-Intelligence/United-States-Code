@@ -63,7 +63,7 @@ Pub. L. 102–16, §2(b)(1)(B), Mar. 22, 1991, 105 Stat. 49, struck out item 166
 
 1989—Pub. L. 101–237, title IV, §405(d)(4)(B), Dec. 18, 1989, 103 Stat. 2082, substituted “Work-study allowance” for “Veteran-student services” in item 1685.
 
-1988—Pub. L. 100–689, title I, §§107(c)(2)(B), 124(c)(1), Nov. 18, 1988, 102 Stat. 4169, 4175, substituted “Tutorialassistance” for “Special supplementary assistance” in item 1692 and struck out items 1682A “Accelerated payment of educational assistance allowances” and 1686 “Education loans”.
+1988—Pub. L. 100–689, title I, §§107(c)(2)(B), 124(c)(1), Nov. 18, 1988, 102 Stat. 4169, 4175, substituted “Tutorial assistance” for “Special supplementary assistance” in item 1692 and struck out items 1682A “Accelerated payment of educational assistance allowances” and 1686 “Education loans”.
 
 1981—Pub. L. 97–35, title XX, §2003(b)(3)(B), Aug. 13, 1981, 95 Stat. 782, struck out item 1677 “Flight training”.
 

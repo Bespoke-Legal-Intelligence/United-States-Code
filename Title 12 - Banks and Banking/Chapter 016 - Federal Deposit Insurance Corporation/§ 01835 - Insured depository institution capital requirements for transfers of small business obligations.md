@@ -14,7 +14,7 @@ With respect to the transfer of a small business loan or lease of personal prope
 
 #### (c) Qualified institutions criteria
 
-An insured depository institution is a qualified insured depository institution for purposesof this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b) of this section, the institution is—
+An insured depository institution is a qualified insured depository institution for purposes of this section if, without regard to the accounting principles or capital requirements referred to in subsections (a) and (b) of this section, the institution is—
 
 &emsp;(1) well capitalized; or
 

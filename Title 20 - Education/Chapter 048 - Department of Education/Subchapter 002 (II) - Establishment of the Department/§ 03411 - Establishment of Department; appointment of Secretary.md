@@ -46,7 +46,7 @@ Sec. 4. Executive branch departments and agencies, to the extent permitted by la
 
 (d) the measurable impact resulting from these efforts and levels of participation. The Department of Education's report also shall describe the overall condition of Hispanic American education and such other aspects of the educational status of Hispanic Americans, as the Secretary considers appropriate.
 
-Sec. 5. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App), may apply to the Commission, any functions of the President under that Act,except that of reporting to the Congress, shall be performed by the Department of Education in accordance with the guidelines that have been issued by the Administrator of General Services.
+Sec. 5. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App), may apply to the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Department of Education in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 Sec. 6. (a) Members of the Commission shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
@@ -56,7 +56,7 @@ Sec. 7. The Commission shall prepare and submit an interim and final report to t
 
 (a) The Commission shall submit an Interim Report no later than September 30, 2002. The Interim Report shall describe the Commission's examination of:
 
-&emsp;(i) available research and information on the effectiveness of current practices at the local, State, and Federal levels in closing the educational achievement gap for Hispanic Americans and attaining the goals established by the President's “No Child Left Behind” educational blueprint;
+&emsp;(i) available research and information on the effectiveness of current practices at the local, State, andFederal levels in closing the educational achievement gap for Hispanic Americans and attaining the goals established by the President's “No Child Left Behind” educational blueprint;
 
 &emsp;(ii) available research and information on the effectiveness of current practices involving Hispanic parents in the education of their children; and
 

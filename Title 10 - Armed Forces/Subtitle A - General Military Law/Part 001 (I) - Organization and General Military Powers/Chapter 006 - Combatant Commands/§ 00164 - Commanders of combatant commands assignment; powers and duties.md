@@ -22,7 +22,7 @@ Responsibilities of Combatant Commanders.—(1) The commander of a combatant com
 
 (c)
 
-Command Authority of Combatant Commanders.—(1) Unless otherwise directed by the President or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
+Command Authority of Combatant Commanders.—(1) Unless otherwise directed by thePresident or the Secretary of Defense, the authority, direction, and control of the commander of a combatant command with respect to the commands and forces assigned to that command include the command functions of—
 
 &emsp;(A) giving authoritative direction to subordinate commands and forces necessary to carry out missions assigned to the command, including authoritative direction over all aspects of military operations, joint training, and logistics;
 
@@ -101,8 +101,4 @@ Section 214(c) of Pub. L. 99–433 provided that: “Subsections (e), (f), and (
 #### Waiver of Qualifications for Assignment as Combatant Commander
 
 Section 214(b) of Pub. L. 99–433 authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 163, 165, 167, 664 of this title.
 

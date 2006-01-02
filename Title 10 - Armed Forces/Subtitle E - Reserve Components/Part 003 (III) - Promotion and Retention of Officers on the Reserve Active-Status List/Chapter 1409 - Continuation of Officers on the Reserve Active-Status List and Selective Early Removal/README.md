@@ -11,10 +11,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 12645, 12646, 12647, 14001, 14006, 14519 of this title.
-
 
 ---
 

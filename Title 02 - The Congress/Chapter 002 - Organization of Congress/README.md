@@ -79,7 +79,7 @@ References to Abolished Committees.—Any reference in any provision of law enac
 
 &emsp;“(1) the Committee on District of Columbia of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives;
 
-&emsp;“(2) the Committee on Post Office and Civil Service of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives, except that a reference with respect to the House Commission on Congressional Mailings \[probably should be“Mailing”\] Standards (the ‘Franking Commission’) shall be treated as referring to the Committee on House Oversight of the House of Representatives; and
+&emsp;“(2) the Committee on Post Office and Civil Service of the House of Representatives shall be treated as referring to the Committee on Government Reform and Oversight of the House of Representatives, except that a reference with respect to the House Commission on Congressional Mailings \[probably should be “Mailing”\] Standards (the ‘Franking Commission’) shall be treated as referring to the Committee on House Oversight of the House of Representatives; and
 
 &emsp;“(3) the Committee on Merchant Marine and Fisheries of the House of Representatives shall be treated as referring to—
 

@@ -17,10 +17,6 @@
 
 1997—Pub. L. 105–34, title XV, §1531(a)(1), Aug. 5, 1997, 111 Stat. 1080, struck out “PORTABILITY, ACCESS, AND RENEWABILITY” in chapter heading and added analysis for chapter.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 4980B, 4980D of this title; title 29 section 1162; title 42 section 300bb–2.
-
 
 ---
 

@@ -16,7 +16,7 @@ For purposes of this section, the term “supplemental security income benefits�
 
 #### (c) Reimbursement of the State
 
-From the amount of the reduction made under subsection (a) of this section, the Commissioner of Social Security shall reimburse the State on behalf of which supplementary payments were made for the amount (if any) by which such State's expenditures on account of such supplementary payments for the month or months involved exceeded the expenditures which the State would have made (for such month or months) if the individual had received the benefits under subchapter II of this chapter at thetimes they were regularly due. An amount equal to the portion of such reduction remaining after reimbursement of the State under the preceding sentence shall be covered into the general fund of the Treasury.
+From the amount of the reduction made under subsection (a) of this section, the Commissioner of Social Security shall reimburse the State on behalf of which supplementary payments were made for the amount (if any) by which such State's expenditures on account of such supplementary payments for the month or months involved exceeded the expenditures which the State would have made (for such month or months) if the individual had received the benefits under subchapter II of this chapter at the times they were regularly due. An amount equal to the portion of such reduction remaining after reimbursement of the State under the preceding sentence shall be covered into the general fund of the Treasury.
 
 (Aug. 14, 1935, ch. 531, title XI, §1127, as added Pub. L. 96–265, title V, §501(a), June 9, 1980, 94 Stat. 469; amended Pub. L. 98–369, div. B, title VI, §2615(a), July 18, 1984, 98 Stat. 1132; Pub. L. 101–508, title V, §5106(b), Nov. 5, 1990, 104 Stat. 1388–268; Pub. L. 103–296, title I, §108(b)(8), title III, §321(f)(3)(B)(ii), Aug. 15, 1994, 108 Stat. 1483, 1542.)
 
@@ -30,7 +30,7 @@ Section 212(b) of Pub. L. 93–66, referred to in subsec. (b), is set out as a n
 
 Subsecs. (b), (c). Pub. L. 103–296, §108(b)(8), substituted “Commissioner of Social Security” for “Secretary”.
 
-1990—Subsec. (a). Pub. L. 101–508 inserted at end “A benefit under subchapter II of this chapter shall not be reduced pursuant to the preceding sentence to the extent that any amount of such benefit would not otherwise be available for payment in full of the maximum fee which may be recovered from such benefit by an attorney pursuant to section 406(a)(4) of this title.”
+1990—Subsec. (a). Pub. L. 101–508 inserted at end “A benefit under subchapter II of this chapter shall not be reduced pursuant to the preceding sentence to the extent that any amount of such benefit would not otherwise be available for payment in full of the maximumfee which may be recovered from such benefit by an attorney pursuant to section 406(a)(4) of this title.”
 
 1984—Pub. L. 98–369 substituted provisions relating to adjustment in supplemental security income benefits on account of retroactive benefits under subchapter II of this chapter for provisions which related to adjustment of retroactive benefits under subchapter II of this chapter on account of supplemental security income benefits.
 

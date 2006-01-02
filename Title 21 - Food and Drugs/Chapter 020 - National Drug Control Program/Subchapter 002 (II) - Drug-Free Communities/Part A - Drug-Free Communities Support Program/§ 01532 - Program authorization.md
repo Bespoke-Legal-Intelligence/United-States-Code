@@ -64,7 +64,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;(A) have as its principal mission the reduction of substance abuse, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in a comprehensive and long-term manner, with a primary focus on youth in the community;
 
-&emsp;&emsp;(B) describe and document the nature and extent of the substance abuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
+&emsp;&emsp;(B) describe and document the nature and extent of the substance abuse problem,which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
 &emsp;&emsp;(C)(i) provide a description of substance abuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
 
@@ -154,7 +154,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) of this section if the Administrator considers that waiver to be appropriate.
+&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grantunder this paragraph, the Administrator may waive any requirement under subsection (a) of this section if the Administrator considers that waiver to be appropriate.
 
 #### (ii) Matching requirement
 
@@ -182,7 +182,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (F), the Administrator may award an additional grant underthis paragraph to an eligible coalition awarded a grant under paragraph (1) or (2) for any first fiscal year after the end of the 4-year period following the period of the initial grant under paragraph (1) or (2), as the case may be.
+&emsp;&emsp;Subject to subparagraph (F), the Administrator may award an additional grant under this paragraph to an eligible coalition awarded a grant under paragraph (1) or (2) for any first fiscal year after the end of the 4-year period following the period of the initial grant under paragraph (1) or (2), as the case may be.
 
 #### (B) Scope of grants
 

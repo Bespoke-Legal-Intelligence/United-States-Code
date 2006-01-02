@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(ii) providing information through means that the Secretary determines will reach individuals who are most likely to adopt children with special needs.
 
-&emsp;&emsp;(C) The campaign shall provide information on the subsidies and supports that are available to individuals regarding the adoption of children with special needs.
+&emsp;&emsp;(C) The campaign shall provide information on the subsidies and supports that areavailable to individuals regarding the adoption of children with special needs.
 
 &emsp;&emsp;(D) The Secretary may provide that the placement of public service announcements, and the dissemination of brochures and other materials, is subject to review by the Secretary.
 

@@ -6,9 +6,9 @@ In order to encourage greater availability of political risk insurance for eligi
 
 &emsp;(1) Utilizing its statutory authorities, encourage the development of associations, pools, or consortia of United States private political risk insurers.
 
-&emsp;(2) Share insurance risks (through coinsurance, contingent insurance, or other means) ina manner that is conducive to the growth and development of the private political risk insurance industry in the United States.
+&emsp;(2) Share insurance risks (through coinsurance, contingent insurance, or other means) in a manner that is conducive to the growth and development of the private political risk insurance industry in the United States.
 
-&emsp;(3) Notwithstanding section 2197(e) of this title, upon the expiration of insurance provided by the Corporation for an investment, enter into risk-sharing agreements with United States private political risk insurers to insure any such investment; except that, in cooperating in the offering of insurance under this paragraph, the Corporation shall not assume responsibility for more than 50 percent of the insurance being offered in each separate transaction.
+&emsp;(3) Notwithstanding section 2197(e) of this title, upon the expiration of insurance provided by the Corporation for an investment, enter into risk-sharing agreements with United States private political risk insurers to insure any such investment; except that, in cooperating in the offering of insurance under this paragraph, the Corporation shall not assume responsibility for more than 50 percentof the insurance being offered in each separate transaction.
 
 #### (b) Advisory group
 

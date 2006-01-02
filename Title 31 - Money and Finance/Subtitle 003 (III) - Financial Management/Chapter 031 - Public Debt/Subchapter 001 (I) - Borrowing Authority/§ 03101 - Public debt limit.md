@@ -1,6 +1,6 @@
 ### §3101. Public debt limit
 
-(a) In this section, the current redemption value of an obligation issued on a discount basis and redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
+(a) In this section, the current redemption value of an obligation issued on a discount basisand redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
 (b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $8,184,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or otherwise.
 
@@ -180,7 +180,7 @@ Pub. L. 87–512, §1(3), July 1, 1962, 76 Stat. 124, provided for a temporary i
 
 Pub. L. 87–512, §1(2), July 1, 1962, 76 Stat. 124, provided for a temporary increase from $285,000,000,000 to $305,000,000,000 for the period Apr. 1, 1963, to June 24, 1963.
 
-Pub. L. 87–512, §1(1), July 1, 1962, 76 Stat. 124, provided for a temporary increase from $285,000,000,000 to$308,000,000,000 for the period July 1, 1962, to Mar. 31, 1963.
+Pub. L. 87–512, §1(1), July 1, 1962, 76 Stat. 124, provided for a temporary increase from $285,000,000,000 to $308,000,000,000 for the period July 1, 1962, to Mar. 31, 1963.
 
 Pub. L. 87–414, Mar. 13, 1962, 76 Stat. 23, provided for a temporary increase from $285,000,000,000 to $300,000,000,000 for the period Mar. 13, 1962, to June 30, 1962.
 

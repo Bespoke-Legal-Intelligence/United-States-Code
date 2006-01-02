@@ -1,6 +1,6 @@
 ### §2668. Easements for rights-of-way
 
-(a) If the Secretary of a military department finds that it will not be against the public interest, he may grant, upon such terms as he considers advisable, easements for rights-of-way over, in, and upon public lands permanently withdrawn or reserved for the use of that department, and other lands under his control, to a State, Territory, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Territory, Commonwealth, or possession, for—
+(a) If the Secretary of a military department finds that it will not be against the public interest, he may grant, upon such terms as he considers advisable, easements for rights-of-way over, in, and upon public lands permanently withdrawn or reserved for the use of that department, and other lands under his control, to a State, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Commonwealth, or possession, for—
 
 &emsp;(1) railroad tracks;
 
@@ -42,7 +42,7 @@
 
 (e) Subsections (c) and (d) of section 2667 of this title shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(a), Nov. 24, 2003, 117 Stat. 1725.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, §1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, §2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(a), Nov. 24, 2003, 117 Stat. 1725;Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -86,6 +86,8 @@ In subsection (c), the word “terminate” is substituted for the words “annu
 
 #### Amendments
 
+2006—Pub. L. 109–163 struck out “Territory,” after “a State,” in two places in introductory provisions.
+
 2003—Subsec. (e). Pub. L. 108–136 substituted “Subsections (c) and (d)” for “Subsection (d)” and “subsections apply to in-kind consideration and” for “subsection applies to” and inserted “in-kind consideration and” before “proceeds”.
 
 2000—Subsec. (e). Pub. L. 106–398 added subsec. (e).
@@ -99,8 +101,4 @@ Subsec. (a)(10) to (12). Pub. L. 104–201, §2861(a)(3), added pars. (10) to (1
 Subsec. (a)(13). Pub. L. 104–201, §2861(a)(2), (b)(2), redesignated par. (10) as (13) and struck out “or by the Act of March 4, 1911 (43 U.S.C. 961)” after “2669 of this title”.
 
 1984—Subsec. (a)(10). Pub. L. 98–525 substituted “the Act of March 4, 1911 (43 U.S.C. 961)” for “section 961 of title 43”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2667 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualifiedbond for any period during which it is held by a person who is a substantial user of the facilities or by a related person of such a substantial user.
+&emsp;Except as provided in subsection (h), a private activity bond shall not be a qualified bond for any period during which it is held by a person who is a substantial user of the facilities or by a related person of such a substantial user.
 
 #### (2) Related person
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) the average maturity of any issue shall be determined by taking into account the respective issue prices of the bonds issued as part of such issue, and
 
-&emsp;&emsp;(B) the average reasonably expected economic life of the facilities being financed with any issue shall be determined by taking into account the respective cost of such facilities.
+&emsp;&emsp;(B) the average reasonably expected economic life of the facilities being financedwith any issue shall be determined by taking into account the respective cost of such facilities.
 
 #### (3) Special rules
 
@@ -118,7 +118,7 @@
 
 #### (ii) Aggregation rules
 
-&emsp;&emsp;&emsp;Any ownership or material participation, or financing received, by an individual's spouse or minor child shall be treated as ownership and material participation, or financing received, by the individual.
+&emsp;&emsp;&emsp;Any ownership or material participation, or financing received, by an individual'sspouse or minor child shall be treated as ownership and material participation, or financing received, by the individual.
 
 #### (iii) Insolvent farmer
 
@@ -186,7 +186,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, the term “rehabilitation expenditures” meansany amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially the same function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with such person shall be treated as incurred by such person.
+&emsp;&emsp;Except as provided in this paragraph, the term “rehabilitation expenditures” means any amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially the same function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with such person shall be treated as incurred by such person.
 
 #### (B) Certain expenditures not included
 
@@ -206,7 +206,7 @@
 
 #### (e) No portion of bonds may be issued for skyboxes, airplanes, gambling establishments, etc.
 
-A private activity bond shall not be a qualified bond if issued as part of an issue and any portion of the proceeds of such issue is to be used to provide any airplane, skybox or other private luxury box, health club facility, facility primarily used for gambling, or store the principal business of which is the sale of alcoholic beverages for consumption off premises.
+A private activity bond shall not be a qualified bond if issued as part of an issue and any portionof the proceeds of such issue is to be used to provide any airplane, skybox or other private luxury box, health club facility, facility primarily used for gambling, or store the principal business of which is the sale of alcoholic beverages for consumption off premises.
 
 #### (f) Public approval required for private activity bonds
 
@@ -366,11 +366,11 @@ Section 1117(c) of Pub. L. 104–188 provided that: “The amendments made by th
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -386,9 +386,5 @@ Subsec. (f) applicable to bonds issued after Dec. 31, 1986, see section 1311(d) 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 141, 142, 144, 146, 148, 150, 265, 1394, 1400I, 1400L of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

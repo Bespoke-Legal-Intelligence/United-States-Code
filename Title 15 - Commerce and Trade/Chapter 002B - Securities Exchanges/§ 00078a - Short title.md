@@ -22,11 +22,11 @@ Pub. L. 107–123, §1, Jan. 16, 2002, 115 Stat. 2390, provided that: “This Ac
 
 Pub. L. 105–366, §1, Nov. 10, 1998, 112 Stat. 3302, provided that: “This Act \[enacting section 78dd–3 of this title, amending sections 78dd–1, 78dd–2, and 78ff of this title, and enacting provisions set out as notes under section 78dd–1 of this title\] may be cited as the ‘International Anti-Bribery and Fair Competition Act of 1998’.”
 
-Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act \[amending sections 77b, 77k, 77m, 77p, 77r, 77v, 77z–1 to 77z–3, 77aa, 77ccc, 77ddd, 77mmm, 77sss, 78c, 78d, 78g, 78n, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78s, 78t, 78u–4, 78z, 78bb, 78ee, 78kk, 78<i>ll</i>, 80a–2, 80a–3, 80a–12, 80a–18, 80a–29, 80a–30, 80b–3, and 80b–18a of this title and enacting provisions set out as notes under this section and sections 77p and 78u of this title\] may be cited as the ‘Securities Litigation Uniform Standards Act of 1998’.”
+Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act \[amending sections 77b, 77k, 77m,77p, 77r, 77v, 77z–1 to 77z–3, 77aa, 77ccc, 77ddd, 77mmm, 77sss, 78c, 78d, 78g, 78n, 78<i>o</i>, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78s, 78t, 78u–4, 78z, 78bb, 78ee, 78kk, 78<i>ll</i>, 80a–2, 80a–3, 80a–12, 80a–18, 80a–29, 80a–30, 80b–3, and 80b–18a of this title and enacting provisions set out as notes under this section and sections 77p and 78u of this title\] may be cited as the ‘Securities Litigation Uniform Standards Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes underthis section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
+Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
 
 Pub. L. 104–290, title I, §101, Oct. 11, 1996, 110 Stat. 3417, provided that: “This title \[enacting sections 77z–3 and 78mm of this title, amending sections 77b, 77r, 78c, 78g, 78h, 78<i>o</i>, 78q, 78bb, and 80a–2 of this title, and enacting provisions set out as notes under sections 77e and 77r of this title\] may be cited as the ‘Capital Markets Efficiency Act of 1996’.”
 
@@ -84,7 +84,7 @@ Pub. L. 99–222, §1, Dec. 28, 1985, 99 Stat. 1737, provided that: “This Act 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–376, §1, Aug. 10, 1984, 98 Stat. 1264, provided that: “This Act \[amending sections 78c, 78<i>o</i>, 78t, 78u,and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Insider Trading Sanctions Act of 1984’.”
+Pub. L. 98–376, §1, Aug. 10, 1984, 98 Stat. 1264, provided that: “This Act \[amending sections 78c, 78<i>o</i>, 78t, 78u, and 78ff of this title and enacting provisions set out as a note under section 78c of this title\] may be cited as the ‘Insider Trading Sanctions Act of 1984’.”
 
 #### Short Title of 1977 Amendment
 

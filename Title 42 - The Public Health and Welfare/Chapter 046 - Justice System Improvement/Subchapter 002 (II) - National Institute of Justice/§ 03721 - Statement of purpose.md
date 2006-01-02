@@ -164,11 +164,11 @@ Hearings.—The Commission may, for purposes of this title, hold hearings, sit a
 
 “(b)
 
-Delegation of Authority.—Any member or agent of the Commission may, if authorized by the Commission, take any action the Commission is authorized to take by this section.
+Delegation of Authority.—Any member or agent of the Commission may, if authorized by theCommission, take any action the Commission is authorized to take by this section.
 
 “(c)
 
-Information.—The Commission may secure directly from any Federal agency information necessary to enable it to carry out this title. Upon request of the chairperson of the Commission, the head of an agencyshall furnish the information to the Commission to the extent permitted by law.
+Information.—The Commission may secure directly from any Federal agency information necessary to enable it to carry out this title. Upon request of the chairperson of the Commission, the head of an agency shall furnish the information to the Commission to the extent permitted by law.
 
 “(d)
 

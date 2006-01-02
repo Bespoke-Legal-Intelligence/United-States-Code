@@ -6,7 +6,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 #### (b) Appropriations authorization based on currency fluctuations
 
-(1) In order to maintain the levels of program activity for the Department of State provided for each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
+(1) In order to maintain the levels of program activity for the Department of State providedfor each fiscal year by the annual authorizing legislation, there are authorized to be appropriated for the Department of State such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or overseas wage and price changes, which occur after November 30 of the earlier of—
 
 &emsp;(A) the calendar year which ended during the fiscal year preceding such fiscal year, or
 
@@ -14,7 +14,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (2) In carrying out this subsection, there may be established a Buying Power Maintenance account.
 
-(3) In order to eliminate substantial gains to the approved levels of overseas operations for the Department of State, the Secretary of State shall transfer to the Buying Power Maintenance account such amounts in any appropriation account under the heading “Administration of Foreign Affairs” as the Secretary determines are excessive to the needs of the approved levelof operations under that appropriation account because of fluctuations in foreign currency exchange rates or changes in overseas wages and prices.
+(3) In order to eliminate substantial gains to the approved levels of overseas operations for the Department of State, the Secretary of State shall transfer to the Buying Power Maintenance account such amounts in any appropriation account under the heading “Administration of Foreign Affairs” as the Secretary determines are excessive to the needs of the approved level of operations under that appropriation account because of fluctuations in foreign currency exchange rates or changes in overseas wages and prices.
 
 (4) In order to offset adverse fluctuations in foreign currency exchange rates or overseas wage and price changes, the Secretary of State may transfer from the Buying Power Maintenance account to any appropriation account under the heading “Administration of Foreign Affairs” such amounts as the Secretary determines are necessary to maintain the approved level of operations under that appropriation account.
 

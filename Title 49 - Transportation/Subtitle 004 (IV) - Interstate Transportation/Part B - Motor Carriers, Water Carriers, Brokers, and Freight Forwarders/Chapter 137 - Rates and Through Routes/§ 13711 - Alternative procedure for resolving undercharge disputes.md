@@ -16,7 +16,7 @@ Determination.—The Board shall have jurisdiction to make a determination of wh
 
 Factors to consider.—In making a determination under paragraph (1), the Board shall consider—
 
-&emsp;&emsp;(A) whether the person was offered a transportation rate by the carrier or freight forwarder or party other than that legally on file with the Interstate Commerce Commission or the Board, as required, at the time ofthe movement for the transportation service;
+&emsp;&emsp;(A) whether the person was offered a transportation rate by the carrier or freight forwarder or party other than that legally on file with the Interstate Commerce Commission or the Board, as required, at the time of the movement for the transportation service;
 
 &emsp;&emsp;(B) whether the person tendered freight to the carrier or freight forwarder in reasonable reliance upon the offered transportation rate;
 
@@ -36,7 +36,7 @@ Treatment.—Subsection (a) is an exception to the requirements of section 13702
 
 (e)
 
-Nonapplicability of Negotiated Rate Dispute Resolution Procedure.—If a person elects to seek enforcement of subsection (a) with respect to a rate for a transportation or service, section 13709 shall not apply to such rate.
+Nonapplicability of Negotiated Rate Dispute Resolution Procedure.—If a personelects to seek enforcement of subsection (a) with respect to a rate for a transportation or service, section 13709 shall not apply to such rate.
 
 (f)
 

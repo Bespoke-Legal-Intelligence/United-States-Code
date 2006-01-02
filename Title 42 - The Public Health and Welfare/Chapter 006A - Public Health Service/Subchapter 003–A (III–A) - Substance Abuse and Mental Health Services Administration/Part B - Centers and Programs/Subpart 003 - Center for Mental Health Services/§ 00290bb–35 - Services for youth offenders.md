@@ -30,7 +30,7 @@ In this section:
 
 #### (1) Serious emotional disturbance
 
-&emsp;The term “serious emotional disturbance” with respect to a youth offender means an offender who currently, or at any time within the 1-year period ending on the day on which services are sought under this section, has adiagnosable mental, behavioral, or emotional disorder that functionally impairs the offender's life by substantially limiting the offender's role in family, school, or community activities, and interfering with the offender's ability to achieve or maintain one or more developmentally-appropriate social, behavior, cognitive, communicative, or adaptive skills.
+&emsp;The term “serious emotional disturbance” with respect to a youth offender means an offender who currently, or at any time within the 1-year period ending on the day on which services are sought under this section, has a diagnosable mental, behavioral, or emotional disorder that functionally impairs the offender's life by substantially limiting the offender's role in family, school, or community activities, and interfering with the offender's ability to achieve or maintain one or more developmentally-appropriate social, behavior, cognitive, communicative, or adaptive skills.
 
 #### (2) Community-based system of care
 
@@ -48,5 +48,5 @@ There is authorized to be appropriated to carry out this section $40,000,000 for
 
 #### Change of Name
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce ofHouse of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

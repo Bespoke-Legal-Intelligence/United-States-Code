@@ -28,7 +28,7 @@ In this section—
 
 #### (2) Designation of employees
 
-&emsp;The Director of the Central Intelligence Agency may designate any employee of the Agency who is under nonofficial cover to be anemployee to whom this section applies. Such designation may be made with respect to any or all authorities exercised under this section.
+&emsp;The Director of the Central Intelligence Agency may designate any employee of the Agency who is under nonofficial cover to be an employee to whom this section applies. Such designation may be made with respect to any or all authorities exercised under this section.
 
 #### (c) Compensation
 
@@ -132,7 +132,7 @@ The Director of the Central Intelligence Agency may pay a designated employee sa
 
 #### (A) In general
 
-&emsp;&emsp;A designated employee participating in the life insurance program established under paragraph (1) may convert to coverage under the program under chapter 87 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the life insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
+&emsp;&emsp;A designated employee participating in the life insurance program established underparagraph (1) may convert to coverage under the program under chapter 87 of title 5 at any appropriate time determined by the Director of the Central Intelligence Agency (including at the time of separation of service by reason of retirement), if the Director of the Central Intelligence Agency determines that the employee's participation in the life insurance program established under this subsection is no longer necessary to protect from unauthorized disclosure—
 
 &emsp;&emsp;&emsp;(i) intelligence operations;
 
@@ -194,7 +194,7 @@ The Director of the Central Intelligence Agency may exempt a designated employee
 
 #### (i) Regulations
 
-The Director of the Central Intelligence Agency shall prescribe regulations to carry out thissection. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b) of this section, the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
+The Director of the Central Intelligence Agency shall prescribe regulations to carry out this section. The regulations shall ensure that the combination of salary, allowances, and benefits that an employee designated under this section may retain does not significantly exceed, except to the extent determined by the Director of the Central Intelligence Agency to be necessary to exercise the authority in subsection (b) of this section, the combination of salary, allowances, and benefits otherwise received by Federal employees not designated under this section.
 
 #### (j) Finality of decisions
 

@@ -60,31 +60,31 @@ For purposes of this section—
 
 #### (2) Exception for sales of nonpublicly traded property
 
-&emsp;The term “constructive sale” shall not include any contract for sale of any stock, debt instrument, or partnership interest which is not a marketable security (as defined in section 453(f)) if the contract settles within 1 year after the date such contract is entered into.
+&emsp;A taxpayer shall not be treated as having made a constructive sale solely because the taxpayer enters into a contract for sale of any stock, debt instrument, or partnership interest which is not a marketable security (as defined in section 453(f)) if the contract settles within 1 year after the date such contract is entered into.
 
 #### (3) Exception for certain closed transactions
 
 #### (A) In general
 
-&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which would otherwise be treated as a constructive sale) during the taxable year if—
+&emsp;&emsp;In applying this section, there shall be disregarded any transaction (which would otherwise cause a constructive sale) during the taxable year if—
 
-&emsp;&emsp;&emsp;(i) such transaction is closed before the end of the 30th day after the close of such taxable year,
+&emsp;&emsp;&emsp;(i) such transaction is closed on or before the 30th day after the close of such taxable year,
 
 &emsp;&emsp;&emsp;(ii) the taxpayer holds the appreciated financial position throughout the 60-day period beginning on the date such transaction is closed, and
 
 &emsp;&emsp;&emsp;(iii) at no time during such 60-day period is the taxpayer's risk of loss with respect to such position reduced by reason of a circumstance which would be described in section 246(c)(4) if references to stock included references to such position.
 
-#### (B) Treatment of positions which are reestablished
+#### (B) Treatment of certain closed transactions where risk of loss on appreciated financial position diminished
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) a transaction, which would otherwise be treated as a constructive sale of an appreciated financial position, is closed during the taxable year or during the 30 days thereafter, and
+&emsp;&emsp;&emsp;(i) a transaction, which would otherwise cause a constructive sale of an appreciated financial position, is closed during the taxable year or during the 30 days thereafter, and
 
-&emsp;&emsp;&emsp;(ii) another substantially similar transaction is entered into during the 60-day period beginning on the date the transaction referred to in clause (i) is closed—
+&emsp;&emsp;&emsp;(ii) another transaction is entered into during the 60-day period beginning on the date the transaction referred to in clause (i) is closed—
 
-&emsp;&emsp;&emsp;&emsp;(I) which also would otherwise be treated as a constructive sale of such position,
+&emsp;&emsp;&emsp;&emsp;(I) which would (but for this subparagraph) cause the requirement of subparagraph (A)(iii) not to be met with respect to the transaction described in clause (i) of this subparagraph,
 
-&emsp;&emsp;&emsp;&emsp;(II) which is closed before the 30th day after the close of the taxable year in which the transaction referred to in clause (i) occurs, and
+&emsp;&emsp;&emsp;&emsp;(II) which is closed on or before the 30th day after the close of the taxable year in which the transaction referred to in clause (i) occurs, and
 
 &emsp;&emsp;&emsp;&emsp;(III) which meets the requirements of clauses (ii) and (iii) of subparagraph (A),
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (2) Certain trust instruments treated as stock
 
-&emsp;For purposes of this section, an interest in a trust which is actively traded (within the meaning of section 1092(d)(1)) shall be treated as stock unless substantially all (by value) of the property held by the trust is debt described in subsection (b)(2)(A).
+&emsp;For purposes of this section, an interest in a trust which is actively traded (within the meaning of section 1092(d)(1)) shall be treated as stock unless substantially all (by value) ofthe property held by the trust is debt described in subsection (b)(2)(A).
 
 #### (3) Multiple positions in property
 
@@ -140,15 +140,35 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 105–34, title X, §1001(a), Aug. 5, 1997, 111 Stat. 903; amended Pub. L. 105–206, title VI, §6010(a)(1), (2), July 22, 1998, 112 Stat. 812, 813.)
+(Added Pub. L. 105–34, title X, §1001(a), Aug. 5, 1997, 111 Stat. 903; amended Pub. L. 105–206, title VI, §6010(a)(1), (2), July 22, 1998, 112 Stat. 812, 813; Pub. L. 108–311, title IV, §406(e), Oct. 4, 2004, 118 Stat. 1189.)
 
 #### Amendments
+
+2004—Subsec. (c)(2). Pub. L. 108–311, §406(e)(1), substituted “A taxpayer shall not be treated as having made a constructive sale solely because the taxpayer enters into a contract” for “The term ‘constructive sale’ shall not include any contract”.
+
+Subsec. (c)(3)(A). Pub. L. 108–311, §406(e)(2), substituted “cause a constructive sale” for “be treated as a constructive sale” in introductory provisions.
+
+Subsec. (c)(3)(A)(i). Pub. L. 108–311, §406(e)(3), substituted “on or before” for “before the end of”.
+
+Subsec. (c)(3)(B). Pub. L. 108–311, §406(e)(7), substituted “certain closed transactions where risk of loss on appreciated financial position diminished” for “positions which are reestablished” in heading.
+
+Subsec. (c)(3)(B)(i). Pub. L. 108–311, §406(e)(2), substituted “cause a constructive sale” for “be treated as a constructive sale”.
+
+Subsec. (c)(3)(B)(ii). Pub. L. 108–311, §406(e)(4), struck out “substantially similar” after “another” in introductory provisions.
+
+Subsec. (c)(3)(B)(ii)(I). Pub. L. 108–311, §406(e)(5), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “which also would otherwise be treated as a constructive sale of such position,”.
+
+Subsec. (c)(3)(B)(ii)(II). Pub. L. 108–311, §406(e)(6), inserted “on or” before “before the 30th day”.
 
 1998—Subsec. (b)(2)(A)(i) to (iii). Pub. L. 105–206, §6010(a)(1)(A), substituted “position” for “debt”.
 
 Subsec. (b)(2)(B), (C). Pub. L. 105–206, §6010(a)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (d)(1). Pub. L. 105–206, §6010(a)(2), inserted “(including cash)” after “property”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -157,8 +177,4 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to any constructive sale after June 8, 1997, with certain exceptions, see section 1001(d) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 475 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 475 of this title.
 

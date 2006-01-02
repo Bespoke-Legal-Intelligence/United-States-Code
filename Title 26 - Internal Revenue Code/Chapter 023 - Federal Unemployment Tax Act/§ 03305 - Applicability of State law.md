@@ -10,7 +10,7 @@ The legislature of any State may require any instrumentality of the United State
 
 #### (c) National banks
 
-Nothing contained in section 5240 of the Revised Statutes, as amended (12 U.S.C. 484), shall prevent any State from requiring any national banking association to render returns and reports relative to the association's employees, their remuneration and services, to the same extent that other persons are required to render like returns and reports under a State law requiring contributions to an unemployment fund. The Comptroller of the Currency shall, upon receipt of a copy of any such return or report of a national banking association from, and upon request of, any duly authorized official, body, or commission of a State, cause an examination of the correctness of such return or report to be made at the time of the next succeeding examination of such association, and shall thereupon transmit to such official, body, or commission a complete statement of his findings respecting the accuracy of such returns or reports.
+Nothing contained in section 5240 of the Revised Statutes, as amended (12 U.S.C. 484), shall prevent any State from requiring any national banking association to render returns and reports relative to the association's employees, their remuneration and services, to the same extent that other persons are required to render like returns and reports under a State law requiring contributions to an unemployment fund.The Comptroller of the Currency shall, upon receipt of a copy of any such return or report of a national banking association from, and upon request of, any duly authorized official, body, or commission of a State, cause an examination of the correctness of such return or report to be made at the time of the next succeeding examination of such association, and shall thereupon transmit to such official, body, or commission a complete statement of his findings respecting the accuracy of such returns or reports.
 
 #### (d) Federal property
 
@@ -48,7 +48,7 @@ Each general agent of the Secretary of Commerce making contributions pursuant to
 
 Any person required, pursuant to the permission granted by this section, to make contributions to an unemployment fund under a State unemployment compensation law approved by the Secretary of Labor under section 3304 shall not be entitled to the credits permitted, with respect to the unemployment compensation law of a State, by subsections (a) and (b) of section 3302 against the tax imposed by section 3301 for any taxable year if, on October 31 of such taxable year, the Secretary of Labor certifies to the Secretary of the Treasury his finding, after reasonable notice and opportunity for hearing to the State agency, that the unemployment compensation law of such State is inconsistent with any one or more of the conditions on the basis of which such permission is granted or that, in the application of the State law with respect to the 12-month period ending on such October 31, there has been a substantial failure to comply with any one or more of such conditions. For purposes of section 3310, a finding of the Secretary of Labor under this subsection shall be treated as a finding under section 3304(c).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 445; Sept. 1, 1954, ch. 1212, §4(c), 68 Stat. 1135; Pub. L. 86–778, title V, §531(a), (b), Sept. 13, 1960, 74 Stat. 983; Pub. L. 91–373, title I, §123, Aug. 10, 1970, 84 Stat. 702; Pub. L. 94–455, title XIX, §§1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 445; Sept. 1, 1954, ch. 1212, §4(c), 68 Stat. 1135; Pub. L. 86–778, titleV, §531(a), (b), Sept. 13, 1960, 74 Stat. 983; Pub. L. 91–373, title I, §123, Aug. 10, 1970, 84 Stat. 702; Pub. L. 94–455, title XIX, §§1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834.)
 
 #### Amendments
 
@@ -76,9 +76,5 @@ Section 4(c) of act Sept. 1, 1954, provided that the amendment made by that sect
 
 #### Applicability to Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives
 
-Section 531(g) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“Notwithstanding section 203(b) of the Farm Credit Act of 1959, sections 3305(b), 3306(c)(6), and 3308 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and sections 1501(a) and 1507(a) of the Social Security Act \[sections 1361(a) and 1367 of Title 42, The Public Health and Welfare\] shall be applicable, according to their terms, to the Federal land banks, Federal intermediate credit banks, and banks for cooperatives.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3304, 3306 of this title; title 5 section 8501; title 42 section 503.
+Section 531(g) of Pub. L. 86–778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 203(b) of the Farm Credit Act of 1959, sections 3305(b), 3306(c)(6), and 3308 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and sections 1501(a) and 1507(a) of the Social Security Act \[sections 1361(a) and 1367 of Title 42, The Public Health and Welfare\] shall be applicable, according to their terms, to the Federal land banks, Federal intermediate credit banks, and banks for cooperatives.”
 

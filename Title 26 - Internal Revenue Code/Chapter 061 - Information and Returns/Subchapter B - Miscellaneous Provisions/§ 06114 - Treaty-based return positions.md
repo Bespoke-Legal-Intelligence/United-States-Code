@@ -12,7 +12,7 @@ Each taxpayer who, with respect to any tax imposed by this title, takes the posi
 
 The Secretary may waive the requirements of subsection (a) with respect to classes of cases for which the Secretary determines that the waiver will not impede the assessment and collection of tax.
 
-(Added Pub. L. 100–647, title I, §1012(aa)(5)(A), Nov. 10, 1988, 102 Stat. 3532; amended Pub. L. 101–508, title XI, §11702(c), Nov. 5, 1990, 104 Stat. 1388–514.)
+(Added Pub. L. 100–647, title I, §1012(aa)(5)(A), Nov. 10, 1988, 102 Stat. 3532; amended Pub. L.101–508, title XI, §11702(c), Nov. 5, 1990, 104 Stat. 1388–514.)
 
 #### Prior Provisions
 
@@ -29,8 +29,4 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 #### Effective Date
 
 Section 1012(aa)(5)(D) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[enacting this section and section 6712 of this title and renumbering former section 6114 as section 6115 of this title\] shall apply to taxable periods the due date for filing returns for which (without extension) occurs after December 31, 1988.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6712 of this title.
 

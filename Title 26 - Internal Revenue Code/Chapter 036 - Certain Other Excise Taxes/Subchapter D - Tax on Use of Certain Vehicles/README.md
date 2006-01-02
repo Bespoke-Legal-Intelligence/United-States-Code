@@ -15,10 +15,6 @@
 
 1956—Act June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 389, added subchapter heading and analysis of sections.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6103, 7871 of this title.
-
 
 ---
 

@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 Sept. 10, 1976, Pub. L. 94–406, §5, 90 Stat. 1236.
 
-The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, or aircraft” are substituted for “thereto” for clarity. In clause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
+The word “Amounts” is substituted for “funds” for clarity and consistency. Before clause (1), the words “After fiscal year 1977” are omitted as executed. The words “of such funds” are omitted as unnecessary. In clause (2), the words “aids, establishments, vessels, oraircraft” are substituted for “thereto” for clarity. In clause (4), the words “a matter referred to in clauses (1)–(3)” are substituted for “any of the above” for clarity.
 
 #### Amendments
 

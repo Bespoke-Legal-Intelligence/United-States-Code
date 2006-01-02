@@ -14,7 +14,7 @@
 
 #### (2) Purpose
 
-&emsp;It is the purpose of this section to achieve the goals embodied in the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and anyother agreements and amendments, through improved organization and definition of mission on the part of the Agency, funding of State grants for pollution control in the Great Lakes area, and improved accountability for implementation of such agreement.
+&emsp;It is the purpose of this section to achieve the goals embodied in the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, through improved organization and definition of mission on the part of the Agency, funding of State grants for pollution control in the Great Lakes area, and improved accountability for implementation of such agreement.
 
 #### (3) Definitions
 
@@ -110,7 +110,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (6) 5-year plan and program
 
-&emsp;The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrients introduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
+&emsp;The Program Office shall develop, in consultation with the States, a five-year plan and program for reducing the amount of nutrientsintroduced into the Great Lakes. Such program shall incorporate any management program for reducing nutrient runoff from nonpoint sources established under section 1329 of this title and shall include a program for monitoring nutrient runoff into, and ambient levels in, the Great Lakes.
 
 #### (7) 5-year study and demonstration projects
 
@@ -174,7 +174,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 &emsp;(C) The plan shall identify the anticipated use and management of the site over the following twenty-year period including the expected termination of dumping at the site, the anticipated need for site management, including pollution control, following the termination of the use of the site.
 
-&emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
+&emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall notbe less frequent than five years after adoption of the plan and every five years thereafter.
 
 #### (12) Remediation of sediment contamination in areas of concern
 
@@ -442,7 +442,7 @@ Sec. 3. <i>Great Lakes Interagency Task Force</i>.
 
 &emsp;(i) Help convene and establish a process for collaboration among the members of the Task Force and the members of the Working Group that is established in paragraph b(ii) of this section, with the Great Lakes States, local communities, tribes, regional bodies, and other interests in the Great Lakes region regarding policies, strategies, plans, programs, projects, activities, and priorities for the Great Lakes system.
 
-&emsp;(ii) Collaborate with Canada and its provinces and with bi-national bodies involved in the Great Lakesregion regarding policies, strategies, projects, and priorities for the Great Lakes system.
+&emsp;(ii) Collaborate with Canada and its provinces and with bi-national bodies involved in the Great Lakes region regarding policies, strategies, projects, and priorities for the Great Lakes system.
 
 &emsp;(iii) Coordinate the development of consistent Federal policies, strategies, projects, and priorities for addressing the restoration and protection of the Great Lakes system and assisting in the appropriate management of the Great Lakes system.
 

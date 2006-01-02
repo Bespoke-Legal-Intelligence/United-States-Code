@@ -64,7 +64,7 @@ Number of Joint Duty Assignments.—(1) The Secretary of Defense shall ensure th
 
 (B) Each position designated by the Secretary under subparagraph (A) may (subject to subparagraph (C)) be held only by an officer who has the joint specialty.
 
-(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waivermay be delegated only to the Chairman of the Joint Chiefs of Staff.
+(C) The Secretary of Defense may, on a case-by-case basis, waive the requirement in subparagraph (B) with respect to a particular assignment of an officer to a position designated as a critical joint duty assignment position. The authority of the Secretary to make such a waiver may be delegated only to the Chairman of the Joint Chiefs of Staff.
 
 (3)(A) The Secretary shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
@@ -98,7 +98,7 @@ Treatment of Certain Service.—Any service by an officer in the grade of captai
 
 Subsec. (c)(3)(E). Pub. L. 107–314, §502(c), substituted “paragraph” for “subparagraph”.
 
-2001—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted “Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—” for “The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—”.
+2001—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted “Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, andeach officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—” for “The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—”.
 
 1996—Subsec. (c)(3)(D). Pub. L. 104–106, §501(d)(1), in third sentence, substituted “In the case of officers in grades below brigadier general and rear admiral (lower half), the total number” for “The total number”.
 
@@ -214,7 +214,7 @@ Chairman of Joint Chiefs of Staff.—With respect to the roles of the Secretary 
 
 “(e)
 
-Requirements for Study Entity.—In providing for the independent study required by subsection (a),the Secretary of Defense shall ensure that the entity conducting the study—
+Requirements for Study Entity.—In providing for the independent study required by subsection (a), the Secretary of Defense shall ensure that the entity conducting the study—
 
 &emsp;“(1) is not a Department of Defense organization; and
 
@@ -271,8 +271,4 @@ Sunset.—The authority provided by paragraph (1) shall expire on October 1, 198
 “(c)
 
 Career Guidelines.—The career guidelines required to be established by section 661(e) of such title, the procedures required to be established by section 665(a) of such title, and the personnel policies required to be established by section 666 of such title (as added by section 401) shall be established not later than the end of the eight-month period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. The provisions of section 665(b) of such title shall be implemented not later than the end of such period.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 154, 164, 619a, 664, 665, 667 of this title.
 

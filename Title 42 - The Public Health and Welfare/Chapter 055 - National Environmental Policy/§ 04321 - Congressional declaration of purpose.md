@@ -1,6 +1,6 @@
 ### §4321. Congressional declaration of purpose
 
-The purposes of this chapter are: To declare a national policy which will encourage productiveand enjoyable harmony between man and his environment; to promote efforts which will prevent or eliminate damage to the environment and biosphere and stimulate the health and welfare of man; to enrich the understanding of the ecological systems and natural resources important to the Nation; and to establish a Council on Environmental Quality.
+The purposes of this chapter are: To declare a national policy which will encourage productive and enjoyable harmony between man and his environment; to promote efforts which will prevent or eliminate damage to the environment and biosphere and stimulate the health and welfare of man; to enrich the understanding of the ecological systems and natural resources important to the Nation; and to establish a Council on Environmental Quality.
 
 (Pub. L. 91–190, §2, Jan. 1, 1970, 83 Stat. 852.)
 
@@ -44,7 +44,7 @@ Pub. L. 101–593, title II, Nov. 16, 1990, 104 Stat. 2962, provided that:
 
 “(b) For fiscal year 1991 and in each of the following 4 fiscal years, the Administrator shall, during each such fiscal year, provide increasing numbers of additional support staff to the Office of Criminal Investigations.
 
-“(c) The head of the Office of Criminal Investigations shall be a position in the competitive service as defined in 2102 of title 5 U.S.C. or a career reserve position as defined in 3132(A) of title 5 U.S.C. and the head of such office shall report directly, without intervening review or approval, to the Assistant Administrator for Enforcement.
+“(c) The head of the Office of Criminal Investigations shall be a position in the competitive service as defined in 2102 of title 5 U.S.C. or a career reserve \[reserved\] position as defined in 3132(A) \[3132(a)\] of title 5 U.S.C. and the head of such office shall report directly, without intervening review or approval, to the Assistant Administrator for Enforcement.
 
 #### “SEC. 203. CIVIL INVESTIGATORS.
 
@@ -56,7 +56,7 @@ Pub. L. 101–593, title II, Nov. 16, 1990, 104 Stat. 2962, provided that:
 
 #### “SEC. 205. AUTHORIZATION.
 
-“For the purposes of carrying out the provisions of this Act \[probably should be “this title”\], there is authorized to be appropriated to the Environmental Protection Agency $13,000,000 for fiscal year 1991, $18,000,000 for fiscal year 1992, $20,000,000 for fiscal year 1993, $26,000,000 for fiscal year 1994, and $33,000,000 for fiscal year 1995.”
+“For the purposes of carrying out the provisions of this Act \[probably should be “this title”\], there is authorized to be appropriated to the Environmental Protection Agency $13,000,000 for fiscal year 1991, $18,000,000 for fiscal year 1992, $20,000,000 for fiscal year 1993,$26,000,000 for fiscal year 1994, and $33,000,000 for fiscal year 1995.”
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1970</b>
 
@@ -72,7 +72,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (b) There shall be at the head of the Agency the Administrator of the Environmental Protection Agency, hereinafter referred to as the “Administrator.” The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(c) There shall be in the Agency a Deputy Administrator of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, andshall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
+(c) There shall be in the Agency a Deputy Administrator of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
 (d) There shall be in the Agency not to exceed five Assistant Administrators of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. Each Assistant Administrator shall perform such functions as the Administrator shall from time to time assign or delegate. \[As amended Pub. L. 98–80, §2(a)(2), (b)(2), (c)(2)(C), Aug. 23, 1983, 97 Stat. 485, 486.\]
 
@@ -112,7 +112,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (b) There are hereby transferred to the Agency:
 
-(1) From the Department of the Interior, (i) the Water Pollution Control Advisory Board (33 U.S.C. \[former\] 466f) \[see 33 U.S.C. 1363\], together with its functions, and (ii) the hearing boards provided for in sections 10(c)(4) and 10(f) of the Federal Water Pollution Control Act, as amended (33 U.S.C. \[former\] 466g(c)(4); 466g(f)). The functions of the Secretary of the Interior with respect to being or designating the Chairman of the Water Pollution Control Advisory Board are hereby transferred to the Administrator.
+(1) From the Department of the Interior, (i) the Water Pollution Control Advisory Board (33 U.S.C. \[former\] 466f) \[see 33 U.S.C. 1363\], together with its functions, and (ii) the hearing boards provided for in sections 10(c)(4) and 10(f) of the Federal Water Pollution Control Act, as amended (33 U.S.C. \[former\] 466g(c)(4); 466g(f)). The functions of the Secretary of theInterior with respect to being or designating the Chairman of the Water Pollution Control Advisory Board are hereby transferred to the Administrator.
 
 (2) From the Department of Health, Education, and Welfare, the Air Quality Advisory Board (42 U.S.C. 1857e) \[42 U.S.C. 7417\], together with its functions. The functions of the Secretary of Health, Education, and Welfare with respect to being a member and the Chairman of that Board are hereby transferred to the Administrator.
 
@@ -182,7 +182,7 @@ Despite its complexity, for pollution control purposes the environment must be p
 
 Many agency missions, for example, are designed primarily along media lines—air, water, and land. Yet the sources of air, water, and land pollution are interrelated and often interchangeable. A single source may pollute the air with smoke and chemicals, the land with solid wastes, and a river or lake with chemical and other wastes. Control of the air pollution may produce more solid wastes, which then pollute the land or water. Control of the water-polluting effluent may convert it into solid wastes, which must be disposed of on land.
 
-Similarly, some pollutants—chemicals, radiation, pesticides—appear in all media. Successful control of them at present requires the coordinated efforts of a variety of separate agencies and departments. The results are not always successful.
+Similarly, some pollutants—chemicals, radiation, pesticides—appear in all media. Successful control ofthem at present requires the coordinated efforts of a variety of separate agencies and departments. The results are not always successful.
 
 A far more effective approach to pollution control would:
 
@@ -240,13 +240,13 @@ Pesticides registration program of the Agricultural Research Service.—The Depa
 
 By transferring the Department of Agriculture's pesticides registration and monitoring function to the EPA and merging it with the pesticides programs being transferred from HEW and Interior, the new agency would be given a broad capability for control over the introduction of pesticides into the environment.
 
-The Department of Agriculture would continue to conduct research on the effectiveness of pesticides. The Department would furnish this information to the EPA, which would have the responsibility for actually licensing pesticides for use after considering environmental and health effects. Thus the new agency would be able to make use of the expertise of the Department.
+The Department of Agriculture would continue to conduct research on the effectiveness of pesticides. TheDepartment would furnish this information to the EPA, which would have the responsibility for actually licensing pesticides for use after considering environmental and health effects. Thus the new agency would be able to make use of the expertise of the Department.
 
 #### advantages of reorganization
 
 This reorganization would permit response to environmental problems in a manner beyond the previous capability of our pollution control programs. The EPA would have the capacity to do research on important pollutants irrespective of the media in which they appear, and on the impact of these pollutants on the total environment. Both by itself and together with other agencies, the EPA would monitor the condition of the environment—biological as well as physical. With these data, the EPA would be able to establish quantitative “environmental baselines”—critical if we are to measure adequately the success or failure of our pollution abatement efforts.
 
-As no disjointed array of separate programs can, the EPA would be able—in concert with the States—to set and enforce standards for air and water quality and for individual pollutants. This consolidation of pollution control authorities would help assure that we do not create new environmental problems in the process of controlling existing ones. Industries seeking to minimize the adverse impact of their activities on the environment would be assured of consistent standards covering the full range of their waste disposal problems.As the States develop and expand their own pollution control programs, they would be able to look to one agency to support their efforts with financial and technical assistance and training.
+As no disjointed array of separate programs can, the EPA would be able—in concert with the States—to set and enforce standards for air and water quality and for individual pollutants. This consolidation of pollution control authorities would help assure that we do not create new environmental problems in the process of controlling existing ones. Industries seeking to minimize the adverse impact of their activities on the environment would be assured of consistent standards covering the full range of their waste disposal problems. As the States develop and expand their own pollution control programs, they would be able to look to one agency to support their efforts with financial and technical assistance and training.
 
 In proposing that the Environmental Protection Agency be set up as a separate new agency, I am making an exception to one of my own principles: that, as a matter of effective and orderly administration, additional new independent agencies normally should not be created. In this case, however, the arguments against placing environmental protection activities under the jurisdiction of one or another of the existing departments and agencies are compelling.
 
@@ -430,7 +430,7 @@ Sec. 102. <i>Functions of the Cabinet Committee</i>. (a) The Cabinet Committee s
 
 Sec. 103. <i>Coordination</i>. The Secretary of the Interior may make available to the Cabinet Committee for coordination of outdoor recreation the authorities and resources available to him under the Act of May 28, 1963, 77 Stat. 49 \[16 U.S.C. 460<i>l</i> et seq.\], to the extent permitted by law, he may make such authorities and resources available to the Cabinet Committee also for promoting such coordination of other matters assigned to the Cabinet Committee by this order.
 
-Sec. 104. <i>Assistance for the Cabinet Committee</i>. In compliance with provisions of applicable law, and as necessary to serve the purposes of this order, (1) the Council on Environmental Quality (established by Public Law 91–190) \[this chapter\] shall provide or arrange for necessary administrative and staff services, support, and facilities for the Cabinet Committee, and (2) each department and agency which has membership on the Cabinet Committee under Section 101(c) hereof shall furnish the Cabinet Committee such information and other assistance as may be available.
+Sec. 104. <i>Assistance for the Cabinet Committee</i>. In compliance with provisions of applicable law, and as necessary to serve the purposes of this order, (1) the Council on Environmental Quality (established by Public Law 91–190) \[this chapter\] shall provide or arrange for necessary administrative and staff services, support, and facilities for the Cabinet Committee, and (2) each department and agency which has membership on the Cabinet Committee under Section 101(c) hereof shallfurnish the Cabinet Committee such information and other assistance as may be available.
 
 #### Part II—Citizens’ Advisory Committee on Environmental Quality
 
@@ -450,7 +450,7 @@ Sec. 302. <i>Prior bodies and orders</i>. The President's Council on Recreation 
 
 #### Termination of Cabinet Committee on the Environment
 
-The Cabinet Committee on the Environment was terminated and its functions transferred to the Domestic Council, see section 2(b) of Ex. Ord. No. 11541, eff. July1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
+The Cabinet Committee on the Environment was terminated and its functions transferred to the Domestic Council, see section 2(b) of Ex. Ord. No. 11541, eff. July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
 
 The Domestic Council was abolished by Reorg. Plan No. 1 of 1977, §3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by the President. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in the Domestic Council to the President with power to delegate the performance of such transferred functions within the Executive Office of the President.
 
@@ -616,7 +616,7 @@ Sec. 9. <i>Special Protection of the Public Lands</i>. (a) Notwithstanding the p
 
 #### Executive Order No. 11987
 
-Ex. Ord. No. 11987, May 24, 1977, 42 F.R. 26949, which directed executive agencies, and encouraged States, local governments, and private citizens, to restrict the introduction of exotic species into the natural ecosystems on lands and waters under their control, and which directed executive agencies to restrict the exportation of native species for introduction of such species into ecosystems outside the United States where they do not naturally occur, unless such introduction or exportation was found not to have an adverse effect on natural ecosystems, was revoked by Ex. Ord. No. 13112, §6(b), Feb. 3, 1999, 64 F.R. 6186, set out below.
+Ex. Ord. No. 11987, May 24, 1977, 42 F.R. 26949, which directed executive agencies, and encouraged States, local governments, and private citizens, to restrict the introduction of exotic species into the natural ecosystems on lands and waters under their control, andwhich directed executive agencies to restrict the exportation of native species for introduction of such species into ecosystems outside the United States where they do not naturally occur, unless such introduction or exportation was found not to have an adverse effect on natural ecosystems, was revoked by Ex. Ord. No. 13112, §6(b), Feb. 3, 1999, 64 F.R. 6186, set out below.
 
 #### Ex. Ord. No. 11988. Floodplain Management
 
@@ -624,7 +624,7 @@ Ex. Ord. No. 11988, May 24, 1977, 42 F.R. 26951, as amended by Ex. Ord. No. 1214
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States of America, and as President of the United States of America, in furtherance of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 et seq.), the National Flood Insurance Act of 1968, as amended (42 U.S.C. 4001 et seq.), and the Flood Disaster Protection Act of 1973 (Public Law 93–234, 87 Stat. 975) \[see Short Title of 1973 Amendment note set out under 42 U.S.C. 4001\], in order to avoid to the extent possible the long and short term adverse impacts associated with the occupancy and modification of floodplains and to avoid direct or indirect support of floodplain development wherever there is a practicable alternative, it is hereby ordered as follows:
 
-Section 1. Each agency shall provide leadership and shall take action to reduce the risk of flood loss, to minimize the impact of floods on human safety, health and welfare, and to restore and preserve the naturaland beneficial values served by floodplains in carrying out its responsibilities for (1) acquiring, managing, and disposing of Federal lands and facilities; (2) providing Federally undertaken, financed, or assisted construction and improvements; and (3) conducting Federal activities and programs affecting land use, including but not limited to water and related land resources planning, regulating, and licensing activities.
+Section 1. Each agency shall provide leadership and shall take action to reduce the risk of flood loss, to minimize the impact of floods on human safety, health and welfare, and to restore and preserve the natural and beneficial values served by floodplains in carrying out its responsibilities for (1) acquiring, managing, and disposing of Federal lands and facilities; (2) providing Federally undertaken, financed, or assisted construction and improvements; and (3) conducting Federal activities and programs affecting land use, including but not limited to water and related land resources planning, regulating, and licensing activities.
 
 Sec. 2. In carrying out the activities described in Section 1 of this Order, each agency has a responsibility to evaluate the potential effects of any actions it may take in a floodplain; to ensure that its planning programs and budget requests reflect consideration of flood hazards and floodplain management; and to prescribe procedures to implement the policies and requirements of this Order, as follows:
 
@@ -702,7 +702,7 @@ Sec. 6. As allowed by law, agencies shall issue or amend their existing procedur
 
 Sec. 7. As used in this Order:
 
-(a) The term “agency” shall have the same meaning as the term “Executive agency” in Section 105 of Title 5 of the United States Code and shall include the military departments; the directives contained in this Order, however, are meant to apply only to those agencies which perform the activities described in Section 1 which are located in or affecting wetlands.
+(a) The term “agency” shall have the same meaning as the term “Executive agency” in Section 105 of Title 5 of the United States Code and shall include the military departments; the directives contained in thisOrder, however, are meant to apply only to those agencies which perform the activities described in Section 1 which are located in or affecting wetlands.
 
 (b) The term “new construction” shall include draining, dredging, channelizing, filling, diking, impounding, and related activities and any structures or facilities begun or authorized after the effective date of this Order.
 
@@ -786,7 +786,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–702. The head of an Executive agency may, from time to time, recommend to the President through the Director of the Office of Management and Budget, that an activity or facility, or uses thereof, be exempt from an applicable pollution control standard.
 
-1–703. The Administrator shall advise the President, through the Director of the Office of Management andBudget, whether he agrees or disagrees with a recommendation for exemption and his reasons therefor.
+1–703. The Administrator shall advise the President, through the Director of the Office of Management and Budget, whether he agrees or disagrees with a recommendation for exemption and his reasons therefor.
 
 1–704. The Director of the Office of Management and Budget must advise the President within sixty days of receipt of the Administrator's views.
 
@@ -922,7 +922,7 @@ Ex. Ord. No. 12737, Dec. 12, 1990, 55 F.R. 51681, which established President's 
 
 Ex. Ord. No. 12761, May 21, 1991, 56 F.R. 23645, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish, in accordance with the goals and purposes of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 <i>et seq</i>.), the Environmental Quality Improvement Act of 1970, as amended (42 U.S.C. 4371 <i>et seq</i>.), and the National Environmental Education Act, Public Law 101–619, 104 Stat. 3325 (1990) \[20 U.S.C. 5501 et seq.\], an awards program to raise environmental awareness and to recognize outstanding achievements in the United States and in its territories in the areas of conservation and environmental protection by both the public and private sectors, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish, in accordance with the goals and purposes of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 <i>et seq</i>.), the Environmental Quality Improvement Act of 1970, as amended (42 U.S.C. 4371 <i>et seq</i>.), and the National Environmental Education Act, Public Law 101–619, 104 Stat.3325 (1990) \[20 U.S.C. 5501 et seq.\], an awards program to raise environmental awareness and to recognize outstanding achievements in the United States and in its territories in the areas of conservation and environmental protection by both the public and private sectors, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. The President's Environment and Conservation Challenge Awards program is established for the purposes of recognizing outstanding environmental achievements by U.S. citizens, enterprises, or programs; providing an incentive for environmental accomplishment; promoting cooperative partnerships between diverse groups working together to achieve common environmental goals; and identifying successful environmental programs that can be replicated.
 
@@ -1186,7 +1186,7 @@ Section 1. <i>Policies.</i>
 
 (c) Agencies shall develop plans to bring increased efficiencies to existing and authorized programs with goals that are supportive of protection and restoration of communities along rivers.
 
-(d) In accordance with Executive Order 12630 \[5 U.S.C. 601 note\], agencies shall act with due regard for the protection of private property provided for by the Fifth Amendment to the United States Constitution. No new regulatory authority is created as a result of the American Heritage Rivers initiative. This initiative will not interfere with matters of State, local, and tribal government jurisdiction.
+(d) In accordance with Executive Order 12630 \[5 U.S.C. 601 note\], agencies shall act with due regard for the protection of private property provided for by the Fifth Amendment to the United States Constitution. No newregulatory authority is created as a result of the American Heritage Rivers initiative. This initiative will not interfere with matters of State, local, and tribal government jurisdiction.
 
 (e) In furtherance of these policies, the President will designate rivers that meet certain criteria as “American Heritage Rivers.”
 
@@ -1196,7 +1196,7 @@ Section 1. <i>Policies.</i>
 
 (h) Agencies are encouraged, to the extent permitted by law, to develop partnerships with State, local, and tribal governments and community and nongovernmental organizations. Agencies will be responsive to the diverse needs of different kinds of communities from the core of our cities to remote rural areas and shall seek to ensure that the role played by the Federal Government is complementary to the plans and work being carried out by State, local, and tribal governments. To the extent possible, Federal resources will be strategically directed to complement resources being spent by these governments.
 
-(i) Agencies shall establish a method for field offices to assess the success of the American Heritage Riverinitiative and provide a means to recommend changes that will improve the delivery and accessibility of Federal services and programs. Agencies are directed, where appropriate, to reduce and make more flexible procedural requirements and paperwork related to providing assistance to communities along designated rivers.
+(i) Agencies shall establish a method for field offices to assess the success of the American Heritage River initiative and provide a means to recommend changes that will improve the delivery and accessibility of Federal services and programs. Agencies are directed, where appropriate, to reduce and make more flexible procedural requirements and paperwork related to providing assistance to communities along designated rivers.
 
 (j) Agencies shall commit to a policy under which they will seek to ensure that their actions have a positive effect on the natural, historic, economic, and cultural resources of American Heritage River communities. The policy will require agencies to consult with American Heritage River communities early in the planning stages of Federal actions, take into account the communities’ goals and objectives and ensure that actions are compatible with the overall character of these communities. Agencies shall seek to ensure that their help for one community does not adversely affect neighboring communities. Additionally, agencies are encouraged to develop formal and informal partnerships to assist communities. Local Federal facilities, to the extent permitted by law and consistent with the agencies’ missions and resources, should provide public access, physical space, technical assistance, and other support for American Heritage River communities.
 
@@ -1282,7 +1282,7 @@ Sec. 4. <i>Responsibilities of the Federal Agencies</i>. Consistent with Title I
 
 (f) commit to a policy, as set forth in section 1(j) of this order, in making decisions affecting the quality of an American Heritage River;
 
-(g) select from among all the agencies a single individual called the “River Navigator,” for each river that is designated an American Heritage River, with whomthe communities can communicate goals and needs and who will facilitate community-agency interchange;
+(g) select from among all the agencies a single individual called the “River Navigator,” for each river that is designated an American Heritage River, with whom the communities can communicate goals and needs and who will facilitate community-agency interchange;
 
 (h) allow public access to the river, for agencies with facilities along American Heritage Rivers, to the extent practicable and consistent with their mission; and
 
@@ -1406,7 +1406,7 @@ Sec. 5. <i>Invasive Species Management Plan</i>. (a) Within 18 months after issu
 
 (c) The Council shall update the Management Plan biennially and shall concurrently evaluate and report on success in achieving the goals and objectives set forth in the Management Plan. The Management Plan shall identify the personnel, other resources, and additional levels of coordination needed to achieve the Management Plan's identified goals and objectives, and the Council shall provide each edition of the Management Plan and each report on it to the Office of Management and Budget. Within 18 months after measures have been recommended by the Council in any edition of the Management Plan, each Federal agency whose action is required to implement such measures shall either take the action recommended or shall provide the Council with an explanation of why the action is not feasible. The Council shall assess the effectiveness of this order no less than once each 5 years after the order is issued and shall report to the Office of Management and Budget on whether the order should be revised.
 
-Sec. 6. <i>Judicial Review and Administration</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity bya party against the United States, its agencies, its officers, or any other person.
+Sec. 6. <i>Judicial Review and Administration</i>. (a) This order is intended only to improve the internal management of the executive branch and is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any other person.
 
 (b) Executive Order 11987 of May 24, 1977, is hereby revoked.
 
@@ -1600,13 +1600,13 @@ Sec. 704. <i>Environmentally and Economically Beneficial Landscaping Practices.<
 
 #### PART 8—EXEMPTIONS
 
-Sec. 801. <i>National Security Exemptions</i>. Subject to subsection 902(c) of this order and except as otherwise required by applicable law, in the interest of national security, the head of any agency may request from the President an exemption from complying with the provisions of any or all provisions of this order for particular agency facilities, provided that the procedures set forth in section 120(j)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (42 U.S.C. 9620(j)(1)), are followed, with the following exceptions: (a) an exemption issued under this section will be for a specified period of time that may exceed 1 year; (b) notice of any exemption granted under this section for provisions not otherwise required by law is only required to the Director of OMB, the Chair of the CEQ, and the Director of the National Security Council; and (c) an exemption under this section may be issued due to lack of appropriations, provided that the head of the agency requesting the exemption shows that necessary funds were requested by the agency in its budget submission and agency plan under Executive Order 12088 of October 13, 1978 \[set out as a note above\], and were not contained in the President's budget request or the Congress failed to make available the requested appropriation. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purposes, goals, and implementation steps in this order. Nothing in this order affects limitations on the dissemination of classified information pursuant to law, regulation, or Executive order.
+Sec. 801. <i>National Security Exemptions</i>. Subject to subsection 902(c) of this order and except as otherwise required by applicable law, in the interest of national security, the head of any agency may request from the President an exemption from complying with the provisions of any or all provisions of this order for particular agency facilities, provided that the procedures set forth in section 120(j)(1) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (42 U.S.C. 9620(j)(1)), are followed, with the following exceptions: (a) an exemption issued under this section will be for a specified period of time that may exceed 1 year; (b) notice of any exemption granted under this section for provisions not otherwise required by law is only required to the Director of OMB, the Chair of the CEQ, and the Director of the National Security Council; and (c) an exemption under this section may be issued due to lack of appropriations, provided that the head of the agency requesting the exemption shows that necessary funds were requested by the agency in its budget submission and agency plan under Executive Order 12088 of October 13, 1978 \[set out as a note above\], and were not contained in the President's budget request or the Congress failed to make available the requested appropriation. To the maximum extent practicable, and without compromising national security, each agency shall strive to comply with the purposes, goals, and implementation steps in this order. Nothingin this order affects limitations on the dissemination of classified information pursuant to law, regulation, or Executive order.
 
 Sec. 802. <i>Compliance</i>. After January 1, 2002, OMB, in consultation with the Chair of the Workgroup established by section 306 of this order, may modify the compliance requirements for an agency under this order, if the agency is unable to comply with the requirements of the order. An agency requesting modification must show that it has made substantial good faith efforts to comply with the order. The cost-effectiveness of implementation of the order can be a factor in OMB's decision to modify the requirements for that agency's compliance with the order.
 
 #### PART 9—GENERAL PROVISIONS
 
-Sec. 901. <i>Revocation</i>. Executive Order 12843 of April 21, 1993 \[former 42 U.S.C. 7671<i>l</i> note\], Executive Order 12856 of August 3, 1993 \[former 42 U.S.C. 11001 note\], the Executive Memorandum on Environmentally Beneficial Landscaping of April 26, 1994 \[not classified to the Code\], Executive Order 12969 of August 8, 1995 \[former 41U.S.C. 401 note\], and section 1–4. “Pollution Control Plan” of Executive Order 12088 of October 13, 1978 \[set out as a note above\], are revoked.
+Sec. 901. <i>Revocation</i>. Executive Order 12843 of April 21, 1993 \[former 42 U.S.C. 7671<i>l</i> note\], Executive Order 12856 of August 3, 1993 \[former 42 U.S.C. 11001 note\], the Executive Memorandum on Environmentally Beneficial Landscaping of April 26, 1994 \[not classified to the Code\], Executive Order 12969 of August 8, 1995 \[former 41 U.S.C. 401 note\], and section 1–4. “Pollution Control Plan” of Executive Order 12088 of October 13, 1978 \[set out as a note above\], are revoked.
 
 Sec. 902. <i>Limitations.</i>
 

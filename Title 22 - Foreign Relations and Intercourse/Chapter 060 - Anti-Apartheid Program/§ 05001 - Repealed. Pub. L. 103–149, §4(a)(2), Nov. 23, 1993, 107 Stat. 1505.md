@@ -176,7 +176,7 @@ Exceptions.—Notwithstanding paragraph (1), assistance may be provided for—
 
 &emsp;&emsp;“(B) South African higher education institutions, particularly those traditionally disadvantaged by apartheid policies; and
 
-&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance would promote the transition to nonracial democracy in South Africa.
+&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance wouldpromote the transition to nonracial democracy in South Africa.
 
 > &emsp;Any determination under subparagraph (C) should be based on consultations with South African individuals and organizations representative of the majority population in South Africa (particularly consultations through the Transitional Executive Council) and consultations with the appropriate congressional committees.
 
@@ -234,7 +234,7 @@ United states government procurement.—To the extent not inconsistent with the 
 
 “(a)
 
-In General.—The President should encourage other donors, particularly Japan and the EuropeanCommunity countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
+In General.—The President should encourage other donors, particularly Japan and the European Community countries, to expand their activities in support of the transition to nonracial democracy in South Africa.
 
 “(b)
 

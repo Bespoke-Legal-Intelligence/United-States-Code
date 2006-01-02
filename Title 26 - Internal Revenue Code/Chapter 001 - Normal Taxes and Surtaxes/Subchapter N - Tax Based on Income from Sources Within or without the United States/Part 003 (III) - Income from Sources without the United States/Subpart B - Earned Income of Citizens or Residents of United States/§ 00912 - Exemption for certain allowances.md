@@ -84,7 +84,3 @@ Authority of President under par. (2) of this section delegated to Secretary of 
 
 Pub. L. 99–514, title XII, §1232(b), Oct. 22, 1986, 100 Stat. 2564, provided that: “Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of 1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6011 of this title; title 22 section 3310.
-

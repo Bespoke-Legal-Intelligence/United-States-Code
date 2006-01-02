@@ -32,7 +32,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
 
-&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within areasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
+&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
 &emsp;(9) operate the Federal Parent Locator Service established by section 653 of this title;
 
@@ -90,7 +90,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 #### (b) Certification of child support obligations to Secretary of the Treasury for collection
 
-The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. TheSecretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
+The Secretary shall, upon the request of any State having in effect a State plan approved under this part, certify to the Secretary of the Treasury for collection pursuant to the provisions of section 6305 of the Internal Revenue Code of 1986 the amount of any child support obligation (including any support obligation with respect to the parent who is living with the child and receiving assistance under the State program funded under part A of this subchapter) which is assigned to such State or is undertaken to be collected by such State pursuant to section 654(4) of this title. No amount may be certified for collection under this subsection except the amount of the delinquency under a court or administrative order for support and upon a showing by the State that such State has made diligent and reasonable efforts to collect such amounts utilizing its own collection mechanisms, and upon an agreement that the State will reimburse the Secretary of the Treasury for any costs involved in making the collection. All reimbursements shall be credited to the appropriation accounts which bore all or part of the costs involved in making the collections. The Secretary after consultation with the Secretary of the Treasury may, by regulation, establish criteria for accepting amounts for collection and for making certification under this subsection including imposing such limitations on the frequency of making such certifications under this subsection.
 
 #### (c) Payment of child support collections to States
 
@@ -162,7 +162,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;(A) 90 percent;
 
-&emsp;(B) for a State with a paternity establishment percentage of not less than 75 percent but less than 90 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 2 percentage points;
+&emsp;(B) for a State with a paternity establishment percentage of not less than 75 percent but less than 90 percent for such fiscal year,the paternity establishment percentage of the State for the immediately preceding fiscal year plus 2 percentage points;
 
 &emsp;(C) for a State with a paternity establishment percentage of not less than 50 percent but less than 75 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 3 percentage points;
 
@@ -212,7 +212,7 @@ The standards required by subsection (a)(1) of this section shall include standa
 
 #### (j) Training of Federal and State staff, research and demonstration programs, and special projects of regional or national significance
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
+Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for eachfiscal year an amount equal to 1 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for—
 
 &emsp;(1) information dissemination and technical assistance to States, training of State and Federal staff, staffing studies, and related activities needed to improve programs under this part (including technical assistance concerning State automated systems required by this part); and
 
@@ -446,7 +446,7 @@ Amendment by Pub. L. 106–169 effective as if included in the enactment of the 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–200, title II, §201(e)(2), July 16, 1998, 112 Stat. 657, provided that: “The amendments made bythis subsection \[amending this section and section 658 of this title, amending provisions set out as notes under this section and section 658 of this title, and repealing provisions set out as a note under section 658 of this title\] shall take effect as if included in the enactment of section 341 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 105–200, title II, §201(e)(2), July 16, 1998, 112 Stat. 657, provided that: “The amendments made by this subsection \[amending this section and section 658 of this title, amending provisions set out as notes under this section and section 658 of this title, and repealing provisions set out as a note under section 658 of this title\] shall take effect as if included in the enactment of section 341 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
 
 Pub. L. 105–200, title IV, §401(c)(3), July 16, 1998, 112 Stat. 662, as amended by Pub. L. 105–306, §4(b)(1), Oct. 28, 1998, 112 Stat. 2927, provided that: “The amendments made by this subsection \[amending this section and section 666 of this title\] shall be effective with respect to periods beginning on or after the later of—
 

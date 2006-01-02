@@ -54,7 +54,7 @@ In this section:
 
 #### (d) Recommendations
 
-Based on the reports under subsection (c) of this section, the Secretary, after consultationwith the Secretary of Transportation, the Secretary of Commerce, and representatives from interested private sector entities, States, and local governments, shall—
+Based on the reports under subsection (c) of this section, the Secretary, after consultation with the Secretary of Transportation, the Secretary of Commerce, and representatives from interested private sector entities, States, and local governments, shall—
 
 &emsp;(1) identify opportunities for investment by non-Federal entities (including States and political subdivisions thereof and private sector entities) to assist the Federal Government in providing launch capabilities for the commercial space industry in the United States;
 

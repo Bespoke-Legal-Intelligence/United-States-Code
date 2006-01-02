@@ -76,45 +76,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 #### Program of Educational Leave Relating to Continuing Public and Community Service
 
-Section 4463 of Pub. L. 102–484, as amended by Pub. L. 103–160, div. A, title V, §561(<i>o</i>), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–296, title XVII, §1704(e)(3), Nov. 25, 2002, 116 Stat. 2315, provided that:
-
-“(a)
-
-Program.—Under regulations prescribed by the Secretary of Defense and subject to subsections (b) and (c), the Secretary concerned may grant to an eligible member of the Armed Forces a leave of absence for a period not to exceed one year for the purpose of permitting the member to pursue a program of education or training (including an internship) for the development of skills that are relevant to the performance of public and community service. A program of education or training referred to in the preceding sentence includes any such program that is offered by the Department of Defense or by any civilian educational or training institution.
-
-“(b)
-
-Eligibility Requirement.—(1) A member may not be granted a leave of absence under this section unless the member agrees in writing—
-
-&emsp;“(A) diligently to pursue employment in public service and community service organizations upon the separation of the member from active duty in the Armed Forces; and
-
-&emsp;“(B) to serve in the Ready Reserve of an armed force, upon such separation, for a period of 4 months for each month of the period of the leave of absence.
-
-“(2)(A) A member may not be granted a leave of absence under this section until the member has completed any period of extension of enlistment or reenlistment, or any period of obligated active duty service, that the member has incurred under section 708 of title 10, United States Code.
-
-“(B) The Secretary concerned may waive the limitation in subparagraph (A) for a member who enters into an agreement with the Secretary for the member to serve in the Ready Reserve of a reserve component for a period equal to the uncompleted portion of the member's period of service referred to in that subparagraph. Any such period of agreed service in the Ready Reserve shall be in addition to any other period that the member is obligated to serve in a reserve component.
-
-“(c)
-
-Treatment of Leave of Absence.—A leave of absence under this section shall be subject to the provisions of subsections (c) and (d) of section 708 of title 10, United States Code.
-
-“(d)
-
-Exclusion From End Strength Limitation.—A member of the Armed Forces, while on leave granted pursuant to this section, may not be counted for purposes of any provision of law that limits the active duty strength of the member's armed force.
-
-“(e)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘Secretary concerned’ has the meaning given such term in section 101 of title 10, United States Code.
-
-&emsp;“(2) The term ‘eligible member of the Armed Forces’ means a member of the Armed Forces who is eligible for an educational leave of absence under section 708(e) of such title.
-
-&emsp;“(3) The term ‘public service and community service organization’ has the meaning given such term in section 1143a of such title (as added by section 531(a)).
-
-“(f)
-
-Expiration.—The authority to grant a leave of absence under subsection (a) shall expire on December 31, 2001.”
+Pub. L. 102–484, div. D, title XLIV, §4463, Oct. 23, 1992, 106 Stat. 2740, as amended by Pub. L. 103–160, div. A,title V, §561(<i>o</i>), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, §561(g), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–296, title XVII, §1704(e)(3), Nov. 25, 2002, 116 Stat. 2315, provided that under regulations prescribed by the Secretary of Defense and subject to certain eligibility requirements, the Secretary concerned could grant to an eligible member of the Armed Forces a leave of absence not to exceed one year to permit the member to pursue education or training relevant to public and community service, and provided that this authority would expire on Dec. 31, 2001.
 
 #### Increased Early Retirement Retired Pay for Public or Community Service
 
@@ -139,8 +101,4 @@ Recomputation of Retired Pay.—(1) If a member or former member of the Armed Fo
 SBP Annuities.—(1) Effective on the first day of the first month after a member or former member of the Armed Forces retired under a provision of law referred to in subsection (a)(1) attains 62 years of age or, in the event of death before attaining that age, would have attained that age, the base amount applicable under section 1447(2) \[see 1447(6)\] of title 10, United States Code, to any Survivor Benefit Plan annuity provided by that member or former member shall be recomputed. For the recomputation the total years (including any fraction of a year) of the member's or former member's active service shall be treated as having included the member's or former member's years (including any fraction of a year) of employment referred to in subsection (a)(1) as of the date when the member or former member became eligible for retired pay under this section.
 
 “(2) In this subsection, the term ‘Survivor Benefit Plan’ means the plan established under subchapter II of chapter 73 of title 10, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1142, 1144 of this title; title 42 section 12622.
 

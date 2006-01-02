@@ -4,7 +4,7 @@
 
 #### (1) Applicability
 
-&emsp;The provisions of this subsection shall not apply to the Commonwealth of Puerto Rico unless the Legislative Assembly of the Commonwealth of Puerto Rico expressly consents thereto in the manner prescribed in the constitution of the Commonwealth of Puerto Rico, for the enactment of a law.
+&emsp;The provisions of this subsection shall not apply to the Commonwealth of Puerto Ricounless the Legislative Assembly of the Commonwealth of Puerto Rico expressly consents thereto in the manner prescribed in the constitution of the Commonwealth of Puerto Rico, for the enactment of a law.
 
 #### (2) In general
 
@@ -73,10 +73,6 @@ Subsec. (b)(2), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his de
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1905(a)(18) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5001, 7652 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

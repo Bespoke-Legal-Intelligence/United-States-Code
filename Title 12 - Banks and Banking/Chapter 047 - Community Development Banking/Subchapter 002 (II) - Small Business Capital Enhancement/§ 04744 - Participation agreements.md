@@ -6,7 +6,7 @@ A participating State may enter into a participation agreement with any financia
 
 #### (b) Participating financial institutions
 
-Upon entering into the participation agreement with the participating State, the financial institution shall become a participating financial institution eligible to enroll loans under the Program.
+Upon entering into the participation agreement with the participating State, the financialinstitution shall become a participating financial institution eligible to enroll loans under the Program.
 
 (Pub. L. 103–325, title II, §254, Sept. 23, 1994, 108 Stat. 2207.)
 

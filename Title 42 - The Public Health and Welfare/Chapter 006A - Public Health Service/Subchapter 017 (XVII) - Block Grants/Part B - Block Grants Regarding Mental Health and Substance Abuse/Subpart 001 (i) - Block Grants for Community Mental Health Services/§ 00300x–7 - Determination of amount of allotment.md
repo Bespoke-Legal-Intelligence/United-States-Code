@@ -78,7 +78,7 @@
 
 &emsp;(ii) The amount determined under this clause for the District of Columbia is the quotient of—
 
-&emsp;&emsp;(I) the most recent 3-year arithmetic mean of total personal income in such District, asdetermined by the Secretary of Commerce; divided by
+&emsp;&emsp;(I) the most recent 3-year arithmetic mean of total personal income in such District, as determined by the Secretary of Commerce; divided by
 
 &emsp;&emsp;(II) the factor determined under paragraph (8) for the District.
 

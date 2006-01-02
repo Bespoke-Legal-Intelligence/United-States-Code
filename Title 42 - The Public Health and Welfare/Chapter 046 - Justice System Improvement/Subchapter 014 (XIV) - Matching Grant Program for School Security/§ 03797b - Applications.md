@@ -10,7 +10,7 @@ To request a grant under this subchapter, the chief executive of a State, unit o
 
 &emsp;&emsp;(B) how the activities funded under the grant will meet the purpose of this subchapter; and
 
-&emsp;(2) be accompanied by an assurance that the application was prepared after consultation with individuals not limited to law enforcement officers (such as school violence researchers, child psychologists, social workers, teachers, principals, and other school personnel) to ensure that the improvements to be funded under the grant are—
+&emsp;(2) be accompanied by an assurance that the application was prepared after consultationwith individuals not limited to law enforcement officers (such as school violence researchers, child psychologists, social workers, teachers, principals, and other school personnel) to ensure that the improvements to be funded under the grant are—
 
 &emsp;&emsp;(A) consistent with a comprehensive approach to preventing school violence; and
 

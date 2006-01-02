@@ -2,7 +2,7 @@
 
 #### (a) Policy requirements for assistance
 
-The Congress recognizes that, under special economic, political, or security conditions, the national interests of the United States may require economic support for countries or in amounts which could not be justified solely under part I of subchapter I of this chapter or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter. In such cases, the President is authorized to furnish assistance to countries and organizations, on such terms and conditions as he may determine, in order to promote economic or political stability. To the maximum extent feasible, the Presidentshall provide assistance under this part consistent with the policy directions, purposes, and programs of subchapter I of this chapter.
+The Congress recognizes that, under special economic, political, or security conditions, the national interests of the United States may require economic support for countries or in amounts which could not be justified solely under part I of subchapter I of this chapter or, in the case of countries in sub-Saharan Africa, part X of subchapter I of this chapter. In such cases, the President is authorized to furnish assistance to countries and organizations, on such terms and conditions as he may determine, in order to promote economic or political stability. To the maximum extent feasible, the President shall provide assistance under this part consistent with the policy directions, purposes, and programs of subchapter I of this chapter.
 
 #### (b) Responsibility for policy decisions and justifications
 
@@ -10,7 +10,7 @@ The Secretary of State shall be responsible for policy decisions and justificati
 
 #### (c) Detailed justification for uses and purposes of funds
 
-As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses and the purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amounts and kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
+As part of the annual presentation materials for foreign assistance submitted to the Congress, the agency primarily responsible for administering subchapter II of this chapter shall provide a detailed justification for the uses andthe purposes of the funds provided under this part. Such material shall include, but not be limited to, information concerning the amounts and kinds of cash grant transfers, the amounts and kinds of budgetary and balance-of-payments support provided, and the amounts and kinds of project assistance provided with funds made available under this part.
 
 #### (d) Repealed. Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180
 
@@ -88,7 +88,7 @@ Pub. L. 99–83, title XII, §1205, Aug. 8, 1985, 99 Stat. 277, provided that:
 
 “(a)
 
-External Debt Burden of Certain Countries Receiving United States Assistance.—The Congress finds that the Governments of Egypt, Israel, Turkey, and Portugal each have an enormous external debt burden which may be made more difficult by virtue of financing provided for those governments under various United States assistance programs.
+External Debt Burden of Certain Countries Receiving United States Assistance.—The Congressfinds that the Governments of Egypt, Israel, Turkey, and Portugal each have an enormous external debt burden which may be made more difficult by virtue of financing provided for those governments under various United States assistance programs.
 
 “(b)
 

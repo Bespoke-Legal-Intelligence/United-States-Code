@@ -1,6 +1,6 @@
 ### §3513. Application
 
-The parent or guardian of a person or the eligible person if such person has attained legal majority for whom educational assistance is sought under this chapter shall submit an application to the Secretary which shall be in such form and contain such information as the Secretary shall prescribe. If the Secretary finds that the person on whose behalf the application is submitted is an eligible person, the Secretary shall approve the application provisionally. The Secretary shall notify the parent or guardian or eligible person (if the person has attained legal majority) of the provisional approval or of the disapproval of the application.
+The parent or guardian of a person or the eligible person if such person has attained legal majority for whom educational assistance is sought under this chapter shall submit an application to the Secretary which shall be in such form and contain such information as the Secretary shall prescribe. If the Secretary finds that the person on whose behalf the application is submitted is an eligible person, the Secretary shall approve the application provisionally. TheSecretary shall notify the parent or guardian or eligible person (if the person has attained legal majority) of the provisional approval or of the disapproval of the application.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1195, §1713; Pub. L. 94–502, title III, §305, Oct. 15, 1976, 90 Stat. 2390; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3513, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 
@@ -10,7 +10,7 @@ The parent or guardian of a person or the eligible person if such person has att
 
 1989—Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
-1976—Pub. L. 94–502 inserted reference to eligible person who have attained legal majority and substituted“the Administrator shall approve” for “he shall approve”.
+1976—Pub. L. 94–502 inserted reference to eligible person who have attained legal majority and substituted “the Administrator shall approve” for “he shall approve”.
 
 #### Effective Date of 1976 Amendment
 

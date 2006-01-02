@@ -24,7 +24,7 @@ The Director shall review each capital restoration plan submitted under this sec
 
 #### (d) Resubmission
 
-If the Director disapproves the initial capital restoration plan submitted by the enterprise, the enterprise shall submit an amended plan acceptable to the Director within 30 days or such longer period that the Director determines is in the public interest.
+If the Director disapproves the initial capital restoration plan submitted by the enterprise,the enterprise shall submit an amended plan acceptable to the Director within 30 days or such longer period that the Director determines is in the public interest.
 
 (Pub. L. 102–550, title XIII, §1369C, Oct. 28, 1992, 106 Stat. 3985.)
 

@@ -72,7 +72,7 @@ Pub. L. 90–401, §1(b), July 15, 1968, 82 Stat. 354, relating to admission and
 
 Ex. Ord. No. 11200, Feb. 26, 1965, 30 F.R. 2645, provided:
 
-WHEREAS it is desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and it is desirable for alllevels of government and private interests to take prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people; and
+WHEREAS it is desirable that all American people of present and future generations be assured adequate outdoor recreation resources, and it is desirable for all levels of government and private interests to take prompt and coordinated action to the extent practicable without diminishing or affecting their respective powers and functions to conserve, develop, and utilize such resources for the benefit and enjoyment of the American people; and
 
 WHEREAS these resources are to a considerable extent located on lands administered by the Federal Government through the National Park Service, the Bureau of Land Management, the Bureau of Sport Fisheries and Wildlife, the Bureau of Reclamation, the Forest Service, the Corps of Engineers, the Tennessee Valley Authority and the United States Section of the International Boundary and Water Commission (United States and Mexico); and
 
@@ -120,7 +120,7 @@ Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b
 
 Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consultation with the heads of other affected departments and agencies, adopt such coordination measures as are necessary to carry out the purposes of Sections 2(a) and 4(a) of the Act \[subsec. (a) of this section and section 460<i>l</i>–7(a) of this title\] and the provisions of this order.
 
-(b)(1) In order that the purposes of the Act and of this Order may be effectuated without delay, the Secretary of the Interior shall, subject to the limitations imposed by the Act and without regard to the other provisions of this section, forthwith issue a schedule of recreation user fees and criteria to be used in determining which such fees shall be charged with respect to each of the designated areas.
+(b)(1) In order that the purposes of the Act and of this Order may be effectuated without delay, the Secretary of the Interior shall, subject to the limitations imposedby the Act and without regard to the other provisions of this section, forthwith issue a schedule of recreation user fees and criteria to be used in determining which such fees shall be charged with respect to each of the designated areas.
 
 (2) Subject to the limitations imposed by the Act and subject to the provisions of subsections (a), (c), and (d) of this section, the Secretary of the Interior may, from time to time, amend or replace the schedule of fees and the criteria prescribed by him pursuant to subsection (b)(1) of this section.
 

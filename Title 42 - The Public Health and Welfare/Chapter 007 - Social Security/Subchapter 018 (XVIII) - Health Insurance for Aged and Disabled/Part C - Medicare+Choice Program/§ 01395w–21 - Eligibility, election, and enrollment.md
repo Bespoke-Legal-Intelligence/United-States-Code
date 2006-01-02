@@ -4,19 +4,27 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this section, each Medicare+Choice eligible individual (as defined in paragraph (3)) is entitled to elect to receive benefits under this subchapter—
+&emsp;Subject to the provisions of this section, each Medicare+Choice eligible individual (as defined in paragraph (3)) is entitled to elect to receive benefits (other than qualified prescription drug benefits) under this subchapter—
 
 &emsp;&emsp;(A) through the original medicare fee-for-service program under parts A and B of this subchapter, or
 
-&emsp;&emsp;(B) through enrollment in a Medicare+Choice plan under this part.
+&emsp;&emsp;(B) through enrollment in a Medicare+Choice plan under this part,
+
+> &emsp;and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title.
 
 #### (2) Types of Medicare+Choice plans that may be available
 
 &emsp;A Medicare+Choice plan may be any of the following types of plans of health insurance:
 
-#### (A) Coordinated care plans
+#### (A) Coordinated care plans (including regional plans)
 
-&emsp;&emsp;Coordinated care plans which provide health care services, including but not limited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title), and preferred provider organization plans.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Coordinated care plans which provide health care services, including but not limited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title), and regional or local preferred provider organization plans (including MA regional plans).
+
+#### (ii) Specialized MA plans for special needs individuals
+
+&emsp;&emsp;&emsp;Specialized MA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title) may be any type of coordinated care plan.
 
 #### (B) Combination of MSA plan and contributions to Medicare+Choice MSA
 
@@ -50,11 +58,11 @@
 
 #### (B) Continuation of enrollment permitted
 
-&emsp;&emsp;Pursuant to rules specified by the Secretary, the Secretary shall provide that a plan may offer to all individuals residing ina geographic area the option to continue enrollment in the plan, notwithstanding that the individual no longer resides in the service area of the plan, so long as the plan provides that individuals exercising this option have, as part of the basic benefits described in section 1395w–22(a)(1)(A) of this title, reasonable access within that geographic area to the full range of basic benefits, subject to reasonable cost sharing liability in obtaining such benefits.
+&emsp;&emsp;Pursuant to rules specified by the Secretary, the Secretary shall provide that an MA local plan may offer to all individuals residing in a geographic area the option to continue enrollment in the plan, notwithstanding that the individual no longer resides in the service area of the plan, so long as the plan provides that individuals exercising this option have, as part of the benefits under the original medicare fee-for-service program option, reasonable access within that geographic area to the full range of basic benefits, subject to reasonable cost sharing liability in obtaining such benefits.
 
 #### (C) Continuation of enrollment permitted where service changed
 
-&emsp;&emsp;Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminates from its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in a Medicare+Choice plan it offers so long as—
+&emsp;&emsp;Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminates from its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in an MA local plan it offers so long as—
 
 &emsp;&emsp;&emsp;(i) the enrollee agrees to receive the full range of basic benefits (excluding emergency and urgently needed care) exclusively at facilities designated by the organization within the plan service area; and
 
@@ -114,7 +122,7 @@
 
 #### (ii) Seamless continuation of coverage
 
-&emsp;&emsp;&emsp;The Secretary may establish procedures under which an individual who is enrolled in a health plan (other thanMedicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
+&emsp;&emsp;&emsp;The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
 
 #### (B) Continuing periods
 
@@ -190,7 +198,11 @@
 
 #### (E) Potential for contract termination
 
-&emsp;&emsp;The fact that a Medicare+Choice organization may terminate its contract, refuse to renew its contract, or reduce the service area included in its contract, under this part, and the effect of such a termination, nonrenewal, or service area reduction may have on individuals enrolled with the Medicare+Choice plan under this part.
+&emsp;&emsp;The fact that a Medicare+Choice organization may terminate its contract, refuse torenew its contract, or reduce the service area included in its contract, under this part, and the effect of such a termination, nonrenewal, or service area reduction may have on individuals enrolled with the Medicare+Choice plan under this part.
+
+#### (F) Catastrophic coverage and single deductible
+
+&emsp;&emsp;In the case of an MA regional plan, a description of the catastrophic coverage and single deductible applicable under the plan.
 
 #### (4) Information comparing plan options
 
@@ -202,7 +214,7 @@
 
 &emsp;&emsp;&emsp;(i) Covered items and services beyond those provided under the original medicare fee-for-service program.
 
-&emsp;&emsp;&emsp;(ii) Any beneficiary cost sharing.
+&emsp;&emsp;&emsp;(ii) Any beneficiary cost sharing, including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title.
 
 &emsp;&emsp;&emsp;(iii) Any maximum limitations on out-of-pocket expenses.
 
@@ -220,7 +232,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium.
+&emsp;&emsp;&emsp;The monthly amount of the premium charged to an individual.
 
 #### (ii) Reductions
 
@@ -244,7 +256,7 @@
 
 #### (E) Supplemental benefits
 
-&emsp;&emsp;Whether the organization offering the plan includes mandatory supplemental benefits in its base benefit package or offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage.
+&emsp;&emsp;Supplemental health care benefits, including any reductions in cost-sharing under section 1395w–22(a)(3) of this title and the terms and conditions (including premiums) for such benefits.
 
 #### (5) Maintaining a toll-free number and Internet site
 
@@ -270,13 +282,13 @@
 
 #### (A) Continuous open enrollment and disenrollment through 2005
 
-&emsp;&emsp;At any time during the period beginning January 1, 1998, and ending on December 31, 2005, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;At any time during the period beginning January 1, 1998, and ending on December 31,2005, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (B) Continuous open enrollment and disenrollment for first 6 months during 2006
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), subparagraph (C)(iii), and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, aMedicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii), subparagraph (C)(iii), and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (ii) Limitation of one change
 
@@ -332,13 +344,13 @@
 
 #### (D) Special information campaigns
 
-&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section. During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.
+&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section. During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans\(including MA–PD plans) offered in different areas and the election process provided under this section.
 
 #### (4) Special election periods
 
 &emsp;Effective as of January 1, 2006, an individual may discontinue an election of a Medicare+�Choice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
 
-&emsp;&emsp;(A)(i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified theindividual of an impending termination of such certification; or
+&emsp;&emsp;(A)(i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified the individual of an impending termination of such certification; or
 
 &emsp;&emsp;(ii) the organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides, or has notified the individual of an impending termination or discontinuation of such plan;
 
@@ -380,7 +392,7 @@
 
 #### (1) During initial coverage election period
 
-&emsp;An election of coverage made during the initial coverage election period under subsection (e)(1)(A) of this section shall take effect upon the date the individual becomes entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, except as the Secretary may provide (consistent with section 1395q of this title) in order to prevent retroactive coverage.
+&emsp;An election of coverage made during the initial coverage election period under subsection (e)(1) of this section shall take effect upon the date the individual becomes entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, except as the Secretary may provide (consistent with section 1395q of this title) in order to prevent retroactive coverage.
 
 #### (2) During continuous open enrollment periods
 
@@ -474,79 +486,13 @@
 
 #### (1) Payments to organizations
 
-&emsp;Subject to sections 1395w–22(a)(5), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), and1395ww(h)(3)(D) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+�Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B of this subchapter for items and services furnished to the individual.
+&emsp;Subject to sections 1395w–22(a)(5), 1395w–23(a)(4), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+�Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B of this subchapter for items and services furnished to the individual.
 
 #### (2) Only organization entitled to payment
 
-&emsp;Subject to sections 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
+&emsp;Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(<i>l</i>)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212.)
-
-#### Amendment of Section
-
-<i>Pub. L. 108–173, title I, §102(c), Dec. 8, 2003, 117 Stat. 2154, provided that, applicable on and after Jan. 1, 2006, subsection (a)(1) of this section is amended—</i>
-
-(1) by inserting “(other than qualified prescription drug benefits)” after “benefits”;
-
-(2) by striking the period at the end of subparagraph (B) and inserting a comma; and
-
-(3) by adding after and below subparagraph (B) the following:
-
-> &emsp;<i>“and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title.”</i>
-
-<i>Pub. L. 108–173, title II, §§221(a)(1), (d)(5), 222(l)(3)(A), (B), (D), (E), 223(a), Dec. 8, 2003, 117 Stat. 2180, 2193, 2206, 2207, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2006, this section is amended—</i>
-
-<i>(1) in subsection (a)(2)(A):</i>
-
-(A) by striking “Coordinated care plans” in subpar. heading and inserting “Coordinated care plans (including regional plans)” and by striking “Coordinated” in text and inserting “<i>(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>Coordinated”;</i>
-
-(B) by inserting “regional or local” before “preferred provider organization plans”; and
-
-(C) by inserting “(including MA regional plans)” after “preferred provider organization plans”;
-
-<i>(2) in subsection (a)(3)(B)(ii), by making technical amendment to reference in original act which appears in text as reference to subsection (e)(4)(A) of this section;</i>
-
-<i>(3) in subsection (b)(1):</i>
-
-(A) in subparagraph (B), by striking “a plan” and inserting “an MA local plan” and by striking “basic benefits described in section 1395w–22(a)(1)(A) of this title” and inserting “benefits under the original medicare fee-for-service program option”; and
-
-(B) in subparagraph (C), by striking “in a Medicare+Choice plan” and inserting “in an MA local plan”;
-
-<i>(4) in subsection (d):</i>
-
-(A) in paragraph (3), by adding at the end the following new subparagraph:
-
-#### <i>“(F) Catastrophic coverage and single deductible</i>
-
-&emsp;&emsp;<i>“In the case of an MA regional plan, a description of the catastrophic coverage and single deductible applicable under the plan.”;</i>
-
-(B) in paragraph (4)(A)(ii), by inserting “, including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title” after “cost sharing”;
-
-(C) in paragraph (4)(B)(i), by striking “Medicare+Choice monthly basic” and all that follows and inserting “monthly amount of the premium charged to an individual.”; and
-
-(D) by amending paragraph (4)(E) to read as follows:
-
-#### <i>“(E) Supplemental benefits</i>
-
-&emsp;&emsp;<i>“Supplemental health care benefits, including any reductions in cost-sharing under section 1395w–22(a)(3) of this title and the terms and conditions (including premiums) for such benefits.”;</i>
-
-<i>(5) in subsection (f)(1), by striking “subsection (e)(1)(A) of this section” and inserting “subsection (e)(1) of this section”; and</i>
-
-<i>(6) in subsection (i)(2), by inserting “1395w–27a(h),” after “1395w–27(f)(2),”.</i>
-
-<i>Pub. L. 108–173, title II, §231(a), Dec. 8, 2003, 117 Stat. 2207, provided that subsection (a)(2)(A) of this section, as amended by section 221(a) of Pub. L. 108–173, is amended by adding at the end the following new clause:</i>
-
-#### <i>“(ii) Specialized MA plans for special needs individuals</i>
-
-&emsp;&emsp;&emsp;<i>“Specialized MA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title) may be any type of coordinated care plan.”</i>
-
-<i>Pub. L. 108–173, title II, §237(b)(2)(A), (e), Dec. 8, 2003, 117 Stat. 2212, 2213, provided that, applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, subsection (i) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1), by inserting “1395w–23(a)(4),” after “Subject to sections 1395w–22(a)(5),”; and</i>
-
-<i>(2) in paragraph (2), by inserting “1395w–23(a)(4),” after “Subject to sections”.</i>
 
 #### References in Text
 
@@ -556,7 +502,21 @@ Part D of this subchapter, referred to in subsec. (e)(2)(C)(iii), is classified 
 
 #### Amendments
 
-2003—Subsec. (b)(4). Pub. L. 108–173, §233(b)(1), struck out “on a demonstration basis” after “plans” in heading.
+2003—Subsec. (a)(1). Pub. L. 108–173, §102(c)(1)(A), (C), inserted “(other than qualified prescription drug benefits)” after “benefits” in introductory provisions and inserted concluding provisions.
+
+Subsec. (a)(1)(B). Pub. L. 108–173, §102(c)(1)(B), substituted comma for period at end.
+
+Subsec. (a)(2)(A). Pub. L. 108–173, §221(a)(1), substituted “Coordinated care plans (including regional plans)” for “Coordinated care plans” in heading, inserted cl. (i) designation and heading before “Coordinated”, and inserted “regional or local” before “preferred provider organization plans” and “(including MA regional plans)” before period at end.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 108–173, §231(a), added cl. (ii).
+
+Subsec. (a)(3)(B)(ii). Pub. L. 108–173, §222(<i>l</i>)(3)(D), made technical amendment to reference in original act which appears in text as reference to subsection (e)(4)(A) of this section.
+
+Subsec. (b)(1)(B). Pub. L. 108–173, §222(<i>l</i>)(3)(A)(i), (ii), substituted “an MA local plan” for “a plan” and “benefits under the original medicare fee-for-service program option” for “basic benefits described in section 1395w–22(a)(1)(A) of this title”.
+
+Subsec. (b)(1)(C). Pub. L. 108–173, §222(<i>l</i>)(3)(A)(iii), substituted “in an MA local plan” for “in a Medicare+Choice plan” in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 108–173, §233(b)(1), struck out “on a demonstration basis” after “plans” in heading.
 
 Subsec. (b)(4)(A). Pub. L. 108–173, §233(b)(2), struck out first sentence which read as follows: “An individual is not eligible to enroll in an MSA plan under this part—
 
@@ -565,6 +525,14 @@ Subsec. (b)(4)(A). Pub. L. 108–173, §233(b)(2), struck out first sentence whi
 &emsp;“(ii) as of any date if the number of such individuals so enrolled as of such date has reached 390,000.”
 
 Subsec. (b)(4)(C). Pub. L. 108–173, §233(b)(3), struck out at end “The Secretary shall submit such a report, by not later than March 1, 2002, on whether the time limitation under subparagraph (A)(i) should be extended or removed and whether to change the numerical limitation under subparagraph (A)(ii).”
+
+Subsec. (d)(3)(F). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(i), added subpar. (F).
+
+Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(ii), inserted “, including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title” after “cost sharing”.
+
+Subsec. (d)(4)(B)(i). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(iii), substituted “monthly amount of the premium charged to an individual” for “Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium”.
+
+Subsec. (d)(4)(E). Pub. L. 108–173, §222(<i>l</i>)(3)(B)(iv), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Whether the organization offering the plan includes mandatory supplemental benefits in its base benefit package or offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage.”
 
 Subsec. (e)(1). Pub. L. 108–173, §102(a)(4), inserted at end “If any portion of an individual's initial enrollment period under part B of this subchapter occurs after the end of the annual, coordinated election period described in paragraph (3)(B)(iii), the initial enrollment period under this part shall further extend through the end of the individual's initial enrollment period under part B of this subchapter.”
 
@@ -590,7 +558,15 @@ Subsec. (e)(5)(A)(ii). Pub. L. 108–173, §233(d)(2), substituted semicolon for
 
 Subsec. (e)(5)(A)(iii). Pub. L. 108–173, §233(d)(3), struck out cl. (iii) which read as follows: “the month of November 1998;”.
 
+Subsec. (f)(1). Pub. L. 108–173, §222(<i>l</i>)(3)(E), substituted “subsection (e)(1)” for “subsection (e)(1)(A)”.
+
 Subsec. (f)(3). Pub. L. 108–173, §102(a)(5), inserted “, other than the period described in clause (iii) of such subsection” after “subsection (e)(3)(B) of this section”.
+
+Subsec. (i)(1). Pub. L. 108–173, §237(b)(2)(A)(i), inserted “1395w–23(a)(4),” after “Subject to sections 1395w–22(a)(5),”.
+
+Subsec. (i)(2). Pub. L. 108–173, §237(b)(2)(A)(ii), inserted “1395w–23(a)(4),” after “Subject to sections”.
+
+Pub. L. 108–173, §221(d)(5), inserted “1395w–27a(h),” after “1395w–27(f)(2),”.
 
 2002—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in heading and “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
 
@@ -640,7 +616,7 @@ Pub. L. 108–173, title I, §102(c)(2), Dec. 8, 2003, 117 Stat. 2154, provided 
 
 Pub. L. 108–173, title II, §223(a), Dec. 8, 2003, 117 Stat. 2207, provided that: “The amendments made by this subtitle \[subtitle C (§§221–223) of title II of Pub. L. 108–173, enacting section 1395w–27a of this title and amending this section and sections 1395r, 1395s, 1395w, 1395w–22 to 1395w–24, 1395w–27, and 1395w–28 of this title\] shall apply with respect to plan years beginning on or after January 1, 2006.”
 
-Pub. L. 108–173, title II, §231(f)(1), Dec. 8, 2003, 117 Stat. 2208, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section andsection 1395w–28 of this title\] shall take effect upon the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title II, §231(f)(1), Dec. 8, 2003, 117 Stat. 2208, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\] shall take effect upon the date of the enactment of this Act \[Dec. 8, 2003\].”
 
 Amendment by section 237(b)(2)(A) of Pub. L. 108–173 applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, see section 237(e) of Pub. L. 108–173, set out as a note under section 1320a–7b of this title.
 
@@ -710,15 +686,7 @@ Pub. L. 108–173, title II, §211(g), Dec. 8, 2003, 117 Stat. 2178, provided th
 
 #### MedPAC Study and Report on Clarification of Authority Regarding Disapproval of Unreasonable Beneficiary Cost-Sharing
 
-Pub. L. 108–173, title II, §211(h), Dec. 8, 2003, 117 Stat. 2179, provided that:
-
-“(1)
-
-Study.—The Medicare Payment Advisory Commission, in consultation with beneficiaries, consumer groups, employers, and organizations offering plans under part C of title XVIII of the Social Security Act \[this part\], shall conduct a study to determine the extent to which the cost-sharing structures under such plans affect access to covered services or select enrollees based on the health status of eligible individuals described in section 1851(a)(3) of the Social Security Act (42 U.S.C. 1395w–21(a)(3)).
-
-“(2)
-
-Report.—Not later than December 31, 2004, the Commission shall submit a report to Congress on thestudy conducted under paragraph (1) together with recommendations for such legislation and administrative actions as the Commission considers appropriate.”
+Pub. L. 108–173, title II, §211(h), Dec. 8, 2003, 117 Stat. 2179, directed the Medicare Payment Advisory Commission, in consultation with beneficiaries, consumer groups, employers, and organizations offering plans under this part, to conduct a study to determine the extent to which the cost-sharing structures under such plans affect access to covered services or select enrollees based on the health status of eligible individuals described in subsection (a)(3) of this section, and to submit a report to Congress on such study not later than Dec. 31, 2004.
 
 #### Moratorium on New Local Preferred Provider Organization Plans
 
@@ -730,7 +698,7 @@ Pub. L. 108–173, title II, §231(d), Dec. 8, 2003, 117 Stat. 2208, provided th
 
 #### Report on Impact of Specialized MA Plans for Special Needs Individuals
 
-Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costs and savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
+Pub. L. 108–173, title II, §231(e), Dec. 8, 2003, 117 Stat. 2208, provided that: “Not later than December 31, 2007, the Secretary \[of Health and Human Services\] shall submit to Congress a report that assesses the impact of specialized MA plans for special needs individuals on the cost and quality of services provided to enrollees. Such report shall include an assessment of the costsand savings to the medicare program as a result of amendments made by subsections (a), (b), and (c) \[amending this section and section 1395w–28 of this title\].”
 
 #### MedPAC Study on Consumer Coalitions
 

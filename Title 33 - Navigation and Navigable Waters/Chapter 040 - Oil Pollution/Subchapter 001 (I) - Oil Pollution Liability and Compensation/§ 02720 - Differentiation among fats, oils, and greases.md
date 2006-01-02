@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (c) of this section, in issuing or enforcing any regulationor establishing any interpretation or guideline relating to the transportation, storage, discharge, release, emission, or disposal of a fat, oil, or grease under any Federal law, the head of that Federal agency shall—
+Except as provided in subsection (c) of this section, in issuing or enforcing any regulation or establishing any interpretation or guideline relating to the transportation, storage, discharge, release, emission, or disposal of a fat, oil, or grease under any Federal law, the head of that Federal agency shall—
 
 &emsp;(1) differentiate between and establish separate classes for—
 
@@ -58,7 +58,7 @@ Sense of Congress.—It is the sense of Congress that, in an effort to reduce un
 
 “(b)
 
-Report.—Within 60 days after the date of enactment of this section \[Oct. 19, 1996\] and on January 1 of each year thereafter, the Secretary of Transportation shall submit a report to Congress on the extent to which the implementation by the United States Coast Guard of regulations issued or enforced, or interpretations or guidelines established, pursuant to Public Law 104–55, carry out the intent of Congress and recognize and provide for the differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes of fats, oils, and greases described under that law.”
+Report.—Within 60 days after the date of enactment of this section \[Oct. 19, 1996\] and on January 1 ofeach year thereafter, the Secretary of Transportation shall submit a report to Congress on the extent to which the implementation by the United States Coast Guard of regulations issued or enforced, or interpretations or guidelines established, pursuant to Public Law 104–55, carry out the intent of Congress and recognize and provide for the differences in the physical, chemical, biological, and other properties, and in the environmental effects, of the classes of fats, oils, and greases described under that law.”
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -18,7 +18,7 @@ In General.—(1) The Secretary of Defense shall use the procedures prescribed b
 
 (3) Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).
 
-(4) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
+(4) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by whichfunds are provided for operations that the armed forces are required to carry out under some other authority.
 
 (b)
 

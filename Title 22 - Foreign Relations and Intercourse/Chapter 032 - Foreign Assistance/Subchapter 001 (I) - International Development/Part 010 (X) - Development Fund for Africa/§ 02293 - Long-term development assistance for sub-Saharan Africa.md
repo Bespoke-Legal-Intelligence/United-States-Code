@@ -118,7 +118,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (j) Minimum levels of assistance for certain critical sectors
 
-The Agency for International Development should target the equivalent of 10 percent of theamount authorized to be appropriated for each fiscal year to carry out this part for each of the following:
+The Agency for International Development should target the equivalent of 10 percent of the amount authorized to be appropriated for each fiscal year to carry out this part for each of the following:
 
 &emsp;(1) The activities described in subsection (i)(1)(B) of this section, including identifiable components of agricultural production projects.
 

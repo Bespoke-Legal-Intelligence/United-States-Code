@@ -24,7 +24,3 @@ The Internal Revenue Code of 1939, referred to in section catchline and subsec. 
 
 Section 113 of the Internal Revenue Code of 1939, referred to in subsec. (c), was classified to section 113 of former Title 26, Internal Revenue Code. Section 113 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 307, 1223 of this title.
-

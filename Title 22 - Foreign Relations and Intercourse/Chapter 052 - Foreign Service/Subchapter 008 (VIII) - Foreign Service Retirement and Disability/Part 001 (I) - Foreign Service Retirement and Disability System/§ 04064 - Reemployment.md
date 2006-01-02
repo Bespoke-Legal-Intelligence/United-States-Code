@@ -66,7 +66,7 @@ A reemployed annuitant as to whom a waiver under subsection (g) of this section 
 
 Pub. L. 99–335, §402(a)(2), substituted “this part” for “this subchapter” in three places.
 
-Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When any such retired member of the Service is reemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving.”
+Subsec. (b). Pub. L. 99–335, §410, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When any such retired member of the Service isreemployed, the employer shall send a notice of such reemployment to the Secretary of State, together with all pertinent information relating to such employment, and shall pay directly to such member the salary of the position in which he or she is serving.”
 
 Subsec. (b)(3). Pub. L. 99–556, §403, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The sum of—
 

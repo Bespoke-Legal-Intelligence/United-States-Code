@@ -74,7 +74,7 @@ In General.—Support for science and technology centers in the independent stat
 
 Activities Supported.—Activities supported under subsection (a) include—
 
-&emsp;“(1) any research activity involving the participation of former Soviet weapons scientists and civilianscientists and engineers, if the participation of the weapons scientists predominates; and
+&emsp;“(1) any research activity involving the participation of former Soviet weapons scientists and civilian scientists and engineers, if the participation of the weapons scientists predominates; and
 
 &emsp;“(2) any program of international exchanges that would provide former Soviet weapons scientists exposure to, and the opportunity to develop relations with, research and industry partners.”
 

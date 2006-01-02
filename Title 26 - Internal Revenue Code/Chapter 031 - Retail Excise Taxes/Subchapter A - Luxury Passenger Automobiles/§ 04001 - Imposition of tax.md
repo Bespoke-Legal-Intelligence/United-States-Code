@@ -52,7 +52,7 @@
 
 #### (c) Exceptions for taxicabs, etc.
 
-The tax imposed by this section shall not apply to the sale of any passenger vehicle for use by the purchaser exclusively in the active conduct of a trade or business of transporting persons or property for compensation or hire.
+The tax imposed by this section shall not apply to the sale of any passenger vehicle foruse by the purchaser exclusively in the active conduct of a trade or business of transporting persons or property for compensation or hire.
 
 #### (d) Exemption for law enforcement uses, etc.
 
@@ -187,8 +187,4 @@ In general.—The amendments made by this section \[enacting this subchapter, re
 “(2)
 
 Exception for binding contracts.—In determining whether any tax imposed by subchapter A of chapter 31 of the Internal Revenue Code of 1986, as added by this section, applies to any sale after December 31, 1990, there shall not be taken into account the amount paid for any article (or any part or accessory therefor) if the purchaser held on September 30, 1990, a contract (which was binding on such date and at all times thereafter before the purchase) for the purchase of such article (or such part or accessory).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 280F, 4003, 4221, 4222 of this title.
 

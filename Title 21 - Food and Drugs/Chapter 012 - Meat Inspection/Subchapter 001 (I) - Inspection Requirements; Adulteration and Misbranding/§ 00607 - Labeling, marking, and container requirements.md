@@ -6,7 +6,7 @@ When any meat or meat food product prepared for commerce which has been inspecte
 
 #### (b) Information on articles or containers; legible form
 
-All carcasses, parts of carcasses, meat and meat food products inspected at any establishment under the authority of this subchapter and found to be not adulterated, shall at the time they leave the establishment bear, in distinctlylegible form, directly thereon or on their containers, as the Secretary may require, the information required under paragraph (n) of section 601 of this title.
+All carcasses, parts of carcasses, meat and meat food products inspected at any establishment under the authority of this subchapter and found to be not adulterated, shall at the time they leave the establishment bear, in distinctly legible form, directly thereon or on their containers, as the Secretary may require, the information required under paragraph (n) of section 601 of this title.
 
 #### (c) Labeling: type styles and sizes; definitions and standards of identity or composition; standards of fill of container; consistency of Federal and Federal-State standards
 
@@ -50,5 +50,5 @@ Subsecs. (b) to (e). Pub. L. 90–201, §6(c), added subsecs. (b) to (e).
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses)and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof, amendment effective upon expiration of sixty days after Dec. 15, 1967, see section 20(b) of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 

@@ -26,7 +26,10 @@
 | (b) | Access to National Crime Information Center files. |
 | (c) | Reconsideration upon development of more cost effective means of sharing information. |
 | (d) | Regulations. |
-| 1105a, 1106. Repealed. |  |
+| [1105a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001105a%20-%20Employment%20authorization%20for%20battered%20spouses%20of%20certain%20nonimmigrants.md) | Employment authorization for battered spouses of certain nonimmigrants. |
+| (a) | In general. |
+| (b) | Construction. |
+| [1106\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001106%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93510%2C%20title%20IV%2C%20%C2%A7422%28a%29%2C%20Oct.%2026%2C%201970%2C%2084%20Stat.%201189.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -86,9 +89,9 @@
 | (c) | Asylum status. |
 | (d) | Asylum procedure. |
 | [1159\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001159%20-%20Adjustment%20of%20status%20of%20refugees.md) | Adjustment of status of refugees. |
-| (a) | Criteria and procedures applicable for admission as immigrant; effect of adjustment. |
-| (b) | Maximum number of adjustments; recordkeeping. |
-| (c) | Applicability of other Federal statutory requirements. |
+| (a) | Inspection and examination by Department of Homeland Security. |
+| (b) | Requirements for adjustment. |
+| (c) | Coordination with section 1182. |
 | [1160\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001160%20-%20Special%20agricultural%20workers.md) | Special agricultural workers. |
 | (a) | Lawful residence. |
 | (b) | Applications for adjustment of status. |
@@ -158,7 +161,7 @@
 | [1184\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001184%20-%20Admission%20of%20nonimmigrants.md) | Admission of nonimmigrants. |
 | (a) | Regulations. |
 | (b) | Presumption of status; written waiver. |
-| (c) | Petition of importing employer; involvement of Departments of Labor and Agriculture. |
+| (c) | Petition of importing employer. |
 | (d) | Issuance of visa to fianc�AE1ee or fianc�AE1e of citizen. |
 | (e) | Nonimmigrant professionals and annual numerical limit. |
 | (f) | Denial of crewmember status in case of certain labor disputes. |
@@ -317,6 +320,7 @@
 | (b) | Securing of counsel. |
 | (c) | Service by mail. |
 | (d) | Prompt initiation of removal. |
+| (e) | Certification of compliance with restrictions on disclosure. |
 | [1229a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001229a%20-%20Removal%20proceedings.md) | Removal proceedings. |
 | (a) | Proceeding. |
 | (b) | Conduct of proceeding. |
@@ -583,7 +587,7 @@
 | (s) | H–1B Nonimmigrant Petitioner Account. |
 | (t) | Genealogy Fee. |
 | (u) | Premium fee for employment-based petitions and applications. |
-| (v) | H–1B and L Fraud Prevention and Detection Account. |
+| (v) | Fraud Prevention and Detection Account. |
 | [1357\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001357%20-%20Powers%20of%20immigration%20officers%20and%20employees.md) | Powers of immigration officers and employees. |
 | (a) | Powers without warrant. |
 | (b) | Administration of oath; taking of evidence. |
@@ -592,6 +596,7 @@
 | (e) | Restriction on warrantless entry in case of outdoor agricultural operations. |
 | (f) | Fingerprinting and photographing of certain aliens. |
 | (g) | Performance of immigration officer functions by State officers and employees. |
+| (i) | Protecting abused juveniles. |
 | [1358\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001358%20-%20Local%20jurisdiction%20over%20immigrant%20stations.md) | Local jurisdiction over immigrant stations. |
 | [1359\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001359%20-%20Application%20to%20American%20Indians%20born%20in%20Canada.md) | Application to American Indians born in Canada. |
 | [1360\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001360%20-%20Establishment%20of%20central%20file%3B%20information%20from%20other%20departments%20and%20agencies.md) | Establishment of central file; information from other departments and agencies. |
@@ -646,6 +651,7 @@
 | (a) | In general. |
 | (b) | Exceptions. |
 | (c) | Penalties for violations. |
+| (d) | Guidance. |
 | [1368\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001368%20-%20Increase%20in%20INS%20detention%20facilities%3B%20report%20on%20detention%20space.md) | Increase in INS detention facilities; report on detention space. |
 | (a) | Increase in detention facilities. |
 | (b) | Report on detention space. |
@@ -674,12 +680,14 @@
 | (a) | Provision of information regarding female genital mutilation. |
 | (b) | Limitation. |
 | (c) | “Female genital mutilation” defined. |
-| [1375\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001375%20-%20Mail-order%20bride%20business.md) | Mail-order bride business. |
-| (a) | Findings. |
-| (b) | Information dissemination. |
-| (c) | Study. |
-| (d) | Report. |
+| [1375\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001375%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20VIII%2C%20%C2%A7833%28g%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203077.md) | Repealed. |
+| [1375a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001375a%20-%20Domestic%20violence%20information%20and%20resources%20for%20immigrants%20and%20regulation%20of%20international%20marriage%20brokers.md) | Domestic violence information and resources for immigrants and regulation of international marriage brokers. |
+| (a) | Information for K nonimmigrants on legal rights and resources for immigrant victims of domestic violence. |
+| (b) | Visa and adjustment interviews. |
+| (c) | Confidentiality. |
+| (d) | Regulation of international marriage brokers. |
 | (e) | Definitions. |
+| (f) | GAO study and report. |
 | [1376\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001376%20-%20Data%20on%20nonimmigrant%20overstay%20rates.md) | Data on nonimmigrant overstay rates. |
 | (a) | Collection of data. |
 | (b) | Annual report. |

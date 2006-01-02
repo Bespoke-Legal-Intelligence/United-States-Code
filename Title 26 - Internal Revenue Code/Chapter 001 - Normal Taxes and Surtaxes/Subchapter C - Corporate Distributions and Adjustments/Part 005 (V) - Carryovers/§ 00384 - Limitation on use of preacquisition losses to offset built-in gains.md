@@ -10,7 +10,7 @@ If—
 
 &emsp;(2) either of such corporations is a gain corporation,
 
-> income for any recognition period taxable year (to the extent attributable to recognized built-ingains) shall not be offset by any preacquisition loss (other than a preacquisition loss of the gain corporation).
+> income for any recognition period taxable year (to the extent attributable to recognized built-in gains) shall not be offset by any preacquisition loss (other than a preacquisition loss of the gain corporation).
 
 #### (b) Exception where corporations under common control
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (B) Treatment of certain income items
 
-&emsp;&emsp;Any item of income which is properly taken into account for any recognition period taxable year but which is attributable to periods before the acquisition date shall be treated as a recognized built-in gain for the taxable year in which it is properly taken into account and shall be taken into account in determining the amount of the net unrealized built-in gain.
+&emsp;&emsp;Any item of income which is properly taken into account for any recognition period taxable year but which is attributable to periods before the acquisition date shallbe treated as a recognized built-in gain for the taxable year in which it is properly taken into account and shall be taken into account in determining the amount of the net unrealized built-in gain.
 
 #### (C) Limitation
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (d) Limitation also to apply to excess credits or net capital losses
 
-Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit\(as defined in section 383(a)(2)) or net capital loss.
+Rules similar to the rules of subsection (a) shall also apply in the case of any excess credit (as defined in section 383(a)(2)) or net capital loss.
 
 #### (e) Ordering rules for net operating losses, etc.
 

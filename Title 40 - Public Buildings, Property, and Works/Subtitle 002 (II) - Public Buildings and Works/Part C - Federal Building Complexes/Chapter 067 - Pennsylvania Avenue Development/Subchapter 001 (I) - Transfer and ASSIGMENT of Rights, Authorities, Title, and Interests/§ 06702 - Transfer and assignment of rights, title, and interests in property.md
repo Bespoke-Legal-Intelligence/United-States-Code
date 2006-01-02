@@ -44,7 +44,7 @@ Responsibilities.—The responsibilities of the Corporation transferred to the A
 
 &emsp;(2)
 
-Powers.—In carrying out the responsibilities of the Corporation transferred under thissection, the Administrator of General Services may—
+Powers.—In carrying out the responsibilities of the Corporation transferred under this section, the Administrator of General Services may—
 
 &emsp;&emsp;(A) acquire land, improvements, and property by purchase, lease or exchange, and sell, lease, or otherwise dispose of any property, as necessary to complete the development plan developed under section 5 of the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1269) if a notice of intention to carry out the acquisition or disposal is first transmitted to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and at least 60 days elapse after the date of the transmission;
 

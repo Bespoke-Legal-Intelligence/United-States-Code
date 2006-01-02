@@ -60,7 +60,3 @@ Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and 
 
 Ex. Ord. No. 11765, Jan. 21, 1974, 39 F.R. 2577, related to sale of vessels of the Navy stricken from Naval Vessel Register pursuant to section 7304 of this title regardless of their appraised value under authority of former subsec. (<i>l</i>) of this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 6939d.
-

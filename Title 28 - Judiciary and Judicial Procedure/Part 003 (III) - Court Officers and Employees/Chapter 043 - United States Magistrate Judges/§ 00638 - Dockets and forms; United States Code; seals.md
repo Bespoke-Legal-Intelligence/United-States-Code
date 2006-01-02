@@ -1,6 +1,6 @@
 ### §638. Dockets and forms; United States Code; seals
 
-(a) The Director shall furnish to United States magistrate judges adequate docket books and forms prescribed by the Director. The Director shall also furnish to each such officer a copy of the current edition of the United States Code.
+(a) The Director shall furnish to United States magistrate judges adequate docket books andforms prescribed by the Director. The Director shall also furnish to each such officer a copy of the current edition of the United States Code.
 
 (b) All property furnished to any such officer shall remain the property of the United States and, upon the termination of his term of office, shall be transmitted to his successor in office or otherwise disposed of as the Director orders.
 

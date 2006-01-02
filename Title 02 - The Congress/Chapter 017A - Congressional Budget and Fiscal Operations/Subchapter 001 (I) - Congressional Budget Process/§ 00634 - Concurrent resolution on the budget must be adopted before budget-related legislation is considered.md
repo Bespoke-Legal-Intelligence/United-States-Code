@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall notbe in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that—
+Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that—
 
 &emsp;(1) first provides new budget authority for that fiscal year;
 
@@ -18,7 +18,7 @@ Until the concurrent resolution on the budget for a fiscal year has been agreed 
 
 In the House of Representatives, subsection (a) of this section does not apply—
 
-&emsp;(1)(A) to any bill or joint resolution, as reported, providing advance discretionary new budget authority that first becomes available for the first or second fiscal year after the budget year; or
+&emsp;(1)(A) to any bill or joint resolution, as reported, providing advance discretionary newbudget authority that first becomes available for the first or second fiscal year after the budget year; or
 
 &emsp;(B) to any bill or joint resolution, as reported, first increasing or decreasing revenues in a fiscal year following the fiscal year to which the concurrent resolution applies;
 

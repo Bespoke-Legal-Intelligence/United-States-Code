@@ -46,7 +46,7 @@ Subsection (a) shall apply whether or not the understatement is with the knowled
 
 #### (e) Certain actions not treated as aid or assistance
 
-For purposes of subsection (a)(1), a person furnishing typing, reproducing, or other mechanical assistance with respect to a document shallnot be treated as having aided or assisted in the preparation of such document by reason of such assistance.
+For purposes of subsection (a)(1), a person furnishing typing, reproducing, or other mechanical assistance with respect to a document shall not be treated as having aided or assisted in the preparation of such document by reason of such assistance.
 
 #### (f) Penalty in addition to other penalties
 
@@ -83,8 +83,4 @@ Section 7735(c) of Pub. L. 101–239 provided that: “The amendments made by th
 #### Effective Date
 
 Section 324(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6703, 7408, 7422 of this title; title 28 section 1509; title 31 section 330.
 

@@ -20,7 +20,7 @@ Except as otherwise specifically provided in this subchapter, no provision conta
 
 #### References in Text
 
-Act approved August 13, 1954, referred to in subsecs. (a) and (b), is act Aug. 13, 1954, ch. 733, 68 Stat. 724, which is classified generally to subchapter XXX (§691 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+Act approved August 13, 1954, referred to in subsecs. (a) and (b), is act Aug. 13, 1954, ch. 733, 68 Stat. 724, which is classified generally to subchapter XXX (§691 etseq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -8,7 +8,7 @@ Property Subject to Criminal Forfeiture.—A person who is convicted of an offen
 
 &emsp;(2) any property, real or personal, constituting or traceable to gross profits or other proceeds obtained from such offense; and
 
-&emsp;(3) any property, real or personal, used or intended to be used to commit or to promote the commission of such offense, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.
+&emsp;(3) any property, real or personal, used or intended to be used to commit or to promote thecommission of such offense, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.
 
 (b)
 
@@ -50,7 +50,7 @@ Execution.—Upon entry of an order of forfeiture under this section, the court 
 
 (g)
 
-Disposition of Property.—Following the seizure of property ordered forfeited under this section, the Attorney General shall destroy or retain for official use any property described in paragraph (1) of subsection (a) and shall direct the disposition of any property described in paragraph (2) or (3) of subsection (a) by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or person acting in concert with him or on his behalf, the court may restrain or stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
+Disposition of Property.—Following the seizure of property ordered forfeited under this section, the Attorney General shall destroy or retain for official use any property described in paragraph (1) of subsection (a) and shall direct the disposition of any property described in paragraph (2) or (3) of subsection (a) by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or person acting in concert with him or on his behalf, the court may restrain or stay the sale ordisposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
 
 (h)
 
@@ -80,7 +80,7 @@ Jurisdiction To Enter Orders.—The district courts of the United States shall h
 
 (k)
 
-Depositions.—In order to facilitate the identification and location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring propertyforfeited to the United States, the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, or other material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
+Depositions.—In order to facilitate the identification and location of property declared forfeited and to facilitate the disposition of petitions for remission or mitigation of forfeiture, after the entry of an order declaring property forfeited to the United States, the court may, upon application of the United States, order that the testimony of any witness relating to the property forfeited be taken by deposition and that any designated book, paper, document, record, recording, or other material not privileged be produced at the same time and place, in the same manner as provided for the taking of depositions under Rule 15 of the Federal Rules of Criminal Procedure.
 
 (<i>l</i>)
 

@@ -4,7 +4,7 @@
 
 The Attorney General may make grants to States, State courts, local courts, units of local government, and Indian tribal governments, acting directly or through agreements with other public or private entities, for adult drug courts, juvenile drug courts, family drug courts, and tribal drug courts that involve—
 
-&emsp;(1) continuing judicial supervision over offenders with substance abuse problems who are not violent offenders;
+&emsp;(1) continuing judicial supervision over offenders, and other individuals under the jurisdiction of the court, with substance abuse problems who are not violent offenders;
 
 &emsp;(2) coordination with the appropriate State or local prosecutor; and
 
@@ -26,7 +26,11 @@ The Attorney General may make grants to States, State courts, local courts, unit
 
 Economic sanctions imposed on an offender pursuant to this section shall not be at a level that would interfere with the offender's rehabilitation.
 
-(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794.)
+(Pub. L. 90–351, title I, §2951, as added Pub. L. 107–273, div. B, title II, §2301(a), Nov. 2, 2002, 116 Stat. 1794; amended Pub. L. 109–162, title XI, §1143, Jan. 5, 2006, 119 Stat. 3111.)
+
+#### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–162 substituted “offenders, and other individuals under the jurisdiction of the court, with substance abuse problems” for “offenders with substance abuse problems”.
 
 #### Study by the Government Accountability Office
 

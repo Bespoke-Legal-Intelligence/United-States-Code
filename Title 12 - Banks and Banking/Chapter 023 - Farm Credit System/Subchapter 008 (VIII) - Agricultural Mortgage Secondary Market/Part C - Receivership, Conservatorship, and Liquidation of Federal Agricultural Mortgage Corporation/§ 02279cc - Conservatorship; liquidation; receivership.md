@@ -34,7 +34,7 @@ The Corporation may voluntarily liquidate only with the consent of, and in accor
 
 #### (1) Qualifications
 
-&emsp;Notwithstanding section 2183(b) of this title, if a conservator or receiver is appointed for the Corporation, the conservator or receiver shall be—
+&emsp;Notwithstanding section 2183(b) of this title, if a conservator or receiver is appointed forthe Corporation, the conservator or receiver shall be—
 
 &emsp;&emsp;(A) the Farm Credit Administration or any other governmental entity or employee, including the Farm Credit System Insurance Corporation; or
 

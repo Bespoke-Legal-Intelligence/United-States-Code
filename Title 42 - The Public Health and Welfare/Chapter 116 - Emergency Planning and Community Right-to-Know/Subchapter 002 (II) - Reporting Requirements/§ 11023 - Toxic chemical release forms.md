@@ -24,7 +24,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (2) Discretionary application to additional facilities
 
-&emsp;The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwise uses a toxic chemical listed under subsection (c) of this section if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
+&emsp;The Administrator, on his own motion or at the request of a Governor of a State (with regard to facilities located in that State), may apply the requirements of this section to the owners and operators of any particular facility that manufactures, processes, or otherwiseuses a toxic chemical listed under subsection (c) of this section if the Administrator determines that such action is warranted on the basis of toxicity of the toxic chemical, proximity to other facilities that release the toxic chemical or to population centers, the history of releases of such chemical at such facility, or such other factors as the Administrator deems appropriate.
 
 #### (c) Toxic chemicals covered
 
@@ -66,7 +66,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 > &emsp;&emsp;a significant adverse effect on the environment of sufficient seriousness, in the judgment of the Administrator, to warrant reporting under this section. The number of chemicals included on the list described in subsection (c) of this section on the basis of the preceding sentence may constitute in the aggregate no more than 25 percent of the total number of chemicals on the list.
 
-> &emsp;A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or otherpopulation studies, available to the Administrator.
+> &emsp;A determination under this paragraph shall be based on generally accepted scientific principles or laboratory tests, or appropriately designed and conducted epidemiological or other population studies, available to the Administrator.
 
 #### (3) Deletions
 

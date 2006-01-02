@@ -24,7 +24,7 @@ The date on which a levy on property or rights to property is made shall be the 
 
 1998—Subsec. (a). Pub. L. 105–206, §3461(a)(2), struck out first sentence of concluding provisions which read as follows: “The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon.”
 
-Subsec. (a)(2). Pub. L. 105–206, §3461(a)(1), added par. (2) and struck out former par. (2) which read as follows: “prior to the expiration of any period for collectionagreed upon in writing by the Secretary and the taxpayer before the expiration of such 10-year period (or, if there is a release of levy under section 6343 after such 10-year period, then before such release).”
+Subsec. (a)(2). Pub. L. 105–206, §3461(a)(1), added par. (2) and struck out former par. (2) which read as follows: “prior to the expiration of any period for collection agreed upon in writing by the Secretary and the taxpayer before the expiration of such 10-year period (or, if there is a release of levy under section 6343 after such 10-year period, then before such release).”
 
 1990—Subsec. (a)(1). Pub. L. 101–508, §11317(a)(1), substituted “10 years” for “6 years”.
 
@@ -57,8 +57,4 @@ Section 1015(u)(2) of Pub. L. 100–647 provided that: “The amendment made by 
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which the amendment would impair a priority held by any person other than United States holding a lien or interest prior to Nov. 2, 1966, operate to increase liability of such person, or shorten the time for bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 302, 4961, 6013, 6015, 6103, 6255, 6330, 6331, 6503, 6672, 6694, 6703 of this title.
 

@@ -18,7 +18,7 @@
 
 #### (C) Venue for review of subsequent proceedings
 
-&emsp;&emsp;If a United States Court of Appeals permits an appeal to be taken from an order described in subparagraph (A), except as provided in subsection (b)(2), any subsequent review of the decision of the Tax Court in theproceeding shall be made by such Court of Appeals.
+&emsp;&emsp;If a United States Court of Appeals permits an appeal to be taken from an order described in subparagraph (A), except as provided in subsection (b)(2), any subsequent review of the decision of the Tax Court in the proceeding shall be made by such Court of Appeals.
 
 #### (3) Certain orders entered under section 6213(a)
 
@@ -84,7 +84,7 @@ Subsec. (b)(1)(E). Pub. L. 105–34, §1222(b)(3), substituted “, 6228(a), 62
 
 Subsec. (b)(1)(F). Pub. L. 105–34, §1239(d)(1), added subpar. (F).
 
-1989—Subsec. (c)(4). Pub. L. 101–239 substituted “penalties” for “damages” in heading and amended text generally. Prior to amendment, text read as follows: “The United States Court of Appeals and the Supreme Court shall have power to impose damages in any case where the decision of the Tax Court is affirmed and itappears that the notice of appeal was filed merely for delay.”
+1989—Subsec. (c)(4). Pub. L. 101–239 substituted “penalties” for “damages” in heading and amended text generally. Prior to amendment, text read as follows: “The United States Court of Appeals and the Supreme Court shall have power to impose damages in any case where the decision of the Tax Court is affirmed and it appears that the notice of appeal was filed merely for delay.”
 
 1988—Subsec. (a)(3). Pub. L. 100–647 added par. (3).
 
@@ -114,7 +114,7 @@ Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 1974—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted “If for any reason subparagraph (A), (B), and (C) do not apply” for “If for any reason neither subparagraph (A) nor (B) applies”, and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
 
-1969—Subsec. (c). Pub. L. 91–172 substituted “section 2072 of title 28” for “section 2074 of title 28” in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under section 2072 of title 28 become effective and, in par. (4), substituted “notice of appeal” for “petition”.
+1969—Subsec. (c). Pub. L. 91–172 substituted “section 2072 of title 28” for “section 2074 of title 28” in par. (2)and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under section 2072 of title 28 become effective and, in par. (4), substituted “notice of appeal” for “petition”.
 
 1966—Subsec. (b)(1). Pub. L. 89–713 substituted provisions requiring that appeals from Tax Court decisions be made to the Court of Appeals for the circuit in which the taxpayer resides, in the case of a taxpayer other than a corporation, and, in the case of appeals by corporations, to the Court of Appeals for the circuit in which the corporation has its principal place of business or principal office or agency for provisions prescribing review by the Court of Appeals for the circuit in which was located the office to which was made the return of the tax in respect of which the liability arose, and inserted provision for the time of determining legal residence, place of business, or principal office or agency.
 
@@ -169,8 +169,4 @@ Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–713 applicable to all decisions of the Tax Court entered after Nov. 2, 1966, see section 3(d) of Pub. L. 89–713, set out as a note under section 7422 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7437, 7485 of this title.
 

@@ -21,17 +21,13 @@
 
 1987—Pub. L. 100–203, title X, §10712(c)(7), (9), Dec. 22, 1987, 101 Stat. 1330–467, substituted in chapter heading “AND CERTAIN OTHER TAX-EXEMPT ORGANIZATIONS” for “BLACK LUNG BENEFIT TRUSTS”, struck out item for subchapter C “Abatement of first and second tier taxes in certain cases”, and added items for subchapters C and D.
 
-1984—Pub. L. 98–369, div. A, title III, §305(b)(3), July 18, 1984, 98 Stat. 784, substituted “Abatement of first and second tier taxes in certain cases” for “Abatementof second tier taxes where there is correction during correction period” in item for subchapter C.
+1984—Pub. L. 98–369, div. A, title III, §305(b)(3), July 18, 1984, 98 Stat. 784, substituted “Abatement of first and second tier taxes in certain cases” for “Abatement of second tier taxes where there is correction during correction period” in item for subchapter C.
 
 1980—Pub. L. 96–596, §2(c)(3), Dec. 24, 1980, 94 Stat. 3474, added item for subchapter C.
 
 1978—Pub. L. 95–227, §4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, in chapter heading inserted “; BLACK LUNG BENEFIT TRUSTS” after “FOUNDATIONS”, and added items for subchapters A and B.
 
 1969—Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498, added chapter heading “PRIVATE FOUNDATIONS”.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 170, 275, 509, 2055, 6104, 6161, 6211, 6212, 6213, 6214, 6344, 6405, 6501, 6503, 6511, 6512, 6684, 6862, 6871, 7422 of this title.
 
 
 ---

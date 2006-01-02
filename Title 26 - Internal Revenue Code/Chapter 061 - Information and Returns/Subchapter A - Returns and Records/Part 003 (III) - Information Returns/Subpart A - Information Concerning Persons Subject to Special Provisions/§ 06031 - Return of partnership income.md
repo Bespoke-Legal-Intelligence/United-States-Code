@@ -36,9 +36,15 @@ In the case of any partnership regularly carrying on a trade or business (within
 
 > &emsp;The Secretary may provide simplified filing procedures for foreign partnerships to which this section applies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title IV, §403, Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, title XV, §1501(c)(16), title XVIII, §1811(b)(1)(A), Oct. 22, 1986, 100 Stat. 2740, 2832; Pub. L. 100–647, title V, §5074(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 105–34, title XI, §1141(a), title XII, §1223(a), Aug. 5, 1997, 111 Stat. 980, 1019.)
+#### (f) Electing investment partnerships
+
+In the case of any electing investment partnership (as defined in section 743(e)(6)), the information required under subsection (b) to be furnished to any partner to whom section 743(e)(2) applies shall include such information as is necessary to enable the partner to compute the amount of losses disallowed under section 743(e).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title IV, §403, Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, title XV, §1501(c)(16), title XVIII, §1811(b)(1)(A), Oct. 22, 1986, 100 Stat. 2740, 2832; Pub. L. 100–647, title V, §5074(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 105–34, title XI, §1141(a), title XII, §1223(a), Aug. 5, 1997, 111 Stat. 980, 1019; Pub. L. 108–357, title VIII, §833(b)(4)(B), Oct. 22, 2004, 118 Stat. 1590.)
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–357 added subsec. (f).
 
 1997—Subsec. (b). Pub. L. 105–34, §1223(a), inserted at end “In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.”
 
@@ -57,6 +63,10 @@ Subsec. (c). Pub. L. 99–514, §1811(b)(1)(A)(ii), added subsec. (c).
 Subsec. (b). Pub. L. 97–248, §403(a), added subsec. (b).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to transfers after Oct. 22, 2004, with transition rule in the case of an electing investment partnership which is in existence on June 4, 2004, see section 833(d)(2) of Pub. L. 108–357, set out as a note under section 743 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -89,8 +99,4 @@ Section 404 of Pub. L. 97–248, as amended by Pub. L. 99–514, §2, Oct. 22, 1
 #### Special Rule for Certain International Satellite Partnerships
 
 For provision that this section is not applicable to certain international satellite partnerships, see section 406 of Pub. L. 97–248, set out as a note under section 6231 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6063, 6072, 6104, 6231, 6698, 6724 of this title.
 

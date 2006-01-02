@@ -16,7 +16,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;This subsection shall apply to every insurance company other than life (including interinsurers and reciprocal underwriters) if—
 
-&emsp;&emsp;&emsp;(i) the net written premiums (or, if greater, direct written premiums) for the taxable year exceed $350,000 but do not exceed $1,200,000, and
+&emsp;&emsp;&emsp;(i) the net written premiums (or, if greater, direct written premiums) for the taxable year do not exceed $1,200,000, and
 
 &emsp;&emsp;&emsp;(ii) such company elects the application of this subsection for such taxable year.
 
@@ -44,7 +44,11 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;(B) to any taxable year if, between the taxable year from which such loss is being carried and such taxable year, there is an intervening taxable year for which the insurance company was not subject to the tax imposed by subsection (a).
 
-#### (c) Cross references
+#### (c) Insurance company defined
+
+For purposes of this section, the term “insurance company” has the meaning given to such term by section 816(a)).<sup>1</sup>
+
+#### (d) Cross references
 
 &emsp;&emsp;<b>(1) For alternative tax in case of capital gains, see section 1201(a).</b>
 
@@ -52,9 +56,13 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;<b>(3) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, §206(c), (d), Apr. 10, 2004, 118 Stat. 611.)
 
 #### Amendments
+
+2004—Subsec. (b)(2)(A)(i). Pub. L. 108–218, §206(d), struck out “exceed $350,000 but” after “taxable year”.
+
+Subsecs. (c), (d). Pub. L. 108–218, §206(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1988—Subsec. (b)(2)(A). Pub. L. 100–647, §1010(f)(1), inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
 
@@ -75,6 +83,10 @@ Subsecs. (c), (d). Pub. L. 89–809, §104(i)(6)(B), redesignated subsec. (d) as
 Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
 
 Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2003, with exception for companies in receivership or liquidation, see section 206(e) of Pub. L. 108–218, set out as a note under section 501 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -110,11 +122,9 @@ Transitional rule for unused loss carryover under section 825.—Any unused loss
 
 &emsp;“(A) is from a taxable year beginning before January 1, 1987, and
 
-&emsp;“(B) could have been carried under such section to a taxable year beginning after December 31, 1986, butfor the repeal made by subsection (a)(1) \[repealing sections 821 and 823 to 825 of this title\],
+&emsp;“(B) could have been carried under such section to a taxable year beginning after December 31, 1986, but for the repeal made by subsection (a)(1) \[repealing sections 821 and 823 to 825 of this title\],
 
 > shall be included in the net operating loss deduction under section 832(c)(10) of such Code without regard to the limitations of section 844(b) of such Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 501, 816, 832, 834, 835, 841, 847, 891, 904, 1201 of this title; title 15 section 6712.
+<i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

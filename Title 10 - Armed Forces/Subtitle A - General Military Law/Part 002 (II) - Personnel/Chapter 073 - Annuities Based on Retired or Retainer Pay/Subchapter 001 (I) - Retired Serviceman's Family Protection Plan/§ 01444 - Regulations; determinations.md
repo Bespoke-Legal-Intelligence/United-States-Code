@@ -58,7 +58,3 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, §8(
 
 For transfer of functions of Public Health Service, see note under section 802 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1434, 1436, 1437, 1444a, 1445 of this title.
-

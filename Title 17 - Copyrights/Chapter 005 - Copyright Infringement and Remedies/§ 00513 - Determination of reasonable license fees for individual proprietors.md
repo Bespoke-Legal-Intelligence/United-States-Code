@@ -6,7 +6,7 @@ In the case of any performing rights society subject to a consent decree which p
 
 &emsp;(2) The proceeding under paragraph (1) shall be held, at the individual proprietor's election, in the judicial district of the district court with jurisdiction over the applicable consent decree or in that place of holding court of a district court that is the seat of the Federal circuit (other than the Court of Appeals for the Federal Circuit) in which the proprietor's establishment is located.
 
-&emsp;(3) Such proceeding shall be held before the judge of the court with jurisdiction over the consent decree governing the performing rights society. At the discretion of the court, the proceeding shall be held before a special master or magistrate judge appointed by such judge. Should that consent decree provide for the appointment of an advisor or advisors tothe court for any purpose, any such advisor shall be the special master so named by the court.
+&emsp;(3) Such proceeding shall be held before the judge of the court with jurisdiction over the consent decree governing the performing rights society. At the discretion of the court, the proceeding shall be held before a special master or magistrate judge appointed by such judge. Should that consent decree provide for the appointment of an advisor or advisors to the court for any purpose, any such advisor shall be the special master so named by the court.
 
 &emsp;(4) In any such proceeding, the industry rate shall be presumed to have been reasonable at the time it was agreed to or determined by the court. Such presumption shall in no way affect a determination of whether the rate is being correctly applied to the individual proprietor.
 

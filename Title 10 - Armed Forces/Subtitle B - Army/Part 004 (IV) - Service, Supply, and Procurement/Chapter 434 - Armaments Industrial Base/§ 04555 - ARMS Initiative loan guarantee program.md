@@ -28,7 +28,7 @@ Program Administration.—(1) The Secretary may enter into an agreement with any
 
 &emsp;&emsp;(ii) the Administrator of the Rural Development Administration.
 
-(3) Each official authorized to do so under an agreement entered into under paragraph (1) mayguarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the official administers.
+(3) Each official authorized to do so under an agreement entered into under paragraph (1) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the official administers.
 
 (4) To the extent practicable, each official processing loan guarantee applications under this section pursuant to an agreement entered into under paragraph (1) shall use the same processing procedures as the official uses for processing loan guarantee applications under other loan guarantee programs that the official administers.
 
@@ -45,8 +45,4 @@ Loan Limits.—The maximum amount of loan principal guaranteed during a fiscal y
 Transfer of Funds.—The Secretary may transfer to an official providing services under subsection (c), and that official may accept, such funds as may be necessary to administer the loan guarantee program under this section.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–70.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2474 of this title.
 

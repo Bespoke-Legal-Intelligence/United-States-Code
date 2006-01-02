@@ -82,7 +82,7 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 
 #### Short Title of 1996 Amendment
 
-Section 1(a) of Pub. L. 104–156 provided that: “This Act \[amending this chapter and enacting provisions setout as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
+Section 1(a) of Pub. L. 104–156 provided that: “This Act \[amending this chapter and enacting provisions set out as notes below\] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
 #### Short Title
 

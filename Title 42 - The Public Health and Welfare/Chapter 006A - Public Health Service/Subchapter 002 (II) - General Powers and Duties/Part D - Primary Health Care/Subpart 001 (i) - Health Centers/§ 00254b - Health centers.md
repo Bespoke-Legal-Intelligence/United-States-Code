@@ -64,7 +64,7 @@ For purposes of this section:
 
 #### (B) Exception
 
-&emsp;&emsp;With respect to a health center that receives a grant only under subsection (g) of this section, the Secretary, upon a showing of good cause, shall—
+&emsp;&emsp;With respect to a health center that receives a grant only under subsection (g) ofthis section, the Secretary, upon a showing of good cause, shall—
 
 &emsp;&emsp;&emsp;(i) waive the requirement that the center provide all required primary health services under this paragraph; and
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (B) Managed care networks and plans
 
-&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under this section to enable the centers to plan and develop a managed care network or plan. Such a grant may only be made for such a center if—
+&emsp;&emsp;The Secretary may make grants to health centers that receive assistance under thissection to enable the centers to plan and develop a managed care network or plan. Such a grant may only be made for such a center if—
 
 &emsp;&emsp;&emsp;(i) the center has received grants under subsection (e)(1)(A) of this section for at least 2 consecutive years preceding the year of the grant under this subparagraph or has otherwise demonstrated, as required by the Secretary, that such center has been providing primary care services for at least the 2 consecutive years immediately preceding such year; and
 
@@ -206,7 +206,7 @@ For purposes of this section:
 
 #### (C) Publication of guidance
 
-&emsp;&emsp;Prior to considering an application submitted under this subsection, the Secretaryshall publish guidelines to provide guidance on the implementation of this section. The Secretary shall make such guidelines available to the universe of parties affected under this subsection, distribute such guidelines to such parties upon the request of such parties, and provide a copy of such guidelines to the appropriate committees of Congress.
+&emsp;&emsp;Prior to considering an application submitted under this subsection, the Secretary shall publish guidelines to provide guidance on the implementation of this section. The Secretary shall make such guidelines available to the universe of parties affected under this subsection, distribute such guidelines to such parties upon the request of such parties, and provide a copy of such guidelines to the appropriate committees of Congress.
 
 #### (D) Provision directly to networks or plans
 
@@ -268,7 +268,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 <sup>1</sup> (2 U.S.C. 661 et seq.), theSecretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
+&emsp;&emsp;Subject to the requirements of the Credit Reform Act of 1990 <sup>1</sup> (2 U.S.C. 661 et seq.), the Secretary may take such action as may be necessary to prevent a default on a loan guaranteed under this subsection, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a health center or centers shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
 
 #### (B) Foreclosure
 
@@ -330,7 +330,7 @@ For purposes of this section:
 
 #### (D) Use of nongrant funds
 
-&emsp;&emsp;Nongrant funds described in clauses (i) and (ii) of subparagraph (A), including any suchfunds in excess of those originally expected, shall be used as permitted under this section, and may be used for such other purposes as are not specifically prohibited under this section if such use furthers the objectives of the project.
+&emsp;&emsp;Nongrant funds described in clauses (i) and (ii) of subparagraph (A), including any such funds in excess of those originally expected, shall be used as permitted under this section, and may be used for such other purposes as are not specifically prohibited under this section if such use furthers the objectives of the project.
 
 #### (f) Infant mortality grants
 
@@ -492,7 +492,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) the ratio of the number of clients for whom English is a second language to the total number of clients served by the center;
 
-&emsp;&emsp;(C) a description of any language assistance services that the center proposes toprovide to aid clients for whom English is a second language; and
+&emsp;&emsp;(C) a description of any language assistance services that the center proposes to provide to aid clients for whom English is a second language; and
 
 &emsp;&emsp;(D) a description of the exceptional needs of such center with respect to linguistic access or a description of the exceptional challenges faced by such center with respect to linguistic access.
 
@@ -514,7 +514,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) a demonstration by the applicant that the area or the population group to be served by the applicant has a shortage of personal health services; and
 
-&emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing in the catchment area or included in such population group.
+&emsp;&emsp;(C) a demonstration that the center will be located so that it will provide services to the greatest number of individuals residing inthe catchment area or included in such population group.
 
 > &emsp;Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under subsection (b)(3) of this section or on any other criteria which the Secretary may prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services. In considering an application for a grant under subparagraph (A) or (B) of subsection (e)(1) of this section, the Secretary may require as a condition to the approval of such application an assurance that the applicant will provide any health service defined under paragraphs (1) and (2) of subsection (b) of this section that the Secretary finds is needed to meet specific health needs of the area to be served by the applicant. Such a finding shall be made in writing and a copy shall be provided to the applicant.
 
@@ -562,7 +562,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) meets at least once a month, selects the services to be provided by the center, schedules the hours during which such services will be provided, approves the center's annual budget, approves the selection of a director for the center, and, except in the case of a governing board of a public center (as defined in the second sentence of this paragraph), establishes general policies for the center; and
 
-&emsp;&emsp;&emsp;(iii) in the case of an application for a second or subsequent grant for a public center, has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;
+&emsp;&emsp;&emsp;(iii) in the case of an application for a second or subsequent grant for a publiccenter, has approved the application or if the governing body has not approved the application, the failure of the governing body to approve the application was unreasonable;
 
 > &emsp;&emsp;except that, upon a showing of good cause the Secretary shall waive, for the length of the project period, all or part of the requirements of this subparagraph in the case of a health center that receives a grant pursuant to subsection (g), (h), (i), or (p) of this section;
 
@@ -830,7 +830,7 @@ Subsec. (<i>l</i>). Pub. L. 107–251, §101(8)(A), redesignated subsec. (<i>l</
 
 Subsec. (m). Pub. L. 107–251, §101(9), which directed striking subsec. (m) (as redesignated by paragraph (9)(B)) and adding a new subsec. (m), could not be executed. The new subsec. (m) to be added read as follows: “(m)
 
-Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (<i>l</i>)(3) of this section. Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.”
+Technical Assistance.—The Secretary shall establish a program through which the Secretary shall provide technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (<i>l</i>)(3) of this section. Services provided through the program may include necessary technicaland nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities.”
 
 Pub. L. 107–251, §101(8)(B), which directed the redesignation of subsecs. (j), (k), and (m) through (q) as subsecs. (n), (<i>o</i>), and (p) through (s), respectively, could not be executed.
 

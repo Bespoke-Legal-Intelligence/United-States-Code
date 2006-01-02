@@ -4,7 +4,3 @@ Section 443(b) (relating to computation of tax on change of annual accounting pe
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 191.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 443 of this title.
-

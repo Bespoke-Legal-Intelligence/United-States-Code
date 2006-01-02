@@ -42,7 +42,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 Functions of Secretary of Agriculture administered through Bureau of Biological Survey relating to conservation of wildlife, game, and migratory birds transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Delegation of authority to Secretary with respect to nation's food program during war emergency, see Ex.Ord. No. 9280, set out as a note under section 452 of this title.
+Delegation of authority to Secretary with respect to nation's food program during war emergency, see Ex. Ord. No. 9280, set out as a note under section 452 of this title.
 
 #### Emergency Preparedness Functions
 
@@ -156,7 +156,7 @@ Maintenance of standards and preparedness.—In making recommendations to transf
 
 &emsp;“(5)
 
-Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress the results of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
+Submission of results.—Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 1994\], the Secretaries shall submit to Congress theresults of the study, including any recommendations to transfer inspection authority or otherwise change Department inspection specifications and procedures and a cost-benefit analysis of such recommendations.
 
 “(b)
 

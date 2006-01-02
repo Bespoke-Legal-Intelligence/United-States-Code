@@ -26,7 +26,7 @@ Effect of Nonselection.—An officer who is considered for promotion under this 
 
 (e)
 
-Special Rule for Officers Failed of Selection.—A reserve officer of the Army or the Air Force who is considered as failed of selection for promotion under section 14501 of this title to a grade may be considered for promotion under this section or, if selected, promoted to that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill the vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
+Special Rule for Officers Failed of Selection.—A reserve officer of the Army or theAir Force who is considered as failed of selection for promotion under section 14501 of this title to a grade may be considered for promotion under this section or, if selected, promoted to that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill the vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2943; amended Pub. L. 104–106, div. A, title XV, §1501(b)(25), Feb. 10, 1996, 110 Stat. 497; Pub. L. 105–85, div. A, title V, §514(d), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title V, §501\], Oct. 30, 2000, 114 Stat. 1654, 1654A–98; Pub. L. 108–136, div. A, title V, §512(b), Nov. 24, 2003, 117 Stat. 1460.)
 
@@ -49,8 +49,4 @@ Subsec. (b)(2)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §501(2)\], ins
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14101, 14317 of this title.
 

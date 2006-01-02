@@ -28,7 +28,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 &emsp;&emsp;(A) the illegal act has a material effect on the financial statements of the issuer;
 
-&emsp;&emsp;(B) the senior management has not taken, and the board of directors has not causedsenior management to take, timely and appropriate remedial actions with respect to the illegal act; and
+&emsp;&emsp;(B) the senior management has not taken, and the board of directors has not caused senior management to take, timely and appropriate remedial actions with respect to the illegal act; and
 
 &emsp;&emsp;(C) the failure to take remedial action is reasonably expected to warrant departure from a standard report of the auditor, when made, or warrant resignation from the audit engagement;
 
@@ -98,7 +98,7 @@ A registered public accounting firm may engage in any non-audit service, includi
 
 #### (B) De minimus <sup>1</sup> exception
 
-&emsp;&emsp;The preapproval requirement under subparagraph (A) is waived with respect to theprovision of non-audit services for an issuer, if—
+&emsp;&emsp;The preapproval requirement under subparagraph (A) is waived with respect to the provision of non-audit services for an issuer, if—
 
 &emsp;&emsp;&emsp;(i) the aggregate amount of all such non-audit services provided to the issuer constitutes not more than 5 percent of the total amount of revenues paid by the issuer to its auditor during the fiscal year in which the nonaudit services are provided;
 

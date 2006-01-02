@@ -92,7 +92,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to obligations purchased (within the meaning of section 1272(d)(1) of this title) after Apr. 30, 1993, see section 13206(b)(3) of Pub. L. 103–66, set out as a note under section 1276 of this title.
+Amendment by Pub. L. 103–66 applicable to obligations purchased (within the meaning of section1272(d)(1) of this title) after Apr. 30, 1993, see section 13206(b)(3) of Pub. L. 103–66, set out as a note under section 1276 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -111,8 +111,4 @@ Section applicable to taxable years ending after July 18, 1984, and applicable t
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 860C, 1278, 1282 of this title.
 

@@ -22,7 +22,3 @@ For purposes of subchapter B of chapter 63 (relating to deficiency procedures fo
 
 Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5134, 5684, 5761 of this title.
-

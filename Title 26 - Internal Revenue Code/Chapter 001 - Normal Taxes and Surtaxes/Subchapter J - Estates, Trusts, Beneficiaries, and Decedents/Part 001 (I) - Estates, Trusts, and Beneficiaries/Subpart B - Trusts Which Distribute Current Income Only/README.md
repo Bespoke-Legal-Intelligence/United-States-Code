@@ -7,10 +7,6 @@ Subpart B—Trusts Which Distribute Current Income Only
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 643, 665, 671, 685, 1312 of this title.
-
 
 ---
 

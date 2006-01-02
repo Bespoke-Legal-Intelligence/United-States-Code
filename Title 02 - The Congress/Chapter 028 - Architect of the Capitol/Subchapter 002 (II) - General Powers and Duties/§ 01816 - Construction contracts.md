@@ -2,7 +2,7 @@
 
 #### (a) Liquidated damages
 
-The Architect of the Capitol may not enter into or administer any construction contract with a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) of this section in the event that completion of the project is delayed because of the contractor.
+The Architect of the Capitol may not enter into or administer any construction contractwith a value greater than $50,000 unless the contract includes a provision requiring the payment of liquidated damages in the amount determined under subsection (b) of this section in the event that completion of the project is delayed because of the contractor.
 
 #### (b) Amount of payment
 

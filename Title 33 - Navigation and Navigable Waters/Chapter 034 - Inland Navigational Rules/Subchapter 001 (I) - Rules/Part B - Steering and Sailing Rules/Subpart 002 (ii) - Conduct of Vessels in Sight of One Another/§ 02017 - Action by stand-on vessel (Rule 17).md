@@ -8,7 +8,7 @@
 
 #### (b) Action by stand-on vessel allowed when action by give-way vessel alone cannot avoid collision
 
-When, from any cause, the vessel required to keep her course and speed finds herself so closethat collision cannot be avoided by the action of the give-way vessel alone, she shall take such action as will best aid to avoid collision.
+When, from any cause, the vessel required to keep her course and speed finds herself so close that collision cannot be avoided by the action of the give-way vessel alone, she shall take such action as will best aid to avoid collision.
 
 #### (c) Crossing situations
 

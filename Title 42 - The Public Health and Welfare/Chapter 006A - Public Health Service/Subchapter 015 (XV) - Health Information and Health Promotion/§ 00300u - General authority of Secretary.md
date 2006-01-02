@@ -18,7 +18,7 @@ The Secretary shall—
 
 &emsp;(4) undertake and support research and demonstrations respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
-&emsp;(5) undertake and support appropriate training in, and undertake and support appropriate training in the operation of programs concerned with, health information and health promotion, preventive health services, and education in the appropriate use of health care;
+&emsp;(5) undertake and support appropriate training in, and undertake and support appropriate training in <sup>1</sup> the operation of programs concerned with, health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
 &emsp;(6) undertake and support, through improved planning and implementation of tested models and evaluation of results, effective and efficient programs respecting health information and health promotion, preventive health services, and education in the appropriate use of health care;
 
@@ -54,7 +54,7 @@ For the purpose of carrying out this section and sections 300u–1 through 300u�
 
 No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
-(July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat.695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
+(July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
 
 #### Codification
 
@@ -122,7 +122,7 @@ Sec. 2. <i>The President's Council on Physical Fitness and Sports.</i>
 
 (a) There is hereby established the President's Council on Physical Fitness and Sports.
 
-(b) The Council shall be composed of up to 20 members appointed by the President. The President may designate one or more members to be Chair or Vice Chair. Each member shall serve for a term of 2 years and may continue to serve after the expiration of that term until a successor is appointed.
+(b) The Council shall be composed of up to 20 members appointed by the President. The President maydesignate one or more members to be Chair or Vice Chair. Each member shall serve for a term of 2 years and may continue to serve after the expiration of that term until a successor is appointed.
 
 Sec. 3. <i>Functions of the Council.</i>
 
@@ -182,7 +182,9 @@ Term of the President's Council on Physical Fitness and Sports extended until Se
 
 Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 13266. Activities To Promote Personal Fitness
 
@@ -198,7 +200,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (c) Individuals of all ages, locations, and levels of personal fitness can benefit from some level of appropriate physical activity, dietary guidance, preventive health screening, and making healthy choices.
 
-(d) While personal fitness is an individual responsibility, the Federal Government may, within the authorityand funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
+(d) While personal fitness is an individual responsibility, the Federal Government may, within the authority and funds otherwise available, expand the opportunities for individuals to empower themselves to improve their general health. Such opportunities may include improving the flow of information about personal fitness, assisting in the utilization of that information, increasing the accessibility of resources for physical activity, and reducing barriers to achieving good personal fitness.
 
 Sec. 2. <i>Agency Responsibilities in Promoting Personal Fitness.</i>
 
@@ -258,7 +260,7 @@ Sec. 3. <i>Responsibilities of the National Health Information Technology Coordi
 
 &emsp;(i) Serve as the Secretary's principal advisor on the development, application, and use of health information technology, and direct the Department of Health and Human Service's health information technology programs;
 
-&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplicationof efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
+&emsp;(ii) Ensure that health information technology policy and programs of the Department of Health and Human Services (HHS) are coordinated with those of relevant executive branch agencies (including Federal commissions) with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes activities primarily within the areas of its greatest expertise and technical capability;
 
 &emsp;(iii) To the extent permitted by law, coordinate outreach and consultation by the relevant executive branch agencies (including Federal commissions) with public and private parties of interest, including consumers, providers, payers, and administrators; and
 
@@ -275,4 +277,6 @@ Sec. 5. <i>Administration and Judicial Review</i>. (a) The actions directed by t
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity against the United States, its agencies, its entities or instrumentalities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original.</i>
 

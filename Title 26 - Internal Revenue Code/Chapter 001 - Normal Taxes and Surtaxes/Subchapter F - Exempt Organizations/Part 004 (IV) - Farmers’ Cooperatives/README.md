@@ -13,10 +13,6 @@
 
 1962—Pub. L. 87–834, §17(b)(5), Oct. 16, 1962, 76 Stat. 1051, struck out item 522 “Tax on farmers’ cooperatives”.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 501 of this title.
-
 
 ---
 

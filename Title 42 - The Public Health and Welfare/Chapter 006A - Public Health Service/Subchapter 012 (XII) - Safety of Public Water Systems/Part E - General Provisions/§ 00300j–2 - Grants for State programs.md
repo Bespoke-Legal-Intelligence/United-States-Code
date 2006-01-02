@@ -4,7 +4,7 @@
 
 (1) From allotments made pursuant to paragraph (4), the Administrator may make grants to States to carry out public water system supervision programs.
 
-(2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. The Administrator maynot approve an application of a State for its first grant under paragraph (1) unless he determines that the State—
+(2) No grant may be made under paragraph (1) unless an application therefor has been submitted to the Administrator in such form and manner as he may require. The Administrator may not approve an application of a State for its first grant under paragraph (1) unless he determines that the State—
 
 &emsp;(A) has established or will establish within one year from the date of such grant a public water system supervision program, and
 
@@ -109,7 +109,7 @@ For purposes of this section:
 
 2004—Subsec. (d)(4). Pub. L. 108–328 substituted “2003 through 2010” for “1997 through 2003”.
 
-1996—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to be appropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
+1996—Subsec. (a)(7). Pub. L. 104–182, §124(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “For purposes of making grants under paragraph (1) there are authorized to beappropriated $15,000,000 for the fiscal year ending June 30, 1976, $25,000,000 for the fiscal year ending June 30, 1977, $35,000,000 for fiscal year 1978, $45,000,000 for fiscal year 1979, $29,450,000 for the fiscal year ending September 30, 1980, $32,000,000 for the fiscal year ending September 30, 1981, and $34,000,000 for the fiscal year ending September 30, 1982. For the purposes of making grants under paragraph (1) there are authorized to be appropriated not more than the following amounts:
 
 “Fiscal year:
 

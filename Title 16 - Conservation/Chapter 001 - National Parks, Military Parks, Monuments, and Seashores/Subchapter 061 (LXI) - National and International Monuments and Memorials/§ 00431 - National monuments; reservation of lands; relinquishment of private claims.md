@@ -20,6 +20,8 @@ Ackia Battleground National Monument, Mississippi \[see section 450r of this tit
 
 Admiralty Island National Monument, Alaska \[Monument established within Tongass National Forest by Pub. L. 96–487, title V, §503(b), Dec. 2, 1980, 94 Stat. 2399; Pub. L. 104–123, Apr. 1, 1996, 110 Stat. 879; Pub. L. 105–60, Oct. 10, 1997, 111 Stat. 1269\].—Proc. No. 4611, Dec. 1, 1978, 93 Stat. 1446.
 
+African Burial Ground National Monument, New York.—Proc. No. 7984, Feb. 27, 2006, 71 F.R. 10793.
+
 Agua Fria National Monument, Arizona.—Proc. No. 7263, Jan. 11, 2000, 65 F.R. 2817.
 
 Andrew Johnson National Monument, Tennessee \[Monument redesignated Andrew Johnson National Historical Site, see section 450<i>o</i> of this title\].—Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955.
@@ -238,7 +240,7 @@ Oregon Caves National Monument, Oregon.—Proc. No. 876, July 12, 1909, 36 Stat.
 
 Organ Pipe Cactus National Monument, Arizona.—Proc. No. 2232, Apr. 13, 1937, 50 Stat. 1827; Pub. L. 108–64, July 29, 2003, 117 Stat. 874.
 
-Papago Saguaro National Monument, Arizona.—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
+Papago Saguaro National Monument, Arizona \[Monument abolished by act Apr. 7, 1930, ch. 107, 46 Stat. 142, as amended by Pub. L. 109–163, div. B, title XXVIII, §2873, Jan. 6, 2006, 119 Stat. 3535\].—Proc. No. 1262, Jan. 31, 1914, 38 Stat. 1991.
 
 Perry's Victory and International Peace Memorial National Monument, Ohio.—Proc. No. 2182, July 6, 1936, 50 Stat. 1734.
 
@@ -372,6 +374,8 @@ Benjamin Franklin National Memorial, Pennsylvania.—Designation of Benjamin Fra
 
 Bosque Redondo Memorial, New Mexico.—Pub. L. 106–511, title II, Nov. 13, 2000, 114 Stat. 2369; Pub. L. 108–204, title I, §101, Mar. 2, 2004, 118 Stat. 543.
 
+Buffalo Soldiers Memorial, Louisiana.—Pub. L. 109–152, Dec. 30, 2005, 119 Stat. 2887.
+
 Chamizal National Memorial, Texas.—Pub. L. 89–479, June 30, 1966, 80 Stat. 232.
 
 Coronado National Memorial, Arizona.—Acts Aug. 18, 1941, ch. 365, §1, 55 Stat. 630, and July 9, 1952, ch. 610, 66 Stat. 510 (16 U.S.C. 450y); Proc. No. 2995, Nov. 5, 1952, 67 Stat.
@@ -435,6 +439,8 @@ United States National Civil Defense Monument, Maryland.—Authorized by Pub. L.
 United States Navy Memorial, District of Columbia.—Pub. L. 96–199, title I, §113, Mar. 5, 1980, 94 Stat. 70.
 
 U.S.S. Indianapolis Memorial, Indiana.—Pub. L. 103–160, div. A, title XI, §1165, Nov. 30, 1993, 107 Stat. 1765.
+
+USS Oklahoma Memorial, Hawaii.—Pub. L. 109–163, div. A, title X, §1017, Jan. 6, 2006, 119 Stat. 3425.
 
 Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 1980, 94 Stat. 827, as amended by Pub. L. 106–214, §1, June 15, 2000, 114 Stat. 335; Pub. L. 108–126, title I, §101, Nov. 17, 2003, 117 Stat. 1348.
 

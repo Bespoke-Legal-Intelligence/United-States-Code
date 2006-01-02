@@ -7,12 +7,17 @@
 | [6151\.](%C2%A7%2006151%20-%20Higher%20retired%20grade%20and%20pay%20for%20members%20who%20serve%20satisfactorily%20under%20temporary%20appointments.md) | Higher retired grade and pay for members who serve satisfactorily under temporary appointments. |
 | [6152\.](%C2%A7%2006152%20-%20Emergency%20shore%20duty%20advance%20of%20funds.md) | Emergency shore duty: advance of funds. |
 | [6153\.](%C2%A7%2006153%20-%20Shore%20patrol%20duty%20payment%20of%20expenses.md) | Shore patrol duty: payment of expenses. |
-| [6154\.](%C2%A7%2006154%20-%20Mileage%20books%20commutation%20tickets.md) | Mileage books; commutation tickets. |
+| [6154\.](%C2%A7%2006154%20-%20Mileage%20books%20commutation%20tickets.md) | Mileage books; commutation tickets.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [6155\.](%C2%A7%2006155%20-%20Uniforms%2C%20accouterments%2C%20and%20equipment%20sale%20at%20cost.md) | Uniforms, accouterments, and equipment: sale at cost. |
 | [6156\.](%C2%A7%2006156%20-%20Uniform%20sale%20to%20former%20members%20of%20the%20naval%20service.md) | Uniform: sale to former members of the naval service. |
 | \[6157 to 6159. Repealed.\] |  |
 | [6160\.](%C2%A7%2006160%20-%20Pension%20to%20persons%20serving%20ten%20years.md) | Pension to persons serving ten years. |
-| [6161\.](%C2%A7%2006161%20-%20Remission%20of%20indebtedness%20of%20enlisted%20members%20upon%20discharge.md) | Remission of indebtedness of enlisted members upon discharge. |
+| [6161\.](%C2%A7%2006161%20-%20Settlement%20of%20accounts%20remission%20or%20cancellation%20of%20indebtedness%20of%20members.md) | Remission of indebtedness of enlisted members discharge.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,7 +27,13 @@ I741962 Amendment
 
 See explanation of section 111(b) \[set out as 1962 Amendment in Historical and Revision Notes under section 2634 of this title\].
 
+#### Amendment of Analysis
+
+<i>For termination of amendment by section 683(a)(3) of Pub. L. 109–163, see Termination Date of 2006 Amendment note set out under section 6161 of this title.</i>
+
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title VI, §683(b)(2), (3), Jan. 6, 2006, 119 Stat. 3323, temporarily struck out “upon” after “members” in item 6161. See Termination Date of 2006 Amendment note set out under section 6161 of this title.
 
 1998—Pub. L. 105–261, div. A, title VI, §644(b)(2), Oct. 17, 1998, 112 Stat. 2049, added item 6141.
 
@@ -46,6 +57,8 @@ See explanation of section 111(b) \[set out as 1962 Amendment in Historical and 
 
 1957—Pub. L. 85–56, title XXII, §2201(31)(D), June 17, 1957, 71 Stat. 162, eff. Jan. 1, 1958, added items 6159 and 6160.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -66,4 +79,4 @@ See explanation of section 111(b) \[set out as 1962 Amendment in Historical and 
 - [&sect; 06158 - Repealed. Pub. L. 90&#8211;235, &sect;7(b)(1), Jan. 2, 1968, 81 Stat. 763](%C2%A7%2006158%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A77%28b%29%281%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20763.md)
 - [&sect; 06159 - Repealed. Pub. L. 91&#8211;482, &sect;1(a), Oct. 21, 1970, 84 Stat. 1082](%C2%A7%2006159%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93482%2C%20%C2%A71%28a%29%2C%20Oct.%2021%2C%201970%2C%2084%20Stat.%201082.md)
 - [&sect; 06160 - Pension to persons serving ten years](%C2%A7%2006160%20-%20Pension%20to%20persons%20serving%20ten%20years.md)
-- [&sect; 06161 - Remission of indebtedness of enlisted members upon discharge](%C2%A7%2006161%20-%20Remission%20of%20indebtedness%20of%20enlisted%20members%20upon%20discharge.md)
+- [&sect; 06161 - Settlement of accounts remission or cancellation of indebtedness of members](%C2%A7%2006161%20-%20Settlement%20of%20accounts%20remission%20or%20cancellation%20of%20indebtedness%20of%20members.md)

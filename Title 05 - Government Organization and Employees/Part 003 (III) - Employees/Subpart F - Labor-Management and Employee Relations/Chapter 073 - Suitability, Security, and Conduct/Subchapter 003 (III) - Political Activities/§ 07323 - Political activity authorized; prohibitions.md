@@ -22,7 +22,7 @@
 
 (b)(1) An employee of the Federal Election Commission (except one appointed by the President, by and with the advice and consent of the Senate), may not request or receive from, or give to, an employee, a Member of Congress, or an officer of a uniformed service a political contribution.
 
-(2)(A) No employee described under subparagraph (B) (except one appointed by the President, by and with the advice and consent of the Senate), may take an active part in political management or political campaigns.
+(2)(A) No employee described under subparagraph (B) (except one appointed by the President, by and with the advice and consent of theSenate), may take an active part in political management or political campaigns.
 
 (B) The provisions of subparagraph (A) shall apply to—
 
@@ -64,7 +64,7 @@
 
 (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–136, div. A, title IX, §921(g),Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–458, title I, §1079(a), Dec. 17, 2004, 118 Stat. 3695.)
+(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570; Pub. L. 108–458, title I, §1079(a), Dec. 17, 2004, 118 Stat. 3695.)
 
 #### References in Text
 
@@ -106,5 +106,5 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each Federal agency and each museum which has possession or control over holdings or collections of Native American human remains and associated funerary objects shall compile an inventory of such items and, to the extent possible based on information possessed by such museum or Federal agency, identify the geographical and cultural affiliation of such item.<sup>1</sup>
+Each Federal agency and each museum which has possession or control over holdings or collections of Native American human remains and associated funerary objects shall compile an inventory of such items and, to the extent possible based on information possessed by such museumor Federal agency, identify the geographical and cultural affiliation of such item.<sup>1</sup>
 
 #### (b) Requirements
 

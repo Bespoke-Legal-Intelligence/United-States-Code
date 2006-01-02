@@ -10,7 +10,7 @@ Fellowships under this chapter shall be known as “Fascell Fellowships”.
 
 #### (c) Purpose of fellowships
 
-Fellowships under this chapter shall be provided in order to allow the recipient (hereafter in this chapter referred to as a “Fellow”) toserve on a short-term basis at a United States diplomatic or consular mission abroad in order to obtain first hand exposure to that country, including (as appropriate) independent study in that country's area studies or languages.
+Fellowships under this chapter shall be provided in order to allow the recipient (hereafter in this chapter referred to as a “Fellow”) to serve on a short-term basis at a United States diplomatic or consular mission abroad in order to obtain first hand exposure to that country, including (as appropriate) independent study in that country's area studies or languages.
 
 #### (d) Individuals who may receive a fellowship
 

@@ -22,7 +22,7 @@ Except as provided in subsection (c) of this section, no such application—
 
 &emsp;&emsp;(E) aeronautical fixed stations, and
 
-&emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or commoncarrier services, as the Commission shall by rule prescribe,
+&emsp;&emsp;(F) such other stations or classes of stations, not in the broadcasting or common carrier services, as the Commission shall by rule prescribe,
 
 > shall be granted by the Commission earlier than thirty days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereof.
 
@@ -58,11 +58,11 @@ Subsection (b) of this section shall not apply—
 
 #### (e) Hearings; intervention; evidence; burden of proof
 
-If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining and shall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
+If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining andshall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
-When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiringtemporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
+When an application subject to subsection (b) of this section has been filed, the Commission, notwithstanding the requirements of such subsection, may, if the grant of such application is otherwise authorized by law and if it finds that there are extraordinary circumstances requiring temporary operations in the public interest and that delay in the institution of such temporary operations would seriously prejudice the public interest, grant a temporary authorization, accompanied by a statement of its reasons therefor, to permit such temporary operations for a period not exceeding 180 days, and upon making like findings may extend such temporary authorization for additional periods not to exceed 180 days. When any such grant of a temporary authorization is made, the Commission shall give expeditious treatment to any timely filed petition to deny such application and to any petition for rehearing of such grant filed under section 405 of this title.
 
 #### (g) Classification of applications
 
@@ -96,7 +96,7 @@ General authority.—Except as provided in paragraph (5), if there is more than 
 
 &emsp;(ii) The term “minority group” includes Blacks, Hispanics, American Indians, Alaska Natives, Asians, and Pacific Islanders.
 
-(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use by the Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
+(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use bythe Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
 
 (B) The Commission shall have authority to amend such rules from time to time to the extent necessary to carry out the provisions of this subsection. Any such amendment shall be made after notice and opportunity for hearing.
 
@@ -112,7 +112,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (1) General authority
 
-&emsp;If, consistent with the obligations described in paragraph (6)(E), mutually exclusive applications are accepted for any initial license or construction permit, then, except as provided in paragraph (2), the Commission shall grantthe license or permit to a qualified applicant through a system of competitive bidding that meets the requirements of this subsection.
+&emsp;If, consistent with the obligations described in paragraph (6)(E), mutually exclusive applications are accepted for any initial license or construction permit, then, except as provided in paragraph (2), the Commission shall grant the license or permit to a qualified applicant through a system of competitive bidding that meets the requirements of this subsection.
 
 #### (2) Exemptions
 
@@ -154,7 +154,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;(A) consider alternative payment schedules and methods of calculation, including lump sums or guaranteed installment payments, with or without royalty payments, or other schedules or methods that promote the objectives described in paragraph (3)(B), and combinations of such schedules and methods;
 
-&emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penalties for performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
+&emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penaltiesfor performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
 
 &emsp;&emsp;(C) consistent with the public interest, convenience, and necessity, the purposes of this chapter, and the characteristics of the proposed service, prescribe area designations and bandwidth assignments that promote (i) an equitable distribution of licenses and services among geographic areas, (ii) economic opportunity for a wide variety of applicants, including small businesses, rural telephone companies, and businesses owned by members of minority groups and women, and (iii) investment in and rapid deployment of new technologies and services;
 
@@ -350,7 +350,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (F) Expiration
 
-&emsp;&emsp;The authority of the Commission to provide preferential treatment in licensing procedures (by precluding the filing of mutually exclusive applications) to persons who make significant contributions to the developmentof a new service or to the development of new technologies that substantially enhance an existing service shall expire on August 5, 1997.
+&emsp;&emsp;The authority of the Commission to provide preferential treatment in licensing procedures (by precluding the filing of mutually exclusive applications) to persons who make significant contributions to the development of a new service or to the development of new technologies that substantially enhance an existing service shall expire on August 5, 1997.
 
 #### (G) Effective date
 
@@ -482,7 +482,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (4) Competitor consideration prohibited
 
-&emsp;In making the determinations specified in paragraph (1) or (2), the Commission shall notconsider whether the public interest, convenience, and necessity might be served by the grant of a license to a person other than the renewal applicant.
+&emsp;In making the determinations specified in paragraph (1) or (2), the Commission shall not consider whether the public interest, convenience, and necessity might be served by the grant of a license to a person other than the renewal applicant.
 
 #### (<i>l</i>) Applicability of competitive bidding to pending comparative licensing cases
 
@@ -560,7 +560,7 @@ Subsec. (<i>l</i>). Pub. L. 105–33, §3002(a)(3), added subsec. (<i>l</i>).
 
 1996—Subsec. (b)(2)(A) to (G). Pub. L. 104–104, §403(j), redesignated subpars. (B) to (G) as (A) to (F), respectively, and struck out former subpar. (A) which read as follows: “fixed point-to-point microwave stations (exclusive of control and relay stations used as integral parts of mobile radio systems),”.
 
-Subsec. (d). Pub. L. 104–104, §204(a)(2), inserted “(or subsection (k) of this section in the case of renewal ofany broadcast station license)” after “with subsection (a) of this section” wherever appearing.
+Subsec. (d). Pub. L. 104–104, §204(a)(2), inserted “(or subsection (k) of this section in the case of renewal of any broadcast station license)” after “with subsection (a) of this section” wherever appearing.
 
 Subsec. (j)(8)(B). Pub. L. 104–104, §710(c), inserted at end “Such offsetting collections are authorized to remain available until expended.”
 
@@ -626,7 +626,7 @@ Section 4(d)(1)–(3) of Pub. L. 86–752 provided that:
 
 “(1) Subsections (a) and (b) of this section \[amending this section and section 319 of this title\] shall take effect ninety days after the date of the enactment of this Act \[Sept. 13, 1960\].
 
-“(2) Section 309 of the Communications Act of 1934 \[this section\] (as amended by subsection (a) of this section) shall apply to any application to which section 308 of such Act \[section 308 of this title\] applies (A) which is filed on or after the effective date of subsection (a) of this section, (B) which is filed before such effective date, but is substantially amended on or after such effective date, or (C) which is filed before such effective date and is not substantially amended on or after such effective date, but with respect to which the Commission by rule provides reasonable opportunity to file petitions to deny in accordance with section 309 ofsuch Act (as amended by subsection (a) of this section) \[this section\].
+“(2) Section 309 of the Communications Act of 1934 \[this section\] (as amended by subsection (a) of this section) shall apply to any application to which section 308 of such Act \[section 308 of this title\] applies (A) which is filed on or after the effective date of subsection (a) of this section, (B) which is filed before such effective date, but is substantially amended on or after such effective date, or (C) which is filed before such effective date and is not substantially amended on or after such effective date, but with respect to which the Commission by rule provides reasonable opportunity to file petitions to deny in accordance with section 309 of such Act (as amended by subsection (a) of this section) \[this section\].
 
 “(3) Section 309 of the Communications Act of 1934 \[this section\], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act \[section 308 of this title\] apply which are filed before such effective date and not substantially amended on or after such effective date and with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection.”
 
@@ -664,7 +664,7 @@ Pub. L. 105–33, title III, §3007, Aug. 5, 1997, 111 Stat. 269, which provided
 
 #### Administrative Procedures for Spectrum Auctions
 
-Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
+Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no applicationfor an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
 
 #### Deadlines for Commission Action Regarding Competitive Bidding
 
@@ -684,7 +684,7 @@ PCS orders and licensing.—The Commission shall—
 
 #### Special Rule Regarding Subsection (i) Licenses and Permits
 
-Section 6002(e) of Pub. L. 103–66, which provided for exceptions to ban on Federal Communications Commission issuance of licenses and permits under section309(i) of this title after Aug. 10, 1993, was repealed by Pub. L. 105–33, title III, §3002(a)(4), Aug. 5, 1997, 111 Stat. 260.
+Section 6002(e) of Pub. L. 103–66, which provided for exceptions to ban on Federal Communications Commission issuance of licenses and permits under section 309(i) of this title after Aug. 10, 1993, was repealed by Pub. L. 105–33, title III, §3002(a)(4), Aug. 5, 1997, 111 Stat. 260.
 
 #### Authority To Use the System of Random Selection With Respect to Applications for Initial Licenses and Construction Permits
 

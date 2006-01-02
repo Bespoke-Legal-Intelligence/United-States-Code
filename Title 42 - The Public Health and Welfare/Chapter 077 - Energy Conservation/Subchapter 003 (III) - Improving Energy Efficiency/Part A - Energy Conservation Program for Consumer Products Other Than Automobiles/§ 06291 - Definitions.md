@@ -44,7 +44,7 @@ For purposes of this part:
 
 &emsp;(15)(A) The term “private labeler” means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
-&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark suchproduct (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
+&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark such product (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
 &emsp;(16) The terms “to distribute in commerce” and “distribution in commerce” mean to sell in commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
 
@@ -56,7 +56,7 @@ For purposes of this part:
 
 &emsp;(18) The term “Commission” means the Federal Trade Commission.
 
-&emsp;(19) The term “AV” is the adjusted volume for refrigerators, refrigerator-freezers, and freezers, as defined in the applicable test procedure prescribed under section 6293 of this title.
+&emsp;(19) The term “AV” is the adjusted volume for refrigerators, refrigerator-freezers, andfreezers, as defined in the applicable test procedure prescribed under section 6293 of this title.
 
 &emsp;(20) The term “annual fuel utilization efficiency” means the efficiency descriptor for furnaces and boilers, determined using test procedures prescribed under section 6293 of this title and based on the assumption that all—
 
@@ -122,7 +122,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
-&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy fromone temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
+&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy from one temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
 
 &emsp;(28) The term “weatherized warm air furnace or boiler” means a furnace or boiler designed for installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
 
@@ -130,13 +130,13 @@ For purposes of this part:
 
 &emsp;(B) The term “ANSI standard” means a standard developed by a committee accredited by the American National Standards Institute.
 
-&emsp;(C) The term “ballast efficacy factor” means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
+&emsp;(C) The term “ballast efficacy factor” means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSIstandard C82.2–1984, or as may be prescribed by the Secretary.
 
-&emsp;(D)(i) The term “F40T12 lamp” means a nominal 40 watt tubular fluorescent lamp which is 48 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.1–1978(R1984).
+&emsp;(D)(i) The term “F40T12 lamp” means a nominal 40 watt tubular fluorescent lamp which is 48 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1010–1).
 
-&emsp;(ii) The term “F96T12 lamp” means a nominal 75 watt tubular fluorescent lamp which is 96 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.3–1978(R1984).
+&emsp;(ii) The term “F96T12 lamp” means a nominal 75 watt tubular fluorescent lamp which is 96 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–3007–1).
 
-&emsp;(iii) The term “F96T12HO lamp” means a nominal 110 watt tubular fluorescent lamp which is 96 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.1–1978(R1984).
+&emsp;(iii) The term “F96T12HO lamp” means a nominal 110 watt tubular fluorescent lamp which is 96 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1019–1).
 
 &emsp;(E) The term “input current” means the root-mean-square (RMS) current in amperes delivered to a fluorescent lamp ballast.
 
@@ -153,6 +153,22 @@ For purposes of this part:
 &emsp;(K) The term “relative light output” means the light output delivered through the use of a ballast divided by the light output delivered through the use of a reference ballast, expressed as a percent, as determined in accordance with the test procedures specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
 &emsp;(L) The term “residential building” means a structure or portion of a structure which provides facilities or shelter for human residency, except that such term does not include any multifamily residential structure of more than three stories above grade.
+
+&emsp;(M) The term “F34T12 lamp” (also known as a “F40T12/ES lamp”) means a nominal 34 watt tubular fluorescent lamp that is 48 inches in length and 11/2 inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1006–1).
+
+&emsp;(N) The term “F96T12/ES lamp” means a nominal 60 watt tubular fluorescent lamp that is 96 inches in length and 11/2 inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–3006–1).
+
+&emsp;(O) The term “F96T12HO/ES lamp” means a nominal 95 watt tubular fluorescent lamp that is 96 inches in length and 11/2 inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1017–1).
+
+&emsp;(P) The term “replacement ballast” means a ballast that—
+
+&emsp;&emsp;(i) is designed for use to replace an existing ballast in a previously installed luminaire;
+
+&emsp;&emsp;(ii) is marked “FOR REPLACEMENT USE ONLY”;
+
+&emsp;&emsp;(iii) is shipped by the manufacturer in packages containing not more than 10 ballasts; and
+
+&emsp;&emsp;(iv) has output leads that when fully extended are a total length that is less than the length of the lamp with which the ballast is intended to be operated.
 
 &emsp;(30)(A) Except as provided in subparagraph (E), the term “fluorescent lamp” means a low pressure mercury electric-discharge source in which a fluorescing coating transforms some of the ultraviolet energy generated by the mercury discharge into light, including only the following:
 
@@ -182,7 +198,7 @@ For purposes of this part:
 
 &emsp;&emsp;(viii) Lamps with a color rendering index of 82 or greater.
 
-&emsp;(C) Except as provided in subparagraph (E), the term “incandescent lamp” means a lamp in which light is produced by a filament heated to incandescence by an electric current, including only the following:
+&emsp;(C) Except as provided in subparagraph (E), the term “incandescent lamp” means a lampin which light is produced by a filament heated to incandescence by an electric current, including only the following:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
@@ -258,7 +274,21 @@ For purposes of this part:
 
 &emsp;(R) The term “tungsten-halogen lamp” means a gas-filled tungsten filament incandescent lamp containing a certain proportion of halogens in an inert gas.
 
-&emsp;(S) The term “medium base compact fluorescent lamp” means an integrally ballasted fluorescent lamp with a medium screw base and a rated input voltage of 115 to 130 volts and which is designed as a direct replacement for a general service incandescent lamp.
+&emsp;(S)(i) The term “medium base compact fluorescent lamp” means an integrally ballasted fluorescent lamp with a medium screw base and a rated input voltage of 115 to 130 volts and which is designed as a direct replacement for a general service incandescent lamp.
+
+&emsp;(ii) The term “medium base compact fluorescent lamp” does not include—
+
+&emsp;&emsp;(I) any lamp that is—
+
+&emsp;&emsp;&emsp;(aa) specifically designed to be used for special purpose applications; and
+
+&emsp;&emsp;&emsp;(bb) unlikely to be used in general purpose applications, such as the applications described in subparagraph (D); or
+
+&emsp;&emsp;(II) any lamp not described in subparagraph (D) that is excluded by the Secretary, by rule, because the lamp is—
+
+&emsp;&emsp;&emsp;(aa) designed for special applications; and
+
+&emsp;&emsp;&emsp;(bb) unlikely to be used in general purpose applications.
 
 &emsp;(31)(A) The term “water use” means the quantity of water flowing through a showerhead, faucet, water closet, or urinal at point of use, determined in accordance with test procedures under section 6293 of this title.
 
@@ -270,19 +300,157 @@ For purposes of this part:
 
 &emsp;(E) The term “faucet” means a lavatory faucet, kitchen faucet, metering faucet, or replacement aerator for a lavatory or kitchen faucet.
 
-&emsp;(F) The term “water closet” has the meaning given such term in ASME A112.19.2M–1990,except such term does not include fixtures designed for installation in prisons.
+&emsp;(F) The term “water closet” has the meaning given such term in ASME A112.19.2M–1990, except such term does not include fixtures designed for installation in prisons.
 
 &emsp;(G) The term “urinal” has the meaning given such term in ASME A112.19.2M–1990, except such term does not include fixtures designed for installation in prisons.
 
 &emsp;(H) The terms “blowout”, “flushometer tank”, “low consumption”, and “flushometer valve” have the meaning given such terms in ASME A112.19.2M–1990.
 
-(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478.)
+&emsp;(32) The term “battery charger” means a device that charges batteries for consumer products, including battery chargers embedded in other consumer products.
+
+&emsp;(33)(A) The term “commercial prerinse spray valve” means a handheld device designed and marketed for use with commercial dishwashing and ware washing equipment that sprays water on dishes, flatware, and other food service items for the purpose of removing food residue before cleaning the items.
+
+&emsp;(B) The Secretary may modify the definition of “commercial prerinse spray valve” by rule—
+
+&emsp;&emsp;(i) to include products—
+
+&emsp;&emsp;&emsp;(I) that are extensively used in conjunction with commercial dishwashing and ware washing equipment;
+
+&emsp;&emsp;&emsp;(II) the application of standards to which would result in significant energy savings; and
+
+&emsp;&emsp;&emsp;(III) the application of standards to which would meet the criteria specified in section 6295(<i>o</i>)(4) of this title; and
+
+&emsp;&emsp;(ii) to exclude products—
+
+&emsp;&emsp;&emsp;(I) that are used for special food service applications;
+
+&emsp;&emsp;&emsp;(II) that are unlikely to be widely used in conjunction with commercial dishwashing and ware washing equipment; and
+
+&emsp;&emsp;&emsp;(III) the application of standards to which would not result in significant energy savings.
+
+&emsp;(34) The term “dehumidifier” means a self-contained, electrically operated, and mechanically encased assembly consisting of—
+
+&emsp;&emsp;(A) a refrigerated surface (evaporator) that condenses moisture from the atmosphere;
+
+&emsp;&emsp;(B) a refrigerating system, including an electric motor;
+
+&emsp;&emsp;(C) an air-circulating fan; and
+
+&emsp;&emsp;(D) means for collecting or disposing of the condensate.
+
+&emsp;(35)(A) The term “distribution transformer” means a transformer that—
+
+&emsp;&emsp;(i) has an input voltage of 34.5 kilovolts or less;
+
+&emsp;&emsp;(ii) has an output voltage of 600 volts or less; and
+
+&emsp;&emsp;(iii) is rated for operation at a frequency of 60 Hertz.
+
+&emsp;(B) The term “distribution transformer” does not include—
+
+&emsp;&emsp;(i) a transformer with multiple voltage taps, the highest of which equals at least 20 percent more than the lowest;
+
+&emsp;&emsp;(ii) a transformer that is designed to be used in a special purpose application and is unlikely to be used in general purpose applications, such as a drive transformer, rectifier transformer, auto-transformer, Uninterruptible Power System transformer, impedance transformer, regulating transformer, sealed and nonventilating transformer, machine tool transformer, welding transformer, grounding transformer, or testing transformer; or
+
+&emsp;&emsp;(iii) any transformer not listed in clause (ii) that is excluded by the Secretary by rule because—
+
+&emsp;&emsp;&emsp;(I) the transformer is designed for a special application;
+
+&emsp;&emsp;&emsp;(II) the transformer is unlikely to be used in general purpose applications; and
+
+&emsp;&emsp;&emsp;(III) the application of standards to the transformer would not result in significant energy savings.
+
+&emsp;(36) The term “external power supply” means an external power supply circuit that is used to convert household electric current into DC current or lower-voltage AC current to operate a consumer product.
+
+&emsp;(37) The term “illuminated exit sign” means a sign that—
+
+&emsp;&emsp;(A) is designed to be permanently fixed in place to identify an exit; and
+
+&emsp;&emsp;(B) consists of an electrically powered integral light source that—
+
+&emsp;&emsp;&emsp;(i) illuminates the legend “EXIT” and any directional indicators; and
+
+&emsp;&emsp;&emsp;(ii) provides contrast between the legend, any directional indicators, and the background.
+
+&emsp;(38) The term “low-voltage dry-type distribution transformer” means a distribution transformer that—
+
+&emsp;&emsp;(A) has an input voltage of 600 volts or less;
+
+&emsp;&emsp;(B) is air-cooled; and
+
+&emsp;&emsp;(C) does not use oil as a coolant.
+
+&emsp;(39) The term “pedestrian module” means a light signal used to convey movement information to pedestrians.
+
+&emsp;(40) The term “refrigerated bottled or canned beverage vending machine” means acommercial refrigerator that cools bottled or canned beverages and dispenses the bottled or canned beverages on payment.
+
+&emsp;(41) The term “standby mode” means the lowest power consumption mode, as established on an individual product basis by the Secretary, that—
+
+&emsp;&emsp;(A) cannot be switched off or influenced by the user; and
+
+&emsp;&emsp;(B) may persist for an indefinite time when an appliance is—
+
+&emsp;&emsp;&emsp;(i) connected to the main electricity supply; and
+
+&emsp;&emsp;&emsp;(ii) used in accordance with the instructions of the manufacturer.
+
+&emsp;(42) The term “torchiere” means a portable electric lamp with a reflector bowl that directs light upward to give indirect illumination.
+
+&emsp;(43) The term “traffic signal module” means a standard 8-inch (200mm) or 12-inch (300mm) traffic signal indication that—
+
+&emsp;&emsp;(A) consists of a light source, a lens, and all other parts necessary for operation; and
+
+&emsp;&emsp;(B) communicates movement messages to drivers through red, amber, and green colors.
+
+&emsp;(44) The term “transformer” means a device consisting of 2 or more coils of insulated wire that transfers alternating current by electromagnetic induction from 1 coil to another to change the original voltage or current value.
+
+&emsp;(45)(A) The term “unit heater” means a self-contained fan-type heater designed to be installed within the heated space.
+
+&emsp;(B) The term “unit heater” does not include a warm air furnace.
+
+&emsp;(46)(A) The term “high intensity discharge lamp” means an electric-discharge lamp in which—
+
+&emsp;&emsp;(i) the light-producing arc is stabilized by bulb wall temperature; and
+
+&emsp;&emsp;(ii) the arc tube has a bulb wall loading in excess of 3 Watts/cm<sup>2</sup>.
+
+&emsp;(B) The term “high intensity discharge lamp” includes mercury vapor, metal halide, and high-pressure sodium lamps described in subparagraph (A).
+
+&emsp;(47)(A) The term “mercury vapor lamp” means a high intensity discharge lamp in which the major portion of the light is produced by radiation from mercury operating at a partial pressure in excess of 100,000 Pa (approximately 1 atm).
+
+&emsp;(B) The term “mercury vapor lamp” includes clear, phosphor-coated, and self-ballasted lamps described in subparagraph (A).
+
+&emsp;(48) The term “mercury vapor lamp ballast” means a device that is designed and marketed to start and operate mercury vapor lamps by providing the necessary voltage and current.
+
+&emsp;(49) The term “ceiling fan” means a nonportable device that is suspended from a ceiling for circulating air via the rotation of fan blades.
+
+&emsp;(50) The term “ceiling fan light kit” means equipment designed to provide light from a ceiling fan that can be—
+
+&emsp;&emsp;(A) integral, such that the equipment is attached to the ceiling fan prior to the time of retail sale; or
+
+&emsp;&emsp;(B) attachable, such that at the time of retail sale the equipment is not physically attached to the ceiling fan, but may be included inside the ceiling fan at the time of sale or sold separately for subsequent attachment to the fan.
+
+&emsp;(51) The term “medium screw base” means an Edison screw base identified with the prefix E–26 in the “American National Standard for Electric Lamp Bases”, ANSI/IEC C81.61–2003, published by the American National Standards Institute.
+
+(Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(3), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+2005—Par. (29)(D)(i). Pub. L. 109–58, §135(a)(1)(A)(i), substituted “C78.81–2003 (Data Sheet 7881–ANSI–1010–1)” for “C78.1–1978(R1984)”.
+
+Par. (29)(D)(ii). Pub. L. 109–58, §135(a)(1)(A)(ii), which directed amendment of cl. (ii) by substituting “C78.81–2003 (Data Sheet 7881–ANSI–3007–1)” for “C78.1–1978(R1984)”, was executed by making the substitution for “C78.3–1978(R1984)” to reflect the probable intent of Congress.
+
+Par. (29)(D)(iii). Pub. L. 109–58, §135(a)(1)(A)(iii), substituted “C78.81–2003 (Data Sheet 7881–ANSI–1019–1)” for “C78.1–1978(R1984)”.
+
+Par. (29)(M) to (P). Pub. L. 109–58, §135(a)(1)(B), added subpars. (M) to (P).
+
+Par. (30)(S). Pub. L. 109–58, §135(a)(2), designated existing provisions as cl. (i) and added cl. (ii).
+
+Pars. (32) to (51). Pub. L. 109–58, §135(a)(3), added pars. (32) to (51).
 
 1998—Par. (1). Pub. L. 105–388 substituted “section 32901(a)(3) of title 49” for “section 501(1) of the Motor Vehicle Information and Cost Savings Act” and struck out second period at end.
 

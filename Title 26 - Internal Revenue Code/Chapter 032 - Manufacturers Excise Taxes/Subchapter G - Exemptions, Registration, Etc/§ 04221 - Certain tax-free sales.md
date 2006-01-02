@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121, 4081, or 4091) on the sale by the manufacturer (or under subchapter A or C of chapter 31 on the first retail sale) of an article—
+Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter A or C of chapter 31 on the first retail sale) of an article—
 
 &emsp;(1) for use by the purchaser for further manufacture, or for resale by the purchaser to a second purchaser for use by such second purchaser in further manufacture,
 
@@ -14,7 +14,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under thi
 
 &emsp;(5) to a nonprofit educational organization for its exclusive use,
 
-> but only if such exportation or use is to occur before any other use. Paragraphs (4) and (5) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,<sup>1</sup> or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2005. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.
+> but only if such exportation or use is to occur before any other use. Paragraphs (4) and (5) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,<sup>1</sup> or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2011. In the case of the tax imposed by section 4131, paragraphs (3), (4), and\(5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.
 
 #### (b) Proof of resale for further manufacture; proof of export
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (3) Supplies for vessels or aircraft
 
-&emsp;The term “supplies for vessels or aircraft” means fuel supplies, ships’ stores, sea stores, or legitimate equipment on vessels of war of the United States or of any foreign nation, vessels employed in the fisheries or in the whaling business, or vessels actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions. For purposes of the preceding sentence, the term “vessels” includes civil aircraft employed in foreign trade or trade between the United States and any of its possessions, and the term “vessels of war of the United States or of any foreign nation” includes aircraftowned by the United States or by any foreign nation and constituting a part of the armed forces thereof.
+&emsp;The term “supplies for vessels or aircraft” means fuel supplies, ships’ stores, sea stores, or legitimate equipment on vessels of war of the United States or of any foreign nation, vessels employed in the fisheries or in the whaling business, or vessels actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions. For purposes of the preceding sentence, the term “vessels” includes civil aircraft employed in foreign trade or trade between the United States and any of its possessions, and the term “vessels of war of the United States or of any foreign nation” includes aircraft owned by the United States or by any foreign nation and constituting a part of the armed forces thereof.
 
 #### (4) State or local government
 
@@ -112,13 +112,17 @@ For purposes of this section—
 
 &emsp;Under regulations prescribed by the Secretary, the tax imposed by section 4071 shall not apply in the case of tires sold for use by the purchaser on or in connection with a qualified bus.
 
-(Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1282; amended Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–344, §2(b), Sept. 21, 1959, 73 Stat. 617; Pub. L. 86–418, §1, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–624, §18(e), July 12, 1960, 74 Stat. 416; Pub. L. 87–61, title II, §205(a), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II,§208(d), title VIII, §801(c), (d)(1), June 21, 1965, 79 Stat. 141, 158; Pub. L. 91–172, title I, §101(j)(26), Dec. 30, 1969, 83 Stat. 529; Pub. L. 92–178, title IV, §401(a)(3)(A), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(2), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–600, title VII, §701(ff)(2)(A), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 95–618, title II, §§201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, 92 Stat. 3183, 3189, 3191, 3192; Pub. L. 96–222, title I, §108(c)(5), Apr. 1, 1980, 94 Stat. 227; Pub. L. 97–424, title V, §§515(b)(1), 516(b)(2), Jan. 6, 1983, 96 Stat. 2181, 2183; Pub. L. 98–369, div. A, title VII, §735(c)(8), July 18, 1984, 98 Stat. 983; Pub. L. 99–499, title V, §521(d)(4), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title XVII, §1703(c)(2)(C), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–17, title V, §502(b)(4), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title IX, §9201(b)(1), title X, §10502(d)(4), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 101–239, title VII, §7841(d)(17), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §§11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–427, 1388–444; Pub. L. 102–240, title VIII, §8002(b)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §13161(b)(1), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–178, title IX, §9002(b)(1), June 9, 1998, 112 Stat. 500; Pub. L. 105–206, title VI, §6023(17), July 22, 1998, 112 Stat. 825.)
+(Added Pub. L. 85–859, title I, §119(a), Sept. 2, 1958, 72 Stat. 1282; amended Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–344, §2(b), Sept. 21, 1959, 73 Stat. 617; Pub. L. 86–418, §1, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–624, §18(e), July 12, 1960, 74 Stat. 416; Pub. L. 87–61, title II, §205(a), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, §208(d), title VIII, §801(c), (d)(1), June 21, 1965, 79 Stat. 141, 158; Pub. L. 91–172, title I, §101(j)(26), Dec. 30, 1969, 83 Stat. 529; Pub. L. 92–178, title IV, §401(a)(3)(A), Dec. 10, 1971, 85 Stat. 531; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(2), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–600, title VII, §701(ff)(2)(A), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 95–618, title II, §§201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, 92 Stat. 3183, 3189, 3191, 3192; Pub. L. 96–222, title I, §108(c)(5), Apr. 1, 1980, 94 Stat. 227; Pub. L. 97–424, title V, §§515(b)(1), 516(b)(2), Jan. 6, 1983, 96 Stat. 2181, 2183; Pub. L. 98–369, div. A, title VII, §735(c)(8), July 18, 1984, 98 Stat. 983; Pub. L. 99–499, title V, §521(d)(4), Oct. 17, 1986, 100 Stat. 1779; Pub. L. 99–514, title XVII, §1703(c)(2)(C), Oct. 22, 1986, 100 Stat. 2776; Pub. L. 100–17, title V, §502(b)(4), Apr. 2, 1987, 101 Stat. 257; Pub. L. 100–203, title IX, §9201(b)(1), title X, §10502(d)(4), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 101–239, title VII, §7841(d)(17), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §§11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, 104 Stat. 1388–427, 1388–444; Pub. L. 102–240, title VIII, §8002(b)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §13161(b)(1), Aug. 10, 1993, 107 Stat. 452; Pub. L. 105–178, title IX, §9002(b)(1), June 9, 1998, 112 Stat. 500; Pub. L. 105–206, title VI, §6023(17), July 22, 1998, 112 Stat. 825; Pub. L. 108–357, title VIII, §853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613; Pub. L. 109–59, title XI, §11101(b)(1), Aug. 10, 2005, 119 Stat. 1944.)
 
 #### Prior Provisions
 
 A prior section 4221, act Aug. 16, 1954, ch. 736, 68A Stat. 495, related to exemption for articles taxable as jewelry, prior to repeal by Pub. L. 85–859, §119(a).
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59 substituted “2011” for “2005” in concluding provisions.
+
+2004—Subsec. (a). Pub. L. 108–357 substituted “or 4081” for “, 4081, or 4091” in introductory provisions.
 
 1998—Subsec. (a). Pub. L. 105–178 substituted “2005” for “1999” in concluding provisions.
 
@@ -210,6 +214,10 @@ Subsec. (e)(4). Pub. L. 86–418 added par. (4).
 
 Subsec. (d)(5). Pub. L. 86–344 included in definition of “nonprofit educational organization” a school operated as an activity of certain organizations exempt from the income tax and having a regular situs, faculty, curriculum and student body.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 effective Jan. 1, 1993, see section 13161(c) of Pub. L. 103–66, set out as a note under section 4001 of this title.
@@ -278,7 +286,7 @@ Amendment by Pub. L. 87–61 applicable only in the case of gasoline sold on or 
 
 Amendment by Pub. L. 86–624 effective on Aug. 21, 1959, see section 18(k) of Pub. L. 86–624, set out as a note under section 3121 of this title.
 
-Section 4 of Pub. L. 86–418 provided that: “The amendments made by this Act \[amending this section and sections 4218, 4223, and 6416 of this title\] shall apply only with respect to bicycle tires and tubes sold by themanufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[Apr. 8, 1960\].”
+Section 4 of Pub. L. 86–418 provided that: “The amendments made by this Act \[amending this section and sections 4218, 4223, and 6416 of this title\] shall apply only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[Apr. 8, 1960\].”
 
 #### Effective Date of 1959 Amendments
 
@@ -289,10 +297,6 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 #### Effective Date
 
 Section effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4041, 4092, 4132, 4222, 4223, 4662, 6416, 6421, 6427 of this title; title 15 section 2052.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

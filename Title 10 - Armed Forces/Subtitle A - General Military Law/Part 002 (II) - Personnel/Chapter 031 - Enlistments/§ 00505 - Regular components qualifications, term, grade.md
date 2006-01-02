@@ -1,10 +1,10 @@
 ### §505. Regular components: qualifications, term, grade
 
-(a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than thirty-five years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
+(a) The Secretary concerned may accept original enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, of qualified, effective, and able-bodied persons who are not less than seventeen years of age nor more than forty-two years of age. However, no person under eighteen years of age may be originally enlisted without the written consent of his parent or guardian, if he has a parent or guardian entitled to his custody and control.
 
 (b) A person is enlisted in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard in the grade or rating prescribed by the Secretary concerned.
 
-(c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than six years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
+(c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than eight years, in the Regular Army,Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
 
 (d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
 
@@ -18,9 +18,13 @@
 
 (4) No enlisted member is entitled to be reenlisted for a period that would expire before the end of the member's current enlistment.
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 93–290, May 24, 1974, 88 Stat. 173; Pub. L. 95–485, title VIII, §820(a), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–94, title X, §1023, Sept. 24, 1983, 97 Stat. 671; Pub. L. 104–201, div. A, title V, §511, Sept. 23, 1996, 110 Stat. 2514.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 93–290, May 24, 1974, 88 Stat. 173; Pub. L. 95–485, title VIII, §820(a), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–94, title X, §1023, Sept. 24, 1983, 97 Stat. 671; Pub. L. 104–201, div. A, title V, §511, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 109–163, div. A, title V, §§543, 544, Jan. 6, 2006, 119 Stat. 3253.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163, §543, in first sentence, substituted “forty-two years of age” for “thirty-five years of age”.
+
+Subsec. (c). Pub. L. 109–163, §544, substituted “eight years” for “six years”.
 
 1996—Subsec. (d). Pub. L. 104–201 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary concerned may accept reenlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for period of at least two but not more than six years. No enlisted member is entitled to be reenlisted for a period that would expire before the end of his current enlistment.”
 
@@ -34,9 +38,5 @@ Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secret
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 513, 519, 802, 16401 of this title.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

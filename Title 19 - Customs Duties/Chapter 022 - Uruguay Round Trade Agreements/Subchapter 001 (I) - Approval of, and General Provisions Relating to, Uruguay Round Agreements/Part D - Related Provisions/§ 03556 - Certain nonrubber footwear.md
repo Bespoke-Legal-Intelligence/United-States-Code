@@ -8,7 +8,7 @@ In the case of nonrubber footwear imported from Brazil—
 
 &emsp;(3) with respect to which entries are unliquidated on December 8, 1994,
 
-> countervailing duties shall be assessed at rates equal to the amount of the cash deposit of the estimated countervailing duties required on such footwear at the time of entry or withdrawal from warehouse for consumption. Interest on underpayments of amounts required to bedeposited as countervailing duties shall be paid in accordance with section 1677g of this title.
+> countervailing duties shall be assessed at rates equal to the amount of the cash deposit of the estimated countervailing duties required on such footwear at the time of entry or withdrawal from warehouse for consumption. Interest on underpayments of amounts required to be deposited as countervailing duties shall be paid in accordance with section 1677g of this title.
 
 (Pub. L. 103–465, title I, §137, Dec. 8, 1994, 108 Stat. 4842.)
 

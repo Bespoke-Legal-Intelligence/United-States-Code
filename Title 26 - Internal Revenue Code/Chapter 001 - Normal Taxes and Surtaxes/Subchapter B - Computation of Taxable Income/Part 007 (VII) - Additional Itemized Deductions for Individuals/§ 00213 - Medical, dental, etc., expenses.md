@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
+There shall be allowed as a deduction the expenses paid during the taxable year, not compensated for by insurance or otherwise, for medical care of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), to the extent that such expenses exceed 7.5 percent of adjusted gross income.
 
 #### (b) Limitation with respect to medicine and drugs
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 &emsp;(2)
 
-Amounts paid for certain lodging away from home treated as paid for medical care.—Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential tomedical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
+Amounts paid for certain lodging away from home treated as paid for medical care.—Amounts paid for lodging (not lavish or extravagant under the circumstances) while away from home primarily for and essential to medical care referred to in paragraph (1)(A) shall be treated as amounts paid for medical care if—
 
 &emsp;&emsp;(A) the medical care referred to in paragraph (1)(A) is provided by a physician in a licensed hospital (or in a medical care facility which is related to, or the equivalent of, a licensed hospital), and
 
@@ -150,23 +150,27 @@ Certain payments to relatives treated as not paid for medical care.—An amount 
 
 &emsp;&emsp;(B) by a corporation or partnership which is related (within the meaning of section 267(b) or 707(b)) to the individual.
 
-> &emsp;For purposes of this paragraph, the term “relative” means an individual bearing a relationship to the individual which is described in any of paragraphs (1) through (8) of section 152(a). This paragraph shall not apply for purposes of section 105(b) with respect to reimbursements through insurance.
+> &emsp;For purposes of this paragraph, the term “relative” means an individual bearing a relationship to the individual which is described in any of subparagraphs (A) through (G) of section 152(d)(2). This paragraph shall not apply for purposes of section 105(b) with respect to reimbursements through insurance.
 
 #### (e) Exclusion of amounts allowed for care of certain dependents
 
 Any expense allowed as a credit under section 21 shall not be treated as an expense paid for medical care.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 69; Pub. L. 85–866, title I, §§16, 17(a), (b), Sept. 2, 1958, 72 Stat. 1613, 1614; Pub. L. 86–470, §3(a), May 14, 1960, 74 Stat. 133; Pub. L. 87–863, §1(a), (b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §211(a), Feb. 26, 1964, 78 Stat. 49; Pub. L. 89–97, title I, §106(a)–(d)(1), July 30, 1965, 79 Stat. 336, 337; Pub. L. 94–455, title V, §504(c)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1565, 1834; Pub. L. 97–248, title II, §202(a)–(b)(3)(B), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–369, div. A, title IV, §§423(b)(1), (3), 474(r)(9), 482(a), (b)(1), title VII, §711(b), July 18, 1984, 98 Stat. 800, 841, 847, 848, 943; Pub. L. 99–514, title I, §133, Oct. 22, 1986, 100 Stat. 2116; Pub. L. 101–508, title XI, §§11111(d)(1), 11342(a), Nov. 5, 1990, 104 Stat. 1388–412, 1388–471; Pub. L. 103–66, title XIII, §13131(d)(3), Aug. 10, 1993, 107 Stat. 435; Pub. L. 104–191, title III, §322(a)–(b)(2)(A), (C), (3), (4), Aug. 21, 1996, 110 Stat. 2060–2062; Pub. L. 108–311, title II, §207(17), (18), Oct. 4, 2004, 118 Stat. 1177.)
 
-#### Adjustment of Long-Term Care Premium Limitation for Taxable Years Beginning in 2004
+#### Adjustment of Long-Term Care Premium Limitation for Taxable Years Beginning in 2006
 
-<i>For adjustment of limitation of amount of eligible long-term care premiums includible in term “medical care” under subsection (d) of this section for taxable years beginning in 2004, see section 3.18 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation of amount of eligible long-term care premiums includible in term “medical care” under subsection (d) of this section for taxable years beginning in 2006, see section 3.19 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References In Text
 
 The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–311, §207(17), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+Subsec. (d)(11). Pub. L. 108–311, §207(18), substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)” in concluding provisions.
 
 1996—Subsec. (d)(1). Pub. L. 104–191, §322(b)(2)(A), inserted concluding provisions “In the case of a qualified long-term care insurance contract (as defined in section 7702B(b)), only eligible long-term care premiums (as defined in paragraph (10)) shall be taken into account under subparagraph (D).”
 
@@ -278,6 +282,10 @@ Subsec. (d)(2)(A). Pub. L. 85–866, §16, struck out “claimed or” before �
 
 Subsec. (g). Pub. L. 85–866, §17(A), added subsec. (g).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 322(c) of Pub. L. 104–191, set out as a note under section 162 of this title.
@@ -343,8 +351,4 @@ Section 3(b) of Pub. L. 86–470 provided that: “The amendment made by subsect
 Amendment by section 16 of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 Section 17(c) of Pub. L. 85–866 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1957.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 35, 56, 67, 68, 72, 104, 105, 152, 162, 220, 223, 419A, 501, 2503, 4980B, 6041, 7702B, 9832 of this title; title 29 section 1167.
 

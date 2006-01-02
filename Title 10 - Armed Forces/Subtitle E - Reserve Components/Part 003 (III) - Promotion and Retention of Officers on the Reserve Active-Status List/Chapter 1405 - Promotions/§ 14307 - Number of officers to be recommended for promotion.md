@@ -18,7 +18,3 @@ Below-the-Zone Selections.—(1) The Secretary of the military department concer
 
 Provisions similar to those in this section were contained in section 5901 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14107, 14303, 14306 of this title.
-

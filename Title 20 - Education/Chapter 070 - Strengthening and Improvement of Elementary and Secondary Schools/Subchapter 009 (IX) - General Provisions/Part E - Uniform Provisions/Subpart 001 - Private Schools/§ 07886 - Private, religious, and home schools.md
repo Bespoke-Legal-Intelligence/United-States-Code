@@ -2,7 +2,7 @@
 
 #### (a) Applicability to nonrecipient private schools
 
-Nothing in this chapter shall be construed to affect any private school that does not receive funds or services under this chapter, nor shall any student who attends a private school that does not receive funds or services under this chapter be required to participate in any assessment referenced in this chapter.
+Nothing in this chapter shall be construed to affect any private school that does not receivefunds or services under this chapter, nor shall any student who attends a private school that does not receive funds or services under this chapter be required to participate in any assessment referenced in this chapter.
 
 #### (b) Applicability to home schools
 

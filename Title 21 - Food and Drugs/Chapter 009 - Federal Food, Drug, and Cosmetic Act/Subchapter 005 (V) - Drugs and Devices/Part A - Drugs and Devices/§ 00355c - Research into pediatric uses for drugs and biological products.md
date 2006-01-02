@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The assessments referred to in paragraph (1) shall contain data, gathered using appropriate formulations for each age group forwhich the assessment is required, that are adequate—
+&emsp;&emsp;The assessments referred to in paragraph (1) shall contain data, gathered using appropriate formulations for each age group for which the assessment is required, that are adequate—
 
 &emsp;&emsp;&emsp;(i) to assess the safety and effectiveness of the drug or the biological product for the claimed indications in all relevant pediatric subpopulations; and
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(ii) the absence of adequate labeling could pose significant risks to pediatric patients; or
 
-&emsp;&emsp;(B)(i) there is reason to believe that the drug or biological product would represent ameaningful therapeutic benefit over existing therapies for pediatric patients for one or more of the claimed indications; and
+&emsp;&emsp;(B)(i) there is reason to believe that the drug or biological product would represent a meaningful therapeutic benefit over existing therapies for pediatric patients for one or more of the claimed indications; and
 
 &emsp;&emsp;(ii) the absence of adequate labeling could pose significant risks to pediatric patients.
 
@@ -184,7 +184,7 @@ For the purposes of paragraph (4)(A)(iii)(I) and (4)(B)(iii)(I) of subsection (a
 
 #### (d) Submission of assessments
 
-If a person fails to submit an assessment described in subsection (a)(2) of this section, or arequest for approval of a pediatric formulation described in subsection (a) or (b) of this section, in accordance with applicable provisions of subsections (a) and (b) of this section—
+If a person fails to submit an assessment described in subsection (a)(2) of this section, or a request for approval of a pediatric formulation described in subsection (a) or (b) of this section, in accordance with applicable provisions of subsections (a) and (b) of this section—
 
 &emsp;(1) the drug or biological product that is the subject of the assessment or request may be considered misbranded solely because of that failure and subject to relevant enforcement action (except that the drug or biological product shall not be subject to action under section 333 of this title); but
 

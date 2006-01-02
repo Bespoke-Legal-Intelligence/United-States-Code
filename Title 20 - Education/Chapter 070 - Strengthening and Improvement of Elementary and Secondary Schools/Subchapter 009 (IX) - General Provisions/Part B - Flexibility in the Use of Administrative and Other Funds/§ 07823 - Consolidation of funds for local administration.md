@@ -10,7 +10,7 @@ Within 1 year after January 8, 2002, a State educational agency shall, in collab
 
 #### (c) Conditions
 
-A local educational agency that consolidates administrative funds under this section for anyfiscal year shall not use any other funds under the programs included in the consolidation for administration for that fiscal year.
+A local educational agency that consolidates administrative funds under this section for any fiscal year shall not use any other funds under the programs included in the consolidation for administration for that fiscal year.
 
 #### (d) Uses of administrative funds
 

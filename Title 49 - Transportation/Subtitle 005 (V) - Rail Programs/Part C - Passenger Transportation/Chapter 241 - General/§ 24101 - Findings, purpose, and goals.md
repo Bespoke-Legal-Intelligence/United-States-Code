@@ -14,7 +14,7 @@ Findings.—(1) Public convenience and necessity require that Amtrak, to the ext
 
 (6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through its subsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
 
-(7) The Northeast Corridor is a valuable resource of the United States used by intercityand commuter rail passenger transportation and freight transportation.
+(7) The Northeast Corridor is a valuable resource of the United States used by intercity and commuter rail passenger transportation and freight transportation.
 
 (8) Greater coordination between intercity and commuter rail passenger transportation is required.
 
@@ -114,7 +114,7 @@ The Amtrak Reform and Accountability Act of 1997, referred to in subsec. (d), is
 
 1997—Subsec. (c)(2). Pub. L. 105–134, §105(b), inserted “, separately or in combination,” after “and the private sector”.
 
-Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
+Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
 
 #### Amtrak Findings
 
@@ -148,7 +148,7 @@ Pub. L. 105–134, §2, Dec. 2, 1997, 111 Stat. 2571, provided that: “The Cong
 
 #### Fair Competitive Bidding for State-Supported Intercity Rail Service
 
-Pub. L. 108–447, div. H, title I, §150, Dec. 8, 2004, 118 Stat. 3221, provided that: “For the purpose of assisting State-supported intercity rail service, in order to demonstrate whether competition will provide higher quality rail passenger service at reasonable prices, the Secretary of Transportation, working with affected States, shall develop and implement a procedure for fair competitive bidding by Amtrak and non-Amtrak operators for State-supported routes: <i>Provided</i>, That in the event a State desires to select or selects a non-Amtrak operator for the route, the State may make an agreement with Amtrak to use facilities and equipment of, or have services provided by, Amtrak under terms agreed to by the State and Amtrak to enable the non-Amtrak operator to provide the State-supported service: <i>Provided further</i>, That if the parties cannot agree on terms, the Secretary shall, as a condition of receipt of Federal grant funds, order that the facilities and equipment be made available and the services be provided by Amtrak under reasonable terms and compensation: <i>Provided further</i>, That when prescribing reasonable compensation to Amtrak, the Secretary shall consider quality of service as a major factor when determining whether, and the extent to which, the amount of compensation shall be greater than the incremental costs of using the facilities and providing the services: <i>Provided further</i>, That the Secretary may reprogram up to $2,500,000 from the Amtrak operating grant funds for costs associated with the implementation of the fair bid procedure and demonstration of competition under this section.”
+Pub. L. 108–447, div. H, title I, §150, Dec. 8, 2004, 118 Stat. 3221, which provided that for the purpose of assisting State-supported intercity rail service, in order to demonstrate whether competition would provide higher quality rail passenger service at reasonable prices, the Secretary of Transportation, working with affected States, was to develop and implement a procedure for fair competitive bidding by Amtrak and non-Amtrak operators for State-supported routes, was from the Consolidated Appropriations Act, 2005, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -192,7 +192,7 @@ Study.—The independent assessment also shall determine whether, and to what ex
 
 &emsp;“(2)
 
-Reform.—If the independent assessment performed under this subparagraph reveals that Amtrakhas performed services under contract for an amount less than the cost to Amtrak of performing such services, with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation, then Amtrak shall revise its methodology for preparation of bids to reflect its cost of performance.
+Reform.—If the independent assessment performed under this subparagraph reveals that Amtrak has performed services under contract for an amount less than the cost to Amtrak of performing such services, with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation, then Amtrak shall revise its methodology for preparation of bids to reflect its cost of performance.
 
 “(e)
 

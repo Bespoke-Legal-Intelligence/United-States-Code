@@ -78,7 +78,7 @@ The State shall—
 
 #### (5) Funding
 
-&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.
+&emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscalyear 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.
 
 #### (d) Inspector General audit and GAO report
 
@@ -88,7 +88,7 @@ The State shall—
 
 &emsp;&emsp;(A) determine the number, if any, of enrollees under the plan under this subchapter who are eligible for medical assistance under subchapter XIX of this chapter (other than as optional targeted low-income children under section 1396a(a)(10)(A)(ii)(XIV) of this title); and
 
-&emsp;&emsp;(B) assess the progress made in reducing the number of uncovered low-income children, including the progress made to achievethe strategic objectives and performance goals included in the State child health plan under section 1397gg(a) of this title.
+&emsp;&emsp;(B) assess the progress made in reducing the number of uncovered low-income children, including the progress made to achieve the strategic objectives and performance goals included in the State child health plan under section 1397gg(a) of this title.
 
 #### (2) State described
 

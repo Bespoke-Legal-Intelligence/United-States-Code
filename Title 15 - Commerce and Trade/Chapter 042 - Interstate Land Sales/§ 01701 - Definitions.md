@@ -44,7 +44,7 @@ Section 410 of title IV of Pub. L. 96–153 provided that: “The amendments mad
 
 #### Effective Date
 
-Section 1423, formerly §1422, of title XIV of Pub. L. 90–448, as renumbered by Pub. L. 96–153, title IV, §409, Dec. 21, 1979, 93 Stat. 1132, provided that: “This title \[enacting this chapter\] shall take effect upon the expiration of two hundred and seventy days after the date of its enactment \[Aug. 1, 1968\].”
+Section 1423, formerly §1422, of title XIV of Pub. L. 90–448, as renumbered by Pub. L. 96–153, title IV, §409,Dec. 21, 1979, 93 Stat. 1132, provided that: “This title \[enacting this chapter\] shall take effect upon the expiration of two hundred and seventy days after the date of its enactment \[Aug. 1, 1968\].”
 
 #### Short Title
 

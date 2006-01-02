@@ -22,7 +22,3 @@ Provisions similar to those in this section were contained in section 268(b), (c
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12304, 16133 of this title; title 38 sections 2301, 3002, 3012, 3701.
-

@@ -64,7 +64,7 @@ A local organization may apply to the Secretary for technical and financial assi
 
 #### (f) Ranking of requests for rehabilitation assistance
 
-The Secretary shall establish such system of approving rehabilitation requests, recognizing that such requests will be received throughout the fiscal year and subject to the availability of funds to carry out this section, as is necessary for proper administration by the Department of Agriculture and equitable for all local organizations. The approval process shall be in writing, and made known to all local organizations and appropriate State agencies.
+The Secretary shall establish such system of approving rehabilitation requests, recognizingthat such requests will be received throughout the fiscal year and subject to the availability of funds to carry out this section, as is necessary for proper administration by the Department of Agriculture and equitable for all local organizations. The approval process shall be in writing, and made known to all local organizations and appropriate State agencies.
 
 #### (g) Prohibition on certain rehabilitation assistance
 
@@ -126,7 +126,7 @@ The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a
 
 Flood Prevention” are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) ofchapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

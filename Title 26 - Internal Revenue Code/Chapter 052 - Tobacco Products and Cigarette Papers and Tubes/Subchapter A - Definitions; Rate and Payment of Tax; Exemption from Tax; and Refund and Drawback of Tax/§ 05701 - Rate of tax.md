@@ -10,7 +10,7 @@ On cigars, manufactured in or imported into the United States, there shall be im
 
 #### (2) Large cigars
 
-&emsp;On cigars weighing more than 3 pounds per thousand, a tax equal to 20.719 percent (18.063 percent on cigars removed during 2000 or 2001) of the price for which sold but not more than $48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001).
+&emsp;On cigars weighing more than 3 pounds per thousand, a tax equal to 20.719 percent (18.063percent on cigars removed during 2000 or 2001) of the price for which sold but not more than $48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001).
 
 > Cigars not exempt from tax under this chapter which are removed but not intended for sale shall be taxed at the same rate as similar cigars removed for sale.
 
@@ -44,7 +44,7 @@ On smokeless tobacco, manufacturered <sup>1</sup> in or imported into the Unite
 
 #### (2) Chewing tobacco
 
-&emsp;On chewing tobacco, 19.5 cents (17 cents on chewing tobacco removed during 2000 or 2001)per pound and a proportionate tax at the like rate on all fractional parts of a pound.
+&emsp;On chewing tobacco, 19.5 cents (17 cents on chewing tobacco removed during 2000 or 2001) per pound and a proportionate tax at the like rate on all fractional parts of a pound.
 
 #### (f) Pipe tobacco
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 101–508, §11202(f), substituted “67.5 cents (56.25 cen
 
 Subsec. (b)(2). Pub. L. 97–248, §283(a)(2), substituted “$16.80” for “$8.40”.
 
-1976—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 81/2 percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated table running from $2.50 per thousand for large cigars if removed to retail at not more than 21/2 cents each to $20 per thousand if removed to retail at more than 20 cents each, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principalmarket, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
+1976—Subsec. (a). Pub. L. 94–455, §2128(a), substituted provisions setting a tax of 81/2 percent of the wholesale price, but not more than $20 per thousand, on cigars weighing more than 3 pounds per thousand for provisions setting the tax according to a graduated table running from $2.50 per thousand for large cigars if removed to retail at not more than 21/2 cents each to $20 per thousand if removed to retail at more than 20 cents each, and struck out provisions that, in determining the retail price, for tax purposes, regard be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on cigars as a commodity, and that, for purposes of that determination, the amount of State or local tax excluded from the retail price be the actual tax imposed, except that, if the combined taxes resulted in a numerical figure ending in a fraction of a cent, the amount so excluded would be rounded to the next highest full cent unless such rounding would result in a tax lower than the tax which would be imposed in the absence of State or local tax.
 
 Subsec. (e). Pub. L. 94–455, §1905(a)(24), inserted “, unless such import duties are imposed in lieu of internal revenue tax” after “such articles”.
 
@@ -164,7 +164,7 @@ In general.—The amendments made by this section \[enacting section 5754 of thi
 
 Transitional rule.—Any person who—
 
-&emsp;“(A) on the date of the enactment of this Act \[Aug. 5, 1997\] is engaged in business as a manufacturer of roll-your-own tobacco or as an importer of tobacco products or cigarette papers and tubes, and
+&emsp;“(A) on the date of the enactment of this Act \[Aug. 5, 1997\] is engaged in business as a manufacturer ofroll-your-own tobacco or as an importer of tobacco products or cigarette papers and tubes, and
 
 &emsp;“(B) before January 1, 2000, submits an application under subchapter B of chapter 52 of such Code to engage in such business,
 
@@ -214,7 +214,7 @@ Transitional rule.—Any person who—
 
 Section 283(c) of Pub. L. 97–248, as amended by Pub. L. 99–107, §2, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(a), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §1, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §1, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–201, §1, Dec. 23, 1985, 99 Stat. 1665; Pub. L. 99–272, title XIII, §13201(a), Apr. 7, 1986, 100 Stat. 311, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to cigarettes removed after December 31, 1982.”
 
-\[Pub. L. 99–272, title XIII, §13201(b), Apr. 7, 1986, 100 Stat. 311, provided that: “For purposes of all Federaland State laws, the amendment made by subsection (a) \[amending section 283(c) of Pub. L. 97–248, set out above\] shall be treated as having taken effect on March 14, 1986.”\]
+\[Pub. L. 99–272, title XIII, §13201(b), Apr. 7, 1986, 100 Stat. 311, provided that: “For purposes of all Federal and State laws, the amendment made by subsection (a) \[amending section 283(c) of Pub. L. 97–248, set out above\] shall be treated as having taken effect on March 14, 1986.”\]
 
 #### Effective Date of 1976 Amendment
 
@@ -256,7 +256,7 @@ Imposition of tax.—On cigarettes manufactured in or imported into the United S
 
 “(2)
 
-Authority to exempt cigarettes held in vending machines.—To the extent provided in regulations prescribed by the Secretary, no tax shall be imposed by paragraph (1) on cigarettes held for retail sale on any tax increase date, by any person in any vending machine. If the Secretary provides such a benefit with respect to any person, the Secretary may reduce the $500 amount in paragraph (3) with respect to such person.
+Authority to exempt cigarettes held in vending machines.—To the extent provided in regulationsprescribed by the Secretary, no tax shall be imposed by paragraph (1) on cigarettes held for retail sale on any tax increase date, by any person in any vending machine. If the Secretary provides such a benefit with respect to any person, the Secretary may reduce the $500 amount in paragraph (3) with respect to such person.
 
 “(3)
 
@@ -455,10 +455,6 @@ Cigarette.—For purposes of this subsection, the term ‘cigarette’ shall hav
 “(4)
 
 Exception for retailers.—The taxes imposed by paragraph (1) shall not apply to cigarettes in retail stocks held on January 1, 1983, at the place where intended to be sold at retail.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5702, 5703 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “manufactured”.</i>
 

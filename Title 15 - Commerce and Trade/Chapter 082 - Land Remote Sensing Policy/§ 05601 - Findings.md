@@ -14,7 +14,7 @@ The Congress finds and declares the following:
 
 &emsp;(6) Full commercialization of the Landsat program cannot be achieved within the foreseeable future, and thus should not serve as the near-term goal of national policy on land remote sensing; however, commercialization of land remote sensing should remain a long-term goal of United States policy.
 
-&emsp;(7) Despite the success and importance of the Landsat system, funding and organizational uncertainties over the past several years have placed its future in doubt and have jeopardized United States leadership in land remote sensing.
+&emsp;(7) Despite the success and importance of the Landsat system, funding and organizational uncertainties over the past several years have placed its future in doubt and have jeopardizedUnited States leadership in land remote sensing.
 
 &emsp;(8) Recognizing the importance of the Landsat program in helping to meet national and commercial objectives, the President approved, on February 11, 1992, a National Space Policy Directive which was developed by the National Space Council and commits the United States to ensuring the continuity of Landsat coverage into the 21st century.
 
@@ -26,7 +26,7 @@ The Congress finds and declares the following:
 
 &emsp;(12) A technology demonstration program involving advanced remote sensing technologies could serve a vital role in determining the design of a follow-on spacecraft to Landsat 7, while also helping to determine whether such a spacecraft should be funded by the United States Government, by the private sector, or by an international consortium.
 
-&emsp;(13) To maximize the value of the Landsat program to the American public, unenhanced Landsat 4 through 6 data should be made available, at a minimum, to United States Government agencies, to global environmental change researchers, and to other researchers who are financially supported by the UnitedStates Government, at the cost of fulfilling user requests, and unenhanced Landsat 7 data should be made available to all users at the cost of fulfilling user requests.
+&emsp;(13) To maximize the value of the Landsat program to the American public, unenhanced Landsat 4 through 6 data should be made available, at a minimum, to United States Government agencies, to global environmental change researchers, and to other researchers who are financially supported by the United States Government, at the cost of fulfilling user requests, and unenhanced Landsat 7 data should be made available to all users at the cost of fulfilling user requests.
 
 &emsp;(14) To stimulate development of the commercial market for unenhanced data and value-added services, the United States Government should adopt a data policy for Landsat 7 which allows competition within the private sector for distribution of unenhanced data and value-added services.
 

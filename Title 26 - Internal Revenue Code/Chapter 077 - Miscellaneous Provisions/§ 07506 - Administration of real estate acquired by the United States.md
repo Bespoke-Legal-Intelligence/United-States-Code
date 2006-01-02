@@ -28,7 +28,3 @@ In cases where real estate has or may become the property of the United States b
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7809 of this title.
-

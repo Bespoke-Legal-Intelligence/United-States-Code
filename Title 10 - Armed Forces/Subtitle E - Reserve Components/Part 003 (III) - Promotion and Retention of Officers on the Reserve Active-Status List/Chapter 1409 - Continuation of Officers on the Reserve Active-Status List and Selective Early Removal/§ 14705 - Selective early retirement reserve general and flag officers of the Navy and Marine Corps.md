@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Consider.—An officer in the Naval Reserve in an active status serving in thegrade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
+Authority To Consider.—An officer in the Navy Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
 
 (b)
 
@@ -18,7 +18,7 @@ Boards.—(1) If the Secretary of the Navy determines that consideration of offi
 
 Separation Under Section 14514.—An officer selected for early retirement under this section shall be separated in accordance with section 14514 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, §515, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 108–136, div. A, title V, §511(b)(3), Nov. 24, 2003, 117 Stat. 1459.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, §515, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 108–136, div. A, title V, §511(b)(3), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, §515(b)(1)(VV), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Prior Provisions
 
@@ -26,11 +26,9 @@ Provisions similar to those in this section were contained in section 6389(f)(3)
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 2003—Subsec. (b)(1). Pub. L. 108–136 substituted “selection board” for “continuation board”.
 
 1998—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted “of officers” after “consideration” and “continuation” after “shall convene a”, and added par. (2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1558, 14101, 14514 of this title.
 

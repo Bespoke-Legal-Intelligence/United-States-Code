@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 &emsp;(5) Too little is known about drug abuse, especially the causes, and ways to treat and prevent drug abuse.
 
-&emsp;(6) The success of Federal drug abuse programs and activities requires a recognition that education, treatment, rehabilitation, research, training, and law enforcement efforts are interrelated.
+&emsp;(6) The success of Federal drug abuse programs and activities requires a recognitionthat education, treatment, rehabilitation, research, training, and law enforcement efforts are interrelated.
 
 &emsp;(7) The effectiveness of efforts by State and local governments and by the Federal Government to control and treat drug abuse in the United States has been hampered by a lack of coordination among the States, between States and localities, among the Federal Government, States and localities, and throughout the Federal establishment.
 

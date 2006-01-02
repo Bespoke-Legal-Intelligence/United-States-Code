@@ -8,13 +8,12 @@
 | [777a.](%C2%A7%2000777a%20-%20Definitions.md) | Definitions. |
 | [777b.](%C2%A7%2000777b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [777c.](%C2%A7%2000777c%20-%20Division%20of%20annual%20appropriations.md) | Division of annual appropriations. |
-| (a) | Initial distribution. |
-| (b) | Use of balance after distribution. |
-| (c) | National Outreach and Communications Program. |
-| (d) | Set-aside for expenses for administration of this chapter. |
-| (e) | Apportionment among States. |
-| (f) | Unallocated funds. |
-| (g) | Expenses for administration of certain programs. |
+| (a) | In general. |
+| (b) | Set-aside for expenses for administration of this chapter. |
+| (c) | Apportionment among States. |
+| (d) | Unallocated funds. |
+| (e) | Expenses for administration of certain programs. |
+| (f) | Transfer of certain funds. |
 | [777d.](%C2%A7%2000777d%20-%20Certification%20of%20funds%20deducted%20for%20expenses%20and%20amounts%20apportioned%20to%20States.md) | Certification of funds deducted for expenses and amounts apportioned to States. |
 | [777e.](%C2%A7%2000777e%20-%20Submission%20and%20approval%20of%20plans%20and%20projects.md) | Submission and approval of plans and projects. |
 | (a) | Apportionment of funds. |
@@ -61,6 +60,7 @@
 | (d) | Use of grants. |
 | (e) | Funding for other activities. |
 | (f) | Nonapplicability of Federal Advisory Committee Act. |
+| [777n.](%C2%A7%2000777n%20-%20Expenditure%20of%20remaining%20balance%20in%20Boat%20Safety%20Account.md) | Expenditure of remaining balance in Boat Safety Account. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -85,3 +85,4 @@
 - [&sect; 00777k - Payments of funds to and cooperation with Puerto Rico, the District of Columbia, Guam, American Samoa, Commonwealth of the Northern&#8230;](%C2%A7%2000777k%20-%20Payments%20of%20funds%20to%20and%20cooperation%20with%20Puerto%20Rico%2C%20the%20District%20of%20Columbia%2C%20Guam%2C%20American%20Samoa%2C%20Commonwealth%20of%20the%20Northern%E2%80%A6.md)
 - [&sect; 00777l - State use of contributions](%C2%A7%2000777l%20-%20State%20use%20of%20contributions.md)
 - [&sect; 00777m - Multistate conservation grant program](%C2%A7%2000777m%20-%20Multistate%20conservation%20grant%20program.md)
+- [&sect; 00777n - Expenditure of remaining balance in Boat Safety Account](%C2%A7%2000777n%20-%20Expenditure%20of%20remaining%20balance%20in%20Boat%20Safety%20Account.md)

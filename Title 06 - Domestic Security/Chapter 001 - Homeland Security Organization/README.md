@@ -30,6 +30,7 @@
 | (d) | Other officers. |
 | (e) | Chief Financial Officer. |
 | (f) | Performance of specific functions. |
+| [114\.](Subchapter%20001%20%28I%29%20-%20Department%20of%20Homeland%20Security/%C2%A7%2000114%20-%20Sensitive%20Security%20Information.md) | Sensitive Security Information. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -679,6 +680,7 @@
 | (h) | Performance management reports. |
 | (i) | Agency responsibilities. |
 | (j) | Authorization of appropriations. |
+| [486\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20I%20-%20Information%20Sharing/%C2%A7%2000486%20-%20Limitation%20of%20liability.md) | Limitation of liability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -689,6 +691,8 @@
 | [491\.](Subchapter%20009%20%28IX%29%20-%20National%20Homeland%20Security%20Council/%C2%A7%2000491%20-%20National%20Homeland%20Security%20Council.md) | National Homeland Security Council. |
 | [492\.](Subchapter%20009%20%28IX%29%20-%20National%20Homeland%20Security%20Council/%C2%A7%2000492%20-%20Function.md) | Function. |
 | [493\.](Subchapter%20009%20%28IX%29%20-%20National%20Homeland%20Security%20Council/%C2%A7%2000493%20-%20Membership.md) | Membership. |
+| (a) | Members. |
+| (b) | Attendance of Chairman of Joint Chiefs of Staff at meetings. |
 | [494\.](Subchapter%20009%20%28IX%29%20-%20National%20Homeland%20Security%20Council/%C2%A7%2000494%20-%20Other%20functions%20and%20activities.md) | Other functions and activities. |
 | [495\.](Subchapter%20009%20%28IX%29%20-%20National%20Homeland%20Security%20Council/%C2%A7%2000495%20-%20Staff%20composition.md) | Staff composition. |
 | [496\.](Subchapter%20009%20%28IX%29%20-%20National%20Homeland%20Security%20Council/%C2%A7%2000496%20-%20Relation%20to%20the%20National%20Security%20Council.md) | Relation to the National Security Council. |
@@ -721,15 +725,14 @@
 |  |  |
 | :--- | ---: |
 | [531\.](Subchapter%20011%20%28XI%29%20-%20Department%20of%20Justice%20Divisions/Part%20B%20-%20Transfer%20of%20the%20Bureau%20of%20Alcohol%2C%20Tobacco%20and%20Firearms%20to%20the%20Department%20of%20Justice/%C2%A7%2000531%20-%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Bureau of Alcohol, Tobacco, Firearms, and Explosives. |
-| (a) | Establishment. |
-| (b) | Responsibilities. |
-| (c) | Transfer of authorities, functions, personnel, and assets to the Department of Justice. |
+| (a), (b) | Transferred. |
+| (c) | Administration and revenue collection functions. |
 | (d) | Tax and Trade Bureau. |
 | [532\.](Subchapter%20011%20%28XI%29%20-%20Department%20of%20Justice%20Divisions/Part%20B%20-%20Transfer%20of%20the%20Bureau%20of%20Alcohol%2C%20Tobacco%20and%20Firearms%20to%20the%20Department%20of%20Justice/%C2%A7%2000532%20-%20Explosives%20Training%20and%20Research%20Facility.md) | Explosives Training and Research Facility. |
 | (a) | Establishment. |
 | (b) | Purpose. |
 | (c) | Authorization of appropriations. |
-| [533\.](Subchapter%20011%20%28XI%29%20-%20Department%20of%20Justice%20Divisions/Part%20B%20-%20Transfer%20of%20the%20Bureau%20of%20Alcohol%2C%20Tobacco%20and%20Firearms%20to%20the%20Department%20of%20Justice/%C2%A7%2000533%20-%20Personnel%20Management%20Demonstration%20Project.md) | Personnel Management Demonstration Project. |
+| [533\.](Subchapter%20011%20%28XI%29%20-%20Department%20of%20Justice%20Divisions/Part%20B%20-%20Transfer%20of%20the%20Bureau%20of%20Alcohol%2C%20Tobacco%20and%20Firearms%20to%20the%20Department%20of%20Justice/%C2%A7%2000533%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

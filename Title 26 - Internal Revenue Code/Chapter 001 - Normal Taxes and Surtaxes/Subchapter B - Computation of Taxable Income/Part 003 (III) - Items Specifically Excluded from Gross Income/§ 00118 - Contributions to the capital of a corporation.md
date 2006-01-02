@@ -106,7 +106,7 @@ Subsec. (b)(2)(A)(ii). Pub. L. 95–600, §364(a)(3), substituted “electric en
 
 Subsec. (b)(3)(A). Pub. L. 95–600, §364(a)(4), substituted “line to an electric line, a gas main, a steam line, or a main water or sewer line” for “property to a main water or sewer line”.
 
-Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted “electric energy, gas, water,” for “water” and inserted “(including in the case of a gas transmission utility,the provision of gas services by sale for resale to the general public)” after “members of the general public”.
+Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted “electric energy, gas, water,” for “water” and inserted “(including in the case of a gas transmission utility, the provision of gas services by sale for resale to the general public)” after “members of the general public”.
 
 1976—Subsecs. (b), (c). Pub. L. 94–455, §2120(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -128,7 +128,7 @@ Treatment of certain water supply projects.—The amendments made by this sectio
 
 “(3)
 
-Treatment of certain contributions by transportation authority.—The amendments made by this section shall not apply to contributions in aid of construction by a qualified transportation authority which were clearly identified in a master plan in existence on September 13, 1984, and which are designated by such authority as being taken into account under this paragraph. Not more than $68,000,000 of such contributions may be designated under the preceding sentence. For purposes of this paragraph, a qualified transportation authority is an entity which was created on February 20, 1967, and which was established by an interstate compact and consented to by Congress in Public Law 89–774, 80 Stat. 1324 (1966).
+Treatment of certain contributions by transportation authority.—The amendments made by thissection shall not apply to contributions in aid of construction by a qualified transportation authority which were clearly identified in a master plan in existence on September 13, 1984, and which are designated by such authority as being taken into account under this paragraph. Not more than $68,000,000 of such contributions may be designated under the preceding sentence. For purposes of this paragraph, a qualified transportation authority is an entity which was created on February 20, 1967, and which was established by an interstate compact and consented to by Congress in Public Law 89–774, 80 Stat. 1324 (1966).
 
 “(4)
 
@@ -149,8 +149,4 @@ Section 364(b) of Pub. L. 95–600 provided that: “The amendments made by this
 #### Effective Date of 1976 Amendment
 
 Section 2120(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and section 362 of this title\] apply to contributions made after January 31, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 108 of this title.
 

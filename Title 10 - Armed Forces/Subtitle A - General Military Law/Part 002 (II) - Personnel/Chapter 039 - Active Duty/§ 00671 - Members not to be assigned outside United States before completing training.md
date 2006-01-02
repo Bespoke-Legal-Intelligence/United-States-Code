@@ -1,6 +1,6 @@
 ### §671. Members not to be assigned outside United States before completing training
 
-(a) A member of the armed forces may not be assigned to active duty on land outside theUnited States and its territories and possessions until the member has completed the basic training requirements of the armed force of which he is a member.
+(a) A member of the armed forces may not be assigned to active duty on land outside the United States and its territories and possessions until the member has completed the basic training requirements of the armed force of which he is a member.
 
 (b) In time of war or a national emergency declared by Congress or the President, the period of required basic training (or its equivalent) may not (except as provided in subsection (c)) be less than 12 weeks.
 

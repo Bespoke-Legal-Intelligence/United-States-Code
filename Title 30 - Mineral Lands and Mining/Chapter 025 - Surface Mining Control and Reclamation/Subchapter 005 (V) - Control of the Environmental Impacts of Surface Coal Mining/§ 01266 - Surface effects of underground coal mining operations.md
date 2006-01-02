@@ -8,7 +8,7 @@ The Secretary shall promulgate rules and regulations directed toward the surface
 
 Each permit issued under any approved State or Federal program pursuant to this chapter and relating to underground coal mining shall require the operator to—
 
-&emsp;(1) adopt measures consistent with known technology in order to prevent subsidence causing material damage to the extent technologically and economically feasible, maximize mine stability, and maintain the value and reasonably foreseeable use of such surface lands, except in those instances where the mining technology used requires planned subsidence in a predictable and controlled manner: <i>Provided</i>, That nothing in this subsection shall be construed to prohibit the standard method of room and pillar mining;
+&emsp;(1) adopt measures consistent with known technology in order to prevent subsidence causing material damage to the extent technologically and economically feasible, maximizemine stability, and maintain the value and reasonably foreseeable use of such surface lands, except in those instances where the mining technology used requires planned subsidence in a predictable and controlled manner: <i>Provided</i>, That nothing in this subsection shall be construed to prohibit the standard method of room and pillar mining;
 
 &emsp;(2) seal all portals, entryways, drifts, shafts, or other openings between the surface and underground mine working when no longer needed for the conduct of the mining operations;
 

@@ -2,7 +2,7 @@
 
 #### (a) Applicability of provisions; utilization of statutory authorities
 
-The administration, protection, and development of the lakeshore shall be exercised by theSecretary, subject to the provisions of this subchapter and of sections 1, 2, 3, and 4 of this title, as amended and supplemented, relating to the areas administered and supervised by the Secretary through the National Park Service; except that authority otherwise available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter.
+The administration, protection, and development of the lakeshore shall be exercised by the Secretary, subject to the provisions of this subchapter and of sections 1, 2, 3, and 4 of this title, as amended and supplemented, relating to the areas administered and supervised by the Secretary through the National Park Service; except that authority otherwise available to the Secretary for the conservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter.
 
 #### (b) Land and water use management plan; preparation and implementation by Secretary; required provisions
 
@@ -16,7 +16,7 @@ In the administration, protection, and development of the area, the Secretary sh
 
 #### (c) Area review by Secretary; report to President; recommendations for preservation of any area within lakeshore as wilderness; designation as a wilderness
 
-Within four years from October 21, 1970, the Secretary of the Interior shall review the area within the Sleeping Bear Dunes National Lakeshore and shall report to the President, in accordance with subsections (c) and (d) of section 1132 of this title, his recommendation as to the suitability or nonsuitability of any area within the lakeshore for preservation as wilderness, and any designation of any such area as a wilderness shall be accomplished in accordance with said subsections.
+Within four years from October 21, 1970, the Secretary of the Interior shall review the area within the Sleeping Bear Dunes National Lakeshore and shall report to the President, in accordance with subsections (c) and (d) of section 1132 of this title, his recommendation as to the suitability or nonsuitability of any area within the lakeshore for preservation as wilderness,and any designation of any such area as a wilderness shall be accomplished in accordance with said subsections.
 
 #### (d) Public use areas; preservation of rights of owner or occupant of improved property located within public use area
 

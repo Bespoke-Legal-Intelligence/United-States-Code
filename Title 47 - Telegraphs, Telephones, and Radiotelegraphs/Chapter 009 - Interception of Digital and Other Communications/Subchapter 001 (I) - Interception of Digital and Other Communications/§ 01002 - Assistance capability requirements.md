@@ -12,7 +12,7 @@ Except as provided in subsections (b), (c), and (d) of this section and sections
 
 &emsp;&emsp;(B) in a manner that allows it to be associated with the communication to which it pertains,
 
-> &emsp;except that, with regard to information acquired solely pursuant to the authority for pen registers and trap and trace devices (as defined in section 3127 of title 18), such call-identifying information shall not include any information that may disclose the physical location of the subscriber (except to the extent that the location may be determined from the telephone number);
+> &emsp;except that, with regard to information acquired solely pursuant to the authority for penregisters and trap and trace devices (as defined in section 3127 of title 18), such call-identifying information shall not include any information that may disclose the physical location of the subscriber (except to the extent that the location may be determined from the telephone number);
 
 &emsp;(3) delivering intercepted communications and call-identifying information to the government, pursuant to a court order or other lawful authorization, in a format such that they may be transmitted by means of equipment, facilities, or services procured by the government to a location other than the premises of the carrier; and
 

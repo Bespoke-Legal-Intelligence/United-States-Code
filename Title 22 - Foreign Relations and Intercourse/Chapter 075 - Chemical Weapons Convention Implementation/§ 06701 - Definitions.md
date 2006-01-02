@@ -18,7 +18,7 @@ In this chapter:
 
 #### (3) Key component of a binary or multicomponent chemical system
 
-&emsp;The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important rolein determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
+&emsp;The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
 
 #### (4) National of the United States
 
@@ -30,7 +30,7 @@ In this chapter:
 
 #### (6) Person
 
-&emsp;The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
+&emsp;The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign governmentor nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
 
 #### (7) Precursor
 
@@ -260,7 +260,7 @@ Section 1903(b) of title 46, Appendix, referred to in par. (14)(C), was in the o
 
 #### Short Title
 
-Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
+Pub. L. 105–277, div. I, §1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division \[enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18\] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
 
 #### Regulations
 

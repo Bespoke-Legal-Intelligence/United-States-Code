@@ -6,7 +6,7 @@ The Commission on Civil Rights shall (1) undertake a study of unreasonable discr
 
 #### (b) Public hearings
 
-As part of the study required by this section, the Commission shall conduct public hearings toelicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
+As part of the study required by this section, the Commission shall conduct public hearings to elicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
 
 #### (c) Publication of results of analyses, research and studies by independent experts; services of voluntary or uncompensated personnel
 
@@ -14,7 +14,7 @@ The Commission is authorized to obtain, through grant or contract, analyses, res
 
 #### (d) Report to President and Congress; copies to affected Federal departments and agencies; information and technical assistance
 
-Not later than two years after November 28, 1975, the Commission shall transmit a report of its findings and its recommendations for statutory changes (if any) and administrative action, including suggested general regulations, to the Congress and to the President and shall provide a copy of its report to the head of each Federal department and agency with respect to which the Commission makes findings or recommendations. The Commission is authorized to provide, upon request, information and technical assistance regarding its findings and recommendations to Congress, to the President, and to the heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
+Not later than two years after November 28, 1975, the Commission shall transmit a report ofits findings and its recommendations for statutory changes (if any) and administrative action, including suggested general regulations, to the Congress and to the President and shall provide a copy of its report to the head of each Federal department and agency with respect to which the Commission makes findings or recommendations. The Commission is authorized to provide, upon request, information and technical assistance regarding its findings and recommendations to Congress, to the President, and to the heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
 
 #### (e) Comments and recommendations of Federal departments and agencies; submission to President and Congressional committees
 

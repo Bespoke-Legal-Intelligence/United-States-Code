@@ -20,7 +20,7 @@ The House amendment deletes section 701(d) of the Senate amendment. It is antici
 
 This section requires the court to appoint an interim trustee. The appointment must be made from the panel of private trustees established and maintained by the Director of the Administrative Office under proposed 28 U.S.C. 604(e).
 
-Subsection (a) requires the appointment of an interim trustee to be made promptly after the order forrelief, unless a trustee is already serving in the case, such as before a conversion from a reorganization to a liquidation case.
+Subsection (a) requires the appointment of an interim trustee to be made promptly after the order for relief, unless a trustee is already serving in the case, such as before a conversion from a reorganization to a liquidation case.
 
 Subsection (b) specifies that the appointment of an interim trustee expires when the permanent trustee is elected or designated under section 702.
 

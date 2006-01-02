@@ -8,9 +8,9 @@ It is the objective of the United States—
 
 &emsp;&emsp;(A) to conclude bilateral and multilateral agreements that create obligations to protect and enforce intellectual property rights that cover new and emerging technologies and new methods of transmission and distribution, and
 
-&emsp;&emsp;(B) to prevent or eliminate discrimination with respect to matters affecting the availability, acquisition, scope, maintenance, use, and enforcement of intellectual property rights,
+&emsp;&emsp;(B) to prevent or eliminate discrimination with respect to matters affecting the availability, acquisition, scope, maintenance,use, and enforcement of intellectual property rights,
 
-&emsp;(3) to secure fair, equitable, and nondiscriminatory market access opportunities forUnited States persons that rely upon intellectual property protection,
+&emsp;(3) to secure fair, equitable, and nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection,
 
 &emsp;(4) to take an active role in the development of the intellectual property regime under the World Trade Organization to ensure that it is consistent with other United States objectives, and
 

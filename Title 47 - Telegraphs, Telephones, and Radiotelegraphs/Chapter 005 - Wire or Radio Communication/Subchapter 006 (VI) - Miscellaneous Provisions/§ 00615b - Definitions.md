@@ -20,7 +20,7 @@ As used in this Act:
 
 #### (5) Enhanced wireless 9–1–1 service
 
-&emsp;The term “enhanced wireless 9–1–1 service” means any enhanced 9–1–1 service so designated by the Federal Communications Commission in the proceeding entitled “Revision of the Commission's Rules to Ensure Compatibility with Enhanced 9–1–1 Emergency CallingSystems” (CC Docket No. 94–102; RM–8143), or any successor proceeding.
+&emsp;The term “enhanced wireless 9–1–1 service” means any enhanced 9–1–1 service so designated by the Federal Communications Commission in the proceeding entitled “Revision of the Commission's Rules to Ensure Compatibility with Enhanced 9–1–1 Emergency Calling Systems” (CC Docket No. 94–102; RM–8143), or any successor proceeding.
 
 #### (6) Wireless 9–1–1 service
 

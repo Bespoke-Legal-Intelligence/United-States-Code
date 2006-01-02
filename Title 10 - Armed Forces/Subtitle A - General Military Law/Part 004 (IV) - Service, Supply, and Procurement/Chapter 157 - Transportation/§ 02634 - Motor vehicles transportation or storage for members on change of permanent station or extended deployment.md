@@ -38,7 +38,7 @@
 
 (d) When the Secretary concerned makes a determination under section 406(j) of title 37 that the dependents of a member on a permanent change of station are unable to accompany the member to an overseas duty station because of unexpected and uncontrollable circumstances, and the member shipped a motor vehicle pursuant to this section in anticipation of a dependent accompanying the member to the new duty station, the member may reship or transship such motor vehicle in accordance with this section.
 
-(e) The Secretary of Defense (and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy) may prescribe regulations limiting those leased motor vehicles that may be transported pursuant to this section based upon the length of the lease and other terms and conditions of the lease that the Secretary considers appropriate.
+(e) The Secretary of Defense (and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy) may prescribe regulations limiting those leased motor vehicles that may betransported pursuant to this section based upon the length of the lease and other terms and conditions of the lease that the Secretary considers appropriate.
 
 (f) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of a motor vehicle being transported under this section.
 
@@ -76,7 +76,7 @@ The new section 2634 of title 10 combines sections 4748, 6157, and 9748 of this 
 
 “(1) In lieu of transportation authorized by this section, if a member is ordered to make a change of permanent station to a foreign country and the laws, regulations, or other restrictions imposed by the foreign country or the United States preclude entry of a motor vehicle described in subsection (a) into that country, or would require extensive modification of the vehicle as a condition to entry, the member may elect to have the vehicle stored at the expense of the United States at a location approved by the Secretary concerned.
 
-“(2) If a member is transferred or assigned in connection with a contingency operation to duty at a locationother than the permanent station of the member for a period of more than 30 consecutive days, but the transfer or assignment is not considered a change of permanent station, the member may elect to have a motor vehicle described in subsection (a) stored at the expense of the United States at a location approved by the Secretary concerned.”
+“(2) If a member is transferred or assigned in connection with a contingency operation to duty at a location other than the permanent station of the member for a period of more than 30 consecutive days, but the transfer or assignment is not considered a change of permanent station, the member may elect to have a motor vehicle described in subsection (a) stored at the expense of the United States at a location approved by the Secretary concerned.”
 
 Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -148,7 +148,7 @@ Section 368(c) of Pub. L. 104–201 provided that: “The amendments made by thi
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–661, applicable with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because ofcircumstances arising on or after Nov. 14, 1986, see section 620(c)(2) of Pub. L. 99–661, set out as a note under section 406 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 99–661, applicable with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after Nov. 14, 1986, see section 620(c)(2) of Pub. L. 99–661, set out as a note under section 406 of Title 37, Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1965 Amendment; Reimbursement of Expenses
 
@@ -167,8 +167,4 @@ Authority vested by this section in “the Secretary concerned” to be exercise
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this section in “the Secretary concerned” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or his designee, see section 3071 of Title 33, Navigation and Navigable Waters.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 3071; title 37 sections 406, 406b, 406c; title 42 section 213a.
 

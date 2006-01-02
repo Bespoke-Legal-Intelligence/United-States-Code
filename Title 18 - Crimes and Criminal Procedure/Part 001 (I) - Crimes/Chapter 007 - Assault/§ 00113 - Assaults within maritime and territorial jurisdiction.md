@@ -42,7 +42,7 @@ Phraseology was simplified.
 
 Pub. L. 104–294, §604(b)(7), repealed Pub. L. 103–322, §170201(c)(1)–(3). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, §330016(2)(B), substituted “a fine under this title” for “fine of not more than” throughthe immediately following dollar amount wherever appearing.
+1994—Pub. L. 103–322, §330016(2)(B), substituted “a fine under this title” for “fine of not more than” through the immediately following dollar amount wherever appearing.
 
 Pub. L. 103–322, §320101(c), as amended by Pub. L. 104–294, §604(b)(12)(B), which directed the amendment of subsec. (c) by substituting “ten years” for “five years” and the amendment of subsec. (e) by substituting “six months” for “three months”, were executed by making the substitutions in subsecs. (a)(3) and (a)(5), respectively, to reflect the probable intent of Congress and the redesignation of subsecs. (c) and (e) as subsecs. (a)(3) and (a)(5), respectively. See below.
 

@@ -38,7 +38,3 @@ Section applicable to estates of decedents dying, and generation-skipping transf
 
 Section inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2056A of this title.
-

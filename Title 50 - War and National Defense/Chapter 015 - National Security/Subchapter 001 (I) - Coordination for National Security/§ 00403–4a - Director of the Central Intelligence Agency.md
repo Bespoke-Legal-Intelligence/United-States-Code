@@ -56,9 +56,11 @@ Under the direction of the Director of National Intelligence and in a manner con
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–487, title VI, §611(b), Dec. 23, 2004, 118 Stat. 3955, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to appointments made on or after the date that is one year after the date of the enactment of this Act \[Dec. 23, 3004\].”
+Pub. L. 108–487, title VI, §611(b), Dec. 23, 2004, 118 Stat. 3955, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to appointments made on or after the date that is one year after the date of the enactment of this Act \[Dec. 23, 2004\].”
 
 #### Effective Date
+
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

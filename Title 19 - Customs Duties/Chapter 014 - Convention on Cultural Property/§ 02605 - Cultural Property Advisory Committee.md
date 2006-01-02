@@ -62,7 +62,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 &emsp;(B) such archaeological or ethnological material of the State Party, specified by type or such other classification as the Committee deems appropriate, which should be covered by such agreement or action.
 
-(5) If any member of the Committee disagrees with respect to any matter in any report prepared under this subsection, such member may prepare a statement setting forth the reasonsfor such disagreement and such statement shall be appended to, and considered a part of, the report.
+(5) If any member of the Committee disagrees with respect to any matter in any report prepared under this subsection, such member may prepare a statement setting forth the reasons for such disagreement and such statement shall be appended to, and considered a part of, the report.
 
 (6) The Committee shall submit to the Congress and the President a copy of each report prepared by it under this subsection.
 

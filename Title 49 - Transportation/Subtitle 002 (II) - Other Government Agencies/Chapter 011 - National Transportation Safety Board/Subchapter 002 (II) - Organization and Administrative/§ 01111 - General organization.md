@@ -14,7 +14,7 @@ Terms of Office and Removal.—The term of office of each member is 5 years. An 
 
 (d)
 
-Chairman and Vice Chairman.—The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of both the Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
+Chairman and Vice Chairman.—The President shall designate, by and with the advice and consent of the Senate, a Chairman of the Board. The President also shall designate a Vice Chairman of the Board. The terms of office of boththe Chairman and Vice Chairman are 2 years. When the Chairman is absent or unable to serve or when the position of Chairman is vacant, the Vice Chairman acts as Chairman.
 
 (e)
 

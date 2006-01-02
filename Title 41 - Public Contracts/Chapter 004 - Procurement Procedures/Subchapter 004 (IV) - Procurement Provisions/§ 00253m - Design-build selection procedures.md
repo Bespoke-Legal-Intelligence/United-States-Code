@@ -40,7 +40,7 @@ Two-phase selection procedures consist of the following:
 
 &emsp;&emsp;&emsp;(ii) cost or price information.
 
-&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be considered in the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
+&emsp;(3) The evaluation factors to be used in evaluating phase-one proposals are stated in the solicitation and include specialized experience and technical competence, capability to perform, past performance of the offeror's team (including the architect-engineer and construction members of the team) and other appropriate factors, except that cost-related or price-related evaluation factors are not permitted. Each solicitation establishes the relative importance assigned to the evaluation factors and subfactors that must be consideredin the evaluation of phase-one proposals. The agency evaluates phase-one proposals on the basis of the phase-one evaluation factors set forth in the solicitation.
 
 &emsp;(4) The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
 
@@ -54,7 +54,7 @@ Two-phase selection procedures consist of the following:
 
 #### (d) Solicitation to state number of offerors to be selected for phase-two requests for competitive proposals
 
-A solicitation issued pursuant to the procedures described in subsection (c) of this section shall state the maximum number of offerors that are to be selected to submit competitiveproposals pursuant to subsection (c)(4) of this section. The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government's interest and is consistent with the purposes and objectives of the two-phase selection process.
+A solicitation issued pursuant to the procedures described in subsection (c) of this section shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4) of this section. The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government's interest and is consistent with the purposes and objectives of the two-phase selection process.
 
 #### (e) Requirement for guidance and regulations
 

@@ -1,6 +1,6 @@
 ### §1182. Division between Cherokee Delawares and the Delaware Tribe of Indians of Western Oklahoma
 
-There shall be withdrawn from the funds on deposit in the Treasury of the United States tothe credit of the Delaware Nation that were appropriated by the Act of October 7, 1964 (78 Stat. 1033), and the interest accrued thereon, using the interest fund first, $7,000, which shall be divided equally between the Cherokee Delawares and the Delaware Tribe of Indians of Western Oklahoma, and shall be available for claims expenses incurred by the duly authorized personnel of the two tribal groups, as set forth in their joint resolution numbered 4–68 adopted on September 9, 1967.
+There shall be withdrawn from the funds on deposit in the Treasury of the United States to the credit of the Delaware Nation that were appropriated by the Act of October 7, 1964 (78 Stat. 1033), and the interest accrued thereon, using the interest fund first, $7,000, which shall be divided equally between the Cherokee Delawares and the Delaware Tribe of Indians of Western Oklahoma, and shall be available for claims expenses incurred by the duly authorized personnel of the two tribal groups, as set forth in their joint resolution numbered 4–68 adopted on September 9, 1967.
 
 (Pub. L. 90–508, §2, Sept. 21, 1968, 82 Stat. 861.)
 

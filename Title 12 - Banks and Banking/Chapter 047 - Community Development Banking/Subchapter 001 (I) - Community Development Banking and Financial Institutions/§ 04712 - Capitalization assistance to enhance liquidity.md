@@ -26,7 +26,7 @@
 
 #### (b) Selection
 
-The selection of organizations to receive assistance under this section shall be at the discretion of the Fund and in accordance with criteria established by the Fund. In establishing such criteria, the Fund shall take into account the criteria contained in sections 4704(b) and 4706 of this title, as appropriate.
+The selection of organizations to receive assistance under this section shall be at the discretion of the Fund and in accordance with criteria established by the Fund. In establishingsuch criteria, the Fund shall take into account the criteria contained in sections 4704(b) and 4706 of this title, as appropriate.
 
 #### (c) Amount of assistance
 
@@ -60,7 +60,7 @@ Any proceeds from the sale of loans by an organization assisted under this secti
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug.22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 Federal tax law, referred to in subsec. (e)(1), is classified generally to Title 26, Internal Revenue Code.
 

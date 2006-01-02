@@ -28,3 +28,4 @@
 - [&sect; 00918 - General prohibitions](%C2%A7%2000918%20-%20General%20prohibitions.md)
 - [&sect; 00918a - Energy generation, transmission, and distribution facilities efficiency grants and loans in rural communities with extremely high energy&#8230;](%C2%A7%2000918a%20-%20Energy%20generation%2C%20transmission%2C%20and%20distribution%20facilities%20efficiency%20grants%20and%20loans%20in%20rural%20communities%20with%20extremely%20high%20energy%E2%80%A6.md)
 - [&sect; 00918b - Acquisition of existing systems in rural communities with high energy costs](%C2%A7%2000918b%20-%20Acquisition%20of%20existing%20systems%20in%20rural%20communities%20with%20high%20energy%20costs.md)
+- [&sect; 00918c - Rural and remote communities electrification grants](%C2%A7%2000918c%20-%20Rural%20and%20remote%20communities%20electrification%20grants.md)

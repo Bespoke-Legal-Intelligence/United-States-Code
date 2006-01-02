@@ -6,7 +6,7 @@ The Commission may, for the purpose of carrying out its duties under this subcha
 
 #### (b) Information from Federal agencies
 
-The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission, subject to applicable law.
+The Commission may secure directly from any Federal department or agency such informationas the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission, subject to applicable law.
 
 #### (c) Postal services
 

@@ -34,5 +34,5 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Availability of Grants for Pesticide Program Development and Implementation
 
-Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2499, provided in part: “That beginning in fiscal year 1999and thereafter, pesticide program implementation grants under section 23(a)(1) of the Federal Insecticide, Fungicide and Rodenticide Act, as amended \[7 U.S.C. 136u(a)(1)\], shall be available for pesticide program development and implementation, including enforcement and compliance activities”.
+Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2499, provided in part: “That beginning in fiscal year 1999 and thereafter, pesticide program implementation grants under section 23(a)(1) of the Federal Insecticide, Fungicide and Rodenticide Act, as amended \[7 U.S.C. 136u(a)(1)\], shall be available for pesticide program development and implementation, including enforcement and compliance activities”.
 

@@ -66,7 +66,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 &emsp;&emsp;(B) the relationship of the expenditures identified in paragraph (1) to college costs; and
 
-&emsp;&emsp;(C) the extent to which increases in institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving such discounts, the extent to which financial aid is provided to students with limited need in order to attract a student to a particular institution, and the extent to which Federalfinancial aid, including loan aid, has been used to offset the costs of such practices.
+&emsp;&emsp;(C) the extent to which increases in institutional financial aid and tuition discounting practices affect tuition increases, including the demographics of students receiving such discounts, the extent to which financial aid is provided to students with limited need in order to attract a student to a particular institution, and the extent to which Federal financial aid, including loan aid, has been used to offset the costs of such practices.
 
 #### (3) Final report
 
@@ -78,7 +78,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 #### (5) Fines
 
-&emsp;In addition to actions authorized in section 1094(c) of this title, the Secretary may impose a fine in an amount not to exceed $25,000 on an institution of higher education for failing to provide the information described in paragraph (1) in a timely and accurate manner, or for failing to otherwise cooperate with the National Center for Education Statistics regarding efforts to obtain data on the cost of higher education under this section and pursuant to the program participation agreement entered into under section 1094 of this title.
+&emsp;In addition to actions authorized in section 1094(c) of this title, the Secretary may impose a fine in an amount not to exceed $25,000 on an institution of higher education for failing toprovide the information described in paragraph (1) in a timely and accurate manner, or for failing to otherwise cooperate with the National Center for Education Statistics regarding efforts to obtain data on the cost of higher education under this section and pursuant to the program participation agreement entered into under section 1094 of this title.
 
 #### (d) Student aid recipient survey
 
@@ -134,7 +134,7 @@ Another prior section 1016, Pub. L. 89–329, title I, §116, as added Pub. L. 9
 
 A prior section 1016a, Pub. L. 89–329, title I, §122, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286, limited funds authorized to be appropriated, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-A prior section 1017, Pub. L. 89–329, title I, §131, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat.1286; Pub. L. 102–54, §13(g)(1)(A), June 13, 1991, 105 Stat. 275, related to National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1017, Pub. L. 89–329, title I, §131, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1286; Pub. L. 102–54, §13(g)(1)(A), June 13, 1991, 105 Stat. 275, related to National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Another prior section 1017, Pub. L. 89–329, title I, §117, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1382; amended Pub. L. 99–386, title I, §103(a), Aug. 22, 1986, 100 Stat. 821, related to establishment and administration of the National Advisory Council on Continuing Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

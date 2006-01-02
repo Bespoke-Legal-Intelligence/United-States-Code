@@ -2,11 +2,11 @@
 
 #### (a) Printing
 
-Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
+Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households whichhave been duly certified as eligible to participate in the food stamp program.
 
 #### (b) Approved food stores; receipt of cash in change for coupons used to purchase food
 
-Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: <i>Provided</i>, That nothingin this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: <i>Provided further</i>, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
+Coupons issued to eligible households shall be used by them only to purchase food in retail food stores which have been approved for participation in the food stamp program at prices prevailing in such stores: <i>Provided</i>, That nothing in this chapter shall be construed as authorizing the Secretary to specify the prices at which food may be sold by wholesale food concerns or retail food stores: <i>Provided further</i>, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued.
 
 #### (c) Design of coupons
 
@@ -160,7 +160,7 @@ Point-of-sale service.—The term “point-of-sale service” means any product 
 
 &emsp;(B)
 
-Restrictions.—A company may not sell or provide electronic benefit transfer services, or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer—
+Restrictions.—A company may not sell or provide electronic benefit transfer services,or fix or vary the consideration for electronic benefit transfer services, on the condition or requirement that the customer—
 
 &emsp;&emsp;(i) obtain some additional point-of-sale service from the company or an affiliate of the company; or
 
@@ -250,11 +250,11 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 #### (H) Switching
 
-&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
+&emsp;&emsp;The term “switching” means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use ofan electronic benefit transfer card in 1 State to the issuer of the card that is in another State.
 
 #### (2) Requirement
 
-&emsp;Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption ofcoupons in the form of electronic benefit transfer cards are interoperable, and food stamp benefits are portable, among all States.
+&emsp;Not later than October 1, 2002, the Secretary shall ensure that systems that provide for the electronic issuance, use, and redemption of coupons in the form of electronic benefit transfer cards are interoperable, and food stamp benefits are portable, among all States.
 
 #### (3) Cost
 

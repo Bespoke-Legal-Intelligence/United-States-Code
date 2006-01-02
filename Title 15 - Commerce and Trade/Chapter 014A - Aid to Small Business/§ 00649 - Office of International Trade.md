@@ -116,7 +116,7 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 #### Effective Date
 
-Section 113(b) of Pub. L. 96–481 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1980, or the date of enactment of this Act \[Oct. 21, 1980\], whichever occurs later.”
+Section 113(b) of Pub. L. 96–481 provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1980, or the date ofenactment of this Act \[Oct. 21, 1980\], whichever occurs later.”
 
 #### Short Title
 

@@ -36,7 +36,3 @@ In subsection (a), the word “lend” is substituted for the word “issue”, 
 
 In subsection (b), the words “hereafter”, “borrowed”, and “under the authority of this section” are omitted as surplusage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 2238.
-

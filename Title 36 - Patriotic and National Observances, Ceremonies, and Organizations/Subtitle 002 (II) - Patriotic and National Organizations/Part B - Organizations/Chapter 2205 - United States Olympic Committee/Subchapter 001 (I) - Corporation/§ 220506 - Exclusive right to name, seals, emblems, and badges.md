@@ -96,7 +96,7 @@ The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 
 
 Subsec. (a)(4). Pub. L. 105–277, §142(g)(2), inserted “ ‘Paralympic’, ‘Paralympiad’, ‘Pan-American’, ‘America Espirito Sport Fraternite’,” before “or any combination”.
 
-Subsec. (b). Pub. L. 105–277, §142(g)(3), (4), inserted “, International Paralympic Committee, the Pan-American Sports Organization,” after “International Olympic Committee” and “the Paralympic team,” before “the Pan-American team”.
+Subsec. (b). Pub. L. 105–277, §142(g)(3), (4), inserted “, International Paralympic Committee, the Pan-American Sports Organization,” after “InternationalOlympic Committee” and “the Paralympic team,” before “the Pan-American team”.
 
 Subsec. (c)(3). Pub. L. 105–277, §142(g)(5), inserted “, Paralympic, or Pan-American Games” after “any Olympic”.
 

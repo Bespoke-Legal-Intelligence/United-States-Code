@@ -28,3 +28,4 @@
 - [&sect; 07144b - Office of Counterintelligence](%C2%A7%2007144b%20-%20Office%20of%20Counterintelligence.md)
 - [&sect; 07144c - Office of Intelligence](%C2%A7%2007144c%20-%20Office%20of%20Intelligence.md)
 - [&sect; 07144d - Office of Arctic Energy](%C2%A7%2007144d%20-%20Office%20of%20Arctic%20Energy.md)
+- [&sect; 07144e - Office of Indian Energy Policy and Programs](%C2%A7%2007144e%20-%20Office%20of%20Indian%20Energy%20Policy%20and%20Programs.md)

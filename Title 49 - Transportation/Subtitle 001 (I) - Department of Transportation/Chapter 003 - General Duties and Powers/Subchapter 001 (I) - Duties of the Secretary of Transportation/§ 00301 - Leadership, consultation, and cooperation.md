@@ -20,7 +20,7 @@ The Secretary of Transportation shall—
 
 &emsp;(9) develop and coordinate Federal policy on financing transportation infrastructure, including the provision of direct Federal credit assistance and other techniques used to leverage Federal transportation funds.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2418; Pub. L. 102–240, title V, §5002(a), title VI, §6017, Dec. 18, 1991, 105 Stat. 2158, 2183; Pub. L. 105–178, title I, §1504, June 9, 1998, 112 Stat. 251.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2418; Pub. L. 102–240, title V, §5002(a), title VI, §6017, Dec. 18, 1991, 105 Stat. 2158, 2183; Pub. L. 105–178, title I, §1504, June 9, 1998, 112 Stat. 251.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,10 @@ In clause (4), the word “compiling” is substituted for “gathering” for c
 Par. (6). Pub. L. 102–240, §§5002(a), 6017, redesignated par. (5) as (6) and inserted “, and including basic highway vehicle science”. Former par. (6) redesignated (7).
 
 Pars. (7), (8). Pub. L. 102–240, §5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+#### Budget Justification
+
+Pub. L. 109–59, title I, §1926, Aug. 10, 2005, 119 Stat. 1483, provided that: “The Department of Transportation and each agency in the Department shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a budget justification concurrently with the President's annual budget submission to Congress under section 1105(a) of title 31, United States Code.”
 
 #### Coordinated Transportation Services
 

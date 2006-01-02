@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture is authorized to provide assistance under this section to eligible landowners who suffer destruction of 35 percent or more of a commercial tree stand due to damaging weather, related condition, or wildfire.
+The Secretary of Agriculture is authorized to provide assistance under this section to eligiblelandowners who suffer destruction of 35 percent or more of a commercial tree stand due to damaging weather, related condition, or wildfire.
 
 #### (b) Form of assistance
 

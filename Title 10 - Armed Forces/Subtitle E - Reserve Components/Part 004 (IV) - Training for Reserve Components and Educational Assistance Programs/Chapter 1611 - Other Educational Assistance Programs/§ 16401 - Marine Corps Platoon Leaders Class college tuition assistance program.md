@@ -48,15 +48,15 @@ Limitations.—(1) Financial assistance may be provided to a member under this s
 
 (f)
 
-Failure To Complete Program.—(1) An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section may be required to repay the full amount of financial assistance, if the member—
+Failure To Complete Program.—(1) An enlisted member who receives financial assistance under this section may be ordered to active duty in the Marine Corps by the Secretary to serve in an appropriate enlisted grade for such period as the Secretary prescribes, but not for more than four years, and an officer who receives financial assistance under this section shall be subject to the repayment provisions of section 303a(e) of title 37, if the member—
 
-&emsp;(A) completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in theMarine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;
+&emsp;(A) completes the military and academic requirements of the Marine Corps Platoon Leaders Class program and refuses to accept an appointment as a commissioned officer in the Marine Corps when offered or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered;
 
 &emsp;(B) fails to complete the military or academic requirements of the Marine Corps Platoon Leaders Class program; or
 
 &emsp;(C) is disenrolled from the Marine Corps Platoon Leaders Class program for failure to maintain eligibility for an original appointment as a commissioned officer under section 532 of this title.
 
-(2) The Secretary of the Navy may waive the requirements of paragraph (1) in the case of a person who—
+(2) Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under section 303a(e) of title 37. The Secretary of the Navy may waive the requirements of paragraph (1) in the case of a person who—
 
 &emsp;(A) becomes unqualified to serve on active duty as an officer due to a circumstance not within the control of the person;
 
@@ -68,9 +68,13 @@ Failure To Complete Program.—(1) An enlisted member who receives financial ass
 
 Institution of Higher Education Defined.—In this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 106–65, div. A, title V, §551(a)(1), Oct. 5, 1999, 113 Stat. 612; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §533(a)–(d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, 1654A–111.)
+(Added Pub. L. 106–65, div. A, title V, §551(a)(1), Oct. 5, 1999, 113 Stat. 612; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §533(a)–(d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110, 1654A–111; Pub. L. 109–163, div. A, title VI, §687(c)(15), Jan. 6, 2006, 119 Stat. 3336.)
 
 #### Amendments
+
+2006—Subsec. (f)(1). Pub. L. 109–163, §687(c)(15)(A), substituted “shall be subject to the repayment provisions of section 303a(e) of title 37” for “may be required to repay the full amount of financial assistance” in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 109–163, §687(c)(15)(B), inserted “Any requirement to repay any portion of financial assistance received under this section shall be administered under the regulations issued under section 303a(e) of title 37.” before “The Secretary of the Navy may waive” in introductory provisions.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §533(f)(1)\], substituted “Class: college tuition assistance program” for “Class program: officer candidates pursuing degrees” in section catchline.
 
@@ -94,9 +98,13 @@ Subsec. (b)(2), (3). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(b)(2)�
 
 Subsec. (f)(1). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(1)(A), (B)\], in introductory provisions, substituted “An enlisted member who” for “A member who” and inserted “and an officer who receives financial assistance under this section may be required to repay the full amount of financial assistance,” after “for more than four years,”.
 
-Subsec. (f)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(1)(C)\], inserted “or, if already a commissioned officer in the Marine Corps, refuses to accept an assignment on active duty when offered” after “when offered”.
+Subsec. (f)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(1)(C)\], inserted “or, if already a commissionedofficer in the Marine Corps, refuses to accept an assignment on active duty when offered” after “when offered”.
 
 Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title V, §533(d)(2)\], added par. (2) and struck out former par. (2) which read as follows: “The Secretary of the Navy may waive the obligated service under paragraph (1) of a person who is not physically qualified for appointment under section 532 of this title and later is determined by the Secretary of the Navy under section 505 of this title to be unqualified for service as an enlisted member of the Marine Corps due to a physical or medical condition that was not the result of misconduct or grossly negligent conduct.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
 #### Transition Provision
 
@@ -111,8 +119,4 @@ Pub. L. 106–65, div. A, title V, §551(d), Oct. 5, 1999, 113 Stat. 614, provid
 &emsp;“(C) enters into a written agreement described in subsection (b)(3) of such section.
 
 “(2) Section 205(f) of title 37, United States Code, as added by subsection (c), applies to a member referred to in paragraph (1).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 205.
 

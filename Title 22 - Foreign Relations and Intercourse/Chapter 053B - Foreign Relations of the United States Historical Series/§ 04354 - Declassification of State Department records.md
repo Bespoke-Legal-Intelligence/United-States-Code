@@ -14,7 +14,7 @@ Subsection (a) of this section shall not apply to any record (or portion thereof
 
 &emsp;(2) would disclose the names or identities of living persons who provided confidential information to the United States and would pose a substantial risk of harm to such persons;
 
-&emsp;(3) would demonstrably impede current diplomatic negotiations or other ongoing officialactivities of the United States Government or would demonstrably impair the national security of the United States; or
+&emsp;(3) would demonstrably impede current diplomatic negotiations or other ongoing official activities of the United States Government or would demonstrably impair the national security of the United States; or
 
 &emsp;(4) would disclose matters that are related solely to the internal personnel rules and practices of the Department of State or are contained in personnel, medical, or similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 

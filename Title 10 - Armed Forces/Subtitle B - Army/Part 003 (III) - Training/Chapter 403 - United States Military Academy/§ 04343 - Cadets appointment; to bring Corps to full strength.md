@@ -1,6 +1,6 @@
 ### §4343. Cadets: appointment; to bring Corps to full strength
 
-If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Army may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in clauses (2) through (8) of section 4342(a) of this title, and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
+If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Army may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in clauses (2) through (8) of section 4342(a) of this title, and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointmentand is not in place of an appointment otherwise authorized by law.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 88–276, §1(2), Mar. 3, 1964, 78 Stat. 150; Pub. L. 93–171, §1(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 102–25, title VII, §701(f)(5), Apr. 6, 1991, 105 Stat. 115.)
 
@@ -35,8 +35,4 @@ Effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93–1
 #### Number of Alternate-Appointees From Congressional Sources Not To Be Reduced Because of Additional Presidential Appointments
 
 Pub. L. 89–650, §2, Oct. 13, 1966, 80 Stat. 896, provided that: “Notwithstanding any other provision of law, none of the additional appointments authorized in sections 4342(b)(1), 6954(b)(1) and 9342(b)(1) of this title as provided by this Act shall serve to reduce or diminish the number of qualified alternates from congressional sources who would otherwise be appointed by the appropriate service Secretary under the authority contained in sections 4343, 6956, and 9343 of title 10, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4342 of this title.
 

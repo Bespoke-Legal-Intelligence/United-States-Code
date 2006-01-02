@@ -28,7 +28,7 @@ In this subchapter and subchapter II:
 
 #### (7) Quota tobacco
 
-&emsp;The term ‘quota tobacco’<sup>1</sup> means a kind of tobacco that is subject to a farm marketing quota or farm acreage allotment for the 2004 tobacco marketing year under a marketing quota or allotment program established under part I of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1311 et seq.).
+&emsp;The term ‘quota tobacco’ <sup>1</sup> means a kind of tobacco that is subject to a farm marketing quota or farm acreage allotment for the 2004 tobacco marketing year under a marketing quota or allotment program established under part I of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1311 et seq.).
 
 #### (8) Tobacco
 

@@ -2,6 +2,8 @@
 
 <i><sup>1</sup></i><i> So in original. Probably should be “31100”.</i>
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -12,3 +14,4 @@
 - [&sect; 30103 - Relationship to other laws](%C2%A7%2030103%20-%20Relationship%20to%20other%20laws.md)
 - [&sect; 30104 - Authorization of appropriations](%C2%A7%2030104%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 30105 - Restriction on lobbying activities](%C2%A7%2030105%20-%20Restriction%20on%20lobbying%20activities.md)
+- [&sect; 30106 - Rented or leased motor vehicle safety and responsibility](%C2%A7%2030106%20-%20Rented%20or%20leased%20motor%20vehicle%20safety%20and%20responsibility.md)

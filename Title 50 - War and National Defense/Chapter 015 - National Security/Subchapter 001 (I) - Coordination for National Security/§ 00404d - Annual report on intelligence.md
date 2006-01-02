@@ -28,7 +28,7 @@ In this section, the term “appropriate congressional committees” means the f
 
 &emsp;(2) The Committee on Appropriations and the Committee on Armed Services of the House of Representatives.
 
-(July 26, 1947, ch. 343, title I, §109, as added Pub. L. 103–178, title III, §304(a), Dec. 3, 1993, 107 Stat. 2034; amended Pub. L. 104–293, title VIII, §803(a), (b)(1), Oct. 11, 1996, 110 Stat. 3475, 3476; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–306, title VIII, §811(b)(1)(B), Nov. 27, 2002, 116 Stat. 2422.)
+(July 26, 1947, ch. 343, title I, §109, as added Pub. L. 103–178, title III, §304(a), Dec. 3, 1993, 107 Stat.2034; amended Pub. L. 104–293, title VIII, §803(a), (b)(1), Oct. 11, 1996, 110 Stat. 3475, 3476; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–306, title VIII, §811(b)(1)(B), Nov. 27, 2002, 116 Stat. 2422.)
 
 #### Amendments
 

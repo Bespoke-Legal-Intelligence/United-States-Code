@@ -116,7 +116,7 @@ The entry and exit data system shall include a requirement for the collection of
 
 #### (3) Data maintenance procedures
 
-&emsp;Heads of agencies that have databases or data systems linked to the entry and exit datasystem shall establish rules, guidelines, policies, and operating and auditing procedures for collecting, removing, and updating data maintained in, and adding information to, such databases or data systems that ensure the accuracy and integrity of the data and for limiting access to the information in the databases or data systems to authorized personnel.
+&emsp;Heads of agencies that have databases or data systems linked to the entry and exit data system shall establish rules, guidelines, policies, and operating and auditing procedures for collecting, removing, and updating data maintained in, and adding information to, such databases or data systems that ensure the accuracy and integrity of the data and for limiting access to the information in the databases or data systems to authorized personnel.
 
 #### (4) Requirements
 
@@ -208,7 +208,7 @@ In implementing the provisions of subsections (g) and (h) of this section, the D
 
 #### (j) Compliance status reports
 
-Not later than 1 year after December 17, 2004, the Secretary of Homeland Security, the Secretary of State, the Attorney General, and the head of any other department or agency subjectto the requirements of this section, shall issue individual status reports and a joint status report detailing the compliance of the department or agency with each requirement under this section.
+Not later than 1 year after December 17, 2004, the Secretary of Homeland Security, the Secretary of State, the Attorney General, and the head of any other department or agency subject to the requirements of this section, shall issue individual status reports and a joint status report detailing the compliance of the department or agency with each requirement under this section.
 
 #### (k) Expediting registered travelers across international borders
 

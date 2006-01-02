@@ -38,7 +38,7 @@ Not later than 60 days after June 16, 1994, the Commission shall begin a proceed
 
 #### (1) Failure to meet interim standard
 
-&emsp;Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) of this section shall be considered in violation of a consumer product safety standardpromulgated under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
+&emsp;Until the final standard takes effect, a bicycle helmet that does not conform to an interim standard as required under subsection (a)(1) of this section shall be considered in violation of a consumer product safety standard promulgated under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\].
 
 #### (2) Status of final standard
 

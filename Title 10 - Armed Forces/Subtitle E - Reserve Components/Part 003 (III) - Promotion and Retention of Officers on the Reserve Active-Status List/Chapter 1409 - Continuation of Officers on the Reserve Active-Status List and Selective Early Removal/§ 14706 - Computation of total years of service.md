@@ -22,7 +22,3 @@ Provisions similar to those in this section were contained in sections 3853 and 
 
 1999—Pub. L. 106–65 amended text generally. Prior to amendment, text read as follows: “For the purpose of this chapter and chapter 1407 of this title, a reserve officer's years of service include all service, other than constructive service, of the officer as a commissioned officer of any uniformed service (other than service as a warrant officer).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14704 of this title.
-

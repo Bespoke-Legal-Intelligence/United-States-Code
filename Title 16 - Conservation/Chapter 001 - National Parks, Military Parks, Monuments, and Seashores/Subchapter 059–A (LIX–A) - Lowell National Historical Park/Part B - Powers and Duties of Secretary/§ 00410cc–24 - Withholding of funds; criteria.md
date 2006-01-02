@@ -4,7 +4,7 @@ The Secretary may refuse to obligate or expend any money appropriated for the pu
 
 &emsp;(a) the city of Lowell has failed to establish regulations or laws consistent with the standards and criteria established pursuant to section 410cc–32(e) of this title within one year after the date such standards and criteria have been established, except that the Secretary may extend such one-year period for not more than six months if the Secretary determines that the city has made a good faith effort to establish such regulations or laws;
 
-&emsp;(b) the city of Lowell has failed to notify the Commission of (1) applications for building permits or zoning variances respecting any property which is included in the index established pursuant to section 410cc–32(d) of this title, or (2) any proposals of the city of Lowell to change the regulations or laws described in paragraph (c)(1) of this subsection;
+&emsp;(b) the city of Lowell has failed to notify the Commission of (1) applications for building permits or zoning variances respecting anyproperty which is included in the index established pursuant to section 410cc–32(d) of this title, or (2) any proposals of the city of Lowell to change the regulations or laws described in paragraph (c)(1) of this subsection;
 
 &emsp;(c)(1) during the period before the city of Lowell has established regulations or laws consistent with the standards and criteria established pursuant to section 410cc–32(e) of this title, the city of Lowell has granted any building permit or zoning variance or has taken any other action respecting any property within the park or preservation district, which either the Secretary or the Commission consider to be inconsistent with such standards and criteria;
 

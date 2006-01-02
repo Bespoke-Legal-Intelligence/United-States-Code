@@ -52,7 +52,7 @@ Mandatory Functional Literacy Requirement.—
 
 &emsp;(5) The Chief Executive Officer of each institution shall have authority to grant waivers for good cause as determined and documented on an individual basis.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L.101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2008; amended Pub. L. 99–646, §§16(a), 17(a), Nov. 10, 1986, 100 Stat. 3595; Pub. L. 101–647, title XXIX, §§2902(a), 2904, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §§20405, 20412, Sept. 13, 1994, 108 Stat. 1825, 1828; Pub. L. 104–66, title I, §1091(c), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §809(c)\], Apr. 26, 1996, 110 Stat. 1321, 1321–76; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Subsec. (b)(2). Pub. L. 104–134, §101\[(a)\] \[title VIII, §809(c)(2)\], ame
 
 1994—Subsec. (a). Pub. L. 103–322, §20405(2), substituted “the prisoner's” for “his” after “the expiration of” and “toward the service of”.
 
-Subsec. (b). Pub. L. 103–322, §20412(1), (2), designated existing provisions as par. (1), substituted “Credit that has not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
+Subsec. (b). Pub. L. 103–322, §20412(1), (2), designated existing provisions as par. (1), substituted “Credit thathas not been earned may not later be granted.” for “Such credit toward service of sentence vests at the time that it is received. Credit that has vested may not later be withdrawn, and credit that has not been earned may not later be granted.”, and added pars. (2) to (4).
 
 Pub. L. 103–322, §20405, inserted “(other than a prisoner serving a sentence for a crime of violence)” after “A prisoner” in first sentence, substituted “the prisoner” for “he” before “has not satisfactorily complied with” in first sentence and before “shall receive no such credit toward” in third sentence and “the prisoner's” for “his” wherever appearing in first and third sentences, and inserted after first sentence “A prisoner who is serving a term of imprisonment of more than 1 year for a crime of violence, other than a term of imprisonment for the duration of the prisoner's life, may receive credit toward the service of the prisoner's sentence, beyond the time served, of up to 54 days at the end of each year of the prisoner's term of imprisonment, beginning at the end of the first year of the term, subject to determination by the Bureau of Prisons that, during that year, the prisoner has displayed exemplary compliance with such institutional disciplinary regulations.”
 

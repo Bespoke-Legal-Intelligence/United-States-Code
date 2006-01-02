@@ -270,7 +270,3 @@ Section 6182(c) of Pub. L. 100–647 provided that: “The amendments made by th
 
 Section applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, with subsec. (b) applicable to changes in use (and ownership) after Aug. 15, 1986, but only with respect to financing (including refinancings) provided after such date, and with subsec. (d) applicable to payments made after Aug. 15, 1986, see sections 1311 to 1318 of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 142, 147, 1394, 1400L, 7871 of this title.
-

@@ -34,7 +34,7 @@
 
 #### (2) Limitation on fund investments
 
-&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
+&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would beacquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
 
 #### (3) Investment in certain preferred stock permitted
 
@@ -290,7 +290,7 @@ Under joint regulations—
 
 For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758.)
+(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997,111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758.)
 
 #### Amendment of Section
 
@@ -340,9 +340,5 @@ Section 261(g) of Pub. L. 99–514 provided that: “The amendments made by this
 
 #### Merchant Marine Capital Construction Funds
 
-Section 261(a) of Pub. L. 99–514 provided that: “The purpose of this section \[enacting this section, amendingsection 26 of this title and section 1177 of Title 46, Appendix, and enacting provisions set out as a note above\] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 \[46 App. U.S.C. 1101 et seq.\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 56 of this title; title 46 App. section 1177.
+Section 261(a) of Pub. L. 99–514 provided that: “The purpose of this section \[enacting this section, amending section 26 of this title and section 1177 of Title 46, Appendix, and enacting provisions set out as a note above\] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 \[46 App. U.S.C. 1101 et seq.\].”
 

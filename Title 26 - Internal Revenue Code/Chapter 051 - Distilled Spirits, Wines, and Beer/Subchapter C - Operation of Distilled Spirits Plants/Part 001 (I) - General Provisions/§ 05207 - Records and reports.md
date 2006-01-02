@@ -70,7 +70,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 637, 63
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–34 struck out “shall be kept on the premises where the operations covered bythe record are carried on and” after “required by subsection (b)”.
+1997—Subsec. (c). Pub. L. 105–34 struck out “shall be kept on the premises where the operations covered by the record are carried on and” after “required by subsection (b)”.
 
 1984—Subsec. (a)(4)(D). Pub. L. 98–369, §454(c)(6), struck out subpar. (D) which required every distilled spirits plant proprietor to keep records in such form and manner as prescribed by the Secretary of the receipt, use, and balance on hand of all stamps required by law or regulations to be used by the proprietor.
 
@@ -101,8 +101,4 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
-
-#### Section referred to in Other Sections
-
-This section is referred to in sections 5114, 5615 of this title.
 

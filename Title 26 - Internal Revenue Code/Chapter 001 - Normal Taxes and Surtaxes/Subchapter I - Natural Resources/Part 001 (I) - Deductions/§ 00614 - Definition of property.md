@@ -88,7 +88,7 @@ In the case of oil and gas wells or geothermal deposits—
 
 &emsp;The elections provided by paragraphs (1) and (2) shall be made, in accordance with regulations prescribed by the Secretary, not later than the time prescribed for filing the return (including extensions thereof) for the first taxable year—
 
-&emsp;&emsp;(A) in which, in the case of an election under paragraph (1), any expenditure for development or operation in respect of the separate operating mineral interest is made bythe taxpayer after the acquisition of such interest, or
+&emsp;&emsp;(A) in which, in the case of an election under paragraph (1), any expenditure for development or operation in respect of the separate operating mineral interest is made by the taxpayer after the acquisition of such interest, or
 
 &emsp;&emsp;(B) in which, in the case of an election under paragraph (2), expenditures for development or operation of more than one mine in respect of a property are made by the taxpayer after the acquisition of the property.
 
@@ -193,8 +193,4 @@ aggregation.—The term ‘section 614(b) aggregation’ means any aggregation t
 &emsp;&emsp;“(B)
 
 Property.—The term ‘property’ has the same meaning as is applicable, under section 614 of the Internal Revenue Code of 1986, to the taxpayer for the first taxable year beginning after December 31, 1963.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 57, 291, 465, 468, 617, 636, 1016, 1254 of this title.
 

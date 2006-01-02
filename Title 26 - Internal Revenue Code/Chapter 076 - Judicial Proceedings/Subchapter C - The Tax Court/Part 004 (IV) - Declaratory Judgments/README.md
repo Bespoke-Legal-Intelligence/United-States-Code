@@ -21,10 +21,6 @@
 
 1974—Pub. L. 93–406, title II, §1041(a), Sept. 2, 1974, 88 Stat. 949, added part heading and analysis of sections.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7451, 7459 of this title.
-
 
 ---
 

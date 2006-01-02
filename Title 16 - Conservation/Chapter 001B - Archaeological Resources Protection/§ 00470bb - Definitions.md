@@ -22,7 +22,7 @@ As used in this chapter—
 
 &emsp;(5) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\].
 
-&emsp;(6) The term “person” means an individual, corporation, partnership, trust, institution, association, or any other private entity or any officer, employee, agent, department, or instrumentality of the United States, of any Indian tribe, or of any State or political subdivision thereof.
+&emsp;(6) The term “person” means an individual, corporation, partnership, trust, institution,association, or any other private entity or any officer, employee, agent, department, or instrumentality of the United States, of any Indian tribe, or of any State or political subdivision thereof.
 
 &emsp;(7) The term “State” means any of the fifty States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.
 

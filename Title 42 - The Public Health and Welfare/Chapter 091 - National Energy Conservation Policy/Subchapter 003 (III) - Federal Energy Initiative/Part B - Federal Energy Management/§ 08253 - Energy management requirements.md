@@ -2,9 +2,61 @@
 
 #### (a) Energy performance requirement for Federal buildings
 
-(1) Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, its Federal buildings so that the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 1995 is at least 10 percent less than the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 1985 and so that the energy consumption per gross square foot of its Federal buildings in use during the fiscal year 2000 is at least 20 percent less than the energy consumption per gross square foot of its Federal buildings in use during fiscal year 1985.
+(1) Subject to paragraph (2), each agency shall apply energy conservation measures to, and shall improve the design for the construction of, the Federal buildings of the agency (including each industrial or laboratory facility) so that the energy consumption per gross square foot of the Federal buildings of the agency in fiscal years 2006 through 2015 is reduced, as compared with the energy consumption per gross square foot of the Federal buildings of the agency in fiscal year 2003, by the percentage specified in the following table:
+
+<b>Fiscal Year</b>
+
+<b>Percentage</b>
+
+&nbsp;
+
+<b>reduction</b>
+
+&nbsp;2006
+
+2&nbsp;&nbsp;
+
+&nbsp;2007
+
+4&nbsp;&nbsp;
+
+&nbsp;2008
+
+6&nbsp;&nbsp;
+
+&nbsp;2009
+
+8&nbsp;&nbsp;
+
+&nbsp;2010
+
+10&nbsp;&nbsp;
+
+&nbsp;2011
+
+12&nbsp;&nbsp;
+
+&nbsp;2012
+
+14&nbsp;&nbsp;
+
+&nbsp;2013
+
+16&nbsp;&nbsp;
+
+&nbsp;2014
+
+18&nbsp;&nbsp;
+
+&nbsp;2015
+
+20\.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (2) An agency may exclude from the requirements of paragraph (1) any building, and the associated energy consumption and gross square footage, in which energy intensive activities are carried out. Each agency shall identify and list in each report made under section 8258(a) of this title the buildings designated by it for such exclusion.
+
+(3) Not later than December 31, 2014, the Secretary shall review the results of the implementation of the energy performance requirement established under paragraph (1) and submit to Congress recommendations concerning energy performance requirements for fiscal years 2016 through 2025.
 
 #### (b) Energy management requirement for Federal agencies
 
@@ -18,9 +70,25 @@
 
 #### (c) Exclusions
 
-(1) An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) of this section and the requirements of subsection (b)(1) of this section, any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments.
+(1)(A) An agency may exclude, from the energy performance requirement for a fiscal year established under subsection (a) of this section and the energy management requirement established under subsection (b) of this section, any Federal building or collection of Federal buildings, if the head of the agency finds that—
 
-(2) Each agency shall identify and list, in each report made under section 8258(a) of this title, the Federal buildings designated by it for such exclusion. The Secretary shall review such findings for consistency with the impracticability standards set forth in paragraph (1), and may within 90 days after receipt of the findings, reverse a finding of impracticability. In the case of any such reversal, the agency shall comply with the energy consumption requirements for the building concerned.
+&emsp;(i) compliance with those requirements would be impracticable;
+
+&emsp;(ii) the agency has completed and submitted all federally required energy management reports;
+
+&emsp;(iii) the agency has achieved compliance with the energy efficiency requirements of this chapter, the Energy Policy Act of 1992, Executive orders, and other Federal law; and
+
+&emsp;(iv) the agency has implemented all practicable, life cycle cost-effective projects with respect to the Federal building or collection of Federal buildings to be excluded.
+
+(B) A finding of impracticability under subparagraph (A)(i) shall be based on—
+
+&emsp;(i) the energy intensiveness of activities carried out in the Federal building or collection of Federal buildings; or
+
+&emsp;(ii) the fact that the Federal building or collection of Federal buildings is used in the performance of a national security function.
+
+(2) Each agency shall identify and list, in each report made under section 8258(a) of this title, the Federal buildings designated by it for such exclusion. The Secretary shall review such findings for consistency with the standards for exclusion set forth in paragraph (1), and may within 90 days after receipt of the findings, reverse the exclusion. In the case of any such reversal, the agency shall comply with the requirements of subsections (a) and (b)(1) of this section for the building concerned.
+
+(3) Not later than 180 days after August 8, 2005, the Secretary shall issue guidelines that establish criteria for exclusions under paragraph (1).
 
 #### (d) Implementation steps
 
@@ -32,7 +100,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;(B) identify high priority projects through calculation of payback periods;
 
-&emsp;&emsp;(C) take maximum advantage of contracts authorized under subchapter VII of thischapter, of financial incentives and other services provided by utilities for efficiency investment, and of other forms of financing to reduce the direct costs to the Government; and
+&emsp;&emsp;(C) take maximum advantage of contracts authorized under subchapter VII of this chapter, of financial incentives and other services provided by utilities for efficiency investment, and of other forms of financing to reduce the direct costs to the Government; and
 
 &emsp;&emsp;(D) otherwise implement this part;
 
@@ -44,9 +112,61 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;(5) ensure that the operation and maintenance procedures applied under this section are continued.
 
-(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718.)
+#### (e) Metering of energy use
+
+#### (1) Deadline
+
+&emsp;By October 1, 2012, in accordance with guidelines established by the Secretary under paragraph (2), all Federal buildings shall, for the purposes of efficient use of energy and reduction in the cost of electricity used in such buildings, be metered. Each agency shall use, to the maximum extent practicable, advanced meters or advanced metering devices that provide data at least daily and that measure at least hourly consumption of electricity in the Federal buildings of the agency. Such data shall be incorporated into existing Federal energy tracking systems and made available to Federal facility managers.
+
+#### (2) Guidelines
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 180 days after August 8, 2005, the Secretary, in consultation with the Department of Defense, the General Services Administration, representatives from the metering industry, utility industry, energy services industry, energy efficiency industry, energy efficiency advocacy organizations, national laboratories, universities, and Federal facility managers, shall establish guidelines for agencies to carry out paragraph (1).
+
+#### (B) Requirements for guidelines
+
+&emsp;&emsp;The guidelines shall—
+
+&emsp;&emsp;&emsp;(i) take into consideration—
+
+&emsp;&emsp;&emsp;&emsp;(I) the cost of metering and the reduced cost of operation and maintenance expected to result from metering;
+
+&emsp;&emsp;&emsp;&emsp;(II) the extent to which metering is expected to result in increased potential for energy management, increased potential for energy savings and energy efficiency improvement, and cost and energy savings due to utility contract aggregation; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the measurement and verification protocols of the Department of Energy;
+
+&emsp;&emsp;&emsp;(ii) include recommendations concerning the amount of funds and the number of trained personnel necessary to gather and use the metering information to track and reduce energy use;
+
+&emsp;&emsp;&emsp;(iii) establish priorities for types and locations of buildings to be metered based on cost-effectiveness and a schedule of one or more dates, not later than 1 year after the date of issuance of the guidelines, on which the requirements specified in paragraph (1) shall take effect; and
+
+&emsp;&emsp;&emsp;(iv) establish exclusions from the requirements specified in paragraph (1) based on the de minimis quantity of energy use of a Federal building, industrial process, or structure.
+
+#### (3) Plan
+
+&emsp;Not later than 6 months after the date guidelines are established under paragraph (2), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing how the agency will implement the requirements of paragraph (1), including (A) how the agency will designate personnel primarily responsible for achieving the requirements and (B) demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices, as defined in paragraph (1), are not practicable.
+
+(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §§102(a)(1), (b)–(e), 103, Aug. 8, 2005, 119 Stat. 606–608.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (c)(1)(A)(iii), was in the original “this Act”, meaning Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
+
+The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–58, §102(a)(1), substituted provisions relating to reduction of energy consumption in fiscal years 2006 to 2015 as compared to consumption in fiscal year 2003 and table of percentages specifying amount of reduction in each fiscal year for provisions relating to energy consumption during fiscal year 1995 at least 10 percent less than consumption during fiscal year 1985 and energy consumption during fiscal year 2000 at least 20 percent less than consumption during fiscal year 1985.
+
+Subsec. (a)(3). Pub. L. 109–58, §102(b), added par. (3).
+
+Subsec. (c)(1). Pub. L. 109–58, §102(c), added par. (1) and struck out former par. (1) which read as follows: “An agency may exclude, from the energy consumption requirements for the year 2000 established under subsection (a) of this section and the requirements of subsection (b)(1) of this section, any Federal building or collection of Federal buildings, and the associated energy consumption and gross square footage, if the head of such agency finds that compliance with such requirements would be impractical. A finding of impracticability shall be based on the energy intensiveness of activities carried out in such Federal buildings or collection of Federal buildings, the type and amount of energy consumed, the technical feasibility of making the desired changes, and, in the cases of the Departments of Defense and Energy, the unique character of certain facilities operated by such Departments.”
+
+Subsec. (c)(2). Pub. L. 109–58, §102(d), substituted “standards for exclusion” for “impracticability standards”, “the exclusion” for “a finding of impracticability”, and “requirements of subsections (a) and (b)(1) of this section” for “energy consumption requirements”.
+
+Subsec. (c)(3). Pub. L. 109–58, §102(e), added par. (3).
+
+Subsec. (e). Pub. L. 109–58, §103, added subsec. (e).
 
 1995—Subsec. (b)(2). Pub. L. 104–66 in last sentence inserted “, as part of the report required under section 8258(b) of this title,” after “the Secretary shall” and struck out “promptly” after “Congress”.
 
@@ -65,6 +185,10 @@ Subsec. (d)(2). Pub. L. 102–486, §152(c)(3), inserted before semicolon at end
 Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “using such surveys, apply energy conservation measures in a manner which will attain the goal established in subsection (a) of this section in the most cost-effective manner practicable; and”.
 
 1988—Pub. L. 100–615 amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
+
+#### Reporting Baseline
+
+Pub. L. 109–58, title I, §102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided that: “The energy reduction goals and baseline established in paragraph (1) of section 543(a) of the National Energy Conservation Policy Act (42 U.S.C. 8253(a)(1)), as amended by this subsection, supersede all previous goals and baselines under such paragraph, and related reporting requirements.”
 
 #### Survey of Energy Saving Potential
 

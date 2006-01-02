@@ -1,14 +1,16 @@
 ### §6553. Sunset of United States Advisory Commission on Public Diplomacy
 
-The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2005.
+The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2006.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446; Pub. L. 107–77, title IV, §407(a), Nov. 28, 2001, 115 Stat. 790.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446; Pub. L. 107–77, title IV, §407(a), Nov. 28, 2001, 115 Stat. 790; Pub. L. 109–108, title IV, §410, Nov. 22, 2005, 119 Stat. 2327.)
 
 #### References in Text
 
 Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set out as a note under section 1461 of this title and in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2005—Pub. L. 109–108 substituted “October 1, 2006” for “October 1, 2005”.
 
 2001—Pub. L. 107–77 substituted “October 1, 2005” for “October 1, 2001”.
 

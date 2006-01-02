@@ -14,7 +14,7 @@
 
 &emsp;(B) reduce the level and range of health care services provided at such a hospital from the level and range required by subsection (a)(2) of this section or change the manner in which such services are provided at such a hospital from the manner required by such subsection, or
 
-&emsp;(C) reduce the level and range of the other health-related activities conducted at suchhospital from the level and range required by subsection (a)(3) of this section,
+&emsp;(C) reduce the level and range of the other health-related activities conducted at such hospital from the level and range required by subsection (a)(3) of this section,
 
 > if Congress by law (enacted after November 16, 1973) specifically authorizes such action.
 

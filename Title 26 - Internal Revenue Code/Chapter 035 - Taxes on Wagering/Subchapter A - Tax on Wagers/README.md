@@ -10,10 +10,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 4412 of this title.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 

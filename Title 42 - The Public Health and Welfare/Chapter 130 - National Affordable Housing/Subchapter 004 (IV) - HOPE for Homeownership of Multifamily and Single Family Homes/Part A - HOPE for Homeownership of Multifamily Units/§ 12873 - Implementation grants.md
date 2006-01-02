@@ -58,7 +58,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(F) such other in-kind contributions as the Secretary may approve.
 
-> &emsp;Contributions for administrative expenses shall be recognized only up to an amount equal to 7 percent of the total amount of grants made available under this section.
+> &emsp;Contributions for administrative expenses shall be recognized only up to an amountequal to 7 percent of the total amount of grants made available under this section.
 
 #### (d) <sup>2</sup> Application
 
@@ -84,7 +84,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
-&emsp;&emsp;(H) the proposed sales price, the basis for such price determination, and terms to anentity, if any, that will purchase the property for resale to eligible families;
+&emsp;&emsp;(H) the proposed sales price, the basis for such price determination, and terms to an entity, if any, that will purchase the property for resale to eligible families;
 
 &emsp;&emsp;(I) the proposed sales prices, if any, and terms to eligible families;
 

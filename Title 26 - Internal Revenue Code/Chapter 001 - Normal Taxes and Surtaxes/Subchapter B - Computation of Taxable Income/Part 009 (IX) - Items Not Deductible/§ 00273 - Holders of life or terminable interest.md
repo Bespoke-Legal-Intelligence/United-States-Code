@@ -12,7 +12,3 @@ Amounts paid under the laws of a State, the District of Columbia, a possession o
 
 Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 167 of this title.
-

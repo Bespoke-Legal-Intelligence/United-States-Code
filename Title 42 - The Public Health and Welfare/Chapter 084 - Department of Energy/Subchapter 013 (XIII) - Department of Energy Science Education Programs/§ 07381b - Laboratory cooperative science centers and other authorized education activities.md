@@ -16,7 +16,7 @@ The Secretary is authorized to:
 
 &emsp;(6) Establish a museum-based science education program.
 
-&emsp;(7) Establish collaborative inner-city and rural partnership programs designed to meet the special mathematics and science education needs of students in inner-city and rural areas.
+&emsp;(7) Establish collaborative inner-city and rural partnership programs designed to meetthe special mathematics and science education needs of students in inner-city and rural areas.
 
 &emsp;(8) Provide paid administrative leave for employees of the Department or Department research and development facilities who volunteer to interact with schools, colleges, universities, teachers, or students for the purpose of science, mathematics, and engineering education.
 
@@ -30,6 +30,14 @@ The Secretary is authorized to:
 
 &emsp;(13) Establish a prefreshman enrichment program in which middle-school students attend summer workshops on mathematics, science, and engineering conducted by universities on their campuses.
 
+&emsp;(14) Support competitive events for students under the supervision of teachers, designed to encourage student interest and knowledge in science and mathematics.
+
+&emsp;(15) Support competitively-awarded, peer-reviewed programs to promote professional development for mathematics teachers and science teachers who teach in grades from kindergarten through grade 12 at Department research and development facilities.
+
+&emsp;(16) Support summer internships at Department research and development facilities, for mathematics teachers and science teachers who teach in grades from kindergarten through grade 12.
+
+&emsp;(17) Sponsor and assist in educational and training activities identified as critical skills needs for future workforce development at Department research and development facilities.
+
 #### (b) Use of facilities
 
 Any of the activities authorized by subsection (a) of this section may be conducted through Department research and development facilities. The Secretary may designate facilities conducting such education activities as “Laboratory Cooperative Science Centers”.
@@ -38,9 +46,11 @@ Any of the activities authorized by subsection (a) of this section may be conduc
 
 The Secretary is authorized to accept non-Federal funds to finance education activities described in subsection (a) of this section.
 
-(Pub. L. 101–510, div. C, title XXXI, §3165, Nov. 5, 1990, 104 Stat. 1841; Pub. L. 102–25, title VII, §704(d), Apr. 6, 1991, 105 Stat. 120.)
+(Pub. L. 101–510, div. C, title XXXI, §3165, Nov. 5, 1990, 104 Stat. 1841; Pub. L. 102–25, title VII, §704(d), Apr. 6, 1991, 105 Stat. 120; Pub. L. 109–58, title XI, §1102(b), Aug. 8, 2005, 119 Stat. 938.)
 
 #### Amendments
+
+2005—Subsec. (a)(14) to (17). Pub. L. 109–58, which directed amendment of this section by adding pars. (14) to (17) at the end, was executed by making the addition at the end of subsec. (a), to reflect the probable intent of Congress.
 
 1991—Subsec. (a). Pub. L. 102–25, §704(d)(1), redesignated subpars. (J) to (M) as pars. (10) to (13), respectively.
 

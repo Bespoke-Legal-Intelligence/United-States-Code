@@ -8,7 +8,7 @@
 
 #### (2) Administration of program; collaboration among agencies
 
-&emsp;The Director shall carry out this section acting through the Director of the National Institute of Mental Health and in collaboration with any other agencies that the Director determines appropriate.
+&emsp;The Director shall carry out this section acting through the Director of the NationalInstitute of Mental Health and in collaboration with any other agencies that the Director determines appropriate.
 
 #### (b) Centers of excellence
 

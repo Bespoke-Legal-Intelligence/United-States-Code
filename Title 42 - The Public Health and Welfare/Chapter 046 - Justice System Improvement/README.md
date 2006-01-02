@@ -25,6 +25,143 @@ Annual report to President and Congress.
 
 |  |  |
 | :--- | ---: |
+| [3712a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712a%20-%20Office%20of%20Weed%20and%20Seed%20Strategies.md) | Office of Weed and Seed Strategies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Assistance.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [3712b.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712b%20-%20Weed%20and%20Seed%20strategies.md) | Weed and Seed strategies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Guidelines.
+
+(c)
+
+Designation.
+
+(d)
+
+Application.
+
+(e)
+
+Grants.
+
+|  |  |
+| :--- | ---: |
+| [3712c.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712c%20-%20Inclusion%20of%20Indian%20tribes.md) | Inclusion of Indian tribes. |
+| [3712d.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712d%20-%20Office%20of%20Audit%2C%20Assessment%2C%20and%20Management.md) | Office of Audit, Assessment, and Management. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Covered programs.
+
+(c)
+
+Program assessments required.
+
+(d)
+
+Compliance actions required.
+
+(e)
+
+Grant management system.
+
+(f)
+
+Availability of funds.
+
+|  |  |
+| :--- | ---: |
+| [3712e.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712e%20-%20Community%20Capacity%20Development%20Office.md) | Community Capacity Development Office. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Means.
+
+(c)
+
+Locations.
+
+(d)
+
+Best practices.
+
+(e)
+
+Availability of funds.
+
+|  |  |
+| :--- | ---: |
+| [3712f.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712f%20-%20Division%20of%20Applied%20Law%20Enforcement%20Technology.md) | Division of Applied Law Enforcement Technology. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Duties.
+
+|  |  |
+| :--- | ---: |
+| [3712g.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003712g%20-%20Availability%20of%20funds.md) | Availability of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Period for awarding grant funds.
+
+(b)
+
+Period for expending grant funds.
+
+(c)
+
+Definition.
+
+(d)
+
+Applicability.
+
+|  |  |
+| :--- | ---: |
 | [3713\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003713%20-%20State%20grant%20program%20for%20training%20and%20prosecution%20of%20computer%20crimes.md) | State grant program for training and prosecution of computer crimes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,8 +211,25 @@ Authorization of appropriations.
 |  |  |
 | :--- | ---: |
 | [3715\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715%20-%20Office%20of%20Justice%20Programs%20grants%2C%20cooperative%20agreements%2C%20and%20contracts.md) | Office of Justice Programs grants, cooperative agreements, and contracts. |
+| [3715a.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715a%20-%20Consolidation%20of%20financial%20management%20systems%20of%20Office%20of%20Justice%20Programs.md) | Consolidation of financial management systems of Office of Justice Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Consolidation of accounting activities and procurement activities.
+
+(b)
+
+Further consolidation of procurement activities.
+
+(c)
+
+Consolidation of financial management systems.
+
+(d)
+
+Achieving compliance.
 
 #### SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE
 
@@ -156,43 +310,7 @@ Consultation with representatives of State and local government and judiciary.
 | :--- | ---: |
 | [3741\.](Subchapter%20004%20%28IV%29%20-%20Establishment%20of%20Bureau%20of%20Justice%20Assistance/%C2%A7%2003741%20-%20Establishment%20of%20Bureau%20of%20Justice%20Assistance.md) | Establishment of Bureau of Justice Assistance. |
 | [3742\.](Subchapter%20004%20%28IV%29%20-%20Establishment%20of%20Bureau%20of%20Justice%20Assistance/%C2%A7%2003742%20-%20Duties%20and%20functions%20of%20Director.md) | Duties and functions of Director. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### SUBCHAPTER V—BUREAU OF JUSTICE ASSISTANCE GRANT PROGRAMS
-
-|  |  |
-| :--- | ---: |
-| [3750\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/%C2%A7%2003750%20-%20Name%20of%20programs.md) | Name of programs. |
-| [3750a.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/%C2%A7%2003750a%20-%20Grant%20authorization.md) | Grant authorization. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Purpose.
-
-(b)
-
-Grants.
-
-|  |  |
-| :--- | ---: |
-| [3750b.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/%C2%A7%2003750b%20-%20Application.md) | Application. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Submission.
-
-(b)
-
-Content.
-
-|  |  |
-| :--- | ---: |
-| [3750c.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/%C2%A7%2003750c%20-%20Award%20of%20grants.md) | Award of grants. |
+| [3743\.](Subchapter%20004%20%28IV%29%20-%20Establishment%20of%20Bureau%20of%20Justice%20Assistance/%C2%A7%2003743%20-%20Grants%20for%20young%20witness%20assistance.md) | Grants for young witness assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -202,149 +320,133 @@ In general.
 
 (b)
 
-Grant amounts.
+Use of funds.
 
 (c)
 
-Multiple committees.
+Definitions.
 
 (d)
 
-Renewal of grants.
+Authorization of appropriations.
+
+#### SUBCHAPTER V—BUREAU OF JUSTICE ASSISTANCE GRANT PROGRAMS
+
+#### Part A—Edward Byrne Memorial Justice Assistance Grant Program
 
 |  |  |
 | :--- | ---: |
-| [3750d.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/%C2%A7%2003750d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part A—Drug Control and System Improvement Grant Program
-
-|  |  |
-| :--- | ---: |
-| [3751\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003751%20-%20Description%20of%20drug%20control%20and%20system%20improvement%20grant%20program.md) | Description of drug control and system improvement grant program. |
+| [3750\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003750%20-%20Name%20of%20program.md) | Name of program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Purpose of program.
+In general.
 
 (b)
 
-Grants to States and units of local government; purposes of grants.
+References to former programs.
+
+|  |  |
+| :--- | ---: |
+| [3751\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003751%20-%20Description.md) | Description. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants authorized.
+
+(b)
+
+Contracts and subawards.
 
 (c)
 
-Program evaluation component; waiver.
+Program assessment component; waiver.
 
-|  |  |
-| :--- | ---: |
-| [3752\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003752%20-%20Eligibility.md) | Eligibility. |
-| [3753\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003753%20-%20State%20applications.md) | State applications. |
-| [3754\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003754%20-%20Grant%20limitations.md) | Grant limitations. |
+(d)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Prohibited uses.
 
-(a)
-
-Cost of identified uses.
-
-(b)
+(e)
 
 Administrative costs.
 
+(f)
+
+Period.
+
+(g)
+
+Rule of construction.
+
+|  |  |
+| :--- | ---: |
+| [3752\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003752%20-%20Applications.md) | Applications. |
+| [3753\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003753%20-%20Review%20of%20applications.md) | Review of applications. |
+| [3754\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003754%20-%20Rules.md) | Rules. |
+| [3755\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003755%20-%20Formula.md) | Formula. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Allocation among States.
+
+(b)
+
+Allocation between States and units of local government.
+
 (c)
 
-Participation in State and Local Task Force Program; use of grant.
+Allocation for State governments.
 
 (d)
 
-Conduct of evaluation expenses.
+Allocations to local governments.
 
 (e)
 
-Non-Federal portion costs.
+Limitation on allocations to units of local government.
 
 (f)
 
-Programs already receiving funds.
+Funds not used by the State.
+
+(g)
+
+Special rules for Puerto Rico.
+
+(h)
+
+Units of local government in Louisiana.
 
 |  |  |
 | :--- | ---: |
-| [3755\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003755%20-%20Review%20of%20State%20applications.md) | Review of State applications. |
+| [3756\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003756%20-%20Reserved%20funds.md) | Reserved funds. |
+| [3757\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003757%20-%20Interest-bearing%20trust%20funds.md) | Interest-bearing trust funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Financial assistance upon approval of application or amendment.
+Trust fund required.
 
 (b)
 
-Time limitation for approval; specific reasons for disapproval.
+Expenditures.
 
 (c)
 
-Limitation on use of grant funds for land acquisition or construction projects.
-
-(d)
-
-Reasonable notice and opportunity for reconsideration before final disapproval.
+Repaid amounts.
 
 |  |  |
 | :--- | ---: |
-| [3756\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003756%20-%20Allocation%20and%20distribution%20of%20funds%20under%20formula%20grants.md) | Allocation and distribution of funds under formula grants. |
+| [3758\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/%C2%A7%2003758%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-States.
-
-(b)
-
-Units of local government.
-
-(c)
-
-Programs eligible.
-
-(d)
-
-Unneeded State allocated funds distributed to units of local government.
-
-(e)
-
-Funds not distributed.
-
-(f)
-
-Testing certain sex offenders for human immunodeficiency virus.
-
-|  |  |
-| :--- | ---: |
-| [3757\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003757%20-%20State%20office.md) | State office. |
-| [3758\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003758%20-%20Distribution%20of%20grants%20to%20local%20government.md) | Distribution of grants to local government. |
-| [3759\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/%C2%A7%2003759%20-%20Improvement%20of%20criminal%20justice%20records.md) | Improvement of criminal justice records. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Percentage allocation of funds.
-
-(b)
-
-Includible improvements.
-
-(c)
-
-Guidelines.
-
-(d)
-
-Expenditures unwarranted in light of quality of criminal justice records.
 
 #### Part B—Discretionary Grants
 
@@ -352,30 +454,7 @@ I74subpart 1—grants to public and private entities
 
 |  |  |
 | :--- | ---: |
-| [3760\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20B%20-%20Discretionary%20Grants/Subpart%20001%20-%20Grants%20to%20Public%20and%20Private%20Entities/%C2%A7%2003760%20-%20Purposes.md) | Purposes. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Grants and contracts.
-
-(c)
-
-Firearm safety education grants.
-
-(d)
-
-Limitations as to non-governmental entities.
-
-|  |  |
-| :--- | ---: |
-| [3761\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20B%20-%20Discretionary%20Grants/Subpart%20001%20-%20Grants%20to%20Public%20and%20Private%20Entities/%C2%A7%2003761%20-%20Allocation%20of%20funds%20for%20grants.md) | Allocation of funds for grants. |
-| [3762\.](Subchapter%20005%20%28V%29%20-%20Bureau%20of%20Justice%20Assistance%20Grant%20Programs/Part%20B%20-%20Discretionary%20Grants/Subpart%20001%20-%20Grants%20to%20Public%20and%20Private%20Entities/%C2%A7%2003762%20-%20Limitation%20on%20use%20of%20discretionary%20grant%20funds.md) | Limitation on use of discretionary grant funds. |
+| 3760 to 3762. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -457,55 +536,9 @@ Annual report.
 
 |  |  |
 | :--- | ---: |
-| [3769\.](Subchapter%20006%20%28VI%29%20-%20Criminal%20Justice%20Facility%20Construction%20Pilot%20Program/%C2%A7%2003769%20-%20Authority%20for%20payments.md) | Authority for payments. |
-| [3769a.](Subchapter%20006%20%28VI%29%20-%20Criminal%20Justice%20Facility%20Construction%20Pilot%20Program/%C2%A7%2003769a%20-%20Eligibility.md) | Eligibility. |
+| 3769 to 3769d. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Conditions.
-
-(b)
-
-Development of plan; limitation of assistance.
-
-|  |  |
-| :--- | ---: |
-| [3769b.](Subchapter%20006%20%28VI%29%20-%20Criminal%20Justice%20Facility%20Construction%20Pilot%20Program/%C2%A7%2003769b%20-%20Application%3B%20approval%3B%20payment.md) | Application; approval; payment. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Terms and conditions of application.
-
-(b)
-
-Approval of application; criteria.
-
-(c)
-
-Amount of payment; limitation.
-
-(d)
-
-Amendment of application; approval.
-
-|  |  |
-| :--- | ---: |
-| [3769c.](Subchapter%20006%20%28VI%29%20-%20Criminal%20Justice%20Facility%20Construction%20Pilot%20Program/%C2%A7%2003769c%20-%20Recapture%20provisions.md) | Recapture provisions. |
-| [3769d.](Subchapter%20006%20%28VI%29%20-%20Criminal%20Justice%20Facility%20Construction%20Pilot%20Program/%C2%A7%2003769d%20-%20Clearinghouse%20on%20the%20construction%20and%20modernization%20of%20criminal%20justice%20facilities.md) | Clearinghouse on the construction and modernization of criminal justice facilities. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Functions; information.
-
-(b)
-
-Authority of Director.
 
 #### SUBCHAPTER VII—FBI TRAINING OF STATE AND LOCAL CRIMINAL JUSTICE PERSONNEL
 
@@ -559,42 +592,8 @@ Procedures for paperwork minimization and prevention of duplication and delays i
 |  |  |
 | :--- | ---: |
 | [3783\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003783%20-%20Notice%20and%20hearing%20on%20denial%20or%20termination%20of%20grant.md) | Notice and hearing on denial or termination of grant. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Payments to recipients; limitation, reduction, or termination.
-
-(b)
-
-Notice of action; reasons for action; hearing or investigation; finality of findings and determinations; reasons in detail for action without hearing.
-
-(c)
-
-Rehearing; regulations and procedures; presentation of additional information.
-
-|  |  |
-| :--- | ---: |
 | [3784\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003784%20-%20Finality%20of%20determinations.md) | Finality of determinations. |
-| [3785\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003785%20-%20Appellate%20court%20review.md) | Appellate court review. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Jurisdiction of court of appeals; petition for review; time for filing, copies; record; objections before appropriate agency.
-
-(b)
-
-Determination by court of appeals: conclusiveness of findings; remand; conclusiveness of new or modified findings.
-
-(c)
-
-Determination by court of appeals; Supreme Court review.
-
-|  |  |
-| :--- | ---: |
+| [3785\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003785%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20XI%2C%20%C2%A71155%283%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203114.md) | Repealed. |
 | [3786\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003786%20-%20Delegation%20of%20functions.md) | Delegation of functions. |
 | [3787\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003787%20-%20Subpoena%20power%3B%20employment%20of%20hearing%20officers%3B%20authority%20to%20hold%20hearings.md) | Subpoena power; employment of hearing officers; authority to hold hearings. |
 | [3788\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Provisions/%C2%A7%2003788%20-%20Personnel%20and%20administrative%20authority.md) | Personnel and administrative authority. |
@@ -814,6 +813,10 @@ Limitations on benefits.
 Death by heart attack or stroke; presumption.
 
 (<i>l</i>)
+
+(m)
+
+Suspension or end of collection action.
 
 Definition.
 
@@ -1119,41 +1122,33 @@ Grant authorization.
 
 (b)
 
-Rehiring, hiring, and initial redeployment grant projects.
+Uses of grant amounts.
 
 (c)
 
-Troops-to-cops programs.
+Preferential consideration of applications for certain grants.
 
 (d)
 
-Additional grant projects.
+Technical assistance.
 
 (e)
 
-Preferential consideration of applications for certain grants.
+Utilization of components.
 
 (f)
 
-Technical assistance.
+Minimum amount.
 
 (g)
 
-Utilization of components.
+Matching funds.
 
 (h)
 
-Minimum amount.
-
-(i)
-
-Matching funds.
-
-(j)
-
 Allocation of funds.
 
-(k)
+(i)
 
 Termination of grants for hiring officers.
 
@@ -1477,7 +1472,7 @@ Substance abuse testing requirement.
 
 (c)
 
-Eligibility for preference with aftercare component.
+Aftercare services requirement.
 
 (d)
 
@@ -1513,6 +1508,10 @@ Restriction.
 
 Disapproval notice and reconsideration.
 
+(e)
+
+Priority for partnerships with community-based drug treatment programs.
+
 |  |  |
 | :--- | ---: |
 | 3796ff–3. | Allocation and distribution of funds. |
@@ -1530,6 +1529,10 @@ Federal share.
 (c)
 
 Local allocation.
+
+(d)
+
+Definition.
 
 |  |  |
 | :--- | ---: |
@@ -1642,9 +1645,13 @@ Indian tribes.
 
 Grantee reporting.
 
+(i)
+
+Training, technical assistance, and data collection.
+
 |  |  |
 | :--- | ---: |
-| 3796gg–2. | Definitions. |
+| 3796gg–2. | Definitions and grant conditions. |
 | 3796gg–3. | General terms and conditions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1674,6 +1681,18 @@ Restriction of funds.
 (b)
 
 Medical costs.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Rule of construction.
+
+(e)
+
+Judicial notification.
 
 |  |  |
 | :--- | ---: |
@@ -1725,7 +1744,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| 3796gg–7. | Education and training to end violence against and abuse of women with disabilities. |
+| 3796gg–7. | Education, training, and enhanced services to end violence against and abuse of women with disabilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1735,15 +1754,99 @@ In general.
 
 (b)
 
-Priorities.
+Use of funds.
 
 (c)
 
-Uses of grants.
+Eligible entities.
 
 (d)
 
+Underserved populations.
+
+(e)
+
 Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 3796gg–8. | Polygraph testing prohibition. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Prosecution.
+
+|  |  |
+| :--- | ---: |
+| 3796gg–9. | Sexual assault services. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purposes.
+
+(b)
+
+Grants to States and territories.
+
+(c)
+
+Grants for culturally specific programs addressing sexual assault.
+
+(d)
+
+Grants to State, territorial, and tribal sexual assault coalitions.
+
+(e)
+
+Grants to tribes.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 3796gg–10. | Grants to Indian tribal governments. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Collaboration.
+
+(c)
+
+Nonexclusivity.
+
+|  |  |
+| :--- | ---: |
+| 3796gg–11. | Tribal Deputy. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Duties.
+
+(c)
+
+Authority.
 
 #### SUBCHAPTER XII–I—GRANTS TO ENCOURAGE ARREST POLICIES AND ENFORCEMENT OF PROTECTION ORDERS
 
@@ -1767,7 +1870,7 @@ Eligibility.
 
 (d)
 
-Definition.
+Speedy notice to victims.
 
 (e)
 
@@ -1795,7 +1898,8 @@ Dissemination of information.
 | :--- | ---: |
 | 3796hh–2. | Reports. |
 | 3796hh–3. | Regulations or guidelines. |
-| 3796hh–4. | Definitions. |
+| 3796hh–4. | Definitions and grant conditions. |
+| 3796hh–5. | Training and technical assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2304,7 +2408,7 @@ Geographic distribution.
 
 (b)
 
-Minimum allocation.
+Technical assistance and training.
 
 |  |  |
 | :--- | ---: |

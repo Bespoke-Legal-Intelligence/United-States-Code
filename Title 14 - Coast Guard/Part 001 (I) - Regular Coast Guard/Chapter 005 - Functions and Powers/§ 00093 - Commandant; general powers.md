@@ -26,7 +26,7 @@
 
 &emsp;(12) accept and utilize, in times of emergency in order to save life or protect property, such voluntary services as may be offered to the Coast Guard;
 
-&emsp;(13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real propertyunder the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the Treasury;
+&emsp;(13) rent or lease, under such terms and conditions as are deemed advisable, for a period not exceeding five years, such real property under the control of the Coast Guard as may not be required for immediate use by the Coast Guard, the monies received from any such rental or lease, less amount of expenses incurred (exclusive of governmental personal services), to be deposited in the Treasury;
 
 &emsp;(14) grant, under such terms and conditions as are deemed advisable, permits, licenses, easements, and rights-of-way over, across, in, and upon lands under the control of the Coast Guard when in the public interest and without substantially injuring the interests of the United States in the property thereby affected;
 
@@ -52,7 +52,7 @@
 
 &emsp;(23) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery; and
 
-&emsp;(y)<sup>1</sup> after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
+&emsp;(y) <sup>1</sup> after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate.
 
 (b)(1) Notwithstanding subsection (a)(14), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) to an entity with which the Commandant has a cooperative agreement under section 4(e) of the Ports and Waterways Safety Act, and for which a term longer than 5 years is necessary to carry out the agreement.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L.102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038.)
 
 #### Historical and Revision Notes
 

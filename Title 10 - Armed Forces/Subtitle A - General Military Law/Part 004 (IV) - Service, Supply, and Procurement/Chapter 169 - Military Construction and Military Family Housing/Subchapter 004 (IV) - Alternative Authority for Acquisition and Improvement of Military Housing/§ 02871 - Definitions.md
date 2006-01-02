@@ -2,9 +2,9 @@
 
 In this subchapter:
 
-&emsp;(1) The term “ancillary supporting facilities” means facilities related to military housing units, including facilities to provide or support elementary or secondary education, child care centers, day care centers, tot lots, community centers, housing offices, dining facilities, unit offices, and other similar facilities for the support of military housing.
+&emsp;(1) The term “ancillary supporting facilities” means facilities related to military housing units, including facilities to provide or support elementary or secondary education, child care centers, day care centers, child development centers, tot lots, community centers, housing offices, dining facilities, unit offices, and other similar facilities for the support of military housing.
 
-&emsp;\[(2) Repealed. Pub. L. 108–136, div. A, title X, §1043(c)(6), Nov. 24, 2003, 117 Stat. 1612.\]
+&emsp;(2) The term “child development center” includes a facility, and the utilities to support such facility, the function of which is to support the daily care of children aged six weeks old through five years old for full-day, part-day, and hourly service.
 
 &emsp;(3) The term “construction” means the construction of military housing units and ancillary supporting facilities or the improvement or rehabilitation of existing units or ancillary supporting facilities.
 
@@ -12,15 +12,19 @@ In this subchapter:
 
 &emsp;(5) The term “eligible entity” means any private person, corporation, firm, partnership, company, State or local government, or housing authority of a State or local government.
 
-&emsp;(6) The term “Fund” means the Department of Defense Family Housing Improvement Fundor the Department of Defense Military Unaccompanied Housing Improvement Fund established under section 2883(a) of this title.
+&emsp;(6) The term “Fund” means the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund established under section 2883(a) of this title.
 
 &emsp;(7) The term “military unaccompanied housing” means military housing intended to be occupied by members of the armed forces serving a tour of duty unaccompanied by dependents and transient housing intended to be occupied by members of the armed forces on temporary duty.
 
 &emsp;(8) The term “United States” includes the Commonwealth of Puerto Rico.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, §2803(a), Oct. 5, 1999, 113 Stat. 848; Pub. L. 107–314, div. B, title XXVIII, §2803(b), Dec. 2, 2002, 116 Stat. 2705; Pub. L. 108–136, div. A, title X, §1043(c)(6), Nov. 24, 2003, 117 Stat. 1612.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 544; amended Pub. L. 105–261, div. B, title XXVIII, §2803, Oct. 17, 1998, 112 Stat. 2202; Pub. L. 106–65, div. B, title XXVIII, §2803(a), Oct. 5, 1999, 113 Stat. 848; Pub. L. 107–314, div. B, title XXVIII, §2803(b), Dec. 2, 2002, 116 Stat. 2705; Pub. L. 108–136, div. A, title X, §1043(c)(6), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 109–163, div. B, title XXVIII, §2805(b), Jan. 6, 2006, 119 Stat. 3507.)
 
 #### Amendments
+
+2006—Par. (1). Pub. L. 109–163, §2805(b)(1), inserted “child development centers,” after “day care centers,”.
+
+Par. (2). Pub. L. 109–163, §2805(b)(2), added par. (2).
 
 2003—Par. (2). Pub. L. 108–136 struck out par. (2) which read as follows: “The term ‘base closure law’ means the following:
 
@@ -35,8 +39,4 @@ In this subchapter:
 1999—Pars. (5) to (8). Pub. L. 106–65 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
 
 1998—Par. (1). Pub. L. 105–261 inserted “facilities to provide or support elementary or secondary education,” after “including”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2884 of this title.
 

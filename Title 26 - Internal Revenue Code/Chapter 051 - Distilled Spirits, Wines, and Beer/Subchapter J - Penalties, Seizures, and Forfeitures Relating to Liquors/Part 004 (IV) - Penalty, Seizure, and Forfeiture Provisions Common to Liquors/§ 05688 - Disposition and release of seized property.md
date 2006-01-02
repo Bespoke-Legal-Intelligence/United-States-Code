@@ -30,7 +30,7 @@
 
 #### (b) Distraint or judicial process
 
-Except as provided in section 5243, all distilled spirits sold by order of court, or under process of distraint, shall be sold subject to tax; and the purchaser shall immediately, and before he takes possession of said spirits, pay the tax thereon, pursuant to the applicable provisions of this chapter and in accordance with regulations to be prescribed by the Secretary.
+Except as provided in section 5243, all distilled spirits sold by order of court, or under process of distraint, shall be sold subject to tax; and the purchaser shall immediately, and before hetakes possession of said spirits, pay the tax thereon, pursuant to the applicable provisions of this chapter and in accordance with regulations to be prescribed by the Secretary.
 
 #### (c) Release of seized vessels or vehicles by courts
 
@@ -45,8 +45,4 @@ A prior section 5688, act Aug. 16, 1954, ch. 736, 68A Stat. 701, consisted of pr
 #### Amendments
 
 1976—Subsecs. (a)(5), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5007, 6807 of this title.
 

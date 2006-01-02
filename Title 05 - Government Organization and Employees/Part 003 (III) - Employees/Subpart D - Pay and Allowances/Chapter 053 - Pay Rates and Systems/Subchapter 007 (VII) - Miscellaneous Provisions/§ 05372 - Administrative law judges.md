@@ -81,7 +81,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+Amendment by section 906(a)(2) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub.L. 95–454, set out as a note under section 1101 of this title.
 
 #### Conversion Rule for Administrative Law Judges
 
@@ -89,51 +89,5 @@ Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In maki
 
 #### Pay Increases
 
-2005—The President, under Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title, adjusted the rates of basic pay for administrative law judges effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2005, as follows:
-
-AL–3/A
-
-$93,500
-
-AL–3/B
-
-100,600
-
-AL–3/C
-
-107,800
-
-AL–3/D
-
-115,000
-
-AL–3/E
-
-122,200
-
-AL–3/F
-
-129,300
-
-AL–2
-
-136,600
-
-AL–1
-
-140,300
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-2004—Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of this title.
-
-Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891.
-
-2003—Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, which provided for adjustment of pay rates effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
-
-2002—Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133.
-
-2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
-
-2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057.
+For adjustment of rates of basic pay for administrative law judges under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of this title.
 

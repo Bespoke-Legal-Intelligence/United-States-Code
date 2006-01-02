@@ -120,7 +120,7 @@ In general.—In fixing the sale or lease value of property disposed of under pa
 
 &emsp;&emsp;(B)
 
-Amount of discount.—The amount of the discount under subparagraph (A) is 75percent of the market value of the property, except that the Secretary of Housing and Urban Development may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
+Amount of discount.—The amount of the discount under subparagraph (A) is 75 percent of the market value of the property, except that the Secretary of Housing and Urban Development may discount by a greater percentage if the Secretary, in consultation with the Administrator, determines that a higher percentage is justified.
 
 (g)
 
@@ -234,7 +234,7 @@ June 30, 1949, ch. 288, title II, §203(k), 63 Stat. 387; July 12, 1952, ch. 703
 
 In subsections (b)(2), (c), and (d), the words “Secretary of Education” and “Secretary of Health and Human Services” are substituted for “Secretary of Health, Education, and Welfare”, as appropriate, because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
 
-In subsection (b)(2), the words “the Surplus Property Act of 1944, as amended”, and the text of 40:484(k)(4)(D),are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
+In subsection (b)(2), the words “the Surplus Property Act of 1944, as amended”, and the text of 40:484(k)(4)(D), are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
 In subsection (e), the definition of “States” is omitted as unnecessary because of 40:484(k)(1)(D), restated in subsection (a).
 
@@ -242,7 +242,7 @@ In subsection (e)(4), the words “this subsection” are used to reflect the pr
 
 In subsection (h), the definition of “States”, is omitted as unnecessary because of 40:484(k)(1)(D), restated in subsection (a).
 
-In subsection (h)(1)(B), the words “National Park System Advisory Board” are substituted for “Advisory Board on National Parks, Historic Sites, Buildings and Monuments” because of the amendment of 16:463 by section 9 of the Act of August 18, 1970 (Public Law 91–383), as added by section 2 of the Act of October 7, 1976 (Public Law 94–458, 90 Stat. 1940).
+In subsection (h)(1)(B), the words “National Park System Advisory Board” are substituted for “Advisory Board on National Parks, Historic Sites, Buildings and Monuments” because of the amendment of 16:463 bysection 9 of the Act of August 18, 1970 (Public Law 91–383), as added by section 2 of the Act of October 7, 1976 (Public Law 94–458, 90 Stat. 1940).
 
 In subsection (h)(2)(A), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(3)(A), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section. The words “or the Surplus Property Act of 1944, as amended” are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 

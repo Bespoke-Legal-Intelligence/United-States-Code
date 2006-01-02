@@ -44,6 +44,9 @@
 | [2524\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002524%20-%20Nuclear%20weapons%20stockpile%20life%20extension%20program.md) | Nuclear weapons stockpile life extension program. |
 | (a) | Program required. |
 | (b) | Administrative responsibility for program. |
+| [2524a.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002524a%20-%20Reliable%20Replacement%20Warhead%20program.md) | Reliable Replacement Warhead program. |
+| (a) | Program required. |
+| (b) | Consultation. |
 | [2525\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Weapons%20Stockpile%20Matters/Part%20A%20-%20Stockpile%20Stewardship%20and%20Weapons%20Production/%C2%A7%2002525%20-%20Annual%20assessments%20and%20reports%20to%20the%20President%20and%20Congress%20regarding%20the%20condition%20of%20the%20United%20States%20nuclear%20weapons%20stockpile.md) | Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile. |
 | (a) | Annual assessments required. |
 | (b) | Covered officials. |
@@ -149,7 +152,8 @@
 | (d) | Economic and impact assistance. |
 | (e) | Failure to complete planned disposition program. |
 | (f) | Removal of mixed-oxide fuel upon completion of operations of MOX facility. |
-| (g) | Definitions. |
+| (g) | Baseline. |
+| (h) | Definitions. |
 | [2567\.](Subchapter%20003%20%28III%29%20-%20Proliferation%20Matters/%C2%A7%2002567%20-%20Disposition%20of%20surplus%20defense%20plutonium%20at%20Savannah%20River%20Site%2C%20Aiken%2C%20South%20Carolina.md) | Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina. |
 | (a) | Consultation required. |
 | (b) | Notice required. |
@@ -605,6 +609,7 @@
 | (b) | Regulations. |
 | (c) | Funding. |
 | (d) | “Laboratory-directed research and development” defined. |
+| [2791a.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20B%20-%20Research%20and%20Development/%C2%A7%2002791a%20-%20Laboratory-directed%20research%20and%20development.md) | Laboratory-directed research and development. |
 | [2792\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20B%20-%20Research%20and%20Development/%C2%A7%2002792%20-%20Limitations%20on%20use%20of%20funds%20for%20laboratory%20directed%20research%20and%20development%20purposes.md) | Limitations on use of funds for laboratory directed research and development purposes. |
 | (a) | General limitations. |
 | (b) | Limitation in fiscal year 1998 pending submittal of annual report. |

@@ -4,7 +4,7 @@
 
 (b) The Secretary of State shall be responsible for formulation, coordination, and oversight of foreign policy related to international communications and information policy. The Secretary of State shall—
 
-&emsp;(1) exercise primary authority for the conduct of foreign policy with respect to such telecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of the United States Trade Representative in this area;
+&emsp;(1) exercise primary authority for the conduct of foreign policy with respect to suchtelecommunications functions, including the determination of United States positions and the conduct of United States participation in negotiations with foreign governments and international bodies. In exercising this responsibility, the Secretary shall coordinate with other agencies as appropriate, and, in particular, shall give full consideration to the authority vested by law or Executive order in the Federal Communications Commission, the Department of Commerce and the Office of the United States Trade Representative in this area;
 
 &emsp;(2) maintain continuing liaison with other executive branch agencies concerned with international communications and information policy and with the Federal Communications Commission, as appropriate;
 
@@ -52,7 +52,7 @@ Section 162(k)(2) of Pub. L. 103–236 provided that: “Nothing in the amendmen
 
 #### New Spending Authority
 
-Section 173(c) of Pub. L. 100–204 provided that: “Any new spending authority (as defined in section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided by this section \[amending sections 2707 and 4303 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Section 173(c) of Pub. L. 100–204 provided that: “Any new spending authority (as defined in section 401(c) of the Congressional Budget Act of 1974 \[2 U.S.C. 651(c)\]) provided by this section \[amending sections 2707 and 4303 of this title\] shall be effective for any fiscal yearonly to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 <i><sup>1</sup></i><i> So in original.</i>
 

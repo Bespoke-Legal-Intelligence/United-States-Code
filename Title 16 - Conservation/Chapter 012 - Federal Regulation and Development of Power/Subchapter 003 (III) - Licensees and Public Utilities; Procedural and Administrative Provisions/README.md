@@ -23,7 +23,7 @@
 - [&sect; 00825o - Penalties for violations; applicability of section](%C2%A7%2000825o%20-%20Penalties%20for%20violations%3B%20applicability%20of%20section.md)
 - [&sect; 00825o&#8211;1 - Enforcement of certain provisions](%C2%A7%2000825o%E2%80%931%20-%20Enforcement%20of%20certain%20provisions.md)
 - [&sect; 00825p - Jurisdiction of offenses; enforcement of liabilities and duties](%C2%A7%2000825p%20-%20Jurisdiction%20of%20offenses%3B%20enforcement%20of%20liabilities%20and%20duties.md)
-- [&sect; 00825q - Conflict of jurisdiction](%C2%A7%2000825q%20-%20Conflict%20of%20jurisdiction.md)
+- [&sect; 00825q - Repealed. Pub. L. 109&#8211;58, title XII, &sect;1277(a), Aug. 8, 2005, 119 Stat. 978](%C2%A7%2000825q%20-%20Repealed.%20Pub.%20L.%20109%E2%80%9358%2C%20title%20XII%2C%20%C2%A71277%28a%29%2C%20Aug.%208%2C%202005%2C%20119%20Stat.%20978.md)
 - [&sect; 00825q&#8211;1 - Office of Public Participation](%C2%A7%2000825q%E2%80%931%20-%20Office%20of%20Public%20Participation.md)
 - [&sect; 00825r - Separability](%C2%A7%2000825r%20-%20Separability.md)
 - [&sect; 00825s - Sale of electric power from reservoir projects; rate schedules; preference in sale; construction of transmission lines; disposition of&#8230;](%C2%A7%2000825s%20-%20Sale%20of%20electric%20power%20from%20reservoir%20projects%3B%20rate%20schedules%3B%20preference%20in%20sale%3B%20construction%20of%20transmission%20lines%3B%20disposition%20of%E2%80%A6.md)

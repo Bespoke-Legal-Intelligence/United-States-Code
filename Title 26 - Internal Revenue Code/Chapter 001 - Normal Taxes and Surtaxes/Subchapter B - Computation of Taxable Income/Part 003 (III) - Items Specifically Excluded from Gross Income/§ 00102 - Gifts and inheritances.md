@@ -36,7 +36,3 @@ Subsection (a) shall not exclude from gross income—
 
 Amendment by Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25A, 135, 274 of this title.
-

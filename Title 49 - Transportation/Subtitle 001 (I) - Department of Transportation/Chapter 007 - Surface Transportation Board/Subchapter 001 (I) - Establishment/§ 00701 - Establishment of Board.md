@@ -58,7 +58,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Board \[Surface Transportation Board\], any other authorized official, a court of competent jurisdiction, or operation of law. The Board shall promptly rescind all regulations established by the Interstate Commerce Commission that are based on provisions of law repealed and not substantively reenacted by this Act.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Board \[Surface Transportation Board\], any other authorized official, a court of competent jurisdiction, or operation of law. The Board shall promptly rescind all regulations established by the Interstate Commerce Commission that are based onprovisions of law repealed and not substantively reenacted by this Act.
 
 “(b)
 

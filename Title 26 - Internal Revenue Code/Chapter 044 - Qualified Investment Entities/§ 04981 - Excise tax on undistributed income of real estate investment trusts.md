@@ -118,7 +118,3 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 669(b) of Pub. L. 99–514, set out as a note under section 856 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 857 of this title.
-

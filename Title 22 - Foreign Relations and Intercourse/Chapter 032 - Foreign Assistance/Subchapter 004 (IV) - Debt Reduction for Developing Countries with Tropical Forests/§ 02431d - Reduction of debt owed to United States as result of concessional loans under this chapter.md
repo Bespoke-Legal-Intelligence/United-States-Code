@@ -8,7 +8,7 @@
 
 #### (2) Authorization of appropriations
 
-&emsp;For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant to this section, there are authorized to be appropriated to the President—
+&emsp;For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuantto this section, there are authorized to be appropriated to the President—
 
 &emsp;&emsp;(A) $25,000,000 for fiscal year 1999;
 

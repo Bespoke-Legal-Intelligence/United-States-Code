@@ -90,13 +90,13 @@ For purposes of this section—
 
 #### (e) Coordination with work opportunity credit
 
-If a credit is allowed under this section to an employer with respect to an individual for any taxable year, then for purposes of applying section 51 to such employer, such individual shall not be treated as a member of a targeted group for such taxable year.
+If a credit is allowed under this section to an employer with respect to an individual for any taxable year, then for purposes of applying section 51 to such employer, such individual shallnot be treated as a member of a targeted group for such taxable year.
 
 #### (f) Termination
 
-This section shall not apply to individuals who begin work for the employer after December 31, 2003.
+This section shall not apply to individuals who begin work for the employer after December 31, 2005.
 
-(Added Pub. L. 105–34, title VIII, §801(a), Aug. 5, 1997, 111 Stat. 869; amended Pub. L. 105–277, div. J, title I, §1003, Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §505(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–16, title IV, §411(c), June 7, 2001, 115 Stat. 63; Pub. L. 107–147, title IV, §417(4), title VI, §605(a), Mar. 9, 2002, 116 Stat. 56, 60.)
+(Added Pub. L. 105–34, title VIII, §801(a), Aug. 5, 1997, 111 Stat. 869; amended Pub. L. 105–277, div. J, title I, §1003, Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §505(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–16, title IV, §411(c), June 7, 2001, 115 Stat. 63; Pub. L. 107–147, title IV, §417(4), title VI, §605(a), Mar. 9, 2002, 116 Stat. 56, 60; Pub. L. 108–311, title III, §303(a)(2), Oct. 4, 2004, 118 Stat. 1179.)
 
 #### Amendment of Section
 
@@ -110,6 +110,8 @@ The date of the enactment of the Taxpayer Relief Act of 1997, referred to in sub
 
 #### Amendments
 
+2004—Subsec. (f). Pub. L. 108–311 substituted “2005” for “2003”.
+
 2002—Subsec. (c)(1). Pub. L. 107–147, §417(4), substituted “51(d)(11)” for “51(d)(10)” in introductory provisions.
 
 Subsec. (f). Pub. L. 107–147, §605(a), substituted “2003” for “2001”.
@@ -119,6 +121,10 @@ Subsec. (f). Pub. L. 107–147, §605(a), substituted “2003” for “2001”.
 1999—Subsec. (f). Pub. L. 106–170 substituted “December 31, 2001” for “June 30, 1999”.
 
 1998—Subsec. (f). Pub. L. 105–277 substituted “June 30, 1999” for “April 30, 1999”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to individuals who begin work for the employer after Dec. 31, 2003, see section 303(b) of Pub. L. 108–311, set out as a note under section 51 of this title.
 
 #### Effective Date of 2002 Amendment
 

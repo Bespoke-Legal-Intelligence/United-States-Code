@@ -18,7 +18,7 @@ General Limitations.—A State may not allow by any means the operation, on any 
 
 (c)
 
-Special Rules for Wyoming, Ohio, Alaska, and Iowa.—In addition to the vehicles allowed under subsection (b) of this section—
+Special Rules for Wyoming, Ohio, Alaska, Iowa, and Nebraska.—In addition to the vehicles allowed under subsection (b) of this section—
 
 &emsp;(1) Wyoming may allow the operation of additional vehicle configurations not in actual operation on June 1, 1991, but authorized by State law not later than November 3, 1992, if the vehicle configurations comply with the single axle, tandem axle, and bridge formula limits in section 127(a) of title 23 and are not more than 117,000 pounds gross vehicle weight;
 
@@ -27,6 +27,8 @@ Special Rules for Wyoming, Ohio, Alaska, and Iowa.—In addition to the vehicles
 &emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991; and
 
 &emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991.
+
+&emsp;(5) Nebraska may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the State of Nebraska.
 
 (d)
 
@@ -44,7 +46,7 @@ List of State Length Limitations.—(1) Not later than February 16, 1992, each S
 
 (2) Not later than March 17, 1992, the Secretary shall publish an interim list in the Federal Register consisting of all information submitted under paragraph (1) of this subsection. The Secretary shall review for accuracy all information submitted by a State under paragraph (1) and shall solicit and consider public comment on the accuracy of the information.
 
-(3) A law or regulation may not be included on the list submitted by a State or published by the Secretary merely because it authorized, or couldhave authorized, by permit or otherwise, the operation of commercial motor vehicle combinations not in actual operation on a regular or periodic basis before June 2, 1991.
+(3) A law or regulation may not be included on the list submitted by a State or published by the Secretary merely because it authorized, or could have authorized, by permit or otherwise, the operation of commercial motor vehicle combinations not in actual operation on a regular or periodic basis before June 2, 1991.
 
 (4) Except as revised under this paragraph or paragraph (5) of this subsection, the list shall be published as final in the Federal Register not later than June 15, 1992. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under paragraph (2) of this subsection. After publication of the final list, commercial motor vehicle combinations prohibited under subsection (b) of this section may not operate on the Dwight D. Eisenhower System of Interstate and Defense Highways and other Federal-aid Primary System highways designated by the Secretary except as published on the list. The list may be combined by the Secretary with the list required under section 127(d) of title 23.
 
@@ -66,7 +68,7 @@ Regulations.—(1) In carrying out this section only, the Secretary shall define
 
 (2) Not later than June 15, 1992, the Secretary shall prescribe regulations establishing criteria for a State to follow in making minor adjustments under subsection (d) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–205, title III, §352, Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–66, title III, §343, Oct. 27, 1997, 111 Stat. 1449.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 995; Pub. L. 104–59, title III, §312(a)(3), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–205, title III, §352, Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–66, title III, §343, Oct. 27, 1997, 111 Stat. 1449; Pub. L. 109–59, title IV, §4112, Aug. 10, 2005, 119 Stat. 1724.)
 
 Historical and Revision Notes
 
@@ -116,13 +118,17 @@ Jan 6, 1983, Pub. L. 97–424, 96 Stat. 2159, §411(j); added Dec. 18, 1991, Pub
 
 49 App.:2311(j)(8).
 
-In this section, the word “property” is substituted for “cargo”, and the word “law” is substituted for “statute”, for consistency in the revised title. The words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
+In this section, the word “property” is substituted for “cargo”, and the word “law” is substituted for “statute”, for consistency in the revised title. The words“Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “National System of Interstate and Defense Highways” because of the Act of October 15, 1990 (Public Law 101–427, 104 Stat. 927).
 
 In subsections (b), before clause (1), and (g)(1), the words “dismantled easily or divided easily” are substituted for “easily dismantled or divided” for clarity.
 
 In subsection (e)(4), the words “Except as revised under this paragraph or paragraph (5) of this subsection” are substituted for “Except as modified pursuant to subparagraph (B) or (E) of this subsection” for clarity.
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–59, §4112(b), substituted “Iowa, and Nebraska” for “and Iowa” in heading.
+
+Subsec. (c)(5). Pub. L. 109–59, §4112(a), added par. (5).
 
 1997—Subsec. (d)(4). Pub. L. 105–66 substituted “February 28, 1998” for “September 30, 1997”.
 

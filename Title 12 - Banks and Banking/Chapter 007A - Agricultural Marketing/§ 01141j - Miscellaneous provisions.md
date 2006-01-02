@@ -26,7 +26,7 @@ The inclusion in any governmental report, bulletin, or other such publication he
 
 #### (e) Separability clause
 
-If any provision of this chapter is declared unconstitutional, or the applicability thereof to any person, circumstance, commodity, or class of transactions with respect to any commodity is held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons, circumstances, commodities, and classes of transactions shall not be affected thereby.
+If any provision of this chapter is declared unconstitutional, or the applicability thereof to any person, circumstance, commodity, or class of transactions with respect to any commodityis held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons, circumstances, commodities, and classes of transactions shall not be affected thereby.
 
 #### (f) Citation of chapter
 

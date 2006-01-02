@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 100–705, Nov. 19, 1988, 102 Stat. 46
 
 #### Codification
 
-Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not aspart of the Panama Canal Act of 1979 which comprises this chapter.
+Section was enacted as part of the Panama Canal Commission Compensation Fund Act of 1988, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
 
 #### Effective Date
 

@@ -26,7 +26,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;(C) In the case of a board that will inquire into the whereabouts and status of both one or more members of the armed forces and one or more civilians described in subparagraph (B)—
 
-&emsp;&emsp;(i) the board shall include at least one officer described in subparagraph (A) and atleast one employee of the Department of Defense described in subparagraph (B)(i); and
+&emsp;&emsp;(i) the board shall include at least one officer described in subparagraph (A) and at least one employee of the Department of Defense described in subparagraph (B)(i); and
 
 &emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.
 
@@ -36,7 +36,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;(A) has an occupational specialty similar to that of one or more of the persons covered by the inquiry; and
 
-&emsp;(B) has an understanding of and expertise in the type of official activities that one or more such persons were engaged in at the time such person or persons disappeared.
+&emsp;(B) has an understanding of and expertise in the type of official activities that one or moresuch persons were engaged in at the time such person or persons disappeared.
 
 (4) The Secretary who appoints a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, with the same qualifications as specified in section 1503(c)(4) of this title.
 
@@ -100,7 +100,7 @@ Availability of Information to Boards.—(1) In conducting proceedings in an inq
 
 &emsp;(B) release the information in a manner not requiring the removal of markings indicating the classified nature of the information.
 
-(3)(A) If a request for information under paragraph (2) covers classified information that cannot be declassified, or if the classification markings cannot be removed before release from the information covered by the request, or if the material cannot be summarized in a manner that prevents the release of classified information, the classified information shall be made available only to the president of the board making the request and the counsel for the missing person appointed under subsection (f).
+(3)(A) If a request for information under paragraph (2) covers classified information that cannot be declassified, or if the classification markings cannot be removed before release from theinformation covered by the request, or if the material cannot be summarized in a manner that prevents the release of classified information, the classified information shall be made available only to the president of the board making the request and the counsel for the missing person appointed under subsection (f).
 
 (B) The president of a board shall close to persons who do not have appropriate security clearances the proceeding of the board at which classified information is discussed. Participants at a proceeding of a board at which classified information is discussed shall comply with all applicable laws and regulations relating to the disclosure of classified information. The Secretary concerned shall assist the president of a board in ensuring that classified information is not compromised through board proceedings.
 
@@ -158,7 +158,7 @@ Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted “this section” 
 
 &emsp;“(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
 
-&emsp;&emsp;“(i) not less than three employees of the Department of Defense whose rate of annual pay is equalto or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
+&emsp;&emsp;“(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
 
 &emsp;&emsp;“(ii) such members of the armed forces as the Secretary considers advisable.
 
@@ -169,8 +169,4 @@ Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted “this section” 
 &emsp;&emsp;“(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.”
 
 Subsec. (d)(4). Pub. L. 104–201, §578(a)(3)(B), substituted “section 1503(c)(3)” for “section 1503(c)(4)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1501, 1505, 1507, 1508, 1509 of this title.
 

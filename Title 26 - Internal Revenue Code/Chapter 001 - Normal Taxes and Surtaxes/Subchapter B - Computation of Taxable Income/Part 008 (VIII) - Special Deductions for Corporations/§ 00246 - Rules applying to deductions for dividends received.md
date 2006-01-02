@@ -62,7 +62,7 @@
 
 #### (1) General rule
 
-&emsp;Except as provided in paragraph (2), the aggregate amount of the deductions allowed by sections 243(a)(1), 244(a), and subsection (a) or (b) of section 245 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 243(a)(1), 244(a), subsection (a) or (b) of section 245, and 247, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
+&emsp;Except as provided in paragraph (2), the aggregate amount of the deductions allowed by sections 243(a)(1), 244(a), and subsection (a) or (b) of section 245 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199, 243(a)(1), 244(a), subsection (a) or (b) of section 245, and 247, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
 
 #### (2) Effect of net operating loss
 
@@ -82,7 +82,7 @@
 
 &emsp;No deduction shall be allowed under section 243, 244, or 245, in respect of any dividend on any share of stock—
 
-&emsp;&emsp;(A) which is held by the taxpayer for 45 days or less during the 90-day period beginning on the date which is 45 days before the date on which such share becomes ex-dividend with respect to such dividend, or
+&emsp;&emsp;(A) which is held by the taxpayer for 45 days or less during the 91-day period beginning on the date which is 45 days before the date on which such share becomes ex-dividend with respect to such dividend, or
 
 &emsp;&emsp;(B) to the extent that the taxpayer is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(A) by substituting “90 days” for “45 days” each place it appears, and
 
-&emsp;&emsp;(B) by substituting “180-day period” for “90-day period”.
+&emsp;&emsp;(B) by substituting “181-day period” for “91-day period”.
 
 #### (3) Determination of holding periods
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) the day of disposition, but not the day of acquisition, shall be taken into account, and
 
-&emsp;&emsp;(B) paragraph (4) of section 1223 shall not apply.
+&emsp;&emsp;(B) paragraph (3) of section 1223 shall not apply.
 
 #### (4) Holding period reduced for periods where risk of loss diminished
 
@@ -112,19 +112,29 @@
 
 &emsp;&emsp;(C) under regulations prescribed by the Secretary, a taxpayer has diminished his risk of loss by holding 1 or more other positions with respect to substantially similar or related property.
 
-> &emsp;The preceding sentence shall not apply in the case of any qualified covered call (as defined in section 1092(c)(4) but without regard to the requirement that gain or loss with respect to the option not be ordinary income or loss).
+> &emsp;The preceding sentence shall not apply in the case of any qualified covered call (as defined in section 1092(c)(4) but without regard to the requirement that gain or loss with respect to the option not be ordinary income or loss), other than a qualified covered call option to which section 1092(f) applies.
 
 #### (d) Dividends from a DISC or former DISC
 
-No deduction shall be allowed under section 243 in respect of a dividend from a corporation which is a DISC or former DISC (as defined in section 992(a)) to the extent such dividend is paid out of the corporation's accumulated DISC income or previously taxed income, or is a deemed distribution pursuant to section 995(b)(1).
+No deduction shall be allowed under section 243 in respect of a dividend from a corporationwhich is a DISC or former DISC (as defined in section 992(a)) to the extent such dividend is paid out of the corporation's accumulated DISC income or previously taxed income, or is a deemed distribution pursuant to section 995(b)(1).
 
 #### (e) Certain distributions to satisfy requirements
 
 No deduction shall be allowed under section 243(a) with respect to a dividend received pursuant to a distribution described in section 936(h)(4).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 74; Pub. L. 85–866, title I, §§18(a), 57(c)(2), Sept. 2, 1958, 72 Stat. 1614, 1646; Pub. L. 88–272, title II, §214(b)(2), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, §434(b)(1), title V, §512(f)(3), Dec. 30, 1969, 83 Stat. 625, 641; Pub. L. 92–178, title V, §502(a), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title X, §1051(f)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1646, 1834; Pub. L. 97–248, title II, §213(c), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §§53(b), (d)(2), 177(b), title VIII, §801(b)(2)(A), July 18, 1984, 98 Stat. 567, 568, 709, 995; Pub. L. 99–514, title VI, §611(a)(3), title XII, §1275(a)(2)(B), title XVIII, §§1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, 100 Stat. 2249, 2598, 2798, 2835; Pub. L. 100–203, title X, §10221(c)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1018(u)(10), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 104–188, title I, §1616(b)(4), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title X, §1015(a), (b), Aug. 5, 1997, 111 Stat. 921, 922.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 74; Pub. L. 85–866, title I, §§18(a), 57(c)(2), Sept. 2, 1958, 72 Stat. 1614, 1646; Pub. L. 88–272, title II, §214(b)(2), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, §434(b)(1), title V, §512(f)(3), Dec. 30, 1969, 83 Stat. 625, 641; Pub. L. 92–178, title V, §502(a), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title X, §1051(f)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1646, 1834; Pub. L. 97–248, title II, §213(c), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §§53(b), (d)(2), 177(b), title VIII, §801(b)(2)(A), July 18, 1984, 98 Stat. 567, 568, 709, 995; Pub. L. 99–514, title VI, §611(a)(3), title XII, §1275(a)(2)(B), title XVIII, §§1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, 100 Stat. 2249, 2598, 2798, 2835; Pub. L. 100–203, title X, §10221(c)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1018(u)(10), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 104–188, title I, §1616(b)(4), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title X, §1015(a), (b), Aug. 5, 1997, 111 Stat. 921, 922; Pub. L. 108–311, title IV, §406(f), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title I, §102(d)(4), title VIII, §888(d), Oct. 22, 2004, 118 Stat. 1429, 1643; Pub. L. 109–135, title IV, §402(a)(4), Dec. 21, 2005, 119 Stat. 2610.)
 
 #### Amendments
+
+2005—Subsec. (c)(3)(B). Pub. L. 109–135 substituted “paragraph (3) of section 1223” for “paragraph (4) of section 1223”.
+
+2004—Subsec. (b)(1). Pub. L. 108–357, §102(d)(4), inserted “199,” after “172,”.
+
+Subsec. (c)(1)(A). Pub. L. 108–311, §406(f)(1), substituted “91-day period” for “90-day period”.
+
+Subsec. (c)(2)(B). Pub. L. 108–311, §406(f)(2), substituted “181-day period” for “180-day period” and “91-day period” for “90-day period”.
+
+Subsec. (c)(4). Pub. L. 108–357, §888(d), inserted “, other than a qualified covered call option to which section 1092(f) applies” before period at end of concluding provisions.
 
 1997—Subsec. (c)(1)(A). Pub. L. 105–34, §1015(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is held by the taxpayer for 45 days or less, or”.
 
@@ -187,6 +197,18 @@ Subsec. (d). Pub. L. 91–172, §434(b)(1), added subsec. (d).
 1958—Subsec. (b)(1). Pub. L. 85–866, §57(c)(2), substituted “243(a)” for “243” wherever appearing.
 
 Subsec. (c). Pub. L. 85–866, §18(a), added subsec. (c).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates, but not applicable with respect to any transaction ordered in compliance with the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.) before its repeal, see section 402(m) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+
+#### Effective Date of 2004 Amendments
+
+Amendment by section 102(d)(4) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
+Pub. L. 108–357, title VIII, §888(e), Oct. 22, 2004, 118 Stat. 1643, provided that: “The amendments made by this section \[amending this section and sections 1092 and 1258 of this title\] shall apply to positions established on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -279,8 +301,4 @@ Amendment by section 57(c)(2) of Pub. L. 85–866 applicable with respect to tax
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 163, 172, 805, 810, 834, 852, 854, 857, 901, 1059, 1092, 1259 of this title.
 

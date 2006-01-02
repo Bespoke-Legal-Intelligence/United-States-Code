@@ -24,10 +24,6 @@ Subpart B—Income Tax Returns
 
 1968—Pub. L. 90–364, title I, §103(e)(7), June 28, 1968, 82 Stat. 264, struck out item 6016 “Declarations of estimated income tax by corporations.”
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 6011 of this title.
-
 
 ---
 

@@ -42,7 +42,3 @@ Section 3(d)(1) of Pub. L. 93–499 provided that: “The amendments made by thi
 
 Section 151(b) of Pub. L. 85–859 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to wagers received after the date of the enactment of this Act \[Sept. 2, 1958\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4411 of this title.
-

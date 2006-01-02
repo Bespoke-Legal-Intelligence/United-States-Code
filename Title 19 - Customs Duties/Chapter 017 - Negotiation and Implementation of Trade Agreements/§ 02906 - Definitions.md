@@ -20,7 +20,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) any agency, instrumentality, or administrative unit of a foreign country which—
 
-&emsp;&emsp;&emsp;(i) purchases goods or services in international trade for any purpose other than the use of such goods or services by such agency, instrumentality, administrative unit, or foreign country, or
+&emsp;&emsp;&emsp;(i) purchases goods or services in international trade for any purpose other than the use of such goods or services by suchagency, instrumentality, administrative unit, or foreign country, or
 
 &emsp;&emsp;&emsp;(ii) sells goods or services in international trade; or
 

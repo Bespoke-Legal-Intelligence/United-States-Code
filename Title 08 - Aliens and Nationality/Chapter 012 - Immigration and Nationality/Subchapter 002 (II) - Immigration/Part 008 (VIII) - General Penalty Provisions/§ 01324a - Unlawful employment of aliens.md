@@ -130,7 +130,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) of t
 
 #### (4) Copying of documentation permitted
 
-&emsp;Notwithstanding any other provision of law, the person or entity may copy a document presented by an individual pursuant to this subsection and may retain the copy, but only (except as otherwise permitted under law) for the purpose of complying with the requirements of this subsection.
+&emsp;Notwithstanding any other provision of law, the person or entity may copy a document presented by an individual pursuant to this subsection and may retain the copy, but only (except as otherwise permitted under law) for thepurpose of complying with the requirements of this subsection.
 
 #### (5) Limitation on use of attestation form
 
@@ -242,7 +242,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(i) require an individual to present a new card or other document (designed specifically for use for this purpose) at the time of hiring, recruitment, or referral,
 
-&emsp;&emsp;&emsp;(ii) provide for a telephone verification system under which an employer, recruiter, or referrer must transmit to aFederal official information concerning the immigration status of prospective employees and the official transmits to the person, and the person must record, a verification code, or
+&emsp;&emsp;&emsp;(ii) provide for a telephone verification system under which an employer, recruiter, or referrer must transmit to a Federal official information concerning the immigration status of prospective employees and the official transmits to the person, and the person must record, a verification code, or
 
 &emsp;&emsp;&emsp;(iii) require any change in any card used for accounting purposes under the Social Security Act \[42 U.S.C. 301 et seq.\], including any change requiring that the only social security account number cards which may be presented in order to comply with subsection (b)(1)(C)(i) of this section are such cards as are in a counterfeit-resistant form consistent with the second sentence of section 205(c)(2)(D) of the Social Security Act \[42 U.S.C. 405(c)(2)(D)\].
 
@@ -284,7 +284,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;(C) immigration officers designated by the Commissioner may compel by subpoena the attendance of witnesses and the production of evidence at any designated place prior to the filing of a complaint in a case under paragraph (2).
 
-> &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+> &emsp;In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraphand upon application of the Attorney General, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (3) Hearing
 
@@ -310,7 +310,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(ii) not less than $2,000 and not more than $5,000 for each such alien in the case of a person or entity previously subject to one order under this paragraph, or
 
-&emsp;&emsp;&emsp;(iii) not less than $3,000 and not more than $10,000 for each such alien in the case of a person or entity previously subject tomore than one order under this paragraph; and
+&emsp;&emsp;&emsp;(iii) not less than $3,000 and not more than $10,000 for each such alien in the case of a person or entity previously subject to more than one order under this paragraph; and
 
 &emsp;&emsp;(B) may require the person or entity—
 
@@ -338,7 +338,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (9) Enforcement of orders
 
-&emsp;If a person or entity fails to comply with a final order issued under this subsection against the person or entity, the Attorney General shall file a suit to seek compliance with the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
+&emsp;If a person or entity fails to comply with a final order issued under this subsection against the person or entity, the Attorney General shall file a suit to seek compliancewith the order in any appropriate district court of the United States. In any such suit, the validity and appropriateness of the final order shall not be subject to review.
 
 #### (f) Criminal penalties and injunctions for pattern or practice violations
 
@@ -364,7 +364,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (1) Documentation
 
-&emsp;In providing documentation or endorsement of authorization of aliens (other than aliens lawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall providethat any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
+&emsp;In providing documentation or endorsement of authorization of aliens (other than aliens lawfully admitted for permanent residence) authorized to be employed in the United States, the Attorney General shall provide that any limitations with respect to the period or type of employment or employer shall be conspicuously stated on the documentation or endorsement.
 
 #### (2) Preemption
 
@@ -590,7 +590,7 @@ Benefit of Rebuttable Presumption.—
 
 &emsp;“(1)
 
-In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States, the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral).
+In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States,the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral).
 
 &emsp;“(2)
 
@@ -618,9 +618,7 @@ In general.—Subject to paragraph (3), any electing person or other entity may 
 
 &emsp;&emsp;“(B)
 
-Application of programs in non-pilot program states.—In addition, the Secretary of Homeland Security may permit a person or entity electing the citizen attestation pilot program
-
-(described in 403(b) of this division) or the machine-readable-document pilot program (described in section 403(c) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating but only if such States meet the requirements of 403(b)(2)(A) and 403(c)(2) of this division, respectively.
+Application of programs in non-pilot program states.—In addition, the Secretary of Homeland Security may permit a person or entity electing the citizen attestation pilot program (described in 403(b) of this division) or the machine-readable-document pilot program (described in section 403(c) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating but only if such States meet the requirements of 403(b)(2)(A) and 403(c)(2) of this division, respectively.
 
 &emsp;“(3)
 
@@ -712,7 +710,7 @@ Provision of additional information.—The person or entity shall obtain from th
 
 &emsp;&emsp;“(A) the individual's social security account number, if the individual has been issued such a number, and
 
-&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
+&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), suchidentification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify,
 
 > &emsp;and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3).
 
@@ -1004,7 +1002,7 @@ Section 101(d) of Pub. L. 99–603 provided that:
 
 #### Feasibility Study of Social Security Number Validation System
 
-Section 101(e) of Pub. L. 99–603 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility andcosts of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees on Finance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate.”
+Section 101(e) of Pub. L. 99–603 provided that: “The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility and costs of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees on Finance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate.”
 
 #### Reports on Unauthorized Alien Employment
 
@@ -1032,7 +1030,7 @@ This order is designed to promote economy and efficiency in Government procureme
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) \[now 40 U.S.C. 121(a)\] and 3 U.S.C. 301, it is hereby ordered as follows:
 
-Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies should not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens. All discretion under this Executive order shall be exercised consistent with this policy.
+Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agenciesshould not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens. All discretion under this Executive order shall be exercised consistent with this policy.
 
 (b) It remains the policy of this Administration to fully and aggressively enforce the antidiscrimination provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] to the fullest extent. Nothing in this order relieves employers from their obligation to avoid unfair immigration-related employment practices as required by the antidiscrimination provisions of section 1324(b) \[274B\] of the INA (8 U.S.C. 1324b) and all other antidiscrimination requirements of applicable law, including the requirements of 8 U.S.C. 1324b(a)(6) concerning the treatment of certain documentary practices as unfair immigration-related employment practices.
 
@@ -1052,7 +1050,7 @@ Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General 
 
 (d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
 
-(e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereofon the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
+(e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereof on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
 
 Sec. 5. (a) The Secretary of Homeland Security and Attorney General shall be responsible for the administration and enforcement of this order, except for the debarment procedures. The Secretary of Homeland Security and Attorney General may adopt such additional rules and regulations and issue such orders as may be deemed necessary and appropriate to carry out their respective responsibilities under this order. If the Secretary of Homeland Security or the Attorney General proposes to issue rules, regulations, or orders that affect the contracting departments and agencies, the Secretary of Homeland Security or the Attorney General shall consult with the Secretary of Defense, the Secretary of Labor, the Administrator of General Services, the Administrator of the National Aeronautics and Space Administration, the Administrator for Federal Procurement Policy, and such other agencies as may be appropriate.
 

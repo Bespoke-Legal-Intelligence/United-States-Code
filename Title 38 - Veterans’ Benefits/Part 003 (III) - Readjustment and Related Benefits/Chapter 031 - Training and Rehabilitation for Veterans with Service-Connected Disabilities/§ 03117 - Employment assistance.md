@@ -10,7 +10,7 @@
 
 &emsp;(C) utilization of the job development and placement services of (i) programs under the Rehabilitation Act of 1973, (ii) the State employment service and the Veterans’ Employment Service of the Department of Labor, (iii) the Office of Personnel Management, (iv) any other public or nonprofit organization having placement services available, and (v) any for-profit entity in a case in which the Secretary has determined that services necessary to provide such assistance are available from such entity and that comparably effective services are not available, or cannot be obtained cost-effectively, from the entities described in subclauses (i) through (iv) of this clause.
 
-(b)(1) In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran's own business and to insure that such veteran receives the special consideration provided for in section 8 of the Small Business Act (15 U.S.C. 633(b)).
+(b)(1) In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran's own business and to insure that such veteran receives the special consideration provided for in section 8 <sup>1</sup> of the Small Business Act (15 U.S.C. 633(b)).
 
 (2) In the case of a veteran described in clause (12) of section 3104(a) of this title who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such clause, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
 
@@ -55,4 +55,6 @@ Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov
 #### Effective Date
 
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under section 3100 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

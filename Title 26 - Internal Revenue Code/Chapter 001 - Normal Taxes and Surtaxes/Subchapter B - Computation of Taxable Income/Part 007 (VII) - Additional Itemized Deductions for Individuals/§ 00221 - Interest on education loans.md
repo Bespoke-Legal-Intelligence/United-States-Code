@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of an individual, there shall be allowed as a deduction for the taxable year an amount equal to the interest paid by the taxpayer during the taxable year on any qualified education loan.
+In the case of an individual, there shall be allowed as a deduction for the taxable year anamount equal to the interest paid by the taxpayer during the taxable year on any qualified education loan.
 
 #### (b) Maximum deduction
 
@@ -58,7 +58,7 @@ $2,500.
 
 &emsp;&emsp;The term “modified adjusted gross income” means adjusted gross income determined—
 
-&emsp;&emsp;&emsp;(i) without regard to this section and sections 222, 911, 931, and 933, and
+&emsp;&emsp;&emsp;(i) without regard to this section and sections 199, 222, 911, 931, and 933, and
 
 &emsp;&emsp;&emsp;(ii) after application of sections 86, 135, 137, 219, and 469.
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (2) Qualified higher education expenses
 
-&emsp;The term “qualified higher education expenses” means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087<i>ll</i>, as in effect on the day before the date of the enactment of this Act) at an eligible educational institution, reduced by the sum of—
+&emsp;The term “qualified higher education expenses” means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, 20 U.S.C. 1087<i>ll</i>, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) at an eligible educational institution, reduced by the sum of—
 
 &emsp;&emsp;(A) the amount excluded from gross income under section 127, 135, 529, or 530 by reason of such expenses, and
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (4) Dependent
 
-&emsp;The term “dependent” has the meaning given such term by section 152.
+&emsp;The term “dependent” has the meaning given such term by section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof).
 
 #### (e) Special rules
 
@@ -122,17 +122,17 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendaryear in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
 
 #### (2) Rounding
 
 &emsp;If any amount as adjusted under paragraph (1) is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
 
-(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, title VI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68.)
+(Added Pub. L. 105–34, title II, §202(a), Aug. 5, 1997, 111 Stat. 806; amended Pub. L. 105–206, title VI, §6004(b), July 22, 1998, 112 Stat. 792; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(A), (3), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§402(b)(2)(B), 412(a)(1), (b)(1), (2), 431(c)(2), June 7, 2001, 115 Stat. 62–64, 68; Pub. L. 108–311, title II, §207(20), title IV, §408(b)(5), Oct. 4, 2004, 118 Stat. 1178, 1192; Pub. L. 108–357, title I, §102(d)(2), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–135, title IV, §412(t), Dec. 21, 2005, 119 Stat. 2638.)
 
-#### Adjustment of Amounts to Determine Availability of Interest Deduction for Taxable Years Beginning in 2004
+#### Adjustment of Amounts to Determine Availability of Interest Deduction for Taxable Years Beginning in 2006
 
-<i>For adjustment of maximum deduction in subsection (b)(2)(B) of this section for interest paid on qualified education loans for taxable years beginning in 2004, see section 3.20 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of maximum deduction in subsection (b)(2)(B) of this section for interest paid on qualified education loans for taxable years beginning in 2006, see section 3.21 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### Amendment of Section
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### References in Text
 
-The date of the enactment of this Act, referred to in subsec. (d)(2), probably means the date of enactment of Pub. L. 105–34, which enacted this section and was approved Aug. 5, 1997.
+The date of the enactment of the Taxpayer Relief Act of 1997, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
 #### Prior Provisions
 
@@ -149,6 +149,14 @@ A prior section 221 was renumbered section 224 of this title.
 Another prior section 221, added Pub. L. 97–34, title I, §103(a), Aug. 13, 1981, 95 Stat. 187; amended Pub. L. 97–448, title III, §305(d)(4), Jan. 12, 1983, 96 Stat. 2400, related to deduction for two-earner married couples, prior to repeal by Pub. L. 99–514, title I, §131(a), Oct. 22, 1986, 100 Stat. 2113, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+2005—Subsec. (d)(2). Pub. L. 109–135 substituted “the Taxpayer Relief Act of 1997” for “this Act”.
+
+2004—Subsec. (b)(2)(C)(i). Pub. L. 108–357 inserted “199,” before “222”.
+
+Subsec. (d)(4). Pub. L. 108–311, §207(20), inserted “(determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof)” after “section 152”.
+
+Subsec. (f)(1). Pub. L. 108–311, §408(b)(5), amended directory language of Pub. L. 107–16, §412(b)(2). See 2001 Amendment note below.
 
 2001—Subsec. (b)(2)(B)(i), (ii). Pub. L. 107–16, §§412(b)(1), 901, temporarily amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
@@ -172,7 +180,7 @@ Subsec. (e)(2)(A). Pub. L. 107–16, §§402(b)(2)(B), 901, temporarily inserted
 
 Subsec. (f). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated former subsec. (g) as (f). Former subsec. (f) redesignated (e). See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (f)(1). Pub. L. 107–16, §§412(b)(2), 901, which directed the temporary amendment of subsec. (g)(1) by substituting “$50,000 and $100,000 amounts” for “$40,000 and $60,000 amounts”, was executed to subsec. (f)(1) to reflect the probable intent of Congress and the temporary redesignation of subsec. (g) as (f) by Pub. L. 107–16, §§412(a)(1), 901. See above and Effective and Termination Dates of 2001 Amendment note below.
+Subsec. (f)(1). Pub. L. 107–16, §§412(b)(2), 901, as amended by Pub. L. 108–311, §408(b)(5), temporarily substituted “$50,000 and $100,000 amounts” for “$40,000 and $60,000 amounts”. See above and Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (g). Pub. L. 107–16, §§412(a)(1), 901, temporarily redesignated former subsec. (g) as (f). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -188,11 +196,17 @@ Subsec. (e)(1). Pub. L. 105–277, §4003(a)(3), inserted before period at end �
 
 Pub. L. 105–206, §6004(b)(1), inserted “by the taxpayer solely” after “incurred” in introductory provisions.
 
+#### Effective Date of 2004 Amendments
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
+Amendment by section 207(20) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by section 402(b)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
-Pub. L. 107–16, title IV, §412(a)(3), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by this subsection \[amending this section and section 6050S of this title\] shall apply with respect to any loan interest paid after December 31, 2001, in taxable years ending after such date.”
+Pub. L. 107–16, title IV, §412(a)(3), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by thissubsection \[amending this section and section 6050S of this title\] shall apply with respect to any loan interest paid after December 31, 2001, in taxable years ending after such date.”
 
 Pub. L. 107–16, title IV, §412(b)(3), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001.”
 
@@ -209,8 +223,4 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to any qualified education loan (as defined in subsec. (e)(1) of this section) incurred on, before, or after Aug. 5, 1997, but only with respect to any loan interest payment due and paid after Dec. 31, 1997, and to the portion of the 60-month period referred to in subsec. (d) of this section after Dec. 31, 1997, see section 202(e) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 62 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 86, 135, 137, 163, 219, 222, 469, 6050S of this title.
 

@@ -4,7 +4,3 @@ Any person required under this title to collect, account for, and pay over any t
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 851.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7501 of this title.
-

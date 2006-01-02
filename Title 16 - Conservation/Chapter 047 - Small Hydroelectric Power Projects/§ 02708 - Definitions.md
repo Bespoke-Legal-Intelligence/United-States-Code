@@ -12,7 +12,7 @@
 
 &emsp;(5) “nonprofit organization” means any organization described in section 501(c)(3) or 501(c)(4) of title 26 and exempt from tax under section 501(a) of title 26 (but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business, determined by applying section 513(a) of title 26 to such organization);
 
-&emsp;(6) “existing dam” means any dam, the construction of which was completed or on <sup>2</sup> before April 20, 1977, and which does not require any construction or enlargement of impoundment structures (other than repairs or reconstruction) in connection with the installation of any small hydroelectric power project;
+&emsp;(6) “existing dam” means any dam, the construction of which was completed or on <sup>2</sup> before July 22, 2005, and which does not require any construction or enlargement of impoundment structures (other than repairs or reconstruction) in connection with the installation of any small hydroelectric power project;
 
 &emsp;(7) “municipality” has the meaning provided in section 796 of this title; and
 
@@ -26,9 +26,15 @@
 
 > any project which utilizes or proposes to utilize natural water features for the generation of electricity, without the need for any dam or impoundment, in a manner which (as determined by the Commission) will achieve the purposes of this chapter and will do so without any adverse effect upon such natural water features.
 
-(Pub. L. 95–617, title IV, §408, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, §408(a), (c), June 30, 1980, 94 Stat. 718; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 95–617, title IV, §408, Nov. 9, 1978, 92 Stat. 3156; Pub. L. 96–294, title IV, §408(a), (c), June 30, 1980, 94 Stat. 718; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–58, title II, §246, Aug. 8, 2005, 119 Stat. 679.)
+
+#### References in Text
+
+The Commission, referred to in subsec. (b), means the Federal Energy Regulatory Commission, see section 2602(3) of this title.
 
 #### Amendments
+
+2005—Subsec. (a)(6). Pub. L. 109–58 substituted “July 22, 2005” for “April 20, 1977”.
 
 1986—Subsec. (a)(3), (5). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

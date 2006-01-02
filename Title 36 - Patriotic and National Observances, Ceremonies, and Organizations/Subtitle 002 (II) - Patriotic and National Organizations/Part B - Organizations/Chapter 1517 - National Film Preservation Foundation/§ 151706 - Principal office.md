@@ -1,8 +1,8 @@
 ### §151706. Principal office
 
-The principal office of the corporation shall be in the District of Columbia. However, the corporation may conduct business throughout the States, territories, and possessions of the United States.
+The principal office of the corporation shall be in the District of Columbia, or another place as determined by the board of directors. However, the corporation may conduct business throughout the States, territories, and possessions of the United States.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1406.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1406; Pub. L. 109–9, title III, §312(c), Apr. 27, 2005, 119 Stat. 226.)
 
 Historical and Revision Notes
 
@@ -21,4 +21,8 @@ Historical and Revision Notes
 Oct. 11, 1996, Pub. L. 104–285, title II, §204(a)(2), (3), 110 Stat. 3384.
 
 This section is substituted for the source provisions for consistency in the revised title.
+
+#### Amendments
+
+2005—Pub. L. 109–9 inserted “, or another place as determined by the board of directors” after “District of Columbia”.
 

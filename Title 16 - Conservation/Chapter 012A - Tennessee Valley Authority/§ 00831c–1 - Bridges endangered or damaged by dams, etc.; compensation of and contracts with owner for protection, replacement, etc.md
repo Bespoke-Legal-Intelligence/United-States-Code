@@ -16,5 +16,5 @@ Section was not enacted as part of the Tennessee Valley Authority Act which comp
 
 #### Amendments
 
-1968—Pub. L. 90–524 permitted the Authority to use appropriated funds to cover the Federal share of thecost of necessary bridge alterations where the alterations are obtained by agreement with the bridge owner, made this section applicable to alterations required by new reservoir projects and by realignment or other changes of the navigation channel to accommodate the growth of traffic or changes in navigation requirements within existing reservoirs, and substituted the Secretary of Transportation for the Chief of Engineers and the Secretary of the Army as the approving official.
+1968—Pub. L. 90–524 permitted the Authority to use appropriated funds to cover the Federal share of the cost of necessary bridge alterations where the alterations are obtained by agreement with the bridge owner, made this section applicable to alterations required by new reservoir projects and by realignment or other changes of the navigation channel to accommodate the growth of traffic or changes in navigation requirements within existing reservoirs, and substituted the Secretary of Transportation for the Chief of Engineers and the Secretary of the Army as the approving official.
 

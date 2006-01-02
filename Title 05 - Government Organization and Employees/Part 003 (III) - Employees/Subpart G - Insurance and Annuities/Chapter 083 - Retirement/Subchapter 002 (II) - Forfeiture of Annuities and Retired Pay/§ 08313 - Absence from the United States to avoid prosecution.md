@@ -10,7 +10,7 @@
 
 &emsp;(2) willfully remains outside the United States, or its territories and possessions including the Commonwealth of Puerto Rico, for more than 1 year with knowledge of the indictment or charges, as the case may be.
 
-(b) The prohibition on payment of annuity or retired pay under subsection (a) of this sectionapplies to the period after the end of the 1-year period and continues until—
+(b) The prohibition on payment of annuity or retired pay under subsection (a) of this section applies to the period after the end of the 1-year period and continues until—
 
 &emsp;(1) a nolle prosequi to the entire indictment is entered on the record or the charges are dismissed by competent authority;
 
@@ -50,7 +50,7 @@ Development of Procedures for Suspension.—The Secretary of Defense shall devel
 
 “(b)
 
-Report to Congress.—The Secretary of Defense shall submit to Congress a report describing the procedures developed under subsection (a). The report shall include recommendations regarding changes to existing provisions of law (including section 8313 of title 5, United States Code) that the Secretary determines are necessary to fully implement the procedures.
+Report to Congress.—The Secretary of Defense shall submit to Congress a report describing the procedures developed under subsection (a). The report shall include recommendations regarding changes to existingprovisions of law (including section 8313 of title 5, United States Code) that the Secretary determines are necessary to fully implement the procedures.
 
 “(c)
 

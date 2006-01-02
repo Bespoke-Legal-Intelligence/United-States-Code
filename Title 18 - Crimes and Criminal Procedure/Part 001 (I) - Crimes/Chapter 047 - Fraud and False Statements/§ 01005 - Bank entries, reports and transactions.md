@@ -32,7 +32,7 @@ Since section 3231 of this title gives the district court jurisdiction of crimin
 
 #### References in Text
 
-Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in text, is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) ofthe Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 3(w)(1) of the Federal Deposit Insurance Act, referred to in text, is classified to section 1813(w)(1) of Title 12.
 
@@ -52,7 +52,7 @@ Pub. L. 101–647, §2595(a)(3)(C), inserted “For purposes of this section, th
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, were not included in transfer of functions of officers, agencies and employees of Department of the Treasury to Secretary of the Treasury, made by Reorg. Plan No. 26 of 1950, §1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

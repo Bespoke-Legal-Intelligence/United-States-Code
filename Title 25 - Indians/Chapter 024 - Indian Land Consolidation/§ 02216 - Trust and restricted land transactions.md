@@ -46,7 +46,7 @@ The sale, exchange, or conveyance by gift deed for no or nominal consideration o
 
 #### (e) Land ownership information
 
-Notwithstanding any other provision of law, the names and mailing addresses of the owners of any interest in trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual shall, upon written request, be made available to <sup>1</sup>
+Notwithstanding any other provision of law, the names and mailing addresses of the owners of any interest in trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual shall, upon written request, be made available to—
 
 &emsp;(1) other owners of interests in trust or restricted lands within the same reservation;
 
@@ -74,9 +74,11 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 &emsp;&emsp;Section 2205(c)(2)(A) of this title shall apply with respect to the recording and mortgaging of any trust or restricted land referred to in subparagraph (A).
 
-(Pub. L. 97–459, title II, §217, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, §6(a)(9), Oct. 27, 2004, 118 Stat. 1803.)
+(Pub. L. 97–459, title II, §217, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2002; amended Pub. L. 108–374, §6(a)(9), Oct. 27, 2004, 118 Stat. 1803; Pub. L. 109–157, §7, Dec. 30, 2005, 119 Stat. 2952.)
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–157 substituted “be made available to—” for “be made available to”.
 
 2004—Subsec. (b)(1)(B). Pub. L. 108–374, §6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner's spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
 
@@ -84,9 +86,11 @@ Subsec. (e). Pub. L. 108–374, §6(a)(9)(B), added introductory provisions and 
 
 Subsec. (e)(1). Pub. L. 108–374, §6(a)(9)(C), struck out “Indian” before “owners”.
 
-Subsec. (e)(3). Pub. L. 108–374, §6(a)(9)(D), substituted “any person that is leasing, using, or consolidating, oris applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
+Subsec. (e)(3). Pub. L. 108–374, §6(a)(9)(D), substituted “any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
 
 Subsec. (f). Pub. L. 108–374, §6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, see section 9 of Pub. L. 109–157, set out as a note under section 464 of this title.
 

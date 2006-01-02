@@ -1,16 +1,18 @@
 ### §8037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties
 
-(a) There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years, but may be sooner terminated or extended by the President. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.
+(a) There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years. The Judge Advocate General, while so serving, shall hold a grade not lower than major general.
 
-(b) The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State or Territory, and who have had at least eight years of experience in legal duties as commissioned officers.
+(b) The Judge Advocate General of the Air Force shall be appointed from those officers who at the time of appointment are members of the bar of a Federal court or the highest court of a State, and who have had at least eight years of experience in legal duties as commissioned officers.
 
-(c) The Judge Advocate General shall, in addition to other duties prescribed by law—
+(c) The Judge Advocate General, in addition to other duties prescribed by law—
 
-&emsp;(1) receive, revise, and have recorded the proceedings of courts of inquiry and military commissions; and
+&emsp;(1) is the legal adviser of the Secretary of the Air Force and of all officers and agencies of the Department of the Air Force;
 
-&emsp;(2) perform such other legal duties as may be directed by the Secretary of the Air Force.
+&emsp;(2) shall direct the officers of the Air Force designated as judge advocates in the performance of their duties; and
 
-(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years, but may be sooner terminated or extended by the President. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.
+&emsp;(3) shall receive, revise, and have recorded the proceedings of courts of inquiry and military commissions.
+
+(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.
 
 (2) When there is a vacancy in the office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
@@ -18,7 +20,13 @@
 
 (e) Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President under subsection (a) for appointment as the Judge Advocate General or under subsection (d) for appointment as the Deputy Judge Advocate General, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Pub. L. 96–343, §12(a), (b)(1), Sept. 8, 1980, 94 Stat. 1130, 1131; renumbered §8037, Pub. L. 99–433, title V, §522(f), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title V, §504(c), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 104–106, div. A, title V, §507(a), Feb. 10, 1996, 110 Stat. 296.)
+(f) No officer or employee of the Department of Defense may interfere with—
+
+&emsp;(1) the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Air Force or the Chief of Staff of the Air Force; or
+
+&emsp;(2) the ability of officers of the Air Force who are designated as judge advocates who are assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495, §8072; Pub. L. 96–343, §12(a), (b)(1), Sept. 8, 1980, 94 Stat. 1130, 1131; renumbered §8037, Pub. L. 99–433, title V, §522(f), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title V, §504(c), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 104–106, div. A, title V, §507(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 108–375, div. A, title V, §574(c), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, §508(c), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440.)
 
 Historical and Revision Notes
 
@@ -59,6 +67,20 @@ In subsection (b), the words “Hereafter” and “exclusive of the present inc
 In subsection (c), the Act of June 23, 1874, ch. 458, §2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163, §508(c), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
+
+Subsec. (b). Pub. L. 109–163, §1057(a)(2), struck out “or Territory” after “a State”.
+
+2004—Subsec. (a). Pub. L. 108–375, §574(c)(1), struck out “, but may be sooner terminated or extended by the President” after “four years”.
+
+Subsec. (c). Pub. L. 108–375, §574(c)(2)(A), struck out “shall” after “General” in introductory provisions.
+
+Subsec. (c)(1) to (3). Pub. L. 108–375, §574(c)(2)(B)–(D), added pars. (1) and (2), redesignated former par. (1) as (3), inserted “shall” before “receive”, substituted period for “; and” at end, and struck out former par. (2) which read as follows: “perform such other legal duties as may be directed by the Secretary of the Air Force.”
+
+Subsec. (d)(1). Pub. L. 108–375, §574(c)(3), struck out “, but may be sooner terminated or extended by the President” after “four years”.
+
+Subsec. (f). Pub. L. 108–375, §574(c)(4), added subsec. (f).
 
 1996—Subsec. (d)(1). Pub. L. 104–106 substituted “four years” for “two years” and “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “An officer appointed as Deputy Judge Advocate General shall be appointed in a regular grade to be determined by the Secretary of Defense.”
 

@@ -58,11 +58,11 @@ June 15, 1916, ch. 148, §§2 (words after 2d comma), 4 (words before semicolon)
 
 &nbsp;
 
-In subsection (a)(1), the word “make” is omitted as included in “adopt”. The word “amend” is added for consistency in the revised title and because of 36:25 (6th sentence). The words “not inconsistent with the laws ofthe United States of America, or any State thereof” are omitted as unnecessary.
+In subsection (a)(1), the word “make” is omitted as included in “adopt”. The word “amend” is added for consistency in the revised title and because of 36:25 (6th sentence). The words “not inconsistent with the laws of the United States of America, or any State thereof” are omitted as unnecessary.
 
 Subsection (a)(2) is substituted for “to adopt a seal, and the same to alter and destroy at pleasure” for consistency in the revised title.
 
-In subsection (a)(3), the word “activities” is substituted for “business and affairs”, and the words “in the District of Columbia and the States, territories, and possessions of the United States” are substituted for “within and without the District of Columbia and in the several States and Territories of the United States”, for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a)(3), the word “activities” is substituted for “business and affairs”, and the words “in the District of Columbia and the States, territories, and possessions of the United States” are substituted for “within and without the District of Columbia andin the several States and Territories of the United States”, for consistency in the revised title and to eliminate unnecessary words.
 
 Subsection (a)(4) is substituted for “hold such real and personal estate as shall be necessary for corporate purposes, and . . . receive real and personal property by gift, devise, or bequest” for consistency in the revised title and to eliminate unnecessary words. The text of 36:24 (words before semicolon) is omitted as executed and obsolete.
 

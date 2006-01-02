@@ -32,7 +32,7 @@ Whoever—
 
 &emsp;(A) to refer an individual to a person for the furnishing or arranging for the furnishing of any item or service for which payment may be made in whole or in part under a Federal health care program, or
 
-&emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or orderingany good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
+&emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
 > shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
@@ -44,7 +44,7 @@ Whoever—
 
 &emsp;(C) any amount paid by a vendor of goods or services to a person authorized to act as a purchasing agent for a group of individuals or entities who are furnishing services reimbursed under a Federal health care program if—
 
-&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
+&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, whichamount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
 
 &emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received from each such vendor with respect to purchases made by or on behalf of the entity;
 
@@ -56,7 +56,9 @@ Whoever—
 
 &emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII of this chapter, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section); and
 
-&emsp;(H) any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(<i>l</i>)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity.
+&emsp;(H) <sup>2</sup> any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title.
+
+&emsp;(H) <sup>2</sup> any remuneration between a health center entity described under clause (i) or (ii) of section 1396d(<i>l</i>)(2)(B) of this title and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity pursuant to a contract, lease, grant, loan, or other agreement, if such agreement contributes to the ability of the health center entity to maintain or increase the availability, or enhance the quality, of services provided to a medically underserved population served by the health center entity.
 
 #### (c) False statements or representations with respect to condition or operation of institutions
 
@@ -68,7 +70,7 @@ Whoever knowingly and willfully—
 
 &emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX of this chapter, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
-&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than acharitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
+&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX of this chapter, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
 &emsp;&emsp;(A) as a precondition of admitting a patient to a hospital, nursing facility, or intermediate care facility for the mentally retarded, or
 
@@ -92,18 +94,6 @@ For purposes of this section, the term “Federal health care program” means�
 
 (Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287.)
 
-#### Amendment of Subsection (b)(3)
-
-<i>Pub. L. 108–173, title II, §237(d), (e), Dec. 8, 2003, 117 Stat. 2213, provided that, applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, subsection (b)(3) of this section is amended as follows:</i>
-
-<i>(1) in subparagraph (F), by striking “and” after the semicolon at the end;</i>
-
-<i>(2) in subparagraph (G), by striking the period at the end and inserting “; and”; and</i>
-
-<i>(3) by adding at the end the following new subparagraph:</i>
-
-<i>(H) any remuneration between a federally qualified health center (or an entity controlled by such a health center) and an MA organization pursuant to a written agreement described in section 1395w–23(a)(4) of this title.</i>
-
 #### References in Text
 
 Part B of subchapter XVIII of this chapter, referred to in subsec. (b)(3)(D), is classified to section 1395j et seq. of this title.
@@ -126,7 +116,9 @@ Prior to redesignation by Pub. L. 100–93, subsecs. (a) to (d) of this section 
 
 Subsec. (b)(3)(G). Pub. L. 108–173, §101(e)(2), added subpar. (G).
 
-Subsec. (b)(3)(H). Pub. L. 108–173, §431(a), added subpar. (H).
+Subsec. (b)(3)(H). Pub. L. 108–173, §431(a), added subpar. (H) relating to remuneration between a health center entity and any individual or entity providing goods, items, services, donations, loans, or a combination thereof, to such health center entity.
+
+Pub. L. 108–173, §237(d), added subpar. (H) relating to remuneration between a federally qualified health center and an MA organization.
 
 1997—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted “failure, conversion, or provision of counsel or assistance by any other person” for “failure, or conversion by any other person”.
 
@@ -134,7 +126,7 @@ Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out forme
 
 Subsec. (c). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
 
-Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted “(or, in the case of services provided to an individual enrolled with a medicaid managed care organizationunder subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract)” after “by the State”.
+Subsec. (d)(1). Pub. L. 105–33, §4704(b), inserted “(or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX of this chapter under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract)” after “by the State”.
 
 1996—Pub. L. 104–191, §204(a)(1), substituted “Federal” for “Medicare or State” in section catchline.
 
@@ -212,7 +204,7 @@ Pub. L. 108–173, title II, §237(e), Dec. 8, 2003, 117 Stat. 2213, provided th
 
 Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
-Amendment by section 4704(b) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts enteredinto or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by section 4704(b) of Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -234,7 +226,7 @@ Amendment by section 4164(b)(2) of Pub. L. 101–508 applicable with respect to 
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendments
 
@@ -336,7 +328,7 @@ Final committee report.—If the committee is not terminated under paragraph (6)
 
 “(8)
 
-Interim, final effect.—The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
+Interim, final effect.—The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connectionwith such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
 
 “(9)
 
@@ -347,4 +339,6 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 Section 14(a) of Pub. L. 100–93 provided that: “The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[subsec. (b) of this section\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subpars. (H) have been enacted.</i>
 

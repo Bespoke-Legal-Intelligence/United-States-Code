@@ -18,7 +18,7 @@
 
 #### (b) Annual report on hiring and retention of minority employees
 
-(1) The Director of National Intelligence shall, on an annual basis, submit to Congress a report on the employment of covered persons within each element of the intelligence community for the preceding fiscal year.
+(1) The Director of National Intelligence shall, on an annual basis, submit to Congress a reporton the employment of covered persons within each element of the intelligence community for the preceding fiscal year.
 
 (2) Each such report shall include disaggregated data by category of covered person from each element of the intelligence community on the following:
 
@@ -121,6 +121,8 @@ Pub. L. 107–306, §821(1), redesignated subsec. (d) as (e).
 Subsec. (f). Pub. L. 107–306, §822(1), redesignated subsec. (e) as (f).
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

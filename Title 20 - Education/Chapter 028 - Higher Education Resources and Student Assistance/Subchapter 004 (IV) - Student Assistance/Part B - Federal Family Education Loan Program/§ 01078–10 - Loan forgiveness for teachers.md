@@ -82,7 +82,7 @@ For purposes of this section, the term “year”, where applied to service as a
 
 Section 7801 of this title, referred to in subsec. (b)(1)(B), was in the original “section 9101 of the Elementary Secondary Education Act of 1965”, which was translated as meaning section 9101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
-The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I ofthe Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
 
@@ -122,7 +122,9 @@ Rule.—The amendments made by paragraph (1) of this subsection to sections 428J
 
 Rule not applicable to increased qualified loan amounts.—Subparagraph (A) of this paragraph shall not apply for purposes of obtaining increased qualified loan amounts under sections 428J(c)(3) and 460(c)(3) of the Higher Education Act of 1965 \[sections 1078–10(c)(3) and 1087j(c)(3) of this title\] as added by subsection (b) of this section.”
 
-Pub. L. 108–409, §3(b)(3), Oct. 30, 2004, 118 Stat. 2301, provided that: “The amendments made by this subsection \[amending this section and section 1087j of this title\] shall apply only with respect to eligible individuals who are new borrowers (as such term is defined in 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) on or after October 1, 1998, and before October 1, 2005.”
+Pub. L. 108–409, §3(b)(3), Oct. 30, 2004, 118 Stat. 2301, as amended by Pub. L. 109–150, §2(c)(1), Dec. 30, 2005, 119 Stat. 2884, provided that: “The amendments made by this subsection \[amending this section and section 1087j of this title\] shall apply only with respect to eligible individuals who are new borrowers (as such term is defined in 103 of the Higher Education Act of 1965 (20 U.S.C. 1003)) on or after October 1, 1998, and before June 30, 2007.”
+
+\[Amendment by Pub. L. 109–150 effective as if enacted on Oct. 1, 2005, see section 2(d)(2) of Pub. L. 109–150, set out as an Effective Date of 2005 Amendment note under section 1087–1 of this title.\]
 
 #### Effective Date of 1998 Amendment
 

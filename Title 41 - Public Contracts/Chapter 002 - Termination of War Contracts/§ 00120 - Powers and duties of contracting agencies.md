@@ -18,7 +18,7 @@ All policies and procedures relating to termination of war contracts, terminatio
 
 #### (e) Impairment of contract
 
-Nothing in this chapter shall be deemed to impair or modify any war contract or any term or provision of any war contract or any assignment of any claim under a war contract, without the consent of the parties thereto, if the war contract, or the term, provision, or assignment thereof, is otherwise valid.
+Nothing in this chapter shall be deemed to impair or modify any war contract or any term or provision of any war contract or any assignment of any claim under a war contract, without theconsent of the parties thereto, if the war contract, or the term, provision, or assignment thereof, is otherwise valid.
 
 #### (f) Aid to war contractors
 
@@ -28,7 +28,7 @@ Any contracting agency may authorize or direct its officers and employees, as a 
 
 #### References in Text
 
-The First War Powers Act, 1941, referred to in subsec. (a), is act Dec. 18, 1941, ch. 593, 55 Stat. 838, which enacted sections 32 to 37 and 601 to 605, 611, and 616 to 622 of Title 50, Appendix, War and National Defense, and amended section 95a of Title 12, Banks and Banking, and section 5 of Title 50, Appendix. The First War Powers Act, 1941, was substantially repealed, with certain exceptions, by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80Stat. 651. For complete classification of this Act to the Code, see Tables.
+The First War Powers Act, 1941, referred to in subsec. (a), is act Dec. 18, 1941, ch. 593, 55 Stat. 838, which enacted sections 32 to 37 and 601 to 605, 611, and 616 to 622 of Title 50, Appendix, War and National Defense, and amended section 95a of Title 12, Banks and Banking, and section 5 of Title 50, Appendix. The First War Powers Act, 1941, was substantially repealed, with certain exceptions, by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 651. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

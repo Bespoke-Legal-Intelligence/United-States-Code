@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–34, §966(d), which directed amendment of subsec. (b) by inserting before theperiod “(32 percent of such income in the case of a timeshare association)”, was executed by making the insertion before the period at end to reflect the probable intent of Congress.
+1997—Subsec. (b). Pub. L. 105–34, §966(d), which directed amendment of subsec. (b) by inserting before the period “(32 percent of such income in the case of a timeshare association)”, was executed by making the insertion before the period at end to reflect the probable intent of Congress.
 
 Subsec. (c)(1). Pub. L. 105–34, §966(a)(1)(A), substituted “, a residential real estate management association, or a timeshare association” for “or a residential real estate management association” in introductory provisions.
 
@@ -134,9 +134,5 @@ Section 701(n)(2) of Pub. L. 95–600 provided that: “The amendment made by pa
 
 #### Effective Date
 
-Section 2101(e) of Pub. L. 94–455 provided that: “Except as provided in subsection (f)(2) \[set out as a note under section 216 of this title\], the amendments made by this section \[enacting this section and amending sections 216 and 6012 of this title\] shall apply to taxable years beginning after December 31, 1973.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6012 of this title.
+Section 2101(e) of Pub. L. 94–455 provided that: “Except as provided in subsection (f)(2) \[set out as a note under section 216 of this title\], the amendments made by this section \[enacting this section and amendingsections 216 and 6012 of this title\] shall apply to taxable years beginning after December 31, 1973.”
 

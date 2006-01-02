@@ -16,7 +16,7 @@ The purpose of this section is to confer upon the Secretary general authority to
 
 #### (c) Duration and eligibility
 
-The Secretary may enter into contracts, grants, or cooperative agreements, for periods not to exceed five years, with State agricultural experiment stations, State cooperative extension services, all colleges and universities, other research or education institutions and organizations, Federal and private agencies and organizations, individuals, and any other contractor or recipient, either foreign or domestic, to further research, extension, or teaching programs in the food and agricultural sciences of the Department of Agriculture.
+The Secretary may enter into contracts, grants, or cooperative agreements, for periodsnot to exceed five years, with State agricultural experiment stations, State cooperative extension services, all colleges and universities, other research or education institutions and organizations, Federal and private agencies and organizations, individuals, and any other contractor or recipient, either foreign or domestic, to further research, extension, or teaching programs in the food and agricultural sciences of the Department of Agriculture.
 
 #### (d) Vesting of title
 

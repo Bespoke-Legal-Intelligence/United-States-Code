@@ -6,7 +6,7 @@ Any person who sells or transfers for profit cigarettes in interstate commerce, 
 
 &emsp;(1) first file with the tobacco tax administrator of the State into which such shipment is made or in which such advertisement or offer is disseminated a statement setting forth his name and trade name (if any), and the address of his principal place of business and of any other place of business; and
 
-&emsp;(2) not later than the 10th day of each calendar month, file with the tobacco tax administrator of the State into which such shipment is made, a memorandum or a copy of the invoice covering each and every shipment of cigarettes made during the previous calendar month into such State; the memorandum or invoice in each case to include the name andaddress of the person to whom the shipment was made, the brand, and the quantity thereof.
+&emsp;(2) not later than the 10th day of each calendar month, file with the tobacco tax administrator of the State into which such shipment is made, a memorandum or a copy of the invoice covering each and every shipment of cigarettes made during the previous calendar month into such State; the memorandum or invoice in each case to include the name and address of the person to whom the shipment was made, the brand, and the quantity thereof.
 
 #### (b) Presumptive evidence
 

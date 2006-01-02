@@ -32,7 +32,7 @@ The requirements of subsection (d) of section 1342 of this title may not be waiv
 
 #### Discharges From Point Sources in United States Virgin Islands Attributable to Manufacture of Rum; Exemption; Conditions
 
-Discharges from point sources in the United States Virgin Islands in existence on Aug. 5, 1983, attributable to the manufacture of rum not to be subject to the requirements of this section under certain conditions, see section 214(g) of Pub. L. 98–67, set out as a note under section 1311 of this title.
+Discharges from point sources in the United States Virgin Islands in existence on Aug. 5, 1983, attributableto the manufacture of rum not to be subject to the requirements of this section under certain conditions, see section 214(g) of Pub. L. 98–67, set out as a note under section 1311 of this title.
 
 #### Territorial Sea and Contiguous Zone of United States
 

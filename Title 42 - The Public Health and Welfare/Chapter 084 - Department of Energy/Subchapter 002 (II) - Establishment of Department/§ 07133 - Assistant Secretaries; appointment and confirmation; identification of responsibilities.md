@@ -1,6 +1,6 @@
 ### §7133. Assistant Secretaries; appointment and confirmation; identification of responsibilities
 
-(a) There shall be in the Department six Assistant Secretaries, each of whom shall be appointed by the President, by and with the advice and consent of the Senate; who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5; and who shall perform, in accordance with applicable law, such of the functions transferred or delegated to, or vested in, the Secretary as he shall prescribe in accordance with the provisions of this chapter. The functions which the Secretary shall assign to the Assistant Secretaries include, but are not limited to, the following:
+(a) There shall be in the Department 7 Assistant Secretaries, each of whom shall be appointed by the President, by and with the advice and consent of the Senate; who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5; and who shall perform, in accordance with applicable law, such of the functions transferred or delegated to, or vested in, the Secretary as he shall prescribe in accordance with the provisions of this chapter. The functions which the Secretary shall assign to the Assistant Secretaries include, but are not limited to, the following:
 
 &emsp;(1) Energy resource applications, including functions dealing with management of all forms of energy production and utilization, including fuel supply, electric power supply, enriched uranium production, energy technology programs, and the management of energy resource leasing procedures on Federal lands.
 
@@ -52,9 +52,11 @@
 
 (b) At the time the name of any individual is submitted for confirmation to the position of Assistant Secretary, the President shall identify with particularity the function or functions described in subsection (a) of this section (or any portion thereof) for which such individual will be responsible.
 
-(Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570; Pub. L. 106–65, div. C, title XXXII, §3294(a)(2), (b), Oct. 5, 1999, 113 Stat. 970.)
+(Pub. L. 95–91, title II, §203, Aug. 4, 1977, 91 Stat. 570; Pub. L. 106–65, div. C, title XXXII, §3294(a)(2), (b), Oct. 5, 1999, 113 Stat. 970; Pub. L. 109–58, title X, §1006(b)(1), Aug. 8, 2005, 119 Stat. 931.)
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58 substituted “7” for “six” in introductory provisions.
 
 1999—Subsec. (a). Pub. L. 106–65, §3294(a)(2), substituted “six” for “eight” in introductory provisions.
 
@@ -66,7 +68,7 @@ Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L
 
 #### Federal Power Marketing Administration Employment Levels
 
-Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employmentlevels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
+Pub. L. 101–514, title V, §510, Nov. 5, 1990, 104 Stat. 2098, provided that no funds appropriated or made available were to be used by the executive branch to change employment levels determined by Administrators of the Federal Power Marketing Administrations to be necessary to carry out their responsibilities under this chapter and related laws, or to change employment levels of other Department of Energy programs to compensate for employment levels of the Federal Power Marketing Administrations, prior to repeal by Pub. L. 104–46, title V, §501, Nov. 13, 1995, 109 Stat. 419.
 
 #### Marketing and Exchange of Surplus Electricity From Navajo Generating Station
 

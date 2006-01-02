@@ -28,7 +28,7 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-Subsection (b) amended in the Senate to insert the 1 year limitation on the bringing of tort actions and to include the limitation upon the time in which tortclaims not exceeding $1000 must be presented to the appropriate Federal agencies for administrative disposition. 80th Congress Senate Report No. 1559, Amendment No. 48.
+Subsection (b) amended in the Senate to insert the 1 year limitation on the bringing of tort actions and to include the limitation upon the time in which tort claims not exceeding $1000 must be presented to the appropriate Federal agencies for administrative disposition. 80th Congress Senate Report No. 1559, Amendment No. 48.
 
 #### References in Text
 

@@ -22,11 +22,25 @@ If any advertisement to which this section applies states the amount of the down
 
 &emsp;(3) The rate of the finance charge expressed as an annual percentage rate.
 
-(Pub. L. 90–321, title I, §144, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §619(b), Mar. 31, 1980, 94 Stat. 183.)
+#### (e) Credit transaction secured by principal dwelling of consumer
+
+Each advertisement to which this section applies that relates to a consumer credit transaction that is secured by the principal dwelling of a consumer in which the extension of credit may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall clearly and conspicuously state that—
+
+&emsp;(1) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
+
+&emsp;(2) the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
+
+(Pub. L. 90–321, title I, §144, May 29, 1968, 82 Stat. 158; Pub. L. 96–221, title VI, §619(b), Mar. 31, 1980, 94 Stat. 183; Pub. L. 109–8, title XIII, §1302(b)(2), Apr. 20, 2005, 119 Stat. 209.)
 
 #### Amendments
 
+2005—Subsec. (e). Pub. L. 109–8 added subsec. (e).
+
 1980—Subsec. (d). Pub. L. 97–221 substituted items setting forth downpayment, etc., set out in pars. (1) to (3), for items setting forth cash price or amount of loan, etc., set out in pars. (1) to (4).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1980 Amendment
 

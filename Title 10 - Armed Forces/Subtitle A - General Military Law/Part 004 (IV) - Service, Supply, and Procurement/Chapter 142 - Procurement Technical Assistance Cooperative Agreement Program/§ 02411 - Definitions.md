@@ -58,7 +58,3 @@ Par. (2). Pub. L. 100–180, §807(b)(2), substituted “means—” for “mean
 
 Section 919(d) of Pub. L. 99–145 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2412 to 2415 of this title\] shall take effect on October 1, 1985.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2414 of this title.
-

@@ -2,15 +2,15 @@
 
 (a) Under regulations prescribed by the Secretary concerned, there shall be maintained retired lists containing the names of the Reserves of the armed forces under the Secretary's jurisdiction who are in the Retired Reserve.
 
-(b) The Secretary of the Navy shall maintain a United States Naval Reserve Retired List containing the names of members of the Naval Reserve and the Marine Corps Reserve entitled to retired pay.
+(b) The Secretary of the Navy shall maintain a United States Naval Reserve Retired List containing the names of members of the Navy Reserve and the Marine Corps Reserve entitled to retired pay.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(k)(1), Oct. 5, 1994, 108 Stat. 3006.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(k)(1), Oct. 5, 1994, 108 Stat. 3006; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(NN), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 1376(a) and 6017 of this title, prior to repeal by Pub. L. 103–337, §1662(k)(2), (3)(A)(i).
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 1431, 12771, 12772 of this title.
+2006—Subsec. (b). Pub. L. 109–163 substituted “the Navy Reserve” for “the Naval Reserve”.
 

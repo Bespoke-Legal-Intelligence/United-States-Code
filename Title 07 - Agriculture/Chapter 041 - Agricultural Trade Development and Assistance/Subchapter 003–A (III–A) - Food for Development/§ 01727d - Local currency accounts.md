@@ -20,7 +20,7 @@ The Administrator shall consider the local currency proceeds as an integral part
 
 #### Prior Provisions
 
-A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1694 of this title, priorto repeal by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1694 of this title, prior to repeal by Pub. L. 89–808, §2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 #### Amendments
 

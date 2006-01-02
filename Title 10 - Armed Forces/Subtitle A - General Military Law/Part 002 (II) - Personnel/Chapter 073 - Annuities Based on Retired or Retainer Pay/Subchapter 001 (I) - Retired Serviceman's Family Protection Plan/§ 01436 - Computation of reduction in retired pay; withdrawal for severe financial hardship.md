@@ -14,7 +14,7 @@
 
 > A retired member may not reduce an annuity under clause (1) of this subsection, or withdraw under clause (2) of this subsection, earlier than the first day of the seventh calendar month beginning after he applies for reduction or withdrawal. A change of election under clause (3) of this subsection shall be effective on the first day of the month following the month in which application is made. An election under clause (4) of this subsection shall be effective on the first day of the month following the month in which application is made and, if on the effective date there is no surviving child who would be eligible for an annuity provided under clause (2) of section 1434(a), or under section 1434(b), of this title if the elector died, no deduction shall be made for such an annuity to, or on behalf of, a child from the elector's retired or retainer pay for that month or any subsequent month. No amounts by which a member's retired or retainer pay is reduced prior to the effective date of a reduction of annuity, withdrawal, change of election, or election under this subsection may be refunded to, or credited on behalf of, the member by virtue of an application made by him under this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 110; Pub. L. 87–381, §4, Oct. 4, 1961, 75 Stat. 811; Pub. L. 90–207, §2(a)(3), Dec. 16, 1967, 81 Stat. 653; Pub. L. 90–485, §1(6), Aug. 13, 1968, 82 Stat. 753; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706; Pub. L. 104–106, div. A, title XV, §1505(c), Feb. 10, 1996, 110 Stat. 514.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 110; Pub. L. 87–381, §4, Oct. 4, 1961, 75 Stat. 811; Pub. L. 90–207, §2(a)(3), Dec. 16, 1967, 81 Stat. 653; Pub. L. 90–485, §1(6), Aug. 13, 1968, 82 Stat. 753; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706; Pub. L.104–106, div. A, title XV, §1505(c), Feb. 10, 1996, 110 Stat. 514.)
 
 Historical and Revision Notes
 
@@ -42,7 +42,7 @@ The words “of any person who elects an annuity” are substituted for the word
 
 1967—Subsec. (a). Pub. L. 90–207 inserted “but without regard to any increase in that pay to reflect changes in the Consumer Price Index” after “that pay”.
 
-1961—Pub. L. 87–381 designated existing provisions as subsec. (a), added subsec. (b), and inserted“; withdrawal for severe financial hardship” in section catchline.
+1961—Pub. L. 87–381 designated existing provisions as subsec. (a), added subsec. (b), and inserted “; withdrawal for severe financial hardship” in section catchline.
 
 #### Effective Date of 1996 Amendment
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 90–485 effective Aug. 13, 1968, see section 6 of Pub. L. 
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note under section 203 of Title 37, Pay and Allowances of the Uniformed Services.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1434 of this title.
 

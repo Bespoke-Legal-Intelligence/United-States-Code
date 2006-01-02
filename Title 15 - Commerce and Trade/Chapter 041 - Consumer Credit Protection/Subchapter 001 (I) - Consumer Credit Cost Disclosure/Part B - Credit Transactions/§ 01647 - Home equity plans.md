@@ -20,7 +20,7 @@ A creditor may not unilaterally terminate any account under an open end consumer
 
 #### (1) In general
 
-&emsp;No open end consumer credit plan under which extensions of credit are secured by a consumer's principal dwelling may contain aprovision which permits a creditor to change unilaterally any term required to be disclosed under section 1637a(a) of this title or any other term, except a change in insignificant terms such as the address of the creditor for billing purposes.
+&emsp;No open end consumer credit plan under which extensions of credit are secured by a consumer's principal dwelling may contain a provision which permits a creditor to change unilaterally any term required to be disclosed under section 1637a(a) of this title or any other term, except a change in insignificant terms such as the address of the creditor for billing purposes.
 
 #### (2) Certain changes not precluded
 

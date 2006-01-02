@@ -42,7 +42,7 @@ As used in this section:
 
 #### (B) Easement outside boundary
 
-&emsp;&emsp;To allow access between areas of the archeological district that on February 20, 2003, are noncontiguous, the Secretary may acquire by donation or purchase from willing owners using donated or appropriated funds, or exchange, easements connecting the areas generally depicted on the Map.
+&emsp;&emsp;To allow access between areas of the archeological district that on February 20,2003, are noncontiguous, the Secretary may acquire by donation or purchase from willing owners using donated or appropriated funds, or exchange, easements connecting the areas generally depicted on the Map.
 
 #### (d) Administration
 

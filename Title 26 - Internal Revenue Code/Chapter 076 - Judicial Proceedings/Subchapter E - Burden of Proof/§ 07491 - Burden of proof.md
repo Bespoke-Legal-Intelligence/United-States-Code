@@ -34,7 +34,7 @@ Notwithstanding any other provision of this title, the Secretary shall have the 
 
 #### Prior Provisions
 
-A prior section 7491, act Aug. 16, 1954, ch. 736, 68A Stat. 893, placed the burden of proof in establishing theapplicability of an exemption upon the defendant in the case of marihuana offenses, prior to repeal by Pub. L. 91–513, title III, §§1101(b)(5)(A), 1103, 1105(a), Oct. 27, 1970, 84 Stat. 1292, 1294, 1295, effective on first day of seventh calendar month that begins after Oct. 26, 1970, with prosecutions commenced prior to such date not to be affected or abated by reason thereof.
+A prior section 7491, act Aug. 16, 1954, ch. 736, 68A Stat. 893, placed the burden of proof in establishing the applicability of an exemption upon the defendant in the case of marihuana offenses, prior to repeal by Pub. L. 91–513, title III, §§1101(b)(5)(A), 1103, 1105(a), Oct. 27, 1970, 84 Stat. 1292, 1294, 1295, effective on first day of seventh calendar month that begins after Oct. 26, 1970, with prosecutions commenced prior to such date not to be affected or abated by reason thereof.
 
 A prior section 7492, act Aug. 16, 1954, ch. 736, 68A Stat. 893, related to the enforceability of cotton futures contracts, prior to repeal by Pub. L. 94–455, title XIX, §1952(n)(4)(A), (<i>o</i>), Oct. 4, 1976, 90 Stat. 1846, effective on the 90th day after Oct. 4, 1976.
 

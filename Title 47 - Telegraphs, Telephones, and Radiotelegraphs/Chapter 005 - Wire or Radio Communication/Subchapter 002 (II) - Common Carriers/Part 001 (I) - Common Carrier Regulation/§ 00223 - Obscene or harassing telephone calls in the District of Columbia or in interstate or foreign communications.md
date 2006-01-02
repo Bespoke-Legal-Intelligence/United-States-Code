@@ -130,9 +130,11 @@ For purposes of this section—
 
 &emsp;(1) The use of the term “telecommunications device” in this section—
 
-&emsp;&emsp;(A) shall not impose new obligations on broadcasting station licensees and cable operators covered by obscenity and indecency provisions elsewhere in this chapter; and
+&emsp;&emsp;(A) shall not impose new obligations on broadcasting station licensees and cable operators covered by obscenity and indecency provisions elsewhere in this chapter;
 
-&emsp;&emsp;(B) does not include an interactive computer service.
+&emsp;&emsp;(B) does not include an interactive computer service; and
+
+&emsp;&emsp;(C) in the case of subparagraph (C) of subsection (a)(1) of this section, includes any device or software that can be used to originate telecommunications or other types of communications that are transmitted, in whole or in part, by the Internet (as such term is defined in section 1104 <sup>1</sup> of the Internet Tax Freedom Act (47 U.S.C. 151 note)).
 
 &emsp;(2) The term “interactive computer service” has the meaning provided in section 230(f)(2) of this title.
 
@@ -148,15 +150,19 @@ For purposes of this section—
 
 &emsp;(5) The term “library” means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 355e et seq.).
 
-(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739; Pub. L. 108–21, title VI, §603, Apr. 30, 2003, 117 Stat. 687.)
+(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739; Pub. L. 108–21, title VI, §603, Apr. 30, 2003, 117 Stat. 687; Pub. L. 109–162, title I, §113(a), Jan. 5, 2006, 119 Stat. 2987.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(6), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
+Section 1104 of the Internet Tax Freedom Act, referred to in subsec. (h)(1)(C), is section 1104 of title XI of div. C of Pub. L. 105–277, which is set out in a note under section 151 of this title. The term “Internet” is defined in section 1105 of Pub. L. 105–277, which is set out in the same note under section 151 of this title.
+
 The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended. Title III of the Act was classified generally to subchapter III (§355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 #### Amendments
+
+2006—Subsec. (h)(1)(C). Pub. L. 109–162 added subpar. (C).
 
 2003—Subsec. (a)(1)(A). Pub. L. 108–21, §603(1)(A), substituted “or child pornography” for “, lewd, lascivious, filthy, or indecent” in concluding provisions.
 
@@ -228,7 +234,7 @@ Subsecs. (d) to (h). Pub. L. 104–104, §502(2), added subsecs. (d) to (h).
 
 “(4) The Attorney General may bring a suit in the appropriate district court of the United States to enjoin any act or practice which violates paragraph (1)(A) or (1)(B). An injunction may be granted in accordance with the Federal Rules of Civil Procedure.”
 
-Pub. L. 100–297, in par. (1)(A), struck out “under eighteen years of age or to any other person without that person's consent” after “to any person”, redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It is a defense to a prosecution under this subsection that the defendant restricted access to the prohibited communication to persons eighteen years of age or older in accordance with procedureswhich the Commission shall prescribe by regulation.”, redesignated par. (4) as (3) and substituted “under paragraphs (1) and (2)” for “under paragraphs (1) and (3)”, and redesignated par. (5) as (4).
+Pub. L. 100–297, in par. (1)(A), struck out “under eighteen years of age or to any other person without that person's consent” after “to any person”, redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “It is a defense to a prosecution under this subsection that the defendant restricted access to the prohibited communication to persons eighteen years of age or older in accordance with procedures which the Commission shall prescribe by regulation.”, redesignated par. (4) as (3) and substituted “under paragraphs (1) and (2)” for “under paragraphs (1) and (3)”, and redesignated par. (5) as (4).
 
 1983—Subsec. (a). Pub. L. 98–214, §8(a)(1), (2), designated existing provisions as subsec. (a) and substituted “$50,000” for “$500” in provisions after par. (2).
 
@@ -250,6 +256,10 @@ Amendment by Pub. L. 101–166 effective 120 days after Nov. 21, 1989, see secti
 
 Amendment by Pub. L. 100–297 effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of Title 20, Education.
 
+#### Construction of 2006 Amendment
+
+Pub. L. 109–162, title I, §113(b), Jan. 5, 2006, 119 Stat. 2987, provided that: “This section \[amending this section\] and the amendment made by this section may not be construed to affect the meaning given the term ‘telecommunications device’ in section 223(h)(1) of the Communications Act of 1934 \[47 U.S.C. 223(h)(1)\], as in effect before the date of the enactment of this section \[Jan. 5, 2006\].”
+
 #### Expedited Review
 
 Section 561 of title V of Pub. L. 104–104 provided that:
@@ -269,4 +279,6 @@ Section 8(c), (d) of Pub. L. 98–214 provided that:
 “(c) The Federal Communications Commission shall issue regulations pursuant to section 223(b)(2) of the Communications Act of 1934 (as added by subsection (a) of this section) \[subsec. (b)(2) of this section\] not later than one hundred and eighty days after the date of the enactment of this Act \[Dec. 8, 1983\].
 
 “(d) The Commission shall act on all complaints alleging violation of section 223 of the Communications Act of 1934 \[this section\] which are pending on the date of the enactment of this Act \[Dec. 8, 1983\] within ninety days of such date of enactment.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

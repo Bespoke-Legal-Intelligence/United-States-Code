@@ -22,7 +22,7 @@
 
 &emsp;(2) The term “allied international organization” means the North Atlantic Treaty Organization (NATO) or any other international organization designated as an allied international organization for the purposes of this section by the Secretary of Defense with the concurrence of the Secretary of State.
 
-(Added Pub. L. 98–525, title X, §1005(a), Oct. 19, 1984, 98 Stat. 2578, §2401a; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; renumbered §2350f and amended Pub. L. 101–189, div. A, title IX, §933(a)–(d), Nov. 29, 1989, 103 Stat. 1537; Pub. L. 101–510, div. A, title XIV, §1484(k)(8), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(10), Dec. 2, 2002, 116 Stat. 2645.)
+(Added Pub. L. 98–525, title X, §1005(a), Oct. 19, 1984, 98 Stat. 2578, §2401a; amended Pub. L.100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; renumbered §2350f and amended Pub. L. 101–189, div. A, title IX, §933(a)–(d), Nov. 29, 1989, 103 Stat. 1537; Pub. L. 101–510, div. A, title XIV, §1484(k)(8), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(10), Dec. 2, 2002, 116 Stat. 2645.)
 
 #### Amendments
 

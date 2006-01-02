@@ -1,6 +1,6 @@
 ### §8414. Early retirement
 
-(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
+(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years ofage and completing 20 years of service, is entitled to an annuity.
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
@@ -44,7 +44,7 @@
 
 (3) Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d) or (e) of section 8412.
 
-(c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of theemployee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
+(c)(1) An employee who was hired as a military reserve technician on or before February 10, 1996 (under the provisions of this title in effect before that date), and who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of being separated from the Selected Reserve of the employee's reserve component or ceasing to hold the military grade specified by the Secretary concerned for the position held by the employee is entitled to an annuity.
 
 (2) An employee who is initially hired as a military technician (dual status) after February 10, 1996, and who is separated from the Selected Reserve or ceases to hold the military grade specified by the Secretary concerned for the position held by the technician—
 
@@ -130,7 +130,7 @@ Subsec. (b)(1)(B). Pub. L. 107–296, §1313(b)(2), added subpar. (B) and struck
 
 &emsp;“(ii) a significant percentage of the total number of employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);”.
 
-2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(1)\], inserted “except in the case of anemployee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
+2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(2)\], added subsec. (d).
 
@@ -164,7 +164,7 @@ For provisions relating to the application of subsection (b)(1)(B) of this secti
 
 #### Application of Subsection (b)(1)(B)
 
-Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a), Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, §7001(b), was repealed by Pub. L. 107–296, title XIII, §1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
+Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a),Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, §7001(b), was repealed by Pub. L. 107–296, title XIII, §1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “separated”.</i>
 

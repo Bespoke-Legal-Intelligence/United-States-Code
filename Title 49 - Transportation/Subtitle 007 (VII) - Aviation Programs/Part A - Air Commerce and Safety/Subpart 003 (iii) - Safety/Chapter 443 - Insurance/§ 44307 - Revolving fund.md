@@ -16,7 +16,7 @@ Excess Amounts.—The balance in the revolving fund in excess of an amount the S
 
 (d)
 
-Expenses.—The Secretary of Transportation shall deposit annually an amount in the Treasury as miscellaneous receipts to cover the expenses the Government incurs when the Secretary of Transportation uses appropriated amounts in carrying out this chapter. The deposited amount shall equal an amount determined by multiplying the average monthly balance of appropriated amounts retained in the revolving fund by a percentage that is at least thecurrent average rate payable on marketable obligations of the Government. The Secretary of the Treasury shall determine annually in advance the percentage applied.
+Expenses.—The Secretary of Transportation shall deposit annually an amount in the Treasury as miscellaneous receipts to cover the expenses the Government incurs when the Secretary of Transportation uses appropriated amounts in carrying out this chapter. The deposited amount shall equal an amount determined by multiplying the average monthly balance of appropriated amounts retained in the revolving fund by a percentage that is at least the current average rate payable on marketable obligations of the Government. The Secretary of the Treasury shall determine annually in advance the percentage applied.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170.)
 

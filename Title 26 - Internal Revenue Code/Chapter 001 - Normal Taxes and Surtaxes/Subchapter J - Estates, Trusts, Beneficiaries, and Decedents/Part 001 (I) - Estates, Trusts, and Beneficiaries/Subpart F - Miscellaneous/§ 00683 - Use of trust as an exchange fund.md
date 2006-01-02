@@ -16,5 +16,5 @@ Subsection (a) shall not apply to any transfer to a pooled income fund (within t
 
 #### Effective Date of 1976 Amendment
 
-Amendment of section by Pub. L. 94–455 effective on Apr. 8, 1976, in taxable years ending on or after such date, see section 2131(f)(6) of Pub. L. 94–455, set out as a note under section 584 of this title.
+Amendment of section by Pub. L. 94–455 effective on Apr. 8, 1976, in taxable years ending on or after suchdate, see section 2131(f)(6) of Pub. L. 94–455, set out as a note under section 584 of this title.
 

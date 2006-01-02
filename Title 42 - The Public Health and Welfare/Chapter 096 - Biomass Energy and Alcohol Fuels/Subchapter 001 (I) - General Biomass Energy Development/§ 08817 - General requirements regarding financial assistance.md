@@ -72,11 +72,11 @@ Subject to the conditions of any contract for financial assistance, such contrac
 
 (1) A fee or fees may be charged and collected by the Secretary concerned for any loan guarantee, price guarantee, or purchase agreement provided under this subchapter.
 
-(2) The amount of such fee shall be based on the estimated administrative costs and risk of loss, except that such fee may not exceed 1 percentum of the amount of the financial assistance provided.
+(2) The amount of such fee shall be based on the estimated administrative costs and risk of loss, except that such fee may not exceed 1 per centum of the amount of the financial assistance provided.
 
 #### (h) Deposit of amounts received by Secretary concerned
 
-All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activities under this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title.
+All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activitiesunder this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title.
 
 (Pub. L. 96–294, title II, §217, June 30, 1980, 94 Stat. 693.)
 

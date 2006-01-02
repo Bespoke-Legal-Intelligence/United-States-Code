@@ -12,7 +12,7 @@ A power-driven vessel underway but stopped and making no way through the water s
 
 #### (c) Vessels not under command; vessels restricted in ability to maneuver; sailing vessels; vessels engaged in fishing; vessels engaged in towing or pushing
 
-A vessel not under command; a vessel restricted in her ability to maneuver, whether underway or at anchor; a sailing vessel; a vessel engaged in fishing, whether underway or at anchor; and a vessel engaged in towing or pushing another vessel shall, instead of the signals prescribed in paragraphs (a) or (b) of this Rule, sound at intervals of not more than 2 minutes, three blasts in succession; namely, one prolonged followed by two short blasts.
+A vessel not under command; a vessel restricted in her ability to maneuver, whether underway or at anchor; a sailing vessel; a vessel engaged in fishing, whether underway or at anchor; and a vessel engaged in towing or pushinganother vessel shall, instead of the signals prescribed in paragraphs (a) or (b) of this Rule, sound at intervals of not more than 2 minutes, three blasts in succession; namely, one prolonged followed by two short blasts.
 
 #### (d) Vessels towed
 
@@ -32,7 +32,7 @@ A vessel aground shall give the bell signal and if required the gong signal pres
 
 #### (h) Vessels of less than 12 meters in length
 
-A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some otherefficient sound signal at intervals of not more than 2 minutes.
+A vessel of less than 12 meters in length shall not be obliged to give the above-mentioned signals but, if she does not, shall make some other efficient sound signal at intervals of not more than 2 minutes.
 
 #### (i) Pilot vessels
 

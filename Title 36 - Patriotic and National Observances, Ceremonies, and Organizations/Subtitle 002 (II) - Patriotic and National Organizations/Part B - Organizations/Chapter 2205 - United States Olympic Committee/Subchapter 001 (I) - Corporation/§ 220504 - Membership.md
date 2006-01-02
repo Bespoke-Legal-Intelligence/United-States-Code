@@ -14,7 +14,7 @@ Required Provisions for Representation.—In its constitution and bylaws, the co
 
 &emsp;&emsp;(A) establish and maintain an Athletes’ Advisory Council composed of, and elected by, such amateur athletes to ensure communication between the corporation and such amateur athletes; and
 
-&emsp;&emsp;(B) ensure that the membership and voting power held by such amateur athletes is notless than 20 percent of the membership and voting power held in the board of directors of the corporation and in the committees and entities of the corporation;
+&emsp;&emsp;(B) ensure that the membership and voting power held by such amateur athletes is not less than 20 percent of the membership and voting power held in the board of directors of the corporation and in the committees and entities of the corporation;
 
 &emsp;(3) amateur sports organizations that conduct a national program or regular national amateur athletic competition in 2 or more sports that are included on the program of the Olympic Games, the Paralympic Games, or the Pan-American Games on a level of proficiency appropriate for the selection of amateur athletes to represent the United States in international amateur athletic competition; and
 

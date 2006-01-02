@@ -8,7 +8,7 @@ In this part:
 
 &emsp;The term “construction project”—
 
-&emsp;&emsp;(A) means an organized noncontinuous undertaking to complete a specific set of predetermined objectives for the planning, environmental determination, design, construction, repair, improvement, or expansion of buildings or facilities, as described in a construction project agreement; and
+&emsp;&emsp;(A) means an organized noncontinuous undertaking to complete a specific set ofpredetermined objectives for the planning, environmental determination, design, construction, repair, improvement, or expansion of buildings or facilities, as described in a construction project agreement; and
 
 &emsp;&emsp;(B) does not include construction program administration and activities described in paragraphs (1) through (3) of section 450b(m) of this title, that may otherwise be included in a funding agreement under this part.
 
@@ -108,7 +108,7 @@ Pub. L. 106–260, §3, Aug. 18, 2000, 114 Stat. 712, provided that: “It is th
 
 &emsp;&emsp;“(E) to strengthen the government-to-government relationship between the United States and Indian tribes through direct and meaningful consultation with all tribes;
 
-&emsp;&emsp;“(F) to permit an orderly transition from Federal domination of programs and services to provide Indian tribes with meaningful authority, control,funding, and discretion to plan, conduct, redesign, and administer programs, services, functions, and activities (or portions thereof) that meet the needs of the individual tribal communities;
+&emsp;&emsp;“(F) to permit an orderly transition from Federal domination of programs and services to provide Indian tribes with meaningful authority, control, funding, and discretion to plan, conduct, redesign, and administer programs, services, functions, and activities (or portions thereof) that meet the needs of the individual tribal communities;
 
 &emsp;&emsp;“(G) to provide for a measurable parallel reduction in the Federal bureaucracy as programs, services, functions, and activities (or portion thereof) are assumed by Indian tribes;
 

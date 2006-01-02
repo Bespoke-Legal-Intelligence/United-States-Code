@@ -28,7 +28,7 @@ As used in this chapter:
 
 #### (C) Action brought on behalf of a minor or incompetent
 
-&emsp;&emsp;With respect to an action brought on behalf of or through a minor or incompetent,such term includes the parent or guardian of the minor or incompetent.
+&emsp;&emsp;With respect to an action brought on behalf of or through a minor or incompetent, such term includes the parent or guardian of the minor or incompetent.
 
 #### (D) Exclusions
 

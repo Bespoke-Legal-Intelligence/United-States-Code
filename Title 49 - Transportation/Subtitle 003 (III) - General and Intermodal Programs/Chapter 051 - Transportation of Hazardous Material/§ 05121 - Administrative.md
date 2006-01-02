@@ -2,27 +2,95 @@
 
 (a)
 
-General Authority.—To carry out this chapter, the Secretary of Transportation may investigate, make reports, issue subpenas, conduct hearings, require the production of records and property, take depositions, and conduct research, development, demonstration, and training activities. After notice and an opportunity for a hearing, the Secretary may issue an order requiring compliance with this chapter or a regulation prescribed under this chapter.
+General Authority.—To carry out this chapter, the Secretary may investigate, conduct tests, make reports, issue subpenas, conduct hearings, require the production of records and property, take depositions, and conduct research, development, demonstration, and training activities. Except as provided in subsections (c) and (d), after notice and an opportunity for a hearing, the Secretary may issue an order requiring compliance with this chapter or a regulation prescribed, or an order, special permit, or approval issued, under this chapter.
 
 (b)
 
 Records, Reports, and Information.—A person subject to this chapter shall—
 
-&emsp;(1) maintain records, make reports, and provide information the Secretary by regulation or order requires; and
+&emsp;(1) maintain records and property, make reports, and provide information the Secretary by regulation or order requires; and
 
-&emsp;(2) make the records, reports, and information available when the Secretary requests.
+&emsp;(2) make the records, property, reports, and information available for inspection when the Secretary undertakes an investigation or makes a request.
 
 (c)
 
-Inspection.—(1) The Secretary may authorize an officer, employee, or agent to inspect, at a reasonable time and in a reasonable way, records and property related to—
+Inspections and Investigations.—
 
-&emsp;(A) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, testing, or distributing a packaging or a container for use by a person in transporting hazardous material in commerce; or
+&emsp;(1)
 
-&emsp;(B) the transportation of hazardous material in commerce.
+In general.—A designated officer, employee, or agent of the Secretary—
 
-(2) An officer, employee, or agent under this subsection shall display proper credentials when requested.
+&emsp;&emsp;(A) may inspect and investigate, at a reasonable time and in a reasonable manner, records and property relating to a function described in section 5103(b)(1);
+
+&emsp;&emsp;(B) except in the case of packaging immediately adjacent to its hazardous material contents, may gain access to, open, and examine a package offered for, or in, transportation when the officer, employee, or agent has an objectively reasonable and articulable belief that the package may contain a hazardous material;
+
+&emsp;&emsp;(C) may remove from transportation a package or related packages in a shipment offered for or in transportation for which—
+
+&emsp;&emsp;&emsp;(i) such officer, employee, or agent has an objectively reasonable and articulable belief that the package may pose an imminent hazard; and
+
+&emsp;&emsp;&emsp;(ii) such officer, employee, or agent contemporaneously documents such belief in accordance with procedures set forth in guidance or regulations prescribed under subsection (e);
+
+&emsp;&emsp;(D) may gather information from the offeror, carrier, packaging manufacturer or tester, or other person responsible for the package, to ascertain the nature and hazards of the contents of the package;
+
+&emsp;&emsp;(E) as necessary, under terms and conditions specified by the Secretary, may order the offeror, carrier, packaging manufacturer or tester, or other person responsible for the package to have the package transported to, opened, and the contents examined and analyzed, at a facility appropriate for the conduct of such examination and analysis; and
+
+&emsp;&emsp;(F) when safety might otherwise be compromised, may authorize properly qualified personnel to assist in the activities conducted under this subsection.
+
+&emsp;(2)
+
+Display of credentials.—An officer, employee, or agent acting under this subsection shall display proper credentials when requested.
+
+&emsp;(3)
+
+Safe resumption of transportation.—In instances when, as a result of an inspection or investigation under this subsection, an imminent hazard is not found to exist, the Secretary, in accordance with procedures set forth in regulations prescribed under subsection (e), shall assist—
+
+&emsp;&emsp;(A) in the safe and prompt resumption of transportation of the package concerned; or
+
+&emsp;&emsp;(B) in any case in which the hazardous material being transported is perishable, in the safe and expeditious resumption of transportation of the perishable hazardous material.
 
 (d)
+
+Emergency Orders.—
+
+&emsp;(1)
+
+In general.—If, upon inspection, investigation, testing, or research, the Secretary determines that a violation of a provision of this chapter, or a regulation prescribed under this chapter, or an unsafe condition or practice, constitutes or is causing an imminent hazard, the Secretary may issue or impose emergency restrictions, prohibitions, recalls, or out-of-service orders, without notice or an opportunity for a hearing, but only to the extent necessary to abate the imminent hazard.
+
+&emsp;(2)
+
+Written orders.—The action of the Secretary under paragraph (1) shall be in a written emergency order that—
+
+&emsp;&emsp;(A) describes the violation, condition, or practice that constitutes or is causing the imminent hazard;
+
+&emsp;&emsp;(B) states the restrictions, prohibitions, recalls, or out-of-service orders issued or imposed; and
+
+&emsp;&emsp;(C) describes the standards and procedures for obtaining relief from the order.
+
+&emsp;(3)
+
+Opportunity for review.—After taking action under paragraph (1), the Secretary shall provide for review of the action under section 554 of title 5 if a petition for review is filed within 20 calendar days of the date of issuance of the order for the action.
+
+&emsp;(4)
+
+Expiration of effectiveness of order.—If a petition for review of an action is filed under paragraph (3) and the review under that paragraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the imminent hazard providing a basis for the action continues to exist.
+
+&emsp;(5)
+
+Out-of-service order defined.—In this subsection, the term “out-of-service order” means a requirement that an aircraft, vessel, motor vehicle, train, railcar, locomotive, other vehicle, transport unit, transport vehicle, freight container, potable tank, or other package not be moved until specified conditions have been met.
+
+(e)
+
+Regulations.—
+
+&emsp;(1)
+
+Temporary regulations.—Not later than 60 days after the date of enactment of the Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005, the Secretary shall issue temporary regulations to carry out subsections (c) and (d). The temporary regulations shall expire on the date of issuance of the regulations under paragraph (2).
+
+&emsp;(2)
+
+Final regulations.—Not later than 1 year after such date of enactment, the Secretary shall issue regulations to carry out subsections (c) and (d) in accordance with subchapter II of chapter 5 of title 5.
+
+(f)
 
 Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) The Secretary shall—
 
@@ -34,9 +102,21 @@ Facility, Staff, and Reporting System on Risks, Emergencies, and Actions.—(1) 
 
 (2) Paragraph (1) of this subsection does not prevent the Secretary from making a contract with a private entity for use of a supplemental reporting system and information center operated and maintained by the contractor.
 
-(e)
+(g)
 
-Report.—The Secretary shall, once every 2 years, prepare and submit to the President for transmittal to the Congress a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
+Grants and Cooperative Agreements.—The Secretary may enter into grants and cooperative agreements with a person, agency, or instrumentality of the United States, a unit of State or local government, an Indian tribe, a foreign government (in coordination with the Department of State), an educational institution, or other appropriate entity—
+
+&emsp;(1) to expand risk assessment and emergency response capabilities with respect to the security of transportation of hazardous material;
+
+&emsp;(2) to enhance emergency communications capacity as determined necessary by the Secretary, including the use of integrated, interoperable emergency communications technologies where appropriate;
+
+&emsp;(3) to conduct research, development, demonstration, risk assessment, and emergency response planning and training activities; or
+
+&emsp;(4) to otherwise carry out this chapter.
+
+(h)
+
+Report.—The Secretary shall, once every 2 years, prepare and transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a comprehensive report on the transportation of hazardous materials during the preceding 2 calendar years. The report shall include—
 
 &emsp;(1) a statistical compilation of accidents and casualties related to the transportation of hazardous material;
 
@@ -44,13 +124,13 @@ Report.—The Secretary shall, once every 2 years, prepare and submit to the Pre
 
 &emsp;(3) a summary of the basis for each exemption;
 
-&emsp;(4) an evaluation of the effectiveness of enforcement activities and the degree of voluntary compliance with regulations;
+&emsp;(4) an evaluation of the effectiveness of enforcement activities relating to a function regulated by the Secretary under section 5103(b)(1) and the degree of voluntary compliance with regulations;
 
 &emsp;(5) a summary of outstanding problems in carrying out this chapter in order of priority; and
 
 &emsp;(6) recommendations for appropriate legislation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 779; Pub. L. 103–311, title I, §§108, 117(a)(2), Aug. 26, 1994, 108 Stat. 1674, 1678.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 779; Pub. L. 103–311, title I, §§108, 117(a)(2), Aug. 26, 1994, 108 Stat. 1674, 1678; Pub. L. 109–59, title VII, §§7118, 7126, Aug. 10, 2005, 119 Stat. 1902, 1909.)
 
 Historical and Revision Notes
 
@@ -98,15 +178,45 @@ In subsection (d)(1), before clause (A), the words “establish and” are omitt
 
 In subsection (e), before clause (1), the words “prepare and” and “comprehensive” are omitted as surplus. In clause (1), the word “thorough” is omitted as surplus. In clause (2), the words “in effect” are omitted as surplus. In clause (3), the words “granted or maintained” are omitted as surplus. In clause (6), the words “additional . . . as are deemed necessary or” are omitted as surplus.
 
+#### References in Text
+
+The date of enactment of the Hazardous Materials Transportation Safety and Security Reauthorization Act of 2005, referred to in subsec. (e), is the date of enactment of title VII of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary may investigate” for “Secretary of Transportation may investigate”.
+
+Pub. L. 109–59, §7118(a), inserted “conduct tests,” after “investigate,” and substituted “Except as provided in subsections (c) and (d), after” for “After” and “regulation prescribed, or an order, special permit, or approval issued,” for “regulation prescribed”.
+
+Subsec. (b)(1). Pub. L. 109–59, §7118(b)(1), inserted “and property” after “records”.
+
+Subsec. (b)(2). Pub. L. 109–59, §7118(b)(2), inserted “property,” after “records,” and “for inspection” after “available” and substituted “undertakes an investigation or makes a request” for “requests”.
+
+Subsec. (c). Pub. L. 109–59, §7118(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
+
+“(1) The Secretary may authorize an officer, employee, or agent to inspect, at a reasonable time and in a reasonable way, records and property related to—
+
+&emsp;“(A) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, testing, or distributing a packaging or a container for use by a person in transporting hazardous material in commerce; or
+
+&emsp;“(B) the transportation of hazardous material in commerce.
+
+“(2) An officer, employee, or agent under this subsection shall display proper credentials when requested.”
+
+Subsecs. (d), (e). Pub. L. 109–59, §7118(d), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (h), respectively.
+
+Subsec. (f). Pub. L. 109–59, §7118(d)(1), redesignated subsec. (d) as (f).
+
+Subsec. (g). Pub. L. 109–59, §7118(e), added subsec. (g).
+
+Subsec. (h). Pub. L. 109–59, §7118(f)(1), substituted “transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” for “submit to the President for transmittal to the Congress” in introductory provisions.
+
+Pub. L. 109–59, §7118(d)(1), redesignated subsec. (e) as (h).
+
+Subsec. (h)(4). Pub. L. 109–59, §7118(f)(2), inserted “relating to a function regulated by the Secretary under section 5103(b)(1)” after “activities”.
 
 1994—Subsec. (c)(1)(A). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
 
 Subsec. (e). Pub. L. 103–311, §108, substituted “Report” for “Annual Report” in heading and substituted first sentence for former first sentence which read as follows: “The Secretary shall submit to the President, for submission to Congress, not later than June 15th of each year, a report about the transportation of hazardous material during the prior calendar year.”
-
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 8th item on page 135 identifies a requirement to transmit reports to Congress under a provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Toll Free Number for Reporting
 

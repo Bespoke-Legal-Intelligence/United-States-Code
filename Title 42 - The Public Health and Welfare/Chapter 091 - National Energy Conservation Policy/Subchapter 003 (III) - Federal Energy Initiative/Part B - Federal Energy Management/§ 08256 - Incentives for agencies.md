@@ -36,7 +36,7 @@
 
 (4) If an agency satisfies the criteria which generally apply to other customers of a utility incentive program, such agency may not be denied collection of rebates or other incentives.
 
-(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by anagency (other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
+(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by an agency (other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
 
 (B) Agencies shall establish a fund and maintain strict financial accounting and controls for savings realized and expenditures made under this subsection. Records maintained pursuant to this subparagraph shall be made available for public inspection upon request.
 
@@ -62,13 +62,19 @@
 
 (3) There is authorized to be appropriated to carry out this subsection not more than $250,000 for each of the fiscal years 1993, 1994, and 1995.
 
-(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846.)
+#### (e) Retention of energy and water savings
+
+An agency may retain any funds appropriated to that agency for energy expenditures, water expenditures, or wastewater treatment expenditures, at buildings subject to the requirements of section 8253(a) and (b) of this title, that are not made because of energy savings or water savings. Except as otherwise provided by law, such funds may be used only for energy efficiency, water conservation, or unconventional and renewable energy resources projects. Such projects shall be subject to the requirements of section 3307 of title 40.
+
+(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846; Pub. L. 109–58, title I, §102(f), Aug. 8, 2005, 119 Stat. 607.)
 
 #### References in Text
 
 Section 8262e of this title, referred to in subsec. (d)(2)(G), was in the original “section 159” and was translated as meaning section 159 of Pub. L. 102–486, title I, Oct. 24, 1992, 106 Stat. 2857, which enacted section 8262e of this title, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–58 added subsec. (e).
 
 1992—Subsec. (a). Pub. L. 102–486, §152(f)(1), (2), substituted “Contracts” for “In general” in heading, designated existing provisions as par. (1), and redesignated former subsec. (b) as subsec. (a)(2) and amended it generally. Prior to amendment, par. (2) read as follows: “The head of each agency shall, no later than 120 days after November 5, 1988, implement procedures for entering into such contracts and for identifying, verifying, and utilizing, on a fiscal year basis, the cost savings resulting from such contracts.”
 

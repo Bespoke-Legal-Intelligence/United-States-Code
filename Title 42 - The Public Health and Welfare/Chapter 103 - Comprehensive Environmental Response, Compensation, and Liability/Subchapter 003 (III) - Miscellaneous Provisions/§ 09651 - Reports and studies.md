@@ -18,7 +18,7 @@
 
 &emsp;(G) an assessment of the feasibility and desirability of a schedule of taxes which would take into account one or more of the following: the likelihood of a release of a hazardous substance, the degree of hazard and risk of harm to public health, welfare, and the environment resulting from any such release, incentives to proper handling, recycling, incineration, and neutralization of hazardous wastes, and disincentives to improper or illegal handling or disposal of hazardous materials, administrative and reporting burdens on Government and industry, and the extent to which the tax burden falls on the substances and parties which create the problems addressed by this chapter. In preparing the report, the President shall consult with appropriate Federal, State, and local agencies, affected industries and claimants, and such other interested parties as he may find useful. Based upon the analyses and consultation required by this subsection, the President shall also include in the report any recommendations for legislative changes he may deem necessary for the better effectuation of the purposes of this chapter, including but not limited to recommendations concerning authorization levels, taxes, State participation, liability and liability limits, and financial responsibility provisions for the Response Trust Fund and the Post-closure Liability Trust Fund;
 
-&emsp;(H) an exemption from or an increase in the substances or the amount of taxes imposed by section 4661 of title 26 for copper, lead, and zinc oxide, and for feedstocks when used in themanufacture and production of fertilizers, based upon the expenditure experience of the Response Trust Fund;
+&emsp;(H) an exemption from or an increase in the substances or the amount of taxes imposed by section 4661 of title 26 for copper, lead, and zinc oxide, and for feedstocks when used in the manufacture and production of fertilizers, based upon the expenditure experience of the Response Trust Fund;
 
 &emsp;(I) the economic impact of taxing coal-derived substances and recycled metals.
 
@@ -42,7 +42,7 @@ The Administrator of the Environmental Protection Agency shall, in consultation 
 
 &emsp;(A) an assessment of current and projected treatment, storage, and disposal capacity needs and shortfalls for hazardous waste by management category on a State-by-State basis;
 
-&emsp;(B) an evaluation of the appropriateness of a regional approach to siting and designing hazardous waste management facilities and the identification of hazardous waste management regions, interstate or intrastate, or both, with similar hazardous waste management needs;
+&emsp;(B) an evaluation of the appropriateness of a regional approach to siting and designing hazardous waste management facilities and the identification of hazardous waste managementregions, interstate or intrastate, or both, with similar hazardous waste management needs;
 
 &emsp;(C) solicitation and analysis of proposals for the construction and operation of hazardous waste management facilities by nongovernmental entities, except that no proposal solicited under terms of this subsection shall be analyzed if it involves cost to the United States Government or fails to comply with the requirements of subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\] and other applicable provisions of law;
 
@@ -56,7 +56,7 @@ The Administrator of the Environmental Protection Agency shall, in consultation 
 
 (1) In order to determine the adequacy of existing common law and statutory remedies in providing legal redress for harm to man and the environment caused by the release of hazardous substances into the environment, there shall be submitted to the Congress a study within twelve months of December 11, 1980.
 
-(2) This study shall be conducted with the assistance of the American Bar Association, theAmerican Law Institute, the Association of American Trial Lawyers, and the National Association of State Attorneys General with the President of each entity selecting three members from each organization to conduct the study. The study chairman and one reporter shall be elected from among the twelve members of the study group.
+(2) This study shall be conducted with the assistance of the American Bar Association, the American Law Institute, the Association of American Trial Lawyers, and the National Association of State Attorneys General with the President of each entity selecting three members from each organization to conduct the study. The study chairman and one reporter shall be elected from among the twelve members of the study group.
 
 (3) As part of their review of the adequacy of existing common law and statutory remedies, the study group shall evaluate the following:
 

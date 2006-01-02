@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Every individual (other than a nonresident alien) whose income tax liability for the taxableyear is $3 or more may designate that $3 shall be paid over to the Presidential Election Campaign Fund in accordance with the provisions of section 9006(a). In the case of a joint return of husband and wife having an income tax liability of $6 or more, each spouse may designate that $3 shall be paid to the fund.
+Every individual (other than a nonresident alien) whose income tax liability for the taxable year is $3 or more may designate that $3 shall be paid over to the Presidential Election Campaign Fund in accordance with the provisions of section 9006(a). In the case of a joint return of husband and wife having an income tax liability of $6 or more, each spouse may designate that $3 shall be paid to the fund.
 
 #### (b) Income tax liability
 
@@ -72,9 +72,9 @@ Amendment by section 331(e)(1) of Pub. L. 97–34 applicable to taxable years be
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 231(b)(2) of Pub. L. 96–223, applicable to taxable years ending after Dec. 31, 1979, see section 231(c) of Pub. L. 96–223, set out as an Effective Date note under section 29 of this title.
+Amendment by section 231(b)(2) of Pub. L. 96–223, applicable to taxable years ending after Dec. 31, 1979, see section 231(c) of Pub. L. 96–223, set out as an Effective Date note under section 45K of this title.
 
-Amendment by section 232(b)(3)(C) of Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending after that date, see section 232(h)(1)of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
+Amendment by section 232(b)(3)(C) of Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending after that date, see section 232(h)(1) of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -117,8 +117,4 @@ Pub. L. 90–26, §5, June 13, 1967, 81 Stat. 58, as amended by Pub. L. 99–514
 “(a) Funds which become available under the Presidential Election Campaign Fund Act of 1966 \[this section and section 971 et seq. of former Title 31, Money and Finance\] shall be appropriated and disbursed only after the adoption by law of guidelines governing their distribution. Section 6096 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall become applicable only after the adoption by law of such guidelines.
 
 “(b) Guidelines adopted in accordance with this section shall state expressly that they are intended to comply with this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9006, 9008, 9010 of this title.
 

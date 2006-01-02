@@ -34,7 +34,7 @@ The Administrator of the Rural Utilities Service (in this chapter referred to as
 
 #### (3) Lien on interests in assets
 
-&emsp;Upon the Board's approval of a loan guarantee under this chapter, the Administratorshall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under section 1103(d)(3)(B)(iii) of this title.
+&emsp;Upon the Board's approval of a loan guarantee under this chapter, the Administrator shall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under section 1103(d)(3)(B)(iii) of this title.
 
 #### (4) Perfected security interest
 
@@ -46,7 +46,7 @@ The Administrator of the Rural Utilities Service (in this chapter referred to as
 
 #### (c) Assignment of loan guarantees
 
-The holder of a loan guarantee under this chapter may assign the loan guaranteed under this chapter in whole or in part, subject to such requirements as the Board may prescribe.
+The holder of a loan guarantee under this chapter may assign the loan guaranteed underthis chapter in whole or in part, subject to such requirements as the Board may prescribe.
 
 #### (d) Expiration of loan guarantee upon stripping
 
@@ -112,7 +112,7 @@ The Board shall prescribe regulations governing defaults on loans guaranteed und
 
 #### (B) Maintenance
 
-&emsp;&emsp;The Administrator shall maintain in a cost-effective and reasonable manner anyproperty or other interests pending sale or disposal of such property or other interests under subparagraph (A).
+&emsp;&emsp;The Administrator shall maintain in a cost-effective and reasonable manner any property or other interests pending sale or disposal of such property or other interests under subparagraph (A).
 
 #### (k) Action against obligor
 

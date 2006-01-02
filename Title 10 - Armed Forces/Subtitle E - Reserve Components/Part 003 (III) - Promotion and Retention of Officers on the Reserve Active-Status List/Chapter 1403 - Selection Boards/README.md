@@ -21,10 +21,6 @@
 
 1996—Pub. L. 104–106, div. A, title XV, §1501(b)(23), Feb. 10, 1996, 110 Stat. 497, substituted “promotion” for “selection” in item 14105.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 14001, 14006, 14308, 14502 of this title.
-
 
 ---
 

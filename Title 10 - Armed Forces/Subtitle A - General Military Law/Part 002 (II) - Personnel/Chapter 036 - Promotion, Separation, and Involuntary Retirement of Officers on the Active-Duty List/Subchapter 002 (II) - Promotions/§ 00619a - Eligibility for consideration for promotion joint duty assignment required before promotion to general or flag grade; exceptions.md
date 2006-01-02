@@ -6,7 +6,7 @@ General Rule.—An officer on the active-duty list of the Army, Navy, Air Force,
 
 &emsp;(1) the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title); and
 
-&emsp;(2) for appointments after September 30, 2007, the officer has been selected for the joint specialty in accordance with section 661 of this title.
+&emsp;(2) for appointments after September 30, 2008, the officer has been selected for the joint specialty in accordance with section 661 of this title.
 
 (b)
 
@@ -24,11 +24,7 @@ Exceptions.—Subject to subsection (c), the Secretary of Defense may waive para
 
 &emsp;&emsp;(C) a judge advocate.
 
-&emsp;(4) In the case of an officer selected by a promotion board for appointment to the grade of brigadier general or rear admiral (lower half) while serving in a joint duty assignment if—
-
-&emsp;&emsp;(A) at least 180 days of that joint duty assignment have been completed on the date of the convening of that selection board; and
-
-&emsp;&emsp;(B) the officer's total consecutive service in joint duty assignments within that immediate organization is not less than two years.
+&emsp;(4) In the case of an officer selected by a promotion board for appointment to the grade ofbrigadier general or rear admiral (lower half) while serving in a joint duty assignment if the officer's total consecutive service in joint duty assignments within that immediate organization is not less than two years.
 
 &emsp;(5) In the case of an officer who served in a joint duty assignment that began before January 1, 1987, if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) for the officer's service to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986.
 
@@ -56,13 +52,21 @@ Limitation for General and Flag Officers Previously Receiving Joint Duty Assignm
 
 Special Transition Rules for Nuclear Propulsion Officers.—An officer of the Navy designated as a qualified nuclear propulsion officer who before January 1, 1997, is appointed to the grade of rear admiral (lower half) without regard to subsection (a) may not be appointed to the grade of rear admiral until the officer completes a full tour of duty in a joint duty assignment.
 
-(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §525(a), (b), Dec. 28, 2001, 115 Stat. 1099.)
+(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §525(a), (b), Dec. 28, 2001, 115 Stat. 1099; Pub. L. 108–375, div. A, title V, §533, Oct. 28, 2004, 118 Stat. 1901.)
 
 #### Amendments
 
+2004—Subsec. (a)(2). Pub. L. 108–375, §533(a), substituted “September 30, 2008” for “September 30, 2007”.
+
+Subsec. (b)(4). Pub. L. 108–375, §533(b), substituted “if the officer's” for “if—
+
+&emsp;“(A) at least 180 days of that joint duty assignment have been completed on the date of the convening of that selection board; and
+
+&emsp;“(B) the officer's”.
+
 2001—Subsec. (a). Pub. L. 107–107, §525(a), substituted “unless—” and pars. (1) and (2) for “unless the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title).”
 
-Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substituted “may waive paragraph (1) or paragraph (2) of subsection (a), or both paragraphs (1)and (2) of subsection (a), in the following circumstances:” for “may waive subsection (a) in the following circumstances:”.
+Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substituted “may waive paragraph (1) or paragraph (2) of subsection (a), or both paragraphs (1) and (2) of subsection (a), in the following circumstances:” for “may waive subsection (a) in the following circumstances:”.
 
 1999—Subsec. (g). Pub. L. 106–65, §508(a), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) authorized the Secretary until Jan. 1, 1999, to waive subsecs. (a) and (d) for certain officers and contained restrictions on appointments of those officers.
 
@@ -80,7 +84,7 @@ Section 931(d) of Pub. L. 103–160 provided that: “Not later than February 1,
 
 #### Revision of Transition Plan
 
-Section 931(f)(2) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, provided that: “The Secretary of Defense, after consultation with the Chairman of the Joint Chiefs of Staff, shall revise the transition plan developed pursuant to section 1305(b) of Public Law 100–180 \[set out below\] to take account of the amendments made by subsection (a) and by paragraph (1) of this subsection \[enacting this section and amending provisions set out below\]. The Secretary shall include with the next report of the Secretary after the date of the enactment of this Act \[Nov. 30, 1993\] under section 619a(h)(2) of title 10, United States Code, as added by subsection (a), a report on the actions of the Secretary in revising such transition plan.”
+Section 931(f)(2) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, provided that: “The Secretary of Defense, after consultation with the Chairman of the Joint Chiefs of Staff, shall revise the transition plan developed pursuant to section 1305(b) of Public Law 100–180 \[set out below\] to take account of the amendments made by subsection (a) and by paragraph (1) of this subsection \[enacting this section and amending provisions set out below\]. The Secretary shall include with the next report of the Secretary after the date ofthe enactment of this Act \[Nov. 30, 1993\] under section 619a(h)(2) of title 10, United States Code, as added by subsection (a), a report on the actions of the Secretary in revising such transition plan.”
 
 Section 515(a)(3) of Pub. L. 100–456 provided that: “The Secretary of Defense, after consultation with the Chairman of the Joint Chiefs of Staff, shall revise the transition plan developed pursuant to section 1305(b) of Public Law 100–180 \[set out below\] to take account of the amendments made by paragraphs (1) and (2) \[amending section 619 of this title and provisions set out below\]. The Secretary shall include with the first report of the Secretary under section 619(e)(5) of title 10, United States Code, as added by paragraph (1)(B), a report on the actions of the Secretary in revising such transition plan.”
 

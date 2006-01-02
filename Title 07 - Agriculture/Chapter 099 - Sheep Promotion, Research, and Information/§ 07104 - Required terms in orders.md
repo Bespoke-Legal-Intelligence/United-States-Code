@@ -100,7 +100,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 &emsp;&emsp;Michigan
 
-1   
+1&nbsp;&nbsp;&nbsp;
 
 &emsp;&emsp;Minnesota
 
@@ -232,7 +232,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producers
 
-&emsp;&emsp;The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3) of this section. An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary at least 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
+&emsp;&emsp;The Secretary shall appoint producers to represent units established under paragraph (1)(A) from nominations submitted by eligible organizations certified under subsection (c)(3) of this section. An eligible organization may submit only nominations from the membership of the organization for the unit in which the organization is located. To be represented on the Board, each eligible organization shall submit to the Secretary atleast 1.5 nominations for each appointment to the Board for which the unit is entitled to representation, as determined under paragraph (1)(A). If a unit is entitled to 1 appointment on the Board, the unit shall submit at least 2 nominations for the appointment.
 
 #### (B) Feeders
 
@@ -410,7 +410,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;A contract or agreement entered into by the Board under subsection (e)(7) of this section shall provide that—
 
-&emsp;&emsp;(A) the contracting party shall develop and submit to the Board a plan or project, together with a budget or budgets that provides estimated costs to be incurred for the plan or project;
+&emsp;&emsp;(A) the contracting party shall develop and submit to the Board a plan or project,together with a budget or budgets that provides estimated costs to be incurred for the plan or project;
 
 &emsp;&emsp;(B) the plan or project, and the contract or agreement, shall not become effective until the plan or project has been approved by the Secretary; and
 
@@ -470,7 +470,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;The order shall provide that any person processing or causing to be processed sheep or sheep products of that person's own production and marketing shall—
 
-&emsp;&emsp;(A) pay an assessment on the sheep or sheep products at the time of sale at a rateequivalent to the rate provided for in paragraph (1) or (2), as appropriate; and
+&emsp;&emsp;(A) pay an assessment on the sheep or sheep products at the time of sale at a rate equivalent to the rate provided for in paragraph (1) or (2), as appropriate; and
 
 &emsp;&emsp;(B) remit the assessment to the Board in the manner prescribed by the order.
 
@@ -610,7 +610,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (B) Other information
 
-&emsp;&emsp;The Secretary shall authorize the use under this chapter of information regarding persons paying producers, feeders, importers, handlers, or processors that is accumulated under a law or regulation other than this chapter or a regulation issued under this chapter.
+&emsp;&emsp;The Secretary shall authorize the use under this chapter of information regardingpersons paying producers, feeders, importers, handlers, or processors that is accumulated under a law or regulation other than this chapter or a regulation issued under this chapter.
 
 #### (3) Confidentiality
 

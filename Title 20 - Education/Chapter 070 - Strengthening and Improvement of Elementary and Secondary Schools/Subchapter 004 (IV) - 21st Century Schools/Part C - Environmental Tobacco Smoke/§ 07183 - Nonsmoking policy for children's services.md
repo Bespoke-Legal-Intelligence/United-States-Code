@@ -28,7 +28,7 @@ After January 8, 2002, no person shall permit smoking within any indoor facility
 
 #### (A) In general
 
-&emsp;&emsp;After January 8, 2002, no Federal agency shall permit smoking within any indoor facility (or portion of such facility) operated by such agency, directly or by contract, toprovide routine or regular health or day care or early childhood development (Head Start) services to children.
+&emsp;&emsp;After January 8, 2002, no Federal agency shall permit smoking within any indoor facility (or portion of such facility) operated by such agency, directly or by contract, to provide routine or regular health or day care or early childhood development (Head Start) services to children.
 
 #### (B) Exception
 
@@ -54,7 +54,7 @@ The prohibitions in subsections (a) through (c) of this section shall be publish
 
 #### (2) Administrative proceeding
 
-&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued under paragraph (1), by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice of the assessment or order to such person by certified mail with return receipt and provide information in the notice of an opportunity to request in writing, not later than 30 days after the date of receipt of such notice, such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form that may be used to request such hearing if such person desires to use such form. If a hearing is requested, the Secretary shall establish by such certified notice the time and place for such hearing, which shall be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
+&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued under paragraph (1), by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice of the assessment or order to such person by certified mail with return receipt and provide information in the notice of an opportunity to request in writing, not later than 30 days after the date of receipt of such notice, such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simpleform that may be used to request such hearing if such person desires to use such form. If a hearing is requested, the Secretary shall establish by such certified notice the time and place for such hearing, which shall be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
 
 #### (3) Circumstances affecting penalty or order
 
@@ -76,7 +76,7 @@ The prohibitions in subsections (a) through (c) of this section shall be publish
 
 #### (6) Failure to comply
 
-&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after the assessment or order, or both, are final under this section, or after a court has entered a final judgment under paragraph (5) in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest atprevailing rates from the day the assessment or order, or both, are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
+&emsp;If a person fails to pay an assessment of a civil penalty or comply with an order, after the assessment or order, or both, are final under this section, or after a court has entered a final judgment under paragraph (5) in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at prevailing rates from the day the assessment or order, or both, are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
 
 (Pub. L. 89–10, title IV, §4303, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1774.)
 

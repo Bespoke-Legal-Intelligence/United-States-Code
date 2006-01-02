@@ -34,7 +34,7 @@ In general.—An independent counsel appointed under this chapter shall receive 
 
 &emsp;(2)
 
-Travel expenses.—Except as provided in paragraph (3), an independent counsel and persons appointed under subsection (c) shall be entitled to the payment of travel expenses as provided by subchapter I of chapter 57 of title 5, United States Code, including travel, per diem, and subsistence expenses in accordance with section 5703 of title 5.
+Travel expenses.—Except as provided in paragraph (3), an independent counsel and persons appointed under subsection (c) shall be entitled to the payment of travel expenses as provided by subchapter I of chapter 57 of title5, United States Code, including travel, per diem, and subsistence expenses in accordance with section 5703 of title 5.
 
 &emsp;(3)
 
@@ -130,7 +130,7 @@ Restrictions on employment while independent counsel and appointees are serving.
 
 > &emsp;may not represent in any matter any person involved in any investigation or prosecution under this chapter.
 
-&emsp;(B) During the period in which any person appointed by an independent counsel under subsection (c) is serving in the office of independent counsel, such person may not represent in any matter any person involved inany investigation or prosecution under this chapter.
+&emsp;(B) During the period in which any person appointed by an independent counsel under subsection (c) is serving in the office of independent counsel, such person may not represent in any matter any person involved in any investigation or prosecution under this chapter.
 
 &emsp;(2)
 
@@ -214,7 +214,7 @@ Liability for invalid certification.—An employee making a certification under 
 
 &emsp;&emsp;(C)
 
-Department of justice policies.—An independent counsel shall comply with the established policies of the Department of Justice respecting expenditures of funds, except to the extent that compliance would beinconsistent with the purposes of this chapter.
+Department of justice policies.—An independent counsel shall comply with the established policies of the Department of Justice respecting expenditures of funds, except to the extent that compliance would be inconsistent with the purposes of this chapter.
 
 &emsp;(2)
 

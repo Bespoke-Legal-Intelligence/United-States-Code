@@ -68,7 +68,3 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section applicable with respect to contracts entered into under this section on or after Dec. 5, 1991, see section 2806(c) of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 2828 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2801 of this title.
-

@@ -38,7 +38,7 @@
 
 &emsp;(B) remove the trustees of the trust for cause.
 
-> Only a natural person shall be appointed a trustee of a Settlement Trust. An appointment or removal of a trustee in violation of this paragraphshall be void ab initio and shall not be given effect by any court.
+> Only a natural person shall be appointed a trustee of a Settlement Trust. An appointment or removal of a trustee in violation of this paragraph shall be void ab initio and shall not be given effect by any court.
 
 (3) A Native Corporation that has established a Settlement Trust may expand the class of beneficiaries to include holders of Settlement Common Stock issued after the establishment of the trust without compensation to the original beneficiaries.
 

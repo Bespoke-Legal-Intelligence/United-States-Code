@@ -2,7 +2,7 @@
 
 #### (a) Defaulted mortgages
 
-Notwithstanding any other provision of law, if the Secretary is requested to accept assignment of a mortgage insured by the Secretary that covers a multifamily housing project (as such term is defined in section 1701z–11(b) of this title) or a health care facility (including a nursing home, intermediate care facility, or board and care home (as those terms are defined in section 1715w of this title), a hospital (as that term is defined in section 1715z–7 of this title), or a group practice facility (as that term is defined in section 1749aaa–5 of this title)) and the Secretary determines that partial payment would be less costly to the Federal Government than other reasonable alternatives for maintaining the low-income character of the project, or for keeping the health care facility operational to serve community needs, the Secretary may request the mortgagee, in lieu of assignment, to—
+Notwithstanding any other provision of law, if the Secretary is requested to accept assignment of a mortgage insured by the Secretary that covers a multifamily housing project (as such term is defined in section 1701z–11(b) of this title) or a health care facility (including a nursing home, intermediate care facility, or board and care home (as those terms are defined in section 1715w of this title), a hospital (as that term is defined in section 1715z–7 of this title), or a group practice facility (as that term is defined in section 1749aaa–5 of this title)) and theSecretary determines that partial payment would be less costly to the Federal Government than other reasonable alternatives for maintaining the low-income character of the project, or for keeping the health care facility operational to serve community needs, the Secretary may request the mortgagee, in lieu of assignment, to—
 
 &emsp;(1) accept partial payment of the claim under the mortgage insurance contract; and
 
@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, if the Secretary is requested to acc
 
 #### (b) Existing mortgages
 
-Notwithstanding any other provision of law, the Secretary, in connection with a mortgage restructuring under section 514 of the Multifamily Assisted Housing Reform and Affordability Act of 1997, may make a one time, nondefault partial or full payment of claim under one or more mortgage insurance contracts, which shall include a determination by the Secretary or the participating administrative entity, in accordance with the Multifamily Assisted Housing Reform and Affordability Act of 1997, of the market value of the project and a restructuring ofthe mortgage, under such terms and conditions as are permitted by section 517(a) of such Act.
+Notwithstanding any other provision of law, the Secretary, in connection with a mortgage restructuring under section 514 of the Multifamily Assisted Housing Reform and Affordability Act of 1997, may make a one time, nondefault partial or full payment of claim under one or more mortgage insurance contracts, which shall include a determination by the Secretary or the participating administrative entity, in accordance with the Multifamily Assisted Housing Reform and Affordability Act of 1997, of the market value of the project and a restructuring of the mortgage, under such terms and conditions as are permitted by section 517(a) of such Act.
 
 #### (c) Repayment
 

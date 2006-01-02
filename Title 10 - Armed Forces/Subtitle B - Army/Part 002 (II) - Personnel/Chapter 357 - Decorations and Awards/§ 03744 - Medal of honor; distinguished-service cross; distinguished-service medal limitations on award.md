@@ -62,7 +62,3 @@ In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. Th
 
 Subsec. (d). Pub. L. 86–582, §1(1)(B), added subsec. (d).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3748 of this title.
-

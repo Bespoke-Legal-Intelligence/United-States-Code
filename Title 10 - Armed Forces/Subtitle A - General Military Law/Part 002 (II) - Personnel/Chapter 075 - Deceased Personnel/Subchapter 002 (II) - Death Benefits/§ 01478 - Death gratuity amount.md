@@ -1,6 +1,6 @@
 ### §1478. Death gratuity: amount
 
-(a) The death gratuity payable under sections 1475 through 1477 of this title shall be $12,000. For this purpose:
+(a) The death gratuity payable under sections 1475 through 1477 of this title shall be $100,000. For this purpose:
 
 &emsp;(1) A person covered by subsection (a)(1) of section 1475 of this title who died while traveling to or from active duty (other than for training) is considered to have been on active duty on the date of his death.
 
@@ -20,7 +20,17 @@
 
 (b) A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
 
-(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, §301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, §102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, §646(a), Nov. 24, 2003, 117 Stat. 1520.)
+\[(c) Repealed. Pub. L. 109–163, div. A, title VI, §664(a)(2)(B), Jan. 6, 2006, 119 Stat. 3316.\]
+
+(d)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable, subject to section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (a).
+
+(2) This subsection applies in the case of a person who died during the period beginning on October 7, 2001, and ending on May 11, 2005, while a member of the armed forces on active duty and whose death did not establish eligibility for an additional death gratuity under the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13; 119 Stat. 247), because the person was not described in paragraph (2) of that prior subsection.
+
+(3) The amount of additional death gratuity payable under this subsection shall be $150,000.
+
+(4) A payment pursuant to this subsection shall be paid in the same manner as provided under paragraph (4) of the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13; 119 Stat. 247), for payments pursuant to paragraph (3)(A) of that prior subsection.
+
+(Added Pub. L. 85–861, §1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, §301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, §11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, §652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, §102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, §646(a), Nov. 24, 2003, 117 Stat. 1520; Pub. L. 108–375, div. A, title VI, §643(b), Oct. 28, 2004, 118Stat. 1958; Pub. L. 109–13, div. A, title I, §1013(a)–(c), May 11, 2005, 119 Stat. 246–248; Pub. L. 109–163, div. A, title VI, §664(a)(1), (2), (b), Jan. 6, 2006, 119 Stat. 3316.)
 
 Historical and Revision Notes
 
@@ -54,7 +64,79 @@ In subsection (a), the word “pay” is substituted for the words “basic pay 
 
 In subsection (b), the words “on or after January 1, 1957” are omitted as executed. The words “(other than for training)” are inserted, since the words “active duty” in the source statute did not include active duty for training. The words “is considered to continue on that duty” are substituted for the words “shall be deemed to continue on active duty”. The last sentence is substituted for 38:1101(12) (last 14 words).
 
+#### References in Text
+
+Section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, referred to in subsec. (d)(1), is section 664(c) of title VI of div. A of Pub. L. 109–163, Jan. 6, 2006, 119 Stat. 3317, which is not classified to the Code.
+
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163, §664(a)(1), (2)(A), in introductory provisions, substituted “$100,000” for “$12,000” and struck out “(as adjusted under subsection (c))” before period at end of first sentence.
+
+Subsec. (c). Pub. L. 109–163, §664(a)(2)(B), struck out subsec. (c) which read as follows: “Effective on the date on which rates of basic pay under section 204 of title 37 are increased under section 1009 of that title or any other provision of law, the amount of the death gratuity in effect under subsection (a) shall be increased by the same overall average percentage of the increase in the rates of basic pay taking effect on that date.”
+
+Subsec. (d). Pub. L. 109–163, §664(b), added subsec. (d).
+
+2005—Subsec. (a). Pub. L. 109–13, §1013(a)(2), (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
+
+Pub. L. 109–13, §1013(a)(1)(A), (e), temporarily inserted “, except as provided in subsections (c), (e), and (f)” after “$12,000” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
+
+Subsec. (c). Pub. L. 109–13, §1013(a)(1)(C), (e), temporarily added subsec. (c) which read as follows: “The death gratuity payable under sections 1475 through 1477 of this title is $100,000 in the case of a death resulting from wounds, injuries, or illnesses that are—
+
+&emsp;“(1) incurred as described in section 1413a(e)(2) of this title; or
+
+&emsp;“(2) incurred in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense under section 1967(e)(1)(A) of title 38.”
+
+> Former subsec. (c) temporarily redesignated (d). See Effective and Termination Dates of 2005 Amendments notes below.
+
+Subsec. (d). Pub. L. 109–13, §1013(a)(1)(B), (e), temporarily redesignated subsec. (c) as (d). See Effective and Termination Dates of 2005 Amendments notes below.
+
+Subsec. (e). Pub. L. 109–13, §1013(b), (e), temporarily added subsec. (e) which read as follows:
+
+“(e)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable in accordance with this subsection for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (a).
+
+“(2) This subsection applies in the case of a member of the armed forces who dies before the date of the enactment of this subsection as a direct result of one or more wounds, injuries, or illnesses that—
+
+&emsp;“(A) were incurred in the theater of operations of Operation Enduring Freedom or Operation Iraqi Freedom; or
+
+&emsp;“(B) were incurred as described in section 1413a(e)(2) of this title on or after October 7, 2001.
+
+“(3) The amount of additional death gratuity payable under this subsection shall be $238,000, of which—
+
+&emsp;“(A) $150,000 shall be paid in the manner specified in paragraph (4); and
+
+&emsp;“(B) $88,000 shall be paid in the manner specified in paragraph (5).
+
+“(4) A payment pursuant to paragraph (3)(A) by reason of a death covered by this subsection shall be paid—
+
+&emsp;“(A) to a beneficiary in proportion to the share of benefits applicable to such beneficiary in the payment of life insurance proceeds paid on the basis of that death under the Servicemembers Group Life Insurance program under subchapter III of chapter 19 of title 38; or
+
+&emsp;“(B) in the case of a person who elected not to be insured under the provisions of that subchapter, in equal shares to the person or persons who would have received proceeds under those provisions of law for a member who is insured under that subchapter but does not designate named beneficiaries.
+
+“(5) A payment pursuant to paragraph (3)(B) by reason of a death covered by this subsection shall be paid equal shares to the beneficiaries who were paid the death gratuity that was paid with respect to that death under this section.” See Effective and Termination Dates of 2005 Amendments notes below.
+
+Subsec. (f). Pub. L. 109–13, §1013(c), (e), temporarily added subsec. (f) which read as follows:
+
+“(f)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable in accordance with this subsection for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (e).
+
+“(2) This subsection applies in the case of a member of the armed forces who dies during the period beginning on the date of the enactment of this subsection and ending on the first day of the first month that begins more than 90 days after such date of one or more wounds, injuries, or illnesses that—
+
+&emsp;“(A) are incurred in the theater of operations of Operation Enduring Freedom or Operation Iraqi Freedom; or
+
+&emsp;“(B) are incurred as described in section 1413a(e)(2) of this title.
+
+“(3) The amount of additional death gratuity payable under this subsection shall be $150,000.
+
+“(4) A payment pursuant to paragraph (3) by reason of a death covered by this subsection shall be paid—
+
+&emsp;“(A) to a beneficiary in proportion to the share of benefits applicable to such beneficiary in the payment of life insurance proceeds payable on the basis of that death under the Servicemembers Group Life Insurance program under subchapter III of chapter 19 of title 38; or
+
+&emsp;“(B) in the case of a person who elected not to be insured under the provisions of that subchapter, in equal shares to the person or persons who receive proceeds under those provisions of law for a member who is insured under that subchapter but does not designate named beneficiaries.”
+
+> See Effective and Termination Dates of 2005 Amendments notes below.
+
+2004—Subsec. (a). Pub. L. 108–375, §643(b)(1), inserted “(as adjusted under subsection (c))” before period in introductory provisions.
+
+Subsec. (c). Pub. L. 108–375, §643(b)(2), added subsec. (c).
 
 2003—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting “$12,000” for “$6,000” in introductory provisions.
 
@@ -63,6 +145,32 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 1966—Subsec. (a)(4). Pub. L. 89–718 struck out “, United States Code” after “title 37” in two places.
 
 1964—Subsec. (a)(4). Pub. L. 88–647 substituted “the first sentence of section 209(c) of title 37, United States Code” for “section 4385(c) or 9385(c) of this title”, and provided that a person covered by section 1475(a)(4) of this title who dies in field training or on a practice cruise, or in travel to or from such training or cruise, is considered entitled on the day of his death to the pay prescribed by the second sentence of section 209(c) of Title 37.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title VI, §664(a)(3), Jan. 6, 2006, 119 Stat. 3316, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 7, 2001, and shall apply to deaths occurring on or after the date of the enactment of this Act \[Jan. 6, 2006\] and, subject to subsection (c) \[119 Stat. 3317\], to deaths occurring during the period beginning on October 7, 2001, and ending on the day before the date of the enactment of this Act.”
+
+#### Effective and Termination Dates of 2005 Amendments
+
+Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, section 411h of Title 37, Pay and Allowances of the Uniformed Services, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
+
+Pub. L. 109–13, div. A, title I, §1013(d), (e), May 11, 2005, 119 Stat. 248, provided that:
+
+“(d)
+
+Effective Date.—This section \[amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[May 11, 2005\].
+
+“(e)
+
+Termination.—
+
+&emsp;“(1)
+
+In general.—This section \[amending this section\] and the amendment made by this subsection \[probably means this section\] shall terminate on September 30, 2005. Effective as of October 1, 2005, the provisions of section 1478 of title 10, United States Code, as in effect on the date before the date of the enactment of this Act \[May 11, 2005\] shall be revived.
+
+&emsp;“(2)
+
+Continuing obligation to pay.—Any amount of additional death gratuity payable under section 1478 of title 10, United States Code, by reason of the amendments made by subsections (b) and (c) of this section \[amending this section\] that remains payable as of September 30, 2005, shall, notwithstanding paragraph (1), remain payable after that date until paid.”
 
 #### Effective Date of 2003 Amendments
 

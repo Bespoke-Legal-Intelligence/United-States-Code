@@ -16,25 +16,31 @@ The Commission is directed to exercise its powers in such manner as to insure th
 
 &emsp;(6) the preservation and enhancement of a viable environment by developing more efficient methods to meet the Nation's energy needs.
 
-#### (b) Grants and contributions for facilities in educational and training institutions
+#### (b) Grants and contributions
 
-The Commission is further authorized to make grants and contributions to the cost of construction and operation of reactors and other facilities and other equipment to colleges, universities, hospitals, and eleemosynary or charitable institutions for the conduct of educational and training activities relating to the fields in subsection (a) of this section.
+The Commission is authorized—
+
+&emsp;(1) to make grants and contributions to the cost of construction and operation of reactors and other facilities and other equipment to colleges, universities, hospitals, and eleemosynary or charitable institutions for the conduct of educational and training activities relating to the fields in subsection (a) of this section; and
+
+&emsp;(2) to provide grants, loans, cooperative agreements, contracts, and equipment to institutions of higher education (as defined in section 1002 of title 20) to support courses, studies, training, curricula, and disciplines pertaining to nuclear safety, security, or environmental protection, or any other field that the Commission determines to be critical to the regulatory mission of the Commission.
 
 #### (c) Purchase of supplies without advertising
 
-The Commission may (1) make arrangements pursuant to this section, without regard to the provisions of section 5 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable; (2) make partial and advance payments under such arrangements; and (3) make available for use in connection therewith such of its equipment and facilities as it may deem desirable.
+The Commission may (1) make arrangements pursuant to this section, without regard to the provisions of section 5 of title 41, upon certification by the Commission that such action is necessary in the interest of the common defense and security, or upon a showing by the Commission that advertising is not reasonably practicable; (2) make partial and advance payments under such arrangements; and (3) make available for use in connection therewith such of itsequipment and facilities as it may deem desirable.
 
 #### (d) Prevention of dissemination of information prohibited; other conditions of agreements
 
 The arrangements made pursuant to this section shall contain such provisions (1) to protect health, (2) to minimize danger to life or property, and (3) to require the reporting and to permit the inspection of work performed thereunder, as the Commission may determine. No such arrangement shall contain any provisions or conditions which prevent the dissemination of scientific or technical information, except to the extent such dissemination is prohibited by law.
 
-(Aug. 1, 1946, ch. 724, title I, §31, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 927; amended Aug. 6, 1956, ch. 1015, §§2, 3, 70 Stat. 1069; Pub. L. 91–560, §1, Dec. 19, 1970, 84 Stat. 1472; Pub. L. 92–84, title II, §201(a), Aug. 11, 1971, 85 Stat. 307; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §31, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 927; amended Aug. 6, 1956, ch. 1015, §§2, 3, 70 Stat. 1069; Pub. L. 91–560, §1, Dec. 19, 1970, 84 Stat. 1472; Pub. L. 92–84, title II, §201(a), Aug. 11, 1971, 85 Stat. 307; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §651(c)(1), Aug. 8, 2005, 119 Stat. 801.)
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1803(a) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–58 inserted heading, inserted par. (1) designation before “to make grants”, in introductory provisions substituted “authorized—” for “further authorized”, and added par. (2).
 
 1971—Subsec. (a)(6). Pub. L. 92–84 added par. (6).
 
@@ -43,10 +49,6 @@ Provisions similar to this section were contained in section 1803(a) of this tit
 1956—Subsec. (a). Act Aug. 6, 1956, §2, inserted “and training” after “development” in first sentence.
 
 Subsecs. (b) to (d). Act Aug. 6, 1956, §3, added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
-
-#### Transfer of Functions
-
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
 #### Three Mile Island Nuclear Station, Pa.; Feasibility of Epidemiological Research on Health Effects of Low-Level Radiation; Report to Congress
 

@@ -18,7 +18,3 @@ Any portion of a tax imposed by this title which has been erroneously refunded (
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 874.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6514, 6532, 6602 of this title.
-

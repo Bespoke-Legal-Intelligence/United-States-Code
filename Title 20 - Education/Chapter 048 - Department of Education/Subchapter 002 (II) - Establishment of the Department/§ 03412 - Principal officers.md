@@ -90,7 +90,7 @@ The Assistant Secretary for Vocational and Adult Education, in addition to perfo
 
 &emsp;&emsp;(iii) education programs located in, and regarding, rural areas.
 
-(Pub. L. 96–88, title II, §202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, §101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, §201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, §1553(a), July 23, 1992, 106 Stat. 838; Pub. L.103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, §271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, §1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, §402(1), Nov. 5, 2002, 116 Stat. 1984.)
+(Pub. L. 96–88, title II, §202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, §101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, §201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, §1553(a), July 23, 1992, 106 Stat. 838; Pub. L. 103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, §271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, §1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, §402(1), Nov. 5, 2002, 116 Stat. 1984.)
 
 #### References in Text
 
@@ -100,7 +100,7 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 #### Amendments
 
-2002—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: “There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
+2002—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: “Thereshall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
 
 &emsp;“(A) appointed by the President, by and with the consent of the Senate; and
 

@@ -16,7 +16,7 @@ Pennsylvania is divided into three judicial districts to be known as the Eastern
 
 ### Western District
 
-(c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford,Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.
+(c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.
 
 &emsp;&emsp;Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 

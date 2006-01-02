@@ -1,32 +1,22 @@
 ### §16135. Failure to participate satisfactorily; penalties
 
-(a)(1) A member of the Selected Reserve of the Ready Reserve of an armed force who fails to participate satisfactorily in required training as a member of the Selected Reserve during a term of enlistment or other period of obligated service that created entitlement of the member to educational assistance under this chapter, and during which the member has received such assistance, shall, at the option of the Secretary concerned—
+(a)
 
-&emsp;(A) be ordered to active duty for a period of two years or the period of obligated service the person has remaining under section 16132 of this title, whichever is less; or
+Penalties.—At the option of the Secretary concerned, a member of the Selected Reserve of an armed force who does not participate satisfactorily in required training as a member of the Selected Reserve during a term of enlistment or other period of obligated service that created entitlement of the member to educational assistance under this chapter, and during which the member has received such assistance, may—
 
-&emsp;(B) be required to refund to the United States an amount determined under subsection (b).
+&emsp;(1) be ordered to active duty for a period of two years or the period of obligated service the person has remaining under section 16132 of this title, whichever is less; or
 
-(2) The Secretary concerned may waive the requirements of paragraph (1), or may reduce the amount of any refund under clause (B) of such paragraph, in the case of any individual member when the Secretary determines that the failure to participate satisfactorily was due to reasons beyond the control of the member.
+&emsp;(2) be subject to the repayment provisions under section 303a(e) of title 37.
 
-(3) Any refund by a member under this section shall not affect the period of obligation of such member to serve as a Reserve in the Selected Reserve.
+(b)
 
-(b)(1) The amount of a refund under subsection (a) shall be the amount equal to the product of—
+Effect of Repayment.—Any repayment under section 303a(e) of title 37 shall not affect the period of obligation of a member to serve as a Reserve in the Selected Reserve.
 
-&emsp;(A) the number of months of obligated service the person has remaining under the agreement entered into under section 16131(a) of this title divided by the original number of months of such obligation; and
-
-&emsp;(B) the total amount of educational assistance provided to the member under this chapter,
-
-> as increased by interest determined under paragraph (2).
-
-(2) The amount computed under paragraph (1) shall bear interest at the rate equal to the highest rate being paid by the United States on the day on which the refund is determined to be due for securities having maturities of 90 days or less and shall accrue from the day on which the member is first notified of the amount due to the United States as a refund under this section.
-
-(c)(1) Subject to subsection (a)(2), an obligation to pay a refund to the United States under subsection (a)(1)(B) in an amount determined under subsection (b) is, for all purposes, a debt owed to the United States.
-
-(2) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an enlistment or other agreement under this section does not discharge the person signing such enlistment or other agreement from a debt arising under the enlistment or agreement, respectively, under this subsection.
-
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 330, §2135; amended Pub. L. 95–485, title IV, §402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, §906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, §111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered §16135 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, §1501(b)(35), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–314, div. A, title VI, §642, Dec. 2, 2002, 116 Stat. 2577.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 330, §2135; amended Pub. L. 95–485, title IV, §402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, §906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, §111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered §16135 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, §1501(b)(35), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–314, div. A, title VI, §642, Dec. 2, 2002, 116 Stat. 2577; Pub. L. 109–163, div. A, title VI, §687(c)(12), Jan. 6, 2006, 119 Stat. 3335.)
 
 #### Amendments
+
+2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to penalties for failure of a member of the Selected Reserve of the Ready Reserve of an armed force to participate satisfactorily in required training.
 
 2002—Subsec. (c). Pub. L. 107–314 added subsec. (c).
 
@@ -60,7 +50,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
 
-#### Section Referred to in Other Sections
+#### Savings Provision
 
-This section is referred to in section 16132 of this title; title 38 section 3485.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 

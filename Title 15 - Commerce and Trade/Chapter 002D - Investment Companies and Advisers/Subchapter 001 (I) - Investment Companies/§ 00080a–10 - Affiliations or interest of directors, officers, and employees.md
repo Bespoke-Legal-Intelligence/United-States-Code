@@ -32,7 +32,7 @@ Notwithstanding subsections (a) and (b)(2) of this section, a registered investm
 
 &emsp;(5) no sales or promotion expenses are incurred by such registered company; but expenses incurred in complying with laws regulating the issue or sale of securities shall not be deemed sales or promotion expenses;
 
-&emsp;(6) such investment adviser is the only investment adviser to such investment company, and such investment adviser does not receive a management fee exceeding 1 per centum per annum of the value of such company's net assets averaged over the year or taken as of a definite date or dates within the year;
+&emsp;(6) such investment adviser is the only investment adviser to such investment company, and such investment adviser does not receive a management fee exceeding 1 per centum per annum of the value of such company'snet assets averaged over the year or taken as of a definite date or dates within the year;
 
 &emsp;(7) all executive salaries and executive expenses and office rent of such investment company are paid by such investment adviser; and
 
@@ -98,5 +98,5 @@ For effective date of amendment by Pub. L. 91–547, see section 30 (introductor
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

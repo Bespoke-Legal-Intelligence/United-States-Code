@@ -2,7 +2,7 @@
 
 #### (a) Annual report
 
-The Secretary shall, not later than June 30 of each year, submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the activities of each enterprise.
+The Secretary shall, not later than June 30 of each year, submit a report to the Committee on Banking, Finance and Urban Affairs of theHouse of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the activities of each enterprise.
 
 #### (b) Views on budget and financial plans of enterprises
 

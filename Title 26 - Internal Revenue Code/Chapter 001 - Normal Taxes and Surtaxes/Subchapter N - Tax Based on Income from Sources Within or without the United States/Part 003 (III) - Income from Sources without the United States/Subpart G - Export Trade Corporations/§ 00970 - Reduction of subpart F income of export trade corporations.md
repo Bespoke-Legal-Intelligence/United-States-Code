@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a controlled foreign corporation (as defined in section 957) which for the taxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
+&emsp;In the case of a controlled foreign corporation (as defined in section 957) which for thetaxable year is an export trade corporation, the subpart F income (determined without regard to this subpart) of such corporation for such year shall be reduced by an amount equal to so much of the export trade income (as defined in section 971(b)) of such corporation for such year as constitutes foreign base company income (as defined in section 954), but only to the extent that such amount does not exceed whichever of the following amounts is the lesser:
 
 &emsp;&emsp;(A) an amount equal to 11/2 times so much of the export promotion expenses (as defined in section 971(d)) of such corporation for such year as is probably allocable to the export trade income which constitutes foreign base company income of such corporation for such year, or
 
@@ -54,7 +54,7 @@ Each United States shareholder of a controlled foreign corporation which for any
 
 #### References in Text
 
-The Tax Reform Act of 1976, referred to in subsec. (b)(1), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1250, as amended, which was enacted Oct. 4, 1976. Section 972 ofthis title was repealed by Pub. L. 94–455, title XIX, §1901(a)(120), Oct. 4, 1976, 90 Stat. 1784. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (b)(1), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1250, as amended, which was enacted Oct. 4, 1976. Section 972 of this title was repealed by Pub. L. 94–455, title XIX, §1901(a)(120), Oct. 4, 1976, 90 Stat. 1784. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

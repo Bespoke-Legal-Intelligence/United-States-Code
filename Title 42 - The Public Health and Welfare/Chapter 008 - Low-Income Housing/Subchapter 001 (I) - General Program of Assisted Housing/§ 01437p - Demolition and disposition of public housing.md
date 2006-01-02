@@ -160,7 +160,7 @@ Subsecs. (f), (g). Pub. L. 104–19, §1002(a)(8), (9), added subsec. (f) and re
 
 Subsec. (b)(1). Pub. L. 102–550, §116(a), inserted “of the project or portion of the project covered by the application” after “tenant cooperative”.
 
-Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
+Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents.”
 
 Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years”.
 
@@ -212,7 +212,7 @@ Pub. L. 105–276, title V, §531(c), Oct. 21, 1998, 112 Stat. 2574, provided th
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion to homeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
+Amendment by Pub. L. 104–19 effective for applications for demolition, disposition, or conversion tohomeownership of public housing approved by the Secretary, and other consolidation and relocation activities of public housing agencies undertaken on, before, or after Sept. 30, 1995 and on or before Sept. 30, 1998, see section 1002(d) of Pub. L. 104–19, as amended, set out as a note under section 1437c of this title.
 
 #### Effective Date of 1990 Amendment
 

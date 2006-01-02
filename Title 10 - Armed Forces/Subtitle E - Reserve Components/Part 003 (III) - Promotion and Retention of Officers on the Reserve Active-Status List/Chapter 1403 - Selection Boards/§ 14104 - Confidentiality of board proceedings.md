@@ -8,7 +8,3 @@ Except as otherwise authorized or required by law, the proceedings of a selectio
 
 Provisions similar to those in this section were contained in section 5898(e) of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14502 of this title.
-

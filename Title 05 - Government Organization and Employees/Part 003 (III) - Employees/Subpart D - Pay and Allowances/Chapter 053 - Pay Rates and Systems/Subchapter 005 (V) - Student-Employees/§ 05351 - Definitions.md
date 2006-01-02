@@ -28,7 +28,7 @@ Aug. 4, 1947, ch. 452, §2, 61 Stat. 727.
 
 The section is restated in definition form. In paragraph (1), the words “an Executive agency, a military department” are coextensive with and substituted for “department, agency, or instrumentality of the Federal Government” in view of the definitions in sections 105 and 102.
 
-The exception from the Classification Act of 1923, as amended, is omitted as obsolete and superseded by theClassification Act of 1949, as amended, which is carried into this title. The present exception from the Classification Act of 1949, as amended, is carried into section 5102(c)(16).
+The exception from the Classification Act of 1923, as amended, is omitted as obsolete and superseded by the Classification Act of 1949, as amended, which is carried into this title. The present exception from the Classification Act of 1949, as amended, is carried into section 5102(c)(16).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

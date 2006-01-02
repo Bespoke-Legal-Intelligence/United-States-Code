@@ -42,7 +42,7 @@ A group health plan may not—
 
 (2) This section shall not apply with respect to any group health plan which does not provide benefits for hospital lengths of stay in connection with childbirth for a mother or her newborn child.
 
-(3) Nothing in this section shall be construed as preventing a group health plan from imposing deductibles, coinsurance, or other cost-sharing in relation to benefits for hospital lengths ofstay in connection with childbirth for a mother or newborn child under the plan, except that such coinsurance or other cost-sharing for any portion of a period within a hospital length of stay required under subsection (a) may not be greater than such coinsurance or cost-sharing for any preceding portion of such stay.
+(3) Nothing in this section shall be construed as preventing a group health plan from imposing deductibles, coinsurance, or other cost-sharing in relation to benefits for hospital lengths of stay in connection with childbirth for a mother or newborn child under the plan, except that such coinsurance or other cost-sharing for any portion of a period within a hospital length of stay required under subsection (a) may not be greater than such coinsurance or cost-sharing for any preceding portion of such stay.
 
 #### (d) Level and type of reimbursements
 
@@ -71,8 +71,4 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Subchapter applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 4980D of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4980D of this title.
 

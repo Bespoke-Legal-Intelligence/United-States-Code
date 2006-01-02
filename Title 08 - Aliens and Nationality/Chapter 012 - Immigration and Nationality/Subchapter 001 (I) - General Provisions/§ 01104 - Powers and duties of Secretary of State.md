@@ -20,7 +20,7 @@ The functions heretofore performed by the Passport Division and the Visa Divisio
 
 There shall be a General Counsel of the Visa Office, who shall be appointed by the Secretary of State and who shall serve under the general direction of the Legal Adviser of the Department of State. The General Counsel shall have authority to maintain liaison with the appropriate officers of the Service with a view to securing uniform interpretations of the provisions of this chapter.
 
-(June 27, 1952, ch. 477, title I, §104, 66 Stat. 174; Pub. L. 87-510, §4(a)(2), June 28, 1962, 76 Stat. 123; Pub. L. 88–426, title III, §305(43), Aug. 14, 1964, 78 Stat. 428; Pub. L. 95–105, title I, §109(b)(1), Aug. 17, 1977, 91 Stat. 847; Pub. L. 100–525, §9(d), Oct.24, 1988, 102 Stat. 2620; Pub. L. 103–236, title I, §162(h)(2), Apr. 30, 1994, 108 Stat. 407.)
+(June 27, 1952, ch. 477, title I, §104, 66 Stat. 174; Pub. L. 87-510, §4(a)(2), June 28, 1962, 76 Stat. 123; Pub. L. 88–426, title III, §305(43), Aug. 14, 1964, 78 Stat. 428; Pub. L. 95–105, title I, §109(b)(1), Aug. 17, 1977, 91 Stat. 847; Pub. L. 100–525, §9(d), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 103–236, title I, §162(h)(2), Apr. 30, 1994, 108 Stat. 407.)
 
 #### Amendments
 

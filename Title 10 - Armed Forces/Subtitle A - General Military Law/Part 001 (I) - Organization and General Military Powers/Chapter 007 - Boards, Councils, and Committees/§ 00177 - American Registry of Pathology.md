@@ -42,7 +42,3 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1
 
 1984—Subsec. (a)(1). Pub. L. 98–525 substituted “sec. 29–501” for “sec. 29–1001”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 176 of this title.
-

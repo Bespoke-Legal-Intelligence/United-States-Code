@@ -2,7 +2,7 @@
 
 Subject to section 2343 of this title and subject to the availability of appropriations, the Secretary of Defense may—
 
-&emsp;(1) acquire from the Governments of North Atlantic Treaty Organization countries, from North Atlantic Treaty Organization subsidiary bodies, and from the United Nations Organization or any regional international organization of which the United States is a member logistic support, supplies, and services for elements of the armed forces deployed outside the United States; and
+&emsp;(1) acquire from the Governments of North Atlantic Treaty Organization countries, from North Atlantic Treaty Organization subsidiary bodies, and from the United Nations Organization or any regional international organization logistic support, supplies, and services for elements of the armed forces deployed outside the United States; and
 
 &emsp;(2) acquire from any government not a member of the North Atlantic Treaty Organization logistic support, supplies, and services for elements of the armed forces deployed (or to be deployed) outside the United States if that country—
 
@@ -14,9 +14,11 @@ Subject to section 2343 of this title and subject to the availability of appropr
 
 &emsp;&emsp;(D) serves as the host country to military exercises which include elements of the armed forces or permits other military operations by the armed forces in such country.
 
-(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1016, §2321; renumbered §2341 and amended Pub. L. 99–145, title XIII, §1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 102–484, div. A, title XIII, §1312(a), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–337, div. A, title XIII, §1317(a), Oct. 5, 1994, 108 Stat. 2899.)
+(Added Pub. L. 96–323, §2(a), Aug. 4, 1980, 94 Stat. 1016, §2321; renumbered §2341 and amended Pub. L. 99–145, title XIII, §1304(a)(1), (4), Nov. 8, 1985, 99 Stat. 741; Pub. L. 99–661, div. A, title XI, §1104(a), Nov. 14, 1986, 100 Stat. 3963; Pub. L. 102–484, div. A, title XIII, §1312(a), Oct. 23, 1992, 106 Stat. 2547; Pub. L. 103–337, div. A, title XIII, §1317(a), Oct. 5, 1994, 108 Stat. 2899; Pub. L. 109–163, div. A, title XII, §1204, Jan. 6, 2006, 119 Stat. 3456.)
 
 #### Amendments
+
+2006—Par. (1). Pub. L. 109–163 struck out “of which the United States is a member” before “logistic support”.
 
 1994—Par. (1). Pub. L. 103–337 substituted a comma for “and” after “countries” and inserted “, and from the United Nations Organization or any regional international organization of which the United States is a member” after “subsidiary bodies”.
 
@@ -57,8 +59,4 @@ Pub. L. 102–172, title VIII, §8122, Nov. 26, 1991, 105 Stat. 1205.
 Pub. L. 101–511, title VIII, §8003, Nov. 5, 1990, 104 Stat. 1873.
 
 Pub. L. 100–180, div. A, title X, §1021, Dec. 4, 1987, 101 Stat. 1143.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2343 of this title.
 

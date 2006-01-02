@@ -24,7 +24,7 @@ The board shall recommend to the Secretary 1 or more rates of assessment to be l
 
 #### (1) In general
 
-&emsp;Late-payment and interest charges may be levied on each person subject to an order whofails to remit an assessment in accordance with subsection (b) of this section.
+&emsp;Late-payment and interest charges may be levied on each person subject to an order who fails to remit an assessment in accordance with subsection (b) of this section.
 
 #### (2) Rate
 

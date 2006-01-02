@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Assistance made available under grants awarded under this part shall be directed to the chief elected official of the city or urban county that administers the public healthagency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
+&emsp;Assistance made available under grants awarded under this part shall be directed to the chief elected official of the city or urban county that administers the public health agency that provides outpatient and ambulatory services to the greatest number of individuals with AIDS, as reported to and confirmed by the Centers for Disease Control and Prevention, in the eligible area that is awarded such a grant.
 
 #### (2) Requirements
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(ii) disparities in access and services among affected subpopulations and historically underserved communities;
 
-&emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including howbest to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—
+&emsp;&emsp;(C) establish priorities for the allocation of funds within the eligible area, including how best to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—
 
 &emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV disease (as determined under subparagraph (A)) and the needs of such population (as determined under subparagraph (B));
 
@@ -174,7 +174,7 @@
 
 #### (d) Process for establishing allocation priorities
 
-Promptly after the date of the submission of the report required in section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
+Promptly after the date of the submission of the report required in section 501(b) of the RyanWhite CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease), the Secretary, in consultation with planning councils and entities that receive amounts from grants under section 300ff–11(a) or 300ff–21 of this title, shall develop epidemiologic measures—
 
 &emsp;(1) for establishing the number of individuals living with HIV disease who are not receiving HIV-related health services; and
 
@@ -278,7 +278,7 @@ Subsec. (b)(2)(C). Pub. L. 104–146, §3(b)(1)(B), added subpar. (C).
 
 Subsec. (b)(3). Pub. L. 104–146, §3(b)(1)(D), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(3)(A). Pub. L. 104–146, §3(b)(1)(C)(i), substituted “area, including how best to meet each such priority and additional factors that a grantee should consider in allocating funds under a grant based on the—” for “area;” and added cls. (i) to (iv).
+Subsec. (b)(3)(A). Pub. L. 104–146, §3(b)(1)(C)(i), substituted “area, including how best to meet each suchpriority and additional factors that a grantee should consider in allocating funds under a grant based on the—” for “area;” and added cls. (i) to (iv).
 
 Subsec. (b)(3)(B). Pub. L. 104–146, §3(b)(1)(C)(ii), struck out “and” at end.
 

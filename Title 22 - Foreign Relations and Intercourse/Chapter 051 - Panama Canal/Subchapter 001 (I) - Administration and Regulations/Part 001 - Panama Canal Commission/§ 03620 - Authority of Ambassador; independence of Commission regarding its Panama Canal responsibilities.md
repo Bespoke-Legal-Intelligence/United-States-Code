@@ -20,7 +20,7 @@ The United States Ambassador to the Republic of Panama shall have full responsib
 
 &emsp;(B) Compensation for work injuries covered by chapter 81 of title 5.
 
-(Pub. L. 96–70, title I, §1110, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, §3550(d)(4), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3506, Oct. 17, 1998, 112 Stat. 2269.)
+(Pub. L. 96–70, title I, §1110, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, §3550(d)(4), Nov. 18, 1997, 111 Stat. 2074; Pub. L.105–261, div. C, title XXXV, §3506, Oct. 17, 1998, 112 Stat. 2269.)
 
 #### References in Text
 

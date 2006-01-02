@@ -34,7 +34,7 @@ The regulations prescribed under subsection (a) of this section for any species 
 
 #### (d) Procedure
 
-Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both the Secretary's determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed by law with respect to agency rulemaking, the Secretary shall publish and make available to the public either before or concurrent with the Publication of notice in the Federal Register of his intention to prescribe regulations under this section—
+Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both the Secretary's determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed bylaw with respect to agency rulemaking, the Secretary shall publish and make available to the public either before or concurrent with the Publication of notice in the Federal Register of his intention to prescribe regulations under this section—
 
 &emsp;(1) a statement of the estimated existing levels of the species and population stocks of the marine mammal concerned;
 
@@ -60,7 +60,7 @@ The effective date of this chapter, referred to in subsec. (f), means the effect
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to the Secretary reporting to Congress on the current status of marine mammal species and population stocks subject to this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Moneyand Finance, and pages 54 and 107 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to the Secretary reporting to Congress on the current status of marine mammal species and population stocks subject to this chapter, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 54 and 107 of House Document No. 103–7.
 
 #### Marine Mammal Populations Report
 

@@ -36,7 +36,13 @@ There is hereby imposed a tax on any liquid used during any calendar quarter by 
 
 &emsp;&emsp;(B) The Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cent per gallon.
 
-&emsp;&emsp;(C) The deficit reduction rate is 4.3 cents per gallon.
+&emsp;&emsp;(C) The deficit reduction rate is—
+
+&emsp;&emsp;&emsp;(i) 3.3 cents per gallon after December 31, 2004, and before July 1, 2005,
+
+&emsp;&emsp;&emsp;(ii) 2.3 cents per gallon after June 30, 2005, and before January 1, 2007, and
+
+&emsp;&emsp;&emsp;(iii) 0 after December 31, 2006.
 
 #### (3) Exception for fuel taxed under section 4041(d)
 
@@ -82,13 +88,13 @@ For purposes of this section—
 
 #### (3) Person
 
-&emsp;The term “person” includes the United States, a State, a political subdivision of a State, or any agency or instrumentality of any of the foregoing.
+&emsp;The term “person” includes the United States, a State, a political subdivision of aState, or any agency or instrumentality of any of the foregoing.
 
 #### (e) Date for filing return
 
 The date for filing the return of the tax imposed by this section for any calendar quarter shall be the last day of the first month following such quarter.
 
-(Added Pub. L. 95–502, title II, §202(a), Oct. 21, 1978, 92 Stat. 1696; amended Pub. L. 99–499, title V, §521(a)(3), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–662, title XIV, §1404(a), Nov. 17, 1986, 100 Stat. 4270; Pub. L. 100–647, title II, §2002(a)(2), Nov. 10, 1988, 102 Stat. 3597; Pub. L. 103–66, title XIII, §13241(d), Aug. 10, 1993, 107 Stat. 510.)
+(Added Pub. L. 95–502, title II, §202(a), Oct. 21, 1978, 92 Stat. 1696; amended Pub. L. 99–499, title V, §521(a)(3), Oct. 17, 1986, 100 Stat. 1777; Pub. L. 99–662, title XIV, §1404(a), Nov. 17, 1986, 100 Stat. 4270; Pub. L. 100–647, title II, §2002(a)(2), Nov. 10, 1988, 102 Stat. 3597; Pub. L. 103–66, title XIII, §13241(d), Aug. 10, 1993, 107 Stat. 510; Pub. L. 108–357, title II, §241(b), Oct. 22, 2004, 118 Stat. 1438.)
 
 #### References in Text
 
@@ -99,6 +105,8 @@ Section 206 of the Inland Waterways Revenue Act of 1978, referred to in subsec. 
 A prior section 4042, act Aug. 16, 1954, ch. 736, 68A Stat. 478, provided a cross reference to section 4222 of this title for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by Pub. L. 94–455, title XIX, §1904(a)(1)(D), Oct. 4, 1976, 90 Stat. 1811.
 
 #### Amendments
+
+2004—Subsec. (b)(2)(C). Pub. L. 108–357 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The deficit reduction rate is 4.3 cents per gallon.”
 
 1993—Subsec. (b)(1)(C). Pub. L. 103–66, §13241(d)(1), added subpar. (C).
 
@@ -121,6 +129,10 @@ Subsec. (b)(2)(C). Pub. L. 103–66, §13241(d)(2), added subpar. (C).
 | After September 30, 1983 and before October 1, 1985 | 8 cents a gallon&nbsp;&nbsp; |
 | After September 30, 1985 | 10 cents a gallon”. |
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, see section 241(c) of Pub. L. 108–357, set out as a note under section 4041 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub. L. 103–66, set out as a note under section 4041 of this title.
@@ -142,8 +154,4 @@ Section 202(d) of Pub. L. 95–502 provided that: “The amendments made by this
 #### Construction of 1986 Amendments
 
 Section 2002(a)(1) of Pub. L. 100–647 provided that: “For purposes of section 4042 of the 1986 Code, the amendment made by section 521(a)(3) of the Superfund Revenue Act of 1986 \[Pub. L. 99–499, amending this section\] shall be treated as enacted after the amendment made by section 1404(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, amending this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4462, 9506, 9508 of this title; title 33 section 1804.
 

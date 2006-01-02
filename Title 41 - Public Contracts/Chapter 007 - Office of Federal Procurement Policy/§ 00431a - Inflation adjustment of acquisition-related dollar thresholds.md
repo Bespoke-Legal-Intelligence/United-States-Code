@@ -12,7 +12,7 @@
 
 #### (b) Adjustments effective upon publication
 
-The Federal Acquisition Regulatory Council shall publish a notice of the adjusted dollar thresholds under this section in the FederalRegister. The adjusted dollar thresholds shall take effect on the date of publication.
+The Federal Acquisition Regulatory Council shall publish a notice of the adjusted dollar thresholds under this section in the Federal Register. The adjusted dollar thresholds shall take effect on the date of publication.
 
 #### (c) Acquisition-related dollar thresholds
 

@@ -20,10 +20,6 @@ A prior part I, Establishment, consisted of sections 5231 to 5233, prior to the 
 
 1984—Pub. L. 98–369, div. A, title IV, §454(c)(14), July 18, 1984, 98 Stat. 823, struck out item 5205 “Stamps”.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 5216 of this title.
-
 
 ---
 

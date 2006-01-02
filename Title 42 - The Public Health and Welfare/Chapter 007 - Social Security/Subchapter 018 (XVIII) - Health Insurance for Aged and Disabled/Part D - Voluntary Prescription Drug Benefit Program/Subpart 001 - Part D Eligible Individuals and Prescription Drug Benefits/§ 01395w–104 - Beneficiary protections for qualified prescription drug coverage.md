@@ -100,7 +100,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with the National Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
+&emsp;&emsp;&emsp;In developing the standards under clause (i), the Secretary shall consult with theNational Council for Prescription Drug Programs and other standard setting organizations determined appropriate by the Secretary.
 
 #### (iii) Implementation
 
@@ -140,7 +140,7 @@
 
 #### (ii) Model guidelines
 
-&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classificationfrom time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
+&emsp;&emsp;&emsp;The Secretary shall request the United States Pharmacopeia to develop, in consultation with pharmaceutical benefit managers and other interested parties, a list of categories and classes that may be used by prescription drug plans under this paragraph and to revise such classification from time to time to reflect changes in therapeutic uses of covered part D drugs and the additions of new covered part D drugs.
 
 #### (iii) Limitation on changes in therapeutic classification
 
@@ -214,7 +214,7 @@
 
 #### (E) Considerations in pharmacy fees
 
-&emsp;&emsp;The PDP sponsor of a prescription drug plan shall take into account, in establishing fees for pharmacists and others providing services under such plan, the resources used, and time required to, implement the medication therapy management program under this paragraph. Each such sponsor shall disclose to the Secretary upon request theamount of any such management or dispensing fees. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed under this subparagraph.
+&emsp;&emsp;The PDP sponsor of a prescription drug plan shall take into account, in establishing fees for pharmacists and others providing services under such plan, the resources used, and time required to, implement the medication therapy management program under this paragraph. Each such sponsor shall disclose to the Secretary upon request the amount of any such management or dispensing fees. The provisions of section 1396r–8(b)(3)(D) of this title apply to information disclosed under this subparagraph.
 
 #### (d) Consumer satisfaction surveys
 
@@ -244,7 +244,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (C) Limitations
 
-&emsp;&emsp;Information shall only be disclosed under subparagraph (A) or (B) if the disclosure of such information is permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
+&emsp;&emsp;Information shall only be disclosed under subparagraph (A) or (B) if the disclosure ofsuch information is permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
 
 #### (D) Timing
 
@@ -444,7 +444,7 @@ Pub. L. 108–173, title I, §108, Dec. 8, 2003, 117 Stat. 2172, provided that:
 
 “(a)
 
-In General.—The Secretary \[of Health and Human Services\] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act\[subsec. (e) of this section\], as inserted by section 101(a).
+In General.—The Secretary \[of Health and Human Services\] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act \[subsec. (e) of this section\], as inserted by section 101(a).
 
 “(b)
 

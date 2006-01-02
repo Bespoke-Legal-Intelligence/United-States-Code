@@ -96,6 +96,7 @@ I74subpart a—general provisions
 | (h) | Pilot program for enrollment of wetland and buffer acreage in conservation reserve. |
 | (i) | Eligibility for consideration. |
 | (j) | Balance of natural resource purposes. |
+| (k) | Emergency forestry conservation reserve program. |
 | [3832\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Comprehensive%20Conservation%20Enhancement%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003832%20-%20Duties%20of%20owners%20and%20operators.md) | Duties of owners and operators. |
 | (a) | In general. |
 | (b) | Conservation plans. |

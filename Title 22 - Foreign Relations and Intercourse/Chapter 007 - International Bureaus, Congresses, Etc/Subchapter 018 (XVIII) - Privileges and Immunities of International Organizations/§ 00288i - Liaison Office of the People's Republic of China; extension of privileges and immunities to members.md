@@ -10,5 +10,5 @@ Section was not enacted as part of the International Organizations Immunities Ac
 
 #### Executive Order No. 11771
 
-Ex. Ord. No. 11771, Mar. 18, 1974, 39 F.R. 10415, which extended diplomatic privileges and immunities to theLiaison Office of the People's Republic of China in Washington, D.C., was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11771, Mar. 18, 1974, 39 F.R. 10415, which extended diplomatic privileges and immunities to the Liaison Office of the People's Republic of China in Washington, D.C., was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

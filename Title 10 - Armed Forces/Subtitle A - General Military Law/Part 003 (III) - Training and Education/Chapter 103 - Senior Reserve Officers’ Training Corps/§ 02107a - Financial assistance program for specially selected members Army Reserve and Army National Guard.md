@@ -6,7 +6,7 @@
 
 (b)(1) To be eligible for appointment as a cadet under this section, a member of the program must—
 
-&emsp;(A) be a citizen of the United States;
+&emsp;(A) be a citizen or national of the United States;
 
 &emsp;(B) be specially selected for the financial assistance program under this section under procedures prescribed by the Secretary of the Army;
 
@@ -26,23 +26,49 @@
 
 (2) In the case of a cadet eligible to receive financial assistance under paragraph (1), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for such cadet and other expenses required by the educational institution.
 
-(3) The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).
+\[(3) Repealed. Pub. L. 109–163, div. A, title V, §531(b), Jan. 6, 2006, 119 Stat. 3247.\]
+
+(4)(A) The Secretary of the Army may provide an individual who received a commission as a Reserve officer in the Army from a military junior college through a program under this chapter and who does not have a baccalaureate degree with financial assistance for pursuit of a baccalaureate degree.
+
+(B) Such assistance is in addition to any provided under paragraph (1) or (2).
+
+(C) The agreement and reimbursement requirements established in section 2005 of this title are applicable to financial assistance under this paragraph.
+
+(D) An officer receiving financial assistance under this paragraph shall be attached to a unit of the Army as determined by the Secretary and shall be considered to be a member of the Senior Reserve Officers’ Training Corps on inactive duty for training, as defined in section 101(23) of title 38.
+
+(E) A qualified officer who did not previously receive financial assistance under this section is eligible to receive educational assistance under this paragraph.
+
+(F) A Reserve officer may not be called or ordered to active duty for a deployment while participating in the program under this paragraph.
+
+(G) Any service obligation incurred by an officer under an agreement entered into under this paragraph shall be in addition to any service obligation incurred by that officer under any other provision of law or agreement.
 
 (d) Upon satisfactorily completing the academic and military requirements of the program, a cadet may be appointed as a reserve officer in the Army in the grade of second lieutenant, even though he is under 21 years of age.
 
 (e) The date of rank of officers appointed under this section in May or June of any year is the date of graduation of cadets from the United States Military Academy in that year. The Secretary of the Army shall establish the date of rank of all other officers appointed under this section.
 
-(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadetunder this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
+(f) A cadet who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section, may be ordered to active duty by the Secretary of the Army to serve in his enlisted grade for such period of time as the Secretary prescribes but not for more than four years.
 
 (g) In computing length of service for any purpose, an officer appointed under this section may not be credited with service as a cadet or with concurrent enlisted service, other than enlisted service performed after August 1, 1979, as a member of the Selected Reserve.
 
-(h) The Secretary of the Army shall appoint not more than 208 cadets each year under this section, to include not less than 17 cadets at each military junior college at which there are not less than 17 members of the program eligible under subsection (b) for such an appointment. At any military junior college at which in any year there are fewer than 17 such members, the Secretary shall appoint each such member as a cadet under this section.
+(h) The Secretary of the Army shall appoint not more than 416 cadets each year under this section, to include not less than 17 cadets at each military junior college at which there are not less than 17 members of the program eligible under subsection (b) for such an appointment. At any military junior college at which in any year there are fewer than 17 such members, the Secretary shall appoint each such member as a cadet under this section.
 
 (i) Cadets appointed under this section are in addition to the number appointed under section 2107 of this title.
 
-(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003, 117 Stat. 1463.)
+(j) Financial assistance provided under this section to a cadet appointed at a military junior college is designated as, and shall be known as, an “Ike Skelton Early Commissioning Program Scholarship”.
+
+(Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249.)
 
 #### Amendments
+
+2006—Subsec. (b)(1)(A). Pub. L. 109–163, §534(b), inserted “or national” after “citizen”.
+
+Subsec. (c)(3). Pub. L. 109–163, §531(b), struck out par. (3) which read as follows: “The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).”
+
+Subsec. (h). Pub. L. 109–163, §532, substituted “416” for “208”.
+
+Subsec. (j). Pub. L. 109–163, §536, added subsec. (j).
+
+2004—Subsec. (c)(4). Pub. L. 108–375 added par. (4).
 
 2003—Subsec. (c). Pub. L. 108–136, §521(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -70,7 +96,7 @@ Subsec. (b)(6). Pub. L. 102–190, §522(a)(3), substituted “a troop program u
 
 Subsec. (f). Pub. L. 102–190, §522(a)(4), inserted “or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section,” after “when offered,”.
 
-Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, substituted “not more than 208 cadets each year under this section, to include not less than 10 cadets” for “not less than 10 cadets under this section each year”, and struck out par. (2) which read as follows: “If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment.”
+Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, substituted “not more than 208 cadets each year under this section, to include not less than 10 cadets” for “not less than 10 cadets under this section each year”, and struck out par. (2) which read as follows: “If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of theprogram at such military junior college who are eligible under subsection (b) for such an appointment.”
 
 #### Effective Date of 2003 Amendment
 
@@ -84,11 +110,11 @@ Pub. L. 107–107, div. A, title V, §536(b), Dec. 28, 2001, 115 Stat. 1107, pro
 
 Section 1(e) of Pub. L. 96–357 provided that: “The amendments made by this section \[enacting this section and amending sections 2107 and 2108 of this title\] shall take effect on October 1, 1980.”
 
+#### Savings Provision
+
+Paragraph (3) of subsec. (c) of this section, as in effect on the day before Jan. 6, 2006, to continue to apply in the case of any individual selected before Jan. 6, 2006, for appointment as a cadet under this section, see section 531(c) of Pub. L. 109–163, set out as a note under section 2107 of this title.
+
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 
 No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, see section 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2005, 2108, 2111b of this title.
 

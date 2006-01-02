@@ -1,6 +1,6 @@
 ### §6436. Institution-wide projects
 
-A State agency that provides free public education for children and youth in an institution for neglected or delinquent children and youth (other than an adult correctional institution) or attending a community-day program for such children and youth may use funds received under this subpart to serve all children in, and upgrade the entire educational effort of, that institution or program if the State agency has developed, and the State educational agency has approved, a comprehensive plan for that institution or program that—
+A State agency that provides free public education for children and youth in an institutionfor neglected or delinquent children and youth (other than an adult correctional institution) or attending a community-day program for such children and youth may use funds received under this subpart to serve all children in, and upgrade the entire educational effort of, that institution or program if the State agency has developed, and the State educational agency has approved, a comprehensive plan for that institution or program that—
 
 &emsp;(1) provides for a comprehensive assessment of the educational needs of all children and youth in the institution or program serving juveniles;
 
@@ -22,5 +22,5 @@ A State agency that provides free public education for children and youth in an 
 
 #### Prior Provisions
 
-A prior section 6436, Pub. L. 89–10, title I, §1416, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3596, related to institution-wide projects, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6436, Pub. L. 89–10, title I, §1416, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3596, related to institution-wide projects, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

@@ -64,7 +64,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
 
 “(a)
 
-In General.—The full equalization of allotments within the meaning of section 7 of the Act entitled ‘An Act to provide for the equalization of allotments on the Agua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ (25 U.S.C. 957) is deemed to have been completed.
+In General.—The full equalization of allotments within the meaning of section 7 of the Act entitled ‘An Act to provide for the equalization of allotments on theAgua Caliente (Palm Springs) Reservation in California, and for other purposes’, approved September 21, 1959, commonly known as the ‘Agua Caliente Equalization Act of 1959’ (25 U.S.C. 957) is deemed to have been completed.
 
 “(b)
 
@@ -82,5 +82,5 @@ Applicability.—The amendment made by subsection (a) shall apply as if this sec
 
 “(c)
 
-Subsequent Distributions.—Any per capita distribution of tribal revenues of the Band made after thedate of enactment of this Act \[Oct. 30, 1998\] shall be made to all members of the Band in equal amounts.”
+Subsequent Distributions.—Any per capita distribution of tribal revenues of the Band made after the date of enactment of this Act \[Oct. 30, 1998\] shall be made to all members of the Band in equal amounts.”
 

@@ -40,7 +40,7 @@ The words “in the repair, alteration, erection and maintenance of industrial b
 
 The words “in performing the duties imposed by this chapter” were substituted for the words “for the purposes enumerated in sections 744a–744h of this title,” since the provisions with regard to prison industries now appear in this chapter. The general provisions as to use of the fund supersede the more specific provisions of section 744f of said title (enacted earlier).
 
-A reference to the Federal Employees’ Compensation Act as appeared in the 1934 act was substituted for the reference to specific sections of title 5. The word “law” was substituted for the reference to sections in title 31since translation of the reference in the 1934 act was not practicable.
+A reference to the Federal Employees’ Compensation Act as appeared in the 1934 act was substituted for the reference to specific sections of title 5. The word “law” was substituted for the reference to sections in title 31 since translation of the reference in the 1934 act was not practicable.
 
 Remaining provisions of said section 744e of title 18, U.S.C., 1940 ed., relating to authorization of appropriations, were omitted as unnecessary.
 

@@ -52,7 +52,3 @@ Center Defined.—For purposes of this section, the term ‘Center’ means the 
 
 Expiration of Authority.—No student may be admitted to the Center under subsection (a) to commence a program of instruction beginning after September 30, 1997.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4412, 4413, 4414 of this title.
-

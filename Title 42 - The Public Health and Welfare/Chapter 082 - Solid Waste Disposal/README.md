@@ -323,6 +323,21 @@
 | (a) | Compliance. |
 | (b) | Licenses and permits. |
 | [6965\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006965%20-%20Chief%20Financial%20Officer%20report.md) | Chief Financial Officer report. |
+| [6966\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966%20-%20Increased%20use%20of%20recovered%20mineral%20component%20in%20federally%20funded%20projects%20involving%20procurement%20of%20cement%20or%20concrete.md) | Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete. |
+| (a) | Definitions. |
+| (b) | Implementation of requirements. |
+| (c) | Full implementation study. |
+| (d) | Additional procurement requirements. |
+| (e) | Effect of section. |
+| [6966a.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966a%20-%20Increased%20use%20of%20recovered%20mineral%20component%20in%20federally%20funded%20projects%20involving%20procurement%20of%20cement%20or%20concrete.md) | Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete. |
+| (a) | Definitions. |
+| (b) | Implementation of requirements. |
+| (c) | Full implementation study. |
+| (d) | Additional procurement requirements. |
+| (e) | Effect of section. |
+| [6966b.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966b%20-%20Use%20of%20granular%20mine%20tailings.md) | Use of granular mine tailings. |
+| (a) | Mine tailings. |
+| (b) | Effect of sections. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -434,6 +449,7 @@
 | (a) | Underground storage tanks. |
 | (b) | Agency designation. |
 | (c) | State inventories. |
+| (d) | Public record. |
 | [6991b.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991b%20-%20Release%20detection%2C%20prevention%2C%20and%20correction%20regulations.md) | Release detection, prevention, and correction regulations. |
 | (a) | Regulations. |
 | (b) | Distinctions in regulations. |
@@ -443,23 +459,28 @@
 | (f) | Effective dates. |
 | (g) | Interim prohibition. |
 | (h) | EPA response program for petroleum. |
+| (i) | Additional measures to protect groundwater from contamination. |
+| (j) | Government-owned tanks. |
 | [6991c.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991c%20-%20Approval%20of%20State%20programs.md) | Approval of State programs. |
 | (a) | Elements of State program. |
 | (b) | Federal standards. |
 | (c) | Financial responsibility. |
 | (d) | EPA determination. |
 | (e) | Withdrawal of authorization. |
+| (f) | Trust Fund distribution. |
 | [6991d.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991d%20-%20Inspections%2C%20monitoring%2C%20testing%2C%20and%20corrective%20action.md) | Inspections, monitoring, testing, and corrective action. |
 | (a) | Furnishing information. |
 | (b) | Confidentiality. |
+| (c) | Inspection requirements. |
 | [6991e.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991e%20-%20Federal%20enforcement.md) | Federal enforcement. |
 | (a) | Compliance orders. |
 | (b) | Procedure. |
 | (c) | Contents of order. |
 | (d) | Civil penalties. |
+| (e) | Incentive for performance. |
 | [6991f.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991f%20-%20Federal%20facilities.md) | Federal facilities. |
-| (a) | Application of subchapter. |
-| (b) | Presidential exemption. |
+| (a) | In general. |
+| (b) | Review of and report on Federal underground storage tanks. |
 | [6991g.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991g%20-%20State%20authority.md) | State authority. |
 | [6991h.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991h%20-%20Study%20of%20underground%20storage%20tanks.md) | Study of underground storage tanks. |
 | (a) | Petroleum tanks. |
@@ -468,7 +489,21 @@
 | (d) | Farm and heating oil tanks. |
 | (e) | Reports. |
 | (f) | Reimbursement. |
-| [6991i.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991i%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [6991i.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991i%20-%20Operator%20training.md) | Operator training. |
+| (a) | Guidelines. |
+| (b) | State programs. |
+| (c) | Training. |
+| [6991j.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991j%20-%20Use%20of%20funds%20for%20release%20prevention%20and%20compliance.md) | Use of funds for release prevention and compliance. |
+| [6991k.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991k%20-%20Delivery%20prohibition.md) | Delivery prohibition. |
+| (a) | Requirements. |
+| (b) | Effect on State authority. |
+| (c) | Defense to violation. |
+| 6991<i>l.</i> | Tanks on tribal lands. |
+| (a) | Strategy. |
+| (b) | Report. |
+| (c) | Not a safe harbor. |
+| (d) | State authority. |
+| [6991m.](Subchapter%20009%20%28IX%29%20-%20Regulation%20of%20Underground%20Storage%20Tanks/%C2%A7%2006991m%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

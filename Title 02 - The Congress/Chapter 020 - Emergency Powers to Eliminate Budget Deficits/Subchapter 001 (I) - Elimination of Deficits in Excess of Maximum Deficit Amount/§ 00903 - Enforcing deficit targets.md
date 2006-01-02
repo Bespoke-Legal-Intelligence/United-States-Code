@@ -18,7 +18,7 @@ The excess deficit is, if greater than zero, the estimated deficit for the budge
 
 #### (c) Dividing sequestration
 
-To eliminate the excess deficit in a budget year, half of the required outlay reductions shall be obtained from non-exempt defense accounts (accounts designated as function 050 in the President's fiscal year 1991 budget submission) and half from non-exempt, non-defense accounts (all other non-exempt accounts).
+To eliminate the excess deficit in a budget year, half of the required outlay reductions shall be obtained from non-exempt defense accounts (accounts designated as function 050 in thePresident's fiscal year 1991 budget submission) and half from non-exempt, non-defense accounts (all other non-exempt accounts).
 
 #### (d) Defense
 
@@ -40,7 +40,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;(A) If additional reductions in non-defense accounts are required to be made, each remaining non-exempt, non-defense account shall be reduced by the uniform percentage necessary to make the reductions in non-defense outlays required by subsection (c) of this section, except that—
 
-&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reducedby more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
+&emsp;&emsp;(i) the medicare program specified in section 906(d) of this title shall not be reduced by more than 2 percent in total including any reduction of less than 2 percent made under section 902 of this title or, if it has been reduced by 2 percent or more under section 902 of this title, it may not be further reduced under this section; and
 
 &emsp;&emsp;(ii) the health programs set forth in section 906(e) of this title shall not be reduced by more than 2 percent in total (including any reduction made under section 901 of this title),
 
@@ -86,7 +86,7 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 &emsp;&emsp;&emsp;(i) the estimates of direct spending and receipts legislation transmitted under section 902(d) of this title applicable to each such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the estimated amount of savings in direct spending programs applicable to each such fiscal year resulting from the prior year's sequestration under this section or section 902 of this title of directspending, if any, as contained in OMB's final sequestration report for that year.
+&emsp;&emsp;&emsp;(ii) the estimated amount of savings in direct spending programs applicable to each such fiscal year resulting from the prior year's sequestration under this section or section 902 of this title of direct spending, if any, as contained in OMB's final sequestration report for that year.
 
 &emsp;&emsp;(C) The amount calculated under subparagraph (B) shall be subtracted from the amount calculated under subparagraph (A).
 

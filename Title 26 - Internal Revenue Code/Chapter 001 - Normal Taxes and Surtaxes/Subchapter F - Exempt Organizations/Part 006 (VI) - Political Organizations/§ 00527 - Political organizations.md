@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (3) Certain separate segregated funds
 
-&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18) or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2)) which is maintained by an organization described in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
+&emsp;For purposes of this subsection and subsection (e)(1), a separate segregated fund (within the meaning of section 610 of title 18) or of any similar State statute, or within the meaning of any State statute which permits the segregation of dues moneys for exempt functions (within the meaning of subsection (e)(2)) which is maintained by an organizationdescribed in section 501(c) which is exempt from tax under section 501(a) shall be treated as a separate organization.
 
 #### (g) Treatment of newsletter funds
 
@@ -368,7 +368,7 @@ The Secretary may waive all or any portion of the—
 
 > on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18,1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934.)
 
 #### References in Text
 
@@ -526,7 +526,7 @@ Amendment by section 301(b)(6) of Pub. L. 95–600 applicable to taxable years b
 
 Section 302(b) of Pub. L. 95–502, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974, except that notwithstanding any other provision of law to the contrary, no amounts held at the date of enactment of this bill \[Oct. 21, 1978\] by an organization described in section 527(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in escrow, in separate accounts for the payment of Federal taxes, or in any other fund which are proceeds described in section 527(c)(3)(D) of such Code may be used, directly or indirectly, to make a contribution or expenditure (as defined in section 301(e) and (f) of the Federal Election Campaign Act of 1971; 2 U.S.C. 431(f)) in connection with any election held before January 1, 1979.
+“(1) The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1974, except that notwithstanding any other provision of law to the contrary, no amounts held at the date of enactment of this bill \[Oct. 21, 1978\] by an organization described in section 527(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in escrow, in separate accounts for the payment of Federal taxes, or in any other fund which are proceeds described in section 527(c)(3)(D) of such Code may be used, directly or indirectly, to make a contribution or expenditure (as defined in section 301(e) and (f) of theFederal Election Campaign Act of 1971; 2 U.S.C. 431(f)) in connection with any election held before January 1, 1979.
 
 “(2) Such amounts as described in (1) above shall not be considered as security or collateral for any loan by any State or national bank or any other person or organization.”
 
@@ -553,8 +553,4 @@ In General.—The Secretary of the Treasury, in consultation with the Federal El
 “(b)
 
 Information.—Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[2 U.S.C. 431 et seq.\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 84, 2501, 6012, 6033, 6104, 6113, 6652, 6711, 7207 of this title; title 2 sections 441b, 441i.
 

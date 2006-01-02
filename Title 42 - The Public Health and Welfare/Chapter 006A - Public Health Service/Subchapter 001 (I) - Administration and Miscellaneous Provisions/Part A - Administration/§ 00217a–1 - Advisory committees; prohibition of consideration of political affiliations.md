@@ -1,6 +1,6 @@
 ### §217a–1. Advisory committees; prohibition of consideration of political affiliations
 
-All appointments to advisory committees established to assist in implementing the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 \[42 U.S.C. 2689 et seq., 6000 et seq.\], and the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 \[42 U.S.C. 4541 et seq.\], shall be made without regard to political affiliation.
+All appointments to advisory committees established to assist in implementing the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963 \[42 U.S.C. 2689 et seq., 6000 et seq.\], and the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of1970 \[42 U.S.C. 4541 et seq.\], shall be made without regard to political affiliation.
 
 (Pub. L. 94–278, title X, §1001, Apr. 22, 1976, 90 Stat. 415.)
 

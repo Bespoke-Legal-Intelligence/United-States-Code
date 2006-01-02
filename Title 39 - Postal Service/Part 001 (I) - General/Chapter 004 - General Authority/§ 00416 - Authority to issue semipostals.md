@@ -130,7 +130,7 @@ Rate of postage.—\[Amended subsec. (c) of this section.\]
 
 &emsp;“(2)
 
-Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Federal Emergency Management Agency under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
+Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Federal Emergency Management Agency under such arrangements as the Postal Service shall by mutual agreement with such agencyestablish in order to carry out the purposes of this section.
 
 &emsp;“(3)
 

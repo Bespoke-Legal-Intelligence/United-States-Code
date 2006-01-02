@@ -28,7 +28,3 @@ Section 2831(b) of Pub. L. 101–189 provided that: “The amendments made by su
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2822 of this title.
-

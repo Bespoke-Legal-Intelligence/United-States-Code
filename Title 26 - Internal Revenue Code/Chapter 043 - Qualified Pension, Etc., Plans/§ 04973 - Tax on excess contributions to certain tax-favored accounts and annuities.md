@@ -38,7 +38,7 @@ For purposes of this section, in the case of individual retirement accounts or i
 
 #### (c) Section 403(b) contracts
 
-For purposes of this section, in the case of a custodial account referred to in subsection (a)(2), the term “excess contributions” means the sum of—
+For purposes of this section, in the case of a custodial account referred to in subsection (a)(3), the term “excess contributions” means the sum of—
 
 &emsp;(1) the excess (if any) of the amount contributed for the taxable year to such account (other than a rollover contribution described in section 403(b)(8) or 408(d)(3)(A)(iii)), over the lesser of the amount excludable from gross income under section 403(b) or the amount permitted to be contributed under the limitations contained in section 415 (or under whichever such section is applicable, if only one is applicable), and
 
@@ -64,7 +64,7 @@ For purposes of this section, in the case of Archer MSAs (within the meaning of 
 
 &emsp;&emsp;&emsp;(ii) the amount contributed to the accounts for the taxable year.
 
-> For purposes of this subsection, any contribution which is distributed out of the Archer MSAin a distribution to which section 220(f)(3) or section 138(c)(3) applies shall be treated as an amount not contributed.
+> For purposes of this subsection, any contribution which is distributed out of the Archer MSA in a distribution to which section 220(f)(3) or section 138(c)(3) applies shall be treated as an amount not contributed.
 
 #### (e) Excess contributions to Coverdell education savings accounts
 
@@ -126,13 +126,15 @@ For purposes of this section, in the case of health savings accounts (within the
 
 > For purposes of this subsection, any contribution which is distributed out of the health savings account in a distribution to which section 223(f)(3) applies shall be treated as an amount not contributed.
 
-(Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §1704(t)(70), (72), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 104–191, title III, §301(e), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–33, title IV, §4006(b)(1), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title II, §213(d), title III, §302(b), Aug. 5, 1997, 111 Stat. 817, 828; Pub. L. 105–206, title VI, §§6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, 112 Stat. 795, 799, 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title IV, §§401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, §641(e)(11), June 7, 2001, 115 Stat. 57, 60, 121; Pub. L. 107–22, §1(b)(1)(C), (2)(B), (4), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(e), Dec. 8, 2003, 117 Stat. 2478.)
+(Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §1704(t)(70), (72), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 104–191, title III, §301(e), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–33, title IV, §4006(b)(1), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title II, §213(d), title III, §302(b), Aug. 5, 1997, 111 Stat. 817, 828; Pub. L. 105–206, title VI, §§6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, 112 Stat. 795, 799, 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title IV, §§401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, §641(e)(11), June 7, 2001, 115 Stat. 57, 60, 121; Pub. L. 107–22, §1(b)(1)(C), (2)(B), (4), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(e), Dec. 8, 2003, 117 Stat. 2478; Pub. L. 108–311, title IV, §408(a)(22), Oct. 4, 2004, 118 Stat. 1192.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–311 substituted “subsection (a)(3)” for “subsection (a)(2)” in introductory provisions.
 
 2003—Subsec. (a)(5). Pub. L. 108–173, §1201(e)(1), added par. (5).
 
@@ -212,11 +214,11 @@ Subsec. (a). Pub. L. 98–369, §491(d)(41), inserted “or” at end of par. (1
 
 Subsec. (b). Pub. L. 98–369, §491(d)(43), substituted in provision following par. (2)(C) “or the individual retirement annuity” for “, individual retirement annuity, or bond”.
 
-Subsec. (b)(1)(A). Pub. L. 98–369, §491(d)(42), which directed the amendment of subpar. (A) by substituting “and 408(d)(3)” for “408(d)(3), and 409(b)(3)(C)” was executed, as the probable intent of Congress, by substituting “or 408(d)(3))” for “408(d)(3)), or 409(b)(3)(C)”.
+Subsec. (b)(1)(A). Pub. L. 98–369, §491(d)(42), which directed the amendment of subpar. (A) by substituting“and 408(d)(3)” for “408(d)(3), and 409(b)(3)(C)” was executed, as the probable intent of Congress, by substituting “or 408(d)(3))” for “408(d)(3)), or 409(b)(3)(C)”.
 
 Subsec. (c)(1). Pub. L. 98–369, §491(d)(44), substituted “or 408(d)(3)(A)(iii)” for “, 408(d)(3)(A)(iii), or 409(b)(3)(C)”.
 
-1981—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted “The tax imposed by this subsection shall be paid by such individual” for “The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1)thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”.
+1981—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted “The tax imposed by this subsection shall be paid by such individual” for “The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”.
 
 Subsec. (b)(1)(A). Pub. L. 97–34, §313(b)(2), inserted “405(d)(3),” after “403(b)(8),”.
 
@@ -294,7 +296,7 @@ Amendment by section 1848(f) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -335,8 +337,4 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 219, 408, 6058 of this title.
 

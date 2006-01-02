@@ -24,7 +24,7 @@ Such separate regulations shall also contain a distinct part to cover and pertai
 
 #### (c) Scope of alternative regulations
 
-Such alternative regulations may pertain only to the standards governing onsite handling of spoils, elimination of depressions capable of collecting water, creation of impoundments, and regrading to the approximate original contour and shall specify that remaining highwalls are stable. All other performance standards in this subchapter shall apply to such mines.
+Such alternative regulations may pertain only to the standards governing onsite handling of spoils, elimination of depressions capable of collecting water, creation of impoundments, and regrading to the approximate original contour and shall specify that remaining highwalls arestable. All other performance standards in this subchapter shall apply to such mines.
 
 (Pub. L. 95–87, title V, §527, Aug. 3, 1977, 91 Stat. 513.)
 

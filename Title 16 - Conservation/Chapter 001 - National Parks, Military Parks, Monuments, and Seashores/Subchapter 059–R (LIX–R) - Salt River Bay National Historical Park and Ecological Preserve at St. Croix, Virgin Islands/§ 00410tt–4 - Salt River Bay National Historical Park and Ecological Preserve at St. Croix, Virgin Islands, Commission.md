@@ -46,7 +46,7 @@ Members of the Commission shall serve without compensation as such, but the Secr
 
 #### (h) Federal Advisory Committee Act
 
-Except with respect to the provisions of section 14(b) of the Federal Advisory CommitteeAct, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Commission.
+Except with respect to the provisions of section 14(b) of the Federal Advisory Committee Act, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Commission.
 
 #### (i) Termination
 

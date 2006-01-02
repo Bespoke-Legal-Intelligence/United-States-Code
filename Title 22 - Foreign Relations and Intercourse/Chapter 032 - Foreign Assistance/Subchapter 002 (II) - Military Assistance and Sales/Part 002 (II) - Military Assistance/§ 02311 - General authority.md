@@ -24,7 +24,7 @@ In addition to such other terms and conditions as the President may determine pu
 
 &emsp;(4) the agency making the loan is reimbursed for the loan based on the amount charged to the appropriation for military assistance under subsection (c) of this section; and
 
-&emsp;(5) the loan agreement provides that (A) if the defense article is damaged while on loan, the country or international organization to which it was loaned will reimburse the United States for the cost of restoring or replacing the defense article, and (B) if the defense article is lost or destroyed while on loan, the country or international organization to which it was loaned will pay to the United States an amount equal to the replacement cost (less any depreciation in the value) of the defense article.
+&emsp;(5) the loan agreement provides that (A) if the defense article is damaged while on loan,the country or international organization to which it was loaned will reimburse the United States for the cost of restoring or replacing the defense article, and (B) if the defense article is lost or destroyed while on loan, the country or international organization to which it was loaned will pay to the United States an amount equal to the replacement cost (less any depreciation in the value) of the defense article.
 
 #### (c) Appropriation charges; exceptions
 
@@ -90,7 +90,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Reports to Congressional Committees
 
@@ -98,7 +98,7 @@ Section 301 of Pub. L. 100–461 provided: “That the Committees on Appropriati
 
 #### Findings by Secretary of State
 
-The Secretary of State, in the implementation of the functions delegated to him under section 2314(a)(1), (4), and (e) of this title, was authorized by section 1–701(e)(1) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title, to find, in the case of a proposed transfer of a defense article or a related training or a related defense service by a foreign country or international organization to a foreign country or international organization not otherwise eligible under subsec. (a) of this section, whether the proposed transfer would strengthen the security of the United States and promote world peace.
+The Secretary of State, in the implementation of the functions delegated to him under section 2314(a)(1), (4),and (e) of this title, was authorized by section 1–701(e)(1) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56678, eff. Oct. 1, 1979, set out as a note under section 2381 of this title, to find, in the case of a proposed transfer of a defense article or a related training or a related defense service by a foreign country or international organization to a foreign country or international organization not otherwise eligible under subsec. (a) of this section, whether the proposed transfer would strengthen the security of the United States and promote world peace.
 
 #### Review of Military Assistance Program; Reduction and Elimination Plan; Submittal to Congress
 

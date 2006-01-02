@@ -10,7 +10,7 @@ From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secreta
 
 #### (b) Remainder
 
-Subject to the provisions of subsection (a) of this section, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title to the Pacific Region Educational Laboratory in Honolulu, Hawaii, to make grants for vocational and technical education and training in Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, andthe Republic of Palau, for the purpose of providing direct vocational and technical educational services, including—
+Subject to the provisions of subsection (a) of this section, the Secretary shall make a grant of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title to the Pacific Region Educational Laboratory in Honolulu, Hawaii, to make grants for vocational and technical education and training in Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, for the purpose of providing direct vocational and technical educational services, including—
 
 &emsp;(1) teacher and counselor training and retraining;
 
@@ -24,7 +24,7 @@ The Pacific Region Educational Laboratory may use not more than 5 percent of the
 
 #### (d) Restriction
 
-Notwithstanding any other provision of law, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau shall not receive any funds under this subchapter for any fiscal year that begins after September 30, 2001.
+Notwithstanding any other provision of law, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic ofPalau shall not receive any funds under this subchapter for any fiscal year that begins after September 30, 2001.
 
 (Pub. L. 88–210, title I, §115, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3094.)
 

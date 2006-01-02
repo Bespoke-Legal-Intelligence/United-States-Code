@@ -4,7 +4,7 @@ It shall be the duty and function of the Council—
 
 &emsp;(1) to assist and advise the President in the preparation of the Environmental Quality Report required by section 4341 <sup>1</sup> of this title;
 
-&emsp;(2) to gather timely and authoritative information concerning the conditions and trends in the quality of the environment both current and prospective, to analyze and interpret such information for the purpose of determining whether such conditions and trends are interfering, or are likely to interfere, with the achievement of the policy set forth in subchapter I of this chapter, and to compile and submit to the President studies relating to such conditions and trends;
+&emsp;(2) to gather timely and authoritative information concerning the conditions and trends in the quality of the environment both currentand prospective, to analyze and interpret such information for the purpose of determining whether such conditions and trends are interfering, or are likely to interfere, with the achievement of the policy set forth in subchapter I of this chapter, and to compile and submit to the President studies relating to such conditions and trends;
 
 &emsp;(3) to review and appraise the various programs and activities of the Federal Government in the light of the policy set forth in subchapter I of this chapter for the purpose of determining the extent to which such programs and activities are contributing to the achievement of such policy, and to make recommendations to the President with respect thereto;
 
@@ -26,7 +26,7 @@ Section 4341 of this title, referred to in par. (1), was omitted from the Code.
 
 #### Transfer of Functions
 
-So much of functions of Council on Environmental Quality under par. (4) of this section as pertains to ecological systems transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(5), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out under section 4321 of this title.
+So much of functions of Council on Environmental Quality under par. (5) of this section as pertains to ecological systems transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(5), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out under section 4321 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -54,7 +54,7 @@ Pub. L. 102–484, div. D, title XLIV, subtitle B, Oct. 23, 1992, 106 Stat. 2712
 
 #### “SEC. 4411. FORCE REDUCTION TRANSITION PERIOD DEFINED.
 
-“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reductiontransition period’ means the period beginning on October 1, 1991, and ending on December 31, 2001.
+“In this subtitle \[subtitle B (§§4411–4422) of title XLIV of div. D of Pub. L. 102–484\], the term ‘force reduction transition period’ means the period beginning on October 1, 1991, and ending on December 31, 2001.
 
 #### “SEC. 4412. MEMBER OF SELECTED RESERVE DEFINED.
 
@@ -100,7 +100,7 @@ Minimum Requirements for Plan.—The regulations shall include the following:
 
 &emsp;“(2) The giving of a priority to such personnel for transfer among the reserve components of the Armed Forces in order to facilitate reassignment to such units.
 
-&emsp;“(3) A requirement that the Secretaries of the military departments take diligent actions to ensure that members of the reserve components of the Armed Forces are informed in easily understandable terms of the rights and benefits conferred upon such personnel by this subtitle, by the amendments made by this subtitle, and by such regulations.
+&emsp;“(3) A requirement that the Secretaries of the military departments take diligent actions to ensure thatmembers of the reserve components of the Armed Forces are informed in easily understandable terms of the rights and benefits conferred upon such personnel by this subtitle, by the amendments made by this subtitle, and by such regulations.
 
 &emsp;“(4) Such other protections, preferences, and benefits as the Secretary of Defense considers appropriate.
 
@@ -190,7 +190,7 @@ Clerical Amendment.—\[Amended analysis of chapter 67 \[now 1223\] of this titl
 
 “(a)
 
-Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least 6 years of service computed under section 12732 of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
+Eligibility.—Subject to section 4415, a member of the Selected Reserve who, after completing at least6 years of service computed under section 12732 of title 10, United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
 
 “(b)
 

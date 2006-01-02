@@ -62,7 +62,7 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 &emsp;This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
 
-(Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct.28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275.)
+(Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsec. (i). Pub. L. 104–29, §8, added subsec. (i).
 
 1984—Subsec. (e). Pub. L. 98–479 redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
 
-1980—Subsec. (a). Pub. L. 96–221, §612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
+1980—Subsec. (a). Pub. L. 96–221, §612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnightof the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
 
 Subsec. (b). Pub. L. 96–221, §612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
 

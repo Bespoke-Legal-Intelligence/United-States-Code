@@ -22,25 +22,15 @@ An individual shall not be allowed—
 
 For purposes of this section, the term “specified possession” means Guam, American Samoa, and the Northern Mariana Islands.
 
-#### (d) Special rules
+#### (d) Employees of the United States
 
-For purposes of this section—
+Amounts paid for services performed as an employee of the United States (or any agency thereof) shall be treated as not described in paragraph (1) or (2) of subsection (a).
 
-#### (1) Employees of the United States
-
-&emsp;Amounts paid for services performed as an employee of the United States (or any agency thereof) shall be treated as not described in paragraph (1) or (2) of subsection (a).
-
-#### (2) Determination of source, etc.
-
-&emsp;The determination as to whether income is described in paragraph (1) or (2) of subsection (a) shall be made under regulations prescribed by the Secretary.
-
-#### (3) Determination of residency
-
-&emsp;For purposes of this section and section 876, the determination of whether an individual is a bona fide resident of Guam, American Samoa, or the Northern Mariana Islands shall be made under regulations prescribed by the Secretary.
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 291; Pub. L. 89–809, title I, §107(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 92–178, title V, §502(d), Dec. 10, 1971, 85 Stat. 550; Pub. L. 92–606, §1(f)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title X, §1051(c), title XIX, §§1901(a)(117), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1645, 1784, 1834; Pub. L. 95–30, title I, §101(d)(12), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 99–514, title XII, §1272(a), Oct. 22, 1986, 100 Stat. 2593.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 291; Pub. L. 89–809, title I, §107(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 92–178, title V, §502(d), Dec. 10, 1971, 85 Stat. 550; Pub. L. 92–606, §1(f)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title X, §1051(c), title XIX, §§1901(a)(117), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1645, 1784, 1834; Pub. L. 95–30, title I, §101(d)(12), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 99–514, title XII, §1272(a), Oct. 22, 1986, 100 Stat. 2593; Pub. L. 108–357, title VIII, §908(c)(1), Oct. 22, 2004, 118 Stat. 1656.)
 
 #### Amendments
+
+2004—Subsec. (d). Pub. L. 108–357 amended heading and text of subsec. (d) generally, substituting provisions relating to employees of the United States for provisions consisting of pars. (1) to (3) relating to special rules concerning employees of the United States, determination of source of income, and determination of residency.
 
 1986—Pub. L. 99–514 amended section generally, substituting provisions relating to income from sources within Guam, American Samoa, or the Northern Mariana Islands, for former provisions relating to income from sources within possessions of the United States, which had declared in: subsec. (a), general rule as to gross income, including requirements relating to 3-year period and trade or business; subsec. (b), rule as to amounts received in United States; subsec. (c), definition of “possession of the United States”; subsec. (d), general rule allowing deductions only to extent connected with income from sources within United States, and specific exceptions to limitations of general rule; subsec. (e), deduction for personal exemption; subsec. (f), allowance of deductions and credits; subsec. (g), foreign tax credit; subsec. (h), provisions relating to employees of United States.
 
@@ -64,13 +54,17 @@ Subsecs. (h), (i). Pub. L. 94–455, §1901(a)(117), redesignated subsec. (i) as
 
 1966—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in trade or business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) of Pub. L. 108–357, set out as an Effective Date note under section 937 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Section 1277 of subtitle G (§§1271–1277) of title XII of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(z), Nov. 10, 1988, 102 Stat. 3530, provided that:
 
 “(a)
 
-In General.—Except as otherwise provided in this section, the amendments made by this subtitle \[enacting section 932 of this title, amending this section and sections 28, 32, 48, 63, 153, 246, 338, 864, 876, 881, 933, 934, 936, 957, 1402, 1442, 3401, 6091, 7651, 7654, and 7655 ofthis title, repealing sections 932, 934A, and 935 of this title, and enacting provisions set out as notes under this section and section 932 of this title\] shall apply to taxable years beginning after December 31, 1986.
+In General.—Except as otherwise provided in this section, the amendments made by this subtitle \[enacting section 932 of this title, amending this section and sections 28, 32, 48, 63, 153, 246, 338, 864, 876, 881, 933, 934, 936, 957, 1402, 1442, 3401, 6091, 7651, 7654, and 7655 of this title, repealing sections 932, 934A, and 935 of this title, and enacting provisions set out as notes under this section and section 932 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
 “(b)
 
@@ -176,7 +170,7 @@ Amendment by section 1901(a)(117) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date of 1972 Amendment
 
-Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1 \[enacting sections 935and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972.”
+Section 2 of Pub. L. 92–606 provided in part that: “The amendments made by section 1 \[enacting sections 935 and 6688 of this title, amending this section, sections 932, 7654, and 7701 of this title, and section 1421i of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 881 and 1442 of this title\] (other than section 1(e)) \[amending sections 881 and 1442 of this title\] shall apply with respect to taxable years beginning after December 31, 1972.”
 
 #### Effective Date of 1971 Amendment
 
@@ -247,8 +241,4 @@ Mirror system.—For purposes of this section, the mirror system of taxation con
 &emsp;“(3)
 
 Special rule for northern mariana islands.—Notwithstanding the provisions of the last clause of section 601(a) of Public Law 94–241 \[48 U.S.C. 1801 note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 23, 24, 25A, 25B, 86, 135, 137, 168, 221, 222, 530, 865, 876, 901, 936, 1302, 1400C, 1402, 1504, 6091, 6103, 7654, 7655 of this title; title 42 sections 411, 1395r; title 48 section 1421i.
 

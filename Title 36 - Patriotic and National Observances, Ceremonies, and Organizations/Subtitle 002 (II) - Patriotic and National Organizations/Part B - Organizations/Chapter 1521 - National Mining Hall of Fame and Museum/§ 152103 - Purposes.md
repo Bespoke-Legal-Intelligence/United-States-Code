@@ -6,7 +6,7 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 &emsp;(2) perpetuating the memory of those individuals and recording their contributions and achievements by the erection and maintenance of buildings, monuments, and edifices considered appropriate as a lasting memorial;
 
-&emsp;(3) fostering, promoting, and encouraging a better understanding of the origins and growth of mining, especially in the United States, and the part mining has played in changing the economic, social, and scientific aspects of our country;
+&emsp;(3) fostering, promoting, and encouraging a better understanding of the origins and growth of mining, especially in the United States, and the part mining has played in changing theeconomic, social, and scientific aspects of our country;
 
 &emsp;(4) establishing and maintaining a library and museum for collecting and preserving for posterity, the history of those honored by the corporation, together with a documentation of their accomplishments and contributions to mining, including such items as mining pictures, paintings, books, papers, documents, scientific data, relics, mementos, artifacts, and things relating to those items;
 

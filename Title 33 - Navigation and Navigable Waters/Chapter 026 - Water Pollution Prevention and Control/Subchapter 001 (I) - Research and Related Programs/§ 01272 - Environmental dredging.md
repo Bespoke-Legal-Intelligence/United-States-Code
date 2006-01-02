@@ -50,7 +50,7 @@ In carrying out this section, the Secretary shall give priority to work in the f
 
 Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, a non-Federal sponsor may include a nonprofit entity, with the consent of the affected local government.
 
-(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §224, Aug. 17, 1999, 113 Stat. 297; Pub. L. 106–541, title II, §210(a), Dec. 11, 2000, 114 Stat. 2592.)
+(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12,1996, 110 Stat. 3679; Pub. L. 106–53, title II, §224, Aug. 17, 1999, 113 Stat. 297; Pub. L. 106–541, title II, §210(a), Dec. 11, 2000, 114 Stat. 2592.)
 
 #### References in Text
 

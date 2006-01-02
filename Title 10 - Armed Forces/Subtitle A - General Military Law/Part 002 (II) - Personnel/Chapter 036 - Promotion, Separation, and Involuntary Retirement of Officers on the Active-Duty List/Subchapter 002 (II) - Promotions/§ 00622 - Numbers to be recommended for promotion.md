@@ -4,7 +4,3 @@ Before convening a selection board under section 611(a) of this title for any gr
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2856.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 615 of this title.
-

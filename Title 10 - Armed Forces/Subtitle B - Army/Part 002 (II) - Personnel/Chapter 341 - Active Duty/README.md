@@ -11,7 +11,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–337, div. A, title XVI, §1672(b)(4), Oct. 5, 1994, 108 Stat. 3015, struck out items 3495 “Army National Guard of United States: status”, 3496 “Army National Guard of United States: commissioned officers; duty in National Guard Bureau”, 3497 “Army National Guard of United States: members; status in which ordered into Federal service”, 3498 “Army National Guard of United States: mobilization; maintenance of organization”, 3499 “Army National Guard in Federal service: status”, 3500 “Army National Guard in Federal service: call”, 3501 “Army National Guard in Federal service: period of service; apportionment”, and 3502 “Army National Guard in Federal service: physical examination”.
+1994—Pub. L. 103–337, div. A, title XVI, §1672(b)(4), Oct. 5, 1994, 108 Stat. 3015, struck out items 3495 “Army National Guard of United States: status”, 3496 “Army National Guard of United States: commissioned officers; duty in National Guard Bureau”, 3497 “Army National Guard of United States: members; status in which ordered into Federal service”, 3498 “Army National Guard of United States: mobilization; maintenance of organization”, 3499 “Army National Guard in Federal service: status”, 3500 “Army National Guard in Federal service: call”, 3501 “Army National Guard inFederal service: period of service; apportionment”, and 3502 “Army National Guard in Federal service: physical examination”.
 
 1980—Pub. L. 96–513, title V, §502(12), Dec. 12, 1980, 94 Stat. 2910, struck out item 3494 “Commissioned officers: grade in which ordered to active duty” and item 3504 “Retired members: limitations; grade”.
 

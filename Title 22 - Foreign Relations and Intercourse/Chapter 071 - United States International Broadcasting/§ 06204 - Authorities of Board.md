@@ -38,9 +38,13 @@ The Board shall have the following authorities:
 
 &emsp;(16) To procure, pursuant to section 1535 of title 31 (commonly known as the “Economy Act”), such goods and services from other departments or agencies for the Board and the International Broadcasting Bureau as the Board determines are appropriate.
 
-&emsp;(17) To utilize the provisions of titles III, IV, V, VII, VIII, IX, and X of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], and section 6 of Reorganization Plan Number 2 of 1977, as in effect on the day before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, to the extent the Board considers necessary in carrying out the provisions and purposes of this chapter.
+&emsp;(17) To utilize the provisions of titles III, IV, V, VII, VIII, IX, and X of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], and section 6 of Reorganization Plan Number 2 of 1977, as in effect on the day before the effective date of title XIII of the Foreign Affairs Agencies Consolidation Act of 1998, to the extent the Boardconsiders necessary in carrying out the provisions and purposes of this chapter.
 
 &emsp;(18) To utilize the authorities of any other statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding that had been available to the Director of the United States Information Agency, the Bureau, or the Board before the effective date of title XIII of the Foreign Affairs Consolidation Act of 1998 for carrying out the broadcasting activities covered by this chapter.
+
+&emsp;(19)(A) To provide for the payment of primary and secondary school expenses for dependents of personnel stationed in the Commonwealth of the Northern Mariana Islands (CNMI) at a cost not to exceed expenses authorized by the Department of Defense for such schooling for dependents of members of the Armed Forces stationed in the Commonwealth, if the Board determines that schools available in the Commonwealth are unable to provide adequately for the education of the dependents of such personnel.
+
+&emsp;(B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Board determines that such schools are not accessible by public means of transportation.
 
 #### (b) Delegation of authority
 
@@ -54,7 +58,7 @@ The Director of the Bureau and the grantees identified in sections 6207 and 6208
 
 The Secretary of State and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and the grantees of the Board.
 
-(Pub. L. 103–236, title III, §305, Apr. 30, 1994, 108 Stat. 435; Pub. L. 103–415, §1(s)(1), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(e)–(i), Oct. 21, 1998, 112 Stat. 2681–778, 2681–779; Pub. L. 107–228, div. A, title V, §507(1), Sept. 30, 2002, 116 Stat. 1394.)
+(Pub. L. 103–236, title III, §305, Apr. 30, 1994, 108 Stat. 435; Pub. L. 103–415, §1(s)(1), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(e)–(i), Oct. 21, 1998, 112 Stat. 2681–778, 2681–779; Pub. L. 107–228, div. A, title V, §507(1), Sept. 30, 2002, 116 Stat. 1394; Pub. L. 109–140, §8, Dec. 22, 2005, 119 Stat. 2652.)
 
 #### References in Text
 
@@ -75,6 +79,8 @@ For the effective date of title XIII of the Foreign Affairs Agencies Consolidati
 Section is comprised of section 305 of Pub. L. 103–236. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title.
 
 #### Amendments
+
+2005—Subsec. (a)(19). Pub. L. 109–140 added par. (19).
 
 2002—Subsec. (a)(4). Pub. L. 107–228 substituted “annually,” for “annually,,”.
 

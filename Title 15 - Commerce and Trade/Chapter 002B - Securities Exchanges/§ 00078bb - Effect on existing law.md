@@ -52,7 +52,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (i) Actions preserved
 
-&emsp;&emsp;&emsp;Notwithstanding paragraph (1) or (2), a covered class action described in clause (ii) of this subparagraph that is based uponthe statutory or common law of the State in which the issuer is incorporated (in the case of a corporation) or organized (in the case of any other entity) may be maintained in a State or Federal court by a private party.
+&emsp;&emsp;&emsp;Notwithstanding paragraph (1) or (2), a covered class action described in clause (ii) of this subparagraph that is based upon the statutory or common law of the State in which the issuer is incorporated (in the case of a corporation) or organized (in the case of any other entity) may be maintained in a State or Federal court by a private party.
 
 #### (ii) Permissible actions
 
@@ -114,7 +114,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (C) Exception for derivative actions
 
-&emsp;&emsp;Notwithstanding subparagraph (B), the term “covered class action” does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
+&emsp;&emsp;Notwithstanding subparagraph (B), the term “covered class action” does not includean exclusively derivative action brought by one or more shareholders on behalf of a corporation.
 
 #### (D) Counting of certain class members
 
@@ -126,7 +126,7 @@ No State or political subdivision thereof shall impose any tax on any change in 
 
 #### (F) Rule of construction
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a Statecourt in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
+&emsp;&emsp;Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
 (June 6, 1934, ch. 404, title I, §28, 48 Stat. 903; Pub. L. 94–29, §21, June 4, 1975, 89 Stat. 160; Pub. L. 97–303, §4, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title III, §§327–329, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 104–290, title I, §103(b), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title I, §101(b)(1), Nov. 3, 1998, 112 Stat. 3230; Pub. L. 106–554, §1(a)(5) \[title II, §§203(a)(2), 210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–436.)
 

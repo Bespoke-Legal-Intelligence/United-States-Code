@@ -8,13 +8,13 @@
 
 #### Historical and Revision Notes
 
-Subsection (a) is based on title 14, U.S.C., 1946 ed., §30 (Jan. 12, 1919, ch. 8, 40 Stat. 1054). Said section was changed to have application to the Coast Guard at all times, rather than when the Coast Guard is operating with the Navy.
+Subsection (a) is based on title 14, U.S.C., 1946 ed., §30 (Jan. 12, 1919, ch. 8, 40 Stat. 1054). Said section waschanged to have application to the Coast Guard at all times, rather than when the Coast Guard is operating with the Navy.
 
 Inasmuch as the act cited above applies equally to the Navy and Marine Corps as well as the Coast Guard, it is not scheduled for repeal but is being amended by section 9 of this act to eliminate reference to the Coast Guard.
 
 Subsection (b) is based on title 14, U.S.C., 1946, ed., §13, and on title 33, U.S.C., 1946 ed., §754 (July 1, 1898, ch. 346, §1, 30 Stat. 604; July 27, 1912, ch. 255, §2, 37 Stat. 239). Said section 13 was changed to have application to all enlisted personnel rather than to “crews of vessels in service” only. The provision of said section 754 which provided for the sale of clothing to civilian employees is eliminated as becoming obsolete.
 
-Subsection (c) is new. Title 37, U.S.C., 1946 ed., §110 authorizes the payment of a cash allowance in case clothing is not furnished to enlisted persons of the Coast Guard. Clearly this presumes the authority to issue clothing to enlisted persons; this section makesthe authority statutory. 81st Congress, House Report No. 557.
+Subsection (c) is new. Title 37, U.S.C., 1946 ed., §110 authorizes the payment of a cash allowance in case clothing is not furnished to enlisted persons of the Coast Guard. Clearly this presumes the authority to issue clothing to enlisted persons; this section makes the authority statutory. 81st Congress, House Report No. 557.
 
 #### Amendments
 

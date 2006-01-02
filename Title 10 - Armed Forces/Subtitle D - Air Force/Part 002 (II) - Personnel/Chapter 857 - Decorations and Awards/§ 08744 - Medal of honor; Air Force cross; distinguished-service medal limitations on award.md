@@ -68,7 +68,3 @@ Subsec. (d). Pub. L. 86–582, §1(3)(B), added subsec. (d).
 
 Section 2 of Pub. L. 86–593 provided that: “For the purposes of sections 8744(a) and 8750(b) of title 10, United States Code, a person who was awarded a distinguished-service cross or Soldier's Medal before the date of enactment of this Act \[July 6, 1960\] shall be treated as if he had not been awarded an Air Force cross or Airman's Medal, as the case may be.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8748 of this title.
-

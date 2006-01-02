@@ -60,7 +60,7 @@
 
 #### (1) Pro rata share
 
-&emsp;Subject to any election under section 2031(b)(1)(B) and (C) of this title and unlessotherwise expressly provided by a spousal agreement or court order under section 2094(b) of this title, if an annuitant is survived by a former spouse, the former spouse shall be entitled—
+&emsp;Subject to any election under section 2031(b)(1)(B) and (C) of this title and unless otherwise expressly provided by a spousal agreement or court order under section 2094(b) of this title, if an annuitant is survived by a former spouse, the former spouse shall be entitled—
 
 &emsp;&emsp;(A) if married to the annuitant throughout the creditable service of the annuitant, to a survivor annuity equal to 55 percent of the unreduced amount of the annuitant's annuity, as computed under section 2031(a) of this title; and
 
@@ -82,7 +82,7 @@
 
 #### (B) Limitation on other survivor annuities based on service of same participant
 
-&emsp;&emsp;Once a survivor annuity has been provided under this subsection for any former spouse, a survivor annuity for another individual may thereafter be provided under this subsection (or section 2031(b)(3) of this title) with respect to the participant only for that portion (if any) of the maximum available which is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
+&emsp;&emsp;Once a survivor annuity has been provided under this subsection for any former spouse, a survivor annuity for another individual may thereafter be provided under this subsection (or section 2031(b)(3) of this title) with respect to the participant only for that portion (if any) of the maximum availablewhich is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
 
 #### (C) Finality of court order upon death of participant
 
@@ -128,7 +128,7 @@
 
 #### (B) Actuarial equivalence to benefit
 
-&emsp;&emsp;The present value of the total amount to accrue to the fund under subparagraph (A) to provide any annuity under this subsection shall be actuarially equivalent in value tosuch annuity, as calculated upon such tables of mortality as may from time to time be prescribed for this purpose by the Director.
+&emsp;&emsp;The present value of the total amount to accrue to the fund under subparagraph (A) to provide any annuity under this subsection shall be actuarially equivalent in value to such annuity, as calculated upon such tables of mortality as may from time to time be prescribed for this purpose by the Director.
 
 #### (C) Effect of former spouse's death or disqualification
 

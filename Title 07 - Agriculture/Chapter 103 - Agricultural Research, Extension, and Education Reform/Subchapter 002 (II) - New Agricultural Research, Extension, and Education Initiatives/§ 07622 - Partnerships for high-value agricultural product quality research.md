@@ -2,7 +2,7 @@
 
 #### (a) “Eligible partnership” defined
 
-In this section, the term “eligible partnership” means a partnership consisting of a land-grant college or university and other entities specified in subsection (c)(1) of this section thatsatisfies the eligibility criteria specified in subsection (c) of this section.
+In this section, the term “eligible partnership” means a partnership consisting of a land-grant college or university and other entities specified in subsection (c)(1) of this section that satisfies the eligibility criteria specified in subsection (c) of this section.
 
 #### (b) Establishment of partnerships by grant
 

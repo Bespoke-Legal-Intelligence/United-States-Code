@@ -10,13 +10,17 @@ For purposes of this chapter—
 
 &emsp;(4) “freight forwarder” means any regulated freight forwarder which holds itself out to the general public as a carrier to transport or provide transportation of property as authorized by a registration issued by the Board;
 
-&emsp;(5) “motor carrier” means a motor carrier, except a passenger-carrying motor vehicle of such a carrier, within the meaning of section 13102(12) of title 49, that holds a registration issued by the Board;
+&emsp;(5) “motor carrier” means a motor carrier, except a passenger-carrying motor vehicle of such a carrier, within the meaning of section 13102(12) <sup>1</sup> of title 49, that holds a registration issued by the Board;
 
 &emsp;(6) “person” includes any person other than a carrier holding a certificate or registration issued by the Board; and
 
 &emsp;(7) “mail” includes equipment and supplies of the Postal Service.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 768; Pub. L. 95–473, §2(a)(4)(A)–(C), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–454, §3(b)(2), Oct. 15, 1980, 94 Stat. 2012; Pub. L. 97–261, §6(d)(4), Sept. 20, 1982, 96 Stat. 1107; Pub. L. 99–521, §4(3), Oct. 22, 1986, 100 Stat. 2993; Pub. L. 104–88, title III, §307(3)–(9), (14), Dec. 29, 1995, 109 Stat. 946.)
+
+#### References in Text
+
+Par. (12) of section 13102 of title 49, referred to in par. (5), was redesignated par. (14) by Pub. L. 109–59, title IV, §4202(b), Aug. 10, 2005, 119 Stat. 1751.
 
 #### Amendments
 
@@ -61,4 +65,6 @@ Amendment by Pub. L. 97–261 effective on 60th day after Sept. 20, 1982, see se
 #### Effective Date
 
 Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

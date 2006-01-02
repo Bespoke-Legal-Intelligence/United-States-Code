@@ -42,11 +42,11 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;&emsp;(C) Loans to other credit unions shall be approved by the board of directors.
 
-&emsp;&emsp;(D) Loans to credit union organizations shall be approved by the board of directors and shall not exceed 1 per centum of the paid-in and unimpaired capital and surplus of the credit union. A credit union organization means any organization as determined by the Board, which is established primarily to serve the needs of its member credit unions, and whose business relates to the daily operations of the credit unions they serve.
+&emsp;&emsp;(D) Loans to credit union organizations shall be approved by the board of directors and shall not exceed 1 per centum of the paid-in and unimpaired capital and surplus of the credit union. A credit union organization means any organization as determinedby the Board, which is established primarily to serve the needs of its member credit unions, and whose business relates to the daily operations of the credit unions they serve.
 
 &emsp;&emsp;(E) Participation loans with other credit unions, credit union organizations, or financial organizations shall be in accordance with written policies of the board of directors: <i>Provided</i>, That a credit union which originates a loan for which participation arrangements are made in accordance with this subsection shall retain an interest of at least 10 per centum of the face amount of the loan.
 
-&emsp;(6) to receive from its members, from other credit unions, from an officer, employee, or agent of those nonmember units of Federal, Indian tribal, State, or local governments and political subdivisions thereof enumerated in section 1787 of this title and in the manner so prescribed, from the Central Liquidity Facility, and from nonmembers in the case of creditunions serving predominately low-income members (as defined by the Board) payments, representing equity, on—
+&emsp;(6) to receive from its members, from other credit unions, from an officer, employee, or agent of those nonmember units of Federal, Indian tribal, State, or local governments and political subdivisions thereof enumerated in section 1787 of this title and in the manner so prescribed, from the Central Liquidity Facility, and from nonmembers in the case of credit unions serving predominately low-income members (as defined by the Board) payments, representing equity, on—
 
 &emsp;&emsp;(A) shares which may be issued at varying dividend rates;
 
@@ -60,7 +60,7 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 &emsp;(8) to make deposits in national banks and in State banks, trust companies, and mutual savings banks operating in accordance with the laws of the State in which the Federal credit union does business, or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, and for Federal credit unions or credit unions authorized by the Department of Defense operating suboffices on American military installations in foreign countries or trust territories of the United States to maintain demand deposit accounts in banks located in those countries or trust territories, subject to such regulations as may be issued by the Board and provided such banks are correspondents of banks described in this paragraph;
 
-&emsp;(9) to borrow, in accordance with such rules and regulations as may be prescribed by the Board, from any source, in an aggregate amount not exceeding, except as authorized by the Board in carrying out the provisions of subchapter III of this chapter, 50 per centum of its paid-in and unimpaired capital and surplus: <i>Provided</i>, That any Federal credit union may discount with or sell to any Federal intermediate credit bank any eligible obligations up to the amount of its paid-in and unimpaired capital;
+&emsp;(9) to borrow, in accordance with such rules and regulations as may be prescribed by the Board, from any source, in an aggregate amount not exceeding, except as authorized by the Board in carrying out the provisions of subchapter III of this chapter, 50 per centum of its paid-in and unimpaired capital and surplus: <i>Provided</i>, That any Federal credit union maydiscount with or sell to any Federal intermediate credit bank any eligible obligations up to the amount of its paid-in and unimpaired capital;
 
 &emsp;(10) to levy late charges, in accordance with the bylaws, for failure of members to meet promptly their obligations to the Federal credit union;
 
@@ -110,7 +110,7 @@ Pars. (15), (16). Pub. L. 98–440, §105(b), added par. (15) and redesignated f
 
 Par. (7)(K). Pub. L. 97–457, §26, redesignated cl. (L) as (K) and substituted a period for “; and” at end.
 
-1982—Par. (5)(A)(i). Pub. L. 97–320, §§507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,” after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
+1982—Par. (5)(A)(i). Pub. L. 97–320, §§507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,”after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
 
 Par. (5)(A)(ii). Pub. L. 97–320, §510, substituted “or a second mortgage loan secured by a residential dwelling” for “or for the repair, alteration, or improvement of a residential dwelling”.
 
@@ -126,7 +126,7 @@ Par. (7)(E). Pub. L. 97–320, §516, inserted provisions relating to instrument
 
 Par. (7)(L). Pub. L. 97–320, §514, added cl. (L).
 
-Par. (8). Pub. L. 97–320, §517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the FederalSavings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
+Par. (8). Pub. L. 97–320, §517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
 
 Par. (12). Pub. L. 97–320, §518, substituted “, money orders, and other similar money transfer instruments” for “and money orders”, and struck out “which does not exceed the direct and indirect costs incident to providing such service” after “for a fee”.
 
@@ -190,7 +190,7 @@ Pub. L. 90–375, §1(2), added cl. (G).
 
 Pars. (14), (15). Pub. L. 90–375, §1(3), added par. (14) and redesignated former par. (14) as (15).
 
-1967—Par. (5). Pub. L. 90–44, §2(1), substituted “may be made except as authorized under paragraph (6) of this section” for “shall exceed the amount of his holdings in the Federal Credit Union as represented by shares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member”.
+1967—Par. (5). Pub. L. 90–44, §2(1), substituted “may be made except as authorized under paragraph (6) of this section” for “shall exceed the amount of his holdings in the Federal Credit Union as represented byshares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member”.
 
 Pars. (6), (7). Pub. L. 90–44, §2(3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 

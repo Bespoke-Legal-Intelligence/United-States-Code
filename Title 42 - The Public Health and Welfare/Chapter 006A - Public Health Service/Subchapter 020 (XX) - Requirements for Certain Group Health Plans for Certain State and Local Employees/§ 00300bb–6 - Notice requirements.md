@@ -26,7 +26,7 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 
 #### Amendments
 
-1996—Par. (3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
+1996—Par. (3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverageunder this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
 
 1989—Par. (3). Pub. L. 101–239 inserted “and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days after the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled” after “date of the qualifying event”.
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 99–514 applicable only with respect to qualifying events 
 
 #### Notification to Covered Employees
 
-Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section\[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
+Section 10003(c) of Pub. L. 99–272 provided that: “At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[section 300bb–1 of this title\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[this subchapter\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[par. (1) of this section\] with respect to such individuals.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Applications.—A citizen of the United States may apply to the Secretary of Transportation for a certificate authorizing the citizen toprovide all-cargo air transportation. The application must contain information and be in the form the Secretary by regulation requires.
+Applications.—A citizen of the United States may apply to the Secretary of Transportation for a certificate authorizing the citizen to provide all-cargo air transportation. The application must contain information and be in the form the Secretary by regulation requires.
 
 (b)
 

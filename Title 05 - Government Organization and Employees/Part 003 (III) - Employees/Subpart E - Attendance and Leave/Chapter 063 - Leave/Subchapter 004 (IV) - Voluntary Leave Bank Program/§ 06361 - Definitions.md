@@ -44,7 +44,7 @@ Definitions.—For purposes of subsection (a), the term ‘employee’ means an 
 
 “(c)
 
-Deadline for Regulations.—Within 30 days after the date of the enactment of this Act \[June 18, 1991\], the Director of the Administration \[Administrative\] Office shall prescribe regulations necessary for the administration of subsection (a).”
+Deadline for Regulations.—Within 30 days after the date of the enactment of this Act \[June 18,1991\], the Director of the Administration \[Administrative\] Office shall prescribe regulations necessary for the administration of subsection (a).”
 
 #### Leave Bank for Federal Civilian Employees in Reserves Who Were Activated During Persian Gulf War
 

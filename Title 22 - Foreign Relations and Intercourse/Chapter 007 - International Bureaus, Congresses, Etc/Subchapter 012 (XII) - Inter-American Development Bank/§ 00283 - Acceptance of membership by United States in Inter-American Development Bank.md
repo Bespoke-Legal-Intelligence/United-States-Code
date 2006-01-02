@@ -6,7 +6,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### Short Title
 
-Section 1 of Pub. L. 86–147 provided that: “This Act \[enacting this subchapter and amending section 24 ofTitle 12, Banks and Banking\] may be cited as the ‘Inter-American Development Bank Act’.”
+Section 1 of Pub. L. 86–147 provided that: “This Act \[enacting this subchapter and amending section 24 of Title 12, Banks and Banking\] may be cited as the ‘Inter-American Development Bank Act’.”
 
 #### Proposals for Joint Act by Participants in Inter-American Development Bank for Increased Exploration and Exploitation of Energy and Mineral Resources of Western Hemisphere
 

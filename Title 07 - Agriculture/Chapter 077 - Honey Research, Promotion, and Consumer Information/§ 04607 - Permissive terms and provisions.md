@@ -18,7 +18,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 &emsp;(7) Providing for terms and conditions incidental to, and not inconsistent with, the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such an order.
 
-&emsp;(8) If approved in a referendum conducted under this chapter, providing authority for thedevelopment of programs and related rules and regulations that will, with the approval of the Secretary, establish minimum purity standards for honey and honey products that are designed to maintain a positive and wholesome marketing image for honey and honey products.
+&emsp;(8) If approved in a referendum conducted under this chapter, providing authority for the development of programs and related rules and regulations that will, with the approval of the Secretary, establish minimum purity standards for honey and honey products that are designed to maintain a positive and wholesome marketing image for honey and honey products.
 
 #### (b) Inspection and monitoring system
 
@@ -54,7 +54,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 &emsp;&emsp;(C) actions to encourage consumers to purchase honey and honey products bearing the official seal of approval; and
 
-&emsp;&emsp;(D) periodic inspections by the Secretary, or other parties approved by the Secretary, of honey and honey products of producers, handlers, and importers that participate in the voluntary program.
+&emsp;&emsp;(D) periodic inspections by the Secretary, or other parties approved by the Secretary, of honey and honey products of producers,handlers, and importers that participate in the voluntary program.
 
 #### (3) Display of seal of approval
 

@@ -2,7 +2,7 @@
 
 (a) The Fleet Reserve and the Fleet Marine Corps Reserve are composed of members of the naval service transferred thereto under this section.
 
-(b) An enlisted member of the Regular Navy or the Naval Reserve who has completed 20 or more years of active service in the armed forces may, at his request, be transferred to the Fleet Reserve. An enlisted member of the Regular Marine Corps or the Marine Corps Reserve who has completed 20 or more years of active service in the armed forces may, at his request, be transferred to the Fleet Marine Corps Reserve.
+(b) An enlisted member of the Regular Navy or the Navy Reserve who has completed 20 or more years of active service in the armed forces may, at his request, be transferred to the Fleet Reserve. An enlisted member of the Regular Marine Corps or the Marine Corps Reserve who has completed 20 or more years of active service in the armed forces may, at his request, be transferred to the Fleet Marine Corps Reserve.
 
 (c)(1) Each member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section is entitled, when not on active duty, to retainer pay computed under section 6333 of this title.
 
@@ -26,7 +26,7 @@
 
 (B) In the case of a member who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under this section after December 30, 1977, service attributable under subparagraph (A) to time which, after December 31, 1977, is not actually served by the member may not be counted.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 396; Pub. L. 85–583, §1(2), (3), Aug. 1, 1958, 72 Stat. 480; Pub. L. 90–207, §3(4), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(d)(5), Sept. 8, 1980, 94 Stat. 1105; Pub. L. 96–513, title V, §513(17), (19), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–94, title IX, §923(c)(3), Sept. 24, 1983, 97 Stat. 643; Pub. L. 99–348, title II, §203(b)(6), title III, §305(a)(1), July 1, 1986, 100 Stat. 696, 704; Pub. L. 101–189, div. A, title VI, §652(a)(5), Nov. 29, 1989, 103 Stat. 1461.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 396; Pub. L. 85–583, §1(2), (3), Aug. 1, 1958, 72 Stat. 480; Pub. L. 90–207, §3(4), Dec. 16, 1967, 81 Stat. 653; Pub. L. 96–342, title VIII, §813(d)(5), Sept. 8, 1980, 94 Stat. 1105; Pub. L. 96–513, title V, §513(17), (19), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–94, title IX, §923(c)(3), Sept. 24, 1983, 97 Stat. 643; Pub. L. 99–348, title II, §203(b)(6), title III, §305(a)(1), July 1, 1986, 100 Stat. 696, 704; Pub. L. 101–189, div. A, title VI, §652(a)(5), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 109–163, div. A, title V, §515(b)(1)(J), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes
 
@@ -72,6 +72,8 @@ Subsection (d) states the rule as to the method of counting minority and short-t
 
 #### Amendments
 
+2006—Subsec. (b). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 1989—Subsec. (a). Pub. L. 101–189 substituted “under this section.” for “under—
 
 &emsp;“(1) Title II of the Naval Reserve Act of 1938 (52 Stat. 1178), as amended; or
@@ -110,7 +112,7 @@ Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 9
 
 #### Temporary Early Retirement Authority
 
-For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and endingOct. 1, 1995, to apply this section to an enlisted member of the Navy or Marine Corps with at least 15 but less than 20 years of service by substituting “15 or more years” for “20 or more years” in the first sentence of subsection (a) \[probably should be (b)\] of this section and in the second sentence of subsec. (b) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an enlisted member of the Navy or Marine Corps with at least 15 but less than 20 years of service by substituting “15 or more years” for “20 or more years” in the first sentence of subsection (a) \[probably should be (b)\] of this section and in the second sentence of subsec. (b) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
 
 #### Retainer Pay of Enlisted Members of Regular Navy, Naval Reserve, Regular Marine Corps, or Marine Corps Reserve Transferred to Fleet Reserve or Fleet Marine Corps Reserve
 
@@ -141,8 +143,4 @@ Sec. 4. For the purposes of this Act, all active service in the Army of the Unit
 “
 
 Sec. 5. No pay shall accrue to the benefit of any person appointed under the provisions of this Act prior to the date such person is actually appointed under the provisions of this Act and in no event prior to the first day of the first month following enactment of this Act \[July 24, 1956\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1176, 1177, 1406, 1407, 1409, 1447, 6327, 6333, 6336 of this title.
 

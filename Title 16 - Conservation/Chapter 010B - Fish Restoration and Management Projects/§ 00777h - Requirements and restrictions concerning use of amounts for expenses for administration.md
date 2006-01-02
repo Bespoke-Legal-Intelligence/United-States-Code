@@ -2,7 +2,7 @@
 
 #### (a) Authorized expenses for administration
 
-Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 777c(d)(1) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
+Except as provided in subsection (b) of this section, the Secretary of the Interior may use available amounts under section 777c(b) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
 
 &emsp;(1) personnel costs of employees who directly administer this chapter on a full-time basis;
 
@@ -40,7 +40,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 777c(d)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
+&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section section 777c(b) of this title should be used for an expense for administration other than an expense for administration described in subsection (a) of this section, the Secretary—
 
 &emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
@@ -78,9 +78,17 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 &emsp;&emsp;(B) a copy of each audit under this subsection.
 
-(Aug. 9, 1950, ch. 658, §9, 64 Stat. 433; Pub. L. 106–408, title I, §121(b), Nov. 1, 2000, 114 Stat. 1770.)
+(Aug. 9, 1950, ch. 658, §9, 64 Stat. 433; Pub. L. 106–408, title I, §121(b), Nov. 1, 2000, 114 Stat. 1770; Pub. L. 109–59, title X, §10116, Aug. 10, 2005, 119 Stat. 1929.)
 
 #### Amendments
 
-2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, officefixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter.”
+2005—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted “section 777c(b)” for “section 777c(d)(1)” in introductory provisions.
+
+2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the District of Columbia and elsewhere, to be taken from the eligible lists of the civil service; to rent or construct buildings outside of the District of Columbia; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including publication of technical and administrative reports, purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the provisions of this chapter.”
+
+#### Effective Date of 2005 Amendments
+
+From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a) and (b)(1) of this section considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
+
+Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 

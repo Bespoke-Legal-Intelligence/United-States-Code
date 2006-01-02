@@ -46,7 +46,7 @@ Each protection and advocacy system that receives a payment under this section s
 
 #### (2) Carryover
 
-&emsp;Any amounts allotted for payment to a protection and advocacy system under this section for a fiscal year shall remain available forpayment to or on behalf of the protection and advocacy system until the end of the succeeding fiscal year.
+&emsp;Any amounts allotted for payment to a protection and advocacy system under this section for a fiscal year shall remain available for payment to or on behalf of the protection and advocacy system until the end of the succeeding fiscal year.
 
 #### (g) Definitions
 

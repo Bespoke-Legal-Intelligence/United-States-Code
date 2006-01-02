@@ -46,7 +46,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;&emsp;(B) is operating, to the satisfaction of the Secretary—
 
-&emsp;&emsp;&emsp;(i) a statewide information system from which can be readily determined thestatus, demographic characteristics, location, and goals for the placement of every child who is (or, within the immediately preceding 12 months, has been) in foster care;
+&emsp;&emsp;&emsp;(i) a statewide information system from which can be readily determined the status, demographic characteristics, location, and goals for the placement of every child who is (or, within the immediately preceding 12 months, has been) in foster care;
 
 &emsp;&emsp;&emsp;(ii) a case review system (as defined in section 675(5) of this title) for each child receiving foster care under the supervision of the State;
 

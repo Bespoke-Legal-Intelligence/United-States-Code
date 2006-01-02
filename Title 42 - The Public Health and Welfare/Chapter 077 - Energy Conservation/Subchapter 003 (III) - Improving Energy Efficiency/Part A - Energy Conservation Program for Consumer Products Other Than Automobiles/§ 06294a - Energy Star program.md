@@ -1,0 +1,46 @@
+### §6294a. Energy Star program
+
+#### (a) In general
+
+There is established within the Department of Energy and the Environmental Protection Agency a voluntary program to identify and promote energy-efficient products and buildings in order to reduce energy consumption, improve energy security, and reduce pollution through voluntary labeling of, or other forms of communication about, products and buildings that meet the highest energy conservation standards.
+
+#### (b) Division of responsibilities
+
+Responsibilities under the program shall be divided between the Department of Energy and the Environmental Protection Agency in accordance with the terms of applicable agreements between those agencies.
+
+#### (c) Duties
+
+The Administrator and the Secretary shall—
+
+&emsp;(1) promote Energy Star compliant technologies as the preferred technologies in the marketplace for—
+
+&emsp;&emsp;(A) achieving energy efficiency; and
+
+&emsp;&emsp;(B) reducing pollution;
+
+&emsp;(2) work to enhance public awareness of the Energy Star label, including by providing special outreach to small businesses;
+
+&emsp;(3) preserve the integrity of the Energy Star label;
+
+&emsp;(4) regularly update Energy Star product criteria for product categories;
+
+&emsp;(5) solicit comments from interested parties prior to establishing or revising an Energy Star product category, specification, or criterion (or prior to effective dates for any such product category, specification, or criterion);
+
+&emsp;(6) on adoption of a new or revised product category, specification, or criterion, provide reasonable notice to interested parties of any changes (including effective dates) in product categories, specifications, or criteria, along with—
+
+&emsp;&emsp;(A) an explanation of the changes; and
+
+&emsp;&emsp;(B) as appropriate, responses to comments submitted by interested parties; and
+
+&emsp;(7) provide appropriate lead time (which shall be 270 days, unless the Agency or Department specifies otherwise) prior to the applicable effective date for a new or a significant revision to a product category, specification, or criterion, taking into account the timing requirements of the manufacturing, product marketing, and distribution process for the specific product addressed.
+
+#### (d) Deadlines
+
+The Secretary shall establish new qualifying levels—
+
+&emsp;(1) not later than January 1, 2006, for clothes washers and dishwashers, effective beginning January 1, 2007; and
+
+&emsp;(2) not later than January 1, 2008, for clothes washers, effective beginning January 1, 2010.
+
+(Pub. L. 94–163, title III, §324A, as added Pub. L. 109–58, title I, §131(a), Aug. 8, 2005, 119 Stat. 620.)
+

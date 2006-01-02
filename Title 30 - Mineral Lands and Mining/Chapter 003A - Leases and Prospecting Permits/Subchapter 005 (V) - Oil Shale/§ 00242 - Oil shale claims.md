@@ -16,7 +16,7 @@ The holder of a valid oil shale mining claim who has filed a patent application 
 
 (3) Any holder of a valid oil shale mining claim referred to in this subsection may maintain such claim in accordance with the requirements set forth in subsection (e)(2) of this section in lieu of receiving a patent under this section.
 
-(4) Notwithstanding any other provision of law, any person referred to in paragraph (1) who obtains compensation from the United States as a result of the application of this section being declared to be a taking of property within the meaning of the Fifth Amendment to the United States Constitution, may obtain a full patent upon tender to the Secretary of the amount of such compensation, not including interest, and upon the receipt of such amount, the Secretary shall convey to such person a patent in the form and manner provided under the general mining laws of the United States. Such tender may onlybe made within 3 years of obtaining such compensation.
+(4) Notwithstanding any other provision of law, any person referred to in paragraph (1) who obtains compensation from the United States as a result of the application of this section being declared to be a taking of property within the meaning of the Fifth Amendment to the United States Constitution, may obtain a full patent upon tender to the Secretary of the amount of such compensation, not including interest, and upon the receipt of such amount, the Secretary shall convey to such person a patent in the form and manner provided under the general mining laws of the United States. Such tender may only be made within 3 years of obtaining such compensation.
 
 #### (d) Election
 

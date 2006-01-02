@@ -84,7 +84,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;(A) the issue price for such unit shall be determined in accordance with the rules of this subsection and subsection (b) as if it were a debt instrument,
 
-&emsp;&emsp;(B) the issue price determined for such unit shall be allocated to each element of such unit on the basis of the relationship of the fair market value of such element to the fair market value of all elements in such unit, and
+&emsp;&emsp;(B) the issue price determined for such unit shall be allocated to each element ofsuch unit on the basis of the relationship of the fair market value of such element to the fair market value of all elements in such unit, and
 
 &emsp;&emsp;(C) the issue price of any debt instrument included in such unit shall be the portion of the issue price of the unit allocated to the debt instrument under subparagraph (B).
 
@@ -105,8 +105,4 @@ Section applicable to taxable years ending after July 18, 1984, except as otherw
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 108, 143, 148, 163, 249, 305, 483, 811, 834, 860G, 871, 881, 1274, 1275, 1283, 1286, 1288, 1351, 1441, 6049 of this title.
 

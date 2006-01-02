@@ -40,7 +40,7 @@
 
 (2) A member entitled to voluntary separation incentive payments who is also entitled to basic pay for active or reserve service, or compensation for inactive duty training, may elect to have a reduction in the voluntary separation incentive payable for the same period in an amount not to exceed the amount of the basic pay or compensation received for that period.
 
-(3)(A) A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shall have deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.
+(3)(A) A member who has received the voluntary separation incentive and who qualifies for retired or retainer pay under this title shallhave deducted from each payment of such retired or retainer pay so much of such pay as is based on the service for which he received the voluntary separation incentive until the total amount deducted equals the total amount of voluntary separation incentive received. If the member elected to have a reduction in voluntary separation incentive for any period pursuant to paragraph (2), the deduction required under the preceding sentence shall be reduced accordingly.
 
 (B) If a member is receiving simultaneous voluntary separation incentive payments and retired or retainer pay, the member may elect to terminate the receipt of voluntary separation incentive payments. Any such election is permanent and irrevocable. The rate of monthly recoupment from retired or retainer pay of voluntary separation incentive payments received after such an election shall be reduced by a percentage that is equal to a fraction with a denominator equal to the number of months that the voluntary separation incentive payments were scheduled to be paid and a numerator equal to the number of months that would not be paid as a result of the member's decision to terminate the voluntary separation incentive.
 
@@ -185,8 +185,4 @@ For provisions reducing, with certain exceptions, amounts received under this se
 #### Tax Treatment of Incentive Payment
 
 Section 662(b) of Pub. L. 102–190 provided that: “Notwithstanding the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] and any other provision of law, any voluntary separation incentive paid to a member of the Armed Forces under section 1175 of title 10, United States Code (as added by subsection (a)), shall be includable in gross income for federal tax purposes only for the taxable year in which such incentive is paid to the participant or beneficiary of the member.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1152, 1153, 1174a of this title; title 29 section 2918; title 38 section 3018B.
 

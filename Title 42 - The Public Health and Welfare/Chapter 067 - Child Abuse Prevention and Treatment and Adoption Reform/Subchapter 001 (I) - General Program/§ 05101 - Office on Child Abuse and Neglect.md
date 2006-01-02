@@ -8,7 +8,7 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 The purpose of the Office established under subsection (a) of this section shall be to execute and coordinate the functions and activities of this subchapter and subchapter III of this chapter. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
-(Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101,Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
+(Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–36, §1(a), June 25, 2003, 117 Stat. 800, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Keeping Children and Families Safe Act of 2003’.”
+Pub. L. 108–36, §1(a), June 25, 2003, 117 Stat. 800, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Keeping Children and Families Safe Act of 2003’.”
 
 #### Short Title of 1998 Amendment
 
@@ -82,7 +82,7 @@ Section 1 of Pub. L. 100–294 provided that: “This Act \[enacting sections 51
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–401 provided that: “This Act \[enacting subchapter IV of this chapter and section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title,and enacting provisions set out as notes under this section and section 5117 of this title\] may be cited as the ‘Children's Justice and Assistance Act of 1986’.”
+Section 1 of Pub. L. 99–401 provided that: “This Act \[enacting subchapter IV of this chapter and section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section and section 5117 of this title\] may be cited as the ‘Children's Justice and Assistance Act of 1986’.”
 
 Section 101 of title I of Pub. L. 99–401 provided that: “This title \[enacting section 10603a of this title, amending this section and sections 290dd–3, 290ee–3, 5103, 5105, 10601, and 10603 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Children's Justice Act’.”
 
@@ -122,7 +122,7 @@ Section 127 of Pub. L. 98–457 provided that:
 
 #### Presidential Commission on Child and Youth Deaths
 
-Section 106 of Pub. L. 100–294 established a National Commission on Child and Youth Deaths to study and evaluate comprehensively Federal, State, and local public and private resources which affect child and youth deaths and to prepare and transmit to President and appropriate committees of Congress a report within 12 months after appointment of the Commission, and provided that the Commission terminates 90 days after transmitting the report.
+Section 106 of Pub. L. 100–294 established a National Commission on Child and Youth Deaths to study and evaluate comprehensively Federal, State, and local public and private resources which affect child andyouth deaths and to prepare and transmit to President and appropriate committees of Congress a report within 12 months after appointment of the Commission, and provided that the Commission terminates 90 days after transmitting the report.
 
 #### Acquisition of Statistical Data
 

@@ -24,7 +24,3 @@ The Secretary is authorized and directed to make adjustments at the partnership 
 
 A prior section 6245, added Pub. L. 97–354, §4(a), Oct. 19, 1982, 96 Stat. 1692, defined “subchapter S item” for purposes of subchapter, prior to repeal by Pub. L. 104–188, title I, §§1307(c)(1), 1317(a), Aug. 20, 1996, 110 Stat. 1781, 1787, applicable to taxable years beginning after Dec. 31, 1996.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6247 of this title.
-

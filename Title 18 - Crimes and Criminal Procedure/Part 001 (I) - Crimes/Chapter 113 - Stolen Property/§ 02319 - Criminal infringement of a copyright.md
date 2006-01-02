@@ -1,8 +1,8 @@
 ### §2319. Criminal infringement of a copyright
 
-(a) Whoever violates section 506(a) (relating to criminal offenses) of title 17 shall be punished as provided in subsections (b) and (c) of this section and such penalties shall be in addition to any other provisions of title 17 or any other law.
+(a) Any person who violates section 506(a) (relating to criminal offenses) of title 17 shall be punished as provided in subsections (b), (c), and (d) and such penalties shall be in addition to any other provisions of title 17 or any other law.
 
-(b) Any person who commits an offense under section 506(a)(1) of title 17—
+(b) Any person who commits an offense under section 506(a)(1)(A) of title 17—
 
 &emsp;(1) shall be imprisoned not more than 5 years, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution, including by electronic means, during any 180-day period, of at least 10 copies or phonorecords, of 1 or more copyrighted works, which have a total retail value of more than $2,500;
 
@@ -10,15 +10,25 @@
 
 &emsp;(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, in any other case.
 
-(c) Any person who commits an offense under section 506(a)(2) of title 17, United States Code—
+(c) Any person who commits an offense under section 506(a)(1)(B) of title 17—
 
 &emsp;(1) shall be imprisoned not more than 3 years, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution of 10 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of $2,500 or more;
 
 &emsp;(2) shall be imprisoned not more than 6 years, or fined in the amount set forth in this title, or both, if the offense is a second or subsequent offense under paragraph (1); and
 
-&emsp;(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000.
+&emsp;(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution of 1 or more copies or phonorecords of 1 or more copyrighted works,which have a total retail value of more than $1,000.
 
-(d)(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+(d) Any person who commits an offense under section 506(a)(1)(C) of title 17—
+
+&emsp;(1) shall be imprisoned not more than 3 years, fined under this title, or both;
+
+&emsp;(2) shall be imprisoned not more than 5 years, fined under this title, or both, if the offense was committed for purposes of commercial advantage or private financial gain;
+
+&emsp;(3) shall be imprisoned not more than 6 years, fined under this title, or both, if the offense is a second or subsequent offense; and
+
+&emsp;(4) shall be imprisoned not more than 10 years, fined under this title, or both, if the offense is a second or subsequent offense under paragraph (2).
+
+(e)(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
 (2) Persons permitted to submit victim impact statements shall include—
 
@@ -28,19 +38,33 @@
 
 &emsp;(C) the legal representatives of such producers, sellers, and holders.
 
-(e) As used in this section—
+(f) As used in this section—
 
-&emsp;(1) the terms “phonorecord” and “copies” have, respectively, the meanings set forth in section 101 (relating to definitions) of title 17; and
+&emsp;(1) the terms “phonorecord” and “copies” have, respectively, the meanings set forth in section 101 (relating to definitions) of title 17;
 
-&emsp;(2) the terms “reproduction” and “distribution” refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 122, of title 17.
+&emsp;(2) the terms “reproduction” and “distribution” refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 122, of title 17;
 
-(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910.)
+&emsp;(3) the term “financial gain” has the meaning given the term in section 101 of title 17; and
+
+&emsp;(4) the term “work being prepared for commercial distribution” has the meaning given the term in section 506(a) of title 17.
+
+(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, §103(b), Apr. 27, 2005, 119 Stat. 220.)
 
 #### References in Text
 
-The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
+The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–9, §103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
+
+Subsec. (b). Pub. L. 109–9, §103(b)(2), substituted “section 506(a)(1)(A)” for “section 506(a)(1)” in introductory provisions.
+
+Subsec. (c). Pub. L. 109–9, §103(b)(3), substituted “section 506(a)(1)(B) of title 17” for “section 506(a)(2) of title 17, United States Code” in introductory provisions.
+
+Subsecs. (d), (e). Pub. L. 109–9, §103(b)(4), (5), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 109–9, §103(b)(4), (6), redesignated subsec. (e) as (f) and added pars. (3) and (4).
 
 2002—Subsec. (e)(2). Pub. L. 107–273 substituted “107 through 122” for “107 through 120”.
 

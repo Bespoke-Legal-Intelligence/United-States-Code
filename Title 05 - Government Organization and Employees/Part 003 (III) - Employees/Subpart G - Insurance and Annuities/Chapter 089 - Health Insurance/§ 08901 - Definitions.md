@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or aformer Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
+&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
 
 > &emsp;but does not include—
 
@@ -86,7 +86,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C)(i) who is receiving any portion of an annuity under section 8345(j) or 8467 of this title or a survivor annuity under section 8341(h) or 8445 of this title (or benefits similar to either of the aforementioned annuity benefits under a retirement system for Government employees other than the Civil Service Retirement System or the Federal Employees’ Retirement System),
 
-&emsp;&emsp;(ii) as to whom a court order or decree referred to in section 8341(h), 8345(j), 8445, or 8467 of this title (or similar provision of law under any such retirement system other than the Civil Service Retirement System or the Federal Employees’ Retirement System) has been issued, or for whom an election has been made under section 8339(j)(3) or 8417(b) of this title (or similar provision of law), or
+&emsp;&emsp;(ii) as to whom a court order or decree referred to in section 8341(h), 8345(j), 8445, or8467 of this title (or similar provision of law under any such retirement system other than the Civil Service Retirement System or the Federal Employees’ Retirement System) has been issued, or for whom an election has been made under section 8339(j)(3) or 8417(b) of this title (or similar provision of law), or
 
 &emsp;&emsp;(iii) who is otherwise entitled to an annuity or any portion of an annuity as a former spouse under a retirement system for Government employees,
 
@@ -268,7 +268,7 @@ Pub. L. 106–394, §1, Oct. 30, 2000, 114 Stat. 1629, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of thistitle, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
+Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
 
 #### Short Title of 1988 Amendment
 
@@ -276,7 +276,7 @@ Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
+Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under thissection and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
 
 #### Continuation of Health Benefits Coverage for Individuals Enrolled in a Plan Administered by the Overseas Private Investment Corporation
 
@@ -366,7 +366,7 @@ Continued Coverage.—(1) Subject to subsection (c), any individual who, on or b
 
 &emsp;“(B) would meet those requirements if, to the extent such requirements involve either retirement system under such title 5, such individual satisfies similar requirements or provisions of the Retirement Plan for Employees of the Federal Reserve System.
 
-> Any determination under subparagraph (B) shall be made under guidelines which the Office of PersonnelManagement shall establish in consultation with the Board of Governors of the Federal Reserve System.
+> Any determination under subparagraph (B) shall be made under guidelines which the Office of Personnel Management shall establish in consultation with the Board of Governors of the Federal Reserve System.
 
 “(2) Subject to subsection (c), any individual who, on or before January 2, 1999, is entitled to continued coverage under a health benefits plan described in subsection (a)(1) or (2) shall be deemed to be entitled to continued coverage under section 8905a of title 5, United States Code, but only for the same remaining period as would have been allowable under the health benefits plan in which such individual was enrolled on or before January 2, 1999, if—
 
@@ -374,7 +374,7 @@ Continued Coverage.—(1) Subject to subsection (c), any individual who, on or b
 
 &emsp;“(B) such plan did not terminate, or the eligibility of such individual with respect to such plan did not terminate, as described in subsection (a).
 
-“(3) Subject to subsection (c), any individual (other than an individual under paragraph (2)) who, on or before January 2, 1999, is covered under a health benefits plan described in subsection (a)(1) or (2) as an unmarried dependent child, but who does not then qualify for coverage under chapter 89 of title 5, United States Code, as a family member (within the meaning of such chapter) shall be deemed to be entitled to continued coverage under section 8905a of such title, to the same extent and in the same manner as if such individual had, on or before January 2, 1999, ceased to meet the requirements for being considered an unmarried dependent child of an enrollee under such chapter.
+“(3) Subject to subsection (c), any individual (other than an individual under paragraph (2)) who, on or before January 2, 1999, is covered under a health benefits plan described in subsection (a)(1) or (2) as an unmarried dependent child, but who does not then qualify for coverage under chapter 89 of title 5, United States Code, as a family member (within the meaning of suchchapter) shall be deemed to be entitled to continued coverage under section 8905a of such title, to the same extent and in the same manner as if such individual had, on or before January 2, 1999, ceased to meet the requirements for being considered an unmarried dependent child of an enrollee under such chapter.
 
 “(4) Coverage under chapter 89 of title 5, United States Code, pursuant to an enrollment under this section shall become effective on January 3, 1999 or such earlier date as established by the Office of Personnel Management after consultation with the Federal Deposit Insurance Corporation or the Board of Governors of the Federal Reserve System, as appropriate.
 
@@ -446,7 +446,7 @@ Plan.—For purposes of the administration of chapter 89 of title 5, United Stat
 
 “(b)
 
-Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by a health benefits planadministered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
+Continued Coverage.—(1) Any individual who, on January 7, 1995, is covered by a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
 
 &emsp;“(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
 

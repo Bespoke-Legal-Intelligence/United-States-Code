@@ -80,7 +80,7 @@ Authority To Modify Orders.—A court of a State may modify a child support orde
 
 (f)
 
-Recognition of Child Support Orders.—If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+Recognition of Child Support Orders.—If 1 or more child support orders have been issuedwith regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
 &emsp;(1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
@@ -120,7 +120,7 @@ Registration for Modification.—If there is no individual contestant or child r
 
 #### Amendments
 
-1997—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the partiesshall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+1997—Subsec. (f)(4). Pub. L. 105–33, §5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
 
 Subsec. (f)(5). Pub. L. 105–33, §5554(2), inserted “under subsection (d)” after “jurisdiction”.
 
@@ -174,7 +174,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(3) those laws, along with the limits imposed by the Federal system on the authority of each State to take certain actions outside its own boundaries—
 
-&emsp;&emsp;“(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase in the amount of interstate travel and communication required to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
+&emsp;&emsp;“(A) encourage noncustodial parents to relocate outside the States where their children and the custodial parents reside to avoid the jurisdiction of the courts of such States, resulting in an increase in the amount of interstate travel and communicationrequired to establish and collect on child support orders and a burden on custodial parents that is expensive, time consuming, and disruptive of occupations and commercial activity;
 
 &emsp;&emsp;“(B) contribute to the pressing problem of relatively low levels of child support payments in interstate cases and to inequities in child support payments levels that are based solely on the noncustodial parent's choice of residence;
 

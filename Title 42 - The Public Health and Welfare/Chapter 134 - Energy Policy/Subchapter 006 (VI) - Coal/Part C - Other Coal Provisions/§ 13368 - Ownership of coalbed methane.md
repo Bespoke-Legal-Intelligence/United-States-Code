@@ -50,7 +50,7 @@ Following issuance of an order establishing a spacing unit under subsection (f) 
 
 &emsp;(3) An election to share in the operation of the well as a nonparticipating working interest owner by relinquishing its working interest to participating working interest owners until the proceeds allocable to its share equal 300 percent of the share of such costs allocable to its interest. Thereafter, the nonparticipating working interest owner shall become a participating working interest owner.
 
-> The pooling order shall designate a unit operator who shall be authorized to drill and operate the spacing unit. The pooling order shall provide that any entity claiming an ownership interest in the coalbed methane within such spacing unit which does not make an election under the pooling order shall be deemed to have leased its coalbed methane interest to the unit operatorunder such terms and conditions as the pooling order may provide. No pooling order may be issued under this paragraph for any spacing unit if all entities claiming an ownership interest in the coalbed methane in the spacing unit have entered into a voluntary agreement providing for the drilling and operation of the coalbed methane gas well for the spacing unit.
+> The pooling order shall designate a unit operator who shall be authorized to drill and operate the spacing unit. The pooling order shall provide that any entity claiming an ownership interest in the coalbed methane within such spacing unit which does not make an election under the pooling order shall be deemed to have leased its coalbed methane interest to the unit operator under such terms and conditions as the pooling order may provide. No pooling order may be issued under this paragraph for any spacing unit if all entities claiming an ownership interest in the coalbed methane in the spacing unit have entered into a voluntary agreement providing for the drilling and operation of the coalbed methane gas well for the spacing unit.
 
 #### (h) Escrow account
 
@@ -92,7 +92,7 @@ No entity may drill any well for the production of coalbed methane gas from a co
 
 &emsp;(E) provide prima facie evidence that the method of stimulation proposed by the coalbed methane operator will not (i) cause unreasonable loss or damage to the coal seam considering all factors, including the prospect, taking into consideration the economics of the coal industry, that coal seams for which no actual or proposed mining plans exist will be mined at some future date, or (ii) violate mine safety requirements. If a denial of consent by a coal operator is based on reasons related to safety, the Secretary of the Interior shall seek the views and recommendations of the appropriate State or Federal coal mine safety agency. Any determination by the Secretary of the Interior shall be in accordance with all applicable Federal and State coal mine safety laws and such views and recommendations. A determination by the Secretary of the Interior approving a method of stimulation may include reasonable conditions including, but not limited to, conditions to mitigate, to the extent practicable, economic damage to the coal seam. Any determination approving or denying a method of stimulation by the Secretary of the Interior shall be subject to appeal. Interested entities shall be allowed to participate in and comment on proceedings under this paragraph.
 
-(3) The Secretary of the Interior shall by rule establish, for an Affected State, a region thereof, or a multi-State region comprised of Affected States, the boundaries within which a coalbed methane operator shall be required to obtain written consent from a coal operator pursuantto paragraph (1). Such boundaries shall be stated in terms of a horizontal and a vertical distance from the point of stimulation and shall be determined based on an evaluation of the maximum length, height and depth of fracture producible in a coal seam in such Affected State, region thereof, or multi-State region comprised of Affected States.
+(3) The Secretary of the Interior shall by rule establish, for an Affected State, a region thereof, or a multi-State region comprised of Affected States, the boundaries within which a coalbed methane operator shall be required to obtain written consent from a coal operator pursuant to paragraph (1). Such boundaries shall be stated in terms of a horizontal and a vertical distance from the point of stimulation and shall be determined based on an evaluation of the maximum length, height and depth of fracture producible in a coal seam in such Affected State, region thereof, or multi-State region comprised of Affected States.
 
 (4) The consent required under this subsection shall in no way be deemed to impair, abridge, or affect any contractual rights or objections arising out of a coalbed methane gas contract or coalbed methane gas lease in existence as of October 24, 1992,<sup>1</sup> between the coalbed methane operator and the coal operator, and the existence of such lease or contractual agreement and any extensions or renewals of such lease shall be deemed to fully meet the requirements of this section.
 
@@ -148,7 +148,7 @@ The Secretary of the Interior shall comply with all applicable Federal and State
 
 As used in this section—
 
-&emsp;(1) The term “Affected State” means a State listed by the Secretary of the Interior, withthe participation of the Secretary of Energy, under subsection (b) of this section.
+&emsp;(1) The term “Affected State” means a State listed by the Secretary of the Interior, with the participation of the Secretary of Energy, under subsection (b) of this section.
 
 &emsp;(2) The term “coalbed methane gas” means occluded natural gas produced (or which may be produced) from coalbeds and rock strata associated therewith.
 
@@ -165,6 +165,10 @@ As used in this section—
 #### Codification
 
 October 24, 1992, referred to in subsec. (j)(4), was in the original “the effective date of this section”, which was translated as meaning the date of enactment of Pub. L. 102–486, which enacted this section.
+
+#### Federal Coalbed Methane Regulation
+
+Pub. L. 109–58, title III, §387, Aug. 8, 2005, 119 Stat. 744, provided that: “Any State currently on the list of Affected States established under section 1339(b) of the Energy Policy Act of 1992 (42 U.S.C. 13368(b)) shall be removed from the list if, not later than 3 years after the date of enactment of this Act \[Aug. 8, 2005\], the State takes, or prior to the date of enactment has taken, any of the actions required for removal from the list under such section 1339(b).”
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

@@ -12,10 +12,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 382 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be “decrease”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “willful”.</i>

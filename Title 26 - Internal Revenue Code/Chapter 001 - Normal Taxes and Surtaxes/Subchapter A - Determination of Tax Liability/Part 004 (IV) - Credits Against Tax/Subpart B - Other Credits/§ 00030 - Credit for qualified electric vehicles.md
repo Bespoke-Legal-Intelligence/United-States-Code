@@ -12,19 +12,13 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (2) Phaseout
 
-&emsp;In the case of any qualified electric vehicle placed in service after December 31, 2003, the credit otherwise allowable under subsection (a) (determined after the application of paragraph (1)) shall be reduced by—
-
-&emsp;&emsp;(A) 25 percent in the case of property placed in service in calendar year 2004,
-
-&emsp;&emsp;(B) 50 percent in the case of property placed in service in calendar year 2005, and
-
-&emsp;&emsp;(C) 75 percent in the case of property placed in service in calendar year 2006.
+&emsp;In the case of any qualified electric vehicle placed in service after December 31, 2005, the credit otherwise allowable under subsection (a) (determined after the application of paragraph (1)) shall be reduced by 75 percent.
 
 #### (3) Application with other credits
 
 &emsp;The credit allowed by subsection (a) for any taxable year shall not exceed the excess (if any) of—
 
-&emsp;&emsp;(A) the regular tax for the taxable year reduced by the sum of the credits allowable under subpart A and sections 27 and 29, over—
+&emsp;&emsp;(A) the regular tax for the taxable year reduced by the sum of the credits allowable under subpart A and section 27, over—
 
 &emsp;&emsp;(B) the tentative minimum tax for the taxable year.
 
@@ -68,13 +62,23 @@ For purposes of this section—
 
 This section shall not apply to any property placed in service after December 31, 2006.
 
-(Added Pub. L. 102–486, title XIX, §1913(b)(1), Oct. 24, 1992, 106 Stat. 3019; amended Pub. L. 104–188, title I, §§1205(d)(4), 1704(j)(4)(A), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 107–147, title VI, §602(a), Mar. 9, 2002, 116 Stat. 59.)
+(Added Pub. L. 102–486, title XIX, §1913(b)(1), Oct. 24, 1992, 106 Stat. 3019; amended Pub. L. 104–188, title I, §§1205(d)(4), 1704(j)(4)(A), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 107–147, title VI, §602(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §318(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1322(a)(3)(A), Aug. 8, 2005, 119 Stat. 1011.)
 
 #### Prior Provisions
 
 A prior section 30 was renumbered section 41 of this title.
 
 #### Amendments
+
+2005—Subsec. (b)(3)(A). Pub. L. 109–58 substituted “section 27” for “sections 27 and 29” in introductory provisions.
+
+2004—Subsec. (b)(2). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified electric vehicle placed in service after December 31, 2003, the credit otherwise allowable under subsection (a) (determined after the application of paragraph (1)) shall be reduced by—
+
+&emsp;“(A) 25 percent in the case of property placed in service in calendar year 2004,
+
+&emsp;“(B) 50 percent in the case of property placed in service in calendar year 2005, and
+
+&emsp;“(C) 75 percent in the case of property placed in service in calendar year 2006.”
 
 2002—Subsec. (b)(2). Pub. L. 107–147, §602(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
 
@@ -92,19 +96,23 @@ Subsec. (d)(1). Pub. L. 104–188, §1704(j)(4)(A)(i), inserted “(determined w
 
 Subsec. (d)(4). Pub. L. 104–188, §1704(j)(4)(A)(ii), added par. (4).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §318(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2003.”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title VI, §602(c), Mar. 9, 2002, 116 Stat. 59, provided that: “The amendments made by this section \[amending this section, section 280F of this title, and provisions set out as a note under section 280F of this title\] shall apply to property placed in service after December 31, 2001.”
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(d)(4) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+Amendment by section 1205(d)(4) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 #### Effective Date
 
 Section 1913(c) of Pub. L. 102–486 provided that: “The amendments made by this section \[enacting this section and 179A of this title and amending sections 53, 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 53, 55, 179A, 1016, 6501 of this title.
 

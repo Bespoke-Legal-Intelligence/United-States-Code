@@ -28,11 +28,11 @@
 
 &emsp;(A) after the President requires an investigation to be made, in the case of each extension, to determine the necessity for continued production from such naval petroleum reserve;
 
-&emsp;(B) after the President submits to the Congress, at least 180 days before the expiration of the current production period prescribed by this section, or any extension thereof, a copy of the report made to him on such investigation together with a certification by him that continued production from such naval petroleum reserve is in the national interest; and
+&emsp;(B) after the President submits to the Congress, at least 180 days before the expiration ofthe current production period prescribed by this section, or any extension thereof, a copy of the report made to him on such investigation together with a certification by him that continued production from such naval petroleum reserve is in the national interest; and
 
 &emsp;(C) if neither House of Congress within ninety days after receipt of such report and certification adopts a resolution disapproving further production from such naval petroleum reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 87–599, §1, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, §3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, §513(31), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, §1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(a),Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, §1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, §3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, §4(b)(6), Dec. 15, 2003, 117 Stat. 2641.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458; Pub. L. 87–599, §1, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, §3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, §513(31), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, §1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(a), Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, §1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, §3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, §4(b)(6), Dec. 15, 2003, 117 Stat. 2641.)
 
 Historical and Revision Notes
 
@@ -99,8 +99,4 @@ Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1947, provided in part: “
 #### Connections to Pipeline in South Barrow Gas Field
 
 Section 3 of Pub. L. 87–599 provided that: “The Federal agency or agencies in control of any pipeline between gas wells in the South Barrow gas field and the town of Barrow may authorize purchasers of the gas or carriers of the gas to install connections to such pipeline.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7423, 7430, 7431 of this title; title 43 section 1601.
 

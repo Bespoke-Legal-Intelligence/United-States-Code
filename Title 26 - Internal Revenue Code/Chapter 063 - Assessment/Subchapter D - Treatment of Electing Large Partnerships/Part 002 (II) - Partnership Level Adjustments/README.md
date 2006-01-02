@@ -7,10 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6241, 6242 of this title.
-
 
 ---
 

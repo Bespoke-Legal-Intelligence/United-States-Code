@@ -24,7 +24,7 @@ Use of Seized Plant.—The President, through the head of any department, may ma
 
 (e)
 
-Compensation Required.—Each person or industry from whom products or materials are ordered under subsection (a) is entitled to fair and just compensation. Each person or industrywhose plant is seized under subsection (c) is entitled to a fair and just rental.
+Compensation Required.—Each person or industry from whom products or materials are ordered under subsection (a) is entitled to fair and just compensation. Each person or industry whose plant is seized under subsection (c) is entitled to a fair and just rental.
 
 (f)
 
@@ -40,11 +40,7 @@ Provisions similar to those in this section were contained in sections 4501 and 
 
 1994—Subsec. (a). Pub. L. 103–337, §811(1), substituted “head of any department” for “Secretary of Defense”.
 
-Subsec. (c). Pub. L. 103–337, §811, substituted “through the head of any department” for “through the Secretary of Defense” and “opinion of the head of that department” for “opinion of the Secretary of Defense” in introductory provisions and “head of such department” for “Secretary” in pars. (2) and (3).
+Subsec. (c). Pub. L. 103–337, §811, substituted “through the head of any department” for “throughthe Secretary of Defense” and “opinion of the head of that department” for “opinion of the Secretary of Defense” in introductory provisions and “head of such department” for “Secretary” in pars. (2) and (3).
 
 Subsec. (d). Pub. L. 103–337, §811(1), substituted “head of any department” for “Secretary of Defense”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2539a of this title.
 

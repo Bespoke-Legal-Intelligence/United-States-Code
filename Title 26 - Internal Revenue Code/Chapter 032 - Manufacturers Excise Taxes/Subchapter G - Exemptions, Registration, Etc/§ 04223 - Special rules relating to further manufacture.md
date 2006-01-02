@@ -40,7 +40,3 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 Amendment by Pub. L. 86–418 applicable only with respect to bicycle tires and tubes sold by the manufacturer, producer, or importer thereof on or after the first day of the first month which begins more than 10 days after April 8, 1960, see section 4 of Pub. L. 86–418, set out as a note under section 4221 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4218, 6416 of this title.
-

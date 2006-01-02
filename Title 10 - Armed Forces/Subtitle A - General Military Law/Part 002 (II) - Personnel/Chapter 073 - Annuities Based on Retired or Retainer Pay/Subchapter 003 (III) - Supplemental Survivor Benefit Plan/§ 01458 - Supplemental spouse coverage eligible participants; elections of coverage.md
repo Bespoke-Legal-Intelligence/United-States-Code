@@ -110,7 +110,7 @@ Conditions on election.—An election under paragraph (1)—
 
 Change of Former Spouse Beneficiary to Spouse or Child Beneficiary.—If a person who is providing an annuity for a former spouse under the Survivor Benefit Plan and a supplemental spouse annuity for that former spouse under this subchapter elects under section 1450(f)(1) of this title to change the beneficiary of the annuity under the Survivor Benefit Plan in order to provide an annuity under that Plan to that person's spouse or to a dependent child—
 
-&emsp;&emsp;(1) the beneficiary under the supplemental spouse annuity shall be deemed to be changed to that spouse also, if the change under section 1450(f)(1) was to provide the annuity for the person's spouse; and
+&emsp;&emsp;(1) the beneficiary under the supplemental spouse annuity shall be deemed to bechanged to that spouse also, if the change under section 1450(f)(1) was to provide the annuity for the person's spouse; and
 
 &emsp;&emsp;(2) participation in the supplemental spouse annuity program shall be terminated, if the change under section 1450(f)(1) of this title was to provide the annuity for a dependent child.
 
@@ -120,25 +120,23 @@ Reinstatement of Discontinued Annuity Upon Reinstatement of SBP Annuity.—If a 
 
 (j)
 
-Vitiation of Election by Disability Retiree Who Dies of Disability-Related Cause.—If a member retired on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2004 under chapter 61 of this title dies within one year after the date on which the member is so retired and the cause of death is related to a disability for which the member was retired under that chapter (as determined under regulations prescribed by the Secretary of Defense)—
+Vitiation of Election by Disability Retiree Who Dies of Disability-Related Cause.—If a member retired after November 23, 2003, under chapter 61 of this title dies within one year after the date on which the member is so retired and the cause of death is related to a disability for which the member was retired under that chapter (as determined under regulations prescribed by the Secretary of Defense)—
 
 &emsp;(1) an election made by the member to provide a supplemental spouse annuity under this subchapter is vitiated; and
 
 &emsp;(2) the amounts by which the member's retired pay was reduced under section 1460 of this title shall be refunded and paid to the person to whom the supplemental spouse annuity would have been paid pursuant to such election.
 
-(Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1581; amended Pub. L. 102–190, div. A, title VI, §653(c)(1), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 108–136, div. A, title VI, §645(b)(2), Nov. 24, 2003, 117 Stat. 1519.)
+(Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1581; amended Pub. L. 102–190, div. A, title VI, §653(c)(1), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 108–136, div. A, title VI, §645(b)(2), Nov. 24, 2003, 117 Stat. 1519; Pub. L. 108–375, div. A, title X, §1084(d)(10), Oct. 28, 2004, 118 Stat. 2061.)
 
-#### References in Text
+#### Repeal of Section
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2004, referred to in subsec. (j), is the date of enactment of Pub. L. 108–136, which was approved Nov. 24, 2003.
+<i>Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, provided that, effective Apr. 1, 2008, this section is repealed.</i>
 
 #### Amendments
+
+2004—Subsec. (j). Pub. L. 108–375 substituted “after November 23, 2003,” for “on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2004” in introductory provisions.
 
 2003—Subsec. (j). Pub. L. 108–136 added subsec. (j).
 
 1991—Subsec. (a)(1). Pub. L. 102–190 inserted “at the maximum level” after “Survivor Benefit Plan”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1459 of this title.
 

@@ -32,19 +32,23 @@ The following items shall not be included in gross income of a nonresident alien
 
 &emsp;Income derived by a nonresident alien individual from a series E or series H United States savings bond, if such individual acquired such bond while a resident of the Ryukyu Islands or the Trust Territory of the Pacific Islands.
 
-#### (5) Certain rental income
+#### (5) Income derived from wagering transactions in certain parimutuel pools
+
+&emsp;Gross income derived by a nonresident alien individual from a legal wagering transaction initiated outside the United States in a parimutuel pool with respect to a live horse race or dog race in the United States.
+
+#### (6) Certain rental income
 
 &emsp;Income to which paragraphs (1) and (2) apply shall include income which is derived from the rental on a full or bareboat basis of a ship or ships or aircraft, as the case may be.
 
-#### (6) Application to different types of transportation
+#### (7) Application to different types of transportation
 
 &emsp;The Secretary may provide that this subsection be applied separately with respect to income from different types of transportation.
 
-#### (7) Treatment of possessions
+#### (8) Treatment of possessions
 
 &emsp;To the extent provided in regulations, a possession of the United States shall be treated as a foreign country for purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 108–357, title IV, §419(a), Oct. 22, 2004, 118 Stat. 1513.)
 
 #### References in Text
 
@@ -52,13 +56,15 @@ Section 101 of the Immigration and Nationality Act, referred to in subsec. (b)(3
 
 #### Amendments
 
+2004—Subsec. (b)(5) to (8). Pub. L. 108–357 added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+
 1994—Subsec. (b)(3). Pub. L. 103–296 substituted “(F), (J), or (Q)” for “(F) or (J)”.
 
 1989—Subsec. (b)(7). Pub. L. 101–239 added par. (7).
 
 1988—Subsec. (a). Pub. L. 100–647, §1012(s)(2)(A), inserted “, except where the context clearly indicates otherwise” after “individual”.
 
-Subsec. (b)(1), (2). Pub. L. 100–647, §1012(e)(2)(B), (5), substituted “to individual residents of the United States” for “to citizens of the United States and to corporations organized in the United States” and “international operation” for “operation”.
+Subsec. (b)(1), (2). Pub. L. 100–647, §1012(e)(2)(B), (5), substituted “to individual residents of the UnitedStates” for “to citizens of the United States and to corporations organized in the United States” and “international operation” for “operation”.
 
 1986—Subsec. (b)(1). Pub. L. 99–514, §1212(c)(1), added par. (1) and struck out former par. (1), ships under foreign flag, which read as follows: “Earnings derived from the operation of a ship or ships documented under the laws of a foreign country which grants an equivalent exemption to citizens of the United States and to corporations organized in the United States.”
 
@@ -66,13 +72,17 @@ Subsec. (b)(2). Pub. L. 99–514, §1212(c)(1), added par. (2) and struck out fo
 
 Subsec. (b)(5), (6). Pub. L. 99–514, §1212(c)(2), added pars. (5) and (6).
 
-1966—Subsec. (a). Pub. L. 89–809, §103(b)(1), limited the inclusion of gross income which is derived fromsources within the United States to such income which is not effectively connected with the conduct of a trade or business within the United States and inserted provision including gross income without the limitation as to source which is effectively connected with the conduct of a trade or business within the United States.
+1966—Subsec. (a). Pub. L. 89–809, §103(b)(1), limited the inclusion of gross income which is derived from sources within the United States to such income which is not effectively connected with the conduct of a trade or business within the United States and inserted provision including gross income without the limitation as to source which is effectively connected with the conduct of a trade or business within the United States.
 
 Subsec. (b)(3)(B). Pub. L. 89–809, §103(b)(2), substituted “by a domestic corporation, a domestic partnership, or an individual who is a citizen or resident of the United States” for “by a domestic corporation”.
 
 Subsec. (b)(4). Pub. L. 89–809, §102(b)(3), added par. (4).
 
 1961—Subsec. (b)(3). Pub. L. 87–256 added par. (3).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §419(c), Oct. 22, 2004, 118 Stat. 1513, provided that: “The amendments made by this section \[amending this section and section 883 of this title\] shall apply to wagers made after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1994 Amendment
 
@@ -105,8 +115,4 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For nonapplication of amendment by section 1212(c)(1), (2) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 877, 883, 7701 of this title.
 

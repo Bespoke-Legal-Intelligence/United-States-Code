@@ -102,7 +102,7 @@ In general.—The aggregate loss recognized by reason of the application of sect
 
 &emsp;&emsp;“(ii)
 
-Disallowed loss allowed over period.—The amount of the loss which is not allowed underclause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer's first taxable year beginning after December 31, 1995.
+Disallowed loss allowed over period.—The amount of the loss which is not allowed under clause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer's first taxable year beginning after December 31, 1995.
 
 &emsp;“(B)
 

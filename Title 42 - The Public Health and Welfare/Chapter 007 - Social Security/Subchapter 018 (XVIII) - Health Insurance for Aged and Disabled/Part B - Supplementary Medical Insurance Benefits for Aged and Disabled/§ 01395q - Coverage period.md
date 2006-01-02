@@ -126,7 +126,7 @@ For effective date of amendment by Pub. L. 98–369, see section 2338(d)(2) of P
 
 Amendment by section 2106(b)(2) of Pub. L. 97–35 effective Apr. 1, 1981, see section 2106(c) of Pub. L. 97–35, set out as a note under section 1395<i>l</i> of this title.
 
-Amendment by section 2151(a)(3) of Pub. L. 97–35 not applicable to enrollments pursuant to written requestsfor enrollment filed before Oct. 1, 1981, see section 2151(b) of Pub. L. 97–35, set out as a note under section 1395p of this title.
+Amendment by section 2151(a)(3) of Pub. L. 97–35 not applicable to enrollments pursuant to written requests for enrollment filed before Oct. 1, 1981, see section 2151(b) of Pub. L. 97–35, set out as a note under section 1395p of this title.
 
 #### Effective Date of 1980 Amendment
 

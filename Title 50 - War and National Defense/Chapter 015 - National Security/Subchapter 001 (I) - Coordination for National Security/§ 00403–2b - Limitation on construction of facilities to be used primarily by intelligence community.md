@@ -8,7 +8,7 @@
 
 #### (2) Notification
 
-&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greaterthan $1,000,000, the Director of Central Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
+&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $1,000,000 but less than $5,000,000, or where any improvement project to such a facility has an estimated Federal cost greater than $1,000,000, the Director of Central Intelligence shall submit a notification to the intelligence committees specifically identifying such project.
 
 #### (b) Exception
 

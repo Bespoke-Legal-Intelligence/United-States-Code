@@ -10,7 +10,7 @@ The Administrator shall enter into an agreement under this section with a State 
 
 &emsp;(1) the State will accept grant payments with funds to be made available under this subchapter and section 1285(m) of this title in accordance with a payment schedule established jointly by the Administrator under section 1381(b) of this title and will deposit all such payments in the water pollution control revolving fund established by the State in accordance with this subchapter;
 
-&emsp;(2) the State will deposit in the fund from State moneys an amount equal to at least 20percent of the total amount of all capitalization grants which will be made to the State with funds to be made available under this subchapter and section 1285(m) of this title on or before the date on which each quarterly grant payment will be made to the State under this subchapter;
+&emsp;(2) the State will deposit in the fund from State moneys an amount equal to at least 20 percent of the total amount of all capitalization grants which will be made to the State with funds to be made available under this subchapter and section 1285(m) of this title on or before the date on which each quarterly grant payment will be made to the State under this subchapter;
 
 &emsp;(3) the State will enter into binding commitments to provide assistance in accordance with the requirements of this subchapter in an amount equal to 120 percent of the amount of each such grant payment within 1 year after the receipt of such grant payment;
 

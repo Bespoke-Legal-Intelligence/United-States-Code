@@ -12,7 +12,7 @@ The Secretary of the Interior is authorized in his discretion, to—
 
 #### (b) Multiple ownership of land
 
-Where lands are held in multiple ownership, the Secretary is authorized to sell and exchange such lands to other Indians or the Yakima Tribes only if the sale or exchange is authorized in writing by the owners of at least a majority interest in such lands; except that no greaterpercentage of approval of individual Indians shall be required under sections 608 to 608c of this title than in any other statute of general application approved by Congress.
+Where lands are held in multiple ownership, the Secretary is authorized to sell and exchange such lands to other Indians or the Yakima Tribes only if the sale or exchange is authorized in writing by the owners of at least a majority interest in such lands; except that no greater percentage of approval of individual Indians shall be required under sections 608 to 608c of this title than in any other statute of general application approved by Congress.
 
 #### (c) Acquisitions to be held in trust
 

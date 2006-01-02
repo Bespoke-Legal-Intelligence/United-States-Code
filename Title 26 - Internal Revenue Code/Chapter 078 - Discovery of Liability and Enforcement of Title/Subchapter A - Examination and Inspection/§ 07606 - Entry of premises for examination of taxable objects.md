@@ -18,7 +18,3 @@ When such premises are open at night, the Secretary may enter them while so open
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7342 of this title.
-

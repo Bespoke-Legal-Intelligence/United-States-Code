@@ -116,7 +116,7 @@ Subsec. (e) of this section, which required the interagency working group establ
 
 2003—Subsec. (h). Pub. L. 108–7 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “There are authorized to be appropriated to the Secretary for purposes of carrying out the programs under subsections (d) and (e) of this section $10,000,000, to be divided equitably between the interagency working subgroups based on program requirements, for each of the fiscal years 1993 and 1994, and such sums as may be necessary for fiscal year 1995 to carry out the purposes of this subtitle. There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part. There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
 
-2000—Subsec. (h). Pub. L. 106–469 inserted at end “There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
+2000—Subsec. (h). Pub. L. 106–469 inserted at end “There are authorized to be appropriated for fiscalyears 2000 through 2003, such sums as may be necessary.”
 
 1996—Subsec. (h). Pub. L. 104–306 inserted at end “There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.”
 
@@ -124,7 +124,7 @@ Subsec. (e) of this section, which required the interagency working group establ
 
 “(1) There shall be established an interagency working group which, in consultation with the representative industry groups and relevant agency heads, shall make recommendations to coordinate the actions and programs of the Federal Government affecting commerce in renewable energy products and related services. The Secretary of Energy shall be the chairman of such group. The heads of appropriate agencies may detail such personnel and may furnish such services to such working group, with or without reimbursement, as may be necessary to carry out its functions.
 
-“(2) The interagency group shall establish a program to inform other countries of the benefits of policiesthat would allow small facilities which produce renewable energy to compete effectively with producers of energy from nonrenewable sources.”
+“(2) The interagency group shall establish a program to inform other countries of the benefits of policies that would allow small facilities which produce renewable energy to compete effectively with producers of energy from nonrenewable sources.”
 
 Subsec. (d)(4). Pub. L. 102–486, §1208, added par. (4).
 

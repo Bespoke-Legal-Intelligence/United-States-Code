@@ -38,9 +38,19 @@ Powers and Duties of the Administrator.—The Administrator shall carry out—
 
 &emsp;(2) other powers and duties prescribed by the Secretary.
 
-(Added Pub. L. 102–508, title IV, §401(a), Oct. 24, 1992, 106 Stat. 3310; amended Pub. L. 103–429, §6(1), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 108–426, §4(a), Nov. 30, 2004, 118 Stat. 2425.)
+(e)
+
+Administrative Authorities.—The Administrator may enter into grants and cooperative agreements with Federal agencies, State and local government agencies, other public entities, private organizations, and other persons—
+
+&emsp;(1) to conduct research into transportation service and infrastructure assurance; and
+
+&emsp;(2) to carry out other research activities of the Administration.
+
+(Added Pub. L. 102–508, title IV, §401(a), Oct. 24, 1992, 106 Stat. 3310; amended Pub. L. 103–429, §6(1), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 108–426, §4(a), Nov. 30, 2004, 118 Stat. 2425; Pub. L. 109–59, title VII, §7301, Aug. 10, 2005, 119 Stat. 1914.)
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–59 added subsec. (e).
 
 2004—Pub. L. 108–426, §4(a)(1), substituted “Research and Innovative Technology Administration” for “Research and Special Programs Administration” in section catchline.
 

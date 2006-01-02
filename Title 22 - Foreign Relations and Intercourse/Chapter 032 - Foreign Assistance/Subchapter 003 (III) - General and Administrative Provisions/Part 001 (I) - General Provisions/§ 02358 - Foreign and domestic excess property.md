@@ -26,7 +26,7 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 In subsec. (a), “section 1535(d) of title 31” substituted for “section 1210 of the General Appropriation Act, 1951 (64 Stat. 765) \[31 U.S.C. 686–1\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (b), “section 549(a) to (e) of title 40” substituted for “section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended” and“those subsections” substituted for “that subsection” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b), “section 549(a) to (e) of title 40” substituted for “section 203(j) of the Federal Property and Administrative Services Act of 1949, as amended” and “those subsections” substituted for “that subsection” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

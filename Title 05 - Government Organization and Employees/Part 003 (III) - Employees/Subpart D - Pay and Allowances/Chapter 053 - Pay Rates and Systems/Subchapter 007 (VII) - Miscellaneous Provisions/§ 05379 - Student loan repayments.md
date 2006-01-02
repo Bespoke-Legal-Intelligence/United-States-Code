@@ -32,7 +32,7 @@
 
 (2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
 
-(3) If an employee who is involuntarily separated on account of misconduct or who (excluding any employee relieved of liability under paragraph (2) of this subsection) is voluntarily separated before completing the required period of service fails to repay the amount agreed to under paragraph (1)(B) of this subsection, a sum equal to the amount outstanding is recoverable by the Government from the employee (or such employee's estate, if applicable) by—
+(3) If an employee who is involuntarily separated on account of misconduct or who (excluding any employee relieved of liability underparagraph (2) of this subsection) is voluntarily separated before completing the required period of service fails to repay the amount agreed to under paragraph (1)(B) of this subsection, a sum equal to the amount outstanding is recoverable by the Government from the employee (or such employee's estate, if applicable) by—
 
 &emsp;(A) setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
 

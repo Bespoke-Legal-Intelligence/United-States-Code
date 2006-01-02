@@ -12,9 +12,11 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 &emsp;(3) make an arrest without a warrant for an offense committed in Indian country if—
 
-&emsp;&emsp;(A) the offense is committed in the presence of the employee, or
+&emsp;&emsp;(A) the offense is committed in the presence of the employee,
 
-&emsp;&emsp;(B) the offense is a felony and the employee has reasonable grounds to believe that the person to be arrested has committed, or is committing, the felony;
+&emsp;&emsp;(B) the offense is a felony and the employee has reasonable grounds to believe that the person to be arrested has committed, or is committing, the felony, or
+
+&emsp;&emsp;(C) the offense is a misdemeanor crime of domestic violence, dating violence, stalking, or violation of a protection order and has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent or guardian of the victim, and the employee has reasonable grounds to believe that the person to be arrested has committed, or is committing the crime;
 
 &emsp;(4) offer and pay a reward for services or information, or purchase evidence, assisting in the detection or investigation of the commission of an offense committed in Indian country or in the arrest of an offender against the United States;
 
@@ -26,5 +28,9 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 &emsp;(8) when requested, assist (with or without reimbursement) any Federal, tribal, State, or local law enforcement agency in the enforcement or carrying out of the laws or regulations the agency enforces or administers.
 
-(Pub. L. 101–379, §4, Aug. 18, 1990, 104 Stat. 475.)
+(Pub. L. 101–379, §4, Aug. 18, 1990, 104 Stat. 475; Pub. L. 109–162, title IX, §908(b), Jan. 5, 2006, 119 Stat. 3083.)
+
+#### Amendments
+
+2006–Par. (3)(C). Pub. L. 109–162 added subpar. (C).
 

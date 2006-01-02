@@ -30,7 +30,7 @@ Any completed permit application under section 7410 of this title for a major em
 
 #### (d) Action taken on permit applications; notice; adverse impact on air quality related values; variance; emission limitations
 
-(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by such State and provide notice to the Administrator of every action related to the consideration of such permit.
+(1) Each State shall transmit to the Administrator a copy of each permit application relating to a major emitting facility received by suchState and provide notice to the Administrator of every action related to the consideration of such permit.
 
 (2)(A) The Administrator shall provide notice of the permit application to the Federal Land Manager and the Federal official charged with direct responsibility for management of any lands within a class I area which may be affected by emissions from the proposed facility.
 

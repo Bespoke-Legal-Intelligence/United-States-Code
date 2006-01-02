@@ -24,7 +24,7 @@ The credit allowed under subsection (a) for any taxable year shall not exceed th
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart C thereof, relating to refundable credits).
+&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart C thereof, relating to refundable credits, and subpart H thereof).
 
 #### (d) Qualified zone academy bond
 
@@ -118,11 +118,11 @@ For purposes of this section—
 
 #### (1) National limitation
 
-&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 1998, 1999, 2000, 2001, 2002, and 2003, and, except as provided in paragraph (4), zero thereafter.
+&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 1998, 1999, 2000, 2001, 2002, 2003, 2004, and 2005, and, except as provided in paragraph (4), zero thereafter.
 
 #### (2) Allocation of limitation
 
-&emsp;The national zone academy bond limitation for a calendar year shall be allocated by theSecretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
+&emsp;The national zone academy bond limitation for a calendar year shall be allocated by the Secretary among the States on the basis of their respective populations of individuals below the poverty line (as defined by the Office of Management and Budget). The limitation amount allocated to a State under the preceding sentence shall be allocated by the State education agency to qualified zone academies within such State.
 
 #### (3) Designation subject to limitation amount
 
@@ -158,11 +158,19 @@ For purposes of this section—
 
 Gross income includes the amount of the credit allowed to the taxpayer under this section (determined without regard to subsection (c)).
 
-#### (h) Credit treated as allowed under part IV of subchapter A
+#### (h) Credit treated as nonrefundable bondholder credit
 
-For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.
+For purposes of this title, the credit allowed by this section shall be treated as a credit allowable under subpart H of part IV of subchapter A of this chapter.
 
-(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60.)
+#### (i) S corporations
+
+In the case of a qualified zone academy bond held by an S corporation which is an eligible taxpayer—
+
+&emsp;(1) each shareholder shall take into account such shareholder's pro rata share of the credit, and
+
+&emsp;(2) no basis adjustments to the stock of the corporation shall be made under section 1367 on account of this section.
+
+(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, titleVI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997.)
 
 #### References in Text
 
@@ -173,6 +181,14 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(4)(
 Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), is classified to section 7801 of Title 20, Education.
 
 #### Amendments
+
+2005—Subsec. (c)(2). Pub. L. 109–58, §1303(c)(2), inserted “, and subpart H thereof” after “refundable credits”.
+
+Subsec. (h). Pub. L. 109–58, §1303(c)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.”
+
+2004—Subsec. (e)(1). Pub. L. 108–311, §304(a), substituted “2003, 2004, and 2005” for “and 2003”.
+
+Subsec. (i). Pub. L. 108–311, §406(c), added subsec. (i).
 
 2002—Subsec. (d)(4)(B). Pub. L. 107–110 substituted “9101” for “14101”.
 
@@ -189,6 +205,16 @@ Subsec. (e)(4). Pub. L. 106–170, §509(b), inserted at end “Any carryforward
 Subsec. (g). Pub. L. 105–206, §6004(g)(4), inserted “(determined without regard to subsection (c))” after “section”.
 
 Subsec. (h). Pub. L. 105–206, §6004(g)(3), added subsec. (h).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to taxable years beginning after Dec. 31, 2005, see section 1303(e) of Pub. L. 109–58, as amended, set out as an Effective Date note under section 54 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §304(b), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2003.”
+
+Amendment by section 406(c) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
 #### Effective Date of 2002 Amendments
 

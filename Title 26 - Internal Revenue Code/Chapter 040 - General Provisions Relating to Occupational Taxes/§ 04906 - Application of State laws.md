@@ -4,7 +4,3 @@ The payment of any special tax imposed by this subtitle for carrying on any trad
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 594.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4413 of this title.
-

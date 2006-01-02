@@ -8,7 +8,11 @@ Limitation on Payment of Restructuring Costs.—(1) The Secretary of Defense may
 
 &emsp;(B) that the amount of projected savings for the Department of Defense associated with the restructuring will exceed the amount of the costs allowed and that the business combination will result in the preservation of a critical capability that otherwise might be lost to the Department.
 
-(2) The Secretary may not delegate the authority to make a determination under paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense.
+(2) The Secretary may not delegate the authority to make a determination under paragraph (1), with respect to a business combination, to an official of the Department of Defense—
+
+&emsp;(A) below the level of an Assistant Secretary of Defense for cases in which the amount of restructuring costs is expected to exceed $25,000,000 over a 5-year period; or
+
+&emsp;(B) below the level of the Director of the Defense Contract Management Agency for all other cases.
 
 (b)
 
@@ -38,7 +42,7 @@ Report.—Not later than March 1 in each of 1998, 1999, 2000, 2001, and 2002, th
 
 Definition.—In this section, the term “business combination” includes a merger or acquisition.
 
-(Added Pub. L. 105–85, div. A, title VIII, §804(a)(1), Nov. 18, 1997, 111 Stat. 1832; amended Pub. L. 106–65, div. A, title X, §1066(a)(19), Oct. 5, 1999, 113 Stat. 771.)
+(Added Pub. L. 105–85, div. A, title VIII, §804(a)(1), Nov. 18, 1997, 111 Stat. 1832; amended Pub. L. 106–65, div. A, title X, §1066(a)(19), Oct. 5, 1999, 113 Stat. 771; Pub. L. 108–375, div. A, title VIII, §819, Oct. 28, 2004, 118 Stat. 2016.)
 
 #### Prior Provisions
 
@@ -47,6 +51,8 @@ A prior section 2325, added Pub. L. 99–500, §101(c) \[title X, §907(a)(1)\],
 Another prior section 2325 was renumbered section 2345 of this title.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–375 substituted “paragraph (1), with respect to a business combination, to an official of the Department of Defense—” for “paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense.” and added subpars. (A) and (B).
 
 1999—Subsec. (a)(1). Pub. L. 106–65 inserted “that occurs after November 18, 1997,” after “of the contractor” in introductory provisions.
 

@@ -2,7 +2,7 @@
 
 Section 300dd, act July 1, 1944, ch. 373, title XXIV, §2401, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3079, established program of formula grants for home and community-based health services.
 
-Section 300dd–1, act July 1, 1944, ch. 373, title XXIV, §2402, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3080; amended Nov. 18, 1988, Pub. L.100–690, title II, §2618(a), 102 Stat. 4240, provided requirements for carrying out purpose of grants.
+Section 300dd–1, act July 1, 1944, ch. 373, title XXIV, §2402, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3080; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2618(a), 102 Stat. 4240, provided requirements for carrying out purpose of grants.
 
 Section 300dd–2, act July 1, 1944, ch. 373, title XXIV, §2403, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3081, required submission of description of intended uses of grant.
 

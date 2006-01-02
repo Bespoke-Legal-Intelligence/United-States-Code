@@ -6,13 +6,13 @@ Except as otherwise provided in this section, amounts received by an employee th
 
 #### (b) Amounts expended for medical care
 
-Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, and his dependents (as defined in section 152). Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
+Except in the case of amounts attributable to (and not in excess of) deductions allowed under section 213 (relating to medical, etc., expenses) for any prior taxable year, gross income does not include amounts referred to in subsection (a) if such amounts are paid, directly or indirectly, to the taxpayer to reimburse the taxpayer for expenses incurred by him for the medical care (as defined in section 213(d)) of the taxpayer, his spouse, and his dependents (as definedin section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof). Any child to whom section 152(e) applies shall be treated as a dependent of both parents for purposes of this subsection.
 
 #### (c) Payments unrelated to absence from work
 
 Gross income does not include amounts referred to in subsection (a) to the extent such amounts—
 
-&emsp;(1) constitute payment for the permanent loss or loss of use of a member or function of the body, or the permanent disfigurement, of the taxpayer, his spouse, or a dependent (as defined in section 152), and
+&emsp;(1) constitute payment for the permanent loss or loss of use of a member or function of the body, or the permanent disfigurement, of the taxpayer, his spouse, or a dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), and
 
 &emsp;(2) are computed with reference to the nature of the injury without regard to the period the employee is absent from work.
 
@@ -24,7 +24,7 @@ For purposes of this section and section 104—
 
 &emsp;(1) amounts received under an accident or health plan for employees, and
 
-&emsp;(2) amounts received from a sickness and disability fund for employees maintainedunder the law of a State or the District of Columbia,
+&emsp;(2) amounts received from a sickness and disability fund for employees maintained under the law of a State or the District of Columbia,
 
 > shall be treated as amounts received through accident or health insurance.
 
@@ -122,13 +122,15 @@ For purposes of this section, the term “employee” does not include an indivi
 
 Notwithstanding any other provision of law, gross income includes benefits paid under section 2(a) of the Railroad Unemployment Insurance Act for days of sickness; except to the extent such sickness (as determined in accordance with standards prescribed by the Railroad Retirement Board) is the result of on-the-job injury.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat. 1177.)
 
 #### References in Text
 
 Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (i), is classified to section 352(a) of Title 45, Railroads.
 
 #### Amendments
+
+2004—Subsecs. (b), (c)(1). Pub. L. 108–311 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
 1989—Subsecs. (h), (i). Pub. L. 101–140 amended subsecs. (h) and (i) to read as if amendments by Pub. L. 99–514, §1151(c)(2), had not been enacted, see 1986 Amendment note below.
 
@@ -156,7 +158,7 @@ Subsec. (h)(8). Pub. L. 96–613 and Pub. L. 96–605 made identical amendments 
 
 1978—Subsec. (d)(4). Pub. L. 95–600, §701 (c)(1), redesignated par. (5) as (4). Former par. (4) redesignated (5)(A) and (C).
 
-Subsec. (d)(5). Pub. L. 95–600, §701(c)(1), added heading and subpar. (B), redesignated former par. (4) as subpars. (A) and (C), adding subpar. (C) heading and substituting “section 143(a)” for “section 143”; and redesignated former par. (6) as subpar. (D), inserting “defined” in heading.
+Subsec. (d)(5). Pub. L. 95–600, §701(c)(1), added heading and subpar. (B), redesignated former par. (4) as subpars.\(A) and (C), adding subpar. (C) heading and substituting “section 143(a)” for “section 143”; and redesignated former par. (6) as subpar. (D), inserting “defined” in heading.
 
 Subsec. (d)(6), (7). Pub. L. 95–600, §701(c)(1), redesignated par. (7) as (6). Former par. (6) redesignated (5)(D).
 
@@ -169,6 +171,10 @@ Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out “a territory” aft
 1964—Subsec. (d). Pub. L. 88–272 substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
 
 1962—Subsec. (g). Pub. L. 87–792 added subsec. (g).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -234,7 +240,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Revocation of Election
 
-Pub. L. 95–30, title III, §301(c), May 23, 1977, 91 Stat. 151, as amended by Pub. L. 95–600, title VII, §701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any election made under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] for a taxable year beginning in 1976 may be revoked (in such manner as may be prescribed by regulations) at any time before the expiration of the period for assessing a deficiency with respect to such taxable year (determined without regard to subsection (d) of this section) \[set out below\].”
+Pub. L. 95–30, title III, §301(c), May 23, 1977, 91 Stat. 151, as amended by Pub. L. 95–600, title VII,§701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any election made under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] for a taxable year beginning in 1976 may be revoked (in such manner as may be prescribed by regulations) at any time before the expiration of the period for assessing a deficiency with respect to such taxable year (determined without regard to subsection (d) of this section) \[set out below\].”
 
 #### Period for Assessing Deficiency
 
@@ -246,7 +252,7 @@ Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by 
 
 &emsp;“(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxable year beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
 
-&emsp;“(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuitystarting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enacting provisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply.”
+&emsp;“(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuity starting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enacting provisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply.”
 
 #### Special Rule for Existing Permanent and Total Disability Cases
 
@@ -269,10 +275,6 @@ Section 505(d) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §
 &emsp;“(2) on December 31, 1975, or December 31, 1976, was entitled to exclude any amount with respect to such retirement disability from gross income under section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\],
 
 > for purposes of section 72 the annuity starting date shall not be deemed to occur before the beginning of the taxable year in which the taxpayer attains age 65, or before the beginning of an earlier taxable year for which the taxpayer makes an irrevocable election not to seek the benefits of such section 105(d) for such year and all subsequent years.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 22, 51A, 213, 3401, 6039D, 7701, 7871 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

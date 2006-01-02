@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(B) for a different position in the Federal service under conditions described in regulations of the Office.
 
-(c) The Office may authorize the head of an agency to pay retention bonuses to a group of employees in 1 or more categories of positions in 1 or more geographic areas, subject to the requirements of subsection (b)(1) and regulations prescribed by the Office, if there is a high risk that a significant portion of employees in the group would be likely to leave in the absence of retention bonuses.
+(c) The Office may authorize the head of an agency to pay retention bonuses to a group ofemployees in 1 or more categories of positions in 1 or more geographic areas, subject to the requirements of subsection (b)(1) and regulations prescribed by the Office, if there is a high risk that a significant portion of employees in the group would be likely to leave in the absence of retention bonuses.
 
 (d)(1) Payment of a retention bonus is contingent upon the employee entering into a written service agreement with the agency to complete a period of employment with the agency.
 

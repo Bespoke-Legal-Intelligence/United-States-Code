@@ -10,7 +10,7 @@ In General.—Commemorative works—
 
 (b)
 
-Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similarmajor military conflict may not be authorized until at least 10 years after the officially designated end of such war or conflict.
+Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work solely commemorating a limited military engagement or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorized until at least 10 years after the officially designated end of such war or conflict.
 
 (c)
 
@@ -120,7 +120,7 @@ Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 10
 
 Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701.
 
-Martin Luther King, Jr. Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347.
+Martin Luther King, Jr. Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26; Pub. L. 108–125, §1, Nov. 11, 2003, 117 Stat. 1347; Pub. L. 109–54, title I, §134(c), Aug. 2, 2005, 119 Stat. 527.
 
 National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
 

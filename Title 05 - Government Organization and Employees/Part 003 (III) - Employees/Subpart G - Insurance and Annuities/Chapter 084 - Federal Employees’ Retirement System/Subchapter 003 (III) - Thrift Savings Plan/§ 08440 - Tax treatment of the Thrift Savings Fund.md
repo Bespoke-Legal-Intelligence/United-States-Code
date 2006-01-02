@@ -28,7 +28,7 @@ Section 209 of the Social Security Act, referred to in subsec. (c), is classifie
 
 1992—Subsec. (a)(3). Pub. L. 102–378 inserted “section 401(k)(4)(B) of such Code and” after “subject to”.
 
-1988—Subsec. (a)(3). Pub. L. 100–647, which directed the insertion of “, 401(k)(4)(B) of such Code,” after“subsection (b)”, could not be executed because of previous amendment by Pub. L. 100–202, §101(m) \[title VI, §624(b)(1)\] which struck out “subsection (b)”. See 1987 Amendment note below.
+1988—Subsec. (a)(3). Pub. L. 100–647, which directed the insertion of “, 401(k)(4)(B) of such Code,” after “subsection (b)”, could not be executed because of previous amendment by Pub. L. 100–202, §101(m) \[title VI, §624(b)(1)\] which struck out “subsection (b)”. See 1987 Amendment note below.
 
 1987—Subsec. (a)(3). Pub. L. 100–202, §101(m) \[title VI, §624(b)(1)\], struck out “the provisions of subsection (b) and” after “subject to”.
 

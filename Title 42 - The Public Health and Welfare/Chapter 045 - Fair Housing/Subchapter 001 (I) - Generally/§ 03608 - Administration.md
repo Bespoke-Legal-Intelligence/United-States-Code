@@ -70,7 +70,7 @@ The provisions of law and Executive orders to which subsection (e)(6) of this se
 
 &emsp;(12) any other provision of law which the Secretary specifies by publication in the Federal Register for the purpose of this subsection.
 
-(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct.13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
+(Pub. L. 90–284, title VIII, §808, Apr. 11, 1968, 82 Stat. 84; Pub. L. 95–251, §3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 95–454, title VIII, §801(a)(3)(J), Oct. 13, 1978, 92 Stat. 1222; Pub. L. 100–430, §7, Sept. 13, 1988, 102 Stat. 1623.)
 
 #### References in Text
 
@@ -258,7 +258,7 @@ On April 11, 1968, one week after the assassination of the great civil rights le
 
 Americans of every income level, seeking to live where they choose, feel the weight of discrimination because of the color of their skin, their race, their religion, their gender, their country of origin, or because they are disabled or have children.
 
-An increasing body of evidence indicates that barriers to fair housing are pervasive. Forty percent of all families move every 5 years. This statistic is significant given the results of a recent study, commissioned by the Department of Housing and Urban Development (HUD), which found that more than half of the African Americans and Latinos seeking to rent or buy a home are treated differently than whites with the same qualifications. Moreover, based upon Home Mortgage Disclosure Act \[12 U.S.C. 2801 et seq.\] data, the number of minority persons who are rejected when attempting to obtain loans to purchase homes is two to three times higher than it is for nonminorities in almost every metropolitan area of this country.
+An increasing body of evidence indicates that barriers to fair housing are pervasive. Forty percent of all families move every 5 years. This statistic is significant given the results of a recent study, commissioned by the Department of Housing and Urban Development (HUD), which found that more than half of the African Americans and Latinos seeking to rent or buy a home are treated differently than whites with the same qualifications. Moreover, based upon Home MortgageDisclosure Act \[12 U.S.C. 2801 et seq.\] data, the number of minority persons who are rejected when attempting to obtain loans to purchase homes is two to three times higher than it is for nonminorities in almost every metropolitan area of this country.
 
 Racial and ethnic segregation, both in the private housing market and in public and assisted housing, has been well documented. Despite legislation (the Fair Housing Act) and Executive action (Executive Order No. 11063 \[42 U.S.C. 1982 note\]), the divisive impact of housing segregation persists in metropolitan areas all across this country. Too many lower income and minority Americans face barriers to housing outside of central cities. Segregation in housing and schools deprives too many of our children and youth of an opportunity to enter the marketplace or work on an equal footing. For too many families, our cities are no longer the launching pads for economic self-sufficiency and upward mobility that they have been for countless immigrants and minorities since the country's birth. And many Americans who are better off abandon the cities.
 

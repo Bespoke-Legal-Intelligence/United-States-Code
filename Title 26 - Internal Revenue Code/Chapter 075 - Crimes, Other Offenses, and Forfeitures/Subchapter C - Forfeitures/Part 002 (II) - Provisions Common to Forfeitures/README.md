@@ -21,10 +21,6 @@
 
 1958—Pub. L. 85–859, title II, §204(11), Sept. 2, 1958, 72 Stat. 1429, substituted “$2,500” for “$1,000” in item 7325.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in title 31 section 5111.
-
 
 ---
 

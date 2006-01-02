@@ -8,7 +8,7 @@
 
 &emsp;(B) the sum of (i) the cost or value of the materials produced in a beneficiary country or two or more beneficiary countries, plus (ii) the direct costs of processing operations performed in a beneficiary country or countries is not less than 35 per centum of the appraised value of such article at the time it is entered.
 
-> For purposes of determining the percentage referred to in subparagraph (B), the term “beneficiary country” includes the Commonwealth of Puerto Rico and the United States Virgin Islands. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
+> For purposes of determining the percentage referred to in subparagraph (B), the term “beneficiary country” includes the Commonwealth of Puerto Rico, the United States Virgin Islands, and any former beneficiary country. If the cost or value of materials produced in the customs territory of the United States (other than the Commonwealth of Puerto Rico) is included with respect to an article to which this paragraph applies, an amount not to exceed 15 per centum of the appraised value of the article at the time it is entered that is attributed to such United States cost or value may be applied toward determining the percentage referred to in subparagraph (B).
 
 (2) The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out this subsection including, but not limited to, regulations providing that, in order to be eligible for duty-free treatment under this chapter, an article must be wholly the growth, product, or manufacture of a beneficiary country, or must be a new or different article of commerce which has been grown, produced, or manufactured in the beneficiary country; but no article or material of a beneficiary country shall be eligible for such treatment by virtue of having merely undergone—
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) such rum is the growth, product, or manufacture of a beneficiary country or of the Virgin Islands of the United States;
 
-&emsp;(B) such rum is imported directly from a beneficiary country or the Virgin Islands ofthe United States into the territory of Canada, and such liqueurs and spirituous beverages are imported directly from the territory of Canada into the customs territory of the United States;
+&emsp;(B) such rum is imported directly from a beneficiary country or the Virgin Islands of the United States into the territory of Canada, and such liqueurs and spirituous beverages are imported directly from the territory of Canada into the customs territory of the United States;
 
 &emsp;(C) when imported into the customs territory of the United States, such liqueurs and spirituous beverages are classified in subheading 2208.90 or 2208.40 of the HTS; and
 
@@ -70,7 +70,7 @@
 
 #### (i) Apparel articles assembled in one or more CBTPA beneficiary countries
 
-&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—
+&emsp;&emsp;&emsp;Apparel articles sewn or otherwise assembled in one or more CBTPA beneficiarycountries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—
 
 &emsp;&emsp;&emsp;&emsp;(I) entered under subheading 9802.00.80 of the HTS; or
 
@@ -84,7 +84,7 @@
 
 #### (iii) Certain knit apparel articles
 
-&emsp;&emsp;&emsp;(I) Apparel articles knit to shape (other than socks provided for in heading 6115 of the HTS) in a CBTPA beneficiary country from yarns wholly formed in the United States, and knit apparel articles (other than t-shirts described in subclause (III)) cut and wholly assembled in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries or the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in one or more CBTPA beneficiary countries),in an amount not exceeding the amount set forth in subclause (II).
+&emsp;&emsp;&emsp;(I) Apparel articles knit to shape (other than socks provided for in heading 6115 of the HTS) in a CBTPA beneficiary country from yarns wholly formed in the United States, and knit apparel articles (other than t-shirts described in subclause (III)) cut and wholly assembled in one or more CBTPA beneficiary countries from fabric formed in one or more CBTPA beneficiary countries or the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are formed in one or more CBTPA beneficiary countries), in an amount not exceeding the amount set forth in subclause (II).
 
 &emsp;&emsp;&emsp;(II) The amount referred to in subclause (I) is as follows:
 
@@ -116,7 +116,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2001, and during each of the 6 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferential treatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
+&emsp;&emsp;&emsp;&emsp;During the 1-year period beginning on October 1, 2001, and during each of the 6 succeeding 1-year periods, apparel articles described in subclause (I) of a producer or an entity controlling production shall be eligible for preferentialtreatment under subparagraph (B) only if the aggregate cost of fabrics (exclusive of all findings and trimmings) formed in the United States that are used in the production of all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period is at least 75 percent of the aggregate declared customs value of the fabric (exclusive of all findings and trimmings) contained in all such articles of that producer or entity that are entered and eligible under this clause during the preceding 1-year period.
 
 #### (III) Development of procedure to ensure compliance
 
@@ -160,7 +160,7 @@
 
 #### (III) De minimis rule
 
-&emsp;&emsp;&emsp;&emsp;An article that would otherwise be ineligible for preferential treatment under this paragraph because the article contains fibers or yarns not wholly formed in the United States or in one or more CBTPA beneficiary countries shall not be ineligible for such treatment if the total weight of all such fibers or yarns is not more than 7 percent of the total weight of the good. Notwithstanding the preceding sentence, an apparel article containing elastomeric yarns shall be eligible for preferential treatment under this paragraph only if such yarns are wholly formed in the United States.
+&emsp;&emsp;&emsp;&emsp;An article that would otherwise be ineligible for preferential treatment underthis paragraph because the article contains fibers or yarns not wholly formed in the United States or in one or more CBTPA beneficiary countries shall not be ineligible for such treatment if the total weight of all such fibers or yarns is not more than 7 percent of the total weight of the good. Notwithstanding the preceding sentence, an apparel article containing elastomeric yarns shall be eligible for preferential treatment under this paragraph only if such yarns are wholly formed in the United States.
 
 #### (IV) Special origin rule
 
@@ -184,7 +184,7 @@
 
 #### (B) Preferential treatment
 
-&emsp;&emsp;Except as provided in subparagraph (E), during the transition period, the articles towhich this subparagraph applies shall enter the United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
+&emsp;&emsp;Except as provided in subparagraph (E), during the transition period, the articles to which this subparagraph applies shall enter the United States free of duty and free of any quantitative restrictions, limitations, or consultation levels.
 
 #### (C) Handloomed, handmade, and folklore articles
 
@@ -242,7 +242,7 @@
 
 #### (B) Relationship to subsection (h) duty reductions
 
-&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is arate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
+&emsp;&emsp;If at any time during the transition period the rate of duty that would (but for action taken under subparagraph (A)(i) in regard to such period) apply with respect to any article under subsection (h) of this section is a rate of duty that is lower than the rate of duty resulting from such action, then such lower rate of duty shall be applied for the purposes of implementing such action.
 
 #### (4) Customs procedures
 
@@ -366,6 +366,28 @@
 
 &emsp;&emsp;The term “FTAA” means the Free Trade Area of the Americas.
 
+#### (G) Former CBTPA beneficiary country
+
+&emsp;&emsp;The term “former CBTPA beneficiary country” means a country that ceases to be designated as a CBTPA beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
+
+#### (H) Articles that undergo production in a CBTPA beneficiary country and a former CBTPA beneficiary country
+
+&emsp;&emsp;(i) For purposes of determining the eligibility of an article for preferential treatment under paragraph (2) or (3), references in either such paragraph, and in subparagraph (C) of this paragraph to—
+
+&emsp;&emsp;&emsp;(I) a “CBTPA beneficiary country” shall be considered to include any former CBTPA beneficiary country, and
+
+&emsp;&emsp;&emsp;(II) “CBTPA beneficiary countries” shall be considered to include former CBTPA beneficiary countries,
+
+> &emsp;&emsp;if the article, or a good used in the production of the article, undergoes production in a CBTPA beneficiary country.
+
+&emsp;&emsp;(ii) An article that is eligible for preferential treatment under clause (i) shall not be ineligible for such treatment because the article is imported directly from a former CBTPA beneficiary country.
+
+&emsp;&emsp;(iii) Notwithstanding clauses (i) and (ii), an article that is a good of a former CBTPA beneficiary country for purposes of section 1304 of this title or section 3592 of this title, as the case may be, shall not be eligible for preferential treatment under paragraph (2) or (3), unless—
+
+&emsp;&emsp;&emsp;(I) it is an article that is a good of the Dominican Republic under either such section 1304 or 3592 of this title; and
+
+&emsp;&emsp;&emsp;(II) the article, or a good used in the production of the article, undergoes production in Haiti.
+
 #### (c) Sugar and beef products; stable food production plan; suspension of duty-free treatment; monitoring
 
 (1) As used in this subsection—
@@ -480,7 +502,11 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 &emsp;(B) is 1.5 percent ad valorem or greater, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed the proclaimed reduction plus 1 percent ad valorem.
 
-(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), title XVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, §1558, title II, §2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592.)
+(Pub. L. 98–67, title II, §213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, §235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, §423(f)(2), title XVIII, §1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, §9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, §404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, §3001\[(a)\], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, §3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, §1558, title II, §2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592; Pub. L. 109–53, title IV, §402(c), (d), Aug. 2, 2005, 119 Stat. 496.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 #### References in Text
 
@@ -501,6 +527,10 @@ Amendment of subsec. (b)(2)(A)(i) of this section by Pub. L. 107–210, §3107(a
 Amendment of subsec. (b)(2)(A)(ii) of this section by Pub. L. 107–210, §3107(a)(2), was executed after amendment by Pub. L. 107–206, §3001\[(a)\](2), notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–53, §§107(d), 402(c), temporarily substituted “the Commonwealth of Puerto Rico, the United States Virgin Islands, and any former beneficiary country” for “the Commonwealth of Puerto Rico and the United States Virgin Islands” in concluding provisions. See Effective and Termination Dates of 2005 Amendment note below.
+
+Subsec. (b)(5)(G), (H). Pub. L. 109–53, §§107(d), 402(d), temporarily added subpars. (G) and (H). See Effective and Termination Dates of 2005 Amendment note below.
 
 2004—Subsec. (b)(1)(B). Pub. L. 108–429, §1558(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “footwear not designated at the time of the effective date of this chapter as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974;”.
 
@@ -628,9 +658,13 @@ Subsec. (f)(5)(B). Pub. L. 99–514, §1890(2), substituted “138.46” for “
 
 1984—Subsec. (a)(3). Pub. L. 98–573 added par. (3) relating to products of a beneficiary country imported directly from such country into Puerto Rico.
 
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
+
 #### Effective Date of 2004 Amendment
 
-Except as otherwise provided, amendment by section 1558 of Pub. L. 108–429 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 1571 of Pub. L. 108–429, set out as a note under section 1313 of this title.
+Except as otherwise provided, amendment by section 1558 of Pub. L. 108–429 applicable with respect to goodsentered, or withdrawn from warehouse for consumption, on or after the 15th day after Dec. 3, 2004, see section 1571 of Pub. L. 108–429, set out as a note under section 1313 of this title.
 
 #### Effective Date of 2002 Amendments
 
@@ -720,7 +754,7 @@ Pub. L. 108–429, title V, §5001, Dec. 3, 2004, 118 Stat. 2604, provided that:
 
 #### Ethyl Alcohol and Mixtures Thereof for Fuel Use
 
-Section 423(a)–(c), (e) of Pub. L. 99–514, as amended by Pub. L. 100–418, title I, §1910(a), Aug. 23, 1988, 102 Stat. 1319; Pub. L. 101–221, §7(a), Dec. 12, 1989, 103 Stat. 1890, provided that:
+Section 423(a)–(c), (e) of Pub. L. 99–514, as amended by Pub. L. 100–418, title I, §1910(a), Aug. 23, 1988, 102 Stat.1319; Pub. L. 101–221, §7(a), Dec. 12, 1989, 103 Stat. 1890, provided that:
 
 “(a)
 
@@ -826,7 +860,7 @@ Definitions.—For purposes of this section \[amending this section and General 
 
 Drawbacks.—
 
-&emsp;“(1) For purposes of subsections (b) and (j)(2) of section 313 of the Tariff Act of 1930 (19 U.S.C. 1313), as amended by section 1888(2) of this Act, any ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States \[not classified to the Code\]) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) which is subject to the additional duty imposed by item 901.50 of the Appendix to such Schedules may be treated as being fungible with, or of being of the same kind and quality as, any other imported ethyl alcohol (provided for in item 427.88 of such Schedules) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) only if such other imported ethyl alcohol or mixture thereof is also subject to such additional duty.
+&emsp;“(1) For purposes of subsections (b) and (j)(2) of section 313 of the Tariff Act of 1930 (19 U.S.C. 1313), as amended by section 1888(2) of this Act, any ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States \[not classified to the Code\]) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) which is subject to the additional duty imposed by item 901.50 of the Appendix to such Schedules may be treated as being fungible with, or of being of the same kind and quality as, any other imported ethyl alcohol (provided for in item 427.88 of such Schedules) or mixture containing such ethyl alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) onlyif such other imported ethyl alcohol or mixture thereof is also subject to such additional duty.
 
 &emsp;“(2) Paragraph (1) shall not apply with respect to ethyl alcohol (provided for in item 427.88 of the Tariff Schedules of the United States) or mixture containing such ethly \[ethyl\] alcohol (provided for in part 1, 2, or 10 of schedule 4 of such Schedules) that is exempt from the additional duty imposed by item 901.50 of the Appendix to such Schedules by reason of—
 
@@ -850,7 +884,7 @@ Proc. No. 7351, Oct. 2, 2000, 65 F.R. 59329, provided in pars. (3) and (5) that 
 
 #### Ex. Ord. No. 13191. Implementation of the African Growth and Opportunity Act and the United States-Caribbean Basin Trade Partnership Act
 
-Ex. Ord. No. 13191, Jan. 17, 2001, 66 F.R. 7271, provided:
+Ex. Ord. No. 13191, Jan. 17, 2001, 66 F.R. 7271, as amended by Proc. No. 7912, par. 13, June 29, 2005, 70 F.R. 37963, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the African Growth and Opportunity Act (Title I of Public Law 106–200) \[19 U.S.C. 3701 et seq.\] (AGOA), the United States-Caribbean Basin Trade Partnership Act (Title II of Public Law 106–200) \[see Short Title of 2000 Amendment note set out under section 2701 of this title\] (CBTPA), the Caribbean Basin Economic Recovery Act (19 U.S.C. 2701 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to expand international trade and enhance our economic partnership with sub-Saharan Africa and the Caribbean Basin, promote investment and economic development and reduce poverty in those regions, and create new economic opportunities for American workers and businesses, it is hereby ordered as follows:
 
@@ -858,11 +892,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Apparel Articles Assembled from Fabrics or Yarn Not Available in Commercial Quantities</i>. The Committee for the Implementation of Textile Agreements (the “Committee”) is authorized to exercise the authority vested in the President under section 112(b)(5)(B)(i) of the AGOA (19 U.S.C. 3721(b)(5)(B)(i)) to determine whether yarns or fabrics cannot be supplied by the domestic industry in commercial quantities in a timely manner. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The Committee and the United States Trade Representative (USTR) are jointly authorized to exercise the authority vested in the President under sections 112(b)(5)(B)(ii), (iii), and (v) of the AGOA (19 U.S.C. 3721(b)(5)(B)(ii), (iii), and (v)) to obtain advice from the appropriate advisory committee, to submit a report to the appropriate Congressional committees, and to consult with those Congressional committees. The USTR is authorized to exercise the authority vested in the President under section 112(b)(5)(B)(ii) of the AGOA to obtain advice from the U.S. International Trade Commission (USITC).
 
-Sec. 2. <i>Handloomed, Handmade, and Folklore Articles</i>. The Committee, after consultation with the Commissioner, United States Customs Service (Commissioner), is authorized to exercise the authority vested in the President under section 112(b)(6) of the AGOA (19 U.S.C. 3721(b)(6)) to consult with beneficiary sub-Saharan African countries and to determine which, if any, particular textile and apparel goods shall be treated as being handloomed, handmade, or folklore articles. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
+Sec. 2. <i>Handloomed, Handmade, and Folklore Articles and Ethnic Printed Fabrics</i>. The Committee, after consultation with the Commissioner, United States Customs Service (Commissioner), is authorized to exercise the authority vested in the President under section 112(b)(6) of the AGOA (19 U.S.C. 3721(b)(6)) to consult with beneficiary sub-Saharan African countries and to determine which, if any, particular textile and apparel goods shall be treated as being handloomed, handmade, or folklore articles or ethnic printed fabrics. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
 Sec. 3. <i>Certain Interlinings</i>. The Committee is authorized to exercise the authority vested in the President under section 112(d)(1)(B)(iii) of the AGOA (19 U.S.C. 3721(d)(1)(B)(iii)) to determine whether U.S. manufacturers are producing interlinings in the United States in commercial quantities. The Committee shall establish procedures to ensure appropriate public participation in any such determination. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
 
-Sec. 4. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 113(b)(3) of the AGOA (19 U.S.C. 3722(b)(3)) to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and to deny for a period of 5 years all benefits under section 112 of the AGOA (19 U.S.C. 3721) to any such exporter, any successor of such exporter, and any other entity owned or operated by the principal of such exporter. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take such actions to carry out any such determination as directed by the Committee.
+Sec. 4. <i>Penalties for Transshipments</i>. The Committee, after consultation with the Commissioner, is authorized to exercise the authority vested in the President under section 113(b)(3) of the AGOA (19 U.S.C. 3722(b)(3)) to determine, based on sufficient evidence, whether an exporter has engaged in transshipment and to deny for a period of 5 years all benefits under section 112 of the AGOA (19 U.S.C. 3721) to any such exporter, any successor of such exporter, and any other entity owned or operated by the principal of such exporter. The determination or determinations of the Committee under this section shall be set forth in a notice or notices that the Committee shall cause to be published in the Federal Register. The Commissioner shall take suchactions to carry out any such determination as directed by the Committee.
 
 Sec. 5. <i>Effective Visa Systems</i>. Pursuant to sections 112(a) and 113(a)(1) of the AGOA (19 U.S.C. 3721(a) and 3722(a)(1)), the USTR is authorized to direct the Commissioner to take such actions as may be necessary to ensure that textile and apparel articles described in section 112(b) of the AGOA (19 U.S.C. 3721(b)) that are entered, or withdrawn from warehouse, for consumption are accompanied by an appropriate export visa, if the preferential treatment described in section 112(a) of the AGOA is claimed with respect to such articles.
 
@@ -881,8 +915,6 @@ Sec. 10. <i>Bilateral Emergency Tariff Actions</i>. The Committee is authorized 
 #### Part III—General Provisions
 
 Sec. 11. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

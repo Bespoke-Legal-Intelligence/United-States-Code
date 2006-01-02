@@ -1,24 +1,82 @@
 ### §2601. General gift funds
 
-(a) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real or personal property, made on the condition that it be used for the benefit, or in connection with the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of his department. He may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest made under this subsection.
+(a)
 
-(b) Gifts and bequests of money, and the proceeds of the sale of property, received under subsection (a) shall be deposited in the Treasury in the fund called—
+General Authority to Accept Gifts.—Subject to subsection (d)(2), the Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of the Secretary.
 
-&emsp;(1) “Department of the Army General Gift Fund”, in the case of deposits of that department;
+(b)
 
-&emsp;(2) “Department of the Navy General Gift Fund”, in the case of deposits of that department;
+Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees.—(1) Subject to subsection (d)(2), the Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, money, or services made on the condition that the gift, devise, or bequest be used for the benefit of—
 
-&emsp;(3) “Department of the Air Force General Gift Fund”, in the case of deposits of that department; and
+&emsp;(A) members of the armed forces, including members performing full-time National Guard duty under section 502(f) of title 32, who incur a wound, injury, or illness while in the line of duty;
 
-&emsp;(4) “Coast Guard General Gift Fund”, in the case of deposits of the Secretary of Homeland Security.
+&emsp;(B) civilian employees of the Department of Defense who incur a wound, injury, or illness while in the line of duty;
 
-> The Secretary concerned may disburse funds deposited under this subsection for the benefit or use of the designated institution or organization, subject to the terms of the gift, devise, or bequest.
+&emsp;(C) dependents of such members or employees; and
 
-(c) For the purposes of Federal income, estate, and gift taxes, property that is accepted under subsection (a) shall be considered as a gift, devise, or bequest to or for the use of the United States.
+&emsp;(D) survivors of such members or employees who are killed.
 
-(d) The Secretary of the Treasury, upon the request of the Secretary of a military department, may retain money, securities, and the proceeds of the sale of securities, in the gift fund of the department concerned, and may invest money and reinvest the proceeds of the sale of securities in that fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The Secretary of the Treasury may do likewise with respect to the Coast Guard General Gift Fund. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund of the department concerned and may be disbursed as provided in subsection (b).
+(2) The Secretary concerned may not accept a gift of services from a foreign government or international organization under this subsection. A gift of real property, personal property, or money from a foreign government or international organization may be accepted under this subsection only if the gift is not designated for a specific individual.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(3) The Secretary of Defense shall prescribe regulations specifying the conditions that may be attached to a gift, devise, or bequest accepted under this subsection.
+
+(4) The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.
+
+(c)
+
+Gift Funds.—Gifts and bequests of money, and the proceeds of the sale of property, received under subsection (a) or (b) shall be deposited in the Treasury in the following accounts:
+
+&emsp;(1) The Department of the Army General Gift Fund, in the case of deposits made by the Secretary of the Army.
+
+&emsp;(2) The Department of the Navy General Gift Fund, in the case of deposits made by the Secretary of the Navy.
+
+&emsp;(3) The Department of the Air Force General Gift Fund, in the case of deposits made by the Secretary of the Air Force.
+
+&emsp;(4) The Coast Guard General Gift Fund, in the case of deposits made by the Secretary of Homeland Security.
+
+&emsp;(5) The Department of Defense General Gift Fund, in the case of deposits made by the Secretary of Defense.
+
+(d)
+
+Use of Gifts; Prohibitions.—(1) Except as provided in paragraph (2), property and money accepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under subsection (b) may be performed, without further specific authorization in law.
+
+(2) Property and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection (b)—
+
+&emsp;(A) if the use of the property or money or the performance of the services in connection with any program, project, or activity would result in the violation of any prohibition or limitation otherwise applicable to such program, project, or activity;
+
+&emsp;(B) if the conditions attached to the property, money, or services are inconsistent with applicable law or regulations;
+
+&emsp;(C) if the Secretary concerned determines that the use of the property or money or the performance of the services would reflect unfavorably on the ability of the Department of Defense or the Coast Guard, any employee of the Department or Coast Guard, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
+
+&emsp;(D) if the Secretary concerned determines that the use of the property or money or the performance of the services would compromise the integrity or appearance of integrity of any program of the Department of Defense or Coast Guard, or any individual involved in such a program.
+
+(3) The Secretary concerned may disburse funds deposited in a gift fund referred to in subsection (c) for the purposes specified in subsections (a) and (b), subject to the terms of the gift, devise, or bequest.
+
+(e)
+
+Payment of Expenses.—The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
+
+(f)
+
+Treatment of Gifts.—For the purposes of Federal income, estate, and gift taxes, any property or money accepted under subsection (a) and any property, money, or services accepted under subsection (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
+
+(g)
+
+Management of Funds.—In the case of each gift fund referred to in subsection (c), the Secretary of the Treasury, upon the request of the Secretary concerned, may retain money, securities, and the proceeds of the sale of securities in the gift fund and may invest money and reinvest the proceeds of the sale of securities in the gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund and may be disbursed as provided in subsection (d).
+
+(h)
+
+Comptroller General Review.—The Comptroller General shall make periodic audits of gifts, devises, and bequests accepted under subsection (a) or (b) at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
+
+(i)
+
+Definitions.—In this section:
+
+&emsp;(1) The term “Secretary concerned” includes the Secretary of Defense.
+
+&emsp;(2) The term “services” includes activities that benefit the morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211.)
 
 Historical and Revision Notes
 
@@ -56,6 +114,8 @@ In subsection (d), the words “or any part thereof deposited in the Treasury pu
 
 #### Amendments
 
+2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to general gift funds.
+
 2002—Subsec. (b)(4). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
 1980—Subsec. (b)(4). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
@@ -67,8 +127,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2605, 2607, 2612, 4356, 7222 of this title; title 6 section 453.
 

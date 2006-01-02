@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Any building and loan association, savings and loan association, cooperative bank, homestead association, insurance company, savings bank, or any insured depository institution (as defined in section 1422 of this title), shall be eligible to become a member of a Federal Home Loan Bank if such institution—
+&emsp;Any building and loan association, savings and loan association, cooperative bank, homestead association, insurance company, savings bank, or any insured depository institution (asdefined in section 1422 of this title), shall be eligible to become a member of a Federal Home Loan Bank if such institution—
 
 &emsp;&emsp;(A) is duly organized under the laws of any State or of the United States;
 

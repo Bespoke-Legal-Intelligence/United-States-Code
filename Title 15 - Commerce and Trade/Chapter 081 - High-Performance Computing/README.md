@@ -44,10 +44,7 @@
 | (b) | Authorization of appropriations. |
 | [5523\.](Subchapter%20002%20%28II%29%20-%20Agency%20Activities/%C2%A7%2005523%20-%20Department%20of%20Energy%20activities.md) | Department of Energy activities. |
 | (a) | General responsibilities. |
-| (b) | Collaborative Consortia. |
-| (c) | Technology transfer. |
-| (d) | Reports. |
-| (e) | Authorization of appropriations. |
+| (b) | Authorization of appropriations. |
 | [5524\.](Subchapter%20002%20%28II%29%20-%20Agency%20Activities/%C2%A7%2005524%20-%20Department%20of%20Commerce%20activities.md) | Department of Commerce activities. |
 | (a) | General responsibilities. |
 | (b) | High-performance computing and network security. |
@@ -78,7 +75,7 @@
 | [5542\.](Subchapter%20003%20%28III%29%20-%20Department%20of%20Energy%20High-End%20Computing%20Revitalization/%C2%A7%2005542%20-%20Department%20of%20Energy%20high-end%20computing%20research%20and%20development%20program.md) | Department of Energy high-end computing research and development program. |
 | (a) | In general. |
 | (b) | Program. |
-| (c) | Leadership systems facilities. |
+| (c) | Leadership Systems facilities. |
 | (d) | High-End Software Development Center. |
 | [5543\.](Subchapter%20003%20%28III%29%20-%20Department%20of%20Energy%20High-End%20Computing%20Revitalization/%C2%A7%2005543%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

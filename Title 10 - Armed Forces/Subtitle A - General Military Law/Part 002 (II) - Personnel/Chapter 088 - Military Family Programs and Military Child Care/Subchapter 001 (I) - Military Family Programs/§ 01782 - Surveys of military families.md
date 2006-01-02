@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense, in order to determine the effectiveness of Federal programs relating to military families and the need for new programs, may conduct surveys of—
+Authority.—The Secretary of Defense, in order to determine the effectiveness of Federalprograms relating to military families and the need for new programs, may conduct surveys of—
 
 &emsp;(1) members of the armed forces who are on active duty, in an active status, or retired;
 

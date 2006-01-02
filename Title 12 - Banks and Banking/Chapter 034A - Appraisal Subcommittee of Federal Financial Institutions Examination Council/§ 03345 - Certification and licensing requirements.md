@@ -32,7 +32,7 @@ Pub. L. 102–233, §701(a), which added subsec. (e) prohibiting Appraisal Subco
 
 #### Construction of 1991 Amendment
 
-Section 1617(b) of Pub. L. 102–550 provided that: “No amendments made by title VII of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[amending this section and section 3348 of this title\] shall be deemed to have taken effect before the date of the enactment of this Act \[Oct. 28,1992\] and the provisions of law amended by title VII shall continue in effect as if no such amendments had been made by such title.”
+Section 1617(b) of Pub. L. 102–550 provided that: “No amendments made by title VII of the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[amending this section and section 3348 of this title\] shall be deemed to have taken effect before the date of the enactment of this Act \[Oct. 28, 1992\] and the provisions of law amended by title VII shall continue in effect as if no such amendments had been made by such title.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “de minimis”.</i>
 

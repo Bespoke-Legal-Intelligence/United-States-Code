@@ -22,7 +22,7 @@ Except as provided in section 1606 of this title, a biomaterials supplier shall 
 
 &emsp;&emsp;(A)(i) registered or was required to register with the Secretary pursuant to section 360 of this title and the regulations issued under such section; and
 
-&emsp;&emsp;(ii) included or was required to include the implant on a list of devices filed with the Secretary pursuant to section 360(j) of this title and the regulations issued under such section;
+&emsp;&emsp;(ii) included or was required to include the implant on a list of devices filed with theSecretary pursuant to section 360(j) of this title and the regulations issued under such section;
 
 &emsp;&emsp;(B) is the subject of a declaration issued by the Secretary pursuant to paragraph (3) that states that the supplier, with respect to the implant that allegedly caused harm to the claimant, was required to—
 

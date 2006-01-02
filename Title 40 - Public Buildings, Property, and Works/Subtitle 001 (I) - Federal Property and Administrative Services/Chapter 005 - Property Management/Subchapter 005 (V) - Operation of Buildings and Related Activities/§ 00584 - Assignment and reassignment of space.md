@@ -60,7 +60,7 @@ Section 1. In order to make the Federal use of work space (including office spac
 
 (f) Report all vacant work space retained for future Federal uses to the Administrator of General Services so that it may be made available for the temporary use of other Federal agencies, to the extent consistent with national defense requirements;
 
-(g) Establish a work space management plan to meet the provisions of this Order, including specification ofthe goals to be achieved and actions to be taken by the agency in order to improve its utilization of all work space and related furnishings; and
+(g) Establish a work space management plan to meet the provisions of this Order, including specification of the goals to be achieved and actions to be taken by the agency in order to improve its utilization of all work space and related furnishings; and
 
 (h) Establish information systems, implement inventory controls and conduct surveys, in accordance with procedures established by the Administrator of General Services, so that a government-wide reporting system may be developed.
 

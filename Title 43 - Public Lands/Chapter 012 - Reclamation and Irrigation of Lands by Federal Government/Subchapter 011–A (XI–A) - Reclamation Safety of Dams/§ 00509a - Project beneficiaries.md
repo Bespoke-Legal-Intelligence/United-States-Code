@@ -26,7 +26,7 @@ The Secretary shall—
 
 #### (d) Waiver
 
-The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c) of thissection, if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
+The Secretary may waive 1 or more of the requirements of subsections (a), (b), and (c) of this section, if the Secretary determines that implementation of the requirement could have an adverse impact on dam safety or security.
 
 (Pub. L. 95–578, §5A, as added Pub. L. 108–439, §2(b), Dec. 3, 2004, 118 Stat. 2627.)
 

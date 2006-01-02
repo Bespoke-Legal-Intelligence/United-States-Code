@@ -38,7 +38,7 @@ Inland divisions.—A carrier providing transportation or service described in s
 
 &emsp;(4)
 
-Time-volume rates.—Rates in tariffs filed under this subsection may vary with the volume of cargo offered over a specified period of time.
+Time-volume rates.—Rates in tariffs filed under this subsection may vary with thevolume of cargo offered over a specified period of time.
 
 &emsp;(5)
 
@@ -78,7 +78,7 @@ Complaints.—A complaint that a rate or related rule or practice maintained in 
 
 (d)
 
-Invalidation.—The Board may invalidate a tariff prepared by a carrier or carriers underthis section if that tariff violates this section or a regulation of the Board carrying out this section.
+Invalidation.—The Board may invalidate a tariff prepared by a carrier or carriers under this section if that tariff violates this section or a regulation of the Board carrying out this section.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 868.)
 

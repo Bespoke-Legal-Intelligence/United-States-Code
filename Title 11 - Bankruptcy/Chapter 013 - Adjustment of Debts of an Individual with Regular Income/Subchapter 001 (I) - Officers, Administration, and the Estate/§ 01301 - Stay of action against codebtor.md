@@ -36,7 +36,7 @@ The automatic stay under this section pertains only to the collection of a consu
 
 Subsection (b) excepts the giving of notice of dishonor of a negotiable instrument from the reach of the codebtor stay.
 
-Under subsection (c), if the codebtor has property out of which the creditor's claim can be satisfied, the court can grant relief from the stay absent the transfer of a security interest in that property by the codebtor to the creditor. Correspondingly, if there is reasonable cause to believe that property is about to be disposed of by the codebtor which could be used to satisfy his obligation to the creditor, the court should lift the stay to allow the creditor to perfect his rights against such property. Likewise, if property is subject to rapid depreciation or decrease in value the stay should be lifted to allow the creditor to protect his rights to reach suchproperty. Otherwise, the creditor's interest would be irreparably harmed by such stay. Property which could be used to satisfy the claim could be disposed of or encumbered and placed beyond the reach of the creditor. The creditor should be allowed to protect his rights to reach property which could satisfy his claim and prevent its erosion in value, disposal, or encumbrance.
+Under subsection (c), if the codebtor has property out of which the creditor's claim can be satisfied, the court can grant relief from the stay absent the transfer of a security interest in that property by the codebtor to the creditor. Correspondingly, if there is reasonable cause to believe that property is about to be disposed of by the codebtor which could be used to satisfy his obligation to the creditor, the court should lift the stay to allow the creditor to perfect his rights against such property. Likewise, if property is subject to rapid depreciation or decrease in value the stay should be lifted to allow the creditor to protect his rights to reach such property. Otherwise, the creditor's interest would be irreparably harmed by such stay. Property which could be used to satisfy the claim could be disposed of or encumbered and placed beyond the reach of the creditor. The creditor should be allowed to protect his rights to reach property which could satisfy his claim and prevent its erosion in value, disposal, or encumbrance.
 
 #### house report no. 95–595
 
@@ -56,5 +56,5 @@ Subsec. (d). Pub. L. 98–353, §313, added subsec. (d).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

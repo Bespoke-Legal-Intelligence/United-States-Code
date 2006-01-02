@@ -10,7 +10,7 @@ It shall not be a defense that the accused person had any interest in such money
 
 Based on title 18, U.S.C., 1940 ed., §186 (May 29, 1920, ch. 212, 41 Stat. 630).
 
-The smaller punishment for an offense involving $100 or less was inserted to conform to section 641 of this title which represents a later expression of congressional intent.
+The smaller punishment for an offense involving $100 or less was inserted to conform to section 641 of thistitle which represents a later expression of congressional intent.
 
 Minor changes were made in phraseology.
 

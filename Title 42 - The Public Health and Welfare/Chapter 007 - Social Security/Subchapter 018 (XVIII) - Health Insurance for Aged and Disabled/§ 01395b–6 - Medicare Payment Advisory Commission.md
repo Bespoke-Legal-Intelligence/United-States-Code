@@ -92,7 +92,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (C) Majority nonproviders
 
-&emsp;&emsp;Individuals who are directly involved in the provision, or management of the delivery, of items and services covered under thissubchapter shall not constitute a majority of the membership of the Commission.
+&emsp;&emsp;Individuals who are directly involved in the provision, or management of the delivery, of items and services covered under this subchapter shall not constitute a majority of the membership of the Commission.
 
 #### (D) Ethical disclosure
 
@@ -164,7 +164,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (1) Request for appropriations
 
-&emsp;The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for theCommission shall be separate from amounts appropriated for the Comptroller General.
+&emsp;The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General.
 
 #### (2) Authorization
 
@@ -188,7 +188,7 @@ Subsec. (b)(8). Pub. L. 108–173, §735(a), added par. (8).
 
 Subsec. (c)(2)(B). Pub. L. 108–173, §735(e)(1), inserted “experts in the area of pharmaco-economics or prescription drug benefit programs,” after “other health professionals,”.
 
-Subsec. (c)(2)(D). Pub. L. 108–173, §735(c)(1), inserted at end “Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).”
+Subsec. (c)(2)(D). Pub. L. 108–173, §735(c)(1), inserted at end “Members of the Commission shall be treated as employees of Congress for purposes of applying title Iof the Ethics in Government Act of 1978 (Public Law 95–521).”
 
 2000—Subsec. (b)(1)(D). Pub. L. 106–554, §1(a)(6) \[title V, §544(a)(1)\], substituted “June 15 of each year,” for “June 1 of each year (beginning with 1998),”.
 

@@ -12,7 +12,7 @@ The Association shall have the authority to—
 
 #### (b) Coordination with the National Association of Securities Dealers
 
-The Association shall coordinate with the National Association of Securities Dealers in order to ease any administrative burdens that fall on persons that are members of both associations, consistent with the purposes of this subchapter and the Federal securities laws.
+The Association shall coordinate with the National Association of Securities Dealers in orderto ease any administrative burdens that fall on persons that are members of both associations, consistent with the purposes of this subchapter and the Federal securities laws.
 
 (Pub. L. 106–102, title III, §334, Nov. 12, 1999, 113 Stat. 1433.)
 

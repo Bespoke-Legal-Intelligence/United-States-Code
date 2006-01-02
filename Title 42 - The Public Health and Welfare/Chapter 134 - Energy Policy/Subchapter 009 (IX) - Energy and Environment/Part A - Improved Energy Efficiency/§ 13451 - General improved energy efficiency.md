@@ -56,7 +56,7 @@ This part, referred to in subsecs. (c) and (e), was in the original “this subt
 
 #### District Heating and Cooling Programs
 
-Section 172 of Pub. L. 102–486 provided that:
+Pub. L. 102–486, title I, §172, Oct. 24, 1992, 106 Stat. 2865, as amended by Pub. L. 109–58, title II, §206(b), Aug. 8, 2005, 119 Stat. 655, provided that:
 
 “(a)
 
@@ -66,13 +66,15 @@ In General.—The Secretary, in consultation with appropriate industry organizat
 
 &emsp;“(2) estimate the economic value of benefits that may result from implementation of district heating and cooling systems but that are not currently recognized, such as reduced emissions of air pollutants, local economic development, and energy security;
 
-&emsp;“(3) evaluate the cost-effectiveness, including the economic value referred to in paragraph (2), of cogenerated district heating and cooling technologies compared to other alternatives for generating or conserving electricity; and
+&emsp;“(3) evaluate the cost-effectiveness, including the economic value referred to in paragraph (2), of cogenerated district heating and cooling technologies compared to other alternatives for generating or conserving electricity;
 
-&emsp;“(4) assess and make recommendations for reducing institutional and other constraints on the implementation of district heating and cooling systems.
+&emsp;“(4) assess and make recommendations for reducing institutional and other constraints on the implementation of district heating and cooling systems; and
+
+&emsp;“(5) evaluate the use of renewable energy systems (as such term is defined in section 415(c) of the Energy Conservation and Production Act (42 U.S.C. 6865(c))) in residential buildings.
 
 “(b)
 
-Report.—Not later than 2 years after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary shall transmit to the Congress a report containing the findings, conclusions and recommendations, if any, of the Secretary for carrying out Federal, State, and local programs as a result of the study conducted under subsection (a).”
+Report.—Not later than 2 years after the date of the enactment of the Energy Policy Act of 2005 \[Aug. 8, 2005\], the Secretary shall transmit to the Congress a report containing the findings, conclusions and recommendations, if any, of the Secretary for carrying out Federal, State, and local programs as a result of the study conducted under subsection (a).”
 
 #### Study and Report on Vibration Reduction Technologies
 

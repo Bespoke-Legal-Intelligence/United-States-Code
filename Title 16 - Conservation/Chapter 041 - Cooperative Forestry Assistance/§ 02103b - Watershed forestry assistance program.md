@@ -28,7 +28,7 @@ The Secretary, acting through the Chief of the Forest Service and (where appropr
 
 &emsp;&emsp;(C) to provide technical guidance to land managers and policymakers for water quality protection through forest management;
 
-&emsp;&emsp;(D) to complement State and local efforts to protect water quality and provide enhanced opportunities for consultation andcooperation among Federal and State agencies charged with responsibility for water and watershed management; and
+&emsp;&emsp;(D) to complement State and local efforts to protect water quality and provide enhanced opportunities for consultation and cooperation among Federal and State agencies charged with responsibility for water and watershed management; and
 
 &emsp;&emsp;(E) to provide enhanced forest resource data and support for improved implementation and monitoring of State forestry best-management practices.
 

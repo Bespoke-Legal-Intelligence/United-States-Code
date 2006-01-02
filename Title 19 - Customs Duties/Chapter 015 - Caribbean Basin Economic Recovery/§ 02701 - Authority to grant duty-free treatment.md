@@ -6,7 +6,7 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ For purposes of this title—
 
 &emsp;(1) the applicable DC area is hereby designated as the District of Columbia Enterprise Zone, and
 
-&emsp;(2) except as otherwise provided in this subchapter, the District of Columbia EnterpriseZone shall be treated as an empowerment zone designated under subchapter U.
+&emsp;(2) except as otherwise provided in this subchapter, the District of Columbia Enterprise Zone shall be treated as an empowerment zone designated under subchapter U.
 
 #### (b) Applicable DC area
 
@@ -36,19 +36,21 @@ For purposes of this subchapter and for purposes of applying subchapter U with r
 
 #### (1) In general
 
-&emsp;The designation made by subsection (a) shall apply for the period beginning on January 1, 1998, and ending on December 31, 2003.
+&emsp;The designation made by subsection (a) shall apply for the period beginning on January 1, 1998, and ending on December 31, 2005.
 
 #### (2) Coordination with DC enterprise community designated under subchapter U
 
-&emsp;The designation under subchapter U of the census tracts referred to in subsection (b)(1) as an enterprise community shall terminate on December 31, 2003.
+&emsp;The designation under subchapter U of the census tracts referred to in subsection (b)(1) as an enterprise community shall terminate on December 31, 2005.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 863; amended Pub. L. 105–206, title VI, §6008(a), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§113(c), 116(b)(5), 164(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603, 2763A–625.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 863; amended Pub. L. 105–206, title VI, §6008(a), July 22, 1998, 112 Stat. 811; Pub. L. 106–554, §1(a)(7) \[title I, §§113(c), 116(b)(5), 164(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603, 2763A–625; Pub. L. 108–311, title III, §310(a), Oct. 4, 2004, 118 Stat. 1180.)
 
 #### References in Text
 
 The date of the enactment of this subchapter, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
 #### Amendments
+
+2004—Subsec. (f). Pub. L. 108–311 substituted “2005” for “2003” in pars. (1) and (2).
 
 2000—Subsec. (d). Pub. L. 106–554, §1(a)(7) \[title I, §113(c)\], amended heading and text of subsec. (d) generally, striking out par. (1) designation and heading and par. (2), which provided that there would be no decrease of empowerment zone employment credit in 2002.
 
@@ -57,6 +59,18 @@ Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(5)\], substituted 
 Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title I, §164(a)(1)\], substituted “2003” for “2002” in pars. (1) and (2).
 
 1998—Subsec. (b)(2)(B). Pub. L. 105–206 inserted “as determined on the basis of the 1990 census” after “percent”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §310(e), Oct. 4, 2004, 118 Stat. 1180, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1400A to 1400C and 1400F of this title\] shall take effect on January 1, 2004.
+
+“(2)
+
+Tax-exempt economic development bonds.—The amendment made by subsection (b) \[amending section 1400A of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 4, 2004\].”
 
 #### Effective Date of 2000 Amendment
 
@@ -67,10 +81,6 @@ Amendment by section 1(a)(7) \[title I, §116(b)(5)\] of Pub. L. 106–554 appli
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 39, 1400B of this title.
 
 <i><sup>1</sup></i><i> So in original. The second “than” probably should not appear.</i>
 

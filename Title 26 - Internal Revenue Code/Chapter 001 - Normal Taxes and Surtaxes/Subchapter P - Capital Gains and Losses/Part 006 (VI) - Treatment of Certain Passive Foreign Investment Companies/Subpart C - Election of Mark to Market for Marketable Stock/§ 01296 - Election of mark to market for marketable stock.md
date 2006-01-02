@@ -26,7 +26,7 @@ In the case of marketable stock in a passive foreign investment company which is
 
 &emsp;In the case of stock in a passive foreign investment company which the United States person is treated as owning under subsection (g)—
 
-&emsp;&emsp;(A) the adjustments under paragraph (1) shall apply to such stock in the hands of the person actually holding such stock but only for purposes of determining the subsequent treatment under this chapter of the United States person with respect to such stock, and
+&emsp;&emsp;(A) the adjustments under paragraph (1) shall apply to such stock in the hands of the person actually holding such stock but only for purposes of determining the subsequent treatment under this chapter of the UnitedStates person with respect to such stock, and
 
 &emsp;&emsp;(B) similar adjustments shall be made to the adjusted basis of the property by reason of which the United States person is treated as owning such stock.
 
@@ -102,7 +102,7 @@ Except as provided in regulations—
 
 #### (1) In general
 
-&emsp;For purposes of this section, stock owned, directly or indirectly, by or for a foreign partnership or foreign trust or foreign estate shall be considered as being owned proportionately by its partners or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
+&emsp;For purposes of this section, stock owned, directly or indirectly, by or for a foreign partnership or foreign trust or foreign estate shall be considered as being owned proportionately by its partners or beneficiaries. Stock considered to be owned by a person by reason of theapplication of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
 #### (2) Treatment of certain dispositions
 
@@ -116,7 +116,7 @@ Except as provided in regulations—
 
 #### (h) Coordination with section 851(b)
 
-For purposes of paragraphs (2) and (3) of section 851(b), any amount included in gross income under subsection (a) shall be treated as a dividend.
+For purposes of section 851(b)(2), any amount included in gross income under subsection (a) shall be treated as a dividend.
 
 #### (i) Stock acquired from a decedent
 
@@ -166,11 +166,11 @@ This section shall apply to marketable stock in a passive foreign investment com
 
 If any individual becomes a United States person in a taxable year beginning after December 31, 1997, solely for purposes of this section, the adjusted basis (before adjustments under subsection (b)) of any marketable stock in a passive foreign investment company owned by such individual on the first day of such taxable year shall be treated as being the greater of its fair market value on such first day or its adjusted basis on such first day.
 
-(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85.)
+(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title IV, §408(a)(19), Oct. 4, 2004, 118 Stat. 1192.)
 
 #### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(e)(5)(C), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended by striking out subsection (i). See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>Pub. L. 107–16, title V, §542(e)(5)(C), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is tempo</i><i>rarily amended by striking out subsection (i). See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -181,6 +181,8 @@ Section 11A of the Securities and Exchange Act of 1934, referred to in subsec. (
 A prior section 1296 was renumbered section 1297 of this title.
 
 #### Amendments
+
+2004—Subsec. (h). Pub. L. 108–311 substituted “section 851(b)(2)” for “paragraphs (2) and (3) of section 851(b)”.
 
 1998—Subsec. (d). Pub. L. 105–206 inserted at end “In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company's first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.”
 
@@ -197,8 +199,4 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 532 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 852, 1291, 1298, 4982 of this title.
 

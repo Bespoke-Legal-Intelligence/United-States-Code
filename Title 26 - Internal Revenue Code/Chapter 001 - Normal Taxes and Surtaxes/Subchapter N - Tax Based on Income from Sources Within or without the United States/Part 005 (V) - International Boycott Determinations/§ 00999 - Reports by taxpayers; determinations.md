@@ -66,7 +66,7 @@
 
 #### (1) International boycott factor
 
-&emsp;For purposes of sections 908(a), 941(a)(5), 952(a)(3), and 995(b)(1)(F)(ii), the international boycott factor is a fraction, determined under regulations prescribed by the Secretary, the numerator of which reflects the world-wide operations of a person (or, in the case of a controlled group (within the meaning of section 993(a)(3)) which includes that person, of the group) which are operations in or related to a group of countries associated in carrying out an international boycott in or with which that person or a member of that controlled group has participated or cooperated in the taxable year, and the denominator of which reflects the world-wide operations of that person or group.
+&emsp;For purposes of sections 908(a), 952(a)(3), and 995(b)(1)(F)(ii), the international boycott factor is a fraction, determined under regulations prescribed by the Secretary, the numerator of which reflects the world-wide operations of a person (or, in the case of a controlled group (within the meaning of section 993(a)(3)) which includes that person, of the group) which are operations in or related to a group of countries associated in carrying out an international boycott in or with which that person or a member of that controlled group has participated or cooperated in the taxable year, and the denominator of which reflects the world-wide operations of that person or group.
 
 #### (2) Specifically attributable taxes and income
 
@@ -92,9 +92,11 @@ If a person controls (within the meaning of section 304(c)) a corporation—
 
 Any person (within the meaning of section 6671(b)) required to report under this section who willfully fails to make such report shall, in addition to other penalties provided by law, be fined not more than $25,000, imprisoned for not more than one year, or both.
 
-(Added Pub. L. 94–455, title X, §1064(a), Oct. 4, 1976, 90 Stat. 1650; amended Pub. L. 95–600, title VII, §703(h)(2), (3), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title VIII, §802(c)(3), July 18, 1984, 98 Stat. 999; Pub. L. 99–514, title XVIII, §1876(p)(3), Oct. 22, 1986, 100 Stat. 2902; Pub. L. 106–519, §4(5), Nov. 15, 2000, 114 Stat. 2433.)
+(Added Pub. L. 94–455, title X, §1064(a), Oct. 4, 1976, 90 Stat. 1650; amended Pub. L. 95–600, title VII, §703(h)(2), (3), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title VIII, §802(c)(3), July 18, 1984, 98 Stat. 999; Pub. L. 99–514, title XVIII, §1876(p)(3), Oct. 22, 1986, 100 Stat. 2902; Pub. L. 106–519, §4(5), Nov. 15, 2000, 114 Stat. 2433; Pub. L. 108–357, title I, §101(b)(8), Oct. 22, 2004, 118 Stat. 1423.)
 
 #### Amendments
+
+2004—Subsec. (c)(1). Pub. L. 108–357 struck out “941(a)(5),” after “sections 908(a),”.
 
 2000—Subsec. (c)(1). Pub. L. 106–519 inserted “941(a)(5),” after “908(a),”.
 
@@ -106,9 +108,13 @@ Any person (within the meaning of section 6671(b)) required to report under this
 
 Subsec. (c)(2). Pub. L. 95–600, §703(h)(3), substituted “995(b)(1)(F)(ii)” for “995(b)(1)(D)(ii)”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as an Effective Date note under section 941 of this title.
+Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -133,8 +139,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Reports by the Secretary
 
 Pub. L. 94–455, title X, §1067, Oct. 4, 1976, 90 Stat. 1654, as amended by Pub. L. 98–369, div. A, title IV, §441(c), July 18, 1984, 98 Stat. 815, which required the Secretary to transmit a report every four years to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate relating to reports filed under section 999(a) of this title and describing the administration of provisions relating to international boycott activity, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 141 of House Document No. 103–7.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 908, 941, 952, 995 of this title.
 

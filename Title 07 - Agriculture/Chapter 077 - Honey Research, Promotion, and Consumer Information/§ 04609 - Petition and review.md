@@ -6,7 +6,7 @@
 
 &emsp;Subject to paragraph (4), a person subject to an order may file a written petition with the Secretary—
 
-&emsp;&emsp;(A) that states that the order, any provision of the order, or any obligation imposedin connection with the order is not in accordance with law; and
+&emsp;&emsp;(A) that states that the order, any provision of the order, or any obligation imposed in connection with the order is not in accordance with law; and
 
 &emsp;&emsp;(B) that requests—
 

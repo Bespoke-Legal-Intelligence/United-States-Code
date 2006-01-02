@@ -8,17 +8,17 @@
 
 &emsp;(1) Retired members.
 
-&emsp;(2) Members of the Naval Reserve and the Marine Corps Reserve ordered to active duty for training.
+&emsp;(2) Members of the Navy Reserve and the Marine Corps Reserve ordered to active duty for training.
 
-&emsp;(3) Members of the Naval Reserve and the Marine Corps Reserve ordered to active duty in connection with organizing, administering, recruiting, instructing, training, or drilling the Naval Reserve or the Marine Corps Reserve.
+&emsp;(3) Members of the Navy Reserve and the Marine Corps Reserve ordered to active duty in connection with organizing, administering, recruiting, instructing, training, or drilling the Navy Reserve or the Marine Corps Reserve.
 
-&emsp;(4) Members of the Naval Reserve and the Marine Corps Reserve ordered to temporary active duty to prosecute special work.
+&emsp;(4) Members of the Navy Reserve and the Marine Corps Reserve ordered to temporary active duty to prosecute special work.
 
 (d) Officers designated for limited duty under subsection (a) may be temporarily appointed by the Secretary of the Navy in a higher grade not above commander in the Regular Navy or lieutenant colonel in the Regular Marine Corps under such regulations as the Secretary may prescribe. Regulations prescribed under this section shall to the greatest extent practicable conform to the procedures prescribed in chapter 36 of this title for selection for promotion and promotion to higher permanent grades.
 
 (e) The Secretary of the Navy may terminate any appointment made under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 328; Pub. L. 96–513, title III, §326, Dec. 12, 1980, 94 Stat. 2894; Pub. L. 102–190, div. A, title XI, §1113(c), (d)(2)(A), Dec. 5, 1991, 105 Stat. 1502.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 328; Pub. L. 96–513, title III, §326, Dec. 12, 1980, 94 Stat. 2894; Pub. L. 102–190, div. A, title XI, §1113(c), (d)(2)(A), Dec. 5, 1991, 105 Stat. 1502; Pub. L. 109–163, div. A, title V, §515(b)(1)(G), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes
 
@@ -128,6 +128,8 @@ In subsection (g)(2) that portion of 34 U.S.C. 3c(a) which excludes officers on 
 
 #### Amendments
 
+2006—Subsec. (c)(2) to (4). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” wherever appearing.
+
 1991—Pub. L. 102–190, §1113(d)(2)(A), struck out “warrant officers and” before “officers designated” in section catchline.
 
 Subsec. (a). Pub. L. 102–190, §1113(c)(1), reorganized subsec. (a), striking out par. (1) relating to warrant officer grades, and striking out par. (2) designation.
@@ -152,7 +154,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under theamendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Delegation of Functions
 
@@ -161,8 +163,4 @@ For delegation to Secretary of Defense of authority vested in President by secti
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 532, 631, 632, 633, 5589, 6221, 6383 of this title.
 

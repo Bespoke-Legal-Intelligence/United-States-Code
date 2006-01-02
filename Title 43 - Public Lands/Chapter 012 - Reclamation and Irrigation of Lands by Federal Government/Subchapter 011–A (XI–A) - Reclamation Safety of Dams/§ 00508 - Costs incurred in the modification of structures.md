@@ -10,9 +10,7 @@ With respect to the $100,000,000 authorized to be appropriated in the Reclamatio
 
 #### (c) Reimbursement of certain modification costs
 
-With respect to the additional amounts authorized to be appropriated by section 509 of this title,
-
-costs incurred in the modification of structures under this subchapter, the cause of which results from new hydrologic or seismic data or changes in state-of-the-art criteria deemed necessary for safety purposes, shall be reimbursed to the extent provided in this subsection.
+With respect to the additional amounts authorized to be appropriated by section 509 of this title, costs incurred in the modification of structures under this subchapter, the cause of which results from new hydrologic or seismic data or changes in state-of-the-art criteria deemed necessary for safety purposes, shall be reimbursed to the extent provided in this subsection.
 
 &emsp;(1) Fifteen percent of such costs shall be allocated to the authorized purposes of the structure, except that in the case of Jackson Lake Dam, Minidoka Project, Idaho-Wyoming, such costs shall be allocated in accordance with the allocation of operation and maintenance charges.
 

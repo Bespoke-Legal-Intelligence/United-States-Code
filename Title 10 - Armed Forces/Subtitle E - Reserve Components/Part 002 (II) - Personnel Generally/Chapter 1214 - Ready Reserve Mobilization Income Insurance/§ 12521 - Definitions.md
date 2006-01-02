@@ -24,9 +24,5 @@ In this chapter:
 
 #### Effective Date
 
-Section 512(b) of Pub. L. 104–106 provided that: “The insurance program provided for in chapter 1214 of title 10, United States Code, as added by subsection (a), and the requirement for deductions and contributions for that program shall take effect on September 30, 1996, or on any earlier date declared by the Secretary and published in the Federal Register.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12529 of this title.
+Section 512(b) of Pub. L. 104–106 provided that: “The insurance program provided for in chapter 1214 of title10, United States Code, as added by subsection (a), and the requirement for deductions and contributions for that program shall take effect on September 30, 1996, or on any earlier date declared by the Secretary and published in the Federal Register.”
 

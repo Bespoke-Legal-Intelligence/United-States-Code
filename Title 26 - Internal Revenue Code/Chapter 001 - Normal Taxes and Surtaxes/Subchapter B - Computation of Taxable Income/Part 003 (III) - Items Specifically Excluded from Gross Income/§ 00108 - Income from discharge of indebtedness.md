@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount excluded from gross income under subparagraph (D) of subsection (a)(1) shall be applied to reduce the basis of the depreciable real property of the taxpayer.
+&emsp;&emsp;The amount excluded from gross income under subparagraph (D) of subsection (a)(1)shall be applied to reduce the basis of the depreciable real property of the taxpayer.
 
 #### (B) Cross reference
 
@@ -134,7 +134,7 @@
 
 #### (B) Overall limitation
 
-&emsp;&emsp;The amount excluded under subparagraph (D) of subsection (a)(1) shall not exceed theaggregate adjusted bases of depreciable real property (determined after any reductions under subsections (b) and (g)) held by the taxpayer immediately before the discharge (other than depreciable real property acquired in contemplation of such discharge).
+&emsp;&emsp;The amount excluded under subparagraph (D) of subsection (a)(1) shall not exceed the aggregate adjusted bases of depreciable real property (determined after any reductions under subsections (b) and (g)) held by the taxpayer immediately before the discharge (other than depreciable real property acquired in contemplation of such discharge).
 
 #### (3) Qualified real property business indebtedness
 
@@ -200,7 +200,7 @@
 
 #### (8) Reductions of tax attributes in title 11 cases of individuals to be made by estate
 
-&emsp;In any case under chapter 7 or 11 of title 11 of the United States Code to which section 1398 applies, for purposes of paragraphs (1) and (5) of subsection (b) the estate (and not the individual) shall be treated as the taxpayer. The preceding sentence shall not apply for purposes of applying section 1017 to property transferred by the estate to the individual.
+&emsp;In any case under chapter 7 or 11 of title 11 of the United States Code to which section1398 applies, for purposes of paragraphs (1) and (5) of subsection (b) the estate (and not the individual) shall be treated as the taxpayer. The preceding sentence shall not apply for purposes of applying section 1017 to property transferred by the estate to the individual.
 
 #### (9) Time for making election, etc.
 
@@ -290,7 +290,7 @@ For purposes of this title—
 
 &emsp;&emsp;&nbsp;shall be treated as an amount allowed as a deduction for depreciation, and
 
-&emsp;&emsp;&emsp;(iii) an exchange of such stock qualifying under section 354(a), 355(a), or 356(a) shall be treated as an exchange to which section 1245(b)(3) applies.
+&emsp;&emsp;&emsp;(iii) an exchange of such stock qualifying under section 354(a), 355(a), or 356(a) shallbe treated as an exchange to which section 1245(b)(3) applies.
 
 > &emsp;&emsp;The amount determined under clause (ii) shall be reduced by the amount (if any) included in the creditor's gross income on the exchange.
 
@@ -310,9 +310,15 @@ For purposes of this title—
 
 &emsp;&emsp;Under regulations prescribed by the Secretary, rules similar to the rules of the foregoing subparagraphs of this paragraph shall apply with respect to the indebtedness of a partnership.
 
-#### (8) Indebtedness satisfied by corporation's stock
+#### (8) Indebtedness satisfied by corporate stock or partnership interest
 
-&emsp;For purposes of determining income of a debtor from discharge of indebtedness, if a debtor corporation transfers stock to a creditor in satisfaction of its indebtedness, such corporation shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock.
+&emsp;For purposes of determining income of a debtor from discharge of indebtedness, if—
+
+&emsp;&emsp;(A) a debtor corporation transfers stock, or
+
+&emsp;&emsp;(B) a debtor partnership transfers a capital or profits interest in such partnership,
+
+> &emsp;to a creditor in satisfaction of its recourse or nonrecourse indebtedness, such corporation or partnership shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock or interest. In the case of any partnership, any discharge of indebtedness income recognized under this paragraph shall be included in the distributive shares of taxpayers which were the partners in the partnership immediately before such discharge.
 
 #### (9) Discharge of indebtedness income not taken into account in determining whether entity meets REIT qualifications
 
@@ -362,6 +368,10 @@ For purposes of this title—
 
 &emsp;Paragraph (1) shall not apply to the discharge of a loan made by an organization described in paragraph (2)(D) if the discharge is on account of services performed for either such organization.
 
+#### (4) Payments under National Health Service Corps Loan Repayment Program and certain State loan repayment programs
+
+&emsp;In the case of an individual, gross income shall not include any amount received under section 338B(g) of the Public Health Service Act or under a State program described in section 338I of such Act.
+
 #### (g) Special rules for discharge of qualified farm indebtedness
 
 #### (1) Discharge must be by qualified person
@@ -378,7 +388,7 @@ For purposes of this title—
 
 &emsp;For purposes of this section, indebtedness of a taxpayer shall be treated as qualified farm indebtedness if—
 
-&emsp;&emsp;(A) such indebtedness was incurred directly in connection with the operation bythe taxpayer of the trade or business of farming, and
+&emsp;&emsp;(A) such indebtedness was incurred directly in connection with the operation by the taxpayer of the trade or business of farming, and
 
 &emsp;&emsp;(B) 50 percent or more of the aggregate gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the discharge of such indebtedness occurs is attributable to the trade or business of farming.
 
@@ -404,11 +414,19 @@ For purposes of this title—
 
 &emsp;&emsp;For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795; Pub. L. 107–147, title IV, §402(a), Mar. 9, 2002, 116 Stat. 40; Pub. L. 108–357, title III, §320(a), title VIII, §896(a), Oct. 22, 2004, 118 Stat. 1473, 1648.)
+
+#### References in Text
+
+Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254<i>l</i>–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
-2002—Subsec. (d)(7)(A). Pub. L. 107–147 inserted “, including by not taking into account under section 1366(a) any amount excluded under subsection (a) of this section” before period at end.
+2004—Subsec. (e)(8). Pub. L. 108–357, §896(a), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “For purposes of determining income of a debtor from discharge of indebtedness, if a debtor corporation transfers stock to a creditor in satisfaction of its indebtedness, such corporation shall be treated as having satisfied the indebtedness with an amount of money equal to the fair market value of the stock.”
+
+Subsec. (f)(4). Pub. L. 108–357, §320(a), added par. (4).
+
+2002—Subsec. (d)(7)(A). Pub. L. 107–147 inserted “, including by not taking into account under section1366(a) any amount excluded under subsection (a) of this section” before period at end.
 
 1998—Subsec. (f)(2). Pub. L. 105–206, §6004(f)(1), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “The term ‘student loan’ includes any loan made by an educational organization so described or by an organization exempt from tax under section 501(a) to refinance a loan meeting the requirements of the preceding sentence.”
 
@@ -572,6 +590,12 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Se
 
 1956—Subsec. (b). Act June 29, 1956, substituted “December 31, 1957” for “December 31, 1955”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title III, §320(c), Oct. 22, 2004, 118 Stat. 1473, provided that: “The amendments made by this section \[amending this section, sections 3121, 3231, 3306, and 3401 of this title, and section 409 of Title 42, The Public Health and Welfare\] shall apply to amounts received by an individual in taxable years beginning after December 31, 2003.”
+
+Pub. L. 108–357, title VIII, §896(b), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to cancellations of indebtedness occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title IV, §402(b), Mar. 9, 2002, 116 Stat. 40, provided that:
@@ -638,7 +662,7 @@ Exceptions.—The amendments made by this section shall not apply to any debt in
 
 &emsp;&emsp;“(iii) which is the subject of a subsequent filing with the Securities and Exchange Commission before January 1, 1991.”
 
-Amendment by section 11813(b)(6) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (asdefined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by section 11813(b)(6) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -726,7 +750,7 @@ In general.—Except as provided in paragraph (2), the amendments made by sectio
 
 &emsp;“(2)
 
-Transitional rule.—In the case of any discharge of indebtedness to which subparagraph (A) or (B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusionfrom gross income), as amended by section 2, applies and which occurs before January 1, 1982, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before January 1, 1982, then—
+Transitional rule.—In the case of any discharge of indebtedness to which subparagraph (A) or (B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusion from gross income), as amended by section 2, applies and which occurs before January 1, 1982, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before January 1, 1982, then—
 
 &emsp;&emsp;“(A) section 108(b)(2) of the such Code (relating to reduction of tax attributes), as so amended, shall be applied without regard to subparagraphs (A), (B), (C), and (E) thereof, and
 
@@ -798,7 +822,7 @@ For subsection (e)
 
 For subsection (f)
 
-(relating to effect of debt discharge on earnings and profits).—The amendment made by subsection (f) of section 5 \[amending section 312 of this title\] shall apply as provided in subsection (a) of this section.
+(relating to effect of debt discharge on earnings and profits).—The amendment made by subsection (f) of section 5\[amending section 312 of this title\] shall apply as provided in subsection (a) of this section.
 
 “(e)
 
@@ -850,7 +874,7 @@ Section 1(b) of Pub. L. 86–496 provided that: “The amendment made by subsect
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 Section 1951(b)(2)(B) of Pub. L. 94–455 provided that: “If any discharge, cancellation, or modification of indebtedness of a railroad corporation occurs in a taxable year beginning after December 31, 1976, pursuant to an order of a court in a proceeding referred to in section 108(b)(A) or (B) which commenced before January 1, 1960, then, notwithstanding the amendments made by subparagraph (A) \[amending this section\] the provisions of subsection (b) of section 108 shall be considered as not repealed with respect to such discharge, cancellation, or modification of indebtedness.”
 
@@ -873,8 +897,4 @@ Effective Date.—This section shall apply to discharges made on or after Septem
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 118, 147, 382, 703, 773, 774, 1017, 1503 of this title.
 

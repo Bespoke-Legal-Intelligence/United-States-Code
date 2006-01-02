@@ -104,7 +104,7 @@
 
 &emsp;(11)(A) knowingly take, recommend, or approve any personnel action if the taking of such action would violate a veterans’ preference requirement; or
 
-&emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure totake such action would violate a veterans’ preference requirement; or
+&emsp;(B) knowingly fail to take, recommend, or approve any personnel action if the failure to take such action would violate a veterans’ preference requirement; or
 
 &emsp;(12) take or fail to take any other personnel action if the taking of or failure to take such action violates any law, rule, or regulation implementing, or directly concerning, the merit system principles contained in section 2301 of this title.
 
@@ -138,7 +138,7 @@
 
 &emsp;(F) Section 1005(a) of title 39.
 
-&emsp;(G) Any other provision of law that the Director of the Office of Personnel Management designates in regulations as being a veterans’ preference requirement for the purposes of this subsection.
+&emsp;(G) Any other provision of law that the Director of the Office of Personnel Managementdesignates in regulations as being a veterans’ preference requirement for the purposes of this subsection.
 
 &emsp;(H) Any regulation prescribed under subsection (b) or (c) of section 1302 and any other regulation that implements a provision of law referred to in any of the preceding subparagraphs.
 

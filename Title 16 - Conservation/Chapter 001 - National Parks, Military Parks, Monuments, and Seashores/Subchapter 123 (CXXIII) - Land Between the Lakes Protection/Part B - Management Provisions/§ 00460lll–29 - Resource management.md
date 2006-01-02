@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall permit hunting and fishing on land and water under the jurisdiction of the Secretary within the boundaries of the Recreation Area in accordance with applicable laws of the United States and of each State, respectively.
+&emsp;The Secretary shall permit hunting and fishing on land and water under the jurisdiction ofthe Secretary within the boundaries of the Recreation Area in accordance with applicable laws of the United States and of each State, respectively.
 
 #### (2) Prohibition
 

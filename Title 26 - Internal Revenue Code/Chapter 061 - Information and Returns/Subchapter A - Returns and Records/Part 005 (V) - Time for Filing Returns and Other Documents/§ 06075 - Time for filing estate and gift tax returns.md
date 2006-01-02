@@ -22,7 +22,7 @@ Returns made under section 6018(a) (relating to estate taxes) shall be filed wit
 
 #### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §542(b)(3), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 83, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended as follows:</i>
+<i>Pub. L. 107–16, title V, §542(b)(3), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 83, 86, 150, pro</i><i>vided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended as follows:</i>
 
 <i>(1) by amending subsection (a) to read as follows:</i>
 
@@ -73,8 +73,4 @@ Section 2008(d)(2) of Pub. L. 94–455 provided that: “The amendment made by s
 Amendment by Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2523, 2632, 2642, 6166, 7269 of this title.
 

@@ -1,6 +1,6 @@
 ### §1321. Legislative finding of effect on interstate and foreign commerce and necessity of regulation
 
-Corn is a basic source of food for the Nation, and corn produced in the commercial corn-producing area moves almost wholly in interstateand foreign commerce in the form of corn, livestock, and livestock products.
+Corn is a basic source of food for the Nation, and corn produced in the commercial corn-producing area moves almost wholly in interstate and foreign commerce in the form of corn, livestock, and livestock products.
 
 Abnormally excessive and abnormally deficient supplies of corn acutely and directly affect, burden, and obstruct interstate and foreign commerce in corn, livestock, and livestock products. When abnormally excessive supplies exist, transportation facilities in interstate and foreign commerce are overtaxed, and the handling and processing facilities through which the flow of interstate and foreign commerce in corn, livestock, and livestock products is directed become acutely congested. Abnormally deficient supplies result in substantial decreases in livestock production and in an inadequate flow of livestock and livestock products in interstate and foreign commerce, with the consequence of unreasonably high prices to consumers.
 

@@ -20,7 +20,7 @@
 
 &emsp;(B) identified under the Formerly Utilized Sites Remedial Action Program.
 
-> Nothing in this paragraph shall be deemed to prohibit a State, subject to the provisions of itscompact, or a compact region from accepting for disposal any material identified in subparagraph (A) or (B).
+> Nothing in this paragraph shall be deemed to prohibit a State, subject to the provisions of its compact, or a compact region from accepting for disposal any material identified in subparagraph (A) or (B).
 
 (b)(1) The Federal Government shall be responsible for the disposal of—
 

@@ -1,6 +1,6 @@
 ### §523. Unlawful disclosure of information
 
-(a) A motor carrier, or an officer, receiver, trustee, lessee, or employee of that carrier, oranother person authorized by that carrier to receive information from that carrier, may not knowingly disclose to another person (except the shipper or consignee), and another person may not solicit, or knowingly receive, information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that carrier without the consent of the shipper or consignee if that information may be used to the detriment of the shipper or consignee or may disclose improperly to a competitor the business transactions of the shipper or consignee.
+(a) A motor carrier, or an officer, receiver, trustee, lessee, or employee of that carrier, or another person authorized by that carrier to receive information from that carrier, may not knowingly disclose to another person (except the shipper or consignee), and another person may not solicit, or knowingly receive, information about the nature, kind, quantity, destination, consignee, or routing of property tendered or delivered to that carrier without the consent of the shipper or consignee if that information may be used to the detriment of the shipper or consignee or may disclose improperly to a competitor the business transactions of the shipper or consignee.
 
 (b) This chapter does not prevent a motor carrier, motor carrier of migrant workers, or motor private carrier from giving information—
 
@@ -12,7 +12,7 @@
 
 (c) An employee of the Secretary of Transportation delegated to make an inspection under section 504 of this title who knowingly discloses information acquired during that inspection, except as directed by the Secretary, a court, or a judge of that court, shall be fined not more than $500, imprisoned for not more than 6 months, or both.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2436.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2436.)
 
 Historical and Revision Notes
 

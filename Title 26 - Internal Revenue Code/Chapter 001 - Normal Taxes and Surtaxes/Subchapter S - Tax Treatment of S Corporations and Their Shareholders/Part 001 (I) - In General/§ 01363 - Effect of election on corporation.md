@@ -90,9 +90,15 @@ The taxable income of an S corporation shall be computed in the same manner as i
 
 &emsp;&emsp;Except as provided in regulations, the corporation referred to in paragraph (1) shall not be treated as a member of an affiliated group with respect to the amount included in gross income under paragraph (1).
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1676; amended Pub. L. 98–369, div. A, title VII, §721(a), (b)(1), (p), July 18, 1984, 98 Stat. 966, 970;Pub. L. 99–514, title V, §511(d)(2)(C), title VI, §632(b), title VII, §701(e)(4)(J), Oct. 22, 1986, 100 Stat. 2249, 2277, 2343; Pub. L. 100–203, title X, §10227(a), Dec. 22, 1987, 101 Stat. 1330–416; Pub. L. 100–647, title I, §1006(f)(7), title II, §2004(n), Nov. 10, 1988, 102 Stat. 3407, 3608.)
+#### (5) Special rule
+
+&emsp;Sections 1367(a)(2)(D) and 1371(c)(1) shall not apply with respect to any increase in the tax imposed by reason of this subsection.
+
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1676; amended Pub. L. 98–369, div. A, title VII, §721(a), (b)(1), (p), July 18, 1984, 98 Stat. 966, 970; Pub. L. 99–514, title V, §511(d)(2)(C), title VI, §632(b), title VII, §701(e)(4)(J), Oct. 22, 1986, 100 Stat. 2249, 2277, 2343; Pub. L. 100–203, title X, §10227(a), Dec. 22, 1987, 101 Stat. 1330–416; Pub. L. 100–647, title I, §1006(f)(7), title II, §2004(n), Nov. 10, 1988, 102 Stat. 3407, 3608; Pub. L. 109–135, title IV, §411(a), Dec. 21, 2005, 119 Stat. 2636.)
 
 #### Amendments
+
+2005—Subsec. (d)(5). Pub. L. 109–135 added par. (5).
 
 1988—Subsec. (d). Pub. L. 100–647, §1006(f)(7), struck out subsec. (d) which related to distributions of appreciated property.
 
@@ -115,6 +121,10 @@ Subsec. (c)(2). Pub. L. 98–369, §721(b)(1), redesignated subpars. (B) to (D) 
 Subsec. (d). Pub. L. 98–369, §721(a)(2), substituted “Except as provided in subsection (e), if” for “If”.
 
 Subsec. (e). Pub. L. 98–369, §721(a)(1), added subsec. (e).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–135, title IV, §411(b), Dec. 21, 2005, 119 Stat. 2636, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 10227 of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
 #### Effective Date of 1988 Amendment
 
@@ -156,5 +166,5 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(4)(J) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(4)(J) of Pub. L. 99–514 notwithstanding any treaty obligationof the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

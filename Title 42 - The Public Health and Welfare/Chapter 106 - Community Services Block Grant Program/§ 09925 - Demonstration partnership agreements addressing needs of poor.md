@@ -38,7 +38,7 @@
 
 (2) Such grants may be made only with respect to applications that—
 
-&emsp;(A) identify and describe the population to be served, the problems to be addressed, the overall approach and methods of outreach and recruitment to be used, and the services to be provided;
+&emsp;(A) identify and describe the population to be served, the problems to be addressed, the overall approach and methods of outreach andrecruitment to be used, and the services to be provided;
 
 &emsp;(B) describe how the approach to be used differs from other approaches used for the population to be served by the project;
 
@@ -100,7 +100,7 @@ Section was enacted as part of the Human Services Reauthorization Act of 1986, a
 
 Subsec. (b)(1)(B). Pub. L. 103–252, §207(2), substituted “After the first funding period” for “After the first fiscal year”.
 
-Subsec. (c)(1). Pub. L. 103–252, §207(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to the grant programs described in subsection (a) of this section, the Secretary shall make grants to eligible entities for the purpose of demonstrating new and innovative approaches to addressing the problems of, and providing opportunities for leadership development, community involvement, and educational success to, disadvantaged persons between the ages of 14 and 25 from populations experiencing conditions such as a high poverty rate, high unemployment, high dropout rate, low labor force participation, low enrollment in college or participation in other post high school training classes, high incidence of involvement in violence, and a high rate of incarceration. Services provided through approaches funded by such grants may include assessment and development of employability plans, remedial education, motivational activities, life skills instruction, community service, mentoring, access to information on available financial aid, campus visits, career education, cultural enrichment, and employment training, placement, and follow-up.”
+Subsec. (c)(1). Pub. L. 103–252, §207(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to the grant programs described in subsection (a) of this section, the Secretary shall make grants to eligible entities for the purpose of demonstrating new and innovative approaches to addressing the problems of, and providing opportunities for leadership development, community involvement, andeducational success to, disadvantaged persons between the ages of 14 and 25 from populations experiencing conditions such as a high poverty rate, high unemployment, high dropout rate, low labor force participation, low enrollment in college or participation in other post high school training classes, high incidence of involvement in violence, and a high rate of incarceration. Services provided through approaches funded by such grants may include assessment and development of employability plans, remedial education, motivational activities, life skills instruction, community service, mentoring, access to information on available financial aid, campus visits, career education, cultural enrichment, and employment training, placement, and follow-up.”
 
 Subsec. (c)(4). Pub. L. 103–252, §207(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Such grants shall be made annually on such terms and conditions as the Secretary shall specify to eligible entities that serve the populations described in paragraph (1) and that are located within those areas where such populations are concentrated.”
 
@@ -126,7 +126,7 @@ Subsec. (b)(1). Pub. L. 101–204, §705(b)(1), designated existing provisions a
 
 Subsec. (b)(3). Pub. L. 101–204, §705(b)(2), inserted “in each fiscal year” after “than one grant”, substituted “$350,000” for “$250,000”, and inserted at end “Not more than 2 grants may be made under this section to an eligible entity to carry out a particular program.”
 
-Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90 days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to eachState and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
+Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “As soon as practicable, but no later than 90 days after the expiration of the fiscal year for which any grant is awarded under this section, the Secretary shall prepare and make available upon request to each State and eligible entity descriptions of the demonstration programs assisted under this section, and any relevant information developed and results achieved, so as to provide models for innovative programs to other eligible entities.”
 
 Subsecs. (d), (e). Pub. L. 101–204, §705(f)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 

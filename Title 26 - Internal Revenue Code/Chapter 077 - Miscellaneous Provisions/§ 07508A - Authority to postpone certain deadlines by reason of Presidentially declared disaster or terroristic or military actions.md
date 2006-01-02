@@ -76,7 +76,3 @@ Individual.—For purposes of this section, the term ‘individual’ shall not 
 
 Effective Date.—This section shall apply to disasters declared after December 31, 1996.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6081, 6161, 6404 of this title.
-

@@ -30,7 +30,7 @@ Subsecs. (b) to (d). Pub. L. 97–304 added subsecs. (b) to (d).
 
 1979—Par. (1). Pub. L. 96–159 struck out appropriations authorization of $25,000,000 for fiscal years ending Sept. 30, 1977, and 1978, substituted appropriations authorization of $23,000,000; $23,000,000; $25,000,000; and $27,000,000 for fiscal years 1979 through 1982 for prior authorization of $23,000,000 for fiscal year ending Sept. 30, 1979, and $12,500,000 for period beginning Oct. 1, 1979, and ending Mar. 31, 1980, and restored intent of appropriations to enable the Interior Department to carry out its functions and responsibilities.
 
-Par. (2). Pub. L. 96–159 deleted appropriations authorization of $5,000,000 for fiscal years ending Sept. 30, 1977, and 1978, and substituted appropriations authorization of $2,500,000; $2,500,000; $3,000,000; and $3,500,000 for fiscal years 1979 through 1982 for prior authorization of $2,500,000 for fiscal year ending Sept. 30, 1979, and$12,500,000 for period beginning Oct. 1, 1979, and ending Mar. 31, 1980.
+Par. (2). Pub. L. 96–159 deleted appropriations authorization of $5,000,000 for fiscal years ending Sept. 30, 1977, and 1978, and substituted appropriations authorization of $2,500,000; $2,500,000; $3,000,000; and $3,500,000 for fiscal years 1979 through 1982 for prior authorization of $2,500,000 for fiscal year ending Sept. 30, 1979, and $12,500,000 for period beginning Oct. 1, 1979, and ending Mar. 31, 1980.
 
 1978—Pub. L. 95–632, in provision preceding par. (1), substituted “sections 1535 and 1536 of this title” for “section 1535 of this title”.
 

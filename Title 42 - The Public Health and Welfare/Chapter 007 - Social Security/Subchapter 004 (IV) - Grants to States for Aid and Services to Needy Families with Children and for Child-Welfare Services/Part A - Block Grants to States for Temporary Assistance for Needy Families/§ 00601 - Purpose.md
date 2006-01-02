@@ -40,7 +40,7 @@ Effective Dates.—
 
 &emsp;“(1)
 
-In general.—Except as otherwise provided in this title \[see Tables for classification\], this title and the amendments made by this title shall take effect on July 1, 1997.
+In general.—Except as otherwise provided in this title \[see Tables for classification\], this title andthe amendments made by this title shall take effect on July 1, 1997.
 
 &emsp;“(2)
 
@@ -104,7 +104,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &emsp;&emsp;&emsp;“(aa) the State family assistance grant; multiplied by
 
-&emsp;&emsp;&emsp;“(bb) 1/366 of the number of days during the period that begins on the date the Secretaryof Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[section 602(a) of this title\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and
+&emsp;&emsp;&emsp;“(bb) 1/366 of the number of days during the period that begins on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[section 602(a) of this title\] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) for fiscal year 1997, shall be an amount equal to the lesser of—
 
@@ -218,7 +218,7 @@ Section 101 of Pub. L. 104–193 provided that: “The Congress makes the follow
 
 &emsp;“(8) The negative consequences of an out-of-wedlock birth on the mother, the child, the family, and society are well documented as follows:
 
-&emsp;&emsp;“(A) Young women 17 and under who give birth outside of marriage are more likely to go on public assistance and to spend more years on welfare once enrolled. These combined effects of ‘younger and longer’ increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
+&emsp;&emsp;“(A) Young women 17 and under who give birth outside of marriage are more likely to go on public assistance and to spend more years on welfare once enrolled. These combined effects of ‘younger andlonger’ increase total AFDC costs per household by 25 percent to 30 percent for 17-year-olds.
 
 &emsp;&emsp;“(B) Children born out-of-wedlock have a substantially higher risk of being born at a very low or moderately low birth weight.
 

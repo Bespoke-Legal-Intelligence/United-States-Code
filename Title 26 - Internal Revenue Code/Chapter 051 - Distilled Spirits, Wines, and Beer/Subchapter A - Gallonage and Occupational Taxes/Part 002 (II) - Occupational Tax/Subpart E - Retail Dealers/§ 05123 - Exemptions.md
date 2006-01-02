@@ -46,6 +46,10 @@ No tax shall be imposed by section 5121(a) with respect to a person's activities
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1344; amended Pub. L. 87–863, §4(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title II, §2004(t)(3), Nov. 10, 1988, 102 Stat. 3610.)
 
+#### Repeal of Section and Redesignation of Section 5146 as 5123
+
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(D), (b)(7), (c), Aug. 10, 2005, 119 Stat. 1953, 1955, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed and section 5146 of this title is redesignated section 5123.</i>
+
 #### Prior Provisions
 
 A prior section 5123, act Aug. 16, 1954, ch. 736, 68A Stat. 621, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.

@@ -98,7 +98,7 @@ Subsec. (c)(3). Pub. L. 108–409, §3(b)(2), added par. (3).
 
 #### Effective Date of 2004 Amendment; Transition Rule
 
-Amendment by section 3(b)(2) of Pub. L. 108–409 applicable only with respect to eligible individuals who are new borrowers (as defined in section 1003 of this title) on or after Oct. 1, 1998, and before Oct. 1, 2005, see section 3(b)(3) of Pub. L. 108–409, set out as a note under section 1078–10 of this title.
+Amendment by section 3(b)(2) of Pub. L. 108–409 applicable only with respect to eligible individuals who are new borrowers (as defined in section 1003 of this title) on or after Oct. 1, 1998, and before June 30, 2007, see section 3(b)(3) of Pub. L. 108–409, as amended, set out as a note under section 1078–10 of this title.
 
 For transition rules relating to amendments made by section 3(a)(1)(B) of Pub. L. 108–409, see section 3(a)(2) of Pub. L. 108–409, set out as a note under section 1078–10 of this title.
 

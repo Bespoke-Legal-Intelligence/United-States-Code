@@ -36,9 +36,31 @@ In determining whether the applicant has sustained the burden of establishing go
 
 (3) The number of aliens naturalized pursuant to this subsection in any fiscal year shall not exceed five. The Director of Central Intelligenceshall inform the Select Committee on Intelligence and the Committee on the Judiciary of the Senate and the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives within a reasonable time prior to the filing of each application under the provisions of this subsection.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §316, 66 Stat. 242; Pub. L. 97–116, §14, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 99–169, title VI, §601, Dec. 4, 1985, 99 Stat. 1007; Pub. L. 101–649, title IV, §§402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, 104 Stat. 5038, 5041, 5046; Pub. L. 104–208, div. C, title III, §308(g)(7)(F), Sept. 30, 1996, 110 Stat. 3009–624.)
+(June 27, 1952, ch. 477, title III, ch. 2, §316, 66 Stat. 242; Pub. L. 97–116, §14, Dec. 29, 1981, 95 Stat. 1619; Pub. L. 99–169, title VI, §601, Dec. 4, 1985, 99 Stat. 1007; Pub. L. 101–649, title IV, §§402, 407(c)(2), (d)(1), (e)(1), Nov. 29, 1990, 104 Stat. 5038, 5041, 5046; Pub. L. 104–208, div. C, title III, §308(g)(7)(F), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 109–149, title V, §518, Dec. 30, 2005, 119 Stat. 2882.)
 
 #### Amendments
+
+2005—Subsec. (g). Pub. L. 109–149, §518, temporarily added subsec. (g) reading as follows:
+
+“(1) The continuous residency requirement under subsection (a) of this section may be reduced to 3 years for an applicant for naturalization if—
+
+&emsp;“(A) the applicant is the beneficiary of an approved petition for classification under section 1154(a)(1)(E) of this title;
+
+&emsp;“(B) the applicant has been approved for adjustment of status under section 1255(a) of this title; and
+
+&emsp;“(C) such reduction is necessary for the applicant to represent the United States at an international event.
+
+“(2) The Secretary of Homeland Security shall adjudicate an application for naturalization under this section not later than 30 days after the submission of such application if the applicant—
+
+&emsp;“(A) requests such expedited adjudication in order to represent the United States at an international event; and
+
+&emsp;“(B) demonstrates that such expedited adjudication is related to such representation.
+
+“(3) An applicant is ineligible for expedited adjudication under paragraph (2) if the Secretary of Homeland Security determines that such expedited adjudication poses a risk to national security. Such a determination by the Secretary shall not be subject to review.
+
+“(4)(A) In addition to any other fee authorized by law, the Secretary of Homeland Security shall charge and collect a $1,000 premium processing fee from each applicant described in this subsection to offset the additional costs incurred to expedite the processing of applications under this subsection.
+
+“(B) The fee collected under subparagraph (A) shall be deposited as offsetting collections in the Immigration Examinations Fee Account.” See Termination Date of 2005 Amendment note below.
 
 1996—Subsec. (f)(1). Pub. L. 104–208 substituted “clauses (i) through (v) of section 1158(b)(2)(A) of this title” for “subparagraphs (A) through (D) of section 1253(h)(2) of this title”.
 
@@ -76,6 +98,10 @@ Subsec. (f)(3). Pub. L. 101–649, §407(c)(2), substituted reference to applica
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
+#### Termination Date of 2005 Amendment
+
+Pub. L. 109–149, title V, §518(b), Dec. 30, 2005, 119 Stat. 2882, provided that: “The amendment made by subsection (a) \[amending this section\] is repealed on January 1, 2006.”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
@@ -86,7 +112,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Expedited Naturalization
 
@@ -112,7 +138,7 @@ Administration of Oath.—An applicant for naturalization under this section may
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘child’ means a child as defined in subparagraphs (A) through (E) of section 101(b)(1) ofthe Immigration and Nationality Act \[8 U.S.C. 1101(b)(1)\], without regard to age or marital status; and
+&emsp;“(1) the term ‘child’ means a child as defined in subparagraphs (A) through (E) of section 101(b)(1) of the Immigration and Nationality Act \[8 U.S.C. 1101(b)(1)\], without regard to age or marital status; and
 
 &emsp;“(2) the term ‘spouse’ means the wife or husband of a deceased alien referred to in subsection (b) who was married to such alien during the time the alien participated in the conduct of United States intelligence activities.”
 

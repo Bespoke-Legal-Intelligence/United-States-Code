@@ -32,7 +32,7 @@
 
 #### (B) Federal-State consultation process
 
-&emsp;&emsp;The Trade Representative shall establish within the Office of the United States Trade Representative a Federal-State consultationprocess for addressing issues relating to the Agreement that directly relate to, or will potentially have a direct impact on, the States. The Federal-State consultation process shall include procedures under which—
+&emsp;&emsp;The Trade Representative shall establish within the Office of the United States Trade Representative a Federal-State consultation process for addressing issues relating to the Agreement that directly relate to, or will potentially have a direct impact on, the States. The Federal-State consultation process shall include procedures under which—
 
 &emsp;&emsp;&emsp;(i) the Trade Representative will assist the States in identifying those State laws that may not conform with the Agreement but may be maintained under the Agreement by reason of being in effect before the Agreement entered into force;
 

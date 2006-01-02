@@ -10,7 +10,3 @@ The provisions of chapter 7 of title 5, United States Code, apply to judicial re
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1302.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9036 of this title.
-

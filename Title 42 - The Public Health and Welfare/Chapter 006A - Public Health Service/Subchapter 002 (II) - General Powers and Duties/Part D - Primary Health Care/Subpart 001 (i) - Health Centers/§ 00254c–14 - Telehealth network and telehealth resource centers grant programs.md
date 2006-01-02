@@ -156,7 +156,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (C) Coordination
 
-&emsp;&emsp;The eligible entity demonstrates how the project to be carried out under the grant will be coordinated with other relevant federally funded projects in the areas, communities,and populations to be served through the grant.
+&emsp;&emsp;The eligible entity demonstrates how the project to be carried out under the grant will be coordinated with other relevant federally funded projects in the areas, communities, and populations to be served through the grant.
 
 #### (D) Network
 
@@ -278,7 +278,7 @@ An entity that receives a grant under this section may not use funds made availa
 
 &emsp;(6) for construction; or
 
-&emsp;(7) for expenditures for indirect costs (as determined by the Secretary), to the extent that the expenditures would exceed 15 percent of the total grant funds.
+&emsp;(7) for expenditures for indirect costs (as determined by the Secretary), to the extent thatthe expenditures would exceed 15 percent of the total grant funds.
 
 #### (m) Collaboration
 

@@ -60,5 +60,5 @@ Division effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–2
 
 #### Evaluation of Tuition Guaranty Programs
 
-Pub. L. 102–325, title XIV, §1407, July 23, 1992, 106 Stat. 819, directed Secretary of Education to conduct study of effectiveness of programs for disadvantaged children that promise the child financial resources needed to pursue postsecondary education in exchange for child's commitment to achieve satisfactory elementary and secondary education, and to submit reportsregarding study by June 30, 1996, and by Jan. 1, 1997, to committees of Congress, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, §1407, July 23, 1992, 106 Stat. 819, directed Secretary of Education to conduct study of effectiveness of programs for disadvantaged children that promise the child financial resources needed to pursue postsecondary education in exchange for child's commitment to achieve satisfactory elementary and secondary education, and to submit reports regarding study by June 30, 1996, and by Jan. 1, 1997, to committees of Congress, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 

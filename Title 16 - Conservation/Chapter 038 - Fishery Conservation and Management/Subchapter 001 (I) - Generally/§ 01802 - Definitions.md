@@ -148,7 +148,7 @@ Sponges
 
 &emsp;(22) The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
-&emsp;(23) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+&emsp;(23) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or aseries of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 &emsp;(24) <sup>1</sup> The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
 
@@ -168,7 +168,7 @@ Sponges
 
 &emsp;(29) The terms “overfishing” and “overfished” mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
 
-&emsp;(30) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islandsand reefs appurtenant to such island, reef, or atoll.
+&emsp;(30) The term “Pacific Insular Area” means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
 
 &emsp;(31) The term “person” means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 

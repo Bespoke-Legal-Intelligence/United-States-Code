@@ -148,7 +148,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;&emsp;&emsp;(i) This chapter.
 
-&emsp;&emsp;&emsp;(ii) The Agricultural Market Transition Act (7 U.S.C. 7201 et seq.), including thenoninsured crop disaster assistance program under section 196 of that Act (7 U.S.C. 7333).
+&emsp;&emsp;&emsp;(ii) The Agricultural Market Transition Act (7 U.S.C. 7201 et seq.), including the noninsured crop disaster assistance program under section 196 of that Act (7 U.S.C. 7333).
 
 &emsp;&emsp;&emsp;(iii) The Agricultural Act of 1949 (7 U.S.C. 1421 et seq.).
 

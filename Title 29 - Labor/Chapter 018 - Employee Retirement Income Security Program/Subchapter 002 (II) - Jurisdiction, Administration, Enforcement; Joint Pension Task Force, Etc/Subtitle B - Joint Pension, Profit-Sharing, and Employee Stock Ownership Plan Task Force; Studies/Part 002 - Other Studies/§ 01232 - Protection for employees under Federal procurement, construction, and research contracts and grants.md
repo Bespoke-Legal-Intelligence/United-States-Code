@@ -34,9 +34,9 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (C) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution of disapproval.
 
-(5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(5)(A) When the committee has reported, or has been discharged from further considerationof, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(B) Debate on the resolution of disapproval shall be limited to not more than 10 hours,which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(B) Debate on the resolution of disapproval shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (6)(A) Motions to postpone, made with respect to the discharge from committee or the consideration of a resolution of disapproval, and motions to proceed to the consideration of other business, shall be decided without debate.
 

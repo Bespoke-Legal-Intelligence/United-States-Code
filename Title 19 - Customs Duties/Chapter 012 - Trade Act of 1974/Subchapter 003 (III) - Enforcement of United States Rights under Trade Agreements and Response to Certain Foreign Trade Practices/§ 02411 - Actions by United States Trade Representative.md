@@ -50,7 +50,7 @@ If the Trade Representative determines under section 2414(a)(1) of this title th
 
 &emsp;(1) an act, policy, or practice of a foreign country is unreasonable or discriminatory and burdens or restricts United States commerce, and
 
-&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of that act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+&emsp;(2) action by the United States is appropriate, the Trade Representative shall take all appropriate and feasible action authorized under subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to obtain the elimination of thatact, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 #### (c) Scope of authority
 
@@ -120,7 +120,7 @@ For purposes of this subchapter—
 
 &emsp;(2) An act, policy, or practice of a foreign country that burdens or restricts United States commerce may include the provision, directly or indirectly, by that foreign country of subsidies for the construction of vessels used in the commercial transportation by water of goods between foreign countries and the United States.
 
-&emsp;(3)(A) An act, policy, or practice is unreasonable if the act, policy, or practice, while not necessarily in violation of, or inconsistent with, the international legal rights of the United States, is otherwise unfair and inequitable.
+&emsp;(3)(A) An act, policy, or practice is unreasonable if the act, policy, or practice, while notnecessarily in violation of, or inconsistent with, the international legal rights of the United States, is otherwise unfair and inequitable.
 
 &emsp;(B) Acts, policies, and practices that are unreasonable include, but are not limited to, any act, policy, or practice, or any combination of acts, policies, or practices, which—
 
@@ -128,7 +128,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(I) opportunities for the establishment of an enterprise,
 
-&emsp;&emsp;&emsp;(II) provision of adequate and effective protection of intellectual property rightsnotwithstanding the fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title,
+&emsp;&emsp;&emsp;(II) provision of adequate and effective protection of intellectual property rights notwithstanding the fact that the foreign country may be in compliance with the specific obligations of the Agreement on Trade-Related Aspects of Intellectual Property Rights referred to in section 3511(d)(15) of this title,
 
 &emsp;&emsp;&emsp;(III) nondiscriminatory market access opportunities for United States persons that rely upon intellectual property protection, or
 
@@ -178,7 +178,7 @@ For purposes of this subchapter—
 
 &emsp;(9) The term “interested persons”, only for purposes of sections 2412(a)(4)(B), 2414(b)(1)(A), 2416(c)(2), and 2417(a)(2) of this title, includes, but is not limited to, domestic firms and workers, representatives of consumer interests, United States product exporters, and any industrial user of any goods or services that may be affected by actions taken under subsection (a) or (b) of this section.
 
-(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI,§621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528.)
 
 #### Prior Provisions
 
@@ -246,7 +246,7 @@ Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade A
 
 (1) promotes access to HIV/AIDS pharmaceuticals or medical technologies for affected populations in that country; and
 
-(2) provides adequate and effective intellectual property protection consistent with the Agreement onTrade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15)).
+(2) provides adequate and effective intellectual property protection consistent with the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15)).
 
 (b) The United States shall encourage all beneficiary sub-Saharan African countries to implement policies designed to address the underlying causes of the HIV/AIDS crisis by, among other things, making efforts to encourage practices that will prevent further transmission and infection and to stimulate development of the infrastructure necessary to deliver adequate health services, and by encouraging policies that provide an incentive for public and private research on, and development of, vaccines and other medical innovations that will combat the HIV/AIDS epidemic in Africa.
 

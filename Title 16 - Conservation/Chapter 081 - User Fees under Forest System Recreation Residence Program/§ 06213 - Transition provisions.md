@@ -28,13 +28,13 @@ For the period of time determined under subsection (b) of this section, the Secr
 
 &emsp;&emsp;&emsp;&emsp;(II) the base cabin user fee established as a result of the appraisal or peer review is determined to be an amount that is 90 percent or more of the fee in effect for the lot as determined by an appraisal conducted on or after September 30, 1995,
 
-&emsp;&emsp;&nbsp;the Secretary shall charge the cabin owner, in addition to the annual fee thatwould otherwise have been due under section 6208 of this title, the difference between the base cabin user fee determined through the conduct of the new appraisal or peer review and the annual fee that would otherwise have been due under section 6208 of this title, to be assessed retroactively for each year beginning with the year in which the previous appraisal was conducted, and to be paid in 3 equal annual installments.
+&emsp;&emsp;&nbsp;the Secretary shall charge the cabin owner, in addition to the annual fee that would otherwise have been due under section 6208 of this title, the difference between the base cabin user fee determined through the conduct of the new appraisal or peer review and the annual fee that would otherwise have been due under section 6208 of this title, to be assessed retroactively for each year beginning with the year in which the previous appraisal was conducted, and to be paid in 3 equal annual installments.
 
 #### (b) Term
 
 #### (1) Lots not appraised since September 30, 1995
 
-&emsp;For a lot that has not been appraised since September 30, 1995, the Secretary shall charge fees in accordance with subsection (a)(2)(A) of this section until—
+&emsp;For a lot that has not been appraised since September 30, 1995, the Secretary shall chargefees in accordance with subsection (a)(2)(A) of this section until—
 
 &emsp;&emsp;(A) a base cabin user fee is determined in accordance with—
 

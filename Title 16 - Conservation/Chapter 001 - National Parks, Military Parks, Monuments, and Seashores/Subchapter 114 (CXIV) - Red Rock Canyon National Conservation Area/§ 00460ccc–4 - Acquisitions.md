@@ -70,7 +70,7 @@ Purposes.—The purposes of this title are:
 
 “(a)
 
-Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title, and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
+Acquisition Requirement.—If the Corporation offers to convey to the United States all right, title,and interest in and to the approximately 1,082 acres of non-Federal land owned by the Corporation and depicted on the Red Rock Canyon Map as ‘Offered Lands proposed addition to the Red Rock Canyon NCA’, the Secretary shall accept such offer on behalf of the United States, and not later than 90 days after the date of the offer, except as otherwise provided in this title, shall make the following conveyances:
 
 &emsp;“(1) To the Corporation, the approximately 998 acres of Federal lands depicted on the Red Rock Canyon Map as ‘Public land selected for exchange’.
 
@@ -94,7 +94,7 @@ Hazardous materials.—As a condition of the conveyance under ––subsection \
 
 &emsp;“(2)
 
-Survey.—As a condition of the conveyance under subsection (a)(1), the Secretary shall require that not later than 90 days after the date of the offer referred to in subsection (a), the Corporation shall provide a metes and bounds survey, that is acceptableto the Corporation, Clark County, and the Secretary, of the common boundary between the parcels of land to be conveyed under subsection (a).
+Survey.—As a condition of the conveyance under subsection (a)(1), the Secretary shall require that not later than 90 days after the date of the offer referred to in subsection (a), the Corporation shall provide a metes and bounds survey, that is acceptable to the Corporation, Clark County, and the Secretary, of the common boundary between the parcels of land to be conveyed under subsection (a).
 
 &emsp;“(3)
 

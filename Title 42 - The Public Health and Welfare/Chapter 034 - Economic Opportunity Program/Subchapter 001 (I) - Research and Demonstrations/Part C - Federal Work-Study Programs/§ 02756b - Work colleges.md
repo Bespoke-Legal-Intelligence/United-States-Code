@@ -66,7 +66,7 @@ Parts E and F of this title, referred to in subsec. (b)(1), (2)(A), mean parts E
 
 #### Prior Provisions
 
-A prior section 2756b, Pub. L. 89–329, title IV, §448, as added Pub. L. 96–374, title IV, §437, Oct. 3, 1980, 94 Stat. 1436, related to work study programs for community service-learning, prior to the general revision of this part by Pub. L. 99–498. See section 2756a of this title.
+A prior section 2756b, Pub. L. 89–329, title IV, §448, as added Pub. L. 96–374, title IV, §437, Oct. 3, 1980, 94 Stat.1436, related to work study programs for community service-learning, prior to the general revision of this part by Pub. L. 99–498. See section 2756a of this title.
 
 #### Amendments
 

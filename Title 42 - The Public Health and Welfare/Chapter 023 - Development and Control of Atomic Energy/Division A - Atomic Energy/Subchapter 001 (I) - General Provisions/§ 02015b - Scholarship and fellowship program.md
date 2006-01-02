@@ -1,0 +1,60 @@
+### §2015b. Scholarship and fellowship program
+
+#### (a) Scholarship program
+
+To enable students to study, for at least 1 academic semester or equivalent term, science, engineering, or another field of study that the Commission determines is in a critical skill area related to the regulatory mission of the Commission, the Commission may carry out a program to—
+
+&emsp;(1) <sup>1</sup> award scholarships to undergraduate students who—
+
+&emsp;&emsp;(A) are United States citizens; and
+
+&emsp;&emsp;(B) enter into an agreement under subsection (c) of this section to be employed by the Commission in the area of study for which the scholarship is awarded.
+
+#### (b) Fellowship program
+
+To enable students to pursue education in science, engineering, or another field of study that the Commission determines is in a critical skill area related to its regulatory mission, in a graduate or professional degree program offered by an institution of higher education in the United States, the Commission may carry out a program to—
+
+&emsp;(1) <sup>1</sup> award fellowships to graduate students who—
+
+&emsp;&emsp;(A) are United States citizens; and
+
+&emsp;&emsp;(B) enter into an agreement under subsection (c) of this section to be employed by the Commission in the area of study for which the fellowship is awarded.
+
+#### (c) Requirements
+
+#### (1) In general
+
+&emsp;As a condition of receiving a scholarship or fellowship under subsection (a) or (b) of this section, a recipient of the scholarship or fellowship shall enter into an agreement with the Commission under which, in return for the assistance, the recipient shall—
+
+&emsp;&emsp;(A) maintain satisfactory academic progress in the studies of the recipient, asdetermined by criteria established by the Commission;
+
+&emsp;&emsp;(B) agree that failure to maintain satisfactory academic progress shall constitute grounds on which the Commission may terminate the assistance;
+
+&emsp;&emsp;(C) on completion of the academic course of study in connection with which the assistance was provided, and in accordance with criteria established by the Commission, engage in employment by the Commission for a period specified by the Commission, that shall be not less than 1 time and not more than 3 times the period for which the assistance was provided; and
+
+&emsp;&emsp;(D) if the recipient fails to meet the requirements of subparagraph (A), (B), or (C), reimburse the United States Government for—
+
+&emsp;&emsp;&emsp;(i) the entire amount of the assistance provided the recipient under the scholarship or fellowship; and
+
+&emsp;&emsp;&emsp;(ii) interest at a rate determined by the Commission.
+
+#### (2) Waiver or suspension
+
+&emsp;The Commission may establish criteria for the partial or total waiver or suspension of any obligation of service or payment incurred by a recipient of a scholarship or fellowship under this section.
+
+#### (d) Competitive process
+
+Recipients of scholarships or fellowships under this section shall be selected through a competitive process primarily on the basis of academic merit and such other criteria as the Commission may establish, with consideration given to financial need and the goal of promoting the participation of individuals identified in section 1885a or 1885b of this title.
+
+#### (e) Direct appointment
+
+The Commission may appoint directly, with no further competition, public notice, or consideration of any other potential candidate, an individual who has—
+
+&emsp;(1) received a scholarship or fellowship awarded by the Commission under this section; and
+
+&emsp;(2) completed the academic program for which the scholarship or fellowship was awarded.
+
+(Aug. 1, 1946, ch. 724, title I, §243, as added Pub. L. 109–58, title VI, §622(a), Aug. 8, 2005, 119 Stat. 782.)
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+

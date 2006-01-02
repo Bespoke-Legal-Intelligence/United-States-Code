@@ -10,8 +10,6 @@
 
 (4) In the determination made under this subsection for each fiscal year (beginning with fiscal year 1992), the President shall enumerate, with the respective number of refugees so determined, the number of aliens who were granted asylum in the previous year.
 
-(5) For any fiscal year, not more than a total of 1,000 refugees may be admitted under this subsection or granted asylum under section 1158 of this title pursuant to a determination under the third sentence of section 1101(a)(42) of this title (relating to persecution for resistance to coercive population control methods).
-
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
 If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a) of this section, the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
@@ -24,7 +22,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 (B) An unmarried alien who seeks to accompany, or follow to join, a parent granted admission as a refugee under this subsection, and who was under 21 years of age on the date on which such parent applied for refugee status under this section, shall continue to be classified as a child for purposes of this paragraph, if the alien attained 21 years of age after such application was filed but while it was pending.
 
-(3) The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not beapplicable to any alien seeking admission to the United States under this subsection, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation. The Attorney General shall provide for the annual reporting to Congress of the number of waivers granted under this paragraph in the previous fiscal year and a summary of the reasons for granting such waivers.
+(3) The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking admission to the United States under this subsection, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation. The Attorney General shall provide for the annual reporting to Congress of the number of waivers granted under this paragraph in the previous fiscal year and a summary of the reasons for granting such waivers.
 
 (4) The refugee status of any alien (and of the spouse or child of the alien) may be terminated by the Attorney General pursuant to such regulations as the Attorney General may prescribe if the Attorney General determines that the alien was not in fact a refugee within the meaning of section 1101(a)(42) of this title at the time of the alien's admission.
 
@@ -64,13 +62,15 @@ For purposes of this section, the term “appropriate consultation” means, wit
 
 (2) Such training shall include country-specific conditions, instruction on the internationally recognized right to freedom of religion, instruction on methods of religious persecution practiced in foreign countries, and applicable distinctions within a country between the nature of and treatment of various religious practices and believers.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §207, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 103; amended Pub. L. 100–525, §9(h), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §104(b), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title VI, §601(b), Sept. 30, 1996, 110 Stat. 3009–689; Pub. L. 105–292, title VI, §602(a), Oct. 27, 1998, 112 Stat. 2812; Pub. L. 107–208, §5, Aug. 6, 2002, 116 Stat. 929.)
+(June 27, 1952, ch. 477, title II, ch. 1, §207, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 103; amended Pub. L. 100–525, §9(h), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §104(b), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title VI, §601(b), Sept. 30, 1996, 110 Stat. 3009–689; Pub. L. 105–292, title VI, §602(a), Oct. 27, 1998, 112 Stat. 2812; Pub. L. 107–208, §5, Aug. 6, 2002, 116 Stat. 929; Pub. L. 109–13, div. B, title I, §101(g)(2), May 11, 2005, 119 Stat. 305.)
 
 #### Prior Provisions
 
 A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Stat. 181, prohibited issuance of immigrant visas to other immigrants in lieu of immigrants excluded from admission, immigrants deported, immigrants failing to apply for admission to the United States, or immigrants found to be nonquota immigrants after having previously been found to be quota immigrants, prior to repeal by Pub. L. 89–236, §7, Oct. 3, 1965, 79 Stat. 916.
 
 #### Amendments
+
+2005—Subsec. (a)(5). Pub. L. 109–13 struck out par. (5) which read as follows: “For any fiscal year, not more than a total of 1,000 refugees may be admitted under this subsection or granted asylum under section 1158 of this title pursuant to a determination under the third sentence of section 1101(a)(42) of this title (relating to persecution for resistance to coercive population control methods).”
 
 2002—Subsec. (c)(2). Pub. L. 107–208 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -86,13 +86,17 @@ Subsec. (c)(3). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)
 
 1988—Subsec. (c)(1). Pub. L. 100–525 substituted “otherwise” for “otherwide”.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–13, div. B, title I, §101(h)(5), May 11, 2005, 119 Stat. 306, provided that: “The amendments made by subsection (g) \[amending this section and section 1159 of this title\] shall take effect on the date of the enactment of this division \[May 11, 2005\].”
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain beneficiary aliens, see section 8 of Pub. L. 107–208, set out as a note under section 1151 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendments made by that section \[amending this section, sections 1159, 1161, 1187, 1188, 1254a, 1255a, and 1322 of this title, and provisions set out as notes under sections 1101 and 1255 of this title\] are effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
+Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendments made by that section \[amending this section, sections 1159, 1161, 1187, 1188, 1254a, 1255a, and 1322of this title, and provisions set out as notes under sections 1101 and 1255 of this title\] are effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.
 
 #### Effective Date of 1990 Amendment
 
@@ -336,7 +340,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211, provided that:
 
 “(a)
 
@@ -374,11 +378,13 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2005.
+&emsp;“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2006.
 
-&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2005.
+&emsp;“(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2006.
 
-&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2005.”
+&emsp;“(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2006.”
+
+\[Pub. L. 109–102, §534(m)(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “2005, and 2006” for “and 2005”, could not be executed.\]
 
 \[Pub. L. 108–447, §213(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, and 2006” for “1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, and 2005”, was executed by making the substitution for “1997, 1998, 1999, 2000, 2001, 2002, 2003, and 2004” to reflect the probable intent of Congress.\]
 
@@ -399,6 +405,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2006–3, Oct. 24, 2005, 70 F.R. 65825.
 
 Presidential Determination No. 2004–53, Sept. 30, 2004, 69 F.R. 60943.
 

@@ -34,11 +34,13 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 (3) An officer may not be paid retention special pay under paragraph (1) for any twelve-month period unless the officer first executes a written agreement under which the officer agrees to remain on active duty for a period of not less than one year beginning on the date the officer accepts the award of such special pay.
 
-(4) The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.
+(4) The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). An officer who does not complete the period for which the payment was made under paragraph (1) shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(d), Dec. 2, 2002, 116 Stat. 2568.)
+(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(d), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(5), Jan. 6, 2006, 119 Stat. 3328.)
 
 #### Amendments
+
+2006—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows:“The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.”
 
 2002—Subsec. (b)(1). Pub. L. 107–314 substituted “$15,000” for “$6,000”.
 
@@ -75,6 +77,10 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 #### Effective Date
 
 Section 209 of title II of Pub. L. 92–129 provided that: “The foregoing provisions of this title \[enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting section 308a of this title\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending section 2203 of Title 50, Appendix\] shall become effective July 1, 1971.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Application of Increase
 

@@ -18,7 +18,3 @@ If such agreement is approved by the Secretary (within such time as may be state
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 547, 860, 1313, 6013, 6015, 6103, 7123, 7206 of this title.
-

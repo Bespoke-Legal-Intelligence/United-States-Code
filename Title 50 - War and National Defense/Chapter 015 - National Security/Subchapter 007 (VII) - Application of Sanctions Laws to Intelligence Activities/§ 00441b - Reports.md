@@ -6,5 +6,5 @@ Reports to Congress pursuant to sections 441 and 441a of this title shall be sub
 
 #### Amendments
 
-2002—Pub. L. 107–306 substituted “congressional intelligence committees” for “Permanent Select Committeeon Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
+2002—Pub. L. 107–306 substituted “congressional intelligence committees” for “Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 

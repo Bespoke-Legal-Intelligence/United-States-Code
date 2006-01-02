@@ -22,7 +22,7 @@ Subsection (a) of this section shall not affect—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department ofAgriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Reorganization Plan No. 2 of 1953, referred to in subsec. (b)(2), is Reorg. Plan No. 2 of 1953, June 4, 1953, 18 F.R. 3219, 67 Stat. 633, as amended, which is set out as a note under section 2201 of this title.
 

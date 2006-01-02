@@ -20,7 +20,7 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 #### (4) Application
 
-&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that desires a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried outwith funds received under a grant under this subsection.
+&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that desires a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried out with funds received under a grant under this subsection.
 
 #### (5) Use of funds
 

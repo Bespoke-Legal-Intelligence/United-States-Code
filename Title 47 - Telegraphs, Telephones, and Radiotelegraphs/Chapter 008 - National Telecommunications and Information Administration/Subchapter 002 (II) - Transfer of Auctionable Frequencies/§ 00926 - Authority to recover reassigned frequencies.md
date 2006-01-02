@@ -8,7 +8,7 @@ Subsequent to the withdrawal of assignment to Federal Government stations pursua
 
 #### (1) Unallocated frequencies
 
-&emsp;If the frequencies to be reclaimed have not been allocated or assigned by the Commissionpursuant to the 1934 Act \[47 U.S.C. 151 et seq.\], the President shall follow the procedures for substitution of frequencies established by section 924(b) of this title.
+&emsp;If the frequencies to be reclaimed have not been allocated or assigned by the Commission pursuant to the 1934 Act \[47 U.S.C. 151 et seq.\], the President shall follow the procedures for substitution of frequencies established by section 924(b) of this title.
 
 #### (2) Allocated frequencies
 

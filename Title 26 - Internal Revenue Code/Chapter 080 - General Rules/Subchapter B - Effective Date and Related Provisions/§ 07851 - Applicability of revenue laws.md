@@ -34,7 +34,7 @@ Except as otherwise provided in any section of this title—
 
 #### (5) Subtitle E
 
-&emsp;Subtitle E shall take effect on January 1, 1955, except that the provisions in section 5411 permitting the use of a brewery under regulations prescribed by the Secretary for the purpose of producing and bottling soft drinks, section 5554, and chapter 53 shall take effect on the day after the date of enactment of this title. Subchapter B of chapter 25, and part VIII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective on the day after the date of enactment of this title. Chapters 15 and 26, and part VII of subchapter A of chapter 27, of the InternalRevenue Code of 1939 are hereby repealed effective January 1, 1955.
+&emsp;Subtitle E shall take effect on January 1, 1955, except that the provisions in section 5411 permitting the use of a brewery under regulations prescribed by the Secretary for the purpose of producing and bottling soft drinks, section 5554, and chapter 53 shall take effect on the day after the date of enactment of this title. Subchapter B of chapter 25, and part VIII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective on the day after the date of enactment of this title. Chapters 15 and 26, and part VII of subchapter A of chapter 27, of the Internal Revenue Code of 1939 are hereby repealed effective January 1, 1955.
 
 #### (6) Subtitle F
 
@@ -58,7 +58,7 @@ Except as otherwise provided in any section of this title—
 
 &emsp;&emsp;&emsp;(iv) Chapter 76, relating to judicial proceedings.
 
-&emsp;&emsp;&emsp;(v) Chapter 77, relating to miscellaneous provisions, except that section 7502 shall apply only if the mailing occurs after the date of enactment of this title, and section 7503 shall apply only if the last date referred to therein occurs after the date of enactment of this title.
+&emsp;&emsp;&emsp;(v) Chapter 77, relating to miscellaneous provisions, except that section 7502 shallapply only if the mailing occurs after the date of enactment of this title, and section 7503 shall apply only if the last date referred to therein occurs after the date of enactment of this title.
 
 &emsp;&emsp;&emsp;(vi) Chapter 78, relating to discovery of liability and enforcement of title.
 
@@ -120,7 +120,7 @@ Various provisions of the Internal Revenue Code of 1939, referred to in text and
 
 Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (D), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Sections 1 to 33 were repealed by subsec. (a)(1)(A) of this section, section 34 was repealed by act Feb. 25, 1944, ch. 63, title I, §106(c)(2), 58 Stat. 31, sections 35 to 184 were repealed by subsec. (a)(1)(A) of this section, section 185 was repealed by act Feb. 25, 1944, ch. 63, title I, §107(a), 58 Stat. 31, sections 201 to 263 were repealed by subsec. (a)(1)(A) of this section, section 264 was repealed by act Oct. 21, 1942, ch. 619, title I, §159(e), 56 Stat. 860, sections 265 to 362 were repealed by subsec. (a)(1)(A) of this section, section 363 was repealed by act Oct. 21, 1942, ch. 619, title I, §170(a), 56 Stat. 878, sections 371 to 482 were repealed by subsec. (a)(1)(A) of this section.
 
-Sections 143 and 144 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (B), were classified to sections 143 and 144 of former Title 26, Internal Revenue Code.
+Sections 143 and 144 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), (B), were classifiedto sections 143 and 144 of former Title 26, Internal Revenue Code.
 
 Chapter 2 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(A), was comprised of sections 500 to 784 of former Title 26, Internal Revenue Code. Sections 500 to 511 and 650 to 706 were repealed by subsec. (a)(1)(A) of this section, sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, §202, 59 Stat. 574, sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, §122(a), 59 Stat. 568, section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§224(b), 228(b), 56 Stat. 920, 925, section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, §229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
@@ -142,7 +142,7 @@ Chapter 4 of the Internal Revenue Code of 1939, referred to in subsec. (a)(2)(B)
 
 Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a)(3), (4), was comprised of sections 1400 to 1636 of former Title 26, Internal Revenue Code. Subchapters B and E of chapter 9 of the Internal Revenue Code of 1939 were comprised of sections 1500 to 1538, and 1630 to 1636, respectively, of former Title 26.
 
-Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), were comprised of chapters 6 to 28, sections 1200 to 3361, and chapters 29 to 33A, sections 3400 to 3540, respectively, of former Title 26, Internal Revenue Code. Sections 1200 to 1207 of former Title 26 were repealed by act Nov. 8, 1945, ch. 453, title II, §201, 59 Stat. 574. Sections 1250 to 1254, 1400 to 1627, 1631 to 1805, 1807 to 2300, 2302 to 2362, 2400 to 2475, 2477 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195, 3206 to 3212, 3220 to 3301, 3303 to 3335, 3350 to 3409, 3412 to 3451, and 3453 to 3508 of former Title 26, were repealed by subsec. (a)(4) of this section. Sections 1300 and 1301 were repealed by act June 10, 1952, ch. 390, 66 Stat. 133. Section 1630 was repealed by act Aug. 27, 1949, ch. 517, §4(b), 63 Stat. 668. Section 1806 was repealed by act Mar. 11, 1947, ch. 117, §8(c), 61 Stat. 13. Section 2301 was repealed by act Mar. 16, 1950, ch. 61, §1, 64 Stat. 20. Sections 2380 to 2390, and 3215 to 3217 were repealed by act Oct. 21, 1942, ch. 619, title VI, §619, 56 Stat. 979. Section 2476 was repealed by act Apr. 30, 1946, ch. 244, title V, §506(b), 60 Stat. 157. Sections 2906 and 3302 were repealed by act Feb. 21, 1950, ch. 36, §7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, 55 Stat. 602. Sections3151 and 3154 were repealed by act Aug. 27, 1949, ch. 498, §6, 63 Stat. 626. Sections 3200 to 3202 were repealed by act Mar. 16, 1950, ch. 61, §2, 64 Stat. 20. Sections 3340 to 3343 were repealed by act Apr. 30, 1946, ch. 244, title V, §507(b), 60 Stat. 157. Section 3411 was repealed by act Oct. 20, 1951, ch. 521, title IV, §488(a), 65 Stat. 536. Section 3452 was repealed by act Sept. 20, 1941, ch. 412, title V, §501, 55 Stat. 706. Sections 3520 to 3528 expired by their own terms on Apr. 26, 1941. Section 3540 was repealed by act Nov. 8, 1945, ch. 453, title III, §301, 59 Stat. 575.
+Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), were comprised of chapters 6 to 28, sections 1200 to 3361, and chapters 29 to 33A, sections 3400 to 3540, respectively, of former Title 26, Internal Revenue Code. Sections 1200 to 1207 of former Title 26 were repealed by act Nov. 8, 1945, ch. 453, title II, §201, 59 Stat. 574. Sections 1250 to 1254, 1400 to 1627, 1631 to 1805, 1807 to 2300, 2302 to 2362, 2400 to 2475, 2477 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195, 3206 to 3212, 3220 to 3301, 3303 to 3335, 3350 to 3409, 3412 to 3451, and 3453 to 3508 of former Title 26, were repealed by subsec. (a)(4) of this section. Sections 1300 and 1301 were repealed by act June 10, 1952, ch. 390, 66 Stat. 133. Section 1630 was repealed by act Aug. 27, 1949, ch. 517, §4(b), 63 Stat. 668. Section 1806 was repealed by act Mar. 11, 1947, ch. 117, §8(c), 61 Stat. 13. Section 2301 was repealed by act Mar. 16, 1950, ch. 61, §1, 64 Stat. 20. Sections 2380 to 2390, and 3215 to 3217 were repealed by act Oct. 21, 1942, ch. 619, title VI, §619, 56 Stat. 979. Section 2476 was repealed by act Apr. 30, 1946, ch. 244, title V, §506(b), 60 Stat. 157. Sections 2906 and 3302 were repealed by act Feb. 21, 1950, ch. 36, §7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 27, 1949, ch. 498, §6, 63 Stat. 626. Sections 3200 to 3202 were repealed by act Mar. 16, 1950, ch. 61, §2, 64 Stat. 20. Sections 3340 to 3343 were repealed by act Apr. 30, 1946, ch. 244, title V, §507(b), 60 Stat. 157. Section 3411 was repealed by act Oct. 20, 1951, ch. 521, title IV, §488(a), 65 Stat. 536. Section 3452 was repealed by act Sept. 20, 1941, ch. 412, title V, §501, 55 Stat. 706. Sections 3520 to 3528 expired by their own terms on Apr. 26, 1941. Section 3540 was repealed by act Nov. 8, 1945, ch. 453, title III, §301, 59 Stat. 575.
 
 Chapter 15 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2000 to 2199 of former Title 26, Internal Revenue Code. Chapter 15 was repealed by subsec. (a)(5) of this section.
 
@@ -166,7 +166,7 @@ Subtitle D of the Internal Revenue Code of 1939, referred to in subsec. (a)(6)(B
 
 Section 3777 of the Internal Revenue Code of 1939, referred to in subsec. (a)(6)(B), was classified to section 3777 of former Title 26, Internal Revenue Code. Section 3777 was repealed by subsec. (a)(6)(B) of this section.
 
-Reorganization Plan Numbered 26 of 1950, referred to in subsec. (b)(3), is Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan Numbered 26 of 1950, referred to in subsec. (b)(3), is Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, which is set out inthe Appendix to Title 5, Government Organization and Employees.
 
 Reorganization Plan Numbered 1 of 1952, referred to in subsec. (b)(3), is Reorg. Plan No. 1 of 1952, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, which is set out in Appendix to Title 5.
 
@@ -175,10 +175,6 @@ Reorganization Plan Numbered 1 of 1952, referred to in subsec. (b)(3), is Reorg.
 1986—Subsecs. (a)(7), (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1976—Subsec. (a)(5). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6013 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

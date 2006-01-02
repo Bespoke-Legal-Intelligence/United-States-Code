@@ -4,7 +4,7 @@
 
 (b) The Secretary of Defense shall from time to time study uses for solar energy and other renewable forms of energy to determine what uses of such forms of energy may be cost effective and reliable in supplying the energy needs of the Department of Defense. The Secretary of Defense, based upon the results of such studies, shall from time to time issue policy guidelines to be followed by the Secretaries of the military departments in carrying out subsection (a) and section 2857 of this title.
 
-(c)(1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system using such a form of energy, and (B) the original investment cost of the energy system not using such a form of energy can be recovered over the expected life of the system.
+(c)(1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system using such a form of energy, and (B) the original investment cost of the energy system not usingsuch a form of energy can be recovered over the expected life of the system.
 
 (2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a system shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act (42 U.S.C. 8254(a)).
 

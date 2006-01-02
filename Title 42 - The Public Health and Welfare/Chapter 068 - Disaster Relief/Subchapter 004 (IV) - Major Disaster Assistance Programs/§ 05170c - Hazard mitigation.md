@@ -28,7 +28,7 @@ The President may contribute up to 75 percent of the cost of hazard mitigation m
 
 &emsp;&emsp;&emsp;&emsp;(III) a structure that the Director approves in writing before the commencement of the construction of the structure; and
 
-&emsp;&emsp;&emsp;(iii) after receipt of the assistance, with respect to any property acquired, accepted or from which a structure was removed under the acquisition or relocation program—
+&emsp;&emsp;&emsp;(iii) after receipt of the assistance, with respect to any property acquired, acceptedor from which a structure was removed under the acquisition or relocation program—
 
 &emsp;&emsp;&emsp;&emsp;(I) no subsequent application for additional disaster assistance for any purpose will be made by the recipient to any Federal entity; and
 

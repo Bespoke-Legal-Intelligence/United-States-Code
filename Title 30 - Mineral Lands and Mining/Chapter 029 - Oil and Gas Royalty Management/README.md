@@ -138,6 +138,7 @@
 | [1755\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001755%20-%20Statute%20of%20limitations.md) | Statute of limitations. |
 | [1756\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001756%20-%20Expanded%20royalty%20obligations.md) | Expanded royalty obligations. |
 | [1757\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001757%20-%20Severability.md) | Severability. |
+| [1758\.](Subchapter%20003%20%28III%29%20-%20General%20Provisions/%C2%A7%2001758%20-%20Use%20of%20royalty-in-kind%20revenue%20by%20Minerals%20Management%20Service.md) | Use of royalty-in-kind revenue by Minerals Management Service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

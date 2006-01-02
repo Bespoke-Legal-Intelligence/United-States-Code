@@ -1,6 +1,6 @@
 ### §6333. Computation of retired and retainer pay
 
-(a) The monthly retired pay or retainer pay of a member entitled to such pay under this chapter or under section 6383 of this title is computed in accordance with the following table.
+(a) The monthly retired pay or retainer pay of a member entitled to such pay under this chapter or under section 6970 or 6383 of this title is computed in accordance with the following table.
 
 &nbsp;
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | A | 6325(a)6326&nbsp;&nbsp; | Retired pay base computed under section 1406(d) or 1407 | 75 percent. |
 |  |  |  |  |
-| B | 6323  6325(b)6383&nbsp;&nbsp; | Retired pay base computed under section 1406(d) or 1407 | Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405. |
+| B | 6323  6325(b)6970  6383&nbsp;&nbsp; | Retired pay base computed under section 1406(d) or 1407 | Retired pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405. |
 |  |  |  |  |
 | C | 6330&nbsp;&nbsp; | Retainer pay base computed under section 1406(d) or 1407 | Retainer pay multiplier prescribed under section 1409 for the years of service that may be credited to him under section 1405. |
 
@@ -18,9 +18,11 @@
 
 (c) In the case of a Reserve enlisted member whose grade upon transfer to the Fleet Reserve or Fleet Marine Corps Reserve is determined under section 6336 of this title and who first became a member of a uniformed service before September 8, 1980, the retainer pay base of the member (notwithstanding section 1406(a)(1) of this title) is the amount of the monthly basic pay of the grade in which the member is so transferred (determined based upon the rates of basic pay applicable on the date of the member's transfer), and that amount shall be used for the purposes of the table in subsection (a) rather than the amount computed under section 1406(d) of this title.
 
-(Added Pub. L. 98–94, title IX, §922(a)(10)(A), Sept. 24, 1983, 97 Stat. 641; amended Pub. L. 99–348, title II, §203(a), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(b), Oct. 5, 1994, 108 Stat. 2789; Pub. L. 104–106, div. A, title XV, §1503(b)(3), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §532(d)(2), Sept. 23, 1996, 110 Stat. 2520.)
+(Added Pub. L. 98–94, title IX, §922(a)(10)(A), Sept. 24, 1983, 97 Stat. 641; amended Pub. L. 99–348, title II, §203(a), July 1, 1986, 100 Stat. 695; Pub. L. 103–337, div. A, title VI, §635(b), Oct. 5, 1994, 108 Stat. 2789; Pub. L. 104–106, div. A, title XV, §1503(b)(3), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §532(d)(2), Sept. 23, 1996, 110 Stat. 2520; Pub. L. 109–163, div. A, title V, §509(d)(2), Jan. 6, 2006, 119 Stat. 3231.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 inserted “6970 or” after “section” in text and “6970” below “6325(b)” in Formula B under “For sections” column in table.
 
 1996—Subsec. (a). Pub. L. 104–106 struck out first period after “section 1405” in Formula C under Column 2 in table.
 
@@ -37,8 +39,4 @@ Amendment by Pub. L. 103–337 applicable to computation of retired pay of any e
 #### Effective Date
 
 Section effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1406, 6323, 6325, 6326, 6330, 6383 of this title.
 

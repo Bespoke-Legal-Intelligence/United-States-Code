@@ -54,6 +54,10 @@ The Committee shall cease to exist 10 years after August 9, 1989.
 
 (Sept. 21, 1950, ch. 967, §2\[31\], as added Pub. L. 101–73, title II, §226, Aug. 9, 1989, 103 Stat. 276; amended Pub. L. 103–325, title VI, §602(a)(60), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(Y), Sept. 30, 1996, 110 Stat. 3009–494.
 
+#### Repeal of Section
+
+<i>Pub. L. 109–173, §8(a)(33), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, this section is repealed.</i>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -67,6 +71,10 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of Repeal
+
+Repeal effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as an Effective Date of 2006 Amendment note under section 1813 of this title.
 
 #### Effective Date of 1996 Amendment
 

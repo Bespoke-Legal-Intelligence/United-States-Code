@@ -4,7 +4,7 @@ In the 30-day period beginning 3 years after November 2, 1994, and with the conc
 
 &emsp;(1) describing how the operation of this chapter has affected the enforcement of the Federal antitrust laws,
 
-&emsp;(2) describing the extent to which foreign antitrust authorities have complied with the confidentiality requirements applicable under antitrust mutual assistance agreements in effect under this chapter,
+&emsp;(2) describing the extent to which foreign antitrust authorities have complied with theconfidentiality requirements applicable under antitrust mutual assistance agreements in effect under this chapter,
 
 &emsp;(3) specifying separately the identities of the foreign states, regional economic integration organizations, and foreign antitrust authorities that have entered into such agreements and the identities of the foreign antitrust authorities with respect to which such foreign states and such organizations have entered into such agreements,
 

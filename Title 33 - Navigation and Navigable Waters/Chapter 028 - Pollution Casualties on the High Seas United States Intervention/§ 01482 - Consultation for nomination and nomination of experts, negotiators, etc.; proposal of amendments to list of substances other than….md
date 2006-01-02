@@ -6,7 +6,7 @@ The Secretary, in consultation with the Secretary of State and the Administrator
 
 #### (b) Consultations for designation or nomination of negotiators, etc., provided for by convention and protocol
 
-The Secretary of State, in consultation with the Secretary, shall designate or nominate, asappropriate and necessary, the negotiators, conciliators, or arbitrators provided for by the convention and the protocol.
+The Secretary of State, in consultation with the Secretary, shall designate or nominate, as appropriate and necessary, the negotiators, conciliators, or arbitrators provided for by the convention and the protocol.
 
 #### (c) Presidential acceptance of amendments to list of substances other than convention oil in accordance with protocol
 

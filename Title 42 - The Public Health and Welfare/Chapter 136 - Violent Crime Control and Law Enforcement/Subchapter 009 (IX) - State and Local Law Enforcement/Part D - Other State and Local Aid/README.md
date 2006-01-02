@@ -1,12 +1,8 @@
 Part D—Other State and Local Aid
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>2</sup></i><i> So in original. A closing parenthesis probably should precede the comma.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 14161 - Federal assistance to ease increased burdens on State court systems](%C2%A7%2014161%20-%20Federal%20assistance%20to%20ease%20increased%20burdens%20on%20State%20court%20systems.md)
+- [&sect; 14161 - Repealed. Pub. L. 109&#8211;162, title XI, &sect;1154(b)(4), Jan. 5, 2006, 119 Stat. 3113](%C2%A7%2014161%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20XI%2C%20%C2%A71154%28b%29%284%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203113.md)

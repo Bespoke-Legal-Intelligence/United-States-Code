@@ -48,7 +48,7 @@ An estate or trust shall be allowed the credit against tax for taxes imposed by 
 
 #### (1) General rule
 
-&emsp;In the case of an estate or trust (other then <sup>1</sup> a trust meeting the specifications of subpart B), there shall be allowed as a deduction in computing its taxable income (in lieu of the deduction allowed by section 170(a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid for a purpose specified in section 170(c) (determined without regard to section 170(c)(2)(A)). If a charitable contribution is paid after the close of such taxableyear and on or before the last day of the year following the close of such taxable year, then the trustee or administrator may elect to treat such contribution as paid during such taxable year. The election shall be made at such time and in such manner as the Secretary prescribes by regulations.
+&emsp;In the case of an estate or trust (other then <sup>1</sup> a trust meeting the specifications of subpart B), there shall be allowed as a deduction in computing its taxable income (in lieu of the deduction allowed by section 170(a), relating to deduction for charitable, etc., contributions and gifts) any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, paid for a purpose specified in section 170(c) (determined without regard to section 170(c)(2)(A)). If a charitable contribution is paid after the close of such taxable year and on or before the last day of the year following the close of such taxable year, then the trustee or administrator may elect to treat such contribution as paid during such taxable year. The election shall be made at such time and in such manner as the Secretary prescribes by regulations.
 
 #### (2) Amounts permanently set aside
 
@@ -66,7 +66,7 @@ An estate or trust shall be allowed the credit against tax for taxes imposed by 
 
 &emsp;&emsp;&emsp;(ii) the testator at no time after October 9, 1969, had the right to change the portions of the will which pertain to the trust, or
 
-&emsp;&emsp;&emsp;(iii) the will is not republished by codicil or otherwise before October 9, 1972, and the testator is on such date and at all times thereafter under a mental disability to republish the will by codicil or otherwise,
+&emsp;&emsp;&emsp;(iii) the will is not republished by codicil or otherwise before October 9, 1972, and the testator is on such date and at all timesthereafter under a mental disability to republish the will by codicil or otherwise,
 
 > &emsp;there shall also be allowed as a deduction in computing its taxable income any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, permanently set aside for a purpose specified in section 170(c), or is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, or for the establishment, acquisition, maintenance, or operation of a public cemetery not operated for profit. In the case of a trust, the preceding sentence shall apply only to gross income earned with respect to amounts transferred to the trust before October 9, 1969, or transferred under a will to which subparagraph (B) applies.
 
@@ -256,7 +256,7 @@ Section 1402(b)(1) of Pub. L. 94–455 provided that the amendment made by that 
 
 Section 1402(b)(2) of Pub. L. 94–455 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Amendment by section 1901(b)(1)(H)(i) of Pub. L. 94–455 effective for taxable years beginning after Dec.31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(1)(H)(i) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(c)(2)(B) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1952(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 
@@ -274,7 +274,7 @@ Section 703 of Pub. L. 92–178 provided that: “The amendments made by this ti
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 201(b) of Pub. L. 91–172 applicable with respect to amounts paid, permanently set aside, or to be used for a charitable purpose in taxable years beginning after Dec. 31, 1969, except that subsec. (c)(5) applicable to transfers in trust made after July 31, 1969, see section 201(g) of Pub. L. 91–172, set out as a note under section 170 of this title.
+Amendment by section 201(b) of Pub. L. 91–172 applicable with respect to amounts paid, permanently setaside, or to be used for a charitable purpose in taxable years beginning after Dec. 31, 1969, except that subsec. (c)(5) applicable to transfers in trust made after July 31, 1969, see section 201(g) of Pub. L. 91–172, set out as a note under section 170 of this title.
 
 Amendment by section 704(b)(2) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1968, see section 704(c) of Pub. L. 91–172, set out as an Effective Date note under section 169 of this title.
 
@@ -292,11 +292,7 @@ Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 67, 153, 170, 501, 507, 508, 542, 641, 643, 651, 661, 662, 663, 681, 683, 685, 901, 904, 1291, 1298, 2055, 2522, 2652, 4947, 4948, 6034 of this title; title 15 section 80a–3.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “than”.</i>
 

@@ -196,7 +196,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 #### (f) Reporting
 
-The Attorney General and the Secretary of Health and Human Services shall submit to Congress, by March 1 of each year, a detailed review of the progress of the regional children's advocacy program activities.
+The Attorney General and the Secretary of Health and Human Services shall submit to Congress, by March 1 of each year, a detailed reviewof the progress of the regional children's advocacy program activities.
 
 (Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030; amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667.)
 

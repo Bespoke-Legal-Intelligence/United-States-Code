@@ -28,7 +28,7 @@ There are authorized to be appropriated to carry out this section $40,000,000 fo
 
 #### Codification
 
-Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of theFederal Water Pollution Control Act which comprises this chapter.
+Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 
 #### Amendments
 

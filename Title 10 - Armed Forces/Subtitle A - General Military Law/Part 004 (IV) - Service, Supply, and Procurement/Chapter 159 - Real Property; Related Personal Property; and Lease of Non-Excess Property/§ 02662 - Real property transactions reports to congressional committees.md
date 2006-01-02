@@ -16,7 +16,7 @@ General Notice and Wait Requirements.—(1) The Secretary of a military departme
 
 &emsp;(F) Any termination or modification by either the grantor or grantee of an existing license or permit of real property owned by the United States to a military department, under which substantial investments have been or are proposed to be made in connection with the use of the property by the military department.
 
-(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project, the report must include a summarization of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
+(2) If a transaction covered by subparagraph (A) or (B) of paragraph (1) is part of a project, the report shall include a summary of the general plan for that project, including an estimate of the total cost of the lands to be acquired or leases to be made. The report required by this subsection concerning any report of excess real property described in subparagraph (E) of paragraph (1) shall contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such property for other real property authorized to be acquired for military purposes and has determined that the property proposed to be declared excess is not suitable for such purpose.
 
 (3) The authority of the Secretary of a military department to enter into a transaction described in paragraph (1) commences only after—
 
@@ -32,7 +32,7 @@ Annual Reports on Certain Minor Transactions.—The Secretary of each military d
 
 (c)
 
-Geographic Scope; Excepted Projects.—This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harbor projects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real propertyacquisition specifically authorized in a Military Construction Authorization Act.
+Geographic Scope; Excepted Projects.—This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not apply to real property for river and harbor projects or flood control projects, or to leases of Government-owned real property for agricultural or grazing purposes or to any real property acquisition specifically authorized in a Military Construction Authorization Act.
 
 (d)
 
@@ -68,7 +68,7 @@ Exceptions for Transactions for War and Certain Emergency and Other Operations.�
 
 (3) Not later than 30 days after entering into a real property transaction covered by paragraph (1) or (2), the Secretary concerned shall submit to the committees named in subsection (a) a report on the transaction. The report shall set forth any facts or information which would otherwise have been submitted in a report on the transaction under subsection (a) or (e), as the case may be, but for the operation of paragraph (1) or (2).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, §1031(a)(27), Nov. 24, 2003, 117 Stat. 1598.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, §6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, §511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, §4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, §707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, §709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, §610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, §607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, §614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, §805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, §2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, §1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, §403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, §1502(a)(23), div. D, title XLIII, §4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, §2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, §1031(a)(27), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, §1084(d)(22), Oct. 28, 2004, 118 Stat. 2062.)
 
 Historical and Revision Notes
 
@@ -104,7 +104,7 @@ In subsection (b), the words “more than $5,000 but not more than $25,000” ar
 
 In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, the Territory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
 
-In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “inthe alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
+In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
 
 #### References in Text
 
@@ -113,6 +113,8 @@ The National Emergencies Act, referred to in subsec. (g)(1)(B), is Pub. L. 94–
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–375 substituted “shall include a summary” for “must include a summarization” and inserted “of paragraph (1)” after “in subparagraph (E)”.
 
 2003—Subsec. (a). Pub. L. 108–136, §1031(a)(27)(A)(i)–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to (E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
 
@@ -199,8 +201,4 @@ Pub. L. 95–82, title VI, §612(c), Aug. 1, 1977, 91 Stat. 380, provided that: 
 #### Closing of Facilities; Reports to Congress
 
 Pub. L. 89–188, title VI, §611, Sept. 16, 1965, 79 Stat. 818, as amended by Pub. L. 89–568, title VI, §613, Sept. 12, 1966, 80 Stat. 757, required a report to Congress and a waiting period in connection with the closing of Defense Department facilities, prior to repeal by Pub. L. 97–214, §7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2667 of this title; title 42 section 3374.
 

@@ -16,7 +16,3 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 Section 1661(a)(5)(B) of Pub. L. 103–337 provided that: “Section 10148(b) \[10 U.S.C. 10148(b)\], as added by paragraph (1), applies only to persons who became members of the Army National Guard of the United States or the Air National Guard of the United States after October 4, 1961.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1201 of this title.
-

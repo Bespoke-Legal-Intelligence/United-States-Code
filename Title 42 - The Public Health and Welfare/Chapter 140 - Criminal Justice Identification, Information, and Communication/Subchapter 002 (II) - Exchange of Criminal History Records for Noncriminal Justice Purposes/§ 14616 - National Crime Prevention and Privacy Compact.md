@@ -78,7 +78,7 @@ In this Compact:
 
 #### (11) Executive order
 
-&emsp;The term “Executive order” means an order of the President of the United States or the chief executive officer of a State that has the force of law and that is promulgated in accordance with applicable law.
+&emsp;The term “Executive order” means an order of the President of the United States or the chief executive officer of a State that has theforce of law and that is promulgated in accordance with applicable law.
 
 #### (12) FBI
 
@@ -150,7 +150,7 @@ The purposes of this Compact are to—
 
 &emsp;(4) provide for the establishment of a Council to monitor III System operations and to prescribe system rules and procedures for the effective and proper operation of the III System for noncriminal justice purposes; and
 
-&emsp;(5) require the FBI and each Party State to adhere to III System standards concerningrecord dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
+&emsp;(5) require the FBI and each Party State to adhere to III System standards concerning record dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
 
 ### ARTICLE III—RESPONSIBILITIES OF COMPACT PARTIES
 
@@ -160,7 +160,7 @@ The Director of the FBI shall—
 
 &emsp;(1) appoint an FBI Compact officer who shall—
 
-&emsp;&emsp;(A) administer this Compact within the Department of Justice and among Federal agencies and other agencies and organizations that submit search requests to the FBI pursuant to Article V(c);
+&emsp;&emsp;(A) administer this Compact within the Department of Justice and among Federalagencies and other agencies and organizations that submit search requests to the FBI pursuant to Article V(c);
 
 &emsp;&emsp;(B) ensure that Compact provisions and rules, procedures, and standards prescribed by the Council under Article VI are complied with by the Department of Justice and the Federal agencies and other agencies and organizations referred to in Article III(1)(A); and
 
@@ -232,7 +232,7 @@ Any record obtained under this Compact may be used only for the official purpose
 
 #### (a) Positive identification
 
-Subject fingerprints or other approved forms of positive identification shall be submitted with all requests for criminal history record checks for noncriminal justice purposes.
+Subject fingerprints or other approved forms of positive identification shall be submittedwith all requests for criminal history record checks for noncriminal justice purposes.
 
 #### (b) Submission of State requests
 
@@ -304,7 +304,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (1) In general
 
-&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of theCouncil, respectively. Both the Chairman and Vice Chairman of the Council—
+&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of the Council, respectively. Both the Chairman and Vice Chairman of the Council—
 
 &emsp;&emsp;(A) shall be a Compact officer, unless there is no Compact officer on the Council who is willing to serve, in which case the Chairman may be an at-large member; and
 
@@ -390,7 +390,7 @@ The Council shall—
 
 #### (b) Duties of FBI
 
-The FBI shall exercise immediate and necessary action to preserve the integrity of the III System, maintain system policy and standards, protect the accuracy and privacy of records, and to prevent abuses, until the Council holds a hearing on such matters.
+The FBI shall exercise immediate and necessary action to preserve the integrity of the IIISystem, maintain system policy and standards, protect the accuracy and privacy of records, and to prevent abuses, until the Council holds a hearing on such matters.
 
 #### (c) Right of appeal
 

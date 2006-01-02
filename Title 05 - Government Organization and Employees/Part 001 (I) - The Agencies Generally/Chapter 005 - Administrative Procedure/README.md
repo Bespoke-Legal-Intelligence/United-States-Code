@@ -42,7 +42,7 @@
 | [561\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000561%20-%20Purpose.md) | Purpose. |
 | [562\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000562%20-%20Definitions.md) | Definitions. |
 | [563\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000563%20-%20Determination%20of%20need%20for%20negotiated%20rulemaking%20committee.md) | Determination of need for negotiated rulemaking committee. |
-| [564\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000564%20-%20Publication%20of%20notice%3B%20applications%20for%20membership%20on%20committees.md) | Publication of notice; applications for membership on committee. |
+| [564\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000564%20-%20Publication%20of%20notice%3B%20applications%20for%20membership%20on%20committees.md) | Publication of notice; applications for membership on committees. |
 | [565\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000565%20-%20Establishment%20of%20committee.md) | Establishment of committee. |
 | [566\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000566%20-%20Conduct%20of%20committee%20activity.md) | Conduct of committee activity. |
 | [567\.](Subchapter%20003%20%28III%29%20-%20Negotiated%20Rulemaking%20Procedure/%C2%A7%2000567%20-%20Termination%20of%20committee.md) | Termination of committee. |

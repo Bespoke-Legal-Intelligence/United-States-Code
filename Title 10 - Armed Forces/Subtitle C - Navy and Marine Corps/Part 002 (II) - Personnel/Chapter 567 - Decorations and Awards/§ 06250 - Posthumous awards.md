@@ -26,7 +26,3 @@ July 2, 1926, ch. 721, §12 (3d sentence, less last 31 words), 44 Stat. 789; Jul
 
 The word “associated” is substituted for the word “other” to relate the medal or cross to its emblem or insignia.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6257 of this title.
-

@@ -12,7 +12,7 @@ Part A—Hospital Insurance Benefits for Aged and Disabled
 - [&sect; 01395e - Deductibles and coinsurance](%C2%A7%2001395e%20-%20Deductibles%20and%20coinsurance.md)
 - [&sect; 01395f - Conditions of and limitations on payment for services](%C2%A7%2001395f%20-%20Conditions%20of%20and%20limitations%20on%20payment%20for%20services.md)
 - [&sect; 01395g - Payments to providers of services](%C2%A7%2001395g%20-%20Payments%20to%20providers%20of%20services.md)
-- [&sect; 01395h - Use of public or private agencies or organizations to facilitate payment to providers of services](%C2%A7%2001395h%20-%20Use%20of%20public%20or%20private%20agencies%20or%20organizations%20to%20facilitate%20payment%20to%20providers%20of%20services.md)
+- [&sect; 01395h - Provisions relating to the administration of part A](%C2%A7%2001395h%20-%20Provisions%20relating%20to%20the%20administration%20of%20part%20A.md)
 - [&sect; 01395i - Federal Hospital Insurance Trust Fund](%C2%A7%2001395i%20-%20Federal%20Hospital%20Insurance%20Trust%20Fund.md)
 - [&sect; 01395i&#8211;1 - Authorization of appropriations](%C2%A7%2001395i%E2%80%931%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01395i&#8211;1a - Repealed. Pub. L. 101&#8211;234, title I, &sect;102(a), Dec. 13, 1989, 103 Stat. 1980](%C2%A7%2001395i%E2%80%931a%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93234%2C%20title%20I%2C%20%C2%A7102%28a%29%2C%20Dec.%2013%2C%201989%2C%20103%20Stat.%201980.md)

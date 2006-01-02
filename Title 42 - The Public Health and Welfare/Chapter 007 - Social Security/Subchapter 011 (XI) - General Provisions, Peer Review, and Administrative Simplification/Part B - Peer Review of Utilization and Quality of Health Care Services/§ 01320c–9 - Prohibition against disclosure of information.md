@@ -38,7 +38,7 @@ It shall be unlawful for any person to disclose any such information described i
 
 #### (d) Subpoena and discovery proceedings regarding patient records
 
-No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except thatsuch an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.
+No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.
 
 #### (e) Organizations with contracts
 
@@ -54,7 +54,7 @@ A prior section 1320c–9, act Aug. 14, 1935, ch. 531, title XI, §1160, as adde
 
 1994—Subsec. (b)(1)(D). Pub. L. 103–432, §156(b)(2)(B), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “to provide notice to the State medical board in accordance with section 1320c–3(a)(9)(B) of this title when the organization submits a report and recommendations to the Secretary under section 1320c–5(b)(1) of this title with respect to a physician whom the board is responsible for licensing;”.
 
-Subsec. (d). Pub. L. 103–432, §156(b)(4), which directed amendment of subsec. (d) by substituting “subpoena” for “subpena”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 103–432, §156(b)(4), which directed amendment of subsec. (d) by substituting “subpoena”for “subpena”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 1990—Subsec. (b)(1)(D). Pub. L. 101–508, §4205(d)(1)(B), added subpar. (D).
 

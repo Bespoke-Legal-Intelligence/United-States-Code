@@ -52,7 +52,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 &emsp;&emsp;(iv) a decision to pay or settle a claim in excess of $10,000,000 with that contractor.
 
-(2) Nothing in paragraph (1) may be construed to prohibit a former official of a Federal agencyfrom accepting compensation from any division or affiliate of a contractor that does not produce the same or similar products or services as the entity of the contractor that is responsible for the contract referred to in subparagraph (A), (B), or (C) of such paragraph.
+(2) Nothing in paragraph (1) may be construed to prohibit a former official of a Federal agency from accepting compensation from any division or affiliate of a contractor that does not produce the same or similar products or services as the entity of the contractor that is responsible for the contract referred to in subparagraph (A), (B), or (C) of such paragraph.
 
 (3) A former official who knowingly accepts compensation in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
 
@@ -254,7 +254,7 @@ Subsec. (p)(8). Pub. L. 101–189, §814(b)(3), added par. (8).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, setout as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1996 Amendment
 
@@ -278,7 +278,7 @@ Section 815(b) of Pub. L. 101–510 provided that: “Not later than 30 days aft
 
 #### Suspension of Effect of Section
 
-Section 815(a)(1) of Pub. L. 101–510 provided that subsection (f) of this section shall have no force or effectduring the period beginning on Dec. 1, 1990, and ending on May 31, 1991.
+Section 815(a)(1) of Pub. L. 101–510 provided that subsection (f) of this section shall have no force or effect during the period beginning on Dec. 1, 1990, and ending on May 31, 1991.
 
 Pub. L. 101–194, title V, §507(1), Nov. 30, 1989, 103 Stat. 1759, provided that the provisions of this section shall have no force or effect during the period beginning Dec. 1, 1989, and ending one year after such date.
 

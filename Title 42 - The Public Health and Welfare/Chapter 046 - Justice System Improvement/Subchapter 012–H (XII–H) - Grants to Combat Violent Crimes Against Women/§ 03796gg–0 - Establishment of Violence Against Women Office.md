@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is hereby established within the Department of Justice, under the general authority of the Attorney General, a Violence Against Women Office (in this subchapter referred to as the “Office”).
+There is hereby established within the Department of Justice, under the general authority ofthe Attorney General, a Violence Against Women Office (in this subchapter referred to as the “Office”).
 
 #### (b) Separate office
 

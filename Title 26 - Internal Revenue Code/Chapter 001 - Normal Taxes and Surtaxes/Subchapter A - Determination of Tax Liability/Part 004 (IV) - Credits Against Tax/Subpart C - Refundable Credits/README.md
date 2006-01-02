@@ -17,9 +17,7 @@ Subpart C—Refundable Credits
 
 1984—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart C heading and analysis of sections for subpart C consisting of items 31, 32 (formerly 43), 33 (formerly 32), 34 (formerly 39), and 35 (formerly 45). Former subpart C, setting out the rules for computing credit for expenses of work incentive programs, was repealed.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 24, 1397E, 6096, 6401, 6428 of this title.
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

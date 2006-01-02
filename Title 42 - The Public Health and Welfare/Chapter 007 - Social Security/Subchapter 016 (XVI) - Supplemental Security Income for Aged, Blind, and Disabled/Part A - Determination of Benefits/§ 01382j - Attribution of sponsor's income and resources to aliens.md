@@ -12,7 +12,7 @@ For purposes of determining eligibility for and the amount of benefits under thi
 
 &emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the maximum amount of the Federal benefit under this subchapter for such year which would be payable to an eligible individual who has no other income and who does not have an eligible spouse (as determined under section 1382(b)(1) of this title), plus (ii) one-half of the amount determined under clause (i) multiplied by the number of individuals who are dependents of such sponsor (or such sponsor's spouse if such spouse is living with the sponsor), other than such alien and such alien's spouse.
 
-&emsp;(C) The amount of income which shall be deemed to be unearned income of such alien shall be at a yearly rate equal to the amount determined under subparagraph (B). The period for determination of such amount shall be the same as the period for determination of benefits under section 1382(c) of this title.
+&emsp;(C) The amount of income which shall be deemed to be unearned income of such alien shall be at a yearly rate equal to the amount determined under subparagraph (B). The period for determination of such amount shall bethe same as the period for determination of benefits under section 1382(c) of this title.
 
 (2) The amount of resources of a sponsor (and his spouse) which shall be deemed to be the resources of an alien for any year shall be determined as follows:
 
@@ -34,7 +34,7 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 #### (e) Joint and several liability of alien and sponsor for overpayments
 
-Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien's entry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to whichsuch alien or such sponsor is entitled under any provision of this chapter.
+Any sponsor of an alien, and such alien, shall be jointly and severally liable for an amount equal to any overpayment made to such alien during the period of 3 years after such alien's entry into the United States, on account of such sponsor's failure to provide correct information under the provisions of this section, except where such sponsor was without fault, or where good cause for such failure existed. Any such overpayment which is not repaid to the Commissioner of Social Security or recovered in accordance with section 1383(b) of this title shall be withheld from any subsequent payment to which such alien or such sponsor is entitled under any provision of this chapter.
 
 #### (f) Exemptions
 

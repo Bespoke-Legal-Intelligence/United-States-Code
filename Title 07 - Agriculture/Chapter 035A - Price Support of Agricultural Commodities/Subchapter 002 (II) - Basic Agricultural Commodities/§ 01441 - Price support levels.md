@@ -218,7 +218,7 @@ Section 603 of Pub. L. 97–98 required Secretary of Agriculture to submit a rep
 
 #### Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice
 
-Term “payments” as used in subsec. (g)(13) of this section shall not include any part of any paymentwhich is determined by the Secretary of Agriculture to represent compensation for disaster loss with respect to 1977 crops of wheat, feed grains, upland cotton, and rice, see Pub. L. 95–156, set out as a note under section 1307 of this title.
+Term “payments” as used in subsec. (g)(13) of this section shall not include any part of any payment which is determined by the Secretary of Agriculture to represent compensation for disaster loss with respect to 1977 crops of wheat, feed grains, upland cotton, and rice, see Pub. L. 95–156, set out as a note under section 1307 of this title.
 
 #### 1963 Wheat Crop
 

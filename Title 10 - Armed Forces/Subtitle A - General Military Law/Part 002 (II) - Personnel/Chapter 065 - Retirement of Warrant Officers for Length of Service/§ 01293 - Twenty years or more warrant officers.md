@@ -72,9 +72,9 @@ to 20
 
 Years of Service.—(1) During the active force drawdown period, the Secretary of the Army may—
 
-&emsp;“(A) apply the provisions of section 3911 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 yearsof service by substituting ‘at least 15 years’ for ‘at least 20 years’ in subsection (a) of that section;
+&emsp;“(A) apply the provisions of section 3911 of title 10, United States Code, to a regular or reserve commissioned officer with at least 15 but less than 20 years of service by substituting ‘at least 15 years’ for ‘at least 20 years’ in subsection (a) of that section;
 
-&emsp;“(B) apply the provisions of section 3914 of such title to an enlisted member with at least 15 but less than 20 years of service by substituting ‘at least 15’ for ‘at least 20’; and
+&emsp;“(B) apply the provisions of section 3914 of such title to an enlisted member with at least 15 but lessthan 20 years of service by substituting ‘at least 15’ for ‘at least 20’; and
 
 &emsp;“(C) apply the provisions of section 1293 of such title to a warrant officer with at least 15 but less than 20 years of service by substituting ‘at least 15 years’ for ‘at least 20 years’.
 
@@ -139,8 +139,4 @@ Members Receiving SSB or VSI.—The Secretary of a military department may retir
 Active Force Drawdown Period.—For purposes of this section, the active force drawdown period is the period beginning on the date of the enactment of this Act and ending on September 1, 2002.”
 
 \[Pub. L. 107–314, div. A, title V, §554, Dec. 2, 2002, 116 Stat. 2553, provided that the amendment made by that section to section 4403 of Pub. L. 102–484, set out above, is effective Jan. 1, 2002.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 580, 688, 1401, 1406 of this title; title 14 section 334.
 

@@ -80,7 +80,7 @@ In determining whether to enter into an agreement under this section, the Presid
 
 (1) The Corporation shall make available to the President such eligible commodities determined to be available under section 401 of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1731\] as the President may request for purposes of furnishing eligible commodities under this section.
 
-(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1701 et seq.\] in carrying out this sectionwith respect to eligible commodities made available under that Act \[7 U.S.C. 1691\], and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
+(2) Notwithstanding any other provision of law, the Corporation may use funds appropriated to carry out title I of the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1701 et seq.\] in carrying out this section with respect to eligible commodities made available under that Act \[7 U.S.C. 1691\], and subsection (g) of this section does not apply to eligible commodities furnished on a grant basis or on credit terms under that title.
 
 (3) The Corporation may finance the sale and exportation of eligible commodities, made available under the Agricultural Trade Development and Assistance Act of 1954 \[7 U.S.C. 1691 et seq.\], which are furnished under this section. Payment for eligible commodities made available under that Act which are purchased on credit terms under this section shall be on the same basis as the terms provided in section 103 of that Act \[7 U.S.C. 1703\].
 
@@ -302,7 +302,7 @@ Subsec. (e)(4). Pub. L. 104–127, §227(2), substituted “section 406” for �
 
 Subsec. (f)(1)(B). Pub. L. 104–127, §227(3)(A), struck out “in the case of the independent states of the former Soviet Union,” before “sales on credit terms,”.
 
-Subsec. (f)(2) to (5). Pub. L. 104–127, §227(3)(B)–(D), in par. (4), inserted “for each of fiscal years 1996 through 2002” after “may be used”, redesignated pars. (3) to (5)as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not less than 75,000 metric tons shall be made available pursuant to section 1431(b)(10)(C) of this title to carry out this section unless the President determines there are an insufficient number of eligible recipients.”
+Subsec. (f)(2) to (5). Pub. L. 104–127, §227(3)(B)–(D), in par. (4), inserted “for each of fiscal years 1996 through 2002” after “may be used”, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not less than 75,000 metric tons shall be made available pursuant to section 1431(b)(10)(C) of this title to carry out this section unless the President determines there are an insufficient number of eligible recipients.”
 
 Subsec. (g). Pub. L. 104–127, §227(4), substituted “2002” for “1995”.
 

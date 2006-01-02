@@ -56,7 +56,7 @@
 
 &emsp;(9) who is described in section 5102(c)(11) of this title; or
 
-&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by orunder a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
+&emsp;(10) who holds a position within the Veterans Health Administration which has been excluded from the competitive service by or under a provision of title 38, unless such employee was appointed to such position under section 7401(3) of such title.
 
 (c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 

@@ -48,13 +48,9 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the owner, tenant, or operator of such farm shall be treated as the user and ultimate purchaser of the gasoline, except that
 
-&emsp;&emsp;(B) if—
+&emsp;&emsp;(B) if the person so using the gasoline is an aerial or other applicator of fertilizers orother substances and is the ultimate purchaser of the gasoline, then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes.
 
-&emsp;&emsp;&emsp;(i) the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, and
-
-&emsp;&emsp;&emsp;(ii) the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated as the user and ultimate purchaser of the gasoline,
-
-> &emsp;&emsp;then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes.
+> &emsp;In the case of an aerial applicator, gasoline shall be treated as used on a farm for farming purposes if the gasoline is used for the direct flight between the airfield and one or more farms.
 
 #### (5) Gasoline
 
@@ -108,7 +104,7 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;&emsp;<b>(4) For treatment of an Indian tribal government as a State and </b><b><sup>1</sup></b> a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
 
-(Added Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; amended Pub. L. 85–859, title I, §163(d)(2), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VIII, §809(a), June 21, 1965, 79 Stat. 165; Pub. L. 91–258, title II, §§205(c)(7), 207(b), May 21, 1970, 84 Stat. 242, 248; Pub. L. 94–455, title XIX, §§1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, 90 Stat. 1827, 1833, 1834; Pub. L. 95–458, §3(a), (c), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 97–424, title V, §§511(f), 516(b)(4), Jan. 6, 1983, 96 Stat. 2172, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(1), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–17, title V, §502(b)(6), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(5), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(5), 13242(d)(20), Aug. 10, 1993, 107 Stat. 512, 524.)
+(Added Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; amended Pub. L. 85–859, title I, §163(d)(2), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VIII, §809(a), June 21, 1965, 79 Stat. 165; Pub. L. 91–258, title II, §§205(c)(7), 207(b), May 21, 1970, 84 Stat. 242, 248; Pub. L. 94–455, title XIX, §§1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, 90 Stat. 1827, 1833, 1834; Pub. L. 95–458, §3(a), (c), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 97–424, title V, §§511(f), 516(b)(4), Jan. 6, 1983, 96 Stat. 2172, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(1), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–17, title V, §502(b)(6), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(5), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(5), 13242(d)(20), Aug. 10, 1993, 107 Stat. 512, 524; Pub. L. 109–59, title XI, §11121(a), (b), Aug. 10, 2005, 119 Stat. 1951.)
 
 #### Prior Provisions
 
@@ -116,9 +112,19 @@ A prior section 6420 was renumbered section 6422 of this title.
 
 #### Amendments
 
+2005—Subsec. (c)(4). Pub. L. 109–59, §11121(b), inserted concluding provisions.
+
+Subsec. (c)(4)(B). Pub. L. 109–59, §11121(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if—
+
+&emsp;“(i) the person so using the gasoline is an aerial or other applicator of fertilizers or other substances and is the ultimate purchaser of the gasoline, and
+
+&emsp;“(ii) the person described in subparagraph (A) waives (at such time and in such form and manner as the Secretary shall prescribe) his right to be treated as the user and ultimate purchaser of the gasoline,
+
+> then subparagraph (A) of this paragraph shall not apply and the aerial or other applicator shall be treated as having used such gasoline on a farm for farming purposes.”
+
 1993—Subsec. (c)(5). Pub. L. 103–66, §13242(d)(20), substituted “section 4083(a)” for “section 4082(b)”.
 
-Subsec. (h). Pub. L. 103–66, §13241(f)(5), struck out heading and text of subsec. (h). Text read as follows: “Except with respect to taxes imposed by section 4081 at the Leaking Underground Storage Tank Trust Fund financing rate, this section shall apply only with respect to gasoline purchased before October 1, 1999.”
+Subsec. (h). Pub. L. 103–66, §13241(f)(5), struck out heading and text of subsec. (h). Text read as follows: “Except with respect to taxes imposed by section 4081at the Leaking Underground Storage Tank Trust Fund financing rate, this section shall apply only with respect to gasoline purchased before October 1, 1999.”
 
 1991—Subsec. (h). Pub. L. 102–240 substituted “1999” for “1995”.
 
@@ -176,6 +182,10 @@ Subsecs. (h), (i). Pub. L. 89–44, §809(a)(1)(B), added subsec. (h) and redesi
 
 1958—Subsec. (c)(3)(A). Pub. L. 85–859 substituted “section 6416(b)(2)(G)(ii)” for “section 6416(b)(2)(C)(ii)” in two places in cl. (A).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 applicable to fuel use or air transportation after Sept. 30, 2005, see section 11121(d) of Pub. L. 109–59, set out as a note under section 4261 of this title.
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13241(f)(5) of Pub. L. 103–66 effective Oct. 1, 1993, see section 13241(g) of Pub. L. 103–66, set out as a note under section 4041 of this title.
@@ -217,10 +227,6 @@ Section 809(f) of Pub. L. 89–44 provided that: “The amendments made by subse
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, set out as a note under section 6415 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 34, 147, 451, 1274, 4041, 4084, 6206, 6416, 6421, 6427, 6504, 6511, 6612, 6675, 7210, 7603, 7604, 7605, 7609, 7610, 9502, 9503, 9508 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(and”.</i>
 

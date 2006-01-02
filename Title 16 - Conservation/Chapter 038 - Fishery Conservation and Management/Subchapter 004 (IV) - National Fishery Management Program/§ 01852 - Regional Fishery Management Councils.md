@@ -22,7 +22,7 @@
 
 #### (E) Gulf Council
 
-&emsp;The Gulf of Mexico Fishery Management Council shall consist of the States of Texas,Louisiana, Mississippi, Alabama, and Florida and shall have authority over the fisheries in the Gulf of Mexico seaward of such States (except as provided in paragraph (3)). The Gulf Council shall have 17 voting members, including 11 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
+&emsp;The Gulf of Mexico Fishery Management Council shall consist of the States of Texas, Louisiana, Mississippi, Alabama, and Florida and shall have authority over the fisheries in the Gulf of Mexico seaward of such States (except as provided in paragraph (3)). The Gulf Council shall have 17 voting members, including 11 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).
 
 #### (F) Pacific Council
 
@@ -60,7 +60,7 @@
 
 &emsp;(iii) state the Secretary's plans and schedule for actions to achieve a fair and balanced apportionment on the Council for the active participants in any such fishery.
 
-(C) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has determined that each such individual is qualified under the requirements of subparagraph (A) and unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the State regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals foreach applicable vacancy and shall be accompanied by a statement by the Governor explaining how each such individual meets the requirements of subparagraph (A). The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of such requirements. If the Secretary determines that any individual is not qualified, the Secretary shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k) <sup>2</sup> of this section.
+(C) The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has determined that each such individual is qualified under the requirements of subparagraph (A) and unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the State regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy and shall be accompanied by a statement by the Governor explaining how each such individual meets the requirements of subparagraph (A). The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of such requirements. If the Secretary determines that any individual is not qualified, the Secretary shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k) <sup>2</sup> of this section.
 
 (D) Whenever the Secretary makes an appointment to a Council, the Secretary shall make a public announcement of such appointment not less than 45 days before the first day on which the individual is to take office as a member of the Council.
 
@@ -80,7 +80,7 @@
 
 (C) A vacancy occurring prior to the expiration of any term shall be filled in the same manner as set out in subparagraphs (A) and (B), except that the Secretary may use the list from which the vacating representative was chosen.
 
-(6) The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with paragraphs <sup>4</sup> (2) or (5) if—
+(6) The Secretary may remove for cause any member of a Council required to be appointed bythe Secretary in accordance with paragraphs <sup>4</sup> (2) or (5) if—
 
 &emsp;(A) the Council concerned first recommends removal by not less than two-thirds of the members who are voting members and submits such removal recommendation to the Secretary in writing together with a statement of the basis for the recommendation; or
 
@@ -204,7 +204,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 (B) If any meeting or portion is closed, the Council concerned shall notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports), including in that notification the time and place of the meeting. This subpararaph <sup>6</sup> does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
 
-(4) Each Council shall establish appropriate procedures applicable to it and to its committee and advisory panels for ensuring the confidentiality of the statistics that may be submitted to it by Federal or State authorities, and may be voluntarily submitted to it by private persons; including, but not limited to, procedures for the restriction of Council employee accessand the prevention of conflicts of interest; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1881a(b) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics.
+(4) Each Council shall establish appropriate procedures applicable to it and to its committee and advisory panels for ensuring the confidentiality of the statistics that may be submitted to it by Federal or State authorities, and may be voluntarily submitted to it by private persons; including, but not limited to, procedures for the restriction of Council employee access and the prevention of conflicts of interest; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1881a(b) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics.
 
 (5) Each Council shall specify those procedures that are necessary or appropriate to ensure that the committees and advisory panels established under subsection (g) of this section are involved, on a continuing basis, in the development and amendment of fishery management plans.
 
@@ -242,7 +242,7 @@ Each Council shall, in accordance with the provisions of this chapter—
 
 &emsp;(B) in the case of an affected individual referred to in paragraph (1)(A)(ii), within 45 days of taking office.
 
-(4) An affected individual referred to in paragraph (1)(A)(ii) must update his or her disclosure form at any time any such financial interest is acquired, or substantially changed, by any person referred to in paragraph (2)(A), (B), or (C).
+(4) An affected individual referred to in paragraph (1)(A)(ii) must update his or her disclosure form at any time any such financial interest isacquired, or substantially changed, by any person referred to in paragraph (2)(A), (B), or (C).
 
 (5) The financial interest disclosures required by this subsection shall—
 
@@ -370,7 +370,7 @@ Subsec. (b)(2). Pub. L. 101–627, §108(b), amended par. (2) generally. Prior t
 
 “(C) Whenever the Secretary makes an appointment to a Council, he shall make a public announcement of such appointment not less than 45 days before the first day on which the individual is to take office as a member of the Council.”
 
-Subsec. (b)(3). Pub. L. 101–627, §108(c), inserted at end “No member appointed after January 1, 1986, may serve more than three consecutive terms. Any term completed prior to January 1, 1986, shall not be counted in determining the number of consecutive terms served by any Council member.”
+Subsec. (b)(3). Pub. L. 101–627, §108(c), inserted at end “No member appointed after January 1, 1986, may servemore than three consecutive terms. Any term completed prior to January 1, 1986, shall not be counted in determining the number of consecutive terms served by any Council member.”
 
 Subsec. (d). Pub. L. 101–627, §108(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The voting members of each Council, who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–18 of the General Schedule when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members may be reimbursed for actual expenses.”
 

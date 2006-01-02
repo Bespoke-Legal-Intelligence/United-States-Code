@@ -18,7 +18,7 @@ The capital stock of the Facility—
 
 #### (c) Redemption of stock
 
-When circumstances require that all or a portion of a member's stock be redeemed by the Facility, the Board shall pay an amount equal to what the member originally paid for the stock less any amount owed by the member to the Facility.
+When circumstances require that all or a portion of a member's stock be redeemed by the Facility, the Board shall pay an amount equal to what the member originally paid for the stockless any amount owed by the member to the Facility.
 
 #### (d) Use of subscription amount
 

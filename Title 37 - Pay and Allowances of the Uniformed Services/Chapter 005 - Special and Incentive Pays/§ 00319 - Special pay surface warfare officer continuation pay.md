@@ -2,7 +2,7 @@
 
 (a)
 
-Eligible Surface Warfare Officer Defined.—In this section, the term “eligible surface warfare officer” means an officer of the Regular Navy or Naval Reserve on active duty who—
+Eligible Surface Warfare Officer Defined.—In this section, the term “eligible surface warfare officer” means an officer of the Regular Navy or Navy Reserve on active duty who—
 
 &emsp;(1) is qualified and serving as a surface warfare officer;
 
@@ -28,23 +28,27 @@ Additional Pay.—Any amount paid under this section is in addition to any other
 
 (f)
 
-Repayment.—(1) If an officer who has entered into a written agreement under subsection (b) and has received all or part of the amount payable under the agreement fails to complete the total period of active duty as a department head on a surface vessel specified in the agreement, the Secretary of the Navy may require the officer to repay the United States, to the extent that the Secretary of the Navy determines conditions and circumstances warrant, any or all sums paid under this section.
-
-(2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (b) does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1).
+Repayment.—An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty as a department head on a surface vessel as specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (g)
 
 Regulations.—The Secretary of the Navy shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VI, §627(a)(1), Oct. 5, 1999, 113 Stat. 656; amended Pub. L. 107–107, div. A, title VI, §616(b), Dec. 28, 2001, 115 Stat. 1137.)
+(Added Pub. L. 106–65, div. A, title VI, §627(a)(1), Oct. 5, 1999, 113 Stat. 656; amended Pub. L. 107–107, div. A, title VI, §616(b), Dec. 28, 2001, 115 Stat. 1137; Pub. L. 109–163, div. A, title V, §515(d)(1)(E), title VI, §687(b)(28), Jan. 6, 2006, 119 Stat. 3236, 3332.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163, §515(d)(1)(E), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+
+Subsec. (f). Pub. L. 109–163, §687(b)(28), amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when officer receives bonus but fails to complete total period of agreed upon active duty as department head on surface vessel.
 
 2001—Subsec. (a)(3). Pub. L. 107–107 inserted “or is within one year of completing such commitment” before period at end.
 
 #### Effective Date
 
 Pub. L. 106–65, div. A, title VI, §627(b), Oct. 5, 1999, 113 Stat. 657, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

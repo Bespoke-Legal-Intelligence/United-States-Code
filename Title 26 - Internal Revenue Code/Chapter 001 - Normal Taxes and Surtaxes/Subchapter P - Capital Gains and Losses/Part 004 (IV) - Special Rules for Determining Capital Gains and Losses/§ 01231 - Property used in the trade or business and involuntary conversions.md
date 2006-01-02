@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(ii) any capital asset which is held for more than 1 year and is held in connection with a trade or business or a transaction entered into for profit,
 
-> &emsp;&emsp;this subsection shall not apply to such conversion (whether resulting in gain or loss) ifduring the taxable year the recognized losses from such conversions exceed the recognized gains from such conversions.
+> &emsp;&emsp;this subsection shall not apply to such conversion (whether resulting in gain or loss) if during the taxable year the recognized losses from such conversions exceed the recognized gains from such conversions.
 
 #### (b) Definition of property used in the trade or business
 
@@ -144,11 +144,11 @@ For purposes of this section—
 
 1984—Subsec. (a). Pub. L. 98–369, §1001(b)(15), (e), substituted “6 months” for “1 year” wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gains and losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
+Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituting pars. (1) to (4), for “If, during the taxable year, the recognized gains on sales or exchanges of property used in the trade or business, plus the recognized gains from the compulsory or involuntary conversion (as a result of destruction in whole or in part, theft or seizure, or an exercise of the power of requisition or condemnation or the threat or imminence thereof) of property used in the trade or business and capital assets held for more than 1 year into other property or money, exceed the recognized losses from such sales, exchanges, and conversions, such gains and losses shall be considered as gains and losses from sales or exchanges of capital assets held for more than 1 year. If such gains do not exceed such losses, such gainsand losses shall not be considered as gains and losses from sales or exchanges of capital assets. For purposes of this subsection—
 
 &emsp;“(1) in determining under this subsection whether gains exceed losses, the gains described therein shall be included only if and to the extent taken into account in computing gross income and the losses described therein shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply; and
 
-&emsp;“(2) losses (including losses not compensated for by insurance or otherwise) upon the destruction, inwhole or in part, theft or seizure, or requisition or condemnation of (A) property used in the trade or business or (B) capital assets held for more than 1 year shall be considered losses from a compulsory or involuntary conversion.
+&emsp;“(2) losses (including losses not compensated for by insurance or otherwise) upon the destruction, in whole or in part, theft or seizure, or requisition or condemnation of (A) property used in the trade or business or (B) capital assets held for more than 1 year shall be considered losses from a compulsory or involuntary conversion.
 
 > In the case of any involuntary conversion (subject to the provisions of this subsection but for this sentence) arising from fire, storm, shipwreck, or other casualty, or from theft, of any property used in the trade or business or of any capital asset held for more than 1 year, this subsection shall not apply to such conversion (whether resulting in gain or loss) if during the taxable year the recognized losses from such conversions exceed the recognized gains from such conversions.”
 
@@ -215,8 +215,4 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 #### Effective Date of 1958 Amendment
 
 Section 49(b) of Pub. L. 85–866 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1957.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 64, 118, 170, 268, 272, 451, 543, 702, 724, 735, 751, 755, 818, 904, 1223, 1400B, 1400F, 1503, 7704 of this title.
 

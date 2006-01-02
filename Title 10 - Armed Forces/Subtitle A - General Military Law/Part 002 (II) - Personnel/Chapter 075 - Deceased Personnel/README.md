@@ -11,10 +11,6 @@
 
 1999—Pub. L. 106–65, div. A, title VII, §721(a), Oct. 5, 1999, 113 Stat. 692, substituted “DECEASED PERSONNEL” for “DEATH BENEFITS” as chapter heading and added subchapter analysis.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 26 section 134; title 42 section 213a.
-
 
 ---
 

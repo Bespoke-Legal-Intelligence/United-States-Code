@@ -45,6 +45,7 @@
 | [2207\.](%C2%A7%2002207%20-%20Reports.md) | Reports. |
 | [2207a.](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md) | Reports to Congress on obligation and expenditure. |
 | [2208\.](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md) | Expenditure of appropriations; accounting. |
+| [2208a.](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md) | Loan levels provided to Department of Agriculture. |
 | [2209\.](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md) | Additional statement of expenditures. |
 | [2209a.](%C2%A7%2002209a%20-%20Advances%20to%20chiefs%20of%20field%20parties.md) | Advances to chiefs of field parties. |
 | [2209b.](%C2%A7%2002209b%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
@@ -52,6 +53,9 @@
 | [2209d.](%C2%A7%2002209d%20-%20Statement%20of%20percentage%20and%20dollar%20amount%20of%20Federal%20funding.md) | Statement of percentage and dollar amount of Federal funding. |
 | [2209e.](%C2%A7%2002209e%20-%20Prohibition%20on%20payments%20to%20parties%20involved%20with%20prohibited%20drug-producing%20plants.md) | Prohibition on payments to parties involved with prohibited drug-producing plants. |
 | [2209f.](%C2%A7%2002209f%20-%20Restriction%20on%20commodity%20purchase%20program%20payments.md) | Restriction on commodity purchase program payments. |
+| [2209g.](%C2%A7%2002209g%20-%20Availability%20of%20funds%20for%20uniforms%20or%20allowances.md) | Availability of funds for uniforms or allowances. |
+| [2209h.](%C2%A7%2002209h%20-%20Reimbursement%20of%20Office%20of%20the%20General%20Counsel.md) | Reimbursement of Office of the General Counsel. |
+| [2209i.](%C2%A7%2002209i%20-%20Funding%20for%20preparation%20of%20final%20agency%20decisions%20regarding%20discrimination%20complaints.md) | Funding for preparation of final agency decisions regarding discrimination complaints. |
 | [2210\.](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md) | Deputy Secretary of Agriculture; appointment. |
 | [2211\.](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md) | Powers and duties of Deputy Secretary of Agriculture. |
 | 2211a to 2213. Omitted or Repealed. |  |
@@ -74,6 +78,7 @@
 | [2225a.](%C2%A7%2002225a%20-%20Contracts%20for%20consulting%20services.md) | Contracts for consulting services. |
 | [2225b.](%C2%A7%2002225b%20-%20Personal%20service%20contracts%20for%20veterinarians.md) | Personal service contracts for veterinarians. |
 | [2225c.](%C2%A7%2002225c%20-%20Employment%20contracts%20for%20services%20abroad.md) | Employment contracts for services abroad. |
+| [2225d.](%C2%A7%2002225d%20-%20Availability%20of%20Department%20of%20Agriculture%20funds%20for%20temporary%20employment.md) | Availability of Department of Agriculture funds for temporary employment. |
 | [2226\.](%C2%A7%2002226%20-%20Employment%20of%20persons%20for%20forest%20fire%20fighting%2C%20pest%20control%2C%20and%20handling%20of%20animals.md) | Employment of persons for forest fire fighting, pest control, and handling of animals. |
 | [2227\.](%C2%A7%2002227%20-%20Traveling%20expenses.md) | Traveling expenses. |
 | [2228\.](%C2%A7%2002228%20-%20Emergency%20subsistence%20for%20employees.md) | Emergency subsistence for employees. |
@@ -206,6 +211,7 @@
 | (e) | Procedures. |
 | (f) | Scope of subpoena. |
 | [2279g.](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md) | Marketing services; cooperative agreements. |
+| [2279h.](%C2%A7%2002279h%20-%20Cross-servicing%20activities%20of%20National%20Finance%20Center.md) | Cross-servicing activities of National Finance Center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -232,6 +238,7 @@
 - [&sect; 02207 - Reports](%C2%A7%2002207%20-%20Reports.md)
 - [&sect; 02207a - Reports to Congress on obligation and expenditure](%C2%A7%2002207a%20-%20Reports%20to%20Congress%20on%20obligation%20and%20expenditure.md)
 - [&sect; 02208 - Expenditure of appropriations; accounting](%C2%A7%2002208%20-%20Expenditure%20of%20appropriations%3B%20accounting.md)
+- [&sect; 02208a - Loan levels provided to Department of Agriculture](%C2%A7%2002208a%20-%20Loan%20levels%20provided%20to%20Department%20of%20Agriculture.md)
 - [&sect; 02209 - Additional statement of expenditures](%C2%A7%2002209%20-%20Additional%20statement%20of%20expenditures.md)
 - [&sect; 02209a - Advances to chiefs of field parties](%C2%A7%2002209a%20-%20Advances%20to%20chiefs%20of%20field%20parties.md)
 - [&sect; 02209b - Availability of appropriations](%C2%A7%2002209b%20-%20Availability%20of%20appropriations.md)
@@ -239,6 +246,9 @@
 - [&sect; 02209d - Statement of percentage and dollar amount of Federal funding](%C2%A7%2002209d%20-%20Statement%20of%20percentage%20and%20dollar%20amount%20of%20Federal%20funding.md)
 - [&sect; 02209e - Prohibition on payments to parties involved with prohibited drug-producing plants](%C2%A7%2002209e%20-%20Prohibition%20on%20payments%20to%20parties%20involved%20with%20prohibited%20drug-producing%20plants.md)
 - [&sect; 02209f - Restriction on commodity purchase program payments](%C2%A7%2002209f%20-%20Restriction%20on%20commodity%20purchase%20program%20payments.md)
+- [&sect; 02209g - Availability of funds for uniforms or allowances](%C2%A7%2002209g%20-%20Availability%20of%20funds%20for%20uniforms%20or%20allowances.md)
+- [&sect; 02209h - Reimbursement of Office of the General Counsel](%C2%A7%2002209h%20-%20Reimbursement%20of%20Office%20of%20the%20General%20Counsel.md)
+- [&sect; 02209i - Funding for preparation of final agency decisions regarding discrimination complaints](%C2%A7%2002209i%20-%20Funding%20for%20preparation%20of%20final%20agency%20decisions%20regarding%20discrimination%20complaints.md)
 - [&sect; 02210 - Deputy Secretary of Agriculture; appointment](%C2%A7%2002210%20-%20Deputy%20Secretary%20of%20Agriculture%3B%20appointment.md)
 - [&sect; 02211 - Powers and duties of Deputy Secretary of Agriculture](%C2%A7%2002211%20-%20Powers%20and%20duties%20of%20Deputy%20Secretary%20of%20Agriculture.md)
 - [&sect; 02211a - Omitted](%C2%A7%2002211a%20-%20Omitted.md)
@@ -261,6 +271,7 @@
 - [&sect; 02225a - Contracts for consulting services](%C2%A7%2002225a%20-%20Contracts%20for%20consulting%20services.md)
 - [&sect; 02225b - Personal service contracts for veterinarians](%C2%A7%2002225b%20-%20Personal%20service%20contracts%20for%20veterinarians.md)
 - [&sect; 02225c - Employment contracts for services abroad](%C2%A7%2002225c%20-%20Employment%20contracts%20for%20services%20abroad.md)
+- [&sect; 02225d - Availability of Department of Agriculture funds for temporary employment](%C2%A7%2002225d%20-%20Availability%20of%20Department%20of%20Agriculture%20funds%20for%20temporary%20employment.md)
 - [&sect; 02226 - Employment of persons for forest fire fighting, pest control, and handling of animals](%C2%A7%2002226%20-%20Employment%20of%20persons%20for%20forest%20fire%20fighting%2C%20pest%20control%2C%20and%20handling%20of%20animals.md)
 - [&sect; 02227 - Traveling expenses](%C2%A7%2002227%20-%20Traveling%20expenses.md)
 - [&sect; 02228 - Emergency subsistence for employees](%C2%A7%2002228%20-%20Emergency%20subsistence%20for%20employees.md)
@@ -337,3 +348,4 @@
 - [&sect; 02279e - Civil penalty](%C2%A7%2002279e%20-%20Civil%20penalty.md)
 - [&sect; 02279f - Subpoena authority](%C2%A7%2002279f%20-%20Subpoena%20authority.md)
 - [&sect; 02279g - Marketing services; cooperative agreements](%C2%A7%2002279g%20-%20Marketing%20services%3B%20cooperative%20agreements.md)
+- [&sect; 02279h - Cross-servicing activities of National Finance Center](%C2%A7%2002279h%20-%20Cross-servicing%20activities%20of%20National%20Finance%20Center.md)

@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator may make grants to States and local governments to develop andimplement programs for monitoring and notification for coastal recreation waters adjacent to beaches or similar points of access that are used by the public.
+&emsp;The Administrator may make grants to States and local governments to develop and implement programs for monitoring and notification for coastal recreation waters adjacent to beaches or similar points of access that are used by the public.
 
 #### (2) Limitations
 
@@ -94,7 +94,7 @@ As a condition of receipt of a grant under subsection (b) of this section, a Sta
 
 &emsp;&emsp;(A) the Administrator, in such form as the Administrator determines to be appropriate; and
 
-&emsp;&emsp;(B) a designated official of a local government having jurisdiction over land adjoiningthe coastal recreation waters for which the failure to meet applicable standards is identified;
+&emsp;&emsp;(B) a designated official of a local government having jurisdiction over land adjoining the coastal recreation waters for which the failure to meet applicable standards is identified;
 
 &emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measures that are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
 

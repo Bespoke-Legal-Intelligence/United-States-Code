@@ -114,7 +114,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 &emsp;&emsp;(D) was in existence as a colonia before November 28, 1990.
 
-(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat.1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title V, §506(a), Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
+(July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title V, §506(a), Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
 
 #### References in Text
 

@@ -18,7 +18,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (A) In general
 
-&emsp;&emsp;Any servicer that has established an escrow account in connection with a federallyrelated mortgage loan shall submit to the borrower for which the escrow account has been established a statement clearly itemizing the estimated taxes, insurance premiums, and other charges that are reasonably anticipated to be paid from the escrow account during the first 12 months after the establishment of the account and the anticipated dates of such payments.
+&emsp;&emsp;Any servicer that has established an escrow account in connection with a federally related mortgage loan shall submit to the borrower for which the escrow account has been established a statement clearly itemizing the estimated taxes, insurance premiums, and other charges that are reasonably anticipated to be paid from the escrow account during the first 12 months after the establishment of the account and the anticipated dates of such payments.
 
 #### (B) Time of submission
 

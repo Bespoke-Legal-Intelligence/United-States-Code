@@ -16,7 +16,7 @@ Functions of President respecting certain facilities constructed and maintained 
 
 #### Presidential Directive
 
-National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, set out as section 403 of Title 50, War and National Defense.
+National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense.
 
 #### Findings
 
@@ -56,7 +56,7 @@ Sense of congress.—It is the sense of Congress that the President—
 
 &emsp;&emsp;“(A) should seek to engage the leaders of the governments of other countries in a process of advancing beyond separate and uncoordinated national counterterrorism strategies to develop with those other governments a comprehensive multilateral strategy to fight terrorism; and
 
-&emsp;&emsp;“(B) to that end, should seek to establish an international counterterrorism policy contact group with the leaders of governments providing leadership in global counterterrorism efforts and governments of countries with sizable Muslim populations, to be used as a ready and flexible international means for discussing and coordinating the development of important counterterrorism policies by the participating governments.
+&emsp;&emsp;“(B) to that end, should seek to establish an international counterterrorism policy contact group with the leaders of governments providing leadership in global counterterrorism efforts andgovernments of countries with sizable Muslim populations, to be used as a ready and flexible international means for discussing and coordinating the development of important counterterrorism policies by the participating governments.
 
 &emsp;“(2)
 
@@ -64,7 +64,7 @@ Authority.—The President is authorized to establish an international counterte
 
 &emsp;&emsp;“(A) To meet annually, or more frequently as the President determines appropriate, to develop in common with such other governments important policies and a strategy that address the various components of international prosecution of the war on terrorism, including policies and a strategy that address military issues, law enforcement, the collection, analysis, and dissemination of intelligence, issues relating to interdiction of travel by terrorists, counterterrorism-related customs issues, financial issues, and issues relating to terrorist sanctuaries.
 
-&emsp;&emsp;“(B) To address, to the extent (if any) that the President and leaders of other participating governments determine appropriate, long-term issues thatcan contribute to strengthening stability and security in the Middle East.”
+&emsp;&emsp;“(B) To address, to the extent (if any) that the President and leaders of other participating governments determine appropriate, long-term issues that can contribute to strengthening stability and security in the Middle East.”
 
 #### International Agreements To Track and Curtail Terrorist Travel Through the Use of Fraudulently Obtained Documents
 
@@ -157,6 +157,8 @@ In general.—Not later than 1 year after the date of enactment of this Act \[De
 &emsp;“(2)
 
 Termination.—Paragraph (1) shall cease to be effective when the President certifies to the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate that the goals described in subsection (b) have been fully achieved.”
+
+\[Functions of President under subsec. (c) of section 7204 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.\]
 
 #### East Timor Transition to Independence
 
@@ -524,7 +526,7 @@ Information of the tribunal.—The Secretary of State shall request that the Tri
 
 &emsp;“(4)
 
-Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 6, 2000\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality, if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
+Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 6, 2000\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality,if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
 
 &emsp;“(5)
 
@@ -730,7 +732,7 @@ Pub. L. 100–204, title I, §109, Dec. 22, 1987, 101 Stat. 1339, provided that:
 
 #### Consular and Diplomatic Posts Abroad
 
-Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary ofState, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
+Pub. L. 100–204, title I, §122, Dec. 22, 1987, 101 Stat. 1339, prohibited use of appropriated funds for closing United States consular or diplomatic posts abroad, or for paying expenses related to Bureau of Administration of Department of State if a post was closed after Jan. 1, 1987, and not reopened, provided funding for certain consulates, provided exceptions for prohibition on use of appropriated funds, permitted Secretary of State, in case of a sequestration order, to submit a report proposing a list of consular posts to be downgraded or closed in order to comply with sequestration order, and provided that the prohibitions were to be effective 180 days after Dec. 22, 1987, prior to repeal by Pub. L. 102–138, title I, §112(b), Oct. 28, 1991, 105 Stat. 655. See section 2720 of this title.
 
 #### Closing of Diplomatic and Consular Posts in Antigua and Barbuda
 

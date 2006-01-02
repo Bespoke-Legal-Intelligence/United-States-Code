@@ -12,7 +12,7 @@ There is appropriated annually, out of funds in the Treasury not otherwise appro
 
 1994—Pub. L. 103–382 substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau” for “and the Trust Territory of the Pacific Islands or its successor governments”.
 
-1988—Pub. L. 100–339 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated annually for payment to the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) the amount they would receive under this subchapter if they were States. Sums appropriated under this section shall be treated in the same manner and be subject to the same provisions of law, as would be the case if they had been appropriated by section 322 of this title.”
+1988—Pub. L. 100–339 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated annually for payment to the Virgin Islands, American Samoa, Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands) the amount they would receive under this subchapter ifthey were States. Sums appropriated under this section shall be treated in the same manner and be subject to the same provisions of law, as would be the case if they had been appropriated by section 322 of this title.”
 
 1986—Pub. L. 99–396 substituted “Guam, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands (other than the Northern Mariana Islands)” for “and Micronesia, and Guam”.
 

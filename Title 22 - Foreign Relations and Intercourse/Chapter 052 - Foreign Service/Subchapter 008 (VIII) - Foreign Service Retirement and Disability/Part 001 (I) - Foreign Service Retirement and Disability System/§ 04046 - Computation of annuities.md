@@ -86,7 +86,7 @@
 
 #### (d) Recomputation for remaining children
 
-On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the participant. If the annuity to a surviving child whohas not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
+On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the participant. If the annuity to a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities to all currently eligible children in the family were then being initiated.
 
 #### (e) Payment period for child
 
@@ -112,7 +112,7 @@ A surviving spouse or surviving former spouse of any participant or former parti
 
 #### (j) Recomputation upon dissolution of marriage; election after remarriage
 
-An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if the marriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
+An annuity which is reduced under this section or any similar prior provision of law to provide a survivor benefit for a spouse shall, if themarriage of the participant to such spouse is dissolved, be recomputed and paid for each full month during which an annuitant is not married (or is remarried if there is no election in effect under the following sentence) as if the annuity had not been so reduced, subject to any reduction required to provide a survivor benefit under section 4054(b) or (c) of this title. Upon remarriage the retired participant may irrevocably elect, by means of a signed writing received by the Secretary within one year after such remarriage, to receive during such marriage a reduction in annuity for the purpose of allowing an annuity for the new spouse of the annuitant in the event such spouse survives the annuitant. Such reduction shall be equal to the reduction in effect immediately before the dissolution of the previous marriage (unless such reduction is adjusted under section 4054(b)(5) of this title), and shall be effective the first day of the first month beginning one year after the date of remarriage. A survivor annuity elected under this subsection shall be treated in all respects as a survivor annuity under subsection (b) of this section.
 
 #### (k) Informing of rights by Secretary
 
@@ -120,7 +120,7 @@ The Secretary of State shall, on an annual basis—
 
 &emsp;(1) inform each participant of his or her right of election under subsections (g) and (j) of this section; and
 
-&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participantsor former participants of their rights under this section and section 4054 of this title.
+&emsp;(2) to the maximum extent practicable, inform spouses or former spouses of participants or former participants of their rights under this section and section 4054 of this title.
 
 #### (<i>l</i>) Repealed. Pub. L. 100–238, title II, §217(c)(1), Jan. 8, 1988, 101 Stat. 1775
 
@@ -170,7 +170,7 @@ The retirement, disability, or survivor annuity payable to any person based on t
 
 #### Amendment of Section
 
-<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
+<i>Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note</i><i>under section 4067 of this title, provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under section 4056(a) of this title any period of civilian service for which retirement deductions or contributions have not been made under section 4045(d) of this title unless—</i>
 
 <i>(1) the participant makes a contribution for such period as provided in such section 4045(d) of this title; or</i>
 

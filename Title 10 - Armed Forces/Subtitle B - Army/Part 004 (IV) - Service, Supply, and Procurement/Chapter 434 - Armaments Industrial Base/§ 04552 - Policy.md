@@ -2,7 +2,7 @@
 
 It is the policy of the United States—
 
-&emsp;(1) to encourage, to the maximum extent practicable, commercial firms to use Government-owned, contractor-operated ammunition manufacturing facilities of the Department of the Army;
+&emsp;(1) to encourage, to the maximum extent practicable, commercial firms to use Government-owned, contractor-operated ammunition manufacturing, storage, maintenance, renovation, and demilitarization facilities of the Department of the Army;
 
 &emsp;(2) to use such facilities for supporting programs, projects, policies, and initiatives that promote competition in the private sector of the United States economy and that advance United States interests in the global marketplace;
 
@@ -16,9 +16,13 @@ It is the policy of the United States—
 
 &emsp;(7) to foster a more efficient, cost-effective, and adaptable armaments industry in the United States;
 
-&emsp;(8) to achieve, with respect to armaments manufacturing capacity, an optimum level of readiness of the national technology and industrial base within the United States that is consistent with the projected threats to the national security of the United States and the projected emergency requirements of the armed forces; and
+&emsp;(8) to achieve, with respect to armaments manufacturing, storage, maintenance, renovation, and demilitarization capacity, an optimum level of readiness of the national technology and industrial base within the United States that is consistent with the projected threats to the national security of the United States and the projected emergency requirements of the armed forces; and
 
 &emsp;(9) to encourage facility use contracting where feasible.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–67.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–67; amended Pub. L. 109–163, div. A, title III, §323(c), Jan. 6, 2006, 119 Stat. 3194.)
+
+#### Amendments
+
+2006—Pars. (1), (8). Pub. L. 109–163 inserted “, storage, maintenance, renovation, and demilitarization” after “manufacturing”.
 

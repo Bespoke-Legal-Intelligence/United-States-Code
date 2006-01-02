@@ -26,7 +26,7 @@ Executive Order No. 13224, referred to par. (3), is set out as a note under sect
 
 Executive Order No. 12978, referred to par. (4), is set out as a note under section 1701 of Title 50, War and National Defense.
 
-The Foreign Narcotics Kingpin Designation Act, referred to in par. (4), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, as amended, which is classified principally to chapter 24 (§1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
+The Foreign Narcotics Kingpin Designation Act, referred to in par. (4), is title VIII of Pub. L. 106–120, Dec.3, 1999, 113 Stat. 1626, as amended, which is classified principally to chapter 24 (§1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
 
 #### Codification
 

@@ -14,7 +14,7 @@
 
 #### (2) Preliminary applications
 
-&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for useby eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
+&emsp;In carrying out paragraph (1), the Secretary may develop a preliminary application for use by eligible institutions applying under part A of this subchapter prior to the submission of the principal application.
 
 #### (b) Contents
 
@@ -22,7 +22,7 @@ An institution, in its application for a grant, shall—
 
 &emsp;(1) set forth, or describe how the institution (other than an institution applying under part C, D or E of this subchapter) will develop, a comprehensive development plan to strengthen the institution's academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
 
-&emsp;(2) set forth policies and procedures to ensure that Federal funds made available under this subchapter for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purposes of section 1057(b) or 1062 of this title, and in no case supplant those funds;
+&emsp;(2) set forth policies and procedures to ensure that Federal funds made available under this subchapter for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purposes of section 1057(b) or1062 of this title, and in no case supplant those funds;
 
 &emsp;(3) set forth policies and procedures for evaluating the effectiveness in accomplishing the purpose of the activities for which a grant is sought under this subchapter;
 

@@ -20,7 +20,7 @@ If its container is so made, formed, or filled as to be misleading.
 
 #### (e) Package form
 
-If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; and (2) anaccurate statement of the quantity of the contents in terms of weight, measure, or numerical count, except that under clause (2) of this paragraph reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary.
+If in package form unless it bears a label containing (1) the name and place of business of the manufacturer, packer, or distributor; and (2) an accurate statement of the quantity of the contents in terms of weight, measure, or numerical count, except that under clause (2) of this paragraph reasonable variations shall be permitted, and exemptions as to small packages shall be established, by regulations prescribed by the Secretary.
 
 #### (f) Prominence of information on label
 
@@ -52,7 +52,7 @@ If it purports to be or is represented as—
 
 &emsp;&emsp;&emsp;(IV) is the subject of a notification to the Secretary, including effectiveness data regarding the process or treatment; and
 
-&emsp;&emsp;(ii) at least 120 days have passed after the date of receipt of such notification by the Secretary without the Secretary making a determination that the process or treatment involved has not been shown to meet the requirements of subclauses (I) through (III) of clause (i).
+&emsp;&emsp;(ii) at least 120 days have passed after the date of receipt of such notification by the Secretary without the Secretary making adetermination that the process or treatment involved has not been shown to meet the requirements of subclauses (I) through (III) of clause (i).
 
 > For purposes of paragraph (3), a determination by the Secretary that a process or treatment has not been shown to meet the requirements of subclauses (I) through (III) of subparagraph (B)(i) shall constitute final agency action under such subclauses.
 
@@ -108,7 +108,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 > The Secretary may by regulation require any information required to be placed on the label or labeling by this subparagraph or subparagraph (2)(A) to be highlighted on the label or labeling by larger type, bold type, or contrasting color if the Secretary determines that such highlighting will assist consumers in maintaining healthy dietary practices.
 
-(2)(A) If the Secretary determines that a nutrient other than a nutrient required by subparagraph (1)(C), (1)(D), or (1)(E) should be included in the label or labeling of food subject to subparagraph (1) for purposes of providing information regarding the nutritional value of such food that will assist consumers in maintaining healthy dietary practices, the Secretary may by regulation require that information relating to such additional nutrient be included in the label or labeling of such food.
+(2)(A) If the Secretary determines that a nutrient other than a nutrient required by subparagraph (1)(C), (1)(D), or (1)(E) should be included in the label or labeling of food subject to subparagraph (1) for purposes of providing information regarding the nutritional value of such food that will assist consumers in maintaininghealthy dietary practices, the Secretary may by regulation require that information relating to such additional nutrient be included in the label or labeling of such food.
 
 (B) If the Secretary determines that the information relating to a nutrient required by subparagraph (1)(C), (1)(D), or (1)(E) or clause (A) of this subparagraph to be included in the label or labeling of food is not necessary to assist consumers in maintaining healthy dietary practices, the Secretary may by regulation remove information relating to such nutrient from such requirement.
 
@@ -126,7 +126,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (ii) Upon the expiration of 12 months after November 8, 1990, the Secretary shall issue a final regulation defining the circumstances that constitute substantial compliance by food retailers with the guidelines issued under subclause (i). The regulation shall provide that there is not substantial compliance if a significant number of retailers have failed to comply with the guidelines. The size of the retailers and the portion of the market served by retailers in compliance with the guidelines shall be considered in determining whether the substantial-compliance standard has been met.
 
-(C)(i) Upon the expiration of 30 months after November 8, 1990, the Secretary shall issue a report on actions taken by food retailers to provide consumers with nutrition information for raw agricultural commodities and raw fish under the guidelines issued under clause (A). Such report shall include a determination ofwhether there is substantial compliance with the guidelines.
+(C)(i) Upon the expiration of 30 months after November 8, 1990, the Secretary shall issue a report on actions taken by food retailers to provide consumers with nutrition information for raw agricultural commodities and raw fish under the guidelines issued under clause (A). Such report shall include a determination of whether there is substantial compliance with the guidelines.
 
 (ii) If the Secretary finds that there is substantial compliance with the guidelines, the Secretary shall issue a report and make a determination of the type required in subclause (i) every two years.
 
@@ -214,7 +214,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 #### (r) Nutrition levels and health-related claims
 
-(1) Except as provided in clauses (A) through (C) of subparagraph (5), if it is a food intendedfor human consumption which is offered for sale and for which a claim is made in the label or labeling of the food which expressly or by implication—
+(1) Except as provided in clauses (A) through (C) of subparagraph (5), if it is a food intended for human consumption which is offered for sale and for which a claim is made in the label or labeling of the food which expressly or by implication—
 
 &emsp;(A) characterizes the level of any nutrient which is of the type required by paragraph (q)(1) or (q)(2) to be in the label or labeling of the food unless the claim is made in accordance with subparagraph (2), or
 
@@ -296,7 +296,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(i) a scientific body of the United States Government with official responsibility for public health protection or research directly relating to human nutrition (such as the National Institutes of Health or the Centers for Disease Control and Prevention) or the National Academy of Sciences or any of its subdivisions has published an authoritative statement, which is currently in effect, about the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
-&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information requiredby such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the relationship between a nutrient and a disease or health-related condition to which the claim refers;
+&emsp;(ii) a person has submitted to the Secretary, at least 120 days (during which the Secretary may notify any person who is making a claim as authorized by clause (C) that such person has not submitted all the information required by such clause) before the first introduction into interstate commerce of the food with a label containing the claim, (I) a notice of the claim, which shall include the exact words used in the claim and shall include a concise description of the basis upon which such person relied for determining that the requirements of subclause (i) have been satisfied, (II) a copy of the statement referred to in subclause (i) upon which such person relied in making the claim, and (III) a balanced representation of the scientific literature relating to the relationship between a nutrient and a disease or health-related condition to which the claim refers;
 
 &emsp;(iii) the claim and the food for which the claim is made are in compliance with clause (A)(ii) and are otherwise in compliance with paragraph (a) and section 321(n) of this title; and
 
@@ -372,7 +372,7 @@ If—
 
 &emsp;(B) the label or labeling of the dietary supplement fails to identify the product by using the term “dietary supplement”, which term may be modified with the name of such an ingredient;
 
-&emsp;(C) the supplement contains an ingredient described in section 321(ff)(1)(C) of this title, and the label or labeling of the supplement fails to identify any part of the plant from which the ingredient is derived;
+&emsp;(C) the supplement contains an ingredient described in section 321(ff)(1)(C) of this title,and the label or labeling of the supplement fails to identify any part of the plant from which the ingredient is derived;
 
 &emsp;(D) the supplement—
 
@@ -440,7 +440,7 @@ If—
 
 (E) The Secretary shall promptly post to a public site all petitions received under this paragraph within 14 days of receipt and the Secretary shall promptly post the Secretary's response to each.
 
-(7)(A) A person need not file a petition under paragraph (6) to exempt a food ingredient described in section 321(qq)(2) of this title from the allergen labeling requirements of this subsection, if the person files with the Secretary a notification containing—
+(7)(A) A person need not file a petition under paragraph (6) to exempt a food ingredient described in section 321(qq)(2) of this title from theallergen labeling requirements of this subsection, if the person files with the Secretary a notification containing—
 
 &emsp;(i) scientific evidence (including the analytical method used) that demonstrates that the food ingredient (as derived by the method specified in the notification, where applicable) does not contain allergenic protein; or
 
@@ -498,7 +498,7 @@ Pub. L. 103–417, §7(a), added par. (s).
 
 1993—Par. (e). Pub. L. 103–80, §3(j)(1), substituted “count, except that” for “count: <i>Provided</i>, That”.
 
-Par. (i). Pub. L. 103–80, §3(j)(2), substituted “unless sold as spices, flavorings, or such colors” for “, other than those sold as such” and “naming each. To the extent” for “naming each: <i>Provided</i>, That, to the extent”.
+Par. (i). Pub. L. 103–80, §3(j)(2), substituted “unless sold as spices, flavorings, or such colors” for “, otherthan those sold as such” and “naming each. To the extent” for “naming each: <i>Provided</i>, That, to the extent”.
 
 Par. (k). Pub. L. 103–80, §3(j)(3), substituted “, except that” for “: <i>Provided</i>, That”.
 
@@ -556,7 +556,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 Section 7(e) of Pub. L. 103–417 provided that: “Dietary supplements—
 
-&emsp;“(1) may be labeled after the date of the enactment of this Act \[Oct. 25, 1994\] in accordance with theamendments made by this section \[amending this section and section 350 of this title\], and
+&emsp;“(1) may be labeled after the date of the enactment of this Act \[Oct. 25, 1994\] in accordance with the amendments made by this section \[amending this section and section 350 of this title\], and
 
 &emsp;“(2) shall be labeled after December 31, 1996, in accordance with such amendments.”
 
@@ -594,7 +594,7 @@ Section 10(c) of Pub. L. 101–535, as amended by Pub. L. 102–108, §1, Aug. 1
 
 “(1) Except as provided in paragraphs (2) and (3), the amendments made by section 7 \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Nov. 8, 1990\].
 
-“(2)(A) If a food subject to section 403(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(g)\] or a food with one or more colors required to be certified under section 721(c) \[of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 379e(c)\] bears a label which was printed before July 1, 1991, and which is attached to the food before May 8, 1993, such food shall not be subject to the amendments made by section 7(1) and section 7(3) \[amending this section\].
+“(2)(A) If a food subject to section 403(g) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(g)\] ora food with one or more colors required to be certified under section 721(c) \[of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 379e(c)\] bears a label which was printed before July 1, 1991, and which is attached to the food before May 8, 1993, such food shall not be subject to the amendments made by section 7(1) and section 7(3) \[amending this section\].
 
 “(B) If a food described in subparagraph (A)—
 
@@ -630,7 +630,7 @@ Subsecs. (e)(1) and (g) to (k) effective Jan. 1, 1940, and such subsections effe
 
 #### Construction of Amendment by Pub. L. 108–282
 
-Pub. L. 108–282, title II, §203(b), Aug. 2, 2004, 118 Stat. 908, provided that: “The amendments made by this section \[amending this section and sections 321 and 343–1 of this title\] that require a label or labeling for majorfood allergens do not alter the authority of the Secretary of Health and Human Services under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) to require a label or labeling for other food allergens.”
+Pub. L. 108–282, title II, §203(b), Aug. 2, 2004, 118 Stat. 908, provided that: “The amendments made by this section \[amending this section and sections 321 and 343–1 of this title\] that require a label or labeling for major food allergens do not alter the authority of the Secretary of Health and Human Services under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) to require a label or labeling for other food allergens.”
 
 #### Construction of Amendment by Pub. L. 107–188
 
@@ -736,11 +736,11 @@ Section 3(b) of Pub. L. 101–535, as amended by Pub. L. 102–571, title II, §
 
 “(2) If the Secretary does not promulgate final regulations under paragraph (1)(B) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1)(A) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations \[see 57 F.R. 56347\].”
 
-\[For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L. 101–535 set out above, see section 202(a)(2)(C) of Pub. L. 102–571 set out above following section 2(b) of Pub. L. 101–535.\]
+\[For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L. 101–535 set out above, see section 202(a)(2)(C) of Pub. L.102–571 set out above following section 2(b) of Pub. L. 101–535.\]
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Rulemaking on Labeling
 
@@ -770,7 +770,7 @@ Expertise requirement.—The members of the Commission shall consist of individu
 
 “(c)
 
-Functions of the Commission.—The Commission shall conduct a study on, and provide recommendations for, the regulation of label claims and statements for dietary supplements, including the use of literature in connection with the sale of dietary supplements andprocedures for the evaluation of such claims. In making such recommendations, the Commission shall evaluate how best to provide truthful, scientifically valid, and not misleading information to consumers so that such consumers may make informed and appropriate health care choices for themselves and their families.
+Functions of the Commission.—The Commission shall conduct a study on, and provide recommendations for, the regulation of label claims and statements for dietary supplements, including the use of literature in connection with the sale of dietary supplements and procedures for the evaluation of such claims. In making such recommendations, the Commission shall evaluate how best to provide truthful, scientifically valid, and not misleading information to consumers so that such consumers may make informed and appropriate health care choices for themselves and their families.
 
 “(d)
 

@@ -30,5 +30,5 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 Section applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 121 of this title.
 
-Section inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
+Section inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec.31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 

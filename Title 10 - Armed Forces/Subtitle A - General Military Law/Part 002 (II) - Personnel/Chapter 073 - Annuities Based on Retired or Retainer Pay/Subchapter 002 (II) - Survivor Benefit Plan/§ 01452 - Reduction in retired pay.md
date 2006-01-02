@@ -66,7 +66,7 @@ Adjustments for increases in rates of basic pay.—Whenever there is an increase
 
 &emsp;&emsp;(B)
 
-Adjustments for retired pay colas.—In addition to the increase under subparagraph (A), the amounts under paragraph (1) with respect to which the percentage factor of 21/2 is applied shall be further increased at the same time and by the same percentage as an increase in retired pay under section 1401a of this title effective on or after October 1, 1985. Such increase under the preceding sentence shall apply only with respect to a person who initially participates in the Plan on a date which is after both the effective date of such increase under section 1401a and the effective date of the rates of basic pay upon which that person's retired pay is computed.
+Adjustments for retired pay colas.—In addition to the increase under subparagraph (A), the amounts under paragraph (1) with respect to which the percentage factor of 21/2 is applied shall be furtherincreased at the same time and by the same percentage as an increase in retired pay under section 1401a of this title effective on or after October 1, 1985. Such increase under the preceding sentence shall apply only with respect to a person who initially participates in the Plan on a date which is after both the effective date of such increase under section 1401a and the effective date of the rates of basic pay upon which that person's retired pay is computed.
 
 &emsp;(5)
 
@@ -170,7 +170,7 @@ Discontinuation.—
 
 &emsp;&emsp;(A)
 
-Conditions.—Notwithstanding any other provision of this subchapter but subject to paragraphs (2) and (3), a person who has elected to participate in the Plan and who is suffering from a service-connected disability rated by the Secretary of Veterans Affairs as totally disabling and has suffered from such disability while so rated for a continuous period of 10 or more years (or, if so rated for a lesser period, has suffered from such disability while so rated for a continuous period of not less than 5 years from the date of such person's last discharge or release from active duty) may discontinue participation in the Plan by submitting to the Secretary concerned a request to discontinue participation in the Plan.
+Conditions.—Notwithstanding any other provision of this subchapter but subject to paragraphs (2) and (3), a person who has elected to participate in the Plan and who is suffering from a service-connecteddisability rated by the Secretary of Veterans Affairs as totally disabling and has suffered from such disability while so rated for a continuous period of 10 or more years (or, if so rated for a lesser period, has suffered from such disability while so rated for a continuous period of not less than 5 years from the date of such person's last discharge or release from active duty) may discontinue participation in the Plan by submitting to the Secretary concerned a request to discontinue participation in the Plan.
 
 &emsp;&emsp;(B)
 
@@ -242,7 +242,7 @@ Delay not to affect computation of annuity.—Subparagraph (A) may not be constr
 
 (i)
 
-Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effectiveon the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
 (j)
 
@@ -280,7 +280,7 @@ Subsec. (h)(2). Pub. L. 104–201, §635(a), added par. (2).
 
 1989—Subsec. (a). Pub. L. 101–189, §1402(a), inserted heading.
 
-Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows:“Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
+Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
 
 &emsp;“(A) by an amount equal to 21/2 percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
 
@@ -405,8 +405,4 @@ Amount of recomputed premium.—The amount of an SBP premium recomputed under th
 “(4)
 
 SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction in retired pay under section 1452 of title 10, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1448, 1450, 1451, 1455, 1460, 1460a of this title; title 26 section 122.
 

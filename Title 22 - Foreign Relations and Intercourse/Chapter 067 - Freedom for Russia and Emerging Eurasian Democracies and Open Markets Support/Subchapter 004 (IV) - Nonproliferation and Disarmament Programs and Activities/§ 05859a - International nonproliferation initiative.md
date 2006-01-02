@@ -36,7 +36,7 @@ Activities for which assistance may be provided under this section are activitie
 
 (1) Funds provided as assistance under this section for any fiscal year shall be derived from amounts made available to the Department of Defense for that fiscal year. Funds provided as assistance under this section for a fiscal year may also be derived from balances in working capital accounts of the Department of Defense.
 
-(2) Supplies and equipment provided as assistance under this section may be provided, by loan or donation, from existing stocks of the Department of Defense and the Department of Energy.
+(2) Supplies and equipment provided as assistance under this section may be provided, by loanor donation, from existing stocks of the Department of Defense and the Department of Energy.
 
 (3) The total amount of the assistance provided in the form of funds under this section, including funds used for activities of the Department of Defense in support of the United Nations Special Commission on Iraq, may not exceed $25,000,000 for fiscal year 1994, $20,000,000 for fiscal year 1995, $15,000,000 for fiscal year 1996, $15,000,000 for fiscal year 1997, or $15,000,000 for fiscal year 1998.
 
@@ -128,7 +128,7 @@ Subsec. (d)(3). Pub. L. 103–337, §1501(c)(2), inserted “for fiscal year 199
 
 Subsec. (e)(1). Pub. L. 103–337, §1501(a), substituted “fiscal years 1994 and 1995” for “fiscal year 1994”.
 
-Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National DefenseAuthorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
+Subsec. (e)(2). Pub. L. 103–337, §1070(c)(1), which directed amendment of subsec. (e)(2) by striking out “and under subsection (d)(4) of this section” effective as of Oct. 23, 1992, and as if included in the National Defense Authorization Act for Fiscal Year 1993 (Pub. L. 102–484), as enacted, was executed to subsec. (e)(2) as amended by Pub. L. 103–160, §1182(c)(5), to reflect the probable intent of Congress. See 1993 Amendment note below.
 
 1993—Subsecs. (a), (d)(1). Pub. L. 103–160, §1602(a), substituted “fiscal year 1994” for “fiscal year 1993”.
 

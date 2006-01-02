@@ -12,13 +12,13 @@
 
 &emsp;&emsp;(A) not less frequently than once every year for purposes of voting on the voluntary voting system guidelines referred to it under section 15362 of this title;
 
-&emsp;&emsp;(B) in the case of the Standards Board, not less frequently than once every 2 years for purposes of selecting the Executive Board; and
+&emsp;&emsp;(B) in the case of the Standards Board, not less frequently than once every 2 years forpurposes of selecting the Executive Board; and
 
 &emsp;&emsp;(C) at such other times as it considers appropriate for purposes of conducting such other business as it considers appropriate consistent with this subchapter.
 
 #### (b) Information from Federal agencies
 
-The Standards Board and the Board of Advisors may each secure directly from any Federal department or agency such information as theBoard considers necessary to carry out this chapter. Upon request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the head of such department or agency shall furnish such information to the Board.
+The Standards Board and the Board of Advisors may each secure directly from any Federal department or agency such information as the Board considers necessary to carry out this chapter. Upon request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the head of such department or agency shall furnish such information to the Board.
 
 #### (c) Postal services
 

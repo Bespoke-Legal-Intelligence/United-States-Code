@@ -64,7 +64,7 @@ The procedures required by this section shall include the following:
 
 &emsp;&emsp;(B) an explanation of why the agency proposes or refuses to take the action and a description of each evaluation procedure, assessment, record, or report the agency used as a basis for the proposed or refused action;
 
-&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referralfor evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
+&emsp;&emsp;(C) a statement that the parents of a child with a disability have protection under the procedural safeguards of this subchapter and, if this notice is not an initial referral for evaluation, the means by which a copy of a description of the procedural safeguards can be obtained;
 
 &emsp;&emsp;(D) sources for parents to contact to obtain assistance in understanding the provisions of this subchapter;
 
@@ -448,7 +448,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (E) Exception to prohibition on attorneys’ fees and related costs
 
-&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys’ fees and related costs may be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
+&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys’ fees and related costsmay be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
 
 #### (F) Reduction in amount of attorneys’ fees
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant membersof the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -570,7 +570,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (A) In general
 
-&emsp;&emsp;A child who has not been determined to be eligible for special education and relatedservices under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
+&emsp;&emsp;A child who has not been determined to be eligible for special education and related services under this subchapter and who has engaged in behavior that violates a code of student conduct, may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
 
 #### (B) Basis of knowledge
 
@@ -580,7 +580,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;&emsp;(ii) the parent of the child has requested an evaluation of the child pursuant to section 1414(a)(1)(B) of this title; or
 
-&emsp;&emsp;&emsp;(iii) the teacher of the child, or other personnel of the local educational agency, has expressed specific concerns about a pattern of behavior demonstrated by the child, directly to the director of special education of such agency or to other supervisory personnel of the agency.
+&emsp;&emsp;&emsp;(iii) the teacher of the child, or other personnel of the local educational agency, has expressed specific concerns about a pattern of behavior demonstrated by the child, directly to the director of specialeducation of such agency or to other supervisory personnel of the agency.
 
 #### (C) Exception
 
@@ -634,7 +634,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (1) In general
 
-&emsp;A State that receives amounts from a grant under this subchapter may provide that, whena child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
+&emsp;A State that receives amounts from a grant under this subchapter may provide that, when a child with a disability reaches the age of majority under State law (except for a child with a disability who has been determined to be incompetent under State law)—
 
 &emsp;&emsp;(A) the agency shall provide any notice required by this section to both the individual and the parents;
 

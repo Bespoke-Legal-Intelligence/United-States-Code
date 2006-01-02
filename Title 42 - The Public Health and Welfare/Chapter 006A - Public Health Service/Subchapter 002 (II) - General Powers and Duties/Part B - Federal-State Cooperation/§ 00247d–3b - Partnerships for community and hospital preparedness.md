@@ -86,7 +86,7 @@ A political subdivision of a State shall not participate in more than one partne
 
 #### (2) Areas of emphasis within categories
 
-&emsp;The Secretary shall determine areas of emphasis within the category of hazards specified in clause (i) of paragraph (1)(A), and shall determine areas of emphasis within the category of hazards specified in clause (ii) of such paragraph, based on an assessment of the risk and likely consequences of such hazards and on an evaluation of Federal, State, and local needs, and may also take into account the extent to which receiving an award under subsection (a) of this section will develop capacities that can be used for public health emergencies of varying types.
+&emsp;The Secretary shall determine areas of emphasis within the category of hazards specified in clause (i) of paragraph (1)(A), and shall determine areas of emphasis within the category of hazards specified in clause (ii) of such paragraph, based on an assessment of the risk and likely consequences of such hazards and on an evaluation of Federal, State, and local needs, and may also take into account the extent to which receiving an award under subsection (a) of this section will develop capacities that canbe used for public health emergencies of varying types.
 
 #### (h) Coordination with local Medical Response System
 
@@ -96,5 +96,5 @@ An eligible entity and local Metropolitan Medical Response Systems shall, to the
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2004 through 2006.
 
-(July 1, 1944, ch. 373, title III, §319C—2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624.)
+(July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624.)
 

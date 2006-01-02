@@ -54,7 +54,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (e) Authority to reserve certain amounts for assistance
 
-A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscal year for the purpose of providing, without fiscalyear limitation, assistance under the State or tribal program funded under this part.
+A State or tribe may reserve amounts paid to the State or tribe under this part for any fiscal year for the purpose of providing, without fiscal year limitation, assistance under the State or tribal program funded under this part.
 
 #### (f) Authority to operate employment placement program
 
@@ -78,7 +78,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (B) Qualified purpose
 
-&emsp;&emsp;A qualified purpose described in this subparagraph is 1 or more of the following, as provided by the qualified entity providing assistance to the individual under this subsection:
+&emsp;&emsp;A qualified purpose described in this subparagraph is 1 or more of the following, as provided by the qualified entity providingassistance to the individual under this subsection:
 
 #### (i) Postsecondary educational expenses
 
@@ -378,7 +378,7 @@ In general.—The term ‘qualified entity’ means—
 
 &emsp;&emsp;&emsp;“(i) one or more not-for-profit organizations described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of such Code;
 
-&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an applicationunder section 405 jointly with an organization described in clause (i); or
+&emsp;&emsp;&emsp;“(ii) a State or local government agency, or a tribal government, submitting an application under section 405 jointly with an organization described in clause (i); or
 
 &emsp;&emsp;&emsp;(iii) an entity that—
 
@@ -546,7 +546,7 @@ Preferences.—In considering an application to conduct a demonstration project 
 
 “(e)
 
-Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate, taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to the maximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
+Approval.—Not later than 9 months after the date of enactment of this title \[Oct. 27, 1998\], the Secretary shall, on a competitive basis, approve such applications to conduct demonstration projects under this title as the Secretary considers to be appropriate, taking into account the assessments required by subsections (c) and (d). The Secretary shall ensure, to themaximum extent practicable, that the applications that are approved involve a range of communities (both rural and urban) and diverse populations.
 
 “(f)
 
@@ -834,7 +834,7 @@ Evaluation Expenses.—Of the amount appropriated under section 416 for a fiscal
 
 #### “SEC. 415. NO REDUCTION IN BENEFITS.
 
-“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C.1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
+“Notwithstanding any other provision of Federal law (other than the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]) that requires consideration of one or more financial circumstances of an individual, for the purpose of determining eligibility to receive, or the amount of, any assistance or benefit authorized by such law to be provided to or for the benefit of such individual, funds (including interest accruing) in an individual development account under this Act \[see Short Title of 1998 Amendment note set out under section 9801 of this title\] shall be disregarded for such purpose with respect to any period during which such individual maintains or makes contributions into such an account.
 
 #### “SEC. 416. AUTHORIZATION OF APPROPRIATIONS.
 

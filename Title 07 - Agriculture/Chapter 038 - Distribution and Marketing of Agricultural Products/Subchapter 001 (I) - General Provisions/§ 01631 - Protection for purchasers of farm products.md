@@ -52,7 +52,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) the farm products in which each buyer, commission merchant, and selling agent has an interest;
 
-&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm productsin which such buyer, commission merchant, or selling agent has registered an interest;
+&emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and sellingagent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
 
 &emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>2</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
@@ -182,7 +182,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;(D) in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
 
-&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this sectionthat specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
+&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
 
 &emsp;&emsp;(ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 
@@ -230,7 +230,7 @@ Subsec. (c)(4)(D). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (E) as
 
 Subsec. (c)(4)(D)(iii). Pub. L. 107–171, §10604(a)(3)(A), inserted “and” after semicolon at end.
 
-Subsec. (c)(4)(D)(iv). Pub. L. 107–171, §10604(a)(3)(B), substituted “applicable, and the name of each county or parish in which the farm products are produced or located;” for “applicable; and a reasonable description of the property, includingcounty or parish in which the property is located;”.
+Subsec. (c)(4)(D)(iv). Pub. L. 107–171, §10604(a)(3)(B), substituted “applicable, and the name of each county or parish in which the farm products are produced or located;” for “applicable; and a reasonable description of the property, including county or parish in which the property is located;”.
 
 Subsec. (c)(4)(E). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
@@ -268,7 +268,7 @@ Subsec. (g)(2)(A)(iv). Pub. L. 107–171, §10604(c)(3), substituted “notice s
 
 Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted “contains” before “any payment”.
 
-1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of thedebtor, is an electronically reproduced copy of the statement” for “thereof”.
+1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a Statewhich (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
 
 Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
 

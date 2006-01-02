@@ -2,7 +2,15 @@
 
 (a) In this section, “cash collateral” means cash, negotiable instruments, documents of title, securities, deposit accounts, or other cash equivalents whenever acquired in which the estate and an entity other than the estate have an interest and includes the proceeds, products, offspring, rents, or profits of property and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties subject to a security interest as provided in section 552(b) of this title, whether existing before or after the commencement of a case under this title.
 
-(b)(1) The trustee, after notice and a hearing, may use, sell, or lease, other than in the ordinary course of business, property of the estate.
+(b)(1) The trustee, after notice and a hearing, may use, sell, or lease, other than in the ordinary course of business, property of the estate,except that if the debtor in connection with offering a product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—
+
+&emsp;(A) such sale or such lease is consistent with such policy; or
+
+&emsp;(B) after appointment of a consumer privacy ombudsman in accordance with section 332, and after notice and a hearing, the court approves such sale or such lease—
+
+&emsp;&emsp;(i) giving due consideration to the facts, circumstances, and conditions of such sale or such lease; and
+
+&emsp;&emsp;(ii) finding that no showing was made that such sale or such lease would violate applicable nonbankruptcy law.
 
 (2) If notification is required under subsection (a) of section 7A of the Clayton Act in the case of a transaction under this subsection, then—
 
@@ -24,11 +32,15 @@
 
 &emsp;(B) the court, after notice and a hearing, authorizes such use, sale, or lease in accordance with the provisions of this section.
 
-(3) Any hearing under paragraph (2)(B) of this subsection may be a preliminary hearing or may be consolidated with a hearing under subsection\(e) of this section, but shall be scheduled in accordance with the needs of the debtor. If the hearing under paragraph (2)(B) of this subsection is a preliminary hearing, the court may authorize such use, sale, or lease only if there is a reasonable likelihood that the trustee will prevail at the final hearing under subsection (e) of this section. The court shall act promptly on any request for authorization under paragraph (2)(B) of this subsection.
+(3) Any hearing under paragraph (2)(B) of this subsection may be a preliminary hearing or may be consolidated with a hearing under subsection (e) of this section, but shall be scheduled in accordance with the needs of the debtor. If the hearing under paragraph (2)(B) of this subsection is a preliminary hearing, the court may authorize such use, sale, or lease only if there is a reasonable likelihood that the trustee will prevail at the final hearing under subsection (e) of this section. The court shall act promptly on any request for authorization under paragraph (2)(B) of this subsection.
 
 (4) Except as provided in paragraph (2) of this subsection, the trustee shall segregate and account for any cash collateral in the trustee's possession, custody, or control.
 
-(d) The trustee may use, sell, or lease property under subsection (b) or (c) of this section only to the extent not inconsistent with any relief granted under section 362(c), 362(d), 362(e), or 362(f) of this title.
+(d) The trustee may use, sell, or lease property under subsection (b) or (c) of this section only—
+
+&emsp;(1) in accordance with applicable nonbankruptcy law that governs the transfer of property by a corporation or trust that is not a moneyed, business, or commercial corporation or trust; and
+
+&emsp;(2) to the extent not inconsistent with any relief granted under subsection (c), (d), (e), or (f) of section 362.
 
 (e) Notwithstanding any other provision of this section, at any time, on request of an entity that has an interest in property used, sold, or leased, or proposed to be used, sold, or leased, by the trustee, the court, with or without a hearing, shall prohibit or condition such use, sale, or lease as is necessary to provide adequate protection of such interest. This subsection also applies to property that is subject to any unexpired lease of personal property (to the exclusion of such property being subject to an order to grant relief from the stay under section 362).
 
@@ -68,13 +80,15 @@
 
 (n) The trustee may avoid a sale under this section if the sale price was controlled by an agreement among potential bidders at such sale, or may recover from a party to such agreement any amount by which the value of the property sold exceeds the price at which such sale was consummated, and may recover any costs, attorneys’ fees, or expenses incurred in avoiding such sale or recovering such amount. In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection.
 
-(<i>o</i>) In any hearing under this section—
+(<i>o</i>) Notwithstanding subsection (f), if a person purchases any interest in a consumer credit transaction that is subject to the Truth in Lending Act or any interest in a consumer credit contract (as defined in section 433.1 of title 16 of the Code of Federal Regulations (January 1, 2004), as amended from time to time), and if such interest is purchased through a sale under this section, then such person shall remain subject to all claims and defenses that are related to such consumer credit transaction or such consumer credit contract, to the same extent as such person would be subject to such claims and defenses of the consumer had such interest been purchased at a sale not under this section.
+
+(p) In any hearing under this section—
 
 &emsp;(1) the trustee has the burden of proof on the issue of adequate protection; and
 
 &emsp;(2) the entity asserting an interest in property has the burden of proof on the issue of the validity, priority, or extent of such interest.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2572; Pub. L. 98–353, title III, §442, July 10, 1984, 98 Stat. 371; Pub. L. 99–554, title II, §257(k), Oct. 27, 1986, 100 Stat. 3115; Pub. L. 103–394, title I, §109, title II, §§214(b), 219(c), title V, §501(d)(8), Oct. 22, 1994, 108 Stat. 4113, 4126, 4129, 4144; Pub. L. 109–8, title II, §§204, 231(a), title XII, §1221(a), Apr. 20, 2005, 119 Stat. 49, 72, 195.)
 
 #### Historical and Revision Notes
 
@@ -92,7 +106,7 @@ Section 363(k) of the House amendment is derived from the third sentence of sect
 
 #### senate report no. 95–989
 
-This section defines the right and powers of the trustee with respect to the use, sale or lease of property and the rights of other parties that have interests in the property involved. It applies in both liquidation and reorganization cases.
+This section defines the right and powers of the trustee with respect to the use, sale or lease of property andthe rights of other parties that have interests in the property involved. It applies in both liquidation and reorganization cases.
 
 Subsection (a) defines “cash collateral” as cash, negotiable instruments, documents of title, securities, deposit accounts, or other cash equivalents in which the estate and an entity other than the estate have an interest, such as a lien or a co-ownership interest. The definition is not restricted to property of the estate that is cash collateral on the date of the filing of the petition. Thus, if “non-cash” collateral is disposed of and the proceeds come within the definition of “cash collateral” as set forth in this subsection, the proceeds would be cash collateral as long as they remain subject to the original lien on the “non-cash” collateral under section 552(b). To illustrate, rents received from real property before or after the commencement of the case would be cash collateral to the extent that they are subject to a lien.
 
@@ -124,7 +138,15 @@ Subsection (m) \[enacted as (n)\] is directed at collusive bidding on property s
 
 Section 7A of the Clayton Act, referred to in subsec. (b)(2), is classified to section 18a of Title 15, Commerce and Trade.
 
+The Truth in Lending Act, referred to in subsec. (<i>o</i>), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–8, §231(a), substituted “, except that if the debtor in connection with offering a product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—” and subpars. (A) and (B) for period at end.
+
+Subsec. (d). Pub. L. 109–8, §1221(a), substituted “only—” and pars. (1) and (2) for “only to the extent not inconsistent with any relief granted under section 362(c), 362(d), 362(e), or 362(f) of this title.”
+
+Subsecs. (<i>o</i>), (p). Pub. L. 109–8, §204, added subsec. (<i>o</i>) and redesignated former subsec. (<i>o</i>) as (p).
 
 1994—Subsec. (a). Pub. L. 103–394, §214(b), inserted “and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties” after “property”.
 
@@ -162,6 +184,12 @@ Subsec. (n). Pub. L. 98–353, §442(i), substituted “avoid” for “void”,
 
 Subsec. (<i>o</i>). Pub. L. 98–353, §442(j), added subsec. (<i>o</i>).
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–8, title XII, §1221(d), Apr. 20, 2005, 119 Stat. 196, provided that: “The amendments made by this section \[amending this section and sections 541 and 1129 of this title and enacting provisions set out as a note under this section\] shall apply to a case pending under title 11, United States Code, on the date of enactment of this Act \[Apr. 20, 2005\], or filed under that title on or after that date of enactment, except that the court shall not confirm a plan under chapter 11 of title 11, United States Code, without considering whether this section would substantially affect the rights of a party in interest who first acquired rights with respect to the debtor after the date of the filing of the petition. The parties who may appear and be heard in a proceeding under this section include the attorney general of the State in which the debtor is incorporated, was formed, or does business.”
+
+Amendment by sections 204 and 231(a) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -173,4 +201,8 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+
+#### Construction of Section 1221 of Pub. L. 109–8
+
+Pub. L. 109–8, title XII, §1221(e), Apr. 20, 2005, 119 Stat. 196, provided that: “Nothing in this section \[see Effective Date of 2005 Amendment note above\] shall be construed to require the court in which a case under chapter 11 of title 11, United States Code, is pending to remand or refer any proceeding, issue, or controversy to any other court or to require the approval of any other court for the transfer of property.”
 

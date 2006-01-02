@@ -32,7 +32,7 @@
 
 #### (b) Disclosure of requests
 
-Notwithstanding any other provision of law, no governmental or private entity, or officer, employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.
+Notwithstanding any other provision of law, no governmental or private entity, or officer,employee, or agent of such entity, may disclose to any person, other than those officers, employees, or agents of such entity necessary to satisfy a request made under this section, that such entity has received or satisfied a request made by an authorized investigative agency under this section.
 
 #### (c) Records or information; inspection or copying
 

@@ -14,7 +14,7 @@ Making use of the existing infrastructure established in eligible States by the 
 
 #### (b) Supplemental grants
 
-The Administrator shall endeavor, where appropriate, to supplement grants made under subsection (a) of this section with such grants forfellowships, traineeships, equipment, or instrumentation as are available.
+The Administrator shall endeavor, where appropriate, to supplement grants made under subsection (a) of this section with such grants for fellowships, traineeships, equipment, or instrumentation as are available.
 
 #### (c) “Eligible State” defined
 

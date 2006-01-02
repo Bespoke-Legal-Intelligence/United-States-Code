@@ -74,6 +74,28 @@ A prior section 5013 was renumbered section 5063 of this title.
 
 1986—Subsec. (a)(2). Pub. L. 99–661 substituted “five years” for “10 years”.
 
+#### Reversionary Interests in Real Property Used by Closed or Realigned Naval Stations
+
+Pub. L. 109–148, div. B, title I, §702, Dec. 30, 2005, 119 Stat. 2773, provided that: “For any real property expressly granted to the United States since January 1, 1980 for use as or in connection with a Navy homeport subject to a reversionary interest retained by the grantor and serving as the site of or being used by a naval station subsequently closed or realigned pursuant to the Defense Base Closure and Realignment Act of 1990 \[part A of title XXIX of div. B of Pub. L. 101–510, set out as a note under section 2687 of this title\] as amended, the right of the United States to any consideration or repayment for the fair market value of the real property as improved shall be released, relinquished, waived, or otherwise permanently extinguished. The Secretary shall execute such written agreements as may be needed to facilitate the reversion and transfer all right, title, and interest of the United States in any real property described in this section, including the improvements thereon, for no consideration to the reversionary interest holder as soon as practicable after the naval station is closed or realigned. This agreement shall not require the reversionary interest holder to assume any environmental liabilities of the United States or relieve the United States from any responsibilities for environmental remediation that it may have incurred as a result of federal ownership or use of the real property.”
+
+#### Elimination of Reversionary Interests Clouding United States Title to Property Used as Navy Homeports
+
+Pub. L. 108–375, div. B, title XXVIII, §2823, Oct. 28, 2004, 118 Stat. 2132, provided that:
+
+“(a)
+
+Authority to Acquire Complete Title.—If real property owned by the United States and used as a Navy homeport is subject to a reversionary interest of any kind, the Secretary of the Navy may enter into an agreement with the holder of the reversionary interest to acquire the reversionary interest and thereby secure for the United States all right, title, and interest in and to the property.
+
+“(b)
+
+Authorized Consideration.—(1) As consideration for the acquisition of a reversionary interest under subsection (a), the Secretary shall provide the holder of the reversionary interest with in-kind consideration, to be determined pursuant to negotiations between the Secretary and the holder of the reversionary interest.
+
+“(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretary shall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the United States were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
+
+“(c)
+
+Prohibited Consideration.—Cash payments are not authorized to be made as consideration for the acquisition of a reversionary interest under subsection (a).”
+
 #### Naval Aviation Depots Multi-Trades Demonstration Project
 
 Pub. L. 108–136, div. A, title III, §338, Nov. 24, 2003, 117 Stat. 1447, provided that:
@@ -98,7 +120,7 @@ Participating Workers.—(1) Actual worker participation in the demonstration pr
 
 “(d)
 
-Funding Source.—Appropriations for operation and maintenance of the Naval Aviation Depots selected to participate in the demonstration project shall be used as the source of funds to carry out the demonstration project, including the source of funds for pay increases made under the project.
+Funding Source.—Appropriations for operation and maintenance of the Naval Aviation Depots selectedto participate in the demonstration project shall be used as the source of funds to carry out the demonstration project, including the source of funds for pay increases made under the project.
 
 “(e)
 
@@ -188,7 +210,7 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 “(2) The Secretary may not enter into an agreement under subsection (b) with the State concerned for the provision of prerelease employment training directly by the Secretary unless the agreement with the State concerned includes provisions that the State shall—
 
-&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from awrongful act or omission of Federal Government personnel; and
+&emsp;“(A) be liable for any loss or damage to Federal Government property that may result from, or in connection with, the provision of the training except to the extent that the loss or damage results from a wrongful act or omission of Federal Government personnel; and
 
 &emsp;“(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 
@@ -198,11 +220,5 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Navy, see Ex. Ord. No. 12879, Nov. 8, 1993, 58 F.R. 59929, set out as a note under section 3345 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 162, 5033, 5043, 10172, 10173 of this title.
 

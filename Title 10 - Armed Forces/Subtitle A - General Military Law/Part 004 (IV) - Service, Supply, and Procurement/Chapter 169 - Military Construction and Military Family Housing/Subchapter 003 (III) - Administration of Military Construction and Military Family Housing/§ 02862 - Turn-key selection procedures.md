@@ -6,7 +6,7 @@ Authority to Use.—The Secretary concerned may use one-step turn-key selection 
 
 (b)
 
-Definition.—In this section, the term “one-step turn-key selection procedures” means procedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary concerned.
+Definition.—In this section, the term “one-step turn-key selection procedures” meansprocedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary concerned.
 
 (Added Pub. L. 99–167, title VIII, §807(a), Dec. 3, 1985, 99 Stat. 988; amended Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–180, div. B, subdiv. 3, title I, §2301, Dec. 4, 1987, 101 Stat. 1214; Pub. L. 101–189, div. B, title XXVIII, §2806, Nov. 29, 1989, 103 Stat. 1647; Pub. L. 102–190, div. B, title XXVIII, §2802, Dec. 5, 1991, 105 Stat. 1537.)
 

@@ -28,7 +28,7 @@ This part, referred to in subsecs. (b) and (c), commences with section 1379a of 
 
 #### Effective Date of 1965 Amendment
 
-Section 510(b) of Pub. L. 89–321 provided that the amendments made by that section are effective as of the effective date of the original enactment of this section \[section 1379i of this title\].
+Section 510(b) of Pub. L. 89–321 provided that the amendments made by that section are effective as ofthe effective date of the original enactment of this section \[section 1379i of this title\].
 
 #### Inapplicability of Section
 

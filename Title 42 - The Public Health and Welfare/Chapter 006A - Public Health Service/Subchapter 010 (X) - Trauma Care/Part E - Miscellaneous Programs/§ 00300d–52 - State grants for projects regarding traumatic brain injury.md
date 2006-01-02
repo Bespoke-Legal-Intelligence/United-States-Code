@@ -40,7 +40,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (2) Determination of amount contributed
 
-&emsp;Non-Federal contributions under paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government,may not be included in determining the amount of such contributions.
+&emsp;Non-Federal contributions under paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
 
 #### (d) Application for grant
 

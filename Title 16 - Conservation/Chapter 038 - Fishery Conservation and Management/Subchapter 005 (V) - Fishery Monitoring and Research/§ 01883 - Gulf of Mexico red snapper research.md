@@ -18,7 +18,7 @@
 
 &emsp;(B) provide information to the Secretary concerning the review of fishery statistics under this subsection without being subject to penalty under this chapter or other applicable law for any past violation of a requirement to report such information to the Secretary.
 
-(3) The Secretary shall submit a detailed written report on the findings of the peer review conducted under this subsection to the Gulf Council no later than one year after October 11, 1996.
+(3) The Secretary shall submit a detailed written report on the findings of the peer reviewconducted under this subsection to the Gulf Council no later than one year after October 11, 1996.
 
 #### (b) Prohibition
 

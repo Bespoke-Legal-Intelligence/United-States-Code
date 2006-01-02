@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In any matter subject to jurisdiction under this part, the Secretary or the Board, as applicable, shall exempt a person, class of persons, or a transaction or service from the application, in whole or in part, of a provision of this part, or use this exemption authority to modify the application of a provision of this part as it applies to such person, class, transaction, or service, when the Secretary orBoard finds that the application of that provision—
+In General.—In any matter subject to jurisdiction under this part, the Secretary or the Board, as applicable, shall exempt a person, class of persons, or a transaction or service from the application, in whole or in part, of a provision of this part, or use this exemption authority to modify the application of a provision of this part as it applies to such person, class, transaction, or service, when the Secretary or Board finds that the application of that provision—
 
 &emsp;(1) is not necessary to carry out the transportation policy of section 13101;
 

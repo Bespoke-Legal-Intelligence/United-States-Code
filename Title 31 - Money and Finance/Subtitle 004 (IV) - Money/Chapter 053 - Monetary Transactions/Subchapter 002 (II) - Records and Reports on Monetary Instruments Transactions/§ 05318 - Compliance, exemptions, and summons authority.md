@@ -156,7 +156,7 @@ In general.—In requiring reports under paragraph (1) of suspicious transaction
 
 &emsp;&emsp;(B)
 
-Duty of designee.—The officer or agency of the United States designated by the Secretary of the Treasury pursuant to subparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement, supervisory agency, orUnited States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+Duty of designee.—The officer or agency of the United States designated by the Secretary of the Treasury pursuant to subparagraph (A) shall refer any report of a suspicious transaction to any appropriate law enforcement, supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
 &emsp;&emsp;(C)
 
@@ -332,7 +332,7 @@ Acceptance of service.—
 
 &emsp;&emsp;&emsp;(i)
 
-Maintaining records in the united states.—Any covered financial institutionwhich maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of such foreign bank and the name and address of a person who resides in the United States and is authorized to accept service of legal process for records regarding the correspondent account.
+Maintaining records in the united states.—Any covered financial institution which maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying the owners of such foreign bank and the name and address of a person who resides in the United States and is authorized to accept service of legal process for records regarding the correspondent account.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -374,7 +374,7 @@ Minimum requirements.—The regulations shall, at a minimum, require financial i
 
 &emsp;&emsp;(B) maintaining records of the information used to verify a person's identity, including name, address, and other identifying information; and
 
-&emsp;&emsp;(C) consulting lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list.
+&emsp;&emsp;(C) consulting lists of known or suspected terrorists or terrorist organizations providedto the financial institution by any government agency to determine whether a person seeking to open an account appears on any such list.
 
 &emsp;(3)
 
@@ -406,7 +406,7 @@ In general.—Subject to paragraphs (3) and (4), the Secretary shall prescribe r
 
 &emsp;(2)
 
-Limitation on reporting requirements.—Information required to be reported by the regulations prescribed under paragraph (1) shall not exceed the information requiredto be retained by the reporting financial institution pursuant to section 21 of the Federal Deposit Insurance Act and the regulations promulgated thereunder, unless—
+Limitation on reporting requirements.—Information required to be reported by the regulations prescribed under paragraph (1) shall not exceed the information required to be retained by the reporting financial institution pursuant to section 21 of the Federal Deposit Insurance Act and the regulations promulgated thereunder, unless—
 
 &emsp;&emsp;(A) the Board of Governors of the Federal Reserve System and the Secretary jointly determine that a particular item or items of information are not currently required to be retained under such section or such regulations; and
 
@@ -442,7 +442,7 @@ Regulations.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), the regulations required by paragraph (1) shall be prescribed in final form by the Secretary, in consultation with the Board of Governors of the Federal Reserve System, before the end of the 3-year period beginning on the date of enactment of the National Intelligence Reform Act of 2004.
+In general.—Subject to subparagraph (B), the regulations required by paragraph (1) shall be prescribed in final form by theSecretary, in consultation with the Board of Governors of the Federal Reserve System, before the end of the 3-year period beginning on the date of enactment of the National Intelligence Reform Act of 2004.
 
 &emsp;&emsp;(B)
 
@@ -476,7 +476,7 @@ Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (b)(1),
 
 Section 411 of the National Housing Act, referred to in subsec. (b)(1), which was classified to section 1730d of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2\(§§121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
+Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2 (§§121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
 
 Subsection (a)(5), referred to in subsec. (f), was redesignated subsection (a)(6) by section 410(a)(2) of Pub. L. 103–325.
 
@@ -518,7 +518,7 @@ Subsec. (g)(2). Pub. L. 107–56, §351(b), reenacted heading without change and
 
 Subsec. (g)(3). Pub. L. 107–56, §351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure.”
 
-Subsec. (g)(4)(B). Pub. L. 107–56, §358(b), substituted “, supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” for “or supervisory agency”.
+Subsec. (g)(4)(B). Pub. L. 107–56, §358(b), substituted “, supervisory agency, or United States intelligenceagency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” for “or supervisory agency”.
 
 Subsec. (h). Pub. L. 107–56, §352(a), reenacted heading without change and amended text of subsec. (h) generally. Prior to amendment, text read as follows:
 
@@ -586,7 +586,7 @@ Amendment by sections 6202(h) and 6203(c), (d) of Pub. L. 108–458 effective as
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed byFederal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 108–159 subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2001 Amendment
 
@@ -614,7 +614,7 @@ Pub. L. 107–56, title III, §319(c), Oct. 26, 2001, 115 Stat. 314, provided th
 
 #### “Federal Functional Regulator” Includes Commodity Futures Trading Commission
 
-Pub. L. 107–56, title III, §321(c), Oct. 26, 2001, 115 Stat. 315, provided that: “For purposes of this Act \[probably should be “title”, see Short Title of 2001 Amendment note set out under section 5301 of this title\] and any amendment made by this Act to any other provision of law, the term ‘Federal functional regulator’ includes the Commodity Futures Trading Commission.”
+Pub. L. 107–56, title III, §321(c), Oct. 26, 2001, 115 Stat. 315, provided that: “For purposes of this Act \[probably should be “title”, see Short Title of 2001 Amendment note set out under section 5301 of this title\] and any amendment made by this Act to any other provision oflaw, the term ‘Federal functional regulator’ includes the Commodity Futures Trading Commission.”
 
 #### Reporting of Suspicious Activities by Securities Brokers and Dealers; Investment Company Study
 

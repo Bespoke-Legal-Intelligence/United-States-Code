@@ -48,7 +48,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–687, §1301(a), substituted “1992” for “1989”.
 
-Subsec. (c)(1). Pub. L. 100–687, §1301(b)(2), (3), substituted “(1) In” for “(1)(A) Except as provided in paragraph (4) of this subsection, in”, redesignated cls. (i),\(ii), and (iii) as subpars. (A), (B), and (C), respectively, and struck out former subpar. (B) which required that, after providing notice, Administrator arrange promptly for evaluation to determine whether achievement of vocational goal by veteran is feasible.
+Subsec. (c)(1). Pub. L. 100–687, §1301(b)(2), (3), substituted “(1) In” for “(1)(A) Except as provided in paragraph (4) of this subsection, in”, redesignated cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, and struck out former subpar. (B) which required that, after providing notice, Administrator arrange promptly for evaluation to determine whether achievement of vocational goal by veteran is feasible.
 
 Subsec. (c)(2). Pub. L. 100–687, §1301(b)(1), (3)(B), added par. (2) and struck out former par. (2) which related to failure of veteran to participate in evaluation, and reduction of disability rating.
 
@@ -72,7 +72,7 @@ Section 2(e) of Pub. L. 102–291 provided that: “The following actions of the
 
 #### Information; Temporary Program; Administrator
 
-Section 111(b) of Pub. L. 98–543 directed Administrator of Veterans’ Affairs to provide, not later than Apr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
+Section 111(b) of Pub. L. 98–543 directed Administrator of Veterans’ Affairs to provide, not later thanApr. 1, 1985, to certain veterans with service-connected disabilities, a statement containing information explaining subsec. (b) of this section, information explaining purposes and availability of and eligibility for, and procedures for pursuing, a vocational rehabilitation program under chapter 31 of this title, and a summary description of scope of services and assistance available under chapter 31.
 
 #### Report to Congressional Committees; Trial Program
 

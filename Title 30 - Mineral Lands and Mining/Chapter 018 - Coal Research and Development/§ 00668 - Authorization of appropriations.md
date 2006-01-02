@@ -12,5 +12,9 @@ There are hereby authorized to be appropriated for each fiscal year beginning af
 
 Sums appropriated to carry out the purposes of this chapter shall remain available until expended.
 
-(Pub. L. 86–599, §8, July 7, 1960, 74 Stat. 337.)
+(Pub. L. 86–599, §5, formerly §8, July 7, 1960, 74 Stat. 337; renumbered §5, Pub. L. 109–58, title X, §1009(a)(1)(D), Aug. 8, 2005, 119 Stat. 934.)
+
+#### Prior Provisions
+
+A prior section 5 of Pub. L. 86–599 was renumbered section 3 and is classified to section 665 of this title.
 

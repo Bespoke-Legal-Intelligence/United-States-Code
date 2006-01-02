@@ -6,7 +6,7 @@ Development and Transmittal to Congress.—
 
 &emsp;(1)
 
-Development.—The President, acting through the Secretary and in consultationwith the Attorney General, shall develop a national strategy for combating money laundering and related financial crimes.
+Development.—The President, acting through the Secretary and in consultation with the Attorney General, shall develop a national strategy for combating money laundering and related financial crimes.
 
 &emsp;(2)
 

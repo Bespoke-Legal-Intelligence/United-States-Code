@@ -44,7 +44,7 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 (3) The Secretary of State shall prescribe regulations for the implementation of any in-kind exchange of properties pursuant to subsection (b)(5) of this section.
 
-(4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretary of State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
+(4) At least 15 days before entering into any reciprocal agreement for the exchange of property with another foreign government, the Secretaryof State shall notify the Committee on Foreign Affairs and the Committee on Public Works and Transportation of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 (5)(A) Proceeds from the disposition of properties acquired pursuant to this subsection shall be credited to the Foreign Service Buildings Fund (referred to in section 9 of the Foreign Service Buildings Act, 1926 \[22 U.S.C. 300\]).
 

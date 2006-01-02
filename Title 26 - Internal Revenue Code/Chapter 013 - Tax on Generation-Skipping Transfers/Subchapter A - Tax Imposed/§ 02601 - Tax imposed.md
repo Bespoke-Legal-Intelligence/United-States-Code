@@ -14,7 +14,7 @@ Section 1433 of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §10
 
 “(a)
 
-General Rule.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle D (§§1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] shall apply to any generation-skipping transfer (within the meaning of section 2611 of the Internal Revenue Code of 1986) made after the date of the enactment of this Act \[Oct. 22, 1986\].
+General Rule.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle D (§§1431–1433) of title XIV of Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] shall apply to any generation-skipping transfer (within the meaning of section 2611 of the Internal Revenue Code of 1986) made after the date of the enactment of this Act \[Oct. 22, 1986\].
 
 “(b)
 
@@ -110,7 +110,7 @@ Election.—An election under paragraph (1) shall be made at such time and in su
 
 \[Section 1014(h)(3)(B) of Pub. L. 100–647 provided that: “Clause (iii) of section 1443(b)(3)(B) \[1433(b)(3)(B)\] of the Reform Act \[Pub. L. 99–514, set out above\] (as amended by subparagraph (A)) shall apply only to transfers after June 10, 1987.”\]
 
-\[Section 1014(h)(5) of Pub. L. 100–647 provided that: “Subparagraph (C) of section 1433(b)(2) of the Reform Act \[Pub. L. 99–514, set out above\] shall not exempt any direct skip from the amendments made by subtitle D of title XIV of the Reform Act \[Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of this title, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] if—
+\[Section 1014(h)(5) of Pub. L. 100–647 provided that: “Subparagraph (C) of section 1433(b)(2) of the Reform Act \[Pub. L. 99–514, set out above\] shall not exempt any direct skip from the amendments made by subtitle D of title XIV of the Reform Act \[Pub. L. 99–514, amending chapter 13 of this title, enacting section 2515 of thistitle, and amending sections 164, 303, 691, 2013, 2032, and 6166 of this title\] if—
 
 &emsp;\[“(A) such direct skip results from the application of section 2044 of the 1986 Code, and
 
@@ -139,8 +139,4 @@ Exceptions.—The amendments made by this section shall not apply to any generat
 Trust equivalents.—For purposes of paragraph (2), in the case of a trust equivalent within the meaning of subsection (d) of section 2611 of the Internal Revenue Code of 1986, the provisions of such subsection (d) shall apply.”
 
 \[Amendment of section 2006(c) of Pub. L. 94–455, set out above, by section 702(n)(1) of Pub. L. 95–600, effective Oct. 4, 1976, see section 702(n)(5) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 2613 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 164, 303, 2602, 2603, 2604, 2654, 2661, 6166 of this title.
 

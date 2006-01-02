@@ -16,7 +16,7 @@ Another prior section 804, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 
 
 #### Amendments
 
-1986—Pars. (2), (3). Pub. L. 99–514 redesignated par. (3) as (2), substituted “section 806(a)” for “section 806(b)”, and struck out former par. (2), which read as follows: “the special life insurance company deduction determined under section 806(a), and”.
+1986—Pars. (2), (3). Pub. L. 99–514 redesignated par. (3) as (2), substituted “section 806(a)” for “section 806(b)”,and struck out former par. (2), which read as follows: “the special life insurance company deduction determined under section 806(a), and”.
 
 #### Effective Date of 1986 Amendment
 
@@ -25,8 +25,4 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 801, 806, 810 of this title.
 

@@ -18,7 +18,7 @@ Priorities in Selecting and Scheduling Projects.—When selecting and scheduling
 
 &emsp;(5) Improvements that will pay for the investment by achieving lower operating or maintenance costs should be carried out before other improvements.
 
-&emsp;(6) Construction operations should be scheduled so that the fewest possible passengers are inconvenienced, transportation is maintained, and the on-time performance of Northeast Corridor commuter rail passenger and rail freight transportation is optimized.
+&emsp;(6) Construction operations should be scheduled so that the fewest possible passengers are inconvenienced, transportation is maintained, and the on-time performance of NortheastCorridor commuter rail passenger and rail freight transportation is optimized.
 
 &emsp;(7) Planning should focus on completing activities that will provide immediate benefits to users of the Northeast Corridor.
 

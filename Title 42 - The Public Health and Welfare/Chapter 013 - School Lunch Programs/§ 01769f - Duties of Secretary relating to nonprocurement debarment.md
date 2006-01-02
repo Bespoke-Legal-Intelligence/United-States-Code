@@ -80,7 +80,7 @@ The Secretary shall—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the other provisions of this paragraph and notwithstanding any other provision of law except subsection (e) of this section, if, after deciding to initiate nonprocurement debarment proceedings pursuant to paragraph (1), the Secretary decides to debar a contractor, the debarment shall be for a period of not less than 3 years.
+&emsp;&emsp;Subject to the other provisions of this paragraph and notwithstanding any other provision of law except subsection (e) of thissection, if, after deciding to initiate nonprocurement debarment proceedings pursuant to paragraph (1), the Secretary decides to debar a contractor, the debarment shall be for a period of not less than 3 years.
 
 #### (B) Previous debarment
 

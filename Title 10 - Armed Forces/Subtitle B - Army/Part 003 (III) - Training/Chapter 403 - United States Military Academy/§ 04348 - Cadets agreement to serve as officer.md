@@ -36,7 +36,9 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314.)
+(f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under section <sup>1</sup> (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335.)
 
 Historical and Revision Notes
 
@@ -56,6 +58,8 @@ The word “agreement” is substituted for the word “articles”. The words �
 
 #### Amendments
 
+2006—Subsec. (f). Pub. L. 109–163 added subsec. (f).
+
 1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
 1989—Subsec. (a)(2)(B). Pub. L. 101–189, §511(b), substituted “six years” for “five years”.
@@ -68,13 +72,13 @@ Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted “the term” after “I
 
 &emsp;“(1) unless sooner separated from the Academy, complete the course of instruction at the Academy;
 
-&emsp;“(2) accept an appointment and, unless sooner separated from the service, serve as a commissioned officer of the Regular Army or the Regular Air Force for at least the five years immediately after graduation; and
+&emsp;“(2) accept an appointment and, unless sooner separated from the service, serve as a commissioned officer of the Regular Army or the Regular Air Force forat least the five years immediately after graduation; and
 
 &emsp;“(3) accept an appointment as a commissioned officer as a Reserve for service in the Army Reserve or the Air Force Reserve and, unless sooner separated from the service, remain therein until at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary of his graduation, if an appointment in the regular component of that armed force is not tendered to him, or if he is permitted to resign as a commissioned officer of that component before that anniversary.
 
 > If the cadet is a minor and has parents or a guardian, he may sign the agreement only with the consent of the parents or guardian.
 
-“(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary ofthe Army to the Army Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years.”
+“(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Army to the Army Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years.”
 
 1984—Subsec. (a). Pub. L. 98–525, §541(a), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
 
@@ -111,4 +115,10 @@ Section 5(c) of Pub. L. 88–276 provided that: “The amendments made by this s
 #### Regulations Implementing 1985 Amendment
 
 Section 512(d) of Pub. L. 99–145 provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\].”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

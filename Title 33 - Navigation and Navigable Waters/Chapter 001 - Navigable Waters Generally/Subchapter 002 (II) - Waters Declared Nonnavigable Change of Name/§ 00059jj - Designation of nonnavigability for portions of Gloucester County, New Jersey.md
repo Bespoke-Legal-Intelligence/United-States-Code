@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) along the same N. 61°2835 E. 32.31 feet to the point of beginning.
 
-&emsp;&emsp;(B) Said beginning point also being the end of the thirteenth course and from said beginning point runs; thence, along the aformentioned Easterly line of Church Street—
+&emsp;&emsp;(B) Said beginning point also being the end of the thirteenth course and from said beginning point runs; thence, along the aformentioned <sup>3</sup> Easterly line of Church Street—
 
 &emsp;&emsp;&emsp;(i) N. 11°2850 E. 1052.14 feet; thence
 
@@ -134,7 +134,7 @@
 
 #### (c) Termination of designation
 
-If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup>3</sup> of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
+If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) <sup>4</sup> of this section is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b) of this section, or if work in connection with any activity authorized under subsection (b) of this section isnot commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) of this section for that area or portion of an area shall terminate.
 
 (Pub. L. 107–66, title I, §107, Nov. 12, 2001, 115 Stat. 494.)
 
@@ -148,5 +148,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C),
 
 <i><sup>2</sup></i><i> So in original. Probably should be paragraph “(2)”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “subsection (a)(2)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “aforementioned”.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “subsection (a)(2)”.</i>
 

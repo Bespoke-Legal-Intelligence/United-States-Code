@@ -2,17 +2,17 @@
 
 (a) An enlisted member who accepts an appointment as an officer shall, for service as an officer, be paid the greater of—
 
-&emsp;(1) the pay and allowances to which he is entitled as an officer; or
+&emsp;(1) the pay and allowances to which the officer is entitled as an officer; or
 
-&emsp;(2) the pay and allowances to which he would be entitled if he were in the last enlisted grade he held before his appointment as an officer.
+&emsp;(2) the pay and allowances to which the officer would be entitled if the officer were in the last enlisted grade the officer held before the appointment as an officer.
 
 (b) A warrant officer who accepts an appointment as a commissioned officer in a pay grade above W–4 shall, for service as such a commissioned officer, be paid the greater of—
 
-&emsp;(1) the pay and allowances to which he is entitled as such a commissioned officer;
+&emsp;(1) the pay and allowances to which the officer is entitled as such a commissioned officer;
 
-&emsp;(2) the pay and allowances to which he would be entitled if he were in the last warrant officer grade he held before his appointment as such a commissioned officer; or
+&emsp;(2) the pay and allowances to which the officer would be entitled if the officer were in the last warrant officer grade the officer held before the appointment as such a commissioned officer; or
 
-&emsp;(3) in the case of an officer who was formerly an enlisted member, the pay and allowances to which he would be entitled if he were in the last enlisted grade he held before his appointment as an officer.
+&emsp;(3) in the case of an officer who was formerly an enlisted member, the pay and allowances to which the officer would be entitled if the officer were in the last enlisted grade the officer held before the appointment as an officer.
 
 (c) For the purposes of this section—
 
@@ -22,15 +22,53 @@
 
 &emsp;&emsp;(B) subject to subsection (e), allowances under chapter 7 of this title; and
 
-&emsp;(2) the rates of pay and allowances of a grade which an officer formerly held are those to which the officer would have been entitled had he remained in that grade and continued to receive the increases in pay and allowances authorized for that grade, as otherwise provided in this title.
+&emsp;(2) the rates of pay and allowances of a grade which an officer formerly held are those to which the officer would have been entitled had the officer remained in that grade and continued to receive the increases in pay and allowances authorized for that grade, as otherwise provided in this title.
 
-(d) In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under section 301 of this title, special pay for diving duty under section 304 of this title, for hardship duty under section 305 of this title, and for sea duty under section 305a of this title, and proficiency pay under section 307 of this title may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.
+(d)(1) In determining the amount of the pay and allowances of a grade formerly held by an officer, the following special and incentive pays may be considered only so long as the officer continues to perform the duty that creates the entitlement to, or eligibility for, that pay and would otherwise be eligible to receive that pay in the former grade:
+
+&emsp;(A) Incentive pay for hazardous duty under section 301 of this title.
+
+&emsp;(B) Submarine duty incentive pay under section 301c of this title.
+
+&emsp;(C) Special pay for diving duty under section 304 of this title.
+
+&emsp;(D) Hardship duty pay under section 305 of this title.
+
+&emsp;(E) Career sea pay under section 305a of this title.
+
+&emsp;(F) Special pay for service as a member of a Weapons of Mass Destruction Civil Support Team under section 305b of this title.
+
+&emsp;(G) Assignment incentive pay under section 307a of this title.
+
+&emsp;(H) Special pay for duty subject to hostile fire or imminent danger under section 310 of this title.
+
+&emsp;(I) Special pay or bonus for an extension of duty at a designated overseas location under section 314 of this title.
+
+&emsp;(J) Foreign language proficiency pay under section 316 of this title.
+
+&emsp;(K) Critical skill retention bonus under section 323 of this title.
+
+(2) The following special and incentive pays are dependent on a member being in an enlisted status and may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer:
+
+&emsp;(A) Special duty assignment pay under section 307 of this title.
+
+&emsp;(B) Reenlistment bonus under section 308 of this title.
+
+&emsp;(C) Enlistment bonus under section 309 of this title.
+
+&emsp;(D) Career enlisted flyer incentive pay under section 320 of this title.
 
 (e) The clothing allowance under section 418 of this title may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer if the officer is entitled to a uniform allowance under section 415 of this title.
 
-(Added Pub. L. 91–484, §1(1), Oct. 21, 1970, 84 Stat. 1083; amended Pub. L. 96–343, §6(a)(1), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, §619(d), Nov. 18, 1997, 111 Stat. 1790; Pub. L. 105–261, div. A, title VI, §617(b), Oct. 17, 1998, 112 Stat. 2041.)
+(Added Pub. L. 91–484, §1(1), Oct. 21, 1970, 84 Stat. 1083; amended Pub. L. 96–343, §6(a)(1), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, §619(d), Nov. 18, 1997, 111 Stat. 1790; Pub. L. 105–261, div. A, title VI, §617(b), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 109–163, div. A, title VI, §686(a), (b), Jan. 6, 2006, 119 Stat. 3325, 3326.)
 
 #### Amendments
+
+2006—Subsecs. (a), (b). Pub. L. 109–163, §686(b)(1), substituted “the officer” for “he” wherever appearing and “the appointment” for “his appointment” wherever appearing.
+
+Subsec. (c)(2). Pub. L. 109–163, §686(b)(2), substituted “the officer remained” for “he remained”.
+
+Subsec. (d). Pub. L. 109–163, §686(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under section 301 of this title, special pay for diving duty under section 304 of this title, for hardship duty under section 305 of this title, and for sea duty under section 305a of this title, and proficiency pay under section 307 of this title may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.”
 
 1998—Subsec. (d). Pub. L. 105–261 substituted “hardship duty” for “duty at a hardship duty location”.
 
@@ -38,7 +76,11 @@
 
 1991—Subsec. (c)(1). Pub. L. 102–25 struck out “of this section” after “subsection (d)” in subpar. (A) and after “subsection (e)” in subpar. (B).
 
-1980—Pub. L. 96–343 substituted “and warrant officers appointed as officers:” for “appointed as officers;” insection catchline, and, in generally revising section, struck out provision for temporary appointment of enlisted members as officers, provided for pay and allowances for warrant officers who accept appointment as commissioned officers, and specified what pay and allowances include and what rates and allowances of a grade which an officer formerly held are for purposes of this section.
+1980—Pub. L. 96–343 substituted “and warrant officers appointed as officers:” for “appointed as officers;” in section catchline, and, in generally revising section, struck out provision for temporary appointment of enlisted members as officers, provided for pay and allowances for warrant officers who accept appointment as commissioned officers, and specified what pay and allowances include and what rates and allowances of a grade which an officer formerly held are for purposes of this section.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–163, div. A, title VI, §686(c), Jan. 6, 2006, 119 Stat. 3326, provided that: “Subsection (d) of section 907 of title 37, United States Code, as amended by subsection (a), shall apply with respect to any acceptance by an enlisted member of the Armed Forces of an appointment as an officer made on or after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
 #### Effective Date of 1980 Amendment
 

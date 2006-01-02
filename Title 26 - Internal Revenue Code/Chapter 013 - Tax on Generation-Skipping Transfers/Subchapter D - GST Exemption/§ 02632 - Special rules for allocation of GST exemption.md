@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) before the date that the individual attains age 46,
 
-&emsp;&emsp;&emsp;&emsp;(II) on or before one or more dates specified in the trust instrument thatwill occur before the date that such individual attains age 46, or
+&emsp;&emsp;&emsp;&emsp;(II) on or before one or more dates specified in the trust instrument that will occur before the date that such individual attains age 46, or
 
 &emsp;&emsp;&emsp;&emsp;(III) upon the occurrence of an event that, in accordance with regulations prescribed by the Secretary, may reasonably be expected to occur before the date that such individual attains age 46,
 
@@ -134,7 +134,7 @@
 
 #### (1) In general
 
-&emsp;Any portion of an individual's GST exemption which has not been allocated within the time prescribed by subsection (a) shall be deemed to be allocated as follows—
+&emsp;Any portion of an individual's GST exemption which has not been allocated within thetime prescribed by subsection (a) shall be deemed to be allocated as follows—
 
 &emsp;&emsp;(A) first, to property which is the subject of a direct skip occurring at such individual's death, and
 
@@ -185,8 +185,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2642 of this title.
 

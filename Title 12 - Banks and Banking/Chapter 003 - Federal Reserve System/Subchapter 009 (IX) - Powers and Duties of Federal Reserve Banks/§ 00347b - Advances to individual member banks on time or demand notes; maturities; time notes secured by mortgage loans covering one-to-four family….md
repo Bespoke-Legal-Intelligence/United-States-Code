@@ -108,7 +108,11 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;(iii) is not expected to be placed in conservatorship or receivership.
 
-(Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Pub. L. 93–449, §5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, §106, Mar. 31, 1980, 94 Stat. 140; renumbered §10B and amended Pub. L. 102–242, title I, §142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, §2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489.)
+(Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Pub. L. 93–449, §5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, §106, Mar. 31, 1980, 94 Stat. 140; renumbered §10B and amended Pub. L. 102–242, title I, §142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, §2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–173, §9(c), Feb. 15, 2006, 119 Stat. 3616.)
+
+#### Amendment of Subsection (b)(3)(A)(ii)
+
+<i>Pub. L. 109–173, §9(c), (j), Feb. 15, 2006, 119 Stat. 3616, 3618, provided that, effective Mar. 31, 2006, subsection (b)(3)(A)(ii) of this section is amended by striking “any deposit insurance fund in” and inserting “the Deposit Insurance Fund of”.</i>
 
 #### Amendments
 
@@ -125,6 +129,10 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 1933—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless of their capital, and empowered President to extend termination date one year beyond March 3, 1934.
 
 Act Feb. 3, 1933, extended termination date from “March 3, 1933” to “March 3, 1934”.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date of 1996 Amendment
 

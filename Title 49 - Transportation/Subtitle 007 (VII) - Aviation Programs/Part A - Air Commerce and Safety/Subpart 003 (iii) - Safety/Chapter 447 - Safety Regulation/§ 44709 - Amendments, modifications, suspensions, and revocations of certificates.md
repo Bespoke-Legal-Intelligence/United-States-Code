@@ -2,7 +2,7 @@
 
 (a)
 
-Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder, air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
+Reinspection and Reexamination.—The Administrator of the Federal Aviation Administration may reinspect at any time a civil aircraft, aircraft engine, propeller, appliance, design organization, production certificate holder,air navigation facility, or air agency, or reexamine an airman holding a certificate issued under section 44703 of this title.
 
 (b)
 
@@ -30,7 +30,7 @@ Appeals.—(1) A person adversely affected by an order of the Administrator unde
 
 &emsp;&emsp;(i) that control or abatement of aircraft noise or sonic boom and the public health and welfare do not require affirmation of the order; or
 
-&emsp;&emsp;(ii) the order, as it is related to a violation of aircraft noise or sonic boom standards andregulations, is not consistent with safety in air commerce or air transportation.
+&emsp;&emsp;(ii) the order, as it is related to a violation of aircraft noise or sonic boom standards and regulations, is not consistent with safety in air commerce or air transportation.
 
 (2) The Board may modify a suspension or revocation of a certificate to imposition of a civil penalty.
 

@@ -46,7 +46,7 @@ Section 1374 of title 10, referred to in subsec. (a)(3), was repealed by Pub. L.
 
 #### Codification
 
-Section was formerly classified to section 316 of title 37 prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
+Section was formerly classified to section 316 of title 37 prior to the general revision and enactment of Title37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
 
 #### Amendments
 

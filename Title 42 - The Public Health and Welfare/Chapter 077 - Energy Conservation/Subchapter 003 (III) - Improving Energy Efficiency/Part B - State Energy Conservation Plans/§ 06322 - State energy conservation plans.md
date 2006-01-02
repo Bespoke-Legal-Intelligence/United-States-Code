@@ -54,7 +54,7 @@ Each proposed State energy conservation plan may include—
 
 &emsp;(7) programs to promote the adoption of integrated energy plans which provide for—
 
-&emsp;&emsp;(A) periodic evaluation of a State's energy needs, available energy resources (including greater energy efficiency), and energy costs; and
+&emsp;&emsp;(A) periodic evaluation of a State's energy needs, available energy resources (includinggreater energy efficiency), and energy costs; and
 
 &emsp;&emsp;(B) utilization of adequate and reliable energy supplies, including greater energy efficiency, that meet applicable safety, environmental, and policy requirements at the lowest cost;
 
@@ -112,7 +112,7 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 (3) Each State energy technology commercialization services program shall develop and maintain a data base of engineering and scientific experts in energy technologies and product commercialization interested in participating in the service. Such data base shall, at a minimum, include faculty of institutions of higher education, retired manufacturing experts, and national laboratory personnel.
 
-(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, which shall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient for the services; and (C) the ability of the recipient to pay for the services.
+(4) The services provided by the energy technology commercialization services programs established under this subsection shall be available to any small or start-up business. Such service programs shall charge fees which are affordable to a party eligible for assistance, which shall be determined by examining factors, including the following: (A) the costs of the services received; (B) the need of the recipient forthe services; and (C) the ability of the recipient to pay for the services.
 
 (5) For the purposes of this subsection, the term—
 
@@ -122,9 +122,15 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 &emsp;(C) “start-up business” means a small business which has been in existence for 5 years or less.
 
-(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478.)
+#### (g) Review of plans
+
+The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e) of this section. Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
+
+(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §123(a), Aug. 8, 2005, 119 Stat. 616.)
 
 #### Amendments
+
+2005—Subsec. (g). Pub. L. 109–58 added subsec. (g).
 
 1998—Subsec. (a)(1). Pub. L. 105–388, §5(a)(8)(A), inserted “of” after “of the implementation”.
 

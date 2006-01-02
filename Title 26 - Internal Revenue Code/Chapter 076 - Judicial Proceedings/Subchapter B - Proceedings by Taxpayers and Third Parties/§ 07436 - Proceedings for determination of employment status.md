@@ -76,7 +76,3 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 Pub. L. 105–206, title III, §3103(c), July 22, 1998, 112 Stat. 731, provided that: “The amendments made by this section \[amending this section and sections 7443A and 7463 of this title\] shall apply to proceedings commenced after the date of the enactment of this Act \[July 22, 1998\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6511, 7421, 7453, 7481 of this title.
-

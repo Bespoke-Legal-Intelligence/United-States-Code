@@ -1,0 +1,26 @@
+### §1358. Allocation of credits, income, and deductions
+
+#### (a) Qualifying shipping activities
+
+For purposes of this chapter, the qualifying shipping activities of an electing corporation shall be treated as a separate trade or business activity distinct from all other activities conducted by such corporation.
+
+#### (b) Exclusion of credits or deductions
+
+(1) No deduction shall be allowed against the notional shipping income of an electing corporation, and no credit shall be allowed against the tax imposed by section 1352(a)(2).<sup>1</sup>
+
+(2) No deduction shall be allowed for any net operating loss attributable to the qualifying shipping activities of any person to the extent that such loss is carried forward by such person from a taxable year preceding the first taxable year for which such person was an electing corporation.
+
+#### (c) Transactions not at arm's length
+
+Section 482 applies in accordance with this subsection to a transaction or series of transactions—
+
+&emsp;(1) as between an electing corporation and another person, or
+
+&emsp;(2) as between an <sup>2</sup> person's qualifying shipping activities and other activities carried on by it.
+
+(Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1456.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “1352(2).”.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+

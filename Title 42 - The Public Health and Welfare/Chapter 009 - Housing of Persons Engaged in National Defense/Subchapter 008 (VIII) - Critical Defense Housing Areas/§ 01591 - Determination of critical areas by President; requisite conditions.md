@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any other provisions of this Act, the authority contained in titles II or III of this Act shall not be exercised in any area unless the President shall have determined that such area is a critical defense housing area.
 
-(b) No area shall be determined to be a critical defense housing area pursuant to this section unless the President finds that in such area all the following conditions exist:
+(b) No area shall be determined to be a critical defense housing area pursuant to this sectionunless the President finds that in such area all the following conditions exist:
 
 &emsp;(1) a new defense plant or installation has been or is to be provided, or an existing defense plant or installation has been or is to be reactivated or its operation substantially expanded;
 
@@ -26,5 +26,5 @@ Section 617 of act Sept. 1, 1951, provided that: “Insofar as the provisions of
 
 #### Separability
 
-Second sentence of section 618 of act Sept. 1, 1951, provided that: “Notwithstanding any other evidence of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, orinvalidate the remainder of this Act or its application to other persons and circumstances, but shall be confined in its operation to the provisions of this Act or the application thereof to the persons and circumstances directly involved in the controversy in which such judgment shall have been rendered.”
+Second sentence of section 618 of act Sept. 1, 1951, provided that: “Notwithstanding any other evidence of the intention of Congress, it is hereby declared to be the controlling intent of Congress that if any provisions of this Act \[see Short Title of 1951 Amendment note set out under section 1501 of this title\], or the application thereof to any persons or circumstances, shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act or its application to other persons and circumstances, but shall be confined in its operation to the provisions of this Act or the application thereof to the persons and circumstances directly involved in the controversy in which such judgment shall have been rendered.”
 

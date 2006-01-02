@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) assessment of the priorities for and enhancement of the preparedness of public health institutions, providers of medical care, and other emergency service personnel (including firefighters) to detect, diagnose, and respond (including mental health response) to a biological threat or attack;
 
-&emsp;&emsp;(G) in the recognition that medical and public health professionals are likely to provide much of the first response to such an attack, development and enhancement of the quality of joint planning and training programs that address the public health and medical consequences of a biological threat or attack on the civilian population between—
+&emsp;&emsp;(G) in the recognition that medical and public health professionals are likely to provide much of the first response to such anattack, development and enhancement of the quality of joint planning and training programs that address the public health and medical consequences of a biological threat or attack on the civilian population between—
 
 &emsp;&emsp;&emsp;(i) local firefighters, ambulance personnel, police and public security officers, or other emergency response personnel (including private response contractors); and
 
@@ -292,7 +292,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 For transfer of functions, personnel, assets, and liabilities of the National Domestic Preparedness Office of the Federal Bureau of Investigation, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(3), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the Office of Emergency Preparedness of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Office of Emergency Preparedness of the Department of Health and Human Services, including the functions of the Secretary of Health and HumanServices and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Other Reports
 

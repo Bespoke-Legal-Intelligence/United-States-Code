@@ -40,7 +40,7 @@ Before making any written determination or background file document open or avai
 
 &emsp;(2) information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy, and which is in fact properly classified pursuant to such Executive order;
 
-&emsp;(3) information specifically exempted from disclosure by any statute (other than this title) which is applicable to the Internal Revenue Service;
+&emsp;(3) information specifically exempted from disclosure by any statute (other than thistitle) which is applicable to the Internal Revenue Service;
 
 &emsp;(4) trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
@@ -72,7 +72,7 @@ Before making any written determination or background file document open or avai
 
 #### (e) Background file documents
 
-Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of thatperson, any background file document relating to the written determination.
+Whenever the Secretary makes a written determination open to public inspection under this section, he shall also make available to any person, but only upon the written request of that person, any background file document relating to the written determination.
 
 #### (f) Resolution of disputes relating to disclosure
 
@@ -122,7 +122,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (6) Publicity of Tax Court proceedings
 
-&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connectionwith proceedings under this section may be closed to the public or to inspection by the public.
+&emsp;Notwithstanding sections 7458 and 7461, the Tax Court may, in order to preserve the anonymity, privacy, or confidentiality of any person under this section, provide by rules adopted under section 7453 that portions of hearings, testimony, evidence, and reports in connection with proceedings under this section may be closed to the public or to inspection by the public.
 
 #### (g) Time for disclosure
 
@@ -228,7 +228,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (2) Additional documents treated as Chief Counsel advice
 
-&emsp;The Secretary may by regulation provide that this section shall apply to any advice or instruction prepared and issued by the Office of Chief Counsel which is not described in paragraph (1).
+&emsp;The Secretary may by regulation provide that this section shall apply to any advice orinstruction prepared and issued by the Office of Chief Counsel which is not described in paragraph (1).
 
 #### (3) Deletions for Chief Counsel advice
 
@@ -278,7 +278,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;The Secretary is authorized to assess actual costs—
 
-&emsp;&emsp;(A) for duplication of any written determination or background file document madeopen or available to the public under this section, and
+&emsp;&emsp;(A) for duplication of any written determination or background file document made open or available to the public under this section, and
 
 &emsp;&emsp;(B) incurred in searching for and making deletions required under subsection (c)(1) or (i)(3) from any written determination or background file document which is available to public inspection only upon written request.
 
@@ -409,8 +409,4 @@ Section 1201(e) of Pub. L. 94–455 provided that: “Except as otherwise provid
 #### Pending Requests
 
 Section 1201(b) of Pub. L. 94–455 provided that: “Any written determination or background file document which is the subject of a judicial proceeding pursuant to section 552 of title 5, United States Code, commenced before January 1, 1976, shall not be treated as a written determination subject to subsection (h)(1) \[subsec. (h)(1) of this section\], but shall be available to the complainant along with the background file document, if requested, as soon as practicable after July 1, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 7430, 7809 of this title.
 

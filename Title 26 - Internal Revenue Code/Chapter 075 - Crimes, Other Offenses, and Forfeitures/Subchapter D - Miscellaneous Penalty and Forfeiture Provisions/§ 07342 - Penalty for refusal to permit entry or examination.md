@@ -4,7 +4,3 @@ Any owner of any building or place, or person having the agency or superintenden
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 872.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4083, 7606 of this title.
-

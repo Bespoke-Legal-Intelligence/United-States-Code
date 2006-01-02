@@ -77,10 +77,13 @@
 | :--- | ---: |
 | 5757\.<sup>1</sup> | Extended assignment incentive. |
 | [5759\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005759%20-%201%20Retention%20and%20relocation%20bonuses%20for%20the%20Federal%20Bureau%20of%20Investigation.md) | Retention and relocation bonuses for the Federal Bureau of Investigation. |
+| [5760\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005760%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20repatriation%20of%20employees%20held%20captive.md) | Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title XI, §1121(b), Jan. 6, 2006, 119 Stat. 3452, added item 5760.
 
 2004—Pub. L. 108–447, div. B, title I, §113(b), Dec. 8, 2004, 118 Stat. 2869, added item 5759.
 

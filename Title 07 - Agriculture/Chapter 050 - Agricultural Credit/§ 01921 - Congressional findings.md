@@ -38,7 +38,7 @@ Pub. L. 99–409, §1, Aug. 28, 1986, 100 Stat. 923, provided: “That this Act 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title \[enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986,and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title\] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
+Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title \[enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title\] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
 
 #### Short Title of 1978 Amendment
 
@@ -46,7 +46,7 @@ Pub. L. 95–334, §1, Aug. 4, 1978, 92 Stat. 420, provided: “That this Act \[
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–419 provided: “That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590<i>o</i>, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the ‘Rural Development Act of 1972’.”
+Section 1 of Pub. L. 92–419 provided: “That this Act \[enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992,2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590<i>o</i>, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section\] may be cited as the ‘Rural Development Act of 1972’.”
 
 #### Short Title
 

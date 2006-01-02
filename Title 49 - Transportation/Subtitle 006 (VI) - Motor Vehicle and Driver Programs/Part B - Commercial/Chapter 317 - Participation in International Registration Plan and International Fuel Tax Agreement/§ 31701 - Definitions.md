@@ -14,7 +14,7 @@ In this chapter—
 
 &emsp;(4) “International Registration Plan” means the interstate agreement on apportioning vehicle registration fees paid by motor carriers, developed by the American Association of Motor Vehicle Administrators.
 
-&emsp;(5) “Regional Fuel Tax Agreement” means the interstate agreement on collecting and distributing fuel use taxes paid by motor carriers in the States of Maine, Vermont, and New Hampshire.
+&emsp;(5) “Regional Fuel Tax Agreement” means the interstate agreement on collecting anddistributing fuel use taxes paid by motor carriers in the States of Maine, Vermont, and New Hampshire.
 
 &emsp;(6) “State” means the 48 contiguous States and the District of Columbia.
 

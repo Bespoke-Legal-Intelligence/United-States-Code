@@ -6,7 +6,7 @@
 | [2032\.](%C2%A7%2002032%20-%20Alternate%20valuation.md) | Alternate valuation. |
 | [2032A.](%C2%A7%2002032A%20-%20Valuation%20of%20certain%20farm%2C%20etc.%2C%20real%20property.md) | Valuation of certain farm, etc., real property. |
 | [2033\.](%C2%A7%2002033%20-%20Property%20in%20which%20the%20decedent%20had%20an%20interest.md) | Property in which the decedent had an interest. |
-| \[2033A. | Repealed.\] |
+| \[2033A. | Renumbered.\] |
 | [2034\.](%C2%A7%2002034%20-%20Dower%20or%20curtesy%20interests.md) | Dower or curtesy interests. |
 | [2035\.](%C2%A7%2002035%20-%20Adjustments%20for%20certain%20gifts%20made%20within%203%20years%20of%20decedent%27s%20death.md) | Adjustments for certain gifts made within 3 years of decedent's death. |
 | [2036\.](%C2%A7%2002036%20-%20Transfers%20with%20retained%20life%20estate.md) | Transfers with retained life estate. |

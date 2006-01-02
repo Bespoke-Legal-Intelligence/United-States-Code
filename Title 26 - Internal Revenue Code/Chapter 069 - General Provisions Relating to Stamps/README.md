@@ -18,10 +18,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6422, 7801 of this title.
-
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 90–618 without corresponding amendment of analysis.</i>
 
 

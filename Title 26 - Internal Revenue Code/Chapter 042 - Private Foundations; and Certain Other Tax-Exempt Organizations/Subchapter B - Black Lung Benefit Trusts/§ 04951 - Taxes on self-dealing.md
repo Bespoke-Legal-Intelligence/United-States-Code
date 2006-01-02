@@ -48,7 +48,7 @@ If more than one person is liable under any paragraph of subsection (a) or (b) w
 
 &emsp;&emsp;(B) the furnishing of goods, services, or facilities by a disqualified person to such a trust shall not be an act of self-dealing if the furnishing is without charge and if the goods, services, or facilities so furnished are used exclusively for the purposes specified in section 501(c)(21)(A); and
 
-&emsp;&emsp;(C) the payment of compensation (and the payment or reimbursement of expenses) by such a trust to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the trust shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive.
+&emsp;&emsp;(C) the payment of compensation (and the payment or reimbursement of expenses) bysuch a trust to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the trust shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive.
 
 #### (e) Definitions
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (2) Amount involved
 
-&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value ofthe other property received; except that in the case of services described in subsection (d)(2)(C), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
+&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that in the case of services described in subsection (d)(2)(C), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
 &emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 
@@ -130,13 +130,9 @@ Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1980 Amendment
 
-For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
+For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tiertax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
 #### Effective Date
 
 Subchapter effective with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as a note under section 192 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 468A, 4953, 4963, 6213, 7422, 7454 of this title.
 

@@ -36,7 +36,7 @@ Planning assistance under this subchapter shall be used in conjunction with any 
 
 #### (4) Comprehensive planning process
 
-&emsp;Any overall State economic development planning assisted under this section shall be a part of a comprehensive planning process that shall consider the provision of public works to—
+&emsp;Any overall State economic development planning assisted under this section shall be a part of a comprehensive planning process thatshall consider the provision of public works to—
 
 &emsp;&emsp;(A) promote economic development and opportunity;
 
@@ -62,7 +62,7 @@ A prior section 3143, Pub. L. 89–136, title II, §203, Aug. 26, 1965, 79 Stat.
 
 #### Amendments
 
-2004—Subsec. (d)(1). Pub. L. 108–373, §201(1), inserted “ ,to the maximum extent practicable,” after “shall be developed”.
+2004—Subsec. (d)(1). Pub. L. 108–373, §201(1), inserted “, to the maximum extent practicable,” after “shall be developed”.
 
 Subsec. (d)(3). Pub. L. 108–373, §201(2), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “On completion of a State plan developed with assistance under this section, the State shall—
 

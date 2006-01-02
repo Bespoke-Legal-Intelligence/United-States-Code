@@ -60,7 +60,3 @@ Amendment by Pub. L. 97–34 applicable with respect to taxable years beginning 
 
 Section applicable to taxable years beginning after Dec. 31, 1976, see section 1012(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 6013 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 66 of this title.
-

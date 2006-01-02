@@ -34,7 +34,7 @@ Any person violating this provision may, upon a showing satisfactory to the Secr
 
 #### (5) Perishable Agricultural Commodities Act Fund
 
-&emsp;Such fee, when collected, shall be deposited in the Treasury of the United States as a special fund, without fiscal year limitation, to be designated as the “Perishable Agricultural Commodities Act Fund”, which shall be available for all expenses necessary to the administration of this chapter and the Act approved March 3, 1927, referred to above. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. Financial statements prescribed by the Director of the Office of Management and Budget for the last completed fiscal year, and as estimated for the current and ensuing fiscal years, shall be included in the budget as submitted to the Congress annually.
+&emsp;Such fee, when collected, shall be deposited in the Treasury of the United States as a special fund, without fiscal year limitation, to bedesignated as the “Perishable Agricultural Commodities Act Fund”, which shall be available for all expenses necessary to the administration of this chapter and the Act approved March 3, 1927, referred to above. Any reserve funds in the Perishable Agricultural Commodities Act Fund may be invested by the Secretary in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary, by the Secretary of the Treasury in United States Government debt instruments. Any interest earned on such reserve funds shall be credited to the Perishable Agricultural Commodities Act Fund and shall be available for the same purposes as the fees deposited in such fund. Financial statements prescribed by the Director of the Office of Management and Budget for the last completed fiscal year, and as estimated for the current and ensuing fiscal years, shall be included in the budget as submitted to the Congress annually.
 
 #### (c) Use of trade names
 
@@ -58,7 +58,7 @@ Subsec. (a). Pub. L. 104–48, §§3(b)(1), 5(a), inserted heading and substitut
 
 Subsec. (b). Pub. L. 104–48, §3(b)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 104–48, §3(a)(1), (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter andthe Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 (7 U.S.C. 491–497), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
+Subsec. (b)(1). Pub. L. 104–48, §3(a)(1), (2), inserted heading, realigned margins, and struck out after second sentence “Upon the filing of the application, and annually thereafter, the applicant shall pay such fee as the Secretary determines necessary to meet the reasonably anticipated expenses for administering this chapter and the Act to prevent the destruction or dumping of farm produce, approved March 3, 1927 (7 U.S.C. 491–497), but in no event shall such fee exceed $400, plus $200 for each branch or additional business facility operated by the applicant in excess of nine such facilities, as determined by the Secretary. Total annual fees for any applicant shall not exceed $4,000 in the aggregate.”
 
 Subsec. (b)(2). Pub. L. 104–48, §4(a), added par. (2).
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 87–725, §4, added subsec. (c).
 
 1956—Subsec. (b). Act July 30, 1956, increased fee from $15 annually to not more than $25 annually.
 
-1950—Subsec. (b). Act June 15, 1950, increased fee from $10 to $15 annually, provided for its disposition in fund, made fund available for administrative expenses, and provided for financial statements.
+1950—Subsec. (b). Act June 15, 1950, increased fee from $10 to $15 annually, provided for its disposition in fund,made fund available for administrative expenses, and provided for financial statements.
 
 1937—Subsec. (a). Act Aug. 20, 1937, added second par.
 

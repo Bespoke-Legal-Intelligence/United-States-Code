@@ -50,11 +50,15 @@ Not later than November 30 of each year, the Attorney General shall submit a rep
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2002 through 2006.
+There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2002 through 2009.
 
-(Pub. L. 107–273, div. C, title I, §11001, Nov. 2, 2002, 116 Stat. 1815.)
+(Pub. L. 107–273, div. C, title I, §11001, Nov. 2, 2002, 116 Stat. 1815; Pub. L. 109–162, title XI, §1185, Jan. 5, 2006, 119 Stat. 3127.)
 
 #### Codification
 
 Section was enacted as the Law Enforcement Tribute Act, and also as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of the Public Safety Officer Medal of Valor Act of 2001 which comprises this chapter.
+
+#### Amendments
+
+2006—Subsec. (i). Pub. L. 109–162 substituted “2009” for “2006”.
 

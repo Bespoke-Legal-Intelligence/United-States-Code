@@ -78,9 +78,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (h) Termination
 
-This section shall not apply to expenditures paid or incurred after December 31, 2003.
+This section shall not apply to expenditures paid or incurred after December 31, 2005.
 
-(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625.)
+(Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179.)
 
 #### References in Text
 
@@ -90,6 +90,8 @@ Sections 101(14), 102, 104, and 105(a)(8)(B) of the Comprehensive Environmental 
 
 #### Amendments
 
+2004—Subsec. (h). Pub. L. 108–311 substituted “2005” for “2003”.
+
 2000—Subsec. (c). Pub. L. 106–554, §1(a)(7) \[title I, §162(a)\], amended subsec. (c) generally. Prior to amendment, subsec. (c) defined the term “qualified contaminated site” to include certain property described in section 1221(a)(1) of this title, within a targeted area, and at which there had been a release or disposal of any hazardous substance, provided that an area could be treated as a qualified contaminated site only if the taxpayer received a certain statement from an appropriate State agency, provided for designation of appropriate State agencies, and defined targeted area.
 
 Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title I, §162(b)\], substituted “2003” for “2001”.
@@ -97,6 +99,10 @@ Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title I, §162(b)\], substituted “
 1999—Subsec. (c)(1)(A)(i). Pub. L. 106–170, §532(c)(2)(A), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
 Subsec. (h). Pub. L. 106–170, §511, substituted “2001” for “2000”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §308(b), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to expenditures paid or incurred after December 31, 2003.”
 
 #### Effective Date of 2000 Amendment
 

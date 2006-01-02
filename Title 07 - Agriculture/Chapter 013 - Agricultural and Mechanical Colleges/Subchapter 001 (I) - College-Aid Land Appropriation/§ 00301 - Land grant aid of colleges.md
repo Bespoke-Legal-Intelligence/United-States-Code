@@ -16,7 +16,7 @@ Act July 2, 1862, as amended, which is classified to this subchapter, is popular
 
 Pub. L. 107–171, title VII, §7201(e), May 13, 2002, 116 Stat. 437, provided that: “Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit a report containing recommended criteria for designating additional 1994 Institutions \[see section 532 of Pub. L. 103–382, set out below\] to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
 
-Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, andmaintenance, in addition to other authorized purposes.”
+Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
 
 Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437; Pub. L. 108–204, title I, §128, Mar. 2, 2004, 118 Stat. 547; Pub. L. 108–447, div. A, title VII, §777, Dec. 8, 2004, 118 Stat. 2849, provided that:
 
@@ -114,7 +114,7 @@ institutions.—(A) 1994 Institutions shall not be considered as land-grant coll
 
 &emsp;&emsp;“(iii) the Act of August 30, 1890 (26 Stat. 417, chapter 841; 7 U.S.C. 321 et seq.) (commonly known as the Second Morrill Act).
 
-&emsp;“(B) In lieu of receiving donations under the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act), relating to the donations of public land or scrip for the endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts, 1994 Institutions shall receive funding pursuant to the authorization under subsection (b).
+&emsp;“(B) In lieu of receiving donations under the provisions of the Act of July 2, 1862 (12 Stat. 503; 7 U.S.C. 301 et seq.) (commonly known as the First Morrill Act), relating to the donations of public land or scripfor the endowment and maintenance of colleges for the benefit of agriculture and the mechanic arts, 1994 Institutions shall receive funding pursuant to the authorization under subsection (b).
 
 &emsp;“(3)
 
@@ -248,7 +248,7 @@ Requirements.—Grant applications submitted under this section shall certify th
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007. Amounts appropriated shall remain available until expended.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years1999 through 2007. Amounts appropriated shall remain available until expended.”
 
 #### Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands
 
@@ -270,7 +270,7 @@ Section 506(a), (b) of Pub. L. 92–318, title V, June 23, 1972, 86 Stat. 350, a
 
 #### Exchange of Land in Missouri
 
-Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands\(as determined by the Secretary) situated within such State.
+Pub. L. 85–282, Sept. 4, 1957, 71 Stat. 607, provided: “That, notwithstanding the provisions of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts’, approved July 2, 1862 (7 U.S.C. secs. 301–308), the State of Missouri is authorized to convey to the United States all right, title, and interest of such State in and to any land granted to such State under authority of such Act of July 2, 1862, which is located within the exterior boundaries of the national forests situated within such State, and, in exchange therefor, the Secretary of Agriculture is authorized to convey to the State of Missouri all right, title, and interest of the United States in and to not to exceed an equal value of national forest lands (as determined by the Secretary) situated within such State.
 
 “
 

@@ -92,7 +92,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;(C) The National Research Council shall, within 18 months of October 29, 1992, submit a report to the Administrator and the Under Secretary listing areas suitable for intensive monitoring.
 
-&emsp;(D) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall develop and implement multi-year programs of intensive monitoring for Massachusetts and Cape Cod Bays, the Gulf of Maine, the Chesapeake Bay, the Hudson-Raritan Estuary, and each area jointly designated by the Administrator and the Under Secretary pursuant to paragraph (2).
+&emsp;(D) The Administrator and the Under Secretary, in conjunction with other Federal, State, and local authorities, shall develop andimplement multi-year programs of intensive monitoring for Massachusetts and Cape Cod Bays, the Gulf of Maine, the Chesapeake Bay, the Hudson-Raritan Estuary, and each area jointly designated by the Administrator and the Under Secretary pursuant to paragraph (2).
 
 #### (4) Intensive coastal water quality monitoring programs
 
@@ -124,7 +124,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;(H) estimate the costs to Federal and State governments, and other participants, of implementing the monitoring program; and
 
-&emsp;&emsp;(I) describe the methods to assess periodically the success of the monitoring programin meeting its goals and objectives, and the manner in which the program may be modified from time-to-time.
+&emsp;&emsp;(I) describe the methods to assess periodically the success of the monitoring program in meeting its goals and objectives, and the manner in which the program may be modified from time-to-time.
 
 #### (5) Criteria for monitoring Massachusetts and Cape Cod Bays
 

@@ -2,7 +2,7 @@
 
 #### (a) Failure to show information on debt instrument
 
-In the case of a failure to set forth on a debt instrument the information required to be setforth on such instrument under section 1275(c)(1), unless it is shown that such failure is due to reasonable cause and not to willful neglect, the issuer shall pay a penalty of $50 for each instrument with respect to which such a failure exists.
+In the case of a failure to set forth on a debt instrument the information required to be set forth on such instrument under section 1275(c)(1), unless it is shown that such failure is due to reasonable cause and not to willful neglect, the issuer shall pay a penalty of $50 for each instrument with respect to which such a failure exists.
 
 #### (b) Failure to furnish information to Secretary
 
@@ -10,15 +10,11 @@ Any issuer who fails to furnish information required under section 1275(c)(2) wi
 
 #### (c) Deficiency procedures not to apply
 
-Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
+Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, andcertain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section.
 
 (Added Pub. L. 98–369, div. A, title I, §41(c)(1), July 18, 1984, 98 Stat. 555.)
 
 #### Effective Date
 
 Section effective on day 30 days after July 18, 1984, see section 44(h) of Pub. L. 98–369, set out as a note under section 1271 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1275 of this title.
 

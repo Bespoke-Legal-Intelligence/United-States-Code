@@ -36,7 +36,7 @@ A return for a period of less than 12 months (referred to in this section as “
 
 &emsp;&emsp;&emsp;(i) the period of 12 months beginning on the first day of the short period, or
 
-&emsp;&emsp;&emsp;(ii) the period of 12 months ending at the close of the last day of the short period, if at the end of the 12 months referred to in clause (i) the taxpayer is not in existence or (if a corporation) has theretofore disposed of substantially all of its assets.
+&emsp;&emsp;&emsp;(ii) the period of 12 months ending at the close of the last day of the short period, ifat the end of the 12 months referred to in clause (i) the taxpayer is not in existence or (if a corporation) has theretofore disposed of substantially all of its assets.
 
 #### (C) Application for benefits
 
@@ -70,17 +70,17 @@ If a return is made for a short period by reason of subsection (a)—
 
 &emsp;&emsp;<b>(2) Personal holding company tax, see section 546.</b>
 
-&emsp;&emsp;<b>(3) Undistributed foreign personal holding company income, see section 557.</b>
+&emsp;&emsp;<b>(3) The taxable income of a regulated investment company, see section 852(b)(2)(E).</b>
 
-&emsp;&emsp;<b>(4) The taxable income of a regulated investment company, see section 852(b)(2)(E).</b>
-
-&emsp;&emsp;<b>(5) The taxable income of a real estate investment trust, see section 857(b)(2)(C).</b>
+&emsp;&emsp;<b>(4) The taxable income of a real estate investment trust, see section 857(b)(2)(C).</b>
 
 &emsp;<b>For returns for a period of less than 12 months in the case of a debtor's election to terminate a taxable year, see section 1398(d)(2)(E).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(<i>o</i>)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(<i>o</i>)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
 
 #### Amendments
+
+2004—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “Undistributed foreign personal holding company income, see section 557.”
 
 1986—Subsec. (b)(1). Pub. L. 99–514, §104(b)(7)(A), struck out “, and adding the zero bracket amount” after “by the number of months in the short period”.
 
@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 99–514, §701(e)(3), substituted “and tax preferences�
 
 &emsp;“(1) in the case of a taxpayer other than a corporation, the alternative minimum taxable income for the short period shall be placed on an annual basis by multiplying that amount by 12 and dividing the result by the number of months in the short period, and the amount computed under paragraph (1) of section 55(a) shall be the same part of the tax computed on the annual basis as the number of months in the short period is of 12 months; and
 
-&emsp;“(2) the $10,000 amount specified in section 56 (relating to minimum tax for tax preferences), modified asprovided by section 58, shall be reduced to the amount which bears the same ratio to such specified amount as the number of days in the short period bears to 365.”
+&emsp;“(2) the $10,000 amount specified in section 56 (relating to minimum tax for tax preferences), modified as provided by section 58, shall be reduced to the amount which bears the same ratio to such specified amount as the number of days in the short period bears to 365.”
 
 1983—Subsec. (e). Pub. L. 97–448 substituted “section 1398(d)(2)(E)” for “section 1398(d)(3)(E)”.
 
@@ -121,6 +121,10 @@ Subsec. (e)(5). Pub. L. 94–455, §1607(b)(1)(C), substituted “section 857(b)
 1969—Subsecs. (d), (e). Pub. L. 91–172 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1960—Subsec. (d)(5). Pub. L. 86–779 added par. (5).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -167,8 +171,4 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by section 701(e)(3) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3, 63, 441, 536, 546, 557, 811, 852, 857, 1362, 1398, 6013 of this title.
 

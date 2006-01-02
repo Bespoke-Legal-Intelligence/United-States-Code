@@ -32,7 +32,7 @@ For the purposes of this subchapter:
 
 #### (7) Inspection
 
-&emsp;The term “inspection” means (A) a surface-by-surface investigation to determine thepresence of lead-based paint, as provided in section 4822(c) of title 42, and (B) the provision of a report explaining the results of the investigation.
+&emsp;The term “inspection” means (A) a surface-by-surface investigation to determine the presence of lead-based paint, as provided in section 4822(c) of title 42, and (B) the provision of a report explaining the results of the investigation.
 
 #### (8) Interim controls
 

@@ -76,10 +76,6 @@ A prior section 4058, act Aug. 16, 1954, ch. 736, 68A Stat. 480, §4058, formerl
 
 1976—Pub. L. 94–455, title XIX, §1904(a)(1)(A), Oct. 4, 1976, 90 Stat. 1810, substituted “Special Fuels” for “Retailers Excise Taxes” in chapter heading.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6103, 6416, 7261, 7871 of this title.
-
 
 ---
 

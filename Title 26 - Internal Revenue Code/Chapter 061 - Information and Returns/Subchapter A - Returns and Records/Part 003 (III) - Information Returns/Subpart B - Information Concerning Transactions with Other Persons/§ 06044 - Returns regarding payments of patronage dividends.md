@@ -8,7 +8,7 @@
 
 #### (2) Returns required by the Secretary
 
-&emsp;Every such cooperative which makes payments of amounts described in subsection (b) aggregating less than $10 to any person during any calendar year shall, when required by the Secretary, make a return setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
+&emsp;Every such cooperative which makes payments of amounts described in subsection (b) aggregating less than $10 to any person during any calendar year shall, when required by theSecretary, make a return setting forth the aggregate amount of such payments and the name and address of the person to whom paid.
 
 #### (b) Amounts subject to reporting
 
@@ -108,13 +108,9 @@ Amendment by section 108(c) of Pub. L. 98–67 applicable with respect to paymen
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–809 applicable with respect to calendar years after 1966, see section 211(e)(2) of Pub.L. 89–809, set out as a note under section 1382 of this title.
+Amendment by Pub. L. 89–809 applicable with respect to calendar years after 1966, see section 211(e)(2) of Pub. L. 89–809, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–834 applicable to payments of dividends and interest made on or after Jan. 1, 1963, and to payments of amounts described in subsection (b) of this section made on or after Jan. 1, 1963, with respect to patronage occurring on or after the first day of the first taxable year of the cooperative beginning on or after Jan. 1, 1963, see section 19(h) of Pub. L. 87–834, set out as a note under section 6042 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3406, 6041, 6652, 6724 of this title.
 

@@ -18,7 +18,7 @@ No foreign bank may establish or operate a Federal branch which receives deposit
 
 #### (1) In general
 
-&emsp;After December 19, 1991, notwithstanding any other provision of this chapter or any provision of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], in order to accept or maintain domestic retail deposit accounts having balances of less than $100,000, and requiring deposit insurance protection, a foreign bank shall—
+&emsp;After December 19, 1991, notwithstanding any other provision of this chapter or any provision of the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], in order to accept or maintain domestic retail deposit accounts havingbalances of less than $100,000, and requiring deposit insurance protection, a foreign bank shall—
 
 &emsp;&emsp;(A) establish 1 or more banking subsidies in the United States for that purpose; and
 
@@ -32,7 +32,19 @@ No foreign bank may establish or operate a Federal branch which receives deposit
 
 &emsp;For purposes of this subsection, the term “foreign bank” does not include any bank organized under the laws of any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands the deposits of which are insured by the Federal Deposit Insurance Corporation pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\].
 
-(Pub. L. 95–369, §6, Sept. 17, 1978, 92 Stat. 614; Pub. L. 96–64, Sept. 14, 1979, 93 Stat. 412; Pub. L. 102–242, title II, §214(a), Dec. 19, 1991, 105 Stat. 2303; Pub. L. 102–550, title XVI, §1604(a)(10), (11), Oct. 28, 1992, 106 Stat. 4082, 4083; Pub. L. 102–558, title III, §§302(a), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–328, title I, §107(a), (d), Sept. 29, 1994, 108 Stat. 2358, 2360.)
+(Pub. L. 95–369, §6, Sept. 17, 1978, 92 Stat. 614; Pub. L. 96–64, Sept. 14, 1979, 93 Stat. 412; Pub. L. 102–242, title II, §214(a), Dec. 19, 1991, 105 Stat. 2303; Pub. L. 102–550, title XVI, §1604(a)(10), (11), Oct. 28, 1992, 106 Stat. 4082, 4083; Pub. L. 102–558, title III, §§302(a), 305, Oct. 28, 1992, 106 Stat. 4224, 4226; Pub. L. 103–328, title I, §107(a), (d), Sept. 29, 1994, 108 Stat. 2358, 2360; Pub. L. 109–173, §2(c)(4), Feb. 15, 2006, 119 Stat. 3602.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §2(c)(4), (e), Feb. 15, 2006, 119 Stat. 3602, 3605, provided that, effective Apr. 1, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsections (b), (c)(1), and (d)(1), (2), by striking “$100,000” and inserting “an amount equal to the standard maximum deposit insurance amount”; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+#### <i>“(e) Standard maximum deposit insurance amount defined</i>
+
+<i>“For purposes of this section, the term ‘standard maximum deposit insurance amount’ means the amount of the maximum amount of deposit insurance as determined under section 11(a)(1) of the Federal Deposit Insurance Act \[12 U.S.C. 1821(a)(1)\].”</i>
 
 #### References in Text
 
@@ -57,6 +69,10 @@ Subsec. (c)(2). Pub. L. 102–558, §302(a)(2), substituted “Domestic retail d
 Subsec. (c). Pub. L. 102–242, §214(a)(3), added subsec. (c).
 
 1979—Subsec. (b). Pub. L. 96–64 inserted second par. which extended time for foreign banks to obtain required deposit insurance with respect to domestic existing branches.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. L. 109–173, set out as a note under section 1785 of this title.
 
 #### Effective Date of 1992 Amendments
 

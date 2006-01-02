@@ -10,7 +10,7 @@ The Secretary may exercise his or her authority under this section only if, and 
 
 #### (c) Agreements with coal mine operators; reinsurance agreements
 
-(1) The Secretary may enter into agreements with operators of coal mines who may be liable for the payment of benefits under section 932 of this title, under which the Black Lung Compensation Insurance Fund established under subsection (a) of this section (hereinafter in this section referred to as the “insurance fund”) shall assume all or part of the liability of such operator in return for the payment of premiums to the insurance fund, and on such terms and conditions as will fully protect the financial solvency of the insurance fund. During any period in which such agreement is in effect the operator shall be deemed in compliance with the requirements of section 933 of this title with respect to the risks covered by such agreement.
+(1) The Secretary may enter into agreements with operators of coal mines who may be liable for the payment of benefits under section 932 of this title, under which the Black Lung Compensation Insurance Fund established under subsection (a) of this section (hereinafter in this section referred to as the “insurance fund”) shall assume all or part of the liability of such operator in return for the payment of premiums to the insurance fund, and on such terms and conditions as will fully protect the financial solvency of the insurance fund. During any periodin which such agreement is in effect the operator shall be deemed in compliance with the requirements of section 933 of this title with respect to the risks covered by such agreement.
 
 (2) The Secretary may also enter into reinsurance agreements with one or more insurers or pools of insurers under which, in return for the payment of premiums to the insurance fund, and on such terms and conditions as will fully protect the financial solvency of the insurance fund, the insurance fund shall provide reinsurance coverage for benefits required to be paid under section 932 of this title.
 
@@ -76,7 +76,7 @@ Section 934a of this title, referred to in subsec. (i), was repealed by Pub. L. 
 
 #### Codification
 
-Subsec. (h) of this section, which required the Secretary to report to Congress not later than April 1 of each year on the financial condition and operation of the insurance fund, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 124 of House Document No. 103–7.
+Subsec. (h) of this section, which required the Secretary to report to Congress not later than April 1 of each year on the financial condition and operation of the insurance fund, terminated, effective May 15, 2000,pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 124 of House Document No. 103–7.
 
 #### Effective Date
 

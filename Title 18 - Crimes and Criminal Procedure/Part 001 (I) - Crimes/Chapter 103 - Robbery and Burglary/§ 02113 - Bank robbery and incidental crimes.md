@@ -8,7 +8,7 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 (b) Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than ten years, or both; or
 
-Whoever takes and carries away, with intent to steal or purloin, any property or money orany other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than one year, or both.
 
 (c) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of, any property or money or other thing of value which has been taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen shall be subject to the punishment provided in subsection (b) for the taker.
 
@@ -18,7 +18,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 (f) As used in this section the term “bank” means any member bank of the Federal Reserve System, and any bank, banking association, trust company, savings bank, or other banking institution organized or operating under the laws of the United States, including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), and any institution the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
-(g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-chartered credit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+(g) As used in this section the term “credit union” means any Federal credit union and any State-chartered credit union the accounts of which are insured by the National Credit Union Administration Board, and any “Federal credit union” as defined in section 2 of the Federal Credit Union Act. The term “State-charteredcredit union” includes a credit union chartered under the laws of a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
 
 (h) As used in this section, the term “savings and loan association” means—
 

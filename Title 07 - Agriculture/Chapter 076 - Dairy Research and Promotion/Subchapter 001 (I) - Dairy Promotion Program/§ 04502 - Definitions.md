@@ -24,7 +24,7 @@ As used in this subchapter—
 
 &emsp;(k) the term “nutrition education” means those activities intended to broaden the understanding of sound nutritional principles including the role of milk and dairy products in a balanced diet;
 
-&emsp;(<i>l</i>) the term “United States” as used in sections 4501 through 4508 of this title means theforty-eight contiguous States in the continental United States;
+&emsp;(<i>l</i>) the term “United States” as used in sections 4501 through 4508 of this title means the forty-eight contiguous States in the continental United States;
 
 &emsp;(m) the term “imported dairy product” means any dairy product that is imported into the United States (as defined in subsection (<i>l</i>) of this section), including dairy products imported into the United States in the form of—
 

@@ -8,7 +8,7 @@ Whenever—
 
 &emsp;(2) the owner or operator, or the master, pilot, conductor, driver, or other person in charge of a vessel, vehicle, or aircraft;
 
-> is subject to a penalty for violation of the customs laws, the conveyance involved shall be held for the payment of such penalty and may be seized and forfeited and sold in accordance with the customs laws. The proceeds of sale, if any, in excess of the assessed penalty and expenses of seizing, maintaining, and selling the property shall be held for the account of any interested party.
+> is subject to a penalty for violation of the customs laws, the conveyance involved shall be held for the payment of such penalty and may beseized and forfeited and sold in accordance with the customs laws. The proceeds of sale, if any, in excess of the assessed penalty and expenses of seizing, maintaining, and selling the property shall be held for the account of any interested party.
 
 #### (b) Exceptions
 

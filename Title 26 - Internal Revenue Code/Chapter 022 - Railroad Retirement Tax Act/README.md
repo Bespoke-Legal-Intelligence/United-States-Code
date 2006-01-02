@@ -19,10 +19,6 @@
 
 2001—Pub. L. 107–90, title II, §204(e)(5), Dec. 21, 2001, 115 Stat. 893, added item for subchapter E.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3121, 3301, 3306, 3503, 5041, 6103, 6302 of this title; title 31 section 9502; title 42 section 1307; title 45 sections 358, 1207; title 49 sections 10501, 24301.
-
 
 ---
 

@@ -64,7 +64,7 @@ Duties.—(1) The Secretary shall consult with and seek the advice of the Commit
 
 &emsp;(E) identify opportunities for increased liaison by the Department with nongovernmental organizations and individual groups providing services to homeless populations;
 
-&emsp;(F) with appropriate officials of the Department designated by the Secretary, participate with the Interagency Council on the Homelessunder title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.);
+&emsp;(F) with appropriate officials of the Department designated by the Secretary, participate with the Interagency Council on the Homeless under title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.);
 
 &emsp;(G) recommend appropriate funding levels for specialized programs for homeless veterans provided or funded by the Department;
 
@@ -74,7 +74,7 @@ Duties.—(1) The Secretary shall consult with and seek the advice of the Commit
 
 (c)
 
-Reports.—(1) Not later than March 31 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that relate to homeless veterans. Each such report shall include—
+Reports.—(1) Not later than March 31 of each year, the Committee shall submit to theSecretary a report on the programs and activities of the Department that relate to homeless veterans. Each such report shall include—
 
 &emsp;(A) an assessment of the needs of homeless veterans;
 

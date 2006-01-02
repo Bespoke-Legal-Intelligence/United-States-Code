@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(3) To conduct research to increase the understanding of the effects of folic acid in preventing birth defects, including understanding with respect to cleft lip, cleft palate, and heart defects.
 
-&emsp;(4) To provide for appropriate epidemiological activities regarding folic acid and birth defects, including epidemiological activities regarding neural tube defects.
+&emsp;(4) To provide for appropriate epidemiological activities regarding folic acid and birthdefects, including epidemiological activities regarding neural tube defects.
 
 #### (b) Consultations with States and private entities
 

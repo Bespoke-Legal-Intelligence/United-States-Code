@@ -84,11 +84,11 @@ Study of Results.—The Judicial Conference of the United States, in consultatio
 
 “(d)
 
-Report.—Not later than June 30, 1997, the Judicial Conference of the United States shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report of the results of the demonstration program.”
+Report.—Not later than June 30, 1997, the Judicial Conference of the United States shall transmit tothe Committees on the Judiciary of the Senate and the House of Representatives a report of the results of the demonstration program.”
 
 #### Pilot Program
 
-Section 105 of Pub. L. 101–650, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317,title VI, §608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
+Section 105 of Pub. L. 101–650, as amended by Pub. L. 103–420, §4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317, title VI, §608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 “(a)
 

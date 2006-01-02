@@ -2,7 +2,7 @@
 
 #### (a) Trade or business income
 
-In computing the deduction allowable under section 642(c) to a trust, no amount otherwiseallowable under section 642(c) as a deduction shall be allowed as a deduction with respect to income of the taxable year which is allocable to its unrelated business income for such year. For purposes of the preceding sentence, the term “unrelated business income” means an amount equal to the amount which, if such trust were exempt from tax under section 501(a) by reason of section 501(c)(3), would be computed as its unrelated business taxable income under section 512 (relating to income derived from certain business activities and from certain property acquired with borrowed funds).
+In computing the deduction allowable under section 642(c) to a trust, no amount otherwise allowable under section 642(c) as a deduction shall be allowed as a deduction with respect to income of the taxable year which is allocable toits unrelated business income for such year. For purposes of the preceding sentence, the term “unrelated business income” means an amount equal to the amount which, if such trust were exempt from tax under section 501(a) by reason of section 501(c)(3), would be computed as its unrelated business taxable income under section 512 (relating to income derived from certain business activities and from certain property acquired with borrowed funds).
 
 #### (b) Cross reference
 
@@ -31,8 +31,4 @@ Amendment by section 121(d)(2)(B) of Pub. L. 91–172 applicable to taxable year
 #### Effective Date of 1968 Amendment
 
 Section 6(c) of Pub. L. 90–630 provided that: “The amendments made by subsection (a) \[amending section 504 of this title\] and (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. For purposes of sections 3814 and 162(g)(4) of the Internal Revenue Code of 1939, provisions having the same effect as such amendments shall be treated as included in such sections effective with respect to taxable years beginning after December 31, 1950.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 513, 642, 663 of this title.
 

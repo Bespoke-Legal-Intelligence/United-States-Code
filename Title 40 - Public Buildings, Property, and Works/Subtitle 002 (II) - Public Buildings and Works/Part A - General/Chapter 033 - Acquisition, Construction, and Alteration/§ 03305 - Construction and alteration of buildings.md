@@ -6,7 +6,7 @@ Construction.—
 
 &emsp;(1)
 
-Replacement of existing buildings.—When the Administrator of General Servicesconsiders it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
+Replacement of existing buildings.—When the Administrator of General Services considers it to be in the best interest of the Federal Government to construct a new public building to take the place of an existing public building, the Administrator may demolish the existing building and use the site on which it is located for the site of the proposed public building. If the Administrator believes that it is more advantageous to construct the public building on a different site in the same city, the Administrator may exchange the building and site, or the site, for another site, or may sell the building and site in accordance with subtitle I of this title and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.).
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Threshold amount.—Approval under section 3307 of this title is not required fo
 
 &emsp;&emsp;(B)
 
-Dollar amount adjustment.—The Administrator annually may adjust the dollar amount referred to in subparagraph (A) to reflect a percentage increase or decrease in construction costs during the prior calendar year, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Dollar amount adjustment.—The Administrator annually may adjust the dollar amount referred to in subparagraph (A) to reflect a percentage increase or decrease in construction costs during the prior calendaryear, as determined by the composite index of construction costs of the Department of Commerce. Any adjustment shall be expeditiously reported to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (c)
 

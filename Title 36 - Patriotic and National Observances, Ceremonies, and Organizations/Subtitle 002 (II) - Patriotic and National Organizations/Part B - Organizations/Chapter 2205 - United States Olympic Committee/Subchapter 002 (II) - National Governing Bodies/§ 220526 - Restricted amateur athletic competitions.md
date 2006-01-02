@@ -2,7 +2,7 @@
 
 (a)
 
-Exclusive Jurisdiction.—An amateur sports organization that conducts amateur athletic competition shall have exclusive jurisdiction over that competition if participation is restricted to a specific class of amateur athletes, such as high school students, college students,members of the Armed Forces, or similar groups or categories.
+Exclusive Jurisdiction.—An amateur sports organization that conducts amateur athletic competition shall have exclusive jurisdiction over that competition if participation is restricted to a specific class of amateur athletes, such as high school students, college students, members of the Armed Forces, or similar groups or categories.
 
 (b)
 

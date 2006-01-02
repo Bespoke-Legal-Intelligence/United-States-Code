@@ -96,7 +96,7 @@ A creditor shall not engage in a pattern or practice of extending credit to cons
 
 #### (i) Requirements for payments under home improvement contracts
 
-A creditor shall not make a payment to a contractor under a home improvement contractfrom amounts extended as credit under a mortgage referred to in section 1602(aa) of this title, other than—
+A creditor shall not make a payment to a contractor under a home improvement contract from amounts extended as credit under a mortgage referred to in section 1602(aa) of this title, other than—
 
 &emsp;(1) in the form of an instrument that is payable to the consumer or jointly to the consumer and the contractor; or
 

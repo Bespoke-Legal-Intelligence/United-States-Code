@@ -32,7 +32,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
-&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
+&emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the “loss year”) of a distributor or transferor corporation which ends on or before the end of a loss year ofthe acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a “prior taxable year” (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
 
 &emsp;&emsp;&emsp;(i) such taxable year shall (for the purpose of this subparagraph only) be considered to be 2 taxable years (hereinafter in this subparagraph referred to as the “pre-acquisition part year” and the “post-acquisition part year”);
 
@@ -60,7 +60,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(A) The taxable year of the acquiring corporation to which the capital loss carryover of the distributor or transferor corporation is first carried shall be the first taxable year ending after the date of distribution or transfer.
 
-&emsp;&emsp;(B) The capital loss carryover shall be a short-term capital loss in the taxable yeardetermined under subparagraph (A) but shall be limited to an amount which bears the same ratio to the capital gain net income (determined without regard to a short-term capital loss attributable to capital loss carryover), if any, of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
+&emsp;&emsp;(B) The capital loss carryover shall be a short-term capital loss in the taxable year determined under subparagraph (A) but shall be limited to an amount which bears the same ratio to the capital gain net income (determined without regard to a short-term capital loss attributable to capital loss carryover), if any, of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
 &emsp;&emsp;(C) For purposes of determining the amount of such capital loss carryover to taxable years following the taxable year determined under subparagraph (A), the capital gain net income in the taxable year determined under subparagraph (A) shall be considered to be an amount equal to the amount determined under subparagraph (B).
 
@@ -116,7 +116,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(B) such liability, if paid or accrued by the distributor or transferor corporation, would have been deductible in computing its taxable income,
 
-> &emsp;the acquiring corporation shall be entitled to deduct such items when paid or accrued, as thecase may be, as if such corporation were the distributor or transferor corporation. A corporation which would have been an acquiring corporation under this section if the date of distribution or transfer had occurred on or after the effective date of the provisions of this subchapter applicable to a liquidation or reorganization, as the case may be, shall be entitled, even though the date of distribution or transfer occurred before such effective date, to apply this paragraph with respect to amounts paid or accrued in taxable years beginning after December 31, 1953, on account of such obligations of the distributor or transferor corporation. This paragraph shall not apply if such obligations are reflected in the amount of stock, securities, or property transferred by the acquiring corporation to the transferor corporation for the property of the transferor corporation.
+> &emsp;the acquiring corporation shall be entitled to deduct such items when paid or accrued, as the case may be, as if such corporation were the distributor or transferor corporation. A corporation which would have been an acquiring corporation under this section if the date of distribution or transfer had occurred on or after the effective date of the provisions of this subchapter applicable to a liquidation or reorganization, as the case may be, shall be entitled, even though the date of distribution or transfer occurred before such effective date, to apply this paragraph with respect to amounts paid or accrued in taxable years beginning after December 31, 1953, on account of such obligations of the distributor or transferor corporation. This paragraph shall not apply if such obligations are reflected in the amount of stock, securities, or property transferred by the acquiring corporation to the transferor corporation for the property of the transferor corporation.
 
 #### (17) Deficiency dividend of personal holding company
 
@@ -156,7 +156,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;<b>For application of this part to operations loss carrybacks and carryovers of life insurance companies, see section 810.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A,title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 
@@ -178,7 +178,7 @@ Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars.
 
 1986—Subsec. (c)(10). Pub. L. 99–514, §411(b)(2)(C)(iii), struck out last sentence which read: “For the purpose of applying the limitation provided in section 617(h), if, for any taxable year, the distributor or transferor corporation was allowed a deduction under section 617(a), the acquiring corporation shall be deemed to have been allowed such deduction.”
 
-Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: “If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, or delinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts).”
+Subsec. (c)(12). Pub. L. 99–514, §1812(a)(3), amended par. (12) generally. Prior to amendment, par. (12), recovery of bad debts, prior taxes, or delinquency amounts, read as follows: “If the acquiring corporation is entitled to the recovery of bad debts, prior taxes, ordelinquency amounts previously deducted or credited by the distributor or transferor corporation, the acquiring corporation shall include in its income such amounts as would have been includible by the distributor or transferor corporation in accordance with section 111 (relating to the recovery of bad debts, prior taxes, and delinquency amounts).”
 
 Subsec. (c)(25), (26). Pub. L. 99–514, §231(d)(3)(F), redesignated par. (26) as (25). Former par. (25), relating to credit under section 30, was struck out.
 
@@ -310,7 +310,7 @@ Amendment by section 208 of Pub. L. 97–34 applicable to property placed in ser
 
 Amendment by section 221(b)(1)(B) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981, see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under section 41 of this title.
 
-Amendment by section 331(d)(1)(B) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981,see section 339 of Pub. L. 97–34, set out as a note under section 401 of this title.
+Amendment by section 331(d)(1)(B) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 339 of Pub. L. 97–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1980 Amendments
 
@@ -344,7 +344,7 @@ Amendment by section 504(c)(2) of Pub. L. 91–172 applicable with respect to ex
 
 Amendment by section 512(c) of Pub. L. 91–172 applicable with respect to net capital losses sustained in taxable years beginning after Dec. 31, 1969, see section 512(g) of Pub. L. 91–172, set out as a note under section 1212 of this title.
 
-Amendment by section 521(f) of Pub. L. 91–172 applicable with respect to taxable years ending after July 24, 1969, see section 521(g) of Pub. L. 91–172, set out as a note under section 167 of this title.
+Amendment by section 521(f) of Pub. L. 91–172 applicable with respect to taxable years ending after July 24,1969, see section 521(g) of Pub. L. 91–172, set out as a note under section 167 of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -378,7 +378,7 @@ Section 3 of act June 15, 1955, provided that: “The amendments made by this Ac
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 Section 4 of act June 15, 1955, as amended by act Oct. 22, 1986, Pub. L. 99–514, §2, 100 Stat. 2095, provided:
 
@@ -400,7 +400,7 @@ Form of statement, etc.—The statement required by subsection (a) shall be file
 
 &emsp;“(2)
 
-Treatment as amount shown on return.—The amount shown on a statement filed under subsection (a) as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act shall, for all purposes of the internalrevenue laws, be treated as tax shown on the return. Notwithstanding the preceding sentence, that portion of the amount of increase in tax for any taxable year which is attributable to a decrease (by reason of the enactment of this Act) in the net operating loss for a succeeding taxable year shall not be treated as tax shown on the return.
+Treatment as amount shown on return.—The amount shown on a statement filed under subsection (a) as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act shall, for all purposes of the internal revenue laws, be treated as tax shown on the return. Notwithstanding the preceding sentence, that portion of the amount of increase in tax for any taxable year which is attributable to a decrease (by reason of the enactment of this Act) in the net operating loss for a succeeding taxable year shall not be treated as tax shown on the return.
 
 &emsp;“(3)
 
@@ -430,7 +430,7 @@ Treatment of certain payments which taxpayer is required to make.—If—
 
 &emsp;“(4)
 
-Treatment of certain dividends.—Subject to such regulations as the Secretary of the Treasury or his delegate may prescribe, for purposes of section 561(a)(1) of the Internal Revenue Code of 1986 \[section 561(a)(1) of this title\], dividends paid after the 15th day of the third month following the close of the taxable year and on or before December 15, 1955, may be treated as having been paid on the last day of the taxable year, but only to the extent (A) that such dividends are attributable to an increase in taxable income for the taxable year resulting from the enactment of this Act, and (B) elected by the taxpayer.
+Treatment of certain dividends.—Subject to such regulations as the Secretary of the Treasury or his delegate may prescribe, for purposes of section 561(a)(1) of the Internal Revenue Code of 1986 \[section561(a)(1) of this title\], dividends paid after the 15th day of the third month following the close of the taxable year and on or before December 15, 1955, may be treated as having been paid on the last day of the taxable year, but only to the extent (A) that such dividends are attributable to an increase in taxable income for the taxable year resulting from the enactment of this Act, and (B) elected by the taxpayer.
 
 &emsp;“(5)
 
@@ -447,8 +447,4 @@ For applicability of amendment by section 701(e)(1) of Pub. L. 99–514 notwiths
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 45A, 50, 55, 172, 394, 593, 597, 807, 809, 810, 832, 904, 1388, 1396, 1847, 7518 of this title; title 46 App. section 1177.
 

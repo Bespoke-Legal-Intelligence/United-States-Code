@@ -30,7 +30,3 @@ Amendment by Pub. L. 90–619 effective on first day of first month which begins
 
 Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pub. L. 89–44, set out as a note under section 5383 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5392 of this title.
-

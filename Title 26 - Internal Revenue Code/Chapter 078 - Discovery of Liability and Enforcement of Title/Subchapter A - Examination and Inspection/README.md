@@ -34,10 +34,6 @@ Pub. L. 98–369, div. A, title X, §1033(c)(2), July 18, 1984, 98 Stat. 1039, a
 
 1956—Act July 18, 1956, ch. 629, §104(b), 70 Stat. 570, added item 7607 and redesignated former item 7607 as 7608.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 274, 7521 of this title.
-
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 
 

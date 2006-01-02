@@ -14,7 +14,7 @@ Funds Available for Account.—The Defense Modernization Account shall consist o
 
 (c)
 
-Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department or the Secretary of Defense with respect to Defense-wide appropriations accounts of the availability and source of funds described in subparagraph (B), that Secretary may transfer to the Defense Modernization Account during any fiscal year any amount of funds available tothe Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
+Transfers to Account.—(1)(A) Upon a determination by the Secretary of a military department or the Secretary of Defense with respect to Defense-wide appropriations accounts of the availability and source of funds described in subparagraph (B), that Secretary may transfer to the Defense Modernization Account during any fiscal year any amount of funds available to the Secretary described in that subparagraph. Such funds may be transferred to that account only after the Secretary concerned notifies the congressional defense committees in writing of the amount and source of the proposed transfer.
 
 (B) This subsection applies to the following funds available to the Secretary concerned:
 
@@ -159,6 +159,8 @@ Subsec. (k). Pub. L. 108–136, §1008(f)(1), added subsec. (k).
 1999—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
 #### Change of Name
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 

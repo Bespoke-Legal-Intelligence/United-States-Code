@@ -1,5 +1,7 @@
 Part B—Formula Grants With Respect to Modifications of State Plans
 
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+
 
 ---
 

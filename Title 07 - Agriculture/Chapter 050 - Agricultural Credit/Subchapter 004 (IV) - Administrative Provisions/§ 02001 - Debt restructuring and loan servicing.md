@@ -118,7 +118,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (B) Failure of creditors to agree
 
-&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principaland interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
+&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principal and interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
 
 #### (2) Participation of creditors
 
@@ -210,13 +210,13 @@ No foreclosure or other similar actions shall be taken to liquidate any loan det
 
 #### (h) Time limits for restructuring
 
-Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a decision shall be made at each level in the appeals process within 45 days after the receipt of the appeal or request for further review.
+Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a decision shall be made at each level in the appeals process within 45 daysafter the receipt of the appeal or request for further review.
 
 #### (i) Notice of ineligibility for restructuring
 
 #### (1) In general
 
-&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered orcertified mail within 15 days after such determination.
+&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered or certified mail within 15 days after such determination.
 
 #### (2) Contents
 
@@ -300,7 +300,7 @@ Available income.—If an amount up to 105 percent of the debt payments of the b
 
 Subsec. (c)(6). Pub. L. 104–127, §645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
 
-Subsec. (k). Pub. L. 104–127, §645(2), (3), redesignated subsec. (<i>l</i>) as (k) and struck out heading and text offormer subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
+Subsec. (k). Pub. L. 104–127, §645(2), (3), redesignated subsec. (<i>l</i>) as (k) and struck out heading and text of former subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
 
 Subsec. (<i>l</i>). Pub. L. 104–127, §661(j), struck out “and subparagraphs (A)(i) and (C)(i) of section 1985(e)(1) of this title,” before “if a borrower” in introductory provisions.
 
@@ -376,7 +376,7 @@ Regulations.—As soon as practicable after the date of enactment of this Act \[
 
 &emsp;“(1) the Secretary of Agriculture shall issue such regulations as are necessary to carry out subtitles A and C of this Act \[probably means subtitles A (§§1801–1824) and C (§§1851–1854) of title XVIII of Pub. L. 101–624, enacting sections 1981f and 2006a to 2006e of this title and section 494 of Title 25, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title and section 492 of Title 25, enacting provisions set out as a note under section 1981f of this title, amending provisions set out as a note under section 1985 of this title, and repealing provisions set out as a note preceding section 1961 of this title\] and the amendments made by such subtitles; and
 
-&emsp;“(2) the Farm Credit Administration shall issue such regulations as are necessary to carry out subtitle B of this Act \[probably means subtitle B (§§1831–1843) of title XVIII of Pub. L. 101–624, enacting section 2076a of Title 12, amending section 3132 of Title 5 and sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and enacting provisions set out as a note under section 2001 of Title 12\] and the amendments made by such subtitle.”
+&emsp;“(2) the Farm Credit Administration shall issue such regulations as are necessary to carry out subtitle B of this Act \[probably means subtitle B\(§§1831–1843) of title XVIII of Pub. L. 101–624, enacting section 2076a of Title 12, amending section 3132 of Title 5 and sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and enacting provisions set out as a note under section 2001 of Title 12\] and the amendments made by such subtitle.”
 
 #### Suspension of Collection Activities During Transition Period
 

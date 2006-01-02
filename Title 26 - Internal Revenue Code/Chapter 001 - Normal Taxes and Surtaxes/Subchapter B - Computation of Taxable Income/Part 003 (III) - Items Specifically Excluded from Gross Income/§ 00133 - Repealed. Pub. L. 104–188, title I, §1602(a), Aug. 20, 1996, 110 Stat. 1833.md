@@ -106,7 +106,7 @@ In general
 
 Exception
 
-&emsp;&emsp;&emsp;To the extent provided by the Secretary, clause (i) shall not apply to any period if, within 90 days of the first date on which the failure occurred (or such longer period not in excess of 180 days as the Secretary may prescribe), the plan acquires stock which results in its meeting the requirements of subparagraph (A).
+&emsp;&emsp;&emsp;To the extent provided by the Secretary, clause (i) shall not apply to any period if, within 90 days of the first date on which the failure occurred (orsuch longer period not in excess of 180 days as the Secretary may prescribe), the plan acquires stock which results in its meeting the requirements of subparagraph (A).
 
 &emsp;&emsp;(C)
 

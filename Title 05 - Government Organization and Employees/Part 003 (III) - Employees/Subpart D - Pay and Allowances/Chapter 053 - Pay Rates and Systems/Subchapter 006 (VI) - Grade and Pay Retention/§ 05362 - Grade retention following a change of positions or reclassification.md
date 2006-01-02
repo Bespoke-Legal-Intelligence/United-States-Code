@@ -8,7 +8,7 @@
 
 > is entitled, to the extent provided in subsection (c) of this section, to have the grade of the position held immediately before such placement be considered to be the retained grade of the employee in any position he holds for the 2-year period beginning on the date of such placement.
 
-(b)(1) Any employee who is in a position subject to this subchapter and whose position has been reduced in grade is entitled, to the extent provided in subsection (c) of this section, to have the grade of such position before reduction be treated as the retained grade of such employee for the 2-year period beginning on the date of the reduction in grade.
+(b)(1) Any employee who is in a position subject to this subchapter and whose position has been reduced in grade is entitled, to the extent provided in subsection (c) of this section, to have the grade of such position before reductionbe treated as the retained grade of such employee for the 2-year period beginning on the date of the reduction in grade.
 
 (2) The provisions of paragraph (1) of this subsection shall not apply with respect to any reduction in the grade of a position which had not been classified at the higher grade for a continuous period of at least one year immediately before such reduction.
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1984 Amendment
 
-Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on orafter that date, with certain exceptions and qualifications.
+Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was effective Oct. 1, 1984, and applicable with respect to pay periods commencing on or after that date, with certain exceptions and qualifications.
 
 #### Additional Pay and Benefits for Employees Reduced in Grade On or After January 1, 1977, Etc.
 

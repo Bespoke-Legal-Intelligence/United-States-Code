@@ -30,7 +30,7 @@ The Secretary, under such regulations as he may prescribe, shall pay (without in
 
 #### (3) Special rules for major disasters
 
-&emsp;If the President has determined under the Disaster Relief and Emergency Assistance Act that a “major disaster” (as defined in such Act) has occurred in any part of the United States, and if the disaster referred to in subsection (a)(1) occurs in such part of the United States by reason of such major disaster, then—
+&emsp;If the President has determined under the Robert T. Stafford Disaster Relief and Emergency Assistance Act that a “major disaster” (as defined in such Act) has occurred in any part of the United States, and if the disaster referred to in subsection (a)(1) occurs in such part of the United States by reason of such major disaster, then—
 
 &emsp;&emsp;(A) paragraph (2) shall not apply, and
 
@@ -52,17 +52,19 @@ The provisions of this section shall not be applicable in respect of distilled s
 
 All provisions of law, including penalties, applicable in respect of internal revenue taxes on distilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, §301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(i), formerly title VI, §602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(i), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, §1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, §807(a)(10), July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, §301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(i), formerly title VI, §602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(i), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, §1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, §807(a)(10), July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, §109(<i>l</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 108–311, title IV, §408(a)(7)(D), Oct. 4, 2004, 118 Stat. 1191.)
 
 #### References in Text
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 5064, act Aug. 16, 1954, ch. 736, 68A Stat. 615, related to “territorial extent of law”, prior to the general revision of this chapter by Pub. L. 85–859. See section 5065 of this title.
 
 #### Amendments
+
+2004—Subsec. (b)(3). Pub. L. 108–311 inserted “Robert T. Stafford” before “Disaster Relief and Emergency Assistance Act” in introductory provisions.
 
 1988—Subsec. (b)(3). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
@@ -102,7 +104,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Exception to Effective Date
 
-Section 210(a)(3) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act \[Sept. 2, 1958\], and shall apply with respect todisasters occurring after such date of enactment, and not later than June 30, 1959.”
+Section 210(a)(3) of Pub. L. 85–859, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act \[Sept. 2, 1958\], and shall apply with respect to disasters occurring after such date of enactment, and not later than June 30, 1959.”
 
 #### Beer Lost by Reason of Floods of 1951 or Hurricanes of 1954
 

@@ -34,7 +34,7 @@ The Board may award scholarships in such amounts as the Board determines to be a
 
 #### (1) Design and striking
 
-&emsp;The Secretary of the Treasury shall strike the medals described in subsection (a) of thissection and awarded by the Board under this chapter. Subject to subsection (a) of this section, the medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
+&emsp;The Secretary of the Treasury shall strike the medals described in subsection (a) of this section and awarded by the Board under this chapter. Subject to subsection (a) of this section, the medals shall be of such quantity, design, and specifications as the Secretary of the Treasury may determine, after consultation with the Board.
 
 #### (2) National medals
 
@@ -52,7 +52,7 @@ Subsection (e), which required the Board to submit an annual report to Congress 
 
 #### Amendments
 
-2000—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference to section 804(g)(1) of this title could not be executed because that reference did not appear in the original. See Codification note above.
+2000—Subsec. (e)(3). Pub. L. 106–533, §1(b)(4)(A), which directed technical amendment to reference in original act which would have appeared in text as reference tosection 804(g)(1) of this title could not be executed because that reference did not appear in the original. See Codification note above.
 
 Subsec. (e)(4). Pub. L. 106–533, §1(b)(4)(B), made technical amendment to reference in original act which appears in text as reference to section 806 of this title. See Codification note above.
 

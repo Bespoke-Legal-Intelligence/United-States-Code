@@ -2,7 +2,7 @@
 
 #### (a) Preferences
 
-In selecting eligible families for homeownership, the recipient shall give a first preferenceto otherwise qualified current tenants and a second preference to otherwise qualified eligible families who have completed participation in an economic self-sufficiency program specified by the Secretary.
+In selecting eligible families for homeownership, the recipient shall give a first preference to otherwise qualified current tenants and a second preference to otherwise qualified eligible families who have completed participation in an economic self-sufficiency program specified by the Secretary.
 
 #### (b) Cost limitations
 
@@ -36,7 +36,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 &emsp;&emsp;(B) the value, as determined by such means as the Secretary shall determine through regulation, of any improvements installed at the expense of the family during the family's tenure as owner; and
 
-&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed to by the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
+&emsp;&emsp;(C) the appreciated value determined by an inflation allowance at a rate which may be based on a cost-of-living index, an income index, or market index as determined by the Secretary through regulation and agreed toby the purchaser and the entity that transfers ownership interests in, or shares representing, units to eligible families (or another entity specified in the approved application), at the time of initial sale, and applied against the contribution to equity.
 
 > &emsp;Such an entity may, at the time of initial sale, enter into an agreement with the family to set a maximum amount which this appreciation may not exceed.
 
@@ -54,7 +54,7 @@ The requirements under this part regarding quality standards, resale, or transfe
 
 #### (f) Dollar limitation on economic development activities
 
-Not more than an aggregate of $250,000 from amounts made available under sections 12872and 12873 of this title may be used for economic development activities under sections 12872(b)(6) and 12873(b)(9) <sup>1</sup> of this title for any project.
+Not more than an aggregate of $250,000 from amounts made available under sections 12872 and 12873 of this title may be used for economic development activities under sections 12872(b)(6) and 12873(b)(9) <sup>1</sup> of this title for any project.
 
 #### (g) Timely homeownership
 

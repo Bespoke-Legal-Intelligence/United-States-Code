@@ -28,6 +28,8 @@ Pub. L. 100–178, §401(b), inserted “225,” after “223, 224,”.
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date of 1992 Amendment
@@ -44,5 +46,5 @@ Section 302(d) of Pub. L. 99–569 provided that: “The amendments made by this
 
 #### Effective Date
 
-Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments to Pub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
+Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments toPub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
 

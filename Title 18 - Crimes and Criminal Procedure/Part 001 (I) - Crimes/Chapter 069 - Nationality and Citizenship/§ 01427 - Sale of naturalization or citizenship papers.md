@@ -14,7 +14,7 @@ Minor changes were made in phraseology.
 
 2002—Pub. L. 107–273 substituted “to facilitate” for “to facility”.
 
-1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined insection 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than five years”.
+1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than five years”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 

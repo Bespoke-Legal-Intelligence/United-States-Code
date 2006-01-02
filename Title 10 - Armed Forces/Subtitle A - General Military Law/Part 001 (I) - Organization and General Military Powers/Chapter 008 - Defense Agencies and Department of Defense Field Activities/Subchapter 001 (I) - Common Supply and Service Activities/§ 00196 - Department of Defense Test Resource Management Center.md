@@ -6,9 +6,9 @@ Establishment as Department of Defense Field Activity.—The Secretary of Defens
 
 (b)
 
-Director and Deputy Director.—(1) At the head of the Center shall be a Director, selected by the Secretary from among commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.
+Director and Deputy Director.—(1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.
 
-(2) There shall be a Deputy Director of the Center, selected by the Secretary from among senior civilian officers and employees of the Department of Defense who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
+(2) There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
 
 (c)
 
@@ -44,7 +44,7 @@ Strategic Plan for Department of Defense Test and Evaluation Resources.—(1) No
 
 &emsp;(F) An assessment of the budgetary resources necessary to implement such acquisitions, upgrades, and improvements.
 
-(3) Upon completing a strategic plan under paragraph (1), the Director shall submit to theSecretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
+(3) Upon completing a strategic plan under paragraph (1), the Director shall submit to the Secretary of Defense a report on that plan. The report shall include the plan and a description of the review on which the plan is based.
 
 (4) Not later than 60 days after the date on which the report is submitted under paragraph (3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
 
@@ -72,11 +72,17 @@ Administrative Support of Center.—The Secretary of Defense shall provide the D
 
 (h)
 
-Definition.—In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Director of Operational Test and Evaluation as facilities and resources comprising the Major Range and Test Facility Base.
+Definition.—In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 
-(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416.)
+(Added Pub. L. 107–314, div. A, title II, §231(a)(1), Dec. 2, 2002, 116 Stat. 2487; amended Pub. L. 108–136, div. A, title II, §212, Nov. 24, 2003, 117 Stat. 1416; Pub. L. 109–163, div. A, title II, §258(a), title IX, §902, Jan. 6, 2006, 119 Stat. 3185, 3397.)
 
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–163, §902(a), substituted “individuals who have substantial experience in the field of test and evaluation.” for “commissioned officers of the armed forces on active duty or from among senior civilian officers and employees of the Department of Defense.”
+
+Subsec. (b)(2). Pub. L. 109–163, §902(b), substituted “individuals” for “senior civilian officers and employees of the Department of Defense”.
+
+Subsec. (h). Pub. L. 109–163, §258(a), substituted “Secretary of Defense” for “Director of Operational Test and Evaluation”.
 
 2003—Subsec. (b)(1). Pub. L. 108–136, §212(a), substituted “on active duty or from among senior civilian officers and employees of the Department of Defense. A commissioned officer serving as the Director” for “on active duty. The Director” and inserted at end “A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.”
 

@@ -18,6 +18,12 @@ Unless otherwise provided, for purposes of this part—
 
 A prior section 13701, Pub. L. 103–322, title II, §20101, Sept. 13, 1994, 108 Stat. 1815, related to grants for correctional facilities prior to the general amendment of this part by Pub. L. 104–134.
 
+#### Short Title of 2006 Amendment
+
+Pub. L. 109–162, §1, Jan. 5, 2006, 119 Stat. 2960, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Violence Against Women and Department of Justice Reauthorization Act of 2005’.”
+
+Pub. L. 109–162, title X, §1001, Jan. 5, 2006, 119 Stat. 3084, provided that: “This title \[amending sections 14132, 14135, and 14135a of this title and sections 3142 and 3297 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘DNA Fingerprint Act of 2005’.”
+
 #### Short Title of 2004 Amendment
 
 Pub. L. 108–405, §1(a), Oct. 30, 2004, 118 Stat. 2260, provided that: “This Act \[enacting sections 10603d, 10603e, 14136 to 14136e, and 14163 to 14163e of this title and chapters 228A and 237 and section 3297 of Title 18, Crimes and Criminal Procedure, amending sections 3793, 3796gg to 3796gg–6, 3797k, 3797m, 14132, 14133, 14135, 14135a, and 14135e of this title, section 1565 of Title 10, Armed Forces, and section 2513 of Title 28, Judiciary and Judicial Procedure, repealing section 10606 of this title, and enacting provisions set out as notes under this section and sections 3796gg–1 and 14136 of this title, sections 3297, 3600, and 3771 of Title 18, and section 531 of Title 28\] may be cited as the ‘Justice for All Act of 2004’.”
@@ -60,11 +66,13 @@ Section 40301 of title IV of Pub. L. 103–322 provided that: “This subtitle \
 
 Section 40401 of title IV of Pub. L. 103–322 provided that: “This subtitle \[subtitle D (§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§13991 et seq.) of subchapter III of this chapter\] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
 
+Pub. L. 103–322, title IV, §41001, as added by Pub. L. 109–162, title I, §105(a), Jan. 5, 2006, 119 Stat. 2979, provided that: “This subtitle \[subtitle J (§§41001–41006) oftitle IV of Pub. L. 103–322, enacting part I (§14043 et seq.) of subchapter III of this chapter\] may be cited as the ‘Violence Against Women Act Court Training and Improvements Act of 2005’.”
+
 Section 200101 of title XX of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§14091 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Police Corps Act’.”
 
 Section 200201 of title XX of Pub. L. 103–322 provided that: “This subtitle \[subtitle B (§§200201–200210) of title XX of Pub. L. 103–322, enacting part B (§14111 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Law Enforcement Scholarships and Recruitment Act’.”
 
-Section 210301 of title XXI of Pub. L. 103–322 provided that: “This subtitle \[subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§14131 et seq.)of subchapter IX of this chapter and sections 3796kk to 3796kk–6 of this title, amending sections 3751, 3753, 3793, and 3797 of this title, and enacting provisions set out as a note under section 3751 of this title\] may be cited as the ‘DNA Identification Act of 1994’.”
+Section 210301 of title XXI of Pub. L. 103–322 provided that: “This subtitle \[subtitle C (§§210301–210306) of title XXI of Pub. L. 103–322, enacting part A (§14131 et seq.) of subchapter IX of this chapter and sections 3796kk to 3796kk–6 of this title, amending sections 3751, 3753, 3793, and 3797 of this title, and enacting provisions set out as a note under section 3751 of this title\] may be cited as the ‘DNA Identification Act of 1994’.”
 
 Section 220001 of title XXII of Pub. L. 103–322 provided that: “This title \[enacting subchapter X (§14171) of this chapter and section 511A of Title 18, Crimes and Criminal Procedure, and amending section 511 of Title 18\] may be cited as the ‘Motor Vehicle Theft Prevention Act’.”
 

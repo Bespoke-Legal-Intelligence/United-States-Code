@@ -13,7 +13,9 @@
 | (e) | Forfeiture of property. |
 | 784 to 795. Repealed. |  |
 | [796\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000796%20-%20Effect%20of%20subchapter%20on%20other%20criminal%20laws.md) | Effect of subchapter on other criminal laws. |
-| [797\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000797%20-%20Security%20regulations%20and%20orders%3B%20penalty%20for%20violation.md) | Security regulations and orders; penalty for violation. |
+| [797\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000797%20-%20Penalty%20for%20violation%20of%20security%20regulations%20and%20orders.md) | Penalty for violation of security regulations and orders. |
+| (a) | Misdemeanor violation of defense property security regulations. |
+| (b) | Posting. |
 | [798\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Subversive%20Activities/%C2%A7%2000798%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93199%2C%20title%20VIII%2C%20%C2%A7803%281%29%2C%20Dec.%2017%2C%201993%2C%20107%20Stat.%202329.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

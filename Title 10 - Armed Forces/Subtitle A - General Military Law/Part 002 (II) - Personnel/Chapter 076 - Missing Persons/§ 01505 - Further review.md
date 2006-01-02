@@ -2,7 +2,7 @@
 
 (a)
 
-Subsequent Review.—The Secretary concerned shall conduct subsequent inquiries into the whereabouts and status of any person determined by the Secretary under section 1504 of this title to be in a missing status.
+Subsequent Review.—The Secretary concerned shall conduct subsequent inquiries intothe whereabouts and status of any person determined by the Secretary under section 1504 of this title to be in a missing status.
 
 (b)
 
@@ -39,8 +39,4 @@ Conduct of Proceedings.—If it is determined that such a board should be appoin
 &emsp;“(A) more than 30 years after the initial report of the disappearance of the missing person required by section 1502 of this title; or
 
 &emsp;“(B) if, before the end of such 30-year period, the missing person is accounted for.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1504, 1507, 1508, 1509 of this title.
 

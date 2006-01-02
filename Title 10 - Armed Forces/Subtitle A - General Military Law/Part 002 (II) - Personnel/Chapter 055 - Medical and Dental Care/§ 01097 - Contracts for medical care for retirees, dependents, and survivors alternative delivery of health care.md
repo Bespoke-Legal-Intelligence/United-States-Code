@@ -28,7 +28,7 @@ Coordination With Facilities of the Uniformed Services.—The Secretary of Defen
 
 (d)
 
-Coordination With Other Health Care Programs.—In the case of a covered beneficiary who is enrolled in a managed health care program not operated under the authority of this chapter, the Secretary may contract under this section with such other managed health careprogram for the purpose of coordinating the beneficiary's dual entitlements under such program and this chapter. A managed health care program with which arrangements may be made under this subsection includes any health maintenance organization, competitive medical plan, health care prepayment plan, or other managed care program recognized pursuant to regulations issued by the Secretary.
+Coordination With Other Health Care Programs.—In the case of a covered beneficiary who is enrolled in a managed health care program not operated under the authority of this chapter, the Secretary may contract under this section with such other managed health care program for the purpose of coordinating the beneficiary's dual entitlements under such program and this chapter. A managed health care program with which arrangements may be made under this subsection includes any health maintenance organization, competitive medical plan, health care prepayment plan, or other managed care program recognized pursuant to regulations issued by the Secretary.
 
 (e)
 
@@ -47,8 +47,4 @@ Subsec. (e). Pub. L. 104–106, §713, inserted at end “Without imposing addit
 Pub. L. 103–337, §713, inserted at end “In the case of contracts for health care services under this section or health care plans offered under section 1099 of this title for which the Secretary permits covered beneficiaries who are covered by section 1086 of this title and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in section 1086(b) of this title, the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in section 1086(d)(1) of this title who also participate in such contracts or plans.”
 
 Subsecs. (d), (e). Pub. L. 103–337, §714(a), added subsec. (d) and redesignated former subsec. (c) as (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072, 1096, 1100 of this title.
 

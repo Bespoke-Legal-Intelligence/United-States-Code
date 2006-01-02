@@ -6,7 +6,7 @@
 
 (c) Notwithstanding the provisions of section 901 of title 31, United States Code, the Assistant Attorney General for Administration shall be the Chief Financial Officer of the Department of Justice.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §111\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 106–113, div. B, §1000(a)(1)\[title I, §111\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
 
 Historical and Revision Notes
 
@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 The title of the position was changed to “Assistant Attorney General for Administration” by §307 of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 432.
 
-The words “competitive service” are substituted for “classified civil service” because the term “classified civil service” formerly used to designate the merit system established by the Civil Service Act of 1883 has become ambiguous due to the creation of the “classified”pay system. The term “competitive service” is now customarily used, and appears throughout title 5, United States Code, in place of “classified civil service”.
+The words “competitive service” are substituted for “classified civil service” because the term “classified civil service” formerly used to designate the merit system established by the Civil Service Act of 1883 has become ambiguous due to the creation of the “classified” pay system. The term “competitive service” is now customarily used, and appears throughout title 5, United States Code, in place of “classified civil service”.
 
 The words “There shall be in the Department of Justice” are omitted as unnecessary as the title of the position and the fact of appointment by the Attorney General establish the location of the position in the Department of Justice.
 

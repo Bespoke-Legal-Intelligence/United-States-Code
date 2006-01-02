@@ -52,7 +52,7 @@
 
 &emsp;(A) shall be given to—
 
-&emsp;&emsp;(i) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
+&emsp;&emsp;(i) the State or entity designated by the State to carry out rapid response activitiesunder section 134(a)(2)(A) of the Workforce Investment Act of 1998; and
 
 &emsp;&emsp;(ii) the chief elected official of such unit or each of such units of local government as may be appropriate; and
 
@@ -84,9 +84,9 @@
 
 (4) The regulations prescribed under this section shall incorporate the authority provided in this subsection.
 
-(5) No authority under paragraph (1) may be exercised after September 30, 2005.
+(5) No authority under paragraph (1) may be exercised after September 30, 2010.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(1), (f)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–429; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1103\], Oct. 30, 2000, 114 Stat. 1654, 1654A–311.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 428; Pub. L. 90–367, §3, June 29, 1968, 82 Stat. 278; Pub. L. 90–623, §1(23), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–454, title III, §307(e), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1149, 1224; Pub. L. 99–251, title III, §306(a), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(c), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 102–484, div. D, title XLIV, §4433(a)(1), Oct. 23, 1992, 106 Stat. 2721; Pub. L. 104–106, div. A, title X, §§1034, 1043(d)(1), Feb. 10, 1996, 110 Stat. 430, 438; Pub. L. 104–201, div. A, title XVI, §1609, Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(1), (f)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417, 2681–429; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1103\], Oct. 30, 2000, 114 Stat. 1654, 1654A–311; Pub. L. 109–163, div. A, title XI, §1102, Jan. 6, 2006, 119 Stat. 3447.)
 
 Historical and Revision Notes
 
@@ -127,6 +127,8 @@ Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(
 The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act is classified to section 2864(a)(2)(A) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+2006—Subsec. (f)(5). Pub. L. 109–163 substituted “September 30, 2010” for “September 30, 2005”.
 
 2000—Subsec. (f)(5). Pub. L. 106–398 substituted “September 30, 2005” for “September 30, 2001”.
 
@@ -282,7 +284,7 @@ Section 4433(b) of Pub. L. 102–484, as amended by Pub. L. 103–337, div. A, t
 
 “(2) The employees described in this paragraph are those employees of the Department of Defense who are to be separated, due to a reduction in force described in paragraph (1), effective on or after the last day of the 90-day period referred to in subsection (a)(2) \[see Effective Date of 1992 Amendment note above\] and before February 1, 2000.
 
-“(3) Nothing in this subsection shall prevent the application of the amendment made by subsection (a)\[amending this section\] with respect to an employee if—
+“(3) Nothing in this subsection shall prevent the application of the amendment made by subsection (a) \[amending this section\] with respect to an employee if—
 
 &emsp;“(A) the preceding paragraphs of this subsection do not apply with respect to such employee; and
 

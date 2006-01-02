@@ -76,7 +76,7 @@ In preparing a report under this section, the Secretary of Energy shall provide,
 
 (3) The Secretary may award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to facilitate the participation of such entities in the development of information under this subsection. The Secretary may also take appropriate action to facilitate the participation of interested members of the public in such development under this subsection.
 
-(Pub. L. 107–314, div. D, title XLIV, §4404, formerly Pub. L. 103–160, div. C, title XXXI, §3153, Nov. 30, 1993, 107 Stat. 1950; Pub. L. 103–337, div. C, title XXXI, §3160(b)–(d), Oct. 5, 1994, 108 Stat. 3094; Pub. L. 104–201, div. C, title XXXI, §3152, Sept. 23, 1996, 110 Stat. 2839; Pub. L. 105–85, div. C, title XXXI, §3160, Nov. 18, 1997, 111 Stat. 2048; renumbered Pub. L. 107–314, div. D, title XLIV,§4404, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(5), Nov. 24, 2003, 117 Stat. 1765.)
+(Pub. L. 107–314, div. D, title XLIV, §4404, formerly Pub. L. 103–160, div. C, title XXXI, §3153, Nov. 30, 1993, 107 Stat. 1950; Pub. L. 103–337, div. C, title XXXI, §3160(b)–(d), Oct. 5, 1994, 108 Stat. 3094; Pub. L. 104–201, div. C, title XXXI, §3152, Sept. 23, 1996, 110 Stat. 2839; Pub. L. 105–85, div. C, title XXXI, §3160, Nov. 18, 1997, 111 Stat. 2048; renumbered Pub. L. 107–314, div. D, title XLIV, §4404, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(5), Nov. 24, 2003, 117 Stat. 1765.)
 
 #### Codification
 

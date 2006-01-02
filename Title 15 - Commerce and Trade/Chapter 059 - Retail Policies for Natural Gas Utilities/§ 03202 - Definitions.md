@@ -30,5 +30,5 @@ For purposes of this chapter—
 
 #### Additional Definitions
 
-The definitions in section 2602 of Title 16, Conservation, apply to this chapter.
+Except as otherwise specifically provided, the definitions in section 2602 of Title 16, Conservation, apply to this chapter.
 

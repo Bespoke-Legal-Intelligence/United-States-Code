@@ -28,7 +28,7 @@ Composition.—(1) The Joint Requirements Oversight Council is composed of—
 
 &emsp;(E) a Marine Corps officer in the grade of general.
 
-(2) Members of the Council, other than the Chairman of the Joint Chiefs of Staff, shall beselected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for such selection by the Secretary of the military department concerned.
+(2) Members of the Council, other than the Chairman of the Joint Chiefs of Staff, shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for such selection by the Secretary of the military department concerned.
 
 (3) The functions of the Chairman of the Joint Chiefs of Staff as chairman of the Council may only be delegated to the Vice Chairman of the Joint Chiefs of Staff.
 

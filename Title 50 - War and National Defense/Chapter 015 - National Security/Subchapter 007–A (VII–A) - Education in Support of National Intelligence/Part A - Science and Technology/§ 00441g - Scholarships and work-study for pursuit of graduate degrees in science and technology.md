@@ -52,6 +52,8 @@ Subsec. (e). Pub. L. 108–458, §1071(a)(3)(F), substituted “If the Director 
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Pilot Program on Recruitment and Training of Intelligence Analysts
@@ -60,7 +62,7 @@ Pub. L. 108–177, title III, §318, Dec. 13, 2003, 117 Stat. 2613, as amended b
 
 “(a)
 
-Pilot Program.—(1) The Director of National Intelligence shall carry out a pilot program to ensure that selected students or former students are provided funds to continue academic training, or are reimbursed for academic training previously obtained, in areas of specialization that the Director, in consultation with the other heads of the elements of the intelligence community, identifies as areas in which the current analytic capabilities of the intelligence community are deficient or in which future analytic capabilities of the intelligence community are likely to be deficient.
+Pilot Program.—(1) The Director of National Intelligence shall carry out a pilot program to ensurethat selected students or former students are provided funds to continue academic training, or are reimbursed for academic training previously obtained, in areas of specialization that the Director, in consultation with the other heads of the elements of the intelligence community, identifies as areas in which the current analytic capabilities of the intelligence community are deficient or in which future analytic capabilities of the intelligence community are likely to be deficient.
 
 “(2) A student or former student selected for participation in the pilot program shall commit to employment with an element of the intelligence community, following completion of appropriate academic training, under such terms and conditions as the Director considers appropriate.
 

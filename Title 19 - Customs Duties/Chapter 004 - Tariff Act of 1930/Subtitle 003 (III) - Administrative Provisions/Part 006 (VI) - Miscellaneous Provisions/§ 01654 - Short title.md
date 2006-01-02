@@ -10,7 +10,7 @@ Pub. L. 108–429, §1, Dec. 3, 2004, 118 Stat. 2434, provided that: “This Act
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provided that: “This Act \[probably means“This title”, enacting sections 1431a and 1583 of this title, amending sections 58c, 482, 1318, 1330, 1411, 1505, 1509, 2075, and 2171 of this title, and enacting provisions set out as notes under sections 58c, 482, 1583, 1625, 2071, 2075, and 2082 of this title\] may be cited as the ‘Customs Border Security Act of 2002’.”
+Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provided that: “This Act \[probably means “This title”, enacting sections 1431a and 1583 of this title, amending sections 58c, 482, 1318, 1330, 1411, 1505, 1509, 2075, and 2171 of this title, and enacting provisions set out as notes under sections 58c, 482, 1583, 1625, 2071, 2075, and 2082 of this title\] may be cited as the ‘Customs Border Security Act of 2002’.”
 
 #### Short Title of 2000 Amendments
 
@@ -18,7 +18,7 @@ Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: “This Act
 
 Pub. L. 106–476, title I, §1441, Nov. 9, 2000, 114 Stat. 2163, provided that: “This chapter \[chapter 3 (§§1441–1443) of subtitle B of title I of Pub. L. 106–476, enacting section 1308 of this title, amending section 69 of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 1308 of this title\], may be cited as the ‘Dog and Cat Protection Act of 2000’.”
 
-Pub. L. 106–387, §1(a) \[title X, §1001\], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that: “This title \[enacting section 1675c of this title and provisions set out as notes under section 1675c of this title\] may be cited as the ‘Continued Dumping and Subsidy Offset Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title X, §1001\], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that: “This title \[enacting section 1675c of this title and provisions set out asnotes under section 1675c of this title\] may be cited as the ‘Continued Dumping and Subsidy Offset Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
@@ -56,7 +56,7 @@ Section 1(c) of Pub. L. 89–241, Oct. 7, 1965, 79 Stat. 933, provided that: “
 
 #### Short Title of 1962 Amendment
 
-Section 1 of Pub. L. 87–456, May 24, 1962, 76 Stat. 72, provided: “That this Act \[amending section 1312 of this title, section 1856 of Title 7, Agriculture, section 41 of Title 21, Food and Drugs, sections 4501 and 6418 of Title 26, Internal Revenue Code, section 474 of former Title 40, Public Buildings, Property, and Works, and section 2201 of Title 42, The Public Health and Welfare, repealing sections 193 to 195, 196a, 420, 1301a, 1308, 1367, 1489,1504, and 1508 of this title and section 2383 of Title 10, Armed Forces, and enacting provisions set out as notes preceding section 1202 of this title and under section 1861 of this title and section 4501 of Title 26\] may be cited as the ‘Tariff Classification Act of 1962’.”
+Section 1 of Pub. L. 87–456, May 24, 1962, 76 Stat. 72, provided: “That this Act \[amending section 1312 of this title, section 1856 of Title 7, Agriculture, section 41 of Title 21, Food and Drugs, sections 4501 and 6418 of Title 26, Internal Revenue Code, section 474 of former Title 40, Public Buildings, Property, and Works, and section 2201 of Title 42, The Public Health and Welfare, repealing sections 193 to 195, 196a, 420, 1301a, 1308, 1367, 1489, 1504, and 1508 of this title and section 2383 of Title 10, Armed Forces, and enacting provisions set out as notes preceding section 1202 of this title and under section 1861 of this title and section 4501 of Title 26\] may be cited as the ‘Tariff Classification Act of 1962’.”
 
 #### Short Title of 1958 Amendment
 
@@ -72,7 +72,7 @@ Section 1 of act June 21, 1955, ch. 169, 69 Stat. 162, provided: “That this Ac
 
 #### Short Title of 1954 Amendment
 
-Section 1 of act Sept. 1, 1954, ch. 1213, 68 Stat. 1136, provided: “That this Act \[enacting sections 1301a and 1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 of Title 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the ‘Customs Simplification Act of 1954’.”
+Section 1 of act Sept. 1, 1954, ch. 1213, 68 Stat. 1136, provided: “That this Act \[enacting sections 1301a and1595a of this title, amending sections 161, 1001, 1201, 1441, 1451, 1581, 1605, 1607, 1610, 1612 of this title, section 545 of Title 18, Crimes and Criminal Procedure, section 91 of Title 46, Appendix, Shipping, sections 1421e, 1644 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 160 and 1332 of this title\] may be cited as the ‘Customs Simplification Act of 1954’.”
 
 #### Short Title of 1953 Amendments
 

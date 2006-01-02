@@ -34,7 +34,7 @@
 
 #### (2) Waiver
 
-&emsp;Notwithstanding paragraph (1), the Secretary may determine the Federal share for any local educational agency which the Secretary determines does not have adequate resources to pay the non-Federal share of the cost of the activities assisted under this subpart.
+&emsp;Notwithstanding paragraph (1), the Secretary may determine the Federal share for any local educational agency which the Secretary determines does not have adequate resources to pay the non-Federal share of thecost of the activities assisted under this subpart.
 
 #### (d) Special rule
 

@@ -4,7 +4,7 @@ The purposes of this part are—
 
 &emsp;(1) to help ensure that children who are limited English proficient, including immigrant children and youth, attain English proficiency, develop high levels of academic attainment in English, and meet the same challenging State academic content and student academic achievement standards as all children are expected to meet;
 
-&emsp;(2) to assist all limited English proficient children, including immigrant children and youth, to achieve at high levels in the core academic subjects so that those children can meet the same challenging State academic content and student academic achievement standards as all children are expected to meet, consistent with section 6311(b)(1) of this title;
+&emsp;(2) to assist all limited English proficient children, including immigrant children and youth, to achieve at high levels in the core academic subjects so that those children canmeet the same challenging State academic content and student academic achievement standards as all children are expected to meet, consistent with section 6311(b)(1) of this title;
 
 &emsp;(3) to develop high-quality language instruction educational programs designed to assist State educational agencies, local educational agencies, and schools in teaching limited English proficient children and serving immigrant children and youth;
 
@@ -32,7 +32,7 @@ A prior section 6812, Pub. L. 89–10, title III, §3112, as added Pub. L. 103�
 
 Prior sections 6813 to 6815 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 
-Section 6813, Pub. L. 89–10, title III, §3113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3639; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(1), (3)\], Sept. 30, 1996, 110 Stat. 3009–233,3009–312; Pub. L. 105–220, title II, §251(b)(2)(D), Aug. 7, 1998, 112 Stat. 1080, defined terms for purposes of prior subchapter III.
+Section 6813, Pub. L. 89–10, title III, §3113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3639; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(1), (3)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 105–220, title II, §251(b)(2)(D), Aug. 7, 1998, 112 Stat. 1080, defined terms for purposes of prior subchapter III.
 
 Section 6814, Pub. L. 89–10, title III, §3114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3640, authorized appropriations and set forth funding rule.
 

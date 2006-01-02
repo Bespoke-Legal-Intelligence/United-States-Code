@@ -20,7 +20,7 @@
 
 (5)(A) The Administration shall promptly act upon an application from a surety to participate in the Preferred Surety Bond Guarantee Program, authorized by paragraph (3), in accordance with criteria and procedures established in regulations pursuant to subsection (d) of this section.
 
-(B) The Administration is authorized to reduce the allotment of bond guarantee authority or terminate the participation of a surety in the Preferred Surety Bond Guarantee Program based on the rate of participation of such surety during the 4 most recent fiscal year quarterscompared to the median rate of participation by the other sureties in the program.
+(B) The Administration is authorized to reduce the allotment of bond guarantee authority or terminate the participation of a surety in the Preferred Surety Bond Guarantee Program based on the rate of participation of such surety during the 4 most recent fiscal year quarters compared to the median rate of participation by the other sureties in the program.
 
 #### (b) Indemnification of surety against loss from avoiding breach
 
@@ -86,7 +86,7 @@ The Administration shall administer this part on a prudent and economically just
 
 The provisions of section 693 of this title shall apply in the administration of this section.
 
-(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3,1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466.)
+(Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) \[title VIII, §805(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466.)
 
 #### Amendments
 
@@ -152,7 +152,7 @@ Section 205 of title II of Pub. L. 100–590 provided that: “The Administratio
 
 #### Small Business Access to Surety Bonding Survey
 
-Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found byComptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
+Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, known as the Small Business Access to Surety Bonding Survey Act of 1992, directed Comptroller General to conduct a comprehensive survey of business firms, from a statistically valid sample of business firms developed from the most recent list of construction firms maintained by Dun and Bradstreet Company and using a questionnaire with specifically designated questions, to obtain data on the experiences of such firms, and especially the experiences of small business concerns, in obtaining surety bonds from corporate surety firms and to submit a report to Congress, not later than 18 months after Sept. 4, 1992, which report was to contain a summary of responses of business firms to the survey and a description of any trends found by Comptroller General in such responses, which specific information on responses and trends of small business concerns, small business concerns owned and controlled by women, and small business concerns owned and controlled by socially and economically disadvantaged individuals.
 
 #### Evaluation of Preferred Surety Bond Guarantee Program; Report
 

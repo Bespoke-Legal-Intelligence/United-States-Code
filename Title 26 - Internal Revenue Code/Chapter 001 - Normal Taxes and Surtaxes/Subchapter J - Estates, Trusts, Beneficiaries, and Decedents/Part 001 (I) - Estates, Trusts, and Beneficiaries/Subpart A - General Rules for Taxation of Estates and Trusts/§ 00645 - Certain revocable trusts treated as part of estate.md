@@ -38,7 +38,3 @@ A prior section 645 was renumbered section 644 of this title.
 
 Section 1305(d) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting this section and amending section 2652 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 121, 1022, 2654, 7491 of this title.
-

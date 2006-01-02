@@ -10,7 +10,7 @@ Requirements To Provide Assistance.—The Secretary of Transportation shall prov
 
 &emsp;(3) acquire and use space in suitable buildings of historic or architectural significance but only if use of the space is feasible and prudent when compared to available alternatives; and
 
-&emsp;(4) encourage State and local governments, local and regional transportation authorities, common carriers, philanthropic organizations, and other responsible persons to develop plansto convert rail passenger terminals into intermodal transportation terminals and civic and cultural activity centers.
+&emsp;(4) encourage State and local governments, local and regional transportation authorities, common carriers, philanthropic organizations, and other responsible persons to develop plans to convert rail passenger terminals into intermodal transportation terminals and civic and cultural activity centers.
 
 (b)
 

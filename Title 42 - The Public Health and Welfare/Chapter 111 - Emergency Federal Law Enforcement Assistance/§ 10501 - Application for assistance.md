@@ -6,7 +6,7 @@ In the event that a law enforcement emergency exists throughout a State or a par
 
 #### (b) Execution of application; period for action of Attorney General on application
 
-An application for assistance under this section shall be submitted in writing by the chief executive officer of a State to the Attorney General, in a form prescribed by rules issued by the Attorney General. The Attorney General shall, after consultation with the Director of the Office of Justice Assistance and appropriate members of the Federal law enforcement community, approve or disapprove such application not later than 10 days after receiving such application.
+An application for assistance under this section shall be submitted in writing by the chief executive officer of a State to the Attorney General, in a form prescribed by rules issued by the Attorney General. The Attorney General shall, after consultation with the Assistant Attorney General for the Office of Justice Programs and appropriate members of the Federal law enforcement community, approve or disapprove such application not later than 10 days after receiving such application.
 
 #### (c) Criteria
 
@@ -24,11 +24,15 @@ Federal law enforcement assistance may be provided if such assistance is necessa
 
 &emsp;(6) any assistance which the State or other appropriate unit of government has received, or could receive, under any provision of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3701 et seq.\].
 
-(Pub. L. 98–473, title II, §609M, Oct. 12, 1984, 98 Stat. 2103.)
+(Pub. L. 98–473, title II, §609M, Oct. 12, 1984, 98 Stat. 2103; Pub. L. 109–162, title XI, §1113, Jan. 5, 2006, 119 Stat. 3103.)
 
 #### References in Text
 
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(6), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended, title I of which is classified principally to chapter 46 (§3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+
+#### Amendments
+
+2006—Subsec. (b). Pub. L. 109–162 substituted “the Assistant Attorney General for the Office of Justice Programs” for “the Director of the Office of Justice Assistance”.
 
 #### Effective Date
 

@@ -60,7 +60,7 @@ There shall be a unified system prescribed and administered by the Secretary for
 
 &emsp;&emsp;&emsp;(ii) ending on the earlier of the date the erroneous claim is corrected or—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of the first followup review conducted by the State educational agency of the local educational agency under this section after July 1, 2005, the date that is 60 days after the beginning of the period under clause (i); or
+&emsp;&emsp;&emsp;&emsp;(I) in the case of the first followup review conducted by the State educationalagency of the local educational agency under this section after July 1, 2005, the date that is 60 days after the beginning of the period under clause (i); or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any subsequent followup review conducted by the State educational agency of the local educational agency under this section, the date that is 90 days after the beginning of the period under clause (i).
 

@@ -18,7 +18,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (d) No verification requirement for nonprofit charitable organizations
 
-Subject to subsection (a) of this section, a nonprofit charitable organization, in providingany Federal public benefit (as defined in section 1611(c) of this title) or any State or local public benefit (as defined in section 1621(c) of this title), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
+Subject to subsection (a) of this section, a nonprofit charitable organization, in providing any Federal public benefit (as defined in section 1611(c) of this title) or any State or local public benefit (as defined in section 1621(c) of this title), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
 
 (Pub. L. 104–193, title IV, §432, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title V, §§504, 508, Sept. 30, 1996, 110 Stat. 3009–672, 3009–673; Pub. L. 105–33, title V, §5572(a), Aug. 5, 1997, 111 Stat. 641.)
 

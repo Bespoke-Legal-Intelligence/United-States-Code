@@ -60,7 +60,7 @@ The Commission shall consider an application for a construction authorization fo
 
 (3) For purposes of complying with the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and this section, the Secretary need not consider alternate sites to the Yucca Mountain site for the repository to be developed under this part.
 
-(4) Any environmental impact statement prepared in connection with a repository proposed to be constructed by the Secretary under this part shall, to the extent practicable, be adopted by the Commission in connection with the issuance by the Commission of a construction authorization and license for such repository. To the extent such statement is adopted by the Commission, such adoption shall be deemed to also satisfy the responsibilities of the Commission under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and no further consideration shall be required, except that nothing in this subsection shall affect any independent responsibilities of the Commission to protect the public health and safety under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
+(4) Any environmental impact statement prepared in connection with a repository proposed to be constructed by the Secretary under this part shall, to the extent practicable, be adopted by the Commission in connection with the issuance by the Commission of a construction authorization and license for such repository. To the extent such statement is adopted by the Commission, such adoption shall be deemed toalso satisfy the responsibilities of the Commission under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and no further consideration shall be required, except that nothing in this subsection shall affect any independent responsibilities of the Commission to protect the public health and safety under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
 (5) Nothing in this chapter shall be construed to amend or otherwise detract from the licensing requirements of the Nuclear Regulatory Commission established in title II of the Energy Reorganization Act of 1974 (42 U.S.C. 5841 et seq.).
 
@@ -102,7 +102,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Viability Assessment of Yucca Mountain Site
 
-Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995, provided in part: “That no later than September 30, 1998, the Secretary shall provide to the President and to the Congress a viability assessment of the Yucca Mountain site. The viability assessment shall include:
+Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995, provided in part: “That no later than September 30,1998, the Secretary shall provide to the President and to the Congress a viability assessment of the Yucca Mountain site. The viability assessment shall include:
 
 &emsp;“(1) the preliminary design concept for the critical elements for the repository and waste package;
 

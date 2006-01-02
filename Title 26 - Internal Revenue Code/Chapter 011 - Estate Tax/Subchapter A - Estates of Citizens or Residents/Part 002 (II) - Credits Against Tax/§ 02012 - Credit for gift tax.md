@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If a tax on a gift has been paid under chapter 12 (sec. 2501 and following), or under corresponding provisions of prior laws, and thereafter on the death of the donor any amount in respect of such gift is required to be included in the value of the gross estate of the decedent for purposes of this chapter, then there shall be credited against the tax imposed by section 2001 the amount of the tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to so much of the property which constituted the gift as is included in the gross estate, except that the amount of such credit shall not exceed an amount which bears the same ratio to the tax imposed by section 2001 (after deducting from such tax the credit for State death taxes provided by section 2011 and the unified credit provided by section 2010) as the value (at the time of the gift or at the time of the death, whichever is lower) of so much of the property which constituted the gift as is included in the gross estate bears to the value of the entire gross estate reduced by the aggregate amount of the charitable and marital deductions allowed under sections 2055, 2056, and 2106(a)(2).
+If a tax on a gift has been paid under chapter 12 (sec. 2501 and following), or under corresponding provisions of prior laws, and thereafter on the death of the donor any amount in respect of such gift is required to be included in the value of the gross estate of the decedent for purposes of this chapter, then there shall be credited against the tax imposed by section 2001 the amount of the tax paid on a gift under chapter 12, or under corresponding provisions of prior laws, with respect to so much of the property which constituted the gift as is included in the gross estate, except that the amount of such credit shall not exceed an amount which bears the same ratio to the tax imposed by section 2001 (after deducting from such tax the unified credit provided by section 2010) as the value (at the time of the gift or at the time of the death, whichever is lower) of so much of the property which constituted the gift as is included in the gross estate bears to the value of the entire gross estate reduced by the aggregate amount of the charitable and marital deductions allowed under sections 2055, 2056, and 2106(a)(2).
 
 #### (b) Valuation reductions
 
@@ -38,11 +38,13 @@ No credit shall be allowed under this section with respect to the amount of any 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 375; Pub. L. 91–614, title I, §102(d)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(1), title XX, §2001(a)(3), (c)(1)(B), Oct. 4, 1976, 90 Stat. 1804, 1848, 1850; Pub. L. 97–34, title IV, §403(a)(2)(A), Aug. 13, 1981, 95 Stat. 301; Pub. L. 107–16, title V, §532(c)(1), June 7, 2001, 115 Stat. 73.)
 
-#### Amendment of Subsection (a)
+#### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §532(c)(1), (d), title IX, §901, June 7, 2001, 115 Stat. 73, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (a) of this section is temporarily amended by striking out “the credit for State death taxes provided by section 2011 and” before “the unified credit”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–16, §§532(c)(1), 901, temporarily struck out “the credit for State death taxes provided by section 2011 and” before “the unified credit”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1981—Subsec. (b)(2). Pub. L. 97–34 substituted “the amount of such value, reduced as provided in paragraph (1)” for “an amount which bears the same ratio to such value (reduced as provided in paragraph (1) of this subsection) as the aggregate amount of the marital deductions allowed under section 2056(a) bears to the aggregate amount of such marital deductions computed without regard to subsection (c) thereof”.
 
@@ -81,8 +83,4 @@ Amendment by section 2001(a)(3), (c)(1)(B) of Pub. L. 94–455 applicable to est
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2001, 2013, 2014, 2102, 2107 of this title.
 

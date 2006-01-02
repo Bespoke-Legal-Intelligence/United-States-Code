@@ -14,7 +14,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 &emsp;(B) For activities on all other lands, section 6 of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8\] (relating to the development of statewide comprehensive outdoor recreation plans).
 
-(3) For purposes of this subsection, the appropriate Secretary or the head of any Federal agency may utilize and make available Federal facilities, equipment, tools and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal agency deems necessary or desirable.
+(3) For purposes of this subsection, the appropriate Secretary or the head of any Federalagency may utilize and make available Federal facilities, equipment, tools and technical assistance to volunteers and volunteer organizations, subject to such limitations and restrictions as the appropriate Secretary or the head of any Federal agency deems necessary or desirable.
 
 (4) No permit or other authorization provided for under provision of any other Federal law shall be conditioned on the existence of any agreement provided for in this section.
 

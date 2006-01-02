@@ -6,9 +6,9 @@ In General.—The following definitions apply in this title:
 
 &emsp;(1) The term “United States”, in a geographic sense, means the States and the District of Columbia.
 
-&emsp;(2) The term “Territory” (except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States) means any Territory organized after August 10, 1956, so long as it remains a Territory.
+&emsp;\[(2) Repealed. Pub. L. 109–163, div. A, title X, §1057(a)(1), Jan. 6, 2006, 119 Stat. 3440.\]
 
-&emsp;(3) The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Territory or Commonwealth.
+&emsp;(3) The term “possessions” includes the Virgin Islands, Guam, American Samoa, and the Guano Islands, so long as they remain possessions, but does not include any Commonwealth.
 
 &emsp;(4) The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
 
@@ -114,7 +114,7 @@ Reserve Components.—The following definitions relating to the reserve componen
 
 &emsp;(1) The term “National Guard” means the Army National Guard and the Air National Guard.
 
-&emsp;(2) The term “Army National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, andthe District of Columbia, active and inactive, that—
+&emsp;(2) The term “Army National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
 
 &emsp;&emsp;(A) is a land force;
 
@@ -196,11 +196,11 @@ Range activities.—The term “range activities” means—
 
 &emsp;&emsp;(A) research, development, testing, and evaluation of military munitions, other ordnance, and weapons systems; and
 
-&emsp;&emsp;(B) the training of members of the armed forces in the use and handling of military munitions, other ordnance, and weapons systems.
+&emsp;&emsp;(B) the training of members of the armed forces in the use and handling of militarymunitions, other ordnance, and weapons systems.
 
 &emsp;(3)
 
-Operational range.—The term “operational range” means a range that is under the jurisdiction, custody, or control of the Secretary of Defense and—
+Operational range.—The term “operational range” means a range that is under the jurisdiction, custody, or control of the Secretary of a military department and—
 
 &emsp;&emsp;(A) that is used for range activities, or
 
@@ -214,7 +214,7 @@ Military munitions.—(A) The term “military munitions” means all ammunition
 
 &emsp;&emsp;(i) Confined gaseous, liquid, and solid propellants.
 
-&emsp;&emsp;(ii) Explosives, pyrotechnics, chemical and riot control agents, smokes, and incendiaries, including bulk explosives, and chemical warfare agents.
+&emsp;&emsp;(ii) Explosives, pyrotechnics, chemical and riot control agents, smokes, and incendiaries, including bulk explosives and chemical warfare agents.
 
 &emsp;&emsp;(iii) Chemical munitions, rockets, guided and ballistic missiles, bombs, warheads, mortar rounds, artillery ammunition, small arms ammunition, grenades, mines, torpedoes, depth charges, cluster munitions and dispensers, and demolition charges.
 
@@ -258,7 +258,7 @@ Reference to Title 1
 
 Definitions.—For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 3; Pub. L. 85–861, §§1(1), 33(a)(1), Sept. 2, 1958, 72 Stat. 1437, 1564; Pub. L. 86–70, §6(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §4(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–649, §6(f)(1), Sept. 7, 1962, 76 Stat. 494; Pub. L. 90–235, §7(a)(1), Jan. 2, 1968, 81 Stat. 762; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §1, Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title I, §§101, 115(a), title V, §501(2), Dec. 12, 1980, 94 Stat. 2839, 2877, 2907; Pub. L. 97–22, §2(a), July 10, 1981, 95 Stat. 124; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title IV, §414(a)(1), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–348, title III, §303, July 1, 1986, 100 Stat. 703; Pub. L. 99–433, title III, §302, Oct. 1, 1986, 100 Stat. 1022; Pub. L. 100–26, §7(i), (k)(1), Apr. 21, 1987, 101 Stat. 282, 283; Pub. L. 100–180, div. A, title XII, §§1231(1), (20), 1233(a)(2), Dec. 4, 1987, 101 Stat. 1160, 1161; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XII, §1204, Nov. 5, 1990, 104 Stat. 1658; Pub. L. 102–190, div. A, title VI, §631(a), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(a), Oct. 23, 1992, 106 Stat. 2494; Pub. L. 103–337, div. A, title V, §514, title XVI, §§1621, 1671(c)(1), Oct. 5, 1994, 108 Stat. 2753, 2960, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(1), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title V, §522, Sept. 23, 1996, 110 Stat. 2517; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title X, §§1042(a), 1043(a), 1045(a)(2), Nov. 24, 2003, 117 Stat. 1608, 1610, 1612; Pub. L. 108–375, div. A, title X, §1084(a), Oct. 28, 2004, 118 Stat. 2060; Pub. L. 109–163, div. A, title X, §§1056(c)(1), 1057(a)(1), (2), Jan. 6, 2006, 119 Stat. 3439, 3440.)
 
 Historical and Revision Notes<br>1956
 
@@ -532,6 +532,14 @@ Pub. L. 107–296, §1704(b)(1), which directed amendment of section 101(9) of t
 
 #### Amendments
 
+2006—Subsec. (a)(2). Pub. L. 109–163, §1057(a)(1), struck out par. (2) which read as follows: “The term ‘Territory’ (except as provided in section 101(1) of title 32 for laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States) means any Territory organized after August 10, 1956, so long as it remains a Territory.”
+
+Subsec. (a)(3). Pub. L. 109–163, §1057(a)(2), struck out “Territory or” before “Commonwealth”.
+
+Subsec. (e)(4)(B)(ii). Pub. L. 109–163, §1056(c)(1), struck out comma after “bulk explosives”.
+
+2004—Subsec. (e)(3). Pub. L. 108–375 substituted “Secretary of a military department” for “Secretary of Defense” in introductory provisions.
+
 2003—Subsec. (a)(9)(D). Pub. L. 108–136, §1045(a)(2), substituted “Homeland Security” for “Transportation”.
 
 Subsec. (a)(16), (17). Pub. L. 108–136, §1043(a), added pars. (16) and (17).
@@ -632,7 +640,7 @@ Amendment by section 1671(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 #### Effective Date of 1987 Amendment
 
-Section 1233(c)\[(1)\] of Pub. L. 100–180 provided that: “The amendments made by subsection (a) \[amending this section, section 2432 of this title, and section 406b of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
+Section 1233(c)\[(1)\] of Pub. L. 100–180 provided that: “The amendments made by subsection (a) \[amending this section, section 2432 of this title, and section 406bof Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in the enactment of the Defense Technical Corrections Act of 1987 (Public Law 100–26).”
 
 #### Effective Date of 1981 Amendment
 
@@ -663,6 +671,10 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 
 Section 33(g) of Pub. L. 85–861 provided that: “This section \[see Tables for classification\] is effective as of August 10, 1956, for all purposes.”
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–148, div. A, title VIII, §8126(a), Dec. 30, 2005, 119 Stat. 2728, provided that: “This Act \[probably should be “section”, which amended section 2554 of this title and section 5309 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 2554 of this title and section 301 of Title 5, Government Organization and Employees\] may be cited as the ‘Support Our Scouts Act of 2005’.”
 
 #### Short Title of 1999 Amendment
 
@@ -720,11 +732,89 @@ Section 1074(e) of Pub. L. 104–201 provided that: “For purposes of applying 
 
 Section 1506 of title XV of div. A of Pub. L. 104–106 provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this title \[see Tables for classification\], this title shall be treated as having been enacted immediately before the other provisions of this Act.”
 
-Section 1070(h) of Pub. L. 103–337 provided that: “For purposes of applying amendments made by provisionsof this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+Section 1070(h) of Pub. L. 103–337 provided that: “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Pub. L. 103–160, div. A, title XI, §1182(h), Nov. 30, 1993, 107 Stat. 1774, provided that: “For purposes of applying the amendments made by provisions of this Act other than this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Section 1055 of Pub. L. 102–484 provided that: “For purposes of applying the amendments made by provisions of this Act other than sections 1052, 1053, and 1054 \[see Tables for classification\], those sections shall be treated as having been enacted immediately before the other provisions of this Act.”
+
+#### Congressional Defense Committees Defined
+
+The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in section 101(a)(16) of this title:
+
+Pub. L. 109–163, §3, Jan. 6, 2006, 119 Stat. 3152.
+
+Pub. L. 108–375, §3, Oct. 28, 2004, 118 Stat. 1825.
+
+Pub. L. 109–148, div. A, title VIII, §8028, Dec. 30, 2005, 119 Stat. 2704, provided that for purposes of Pub. L. 109–148 the term “congressional defense committees” means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives and, for any matter pertaining to basic allowance for housing, facilities sustainment, restoration and modernization, environmental restoration and the Defense Health Program, “congressional defense committees” also means the Subcommittee on Military Quality of Life and Veterans Affairs, and Related Agencies of the Committee on Appropriations of the House of Representatives.
+
+The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 108–287, title VIII, §8030, Aug. 5, 2004, 118 Stat. 977.
+
+Pub. L. 108–87, title VIII, §8031, Sept. 30, 2003, 117 Stat. 1079.
+
+Pub. L. 107–248, title VIII, §8031, Oct. 23, 2002, 116 Stat. 1543.
+
+Pub. L. 107–117, div. A, title VIII, §8034, Jan. 10, 2002, 115 Stat. 2255.
+
+Pub. L. 106–259, title VIII, §8034, Aug. 9, 2000, 114 Stat. 682.
+
+Pub. L. 106–79, title VIII, §8036, Oct. 25, 1999, 113 Stat. 1239.
+
+The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 108–136, §3, Nov. 24, 2003, 117 Stat. 1406.
+
+Pub. L. 107–314, §3, Dec. 2, 2002, 116 Stat. 2471.
+
+Pub. L. 107–107, §3, Dec. 28, 2001, 115 Stat. 1027.
+
+Pub. L. 106–398, §1 \[§3\], Oct. 30, 2000, 114 Stat. 1654, 1654A–19.
+
+Pub. L. 106–65, §3, Oct. 5, 1999, 113 Stat. 529.
+
+Pub. L. 103–337, §3, Oct. 5, 1994, 108 Stat. 2678.
+
+Pub. L. 103–160, §3, Nov. 30, 1993, 107 Stat. 1562.
+
+Pub. L. 102–484, §3, Oct. 23, 1992, 106 Stat. 2331.
+
+Pub. L. 102–190, §3, Dec. 5, 1991, 105 Stat. 1301.
+
+Pub. L. 102–25, §3(4), Apr. 6, 1991, 105 Stat. 77.
+
+Pub. L. 101–510, §3, Nov. 5, 1990, 104 Stat. 1498.
+
+Pub. L. 101–189, §4, Nov. 29, 1989, 103 Stat. 1364.
+
+The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the National Security Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on National Security of the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 105–262, title VIII, §8036, Oct. 17, 1998, 112 Stat. 2305.
+
+Pub. L. 105–56, title VIII, §8038, Oct. 8, 1997, 111 Stat. 1229.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8040\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–97.
+
+Pub. L. 104–61, title VIII, §8049, Dec. 1, 1995, 109 Stat. 661.
+
+The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the House of Representatives:
+
+Pub. L. 105–261, §3, Oct. 17, 1998, 112 Stat. 1935.
+
+Pub. L. 105–85, §3, Nov. 18, 1997, 111 Stat. 1645.
+
+Pub. L. 104–201, §3, Sept. 23, 1996, 110 Stat. 2439.
+
+Pub. L. 104–106, §3, Feb. 10, 1996, 110 Stat. 204.
+
+The following provisions defined the term “congressional defense committees” for purposes of the Acts in which they were contained to mean the Committees on Armed Services, the Committees on Appropriations, and the subcommittees on Defense of the Committee on Appropriations, of the Senate and the House of Representatives:
+
+Pub. L. 103–335, title VIII, §8056, Sept. 30, 1994, 108 Stat. 2631.
+
+Pub. L. 103–139, title VIII, §8067, Nov. 11, 1993, 107 Stat. 1455.
+
+Pub. L. 102–172, title VIII, §8116, Nov. 26, 1991, 105 Stat. 1203.
 
 #### Definitions for Purposes of Pub. L. 102–25
 
@@ -737,8 +827,4 @@ Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–1
 &emsp;“(3) The term ‘Persian Gulf conflict’ means the period beginning on August 2, 1990, and ending thereafter on the date prescribed by Presidential proclamation or by law.
 
 &emsp;“(4) The term ‘congressional defense committees’ has the meaning given that term in section 3 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1498).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1074, 3750, 6246, 8750 of this title; title 5 sections 6323, 8331, 8401, 8906; title 8 section 1154; title 14 section 423; title 15 sections 636, 1681a; title 18 sections 232, 3267; title 20 sections 1078, 1087dd, 6673; title 26 sections 121, 7508; title 31 section 3711; title 33 section 3002; title 37 sections 101, 308, 436; title 39 section 3401; title 41 sections 259, 428a; title 42 sections 2651, 5170b, 7235, 12639; title 46 section 53107; title 46 App. section 1187b; title 49 sections 40125, 44903; title 50 App. sections 511, 592, 593.
 

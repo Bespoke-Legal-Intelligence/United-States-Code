@@ -96,7 +96,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;A statement that—
 
-&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of anyoutstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
+&emsp;&emsp;(A) under certain conditions, the creditor may terminate any account under the plan and require immediate repayment of any outstanding balance, prohibit any additional extension of credit to the account, or reduce the credit limit applicable to the account; and
 
 &emsp;&emsp;(B) the consumer may receive, upon request, more specific information about the conditions under which the creditor may take any action described in subparagraph (A).
 
@@ -154,9 +154,13 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;&emsp;(iii) any outstanding balance of an account under the plan.
 
-#### (13) Statement regarding consultation of tax advisor
+#### (13) Statement regarding tax deductibility
 
-&emsp;A statement that the consumer should consult a tax advisor regarding the deductibility of interest and charges under the plan.
+&emsp;A statement that—
+
+&emsp;&emsp;(A) the consumer should consult a tax advisor regarding the deductibility of interest and charges under the plan; and
+
+&emsp;&emsp;(B) in any case in which the extension of credit exceeds the fair market value (as defined under title 26) of the dwelling, the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes.
 
 #### (14) Disclosure requirements established by Board
 
@@ -220,15 +224,39 @@ In addition to the disclosures required under subsection (a) of this section wit
 
 &emsp;(2) any pamphlet which provides substantially similar information to the information described in such section, as determined by the Board.
 
-(Pub. L. 90–321, title I, §127A, as added Pub. L. 100–709, §2(a), Nov. 23, 1988, 102 Stat. 4725.)
+(Pub. L. 90–321, title I, §127A, as added Pub. L. 100–709, §2(a), Nov. 23, 1988, 102 Stat. 4725; amended Pub. L. 109–8, title XIII, §1302(a)(1), Apr. 20, 2005, 119 Stat. 208.)
 
 #### References in Text
 
 Section 4 of the Home Equity Consumer Protection Act of 1988, referred to in subsec. (e)(1), is section 4 of Pub. L. 100–709, which is set out as a note below.
 
+#### Amendments
+
+2005—Subsec. (a)(13). Pub. L. 109–8 substituted “tax deductibility” for “consultation of tax advisor” in heading, designated existing provisions as introductory provisions and subpar. (A), inserted dash, substituted “; and” for period at end of subpar. (A), and added subpar. (B).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+
 #### Effective Date
 
 For effective date of section, see Regulations; Effective Date note below.
+
+#### Regulations
+
+Pub. L. 109–8, title XIII, §1302(c), Apr. 20, 2005, 119 Stat. 209, provided that:
+
+“(1)
+
+In general.—The Board \[of Governors of the Federal Reserve System\] shall promulgate regulations implementing the amendments made by this section \[amending this section and sections 1638, 1664, and 1665b of this title\].
+
+“(2)
+
+Effective date.—Regulations issued under paragraph (1) shall not take effect until the later of—
+
+&emsp;“(A) 12 months after the date of enactment of this Act \[Apr. 20, 2005\]; or
+
+&emsp;“(B) 12 months after the date of publication of such final regulations by the Board.”
 
 #### Regulations; Effective Date
 

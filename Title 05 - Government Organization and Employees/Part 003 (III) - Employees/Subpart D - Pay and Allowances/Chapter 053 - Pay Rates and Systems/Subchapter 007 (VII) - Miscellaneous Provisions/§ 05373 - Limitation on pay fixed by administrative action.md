@@ -1,6 +1,6 @@
 ### §5373. Limitation on pay fixed by administrative action
 
-(a) Except as provided in subsection (b) and by the Government Employees Salary Reform Act of 1964 (78 Stat. 400) and notwithstanding the provisions of other statutes, the head of an Executive agency or military department who is authorized to fix by administrative action the annual rate of basic pay for a position or employee may not fix the rate at more than the rate for level IV of the Executive Schedule. This section does not impair the authorities provided by—
+(a) Except as provided in subsection (b) and by the Government Employees Salary Reform Act of 1964 (78 Stat. 400) and notwithstanding the provisions of other statutes, the head of an Executive agency or military department who isauthorized to fix by administrative action the annual rate of basic pay for a position or employee may not fix the rate at more than the rate for level IV of the Executive Schedule. This section does not impair the authorities provided by—
 
 &emsp;(1) sections 248, 482, 1766, and 1819 of title 12, section 206 of the Bank Conservation Act, sections 2B(b) and 21A(e)(4) of the Federal Home Loan Bank Act, section 2A(i) <sup>1</sup> of the Home Owners’ Loan Act, and sections 5.11 and 5.58 of the Farm Credit Act of 1971;
 
@@ -38,7 +38,7 @@ Standard changes are made to conform to the definitions applicable and the style
 
 #### References in Text
 
-The Government Employees Salary Reform Act of 1964 (78 Stat. 400), referred to in subsec. (a), is Pub. L.88–426, Aug. 14, 1964, 78 Stat. 400, as amended. For complete classification of this Act to the Code, see Tables.
+The Government Employees Salary Reform Act of 1964 (78 Stat. 400), referred to in subsec. (a), is Pub. L. 88–426, Aug. 14, 1964, 78 Stat. 400, as amended. For complete classification of this Act to the Code, see Tables.
 
 Level IV of the Executive Schedule, referred to in subsec. (a), is set out in section 5315 of this title.
 

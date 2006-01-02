@@ -16,7 +16,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Ticket terms
 
-&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and to which such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
+&emsp;A ticket issued under paragraph (1) shall consist of a document which evidences the Commissioner's agreement to pay (as provided in paragraph (4)) an employment network, which is serving under the Program and towhich such ticket is assigned by the beneficiary, for such employment services, vocational rehabilitation services, and other support services as the employment network may provide to the beneficiary.
 
 #### (4) Payments to employment networks
 
@@ -122,7 +122,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (C) Compliance with selection criteria
 
-&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specific selection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
+&emsp;&emsp;No employment network may serve under the Program unless it meets and maintains compliance with both general selection criteria (such as professional and educational qualifications, where applicable) and specificselection criteria (such as substantial expertise and experience in providing relevant employment services and supports).
 
 #### (D) Single or associated providers allowed
 
@@ -162,7 +162,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;&emsp;(iii) a statement of any terms and conditions related to the provision of such services and supports; and
 
-&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the Stategrant program authorized under section 1320b–21 of this title;
+&emsp;&emsp;&emsp;(iv) a statement of understanding regarding the beneficiary's rights under the Program (such as the right to retrieve the ticket to work and self-sufficiency if the beneficiary is dissatisfied with the services being provided by the employment network) and remedies available to the individual, including information on the availability of advocacy services and assistance in resolving disputes through the State grant program authorized under section 1320b–21 of this title;
 
 &emsp;&emsp;(D) provide a beneficiary the opportunity to amend the individual work plan if a change in circumstances necessitates a change in the plan; and
 
@@ -242,7 +242,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (A) Percentages and periods
 
-&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible under paragraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
+&emsp;&emsp;The Commissioner shall periodically review the percentage specified in paragraph (2)(C), the total payments permissible underparagraph (3)(C), and the period of time specified in paragraph (4)(B) to determine whether such percentages, such permissible payments, and such period provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, while providing for appropriate economies. The Commissioner may alter such percentage, such total permissible payments, or such period of time to the extent that the Commissioner determines, on the basis of the Commissioner's review under this paragraph, that such an alteration would better provide the incentive and economies described in the preceding sentence.
 
 #### (B) Number and amounts of milestone payments
 
@@ -456,7 +456,7 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 “(2)
 
-Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensure that the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
+Requirements.—Implementation of the Program at each phase-in site shall be carried out on a wide enough scale to permit a thorough evaluation of the alternative methods under consideration, so as to ensurethat the most efficacious methods are determined and in place for full implementation of the Program on a timely basis.
 
 “(3)
 
@@ -642,7 +642,7 @@ Experts and consultants.—Subject to rules prescribed by the Commissioner of So
 
 &emsp;“(D)
 
-Staff of federal agencies.—Upon request of the Panel, the head of any Federal department oragency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
+Staff of federal agencies.—Upon request of the Panel, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Panel to assist it in carrying out its duties under this Act \[see Tables for classification\].
 
 “(5)
 

@@ -66,7 +66,7 @@ The standards and procedures prescribed under subsection (b) of this section sha
 
 #### (g) Acts or practices occurring prior to date of enactment of chapter or subsequent to its expiration or repeal
 
-No provision of this section shall be construed as granting immunity for, or as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceeding arising from, any act or practice which occurred prior to the date of enactment of this chapter or subsequent to its expiration or repeal.
+No provision of this section shall be construed as granting immunity for, or as limiting or in any way affecting any remedy or penalty whichmay result from any legal action or proceeding arising from, any act or practice which occurred prior to the date of enactment of this chapter or subsequent to its expiration or repeal.
 
 #### (h) Applicability of Defense Production Act of 1950
 
@@ -82,7 +82,7 @@ The Attorney General and the Federal Trade Commission shall each submit to the C
 
 #### (j) Defense in breach of contract actions
 
-In any action in any Federal or State court for breach of contract, there shall be available as adefense that the alleged breach of contract was caused predominantly by action taken during an international energy supply emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section.
+In any action in any Federal or State court for breach of contract, there shall be available as a defense that the alleged breach of contract was caused predominantly by action taken during an international energy supply emergency to carry out a voluntary agreement or plan of action authorized and approved in accordance with this section.
 
 #### (k) Definitions
 
@@ -134,7 +134,7 @@ The antitrust defense under subsection (f) of this section shall not extend to t
 
 (2) This subsection is enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions described by paragraph (3); it supersedes other rules only to the extent that is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed inthe Senate in the case of resolutions described by paragraph (3); it supersedes other rules only to the extent that is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
@@ -178,7 +178,7 @@ Subsec. (e)(2). Pub. L. 105–177, §1(4)(C), substituted “may” for “shall
 
 Subsec. (f)(2). Pub. L. 105–177, §1(4)(D), inserted “voluntary agreement or” after “approved”.
 
-Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(<i>o</i>)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(<i>o</i>) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975.”
+Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(<i>o</i>)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(<i>o</i>) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to internationalvoluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975.”
 
 Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘allocation and information provisions of the international energy program’ means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program.”
 

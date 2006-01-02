@@ -2,7 +2,7 @@
 
 #### (a) Appointment; duties; qualifications; termination of duties
 
-Within thirty days after December 22, 1974, the Director of the Federal Mediation and Conciliation Service shall appoint a Mediator (hereinafter referred to as the “Mediator”) who shall assist in the negotiations for the settlement and partition of the relative rights and interests, as determined by the decision in the case of Healing v. Jones (210 F. Supp. 125, D. Ariz., 1962, aff'd 363 U.S. 758, 1963) (hereinafter referred to as the “Healing case”), of the Hopi and Navajo Tribes\(hereinafter referred to as the “tribes”) to and in lands within the reservation established by the Executive order of December 16, 1882, except land management district no. 6 (such lands hereinafter referred to as the “joint use area”). The Mediator shall not have any interest, direct or indirect, in the settlement of the interests and rights set out in this subsection. The duties of the Mediator shall cease upon the entering of a full agreement into the records of the supplemental proceedings pursuant to section 640d–2 of this title or the submission of a report to the District Court after a default in negotiations or a partial agreement pursuant to section 640d–3 of this title.
+Within thirty days after December 22, 1974, the Director of the Federal Mediation and Conciliation Service shall appoint a Mediator (hereinafter referred to as the “Mediator”) who shall assist in the negotiations for the settlement and partition of the relative rights and interests, as determined by the decision in the case of Healing v. Jones (210 F. Supp. 125, D. Ariz., 1962, aff'd 363 U.S. 758, 1963) (hereinafter referred to as the “Healing case”), of the Hopi and Navajo Tribes (hereinafter referred to as the “tribes”) to and in lands within the reservation established by the Executive order of December 16, 1882, except land management district no. 6 (such lands hereinafter referred to as the “joint use area”). The Mediator shall not have any interest, direct or indirect, in the settlement of the interests and rights set out in this subsection. The duties of the Mediator shall cease upon the entering of a full agreement into the records of the supplemental proceedings pursuant to section 640d–2 of this title or the submission of a report to the District Court after a default in negotiations or a partial agreement pursuant to section 640d–3 of this title.
 
 #### (b) Nature of proceedings
 
@@ -52,7 +52,7 @@ Pub. L. 104–301, Oct. 11, 1996, 110 Stat. 3649, as amended by Pub. L. 105–25
 
 &emsp;“(2) it is in the best interest of the Tribe and the United States that there be a fair and final settlement of certain issues remaining in connection with the Navajo-Hopi Land Settlement Act of 1974, including the full and final settlement of the multiple claims that the Tribe has against the United States;
 
-&emsp;“(3) this Act, together with the Settlement Agreement executed on December 14, 1995, and the Accommodation Agreement (as incorporated by the Settlement Agreement), provide the authority for the Tribe to enter agreements with eligible Navajo families in order for those families to remain residents of the Hopi Partitioned Lands for a period of 75 years, subject to the terms and conditions of the Accommodation Agreement;
+&emsp;“(3) this Act, together with the Settlement Agreement executed on December 14, 1995, and the Accommodation Agreement (as incorporated by the Settlement Agreement), provide the authority for the Tribeto enter agreements with eligible Navajo families in order for those families to remain residents of the Hopi Partitioned Lands for a period of 75 years, subject to the terms and conditions of the Accommodation Agreement;
 
 &emsp;“(4) the United States acknowledges and respects—
 
@@ -76,7 +76,7 @@ Accommodation.—The term ‘Accommodation’ has the meaning provided that term
 
 &emsp;“(2)
 
-Hopi partitioned lands.—The term ‘Hopi Partitioned Lands’ means lands located in the Hopi Partitioned Area, as defined in section 168.1(g) of title 25,Code of Federal Regulations (as in effect on the date of enactment of this Act \[Oct. 11, 1996\]).
+Hopi partitioned lands.—The term ‘Hopi Partitioned Lands’ means lands located in the Hopi Partitioned Area, as defined in section 168.1(g) of title 25, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Oct. 11, 1996\]).
 
 &emsp;“(3)
 
@@ -206,7 +206,7 @@ Payment.—The Secretary shall make a payment in the amount specified in subsect
 
 #### “SEC. 11. EFFECT OF THIS ACT ON CASES INVOLVING THE NAVAJO NATION AND THE HOPI TRIBE.
 
-“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude, limit, or endorse, in any manner, actions by the NavajoNation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
+“Nothing in this Act or the amendments made by this Act shall be interpreted or deemed to preclude, limit, or endorse, in any manner, actions by the Navajo Nation that seek, in court, an offset from judgments for payments received by the Hopi Tribe under the Settlement Agreement.
 
 #### “SEC. 12. WATER RIGHTS.
 
@@ -266,7 +266,7 @@ Statutory Construction with Respect to Water Rights of Other Federally Recognize
 
 “(h)
 
-Statutory Construction.—Nothing in this section shall be construed to determine the law applicable to water use on lands owned by the United States, other than on the newly acquired trust lands. The granting of the right to make beneficial use of unappropriated surface water on the newly acquired trust lands with a priority date such lands are taken into trust shall not be construed to imply that such right is a Federal reserved water right. Nothing in this section or any other provision of this Act shall be construed to establish any Federal reserved right to groundwater. Authority for the Secretary to take land into trust for the Tribe pursuant to the Settlement Agreement and this Act shall be construed as having been provided solely by the provisions of this Act.”
+Statutory Construction.—Nothing in this section shall be construed to determine the law applicable to water use on lands owned by the United States, other than on the newly acquired trust lands. The granting of the right to make beneficial use of unappropriated surface water on the newly acquired trust lands with a priority date such lands are taken into trust shall not be construed to imply that such right is a Federal reserved water right. Nothing in this section or any other provision of this Act shall be construed to establish any Federal reserved right to groundwater. Authority for the Secretary to take land into trust for the Tribe pursuant to the Settlement Agreement and thisAct shall be construed as having been provided solely by the provisions of this Act.”
 
 #### Executive Order No. 11829
 

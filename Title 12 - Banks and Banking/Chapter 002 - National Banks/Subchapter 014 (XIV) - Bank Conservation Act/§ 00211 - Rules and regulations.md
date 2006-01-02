@@ -16,7 +16,7 @@ This Act, referred to in subsec. (a), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, as
 
 Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, §206(b), (<i>o</i>), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873,as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 #### Amendments
 
@@ -24,5 +24,5 @@ The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 
 
 #### Exception as to Transfer of Functions
 
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, notincluded in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 

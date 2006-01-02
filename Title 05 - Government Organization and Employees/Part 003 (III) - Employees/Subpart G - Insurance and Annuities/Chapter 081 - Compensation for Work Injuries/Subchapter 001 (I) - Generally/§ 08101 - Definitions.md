@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
-&emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused bythe employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
+&emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
 &emsp;(6) “widow” means the wife living with or dependent for support on the decedent at the time of his death, or living apart for reasonable cause or because of his desertion;
 
@@ -46,7 +46,7 @@ For the purpose of this subchapter—
 
 &emsp;(11) “widower” means the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause or because of her desertion;
 
-&emsp;(12) “compensation” includes the money allowance payable to an employee or his dependents and any other benefits paid for from the Employees’ Compensation Fund, but this does not in any way reduce the amount of the monthly compensation payable for disability or death;
+&emsp;(12) “compensation” includes the money allowance payable to an employee or his dependents and any other benefits paid for from theEmployees’ Compensation Fund, but this does not in any way reduce the amount of the monthly compensation payable for disability or death;
 
 &emsp;(13) “war-risk hazard” means a hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war or armed conflict between military forces of any origin, occurring in the country in which an individual to whom this subchapter applies is serving; from—
 
@@ -88,7 +88,7 @@ For the purpose of this subchapter—
 
 &emsp;(19) “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
 
-&emsp;(20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officeror hospital designated as a United States medical officer or hospital by the Secretary of Labor.
+&emsp;(20) “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 532; Pub. L. 90–83, §1(4), (48), Sept. 11, 1967, 81 Stat. 196, 209; Pub. L. 93–416, §1, Sept. 7, 1974, 88 Stat. 1143; Pub. L. 96–499, title IV, §421(b), Dec. 5, 1980, 94 Stat. 2608; Pub. L. 97–463, §4, Jan. 12, 1983, 96 Stat. 2532; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274.)
 
@@ -256,7 +256,7 @@ Pars. (20), (21). Pub. L. 93–416, §1(f), added pars. (20) and (21).
 
 #### Effective Date of 1980 Amendment
 
-Section 422 of Pub. L. 96–499 provided that: “The amendments made by section 421 \[amending this section and section 8146a of this title\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\] with respect to any adjustments which are to be made on or after that date; except that the period specified in suchsection as extending from December to December shall, with respect to the adjustment to be made on March 1, 1981, extend instead from the last month in which the price index resulted in an adjustment prior to enactment to December of 1980.”
+Section 422 of Pub. L. 96–499 provided that: “The amendments made by section 421 \[amending this section and section 8146a of this title\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1980\] with respect to any adjustments which are to be made on or after that date; except that the period specified in such section as extending from December to December shall, with respect to the adjustment to be made on March 1, 1981, extend instead from the last month in which the price index resulted in an adjustment prior to enactment to December of 1980.”
 
 #### Effective Date of 1974 Amendment
 
@@ -264,7 +264,7 @@ Section 28(a) of Pub. L. 93–416 provided that: “Except as otherwise provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act \[amending section 8111 of this title and enacting provisions set out as a note under section 8111 of this title\] may be cited as the ‘Attendant Allowance Adjustment Act’.”
+Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: “This Act \[amending section 8111 of thistitle and enacting provisions set out as a note under section 8111 of this title\] may be cited as the ‘Attendant Allowance Adjustment Act’.”
 
 #### Transfer of Functions
 

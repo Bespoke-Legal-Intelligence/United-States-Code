@@ -52,7 +52,3 @@ Section applicable to payments of unemployment compensation made after Dec. 31, 
 
 For provisions relating to credit or refund of overpayment of tax resulting from 1984 amendment to section 112(d) of Pub. L. 95–600, see section 1075(b) of Pub. L. 98–369, set out as a note under section 85 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 502.
-

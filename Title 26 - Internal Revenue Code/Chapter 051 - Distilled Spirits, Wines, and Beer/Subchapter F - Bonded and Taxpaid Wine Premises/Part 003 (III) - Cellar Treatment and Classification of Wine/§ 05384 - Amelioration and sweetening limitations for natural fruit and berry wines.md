@@ -8,7 +8,7 @@ To natural wine made from berries or fruit other than grapes, pure dry sugar or 
 
 (1) Any natural fruit or berry wine (other than grape wine) of a winemaker's own production may, if not made under subsection (a) of this section, be ameliorated to correct high acid content. Ameliorating material calculations and accounting shall be separate for wines made from each different kind of fruit.
 
-(2) Pure dry sugar or liquid sugar may be used in the production of wines under this subsection for the purpose of correcting natural deficiencies, but not to such an extent as would reduce the natural fixed acid in the corrected juice or wine to five parts per thousand. The quantity of sugar so used shall not exceed the quantity which would have been required to adjust the juice, prior to fermentation, to a total solids content of 25 degrees (Brix). Such sugar shall be added prior to the completion of fermentation of the wine. After such addition of the sugar, the wine or juice shall be treated and accounted for as provided in section 5383(b), covering the production of high acid grape wines, except that—
+(2) Pure dry sugar or liquid sugar may be used in the production of wines under this subsection for the purpose of correcting natural deficiencies, but not to such an extent as would reduce the natural fixed acid in the corrected juice or wine to five parts per thousand. The quantity of sugar so used shall not exceed the quantity which would have been required to adjust the juice, prior to fermentation, to a total solids content of 25 degrees (Brix). Such sugar shall be added prior to the completion of fermentation ofthe wine. After such addition of the sugar, the wine or juice shall be treated and accounted for as provided in section 5383(b), covering the production of high acid grape wines, except that—
 
 &emsp;(A) Natural fixed acid shall be calculated as malic acid for apple wine and as citric acid for other fruit and berry wines, instead of tartaric acid;
 
@@ -16,7 +16,7 @@ To natural wine made from berries or fruit other than grapes, pure dry sugar or 
 
 &emsp;(C) Wines made under this subsection shall have a total solids content of not more than 21 percent by weight, whether or not wine spirits have been added; and
 
-&emsp;(D) Wines made exclusively from any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction ofsuch fruit or berry) shall be entitled to a volume of ameliorating material not in excess of 60 percent (in lieu of 35 percent).
+&emsp;(D) Wines made exclusively from any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry) shall be entitled to a volume of ameliorating material not in excess of 60 percent (in lieu of 35 percent).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1385; amended Pub. L. 89–44, title VIII, §806(b)(2), (c)(2), (3), June 21, 1965, 79 Stat. 163, 164; Pub. L. 90–619, §3(b), Oct. 22, 1968, 82 Stat. 1237; Pub. L. 105–34, title XIV, §1417(a), Aug. 5, 1997, 111 Stat. 1048.)
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 90–619 effective on first day of first month which begins
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pub. L. 89–44, set out as a note under section 5383 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5382 of this title.
 

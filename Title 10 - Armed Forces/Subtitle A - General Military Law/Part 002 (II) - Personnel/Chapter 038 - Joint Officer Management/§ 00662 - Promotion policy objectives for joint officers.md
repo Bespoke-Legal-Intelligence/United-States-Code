@@ -8,9 +8,9 @@ Qualifications.—The Secretary of Defense shall ensure that the qualifications 
 
 &emsp;(2) officers who have the joint specialty are expected, as a group, to be promoted—
 
-&emsp;&emsp;(A) during the period beginning on December 28, 2001, and ending on December 27, 2004, at a rate not less than the rate for officers of the same armed force in the same grade and competitive category; and
+&emsp;&emsp;(A) during the period beginning on December 28, 2001, and ending on December 27, 2006, at a rate not less than the rate for officers of the same armed force in the same grade and competitive category; and
 
-&emsp;&emsp;(B) after December 27, 2004, at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
+&emsp;&emsp;(B) after December 27, 2006, at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
 
 &emsp;(3) officers who are serving in, or have served in, joint duty assignments (other than officers covered in paragraphs (1) and (2)) are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
 
@@ -18,9 +18,11 @@ Qualifications.—The Secretary of Defense shall ensure that the qualifications 
 
 Annual Report.—Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year of officers who are serving in, or have served in, joint duty assignments, especially with respect to the record of officer selection boards in meeting the objectives of paragraphs (1), (2), and (3) of subsection (a). If such promotion rates fail to meet such objectives for any fiscal year, the Secretary shall include in the report for that fiscal year information on such failure and on what action the Secretary has taken or plans to take to prevent further failures.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1026; amended Pub. L. 100–456, div. A, title V, §513, Sept. 29, 1988, 102 Stat. 1969; Pub. L. 101–510, div. A, title XIII, §1311(3), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–201, div. A, title V, §510, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 107–107, div. A, title V, §521(b), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title X, §1062(a)(4), Dec. 2, 2002, 116 Stat. 2650.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1026; amended Pub. L. 100–456, div. A, title V, §513, Sept. 29, 1988, 102 Stat. 1969; Pub. L. 101–510, div. A, title XIII, §1311(3), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–201, div. A, title V, §510, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 107–107, div. A, title V, §521(b), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title X, §1062(a)(4), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title V, §535, Oct. 28, 2004, 118 Stat. 1901.)
 
 #### Amendments
+
+2004—Subsec. (a)(2). Pub. L. 108–375 substituted “December 27, 2006” for “December 27, 2004” in two places.
 
 2002—Subsec. (a)(2)(A). Pub. L. 107–314, §1062(a)(4)(A), substituted “during the period beginning on December 28, 2001, and ending on December 27, 2004,” for “during the three-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002,”.
 
@@ -35,8 +37,4 @@ Pub. L. 104–201, §510(a), substituted “Annual Report” for “Report” in
 1990—Subsec. (b). Pub. L. 101–510 substituted “the Secretary shall include in the periodic report required by this subsection information on such failure and on” for “the Secretary shall immediately notify Congress of such failure and of”.
 
 1988—Subsec. (a)(1), (3). Pub. L. 100–456 inserted “to the next higher grade” after “promoted”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 664 of this title.
 

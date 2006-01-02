@@ -10,11 +10,17 @@ As used in this section—
 
 &emsp;&emsp;(B) to dial such numbers.
 
-&emsp;(2) The term “telephone facsimile machine” means equipment which has the capacity (A) to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or (B) to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
+&emsp;(2) The term “established business relationship”, for purposes only of subsection (b)(1)(C)(i) of this section, shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
 
-&emsp;(3) The term “telephone solicitation” means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
+&emsp;&emsp;(A) such term shall include a relationship between a person or entity and a business subscriber subject to the same terms applicable under such section to a relationship between a person or entity and a residential subscriber; and
 
-&emsp;(4) The term “unsolicited advertisement” means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission.
+&emsp;&emsp;(B) an established business relationship shall be subject to any time limitation established pursuant to paragraph (2)(G)).<sup>1</sup>
+
+&emsp;(3) The term “telephone facsimile machine” means equipment which has the capacity (A) to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or (B) to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
+
+&emsp;(4) The term “telephone solicitation” means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
+
+&emsp;(5) The term “unsolicited advertisement” means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
 
 #### (b) Restrictions on use of automated telephone equipment
 
@@ -32,7 +38,21 @@ As used in this section—
 
 &emsp;&emsp;(B) to initiate any telephone call to any residential telephone line using an artificial or prerecorded voice to deliver a message without the prior express consent of the called party, unless the call is initiated for emergency purposes or is exempted by rule or order by the Commission under paragraph (2)(B);
 
-&emsp;&emsp;(C) to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or
+&emsp;&emsp;(C) to use any telephone facsimile machine, computer, or other device to send, to a telephone facsimile machine, an unsolicited advertisement, unless—
+
+&emsp;&emsp;&emsp;(i) the unsolicited advertisement is from a sender with an established business relationship with the recipient;
+
+&emsp;&emsp;&emsp;(ii) the sender obtained the number of the telephone facsimile machine through—
+
+&emsp;&emsp;&emsp;&emsp;(I) the voluntary communication of such number, within the context of such established business relationship, from the recipient of the unsolicited advertisement, or
+
+&emsp;&emsp;&emsp;&emsp;(II) a directory, advertisement, or site on the Internet to which the recipient voluntarily agreed to make available its facsimile number for public distribution,
+
+&emsp;&emsp;&nbsp;except that this clause shall not apply in the case of an unsolicited advertisement that is sent based on an established business relationship with the recipient that was in existence before July 9, 2005, if the sender possessed the facsimile machine number of the recipient before July 9, 2005; and
+
+&emsp;&emsp;&emsp;(iii) the unsolicited advertisement contains a notice meeting the requirements under paragraph (2)(D),
+
+> &emsp;&emsp;except that the exception under clauses (i) and (ii) shall not apply with respect to an unsolicited advertisement sent to a telephone facsimile machine by a sender to whom a request has been made not to send future unsolicited advertisements to such telephone facsimile machine that complies with the requirements under paragraph (2)(E); or
 
 &emsp;&emsp;(D) to use an automatic telephone dialing system in such a way that two or more telephone lines of a multi-line business are engaged simultaneously.
 
@@ -50,9 +70,53 @@ As used in this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) will not adversely affect the privacy rights that this section is intended to protect; and
 
-&emsp;&emsp;&emsp;&emsp;(II) do not include the transmission of any unsolicited advertisement; and
+&emsp;&emsp;&emsp;&emsp;(II) do not include the transmission of any unsolicited advertisement;
 
-&emsp;&emsp;(C) may, by rule or order, exempt from the requirements of paragraph (1)(A)(iii) of this subsection calls to a telephone number assigned to a cellular telephone service that are not charged to the called party, subject to such conditions as the Commission may prescribe as necessary in the interest of the privacy rights this section is intended to protect.
+&emsp;&emsp;(C) may, by rule or order, exempt from the requirements of paragraph (1)(A)(iii) of this subsection calls to a telephone number assigned to a cellular telephone service that are not charged to the called party, subject to such conditions as the Commission may prescribe as necessary in the interest of the privacy rights this section is intended to protect;
+
+&emsp;&emsp;(D) shall provide that a notice contained in an unsolicited advertisement complies with the requirements under this subparagraph only if—
+
+&emsp;&emsp;&emsp;(i) the notice is clear and conspicuous and on the first page of the unsolicited advertisement;
+
+&emsp;&emsp;&emsp;(ii) the notice states that the recipient may make a request to the sender of the unsolicited advertisement not to send any future unsolicited advertisements to a telephone facsimile machine or machines and that failure to comply, within the shortest reasonable time, as determined by the Commission, with such a request meeting the requirements under subparagraph (E) is unlawful;
+
+&emsp;&emsp;&emsp;(iii) the notice sets forth the requirements for a request under subparagraph (E);
+
+&emsp;&emsp;&emsp;(iv) the notice includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) a domestic contact telephone and facsimile machine number for the recipient to transmit such a request to the sender; and
+
+&emsp;&emsp;&emsp;&emsp;(II) a cost-free mechanism for a recipient to transmit a request pursuant to such notice to the sender of the unsolicited advertisement; the Commission shall by rule require the sender to provide such a mechanism and may, in the discretion of the Commission and subject to such conditions as the Commission may prescribe, exempt certain classes of small business senders, but only if the Commission determines that the costs to such class are unduly burdensome given the revenues generated by such small businesses;
+
+&emsp;&emsp;&emsp;(v) the telephone and facsimile machine numbers and the cost-free mechanism set forth pursuant to clause (iv) permit an individual or business to make such a request at any time on any day of the week; and
+
+&emsp;&emsp;&emsp;(vi) the notice complies with the requirements of subsection (d) of this section;
+
+&emsp;&emsp;(E) shall provide, by rule, that a request not to send future unsolicited advertisements to a telephone facsimile machine complies with the requirements under this subparagraph only if—
+
+&emsp;&emsp;&emsp;(i) the request identifies the telephone number or numbers of the telephone facsimile machine or machines to which the request relates;
+
+&emsp;&emsp;&emsp;(ii) the request is made to the telephone or facsimile number of the sender of such an unsolicited advertisement provided pursuant to subparagraph (D)(iv) or by any other method of communication as determined by the Commission; and
+
+&emsp;&emsp;&emsp;(iii) the person making the request has not, subsequent to such request, provided express invitation or permission to the sender, in writing or otherwise, to send such advertisements to such person at such telephone facsimile machine;
+
+&emsp;&emsp;(F) may, in the discretion of the Commission and subject to such conditions as the Commission may prescribe, allow professional or trade associations that are tax-exempt nonprofit organizations to send unsolicited advertisements to their members in furtherance of the association's tax-exempt purpose that do not contain the notice required by paragraph (1)(C)(iii), except that the Commission may take action under this subparagraph only—
+
+&emsp;&emsp;&emsp;(i) by regulation issued after public notice and opportunity for public comment; and
+
+&emsp;&emsp;&emsp;(ii) if the Commission determines that such notice required by paragraph (1)(C)(iii) is not necessary to protect the ability of the members of such associations to stop such associations from sending any future unsolicited advertisements; and
+
+&emsp;&emsp;(G)(i) may, consistent with clause (ii), limit the duration of the existence of an established business relationship, however, before establishing any such limits, the Commission shall—
+
+&emsp;&emsp;&emsp;(I) determine whether the existence of the exception under paragraph (1)(C) relating to an established business relationship has resulted in a significant number of complaints to the Commission regarding the sending of unsolicited advertisements to telephone facsimile machines;
+
+&emsp;&emsp;&emsp;(II) determine whether a significant number of any such complaints involve unsolicited advertisements that were sent on the basis of an established business relationship that was longer in duration than the Commission believes is consistent with the reasonable expectations of consumers;
+
+&emsp;&emsp;&emsp;(III) evaluate the costs to senders of demonstrating the existence of an established business relationship within a specified period of time and the benefits to recipients of establishing a limitation on such established business relationship; and
+
+&emsp;&emsp;&emsp;(IV) determine whether with respect to small businesses, the costs would not be unduly burdensome; and
+
+&emsp;&emsp;(ii) may not commence a proceeding to determine whether to limit the duration of the existence of an established business relationship before the expiration of the 3-month period that begins on July 9, 2005.
 
 #### (3) Private right of action
 
@@ -166,7 +230,7 @@ As used in this section—
 
 &emsp;&emsp;(A) all artificial or prerecorded telephone messages (i) shall, at the beginning of the message, state clearly the identity of the business, individual, or other entity initiating the call, and (ii) shall, during or after the message, state clearly the telephone number or address of such business, other entity, or individual; and
 
-&emsp;&emsp;(B) any such system will automatically release the called party's line within 5 seconds of the time notification is transmitted to the system that the called party has hungup, to allow the called party's line to be used to make or receive other calls.
+&emsp;&emsp;(B) any such system will automatically release the called party's line within 5 seconds of the time notification is transmitted to the system that the called party has hung up, to allow the called party's line to be used to make or receive other calls.
 
 #### (e) Effect on State law
 
@@ -220,9 +284,61 @@ As used in this section—
 
 &emsp;As used in this subsection, the term “attorney general” means the chief legal officer of a State.
 
-(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717.)
+#### (g) Junk fax enforcement report
+
+The Commission shall submit an annual report to Congress regarding the enforcement during the past year of the provisions of this section relating to sending of unsolicited advertisements to telephone facsimile machines, which report shall include—
+
+&emsp;(1) the number of complaints received by the Commission during such year alleging that a consumer received an unsolicited advertisement via telephone facsimile machine in violation of the Commission's rules;
+
+&emsp;(2) the number of citations issued by the Commission pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+
+&emsp;(3) the number of notices of apparent liability issued by the Commission pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+
+&emsp;(4) for each notice referred to in paragraph (3)—
+
+&emsp;&emsp;(A) the amount of the proposed forfeiture penalty involved;
+
+&emsp;&emsp;(B) the person to whom the notice was issued;
+
+&emsp;&emsp;(C) the length of time between the date on which the complaint was filed and the date on which the notice was issued; and
+
+&emsp;&emsp;(D) the status of the proceeding;
+
+&emsp;(5) the number of final orders imposing forfeiture penalties issued pursuant to section 503 of this title during the year to enforce any law, regulation, or policy relating to sending of unsolicited advertisements to telephone facsimile machines;
+
+&emsp;(6) for each forfeiture order referred to in paragraph (5)—
+
+&emsp;&emsp;(A) the amount of the penalty imposed by the order;
+
+&emsp;&emsp;(B) the person to whom the order was issued;
+
+&emsp;&emsp;(C) whether the forfeiture penalty has been paid; and
+
+&emsp;&emsp;(D) the amount paid;
+
+&emsp;(7) for each case in which a person has failed to pay a forfeiture penalty imposed by such a final order, whether the Commission referred such matter for recovery of the penalty; and
+
+&emsp;(8) for each case in which the Commission referred such an order for recovery—
+
+&emsp;&emsp;(A) the number of days from the date the Commission issued such order to the date of such referral;
+
+&emsp;&emsp;(B) whether an action has been commenced to recover the penalty, and if so, the number of days from the date the Commission referred such order for recovery to the date of such commencement; and
+
+&emsp;&emsp;(C) whether the recovery action resulted in collection of any amount, and if so, the amount collected.
+
+(June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362.)
 
 #### Amendments
+
+2005—Subsec. (a)(2) to (4). Pub. L. 109–21, §2(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 109–21, §2(b)(1), (g), redesignated par. (4) as (5) and inserted “, in writing or otherwise” before period at end.
+
+Subsec. (b)(1)(C). Pub. L. 109–21, §2(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or”.
+
+Subsec. (b)(2)(D) to (G). Pub. L. 109–21, §2(c)–(f), added subpars. (D) to (G).
+
+Subsec. (g). Pub. L. 109–21, §3, added subsec. (g).
 
 2003—Subsec. (b)(1). Pub. L. 108–187 inserted “, or any person outside the United States if the recipient is within the United States” after “United States” in introductory provisions.
 
@@ -247,6 +363,10 @@ Regulations.—The Federal Communications Commission shall prescribe regulations
 “(2)
 
 Effective date.—The requirements of section 227 of the Communications Act of 1934 \[this section\] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act \[Dec. 20, 1991\].”
+
+#### Regulations
+
+Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: “Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47 U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section.”
 
 #### Congressional Statement of Findings
 
@@ -281,4 +401,6 @@ Section 2 of Pub. L. 102–243 provided that: “The Congress finds that:
 &emsp;“(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce.
 
 &emsp;“(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech.”
+
+<i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

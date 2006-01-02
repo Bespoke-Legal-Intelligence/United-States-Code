@@ -104,7 +104,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 (3) Any agreement under paragraph (1) of this subsection shall provide the Administrator an option to acquire any such resource, including a renewable resource, and shall include such other provisions, as the Administrator deems appropriate, for the Administrator's recovery from such sponsors or any assignee of the sponsors, if such sponsor or assignee continues development of the resource, of any advances made by the Administrator pursuant to such agreement.
 
-(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation of the resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
+(4) The Administrator shall not reimburse any expense incurred by the sponsors (except necessary expenses involved in the liquidation ofthe resource) after the date of a final denial of application for State siting approval or after the date the Administrator determines that the resource to be inconsistent with the plan or the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title.
 
 #### (g) Environmental impact statements
 
@@ -128,7 +128,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 (6) Prior to granting any credit or providing services pursuant to this subsection, the Administrator shall—
 
-&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in suchnotice the methodology the Administrator proposes to use in determining the amount of any such credit;
+&emsp;(A) comply with the notice provisions of subsection (c) of this section, and include in such notice the methodology the Administrator proposes to use in determining the amount of any such credit;
 
 &emsp;(B) include the cost of such credit in the Administrator's annual or amended budget submittal to the Congress made pursuant to the Federal Columbia River Transmission System Act (16 U.S.C. 838(j)) \[16 U.S.C. 838 et seq.\];
 
@@ -146,7 +146,7 @@ Contracts for the acquisition of resources and for billing credits for major res
 
 &emsp;(3) insure that the Administrator exercises effective oversight, inspection, audit, and review of all aspects of such construction and operation.
 
-> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator is provided with such current information as he deems necessary to evaluate such construction and operation.
+> Such contracts shall contain provisions assuring that the Administrator has the authority to approve all costs of, and proposals for, major modifications in construction, scheduling or operations and to assure that the Administrator isprovided with such current information as he deems necessary to evaluate such construction and operation.
 
 #### (j) Obligations not to be considered general obligations of United States or secured by full faith and credit of United States
 
@@ -172,7 +172,7 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 #### (m) Offering of reasonable shares to each Pacific Northwest electric utility
 
-Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utilityfor ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
+Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utility for ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility's Regional load.
 
 (Pub. L. 96–501, §6, Dec. 5, 1980, 94 Stat. 2717.)
 

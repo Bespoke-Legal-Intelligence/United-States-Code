@@ -10,7 +10,3 @@ The Secretary of Defense may allow not more than 20 percent of the graduates of 
 
 Pub. L. 96–107, §803(c)(1), substituted provisions respecting authority of the Secretary of Defense to allow graduates to perform civilian Federal service and the execution of agreements for such service as prerequisites for release from active duty following completion of education, for provisions relating to limitations on the number of graduates electing to perform civilian Federal duty, agreements respecting such service, and release from active duty upon completion of their education.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2114 of this title.
-

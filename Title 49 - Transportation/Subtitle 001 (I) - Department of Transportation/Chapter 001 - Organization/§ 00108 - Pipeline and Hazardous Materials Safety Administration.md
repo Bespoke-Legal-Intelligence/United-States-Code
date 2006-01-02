@@ -32,7 +32,7 @@ Duties and Powers of the Administrator.—The Administrator shall carry out—
 
 Limitation.—A duty or power specified in subsection (f)(1) may be transferred to another part of the Department of Transportation or another government entity only if specifically provided by law.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §4(j)(4), July 5, 1994, 108 Stat. 1365; Pub. L. 108–426, §2(a), Nov. 30, 2004, 118 Stat. 2423.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §4(j)(4), July 5, 1994, 108 Stat. 1365; Pub. L. 108–426, §2(a), Nov. 30, 2004, 118 Stat. 2423.)
 
 Historical and Revision Notes
 
@@ -82,7 +82,7 @@ Transfer of Assets and Personnel.—Personnel, property, and records employed, u
 
 Legal Documents.—All orders, determinations, rules, regulations, permits, grants, loans, contracts, settlements, agreements, certificates, licenses, and privileges—
 
-&emsp;“(1) that have been issued, made, granted, or allowed to become effective by any officer or employee,or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
+&emsp;“(1) that have been issued, made, granted, or allowed to become effective by any officer or employee, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
 
 &emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
 
@@ -130,7 +130,7 @@ Pub. L. 108–426, §2(b), Nov. 30, 2004, 118 Stat. 2424, provided that: “The 
 
 For transfer of authority of the Research and Special Programs Administration, other than authority exercised under chapters 51, 57, 61, 601, and 603 of this title, to the Administrator of the Research and Innovative Technology Administration, see section 4(b) of Pub. L. 108–426, set out as a note under section 112 of this title.
 
-Pub. L. 108–426, §7, Nov. 30, 2004, 118 Stat. 2428, provided that: “The Secretary shall provide for the orderly transfer of duties and powers under this Act \[see Short Title of 2004 Amendment note set out under section 101 of this title\], including the amendments made by this Act, as soon as practicable but not later than 90 days after the date of enactment of this Act \[Nov. 30, 2004\].”
+Pub. L. 108–426, §7, Nov. 30, 2004, 118 Stat. 2428, provided that: “The Secretary shall provide for the orderly transfer of duties and powers under this Act \[see Short Title of 2004 Amendment note set out under section 101 of this title\], including the amendments made by thisAct, as soon as practicable but not later than 90 days after the date of enactment of this Act \[Nov. 30, 2004\].”
 
 #### Reports
 

@@ -68,7 +68,7 @@
 
 (e)(1) An adjustment in a rate of basic pay under subsection (d) may not reduce the rate of basic pay applicable to any grade of a covered position.
 
-(2) The director of a Department health-care facility, in determining whether to carry out a wage survey under subsection (d)(3) with respect to rates of basic pay for a grade of a covered position, may not consider as a factor in such determination the absence of a current recruitment or retention problem for personnel in that grade of that position. The director shall make such a determination based upon whether, in accordance with criteria established by the Secretary, there is a significant pay-related staffing problem at that facility in any grade for a position. If the director determines that there is such a problem, or that such a problem is likely to exist in the near future, the Director shall provide for a wage survey in accordance with subsection (d)(3).
+(2) The director of a Department health-care facility, in determining whether to carry out a wage survey under subsection (d)(3) with respect to rates of basic pay for a grade of a covered position, may not consider as a factor in such determination the absence of a current recruitment or retention problem for personnel in that grade of that position. The director shall make such a determination based upon whether, in accordance with criteria established by the Secretary, there is a significant pay-related staffingproblem at that facility in any grade for a position. If the director determines that there is such a problem, or that such a problem is likely to exist in the near future, the Director shall provide for a wage survey in accordance with subsection (d)(3).
 
 (3) The Under Secretary for Health may, to the extent necessary to carry out the purposes of subsection (d), modify any determination made by the director of a Department health-care facility with respect to adjusting the rates of basic pay applicable to covered positions. If the determination of the director would result in an adjustment in rates of basic pay applicable to covered positions, any action by the Under Secretary under the preceding sentence shall be made before the effective date of such pay adjustment. Upon such action by the Under Secretary, any adjustment shall take effect on the first day of the first pay period beginning after such action. The Secretary shall ensure that the Under Secretary establishes a mechanism for the timely exercise of the authority in this paragraph.
 
@@ -102,7 +102,7 @@ The General Schedule, referred to in subsec. (d)(1)(A), is set out under section
 
 #### Amendments
 
-2002—Subsec. (d)(3)(A). Pub. L. 107–135, §133(1)(A), struck out “beginning rates of” before “compensationfor corresponding health-care professionals” in two places.
+2002—Subsec. (d)(3)(A). Pub. L. 107–135, §133(1)(A), struck out “beginning rates of” before “compensation for corresponding health-care professionals” in two places.
 
 Subsec. (d)(3)(B). Pub. L. 107–135, §133(1)(B), struck out “beginning rates of” before “compensation for corresponding health-care professionals”.
 
@@ -118,7 +118,7 @@ Subsec. (d)(1)(A). Pub. L. 106–419, §201(a)(1)(A)(ii), substituted “section
 
 Subsec. (d)(2). Pub. L. 106–419, §201(a)(1)(B), substituted “Except as provided in paragraph (1)(A), such” for “Such” in second sentence.
 
-Subsec. (d)(3)(B). Pub. L. 106–419, §201(a)(1)(C), inserted after first sentence “To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence.”, inserted before penultimate sentence “To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section.”, and in penultimate sentence inserted “or published” after “survey is completed”.
+Subsec. (d)(3)(B). Pub. L. 106–419, §201(a)(1)(C), inserted after first sentence “To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence.”, inserted before penultimate sentence “To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include thecollection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section.”, and in penultimate sentence inserted “or published” after “survey is completed”.
 
 Subsec. (d)(3)(C)(iii). Pub. L. 106–419, §201(a)(1)(D), struck out cl. (iii) which read as follows: “The authority of the director to use such additional data under this subparagraph with respect to certified registered nurse anesthetists expires on January 1, 1998.”
 
@@ -190,7 +190,7 @@ Section 104 of Pub. L. 101–366, as amended by Pub. L. 102–40, title III, §3
 
 “(a)
 
-In General.—(1) Except as provided in subsection (b), section 101 \[amending former section 4107 ofthis title and enacting provisions set out as a note under former section 4107 of this title\] and the amendments made by section 102 \[enacting this section and section 4142 \[now 7452\] of this title and amending former sections 4104 and 4107 of this title\] shall take effect on the date of enactment \[Aug. 15, 1990\].
+In General.—(1) Except as provided in subsection (b), section 101 \[amending former section 4107 of this title and enacting provisions set out as a note under former section 4107 of this title\] and the amendments made by section 102 \[enacting this section and section 4142 \[now 7452\] of this title and amending former sections 4104 and 4107 of this title\] shall take effect on the date of enactment \[Aug. 15, 1990\].
 
 “(2) The amendment made by section 103 \[amending former section 4107 of this title\] shall take effect on the first day of the first pay period beginning after April 1, 1991.
 
@@ -208,7 +208,7 @@ Pub. L. 108–422, title V, §501, Nov. 30, 2004, 118 Stat. 2395, provided that:
 
 “(a)
 
-Pilot Program.—(1) Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 2004\], the Secretary of Veterans Affairs shall designate a health care service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs are adversely affected by a shortage of qualified nurses.
+Pilot Program.—(1) Not later than 90 days after the date of the enactment of this Act \[Nov. 30, 2004\], the Secretary of Veterans Affairs shall designate a healthcare service region, or a section within such a region, in which health care facilities of the Department of Veterans Affairs are adversely affected by a shortage of qualified nurses.
 
 “(2) The Secretary shall conduct a pilot program in the region or section designated under paragraph (1) to determine the effectiveness of the use of innovative human capital tools and techniques in the recruitment of qualified nurses for positions at Department health care facilities in such region or section and for the retention of nurses at such facilities. In carrying out the pilot program, the Secretary shall enter into a contract with a private sector entity for services under the pilot program for recruitment of qualified nurses.
 
@@ -232,127 +232,11 @@ Report.—Not later than one year after the date of the enactment of this Act, t
 
 #### Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions
 
-Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, provided that:
-
-“(a)
-
-Report.—Not later than March 28 of each of 2002 and 2003, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and to the National Commission on VA Nursing established under subtitle D \[set out below\] a report describing each request of the Secretary, during the fiscal year preceding such report, to the Director of the Office of Personnel Management for the following:
-
-&emsp;“(1) A waiver under subsection (i)(1)(A) of section 8344 of title 5, United States Code, of the provisions of such section in order to meet requirements of the Department of Veterans Affairs for appointments to nurse positions in the Veterans Health Administration.
-
-&emsp;“(2) A waiver under subsection (f)(1)(A) of section 8468 of title 5, United States Code, of the provisions of such section in order to meet requirements of the Department for appointments to such positions.
-
-&emsp;“(3) A grant of authority under subsection (i)(1)(B) of section 8344 of title 5, United States Code, for the waiver of the provisions of such section in order to meet requirements of the Department for appointments to such positions.
-
-&emsp;“(4) A grant of authority under subsection (f)(1)(B) of section 8468 of title 5, United States Code, for the waiver of the provisions of such section in order to meet requirements of the Department for appointments to such positions.
-
-“(b)
-
-Information on Responses to Requests.—The report under subsection (a) shall specify for each request covered by the report—
-
-&emsp;“(1) the response of the Director to such request; and
-
-&emsp;“(2) if such request was granted, whether or not the waiver or authority, as the case may be, assisted the Secretary in meeting requirements of the Department for appointments to nurse positions in the Veterans Health Administration.”
+Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, required the Secretary of Veterans Affairs to submit to Congress not later than March 28 of 2002 and 2003 a report on requests, made during the fiscal year preceding such report, for waivers of pay reductions for reemployed annuitants to fill nurse positions.
 
 #### National Commission on VA Nursing
 
-Pub. L. 107–135, title I, subtitle D, Jan. 23, 2002, 115 Stat. 2454, provided that:
-
-#### “SEC. 141. ESTABLISHMENT OF COMMISSION.
-
-“(a)
-
-Establishment.—There is hereby established in the Department of Veterans Affairs a commission to be known as the ‘National Commission on VA Nursing’ (hereinafter in this subtitle referred to as the ‘Commission’).
-
-“(b)
-
-Composition.—The Commission shall be composed of 12 members appointed by the Secretary of Veterans Affairs as follows:
-
-&emsp;“(1) At least two shall be recognized representatives of employees (including nurses) of the Department of Veterans Affairs.
-
-&emsp;“(2) At least one shall be a representative of professional associations of nurses of the Department or similar organizations affiliated with the Department's health care practitioners.
-
-&emsp;“(3) At least one shall be a nurse from a nursing school affiliated with the Department of Veterans Affairs.
-
-&emsp;“(4) At least two shall be representatives of veterans.
-
-&emsp;“(5) At least one shall be an economist.
-
-&emsp;“(6) The remainder shall be appointed in such manner as the Secretary considers appropriate.
-
-“(c)
-
-Chair of Commission.—The Secretary of Veterans Affairs shall designate one of the members of the Commission to chair the Commission.
-
-“(d)
-
-Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment.
-
-“(e)
-
-Initial Organization Requirements.—All appointments to the Commission shall be made not later than 60 days after the date of the enactment of this Act \[Jan. 23, 2002\]. The Commission shall convene its first meeting not later than 60 days after the date as of which all members of the Commission have been appointed.
-
-#### “SEC. 142. DUTIES OF COMMISSION.
-
-“(a)
-
-Assessment.—The Commission shall—
-
-&emsp;“(1) consider legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department of Veterans Affairs; and
-
-&emsp;“(2) assess the future of the nursing profession within the Department.
-
-“(b)
-
-Recommendations.—The Commission shall recommend legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel in the Department.
-
-#### “SEC. 143. REPORTS.
-
-“(a)
-
-Commission Report.—The Commission shall, not later than two years after the date of its first meeting, submit to Congress and the Secretary of Veterans Affairs a report on the Commission's findings and recommendations.
-
-“(b)
-
-Secretary of Veterans Affairs Report.—Not later than 60 days after the date of the Commission's report under subsection (a), the Secretary shall submit to Congress a report—
-
-&emsp;“(1) providing the Secretary's views on the Commission's findings and recommendations; and
-
-&emsp;“(2) explaining what actions, if any, the Secretary intends to take to implement the recommendations of the Commission and the Secretary's reasons for doing so.
-
-#### “SEC. 144. POWERS.
-
-“(a)
-
-Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this subtitle, hold hearings and take testimony to the extent that the Commission or any member considers advisable.
-
-“(b)
-
-Information.—The Commission may secure directly from any Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this subtitle.
-
-#### “SEC. 145. PERSONNEL MATTERS.
-
-“(a)
-
-Pay of Members.—Members of the Commission shall serve without pay by reason of their work on the Commission.
-
-“(b)
-
-Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
-
-“(c)
-
-Staff.—(1) The Secretary may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties.
-
-“(2) The Secretary may fix the pay of the staff director and other personnel appointed under paragraph (1) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for grade GS–15 of the General Schedule.
-
-“(d)
-
-Detail of Government Employees.—Upon request of the Secretary, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
-
-#### “SEC. 146. TERMINATION OF COMMISSION.
-
-“The Commission shall terminate 90 days after the date of the submission of its report under section 143(a).”
+Pub. L. 107–135, title I, subtitle D (§§141–146), Jan. 23, 2002, 115 Stat. 2454, established in the Department of Veterans Affairs the “National Commission on VA Nursing”, directed the Commission, not later than two years after its first meeting, to report to Congress on legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department and the future of the nursing profession within the Department, and provided for the termination of the Commission 90 days after the date of the submission of its report.
 
 #### Report on Nurse Locality Pay
 

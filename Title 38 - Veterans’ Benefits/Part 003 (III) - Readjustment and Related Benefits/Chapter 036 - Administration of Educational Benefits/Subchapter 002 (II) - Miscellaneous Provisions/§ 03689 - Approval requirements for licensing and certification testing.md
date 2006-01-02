@@ -48,13 +48,13 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;&emsp;(iii) The period for which the license or certificate awarded upon successful completion of the test is valid, and the requirements for maintaining or renewing the license or certificate.
 
-&emsp;(I) Upon request of the Secretary, the organization or entity furnishes such information to the Secretary that the Secretary determines necessary to perform an assessment of—
+&emsp;(I) Upon request of the Secretary, the organization or entity furnishes such informationto the Secretary that the Secretary determines necessary to perform an assessment of—
 
 &emsp;&emsp;(i) the test conducted by the organization or entity as compared to the level of knowledge or skills that a license or certificate attests; and
 
 &emsp;&emsp;(ii) the applicability of the test over such periods of time as the Secretary determines appropriate.
 
-(2) With respect to each organization or entity that is an entity of the United States, a State,or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 of this title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
+(2) With respect to each organization or entity that is an entity of the United States, a State, or political subdivision of a State, that offers a licensing or certification test for which payment may be made under chapters 30, 32, 34, or 35 of this title, the following provisions of paragraph (1) shall apply to the entity: subparagraphs (E), (F), (G), and (H).
 
 (d)
 

@@ -82,7 +82,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;&emsp;(I) to treat its related person insurance income for such taxable year as income effectively connected with the conduct of a trade or business in the United States, and
 
-&emsp;&emsp;&emsp;&emsp;(II) to waive all benefits (other than with respect to section 884) with respect to related person insurance income granted by the United States under any treaty between the United States and any foreign country, and
+&emsp;&emsp;&emsp;&emsp;(II) to waive all benefits (other than with respect to section 884) with respect to related person insurance incomegranted by the United States under any treaty between the United States and any foreign country, and
 
 &emsp;&emsp;&emsp;(ii) such corporation meets such requirements as the Secretary shall prescribe to ensure that the tax imposed by this chapter on such income is paid.
 
@@ -164,7 +164,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(A) regulations preventing the avoidance of this subsection through cross insurance arrangements or otherwise, and
 
-&emsp;&emsp;(B) regulations which may provide that a person will not be treated as a United States shareholder under paragraph (1) with respect to any foreign corporation if neither such person (nor any related person to such person) is (directly or indirectly) insured under any policy of insurance or reinsurance issued by such foreign corporation.
+&emsp;&emsp;(B) regulations which may provide that a person will not be treated as a United States shareholder under paragraph (1) with respectto any foreign corporation if neither such person (nor any related person to such person) is (directly or indirectly) insured under any policy of insurance or reinsurance issued by such foreign corporation.
 
 #### (d) Election by foreign insurance company to be treated as domestic corporation
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (C) Determinations made separately
 
-&emsp;&emsp;For purposes of this subsection and section 954(i), the exempt insurance income and exempt contracts of a qualifying insurancecompany or any qualifying insurance company branch of such company shall be determined separately for such company and each such branch by taking into account—
+&emsp;&emsp;For purposes of this subsection and section 954(i), the exempt insurance income and exempt contracts of a qualifying insurance company or any qualifying insurance company branch of such company shall be determined separately for such company and each such branch by taking into account—
 
 &emsp;&emsp;&emsp;(i) in the case of the qualifying insurance company, only items of income, deduction, gain, or loss, and activities of such company not properly allocable or attributable to any qualifying insurance company branch of such company, and
 
@@ -386,7 +386,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For income exempt from foreign personal holding company income, see section 954(i).</b>
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, title I, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899; Pub. L. 106–170, title V, §503(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §614(a)(1), Mar. 9, 2002, 116 Stat. 61.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(m)(2), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(13), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1221(b)(1), (2), (3)(D), Oct. 22, 1986, 100 Stat. 2551, 2553; Pub. L. 100–647, title I, §1012(i)(1)–(3)(B), (4), (5), (7)–(9), (21), title VI, §6135(a), Nov. 10, 1988, 102 Stat. 3507–3509, 3511, 3721; Pub. L. 101–239, title VII, §7816(p), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 105–277, div. J, titleI, §1005(b)(1), (3), Oct. 21, 1998, 112 Stat. 2681–893, 2681–899; Pub. L. 106–170, title V, §503(a), (b), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, §614(a)(1), Mar. 9, 2002, 116 Stat. 61.)
 
 #### Amendments
 
@@ -504,7 +504,7 @@ Pub. L. 106–170, title V, §503(c), Dec. 17, 1999, 113 Stat. 1921, provided th
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -525,8 +525,4 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1966 Amendment
 
 Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 104(n) of Pub. L. 89–809, set out as a note under section 11 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 512, 884, 898, 904, 952, 954, 956, 957, 6046 of this title.
 

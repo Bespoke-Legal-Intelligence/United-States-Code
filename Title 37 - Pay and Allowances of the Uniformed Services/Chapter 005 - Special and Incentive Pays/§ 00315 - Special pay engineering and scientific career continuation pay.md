@@ -22,17 +22,13 @@
 
 > may, upon acceptance of the written agreement by the Secretary concerned, be paid, in addition to all other compensation to which the officer is entitled, an amount not to exceed $3,000 multiplied by the number of years, or monthly fraction thereof, of obligated service to which the officer agrees under the agreement. The total amount payable may be paid in a lump sum or in equal periodic installments, as determined by the Secretary concerned.
 
-(c)(1) An officer who does not serve on active duty for the entire period for which he has been paid under subsection (b) shall refund that percentage of the payment that the unserved part of the period is of the total period for which the payment was made. Nothing in this subsection shall alter or modify the obligation of a regular officer to perform active service at the pleasure of the President. Completion by a regular officer of the total period of obligated service specified in an agreement under subsection (b) does not obligate the President to accept a resignation submitted by that officer.
+(c) An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty as specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(2) Subject to paragraph (3), and obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) The Secretary concerned may waive, in whole or in part, a refund required under paragraph (1) if the Secretary concerned determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
-
-(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after September 30, 1981.
-
-(Added Pub. L. 97–60, title I, §120(a), Oct. 14, 1981, 95 Stat. 998; amended Pub. L. 99–145, title VI, §637(a), Nov. 8, 1985, 99 Stat. 648; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Added Pub. L. 97–60, title I, §120(a), Oct. 14, 1981, 95 Stat. 998; amended Pub. L. 99–145, title VI, §637(a), Nov. 8, 1985, 99 Stat. 648; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 109–163, div. A, title VI, §687(b)(24), Jan. 6, 2006, 119 Stat. 3331.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–163 amended subsec. (c) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer receives bonus but fails to complete agreed upon period of active duty.
 
 1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (b)” in two places in par. (1) and struck out “of this subsection” after “paragraph (1)” in pars. (2) to (4) and after “paragraph (3)” in par. (2).
 
@@ -45,6 +41,10 @@ Subsec. (b). Pub. L. 99–145, §637(a)(2), in provision preceding par. (1), sub
 #### Effective Date of 1985 Amendment
 
 Section 637(b) of Pub. L. 99–145 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1985.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
 

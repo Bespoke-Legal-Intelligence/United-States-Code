@@ -40,7 +40,7 @@ In this chapter—
 
 Presidential Proclamation Number 5030, referred to in par. (2)(D), is set out under section 1453 of Title 16, Conservation.
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is Pub. L.92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of that Act is classified generally to subchapter I (§1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of that Act is classified generally to subchapter I (§1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
 The Federal Water Pollution Control Act, referred to in par. (3)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 

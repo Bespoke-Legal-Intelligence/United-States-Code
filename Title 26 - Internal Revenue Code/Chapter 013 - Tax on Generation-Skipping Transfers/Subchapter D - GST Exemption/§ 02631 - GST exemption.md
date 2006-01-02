@@ -20,7 +20,7 @@ For purposes of subsection (a), the GST exemption amount for any calendar year s
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–16, §§521(c)(1), 901, temporarily substituted “amount” for “of $1,000,000”. SeeEffective and Termination Dates of 2001 Amendment note below.
+2001—Subsec. (a). Pub. L. 107–16, §§521(c)(1), 901, temporarily substituted “amount” for “of $1,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
 
 Subsec. (c). Pub. L. 107–16, §§521(c)(2), 901, temporarily amended heading and text of subsec. (c) generally, substituting provisions relating to the GST exemption amount for any calendar year for provisions which related to inflation adjustment of the $1,000,000 amount contained in subsec. (a) in the case of any calendar year after 1998 and applicability of any increase for any such calendar year. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -47,8 +47,4 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2632 of this title.
 

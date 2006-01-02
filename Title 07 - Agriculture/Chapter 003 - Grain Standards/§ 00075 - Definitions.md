@@ -78,7 +78,7 @@ Subsec. (z). Pub. L. 103–156, §12(a)(2), substituted “delegates of the Admi
 
 Subsec. (i). Pub. L. 95–113, §1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
-Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
+Subsec. (m). Pub. L. 95–113, §1604(a)(2), substituted “or subsection (c) of section 79a of this title for theconduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
 
 Subsec. (x). Pub. L. 95–113, §1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
 
@@ -86,7 +86,7 @@ Subsec. (y). Pub. L. 95–113, §1604(a)(4), substituted “such supervision by 
 
 1976—Subsec. (i). Pub. L. 94–582, §3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
 
-Subsec. (j). Pub. L. 94–582, §3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwiseauthorized by the Administrator pursuant to section 84 of this title to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
+Subsec. (j). Pub. L. 94–582, §3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwise authorized by the Administrator pursuant to section 84 of this title to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
 
 Subsec. (k). Pub. L. 94–582, §3(c), substituted “Administrator” for “Secretary” and “official inspection or official weighing” for “an official inspection”.
 

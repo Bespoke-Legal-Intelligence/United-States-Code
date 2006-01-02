@@ -2,19 +2,19 @@
 
 (a)
 
-Full Faith and Credit.—Any protection order issued that is consistent with subsection (b) of this section by the court of one State or Indian tribe (the issuing State or Indian tribe) shall be accorded full faith and credit by the court of another State or Indian tribe (the enforcing State or Indian tribe) and enforced as if it were the order of the enforcing State or tribe.
+Full Faith and Credit.—Any protection order issued that is consistent with subsection (b) of this section by the court of one State, Indian tribe, or territory (the issuing State, Indian tribe, or territory) shall be accorded full faith and credit by the court of another State, Indian tribe, or territory (the enforcing State, Indian tribe, or territory) and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory <sup>1</sup> as if it were the order of the enforcing State or tribe.
 
 (b)
 
-Protection Order.—A protection order issued by a State or tribal court is consistent with this subsection if—
+Protection Order.—A protection order issued by a State, tribal, or territorial court is consistent with this subsection if—
 
-&emsp;(1) such court has jurisdiction over the parties and matter under the law of such State or Indian tribe; and
+&emsp;(1) such court has jurisdiction over the parties and matter under the law of such State, Indian tribe, or territory; and
 
-&emsp;(2) reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process. In the case of ex parte orders, notice and opportunity to be heard must be provided within the time required by State or tribal law, and in any event within a reasonable time after the order is issued, sufficient to protect the respondent's due process rights.
+&emsp;(2) reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process. In the case of ex parte orders, notice and opportunity to be heard must be provided within the time required by State, tribal, or territorial law, and in any event within a reasonable time afterthe order is issued, sufficient to protect the respondent's due process rights.
 
 (c)
 
-Cross or Counter Petition.—A protection order issued by a State or tribal court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
+Cross or Counter Petition.—A protection order issued by a State, tribal, or territorial court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
 
 &emsp;(1) no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or
 
@@ -26,19 +26,41 @@ Notification and Registration.—
 
 &emsp;(1)
 
-Notification.—A State or Indian tribe according full faith and credit to an order by a court of another State or Indian tribe shall not notify or require notification of the party against whom a protection order has been issued that the protection order has been registered or filed in that enforcing State or tribal jurisdiction unless requested to do so by the party protected under such order.
+Notification.—A State, Indian tribe, or territory according full faith and credit to an order by a court of another State, Indian tribe, or territory shall not notify or require notification of the party against whom a protection order has been issued that the protection order has been registered or filed in that enforcing State, tribal, or territorial jurisdiction unless requested to do so by the party protected under such order.
 
 &emsp;(2)
 
-No prior registration or filing as prerequisite for enforcement.—Any protection order that is otherwise consistent with this section shall be accorded full faith and credit, notwithstanding failure to comply with any requirement that the order be registered or filed in the enforcing State or tribal jurisdiction.
+No prior registration or filing as prerequisite for enforcement.—Any protection order that is otherwise consistent with this section shall be accorded full faith and credit, notwithstanding failure to comply with any requirement that the order be registered or filed in the enforcing State, tribal, or territorial jurisdiction.
+
+&emsp;(3)
+
+Limits on internet publication of registration information.—A State, Indian tribe, or territory shall not make available publicly on the Internet any information regarding the registration or filing of a protection order, restraining order, or injunction in either the issuing or enforcing State, tribal or territorial jurisdiction, if such publication would be likely to publicly reveal the identity or location of the party protected under such order. A State, Indian tribe, or territory may share court-generated and law enforcement-generated information contained in secure, governmental registries for protection order enforcement purposes.
 
 (e)
 
 Tribal Court Jurisdiction.—For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe.
 
-(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, §1101(b)(4), Oct. 28, 2000, 114 Stat. 1493.)
+(Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1930; amended Pub. L. 106–386, div. B, title I, §1101(b)(4), Oct. 28, 2000, 114 Stat. 1493; Pub. L. 109–162, title I, §106(a)–(c), Jan. 5, 2006, 119 Stat. 2981, 2982.)
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–162, §106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
+
+Subsec. (b). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 109–162, §106(a)(1), substituted “, Indian tribe, or territory” for “or Indian tribe”.
+
+Subsec. (b)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+
+Subsec. (c). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 109–162, §106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
+
+Subsec. (d)(2). Pub. L. 109–162, §106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+
+Subsec. (d)(3). Pub. L. 109–162, §106(c), added par. (3).
+
 2000—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

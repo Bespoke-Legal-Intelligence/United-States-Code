@@ -8,7 +8,3 @@ In the event the Secretary grants any extension of time within which to pay any 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1294, 6163, 6166, 6167, 6324A, 7103 of this title.
-

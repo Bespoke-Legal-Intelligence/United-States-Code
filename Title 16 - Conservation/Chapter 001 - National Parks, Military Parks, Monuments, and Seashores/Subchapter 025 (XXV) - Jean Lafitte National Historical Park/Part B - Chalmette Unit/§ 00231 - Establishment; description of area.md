@@ -6,5 +6,5 @@ The lands in Federal ownership located in Chalmette, Louisiana, in sections 10 a
 
 #### Change of Name
 
-Chalmette National Historical Park redesignated Chalmette Unit of Jean Lafitte National Historical Park and references to Park deemed references to Chalmette Unit pursuant to Pub. L. 95–625, title IX,§909, Nov. 10, 1978, 92 Stat. 3538, which is classified to section 230h of this title.
+Chalmette National Historical Park redesignated Chalmette Unit of Jean Lafitte National Historical Park and references to Park deemed references to Chalmette Unit pursuant to Pub. L. 95–625, title IX, §909, Nov. 10, 1978, 92 Stat. 3538, which is classified to section 230h of this title.
 

@@ -14,8 +14,6 @@
 
 1968—Pub. L. 90–235, §§3(a)(4), (b)(4), 8(4), Jan. 2, 1968, 81 Stat. 758, 764, struck out item 6291 “Honorable discharges”, item 6293 “Minors enlisted without consent of parent or guardian”, item 6295 “Regular Navy: early discharge”, item 6296 “Furlough without pay”, item 6297 “Disposition of uniform; clothing allowance; emergency funds”, and item 6298 “Authority to live at a receiving station after honorable discharge”.
 
-<i><sup>1</sup></i><i> Another section 6257 is set out preceding this section.</i>
-
 
 ---
 

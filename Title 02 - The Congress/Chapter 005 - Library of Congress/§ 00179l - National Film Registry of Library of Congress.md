@@ -6,7 +6,7 @@ The Librarian of Congress (hereafter in sections 179<i>l</i> to 179w of this tit
 
 #### Termination of Section
 
-<i>For termination of section, see section 179w of this title and section 1205(a) of Pub. L. 108–447, set out as an Effective Date Extension note under section 179w of this title.</i>
+<i>For termination of section, see section 179w of this title.</i>
 
 #### References in Text
 
@@ -19,6 +19,10 @@ The National Film Preservation Act of 1992, referred to in text, is title II of 
 #### Prior Provisions
 
 Prior provisions similar to sections 179<i>l</i> to 179w of this title were contained in former section 179 et seq. of this title.
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–9, title III, §301, Apr. 27, 2005, 119 Stat. 224, provided that: “This subtitle \[subtitle A (§§301, 302) of title III of Pub. L. 109–9, amending sections 179m, 179n, 179p, 179q, and 179w of this title\] may be cited as the ‘National Film Preservation Act of 2005’.”
 
 #### Short Title
 

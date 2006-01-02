@@ -76,7 +76,7 @@ The Comptroller General shall audit all payments, obligations, reimbursements, a
 
 #### (1) Removal costs
 
-&emsp;No claim may be presented under this subchapter for recovery of removal costs for anincident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
+&emsp;No claim may be presented under this subchapter for recovery of removal costs for an incident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
 
 #### (2) Damages
 
@@ -134,7 +134,7 @@ Functions of President under subsecs. (a)(1), (3), (4), (d), and (e) of this sec
 
 Functions of President under subsec. (a)(2) of this section delegated to Federal trustees designated in National Contingency Plan by section 7(a)(2) of Ex. Ord. No. 12777.
 
-Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments and agencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (<i>l</i>) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
+Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments andagencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (<i>l</i>) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
 
 Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, §8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
 

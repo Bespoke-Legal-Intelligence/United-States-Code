@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
-&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
+&emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of aState), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
 #### (C) Notice
 
@@ -62,7 +62,7 @@
 
 #### (5) Reinstatement of removal orders against aliens illegally reentering
 
-&emsp;If the Attorney General finds that an alien has reentered the United States illegally after having been removed or having departed voluntarily, under an order of removal, the prior order of removal is reinstated from its originaldate and is not subject to being reopened or reviewed, the alien is not eligible and may not apply for any relief under this chapter, and the alien shall be removed under the prior order at any time after the reentry.
+&emsp;If the Attorney General finds that an alien has reentered the United States illegally after having been removed or having departed voluntarily, under an order of removal, the prior order of removal is reinstated from its original date and is not subject to being reopened or reviewed, the alien is not eligible and may not apply for any relief under this chapter, and the alien shall be removed under the prior order at any time after the reentry.
 
 #### (6) Inadmissible or criminal aliens
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(i) the alien fails to designate a country promptly;
 
-&emsp;&emsp;&emsp;(ii) the government of the country does not inform the Attorney General finally, within 30 days after the date the Attorney General first inquires, whether the government will accept the alien into the country;
+&emsp;&emsp;&emsp;(ii) the government of the country does not inform the Attorney General finally, within 30 days after the date the AttorneyGeneral first inquires, whether the government will accept the alien into the country;
 
 &emsp;&emsp;&emsp;(iii) the government of the country is not willing to accept the alien into the country; or
 
@@ -183,6 +183,10 @@
 &emsp;&emsp;&emsp;(iv) there are reasonable grounds to believe that the alien is a danger to the security of the United States.
 
 > &emsp;&emsp;For purposes of clause (ii), an alien who has been convicted of an aggravated felony (or felonies) for which the alien has been sentenced to an aggregate term of imprisonment of at least 5 years shall be considered to have committed a particularly serious crime. The previous sentence shall not preclude the Attorney General from determining that, notwithstanding the length of sentence imposed, an alien has been convicted of a particularly serious crime. For purposes of clause (iv), an alien who is described in section 1227(a)(4)(B) of this title shall be considered to be an alien with respect to whom there are reasonable grounds for regarding as a danger to the security of the United States.
+
+#### (C) Sustaining burden of proof; credibility determinations
+
+&emsp;&emsp;In determining whether an alien has demonstrated that the alien's life or freedom would be threatened for a reason described in subparagraph (A), the trier of fact shall determine whether the alien has sustained the alien's burden of proof, and shall make credibility determinations, in the manner described in clauses (ii) and (iii) of section 1158(b)(1)(B) of this title.
 
 #### (c) Removal of aliens arriving at port of entry
 
@@ -382,11 +386,17 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
-(5) There are authorized to be appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004.
+(5) There are authorized to be appropriated to carry out this subsection—
 
-(6) To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail.
+&emsp;(A) $750,000,000 for fiscal year 2006;
 
-(June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630; Pub. L. 107–273, div. C, title I, §11014, Nov. 2, 2002, 116 Stat. 1824.)
+&emsp;(B) $850,000,000 for fiscal year 2007; and
+
+&emsp;(C) $950,000,000 for each of the fiscal years 2008 through 2011.
+
+(6) Amounts appropriated pursuant to the authorization of appropriations in paragraph (5) that are distributed to a State or political subdivision of a State, including a municipality, may be used only for correctional purposes.
+
+(June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630; Pub. L. 107–273, div. C, title I, §11014, Nov. 2, 2002, 116 Stat. 1824; Pub. L. 109–13, div. B, title I, §101(c), May 11, 2005, 119 Stat. 303; Pub. L. 109–162, title XI, §1196(a), (b), Jan. 5, 2006, 119 Stat. 3130.)
 
 #### References in Text
 
@@ -402,6 +412,12 @@ A prior section 241 of act June 27, 1952, was renumbered section 237, and is cla
 
 #### Amendments
 
+2006—Subsec. (i)(5). Pub. L. 109–162, §1196(a), substituted “appropriated to carry out this subsection—” for “appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004.” and added subpars. (A) to (C).
+
+Subsec. (i)(6). Pub. L. 109–162, §1196(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail.”
+
+2005—Subsec. (b)(3)(C). Pub. L. 109–13 added subpar. (C).
+
 2002—Subsec. (i)(5). Pub. L. 107–273 substituted “in fiscal years 2003 and 2004” for provisions which authorized specified amounts to be appropriated from the Violent Crime Reduction Trust Fund for fiscal years 1995 to 2002 as set out in subpars. (A) to (F).
 
 1996—Subsec. (i). Pub. L. 104–208, §306(a)(1), redesignated subsec. (j) of section 1252 of this title as subsec. (i) of this section. See Codification note above.
@@ -409,6 +425,10 @@ A prior section 241 of act June 27, 1952, was renumbered section 237, and is cla
 Subsec. (i)(3)(A). Pub. L. 104–208, §328(a)(1)(A), substituted “felony or two or more misdemeanors” for “felony and sentenced to a term of imprisonment”.
 
 Subsec. (i)(6). Pub. L. 104–208, §328(a)(1)(B), added par. (6).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–13 effective May 11, 2005, and applicable to applications for asylum, withholding, or other relief from removal made on or after such date, see section 101(h)(2) of Pub. L. 109–13, set out as a note under section 1158 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -496,5 +516,5 @@ Pub. L. 104–132, title IV, §437, Apr. 24, 1996, 110 Stat. 1275, provided that
 
 #### Termination of Limitation
 
-Section 20301(c) of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, title III, §308(g)(5)(G), Sept. 30, 1996, 110 Stat. 3009–623, provided that: “Notwithstanding section 241(h)(5) \[probably means 241(i)(5), formerly 242(j)(5) of the Immigration and Nationality Act \[8 U.S.C. 1231(i)(5)\], as added by subsection (a), the requirements of section 241(h) \[probably means 241(i), formerly 242(j) of the Immigration and Nationality Act \[8 U.S.C. 1231(i)\], as added by subsection (a), shall not be subject to the availability of appropriations on and after October 1, 2004.”
+Pub. L. 103–322, title II, §20301(c), Sept. 13, 1994, 108 Stat. 1824, as amended by Pub. L. 104–208, div. C, title III, §308(g)(5)(G), Sept. 30, 1996, 110 Stat. 3009–623, provided that notwithstanding subsec. (h)(5) \[(i)(5)\] of this section the requirements of subsec. (h) \[i\] of this section were not to be subject to the availability of appropriations on and after Oct. 1, 2004, prior to repeal by Pub. L. 109–162, title XI, §1172(c), Jan. 5, 2006, 119 Stat. 3123.
 

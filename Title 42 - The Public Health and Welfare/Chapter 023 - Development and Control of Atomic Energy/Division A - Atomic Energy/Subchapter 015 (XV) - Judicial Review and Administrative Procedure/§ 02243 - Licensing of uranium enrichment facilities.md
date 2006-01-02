@@ -46,7 +46,7 @@ Section 2210 of this title shall not apply to any license under section 2073 or 
 
 #### (f) Limitation
 
-No license or certificate of compliance may be issued to the United States Enrichment Corporation or its successor under this section orsections <sup>1</sup> 2073, 2093, or 2297f of this title, if the Commission determines that—
+No license or certificate of compliance may be issued to the United States Enrichment Corporation or its successor under this section or sections <sup>1</sup> 2073, 2093, or 2297f of this title, if the Commission determines that—
 
 &emsp;(1) the Corporation is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government; or
 

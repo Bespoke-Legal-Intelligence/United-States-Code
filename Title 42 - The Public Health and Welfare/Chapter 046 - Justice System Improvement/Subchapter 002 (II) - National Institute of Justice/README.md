@@ -1,7 +1,5 @@
 ### SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

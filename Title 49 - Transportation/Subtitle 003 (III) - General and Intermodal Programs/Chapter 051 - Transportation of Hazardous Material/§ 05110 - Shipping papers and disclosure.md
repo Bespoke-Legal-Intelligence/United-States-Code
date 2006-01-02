@@ -2,23 +2,9 @@
 
 (a)
 
-Providing Shipping Papers.—Each person offering for transportation in commerce hazardous material to which the shipping paper requirements of the Secretary of Transportation apply shall provide to the carrier providing the transportation a shipping paper that makes the disclosures the Secretary prescribes under subsection (b) of this section.
+Providing Shipping Papers.—Each person offering for transportation in commerce hazardous material to which the shipping paper requirements of the Secretary apply shall provide to the carrier providing the transportation a shipping paper that makes the disclosures the Secretary prescribes in regulations.
 
 (b)
-
-Considerations and Requirements.—In carrying out subsection (a) of this section, the Secretary shall consider and may require—
-
-&emsp;(1) a description of the hazardous material, including the proper shipping name;
-
-&emsp;(2) the hazard class of the hazardous material;
-
-&emsp;(3) the identification number (UN/NA) of the hazardous material;
-
-&emsp;(4) immediate first action emergency response information or a way for appropriate reference to the information (that must be available immediately); and
-
-&emsp;(5) a telephone number for obtaining more specific handling and mitigation information about the hazardous material at any time during which the material is transported.
-
-(c)
 
 Keeping Shipping Papers on the Vehicle.—(1) A motor carrier, and the person offering the hazardous material for transportation if a private motor carrier, shall keep the shipping paper on the vehicle transporting the material.
 
@@ -28,15 +14,27 @@ Keeping Shipping Papers on the Vehicle.—(1) A motor carrier, and the person of
 
 &emsp;(B) the documents are made available to a representative of a department, agency, or instrumentality of the United States Government or a State or local authority responding to an accident or incident involving the motor vehicle, train, vessel, aircraft, or facility.
 
-(d)
+(c)
 
 Disclosure to Emergency Response Authorities.—When an incident involving hazardous material being transported in commerce occurs, the person transporting the material, immediately on request of appropriate emergency response authorities, shall disclose to the authorities information about the material.
 
-(e)
+(d)
 
-Retention of Papers.—After the hazardous material to which a shipping paper provided to a carrier under subsection (a) applies is no longer in transportation, the person who provided the shipping paper and the carrier required to maintain it under subsection (a) shall retain the paper or electronic image thereof for a period of 1 year to be accessible through their respective principal places of business. Such person and carrier shall, upon request, make the shipping paper available to a Federal, State, or local government agency at reasonable times and locations.
+Retention of Papers.—
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 768; Pub. L. 103–311, title I, §115, Aug. 26, 1994, 108 Stat. 1678.)
+&emsp;(1)
+
+Shippers.—The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the shipper's principal place of business.
+
+&emsp;(2)
+
+Carriers.—The carrier required to keep the shipping paper under this section,<sup>1</sup> shall retain the paper, or an electronic format of it, for a period of 1 year after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the carrier's principal place of business.
+
+&emsp;(3)
+
+Availability to government agencies.—Any person required to keep a shipping paper under this subsection shall, upon request, make it available to a Federal, State, or local government agency at reasonable times and locations.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 768; Pub. L. 103–311, title I, §115, Aug. 26, 1994, 108 Stat. 1678; Pub. L. 109–59, title VII, §§7110, 7126, Aug. 10, 2005, 119 Stat. 1898, 1909.)
 
 Historical and Revision Notes
 
@@ -69,6 +67,18 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §105(g); added Nov. 16, 1990, Pu
 In subsection (c)(1), the words “A motor carrier” are substituted for “the carrier” for clarity.
 
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §7126, substituted “Secretary apply” for “Secretary of Transportation apply”.
+
+Pub. L. 109–59, §7110(a)(1), substituted “in regulations” for “under subsection (b) of this section”.
+
+Subsecs. (b), (c). Pub. L. 109–59, §7110(a)(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to considerations and requirements in carrying out subsec. (a).
+
+Subsec. (d). Pub. L. 109–59, §7110(b), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “After the hazardous material to which a shipping paper provided to a carrier under subsection (a) applies is no longer in transportation, the person who provided the shipping paper and the carrier required to maintain it under subsection (a) shall retain the paper or electronic image thereof for a period of 1 year to be accessible through their respective principal places of business. Such person and carrier shall, upon request, make the shipping paper available to a Federal, State, or local government agency at reasonable times and locations.”
+
+Pub. L. 109–59, §7110(a)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (e). Pub. L. 109–59, §7110(a)(3), redesignated subsec. (e) as (d).
 
 1994—Subsec. (e). Pub. L. 103–311 added subsec. (e).
 
@@ -128,7 +138,7 @@ Authorization of appropriation.—In addition to amounts authorized under sectio
 
 “(c)
 
-Additional Purposes of Rulemaking Proceeding and Study.—Additional purposes of the rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center described in subsection (b) and the study conducted under subsection (b) are—
+Additional Purposes of Rulemaking Proceeding and Study.—Additional purposes of the rulemaking proceeding initiated under subsection (a) with respectto a central reporting system and computerized telecommunications data center described in subsection (b) and the study conducted under subsection (b) are—
 
 &emsp;“(1) to determine whether such a system and center should be established and operated by the United States Government or by a private entity, either on its own initiative or under contract with the United States;
 
@@ -179,4 +189,6 @@ Rulemaking Proceeding.—Not later than 90 days after the date of the enactment 
 “(b)
 
 Completion of Proceeding.—Not later than 30 months after the date of the enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall complete the proceeding under this section and may issue a final rule relating to establishment of continually monitored telephone systems described in subsection (a).”
+
+<i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

@@ -8,7 +8,7 @@ Establishment and Administration.—(1) The Secretary of Defense may operate an 
 
 (b)
 
-Purpose.—The purpose of the Institute is to provide professional education and training to eligible personnel of nations of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such charter being a treaty to which the United States is a party), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating nations and promoting democratic values, respect for human rights, and knowledge and understanding of United States customs and traditions.
+Purpose.—The purpose of the Institute is to provide professional education and training to eligible personnel of nations of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such charter being a treaty to which the United States is a party), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating nations and promoting democratic values, respect for human rights, and knowledgeand understanding of United States customs and traditions.
 
 (c)
 
@@ -88,7 +88,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 Authority To Accept Foreign Gifts and Donations.—(1) The Secretary of Defense may, on behalf of the Institute, accept foreign gifts or donations in order to defray the costs of, or enhance the operation of, the Institute.
 
-(2) Funds received by the Secretary under paragraph (1) shall be credited to appropriations available for the Department of Defense for theInstitute. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Institute for the same purposes and same period as the appropriations with which merged.
+(2) Funds received by the Secretary under paragraph (1) shall be credited to appropriations available for the Department of Defense for the Institute. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Institute for the same purposes and same period as the appropriations with which merged.
 
 (3) The Secretary of Defense shall notify Congress if the total amount of money accepted under paragraph (1) exceeds $1,000,000 in any fiscal year. Any such notice shall list each of the contributors of such money and the amount of each contribution in such fiscal year.
 
@@ -123,8 +123,4 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(9), is Pub. L. 92
 Subsec. (i). Pub. L. 107–314, §932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report.”
 
 2001—Subsec. (e)(9). Pub. L. 107–107 substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2612 of this title.
 

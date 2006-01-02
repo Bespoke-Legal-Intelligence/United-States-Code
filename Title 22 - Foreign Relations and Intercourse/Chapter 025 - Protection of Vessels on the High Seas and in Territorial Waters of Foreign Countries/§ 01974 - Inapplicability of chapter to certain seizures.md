@@ -6,7 +6,7 @@ The provisions of this chapter shall not apply with respect to a seizure made by
 
 #### Amendments
 
-1984—Pub. L. 98–364 substituted “any applicable convention or treaty, if that treaty or convention was made with advice and consent to the Senate and was in force and effect for the United States and the seizingcountry at the time of the seizure” for “any fishery convention or treaty to which the United States is a party”.
+1984—Pub. L. 98–364 substituted “any applicable convention or treaty, if that treaty or convention was made with advice and consent to the Senate and was in force and effect for the United States and the seizing country at the time of the seizure” for “any fishery convention or treaty to which the United States is a party”.
 
 #### Effective Date of 1984 Amendment
 

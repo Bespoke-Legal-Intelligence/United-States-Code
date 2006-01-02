@@ -22,7 +22,3 @@ Gain on the disposition of a regular interest shall be treated as ordinary incom
 
 (Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2309.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6049 of this title.
-

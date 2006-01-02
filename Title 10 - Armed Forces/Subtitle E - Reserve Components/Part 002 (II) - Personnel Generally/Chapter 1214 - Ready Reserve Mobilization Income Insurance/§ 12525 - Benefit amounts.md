@@ -24,7 +24,3 @@ Adjustment of Amounts.—(1) The Secretary shall determine annually the effect o
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 301.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12524 of this title.
-

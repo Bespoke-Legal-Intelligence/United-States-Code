@@ -26,10 +26,6 @@ Pub. L. 97–248, title IV, §402(b), Sept. 3, 1982, 96 Stat. 667, added item fo
 
 1969—Pub. L. 91–172, title I, §101(j)(63), Dec. 30, 1969, 83 Stat. 532, inserted reference to certain excise taxes in item for subchapter B.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6867, 7801 of this title.
-
 
 ---
 

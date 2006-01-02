@@ -34,7 +34,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(13) provides that the State shall arrange for a periodic and independently conducted audit of the programs assisted under this part and part B of this subchapter, which shall be conducted no less frequently than once every three years;
 
-&emsp;(14) provides (A) specific goals (which shall be established by State law on or before October 1, 1982) for each fiscal year (commencing with the fiscal year which begins on October 1,1983) as to the maximum number of children (in absolute numbers or as a percentage of all children in foster care with respect to whom assistance under the plan is provided during such year) who, at any time during such year, will remain in foster care after having been in such care for a period in excess of twenty-four months, and (B) a description of the steps which will be taken by the State to achieve such goals;
+&emsp;(14) provides (A) specific goals (which shall be established by State law on or before October 1, 1982) for each fiscal year (commencing with the fiscal year which begins on October 1, 1983) as to the maximum number of children (in absolute numbers or as a percentage of all children in foster care with respect to whom assistance under the plan is provided during such year) who, at any time during such year, will remain in foster care after having been in such care for a period in excess of twenty-four months, and (B) a description of the steps which will be taken by the State to achieve such goals;
 
 &emsp;(15) provides that—
 
@@ -64,7 +64,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;&emsp;&emsp;(iii) the parental rights of the parent to a sibling have been terminated involuntarily;
 
-&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not made with respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
+&emsp;&emsp;(E) if reasonable efforts of the type described in subparagraph (B) are not madewith respect to a child as a result of a determination made by a court of competent jurisdiction in accordance with subparagraph (D)—
 
 &emsp;&emsp;&emsp;(i) a permanency hearing (as described in section 675(5)(C) of this title) shall be held for the child within 30 days after the determination; and
 
@@ -212,7 +212,7 @@ In General.—Except as provided in subsection (b), the amendments made by this 
 
 “(b)
 
-Special Rules.—(1)(A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[section 602 of this title\] that are required in order to carry out the amendmentsmade by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[42 U.S.C. 671 note\] (or, if earlier, the date on which such regulations are required to be published under such section) and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
+Special Rules.—(1)(A) If any State makes the changes in its State plan approved under section 402 of the Social Security Act \[section 602 of this title\] that are required in order to carry out the amendments made by this title and formally notifies the Secretary of Health and Human Services of its desire to become subject to such amendments as of the first day of any calendar quarter beginning on or after the date on which the proposed regulations of the Secretary of Health and Human Services are published under section 203(a) \[42 U.S.C. 671 note\] (or, if earlier, the date on which such regulations are required to be published under such section) and before October 1, 1990, such amendments shall become effective with respect to that State as of such first day.
 
 “(B) In the case of any State in which the amendments made by this title become effective (in accordance with subparagraph (A)) with respect to any quarter of a fiscal year beginning before October 1, 1990, the limitation applicable to the State for the fiscal year under section 403(k)(2) of the Social Security Act \[section 603(k)(2) of this title\] (as added by section 201(c)(1) of this Act) shall be an amount that bears the same ratio to such limitation (as otherwise determined with respect to the State for the fiscal year) as the number of quarters in the fiscal year throughout which such amendments apply to the State bears to 4.
 

@@ -22,7 +22,7 @@ Only one payment of tax under section 4251 shall be required with respect to the
 
 #### (f) Common carriers and communications companies
 
-No tax shall be imposed under section 4251 on the amount paid for any toll telephone service described in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
+No tax shall be imposed under section 4251 on the amount paid for any toll telephone servicedescribed in section 4252(b)(2) to the extent that the amount so paid is for use by a common carrier, telephone or telegraph company, or radio broadcasting station or network in the conduct of its business as such.
 
 #### (g) Installation charges
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 89–44 substituted amounts paid for any toll telephone ser
 
 Subsec. (g). Pub. L. 89–44 reenacted subsec. (g) without change.
 
-Subsecs. (h) to (j). Pub. L. 89–44 struck out subsecs. (h) to (j), which related to terminal facilities in case of wire mileage service and to certain interior and private communications services.
+Subsecs. (h) to (j). Pub. L. 89–44 struck out subsecs. (h) to (j), which related to terminal facilities in case ofwire mileage service and to certain interior and private communications services.
 
 1962—Subsec. (j). Pub. L. 87–508 added subsec. (j).
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–368 applicable to amounts paid pursuant to bills first rendered on or after April 1,1966, for services rendered on or after such date and to amounts paid pursuant to bills rendered on or after such date for services which were rendered before such date and for which no previous bill was rendered except with respect to such services as were rendered more than two months before such date and, as to services rendered more than 2 months before such date, direction that the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered, be applied, subject to the provision of section 701(b)(2) of the Excise Tax Reduction Act of 1965.
+Amendment by Pub. L. 89–368 applicable to amounts paid pursuant to bills first rendered on or after April 1, 1966, for services rendered on or after such date and to amounts paid pursuant to bills rendered on or after such date for services which were rendered before such date and for which no previous bill was rendered except with respect to such services as were rendered more than two months before such date and, as to services rendered more than 2 months before such date, direction that the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered, be applied, subject to the provision of section 701(b)(2) of the Excise Tax Reduction Act of 1965.
 
 #### Effective Date of 1965 Amendment
 

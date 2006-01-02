@@ -1,6 +1,6 @@
 ### §3949. Limited appointments
 
-(a) A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5years in duration and, except as provided in subsection (b) of this section, may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
+(a) A limited appointment in the Service, including an appointment of an individual who is an employee of an agency, may not exceed 5 years in duration and, except as provided in subsection (b) of this section, may not be extended or renewed. A limited appointment in the Service which is limited by its terms to a period of one year or less is a temporary appointment.
 
 (b) A limited appointment may be extended for continued service—
 

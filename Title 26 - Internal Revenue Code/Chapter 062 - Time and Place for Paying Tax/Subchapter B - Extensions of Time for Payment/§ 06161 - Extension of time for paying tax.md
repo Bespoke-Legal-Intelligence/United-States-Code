@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 96–589 substituted “Claims in cases under title 11 of t
 
 Subsec. (a)(2). Pub. L. 94–455, §2004(c)(1), struck out in subpar. (A) “that the payment, on the due date, of” before “any part of the amount”, in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) “or 6166A” after “section 6166”, substituted in subpar. (B) “under such section” for “the date for payment for which had not arrived”, and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
 
-Subsec. (b). Pub. L. 94–455, §§1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference tochapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
+Subsec. (b). Pub. L. 94–455, §§1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference to chapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -127,8 +127,4 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 #### Effective Date of 1958 Amendment
 
 Section 206(f) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act \[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2011, 2014, 2056A, 2058, 2204, 6215, 6503, 6873 of this title.
 

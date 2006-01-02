@@ -14,7 +14,3 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5688 of this title.
-

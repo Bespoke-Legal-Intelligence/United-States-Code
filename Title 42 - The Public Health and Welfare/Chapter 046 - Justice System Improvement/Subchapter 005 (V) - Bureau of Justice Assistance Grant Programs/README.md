@@ -2,13 +2,13 @@
 
 #### Prior Provisions
 
-A prior subchapter V, consisting of sections 3761 to 3766, related to discretionary grants, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328. For similar provisions, see part B (§3760 et seq.) of this subchapter.
+A prior subchapter V, consisting of sections 3761 to 3766, related to discretionary grants, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
 
 Section 3761, Pub. L. 90–351, title I, §501, formerly §601, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1195; renumbered §501 and amended Pub. L. 98–473, title II, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to Congressional statement of purpose regarding discretionary grants.
 
 Section 3762, Pub. L. 90–351, title I, §502, formerly §602, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1195; renumbered §502 and amended Pub. L. 98–473, title II, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to percentage of appropriation for discretionary grant program.
 
-Section 3763, Pub. L. 90–351, title I, §503, formerly §603, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1196; renumbered §503 and amended Pub. L. 98–473, titleII, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to procedure for establishing discretionary programs.
+Section 3763, Pub. L. 90–351, title I, §503, formerly §603, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1196; renumbered §503 and amended Pub. L. 98–473, title II, §608(a), Oct. 12, 1984, 98 Stat. 2086, related to procedure for establishing discretionary programs.
 
 Section 3764, Pub. L. 90–351, title I, §504, formerly §604, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1197; renumbered §504 and amended Pub. L. 98–473, title II, §608(b), (f), Oct. 12, 1984, 98 Stat. 2087, related to application requirements for discretionary grants.
 
@@ -85,11 +85,6 @@ Section 3774 of this title, Pub. L. 90–351, title I, §528, as added Pub. L. 9
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03750 - Name of programs](%C2%A7%2003750%20-%20Name%20of%20programs.md)
-- [&sect; 03750a - Grant authorization](%C2%A7%2003750a%20-%20Grant%20authorization.md)
-- [&sect; 03750b - Application](%C2%A7%2003750b%20-%20Application.md)
-- [&sect; 03750c - Award of grants](%C2%A7%2003750c%20-%20Award%20of%20grants.md)
-- [&sect; 03750d - Authorization of appropriations](%C2%A7%2003750d%20-%20Authorization%20of%20appropriations.md)
-- [Part A - Drug Control and System Improvement Grant Program](Part%20A%20-%20Drug%20Control%20and%20System%20Improvement%20Grant%20Program/README.md)
+- [Part A - Edward Byrne Memorial Justice Assistance Grant Program](Part%20A%20-%20Edward%20Byrne%20Memorial%20Justice%20Assistance%20Grant%20Program/README.md)
 - [Part B - Discretionary Grants](Part%20B%20-%20Discretionary%20Grants/README.md)
 - [Part C - Administrative Provisions](Part%20C%20-%20Administrative%20Provisions/README.md)

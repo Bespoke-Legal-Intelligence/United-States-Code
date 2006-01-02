@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, any agency of the United States whic
 
 #### (e) Exemption
 
-The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.
+The Secretary may by regulations exempt any class of individuals from the requirements ofthis section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section.
 
 (Added Pub. L. 99–514, title XII, §1234(a)(1), Oct. 22, 1986, 100 Stat. 2565; amended Pub. L. 100–647, title I, §1012(<i>o</i>), Nov. 10, 1988, 102 Stat. 3515.)
 

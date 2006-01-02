@@ -2,7 +2,11 @@
 
 (a) Except as provided in section 510 of this title, property of the estate shall be distributed—
 
-&emsp;(1) first, in payment of claims of the kind specified in, and in the order specified in, section 507 of this title, proof of which is timely filed under section 501 of this title or tardily filed before the date on which the trustee commences distribution under this section;
+&emsp;(1) first, in payment of claims of the kind specified in, and in the order specified in, section 507 of this title, proof of which is timely filed under section 501 of this title or tardily filed on or before the earlier of—
+
+&emsp;&emsp;(A) the date that is 10 days after the mailing to creditors of the summary of the trustee's final report; or
+
+&emsp;&emsp;(B) the date on which the trustee commences final distribution under this section;
 
 &emsp;(2) second, in payment of any allowed unsecured claim, other than a claim of a kind specified in paragraph (1), (3), or (4) of this subsection, proof of which is—
 
@@ -24,7 +28,7 @@
 
 &emsp;(6) sixth, to the debtor.
 
-(b) Payment on claims of a kind specified in paragraph (1), (2), (3), (4), (5), (6), (7), or (8) of section 507(a) of this title, or in paragraph (2), (3), (4), or (5) of subsection (a) of this section, shall be made pro rata among claims of the kind specified in each such particular paragraph, except that in a case that has been converted to this chapter under section 1009,<sup>1</sup> 1112, 1208, or 1307 of this title, a claim allowed under section 503(b) of this title incurred under this chapter after such conversion has priority over a claim allowed under section 503(b) of this title incurred under any other chapter of this title or under this chapter before such conversion and over any expenses of a custodian superseded under section 543 of this title.
+(b) Payment on claims of a kind specified in paragraph (1), (2), (3), (4), (5), (6), (7), or (8) of section 507(a) of this title, or in paragraph (2), (3), (4), or (5) of subsection (a) of this section, shall be made pro rata among claims of the kind specified in each such particular paragraph, except that in a case that has been converted to this chapter under section 1112, 1208, or 1307 of this title, a claim allowed under section 503(b) of this title incurred under this chapter after such conversion has priority over a claim allowed under section 503(b) of this title incurred under any other chapter of this title or under this chapter before such conversion and over any expenses of a custodian superseded under section 543 of this title.
 
 (c) Notwithstanding subsections (a) and (b) of this section, if there is property of the kind specified in section 541(a)(2) of this title, or proceeds of such property, in the estate, such property or proceeds shall be segregated from other property of the estate, and such property or proceeds and other property of the estate shall be distributed as follows:
 
@@ -40,7 +44,7 @@
 
 &emsp;&emsp;(D) Fourth, to the extent that community claims against the debtor or the debtor's spouse are not paid under subparagraph (A), (B), or (C) of this paragraph, such claims shall be paid from all remaining property of the estate.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2608; Pub. L. 98–353, title III, §479, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §§257(r), 283(s), Oct. 27, 1986, 100 Stat. 3115, 3118; Pub. L. 103–394, title II, §213(b), title III, §304(h)(5), title V, §501(d)(24), Oct. 22, 1994, 108 Stat. 4126, 4134, 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2608; Pub. L. 98–353, title III, §479, July 10, 1984, 98 Stat. 381; Pub. L. 99–554, title II, §§257(r), 283(s), Oct. 27, 1986, 100 Stat. 3115, 3118; Pub. L. 103–394, title II, §213(b), title III, §304(h)(5), title V, §501(d)(24), Oct. 22, 1994, 108 Stat. 4126, 4134, 4146; Pub. L. 109–8, title VII, §713, title XII, §1215, Apr. 20, 2005, 119 Stat. 128, 195.)
 
 #### Historical and Revision Notes
 
@@ -74,6 +78,10 @@ The marshalling rules in this section apply only to property of the estate. Howe
 
 #### Amendments
 
+2005—Subsec. (a)(1). Pub. L. 109–8, §713, substituted “on or before the earlier of—” and subpars. (A) and (B) for “before the date on which the trustee commences distribution under this section;”.
+
+Subsec. (b). Pub. L. 109–8, §1215, struck out “1009,” before “1112”.
+
 1994—Subsec. (a)(1). Pub. L. 103–394, §213(b), inserted before semicolon at end “, proof of which is timely filed under section 501 of this title or tardily filed before the date on which the trustee commences distribution under this section”.
 
 Subsec. (b). Pub. L. 103–394, §§304(h)(5), 501(d)(24), substituted “, (7), or (8)” for “or (7)” and “chapter under section 1009, 1112,” for “chapter under section 1112”.
@@ -88,6 +96,10 @@ Subsec. (c)(1). Pub. L. 98–353, §479(b)(1), substituted “Claims allowed und
 
 Subsec. (c)(2). Pub. L. 98–353, §479(b)(2), substituted “Allowed claims, other than claims allowed under section 503 of this title,” for “Claims other than for administrative expenses”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -101,6 +113,4 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> So in original. This title does not contain a section 1009.</i>
 

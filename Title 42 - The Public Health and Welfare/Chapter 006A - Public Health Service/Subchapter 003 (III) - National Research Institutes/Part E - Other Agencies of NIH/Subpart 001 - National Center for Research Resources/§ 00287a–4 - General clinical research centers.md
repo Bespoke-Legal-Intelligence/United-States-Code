@@ -6,7 +6,7 @@ The Director of the National Center for Research Resources shall award grants fo
 
 #### (b) Activities
 
-In carrying out subsection (a) of this section, the Director of National Institutes of Health shall expand the activities of the general clinical research centers through the increased use of telecommunications and telemedicine initiatives.
+In carrying out subsection (a) of this section, the Director of National Institutes of Healthshall expand the activities of the general clinical research centers through the increased use of telecommunications and telemedicine initiatives.
 
 #### (c) Authorization of appropriations
 

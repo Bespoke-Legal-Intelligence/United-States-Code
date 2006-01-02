@@ -1,6 +1,6 @@
 ### §1722. False evidence to secure second-class rate
 
-Whoever knowingly submits to the Postal Service or to any officer or employee of the Postal Service, any false evidence relative to any publication for the purpose of securing the admission thereof at the second-class rate, fortransportation in the mails, shall be fined under this title.
+Whoever knowingly submits to the Postal Service or to any officer or employee of the Postal Service, any false evidence relative to any publication for the purpose of securing the admission thereof at the second-class rate, for transportation in the mails, shall be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 783; Pub. L. 91–375, §6(j)(30), Aug. 12, 1970, 84 Stat. 780; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 

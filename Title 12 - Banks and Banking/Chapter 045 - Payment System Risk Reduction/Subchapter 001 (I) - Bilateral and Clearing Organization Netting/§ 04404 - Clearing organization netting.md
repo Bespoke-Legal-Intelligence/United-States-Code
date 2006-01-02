@@ -1,8 +1,8 @@
 ### §4404. Clearing organization netting
 
-#### (a) General netting rule
+#### (a) General rule
 
-Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract.
+Notwithstanding any other provision of State or Federal law (other than paragraphs (8)(E), (8)(F), and (10)(B) of section 1821(e) of this title, paragraphs (8)(E), (8)(F), and (10)(B) of section 1787(c) of this title, and any order authorized under section 78eee(b)(2) of title 15), the covered contractual payment obligations and the covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract (except as provided in section 561(b)(2) of title 11).
 
 #### (b) Limitation of obligation to make payment
 
@@ -28,5 +28,19 @@ A failed member of a clearing organization shall have no recognizable claim agai
 
 This section shall be given effect notwithstanding that a member is a failed member.
 
-(Pub. L. 102–242, title IV, §404, Dec. 19, 1991, 105 Stat. 2374.)
+#### (h) Enforceability of security agreements
+
+The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 members of a clearing organization shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than paragraphs (8)(E), (8)(F), and (10)(B) of section 1821(e) of this title, paragraphs (8)(E), (8)(F), and (10)(B) of section 1787(c) of this title, and section 78eee(b)(2) of title 15).
+
+(Pub. L. 102–242, title IV, §404, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, §906(c), Apr. 20, 2005, 119 Stat. 168.)
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–8, §906(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract.”
+
+Subsec. (h). Pub. L. 109–8, §906(c)(2), added subsec. (h).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 

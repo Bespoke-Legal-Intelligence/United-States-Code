@@ -10,9 +10,13 @@ Nor shall anything herein contained be construed to prohibit any common carrier 
 
 Nothing contained in this section shall be held to affect or impair any right heretofore legally acquired: <i>Provided</i>, That nothing in this section shall be held or construed to authorize or make lawful anything heretofore prohibited or made illegal by the antitrust laws, nor to exempt any person from the penal provisions thereof or the civil remedies therein provided.
 
-Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title, the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
+Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title,<sup>1</sup> the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
 
 (Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 96–349, §6(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 98–443, §9(<i>l</i>), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 104–88, title III, §318(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–104, title VI, §601(b)(3), Feb. 8, 1996, 110 Stat. 143.)
+
+#### References in Text
+
+Section 79j of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
 
 #### Amendments
 
@@ -49,4 +53,6 @@ United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. 
 Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
 Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, see section 1601 et seq. of Title 46, Appendix, Shipping.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

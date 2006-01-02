@@ -8,7 +8,7 @@
 
 #### (2) Criteria and consideration
 
-&emsp;The Quality Assurance Program authorized by this section shall be based on criteria thatinclude demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary. The selection criteria shall ensure the participation of a diverse group of institutions of higher education with respect to size, mission, and geographical distribution.
+&emsp;The Quality Assurance Program authorized by this section shall be based on criteria that include demonstrated institutional performance, as determined by the Secretary, and shall take into consideration current quality assurance goals, as determined by the Secretary. The selection criteria shall ensure the participation of a diverse group of institutions of higher education with respect to size, mission, and geographical distribution.
 
 #### (3) Waiver
 

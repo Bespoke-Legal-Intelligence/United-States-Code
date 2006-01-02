@@ -138,7 +138,3 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 2000—Subsec. (k). Pub. L. 106–398 inserted “and” after “Balanced Budget”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2883 of this title.
-

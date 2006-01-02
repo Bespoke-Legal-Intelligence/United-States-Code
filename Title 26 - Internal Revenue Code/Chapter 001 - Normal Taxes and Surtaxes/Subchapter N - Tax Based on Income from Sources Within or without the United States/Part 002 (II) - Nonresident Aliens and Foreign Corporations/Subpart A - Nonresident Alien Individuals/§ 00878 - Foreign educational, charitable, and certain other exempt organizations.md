@@ -2,7 +2,7 @@
 
 &emsp;&emsp;<b>For special provisions relating to foreign educational, charitable, and other exempt organizations, see sections 512(a) and 4948.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 282, §877; renumbered §878, Pub. L. 89–809, title I, §103(f)(1), Nov.13, 1966, 80 Stat. 1551; amended Pub. L. 91–172, title I, §101(j)(20), Dec. 30, 1969, 83 Stat. 528.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 282, §877; renumbered §878, Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 91–172, title I, §101(j)(20), Dec. 30, 1969, 83 Stat. 528.)
 
 #### Amendments
 

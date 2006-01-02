@@ -4,13 +4,27 @@
 
 (2) On request of a party in interest, the court may order the appointment of additional committees of creditors or of equity security holders if necessary to assure adequate representation of creditors or of equity security holders. The United States trustee shall appoint any such committee.
 
-(3) On request of a party in interest in a case in which the debtor is a small business and for cause, the court may order that a committee of creditors not be appointed.
+(3) On request of a party in interest in a case in which the debtor is a small business debtor and for cause, the court may order that a committee of creditors not be appointed.
+
+(4) On request of a party in interest and after notice and a hearing, the court may order the United States trustee to change the membership of a committee appointed under this subsection, if the court determines that the change is necessary to ensure adequate representation of creditors or equity security holders. The court may order the United States trustee to increase the number of members of a committee to include a creditor that is a small business concern (as described in section 3(a)(1) of the Small Business Act), if the court determines that the creditor holds claims (of the kind represented by the committee) the aggregate amount of which, in comparison to the annual gross revenue of that creditor, is disproportionately large.
 
 (b)(1) A committee of creditors appointed under subsection (a) of this section shall ordinarily consist of the persons, willing to serve, that hold the seven largest claims against the debtor of the kinds represented on such committee, or of the members of a committee organized by creditors before the commencement of the case under this chapter, if such committee was fairly chosen and is representative of the different kinds of claims to be represented.
 
 (2) A committee of equity security holders appointed under subsection (a)(2) of this section shall ordinarily consist of the persons, willing to serve, that hold the seven largest amounts of equity securities of the debtor of the kinds represented on such committee.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2626; Pub. L. 98–353, title III, §499, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §221, Oct. 27, 1986, 100 Stat. 3101; Pub. L. 103–394, title II, §217(b), Oct. 22, 1994, 108 Stat. 4127.)
+(3) A committee appointed under subsection (a) shall—
+
+&emsp;(A) provide access to information for creditors who—
+
+&emsp;&emsp;(i) hold claims of the kind represented by that committee; and
+
+&emsp;&emsp;(ii) are not appointed to the committee;
+
+&emsp;(B) solicit and receive comments from the creditors described in subparagraph (A); and
+
+&emsp;(C) be subject to a court order that compels any additional report or disclosure to be made to the creditors described in subparagraph (A).
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2626; Pub. L. 98–353, title III, §499, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §221, Oct. 27, 1986, 100 Stat. 3101; Pub. L. 103–394, title II, §217(b), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §§405, 432(b), Apr. 20, 2005, 119 Stat. 105, 110.)
 
 #### Historical and Revision Notes
 
@@ -36,9 +50,19 @@ Subsection (b) contains precatory language directing the court to appoint the pe
 
 Paragraph (2) of subsection (b) requires similar treatment for equity security holders’ committees. The seven largest holders are normally to be appointed, but the language is only precatory.
 
-Subsection (c) authorizes the court, on request of a party in interest, to change the size or the membership of a creditors’ or equity security holders’ committee if the membership of the committee is not representative of the different kinds of claims or interests to be represented. This subsection is intended, along with the nonbinding nature of subsection (b), to afford the court latitude in appointing a committee that is manageable and representative in light of the circumstances of the case.
+Subsection (c) authorizes the court, on request of a party in interest, to change the size or the membership of a creditors’ or equity security holders’ committee if the membership of the committee is not representative of the different kinds of claims or interests to be represented. This subsection is intended, along with the nonbinding nature of subsection (b), to afford the courtlatitude in appointing a committee that is manageable and representative in light of the circumstances of the case.
+
+#### References in Text
+
+Section 3(a)(1) of the Small Business Act, referred to in subsec. (a)(4), is classified to section 632(a)(1) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2005—Subsec. (a)(3). Pub. L. 109–8, §432(b), inserted “debtor” after “small business”.
+
+Subsec. (a)(4). Pub. L. 109–8, §405(a), added par. (4).
+
+Subsec. (b)(3). Pub. L. 109–8, §405(b), added par. (3).
 
 1994—Subsec. (a). Pub. L. 103–394 substituted “Except as provided in paragraph (3), as” for “As” in par. (1) and added par. (3).
 
@@ -47,6 +71,10 @@ Subsection (c) authorizes the court, on request of a party in interest, to chang
 Subsec. (c). Pub. L. 99–554, §221(2), struck out subsec. (c) which read as follows: “On request of a party in interest and after notice and a hearing, the court may change the membership or the size of a committee appointed under subsection (a) of this section if the membership of such committee is not representative of the different kinds of claims or interests to be represented.”
 
 1984—Subsec. (b)(1). Pub. L. 98–353 substituted “commencement of the case” for “order for relief”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

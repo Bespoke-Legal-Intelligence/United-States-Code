@@ -9,7 +9,7 @@
 | [7269\.](%C2%A7%2007269%20-%20Failure%20to%20produce%20records.md) | Failure to produce records. |
 | [7270\.](%C2%A7%2007270%20-%20Insurance%20policies.md) | Insurance policies. |
 | [7271\.](%C2%A7%2007271%20-%20Penalties%20for%20offenses%20relating%20to%20stamps.md) | Penalties for offenses relating to stamps. |
-| [7272\.](%C2%A7%2007272%20-%20Penalty%20for%20failure%20to%20register.md) | Penalty for failure to register. |
+| [7272\.](%C2%A7%2007272%20-%20Penalty%20for%20failure%20to%20register%20or%20reregister.md) | Penalty for failure to register or reregister. |
 | [7273\.](%C2%A7%2007273%20-%20Penalties%20for%20offenses%20relating%20to%20special%20taxes.md) | Penalties for offenses relating to special taxes. |
 | \[7274. | Repealed.\] |
 | [7275\.](%C2%A7%2007275%20-%20Penalty%20for%20offenses%20relating%20to%20certain%20airline%20tickets%20and%20advertising.md) | Penalty for offenses relating to certain airline tickets and advertising. |
@@ -17,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title XI, §11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted “or reregister” after “register” in item 7272.
 
 1976—Pub. L. 94–455, title XIX, §§1904(b)(7)(C)(ii), (8)(E)(ii), (9)(C)(ii), 1952(n)(3)(B), Oct. 4, 1976, 90 Stat. 1815, 1816, 1846, struck out items 7263 “Penalties relating to cotton futures”, 7264 “Offenses relating to renovated or adulterated butter”, 7265 “Other offenses relating to oleomargarine or adulterated butter operations”, 7267 “Offenses relating to white phosphorus matches”, and 7274 “Penalty for offenses relating to white phosphorus matches”.
 
@@ -42,7 +44,7 @@
 - [&sect; 07269 - Failure to produce records](%C2%A7%2007269%20-%20Failure%20to%20produce%20records.md)
 - [&sect; 07270 - Insurance policies](%C2%A7%2007270%20-%20Insurance%20policies.md)
 - [&sect; 07271 - Penalties for offenses relating to stamps](%C2%A7%2007271%20-%20Penalties%20for%20offenses%20relating%20to%20stamps.md)
-- [&sect; 07272 - Penalty for failure to register](%C2%A7%2007272%20-%20Penalty%20for%20failure%20to%20register.md)
+- [&sect; 07272 - Penalty for failure to register or reregister](%C2%A7%2007272%20-%20Penalty%20for%20failure%20to%20register%20or%20reregister.md)
 - [&sect; 07273 - Penalties for offenses relating to special taxes](%C2%A7%2007273%20-%20Penalties%20for%20offenses%20relating%20to%20special%20taxes.md)
 - [&sect; 07274 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1904(b)(8)(E)(i), Oct. 4, 1976, 90 Stat. 1816](%C2%A7%2007274%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71904%28b%29%288%29%28E%29%28i%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201816.md)
 - [&sect; 07275 - Penalty for offenses relating to certain airline tickets and advertising](%C2%A7%2007275%20-%20Penalty%20for%20offenses%20relating%20to%20certain%20airline%20tickets%20and%20advertising.md)

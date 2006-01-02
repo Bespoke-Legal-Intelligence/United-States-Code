@@ -42,7 +42,7 @@
 
 (f) No part of a report of an accident occurring in operations of a motor carrier, motor carrier of migrant workers, or motor private carrier and required by the Secretary, and no part of a report of an investigation of the accident made by the Secretary, may be admitted into evidence or used in a civil action for damages related to a matter mentioned in the report or investigation.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2433; Pub. L. 105–178, title IV, §4006(b), June 9, 1998, 112 Stat. 401.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2433; Pub. L. 105–178, title IV, §4006(b), June 9, 1998, 112 Stat. 401.)
 
 Historical and Revision Notes
 

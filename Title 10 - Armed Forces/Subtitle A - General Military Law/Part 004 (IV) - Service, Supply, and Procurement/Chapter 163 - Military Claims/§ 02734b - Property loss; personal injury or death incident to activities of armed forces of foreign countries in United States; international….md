@@ -8,7 +8,7 @@
 
 (d) A payment under this section shall be made by the Secretary of Defense out of appropriations as provided in section 2732 of this title.
 
-(Added Pub. L. 87–651, title I, §113(a), Sept. 7, 1962, 76 Stat. 512; amended Pub. L. 94–390, §1(2),Aug. 19, 1976, 90 Stat. 1191; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(C), Nov. 5, 1990, 104 Stat. 1709.)
+(Added Pub. L. 87–651, title I, §113(a), Sept. 7, 1962, 76 Stat. 512; amended Pub. L. 94–390, §1(2), Aug. 19, 1976, 90 Stat. 1191; Pub. L. 101–510, div. A, title XIV, §1481(j)(4)(C), Nov. 5, 1990, 104 Stat. 1709.)
 
 Historical and Revision Notes
 
@@ -53,8 +53,4 @@ In subsection (d), the words “under this section” are substituted for the wo
 1990—Subsec. (d). Pub. L. 101–510 substituted “as provided in section 2732 of this title” for “for that purpose”.
 
 1976—Subsec. (a). Pub. L. 94–390 substituted provisions authorizing claims, for which another armed force is legally responsible under applicable United States law, to be prosecuted against the United States or settled by the United States in accordance with an international agreement providing for the settlement or adjudication by the United States under its laws and regulations as if the acts or omissions upon which the claims are based were of a member or a civilian employee of an armed force of the United States, for provisions authorizing claims to be prosecuted against the United States or settled by the United States by adjudication by the United States under its laws and regulations as if the acts or omissions upon which the claims are based were the acts or omissions in the performance of official duty of a civilian employee or a member of an armed force.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2735 of this title.
 

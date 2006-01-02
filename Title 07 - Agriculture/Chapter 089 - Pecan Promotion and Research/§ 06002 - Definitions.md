@@ -84,7 +84,7 @@ As used in this chapter—
 
 #### (20) Research
 
-&emsp;The term “research” means any type of test, study, or analysis designed to advance the image, desirability, usage, marketability, production, product development, or quality of pecans.
+&emsp;The term “research” means any type of test, study, or analysis designed to advance theimage, desirability, usage, marketability, production, product development, or quality of pecans.
 
 #### (21) Secretary
 

@@ -28,7 +28,11 @@ Such drawback shall be due and payable quarterly upon filing of a proper claim w
 
 &emsp;The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346; amended Pub. L. 90–615, §2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 104–188, title I, §1704(t)(12), Aug. 20, 1996, 110 Stat. 1888.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346; amended Pub. L. 90–615, §2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 104–188, title I, §1704(t)(12), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–59, title XI, §11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
+
+#### Transfer of Section
+
+<i>Pub. L. 109–59, title XI, §11125(b)(3)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is redesignated section 5114 of this title.</i>
 
 #### Prior Provisions
 
@@ -57,8 +61,4 @@ Amendment by Pub. L. 98–369 applicable to products manufactured or produced af
 #### Effective Date of 1968 Amendment
 
 Section 2(b) of Pub. L. 90–615 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to claims filed on or after the date of the enactment of this Act \[Oct. 21, 1968\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5010 of this title.
 

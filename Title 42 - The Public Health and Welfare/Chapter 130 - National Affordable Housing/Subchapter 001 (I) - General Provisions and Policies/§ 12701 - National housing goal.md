@@ -16,7 +16,7 @@ Pub. L. 106–569, title I, §101, Dec. 27, 2000, 114 Stat. 2946, provided that:
 
 Section 1(a) of Pub. L. 101–625 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Cranston-Gonzalez National Affordable Housing Act’.”
 
-Section 201 of title II of Pub. L. 101–625 provided that: “This title \[enacting subchapter II of this chapter,amending section 1437f of this title, and repealing sections 1437<i>o</i> and 1452b of this title, section 1706e of Title 12, Banks and Banking, and provisions set out as a note under section 1715<i>l</i> of Title 12\] may be cited as the ‘HOME Investment Partnerships Act’.”
+Section 201 of title II of Pub. L. 101–625 provided that: “This title \[enacting subchapter II of this chapter, amending section 1437f of this title, and repealing sections 1437<i>o</i> and 1452b of this title, section 1706e of Title 12, Banks and Banking, and provisions set out as a note under section 1715<i>l</i> of Title 12\] may be cited as the ‘HOME Investment Partnerships Act’.”
 
 Section 301 of Pub. L. 101–625 provided that: “This subtitle \[subtitle A (§§301–310) of title III of Pub. L. 101–625, enacting subchapter III of this chapter\] may be cited as the ‘National Homeownership Trust Act’.”
 
@@ -124,7 +124,7 @@ Obtaining official data.—The Commission may secure directly from any departmen
 
 &emsp;“(4)
 
-Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
+Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises ofmoney and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
 
 &emsp;“(5)
 
@@ -230,7 +230,7 @@ Director.—The Commission shall have a Director who shall be appointed by the C
 
 &emsp;“(2)
 
-Staff.—The Commission may appoint personnel as appropriate. The staff of the Commission shallbe appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+Staff.—The Commission may appoint personnel as appropriate. The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
 
 &emsp;“(3)
 

@@ -274,7 +274,7 @@ Inapplicability.—If a person no longer meets the requirements of clause (i) fo
 
 #### (1) Use
 
-&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) ofthis section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
+&emsp;Funds collected by the Honey Board shall be used by the Honey Board for financing research, promotion, and consumer information, other expenses as described in subsection (d) of this section, such other expenses for the administration, maintenance, and functioning of the Honey Board as may be authorized by the Secretary, any reserve established under section 4607(5) of this title, and those administrative costs incurred by the Department of Agriculture pursuant to this chapter after an order has been promulgated under this chapter.
 
 #### (2) Research projects
 
@@ -308,7 +308,7 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 
 #### (k) Honey Board; property interests
 
-Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
+Any patent on any product, copyright on any material, or any invention, product formulationor publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
 (Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
 
@@ -338,7 +338,7 @@ Subsec. (c)(8). Pub. L. 105–185, §605(f)(2)(A), (D), redesignated par. (3) as
 
 Subsec. (c)(9) to (11). Pub. L. 105–185, §605(f)(2)(A), redesignated pars. (4) to (6) as (9) to (11), respectively.
 
-Subsec. (e)(1). Pub. L. 105–185, §605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to financethe expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
+Subsec. (e)(1). Pub. L. 105–185, §605(f)(3)(B), added par. (1) and struck out former par. (1) which read as follows: “The Honey Board shall administer collection of the assessment provided for in this paragraph to finance the expenses described in subsections (d) and (f) of this section. The assessment rate shall be $0.01 per pound, with payment to be made in the manner described in section 4608 of this title.”
 
 Subsec. (e)(2). Pub. L. 105–277 substituted “$0.01” for “$0.0075” wherever appearing.
 

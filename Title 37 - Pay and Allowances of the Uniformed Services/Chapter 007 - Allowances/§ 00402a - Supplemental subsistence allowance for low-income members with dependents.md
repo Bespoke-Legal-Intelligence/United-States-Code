@@ -6,7 +6,7 @@ Supplemental Allowance Required.—(1) The Secretary concerned shall increase th
 
 (2) The supplemental subsistence allowance may not exceed $500 per month. In establishing the amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
-(3) In the case of a member described in subsection (b) who establishes to the satisfaction of the Secretary concerned that the allotment of the member's household under the food stampprogram, calculated in the absence of the supplemental subsistence allowance, would exceed the amount established by the Secretary concerned under paragraph (2), the amount of the supplemental subsistence allowance for the member shall be equal to the lesser of the following:
+(3) In the case of a member described in subsection (b) who establishes to the satisfaction of the Secretary concerned that the allotment of the member's household under the food stamp program, calculated in the absence of the supplemental subsistence allowance, would exceed the amount established by the Secretary concerned under paragraph (2), the amount of the supplemental subsistence allowance for the member shall be equal to the lesser of the following:
 
 &emsp;(A) The value of that allotment.
 
@@ -16,9 +16,7 @@ Supplemental Allowance Required.—(1) The Secretary concerned shall increase th
 
 Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food Stamp Act of 1977 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the food stamp program.
 
-(2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration
-
-the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
+(2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
 (3) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall not take into consideration—
 
@@ -48,7 +46,7 @@ Reapplication.—Upon the termination of the effective period of the supplementa
 
 (f)
 
-Reporting Requirement.—Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Transportation. No report is required under this subsection after March 1, 2006.
+Reporting Requirement.—Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard.
 
 (g)
 
@@ -80,11 +78,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term “food stamp program” means the program established pursuant to section 4 of the Food Stamp Act of 1977 (7 U.S.C. 2013).
 
-(i)
-
-Termination of Authority.—No supplemental subsistence allowance may be provided under this section after September 30, 2006.
-
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145;amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289.)
 
 #### References in Text
 
@@ -99,6 +93,10 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (g)(3), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified principally to subchapter II (§8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163, §608(b), which directed amendment of subsec. (f) by substituting “Secretary of Homeland Security, with respect to the Coast Guard” for “Secretary of Transportation” in the first sentence and by striking out the second sentence, wasexecuted to reflect the probable intent of Congress by making the substitution in the second sentence and by striking out the third sentence which read as follows: “No report is required under this subsection after March 1, 2006.”
+
+Subsec. (i). Pub. L. 109–163, §608(a), struck out heading and text of subsec. (i). Text read as follows: “No supplemental subsistence allowance may be provided under this section after September 30, 2006.”
 
 2004—Subsec. (b)(2). Pub. L. 108–375, §602(a)(1), substituted “concerned” for dash after “Secretary” and struck out “(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but” and subpar. (B) designation before “shall take”.
 

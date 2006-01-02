@@ -20,10 +20,13 @@
 | [5025\.](%C2%A7%2005025%20-%20Financial%20management.md) | Financial management. |
 | [5026\.](%C2%A7%2005026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md) | Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation. |
 | [5027\.](%C2%A7%2005027%20-%20Chief%20of%20Legislative%20Affairs.md) | Chief of Legislative Affairs. |
+| [5028\.](%C2%A7%2005028%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title IX, §904(d)(2), Jan. 6, 2006, 119 Stat. 3401, added item 5028.
 
 2002—Pub. L. 107–314, div. A, title V, §504(d)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 5027.
 
@@ -62,3 +65,4 @@
 - [&sect; 05025 - Financial management](%C2%A7%2005025%20-%20Financial%20management.md)
 - [&sect; 05026 - Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation](%C2%A7%2005026%20-%20Consultation%20with%20Commandant%20of%20the%20Marine%20Corps%20on%20major%20decisions%20directly%20concerning%20Marine%20Corps%20aviation.md)
 - [&sect; 05027 - Chief of Legislative Affairs](%C2%A7%2005027%20-%20Chief%20of%20Legislative%20Affairs.md)
+- [&sect; 05028 - Director of Small Business Programs](%C2%A7%2005028%20-%20Director%20of%20Small%20Business%20Programs.md)

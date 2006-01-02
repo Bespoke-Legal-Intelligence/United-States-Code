@@ -66,7 +66,7 @@
 
 &emsp;(v) includes such other information as the Secretary may require.
 
-(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the yearin which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any of the requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
+(B)(i) The Secretary shall approve or disapprove any plan submitted pursuant to subparagraph (A) no later than August 1 of the year in which it is submitted. The Secretary shall approve any plan which complies with the requirements of subparagraph (A). If a plan is disapproved because it does not comply with any of the requirements of that paragraph the Secretary shall, except as provided in subparagraph (B)(ii), notify the appropriate agency in the Commonwealth that payments will not be made to it under subsection (a) of this section for the fiscal year to which the plan applies until the Secretary is satisfied that there is no longer any such failure to comply, and until the Secretary is so satisfied, the Secretary will make no payments.
 
 (ii) The Secretary may suspend the denial of payments under subparagraph (B)(i) for such period as the Secretary determines appropriate and instead withhold payments provided for under subsection (a) of this section, in whole or in part, for the fiscal year to which the plan applies, until the Secretary is satisfied that there is no longer any failure to comply with the requirements of subparagraph (A), at which time such withheld payments shall be paid.
 
@@ -94,7 +94,7 @@ Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fra
 
 #### Amendments
 
-2002—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
+2002—Pub. L. 107–171, §4124(a)(1), substituted “Consolidated block grants for Puerto Rico and AmericanSamoa” for “Puerto Rico block grant” in section catchline.
 
 Subsec. (a). Pub. L. 107–171, §4124(a)(1), inserted heading, added pars. (1) and (2), redesignated former par. (2) as (3) and inserted heading, and struck out former par. (1) which read as follows:
 
@@ -104,7 +104,7 @@ Subsec. (a). Pub. L. 107–171, §4124(a)(1), inserted heading, added pars. (1) 
 
 &emsp;“(ii) for fiscal year 2001, the amount required to be paid under clause (i) for fiscal year 2000, as adjusted by the change in the Food at Home series of the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor, for the most recent 12-month period ending in June; and
 
-&emsp;“(iii) for fiscal year 2002, the amount required to be paid under clause (ii) for fiscal year 2001, as adjusted by the percentage by which the thrifty food plan isadjusted for fiscal year 2002 under section 2012(<i>o</i>)(4) of this title;
+&emsp;“(iii) for fiscal year 2002, the amount required to be paid under clause (ii) for fiscal year 2001, as adjusted by the percentage by which the thrifty food plan is adjusted for fiscal year 2002 under section 2012(<i>o</i>)(4) of this title;
 
 > to finance 100 percent of the expenditures for food assistance provided to needy persons and 50 percent of the administrative expenses related to the provision of the assistance.
 
@@ -190,7 +190,7 @@ Section 116(a) of Pub. L. 97–35 provided that this section is effective July 1
 
 #### Nutrition Assistance Program in Puerto Rico
 
-Section 1762(a) of Pub. L. 101–624 provided that: “It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Ricoshould be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs.”
+Section 1762(a) of Pub. L. 101–624 provided that: “It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Rico should be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs.”
 
 #### Nutritional Needs of Puerto Ricans; Study and Report to Congress
 

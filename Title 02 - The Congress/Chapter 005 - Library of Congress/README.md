@@ -130,6 +130,7 @@
 | [179m.](%C2%A7%2000179m%20-%20Duties%20of%20Librarian%20of%20Congress.md) | Duties of Librarian of Congress. |
 | (a) | Powers. |
 | (b) | Use of seal. |
+| (c) | Coordination of program with other collection, preservation, and accessibility activities. |
 | [179n.](%C2%A7%2000179n%20-%20National%20Film%20Preservation%20Board.md) | National Film Preservation Board. |
 | (a) | Number and appointment. |
 | (b) | Chair. |
@@ -147,6 +148,7 @@
 | (b) | Additional materials. |
 | (c) | Property of United States. |
 | (d) | National Film Registry Collection. |
+| (e) | National Audio-Visual Conservation Center. |
 | [179q.](%C2%A7%2000179q%20-%20Seal%20of%20National%20Film%20Registry.md) | Seal of National Film Registry. |
 | (a) | Use of seal. |
 | (b) | Effective date of seal. |
@@ -201,6 +203,20 @@
 | [183a.](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md) | Oral history of the House of Representatives. |
 | (a) | In general. |
 | (b) | Definition of oral history. |
+| [184\.](%C2%A7%2000184%20-%20Incorporation%20of%20digital%20collections%20into%20educational%20curricula.md) | Incorporation of digital collections into educational curricula. |
+| (a) | Short title. |
+| (b) | Program. |
+| (c) | Educational consortium. |
+| (d) | Authorization of appropriations. |
+| [185\.](%C2%A7%2000185%20-%20Inspector%20General%20of%20the%20Library%20of%20Congress.md) | Inspector General of the Library of Congress. |
+| (a) | Short title. |
+| (b) | Office of Inspector General. |
+| (c) | Appointment of Inspector General; supervision; removal. |
+| (d) | Duties, responsibilities, authority, and reports. |
+| (e) | Transfers. |
+| (f) | Incumbent. |
+| (g) | References. |
+| (h) | Effective date. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -326,3 +342,5 @@
 - [&sect; 00182d - Audits by Comptroller General](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md)
 - [&sect; 00183 - Written history of the House of Representatives](%C2%A7%2000183%20-%20Written%20history%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00183a - Oral history of the House of Representatives](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md)
+- [&sect; 00184 - Incorporation of digital collections into educational curricula](%C2%A7%2000184%20-%20Incorporation%20of%20digital%20collections%20into%20educational%20curricula.md)
+- [&sect; 00185 - Inspector General of the Library of Congress](%C2%A7%2000185%20-%20Inspector%20General%20of%20the%20Library%20of%20Congress.md)

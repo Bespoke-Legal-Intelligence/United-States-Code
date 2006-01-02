@@ -14,7 +14,7 @@ The Secretary is authorized to make grants to States, units of general local gov
 
 1983—Pub. L. 98–181 substituted provisions authorizing appropriations for purposes of assistance under sections 5306 and 5307 of this title of not to exceed $3,468,000,000 for each of fiscal years 1984, 1985, and 1986 for provision which had authorized appropriations of not to exceed $4,166,000,000 for each of fiscal years 1982 and 1983.
 
-1981—Pub. L. 97–35 completely restructured and revised provisions and substituted provisions relating to authorization of appropriations for fiscal years 1982 and1983 to carry out activities under this chapter, for provisions relating to authorization of appropriations for fiscal years 1981 and 1982 to finance Community Development Programs, additional authorizations, supplemental assistance, and availability of funds.
+1981—Pub. L. 97–35 completely restructured and revised provisions and substituted provisions relating to authorization of appropriations for fiscal years 1982 and 1983 to carry out activities under this chapter, for provisions relating to authorization of appropriations for fiscal years 1981 and 1982 to finance Community Development Programs, additional authorizations, supplemental assistance, and availability of funds.
 
 1980—Subsec. (a)(1). Pub. L. 96–399, §106(a), substituted provisions authorizing appropriations not to exceed $3,810,000,000, $3,960,000,000, and $4,110,000,000 for fiscal years 1981, 1982 and 1983, respectively, for provisions authorizing appropriations not to exceed $3,500,000,000, $3,650,000,000, and $3,800,000,000 for fiscal years 1978, 1979, and 1980, respectively.
 

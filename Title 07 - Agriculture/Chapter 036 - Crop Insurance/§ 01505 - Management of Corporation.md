@@ -112,7 +112,7 @@ Subsec. (c). Pub. L. 103–354, §102(b)(4)(B), (C), struck out “of Agricultur
 
 Subsec. (d). Pub. L. 103–354, §§102(b)(4)(C), 115(a)(2), in first sentence struck out “upon him” before “by the Board”, and in second sentence substituted “The manager shall” for “He shall” and struck out “of Agriculture” after “Secretary”.
 
-1980—Subsec. (a). Pub. L. 96–365, §102(a), increased Board membership to seven from five persons; substituted provisions including on the Board the Under Secretaries or Assistant Secretaries of Agriculture for crop insurance and farm credit programs and one person experienced in crop insurance business for former provisions including on the Board two other Agriculture Department employees and two persons withinsurance business experience; authorized appointment of three active farmers not otherwise Federal employees; and required farmer appointees to be policyholders and representative of agricultural interests of different geographic areas.
+1980—Subsec. (a). Pub. L. 96–365, §102(a), increased Board membership to seven from five persons; substituted provisions including on the Board the Under Secretaries or Assistant Secretaries of Agriculture for crop insurance and farm credit programs and one person experienced in crop insurance business for former provisions including on the Board two other Agriculture Department employees and two persons with insurance business experience; authorized appointment of three active farmers not otherwise Federal employees; and required farmer appointees to be policyholders and representative of agricultural interests of different geographic areas.
 
 Subsec. (b). Pub. L. 96–365, §102(b), substituted “four” for “three” in two places.
 

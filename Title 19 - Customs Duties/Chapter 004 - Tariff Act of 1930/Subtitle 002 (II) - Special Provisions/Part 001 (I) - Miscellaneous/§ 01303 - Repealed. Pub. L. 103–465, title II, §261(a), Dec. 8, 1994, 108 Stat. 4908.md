@@ -30,7 +30,7 @@ Proceedings not affected.—The provisions of subsection (a) shall not affect an
 
 &emsp;“(3)
 
-Suits not affected.—The provisions of subsection (a) shall not affect the review pursuant to section 516A of the Tariff Act of 1930 \[19 U.S.C. 1516a\]of a countervailing duty order issued pursuant to an investigation conducted under section 303 of such Act \[19 U.S.C. 1303\] or a review of a countervailing duty order issued under section 751 of such Act \[19 U.S.C. 1675\], if such review is pending or the time for filing such review has not expired on the effective date of this title.
+Suits not affected.—The provisions of subsection (a) shall not affect the review pursuant to section 516A of the Tariff Act of 1930 \[19 U.S.C. 1516a\] of a countervailing duty order issued pursuant to an investigation conducted under section 303 of such Act \[19 U.S.C. 1303\] or a review of a countervailing duty order issued under section 751 of such Act \[19 U.S.C. 1675\], if such review is pending or the time for filing such review has not expired on the effective date of this title.
 
 “(c)
 

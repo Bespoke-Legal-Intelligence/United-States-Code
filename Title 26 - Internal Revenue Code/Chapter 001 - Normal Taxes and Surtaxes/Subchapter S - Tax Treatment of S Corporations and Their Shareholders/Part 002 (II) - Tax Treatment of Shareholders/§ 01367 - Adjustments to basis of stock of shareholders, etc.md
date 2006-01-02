@@ -86,7 +86,3 @@ Section 722(b)(3)(B) of Pub. L. 98–369 provided that: “The amendment made by
 
 Section applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 108, 1016, 1366, 1368 of this title.
-

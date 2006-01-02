@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for payments; conditions and requirements
 
-A hospital or skilled nursing facility of the Indian Health Service, whether operated by such Service or by an Indian tribe or tribal organization (as those terms are defined in section 1603 of title 25), shall be eligible for payments under this subchapter, notwithstanding sections 1395f(c) and 1395n(d) of this title, if and for so long as it meets all of the conditions and requirements for such payments which are applicable generally to hospitals or skilled nursing facilities (as the case may be) under this subchapter.
+A hospital or skilled nursing facility of the Indian Health Service, whether operated by suchService or by an Indian tribe or tribal organization (as those terms are defined in section 1603 of title 25), shall be eligible for payments under this subchapter, notwithstanding sections 1395f(c) and 1395n(d) of this title, if and for so long as it meets all of the conditions and requirements for such payments which are applicable generally to hospitals or skilled nursing facilities (as the case may be) under this subchapter.
 
 #### (b) Eligibility based on submission of plan to achieve compliance with conditions and requirements; twelve-month period
 
@@ -18,7 +18,7 @@ The annual report of the Secretary which is required by section 1671 of title 25
 
 #### (e) Services provided by Indian Health Service, Indian tribe, or tribal organization
 
-(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretaryshall make payment under part B of this subchapter to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a) of this section) for services described in paragraph (2) (and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
+(1)(A) Notwithstanding section 1395n(d) of this title, subject to subparagraph (B), the Secretary shall make payment under part B of this subchapter to a hospital or an ambulatory care clinic (whether provider-based or freestanding) that is operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined for purposes of subsection (a) of this section) for services described in paragraph (2) (and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter) furnished in or at the direction of the hospital or clinic under the same situations, terms, and conditions as would apply if the services were furnished in or at the direction of such a hospital or clinic that was not operated by such Service, tribe, or organization.
 
 (B) Payment shall not be made for services under subparagraph (A) to the extent that payment is otherwise made for such services under this subchapter.
 

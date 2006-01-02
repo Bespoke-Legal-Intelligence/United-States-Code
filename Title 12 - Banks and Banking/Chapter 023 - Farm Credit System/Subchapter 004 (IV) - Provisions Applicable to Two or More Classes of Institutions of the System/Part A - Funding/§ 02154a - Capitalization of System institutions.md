@@ -92,7 +92,7 @@ The Farm Credit Administration may issue a directive that requires compliance wi
 
 &emsp;&emsp;(A) in the case of a loan made on or after February 10, 1996, that is designated, at the time the loan is made, for sale into a secondary market, that no voting stock or participation certificate purchase requirement shall apply to the borrower for the loan; and
 
-&emsp;&emsp;(B) in the case of a loan made before February 10, 1996, that is sold into a secondary market, that all outstanding voting stock orparticipation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1) of this section, be retired.
+&emsp;&emsp;(B) in the case of a loan made before February 10, 1996, that is sold into a secondary market, that all outstanding voting stock or participation certificates held by the borrower with respect to the loan shall, subject to subsection (d)(1) of this section, be retired.
 
 #### (2) Applicability
 

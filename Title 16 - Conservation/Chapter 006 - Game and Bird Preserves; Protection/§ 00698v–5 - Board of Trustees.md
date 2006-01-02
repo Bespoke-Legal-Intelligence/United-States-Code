@@ -12,7 +12,7 @@ The Trust shall be governed by a 9-member Board of Trustees consisting of the fo
 
 &emsp;&emsp;(B) the Superintendent of the Bandelier National Monument, National Park Service; and
 
-&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall have specific expertise or represent an organization or government entity as follows—
+&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall havespecific expertise or represent an organization or government entity as follows—
 
 &emsp;&emsp;&emsp;(i) one trustee shall have expertise in aspects of domesticated livestock management, production, and marketing, including range management and livestock business management;
 
@@ -66,11 +66,21 @@ A majority of trustees shall constitute a quorum of the Board for the conduct of
 
 #### (2) Compensation of trustees
 
-&emsp;Trustees shall serve without pay, but may be reimbursed from the funds of the Trust for the actual and necessary travel and subsistence expenses incurred by them in the performance of their duties.
+&emsp;Except as provided in paragraph (3), trustees shall serve without pay, but may be reimbursed from the funds of the Trust for the actual and necessary travel and subsistence expenses incurred by them in the performance of their duties.
 
 #### (3) Chair
 
-&emsp;Trustees shall select a chair from the membership of the Board.
+#### (A) Selection
+
+&emsp;&emsp;Trustees shall select a chair from the membership of the Board.
+
+#### (B) Compensation
+
+&emsp;&emsp;On request of the chair, the chair may be compensated at a rate determined by the Board of Trustees, but not to exceed the daily equivalent of the annual rate of pay for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) in which the chair is engaged in the performance of duties of the Board of Trustees.
+
+#### (C) Maximum rate of pay
+
+&emsp;&emsp;The total amount of compensation paid to the chair for a fiscal year under subparagraph (B) shall not exceed 25 percent of the annual rate of pay for level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (f) Liability of trustees
 
@@ -86,13 +96,19 @@ Appointed trustees shall not be considered Federal employees by virtue of their 
 
 &emsp;In addition to other requirements of applicable law, the Board shall establish procedures for providing appropriate public information and periodic opportunities for public comment regarding the management of the Preserve.
 
-(Pub. L. 106–248, title I, §107, July 25, 2000, 114 Stat. 606.)
+(Pub. L. 106–248, title I, §107, July 25, 2000, 114 Stat. 606; Pub. L. 109–132, §3, Dec. 20, 2005, 119 Stat. 2571.)
 
 #### References in Text
 
 The Federal Tort Claims Act, referred to in subsec. (f), is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 The Ethics in Government Act, referred to in subsec. (f), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+
+#### Amendments
+
+2005—Subsec. (e)(2). Pub. L. 109–132, §3(1), substituted “Except as provided in paragraph (3), trustees” for “Trustees”.
+
+Subsec. (e)(3). Pub. L. 109–132, §3(2), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
 
 #### Compensation for Trustees
 

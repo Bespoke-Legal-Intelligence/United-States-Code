@@ -12,13 +12,13 @@ Section 1575, Pub. L. 97–300, title I, §165, Oct. 13, 1982, 96 Stat. 1350; Pu
 
 Section 1576, Pub. L. 97–300, title I, §166, Oct. 13, 1982, 96 Stat. 1351; Pub. L. 102–367, title I, §134(b), Sept. 7, 1992, 106 Stat. 1046, related to administrative adjudication. See section 2936 of this title.
 
-Section 1577, Pub. L. 97–300, title I, §167, Oct. 13, 1982, 96 Stat. 1352; Pub. L. 102–367, title I, §§103(b)(2), 144, Sept. 7, 1992, 106 Stat. 1026, 1051, related to requirements for nondiscrimination. See section 2938 of this title.
+Section 1577, Pub. L. 97–300, title I, §167, Oct. 13, 1982, 96 Stat. 1352; Pub. L. 102–367, title I, §§103(b)(2), 144,Sept. 7, 1992, 106 Stat. 1026, 1051, related to requirements for nondiscrimination. See section 2938 of this title.
 
 Section 1578, Pub. L. 97–300, title I, §168, Oct. 13, 1982, 96 Stat. 1353, related to judicial review. See section 2937 of this title.
 
 Section 1579, Pub. L. 97–300, title I, §169, Oct. 13, 1982, 96 Stat. 1353, contained administrative provisions. See section 2939 of this title.
 
-Section 1580, Pub. L. 97–300, title I, §170, Oct. 13, 1982, 96 Stat. 1354; Pub. L. 102–367, title I, §145, Sept. 7, 1992,106 Stat. 1052, related to utilization of services and facilities. See section 2939(e) of this title.
+Section 1580, Pub. L. 97–300, title I, §170, Oct. 13, 1982, 96 Stat. 1354; Pub. L. 102–367, title I, §145, Sept. 7, 1992, 106 Stat. 1052, related to utilization of services and facilities. See section 2939(e) of this title.
 
 Section 1581, Pub. L. 97–300, title I, §171, Oct. 13, 1982, 96 Stat. 1354, related to obligational authority. See section 2939(f) of this title.
 

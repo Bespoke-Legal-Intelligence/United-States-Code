@@ -58,7 +58,3 @@ Amendment by Pub. L. 106–476 effective 90 days after Nov. 9, 2000, see section
 
 Section applicable to articles removed, as defined in section 5702(j) of this title, after Dec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 5701 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5761 of this title; title 19 section 1681a.
-

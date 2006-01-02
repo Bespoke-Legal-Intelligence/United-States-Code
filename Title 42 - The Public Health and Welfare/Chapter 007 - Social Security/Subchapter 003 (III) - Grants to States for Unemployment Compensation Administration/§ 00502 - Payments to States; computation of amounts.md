@@ -6,7 +6,7 @@ The Secretary of Labor shall from time to time certify to the Secretary of the T
 
 #### (b) Payment of amounts
 
-Out of the sums appropriated therefor, the Secretary of the Treasury shall, upon receivinga certification under subsection (a) of this section, pay, through the Fiscal Service of the Department of the Treasury and prior to audit or settlement by the Government Accountability Office, to the State agency charged with the administration of such law the amount so certified.
+Out of the sums appropriated therefor, the Secretary of the Treasury shall, upon receiving a certification under subsection (a) of this section, pay, through the Fiscal Service of the Department of the Treasury and prior to audit or settlement by the Government Accountability Office, to the State agency charged with the administration of such law the amount so certified.
 
 #### (c) Mailing costs
 
@@ -82,5 +82,5 @@ Specific Requirements.—The report required by subsection (a) shall include an 
 
 “(c)
 
-Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[this section\], until after theexpiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
+Congressional Review Period.—The Secretary of Labor may not revise the method in effect on the date of the enactment of this Act \[Nov. 15, 1991\] for allocating grants among the States under section 302 of the Social Security Act \[this section\], until after the expiration of the 12-month period beginning on the date on which the report required by subsection (a) is submitted to the Congress.”
 

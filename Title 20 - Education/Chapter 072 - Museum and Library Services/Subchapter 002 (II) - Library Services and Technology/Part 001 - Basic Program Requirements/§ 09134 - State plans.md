@@ -118,11 +118,11 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that such library is in compliance with such requirements.
 
-&emsp;&emsp;&nbsp;Any library covered by paragraph (1) that is unable to certify compliance with such requirements in such second program year shall be ineligible for all funding under this subchapter for such second program year and all subsequent program years until such time as such library comes into compliance with such requirements.
+&emsp;&emsp;&nbsp;Any library covered by paragraph (1) that is unable to certify compliance with suchrequirements in such second program year shall be ineligible for all funding under this subchapter for such second program year and all subsequent program years until such time as such library comes into compliance with such requirements.
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certificationotherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
 
 #### (5) Noncompliance
 

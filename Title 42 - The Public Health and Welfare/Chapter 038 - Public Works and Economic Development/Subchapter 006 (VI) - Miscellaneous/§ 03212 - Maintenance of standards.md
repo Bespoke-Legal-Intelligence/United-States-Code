@@ -20,7 +20,7 @@ A prior section 602 of Pub. L. 89–136 was classified to section 3202 of this t
 
 #### Amendments
 
-2004—Pub. L. 108–373 substituted “in accordance with subchapter IV of chapter 31 of title 40” for “in accordance with the Davis-Bacon Act, as amended (40 U.S.C.276a–276a–5)” in first sentence and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” in third sentence.
+2004—Pub. L. 108–373 substituted “in accordance with subchapter IV of chapter 31 of title 40” for “in accordance with the Davis-Bacon Act, as amended (40 U.S.C. 276a–276a–5)” in first sentence and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” in third sentence.
 
 1998—Pub. L. 105–393, §102(b)(2)(A), substituted section catchline for former section catchline.
 

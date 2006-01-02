@@ -24,7 +24,7 @@ For the purposes of this section—
 
 Congressional inaction on or rejection of a resolution of disapproval shall not be deemed an expression of approval of such regulation.
 
-(Pub. L. 89–665, title III, §307, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3004; amended Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(O), (2)(E), Nov. 12, 1996, 110 Stat. 4196;Pub. L. 106–176, title I, §120(a)(2), Mar. 10, 2000, 114 Stat. 28; Pub. L. 106–208, §5(a)(11)–(13), May 26, 2000, 114 Stat. 319.)
+(Pub. L. 89–665, title III, §307, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3004; amended Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(O), (2)(E), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–176, title I, §120(a)(2), Mar. 10, 2000, 114 Stat. 28; Pub. L. 106–208, §5(a)(11)–(13), May 26, 2000, 114 Stat. 319.)
 
 #### Amendments
 

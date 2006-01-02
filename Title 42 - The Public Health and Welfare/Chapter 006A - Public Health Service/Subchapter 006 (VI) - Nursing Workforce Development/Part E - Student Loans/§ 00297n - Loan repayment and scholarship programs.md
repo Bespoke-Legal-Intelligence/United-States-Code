@@ -80,7 +80,7 @@ The Secretary may make payments under subsection (a) of this section on behalf o
 
 #### (2) Waiver or suspension of liability
 
-&emsp;In the case of an individual or health facility making an agreement for purposes of paragraph (1), the Secretary shall provide for thewaiver or suspension of liability under such subsection if compliance by the individual or the health facility, as the case may be, with the agreements involved is impossible, or would involve extreme hardship to the individual or facility, and if enforcement of the agreements with respect to the individual or facility would be unconscionable.
+&emsp;In the case of an individual or health facility making an agreement for purposes of paragraph (1), the Secretary shall provide for the waiver or suspension of liability under such subsection if compliance by the individual or the health facility, as the case may be, with the agreements involved is impossible, or would involve extreme hardship to the individual or facility, and if enforcement of the agreements with respect to the individual or facility would be unconscionable.
 
 #### (3) Date certain for recovery
 
@@ -170,7 +170,7 @@ Subsec. (h). Pub. L. 107–205, §103(b)(2), (d), redesignated subsec. (f) as (h
 
 > Former subsec. (h) redesignated (g).
 
-Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Priorto amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
+Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
 
 1998—Subsec. (h). Pub. L. 105–392 added subsec. (h).
 

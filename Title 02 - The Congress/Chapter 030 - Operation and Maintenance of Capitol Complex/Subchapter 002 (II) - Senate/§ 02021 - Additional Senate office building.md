@@ -42,7 +42,7 @@ Senate Office Buildings’.
 
 “(b)
 
-United States Capitol Grounds and Buildings.—Immediately upon the acquisition by the Architect of the Capitol, on behalf of the United States, of the real property, and the improvements thereon, as provided under subsection (a), the real property acquired shall be a part of the United States Capitol Grounds, and the improvements on such real property shall be a part of the Senate Office Buildings. Such real property and improvements shall be subject to the Act of July 31, 1946 (40 U.S.C. 193a et seq.) \[2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109\], and the Act of June 8, 1942 (40 U.S.C. 174c) \[2 U.S.C. 2023, 2024\].
+United States Capitol Grounds and Buildings.—Immediately upon the acquisition by the Architect of the Capitol, on behalf of the United States, of the real property, and the improvements thereon, as provided under subsection (a), the real property acquired shall be a part of the United States Capitol Grounds, and the improvements on such real property shall be a part of the Senate Office Buildings. Such real property and improvements shall be subject to the Act of July 31, 1946 (40 U.S.C. 193a et seq.) \[2 U.S.C. 1922,1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109\], and the Act of June 8, 1942 (40 U.S.C. 174c) \[2 U.S.C. 2023, 2024\].
 
 “(c)
 
@@ -98,5 +98,5 @@ Pub. L. 92–607, ch. V, Oct. 31, 1972, 86 Stat. 1510, as amended by Pub. L. 93�
 
 #### Acquisition of Property To Extend Additional Senate Office Building Site
 
-Pub. L. 85–429, May 29, 1958, 72 Stat. 148; Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 352; Pub. L. 91–382, Aug. 18, 1970, 84 Stat.819; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 637, in part authorized the Architect of the Capitol to acquire certain real property for purposes of extension of Additional Senate Office Building Site and provided that such property become a part of the United States Capitol Grounds or that it be subject to the act of July 31, 1946 (2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109).
+Pub. L. 85–429, May 29, 1958, 72 Stat. 148; Pub. L. 85–591, Aug. 6, 1958, 72 Stat. 495; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 352; Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 819; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 637, in part authorized the Architect of the Capitol to acquire certain real property for purposes of extension of Additional Senate Office Building Site and provided that such property become a part of the United States Capitol Grounds or that it be subject to the act of July 31, 1946 (2 U.S.C. 1922, 1961, 1966, 1967, 1969; 40 U.S.C. 5101 to 5107, 5109).
 

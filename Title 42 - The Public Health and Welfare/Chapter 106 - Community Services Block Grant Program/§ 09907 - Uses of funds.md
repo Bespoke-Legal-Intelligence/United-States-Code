@@ -44,7 +44,7 @@
 
 #### (2) Administrative cap
 
-&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant receivedunder section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a) of this section. The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) of this section shall be considered to be administrative expenses.
+&emsp;No State may spend more than the greater of $55,000, or 5 percent, of the grant received under section 9905 of this title or State allotment received under section 9906 of this title for administrative expenses, including monitoring activities. Funds to be spent for such expenses shall be taken from the portion of the grant under section 9905 of this title or State allotment that remains after the State makes grants to eligible entities under subsection (a) of this section. The cost of activities conducted under paragraph (1)(A) shall not be considered to be administrative expenses. The startup cost and cost of administrative activities conducted under subsection (c) of this section shall be considered to be administrative expenses.
 
 #### (c) Charity tax credit
 
@@ -86,7 +86,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A contribution to a collection organization shall be treated as a contribution to a qualified charity if the donor designates in writing that the contribution is for the qualified charity.
+&emsp;&emsp;&emsp;&emsp;A contribution to a collection organization shall be treated as a contributionto a qualified charity if the donor designates in writing that the contribution is for the qualified charity.
 
 #### (II) Collection organization
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) no generally available exemptions or deductions to individuals;
 
-&emsp;&emsp;&nbsp;the requirement of paragraph (2) shall be treated as met if the amount of the credit described in paragraph (2) is limited to a uniform percentage (but not greater than 25 percent) of State personal income tax liability (determined without regard to credits).
+&emsp;&emsp;&nbsp;the requirement of paragraph (2) shall be treated as met if the amount of the credit described in paragraph (2) is limited to auniform percentage (but not greater than 25 percent) of State personal income tax liability (determined without regard to credits).
 
 #### (4) Limitation on use of funds for startup and administrative activities
 

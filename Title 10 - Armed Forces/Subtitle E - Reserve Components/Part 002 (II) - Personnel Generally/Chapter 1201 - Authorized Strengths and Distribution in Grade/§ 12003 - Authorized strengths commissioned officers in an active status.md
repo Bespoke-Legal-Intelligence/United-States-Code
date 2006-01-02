@@ -32,7 +32,3 @@
 
 Provisions similar to those in this section were contained in sections 3217, 5414, and 8217 of this title, prior to repeal by Pub. L. 103–337, §1662(a)(3).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 123, 12005, 12006 of this title.
-

@@ -136,7 +136,7 @@ For purposes of this section, the term “Federal agency” means a department, 
 
 #### (h) Treatment of payments to States
 
-The Secretary may provide that, for purposes of determining interest, the payment of anyamount withheld under subsection (c) or (e) to a State shall be treated as a payment to the person or persons making the overpayment.
+The Secretary may provide that, for purposes of determining interest, the payment of any amount withheld under subsection (c) or (e) to a State shall be treated as a payment to the person or persons making the overpayment.
 
 #### (i) Cross reference
 
@@ -294,11 +294,7 @@ Pub. L. 100–203, title IX, §9402(b), Dec. 22, 1987, 101 Stat. 1330–376, pro
 
 #### Study by General Accounting Office of Operation and Effectiveness of Amendments by Section 2653 of Pub. L. 98–369
 
-Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, provided that: “The Comptroller General of the United States, in consultation with the Secretary of the Treasury or his delegate, shall conduct a study of the operation and effectiveness of the amendments made by section 2653 of the Deficit Reduction Act of 1984 \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\]. The study shall compile and evaluate information on the effect of those amendments on voluntary compliance with the income tax laws. Not later than April 1, 1989, the Comptroller General shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report of the study conducted under this subsection, together with such recommendations as he may deem advisable.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6103, 6331, 6403, 6512, 6513, 6861, 9502 of this title; title 42 section 664.
+Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, required the Comptroller General of the United States, in consultation with the Secretary of the Treasury, to conduct a study of the operation and effectiveness of amendments by section 2653 of Pub. L. 98–369 on voluntary compliance with the income tax laws and, by Apr. 1, 1989, submit a report and recommendations to Congress.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

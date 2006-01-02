@@ -2,7 +2,7 @@
 
 #### (a) Producer approval of order
 
-The Secretary shall conduct a referendum among egg producers not exempt hereunder who,during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, for the purpose of ascertaining whether the issuance of an order is approved or favored by such producers. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such order is approved or favored by not less than two-thirds of the producers voting in such referendum, or by a majority of the producers voting in such referendum if such majority produced not less than two-thirds of the commercial eggs produced during a representative period defined by the Secretary.
+The Secretary shall conduct a referendum among egg producers not exempt hereunder who, during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, for the purpose of ascertaining whether the issuance of an order is approved or favored by such producers. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such order is approved or favored by not less than two-thirds of the producers voting in such referendum, or by a majority of the producers voting in such referendum if such majority produced not less than two-thirds of the commercial eggs produced during a representative period defined by the Secretary.
 
 #### (b) Request by Egg Board for referendum
 
@@ -24,7 +24,7 @@ The Secretary shall conduct a referendum among egg producers not exempt hereunde
 
 &emsp;(ii) if the Director of the Office of Management and Budget determines that the change in the assessment rate is a significant action that requires review by the Director, 170 days after receipt of the request from the Egg Board.
 
-(4) Notwithstanding any other provision of this chapter, if an increase in the assessment rate and the authority for additional increases is approved by producers in a referendum conducted under this subsection, the Secretary shall amend the order to reflect the vote of the producers. The amendment to the order shall become effective on the date of issuance of the amendment.
+(4) Notwithstanding any other provision of this chapter, if an increase in the assessment rate and the authority for additional increases is approved by producers in a referendum conducted under this subsection, the Secretary shall amend the order to reflect the vote of theproducers. The amendment to the order shall become effective on the date of issuance of the amendment.
 
 #### (c) Nonapproval of amendments as not invalidating order
 

@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) In general
 
-&emsp;The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in section 7801 of this title and the terms “freely associated states”and “outlying area” have the meanings given those terms in section 6331(c) of this title.
+&emsp;The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in section 7801 of this title and the terms “freely associated states” and “outlying area” have the meanings given those terms in section 6331(c) of this title.
 
 #### (2) Applied research
 

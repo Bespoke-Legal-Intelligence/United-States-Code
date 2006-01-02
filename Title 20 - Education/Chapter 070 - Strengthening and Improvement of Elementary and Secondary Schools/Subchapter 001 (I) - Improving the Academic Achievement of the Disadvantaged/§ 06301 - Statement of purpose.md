@@ -66,7 +66,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1601\], Dec. 21, 2000, 114 S
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1701\], Dec. 21, 2000, 114 Stat. 2763, 2763A–335, provided that: “This title \[enacting part F of subchapter III of this chapter, amending section 9134 of this title and section 254 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as notes under sections 7001 and 9134 of this title and sections 254, 609, and 902 of Title 47\] may be cited as the ‘Children's Internet Protection Act’.”
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1801\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368, provided that: “This title \[amending sections 1228, 7701 to 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notes under sections 7701, 7703, and 7711 of this title\] may be cited as the ‘Impact Aid Reauthorization Act of 2000’.”
+Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1801\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368, provided that: “This title \[amending sections 1228, 7701 to 7703, 7705, 7707, 7709 to 7713, and 7714 of this title, repealing section 7706 of this title, and enacting provisions set out as notesunder sections 7701, 7703, and 7711 of this title\] may be cited as the ‘Impact Aid Reauthorization Act of 2000’.”
 
 #### Short Title of 1998 Amendments
 
@@ -154,7 +154,7 @@ Pub. L. 107–110, title V, §502, Jan. 8, 2002, 115 Stat. 1873, provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of this Act \[see Tables for classification\] or the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), in the case of any agency or consortium that was awarded a grant under section 5111 of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 7211) or any person or agency that was awarded a contract or grant under part B, D, or E of title X of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 8031 et seq., 8091 et seq., 8131 et seq.), prior to the date of enactment of this Act \[Jan. 8, 2002\], the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates under such terms.
+In General.—Notwithstanding any other provision of this Act \[see Tables for classification\] or the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), in the case of any agency or consortium that was awarded a grant under section 5111 of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 7211) or any person or agency that was awarded a contract or grant under part B, D, or E of title X of the Elementary and Secondary Education Act of 1965 (\[formerly\] 20 U.S.C. 8031 et seq., 8091 et seq., 8131et seq.), prior to the date of enactment of this Act \[Jan. 8, 2002\], the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates under such terms.
 
 “(b)
 
@@ -204,7 +204,7 @@ Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of 
 
 &emsp;(4) helping States and school districts build partnerships with technical assistance providers, including, but not limited to, federally funded laboratories and centers, foundations, businesses, community-based organizations, institutions of higher education, reform model providers, and other organizations that can help local schools improve;
 
-&emsp;(5) identifying previously low-performing schools that have made significant achievement gains, and States and school districts that have been effective in improving the achievement of all students in low-performing schools, which can serve as models and resources;
+&emsp;(5) identifying previously low-performing schools that have made significant achievement gains, and States and school districts that have been effective inimproving the achievement of all students in low-performing schools, which can serve as models and resources;
 
 &emsp;(6) providing assistance and information on how to effectively involve parents in the school-improvement process, including effectively involving and informing parents at the beginning of the school year about improvement goals for their school as well as the goals for their own children, and reporting on progress made in achieving these goals;
 

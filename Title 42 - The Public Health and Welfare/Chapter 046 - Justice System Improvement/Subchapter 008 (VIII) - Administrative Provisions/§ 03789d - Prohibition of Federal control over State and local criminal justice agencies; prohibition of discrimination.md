@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 &emsp;(i) compliance has not been secured by the chief executive of that State or the chief executive of that unit of local government; and
 
-&emsp;(ii) an administrative law judge has not made a determination under subparagraph (F) that it is likely the State government or unit of local government will prevail on the merits; the Office of Justice Programs shall notify the Attorney General that compliance has not been secured and caused to have suspended further payment of any funds under this chapter to that program or activity. Such suspension shall be limited to the specific program or activity cited by the Office of Justice Programs in the notice under subparagraph (A). Such suspension shall be effective for a period of not more than one hundred and twenty days, or, if there is a hearing under subparagraph (G), not more than thirty days after the conclusion of such hearing, unless there has been an express finding by the Office of Justice Programs, after notice and opportunity for such a hearing, that the recipient is not in compliance with paragraph (1).
+&emsp;(ii) an administrative law judge has not made a determination under subparagraph (F) that it is likely the State government or unit of local government will prevail on the merits; the Office of Justice Programs shall notify the Attorney General that compliance has not been secured and caused to have suspended further payment of any funds under this chapter to that program or activity. Such suspension shall be limited to the specific program or activity cited by the Office of Justice Programs in the notice under subparagraph (A). Such suspension shall be effective for a period of not more than one hundred and twenty days, or, if there is a hearing under subparagraph (G), not more than thirty days after the conclusion of such hearing, unless there hasbeen an express finding by the Office of Justice Programs, after notice and opportunity for such a hearing, that the recipient is not in compliance with paragraph (1).
 
 (D) Payment of the suspended funds shall resume only if—
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 &emsp;(iii) after a hearing the Office of Justice Programs pursuant to subparagraph (F) finds that noncompliance has not been demonstrated.
 
-(E) Whenever the Attorney General files a civil action alleging a pattern or practice of discriminatory conduct on the basis of race, color, religion, national origin, or sex in any program or activity of a State government or unit of local government which State government or unit of local government receives funds made available under this chapter, and the conduct allegedly violates the provisions of this section and neither party within forty-five days after such filing has been granted such preliminary relief with regard to the suspension or payment of funds as may be otherwise available by law,the Office of Justice Programs shall cause to have suspended further payment of any funds under this chapter to that specific program or activity alleged by the Attorney General to be in violation of the provisions of this subsection until such time as the court orders resumption of payment.
+(E) Whenever the Attorney General files a civil action alleging a pattern or practice of discriminatory conduct on the basis of race, color, religion, national origin, or sex in any program or activity of a State government or unit of local government which State government or unit of local government receives funds made available under this chapter, and the conduct allegedly violates the provisions of this section and neither party within forty-five days after such filing has been granted such preliminary relief with regard to the suspension or payment of funds as may be otherwise available by law, the Office of Justice Programs shall cause to have suspended further payment of any funds under this chapter to that specific program or activity alleged by the Attorney General to be in violation of the provisions of this subsection until such time as the court orders resumption of payment.
 
 (F) Prior to the suspension of funds under subparagraph (C), but within the ninety-day period after notification under subparagraph (C), the State government or unit of local government may request an expedited preliminary hearing on the record in accordance with section 554 of title 5, in order to determine whether it is likely that the State government or unit of local government would, at a full hearing under subparagraph (G), prevail on the merits on the issue of the alleged noncompliance. A finding under this subparagraph by the administrative law judge in favor of the State government or unit of local government shall defer the suspension of funds under subparagraph (C) pending a finding of noncompliance at the conclusion of the hearing on the merits under subparagraph (G).
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 (iii) If the Office of Justice Programs makes a finding of compliance, payment of the suspended funds shall resume as provided in subparagraph (D).
 
-(H) Any State government or unit of local government aggrieved by a final determination of the Office of Justice Programs under subparagraph (G) may appeal such determination as provided in section 3785 of this title.
+(H) Any State government or unit of local government aggrieved by a final determination of the Office of Justice Programs under subparagraph (G) may appeal such determination as provided in section 3785 <sup>1</sup> of this title.
 
 (3) Whenever the Attorney General has reason to believe that a State government or unit of local government has engaged in or is engaging in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in an appropriate United States district court. Such court may grant as relief any temporary restraining order, preliminary or permanent injunction, or other order, as necessary or appropriate to insure the full enjoyment of the rights described in this section, including the suspension, termination, or repayment of such funds made available under this chapter as the court may deem appropriate, or placing any further such funds in escrow pending the outcome of the litigation.
 
@@ -61,6 +61,10 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 (C) In any action instituted under this section to enforce compliance with paragraph (1), the Attorney General, or a specially designated assistant for or in the name of the United States, may intervene upon timely application if he certifies that the action is of general public importance. In such action the United States shall be entitled to the same relief as if it had instituted the action.
 
 (Pub. L. 90–351, title I, §809, formerly §815, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1206; renumbered §809 and amended Pub. L. 98–473, title II, §609B(f), (h)), Oct. 12, 1984, 98 Stat. 2093, 2095; Pub. L. 103–322, title XXXIII, §330001(h)(11), Sept. 13, 1994, 108 Stat. 2139.)
+
+#### References in Text
+
+Section 3785 of this title, referred to in subsec. (c)(2)(H), was repealed by Pub. L. 109–162, title XI, §1155(3), Jan. 5, 2006, 119 Stat. 3114.
 
 #### Prior Provisions
 
@@ -79,4 +83,6 @@ Subsec. (c). Pub. L. 98–473, §609B(h)(3), substituted “Office of Justice Pr
 #### Effective Date of 1984 Amendment
 
 Amendment by section 609B(h) of Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

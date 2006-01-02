@@ -32,6 +32,10 @@ Availability and Continued Improvement of Imagery Intelligence Support to All-So
 
 2003—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date
 
 Subchapter effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 193 of this title.
@@ -60,7 +64,7 @@ Proceedings Not Affected.—This title and the amendments made by this title sha
 
 #### Redesignation of National Imagery and Mapping Agency as National Geospatial-Intelligence Agency
 
-Pub. L. 108–136, div. A, title IX, §921(a),(g), Nov. 24, 2003, 117 Stat. 1568, 1570, provided that:
+Pub. L. 108–136, div. A, title IX, §921(a), (g), Nov. 24, 2003, 117 Stat. 1568, 1570, provided that:
 
 “(a)
 
@@ -68,7 +72,7 @@ Redesignation.—The National Imagery and Mapping Agency of the Department of De
 
 “(g)
 
-References.—Any reference to the National Imagery and Mapping Agency in any law, regulation, map,document, record, or other paper of the United States shall be considered to be a reference to the National Geospatial-Intelligence Agency.”
+References.—Any reference to the National Imagery and Mapping Agency in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the National Geospatial-Intelligence Agency.”
 
 #### Congressional Findings
 

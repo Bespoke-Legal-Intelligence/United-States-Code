@@ -26,9 +26,13 @@ For purposes of this part, the term “exempt facility bond” means any bond is
 
 &emsp;(11) high-speed intercity rail facilities,
 
-&emsp;(12) environmental enhancements of hydroelectric generating facilities, or
+&emsp;(12) environmental enhancements of hydroelectric generating facilities,
 
-&emsp;(13) qualified public educational facilities.
+&emsp;(13) qualified public educational facilities,
+
+&emsp;(14) qualified green building and sustainable design projects, or
+
+&emsp;(15) qualified highway or surface freight transfer facilities.
 
 #### (b) Special exempt facility bond rules
 
@@ -106,7 +110,7 @@ For purposes of this section—
 
 #### (A) Qualified project period
 
-&emsp;&emsp;The term “qualified project period” means the period beginning on the 1st day on which 10 percent of the residential units in the project are occupied and ending on the latest of—
+&emsp;&emsp;The term “qualified project period” means the period beginning on the 1st day on which10 percent of the residential units in the project are occupied and ending on the latest of—
 
 &emsp;&emsp;&emsp;(i) the date which is 15 years after the date on which 50 percent of the residential units in the project are occupied,
 
@@ -180,7 +184,7 @@ For purposes of this section—
 
 #### (7) Certification to Secretary
 
-&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as to whether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exempt status of any bond but shall subject the operator to penalty, as provided in section 6652(j).
+&emsp;The operator of any project with respect to which an election was made under this subsection shall submit to the Secretary (at such time and in such manner as the Secretary shall prescribe) an annual certification as towhether such project continues to meet the requirements of this subsection. Any failure to comply with the provisions of the preceding sentence shall not affect the tax-exempt status of any bond but shall subject the operator to penalty, as provided in section 6652(j).
 
 #### (e) Facilities for the furnishing of water
 
@@ -262,13 +266,13 @@ For purposes of subsection (a)(8)—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(9), the term “local district heating or cooling facility” means property used as an integral part of a local district heating or cooling system.
+&emsp;For purposes of subsection (a)(9), the term “local district heating or cooling facility”means property used as an integral part of a local district heating or cooling system.
 
 #### (2) Local district heating or cooling system
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system”means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
+&emsp;&emsp;For purposes of paragraph (1), the term “local district heating or cooling system” means any local system consisting of a pipeline or network (which may be connected to a heating or cooling source) providing hot water, chilled water, or steam to 2 or more users for—
 
 &emsp;&emsp;&emsp;(i) residential, commercial, or industrial heating or cooling, or
 
@@ -358,7 +362,7 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 &emsp;&emsp;(B) any functionally related and subordinate facility and land with respect to such building, including any stadium or other facility primarily used for school events, and
 
-&emsp;&emsp;(C) any property, to which section 168 applies (or would apply but for section 179), for use in a facility described in subparagraph (A) or (B).
+&emsp;&emsp;(C) any property, to which section 168 applies (or would apply but for section 179), foruse in a facility described in subparagraph (A) or (B).
 
 #### (4) Public schools
 
@@ -384,7 +388,197 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 &emsp;&emsp;&emsp;A State may elect to carry forward an unused limitation for any calendar year for 3 calendar years following the calendar year in which the unused limitation arose under rules similar to the rules of section 146(f), except that the only purpose for which the carryforward may be elected is the issuance of exempt facility bonds described in subsection (a)(13).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65.)
+#### (<i>l</i>) Qualified green building and sustainable design projects
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a)(14), the term “qualified green building and sustainable design project” means any project which is designated by the Secretary, after consultation with the Administrator of the Environmental Protection Agency, as a qualified green building and sustainable design project and which meets the requirements of clauses (i), (ii), (iii), and (iv) of paragraph (4)(A).
+
+#### (2) Designations
+
+#### (A) In general
+
+&emsp;&emsp;Within 60 days after the end of the application period described in paragraph (3)(A), the Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall designate qualified green building and sustainable design projects. At least one of the projects designated shall be located in, or within a 10-mile radius of, an empowerment zone as designated pursuant to section 1391, and at least one of the projects designated shall be located in a rural State. No more than one project shall be designated in a State. A project shall not be designated if such project includes a stadium or arena for professional sports exhibitions or games.
+
+#### (B) Minimum conservation and technology innovation objectives
+
+&emsp;&emsp;The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall ensure that, in the aggregate, the projects designated shall—
+
+&emsp;&emsp;&emsp;(i) reduce electric consumption by more than 150 megawatts annually as compared to conventional generation,
+
+&emsp;&emsp;&emsp;(ii) reduce daily sulfur dioxide emissions by at least 10 tons compared to coal generation power,
+
+&emsp;&emsp;&emsp;(iii) expand by 75 percent the domestic solar photovoltaic market in the United States (measured in megawatts) as compared to the expansion of that market from 2001 to 2002, and
+
+&emsp;&emsp;&emsp;(iv) use at least 25 megawatts of fuel cell energy generation.
+
+#### (3) Limited designations
+
+&emsp;A project may not be designated under this subsection unless—
+
+&emsp;&emsp;(A) the project is nominated by a State or local government within 180 days of the enactment of this subsection, and
+
+&emsp;&emsp;(B) such State or local government provides written assurances that the project will satisfy the eligibility criteria described in paragraph (4).
+
+#### (4) Application
+
+#### (A) In general
+
+&emsp;&emsp;A project may not be designated under this subsection unless the application for such designation includes a project proposal which describes the energy efficiency, renewable energy, and sustainable design features of the project and demonstrates that the project satisfies the following eligibility criteria:
+
+#### (i) Green building and sustainable design
+
+&emsp;&emsp;&emsp;At least 75 percent of the square footage of commercial buildings which are part of the project is registered for United States Green Building Council's LEED certification and is reasonably expected (at the time of the designation) to receive such certification. For purposes of determining LEED certification as required under this clause, points shall be credited by using the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) For wood products, certification under the Sustainable Forestry Initiative Program and the American Tree Farm System.
+
+&emsp;&emsp;&emsp;&emsp;(II) For renewable wood products, as credited for recycled content otherwise provided under LEED certification.
+
+&emsp;&emsp;&emsp;&emsp;(III) For composite wood products, certification under standards established by the American National Standards Institute, or such other voluntary standards as published in the Federal Register by the Administrator of the Environmental Protection Agency.
+
+#### (ii) Brownfield redevelopment
+
+&emsp;&emsp;&emsp;The project includes a brownfield site as defined by section 101(39) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601), including a site described in subparagraph (D)(ii)(II)(aa) thereof.
+
+#### (iii) State and local support
+
+&emsp;&emsp;&emsp;The project receives specific State or local government resources which will support the project in an amount equal to at least $5,000,000. For purposes of the preceding sentence, the term “resources” includes tax abatement benefits and contributions in kind.
+
+#### (iv) Size
+
+&emsp;&emsp;&emsp;The project includes at least one of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) At least 1,000,000 square feet of building.
+
+&emsp;&emsp;&emsp;&emsp;(II) At least 20 acres.
+
+#### (v) Use of tax benefit
+
+&emsp;&emsp;&emsp;The project proposal includes a description of the net benefit of the tax-exempt financing provided under this subsection which will be allocated for financing of one or more of the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) The purchase, construction, integration, or other use of energy efficiency, renewable energy, and sustainable design features of the project.
+
+&emsp;&emsp;&emsp;&emsp;(II) Compliance with certification standards cited under clause (i).
+
+&emsp;&emsp;&emsp;&emsp;(III) The purchase, remediation, and foundation construction and preparation of the brownfields site.
+
+#### (vi) Prohibited facilities
+
+&emsp;&emsp;&emsp;An issue shall not be treated as an issue described in subsection (a)(14) if any proceeds of such issue are used to provide any facility the principal business of which is the sale of food or alcoholic beverages for consumption on the premises.
+
+#### (vii) Employment
+
+&emsp;&emsp;&emsp;The project is projected to provide permanent employment of at least 1,500 full time equivalents (150 full time equivalents in rural States) when completed and construction employment of at least 1,000 full time equivalents (100 full time equivalents in rural States).
+
+> &emsp;&emsp;The application shall include an independent analysis which describes the project's economic impact, including the amount of projected employment.
+
+#### (B) Project description
+
+&emsp;&emsp;Each application described in subparagraph (A) shall contain for each project a description of—
+
+&emsp;&emsp;&emsp;(i) the amount of electric consumption reduced as compared to conventional construction,
+
+&emsp;&emsp;&emsp;(ii) the amount of sulfur dioxide daily emissions reduced compared to coal generation,
+
+&emsp;&emsp;&emsp;(iii) the amount of the gross installed capacity of the project's solar photovoltaic capacity measured in megawatts, and
+
+&emsp;&emsp;&emsp;(iv) the amount, in megawatts, of the project's fuel cell energy generation.
+
+#### (5) Certification of use of tax benefit
+
+&emsp;No later than 30 days after the completion of the project, each project must certify to the Secretary that the net benefit of the tax-exempt financing was used for the purposes described in paragraph (4).
+
+#### (6) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Rural State
+
+&emsp;&emsp;The term “rural State” means any State which has—
+
+&emsp;&emsp;&emsp;(i) a population of less than 4,500,000 according to the 2000 census,
+
+&emsp;&emsp;&emsp;(ii) a population density of less than 150 people per square mile according to the 2000 census, and
+
+&emsp;&emsp;&emsp;(iii) increased in population by less than half the rate of the national increase between the 1990 and 2000 censuses.
+
+#### (B) Local government
+
+&emsp;&emsp;The term “local government” has the meaning given such term by section 1393(a)(5).
+
+#### (C) Net benefit of tax-exempt financing
+
+&emsp;&emsp;The term “net benefit of tax-exempt financing” means the present value of the interest savings (determined by a calculation established by the Secretary) which result from the tax-exempt status of the bonds.
+
+#### (7) Aggregate face amount of tax-exempt financing
+
+#### (A) In general
+
+&emsp;&emsp;An issue shall not be treated as an issue described in subsection (a)(14) if the aggregate face amount of bonds issued by the State or local government pursuant thereto for a project (when added to the aggregate face amount of bonds previously so issued for such project) exceeds an amount designated by the Secretary as part of the designation.
+
+#### (B) Limitation on amount of bonds
+
+&emsp;&emsp;The Secretary may not allocate authority to issue qualified green building and sustainable design project bonds in an aggregate face amount exceeding $2,000,000,000.
+
+#### (8) Termination
+
+&emsp;Subsection (a)(14) shall not apply with respect to any bond issued after September 30, 2009.
+
+#### (9) Treatment of current refunding bonds
+
+&emsp;Paragraphs (7)(B) and (8) shall not apply to any bond (or series of bonds) issued to refund a bond issued under subsection (a)(14) before October 1, 2009, if—
+
+&emsp;&emsp;(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
+
+&emsp;&emsp;(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
+
+&emsp;&emsp;(C) the net proceeds of the refunding bond are used to redeem the refunded bond notlater than 90 days after the date of the issuance of the refunding bond.
+
+> &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
+
+#### (m) Qualified highway or surface freight transfer facilities
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a)(15), the term “qualified highway or surface freight transfer facilities” means—
+
+&emsp;&emsp;(A) any surface transportation project which receives Federal assistance under title 23, United States Code (as in effect on the date of the enactment of this subsection),
+
+&emsp;&emsp;(B) any project for an international bridge or tunnel for which an international entity authorized under Federal or State law is responsible and which receives Federal assistance under title 23, United States Code (as so in effect), or
+
+&emsp;&emsp;(C) any facility for the transfer of freight from truck to rail or rail to truck (including any temporary storage facilities directly related to such transfers) which receives Federal assistance under either title 23 or title 49, United States Code (as so in effect).
+
+#### (2) National limitation on amount of tax-exempt financing for facilities
+
+#### (A) National limitation
+
+&emsp;&emsp;The aggregate amount allocated by the Secretary of Transportation under subparagraph (C) shall not exceed $15,000,000,000.
+
+#### (B) Enforcement of national limitation
+
+&emsp;&emsp;An issue shall not be treated as an issue described in subsection (a)(15) if the aggregate face amount of bonds issued pursuant to such issue for any qualified highway or surface freight transfer facility (when added to the aggregate face amount of bonds previously so issued for such facility) exceeds the amount allocated to such facility under subparagraph (C).
+
+#### (C) Allocation by Secretary of Transportation
+
+&emsp;&emsp;The Secretary of Transportation shall allocate the amount described in subparagraph (A) among qualified highway or surface freight transfer facilities in such manner as the Secretary determines appropriate.
+
+#### (3) Expenditure of proceeds
+
+&emsp;An issue shall not be treated as an issue described in subsection (a)(15) unless at least 95 percent of the net proceeds of the issue is expended for qualified highway or surface freight transfer facilities within the 5-year period beginning on the date of issuance. If at least 95 percent of such net proceeds is not expended within such 5-year period, an issue shall be treated as continuing to meet the requirements of this paragraph if the issuer uses all unspent proceeds of the issue to redeem bonds of the issue within 90 days after the end of such 5-year period. The Secretary, at the request of the issuer, may extend such 5-year period if the issuer establishes that any failure to meet such period is due to circumstances beyond the control of the issuer.
+
+#### (4) Exception for current refunding bonds
+
+&emsp;Paragraph (2) shall not apply to any bond (or series of bonds) issued to refund a bond issued under subsection (a)(15) if—
+
+&emsp;&emsp;(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue,
+
+&emsp;&emsp;(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
+
+&emsp;&emsp;(C) the refunded bond is redeemed not later than 90 days after the date of the issuance of the refunding bond.
+
+> &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
+
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963.)
 
 #### Amendment of Section
 
@@ -408,11 +602,23 @@ Section 14101 of the Elementary and Secondary Education Act of 1965, referred to
 
 The date of the enactment of this subsection, referred to in subsec. (k)(4), means the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
 
+The enactment of this subsection, referred to in subsec. (<i>l</i>)(3)(A), probably means the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
+The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
 #### Prior Provisions
 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+2005—Subsec. (a)(15). Pub. L. 109–59, §11143(a), added par. (15).
+
+Subsec. (m). Pub. L. 109–59, §11143(b), added subsec. (m).
+
+2004—Subsec. (a)(14). Pub. L. 108–357, §701(a), added par. (14).
+
+Subsec. (<i>l</i>). Pub. L. 108–357, §701(b), added subsec. (<i>l</i>).
 
 2001—Subsec. (a)(13). Pub. L. 107–16, §§422(a), 901, temporarily added par. (13). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -452,6 +658,14 @@ Subsec. (d)(4)(B)(iii). Pub. L. 100–647, §1013(a)(1), substituted “average 
 
 Subsec. (i). Pub. L. 100–647, §6180(b)(1), added subsec. (i).
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11143(d), Aug. 10, 2005, 119 Stat. 1965, provided that: “The amendments made by this section \[amending this section and section 146 of this title\] apply to bonds issued after the date of the enactment of this Act \[Aug. 10, 2005\].”
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VII, §701(e), Oct. 22, 2004, 118 Stat. 1540, provided that: “The amendments made by this section \[amending this section and section 146 of this title\] shall apply to bonds issued after December 31, 2004.”
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Pub. L. 107–16, title IV, §422(f), June 7, 2001, 115 Stat. 66, provided that: “The amendments made by this section \[amending this section and sections 146 and 147 of this title\] shall apply to bonds issued after December 31, 2001.”
@@ -476,6 +690,10 @@ Amendment by section 1013(a)(1), (39) of Pub. L. 100–647 effective, except as 
 
 Section 6180(c) of Pub. L. 100–647 provided that: “The amendments made by this section \[amending sections 142, 146, and 147 of this title\] shall apply to bonds issued after the date of enactment of this Act \[Nov. 10, 1988\].”
 
+#### Accountability
+
+Pub. L. 108–357, title VII, §701(d), Oct. 22, 2004, 118 Stat. 1539, provided that: “Each issuer shall maintain, on behalf of each project, an interest bearing reserve account equal to 1 percent of the net proceeds of any bond issued under this section for such project. Not later than 5 years after the date of issuance, the Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall determine whether the project financed with such bonds has substantially complied with the terms and conditions described in section 142(<i>l</i>)(4) of the Internal Revenue Code of 1986 (as added by this section). If the Secretary, after such consultation, certifies that the project has substantially complied with such terms and conditions and meets the commitments set forth in the application for such project described in section 142(<i>l</i>)(4) of such Code, amounts in the reserve account,including all interest, shall be released to the project. If the Secretary determines that the project has not substantially complied with such terms and conditions, amounts in the reserve account, including all interest, shall be paid to the United States Treasury.”
+
 #### No Inference With Respect to Outstanding Bonds From Use of Term “Person”
 
 Section 1608(b) of Pub. L. 104–188 provided that: “The use of the term ‘person’ in section 142(f)(3) of the Internal Revenue Code of 1986, as added by subsection (a), shall not be construed to affect the tax-exempt status of interest on any bonds issued before the date of the enactment of this Act \[Aug. 20, 1996\].”
@@ -483,8 +701,4 @@ Section 1608(b) of Pub. L. 104–188 provided that: “The use of the term ‘pe
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
 Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 42, 141, 143, 144, 145, 146, 147, 148, 150, 168, 6652 of this title; title 7 section 1926; title 12 sections 24, 1430b.
 

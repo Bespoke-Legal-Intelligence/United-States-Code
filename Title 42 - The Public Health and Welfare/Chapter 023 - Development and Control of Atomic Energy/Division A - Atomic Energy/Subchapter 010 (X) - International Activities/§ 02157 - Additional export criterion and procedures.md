@@ -32,7 +32,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Delegation of Functions
 
-Secretary of State responsible for performing function vested in President under subsec. (a)(2) of this section and responsible for preparation of timely information and recommendations related to functions vested in President under subsec. (b) of this section, see section 2(b), (d) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
+Secretary of State responsible for performing function vested in President under subsec. (a)(2) of this section and responsible for preparation of timely information and recommendations related to functions vestedin President under subsec. (b) of this section, see section 2(b), (d) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### Performance of Functions Pending Development of Procedures
 

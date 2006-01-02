@@ -24,7 +24,7 @@ Collateral Incentive Agreements.—The Secretary concerned shall enter into coll
 
 Congressional Notification Required.—Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in an eligible entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amendedPub. L. 105–85, div. B, title XXVIII, §2805, Nov. 18, 1997, 111 Stat. 1991; Pub. L. 106–65, div. B, title XXVIII, §2803(d), (h)(1), Oct. 5, 1999, 113 Stat. 849; Pub. L. 108–136, div. A, title X, §1031(a)(50), Nov. 24, 2003, 117 Stat. 1602.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 546; amended Pub. L. 105–85, div. B, title XXVIII, §2805, Nov. 18, 1997, 111 Stat. 1991; Pub. L. 106–65, div. B, title XXVIII, §2803(d), (h)(1), Oct. 5, 1999, 113 Stat. 849; Pub. L. 108–136, div. A, title X, §1031(a)(50), Nov. 24, 2003, 117 Stat. 1602.)
 
 #### Amendments
 
@@ -41,8 +41,4 @@ Subsec. (d). Pub. L. 106–65, §2803(d)(3), substituted “eligible” for “n
 Subsec. (e). Pub. L. 106–65, §2803(d)(4), substituted “an eligible entity” for “a nongovernmental entity”.
 
 1997—Subsec. (e). Pub. L. 105–85 added subsec. (e).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2883 of this title.
 

@@ -10,7 +10,7 @@
 
 #### (A) Economic development activities
 
-&emsp;&emsp;The Secretary shall make grants described in paragraph (1) on a competitive basis to private, nonprofit organizations that are community development corporations to provide technical and financial assistance for economic development activities designed to address the economic needs of low-income individuals and families by creating employment and business development opportunities.
+&emsp;&emsp;The Secretary shall make grants described in paragraph (1) on a competitive basis to private, nonprofit organizations that arecommunity development corporations to provide technical and financial assistance for economic development activities designed to address the economic needs of low-income individuals and families by creating employment and business development opportunities.
 
 #### (B) Consultation
 
@@ -38,7 +38,7 @@
 
 #### (4) Neighborhood innovation projects
 
-&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providingassistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
+&emsp;The Secretary shall provide the assistance described in paragraph (1) for neighborhood innovation projects, which shall include providing grants to neighborhood-based private, nonprofit organizations to test or assist in the development of new approaches or methods that will aid in overcoming special problems identified by communities or neighborhoods or otherwise assist in furthering the purposes of this chapter, and which may include providing assistance for projects that are designed to serve low-income individuals and families who are not being effectively served by other programs.
 
 #### (b) Evaluation
 
@@ -60,9 +60,11 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 108–447, div. F, title II, Dec. 8, 2004, 118 Stat. 3134, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
+Pub. L. 109–149, title II, Dec. 30, 2005, 119 Stat. 2855, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. F, title II, Dec. 8, 2004, 118 Stat. 3134.
 
 Pub. L. 108–199, div. E, title II, Jan. 23, 2004, 118 Stat. 249.
 

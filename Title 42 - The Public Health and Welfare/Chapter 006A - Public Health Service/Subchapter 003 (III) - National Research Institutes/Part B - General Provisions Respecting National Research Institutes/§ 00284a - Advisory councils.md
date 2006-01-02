@@ -2,7 +2,7 @@
 
 #### (a) Establishment; acceptance of conditional gifts; functions
 
-(1) Except as provided in subsection (h) of this section, the Secretary shall appoint an advisory council for each national research institute which (A) shall advise, assist, consult with, and make recommendations to the Secretary and the Director of such institute on matters related to the activities carried out by and through the institute and the policies respecting such activities, and (B) shall carry out the special functions prescribed by part C of this subchapter.
+(1) Except as provided in subsection (h) of this section, the Secretary shall appoint an advisory council for each national research institute which (A) shall advise, assist, consult with, andmake recommendations to the Secretary and the Director of such institute on matters related to the activities carried out by and through the institute and the policies respecting such activities, and (B) shall carry out the special functions prescribed by part C of this subchapter.
 
 (2) Each advisory council for a national research institute may recommend to the Secretary acceptance, in accordance with section 238 of this title, of conditional gifts for study, investigation, or research respecting the diseases, disorders, or other aspect of human health with respect to which the institute was established, for the acquisition of grounds, or for the construction, equipping, or maintenance of facilities for the institute.
 
@@ -50,7 +50,7 @@ The advisory council shall meet at the call of the chairman or upon the request 
 
 #### (f) Appointment of executive secretary; training and orientation for new members
 
-The Director of the national research institute for which an advisory council is established shall designate a member of the staff of the institute to serve as the executive secretary of the advisory council. The Director of such institute shall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of such institute shall provide orientation and training for new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
+The Director of the national research institute for which an advisory council is established shall designate a member of the staff of the institute to serve as the executive secretary of the advisory council. The Director of such instituteshall make available to the advisory council such staff, information, and other assistance as it may require to carry out its functions. The Director of such institute shall provide orientation and training for new members of the advisory council to provide them with such information and training as may be appropriate for their effective participation in the functions of the advisory council.
 
 #### (g) Comments and recommendations for inclusion in biennial report; additional reports
 
@@ -110,7 +110,7 @@ Subsec. (h)(2)(A)(v). Pub. L. 100–607, §117(c), inserted “shall be nonvotin
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that anadvisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

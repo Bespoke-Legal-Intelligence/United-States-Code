@@ -40,9 +40,13 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 #### Effective Date
 
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Pilot Project on Civilian Linguist Reserve Corps
+
+Pub. L. 109–163, div. A, title XI, §1124, Jan. 6, 2006, 119 Stat. 3454, provided that: “Subject to the availability of appropriated funds, the Secretary of Defense may support implementation of the Civilian Linguist Reserve Corps pilot project authorized by section 613 of the Intelligence Authorization Act for Fiscal Year 2005 (Public Law 108–487; 118 Stat. 3959; 50 U.S.C. 403–1b note).”
 
 Pub. L. 108–487, title VI, §613, Dec. 23, 2004, 118 Stat. 3959, provided that:
 

@@ -70,7 +70,3 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 701(a)(1), (2),
 
 Amendment by act June 29, 1956, effective June 29, 1956, see section 211 of act June 29, 1956, set out as a note under section 4041 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7604 of this title.
-

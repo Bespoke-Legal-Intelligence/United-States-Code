@@ -14,7 +14,7 @@ For the effective date of this subsection, referred to in subsec. (b), see secti
 
 #### Prior Provisions
 
-A prior section 108, act June 25, 1948, ch. 644, 62 Stat. 679, directing the Quartermaster General of the Army to provide suitable accommodations for the horses, carriages, and other vehicles of the President and of the Executive Office, was repealed by act June 28, 1950, ch. 383, title IV, §401(j), 64 Stat. 271.
+A prior section 108, act June 25, 1948, ch. 644, 62 Stat. 679, directing the Quartermaster General of the Armyto provide suitable accommodations for the horses, carriages, and other vehicles of the President and of the Executive Office, was repealed by act June 28, 1950, ch. 383, title IV, §401(j), 64 Stat. 271.
 
 Insofar as prior section 108, by virtue of a former proviso in section 401 of act June 28, 1950, continued to remain in effect to the extent that it was applicable to the Department of the Air Force, and the United States Air Force, it was additionally repealed by act Sept. 19, 1951, ch. 407, title IV, §401(a)(1), 65 Stat. 333.
 

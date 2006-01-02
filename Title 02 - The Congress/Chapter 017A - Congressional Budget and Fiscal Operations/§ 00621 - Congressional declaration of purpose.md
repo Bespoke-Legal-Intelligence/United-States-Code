@@ -106,7 +106,7 @@ Pub. L. 100–119, title II, §201, Sept. 29, 1987, 101 Stat. 784, provided that
 
 #### Financial Management Reform
 
-Pub. L. 100–119, title II, §203, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress thatthe Congress should undertake a coordinated effort to identify problems and develop specific recommendations to reform the financial management systems of the United States Government, including consideration of the use of generally accepted accounting principles.”
+Pub. L. 100–119, title II, §203, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress that the Congress should undertake a coordinated effort to identify problems and develop specific recommendations to reform the financial management systems of the United States Government, including consideration of the use of generally accepted accounting principles.”
 
 #### Exercise of Congressional Rulemaking Power
 

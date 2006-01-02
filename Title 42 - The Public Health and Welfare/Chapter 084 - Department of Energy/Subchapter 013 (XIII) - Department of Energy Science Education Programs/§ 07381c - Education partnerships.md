@@ -8,7 +8,7 @@ The Secretary may authorize each Department research and development facility, t
 
 Under a partnership agreement entered into with an educational institution under subsection (a) of this section and as authorized by the Secretary, a Department research and development facility may provide assistance to the educational institution by—
 
-&emsp;(1) loaning equipment to the institution;
+&emsp;(1) loaning or transferring equipment to the institution;
 
 &emsp;(2) transferring to the institution equipment determined by the director of the Department research and development facility to be surplus;
 
@@ -16,9 +16,17 @@ Under a partnership agreement entered into with an educational institution under
 
 &emsp;(4) involving faculty and students of the institution in research programs of Department research and development facilities;
 
-&emsp;(5) cooperating with the institution in developing a program under which students may be given academic credit for work on research projects of Department research and development facilities; and
+&emsp;(5) cooperating with the institution in developing a program under which students may be given academic credit for work on research projects of Department research and development facilities;
 
-&emsp;(6) providing academic and career advice and assistance to students of the institution.
+&emsp;(6) providing academic and career advice and assistance to students of the institution; and
 
-(Pub. L. 101–510, div. C, title XXXI, §3166, Nov. 5, 1990, 104 Stat. 1843.)
+&emsp;(7) providing funds to educational institutions to hire personnel to facilitate interactions between local school systems, Department research and development facilities, and corporate and governmental entities.
+
+(Pub. L. 101–510, div. C, title XXXI, §3166, Nov. 5, 1990, 104 Stat. 1843; Pub. L. 109–58, title XI, §1102(c), Aug. 8, 2005, 119 Stat. 938.)
+
+#### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–58, §1102(c)(1), added par. (1) and struck out former par. (1) which read as follows: “loaning equipment to the institution;”.
+
+Subsec. (b)(7). Pub. L. 109–58, §1102(c)(2)–(4), added par. (7).
 

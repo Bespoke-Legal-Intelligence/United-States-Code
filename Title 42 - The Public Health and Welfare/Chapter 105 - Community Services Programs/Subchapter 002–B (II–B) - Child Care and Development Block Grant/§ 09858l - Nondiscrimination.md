@@ -10,7 +10,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;A sectarian organization may require that employees adhere to the religious tenets andteachings of such organization, and such organization may require that employees adhere to rules forbidding the use of drugs or alcohol.
+&emsp;&emsp;A sectarian organization may require that employees adhere to the religious tenets and teachings of such organization, and such organization may require that employees adhere to rules forbidding the use of drugs or alcohol.
 
 #### (2) Discrimination against child
 

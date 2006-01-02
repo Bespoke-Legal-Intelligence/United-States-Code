@@ -1,6 +1,6 @@
 ### §3308. Instrumentalities of the United States
 
-Notwithstanding any other provision of law (whether enacted before or after the enactmentof this section) which grants to any instrumentality of the United States an exemption from taxation, such instrumentality shall not be exempt from the tax imposed by section 3301 unless such other provision of law grants a specific exemption, by reference to section 3301 (or the corresponding section of prior law), from the tax imposed by such section.
+Notwithstanding any other provision of law (whether enacted before or after the enactment of this section) which grants to any instrumentality of the United States an exemption from taxation, such instrumentality shall not be exempt from the tax imposed by section 3301 unless such other provision of law grants a specific exemption, by reference to section 3301 (or the corresponding section of prior law), from the tax imposed by such section.
 
 (Added Pub. L. 86–778, title V, §531(d)(1), Sept. 13, 1960, 74 Stat. 983.)
 
@@ -19,8 +19,4 @@ Section applicable with respect to remuneration paid after 1961 for services per
 #### Applicability to Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives
 
 Applicability of this section to Federal land banks, Federal intermediate credit banks, and banks for cooperatives, see section 531(g) of Pub. L. 86–778, set out as a note under section 3305 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3322 of this title.
 

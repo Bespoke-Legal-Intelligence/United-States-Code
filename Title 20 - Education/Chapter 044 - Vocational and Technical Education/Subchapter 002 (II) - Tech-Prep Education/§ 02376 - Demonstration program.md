@@ -28,7 +28,7 @@ The provisions of sections 2372, 2373, 2374, and 2375 of this title shall not ap
 
 &emsp;(1) the provisions of section 2373(a) of this title shall apply for purposes of describing consortia eligible to receive assistance under this section;
 
-&emsp;(2) each tech-prep education program assisted under this section shall meet the requirements of paragraphs (1), (2), (3)(A), (3)(B), (3)(C), (3)(D), (4), (5), (6), and (7) of section 2373(c) of this title, except that such paragraph (3)(B) shall be applied by striking “, and if possible and practicable, 4-year institutions of higher education through nonduplicative sequences of courses in career fields”; and
+&emsp;(2) each tech-prep education program assisted under this section shall meet the requirements of paragraphs (1), (2), (3)(A), (3)(B), (3)(C), (3)(D), (4), (5), (6), and (7) of section 2373(c) of this title, except that such paragraph (3)(B) shall be applied by striking “, and ifpossible and practicable, 4-year institutions of higher education through nonduplicative sequences of courses in career fields”; and
 
 &emsp;(3) in awarding grants under this section, the Secretary shall give special consideration to consortia submitting applications under subsection (c) of this section that meet the requirements of paragraphs (1), (3), (4), and (5) of section 2374(d) of this title, except that such paragraph (1) shall be applied by striking “or the transfer of students to baccalaureate degree programs”.
 

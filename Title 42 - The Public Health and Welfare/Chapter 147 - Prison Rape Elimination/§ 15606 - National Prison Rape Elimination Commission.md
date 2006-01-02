@@ -74,7 +74,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 &emsp;&emsp;(A) a review of existing Federal, State, and local government policies and practices with respect to the prevention, detection, and punishment of prison rape;
 
-&emsp;&emsp;(B) an assessment of the relationship between prison rape and prison conditions, andof existing monitoring, regulatory, and enforcement practices that are intended to address any such relationship;
+&emsp;&emsp;(B) an assessment of the relationship between prison rape and prison conditions, and of existing monitoring, regulatory, and enforcement practices that are intended to address any such relationship;
 
 &emsp;&emsp;(C) an assessment of pathological or social causes of prison rape;
 
@@ -104,7 +104,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 #### (A) Distribution
 
-&emsp;&emsp;Not later than 2 years after the date of the initial meeting of the Commission, the Commission shall submit a report on the study carried out under this subsection to—
+&emsp;&emsp;Not later than 3 years after the date of the initial meeting of the Commission, the Commission shall submit a report on the study carried out under this subsection to—
 
 &emsp;&emsp;&emsp;(i) the President;
 
@@ -232,7 +232,7 @@ The Commission may secure directly from any Federal department or agency such in
 
 #### (2) Enforcement
 
-&emsp;In the case of contumacy or refusal to obey a subpoena, the Attorney General may in a Federal court of appropriate jurisdiction obtain an appropriate order to enforce the subpoena.
+&emsp;In the case of contumacy or refusal to obey a subpoena, the Attorney General may in aFederal court of appropriate jurisdiction obtain an appropriate order to enforce the subpoena.
 
 #### (3) Confidentiality of documentary evidence
 
@@ -250,13 +250,17 @@ The Commission shall terminate on the date that is 60 days after the date on whi
 
 The Commission shall be exempt from the Federal Advisory Committee Act.
 
-(Pub. L. 108–79, §7, Sept. 4, 2003, 117 Stat. 980; Pub. L. 108–447, div. B, title I, §123(1), Dec. 8, 2004, 118 Stat. 2871.)
+(Pub. L. 108–79, §7, Sept. 4, 2003, 117 Stat. 980; Pub. L. 108–447, div. B, title I, §123(1), Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–108, title I, §113(b), Nov. 22, 2005, 119 Stat. 2305; Pub. L. 109–162, title XI, §1181, Jan. 5, 2006, 119 Stat. 3126.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (n), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2006—Subsec. (d)(3)(A). Pub. L. 109—162 made amendment identical to that made by Pub. L. 109—108. See 2005 Amendment note below.
+
+2005—Subsec. (d)(3)(A). Pub. L. 109–108 substituted “3 years” for “2 years”.
 
 2004—Pub. L. 108–447 substituted “Elimination” for “Reduction” in section catchline and in text of subsec. (a).
 

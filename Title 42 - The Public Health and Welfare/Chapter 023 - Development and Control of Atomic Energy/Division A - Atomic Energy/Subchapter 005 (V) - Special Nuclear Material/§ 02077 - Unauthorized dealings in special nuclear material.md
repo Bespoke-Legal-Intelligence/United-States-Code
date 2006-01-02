@@ -2,7 +2,7 @@
 
 #### (a) Handling by persons
 
-Unless authorized by a general or specific license issued by the Commission, which the Commission is authorized to issue pursuant to section 2073 of this title, no person may transfer or receive in interstate commerce, transfer, deliver, acquire, own, possess, receive possession of or title to, or import into or export from the United States any special nuclear material.
+Unless authorized by a general or specific license issued by the Commission, which the Commission is authorized to issue pursuant to section 2073 of this title, no person may transfer orreceive in interstate commerce, transfer, deliver, acquire, own, possess, receive possession of or title to, or import into or export from the United States any special nuclear material.
 
 #### (b) Engagement or participation in development or production
 

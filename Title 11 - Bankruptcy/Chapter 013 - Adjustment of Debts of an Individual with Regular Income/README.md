@@ -11,6 +11,7 @@
 | [1305\.](Subchapter%20001%20%28I%29%20-%20Officers%2C%20Administration%2C%20and%20the%20Estate/%C2%A7%2001305%20-%20Filing%20and%20allowance%20of%20postpetition%20claims.md) | Filing and allowance of postpetition claims. |
 | [1306\.](Subchapter%20001%20%28I%29%20-%20Officers%2C%20Administration%2C%20and%20the%20Estate/%C2%A7%2001306%20-%20Property%20of%20the%20estate.md) | Property of the estate. |
 | [1307\.](Subchapter%20001%20%28I%29%20-%20Officers%2C%20Administration%2C%20and%20the%20Estate/%C2%A7%2001307%20-%20Conversion%20or%20dismissal.md) | Conversion or dismissal. |
+| [1308\.](Subchapter%20001%20%28I%29%20-%20Officers%2C%20Administration%2C%20and%20the%20Estate/%C2%A7%2001308%20-%20Filing%20of%20prepetition%20tax%20returns.md) | Filing of prepetition tax returns. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -30,6 +31,10 @@
 | [1330\.](Subchapter%20002%20%28II%29%20-%20The%20Plan/%C2%A7%2001330%20-%20Revocation%20of%20an%20order%20of%20confirmation.md) | Revocation of an order of confirmation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2005—Pub. L. 109–8, title VII, §716(b)(2), Apr. 20, 2005, 119 Stat. 130, added item 1308.
 
 
 ---

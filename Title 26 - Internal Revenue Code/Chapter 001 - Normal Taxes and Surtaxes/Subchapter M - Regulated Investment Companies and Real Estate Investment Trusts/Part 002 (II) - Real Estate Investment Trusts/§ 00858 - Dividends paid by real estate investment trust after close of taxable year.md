@@ -46,7 +46,3 @@ For effective date of amendment by section 1604(h) of Pub. L. 94–455, see sect
 
 Section applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as a note under section 856 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 857, 860, 4981 of this title.
-

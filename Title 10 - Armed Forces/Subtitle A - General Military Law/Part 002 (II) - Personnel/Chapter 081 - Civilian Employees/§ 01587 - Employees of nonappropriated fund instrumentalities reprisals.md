@@ -48,7 +48,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–106, §1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
+1996—Pub. L. 104–106, §1040(d)(1), inserted “: reprisals” after “instrumentalities” in section catchline.
 
 Subsec. (a)(1). Pub. L. 104–106, §1040(c), substituted “Navy Exchange Service Command” for “Navy Resale and Services Support Office”.
 
@@ -86,7 +86,7 @@ Nonappropriated Fund Instrumentality Employee Defined.—For purposes of this se
 
 #### Uniform Health Benefits Program for Employees of Department of Defense Assigned to Nonappropriated Fund Instrumentalities
 
-Pub. L. 103–337, div. A, title III, §349, Oct. 5, 1994, 108 Stat. 2727, provided that:
+Pub. L. 103–337, div. A, title III, §349, Oct. 5, 1994, 108 Stat. 2727, as amended by Pub. L. 108–375, div. A, title VI, §652, Oct. 28, 2004, 118 Stat. 1973, provided that:
 
 “(a)
 
@@ -94,9 +94,13 @@ In General.—Not later than October 1, 1995, the Secretary of Defense shall tak
 
 “(b)
 
-Progress Report.—Not later than March 15, 1995, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the progress made by the Secretary in implementing subsection (a).”
+Progress Report.—Not later than March 15, 1995, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the progress made by the Secretary in implementing subsection (a).
 
-#### Section Referred to in Other Sections
+“(c)
 
-This section is referred to in section 1580 of this title.
+Treatment of Program as Federal Health Benefit Program.—(1) No State tax, fee, other monetary payment, or State health plan requirement, may be imposed, directly or indirectly, on the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or on a carrier or an underwriting or plan administration contractor of the Program, to the same extent as such prohibition applies to the health insurance program authorized by chapter 89 of title 5, United States Code, under section 8909(f) of such title.
+
+“(2) Paragraph (1) shall not be construed to exempt the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or any carrier or underwriting or plan administration contractor of the Program from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to, or realized by, the Program or by such carrier or contractor from business conducted under the Program, so long as the tax, fee, or payment is applicable to a broad range of business activity.
+
+“(3) In this subsection, the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any political subdivision or other non-Federal authority thereof.”
 

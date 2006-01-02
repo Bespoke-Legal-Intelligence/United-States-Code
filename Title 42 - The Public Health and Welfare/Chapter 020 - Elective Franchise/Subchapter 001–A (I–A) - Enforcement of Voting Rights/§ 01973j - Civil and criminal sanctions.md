@@ -14,7 +14,7 @@ Whoever conspires to violate the provisions of subsection (a) or (b) of this sec
 
 #### (d) Civil action by Attorney General for preventive relief; injunctive and other relief
 
-Whenever any person has engaged or there are reasonable grounds to believe that any person is about to engage in any act or practice prohibited by section 1973, 1973a, 1973b, 1973c, 1973e, 1973h, 1973i, or subsection (b) of this section, the Attorney General may institute for the United States, or in the name of the United States, an action for preventive relief, including an application for a temporary or permanent injunction, restraining order, or other order, and including an order directed to the State and State or local election officials to require them (1) to permit persons listed under subchapters I–A to I–C of this chapter to vote and (2) to count such votes.
+Whenever any person has engaged or there are reasonable grounds to believe that any person is about to engage in any act or practice prohibited by section 1973, 1973a, 1973b, 1973c, 1973e,1973h, 1973i, or subsection (b) of this section, the Attorney General may institute for the United States, or in the name of the United States, an action for preventive relief, including an application for a temporary or permanent injunction, restraining order, or other order, and including an order directed to the State and State or local election officials to require them (1) to permit persons listed under subchapters I–A to I–C of this chapter to vote and (2) to count such votes.
 
 #### (e) Proceeding by Attorney General to enforce the counting of ballots of registered and eligible persons who are prevented from voting
 

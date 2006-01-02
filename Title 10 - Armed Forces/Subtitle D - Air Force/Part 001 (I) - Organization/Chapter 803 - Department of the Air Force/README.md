@@ -15,10 +15,13 @@
 | [8021\.](%C2%A7%2008021%20-%20Air%20Force%20Reserve%20Forces%20Policy%20Committee.md) | Air Force Reserve Forces Policy Committee. |
 | [8022\.](%C2%A7%2008022%20-%20Financial%20management.md) | Financial management. |
 | [8023\.](%C2%A7%2008023%20-%20Chief%20of%20Legislative%20Liaison.md) | Chief of Legislative Liaison. |
+| [8024\.](%C2%A7%2008024%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title IX, §904(e)(2), Jan. 6, 2006, 119 Stat. 3402, added item 8024.
 
 2002—Pub. L. 107–314, div. A, title V, §504(e)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 8023.
 
@@ -53,3 +56,4 @@
 - [&sect; 08021 - Air Force Reserve Forces Policy Committee](%C2%A7%2008021%20-%20Air%20Force%20Reserve%20Forces%20Policy%20Committee.md)
 - [&sect; 08022 - Financial management](%C2%A7%2008022%20-%20Financial%20management.md)
 - [&sect; 08023 - Chief of Legislative Liaison](%C2%A7%2008023%20-%20Chief%20of%20Legislative%20Liaison.md)
+- [&sect; 08024 - Director of Small Business Programs](%C2%A7%2008024%20-%20Director%20of%20Small%20Business%20Programs.md)

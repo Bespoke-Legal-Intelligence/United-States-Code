@@ -120,7 +120,7 @@ Subsec. (c). Pub. L. 96–561, §241(3), inserted in provision preceding par. (1
 
 Pub. L. 96–289 substituted “90” for “sixty” in par. (1).
 
-Subsec. (d). Pub. L. 96–561, §241(4), inserted in par. (1) “, and resulting economic loss,” after “destruction”and in par. (2) included within the amount of compensation awarded to any vessel owner 25 percent of any resulting economic loss.
+Subsec. (d). Pub. L. 96–561, §241(4), inserted in par. (1) “, and resulting economic loss,” after “destruction” and in par. (2) included within the amount of compensation awarded to any vessel owner 25 percent of any resulting economic loss.
 
 Subsec. (e). Pub. L. 96–561, §238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 

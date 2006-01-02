@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts to develop and engage in experiments and demonstration projects
 
-(1) The Secretary of Health and Human Services is authorized, either directly or through grants to public or private agencies, institutions, and organizations or contracts with public or private agencies, institutions, and organizations, to develop and engage in experiments and demonstration projects for the following purposes:
+(1) The Secretary of Health and Human Services is authorized, either directly or throughgrants to public or private agencies, institutions, and organizations or contracts with public or private agencies, institutions, and organizations, to develop and engage in experiments and demonstration projects for the following purposes:
 
 &emsp;(A) to determine whether, and if so which, changes in methods of payment or reimbursement (other than those dealt with in section 222(a) of the Social Security Amendments of 1972) for health care and services under health programs established by this chapter, including a change to methods based on negotiated rates, would have the effect of increasing the efficiency and economy of health services under such programs through the creation of additional incentives to these ends without adversely affecting the quality of such services;
 
@@ -46,7 +46,7 @@
 
 &emsp;(K) to determine whether the use of competitive bidding in the awarding of contracts, or the use of other methods of reimbursement, under part B of subchapter XI of this chapter would be efficient and effective methods of furthering the purposes of that part.
 
-> For purposes of this subsection, “health programs established by this chapter” means the program established by this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter.
+> For purposes of this subsection, “health programs established by this chapter” means the program established by this subchapter and aprogram established by a plan of a State approved under subchapter XIX of this chapter.
 
 (2) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under paragraph (1) shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1395t of this title) and from funds appropriated under subchapter XIX of this chapter. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this section. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such subchapter XIX of this chapter) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
@@ -78,7 +78,7 @@ Section was enacted as a part of the Social Security Amendments of 1967, and not
 
 1982—Subsec. (a)(1)(K). Pub. L. 97–248 added subpar. (K).
 
-1981—Subsec. (a)(1). Pub. L. 97–35, §2193(d)(1), substituted “this subchapter and a program established bya plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
+1981—Subsec. (a)(1). Pub. L. 97–35, §2193(d)(1), substituted “this subchapter and a program established by a plan of a State approved under subchapter XIX of this chapter” for “this subchapter, a program established by a plan of a State approved under subchapter XIX of this chapter, and a program established by a plan of a State approved under subchapter V of this chapter”.
 
 Subsec. (a)(2). Pub. L. 97–35, §2193(d)(2), substituted reference to subchapter XIX of this chapter for reference to subchapters V and XIX of this chapter in two places.
 
@@ -236,7 +236,7 @@ Health information technology.—The term ‘health information technology’ me
 
 #### Demonstration Project for Disease Management for Severely Chronically Ill Medicare Beneficiaries
 
-Pub. L. 106–554, §1(a)(6) \[title I, §121\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474, provided that the Secretary of Health and Human Services was to conduct a demonstration project under this section to demonstrate the impact on costs and health outcomes of applying disease management to medicare beneficiaries with diagnosed, advanced-stage congestive heart failure, diabetes, or coronary heart disease, that the project was to last for not longer than 3 years, and that the Secretary was to submit a final report to Congress not later than 6 months after the project's completion.
+Pub. L. 106–554, §1(a)(6) \[title I, §121\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474, provided that the Secretary ofHealth and Human Services was to conduct a demonstration project under this section to demonstrate the impact on costs and health outcomes of applying disease management to medicare beneficiaries with diagnosed, advanced-stage congestive heart failure, diabetes, or coronary heart disease, that the project was to last for not longer than 3 years, and that the Secretary was to submit a final report to Congress not later than 6 months after the project's completion.
 
 #### Cancer Prevention and Treatment Demonstration for Ethnic and Racial Minorities
 
@@ -366,7 +366,7 @@ Study on Cost-Effectiveness.—
 
 &emsp;“(1)
 
-Study.—The Secretary shall conduct a study on the cost-effectiveness of the Lifestyle Modification Program as conducted under the project. In determining whether such Program is cost-effective, the Secretary shall determine (using a control group under a matched paired experimental design) whether expenditures incurred for medicare beneficiaries enrolled under the project exceed expenditures for the control group of medicare beneficiaries with similar health conditions who are not enrolled under the project.
+Study.—The Secretary shall conduct a study on the cost-effectiveness of the Lifestyle Modification Program as conducted under the project. In determining whether such Program is cost-effective, the Secretary shall determine (using a control group under a matched paired experimental design) whetherexpenditures incurred for medicare beneficiaries enrolled under the project exceed expenditures for the control group of medicare beneficiaries with similar health conditions who are not enrolled under the project.
 
 &emsp;“(2)
 
@@ -462,7 +462,7 @@ Contents of report.—The report in paragraph (1) shall include the following:
 
 “(d)
 
-Waiver Authority.—The Secretary shall waive compliance with the requirements of title XVIII of theSocial Security Act (42 U.S.C. 1395 et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
+Waiver Authority.—The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
 “(e)
 
@@ -502,7 +502,7 @@ Purpose and Authorization.—
 
 &emsp;“(1)
 
-In general.—Not later than 9 months after the date of enactment of this section \[Aug. 5, 1997\], the Secretary of Health and Human Services shall provide for a demonstration project described in paragraph (2). The Secretary shall make an award for such project not later than 3 months after the date of the enactment of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 \[Nov. 29, 1999\]. The Secretary shall accept the proposal adjudged to be the best technical proposal as of such date of enactment without the need for additional review or resubmission of proposals.
+In general.—Not later than 9 months after the date of enactment of this section \[Aug. 5, 1997\], the Secretary of Health and Human Services shall provide for a demonstration project described in paragraph (2). The Secretary shall make an award for such project not later than 3 months after the date of the enactment of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 \[Nov. 29,1999\]. The Secretary shall accept the proposal adjudged to be the best technical proposal as of such date of enactment without the need for additional review or resubmission of proposals.
 
 &emsp;“(2)
 
@@ -570,7 +570,7 @@ In general.—Subject to paragraph (3), payment for such services shall be made 
 
 Costs that may be included.—The costs described in this subparagraph are the permissible costs (as recognized by the Secretary) for the following:
 
-&emsp;&emsp;&emsp;“(i) The acquisition of telemedicine equipment for use in patients’ homes or at sites providinghealth care to patients located in medically underserved areas.
+&emsp;&emsp;&emsp;“(i) The acquisition of telemedicine equipment for use in patients’ homes or at sites providing health care to patients located in medically underserved areas.
 
 &emsp;&emsp;&emsp;“(ii) Curriculum development and training of health professionals in medical informatics and telemedicine.
 
@@ -698,7 +698,7 @@ For requirement that Secretary of Health and Human Services modify contracts wit
 
 #### Case Management Demonstration Projects
 
-Pub. L. 101–508, title IV, §4207(f), formerly §4027(f), Nov. 5, 1990, 104 Stat. 1388–123, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that:
+Pub. L. 101–508, title IV, §4207(f), formerly §4027(f), Nov. 5, 1990, 104 Stat. 1388–123, as renumbered by Pub. L.103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that:
 
 “(1)
 
@@ -740,7 +740,7 @@ Set Asides for Issues of Health Care in Rural Areas and In Inner-City Areas.—(
 
 “(b)
 
-Agenda.—The Secretary of Health and Human Services shall establish an agenda of research and demonstration projects, relating exclusively or substantially to rural health issues or to inner-city health issues, that are in progress or have been proposed, and shall include such agenda in the annual report submitted pursuant to section 1875(b) of the Social Security Act \[section 1395<i>ll</i>(b) of this title\]. The agenda shall be accompanied by a statement setting forth the amounts that have been obligated and expended with respect tosuch projects in the current and most recently completed fiscal years.”
+Agenda.—The Secretary of Health and Human Services shall establish an agenda of research and demonstration projects, relating exclusively or substantially to rural health issues or to inner-city health issues, that are in progress or have been proposed, and shall include such agenda in the annual report submitted pursuant to section 1875(b) of the Social Security Act \[section 1395<i>ll</i>(b) of this title\]. The agenda shall be accompanied by a statement setting forth the amounts that have been obligated and expended with respect to such projects in the current and most recently completed fiscal years.”
 
 #### Alzheimer's Disease Demonstration Projects
 
@@ -754,7 +754,7 @@ For treatment of hospitals in States which have had a waiver approved under this
 
 Pub. L. 99–272, title IX, §9215, Apr. 7, 1986, 100 Stat. 180, as amended by Pub. L. 101–239, title VI, §6135, Dec. 19, 1989, 103 Stat. 2222; Pub. L. 103–66, title XIII, §13557, Aug. 10, 1993, 107 Stat. 592; Pub. L. 105–33, title IV, §4017, Aug. 5, 1997, 111 Stat. 345; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §534\], Nov. 29, 1999, 113 Stat. 1536, 1501A–390; Pub. L. 106–554, §1(a)(6) \[title VI, §633\], Dec. 21, 2000, 114 Stat. 2763, 2763A–568; Pub. L. 108–173, title II, §235, Dec. 8, 2003, 117 Stat. 2210, provided that:
 
-“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, and ending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
+“(a) The Secretary of Health and Human Services shall extend through December 31, 1997, approval of four municipal health services demonstration projects (located in Baltimore, Cincinnati, Milwaukee, and San Jose) authorized under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\]. The Secretary shall submit a report to Congress on the waiver program with respect to the quality of health care, beneficiary costs, costs to the medicaid program and other payers, access to care, outcomes, beneficiary satisfaction, utilization differences among the different populations served by the projects, and such other factors as may be appropriate. Subject to subsection (c), the Secretary may further extend such demonstration projects through December 31, 2006, but only with respect to individuals who received at least one service during the period beginning on January 1, 1996, andending on the date of the enactment of the Balanced Budget Act of 1997 \[Aug. 5, 1997\].
 
 “(b) The Secretary shall work with each such demonstration project to develop a plan, to be submitted to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate by March 31, 1998, for the orderly transition of demonstration projects and the project participants to a non-demonstration project health care delivery system, such as through integration with a private or public health plan, including a medicaid managed care or Medicare+Choice plan.
 
@@ -786,7 +786,7 @@ Pub. L. 98–21, title VI, §603(b), Apr. 20, 1983, 97 Stat. 167, provided that:
 
 “(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395<i>oo</i>, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
-“(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, forpayment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
+“(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[this subchapter\] approved under section 402(a) of the Social Security Amendments of 1967 \[subsec. (a) of this section\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs.”
 
 #### Alternative Care Demonstration Projects in Hospitals Short of Skilled Nursing Facilities
 
@@ -822,7 +822,7 @@ Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: �
 
 &emsp;“(1) the applicant for such grant is a State or an agency thereof,
 
-&emsp;“(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and servicesunder the State plan of such State which is approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
+&emsp;“(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and services under the State plan of such State which is approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\].
 
 &emsp;“(3) the purpose of the inclusion of the project of such association is to test the utility of a particular rate-setting methodology, designed to be employed in prepaid health plans, in an individual practice association operation, and
 

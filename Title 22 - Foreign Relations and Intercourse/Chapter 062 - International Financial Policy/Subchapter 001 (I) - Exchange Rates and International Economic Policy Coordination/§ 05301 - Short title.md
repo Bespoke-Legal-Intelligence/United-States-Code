@@ -6,5 +6,5 @@ This subchapter may be cited as the “Exchange Rates and International Economic
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§3001–3006) oftitle III of Pub. L. 100–418, which enacted this subchapter and amended section 225a of Title 12, Banks and Banking. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§3001–3006) of title III of Pub. L. 100–418, which enacted this subchapter and amended section 225a of Title 12, Banks and Banking. For complete classification of subtitle A to the Code, see Tables.
 

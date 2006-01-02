@@ -6,5 +6,5 @@ The Secretary of the Senate is authorized and directed to procure and furnish ea
 
 #### Prior Provisions
 
-A prior section 61d–2, Pub. L. 94–303, title I, §114, June 1, 1976, 90 Stat. 614, authorized a postage allowance forChaplain of Senate, prior to repeal by section 127(b)(2) of Pub. L. 97–51.
+A prior section 61d–2, Pub. L. 94–303, title I, §114, June 1, 1976, 90 Stat. 614, authorized a postage allowance for Chaplain of Senate, prior to repeal by section 127(b)(2) of Pub. L. 97–51.
 

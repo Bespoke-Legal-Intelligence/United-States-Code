@@ -60,7 +60,7 @@ Election of Coverage.—In order to obtain continued coverage under this section
 
 &emsp;(2)(A) In the case of a dependent of a member or former member who becomes eligible for continued coverage under subsection (b)(2), the written election shall be submitted to the Secretary concerned before the end of the 60-day period beginning on the later of—
 
-&emsp;&emsp;(i) the date on which the dependent first ceases to meet the requirements for being considered a dependent under subparagraph (D) or (I) of section 1072(2) of this title; or
+&emsp;&emsp;(i) the date on which the dependent first ceases to meet the requirements for beingconsidered a dependent under subparagraph (D) or (I) of section 1072(2) of this title; or
 
 &emsp;&emsp;(ii) the date the dependent receives the notification pursuant to subsection (c).
 
@@ -116,7 +116,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;(II) for whom a court order (as defined in section 1408(a)(2) of this title) has been issued for payment of any portion of the retired or retainer pay or for whom a court order (as defined in section 1447(13) of this title) or a written agreement (whether voluntary or pursuant to a court order) provides for an election by the member or former member to provide an annuity to the former spouse.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, §713(a), Nov. 24, 2003, 117 Stat. 1530.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4408(a)(1), Oct. 23, 1992, 106 Stat. 2708; amended Pub. L. 103–35, title II, §201(g)(1), May 31, 1993,107 Stat. 99; Pub. L. 103–337, div. A, title VII, §702(c), Oct. 5, 1994, 108 Stat. 2798; Pub. L. 104–201, div. A, title X, §1074(a)(4), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–85, div. A, title X, §1073(a)(17), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 108–136, div. A, title VII, §713(a), Nov. 24, 2003, 117 Stat. 1530.)
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 Subsec. (c)(3). Pub. L. 103–337, §702(c)(2), substituted “dependent” for “child” in two places and “dependent's” for “child's” wherever appearing.
 
-Subsec. (d)(2)(A). Pub. L. 103–337, §702(c)(3), substituted “a dependent” for “a child” in introductoryprovisions, “the dependent” for “the child” in cls. (i) and (ii), and “a dependent under subparagraph (D) or (I) of section 1072(2) of this title;” for “an unmarried dependent child under section 1072(2)(D) of this title,” in cl. (i).
+Subsec. (d)(2)(A). Pub. L. 103–337, §702(c)(3), substituted “a dependent” for “a child” in introductory provisions, “the dependent” for “the child” in cls. (i) and (ii), and “a dependent under subparagraph (D) or (I) of section 1072(2) of this title;” for “an unmarried dependent child under section 1072(2)(D) of this title,” in cl. (i).
 
 Subsec. (d)(2)(B). Pub. L. 103–337, §702(c)(4), substituted “dependent's” for “child's” and “dependent” for “child”.
 

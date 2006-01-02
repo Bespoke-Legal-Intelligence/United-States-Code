@@ -38,7 +38,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall require any savings association to divest any equity investment the retention of which is not permissibleunder paragraph (1) or (2) as quickly as can be prudently done, and in any event not later than July 1, 1994.
+&emsp;&emsp;The Corporation shall require any savings association to divest any equity investment the retention of which is not permissible under paragraph (1) or (2) as quickly as can be prudently done, and in any event not later than July 1, 1994.
 
 #### (B) Treatment of noncompliance during divestment
 
@@ -112,7 +112,7 @@ Notwithstanding subsection (a)(1) of this section, if an activity (other than an
 
 &emsp;&emsp;(D) the transfer of the corporate debt security not of investment grade is completed—
 
-&emsp;&emsp;&emsp;(i) before the end of the 1-year period beginning on August 9, 1989, in the case of aninsured savings association that, as of August 9, 1989, is controlled by a savings and loan holding company; or
+&emsp;&emsp;&emsp;(i) before the end of the 1-year period beginning on August 9, 1989, in the case of an insured savings association that, as of August 9, 1989, is controlled by a savings and loan holding company; or
 
 &emsp;&emsp;&emsp;(ii) before the end of the 2-year period beginning on August 9, 1989, in the case of a savings association that is not, as of August 9, 1989, a subsidiary of a savings and loan holding company;
 
@@ -176,7 +176,11 @@ This section may not be construed as limiting—
 
 &emsp;(2) any authority of the Director of the Office of Thrift Supervision or of a State to impose more stringent restrictions.
 
-(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494.)
+(Sept. 21, 1950, ch. 967, §2\[28\], as added Pub. L. 101–73, title II, §222, Aug. 9, 1989, 103 Stat. 269; amended Pub. L. 102–242, title I, §151(a)(3), Dec. 19, 1991, 105 Stat. 2284; Pub. L. 103–325, title VI, §602(a)(56)–(58), Sept. 23, 1994, 108 Stat. 2290, 2291; Pub. L. 104–208, div. A, title II, §2704(d)(14)(X), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 109–173, §8(a)(32), Feb. 15, 2006, 119 Stat. 3615.)
+
+#### Amendment of Subsections (a)(1), (b)(1), and (c)(2)(A)
+
+<i>Pub. L. 109–173, §8(a)(32), (b), Feb. 15, 2006, 119 Stat. 3615, 3616, provided that, effective Mar. 31, 2006, subsections (a)(1), (b)(1), and (c)(2)(A) of this section are amended by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### Amendments
 
@@ -188,7 +192,11 @@ Subsec. (d)(4)(C). Pub. L. 103–325, §602(a)(57), substituted “subparagraph�
 
 Subsec. (e)(4). Pub. L. 103–325, §602(a)(58), substituted “and any other” for “any other”.
 
-1991—Subsecs. (h), (i). Pub. L. 102–242 redesignated subsec. (i) as (h) and struck out former subsec. (h) which required that all savings associations with uninsured deposits disclose in clear and conspicuous statements that its deposits were not insured.
+1991—Subsecs. (h), (i). Pub. L. 102–242 redesignated subsec. (i) as (h) and struck out former subsec. (h)which required that all savings associations with uninsured deposits disclose in clear and conspicuous statements that its deposits were not insured.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1996 Amendment
 

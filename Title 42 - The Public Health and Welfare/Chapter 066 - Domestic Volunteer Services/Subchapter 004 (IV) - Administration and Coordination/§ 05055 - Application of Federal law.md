@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, all references in any other law to p
 
 &emsp;(A) against the United States provided by sections 1346(b) and 2672 of title 28 or
 
-&emsp;(B) through proceedings for compensation or other benefits from the United States as provided by any other law, where the availability of such benefits precludes a remedy under section 1346(b) or 2672 of such title 28,
+&emsp;(B) through proceedings for compensation or other benefits from the United States as provided by any other law, where the availabilityof such benefits precludes a remedy under section 1346(b) or 2672 of such title 28,
 
 > for damages for personal injury, including death, allegedly arising from malpractice or negligence of a physician, dentist, podiatrist, optometrist, nurse, physician assistant, expanded-function dental auxiliary, pharmacist, or paramedical (for example, medical and dental technicians, nursing assistants, and therapists) or other supporting personnel in furnishing medical care or treatment while in the exercise of such person's duties as a volunteer enrolled under subchapter I of this chapter shall be exclusive of any other civil action or proceeding by reason of the same subject matter against such person (or such person's estate) whose action or omission gave rise to such claim.
 
@@ -45,8 +45,6 @@ Notwithstanding any other provision of law, all references in any other law to p
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
-
-The Federal Tort Claims provisions of title 28, referred to in subsec. (b)(3), are the provisions of the Federal Tort Claims Act, which is classified generally to section 1346(b) and to chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 The Foreign Service Act of 1980, referred to in subsec. (c)(2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
@@ -78,7 +76,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 392 of Pub. L.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L. 99–551, set out as an Effective Date note under section 4950 of this title.
+Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provided, see section 11 of Pub. L.99–551, set out as an Effective Date note under section 4950 of this title.
 
 #### Effective Date of 1980 Amendment
 

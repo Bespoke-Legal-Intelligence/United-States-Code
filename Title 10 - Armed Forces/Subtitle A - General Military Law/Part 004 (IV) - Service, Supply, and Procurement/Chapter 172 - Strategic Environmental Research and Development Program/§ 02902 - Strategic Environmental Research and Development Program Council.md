@@ -70,7 +70,7 @@
 
 &emsp;(5) provide for the identification and support of research, development, and application of other technologies developed for national defense purposes which not only are directly useful for programs, projects, and activities of such departments, but also have useful applications for solutions to such national and international environmental problems as climate change and ozone depletion;
 
-&emsp;(6) provide for the Secretary of Defense, the Secretary of Energy, and the Administrator of the Environmental Protection Agency, in cooperation with other Federal and State agencies, as appropriate, to conduct joint research, development, and demonstration projects relating to innovative technologies, management practices, and other approaches for purposes of—
+&emsp;(6) provide for the Secretary of Defense, the Secretary of Energy, and the Administrator ofthe Environmental Protection Agency, in cooperation with other Federal and State agencies, as appropriate, to conduct joint research, development, and demonstration projects relating to innovative technologies, management practices, and other approaches for purposes of—
 
 &emsp;&emsp;(A) preventing pollution from all sources;
 
@@ -88,7 +88,7 @@
 
 (f) The Council shall be subject to the authority, direction, and control of the Secretary of Defense in prescribing policies and procedures under subsection (d)(1).
 
-(g) Not later than February 1 of each year, the Council shall submit to the Secretary of Defensethe annual report prepared pursuant to subsection (d)(3).
+(g) Not later than February 1 of each year, the Council shall submit to the Secretary of Defense the annual report prepared pursuant to subsection (d)(3).
 
 (Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1751; amended Pub. L. 102–190, div. A, title II, §257(a), title X, §1061(a)(19), Dec. 5, 1991, 105 Stat. 1331, 1473; Pub. L. 102–484, div. A, title X, §1052(38), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 103–160, div. A, title II, §265(a), Nov. 30, 1993, 107 Stat. 1611; Pub. L. 104–106, div. A, title II, §203(a)–(b)(2), (c), Feb. 10, 1996, 110 Stat. 217, 218; Pub. L. 105–245, title III, §309(b)(2)(B), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 106–65, div. A, title III, §324, Oct. 5, 1999, 113 Stat. 563; Pub. L. 106–398, §1 \[\[div. A\], title III, §313(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–55; Pub. L. 108–136, div. A, title X, §1031(a)(52), Nov. 24, 2003, 117 Stat. 1603.)
 
@@ -147,8 +147,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 #### First Annual Report of Strategic Environmental Research and Development Program Council
 
 Section 1801(c) of Pub. L. 101–510 provided that the first annual report required by former subsec. (h) of this section be submitted to Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency not later than Feb. 1, 1992, that the Strategic Environmental Research and Development Program Council conduct and include as part of report an assessment of advisability of, and various alternatives to, charging fees for information released, as required pursuant to section 2901(b)(3) of this title and subsecs. (e)(1), (2), and (g)(2)(I) \[now (f)(2)(I)\] of this section, to private sector entities operating for a profit, and that Secretary of Defense, Secretary of Energy, and Administrator of the Environmental Protection Agency submit to Congress any recommendations for changes in structure or personnel of Council that Secretaries and Administrator consider necessary to carry out environmental activities of strategic environmental research and development program.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2904 of this title.
 

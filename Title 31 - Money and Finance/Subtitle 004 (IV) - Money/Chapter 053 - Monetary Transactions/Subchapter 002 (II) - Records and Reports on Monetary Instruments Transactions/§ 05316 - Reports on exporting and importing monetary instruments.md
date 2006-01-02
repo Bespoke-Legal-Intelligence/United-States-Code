@@ -52,7 +52,7 @@ Oct. 26, 1970, Pub. L. 91–508, §231, 84 Stat. 1122.
 
 31:1101(c).
 
-In subsection (a), before clause (1), the words “a person or an agent or bailee of the person shall” are substituted for “whoever, whether as principal, agent, orbailee, or by an agent or bailee” for consistency. The words “or reports” are omitted as unnecessary because of 1:1. In clause (2), the words “transported into the United States” are substituted for “at the termination of their transportation to the United States” for consistency and to eliminate unnecessary words.
+In subsection (a), before clause (1), the words “a person or an agent or bailee of the person shall” are substituted for “whoever, whether as principal, agent, or bailee, or by an agent or bailee” for consistency. The words “or reports” are omitted as unnecessary because of 1:1. In clause (2), the words “transported into the United States” are substituted for “at the termination of their transportation to the United States” for consistency and to eliminate unnecessary words.
 
 In subsection (b), before clause (1), the word “required” is omitted as surplus. The word “prescribes” is substituted for “require” for consistency in the revised title and with other titles of the United States Code. The words “to the extent” are substituted for “in such detail” for clarity. In clause (1), the words “with respect to the monetary instruments transported” are omitted as surplus. In clause (3), the words “or if the person transporting the instruments personally is not going to use them” are substituted for “or are transported for any purpose other than the use in his own behalf of the person transporting the same” for clarity.
 

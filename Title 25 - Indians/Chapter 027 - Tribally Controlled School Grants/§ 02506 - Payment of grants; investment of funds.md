@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) invested by the Indian tribe or tribal organization only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States, or securities that are guaranteed or insured by the United States; or
 
-&emsp;&emsp;(B) deposited only into accounts that are insure by and <sup>1</sup> agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
+&emsp;&emsp;(B) deposited only into accounts that are insure by and <sup>1</sup> agency or instrumentality of the United States, or are fully collateralizedto ensure protection of the funds, even in the event of a bank failure.
 
 #### (c) Recoveries
 

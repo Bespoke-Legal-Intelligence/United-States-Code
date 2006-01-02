@@ -1,0 +1,528 @@
+### §5323. General provisions on assistance
+
+(a)
+
+Interests in Property.—
+
+&emsp;(1)
+
+In general.—Financial assistance provided under this chapter to a State or a local governmental authority may be used to acquire an interest in, or to buy property of, a private company engaged in public transportation, for a capital project for property acquired from a private company engaged in public transportation after July 9, 1964, or to operate a public transportation facility or equipment in competition with, or in addition to, transportation service provided by an existing public transportation company, only if—
+
+&emsp;&emsp;(A) the Secretary determines that such financial assistance is essential to a program of projects required under sections 5303, 5304, and 5306;
+
+&emsp;&emsp;(B) the Secretary determines that the program provides for the participation of private companies engaged in public transportation to the maximum extent feasible; and
+
+&emsp;&emsp;(C) just compensation under State or local law will be paid to the company for its franchise or property.
+
+&emsp;(2)
+
+Limitation.—A governmental authority may not use financial assistance of the United States Government to acquire land, equipment, or a facility used in public transportation from another governmental authority in the same geographic area.
+
+(b)
+
+Notice and Public Hearing.—
+
+&emsp;(1)
+
+In general.—For a capital project that will substantially affect a community, or the public transportation service of a community, an applicant shall—
+
+&emsp;&emsp;(A) provide an adequate opportunity for public review and comment on the project;
+
+&emsp;&emsp;(B) after providing notice, hold a public hearing on the project if the project affects significant economic, social, or environmental interests;
+
+&emsp;&emsp;(C) consider the economic, social, and environmental effects of the project; and
+
+&emsp;&emsp;(D) find that the project is consistent with official plans for developing the community.
+
+&emsp;(2)
+
+Notice.—Notice of a hearing under this subsection—
+
+&emsp;&emsp;(A) shall include a concise description of the proposed project; and
+
+&emsp;&emsp;(B) shall be published in a newspaper of general circulation in the geographic area the project will serve.
+
+&emsp;(3)
+
+Application requirements.—An application for a grant under this chapter for a capital project described in paragraph (1) shall include—
+
+&emsp;&emsp;(A) a certification that the applicant has complied with the requirements of this subsection; and
+
+&emsp;&emsp;(B) in the environmental record for the project, evidence that the applicant has complied with the requirements of this subsection.
+
+(c)
+
+Fares not Required.—This chapter does not require that elderly individuals and individuals with disabilities be charged a fare.
+
+(d)
+
+Condition on Charter Bus Transportation Service.—
+
+&emsp;(1)
+
+Agreements.—Financial assistance under this chapter may be used to buy or operate a bus only if the applicant, governmental authority, or publicly owned operator that receives the assistance agrees that, except as provided in the agreement, the governmental authority or an operator of public transportation for the governmental authority will not provide charter bus transportation service outside the urban area in which it provides regularly scheduled public transportation service. An agreement shall provide for a fair arrangement the Secretary of Transportation considers appropriate to ensure that the assistance will not enable a governmental authority or an operator for a governmental authority to foreclose a private operator from providing intercity charter bus service if the private operator can provide the service.
+
+&emsp;(2)
+
+Violations.—
+
+&emsp;&emsp;(A)
+
+Investigations.—On receiving a complaint about a violation of the agreement required under paragraph (1), the Secretary shall investigate and decide whether a violation has occurred.
+
+&emsp;&emsp;(B)
+
+Enforcement of agreements.—If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement.
+
+&emsp;&emsp;(C)
+
+Additional remedies.—In addition to any remedy specified in the agreement, the Secretary shall bar a recipient or an operator from receiving Federal transit assistance in an amount the Secretary considers appropriate if the Secretary finds a pattern of violations of the agreement.
+
+(e)
+
+Bond Proceeds Eligible for Local Share.—
+
+&emsp;(1)
+
+Use as local matching funds.—Notwithstanding any other provision of law, a recipient of assistance under section 5307 or 5309 may use the proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project.
+
+&emsp;(2)
+
+Maintenance of effort.—The Secretary shall approve of the use of the proceeds from the issuance of revenue bonds for the remainder of the net project cost only if the Secretary finds that the aggregate amount of financial support for public transportation in the urbanized area provided by the State and affected local governmental authorities during the next 3 fiscal years, as programmed in the State transportation improvement program under section 5304, is not less than the aggregate amount provided by the State and affected local governmental authorities in the urbanized area during the preceding 3 fiscal years.
+
+&emsp;(3)
+
+Debt service reserve.—The Secretary may reimburse an eligible recipient for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(a)(1)(K) from amounts made available to the recipient under section 5309.
+
+&emsp;(4)
+
+Pilot program for urbanized areas.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall establish a pilot program to reimburse not to exceed 10 eligible recipients for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(a)(1)(K) from amounts made available to the recipient under section 5307.
+
+&emsp;&emsp;(B)
+
+Report.—Not later than July 31, 2008, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status and effectiveness of the pilot program established under subparagraph (A).
+
+(f)
+
+Schoolbus Transportation.—
+
+&emsp;(1)
+
+Agreements.—Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competition with a private schoolbus operator. This subsection does not apply—
+
+&emsp;&emsp;(A) to an applicant that operates a school system in the area to be served and a separate and exclusive schoolbus program for the school system;
+
+&emsp;&emsp;(B) unless a private schoolbus operator can provide adequate transportation that complies with applicable safety standards at reasonable rates; and
+
+&emsp;&emsp;(C) to a State or local governmental authority if it or a direct predecessor in interest from which it acquired the duty of transporting school children and personnel, and facilities to transport them, provided schoolbus transportation at any time after November 25, 1973, but before November 26, 1974.
+
+&emsp;(2)
+
+Violations.—If the Secretary finds that an applicant, governmental authority, or publicly owned operator has violated the agreement required under paragraph (1), the Secretary shall bar a recipient or an operator from receiving Federal transit assistance in an amount the Secretary considers appropriate.
+
+(g)
+
+Buying Buses Under Other Laws.—Subsections (d) and (f) of this section apply to financial assistance to buy a bus under sections 133 and 142 of title 23. However, subsection (f)(1)(C) of this section applies to sections 133 and 142 only if schoolbus transportation was provided at any time after August 12, 1972, but before August 13, 1973.
+
+(h)
+
+Grant and Loan Prohibitions.—A grant or loan may not be used to—
+
+&emsp;(1) pay ordinary governmental or nonproject operating expenses; or
+
+&emsp;(2) support a procurement that uses an exclusionary or discriminatory specification.
+
+(i)
+
+Government's Share of Costs for Certain Projects.—
+
+&emsp;(1)
+
+Equipment for ada and clean air act compliance.—A grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment or facilities required by the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) or vehicle-related equipment or facilities (including clean fuel or alternative fuel vehicle-related equipment or facilities) for purposes of complying with or maintaining compliance with the Clean Air Act, is for 90 percent of the net project cost of such equipment or facilities attributable to compliance with those Acts. The Secretary shall have discretion to determine, through practicable administrative procedures, the costs of such equipment or facilities attributable to compliance with those Acts.
+
+&emsp;(2)
+
+Certain state owned railroads.—The Government share for financial assistance under this chapter to a State-owned railroad (as defined in section 603 of the Rail Safety and Service Improvement Act of 1982 (45 U.S.C. 1202)) shall be the same as the Government share under section 120(b) of title 23 for Federal-aid highway funds apportioned to the State in which the railroad operates.
+
+(j)
+
+Buy America.—(1) The Secretary of Transportation may obligate an amount that may beappropriated to carry out this chapter for a project only if the steel, iron, and manufactured goods used in the project are produced in the United States.
+
+(2) The Secretary of Transportation may waive paragraph (1) of this subsection if the Secretary finds that—
+
+&emsp;(A) applying paragraph (1) would be inconsistent with the public interest;
+
+&emsp;(B) the steel, iron, and goods produced in the United States are not produced in a sufficient and reasonably available amount or are not of a satisfactory quality;
+
+&emsp;(C) when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
+
+&emsp;&emsp;(i) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and
+
+&emsp;&emsp;(ii) final assembly of the rolling stock has occurred in the United States; or
+
+&emsp;(D) including domestic material will increase the cost of the overall project by more than 25 percent.
+
+(3)
+
+Written justification for public interest waiver.—When issuing a waiver based on a public interest determination under paragraph (2)(A), the Secretary shall issue a detailed written justification as to why the waiver is in the public interest. The Secretary shall publish such justification in the Federal Register and provide the public with a reasonable period of time for notice and comment.
+
+(4) In this subsection, labor costs involved in final assembly are not included in calculating the cost of components.
+
+(5) The Secretary of Transportation may not make a waiver under paragraph (2) of this subsection for goods produced in a foreign country if the Secretary, in consultation with the United States Trade Representative, decides that the government of that foreign country—
+
+&emsp;(A) has an agreement with the United States Government under which the Secretary has waived the requirement of this subsection; and
+
+&emsp;(B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
+
+(6) A person is ineligible under subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2005 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
+
+&emsp;(A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
+
+&emsp;(B) represented that goods described in clause (A) of this paragraph were produced in the United States.
+
+(7) The Secretary of Transportation may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
+
+(8)
+
+Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
+
+(9)
+
+Administrative review.—A party adversely affected by an agency action under this subsection shall have the right to seek review under section 702 of title 5.
+
+(k)
+
+Participation of Governmental Agencies in Design and Delivery of Transportation Services.—To the extent feasible, governmental agencies and nonprofit organizations that receive assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services—
+
+&emsp;(1) shall participate and coordinate with recipients of assistance under this chapter in the design and delivery of transportation services; and
+
+&emsp;(2) shall be included in the planning for those services.
+
+(<i>l</i>)
+
+Relationship to Other Laws.—Section 1001 of title 18 applies to a certificate, submission, or statement provided under this chapter. The Secretary may terminate financial assistance under this chapter and seek reimbursement directly, or by offsetting amounts, available under this chapter if the Secretary determines that a recipient of such financial assistance has made a false or fraudulent statement or related act in connection with a Federal transit program.
+
+(m)
+
+Preaward and Postdelivery Review of Rolling Stock Purchases.—The Secretary of Transportation shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
+
+(n)
+
+Submission of Certifications.—A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretarymay be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(e)(2).<sup>1</sup>
+
+(<i>o</i>)
+
+Grant Requirements.—The grant requirements under sections 5307 and 5309 apply to any project under this chapter that receives any assistance or other financing under chapter 6 (other than section 609) of title 23.
+
+(p)
+
+Alternative Fueling Facilities.—A recipient of assistance under this chapter may allow the incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
+
+&emsp;(1) the incidental use does not interfere with the recipient's public transportation operations;
+
+&emsp;(2) all costs related to the incidental use are fully recaptured by the recipient from the nontransit public entity or private entity;
+
+&emsp;(3) the recipient uses revenues received from the incidental use in excess of costs for planning, capital, and operating expenses that are incurred in providing public transportation; and
+
+&emsp;(4) private entities pay all applicable excise taxes on fuel.
+
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619.)
+
+Historical and Revision Notes
+
+Pub. L. 103–272
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5323(a)(1)
+
+49 App.:1602(e).
+
+July 9, 1964, Pub. L. 88–365, §3(e), 78 Stat. 303; Sept. 8, 1966, Pub. L. 89–562, §2(b)(1), 80 Stat. 716; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §2(1), 84 Stat. 962; Nov. 6, 1978, Pub. L. 95–599, §302(c), 92 Stat. 2737.
+
+5323(a)(2)
+
+49 App.:1608(e).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(e), (g); added Nov. 6, 1978, Pub. L. 95–599, §308(d), 92 Stat. 2747.
+
+5323(b)
+
+49 App.:1602(d).
+
+July 9, 1964, Pub. L. 88–365, §3(d), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; restated Oct. 15, 1970, Pub. L. 91–453, §2(2), 84 Stat. 964.
+
+5323(c)
+
+49 App.:1608(h)(1).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(h)(1); added Apr. 2, 1987, Pub. L. 100–17, §317(a), 101 Stat. 233.
+
+5323(d)
+
+49 App.:1602(f).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(f); added Jan. 4, 1974, Pub. L. 93–650, §1(a), 89 Stat. 2–1; Aug. 22, 1974, Pub. L. 93–383, §813(a), 88 Stat. 737; Nov. 26, 1974, Pub. L. 93–503, §109(b), 88 Stat. 1573.
+
+5323(e)
+
+49 App.:1608(g).
+
+5323(f)
+
+49 App.:1602(g).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(g); added Nov. 26, 1974, Pub. L. 93–503, §109(a), 88 Stat. 1572.
+
+5323(g)
+
+49 App.:1602a.
+
+Aug. 13, 1973, Pub. L. 93–87, §164, 87 Stat. 281; Jan. 4, 1974, Pub. L. 93–650, §1(b), 89 Stat. 2–1; Aug. 22, 1974, Pub. L. 93–383, §813(b), 88 Stat. 737.
+
+5323(h)
+
+49 App.:1602(a)(2)(C).
+
+July 9, 1964, Pub. L. 88–365, §3(a)(2)(C), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, §2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§102, 104, 106, 88 Stat. 1566, 1571, 1572; restated Nov. 6, 1978, Pub. L. 95–599, §302(a), 92 Stat. 2736.
+
+5323(i)
+
+49 App.:1608(m).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(m); added Dec. 18, 1991, Pub. L. 102–240, §3020, 105 Stat. 2110.
+
+5323(j)(1)
+
+23:101 (note).
+
+Jan. 6, 1983, Pub. L. 97–424, §165(a) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2136; Mar. 9, 1984, Pub. L. 98–229, §10, 98 Stat. 57; Dec. 18, 1991, Pub. L. 102–240, §1048(a), 105 Stat. 1999.
+
+5323(j)(2)
+
+23:101 (note).
+
+Jan. 6, 1983, Pub. L. 97–424, §165(b) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137; Apr. 2, 1987, Pub. L. 100–17, §§133(a)(6), 337(a)(1), (b), (c), 101 Stat. 171, 241.
+
+5323(j)(3)
+
+23:101 (note).
+
+Jan. 6, 1983, Pub. L. 97–424, §165(c) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137.
+
+5323(j)(4)
+
+23:101 (note).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §165(g) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991, Pub. L. 102–240, §1048(b), 105 Stat. 2000.
+
+5323(j)(5)
+
+23:101 (note).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §165(f) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991, Pub. L. 102–240, §1048(b), 105 Stat. 1999.
+
+5323(j)(6)
+
+23:101 (note).
+
+Jan. 6, 1983, Pub. L. 97–424, §165(d) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137.
+
+5323(j)(7)
+
+23:101 (note).
+
+Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, §165(e) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991, Pub. L. 102–240, §1048(b), 105 Stat. 1999.
+
+5323(k)
+
+49 App.:1607(q).
+
+July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(q); added Oct. 6, 1992, Pub. L. 102–388, §502(i), 106 Stat. 1566.
+
+In subsection (a)(1), before clause (A), the words “directly or indirectly”, “any facilities or other”, “reconstructing”, and “for the purpose of providing by contract or otherwise” are omitted as surplus. In clause (C), the words “and adequate”, “acquisition of”, and “applicable” are omitted as surplus. In clause (D), the words “the requirements of” are omitted as surplus.
+
+In subsection (a)(2), the words “may not use” are substituted for “None of the provisions of this chapter shall be construed to authorize” to eliminate unnecessary words. The words “the purpose of financing” are omitted as surplus.
+
+In subsections (b)(1), (c), and (e), the words “except section 5307” are added for clarity because of 49 App.:1607a(e)(1), restated as section 5307(n)(2) of the revised title.
+
+In subsection (b)(1), before clause (A), the word “reconstruction” is omitted as surplus. In clause (B), the words “in the matter” are omitted as surplus. In clause (C), the word “environmental” is substituted for “and its impact on the environment” to eliminate unnecessary words. In clause (D), the word “comprehensive” is omitted as surplus.
+
+In subsection (b)(2), the word “description” is substituted for “statement” for clarity.
+
+In subsections (d)–(f) and (h), the word “Federal” is omitted as surplus.
+
+In subsections (d) and (f), the word “provide” is substituted for “engage in”, and the word “transportation” is substituted for “operations”, for consistency.
+
+In subsection (d)(1), the words “with the Secretary”, “and equitable”, and “publicly and privately owned” are omitted as surplus.
+
+In subsection (d)(2), the words “alleged”, “take appropriate action to”, “and conditions”, and “for mass transportation facilities and equipment” are omitted as surplus.
+
+In subsection (e), the words “This subsection shall apply to” and “which is acquiring such buses” are omitted as surplus. The words “occurring on or after November 6, 1978” are omitted as executed. The words “In the case of” are omitted as surplus. The words “may include” are substituted for “the Secretary shall permit . . . to provide in advertising for bids for” to eliminate unnecessary words.
+
+In subsection (f)(1), before clause (A), the words “for use in providing public”, “to any applicant for such assistance”, and “and the Secretary” are omitted as surplus. The word “agrees” is substituted for “shall have first entered into an agreement that such applicant” to eliminate unnecessary words. In clause (A), the words “with respect to operation of a schoolbus program” are omitted as surplus.
+
+Subsection (g) is substituted for 49 App.:1602a to eliminate unnecessary words.
+
+In subsection (j), the word “goods” is substituted for “products” for consistency.
+
+In subsection (j)(1), the words “Notwithstanding any other provision of law” are omitted as surplus.
+
+In subsection (j)(2), before clause (A), the words “The Secretary of Transportation may waive” are substituted for “shall not apply” for clarity. In clause (B), the words “steel, iron, and goods” are substituted for “materials and products” for consistency. In clause (C), before subclause (i), the words “bus and other” are omitted as surplus. In subclauses (i) and (ii), the words “rolling stock” are substituted for “vehicle or equipment” for consistency. In clause (D), the word “contract” is omitted as surplus.
+
+In subsection (j)(4), before clause (A), the words “The Secretary of Transportation may not make a waiver under” are substituted for “shall not apply” for clarity. The words “government of a foreign country” are substituted for “foreign country”, and the word “Government” is added, for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (j)(5), before clause (A), the words “the debarment, suspension, and ineligibility procedures in” are omitted as surplus. The words “department, agency, or instrumentality of the Government” are substituted for “Federal agency” for consistency in the revised title and with other titles of the Code. In clause (A), the word “produced” is substituted for “made” for consistency.
+
+In subsection (k), the word “statewide” is omitted as surplus.
+
+#### Pub. L. 103–429, §6(10)(A)
+
+This makes a clarifying amendment to the catchline for 49:5323(j).
+
+Pub. L. 103–429, §6(10)(B)
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5323(<i>l</i>)
+
+49 App.:1608(j).
+
+July 9, 1964, Pub. L. 88–365, §12(j), as added Apr. 2, 1987, Pub. L. 100–17, §319, 101 Stat. 234.
+
+The word “review” is substituted for “audit” for clarity. The words “buses and other” are omitted as surplus.
+
+#### Pub. L. 104–287
+
+This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
+
+#### References in Text
+
+The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+
+The Clean Air Act, referred to in subsec. (i)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+The Federal Public Transportation Act of 2005, referred to in subsec. (j)(6), is title III of Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1544. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
+
+Subsec. (e) of section 5336, referred to in subsec. (n), was redesignated subsec. (d) by Pub. L. 109–59, title III, §3034(a)(2), Aug. 10, 2005, 119 Stat. 1627.
+
+#### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59, §3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with section 5333(b) of this title.
+
+Subsec. (a)(2). Pub. L. 109–59, §3023(a)(2), inserted heading.
+
+Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (b). Pub. L. 109–59, §3023(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to general requirements, notice, and application requirements, consisting of pars. (1) to (3), for provisions relating to application requirements and notice, consisting of pars. (1) and (2).
+
+Subsec. (c). Pub. L. 109–59, §3023(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under section 5318 of this title.”
+
+Subsec. (d)(1). Pub. L. 109–59, §3023(d)(1), inserted heading.
+
+Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+
+Subsec. (d)(2). Pub. L. 109–59, §3023(d)(2), inserted heading and text of par. (2) and struck out former par. (2) which read as follows: “On receiving a complaint about a violation of an agreement, the Secretary ofTransportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.”
+
+Subsec. (e). Pub. L. 109–59, §3023(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.”
+
+Subsec. (f). Pub. L. 109–59, §3023(f), in par. (1) inserted heading and realigned margins, added par. (2), and struck out former par. (2) which read as follows: “An applicant violating an agreement under this subsection may not receive other financial assistance under this chapter.”
+
+Subsec. (f)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” in two places in introductory provisions.
+
+Subsec. (g). Pub. L. 109–59, §3023(g), substituted “133 and 142” for “103(e)(4) and 142(a) or (c)” in two places.
+
+Subsec. (i). Pub. L. 109–59, §3023(h), substituted “Government's” for “Government” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, inserted “or facilities” after “equipment” wherever appearing, and added par. (2).
+
+Subsec. (j)(3) to (5). Pub. L. 109–59, §3023(i)(1), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (j)(6). Pub. L. 109–59, §3023(i)(1)(A), (2), redesignated par. (5) as (6) and substituted “Federal Public Transportation Act of 2005” for “Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 1914)” in introductory provisions. Former par. (6) redesignated (7).
+
+Subsec. (j)(7), (8). Pub. L. 109–59, §3023(i)(1)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+Subsec. (j)(9). Pub. L. 109–59, §3023(i)(3), added par. (9).
+
+Subsec. (<i>l</i>). Pub. L. 109–59, §3023(j), amended heading and text of subsec. (<i>l</i>) generally. Prior to amendment, text read as follows: “The planning and programming requirements of section 135 of title 23 apply to a grant made under sections 5307–5311 of this title.”
+
+Subsec. (m). Pub. L. 109–59, §3023(k), inserted at end “Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
+
+Subsec. (<i>o</i>). Pub. L. 109–59, §3023(<i>l</i>), substituted “chapter 6 (other than section 609) of title 23” for “the Transportation Infrastructure Finance and Innovation Act of 1998”.
+
+Subsec. (p). Pub. L. 109–59, §3023(m), added subsec. (p).
+
+1998—Subsec. (d). Pub. L. 105–178, §3020(a), substituted “Condition on Charter Bus Transportation Service” for “Buying and Operating Buses” in heading.
+
+Subsec. (i). Pub. L. 105–178, §3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment.”
+
+Subsec. (j)(7). Pub. L. 105–178, §3020(b), inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted.”
+
+Subsecs. (k) to (m). Pub. L. 105–178, §3020(d), added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
+
+Subsec. (n). Pub. L. 105–178, §3020(e), added subsec. (n).
+
+Subsec. (<i>o</i>). Pub. L. 105–178, §3020(f), added subsec. (<i>o</i>).
+
+1996—Subsecs. (b)(1), (c), (e). Pub. L. 104–287 struck out “(except section 5307)” after “under this chapter”.
+
+1994—Subsec. (j). Pub. L. 103–429, §6(10)(A), substituted “America” for “American” in heading.
+
+Subsec. (<i>l</i>). Pub. L. 103–429, §6(10)(B), added subsec. (<i>l</i>).
+
+#### Effective Date of 1996 Amendment
+
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
+
+#### Effective Date of 1994 Amendment
+
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
+
+#### Rulemaking
+
+Pub. L. 109–59, title III, §3023(i)(5), Aug. 10, 2005, 119 Stat. 1618, provided that: “Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall issue a final rule on implementation of the requirements of section 5323(j) of title 49, United States Code (in this paragraph referred to as the ‘Buy America requirements’). The purposes of the regulations shall be as follows:
+
+&emsp;“(A)
+
+Microprocessor waiver.—To clarify that any waiver from the Buy America requirements issued under section 5323(j)(2) of such title for a microprocessor, computer, or microcomputer applies only to a device used solely for the purpose of processing or storing data and does not extend to a product containing a microprocessor, computer, or microcomputer.
+
+&emsp;“(B)
+
+Definitions.—To define the terms ‘end product’, ‘negotiated procurement’, and ‘contractor’ for purposes of part 661 of title 49, Code of Federal Regulations. In defining the terms, the Secretary shall develop a list of representative items that are subject to the Buy America requirements, and shall address the procurement of systems under the definition to ensure that major system procurements are not used to circumvent the Buy America requirements.
+
+&emsp;“(C)
+
+Post-award waivers.—To permit a grantee to request a non-availability waiver from the Buy America requirements under section 661.7c of title 49, Code of Federal Regulations, after contract award in any case in which the contractor has made a certification of compliance with the requirements in good faith.
+
+&emsp;“(D)
+
+Certification under negotiated procurement process.—In any case in which a negotiated procurement process is used, compliance with the Buy America requirements shall be determined on the basis of the certification submitted with the final offer.”
+
+#### Final Assembly of Buses
+
+Pub. L. 105–178, title III, §3035, June 9, 1998, 112 Stat. 387, provided that:
+
+“(a)
+
+In General.—All buses manufactured on or after September 1, 1999, that are purchased with Federal funds by recipients of assistance from the Federal Transit Administration shall conform with the FederalTransit Administration Guidance on Buy America Requirements, dated March 18, 1997.
+
+“(b)
+
+Rule of Construction.—For purposes of this section, a bus shall be considered to be manufactured on or after September 1, 1999, if the manufacturing process for that bus is not completed on or before August 31, 1999.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

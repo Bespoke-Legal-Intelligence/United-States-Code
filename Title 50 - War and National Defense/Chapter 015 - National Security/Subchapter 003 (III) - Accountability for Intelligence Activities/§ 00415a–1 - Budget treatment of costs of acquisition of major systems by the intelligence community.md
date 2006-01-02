@@ -64,6 +64,8 @@ Subsec. (b)(1). Pub. L. 108–458, §1072(a)(6), substituted “Office of the Di
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Effective Date
@@ -94,7 +96,7 @@ Pub. L. 108–177, title III, §312(d), Dec. 13, 2003, 117 Stat. 2609, provided 
 
 “(B) Subparagraph (A) shall not affect any contract for procurement or acquisition that was entered into before the date of the enactment of this Act \[Dec. 13, 2003\].
 
-“(2) Commencing as of the date of the submittal to Congress of the budget of the President for fiscal year 2006 pursuant to section 1105(a) of title 31, United States Code, no funds may be obligated or expended for the development or procurement of a major system until the President has complied with the requirements of section 506A of the National Security Act of 1947 (as added by subsection (b)) \[50 U.S.C. 415a–1\] with respect to such major system.
+“(2) Commencing as of the date of the submittal to Congress of the budget of the President for fiscal year 2006 pursuant to section 1105(a) of title 31, United States Code, no funds may be obligated or expended for the development or procurement of a major system until the President has complied with the requirementsof section 506A of the National Security Act of 1947 (as added by subsection (b)) \[50 U.S.C. 415a–1\] with respect to such major system.
 
 “(3) In this subsection, the terms ‘independent cost estimate’ and ‘major system’ have the meaning given such terms in subsection (e) of section 506A of the National Security Act of 1947 (as so added) \[50 U.S.C. 415a–1(e)\].”
 

@@ -32,7 +32,3 @@ Subsec. (a)(2). Pub. L. 103–337, §541(b)(1)(B), struck out “of the military
 
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 574, 575, 576, 577, 580, 580a, 581, 583, 1558 of this title.
-

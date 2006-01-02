@@ -122,7 +122,7 @@ Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (1
 
 The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
 
-Section 902(c) of the Food Security Act of 1985, referred to in par. (7)(B), is section 902(c) of Pub. L. 99–198, title IX, Dec. 23, 1985, 99 Stat. 1443, which was setout as a note under former section 1446g of Title 7, Agriculture.
+Section 902(c) of the Food Security Act of 1985, referred to in par. (7)(B), is section 902(c) of Pub. L. 99–198, title IX, Dec. 23, 1985, 99 Stat. 1443, which was set out as a note under former section 1446g of Title 7, Agriculture.
 
 The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended. Title V of the Act is classified generally to subchapter V (§1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 

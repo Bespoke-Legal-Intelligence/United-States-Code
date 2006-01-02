@@ -14,7 +14,3 @@ The fees described in subsection (a) shall be available to the Tax Court to empl
 
 Section 1553(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and amending sections 7472 and 7473 of this title\] shall take effect on January 1, 1987.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7472, 7473 of this title.
-

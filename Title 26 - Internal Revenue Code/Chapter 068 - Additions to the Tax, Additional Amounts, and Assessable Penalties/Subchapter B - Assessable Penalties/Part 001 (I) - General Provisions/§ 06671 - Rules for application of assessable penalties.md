@@ -14,7 +14,3 @@ The term “person”, as used in this subchapter, includes an officer or employ
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 999, 6653 of this title.
-

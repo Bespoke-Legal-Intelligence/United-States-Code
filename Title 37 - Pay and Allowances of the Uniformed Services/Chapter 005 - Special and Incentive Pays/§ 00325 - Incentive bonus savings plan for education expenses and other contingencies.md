@@ -50,13 +50,7 @@ Amount Withheld for Taxes.—The total amount payable for a member under subsect
 
 (g)
 
-Repayment for Failure To Complete Obligated Service.—(1) If a person fails to complete the qualifying service for which the person is obligated under a commitment for which a benefit has been paid under this section, the person shall refund to the United States the amount that bears the same ratio to the total amount paid for the person (as computed under subsection (e)) for that particular commitment as the uncompleted part of the period of qualifying service bears to the total period of the qualifying service for which obligated.
-
-(2) Subject to paragraph (3), an obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) The Secretary concerned may waive, in whole or in part, a refund required under paragraph (1) if the Secretary concerned determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
-
-(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an enlistment or other agreement under this section does not discharge the person signing such enlistment or other agreement from a debt arising under the enlistment or agreement, respectively, or this subsection.
+Repayment.—If a person does not complete the qualifying service for which the person is obligated under a commitment for which a benefit has been paid under this section, the person shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (h)
 
@@ -66,9 +60,11 @@ Relationship to Other Special Pays.—The benefit authorized under this section 
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L.107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §687(b)(33), Jan. 6, 2006, 119 Stat. 3332.)
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–163, amended heading and text of subsec. (g) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when person fails to complete qualifying service for which person is obligated under commitment for which benefit was paid.
 
 2002—Subsec. (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -79,4 +75,8 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date
 
 Pub. L. 107–107, div. A, title VI, §622(b), Dec. 28, 2001, 115 Stat. 1142, provided that: “Section 325 of title 37, United States Code, as added by subsection (a), shall apply with respect to reenlistments and other agreements for qualifying service, as described in that section, that are entered into on or after October 1, 2001.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

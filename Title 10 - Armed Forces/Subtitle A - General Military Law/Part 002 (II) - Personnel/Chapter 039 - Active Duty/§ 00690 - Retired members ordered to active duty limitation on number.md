@@ -46,7 +46,3 @@ Amendment by Pub. L. 107–107 applicable with respect to officers serving on ac
 
 Section effective Sept. 30, 1997, see section 521(b) of Pub. L. 104–201, set out as a note under section 688 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 688a, 689 of this title.
-

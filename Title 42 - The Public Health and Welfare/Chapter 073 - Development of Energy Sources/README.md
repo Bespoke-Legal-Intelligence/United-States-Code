@@ -139,6 +139,7 @@
 | (c) | Use of program funds for salaries and expenses. |
 | (d) | Use of funds to provide voluntary separation incentive payments. |
 | (e) | Fiscal year applicability. |
+| [5853\.](Subchapter%20002%20%28II%29%20-%20Nuclear%20Regulatory%20Commission%3B%20Nuclear%20Whistleblower%20Protection/%C2%A7%2005853%20-%20Limitation%20on%20legal%20fee%20reimbursement.md) | Limitation on legal fee reimbursement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -36,6 +36,32 @@ Requirements.—Unless specifically authorized by statute, no Federal department
 
 (3) When establishing or approving any size standard pursuant to paragraph (2), the Administrator shall ensure that the size standard varies from industry to industry to the extent necessary to reflect the differing characteristics of the various industries and consider other factors deemed to be relevant by the Administrator.
 
+(4)
+
+Exclusion of certain security expenses from consideration for purpose of small business size standards.—
+
+&emsp;(A)
+
+Determination required.—Not later than 30 days after January 6, 2006, the Administrator shall review the application of size standards established pursuant to paragraph (2) to small business concerns that are performing contracts in qualified areas and determine whether it would be fair and appropriate to exclude from consideration in the average annual gross receipts of such small business concerns any payments made to such small business concerns by Federal agencies to reimburse such small business concerns for the cost of subcontracts entered for the sole purpose of providing security services in a qualified area.
+
+&emsp;(B)
+
+Action required.—Not later than 60 days after January 6, 2006, the Administrator shall either—
+
+&emsp;&emsp;(i) initiate an adjustment to the size standards, as described in subparagraph (A), if the Administrator determines that such an adjustment would be fair and appropriate; or
+
+&emsp;&emsp;(ii) provide a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives explaining in detail the basis for the determination by the Administrator that such an adjustment would not be fair and appropriate.
+
+&emsp;(C)
+
+Qualified areas.—In this paragraph, the term “qualified area” means—
+
+&emsp;&emsp;(i) Iraq,
+
+&emsp;&emsp;(ii) Afghanistan, and
+
+&emsp;&emsp;(iii) any foreign country which included a combat zone, as that term is defined in section 112(c)(2) of title 26, at the time of performance of the relevant Federal contract or subcontract.
+
 #### (b) “Agency” defined
 
 For purposes of this chapter, any reference to an agency or department of the United States, and the term “Federal agency”, shall have the meaning given the term “agency” by section 551(1) of title 5, but does not include the United States Postal Service or the Government Accountability Office.
@@ -70,7 +96,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(i) which is an employee benefit plan which is designed to invest primarily in qualifying employer securities (as defined in section 4975(e)(8) of title 26),
 
-&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as tothe manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
+&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
 
 &emsp;&emsp;(iii) which provides that each participant who is entitled to distribution from the plan has a right, in the case of qualifying employer securities which are not readily tradeable on an established market, to require that the concern repurchase such securities under a fair valuation formula, and
 
@@ -134,7 +160,13 @@ For the purposes of this chapter, the term “small agricultural cooperative” 
 
 #### (k) “Disaster” defined
 
-For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+(1) For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+
+(2) For purposes of section 636(b)(2) of this title, the term “disaster” includes—
+
+&emsp;(A) drought; and
+
+&emsp;(B) below average water levels in the Great Lakes, or on any body of water in the United States that supports commerce by small business concerns.
 
 #### (<i>l</i>) “Computer crime” defined
 
@@ -250,9 +282,11 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) in which—
 
-&emsp;&emsp;&emsp;&emsp;(I) the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce; or
+&emsp;&emsp;&emsp;&emsp;(I) the median household income is less than 80 percent of the nonmetropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce;
 
-&emsp;&emsp;&emsp;&emsp;(II) the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor.
+&emsp;&emsp;&emsp;&emsp;(II) the unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor; or
+
+&emsp;&emsp;&emsp;&emsp;(III) there is located a difficult development area, as designated by the Secretary of Housing and Urban Development in accordance with section 42(d)(5)(C)(iii) of title 26, within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States.
 
 #### (C) Redesignated area
 
@@ -260,9 +294,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
 
-&emsp;&emsp;&emsp;(ii) 3 years after
-
-the date on which the census tract or nonmetropolitan county ceased to be so qualified.
+&emsp;&emsp;&emsp;(ii) 3 years after the date on which the census tract or nonmetropolitan county ceased to be so qualified.
 
 #### (D) Base closure area
 
@@ -308,7 +340,7 @@ the date on which the census tract or nonmetropolitan county ceased to be so qua
 
 #### (B) Change in percentages
 
-&emsp;&emsp;The Administrator may utilize a percentage other than the percentage specified initem (aa) or (bb) of subparagraph (A)(i)(III), if the Administrator determines that such action is necessary to reflect conventional industry practices among small business concerns that are below the numerical size standard for businesses in that industry category.
+&emsp;&emsp;The Administrator may utilize a percentage other than the percentage specified in item (aa) or (bb) of subparagraph (A)(i)(III), if the Administrator determines that such action is necessary to reflect conventional industry practices among small business concerns that are below the numerical size standard for businesses in that industry category.
 
 #### (C) Construction and other contracts
 
@@ -400,7 +432,7 @@ As used in section 650 of this title:
 
 &emsp;&emsp;(C) the lending activities of such concern are not regulated by any Federal banking authority.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465.)
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996,110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390.)
 
 #### References in Text
 
@@ -419,6 +451,12 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+2006—Subsec. (a)(4). Pub. L. 109–163, §844, added par. (4).
+
+Subsec. (k). Pub. L. 109–163, §845(a)(1), designated existing provisions as par. (1) and added par. (2).
+
+2005—Subsec. (p)(4)(B)(ii)(III). Pub. L. 109–59 added subcl. (III).
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -464,7 +502,7 @@ Subsec. (p)(4)(B). Pub. L. 106–554, §1(a)(9) \[title VI, §611(b)\], added su
 
 &emsp;&emsp;“(II) in which the median household income is less than 80 percent of the nonmetropolitan State median household income; or
 
-&emsp;“(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewideaverage unemployment rate for the State in which the county is located.”
+&emsp;“(ii) that, based on the most recent data available from the Secretary of Labor, has an unemployment rate that is not less than 140 percent of the statewide average unemployment rate for the State in which the county is located.”
 
 Subsec. (p)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VI, §613(2)\], added subpar. (C).
 
@@ -562,7 +600,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1987 Amendment
 
-Section 12(c) of Pub. L. 100–26 provided that: “The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
+Section 12(c) of Pub. L. 100–26 provided that: “The amendments made by sections 5 \[amending section 2365 of Title 10, Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10\] and 10 \[amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section\] shall apply as if included in each instance ofthe Defense Acquisition Improvement Act (as specified in section 2) \[title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661\] when each was enacted \[Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively\].”
 
 #### Effective Date of 1986 Amendment; Initial Review of Standards
 
@@ -598,6 +636,8 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 #### Regulations
 
+Pub. L. 109–163, div. A, title VIII, §845(d), Jan. 6, 2006, 119 Stat. 3391, provided that: “Not later than 45 days after the date of enactment of this Act \[Jan. 6, 2006\], the Administrator of the Small Business Administration shall promulgate final rules to carry out this section \[amending this section and section 636 of this title\] and the amendments made by this section.”
+
 Section 605 of title VI of Pub. L. 105–135 provided that:
 
 “(a)
@@ -620,7 +660,7 @@ Listing of additional size standards.—The regulations required by paragraph (1
 
 #### HUBZone Status Time Line and Commencement
 
-Pub. L. 108–447, div. K, title I, §152(a)(2), Dec. 8, 2004, 118 Stat. 3457, provided that: “A base closure area thathas undergone final closure shall be treated as a HUBZone for purposes of the Small Business Act \[15 U.S.C. 631 et seq.\] for a period of 5 years.”
+Pub. L. 108–447, div. K, title I, §152(a)(2), Dec. 8, 2004, 118 Stat. 3457, provided that: “A base closure area that has undergone final closure shall be treated as a HUBZone for purposes of the Small Business Act \[15 U.S.C. 631 et seq.\] for a period of 5 years.”
 
 #### Continued Effectiveness of Numerical Size Standards in Effect on September 30, 1988
 

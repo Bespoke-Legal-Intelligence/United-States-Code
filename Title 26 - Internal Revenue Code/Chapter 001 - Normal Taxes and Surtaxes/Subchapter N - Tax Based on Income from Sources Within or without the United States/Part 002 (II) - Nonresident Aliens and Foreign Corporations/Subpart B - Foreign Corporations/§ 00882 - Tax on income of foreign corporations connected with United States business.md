@@ -36,7 +36,7 @@ In the case of a foreign corporation, except where the context clearly indicates
 
 #### (2) Deductions and credits allowed only if return filed
 
-&emsp;A foreign corporation shall receive the benefit of the deductions and credits allowed to it in this subtitle only by filing or causing to be filed with the Secretary a true and accurate return, in the manner prescribed in subtitle F, including therein all the information which the Secretary may deem necessary for the calculation of such deductions and credits. The preceding sentence shall not apply for purposes of the tax imposed by section 541 (relating to personal holding company tax), and shall not be construed to deny the credit provided by section 33 for tax withheld at source or the credit provided by section 34 for certain uses of gasoline.
+&emsp;A foreign corporation shall receive the benefit of the deductions and credits allowed to itin this subtitle only by filing or causing to be filed with the Secretary a true and accurate return, in the manner prescribed in subtitle F, including therein all the information which the Secretary may deem necessary for the calculation of such deductions and credits. The preceding sentence shall not apply for purposes of the tax imposed by section 541 (relating to personal holding company tax), and shall not be construed to deny the credit provided by section 33 for tax withheld at source or the credit provided by section 34 for certain uses of gasoline.
 
 #### (3) Foreign tax credit
 
@@ -52,7 +52,7 @@ In the case of a foreign corporation, except where the context clearly indicates
 
 &emsp;A foreign corporation which during the taxable year derives any income—
 
-&emsp;&emsp;(A) from real property located in the United States, or from any interest in such real property, including (i) gains from the sale or exchange of real property or an interest therein, (ii) rents or royalties frommines, wells, or other natural deposits, and (iii) gains described in section 631(b) or (c), and
+&emsp;&emsp;(A) from real property located in the United States, or from any interest in such real property, including (i) gains from the sale or exchange of real property or an interest therein, (ii) rents or royalties from mines, wells, or other natural deposits, and (iii) gains described in section 631(b) or (c), and
 
 &emsp;&emsp;(B) which, but for this subsection, would not be treated as income effectively connected with the conduct of a trade or business within the United States,
 
@@ -98,7 +98,7 @@ Subsec. (e). Pub. L. 99–514, §1236(a), inserted “The preceding sentence sha
 
 1976—Subsecs. (c)(1)(A), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1966—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
+1966—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, andthe returns of tax by agents, and inserted cross reference to section 906(b)(1).
 
 #### Effective Date of 1988 Amendment
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) ofPub. L. 97–424, set out as a note under section 34 of this title.
+Amendment by Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -137,10 +137,6 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by section 701(e)(4)(F) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11, 814, 864, 884, 887, 897, 906, 1442, 1445, 4373 of this title.
 
 <i><sup>1</sup></i><i> Par. (3) heading editorially supplied.</i>
 

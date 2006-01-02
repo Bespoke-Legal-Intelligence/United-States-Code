@@ -96,11 +96,11 @@ Subsec. (c)(3)(A)(ii). Pub. L. 101–624, §1815(1)(E), amended cl. (ii) general
 
 Subsec. (e). Pub. L. 101–624, §1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
 
-Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as follows: “This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
+Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as follows: “This section shall notapply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
 
 1988—Subsec. (c)(4). Pub. L. 100–233, §612(1), inserted “and other wildlife habitat” after “wetland”.
 
-Subsec. (e). Pub. L. 100–233, §612(2), inserted “or the difference between the amount of the outstanding loansecured by the land and the current value of the land, whichever is greater” at end of second sentence.
+Subsec. (e). Pub. L. 100–233, §612(2), inserted “or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater” at end of second sentence.
 
 #### Effective Date of 1996 Amendment
 

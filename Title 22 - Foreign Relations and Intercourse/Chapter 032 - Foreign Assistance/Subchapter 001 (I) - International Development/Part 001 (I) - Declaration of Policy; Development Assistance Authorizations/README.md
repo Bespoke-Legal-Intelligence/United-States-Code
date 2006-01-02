@@ -50,3 +50,6 @@ Part I—Declaration of Policy; Development Assistance Authorizations
 - [&sect; 02152c - Programs to encourage good governance](%C2%A7%2002152c%20-%20Programs%20to%20encourage%20good%20governance.md)
 - [&sect; 02152d - Assistance to foreign countries to meet minimum standards for the elimination of trafficking](%C2%A7%2002152d%20-%20Assistance%20to%20foreign%20countries%20to%20meet%20minimum%20standards%20for%20the%20elimination%20of%20trafficking.md)
 - [&sect; 02152e - Program to improve building construction and practices in Latin American countries](%C2%A7%2002152e%20-%20Program%20to%20improve%20building%20construction%20and%20practices%20in%20Latin%20American%20countries.md)
+- [&sect; 02152f - Assistance for orphans and other vulnerable children](%C2%A7%2002152f%20-%20Assistance%20for%20orphans%20and%20other%20vulnerable%20children.md)
+- [&sect; 02152g - Annual report](%C2%A7%2002152g%20-%20Annual%20report.md)
+- [&sect; 02152h - Assistance to provide safe water and sanitation](%C2%A7%2002152h%20-%20Assistance%20to%20provide%20safe%20water%20and%20sanitation.md)

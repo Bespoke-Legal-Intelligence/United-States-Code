@@ -28,7 +28,7 @@ Notwithstanding any other provision of law (including section 6032 of this title
 
 #### (c) Denial of funds to Cuban Government
 
-In implementing this section, the President shall take all necessary steps to ensure that no funds or other assistance is provided to the Cuban Government.
+In implementing this section, the President shall take all necessary steps to ensure that nofunds or other assistance is provided to the Cuban Government.
 
 (Pub. L. 104–114, title I, §109, Mar. 12, 1996, 110 Stat. 799.)
 

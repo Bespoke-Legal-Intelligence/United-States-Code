@@ -1,6 +1,6 @@
 ### §513. Enlistments: Delayed Entry Program
 
-(a) A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in a regular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
+(a) A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in a regular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
 
 (b)(1) Unless sooner ordered to active duty under chapter 39 of this title or another provision of law, a person enlisted under subsection (a) shall, within 365 days after such enlistment, be discharged from the reserve component in which enlisted and immediately be enlisted in the regular component of an armed force. The Secretary concerned may extend the 365-day period for any person for up to an additional 365 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.
 
@@ -10,7 +10,7 @@
 
 (d) This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, §512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, §512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233.)
 
 #### References in Text
 
@@ -22,11 +22,13 @@ A prior section 513, act Aug. 10, 1956, ch. 1041, 70A Stat. 18, related to promo
 
 #### Amendments
 
+2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+
 2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1999—Subsec. (b)(1). Pub. L. 106–65 substituted “additional 365 days” for “additional 180 days” in second sentence.
 
-1996—Subsec. (b). Pub. L. 104–201 inserted “The Secretary concerned may extend the 365-day period for any person for up to an additional 180 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.” after first sentence, “(1)” before “Unless”, and “(2)” before “During” and substituted “paragraph (1)” for “the preceding sentence”.
+1996—Subsec. (b). Pub. L. 104–201 inserted “The Secretary concerned may extend the 365-day period for any person for up to an additional 180 days if the Secretarydetermines that it is in the best interests of the armed force of which that person is a member to do so.” after first sentence, “(1)” before “Unless”, and “(2)” before “During” and substituted “paragraph (1)” for “the preceding sentence”.
 
 1990—Subsecs. (b), (c). Pub. L. 101–510 substituted “subsection (a)” for “paragraph (1)”.
 
@@ -101,8 +103,4 @@ Report.—Not later than February 1, 2004, the Secretary shall submit to the Com
 &emsp;“(2) Any recommendation for legislation or other action that the Secretary considers appropriate to achieve those objectives through grants of entry delays and financial benefits for advanced education and training of recruits.”
 
 \[Pub. L. 107–107, div. A, title V, §542(d), Dec. 28, 2001, 115 Stat. 1112, provided that: “The amendments made by this section \[amending section 573 of Pub. L. 106–65, set out above\] shall apply with respect to persons who, on or after the date of the enactment of this Act \[Dec. 28, 2001\], are enlisted as described in subsection (a) of section 513 of title 10, United States Code, with delayed entry authorized under that section.”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 520c, 10147 of this title; title 37 section 205.
 

@@ -1,0 +1,16 @@
+### §232. United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts
+
+(a)
+
+Requirement.—Amounts for research, development, test, and evaluation for the United States Joint Forces Command shall be derived only from amounts made available to the Department of Defense for Defense-wide research, development, test, and evaluation.
+
+(b)
+
+Separate Display in Budget.—Any amount in the budget submitted to Congress under section 1105 of title 31 for any fiscal year for research, development, test, and evaluation for the United States Joint Forces Command shall be set forth under the account of the Department of Defense for Defense-wide research, development, test, and evaluation.
+
+(Added Pub. L. 108–375, div. A, title II, §214(a), Oct. 28, 2004, 118 Stat. 1834.)
+
+#### Effective Date
+
+Pub. L. 108–375, div. A, title II, §214(c), Oct. 28, 2004, 118 Stat. 1834, provided that: “Section 232 of title 10, United States Code (as added by subsection (a))\[,\] applies to fiscal years beginning with fiscal year 2007.”
+

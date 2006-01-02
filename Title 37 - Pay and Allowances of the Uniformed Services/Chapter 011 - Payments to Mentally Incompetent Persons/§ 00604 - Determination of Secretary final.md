@@ -1,6 +1,6 @@
 ### §604. Determination of Secretary final
 
-The determination as to the person authorized to receive a payment under section 602 of thistitle is final and is not subject to review by an official of the United States or a court.
+The determination as to the person authorized to receive a payment under section 602 of this title is final and is not subject to review by an official of the United States or a court.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 89–718, §66, Nov. 2, 1966, 80 Stat. 1123.)
 

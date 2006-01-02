@@ -26,7 +26,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (5) Net capital gains
 
-&emsp;There shall be allowed as a deduction the net capital gain for the taxable year, minus the taxes imposed by this subtitle attributableto such net capital gain. The taxes attributable to such net capital gain shall be an amount equal to the difference between—
+&emsp;There shall be allowed as a deduction the net capital gain for the taxable year, minus the taxes imposed by this subtitle attributable to such net capital gain. The taxes attributable to such net capital gain shall be an amount equal to the difference between—
 
 &emsp;&emsp;(A) the taxes imposed by this subtitle (except the tax imposed by this part) for such year, and
 
@@ -152,11 +152,7 @@ Section 32(c) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-Section 1951(b)(9)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], if any amount was deducted under paragraph (9) of section 545(b) in a taxable year beginning before January 1, 1977, on account of a lien which is satisfied or released in a taxable year beginning on or after such date, the amount so deducted shall be included in income, for purposes of section 545, as provided in the second sentence of such paragraph. Shareholders of any corporation which has amounts included in its income by reason of the preceding sentence may elect to compute the income tax on dividends attributable to amounts so included as provided in the third sentence of such paragraph.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 170, 316, 501, 508, 541, 564, 631, 4947, 4948 of this title.
+Section 1951(b)(9)(B) of Pub. L. 94–455 provided that: “Notwithstanding subparagraph (A) \[amending this section\], if any amount was deducted under paragraph (9) of section 545(b) in a taxable year beginning before January 1, 1977, on account of a lien which is satisfied or released in a taxable year beginning on or after such date, the amount so deducted shall be included in income, for purposes of section 545, as provided in the second sentence of such paragraph. Shareholders of any corporation which has amounts included in its incomeby reason of the preceding sentence may elect to compute the income tax on dividends attributable to amounts so included as provided in the third sentence of such paragraph.”
 

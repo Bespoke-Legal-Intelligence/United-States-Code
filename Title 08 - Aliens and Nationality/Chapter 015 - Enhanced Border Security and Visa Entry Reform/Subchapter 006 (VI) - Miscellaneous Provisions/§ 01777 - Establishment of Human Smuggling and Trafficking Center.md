@@ -34,3 +34,7 @@ As part of its mission to combat terrorist travel, the Center shall work to supp
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Enhanced Border Security and Visa Entry Reform Act of 2002 which comprises this chapter.
 
+#### Delegation of Functions
+
+For assignment of functions of President under subsec. (d) of this section, see section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.
+

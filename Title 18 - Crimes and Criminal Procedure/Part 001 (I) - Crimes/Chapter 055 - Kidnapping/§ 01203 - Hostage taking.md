@@ -12,7 +12,7 @@
 
 (2) It is not an offense under this section if the conduct required for the offense occurred inside the United States, each alleged offender and each person seized or detained are nationals of the United States, and each alleged offender is found in the United States, unless the governmental organization sought to be compelled is the Government of the United States.
 
-(c) As used in this section, the term “national of the United States” has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+(c) As used in this section, the term “national of the United States” has the meaning givensuch term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
 (Added Pub. L. 98–473, title II, §2002(a), Oct. 12, 1984, 98 Stat. 2186; amended Pub. L. 100–690, title VII, §7028, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(10), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 104–132, title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300.)
 

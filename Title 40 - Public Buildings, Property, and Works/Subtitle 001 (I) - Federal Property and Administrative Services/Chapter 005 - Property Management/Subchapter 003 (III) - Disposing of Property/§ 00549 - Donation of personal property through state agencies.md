@@ -70,7 +70,7 @@ Recipients and purposes.—The Administrator shall transfer to a state agency pr
 
 &emsp;&emsp;(A) to a public agency for use in carrying out or promoting, for residents of a given political area, a public purpose, including conservation, economic development, education, parks and recreation, public health, and public safety; or
 
-&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofit educational or public health institution or organization that is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
+&emsp;&emsp;(B) for purposes of education or public health (including research), to a nonprofiteducational or public health institution or organization that is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501), including—
 
 &emsp;&emsp;&emsp;(i) a medical institution, hospital, clinic, health center, or drug abuse treatment center;
 
@@ -158,11 +158,11 @@ Return and redistribution for non-use.—The state plan of operation shall requi
 
 &emsp;&emsp;(E)
 
-Request by recipient.—The state plan of operation shall require the state agency, to the extent practicable, to select propertyrequested by a public agency or other eligible institution in the State and, if requested by the recipient, to arrange shipment of the property directly to the recipient.
+Request by recipient.—The state plan of operation shall require the state agency, to the extent practicable, to select property requested by a public agency or other eligible institution in the State and, if requested by the recipient, to arrange shipment of the property directly to the recipient.
 
 &emsp;&emsp;(F)
 
-Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs of its activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
+Service charges.—If the state agency is authorized to assess and collect service charges from participating recipients to cover direct and reasonable indirect costs ofits activities, the method of establishing the charges shall be set out in the state plan of operation. The charges shall be fair and equitable and shall be based on services the state agency performs, including screening, packing, crating, removal, and transportation.
 
 &emsp;&emsp;(G)
 

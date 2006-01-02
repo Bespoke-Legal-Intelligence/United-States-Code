@@ -2,7 +2,7 @@
 
 (a)
 
-Officers Below the Grade of Colonel or Navy Captain.—An officer on the reserve active-status list in a grade below the grade of colonel or, in the case of an officer in the Naval Reserve, captain who is in or above the promotion zone established for that officer's grade and competitive category and who (1) is considered but not recommended for promotion (other than by a vacancy promotion board), or (2) declines to accept a promotion for which selected (other than by a vacancy promotion board), shall be considered to have failed of selection for promotion.
+Officers Below the Grade of Colonel or Navy Captain.—An officer on the reserve active-status list in a grade below the grade of colonel or, in the case of an officer in the Navy Reserve, captain who is in or above the promotion zone established for that officer's grade and competitive category and who (1) is considered but not recommended for promotion (other than by a vacancy promotion board), or (2) declines to accept a promotion for which selected (other than by a vacancy promotion board), shall be considered to have failed of selection for promotion.
 
 (b)
 
@@ -18,9 +18,11 @@ Officers Twice Failed of Selection.—An officer shall be considered for all pur
 
 &emsp;&emsp;(B) the officer's name is again removed from the report of a selection board under section 14111(b) or from a promotion list under section 14310 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2946; amended Pub. L. 104–106, div. A, title XV, §1501(b)(28), Feb. 10, 1996, 110 Stat. 498.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2946; amended Pub. L. 104–106, div. A, title XV, §1501(b)(28), Feb. 10, 1996, 110 Stat. 498; Pub. L. 109–163, div. A, title V, §515(b)(1)(TT), Jan. 6, 2006, 119 Stat. 3234.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1996—Subsec. (a). Pub. L. 104–106 inserted heading.
 
@@ -58,7 +60,7 @@ Exemption.—This section does not apply to an officer who is—
 
 #### Mandatory Separation for Age for Certain Reserve Officers of Navy and Marine Corps
 
-Section 1690 of title XVI of div. A of Pub. L. 103–337 provided that:
+Pub. L. 103–337, div. A, title XVI, §1690, Oct. 5, 1994, 108 Stat. 3025, provided that:
 
 “(a)
 
@@ -76,11 +78,7 @@ Savings Provisions for Required Separation Age.—A reserve officer of the Navy 
 
 “(b)
 
-Savings Provisions for Mandatory Separation for Age.—An officer who was initially appointed in the Naval Reserve or the Marine Corps Reserve before January 1, 1953, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 62 years of age, but can complete this service by the time he becomes 64 years of age, may be retained in an active status not later than the date he becomes 64 years of age.
+Savings Provisions for Mandatory Separation for Age.—An officer who was initially appointed in the Naval Reserve \[now Navy Reserve\] or the Marine Corps Reserve before January 1, 1953, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 62 years of age, but can complete this service by the time he becomes 64 years of age, may be retained in an active status not later than the date he becomes 64 years of age.
 
-“(c) An officer who was initially appointed in the Naval Reserve or the Marine Corps Reserve before the effective date of this title, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 60 years of age, but can complete this service by the time he becomes 62 years of age, may be retained in an active status not later than the date he becomes 62 years of age.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14315, 14316 of this title.
+“(c) An officer who was initially appointed in the Naval Reserve \[now Navy Reserve\] or the Marine Corps Reserve before the effective date of this title, and who cannot complete 20 years of service computed under section 12732 of this title before he becomes 60 years of age, but can complete this service by the time he becomes 62 years of age, may be retained in an active status not later than the date he becomes 62 years of age.”
 

@@ -38,6 +38,8 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 &emsp;&emsp;(G) The Office of the Director of the National Security Agency.
 
+&emsp;&emsp;(H) The Office of the Inspector General of the National Security Agency.
+
 #### (d) Information derived or disseminated from exempted operational files
 
 (1) Files that are not exempted under subsection (a) of this section that contain information derived or disseminated from exempted operational files shall be subject to search and review.
@@ -88,13 +90,15 @@ The provisions of subsection (a) of this section may not be superseded except by
 
 &emsp;(B) Whether the National Security Agency, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-(July 26, 1947, ch. 343, title VII, §704, as added Pub. L. 108–136, div. A, title IX, §922(a), Nov. 24, 2003, 117 Stat. 1570; amended Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(JJ)–(LL), Dec. 17, 2004, 118 Stat. 3689.)
+(July 26, 1947, ch. 343, title VII, §704, as added Pub. L. 108–136, div. A, title IX, §922(a), Nov. 24, 2003, 117 Stat. 1570; amended Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(JJ)–(LL), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 109–163, div. A, title IX, §933(b)(3), Jan. 6, 2006, 119 Stat. 3416.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(2)(E), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2006—Subsec. (c)(3)(H). Pub. L. 109–163 added subpar. (H).
 
 2004—Subsec. (a). Pub. L. 108–458, §1071(a)(1)(JJ), which directed amendment of par. (1) of subsec. (a) by substituting “Director of National Intelligence” for “Director of Central Intelligence”, was executed to text of subsec. (a), which does not contain any pars., to reflect the probable intent of Congress.
 
@@ -105,6 +109,8 @@ Subsec. (f)(2)(H). Pub. L. 108–458, §1071(a)(1)(KK), substituted “Director 
 Subsec. (g)(1). Pub. L. 108–458, §1071(a)(1)(LL), substituted “Director of National Intelligence” for “Director of Central Intelligence” in two places.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

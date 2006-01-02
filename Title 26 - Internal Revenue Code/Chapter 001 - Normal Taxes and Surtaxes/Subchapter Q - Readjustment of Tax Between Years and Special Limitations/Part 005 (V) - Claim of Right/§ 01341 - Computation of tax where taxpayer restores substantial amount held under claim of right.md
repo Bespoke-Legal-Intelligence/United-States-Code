@@ -42,7 +42,7 @@ If—
 
 &emsp;(B) a net operating loss or capital loss sustained for the prior taxable year (or years), if paragraph (5)(B) of subsection (a) applied.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 348; Pub. L. 85–866, title I, §60(a)–(d), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 87–863, §5(a), Oct. 23, 1962, 76 Stat.1142; Pub. L. 88–272, title II, §234(b)(7), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §1901(a)(146), Oct. 4, 1976, 90 Stat. 1788.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 348; Pub. L. 85–866, title I, §60(a)–(d), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 87–863, §5(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 88–272, title II, §234(b)(7), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §1901(a)(146), Oct. 4, 1976, 90 Stat. 1788.)
 
 #### References in Text
 
@@ -81,8 +81,4 @@ Section 5(b) of Pub. L. 87–863 provided that: “The amendment made by subsect
 Amendment by section 60(a), (c), (d) of Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 Section 60(e) of Pub. L. 85–866 provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1957. No interest shall be allowed or paid on any overpayment resulting from the application of the amendment made by subsection (c) \[amending this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5, 67, 6213, 6411 of this title.
 

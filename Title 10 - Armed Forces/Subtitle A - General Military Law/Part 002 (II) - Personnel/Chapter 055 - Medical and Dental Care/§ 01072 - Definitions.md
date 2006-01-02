@@ -24,13 +24,13 @@ In this chapter:
 
 &emsp;&emsp;(F) the unremarried former spouse of a member or former member who (i) on the date of the final decree of divorce, dissolution, or annulment, had been married to the member or former member for a period of at least 20 years during which period the member or former member performed at least 20 years of service which is creditable in determining that member's or former member's eligibility for retired or retainer pay, or equivalent pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
 
-&emsp;&emsp;(G) a person who (i) is the unremarried former spouse of a member or former member who performed at least 20 years of service which is creditable in determining the member or former member's eligibility for retired or retainer pay, or equivalent pay, and on the date of the final decree of divorce, dissolution, or annulment before April 1, 1985, had been married to the member or former member for a period of at least 20 years, at least 15 of which, but less than 20 of which, were during the period the member or former member performed servicecreditable in determining the member or former member's eligibility for retired or retainer pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
+&emsp;&emsp;(G) a person who (i) is the unremarried former spouse of a member or former member who performed at least 20 years of service which is creditable in determining the member or former member's eligibility for retired or retainer pay, or equivalent pay, and on the date of the final decree of divorce, dissolution, or annulment before April 1, 1985, had been married to the member or former member for a period of at least 20 years, at least 15 of which, but less than 20 of which, were during the period the member or former member performed service creditable in determining the member or former member's eligibility for retired or retainer pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
 
 &emsp;&emsp;(H) a person who would qualify as a dependent under clause (G) but for the fact that the date of the final decree of divorce, dissolution, or annulment of the person is on or after April 1, 1985, except that the term does not include the person after the end of the one-year period beginning on the date of that final decree; and
 
 &emsp;&emsp;(I) an unmarried person who—
 
-&emsp;&emsp;&emsp;(i) is placed in the legal custody of the member or former member as a result of an order of a court of competent jurisdiction in the United States (or a Territory or possession of the United States) for a period of at least 12 consecutive months;
+&emsp;&emsp;&emsp;(i) is placed in the legal custody of the member or former member as a result of an order of a court of competent jurisdiction in the United States (or possession of the United States) for a period of at least 12 consecutive months;
 
 &emsp;&emsp;&emsp;(ii) either—
 
@@ -62,7 +62,7 @@ In this chapter:
 
 &emsp;&emsp;(D) An unmarried person—
 
-&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placement agency (recognized by the Secretary of Defense) in anticipation of the legal adoption of the person by the member or former member; and
+&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placement agency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
 
 &emsp;&emsp;&emsp;(ii) who otherwise meets the requirements specified in paragraph (2)(D).
 
@@ -80,7 +80,7 @@ In this chapter:
 
 &emsp;&emsp;(B) members of the patient's family are unwilling to provide the care.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, §592(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440.)
 
 Historical and Revision Notes
 
@@ -111,6 +111,10 @@ Clause (2)(E) combines 37:402(a)(4)(E) and (G).
 A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms used in former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2006—Par. (2)(I)(i). Pub. L. 109–163, §1057(a)(2), struck out “or a Territory” before “or possession”.
+
+Par. (6)(D)(i). Pub. L. 109–163, §592(b), inserted “, or by any other source authorized by State or local law to provide adoption placement,” after “(recognized by the Secretary of Defense)”.
 
 2001—Pars. (8), (9). Pub. L. 107–107 added pars. (8) and (9).
 
@@ -160,7 +164,7 @@ Pub. L. 89–614 substituted “1087” for “1085” in introductory phrase.
 
 #### Effective Date of 1993 Amendment
 
-Section 702(b) of Pub. L. 103–160 provided that: “Section 1072(2)(I) of title 10, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
+Section 702(b) of Pub. L. 103–160 provided that: “Section 1072(2)(I) of title 10, United States Code, as addedby subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
 
 #### Effective Date of 1989 Amendment
 
@@ -225,8 +229,4 @@ Section 731(e) of Pub. L. 101–189 provided that:
 #### Dependent; Qualification as; Effective Date
 
 Section 645(c) of Pub. L. 98–525, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1040, 1060a, 1062, 1074h, 1076a, 1076b, 1076c, 1078a, 1079, 1086, 1086a, 1095d, 1097a, 1108, 1111, 1448, 1481, 1490, 1789, 2114, 2147 of this title; title 42 sections 1320d, 1395r.
 

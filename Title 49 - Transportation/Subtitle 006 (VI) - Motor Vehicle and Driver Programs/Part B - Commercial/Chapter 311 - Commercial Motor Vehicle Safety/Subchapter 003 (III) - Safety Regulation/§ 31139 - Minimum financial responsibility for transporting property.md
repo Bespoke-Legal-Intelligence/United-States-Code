@@ -18,7 +18,7 @@ Definitions.—In this section—
 
 (b)
 
-General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
+General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property by commercial motor vehicle in the United States between a place in a State and—
 
 &emsp;(A) a place in another State;
 
@@ -29,6 +29,10 @@ General Requirement and Minimum Amount.—(1) The Secretary of Transportation sh
 (2) The level of financial responsibility established under paragraph (1) of this subsection shall be at least $750,000.
 
 (c)
+
+Filing of Evidence of Financial Responsibility.—The Secretary may require a motor private carrier (as defined in section 13102) to file with the Secretary the evidence of financial responsibility specified in subsection (b) in an amount not less than the greater of the minimum amount required by this section or the amount required for such motor private carrier to transport property under the laws of the State or States in which the motor private carrier is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the motor private carrier for bodily injury to, or death of, an individual resulting from negligent operation, maintenance, or use of the commercial motor vehicle, or for loss or damage to property, or both.
+
+(d)
 
 Requirements for Hazardous Matter and Oil.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation by motor vehicle in interstate or intrastate commerce of—
 
@@ -60,11 +64,11 @@ Requirements for Hazardous Matter and Oil.—(1) The Secretary of Transportation
 
 &emsp;(B) a farm vehicle transporting such a material or substance in interstate commerce (except in bulk).
 
-(d)
+(e)
 
 Foreign Motor Carriers and Private Carriers.—Regulations prescribed under this section may allow foreign motor carriers and foreign motor private carriers (as those terms are defined in section 10530 of this title) providing transportation of property under a certificate of registration issued under section 10530 to meet the minimum levels of financial responsibility under this section only when those carriers are providing transportation for property in the United States.
 
-(e)
+(f)
 
 Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this subsection, financial responsibility may be established by evidence of one or a combination of the following if acceptable to the Secretary of Transportation:
 
@@ -80,7 +84,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
 
-(f)
+(g)
 
 Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secretary of Transportation finds that a person (except an employee acting without knowledge) has knowingly violated this section or a regulation prescribed under this section, the person is liable to the United States Government for a civil penalty of not more than $10,000 for each violation. A separate violation occurs for each day the violation continues.
 
@@ -96,9 +100,9 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
-(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Treasury as miscellaneous receipts.
+(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
-(g)
+(h)
 
 Nonapplication.—This section does not apply to a motor vehicle having a gross vehicle weight rating of less than 10,000 pounds if the vehicle is not used to transport in interstate or foreign commerce—
 
@@ -108,7 +112,7 @@ Nonapplication.—This section does not apply to a motor vehicle having a gross 
 
 &emsp;(3) a large quantity of radioactive material.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1006; Pub. L. 104–88, title I, §104(e), Dec. 29, 1995, 109 Stat. 919.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1006; Pub. L. 104–88, title I, §104(e), Dec. 29, 1995, 109 Stat. 919; Pub. L. 109–59, title IV, §§4120(b), 4121, Aug. 10, 2005, 119 Stat. 1733, 1734.)
 
 Historical and Revision Notes
 
@@ -185,6 +189,16 @@ In subsection (f)(5), the words “when finally determined (or agreed upon in co
 In subsection (g)(1) and (2), the words “any quantity of” are omitted as surplus.
 
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out “for compensation” after “property” and inserted “commercial” before “motor vehicle” in introductory provisions.
+
+Subsecs. (c) to (f). Pub. L. 109–59, §4120(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 109–59, §4120(b)(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (g)(5). Pub. L. 109–59, §4121, which directed amendment of subsec. (f)(5) by substituting “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”, was executed to subsec. (g)(5) to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by Pub. L. 109–59, §4120(b)(2). See above.
+
+Subsec. (h). Pub. L. 109–59, §4120(b)(2), redesignated subsec. (g) as (h).
 
 1995—Subsec. (e)(3). Pub. L. 104–88 added par. (3).
 

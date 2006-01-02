@@ -20,7 +20,7 @@ Another section 1040, related to free postage from combat zones, was added by Pu
 
 1986—Subsec. (a). Pub. L. 99–661 substituted “In addition to transportation of a dependent at the expense of the United States authorized under this subsection, reasonable travel expenses incurred in connection with the transportation of the dependent may be paid at the expense of the United States. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance” for “, and such expenses may be paid in advance”.
 
-Subsec. (c). Pub. L. 99–348 substituted “In this section, the term ‘dependent’ has the meaning given that term in” for “ ‘Dependent’ and ‘uniformed services’ in this section have the meanings of those terms as defined in”.
+Subsec. (c). Pub. L. 99–348 substituted “In this section, the term ‘dependent’ has the meaning given that term in” for “ ‘Dependent’ and ‘uniformed services’ inthis section have the meanings of those terms as defined in”.
 
 1984—Subsec. (a). Pub. L. 98–525, §1405(21), substituted “30” for “thirty”.
 

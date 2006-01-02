@@ -48,7 +48,7 @@ To the extent provided in regulations prescribed by the Secretary, this section 
 
 #### (e) General regulatory authority
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section. Such regulations may treat domestic service employment taxes as taxes imposed by chapter 1 for purposes of coordinating the assessment and collection of such employment taxes with the assessment and collection of domestic employers’ income taxes.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section. Such regulations may treat domestic service employment taxes as taxes imposed by chapter 1 for purposes of coordinating the assessment and collection of such employment taxes with the assessment and collection of domestic employers’ income taxes.
 
 #### (f) Authority to enter into agreements to collect State unemployment taxes
 
@@ -82,10 +82,6 @@ Section 2(b)(3) of Pub. L. 103–387 provided that: “The amendments made by th
 
 Section 2(b)(4) of Pub. L. 103–387 provided that: “The Secretary of the Treasury or the Secretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 1320b–7.
-
 ## Subtitle D—Miscellaneous Excise Taxes
 
 | Chapter |  | Sec.<sup>1</sup> |
@@ -114,13 +110,15 @@ This section is referred to in title 42 section 1320b–7.
 | <b>42.</b> | <b>Private foundations; and certain other tax-exempt organizations</b> | <b>4940</b> |
 | <b>43.</b> | <b>Qualified pension, etc., plans</b> | <b>4971</b> |
 | <b>44.</b> | <b>Real estate investment trusts</b> | <b>4981</b> |
-| <b>\[45.</b> | <b>Repealed.\]</b> |  |
+| <b>45.</b> | <b>Provisions relating to expatriated entities</b> | <b>4985</b> |
 | <b>46.</b> | <b>Golden parachute payments</b> | <b>4999</b> |
 | <b>47.</b> | <b>Certain group health plans</b> | <b>5000</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §802(c)(2), Oct. 22, 2004, 118 Stat. 1568, added item for chapter 45.
 
 1990—Pub. L. 101–508, title XI, §11801(b)(17), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for chapter 37 “Sugar, coconut and palm oil”.
 
@@ -151,8 +149,4 @@ Pub. L. 96–223, §101(a)(2), Apr. 2, 1980, 94 Stat. 250, added item for chapte
 1969—Pub. L. 91–172, title I, §101(j)(59), Dec. 30, 1969, 83 Stat. 532, added item for chapter 42.
 
 1964—Pub. L. 88–563, §2(b), Sept. 2, 1964, 78 Stat. 841, added item for chapter 41.
-
-#### Subtitle Referred to in Other Sections
-
-This subtitle is referred to in sections 6103, 6110, 6302, 6501, 6676, 6724, 7463, 7851 of this title.
 

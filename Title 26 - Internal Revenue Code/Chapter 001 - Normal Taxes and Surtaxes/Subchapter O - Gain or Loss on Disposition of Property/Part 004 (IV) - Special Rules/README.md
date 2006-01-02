@@ -7,8 +7,7 @@
 | [1053\.](%C2%A7%2001053%20-%20Property%20acquired%20before%20March%201%2C%201913.md) | Property acquired before March 1, 1913. |
 | [1054\.](%C2%A7%2001054%20-%20Certain%20stock%20of%20Federal%20National%20Mortgage%20Association.md) | Certain stock of Federal National Mortgage Association. |
 | [1055\.](%C2%A7%2001055%20-%20Redeemable%20ground%20rents.md) | Redeemable ground rents. |
-| [1056\.](%C2%A7%2001056%20-%20Basis%20limitation%20for%20player%20contracts%20transferred%20in%20connection%20with%20the%20sale%20of%20a%20franchise.md) | Basis limitation for player contracts transferred in connection with the the sale of a franchise. |
-| \[1057. | Repealed.\] |
+| \[1056, 1057. | Repealed.\] |
 | [1058\.](%C2%A7%2001058%20-%20Transfers%20of%20securities%20under%20certain%20agreements.md) | Transfers of securities under certain agreements. |
 | [1059\.](%C2%A7%2001059%20-%20Corporate%20shareholder%27s%20basis%20in%20stock%20reduced%20by%20nontaxed%20portion%20of%20extraordinary%20dividends.md) | Corporate shareholder's basis in stock reduced by nontaxed portion of extraordinary dividends. |
 | [1059A.](%C2%A7%2001059A%20-%20Limitation%20on%20taxpayer%27s%20basis%20or%20inventory%20cost%20in%20property%20imported%20from%20related%20persons.md) | Limitation on taxpayer's basis or inventory cost in property imported from related persons. |
@@ -18,6 +17,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §886(b)(1)(B), Oct. 22, 2004, 118 Stat. 1641, struck out item 1056 “Basis limitation for player contracts transferred in connection with the the sale of a franchise”.
 
 1997—Pub. L. 105–34, title XI, §1131(c)(5), Aug. 5, 1997, 111 Stat. 980, struck out item 1057 “Election to treat transfer to foreign trust, etc., as taxable exchange”.
 
@@ -43,7 +44,7 @@
 - [&sect; 01053 - Property acquired before March 1, 1913](%C2%A7%2001053%20-%20Property%20acquired%20before%20March%201%2C%201913.md)
 - [&sect; 01054 - Certain stock of Federal National Mortgage Association](%C2%A7%2001054%20-%20Certain%20stock%20of%20Federal%20National%20Mortgage%20Association.md)
 - [&sect; 01055 - Redeemable ground rents](%C2%A7%2001055%20-%20Redeemable%20ground%20rents.md)
-- [&sect; 01056 - Basis limitation for player contracts transferred in connection with the sale of a franchise](%C2%A7%2001056%20-%20Basis%20limitation%20for%20player%20contracts%20transferred%20in%20connection%20with%20the%20sale%20of%20a%20franchise.md)
+- [&sect; 01056 - Repealed. Pub. L. 108&#8211;357, title VIII, &sect;886(b)(1)(A), Oct. 22, 2004, 118 Stat. 1641](%C2%A7%2001056%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20VIII%2C%20%C2%A7886%28b%29%281%29%28A%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201641.md)
 - [&sect; 01057 - Repealed. Pub. L. 105&#8211;34, title XI, &sect;1131(c)(2), Aug. 5, 1997, 111 Stat. 980](%C2%A7%2001057%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9334%2C%20title%20XI%2C%20%C2%A71131%28c%29%282%29%2C%20Aug.%205%2C%201997%2C%20111%20Stat.%20980.md)
 - [&sect; 01058 - Transfers of securities under certain agreements](%C2%A7%2001058%20-%20Transfers%20of%20securities%20under%20certain%20agreements.md)
 - [&sect; 01059 - Corporate shareholder's basis in stock reduced by nontaxed portion of extraordinary dividends](%C2%A7%2001059%20-%20Corporate%20shareholder%27s%20basis%20in%20stock%20reduced%20by%20nontaxed%20portion%20of%20extraordinary%20dividends.md)

@@ -74,7 +74,7 @@ Subsec. (b)(5). Pub. L. 101–508, §6002(a)(2), added par. (5).
 
 Subsec. (c)(1). Pub. L. 101–508, §6002(b)(1), substituted “section 1232(g)(1)” for “section 1232(g)(2)”.
 
-Subsec. (c)(2). Pub. L. 101–508, §6002(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “for use under section 1236 of this title, by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
+Subsec. (c)(2). Pub. L. 101–508, §6002(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “for use under section 1236 of this title, by the Secretary of Agriculture, of up to one-fifth of the money deposited in the funds annually and transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes;”.
 
 Subsec. (c)(6). Pub. L. 101–508, §6002(b)(3), struck out “by contract” after “Department of the Interior” and inserted “conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986” after “projects”.
 
@@ -100,5 +100,5 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681�
 
 Pub. L. 99–509, title III, §3501, Oct. 21, 1986, 100 Stat. 1891, as amended by Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172, provided that: “After the enactment of this Act, the research and demonstration authorities of the Department of the Interior under the provisions of section 401(c)(6) of the Surface Mining Control and Reclamation Act of 1977 (Public Law 95–87) \[30 U.S.C. 1231(c)(6)\] shall be transferred to, and carried out by, the Director of the United States Bureau of Mines. Research and demonstration projects under such provision shall be selected by a panel appointed by the Director of the United States Bureau of Mines to be comprised of 9 persons, including 4 representatives of State abandoned mine reclamation programs, 4 representatives of the United States Bureau of Mines, and one representative of the Office of Surface Mining Reclamation and Enforcement.”
 
-\[For provisions relating to closure and transfer of functions of the United States Bureau of Mines, seeTransfer of Functions note set out under section 1 of this title.\]
+\[For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.\]
 

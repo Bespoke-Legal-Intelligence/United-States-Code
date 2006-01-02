@@ -40,7 +40,7 @@ Foreign governments, international organizations and private individuals, firms,
 
 #### (g) Currency exchanges
 
-Notwithstanding any other provision of this chapter, there are authorized to be appropriated for the purposes of making currency exchanges under section 2452(b)(10) of this title, not to exceed $10,000,000 for the fiscal year ending June 30, 1968, and not to exceed $15,000,000 for the fiscal year ending June 30, 1969.
+Notwithstanding any other provision of this chapter, there are authorized to be appropriated for the purposes of making currency exchanges under section 2452(b)(10) of this title, not to exceed $10,000,000 for the fiscal year ending June30, 1968, and not to exceed $15,000,000 for the fiscal year ending June 30, 1969.
 
 (Pub. L. 87–256, §105, Sept. 21, 1961, 75 Stat. 531; Pub. L. 89–698, title II, §203(c), Oct. 29, 1966, 80 Stat. 1072; 1977 Reorg. Plan No. 2, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–236, title II, §227, Apr. 30, 1994, 108 Stat. 423.)
 

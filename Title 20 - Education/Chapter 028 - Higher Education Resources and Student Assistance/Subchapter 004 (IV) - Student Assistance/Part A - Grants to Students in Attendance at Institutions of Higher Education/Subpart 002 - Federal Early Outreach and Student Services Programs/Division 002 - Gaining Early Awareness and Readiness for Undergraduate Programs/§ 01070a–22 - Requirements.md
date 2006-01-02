@@ -20,7 +20,7 @@
 
 #### (3) Special rule
 
-&emsp;The Secretary shall annually reevaluate the distribution of funds described in paragraph (2)(B) based on number, quality, and promise of the applications and adjust the distribution accordingly.
+&emsp;The Secretary shall annually reevaluate the distribution of funds described in paragraph\(2)(B) based on number, quality, and promise of the applications and adjust the distribution accordingly.
 
 #### (b) Limitation
 

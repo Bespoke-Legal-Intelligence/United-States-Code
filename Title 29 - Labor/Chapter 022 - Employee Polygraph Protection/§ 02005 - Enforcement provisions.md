@@ -12,7 +12,7 @@
 
 #### (3) Collection
 
-&emsp;Any civil penalty assessed under this subsection shall be collected in the same manneras is required by subsections (b) through (e) of section 1853 of this title with respect to civil penalties assessed under subsection (a) of such section.
+&emsp;Any civil penalty assessed under this subsection shall be collected in the same manner as is required by subsections (b) through (e) of section 1853 of this title with respect to civil penalties assessed under subsection (a) of such section.
 
 #### (b) Injunctive actions by Secretary
 

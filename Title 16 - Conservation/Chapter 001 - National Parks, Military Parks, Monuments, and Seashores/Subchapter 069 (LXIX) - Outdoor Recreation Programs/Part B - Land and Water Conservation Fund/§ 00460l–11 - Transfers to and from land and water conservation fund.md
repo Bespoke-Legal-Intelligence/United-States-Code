@@ -8,17 +8,19 @@ There shall be set aside in the land and water conservation fund in the Treasury
 
 There shall be paid from time to time from the land and water conservation fund into the general fund of the Treasury amounts estimated by the Secretary of the Treasury as equivalent to—
 
-&emsp;(1) the amounts paid before October 1, 2004, under section 6421 of title 26 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before October 1, 2003; and
+&emsp;(1) the amounts paid before October 1, 2012, under section 6421 of title 26 (relating to amounts paid in respect of gasoline used for certain nonhighway purposes or by local transit systems) with respect to gasoline used after December 31, 1964, in motorboats, on the basis of claims filed for periods ending before October 1, 2011; and
 
-&emsp;(2) 80 percent of the floor stocks refunds made before October 1, 2004, under section 6412(a)(2) of title 26 with respect to gasoline to be used in motorboats.
+&emsp;(2) 80 percent of the floor stocks refunds made before October 1, 2012, under section 6412(a)(2) of title 26 with respect to gasoline to be used in motorboats.
 
-(Pub. L. 88–578, title II, §201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, §302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, §302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, §531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, §2, title XVIII, §1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, §503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, §11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, §9002(c)(2)(B), June 9, 1998, 112 Stat. 500.)
+(Pub. L. 88–578, title II, §201, Sept. 3, 1964, 78 Stat. 904; Pub. L. 91–605, title III, §302, Dec. 31, 1970, 84 Stat. 1743; Pub. L. 94–273, §3(4), Apr. 21, 1976, 90 Stat. 376; Pub. L. 94–280, title III, §302, May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §503(b), Nov. 6, 1978, 92 Stat. 2757; Pub. L. 97–424, title V, §531(c), Jan. 6, 1983, 96 Stat. 2191; Pub. L. 99–514, §2, title XVIII, §1875(e), Oct. 22, 1986, 100 Stat. 2095, 2897; Pub. L. 100–17, title V, §503(c), Apr. 2, 1987, 101 Stat. 258; Pub. L. 101–508, title XI, §11211(g)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(d)(2)(B), Dec. 18, 1991, 105 Stat. 2204; Pub. L. 105–178, title IX, §9002(c)(2)(B), June 9, 1998, 112 Stat. 500; Pub. L.109–59, title XI, §11101(c)(2)(B), Aug. 10, 2005, 119 Stat. 1944.)
 
 #### References in Text
 
 Section 6412(a)(2) of title 26, referred to in subsec. (b)(2), was redesignated as “section 6412(a)(1) of title 26” by Pub. L. 94–455, §1906(22), Oct. 4, 1976, 90 Stat. 1827.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–59 substituted “2011” for “2003” in par. (1) and “2012” for “2004” in pars. (1) and (2).
 
 1998—Subsec. (b). Pub. L. 105–178 substituted “2003” for “1997” in par. (1) and “2004” for “1998” in pars. (1) and (2).
 

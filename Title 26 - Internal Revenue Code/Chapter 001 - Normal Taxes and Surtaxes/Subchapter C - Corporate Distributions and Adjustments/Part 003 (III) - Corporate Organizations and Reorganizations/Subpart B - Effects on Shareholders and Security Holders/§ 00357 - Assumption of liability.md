@@ -34,7 +34,7 @@ Except as provided in subsections (b) and (c), if—
 
 &emsp;&emsp;(A) to which section 351 applies, or
 
-&emsp;&emsp;(B) to which section 361 applies by reason of a plan of reorganization within the meaning of section 368(a)(1)(D),
+&emsp;&emsp;(B) to which section 361 applies by reason of a plan of reorganization within the meaning of section 368(a)(1)(D) with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355,
 
 > &emsp;if the sum of the amount of the liabilities assumed exceeds the total of the adjusted basis of the property transferred pursuant to such exchange, then such excess shall be considered as a gain from the sale or exchange of a capital asset or of property which is not a capital asset, as the case may be.
 
@@ -66,9 +66,9 @@ Except as provided in subsections (b) and (c), if—
 
 #### (1) In general
 
-&emsp;For purposes of this section, section 358(d), section 358(h), section 362(d), section 368(a)(1)(C), and section 368(a)(2)(B), except as provided in regulations—
+&emsp;For purposes of this section, section 358(d), section 358(h), section 361(b)(3), section 362(d), section 368(a)(1)(C), and section 368(a)(2)(B), except as provided in regulations—
 
-&emsp;&emsp;(A) a recourse liability (or portion thereof) shall be treated as having been assumed if, as determined on the basis of all facts and circumstances, the transferee has agreed to, and is expected to, satisfy such liability (or portion), whether or not the transferor has been relieved of such liability; and
+&emsp;&emsp;(A) a recourse liability (or portion thereof) shall be treated as having been assumed if, as determined on the basis of all facts and circumstances, the transferee has agreed to,and is expected to, satisfy such liability (or portion), whether or not the transferor has been relieved of such liability; and
 
 &emsp;&emsp;(B) except to the extent provided in paragraph (2), a nonrecourse liability shall be treated as having been assumed by the transferee of any asset subject to such liability.
 
@@ -84,9 +84,13 @@ Except as provided in subsections (b) and (c), if—
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection and section 362(d). The Secretary may also prescribe regulations which provide that the manner in which a liability is treated as assumed under this subsection is applied, where appropriate, elsewhere in this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, §2, 70 Stat. 403; Pub. L. 95–600, title III, §365(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–222, title I, §103(a)(12), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–589, §4(h)(2), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 101–508, title XI, §11801(c)(8)(F), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 106–36, title III, §3001(a)(1), (b)(1), (d)(2)–(5), June 25, 1999, 113 Stat. 181–184; Pub. L. 106–554, §1(a)(7) \[title III, §309(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–638.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, §2, 70 Stat. 403; Pub. L. 95–600, title III, §365(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–222, title I, §103(a)(12), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–589, §4(h)(2), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 101–508, title XI, §11801(c)(8)(F), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 106–36, title III, §3001(a)(1), (b)(1), (d)(2)–(5), June 25, 1999, 113 Stat. 181–184; Pub. L. 106–554, §1(a)(7) \[title III, §309(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 108–357, title VIII, §898(b), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, §403(jj)(2), Dec. 21, 2005, 119 Stat. 2632.)
 
 #### Amendments
+
+2005—Subsec. (d)(1). Pub. L. 109–135 inserted “section 361(b)(3),” after “section 358(h),”.
+
+2004—Subsec. (c)(1)(B). Pub. L. 108–357 inserted “with respect to which stock or securities of the corporation to which the assets are transferred are distributed in a transaction which qualifies under section 355” after “section 368(a)(1)(D)”.
 
 2000—Subsec. (d)(1). Pub. L. 106–554 inserted “section 358(h),” after “section 358(d),” in introductory provisions.
 
@@ -118,6 +122,14 @@ Subsec. (b). Act June 29, 1956, §2(1), substituted “371, or 374” for “or 
 
 Subsec. (c)(2)(B). Act June 29, 1956, §2(2), substituted “371 or 374” for “371”.
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §898(c), Oct. 22, 2004, 118 Stat. 1649, provided that: “The amendments made by this section \[amending this section and section 361 of this title\] shall apply to transfers of money or other property, or liabilities assumed, in connection with a reorganization occurring on or after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–554 applicable to assumptions of liability after Oct. 18, 1999, see section 1(a)(7) \[title III, §309(d)\] of Pub. L. 106–554, set out as a note under section 358 of this title.
@@ -138,9 +150,5 @@ Section 365(c) of Pub. L. 95–600 provided that: “The amendments made by subs
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 304, 351, 358, 368, 584, 1031 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

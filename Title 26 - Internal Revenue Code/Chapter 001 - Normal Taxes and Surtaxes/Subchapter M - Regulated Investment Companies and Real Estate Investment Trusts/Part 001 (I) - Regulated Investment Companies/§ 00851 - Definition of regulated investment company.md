@@ -18,7 +18,11 @@ A corporation shall not be considered a regulated investment company for any tax
 
 &emsp;(1) it files with its return for the taxable year an election to be a regulated investment company or has made such election for a previous taxable year;
 
-&emsp;(2) at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and
+&emsp;(2) at least 90 percent of its gross income is derived from—
+
+&emsp;&emsp;(A) dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies, and
+
+&emsp;&emsp;(B) net income derived from an interest in a qualified publicly traded partnership (as defined in subsection (h)); and
 
 &emsp;(3) at the close of each quarter of the taxable year—
 
@@ -28,9 +32,15 @@ A corporation shall not be considered a regulated investment company for any tax
 
 &emsp;&emsp;&emsp;(ii) other securities for purposes of this calculation limited, except and to the extent provided in subsection (e), in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the taxpayer and to not more than 10 percent of the outstanding voting securities of such issuer, and
 
-&emsp;&emsp;(B) not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses.
+&emsp;&emsp;(B) not more than 25 percent of the value of its total assets is invested in—
 
-> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
+&emsp;&emsp;&emsp;(i) the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer,
+
+&emsp;&emsp;&emsp;(ii) the securities (other than the securities of other regulated investment companies) of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses, or
+
+&emsp;&emsp;&emsp;(iii) the securities of one or more qualified publicly traded partnerships (as defined in subsection (h)).
+
+> For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
 
 #### (c) Rules applicable to subsection (b)(3)
 
@@ -48,7 +58,9 @@ For purposes of subsection (b)(3) and this subsection—
 
 &emsp;(4) The term “value” means, with respect to securities (other than those of majority-owned subsidiaries) for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the board of directors, except that in the case of securities of majority-owned subsidiaries which are investment companies such fair value shall not exceed market value or asset value, whichever is higher.
 
-&emsp;(5) All other terms shall have the same meaning as when used in the Investment Company Act of 1940, as amended.
+&emsp;(5) The term “outstanding voting securities of such issuer” shall include the equity securities of a qualified publicly traded partnership (as defined in subsection (h)).
+
+&emsp;(6) All other terms shall have the same meaning as when used in the Investment Company Act of 1940, as amended.
 
 #### (d) Determination of status
 
@@ -106,13 +118,27 @@ For purposes of this title—
 
 &emsp;For purposes of paragraph (1) the term “fund” means a segregated portfolio of assets, the beneficial interests in which are owned by the holders of a class or series of stock of the regulated investment company that is preferred over all other classes or series in respect of such portfolio of assets.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (<i>o</i>), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037.)
+#### (h) Qualified publicly traded partnership
+
+For purposes of this section, the term “qualified publicly traded partnership” means a publicly traded partnership described in section 7704(b) other than a partnership which would satisfy the gross income requirements of section 7704(c)(2) if qualifying income included only income described in subsection (b)(2)(A).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, §38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, §908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, §602(a)(2), Mar.29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, §2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, §547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, §1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§652(a), (b), 653(a)–(c), 654(a), title XII, §1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, §1006(m), (n)(1), (2)(A), (B), (4), (5), (<i>o</i>), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, §1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, §331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476.)
 
 #### References in Text
 
-The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2), (c)(5), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–357, §331(b), inserted “(other than a qualified publicly traded partnership as defined in subsection (h))” after “derived from a partnership” in concluding provisions.
+
+Subsec. (b)(2). Pub. L. 108–357, §331(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and”.
+
+Subsec. (b)(3)(B). Pub. L. 108–357, §331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses.”
+
+Subsec. (c)(5), (6). Pub. L. 108–357, §331(c), added par. (5) and redesignated former par. (5) as (6).
+
+Subsec. (h). Pub. L. 108–357, §331(d), added subsec. (h).
 
 1997—Subsec. (b). Pub. L. 105–34, §1271(b)(1), in concluding provisions, substituted “paragraph (2), amounts excludable” for “paragraphs (2) and (3), amounts excludable” and struck out “In the case of the taxable year in which a regulated investment company is completely liquidated, there shall not be taken into account under paragraph (3) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.” at end.
 
@@ -146,7 +172,7 @@ Subsec. (b). Pub. L. 100–647, §1006(n)(1), (5), inserted at end “Income der
 
 Pub. L. 100–647, §1006(n)(2)(B), substituted “which are not directly related” for “which are not ancillary” in last sentence.
 
-Subsec. (b)(3). Pub. L. 100–647, §1006(n)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: “less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than 3 months; and”.
+Subsec. (b)(3). Pub. L. 100–647, §1006(n)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than 3 months; and”.
 
 Subsec. (e)(1). Pub. L. 100–647, §1006(m)(2), substituted “a management company or a business development company described in subsection (a)(1)” for “a registered management company or registered business development company”.
 
@@ -162,7 +188,7 @@ Subsec. (q). Pub. L. 100–647, §1006(<i>o</i>)(1), redesignated subsec. (q) as
 
 Subsec. (b). Pub. L. 99–514, §1235(f)(3), inserted “or 1293(a)” and “or 1293(c) (as the case may be)”, in concluding provision.
 
-Pub. L. 99–514, §653(c), inserted before last sentence “For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company's principal business of investing in stock or securities (or options and futures with respect to stock or securities).”
+Pub. L. 99–514, §653(c), inserted before last sentence “For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company's principal business of investing in stock or securities (oroptions and futures with respect to stock or securities).”
 
 Subsec. (b)(2). Pub. L. 99–514, §653(b), inserted “(as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies”.
 
@@ -193,6 +219,10 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his dele
 1958—Subsec. (e)(1). Pub. L. 85–866, §38(a), substituted “not earlier than 60 days” for “not less than 60 days” in first sentence.
 
 Subsec. (e)(2). Pub. L. 85–866, §38(b), substituted “issuer” for “issues”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 331(h) of Pub. L. 108–357, set out as a note under section 469 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -242,7 +272,7 @@ Amendment by section 1901(a)(109) of Pub. L. 94–455 effective for taxable year
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31,1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of section 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as an Effective Date note under section 955 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -250,9 +280,5 @@ Section 908(b) of Pub. L. 91–172 provided that: “The amendment made by subse
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11, 50B, 403, 817, 852, 853, 860L, 992, 1212, 1247, 1296, 7603, 7704 of this title; title 42 section 1395nn.
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending afterAug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 

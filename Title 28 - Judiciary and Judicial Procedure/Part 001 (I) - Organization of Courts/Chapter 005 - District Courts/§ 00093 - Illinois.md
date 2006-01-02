@@ -16,7 +16,7 @@ Illinois is divided into three judicial districts to be known as the Northern, C
 
 ### Central District
 
-&emsp;&emsp;(b) The Central District comprises the counties of Adams, Brown, Bureau, Cass, Champaign, Christian, Coles, De Witt, Douglas, Edgar, Ford, Fulton, Greene, Hancock, Henderson, Henry, Iroquois, Kankakee, Knox, Livingston, Logan, McDonough, McLean, Macoupin, Macon, Marshall, Mason, Menard, Mercer, Montgomery, Morgan, Moultrie, Peoria, Piatt, Pike, Putnam, Rock Island, Sangamon, Schuyler, Scott, Shelby, Stark, Tazewell, Vermilion, Warren, and Woodford.
+&emsp;&emsp;(b) The Central District comprises the counties of Adams, Brown, Bureau, Cass,Champaign, Christian, Coles, De Witt, Douglas, Edgar, Ford, Fulton, Greene, Hancock, Henderson, Henry, Iroquois, Kankakee, Knox, Livingston, Logan, McDonough, McLean, Macoupin, Macon, Marshall, Mason, Menard, Mercer, Montgomery, Morgan, Moultrie, Peoria, Piatt, Pike, Putnam, Rock Island, Sangamon, Schuyler, Scott, Shelby, Stark, Tazewell, Vermilion, Warren, and Woodford.
 
 &emsp;&emsp;Court for the Central District shall be held at Champaign/Urbana, Danville, Peoria, Quincy, Rock Island, and Springfield.
 
@@ -66,7 +66,7 @@ Subsec. (c). Pub. L. 95–408 substituted “Southern District” for “Eastern
 
 #### Effective Date of 1984 Amendment
 
-Section 406(b) of Pub. L. 98–620 provided that: “The amendments made by subsection (a) of this section\[amending this section\] shall apply to any action commenced in the United States District Court for the Northern District of Illinois on or after the effective date of this subtitle \[Jan. 1, 1985\], and shall not affect any action pending in such court on such effective date.”
+Section 406(b) of Pub. L. 98–620 provided that: “The amendments made by subsection (a) of this section \[amending this section\] shall apply to any action commenced in the United States District Court for the Northern District of Illinois on or after the effective date of this subtitle \[Jan. 1, 1985\], and shall not affect any action pending in such court on such effective date.”
 
 Amendment by Pub. L. 98–620 effective Jan. 1, 1985, and not to affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving on that date, see section 411 of Pub. L. 98–620, set out as a note under section 85 of this title.
 
@@ -84,7 +84,7 @@ Section 6 of Pub. L. 95–573, as amended by Pub. L. 96–4, §2, Mar. 30, 1979,
 
 #### Effective Date of 1978 Amendment; Savings Provision
 
-Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act, see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
+Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act,see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
 
 #### District Judges, United States Attorneys, Assistant United States Attorneys, and United States Marshals for Central and Southern Districts; Designation; Tenure; Appointment; Grand Jury
 

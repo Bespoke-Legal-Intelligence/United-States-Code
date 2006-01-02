@@ -30,7 +30,3 @@ R.S. 4617.
 
 The word “diligently” is omitted as surplusage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 7659, 7660 of this title.
-

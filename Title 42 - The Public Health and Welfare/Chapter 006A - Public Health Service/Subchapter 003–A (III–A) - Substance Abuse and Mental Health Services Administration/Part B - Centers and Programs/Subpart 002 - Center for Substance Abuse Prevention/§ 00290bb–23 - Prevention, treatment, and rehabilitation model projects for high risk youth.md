@@ -10,7 +10,7 @@ The Secretary, through the Director of the Prevention Center, shall make grants 
 
 (2) In making grants for drug abuse and alcohol abuse treatment and rehabilitation projects under this section, the Secretary shall give priority to projects which address the relationship between drug abuse or alcohol abuse and physical child abuse, sexual child abuse, emotional child abuse, dropping out of school, unemployment, delinquency, pregnancy, violence, suicide, or mental health problems.
 
-(3) In making grants under this section, the Secretary shall give priority to applications from community based organizations for projects to develop innovative models with multiple, coordinated services for the prevention orfor the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
+(3) In making grants under this section, the Secretary shall give priority to applications from community based organizations for projects to develop innovative models with multiple, coordinated services for the prevention or for the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
 
 (4) In making grants under this section, the Secretary shall give priority to applications for projects to demonstrate effective models with multiple, coordinated services which may be replicated and which are for the prevention or for the treatment and rehabilitation of drug abuse or alcohol abuse by high risk youth.
 
@@ -26,7 +26,7 @@ To the extent feasible, the Secretary shall make grants under this section in al
 
 #### (e) Application for grants
 
-In order to receive a grant for a project under this section for a fiscal year, a public or nonprofit private entity shall submit an application to the Secretary, acting through the Office.<sup>1</sup> The Secretary may provide to the Governor of the State the opportunity to review and comment on such application. Such application shall be in such form, shall contain such information, and shall be submitted at such time as the Secretary may by regulation prescribe.
+In order to receive a grant for a project under this section for a fiscal year, a public or nonprofit private entity shall submit an application to the Secretary, acting through the Office.<sup>1</sup> The Secretary may provide to the Governor of the State the opportunity to review and comment on such application. Such application shall be in such form, shall contain such information, andshall be submitted at such time as the Secretary may by regulation prescribe.
 
 #### (f) Evaluation of projects
 

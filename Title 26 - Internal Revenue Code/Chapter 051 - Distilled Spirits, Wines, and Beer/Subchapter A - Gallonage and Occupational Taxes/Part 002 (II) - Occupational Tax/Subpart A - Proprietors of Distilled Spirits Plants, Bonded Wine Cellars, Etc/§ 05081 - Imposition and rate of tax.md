@@ -34,6 +34,10 @@ Subsection (a) shall not apply with respect to any taxpayer who is a proprietor 
 
 (Added Pub. L. 100–203, title X, §10512(a)(1)(A), Dec. 22, 1987, 101 Stat. 1330–447; amended Pub. L. 100–647, title VI, §6106(a), (b), Nov. 10, 1988, 102 Stat. 3712.)
 
+#### Repeal of Section
+
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is repealed.</i>
+
 #### Prior Provisions
 
 Prior sections 5081 to 5084 of this title constituted a former subpart A of this part, see Prior Provisions note set out preceding this section.
@@ -79,8 +83,4 @@ Occupational tax.—For purposes of this paragraph, the term ‘occupational tax
 &emsp;“(D)
 
 Due date of tax.—The amount of any tax required to be paid by reason of this paragraph shall be due on April 1, 1988.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5091 of this title.
 

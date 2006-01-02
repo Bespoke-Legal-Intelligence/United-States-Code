@@ -40,7 +40,7 @@
 
 (4)(A) An institution of higher education is eligible to receive a grant under this section if it is an eligible institution as described in subsection (a)(2)(D) of this section.
 
-(B) No institution shall be ineligible for an endowment challenge grant under this section fora fiscal year by reason of the previous receipt of such a grant but no institution shall be eligible to receive such a grant for more than 2 fiscal years out of any period of 5 consecutive fiscal years.
+(B) No institution shall be ineligible for an endowment challenge grant under this section for a fiscal year by reason of the previous receipt of such a grant but no institution shall be eligible to receive such a grant for more than 2 fiscal years out of any period of 5 consecutive fiscal years.
 
 (5) An endowment challenge grant awarded under this section to an eligible institution shall be in an amount which is not less than $50,000 in any fiscal year.
 
@@ -94,7 +94,7 @@ In selecting eligible institutions for grants under this section for any fiscal 
 
 #### (g) Application
 
-Any institution which is eligible for assistance under this section may submit to the Secretary a grant application at such time, in such form, and containing such information as the Secretary may prescribe, including a description ofthe long- and short-term plans for raising and using the funds under this part. Subject to the availability of appropriations to carry out this section and consistent with the requirement of subsection (f) of this section, the Secretary may approve an application for a grant if an institution, in its application, provides adequate assurances that it will comply with the requirements of this section.
+Any institution which is eligible for assistance under this section may submit to the Secretary a grant application at such time, in such form, and containing such information as the Secretary may prescribe, including a description of the long- and short-term plans for raising and using the funds under this part. Subject to the availability of appropriations to carry out this section and consistent with the requirement of subsection (f) of this section, the Secretary may approve an application for a grant if an institution, in its application, provides adequate assurances that it will comply with the requirements of this section.
 
 #### (h) Termination and recovery provisions
 

@@ -56,7 +56,7 @@ Annual Report.—(1) Not later than 90 days after the end of each fiscal year, t
 
 &emsp;&emsp;(ii) has fostered within the technology and industrial base new relationships and practices that support the national security of the United States.
 
-&emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection\(d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
+&emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection (d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
 
 (3) No report is required under this subsection for a fiscal year after fiscal year 2006.
 
@@ -106,7 +106,7 @@ Subsec. (h). Pub. L. 104–201, §267(b), reenacted heading without change and a
 
 Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (i). Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, could not be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A). See below.
+Subsec. (i). Pub. L. 104–201, §1073(e)(1)(B), which directed amendment of subsec. (i) by inserting “Defense” before “Advanced Research Projects Agency”, couldnot be executed because of the renumbering of subsec. (i) as section 2371a of this title by Pub. L. 104–201, §267(c)(1)(A). See below.
 
 Pub. L. 104–201, §267(c)(1)(A), renumbered subsec. (i) of this section as section 2371a of this title.
 
@@ -160,11 +160,31 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554, provided that:
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229; Pub. L. 108–136, div. A, title VIII, §847, Nov. 24, 2003, 117 Stat. 1554; Pub. L. 109–163, div. A, title VIII, §823, Jan. 6, 2006, 119 Stat. 3387, provided that:
 
 “(a)
 
-Authority.—The Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
+Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of title 10, United States Code, carry out prototype projects that are directly relevant to weapons or weapon systems proposed to be acquired or developed by the Department of Defense, or to improvement of weapons or weapon systems in use by the Armed Forces.
+
+“(2) The authority of this section—
+
+&emsp;“(A) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $20,000,000 but not in excess of $100,000,000 only upon a written determination by the senior procurement executive for the agency (as designated for the purpose of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)) that—
+
+&emsp;&emsp;“(i) the requirements of subsection (d) will be met; and
+
+&emsp;&emsp;“(ii) the use of the authority of this section is essential to promoting the success of the prototype project; and
+
+&emsp;“(B) may be exercised for a prototype project that is expected to cost the Department of Defense in excess of $100,000,000 only if—
+
+&emsp;&emsp;“(i) the Under Secretary of Defense for Acquisition, Technology, and Logistics determines in writing that—
+
+&emsp;&emsp;&emsp;“(I) the requirements of subsection (d) will be met; and
+
+&emsp;&emsp;&emsp;“(II) the use of the authority of this section is essential to meet critical national security objectives; and
+
+&emsp;&emsp;“(ii) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] are notified in writing at least 30 days before such authority is exercised.
+
+“(3) The authority of a senior procurement executive under paragraph (2)(A), and the authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)(B), may not be delegated.
 
 “(b)
 
@@ -192,11 +212,11 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;“(A) there is at least one nontraditional defense contractor participating to a significant extent in the prototype project; or
 
-&emsp;“(B) no nontraditional defense contractor is participating to a significant extent in the prototypeproject, but at least one of the following circumstances exists:
+&emsp;“(B) no nontraditional defense contractor is participating to a significant extent in the prototype project, but at least one of the following circumstances exists:
 
 &emsp;&emsp;“(i) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
 
-&emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))) determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
+&emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(3))) determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
 
 “(2)(A) Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
 
@@ -252,9 +272,9 @@ Follow-On Production Contracts.—(1) A transaction entered into under this sect
 
 “(h)
 
+Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of section 27 of the Office of Federal Procurement Policy Act (41 U.S.C. 423).
+
+“(i)
+
 Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2008.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2358, 2511, 2519 of this title; title 6 section 391; title 49 section 5506.
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) a description of methods and procedures, in conjunction with appropriate Federal agencies, to restore the quality of such lakes;
 
-&emsp;&emsp;(D) methods and procedures to mitigate the harmful effects of high acidity, including innovative methods of neutralizing and restoring buffering capacity of lakes andmethods of removing from lakes toxic metals and other toxic substances mobilized by high acidity;
+&emsp;&emsp;(D) methods and procedures to mitigate the harmful effects of high acidity, including innovative methods of neutralizing and restoring buffering capacity of lakes and methods of removing from lakes toxic metals and other toxic substances mobilized by high acidity;
 
 &emsp;&emsp;(E) a list and description of those publicly owned lakes in such State for which uses are known to be impaired, including those lakes which are known not to meet applicable water quality standards or which require implementation of control programs to maintain compliance with applicable standards and those lakes in which water quality has deteriorated as a result of high acidity that may reasonably be due to acid deposition; and
 
@@ -66,7 +66,7 @@ The Administrator shall provide financial assistance to States in order to carry
 
 #### (3) Reports
 
-&emsp;Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; 109 Stat. 734–736), by January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
+&emsp;Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31U.S.C. 1113 note; 109 Stat. 734–736), by January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate on work undertaken pursuant to this subsection. Upon completion of the program authorized by this subsection, the Administrator shall submit to such committees a final report on the results of such program, along with recommendations for further measures to improve the water quality of the Nation's lakes.
 
 #### (4) Authorization of appropriations
 
@@ -132,9 +132,9 @@ Subsec. (d). Pub. L. 100–4, §315(b), added subsec. (d).
 
 1977—Subsec. (b). Pub. L. 95–217, §62(a), inserted provision directing the Administrator to provide financial assistance to States to prepare the identification and classification surveys required in subsec. (a)(1) of this section.
 
-Subsec. (c)(2). Pub. L. 95–217, §4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscal year 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
+Subsec. (c)(2). Pub. L. 95–217, §4(f), substituted “$150,000,000 for the fiscal year 1975, $50,000,000 for fiscalyear 1977, $60,000,000 for fiscal year 1978, $60,000,000 for fiscal year 1979, and $60,000,000 for fiscal year 1980” for “and $150,000,000 for the fiscal year 1975”.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b)of Pub. L. 107–303, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 

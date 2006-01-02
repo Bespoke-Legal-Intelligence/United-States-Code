@@ -4,15 +4,11 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (3), the Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c) of this section.
+&emsp;The Nuclear Regulatory Commission (in this section referred to as the “Commission”) shall annually assess and collect such fees and charges as are described in subsections (b) and (c) of this section.
 
 #### (2) First assessment
 
 &emsp;The first assessment of fees under subsection (b) of this section and annual charges under subsection (c) of this section shall be made not later than September 30, 1991.
-
-#### (3) Last assessment of annual charges
-
-&emsp;The last assessment of annual charges under subsection (c) of this section shall be made not later than September 20, 2005.
 
 #### (b) Fees for service or thing of value
 
@@ -30,9 +26,13 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 &emsp;&emsp;The aggregate amount of the annual charges collected from all licensees and certificate holders in a fiscal year shall equal an amount that approximates the percentages of the budget authority of the Commission for the fiscal year stated in subparagraph (B), less—
 
-&emsp;&emsp;&emsp;(i) amounts collected under subsection (b) of this section during the fiscal year; and
+&emsp;&emsp;&emsp;(i) amounts collected under subsection (b) of this section during the fiscal year;
 
-&emsp;&emsp;&emsp;(ii) amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year.
+&emsp;&emsp;&emsp;(ii) amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year;
+
+&emsp;&emsp;&emsp;(iii) amounts appropriated to the Commission for the fiscal year for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005; and
+
+&emsp;&emsp;&emsp;(iv) amounts appropriated to the Commission for homeland security activities of the Commission for the fiscal year, except for the costs of fingerprinting and background checks required by section 2169 of this title and the costs of conducting security inspections.
 
 #### (B) Percentages
 
@@ -46,7 +46,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 &emsp;&emsp;&emsp;(iv) 92 percent for fiscal year 2004; and
 
-&emsp;&emsp;&emsp;(v) 90 percent for fiscal year 2005.
+&emsp;&emsp;&emsp;(v) 90 percent for fiscal year 2005 and each fiscal year thereafter.
 
 #### (3) Amount per licensee
 
@@ -76,15 +76,29 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 As used in this section, the term “Nuclear Waste Fund” means the fund established pursuant to section 10222(c) of this title.
 
-(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86.)
+(Pub. L. 101–508, title VI, §6101, Nov. 5, 1990, 104 Stat. 1388–298; Pub. L. 102–486, title XXIX, §2903(a), Oct. 24, 1992, 106 Stat. 3125; Pub. L. 103–66, title VII, §7001, Aug. 10, 1993, 107 Stat. 401; Pub. L. 105–245, title V, §505, Oct. 7, 1998, 112 Stat. 1856; Pub. L. 106–60, title VI, §604, Sept. 29, 1999, 113 Stat. 501; Pub. L. 106–377, §1(a)(2) \[title VIII\], Oct. 27, 2000, 114 Stat. 1441, 1441A–86; Pub. L. 109–58, title VI, §637(a), Aug. 8, 2005, 119 Stat. 791; Pub. L. 109–103, title IV, Nov. 19, 2005, 119 Stat. 2283.)
+
+#### References in Text
+
+Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (c)(2)(A)(iii), is section 3116 of Pub. L. 108–375, which is set out as a note under section 2601 of Title 50, War and National Defense.
 
 #### Codification
 
-Section is comprised of section 6101 of Pub. L. 101–508. Subsec. (e) of section 6101 of Pub. L. 101–508 amended section 2213 of this title.
+Section is comprised of section 6101 of Pub. L. 101–508. Subsec. (e) of section 6101 of Pub. L. 101–508 amended former section 2213 of this title.
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–58, §637(a)(1)(A), substituted “The” for “Except as provided in paragraph (3), the”.
+
+Subsec. (a)(3). Pub. L. 109–58, §637(a)(1)(B), struck out heading and text of par. (3). Text read as follows: “The last assessment of annual charges under subsection (c) of this section shall be made not later than September 20, 2005.”
+
+Subsec. (c)(2)(A)(iii), (iv). Pub. L. 109–58, §637(a)(2)(A)–(C), added cls. (iii) and (iv).
+
+Subsec. (c)(2)(B)(v). Pub. L. 109–58, §637(a)(2)(D), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “90 percent for fiscal year 2005 and fiscal year 2006.”
+
+Pub. L. 109–103 inserted “and fiscal year 2006” before period at end.
 
 2000—Subsec. (a)(3). Pub. L. 106–377, §1(a)(2) \[title VIII\], which directed substitution of “September 20, 2005” for “September 30, 1999”, was executed by making the substitution for “September 30, 2000” to reflect the probable intent of Congress and the amendment by Pub. L. 106–60, §604. See 1999 Amendment note below.
 
@@ -101,6 +115,10 @@ Subsec. (c)(2). Pub. L. 106–377, §1(a)(2) \[title VIII\], added par. (2) and 
 1992—Subsec. (c)(1). Pub. L. 102–486, §2903(a)(1), substituted “Except as provided in paragraph (4), any licensee” for “Any licensee”.
 
 Subsec. (c)(4). Pub. L. 102–486, §2903(a)(2), added par. (4).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–58, title VI, §637(c), Aug. 8, 2005, 119 Stat. 791, provided that: “The amendments made by this section \[amending this section and repealing section 2213 of this title\] take effect on October 1, 2006.”
 
 #### Effective Date of 1992 Amendment
 

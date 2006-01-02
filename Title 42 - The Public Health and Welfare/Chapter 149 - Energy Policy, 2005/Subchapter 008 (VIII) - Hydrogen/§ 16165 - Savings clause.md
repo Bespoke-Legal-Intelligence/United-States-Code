@@ -1,0 +1,20 @@
+### §16165. Savings clause
+
+Nothing in this subchapter shall be construed to affect the authority of the Secretary of Transportation that may exist prior to August 8, 2005, with respect to—
+
+&emsp;(1) research into, and regulation of, hydrogen-powered vehicles fuel systems integrity, standards, and safety under subtitle VI of title 49;
+
+&emsp;(2) regulation of hazardous materials transportation under chapter 51 of title 49;
+
+&emsp;(3) regulation of pipeline safety under chapter 601 of title 49;
+
+&emsp;(4) encouragement and promotion of research, development, and deployment activities relating to advanced vehicle technologies under section 5506 of title 49;
+
+&emsp;(5) regulation of motor vehicle safety under chapter 301 of title 49;
+
+&emsp;(6) automobile fuel economy under chapter 329 of title 49; or
+
+&emsp;(7) representation of the interests of the United States with respect to the activities and programs under the authority of title 49.
+
+(Pub. L. 109–58, title VIII, §816, Aug. 8, 2005, 119 Stat. 855.)
+

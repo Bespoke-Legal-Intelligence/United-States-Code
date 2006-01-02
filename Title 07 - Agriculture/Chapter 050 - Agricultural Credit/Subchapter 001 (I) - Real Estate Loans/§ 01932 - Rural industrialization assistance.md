@@ -14,13 +14,13 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students, including the development, construction or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
+&emsp;&emsp;The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students, including the development, construction or acquisition of land, buildings, plants, equipment,access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
 
 #### (B) Small and emerging private business enterprises
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For the purpose of subparagraph (A), a small and emerging private business enterprise shall include (regardless of the number of employees or operating capital of the enterprise) an eligible nonprofit entity, or other tax-exempt organization,with a principal office in an area that is located—
+&emsp;&emsp;&emsp;For the purpose of subparagraph (A), a small and emerging private business enterprise shall include (regardless of the number of employees or operating capital of the enterprise) an eligible nonprofit entity, or other tax-exempt organization, with a principal office in an area that is located—
 
 &emsp;&emsp;&emsp;&emsp;(I) on land of an existing or former Native American reservation; and
 
@@ -50,11 +50,11 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (3) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, which is calculated to or likely to result in an increase in the production of goods, materials, or commodities, or the availability of services or facilities in the area, when there is not sufficient demand for such goods, materials, commodities, services or facilities, to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
 
-(4) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, if the Secretary of Labor certifies within 30 days after the matter has been submitted to him by the Secretary of Agriculture that the provisions of paragraphs (2) and (3) of this subsection have not been complied with. The Secretary of Labor shall, in cooperation with the Secretary of Agriculture, develop a system of certification which will insure the expeditious processing of requests for assistance under this section.
+(4) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, if the Secretary of Labor certifies within 30 days after the matter has been submitted to him by the Secretary of Agriculture that the provisions of paragraphs (2) and (3) of this subsection have not been complied with. The Secretary of Labor shall, in cooperation with the Secretary of Agriculture, develop a system of certification which will insure theexpeditious processing of requests for assistance under this section.
 
 (5) No grant or loan authorized to be made under this chapter shall require or be subject to the prior approval of any officer, employee, or agency of any State.
 
-(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances whichnecessitate an equity investment by the applicant greater than 10 per centum.
+(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
 
 (7) No provision of law shall prohibit issuance by the Secretary of certificates evidencing beneficial ownership in a block of notes insured or guaranteed under this chapter or Title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; any sale by the Secretary of such certificates shall be treated as a sale of assets for the purposes of chapter 11 of title 31. Any security representing beneficial ownership in a block of notes guaranteed or insured under this chapter or Title V of the Housing Act of 1949 issued by a private entity shall be exempt from laws administered by the Securities and Exchange Commission, except sections 77q, 77v, and 77x of title 15; however, the Secretary shall require (i) that the issuer place such notes in the custody of an institution chartered by a Federal or State agency to act as trustee and (ii) that the issuer provide such periodic reports of sales as the Secretary deems necessary.
 
@@ -116,13 +116,13 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (5) Awarding grants
 
-&emsp;Grants made under paragraph (2) shall be made on a competitive basis. In making grants under paragraph (2), the Secretary shall give preference to grant applications providing for the establishment of centers for rural cooperative development that—
+&emsp;Grants made under paragraph (2) shall be made on a competitive basis. In making grantsunder paragraph (2), the Secretary shall give preference to grant applications providing for the establishment of centers for rural cooperative development that—
 
 &emsp;&emsp;(A) demonstrate a proven track record in administering a nationally coordinated, regionally or State-wide operated project;
 
 &emsp;&emsp;(B) demonstrate previous expertise in providing technical assistance in rural areas;
 
-&emsp;&emsp;(C) demonstrate the ability to assist in the retention of businesses, facilitate the establishment of cooperatives and new cooperative approaches, and generate employmentopportunities that will improve the economic conditions of rural areas;
+&emsp;&emsp;(C) demonstrate the ability to assist in the retention of businesses, facilitate the establishment of cooperatives and new cooperative approaches, and generate employment opportunities that will improve the economic conditions of rural areas;
 
 &emsp;&emsp;(D) demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;
 
@@ -258,7 +258,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 The Secretary may guarantee loans made under subsection (a) of this section to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
 
-(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359.)
+(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600;Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359.)
 
 #### References in Text
 
@@ -336,7 +336,7 @@ Subsec. (j). Pub. L. 104–127, §747(a)(6), redesignated subsec. (j) as (f).
 
 1992—Subsec. (c). Pub. L. 102–554 designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 102–552, which directed the substitution of “business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students,” for “business enterprises,” in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
+Pub. L. 102–552, which directed the substitution of “business enterprises or the creation, expansion, and operation of rural distance learning networks or rurallearning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students,” for “business enterprises,” in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
 
 1991—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted “this chapter” for “this Act”.
 
@@ -416,7 +416,7 @@ Section 2336 of Pub. L. 101–624 provided that: “The purposes of this chapter
 
 &emsp;“(1) provide funds to improve telecommunications service in rural areas; and
 
-&emsp;“(2) provide access to advanced telecommunications services and computer networks to improve job opportunities and the business environment in rural areas.”
+&emsp;“(2) provide access to advanced telecommunications services and computer networks to improve jobopportunities and the business environment in rural areas.”
 
 #### Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations
 
@@ -438,7 +438,7 @@ Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended b
 
 “(5) Notwithstanding any provision to the contrary of subsection (4) above, the $20,000,000 which was available pursuant to subsection (4) shall continue to be available and shall be used by the Secretary prior to September 30, 1988, to guarantee loans for the national rural development and finance program and shall remain available until expended.
 
-“(b)(1) Prior to September 30, 1988, the Secretary shall make grants, from funds transferred under paragraph (2), to national rural development and finance corporations for the purpose of establishing a rural development program to provide financial and technical assistance to compliment the loan guarantees made or to be made to such corporations under subsection (a).
+“(b)(1) Prior to September 30, 1988, the Secretary shall make grants, from funds transferred under paragraph (2), to national rural development and finance corporations for the purpose of establishing a rural development program to provide financial and technical assistance to compliment \[sic\] the loan guarantees made or to be made to such corporations under subsection (a).
 
 “(2) All funds in, appropriated to, or repaid to the Rural Development Loan Fund, including those on deposit and available upon date of enactment \[Dec. 23, 1985\], under sections 623 and 633 \[42 U.S.C. 9812, 9822\] of the Community Economic Development Act of 1981 (42 U.S.C. 9801 et seq.) shall be transferred to the Secretary provided that—
 

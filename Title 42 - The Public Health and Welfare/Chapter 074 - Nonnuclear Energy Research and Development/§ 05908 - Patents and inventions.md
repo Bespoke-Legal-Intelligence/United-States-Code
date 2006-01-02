@@ -2,7 +2,7 @@
 
 #### (a) Vesting of title to invention and issuance of patents to United States; prerequisites
 
-Whenever any invention is made or conceived in the course of or under any contract of the Secretary, other than nuclear energy research, development, and demonstration pursuant to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) and the Secretary determines that—
+Whenever any invention is made or conceived in the course of or under any contract of the Department, other than nuclear energy research, development, and demonstration pursuant to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) and the Secretary determines that—
 
 &emsp;(1) the person who made the invention was employed or assigned to perform research, development, or demonstration work and the invention is related to the work he was employed or assigned to perform, or that it was within the scope of his employment duties, whether or not it was made during working hours, or with a contribution by the Government of the use of Government facilities, equipment, materials, allocated funds, information proprietary to the Government, or services of Government employees during working hours; or
 
@@ -10,19 +10,19 @@ Whenever any invention is made or conceived in the course of or under any contra
 
 > title to such invention shall vest in the United States, and if patents on such invention are issued they shall be issued to the United States, unless in particular circumstances the Secretary waives all or any part of the rights of the United States to such invention in conformity with the provisions of this section.
 
-#### (b) Contract as requiring report to Secretary of invention, etc., made in course of contract
+#### (b) Contract as requiring report to Department of invention, etc., made in course of contract
 
-Each contract entered into by the Secretary with any person shall contain effective provisions under which such person shall furnish promptly to the Secretary a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the course of or under such contract.
+Each contract entered into by the Department with any person shall contain effective provisions under which such person shall furnish promptly to the Department a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the course of or under such contract.
 
 #### (c) Waiver by Secretary of rights of United States; regulations prescribing procedures; record of waiver determinations; objectives
 
-Under such regulations in conformity with the provisions of this section as the Secretary shall prescribe, the Secretary may waive all or any part of the rights of the United States under this section with respect to any invention or class of inventions made or which may be made by any person or class of persons in the course of or under any contract of the Secretary if he determines that the interests of the United States and the general public will be best served by such waiver. The Secretary shall maintain a publicly available, periodically updated record of waiver determinations. In making such determinations, the Secretary shall have the following objectives:
+Under such regulations in conformity with the provisions of this section as the Secretary shall prescribe, the Secretary may waive all or any part of the rights of the United States under this section with respect to any invention or class of inventions made or which may be made by any person or class of persons in the course of or under any contract of the Department if he determines that the interests of the United States and the general public will be best served by such waiver. The Department shall maintain a publicly available, periodically updated record of waiver determinations. In making such determinations, the Secretary shall have the following objectives:
 
 &emsp;(1) Making the benefits of the energy research, development, and demonstration program widely available to the public in the shortest practicable time.
 
 &emsp;(2) Promoting the commercial utilization of such inventions.
 
-&emsp;(3) Encouraging participation by private persons in the Secretary's energy research, development, and demonstration program.
+&emsp;(3) Encouraging participation by private persons in the Department's energy research, development, and demonstration program.
 
 &emsp;(4) Fostering competition and preventing undue market concentration or the creation or maintenance of other situations inconsistent with the antitrust laws.
 
@@ -66,7 +66,7 @@ Whenever title to an invention is vested in the United States, there may be rese
 
 &emsp;(1) a revocable or irrevocable nonexclusive, paid-up license for the practice of the invention throughout the world; and
 
-&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: <i>Provided</i>, That when specifically requested by the Secretary and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
+&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h) of this section: <i>Provided</i>, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
 
 #### (g) to (i) Repealed. Pub. L. 96–517, §7(c), Dec. 12, 1980, 94 Stat. 3027
 
@@ -78,9 +78,9 @@ The Secretary shall, in granting waivers or licenses, consider the small busines
 
 The Secretary is authorized to take all suitable and necessary steps to protect any invention or discovery to which the United States holds title, and to require that contractors or persons who acquire rights to inventions under this section protect such inventions.
 
-#### (<i>l</i>) Department of Energy as defense agency of United States for purpose of maintaining secrecy of inventions
+#### (<i>l</i>) Department as defense agency of United States for purpose of maintaining secrecy of inventions
 
-The Department of Energy shall be considered a defense agency of the United States for the purpose of chapter 17 of title 35.
+The Department shall be considered a defense agency of the United States for the purpose of chapter 17 of title 35.
 
 #### (m) Definitions
 
@@ -94,21 +94,45 @@ As used in this section—
 
 &emsp;(4) the term “invention” means inventions or discoveries, whether patented or unpatented; and
 
-&emsp;(5) the term “contractor” means any person having a contract with or on behalf of the Secretary.
+&emsp;(5) the term “contractor” means any person having a contract with or on behalf of the Department.
 
-#### (n) Report concerning applicability of existing patent policies to energy programs; time for submission to President and appropriate Congressional committees
+#### (n) Report concerning applicability of existing patent policies to energy programs; time for submission to President and appropriate congressional committees
 
 Within twelve months after December 31, 1974, the Secretary with the participation of the Attorney General, the Secretary of Commerce, and other officials as the President may designate, shall submit to the President and the appropriate congressional committees a report concerning the applicability of existing patent policies affecting the programs under this chapter, along with his recommendations for amendments or additions to the statutory patent policy, including his recommendations on mandatory licensing, which he deems advisable for carrying out the purposes of this chapter.
 
-(Pub. L. 93–577, §9, Dec. 31, 1974, 88 Stat. 1887; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 96–517, §7(c), Dec. 12, 1980, 94 Stat. 3027.)
+(Pub. L. 93–577, §9, Dec. 31, 1974, 88 Stat. 1887; Pub. L. 96–517, §7(c), Dec. 12, 1980, 94 Stat. 3027; Pub. L. 109–58, title X, §1009(b)(7), Aug. 8, 2005, 119 Stat. 935.)
 
 #### References in Text
 
 The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The antitrust laws, referred to in subsec. (c)(4), probably mean the laws specified as antitrust laws in section 5909(b) of this title.
-
 #### Amendments
+
+2005—Subsec. (a). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory and concluding provisions.
+
+Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration” in introductory provisions.
+
+Subsec. (b). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration” in two places.
+
+Subsec. (c). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” wherever appearing in introductory provisions.
+
+Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration” in two places in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 109–58, §1009(b)(7)(C), substituted “Department's” for “Administration's”.
+
+Subsec. (d). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory provisions and par. (11).
+
+Subsec. (e). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator” in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
+
+Subsecs. (j), (k). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary” for “Administrator”.
+
+Subsec. (<i>l</i>). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
+
+Subsec. (m)(5). Pub. L. 109–58, §1009(b)(7)(A), substituted “Department” for “Administration”.
+
+Subsec. (n). Pub. L. 109–58, §1009(b)(7)(B), substituted “Secretary with” for “Administrator with”.
 
 1980—Subsec. (g). Pub. L. 96–517 struck out subsec. (g) which related to licenses for inventions, promulgation of regulations specifying terms and conditions, criteria and procedures for grant of exclusive or partially exclusive licenses, and record of determinations.
 
@@ -119,10 +143,6 @@ Subsec. (i). Pub. L. 96–517 struck out subsec. (i) which related to publicatio
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
-
-#### Transfer of Functions
-
-“Secretary” and “Secretary's”, meaning Secretary of Energy, substituted for “Administrator”, “Administration”, and “Administration's”, meaning Energy Research and Development Administration and Administrator thereof, in subsecs. (a) to (e), (f)(2), (j), (k), (m)(5), and (n), and “Department of Energy” substituted for “Administration” in subsec. (<i>l</i>) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a comma.</i>
 

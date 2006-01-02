@@ -6,6 +6,10 @@ Subpart A—Proprietors of Distilled Spirits Plants, Bonded Wine Cellars, Etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Repeal and Redesignation of Subpart
+
+<i>Pub. L. 109–59, title XI, §11125(a)(1)(A), (b)(2), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, and inap</i><i>plicable to taxes imposed for periods before such date, this subpart is repealed and subpart C of this part is redesignated subpart A, consisting of sections 5101 and 5102.</i>
+
 #### Prior Provisions
 
 A prior subpart A, consisted of sections 5081 to 5084 of this title, prior to repeal by Pub. L. 96–39, title VIII, §803(b), July 26, 1979, 93 Stat. 274, effective Jan. 1, 1980.

@@ -126,7 +126,7 @@ Subsec. (f). Pub. L. 100–647, §1001(f)(1), added subsec. (f).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. J, title IV, §4004(c)(2), Oct. 21, 1998, 112 Stat. 2681–911, provided that: “The amendmentmade by subsection (b)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 105–277, div. J, title IV, §4004(c)(2), Oct. 21, 1998, 112 Stat. 2681–911, provided that: “The amendment made by subsection (b)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
 
 #### Effective Date of 1993 Amendment
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 199
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988,Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -171,8 +171,4 @@ In general.—The term ‘publicly offered regulated investment company’ means
 &emsp;“(B)
 
 Secretary may reduce 500 person requirement.—The Secretary of the Treasury or his delegate may by regulation decrease the minimum shareholder requirement of subparagraph (A)(iii) in the case of regulated investment companies which experience a loss of shareholders through net redemptions of their shares.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 642, 772, 773, 6654 of this title.
 

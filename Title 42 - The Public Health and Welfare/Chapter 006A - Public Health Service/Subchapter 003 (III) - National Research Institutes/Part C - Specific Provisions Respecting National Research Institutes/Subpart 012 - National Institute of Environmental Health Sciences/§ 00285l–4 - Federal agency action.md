@@ -26,7 +26,7 @@ Each Federal agency carrying out a program described in subsection (a) of this s
 
 &emsp;(3) the agency does not employ, recommend, or require testing for that class of chemical or for the recommended test endpoint; or
 
-&emsp;(4) the ICCVAM test recommendation is unacceptable for satisfactorily fulfilling the testneeds for that particular agency and its respective congressional mandate.
+&emsp;(4) the ICCVAM test recommendation is unacceptable for satisfactorily fulfilling the test needs for that particular agency and its respective congressional mandate.
 
 (Pub. L. 106–545, §4, Dec. 19, 2000, 114 Stat. 2723.)
 

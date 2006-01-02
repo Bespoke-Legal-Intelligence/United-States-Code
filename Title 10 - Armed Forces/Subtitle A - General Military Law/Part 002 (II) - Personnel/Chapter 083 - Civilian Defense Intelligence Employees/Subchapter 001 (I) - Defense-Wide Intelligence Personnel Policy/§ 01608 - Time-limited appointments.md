@@ -6,7 +6,7 @@ Authority for Time-Limited Appointments.—The Secretary of Defense may by regul
 
 (b)
 
-Review of Use of Authority.—The Secretary of Defense shall review each time-limitedappointment in a defense intelligence position at the end of the first year of the period of the appointment and determine whether the appointment should be continued for the remainder of the period. The continuation of a time-limited appointment after the first year shall be subject to the approval of the Secretary.
+Review of Use of Authority.—The Secretary of Defense shall review each time-limited appointment in a defense intelligence position at the end of the first year of the period of the appointment and determine whether the appointment should be continued for the remainder of the period. The continuation of a time-limited appointment after the first year shall be subject to the approval of the Secretary.
 
 (c)
 
@@ -25,8 +25,4 @@ A prior section 1608 was renumbered section 1623 of this title.
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1613 of this title.
 

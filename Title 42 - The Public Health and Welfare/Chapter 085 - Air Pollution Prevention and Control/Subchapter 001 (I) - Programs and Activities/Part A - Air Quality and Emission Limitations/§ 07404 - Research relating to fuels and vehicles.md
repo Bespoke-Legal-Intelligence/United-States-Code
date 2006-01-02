@@ -14,13 +14,13 @@ The Administrator shall give special emphasis to research and development into n
 
 &emsp;&emsp;(D) improving the efficiency of fuels combustion so as to decrease atmospheric emissions, and
 
-&emsp;&emsp;(E) producing synthetic or new fuels which, when used, result in decreased atmospheric emissions.
+&emsp;&emsp;(E) producing synthetic or new fuels which, when used, result in decreased atmospheric emissions.<sup>1</sup>
 
 &emsp;(2) provide for Federal grants to public or nonprofit agencies, institutions, and organizations and to individuals, and contracts with public or private agencies, institutions, or persons, for payment of (A) part of the cost of acquiring, constructing, or otherwise securing for research and development purposes, new or improved devices or methods having industrywide application of preventing or controlling discharges into the air of various types of pollutants; (B) part of the cost of programs to develop low emission alternatives to the present internal combustion engine; (C) the cost to purchase vehicles and vehicle engines, or portions thereof, for research, development, and testing purposes; and (D) carrying out the other provisions of this section, without regard to section 3324(a) and (b) of title 31 and section 5 of title 41: <i>Provided</i>, That research or demonstration contracts awarded pursuant to this subsection (including contracts for construction) may be made in accordance with, and subject to the limitations provided with respect to research contracts of the military departments in, section 2353 of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator; <i>Provided further</i>, That no grant may be made under this paragraph in excess of $1,500,000;
 
 &emsp;(3) determine, by laboratory and pilot plant testing, the results of air pollution research and studies in order to develop new or improved processes and plant designs to the point where they can be demonstrated on a large and practical scale;
 
-&emsp;(4) construct, operate, and maintain, or assist in meeting the cost of the construction, operation, and maintenance of new or improved demonstration plants or processes which have promise of accomplishing the purposes of this chapter;
+&emsp;(4) construct, operate, and maintain, or assist in meeting the cost of the construction, operation, and maintenance of new or improved demonstration plants or processes which have promise of accomplishing the purposes of this chapter; <sup>2</sup>
 
 &emsp;(5) study new or improved methods for the recovery and marketing of commercially valuable byproducts resulting from the removal of pollutants.
 
@@ -36,7 +36,7 @@ In carrying out the provisions of this section, the Administrator may—
 
 &emsp;(4) acquire secret processes, technical data, inventions, patent applications, patents, licenses, and an interest in lands, plants, and facilities, and other property or rights by purchase, license, lease, or donation; and
 
-&emsp;(5) cause on-site inspections to be made of promising domestic and foreign projects, and cooperate and participate in their development in instances in which the purposes of the chapter will be served thereby.
+&emsp;(5) cause on-site inspections to be made of promising domestic and foreign projects, andcooperate and participate in their development in instances in which the purposes of the chapter will be served thereby.
 
 #### (c) Clean alternative fuels
 
@@ -86,5 +86,9 @@ Section 813 of Pub. L. 101–549 provided that: “Within 2 years after the enac
 
 #### Extension to Aug. 31, 1970 of Authorization Period for Fiscal Year 1970
 
-Pub. L. 91–316, July 10, 1970, 84 Stat. 416, provided in part that the authorization contained in section 104(c)of the Clean Air Act \[subsec. (c) of this section\] for the fiscal year ending June 30, 1970, should remain available through Aug. 31, 1970, notwithstanding any provisions of this section.
+Pub. L. 91–316, July 10, 1970, 84 Stat. 416, provided in part that the authorization contained in section 104(c) of the Clean Air Act \[subsec. (c) of this section\] for the fiscal year ending June 30, 1970, should remain available through Aug. 31, 1970, notwithstanding any provisions of this section.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The word “and” probably should appear.</i>
 

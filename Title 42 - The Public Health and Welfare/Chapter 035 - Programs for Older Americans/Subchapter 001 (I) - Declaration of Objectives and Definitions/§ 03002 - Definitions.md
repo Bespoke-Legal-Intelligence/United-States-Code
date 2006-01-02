@@ -220,7 +220,7 @@ For the purposes of this chapter—
 
 &emsp;(34) The term “neglect” means—
 
-&emsp;&emsp;(A) the failure to provide for oneself the goods or services that are necessary to avoid physical harm, mental anguish, or mental illness; or
+&emsp;&emsp;(A) the failure to provide for oneself the goods or services that are necessary to avoidphysical harm, mental anguish, or mental illness; or
 
 &emsp;&emsp;(B) the failure of a caregiver to provide the goods or services.
 
@@ -240,9 +240,9 @@ For the purposes of this chapter—
 
 &emsp;(42) The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act.
 
-&emsp;(43) The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title.
+&emsp;(43) The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title.<sup>1</sup>
 
-(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A),title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–501, title I, §101, title VIII, §801(a), Nov. 13, 2000, 114 Stat. 2227, 2291; Pub. L. 108–36, title IV, §416, June 25, 2003, 117 Stat. 831.)
+(Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–501, title I, §101, title VIII, §801(a), Nov. 13, 2000, 114 Stat. 2227, 2291; Pub. L. 108–36, title IV, §416, June 25, 2003, 117 Stat. 831.)
 
 #### References in Text
 
@@ -253,6 +253,8 @@ The Social Security Act, referred to in par. (12), is act Aug. 14, 1935, ch. 531
 Section 8801 of title 20, referred to in par. (12)(E)(ii), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
 
 The Family Violence Prevention and Services Act, referred to in par. (42), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, as amended, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
+
+Section 3796gg–2 of this title, referred to in par. (43), was subsequently amended and no longer defines “sexual assault”. However, it now refers to definitions in section 13925 of this title, which defines “sexual assault” in subsec. (a)(23).
 
 #### Amendments
 
@@ -288,7 +290,7 @@ Par. (33). Pub. L. 106–501, §101(5), redesignated par. (35) as (33). Former p
 
 Pars. (34), (35). Pub. L. 106–501, §101(6), redesignated pars. (37) and (38) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (32) and (33), respectively.
 
-Par. (36). Pub. L. 106–501, §101(6), redesignated par. (39) as (36) and struck out former par.(36) which read as follows: “The term ‘music therapy’ means the use of musical or rhythmic interventions specifically selected by a music therapist to accomplish the restoration, maintenance, or improvement of social or emotional functioning, mental processing, or physical health of an older individual.”
+Par. (36). Pub. L. 106–501, §101(6), redesignated par. (39) as (36) and struck out former par.(36) which read asfollows: “The term ‘music therapy’ means the use of musical or rhythmic interventions specifically selected by a music therapist to accomplish the restoration, maintenance, or improvement of social or emotional functioning, mental processing, or physical health of an older individual.”
 
 Pars. (37) to (41). Pub. L. 106–501, §101(6), redesignated pars. (40) to (44) as (37) to (41), respectively. Former pars. (37) to (39) redesignated (34) to (36), respectively.
 

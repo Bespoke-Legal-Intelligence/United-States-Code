@@ -2,7 +2,7 @@
 
 #### (a) Regulation authority
 
-The Attorney General may promulgate guidelines, regulations, and procedures, as necessary to carry out the purposes of this subchapter, including limitations on the number of awards made during each fiscal year, the submission and review of applications, selection criteria, and the extension or continuation of awards.
+The Attorney General may promulgate guidelines, regulations, and procedures, as necessaryto carry out the purposes of this subchapter, including limitations on the number of awards made during each fiscal year, the submission and review of applications, selection criteria, and the extension or continuation of awards.
 
 #### (b) Award authority
 

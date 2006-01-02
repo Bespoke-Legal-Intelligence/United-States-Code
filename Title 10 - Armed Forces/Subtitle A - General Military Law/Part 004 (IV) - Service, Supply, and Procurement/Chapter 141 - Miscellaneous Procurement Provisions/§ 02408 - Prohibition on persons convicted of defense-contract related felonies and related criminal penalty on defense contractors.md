@@ -12,7 +12,7 @@ Prohibition.—(1) An individual who is convicted of fraud or any other felony a
 
 &emsp;(D) Being involved in any other way, as determined under regulations prescribed by the Secretary of Defense, with a defense contract or first tier subcontract of a defense contract.
 
-(2) Except as provided in paragraph (3), the prohibition in paragraph (1) shall apply for a period, as determined by the Secretary of Defense, of not less than five years after the date of the conviction.
+(2) Except as provided in paragraph (3), the prohibition in paragraph (1) shall apply for a period, as determined by the Secretary of Defense,of not less than five years after the date of the conviction.
 
 (3) The prohibition in paragraph (1) may apply with respect to an individual for a period of less than five years if the Secretary determines that the five-year period should be waived in the interests of national security.
 
@@ -48,7 +48,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-1996—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shallsubmit to Congress a report stating the reasons for the waiver.”
+1996—Subsec. (a)(3). Pub. L. 104–106 struck out at end “If the five-year period is waived, the Secretary shall submit to Congress a report stating the reasons for the waiver.”
 
 1994—Subsec. (a)(4). Pub. L. 103–355, §4102(g), added introductory provisions and subpar. (A).
 

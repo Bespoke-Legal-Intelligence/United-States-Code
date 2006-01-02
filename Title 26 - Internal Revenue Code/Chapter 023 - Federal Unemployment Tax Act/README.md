@@ -24,10 +24,6 @@
 
 1960—Pub. L. 86–778, title V, §531(d)(2), Sept. 13, 1960, 74 Stat. 984, added item 3308 and redesignated former item 3308 as 3309.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 3510, 6103, 6317, 6513, 6612 of this title; title 29 sections 49d, 1302; title 42 sections 1101, 1307.
-
 
 ---
 

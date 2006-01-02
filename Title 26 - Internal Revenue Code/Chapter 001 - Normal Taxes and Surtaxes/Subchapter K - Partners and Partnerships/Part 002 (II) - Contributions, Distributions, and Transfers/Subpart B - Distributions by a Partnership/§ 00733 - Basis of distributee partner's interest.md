@@ -8,7 +8,3 @@ In the case of a distribution by a partnership to a partner other than in liquid
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 247.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 705, 731 of this title.
-

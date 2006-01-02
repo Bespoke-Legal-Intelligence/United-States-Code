@@ -120,7 +120,7 @@ Authorizations of Appropriations.—
 
 &emsp;“(1)
 
-In general.—There are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary to carry out United States Government broadcasting activities consistent with this section under the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.), and the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6501 et seq.), and to carry out other activities under this section consistent with the purposes of such Acts, unless otherwise authorized by Congress.
+In general.—There are authorized to be appropriated for each of fiscal years 2005 and 2006, unless otherwise authorized by Congress, such sums as may be necessary to carry out United States Government broadcasting activities consistent with this sectionunder the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1431 et seq.), the United States International Broadcasting Act of 1994 (22 U.S.C. 6201 et seq.), and the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6501 et seq.), and to carry out other activities under this section consistent with the purposes of such Acts, unless otherwise authorized by Congress.
 
 &emsp;“(2)
 

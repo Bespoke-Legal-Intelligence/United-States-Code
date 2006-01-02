@@ -10,7 +10,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(3) The State shall have in effect and enforce a law providing that an individual with a blood alcohol concentration level at or above the level established by section 31310(a) of this title when operating a commercial motor vehicle is deemed to be driving under the influence of alcohol.
 
-&emsp;(4) The State shall authorize an individual to operate a commercial motor vehicle only by issuing a commercial driver's license containing the information described in section 31308(3) of this title.
+&emsp;(4) The State shall authorize an individual to operate a commercial motor vehicle only by issuing a commercial driver's license containing the information described in section 31308(3) of this title.<sup>1</sup>
 
 &emsp;(5) At least 60 days before issuing a commercial driver's license (or a shorter period the Secretary prescribes by regulation), the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the proposed issuance of the license and other information the Secretary may require to ensure identification of the individual applying for the license.
 
@@ -50,7 +50,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;&emsp;(C) the individual is not disqualified from operating a commercial motor vehicle.
 
-&emsp;(15) The State shall disqualify an individual from operating a commercial motor vehicle for the same reasons and time periods for which the Secretary shall disqualify the individual under subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310.<sup>1</sup>
+&emsp;(15) The State shall disqualify an individual from operating a commercial motor vehicle for the same reasons and time periods for which the Secretary shall disqualify the individual under subsections (b)–(e), (i)(1)(A) and (i)(2) of section 31310.
 
 &emsp;(16)(A) Before issuing a commercial driver's license to an individual, the State shall request the Secretary for information from the National Driver Register maintained under chapter 303 of this title (after the Secretary decides the Register is operational) on whether the individual—
 
@@ -62,7 +62,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(B) The State shall give full weight and consideration to that information in deciding whether to issue the individual a commercial driver's license.
 
-&emsp;(17) The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(h) <sup>1</sup> of this title.
+&emsp;(17) The State shall adopt and enforce regulations prescribed by the Secretary under as <sup>2</sup> 31310(j) of this title.
 
 &emsp;(18) The State shall maintain, as part of its driver information system, a record of each violation of a State or local motor vehicle traffic control law while operating a motor vehicle (except a parking violation) for each individual who holds a commercial driver's license. The record shall be available upon request to the individual, the Secretary, employers, prospective employers, State licensing and law enforcement agencies, and their authorized agents.
 
@@ -76,6 +76,8 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(20) The State shall revoke, suspend, or cancel the commercial driver's license of an individual in accordance with regulations issued by the Secretary to carry out section 31310(g).
 
+&emsp;(21) By the date established by the Secretary under section 31309(e)(4), the State shall be operating a commercial driver's license information system that is compatible with the modernized commercial driver's license information system under section 31309.
+
 (b)
 
 State Satisfaction of Requirements.—A State may satisfy the requirements of subsection (a) of this section that the State disqualify an individual from operating a commercial motor vehicle by revoking, suspending, or canceling the driver's license issued to the individual.
@@ -84,7 +86,7 @@ State Satisfaction of Requirements.—A State may satisfy the requirements of su
 
 Notification.—Not later than 30 days after being notified by a State of the proposed issuance of a commercial driver's license to an individual, the Secretary or the operator of the information system under section 31309 of this title, as the case may be, shall notify the State whether the individual has a commercial driver's license issued by another State or has been disqualified from operating a commercial motor vehicle by another State or the Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1023; Pub. L. 104–88, title IV, §403(c), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title IV, §4011(e), June 9, 1998, 112 Stat. 408; Pub. L. 106–159, title II, §202, Dec. 9, 1999, 113 Stat. 1760; Pub. L. 109–59, title IV, §4123(b), Aug. 10, 2005, 119 Stat. 1735.)
 
 Historical and Revision Notes
 
@@ -108,9 +110,15 @@ In subsection (b), the words “in accordance with the requirements of such subs
 
 #### References in Text
 
-Subsections (g) and (h) of section 31310 referred to in subsec. (a)(15), (17), were redesignated subsections (i) and (j), respectively, of section 31310 by Pub. L. 106–159, title II, §201(b)(1), Dec. 9, 1999, 113 Stat. 1759.
+Par. (3) of section 31308 of this title, referred to in subsec. (a)(4), was redesignated par. (4) by Pub. L. 109–59, title IV, §4122(2)(C), Aug. 10, 2005, 119 Stat. 1734.
 
 #### Amendments
+
+2005—Subsec. (a)(15). Pub. L. 109–59, §4123(b)(1), substituted “(i)(1)(A) and (i)(2)” for “(g)(1)(A), and (g)(2)”.
+
+Subsec. (a)(17). Pub. L. 109–59, §4123(b)(2), substituted “as 31310(j)” for “section 31310(h)”.
+
+Subsec. (a)(21). Pub. L. 109–59, §4123(b)(3), added par. (21).
 
 1999—Subsec. (a)(6). Pub. L. 106–159, §202(a), inserted “or renewing such a license” after “to an individual” and struck out “commercial” after “has issued a”.
 
@@ -153,4 +161,6 @@ Development.—In cooperation with the States, the Secretary shall develop a uni
 Status Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the implementation of this section.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
 

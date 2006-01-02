@@ -32,7 +32,7 @@ Section is comprised of section 101(a) \[title VIII, §803\] of Pub. L. 106–42
 
 #### Amendments
 
-2004—Pub. L. 108–199 repealed heading and text of subsec. (a). Text read as follows: “Beginning 180 days after the date of enactment of this Act, or October 31, 2000, whichever is later, and on October 31 of each year thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the sufficiency of audits of the financial operations of each multilateral development bank conducted by persons or entities outside such bank.”
+2004—Pub. L. 108–199 repealed heading and text of subsec. (a). Text read as follows: “Beginning 180 days after the date of enactment of this Act, or October 31, 2000, whichever is later, and on October 31 of each yearthereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report on the sufficiency of audits of the financial operations of each multilateral development bank conducted by persons or entities outside such bank.”
 
 #### Definitions
 
@@ -52,7 +52,7 @@ Fund.—The term ‘Fund’ means the International Monetary Fund.
 
 &emsp;“(4)
 
-International financial institutions.—The term ‘international financial institutions’ means themultilateral development banks and the International Monetary Fund.
+International financial institutions.—The term ‘international financial institutions’ means the multilateral development banks and the International Monetary Fund.
 
 &emsp;“(5)
 

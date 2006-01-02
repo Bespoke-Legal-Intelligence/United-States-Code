@@ -124,7 +124,7 @@ Not later than 4 years after July 22, 2004, the Secretary shall submit to Congre
 
 #### References in Text
 
-Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to insubsecs. (b)(1) and (f)(1), is section §101(e) \[title III, §347\] of Pub. L. 105–277, div. A, as amended, which is set out as a note under section 2104 of Title 16, Conservation.
+Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), is section §101(e) \[title III, §347\] of Pub. L. 105–277, div. A, as amended, which is set out as a note under section 2104 of Title 16, Conservation.
 
 This section, referred to in subsecs. (f) and (g), was in the original “this Act”, meaning Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as a note under section 3101 of this title.
 

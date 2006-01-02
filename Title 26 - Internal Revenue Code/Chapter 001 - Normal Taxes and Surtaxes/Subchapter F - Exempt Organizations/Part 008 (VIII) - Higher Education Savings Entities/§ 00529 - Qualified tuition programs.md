@@ -20,7 +20,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets the other requirements of this subsection.
 
-> &emsp;Except to the extent provided in regulations, a program established and maintained by 1 or more eligible educational institutions shall not be treated as a qualified tuition programunless such program provides that amounts are held in a qualified trust and such program has received a ruling or determination that such program meets the applicable requirements for a qualified tuition program. For purposes of the preceding sentence, the term “qualified trust” means a trust which is created or organized in the United States for the exclusive benefit of designated beneficiaries and with respect to which the requirements of paragraphs (2) and (5) of section 408(a) are met.
+> &emsp;Except to the extent provided in regulations, a program established and maintained by 1 or more eligible educational institutions shall not be treated as a qualified tuition program unless such program provides that amounts are held in a qualified trust and such program has received a ruling or determination that such program meets the applicable requirements for a qualified tuition program. For purposes of the preceding sentence, the term “qualified trust” means a trust which is created or organized in the United States for the exclusive benefit of designated beneficiaries and with respect to which the requirements of paragraphs (2) and (5) of section 408(a) are met.
 
 #### (2) Cash contributions
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (C) Amounts includible in estate of donor making excess contributions
 
-&emsp;&emsp;In the case of a donor who makes the election described in paragraph (2)(B) and who dies before the close of the 5-year period referred to in such paragraph, notwithstanding subparagraph (A), the gross estate of the donor shall include the portion of such contributions properly allocable to periods after the date of death of the donor.
+&emsp;&emsp;In the case of a donor who makes the election described in paragraph (2)(B) and whodies before the close of the 5-year period referred to in such paragraph, notwithstanding subparagraph (A), the gross estate of the donor shall include the portion of such contributions properly allocable to periods after the date of death of the donor.
 
 #### (5) Other gift tax rules
 
@@ -170,11 +170,15 @@ For purposes of this section—
 
 #### (B) Treatment of designation of new beneficiary
 
-&emsp;&emsp;The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651).
+&emsp;&emsp;The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) unless the new beneficiary is—
+
+&emsp;&emsp;&emsp;(i) assigned to the same generation as (or a higher generation than) the old beneficiary (determined in accordance with section 2651), and
+
+&emsp;&emsp;&emsp;(ii) a member of the family of the old beneficiary.
 
 #### (6) Additional tax
 
-&emsp;The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from an education individual retirement account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004, which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
+&emsp;The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from an <sup>1</sup> Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004, which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
 
 #### (d) Reports
 
@@ -192,7 +196,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) in the case of a change in beneficiaries described in subsection (c)(3)(C), the individual who is the new beneficiary, and
 
-&emsp;&emsp;(C) in the case of an interest in a qualified tuition program purchased by a State or local government (or agency or instrumentality thereof) or an organization described in section 501(c)(3) and exempt from taxationunder section 501(a) as part of a scholarship program operated by such government or organization, the individual receiving such interest as a scholarship.
+&emsp;&emsp;(C) in the case of an interest in a qualified tuition program purchased by a State or local government (or agency or instrumentality thereof) or an organization described in section 501(c)(3) and exempt from taxation under section 501(a) as part of a scholarship program operated by such government or organization, the individual receiving such interest as a scholarship.
 
 #### (2) Member of family
 
@@ -200,7 +204,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the spouse of such beneficiary;
 
-&emsp;&emsp;(B) an individual who bears a relationship to such beneficiary which is described in paragraphs (1) through (8) of section 152(a);
+&emsp;&emsp;(B) an individual who bears a relationship to such beneficiary which is described in subparagraphs (A) through (G) of section 152(d)(2);
 
 &emsp;&emsp;(C) the spouse of any individual described in subparagraph (B); and
 
@@ -242,7 +246,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which is eligible to participate in a program under title IV of such Act.
 
-(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56.)
+(Added Pub. L. 104–188, title I, §1806(a), Aug. 20, 1996, 110 Stat. 1895; amended Pub. L. 105–34, title II, §211(a), (b), (d), (e)(2)(A), title XVI, §1601(h)(1)(A), (B), Aug. 5, 1997, 111 Stat. 810, 812, 1092; Pub. L. 105–206, title VI, §6004(c)(2), (3), July 22, 1998, 112 Stat. 793; Pub. L. 106–554, §1(a)(7) \[title III, §319(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §402(a)(1)–(3), (4)(A), (C), (D), (b)(1), (c)–(g), June 7, 2001, 115 Stat. 60–63; Pub. L. 107–22, §1(b)(3)(C), July 26, 2001, 115 Stat. 197; Pub. L. 107–147, title IV, §417(11), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(21), title IV, §406(a), Oct. 4, 2004, 118 Stat. 1178, 1189; Pub. L. 109–135, title IV, §412(ee)(3), Dec. 21, 2005, 119 Stat. 2639.)
 
 #### Amendment of Section
 
@@ -258,6 +262,12 @@ The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89�
 
 #### Amendments
 
+2005—Subsec. (c)(6). Pub. L. 109–135 substituted “Coverdell education savings account” for “education individual retirement account”.
+
+2004—Subsec. (c)(5)(B). Pub. L. 108–311, §406(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) only if the new beneficiary is a generation below the generation of the old beneficiary (determined in accordance with section 2651).”
+
+Subsec. (e)(2)(B). Pub. L. 108–311, §207(21), substituted “subparagraphs (A) through (G) of section 152(d)(2)” for “paragraphs (1) through (8) of section 152(a)”.
+
 2002—Subsec. (e)(3)(B)(i). Pub. L. 107–147 substituted “subsection (b)(6)” for “subsection (b)(7)”.
 
 2001—Pub. L. 107–16, §§402(a)(4)(D), 901, temporarily struck out “State” before “tuition” in section catchline. See Effective and Termination Dates of 2001 Amendment note below.
@@ -272,7 +282,7 @@ Subsec. (b)(1)(A)(ii). Pub. L. 107–16, §§402(a)(2), 901, temporarily inserte
 
 Subsec. (b)(2). Pub. L. 107–16, §§402(a)(4)(A), 901, temporarily substituted “qualified tuition” for “qualified State tuition”. See Effective and Termination Dates of 2001 Amendment note below.
 
-Subsec. (b)(3) to (7). Pub. L. 107–16, §§402(a)(3)(A), (4)(A), 901, temporarily redesignated pars. (4) to (7) as\(3) to (6), respectively, substituted “qualified tuition” for “qualified State tuition” wherever appearing, and struck out heading and text of former par. (3). Text read as follows: “A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
+Subsec. (b)(3) to (7). Pub. L. 107–16, §§402(a)(3)(A), (4)(A), 901, temporarily redesignated pars. (4) to (7) as (3) to (6), respectively, substituted “qualified tuition” for “qualified State tuition” wherever appearing, and struck out heading and text of former par. (3). Text read as follows: “A program shall not be treated as a qualified State tuition program unless it imposes a more than de minimis penalty on any refund of earnings from the account which are not—
 
 &emsp;“(A) used for qualified higher education expenses of the designated beneficiary,
 
@@ -366,6 +376,12 @@ Subsec. (e)(3). Pub. L. 105–34, §211(a), amended heading and text of par. (3)
 
 Subsec. (e)(5). Pub. L. 105–34, §211(b)(2), added par. (5).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by section 207(21) of Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
+Amendment by section 406(a) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
+
 #### Effective and Termination Dates of 2001 Amendments
 
 Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
@@ -376,7 +392,7 @@ Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -440,7 +456,5 @@ Transition rule.—If—
 
 > For purposes of subparagraph (B)(ii), if a State has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 72, 135, 221, 222, 530, 6693 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
 

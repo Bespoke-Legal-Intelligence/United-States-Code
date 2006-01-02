@@ -16,7 +16,3 @@ Use by Air Force.—(1) The Secretary of the Air Force may use the services of t
 
 A prior section 9442, added Pub. L. 98–525, title XV, §1533(b)(1), Oct. 19, 1984, 98 Stat. 2632, related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of this chapter by Pub. L. 106–398.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9441, 9448 of this title.
-

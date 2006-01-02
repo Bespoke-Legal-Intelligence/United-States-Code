@@ -22,7 +22,3 @@ July 28, 1942, ch. 528, §6, 56 Stat. 723; July 17, 1953, ch. 220, §1(e) (1st 7
 
 The word “receive” is omitted as surplusage. The words “because of a posthumous commission or warrant” are substituted for the words “by virtue of any provision of sections 491a–491d \[285b–285d\] and 612 \[285e\] of this title”, in 10:491d and 34:285f.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 37 section 552.
-

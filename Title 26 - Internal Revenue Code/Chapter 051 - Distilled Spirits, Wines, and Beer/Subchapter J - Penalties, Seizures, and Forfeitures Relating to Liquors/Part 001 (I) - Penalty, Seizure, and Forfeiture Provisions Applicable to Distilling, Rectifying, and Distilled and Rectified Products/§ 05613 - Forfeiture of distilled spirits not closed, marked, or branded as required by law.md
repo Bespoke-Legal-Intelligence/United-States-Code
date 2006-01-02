@@ -2,7 +2,7 @@
 
 #### (a) Unmarked or unbranded casks or packages
 
-All distilled spirits found in any cask or package required by this chapter or any regulationissued pursuant thereto to bear a mark, brand, or identification, which cask or package is not marked, branded, or identified in compliance with this chapter and regulations issued pursuant thereto, shall be forfeited to the United States.
+All distilled spirits found in any cask or package required by this chapter or any regulation issued pursuant thereto to bear a mark, brand, or identification, which cask or package is not marked, branded, or identified in compliance with this chapter and regulations issued pursuant thereto, shall be forfeited to the United States.
 
 #### (b) Containers without closures
 
@@ -25,8 +25,4 @@ Subsec. (b). Pub. L. 98–369, §454(c)(12)(A), amended subsec. (b) generally, s
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5206 of this title.
 

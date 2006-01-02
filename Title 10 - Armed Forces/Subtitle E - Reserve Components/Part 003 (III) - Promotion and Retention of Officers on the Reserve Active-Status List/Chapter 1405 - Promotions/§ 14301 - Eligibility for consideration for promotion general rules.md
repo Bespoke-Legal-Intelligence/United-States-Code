@@ -20,7 +20,7 @@ Previously Selected Officers Not Eligible To Be Considered.—A promotion board 
 
 &emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case of such a report that has not yet been approved by the President.
 
-&emsp;(3) An officer who has been approved for Federal recognition by a board convened under section 307 of title 32 and nominated by the President for promotion to that grade as a reserve of the Army or of the Air Force as thecase may be, if that nomination is pending before the Senate.
+&emsp;(3) An officer who has been approved for Federal recognition by a board convened under section 307 of title 32 and nominated by the President for promotion to that grade as a reserve of the Army or of the Air Force as the case may be, if that nomination is pending before the Senate.
 
 &emsp;(4) An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
 
@@ -119,8 +119,4 @@ Amendment by section 503(b), (c) of Pub. L. 105–85 effective Nov. 18, 1997, an
 #### Effective Date
 
 Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14304 of this title.
 

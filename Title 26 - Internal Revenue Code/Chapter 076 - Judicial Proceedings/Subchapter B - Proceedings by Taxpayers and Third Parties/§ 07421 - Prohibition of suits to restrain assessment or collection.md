@@ -78,9 +78,5 @@ Exceptions.—Subsection (a) shall not apply in any case where—
 
 &emsp;“(2) the request by the officer or employee is made in person and the taxpayer's attorney or other federally authorized tax practitioner (within the meaning of section 7525(a)(3)(A) of the Internal Revenue Code of 1986) is present, or the request is made in writing to the taxpayer's attorney or other representative.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4961, 6015, 6207, 6213, 6246, 6330, 6331, 6672, 6694, 6703, 6904 of this title.
-
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

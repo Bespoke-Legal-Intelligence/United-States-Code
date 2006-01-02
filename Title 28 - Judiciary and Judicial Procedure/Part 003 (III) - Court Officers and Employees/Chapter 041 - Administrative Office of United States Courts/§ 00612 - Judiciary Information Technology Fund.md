@@ -52,7 +52,7 @@ Multiyear contracts.—In conducting activities under subsection (a), the Direct
 
 &emsp;&emsp;(A) funds are available and adequate for payment of the costs of such contract for the first fiscal year and for payment of any costs of cancellation or termination of the contract;
 
-&emsp;&emsp;(B) such contract is awarded on a fully competitive basis; and
+&emsp;&emsp;(B) such contract is in accordance with the Director's authority in section 604(g) of 28 U.S.C.; and,<sup>1</sup>
 
 &emsp;&emsp;(C) the Director determines that—
 
@@ -80,13 +80,13 @@ In general.—The Director shall submit to the Congress an annual report on the 
 
 Additional contents of report.—The annual report submitted under this subsection shall include—
 
-&emsp;&emsp;(A) the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); <sup>1</sup> and
+&emsp;&emsp;(A) the specific actions taken and the progress made to improve the plan developed under subsection (b) and the long range automation plan and strategic business plan developed under subsection (k); <sup>2</sup> and
 
-&emsp;&emsp;(B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments, and the reasons for any delays in scheduled systems development, or budget overruns.
+&emsp;&emsp;(B) a comparison of planned Fund expenditures and accomplishments with actual Fund expenditures and accomplishments,and the reasons for any delays in scheduled systems development, or budget overruns.
 
 (h)
 
-Reprogramming.—The Director of the Administrative Office of the United States Courts, under the supervision of the Judicial Conference of the United States, may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only betransferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227).
+Reprogramming.—The Director of the Administrative Office of the United States Courts, under the supervision of the Judicial Conference of the United States, may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227).
 
 (i)
 
@@ -108,7 +108,7 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 
 &emsp;(6) assess the current utilization and future user requirements of the data communications network.
 
-(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299.)
+(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–115, div. A, title IV, §407(b), Nov. 30, 2005, 119 Stat. 2471.)
 
 #### References in Text
 
@@ -121,6 +121,8 @@ Subsection (k), referred to in subsec. (g)(2)(A), was redesignated subsection (j
 Section 606 of Public Law 100–459, referred to in subsec. (h), is section 606 of Pub. L. 100–459, title VI, Oct. 1, 1988, 102 Stat. 2227, which is not classified to the Code.
 
 #### Amendments
+
+2005—Subsec. (e)(2)(B). Pub. L. 109–115 substituted “such contract is in accordance with the Director's authority in section 604(g) of 28 U.S.C.; and,” for “such contract is awarded on a fully competitive basis; and”.
 
 2002—Subsec. (f). Pub. L. 107–217 substituted “sections 501–505 of title 40” for “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)”.
 
@@ -160,7 +162,7 @@ Subsecs. (b), (c)(2), (e). Pub. L. 104–106, §5602(b)(3), substituted “infor
 
 Subsec. (f). Pub. L. 104–106, §5602(b)(3), substituted “information technology” for “automatic data processing”.
 
-Pub. L. 104–106, §5602(a)(1), substituted “the provisions of law, policies, and regulations applicable to executive agencies under the Information Technology Management Reform Act of 1996” for “section 111 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759)”.
+Pub. L. 104–106, §5602(a)(1), substituted “the provisions of law, policies, and regulations applicable to executive agencies under the Information Technology Management Reform Act of 1996” for “section 111 of theFederal Property and Administrative Services Act of 1949 (40 U.S.C. 759)”.
 
 Subsec. (g). Pub. L. 104–106, §5602(a)(2), substituted “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)” for “sections 111 and 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 and 759)”.
 
@@ -172,7 +174,7 @@ Pub. L. 104–106, §5602(a)(3), (4), redesignated subsec. (m) as (<i>l</i>) and
 
 “(<i>l</i>)
 
-Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has themeaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
+Definition.—For purposes of this section, the term ‘automatic data processing equipment’ has the meaning given that term in section 111(a)(2)(A) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 759(a)(2)(A)).”
 
 Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
 
@@ -208,5 +210,11 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (g) of this section is listed on page 143), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Expiration of Authorities
+
+Authorities granted in section 407 of Pub. L. 109–115 to expire on Sept. 30, 2010, see section 407(c) of Pub. L. 109–115, set out as a note under section 604 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

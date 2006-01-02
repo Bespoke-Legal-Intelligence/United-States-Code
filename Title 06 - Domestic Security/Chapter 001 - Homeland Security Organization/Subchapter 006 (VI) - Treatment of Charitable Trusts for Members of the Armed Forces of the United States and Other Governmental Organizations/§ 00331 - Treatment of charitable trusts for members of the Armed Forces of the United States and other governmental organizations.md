@@ -8,7 +8,7 @@ Congress finds the following:
 
 &emsp;(2) Members of the Armed Forces of the United States have lost their lives while battling the evils of terrorism around the world.
 
-&emsp;(3) Personnel of the Central Intelligence Agency (CIA) charged with the responsibility of covert observation of terrorists around the world are often put in harm's way during their service to the United States.
+&emsp;(3) Personnel of the Central Intelligence Agency (CIA) charged with the responsibility of covert observation of terrorists around theworld are often put in harm's way during their service to the United States.
 
 &emsp;(4) Personnel of the Central Intelligence Agency have also lost their lives while battling the evils of terrorism around the world.
 
@@ -44,7 +44,7 @@ The requirements described in this subsection are as follows:
 
 > &emsp;whose deaths occur in the line of duty and arise out of terrorist attacks, military operations, intelligence operations, or law enforcement operations or accidents connected with activities occurring after September 11, 2001, and related to domestic or foreign efforts to curb international terrorism, including the Authorization for Use of Military Force (Public Law 107–40; 115 Stat. 224).
 
-&emsp;(2) Other than funds or donations reasonably necessary to establish a trust, not more than15 percent of all funds or donations (or 15 percent of annual earnings on funds invested in a private foundation) may be used for administrative purposes.
+&emsp;(2) Other than funds or donations reasonably necessary to establish a trust, not more than 15 percent of all funds or donations (or 15 percent of annual earnings on funds invested in a private foundation) may be used for administrative purposes.
 
 &emsp;(3) No part of the net earnings of any Johnny Micheal Spann Patriot Trust may inure to the benefit of any individual based solely on the position of such individual as a shareholder, an officer or employee of such Trust.
 
@@ -60,7 +60,7 @@ The requirements described in this subsection are as follows:
 
 &emsp;(9)(A) When determining the amount of a distribution to any beneficiary described in paragraph (1), a Johnny Micheal Spann Patriot Trust should take into account the amount of any collateral source compensation that the beneficiary has received or is entitled to receive as a result of the death of an individual described in paragraph (1).
 
-&emsp;(B) Collateral source compensation includes all compensation from collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to the death of an individual described in paragraph (1).
+&emsp;(B) Collateral source compensation includes all compensation from collateral sources, including life insurance, pension funds, death benefit programs, and payments by Federal, State, or local governments related to thedeath of an individual described in paragraph (1).
 
 #### (d) Treatment of Johnny Micheal Spann Patriot Trusts
 

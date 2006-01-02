@@ -56,7 +56,7 @@ The Secretary shall select the eligible applicants to receive grants under subse
 
 &emsp;&emsp;(F) Failure to correct deficiencies brought to the grantee's attention in writing as a result of monitoring activities, reviews, assessments, or other activities.
 
-&emsp;&emsp;(G) Failure to return a grant closeout package or outstanding advances within 90 days of the grant expiration date or receipt of closeout package, whichever is later, unless an extension has been requested and granted.
+&emsp;&emsp;(G) Failure to return a grant closeout package or outstanding advances within 90days of the grant expiration date or receipt of closeout package, whichever is later, unless an extension has been requested and granted.
 
 &emsp;&emsp;(H) Failure to submit required reports.
 
@@ -98,7 +98,7 @@ The Secretary shall select the eligible applicants to receive grants under subse
 
 #### (C) After second year of failure
 
-&emsp;&emsp;If a grantee fails to meet the national performance measures for a second consecutiveprogram year, the Secretary shall conduct a national competition to award, for the first full program year following the determination (minimizing, to the extent possible, the disruption of services provided to enrollees), an amount equal to 25 percent of the funds awarded to the grantee for such year.
+&emsp;&emsp;If a grantee fails to meet the national performance measures for a second consecutive program year, the Secretary shall conduct a national competition to award, for the first full program year following the determination (minimizing, to the extent possible, the disruption of services provided to enrollees), an amount equal to 25 percent of the funds awarded to the grantee for such year.
 
 #### (D) Competition after third consecutive year of failure
 

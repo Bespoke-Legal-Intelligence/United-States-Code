@@ -44,7 +44,7 @@ Amounts made available under a grant, contract or cooperative agreement under su
 
 #### (2) Annual reports
 
-&emsp;The Director shall submit to the Committee on Health, Education, Labor, and Pensions andthe Committee on Appropriations of the Senate and the Committee on Commerce and Committee on Appropriations of the House of Representatives, an annual report with the results of the analyses and evaluation under paragraph (1).
+&emsp;The Director shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and Committee on Appropriations of the House of Representatives, an annual report with the results of the analyses and evaluation under paragraph (1).
 
 #### (e) Authorization of appropriations
 

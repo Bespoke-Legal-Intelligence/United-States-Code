@@ -148,7 +148,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 30 days after publication in the Federal Register of a designation, an amended designation, or a determination inresponse to a petition for revocation, the designated organization may seek judicial review in the United States Court of Appeals for the District of Columbia Circuit.
+&emsp;Not later than 30 days after publication in the Federal Register of a designation, an amended designation, or a determination in response to a petition for revocation, the designated organization may seek judicial review in the United States Court of Appeals for the District of Columbia Circuit.
 
 #### (2) Basis of review
 
@@ -200,7 +200,7 @@ Another section 411(c) of Pub. L. 107–56 enacted provisions set out as an Effe
 
 Subsec. (a)(4)(A). Pub. L. 108–458, §7119(a)(1), substituted “A designation” for “Subject to paragraphs (5) and (6), a designation” and “until revoked under paragraph (5) or (6) or set aside pursuant to subsection (c) of this section” for “for a period of 2 years beginning on the effective date of the designation under paragraph (2)(B)”.
 
-Subsec. (a)(4)(B). Pub. L. 108–458, §7119(a)(2), added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
+Subsec. (a)(4)(B). Pub. L. 108–458, §7119(a)(2), added subpar. (B) and struck out former subpar. (B) which contained provisions authorizing Secretary to redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end ofthe 2-year period referred to in subpar. (A) or at the end of any 2-year redesignation period.
 
 Subsec. (a)(4)(C). Pub. L. 108–458, §7119(a)(3), added subpar. (C).
 
@@ -228,7 +228,7 @@ Subsec. (a)(1)(C). Pub. L. 107–56, §411(c)(2), inserted “or terrorism” af
 
 Subsec. (a)(2)(A). Pub. L. 107–56, §411(c)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
 
-&emsp;“(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate,and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
+&emsp;“(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
 
 &emsp;“(ii) seven days after such notification, publish the designation in the Federal Register.”
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions
 
 Amendment by section 356 of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 358 of Pub. L. 104–208, set out as a note under section 1182 of this title.
 
-Section 671(c)(7) of div. C of Pub. L. 104–208 provided that: “The amendments made by this subsection \[amending this section and sections 1105a and 1252a of this title\] shall take effect as if included in the enactment of subtitle A of title IV of AEPDA \[Pub. L. 104–132\].”
+Section 671(c)(7) of div. C of Pub. L. 104–208 provided that: “The amendments made by this subsection \[amending this section and sections 1105a and 1252a of this title\] shall take effect as if included in the enactment of subtitle A of title IV of AEPDA \[AEDPA, Pub. L. 104–132\].”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

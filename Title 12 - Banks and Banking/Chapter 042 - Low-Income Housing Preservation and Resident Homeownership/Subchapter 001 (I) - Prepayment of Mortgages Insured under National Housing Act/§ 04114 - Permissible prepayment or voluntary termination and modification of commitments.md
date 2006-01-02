@@ -12,7 +12,7 @@ Notwithstanding any limitations on prepayment or voluntary termination under thi
 
 &emsp;(2) An owner who intended to transfer the housing to a qualified purchaser under section 4110 or 4111 of this title, and fully complied with the provisions of such section, did not receive any bona fide offers from any qualified purchasers within the applicable time periods.
 
-> In the event that the purchaser under the plan of action is unable to consummate the purchase for reasons other than the failure of the Secretary to provide incentives, an owner may terminate the low-income affordability restrictions through prepayment or voluntary termination subject to the provisions of sections 4110 and 4111 of this title.
+> In the event that the purchaser under the plan of action is unable to consummate the purchasefor reasons other than the failure of the Secretary to provide incentives, an owner may terminate the low-income affordability restrictions through prepayment or voluntary termination subject to the provisions of sections 4110 and 4111 of this title.
 
 #### (b) Section 1437f rental assistance
 

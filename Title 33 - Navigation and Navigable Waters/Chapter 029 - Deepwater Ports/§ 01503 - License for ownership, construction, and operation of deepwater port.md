@@ -24,7 +24,7 @@ The Secretary may issue a license in accordance with the provisions of this chap
 
 &emsp;(4) he determines that the deepwater port will not unreasonably interfere with international navigation or other reasonable uses of the high seas, as defined by treaty, convention, or customary international law;
 
-&emsp;(5) he determines, in accordance with the environmental review criteria established pursuant to section 1505 of this title, that the applicant has demonstrated that the deepwater port will be constructed and operated using best available technology, so as to prevent or minimize adverse impact on the marine environment;
+&emsp;(5) he determines, in accordance with the environmental review criteria established pursuant to section 1505 of this title, that the applicant has demonstrated that the deepwater port will be constructed and operated using best available technology, so as to prevent orminimize adverse impact on the marine environment;
 
 &emsp;(6) he has not been informed, within 45 days of the last public hearing on a proposed license for a designated application area, by the Administrator of the Environmental Protection Agency that the deepwater port will not conform with all applicable provisions of the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], or the Marine Protection, Research and Sanctuaries Act, as amended \[16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\];
 
@@ -56,7 +56,7 @@ If an application is made under this chapter for a license to construct a deepwa
 
 #### (f) Amendments, transfers, and reinstatements
 
-The Secretary may amend, transfer, or reinstate a license issued under this chapter <sup>2</sup> if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
+The Secretary may amend, transfer, or reinstate a license issued under this chapter <sup>2</sup> if theSecretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
 
 #### (g) Eligible citizens
 
@@ -80,7 +80,7 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title
 
 This chapter, referred to first three times in subsec. (e)(1) and first time in subsec. (f), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, §2, 67 Stat. 462, as amended, which is classified generally to subchapterIII (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, §2, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Subsec. (f). Pub. L. 104–324, §504(e), inserted heading and amended text gene
 
 Subsec. (e)(1). Pub. L. 98–419, §2(e), inserted provision that on petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter and is reasonable, and necessary to meet the objectives of this chapter, and that the Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
-Subsec. (f). Pub. L. 98–419, §2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter and the prerequisites to issuance under subsec. (c) of this section.
+Subsec. (f). Pub. L. 98–419, §2(c), substituted provisions authorizing the Secretary to amend, transfer, or reinstate a license issued under this chapter if the amendment, transfer, or reinstatement is consistent with the findings made at the time the license was issued for provisions which had authorized the Secretary to transfer such licenses if the Secretary determined that such transfer was in the public interest and that the transferee met the requirements of this chapter andthe prerequisites to issuance under subsec. (c) of this section.
 
 Subsec. (h). Pub. L. 98–419, §2(d), substituted provision that a license issued under this chapter remain in effect unless suspended or revoked by the Secretary or until surrendered by the licensee for provisions which had limited the terms of licenses to not more than 20 years and which had granted each licensee a preferential right of renewal for not more than 10 years, subject to subsec. (c), upon such conditions and for such term as determined by the Secretary to be reasonable and appropriate.
 

@@ -44,15 +44,17 @@
 
 (g) For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-(h) This section shall cease to be effective after December 31, 2005.
+(h) This section shall cease to be effective after December 31, 2007.
 
-(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346.)
+(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557; Pub. L. 108–199, div. F, title V, §541, Jan. 23, 2004, 118 Stat. 346; Pub. L. 109–100, §1, Nov. 11, 2005, 119 Stat. 2170.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
 
 #### Amendments
+
+2005—Subsec. (h). Pub. L. 109–100 substituted “2007” for “2005”.
 
 2004—Subsec. (h). Pub. L. 108–199 substituted “2005” for “2003”.
 

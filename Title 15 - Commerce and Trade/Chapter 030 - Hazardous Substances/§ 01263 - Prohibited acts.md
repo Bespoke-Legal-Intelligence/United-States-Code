@@ -4,7 +4,7 @@ The following acts and the causing thereof are prohibited:
 
 (a) The introduction or delivery for introduction into interstate commerce of any misbranded hazardous substance or banned hazardous substance.
 
-(b) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the label of, or the doing of any other act with respect to, a hazardous substance, if such act is done while the substance is in interstate commerce, or while the substance is held forsale (whether or not the first sale) after shipment in interstate commerce, and results in the hazardous substance being a misbranded hazardous substance or banned hazardous substance.
+(b) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the label of, or the doing of any other act with respect to, a hazardous substance, if such act is done while the substance is in interstate commerce, or while the substance is held for sale (whether or not the first sale) after shipment in interstate commerce, and results in the hazardous substance being a misbranded hazardous substance or banned hazardous substance.
 
 (c) The receipt in interstate commerce of any misbranded hazardous substance or banned hazardous substance and the delivery or proffered delivery thereof for pay or otherwise.
 

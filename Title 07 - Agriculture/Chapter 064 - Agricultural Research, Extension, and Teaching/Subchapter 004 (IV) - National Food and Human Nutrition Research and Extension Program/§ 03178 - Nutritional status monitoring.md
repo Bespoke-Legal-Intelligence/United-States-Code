@@ -12,7 +12,7 @@ The Secretary and the Secretary of Health and Human Services shall formulate and
 
 #### (b) Coordination of existing activities; recommendation for necessary additional authorities
 
-The proposal shall provide for coordination of activities under existing authorities and containrecommendations for any additional authorities necessary to achieve a comprehensive monitoring system.
+The proposal shall provide for coordination of activities under existing authorities and contain recommendations for any additional authorities necessary to achieve a comprehensive monitoring system.
 
 (Pub. L. 95–113, title XIV, §1428, Sept. 29, 1977, 91 Stat. 1001; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

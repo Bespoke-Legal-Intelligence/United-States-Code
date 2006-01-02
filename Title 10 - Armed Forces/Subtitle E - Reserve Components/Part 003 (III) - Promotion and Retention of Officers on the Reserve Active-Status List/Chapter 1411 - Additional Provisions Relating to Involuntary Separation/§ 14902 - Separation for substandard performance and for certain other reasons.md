@@ -14,7 +14,3 @@ Regulations.—The authority of the Secretary of a military department under thi
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2958.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14109, 14903, 14904, 14905 of this title.
-

@@ -178,7 +178,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(A) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
 
-&emsp;&emsp;(i) for fiscal year 1993, make a grant to an entity described in subsection (j)(9) of thissection (relating to the establishment of a committee to establish the Foundation);
+&emsp;&emsp;(i) for fiscal year 1993, make a grant to an entity described in subsection (j)(9) of this section (relating to the establishment of a committee to establish the Foundation);
 
 &emsp;&emsp;(ii) for fiscal year 1994, make a grant to the committee established under such subsection, or if the Foundation has been established, to the Foundation; and
 

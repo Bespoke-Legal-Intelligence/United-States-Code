@@ -16,7 +16,7 @@ Any entity, including a trade association, firm, certified or recognized union, 
 
 #### (b) Identification of industry
 
-Within 90 days after receipt of a petition under subsection (a) of this section, the Trade Representative, in consultation with the Secretary of Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) of this section and the deterioration described in subsection (a)(2) of this section.
+Within 90 days after receipt of a petition under subsection (a) of this section, the Trade Representative, in consultation with the Secretaryof Commerce, shall decide whether to identify the industry on the basis that there is a reasonable likelihood that the industry may face both the subsidization described in subsection (a)(1) of this section and the deterioration described in subsection (a)(2) of this section.
 
 #### (c) Action after identification
 

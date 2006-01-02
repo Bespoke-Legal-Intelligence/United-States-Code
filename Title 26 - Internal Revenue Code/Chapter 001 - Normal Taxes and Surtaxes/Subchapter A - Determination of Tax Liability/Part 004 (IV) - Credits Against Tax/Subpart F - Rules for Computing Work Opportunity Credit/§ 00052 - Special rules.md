@@ -38,7 +38,7 @@ Under regulations prescribed by the Secretary, in the case of—
 
 &emsp;(2) a cooperative organization described in section 1381(a),
 
-> rules similar to the rules provided in subsections (e) and (h) of section 46 (as in effect onthe day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply in determining the amount of the credit under this subpart.
+> rules similar to the rules provided in subsections (e) and (h) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply in determining the amount of the credit under this subpart.
 
 (Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 143; amended Pub. L. 95–600, title III, §321(c)(1), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 96–222, title I, §103(a)(5), Apr. 1, 1980, 94 Stat. 209; Pub. L. 97–354, §5(a)(11), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §474(p)(4)–(7), July 18, 1984, 98 Stat. 838; Pub. L. 101–508, title XI, §11813(b)(4), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 104–188, title I, §1616(b)(2), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title XVI, §1601(b), Aug. 5, 1997, 111 Stat. 1087.)
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -112,9 +112,5 @@ Section applicable to taxable years beginning after Dec. 31, 1976, and to credit
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 29, 40, 41, 42, 44, 45, 45A, 45E, 45F, 51, 51A, 264, 280C, 448, 453A, 460, 465, 474, 685, 856, 860L, 943, 1044, 1397, 1400L, 5000, 6053, 9701 of this title; title 42 section 1395y.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

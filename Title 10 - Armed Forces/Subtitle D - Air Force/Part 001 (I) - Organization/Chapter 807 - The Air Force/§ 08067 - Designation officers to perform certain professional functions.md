@@ -10,7 +10,7 @@
 
 (e) Nursing functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary and who are designated as Air Force nurses.
 
-(f) Biomedical science functions, including physician assistant functions and chiropractic functions, in the Air Force shall be performedby commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as biomedical science officers.
+(f) Biomedical science functions, including physician assistant functions and chiropractic functions, in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as biomedical science officers.
 
 (g) Judge advocate functions in the Air Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary, and who are designated as judge advocates.
 
@@ -129,8 +129,4 @@ Subsec. (f). Pub. L. 85–861 struck out “female” before “commissioned off
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 8081, 8579, 16201 of this title.
 

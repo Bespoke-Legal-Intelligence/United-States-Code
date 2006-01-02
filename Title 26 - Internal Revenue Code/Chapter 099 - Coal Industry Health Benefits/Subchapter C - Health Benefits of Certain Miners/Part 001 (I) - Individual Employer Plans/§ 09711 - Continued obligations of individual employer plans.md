@@ -20,7 +20,7 @@ Each related person of a last signatory operator to which subsection (a) or (b) 
 
 #### (d) Managed care and cost containment
 
-The last signatory operator shall not be treated as failing to meet the requirements of subsection (a) or (b) if benefits are provided to eligible beneficiaries under managed care and costcontainment rules and procedures described in section 9712(c) or agreed to by the last signatory operator and the United Mine Workers of America.
+The last signatory operator shall not be treated as failing to meet the requirements of subsection (a) or (b) if benefits are provided to eligible beneficiaries under managed care and cost containment rules and procedures described in section 9712(c) or agreed to by the last signatory operator and the United Mine Workers of America.
 
 #### (e) Treatment of noncovered employees
 
@@ -43,8 +43,4 @@ For purposes of this part and part II—
 &emsp;If a person becomes a successor of a last signatory operator after the enactment date, the last signatory operator may transfer any liability of such operator under this chapter with respect to an eligible beneficiary to such successor, and such successor shall be treated as the last signatory operator with respect to such eligible beneficiary for purposes of this chapter. Notwithstanding the preceding sentence, the last signatory operator transferring such assignment (and any related person) shall remain the guarantor of the benefits provided to the eligible beneficiary under this chapter. A last signatory operator shall notify the trustees of the 1992 UMWA Benefit Plan of any transfer described in this paragraph.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3051.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9712 of this title.
 

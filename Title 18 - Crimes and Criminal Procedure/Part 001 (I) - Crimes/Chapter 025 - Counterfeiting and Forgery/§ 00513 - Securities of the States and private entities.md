@@ -26,7 +26,7 @@
 
 &emsp;(5) the term “State” includes a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
-(Added Pub. L. 98–473, title II, §1105(a), Oct. 12, 1984, 98 Stat. 2144, §511; renumbered §513, Pub. L. 99–646, §31(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, §3515, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII,§§330008(1), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2142, 2148.)
+(Added Pub. L. 98–473, title II, §1105(a), Oct. 12, 1984, 98 Stat. 2144, §511; renumbered §513, Pub. L. 99–646, §31(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, §3515, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §§330008(1), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2142, 2148.)
 
 #### References in Text
 

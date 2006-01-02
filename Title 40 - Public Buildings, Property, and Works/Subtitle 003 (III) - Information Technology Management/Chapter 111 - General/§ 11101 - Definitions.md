@@ -64,7 +64,7 @@ Par. (6)(B). Pub. L. 108–199, §535(b)(2), substituted “ancillary equipment 
 
 #### Ex. Ord. No. 13011. Federal Information Technology
 
-Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 13284, §16, Jan. 23, 2003, 68 F.R.4076; Ex. Ord. No. 13286, §18, Feb. 28, 2003, 68 F.R. 10623, provided:
+Ex. Ord. No. 13011, July 16, 1996, 61 F.R. 37657, as amended by Ex. Ord. No. 13284, §16, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13286, §18, Feb. 28, 2003, 68 F.R. 10623, provided:
 
 A Government that works better and costs less requires efficient and effective information systems. The Paperwork Reduction Act of 1995 \[44 U.S.C. 3501 et seq.\] and the Information Technology Management Reform Act of 1996 \[now Clinger-Cohen Act of 1996, div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] provide the opportunity to improve significantly the way the Federal Government acquires and manages information technology. Agencies now have the clear authority and responsibility to make measurable improvements in mission performance and service delivery to the public through the strategic application of information technology. A coordinated approach that builds on existing structures and successful practices is needed to provide maximum benefit across the Federal Government from this technology.
 
@@ -178,7 +178,7 @@ Sec. 3. <i>Chief Information Officers Council</i>. (a) <i>Purpose and Functions<
 
 Sec. 4. <i>Government Information Technology Services Board.</i>
 
-(a) <i>Purpose and Functions</i>. A Government Information Technology Services Board (“Services Board”) is established to ensure continued implementation of the information technology recommendations of the National Performance Review and to identify and promote the development of innovative technologies, standards, and practices among agencies and State and local governments and the private sector. It shall seek the views of experts from industry, academia, and State and local governments on matters of concern to the Services Board as appropriate. The Services Board shall also make recommendations to the agencies, the CIO Council, OMB, and others as appropriate, and assist in the following:
+(a) <i>Purpose and Functions</i>. A Government Information Technology Services Board (“Services Board”) is established to ensure continued implementation of the information technology recommendations of the National Performance Review and to identify and promote thedevelopment of innovative technologies, standards, and practices among agencies and State and local governments and the private sector. It shall seek the views of experts from industry, academia, and State and local governments on matters of concern to the Services Board as appropriate. The Services Board shall also make recommendations to the agencies, the CIO Council, OMB, and others as appropriate, and assist in the following:
 
 (1) creating opportunities for cross-agency cooperation and intergovernmental approaches in using information resources to support common operational areas and to develop and provide shared governmentwide infrastructure services;
 
@@ -244,7 +244,7 @@ Sec. 10. <i>Definitions</i>. (a) “Executive agency” has the meaning given to
 
 (e) “Information system” has the meaning given that term in section 3502(8) of title 44, United States Code.
 
-(f) “Affinity group” means any interagency group focussed on a business or technology area with common information technology or customer requirements. The functions of an affinity group can include identifying common program goals and requirements; identifying opportunities for sharing information to improve quality and effectiveness; reducing costs and burden on the public; and recommending protocols and other standards, including security standards, to the National Institute of Standards and Technology for Governmentwide applicability, for action in accordance with the Computer Security Act of 1987, as amended by the Information Technology Act \[now 40 U.S.C. 11332\].
+(f) “Affinity group” means any interagency group focussed on a business or technology area with common information technology or customer requirements. The functions of an affinity group can include identifying common program goals and requirements; identifyingopportunities for sharing information to improve quality and effectiveness; reducing costs and burden on the public; and recommending protocols and other standards, including security standards, to the National Institute of Standards and Technology for Governmentwide applicability, for action in accordance with the Computer Security Act of 1987, as amended by the Information Technology Act \[now 40 U.S.C. 11332\].
 
 (g) “National security system” means any telecommunications or information system operated by the United States Government, the function, operation, or use of which (1) involves intelligence activities; (2) involves cryptologic activities related to national security; (3) involves command and control of military forces; (4) involves equipment that is an integral part of a weapon or weapons system; or (5) is critical to the direct fulfillment of military or intelligence missions, but excluding any system that is to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
 
@@ -294,7 +294,7 @@ Sec. 5. <i>Definition</i>. “Executive agency” and “agency” have the mean
 
 Sec. 6. <i>National Security</i>. In the interest of national security, nothing in this order shall be construed to require the disclosure of intelligence sources or methods or to otherwise impair the authority of those agencies listed at 50 U.S.\[C.\] 401a(4) to carry out intelligence activities.
 
-Sec. 7. <i>Law Enforcement Activities</i>. Nothing in this order shall be construed to require the disclosure of law enforcement investigative sources or methods or to prohibit or otherwise impair any lawful investigative or protective activity undertaken for or by any officer, agent, or employee of the United States or any person acting pursuant to a contract or other agreement with such entities.
+Sec. 7. <i>Law Enforcement Activities</i>. Nothing in this order shall be construed to require the disclosure of law enforcement investigative sources or methods or to prohibit or otherwise impair any lawful investigative or protective activity undertaken for or by any officer,agent, or employee of the United States or any person acting pursuant to a contract or other agreement with such entities.
 
 Sec. 8. <i>Scope</i>. Nothing in this order shall be construed to limit or otherwise affect the interpretation, application, or operation of 28 U.S.C. 1498.
 

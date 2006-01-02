@@ -16,7 +16,3 @@ The Secretary, subject to regulations prescribed by the Secretary, is authorized
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in provisions preceding par. (1).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 3111.
-

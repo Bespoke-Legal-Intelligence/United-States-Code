@@ -6,7 +6,7 @@ Authorization To Reimburse.—The Secretary of Defense shall carry out a program
 
 (b)
 
-Adoptions Covered.—An adoption for which expenses may be reimbursed under thissection includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
+Adoptions Covered.—An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act (42 U.S.C. 673(c))).
 
 (c)
 
@@ -18,7 +18,7 @@ Treatment of Other Benefits.—A benefit may not be paid under this section for 
 
 (e)
 
-Limitations.—(1) Not more than $2,000 may be paid under this section to a member of the armed forces, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
+Limitations.—(1) Not more than $2,000 may be paid under this section to a member of thearmed forces, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
 
 (2) Not more than $5,000 may be paid under this section to a member of the armed forces, or to two such members who are spouses of each other, for adoptions by such member (or members) in any calendar year.
 
@@ -30,7 +30,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 Definitions.—In this section:
 
-&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
+&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency or other source authorized to place children for adoption under State or local law. Such term does not include any expense incurred—
 
 &emsp;&emsp;(A) by an adopting parent for travel; or
 
@@ -54,13 +54,23 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
 
-(Added Pub. L. 102–190, div. A, title VI, §651(a)(1), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 102–484, div. A, title X, §1052(12), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 104–201, div. A, title VI, §652(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 106–398, §1 \[\[div. A\], title V, §579(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–141.)
+&emsp;&emsp;(D) A foreign government or an agency authorized by a foreign government to place children for adoption, in any case in which—
+
+&emsp;&emsp;&emsp;(i) the adopted child is entitled to automatic citizenship under section 320 of the Immigration and Nationality Act (8 U.S.C. 1431); or
+
+&emsp;&emsp;&emsp;(ii) a certificate of citizenship has been issued for such child under section 322 of that Act (8 U.S.C. 1433).
+
+(Added Pub. L. 102–190, div. A, title VI, §651(a)(1), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 102–484, div. A, title X, §1052(12), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 104–201, div. A, title VI, §652(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 106–398, §1 \[\[div. A\], title V, §579(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–141; Pub. L. 108–375, div. A, title VI, §661, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 109–163, div. A, title V, §592(a), Jan. 6, 2006, 119 Stat. 3280.)
 
 #### Prior Provisions
 
 A prior section 1052 was renumbered section 1063 of this title and subsequently repealed.
 
 #### Amendments
+
+2006—Subsec. (g)(1). Pub. L. 109–163 inserted “or other source authorized to place children for adoption under State or local law” after “qualified adoption agency” in introductory provisions.
+
+2004—Subsec. (g)(3)(D). Pub. L. 108–375 added subpar. (D).
 
 2000—Pub. L. 106–398 substituted “Adoption expenses: reimbursement” for “Reimbursement for adoption expenses” in section catchline.
 
@@ -85,8 +95,4 @@ Reimbursement of Adoption Expenses.—Section 1052 of title 10, United States Co
 “(b)
 
 Time Period for Application.—Subsection (a) shall apply to a person covered by such subsection only if the person applies to the Secretary of Defense or the Secretary of Transportation for the reimbursement of adoption expenses under section 1052 of title 10, United States Code, or section 514 of title 14, United States Code, whichever applies, within one year after the date of the enactment of this Act \[Oct. 23, 1992\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 26 section 137; title 33 section 3071; title 42 section 213a.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) Those brought into Federal service by the Army National Guard of a State may be returned to that State upon the request of its governor.
 
-&emsp;(2) Those that cannot be returned under clause (1) may, upon the request of its governor, be sent to the State that, as determined by the Secretary, furnished the majority of members of the organization when it was formed.
+&emsp;(2) Those that cannot be returned under clause (1) may, upon the request of its governor, be sent to the State that, as determinedby the Secretary, furnished the majority of members of the organization when it was formed.
 
 > Those that cannot be returned or sent under clause (1) or (2) of this subsection shall be delivered to the Secretary for such national use as the Secretary may direct.
 

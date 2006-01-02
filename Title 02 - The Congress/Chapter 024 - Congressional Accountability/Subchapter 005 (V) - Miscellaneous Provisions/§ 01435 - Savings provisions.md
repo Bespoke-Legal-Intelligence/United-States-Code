@@ -10,7 +10,7 @@
 
 &emsp;If a claim by an employee of the Senate or House of Representatives arises under section 1311 or 1312 of this title after the effective date of such sections, but before the opening of the Office for receipt of requests for counseling or mediation under sections 1402 and 1403 of this title, the provisions of the Government Employees Rights Act of 1991 and Rule LI of the House of Representatives relating to counseling and mediation shall remain in effect, and the employee may complete under that Act or Rule the requirements for counseling and mediation under sections 1402 and 1403 of this title. If, after counseling and mediation is completed, the Office has not yet opened for the filing of a timely complaint under section 1405 of this title, the employee may elect—
 
-&emsp;&emsp;(A) to file a complaint under section 307 of the Government Employees Rights Act of 1991 <sup>1</sup> or Rule LI of the House of Representatives, and thereafter proceed exclusivelyunder that Act or Rule, the provisions of which shall remain in effect until the completion of all proceedings in relation to the complaint, or
+&emsp;&emsp;(A) to file a complaint under section 307 of the Government Employees Rights Act of 1991 <sup>1</sup> or Rule LI of the House of Representatives, and thereafter proceed exclusively under that Act or Rule, the provisions of which shall remain in effect until the completion of all proceedings in relation to the complaint, or
 
 &emsp;&emsp;(B) to commence a civil action under section 1408 of this title.
 

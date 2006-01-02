@@ -112,7 +112,3 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to taxable years beginning after Dec. 31, 1986, see section 10206(d)(1) of Pub. L. 100–203, set out as a note under section 444 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 444, 7519 of this title.
-

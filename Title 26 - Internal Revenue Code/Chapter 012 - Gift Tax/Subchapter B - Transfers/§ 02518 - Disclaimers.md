@@ -72,7 +72,3 @@ Section 702(m)(2) of Pub. L. 95–600 provided that: “The amendment made by pa
 
 Section 2009(e)(2) of Pub. L. 94–455 provided that: “The amendments made by subsection (b) \[enacting this section and section 2046 of this title and amending sections 2041, 2055, 2056, and 2514 of this title\] shall apply with respect to transfers creating an interest in the person disclaiming made after December 31, 1976.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2046, 2654 of this title.
-

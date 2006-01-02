@@ -6,7 +6,7 @@ For the purpose of including in one national park, for public benefit and enjoym
 
 #### References in Text
 
-The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No.2578, Mar. 15, 1943, 57 Stat. 731. For provisions transferring other lands of such former national monument, see sections 482m and 673b of this title.
+The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731. For provisions transferring other lands of such former national monument, see sections 482m and 673b of this title.
 
 Provisions relating to the “present Grand Teton National Park”, referred to in text, were contained in former sections 406 to 406d of this title, which sections were repealed by another provision of section 1 of act Sept. 14, 1950.
 
@@ -42,7 +42,7 @@ Pub. L. 108–32, June 17, 2003, 117 Stat. 779, provided that:
 
 &emsp;“(2) purchase with donated or appropriated funds; or
 
-&emsp;“(3) exchange of Federal lands in the State of Wyoming that are identified for disposal under approved land use plans in effect on the date of enactment of this Act \[June 17, 2003\] under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) that are of equal value to the State lands acquired in the exchange.
+&emsp;“(3) exchange of Federal lands in the State of Wyoming that are identified for disposal under approvedland use plans in effect on the date of enactment of this Act \[June 17, 2003\] under section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) that are of equal value to the State lands acquired in the exchange.
 
 “(b) In the event that the Secretary or the Governor determines that the Federal lands eligible for exchange under subsection (a)(3) are not sufficient or acceptable for the acquisition of all the State lands identified in section 2(4), the Secretary shall identify other Federal lands or interests therein in the State of Wyoming for possible exchange and shall identify such lands or interests together with their estimated value in a report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the House of Representatives. Such lands or interests shall not be available for exchange unless authorized by an Act of Congress enacted after the date of submission of the report.
 

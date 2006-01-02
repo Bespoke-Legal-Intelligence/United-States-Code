@@ -6,7 +6,7 @@ There is established a National Foundation on the Arts and the Humanities (herei
 
 #### (b) Purpose
 
-The purpose of the Foundation shall be to develop and promote a broadly conceived national policy of support for the humanities and the artsin the United States, and for institutions which preserve the cultural heritage of the United States pursuant to this subchapter.
+The purpose of the Foundation shall be to develop and promote a broadly conceived national policy of support for the humanities and the arts in the United States, and for institutions which preserve the cultural heritage of the United States pursuant to this subchapter.
 
 #### (c) Prohibition against Federal supervision over policy determination, personnel, or curriculum, or administration or operation of any school or other non-Federal body
 

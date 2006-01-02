@@ -8,7 +8,9 @@
 
 (d) A claim of a kind specified in section 502(e)(2), 502(f), 502(g), 502(h) or 502(i) of this title may be filed under subsection (a), (b), or (c) of this section the same as if such claim were a claim against the debtor and had arisen before the date of the filing of the petition.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, §444, July 10, 1984, 98 Stat. 373.)
+(e) A claim arising from the liability of a debtor for fuel use tax assessed consistent with therequirements of section 31705 of title 49 may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in section 31701 of title 49) and, if so filed, shall be allowed as a single claim.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, §444, July 10, 1984, 98 Stat. 373; Pub. L. 109–8, title VII, §702, Apr. 20, 2005, 119 Stat. 125.)
 
 #### Historical and Revision Notes
 
@@ -40,7 +42,13 @@ Subsection (e) gives governmental units (including tax authorities) at least six
 
 #### Amendments
 
+2005—Subsec. (e). Pub. L. 109–8 added subsec. (e).
+
 1984—Subsec. (d). Pub. L. 98–353 inserted “502(e)(2),”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

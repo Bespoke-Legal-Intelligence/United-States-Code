@@ -154,7 +154,7 @@ Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub
 
 #### Transfer of Functions
 
-For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security,and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Funds for Training
 
@@ -288,7 +288,7 @@ Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased,
 
 “
 
-Sec. 8. No funds may be expended or obligated for the purpose of carrying out the purposes of section 3056 of title 18, United States Code, and section 1 of Public Law 90–331 \[set out as a note above\] other than funds specifically appropriated to the Secret Service for those purposes with the exception of—
+Sec. 8. No funds may be expended or obligated for the purpose of carrying out the purposes of section 3056of title 18, United States Code, and section 1 of Public Law 90–331 \[set out as a note above\] other than funds specifically appropriated to the Secret Service for those purposes with the exception of—
 
 &emsp;“(1) expenditures made by the Department of Defense or the Coast Guard from funds appropriated to the Department of Defense or the Coast Guard in providing assistance on a temporary basis to the Secret Service in the performance of its duties directly related to the protection of the President or the Vice President or other officer next in order of succession to the office of the President; and
 
@@ -296,11 +296,11 @@ Sec. 8. No funds may be expended or obligated for the purpose of carrying out th
 
 “
 
-Sec. 9. The Director, the Secretary of Defense, and the Commandant of the Coast Guard shall each transmit a detailed semi-annual report of expenditures made pursuant to this Act during the six-month period immediately preceding such report by the Secret Service, the Department of Defense, and the Coast Guard, respectively, to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Government Reform of the House of Representatives and Committee on Government Affairs of the Senate\] of the House of Representatives and the Senate, respectively, on March 31 and September 30, of each year.
+Sec. 9. The Director, the Secretary of Defense, and the Commandant of the Coast Guard shall each transmit a detailed semi-annual report of expenditures made pursuant to this Act during the six-month period immediately preceding such report by the Secret Service, the Department of Defense, and the Coast Guard, respectively, to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Government Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively, on March 31 and September 30, of each year.
 
 “
 
-Sec. 10. Expenditures made pursuant to this Act shall be subject to audit by the Comptroller General and his authorized representatives, who shall have access to all records relating to such expenditures. The Comptroller General shall transmit a report of the results of any such audit to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Government Reform of the House of Representatives and Committee on Government Affairs of the Senate\] of the House of Representatives and the Senate, respectively.
+Sec. 10. Expenditures made pursuant to this Act shall be subject to audit by the Comptroller General and his authorized representatives, who shall have access to all records relating to such expenditures. The Comptroller General shall transmit a report of the results of any such audit to the Committees on Appropriations, Committees on the Judiciary, and Committees on Government Operations \[now Committee on Government Reform of the House of Representatives and Committee on Homeland Security and Governmental Affairs of the Senate\] of the House of Representatives and the Senate, respectively.
 
 “
 

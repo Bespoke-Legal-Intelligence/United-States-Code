@@ -12,7 +12,7 @@ The Director, in consultation with the Committee, shall encourage the developmen
 
 #### (2) Requirements for proposals
 
-&emsp;A proposal under paragraph (1) shall be submitted in the manner and form prescribed by the Director and shall be consistent with thegoals of the Great Lakes Water Quality Agreement, as revised in 1987, the 1954 Great Lakes Fisheries Convention, the 1980 Joint Strategic Plan for the Management of Great Lakes fishery resources, the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.), and the North American Waterfowl Management Plan and joint ventures established under the plan.
+&emsp;A proposal under paragraph (1) shall be submitted in the manner and form prescribed by the Director and shall be consistent with the goals of the Great Lakes Water Quality Agreement, as revised in 1987, the 1954 Great Lakes Fisheries Convention, the 1980 Joint Strategic Plan for the Management of Great Lakes fishery resources, the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.), and the North American Waterfowl Management Plan and joint ventures established under the plan.
 
 #### (3) Sea lamprey authority
 
@@ -52,7 +52,7 @@ The Director, in consultation with the Committee, shall encourage the developmen
 
 #### (d) Implementation of proposals
 
-After considering recommendations of the Committee and the goals specified in section 941d of this title, the Director shall select proposals to be implemented and, subject to the availability of appropriations and subsection (e) of this section, fund implementation of the proposals. In selecting and funding proposals, the Director shall take into account the effectiveness and appropriateness of the proposals in fulfilling the purposes of other laws applicable to restoration of the fishery resources and habitat of the Great Lakes Basin.
+After considering recommendations of the Committee and the goals specified in section941d of this title, the Director shall select proposals to be implemented and, subject to the availability of appropriations and subsection (e) of this section, fund implementation of the proposals. In selecting and funding proposals, the Director shall take into account the effectiveness and appropriateness of the proposals in fulfilling the purposes of other laws applicable to restoration of the fishery resources and habitat of the Great Lakes Basin.
 
 #### (e) Cost-sharing
 

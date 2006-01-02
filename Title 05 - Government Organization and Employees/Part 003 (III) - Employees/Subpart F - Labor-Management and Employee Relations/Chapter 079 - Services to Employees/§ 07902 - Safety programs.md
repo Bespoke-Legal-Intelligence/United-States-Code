@@ -10,7 +10,7 @@
 
 (c) The President may—
 
-&emsp;(1) establish by Executive order a safety council composed of representatives of the agencies and of labor organizations representing employees to serve as an advisory body tothe Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
+&emsp;(1) establish by Executive order a safety council composed of representatives of the agencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
 
 &emsp;(2) undertake such other measures as he considers proper to prevent injuries and accidents to employees of the agencies.
 
@@ -86,7 +86,7 @@ Scope of this Order
 
 1–101. This order applies to all agencies of the Executive Branch except military personnel and uniquely military equipment, systems, and operations.
 
-1–102. For the purposes of this order, the term “agency” means an Executive department, as defined in 5 U.S.C. 101, or any employing unit or authority of the Federal government, other than those of the judicial and legislative branches. Since section 19 \[29 U.S.C. 668\] of the Occupational Safety and Health Act (“the Act”) \[29 U.S.C. 651 et seq.\] covers all Federal employees, however, the Secretary of Labor (“the Secretary”) shall cooperate and consult with the heads of agencies in the legislative and judicial branches of the government to help them adopt safety and health programs.
+1–102. For the purposes of this order, the term “agency” means an Executive department, as defined in 5U.S.C. 101, or any employing unit or authority of the Federal government, other than those of the judicial and legislative branches. Since section 19 \[29 U.S.C. 668\] of the Occupational Safety and Health Act (“the Act”) \[29 U.S.C. 651 et seq.\] covers all Federal employees, however, the Secretary of Labor (“the Secretary”) shall cooperate and consult with the heads of agencies in the legislative and judicial branches of the government to help them adopt safety and health programs.
 
 #### 1–2.
 
@@ -156,7 +156,7 @@ Department of Labor
 
 (h) Evaluate the occupational safety and health programs of agencies and promptly submit reports to the agency heads. The evaluations shall be conducted through such scheduled headquarters or field reviews, studies or inspections as the Secretary deems necessary, at least annually for the larger or more hazardous agencies or operations, and as the Secretary deems appropriate for the smaller or less hazardous agencies.
 
-(i) Conduct unannounced inspections of agency workplaces when the Secretary determines necessary if an agency does not have occupational safety and health committees; or in response to reports of unsafe or unhealthful working conditions, upon request of occupational safety and health committees under Section 1–3; or, in the case of a report of an imminent danger, when such a committee has not responded to an employee who has alleged to it that the agency has not adequately responded to a report as required in 1–201(h). When the Secretary or his designee performs an inspection and discovers unsafe or unhealthy conditions, a violation of any provisions of this order, or any safety or health standards adopted by an agency pursuant to this order, or any program element approved by the Secretary, he shall promptly issue a report to the head of the agency and to the appropriate occupational safety and health committee, if any. The report shall describe the nature of the findings and may make recommendations for correcting the violation.
+(i) Conduct unannounced inspections of agency workplaces when the Secretary determines necessary if an agency does not have occupational safety and health committees; or in response to reports of unsafe or unhealthful working conditions, upon request of occupational safety and health committees under Section 1–3; or, in the case of a report of an imminent danger, whensuch a committee has not responded to an employee who has alleged to it that the agency has not adequately responded to a report as required in 1–201(h). When the Secretary or his designee performs an inspection and discovers unsafe or unhealthy conditions, a violation of any provisions of this order, or any safety or health standards adopted by an agency pursuant to this order, or any program element approved by the Secretary, he shall promptly issue a report to the head of the agency and to the appropriate occupational safety and health committee, if any. The report shall describe the nature of the findings and may make recommendations for correcting the violation.
 
 (j) Submit to the President each year a summary report of the status of the occupational safety and health of Federal employees, and, together with agency responses, evaluations of individual agency progress and problems in correcting unsafe and unhealthful working conditions, and recommendations for improving their performance.
 
@@ -194,7 +194,7 @@ General Provisions
 
 1–701. Employees shall be authorized official time to participate in the activities provided for by this order.
 
-1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (50 U.S.C. 403(d)(3)).
+1–702. Nothing in this order shall be construed to impair or alter the powers and duties of the Secretary or heads of other Federal agencies pursuant to Section 19 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 668\]. Chapter 71 of Title 5 of the United States Code, Sections 7901, 7902, and 7903 of Title 5 of the United States Code, nor shall it be construed to alter any other provisions of law or Executive Order providing for collective bargaining agreements and related procedures, or affect the responsibilities of the Director of Central Intelligence to protect intelligence sources and methods (\[former\] 50 U.S.C. 403(d)(3)).
 
 1–703. Executive Order No. 11807 of September 28, 1974, is revoked.
 
@@ -222,7 +222,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1993,by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
@@ -234,5 +234,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 

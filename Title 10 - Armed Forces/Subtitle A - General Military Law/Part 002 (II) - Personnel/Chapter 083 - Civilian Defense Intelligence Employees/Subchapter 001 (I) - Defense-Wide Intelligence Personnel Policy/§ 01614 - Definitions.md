@@ -44,7 +44,3 @@ In this subchapter:
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 7511.
-

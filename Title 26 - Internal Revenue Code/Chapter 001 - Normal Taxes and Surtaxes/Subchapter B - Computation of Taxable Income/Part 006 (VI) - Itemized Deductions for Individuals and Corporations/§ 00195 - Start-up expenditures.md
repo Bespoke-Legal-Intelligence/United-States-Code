@@ -4,11 +4,19 @@
 
 Except as otherwise provided in this section, no deduction shall be allowed for start-up expenditures.
 
-#### (b) Election to amortize
+#### (b) Election to deduct
 
-#### (1) In general
+#### (1) Allowance of deduction
 
-&emsp;Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).
+&emsp;If a taxpayer elects the application of this subsection with respect to any start-up expenditures—
+
+&emsp;&emsp;(A) the taxpayer shall be allowed a deduction for the taxable year in which the active trade or business begins in an amount equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) the amount of start-up expenditures with respect to the active trade or business, or
+
+&emsp;&emsp;&emsp;(ii) $5,000, reduced (but not below zero) by the amount by which such start-up expenditures exceed $50,000, and
+
+&emsp;&emsp;(B) the remainder of such start-up expenditures shall be allowed as a deduction ratably over the 180-month period beginning with the month in which the active trade or business begins.
 
 #### (2) Dispositions before close of amortization period
 
@@ -54,9 +62,13 @@ For purposes of this section—
 
 &emsp;The period selected under subsection (b) shall be adhered to in computing taxable income for the taxable year for which the election is made and all subsequent taxable years.
 
-(Added Pub. L. 96–605, title I, §102(a), Dec. 28, 1980, 94 Stat. 3522; amended Pub. L. 98–369, div. A, title I, §94(a), July 18, 1984, 98 Stat. 614.)
+(Added Pub. L. 96–605, title I, §102(a), Dec. 28, 1980, 94 Stat. 3522; amended Pub. L. 98–369, div. A, title I, §94(a), July 18, 1984, 98 Stat. 614; Pub. L. 108–357, title VIII, §902(a), Oct. 22, 2004, 118 Stat. 1651.)
 
 #### Amendments
+
+2004—Subsec. (b). Pub. L. 108–357, §902(a)(2), substituted “deduct” for “amortize” in heading.
+
+Subsec. (b)(1). Pub. L. 108–357, §902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).”
 
 1984—Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.
 
@@ -66,6 +78,10 @@ Subsec. (c). Pub. L. 98–369 amended subsec. (c) generally, substituting provis
 
 Subsec. (d). Pub. L. 98–369 amended subsec. (d) generally, substituting provisions dealing with election for provisions dealing with business beginning.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VIII, §902(d), Oct. 22, 2004, 118 Stat. 1652, provided that: “The amendments made by this section \[amending this section and sections 248 and 709 of this title\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
 #### Effective Date of 1984 Amendment
 
 Section 94(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after June 30, 1984.”
@@ -73,8 +89,4 @@ Section 94(c) of Pub. L. 98–369 provided that: “The amendments made by this 
 #### Effective Date
 
 Section 102(c) of Pub. L. 96–605 provided that: “The amendments made by this section \[enacting this section\] shall apply to amounts paid or incurred after July 29, 1980, in taxable years ending after such date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 543, 1202 of this title.
 

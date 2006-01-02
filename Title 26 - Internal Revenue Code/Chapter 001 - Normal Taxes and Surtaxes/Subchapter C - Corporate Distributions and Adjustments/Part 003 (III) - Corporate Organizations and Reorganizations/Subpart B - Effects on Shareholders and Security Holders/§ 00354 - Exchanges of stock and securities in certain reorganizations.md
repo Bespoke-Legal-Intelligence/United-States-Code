@@ -38,7 +38,7 @@
 
 #### (III) Extension of statute of limitations
 
-&emsp;&emsp;&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to a corporation failing to be a family-owned corporation shall not expire before theexpiration of 3 years after the date the Secretary is notified by the corporation (in such manner as the Secretary may prescribe) of such failure, and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;&emsp;&emsp;The statutory period for the assessment of any deficiency attributable to a corporation failing to be a family-owned corporation shall not expire before the expiration of 3 years after the date the Secretary is notified by the corporation (in such manner as the Secretary may prescribe) of such failure, and such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
 
 #### (3) Cross references
 
@@ -114,17 +114,13 @@ Amendment by section 6(i)(2) of Pub. L. 96–589 effective Oct. 1, 1979, but not
 
 #### Effective Date of 1976 Amendment
 
-Section 2 of Pub. L. 94–253 provided that: “The amendments made by section 1 \[amending this sectionand sections 356, 358, and 374 of this title\] shall apply to taxable years ending after March 31, 1976.”
+Section 2 of Pub. L. 94–253 provided that: “The amendments made by section 1 \[amending this section and sections 356, 358, and 374 of this title\] shall apply to taxable years ending after March 31, 1976.”
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 
 United States Railway Association abolished effective Apr. 1, 1987, all powers, duties, rights, and obligations of Association relating to Consolidated Rail Corporation under Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.) transferred to Secretary of Transportation on Jan. 1, 1987, and any securities of Corporation held by Association transferred to Secretary of Transportation on Oct. 21, 1986, see section 1341 of Title 45, Railroads.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 83, 108, 332, 338, 351, 355, 356, 358, 367, 368, 381, 382, 424, 943, 953, 1276, 6038B of this title.
 

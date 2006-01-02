@@ -2,7 +2,7 @@
 
 Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title would be qualified for retirement under section 1204 of this title but for the fact that his disability is not determined to be of a permanent nature and stable, the Secretary shall, if he also determines that accepted medical principles indicate that the disability may be of a permanent nature, place the member's name on the temporary disability retired list, with retired pay computed under section 1401 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–145, title V, §513(a)(1)(B), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, §604(d)(2)\[(B)\], Nov. 14, 1986, 100 Stat. 3876.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 94; Pub. L. 99–145, title V, §513(a)(1)(B), Nov. 8, 1985, 99 Stat.627; Pub. L. 99–661, div. A, title VI, §604(d)(2)\[(B)\], Nov. 14, 1986, 100 Stat. 3876.)
 
 Historical and Revision Notes
 
@@ -29,8 +29,4 @@ The first 52 words are inserted for clarity and are based on the rule stated in 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1372, 1376, 1401, 1402, 1402a, 1406, 1407 of this title.
 

@@ -122,31 +122,9 @@
 
 #### Part B—Local Crime Prevention Block Grant Program
 
-|  |  |
-| :--- | ---: |
-| [13751\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013751%20-%20Payments%20to%20local%20governments.md) | Payments to local governments. |
-| (a) | Payment and use. |
-| (b) | Timing of payments. |
-| (c) | Adjustments. |
-| (d) | Reservation for adjustments. |
-| (e) | Repayment of unexpended amounts. |
-| (f) | Nonsupplanting requirement. |
-| [13752\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013752%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Authorization of appropriations. |
-| (b) | Administrative costs. |
-| [13753\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013753%20-%20Qualification%20for%20payment.md) | Qualification for payment. |
-| (a) | In general. |
-| (b) | General requirements for qualification. |
-| (c) | Review by Governors. |
-| (d) | Sanctions for noncompliance. |
-| [13754\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013754%20-%20Allocation%20and%20distribution%20of%20funds.md) | Allocation and distribution of funds. |
-| (a) | State distribution. |
-| (b) | Local distribution. |
-| (c) | Unavailability of information. |
-| [13755\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013755%20-%20Utilization%20of%20private%20sector.md) | Utilization of private sector. |
-| [13756\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013756%20-%20Public%20participation.md) | Public participation. |
-| [13757\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013757%20-%20Administrative%20provisions.md) | Administrative provisions. |
-| [13758\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20B%20-%20Local%20Crime%20Prevention%20Block%20Grant%20Program/%C2%A7%2013758%20-%20Definitions.md) | Definitions. |
+|  |
+| :--- |
+| 13751 to 13758. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -197,15 +175,9 @@
 
 #### Part E—Assistance for Delinquent and At-Risk Youth
 
-|  |  |
-| :--- | ---: |
-| [13801\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20E%20-%20Assistance%20for%20Delinquent%20and%20At-Risk%20Youth/%C2%A7%2013801%20-%20Grant%20authority.md) | Grant authority. |
-| (a) | Grants. |
-| (b) | Applications. |
-| (c) | Consideration of applications. |
-| (d) | Reports. |
-| (e) | Definitions. |
-| [13802\.](Subchapter%20002%20%28II%29%20-%20Crime%20Prevention/Part%20E%20-%20Assistance%20for%20Delinquent%20and%20At-Risk%20Youth/%C2%A7%2013802%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+|  |
+| :--- |
+| 13801, 13802. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -375,6 +347,14 @@ I74subpart 1—community economic partnership investment funds
 
 #### SUBCHAPTER III—VIOLENCE AGAINST WOMEN
 
+|  |  |
+| :--- | ---: |
+| [13925\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/%C2%A7%2013925%20-%20Definitions%20and%20grant%20provisions.md) | Definitions and grant provisions. |
+| (a) | Definitions. |
+| (b) | Grant conditions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part A—Safe Streets for Women
 
 I74subpart 1—safety for women in public transit
@@ -444,10 +424,24 @@ I74subpart 1—confidentiality for abused persons
 
 |  |  |
 | :--- | ---: |
-| [13971\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20003%20-%20Rural%20Domestic%20Violence%20and%20Child%20Abuse%20Enforcement/%C2%A7%2013971%20-%20Rural%20domestic%20violence%20and%20child%20abuse%20enforcement%20assistance.md) | Rural domestic violence and child abuse enforcement assistance. |
-| (a) | Grants. |
-| (b) | Definitions. |
-| (c) | Authorization of appropriations. |
+| [13971\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20003%20-%20Rural%20Domestic%20Violence%20and%20Child%20Abuse%20Enforcement/%C2%A7%2013971%20-%20Rural%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20stalking%2C%20and%20child%20abuse%20enforcement%20assistance.md) | Rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance. |
+| (a) | Purposes. |
+| (b) | Grants authorized. |
+| (c) | Use of funds. |
+| (d) | Allotments and priorities. |
+| (e) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3a—research on effective interventions to address violence against women
+
+|  |  |
+| :--- | ---: |
+| [13973\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20B%20-%20Safe%20Homes%20for%20Women/Subpart%20003a%20-%20Research%20on%20Effective%20Interventions%20to%20Address%20Violence%20Against%20Women/%C2%A7%2013973%20-%20Research%20on%20effective%20interventions%20in%20the%20health%20care%20setting.md) | Research on effective interventions in the health care setting. |
+| (a) | Purpose. |
+| (b) | Use of funds. |
+| (c) | Use of data. |
+| (d) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -560,7 +554,10 @@ I74subpart 1—education and training for judges and court personnel in state co
 |  |  |
 | :--- | ---: |
 | [14041\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041%20-%20Definitions.md) | Definitions. |
-| [14041a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041a%20-%20Training%20programs%20for%20law%20enforcement%20officers.md) | Training programs for law enforcement officers. |
+| [14041a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041a%20-%20Enhanced%20training%20and%20services%20to%20end%20violence%20against%20and%20abuse%20of%20women%20later%20in%20life.md) | Enhanced training and services to end violence against and abuse of women later in life. |
+| (a) | Grants authorized. |
+| (b) | Eligible entities. |
+| (c) | Underserved populations. |
 | [14041b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Elder%20Abuse%2C%20Neglect%2C%20and%20Exploitation%2C%20Including%20Domestic%20Violence%20and%20Sexual%20Assault%20Against%20Older%20or%20Disabled%20Individuals/%C2%A7%2014041b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -575,6 +572,227 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (c) | Report. |
 | (d) | Definition. |
 | (e) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part I—Violence Against Women Act Court Training and Improvements
+
+|  |  |
+| :--- | ---: |
+| [14043\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20I%20-%20Violence%20Against%20Women%20Act%20Court%20Training%20and%20Improvements/%C2%A7%2014043%20-%20Purpose.md) | Purpose. |
+| [14043a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20I%20-%20Violence%20Against%20Women%20Act%20Court%20Training%20and%20Improvements/%C2%A7%2014043a%20-%20Grant%20requirements.md) | Grant requirements. |
+| 14043a–1. | National education curricula. |
+| (a) | In general. |
+| (b) | Eligible entities. |
+| 14043a–2. | Tribal curricula. |
+| (a) | In general. |
+| (b) | Eligible entities. |
+| 14043a–3. | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Availability. |
+| (c) | Set aside. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part J—Privacy Protections for Victims of Domestic Violence, Dating Violence, Sexual Violence, and Stalking
+
+|  |  |
+| :--- | ---: |
+| [14043b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20J%20-%20Privacy%20Protections%20for%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Violence%2C%20and%20Stalking/%C2%A7%2014043b%20-%20Grants%20to%20protect%20the%20privacy%20and%20confidentiality%20of%20victims%20of%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20and%20stalking.md) | Grants to protect the privacy and confidentiality of victims of domestic violence, dating violence, sexual assault, and stalking. |
+| 14043b–1. | Purpose areas. |
+| 14043b–2. | Eligible entities. |
+| 14043b–3. | Grant conditions. |
+| 14043b–4. | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Tribal allocation. |
+| (c) | Technical assistance and training. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part K—Services, Education, Protection and Justice for Young Victims of Violence
+
+|  |  |
+| :--- | ---: |
+| [14043c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20K%20-%20Services%2C%20Education%2C%20Protection%20and%20Justice%20for%20Young%20Victims%20of%20Violence/%C2%A7%2014043c%20-%20Services%20to%20advocate%20for%20and%20respond%20to%20youth.md) | Services to advocate for and respond to youth. |
+| (a) | Grants authorized. |
+| (b) | Eligible grantees. |
+| (c) | Use of funds. |
+| (d) | Awards basis. |
+| (e) | Term. |
+| (f) | Authorization of appropriations. |
+| 14043c–1. | Access to justice for youth. |
+| (a) | Purpose. |
+| (b) | Grant authority. |
+| (c) | Uses of funds. |
+| (d) | Grant applications. |
+| (e) | Priority. |
+| (f) | Distribution. |
+| (g) | Dissemination of information. |
+| (h) | Authorization of appropriations. |
+| 14043c–2. | Grants for training and collaboration on the intersection between domestic violence and child maltreatment. |
+| (a) | Purpose. |
+| (b) | Grants authorized. |
+| (c) | Authorization of appropriations. |
+| (d) | Underserved populations. |
+| (e) | Grant awards. |
+| (f) | Uses of funds. |
+| (g) | Programs and activities. |
+| (h) | Grantee requirements. |
+| 14043c–3. | Grants to combat domestic violence, dating violence, sexual assault, and stalking in middle and high schools. |
+| (a) | Short title. |
+| (b) | Grants authorized. |
+| (c) | Award basis. |
+| (d) | Policy dissemination. |
+| (e) | Nondisclosure of confidential or private information. |
+| (f) | Grant term and allocation. |
+| (g) | Distribution. |
+| (h) | Application. |
+| (i) | Eligible entities. |
+| (j) | Priority. |
+| (k) | Reporting and dissemination of information. |
+| (<i>l</i>) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part L—Strengthening America's Families by Preventing Violence Against Women and Children
+
+|  |  |
+| :--- | ---: |
+| [14043d.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Strengthening%20America%27s%20Families%20by%20Preventing%20Violence%20Against%20Women%20and%20Children/%C2%A7%2014043d%20-%20Findings.md) | Findings. |
+| 14043d–1. | Purpose. |
+| 14043d–2. | Grants to assist children and youth exposed to violence. |
+| (a) | Grants authorized. |
+| (b) | Authorization of appropriations. |
+| (c) | Use of funds. |
+| (d) | Eligible entities. |
+| (e) | Grantee requirements. |
+| 14043d–3. | Development of curricula and pilot programs for home visitation projects. |
+| (a) | Grants authorized. |
+| (b) | Authorization of appropriations. |
+| (c) | Eligible entities. |
+| (d) | Grantee requirements. |
+| 14043d–4. | Engaging men and youth in preventing domestic violence, dating violence, sexual assault, and stalking. |
+| (a) | Grants authorized. |
+| (b) | Authorization of appropriations. |
+| (c) | Use of funds. |
+| (d) | Eligible entities. |
+| (e) | Grantee requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part M—Addressing the Housing Needs of Victims of Domestic Violence, Dating Violence, Sexual Assault, and Stalking
+
+|  |  |
+| :--- | ---: |
+| [14043e.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20M%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2014043e%20-%20Findings.md) | Findings. |
+| 14043e–1. | Purpose. |
+| 14043e–2. | Definitions. |
+| 14043e–3. | Collaborative grants to increase the long-term stability of victims. |
+| (a) | Grants authorized. |
+| (b) | Eligible entities. |
+| (c) | Application. |
+| (d) | Use of funds. |
+| (e) | Limitation. |
+| (f) | Underserved populations and priorities. |
+| (g) | Definitions. |
+| (h) | Evaluation, monitoring, administration, and technical assistance. |
+| (i) | Authorization of appropriations. |
+| 14043e–4. | Grants to combat violence against women in public and assisted housing. |
+| (a) | Purpose. |
+| (b) | Grants authorized. |
+| (c) | Eligible grantees. |
+| (d) | Application. |
+| (e) | Certification. |
+| (f) | Use of funds. |
+| (g) | Authorization of appropriations. |
+| (h) | Technical assistance. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part N—National Resource Center
+
+|  |  |
+| :--- | ---: |
+| [14043f.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20N%20-%20National%20Resource%20Center/%C2%A7%2014043f%20-%20Grant%20for%20national%20resource%20center%20on%20workplace%20responses%20to%20assist%20victims%20of%20domestic%20and%20sexual%20violence.md) | Grant for national resource center on workplace responses to assist victims of domestic and sexual violence. |
+| (a) | Authority. |
+| (b) | Applications. |
+| (c) | Use of grant amount. |
+| (d) | Liability. |
+| (e) | Authorization of appropriations. |
+| (f) | Availability of grant funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part O—Combatting Domestic Trafficking in Persons
+
+|  |  |
+| :--- | ---: |
+| [14044\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044%20-%20Prevention%20of%20domestic%20trafficking%20in%20persons.md) | Prevention of domestic trafficking in persons. |
+| (a) | Program to reduce trafficking in persons and demand for commercial sex acts in the United States. |
+| (b) | Omitted. |
+| (c) | Authorization of appropriations. |
+| [14044a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044a%20-%20Establishment%20of%20grant%20program%20to%20develop%2C%20expand%2C%20and%20strengthen%20assistance%20programs%20for%20certain%20persons%20subject%20to%20trafficking.md) | Establishment of grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking. |
+| (a) | Grant program. |
+| (b) | Selection factor. |
+| (c) | Limitation on Federal share. |
+| (d) | Authorization of appropriations. |
+| [14044b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044b%20-%20Protection%20of%20juvenile%20victims%20of%20trafficking%20in%20persons.md) | Protection of juvenile victims of trafficking in persons. |
+| (a) | Establishment of pilot program. |
+| (b) | Purposes. |
+| (c) | Selection of sites. |
+| (d) | Form of assistance. |
+| (e) | Report. |
+| (f) | Definition. |
+| (g) | Authorization of appropriations. |
+| [14044c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044c%20-%20Enhancing%20State%20and%20local%20efforts%20to%20combat%20trafficking%20in%20persons.md) | Enhancing State and local efforts to combat trafficking in persons. |
+| (a) | Establishment of grant program for law enforcement. |
+| (b) | Multi-disciplinary approach required. |
+| (c) | Limitation on Federal share |
+| (d) | Authorization of appropriations. |
+| [14044d.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044d%20-%20Senior%20Policy%20Operating%20Group.md) | Senior Policy Operating Group |
+| [14044e.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044e%20-%20Definitions.md) | Definitions |
+| [14044f.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Combatting%20Domestic%20Trafficking%20in%20Persons/%C2%A7%2014044f%20-%20Grants%20for%20law%20enforcement%20training%20programs.md) | Grants for law enforcement training programs. |
+| (a) | Definitions. |
+| (b) | Grants authorized. |
+| (c) | Use of funds. |
+| (d) | Restrictions. |
+| (e) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part P—Miscellaneous Authorities
+
+|  |  |
+| :--- | ---: |
+| [14045\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045%20-%20Grants%20for%20outreach%20to%20underserved%20populations.md) | Grants for outreach to underserved populations. |
+| (a) | Grants authorized. |
+| (b) | Eligible entities. |
+| (c) | Allocation of funds. |
+| (d) | Use of funds. |
+| (e) | Application. |
+| (f) | Criteria. |
+| (g) | Reports. |
+| (h) | Authorization of appropriations. |
+| [14045a.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045a%20-%20Enhancing%20culturally%20and%20linguistically%20specific%20services%20for%20victims%20of%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20and%20stalking.md) | Enhancing culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking. |
+| (a) | Establishment. |
+| (b) | Purpose of program and grants. |
+| (c) | Eligible entities. |
+| (d) | Reporting. |
+| (e) | Grant period. |
+| (f) | Evaluation. |
+| (g) | Non-exclusivity. |
+| [14045b.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045b%20-%20Grants%20to%20combat%20violent%20crimes%20on%20campuses.md) | Grants to combat violent crimes on campuses. |
+| (a) | Grants authorized. |
+| (b) | Use of grant funds. |
+| (c) | Applications. |
+| (d) | General terms and conditions. |
+| (e) | Authorization of appropriations. |
+| [14045c.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045c%20-%20Public%20awareness%20campaign.md) | Public awareness campaign. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
+| [14045d.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Miscellaneous%20Authorities/%C2%A7%2014045d%20-%20Consultation.md) | Consultation. |
+| (a) | In general. |
+| (b) | Recommendations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -757,7 +975,6 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (b) | Information. |
 | (c) | Failure to comply. |
 | (d) | Expungement of records. |
-| (e) | Authority for keyboard searches. |
 | [14133\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20A%20-%20DNA%20Identification/%C2%A7%2014133%20-%20Federal%20Bureau%20of%20Investigation.md) | Federal Bureau of Investigation. |
 | (a) | Proficiency testing requirements. |
 | (b) | Privacy protection standards. |
@@ -842,11 +1059,7 @@ I74subpart 1—education and training for judges and court personnel in state co
 
 |  |  |
 | :--- | ---: |
-| [14151\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20C%20-%20Improved%20Training%20and%20Technical%20Automation/%C2%A7%2014151%20-%20Improved%20training%20and%20technical%20automation.md) | Improved training and technical automation. |
-| (a) | Grants. |
-| (b) | Training and investigative assistance. |
-| (c) | Authorization of appropriations. |
-| (d) | Definitions. |
+| [14151\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20C%20-%20Improved%20Training%20and%20Technical%20Automation/%C2%A7%2014151%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20XI%2C%20%C2%A71154%28b%29%283%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203113.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -854,11 +1067,7 @@ I74subpart 1—education and training for judges and court personnel in state co
 
 |  |  |
 | :--- | ---: |
-| [14161\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20D%20-%20Other%20State%20and%20Local%20Aid/%C2%A7%2014161%20-%20Federal%20assistance%20to%20ease%20increased%20burdens%20on%20State%20court%20systems.md) | Federal assistance to ease increased burdens on State court systems. |
-| (a) | In general. |
-| (b) | Applications. |
-| (c) | Records. |
-| (d) | Authorization of appropriations. |
+| [14161\.](Subchapter%20009%20%28IX%29%20-%20State%20and%20Local%20Law%20Enforcement/Part%20D%20-%20Other%20State%20and%20Local%20Aid/%C2%A7%2014161%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93162%2C%20title%20XI%2C%20%C2%A71154%28b%29%284%29%2C%20Jan.%205%2C%202006%2C%20119%20Stat.%203113.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

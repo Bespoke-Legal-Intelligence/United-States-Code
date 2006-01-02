@@ -78,41 +78,7 @@ Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by Pub. L. 
 
 #### Evaluation of Department of Veterans Affairs Nurse Managed Clinics
 
-Pub. L. 107–135, title I, §123, Jan. 23, 2002, 115 Stat. 2451, provided that:
-
-“(a)
-
-Evaluation.—The Secretary of Veterans Affairs shall carry out an evaluation of the efficacy of the nurse managed health care clinics of the Department of Veterans Affairs. The Secretary shall complete the evaluation not later than 18 months after the date of the enactment of this Act \[Jan. 23, 2002\].
-
-“(b)
-
-Clinics To Be Evaluated.—(1) In carrying out the evaluation under subsection (a), the Secretary shall consider nurse managed health care clinics, including primary care clinics and geriatric care clinics, located in three different geographic service areas of the Department.
-
-“(2) If there are not nurse managed health care clinics located in three different geographic service areas as of the commencement of the evaluation, the Secretary shall—
-
-&emsp;“(A) establish nurse managed health care clinics in additional geographic service areas such that there are nurse managed health care clinics in three different geographic service areas for purposes of the evaluation; and
-
-&emsp;“(B) include such clinics, as so established, in the evaluation.
-
-“(c)
-
-Matters To Be Evaluated.—In carrying out the evaluation under subsection (a), the Secretary shall address the following:
-
-&emsp;“(1) Patient satisfaction.
-
-&emsp;“(2) Provider experiences.
-
-&emsp;“(3) Cost of care.
-
-&emsp;“(4) Access to care, including waiting time for care.
-
-&emsp;“(5) The functional status of patients receiving care.
-
-&emsp;“(6) Any other matters the Secretary considers appropriate.
-
-“(d)
-
-Report.—Not later than 18 months after the date of the enactment of this Act \[Jan. 23, 2002\], the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the evaluation carried out under subsection (a). The report shall address the matters specified in subsection (c) and include any other information, and any recommendations, that the Secretary considers appropriate. The Secretary shall provide a copy of the report to the National Commission on VA Nursing established under subtitle D \[set out as a note under section 7451 of this title\].”
+Pub. L. 107–135, title I, §123, Jan. 23, 2002, 115 Stat. 2451, required the Secretary of Veterans Affairs to evaluate the efficacy of the nurse managed health care clinics of the Department of Veterans Affairs and submit to Congress a report on the evaluation not later than 18 months after Jan. 23, 2002.
 
 #### Quality Assurance Activities
 

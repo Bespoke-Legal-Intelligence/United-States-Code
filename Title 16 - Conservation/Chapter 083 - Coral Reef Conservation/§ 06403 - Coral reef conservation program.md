@@ -62,13 +62,13 @@ Each proposal for a grant under this section shall include the following:
 
 &emsp;&emsp;(B) provide for the merit-based peer review of the proposal and require standardized documentation of that peer review;
 
-&emsp;&emsp;(C) after considering any written comments and recommendations based on thereviews under subparagraphs (A) and (B), approve or disapprove the proposal; and
+&emsp;&emsp;(C) after considering any written comments and recommendations based on the reviews under subparagraphs (A) and (B), approve or disapprove the proposal; and
 
 &emsp;&emsp;(D) provide written notification of that approval or disapproval to the person who submitted the proposal, and each of those States and other government jurisdictions that provided comments under subparagraph (A).
 
 #### (g) Criteria for approval
 
-The Administrator may not approve a project proposal under this section unless the project is consistent with the coral reef action strategy under section 6402 of this title and will enhance the conservation of coral reefs by—
+The Administrator may not approve a project proposal under this section unless the project is consistent with the coral reef action strategyunder section 6402 of this title and will enhance the conservation of coral reefs by—
 
 &emsp;(1) implementing coral conservation programs which promote sustainable development and ensure effective, long-term conservation of coral reefs;
 

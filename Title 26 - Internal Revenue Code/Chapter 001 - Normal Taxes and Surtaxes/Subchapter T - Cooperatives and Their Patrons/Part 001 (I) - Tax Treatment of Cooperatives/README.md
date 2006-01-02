@@ -14,10 +14,6 @@
 
 1962—Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045, added heading of part I and items 1381 to 1383.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 521, 860E, 860L, 941, 943, 1042, 1388 of this title.
-
 
 ---
 

@@ -20,6 +20,10 @@ Truck tractor.—The term “truck tractor” means—
 
 &emsp;&emsp;(B) a power unit that carries as property only motor vehicles when operating in combination with a semitrailer in transporting motor vehicles.
 
+&emsp;(4)
+
+Drive-away saddlemount with fullmount vehicle transporter combination.—The term “drive-away saddlemount with fullmount vehicle transporter combination” means a vehicle combination designed and specifically used to tow up to 3 trucks or truck tractors, each connected by a saddle to the frame or fifth-wheel of the forward vehicle of the truck or truck tractor in front of it.
+
 (b)
 
 General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
@@ -30,9 +34,11 @@ General Limitations.—(1) Except as provided in this section, a State may not p
 
 &emsp;(C) has the effect of prohibiting the use of a semitrailer or trailer of the same dimensions as those that were in actual and lawful use in that State on December 1, 1982;
 
-&emsp;(D) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
+&emsp;(D) imposes a vehicle length limitation of not less than or more than 97 feet on a driveaway saddlemount with fullmount vehicle transporter combinations;
 
-&emsp;(E) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events.
+&emsp;(E) has the effect of prohibiting the use of an existing semitrailer or trailer, of not more than 28.5 feet in length, in a truck tractor-semitrailer-trailer combination if the semitrailer or trailer was operating lawfully on December 1, 1982, within a 65-foot overall length limit in any State; or
+
+&emsp;(F) imposes a limitation of less than 46 feet on the distance from the kingpin to the center of the rear axle on trailers used exclusively or primarily in connection with motorsports competition events.
 
 (2) A length limitation prescribed or enforced by a State under paragraph (1)(A) of this subsection applies only to a semitrailer or trailer and not to a truck tractor.
 
@@ -50,7 +56,7 @@ Qualifying Highways.—The Secretary by regulation shall designate as qualifying
 
 (f)
 
-Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
+Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate andDefense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
 
 (2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
 
@@ -66,7 +72,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 Accommodating Specialized Equipment.—In prescribing regulations to carry out this section, the Secretary may make decisions necessary to accommodate specialized equipment, including automobile and vessel transporters and maxi-cube vehicles.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 993; Pub. L. 104–88, title I, §104(b), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4005, June 9, 1998, 112 Stat. 400; Pub. L. 109–59, title IV, §4141, Aug. 10, 2005, 119 Stat. 1746.)
 
 Historical and Revision Notes
 
@@ -142,7 +148,7 @@ Subsection (b)(1) is substituted for 49 App.:2311(a) and (b) (2d–last sentence
 
 Subsection (b)(2) is substituted for 49 App.:2311(b) (1st sentence) because of the restatement.
 
-In subsection (d), the words “such as rear view mirrors, turn signal lamps, marker lamps, steps and handholds for entry and egress, flexible fender extensions, mudflaps and splash and spray suppressant devices, load-induced tire bulge, refrigeration units or air compressors and other devices” are omitted as unnecessary and because most items listed relate to width rather than length.
+In subsection (d), the words “such as rear view mirrors, turn signal lamps, marker lamps, steps and handholds for entry and egress, flexible fender extensions,mudflaps and splash and spray suppressant devices, load-induced tire bulge, refrigeration units or air compressors and other devices” are omitted as unnecessary and because most items listed relate to width rather than length.
 
 In subsection (e), the words “by regulation” are added for clarity. The words “subject to the provisions of subsections (a) and (c) of this section” are omitted as surplus. The text of 49 App.:2311(e)(2) and (3) is omitted as executed.
 
@@ -153,6 +159,10 @@ In subsection (f)(4)(C), the reference to regulations prescribed under subsectio
 Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word “vessel” is substituted for “boat” because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
 
 #### Amendments
+
+2005—Subsec. (a)(4). Pub. L. 109–59, §4141(a), added par. (4).
+
+Subsec. (b)(1)(D) to (F). Pub. L. 109–59, §4141(b), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
 1998—Subsec. (a). Pub. L. 105–178, §4005(1), substituted “section, the following definitions apply:” for “section—” in introductory provisions.
 

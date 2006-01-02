@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) notice of the actual number of communication interceptions, pen registers, and trap and trace devices, representing a portion of the maximum capacity set forth under subparagraph (B), that the Attorney General estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously by the date that is 4 years after October 25, 1994; and
 
-&emsp;&emsp;(B) notice of the maximum capacity required to accommodate all of the communication interceptions, pen registers, and trap and trace devices that the Attorney General estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously after the date that is 4 years after October 25, 1994.
+&emsp;&emsp;(B) notice of the maximum capacity required to accommodate all of the communication interceptions, pen registers, and trap and trace devices that the AttorneyGeneral estimates that government agencies authorized to conduct electronic surveillance may conduct and use simultaneously after the date that is 4 years after October 25, 1994.
 
 #### (2) Basis of notices
 

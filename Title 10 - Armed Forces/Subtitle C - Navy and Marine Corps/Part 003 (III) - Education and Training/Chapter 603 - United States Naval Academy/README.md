@@ -18,12 +18,17 @@
 | [6962\.](%C2%A7%2006962%20-%20Midshipmen%20discharge%20for%20unsatisfactory%20conduct%20or%20inaptitude.md) | Midshipmen: discharge for unsatisfactory conduct or inaptitude. |
 | [6963\.](%C2%A7%2006963%20-%20Midshipmen%20discharge%20for%20deficiency.md) | Midshipmen: discharge for deficiency. |
 | [6964\.](%C2%A7%2006964%20-%20Hazing%20definition%3B%20prohibition.md) | Hazing: definition; prohibition. |
-| [6965\.](%C2%A7%2006965%20-%20Failure%20to%20report%20violation%20dismissal.md) | Failure to report violation; dismissal. |
+| [6965\.](%C2%A7%2006965%20-%20Failure%20to%20report%20violation%20dismissal.md) | Failure to report violation; dismissal.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [6966\.](%C2%A7%2006966%20-%20Course%20of%20study.md) | Course of study. |
 | [6967\.](%C2%A7%2006967%20-%20Degree%20on%20graduation.md) | Degree on graduation. |
 | [6968\.](%C2%A7%2006968%20-%20Board%20of%20Visitors.md) | Board of Visitors. |
 | [6969\.](%C2%A7%2006969%20-%20Band%20composition.md) | Band: composition. |
-| \[6970. | Repealed.\] |
+| [6970\.](%C2%A7%2006970%20-%20Permanent%20professors%20retirement%20for%20years%20of%20service%3B%20authority%20for%20deferral.md) | Permanent professors: retirement for years of service; authority for deferral. |
 | [6971\.](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20trade%20shops%2C%20dairy%2C%20and%20laundry%20nonappropriated%20fund%20instrumentality%20and%20accounts.md) | Midshipmen's store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts. |
 | [6972\.](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md) | Chapel: crypt and window spaces. |
 | [6973\.](%C2%A7%2006973%20-%20Gifts%2C%20bequests%2C%20and%20loans%20of%20property%20acceptance%20for%20benefit%20and%20use%20of%20Naval%20Academy.md) | Gifts, bequests, and loans of property: acceptance for benefit and use of Naval Academy. |
@@ -31,10 +36,18 @@
 | [6975\.](%C2%A7%2006975%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md) | Acceptance of guarantees with gifts for major projects. |
 | [6976\.](%C2%A7%2006976%20-%20Operation%20of%20Naval%20Academy%20dairy%20farm.md) | Operation of Naval Academy dairy farm. |
 | [6977\.](%C2%A7%2006977%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md) | Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees. |
+| [6978\.](%C2%A7%2006978%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md) | Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds. |
+| [6979\.](%C2%A7%2006979%20-%20Midshipmen%20charges%20and%20fees%20for%20attendance%3B%20limitation.md) | Midshipmen: charges and fees for attendance; limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §509(b)(2), Jan. 6, 2006, 119 Stat. 3230, added item 6970.
+
+2004—Pub. L. 108–375, div. A, title V, §545(b)(2), Oct. 28, 2004, 118 Stat. 1908, added item 6979.
+
+Pub. L. 108–375, div. A, title V, §544(b)(2), Oct. 28, 2004, 118 Stat. 1907, which directed addition of item 6978 at end of table of sections at beginning of “such title”, was executed by adding item 6978 at end of table of sections for this chapter, to reflect the probable intent of Congress.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(e)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–242, added items 6973 and 6974 and struck out former items 6973 “Gifts and bequests: acceptance for benefit of Naval Academy” and 6974 “Gifts and bequests: acceptance for benefit of museum”.
 
@@ -50,9 +63,7 @@
 
 1983—Pub. L. 98–94, title X, §1004(b)(2), Sept. 24, 1983, 97 Stat. 659, substituted “Selection of persons from foreign countries” for “Admission of foreigners for instruction: restrictions, conditions” in item 6957.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 37 section 209.
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -80,7 +91,7 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 06967 - Degree on graduation](%C2%A7%2006967%20-%20Degree%20on%20graduation.md)
 - [&sect; 06968 - Board of Visitors](%C2%A7%2006968%20-%20Board%20of%20Visitors.md)
 - [&sect; 06969 - Band composition](%C2%A7%2006969%20-%20Band%20composition.md)
-- [&sect; 06970 - Repealed. Pub. L. 104&#8211;201, div. A, title III, &sect;370(c), Sept. 23, 1996, 110 Stat. 2499](%C2%A7%2006970%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7370%28c%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202499.md)
+- [&sect; 06970 - Permanent professors retirement for years of service; authority for deferral](%C2%A7%2006970%20-%20Permanent%20professors%20retirement%20for%20years%20of%20service%3B%20authority%20for%20deferral.md)
 - [&sect; 06971 - Midshipmen's store, trade shops, dairy, and laundry nonappropriated fund instrumentality and accounts](%C2%A7%2006971%20-%20Midshipmen%27s%20store%2C%20trade%20shops%2C%20dairy%2C%20and%20laundry%20nonappropriated%20fund%20instrumentality%20and%20accounts.md)
 - [&sect; 06972 - Chapel crypt and window spaces](%C2%A7%2006972%20-%20Chapel%20crypt%20and%20window%20spaces.md)
 - [&sect; 06973 - Gifts, bequests, and loans of property acceptance for benefit and use of Naval Academy](%C2%A7%2006973%20-%20Gifts%2C%20bequests%2C%20and%20loans%20of%20property%20acceptance%20for%20benefit%20and%20use%20of%20Naval%20Academy.md)
@@ -88,3 +99,5 @@ This chapter is referred to in title 37 section 209.
 - [&sect; 06975 - Acceptance of guarantees with gifts for major projects](%C2%A7%2006975%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md)
 - [&sect; 06976 - Operation of Naval Academy dairy farm](%C2%A7%2006976%20-%20Operation%20of%20Naval%20Academy%20dairy%20farm.md)
 - [&sect; 06977 - Grants for faculty research for scientific, literary, and educational purposes acceptance; authorized grantees](%C2%A7%2006977%20-%20Grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes%20acceptance%3B%20authorized%20grantees.md)
+- [&sect; 06978 - Mixed-funded athletic and recreational extracurricular programs authority to manage appropriated funds in same manner as nonappropriated&#8230;](%C2%A7%2006978%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs%20authority%20to%20manage%20appropriated%20funds%20in%20same%20manner%20as%20nonappropriated%E2%80%A6.md)
+- [&sect; 06979 - Midshipmen charges and fees for attendance; limitation](%C2%A7%2006979%20-%20Midshipmen%20charges%20and%20fees%20for%20attendance%3B%20limitation.md)

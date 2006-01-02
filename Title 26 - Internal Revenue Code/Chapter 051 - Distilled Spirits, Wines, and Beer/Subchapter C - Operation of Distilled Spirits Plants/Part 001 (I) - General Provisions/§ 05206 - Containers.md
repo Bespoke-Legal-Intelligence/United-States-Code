@@ -58,7 +58,3 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 603, 63
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5116, 5604 of this title.
-

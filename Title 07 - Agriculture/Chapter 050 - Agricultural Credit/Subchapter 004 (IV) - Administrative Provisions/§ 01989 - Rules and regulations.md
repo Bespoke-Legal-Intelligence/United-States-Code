@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapter II of this chapter that are made by lending institutions certified by the Secretary.
+&emsp;The Secretary shall establish a program under which the Secretary shall guarantee loans for any purpose specified in subchapterII of this chapter that are made by lending institutions certified by the Secretary.
 
 #### (2) Certification requirements
 
@@ -80,7 +80,7 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 #### (e) Administration of Certified Lenders and Preferred Certified Lenders programs
 
-The Secretary may administer the loan guarantee programs under subsections (c) and (d) of this section through central offices established in States or in multi-State areas.
+The Secretary may administer the loan guarantee programs under subsections (c) and (d) ofthis section through central offices established in States or in multi-State areas.
 
 (Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, §5309, May 13, 2002, 116 Stat. 346.)
 

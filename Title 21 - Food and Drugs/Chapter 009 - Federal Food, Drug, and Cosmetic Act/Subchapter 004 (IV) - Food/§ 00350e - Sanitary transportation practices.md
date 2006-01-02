@@ -1,0 +1,86 @@
+### §350e. Sanitary transportation practices
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Bulk vehicle
+
+&emsp;The term “bulk vehicle” includes a tank truck, hopper truck, rail tank car, hopper car, cargo tank, portable tank, freight container, or hopper bin, and any other vehicle in which food is shipped in bulk, with the food coming into direct contact with the vehicle.
+
+#### (2) Transportation
+
+&emsp;The term “transportation” means any movement in commerce by motor vehicle or rail vehicle.
+
+#### (b) Regulations
+
+The Secretary shall by regulation require shippers, carriers by motor vehicle or rail vehicle, receivers, and other persons engaged in the transportation of food to use sanitary transportation practices prescribed by the Secretary to ensure that food is not transported under conditions that may render the food adulterated.
+
+#### (c) Contents
+
+The regulations under subsection (b) of this section shall—
+
+&emsp;(1) prescribe such practices as the Secretary determines to be appropriate relating to—
+
+&emsp;&emsp;(A) sanitation;
+
+&emsp;&emsp;(B) packaging, isolation, and other protective measures;
+
+&emsp;&emsp;(C) limitations on the use of vehicles;
+
+&emsp;&emsp;(D) information to be disclosed—
+
+&emsp;&emsp;&emsp;(i) to a carrier by a person arranging for the transport of food; and
+
+&emsp;&emsp;&emsp;(ii) to a manufacturer or other person that—
+
+&emsp;&emsp;&emsp;&emsp;(I) arranges for the transportation of food by a carrier; or
+
+&emsp;&emsp;&emsp;&emsp;(II) furnishes a tank vehicle or bulk vehicle for the transportation of food; and
+
+&emsp;&emsp;(E) recordkeeping; and
+
+&emsp;(2) include—
+
+&emsp;&emsp;(A) a list of nonfood products that the Secretary determines may, if shipped in a bulk vehicle, render adulterated food that is subsequently transported in the same vehicle; and
+
+&emsp;&emsp;(B) a list of nonfood products that the Secretary determines may, if shipped in a motor vehicle or rail vehicle (other than a tank vehicle or bulk vehicle), render adulterated food that is simultaneously or subsequently transported in the same vehicle.
+
+#### (d) Waivers
+
+#### (1) In general
+
+&emsp;The Secretary may waive any requirement under this section, with respect to any class of persons, vehicles, food, or nonfood products, if the Secretary determines that the waiver—
+
+&emsp;&emsp;(A) will not result in the transportation of food under conditions that would be unsafe for human or animal health; and
+
+&emsp;&emsp;(B) will not be contrary to the public interest.
+
+#### (2) Publication
+
+&emsp;The Secretary shall publish in the Federal Register any waiver and the reasons for the waiver.
+
+#### (e) Preemption
+
+#### (1) In general
+
+&emsp;A requirement of a State or political subdivision of a State that concerns the transportation of food is preempted if—
+
+&emsp;&emsp;(A) complying with a requirement of the State or political subdivision and a requirement of this section, or a regulation prescribed under this section, is not possible; or
+
+&emsp;&emsp;(B) the requirement of the State or political subdivision as applied or enforced is an obstacle to accomplishing and carrying out this section or a regulation prescribed under this section.
+
+#### (2) Applicability
+
+&emsp;This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b) of this section.
+
+#### (f) Assistance of other agencies
+
+The Secretary of Transportation, the Secretary of Agriculture, the Administrator of the Environmental Protection Agency, and the heads of other Federal agencies, as appropriate, shall provide assistance on request, to the extent resources are available, to the Secretary for the purposes of carrying out this section.
+
+(June 25, 1938, ch. 675, §416, as added Pub. L. 109–59, title VII, §7202(b), Aug. 10, 2005, 119 Stat. 1911.)
+
+#### Effective Date
+
+Section effective Oct. 1, 2005, see section 7204 of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 331 of this title.
+

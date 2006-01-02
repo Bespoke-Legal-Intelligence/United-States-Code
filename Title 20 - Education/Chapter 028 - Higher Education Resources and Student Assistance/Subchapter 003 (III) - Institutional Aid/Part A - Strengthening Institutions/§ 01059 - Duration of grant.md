@@ -6,7 +6,7 @@ The Secretary may award a grant to an eligible institution under this part for 5
 
 #### (b) Limitations
 
-In awarding grants under this part the Secretary shall give priority to applicants who arenot already receiving a grant under this part, except that for the purpose of this subsection a grant under subsection (c) of this section and a grant under section 1068c(a)(1) of this title shall not be considered a grant under this part.
+In awarding grants under this part the Secretary shall give priority to applicants who are not already receiving a grant under this part, except that for the purpose of this subsection a grant under subsection (c) of this section and a grant under section 1068c(a)(1) of this title shall not be considered a grant under this part.
 
 #### (c) Planning grants
 

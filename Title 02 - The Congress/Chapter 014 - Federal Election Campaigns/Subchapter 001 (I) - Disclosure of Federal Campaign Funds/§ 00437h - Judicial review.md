@@ -64,7 +64,7 @@ Intervention by Members of Congress.—In any action in which the constitutional
 
 “(c)
 
-Challenge by Members of Congress.—Any Member of Congress may bring an action, subject tothe special rules described in subsection (a), for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act.
+Challenge by Members of Congress.—Any Member of Congress may bring an action, subject to the special rules described in subsection (a), for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act.
 
 “(d)
 

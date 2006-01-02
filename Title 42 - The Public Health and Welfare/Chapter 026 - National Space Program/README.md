@@ -11,7 +11,8 @@
 | (d) | Objectives of aeronautical and space activities. |
 | (e) | Ground propulsion systems research and development. |
 | (f) | Bioengineering research, development, and demonstration programs. |
-| (g) | Purpose of chapter. |
+| (g) | Detecting, tracking, cataloguing, and characterizing near-Earth asteroids and comets. |
+| (h) | Purpose of chapter. |
 | [2452\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002452%20-%20Definitions.md) | Definitions. |
 | [2453\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002453%20-%20Transfer%20of%20related%20functions%20to%20Administration.md) | Transfer of related functions to Administration. |
 | (a) | Functions of other departments and agencies; transfer of records, etc. |
@@ -75,9 +76,21 @@
 | (a) | Designation of accounts for appropriations. |
 | (b) | Transfers among accounts. |
 | (c) | Transfer of unexpired balances. |
+| 2459f–1. | Prize authority. |
+| (a) | In general. |
+| (b) | Topics. |
+| (c) | Advertising. |
+| (d) | Requirements and registration. |
+| (e) | Eligibility. |
+| (f) | Liability. |
+| (g) | Judges. |
+| (h) | Administering the competition. |
+| (i) | Funding. |
+| (j) | Use of NASA name and insignia. |
+| (k) | Compliance with existing law. |
 | [2459g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459g%20-%20Requirement%20for%20independent%20cost%20analysis.md) | Requirement for independent cost analysis. |
 | (a) | Requirement. |
-| (b) | Definition. |
+| (b) | Implementation defined. |
 | [2459h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459h%20-%20Cost%20effectiveness%20calculations.md) | Cost effectiveness calculations. |
 | [2459i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459i%20-%20Working%20capital%20fund.md) | Working capital fund. |
 | [2459j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459j%20-%20Enhanced-use%20lease%20of%20real%20property%20demonstration.md) | Enhanced-use lease of real property demonstration. |
@@ -87,6 +100,10 @@
 | (d) | Relationship to other lease authority. |
 | (e) | Lease restrictions. |
 | (f) | Plan and reporting requirements. |
+| [2459k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002459k%20-%20Retrocession%20of%20jurisdiction.md) | Retrocession of jurisdiction. |
+| 2459<i>l</i>. | Recovery and disposition authority. |
+| (a) | In general. |
+| (b) | Definitions. |
 | [2460\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002460%20-%20Appropriations%3B%20prior%20authorization%20by%20Congress.md) | Appropriations; prior authorization by Congress. |
 | [2461\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002461%20-%20Congressional%20Space%20Medal%20of%20Honor%3B%20appropriations.md) | Congressional Space Medal of Honor; appropriations. |
 | [2462\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002462%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9396%2C%20%C2%A78%2C%20Dec.%2021%2C%201981%2C%2095%20Stat.%201211.md) | Repealed. |
@@ -157,18 +174,7 @@
 | [2473d.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002473d%20-%20Use%20of%20abandoned%20and%20underutilized%20buildings%2C%20grounds%2C%20and%20facilities.md) | Use of abandoned and underutilized buildings, grounds, and facilities. |
 | (a) | In general. |
 | (b) | Definition. |
-| [2473e.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002473e%20-%20National%20Aeronautics%20and%20Space%20Administration%20Science%20and%20Technology%20Scholarship%20Program.md) | National Aeronautics and Space Administration Science and Technology Scholarship Program. |
-| (a) | Establishment; selection of recipients; agreement to serve as employees. |
-| (b) | Eligibility. |
-| (c) | Application. |
-| (d) | Eligible academic programs and fields of study. |
-| (e) | Requirements for scholarship funds. |
-| (f) | Period of service. |
-| (g) | Academic standing; breach of agreement; repayment of scholarship. |
-| (h) | Termination or waiver of obligations. |
-| (i) | Definitions. |
-| (j) | Appropriations. |
-| (k) | Temporary internships. |
+| [2473e.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002473e%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93155%2C%20title%20VII%2C%20%C2%A7703%28b%29%2C%20Dec.%2030%2C%202005%2C%20119%20Stat.%202936.md) | Repealed. |
 | [2474\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002474%20-%20Omitted.md) | Omitted. |
 | [2475\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002475%20-%20International%20cooperation.md) | International cooperation. |
 | [2475a.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002475a%20-%20Competitiveness%20and%20international%20cooperation.md) | Competitiveness and international cooperation. |
@@ -185,6 +191,8 @@
 | (b) | Termination of authority to accept; use of unneeded gifts and donations. |
 | (c) | Name of space shuttle orbiter. |
 | [2477\.](Subchapter%20002%20%28II%29%20-%20Coordination%20of%20Aeronautical%20and%20Space%20Activities/%C2%A7%2002477%20-%20Aerospace%20Safety%20Advisory%20Panel%3B%20membership%3B%20appointment%3B%20term%3B%20powers%20and%20duties%20of%20Panel%3B%20Chairman%3B%20compensation%2C%20travel%20and%20other%E2%80%A6.md) | Aerospace Safety Advisory Panel; membership; appointment; term; powers and duties of Panel; Chairman; compensation, travel and other necessary expenses; NASA membership restriction. |
+| (a) | In general. |
+| (b) | Annual report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

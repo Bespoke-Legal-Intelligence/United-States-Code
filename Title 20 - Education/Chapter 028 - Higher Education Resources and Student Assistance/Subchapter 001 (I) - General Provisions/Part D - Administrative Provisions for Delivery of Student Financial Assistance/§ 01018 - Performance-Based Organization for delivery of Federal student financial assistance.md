@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) design and technical specifications for software development and systems supporting the delivery of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
 
-&emsp;&emsp;&emsp;(iii) all software and hardware acquisitions and all information technology contracts related to the delivery and management of student financial assistance under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
+&emsp;&emsp;&emsp;(iii) all software and hardware acquisitions and all information technology contracts related to the delivery and management of student financial assistance undersubchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42;
 
 &emsp;&emsp;&emsp;(iv) all aspects of contracting for the information and financial systems supporting student financial assistance programs under this subchapter; and
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;(E) Recommendations for legislative and regulatory changes to improve service to students and their families, and to improve program efficiency and integrity.
 
-&emsp;&emsp;(F) Other such information as the Director of the Office of Management and Budget shall prescribe for performance based organizations.
+&emsp;&emsp;(F) Other such information as the Director of the Office of Management and Budgetshall prescribe for performance based organizations.
 
 #### (3) Consultation with stakeholders
 
@@ -200,7 +200,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A senior manager appointed under this subsection may be paid at an annual rate of basic pay of not more than the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of such title. The compensation of a senior manager shall be considered for purposes of section 207(c)(2)(A) of title 18 to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of such title.
+&emsp;&emsp;A senior manager appointed under this subsection may be paid at an annual rate of basic pay of not more than the maximum rate of basic pay for the Senior Executive Service under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of such title. The compensation of a senior manager shall be considered for purposes of section 207(c)(2)(A) of title 18 to be the equivalent ofthat described under clause (ii) of section 207(c)(2)(A) of such title.
 
 #### (B) Bonus
 
@@ -262,7 +262,7 @@ The Secretary shall allocate from funds made available under section 1087h of th
 
 #### References in Text
 
-The Chief Financial Officer Act of 1990, referred to in subsec. (c)(2)(B), probably means the Chief FinancialOfficers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officer Act of 1990, referred to in subsec. (c)(2)(B), probably means the Chief Financial Officers Act of 1990, Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
 The Government Performance and Results Act of 1993, referred to in subsecs. (c)(2)(B) and (h), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 

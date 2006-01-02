@@ -20,7 +20,7 @@
 
 (e) Subsections (a), (b), and (c) apply to the Major Range and Test Facility Base (MRTFB) at the installation level. With respect to the MRTFB structure, the term “funds made available” includes both direct appropriated funds and funds provided by MRTFB customers.
 
-(f)(1) Not later than February 1 of each year, the Secretary of each military department and the head of each Defense Agency shall submit to the Committee on Armed Services of the Senateand the Committee on Armed Services of the House of Representatives a report on the management of the civilian workforce under the jurisdiction of that official.
+(f)(1) Not later than February 1 of each year, the Secretary of each military department and the head of each Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the management of the civilian workforce under the jurisdiction of that official.
 
 (2) Each report of an official under paragraph (1) shall contain the following:
 
@@ -55,8 +55,4 @@ Subsec. (e). Pub. L. 104–201, §1603(2), added subsec. (e).
 1986—Pub. L. 99–661 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 Pub. L. 99–433 renumbered section 140b of this title as this section.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 115 of this title.
 

@@ -6,7 +6,7 @@ In the case of any State plan for aid to the permanently and totally disabled wh
 
 &emsp;(2) that in the administration of the plan there is a failure to comply substantially with any provision required by section 1352(a) of this title to be included in the plan;
 
-> the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure) until heis satisfied that such prohibited requirement is no longer so imposed, and that there is no longer any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
+> the Secretary shall notify such State agency that further payments will not be made to the State (or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure) until he is satisfied that such prohibited requirement is no longer so imposed, and that there is no longer any such failure to comply. Until he is so satisfied he shall make no further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure).
 
 (Aug. 14, 1935, ch. 531, title XIV, §1404, as added Aug. 28, 1950, ch. 809, title III, pt. 5, §351, 64 Stat. 557; amended 1953 Reorg. Plan No. 1, §§5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 90–248, title II, §245, Jan. 2, 1968, 81 Stat. 918; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

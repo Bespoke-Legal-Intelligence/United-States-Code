@@ -2,7 +2,7 @@
 
 #### (a) Administrative costs
 
-Subject to subsection (k) of this section, the Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency's operation of the food stamp program,which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of coupons after their delivery to receiving points within the State, (3) the issuance of coupons to all eligible households, (4) food stamp informational activities, including those undertaken under section 2020(e)(1)(A) of this title, but not including recruitment activities, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g) of this section, (7) food stamp program investigations and prosecutions, and (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act (42 U.S.C. 1320b–7(d)): <i>Provided</i>, That the Secretary is authorized at the Secretary's discretion to pay any State agency administering the food stamp program on all or part of an Indian reservation under section 2020(d) of this title or in a Native village within the State of Alaska identified in section 1610(b) of title 43.<sup>1</sup> such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the food stamp program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
+Subject to subsection (k) of this section, the Secretary is authorized to pay to each State agency an amount equal to 50 per centum of all administrative costs involved in each State agency's operation of the food stamp program, which costs shall include, but not be limited to, the cost of (1) the certification of applicant households, (2) the acceptance, storage, protection, control, and accounting of coupons after their delivery to receiving points within the State, (3) the issuance of coupons to all eligible households, (4) food stamp informational activities, including those undertaken under section 2020(e)(1)(A) of this title, but not including recruitment activities, (5) fair hearings, (6) automated data processing and information retrieval systems subject to the conditions set forth in subsection (g) of this section, (7) food stamp program investigations and prosecutions, and (8) implementing and operating the immigration status verification system established under section 1137(d) of the Social Security Act (42 U.S.C. 1320b–7(d)): <i>Provided</i>, That the Secretary is authorized at the Secretary's discretion to pay any State agency administering the food stamp program on all or part of an Indian reservation under section 2020(d) of this title or in a Native village within the State of Alaska identified in section 1610(b) of title 43.<sup>1</sup> such amounts for administrative costs as the Secretary determines to be necessary for effective operation of the food stamp program, as well as to permit each State to retain 35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise from an error of a State agency. The officials responsible for making determinations of ineligibility under this chapter shall not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
 #### (b) Work supplementation or support program
 
@@ -114,11 +114,11 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (i) Reduction of other amounts due to State agency
 
-&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that has not been used in accordance with that requirement.
+&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that hasnot been used in accordance with that requirement.
 
 #### (ii) Effect of State agency's wholly prevailing on appeal
 
-&emsp;&emsp;&emsp;If a State agency begins required new investment under subparagraph (D)(i)(II), the State agency appeals the liability amount of the State agency, and the determination by the Secretary of the liability amount is reduced to $0 on administrative or judicial review, the Secretary shall pay to the State agency an amount equal to 50 percent of the new investment amountthat was included in the liability amount subject to the appeal.
+&emsp;&emsp;&emsp;If a State agency begins required new investment under subparagraph (D)(i)(II), the State agency appeals the liability amount of the State agency, and the determination by the Secretary of the liability amount is reduced to $0 on administrative or judicial review, the Secretary shall pay to the State agency an amount equal to 50 percent of the new investment amount that was included in the liability amount subject to the appeal.
 
 #### (iii) Effect of Secretary's wholly prevailing on appeal
 
@@ -174,7 +174,7 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 #### (B) Use of alternative measure of State error
 
-&emsp;&emsp;Where a State fails to meet reporting requirements pursuant to paragraph (4), the Secretary may use another measure of a State's error developed pursuant to paragraph (5), to develop the national performance measure.
+&emsp;&emsp;Where a State fails to meet reporting requirements pursuant to paragraph (4), theSecretary may use another measure of a State's error developed pursuant to paragraph (5), to develop the national performance measure.
 
 #### (C) Use of national performance measure
 
@@ -424,7 +424,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 #### (B) Base period
 
-&emsp;&emsp;The term “base period” means the period used to determine the amount of the Statefamily assistance grant for a State under section 403 of the Social Security Act (42 U.S.C. 603).
+&emsp;&emsp;The term “base period” means the period used to determine the amount of the State family assistance grant for a State under section 403 of the Social Security Act (42 U.S.C. 603).
 
 #### (C) Medicaid program
 
@@ -484,7 +484,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 30 days after the date on which a State receives notice under subparagraph (B) of a final decision, the State may appeal the decision, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (referred to in this paragraph as the “Board”) by filing an appeal with the Board.
+&emsp;&emsp;&emsp;Not later than 30 days after the date on which a State receives notice under subparagraph (B) of a final decision, the State may appeal the decision, in whole or in part, to the Departmental Appeals Board established in the Department of Health and Human Services (referred to in thisparagraph as the “Board”) by filing an appeal with the Board.
 
 #### (ii) Review
 
@@ -550,7 +550,7 @@ Subsec. (c)(1). Pub. L. 107–171, §4118(a)(1), added par. (1) and struck out f
 
 Subsec. (c)(4). Pub. L. 107–171, §4118(a)(2), inserted heading and substituted “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency's payment error rate, enhanced administrative funding, or claim for payment error, under this subsection.”
 
-Subsec. (c)(5). Pub. L. 107–171, §4118(a)(3), inserted heading and substituted “To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year.” and “paragraph (1)for a fiscal year” for “paragraph (1)(C) for a fiscal year”.
+Subsec. (c)(5). Pub. L. 107–171, §4118(a)(3), inserted heading and substituted “To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency'spayment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year.” and “paragraph (1) for a fiscal year” for “paragraph (1)(C) for a fiscal year”.
 
 Subsec. (c)(6). Pub. L. 107–171, §4118(a)(4), inserted heading, designated first sentence as subpar. (A), inserted heading, struck out “and incentive payments or claims pursuant to paragraphs (1)(A) and (1)(C)” after “State agencies of their error rates”, and substituted “paragraph (8)” for “paragraph (5)” in two places, designated second sentence as subpar. (B) and inserted heading, designated third sentence as subpar. (C), inserted heading, and substituted “the liability amount of a State under paragraph (1)(C)” for “the State share of the cost of payment error under paragraph (1)(C)” and “paragraph (8)” for “paragraph (5)”, and added subpar. (D).
 
@@ -744,7 +744,7 @@ Subsec. (h). Pub. L. 96–249, §128, added subsec. (h).
 
 Subsec. (i). Pub. L. 96–249, §129, added subsec. (i).
 
-1979—Subsec. (a). Pub. L. 96–58, §6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activities directed against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
+1979—Subsec. (a). Pub. L. 96–58, §6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activitiesdirected against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
 Subsec. (f). Pub. L. 96–58, §4, added subsec. (f).
 
@@ -826,7 +826,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1750 of Pub. L. 101–624 effective Oct. 1, 1990, amendment by section 1752(a) of Pub.L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, and amendment by section 1753 of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(a), (b)(1), (2) of Pub. L. 101–624, set out as a note under section 2012 of this title.
+Amendment by section 1750 of Pub. L. 101–624 effective Oct. 1, 1990, amendment by section 1752(a) of Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, and amendment by section 1753 of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(a), (b)(1), (2) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
 Section 1752(b) of Pub. L. 101–624 provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall not apply to proposals for automatic data processing and information retrieval systems under section 16(g) of the Food Stamp Act of 1977 \[subsec. (g) of this section\] that were approved by the Secretary of Agriculture prior to the date of enactment of this Act \[Nov. 28, 1990\].”
 
@@ -892,7 +892,7 @@ Section 1751 of Pub. L. 101–624 provided that:
 
 “(a)
 
-In General.—No disallowance or other similar action shall be applied to or collected from any State for any of the fiscal years 1983, 1984, or 1985 under section 16(c) of the Food Stamp Act of 1977 (7 U.S.C. 2025(c)) or any predecessor statutory or regulatory provision relating to disallowances or other similar actions for erroneous issuances made in carrying out a State plan under such Act \[7 U.S.C. 2011 et seq.\], except for amounts to be paid or collected after the date of enactment of this Act \[Nov. 28, 1990\] pursuant to settlement agreements which do not provide for payment adjustments based on future changes in law.
+In General.—No disallowance or other similar action shall be applied to or collected from any State for any of the fiscal years 1983, 1984, or 1985 under section 16(c) of the Food Stamp Act of 1977 (7 U.S.C.2025(c)) or any predecessor statutory or regulatory provision relating to disallowances or other similar actions for erroneous issuances made in carrying out a State plan under such Act \[7 U.S.C. 2011 et seq.\], except for amounts to be paid or collected after the date of enactment of this Act \[Nov. 28, 1990\] pursuant to settlement agreements which do not provide for payment adjustments based on future changes in law.
 
 “(b)
 

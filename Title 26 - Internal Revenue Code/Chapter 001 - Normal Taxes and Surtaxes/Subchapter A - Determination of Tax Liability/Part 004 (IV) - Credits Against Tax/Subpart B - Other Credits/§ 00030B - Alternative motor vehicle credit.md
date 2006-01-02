@@ -1,0 +1,644 @@
+### §30B. Alternative motor vehicle credit
+
+#### (a) Allowance of credit
+
+There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
+
+&emsp;(1) the new qualified fuel cell motor vehicle credit determined under subsection (b),
+
+&emsp;(2) the new advanced lean burn technology motor vehicle credit determined under subsection (c),
+
+&emsp;(3) the new qualified hybrid motor vehicle credit determined under subsection (d), and
+
+&emsp;(4) the new qualified alternative fuel motor vehicle credit determined under subsection (e).
+
+#### (b) New qualified fuel cell motor vehicle credit
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a), the new qualified fuel cell motor vehicle credit determined under this subsection with respect to a new qualified fuel cell motor vehicle placed in service by the taxpayer during the taxable year is—
+
+&emsp;&emsp;(A) $8,000 ($4,000 in the case of a vehicle placed in service after December 31, 2009), if such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,
+
+&emsp;&emsp;(B) $10,000, if such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,
+
+&emsp;&emsp;(C) $20,000, if such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and
+
+&emsp;&emsp;(D) $40,000, if such vehicle has a gross vehicle weight rating of more than 26,000 pounds.
+
+#### (2) Increase for fuel efficiency
+
+#### (A) In general
+
+&emsp;&emsp;The amount determined under paragraph (1)(A) with respect to a new qualified fuel cell motor vehicle which is a passenger automobile or light truck shall be increased by—
+
+&emsp;&emsp;&emsp;(i) $1,000, if such vehicle achieves at least 150 percent but less than 175 percent of the 2002 model year city fuel economy,
+
+&emsp;&emsp;&emsp;(ii) $1,500, if such vehicle achieves at least 175 percent but less than 200 percent of the 2002 model year city fuel economy,
+
+&emsp;&emsp;&emsp;(iii) $2,000, if such vehicle achieves at least 200 percent but less than 225 percent of the 2002 model year city fuel economy,
+
+&emsp;&emsp;&emsp;(iv) $2,500, if such vehicle achieves at least 225 percent but less than 250 percent of the 2002 model year city fuel economy,
+
+&emsp;&emsp;&emsp;(v) $3,000, if such vehicle achieves at least 250 percent but less than 275 percent of the 2002 model year city fuel economy,
+
+&emsp;&emsp;&emsp;(vi) $3,500, if such vehicle achieves at least 275 percent but less than 300 percent of the 2002 model year city fuel economy, and
+
+&emsp;&emsp;&emsp;(vii) $4,000, if such vehicle achieves at least 300 percent of the 2002 model year city fuel economy.
+
+#### (B) 2002 model year city fuel economy
+
+&emsp;&emsp;For purposes of subparagraph (A), the 2002 model year city fuel economy with respect to a vehicle shall be determined in accordance with the following tables:
+
+&emsp;&emsp;&emsp;(i) In the case of a passenger automobile:
+
+&nbsp;
+
+<b>The 2002</b>
+
+&nbsp;
+
+<b>model year</b>
+
+&nbsp;
+
+<b>city</b>
+
+<b>If vehicle inertia weight class is:</b>
+
+<b>fuel economy</b>
+
+&nbsp;
+
+<b>is:</b>
+
+&nbsp;1,500 or 1,750 lbs
+
+45\.2 mpg&nbsp;&nbsp;
+
+&nbsp;2,000 lbs
+
+39\.6 mpg&nbsp;&nbsp;
+
+&nbsp;2,250 lbs
+
+35\.2 mpg&nbsp;&nbsp;
+
+&nbsp;2,500 lbs
+
+31\.7 mpg&nbsp;&nbsp;
+
+&nbsp;2,750 lbs
+
+28\.8 mpg&nbsp;&nbsp;
+
+&nbsp;3,000 lbs
+
+26\.4 mpg&nbsp;&nbsp;
+
+&nbsp;3,500 lbs
+
+22\.6 mpg&nbsp;&nbsp;
+
+&nbsp;4,000 lbs
+
+19\.8 mpg&nbsp;&nbsp;
+
+&nbsp;4,500 lbs
+
+17\.6 mpg&nbsp;&nbsp;
+
+&nbsp;5,000 lbs
+
+15\.9 mpg&nbsp;&nbsp;
+
+&nbsp;5,500 lbs
+
+14\.4 mpg&nbsp;&nbsp;
+
+&nbsp;6,000 lbs
+
+13\.2 mpg&nbsp;&nbsp;
+
+&nbsp;6,500 lbs
+
+12\.2 mpg&nbsp;&nbsp;
+
+&nbsp;7,000 to 8,500 lbs
+
+11\.3 mpg.&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&emsp;&emsp;&emsp;(ii) In the case of a light truck:
+
+&nbsp;
+
+<b>The 2002</b>
+
+&nbsp;
+
+<b>model year</b>
+
+&nbsp;
+
+<b>city</b>
+
+<b>If vehicle inertia weight class is:</b>
+
+<b>fuel economy</b>
+
+&nbsp;
+
+<b>is:</b>
+
+&nbsp;1,500 or 1,750 lbs
+
+39\.4 mpg&nbsp;&nbsp;
+
+&nbsp;2,000 lbs
+
+35\.2 mpg&nbsp;&nbsp;
+
+&nbsp;2,250 lbs
+
+31\.8 mpg&nbsp;&nbsp;
+
+&nbsp;2,500 lbs
+
+29\.0 mpg&nbsp;&nbsp;
+
+&nbsp;2,750 lbs
+
+26\.8 mpg&nbsp;&nbsp;
+
+&nbsp;3,000 lbs
+
+24\.9 mpg&nbsp;&nbsp;
+
+&nbsp;3,500 lbs
+
+21\.8 mpg&nbsp;&nbsp;
+
+&nbsp;4,000 lbs
+
+19\.4 mpg&nbsp;&nbsp;
+
+&nbsp;4,500 lbs
+
+17\.6 mpg&nbsp;&nbsp;
+
+&nbsp;5,000 lbs
+
+16\.1 mpg&nbsp;&nbsp;
+
+&nbsp;5,500 lbs
+
+14\.8 mpg&nbsp;&nbsp;
+
+&nbsp;6,000 lbs
+
+13\.7 mpg&nbsp;&nbsp;
+
+&nbsp;6,500 lbs
+
+12\.8 mpg&nbsp;&nbsp;
+
+&nbsp;7,000 to 8,500 lbs
+
+12\.1 mpg.&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (C) Vehicle inertia weight class
+
+&emsp;&emsp;For purposes of subparagraph (B), the term “vehicle inertia weight class” has the same meaning as when defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
+
+#### (3) New qualified fuel cell motor vehicle
+
+&emsp;For purposes of this subsection, the term “new qualified fuel cell motor vehicle” means a motor vehicle—
+
+&emsp;&emsp;(A) which is propelled by power derived from 1 or more cells which convert chemical energy directly into electricity by combining oxygen with hydrogen fuel which is stored on board the vehicle in any form and may or may not require reformation prior to use,
+
+&emsp;&emsp;(B) which, in the case of a passenger automobile or light truck, has received on or after the date of the enactment of this section a certificate that such vehicle meets or exceeds the Bin 5 Tier II emission level established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle,
+
+&emsp;&emsp;(C) the original use of which commences with the taxpayer,
+
+&emsp;&emsp;(D) which is acquired for use or lease by the taxpayer and not for resale, and
+
+&emsp;&emsp;(E) which is made by a manufacturer.
+
+#### (c) New advanced lean burn technology motor vehicle credit
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a), the new advanced lean burn technology motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new advanced lean burn technology motor vehicle placed in service by the taxpayer during the taxable year.
+
+#### (2) Credit amount
+
+#### (A) Fuel economy
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The credit amount determined under this paragraph shall be determined in accordance with the following table:
+
+&nbsp;
+
+| <b>In the case of a vehicle which achieves</b> a fuel economy (expressed as a percentage of the 2002 model year city fuel economy) of— | <b>The credit amount is—</b> |
+| :--- | ---: |
+| At least 125 percent but less than 150 percent | $400&nbsp;&nbsp; |
+| At least 150 percent but less than 175 percent | $800&nbsp;&nbsp; |
+| At least 175 percent but less than 200 percent | $1,200&nbsp;&nbsp; |
+| At least 200 percent but less than 225 percent | $1,600&nbsp;&nbsp; |
+| At least 225 percent but less than 250 percent | $2,000&nbsp;&nbsp; |
+| At least 250 percent | $2,400.&nbsp;&nbsp; |
+
+#### (ii) 2002 model year city fuel economy
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the 2002 model year city fuel economy with respect to a vehicle shall be determined on a gasoline gallon equivalent basis as determined by the Administrator of the Environmental Protection Agency using the tables provided in subsection (b)(2)(B) with respect to such vehicle.
+
+#### (B) Conservation credit
+
+&emsp;&emsp;The amount determined under subparagraph (A) with respect to a new advanced lean burn technology motor vehicle shall be increased by the conservation credit amountdetermined in accordance with the following table:
+
+&nbsp;
+
+| <b>In the case of a vehicle which achieves</b> a lifetime fuel savings (expressed in gallons of gasoline) of— | <b>The conservation credit amount is—</b> |
+| :--- | ---: |
+| At least 1,200 but less than 1,800 | $250&nbsp;&nbsp; |
+| At least 1,800 but less than 2,400 | $500&nbsp;&nbsp; |
+| At least 2,400 but less than 3,000 | $750&nbsp;&nbsp; |
+| At least 3,000 | $1,000.&nbsp;&nbsp; |
+
+#### (3) New advanced lean burn technology motor vehicle
+
+&emsp;For purposes of this subsection, the term “new advanced lean burn technology motor vehicle” means a passenger automobile or a light truck—
+
+&emsp;&emsp;(A) with an internal combustion engine which—
+
+&emsp;&emsp;&emsp;(i) is designed to operate primarily using more air than is necessary for complete combustion of the fuel,
+
+&emsp;&emsp;&emsp;(ii) incorporates direct injection,
+
+&emsp;&emsp;&emsp;(iii) achieves at least 125 percent of the 2002 model year city fuel economy,
+
+&emsp;&emsp;&emsp;(iv) for 2004 and later model vehicles, has received a certificate that such vehicle meets or exceeds—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,
+
+&emsp;&emsp;(B) the original use of which commences with the taxpayer,
+
+&emsp;&emsp;(C) which is acquired for use or lease by the taxpayer and not for resale, and
+
+&emsp;&emsp;(D) which is made by a manufacturer.
+
+#### (4) Lifetime fuel savings
+
+&emsp;For purposes of this subsection, the term “lifetime fuel savings” means, in the case of any new advanced lean burn technology motor vehicle, an amount equal to the excess (if any) of—
+
+&emsp;&emsp;(A) 120,000 divided by the 2002 model year city fuel economy for the vehicle inertia weight class, over
+
+&emsp;&emsp;(B) 120,000 divided by the city fuel economy for such vehicle.
+
+#### (d) New qualified hybrid motor vehicle credit
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a), the new qualified hybrid motor vehicle credit determined under this subsection for the taxable year is the credit amount determined under paragraph (2) with respect to a new qualified hybrid motor vehicle placed in service by the taxpayer during the taxable year.
+
+#### (2) Credit amount
+
+#### (A) Credit amount for passenger automobiles and light trucks
+
+&emsp;&emsp;In the case of a new qualified hybrid motor vehicle which is a passenger automobile or light truck and which has a gross vehicle weight rating of not more than 8,500 pounds, the amount determined under this paragraph is the sum of the amounts determined under clauses (i) and (ii).
+
+#### (i) Fuel economy
+
+&emsp;&emsp;&emsp;The amount determined under this clause is the amount which would be determined under subsection (c)(2)(A) if such vehicle were a vehicle referred to in such subsection.
+
+#### (ii) Conservation credit
+
+&emsp;&emsp;&emsp;The amount determined under this clause is the amount which would be determined under subsection (c)(2)(B) if such vehicle were a vehicle referred to in such subsection.
+
+#### (B) Credit amount for other motor vehicles
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of any new qualified hybrid motor vehicle to which subparagraph (A) does not apply, the amount determined under this paragraph is the amount equal to the applicable percentage of the qualified incremental hybrid cost of the vehicle as certified under clause (v).
+
+#### (ii) Applicable percentage
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the applicable percentage is—
+
+&emsp;&emsp;&emsp;&emsp;(I) 20 percent if the vehicle achieves an increase in city fuel economy relative to a comparable vehicle of at least 30 percent but less than 40 percent,
+
+&emsp;&emsp;&emsp;&emsp;(II) 30 percent if the vehicle achieves such an increase of at least 40 percent but less than 50 percent, and
+
+&emsp;&emsp;&emsp;&emsp;(III) 40 percent if the vehicle achieves such an increase of at least 50 percent.
+
+#### (iii) Qualified incremental hybrid cost
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the qualified incremental hybrid cost of any vehicle is equal to the amount of the excess of the manufacturer's suggested retail price for such vehicle over such price for a comparable vehicle, to the extent such amount does not exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) $7,500, if such vehicle has a gross vehicle weight rating of not more than 14,000 pounds,
+
+&emsp;&emsp;&emsp;&emsp;(II) $15,000, if such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and
+
+&emsp;&emsp;&emsp;&emsp;(III) $30,000, if such vehicle has a gross vehicle weight rating of more than 26,000 pounds.
+
+#### (iv) Comparable vehicle
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “comparable vehicle” means, with respect to any new qualified hybrid motor vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in weight, size, and use to such vehicle.
+
+#### (v) Certification
+
+&emsp;&emsp;&emsp;A certification described in clause (i) shall be made by the manufacturer andshall be determined in accordance with guidance prescribed by the Secretary. Such guidance shall specify procedures and methods for calculating fuel economy savings and incremental hybrid costs.
+
+#### (3) New qualified hybrid motor vehicle
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “new qualified hybrid motor vehicle” means a motor vehicle—
+
+&emsp;&emsp;&emsp;(i) which draws propulsion energy from onboard sources of stored energy which are both—
+
+&emsp;&emsp;&emsp;&emsp;(I) an internal combustion or heat engine using consumable fuel, and
+
+&emsp;&emsp;&emsp;&emsp;(II) a rechargeable energy storage system,
+
+&emsp;&emsp;&emsp;(ii) which, in the case of a vehicle to which paragraph (2)(A) applies, has received a certificate of conformity under the Clean Air Act and meets or exceeds the equivalent qualifying California low emission vehicle standard under section 243(e)(2) of the Clean Air Act for that make and model year, and
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a vehicle having a gross vehicle weight rating of 6,000 pounds or less, the Bin 5 Tier II emission standard established in regulations prescribed by the Administrator of the Environmental Protection Agency under section 202(i) of the Clean Air Act for that make and model year vehicle, and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a vehicle having a gross vehicle weight rating of more than 6,000 pounds but not more than 8,500 pounds, the Bin 8 Tier II emission standard which is so established,
+
+&emsp;&emsp;&emsp;(iii) which has a maximum available power of at least—
+
+&emsp;&emsp;&emsp;&emsp;(I) 4 percent in the case of a vehicle to which paragraph (2)(A) applies,
+
+&emsp;&emsp;&emsp;&emsp;(II) 10 percent in the case of a vehicle which has a gross vehicle weight rating of more than 8,500 pounds and not more than 14,000 pounds, and
+
+&emsp;&emsp;&emsp;&emsp;(III) 15 percent in the case of a vehicle in excess of 14,000 pounds,
+
+&emsp;&emsp;&emsp;(iv) which, in the case of a vehicle to which paragraph (2)(B) applies, has an internal combustion or heat engine which has received a certificate of conformity under the Clean Air Act as meeting the emission standards set in the regulations prescribed by the Administrator of the Environmental Protection Agency for 2004 through 2007 model year diesel heavy duty engines or ottocycle heavy duty engines, as applicable,
+
+&emsp;&emsp;&emsp;(v) the original use of which commences with the taxpayer,
+
+&emsp;&emsp;&emsp;(vi) which is acquired for use or lease by the taxpayer and not for resale, and
+
+&emsp;&emsp;&emsp;(vii) which is made by a manufacturer.
+
+> &emsp;&emsp;Such term shall not include any vehicle which is not a passenger automobile or light truck if such vehicle has a gross vehicle weight rating of less than 8,500 pounds.
+
+#### (B) Consumable fuel
+
+&emsp;&emsp;For purposes of subparagraph (A)(i)(I), the term “consumable fuel” means any solid, liquid, or gaseous matter which releases energy when consumed by an auxiliary power unit.
+
+#### (C) Maximum available power
+
+#### (i) Certain passenger automobiles and light trucks
+
+&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(A) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine.
+
+#### (ii) Other motor vehicles
+
+&emsp;&emsp;&emsp;In the case of a vehicle to which paragraph (2)(B) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term “total traction power” means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
+
+#### (e) New qualified alternative fuel motor vehicle credit
+
+#### (1) Allowance of credit
+
+&emsp;Except as provided in paragraph (5), the new qualified alternative fuel motor vehicle credit determined under this subsection is an amount equal to the applicable percentage of the incremental cost of any new qualified alternative fuel motor vehicle placed in service by the taxpayer during the taxable year.
+
+#### (2) Applicable percentage
+
+&emsp;For purposes of paragraph (1), the applicable percentage with respect to any new qualified alternative fuel motor vehicle is—
+
+&emsp;&emsp;(A) 50 percent, plus
+
+&emsp;&emsp;(B) 30 percent, if such vehicle—
+
+&emsp;&emsp;&emsp;(i) has received a certificate of conformity under the Clean Air Act and meets or exceeds the most stringent standard available for certification under the Clean Air Act for that make and model year vehicle (other than a zero emission standard), or
+
+&emsp;&emsp;&emsp;(ii) has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the most stringent standard available for certification under the State laws of California (enacted in accordance with a waiver granted under section 209(b) of the Clean Air Act) for that make and model year vehicle (other than a zero emission standard).
+
+> &emsp;For purposes of the preceding sentence, in the case of any new qualified alternative fuel motor vehicle which weighs more than 14,000 pounds gross vehicle weight rating, the most stringent standard available shall be such standard available for certification on the date of the enactment of the Energy Tax Incentives Act of 2005.
+
+#### (3) Incremental cost
+
+&emsp;For purposes of this subsection, the incremental cost of any new qualified alternative fuel motor vehicle is equal to the amount of the excess of the manufacturer's suggested retail price for such vehicle over such price for a gasoline or diesel fuel motor vehicle of the same model, to the extent such amount does not exceed—
+
+&emsp;&emsp;(A) $5,000, if such vehicle has a gross vehicle weight rating of not more than 8,500 pounds,
+
+&emsp;&emsp;(B) $10,000, if such vehicle has a gross vehicle weight rating of more than 8,500 pounds but not more than 14,000 pounds,
+
+&emsp;&emsp;(C) $25,000, if such vehicle has a gross vehicle weight rating of more than 14,000 pounds but not more than 26,000 pounds, and
+
+&emsp;&emsp;(D) $40,000, if such vehicle has a gross vehicle weight rating of more than 26,000 pounds.
+
+#### (4) New qualified alternative fuel motor vehicle
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “new qualified alternative fuel motor vehicle” means any motor vehicle—
+
+&emsp;&emsp;&emsp;(i) which is only capable of operating on an alternative fuel,
+
+&emsp;&emsp;&emsp;(ii) the original use of which commences with the taxpayer,
+
+&emsp;&emsp;&emsp;(iii) which is acquired by the taxpayer for use or lease, but not for resale, and
+
+&emsp;&emsp;&emsp;(iv) which is made by a manufacturer.
+
+#### (B) Alternative fuel
+
+&emsp;&emsp;The term “alternative fuel” means compressed natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen, and any liquid at least 85 percent of the volume of which consists of methanol.
+
+#### (5) Credit for mixed-fuel vehicles
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a mixed-fuel vehicle placed in service by the taxpayer during the taxable year, the credit determined under this subsection is an amount equal to—
+
+&emsp;&emsp;&emsp;(i) in the case of a 75/25 mixed-fuel vehicle, 70 percent of the credit which would have been allowed under this subsection if such vehicle was a qualified alternative fuel motor vehicle, and
+
+&emsp;&emsp;&emsp;(ii) in the case of a 90/10 mixed-fuel vehicle, 90 percent of the credit which would have been allowed under this subsection if such vehicle was a qualified alternative fuel motor vehicle.
+
+#### (B) Mixed-fuel vehicle
+
+&emsp;&emsp;For purposes of this subsection, the term “mixed-fuel vehicle” means any motor vehicle described in subparagraph (C) or (D) of paragraph (3), which—
+
+&emsp;&emsp;&emsp;(i) is certified by the manufacturer as being able to perform efficiently in normal operation on a combination of an alternative fuel and a petroleum-based fuel,
+
+&emsp;&emsp;&emsp;(ii) either—
+
+&emsp;&emsp;&emsp;&emsp;(I) has received a certificate of conformity under the Clean Air Act, or
+
+&emsp;&emsp;&emsp;&emsp;(II) has received an order certifying the vehicle as meeting the same requirements as vehicles which may be sold or leased in California and meets or exceeds the low emission vehicle standard under section 88.105–94 of title 40, Code of Federal Regulations, for that make and model year vehicle,
+
+&emsp;&emsp;&emsp;(iii) the original use of which commences with the taxpayer,
+
+&emsp;&emsp;&emsp;(iv) which is acquired by the taxpayer for use or lease, but not for resale, and
+
+&emsp;&emsp;&emsp;(v) which is made by a manufacturer.
+
+#### (C) 75/25 mixed-fuel vehicle
+
+&emsp;&emsp;For purposes of this subsection, the term “75/25 mixed-fuel vehicle” means a mixed-fuel vehicle which operates using at least 75 percent alternative fuel and not more than 25 percent petroleum-based fuel.
+
+#### (D) 90/10 mixed-fuel vehicle
+
+&emsp;&emsp;For purposes of this subsection, the term “90/10 mixed-fuel vehicle” means a mixed-fuel vehicle which operates using at least 90 percent alternative fuel and not more than 10 percent petroleum-based fuel.
+
+#### (f) Limitation on number of new qualified hybrid and advanced lean-burn technology vehicles eligible for credit
+
+#### (1) In general
+
+&emsp;In the case of a qualified vehicle sold during the phaseout period, only the applicable percentage of the credit otherwise allowable under subsection (c) or (d) shall be allowed.
+
+#### (2) Phaseout period
+
+&emsp;For purposes of this subsection, the phaseout period is the period beginning with the second calendar quarter following the calendar quarter which includes the first date on which the number of qualified vehicles manufactured by the manufacturer of the vehicle referred to in paragraph (1) sold for use in the United States after December 31, 2005, is at least 60,000.
+
+#### (3) Applicable percentage
+
+&emsp;For purposes of paragraph (1), the applicable percentage is—
+
+&emsp;&emsp;(A) 50 percent for the first 2 calendar quarters of the phaseout period,
+
+&emsp;&emsp;(B) 25 percent for the 3d and 4th calendar quarters of the phaseout period, and
+
+&emsp;&emsp;(C) 0 percent for each calendar quarter thereafter.
+
+#### (4) Controlled groups
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subsection, all persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (<i>o</i>) of section 414 shall be treated as a single manufacturer.
+
+#### (B) Inclusion of foreign corporations
+
+&emsp;&emsp;For purposes of subparagraph (A), in applying subsections (a) and (b) of section 52 to this section, section 1563 shall be applied without regard to subsection (b)(2)(C) thereof.
+
+#### (5) Qualified vehicle
+
+&emsp;For purposes of this subsection, the term “qualified vehicle” means any new qualified hybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle.
+
+#### (g) Application with other credits
+
+#### (1) Business credit treated as part of general business credit
+
+&emsp;So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
+
+#### (2) Personal credit
+
+&emsp;The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess (if any) of—
+
+&emsp;&emsp;(A) the regular tax liability (as defined in section 26(b)) reduced by the sum of the credits allowable under subpart A and sections 27 and 30, over
+
+&emsp;&emsp;(B) the tentative minimum tax for the taxable year.
+
+#### (h) Other definitions and special rules
+
+For purposes of this section—
+
+#### (1) Motor vehicle
+
+&emsp;The term “motor vehicle” has the meaning given such term by section 30(c)(2).
+
+#### (2) City fuel economy
+
+&emsp;The city fuel economy with respect to any vehicle shall be measured in a manner which is substantially similar to the manner city fuel economy is measured in accordance with procedures under part 600 of subchapter Q of chapter I of title 40, Code of Federal Regulations, as in effect on the date of the enactment of this section.
+
+#### (3) Other terms
+
+&emsp;The terms “automobile”, “passenger automobile”, “medium duty passenger vehicle”, “light truck”, and “manufacturer” have the meanings given such terms in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
+
+#### (4) Reduction in basis
+
+&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (g)).
+
+#### (5) No double benefit
+
+&emsp;The amount of any deduction or other credit allowable under this chapter—
+
+&emsp;&emsp;(A) for any incremental cost taken into account in computing the amount of the credit determined under subsection (e) shall be reduced by the amount of such credit attributable to such cost, and
+
+&emsp;&emsp;(B) with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year.
+
+#### (6) Property used by tax-exempt entity
+
+&emsp;In the case of a vehicle whose use is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (g)). For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
+
+#### (7) Property used outside United States, etc., not qualified
+
+&emsp;No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1) or with respect to the portion of the cost of any property taken into account under section 179.
+
+#### (8) Recapture
+
+&emsp;The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).
+
+#### (9) Election to not take credit
+
+&emsp;No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
+
+#### (10) Interaction with air quality and motor vehicle safety standards
+
+&emsp;Unless otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
+
+&emsp;&emsp;(A) the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
+
+&emsp;&emsp;(B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
+
+#### (i) Regulations
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the Secretary shall promulgate such regulations as necessary to carry out the provisions of this section.
+
+#### (2) Coordination in prescription of certain regulations
+
+&emsp;The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section.
+
+#### (j) Termination
+
+This section shall not apply to any property purchased after—
+
+&emsp;(1) in the case of a new qualified fuel cell motor vehicle (as described in subsection (b)), December 31, 2014,
+
+&emsp;(2) in the case of a new advanced lean burn technology motor vehicle (as described in subsection (c)) or a new qualified hybrid motor vehicle (as described in subsection (d)(2)(A)), December 31, 2010,
+
+&emsp;(3) in the case of a new qualified hybrid motor vehicle (as described in subsection (d)(2)(B)), December 31, 2009, and
+
+&emsp;(4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
+
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636.)
+
+#### References in Text
+
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Sections 202(i), 209(b), and 243(e)(2) of the Act are classified to sections 7521(i), 7543(b), and 7583(e)(2), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and (h)(2), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
+
+The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
+
+#### Amendments
+
+2005—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
+
+Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2005 Amendment
+
+Amendment by section 402(j) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+
+#### Effective Date
+
+Pub. L. 109–58, title XIII, §1341(c), Aug. 8, 2005, 119 Stat. 1049, provided that: “The amendments made by this section \[enacting this section and amending sections 38, 55, 1016, and 6501 of this title\] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date.”
+

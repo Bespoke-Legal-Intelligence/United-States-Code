@@ -6,7 +6,7 @@ The Secretary, acting through the Institute, may make grants to public and nonpr
 
 &emsp;(1) to conduct demonstration and evaluation projects, with a high priority on prevention and early intervention projects in occupational and educational settings and on modified community living and work-care arrangements such as halfway houses, recovery homes, and supervised home care, and with particular emphasis on developing new and more effective alcohol abuse and alcoholism prevention, treatment, and rehabilitation programs,
 
-&emsp;(2) to support projects of a demonstrable value in developing methods for the effectivecoordination of all alcoholism treatment, training, prevention, and research resources available within a health service area established under section 300<i>l</i> <sup>1</sup> of this title, and
+&emsp;(2) to support projects of a demonstrable value in developing methods for the effective coordination of all alcoholism treatment, training, prevention, and research resources available within a health service area established under section 300<i>l</i> <sup>1</sup> of this title, and
 
 &emsp;(3) to provide education and training, which may include additional training to enable treatment personnel to meet certification requirements of public or private accreditation or licensure, or requirements of third-party payors,
 
@@ -22,7 +22,7 @@ Projects and programs for which grants and contracts are made under this section
 
 (2)(A) Each applicant from within a State, upon filing its application with the Secretary for a grant or contract under this section, shall submit a copy of its application for review by the State agency responsible for the administration of alcohol abuse and alcoholism prevention, treatment, and rehabilitation activities. Such State agency shall be given not more than thirty days from the date of receipt of the application to submit to the Secretary, in writing, an evaluation of the project or program set forth in the application. Such evaluation shall include comments on the relationship of the project to other projects and programs pending and approved and to any State comprehensive plan for treatment and prevention of alcohol abuse and alcoholism. The State shall furnish the applicant a copy of any such evaluation.
 
-(B)(i) Except as provided in clause (ii), each application for a grant under this section shall be submitted by the Secretary to the National Advisory Council on Alcohol Abuse and Alcoholism for its review. The Secretary may approve an application for a grant under this section only if it is recommended for approval by such Council.
+(B)(i) Except as provided in clause (ii), each application for a grant under this section shall be submitted by the Secretary to the NationalAdvisory Council on Alcohol Abuse and Alcoholism for its review. The Secretary may approve an application for a grant under this section only if it is recommended for approval by such Council.
 
 (ii) Clause (i) shall not apply to an application for a grant under this section for a project or program for any period of 12 consecutive months for which period payments under such grant will be less than $250,000, if an application for a grant under this section for such project or program and for a period of time which includes such 12-month period has been submitted to, and approved by, the Secretary.
 
@@ -40,7 +40,7 @@ Projects and programs for which grants and contracts are made under this section
 
 (B) No grant or contract may be made under this section for a period in excess of five years.
 
-(C)(i) The amount of any grant or contract under this section may not exceed 100 per centum of the cost of carrying out the grant or contract in the first fiscal year for which the grant or contract is made under this section, 80 per centum of such cost in the second fiscal year for which the grant or contract is made under this section, 70 per centum of such cost in the third fiscal year for which the grant or contract is made under this section, and 60 per centum ofsuch cost in each of the fourth and fifth fiscal years for which the grant or contract is made under this section.
+(C)(i) The amount of any grant or contract under this section may not exceed 100 per centum of the cost of carrying out the grant or contract in the first fiscal year for which the grant or contract is made under this section, 80 per centum of such cost in the second fiscal year for which the grant or contract is made under this section, 70 per centum of such cost in the third fiscal year for which the grant or contract is made under this section, and 60 per centum of such cost in each of the fourth and fifth fiscal years for which the grant or contract is made under this section.
 
 (ii) For purposes of this subparagraph, no grant or contract shall be considered to have been made under this section for a fiscal year ending before September 30, 1981.
 

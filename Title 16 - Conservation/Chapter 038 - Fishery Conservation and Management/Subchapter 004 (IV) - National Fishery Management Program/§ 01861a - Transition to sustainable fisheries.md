@@ -94,11 +94,11 @@
 
 #### References in Text
 
-Section 1279f of title 46, Appendix, referred to in subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), was in the original a reference to section 1111 of title XI of the Merchant Marine Act, 1936, and was translated as meaning the section 1111 of that Act added by Pub. L. 104–297, §303(a), to reflect the probable intent of Congress. Another section 1111 of title XI of the Merchant Marine Act, 1936, relating to loan guarantees for eligible vessels, is classified to section 1279d of Title 46, Appendix, Shipping.
+Section 1279f of title 46, Appendix, referred to in subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), was in the original a reference to section 1111 of title XI of the Merchant Marine Act, 1936, and was translated as meaning the section 1111 of that Act added by Pub. L. 104–297, §303(a), to reflect the probable intent of Congress. That section 1111 was subsequently renumbered section 1113 by Pub. L. 109–163, div. C, title XXXV, §3507(d), Jan. 6, 2006, 119 Stat. 3557. Another section 1111 of title XI of the Merchant Marine Act, 1936, relating to loan guarantees for eligible vessels, is classified to section 1279d of Title 46, Appendix, Shipping.
 
 #### Prior Provisions
 
-A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date noteunder section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
+A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Transfer of Functions
 

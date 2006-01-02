@@ -10,7 +10,7 @@ The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 19
 
 #### Amendments
 
-1994—Pub. L. 103–236 substituted “Tijuana Rivers, or other streams running across or near the boundary, and for taking emergency actions, consistent with the emergency provisions of the Safe Drinking Water Act, to protect against health threatening surface andground water pollution problems along the United States-Mexico boundary” for “Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
+1994—Pub. L. 103–236 substituted “Tijuana Rivers, or other streams running across or near the boundary, and for taking emergency actions, consistent with the emergency provisions of the Safe Drinking Water Act, to protect against health threatening surface and ground water pollution problems along the United States-Mexico boundary” for “Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
 
 1990—Pub. L. 101–246 inserted “or sanitation” after “flood control” and inserted before period at end “, the Colorado or Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
 

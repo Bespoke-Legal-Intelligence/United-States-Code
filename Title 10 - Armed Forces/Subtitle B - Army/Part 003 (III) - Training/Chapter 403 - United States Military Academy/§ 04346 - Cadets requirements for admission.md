@@ -2,7 +2,7 @@
 
 (a) To be eligible for admission to the Academy a candidate must be at least 17 years of age and must not have passed his twenty-third birthday on July 1 of the year in which he enters the Academy.
 
-(b) To be admitted to the Academy, an appointee must show, by an examination held under regulations prescribed by the Secretary of the Army, that he is qualified in the subjects prescribed by the Secretary.
+(b) To be admitted to the Academy, an appointee must show, by an examination heldunder regulations prescribed by the Secretary of the Army, that he is qualified in the subjects prescribed by the Secretary.
 
 (c) A candidate designated as a principal or an alternate for appointment as a cadet shall appear for physical examination at a time and place designated by the Secretary.
 
@@ -83,8 +83,4 @@ Definitions.—For purposes of this section:
 #### Persons From Countries Assisting U.S. in Vietnam; Service Academy Instruction: Oath of Trainees
 
 Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see Pub. L. 89–802, §1(g), Nov. 9, 1966, 80 Stat. 1519, set out as a note under section 4344 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4344 of this title.
 

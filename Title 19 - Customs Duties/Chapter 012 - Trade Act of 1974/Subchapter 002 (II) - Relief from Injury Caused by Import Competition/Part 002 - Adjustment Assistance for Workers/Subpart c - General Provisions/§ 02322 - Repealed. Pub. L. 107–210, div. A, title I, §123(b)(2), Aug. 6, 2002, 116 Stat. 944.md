@@ -4,7 +4,7 @@ Section, Pub. L. 93–618, title II, §249A, as added Pub. L. 103–182, title V
 
 #### Prior Provisions
 
-A prior section 2322, Pub. L. 93–618, title II, §250, Jan. 3, 1975, 88 Stat. 2029, provided for judicial review for workers or groups aggrieved by a final determination by the Secretary under section 2273 of this title, prior to repeal by Pub. L. 96–417, title VI, §612, title VII, §701(a), Oct. 10, 1980, 94 Stat. 1746, 1747, effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date. See section 2395 of this title.
+A prior section 2322, Pub. L. 93–618, title II, §250, Jan. 3, 1975, 88 Stat. 2029, provided for judicial review for workers or groups aggrieved by a final determination by the Secretary under section 2273 of this title, prior to repeal by Pub. L. 96–417, title VI, §612, title VII,§701(a), Oct. 10, 1980, 94 Stat. 1746, 1747, effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date. See section 2395 of this title.
 
 #### Effective Date of Repeal
 

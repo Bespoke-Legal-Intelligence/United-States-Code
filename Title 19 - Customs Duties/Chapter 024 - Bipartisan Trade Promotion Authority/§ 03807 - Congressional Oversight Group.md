@@ -36,7 +36,7 @@
 
 &emsp;The United States Trade Representative, in consultation with the chairmen and ranking minority members of the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
 
-&emsp;&emsp;(A) shall, within 120 days after August 6, 2002, develop written guidelines to facilitate the useful and timely exchange of information between the Trade Representative and the Congressional Oversight Group convened under this section; and
+&emsp;&emsp;(A) shall, within 120 days after August 6, 2002, develop written guidelines to facilitatethe useful and timely exchange of information between the Trade Representative and the Congressional Oversight Group convened under this section; and
 
 &emsp;&emsp;(B) may make such revisions to the guidelines as may be necessary from time to time.
 

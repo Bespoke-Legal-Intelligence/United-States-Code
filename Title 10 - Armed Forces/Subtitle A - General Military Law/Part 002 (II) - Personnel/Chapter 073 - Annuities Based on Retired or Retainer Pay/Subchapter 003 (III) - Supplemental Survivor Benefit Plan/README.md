@@ -12,9 +12,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subchapter Referred to in Other Sections
+#### Repeal of Subchapter
 
-This subchapter is referred to in section 12731 of this title.
+<i>Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, provided that, effective Apr. 1, 2008, this subchapter is repealed.</i>
 
 
 ---

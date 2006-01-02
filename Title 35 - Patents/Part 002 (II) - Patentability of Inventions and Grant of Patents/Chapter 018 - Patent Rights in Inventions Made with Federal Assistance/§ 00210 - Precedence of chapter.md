@@ -16,7 +16,7 @@
 
 &emsp;(7) section 305 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2457);
 
-&emsp;(8) section 6 of the Coal Research Development Act of 1960 (30 U.S.C. 666; 74 Stat. 337);
+&emsp;(8) section 6 of the Coal Research and Development Act of 1960 (30 U.S.C. 666; 74 Stat. 337);
 
 &emsp;(9) section 4 of the Helium Act Amendments of 1960 (50 U.S.C. 167b; 74 Stat. 920);
 
@@ -54,7 +54,7 @@
 
 (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V,§501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V,§501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934.)
 
 #### References in Text
 
@@ -73,6 +73,8 @@ Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+2005—Subsec. (a)(8). Pub. L. 109–58 substituted “Coal Research and Development Act of 1960” for “Coal Research Development Act of 1960”.
 
 2002—Subsec. (a)(11). Pub. L. 107–273, §13206(a)(16)(A)(i), substituted “5908” for “5901”.
 

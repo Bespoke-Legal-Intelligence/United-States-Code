@@ -22,7 +22,7 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 #### (c) Limitations on expenditures; exceptions; annual adjustments
 
-(1) Except as provided in paragraph (3), the expenditure of financial assistance provided under this part for labor, weatherization materials, and related matters shall not exceed an average of $2,500 per dwelling unit weatherized in that State. Labor, weatherization materials, and related matter includes, but is not limited to—
+(1) Except as provided in paragraphs (3) and (4), the expenditure of financial assistance provided under this part for labor, weatherization materials, and related matters shall not exceed an average of $2,500 per dwelling unit weatherized in that State. Labor, weatherization materials, and related matter includes, but is not limited to—
 
 &emsp;(A) the appropriate portion of the cost of tools and equipment used to install weatherization materials for a dwelling unit;
 
@@ -36,11 +36,49 @@ The Secretary shall insure that financial assistance provided under this part wi
 
 (2) Dwelling units partially weatherized under this part or under other Federal programs during the period September 30, 1975, through September 30, 1979, may receive further financial assistance for weatherization under this part.
 
-(3) Beginning with fiscal year 2000, the $2,500 per dwelling unit average provided in paragraph (1) shall be adjusted annually by increasing the average amount by an amount equal to—
+(3) Beginning with fiscal year 2000, the dwelling unit averages provided in paragraphs (1) and (4) shall be adjusted annually by increasing the average amount by an amount equal to—
 
 &emsp;(A) the average amount for the previous fiscal year, multiplied by
 
 &emsp;(B) the lesser of (i) the percentage increase in the Consumer Price Index (all items, United States city average) for the most recent calendar year completed before the beginning of the fiscal year for which the determination is being made, or (ii) three percent.
+
+(4) The expenditure of financial assistance provided under this part for labor, weatherization materials, and related matters for a renewable energy system shall not exceed an average of $3,000 per dwelling unit.
+
+(5)(A) The Secretary shall by regulations—
+
+&emsp;(i) establish the criteria which are to be used in prescribing performance and quality standards under paragraph (6)(A)(ii) or in specifying any form of renewable energy under paragraph (6)(A)(i)(I); and
+
+&emsp;(ii) establish a procedure under which a manufacturer of an item may request the Secretary to certify that the item will be treated, for purposes of this paragraph, as a renewable energy system.
+
+(B) The Secretary shall make a final determination with respect to any request filed under subparagraph (A)(ii) within 1 year after the filing of the request, together with any information required to be filed with such request under subparagraph (A)(ii).
+
+(C) Each month the Secretary shall publish a report of any request under subparagraph (A)(ii) which has been denied during the preceding month and the reasons for the denial.
+
+(D) The Secretary shall not specify any form of renewable energy under paragraph (6)(A)(i)(I) unless the Secretary determines that—
+
+&emsp;(i) there will be a reduction in oil or natural gas consumption as a result of such specification;
+
+&emsp;(ii) such specification will not result in an increased use of any item which is known to be, or reasonably suspected to be, environmentally hazardous or a threat to public health or safety; and
+
+&emsp;(iii) available Federal subsidies do not make such specification unnecessary or inappropriate (in the light of the most advantageous allocation of economic resources).
+
+(6) In this subsection—
+
+&emsp;(A) the term “renewable energy system” means a system which—
+
+&emsp;&emsp;(i) when installed in connection with a dwelling, transmits or uses—
+
+&emsp;&emsp;&emsp;(I) solar energy, energy derived from the geothermal deposits, energy derived from biomass, or any other form of renewable energy which the Secretary specifies by regulations, for the purpose of heating or cooling such dwelling or providing hot water or electricity for use within such dwelling; or
+
+&emsp;&emsp;&emsp;(II) wind energy for nonbusiness residential purposes;
+
+&emsp;&emsp;(ii) meets the performance and quality standards (if any) which have been prescribed by the Secretary by regulations;
+
+&emsp;&emsp;(iii) in the case of a combustion rated system, has a thermal efficiency rating of at least 75 percent; and
+
+&emsp;&emsp;(iv) in the case of a solar system, has a thermal efficiency rating of at least 15 percent; and
+
+&emsp;(B) the term “biomass” means any organic matter that is available on a renewable or recurring basis, including agricultural crops and trees, wood and wood wastes and residues, plants (including aquatic plants), grasses, residues, fibers, and animal wastes, municipal wastes, and other waste materials.
 
 #### (d) Supplementary financial assistance to States
 
@@ -58,7 +96,7 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 (2) The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1) of this section, prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
 
-(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040.)
+(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040; Pub. L. 109–58, title II, §206(a), Aug. 8, 2005, 119 Stat. 654.)
 
 #### References in Text
 
@@ -67,6 +105,12 @@ The Economic Opportunity Act of 1964, referred to in subsec. (b)(2), is Pub. L. 
 Section 6872 of this title, referred to in subsecs. (d) and (e)(1)(A), was amended by Pub. L. 105–388, §3, Nov. 13, 1998, 112 Stat. 3477, and, as so amended, no longer contains a subsec. (b).
 
 #### Amendments
+
+2005—Subsec. (c)(1). Pub. L. 109–58, §206(a)(1), substituted “in paragraphs (3) and (4)” for “in paragraph (3)” in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 109–58, §206(a)(2), substituted “dwelling unit averages provided in paragraphs (1) and (4)” for “$2,500 per dwelling unit average provided in paragraph (1)” in introductory provisions.
+
+Subsec. (c)(4) to (6). Pub. L. 109–58, §206(a)(3), added pars. (4) to (6).
 
 2000—Subsec. (a)(1). Pub. L. 106–469, §601(b)(1), struck out first sentence which read as follows: “Except as provided in paragraph (2), an average of at least forty percent of the funds provided in a State under this part for weatherization materials, labor, and related matters described in subsection (c) of this section shall be spent for weatherization materials.”
 

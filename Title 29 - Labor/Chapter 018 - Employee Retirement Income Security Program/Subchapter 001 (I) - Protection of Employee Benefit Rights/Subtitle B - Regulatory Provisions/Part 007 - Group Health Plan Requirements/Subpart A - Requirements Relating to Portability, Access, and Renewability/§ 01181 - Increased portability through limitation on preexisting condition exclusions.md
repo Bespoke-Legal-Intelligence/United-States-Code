@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection\(g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4) of this section, any period thatan individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2) of this section) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (3) Method of crediting coverage
 
@@ -148,7 +148,7 @@ For purposes of this part—
 
 #### (2) Disclosure of information on previous benefits
 
-&emsp;In the case of an election described in subsection (c)(3)(B) of this section by a grouphealth plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
+&emsp;In the case of an election described in subsection (c)(3)(B) of this section by a group health plan or health insurance issuer, if the plan or issuer enrolls an individual for coverage under the plan and the individual provides a certification of coverage of the individual under paragraph (1)—
 
 &emsp;&emsp;(A) upon request of such plan or issuer, the entity which issued the certification provided by the individual shall promptly disclose to such requesting plan or issuer information on coverage of classes and categories of health benefits available under such entity's plan or coverage, and
 
@@ -314,7 +314,7 @@ Special rule for collective bargaining agreements.—Except as provided in parag
 
 “(4)
 
-Timely regulations.—The Secretary of Labor, consistent with section 104 \[42 U.S.C. 300gg–92 note\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section.
+Timely regulations.—The Secretary of Labor, consistent with section 104 \[42 U.S.C. 300gg–92 note\],shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section.
 
 “(5)
 

@@ -8,7 +8,3 @@ In the absence of fraud or mistake in mathematical calculation, the findings of 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6611 of this title; title 31 section 713.
-

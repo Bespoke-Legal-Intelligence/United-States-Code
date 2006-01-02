@@ -8,7 +8,11 @@ Any records or other documents required to be kept under this part or regulation
 
 The Secretary may enter during business hours the premises (including places of storage) of any dealer for the purpose of inspecting or examining any records or other documents required to be kept by such dealer under this chapter or regulations issued pursuant thereto and any distilled spirits, wines, or beer kept or stored by such dealer on such premises.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1348; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1348; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–59, title XI, §11125(b)(7), Aug. 10, 2005, 119 Stat. 1955.)
+
+#### Redesignation of Section
+
+<i>Pub. L. 109–59, title XI, §11125(b)(7), (c), Aug. 10, 2005, 119 Stat. 1955, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, this section is redesignated section 5123 of this title and transferred to subpart C of this part.</i>
 
 #### Prior Provisions
 
@@ -19,8 +23,4 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 #### Amendments
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5114, 5124 of this title.
 

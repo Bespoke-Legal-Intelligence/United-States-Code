@@ -18,7 +18,7 @@
 
 #### Amendments
 
-1991—Subsec. (a). Pub. L. 102–232, §102(b)(1)(F), inserted sentence at end relating to return of defaced orinjured certificates of naturalization to Attorney General.
+1991—Subsec. (a). Pub. L. 102–232, §102(b)(1)(F), inserted sentence at end relating to return of defaced or injured certificates of naturalization to Attorney General.
 
 Subsec. (a)(1). Pub. L. 102–232, §102(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “issue to each person to whom such an oath is administered a document evidencing that such an oath was administered,”.
 

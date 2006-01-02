@@ -22,7 +22,7 @@ Section 1209(c) of Pub. L. 104–168 provided that: “The amendments made by th
 
 #### Study of Payments Made for Detection of Underpayments and Fraud
 
-Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided that: “Not later than 1 year after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986 including—
+Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided that: “Not later than 1 year after the dateof the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall conduct a study and report to Congress on the use of section 7623 of the Internal Revenue Code of 1986 including—
 
 &emsp;“(1) an analysis of the present use of such section and the results of such use; and
 
@@ -31,8 +31,4 @@ Pub. L. 105–206, title III, §3804, July 22, 1998, 112 Stat. 783, provided tha
 #### Annual Report to Congress on Payments Made Under This Section and Resultant Collections
 
 Section 1209(d) of Pub. L. 104–168 provided that: “The Secretary of the Treasury or his delegate shall submit an annual report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the payments under section 7623 of the Internal Revenue Code of 1986 during the year and on the amounts collected for which such payments were made.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 1395b–5.
 

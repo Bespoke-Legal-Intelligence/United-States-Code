@@ -8,7 +8,7 @@ Every area designated nonattainment for PM–10 pursuant to section 7407(d) of t
 
 #### (1) Reclassification before attainment date
 
-&emsp;The Administrator may reclassify as a Serious PM–10 nonattainment area (identified inthis subpart also as a “Serious Area”) any area that the Administrator determines cannot practicably attain the national ambient air quality standard for PM–10 by the attainment date (as prescribed in subsection (c) of this section) for Moderate Areas. The Administrator shall reclassify appropriate areas as Serious by the following dates:
+&emsp;The Administrator may reclassify as a Serious PM–10 nonattainment area (identified in this subpart also as a “Serious Area”) any area that the Administrator determines cannot practicably attain the national ambient air quality standard for PM–10 by the attainment date (as prescribed in subsection (c) of this section) for Moderate Areas. The Administrator shall reclassify appropriate areas as Serious by the following dates:
 
 &emsp;&emsp;(A) For areas designated nonattainment for PM–10 under section 7407(d)(4) of this title, the Administrator shall propose to reclassify appropriate areas by June 30, 1991, and take final action by December 31, 1991.
 
@@ -16,7 +16,7 @@ Every area designated nonattainment for PM–10 pursuant to section 7407(d) of t
 
 #### (2) Reclassification upon failure to attain
 
-&emsp;Within 6 months following the applicable attainment date for a PM–10 nonattainment area, the Administrator shall determine whether the area attained the standard by that date. If the Administrator finds that any Moderate Area is not in attainment after the applicable attainment date—
+&emsp;Within 6 months following the applicable attainment date for a PM–10 nonattainmentarea, the Administrator shall determine whether the area attained the standard by that date. If the Administrator finds that any Moderate Area is not in attainment after the applicable attainment date—
 
 &emsp;&emsp;(A) the area shall be reclassified by operation of law as a Serious Area; and
 

@@ -126,7 +126,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any acquisition to which subsection (a) applies in which the acquiring corporation is a foreign corporation, the only earnings and profits taken into account under paragraph (2)(A) shall be those earnings and profits—
+&emsp;&emsp;In the case of any acquisition to which subsection (a) applies in which the acquiringcorporation is a foreign corporation, the only earnings and profits taken into account under paragraph (2)(A) shall be those earnings and profits—
 
 &emsp;&emsp;&emsp;(i) which are attributable (under regulations prescribed by the Secretary) to stock of the acquiring corporation owned (within the meaning of section 958(a)) by a corporation or individual which is—
 
@@ -357,8 +357,4 @@ Amendment by Pub. L. 88–554 effective Aug. 31, 1964, except that for purposes 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 306, 318, 351, 368, 999, 1042, 1059, 1202, 6043, 6166 of this title.
 

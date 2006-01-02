@@ -48,7 +48,7 @@ Oct. 16, 1968, Pub. L. 90–577, §302, 82 Stat. 1102; Reorg. Plan No. 2 of 1970
 
 In the section, the words “executive agency” are substituted for “Federal department or agency” and “department or agency of the executive branch of the Federal Government” because of the definition in sections 102 and 6501(3) of the revised title.
 
-In subsection (a), the source provisions are consolidated to eliminate an unnecessary definition. The word“President” is substituted for “Director of the Office of Management and Budget” in 42:4222(proviso, words after proviso) because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “rules and regulations” are omitted as unnecessary.
+In subsection (a), the source provisions are consolidated to eliminate an unnecessary definition. The word “President” is substituted for “Director of the Office of Management and Budget” in 42:4222(proviso, words after proviso) because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “rules and regulations” are omitted as unnecessary.
 
 In subsection (b), the word “may” is substituted for “is authorized within his discretion” for clarity and to omit unnecessary words. The words “specialized or technical services” are omitted because of consolidation of the source provisions. The words “direct or indirect” are omitted as surplus.
 

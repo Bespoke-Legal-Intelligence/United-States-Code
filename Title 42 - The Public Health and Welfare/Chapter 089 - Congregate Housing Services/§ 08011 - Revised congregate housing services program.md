@@ -120,7 +120,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;(D) renovation of existing congregate space to accommodate the provision of supportive services to eligible residents; and
 
-&emsp;&emsp;(E) construction or renovation of facilities to create conveniently located congregate space to accommodate the provision of supportive services to eligible residents.
+&emsp;&emsp;(E) construction or renovation of facilities to create conveniently located congregatespace to accommodate the provision of supportive services to eligible residents.
 
 > &emsp;For purposes of this paragraph, the term “congregate space” shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities.
 
@@ -242,7 +242,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 &emsp;Each Secretary concerned shall establish criteria for selecting States, Indian tribes, units of general local government, and local nonprofit housing sponsors to receive assistance under this section, and shall select such entities to receive assistance. The criteria for selection shall include consideration of—
 
-&emsp;&emsp;(A) the extent to which the activities described in subsection (d)(3) of this sectionwill foster independent living and the provision of such services;
+&emsp;&emsp;(A) the extent to which the activities described in subsection (d)(3) of this section will foster independent living and the provision of such services;
 
 &emsp;&emsp;(B) the types and priorities of the basic services proposed to be provided, the appropriateness of the targeting of services, the methods of providing for deinstitutionalized older individuals and individuals with disabilities, and the relationship of the proposal to the needs and characteristics of the eligible residents of the projects where the services are to be provided;
 

@@ -60,7 +60,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In lieu of carrying out action under paragraph (1), the President may conclude abinding agreement with the respective foreign government as described in section 6445(c) of this title. The existence of a binding agreement under this paragraph with a foreign government may be considered by the President prior to making any determination or taking any action under this subchapter.
+&emsp;&emsp;In lieu of carrying out action under paragraph (1), the President may conclude a binding agreement with the respective foreign government as described in section 6445(c) of this title. The existence of a binding agreement under this paragraph with a foreign government may be considered by the President prior to making any determination or taking any action under this subchapter.
 
 #### (B) Statutory construction
 

@@ -4,7 +4,7 @@ No method of slaughtering or handling in connection with slaughtering shall be d
 
 &emsp;(a) in the case of cattle, calves, horses, mules, sheep, swine, and other livestock, all animals are rendered insensible to pain by a single blow or gunshot or an electrical, chemical or other means that is rapid and effective, before being shackled, hoisted, thrown, cast, or cut; or
 
-&emsp;(b) by slaughtering in accordance with the ritual requirements of the Jewish faith or anyother religious faith that prescribes a method of slaughter whereby the animal suffers loss of consciousness by anemia of the brain caused by the simultaneous and instantaneous severance of the carotid arteries with a sharp instrument and handling in connection with such slaughtering.
+&emsp;(b) by slaughtering in accordance with the ritual requirements of the Jewish faith or any other religious faith that prescribes a method of slaughter whereby the animal suffers loss of consciousness by anemia of the brain caused by the simultaneous and instantaneous severance of the carotid arteries with a sharp instrument and handling in connection with such slaughtering.
 
 (Pub. L. 85–765, §2, Aug. 27, 1958, 72 Stat. 862; Pub. L. 95–445, §5(a), Oct. 10, 1978, 92 Stat. 1069.)
 

@@ -124,7 +124,7 @@ For effective date of this section, referred to in subsecs. (d)(1), (e)(1), and 
 
 #### Effective Date
 
-Pub. L. 106–387, §1(a) \[title X, §1003(c)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to all antidumping and countervailing duty assessments made on or after October 1, 2000.”
+Pub. L. 106–387, §1(a) \[title X, §1003(c)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75, provided that: “The amendments made by this section \[enacting this section\]shall apply with respect to all antidumping and countervailing duty assessments made on or after October 1, 2000.”
 
 #### Transfer of Functions
 

@@ -21,10 +21,6 @@
 
 1972—Pub. L. 92–512, title II, §202(b), Oct. 20, 1972, 86 Stat. 944, added item for subchapter E.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6867, 7410, 7801, 7804, 7811 of this title.
-
 
 ---
 

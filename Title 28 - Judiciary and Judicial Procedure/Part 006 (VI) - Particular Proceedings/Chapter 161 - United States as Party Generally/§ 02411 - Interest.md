@@ -34,7 +34,7 @@ Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “In
 
 1982—Pub. L. 97–164 struck out “(a)” before “In any judgment” and struck out subsec. (b) which provided that, except as otherwise provided in subsection (a) of this section, on all final judgments rendered against the United States in actions instituted under section 1346 of this title, interest was to be computed at the rate of 4 per centum per annum from the date of the judgment up to, but not exceeding, thirty days after the date of approval of any appropriation Act providing for payment of the judgment.
 
-1975—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621 of the Internal Revenue Code of 1954” for “the rate of 6 per centum per annum”.
+1975—Subsec. (a). Pub. L. 93–625 substituted “an annual rate established under section 6621 of the InternalRevenue Code of 1954” for “the rate of 6 per centum per annum”.
 
 1949—Act May 24, 1949, restored provisions relating to payment of interest on tax refunds.
 

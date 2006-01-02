@@ -18,7 +18,7 @@
 
 #### (2) Noncompliance not discovered
 
-&emsp;A penalty may not be imposed under subsection (a) of this section with respect to a provision of this part if it is established to the satisfaction of the Secretary that the person liable for the penalty did not know, and by exercising reasonable diligence would not have known, that such person violated the provision.
+&emsp;A penalty may not be imposed under subsection (a) of this section with respect to aprovision of this part if it is established to the satisfaction of the Secretary that the person liable for the penalty did not know, and by exercising reasonable diligence would not have known, that such person violated the provision.
 
 #### (3) Failures due to reasonable cause
 

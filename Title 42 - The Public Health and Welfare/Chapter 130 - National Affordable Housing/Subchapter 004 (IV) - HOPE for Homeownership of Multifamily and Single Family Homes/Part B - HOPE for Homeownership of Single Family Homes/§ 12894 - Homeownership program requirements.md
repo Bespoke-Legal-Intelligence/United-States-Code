@@ -26,7 +26,7 @@ A homeownership program under this part shall provide, and include a plan, forâ€
 
 The application shall include a plan ensuring that the unitâ€”
 
-&emsp;(1) will be free from any defects that pose a danger to health or safety before transfer of anownership interest in, or shares representing, a unit to an eligible family; and
+&emsp;(1) will be free from any defects that pose a danger to health or safety before transfer of an ownership interest in, or shares representing, a unit to an eligible family; and
 
 &emsp;(2) will, not later than 2 years after the transfer to an eligible family, meet minimum housing standards established by the Secretary for the purpose of this title.<sup>2</sup>
 

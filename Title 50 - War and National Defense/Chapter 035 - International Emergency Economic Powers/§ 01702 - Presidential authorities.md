@@ -48,7 +48,7 @@ Section 1(a) of the Classified Information Procedures Act, referred to in subsec
 
 2001—Pub. L. 107–56, §106, which directed certain amendments to section 203 of the International Emergency Powers Act, was executed by making the amendments to this section, which is section 203 of the International Emergency Economic Powers Act, to reflect the probable intent of Congress. See below.
 
-Subsec. (a)(1). Pub. L. 107–56, §106(1)(C), which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the UnitedStates‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
+Subsec. (a)(1). Pub. L. 107–56, §106(1)(C), which directed striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States‘ without providing closing quotation marks designating the provisions to be struck, was executed by striking out “by any person, or with respect to any property, subject to the jurisdiction of the United States” in concluding provisions.
 
 Subsec. (a)(1)(A). Pub. L. 107–56, §106(1)(A), substituted a comma for “; and” at end of cl. (iii) and inserted concluding provisions.
 

@@ -20,7 +20,7 @@ The Secretary shall administer the park in accordance with this section and the 
 
 (1) In administering the park the Secretary may provide traditional native Hawaiian accommodations.
 
-(2) The Secretary shall consult with and may enter into a cooperative management agreement with the State of Hawaii for the management of the submerged lands within the authorized parkboundary, following the marine management policies of the State of Hawaii.
+(2) The Secretary shall consult with and may enter into a cooperative management agreement with the State of Hawaii for the management of the submerged lands within the authorized park boundary, following the marine management policies of the State of Hawaii.
 
 (3) Commercial, recreational, and subsistence fishing and shoreline food gathering activities as well as access to and from the Honokohau small boat harbor by motor boats and other water craft shall be permitted wherever such activities are not inconsistent with the purposes for which the park is established, subject to regulation by the Secretary.
 

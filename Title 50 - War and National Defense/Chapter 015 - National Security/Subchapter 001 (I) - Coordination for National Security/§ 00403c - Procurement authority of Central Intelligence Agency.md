@@ -50,7 +50,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Effective Date of 1982 Amendment
 
-Section 703 of title VII of Pub. L. 97–269 provided that: “The provisions of titles IV and V \[enacting former section 202 of Title 10, Armed Forces, and amending this section\] and of this title \[which, except for enacting this note was not classified to the Code\] shall becomeeffective upon the date of the enactment of this Act \[Sept. 27, 1982\].”
+Section 703 of title VII of Pub. L. 97–269 provided that: “The provisions of titles IV and V \[enacting former section 202 of Title 10, Armed Forces, and amending this section\] and of this title \[which, except for enacting this note was not classified to the Code\] shall become effective upon the date of the enactment of this Act \[Sept. 27, 1982\].”
 
 #### Procurement of Automatic Data Processing Equipment or Services; Contracts Made Before September 27, 1982
 

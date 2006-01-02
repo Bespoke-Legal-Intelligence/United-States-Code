@@ -28,7 +28,7 @@ Pub. L. 106–43 inserted “, including as a result of dilution under section 
 
 Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1962—Pub. L. 87–772 inserted “An opposition may be amended under such conditions as may be prescribed by the Commissioner”, and struck out “notice of” after “file a verified” and “time for filing”.
+1962—Pub. L. 87–772 inserted “An opposition may be amended under such conditions as may be prescribed bythe Commissioner”, and struck out “notice of” after “file a verified” and “time for filing”.
 
 #### Effective Date of 1999 Amendments
 

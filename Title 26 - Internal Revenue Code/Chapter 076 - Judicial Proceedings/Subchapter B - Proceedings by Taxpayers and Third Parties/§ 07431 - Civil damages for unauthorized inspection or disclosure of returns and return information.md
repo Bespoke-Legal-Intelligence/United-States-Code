@@ -70,7 +70,7 @@ For purposes of this section—
 
 For purposes of this section, any reference to section 6103 shall be treated as including a reference to section 6311(e).
 
-(Added Pub. L. 97–248, title III, §357(a), Sept. 3, 1982, 96 Stat. 645; amended Pub. L. 98–67, title I, §104(b), Aug. 5, 1983, 97 Stat. 379; Pub. L. 105–34, title XII, §1205(c)(2), Aug. 5, 1997, 111 Stat. 998; Pub. L. 105–35, §3(a)–(d)(4), (6), Aug. 5, 1997, 111 Stat. 1105, 1106; Pub. L. 105–206, title III, §3101(f), title VI, §6012(b)(3), July 22, 1998, 112 Stat. 729, 819.)
+(Added Pub. L. 97–248, title III, §357(a), Sept. 3, 1982, 96 Stat. 645; amended Pub. L. 98–67, title I,§104(b), Aug. 5, 1983, 97 Stat. 379; Pub. L. 105–34, title XII, §1205(c)(2), Aug. 5, 1997, 111 Stat. 998; Pub. L. 105–35, §3(a)–(d)(4), (6), Aug. 5, 1997, 111 Stat. 1105, 1106; Pub. L. 105–206, title III, §3101(f), title VI, §6012(b)(3), July 22, 1998, 112 Stat. 729, 819.)
 
 #### Prior Provisions
 
@@ -131,8 +131,4 @@ Amendment by Pub. L. 98–67 effective Aug. 5, 1983, see section 110(c) of Pub. 
 #### Effective Date
 
 Section 357(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section and repealing section 7217 of this title\] shall apply with respect to disclosures made after the date of enactment of this Act \[Sept. 3, 1982\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3406, 6105, 6311 of this title; title 5 section 3111.
 

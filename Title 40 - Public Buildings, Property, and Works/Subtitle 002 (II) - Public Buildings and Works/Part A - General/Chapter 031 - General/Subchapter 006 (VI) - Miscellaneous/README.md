@@ -11,3 +11,4 @@
 - [&sect; 03174 - Operation of public utility communications services serving governmental activities](%C2%A7%2003174%20-%20Operation%20of%20public%20utility%20communications%20services%20serving%20governmental%20activities.md)
 - [&sect; 03175 - Acceptance of gifts of property](%C2%A7%2003175%20-%20Acceptance%20of%20gifts%20of%20property.md)
 - [&sect; 03176 - Administrator of General Services to furnish services in continental United States to international bodies](%C2%A7%2003176%20-%20Administrator%20of%20General%20Services%20to%20furnish%20services%20in%20continental%20United%20States%20to%20international%20bodies.md)
+- [&sect; 03177 - Use of photovoltaic energy in public buildings](%C2%A7%2003177%20-%20Use%20of%20photovoltaic%20energy%20in%20public%20buildings.md)

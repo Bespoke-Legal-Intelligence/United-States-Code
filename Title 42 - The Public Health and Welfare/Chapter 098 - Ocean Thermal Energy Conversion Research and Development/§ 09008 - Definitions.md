@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “ocean thermal energy conversion” means a method of converting part of the heat from the Sun which is stored in the surfacelayers of a body of water into electrical energy or energy product equivalent;
+&emsp;(1) “ocean thermal energy conversion” means a method of converting part of the heat from the Sun which is stored in the surface layers of a body of water into electrical energy or energy product equivalent;
 
 &emsp;(2) “energy product equivalent” means an energy carrier including, but not limited to, ammonia, hydrogen, or molten salts or an energy-intensive commodity, including, but not limited to, electrometals, fresh water, or nutrients for aquaculture; and
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe exceeds the Northern Europe price by more than 1.25 cents per pound; and
 
-&emsp;&emsp;(B) the prevailing world market price for upland cotton (adjusted to United States quality and location) does not exceed 134 percent of the loan rate for upland cotton established under section 7932 of this title.
+&emsp;&emsp;(B) the prevailing world market price for upland cotton (adjusted to United States quality and location) does not exceed 134percent of the loan rate for upland cotton established under section 7932 of this title.
 
 #### (2) Value of certificates or payments
 
@@ -42,7 +42,7 @@
 
 #### (B) Program requirements
 
-&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price bymore than 1.25 cents per pound, there shall immediately be in effect a special import quota.
+&emsp;&emsp;Except as provided in subparagraph (C), whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under subsection (a) of this section, exceeds the Northern Europe price by more than 1.25 cents per pound, there shall immediately be in effect a special import quota.
 
 #### (C) Tight domestic supply
 
@@ -86,7 +86,7 @@
 
 #### (7) Limitation
 
-&emsp;The quantity of cotton entered into the United States during any marketing year under the special import quota established under this subsection may not exceed the equivalent of 5 week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
+&emsp;The quantity of cotton entered into the United States during any marketing yearunder the special import quota established under this subsection may not exceed the equivalent of 5 week's consumption of upland cotton by domestic mills at the seasonally adjusted average rate of the 3 months immediately preceding the first special import quota established in any marketing year.
 
 #### (c) Limited global import quota for upland cotton
 

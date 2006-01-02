@@ -2,7 +2,7 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and securityessential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
@@ -22,7 +22,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
-(Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053;Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
 #### References in Text
 
@@ -190,6 +190,8 @@ Appropriate congressional committees.—The term ‘appropriate congressional co
 
 &emsp;&emsp;“(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
 
+\[Functions of President under subsecs. (a)(4)(A), (c)(2) of section 4026 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.\]
+
 #### Bilateral Exchanges and Trade in Defense Articles and Defense Services Between the United States and the United Kingdom and Australia
 
 Pub. L. 108–375, div. A, title XII, §1225, Oct. 28, 2004, 118 Stat. 2091, provided that:
@@ -300,7 +302,7 @@ Effective Date.—This section shall take effect 1 year after the date of enactm
 
 #### Counterproliferation Policy and Programs of United States
 
-Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668, provided that:
+Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440, provided that:
 
 #### “SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
 
@@ -354,7 +356,7 @@ Establishment.—(1) There is hereby established a Counterproliferation Program 
 
 “(3) A member of the committee may designate a representative to perform routinely the duties of the member. A representative shall be in a position of Deputy Assistant Secretary or a position equivalent to or above the level of Deputy Assistant Secretary. A representative of the Chairman of the Joint Chiefs of Staff shall be a person in a grade equivalent to that of Deputy Assistant Secretary of Defense.
 
-“(4) The Secretary of Defense may delegate to the Under Secretary of Defense for Acquisition, Technology, and Logisitics \[sic\] the performance of the duties of the Chairman of the committee. The Secretary of Energy may delegate to the Under Secretary of Energy responsible for national security programs of the Department of Energy the performance of the duties of the Vice Chairman of the committee.
+“(4) The Secretary of Defense may delegate to the Under Secretary of Defense for Acquisition, Technology, and Logistics the performance of the duties of the Chairman of the committee. The Secretary of Energy may delegate to the Under Secretary of Energy responsible for national security programs of the Department of Energy the performance of the duties of the Vice Chairman of the committee.
 
 “(5) The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs shall serve as executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
 
@@ -464,7 +466,7 @@ Section 15(b) of Pub. L. 95–384 directed President, not later than Dec. 31, 19
 
 #### Report by President on Review of Arms Sales Controls on Non-Lethal Items
 
-Section 25 of Pub. L. 95–384 directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Section 25 of Pub. L. 95–384 directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repealby Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States
 
@@ -484,7 +486,7 @@ Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to underta
 
 #### Study of United States Arms Sales Policies and Practices by President; Report to Congress
 
-Section 202(b) of Pub. L. 94–329 set forth provisions respecting study and report to Congress of United Statesarms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
+Section 202(b) of Pub. L. 94–329 set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
 
 #### Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations
 
@@ -526,7 +528,7 @@ Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 116
 
 #### Ex. Ord. No. 11958. Administration of Chapter
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939;Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Arms Export Control Act, as amended (22 U.S.C. 2751 <i>et seq</i>.), and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -576,7 +578,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (s) Those under Section 2(b)(6) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(6)) to the Secretary of State.
 
-(t) Those under Section 588(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[Oct. 1, 1988, 102 Stat. 2268–51\], to the Secretary of Defense, except with respect to the determination of an emergency as provided by subsection (b)(3). The Secretary of Defense in implementation of the functions delegated to him under section 588(b) shall consult with the Secretary of State.
+(t) Those under Section 588(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[Oct. 1, 1988, 102 Stat. 2268–51\], to the Secretary of Defense, exceptwith respect to the determination of an emergency as provided by subsection (b)(3). The Secretary of Defense in implementation of the functions delegated to him under section 588(b) shall consult with the Secretary of State.
 
 Sec. 2. <i>Coordination</i>. (a) In addition to the specific provisions of Section 1 of this Order, the Secretary of State and the Secretary of Defense, in carrying out the functions delegated to them under this Order, shall consult with each other and with the heads of other departments and agencies, including the Secretary of the Treasury, the Attorney General, and the Chairman of the Export-Import Bank, on matters pertaining to their responsibilities.
 

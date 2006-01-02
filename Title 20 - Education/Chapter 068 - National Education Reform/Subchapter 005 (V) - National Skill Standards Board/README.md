@@ -5,12 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05931 - Short title](%C2%A7%2005931%20-%20Short%20title.md)
-- [&sect; 05932 - Purpose](%C2%A7%2005932%20-%20Purpose.md)
-- [&sect; 05933 - Establishment of National Board](%C2%A7%2005933%20-%20Establishment%20of%20National%20Board.md)
-- [&sect; 05934 - Functions of National Board](%C2%A7%2005934%20-%20Functions%20of%20National%20Board.md)
-- [&sect; 05935 - Deadlines](%C2%A7%2005935%20-%20Deadlines.md)
-- [&sect; 05936 - Reports](%C2%A7%2005936%20-%20Reports.md)
-- [&sect; 05937 - Authorization of appropriations](%C2%A7%2005937%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 05938 - Definitions](%C2%A7%2005938%20-%20Definitions.md)
-- [&sect; 05939 - Sunset provision](%C2%A7%2005939%20-%20Sunset%20provision.md)
+- [&sect; 05931 to 5939 - Repealed. Pub. L. 103&#8211;227, title V, &sect;509(a), Mar. 31, 1994, 108 Stat. 200](%C2%A7%2005931%20to%205939%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93227%2C%20title%20V%2C%20%C2%A7509%28a%29%2C%20Mar.%2031%2C%201994%2C%20108%20Stat.%20200.md)

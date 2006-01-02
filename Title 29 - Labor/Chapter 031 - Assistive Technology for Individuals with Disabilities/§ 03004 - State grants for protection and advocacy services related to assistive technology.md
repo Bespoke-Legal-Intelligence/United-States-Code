@@ -24,7 +24,7 @@
 
 &emsp;Subject to the availability of appropriations, the amount of a grant to a protection and advocacy system under paragraph (2) for a fiscal year shall—
 
-&emsp;&emsp;(A) in the case of a protection and advocacy system located in American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, not be less than $30,000; and
+&emsp;&emsp;(A) in the case of a protection and advocacy system located in American Samoa,Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, not be less than $30,000; and
 
 &emsp;&emsp;(B) in the case of a protection and advocacy system located in a State not described in subparagraph (A), not be less than $50,000.
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, the Secretary shall pay directly to 
 
 #### (1) Grant to lead agency
 
-&emsp;Notwithstanding any other provision of this section, with respect to a State that, on November 12, 1998, was described in section 2212(f)(1) <sup>1</sup> of this title, the Secretary shall paythe amount of the grant described in subsection (a), and made under subsection (b), to the lead agency designated under section 3003(c)(1) of this title for the State.
+&emsp;Notwithstanding any other provision of this section, with respect to a State that, on November 12, 1998, was described in section 2212(f)(1) <sup>1</sup> of this title, the Secretary shall pay the amount of the grant described in subsection (a), and made under subsection (b), to the lead agency designated under section 3003(c)(1) of this title for the State.
 
 #### (2) Distribution of funds
 

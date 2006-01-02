@@ -42,19 +42,21 @@ Applicable Principles.—In entering into multiyear contracts for services under
 
 (d)
 
-Restrictions Applicable Generally.—(1) The head of an agency may not initiate under this section a contract for services that includes an unfunded contingent liability in excess of $20,000,000 unless the committees of Congress named in paragraph (5) are notified of the proposed contract at least 30 days in advance of the award of the proposed contract.
+Restrictions Applicable Generally.—(1) The head of an agency may not initiate under this section a contract for services that includes an unfunded contingent liability in excess of $20,000,000 unless the congressional defense committees are notified of the proposed contract at least 30 days in advance of the award of the proposed contract.
 
 (2) The head of an agency may not initiate a multiyear contract for services under this section if the value of the multiyear contract would exceed $500,000,000 unless authority for the contract is specifically provided by law.
 
-(3) The head of an agency may not terminate a multiyear procurement contract for services until 10 days after the date on which notice of the proposed termination is provided to the committees of Congress named in paragraph (5).
+(3) The head of an agency may not terminate a multiyear procurement contract for services until 10 days after the date on which notice of the proposed termination is provided to the congressional defense committees.
 
-(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the committees of Congress named in paragraph (5), and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+(4) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
-(5) The committees of Congress referred to in paragraphs (1), (3), and (4) are as follows:
+(5) In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (4), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall give written notification to the congressional defense committees of—
 
-&emsp;(A) The Committee on Armed Services and the Committee on Appropriations of the Senate.
+&emsp;(A) the cancellation ceiling amounts planned for each program year in the proposed multiyear procurement contract, together with the reasons for the amounts planned;
 
-&emsp;(B) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
+&emsp;(B) the extent to which costs of contract cancellation are not included in the budget for the contract; and
+
+&emsp;(C) a financial risk assessment of not including budgeting for costs of contract cancellation.
 
 (e)
 
@@ -76,9 +78,17 @@ Multiyear Contract Defined.—For the purposes of this section, a multiyear cont
 
 Military Installation Defined.—In this section, the term “military installation” has the meaning given such term in section 2801(c)(2) of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–203; amended Pub. L. 107–314, div. A, title VIII, §§811(a), 827, Dec. 2, 2002, 116 Stat. 2608, 2617; Pub. L. 108–136, div. A, title VIII, §843(a), title X, §1043(c)(1), Nov. 24, 2003, 117 Stat. 1553, 1611; Pub. L. 108–375, div. A, title VIII, §814(b), Oct. 28, 2004, 118 Stat. 2014.)
 
 #### Amendments
+
+2004—Subsec. (d)(1), (3), (4). Pub. L. 108–375, §814(b)(1), substituted “congressional defense committees” for “committees of Congress named in paragraph (5)”.
+
+Subsec. (d)(5). Pub. L. 108–375, §814(b)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The committees of Congress referred to in paragraphs (1), (3), and (4) are as follows:
+
+&emsp;“(A) The Committee on Armed Services and the Committee on Appropriations of the Senate.
+
+&emsp;“(B) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
 2003—Subsec. (g). Pub. L. 108–136, §843(a), struck out heading and text of subsec. (g). Text read as follows:
 
@@ -109,8 +119,4 @@ Pub. L. 107–314, div. A, title VIII, §811(b), Dec. 2, 2002, 116 Stat. 2608, a
 #### Effective Date
 
 Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, provided that: “Section 2306c of title 10, United States Code (as added by subsection (a)), shall apply with respect to contracts for which solicitations of offers are issued after the date of the enactment of this Act \[Oct. 30, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2306 of this title.
 

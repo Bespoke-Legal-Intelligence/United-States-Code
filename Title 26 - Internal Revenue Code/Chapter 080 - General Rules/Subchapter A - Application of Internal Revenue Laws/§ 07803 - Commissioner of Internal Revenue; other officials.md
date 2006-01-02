@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(E) to determine which civil actions should be litigated under the laws relating to the Internal Revenue Service and prepare recommendations for the Department of Justice regarding the commencement of such actions.
 
-> &emsp;If the Secretary determines not to delegate a power specified in subparagraph (A), (B), (C),\(D), or (E), such determination may not take effect until 30 days after the Secretary notifies the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
+> &emsp;If the Secretary determines not to delegate a power specified in subparagraph (A), (B), (C), (D), or (E), such determination may not take effect until 30 days after the Secretary notifies the Committees on Ways and Means, Government Reform and Oversight, and Appropriations of the House of Representatives and the Committees on Finance, Governmental Affairs, and Appropriations of the Senate.
 
 #### (3) Persons to whom Chief Counsel reports
 
@@ -182,7 +182,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisorypersonnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
 
 #### (3) Responsibilities of Commissioner
 
@@ -264,7 +264,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;(B) establish and maintain a toll-free telephone number for taxpayers to use to confidentially register complaints of misconduct by Internal Revenue Service employees and incorporate the telephone number in the statement required by section 6227 of the Omnibus Taxpayer Bill of Rights (Internal Revenue Service Publication No. 1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209;Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697.)
 
 #### References in Text
 
@@ -289,6 +289,8 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as 
 #### Change of Name
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date of 1998 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) In this section—
 
-&emsp;(1) “inventory” means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials usedor consumed in a business, including farm products such as crops or livestock, held for sale or lease;
+&emsp;(1) “inventory” means personal property leased or furnished, held for sale or lease, or to be furnished under a contract for service, raw materials, work in process, or materials used or consumed in a business, including farm products such as crops or livestock, held for sale or lease;
 
 &emsp;(2) “new value” means money or money's worth in goods, services, or new credit, or release by a transferee of property previously transferred to such transferee in a transaction that is neither void nor voidable by the debtor or the trustee under any applicable law, including proceeds of such property, but does not include an obligation substituted for an existing obligation;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
-(b) Except as provided in subsection (c) of this section, the trustee may avoid any transfer of an interest of the debtor in property—
+(b) Except as provided in subsections (c) and (i) of this section, the trustee may avoid any transfer of an interest of the debtor in property—
 
 &emsp;(1) to or for the benefit of a creditor;
 
@@ -40,13 +40,11 @@
 
 &emsp;&emsp;(B) in fact a substantially contemporaneous exchange;
 
-&emsp;(2) to the extent that such transfer was—
+&emsp;(2) to the extent that such transfer was in payment of a debt incurred by the debtor in the ordinary course of business or financial affairs of the debtor and the transferee, and such transfer was—
 
-&emsp;&emsp;(A) in payment of a debt incurred by the debtor in the ordinary course of business or financial affairs of the debtor and the transferee;
+&emsp;&emsp;(A) made in the ordinary course of business or financial affairs of the debtor and the transferee; or
 
-&emsp;&emsp;(B) made in the ordinary course of business or financial affairs of the debtor and the transferee; and
-
-&emsp;&emsp;(C) made according to ordinary business terms;
+&emsp;&emsp;(B) made according to ordinary business terms;
 
 &emsp;(3) that creates a security interest in property acquired by the debtor—
 
@@ -60,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iv) in fact used by the debtor to acquire such property; and
 
-&emsp;&emsp;(B) that is perfected on or before 20 days after the debtor receives possession of such property;
+&emsp;&emsp;(B) that is perfected on or before 30 days after the debtor receives possession of such property;
 
 &emsp;(4) to or for the benefit of a creditor, to the extent that, after such transfer, such creditor gave new value to or for the benefit of the debtor—
 
@@ -78,15 +76,13 @@
 
 &emsp;(6) that is the fixing of a statutory lien that is not avoidable under section 545 of this title;
 
-&emsp;(7) to the extent such transfer was a bona fide payment of a debt to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
+&emsp;(7) to the extent such transfer was a bona fide payment of a debt for a domestic support obligation;
 
-&emsp;&emsp;(A) is assigned to another entity, voluntarily, by operation of law, or otherwise; or
+&emsp;(8) if, in a case filed by an individual debtor whose debts are primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $600; or
 
-&emsp;&emsp;(B) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support; or
+&emsp;(9) if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000.
 
-&emsp;(8) if, in a case filed by an individual debtor whose debts are primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $600.
-
-(d) The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability ofsuch surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
+(d) The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability of such surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
 
 (e)(1) For the purposes of this section—
 
@@ -96,15 +92,15 @@
 
 (2) For the purposes of this section, except as provided in paragraph (3) of this subsection, a transfer is made—
 
-&emsp;(A) at the time such transfer takes effect between the transferor and the transferee, if such transfer is perfected at, or within 10 days after, such time, except as provided in subsection (c)(3)(B);
+&emsp;(A) at the time such transfer takes effect between the transferor and the transferee, if such transfer is perfected at, or within 30 days after, such time, except as provided in subsection (c)(3)(B);
 
-&emsp;(B) at the time such transfer is perfected, if such transfer is perfected after such 10 days; or
+&emsp;(B) at the time such transfer is perfected, if such transfer is perfected after such 30 days; or
 
 &emsp;(C) immediately before the date of the filing of the petition, if such transfer is not perfected at the later of—
 
 &emsp;&emsp;(i) the commencement of the case; or
 
-&emsp;&emsp;(ii) 10 days after such transfer takes effect between the transferor and the transferee.
+&emsp;&emsp;(ii) 30 days after such transfer takes effect between the transferor and the transferee.
 
 (3) For the purposes of this section, a transfer is not made until the debtor has acquired rights in the property transferred.
 
@@ -112,7 +108,11 @@
 
 (g) For the purposes of this section, the trustee has the burden of proving the avoidability of a transfer under subsection (b) of this section, and the creditor or party in interest against whom recovery or avoidance is sought has the burden of proving the nonavoidability of a transfer under subsection (c) of this section.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133.)
+(h) The trustee may not avoid a transfer if such transfer was made as a part of an alternative repayment schedule between the debtor and any creditor of the debtor created by an approved nonprofit budget and credit counseling agency.
+
+(i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196.)
 
 #### Historical and Revision Notes
 
@@ -160,7 +160,7 @@ The fourth exception codifies the net result rule in section 60c of current law 
 
 Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Williams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209 (C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
 
-Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protects transfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
+Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protectstransfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
 
 Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) of former title 11\], permits the trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
 
@@ -171,6 +171,32 @@ Subsection (e) is designed to reach the different results under the 1962 version
 Subsection (f) creates a presumption of insolvency for the 90 days preceding the bankruptcy case. The presumption is as defined in Rule 301 of the Federal Rules of Evidence, made applicable in bankruptcy cases by sections 224 and 225 of the bill. The presumption requires the party against whom the presumption exists to come forward with some evidence to rebut the presumption, but the burden of proof remains on the party in whose favor the presumption exists.
 
 #### Amendments
+
+2005—Subsec. (b). Pub. L. 109–8, §1213(a)(1), substituted “subsections (c) and (i)” for “subsection (c)” in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 109–8, §409(1), added par. (2) and struck out former par. (2) which read as follows: “to the extent that such transfer was—
+
+&emsp;“(A) in payment of a debt incurred by the debtor in the ordinary course of business or financial affairs of the debtor and the transferee;
+
+&emsp;“(B) made in the ordinary course of business or financial affairs of the debtor and the transferee; and
+
+&emsp;“(C) made according to ordinary business terms;”.
+
+Subsec. (c)(3)(B). Pub. L. 109–8, §1222, substituted “30 days” for “20 days”.
+
+Subsec. (c)(7). Pub. L. 109–8, §217, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “to the extent such transfer was a bona fide payment of a debt to a spouse, former spouse, or child of the debtor, for alimony to, maintenance for, or support of such spouse or child, in connection with a separation agreement, divorce decree or other order of a court of record, determination made in accordance with State or territorial law by a governmental unit, or property settlement agreement, but not to the extent that such debt—
+
+&emsp;“(A) is assigned to another entity, voluntarily, by operation of law, or otherwise; or
+
+&emsp;“(B) includes a liability designated as alimony, maintenance, or support, unless such liability is actually in the nature of alimony, maintenance or support; or”.
+
+Subsec. (c)(9). Pub. L. 109–8, §409(2), (3), added par. (9).
+
+Subsec. (e)(2). Pub. L. 109–8, §403, substituted “30” for “10” wherever appearing.
+
+Subsec. (h). Pub. L. 109–8, §201(b), added subsec. (h).
+
+Subsec. (i). Pub. L. 109–8, §1213(a)(2), added subsec. (i).
 
 1994—Subsec. (c)(3)(B). Pub. L. 103–394, §203(1), substituted “20” for “10”.
 
@@ -211,6 +237,12 @@ Subsec. (d). Pub. L. 98–353, §462(e), substituted “The” for “A” befor
 Subsec. (e)(2)(C)(i). Pub. L. 98–353, §462(f), substituted “or” for “and”.
 
 Subsec. (g). Pub. L. 98–353, §462(g), added subsec. (g).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–8, title XII, §1213(b), Apr. 20, 2005, 119 Stat. 195, provided that: “The amendments made by this section \[amending this section\] shall apply to any case that is pending or commenced on or after the date of enactment of this Act \[Apr. 20, 2005\].”
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

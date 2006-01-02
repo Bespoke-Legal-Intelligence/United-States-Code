@@ -2,7 +2,7 @@
 
 #### (a) Formula
 
-Subject to subsections (b) and (c) of this section, the trade readjustment allowance payableto an adversely affected worker for a week of total unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
+Subject to subsections (b) and (c) of this section, the trade readjustment allowance payable to an adversely affected worker for a week of total unemployment shall be an amount equal to the most recent weekly benefit amount of the unemployment insurance payable to the worker for a week of total unemployment preceding the worker's first exhaustion of unemployment insurance (as determined for purposes of section 2291(a)(3)(B) of this title) reduced (but not below zero) by—
 
 &emsp;(1) any training allowance deductible under subsection (c) of this section; and
 
@@ -44,7 +44,7 @@ Amendment by section 1423(b)(1) effective Aug. 23, 1988, and amendment by sectio
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin afterSept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 

@@ -22,7 +22,7 @@ A prior section 2401a was renumbered section 2350f of this title.
 
 1997—Subsec. (a). Pub. L. 105–85 substituted “such leasing” for “leasing of such vehicles”.
 
-1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designatedexisting text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
+1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
 
 #### Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program
 
@@ -38,29 +38,27 @@ Pub. L. 107–314, div. A, title I, §133, Dec. 2, 2002, 116 Stat. 2477, provide
 
 #### Multi-Year Aircraft Lease Pilot Program
 
-Pub. L. 108–136, div. A, title I, §135, Nov. 24, 2003, 117 Stat. 1413, provided that:
+Pub. L. 108–136, div. A, title I, §135, Nov. 24, 2003, 117 Stat. 1413, as amended by Pub. L. 108–375, div. A, title I, §133, Oct. 28, 2004, 118 Stat. 1829, provided that:
 
 “(a)
 
-Leased Aircraft.—The Secretary of the Air Force may lease no more than 20 tanker aircraft under the multiyear aircraft lease pilot program referred to in subsection (d).
+Leased Aircraft.—The Secretary of the Air Force shall lease no tanker aircraft under the multiyear aircraft lease pilot program referred to in subsection (d).
 
 “(b)
 
-Multiyear Procurement Authority.—(1) Beginning with the fiscal year 2004 program year, the Secretary of the Air Force may, in accordance with section 2306b of title 10, United States Code, enter into a multiyear contract for the purchase of tanker aircraft necessary to meet the requirements of the Air Force for which leasing of tanker aircraft is provided for under the multiyear aircraft lease pilot program but for which the number of tanker aircraft leased under the authority of subsection (a) is insufficient.
+Multiyear Procurement Authority.—(1) The Secretary of the Air Force may, in accordance with section 2306b of title 10, United States Code, enter into a multiyear contract for the purchase of tanker aircraft.
 
-“(2) The total number of tanker aircraft purchased through a multiyear contract under this subsection may not exceed 80.
+“(2) The total number of tanker aircraft purchased through a multiyear contract under this subsection may not exceed 100.
 
 “(3) Notwithstanding subsection (k) of section 2306b of title 10, United States Code, a contract under this subsection may be for any period not in excess of 10 program years.
-
-“(4) A multiyear contract under this subsection may be initiated or continued for any fiscal year for which sufficient funds are available to pay the costs of such contract for that fiscal year, without regard to whether funds are available to pay the costs of such contract for any subsequent fiscal year. Such contract shall provide, however, that performance under the contract during the subsequent year or years of the contract is contingent upon the appropriation of funds and shall also provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
 “(c)
 
 Study of Long-Term Tanker Aircraft Maintenance and Training Requirements.—(1) The Secretary of Defense shall carry out a study to identify alternative means for meeting the long-term requirements of the Air Force for—
 
-&emsp;“(A) the maintenance of tanker aircraft leased under the multiyear aircraft lease pilot program or purchased under subsection (b); and
+&emsp;“(A) the maintenance of tanker aircraft purchased under subsection (b); and
 
-&emsp;“(B) training in the operation of tanker aircraft leased under the multiyear aircraft lease pilot program or purchased under subsection (b).
+&emsp;“(B) training in the operation of tanker aircraft purchased under subsection (b).
 
 “(2) Not later than April 1, 2004, the Secretary of Defense shall submit a report on the results of the study to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\].
 
@@ -70,7 +68,11 @@ Multiyear Aircraft Lease Pilot Program Defined.—In this section, the term ‘m
 
 “(e)
 
-Sense of Congress.—It is the sense of Congress that, in budgeting for a program to acquire new tanker aircraft for the Air Force, the President should ensure that sufficient budgetary resources are provided to the Department of Defense to fully execute the program and to further ensure that all other critical defense programs are fully and properly funded.”
+Sense of Congress.—It is the sense of Congress that, in budgeting for a program to acquire new tanker aircraft for the Air Force, the President should ensure that sufficient budgetary resources are provided to theDepartment of Defense to fully execute the program and to further ensure that all other critical defense programs are fully and properly funded.
+
+“(f)
+
+Relationship to Previous Law.—The multiyear procurement authority in subsection (b) may not be executed under section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117) \[set out below\].”
 
 Pub. L. 107–206, title I, §308, Aug. 2, 2002, 116 Stat. 841, provided that: “During the current fiscal year and hereafter, section 2533a of title 10, United States Code, shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284) \[set out below\].”
 
@@ -98,7 +100,7 @@ Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, as
 
 &emsp;&emsp;“(B) A period of not less than 30 calendar days has elapsed after submitting the report.
 
-&emsp;“(7) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be basedon at least 6 months of experience in operating the Pilot Program.
+&emsp;“(7) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be based on at least 6 months of experience in operating the Pilot Program.
 
 &emsp;“(8) The Air Force shall accept delivery of the aircraft in a general purpose configuration.
 

@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after February 20, 2003, after consultation with the Pueblo, the Secretary shall, in accordance with applicable laws, prepare and offer a land exchange of National Forest land outside the Area and contiguous to the northern boundary of the Pueblo's Reservation within sections 10, 11, and 14 of T12N, R4E, N.M.P.M., Sandoval County, New Mexico excluding wilderness land, for land owned by the Pueblo in the Evergreen Hills subdivision in Sandoval County contiguous to National Forest land, and the La Luz tract in Bernalillo County.
+&emsp;Not later than 180 days after February 20, 2003, after consultation with the Pueblo, theSecretary shall, in accordance with applicable laws, prepare and offer a land exchange of National Forest land outside the Area and contiguous to the northern boundary of the Pueblo's Reservation within sections 10, 11, and 14 of T12N, R4E, N.M.P.M., Sandoval County, New Mexico excluding wilderness land, for land owned by the Pueblo in the Evergreen Hills subdivision in Sandoval County contiguous to National Forest land, and the La Luz tract in Bernalillo County.
 
 #### (2) Acceptance of payment
 

@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director and in consultation with the Commissioner of Food and Drugs, shall establish a program for the purpose of making one or more grants for the establishment and operation of one or more centers to carry out the activities specified in paragraph (2).
+&emsp;The Secretary, acting through the Director and in consultation with the Commissioner ofFood and Drugs, shall establish a program for the purpose of making one or more grants for the establishment and operation of one or more centers to carry out the activities specified in paragraph (2).
 
 #### (2) Required activities
 
@@ -70,7 +70,7 @@
 
 #### (c) Reducing errors in medicine
 
-The Director shall conduct and support research and build private-public partnerships to—
+The Director shall, in accordance with part C of this subchapter, conduct and support research and build private-public partnerships to—
 
 &emsp;(1) identify the causes of preventable health care errors and patient injury in health care delivery;
 
@@ -78,9 +78,13 @@ The Director shall conduct and support research and build private-public partner
 
 &emsp;(3) disseminate such effective strategies throughout the health care industry.
 
-(July 1, 1944, ch. 373, title IX, §912, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1656.)
+(July 1, 1944, ch. 373, title IX, §912, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1656; amended Pub. L. 109–41, §2(a)(1), July 29, 2005, 119 Stat. 424.)
 
 #### Prior Provisions
 
 A prior section 299b–1, act July 1, 1944, ch. 373, title IX, §912, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2192; amended Pub. L. 102–410, §§5(a)(1), (c)(1), 6(b), Oct. 13, 1992, 106 Stat. 2096, 2097, 2100, related to the duties of the Office of the Forum for Quality and Effectiveness in Health Care, prior to the general amendment of this subchapter by Pub. L. 106–129.
+
+#### Amendments
+
+2005—Subsec. (c). Pub. L. 109–41 inserted “, in accordance with part C of this subchapter,” after “The Director shall” in introductory provisions.
 

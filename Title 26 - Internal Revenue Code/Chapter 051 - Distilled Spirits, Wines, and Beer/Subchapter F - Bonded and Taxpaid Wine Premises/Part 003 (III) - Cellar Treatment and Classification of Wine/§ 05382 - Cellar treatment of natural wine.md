@@ -1,8 +1,34 @@
 ### §5382. Cellar treatment of natural wine
 
-#### (a) General
+#### (a) Proper cellar treatment
 
-Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized as a proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection.
+#### (1) In general
+
+&emsp;Proper cellar treatment of natural wine constitutes—
+
+&emsp;&emsp;(A) subject to paragraph (2), those practices and procedures in the United States, whether historical or newly developed, of using various methods and materials to stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice in accordance with regulations prescribed by the Secretary; and
+
+&emsp;&emsp;(B) subject to paragraph (3), in the case of wine produced and imported subject to an international agreement or treaty, those practices and procedures acceptable to the United States under such agreement or treaty.
+
+#### (2) Recognition of continuing treatment
+
+&emsp;For purposes of paragraph (1)(A), where a particular treatment has been used in customary commercial practice in the United States, it shall continue to be recognized as a proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be proper cellar treatment within the meaning of this subsection.
+
+#### (3) Certification of practices and procedures for imported wine
+
+#### (A) In general
+
+&emsp;&emsp;In the case of imported wine produced after December 31, 2004, the Secretary shall accept the practices and procedures used to produce such wine, if, at the time of importation—
+
+&emsp;&emsp;&emsp;(i) the Secretary has on file or is provided with a certification from the government of the producing country, accompanied by an affirmed laboratory analysis, that the practices and procedures used to produce the wine constitute proper cellar treatment under paragraph (1)(A),
+
+&emsp;&emsp;&emsp;(ii) the Secretary has on file or is provided with such certification, if any, as may be required by an international agreement or treaty under paragraph (1)(B), or
+
+&emsp;&emsp;&emsp;(iii) in the case of an importer that owns or controls or that has an affiliate that owns or controls a winery operating under a basic permit issued by the Secretary, the importer certifies that the practices and procedures used to produce the wine constitute proper cellar treatment under paragraph (1)(A).
+
+#### (B) Affiliate defined
+
+&emsp;&emsp;For purposes of this paragraph, the term “affiliate” has the meaning given such term by section 117(a)(4) of the Federal Alcohol Administration Act (27 U.S.C. 211(a)(4)) and includes a winery's parent or subsidiary or any other entity in which the winery's parent or subsidiary has an ownership interest.
 
 #### (b) Specifically authorized treatments
 
@@ -10,7 +36,7 @@ The practices and procedures specifically enumerated in this subsection shall be
 
 &emsp;(1) The preparation and use of pure concentrated or unconcentrated juice or must. Concentrated juice or must reduced with water to its original density or to not less than 22 degrees Brix or unconcentrated juice or must reduced with water to not less than 22 degrees Brix shall be deemed to be juice or must, and shall include such amounts of water to clear crushing equipment as regulations prescribed by the Secretary may provide.
 
-&emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must, from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United States from the same kind of fruit; except that (A) the wine, juice, or concentrate shall not have an alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
+&emsp;(2) The addition to natural wine, or to concentrated or unconcentrated juice or must, from one kind of fruit, of wine spirits (whether or not tax-paid) distilled in the United States from the same kind of fruit; except that (A) the wine, juice, or concentrate shall not havean alcoholic content in excess of 24 percent by volume after the addition of wine spirits, and (B) in the case of still wines, wine spirits may be added in any State only to natural wines produced by fermentation in bonded wine cellars located within the same State.
 
 &emsp;(3) Amelioration and sweetening of natural grape wines in accordance with section 5383.
 
@@ -44,13 +70,15 @@ For purposes of this part, juice, concentrated juice, or must processed at a pla
 
 &emsp;(2) in the case of natural fruit wine (other than grape or berry wine) of the winemaker's own production, an equivalent quantity of volatile fruit-flavor concentrate produced at such a plant and derived from the same kind of fruit.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1383; amended Pub. L. 88–653, §§1, 2, Oct. 13, 1964, 78 Stat. 1085; Pub. L. 89–44, title VIII, §806(c)(1), June 21, 1965, 79 Stat. 164; Pub. L. 90–619, §2, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1383; amended Pub. L. 88–653, §§1, 2, Oct. 13, 1964, 78 Stat. 1085; Pub. L. 89–44, title VIII, §806(c)(1), June 21, 1965, 79 Stat. 164; Pub. L. 90–619, §2, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–429, title II, §2002(a), Dec. 3, 2004, 118 Stat. 2588.)
 
 #### Prior Provisions
 
 A prior section 5382, act Aug. 16, 1954, ch. 736, 68A Stat. 668, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–429 amended heading and text of subsec. (a) generally. Prior to amendment text read as follows: “Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized as a proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection.”
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -61,6 +89,10 @@ A prior section 5382, act Aug. 16, 1954, ch. 736, 68A Stat. 668, consisted of pr
 1964—Subsec. (b)(9). Pub. L. 88–653, §1, added par. (9).
 
 Subsec. (d). Pub. L. 88–653, §2, added subsec. (d).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–429, title II, §2002(b), Dec. 3, 2004, 118 Stat. 2589, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 2005.”
 
 #### Effective Date of 1968 Amendment
 
@@ -73,8 +105,4 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 #### Effective Date of 1964 Amendment
 
 Section 4 of Pub. L. 88–653 provided that: “The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5381, 5385 to 5387 of this title.
 

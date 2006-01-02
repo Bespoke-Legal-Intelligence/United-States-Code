@@ -120,7 +120,7 @@
 
 &emsp;(A) in the case of a fishery to which section 1852(a)(3) of this title applies, immediately make revisions necessary to achieve adequate progress; or
 
-&emsp;(B) for all other fisheries, immediately notify the appropriate Council. Such notification shall recommend further conservation and management measures which the Council should consider under paragraph (3) to achieve adequate progress.
+&emsp;(B) for all other fisheries, immediately notify the appropriate Council. Such notification shall recommend further conservation and management measures which the Councilshould consider under paragraph (3) to achieve adequate progress.
 
 #### (f) Fisheries under authority of more than one Council
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;(E) review, on a continuing basis (and promptly whenever a recommendation pertaining to fishing for highly migratory species has been made under a relevant international fishery agreement), and revise as appropriate, the conservation and management measures included in the plan;
 
-&emsp;&emsp;(F) diligently pursue, through international entities (such as the International Commission for the Conservation of Atlantic Tunas), comparable international fisherymanagement measures with respect to fishing for highly migratory species; and
+&emsp;&emsp;(F) diligently pursue, through international entities (such as the International Commission for the Conservation of Atlantic Tunas), comparable international fishery management measures with respect to fishing for highly migratory species; and
 
 &emsp;&emsp;(G) ensure that conservation and management measures under this subsection—
 
@@ -220,7 +220,7 @@ Subsec. (c)(2)(B). Pub. L. 101–627, §120(d), substituted “appropriate Counc
 
 Pub. L. 101–627, §111(a)(2)(C), substituted “section 1855(a)” for “section 1855(c)”.
 
-Subsec. (e). Pub. L. 101–627, §110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish.The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
+Subsec. (e). Pub. L. 101–627, §110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
 Subsec. (f). Pub. L. 101–627, §110(b)(1), in heading substituted “Fisheries under authority of more than one Council” for “Miscellaneous duties”, in par. (1) substituted “Except as provided in paragraph (3), if” for “If”, and added par. (3).
 
@@ -258,7 +258,7 @@ Subsec. (e). Pub. L. 99–659, §106(4), inserted “, in cooperation with the 
 
 1983—Subsec. (a). Pub. L. 97–453, §7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary's objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
-Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
+Subsec. (b). Pub. L. 97–453, §7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Counciland submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
 Subsec. (c)(1). Pub. L. 97–453, §7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 
@@ -280,7 +280,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Delay of Collection of Fees in Quahog and Wreckfish Fisheries
 
-Section 109(d) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(d)(2)\], as amendedby this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
+Section 109(d) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1854(d)(2)\], as amended by this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
 
 #### Comprehensive Management System for Atlantic Pelagic Longline Fishery
 

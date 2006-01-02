@@ -84,11 +84,11 @@ Section 733(b) of Pub. L. 104–106 provided that: “Any exercise of authority 
 
 #### Personal Service Contracts To Provide Care
 
-Pub. L. 103–337, div. A, title VII, §704(c), Oct. 5, 1994, 108 Stat. 2799, provided that:
+Pub. L. 103–337, div. A, title VII, §704(c), Oct. 5, 1994, 108 Stat. 2799, as amended by Pub. L. 108–375, div. A, title VII, §717(a), Oct. 28, 2004, 118 Stat. 1986, provided that:
 
 “(1) The Secretary of Defense may enter into personal service contracts under the authority of section 1091 of title 10, United States Code, with persons described in paragraph (2) to provide the services of clinical counselors, family advocacy program staff, and victim's services representatives to members of the Armed Forces and covered beneficiaries who require such services. Notwithstanding subsection (a) of such section, such services may be provided in medical treatment facilities of the Department of Defense or elsewhere as determined appropriate by the Secretary.
 
-“(2) The persons with whom the Secretary may enter into a personal services contract under this subsection shall include clinical social workers, psychologists, psychiatrists, and other comparable professionals who have advanced degrees in counseling or related academic disciplines and who meet all requirements for State licensure and board certification requirements, if any, within their fields of specialization.”
+“(2) The persons with whom the Secretary may enter into a personal services contract under this subsection shall include clinical social workers, psychologists, marriage and family therapists certified as such by a certification recognized by the Secretary of Defense, psychiatrists, and other comparable professionals who have advanced degrees in counseling or related academic disciplines and who meet all requirements for State licensure and board certification requirements, if any, within their fields of specialization.”
 
 #### Report on Compensation by Medical Specialty
 
@@ -101,8 +101,4 @@ Section 712(b) of Pub. L. 103–160 provided that: “Not later than 30 days aft
 &emsp;“(3) the total number and medical specialties of individuals serving in military medical treatment facilities during that period pursuant to such a contract; and
 
 &emsp;“(4) the number of such individuals (and their medical specialties) who are receiving compensation under such a contract in an amount in excess of the maximum amount authorized under such section, as such section was in effect on the day before the date of the enactment of this Act \[Nov. 30, 1993\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1072, 1089 of this title.
 

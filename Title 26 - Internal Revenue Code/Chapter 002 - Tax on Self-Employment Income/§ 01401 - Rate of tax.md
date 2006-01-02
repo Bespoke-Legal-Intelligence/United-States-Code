@@ -30,15 +30,17 @@ In addition to the tax imposed by the preceding subsection, there shall be impos
 
 #### (c) Relief from taxes in cases covered by certain international agreements
 
-During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement to taxes or contributions for similar purposes under the social security system of such foreign country.
+During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L. 85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 353; Sept. 1, 1954, ch. 1206, title II, §208(a), 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, §202(a), 70 Stat. 845; Pub. L. 85–840, title IV, §401(a), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, §201(a), June 30, 1961, 75 Stat. 140; Pub. L. 89–97, title I, §111(c)(4), title III, §321(a), July 30, 1965, 79 Stat. 342, 394; Pub. L. 90–248, title I, §109(a)(1), (b)(1), Jan. 2, 1968, 81 Stat. 835, 836; Pub. L. 92–336, title II, §204 (a)(1), (b)(1), July 1, 1972, 86 Stat. 420, 421; Pub. L. 92–603, title I, §135(a)(1), (b)(1), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, §6(b)(1), Dec. 31, 1973, 87 Stat. 955; Pub. L. 94–455, title XIX, §1901(a)(154), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–216, title I, §101(a)(3), (b)(3), title III, §317(b)(1), Dec. 20, 1977, 91 Stat. 1511, 1512, 1539; Pub. L. 98–21, title I, §124(a), (b), Apr. 20, 1983, 97 Stat. 89; Pub. L. 101–508, title XI, §11801(a)(36), (c)(16), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530.)
 
 #### References in Text
 
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
 1990—Subsecs. (c), (d). Pub. L. 101–508 redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided a credit against self-employment taxes imposed by this section.
 
@@ -88,7 +90,7 @@ Subsec. (b)(2) to (5). Pub. L. 92–336, §204(b)(1), substituted “1978” for
 
 1968—Subsecs. (a)(1) to (4). Pub. L. 90–248, §109(a)(1), substituted “December 31, 1967” and “January 1, 1969” for “December 31, 1965” and “January 1, 1967” in par. (1), “December 31, 1968”, “January 1, 1971” and “6.3” for “December 31, 1966”, “January 1, 1969”, and “5.9” in par. (2), and “December 31, 1970” and “6.9” for “December 31, 1968” and “6.6” in par. (3), and reenacted par. (4) without change.
 
-Subsec. (b)(1) to (5). Pub. L. 90–248, §109(b)(1), struck out par. (1) provision for rate of 0.35 percent of amount of self-employment income for any taxable year beginning after Dec. 31, 1965, and before Jan. 1, 1967, redesignated former pars. (2) to (6) as (1) to (5), substituted “December 31, 1967” for “December 31, 1966” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
+Subsec. (b)(1) to (5). Pub. L. 90–248, §109(b)(1), struck out par. (1) provision for rate of 0.35 percent of amount of self-employment income for any taxable year beginning after Dec. 31, 1965, and before Jan. 1, 1967, redesignated former pars. (2) to (6) as (1) to (5), substituted“December 31, 1967” for “December 31, 1966” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
 
 1965—Pub. L. 89–97, §321(a), divided the total tax imposed under the entire section for each taxable year upon the self-employment income for such taxable year into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting a separate tax for hospital insurance; reduced from 6.2 percent to 6.15 percent the rate of total tax imposed under the entire section for taxable years beginning after Dec. 31, 1965, and before Jan. 1, 1967 (resulting from a tax of 5.8 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 6.2 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1966, and before Jan. 1, 1968 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 6.9 percent to 6.4 percent the rate for taxable years beginning after Dec. 31, 1967, and before Jan. 1, 1969 (resulting from a tax of 5.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 6.9 percent to 7.1 percent the rate for taxable years beginning after Dec. 31, 1968, and before Jan. 1, 1973 (resulting from a tax of 6.6 percent under subsec. (a) and 0.50 percent under subsec. (b)), from 6.9 percent to 7.55 percent the rate for taxable years beginning after Dec. 31, 1972, and before Jan. 1, 1976 (resulting from a tax of 7.0 percent under subsec. (a) and 0.55 percent under subsec. (b)), from 6.9 percent to 7.60 percent the rate for taxable years beginning after Dec. 31, 1975, and before Jan. 1, 1980 (resulting from a tax of 7.0 percent under subsec. (a) and 0.60 percent under subsec. (b)), from 6.9 percent to 7.70 percent the rate for taxable years beginning after Dec. 31, 1979, and before Jan. 1, 1987 (resulting from a tax of 7.0 percent under subsec. (a) and 0.70 percent under subsec. (b)), and from 6.9 percent to 7.80 percent the rate for taxable years beginning after Dec. 31, 1986 (resulting from a tax of 7.0 percent under subsec. (a) and 0.80 percent under subsec. (b)), and provided that the exclusion of employee representatives by section 1402(c)(3) should not apply for purposes of the tax imposed by subsec. (b).
 
@@ -156,7 +158,7 @@ Section 202(d) of act Aug. 1, 1956, provided that: “The amendment made by subs
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 
@@ -165,8 +167,4 @@ Land diverted from production of agricultural commodities under a 1983 payment-i
 #### Deduction by or Credit Against Individual Income Tax for Taxes Paid Into Foreign Social Security System Pursuant to International Agreement
 
 Section 317(b)(4) of Pub. L. 95–216 provided that: “Notwithstanding any other provision of law, taxes paid by any individual to any foreign country with respect to any period of employment or self-employment which is covered under the social security system of such foreign country in accordance with the terms of an agreement entered into pursuant to section 233 of the Social Security Act \[section 433 of Title 42, The Public Health and Welfare\] shall not, under the income tax laws of the United States, be deductible by, or creditable against the income tax of, any such individual.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 24, 164, 1402, 3231, 6213 of this title; title 42 sections 910, 911, 1395i.
 

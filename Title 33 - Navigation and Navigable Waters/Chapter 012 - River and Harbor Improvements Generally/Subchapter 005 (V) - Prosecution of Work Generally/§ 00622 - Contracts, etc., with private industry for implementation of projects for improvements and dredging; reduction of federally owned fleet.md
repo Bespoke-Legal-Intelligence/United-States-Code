@@ -20,7 +20,7 @@ As private industry reasonably demonstrates its capability under subsection (a) 
 
 #### (3) Testing and use of ready reserve hopper dredge
 
-&emsp;The Secretary may periodically perform routine tests of the equipment of the vessel placed in a ready reserve status under paragraph (2) to ensure the vessel's ability to perform emergency work. The Secretary shall not assign any scheduled hopper dredging work to such vessel but shall perform any repairs needed to maintain the vessel in a fully operational condition. The Secretary may place the vessel in active status in order to perform any dredging work only if the Secretary determines that private industry has failed to submit a responsive and responsible bid for work advertised by the Secretary or to carry out the project as required pursuant to a contract with the Secretary.
+&emsp;The Secretary may periodically perform routine tests of the equipment of the vessel placed in a ready reserve status under paragraph (2) to ensure the vessel's ability to perform emergency work. The Secretary shall notassign any scheduled hopper dredging work to such vessel but shall perform any repairs needed to maintain the vessel in a fully operational condition. The Secretary may place the vessel in active status in order to perform any dredging work only if the Secretary determines that private industry has failed to submit a responsive and responsible bid for work advertised by the Secretary or to carry out the project as required pursuant to a contract with the Secretary.
 
 #### (4) Repair and rehabilitation
 

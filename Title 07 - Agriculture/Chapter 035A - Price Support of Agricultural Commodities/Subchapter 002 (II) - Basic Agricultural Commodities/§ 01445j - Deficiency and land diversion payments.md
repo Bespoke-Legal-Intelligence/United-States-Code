@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If the Secretary establishes an acreage limitation program for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for the commodity for the crop, the Secretary shall make advance deficiency payments available to producers for each of the crops.
+&emsp;If the Secretary establishes an acreage limitation program for any of the 1991 through 1997 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for the commodity for the crop, the Secretary shallmake advance deficiency payments available to producers for each of the crops.
 
 #### (2) Terms and conditions
 
@@ -88,7 +88,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see ShortTitle note set out under section 1421 of this title and Tables.
 
 #### Codification
 
@@ -184,7 +184,7 @@ To the public.—The Secretary shall publish in the Federal Register—
 
 &emsp;&emsp;“(B)
 
-To producers.—The Secretary shall make available to each producer of 1988 or 1989 crop barley, on request, a statement detailing the effect of the calculation of refunds described in paragraph (1) on the producer's 1988 or 1989 refund.
+To producers.—The Secretary shall make available to each producer of 1988 or 1989 crop barley, on request, a statement detailing the effect ofthe calculation of refunds described in paragraph (1) on the producer's 1988 or 1989 refund.
 
 “(b)
 

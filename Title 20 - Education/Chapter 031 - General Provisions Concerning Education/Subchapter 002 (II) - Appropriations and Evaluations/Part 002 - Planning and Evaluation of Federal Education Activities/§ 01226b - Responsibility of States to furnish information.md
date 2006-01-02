@@ -26,7 +26,7 @@ If the Secretary does not receive a report by the date required under subsection
 
 #### (d) Availability of information
 
-When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shallmake such information available, at a reasonable cost, to any individual who requests such information.
+When the Secretary receives a report required under subsection (a) of this section, the Secretary shall provide such information to the National Center for Education Statistics, and shall make such information available, at a reasonable cost, to any individual who requests such information.
 
 #### (e) Congressional telecommunications network
 
@@ -52,7 +52,7 @@ On or before August 15 of each year in which reports are submitted under subsect
 
 Provisions similar to those in subsecs. (a), (b), and (f) of this section were contained in section 1221e–1a of this title prior to repeal by Pub. L. 103–382.
 
-A prior section 1226b, Pub. L. 90–247, title IV, §416, as added Pub. L. 93–380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 563, related to program planning and evaluation, prior to repeal by Pub. L. 103–382, title II, §212(a)(1), Oct. 20, 1994, 108 Stat. 3913.
+A prior section 1226b, Pub. L. 90–247, title IV, §416, as added Pub. L. 93–380, title V, §506(a)(3)(C), Aug. 21, 1974,88 Stat. 563, related to program planning and evaluation, prior to repeal by Pub. L. 103–382, title II, §212(a)(1), Oct. 20, 1994, 108 Stat. 3913.
 
 A prior section 424 of Pub. L. 90–247 was classified to section 1231b–1 of this title prior to repeal by Pub. L. 103–382.
 

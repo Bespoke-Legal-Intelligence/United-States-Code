@@ -26,7 +26,7 @@ Effective date of deemed election.—An election deemed to have been made under 
 
 (Added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1584.)
 
-#### Section Referred to in Other Sections
+#### Repeal of Section
 
-This section is referred to in section 1458 of this title.
+<i>Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, provided that, effective Apr. 1, 2008, this section is repealed.</i>
 

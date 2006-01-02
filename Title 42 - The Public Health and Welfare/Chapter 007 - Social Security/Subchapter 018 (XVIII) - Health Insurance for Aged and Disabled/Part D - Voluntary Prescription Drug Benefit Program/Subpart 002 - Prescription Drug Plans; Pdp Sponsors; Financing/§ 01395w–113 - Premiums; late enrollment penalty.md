@@ -72,7 +72,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The monthly national average monthly bid amount computed under subparagraph (A) for a year shall be a weighted average, with the weight for each plan being equal to the average number of part D eligible individuals enrolled in such plan in the reference month (as defined in section 1395w–27a(f)(4) of this title).
+&emsp;&emsp;&emsp;The monthly national average monthly bid amount computed under subparagraph (A) for a year shall be a weighted average, with the weight for each plan being equal to the average number of part D eligibleindividuals enrolled in such plan in the reference month (as defined in section 1395w–27a(f)(4) of this title).
 
 #### (ii) Special rule for 2006
 
@@ -162,7 +162,7 @@
 
 #### (5) Actuarial equivalence requirement
 
-&emsp;Coverage meets the requirement of this paragraph only if the coverage is determined (in a manner specified by the Secretary) to provide coverage of the cost of prescription drugs the actuarial value of which (as defined by the Secretary) to the individual equals or exceeds the actuarial value of standard prescription drug coverage (as determined under section 1395w–111(c) of this title).
+&emsp;Coverage meets the requirement of this paragraph only if the coverage is determined (in a manner specified by the Secretary) toprovide coverage of the cost of prescription drugs the actuarial value of which (as defined by the Secretary) to the individual equals or exceeds the actuarial value of standard prescription drug coverage (as determined under section 1395w–111(c) of this title).
 
 #### (6) Procedures to document creditable prescription drug coverage
 

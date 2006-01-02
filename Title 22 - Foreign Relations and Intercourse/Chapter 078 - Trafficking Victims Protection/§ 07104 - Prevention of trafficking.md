@@ -46,17 +46,19 @@ The President shall consult with appropriate nongovernmental organizations with 
 
 #### (g) Termination of certain grants, contracts and cooperative agreements
 
-#### (1) Termination
+The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement.
 
-&emsp;The President shall ensure that any grant, contract, or cooperative agreement provided or entered into by a Federal department or agency under which funds described in paragraph (2) are to be provided to a private entity, in whole or in part, shall include a condition that authorizes the department or agency to terminate the grant, contract, or cooperative agreement, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement.
+#### (h) Prevention of trafficking in conjunction with post-conflict and humanitarian emergency assistance
 
-#### (2) Assistance described
+The United States Agency for International Development, the Department of State, and the Department of Defense shall incorporate anti-trafficking and protection measures for vulnerable populations, particularly women and children, into their post-conflict and humanitarian emergency assistance and program activities.
 
-&emsp;Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).
-
-(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875.)
+(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569.)
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–164, §201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
+
+Subsec. (h). Pub. L. 109–164, §101(a), added subsec. (h).
 
 2003—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
 

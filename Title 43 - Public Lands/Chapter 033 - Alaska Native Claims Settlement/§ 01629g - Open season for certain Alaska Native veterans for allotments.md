@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal <sup>1</sup> land totaling 160 acres or less under the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect before December 18, 1971.
+(1) During the eighteen month period following promulgation of implementing rules pursuant to subsection (e) of this section, a person described in subsection (b) of this section shall be eligible for an allotment of not more than two parcels of federal <sup>1</sup> land totaling 160 acres or lessunder the Act of May 17, 1906 (chapter 2469; 34 Stat. 197), as such Act was in effect before December 18, 1971.
 
 (2) Allotments may be selected only from lands that were vacant, unappropriated, and unreserved on the date when the person eligible for the allotment first used and occupied those lands.
 

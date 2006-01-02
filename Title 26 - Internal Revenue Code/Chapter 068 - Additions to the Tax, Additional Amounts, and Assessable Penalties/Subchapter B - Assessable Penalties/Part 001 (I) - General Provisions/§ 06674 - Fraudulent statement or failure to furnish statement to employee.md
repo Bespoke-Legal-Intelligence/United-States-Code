@@ -12,7 +12,3 @@ In addition to the criminal penalty provided by section 7204, any person require
 
 Amendment by section 313 of Pub. L. 89–97 applicable only with respect to tips received by employees after 1965, see section 313(f) of Pub. L. 89–97, set out as a note under section 6053 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6051, 7204 of this title.
-

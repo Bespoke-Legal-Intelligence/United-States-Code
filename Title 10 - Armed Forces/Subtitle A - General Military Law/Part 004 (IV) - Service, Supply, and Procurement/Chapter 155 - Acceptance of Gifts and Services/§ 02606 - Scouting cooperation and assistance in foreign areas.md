@@ -6,7 +6,7 @@
 
 (c) Personnel of a qualified scouting organization, including officials certified by that organization as representing that organization, who are performing duties in connection with cooperation and assistance provided under subsection (a) may be furnished—
 
-&emsp;(1) transportation at the expense of the United States while traveling to and from, and while performing, such duties in the samemanner as civilian employees of the United States; and
+&emsp;(1) transportation at the expense of the United States while traveling to and from, and while performing, such duties in the same manner as civilian employees of the United States; and
 
 &emsp;(2) available office space (including space for recreational activities for Boy Scouts and Girl Scouts), warehousing, utilities, and a means of communication, without charge.
 

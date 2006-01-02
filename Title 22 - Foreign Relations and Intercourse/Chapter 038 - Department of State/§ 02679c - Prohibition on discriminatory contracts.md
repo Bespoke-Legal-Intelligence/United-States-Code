@@ -10,7 +10,7 @@
 
 (2) For purposes of this section—
 
-&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 2407(a) of title 50, Appendix, prohibits a United States person from taking, except that for purposes of this paragraph, the term“United States person” as used in subparagraphs (B) and (C) of section 2407(a)(1) of title 50, Appendix, shall be deemed to mean “person”; and
+&emsp;(A) a foreign person complies with the boycott of Israel by Arab League countries when that foreign person takes or knowingly agrees to take any action, with respect to the boycott of Israel by Arab League countries, which section 2407(a) of title 50, Appendix, prohibits a United States person from taking, except that for purposes of this paragraph, the term “United States person” as used in subparagraphs (B) and (C) of section 2407(a)(1) of title 50, Appendix, shall be deemed to mean “person”; and
 
 &emsp;(B) the term “foreign person” means any person other than a United States person as defined in section 2415(2) of title 50, Appendix.
 

@@ -8,13 +8,13 @@ The Attorney General may make grants to States, for use by States, State and loc
 
 Of the amounts appropriated for the purposes of this subchapter—
 
-&emsp;(1) 5 percent shall be available for grants to Indian tribal governments;
+&emsp;(1) Ten percent shall be available for grants under the program authorized in section 3796gg–10 of this title.<sup>1</sup> The requirements of this subchapter shall not apply to funds allocated for such program.
 
-&emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, and the coalition for the combined Territories of the UnitedStates, each receiving an amount equal to 1/54 of the total amount made available under this paragraph for each fiscal year;
+&emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, and the coalition for the combined Territories of the United States, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
-&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, and the coalition for the combined Territories of the United States, each receiving an amount equal to 1/54 of the total amount made available under this paragraph for each fiscal year;
+&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 3796gg(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
-&emsp;(4) 1/54 shall be available for grants under section 3796gg(d) of this title;
+&emsp;(4) 1/56 shall be available for grants under section 3796gg(d) of this title;
 
 &emsp;(5) $600,000 shall be available for grants to applicants in each State; and
 
@@ -26,13 +26,13 @@ Upon satisfying the terms of subsection (d) of this section, any State shall be 
 
 &emsp;(1) the funds shall be used for any of the purposes described in section 3796gg(b) of this title;
 
-&emsp;(2) grantees and subgrantees shall develop a plan for implementation and shall consult and coordinate with nonprofit, nongovernmental victim services programs, including sexual assault and domestic violence victim services programs;
+&emsp;(2) grantees and subgrantees shall develop a plan for implementation and shall consult and coordinate with nonprofit, nongovernmental victim services programs, including sexual assault and domestic violence victim services programs and describe how the State will address the needs of underserved populations;
 
 &emsp;(3) of the amount granted—
 
-&emsp;&emsp;(A) not less than 25 percent shall be allocated to police and not less than 25 percent shall be allocated to prosecutors;
+&emsp;&emsp;(A) not less than 25 percent shall be allocated to law enforcement and not less than 25 percent shall be allocated to prosecutors;
 
-&emsp;&emsp;(B) not less than 30 percent shall be allocated to victim services; and
+&emsp;&emsp;(B) not less than 30 percent shall be allocated to victim services, of which at least 10 percent shall be distributed to culturally specific community-based organization; <sup>2</sup> and
 
 &emsp;&emsp;(C) not less than 5 percent shall be allocated for State and local courts (including juvenile courts); and
 
@@ -40,7 +40,7 @@ Upon satisfying the terms of subsection (d) of this section, any State shall be 
 
 #### (d) Application requirements
 
-The application requirements provided in section 3763 <sup>1</sup> of this title shall apply to grants made under this subchapter. In addition, each application shall include the certifications of qualification required by subsection (c) of this section, including documentation from nonprofit, nongovernmental victim services programs, describing their participation in developing the plan required by subsection (c)(2) of this section. An application shall include—
+The application requirements provided in section 3763 <sup>1</sup> of this title shall apply to grants made under this subchapter. In addition, each application submitted by a State shall include the certifications of qualification required by subsection (c) of this section, including documentation from nonprofit, nongovernmental victim services programs, describing their participation in developing the plan required by subsection (c)(2) of this section. In addition, each application submitted by a State or tribal government shall include—
 
 &emsp;(1) documentation from the prosecution, law enforcement, court, and victim services programs to be assisted, demonstrating—
 
@@ -52,9 +52,11 @@ The application requirements provided in section 3763 <sup>1</sup> of this titl
 
 &emsp;&emsp;(D) demographic characteristics of the populations to be served, including age, marital status, disability, race, ethnicity and language background;
 
-&emsp;(2) proof of compliance with the requirements for the payment of forensic medical exams provided in section 3796gg–4 of this title; and
+&emsp;(2) proof of compliance with the requirements for the payment of forensic medical exams provided in section 3796gg–4 of this title; and <sup>3</sup>
 
-&emsp;(3) proof of compliance with the requirements for paying filing and service fees for domestic violence cases provided in section 3796gg–5 of this title.
+&emsp;(3) proof of compliance with the requirements for paying filing and service fees for domestic violence cases provided in section 3796gg–5 of this title; and
+
+&emsp;(4) documentation showing that tribal, territorial, State or local prosecution, law enforcement, and courts have consulted with tribal, territorial, State, or local victim service programs during the course of developing their grant applications in order to ensure that proposed services, activities and equipment acquisitions are designed to promote the safety, confidentiality, and economic independence of victims of domestic violence, sexual assault, stalking, and dating violence.
 
 #### (e) Disbursement
 
@@ -76,7 +78,7 @@ The application requirements provided in section 3763 <sup>1</sup> of this titl
 
 &emsp;&emsp;(C) equitably distribute monies on a geographic basis including nonurban and rural areas of various geographic sizes; and
 
-&emsp;&emsp;(D) recognize and address the needs of underserved populations.
+&emsp;&emsp;(D) recognize and meaningfully respond to the needs of underserved populations and ensure that monies set aside to fund linguistically and culturally specific services and activities for underserved populations are distributed equitably among those populations.
 
 #### (f) Federal share
 
@@ -84,7 +86,7 @@ The Federal share of a grant made under this subchapter <sup>1</sup> may not ex
 
 #### (g) Indian tribes
 
-Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter.
+Funds appropriated by the Congress for the activities of any agency of an Indian tribal government or of the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federalshare of the cost of programs or projects funded under this subchapter.
 
 #### (h) Grantee reporting
 
@@ -106,15 +108,55 @@ Funds appropriated by the Congress for the activities of any agency of an Indian
 
 &emsp;&emsp;(C) a report under paragraph (1) or accompanying assessments demonstrate to the Attorney General that the program is ineffective or financially unsound.
 
-(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276.)
+#### (i) Training, technical assistance, and data collection
+
+#### (1) In general
+
+&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent shall be available for providing training and technical assistance relating to the purpose areas of this subchapter to improve the capacity of grantees, subgrantees and other entities.
+
+#### (2) Indian training
+
+&emsp;The Director of the Office on Violence Against Women shall ensure that training or technical assistance regarding violence against Indian women will be developed and provided by entities having expertise in tribal law, customary practices, and Federal Indian law.
+
+(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108.)
 
 #### References in Text
+
+Section 3796gg–10 of this title, referred to in subsec. (b)(1), was in the original a reference to section 2007 and was translated as meaning the section 2007 of Pub. L. 90–351, as added by Pub. L. 109–162, §906(a), to reflect the probable intent of Congress. Another section 2007 of Pub. L. 90–351, as added by Pub. L. 103–322, §40121(a)(3), is classified to this section.
 
 This subchapter, referred to in subsecs. (c)(4), the second place it appears, and (f), was in the original “this subtitle”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
 
 Section 3763 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 3763 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, §1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
 
+#### Codification
+
+Another section 2007 of Pub. L. 90–351 is classified to section 3796gg–10 of this title.
+
 #### Amendments
+
+2006—Subsec. (b)(1). Pub. L. 109–162, §906(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “10 percent shall be available for grants to Indian tribal governments;”.
+
+Pub. L. 109–162, §101(d)(1)(A), substituted “10 percent” for “5 percent”.
+
+Subsec. (b)(2). Pub. L. 109–162, §101(d)(1)(B), substituted “1/56” for “1/54”.
+
+Subsec. (b)(3). Pub. L. 109–162, §101(d)(1)(C), substituted “coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56” for “and the coalition for the combined Territories of the United States, each receiving an amount equal to 1/54”.
+
+Subsec. (b)(4). Pub. L. 109–162, §101(d)(1)(D), substituted “1/56” for “1/54”.
+
+Subsec. (c)(2). Pub. L. 109–162, §101(c)(1), inserted “and describe how the State will address the needs of underserved populations” before semicolon at end.
+
+Subsec. (c)(3)(A). Pub. L. 109–162, §1134(a)(1), substituted “law enforcement” for “police”.
+
+Subsec. (c)(3)(B). Pub. L. 109–162, §101(d)(2), inserted “, of which at least 10 percent shall be distributed to culturally specific community-based organization” after “victim services”.
+
+Subsec. (d). Pub. L. 109–162, §1134(a)(2), inserted “submitted by a State” after “each application” in second sentence and substituted “In addition, each application submitted by a State or tribal government” for “An application” in third sentence.
+
+Subsec. (d)(4). Pub. L. 109–162, §101(d)(3), added par. (4).
+
+Subsec. (e)(2)(D). Pub. L. 109–162, §101(c)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “recognize and address the needs of underserved populations.”
+
+Subsec. (i). Pub. L. 109–162, §101(e), added subsec. (i).
 
 2004—Pub. L. 108–405, §310(b), made technical amendment to directory language of Pub. L. 107–273, §402(2), which renumbered this section as section 2007 of Pub. L. 90–351.
 
@@ -147,4 +189,8 @@ Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276, provided 
 Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as an Effective Date note under section 3796gg–0 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “organizations;”.</i>
+
+<i><sup>3</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

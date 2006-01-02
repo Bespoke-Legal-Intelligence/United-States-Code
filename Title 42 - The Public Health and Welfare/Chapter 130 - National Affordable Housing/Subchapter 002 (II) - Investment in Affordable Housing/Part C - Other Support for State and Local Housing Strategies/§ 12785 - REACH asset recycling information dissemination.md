@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall make available upon request by any participating jurisdiction a list of eligible properties that are located within the jurisdiction and that are owned or controlled by the Department of Housing and Urban Development to facilitate the purchase, development, orrehabilitation of such properties with assistance made available under this subchapter.
+The Secretary shall make available upon request by any participating jurisdiction a list of eligible properties that are located within the jurisdiction and that are owned or controlled by the Department of Housing and Urban Development to facilitate the purchase, development, or rehabilitation of such properties with assistance made available under this subchapter.
 
 #### (b) Eligible properties
 

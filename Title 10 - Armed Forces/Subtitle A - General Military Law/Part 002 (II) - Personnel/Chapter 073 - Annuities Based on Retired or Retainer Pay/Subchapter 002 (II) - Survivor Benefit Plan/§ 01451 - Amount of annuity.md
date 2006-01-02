@@ -18,11 +18,21 @@ Beneficiary 62 years of age or older.—
 
 &emsp;&emsp;&emsp;(i)
 
-General rule.—If the beneficiary (other than a dependent child) is 62 years of age or older when becoming entitled to the annuity, the monthly annuity shall be the amount equal to 35 percent of the base amount.
+General rule.—If the beneficiary (other than a dependent child) is 62 years of age or older when becoming entitled to the annuity, the monthly annuity shall be the amount equal to the product of the base amount and the percent applicable to the month, as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) For a month before October 2005, the applicable percent is 35 percent.
+
+&emsp;&emsp;&emsp;&emsp;(II) For months after September 2005 and before April 2006, the applicable percent is 40 percent.
+
+&emsp;&emsp;&emsp;&emsp;(III) For months after March 2006 and before April 2007, the applicable percent is 45 percent.
+
+&emsp;&emsp;&emsp;&emsp;(IV) For months after March 2007 and before April 2008, the applicable percent is 50 percent.
+
+&emsp;&emsp;&emsp;&emsp;(V) For months after March 2008, the applicable percent is 55 percent.
 
 &emsp;&emsp;&emsp;(ii)
 
-Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
+Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
 &emsp;(2)
 
@@ -44,7 +54,7 @@ Beneficiary 62 years of age or older.—
 
 General rule.—If the beneficiary (other than a dependent child) is 62 years of age or older when becoming entitled to the annuity, the monthly annuity shall be the amount equal to a percentage of the base amount that—
 
-&emsp;&emsp;&emsp;&emsp;(I) is less than 35 percent; and
+&emsp;&emsp;&emsp;&emsp;(I) is less than the percent specified under subsection (a)(1)(B)(i) as being applicable for the month; and
 
 &emsp;&emsp;&emsp;&emsp;(II) is determined under subsection (f).
 
@@ -104,11 +114,11 @@ Beneficiary 62 years of age or older.—
 
 &emsp;&emsp;&emsp;(i)
 
-General rule.—If the person receiving the annuity (other than a dependent child) is 62 years of age or older when the member or former member dies, the monthly annuity shall be the amount equal to 35 percent of the retired pay to which the member or former member would have been entitled as determined under subparagraph (A).
+General rule.—If the person receiving the annuity (other than a dependentchild) is 62 years of age or older when the member or former member dies, the monthly annuity shall be the amount equal to the applicable percent of the retired pay to which the member or former member would have been entitled as determined under subparagraph (A). The percent applicable for a month under the preceding sentence is the percent specified under subsection (a)(1)(B)(i) as being applicable for that month.
 
 &emsp;&emsp;&emsp;(ii)
 
-Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
+Rule if beneficiary eligible for social security offset computation.—If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
 &emsp;(2)
 
@@ -134,9 +144,9 @@ Reduction required.—The annuity of a person whose annuity is computed under su
 
 Amount of annuity as reduced.—
 
-&emsp;&emsp;(A) 35
+&emsp;&emsp;(A)
 
-percent annuity.—Except as provided in subparagraph (B), the reducedamount of the annuity shall be the amount of the annuity that the person would be receiving on that date if the annuity had initially been computed under subparagraph (B) of that subsection.
+Computation of annuity.—Except as provided in subparagraph (B), the reduced amount of the annuity shall be the amount of the annuity that the person would be receiving on that date if the annuity had initially been computed under subparagraph (B) of that subsection.
 
 &emsp;&emsp;(B)
 
@@ -236,7 +246,7 @@ Increases in annuities when retired pay increased.—Whenever retired pay is inc
 
 &emsp;&emsp;(B)
 
-Percentage of increase.—The increase shall, in the case of any annuity, be by the same percent as the percent by whichthe retired pay of the person providing the annuity would have been increased at such time if the person were alive (and otherwise entitled to such pay).
+Percentage of increase.—The increase shall, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at such time if the person were alive (and otherwise entitled to such pay).
 
 &emsp;&emsp;(C)
 
@@ -274,7 +284,7 @@ Disregarding of retired pay reductions for retirement of certain members before 
 
 Recomputation of Annuity for Certain Beneficiaries.—In the case of an annuity under the Plan which is computed on the basis of the retired pay of a person who would have been entitled to have that retired pay recomputed under section 1410 of this title upon attaining 62 years of age, but who dies before attaining that age, the annuity shall be recomputed, effective on the first day of the first month beginning after the date on which the member or former member would have attained 62 years of age, so as to be the amount equal to the amount of the annuity that would be in effect on that date if increases under subsection (h)(1) in the base amount applicable to that annuity to the time of the death of the member or former member, and increases in such annuity under subsection (g)(1), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 709; amended Pub. L. 94–496, §1(4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §204, Sept. 30, 1978, 92 Stat. 846; Pub. L. 96–402, §3, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–22, §11(a)(4), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §922(a)(14)(B), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §641(a), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title VII, §711(a), (b), Nov. 8, 1985, 99 Stat. 666, 670; Pub. L. 99–348, title III, §301(a)(2), (b), (c), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title VI, §642(b), title XIII, §1343(a)(8)(D), Nov. 14, 1986, 100 Stat. 3886, 3992; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–224, §3(a), (c), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 100–456, div. A, title VI, §652(a), Sept. 29, 1988, 102 Stat. 1991; Pub. L. 101–189, div. A, title XIV, §§1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, 103 Stat. 1579, 1588, 1589; Pub. L. 103–337, div. A, title X, §1070(e)(4), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2566; Pub. L. 105–85, div. A, title X, §1073(a)(28), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title VI, §643(a)(1), Oct. 5, 1999, 113 Stat. 663; Pub. L. 107–107, div. A, title VI, §642(b), (c)(2), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 107–314, div. A, title X, §1062(a)(6), Dec. 2, 2002, 116 Stat. 2650.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 709; amended Pub. L. 94–496, §1(4), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §204, Sept. 30, 1978, 92 Stat. 846; Pub. L. 96–402, §3, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–22, §11(a)(4), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §922(a)(14)(B), Sept. 24, 1983, 97 Stat. 642; Pub. L. 98–525, title VI, §641(a), Oct. 19, 1984, 98 Stat. 2545; Pub. L. 99–145, title VII, §711(a), (b), Nov. 8,1985, 99 Stat. 666, 670; Pub. L. 99–348, title III, §301(a)(2), (b), (c), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title VI, §642(b), title XIII, §1343(a)(8)(D), Nov. 14, 1986, 100 Stat. 3886, 3992; Pub. L. 100–26, §7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–224, §3(a), (c), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 100–456, div. A, title VI, §652(a), Sept. 29, 1988, 102 Stat. 1991; Pub. L. 101–189, div. A, title XIV, §§1403(a), 1407(a)(5)–(8), (b)(1), Nov. 29, 1989, 103 Stat. 1579, 1588, 1589; Pub. L. 103–337, div. A, title X, §1070(e)(4), Oct. 5, 1994, 108 Stat. 2859; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2566; Pub. L. 105–85, div. A, title X, §1073(a)(28), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 106–65, div. A, title VI, §643(a)(1), Oct. 5, 1999, 113 Stat. 663; Pub. L. 107–107, div. A, title VI, §642(b), (c)(2), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 107–314, div. A, title X, §1062(a)(6), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §644(a), Oct. 28, 2004, 118 Stat. 1960.)
 
 #### References in Text
 
@@ -283,6 +293,18 @@ The Social Security Act, referred to in subsec. (e)(3)(A), (4)(A), is act Aug. 1
 Section 6413(c) of the Internal Revenue Code of 1986, referred to in subsec. (e)(4)(B)(ii), is classified to section 6413(c) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2004—Subsec. (a)(1)(B)(i). Pub. L. 108–375, §644(a)(1)(A), substituted “the product of the base amount and the percent applicable to the month, as follows:” and subcls. (I) to (V) for “35 percent of the base amount.”
+
+Subsec. (a)(1)(B)(ii). Pub. L. 108–375, §644(a)(1)(B), struck out “, at the time the beneficiary becomes entitled to the annuity,” after “subsection (e) and if”.
+
+Subsec. (a)(2)(B)(i)(I). Pub. L. 108–375, §644(a)(2), substituted “the percent specified under subsection (a)(1)(B)(i) as being applicable for the month” for “35 percent”.
+
+Subsec. (c)(1)(B)(i). Pub. L. 108–375, §644(a)(3)(A), substituted “the applicable percent” for “35 percent” and inserted at end “The percent applicable for a month under the preceding sentence is the percent specified under subsection (a)(1)(B)(i) as being applicable for that month.”
+
+Subsec. (c)(1)(B)(ii). Pub. L. 108–375, §644(a)(3)(B), struck out “, at the time the beneficiary becomes entitled to the annuity,” after “subsection (e) and if”.
+
+Subsec. (d)(2)(A). Pub. L. 108–375, §644(a)(4), substituted “Computation of annuity” for “35 percent annuity” in heading.
 
 2002—Subsec. (c)(3). Pub. L. 107–314 struck out “section” before “clause (ii)”.
 
@@ -344,7 +366,7 @@ Subsec. (c)(1)(A). Pub. L. 99–661, §642(b)(2)(A), inserted “or is a depende
 
 Subsec. (c)(1)(B). Pub. L. 99–661, §642(b)(2)(B), inserted “(other than a dependent child)”.
 
-Subsec. (g)(1). Pub. L. 99–348, §301(b), struck out “by the same total percent” after “same time” in first sentence, and inserted provision that the increase, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at such time if the person were alive, and otherwise entitled to such pay.
+Subsec. (g)(1). Pub. L. 99–348, §301(b), struck out “by the same total percent” after “same time” in first sentence, and inserted provision that the increase, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providingthe annuity would have been increased at such time if the person were alive, and otherwise entitled to such pay.
 
 Subsecs. (h), (i). Pub. L. 99–348, §301(a)(2), (c), added subsecs. (h) and (i).
 
@@ -412,7 +434,7 @@ Amendment by Pub. L. 96–402 effective Dec. 1, 1980, applicable to annuities pa
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuities payable by virtue of amendment for months beginning on or after such date, see section 210 of Pub. L. 95–397, set out as a note under section 1447 of this title.
+Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuities payable by virtue of amendment for months beginning on or after such date, seesection 210 of Pub. L. 95–397, set out as a note under section 1447 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -445,8 +467,4 @@ Persons Eligible for Recomputation.—A person is eligible to have an annuity un
 “(d)
 
 Effective Date.—An annuity recomputed under subsection (b) shall take effect as so recomputed on March 1, 1990.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1448, 1450, 1452, 1457, 1458 of this title.
 

@@ -34,10 +34,6 @@ Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to c
 
 Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012, added chapter 6 heading and analysis.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 721, 3013, 3033, 5013, 5033, 5043, 8013, 8033 of this title.
-
 
 ---
 

@@ -18,7 +18,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of providing assistance to a family under the State program funded under this part, that a member of the family assign to the State any rights the family member mayhave (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so provided to the family, which accrue (or have accrued) before the date the family ceases to receive assistance under the program, which assignment, on and after such date, shall not apply with respect to any support (other than support collected pursuant to section 664 of this title) which accrued before the family received such assistance and which the State has not collected by—
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall require, as a condition of providing assistance to a family under the State program funded under this part, that a member of the family assign to the State any rights the family member may have (on behalf of the family member or of any other person for whom the family member has applied for or is receiving such assistance) to support from any other person, not exceeding the total amount of assistance so provided to the family, which accrue (or have accrued) before the date the family ceases to receive assistance under the program, which assignment, on and after such date, shall not apply with respect to any support (other than support collected pursuant to section 664 of this title) which accrued before the family received such assistance and which the State has not collected by—
 
 &emsp;&emsp;&emsp;(i)(I) September 30, 2000, if the assignment is executed on or after October 1, 1997, and before October 1, 2000; or
 
@@ -28,7 +28,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, as a condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrue after the date the family ceases to receive assistance under the program.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, as a condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrueafter the date the family ceases to receive assistance under the program.
 
 #### (4) No assistance for teenage parents who do not attend high school or other equivalent training program
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) substantial evidence exists of an act or failure to act that presents an imminent or serious harm if the individual and the minor child lived in the same residence with the individual's own parent or legal guardian; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest ofthe minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
+&emsp;&emsp;&emsp;&emsp;(IV) the State agency otherwise determines that it is in the best interest of the minor child to waive the requirement of subparagraph (A) with respect to the individual or the minor child.
 
 #### (iii) Second-chance home
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to fundsprovided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
 
 #### (B) Minor child exception
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to any individual who is—
 
-&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or an attempt to commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
+&emsp;&emsp;&emsp;(i) fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the place from which the individual flees, for a crime, or an attemptto commit a crime, which is a felony under the laws of the place from which the individual flees, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State; or
 
 &emsp;&emsp;&emsp;(ii) violating a condition of probation or parole imposed under Federal or State law.
 
@@ -340,7 +340,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 Each State to which a grant is made under section 603 of this title shall, at least 4 times annually and upon request of the Immigration and Naturalization Service, furnish the Immigration and Naturalization Service with the name and address of, and other identifying information on, any individual who the State knows is not lawfully present in the United States.
 
-(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642.)
+(Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642.)
 
 #### References in Text
 
@@ -360,7 +360,7 @@ Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act 
 
 #### Prior Provisions
 
-A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(a), 103 Stat. 2454; amended Oct. 31, 1994, Pub. L. 103–432, title II, §265(a), 108 Stat. 4469, related to AFDC quality control system, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 19, 1989, Pub. L. 101–239, title VIII,§8004(a), 103 Stat. 2454; amended Oct. 31, 1994, Pub. L. 103–432, title II, §265(a), 108 Stat. 4469, related to AFDC quality control system, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
 
@@ -420,7 +420,7 @@ In General.—Except as provided in subsection (b), the amendments made by this 
 
 “(b)
 
-Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall takeeffect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112). The amendment made by section 5536(1)(A) \[amending section 666 of this title\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select.”
+Exception.—The amendments made by section 5532(b)(2) of this Act \[amending this section\] shall take effect as if the amendments had been included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2112). The amendment made by section 5536(1)(A) \[amending section 666 of this title\] shall not take effect with respect to a State until October 1, 2000, or such earlier date as the State may select.”
 
 \[Pub. L. 105–200, title IV, §410(e)(2), July 16, 1998, 112 Stat. 673, provided that: “The amendment made by paragraph (1) \[amending section 5557 of Pub. L. 105–33, set out above\] shall take effect as if included in the enactment of section 5557 of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 637).”\]
 

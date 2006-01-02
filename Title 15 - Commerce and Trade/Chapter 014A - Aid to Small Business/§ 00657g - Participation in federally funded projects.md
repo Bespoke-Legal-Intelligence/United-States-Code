@@ -8,3 +8,7 @@ Any small business concern that is certified, or otherwise meets the criteria fo
 
 Section was enacted as part of the Small Business Reauthorization and Manufacturing Assistance Act of 2004, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Small Business Act which comprises this chapter.
 
+#### Notice Regarding Participation of Small Business Concerns
+
+Pub. L. 109–59, title X, §10201, Aug. 10, 2005, 119 Stat. 1932, provided that: “The Secretary \[of Transportation\] shall notify each State or political subdivision of a State to which the Secretary awards a grant or other Federal funds of the criteria for participation by a small business concern in any program or project that is funded, in whole or in part, by the Federal Government under section 155 of the Small Business Reauthorization and Manufacturing Assistance Act of 2004 (15 U.S.C. 567g \[657g\]).”
+

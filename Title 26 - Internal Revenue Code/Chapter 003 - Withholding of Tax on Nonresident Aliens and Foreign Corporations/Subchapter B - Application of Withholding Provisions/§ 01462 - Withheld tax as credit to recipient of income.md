@@ -4,7 +4,3 @@ Income on which any tax is required to be withheld at the source under this chap
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 360.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6513 of this title.
-

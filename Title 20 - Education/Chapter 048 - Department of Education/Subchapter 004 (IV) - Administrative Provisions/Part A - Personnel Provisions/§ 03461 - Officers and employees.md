@@ -26,13 +26,13 @@ Notwithstanding any other provision of law, the Director of the Office of Person
 
 Nothing in this chapter shall be construed to prevent the application of any Indian preference law in effect on the day before October 17, 1979, to any function or office transferred by this chapter and subject to any such law on the day before October 17, 1979. Any function or office transferred by this chapter and subject to any such law shall continue to be subject to any such law.
 
-(Pub. L. 96–88, title IV, §401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, §1204(a)(1),Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, §271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 96–88, title IV, §401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, §271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.)
 
 #### References in Text
 
 The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
-Section 414(a)(3)(A) of the Civil Service Reform Act of 1978, referred to in subsec. (b)(5), is section 414(a)(3)(A) of Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1178, which is set out as a note under sections 3104 and 5108 of Title 5.
+Section 414(a)(3)(A) of the Civil Service Reform Act of 1978, referred to in subsec. (b)(5), is section 414(a)(3)(A) of Pub. L. 95–454, title IV, Oct. 13, 1978, 92 Stat. 1178,which is set out as a note under sections 3104 and 5108 of Title 5.
 
 #### Codification
 

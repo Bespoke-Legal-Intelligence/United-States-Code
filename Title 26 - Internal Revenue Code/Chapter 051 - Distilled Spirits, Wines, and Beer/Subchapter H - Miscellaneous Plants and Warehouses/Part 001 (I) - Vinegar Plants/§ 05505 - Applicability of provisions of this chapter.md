@@ -26,7 +26,7 @@ The provisions of section 5553(a) relating to the assignment of internal revenue
 
 #### (g) Authority to waive records, statements, and returns
 
-The provisions of section 5555(b) relating to the authority of the Secretary to waive records,statements, and returns shall be applicable to records, statements, or returns required by this part.
+The provisions of section 5555(b) relating to the authority of the Secretary to waive records, statements, and returns shall be applicable to records, statements, or returns required by this part.
 
 #### (h) Regulations
 
@@ -69,8 +69,4 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 63
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5003, 5061 of this title.
 

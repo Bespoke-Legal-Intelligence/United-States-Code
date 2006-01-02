@@ -64,7 +64,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 #### (4) Finding of insufficient assertions
 
-&emsp;(A) If the Administrator determines pursuant to paragraph (2) that the explanation presents insufficient assertions to support a finding that the specific chemical identity is a trade secret, the Administrator shall notify the trade secret claimant that he has 30 days to appeal the determination to the Administrator, or, upon a showing of good cause, amend the original explanation by providing supplementary assertions to support the trade secret claim.
+&emsp;(A) If the Administrator determines pursuant to paragraph (2) that the explanation presents insufficient assertions to support a finding that the specific chemical identity is a trade secret, the Administrator shall notifythe trade secret claimant that he has 30 days to appeal the determination to the Administrator, or, upon a showing of good cause, amend the original explanation by providing supplementary assertions to support the trade secret claim.
 
 &emsp;(B) If the Administrator does not reverse his determination under subparagraph (A) after an appeal or an examination of any supplementary assertions under subparagraph (A), the Administrator shall so notify the trade secret claimant and the trade secret claimant may seek judicial review of the determination.
 

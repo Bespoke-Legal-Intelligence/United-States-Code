@@ -12,7 +12,7 @@ For purposes of part V of subchapter B of chapter 1 and those provisions of this
 
 For purposes of those provisions of this title which refer to this subsection, if—
 
-&emsp;(1) an individual who is married (within the meaning of subsection (a)) and who files a separate return maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a child (within the meaning of section 151(c)(3)) with respect to whom such individual is entitled to a deduction for the taxable year under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)),
+&emsp;(1) an individual who is married (within the meaning of subsection (a)) and who files a separate return maintains as his home a household which constitutes for more than one-half of the taxable year the principal place of abode of a child (within the meaning of section 152(f)(1)) with respect to whom such individual is entitled to a deduction for the taxable year under section 151 (or would be so entitled but for section 152(e)),
 
 &emsp;(2) such individual furnishes over one-half of the cost of maintaining such household during the taxable year, and
 
@@ -20,7 +20,7 @@ For purposes of those provisions of this title which refer to this subsection, i
 
 > such individual shall not be considered as married.
 
-(Added Pub. L. 99–514, title XIII, §1301(j)(2)(A), Oct. 22, 1986, 100 Stat. 2657; amended Pub. L. 100–647, title I, §1018(u)(41), Nov. 10, 1988, 102 Stat. 3592.)
+(Added Pub. L. 99–514, title XIII, §1301(j)(2)(A), Oct. 22, 1986, 100 Stat. 2657; amended Pub. L. 100–647, title I, §1018(u)(41), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 108–311, title II, §207(26), Oct. 4, 2004, 118 Stat. 1178.)
 
 #### Prior Provisions
 
@@ -28,7 +28,13 @@ Provisions relating to determination of marital status were formerly contained i
 
 #### Amendments
 
+2004—Subsec. (b)(1). Pub. L. 108–311 substituted “152(f)(1)” for “151(c)(3)” and struck out “paragraph (2) or (4) of” before “section 152(e)),”.
+
 1988—Subsec. (b)(1). Pub. L. 100–647 substituted “section 151(c)(3)” for “section 151(e)(3)”.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -37,8 +43,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 2, 22, 24, 25A, 32, 55, 62, 63, 68, 86, 135, 151, 152, 153, 194, 221, 222, 879, 1044, 1202, 1398, 3402, 6012, 6103, 6654 of this title; title 38 section 1503; title 42 section 1395r.
 

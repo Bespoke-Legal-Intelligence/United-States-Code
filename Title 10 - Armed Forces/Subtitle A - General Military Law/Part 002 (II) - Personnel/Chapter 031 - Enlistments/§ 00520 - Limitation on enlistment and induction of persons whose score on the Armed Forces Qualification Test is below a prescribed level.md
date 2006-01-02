@@ -2,7 +2,7 @@
 
 (a) The number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in any armed force during any fiscal year whose score on the Armed Forces Qualification Test is at or above the tenth percentile and below the thirty-first percentile may not exceed 20 percent of the total number of persons originally enlisted or inducted to serve on active duty (other than active duty for training) in such armed force during such fiscal year.
 
-(b) A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or above the thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
+(b) A person who is not a high school graduate may not be accepted for enlistment in the armed forces unless the score of that person on the Armed Forces Qualification Test is at or abovethe thirty-first percentile; however, a person may not be denied enlistment in the armed forces solely because of his not having a high school diploma if his enlistment is needed to meet established strength requirements.
 
 (Added Pub. L. 96–342, title III, §302(b)(1), Sept. 8, 1980, 94 Stat. 1082; amended Pub. L. 96–579, §9, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–86, title IV, §402(b)(1), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 98–94, title XII, §1268(3), Sept. 24, 1983, 97 Stat. 705; Pub. L. 100–370, §1(a)(1), July 19, 1988, 102 Stat. 840.)
 
@@ -82,7 +82,7 @@ State Defined.—For purposes of this section, the term ‘State’ includes the
 
 #### Maximum Number of Army Enlistees and Inductees Who Are Not High School Graduates
 
-Section 302(a) of Pub. L. 96–342, as amended by Pub. L. 97–86, title IV, §402(a), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 97–252, title IV, §403, Sept. 8, 1982, 96 Stat. 725; Pub. L. 98–94, title IV, §402, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title IV, §402, Oct. 19, 1984, 98 Stat. 2516; Pub. L. 99–145, title IV, §402, Nov. 8, 1985, 99 Stat. 618, provided that: “The number of male individuals (with no prior military service) enlisted or inducted into the Army during the fiscal year beginning on October 1, 1985, who are not high school graduates may not exceed, as of September 30, 1986, 35 percent of all male individuals (with no prior military service) enlisted or inducted into the Army during such fiscal year.”
+Section 302(a) of Pub. L. 96–342, as amended by Pub. L. 97–86, title IV, §402(a), Dec. 1, 1981, 95 Stat. 1104; Pub. L. 97–252, title IV, §403, Sept. 8, 1982, 96 Stat. 725; Pub.L. 98–94, title IV, §402, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title IV, §402, Oct. 19, 1984, 98 Stat. 2516; Pub. L. 99–145, title IV, §402, Nov. 8, 1985, 99 Stat. 618, provided that: “The number of male individuals (with no prior military service) enlisted or inducted into the Army during the fiscal year beginning on October 1, 1985, who are not high school graduates may not exceed, as of September 30, 1986, 35 percent of all male individuals (with no prior military service) enlisted or inducted into the Army during such fiscal year.”
 
 \[Section 402 of Pub. L. 99–145 provided that amendment of this note by Pub. L. 99–145 is effective Oct. 1, 1985.\]
 
@@ -95,8 +95,4 @@ Section 302(a) of Pub. L. 96–342, as amended by Pub. L. 97–86, title IV, §4
 #### Denial of Enlistment for Lack of High School Diploma Prohibited
 
 Pub. L. 93–307, title IV, §401, June 8, 1974, 88 Stat. 234, as amended by Pub. L. 93–365, title VII, §705, Aug. 5, 1974, 88 Stat. 406, which provided that no volunteer for enlistment into the Armed Forces shall be denied enlistment solely because of his not having a high school diploma when his enlistment is needed to meet established strength requirements, was repealed and restated in sections 520(b) and 3262 of this title by Pub. L. 100–370, §1(a), July 19, 1988, 102 Stat. 840.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3262 of this title.
 

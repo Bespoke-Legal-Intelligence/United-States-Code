@@ -8,7 +8,7 @@ Prior to taking any action under this chapter, the President shall seek informat
 
 Before—
 
-&emsp;(1) the Trade Representative concludes the investigation conducted under section 3103(a) of this title or takes action under section 3103(c) of this title,
+&emsp;(1) the Trade Representative concludes the investigation conducted under section 3103(a)of this title or takes action under section 3103(c) of this title,
 
 &emsp;(2) the President establishes specific negotiating objectives under section 3104(b) of this title with respect to any foreign country, or
 

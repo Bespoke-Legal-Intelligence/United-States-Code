@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(i) identification, development, evaluation, and dissemination of drug and violence prevention strategies, programs, activities, and other information;
 
-&emsp;&emsp;&emsp;(ii) training, technical assistance, and demonstration projects to address violence that is associated with prejudice and intolerance; and
+&emsp;&emsp;&emsp;(ii) training, technical assistance, and demonstration projects to address violencethat is associated with prejudice and intolerance; and
 
 &emsp;&emsp;&emsp;(iii) financial assistance to enhance drug and violence prevention resources available in areas that serve large numbers of low-income children, are sparsely populated, or have other special needs.
 

@@ -98,7 +98,7 @@ In enrolling a loan under the Program, the participating State shall contribute 
 
 #### (2) Timing
 
-&emsp;Any claim filed under paragraph (1) shall be filed contemporaneously with the action ofthe participating financial institution to charge off all or part of an enrolled loan. The participating financial institution shall determine when and how much to charge off on an enrolled loan, in a manner consistent with its usual method for making such determinations on business loans that are not enrolled loans under this subchapter.
+&emsp;Any claim filed under paragraph (1) shall be filed contemporaneously with the action of the participating financial institution to charge off all or part of an enrolled loan. The participating financial institution shall determine when and how much to charge off on an enrolled loan, in a manner consistent with its usual method for making such determinations on business loans that are not enrolled loans under this subchapter.
 
 #### (<i>l</i>) Elements of claims
 

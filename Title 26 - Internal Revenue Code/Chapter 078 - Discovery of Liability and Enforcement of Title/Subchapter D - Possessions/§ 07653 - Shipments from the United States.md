@@ -44,7 +44,3 @@ Amendment by Pub. L. 86–624 effective Aug. 21, 1959, see section 18(k) of Pub.
 
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L. 86–70, set out as a note under section 3121 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5003 of this title.
-

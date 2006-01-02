@@ -8,7 +8,7 @@ Congress hereby finds and declares that—
 
 &emsp;(3) this chapter will make it possible for equipment in the United States to be inspected, tested, and certified in accordance with the agreement and the standards specified therein; and
 
-&emsp;(4) this chapter will improve the conditions for the movement of perishable foodstuffs in international carriage in equipment owned or operated by United States firms, which will serve to protect existing trade and promote expansion of trade in perishable foodstuffs, and will improve the sale of United States manufactured equipment for use in international carriage.
+&emsp;(4) this chapter will improve the conditions for the movement of perishable foodstuffs ininternational carriage in equipment owned or operated by United States firms, which will serve to protect existing trade and promote expansion of trade in perishable foodstuffs, and will improve the sale of United States manufactured equipment for use in international carriage.
 
 (Pub. L. 97–325, §2, Oct. 15, 1982, 96 Stat. 1603.)
 

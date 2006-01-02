@@ -28,7 +28,3 @@ The penalty imposed by subsection (a) shall be in addition to any other penalty 
 
 Section 326(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to documents filed after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6703 of this title.
-

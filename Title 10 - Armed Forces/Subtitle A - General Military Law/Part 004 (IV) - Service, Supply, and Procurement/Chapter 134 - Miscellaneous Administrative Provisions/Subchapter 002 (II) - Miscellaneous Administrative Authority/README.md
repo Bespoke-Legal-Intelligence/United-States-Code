@@ -9,10 +9,16 @@
 | [2255\.](%C2%A7%2002255%20-%20Aircraft%20accident%20investigation%20boards%20composition%20requirements.md) | Aircraft accident investigation boards: composition requirements. |
 | [2257\.](%C2%A7%2002257%20-%20Use%20of%20recruiting%20materials%20for%20public%20relations.md) | Use of recruiting materials for public relations. |
 | [2259\.](%C2%A7%2002259%20-%20Transit%20pass%20program%20personnel%20in%20poor%20air%20quality%20areas.md) | Transit pass program: personnel in poor air quality areas. |
+| [2260\.](%C2%A7%2002260%20-%20Licensing%20of%20intellectual%20property%20retention%20of%20fees.md) | Licensing of intellectual property: retention of fees. |
+| [2261\.](%C2%A7%2002261%20-%20Presentation%20of%20recognition%20items%20for%20recruitment%20and%20retention%20purposes.md) | Presentation of recognition items for recruitment and retention purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §589(a)(2), Jan. 6, 2006, 119 Stat. 3279, added item 2261.
+
+2004—Pub. L. 108–375, div. A, title X, §1004(b), Oct. 28, 2004, 118 Stat. 2036, added item 2260.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1082(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–285, added item 2259.
 
@@ -34,3 +40,5 @@
 - [&sect; 02255 - Aircraft accident investigation boards composition requirements](%C2%A7%2002255%20-%20Aircraft%20accident%20investigation%20boards%20composition%20requirements.md)
 - [&sect; 02257 - Use of recruiting materials for public relations](%C2%A7%2002257%20-%20Use%20of%20recruiting%20materials%20for%20public%20relations.md)
 - [&sect; 02259 - Transit pass program personnel in poor air quality areas](%C2%A7%2002259%20-%20Transit%20pass%20program%20personnel%20in%20poor%20air%20quality%20areas.md)
+- [&sect; 02260 - Licensing of intellectual property retention of fees](%C2%A7%2002260%20-%20Licensing%20of%20intellectual%20property%20retention%20of%20fees.md)
+- [&sect; 02261 - Presentation of recognition items for recruitment and retention purposes](%C2%A7%2002261%20-%20Presentation%20of%20recognition%20items%20for%20recruitment%20and%20retention%20purposes.md)

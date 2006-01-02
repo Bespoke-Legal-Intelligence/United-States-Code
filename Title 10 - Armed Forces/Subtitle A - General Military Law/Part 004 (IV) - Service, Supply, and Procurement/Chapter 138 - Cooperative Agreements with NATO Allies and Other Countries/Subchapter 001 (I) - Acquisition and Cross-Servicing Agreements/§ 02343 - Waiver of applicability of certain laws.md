@@ -34,7 +34,3 @@ Amendment by Pub. L. 103–337 applicable with regard to any acquisition or tran
 
 Amendment by section 961(b) of Pub. L. 99–145 effective as if included in enactment of Competition in Contracting Act of 1984, Pub. L. 98–369, div. B, title VII, making amendment applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 961(e) of Pub. L. 99–145, set out as a note under section 2304 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2341, 2342 of this title.
-

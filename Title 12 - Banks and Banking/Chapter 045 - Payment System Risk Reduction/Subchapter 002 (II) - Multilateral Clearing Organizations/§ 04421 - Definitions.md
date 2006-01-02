@@ -4,7 +4,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (1) Multilateral clearing organization
 
-&emsp;The term “multilateral clearing organization” means a system utilized by more than two participants in which the bilateral creditexposures of participants arising from the transactions cleared are effectively eliminated and replaced by a system of guarantees, insurance, or mutualized risk of loss.
+&emsp;The term “multilateral clearing organization” means a system utilized by more than two participants in which the bilateral credit exposures of participants arising from the transactions cleared are effectively eliminated and replaced by a system of guarantees, insurance, or mutualized risk of loss.
 
 #### (2) Over-the-counter derivative instrument
 

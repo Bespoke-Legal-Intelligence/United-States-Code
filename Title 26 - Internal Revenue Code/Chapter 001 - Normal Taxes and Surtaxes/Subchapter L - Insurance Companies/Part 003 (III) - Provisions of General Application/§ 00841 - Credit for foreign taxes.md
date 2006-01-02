@@ -44,5 +44,5 @@ Amendment by Pub. L. 86–69 applicable only with respect to taxable years begin
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
+Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
 

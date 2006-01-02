@@ -12,7 +12,7 @@ On 1st engaging in business and thereafter on or before July 1 of each year, eve
 
 #### (1) In general
 
-&emsp;Paragraph (1) of subsection (a) shall be applied by substituting “$500” for “$1,000” with respect to any taxpayer the gross receipts of which (for the most recent taxable year ending before the 1st day of the taxable period to which the tax imposed by subsection (a) relates) are less than $500,000.
+&emsp;Paragraph (1) of subsection (a) shall be applied by substituting “$500” for “$1,000” withrespect to any taxpayer the gross receipts of which (for the most recent taxable year ending before the 1st day of the taxable period to which the tax imposed by subsection (a) relates) are less than $500,000.
 
 #### (2) Controlled group rules
 
@@ -50,13 +50,9 @@ Section 207 of Pub. L. 90–618, as amended by Pub. L. 99–514, §2, Oct. 22, 1
 
 “(a) Section 201 of this title \[enacting this chapter\] shall take effect on the first day of the first month following the month in which it is enacted \[October 1968\].
 
-“(b) Notwithstanding the provisions of subsection (a) or any other provision of law, any person possessing a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this title) which is not registered to him in the National Firearms Registration and Transfer Record shall register each firearm so possessed with the Secretary of the Treasury or his delegate in such form and manner as the Secretary or his delegate may require within the thirty days immediately following the effective date of section 201 of this Act \[see subsec. (a) of this section\].Such registrations shall become a part of the National Firearms Registration and Transfer Record required to be maintained by section 5841 of the Internal Revenue Code of 1986 (as amended by this title). No information or evidence required to be submitted or retained by a natural person to register a firearm under this section shall be used, directly or indirectly, as evidence against such person in any criminal proceeding with respect to a prior or concurrent violation of law.
+“(b) Notwithstanding the provisions of subsection (a) or any other provision of law, any person possessing a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this title) which is not registered to him in the National Firearms Registration and Transfer Record shall register each firearm so possessed with the Secretary of the Treasury or his delegate in such form and manner as the Secretary or his delegate may require within the thirty days immediately following the effective date of section 201 of this Act \[see subsec. (a) of this section\]. Such registrations shall become a part of the National Firearms Registration and Transfer Record required to be maintained by section 5841 of the Internal Revenue Code of 1986 (as amended by this title). No information or evidence required to be submitted or retained by a natural person to register a firearm under this section shall be used, directly or indirectly, as evidence against such person in any criminal proceeding with respect to a prior or concurrent violation of law.
 
 “(c) The amendments made by sections 202 through 206 of this title \[amending sections 6806 and 7273 of this title, repealing sections 5692 and 6107 of this title, and enacting provisions set out as a note under this section\] shall take effect on the date of enactment \[Oct. 22, 1968\].
 
 “(d) The Secretary of the Treasury, after publication in the Federal Register of his intention to do so, is authorized to establish such period of amnesty, not to exceed ninety days in the case of any single period, and immunity from liability during any such period, as the Secretary determines will contribute to the purposes of this title \[adding this chapter, and sections 6806 and 7273 of this title, repealing sections 5692 and 6107 of this title, and enacting provisions set out as notes under this section\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5846, 5851, 5861 of this title.
 

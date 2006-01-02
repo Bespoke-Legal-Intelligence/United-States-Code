@@ -2,7 +2,7 @@
 
 #### (a) Nonduplication
 
-The Secretary shall ensure that facilities constructed using financial assistance provided under this chapter do not duplicate adequate established telemedicine services or distance learning services.
+The Secretary shall ensure that facilities constructed using financial assistance providedunder this chapter do not duplicate adequate established telemedicine services or distance learning services.
 
 #### (b) Loan maturity
 

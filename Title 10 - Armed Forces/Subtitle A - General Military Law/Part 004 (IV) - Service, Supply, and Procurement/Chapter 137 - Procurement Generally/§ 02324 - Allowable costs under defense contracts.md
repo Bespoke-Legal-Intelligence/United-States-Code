@@ -68,7 +68,7 @@ Specific Costs Not Allowable.—(1) The following costs are not allowable under 
 
 &emsp;(L) Costs of commercial insurance that protects against the costs of the contractor for correction of the contractor's own defects in materials or workmanship.
 
-&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any caseexceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
+&emsp;(M) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
 &emsp;(N) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States military facility in that country at the request of the government of that country.
 
@@ -202,7 +202,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 (4) In the case of a proceeding referred to in paragraph (1) that is commenced by a State, the head of the agency or Secretary of the military department concerned that awarded the covered contract involved in the proceeding may allow the costs incurred by the contractor in connection with such proceeding as reimbursable costs if the agency head or Secretary determines, in accordance with the Federal Acquisition Regulation, that the costs were incurred as a result of (A) a specific term or condition of the contract, or (B) specific written instructions of the agency or military department.
 
-(5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or aState in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
+(5)(A) Except as provided in subparagraph (C), costs incurred by a contractor in connection with a criminal, civil, or administrative proceeding commenced by the United States or a State in connection with a covered contract may be allowed as reimbursable costs under the contract if such costs are not disallowable under paragraph (1), but only to the extent provided in subparagraph (B).
 
 (B)(i) The amount of the costs allowable under subparagraph (A) in any case may not exceed the amount equal to 80 percent of the amount of the costs incurred, to the extent that such costs are determined to be otherwise allowable and allocable under the Federal Acquisition Regulation.
 
@@ -234,7 +234,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 Definitions.—In this section:
 
-&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
 
 &emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
@@ -254,7 +254,7 @@ Definitions.—In this section:
 
 Subsection (e)(1)(L) is based on section 2399 of this title as enacted by Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1293.
 
-Section 1(f)(2) of the bill would transfer the provisions of existing 10 U.S.C. 2399 to a new subparagraph (L) of 10 U.S.C. 2324(e)(1). The existing section 2399 prohibits the use of appropriated funds to reimburse a defense contractor for insurance against the contractor's costs of correcting defects in the contractor's materials or workmanship. The transfer would add the provision to the list of contractor costs which are not allowable as expenses which may be paid by the Department of Defense under a contract. This allowable cost limitation applies only to contracts for more than $100,000 other than fixed price contracts without cost incentives (see 10 US.C. 2324(k)). The committee determined that it is appropriate to treat the subject matter of section 2399 in the same manner as other provisions relating to allowable costs of defense contractors and notes that section 2324, providing a more comprehensive treatment of allowable costs, was enacted after section 2399. The committee recognizes that contracts for amounts less than $100,000 and fixed price contracts without cost incentives are covered by the existing section 2399 and would not be covered by the provision as transferred. The committee determined that in practice the existing section 2399 would not have significant applicability to such contracts and that the transfer is appropriate as part of this bill.
+Section 1(f)(2) of the bill would transfer the provisions of existing 10 U.S.C. 2399 to a new subparagraph (L) of 10 U.S.C. 2324(e)(1). The existing section 2399 prohibits the use of appropriated funds to reimburse a defense contractor for insurance against the contractor's costs of correcting defects in the contractor's materials or workmanship. The transfer would add the provision to the list of contractor costs which are not allowable as expenses which may be paid by the Department of Defense under a contract. This allowable cost limitation applies only to contracts for more than $100,000 other than fixed price contracts without cost incentives (see 10 U.S.C. 2324(k)). The committee determined that it is appropriate to treat the subject matter of section 2399 in the same manner as other provisions relating to allowable costs of defense contractors and notes that section 2324, providing a more comprehensive treatment of allowable costs, was enacted after section 2399. The committee recognizes that contracts for amounts less than $100,000 and fixed price contracts without cost incentives are covered by the existing section 2399 and would not be covered by the provision as transferred. The committee determined that in practice the existing section 2399 would not have significant applicability to such contracts and that the transfer is appropriate as part of this bill.
 
 Subsection (j) is based on Pub. L. 99–145, title IX, §933, Nov. 8, 1985, 99 Stat. 700.
 
@@ -344,7 +344,7 @@ Subsec. (k). Pub. L. 103–355, §2101(a)(11)(A), inserted heading.
 
 Subsec. (k)(2)(D). Pub. L. 103–355, §2101(a)(11)(B), struck out “by the Department of Defense” after “decision” in introductory provisions.
 
-Subsec. (k)(4). Pub. L. 103–355, §2101(a)(11)(C), inserted “or Secretary of the military department concerned” after “head of the agency”, “or Secretary” after “agency head”, and “or military department” before period at end and substituted “in accordance with the FederalAcquisition Regulation” for “under regulations prescribed by such agency head”.
+Subsec. (k)(4). Pub. L. 103–355, §2101(a)(11)(C), inserted “or Secretary of the military department concerned” after “head of the agency”, “or Secretary” after “agency head”, and “or military department” before period at end and substituted “in accordance with the Federal Acquisition Regulation” for “under regulations prescribed by such agency head”.
 
 Subsec. (<i>l</i>). Pub. L. 103–355, §2101(d), added subsec. (<i>l</i>) and struck out former subsec. (<i>l</i>) which related to periodic evaluation by Comptroller General of implementation of this section by Secretary of Defense.
 
@@ -456,7 +456,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
 
 Section 818(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\] and shall apply, as provided in regulations prescribed by the Secretary of Defense, with respect to proposals for settlement of indirect costs for which the Federal Government has not formally initiated an audit before that date.”
 
@@ -625,10 +625,6 @@ Expiration.—This section shall cease to be effective three years after the dat
 #### Burden of Proof in Government Contract Dispute Resolution
 
 Section 933 of Pub. L. 99–145, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or any other Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2325, 2372 of this title; title 41 section 435.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

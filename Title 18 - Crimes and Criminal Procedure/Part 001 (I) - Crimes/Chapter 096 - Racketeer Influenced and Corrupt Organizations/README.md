@@ -19,8 +19,6 @@
 
 1970—Pub. L. 91–452, title IX, §901(a), Oct. 15, 1970, 84 Stat. 941, added chapter 96 and items 1961 to 1968.
 
-<i><sup>1</sup></i><i> So in original.</i>
-
 
 ---
 

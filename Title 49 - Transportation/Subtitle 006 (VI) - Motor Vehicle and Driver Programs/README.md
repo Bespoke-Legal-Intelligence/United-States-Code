@@ -14,7 +14,7 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>311.</b>](Part%20B%20-%20Commercial/Chapter%20311%20-%20Commercial%20Motor%20Vehicle%20Safety/README.md) | <b>Commercial Motor Vehicle Safety</b> | <b>31101</b><b><sup>1</sup></b> |
+| [<b>311.</b>](Part%20B%20-%20Commercial/Chapter%20311%20-%20Commercial%20Motor%20Vehicle%20Safety/README.md) | <b>Commercial Motor Vehicle Safety</b> | <b>31101 </b><b><sup>1</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

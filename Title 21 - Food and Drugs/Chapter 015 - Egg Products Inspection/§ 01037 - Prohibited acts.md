@@ -6,7 +6,7 @@
 
 (b)(1) No person shall process any egg products for commerce at any plant except in compliance with the requirements of this chapter.
 
-(2) No person shall buy, sell, or transport, or offer to buy or sell, or offer or receive for transportation, in commerce any egg products required to be inspected under this chapter unless they have been so inspected and are labeled and packaged in accordance with the requirements of section 1036 of this title.
+(2) No person shall buy, sell, or transport, or offer to buy or sell, or offer or receive for transportation, in commerce any egg products required to be inspected under this chapter unlessthey have been so inspected and are labeled and packaged in accordance with the requirements of section 1036 of this title.
 
 (3) No operator of any official plant shall fail to comply with any requirements of section 1035(a) of this title or the regulations thereunder.
 

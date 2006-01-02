@@ -50,5 +50,5 @@ Section was enacted as part of section 2 of Pub. L. 96–591 which enacted the I
 
 1996—Pars. (b)(i), (c)(i). Pub. L. 104–324, §701(5)(A), struck out “a vessel of less than 20 meters in length may instead of this shape exhibit a basket;” after “above the other;”.
 
-Par. (d). Pub. L. 104–324 amended par. (d) generally. Prior to amendment, par. (d) read as follows: “A vessel engaged in fishing in close proximity to other vesselsengaged in fishing may exhibit the additional signals described in Annex II to these Rules.”
+Par. (d). Pub. L. 104–324 amended par. (d) generally. Prior to amendment, par. (d) read as follows: “A vessel engaged in fishing in close proximity to other vessels engaged in fishing may exhibit the additional signals described in Annex II to these Rules.”
 

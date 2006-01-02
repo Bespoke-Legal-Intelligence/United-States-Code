@@ -8,7 +8,7 @@ As used in this chapter, the following definitions apply:
 
 #### (2) Athlete agent
 
-&emsp;The term “athlete agent” means an individual who enters into an agency contract with a student athlete, or directly or indirectly recruits or solicits a student athlete to enter into an agency contract, and does not include a spouse, parent, sibling, grandparent, or guardian of such student athlete, any legal counsel for purposes other than that of representative agency, or an individual acting solely on behalf of a professional sports team or professional sports organization.
+&emsp;The term “athlete agent” means an individual who enters into an agency contract with a student athlete, or directly or indirectly recruits or solicits a student athlete to enter into an agency contract, and does not include a spouse, parent, sibling, grandparent, or guardian of such student athlete, any legal counsel for purposes other than that of representative agency, or an individual actingsolely on behalf of a professional sports team or professional sports organization.
 
 #### (3) Athletic director
 

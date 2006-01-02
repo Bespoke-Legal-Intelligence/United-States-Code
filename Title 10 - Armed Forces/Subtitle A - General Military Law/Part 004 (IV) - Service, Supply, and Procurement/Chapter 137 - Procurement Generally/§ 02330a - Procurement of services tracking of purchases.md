@@ -48,7 +48,3 @@ Definitions.—In this section:
 
 (Added Pub. L. 107–107, div. A, title VIII, §801(c), Dec. 28, 2001, 115 Stat. 1176.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2330 of this title.
-

@@ -30,7 +30,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (1) National threat identification and prioritization assessment
 
-&emsp;Subject to subsection (f) of this section, in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce on an annual basis a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
+&emsp;Subject to subsection (f) of this section, in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce on an annual basis a strategic planning assessment of the counterintelligence requirements of theUnited States to be known as the National Threat Identification and Prioritization Assessment.
 
 #### (2) National Counterintelligence Strategy
 
@@ -42,7 +42,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 #### (4) National counterintelligence strategic analyses
 
-&emsp;As directed by the Director of National Intelligence and in consultation with appropriate elements of the departments and agencies of the United States Government, to oversee and coordinate the production of strategicanalyses of counterintelligence matters, including the production of counterintelligence damage assessments and assessments of lessons learned from counterintelligence activities.
+&emsp;As directed by the Director of National Intelligence and in consultation with appropriate elements of the departments and agencies of the United States Government, to oversee and coordinate the production of strategic analyses of counterintelligence matters, including the production of counterintelligence damage assessments and assessments of lessons learned from counterintelligence activities.
 
 #### (5) National counterintelligence program budget
 
@@ -98,7 +98,7 @@ Subject to the direction and control of the National Counterintelligence Executi
 
 (1) Personnel of the Office of the National Counterintelligence Executive may consist of personnel employed by the Office or personnel on detail from any other department, agency, or element of the Federal Government. Any such detail may be on a reimbursable or nonreimbursable basis, at the election of the head of the agency detailing such personnel.
 
-(2) Notwithstanding section 104(d) <sup>1</sup> or any other provision of law limiting the period of the detail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the National Counterintelligence Executive and the head of the department, agency, or element concerned consider appropriate.
+(2) Notwithstanding section 104(d) <sup>1</sup> or any other provision of law limiting the period of thedetail of personnel on a nonreimbursable basis, the detail of an officer or employee of United States or a member of the Armed Forces under paragraph (1) on a nonreimbursable basis may be for any period in excess of one year that the National Counterintelligence Executive and the head of the department, agency, or element concerned consider appropriate.
 
 (3) The employment of personnel by the Office, including the appointment, compensation and benefits, management, and separation of such personnel, shall be governed by the provisions of law on such matters with respect to the personnel of the Central Intelligence Agency, except that, for purposes of the applicability of such provisions of law to personnel of the Office, the National Counterintelligence Executive shall be treated as the head of the Office.
 
@@ -165,6 +165,8 @@ Subsec. (<i>l</i>). Pub. L. 108–458, §1072(d)(1)(C)(ii), substituted “Offic
 Subsec. (m). Pub. L. 108–458, §1071(g)(2)(B)(iv), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

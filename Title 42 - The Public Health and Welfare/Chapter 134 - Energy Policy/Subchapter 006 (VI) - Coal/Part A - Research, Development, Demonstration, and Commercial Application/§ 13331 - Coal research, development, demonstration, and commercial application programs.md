@@ -54,7 +54,7 @@ The Secretary shall, in accordance with section <sup>1</sup> 13541 and 13542 of
 
 Within 240 days after October 24, 1992, the Secretary shall transmit to the Committee on Energy and Commerce and the Committee on Science, Space, and Technology of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate a report which shall include each of the following:
 
-&emsp;(1) A detailed description of ongoing research, development, demonstration, and commercial application activities regarding coal-based technologies undertaken by the Department of Energy, other Federal or State government departments or agencies and, to theextent such information is publicly available, other public or private organizations in the United States and other countries.
+&emsp;(1) A detailed description of ongoing research, development, demonstration, and commercial application activities regarding coal-based technologies undertaken by the Department of Energy, other Federal or State government departments or agencies and, to the extent such information is publicly available, other public or private organizations in the United States and other countries.
 
 &emsp;(2) A listing and analysis of current Federal and State government regulatory and financial incentives that could further the goals of the programs established under this part.
 

@@ -4,7 +4,7 @@
 
 Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
-&emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
+&emsp;(1) have completed all contracting courses required for a contracting officer (A) in thecase of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
 
 &emsp;(2) have at least two years of experience in a contracting position;
 
@@ -32,7 +32,7 @@ Exceptions.—The qualification requirements imposed by the Secretary of Defense
 
 (d)
 
-Waiver.—The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines that the individual possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for its decision to waive such requirements.
+Waiver.—The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines that the individual possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for the decision of the Secretary to waive such requirements.
 
 (e)
 
@@ -58,7 +58,7 @@ Contingency Contracting Force.—The Secretary shall establish qualification req
 
 &emsp;(2) passing an examination that demonstrates skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours or the equivalent of study in any of the disciplines described in paragraph (1).
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183; Pub. L. 108–136, div. A, title VIII, §831(b)(1), Nov. 24, 2003, 117 Stat. 1549; Pub. L. 108–375, div. A, title X, §1084(d)(14), (h)(1), Oct. 28, 2004, 118 Stat. 2062, 2064.)
 
 #### References in Text
 
@@ -66,13 +66,17 @@ The General Schedule, referred to in subsec. (a)(1)(A), is set out under section
 
 #### Amendments
 
+2004—Subsec. (a)(3)(B). Pub. L. 108–375, §1084(h)(1), amended directory language of Pub. L. 107–107, §824(a)(1)(C). See 2001 Amendment note below.
+
+Subsec. (d). Pub. L. 108–375, §1084(d)(14), substituted “the decision of the Secretary” for “its decision” before “to waive such requirements”.
+
 2003—Subsec. (d). Pub. L. 108–136 substituted “The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines” for “The acquisition career program board concerned may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the board certifies” in first sentence and “the Secretary” for “the board” in second sentence, and struck out third sentence which read “Such document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.”
 
 2001—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, a person must—”.
 
 Subsec. (a)(1). Pub. L. 107–107, §824(a)(1)(B), struck out “mandatory” before “contracting courses” and substituted cls. (A) and (B) for “at the grade level, or in the position within the grade of the General Schedule (in the case of an employee), that the person is serving in;”.
 
-Subsec. (a)(3). Pub. L. 107–107, §824(a)(1)(C), which directed the amendment of par. (3)(A) by inserting a comma after “business”, was executed by inserting comma after “business” in par. (3)(B) to reflect the probable intent of Congress.
+Subsec. (a)(3)(B). Pub. L. 107–107, §824(a)(1)(C), as amended by Pub. L. 108–375, §1084(h)(1), inserted comma after “business”.
 
 Subsec. (b). Pub. L. 107–107, §824(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
@@ -106,6 +110,10 @@ Subsec. (b). Pub. L. 104–201, §1074(a)(9)(B)(ii), struck out “, beginning 
 
 1993—Subsec. (c)(2). Pub. L. 103–35 inserted “or lower” before “grade” and before “level”.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title X, §1084(h), Oct. 28, 2004, 118 Stat. 2064, provided that the amendment made by section 1084(h) \[amending this section, section 1732 of this title, and provisions set out as a note under section 5949 of Title 5, Government Organization and Employees\] is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208, provided that: “This section \[amending this section\], and the amendments made by this section, shall take effect on October 1, 2000, and shall apply to appointments and assignments to contracting positions made on or after that date.”
@@ -120,5 +128,5 @@ For provisions relating to development of fulfillment standards for purposes of 
 
 #### Credit for Experience in Certain Positions
 
-Section 1209(i) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and section 1732(c)(1) of such title, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
+Section 1209(i) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §704(b)(3)(D), Apr. 6, 1991, 105 Stat. 119, provided that: “For purposes of meeting any requirement under chapter 87 of title 10, United States Code (as added by section 1202), for a period of experience (such as requirements for experience in acquisition positions or in critical acquisition positions) and for purposes of coverage under the exceptions established by section 1724(c)(1) and section 1732(c)(1) of suchtitle, any period of time spent serving in a position later designated as an acquisition position or a critical acquisition position under such chapter may be counted as experience in such a position for such purposes.”
 

@@ -15,10 +15,6 @@
 
 1969—Pub. L. 91–172, title I, §101(j)(62), Dec. 30, 1969, 83 Stat. 532, inserted reference to certain excise taxes in subchapter heading.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 32, 6230, 6234, 6241, 6601, 6662, 6665, 6677, 6679, 6682, 6693, 6696, 6697, 6698, 6703, 6706, 6713, 6716, 7463, 7611 of this title.
-
 
 ---
 

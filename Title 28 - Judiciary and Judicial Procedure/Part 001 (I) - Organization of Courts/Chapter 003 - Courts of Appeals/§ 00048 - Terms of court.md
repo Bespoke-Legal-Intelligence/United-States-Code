@@ -26,7 +26,27 @@
 
 (d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
 
-(June 25, 1948, ch. 646, 62 Stat. 872; Oct. 31, 1951, ch. 655, §36, 65 Stat. 723; Pub. L. 96–452, §4, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §104, Apr. 2, 1982, 96 Stat. 26; Pub. L. 102–572, title V, §501, Oct. 29, 1992, 106 Stat. 4512.)
+(e) Each court of appeals may hold special sessions at any place within the United States outside the circuit as the nature of the business may require and upon such notice as the court orders, upon a finding by either the chief judge of the court of appeals (or, if the chief judge is unavailable, the most senior available active judge of the court of appeals) or the judicial council of the circuit that, because of emergency conditions, no location within the circuit is reasonably available where such special sessions could be held. The court may transact any business at a special session outside the circuit which it might transact at a regular session.
+
+(f) If a court of appeals issues an order exercising its authority under subsection (e), the court—
+
+&emsp;(1) through the Administrative Office of the United States Courts, shall—
+
+&emsp;&emsp;(A) send notice of such order, including the reasons for the issuance of such order, to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives; and
+
+&emsp;&emsp;(B) not later than 180 days after the expiration of such court order submit a brief report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives describing the impact of such order, including—
+
+&emsp;&emsp;&emsp;(i) the reasons for the issuance of such order;
+
+&emsp;&emsp;&emsp;(ii) the duration of such order;
+
+&emsp;&emsp;&emsp;(iii) the impact of such order on litigants; and
+
+&emsp;&emsp;&emsp;(iv) the costs to the judiciary resulting from such order; and
+
+&emsp;(2) shall provide reasonable notice to the United States Marshals Service before the commencement of any special session held pursuant to such order.
+
+(June 25, 1948, ch. 646, 62 Stat. 872; Oct. 31, 1951, ch. 655, §36, 65 Stat. 723; Pub. L. 96–452, §4, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §104, Apr. 2, 1982, 96 Stat. 26; Pub. L. 102–572, title V, §501, Oct. 29, 1992, 106 Stat. 4512; Pub. L. 109–63, §2(a), Sept. 9, 2005, 119 Stat. 1993.)
 
 #### Historical and Revision Notes
 
@@ -49,6 +69,8 @@ Changes were made in phraseology.
 By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regular session of the Court of Appeals for the Fifth Circuit. See 80th Congress Senate Report No. 1559.
 
 #### Amendments
+
+2005—Subsecs. (e), (f). Pub. L. 109–63 added subsecs. (e) and (f).
 
 1992—Subsec. (c). Pub. L. 102–572 struck out “, with the consent of the Judicial Conference of the United States,” after “pretermit”.
 

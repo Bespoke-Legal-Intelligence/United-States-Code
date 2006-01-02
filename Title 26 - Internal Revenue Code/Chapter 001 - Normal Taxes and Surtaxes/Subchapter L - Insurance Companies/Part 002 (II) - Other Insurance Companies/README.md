@@ -22,10 +22,6 @@ A prior part II (§§821 to 826) related to mutual insurance companies other tha
 
 1962—Pub. L. 87–834, §8(g)(4)(C), Oct. 16, 1962, 76 Stat. 999, substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in item 831.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 842, 844, 848, 864, 953 of this title.
-
 
 ---
 

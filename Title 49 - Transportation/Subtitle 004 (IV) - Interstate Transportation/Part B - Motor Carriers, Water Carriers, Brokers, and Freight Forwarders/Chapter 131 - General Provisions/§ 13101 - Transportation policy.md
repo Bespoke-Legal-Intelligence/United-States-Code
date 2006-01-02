@@ -54,7 +54,7 @@ In General.—To ensure the development, coordination, and preservation of a tra
 
 (b)
 
-Administration To Carry Out Policy.—This part shall be administered and enforced to carry out the policy of this section and to promote the public interest.
+Administration To Carry Out Policy.—This part shall be administered and enforced tocarry out the policy of this section and to promote the public interest.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 853.)
 

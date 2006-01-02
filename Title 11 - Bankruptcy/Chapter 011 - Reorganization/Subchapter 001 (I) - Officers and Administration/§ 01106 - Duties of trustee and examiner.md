@@ -2,7 +2,7 @@
 
 (a) A trustee shall—
 
-&emsp;(1) perform the duties of a trustee specified in sections 704(2), 704(5), 704(7), 704(8), and 704(9) of this title;
+&emsp;(1) perform the duties of the trustee, as specified in paragraphs (2), (5), (7), (8), (9), (10), (11), and (12) of section 704;
 
 &emsp;(2) if the debtor has not done so, file the list, schedule, and statement required under section 521(1) of this title;
 
@@ -16,13 +16,43 @@
 
 &emsp;(5) as soon as practicable, file a plan under section 1121 of this title, file a report of why the trustee will not file a plan, or recommend conversion of the case to a case under chapter 7, 12, or 13 of this title or dismissal of the case;
 
-&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish, without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information; and
+&emsp;(6) for any year for which the debtor has not filed a tax return required by law, furnish, without personal liability, such information as may be required by the governmental unit with which such tax return was to be filed, in light of the condition of the debtor's books and records and the availability of such information;
 
-&emsp;(7) after confirmation of a plan, file such reports as are necessary or as the court orders.
+&emsp;(7) after confirmation of a plan, file such reports as are necessary or as the court orders; and
+
+&emsp;(8) if with respect to the debtor there is a claim for a domestic support obligation, provide the applicable notice specified in subsection (c).
 
 (b) An examiner appointed under section 1104(d) of this title shall perform the duties specified in paragraphs (3) and (4) of subsection (a) of this section, and, except to the extent that the court orders otherwise, any other duties of the trustee that the court orders the debtor in possession not to perform.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, §257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, §211(b), Oct. 22, 1994, 108 Stat. 4125.)
+(c)(1) In a case described in subsection (a)(8) to which subsection (a)(8) applies, the trustee shall—
+
+&emsp;(A)(i) provide written notice to the holder of the claim described in subsection (a)(8) of such claim and of the right of such holder to use the services of the State child support enforcement agency established under sections 464 and 466 of the Social Security Act for the State in which such holder resides, for assistance in collecting child support during and after the case under this title; and
+
+&emsp;(ii) include in the notice required by clause (i) the address and telephone number of such State child support enforcement agency;
+
+&emsp;(B)(i) provide written notice to such State child support enforcement agency of such claim; and
+
+&emsp;(ii) include in the notice required by clause (i) the name, address, and telephone number of such holder; and
+
+&emsp;(C) at such time as the debtor is granted a discharge under section 1141, provide written notice to such holder and to such State child support enforcement agency of—
+
+&emsp;&emsp;(i) the granting of the discharge;
+
+&emsp;&emsp;(ii) the last recent known address of the debtor;
+
+&emsp;&emsp;(iii) the last recent known name and address of the debtor's employer; and
+
+&emsp;&emsp;(iv) the name of each creditor that holds a claim that—
+
+&emsp;&emsp;&emsp;(I) is not discharged under paragraph (2), (4), or (14A) of section 523(a); or
+
+&emsp;&emsp;&emsp;(II) was reaffirmed by the debtor under section 524(c).
+
+(2)(A) The holder of a claim described in subsection (a)(8) or the State child enforcement support agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
+
+(B) Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2628; Pub. L. 98–353, title III, §§311(b)(1), 502, July 10, 1984, 98 Stat. 355, 384; Pub. L. 99–554, title II, §257(c), Oct. 27, 1986, 100 Stat. 3114; Pub. L. 103–394, title II, §211(b), Oct. 22, 1994, 108 Stat. 4125; Pub. L. 109–8, title II, §219(b), title IV, §446(c), title XI, §1105(b), Apr. 20, 2005, 119 Stat. 56, 118, 192.)
 
 #### Historical and Revision Notes
 
@@ -40,7 +70,19 @@ Subsection (b) gives the trustee's investigative duties to an examiner, if one i
 
 Paragraphs (3), (4), and (5) of subsection (a) are derived from sections 165 and 169 of chapter X \[sections 565 and 569 of former title 11\].
 
+#### References in Text
+
+Sections 464 and 466 of the Social Security Act, referred to in subsec. (c)(1)(A)(i), are classified to sections 664 and 666, respectively, of Title 42, The Public Health and Welfare.
+
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–8, §1105(b), substituted “(11), and (12)” for “and (11)”.
+
+Pub. L. 109–8, §446(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “perform the duties of a trustee specified in sections 704(2), 704(5), 704(7), 704(8), and 704(9) of this title;”.
+
+Subsec. (a)(8). Pub. L. 109–8, §219(b)(1), added par. (8).
+
+Subsec. (c). Pub. L. 109–8, §219(b)(2), added subsec. (c).
 
 1994—Subsec. (b). Pub. L. 103–394 substituted “1104(d)” for “1104(c)”.
 
@@ -49,6 +91,10 @@ Paragraphs (3), (4), and (5) of subsection (a) are derived from sections 165 and
 1984—Subsec. (a)(1). Pub. L. 98–353, §311(b)(1), substituted “704(5), 704(7), 704(8), and 704(9)” for “704(4), 704(6), 704(7) and 704(8)”.
 
 Subsec. (b). Pub. L. 98–353, §502, inserted “, except to the extent that the court orders otherwise,”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -80,7 +126,7 @@ Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–
 
 &emsp;“(A) the dismissal of the case involved; or
 
-&emsp;“(B) the effective date of a plan confirmed under section 1129 of such title which provides for the continued payment after confirmation of the plan of all such benefits at the level established under paragraph (2) of this subsection, at any time prior to the confirmation of the plan, for the duration of the period the debtor (as defined in such title) has obligated itself to provide such benefits.
+&emsp;“(B) the effective date of a plan confirmed under section 1129 of such title which provides for the continued payment after confirmation of the plan of all such benefits at the level established under paragraph (2) of this subsection, at any time prior to the confirmation of the plan, for the duration of the periodthe debtor (as defined in such title) has obligated itself to provide such benefits.
 
 “(4) No such benefits paid between the filing of a petition in a case covered by this section and the time a plan confirmed under section 1129 of such title with respect to such case becomes effective shall be deducted or offset from the amount allowed as claims for any benefits which remain unpaid, or from the amount to be paid under the plan with respect to such claims for unpaid benefits, whether such claims for unpaid benefits are based upon or arise from a right to future benefits or from any benefit not paid as a result of modifications allowed pursuant to this section.
 

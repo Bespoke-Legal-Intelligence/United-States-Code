@@ -32,7 +32,7 @@ The Contract Disputes Act of 1978, referred to in subsec. (a), is Pub. L. 95–5
 
 1982—Subsec. (a). Pub. L. 97–164, §139(k)(1), substituted “United States Claims Court” for “Court of Claims”.
 
-Subsec. (b). Pub. L. 97–164, §139(k)(2), struck out the comma after “shall be discharged” thereby correctinga technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
+Subsec. (b). Pub. L. 97–164, §139(k)(2), struck out the comma after “shall be discharged” thereby correcting a technical error in the directory language in Pub. L. 95–563 which placed both a comma and a period after “shall be discharged”.
 
 1978—Subsec. (a). Pub. L. 95–563, §14(e), inserted Contract Disputes Act of 1978 exception.
 

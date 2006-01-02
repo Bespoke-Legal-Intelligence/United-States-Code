@@ -6,7 +6,7 @@ In order to ensure that the processing, delivery, and administration of grant, l
 
 &emsp;(1) take such actions as are necessary to ensure that all internal and external systems, hardware, and data exchange infrastructure administered by the Department that are necessary for the processing, delivery, and administration of the grant, loan, and work assistance are Year 2000 compliant by March 31, 1999, such that there will be no business interruption after December 31, 1999;
 
-&emsp;(2) ensure that the Robert T. Stafford Federal Student Loan Program and the WilliamD. Ford Federal Direct Loan Program are equal in level of priority with respect to addressing, and that resources are managed to equally provide for successful resolution of, the Year 2000 computer problem in both programs by December 31, 1999;
+&emsp;(2) ensure that the Robert T. Stafford Federal Student Loan Program and the William D. Ford Federal Direct Loan Program are equal in level of priority with respect to addressing, and that resources are managed to equally provide for successful resolution of, the Year 2000 computer problem in both programs by December 31, 1999;
 
 &emsp;(3) work with the Department's various data exchange partners under this subchapter and part C of subchapter I of chapter 34 of title 42 to fully test all data exchange routes for Year 2000 compliance via end-to-end testing, and submit a report describing the parameters and results of such tests to the Comptroller General not later than March 31, 1999;
 
@@ -44,7 +44,7 @@ In order to ensure that the processing, delivery, and administration of grant, l
 
 &emsp;The Secretary may not postpone the implementation of one or more provisions described in this subsection longer than the earlier of—
 
-&emsp;&emsp;(A) the period of time that the Secretary determines necessary to ensure that the processing and delivery systems of the institutions, lenders, and guaranty agencies referred to in paragraph (1)(A)(ii) <sup>1</sup> are capable of functioning successfully after December 31, 1999; or
+&emsp;&emsp;(A) the period of time that the Secretary determines necessary to ensure that the processing and delivery systems of the institutions, lenders, and guaranty agencies referred to in paragraph (1)(A)(ii) <sup>1</sup> are capableof functioning successfully after December 31, 1999; or
 
 &emsp;&emsp;(B) one award year after the effective date applicable to such provision under the Higher Education Amendments of 1998.
 

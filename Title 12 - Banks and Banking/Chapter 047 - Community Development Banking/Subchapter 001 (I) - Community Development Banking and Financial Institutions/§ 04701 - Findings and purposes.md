@@ -12,7 +12,7 @@ The Congress finds that—
 
 #### (b) Purpose
 
-The purpose of this subchapter is to create a Community Development Financial Institutions Fund to promote economic revitalization and community development through investment in and assistance to community development financial institutions, including enhancing the liquidity of community development financial institutions.
+The purpose of this subchapter is to create a Community Development Financial Institutions Fund to promote economic revitalization and community development through investment inand assistance to community development financial institutions, including enhancing the liquidity of community development financial institutions.
 
 (Pub. L. 103–325, title I, §102, Sept. 23, 1994, 108 Stat. 2163.)
 

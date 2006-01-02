@@ -1,6 +1,6 @@
 ### §1327. Aiding or assisting certain aliens to enter
 
-Any person who knowingly aids or assists any alien inadmissible under section 1182(a)(2) (insofar as an alien inadmissible under such section has been convicted of an aggravated felony) or 1182(a)(3) (other than subparagraph (E) thereof) of this title to enter the United States, or who connives or conspires with any person or persons to allow, procure, or permit any such alien to enter the United States, shall be fined under title 18, or imprisoned not more than 10 years, or both.
+Any person who knowingly aids or assists any alien inadmissible under section 1182(a)(2) (insofar as an alien inadmissible under such section has been convicted of an aggravated felony) or 1182(a)(3) (other than subparagraph (E) thereof) of this title to enter the United States, or who connives or conspires with any person or persons to allow, procure, or permit any such alien to enter the United States, shall be fined undertitle 18, or imprisoned not more than 10 years, or both.
 
 (June 27, 1952, ch. 477, title II, ch. 8, §277, 66 Stat. 229; Pub. L. 100–690, title VII, §7346(a), (c)(1), Nov. 18, 1988, 102 Stat. 4471; Pub. L. 101–649, title V, §543(b)(4), title VI, §603(a)(16), Nov. 29, 1990, 104 Stat. 5059, 5084; Pub. L. 104–208, div. C, title III, §308(d)(3)(A), Sept. 30, 1996, 110 Stat. 3009–617.)
 

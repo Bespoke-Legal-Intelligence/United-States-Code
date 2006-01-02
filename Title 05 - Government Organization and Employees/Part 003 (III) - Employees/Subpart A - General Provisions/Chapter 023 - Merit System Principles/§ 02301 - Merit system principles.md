@@ -224,7 +224,7 @@ Annual Report.—Subject to subsection (b), not later than 180 days after the en
 
 “(b)
 
-First Report.—The 1st report submitted under subsection (a) shall include for each item under subsection (a) data for each of the 5 immediately preceding fiscal years (or, if data are not available for all 5 fiscal years, for each of those 5 fiscal years for which data are available).
+First Report.—The 1st report submitted under subsection (a) shall include for each item under subsection (a) data for each of the 5 immediately precedingfiscal years (or, if data are not available for all 5 fiscal years, for each of those 5 fiscal years for which data are available).
 
 #### “SEC. 204. RULES AND GUIDELINES.
 
@@ -280,7 +280,7 @@ Contents.—The study shall include a detailed summary of matters investigated, 
 
 &emsp;“(2)
 
-Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment OpportunityCommission, and the Attorney General a report containing the information required to be included in such study.
+Report.—Not later than 90 days after completion of the study required by paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Equal Employment Opportunity Commission, and the Attorney General a report containing the information required to be included in such study.
 
 “(b)
 
@@ -390,7 +390,7 @@ Content Requirements.—The data posted by a Federal agency under this section s
 
 &emsp;&emsp;&emsp;“(i) the number and percentage that were rendered without a hearing before an administrative judge of the Equal Employment Opportunity Commission, and
 
-&emsp;&emsp;&emsp;“(ii) the number and percentage that were rendered after a hearing before an administrativejudge of the Equal Employment Opportunity Commission.
+&emsp;&emsp;&emsp;“(ii) the number and percentage that were rendered after a hearing before an administrative judge of the Equal Employment Opportunity Commission.
 
 &emsp;“(9) Of the total number of final agency actions rendered in such fiscal year involving a finding of discrimination—
 
@@ -452,7 +452,7 @@ Coordination.—The data required under this section shall be in addition to the
 
 \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
-\[For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.\]
+\[For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.\]
 
 \[Memorandum of President of the United States, July 8, 2003, 68 F.R. 45155, delegated to Director of Office of Personnel Management authority of President under section 204(a) of Public Law 107–174, set out above.\]
 

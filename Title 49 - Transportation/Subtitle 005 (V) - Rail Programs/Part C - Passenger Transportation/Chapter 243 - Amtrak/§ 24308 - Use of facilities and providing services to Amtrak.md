@@ -114,7 +114,7 @@ In subsection (d), the words “upon request of the Corporation” and “otherw
 
 In subsection (e)(1), the words “satisfactory, voluntary” are omitted as surplus. The words “provide, or allow Amtrak to provide” are added, and the words “Amtrak may apply to the Secretary for an order requiring the carrier to provide or allow for the operation of the requested trains” are substituted for “Upon receipt of an application from the Corporation”, for clarity.
 
-In subsection (e)(2)(A), the words “involved” and “seeking to oppose the operation of an additionaltrain” are omitted as surplus. The words “when conducting a hearing” are added for clarity.
+In subsection (e)(2)(A), the words “involved” and “seeking to oppose the operation of an additional train” are omitted as surplus. The words “when conducting a hearing” are added for clarity.
 
 In subsection (e)(2)(B), the word “proper” is omitted as surplus. The words “60 miles” are substituted for “55 miles” for consistency with 45:501a(8), restated in section 24101(c)(6) of the revised title. Section 1172(3) of the Omnibus Budget Reconciliation Act of 1981 (Public Law 91–35, 95 Stat. 688) raised the speed from 55 to 60 in 45:501a but did not make a corresponding change in 45:562(g).
 

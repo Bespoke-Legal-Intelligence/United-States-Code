@@ -1,6 +1,0 @@
-### §560. Contractual right to terminate a swap agreement
-
-The exercise of any contractual right of any swap participant to cause the termination of a swap agreement because of a condition of the kind specified in section 365(e)(1) of this title or to offset or net out any termination values or payment amounts arising under or in connection with any swap agreement shall not be stayed, avoided, or otherwise limited by operation of any provision of this title or by order of a court or administrative agency in any proceeding under this title. As used in this section, the term “contractual right” includes a right, whether or not evidenced in writing, arising under common law, under law merchant, or by reason of normal business practice.
-
-(Added Pub. L. 101–311, title I, §106(a), June 25, 1990, 104 Stat. 268.)
-

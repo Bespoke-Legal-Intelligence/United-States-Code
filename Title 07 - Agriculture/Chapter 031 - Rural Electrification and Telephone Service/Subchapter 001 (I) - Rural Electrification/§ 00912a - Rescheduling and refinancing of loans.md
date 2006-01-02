@@ -1,6 +1,6 @@
 ### §912a. Rescheduling and refinancing of loans
 
-In addition to the loan extension authority provided in section 912 of this title, the Secretary of Agriculture is authorized to adjust and readjust the schedules for payment of principal and interest on loans to borrowers under programs administered by the Secretary under thischapter, and to extend the maturity date of any such loan to a date not beyond forty years from the date of such loan where he determines such action is necessary because of the impairment of the economic feasibility of the system, or the loss, destruction, or damage of the property of such borrowers as a result of a major disaster.
+In addition to the loan extension authority provided in section 912 of this title, the Secretary of Agriculture is authorized to adjust and readjust the schedules for payment of principal and interest on loans to borrowers under programs administered by the Secretary under this chapter, and to extend the maturity date of any such loan to a date not beyond forty years from the date of such loan where he determines such action is necessary because of the impairment of the economic feasibility of the system, or the loss, destruction, or damage of the property of such borrowers as a result of a major disaster.
 
 (Pub. L. 91–606, title II, §236(a), Dec. 31, 1970, 84 Stat. 1754; Pub. L. 103–354, title II, §235(b)(1), Oct. 13, 1994, 108 Stat. 3221.)
 

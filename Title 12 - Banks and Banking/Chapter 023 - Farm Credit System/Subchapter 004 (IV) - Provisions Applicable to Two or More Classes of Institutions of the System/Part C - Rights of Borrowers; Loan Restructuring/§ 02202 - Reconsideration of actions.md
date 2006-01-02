@@ -28,7 +28,7 @@ An applicant for a loan or for restructuring, who is entitled to and has request
 
 #### (1) In general
 
-&emsp;An appeal filed with a credit review committee under this section may include, as a partof the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
+&emsp;An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
 
 #### (2) Arrangement and cost
 
@@ -58,7 +58,7 @@ Subsec. (b)(1). Pub. L. 100–399, §103(a), substituted “before the” for �
 
 Subsec. (d)(1). Pub. L. 100–399, §103(b), inserted “or (2)”.
 
-1985—Pub. L. 99–205, in amending section generally, substituted provisions respecting reconsideration of action on loan application for prior reconsideration provisions which read as follows: “Any applicant who has reason to believe that the action on his application by an association failed to take into account facts pertinent to his application, or has misinterpreted or failed to properly apply the applicable law or rules and regulations governing his application, may, if he so requests in writing within thirty days of the date of that notice, request an informal hearing on his application and the action of the association in reduction or denial thereof, or the reason for such action, in person before the loan committee or officer or employee thereof authorized to act on applications under section 2033(11) or 2093(18) of this title. Promptly after such a hearing, he shall be notified of the decision upon reconsideration and the reasons therefor.”
+1985—Pub. L. 99–205, in amending section generally, substituted provisions respecting reconsideration of action on loan application for prior reconsideration provisions which read as follows: “Any applicant who hasreason to believe that the action on his application by an association failed to take into account facts pertinent to his application, or has misinterpreted or failed to properly apply the applicable law or rules and regulations governing his application, may, if he so requests in writing within thirty days of the date of that notice, request an informal hearing on his application and the action of the association in reduction or denial thereof, or the reason for such action, in person before the loan committee or officer or employee thereof authorized to act on applications under section 2033(11) or 2093(18) of this title. Promptly after such a hearing, he shall be notified of the decision upon reconsideration and the reasons therefor.”
 
 #### Effective Date of 1988 Amendment
 

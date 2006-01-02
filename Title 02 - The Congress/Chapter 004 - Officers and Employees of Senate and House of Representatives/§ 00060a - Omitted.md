@@ -76,11 +76,13 @@ Present provisions relating to personnel and compensation of Congressional offic
 
 1929—June 20, 1929, ch. 33, 46 Stat. 32.
 
-In addition to these acts the following House Resolutions affected the salary of certain employees and were made permanent law by section 105 of act July 17, 1947, ch. 262, 61 Stat. 377: House Resolutions 628, 691, and 693 of the Seventy-ninth Congress and House Resolutions 42, 54, 74, 78, 96, 113, and 183 \[which related to Office of Coordinator of Information of the House and which was repealed by Pub. L. 91–510, title III, §322, Oct. 26, 1970, 84 Stat. 1185\] of the Eightieth Congress. House Resolutions 281 and 336 of the Eightieth Congress were made permanent law by act June 14, 1948, ch. 467, §105, 62 Stat. 437. House Resolutions No. 653 of the EightiethCongress, and 6, 39, 45, 62, 84, 103, 172, and 188 of the 81st Congress were made permanent law by act June 22, 1949, ch. 235, §105, 63 Stat. 230.
+In addition to these acts the following House Resolutions affected the salary of certain employees and weremade permanent law by section 105 of act July 17, 1947, ch. 262, 61 Stat. 377: House Resolutions 628, 691, and 693 of the Seventy-ninth Congress and House Resolutions 42, 54, 74, 78, 96, 113, and 183 \[which related to Office of Coordinator of Information of the House and which was repealed by Pub. L. 91–510, title III, §322, Oct. 26, 1970, 84 Stat. 1185\] of the Eightieth Congress. House Resolutions 281 and 336 of the Eightieth Congress were made permanent law by act June 14, 1948, ch. 467, §105, 62 Stat. 437. House Resolutions No. 653 of the Eightieth Congress, and 6, 39, 45, 62, 84, 103, 172, and 188 of the 81st Congress were made permanent law by act June 22, 1949, ch. 235, §105, 63 Stat. 230.
 
 #### Legislative Branch Appropriation Acts
 
 The following acts have provided for funds for the operation of Congress:
+
+Pub. L. 109–55, title I, Aug. 2, 2005, 119 Stat. 565.
 
 Pub. L. 108–447, div. G, title I, Dec. 8, 2004, 118 Stat. 3166.
 

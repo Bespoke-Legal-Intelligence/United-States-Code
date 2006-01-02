@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection or in regulations prescribed by the Secretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
+&emsp;Except as otherwise provided in this subsection or in regulations prescribed by theSecretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
 
 #### (2) Due date
 
@@ -210,7 +210,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4), is section 806(e)(2)(C) of Pub.L. 99–514, which is set out as a note under section 1378 of this title.
+Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4), is section 806(e)(2)(C) of Pub. L. 99–514, which is set out as a note under section 1378 of this title.
 
 #### Amendments
 
@@ -261,8 +261,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section applicable to applicable election years beginning after Dec. 31, 1986, see section 10206(d)(2) of Pub. L. 100–203, set out as a note under section 444 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 444 of this title.
 

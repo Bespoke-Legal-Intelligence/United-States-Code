@@ -32,7 +32,7 @@ Pub. L. 97–253, title I, §191, Sept. 8, 1982, 96 Stat. 787, provided that:
 
 &emsp;“(4) soup kitchens, food banks, and other organizations which provide food to the hungry report an astronomical increase in the number of persons seeking the assistance of such organizations;
 
-&emsp;“(5) according to a study completed by the General Accounting Office \[now Government AccountabilityOffice\] in 1977, one hundred and thirty-seven million tons of food, or more than 20 per centum of this country's total annual food production, is wasted or discarded in the United States each year;
+&emsp;“(5) according to a study completed by the General Accounting Office \[now Government Accountability Office\] in 1977, one hundred and thirty-seven million tons of food, or more than 20 per centum of this country's total annual food production, is wasted or discarded in the United States each year;
 
 &emsp;“(6) at wholesale and retail food distributors, shipping terminals, and other establishments all across the country, enormous quantities of fresh fruits and vegetables and dated dairy and bakery products are discarded each day, while growing numbers of Americans go to bed hungry and undernourished each night;
 

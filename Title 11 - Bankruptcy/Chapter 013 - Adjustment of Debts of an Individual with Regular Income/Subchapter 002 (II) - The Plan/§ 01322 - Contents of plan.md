@@ -4,9 +4,11 @@
 
 &emsp;(1) provide for the submission of all or such portion of future earnings or other future income of the debtor to the supervision and control of the trustee as is necessary for the execution of the plan;
 
-&emsp;(2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim; and
+&emsp;(2) provide for the full payment, in deferred cash payments, of all claims entitled to priority under section 507 of this title, unless the holder of a particular claim agrees to a different treatment of such claim;
 
-&emsp;(3) if the plan classifies claims, provide the same treatment for each claim within a particular class.
+&emsp;(3) if the plan classifies claims, provide the same treatment for each claim within a particular class; and
+
+&emsp;(4) notwithstanding any other provision of this section, a plan may provide for less than full payment of all amounts owed for a claim entitled to priority under section 507(a)(1)(B) only if the plan provides that all of the debtor's projected disposable income for a 5-year period beginning on the date that the first payment is due under the plan will be applied to make payments under the plan.
 
 (b) Subject to subsections (a) and (c) of this section, the plan may—
 
@@ -26,9 +28,11 @@
 
 &emsp;(8) provide for the payment of all or part of a claim against the debtor from property of the estate or property of the debtor;
 
-&emsp;(9) provide for the vesting of property of the estate, on confirmation of the plan or at a later time, in the debtor or in any other entity; and
+&emsp;(9) provide for the vesting of property of the estate, on confirmation of the plan or at a later time, in the debtor or in any other entity;
 
-&emsp;(10) include any other appropriate provision not inconsistent with this title.
+&emsp;(10) provide for the payment of interest accruing after the date of the filing of the petition on unsecured claims that are nondischargeable under section 1328(a), except that such interest may be paid only to the extent that the debtor has disposable income available to pay such interest after making provision for full payment of all allowed claims; and
+
+&emsp;(11) include any other appropriate provision not inconsistent with this title.
 
 (c) Notwithstanding subsection (b)(2) and applicable nonbankruptcy law—
 
@@ -36,11 +40,31 @@
 
 &emsp;(2) in a case in which the last payment on the original payment schedule for a claim secured only by a security interest in real property that is the debtor's principal residence is due before the date on which the final payment under the plan is due, the plan may provide for the payment of the claim as modified pursuant to section 1325(a)(5) of this title.
 
-(d) The plan may not provide for payments over a period that is longer than three years, unless the court, for cause, approves a longer period, but the court may not approve a period that is longer than five years.
+(d)(1) If the current monthly income of the debtor and the debtor's spouse combined, when multiplied by 12, is not less than—
+
+&emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
+
+&emsp;(B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
+
+&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
+
+> the plan may not provide for payments over a period that is longer than 5 years.
+
+(2) If the current monthly income of the debtor and the debtor's spouse combined, when multiplied by 12, is less than—
+
+&emsp;(A) in the case of a debtor in a household of 1 person, the median family income of the applicable State for 1 earner;
+
+&emsp;(B) in the case of a debtor in a household of 2, 3, or 4 individuals, the highest median family income of the applicable State for a family of the same number or fewer individuals; or
+
+&emsp;(C) in the case of a debtor in a household exceeding 4 individuals, the highest median family income of the applicable State for a family of 4 or fewer individuals, plus $525 per month for each individual in excess of 4,
+
+> the plan may not provide for payments over a period that is longer than 3 years, unless the court, for cause, approves a longer period, but the court may not approve a period that is longer than 5 years.
 
 (e) Notwithstanding subsection (b)(2) of this section and sections 506(b) and 1325(a)(5) of this title, if it is proposed in a plan to cure a default, the amount necessary to cure the default, shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134.)
+(f) A plan may not materially alter the terms of a loan described in section 362(b)(19) and any amounts required to repay such loan shall not constitute “disposable income” under section 1325.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2648; Pub. L. 98–353, title III, §§316, 528, July 10, 1984, 98 Stat. 356, 389; Pub. L. 103–394, title III, §§301, 305(c), Oct. 22, 1994, 108 Stat. 4131, 4134; Pub. L. 109–8, title II, §§213(8), (9), 224(d), title III, §318(1), Apr. 20, 2005, 119 Stat. 53, 65, 93.)
 
 #### Historical and Revision Notes
 
@@ -66,6 +90,14 @@ Subsection (c) limits the payment period under the plan to 3 years, except that 
 
 #### Amendments
 
+2005—Subsec. (a)(4). Pub. L. 109–8, §213(8), added par. (4).
+
+Subsec. (b)(10), (11). Pub. L. 109–8, §213(9), added par. (10) and redesignated former par. (10) as (11).
+
+Subsec. (d). Pub. L. 109–8, §318(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The plan may not provide for payments over a period that is longer than three years, unless the court, for cause, approves a longer period, but the court may not approve a period that is longer than five years.”
+
+Subsec. (f). Pub. L. 109–8, §224(d), added subsec. (f).
+
 1994—Subsecs. (c), (d). Pub. L. 103–394, §301, added subsec. (c) and redesignated former subsec. (c) as (d).
 
 Subsec. (e). Pub. L. 103–394, §305(c), added subsec. (e).
@@ -81,6 +113,10 @@ Subsec. (b)(4). Pub. L. 98–353, §528(b)(2), inserted “other” after “cla
 Subsec. (b)(7). Pub. L. 98–353, §528(b)(3), inserted “subject to section 365 of this title,” before “provide”, substituted “, rejection, or assignment” for “or rejection”, and substituted “under such section” for “under section 365 of this title”.
 
 Subsec. (b)(8). Pub. L. 98–353, §528(b)(4), struck out “any” before “part of a claim”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

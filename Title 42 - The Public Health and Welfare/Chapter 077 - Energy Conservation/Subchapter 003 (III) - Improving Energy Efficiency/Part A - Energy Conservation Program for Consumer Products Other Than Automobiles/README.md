@@ -13,6 +13,7 @@ This part was, in the original, designated part B and has been redesignated as p
 - [&sect; 06292 - Coverage](%C2%A7%2006292%20-%20Coverage.md)
 - [&sect; 06293 - Test procedures](%C2%A7%2006293%20-%20Test%20procedures.md)
 - [&sect; 06294 - Labeling](%C2%A7%2006294%20-%20Labeling.md)
+- [&sect; 06294a - Energy Star program](%C2%A7%2006294a%20-%20Energy%20Star%20program.md)
 - [&sect; 06295 - Energy conservation standards](%C2%A7%2006295%20-%20Energy%20conservation%20standards.md)
 - [&sect; 06296 - Requirements of manufacturers](%C2%A7%2006296%20-%20Requirements%20of%20manufacturers.md)
 - [&sect; 06297 - Effect on other law](%C2%A7%2006297%20-%20Effect%20on%20other%20law.md)

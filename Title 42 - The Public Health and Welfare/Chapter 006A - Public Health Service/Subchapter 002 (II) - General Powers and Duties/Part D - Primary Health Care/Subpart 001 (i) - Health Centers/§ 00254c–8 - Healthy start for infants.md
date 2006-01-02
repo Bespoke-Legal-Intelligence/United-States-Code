@@ -12,7 +12,7 @@
 
 #### (3) Additional grants
 
-&emsp;Effective upon increased funding beyond fiscal year 1999 for such Initiative, additionalgrants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.
+&emsp;Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.
 
 #### (b) Requirements for making grants
 
@@ -24,7 +24,7 @@ Recipients of grants under subsection (a) of this section shall coordinate their
 
 #### (d) Rule of construction
 
-Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to make modifications in the program carried out under subsection (a) of this section.
+Except to the extent inconsistent with this section, this section may not be construed as affecting the authority of the Secretary to makemodifications in the program carried out under subsection (a) of this section.
 
 #### (e) Additional services for at-risk pregnant women and infants
 

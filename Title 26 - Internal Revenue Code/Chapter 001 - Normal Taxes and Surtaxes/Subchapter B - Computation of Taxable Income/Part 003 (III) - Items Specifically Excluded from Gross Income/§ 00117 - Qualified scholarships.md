@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;Paragraph (1) shall not apply to any amount received by an individual under—
 
-&emsp;&emsp;(A) the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act, or
+&emsp;&emsp;(A) the National Health Service Corps Scholarship Program under section338A(g)(1)(A) of the Public Health Service Act, or
 
 &emsp;&emsp;(B) the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code.
 
@@ -118,7 +118,7 @@ Subsec. (d)(4). Pub. L. 99–514, §1151(g)(2), added par. (4).
 
 1980—Subsec. (c). Pub. L. 96–541 added subsec. (c).
 
-1976—Subsecs. (a)(1)(A), (b)(1), (2). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (as defined in section 151(e)(4))” after “scholarship at an”.
+1976—Subsecs. (a)(1)(A), (b)(1), (2). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational organizationdescribed in section 170(b)(1)(A)(ii)” for “educational institution (as defined in section 151(e)(4))” after “scholarship at an”.
 
 Subsec. (b)(2)(A)(iv). Pub. L. 94–455, §1901(c)(3), struck out “a territory” after “or a State”.
 
@@ -229,8 +229,4 @@ Definition of Uniformed Services.—For purposes of this section, the term ‘un
 Effective Date.—The provisions of this section shall apply with respect to amounts received during calendar years 1973, 1974, and 1975, and, in the case of a member of a uniformed service receiving training after 1975 and before 1981 in programs described in subsection (a), with respect to amounts received after 1975 and before 1985.”
 
 \[Section 6 of Pub. L. 95–615, which reenacted §4(c) of Pub. L. 93–483 without change, to cease to have effect on the day after Nov. 8, 1978, see section 210(a) of Pub. L. 95–615, set out as a note under section 61 of this title.\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25A, 74, 125, 127, 135, 414, 1441, 3121, 3231, 3306, 3401, 4941, 4945 of this title; title 42 section 409.
 

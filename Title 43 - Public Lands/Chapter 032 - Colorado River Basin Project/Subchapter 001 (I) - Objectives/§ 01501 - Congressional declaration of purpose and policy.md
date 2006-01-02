@@ -44,7 +44,7 @@ Pub. L. 108–451, title I, §101, Dec. 10, 2004, 118 Stat. 3486, provided that:
 
 \[For repeal of section 101 of Pub. L. 108–451, set out above, effective Jan. 1, 2008, if Secretary does not publish statement of findings under section 207(c) of Pub. L. 108–451 by Dec. 31, 2007, see section 111(a)(1) of Pub. L. 108–451, set out as a note above.\]
 
-Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that: “This title \[amending section 1524 of this title and enacting and repealing provisions set out as notes under this section\] may be cited as the‘Gila River Indian Community Water Rights Settlement Act of 2004’.”
+Pub. L. 108–451, title II, §201, Dec. 10, 2004, 118 Stat. 3499, provided that: “This title \[amending section 1524 of this title and enacting and repealing provisions set out as notes under this section\] may be cited as the ‘Gila River Indian Community Water Rights Settlement Act of 2004’.”
 
 \[For repeal of section 201 of Pub. L. 108–451, set out above, effective Jan. 1, 2008, if the Secretary does not publish a statement of findings under section 207(c) of Pub. L. 108–451 by Dec. 31, 2007, see section 215(1) of Pub. L. 108–451, set out as a note above.\]
 

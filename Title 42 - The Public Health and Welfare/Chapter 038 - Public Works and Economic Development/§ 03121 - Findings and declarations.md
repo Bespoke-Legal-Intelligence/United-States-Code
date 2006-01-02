@@ -66,7 +66,7 @@ Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Ac
 
 Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: “That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the ‘Regional Development Act of 1975’.”
 
-Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: “This title \[enacting sections 3194 to 3196of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the ‘Regional Action Planning Commission Improvement Act of 1975’.”
+Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: “This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the ‘Regional Action Planning Commission Improvement Act of 1975’.”
 
 #### Short Title of 1974 Amendment
 
@@ -114,7 +114,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 #### Denali Commission
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516, provided that:
 
 #### “SEC. 301. SHORT TITLE.
 
@@ -168,7 +168,7 @@ In general.—The President pro temporare \[sic\] of the Senate and the Speaker 
 
 &emsp;&emsp;“(B)
 
-Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A).The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
+Appointment.—The Secretary shall appoint the Federal Cochairperson from among the list of nominations submitted under subparagraph (A). The Federal Cochairperson shall serve as an employee of the Department of Commerce, and may be removed by the Secretary for cause.
 
 &emsp;&emsp;“(C)
 
@@ -288,7 +288,7 @@ Staff.—
 
 &emsp;“(1)
 
-In general.—The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as maybe necessary to enable the Commission to perform its duties.
+In general.—The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
 
 &emsp;“(2)
 
@@ -344,7 +344,115 @@ Docks, Waterfront Transportation Development, and Related Infrastructure Project
 
 “The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Commission.
 
-#### “SEC. 309. AUTHORIZATION OF APPROPRIATIONS.
+#### “SEC. 309. DENALI ACCESS SYSTEM PROGRAM.
+
+“(a)
+
+Establishment of the Denali Access System Program.—Not later than 3 months after the date ofenactment of the SAFETEA–LU \[Aug. 10, 2005\], the Secretary of Transportation shall establish a program to pay the costs of planning, designing, engineering, and constructing road and other surface transportation infrastructure identified for the Denali access system program under this section.
+
+“(b)
+
+Denali Access System Program Advisory Committee.—
+
+&emsp;“(1)
+
+Establishment.—Not later than 3 months after the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\], the Denali Commission shall establish a Denali Access System Program Advisory Committee (referred to in this section as the ‘advisory committee’).
+
+&emsp;“(2)
+
+Membership.—The advisory committee shall be composed of nine members to be appointed by the Governor of the State of Alaska as follows:
+
+&emsp;&emsp;“(A) The chairman of the Denali Commission.
+
+&emsp;&emsp;“(B) Four members who represent existing regional native corporations, native nonprofit entities, or tribal governments, including one member who is a civil engineer.
+
+&emsp;&emsp;“(C) Four members who represent rural Alaska regions or villages, including one member who is a civil engineer.
+
+&emsp;“(3)
+
+Terms.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except for the chairman of the Commission who shall remain a member of the advisory committee, members shall be appointed to serve a term of 4 years.
+
+&emsp;&emsp;“(B)
+
+Initial members.—Except for the chairman of the Commission, of the eight initial members appointed to the advisory committee, two shall be appointed for a term of 1 year, two shall be appointed for a term of 2 years, two shall be appointed for a term of 3 years, and two shall be appointed for a term of 4 years. All subsequent appointments shall be for 4 years.
+
+&emsp;“(4)
+
+Responsibilities.—The advisory committee shall be responsible for the following activities:
+
+&emsp;&emsp;“(A) Advising the Commission on the surface transportation needs of Alaska Native villages and rural communities, including projects for the construction of essential access routes within remote Alaska Native villages and rural communities and for the construction of roads and facilities necessary to connect isolated rural communities to a road system.
+
+&emsp;&emsp;“(B) Advising the Commission on considerations for coordinatedtransportation \[sic\] planning among the Alaska Native villages, Alaska rural villages, the State of Alaska, and other government entities.
+
+&emsp;&emsp;“(C) Establishing a list of transportation priorities for Alaska Native village and rural community transportation projects on an annual basis, including funding recommendations.
+
+&emsp;&emsp;“(D) Facilitate the Commission's work on transportation projects involving more than one region.
+
+&emsp;“(5) FACA
+
+exemption.—The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee.
+
+“(c)
+
+Allocation of Funds.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall allocate funding authorized and made available for the Denali access system program to the Commission to carry out this section.
+
+&emsp;“(2)
+
+Distribution of funding.—In distributing funds for surface transportation projects funded under the program, the Commission shall consult the list of transportation priorities developed by the advisory committee.
+
+“(d)
+
+Preference to Alaska Materials and Products.—To construct a project under this section, the Commission shall encourage, to the maximum extent practicable, the use of employees and businesses that are residents of Alaska.
+
+“(e)
+
+Design Standards.—Each project carried out under this section shall use technology and design standards determined by the Commission to be appropriate given the location and the functionality of the project.
+
+“(f)
+
+Maintenance.—Funding for a construction project under this section may include an additional amount equal to not more than 10 percent of the total cost of construction, to be retained for future maintenance of the project. All such retained funds shall be dedicated for maintenance of the project and may not be used for other purposes.
+
+“(g)
+
+Lead Agency Designation.—For purposes of projects carried out under this section, the Commission shall be designated as the lead agency for purposes of accepting Federal funds and for purposes of carrying out this project.
+
+“(h)
+
+Non-Federal Share.—Notwithstanding any other provision of law, funds made available to carry out this section may be used to meet the non-Federal share of the cost of projects under title 23, United States Code.
+
+“(i)
+
+Surface Transportation Program Transferability.—
+
+&emsp;“(1)
+
+Transferability.—In any fiscal year, up to 15 percent of the amounts made available to the State of Alaska for surface transportation by section 133 of title 23, United States Code, may be transferred to the Denali access system program.
+
+&emsp;“(2)
+
+No effect on set-aside.—Paragraph (2) of section 133(d) \[of title 23\], United States Code, shall not apply to funds transferred under paragraph (1).
+
+“(j)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There is authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) to carry out this section $15,000,000 for each of fiscal years 2006 through 2009.
+
+&emsp;“(2)
+
+Applicability of title 23.—Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of any project carried out using such funds shall be determined in accordance with section 120(b).
+
+#### “SEC. 310. AUTHORIZATION OF APPROPRIATIONS.
 
 “(a)
 
@@ -356,11 +464,11 @@ Availability.—Any sums appropriated under the authorization contained in this 
 
 “
 
-Sec. 310. (a) The Federal Co-chairman of the Denali Commission shall appoint an Economic Development Committee to be chaired by the president of the Alaska Federation of Natives which shall include the Commissioner of Community and Economic Affairs for the State of Alaska, a representative from the Alaska Bankers Association, the chairman of the Alaska Permanent Fund, a representative from the Alaska State Chamber of Commerce, and a representative from each region. Of the regional representatives, at least two each shall be from Native regional corporations, Native non-profit corporations, tribes, and borough governments.
+Sec. 310 \[311\]. (a) The Federal Co-chairman of the Denali Commission shall appoint an Economic Development Committee to be chaired by the president of the Alaska Federation of Natives which shall include the Commissioner of Community and Economic Affairs for the State of Alaska, a representative from the Alaska Bankers Association, the chairman of the Alaska Permanent Fund, a representative from the Alaska State Chamber of Commerce, and a representative from each region. Of the regional representatives, at least two each shall be from Native regional corporations, Native non-profit corporations, tribes, and borough governments.
 
 “(b) The Economic Development Committee is authorized to consider and approve applications from Regional Advisory Committees for grants and loans to promote economic development and promote private sector investment to reduce poverty in economically distressed rural villages. The Economic Development Committee may make mini-grants to individual applicants and may issue loans under such terms and conditions as it determines.
 
-“(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region, local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
+“(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region,local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
 
 “(d) The Economic Development Committee, in consultation with the First Alaskans Institute, may develop rural development performance measures linking economic growth to poverty reduction to measure the success of its program which may include economic, educational, social, and cultural indicators. The performance measures will be tested in one region for 2 years and evaluated by the University of Alaska before being deployed statewide. Thereafter, performance in each region shall be evaluated using the performance measures, and the Economic Development Committee shall not fund projects which do not demonstrate success.
 
@@ -418,7 +526,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment of an Interagency Task Force on the Economic Development of the Southwest Border</i>. (a) There is established the “Interagency Task Force on the Economic Development of the Southwest Border” (Task Force) that reports to the Vice President, as Chair of the President's Community Empowerment Board (PCEB), and to the Assistant to the President for Economic Policy, as Vice Chair of the PCEB.
 
-(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
+(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy,Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
 
 (c) The purpose of the Task Force is to coordinate and better leverage existing Administration efforts for the Southwest Border, in concert with locally led efforts, in order to increase the living standards and the overall economic profile of the Southwest Border so that it may achieve the average of the Nation. Specifically, the Task Force shall:
 

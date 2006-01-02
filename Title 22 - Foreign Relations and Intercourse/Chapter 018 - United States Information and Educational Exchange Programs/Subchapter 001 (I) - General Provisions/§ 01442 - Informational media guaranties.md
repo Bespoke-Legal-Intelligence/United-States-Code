@@ -22,7 +22,7 @@ Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this ti
 
 #### (f) Advance payments
 
-The Director is further authorized, under such terms as he may prescribe, to make advancepayments under informational media guaranties: <i>Provided</i>, That currencies receivable from holders of such guaranties on account of such advance payments shall be paid to the United States within nine months from the date of the advance payment and that appropriate security to assure such payments is required before any advance payment is made.
+The Director is further authorized, under such terms as he may prescribe, to make advance payments under informational media guaranties: <i>Provided</i>, That currencies receivable from holders of such guaranties on account of such advance payments shall be paid to the United States within nine months from the date of the advance payment and that appropriate security to assure such payments is required before any advance payment is made.
 
 #### (g) Separate accounts; transfers
 

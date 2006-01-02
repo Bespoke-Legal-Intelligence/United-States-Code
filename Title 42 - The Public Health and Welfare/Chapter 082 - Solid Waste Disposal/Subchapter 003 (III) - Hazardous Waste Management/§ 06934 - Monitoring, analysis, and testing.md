@@ -16,7 +16,7 @@ In the case of any facility or site not in operation at the time a determination
 
 #### (c) Proposal
 
-An order under subsection (a) or (b) of this section shall require the person to whom such orderis issued to submit to the Administrator within 30 days from the issuance of such order a proposal for carrying out the required monitoring, testing, analysis, and reporting. The Administrator may, after providing such person with an opportunity to confer with the Administrator respecting such proposal, require such person to carry out such monitoring, testing, analysis, and reporting in accordance with such proposal, and such modifications in such proposal as the Administrator deems reasonable to ascertain the nature and extent of the hazard.
+An order under subsection (a) or (b) of this section shall require the person to whom such order is issued to submit to the Administrator within 30 days from the issuance of such order a proposal for carrying out the required monitoring, testing, analysis, and reporting. The Administrator may, after providing such person with an opportunity to confer with the Administrator respecting such proposal, require such person to carry out such monitoring, testing, analysis, and reporting in accordance with such proposal, and such modifications in such proposal as the Administrator deems reasonable to ascertain the nature and extent of the hazard.
 
 #### (d) Monitoring, etc., carried out by Administrator
 

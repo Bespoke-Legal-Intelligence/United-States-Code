@@ -40,7 +40,11 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs areunable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+
+#### Department of Veterans Affairs Franchise Fund
+
+Pub. L. 104–204, title I, Sept. 26, 1996, 110 Stat. 2880, as amended by Pub. L. 109–114, title II, §208, Nov. 30, 2005, 119 Stat. 2389, provided in part that: “There is hereby established in the Treasury a Department of Veterans Affairs franchise fund, to be available without fiscal year limitation for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment and other assets pertaining to the services to be provided by the franchise fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the franchise fund: <i>Provided further</i>, That the franchise fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That the franchise fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Departmental financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury.”
 
 #### Renaming of Veterans Health Services and Research Administration
 
@@ -118,7 +122,7 @@ Redesignation.—The Office of Inspector General of the Veterans’ Administrati
 
 “(a)
 
-Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
+Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits,grants, contracts, certificates, licenses, and privileges—
 
 &emsp;“(1) which have been issued, made, granted, or allowed to become effective by the President, by the Administrator of Veterans’ Affairs, or by a court of competent jurisdiction, in the performance of functions of the Administrator or the Veterans’ Administration; and
 

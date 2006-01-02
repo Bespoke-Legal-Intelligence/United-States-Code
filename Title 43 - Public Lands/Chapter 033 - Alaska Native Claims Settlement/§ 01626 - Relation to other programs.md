@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 #### (e) Minority and economically disadvantaged status
 
-(1) For all purposes of Federal law, a Native Corporation shall be considered to be a corporation owned and controlled by Natives and a minority and economically disadvantaged business enterprise if the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement CommonStock and by Natives and descendants of Natives, represents a majority of both the total equity of the corporation and the total voting power of the corporation for the purposes of electing directors.
+(1) For all purposes of Federal law, a Native Corporation shall be considered to be a corporation owned and controlled by Natives and a minority and economically disadvantaged business enterprise if the Settlement Common Stock of the corporation and other stock of the corporation held by holders of Settlement Common Stock and by Natives and descendants of Natives, represents a majority of both the total equity of the corporation and the total voting power of the corporation for the purposes of electing directors.
 
 (2) For all purposes of Federal law, direct and indirect subsidiary corporations, joint ventures, and partnerships of a Native Corporation qualifying pursuant to paragraph (1) shall be considered to be entities owned and controlled by Natives and a minority and economically disadvantaged business enterprise if the shares of stock or other units of ownership interest in any such entity held by such Native Corporation and by the holders of its Settlement Common Stock represent a majority of both—
 
@@ -72,7 +72,7 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 
 Section 502 of P.L. 100–656, referred to in subsec. (e)(4)(B), is section 502 of title V of Pub. L. 100–656, Nov. 15, 1988, 102 Stat. 3881, which amended section 644(g) of Title 15, Commerce and Trade.
 
-Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act are set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
+Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 

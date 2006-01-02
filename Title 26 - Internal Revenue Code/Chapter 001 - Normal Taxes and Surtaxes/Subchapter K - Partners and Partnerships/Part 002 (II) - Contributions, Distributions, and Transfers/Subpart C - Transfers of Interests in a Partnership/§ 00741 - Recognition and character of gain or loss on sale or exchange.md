@@ -8,7 +8,3 @@ In the case of a sale or exchange of an interest in a partnership, gain or loss 
 
 2002—Pub. L. 107–147 struck out “which have appreciated substantially in value” after “inventory items”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 751 of this title.
-

@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any gift loan directly between individuals, this section shall notapply to any day on which the aggregate outstanding amount of loans between such individuals does not exceed $10,000.
+&emsp;&emsp;In the case of any gift loan directly between individuals, this section shall not apply to any day on which the aggregate outstanding amount of loans between such individuals does not exceed $10,000.
 
 #### (B) De minimis exception not to apply to loans attributable to acquisition of income-producing assets
 
@@ -128,7 +128,7 @@
 
 #### (iii) Additional amounts treated as interest
 
-&emsp;&emsp;&emsp;In determining the net investment income of a person for any year, any amount which would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
+&emsp;&emsp;&emsp;In determining the net investment income of a person for any year, any amountwhich would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
 
 #### (iv) Deferred payment obligations
 
@@ -230,7 +230,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facility pursuant to a continuing care contract if the lender (or the lender's spouse) attains age 65 before the close of such year.
+&emsp;This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facilitypursuant to a continuing care contract if the lender (or the lender's spouse) attains age 65 before the close of such year.
 
 #### (2) $90,000 limit
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 #### (B) Substantially all facilities must be owned or operated by borrower
 
-&emsp;&emsp;A facility shall not be treated as a qualified continuing care facility unless substantially all facilities which are used to provideservices which are required to be provided under a continuing care contract are owned or operated by the borrower.
+&emsp;&emsp;A facility shall not be treated as a qualified continuing care facility unless substantially all facilities which are used to provide services which are required to be provided under a continuing care contract are owned or operated by the borrower.
 
 #### (C) Nursing homes excluded
 
@@ -424,7 +424,7 @@ Treatment of renegotiations, etc.—For purposes of this subsection, any loan re
 
 “(6)
 
-Definition of term and demand loans.—For purposes of this subsection, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986, as added by this section, but the second sentence of such paragraph (5) shall not apply.”
+Definition of term and demand loans.—For purposes of this subsection, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) ofthe Internal Revenue Code of 1986, as added by this section, but the second sentence of such paragraph (5) shall not apply.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -439,8 +439,4 @@ Section 1812(b)(5) of Pub. L. 99–514, as amended by Pub. L. 101–179, title I
 &emsp;“(B) the obligation bears interest at an annual rate of not less than 4 percent.”
 
 \[Section 307(b) of Pub. L. 101–179 provided that: “The amendments made by this section \[amending section 1812(b)(5) of Pub. L. 99–514, set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\].”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 142, 856, 4941 of this title.
 

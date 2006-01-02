@@ -20,7 +20,3 @@ If the Secretary determines that any property seized is liable to perish or beco
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6335, 6863, 7103 of this title.
-

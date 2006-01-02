@@ -44,7 +44,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;(H) provides that, no more than 6 months prior to the date on which the borrower's first payment on a loan is due, the lender shall offer the borrower the option of repaying the loan in accordance with a graduated or income-sensitive repayment schedule established by the lender and in accordance with the regulations of the Secretary; and
 
-&emsp;&emsp;(I) contains such other terms and conditions, consistent with the provisions of this part and with the regulations issued by the Secretary pursuant to this part, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay the lender, in addition to principal and interest, amounts equal tothe insurance premiums payable by the lender to the Secretary with respect to such loan;
+&emsp;&emsp;(I) contains such other terms and conditions, consistent with the provisions of this part and with the regulations issued by the Secretary pursuant to this part, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan;
 
 &emsp;(3) the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except—
 

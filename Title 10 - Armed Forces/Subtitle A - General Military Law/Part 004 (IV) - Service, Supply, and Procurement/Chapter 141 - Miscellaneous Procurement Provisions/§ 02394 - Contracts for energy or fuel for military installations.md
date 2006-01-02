@@ -34,7 +34,3 @@ Subsecs. (c), (d). Pub. L. 97–321, §805(b)(3)(B), redesignated subsec. (d) as
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 591.
-

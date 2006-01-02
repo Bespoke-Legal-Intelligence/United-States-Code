@@ -72,7 +72,15 @@ For purposes of this section, the term “existing policyholders surplus account
 
 Except to the extent inconsistent with the provisions of this part, the provisions of subsections (d), (e), (f), and (g) of section 815 (and of sections 819(b), 6501(c)(6), 6501(k), 6511(d)(6), 6601(d)(3), and 6611(f)(4)) as in effect before the enactment of the Tax Reform Act of 1984 are hereby made applicable in respect of any policyholders surplus account for which there was a balance as of December 31, 1983.
 
-(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 747; amended Pub. L. 99–514, title X, §1011(b)(10), title XVIII, §1821(k)(1), (2), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, §1010(j)(1), Nov. 10, 1988, 102 Stat. 3456.)
+#### (g) Special rules applicable during 2005 and 2006
+
+In the case of any taxable year of a stock life insurance company beginning after December 31, 2004, and before January 1, 2007—
+
+&emsp;(1) the amount under subsection (a)(2) for such taxable year shall be treated as zero, and
+
+&emsp;(2) notwithstanding subsection (b), in determining any subtractions from an account under subsections (c)(3) and (d)(3), any distribution to shareholders during such taxable year shall be treated as made first out of the policyholders surplus account, then out of the shareholders surplus account, and finally out of other accounts.
+
+(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 747; amended Pub. L. 99–514, title X, §1011(b)(10), title XVIII, §1821(k)(1), (2), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, §1010(j)(1), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 108–357, title VII, §705(a), Oct. 22, 2004, 118 Stat. 1549.)
 
 #### References in Text
 
@@ -84,6 +92,8 @@ A prior section 815, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 129;
 
 #### Amendments
 
+2004—Subsec. (g). Pub. L. 108–357 added subsec. (g).
+
 1988—Subsec. (c)(2). Pub. L. 100–647 inserted at end “If for any taxable year a tax is imposed by section 55, under regulations proper adjustments shall be made for such year and all subsequent taxable years in the amounts taken into account under subparagraphs (A) and (B) of this paragraph and subparagraph (B) of subsection (d)(3).”
 
 1986—Subsec. (a). Pub. L. 99–514, §1821(k)(2), inserted at end “For purposes of the preceding sentence, the term ‘indirect distribution’ shall not include any bona fide loan with arms-length terms and conditions.”
@@ -91,6 +101,10 @@ A prior section 815, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 129;
 Subsec. (c)(2)(A)(ii). Pub. L. 99–514, §1011(b)(10), substituted “small life insurance company deduction” for “special deductions”.
 
 Subsec. (f). Pub. L. 99–514, §1821(k)(1), inserted reference to section 819(b).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VII, §705(b), Oct. 22, 2004, 118 Stat. 1549, provided that: “The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
 
 #### Effective Date of 1988 Amendment
 
@@ -145,8 +159,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Amount of Indirect Distribution for Loans Before March 1, 1986; Determination; Exception
 
 Section 1821(k)(3) of Pub. L. 99–514 provided that: “In the case of any loan made before March 1, 1986 (other than a loan which is renegotiated, extended, renewed, or revised after February 28, 1986), which does not meet the requirements of the last sentence of section 815(a) of the Internal Revenue Code of 1954 \[now 1986\] (as added by paragraph (2)), the amount of the indirect distribution for purposes of such section 815(a) shall be the foregone interest on the loan (determined by using the lowest rate which would have met the arms-length requirements of such sentence for such a loan).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 801 of this title.
 

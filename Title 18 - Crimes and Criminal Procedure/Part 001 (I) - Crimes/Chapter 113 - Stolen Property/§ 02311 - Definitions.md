@@ -70,7 +70,7 @@ Pub. L. 102–519, §1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Ac
 
 #### Short Title of 1984 Amendments
 
-Section 1(a) of Pub. L. 98–547 provided that: “This Act \[enacting sections 511, 512, 553, and 2320 \[now 2321\] of this title, sections 2021 to 2034 of Title 15, Commerce and Trade, and section 1627 of Title 19, Customs Duties, amending this section, sections 1961 and 2313 of this title, and section 1901 of Title 15, and enacting provisions set out as a note under section 2021 of Title 15\] may be cited as the ‘Motor Vehicle Theft Law Enforcement Act of 1984’.”
+Section 1(a) of Pub. L. 98–547 provided that: “This Act \[enacting sections 511, 512, 553, and 2320 \[now 2321\] of this title, sections 2021 to 2034 of Title 15, Commerce and Trade, and section 1627 of Title 19, Customs Duties,amending this section, sections 1961 and 2313 of this title, and section 1901 of Title 15, and enacting provisions set out as a note under section 2021 of Title 15\] may be cited as the ‘Motor Vehicle Theft Law Enforcement Act of 1984’.”
 
 Section 1501 of chapter XV (§§1501–1503) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting section 2320 of this title and amending sections 1116, 1117, and 1118 of Title 15, Commerce and Trade\] may be cited as the ‘Trademark Counterfeiting Act of 1984’.”
 

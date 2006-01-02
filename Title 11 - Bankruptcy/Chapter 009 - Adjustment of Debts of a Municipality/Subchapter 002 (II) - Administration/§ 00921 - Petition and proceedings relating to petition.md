@@ -6,11 +6,11 @@
 
 (c) After any objection to the petition, the court, after notice and a hearing, may dismiss the petition if the debtor did not file the petition in good faith or if the petition does not meet the requirements of this title.
 
-(d) If the petition is not dismissed under subsection (c) of this section, the court shall order relief under this chapter.
+(d) If the petition is not dismissed under subsection (c) of this section, the court shall order relief under this chapter notwithstanding section 301(b).
 
 (e) The court may not, on account of an appeal from an order for relief, delay any proceeding under this chapter in the case in which the appeal is being taken; nor shall any court order a stay of such proceeding pending such appeal. The reversal on appeal of a finding of jurisdiction does not affect the validity of any debt incurred that is authorized by the court under section 364(c) or 364(d) of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2622; Pub. L. 98–353, title III, §494, July 10, 1984, 98 Stat. 383.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2622; Pub. L. 98–353, title III, §494, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title V, §501(a), Apr. 20, 2005, 119 Stat. 118.)
 
 #### Historical and Revision Notes
 
@@ -36,6 +36,8 @@ Subsection (e) contains the fifth and sixth sentences of section 85(a) \[section
 
 #### Amendments
 
+2005—Subsec. (d). Pub. L. 109–8 inserted “notwithstanding section 301(b)” before period at end.
+
 1984—Subsec. (a). Pub. L. 98–353, §494(c), substituted “109(d)” for “109(c)”.
 
 Subsec. (c). Pub. L. 98–353, §494(a), substituted “any” for “an”, and “petition if the debtor did not file the petition in good faith” for “petition, if the debtor did not file the petition in good faith,”.
@@ -43,6 +45,10 @@ Subsec. (c). Pub. L. 98–353, §494(a), substituted “any” for “an”, and
 Subsec. (d). Pub. L. 98–353, §494(b), (d), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. No former subsec. (d) had been enacted.
 
 Subsecs. (e), (f). Pub. L. 98–353, §494(b), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

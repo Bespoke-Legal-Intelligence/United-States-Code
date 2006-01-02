@@ -116,7 +116,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (5) Effect of failure to make determination
 
-&emsp;(A) The failure by the Customs Service to make a final determination with respect to the admissibility of detained merchandise within 30 days after the merchandise has been presented for customs examination, or such longer period if specifically authorized by law,shall be treated as a decision of the Customs Service to exclude the merchandise for purposes of section 1514(a)(4) of this title.
+&emsp;(A) The failure by the Customs Service to make a final determination with respect to the admissibility of detained merchandise within 30 days after the merchandise has been presented for customs examination, or such longer period if specifically authorized by law, shall be treated as a decision of the Customs Service to exclude the merchandise for purposes of section 1514(a)(4) of this title.
 
 &emsp;(B) For purposes of section 1581 of title 28, a protest against the decision to exclude the merchandise which has not been allowed or denied in whole or in part before the 30th day after the day on which the protest was filed shall be treated as having been denied on such 30th day.
 

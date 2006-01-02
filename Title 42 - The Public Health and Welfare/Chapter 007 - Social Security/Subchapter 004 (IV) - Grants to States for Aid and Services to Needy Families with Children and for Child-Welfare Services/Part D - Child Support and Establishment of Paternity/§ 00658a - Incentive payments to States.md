@@ -82,7 +82,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 &emsp;&emsp;&emsp;(i) 2 times the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
+&emsp;&emsp;&emsp;&emsp;(I) the total amount of support collected during the fiscal year under theState plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved was so assigned but, at the time of collection, is not required to be so assigned; and
 
@@ -144,7 +144,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of support order performance level
 
-&emsp;&emsp;&emsp;The support order performance level for a State for a fiscal year is the percentage of the total number of cases under the State plan approved under this part inwhich there is a support order during the fiscal year.
+&emsp;&emsp;&emsp;The support order performance level for a State for a fiscal year is the percentage of the total number of cases under the State plan approved under this part in which there is a support order during the fiscal year.
 
 #### (ii) Determination of applicable percentage
 
@@ -194,7 +194,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of current payment performance level
 
-&emsp;&emsp;&emsp;The current payment performance level for a State for a fiscal year is equal to the total amount of current support collected during the fiscal year under the State plan approved under this part divided by the total amount of current support owed during the fiscal year in all cases under the State plan, expressed as a percentage.
+&emsp;&emsp;&emsp;The current payment performance level for a State for a fiscal year is equal to thetotal amount of current support collected during the fiscal year under the State plan approved under this part divided by the total amount of current support owed during the fiscal year in all cases under the State plan, expressed as a percentage.
 
 #### (ii) Determination of applicable percentage
 
@@ -354,7 +354,7 @@ A State to which a payment is made under this section shall expend the full amou
 
 &emsp;(2) for any activity (including cost-effective contracts with local agencies) approved by the Secretary, whether or not the expenditures for the activity are eligible for reimbursement under this part, which may contribute to improving the effectiveness or efficiency of the State program operated under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L.105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
+(Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L. 105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
 
 #### References in Text
 
@@ -394,7 +394,7 @@ Report on variations in state performance attributable to demographic variables.
 
 &emsp;&emsp;“(ii)
 
-Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress an interim report that contains the findings of the study required by subparagraph (A).
+Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress aninterim report that contains the findings of the study required by subparagraph (A).
 
 &emsp;&emsp;“(iii)
 

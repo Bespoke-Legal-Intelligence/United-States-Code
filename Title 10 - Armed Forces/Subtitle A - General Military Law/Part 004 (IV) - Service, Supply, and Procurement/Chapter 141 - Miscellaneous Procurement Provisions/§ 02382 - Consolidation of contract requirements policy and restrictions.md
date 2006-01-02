@@ -42,13 +42,17 @@ Definitions.—In this section:
 
 &emsp;(3) The term “senior procurement executive concerned” means—
 
-&emsp;&emsp;(A) with respect to a military department, the official designated under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) as the senior procurement executive for the military department; or
+&emsp;&emsp;(A) with respect to a military department, the official designated under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)) <sup>1</sup> as the senior procurement executive for the military department; or
 
 &emsp;&emsp;(B) with respect to a Defense Agency or a Department of Defense Field Activity, the official so designated for the Department of Defense.
 
 &emsp;(4) The term “small business concern” means a business concern that is determined by the Administrator of the Small Business Administration to be a small-business concern by application of the standards prescribed under section 3(a) of the Small Business Act (15 U.S.C. 632(a)).
 
 (Added Pub. L. 108–136, div. A, title VIII, §801(a)(1), Nov. 24, 2003, 117 Stat. 1538.)
+
+#### References in Text
+
+Section 16 of the Office of Federal Procurement Policy Act, referred to in subsec. (c)(3)(A), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, no longer contains a par. (3). See section 414(c)(1) of Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -75,4 +79,6 @@ Pub. L. 108–136, div. A, title VIII, §801(b), Nov. 24, 2003, 117 Stat. 1540, 
 &emsp;“(A) The term ‘consolidation of contract requirements’ has the meaning given that term in section 2382(c)(1) of title 10, United States Code, as added by subsection (a).
 
 &emsp;“(B) The term ‘small business concern’ means a business concern that is determined by the Administrator of the Small Business Administration to be a small-business concern by application of the standards prescribed under section 3(a) of the Small Business Act (15 U.S.C. 632(a)).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §1803. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for the purposes of carrying out theprovisions of this chapter, not to exceed the following sums:
+There are authorized to be appropriated to the Secretary for the purposes of carrying out the provisions of this chapter, not to exceed the following sums:
 
 &emsp;(1) $147,000,000 for fiscal year 1996;
 

@@ -10,7 +10,7 @@ A prior section 405 of Pub. L. 89–136 was classified to section 3173 of this t
 
 Prior sections 3181 to 3190 were repealed by Pub. L. 97–35, title XVIII, §1821(a)(8), Aug. 13, 1981, 95 Stat. 766, effective Sept. 30, 1981.
 
-Section 3181, Pub. L. 89–136, title V, §501, Aug. 26, 1965, 79 Stat. 564; Pub. L. 91–123, title II, §202, Nov. 25, 1969, 83 Stat. 216; Pub. L. 94–188, title II, §209(a), Dec. 31, 1975, 89 Stat. 1091, related to designation, etc., of economic development regions.
+Section 3181, Pub. L. 89–136, title V, §501, Aug. 26, 1965, 79 Stat. 564; Pub. L. 91–123, title II, §202, Nov. 25, 1969,83 Stat. 216; Pub. L. 94–188, title II, §209(a), Dec. 31, 1975, 89 Stat. 1091, related to designation, etc., of economic development regions.
 
 Section 3182, Pub. L. 89–136, title V, §502, Aug. 26, 1965, 79 Stat. 564; Pub. L. 94–188, title II, §§208, 209(b), Dec. 31, 1975, 89 Stat. 1091, related to establishment, membership, etc., of regional commissions.
 

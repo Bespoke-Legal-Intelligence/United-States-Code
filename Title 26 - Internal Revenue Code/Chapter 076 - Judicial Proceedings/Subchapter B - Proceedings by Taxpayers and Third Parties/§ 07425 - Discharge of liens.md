@@ -6,7 +6,7 @@ If the United States is not joined as a party, a judgment in any civil action or
 
 &emsp;(1) shall be made subject to and without disturbing the lien of the United States, if notice of such lien has been filed in the place provided by law for such filing at the time such action or suit is commenced, or
 
-&emsp;(2) shall have the same effect with respect to the discharge or divestment of such lien of theUnited States as may be provided with respect to such matters by the local law of the place where such property is situated, if no notice of such lien has been filed in the place provided by law for such filing at the time such action or suit is commenced or if the law makes no provision for such filing.
+&emsp;(2) shall have the same effect with respect to the discharge or divestment of such lien of the United States as may be provided with respect to such matters by the local law of the placewhere such property is situated, if no notice of such lien has been filed in the place provided by law for such filing at the time such action or suit is commenced or if the law makes no provision for such filing.
 
 > If a judicial sale of property pursuant to a judgment in any civil action or suit to which the United States is not a party discharges a lien of the United States arising under the provisions of this title, the United States may claim, with the same priority as its lien had against the property sold, the proceeds (exclusive of costs) of such sale at any time before the distribution of such proceeds is ordered.
 
@@ -64,7 +64,7 @@ Notwithstanding subsection (a) sale of property on which the United States has o
 
 #### (C) Effect
 
-&emsp;&emsp;A certificate of redemption executed by the Secretary shall constitute prima facie evidence of the regularity of such redemption and shall, when recorded, transfer to the United States all the rights, title, andinterest in and to such property acquired by the person from whom the United States redeems such property by virtue of the sale of such property.
+&emsp;&emsp;A certificate of redemption executed by the Secretary shall constitute prima facie evidence of the regularity of such redemption and shall, when recorded, transfer to the United States all the rights, title, and interest in and to such property acquired by the person from whom the United States redeems such property by virtue of the sale of such property.
 
 (Added Pub. L. 89–719, title I, §109, Nov. 2, 1966, 80 Stat. 1141; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1572(a), Oct. 22, 1986, 100 Stat. 2765.)
 
@@ -85,8 +85,4 @@ Section 1572(b) of Pub. L. 99–514 provided that: “The amendment made by subs
 #### Effective Date
 
 Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7810 of this title; title 28 section 2409a.
 

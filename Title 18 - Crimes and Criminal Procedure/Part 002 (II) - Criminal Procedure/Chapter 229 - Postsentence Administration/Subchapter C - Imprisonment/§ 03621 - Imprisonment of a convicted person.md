@@ -70,17 +70,7 @@ Report.—The Bureau of Prisons shall transmit to the Committees on the Judiciar
 
 &emsp;(4)
 
-Authorization of appropriations.—There are authorized to be appropriated to carry out this subsection—
-
-&emsp;&emsp;(A) $13,500,000 for fiscal year 1996;
-
-&emsp;&emsp;(B) $18,900,000 for fiscal year 1997;
-
-&emsp;&emsp;(C) $25,200,000 for fiscal year 1998;
-
-&emsp;&emsp;(D) $27,000,000 for fiscal year 1999; and
-
-&emsp;&emsp;(E) $27,900,000 for fiscal year 2000.
+Authorization of appropriations.—There are authorized to carry out this subsection such sums as may be necessary for each of fiscal years 2007 through 2011.
 
 &emsp;(5)
 
@@ -88,9 +78,11 @@ Definitions.—As used in this subsection—
 
 &emsp;&emsp;(A) the term “residential substance abuse treatment” means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
 
-&emsp;&emsp;&emsp;(i) directed at the substance abuse problems of the prisoner; and
+&emsp;&emsp;&emsp;(i) directed at the substance abuse problems of the prisoner;
 
-&emsp;&emsp;&emsp;(ii) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems;
+&emsp;&emsp;&emsp;(ii) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems; and
+
+&emsp;&emsp;&emsp;(iii) which may include the use of pharmacoptherapies <sup>1</sup>, if appropriate, that may extend beyond the treatment period;
 
 &emsp;&emsp;(B) the term “eligible prisoner” means a prisoner who is—
 
@@ -104,13 +96,27 @@ Definitions.—As used in this subsection—
 
 Coordination of federal assistance.—The Bureau of Prisons shall consult with the Department of Health and Human Services concerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112.)
 
 #### Prior Provisions
 
 For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
 #### Amendments
+
+2006—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
+
+&emsp;“(A) $13,500,000 for fiscal year 1996;
+
+&emsp;“(B) $18,900,000 for fiscal year 1997;
+
+&emsp;“(C) $25,200,000 for fiscal year 1998;
+
+&emsp;“(D) $27,000,000 for fiscal year 1999; and
+
+&emsp;“(E) $27,900,000 for fiscal year 2000.”
+
+Subsec. (e)(5)(A)(iii). Pub. L. 109–162, §1146(2), added cl. (iii).
 
 1994—Subsec. (b). Pub. L. 103–322, §32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
 
@@ -123,4 +129,6 @@ Subsec. (e). Pub. L. 103–322, §32001(2), added subsec. (e).
 #### Effective Date
 
 Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under section 3551 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “pharmacotherapies”.</i>
 

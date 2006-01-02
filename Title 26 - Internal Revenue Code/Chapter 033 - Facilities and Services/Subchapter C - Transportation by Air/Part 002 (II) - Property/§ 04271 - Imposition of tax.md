@@ -20,7 +20,7 @@ There is hereby imposed upon the amount paid within or without the United States
 
 #### (c) Determination of amounts paid in certain cases
 
-For purposes of this section, in any case in which a person engaged in the business of transporting property by air for hire and one or more other persons not so engaged jointly provide services which include taxable transportation of property, and the person so engaged receives, for the furnishing of such taxable transportation, a portion of the receipts from the joint providing of such services, the amount paid for the taxable transportation shall be treated as being the sum of (1) the portion of the receipts so received, and (2) any expenses incurred by any of the persons not so engaged which are properly attributable to such taxable transportation and which are taken into account in determining the portion of the receipts so received.
+For purposes of this section, in any case in which a person engaged in the business of transporting property by air for hire and one or more other persons not so engaged jointly provide services which include taxable transportation of property, and the person so engaged receives, for the furnishing of such taxable transportation, a portion of the receipts from the joint providing of such services, the amount paid for the taxable transportation shall be treated as being the sum of (1) the portion of the receipts so received, and (2) any expenses incurred by any of the persons not so engaged which are properly attributableto such taxable transportation and which are taken into account in determining the portion of the receipts so received.
 
 #### (d) Application of tax
 
@@ -99,8 +99,4 @@ Section applicable to transportation beginning after June 30, 1970, see section 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 
 Due date for deposits of taxes imposed by this section which would be required to be made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4041, 4261, 4281, 4282, 6302, 6415, 9502 of this title.
 

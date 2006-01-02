@@ -18,7 +18,7 @@
 
 #### (2) Protection for those providing information to professional review bodies
 
-&emsp;Notwithstanding any other provision of law, no person (whether as a witness or otherwise) providing information to a professional review body regarding the competence or professional conduct of a physician shall be held, by reason of having provided such information, to be liable in damages under any law of the United States or of any State (or political subdivisionthereof) unless such information is false and the person providing it knew that such information was false.
+&emsp;Notwithstanding any other provision of law, no person (whether as a witness or otherwise) providing information to a professional review body regarding the competence or professional conduct of a physician shall be held, by reason of having provided such information, to be liable in damages under any law of the United States or of any State (or political subdivision thereof) unless such information is false and the person providing it knew that such information was false.
 
 #### (b) Exception
 
@@ -52,7 +52,7 @@ The Civil Rights Acts, referred to in subsec. (a)(1), are classified generally t
 
 1989—Subsec. (c)(2)(B), (C). Pub. L. 101–239 added Pub. L. 100–177, §402(c), see 1987 Amendment note below.
 
-1987—Subsec. (c)(2)(B), (C). Pub. L. 100–177, §402(c), as added by Pub. L. 101–239, redesignated subpar. (C) as (B), struck out “subparagraphs (A) and (B)” after “for purposes of”, and struck out former subpar. (B) which read as follows: “Subsection (a) of this section shall not apply to State laws in a State for actions commenced on or after October 14, 1989, if the State by legislation elects such treatment.”
+1987—Subsec. (c)(2)(B), (C). Pub. L. 100–177, §402(c), as added by Pub. L. 101–239, redesignated subpar. (C) as\(B), struck out “subparagraphs (A) and (B)” after “for purposes of”, and struck out former subpar. (B) which read as follows: “Subsection (a) of this section shall not apply to State laws in a State for actions commenced on or after October 14, 1989, if the State by legislation elects such treatment.”
 
 #### Effective Date of 1987 Amendment
 

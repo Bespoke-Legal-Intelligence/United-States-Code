@@ -1,6 +1,6 @@
 ### §2398. Participation of private school personnel
 
-An eligible agency or eligible recipient that uses funds under this chapter for inservice and preservice vocational and technical education professional development programs for vocational and technical education teachers, administrators, and other personnel may, upon request, permit the participation in such programs of vocational and technical education teachers, administrators, and other personnel in nonprofit private schools offering vocational and technical education programs located in the geographical area served by such agency or recipient.
+An eligible agency or eligible recipient that uses funds under this chapter for inservice and preservice vocational and technical education professional development programs for vocational and technical education teachers, administrators, and other personnel may, upon request, permit the participation in such programs of vocational and technical educationteachers, administrators, and other personnel in nonprofit private schools offering vocational and technical education programs located in the geographical area served by such agency or recipient.
 
 (Pub. L. 88–210, title III, §318, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3123.)
 

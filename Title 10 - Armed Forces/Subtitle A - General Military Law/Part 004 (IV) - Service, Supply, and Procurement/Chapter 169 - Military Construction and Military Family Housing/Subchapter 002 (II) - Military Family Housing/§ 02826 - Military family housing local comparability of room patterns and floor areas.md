@@ -38,7 +38,3 @@ Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(b)\], Oct. 30, 2000, 114 S
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2824, 2880 of this title.
-

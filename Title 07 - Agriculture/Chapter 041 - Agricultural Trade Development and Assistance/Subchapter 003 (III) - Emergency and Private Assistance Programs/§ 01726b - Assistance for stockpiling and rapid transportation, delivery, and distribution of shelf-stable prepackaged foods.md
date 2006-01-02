@@ -4,7 +4,7 @@
 
 The Administrator may provide grants to—
 
-&emsp;(1) United States nonprofit organizations (described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of title 26) for the preparation of shelf-stable prepackaged foods requested by eligible organizations and the establishment and maintenance of stockpiles of the foods in the United States; and
+&emsp;(1) United States nonprofit organizations (described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of title 26)for the preparation of shelf-stable prepackaged foods requested by eligible organizations and the establishment and maintenance of stockpiles of the foods in the United States; and
 
 &emsp;(2) private voluntary organizations and international organizations for the rapid transportation, delivery, and distribution of shelf-stable prepackaged foods described in paragraph (1) to needy individuals in foreign countries.
 
@@ -16,7 +16,7 @@ The Administrator may provide grants to—
 
 #### (2) Priority
 
-&emsp;In providing grants under subsection (a)(1) of this section, the Administrator shall provide apreference to a United States nonprofit organization that agrees to provide—
+&emsp;In providing grants under subsection (a)(1) of this section, the Administrator shall provide a preference to a United States nonprofit organization that agrees to provide—
 
 &emsp;&emsp;(A) non-Federal funds in an amount equal to 50 percent of the amount of funds received under a grant under subsection (a)(1) of this section;
 

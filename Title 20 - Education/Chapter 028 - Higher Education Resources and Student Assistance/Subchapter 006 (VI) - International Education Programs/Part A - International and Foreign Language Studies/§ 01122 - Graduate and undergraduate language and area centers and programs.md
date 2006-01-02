@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) to make grants to institutions of higher education, or combinations thereof, for the purpose of establishing, strengthening, and operating comprehensive foreign language and area or international studies centers and programs; and
 
-&emsp;&emsp;&emsp;(ii) to make grants to such institutions or combinations for the purpose of establishing, strengthening, and operating a diverse network of undergraduate foreign language and area or international studies centers and programs.
+&emsp;&emsp;&emsp;(ii) to make grants to such institutions or combinations for the purpose of establishing, strengthening, and operating a diverse network of undergraduate foreignlanguage and area or international studies centers and programs.
 
 #### (B) National resources
 

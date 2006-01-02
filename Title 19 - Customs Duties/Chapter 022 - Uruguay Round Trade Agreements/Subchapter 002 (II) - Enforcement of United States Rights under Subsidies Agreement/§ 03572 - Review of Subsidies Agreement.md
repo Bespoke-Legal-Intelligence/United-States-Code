@@ -34,7 +34,7 @@ The specific objective of the United States under this subchapter shall be to cr
 
 &emsp;&emsp;Any extension of subparagraphs (B), (C), (D), and (E) of section 1677(5B) of this title shall take effect if (and only if)—
 
-&emsp;&emsp;&emsp;(i) after the Subsidies Committee determines to extend Articles 6.1, 8, and 9 of the Subsidies Agreement, the President submits to the committees referred to inparagraph (2) a copy of the document describing the terms of such extension, together with—
+&emsp;&emsp;&emsp;(i) after the Subsidies Committee determines to extend Articles 6.1, 8, and 9 of the Subsidies Agreement, the President submits to the committees referred to in paragraph (2) a copy of the document describing the terms of such extension, together with—
 
 &emsp;&emsp;&emsp;&emsp;(I) a draft of an implementing bill,
 

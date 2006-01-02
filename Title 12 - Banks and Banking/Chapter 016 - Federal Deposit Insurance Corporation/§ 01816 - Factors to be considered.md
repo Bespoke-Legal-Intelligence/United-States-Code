@@ -16,7 +16,11 @@ The factors that are required, under section 1814 of this title, to be considere
 
 &emsp;(7) Whether the depository institution's corporate powers are consistent with the purposes of this chapter.
 
-(Sept. 21, 1950, ch. 967, §2\[6\], 64 Stat. 876; Pub. L. 101–73, title II, §207, Aug. 9, 1989, 103 Stat. 206; Pub. L. 104–208, div. A, title II, §2704(d)(14)(F), Sept. 30, 1996, 110 Stat. 3009–491.)
+(Sept. 21, 1950, ch. 967, §2\[6\], 64 Stat. 876; Pub. L. 101–73, title II, §207, Aug. 9, 1989, 103 Stat. 206; Pub. L. 104–208, div. A, title II, §2704(d)(14)(F), Sept. 30, 1996, 110 Stat. 3009–491; Pub. L. 109–173, §8(a)(7), Feb. 15, 2006, 119 Stat. 3611.)
+
+#### Amendment of Paragraph (5)
+
+<i>Pub. L. 109–173, §8(a)(7), (b), Feb. 15, 2006, 119 Stat. 3611, 3616, provided that, effective Mar. 31, 2006, paragraph (5) of this section is amended by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.</i>
 
 #### Prior Provisions
 
@@ -27,6 +31,10 @@ Section is derived from subsec. (g) of former section 264 of this title. See Cod
 1996—Par. (5). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund or the Savings Association Insurance Fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
 1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “The factors to be enumerated in the certificate required under section 1814 of this title and to be considered by the Board of Directors under section 1815 of this title shall be the following: The financial history and condition of the bank, the adequacy of its capital structure, its future earnings prospects, the general character of its management, the convenience and needs of the community to be served by the bank, and whether or not its corporate powers are consistent with the purposes of this chapter.”
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1996 Amendment
 

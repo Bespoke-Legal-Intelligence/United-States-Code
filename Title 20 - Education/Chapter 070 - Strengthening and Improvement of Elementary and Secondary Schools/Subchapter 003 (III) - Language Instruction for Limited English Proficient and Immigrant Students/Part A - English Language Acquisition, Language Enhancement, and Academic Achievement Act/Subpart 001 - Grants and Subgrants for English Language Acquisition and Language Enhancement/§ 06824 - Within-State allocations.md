@@ -10,7 +10,7 @@ A State educational agency shall not award a subgrant from an allocation made un
 
 #### (c) Reallocation
 
-Whenever a State educational agency determines that an amount from an allocation made to an eligible entity under subsection (a) of this section for a fiscal year will not be used by the entity for the purpose for which the allocation was made, the agency shall, in accordance with such rules as it determines to be appropriate, reallocate such amount, consistent with such subsection, to other eligible entities in the State that the agency determines will use the amount to carry out that purpose.
+Whenever a State educational agency determines that an amount from an allocation made to an eligible entity under subsection (a) of this section for a fiscal year will not be used by the entity for the purpose for which the allocation was made, the agency shall, in accordance withsuch rules as it determines to be appropriate, reallocate such amount, consistent with such subsection, to other eligible entities in the State that the agency determines will use the amount to carry out that purpose.
 
 #### (d) Required reservation
 

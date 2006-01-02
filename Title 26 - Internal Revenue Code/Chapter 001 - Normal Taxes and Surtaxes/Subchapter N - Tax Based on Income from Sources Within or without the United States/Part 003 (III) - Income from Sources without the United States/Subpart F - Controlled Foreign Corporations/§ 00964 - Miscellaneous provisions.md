@@ -102,7 +102,3 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 Amendment by section 1065(b) of Pub. L. 94–455 applicable to payments described in section 162(c) of this title made more than 30 days after Oct. 4, 1976, see section 1066(b) of Pub. L. 94–455, set out as a note under section 952 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 902 of this title.
-

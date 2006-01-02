@@ -1,6 +1,6 @@
 ### §299. Definitions
 
-(a) The expression “article of merchandise” as used in sections 294 to 300 of this title shall signify any goods, wares, works of art, commodity,or other thing which may be lawfully kept or offered for sale.
+(a) The expression “article of merchandise” as used in sections 294 to 300 of this title shall signify any goods, wares, works of art, commodity, or other thing which may be lawfully kept or offered for sale.
 
 (b) The term “person” means an individual, partnership, corporation, or any other form of business enterprise, capable of being in violation of sections 294 to 300 of this title.
 

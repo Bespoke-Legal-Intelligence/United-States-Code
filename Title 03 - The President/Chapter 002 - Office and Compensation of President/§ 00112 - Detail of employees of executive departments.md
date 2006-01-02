@@ -1,6 +1,6 @@
 ### §112. Detail of employees of executive departments
 
-The head of any department, agency, or independent establishment of the executive branch of the Government may detail, from time to time, employees of such department, agency, orestablishment to the White House Office, the Executive Residence at the White House, the Office of the Vice President, the Domestic Policy Staff, and the Office of Administration. Any such office to which an employee has been detailed for service to such office shall reimburse the detailing department, agency, or establishment for the pay of each employee thereof—
+The head of any department, agency, or independent establishment of the executive branch of the Government may detail, from time to time, employees of such department, agency, or establishment to the White House Office, the Executive Residence at the White House, the Office of the Vice President, the Domestic Policy Staff, and the Office of Administration. Any such office to which an employee has been detailed for service to such office shall reimburse the detailing department, agency, or establishment for the pay of each employee thereof—
 
 &emsp;(1) who is so detailed, and
 

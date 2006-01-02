@@ -50,7 +50,7 @@ This chapter, referred to in text, was in the original “this division”, mean
 
 The Alaska Natural Gas Transportation Act of 1976, referred to in pars. (2)(A) and (3), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
 
-#### Short Title of 2004 Amendment
+#### Short Title
 
 Pub. L. 108–324, div. C, §101, Oct. 13, 2004, 118 Stat. 1255, provided that: “This division \[enacting this chapter and amending section 719h of this title\] may be cited as the ‘Alaska Natural Gas Pipeline Act’.”
 

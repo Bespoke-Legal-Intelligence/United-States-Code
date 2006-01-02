@@ -27,6 +27,8 @@
 | [413\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413%20-%20Services%20provided%20residents.md) | Services provided residents. |
 | (a) | Services provided. |
 | (b) | Medical and dental care. |
+| (c) | Availability of physicians and dentists. |
+| (d) | Transportation to medical care outside Retirement Home facilities. |
 | [414\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000414%20-%20Fees%20paid%20by%20residents.md) | Fees paid by residents. |
 | (a) | Monthly fees. |
 | (b) | Deposit of fees. |

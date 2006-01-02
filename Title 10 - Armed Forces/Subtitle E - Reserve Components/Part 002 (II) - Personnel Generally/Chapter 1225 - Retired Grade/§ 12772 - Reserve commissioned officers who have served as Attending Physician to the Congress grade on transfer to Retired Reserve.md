@@ -8,7 +8,3 @@ Unless entitled to a higher grade under another provision of law, a reserve comm
 
 Provisions similar to those in this section were contained in section 1374(e) of this title, prior to repeal by Pub. L. 103–337, §1662(k)(2).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12773 of this title.
-

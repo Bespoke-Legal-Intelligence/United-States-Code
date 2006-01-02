@@ -104,7 +104,3 @@ Section 516(b) of Pub. L. 102–484 provided that: “The amendments made by sub
 
 Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1205, 1210, 1372, 1401, 1402, 1402a, 1406, 1407 of this title.
-

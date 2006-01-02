@@ -64,7 +64,7 @@ Establishment.—There is established in the Treasury of the United States a tru
 
 “(b)
 
-Investment of Amounts in Fund.—Amounts in the Fund shall be invested in accordance with section 9702 of title 31, United States Code, and any interest on and proceeds from any such investment shall be credited to and become part of the Fund.
+Investment of Amounts in Fund.—Amounts in the Fund shall be invested in accordance with section9702 of title 31, United States Code, and any interest on and proceeds from any such investment shall be credited to and become part of the Fund.
 
 “(c)
 
@@ -184,7 +184,7 @@ Treatment of Payments Under Other Laws.—A payment under subsection (c)(1) to a
 
 &emsp;“(1) shall be treated for purposes of the Internal Revenue Code of 1986 as damages described in section 104(a)(2) of such Code;
 
-&emsp;“(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in section3803(c)(2)(C) of title 31, United States Code, or the amount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and
+&emsp;“(2) shall not be included as income or resources for purposes of determining the eligibility of the individual to receive benefits described in section 3803(c)(2)(C) of title 31, United States Code, or theamount of such benefits, and such benefits shall not be secondary to, conditioned upon reimbursement from, or subject to any reduction because of receipt of, any such payment; and
 
 &emsp;“(3) shall not be treated as a third party payment or payment in relation to a legal liability with respect to such benefits and shall not be subject (whether by subrogation or otherwise) to recovery, recoupment, reimbursement, or collection with respect to such benefits (including the Federal or State governments or any entity that provides such benefits under a contract).
 

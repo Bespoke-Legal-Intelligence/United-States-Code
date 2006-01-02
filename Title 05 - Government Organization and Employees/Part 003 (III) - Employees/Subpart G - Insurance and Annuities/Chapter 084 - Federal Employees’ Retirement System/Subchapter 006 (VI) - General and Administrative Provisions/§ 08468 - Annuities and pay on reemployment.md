@@ -12,7 +12,7 @@
 
 (B) If an annuitant who is subject to the deductions referred to in subparagraph (A) dies while still reemployed, after having been reemployed for at least 5 years of full-time service (or the equivalent thereof in the case of part-time employment), any person entitled to a survivor annuity under section 8442 or 8445 based on the service of such annuitant shall be permitted to elect, in accordance with regulations prescribed by the Office of Personnel Management, to have such person's rights under subchapter IV redetermined. A redetermined survivor annuity elected under this subparagraph shall be in lieu of an increased annuity which would otherwise be payable in accordance with paragraph (1)(B)(ii).
 
-(3) If an annuitant subject to deductions under the second sentence of subsection (a) serves on a full-time basis for a period of less than 1 year, or on a part-time basis for periods equivalent to less than 1 year of full-time service, the total amount withheld under section 8422(a) from the annuitant's basic pay for the period or periods involved shall, upon written application to the Office, be payable to the annuitant (or the appropriate survivor or survivors, determined in the order set forth in section 8424(d)).
+(3) If an annuitant subject to deductions under the second sentence of subsection (a) serves on afull-time basis for a period of less than 1 year, or on a part-time basis for periods equivalent to less than 1 year of full-time service, the total amount withheld under section 8422(a) from the annuitant's basic pay for the period or periods involved shall, upon written application to the Office, be payable to the annuitant (or the appropriate survivor or survivors, determined in the order set forth in section 8424(d)).
 
 (c) This section does not apply to an individual appointed to serve as a Governor of the Board of Governors of the United States Postal Service.
 
@@ -48,7 +48,7 @@
 
 (i)(1) For the purpose of subsections (f) through (h), “Executive agency” shall not include the Government Accountability Office.
 
-(2) An employee as to whom a waiver under subsection (f), (g), or (h) is in effect shall not beconsidered an employee for purposes of this chapter or chapter 83 of this title.
+(2) An employee as to whom a waiver under subsection (f), (g), or (h) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, §134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, §529 \[title I, §108(c)\], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, §1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, §655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, §107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, §516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, §226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -68,7 +68,7 @@ Subsec. (h)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House O
 
 Subsecs. (g) to (i). Pub. L. 102–190, §655(c)(1), added subsecs. (g) to (i).
 
-1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L. 101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
+1990—Subsec. (f). Pub. L. 101–510, §1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, §8(a), repealed Pub. L.101–510, §1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
 
 Pub. L. 101–509 added subsec. (f).
 

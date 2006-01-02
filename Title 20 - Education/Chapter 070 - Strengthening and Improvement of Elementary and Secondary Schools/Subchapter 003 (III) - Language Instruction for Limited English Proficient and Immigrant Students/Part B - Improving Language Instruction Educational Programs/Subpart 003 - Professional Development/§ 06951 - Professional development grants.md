@@ -36,7 +36,7 @@ The purpose of this section is to provide assistance to prepare educators to imp
 
 Grants awarded under this section shall be used to conduct high-quality professional development programs and effective activities to improve the quality of instruction and services provided to limited English proficient children, including—
 
-&emsp;(1) implementing preservice and inservice professional development programs for teachers who serve limited English proficient children, administrators, and other educational personnel who are preparing to provide educational services for limited English proficient children, including professional development programs that assist limited English proficient children to attain English proficiency;
+&emsp;(1) implementing preservice and inservice professional development programs for teachers who serve limited English proficient children, administrators, and other educational personnel who are preparing to provide educational services for limited English proficient children, including professional developmentprograms that assist limited English proficient children to attain English proficiency;
 
 &emsp;(2) implementing school-based collaborative efforts among teachers to improve instruction in core academic subjects, especially reading, for limited English proficient children;
 
@@ -96,7 +96,7 @@ Grants awarded under this section shall be used to conduct high-quality professi
 
 #### (2) Grants to institutions of higher education
 
-&emsp;In awarding grants to institutions of higher education under this section, the Secretary shall give priority to institutions that propose programs and activities to recruit and upgrade the qualifications and skills of certified and non-certified educational personnel by offering degree programs that prepare beginning teachers to serve limited English proficient children.
+&emsp;In awarding grants to institutions of higher education under this section, the Secretary shall give priority to institutions that propose programs and activities to recruit and upgrade the qualifications and skills of certified and non-certified educational personnel by offering degree programs that prepare beginningteachers to serve limited English proficient children.
 
 #### (f) Program evaluations
 

@@ -26,5 +26,5 @@ Subsec. (c). Pub. L. 105–277, §2602, added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1223(8), (21) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.
+Amendment by section 1223(8), (21) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277,set out as an Effective Date note under section 6511 of this title.
 

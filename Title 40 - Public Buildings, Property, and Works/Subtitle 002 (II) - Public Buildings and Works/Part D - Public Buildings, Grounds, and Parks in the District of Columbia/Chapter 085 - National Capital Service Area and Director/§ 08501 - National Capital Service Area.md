@@ -142,7 +142,7 @@ Provisions covering buildings and grounds in area not affected.—Except to the 
 
 &emsp;(2)
 
-Continued application of laws, regulations, and rules.—Except to the extent otherwise specifically provided in this section, all general laws of the United States and all laws enacted by the Congress and applicable exclusively to the District of Columbia, including regulations and rules prescribed pursuant to any of those laws, that were in effect on January 1, 1975, and which applied to and in the areas included in the National Capital Service Area pursuant to this section continue to beapplicable to and in the National Capital Service Area in the same manner and to the same extent as if this section had not been enacted and remain applicable until repealed, amended, altered, modified, or superseded.
+Continued application of laws, regulations, and rules.—Except to the extent otherwise specifically provided in this section, all general laws of the United States and all laws enacted by the Congress and applicable exclusively to the District of Columbia, including regulations and rules prescribed pursuant to any of those laws, that were in effect on January 1, 1975, and which applied to and in the areas included in the National Capital Service Area pursuant to this section continue to be applicable to and in the National Capital Service Area in the same manner and to the same extent as if this section had not been enacted and remain applicable until repealed, amended, altered, modified, or superseded.
 
 (c)
 

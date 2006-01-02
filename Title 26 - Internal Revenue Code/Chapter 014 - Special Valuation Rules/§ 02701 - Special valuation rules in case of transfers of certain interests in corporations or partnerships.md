@@ -420,7 +420,3 @@ Section 11602(d) of Pub. L. 101–508 provided that: “The Secretary of the Tre
 
 > The Secretary shall, not later than December 31, 1992, report the results of such study, together with such legislative recommendations as the Secretary considers necessary, to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2001, 2504, 2702, 2704, 6501 of this title.
-

@@ -6,9 +6,9 @@
 
 (2) Such institution <sup>1</sup> trustee shall have at all times a combined capital and surplus of a specified minimum amount, which shall not be less than $150,000. If such institutional trustee publishes reports of condition at least annually, pursuant to law or to the requirements of said supervising or examining authority, the indenture may provide that, for the purposes of this paragraph, the combined capital and surplus of such trustee shall be deemed to be its combined capital and surplus as set forth in its most recent report of condition so published.
 
-(3) If the indenture to be qualified requires or permits the appointment of one or more co-trustees in addition to such institutional trustee, the rights, powers, duties, and obligations conferred or imposed upon the trustees or any of them shall be conferred or imposed upon and exercised or performed by such institutional trustee, or such institutional trustee and such co-trustees jointly, except to the extent that under any law of any jurisdiction in which any particular act or acts are to be performed, such institutional trustee shall be incompetent or unqualified to perform such act or acts, in which event such rights, powers, duties, and obligations shall be exercised and performed by such co-trustees.
+(3) If the indenture to be qualified requires or permits the appointment of one or more co-trustees in addition to such institutional trustee, the rights, powers, duties, and obligations conferred or imposed upon the trustees or any of them shall be conferred or imposed upon and exercised or performed by such institutional trustee, or such institutional trustee and such co-trustees jointly, except to the extent that under any law of any jurisdiction in which any particular act or acts are to be performed, such institutional trustee shall be incompetent or unqualified to perform such act or acts, in whichevent such rights, powers, duties, and obligations shall be exercised and performed by such co-trustees.
 
-(4) In the case of certificates of interest or participation, the indenture trustee or trusteesshall have the legal power to exercise all of the rights, powers, and privileges of a holder of the security or securities in which such certificates evidence an interest or participation.
+(4) In the case of certificates of interest or participation, the indenture trustee or trustees shall have the legal power to exercise all of the rights, powers, and privileges of a holder of the security or securities in which such certificates evidence an interest or participation.
 
 (5) No obligor upon the indenture securities or person directly or indirectly controlling, controlled by, or under common control with such obligor shall serve as trustee upon such indenture securities.
 
@@ -46,7 +46,7 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 &emsp;&emsp;(A) one individual may be a director and/or an executive officer of the trustee and a director and/or an executive officer of such obligor, but may not be at the same time an executive officer of both the trustee and of such obligor,
 
-&emsp;&emsp;(B) if and so long as the number of directors of the trustee in office is more thannine, one additional individual may be a director and/or an executive officer of the trustee and a director of such obligor, and
+&emsp;&emsp;(B) if and so long as the number of directors of the trustee in office is more than nine, one additional individual may be a director and/or an executive officer of the trustee and a director of such obligor, and
 
 &emsp;&emsp;(C) such trustee may be designated by any such obligor or by any underwriter for any such obligor, to act in the capacity of transfer agent, registrar, custodian, paying agent, fiscal agent, escrow agent, or depositary, or in any other similar capacity, or, subject to the provisions of paragraph (1) of this subsection, to act as trustee, whether under an indenture or otherwise;
 
@@ -72,7 +72,7 @@ The specification of percentages in paragraphs (5) to (9), inclusive, of this su
 
 For the purposes of paragraphs (6), (7), (8), and (9) of this subsection—
 
-&emsp;(A) the terms “security” and “securities” shall include only such securities as are generally known as corporate securities, but shall not include any note or other evidence of indebtedness issued to evidence an obligation to repay moneys lent to a person by one or more banks, trust companies, or banking firms, orany certificate of interest or participation in any such note or evidence of indebtedness;
+&emsp;(A) the terms “security” and “securities” shall include only such securities as are generally known as corporate securities, but shall not include any note or other evidence of indebtedness issued to evidence an obligation to repay moneys lent to a person by one or more banks, trust companies, or banking firms, or any certificate of interest or participation in any such note or evidence of indebtedness;
 
 &emsp;(B) an obligation shall be deemed to be in default when a default in payment of principal shall have continued for thirty days or more, and shall not have been cured; and
 
@@ -90,13 +90,13 @@ Any resignation of an indenture trustee shall become effective only upon the app
 
 #### (c) Applicability of section
 
-The Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\] shall not be held to establish or authorize the establishment of any standards regarding the eligibility and qualifications of any trustee or prospective trustee under an indenture to be qualified under this subchapter, or regarding the provisions to be included in any such indenture with respect to the eligibility and qualifications of the trustee thereunder, other than those established by the provisions of this section.
+The Public Utility Holding Company Act of 1935 <sup>4</sup> shall not be held to establish or authorize the establishment of any standards regarding the eligibility and qualifications of any trustee or prospective trustee under an indenture to be qualified under this subchapter, or regarding the provisions to be included in any such indenture with respect to the eligibility and qualifications of the trustee thereunder, other than those established by the provisions of this section.
 
 (May 27, 1933, ch. 38, title III, §310, as added Aug. 3, 1939, ch. 411, 53 Stat. 1157; amended Pub. L. 101–550, title IV, §§406–408, Nov. 15, 1990, 104 Stat. 2723, 2724.)
 
 #### References in Text
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of this title, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -121,4 +121,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 <i><sup>2</sup></i><i> So in original. Probably should be “indenture”.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be “paragraph”.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

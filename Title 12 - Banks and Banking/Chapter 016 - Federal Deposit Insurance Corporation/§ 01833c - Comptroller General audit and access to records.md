@@ -30,7 +30,7 @@ All persons and organizations which, by contract, grant, or otherwise, provide g
 
 #### (3) Rights of access, examination, and copying
 
-&emsp;The Comptroller General, and any duly authorized representative of the Comptroller General, shall have access to, and the right to examine and copy, all records and other recorded information in any form, and to examine any property, within the possession or control of any agency or person which is subject to audit under this section which the Comptroller General deems relevant to an audit conducted under this section.
+&emsp;The Comptroller General, and any duly authorized representative of the ComptrollerGeneral, shall have access to, and the right to examine and copy, all records and other recorded information in any form, and to examine any property, within the possession or control of any agency or person which is subject to audit under this section which the Comptroller General deems relevant to an audit conducted under this section.
 
 #### (4) Enforcement of right of access
 

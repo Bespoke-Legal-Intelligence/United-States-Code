@@ -4,7 +4,3 @@ The return of a corporation with respect to income shall be signed by the presid
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 748.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6032, 6061 of this title.
-

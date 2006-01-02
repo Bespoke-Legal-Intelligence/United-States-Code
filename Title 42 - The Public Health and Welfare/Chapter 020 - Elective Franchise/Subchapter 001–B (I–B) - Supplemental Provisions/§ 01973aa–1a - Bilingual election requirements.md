@@ -34,7 +34,7 @@ The Congress finds that, through the use of various practices and procedures, ci
 
 &emsp;&emsp;(A) the term “voting materials” means registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots;
 
-&emsp;&emsp;(B) the term “limited-English proficient” means unable to speak or understandEnglish adequately enough to participate in the electoral process;
+&emsp;&emsp;(B) the term “limited-English proficient” means unable to speak or understand English adequately enough to participate in the electoral process;
 
 &emsp;&emsp;(C) the term “Indian reservation” means any area that is an American Indian or Alaska Native area, as defined by the Census Bureau for the purposes of the 1990 decennial census;
 
@@ -62,7 +62,7 @@ For purposes of this section, the term “language minorities” or “language 
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–344 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to August 6, 1992, no State or political subdivision shall provide registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, only in the English language if the Director of the Census determines (i) that more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and (ii) that the illiteracy rate of such persons as a group is higher than the national illiteracy rate: <i>Provided</i>, That the prohibitions of this subsection shall not apply in any political subdivision which has less than five percent voting age citizens of each language minority which comprises over five percent of the statewide population of voting age citizens. For purposes of this subsection, illiteracy means the failure to complete the fifth primary grade. The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.”
+1992—Subsec. (b). Pub. L. 102–344 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to August 6, 1992, no State or political subdivision shall provide registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, only in the English language if the Director ofthe Census determines (i) that more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and (ii) that the illiteracy rate of such persons as a group is higher than the national illiteracy rate: <i>Provided</i>, That the prohibitions of this subsection shall not apply in any political subdivision which has less than five percent voting age citizens of each language minority which comprises over five percent of the statewide population of voting age citizens. For purposes of this subsection, illiteracy means the failure to complete the fifth primary grade. The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.”
 
 1982—Subsec. (b). Pub. L. 97–205, §4, substituted “Prior to August 6, 1992” for “Prior to August 6, 1985”.
 

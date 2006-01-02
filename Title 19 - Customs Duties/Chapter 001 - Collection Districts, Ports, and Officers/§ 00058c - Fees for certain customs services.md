@@ -22,9 +22,9 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;(8) For the arrival of a barge or other bulk carrier from Canada or Mexico, $100.
 
-&emsp;(9)(A) For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 percent ad valorem, unless adjusted under subparagraph (B).
+&emsp;(9)(A) For the processing of merchandise that is formally entered or released duringany fiscal year, a fee in an amount equal to 0.21 percent ad valorem, unless adjusted under subparagraph (B).
 
-&emsp;(B)(i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
+&emsp;(B)(i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
 
 &emsp;(ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) of this section with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
 
@@ -176,7 +176,7 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 &emsp;(v) in the case of agricultural products of the United States that are processed and packed in a foreign trade zone, be applied only to the value of material used to make the container for such merchandise, if such merchandise is subject to entry and the container is of a kind normally used for packing such merchandise; and
 
-&emsp;(vi) in the case of merchandise entered from a foreign trade zone (other than merchandise to which clause (v) applies), be applied only to the value of the privileged or nonprivileged foreign status merchandise under section 3 of the Act of June 18, 1934 (commonly known as the Foreign Trade Zones Act, 19 U.S.C. 81c).
+&emsp;(vi) in the case of merchandise entered from a foreign trade zone (other than merchandiseto which clause (v) applies), be applied only to the value of the privileged or nonprivileged foreign status merchandise under section 3 of the Act of June 18, 1934 (commonly known as the Foreign Trade Zones Act, 19 U.S.C. 81c).
 
 > With respect to merchandise that is classified under subheading 9802.00.60 or heading 9802.00.80 of such Schedule and is duty-free, the Secretary may collect the fee charged on the processing of the merchandise under subsection (a)(9) or (10) of this section on the basis of aggregate data derived from financial and manufacturing reports used by the importer in the normal course of business, rather than on the basis of entry-by-entry accounting.
 
@@ -235,6 +235,10 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 (13) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Singapore Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
 (14) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 203 of the United States-Australia Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+
+(15) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 4033 of this title. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
+
+(16) No fee may be charged under subsection (a)(9) or (10) of this section with respect to goods that qualify as originating goods under section 202 of the United States-Bahrain Free Trade Agreement Implementation Act. Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
 #### (c) Definitions
 
@@ -348,9 +352,9 @@ For purposes of this section—
 
 &emsp;(B) amounts deposited into the Customs Commercial and Homeland Security Automation Account under paragraph (5).
 
-(2) Except as otherwise provided in this subsection, all funds in the Customs User Fee Account shall be available, to the extent provided for in appropriations Acts, to pay the costs (other than costs for which direct reimbursement under paragraph (3) is required) incurred by the United States Customs Service in conducting customs revenue functions as defined in section 215 of title 6 (other than functions performed by the Office of International Affairs referred to in section 215(8) of title 6), and for automation (including the Automation Commercial Environment computer system), and for no other purpose. To the extent that funds in the Customs User Fee Account are insufficient to pay the costs of such customs revenue functions, customs duties in an amount equal to the amount of such insufficiency shall be available, to the extent provided for in appropriations Acts, to pay the costs of such customs revenue functions in the amount of such insufficiency, and shall be available for no other purpose. The provisions of the first and second sentences of this paragraph specifying the purposes for which amounts in the Customs User Fee Account may be made available shall not be superseded except by a provision of law which specifically modifies or supersedes such provisions. So long as there is a surplus of funds in the Customs User Fee Account, the Secretary of the Treasury may not reduce personnel staffing levels for providing commercial clearance and preclearance services.
+(2) Except as otherwise provided in this subsection, all funds in the Customs User Fee Account shall be available, to the extent provided for in appropriations Acts, to pay the costs (other than costs for which direct reimbursement under paragraph (3) is required) incurred by the United States Customs Service in conducting customs revenue functions as defined in section 215 of title 6 (other than functions performed by the Office of International Affairs referred to in section 215(8) of title 6), and for automation (including the Automation Commercial Environment computer system), and for no other purpose. To the extent that funds in the Customs User Fee Account are insufficient to pay the costs of such customs revenue functions, customs duties in an amount equal to the amount of such insufficiency shall be available, to the extent provided for in appropriations Acts, to pay the costs of such customs revenue functions in the amount of such insufficiency, and shall be available for no other purpose. Theprovisions of the first and second sentences of this paragraph specifying the purposes for which amounts in the Customs User Fee Account may be made available shall not be superseded except by a provision of law which specifically modifies or supersedes such provisions. So long as there is a surplus of funds in the Customs User Fee Account, the Secretary of the Treasury may not reduce personnel staffing levels for providing commercial clearance and preclearance services.
 
-(3)(A) The Secretary of the Treasury, in accordance with section 1524 of this title and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) of this section (other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (5)), each appropriation for theamount paid out of that appropriation for the costs incurred by the Secretary—
+(3)(A) The Secretary of the Treasury, in accordance with section 1524 of this title and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) of this section (other than the fees under subsection (a)(9) and (10) of this section and the excess fees determined by the Secretary under paragraph (5)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
 
 &emsp;(i) in—
 
@@ -398,7 +402,7 @@ For purposes of this section—
 
 (E) Nothing in this paragraph shall be construed to preclude the use of appropriated funds, from sources other than the fees collected under subsection (a) of this section, to pay the costs set forth in clauses (i), (ii), and (iii) of subparagraph (A).
 
-(4) At the close of fiscal year 1988 and each even-numbered fiscal year occurring thereafter, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding how the fees imposed under subsection (a) of this section should be adjusted in order that the balance of the Customs User Fee Account approximates azero balance. Before making recommendations regarding any such adjustments, the Secretary of the Treasury shall provide adequate opportunity for public comment. The recommendations shall, as precisely as possible, propose fees which reflect the actual costs to the United States Government for the commercial services provided by the United States Customs Service.
+(4) At the close of fiscal year 1988 and each even-numbered fiscal year occurring thereafter, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding how the fees imposed under subsection (a) of this section should be adjusted in order that the balance of the Customs User Fee Account approximates a zero balance. Before making recommendations regarding any such adjustments, the Secretary of the Treasury shall provide adequate opportunity for public comment. The recommendations shall, as precisely as possible, propose fees which reflect the actual costs to the United States Government for the commercial services provided by the United States Customs Service.
 
 (5)(A) There is created within the general fund of the Treasury a separate account that shall be known as the “Customs Commercial and Homeland Security Automation Account”. In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A) of this section, $350,000,000.
 
@@ -434,19 +438,23 @@ Except with respect to customs services for which fees are imposed under subsect
 
 &emsp;(I) the Secretary of the Treasury shall charge fees under each such paragraph in amounts that are reasonably related to the costs of providing customs services in connection with the activity or item for which the fee is charged under such paragraph, except that in no case may the fee charged under any such paragraph exceed by more than 10 percent the amount otherwise prescribed by such paragraph;
 
-&emsp;(II) the amount of fees collected under such paragraphs may not exceed, in the aggregate, the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
+&emsp;(II) the amount of fees collected under such paragraphs may not exceed, in the aggregate,the amounts paid in that fiscal year for the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fees are charged under such paragraphs;
 
 &emsp;(III) a fee may not be collected under any such paragraph except to the extent such fee will be expended to pay the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph; and
 
-&emsp;(IV) any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection\(f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
+&emsp;(IV) any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection (f)(3)(A) of this section incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
 
 #### (k) Advisory committee
 
 The Commissioner of Customs shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a) of this section. The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
 
-(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204, Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593.)
+(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204, Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–53, title II, §204, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–169, title II, §203, Jan. 11, 2006, 119 Stat. 3591.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 106(c) of Pub. L. 109–169, see Effective and Termination Dates of 2006 Amendment note below.</i>
+
+<i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 106(c) of Pub. L. 108–286, see Effective and Termination Dates of 2004 Amendment note below.</i>
 
@@ -468,13 +476,15 @@ Section 202 of the United States-Singapore Free Trade Agreement Implementation A
 
 Section 203 of the United States-Australia Free Trade Agreement Implementation Act, referred to in subsec. (b)(14), is section 203 of Pub. L. 108–286, which is set out in a note under section 3805 of this title.
 
+Section 202 of the United States-Bahrain Free Trade Agreement Implementation Act, referred to in subsec. (b)(16), is section 202 of Pub. L. 109–169, which is set out in a note under section 3805 of this title.
+
 Act of June 18, 1934 (commonly known as the Foreign Trade Zones Act, 19 U.S.C. 81a et seq.), referred to in subsec. (e)(6)(C)(i), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§81a et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 Sections 261 and 267 of this title, as in effect before the enactment of section 13811 of the Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (f)(3)(C)(iii), means sections 261 and 267 of this title as in effect before the amendment made by section 13811 of Pub. L. 103–66, which amended section 267 of this title and omitted section 261 of this title.
 
 Section 267 of this title, as amended by section 13811 of the Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (f)(3)(C)(iii)(II), means section 267 of this title as amended by section 13811 of Pub. L. 103–66.
 
-Section 8331(3) of title 5, as amended by section 13812(a)(1) of such Act of 1993, referred to in subsec. (f)(3)(C)(iii)(II), means section 8331(3) of title 5, as amended by section 13812(a)(1) of Pub. L. 103–66.
+Section 8331(3) of title 5, as amended by section 13812(a)(1) of such Act of 1993, referred to in subsec.\(f)(3)(C)(iii)(II), means section 8331(3) of title 5, as amended by section 13812(a)(1) of Pub. L. 103–66.
 
 Customs laws, referred to in subsec. (g)(2), are classified generally to this title.
 
@@ -487,6 +497,12 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (k), is
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended section 545(i) of Title 45, Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+
+2006—Subsec. (b)(13), (15). Pub. L. 109–169, §§106(c), 203(1), temporarily realigned margins. See Effective and Termination Dates of 2006 Amendment note below.
+
+Subsec. (b)(16). Pub. L. 109–169, §§106(c), 203(2), temporarily added par. (16). See Effective and Termination Dates of 2006 Amendment note below.
+
+2005—Subsec. (b)(15). Pub. L. 109–53, §§107(d), 204, temporarily added par. (15). See Effective and Termination Dates of 2005 Amendment note below.
 
 2004—Subsec. (a)(5)(B). Pub. L. 108–357, §892(d)(1), substituted “$1.75.” for “$1.75”.
 
@@ -554,7 +570,7 @@ Subsec. (b)(1)(A). Pub. L. 106–36, §2418(b)(2), substituted “Except as prov
 
 Subsec. (e)(1). Pub. L. 106–36, §1001(b)(1)(A), realigned margins.
 
-Subsec. (f)(3)(A)(ii). Pub. L. 106–36, §1001(b)(1)(B)(i), substituted “collected under paragraphs (1) through (8) of subsection (a)” for “collected under subsection (a)(1) through (a)(8)”.
+Subsec. (f)(3)(A)(ii). Pub. L. 106–36, §1001(b)(1)(B)(i), substituted “collected under paragraphs (1) through (8)of subsection (a)” for “collected under subsection (a)(1) through (a)(8)”.
 
 Subsec. (f)(3)(A)(iii). Pub. L. 106–36, §2418(a), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “to the extent funds remain available after making reimbursements under clause (ii), in providing salaries for up to 50 full-time equivalent inspectional positions through September 30, 1998, that enhance customs services in connection with the arrival in Florida of passengers aboard commercial vessels, regardless of whether those passengers are required to pay fees under paragraphs (1) through (8) of subsection (a) of this section.”
 
@@ -806,7 +822,7 @@ Subsec. (j)(3). Pub. L. 100–203, §9501(a)(5), substituted “1990” for “1
 
 Subsec. (a)(3). Pub. L. 99–514, §1893(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Subject to the limitations in subsection (b)(1)(B) and (3) of this section, for the arrival of each railroad car, whether passenger or freight, $5.”
 
-Subsec. (a)(8). Pub. L. 99–514, §1893(a)(1)(B), which directed the amendment of subsec. (a) by adding par. (8) at the end thereof, was executed by adding par. (8) after par. (7) as the probable intent of Congress in view of the intervening addition of pars. (9) and (10) by Pub. L. 99–509.
+Subsec. (a)(8). Pub. L. 99–514, §1893(a)(1)(B), which directed the amendment of subsec. (a) by adding par. (8)at the end thereof, was executed by adding par. (8) after par. (7) as the probable intent of Congress in view of the intervening addition of pars. (9) and (10) by Pub. L. 99–509.
 
 Subsec. (a)(9), (10). Pub. L. 99–509, §8101(a), added pars. (9) and (10).
 
@@ -832,7 +848,7 @@ Subsec. (c)(5). Pub. L. 99–514, §1893(b)(4)(B), added par. (5).
 
 Subsec. (d)(4). Pub. L. 99–514, §1893(c)(1), added par. (4).
 
-Subsec. (e)(1). Pub. L. 99–514, §1893(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding section 1451 of this title or any other provision of law (other than paragraph (2)), the customs services required to be provided to passengers upon arrival in the United States on scheduled airlineflights at customs serviced airports shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (a) of this section) to airlines and airline passengers.”
+Subsec. (e)(1). Pub. L. 99–514, §1893(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding section 1451 of this title or any other provision of law (other than paragraph (2)), the customs services required to be provided to passengers upon arrival in the United States on scheduled airline flights at customs serviced airports shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (a) of this section) to airlines and airline passengers.”
 
 Subsec. (e)(2). Pub. L. 99–509, §8101(c)(2), substituted “This subsection” for “Paragraph (1)” in par. (2) as amended by §1893 of Pub. L. 99–514 below.
 
@@ -849,6 +865,14 @@ Subsec. (g). Pub. L. 99–514, §1893(e), inserted provisions relating to regula
 Pub. L. 99–514, §2, substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (j)(1), (3). Pub. L. 99–509, §8101(e), substituted “otherwise provided in this subsection” for “provided in paragraph (2)” in par. (1) and added par. (3).
+
+#### Effective and Termination Dates of 2006 Amendment
+
+Amendment by Pub. L. 109–169 effective on the date on which the United States-Bahrain Free Trade Agreement enters into force (Aug. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 109–169, set out in a note under section 3805 of this title.
+
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective and Termination Dates of 2004 Amendment
 
@@ -882,7 +906,7 @@ Section 4(b) of Pub. L. 104–295 provided that: “The amendments made by subse
 
 &emsp;“(2) any entry made from a foreign trade zone after November 30, 1986, and before such 15th day if liquidation of the entry was not final before such 15th day.”
 
-Section 38(d) of Pub. L. 104–295 provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 521 of the North American Free Trade Agreement Implementation Act \[Pub. L. 103–182\].”
+Section 38(d) of Pub. L. 104–295 provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the amendmentsmade by section 521 of the North American Free Trade Agreement Implementation Act \[Pub. L. 103–182\].”
 
 #### Effective Date of 1994 Amendment
 

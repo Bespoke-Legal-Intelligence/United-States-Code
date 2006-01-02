@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in sections 1590(a) a
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–398, in introductory provisions, substituted “in the Department of Defense” for “in the intelligence components of the Departmentof Defense and the military departments” and “of the Department” for “of those components and departments”.
+2000—Subsec. (a)(1). Pub. L. 106–398, in introductory provisions, substituted “in the Department of Defense” for “in the intelligence components of the Department of Defense and the military departments” and “of the Department” for “of those components and departments”.
 
 #### Effective Date
 
@@ -41,8 +41,4 @@ Section 1631 of Pub. L. 104–201 provided that: “This subtitle \[subtitle B (
 #### Delegation of Authority
 
 Section 701(b) of Pub. L. 97–89 provided that: “The authority of the Secretary of Defense under chapter 83 of title 10, United States Code, as added by subsection (a), may be delegated in accordance with section 133(d) \[now 113(d)\] of title 10, United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1602, 1606, 1612, 1613 of this title.
 

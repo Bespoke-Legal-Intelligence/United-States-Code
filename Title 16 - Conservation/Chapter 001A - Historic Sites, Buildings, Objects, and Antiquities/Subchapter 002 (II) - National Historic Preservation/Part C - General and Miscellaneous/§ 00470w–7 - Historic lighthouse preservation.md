@@ -82,7 +82,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 &emsp;Upon receiving notice of an executed or intended conveyance by an owner who—
 
-&emsp;&emsp;(A) received from the Federal Government under authority other than this subchapteran historic light station in which the United States retains a reversionary or other interest; and
+&emsp;&emsp;(A) received from the Federal Government under authority other than this subchapter an historic light station in which the United States retains a reversionary or other interest; and
 
 &emsp;&emsp;(B) is conveying it to another person by sale, gift, or any other manner,
 

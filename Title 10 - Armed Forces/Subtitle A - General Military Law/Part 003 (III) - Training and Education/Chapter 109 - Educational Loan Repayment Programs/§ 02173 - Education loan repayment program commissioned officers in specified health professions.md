@@ -44,23 +44,31 @@ Loan Repayments.—(1) Subject to the limits established by paragraph (2), a loa
 
 (f)
 
-Active Duty Service Obligation.—(1) A person entering into an agreement described in subsection (b)(3) incurs an active duty service obligation. The length of this obligation shall be determined under regulations prescribed by the Secretary of Defense, but those regulations maynot provide for a period of obligation of less than one year for each maximum annual amount, or portion thereof, paid on behalf of the person for qualified loans.
+Active Duty Service Obligation.—(1) A person entering into an agreement described in subsection (b)(3) incurs an active duty service obligation. The length of this obligation shall be determined under regulations prescribed by the Secretary of Defense, but those regulations may not provide for a period of obligation of less than one year for each maximum annual amount, or portion thereof, paid on behalf of the person for qualified loans.
 
 (2) For persons on active duty before entering into the agreement, the active duty service obligation shall be served consecutively to any other obligation incurred under the agreement.
 
 (g)
 
-Effect of Failure To Complete Obligation.—A commissioned officer who is relieved of the officer's active duty obligation under this section before the completion of that obligation may be given, with or without the consent of the officer, any alternative obligation comparable to any of the alternative obligations authorized by section 2123(e) of this title for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
+Effect of Failure To Complete Obligation.—(1) A commissioned officer who is relievedof the officer's active duty obligation under this section before the completion of that obligation may be given, with or without the consent of the officer, any alternative obligation comparable to any of the alternative obligations authorized by section 2123(e) of this title for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
+
+(2) An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b)(3), or the alternative obligation imposed under paragraph (1), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
 (h)
 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
-(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, §573, Dec. 2, 2002, 116 Stat. 2558.)
+(Added Pub. L. 105–85, div. A, title VI, §651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, §573, Dec. 2, 2002, 116 Stat. 2558; Pub. L. 109–163, div. A, title VI, §687(c)(7), Jan. 6, 2006, 119 Stat. 3334.)
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–163 designated existing provisions as par. (1) and added par. (2).
 
 2002—Subsec. (d). Pub. L. 107–314, §573(a), substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
 
 Subsec. (e)(2). Pub. L. 107–314, §573(b), struck out at end “The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 

@@ -50,7 +50,3 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by section 541(g) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under section 571 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1558 of this title.
-

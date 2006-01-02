@@ -80,7 +80,3 @@ Section 1501(f)(1) of Pub. L. 104–106 provided that: “Section 1636 of the Re
 
 Amendment by sections 1662(c)(3) and 1675(b)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12203, 12683 of this title; title 32 section 323.
-

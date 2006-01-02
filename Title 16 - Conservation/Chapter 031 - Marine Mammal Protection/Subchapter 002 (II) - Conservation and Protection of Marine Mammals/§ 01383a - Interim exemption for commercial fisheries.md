@@ -50,7 +50,7 @@
 
 &emsp;(iii) fails to ensure that a decal or other physical evidence of such exemption issued by the Secretary is displayed on or is in possession of the master of the vessel,
 
-> and the master of any such vessel engaged in such fishery, shall be deemed to have violatedthis subchapter, and shall be subject to the penalties of this subchapter except in the case of unknowing violations before January 1, 1990.
+> and the master of any such vessel engaged in such fishery, shall be deemed to have violated this subchapter, and shall be subject to the penalties of this subchapter except in the case of unknowing violations before January 1, 1990.
 
 (D) If the owner of a vessel has obtained and maintains a current and valid exemption from the Secretary under this section and meets the requirements set forth in this section, the owner of such vessel, and the master and crew members of the vessel, shall not be subject to the penalties set forth in this subchapter for the incidental taking of marine mammals while such vessel is engaged in a fishery to which the exemption applies.
 
@@ -74,7 +74,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
-> If there was no incidental taking of marine mammals during the reporting period, a report stating that fact shall be filed with the Secretary.
+> If there was no incidental taking of marine mammals during the reporting period, a reportstating that fact shall be filed with the Secretary.
 
 #### (d) Program for enhancement and verification of information received from vessel owners; confidentiality of information
 
@@ -170,7 +170,7 @@ The Secretary shall design and implement an information management system capabl
 
 #### (i) Utilization of services of State and Federal agencies and private entities
 
-When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by the Secretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
+When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by theSecretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
 
 #### (j) Confidentiality of information; exceptions
 

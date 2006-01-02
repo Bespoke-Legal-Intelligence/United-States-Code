@@ -1,6 +1,6 @@
 ### §516. Equal employment responsibilities
 
-(a) The Secretary shall provide that the employment discrimination complaint resolution system within the Department be established and administered so as to encourage timely and fair resolution of concerns and complaints. The Secretary shall take steps to ensure that the system is administered in an objective, fair, and effective manner and in a manner that is perceived by employees and other interested parties as being objective, fair, and effective.
+(a) The Secretary shall provide that the employment discrimination complaint resolution system within the Department be establishedand administered so as to encourage timely and fair resolution of concerns and complaints. The Secretary shall take steps to ensure that the system is administered in an objective, fair, and effective manner and in a manner that is perceived by employees and other interested parties as being objective, fair, and effective.
 
 (b) The Secretary shall provide—
 
@@ -12,7 +12,7 @@
 
 (d) The Secretary shall, when appropriate, impose disciplinary measures, as authorized by law, in the case of employees of the Department who engage in unlawful employment discrimination, including retaliation against an employee asserting rights under an equal employment opportunity law.
 
-(e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shallsubmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
+(e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
 
 (B) Subparagraph (A) shall apply in the case of complaints filed against individuals on the basis of such individuals’ personal conduct and shall not apply in the case of complaints filed solely on the basis of such individuals’ positions as officials of the Department.
 
@@ -74,7 +74,7 @@ Section 101(c) of Pub. L. 105–114 provided that: “Section 516 of title 38, U
 
 Section 101(b) of Pub. L. 105–114 provided that:
 
-“(1) The Secretary of Veterans Affairs shall submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000.
+“(1) The Secretary of Veterans Affairs shall submit to Congress reports on the implementation and operationof the equal employment opportunity system within the Department of Veterans Affairs. The first such report shall be submitted not later than April 1, 1998, and subsequent reports shall be submitted not later than January 1, 1999, and January 1, 2000.
 
 “(2) The first report under paragraph (1) shall set forth the actions taken by the Secretary to implement section 516 of title 38, United States Code, as added by subsection (a), and other actions taken by the Secretary in relation to the equal employment opportunity system within the Department of Veterans Affairs.
 

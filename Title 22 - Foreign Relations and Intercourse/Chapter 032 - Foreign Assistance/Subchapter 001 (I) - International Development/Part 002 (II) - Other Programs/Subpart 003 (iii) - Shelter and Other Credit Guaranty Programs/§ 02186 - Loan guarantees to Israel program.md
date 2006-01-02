@@ -14,7 +14,7 @@ The President is authorized to issue guarantees in furtherance of the purposes o
 
 &emsp;(3) If less than the full amount of guarantees authorized to be made available in a fiscal year pursuant to paragraphs (1) and (2) of this subsection is issued to Israel during that fiscal year, the authority to issue the balance of such guarantees shall extend to any subsequent fiscal year ending on or before September 30, 1998.
 
-&emsp;(4)(A) Not later than September 1 of each year during the period in which the President is authorized to issue loan guarantees under subsection (a) of this section, beginning in fiscal year 1993, the President shall notify the appropriate congressional committees in writing of his intentions regarding the exercise of that authority for the fiscal year beginning on October 1 of that year, including a statement of the total principal amount of guarantees, ifany, that the President proposes to issue for that fiscal year.
+&emsp;(4)(A) Not later than September 1 of each year during the period in which the President is authorized to issue loan guarantees under subsection (a) of this section, beginning in fiscal year 1993, the President shall notify the appropriate congressional committees in writing of his intentions regarding the exercise of that authority for the fiscal year beginning on October 1 of that year, including a statement of the total principal amount of guarantees, if any, that the President proposes to issue for that fiscal year.
 
 &emsp;(B) For purposes of this paragraph, the term “appropriate congressional committees” means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
 
@@ -56,7 +56,7 @@ The effective absorption of immigrants into Israel from the republics of the for
 
 #### (i) Consultations
 
-It is the sense of the Congress that, as agreed between the two Governments and in order to further the policies specified in subsection (h) of this section, Israel and the United States should continue to engage in consultations concerningeconomic and financial measures, including structural and other reforms, that Israel should undertake during the pendency of this program to enable its economy to absorb and resettle immigrants and to accommodate the increased debt burden that will result from loans guaranteed pursuant to this section. It is the sense of the Congress that these consultations on economic measures should address progress and plans in the areas of budget policies, privatization, trade liberalization, financial and capital markets, labor markets, competition policy, and deregulation.
+It is the sense of the Congress that, as agreed between the two Governments and in order to further the policies specified in subsection (h) of this section, Israel and the United States should continue to engage in consultations concerning economic and financial measures, including structural and other reforms, that Israel should undertake during the pendency of this program to enable its economy to absorb and resettle immigrants and to accommodate the increased debt burden that will result from loans guaranteed pursuant to this section. It is the sense of the Congress that these consultations on economic measures should address progress and plans in the areas of budget policies, privatization, trade liberalization, financial and capital markets, labor markets, competition policy, and deregulation.
 
 #### (j) Goods and services
 

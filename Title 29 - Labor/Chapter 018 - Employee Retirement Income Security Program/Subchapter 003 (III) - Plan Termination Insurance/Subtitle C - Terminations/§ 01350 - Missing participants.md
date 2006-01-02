@@ -6,7 +6,7 @@
 
 &emsp;A plan administrator satisfies section 1341(b)(3)(A) of this title in the case of a missing participant only if the plan administrator—
 
-&emsp;&emsp;(A) transfers the participant's designated benefit to the corporation or purchases anirrevocable commitment from an insurer in accordance with clause (i) of section 1341(b)(3)(A) of this title, and
+&emsp;&emsp;(A) transfers the participant's designated benefit to the corporation or purchases an irrevocable commitment from an insurer in accordance with clause (i) of section 1341(b)(3)(A) of this title, and
 
 &emsp;&emsp;(B) provides the corporation such information and certifications with respect to such designated benefits or irrevocable commitments as the corporation shall specify.
 

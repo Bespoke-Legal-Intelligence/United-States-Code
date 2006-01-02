@@ -2,7 +2,7 @@
 
 #### (a) Appointment, compensation and status of president of Institute and other officers
 
-The Board shall appoint the president of the Institute and such other officers as the Board determines to be necessary. The president of the Institute shall be a nonvoting ex officio member of the Board. All officers shall serve at the pleasure of the Board. The president shall be appointed for an explicit term of years. Notwithstanding any other provision of law limiting the payment of compensation, the president and other officers appointed by the Board shall be compensated at rates determined by the Board, but no greater than that payable for level I of the Executive Schedule under chapter 53 of title 5.
+The Board shall appoint the president of the Institute and such other officers as the Board determines to be necessary. The president of the Institute shall be a nonvoting ex officio member of the Board. All officers shall serve at the pleasure of the Board. The president shall be appointed for an explicit term of years. Notwithstanding any other provision of law limiting the payment of compensation, the president and other officers appointed by the Board shall becompensated at rates determined by the Board, but no greater than that payable for level I of the Executive Schedule under chapter 53 of title 5.
 
 #### (b) Authorization of activities
 
@@ -14,7 +14,7 @@ The president, subject to Institute's bylaws and general policies established by
 
 #### (d) Assignment of Federal officers or employees to the Institute
 
-(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congressand may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
+(1) The president may request the assignment of any Federal officer or employee to the Institute by an appropriate department, agency, or congressional official or Member of Congress and may enter into an agreement for such assignment, if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the department, agency, or congressional staff of such officer or employee.
 
 (2) The Secretary of State, the Secretary of Defense, and the Director of Central Intelligence each may assign officers and employees of his respective department or agency, on a rotating basis to be determined by the Board, to the Institute if the affected officer or employee agrees to such assignment and such assignment causes no prejudice to the salary, benefits, status, or advancement within the respective department or agency of such officer or employee.
 
@@ -56,7 +56,7 @@ The provisions of title 28 which relate to Federal tort claims liability, referr
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
 
 #### Effective Date of 1998 Amendment
 

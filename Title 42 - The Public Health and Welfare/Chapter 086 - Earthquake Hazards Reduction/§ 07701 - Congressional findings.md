@@ -6,7 +6,7 @@ The Congress finds and declares the following:
 
 &emsp;(2) Earthquakes have caused, and can cause in the future, enormous loss of life, injury, destruction of property, and economic and social disruption. With respect to future earthquakes, such loss, destruction, and disruption can be substantially reduced through the development and implementation of earthquake hazards reduction measures, including (A) improved design and construction methods and practices, (B) land-use controls and redevelopment, (C) prediction techniques and early-warning systems, (D) coordinated emergency preparedness plans, and (E) public education and involvement programs.
 
-&emsp;(3) An expertly staffed and adequately financed earthquake hazards reduction program, based on Federal, State, local, and private research, planning, decisionmaking, and contributions would reduce the risk of suchloss, destruction, and disruption in seismic areas by an amount far greater than the cost of such program.
+&emsp;(3) An expertly staffed and adequately financed earthquake hazards reduction program, based on Federal, State, local, and private research, planning, decisionmaking, and contributions would reduce the risk of such loss, destruction, and disruption in seismic areas by an amount far greater than the cost of such program.
 
 &emsp;(4) A well-funded seismological research program in earthquake prediction could provide data adequate for the design, of an operational system that could predict accurately the time, place, magnitude, and physical effects of earthquakes in selected areas of the United States.
 
@@ -56,5 +56,5 @@ Functions of President under Earthquake Hazards Reduction Act of 1977 delegated,
 
 #### Report on At-Risk Populations
 
-Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 13, 2000\], and after a period for public comment, the Director of the Federal Emergency Management Agency shall transmit to the Congress a report describing the elements of the Program that specifically address the needs of at-risk populations, including the elderly, persons with disabilities, non-English-speaking families, single-parent households, and the poor. Such report shall also identify additional actions that could be taken to address those needs and make recommendations for any additional legislative authority required to take such actions.”
+Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, provided that: “Not later than 1 year after thedate of the enactment of this Act \[Nov. 13, 2000\], and after a period for public comment, the Director of the Federal Emergency Management Agency shall transmit to the Congress a report describing the elements of the Program that specifically address the needs of at-risk populations, including the elderly, persons with disabilities, non-English-speaking families, single-parent households, and the poor. Such report shall also identify additional actions that could be taken to address those needs and make recommendations for any additional legislative authority required to take such actions.”
 

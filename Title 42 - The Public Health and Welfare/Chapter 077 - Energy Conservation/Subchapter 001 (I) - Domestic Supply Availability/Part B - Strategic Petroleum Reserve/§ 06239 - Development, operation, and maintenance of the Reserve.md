@@ -34,7 +34,7 @@ If the Secretary determines expansion beyond 700,000,000 barrels of petroleum pr
 
 #### (k) Exemption from subtitle IV of title 49
 
-A storage or related facility of the Strategic Petroleum Reserve owned by or leased to the United States is not subject to the Interstate Commerce Act.
+A storage or related facility of the Strategic Petroleum Reserve owned by or leased to theUnited States is not subject to the Interstate Commerce Act.
 
 #### (<i>l</i>) Rulemaking during drawdown and sale
 
@@ -44,7 +44,7 @@ During a drawdown and sale of Strategic Petroleum Reserve petroleum products, th
 
 #### References in Text
 
-The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of theCommission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
+The Interstate Commerce Act, referred to in subsec. (k), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended, which was classified generally to chapters 1, 8, 12, 13, and 19 (§§1 et seq., 301 et seq., 901 et seq., 1001 et seq., and 1231 et seq., respectively) of former Title 49, Transportation. The Act was repealed (subject to an exception) by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. Section 4(c) of Pub. L. 95–473 excepted from repeal those provisions of the Interstate Commerce Act that vested functions in the Interstate Commerce Commission, or the chairman or members of the Commission, related to transportation of oil by pipeline and that were transferred to the Secretary of Energy and the Federal Energy Regulatory Commission by sections 7155 and 7172(b) of this title.
 
 #### Amendments
 

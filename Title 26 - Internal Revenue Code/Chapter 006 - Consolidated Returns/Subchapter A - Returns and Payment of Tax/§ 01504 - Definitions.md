@@ -8,7 +8,7 @@ For purposes of this subtitle—
 
 &emsp;The term “affiliated group” means—
 
-&emsp;&emsp;(A) 1 or more chains of includible corporations connected through stock ownership with a common parent corporation which is an includible corporation, but only if—
+&emsp;&emsp;(A) 1 or more chains of includible corporations connected through stock ownershipwith a common parent corporation which is an includible corporation, but only if—
 
 &emsp;&emsp;(B)(i) the common parent owns directly stock meeting the requirements of paragraph (2) in at least 1 of the other includible corporations, and
 
@@ -62,7 +62,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(D) which disregard an inadvertent ceasing to meet the requirements of paragraph (2)(B) by reason of changes in relative values of different classes of stock,
 
-&emsp;&emsp;(E) which provide that transfers of stock within the group shall not be taken into account in determining whether a corporationceases to be a member of an affiliated group, and
+&emsp;&emsp;(E) which provide that transfers of stock within the group shall not be taken into account in determining whether a corporation ceases to be a member of an affiliated group, and
 
 &emsp;&emsp;(F) which disregard changes in voting power to the extent such changes are disproportionate to related changes in value.
 
@@ -138,7 +138,7 @@ Subsec. (c)(2)(B)(i). Pub. L. 104–188, §1702(h)(6), inserted “section” be
 
 Subsec. (f). Pub. L. 100–647, §1018(d)(10)(B), added subsec. (f).
 
-1986—Subsec. (a)(4)(C). Pub. L. 99–514, §1804(e)(1), amended subpar. (C) generally. Prior to amendment,subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
+1986—Subsec. (a)(4)(C). Pub. L. 99–514, §1804(e)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
 
 Subsec. (b)(2). Pub. L. 99–514, §1024(c)(15), struck out “or 821” after “section 802”.
 
@@ -246,7 +246,7 @@ Native corporations.—
 
 &emsp;“(B) Except as provided in subparagraph (C), during the period described in subparagraph (A), no provision of the Internal Revenue Code of 1986 (including sections 269 and 482) or principle of law shall apply to deny the benefit or use of losses incurred or credits earned by a corporation described in subparagraph (A) to the affiliated group of which the Native Corporation is the common parent.
 
-&emsp;“(C) Losses incurred or credits earned by a corporation described in subparagraph (A) shall be subject to the general consolidated return regulations, including the provisions relating to separate return limitation years, and to sections 382 and 383 of the Internal Revenue Code of 1986.
+&emsp;“(C) Losses incurred or credits earned by a corporation described in subparagraph (A) shall be subject tothe general consolidated return regulations, including the provisions relating to separate return limitation years, and to sections 382 and 383 of the Internal Revenue Code of 1986.
 
 &emsp;“(D) Losses incurred and credits earned by a corporation which is affiliated with a corporation described in subparagraph (A) shall be treated as having been incurred or earned in a separate return limitation year, unless the corporation incurring the losses or earning the credits satisfies the affiliation requirements of section 1504(a) without application of subparagraph (A).
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 95–600 effective with respect to qualified investment for
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974,see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
+Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years beginning after Dec. 31, 1974, see section 803(j) of Pub. L. 94–455, set out as a note under section 46 of this title.
 
 Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 Section 2(d) of Pub. L. 86–376 provided that: “The amendment made by subsection (a) \[amending section 1371 of this title\] shall apply to taxable years beginning after December 31, 1959. The amendments made by subsections (b) and (c) \[amending this section and section 1374 of this title\] shall take effect on the day after the date of the enactment of this Act \[Sept. 23, 1959\].”
 
-Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–69, set out as an Effective Date note under section 381 of this title.
+Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, seesection 4 of Pub. L. 86–69, set out as an Effective Date note under section 381 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -338,7 +338,7 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Repeal of Rules Permitting Loss Transfers by Alaska Native Corporations
 
@@ -443,8 +443,4 @@ Limitations on carryovers or carrybacks for groups electing under section 1504(c
 “(B)
 
 Nontermination of affiliated group.—The mere election to file a consolidated return pursuant to such section 1504(c)(2) shall not cause the termination of an affiliated group filing consolidated returns.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 132, 149, 163, 165, 168, 172, 243, 246A, 279, 280G, 281, 304, 312, 332, 336, 338, 355, 358, 367, 382, 384, 404, 448, 465, 472, 542, 543, 584, 593, 732, 805, 818, 832, 861, 864, 865, 904, 936, 952, 954, 1042, 1092, 1313, 1362, 1503, 4216, 4282, 4612, 6166, 7701 of this title; title 6 section 395.
 

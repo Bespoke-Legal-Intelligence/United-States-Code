@@ -94,7 +94,7 @@ Judicial review of determinations made under this section shall be carried out i
 
 #### (A) In general
 
-&emsp;&emsp;If a person or entity fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (b) of this section, after the determination or order is no longer subject to review as provided by subsections (c) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against that person or entity and such other relief as may be available.
+&emsp;&emsp;If a person or entity fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (b) of this section, after the determination or order is no longer subject to review as provided by subsections (c) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate UnitedStates district court to obtain a monetary judgment against that person or entity and such other relief as may be available.
 
 #### (B) Fees and expenses
 

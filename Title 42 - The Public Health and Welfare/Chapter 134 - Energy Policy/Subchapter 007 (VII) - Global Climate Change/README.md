@@ -15,3 +15,4 @@
 - [&sect; 13386 - Export of domestic energy resource technologies to developing countries](%C2%A7%2013386%20-%20Export%20of%20domestic%20energy%20resource%20technologies%20to%20developing%20countries.md)
 - [&sect; 13387 - Innovative environmental technology transfer program](%C2%A7%2013387%20-%20Innovative%20environmental%20technology%20transfer%20program.md)
 - [&sect; 13388 - Global Climate Change Response Fund](%C2%A7%2013388%20-%20Global%20Climate%20Change%20Response%20Fund.md)
+- [&sect; 13389 - Greenhouse gas intensity reducing strategies](%C2%A7%2013389%20-%20Greenhouse%20gas%20intensity%20reducing%20strategies.md)

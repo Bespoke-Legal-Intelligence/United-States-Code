@@ -44,7 +44,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 &emsp;(2) clinical research and related activities into the causes, prevention, detection and treatment of ovarian cancer and other cancers of the reproductive system of women;
 
-&emsp;(3) control programs with respect to ovarian cancer and other cancers of the reproductive system of women in accordance with section 285a–1 of this title;
+&emsp;(3) control programs with respect to ovarian cancer and other cancers of the reproductivesystem of women in accordance with section 285a–1 of this title;
 
 &emsp;(4) information and education programs with respect to ovarian cancer and other cancers of the reproductive system of women in accordance with section 285a–2 of this title; and
 

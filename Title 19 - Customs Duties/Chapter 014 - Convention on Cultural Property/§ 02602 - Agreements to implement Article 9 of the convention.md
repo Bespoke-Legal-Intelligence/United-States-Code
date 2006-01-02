@@ -62,7 +62,7 @@ If, after an agreement enters into force with respect to the United States, the 
 
 &emsp;(2) are not implementing such restrictions satisfactorily with the result that no substantial benefit in deterring a serious situation of pillage in the State Party concerned is being obtained,
 
-> the President shall suspend the implementation of the import restrictions under section 2606 of this title until such time as the nations take appropriate corrective action.
+> the President shall suspend the implementation of the import restrictions under section 2606 ofthis title until such time as the nations take appropriate corrective action.
 
 #### (e) Extension of agreements
 
@@ -144,7 +144,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (i) The functions conferred by section 306(h) relating to the determinations to be made about the disclosure of matters involved in the Cultural Property Advisory Committee's proceedings.
 
-Sec. 2. <i>Department of State</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of State, acting in consultation with and with the participation of the Director of the United States Information Agency and in consultation with the Secretary of Homeland Security:
+Sec. 2. <i>Department of State</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of State, acting in consultationwith and with the participation of the Director of the United States Information Agency and in consultation with the Secretary of Homeland Security:
 
 (a) The functions conferred by section 303(a)(2) \[19 U.S.C. 2602(a)(2)\] relating to the negotiation and conclusion of bilateral or multilateral agreements under the Act, subject to the restrictions of section 303(c).
 

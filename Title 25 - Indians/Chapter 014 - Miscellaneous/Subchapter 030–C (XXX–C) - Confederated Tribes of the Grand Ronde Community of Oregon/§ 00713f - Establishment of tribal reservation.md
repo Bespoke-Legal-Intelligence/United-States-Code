@@ -14,7 +14,7 @@ To assure that legitimate State and local interests are not prejudiced by the pr
 
 &emsp;(2) The anticipated effect of the establishment of the proposed reservation on State and local expenditures and tax revenues.
 
-&emsp;(3) The extent of any State or local service to the tribe, the reservation of the tribe, ormembers after the establishment of the proposed reservation.
+&emsp;(3) The extent of any State or local service to the tribe, the reservation of the tribe, or members after the establishment of the proposed reservation.
 
 &emsp;(4) The extent of Federal services to be provided in the future to the tribe, the reservation of the tribe, or members.
 

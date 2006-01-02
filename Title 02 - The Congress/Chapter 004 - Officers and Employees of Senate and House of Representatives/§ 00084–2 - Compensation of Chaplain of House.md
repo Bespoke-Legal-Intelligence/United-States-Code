@@ -14,7 +14,7 @@ Section is based on section 3 of House Resolution No. 661, Ninety-fifth Congress
 
 #### Prior Provisions
 
-A prior section 84–2, Pub. L. 88–426, title II, §203(f), Aug. 14, 1964, 78 Stat. 415; H. Res. 313, 89th Cong., Mar. 31, 1965, as enacted by Pub. L. 89–90, §103, July 27, 1965, 79 Stat. 281; Pub. L. 90–206, title II, §214(b), Dec. 16, 1967, 81 Stat. 635, provided that the compensation of Chaplain of House shall be at a gross per annum rate which is equal to the gross per annum rate of compensation of Chaplain of Senate, subject to further increases.
+A prior section 84–2, Pub. L. 88–426, title II, §203(f), Aug. 14, 1964, 78 Stat. 415; H. Res. 313, 89th Cong., Mar.31, 1965, as enacted by Pub. L. 89–90, §103, July 27, 1965, 79 Stat. 281; Pub. L. 90–206, title II, §214(b), Dec. 16, 1967, 81 Stat. 635, provided that the compensation of Chaplain of House shall be at a gross per annum rate which is equal to the gross per annum rate of compensation of Chaplain of Senate, subject to further increases.
 
 #### Compensation of Individual Holding Position of Chaplain of House of Representatives on July 14, 1983
 

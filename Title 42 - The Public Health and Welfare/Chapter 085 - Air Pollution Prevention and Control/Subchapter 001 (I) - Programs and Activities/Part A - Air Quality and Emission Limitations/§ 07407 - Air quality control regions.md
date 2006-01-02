@@ -58,7 +58,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (3) Redesignation
 
-&emsp;(A) Subject to the requirements of subparagraph (E), and on the basis of air quality data, planning and control considerations, or any other air quality-related considerations the Administrator deems appropriate, the Administrator may at any time notify the Governor of any State that available information indicates that the designation of any area or portion of an area within the State or interstate area should be revised. In issuing such notification, which shall be public, to the Governor, the Administrator shall provide such information as the Administrator may have available explaining the basis for the notice.
+&emsp;(A) Subject to the requirements of subparagraph (E), and on the basis of air quality data, planning and control considerations, or any other air quality-related considerations the Administrator deems appropriate, the Administrator may at any time notify the Governor of any State that available information indicates that the designation of any area or portion of an area within the State or interstatearea should be revised. In issuing such notification, which shall be public, to the Governor, the Administrator shall provide such information as the Administrator may have available explaining the basis for the notice.
 
 &emsp;(B) No later than 120 days after receiving a notification under subparagraph (A), the Governor shall submit to the Administrator such redesignation, if any, of the appropriate area (or areas) or portion thereof within the State or interstate area, as the Governor considers appropriate.
 
@@ -90,9 +90,9 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;&emsp;(iii) No nonattainment area may be redesignated as an attainment area under this subparagraph.
 
-&emsp;&emsp;(iv) Notwithstanding paragraph (1)(C)(ii) of this subsection, if an ozone or carbon monoxide nonattainment area located within a metropolitan statistical area or consolidated metropolitan statistical area (as establishedby the Bureau of the Census) is classified under part D of this subchapter as a Serious, Severe, or Extreme Area, the boundaries of such area are hereby revised (on the date 45 days after such classification) by operation of law to include the entire metropolitan statistical area or consolidated metropolitan statistical area, as the case may be, unless within such 45-day period the Governor (in consultation with State and local air pollution control agencies) notifies the Administrator that additional time is necessary to evaluate the application of clause (v). Whenever a Governor has submitted such a notice to the Administrator, such boundary revision shall occur on the later of the date 8 months after such classification or 14 months after November 15, 1990, unless the Governor makes the finding referred to in clause (v), and the Administrator concurs in such finding, within such period. Except as otherwise provided in this paragraph, a boundary revision under this clause or clause (v) shall apply for purposes of any State implementation plan revision required to be submitted after November 15, 1990.
+&emsp;&emsp;(iv) Notwithstanding paragraph (1)(C)(ii) of this subsection, if an ozone or carbon monoxide nonattainment area located within a metropolitan statistical area or consolidated metropolitan statistical area (as established by the Bureau of the Census) is classified under part D of this subchapter as a Serious, Severe, or Extreme Area, the boundaries of such area are hereby revised (on the date 45 days after such classification) by operation of law to include the entire metropolitan statistical area or consolidated metropolitan statistical area, as the case may be, unless within such 45-day period the Governor (in consultation with State and local air pollution control agencies) notifies the Administrator that additional time is necessary to evaluate the application of clause (v). Whenever a Governor has submitted such a notice to the Administrator, such boundary revision shall occur on the later of the date 8 months after such classification or 14 months after November 15, 1990, unless the Governor makes the finding referred to in clause (v), and the Administrator concurs in such finding, within such period. Except as otherwise provided in this paragraph, a boundary revision under this clause or clause (v) shall apply for purposes of any State implementation plan revision required to be submitted after November 15, 1990.
 
-&emsp;&emsp;(v) Whenever the Governor of a State has submitted a notice under clause (iv), the Governor, in consultation with State and local air pollution control agencies, shall undertake a study to evaluate whether the entire metropolitan statistical area or consolidated metropolitan statistical area should be included within the nonattainment area. Whenever a Governor finds and demonstrates to the satisfaction of the Administrator, and the Administrator concurs in such finding, that with respect to a portion of a metropolitan statistical area or consolidated metropolitan statistical area, sources in the portion do not contribute significantly to violation of the national ambient air quality standard, the Administrator shall approve the Governor's request to exclude such portion from the nonattainment area. In making such finding, the Governor and the Administrator shall consider factors such as population density, traffic congestion, commercial development, industrial development, meteorological conditions, and pollution transport.
+&emsp;&emsp;(v) Whenever the Governor of a State has submitted a notice under clause (iv), the Governor, in consultation with State and local air pollution control agencies, shall undertake a study to evaluate whether theentire metropolitan statistical area or consolidated metropolitan statistical area should be included within the nonattainment area. Whenever a Governor finds and demonstrates to the satisfaction of the Administrator, and the Administrator concurs in such finding, that with respect to a portion of a metropolitan statistical area or consolidated metropolitan statistical area, sources in the portion do not contribute significantly to violation of the national ambient air quality standard, the Administrator shall approve the Governor's request to exclude such portion from the nonattainment area. In making such finding, the Governor and the Administrator shall consider factors such as population density, traffic congestion, commercial development, industrial development, meteorological conditions, and pollution transport.
 
 #### (B) PM–10 designations
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 Pub. L. 108–199, div. G, title IV, §425(b), Jan. 23, 2004, 118 Stat. 417, provided that: “Except as provided in paragraphs (6) and (7) of section 107(d) of the Clean Air Act \[subsec. (d)(6), (7) of this section\] (as added by subsection (a)), section 6101, subsections (a) and (b) of section 6102, and section 6103 of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (42 U.S.C. 7407 note; 112 Stat. 463), as in effect on the day before the date of enactment of this Act \[Jan. 23, 2004\], shall remain in effect.”
 
-Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
+Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, as amended by Pub. L. 109–59, title VI, §6012(a), Aug. 10, 2005, 119 Stat. 1882, provided that:
 
 #### “SEC. 6101. FINDINGS AND PURPOSE.
 
@@ -206,7 +206,21 @@ Pub. L. 105–178, title VI, June 9, 1998, 112 Stat. 463, provided that:
 
 “(d) The Administrator shall promulgate the designations referred to in section 107(d)(1) of the Clean Air Act \[42 U.S.C. 7407(d)(1)\] for each area following promulgation of the July 1997 PM<sub>2.5</sub> national ambient air quality standard by the earlier of 1 year after the initial designations required under subsection (c)(1) are required to be submitted or December 31, 2005.
 
-“(e) The Administrator shall conduct a field study of the ability of the PM<sub>2.5</sub> Federal Reference Method to differentiate those particles that are larger than 2.5 micrograms in diameter. This study shall be completed and provided to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committee on Environment and Public Works of the United States Senate no later than 2 years from the date of enactment of this Act \[June 9, 1998\].
+“(e)
+
+Field Study.—Not later than 2 years after the date of enactment of the SAFETEA–LU \[Aug. 10, 2005\], the Administrator shall—
+
+&emsp;“(1) conduct a field study of the ability of the PM<sub>2.5</sub> Federal Reference Method to differentiate those particles that are larger than 2.5 micrometers in diameter;
+
+&emsp;“(2) develop a Federal reference method to measure directly particles that are larger than 2.5 micrometers in diameter without reliance on subtracting from coarse particle measurements those particles that are equal to or smaller than 2.5 micrometers in diameter;
+
+&emsp;“(3) develop a method of measuring the composition of coarse particles; and
+
+&emsp;“(4) submit a report on the study and responsibilities of the Administrator under paragraphs (1) through (3) to—
+
+&emsp;&emsp;“(A) the Committee on Energy and Commerce of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Environment and Public Works of the Senate.
 
 #### “SEC. 6103. OZONE DESIGNATION REQUIREMENTS.
 

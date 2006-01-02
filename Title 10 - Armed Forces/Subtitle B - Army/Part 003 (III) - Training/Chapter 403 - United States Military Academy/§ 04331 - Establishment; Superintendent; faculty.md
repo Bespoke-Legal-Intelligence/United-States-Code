@@ -136,7 +136,95 @@ Subsec. (a)(8) to (10). Pub. L. 85–600 added par. (8) and redesignated existin
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Prayer at Military Service Academy Activities
+
+Pub. L. 109–163, div. A, title V, §598, Jan. 6, 2006, 119 Stat. 3283, provided that:
+
+“(a)
+
+In General.—The superintendent of a service academy may have in effect such policy as the superintendent considers appropriate with respect to the offering of a voluntary, nondenominational prayer at an otherwise authorized activity of the academy, subjectto the United States Constitution and such limitations as the Secretary of Defense may prescribe.
+
+“(b)
+
+Service Academies.—For purposes of this section, the term ‘service academy’ means any of the following:
+
+&emsp;“(1) The United States Military Academy.
+
+&emsp;“(2) The United States Naval Academy.
+
+&emsp;“(3) The United States Air Force Academy.”
+
 #### Sexual Harassment and Violence at the Military Service Academies
+
+Pub. L. 108–375, div. A, title V, §576, Oct. 28, 2004, 118 Stat. 1924, provided that:
+
+“(a)
+
+Extension of Task Force.—(1) The task force in the Department of Defense established by the Secretary of Defense pursuant to section 526 of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 117 Stat. 1466) \[set out below\] to examine matters relating to sexual harassment and violence at the United States Military Academy and United States Naval Academy shall continue in existence for a period of at least 18 months after the date as of which the task force would otherwise be terminated pursuant to subsection (i) of that section.
+
+“(2) Upon the completion of the functions of the task force referred to in paragraph (1) pursuant to section 526 of the National Defense Authorization Act for Fiscal Year 2004, the name of the task force shall be changed to the Defense Task Force on Sexual Assault in the Military Services, and the task force shall then carry out the functions specified in this section. The task force shall not begin to carry out the functions specified in this section until it has completed its functions under such section 526.
+
+“(3) Before the task force extended under this subsection begins to carry out the functions specified in this section, the Secretary of Defense may, consistent with the qualifications required by section 526(f) of Public Law 108–136, change the composition of the task force as the Secretary considers appropriate for the effective performance of such functions, except that—
+
+&emsp;“(A) any change initiated by the Secretary in the membership of the task force under this paragraph may not take effect before the task force has completed its functions under section 526 of Public Law 108–136; and
+
+&emsp;“(B) the total number of members of the task force may not exceed 14.
+
+“(b)
+
+Examination of Matters Relating to Sexual Assault in the Armed Forces.—The task force shall conduct an examination of matters relating to sexual assault in cases in which members of the Armed Forces are either victims or commit acts of sexual assault.
+
+“(c)
+
+Recommendations.—The Task Force shall include in its report under subsection (e) recommendations of ways by which civilian officials within the Department of Defense and leadership within the Armed Forces may more effectively address matters relating to sexual assault. That report shall include an assessment of, and recommendations (including any recommendations for changes in law) for measures to improve, with respect to sexual assault, the following:
+
+&emsp;“(1) Victim care and advocacy programs.
+
+&emsp;“(2) Effective prevention.
+
+&emsp;“(3) Collaboration among military investigative organizations with responsibility or jurisdiction.
+
+&emsp;“(4) Coordination and resource sharing between military and civilian communities, including local support organizations.
+
+&emsp;“(5) Reporting procedures, data collection, tracking of cases, and use of data on sexual assault by senior military and civilian leaders.
+
+&emsp;“(6) Oversight of sexual assault programs, including development of measures of the effectiveness of those programs in responding to victim needs.
+
+&emsp;“(7) Military justice issues.
+
+&emsp;“(8) Progress in developing means to investigate and prosecute assailants who are foreign nationals.
+
+&emsp;“(9) Adequacy of resources supporting sexual assault prevention and victim advocacy programs, particularly for deployed units and personnel.
+
+&emsp;“(10) Training of military and civilian personnel responsible for implementation of sexual assault policies.
+
+&emsp;“(11) Programs and policies, including those related to confidentiality, designed to encourage victims to seek services and report offenses.
+
+&emsp;“(12) Other issues identified by the task force relating to sexual assault.
+
+“(d)
+
+Methodology.—In carrying out its examination under subsection (b) and in formulating its recommendations under subsection (c), the task force shall consider the findings and recommendations of previous reviews and investigations of sexual assault conducted by the Department of Defense and the Armed Forces.
+
+“(e)
+
+Report.—(1) Not later than one year after the initiation of its examination under subsection (b), the task force shall submit to the Secretary of Defense and the Secretaries of the Army, Navy, and Air Force a report on the activities of the task force and on the activities of the Department of Defense and the Armed Forces to respond to sexual assault.
+
+“(2) The report shall include the following:
+
+&emsp;“(A) A description of any barrier to implementation of improvements as a result of previous efforts to address sexual assault.
+
+&emsp;“(B) Other areas of concern not previously addressed in prior reports.
+
+&emsp;“(C) The findings and conclusions of the task force.
+
+&emsp;“(D) Any recommendations for changes to policy and law that the task force considers appropriate.
+
+“(3) Within 90 days after receipt of the report under paragraph (1), the Secretary of Defense shall submit the report, together with the Secretary's evaluation of the report, to the Committees on Armed Services of the Senate and House of Representatives.
+
+“(f)
+
+Termination.—The task force shall terminate 90 days after the date on which the report of the task force is submitted to the Committees on Armed Services of the Senate and House of Representatives pursuant to subsection (e)(3).”
 
 Pub. L. 108–136, div. A, title V, §526, Nov. 24, 2003, 117 Stat. 1466, provided that:
 
@@ -322,31 +410,7 @@ Annual Report.—(1) The Secretary of the Army, the Secretary of the Navy, and t
 
 #### Prohibition on Imposition of Additional Charges or Fees for Attendance at Certain Academies
 
-Pub. L. 103–337, div. A, title V, §553, Oct. 5, 1994, 108 Stat. 2772, as amended by Pub. L. 107–314, div. A, title X, §1041(b), Dec. 2, 2002, 116 Stat. 2646, provided that:
-
-“(a)
-
-Prohibition.—Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at an academy named in subsection (c) may be imposed unless the charge or fee is specifically authorized by a law enacted after the date of the enactment of this Act \[Oct. 5, 1994\].
-
-“(b)
-
-Exception.—The prohibition specified in subsection (a) shall not apply with respect to any item or service provided to cadets or midshipmen at an academy named in subsection (c) for which a charge or fee is imposed as of the date of the enactment of this Act.
-
-“(c)
-
-Covered Academies.—This section applies to the following:
-
-&emsp;“(1) The United States Military Academy.
-
-&emsp;“(2) The United States Naval Academy.
-
-&emsp;“(3) The United States Air Force Academy.
-
-&emsp;“(4) The United States Coast Guard Academy.
-
-&emsp;“(5) The United States Merchant Marine Academy.”
-
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+Pub. L. 103–337, div. A, title V, §553, Oct. 5, 1994, 108 Stat. 2772, as amended by Pub. L. 107–314, div. A, title X, §1041(b), Dec. 2, 2002, 116 Stat. 2646, prohibited imposition of additional charges or fees for attendance at United States military service academies, prior to repeal by Pub. L. 108–375, div. A, title V, §545(f), Oct. 28, 2004, 118 Stat. 1909.
 
 #### Test Program To Evaluate Use of Private Preparatory Schools for Service Academy Preparatory School Mission
 
@@ -358,7 +422,7 @@ Pub. L. 101–510, div. A, title XIV, §1466, Nov. 5, 1990, 104 Stat. 1700, prov
 
 “(a)
 
-Visiting Scholar Program.—(1) The Secretary of the Army shall establish a visiting scholar programat the United States Military Academy to be known as the ‘Thomas Hawkins Johnson Visiting Scholar Program’. The Secretary shall select not more than two scholars to participate in the program for an academic year. A person selected to participate in the program shall serve as an instructor at the Academy for two weeks during the academic year and perform such duties as the Secretary may assign.
+Visiting Scholar Program.—(1) The Secretary of the Army shall establish a visiting scholar program at the United States Military Academy to be known as the ‘Thomas Hawkins Johnson Visiting Scholar Program’. The Secretary shall select not more than two scholars to participate in the program for an academic year. A person selected to participate in the program shall serve as an instructor at the Academy for two weeks during the academic year and perform such duties as the Secretary may assign.
 
 “(2) There is authorized to be appropriated to the Secretary of the Army $25,000 for each fiscal year to carry out this subsection.
 

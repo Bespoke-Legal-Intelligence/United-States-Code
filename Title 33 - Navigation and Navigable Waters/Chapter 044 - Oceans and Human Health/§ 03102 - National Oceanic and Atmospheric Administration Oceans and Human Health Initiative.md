@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans and Human Health Initiative to coordinate and implement research and activities of the NationalOceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
+As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans and Human Health Initiative to coordinate and implement research and activities of the National Oceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
 
 &emsp;(1) centralized program and research coordination;
 
@@ -28,7 +28,7 @@ The Secretary is authorized to establish an oceans and human health advisory pan
 
 #### (d) Extramural research grants
 
-(1) The Secretary is authorized to provide grants of financial assistance to the scientific community for critical research and projects that explore the relationship between the oceans and human health and that complement or strengthen programs and activities of the National Oceanic and Atmospheric Administration related to the ocean's <sup>1</sup> role in human health. Officers and employees of Federal agencies may collaborate with, and participate in, such research and projects to the extent requested by the grant recipient. The Secretary shall consult with the oceans and human health advisory panel established under subsection (b) and may work cooperatively with other agencies participating in the interagency program to establish joint criteria for such research and projects.
+(1) The Secretary is authorized to provide grants of financial assistance to the scientific community for critical research and projects that explore the relationship between the oceans and human health and that complement or strengthen programs and activities of the National Oceanic and Atmospheric Administration related to the ocean's <sup>1</sup> role in human health. Officers and employees of Federal agencies maycollaborate with, and participate in, such research and projects to the extent requested by the grant recipient. The Secretary shall consult with the oceans and human health advisory panel established under subsection (b) and may work cooperatively with other agencies participating in the interagency program to establish joint criteria for such research and projects.
 
 (2) Grants under this subsection shall be awarded through a competitive peer-reviewed, merit-based process that may be conducted jointly with other agencies participating in the interagency program.
 

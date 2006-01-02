@@ -66,11 +66,11 @@ Chapter 67 of title 31, including sections 6701 and 6705 to 6712, referred to in
 
 #### Codification
 
-In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 ofthe State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
+In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” substituted for “section 107 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1226\]”, “sections 6701(a)(5), (7), (b)–(d), and 6708–6712 of title 31” substituted for “section 108 of the State and Local Fiscal Assistance Act of 1972 \[31 U.S.C. 1227\], and “section 6701(a)(1) of title 31” substituted for “section 141(b) of such Act \[31 U.S.C. 1261(b)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance. See, also, References in Text note above.
 
 #### Amendments
 
-1977—Subsec. (b)(3)(D). Pub. L. 95–30, §603(a), substituted “for the most recently completed entitlement period, as defined under section 1261(b) of title 31” for “for the one-year period beginning on July 1, 1975”.
+1977—Subsec. (b)(3)(D). Pub. L. 95–30, §603(a), substituted “for the most recently completed entitlementperiod, as defined under section 1261(b) of title 31” for “for the one-year period beginning on July 1, 1975”.
 
 Subsec. (c)(1). Pub. L. 95–30, §603(b), substituted “paragraph (4)” for “paragraphs (3) and (5)”.
 

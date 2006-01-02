@@ -24,7 +24,7 @@
 
 &emsp;(1) after the expiration of the 60 session days beginning with the applicable submission or publication date, or
 
-&emsp;(2) if the report under section 801(a)(1)(A) was submitted during the period referred to in section 801(d)(1), after the expiration of the 60session days beginning on the 15th session day after the succeeding session of Congress first convenes.
+&emsp;(2) if the report under section 801(a)(1)(A) was submitted during the period referred to in section 801(d)(1), after the expiration of the 60 session days beginning on the 15th session day after the succeeding session of Congress first convenes.
 
 (f) If, before the passage by one House of a joint resolution of that House described in subsection (a), that House receives from the other House a joint resolution described in subsection (a), then the following procedures shall apply:
 

@@ -36,7 +36,7 @@
 
 1981—Subsec. (c). Pub. L. 97–66 substituted “Except as provided in the second and third sentences of this subsection, unless” for “Unless” and inserted provision that, in the case of insurance maturing after September 30, 1981, and for which no option has been elected by the insured, the first beneficiary may elect to receive payment in one sum.
 
-1970—Subsec. (c). Pub. L. 91–291 struck out provision that options (3) and (4) were not available in cases where the endowment contract matured by reason of the completion of the endowment period.
+1970—Subsec. (c). Pub. L. 91–291 struck out provision that options (3) and (4) were not available in caseswhere the endowment contract matured by reason of the completion of the endowment period.
 
 Subsec. (e). Pub. L. 91–291 added subsec. (e).
 

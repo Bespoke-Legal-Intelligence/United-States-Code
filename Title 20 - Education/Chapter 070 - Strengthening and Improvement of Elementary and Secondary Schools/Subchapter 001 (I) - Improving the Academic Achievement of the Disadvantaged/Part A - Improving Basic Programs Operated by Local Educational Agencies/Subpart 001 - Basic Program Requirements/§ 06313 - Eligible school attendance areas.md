@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;A local educational agency shall allocate funds received under this part to eligibleschool attendance areas or eligible schools, identified under subsections (a) and (b) of this section, in rank order, on the basis of the total number of children from low-income families in each area or school.
+&emsp;A local educational agency shall allocate funds received under this part to eligible school attendance areas or eligible schools, identified under subsections (a) and (b) of this section, in rank order, on the basis of the total number of children from low-income families in each area or school.
 
 #### (2) Special rule
 

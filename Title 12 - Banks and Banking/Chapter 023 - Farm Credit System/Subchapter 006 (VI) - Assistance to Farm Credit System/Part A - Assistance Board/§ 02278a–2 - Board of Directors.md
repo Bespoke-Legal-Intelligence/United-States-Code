@@ -2,7 +2,7 @@
 
 #### (a) Membership
 
-The Board of Directors of the Assistance Board (hereinafter referred to in this part as the“Board of Directors”) shall consist of three members—
+The Board of Directors of the Assistance Board (hereinafter referred to in this part as the “Board of Directors”) shall consist of three members—
 
 &emsp;(1) one of which shall be the Secretary of the Treasury;
 

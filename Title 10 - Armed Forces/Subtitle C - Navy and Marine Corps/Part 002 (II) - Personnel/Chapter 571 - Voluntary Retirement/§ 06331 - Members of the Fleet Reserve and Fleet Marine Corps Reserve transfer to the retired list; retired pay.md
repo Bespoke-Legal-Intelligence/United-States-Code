@@ -4,7 +4,7 @@
 
 &emsp;(1) to the retired list of the Regular Navy or the Regular Marine Corps, as appropriate, if he was a member of the Regular Navy or the Regular Marine Corps at the time of his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve; or
 
-&emsp;(2) to the appropriate Retired Reserve, if he was a member of the Naval Reserve or the Marine Corps Reserve at the time of his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve.
+&emsp;(2) to the appropriate Retired Reserve, if he was a member of the Navy Reserve or the Marine Corps Reserve at the time of his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve.
 
 (b) For the purpose of subsection (a), a member's years of service are computed by adding—
 
@@ -16,7 +16,7 @@
 
 (c) Unless otherwise entitled to higher pay, each member transferred to the retired list or the Retired Reserve under this section is entitled to retired pay at the same rate as the retainer pay to which he was entitled at the time of his transfer to the retired list or the Retired Reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 397; Pub. L. 85–583, §1(4–6), Aug. 1, 1958, 72 Stat. 480.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 397; Pub. L. 85–583, §1(4–6), Aug. 1, 1958, 72 Stat. 480; Pub. L. 109–163, div. A, title V, §515(b)(1)(K), Jan. 6, 2006, 119 Stat. 3233.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,8 @@ Subsection (b) is worded so as to cover all members of the Fleet Reserve and the
 In subsection (c) references to the “allowances to which enlisted men of the Navy are entitled on retirement after thirty years’ service”, in the second and fourth provisos of 34 U.S.C. 854e, are omitted because of the repeal, by §19 of the Pay Readjustment Act of 1942, 56 Stat. 369, of the laws authorizing such allowances.
 
 #### Amendments
+
+2006—Subsec. (a)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1958—Subsec. (a). Pub. L. 85–583, §1(4), provided for the transfer to the appropriate Retired Reserve of those members of the Fleet Reserve or the Fleet Marine Corps Reserve who had transferred thereto from the Naval Reserve or the Marine Corps Reserve.
 

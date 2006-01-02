@@ -28,7 +28,7 @@ Agency personnel designated by the Director under subsection (a) of this section
 
 #### (d) Protection of certain CIA personnel from tort liability
 
-(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a) of this section, or designated by the Director under section 403f(a)(4) of this title to carry firearms for the protection of current or former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tortliability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
+(1) Notwithstanding any other provision of law, any Agency personnel designated by the Director under subsection (a) of this section, or designated by the Director under section 403f(a)(4) of this title to carry firearms for the protection of current or former Agency personnel and their immediate families, defectors and their immediate families, and other persons in the United States under Agency auspices, shall be considered for purposes of chapter 171 of title 28, or any other provision of law relating to tort liability, to be acting within the scope of their office or employment when such Agency personnel take reasonable action, which may include the use of force, to—
 
 &emsp;(A) protect an individual in the presence of such Agency personnel from a crime of violence;
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 108–177, §377(b)(3)(B), substituted “section 1315(c)(2
 
 Subsec. (d). Pub. L. 108–177, §402, added subsec. (d).
 
-2002—Subsec. (a)(5). Pub. L. 107–306 struck out par. (5) which read as follows: “Not later than December 1, 1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available to the Inspector General of the Central Intelligence Agency.”
+2002—Subsec. (a)(5). Pub. L. 107–306 struck out par. (5) which read as follows: “Not later than December 1, 1998, and annually thereafter, the Director shall submit a report to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate that describes in detail the exercise of the authority granted by this subsection, and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make such report available tothe Inspector General of the Central Intelligence Agency.”
 
 1997—Subsec. (a)(1). Pub. L. 105–107, §404(1), (2), inserted “(1)” after “(a)”, substituted “powers—” for “powers only within Agency installations, and the rules and regulations enforced by such personnel shall be rules and regulations promulgated by the Director.”, and added subpars. (A) to (D).
 

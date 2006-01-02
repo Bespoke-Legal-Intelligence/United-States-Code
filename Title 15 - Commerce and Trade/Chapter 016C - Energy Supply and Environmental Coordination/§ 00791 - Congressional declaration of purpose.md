@@ -1,12 +1,12 @@
 ### §791. Congressional declaration of purpose
 
-The purposes of this chapter are (1) to provide for a means to assist in meeting the essentialneeds of the United States for fuels, in a manner which is consistent, to the fullest extent practicable, with existing national commitments to protect and improve the environment, and (2) to provide requirements for reports respecting energy resources.
+The purposes of this chapter are (1) to provide for a means to assist in meeting the essential needs of the United States for fuels, in a manner which is consistent, to the fullest extent practicable, with existing national commitments to protect and improve the environment, and (2) to provide requirements for reports respecting energy resources.
 
 (Pub. L. 93–319, §1(b), June 22, 1974, 88 Stat. 246.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–319 which, in addition to enacting this chapter and provision set out as a note under this section, enacted sections 1857c–10 and 1857f–6f of Title 42, The Public Health and Welfare, and amended sections 1857b–1, 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, 1857f–6e, 1857f–7, 1857h–5, and 1857<i>l</i> of Title 42. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–319 which, in addition to enacting this chapter and provision set out as a note under this section, enacted sections 1857c–10 and 1857f–6f of Title 42, The Public Health and Welfare, andamended sections 1857b–1, 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, 1857f–6e, 1857f–7, 1857h–5, and 1857<i>l</i> of Title 42. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title
 

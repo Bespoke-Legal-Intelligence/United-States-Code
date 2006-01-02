@@ -10,7 +10,7 @@ No person shall—
 
 &emsp;&emsp;(B) which, after removal without payment of tax pursuant to section 5704, have been diverted from the applicable purpose or use specified in that section; or
 
-&emsp;(2) with intent to defraud the United States, purchase, receive, possess, offer for sale, orsell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes, which are not put up in packages as required under section 5723 or which are put up in packages not bearing the marks, labels, and notices, as required under such section; or
+&emsp;(2) with intent to defraud the United States, purchase, receive, possess, offer for sale, or sell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes, which are not put up in packages as required under section 5723 or which are put up in packages not bearing the marks, labels, and notices, as required under such section; or
 
 &emsp;(3) otherwise than with intent to defraud the United States, purchase, receive, possess, offer for sale, or sell or otherwise dispose of, after removal, any tobacco products or cigarette papers or tubes, which are not put up in packages as required under section 5723 or which are put up in packages not bearing the marks, labels, and notices, as required under such section. This paragraph shall not prevent the sale or delivery of tobacco products or cigarette papers or tubes directly to consumers from proper packages, nor apply to such articles when so sold or delivered.
 
@@ -28,7 +28,7 @@ Any person who possesses tobacco products or cigarette papers or tubes in violat
 
 Subsec. (a) amended generally by Pub. L. 85–859, which included within the restrictions, purchase, receipt, possession, offer for sale, or sale of other disposition of tobacco products or cigarette papers or tubes, after removal, upon which the tax has not been paid or determined, or which after removal without payment of tax have been diverted from the applicable purpose or use specified in section 5704, and to provide that par. (3) shall not prevent the delivery of tobacco products or cigarette papers or tubes directly to consumers from proper packages, nor apply to such articles when so delivered.
 
-Subsec. (b). Pub. L. 85–859 substituted “tobacco products or cigarette papers or tubes in violation of subsection (a)(1) or (a)(2) shall be liable for a tax equal to the tax on such articles” or “articles in violation of subsection (a) of this section, shall incur liability to the tax thereon in addition to the penalties prescribed elsewhere in this title”.
+Subsec. (b). Pub. L. 85–859 substituted “tobacco products or cigarette papers or tubes in violation of subsection (a)(1) or (a)(2) shall be liable for a tax equal tothe tax on such articles” or “articles in violation of subsection (a) of this section, shall incur liability to the tax thereon in addition to the penalties prescribed elsewhere in this title”.
 
 #### Effective Date of 1976 Amendment
 
@@ -37,8 +37,4 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5762 of this title.
 

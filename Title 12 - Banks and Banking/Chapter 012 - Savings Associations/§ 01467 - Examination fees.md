@@ -76,11 +76,11 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (2) Assessments are not Government funds
 
-&emsp;The amounts received by the Director from any assessment under this section shall not beconstrued to be Government or public funds or appropriated money.
+&emsp;The amounts received by the Director from any assessment under this section shall not be construed to be Government or public funds or appropriated money.
 
 #### (3) Assessments are not subject to apportionment of funds
 
-&emsp;Notwithstanding any other provision of law, the amounts received by the Director from any assessment under this section shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
+&emsp;Notwithstanding any other provision of law, the amounts received by the Director fromany assessment under this section shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 
 #### (j) Processing fee
 
@@ -146,7 +146,7 @@ In general.—Except as provided in subparagraph (B), the regulations required t
 
 &emsp;“(B)
 
-Compliance at a later date.—If any association or insured institution demonstrates to the satisfaction of the Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation, as the case may be, that it is not feasible for such association orinstitution to achieve compliance with the regulations referred to in subparagraph (A) by the date contained in such subparagraph, the Board or Corporation may approve a plan submitted by an association or insured institution which allows such association or institution to comply with such regulations at a later date to the extent such later date is the earlier of—
+Compliance at a later date.—If any association or insured institution demonstrates to the satisfaction of the Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation, as the case may be, that it is not feasible for such association or institution to achieve compliance with the regulations referred to in subparagraph (A) by the date contained in such subparagraph, the Board or Corporation may approve a plan submitted by an association or insured institution which allows such association or institution to comply with such regulations at a later date to the extent such later date is the earlier of—
 
 &emsp;&emsp;“(i) the date by which, in the determination of the Board or Corporation, it is feasible for such association or insured institution to achieve compliance with such regulations; or
 

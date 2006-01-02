@@ -74,7 +74,7 @@ Consideration.—Upon review of the record, the court of appeals shall determine
 
 Decision and Disposition.—If the court of appeals determines that—
 
-&emsp;(1) the sentence was imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, thecourt shall remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
+&emsp;(1) the sentence was imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, the court shall remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
 
 &emsp;(2) the sentence is outside the applicable guideline range and the district court failed to provide the required statement of reasons in the order of judgment and commitment, or the departure is based on an impermissible factor, or is to an unreasonable degree, or the sentence was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
 
@@ -178,7 +178,7 @@ Subsec. (b)(3). Pub. L. 100–690, §7103(a)(3), added par. (3) and struck out f
 
 &emsp;“(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or”.
 
-Subsec. (b)(4). Pub. L. 100–690, §7103(a)(5)(A), added par. (4) and struck out former par. (4) which read as follows: “was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or less than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure;”.
+Subsec. (b)(4). Pub. L. 100–690, §7103(a)(5)(A), added par. (4) and struck out former par. (4) which read as follows: “was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainlyunreasonable or less than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure;”.
 
 Subsec. (c). Pub. L. 100–690, §7103(a)(8), added subsec. (c). Former subsec. (c) redesignated (d).
 

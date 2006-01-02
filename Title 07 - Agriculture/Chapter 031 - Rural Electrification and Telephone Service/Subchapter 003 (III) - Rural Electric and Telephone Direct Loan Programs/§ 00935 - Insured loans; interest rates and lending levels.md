@@ -18,7 +18,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;(i) The average revenue per kilowatt-hour sold by the applicant is not less than 120 percent of the average revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
 
-&emsp;&emsp;&emsp;(ii) The average residential revenue per kilowatt-hour sold by the applicant is not less than 120 percent of the average residential revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
+&emsp;&emsp;&emsp;(ii) The average residential revenue per kilowatt-hour sold by the applicant is notless than 120 percent of the average residential revenue per kilowatt-hour sold by all utilities in the State in which the applicant provides service.
 
 &emsp;&emsp;&emsp;(iii) The average per capita income of the residents receiving electric service from the applicant is less than the average per capita income of the residents of the State in which the applicant provides service, or the median household income of the households receiving electric service from the applicant is less than the median household income of the households in the State.
 
@@ -146,7 +146,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (B) Requirements
 
-&emsp;&emsp;For purposes of subparagraph (A), a telecommunications modernization plan must, at a minimum, meet the following objectives:
+&emsp;&emsp;For purposes of subparagraph (A), a telecommunications modernization plan must,at a minimum, meet the following objectives:
 
 &emsp;&emsp;&emsp;(i) The plan must provide for the elimination of party line service.
 

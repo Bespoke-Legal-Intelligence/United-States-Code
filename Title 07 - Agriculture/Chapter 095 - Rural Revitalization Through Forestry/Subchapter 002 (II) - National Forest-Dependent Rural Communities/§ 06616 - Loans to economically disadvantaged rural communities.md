@@ -12,7 +12,7 @@ The Secretary, under such terms and conditions as the Secretary shall establish,
 
 #### (b) Interest rates
 
-The interest rates on a loan made pursuant to this section shall be as determined by the Secretary, but not in excess of the current averagemarket yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the maturity of such loan, plus not to exceed 1 percent, as determined by the Secretary, and rounded to the nearest one-eighth of 1 percent.
+The interest rates on a loan made pursuant to this section shall be as determined by the Secretary, but not in excess of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the maturity of such loan, plus not to exceed 1 percent, as determined by the Secretary, and rounded to the nearest one-eighth of 1 percent.
 
 (Pub. L. 101–624, title XXIII, §2378, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(f)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
 

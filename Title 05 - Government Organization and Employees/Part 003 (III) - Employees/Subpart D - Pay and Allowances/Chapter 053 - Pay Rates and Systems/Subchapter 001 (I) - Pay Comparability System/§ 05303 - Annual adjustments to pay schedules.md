@@ -106,6 +106,14 @@ Section 529 \[title I, §101(e)\] of Pub. L. 101–509 provided that: “It is t
 
 #### Federal Employee Pay Adjustments
 
+Pub. L. 109–115, div. A, title VIII, §843, Nov. 30, 2005, 119 Stat. 2506, provided that:
+
+“(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2006 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.1 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2006.
+
+“(b) Notwithstanding section 813 of this Act \[div. A of Pub. L. 109–115, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2006 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as ‘Rest of US’ pursuant to section 5304 of title 5 for purposes of this paragraph.
+
+“(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2006.”
+
 Pub. L. 108–447, div. H, title VI, §640, Dec. 8, 2004, 118 Stat. 3282, provided that:
 
 “(a) The adjustment in rates of basic pay for employees under the statutory pay systems that takes effect in fiscal year 2005 under sections 5303 and 5304 of title 5, United States Code, shall be an increase of 3.5 percent, and this adjustment shall apply to civilian employees in the Department of Defense and the Department of Homeland Security and such adjustments shall be effective as of the first day of the first applicable pay period beginning on or after January 1, 2005.
@@ -184,7 +192,7 @@ Pub. L. 101–509, title VI, §633, Nov. 5, 1990, 104 Stat. 633, provided that:
 
 In General.—Notwithstanding any other provision of law (including any provision of the Federal Employees Pay Comparability Act of 1990 \[see Short Title of 1990 Amendment note set out under section 5301 of this title\] and any provision of law amended by such Act), for purposes of any adjustment scheduled to take effect under section 5303 of title 5, United States Code (as amended by section 101 \[section 529 \[title I, §101\] of Pub. L. 101–509\]) during the period beginning on October 1, 1991, and ending on September 30, 1994, the provisions of section 5303 of such title (as so amended) shall be applied in accordance with the following:
 
-&emsp;“(1) For purposes of the adjustment taking effect in each of fiscal years 1992 and 1993, respectively, deemsubsection (a) to be amended by striking ‘one-half of 1 percentage point less than’.
+&emsp;“(1) For purposes of the adjustment taking effect in each of fiscal years 1992 and 1993, respectively, deem subsection (a) to be amended by striking ‘one-half of 1 percentage point less than’.
 
 &emsp;“(2) Deem subsection (b) to be amended as follows:
 
@@ -322,7 +330,7 @@ Two-percent increase.—Notwithstanding any other provision of law, in the case 
 
 “(2)
 
-Uniform adjustments; delayed effective date.—Each increase in a pay rate or schedule which takes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage and shall take effect as of the beginning of the first applicable pay period beginning on or after January 1, 1988.”
+Uniform adjustments; delayed effective date.—Each increase in a pay rate or schedule whichtakes effect pursuant to paragraph (1) shall, to the maximum extent practicable, be of the same percentage and shall take effect as of the beginning of the first applicable pay period beginning on or after January 1, 1988.”
 
 1986—Pub. L. 99–500, §144(a), Oct. 18, 1986, 100 Stat. 1783–350, and Pub. L. 99–591, §144(a), Oct. 30, 1986, 100 Stat. 3341–353, provided that:
 
@@ -336,7 +344,7 @@ Uniform adjustments; delayed effective date.—Each increase in a pay rate or sc
 
 “(4) For purposes of this subsection—
 
-&emsp;“(A) the term ‘total pay’ means, with respect to a fiscal year, the total amount of basic pay which willbe payable to employees covered by statutory pay systems for service performed during such fiscal year;
+&emsp;“(A) the term ‘total pay’ means, with respect to a fiscal year, the total amount of basic pay which will be payable to employees covered by statutory pay systems for service performed during such fiscal year;
 
 &emsp;“(B) the term ‘increase in total pay’ means, with respect to a fiscal year, that part of total pay for such year which is attributable to the adjustment taking effect under this section during such year; and
 
@@ -390,13 +398,13 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 1971—Pub. L. 92–210, §3, Dec. 22, 1971, 85 Stat. 753, provided that: “Notwithstanding any provision of section 3(c) of the Federal Pay Comparability Act of 1970 (Public Law 91–656), or of section 5305 of title 5, United States Code, as added by section 3(a) of Public Law 91–656, and the provisions of the alternative plan submitted by the President to the Congress pursuant thereto on August 31, 1971, such comparability adjustments in the rates of pay of each Federal statutory pay system as may be required under such sections 5305 and 3(c), based on the 1971 Bureau of Labor Statistics survey—
 
-&emsp;“(1) shall not be greater than the guidelines established for the wage and salary adjustments for the private sector that may be authorized under authority of any statute of the United States, including the Economic Stabilization Act of 1970 (Public Law 91–379; 84 Stat. 799), as amended \[formerly set out as a note under section 1904 of Title 12, Banks and Banking\], and that may be in effect on December 31, 1971; and
+&emsp;“(1) shall not be greater than the guidelines established for the wage and salary adjustments for the private sector that may be authorized under authority of any statute of the United States, including theEconomic Stabilization Act of 1970 (Public Law 91–379; 84 Stat. 799), as amended \[formerly set out as a note under section 1904 of Title 12, Banks and Banking\], and that may be in effect on December 31, 1971; and
 
 &emsp;“(2) shall be placed into effect on the first day of the first pay period that begins on or after January 1, 1972.
 
 > Nothing in this section shall be construed to provide any adjustments in rates of pay of any Federal statutory pay system which are greater than the adjustments based on the 1971 Bureau of Labor Statistics survey.”
 
-Section 3(c) of Pub. L. 91–656 provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President's agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply toemployees of the Post Office Department whose basic pay is fixed under the General Schedule.”
+Section 3(c) of Pub. L. 91–656 provided that: “The President may make the initial adjustment required by subchapter I of chapter 53 of title 5, United States Code, as amended by this Act, without regard to the provisions of such subchapter relating to the Advisory Committee on Federal Pay and the Federal Employees Pay Council. Notwithstanding any provision of such subchapter I prescribing an effective date of October 1 for any pay adjustment made by the President, the initial adjustment based on the 1970 Bureau of Labor Statistics survey and the adjustment based on the 1971 Bureau of Labor Statistics survey shall become effective on the first day of the first applicable pay period that begins on or after January 1, 1971, and January 1, 1972, respectively. Notwithstanding the provisions of such subchapter I, the President's agent for purposes of the 1971 and 1972 adjustments shall be the Director, Office of Management and Budget and the Chairman, United States Civil Service Commission. Adjustments under the provisions of such subchapter I shall not apply to employees of the Post Office Department whose basic pay is fixed under the General Schedule.”
 
 1967—Pub. L. 90–206, title II, §212, Dec. 16, 1967, 81 Stat. 634, provided that: “In order to complete the implementation of the policy of the Congress set forth in paragraph (2) of section 5301 of title 5, United States Code, the President, after seeking the views of such employee organizations as he considers appropriate and in such manner as he may provide, shall—
 

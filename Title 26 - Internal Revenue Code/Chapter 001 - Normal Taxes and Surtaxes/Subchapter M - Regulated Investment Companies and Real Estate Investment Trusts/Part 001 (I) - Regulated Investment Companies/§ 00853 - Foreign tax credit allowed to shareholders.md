@@ -40,9 +40,9 @@ The amounts to be treated by the shareholder, for purposes of subsection (b)(2),
 
 The election provided in subsection (a) and the notice to shareholders required by subsection (c) shall be made in such manner as the Secretary may prescribe by regulations.
 
-#### (e) Treatment of taxes not allowed as a credit under section 901(k)
+#### (e) Treatment of certain taxes not allowed as a credit under section 901
 
-This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of section 901(k).
+This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of subsection (k) or (<i>l</i>) of such section.
 
 #### (f) Cross references
 
@@ -50,9 +50,11 @@ This section shall not apply to any tax with respect to which the regulated inve
 
 &emsp;&emsp;<b>(2) For definition of foreign corporation, see section 7701(a)(5).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 272; Pub. L. 88–272, title II, §229(a)(3), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §655(a)(3), Oct. 22, 1986, 100 Stat. 2299; Pub. L. 105–34, title X, §1053(b), Aug. 5, 1997, 111 Stat. 943; Pub. L. 105–206, title VI, §6010(k)(1), (2), July 22, 1998, 112 Stat. 815.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 272; Pub. L. 88–272, title II, §229(a)(3), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §655(a)(3), Oct. 22, 1986, 100 Stat. 2299; Pub. L. 105–34, title X, §1053(b), Aug. 5, 1997, 111 Stat. 943; Pub. L. 105–206, title VI, §6010(k)(1), (2), July 22, 1998, 112 Stat. 815; Pub. L. 109–135, title IV, §403(aa)(1), Dec. 21, 2005, 119 Stat. 2630.)
 
 #### Amendments
+
+2005—Subsec. (e). Pub. L. 109–135 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of section 901(k).”
 
 1998—Subsec. (c). Pub. L. 105–206, §6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
 
@@ -65,6 +67,10 @@ Subsecs. (e), (f). Pub. L. 105–206, §6010(k)(1), added subsec. (e) and redesi
 1976—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1964—Subsec. (c). Pub. L. 88–272 substituted “45 days” for “30 days”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -81,8 +87,4 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Oct. 2
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–272 applicable to taxable years of regulated investment companies ending on or after Feb. 26, 1964, see section 229(c) of Pub. L. 88–272, set out as a note under section 852 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 855, 901 of this title.
 

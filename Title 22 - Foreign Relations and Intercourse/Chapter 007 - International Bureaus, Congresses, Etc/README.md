@@ -88,6 +88,10 @@
 | (d) | Congressional briefings. |
 | (e) | Publication of “no” votes and abstentions by the United States. |
 | (f) | Multilateral development institution defined. |
+| 262<i>o</i>–4. | Promotion of policy goals. |
+| (a) | In general. |
+| (b) | Publication of position statement. |
+| (c) | “Multilateral development bank” defined. |
 | [262p.](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md) | Impact adjustment lending programs. |
 | (a) | Establishment of guidelines; impact statements. |
 | (b) | Proposed contents of impact statements. |
@@ -639,6 +643,7 @@
 | [284t.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284t%20-%20Thirteenth%20replenishment.md) | Thirteenth replenishment. |
 | (a) | Contribution authority. |
 | (b) | Limitations on authorization of appropriations. |
+| [284u.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284u%20-%20Fourteenth%20replenishment.md) | Fourteenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -689,6 +694,7 @@
 | [285bb.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285bb%20-%20Additional%20contribution%20to%20special%20funds.md) | Additional contribution to special funds. |
 | (a) | Contribution authority. |
 | (b) | Limitations on authorization of appropriations. |
+| [285cc.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285cc%20-%20Eighth%20replenishment.md) | Eighth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1012,6 +1018,7 @@
 | 290g–16. | Ninth replenishment. |
 | (a) | Contribution authority. |
 | (b) | Limitations on authorization of appropriations. |
+| 290g–17. | Tenth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1244,6 +1251,7 @@
 - [&sect; 00262o&#8211;1 - Military spending by recipient countries; military involvement in economies of recipient countries](%C2%A7%2000262o%E2%80%931%20-%20Military%20spending%20by%20recipient%20countries%3B%20military%20involvement%20in%20economies%20of%20recipient%20countries.md)
 - [&sect; 00262o&#8211;2 - Advocacy of policies to enhance general effectiveness of International Monetary Fund](%C2%A7%2000262o%E2%80%932%20-%20Advocacy%20of%20policies%20to%20enhance%20general%20effectiveness%20of%20International%20Monetary%20Fund.md)
 - [&sect; 00262o&#8211;3 - Administrative provisions](%C2%A7%2000262o%E2%80%933%20-%20Administrative%20provisions.md)
+- [&sect; 00262o&#8211;4 - Promotion of policy goals](%C2%A7%2000262o%E2%80%934%20-%20Promotion%20of%20policy%20goals.md)
 - [&sect; 00262p - Impact adjustment lending programs](%C2%A7%2000262p%20-%20Impact%20adjustment%20lending%20programs.md)
 - [&sect; 00262p&#8211;1 - Grassroots Collaboration Program](%C2%A7%2000262p%E2%80%931%20-%20Grassroots%20Collaboration%20Program.md)
 - [&sect; 00262p&#8211;2 - Instructions to United States Executive Directors for extension of credit](%C2%A7%2000262p%E2%80%932%20-%20Instructions%20to%20United%20States%20Executive%20Directors%20for%20extension%20of%20credit.md)

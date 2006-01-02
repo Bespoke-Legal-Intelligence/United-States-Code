@@ -23,10 +23,6 @@ Subpart A—Private Activity Bonds
 
 1977—Pub. L. 95–30, title I, §101(e)(2), May 23, 1977, 91 Stat. 134, struck out items 141 “Standard deduction”, 142 “Individuals not eligible for standard deduction”, 144 “Election of standard deduction”, and 145 “Cross reference”.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in title 12 section 1441a.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>

@@ -40,7 +40,3 @@ Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, ex
 
 Section 250(c) of Pub. L. 97–248 provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1982.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263A, 267, 280H, 441, 465, 469, 775 of this title.
-

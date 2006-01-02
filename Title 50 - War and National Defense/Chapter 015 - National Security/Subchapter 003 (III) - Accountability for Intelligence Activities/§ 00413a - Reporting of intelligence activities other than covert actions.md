@@ -38,6 +38,8 @@ Subsec. (c). Pub. L. 108–458, §1071(a)(1)(X), substituted “Director of Nati
 
 #### Effective Date of 2004 Amendment
 
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Furnishing of Intelligence Information to Senate and House Select Committees on Intelligence
@@ -46,7 +48,7 @@ Section 405 of Pub. L. 102–88 provided that:
 
 “(a)
 
-Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the head of any department or agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, or control of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
+Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\], the head of any departmentor agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, or control of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
 
 “(b)
 

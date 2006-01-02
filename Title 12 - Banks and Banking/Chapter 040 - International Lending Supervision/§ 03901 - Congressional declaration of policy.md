@@ -34,7 +34,7 @@ Statement of Policy.—It is the sense of the Congress that—
 
 “(b)
 
-Notification Relating to Local Currency Repayment Through Debt-for-Development Swaps.—Before the end of the 6-month period beginning on the date of the enactment of this section \[Dec. 19, 1989\], each appropriate Federal banking agency shall adopt uniform guidelines that will effectuate the policy set forth in subsection (a) concerning the regulatory framework and accounting treatment of debt-for-development swaps involving repayment in local currency atthe free market rate. For the purpose of such guidelines, the impact of such swaps on reported loan loss reserves shall be determined by valuing currency received in such swaps at fair market exchange value.
+Notification Relating to Local Currency Repayment Through Debt-for-Development Swaps.—Before the end of the 6-month period beginning on the date of the enactment of this section \[Dec. 19, 1989\], each appropriate Federal banking agency shall adopt uniform guidelines that will effectuate the policy set forth in subsection (a) concerning the regulatory framework and accounting treatment of debt-for-development swaps involving repayment in local currency at the free market rate. For the purpose of such guidelines, the impact of such swaps on reported loan loss reserves shall be determined by valuing currency received in such swaps at fair market exchange value.
 
 “(c)
 

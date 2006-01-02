@@ -1,6 +1,6 @@
 ### §5307. Limitation on certain payments
 
-(a)(1) Except as otherwise permitted by or under law, or as otherwise provided under subsection (d), no allowance, differential, bonus, award, or other similar cash payment under this title may be paid to an employee in a calendar year if, or to the extent that, when added to the total basic pay paid or payable to such employee for service performed in such calendar year as an employee in the executive branch (or as an employee outside the executive branch to whom chapter 51 applies), such payment would cause the total to exceed the annual rate of basic pay payable for level I of the Executive Schedule, as of the end of such calendar year.
+(a)(1) Except as otherwise permitted by or under law, or as otherwise provided under subsection (d), no allowance, differential, bonus, award, or other similar cash payment under thistitle may be paid to an employee in a calendar year if, or to the extent that, when added to the total basic pay paid or payable to such employee for service performed in such calendar year as an employee in the executive branch (or as an employee outside the executive branch to whom chapter 51 applies), such payment would cause the total to exceed the annual rate of basic pay payable for level I of the Executive Schedule, as of the end of such calendar year.
 
 (2) This section shall not apply to any payment under—
 
@@ -32,7 +32,7 @@
 
 (4) Notwithstanding any provision of paragraph (3), any regulations, certifications, or other measures necessary to carry out this subsection with respect to employees within the judicial branch shall be the responsibility of the Director of the Administrative Office of the United States Courts. However, the regulations under this paragraph shall be consistent with those promulgated under paragraph (3).
 
-(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat.369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, §1322, Nov. 25, 2002, 116 Stat. 2297.)
+(Added Pub. L. 91–656, §3(a), Jan. 8, 1971, 84 Stat. 1950; amended Pub. L. 97–258, §3(a)(10), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1438; Pub. L. 102–77, §2, July 26, 1991, 105 Stat. 369; Pub. L. 107–273, div. A, title II, §207(b), Nov. 2, 2002, 116 Stat. 1780; Pub. L. 107–296, title XIII, §1322, Nov. 25, 2002, 116 Stat. 2297.)
 
 #### References in Text
 
@@ -66,7 +66,7 @@ Pub. L. 107–273, div. A, title II, §207(c), Nov. 2, 2002, 116 Stat. 1780, pro
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

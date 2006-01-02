@@ -100,7 +100,7 @@ Any determination made by a court under this section shall be final and conclusi
 
 &emsp;In a proceeding under subsection (b) involving the issue of whether an amount assessed or demanded as a result of action taken under section 6851, 6852, 6861, or 6862 is appropriate under the circumstances, the Secretary shall provide a written statement which contains any information with respect to which his determination of the amount assessed was based, but the burden of proof in respect of such issue shall be upon the taxpayer.
 
-(Added Pub. L. 94–455, title XII, §1204(a), Oct. 4, 1976, 90 Stat. 1695; amended Pub. L. 98–369, div. A, title IV, §446(a), July 18, 1984, 98 Stat. 817; Pub. L. 100–203, title X, §10713(b)(2)(F), Dec. 22,1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, §6237(a)–(e)(3), Nov. 10, 1988, 102 Stat. 3741–3743; Pub. L. 105–206, title III, §3434(a), July 22, 1998, 112 Stat. 760.)
+(Added Pub. L. 94–455, title XII, §1204(a), Oct. 4, 1976, 90 Stat. 1695; amended Pub. L. 98–369, div.A, title IV, §446(a), July 18, 1984, 98 Stat. 817; Pub. L. 100–203, title X, §10713(b)(2)(F), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, §6237(a)–(e)(3), Nov. 10, 1988, 102 Stat. 3741–3743; Pub. L. 105–206, title III, §3434(a), July 22, 1998, 112 Stat. 760.)
 
 #### Amendments
 
@@ -149,8 +149,4 @@ Section 446(b) of Pub. L. 98–369 provided that: “The amendment made by subse
 #### Effective Date
 
 Section applicable with respect to action taken under section 6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6851, 6863, 6867 of this title; title 28 section 1346.
 

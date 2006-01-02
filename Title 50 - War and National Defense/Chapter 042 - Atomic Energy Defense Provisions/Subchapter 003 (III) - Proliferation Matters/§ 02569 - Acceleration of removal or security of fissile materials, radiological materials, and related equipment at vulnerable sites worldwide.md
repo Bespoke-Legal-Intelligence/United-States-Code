@@ -16,7 +16,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 &emsp;(A) Accelerated efforts to secure, remove, or eliminate proliferation-attractive fissile materials or radiological materials in research reactors, other reactors, and other facilities worldwide.
 
-&emsp;(B) Arrangements for the secure shipment of proliferation-attractive fissile materials, radiological materials, and related equipment to other countries willing to accept such materials and equipment, or to the United States if such countries cannot be identified, and the provision of secure storage or disposition of such materials and equipment following shipment.
+&emsp;(B) Arrangements for the secure shipment of proliferation-attractive fissile materials, radiological materials, and related equipment to other countries willing to accept such materials and equipment, or to the United States if such countries cannot be identified, and the provision of secure storage or disposition ofsuch materials and equipment following shipment.
 
 &emsp;(C) The transportation of proliferation-attractive fissile materials, radiological materials, and related equipment from sites identified as proliferation risks to secure facilities in other countries or in the United States.
 
@@ -50,7 +50,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 #### (d) Reports
 
-(1) Not later than March 15, 2005, the Secretary of Energy shall submit to Congress a classifiedinterim report on the program under subsection (b).
+(1) Not later than March 15, 2005, the Secretary of Energy shall submit to Congress a classified interim report on the program under subsection (b).
 
 (2) Not later than January 1, 2006, the Secretary shall submit to Congress a classified final report on the program under subsection (b) that includes the following:
 

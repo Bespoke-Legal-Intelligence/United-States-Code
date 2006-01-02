@@ -14,7 +14,7 @@ Offense.—Any person who—
 
 (b)
 
-Presumption.—The existence of a support obligation that was in effect for the time periodcharged in the indictment or information creates a rebuttable presumption that the obligor has the ability to pay the support obligation for that time period.
+Presumption.—The existence of a support obligation that was in effect for the time period charged in the indictment or information creates a rebuttable presumption that the obligor has the ability to pay the support obligation for that time period.
 
 (c)
 

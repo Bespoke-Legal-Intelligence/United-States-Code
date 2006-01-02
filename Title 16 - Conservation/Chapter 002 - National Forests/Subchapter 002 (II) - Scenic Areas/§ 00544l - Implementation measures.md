@@ -2,7 +2,7 @@
 
 #### (a) Assistance to counties
 
-The Secretary shall provide technical assistance on a nonreimbursable basis to counties for the development of land use ordinances prescribed by sections 544e and 544f of this title: <i>Provided</i>, That in the event a county fails to obtain approval by the Commission for a land use ordinance within three years after the date technical assistance is first provided under this subsection for the development of a land use ordinance, the Secretary shall terminate all technical assistance for any participation in the development of such ordinance.
+The Secretary shall provide technical assistance on a nonreimbursable basis to counties for the development of land use ordinances prescribed by sections 544e and 544f of this title:<i>Provided</i>, That in the event a county fails to obtain approval by the Commission for a land use ordinance within three years after the date technical assistance is first provided under this subsection for the development of a land use ordinance, the Secretary shall terminate all technical assistance for any participation in the development of such ordinance.
 
 #### (b) Payment of timber receipts
 
@@ -30,7 +30,7 @@ Limitation.—
 
 &emsp;(A)
 
-In general.—Except as provided in subparagraph (B), no payment shall be made under this subsection with respect to any landor interest therein after the eighth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
+In general.—Except as provided in subparagraph (B), no payment shall be made under this subsection with respect to any land or interest therein after the eighth full fiscal year beginning after the first fiscal year in which such a payment was made with respect to such land or interest therein.
 
 &emsp;(B)
 
@@ -52,7 +52,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 (ii) Payments made to the State pursuant to the following Acts shall not be treated as an expenditure or financial assistance for purposes of this subsection: section 500 of this title; the Mineral Lands Leasing Act of 1920 \[30 U.S.C. 181 et seq.\]; chapter 69 of title 31 (relating to payments in lieu of taxes for entitlement land); the Act of June 9, 1916 (39 Stat. 218), and the Act of Feb. 26, 1919 (40 Stat. 1179).
 
-(B) A license or permit, or exemption from a license or permit requirement, shall be treated, for purposes of this subsection, as a new license or new permit, or exemption from a license or permit requirement, if such license or permit, or exemption from a license or permit requirement, was issued on or after October 1, 1986. A renewal under similar terms and conditions of a license or permit, or exemption from a license or permit requirement, issued before October 1, 1986, shall not be treated as a new license or new permit, or exemption from a license or permit requirement.
+(B) A license or permit, or exemption from a license or permit requirement, shall be treated, for purposes of this subsection, as a new license or new permit, or exemption from a license or permit requirement, if such license or permit, or exemption from a license or permit requirement, was issued on or after October 1, 1986. A renewal under similar terms and conditions of a license or permit, or exemption from a license or permit requirement, issued before October 1, 1986, shall not be treated as a new license or newpermit, or exemption from a license or permit requirement.
 
 (3) Notwithstanding paragraph (1), the appropriate Federal officer, after consultation with the Secretary, may make Federal expenditures or financial assistance available within the area for any of the following:
 
@@ -78,7 +78,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;&emsp;(vii) Nonstructural projects for shoreline stabilization that are designed to mimic, enhance, or restore natural stabilization systems.
 
-(4) The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this subsection during each fiscal year beginning after September 30, 1987. Suchcertification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974.
+(4) The Director of the Office of Management and Budget shall, on behalf of each Federal agency concerned, make written certification that each such agency has complied with the provisions of this subsection during each fiscal year beginning after September 30, 1987. Such certification shall be submitted on an annual basis to the House of Representatives and the Senate pursuant to the schedule required under the Congressional Budget and Impoundment Control Act of 1974.
 
 (5) Nothing contained in this subsection shall be construed as indicating an intent on the part of the Congress to change the existing relationship of other Federal laws to the law of a State, or a political subdivision of a State, or to relieve any person or any obligation imposed by any law of any State, or political subdivision of a State. No provision of this subsection shall be construed to invalidate any provision of State or local law unless there is a direct conflict between such provision and the law of the State, or political subdivision of the State, so that the two cannot be reconciled or consistently stand together. This subsection shall in no way be interpreted to interfere with a State's right to protect, rehabilitate, preserve, and restore lands within its established boundary.
 
@@ -100,7 +100,7 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
-The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
+The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Reliefand Emergency Assistance Act by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
 
 Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), referred to in subsec. (e)(3)(D)(v), was repealed by Pub. L. 103–325, title V, §551(a), Sept. 23, 1994, 108 Stat. 2269.
 

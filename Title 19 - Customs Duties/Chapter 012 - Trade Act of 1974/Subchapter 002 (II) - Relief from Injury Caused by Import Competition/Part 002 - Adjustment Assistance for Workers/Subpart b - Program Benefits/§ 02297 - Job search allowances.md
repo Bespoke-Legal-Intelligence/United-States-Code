@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;An allowance granted under subsection (a) of this section shall provide reimbursement tothe worker of 90 percent of the cost of necessary job search expenses as prescribed by the Secretary in regulations.
+&emsp;An allowance granted under subsection (a) of this section shall provide reimbursement to the worker of 90 percent of the cost of necessary job search expenses as prescribed by the Secretary in regulations.
 
 #### (2) Maximum allowance
 

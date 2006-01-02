@@ -30,7 +30,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 &emsp;(9) Personal effects of citizens of the United States who have died in a foreign country;
 
-&emsp;(10) Merchandise within the provisions of sections 1465 <sup>1</sup> and 1466 of this title (relating to supplies, repairs, and equipment on vessels and railway cars) at the first port of arrival;
+&emsp;(10) Merchandise within the provisions of sections 1465 <sup>1</sup> and 1466 of this title (relating tosupplies, repairs, and equipment on vessels and railway cars) at the first port of arrival;
 
 &emsp;(11) Merchandise when in the opinion of the Secretary of the Treasury the value thereof cannot be declared; and
 
@@ -68,7 +68,7 @@ Provision for an entry, separate from that of other merchandise, of wearing appa
 
 Subsec. (a)(2). Pub. L. 103–182, §662(2), substituted “such amounts as the Secretary may prescribe” for “$10,000” in introductory provisions.
 
-1988—Subsec. (a)(1). Pub. L. 100–418, substituted “the Harmonized Tariff Schedule of the United States” for “the Tariff Schedules of the United States” in closingprovisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+1988—Subsec. (a)(1). Pub. L. 100–418, substituted “the Harmonized Tariff Schedule of the United States” for “the Tariff Schedules of the United States” in closing provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) schedule 3,
 

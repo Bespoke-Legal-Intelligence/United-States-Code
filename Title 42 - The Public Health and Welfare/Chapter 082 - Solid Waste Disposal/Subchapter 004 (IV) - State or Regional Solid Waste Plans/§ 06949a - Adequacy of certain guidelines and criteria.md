@@ -48,7 +48,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### (B) Certification
 
-&emsp;&emsp;A demonstration under subparagraph (A) shall be certified by a qualified ground-waterscientist and approved by the Director of an approved State.
+&emsp;&emsp;A demonstration under subparagraph (A) shall be certified by a qualified ground-water scientist and approved by the Director of an approved State.
 
 #### (C) Guidance
 

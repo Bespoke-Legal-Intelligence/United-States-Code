@@ -40,7 +40,7 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 #### (3) Special rule for individual retirement accounts
 
-&emsp;An individual for whose benefit an individual retirement account is established and hisbeneficiaries shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
+&emsp;An individual for whose benefit an individual retirement account is established and his beneficiaries shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
 
 #### (4) Special rule for Archer MSAs
 
@@ -120,9 +120,23 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(13) any transaction which is exempt from section 406 of such Act by reason of section 408(e) of such Act (or which would be so exempt if such section 406 applied to such transaction) or which is exempt from section 406 of such Act by reason of section 408(b)(12) of such Act;
 
-&emsp;(14) any transaction required or permitted under part 1 of subtitle E of title IV or section 4223 of the Employee Retirement Income Security Act of 1974, but this paragraph shall not apply with respect to the application of subsection (c)(1) (E) or (F); or
+&emsp;(14) any transaction required or permitted under part 1 of subtitle E of title IV or section 4223 of the Employee Retirement Income Security Act of 1974, but this paragraph shall not apply with respect to the application of subsection (c)(1) (E) or (F);
 
-&emsp;(15) a merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 4231 of such Act, but this paragraph shall not apply with respect to the application of subsection (c)(1) (E) or (F).
+&emsp;(15) a merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of section 4231 of such Act, but this paragraph shall not apply with respect to the application of subsection (c)(1) (E) or (F); or
+
+&emsp;(16) a sale of stock held by a trust which constitutes an individual retirement account under section 408(a) to the individual for whose benefit such account is established if—
+
+&emsp;&emsp;(A) such stock is in a bank (as defined in section 581) or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)),<sup>2</sup>
+
+&emsp;&emsp;(B) such stock is held by such trust as of the date of the enactment of this paragraph,
+
+&emsp;&emsp;(C) such sale is pursuant to an election under section 1362(a) by such bank or company,
+
+&emsp;&emsp;(D) such sale is for fair market value at the time of sale (as established by an independent appraiser) and the terms of the sale are otherwise at least as favorable to such trust as the terms that would apply on a sale to an unrelated party,
+
+&emsp;&emsp;(E) such trust does not pay any commissions, costs, or other expenses in connection with the sale, and
+
+&emsp;&emsp;(F) the stock is sold in a single transaction for cash not later than 120 days after the S corporation election is made.
 
 #### (e) Definitions
 
@@ -304,7 +318,11 @@ For purposes of this section—
 
 #### (C) Shareholder-employee
 
-&emsp;&emsp;For purposes of subparagraph (B), the term “shareholder-employee” means an employee or officer of an S corporation who owns (or is considered as owning within the meaning of section 318(a)(1)) more than 5 percent of the outstanding stock of the corporation on any day during the taxable year of such corporation.
+&emsp;&emsp;For purposes of subparagraph (B), the term “shareholder-employee” means an employee or officer of an S corporation who owns (or is considered as owning within the meaning of section 318(a)(1)) more than 5 percent ofthe outstanding stock of the corporation on any day during the taxable year of such corporation.
+
+#### (7) S corporation repayment of loans for qualifying employer securities
+
+&emsp;A plan shall not be treated as violating the requirements of section 401 or 409 or subsection (e)(7), or as engaging in a prohibited transaction for purposes of subsection (d)(3), merely by reason of any distribution (as described in section 1368(a)) with respect to S corporation stock that constitutes qualifying employer securities, which in accordance with the plan provisions is used to make payments on a loan described in subsection (d)(3) the proceeds of which were used to acquire such qualifying employer securities (whether or not allocated to participants). The preceding sentence shall not apply in the case of a distribution which is paid with respect to any employer security which is allocated to a participant unless the plan provides that employer securities with a fair market value of not less than the amount of such distribution are allocated to such participant for the year which (but for the preceding sentence) such distribution would have been allocated to such participant.
 
 #### (g) Application of section
 
@@ -324,21 +342,31 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 #### (i) Cross reference
 
-&emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of</b><b>the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendments note below.</i>
 
 #### References in Text
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(2), (d)(12) to (15), (e)(3), (9)(B), (g)(1), and (i) is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 1 of subtitle E of title IV of such Act is classified generally to part 1 (29 U.S.C. 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 401, 405, 406, 408, 3003, 4044, 4223, and 4231 of such Act are classified to sections 1101, 1105, 1106, 1108, 1203, 1344, 1403, and 1411, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
+The date of the enactment of this paragraph, referred to in subsec. (d)(16)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
 The Investment Company Act of 1940, referred to in subsecs. (e)(8) and (g), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+2005—Subsec. (d)(16)(A). Pub. L. 109–135, §413(a)(2)(A), inserted “or a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1))” after “a bank (as defined in section 581)”.
+
+Subsec. (d)(16)(C). Pub. L. 109–135, §413(a)(2)(B), inserted “or company” after “such bank”.
+
+2004—Subsec. (d)(16). Pub. L. 108–357, §233(c), added par. (16).
+
+Subsec. (f)(7). Pub. L. 108–357, §240(a), added par. (7).
 
 2003—Subsec. (c)(6). Pub. L. 108–173, §1201(f)(1), added par. (6).
 
@@ -386,7 +414,7 @@ Subsec. (c)(4). Pub. L. 104–191, §301(f)(1), added par. (4).
 
 Subsec. (d)(13). Pub. L. 104–188, §1702(g)(3), substituted “408(b)(12)” for “408(b)”.
 
-Subsec. (e)(1). Pub. L. 104–191, §301(f)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “For purposes of this section, the term ‘plan’ means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a), an individual retirement account described in section 408(a) or an individual retirement annuity described in section 408(b) (or a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be such a trust, plan, or account).”
+Subsec. (e)(1). Pub. L. 104–191, §301(f)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘plan’ means a trust described in section 401(a) which forms a part of a plan, or a plan described in section 403(a), which trust or plan is exempt from tax under section 501(a), an individual retirement account described in section 408(a) or an individual retirement annuity described in section 408(b) (or a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be such a trust, plan, or account).”
 
 1990—Subsec. (d)(13). Pub. L. 101–508 inserted before semicolon at end “or which is exempt from section 406 of such Act by reason of section 408(b) of such Act”.
 
@@ -427,6 +455,16 @@ Subsec. (f)(6). Pub. L. 96–596, §2(a)(3)(F), struck out par. (6), which defin
 Subsec. (e)(7). Pub. L. 95–600, §141(f)(5), substituted in heading “Leveraged employee” for “Employee”, and in text, “leveraged employee” for “employee” and inserted provision that a plan not be treated as a leveraged employee stock ownership plan unless it meet the requirements of section 409A(e) and (h).
 
 1976—Subsecs. (c) to (f). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 413(d) of Pub. L. 109–135, set out as a note under section 1361 of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by section 233(c) of Pub. L. 108–357 effective Oct. 22, 2004, see section 233(e) of Pub. L. 108–357, set out as a note under section 512 of this title.
+
+Pub. L. 108–357, title II, §240(b), Oct. 22, 2004, 118 Stat. 1437, provided that: “The amendment made by this section \[amending this section\] shall apply to distributions with respect to S corporation stock made after December 31, 1997.”
 
 #### Effective Date of 2003 Amendment
 
@@ -524,7 +562,7 @@ Section 2003(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 2
 
 &emsp;“(D) Until June 30, 1977, the provision of services to which subparagraphs (A), (B), and (C) do not apply between a plan and a disqualified person (i) under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or (ii) if the disqualified person ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law; or
 
-&emsp;“(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer realproperty) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
+&emsp;“(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer real property) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
 
 > For the purposes of this paragraph, the term ‘disqualified person’ has the meaning provided by section 4975(e)(2) of the Internal Revenue Code of 1986.”
 
@@ -542,11 +580,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Intent of Congress Concerning Employee Stock Ownership Plans
 
-Section 803(h) of Pub. L. 94–455 provided that: “The Congress, in a series of laws (the Regional Rail Reorganization Act of 1973, the Employee Retirement Income Security Act of 1974, the Trade Act of 1974, and the Tax Reduction Act of 1975) and this Act has made clear its interest in encouraging employee stock ownership plans as a bold and innovative method of strengthening the free private enterprise system which will solve the dual problems of securing capital funds for necessary capital growth and of bringing about stock ownership by all corporate employees. The Congress is deeply concerned that the objectives sought by this series of laws will be made unattainable by regulations and rulings which treat employee stock ownership plans as conventional retirement plans, which reduce the freedom of the employee trusts and employers to take the necessary steps to implement the plans, and which otherwise block the establishment and success of these plans. Because of the special purposes for which employee stock ownership plans are established, it is consistent with the intent of Congress to permit these plans (whether structured as pension, stock bonus, or profit-sharing plans) to distribute income on employer securities currently.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 401, 404, 408, 409, 411, 414, 415, 420, 503, 512, 514, 664, 674, 856, 1042, 2056, 4943, 4947, 4963, 4978, 4980, 6213, 6501, 6503, 6511, 7422 of this title; title 5 section 8477; title 15 section 632; title 19 sections 2345, 2373; title 29 sections 1054, 1055, 1056, 1101, 1107, 1132, 1203, 1342, 1403; title 45 section 726.
+Section 803(h) of Pub. L. 94–455 provided that: “The Congress, in a series of laws (the Regional Rail Reorganization Act of 1973, the Employee Retirement Income Security Act of 1974, the Trade Act of 1974, and the Tax Reduction Act of 1975) and this Act has made clear its interest in encouraging employee stock ownership plans as a bold and innovative method of strengthening the free private enterprise system which will solve the dual problems of securing capital funds for necessary capital growth and of bringing about stock ownership by all corporate employees. The Congress is deeply concerned that the objectives sought by this series of laws will be made unattainable by regulations and rulingswhich treat employee stock ownership plans as conventional retirement plans, which reduce the freedom of the employee trusts and employers to take the necessary steps to implement the plans, and which otherwise block the establishment and success of these plans. Because of the special purposes for which employee stock ownership plans are established, it is consistent with the intent of Congress to permit these plans (whether structured as pension, stock bonus, or profit-sharing plans) to distribute income on employer securities currently.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+
+<i><sup>2</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

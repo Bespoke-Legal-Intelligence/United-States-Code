@@ -56,7 +56,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (1) Terms
 
-&emsp;The term of each member of the Board shall be 4 years, except that there shall be no limit to the number of terms that any individual member may serve.
+&emsp;The term of each member of the Board shall be 4 years, except that there shall be no limitto the number of terms that any individual member may serve.
 
 #### (2) Removal of member of organization
 

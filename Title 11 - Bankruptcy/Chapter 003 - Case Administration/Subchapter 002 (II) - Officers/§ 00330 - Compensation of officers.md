@@ -1,14 +1,14 @@
 ### §330. Compensation of officers
 
-(a)(1) After notice to the parties in interest and the United States Trustee and a hearing, and subject to sections 326, 328, and 329, the court may award to a trustee, an examiner, a professional person employed under section 327 or 1103—
+(a)(1) After notice to the parties in interest and the United States Trustee and a hearing, and subject to sections 326, 328, and 329, the court may award to a trustee, a consumer privacy ombudsman appointed under section 332, an examiner, an ombudsman appointed under section 333, or a professional person employed under section 327 or 1103—
 
-&emsp;(A) reasonable compensation for actual, necessary services rendered by the trustee, examiner, professional person, or attorney and by any paraprofessional person employed by any such person; and
+&emsp;(A) reasonable compensation for actual, necessary services rendered by the trustee, examiner, ombudsman, professional person, or attorney and by any paraprofessional person employed by any such person; and
 
 &emsp;(B) reimbursement for actual, necessary expenses.
 
 (2) The court may, on its own motion or on the motion of the United States Trustee, the United States Trustee for the District or Region, the trustee for the estate, or any other party in interest, award compensation that is less than the amount of compensation that is requested.
 
-(3)(A) <sup>1</sup> In determining the amount of reasonable compensation to be awarded, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
+(3) In determining the amount of reasonable compensation to be awarded to an examiner, trustee under chapter 11, or professional person, the court shall consider the nature, the extent, and the value of such services, taking into account all relevant factors, including—
 
 &emsp;(A) the time spent on such services;
 
@@ -16,9 +16,11 @@
 
 &emsp;(C) whether the services were necessary to the administration of, or beneficial at the time at which the service was rendered toward the completion of, a case under this title;
 
-&emsp;(D) whether the services were performed within a reasonable amount of time commensurate with the complexity, importance, and nature of the problem, issue, or task addressed; and
+&emsp;(D) whether the services were performed within a reasonable amount of time commensurate with the complexity, importance, and nature of the problem, issue, or task addressed;
 
-&emsp;(E) whether the compensation is reasonable based on the customary compensation charged by comparably skilled practitioners in cases other than cases under this title.
+&emsp;(E) with respect to a professional person, whether the person is board certified or otherwise has demonstrated skill and experience in the bankruptcy field; and
+
+&emsp;(F) whether the compensation is reasonable based on the customary compensation charged by comparably skilled practitioners in cases other than cases under this title.
 
 (4)(A) Except as provided in subparagraph (B), the court shall not allow compensation for—
 
@@ -30,11 +32,13 @@
 
 &emsp;&emsp;(II) necessary to the administration of the case.
 
-(B) In a chapter 12 or chapter 13 case in which the debtor is an individual, the court may allow reasonable compensation to the debtor's attorney for representing the interests of the debtor in connection with the bankruptcy case based on a consideration of the benefit and necessity of such services to the debtor and the other factors set forth in this section.
+(B) In a chapter 12 or chapter 13 case in which the debtor is an individual, the court may allow reasonable compensation to the debtor's attorney for representing the interests of the debtor in connection with the bankruptcy case basedon a consideration of the benefit and necessity of such services to the debtor and the other factors set forth in this section.
 
 (5) The court shall reduce the amount of compensation awarded under this section by the amount of any interim compensation awarded under section 331, and, if the amount of such interim compensation exceeds the amount of compensation awarded under this section, may order the return of the excess to the estate.
 
 (6) Any compensation awarded for the preparation of a fee application shall be based on the level and skill reasonably required to prepare the application.
+
+(7) In determining the amount of reasonable compensation to be awarded to a trustee, the court shall treat such compensation as a commission, based on section 326.
 
 (b)(1) There shall be paid from the filing fee in a case under chapter 7 of this title $45 to the trustee serving in such case, after such trustee's services are rendered.
 
@@ -50,7 +54,7 @@
 
 (d) In a case in which the United States trustee serves as trustee, the compensation of the trustee under this section shall be paid to the clerk of the bankruptcy court and deposited by the clerk into the United States Trustee System Fund established by section 589a of title 28.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130; Pub. L. 109–8, title II, §232(b), title IV, §§407, 415, title XI, §1104(b), Apr. 20, 2005, 119 Stat. 74, 106, 107, 192.)
 
 #### Historical and Revision Notes
 
@@ -94,6 +98,18 @@ The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in s
 
 #### Amendments
 
+2005—Subsec. (a)(1). Pub. L. 109–8, §1104(b)(1), inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
+
+Pub. L. 109–8, §232(b), inserted “a consumer privacy ombudsman appointed under section 332,” before “an examiner” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 109–8, §1104(b)(2), inserted “ombudsman,” before “professional person”.
+
+Subsec. (a)(3). Pub. L. 109–8, §407(1), in introductory provisions, substituted “In” for “(A) In” and inserted “to an examiner, trustee under chapter 11, or professional person” after “awarded”.
+
+Subsec. (a)(3)(E), (F). Pub. L. 109–8, §415, added subpar. (E) and redesignated former subpar. (E) as (F).
+
+Subsec. (a)(7). Pub. L. 109–8, §407(2), added par. (7).
+
 1994—Subsec. (a). Pub. L. 103–394, §224(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “After notice to any parties in interest and to the United States trustee and a hearing, and subject to sections 326, 328, and 329 of this title, the court may award to a trustee, to an examiner, to a professional person employed under section 327 or 1103 of this title, or to the debtor's attorney—
 
 &emsp;“(1) reasonable compensation for actual, necessary services rendered by such trustee, examiner, professional person, or attorney, as the case may be, and by any paraprofessional persons employed by such trustee, professional person, or attorney, as the case may be, based on the nature, the extent, and the value of such services, the time spent on such services, and the cost of comparable services other than in a case under this title; and
@@ -116,6 +132,10 @@ Subsec. (b). Pub. L. 98–353, §434(a), substituted “$45” for “$20”.
 
 Subsec. (c). Pub. L. 98–353, §434(b), added subsec. (c).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 117 of Pub. L. 103–394 effective Oct. 22, 1994, and applicable with respect to cases commenced under this title before, on, and after Oct. 22, 1994, and amendment by section 224(b) of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
@@ -129,6 +149,4 @@ Amendment by section 257 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

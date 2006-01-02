@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1) The term “CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.).
 
-&emsp;(2) The terms “environment”, “facility”, “hazardous substance”, “person”, “release”,“removal”, “response”, “disposal”, and “hazardous waste” have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
+&emsp;(2) The terms “environment”, “facility”, “hazardous substance”, “person”, “release”, “removal”, “response”, “disposal”, and “hazardous waste” have the meanings given those terms in section 101 of CERCLA (42 U.S.C. 9601).
 
 &emsp;(3) The term “Administrator” means the Administrator of the Environmental Protection Agency.
 

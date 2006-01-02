@@ -18,7 +18,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 &emsp;&emsp;(B) such foreign corporation owns 10 percent or more of the voting stock of another member of such group from which it receives dividends in any taxable year,
 
-> &emsp;such foreign corporation shall be deemed to have paid the same proportion of such other member's post-1986 foreign income taxes as would be determined under subsection (a) ifsuch foreign corporation were a domestic corporation.
+> &emsp;such foreign corporation shall be deemed to have paid the same proportion of such other member's post-1986 foreign income taxes as would be determined under subsection (a) if such foreign corporation were a domestic corporation.
 
 #### (2) Qualified group
 
@@ -98,7 +98,11 @@ For purposes of this section—
 
 &emsp;&emsp;Any dividend in a taxable year beginning after December 31, 1986, shall be treated as made out of post-1986 undistributed earnings to the extent thereof.
 
-#### (7) Regulations
+#### (7) Constructive ownership through partnerships
+
+&emsp;Stock owned, directly or indirectly, by or for a partnership shall be considered as being owned proportionately by its partners. Stock considered to be owned by a person by reason of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person. The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including rules to account for special partnership allocations of dividends, credits, and other incidents of ownership of stock in determining proportionate ownership.
+
+#### (8) Regulations
 
 &emsp;The Secretary shall provide such regulations as may be necessary or appropriate to carry out the provisions of this section and section 960, including provisions which provide for the separate application of this section and section 960 to reflect the separate application of section 904 to separate types of income and loss.
 
@@ -110,7 +114,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(3) For reduction of credit with respect to dividends paid out of post-1986 undistributed earnings for years for which certain information is not furnished, see section 6038.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 286; Pub. L. 86–780, §6(b)(2), Sept. 14, 1960, 74 Stat. 1016; Pub. L. 87–834, §9(a), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–684, §§1, 2, Jan. 12, 1971, 84 Stat. 2068, 2069; Pub. L. 94–12, title VI, §602(c)(6), Mar. 29, 1975, 89 Stat. 59; Pub. L. 94–455, title X, §1033(a), Oct. 4, 1976, 90 Stat. 1626; Pub. L. 99–514, title XII, §1202(a), Oct. 22, 1986, 100 Stat. 2528; Pub. L. 100–647, title I, §1012(b)(1), (2), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 105–34, title XI, §§1113(a), 1163(a), Aug. 5, 1997, 111 Stat. 970, 987.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 286; Pub. L. 86–780, §6(b)(2), Sept. 14, 1960, 74 Stat. 1016; Pub. L. 87–834, §9(a), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–684, §§1, 2, Jan. 12, 1971, 84 Stat. 2068, 2069; Pub. L. 94–12, title VI, §602(c)(6), Mar. 29, 1975, 89 Stat. 59; Pub. L. 94–455, title X, §1033(a), Oct. 4, 1976, 90 Stat. 1626; Pub. L. 99–514, title XII, §1202(a), Oct. 22, 1986, 100 Stat. 2528; Pub. L. 100–647, title I, §1012(b)(1), (2), Nov. 10, 1988, 102 Stat. 3496; Pub. L. 105–34, title XI, §§1113(a), 1163(a), Aug. 5, 1997, 111 Stat. 970, 987; Pub. L. 108–357, title IV, §405(a), Oct. 22, 2004, 118 Stat. 1498.)
 
 #### References in Text
 
@@ -119,6 +123,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 The Tax Reform Act of 1986, referred to in subsec. (c)(6)(A)(i), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(7), (8). Pub. L. 108–357 added par. (7) and redesignated former par. (7) as (8).
 
 1997—Subsec. (b). Pub. L. 105–34, §1113(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to deemed taxes increased in case of certain 2nd and 3rd tier foreign corporations.
 
@@ -169,6 +175,10 @@ Subsec. (d). Pub. L. 87–834 substituted provisions defining “less developed 
 Subsec. (e). Pub. L. 87–834 designated existing provisions as par. (3) and added pars. (1) and (2).
 
 1960—Subsec. (e). Pub. L. 86–780 added subsec. (e).
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxes of foreign corporations for taxable years of such corporations beginning after Oct. 22, 2004, see section 405(c) of Pub. L. 108–357, set out as a note under section 901 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -227,8 +237,4 @@ Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 3
 #### Increase in Earnings and Profits of Foreign Corporations Under Section 1023(e)(3)(C) of Pub. L. 99–514
 
 Section 1012(b)(3) of Pub. L. 100–647 provided that: “For purposes of sections 902 and 960 of the 1986 Code, the increase in earnings and profits of any foreign corporation under section 1023(e)(3)(C) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date note under section 846 of this title\] shall be taken into account ratably over the 10-year period beginning with the corporation's first taxable year beginning after December 31, 1986.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 78, 245, 535, 545, 814, 865, 901, 904, 905, 906, 907, 908, 954, 960, 1248, 1291, 6038 of this title.
 

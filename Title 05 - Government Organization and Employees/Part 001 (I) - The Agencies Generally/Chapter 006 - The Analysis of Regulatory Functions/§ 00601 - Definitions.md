@@ -200,7 +200,7 @@ Compensation.—
 
 &emsp;&emsp;“(A)
 
-Chairman on full-time basis.—If the chairman serves on a full-time basis, the rate of pay for the chairman shall be the annual rate of basic payin effect for a position at level III of the Executive Schedule under section 5314 of title 5, United States Code.
+Chairman on full-time basis.—If the chairman serves on a full-time basis, the rate of pay for the chairman shall be the annual rate of basic pay in effect for a position at level III of the Executive Schedule under section 5314 of title 5, United States Code.
 
 &emsp;&emsp;“(B)
 
@@ -324,7 +324,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;“(A) a group of individuals related by blood, marriage, adoption, or other legal custody who live together as a single household; and
 
-&emsp;&emsp;“(B) any individual who is not a member of such group, but who is related by blood, marriage, oradoption to a member of such group, and over half of whose support in a calendar year is received from such group.
+&emsp;&emsp;“(B) any individual who is not a member of such group, but who is related by blood, marriage, or adoption to a member of such group, and over half of whose support in a calendar year is received from such group.
 
 “(c)
 
@@ -558,7 +558,7 @@ Section 2 of Pub. L. 96–354 provided that:
 
 &emsp;“(2) laws and regulations designed for application to large scale entities have been applied uniformly to small businesses, small organizations, and small governmental jurisdictions even though the problems that gave rise to government action may not have been caused by those smaller entities;
 
-&emsp;“(3) uniform Federal regulatory and reporting requirements have in numerous instances imposed unnecessary and disproportionately burdensome demands including legal, accounting and consulting costs upon small businesses, small organizations, and small governmental jurisdictions with limited resources;
+&emsp;“(3) uniform Federal regulatory and reporting requirements have in numerous instances imposed unnecessary and disproportionately burdensome demands including legal, accounting and consultingcosts upon small businesses, small organizations, and small governmental jurisdictions with limited resources;
 
 &emsp;“(4) the failure to recognize differences in the scale and resources of regulated entities has in numerous instances adversely affected competition in the marketplace, discouraged innovation and restricted improvements in productivity;
 
@@ -596,7 +596,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. <i>Purpose</i>. (a) The Fifth Amendment of the United States Constitution provides that private property shall not be taken for public use without just compensation. Government historically has used the formal exercise of the power of eminent domain, which provides orderly processes for paying just compensation, to acquire private property for public use. Recent Supreme Court decisions, however, in reaffirming the fundamental protection of private property rights provided by the Fifth Amendment and in assessing the nature of governmental actions that have an impact on constitutionally protected property rights, have also reaffirmed that governmental actions that do not formally invoke the condemnation power, including regulations, may result in a taking for which just compensation is required.
 
-(b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of theiradministrative, regulatory, and legislative actions on constitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
+(b) Responsible fiscal management and fundamental principles of good government require that government decision-makers evaluate carefully the effect of their administrative, regulatory, and legislative actions on constitutionally protected property rights. Executive departments and agencies should review their actions carefully to prevent unnecessary takings and should account in decision-making for those takings that are necessitated by statutory mandate.
 
 (c) The purpose of this Order is to assist Federal departments and agencies in undertaking such reviews and in proposing, planning, and implementing actions with due regard for the constitutional protections provided by the Fifth Amendment and to reduce the risk of undue or inadvertent burdens on the public fisc resulting from lawful governmental action. In furtherance of the purpose of this Order, the Attorney General shall, consistent with the principles stated herein and in consultation with the Executive departments and agencies, promulgate Guidelines for the Evaluation of Risk and Avoidance of Unanticipated Takings to which each Executive department or agency shall refer in making the evaluations required by this Order or in otherwise taking any action that is the subject of this Order. The Guidelines shall be promulgated no later than May 1, 1988, and shall be disseminated to all units of each Executive department and agency no later than July 1, 1988. The Attorney General shall, as necessary, update these guidelines to reflect fundamental changes in takings law occurring as a result of Supreme Court decisions.
 
@@ -708,7 +708,7 @@ Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, as amended by Ex. Ord. No. 13
 
 The American people deserve a regulatory system that works for them, not against them: a regulatory system that protects and improves their health, safety, environment, and well-being and improves the performance of the economy without imposing unacceptable or unreasonable costs on society; regulatory policies that recognize that the private sector and private markets are the best engine for economic growth; regulatory approaches that respect the role of State, local, and tribal governments; and regulations that are effective, consistent, sensible, and understandable. We do not have such a regulatory system today.
 
-With this Executive order, the Federal Government begins a program to reform and make more efficient the regulatory process. The objectives of this Executive order are to enhance planning and coordination with respect to both new and existing regulations; to reaffirm the primacy of Federal agencies in the regulatory decision-making process; to restore the integrity and legitimacy of regulatory review and oversight; and to make the process more accessible and open to the public. In pursuing these objectives, the regulatory processshall be conducted so as to meet applicable statutory requirements and with due regard to the discretion that has been entrusted to the Federal agencies.
+With this Executive order, the Federal Government begins a program to reform and make more efficient the regulatory process. The objectives of this Executive order are to enhance planning and coordination with respect to both new and existing regulations; to reaffirm the primacy of Federal agencies in the regulatory decision-making process; to restore the integrity and legitimacy of regulatory review and oversight; and to make the process more accessible and open to the public. In pursuing these objectives, the regulatory process shall be conducted so as to meet applicable statutory requirements and with due regard to the discretion that has been entrusted to the Federal agencies.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -752,7 +752,7 @@ Sec. 2. <i>Organization</i>. An efficient regulatory planning and review process
 
 Sec. 3. <i>Definitions</i>. For purposes of this Executive order:
 
-(a) “Advisors” refers to such regulatory policy advisors to the President as the President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Director of the Office of Science and Technology Policy; (7) the Deputy Assistant to the President and Director for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Chairman of the Council on Environmental Quality and Director of the Office of Environmental Quality; (12) the Assistant to the President forHomeland Security; and (13) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
+(a) “Advisors” refers to such regulatory policy advisors to the President as the President may from time to time consult, including, among others: (1) the Director of OMB; (2) the Chair (or another member) of the Council of Economic Advisers; (3) the Assistant to the President for Economic Policy; (4) the Assistant to the President for Domestic Policy; (5) the Assistant to the President for National Security Affairs; (6) the Director of the Office of Science and Technology Policy; (7) the Deputy Assistant to the President and Director for Intergovernmental Affairs; (8) the Assistant to the President and Staff Secretary; (9) the Assistant to the President and Chief of Staff to the Vice President; (10) the Assistant to the President and Counsel to the President; (11) the Chairman of the Council on Environmental Quality and Director of the Office of Environmental Quality; (12) the Assistant to the President for Homeland Security; and (13) the Administrator of OIRA, who also shall coordinate communications relating to this Executive order among the agencies, OMB, the other Advisors, and the Office of the Vice President.
 
 (b) “Agency,” unless otherwise indicated, means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(10).
 
@@ -816,7 +816,7 @@ Sec. 4. <i>Planning Mechanism</i>. In order to have an effective regulatory prog
 
 (e) <i>Conferences</i>. The Administrator of OIRA shall meet quarterly with representatives of State, local, and tribal governments to identify both existing and proposed regulations that may uniquely or significantly affect those governmental entities. The Administrator of OIRA shall also convene, from time to time, conferences with representatives of businesses, nongovernmental organizations, and the public to discuss regulatory issues of common concern.
 
-Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency to promulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
+Sec. 5. <i>Existing Regulations</i>. In order to reduce the regulatory burden on the American people, their families, their communities, their State, local, and tribal governments, and their industries; to determine whether regulations promulgated by the executive branch of the Federal Government have become unjustified or unnecessary as a result of changed circumstances; to confirm that regulations are both compatible with each other and not duplicative or inappropriately burdensome in the aggregate; to ensure that all regulations are consistent with the President's priorities and the principles set forth in this Executive order, within applicable law; and to otherwise improve the effectiveness of existing regulations: (a) Within 90 days of the date of this Executive order, each agency shall submit to OIRA a program, consistent with its resources and regulatory priorities, under which the agency will periodically review its existing significant regulations to determine whether any such regulations should be modified or eliminated so as to make the agency's regulatory program more effective in achieving the regulatory objectives, less burdensome, or in greater alignment with the President's priorities and the principles set forth in this Executive order. Any significant regulations selected for review shall be included in the agency's annual Plan. The agency shall also identify any legislative mandates that require the agency topromulgate or continue to impose regulations that the agency believes are unnecessary or outdated by reason of changed circumstances.
 
 (b) The Administrator of OIRA shall work with the Regulatory Working Group and other interested entities to pursue the objectives of this section. State, local, and tribal governments are specifically encouraged to assist in the identification of regulations that impose significant or unique burdens on those governmental entities and that appear to have outlived their justification or be otherwise inconsistent with the public interest.
 
@@ -844,7 +844,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 (ii) An assessment, including the underlying analysis, of costs anticipated from the regulatory action (such as, but not limited to, the direct cost both to the government in administering the regulation and to businesses and others in complying with the regulation, and any adverse effects on the efficient functioning of the economy, private markets (including productivity, employment, and competitiveness), health, safety, and the natural environment), together with, to the extent feasible, a quantification of those costs; and
 
-(iii) An assessment, including the underlying analysis, of costs and benefits of potentially effective andreasonably feasible alternatives to the planned regulation, identified by the agencies or the public (including improving the current regulation and reasonably viable nonregulatory actions), and an explanation why the planned regulatory action is preferable to the identified potential alternatives.
+(iii) An assessment, including the underlying analysis, of costs and benefits of potentially effective and reasonably feasible alternatives to the planned regulation, identified by the agencies or the public (including improving the current regulation and reasonably viable nonregulatory actions), and an explanation why the planned regulatory action is preferable to the identified potential alternatives.
 
 (D) In emergency situations or when an agency is obligated by law to act more quickly than normal review procedures allow, the agency shall notify OIRA as soon as possible and, to the extent practicable, comply with subsections (a)(3)(B) and (C) of this section. For those regulatory actions that are governed by a statutory or court-imposed deadline, the agency shall, to the extent practicable, schedule rulemaking proceedings so as to permit sufficient time for OIRA to conduct its review, as set forth below in subsection (b)(2) through (4) of this section.
 
@@ -864,7 +864,7 @@ Sec. 6. <i>Centralized Review of Regulations</i>. The guidelines set forth below
 
 (2) OIRA shall waive review or notify the agency in writing of the results of its review within the following time periods:
 
-(A) For any notices of inquiry, advance notices of proposed rulemaking, or other preliminary regulatory actions prior to a Notice of Proposed Rulemaking, within 10 working days after the date of submission of the draft action to OIRA;
+(A) For any notices of inquiry, advance notices of proposed rulemaking, or other preliminary regulatoryactions prior to a Notice of Proposed Rulemaking, within 10 working days after the date of submission of the draft action to OIRA;
 
 (B) For all other regulatory actions, within 90 calendar days after the date of submission of the information set forth in subsections (a)(3)(B) and (C) of this section, unless OIRA has previously reviewed this information and, since that review, there has been no material change in the facts and circumstances upon which the regulatory action is based, in which case, OIRA shall complete its review within 45 days; and
 
@@ -948,7 +948,7 @@ Sec. 4. <i>Interagency Working Group on Human Rights Treaties</i>. (a) There is 
 
 (ii) coordinating the preparation of reports that are to be submitted by the United States in fulfillment of treaty obligations;
 
-(iii) coordinating the responses of the United States Government to complaints against it concerning alleged human rights violations submitted to the UnitedNations, the Organization of American States, and other international organizations;
+(iii) coordinating the responses of the United States Government to complaints against it concerning alleged human rights violations submitted to the United Nations, the Organization of American States, and other international organizations;
 
 (iv) developing effective mechanisms to ensure that legislation proposed by the Administration is reviewed for conformity with international human rights obligations and that these obligations are taken into account in reviewing legislation under consideration by the Congress as well;
 
@@ -1204,7 +1204,7 @@ Sec. 8. <i>Accountability.</i>
 
 (a) In transmitting any draft final regulation that has federalism implications to the Office of Management and Budget pursuant to Executive Order 12866 of September 30, 1993 \[set out above\], each agency shall include a certification from the official designated to ensure compliance with this order stating that the requirements of this order have been met in a meaningful and timely manner.
 
-(b) In transmitting proposed legislation that has federalism implications to the Office of Management and Budget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
+(b) In transmitting proposed legislation that has federalism implications to the Office of Management andBudget, each agency shall include a certification from the official designated to ensure compliance with this order that all relevant requirements of this order have been met.
 
 (c) Within 180 days after the effective date of this order, the Director of the Office of Management and Budget and the Assistant to the President for Intergovernmental Affairs shall confer with State and local officials to ensure that this order is being properly and effectively implemented.
 
@@ -1248,7 +1248,7 @@ Sec. 3. <i>Responsibilities of Executive Department Centers for Faith-Based and 
 
 (e) develop and coordinate department outreach efforts to disseminate information more effectively to faith-based and other community organizations with respect to programming changes, contracting opportunities, and other department initiatives, including but not limited to Web and Internet resources.
 
-Sec. 4. <i>Additional Responsibilities of the Department of Health and Human Services and the Department of Labor Centers</i>. In addition to those responsibilities described in section 3 of this order, the Department of Health and Human Services and the Department of Labor Centers shall, to the extent permitted by law: (a) conduct a comprehensive review of policies and practices affecting existing funding streams governed by so-called “Charitable Choice” legislation to assess the department's compliance with the requirements of Charitable Choice; and (b) promote and ensure compliance with existing Charitable Choice legislation by the department,as well as its partners in State and local government, and their contractors.
+Sec. 4. <i>Additional Responsibilities of the Department of Health and Human Services and the Department of Labor Centers</i>. In addition to those responsibilities described in section 3 of this order, the Department of Health and Human Services and the Department of Labor Centers shall, to the extent permitted by law: (a) conduct a comprehensive review of policies and practices affecting existing funding streams governed by so-called “Charitable Choice” legislation to assess the department's compliance with the requirements of Charitable Choice; and (b) promote and ensure compliance with existing Charitable Choice legislation by the department, as well as its partners in State and local government, and their contractors.
 
 Sec. 5. <i>Reporting Requirements</i>. (a) Report. Not later than 180 days after the date of this order and annually thereafter, each of the five executive department Centers described in section 1 of this order shall prepare and submit a report to the White House OFBCI.
 
@@ -1332,7 +1332,7 @@ Section 1. <i>Definitions</i>. For purposes of this order:
 
 &emsp;(vii) literacy and mentoring programs;
 
-&emsp;(viii) services for the prevention and treatment of juvenile delinquency and substance abuse, services for the prevention of crime and the provision of assistance to the victims and the families of criminal offenders, and services related to intervention in, and prevention of, domestic violence; and
+&emsp;(viii) services for the prevention and treatment of juvenile delinquency and substance abuse, servicesfor the prevention of crime and the provision of assistance to the victims and the families of criminal offenders, and services related to intervention in, and prevention of, domestic violence; and
 
 &emsp;(ix) services related to the provision of assistance for housing under Federal law.
 
@@ -1366,7 +1366,7 @@ Sec. 3. <i>Agency Implementation.</i>
 
 &emsp;(i) amend all such existing policies of their respective agencies to ensure that they are consistent with the fundamental principles and policymaking criteria articulated in section 2 of this order;
 
-&emsp;(ii) where appropriate, implement new policies for their respective agencies that are consistent with andnecessary to further the fundamental principles and policymaking criteria set forth in section 2 of this order; and
+&emsp;(ii) where appropriate, implement new policies for their respective agencies that are consistent with and necessary to further the fundamental principles and policymaking criteria set forth in section 2 of this order; and
 
 &emsp;(iii) implement new policies that are necessary to ensure that their respective agencies collect data regarding the participation of faith-based and community organizations in social service programs that receive Federal financial assistance.
 
@@ -1380,7 +1380,7 @@ Pursuant to section 121(a) of title 40, United States Code, and section 301 of t
 
 (b) The Secretary of Labor may, by rule or regulation, exempt certain classes of contracts, subcontracts, or purchase orders (1) whenever work is to be or has been performed outside the United States and no recruitment of workers within the limits of the United States is involved; (2) for standard commercial supplies or raw materials; (3) involving less than specified amounts of money or specified numbers of workers; or (4) to the extent that they involve subcontracts below a specified tier.
 
-(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
+(c) Section 202 of this Order shall not apply to a Government contractor or subcontractor that is a religious corporation, association, educational institution, or society, with respect to the employment of individuals of a particular religion to perform work connected withthe carrying on by such corporation, association, educational institution, or society of its activities. Such contractors and subcontractors are not exempted or excused from complying with the other requirements contained in this Order.
 
 (d) The Secretary of Labor may also provide, by rule, regulation, or order, for the exemption of facilities of a contractor that are in all respects separate and distinct from activities of the contractor related to the performance of the contract: provided, that such an exemption will not interfere with or impede the effectuation of the purposes of this Order: and provided further, that in the absence of such an exemption all facilities shall be covered by the provisions of this Order.”
 
@@ -1528,7 +1528,7 @@ Sec. 3. <i>Functions</i>. The Board shall:
 
 (d) at the request of the head of any Federal department or agency, unless the Chair, after consultation with the Vice Chair, declines the request, promptly review and provide advice on a policy or action of that department or agency that implicates the Policy;
 
-(e) obtain information and advice relating to the Policy from representatives of entities or individuals outside the executive branch of the Federal Government in a manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
+(e) obtain information and advice relating to the Policy from representatives of entities or individuals outside the executive branch of the Federal Government ina manner that seeks their individual advice and does not involve collective judgment or consensus advice or deliberation;
 
 (f) refer, consistent with section 535 of title 28, United States Code, credible information pertaining to possible violations of law relating to the Policy by any Federal employee or official to the appropriate office for prompt investigation;
 
@@ -1590,9 +1590,63 @@ Sec. 6. <i>Administration</i>. Consistent with applicable law and subject to the
 
 Sec. 7. <i>General Provisions</i>. (a) This order shall not be construed to impair or otherwise affect the authorities of any department, agency, instrumentality, officer, or employee of the United States under applicable law, including the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals.
 
-(b) This order shall be implemented in a manner consistent with applicable laws and Executive Orders concerning protection of information, including those forthe protection of intelligence sources and methods, law enforcement information, and classified national security information, and the Privacy Act of 1974, as amended (5 U.S.C. 552a).
+(b) This order shall be implemented in a manner consistent with applicable laws and Executive Orders concerning protection of information, including those for the protection of intelligence sources and methods, law enforcement information, and classified national security information, and the Privacy Act of 1974, as amended (5 U.S.C. 552a).
 
 (c) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by a party against the United States, or any of its departments, agencies, instrumentalities, entities, officers, employees, or agents, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13397. Responsibilities of the Department of Homeland Security With Respect to Faith-Based and Community Initiatives
+
+Ex. Ord. No. 13397, Mar. 7, 2006, 71 F.R. 12275, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to help the Federal Government coordinate a national effort to expand opportunities for faith-based and other community organizations and to strengthen their capacity to better meet America's social and community needs, it is hereby ordered as follows:
+
+Section 1. <i>Establishment of a Center for Faith-Based and Community Initiatives at the Department of Homeland Security.</i>
+
+(a) The Secretary of Homeland Security (Secretary) shall establish within the Department of Homeland Security (Department) a Center for Faith-Based and Community Initiatives (Center).
+
+(b) The Center shall be supervised by a Director appointed by \[the\] Secretary. The Secretary shall consult with the Director of the White House Office of Faith-Based and Community Initiatives (WHOFBCI Director) prior to making such appointment.
+
+(c) The Department shall provide the Center with appropriate staff, administrative support, and other resources to meet its responsibilities under this order.
+
+(d) The Center shall begin operations no later than 45 days from the date of this order.
+
+Sec. 2. <i>Purpose of Center</i>. The purpose of the Center shall be to coordinate agency efforts to eliminate regulatory, contracting, and other programmatic obstacles to the participation of faith-based and other community organizations in the provision of social and community services.
+
+Sec. 3. <i>Responsibilities of the Center for Faith-Based and Community Initiatives</i>. In carrying out the purpose set forth in section 2 of this order, the Center shall:
+
+(a) conduct, in coordination with the WHOFBCI Director, a department-wide audit to identify all existing barriers to the participation of faith-based and other community organizations in the delivery of social and community services by the Department, including but not limited to regulations, rules, orders, procurement, and other internal policies and practices, and outreach activities that unlawfully discriminate against, or otherwise discourage or disadvantage the participation of faith-based and other community organizations in Federal programs;
+
+(b) coordinate a comprehensive departmental effort to incorporate faith-based and other community organizations in Department programs and initiatives to the greatest extent possible;
+
+(c) propose initiatives to remove barriers identified pursuant to section 3(a) of this order, including but not limited to reform of regulations, procurement, and other internal policies and practices, and outreach activities;
+
+(d) propose the development of innovative pilot and demonstration programs to increase the participation of faith-based and other community organizations in Federal as well as State and local initiatives; and
+
+(e) develop and coordinate Departmental outreach efforts to disseminate information more effectively to faith-based and other community organizations with respect to programming changes, contracting opportunities, and other agency initiatives, including but not limited to Web and Internet resources.
+
+Sec. 4. <i>Reporting Requirements.</i>
+
+(a) <i>Report</i>. Not later than 180 days from the date of this order and annually thereafter, the Center shall prepare and submit a report to the WHOFBCI Director.
+
+(b) <i>Contents</i>. The report shall include a description of the Department's efforts in carrying out its responsibilities under this order, including but not limited to:
+
+&emsp;(i) a comprehensive analysis of the barriers to the full participation of faith-based and other community organizations in the delivery of social and community services identified pursuant to section 3(a) of this order and the proposed strategies to eliminate those barriers; and
+
+&emsp;(ii) a summary of the technical assistance and other information that will be available to faith-based and other community organizations regarding the program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, contracts, and procurement.
+
+(c) <i>Performance Indicators</i>. The first report shall include annual performance indicators and measurable objectives for Departmental action. Each report filed thereafter shall measure the Department's performance against the objectives set forth in the initial report.
+
+Sec. 5. <i>Responsibilities of the Secretary</i>. The Secretary shall:
+
+(a) designate an employee within the department to serve as the liaison and point of contact with the WHOFBCI Director; and
+
+(b) cooperate with the WHOFBCI Director and provide such information, support, and assistance to the WHOFBCI Director as requested to implement this order.
+
+Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented subject to the availability of appropriations and to the extent permitted by law.
+
+(b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

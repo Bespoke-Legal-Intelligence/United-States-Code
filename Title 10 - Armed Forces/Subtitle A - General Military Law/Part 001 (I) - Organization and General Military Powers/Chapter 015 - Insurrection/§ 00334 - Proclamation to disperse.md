@@ -30,7 +30,7 @@ Proc. No. 3204, Sept. 23, 1957, 22 F.R. 7628, commanded all persons in the State
 
 #### Proc. No. 3497. Obstruction of Justice in the State of Mississippi
 
-Proc. No. 3497, Sept. 30, 1962, 27 F.R. 9681, commanded all persons in the State of Mississippi who were obstructing the enforcement of orders entered by theUnited States District Court for the Southern District of Mississippi and the United States Court of Appeals for the Fifth Circuit to cease and desist therefrom and to disperse and retire peaceably forthwith.
+Proc. No. 3497, Sept. 30, 1962, 27 F.R. 9681, commanded all persons in the State of Mississippi who were obstructing the enforcement of orders entered by the United States District Court for the Southern District of Mississippi and the United States Court of Appeals for the Fifth Circuit to cease and desist therefrom and to disperse and retire peaceably forthwith.
 
 #### Proc. No. 3542. Unlawful Obstruction of Justice and Combinations in the State of Alabama
 
@@ -59,8 +59,4 @@ Proc. No. 3841, Apr. 9, 1968, 33 F.R. 5497, commanded all persons engaged in vio
 #### Proc. No. 3842. Obstruction of Justice in the State of Maryland
 
 Proc. No. 3842, Apr. 9, 1968, 33 F.R. 5499, commanded all persons engaged in acts of violence and obstructing the enforcement of the laws in and about the City of Baltimore to cease and desist therefrom and to disperse forthwith.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2662 of this title.
 

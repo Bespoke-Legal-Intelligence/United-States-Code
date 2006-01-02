@@ -134,7 +134,7 @@ Section 1059c of title 20, referred to in par. (9), was amended generally by Pub
 
 Act of July 2, 1862, 12 Stat. 503, referred to in pars. (11) and (17)(A), is popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, 26 Stat. 417, referred to in pars. (11) and (17)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in pars. (11) and (17)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II\(§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 Act of March 2, 1887, referred to in pars. (14) and (17)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 

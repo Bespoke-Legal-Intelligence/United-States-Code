@@ -118,7 +118,3 @@ Section 4022A(g)(5) of the Employee Retirement Income Security Act of 1974, refe
 
 Section 4261 of the Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(3) and (f), is classified to section 1431 of Title 29.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 411, 418B of this title; title 29 section 1322a.
-

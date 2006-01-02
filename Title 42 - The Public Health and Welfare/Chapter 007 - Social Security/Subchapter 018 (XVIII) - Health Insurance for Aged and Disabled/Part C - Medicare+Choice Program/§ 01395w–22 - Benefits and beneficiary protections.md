@@ -2,13 +2,21 @@
 
 #### (a) Basic benefits
 
-#### (1) In general
+#### (1) Requirement
 
-&emsp;Except as provided in section 1395w–28(b)(3) of this title for MSA plans, each Medicare+�Choice plan shall provide to members enrolled under this part, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI of this chapter—
+#### (A) In general
 
-&emsp;&emsp;(A) those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals residing in the area served by the plan, and
+&emsp;&emsp;Except as provided in section 1395w–28(b)(3) of this title for MSA plans and except as provided in paragraph (6) for MA regional plans, each Medicare+Choice plan shall provide to members enrolled under this part, through providers and other persons that meet the applicable requirements of this subchapter and part A of subchapter XI of this chapter, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title).
 
-&emsp;&emsp;(B) additional benefits required under section 1395w–24(f)(1)(A) of this title.
+#### (B) Benefits under the original medicare fee-for-service program option defined
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of this part, the term “benefits under the original medicare fee-for-service program option” means those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, with cost-sharing for those services as required under parts A and B of this subchapter or an actuarially equivalent level of cost-sharing as determined in this part.
+
+#### (ii) Special rule for regional plans
+
+&emsp;&emsp;&emsp;In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.
 
 #### (2) Satisfaction of requirement
 
@@ -36,7 +44,7 @@
 
 #### (A) Benefits included subject to Secretary's approval
 
-&emsp;&emsp;Each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan (without affording those individuals an option to decline the coverage), supplemental healthcare benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
+&emsp;&emsp;Each Medicare+Choice organization may provide to individuals enrolled under this part, other than under an MSA plan (without affording those individuals an option to decline the coverage), supplemental health care benefits that the Secretary may approve. The Secretary shall approve any such supplemental benefits unless the Secretary determines that including such supplemental benefits would substantially discourage enrollment by Medicare+Choice eligible individuals with the organization.
 
 #### (B) At enrollees’ option
 
@@ -50,7 +58,7 @@
 
 #### (C) Application to Medicare+Choice private fee-for-service plans
 
-&emsp;&emsp;Nothing in this paragraph shall be construed as preventing a Medicare+Choice private fee-for-service plan from offering supplemental benefits that include payment for some or all of the balance billing amounts permitted consistent with subsection (k) of this section and coverage of additional services that the plan finds to be medically necessary.
+&emsp;&emsp;Nothing in this paragraph shall be construed as preventing a Medicare+Choice private fee-for-service plan from offering supplemental benefits that include payment for some or all of the balance billing amounts permitted consistent with subsection (k) of this section and coverage of additional services that the plan finds to be medically necessary. Such benefits may include reductions in cost-sharing below the actuarial value specified in section 1395w–24(e)(4)(B) of this title.
 
 #### (4) Organization as secondary payer
 
@@ -70,13 +78,17 @@
 
 > &emsp;The projection under the previous sentence shall be based on an analysis by the Chief Actuary of the Centers for Medicare \& Medicaid Services of the actuarial costs associated with the coverage determination or legislative change in benefits.
 
+#### (6) Special benefit rules for regional plans
+
+&emsp;In the case of an MA plan that is an MA regional plan, benefits under the plan shall include the benefits described in paragraphs (1) and (2) of section 1395w–27a(b) of this title.
+
 #### (b) Antidiscrimination
 
 #### (1) Beneficiaries
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 300gg–1(a)(1) of this title.
+&emsp;&emsp;A Medicare+Choice organization may not deny, limit, or condition the coverage or provision of benefits under this part, for individuals permitted to be enrolled with the organization under this part, based on any health status-related factor described in section 300gg–1(a)(1) of this title. The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.
 
 #### (B) Construction
 
@@ -136,9 +148,9 @@
 
 &emsp;&emsp;All plan appeal or grievance rights and procedures.
 
-#### (I) Quality assurance program
+#### (I) Quality improvement program
 
-&emsp;&emsp;A description of the organization's quality assurance program under subsection (e) of this section, if required under such section.<sup>1</sup>
+&emsp;&emsp;A description of the organization's quality improvement program under subsection (e) of this section.
 
 #### (2) Disclosure upon request
 
@@ -184,7 +196,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “emergency services” means, with respect to an individual enrolled withan organization, covered inpatient and outpatient services that—
+&emsp;&emsp;The term “emergency services” means, with respect to an individual enrolled with an organization, covered inpatient and outpatient services that—
 
 &emsp;&emsp;&emsp;(i) are furnished by a provider that is qualified to furnish such services under this subchapter, and
 
@@ -210,83 +222,55 @@
 
 > &emsp;or a combination of both. The previous sentence shall not be construed as restricting the persons from whom enrollees under such a plan may obtain covered benefits, except that, if a plan entirely meets such requirement with respect to a category of health care professional or provider on the basis of subparagraph (B), it may provide for a higher beneficiary copayment in the case of health care professionals and providers of that category who do not have contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) to provide covered services under the terms of the plan.
 
-#### (e) Quality assurance program
+#### (e) Quality improvement program
 
 #### (1) In general
 
-&emsp;Each Medicare+Choice organization must have arrangements, consistent with any regulation, for an ongoing quality assurance program for health care services it provides to individuals enrolled with Medicare+Choice plans (other than MSA plans) of the organization.
+&emsp;Each MA organization shall have an ongoing quality improvement program for the purpose of improving the quality of care provided to enrollees in each MA plan offered by such organization (other than an MA private fee-for-service plan or an MSA plan).
 
-#### (2) Elements of program
+#### (2) Chronic care improvement programs
 
-#### (A) In general
+&emsp;As part of the quality improvement program under paragraph (1), each MA organization shall have a chronic care improvement program. Each chronic care improvement program shall have a method for monitoring and identifying enrollees with multiple or sufficiently severe chronic conditions that meet criteria established by the organization for participation under the program.
 
-&emsp;&emsp;The quality assurance program of an organization with respect to a Medicare+Choice plan (other than a Medicare+Choice private fee-for-service plan or a preferred provider organization plan) it offers shall—
+#### (3) Data
 
-&emsp;&emsp;&emsp;(i) stress health outcomes and provide for the collection, analysis, and reporting of data (in accordance with a quality measurement system that the Secretary recognizes) that will permit measurement of outcomes and other indices of the quality of Medicare+Choice plans and organizations;
+#### (A) Collection, analysis, and reporting
 
-&emsp;&emsp;&emsp;(ii) monitor and evaluate high volume and high risk services and the care of acute and chronic conditions;
+#### (i) In general
 
-&emsp;&emsp;&emsp;(iii) evaluate the continuity and coordination of care that enrollees receive;
+&emsp;&emsp;&emsp;Except as provided in clauses (ii) and (iii) with respect to plans described in such clauses and subject to subparagraph (B), as part of the quality improvement program under paragraph (1), each MA organization shall provide for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality.
 
-&emsp;&emsp;&emsp;(iv) be evaluated on an ongoing basis as to its effectiveness;
+#### (ii) Application to MA regional plans
 
-&emsp;&emsp;&emsp;(v) include measures of consumer satisfaction;
+&emsp;&emsp;&emsp;The Secretary shall establish as appropriate by regulation requirements for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality for MA organizations with respect to MA regional plans. Such requirements may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans.
 
-&emsp;&emsp;&emsp;(vi) provide the Secretary with such access to information collected as may be appropriate to monitor and ensure the quality of care provided under this part;
+#### (iii) Application to preferred provider organizations
 
-&emsp;&emsp;&emsp;(vii) provide review by physicians and other health care professionals of the process followed in the provision of such health care services;
+&emsp;&emsp;&emsp;Clause (i) shall apply to MA organizations with respect to MA local plans that are preferred provider organization plans only insofar as services are furnished by providers or services, physicians, and other health care practitioners and suppliers that have contracts with such organization to furnish services under such plans.
 
-&emsp;&emsp;&emsp;(viii) provide for the establishment of written protocols for utilization review, based on current standards of medical practice;
+#### (iv) Definition of preferred provider organization plan
 
-&emsp;&emsp;&emsp;(ix) have mechanisms to detect both underutilization and overutilization of services;
+&emsp;&emsp;&emsp;In this subparagraph, the term “preferred provider organization plan” means an MA plan that—
 
-&emsp;&emsp;&emsp;(x) after identifying areas for improvement, establish or alter practice parameters;
+&emsp;&emsp;&emsp;&emsp;(I) has a network of providers that have agreed to a contractually specified reimbursement for covered benefits with the organization offering the plan;
 
-&emsp;&emsp;&emsp;(xi) take action to improve quality and assesses the effectiveness of such action through systematic followup; and
+&emsp;&emsp;&emsp;&emsp;(II) provides for reimbursement for all covered benefits regardless of whethersuch benefits are provided within such network of providers; and
 
-&emsp;&emsp;&emsp;(xii) make available information on quality and outcomes measures to facilitate beneficiary comparison and choice of health coverage options (in such form and on such quality and outcomes measures as the Secretary determines to be appropriate).
+&emsp;&emsp;&emsp;&emsp;(III) is offered by an organization that is not licensed or organized under State law as a health maintenance organization.
 
-> &emsp;&emsp;Such program shall include a separate focus (with respect to all the elements described in this subparagraph) on racial and ethnic minorities.
+#### (B) Limitations
 
-#### (B) Elements of program for organizations offering Medicare+Choice private fee-for-service plans and preferred provider organization plans
+#### (i) Types of data
 
-&emsp;&emsp;The quality assurance program of an organization with respect to a Medicare+Choice private fee-for-service plan or a preferred provider organization plan it offers shall—
+&emsp;&emsp;&emsp;The Secretary shall not collect under subparagraph (A) data on quality, outcomes, and beneficiary satisfaction to facilitate consumer choice and program administration other than the types of data that were collected by the Secretary as of November 1, 2003.
 
-&emsp;&emsp;&emsp;(i) meet the requirements of clauses (i) through (vi) of subparagraph (A);
+#### (ii) Changes in types of data
 
-&emsp;&emsp;&emsp;(ii) insofar as it provides for the establishment of written protocols for utilization review, base such protocols on current standards of medical practice; and
+&emsp;&emsp;&emsp;Subject to subclause (iii), the Secretary may only change the types of data that are required to be submitted under subparagraph (A) after submitting to Congress a report on the reasons for such changes that was prepared in consultation with MA organizations and private accrediting bodies.
 
-&emsp;&emsp;&emsp;(iii) have mechanisms to evaluate utilization of services and inform providers and enrollees of the results of such evaluation.
+#### (iii) Construction
 
-> &emsp;&emsp;Such program shall include a separate focus (with respect to all the elements described in this subparagraph) on racial and ethnic minorities.
-
-#### (C) “Non-network MSA plan” defined
-
-&emsp;&emsp;In this subsection, the term “non-network MSA plan” means an MSA plan offered by a Medicare+Choice organization that does not provide benefits required to be provided by this part, in whole or in part, through a defined set of providers under contract, or under another arrangement, with the organization.
-
-#### (D) Definition of preferred provider organization plan
-
-&emsp;&emsp;In this paragraph, the term “preferred provider organization plan” means a Medicare+Choice plan that—
-
-&emsp;&emsp;&emsp;(i) has a network of providers that have agreed to a contractually specified reimbursement for covered benefits with the organization offering the plan;
-
-&emsp;&emsp;&emsp;(ii) provides for reimbursement for all covered benefits regardless of whether such benefits are provided within such network of providers; and
-
-&emsp;&emsp;&emsp;(iii) is offered by an organization that is not licensed or organized under State law as a health maintenance organization.
-
-#### (3) External review
-
-#### (A) In general
-
-&emsp;&emsp;Each Medicare+Choice organization shall, for each Medicare+Choice plan it operates, have an agreement with an independent quality review and improvement organization approved by the Secretary to perform functions of the type described in sections 1320c–3(a)(4)(B) and 1320c–3(a)(14) of this title with respect to services furnished by Medicare+Choice plans for which payment is made under this subchapter. The previous sentence shall not apply to a Medicare+�Choice private fee-for-service plan or a non-network MSA plan that does not employ utilization review.
-
-#### (B) Nonduplication of accreditation
-
-&emsp;&emsp;Except in the case of the review of quality complaints, and consistent with subparagraph (C), the Secretary shall ensure that the external review activities conducted under subparagraph (A) are not duplicative of review activities conducted as part of the accreditation process.
-
-#### (C) Waiver authority
-
-&emsp;&emsp;The Secretary may waive the requirement described in subparagraph (A) in the case of an organization if the Secretary determines that the organization has consistently maintained an excellent record of quality assurance and compliance with other requirements under this part.
+&emsp;&emsp;&emsp;Nothing in the <sup>1</sup> subsection shall be construed as restricting the ability of the Secretary to carry out the duties under section 1395w–21(d)(4)(D) of this title.
 
 #### (4) Treatment of accreditation
 
@@ -298,7 +282,7 @@
 
 &emsp;&emsp;The provisions described in this subparagraph are the following:
 
-&emsp;&emsp;&emsp;(i) Paragraphs (1) and (2) of this subsection (relating to quality assurance programs).
+&emsp;&emsp;&emsp;(i) Paragraphs (1) through (3) of this subsection (relating to quality improvement programs).
 
 &emsp;&emsp;&emsp;(ii) Subsection (b) of this section (relating to antidiscrimination).
 
@@ -310,6 +294,8 @@
 
 &emsp;&emsp;&emsp;(vi) Subsection (j) of this section (relating to provider participation rules).
 
+&emsp;&emsp;&emsp;(vii) The requirements described in section 1395w–104(j) of this title, to the extent such requirements apply under section 1395w–131(c) of this title.
+
 #### (C) Timely action on applications
 
 &emsp;&emsp;The Secretary shall determine, within 210 days after the date the Secretary receives an application by a private accrediting organization and using the criteria specified in section 1395bb(b)(2) of this title, whether the process of the private accrediting organization meets the requirements with respect to any specific clause in subparagraph (B) with respect to which the application is made. The Secretary may not deny such an application on the basis that it seeks to meet the requirements with respect to only one, or more than one, such specific clause.
@@ -317,22 +303,6 @@
 #### (D) Construction
 
 &emsp;&emsp;Nothing in this paragraph shall be construed as limiting the authority of the Secretary under section 1395w–27 of this title, including the authority to terminate contracts with Medicare+Choice organizations under subsection (c)(2) of such section.
-
-#### (5) Report to Congress
-
-#### (A) In general
-
-&emsp;&emsp;Not later than 2 years after December 21, 2000, and biennially thereafter, the Secretary shall submit to Congress a report regarding how quality assurance programs conducted under this subsection focus on racial and ethnic minorities.
-
-#### (B) Contents of report
-
-&emsp;&emsp;Each such report shall include the following:
-
-&emsp;&emsp;&emsp;(i) A description of the means by which such programs focus on such racial and ethnic minorities.
-
-&emsp;&emsp;&emsp;(ii) An evaluation of the impact of such programs on eliminating health disparitiesand on improving health outcomes, continuity and coordination of care, management of chronic conditions, and consumer satisfaction.
-
-&emsp;&emsp;&emsp;(iii) Recommendations on ways to reduce clinical outcome disparities among racial and ethnic minorities.
 
 #### (f) Grievance mechanism
 
@@ -392,7 +362,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (5) Appeals
 
-&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing theSecretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
+&emsp;An enrollee with a Medicare+Choice plan of a Medicare+Choice organization under this part who is dissatisfied by reason of the enrollee's failure to receive any health service to which the enrollee believes the enrollee is entitled and at no greater charge than the enrollee believes the enrollee is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the organization a party. If the amount in controversy is $1,000 or more, the individual or organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the organization shall be entitled to be parties to that judicial review. In applying subsections (b) and (g) of section 405 of this title as provided in this paragraph, and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.
 
 #### (h) Confidentiality and accuracy of enrollee records
 
@@ -450,17 +420,11 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (A) In general
 
-&emsp;&emsp;No Medicare+Choice organization may operate any physician incentive plan (as defined in subparagraph (B)) unless the following requirements are met:
+&emsp;&emsp;No Medicare+Choice organization may operate any physician incentive plan (as defined in subparagraph (B)) unless the organization provides assurances satisfactory to the Secretary that the following requirements are met:
 
 &emsp;&emsp;&emsp;(i) No specific payment is made directly or indirectly under the plan to a physician or physician group as an inducement to reduce or limit medically necessary services provided with respect to a specific individual enrolled with the organization.
 
-&emsp;&emsp;&emsp;(ii) If the plan places a physician or physician group at substantial financial risk (as determined by the Secretary) for services not provided by the physician or physician group, the organization—
-
-&emsp;&emsp;&emsp;&emsp;(I) provides stop-loss protection for the physician or group that is adequate and appropriate, based on standards developed by the Secretary that take into account the number of physicians placed at such substantial financial risk in the group or under the plan and the number of individuals enrolled with the organization who receive services from the physician or group, and
-
-&emsp;&emsp;&emsp;&emsp;(II) conducts periodic surveys of both individuals enrolled and individuals previously enrolled with the organization to determine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.
-
-&emsp;&emsp;&emsp;(iii) The organization provides the Secretary with descriptive information regarding the plan, sufficient to permit the Secretary to determine whether the plan is in compliance with the requirements of this subparagraph.
+&emsp;&emsp;&emsp;(ii) If the plan places a physician or physician group at substantial financial risk (as determined by the Secretary) for services not provided by the physician or physician group, the organization provides stop-loss protection for the physician or group that is adequate and appropriate, based on standards developed by the Secretary that take into account the number of physicians placed at such substantial financial risk in the group or under the plan and the number of individuals enrolled with the organization who receive services from the physician or group.
 
 #### (B) “Physician incentive plan” defined
 
@@ -550,7 +514,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 
-&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments to hospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
+&emsp;&emsp;&emsp;In addition, such organization shall, in its terms and conditions of payments tohospitals for inpatient hospital services and for other services identified by the Secretary for which the amount of the balance billing under subparagraph (A) could be substantial, require the hospital to provide to the enrollee, before furnishing such services and if the hospital imposes balance billing under subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) notice of the fact that balance billing is permitted under such subparagraph for such services, and
 
@@ -614,151 +578,69 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (<i>l</i>)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426.)
 
-#### Amendment of Section
-
-<i>Pub. L. 108–173, title II, §§221(d)(3), 222(a)(2), (3), (h), (l)(1), 223(a), Dec. 8, 2003, 117 Stat. 2193, 2195, 2196, 2204, 2206, 2207, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2006, this section is amended—</i>
-
-<i>(1) in subsection (a)(1):</i>
-
-(A) by substituting “Requirement” for “In general” in heading;
-
-(B) by inserting “and except as provided in paragraph (6) for MA regional plans” after “MSA plans”;
-
-(C) by designating existing provisions as subparagraph (A) and inserting heading “In general”; and
-
-(D) by striking “subchapter XI of this chapter” and all that follows and inserting the following: “subchapter XI of this chapter, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title).
-
-#### <i>“(B) Benefits under the original medicare fee-for-service program option defined</i>
-
-#### <i>“(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>“For purposes of this part, the term ‘benefits under the original medicare fee-for-service program option’ means those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, with cost-sharing for those services as required under parts A and B of this subchapter or an actuarially equivalent level of cost-sharing as determined in this part.</i>
-
-#### <i>“(ii) Special rule for regional plans</i>
-
-&emsp;&emsp;&emsp;<i>“In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.”;</i>
-
-<i>(2) in subsection (a)(3), by adding at the end the following:</i>
-
-> &emsp;<i>“Such benefits may include reductions in cost-sharing below the actuarial value specified in section 1395w–24(e)(4)(B) of this title.”;</i>
-
-<i>(3) by adding at the end of subsection (a) the following new paragraph:</i>
-
-#### <i>“(6) Special benefit rules for regional plans</i>
-
-&emsp;<i>“In the case of an MA plan that is an MA regional plan, benefits under the plan shall include the benefits described in paragraphs (1) and (2) of section 1395w–27a(b) of this title.”;</i>
-
-<i>(4) in subsection (b)(1)(A), by adding at the end the following: “The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.”; and</i>
-
-<i>(5) in subsection (j)(4)(A):</i>
-
-(A) in introductory provisions, by inserting “the organization provides assurances satisfactory to the Secretary that” after “unless”;
-
-(B) in clause (ii), by striking “the organization—” and all that follows through “(I) provides” and inserting “the organization provides”, by striking “, and” and inserting a period, and by striking subclause (II); and
-
-(C) by striking clause (iii).
-
-<i>Pub. L. 108–173, §722, Dec. 8, 2003, 117 Stat. 2347, provided that, applicable with respect to contract years beginning on and after Jan. 1, 2006, this section is amended as follows:</i>
-
-<i>(1) subsection (c)(1)(I) is amended to read as follows:</i>
-
-#### <i>“(I) Quality improvement program</i>
-
-&emsp;&emsp;<i>“A description of the organization's quality improvement program under subsection (e) of this section.”</i>
-
-<i>(2) subsection (e) is amended—</i>
-
-(A) in the heading, by striking “assurance” and inserting “improvement”;
-
-(B) by amending paragraphs (1) through (3) to read as follows:
-
-#### <i>“(1) In general</i>
-
-&emsp;<i>“Each MA organization shall have an ongoing quality improvement program for the purpose of improving the quality of care provided to enrollees in each MA plan offered by such organization (other than an MA private fee-for-service plan or an MSA plan).</i>
-
-#### <i>“(2) Chronic care improvement programs</i>
-
-&emsp;<i>“As part of the quality improvement program under paragraph (1), each MA organization shall have a chronic care improvement program. Each chronic care improvement program shall have a method for monitoring and identifying enrollees with multiple or sufficiently severe chronic conditions that meet criteria established by the organization for participation under the program.</i>
-
-#### <i>“(3) Data</i>
-
-#### <i>“(A) Collection, analysis, and reporting</i>
-
-#### <i>“(i) In general</i>
-
-&emsp;&emsp;&emsp;<i>“Except as provided in clauses (ii) and (iii) with respect to plans described in such clauses and subject to subparagraph (B), as part of the quality improvement program under paragraph (1), each MA organization shall provide for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality.</i>
-
-#### <i>“(ii) Application to MA regional plans</i>
-
-&emsp;&emsp;&emsp;<i>“The Secretary shall establish as appropriate by regulation requirements for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality for MA organizations with respect to MA regional plans. Such requirements may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans.</i>
-
-#### <i>“(iii) Application to preferred provider organizations</i>
-
-&emsp;&emsp;&emsp;<i>“Clause (i) shall apply to MA organizations with respect to MA local plans that are preferred provider organization plans only insofar as services are furnished by providers or services, physicians, and other health care practitioners and suppliers that have contracts with such organization to furnish services under such plans.</i>
-
-#### <i>“(iv) Definition of preferred provider organization plan</i>
-
-&emsp;&emsp;&emsp;<i>“In this subparagraph, the term ‘preferred provider organization plan’ means an MA plan that—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(I) has a network of providers that have agreed to a contractually specified reimbursement for covered benefits with the organization offering the plan;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(II) provides for reimbursement for all covered benefits regardless of whether such benefits are provided within such network of providers; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>“(III) is offered by an organization that is not licensed or organized under State law as a health maintenance organization.</i>
-
-#### <i>“(B) Limitations</i>
-
-#### <i>“(i) Types of data</i>
-
-&emsp;&emsp;&emsp;<i>“The Secretary shall not collect under subparagraph (A) data on quality, outcomes, and beneficiary satisfaction to facilitate consumer choice and program administration other than the types of data that were collected by the Secretary as of November 1, 2003.</i>
-
-#### <i>“(ii) Changes in types of data</i>
-
-&emsp;&emsp;&emsp;<i>“Subject to subclause (iii), the Secretary may only change the types of data that are required to be submitted under subparagraph (A) after submitting to Congress a report on the reasons for such changes that was prepared in consultation with MA organizations and private accrediting bodies.</i>
-
-#### <i>“(iii) Construction</i>
-
-&emsp;&emsp;&emsp;<i>“Nothing in the subsection shall be construed as restricting the ability of the Secretary to carry out the duties under section 1395w–21(d)(4)(D) of this title.”;</i>
-
-(C) in paragraph (4)(B)—
-
-&emsp;(i) by amending clause (i) to read as follows:
-
-&emsp;&emsp;&emsp;<i>“(i) Paragraphs (1) through (3) of this subsection (relating to quality improvement programs).”; and</i>
-
-&emsp;(ii) by adding at the end the following new clause:
-
-&emsp;&emsp;&emsp;<i>“(vii) The requirements described in section 1395w–104(j) of this title, to the extent such requirements apply under section 1395w–131(c) of this title.”; and</i>
-
-(D) by striking paragraph (5).
-
 #### References in Text
 
 Part A of subchapter XI of this chapter, referred to in subsec. (a)(1)(A), is classified to section 1301 et seq. of this title.
 
-Parts A and B of this subchapter, referred to in subsecs. (a)(1)(A), (2)(A)(ii), (d)(4)(A), (k)(2)(C)(i), and (<i>l</i>)(3)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
+Parts A and B of this subchapter, referred to in subsecs. (a)(1)(B)(i), (2)(A)(ii), (d)(4)(A), (k)(2)(C)(i), and (<i>l</i>)(3)(A), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
 
-2003—Subsec. (a)(2)(C). Pub. L. 108–173, §948(b)(2), substituted “determination” for “policy” wherever appearing in heading and text.
+2003—Subsec. (a)(1). Pub. L. 108–173, §222(a)(2), substituted “Requirement” for “In general” in par. heading, designated existing provisions as subpar. (A), inserted heading, substituted “chapter, benefits under the original medicare fee-for-service program option (and, for plan years before 2006, additional benefits required under section 1395w–24(f)(1)(A) of this title).” for “chapter—”, added subpar. (B), and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) those items and services (other than hospice care) for which benefits are available under parts A and B of this subchapter to individuals residing in the area served by the plan, and
+
+“(B) additional benefits required under section 1395w–24(f)(1)(A) of this title.”
+
+Pub. L. 108–173, §221(d)(3)(A), inserted “and except as provided in paragraph (6) for MA regional plans” after “MSA plans” in introductory provisions.
+
+Subsec. (a)(2)(C). Pub. L. 108–173, §948(b)(2), substituted “determination” for “policy” wherever appearing in heading and text.
+
+Subsec. (a)(3)(C). Pub. L. 108–173, §222(a)(3), inserted at end “Such benefits may include reductions in cost-sharing below the actuarial value specified in section 1395w–24(e)(4)(B) of this title.”
 
 Subsec. (a)(5). Pub. L. 108–173, §900(e)(1)(F), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration” in concluding provisions.
 
-Subsec. (c)(1)(I). Pub. L. 108–173, §233(a)(2)(A), inserted “, if required under such section” before period at end.
+Subsec. (a)(6). Pub. L. 108–173, §221(d)(3)(B), added par. (6).
 
-Subsec. (d)(4). Pub. L. 108–173, §211(j)(2), inserted before period at end of concluding provisions “, except that, if a plan entirely meets such requirement with respect to a category of health care professional or provider on the basis of subparagraph (B), it may provide for a higher beneficiary copayment in the case of health care professionals and providers of that category who do not have contracts or agreements (other thandeemed contracts or agreements under subsection (j)(6) of this section) to provide covered services under the terms of the plan”.
+Subsec. (b)(1)(A). Pub. L. 108–173, §222(<i>l</i>)(1), inserted at end “The Secretary shall not approve a plan of an organization if the Secretary determines that the design of the plan and its benefits are likely to substantially discourage enrollment by certain MA eligible individuals with the organization.”
+
+Subsec. (c)(1)(I). Pub. L. 108–173, §722(b), amended heading and text of subpar. (I) generally. Prior to amendment, text read as follows: “A description of the organization's quality assurance program under subsection (e) of this section, if required under such section.”
+
+Pub. L. 108–173, §233(a)(2)(A), inserted “, if required under such section” before period at end.
+
+Subsec. (d)(4). Pub. L. 108–173, §211(j)(2), inserted before period at end of concluding provisions “, except that, if a plan entirely meets such requirement with respect to a category of health care professional or provider on the basis of subparagraph (B), it may provide for a higher beneficiary copayment in the case of health care professionals and providers of that category who do not have contracts or agreements (other than deemed contracts or agreements under subsection (j)(6) of this section) to provide covered services under the terms of the plan”.
 
 Subsec. (d)(4)(B). Pub. L. 108–173, §211(j)(1), inserted “(other than deemed contracts or agreements under subsection (j)(6) of this section)” after “the plan has contracts or agreements”.
 
-Subsec. (e)(1). Pub. L. 108–173, §233(a)(1), inserted “(other than MSA plans)” after “plans”.
+Subsec. (e). Pub. L. 108–173, §722(a)(1), substituted “improvement” for “assurance” in heading.
+
+Subsec. (e)(1). Pub. L. 108–173, §722(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each Medicare+Choice organization must have arrangements, consistent with any regulation, for an ongoing quality assurance program for health care services it provides to individuals enrolled with Medicare+Choice plans (other than MSA plans) of the organization.”
+
+Pub. L. 108–173, §233(a)(1), inserted “(other than MSA plans)” after “plans”.
+
+Subsec. (e)(2). Pub. L. 108–173, §722(a)(2), amended par. (2) generally, substituting provisions relating to chronic care improvement programs for provisions relating to elements of the quality assurance program of an organization with respect to a Medicare+Choice plan.
 
 Subsec. (e)(2)(A). Pub. L. 108–173, §233(a)(2)(B), struck out “, a non-network MSA plan,” after “fee-for-service plan” in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 108–173, §233(a)(2)(C), struck out “, non-network MSA plans,” after “fee-for-service plans” in heading and “, a non-network MSA plan,” after “fee-for-service plan” in introductory provisions.
 
+Subsec. (e)(3). Pub. L. 108–173, §722(a)(2), amended par. (3) generally, substituting provisions relating to collection, analysis, and reporting of data for provisions relating to external review by an independent quality review and improvement organization.
+
+Subsec. (e)(4)(B)(i). Pub. L. 108–173, §722(a)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Paragraphs (1) and (2) of this subsection (relating to quality assurance programs).”
+
+Subsec. (e)(4)(B)(vii). Pub. L. 108–173, §722(a)(3)(B), added cl. (vii).
+
+Subsec. (e)(5). Pub. L. 108–173, §722(a)(4), struck out par. (5), which related to report to be submitted to Congress not later than 2 years after Dec. 21, 2000, and biennially thereafter, regarding how quality assurance programs focus on racial and ethnic minorities.
+
 Subsec. (g)(5). Pub. L. 108–173, §940(b)(2)(A), inserted at end “The provisions of section 1395ff(b)(1)(E)(iii) of this title shall apply with respect to dollar amounts specified in the first 2 sentences of this paragraph in the same manner as they apply to the dollar amounts specified in section 1395ff(b)(1)(E)(i) of this title.”
+
+Subsec. (j)(4)(A). Pub. L. 108–173, §222(h)(1), inserted “the organization provides assurances satisfactory to the Secretary that” after “unless” in introductory provisions.
+
+Subsec. (j)(4)(A)(ii). Pub. L. 108–173, §222(h)(2), substituted “the organization” for “the organization—”, struck out subcl. (I) designation before “provides”, substituted period for “, and” at end of subcl. (I), and struck out subcl. (II), which read as follows: “conducts periodic surveys of both individuals enrolled and individuals previously enrolled with the organization to determine the degree of access of such individuals to services provided by the organization and satisfaction with the quality of such services.”
+
+Subsec. (j)(4)(A)(iii). Pub. L. 108–173, §222(h)(3), struck out cl. (iii) which read as follows: “The organization provides the Secretary with descriptive information regarding the plan, sufficient to permit the Secretary to determine whether the plan is in compliance with the requirements of this subparagraph.”
 
 Subsec. (j)(7). Pub. L. 108–173, §102(b), added par. (7).
 
@@ -784,7 +666,7 @@ Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(6) \[title VI, §621(a)\], added s
 
 1999—Subsec. (a)(3)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(i)\], struck out comma after “MSA plan” and inserted comma after “the coverage)”.
 
-Subsec. (e)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(1)\], substituted “, a non-network MSA plan, or a preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
+Subsec. (e)(2)(A). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(1)\], substituted “, a non-network MSA plan, ora preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
 
 Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §520(a)(2)\], substituted “, non-network MSA plans, and preferred provider organization plans” for “and non-network MSA plans” in heading and “, a non-network MSA plan, or a preferred provider organization plan” for “or a non-network MSA plan” in introductory provisions.
 
@@ -850,5 +732,5 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[D
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §227(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–355, provided that: “The provisions of subparagraphs (A) and (B) of section 1852(a)(5) of the Social Security Act (42 U.S.C. 1395w–22(a)(5)) shall apply with respect to the coverage of additional benefits for immunosuppressive drugs under the amendments made by this section \[amending sections 1395k and 1395x of this title\] for drugs furnished in 2000 in the same manner as if such amendments constituted a national coverage determination described in the matter in such section before subparagraph (A).”
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
 

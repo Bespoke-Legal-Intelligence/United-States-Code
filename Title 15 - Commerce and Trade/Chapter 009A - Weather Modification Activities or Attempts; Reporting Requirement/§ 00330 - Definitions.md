@@ -46,7 +46,7 @@ Findings.—The Congress finds and declares the following:
 
 Purpose.—It is therefore declared to be the purpose of the Congress in this Act to develop a comprehensive and coordinated national weather modification policy and a national program of weather modification research and development—
 
-&emsp;“(1) to determine the means by which deliberate weather modification can be used at the present timeto decrease the adverse impact of weather on agriculture, economic growth, and the general public welfare, and to determine the potential for weather modification;
+&emsp;“(1) to determine the means by which deliberate weather modification can be used at the present time to decrease the adverse impact of weather on agriculture, economic growth, and the general public welfare, and to determine the potential for weather modification;
 
 &emsp;“(2) to conduct research into those scientific areas considered most likely to lead to practical techniques for drought prevention or alleviation and other forms of deliberate weather modification;
 

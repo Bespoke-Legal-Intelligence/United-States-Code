@@ -4,5 +4,5 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 383; Sept. 2, 1958, Pub. L. 85�
 
 #### Effective Date of Repeal
 
-Repeal applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, ordisease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
+Repeal applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as a note under section 1074a of this title.
 

@@ -24,7 +24,3 @@ Subsecs. (c), (d). Pub. L. 94–455, §1202(f), redesignated subsec. (d) as (c) 
 
 Section effective Aug. 17, 1954, see section 1(c) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under section 165 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6103 of this title.
-

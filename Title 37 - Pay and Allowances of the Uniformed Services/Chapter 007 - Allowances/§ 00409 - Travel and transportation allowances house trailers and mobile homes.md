@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §303(c) (12th sentence); added Mar. 31, 1955, ch. 20, §2(13), 69 Stat. 22; Mar. 17, 1958, Pub. L. 85–347, 72 Stat. 37; restated Oct. 4, 1961, Pub. L. 87–374, 75 Stat. 804.
 
-The words “the United States, except in Hawaii or Alaska,” are substituted for the words “the continental United States” to conform to the definition of United States in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words “an agent of the United States” are substituted for the words “the Government”, for clarity. The words “United States” are substituted for the word “Government”. The words “of the uniformed services” are omitted as surplusage in viewof the definition of member in section 101(23) of this revised title.
+The words “the United States, except in Hawaii or Alaska,” are substituted for the words “the continental United States” to conform to the definition of United States in section 101(1) of this revised title and to reflect the opinion of the Comptroller General in B–139624, June 29, 1959, that Alaska was not included within those words. The words “an agent of the United States” are substituted for the words “the Government”, for clarity. The words “United States” are substituted for the word “Government”. The words “of the uniformed services” are omitted as surplusage in view of the definition of member in section 101(23) of this revised title.
 
 #### Amendments
 

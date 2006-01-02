@@ -28,7 +28,7 @@ As used in this chapter—
 
 (m) The term “final and conclusive”, as applied to any settlement, finding, or decision, means that such settlement, finding, or decision shall not be reopened, annulled, modified, set aside, or disregarded by any officer, employee, or agent of the United States or in any suit, action, or proceeding except as provided in this chapter.
 
-(July 1, 1944, ch. 358, §3, 58 Stat. 650; Ex. Ord. No. 9638, §1, eff. Oct. 4, 1945, 10 F.R. 12591; Ex. Ord. No. 9809, §§1, 8 eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, §§101, 203, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1947, ch. 166, title II, §207, 61 Stat. 209; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
+(July 1, 1944, ch. 358, §3, 58 Stat. 650; Ex. Ord. No. 9638, §1, eff. Oct. 4, 1945, 10 F.R. 12591; Ex. Ord.No. 9809, §§1, 8 eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, §§101, 203, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1947, ch. 166, title II, §207, 61 Stat. 209; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ The Reconstruction Finance Corporation Act, referred to in subsec. (g), is act J
 
 #### Codification
 
-In subsec. (g), the Smaller War Plants Corporation was omitted from the definition of the term “contracting agency,” in subsec. (g) on the authority of section 207 of Act June 30, 1947, which provided: “The liquidation of the affairs of the Smaller War Plants Corporation administered by the Reconstruction Finance Corporation pursuant to Executive Order 9665 shall be carried out by the Reconstruction Finance Corporation, notwithstanding the provisions of the last paragraph of section 5 of the First War Powers Act, 1941 \[section 605of Title 50, Appendix, War and National Defense\]. The Smaller War Plants Corporation is hereby abolished.”
+In subsec. (g), the Smaller War Plants Corporation was omitted from the definition of the term “contracting agency,” in subsec. (g) on the authority of section 207 of Act June 30, 1947, which provided: “The liquidation of the affairs of the Smaller War Plants Corporation administered by the Reconstruction Finance Corporation pursuant to Executive Order 9665 shall be carried out by the Reconstruction Finance Corporation, notwithstanding the provisions of the last paragraph of section 5 of the First War Powers Act, 1941 \[section 605 of Title 50, Appendix, War and National Defense\]. The Smaller War Plants Corporation is hereby abolished.”
 
 #### Transfer of Functions
 

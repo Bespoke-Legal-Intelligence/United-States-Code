@@ -22,7 +22,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) a summer camp for children, or a child nutrition program providing food service;
 
-&emsp;&emsp;&emsp;(iv) a nutrition project operating under the Older Americans Act of 1965 (42 U.S.C.3001 et seq.), including a project that operates a congregate nutrition site and a project that provides home-delivered meals; or
+&emsp;&emsp;&emsp;(iv) a nutrition project operating under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), including a project that operates a congregate nutrition site and a project that provides home-delivered meals; or
 
 &emsp;&emsp;&emsp;(v) a disaster relief program;
 
@@ -58,7 +58,7 @@ In this chapter:
 
 &emsp;The term “value of additional commodities allocated to each State” means the actual cost of additional commodities allocated to each State that are paid by the Secretary (including the distribution and processing costs incurred by the Secretary).
 
-(Pub. L. 98–8, title II, §201A, as added Pub. L. 98–92, §2(2), Sept. 2, 1983, 97 Stat. 608; amended Pub. L. 99–198, title XV, §1563, Dec. 23, 1985, 99 Stat. 1590; Pub. L. 104–193, title VIII, §871(a), Aug. 22, 1996, 110 Stat. 2343.)
+(Pub. L. 98–8, title II, §201A, as added Pub. L. 98–92, §2(2), Sept. 2, 1983, 97 Stat. 608; amendedPub. L. 99–198, title XV, §1563, Dec. 23, 1985, 99 Stat. 1590; Pub. L. 104–193, title VIII, §871(a), Aug. 22, 1996, 110 Stat. 2343.)
 
 #### References in Text
 

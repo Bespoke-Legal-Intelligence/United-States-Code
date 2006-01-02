@@ -30,7 +30,7 @@ No State is eligible for payments under section 1397ee of this title for child h
 
 #### References to SCHIP and State Children's Health Insurance Program
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §704\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services or any other Federal officer or employee, with respect to any reference to the program under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) in any publication or other official communication, shall use—
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §704\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that:“The Secretary of Health and Human Services or any other Federal officer or employee, with respect to any reference to the program under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) in any publication or other official communication, shall use—
 
 &emsp;“(1) the term ‘SCHIP’ instead of the term ‘CHIP’; and
 

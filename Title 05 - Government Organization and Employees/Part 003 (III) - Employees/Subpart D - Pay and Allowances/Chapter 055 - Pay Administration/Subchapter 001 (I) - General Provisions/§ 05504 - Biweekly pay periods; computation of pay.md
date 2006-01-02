@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) an employee in or under an Executive agency;
 
-&emsp;&emsp;(B) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek is established under section 6101(a)(5) of this title; and
+&emsp;&emsp;(B) an employee in or under the Office of the Architect of the Capitol, the Botanic Garden, and the Library of Congress, for whom a basic administrative workweek isestablished under section 6101(a)(5) of this title; and
 
 &emsp;&emsp;(C) an individual employed by the government of the District of Columbia.
 
@@ -86,7 +86,7 @@ This section amends 5 U.S.C. 5504 to reflect the amendment to 5 U.S.C. 6101 by s
 
 2003—Subsecs. (a), (b). Pub. L. 108–136, §1124(a)(2), struck out last sentence which defined “employee”.
 
-Subsec.(c). Pub. L. 108–136, §1124(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 108–136, §1124(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 108–136, §1124(a)(1), (b), redesignated subsec. (c) as (d), inserted “(1)” after “(d)”, and added par. (2).
 

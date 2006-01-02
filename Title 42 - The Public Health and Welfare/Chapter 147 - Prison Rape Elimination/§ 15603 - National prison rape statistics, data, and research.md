@@ -36,11 +36,15 @@
 
 #### (5) Surveys
 
-&emsp;In carrying out the review and analysis under paragraph (1), the Bureau shall, in addition to such other methods as the Bureau considers appropriate, use surveys and other statistical studies of current and former inmates from a sample of Federal, State, county, and municipal prisons. The Bureau shall ensure the confidentiality of each survey participant.
+&emsp;In carrying out the review and analysis under paragraph (1), the Bureau shall, in addition to such other methods as the Bureau considers appropriate, use surveys and other statistical studies of current and former inmates from a sample of Federal, State, county, and municipal prisons. The Bureau shall ensure the confidentiality of each survey participant, except as authorized in paragraph (7).
 
 #### (6) Participation in survey
 
 &emsp;Federal, State, or local officials or facility administrators that receive a request from the Bureau under subsection (a)(4) or (5) will be required to participate in the national survey and provide access to any inmates under their legal custody.
+
+#### (7) Reporting on child abuse and neglect
+
+&emsp;Nothing in section 3735 or 3789g of this title or any other provision of law, including paragraph (5), shall prevent the Bureau (including its agents), in carrying out the review and analysis under paragraph (1), from reporting to the designated public officials such information (and only such information) regarding child abuse or child neglect with respect to which the statutes or regulations of a State (or a political subdivision thereof) require prompt reporting.
 
 #### (b) Review Panel on Prison Rape
 
@@ -62,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The duty of the Panel shall be to carry out, for each calendar year, public hearings concerning the operation of the three prisons with the highest incidence of prison rape and the two prisons with the lowest incidence of prison rape in each category of facilities identified under subsection (c)(4). The Panel shall hold a separate hearing regarding the three Federal or State prisons with the highest incidence of prison rape. The purpose of these hearings shall be to collect evidence to aid in the identification of common characteristics of both victims and perpetrators of prison rape, and the identification of common characteristics of prisons and prison systems with a high incidence of prison rape, and the identificationof common characteristics of prisons and prison systems that appear to have been successful in deterring prison rape.
+&emsp;&emsp;The duty of the Panel shall be to carry out, for each calendar year, public hearings concerning the operation of the three prisons with the highest incidence of prison rape and the two prisons with the lowest incidence of prison rape in each category of facilities identified under subsection (c)(4). The Panel shall hold a separate hearing regarding the three Federal or State prisons with the highest incidence of prison rape. The purpose of these hearings shall be to collect evidence to aid in the identification of common characteristics of both victims and perpetrators of prison rape, and the identification of common characteristics of prisons and prison systems with a high incidence of prison rape, and the identification of common characteristics of prisons and prison systems that appear to have been successful in deterring prison rape.
 
 #### (B) Testimony at hearings
 
@@ -130,5 +134,11 @@ In carrying out its duties under this section, the Attorney General may—
 
 There are authorized to be appropriated $15,000,000 for each of fiscal years 2004 through 2010 to carry out this section.
 
-(Pub. L. 108–79, §4, Sept. 4, 2003, 117 Stat. 975.)
+(Pub. L. 108–79, §4, Sept. 4, 2003, 117 Stat. 975; Pub. L. 109–108, title I, §113(a), Nov. 22, 2005, 119 Stat. 2305.)
+
+#### Amendments
+
+2005—Subsec. (a)(5). Pub. L. 109–108, §113(a)(1), inserted “, except as authorized in paragraph (7)” before period at end.
+
+Subsec. (a)(7). Pub. L. 109–108, §113(a)(2), added par. (7).
 

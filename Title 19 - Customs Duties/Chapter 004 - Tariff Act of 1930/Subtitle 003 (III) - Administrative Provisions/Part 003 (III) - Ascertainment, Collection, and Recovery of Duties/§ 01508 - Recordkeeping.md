@@ -138,29 +138,63 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 &emsp;Records and supporting documents shall be kept by the person who issued a Chile FTA Certificate of Origin for at least 5 years after the date on which the certificate was issued.
 
-#### (g) Penalties
+#### (g) Certifications of origin for goods exported under the Dominican Republic-Central America-United States Free Trade Agreement
 
-Any person who fails to retain records and supporting documents required by subsection (f) of this section or the regulations issued to implement that subsection shall be liable for the greater of—
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Records and supporting documents
+
+&emsp;&emsp;The term “records and supporting documents” means, with respect to an exported good under paragraph (2), records and documents related to the origin of the good, including—
+
+&emsp;&emsp;&emsp;(i) the purchase, cost, and value of, and payment for, the good;
+
+&emsp;&emsp;&emsp;(ii) the purchase, cost, and value of, and payment for, all materials, including indirect materials, used in the production of the good; and
+
+&emsp;&emsp;&emsp;(iii) the production of the good in the form in which it was exported.
+
+#### (B) CAFTA–DR certification of origin
+
+&emsp;&emsp;The term “CAFTA–DR certification of origin” means the certification established under article 4.16 of the Dominican Republic-Central America-United States Free Trade Agreement that a good qualifies as an originating good under such Agreement.
+
+#### (2) Exports to CAFTA–DR countries
+
+&emsp;Any person who completes and issues a CAFTA–DR certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+
+#### (3) Retention period
+
+&emsp;Records and supporting documents shall be kept by the person who issued a CAFTA–DR certification of origin for at least 5 years after the date on which the certification was issued.
+
+#### (h) Penalties
+
+Any person who fails to retain records and supporting documents required by subsection (f) or (g) of this section or the regulations issued to implement either such subsection shall be liable for the greater of—
 
 &emsp;(1) a civil penalty not to exceed $10,000; or
 
 &emsp;(2) the general record keeping penalty that applies under the customs laws of the United States.
 
-(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933.)
+(June 17, 1930, ch. 497, title IV, §508, as added Pub. L. 95–410, title I, §104, Oct. 3, 1978, 92 Stat. 889; amended Pub. L. 100–449, title II, §205(b), Sept. 28, 1988, 102 Stat. 1864; Pub. L. 103–182, title II, §205(a), title VI, §614, Dec. 8, 1993, 107 Stat. 2093, 2174; Pub. L. 104–295, §3(a)(6)(B), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 108–77, title II, §§207, 209, Sept. 3, 2003, 117 Stat. 931, 933; Pub. L. 109–53, title II, §208, Aug. 2, 2005, 119 Stat. 485.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 #### References in Text
 
-The customs laws, referred to in subsecs. (e)(1)(B) and (g)(2), are classified generally to this title.
+The customs laws, referred to in subsecs. (e)(1)(B) and (h)(2), are classified generally to this title.
 
 #### Prior Provisions
 
 A prior section 1508, acts June 17, 1930, ch. 497, title IV, §508, 46 Stat. 732; Aug. 8, 1953, ch. 397, §19, 67 Stat. 518, related to commingling of goods, prior to repeal by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75, effective, pursuant to section 501(a) of Pub. L. 87–456, with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
+
+2005—Subsec. (g). Pub. L. 109–53, §§107(d), 208(2), temporarily added subsec. (g). Former subsec. (g) redesignated (h). See Effective and Termination Dates of 2005 Amendment note below.
+
+Subsec. (h). Pub. L. 109–53, §§107(d), 208(1), (3), temporarily redesignated subsec. (g) as (h) and, in introductory provisions, inserted “or (g)” after “(f)” and substituted “either such subsection” for “that subsection”. See Effective and Termination Dates of 2005 Amendment note below.
 
 2003—Subsec. (b). Pub. L. 108–77, §§107(c), 207(1), temporarily substituted “Exportations to NAFTA countries” for “Exportations to free trade countries” in heading. See Effective and Termination Dates of 2003 Amendment note below.
 
@@ -182,9 +216,13 @@ Subsec. (c). Pub. L. 103–182, §205(a)(2), amended generally subsec. (c), as a
 
 Pub. L. 103–182, §614(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The records required by subsection (a) and (b) of this section shall be kept for such periods of time, not to exceed 5 years from the date of entry, as the Secretary shall prescribe.” See Construction of 1993 Amendment note below.
 
-Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) readas follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
+Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any person who fails to retain records required by subsection (b) of this section or the regulations issued to implement that subsection shall be liable to a civil penalty not to exceed $10,000.”
 
 1988—Subsecs. (b) to (e). Pub. L. 100–449 added subsec. (b), redesignated former subsec. (b) as (c) and inserted “and (b)” after “subsection (a)”, redesignated former subsec. (c) as (d), and added subsec. (e).
+
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreementceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective and Termination Dates of 2003 Amendment
 

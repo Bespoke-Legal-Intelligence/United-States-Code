@@ -12,7 +12,7 @@ Section 2395, Pub. L. 88–210, title III, §351, as added Pub. L. 101–392, ti
 
 Section 2395a, Pub. L. 88–210, title III, §352, as added Pub. L. 101–392, title III, §309, Sept. 25, 1990, 104 Stat. 793, related to allotment to States.
 
-Section 2395b, Pub. L. 88–210, title III, §353, as added Pub. L. 101–392, title III, §309, Sept. 25, 1990, 104 Stat. 793, related to allocations to local educational agencies.
+Section 2395b, Pub. L. 88–210, title III, §353, as added Pub. L. 101–392, title III, §309, Sept. 25, 1990, 104 Stat.793, related to allocations to local educational agencies.
 
 Section 2395c, Pub. L. 88–210, title III, §354, as added Pub. L. 101–392, title III, §309, Sept. 25, 1990, 104 Stat. 793, related to use of grant funds.
 

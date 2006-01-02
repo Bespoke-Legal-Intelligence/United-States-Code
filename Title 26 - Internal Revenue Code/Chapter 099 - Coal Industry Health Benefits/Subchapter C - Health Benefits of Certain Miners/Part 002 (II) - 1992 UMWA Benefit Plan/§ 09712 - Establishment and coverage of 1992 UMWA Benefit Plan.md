@@ -40,7 +40,7 @@
 
 #### (2) Managed care
 
-&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of thissubsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
+&emsp;The 1992 UMWA Benefit Plan shall develop managed care and cost containment rules which shall be applicable to the payment of benefits under this subsection. Application of such rules shall not cause the plan to be treated as failing to meet the requirements of this subsection. Such rules shall preserve freedom of choice while reinforcing managed care network use by allowing a point of service decision as to whether a network medical provider will be used. Major elements of such rules may include, but are not limited to, elements described in paragraph (3).
 
 #### (3) Major elements of rules
 
@@ -66,7 +66,7 @@
 
 #### (5) Standards of quality
 
-&emsp;Any managed care system or cost containment adopted by the board of trustees of the 1992 UMWA Benefit Plan or by a last signatory operator may not be implemented unless it is approved by, and meets the standards of quality adopted by, a medical peer review panel, which has been established—
+&emsp;Any managed care system or cost containment adopted by the board of trustees of the 1992 UMWA Benefit Plan or by a last signatoryoperator may not be implemented unless it is approved by, and meets the standards of quality adopted by, a medical peer review panel, which has been established—
 
 &emsp;&emsp;(A) by the settlors, or
 
@@ -115,8 +115,4 @@
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9701, 9711 of this title.
 

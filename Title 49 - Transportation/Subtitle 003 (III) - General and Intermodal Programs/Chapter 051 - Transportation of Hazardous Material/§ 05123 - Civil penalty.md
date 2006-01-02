@@ -2,17 +2,21 @@
 
 (a)
 
-Penalty.—(1) A person that knowingly violates this chapter or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of at least $250 but not more than $25,000 for each violation. A person acts knowingly when—
+Penalty.—(1) A person that knowingly violates this chapter or a regulation, order, special permit, or approval issued under this chapter is liable to the United States Government for a civil penalty of at least $250 but not more than $50,000 for each violation. A person acts knowingly when—
 
 &emsp;(A) the person has actual knowledge of the facts giving rise to the violation; or
 
 &emsp;(B) a reasonable person acting in the circumstances and exercising reasonable care would have that knowledge.
 
-(2) A separate violation occurs for each day the violation, committed by a person that transports or causes to be transported hazardous material, continues.
+(2) If the Secretary finds that a violation under paragraph (1) results in death, serious illness, or severe injury to any person or substantial destruction of property, the Secretary may increase the amount of the civil penalty for such violation to not more than $100,000.
+
+(3) If the violation is related to training, paragraph (1) shall be applied by substituting “$450” for “$250”.
+
+(4) A separate violation occurs for each day the violation, committed by a person that transports or causes to be transported hazardous material, continues.
 
 (b)
 
-Hearing Requirement.—The Secretary of Transportation may find that a person has violated this chapter or a regulation prescribed under this chapter only after notice and an opportunity for a hearing. The Secretary shall impose a penalty under this section by giving theperson written notice of the amount of the penalty.
+Hearing Requirement.—The Secretary may find that a person has violated this chapter or a regulation prescribed or order, special permit, or approval issued under this chapter only after notice and an opportunity for a hearing. The Secretary shall impose a penalty under this section by giving the person written notice of the amount of the penalty.
 
 (c)
 
@@ -26,7 +30,7 @@ Penalty Considerations.—In determining the amount of a civil penalty under thi
 
 (d)
 
-Civil Actions To Collect.—The Attorney General may bring a civil action in an appropriate district court of the United States to collect a civil penalty under this section.
+Civil Actions To Collect.—The Attorney General may bring a civil action in an appropriate district court of the United States to collect a civil penalty under this section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.
 
 (e)
 
@@ -40,7 +44,7 @@ Setoff.—The Government may deduct the amount of a civil penalty imposed or com
 
 Depositing Amounts Collected.—Amounts collected under this section shall be deposited in the Treasury as miscellaneous receipts.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 780.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 780; Pub. L. 109–59, title VII, §§7120(a)–(c), 7126, Aug. 10, 2005, 119 Stat. 1905, 1906, 1909.)
 
 Historical and Revision Notes
 
@@ -97,4 +101,28 @@ In subsection (b), the word “impose” is substituted for “assessed” for c
 In subsection (c)(2), the words “the violator” are substituted for “the person found to have committed such violation” to eliminate unnecessary words.
 
 In subsection (f), the words “imposed or compromised” are substituted for “of such penalty, when finally determined (or agreed upon in compromise)” to eliminate unnecessary words and for consistency. The words “liable for the penalty” are substituted for “charged” for clarity.
+
+#### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59, §7120(a)(1), in introductory provisions substituted “regulation, order, special permit, or approval issued” for “regulation prescribed or order issued” and “$50,000” for “$25,000”.
+
+Subsec. (a)(2) to (4). Pub. L. 109–59, §7120(a)(2), (3), added pars. (2) and (3) and redesignated former par. (2) as (4).
+
+Subsec. (b). Pub. L. 109–59, §7126, substituted “Secretary may” for “Secretary of Transportation may”.
+
+Pub. L. 109–59, §7120(b), substituted “regulation prescribed or order, special permit, or approval issued” for “regulation prescribed”.
+
+Subsec. (d). Pub. L. 109–59, §7120(c), substituted “section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review.” for “section.”
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title VII, §7120(d), Aug. 10, 2005, 119 Stat. 1906, provided that:
+
+“(1)
+
+Hearing requirement.—The amendment made by subsection (b) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 10, 2005\], and shall apply with respect to violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur on or after that date.
+
+“(2)
+
+Civil actions to collect.—The amendment made by subsection (c) \[amending this section\] shall apply with respect to civil penalties imposed on violations described in section 5123(a) of title 49, United States Code (as amended by this section), that occur on or after the date of enactment of this Act \[Aug. 10, 2005\].”
 

@@ -6,7 +6,7 @@ An individual who was a former spouse of a participant, former participant, or r
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
-&emsp;(2) if not married to the participant throughout such creditable service, equal to thatformer spouse's pro rata share of 50 percent of such annuity.
+&emsp;(2) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 50 percent of such annuity.
 
 #### (b) Limitations
 

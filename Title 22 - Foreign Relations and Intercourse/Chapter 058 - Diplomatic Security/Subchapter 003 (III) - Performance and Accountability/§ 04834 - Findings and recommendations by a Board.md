@@ -34,7 +34,7 @@ Whenever a Board finds reasonable cause to believe that an individual described 
 
 #### (1) Program recommendations
 
-&emsp;In any case in which a Board transmits recommendations to the Secretary of State under subsection (b) of this section, the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
+&emsp;In any case in which a Board transmits recommendations to the Secretary of State undersubsection (b) of this section, the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
 
 #### (2) Personnel recommendations
 

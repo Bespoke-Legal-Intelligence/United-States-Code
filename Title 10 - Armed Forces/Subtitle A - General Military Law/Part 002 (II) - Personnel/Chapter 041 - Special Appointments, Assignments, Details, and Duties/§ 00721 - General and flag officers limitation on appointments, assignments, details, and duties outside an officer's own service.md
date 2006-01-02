@@ -2,7 +2,7 @@
 
 (a)
 
-Limitation.—An officer described in subsection (b) may not be appointed, assigned, ordetailed for a period in excess of 180 days to a position external to that officer's armed force if, immediately following such appointment, assignment, or detail, the number of officers described in subsection (b) serving in positions external to such officers’ armed force would be in excess of 26.5 percent of the total number of the officers described in subsection (b).
+Limitation.—An officer described in subsection (b) may not be appointed, assigned, or detailed for a period in excess of 180 days to a position external to that officer's armed force if, immediately following such appointment, assignment, or detail, the number of officers described in subsection (b) serving in positions external to such officers’ armed force would be in excess of 26.5 percent of the total number of the officers described in subsection (b).
 
 (b)
 
@@ -12,7 +12,7 @@ Covered Officers.—The officers covered by subsection (a), and to be counted fo
 
 &emsp;(2) Any general or flag officer serving in a joint duty assignment position designated by the Chairman of the Joint Chiefs of Staff under section 526(b) of this title.
 
-&emsp;(3) Any colonel or Navy captain counted for purposes of section 777(d)(1) of this title.
+&emsp;(3) Any colonel or Navy captain counted for purposes of section 777(d)(1) <sup>1</sup> of this title.
 
 (c)
 
@@ -43,6 +43,10 @@ Days.—For purposes of this section, the appointment, assignment, or detail of 
 Waiver During Period of War or National Emergency.—The President may suspend the operation of this section during any period of war or of national emergency declared by Congress or the President.
 
 (Added Pub. L. 105–85, div. A, title V, §501(a), Nov. 18, 1997, 111 Stat. 1723; amended Pub. L. 107–314, div. A, title X, §1041(a)(4), Dec. 2, 2002, 116 Stat. 2645.)
+
+#### References in Text
+
+Section 777(d)(1) of this title, referred to in subsec. (b)(3), was redesignated section 777(d)(2) of this title by Pub. L. 108–375, div. A, title V, §503(1), Oct. 28, 2004, 118 Stat. 1875.
 
 #### Amendments
 

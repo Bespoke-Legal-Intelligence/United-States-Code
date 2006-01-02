@@ -26,7 +26,7 @@ The Congress makes the following findings:
 
 &emsp;(11) There were no survivors of the attack on these aircraft, and the crew of a third aircraft managed to escape this criminal attack by Castro's Air Force.
 
-&emsp;(12) The crew members of the destroyed planes, Pablo Morales, Carlos Costa, Mario de la Pena, and Armando Alejandre, were United States citizens from Miami flying with Brothers to the Rescue on a voluntary basis.
+&emsp;(12) The crew members of the destroyed planes, Pablo Morales, Carlos Costa, Mario dela Pena, and Armando Alejandre, were United States citizens from Miami flying with Brothers to the Rescue on a voluntary basis.
 
 &emsp;(13) It is incumbent upon the United States Government to protect the lives and livelihoods of United States citizens as well as the rights of free passage and humanitarian missions.
 

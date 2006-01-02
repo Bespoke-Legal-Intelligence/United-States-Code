@@ -34,7 +34,3 @@ In subsection (a), the words “a member of” are substituted for the words “
 
 In subsection (b), the words “appointment or promotion”, “and branch of the service”, “official”, and “by such warrant” are omitted as surplusage.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1524 of this title.
-

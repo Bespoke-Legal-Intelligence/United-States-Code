@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (2) Limitation
 
-&emsp;The maximum amount of equity investments issued by a qualified community development entity which may be designated underparagraph (1)(C) by such entity shall not exceed the portion of the limitation amount allocated under subsection (f) to such entity.
+&emsp;The maximum amount of equity investments issued by a qualified community development entity which may be designated under paragraph (1)(C) by such entity shall not exceed the portion of the limitation amount allocated under subsection (f) to such entity.
 
 #### (3) Safe harbor for determining use of cash
 
@@ -148,19 +148,31 @@ For purposes of this section—
 
 > &emsp;Subparagraph (B) shall be applied using possessionwide median family income in the case of census tracts located within a possession of the United States.
 
-#### (2) Targeted areas
+#### (2) Targeted populations
 
-&emsp;The Secretary may designate any area within any census tract as a low-income community if—
-
-&emsp;&emsp;(A) the boundary of such area is continuous,
-
-&emsp;&emsp;(B) the area would satisfy the requirements of paragraph (1) if it were a census tract, and
-
-&emsp;&emsp;(C) an inadequate access to investment capital exists in such area.
+&emsp;The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities are qualified active low-income community businesses with respect to such populations.
 
 #### (3) Areas not within census tracts
 
 &emsp;In the case of an area which is not tracted for population census tracts, the equivalent county divisions (as defined by the Bureau of the Census for purposes of defining poverty areas) shall be used for purposes of determining poverty rates and median family income.
+
+#### (4) Tracts with low population
+
+&emsp;A population census tract with a population of less than 2,000 shall be treated as a low-income community for purposes of this section if such tract—
+
+&emsp;&emsp;(A) is within an empowerment zone the designation of which is in effect under section 1391, and
+
+&emsp;&emsp;(B) is contiguous to 1 or more low-income communities (determined without regard to this paragraph).
+
+#### (5) Modification of income requirement for census tracts within high migration rural counties
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a population census tract located within a high migration rural county, paragraph (1)(B)(i) shall be applied by substituting “85 percent” for “80 percent”.
+
+#### (B) High migration rural county
+
+&emsp;&emsp;For purposes of this paragraph, the term “high migration rural county” means any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period.
 
 #### (f) National limitation on amount of investments designated
 
@@ -226,7 +238,7 @@ For purposes of this section—
 
 #### (h) Basis reduction
 
-The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to suchinvestment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
+The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
 
 #### (i) Regulations
 
@@ -242,7 +254,29 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 &emsp;(5) which apply the provisions of this section to newly formed entities.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amendedPub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432.)
+
+#### Amendments
+
+2004—Subsec. (e)(2). Pub. L. 108–357, §221(a), amended heading and text of par. (2) generally, substituting provisions relating to regulations under which 1 or more targeted populations could be treated as low-income communities for provisions authorizing Secretary to designate any area within any census tract as a low-income community if certain conditions were met.
+
+Subsec. (e)(4). Pub. L. 108–357, §221(b), added par. (4).
+
+Subsec. (e)(5). Pub. L. 108–357, §223(a), added par. (5).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §221(c), Oct. 22, 2004, 118 Stat. 1431, provided that:
+
+“(1)
+
+Targeted areas.—The amendment made by subsection (a) \[amending this section\] shall apply to designations made by the Secretary of the Treasury after the date of the enactment of this Act \[Oct. 22, 2004\].
+
+“(2)
+
+Tracts with low population.—The amendment made by subsection (b) \[amending this section\] shall apply to investments made after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title II, §223(b), Oct. 22, 2004, 118 Stat. 1432, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 121(a) of the Community Renewal Tax Relief Act of 2000 \[Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], enacting this section\].”
 
 #### Effective Date
 
@@ -261,8 +295,4 @@ Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 276
 #### Audit and Report
 
 Pub. L. 106–554, §1(a)(7) \[title I, §121(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 39, 196 of this title.
 

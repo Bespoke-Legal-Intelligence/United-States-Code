@@ -98,7 +98,7 @@ Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated s
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
+1991—Subsec. (a)(2). Pub. L. 102–190 inserted provisions relating to fresh or frozen fish as defined in 16 U.S.C. 4003(3) and substituted “meat, meat food product, or fish” for “meat or meat food product”.
 
 1988—Subsec. (a). Pub. L. 100–496, §6(1), designated existing provisions as subsec. (a).
 

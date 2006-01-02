@@ -10,7 +10,7 @@ For purposes of this subchapter, the term “patronage dividend” means an amou
 
 &emsp;(3) which is determined by reference to the net earnings of the organization from business done with or for its patrons.
 
-> Such term does not include any amount paid to a patron to the extent that (A) such amount is out of earnings other than from business done with or for patrons, or (B) such amount is out of earnings from business done with or for other patrons to whom no amounts are paid, or to whom smaller amounts are paid, with respect to substantially identical transactions.
+> Such term does not include any amount paid to a patron to the extent that (A) such amount is out of earnings other than from business done with or for patrons, or (B) such amount is out of earnings from business done with or for other patrons to whom no amounts are paid, or to whom smaller amounts are paid, with respect to substantially identical transactions. For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.
 
 #### (b) Written notice of allocation
 
@@ -86,7 +86,7 @@ For purposes of this subchapter, the term “per-unit retain certificate” mean
 
 #### (1) Defined
 
-&emsp;For purposes of this subchapter, the term “qualified per-unit retain certificate” means any per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
+&emsp;For purposes of this subchapter, the term “qualified per-unit retain certificate” meansany per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
 
 #### (2) Manner of obtaining agreement
 
@@ -126,7 +126,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 #### (1) Optional netting of patronage gains and losses permitted
 
-&emsp;The net earnings of such organization may, at its option, be determined by offsetting patronage losses (including any patronage loss carried to such year) which are attributable to1 or more allocation units (whether such units are functional, divisional, departmental, geographic, or otherwise) against patronage earnings of 1 or more other such allocation units.
+&emsp;The net earnings of such organization may, at its option, be determined by offsetting patronage losses (including any patronage loss carried to such year) which are attributable to 1 or more allocation units (whether such units are functional, divisional, departmental, geographic, or otherwise) against patronage earnings of 1 or more other such allocation units.
 
 #### (2) Certain netting permitted after section 381 transactions
 
@@ -170,13 +170,21 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 &emsp;For purposes of this subsection, the terms “patronage earnings” and “patronage losses” means earnings and losses, respectively, which are derived from business done with or for patrons of the organization.
 
-(Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, §211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, §911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, §1901(a)(153), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–600, title III, §316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, §13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, §11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555.)
+#### (k) Cooperative marketing includes value-added processing involving animals
+
+For purposes of section 521 and this subchapter, the marketing of the products of members or other producers shall include the feeding of such products to cattle, hogs, fish, chickens, or other animals and the sale of the resulting animals or animal products.
+
+(Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, §211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, §911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, §1901(a)(153), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–600, title III, §316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, §13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, §11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 108–357, title III, §§312(a), 316(a), Oct. 22, 2004, 118 Stat. 1467, 1469.)
 
 #### References in Text
 
 The Federal income tax laws, referred to in subsec. (c)(4), are classified generally to this title.
 
 #### Amendments
+
+2004—Subsec. (a). Pub. L. 108–357, §312(a), inserted at end of concluding provisions “For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year.”
+
+Subsec. (k). Pub. L. 108–357, §316(a), added subsec. (k).
 
 1990—Subsec. (k). Pub. L. 101–508 struck out subsec. (k) which cross-referenced section 46(h) for provisions relating to apportionment of investment credit between cooperative organizations and their patrons.
 
@@ -194,9 +202,15 @@ Subsec. (h)(2)(B)(i). Pub. L. 94–455, §1901(a)(153)(B), substituted “Novemb
 
 Subsecs. (f) to (i). Pub. L. 89–809, §211(c)(2), added subsecs. (f) to (i).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title III, §312(b), Oct. 22, 2004, 118 Stat. 1467, provided that: “The amendment made by this section \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by section 316(a) of Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, see section 316(c) of Pub. L. 108–357, set out as a note under section 521 of this title.
+
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -216,7 +230,7 @@ No inference.—Nothing in the amendments made by this section \[amending this s
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to taxable years ending after October 31, 1978, see section 316(c) ofPub. L. 95–600, set out as a note under section 46 of this title.
+Amendment by Pub. L. 95–600 applicable to taxable years ending after October 31, 1978, see section 316(c) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -232,13 +246,9 @@ Section applicable, except as otherwise provided, to taxable years of organizati
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Per-Unit Retain Certificates Covered by Written Agreements Between Oct. 14, 1965, and Nov. 13, 1966: Transition Treatment of By-Law Provisions
 
 Section 211(f) of Pub. L. 89–809 provided that a written agreement between a patron and a cooperative association which met certain qualifications and was entered into after Oct. 14, 1965 and before Nov. 13, 1966, and which was in effect on Nov. 13, 1966, was to be treated for purposes of subsec. (h) of this section as if entered into after Nov. 13, 1966.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 521, 1382, 6044, 6072 of this title; title 7 section 1445–1; title 12 section 3019.
 

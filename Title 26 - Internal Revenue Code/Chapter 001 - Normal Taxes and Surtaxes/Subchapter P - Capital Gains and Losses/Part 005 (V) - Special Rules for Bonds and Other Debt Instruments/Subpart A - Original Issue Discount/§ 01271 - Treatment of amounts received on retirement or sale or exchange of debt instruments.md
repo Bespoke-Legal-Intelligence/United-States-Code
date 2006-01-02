@@ -44,7 +44,7 @@ For purposes of this title—
 
 #### (D) Ratable share
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (E), the ratableshare of the acquisition discount is an amount which bears the same ratio to such discount as—
+&emsp;&emsp;For purposes of this paragraph, except as provided in subparagraph (E), the ratable share of the acquisition discount is an amount which bears the same ratio to such discount as—
 
 &emsp;&emsp;&emsp;(i) the number of days which the taxpayer held the obligation, bears to
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 
@@ -550,7 +550,7 @@ Other Miscellaneous Changes.—
 
 &emsp;“(1)
 
-Accrual period.—In the case of any obligation issued after July 1, 1982, and before January 1, 1985, the accrual period, for purposes of section 1272(a) of the Internal Revenue Code of 1986 (as amended by section 41(a)), shall be a 1-year period (or shorter period to maturity) beginning on the day in the calendaryear which corresponds to the date of original issue of the obligation.
+Accrual period.—In the case of any obligation issued after July 1, 1982, and before January 1, 1985, the accrual period, for purposes of section 1272(a) of the Internal Revenue Code of 1986 (as amended by section 41(a)), shall be a 1-year period (or shorter period to maturity) beginning on the day in the calendar year which corresponds to the date of original issue of the obligation.
 
 &emsp;“(2)
 
@@ -565,8 +565,4 @@ Clarification That Prior Effective Date Rules Not Affected.—Nothing in the ame
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 1037, 1283, 1286 of this title.
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1857, act July 14, 1955, ch. 360, title I, §101, formerly §1, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 392; renumbered title I, §101, and amended Oct. 20, 1965, Pub. L. 89–272, title I, §101(2), (3), 79 Stat. 992; Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 485, which related to Congressional findings and declaration of purpose, was transferred to section 7401 of this title.
+Section 1857, act July 14, 1955, ch. 360, title I, §101, formerly §1, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 392; renumbered title I, §101, and amended Oct. 20,1965, Pub. L. 89–272, title I, §101(2), (3), 79 Stat. 992; Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 485, which related to Congressional findings and declaration of purpose, was transferred to section 7401 of this title.
 
 Section 1857a, act July 14, 1955, ch. 360, title I, §102, formerly §2, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 393; renumbered title I, §102, Oct. 20, 1965, Pub. L. 89–272, title I, §101(3), 79 Stat. 992; amended Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 485; Dec. 31, 1970, Pub. L. 91–604, §15(c)(2), 84 Stat. 1713, which related to cooperative activities, was transferred to section 7402 of this title.
 

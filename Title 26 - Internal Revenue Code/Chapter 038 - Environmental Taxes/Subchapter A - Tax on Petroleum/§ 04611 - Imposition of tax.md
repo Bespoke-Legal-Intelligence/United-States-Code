@@ -86,19 +86,33 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply after December 31, 1989, and before January 1, 1995.
+&emsp;Except as provided in paragraphs (2) and (3), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006, or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
 
-#### (2) No tax if unobligated balance in fund exceeds $1,000,000,000
+#### (2) Fund balance
 
-&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply during any calendar quarter if the Secretary estimates that as of the close of the preceding calendar quarter the unobligated balance in the Oil Spill Liability Trust Fund exceeds $1,000,000,000.
+&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply during a calendar quarter if the Secretary estimates that, as of the close of the preceding calendar quarter, the unobligated balance in the Oil Spill Liability Trust Fund exceeds $2,700,000,000.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, titleV, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445.)
+#### (3) Termination
+
+&emsp;The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2014.
+
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058.)
 
 #### Codification
 
 Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+
+2005—Subsec. (f). Pub. L. 109–58 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply after December 31, 1989, and before January 1, 1995.
+
+“(2)
+
+No tax if unobligated balance in fund exceeds $1,000,000,000.—The Oil Spill Liability Trust Fund financing rate shall not apply during any calendar quarter if the Secretary estimates that as of the close of the preceding calendar quarter the unobligated balance in the Oil Spill Liability Trust Fund exceeds $1,000,000,000.”
 
 1990—Subsec. (e)(1). Pub. L. 101–508, §11231(a)(1)(B), substituted “January 1, 1996” for “January 1, 1992”.
 
@@ -179,8 +193,4 @@ Section 211(c) of Pub. L. 96–510 provided that: “The amendments made by this
 #### Short Title
 
 For short title of title II of Pub. L. 96–510 as the “Hazardous Substance Response Revenue Act of 1980”, see Short Title of 1980 Amendment note, set out under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 59A, 4612, 4661, 4671, 9507, 9509 of this title.
 

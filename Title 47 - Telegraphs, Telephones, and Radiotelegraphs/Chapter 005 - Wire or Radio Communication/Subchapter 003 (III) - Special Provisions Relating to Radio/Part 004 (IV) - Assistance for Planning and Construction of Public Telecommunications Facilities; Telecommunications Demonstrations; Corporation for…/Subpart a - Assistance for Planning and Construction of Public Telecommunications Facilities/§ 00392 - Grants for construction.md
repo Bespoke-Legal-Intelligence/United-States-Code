@@ -30,7 +30,7 @@ Any studies conducted by or for any grant recipient under this section shall be 
 
 #### (e) Rules and regulations
 
-The Secretary shall establish such rules and regulations as may be necessary to carry out this subpart, including rules and regulations relating to the order of priority in approving applications for construction projects and relating to determining the amount of each grant for such projects.
+The Secretary shall establish such rules and regulations as may be necessary to carry outthis subpart, including rules and regulations relating to the order of priority in approving applications for construction projects and relating to determining the amount of each grant for such projects.
 
 #### (f) Minorities and women
 
@@ -80,7 +80,7 @@ Subsec. (a)(2) to (4). Pub. L. 90–129, §103(b)(5), struck out “television�
 
 Subsec. (a)(5). Pub. L. 90–129, §103(b)(6), added par. (5).
 
-Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for construction of noncommercial educational television and radio broadcasting facilities in any State to 81/2 per centum of fiscal year appropriation for former $1,000,000 limitation for construction of educational television broadcasting facilities in any State.
+Subsec. (b). Pub. L. 90–129, §102, substituted limitation on grants for construction of noncommercial educational television and radio broadcasting facilities in any State to 81/2 per centum of fiscal year appropriationfor former $1,000,000 limitation for construction of educational television broadcasting facilities in any State.
 
 Subsec. (c). Pub. L. 90–129, §103(c), designated existing provisions as par. (1), restricted such provisions to noncommercial educational television broadcasting facilities, and added par. (2).
 
@@ -106,7 +106,7 @@ Section 103(b) of Pub. L. 95–567 provided that:
 
 “(2) Subject to the provisions of section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], the following are hereby transferred to the Secretary of Commerce for appropriate allocation—
 
-&emsp;“(A) the personnel employed in connection with or in support of, or as an integral part of the mission of,the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
+&emsp;“(A) the personnel employed in connection with or in support of, or as an integral part of the mission of, the functions transferred to the Secretary of Commerce from the Secretary of Health, Education, and Welfare by paragraph (1); and
 
 &emsp;“(B) the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, arising from, available for, or to be made available for, or in connection with, the functions described in subparagraph (A).
 

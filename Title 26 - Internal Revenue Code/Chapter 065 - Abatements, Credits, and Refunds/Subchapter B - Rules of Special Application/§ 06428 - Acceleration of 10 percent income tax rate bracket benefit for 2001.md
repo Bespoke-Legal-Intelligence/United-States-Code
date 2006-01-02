@@ -90,7 +90,7 @@ Joint returns.—In the case of a refund or credit made or allowed under subsect
 
 Coordination with estimated tax.—The credit under this section shall be treated for purposes of section 6654(f) in the same manner as a credit under subpart A of part IV of subchapter A of chapter 1.”
 
-Subsec. (e)(2). Pub. L. 107–147, §411(a)(2)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the advance refundamount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (d) and this subsection) had applied to such taxable year.”
+Subsec. (e)(2). Pub. L. 107–147, §411(a)(2)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1), the advance refund amount is the amount that would have been allowed as a credit under this section for such first taxable year if this section (other than subsection (d) and this subsection) had applied to such taxable year.”
 
 #### Effective Date of 2002 Amendment
 
@@ -101,8 +101,4 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 Section applicable to taxable years beginning after Dec. 31, 2000, see section 101(d)(1) of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 Section inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if it had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1 of this title.
 

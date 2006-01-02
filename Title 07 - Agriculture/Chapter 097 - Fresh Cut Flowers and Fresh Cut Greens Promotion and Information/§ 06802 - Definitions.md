@@ -70,7 +70,7 @@ As used in this chapter:
 
 #### (II) Sales
 
-&emsp;&emsp;&emsp;&emsp;Each direct sale to a consumer by a qualified handler described in subclause (I) shall be treated as a sale to a retailer or exempt handler in an amount calculated as provided in subparagraph (C).
+&emsp;&emsp;&emsp;&emsp;Each direct sale to a consumer by a qualified handler described in subclause\(I) shall be treated as a sale to a retailer or exempt handler in an amount calculated as provided in subparagraph (C).
 
 #### (III) Definitions
 

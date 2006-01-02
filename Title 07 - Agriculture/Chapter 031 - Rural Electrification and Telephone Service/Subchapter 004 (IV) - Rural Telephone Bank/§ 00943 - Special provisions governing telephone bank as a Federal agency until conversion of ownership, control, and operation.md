@@ -16,7 +16,7 @@ Until the ownership, control, and operation of the telephone bank is converted a
 
 #### (d) Appointment and compensation of personnel
 
-&emsp;the telephone bank may without regard to the civil service <sup>1</sup> classification laws appoint and fix the compensation of such officers and employees of the telephone bank as it may deem necessary;
+&emsp;the telephone bank may without regard to the civil service <sup>1</sup> classification laws appoint and fix the compensation of such officers andemployees of the telephone bank as it may deem necessary;
 
 #### (e) Tort claims and litigation
 

@@ -22,5 +22,5 @@ In subsec. (a), “May 4, 1980” substituted for “the effective date of this 
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for termination of Office of Dependents’ Education of Department of Defense whenever President exercises authority under section 3442(a) of this title.
+1985—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for termination of Office of Dependents’ Education of Department ofDefense whenever President exercises authority under section 3442(a) of this title.
 

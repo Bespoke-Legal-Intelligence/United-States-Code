@@ -62,7 +62,7 @@ For purposes of this part, guaranteed renewable life, accident, and health insur
 
 #### (f) Amounts not involving life, accident, or health contingencies
 
-For purposes only of determining under subsection (a) whether or not an insurance company is a life insurance company, amounts set aside and held at interest to satisfy obligations under contracts which do not contain permanent guarantees with respect to life, accident, or healthcontingencies shall not be included in reserves described in paragraph (1) or (3) of subsection (c).
+For purposes only of determining under subsection (a) whether or not an insurance company is a life insurance company, amounts set aside and held at interest to satisfy obligations under contracts which do not contain permanent guarantees with respect to life, accident, or health contingencies shall not be included in reserves described in paragraph (1) or (3) of subsection (c).
 
 #### (g) Burial and funeral benefit insurance companies
 
@@ -108,7 +108,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Election To Treat Individual Noncancellable Accident and Health Contracts as Cancellable
 
@@ -143,8 +143,4 @@ Effective date.—The amendment made by this subsection \[amending section 217(i
 \[“(3)
 
 Revenue loss limited.—The decrease in the amount of Federal revenue by reason of the amendment made by this subsection shall not exceed $300,000 per taxable year.”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 220, 223, 453B, 465, 594, 807, 811, 817, 817A, 842, 848, 7702B of this title.
 

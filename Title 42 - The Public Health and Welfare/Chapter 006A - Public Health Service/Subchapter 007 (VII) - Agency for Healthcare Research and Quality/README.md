@@ -13,4 +13,5 @@ Another prior subchapter VII, related to education, research, training, and demo
 
 - [Part A - Establishment and General Duties](Part%20A%20-%20Establishment%20and%20General%20Duties/README.md)
 - [Part B - Health Care Improvement Research](Part%20B%20-%20Health%20Care%20Improvement%20Research/README.md)
-- [Part C - General Provisions](Part%20C%20-%20General%20Provisions/README.md)
+- [Part C - Patient Safety Improvement](Part%20C%20-%20Patient%20Safety%20Improvement/README.md)
+- [Part D - General Provisions](Part%20D%20-%20General%20Provisions/README.md)

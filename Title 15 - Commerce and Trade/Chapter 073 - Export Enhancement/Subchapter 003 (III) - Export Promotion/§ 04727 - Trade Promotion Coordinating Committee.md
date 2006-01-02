@@ -44,7 +44,7 @@ To carry out subsection (b) of this section, the TPCC shall develop and implemen
 
 &emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
 
-&emsp;(6) reflect the recommendations of the United States National Tourism Organizationto the degree considered appropriate by the TPCC.
+&emsp;(6) reflect the recommendations of the United States National Tourism Organization to the degree considered appropriate by the TPCC.
 
 #### (d) Membership
 
@@ -94,7 +94,7 @@ The chairperson of the TPCC shall prepare and submit to the Committee on Banking
 
 &emsp;(2) the implementation of sections 5823 and 5824 of title 22 <sup>1</sup> concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199; amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
+(Pub. L. 100–418, title II, §2312, as added Pub. L. 102–429, title II, §201, Oct. 21, 1992, 106 Stat. 2199;amended Pub. L. 104–66, title I, §1022(a), Dec. 21, 1995, 109 Stat. 713; Pub. L. 104–288, §8, Oct. 11, 1996, 110 Stat. 3407; Pub. L. 106–158, §7, Dec. 9, 1999, 113 Stat. 1747.)
 
 #### References in Text
 

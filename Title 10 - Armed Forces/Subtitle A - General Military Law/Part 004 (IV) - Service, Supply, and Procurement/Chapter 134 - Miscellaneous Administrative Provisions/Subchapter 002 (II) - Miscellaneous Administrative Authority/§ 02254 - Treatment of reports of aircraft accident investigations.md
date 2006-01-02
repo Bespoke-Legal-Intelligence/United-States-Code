@@ -48,7 +48,3 @@ Pub. L. 105–261, div. A, title X, §1065(c), Oct. 17, 1998, 112 Stat. 2134, pr
 
 Section 1071(b) of Pub. L. 102–484 provided that: “Regulations under section 2254 of title 10, United States Code, as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2255 of this title.
-

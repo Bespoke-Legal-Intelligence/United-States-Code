@@ -1,6 +1,6 @@
 ### §§991 to 996. Repealed. Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159
 
-Section 991, acts Aug. 13, 1946, ch. 957, title VI, §621, 60 Stat. 1014; Nov. 29, 1975, Pub. L. 94–141, title IV, §402,89 Stat. 764, related to promotion by selection of Foreign Service officers.
+Section 991, acts Aug. 13, 1946, ch. 957, title VI, §621, 60 Stat. 1014; Nov. 29, 1975, Pub. L. 94–141, title IV, §402, 89 Stat. 764, related to promotion by selection of Foreign Service officers.
 
 Section 992, act Aug. 13, 1946, ch. 957, title VI, §622, 60 Stat. 1014, related to eligibility for promotion.
 

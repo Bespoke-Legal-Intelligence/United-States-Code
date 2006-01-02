@@ -42,7 +42,7 @@ Provisions similar to this section were contained in section 1721 of this title 
 
 #### Coordination of Information and Assistance
 
-Pub. L. 100–689, title IV, §402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(24), (f)(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 100–689, title IV, §402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, §101(f) \[titleVIII, §405(d)(24), (f)(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 “(a)
 
@@ -214,7 +214,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;“(5) That the job which is the objective of the training program is one that involves significant training.
 
-&emsp;“(6) That the training content of the program is adequate, in light of the nature of the occupation for which training is to be provided and of comparable training opportunities in such occupation, to accomplish the training objective certified under clause (2) of subsection (e).
+&emsp;“(6) That the training content of the program is adequate, in light of the nature of the occupation forwhich training is to be provided and of comparable training opportunities in such occupation, to accomplish the training objective certified under clause (2) of subsection (e).
 
 &emsp;“(7) That each participating veteran will be employed full time in the program of job training.
 
@@ -226,7 +226,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;“(11) That the employer will furnish each participating veteran, before the veteran's entry into training, with a copy of the employer's certification under this subsection and will obtain and retain the veteran's signed acknowledgment of having received such certification.
 
-&emsp;“(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant tosection 14(b)(1)(A) during the veteran's normal workday.
+&emsp;“(12) That, as applicable, the employer will provide each participating veteran with the full opportunity to participate in a personal interview pursuant to section 14(b)(1)(A) during the veteran's normal workday.
 
 &emsp;“(13) That the program meets such other criteria as the Administrator may determine are essential for the effective implementation of the program established by this Act.
 
@@ -344,7 +344,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(3) The Secretary and the Administrator shall jointly provide, to the extent feasible—
 
-&emsp;“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3\[now subchapter II of chapter 77\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
+&emsp;“(A) a program of counseling or other services (to be provided pursuant to subchapter IV of chapter 3 \[now subchapter II of chapter 77\] of title 38, United States Code, and sections 1712A, 4103A, and 4104 of such title) designed to resolve difficulties that may be encountered by veterans during their training under this Act; and
 
 &emsp;“(B) a program of information services under which—
 
@@ -380,7 +380,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “authorization of appropriations
 
-“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
+“Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriatedpursuant to this section shall remain available until September 30, 1991.
 
 “(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
@@ -396,7 +396,7 @@ Sec. 17. Assistance may not be paid to an employer under this Act—
 
 #### “expansion of targeted delimiting date extension
 
-“Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, forthe purposes of section 3462(a)(3) of title 38, United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program.
+“Sec. 18. (a) Subject to the limitation on the availability of funds set forth in subsection (b), an associate degree program which is predominantly vocational in content may be considered by the Administrator, for the purposes of section 3462(a)(3) of title 38, United States Code, to be a course with an approved vocational objective if such degree program meets the requirements established in such title for approval of such program.
 
 “(b) Funds for the purpose of carrying out subsection (a) shall be derived only from amounts appropriated pursuant to the authorizations of appropriations in section 16. Not more than a total of $25,000,000 of amounts so appropriated for fiscal years 1984 and 1985 shall be available for that purpose.
 

@@ -68,7 +68,7 @@ In the case of the lessor or lessee under any section 467 rental agreement, ther
 
 &emsp;&emsp;(A) the prior understated inclusions, or
 
-&emsp;&emsp;(B) the excess of the amount realized (or in the case of a disposition other than a sale, exchange, or involuntary conversion, the fair market value of the property) over the adjusted basis of such property.
+&emsp;&emsp;(B) the excess of the amount realized (or in the case of a disposition other than a sale,exchange, or involuntary conversion, the fair market value of the property) over the adjusted basis of such property.
 
 > &emsp;The amount determined under subparagraph (B) shall be reduced by the amount of any gain treated as ordinary income on the disposition under any other provision of this subtitle.
 
@@ -272,7 +272,7 @@ Exceptions.—The amendments made by this section shall not apply—
 
 &emsp;“(B) subject to the provisions of paragraph (3), to any agreement to lease property if—
 
-&emsp;&emsp;“(i) there was in effect a firm plan, evidenced by a board of directors’ resolution, memorandum of agreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
+&emsp;&emsp;“(i) there was in effect a firm plan, evidenced by a board of directors’ resolution, memorandum ofagreement, or letter of intent on March 15, 1984, to enter into such an agreement, and
 
 &emsp;&emsp;“(ii) construction of the property was commenced (but such property was not placed in service) on or before March 15, 1984, and
 
@@ -360,13 +360,9 @@ Operating rules.—For purposes of this schedule—
 
 &emsp;“(C)
 
-Paragraph not to apply.—This paragraph shall not apply to any agreement if the sum of the present values of all payments under the agreement is greater than the sum of the present value of all thepayments deemed to be paid or received under the schedule under subparagraph (B). For purposes of computing any present value under this subparagraph, the annual discount rate shall be equal to 12 percent, compounded semiannually.”
+Paragraph not to apply.—This paragraph shall not apply to any agreement if the sum of the present values of all payments under the agreement is greater than the sum of the present value of all the payments deemed to be paid or received under the schedule under subparagraph (B). For purposes of computing any present value under this subparagraph, the annual discount rate shall be equal to 12 percent, compounded semiannually.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 857 of this title.
 

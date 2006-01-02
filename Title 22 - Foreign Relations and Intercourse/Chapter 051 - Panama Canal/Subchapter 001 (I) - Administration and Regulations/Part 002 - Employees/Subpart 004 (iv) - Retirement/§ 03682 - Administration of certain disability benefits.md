@@ -8,7 +8,7 @@
 
 #### (b) Additional amounts for relief under subsection (a)
 
-An additional amount of $20 per month shall be paid to each person who receives payment of cash relief under subsection (a) of this section and shall be allowed without regard to the limitations contained therein.
+An additional amount of $20 per month shall be paid to each person who receives payment of cash relief under subsection (a) of this sectionand shall be allowed without regard to the limitations contained therein.
 
 #### (c) Increases in cash relief payments
 
@@ -24,7 +24,7 @@ The Commission may pay cash relief to the widow of any former employee of the Ca
 
 &emsp;(3) a woman who has not remarried or assumed a common-law relationship with any other person.
 
-> Cash relief granted to such a widow shall not at any time exceed 50 percent of the rate at whichcash relief, inclusive of any additional payment under subsection (b) of this section, would be payable to the former employee were he then alive.
+> Cash relief granted to such a widow shall not at any time exceed 50 percent of the rate at which cash relief, inclusive of any additional payment under subsection (b) of this section, would be payable to the former employee were he then alive.
 
 #### (e) Applicability of subchapter III of chapter 83 of title 5
 

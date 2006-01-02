@@ -16,10 +16,13 @@
 | [2012\.](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md) | Support and services for eligible organizations and activities outside Department of Defense. |
 | [2013\.](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md) | Training at non-Government facilities. |
 | [2014\.](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md) | Administrative actions adversely affecting military training or other readiness activities. |
+| [2015\.](%C2%A7%2002015%20-%20Payment%20of%20expenses%20to%20obtain%20professional%20credentials.md) | Payment of expenses to obtain professional credentials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §538(b), Jan. 6, 2006, 119 Stat. 3250, added item 2015.
 
 1997—Pub. L. 105–85, div. A, title III, §325(b), Nov. 18, 1997, 111 Stat. 1679, added item 2014.
 
@@ -66,3 +69,4 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 - [&sect; 02012 - Support and services for eligible organizations and activities outside Department of Defense](%C2%A7%2002012%20-%20Support%20and%20services%20for%20eligible%20organizations%20and%20activities%20outside%20Department%20of%20Defense.md)
 - [&sect; 02013 - Training at non-Government facilities](%C2%A7%2002013%20-%20Training%20at%20non-Government%20facilities.md)
 - [&sect; 02014 - Administrative actions adversely affecting military training or other readiness activities](%C2%A7%2002014%20-%20Administrative%20actions%20adversely%20affecting%20military%20training%20or%20other%20readiness%20activities.md)
+- [&sect; 02015 - Payment of expenses to obtain professional credentials](%C2%A7%2002015%20-%20Payment%20of%20expenses%20to%20obtain%20professional%20credentials.md)

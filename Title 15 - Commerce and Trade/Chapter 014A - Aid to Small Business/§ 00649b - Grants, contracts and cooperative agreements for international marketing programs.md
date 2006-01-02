@@ -6,7 +6,7 @@ The Secretary of Commerce (hereinafter referred to as the “Secretary”) is au
 
 #### (b) Eligibility
 
-(1) To be eligible for a grant under this section, an applicant proposing to carry out a smallbusiness international marketing program must submit to the Secretary an application demonstrating, at a minimum:
+(1) To be eligible for a grant under this section, an applicant proposing to carry out a small business international marketing program must submit to the Secretary an application demonstrating, at a minimum:
 
 &emsp;(A) the geographical area to be served;
 

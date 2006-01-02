@@ -62,7 +62,7 @@ Payments of any grants or under any contracts pursuant to sections 450f and 450h
 
 (1) Beginning in fiscal year 1990, upon the election of a tribal organization, the Secretary shall use the calendar year as the basis for any contracts or agreements under this subchapter, unless the Secretary and the Indian tribe or tribal organization agree on a different period.
 
-(2) The Secretary shall, on or before April 1 of each year beginning in 1992, submit a report tothe Congress on the amounts of any additional obligation authority needed to implement this subsection in the next following fiscal year.
+(2) The Secretary shall, on or before April 1 of each year beginning in 1992, submit a report to the Congress on the amounts of any additional obligation authority needed to implement this subsection in the next following fiscal year.
 
 #### (e) Effective date for retrocession of contract
 
@@ -104,7 +104,7 @@ Contracts and grants with tribal organizations pursuant to sections 450f and 450
 
 (1) If a self-determination contract requires the Secretary to divide the administration of a program that has previously been administered for the benefit of a greater number of tribes than are represented by the tribal organization that is a party to the contract, the Secretary shall take such action as may be necessary to ensure that services are provided to the tribes not served by a self-determination contract, including program redesign in consultation with the tribal organization and all affected tribes.
 
-(2) Nothing in this part shall be construed to limit or reduce in any way the funding for any program, project, or activity serving a tribe under this or other applicable Federal law. Any tribe or tribal organization that alleges that a self-determination contract is in violation of this section may apply the provisions of section 450m–1 of this title.
+(2) Nothing in this part shall be construed to limit or reduce in any way the funding for anyprogram, project, or activity serving a tribe under this or other applicable Federal law. Any tribe or tribal organization that alleges that a self-determination contract is in violation of this section may apply the provisions of section 450m–1 of this title.
 
 #### (j) Proposal to redesign program, activity, function, or service
 
@@ -198,7 +198,7 @@ The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), proba
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
+Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, andEx. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
 
 This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -206,7 +206,7 @@ Section 314 of the Department of the Interior and Related Agencies Appropriation
 
 Subsections (a)(2) and (b) of section 450f of this title, referred to in subsec. (m)(4)(C)(v), was in the original “sections 102(a)(2) and 102(b) of section 102”, and was translated as reading “subsections (a)(2) and (b) of section 102”, meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
 
-The Federal Records Act of 1950, referred to in subsec. (<i>o</i>), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Tableat the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
+The Federal Records Act of 1950, referred to in subsec. (<i>o</i>), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
 #### Codification
 
@@ -264,7 +264,7 @@ Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) a
 
 #### Continued Availability of Certain Funds
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[25 U.S.C. 450f et seq.\] or grants authorizedby the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A \[probably means prior versions of 25 U.S.C. 2001 and 2008a\]) shall remain available until expended by the contractor or grantee”.
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 \[25 U.S.C. 450f et seq.\] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A \[probably means prior versions of 25 U.S.C. 2001 and 2008a\]) shall remain available until expended by the contractor or grantee”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

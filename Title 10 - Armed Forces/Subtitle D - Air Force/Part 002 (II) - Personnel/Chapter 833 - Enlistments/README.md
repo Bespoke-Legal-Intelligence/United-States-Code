@@ -4,8 +4,7 @@
 | :--- | ---: |
 | [8251\.](%C2%A7%2008251%20-%20Definition.md) | Definition. |
 | [8252\.](%C2%A7%2008252%20-%20Regular%20Air%20Force%20gender-free%20basis%20for%20acceptance%20of%20original%20enlistments.md) | Regular Air Force: gender-free basis for acceptance of original enlistments. |
-| [8253\.](%C2%A7%2008253%20-%20Air%20Force%20persons%20not%20qualified.md) | Air Force: persons not qualified. |
-| \[8254 to 8256. Repealed.\] |  |
+| \[8253 to 8256. Repealed.\] |  |
 | [8257\.](%C2%A7%2008257%20-%20Regular%20Air%20Force%20aviation%20cadets%3B%20qualifications%2C%20grade%2C%20limitations.md) | Regular Air Force: aviation cadets; qualifications, grade, limitations. |
 | [8258\.](%C2%A7%2008258%20-%20Regular%20Air%20Force%20reenlistment%20after%20service%20as%20an%20officer.md) | Regular Air Force: reenlistment after service as an officer. |
 | \[8259 to 8263. Repealed.\] |  |
@@ -13,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title V, §542(b)(2), Jan. 6, 2006, 119 Stat. 3253, struck out item 8253 “Air Force: persons not qualified”.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1674(b)(3), Oct. 5, 1994, 108 Stat. 3016, struck out items 8259 “Air Force Reserve: transfer from Air National Guard of United States”, 8260 “Air Force Reserve: transfer to upon withdrawal as member of Air National Guard”, and 8261 “Air National Guard of United States”.
 
@@ -29,7 +30,7 @@
 
 - [&sect; 08251 - Definition](%C2%A7%2008251%20-%20Definition.md)
 - [&sect; 08252 - Regular Air Force gender-free basis for acceptance of original enlistments](%C2%A7%2008252%20-%20Regular%20Air%20Force%20gender-free%20basis%20for%20acceptance%20of%20original%20enlistments.md)
-- [&sect; 08253 - Air Force persons not qualified](%C2%A7%2008253%20-%20Air%20Force%20persons%20not%20qualified.md)
+- [&sect; 08253 - Repealed. Pub. L. 109&#8211;163, div. A, title V, &sect;542(b)(1), Jan. 6, 2006, 119 Stat. 3253](%C2%A7%2008253%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93163%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7542%28b%29%281%29%2C%20Jan.%206%2C%202006%2C%20119%20Stat.%203253.md)
 - [&sect; 08254 to 8256 - Repealed. Pub. L. 90&#8211;235, &sect;2(a) (4)(B), Jan. 2, 1968, 81 Stat. 756](%C2%A7%2008254%20to%208256%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93235%2C%20%C2%A72%28a%29%20%284%29%28B%29%2C%20Jan.%202%2C%201968%2C%2081%20Stat.%20756.md)
 - [&sect; 08257 - Regular Air Force aviation cadets; qualifications, grade, limitations](%C2%A7%2008257%20-%20Regular%20Air%20Force%20aviation%20cadets%3B%20qualifications%2C%20grade%2C%20limitations.md)
 - [&sect; 08258 - Regular Air Force reenlistment after service as an officer](%C2%A7%2008258%20-%20Regular%20Air%20Force%20reenlistment%20after%20service%20as%20an%20officer.md)

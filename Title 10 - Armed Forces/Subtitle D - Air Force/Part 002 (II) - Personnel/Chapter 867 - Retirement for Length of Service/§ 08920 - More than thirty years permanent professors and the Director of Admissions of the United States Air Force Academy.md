@@ -28,9 +28,5 @@ The word “retire” is substituted for the words “direct the retirement of�
 
 #### Amendments
 
-1996—Pub. L. 104–106 substituted “permanent professors and the Director of Admissions” for “professors” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Air Force may retire any permanent professor of the United States Air Force Academy who has more than 30 years of service as a commissioned officer.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1406 of this title.
+1996—Pub. L. 104–106 substituted “permanent professors and the Director of Admissions” for “professors” in section catchline and amended text generally. Priorto amendment, text read as follows: “The Secretary of the Air Force may retire any permanent professor of the United States Air Force Academy who has more than 30 years of service as a commissioned officer.”
 

@@ -16,7 +16,7 @@ For purposes of this subchapter and subchapter II of this chapter, the levels of
 
 #### (c) Maximum deficit amount point of order in Senate
 
-It shall not be in order in the Senate to consider any concurrent resolution on the budget for a fiscal year, or to consider any amendment to that concurrent resolution, or to consider aconference report on that concurrent resolution, if—
+It shall not be in order in the Senate to consider any concurrent resolution on the budget for a fiscal year, or to consider any amendment to that concurrent resolution, or to consider a conference report on that concurrent resolution, if—
 
 &emsp;(1) the level of total outlays for the first fiscal year set forth in that concurrent resolution or conference report exceeds; or
 
@@ -30,7 +30,7 @@ A point of order under this Act may not be raised against a bill, resolution, am
 
 #### (e) Points of order in Senate against amendments between Houses
 
-Each provision of this Act that establishes a point of order against an amendment also establishes a point of order in the Senate against an amendment between the Houses. If a point of order under this Act is raised in the Senate against an amendment between the Houses and the point of order is sustained, the effect shall be the same as if the Senate had disagreed to the amendment.
+Each provision of this Act that establishes a point of order against an amendment also establishes a point of order in the Senate against an amendment between the Houses. If a point of order under this Act is raised in the Senate against an amendment between the Houses and the point of order is sustained, the effect shallbe the same as if the Senate had disagreed to the amendment.
 
 #### (f) Effect of point of order in Senate
 

@@ -8,7 +8,9 @@
 
 &emsp;(2) such other senior officials of the Government of the United States as the President may designate.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510.)
+(c) Funds made available under subsection (b) may be provided in advance to persons eligible to receive reimbursements.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 109–140, §7, Dec. 22, 2005, 119 Stat. 2652.)
 
 Historical and Revision Notes
 
@@ -27,6 +29,10 @@ Aug. 2, 1946, ch. 744, §22, added Sept. 6, 1960, Pub. L. 86–707, §311(a), 74
 The word “agency” is substituted for “department” and defined to conform to the definition of “department” in section 18 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+
+2005—Subsec. (c). Pub. L. 109–140 added subsec. (c).
 
 #### Delegation of Functions
 

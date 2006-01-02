@@ -14,7 +14,7 @@ Any order issued under this section shall become final unless, no later than thi
 
 #### (c) Violation of compliance orders
 
-If a violator fails to take corrective action within the time specified in a compliance order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order and the Administrator may suspend or revoke any permit issued to the violator (whether issued by the Administrator or the State).
+If a violator fails to take corrective action within the time specified in a compliance order, the Administrator may assess a civil penalty of not more than $25,000 for each day of continued noncompliance with the order and the Administrator may suspend or revoke any permit issuedto the violator (whether issued by the Administrator or the State).
 
 #### (d) Criminal penalties
 
@@ -104,7 +104,7 @@ Any person who violates any requirement of this subchapter shall be liable to th
 
 (2) Any order issued under this subsection may include a suspension or revocation of authorization to operate under section 6925(e) of this title, shall state with reasonable specificity the nature of the required corrective action or other response measure, and shall specify a time for compliance. If any person named in an order fails to comply with the order, the Administrator may assess, and such person shall be liable to the United States for, a civil penalty in an amount not to exceed $25,000 for each day of noncompliance with the order.
 
-(Pub. L. 89–272, title II, §3008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2811; amended Pub. L. 95–609, §7(k), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §13, Oct. 21, 1980, 94 Stat. 2339; Pub. L. 98–616, title II, §§232, 233, 245(c), title IV,§403(d)(1)–(3), Nov. 8, 1984, 98 Stat. 3256, 3257, 3264, 3272; Pub. L. 99–499, title II, §205(i), Oct. 17, 1986, 100 Stat. 1703.)
+(Pub. L. 89–272, title II, §3008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2811; amended Pub. L. 95–609, §7(k), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §13, Oct. 21, 1980, 94 Stat. 2339; Pub. L. 98–616, title II, §§232, 233, 245(c), title IV, §403(d)(1)–(3), Nov. 8, 1984, 98 Stat. 3256, 3257, 3264, 3272; Pub. L. 99–499, title II, §205(i), Oct. 17, 1986, 100 Stat. 1703.)
 
 #### References in Text
 

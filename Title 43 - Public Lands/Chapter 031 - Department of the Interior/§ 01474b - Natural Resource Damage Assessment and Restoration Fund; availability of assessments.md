@@ -28,13 +28,13 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §350\], Nov. 29, 1999, 113
 
 “(3) The transfer of joint trust funds outside the Court Registry shall not affect the supervisory jurisdiction of the district court under the Consent Decree or the Memorandum of Agreement and Consent Decree in United States v. State of Alaska (No. A91–081–CIV) over all expenditures of the joint trust funds.
 
-“(4) Nothing herein shall affect the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of ‘Operation Desert Shield/Desert Storm’ Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note \[43 U.S.C. 1474b note\]) that amounts received by the United States and designated by the trustees for the expenditure by or through a Federal agency must be deposited into the Fund.
+“(4) Nothing herein shall affect the requirement of section 207 of the dire emergency supplemental appropriations and transfers for relief from the effects of natural disasters, for other urgent needs, and for the incremental cost of ‘Operation Desert Shield/Desert Storm’ Act of 1992 (Public Law 102–229; 42 U.S.C. 1474b note \[43 U.S.C. 1474b note\]) that amounts received by the United States and designated by the trustees forthe expenditure by or through a Federal agency must be deposited into the Fund.
 
 “(5) All remaining settlement funds are eligible for the investment authority granted under this section so long as they are managed and allocated consistent with the Resolution of the Trustees adopted March 1, 1999, concerning the Restoration Reserve, as follows:
 
 &emsp;“(A) $55 million of the funds remaining on October 1, 2002, and the associated earnings thereafter shall be managed and allocated for habitat protection programs including small parcel habitat acquisitions. Such sums shall be reduced by—
 
-&emsp;&emsp;“(i) the amount of any payments made after the date of enactment of this Act \[Nov. 29, 1999\] fromthe Joint Trust Funds pursuant to an agreement between the Trustee Council and Koniag, Inc., which includes those lands which are presently subject to the Koniag Non-Development Easement, including, but not limited to, the continuation or modification of such Easement; and
+&emsp;&emsp;“(i) the amount of any payments made after the date of enactment of this Act \[Nov. 29, 1999\] from the Joint Trust Funds pursuant to an agreement between the Trustee Council and Koniag, Inc., which includes those lands which are presently subject to the Koniag Non-Development Easement, including, but not limited to, the continuation or modification of such Easement; and
 
 &emsp;&emsp;“(ii) payments in excess of $6.32 million for any habitat acquisition or protection from the joint trust funds after the date of enactment of this Act and prior to October 1, 2002, other than payments for which the Council is currently obligated through purchase agreements with the Kodiak Island Borough, Afognak Joint Venture and the Eyak Corporation.
 

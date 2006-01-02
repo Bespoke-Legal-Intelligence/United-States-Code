@@ -44,7 +44,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (7) Deduction limitations
 
-&emsp;Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who is a party to the agreement, for the portion of his taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a manner consistent with the manner in which actual employer contributions for such plan year are determined) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+&emsp;Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a singleemployer. The amounts contributed to or under the plan by each employer who is a party to the agreement, for the portion of his taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a manner consistent with the manner in which actual employer contributions for such plan year are determined) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
 
 #### (8) Employees of labor unions
 
@@ -112,7 +112,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (B) Assets and liabilities of plan
 
-&emsp;&emsp;For purposes of applying paragraphs (4)(A) and (6)(A), the assets and liabilities of each plan shall be treated as the assets and liabilities which would be allocated to a plan maintained by the employer if the employer withdrew from the multiple employer plan.
+&emsp;&emsp;For purposes of applying paragraphs (4)(A) and (6)(A), the assets and liabilities of eachplan shall be treated as the assets and liabilities which would be allocated to a plan maintained by the employer if the employer withdrew from the multiple employer plan.
 
 (Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518.)
 
@@ -132,7 +132,7 @@ Subsec. (c). Pub. L. 100–647, §6058(c), struck out at end “Allocations of a
 
 Subsec. (c)(4). Pub. L. 100–647, §6058(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The minimum funding standard provided by section 412 shall be determined as if all participants in the plan were employed by a single employer.”
 
-Subsec. (c)(6). Pub. L. 100–647, §6058(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan, for the portion of this taxable yearwhich is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.”
+Subsec. (c)(6). Pub. L. 100–647, §6058(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Each applicable limitation provided by section 404(a) shall be determined as if all participants in the plan were employed by a single employer. The amounts contributed to or under the plan by each employer who maintains the plan, for the portion of this taxable year which is included within such a plan year, shall be considered not to exceed such a limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.”
 
 Subsec. (c)(7). Pub. L. 100–647, §6058(c), added par. (7).
 
@@ -153,8 +153,4 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pu
 #### Effective Date
 
 Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 412, 4971 of this title; title 29 section 1082.
 

@@ -12,7 +12,7 @@
 
 &emsp;(A) be discharged upon the expiration of his period of continued service; or
 
-&emsp;(B) if he is eligible for retirement under any provision of law, be retired under that law on the first day of the first month following the month in which he completes his period of continued service.
+&emsp;(B) if he is eligible for retirement under any provision of law, be retired under that law onthe first day of the first month following the month in which he completes his period of continued service.
 
 > Notwithstanding the provisions of clause (A), any officer who would otherwise be discharged under such clause and is within two years of qualifying for retirement under section 3911, 6323, or 8911 of this title, shall unless he is sooner retired or discharged under some other provision of law, be retained on active duty until he is qualified for retirement under that section and then be retired.
 
@@ -30,7 +30,7 @@
 
 (e) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L.98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V, §521(b)(1), Nov. 5, 1990, 104 Stat. 1561.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V, §521(b)(1), Nov. 5, 1990, 104 Stat. 1561.)
 
 #### Amendments
 
@@ -61,8 +61,4 @@ Subchapter effective Sept. 15, 1981, but the authority to prescribe regulations 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 611, 632, 633, 634, 635, 636, 638a, 1558 of this title.
 

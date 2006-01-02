@@ -72,7 +72,7 @@ If the Commission makes an affirmative determination under subsection (b) of thi
 
 (1) When a petition filed under subsection (b) of this section alleges that critical circumstances exist and requests that provisional relief be provided under this subsection with respect to the product identified in the petition, the Commission shall, not later than 45 days after the petition containing the request is filed—
 
-&emsp;(A) determine whether delay in taking action under this section would cause damage tothe relevant domestic industry which would be difficult to repair; and
+&emsp;(A) determine whether delay in taking action under this section would cause damage to the relevant domestic industry which would be difficult to repair; and
 
 &emsp;(B) if the determination under subparagraph (A) is affirmative, make a preliminary determination of whether imports of the product which is the subject of the investigation have caused or threatened to cause market disruption.
 
@@ -120,7 +120,7 @@ Import relief under this section shall take effect not later than 15 days after 
 
 #### (n) Modifications of relief
 
-(1) At any time after the end of the 6-month period beginning on the date on which relief under subsection (m) of this section first takeseffect, the President may request that the Commission provide a report on the probable effect of the modification, reduction, or termination of the relief provided on the relevant industry. The Commission shall transmit such report to the President within 60 days of the request.
+(1) At any time after the end of the 6-month period beginning on the date on which relief under subsection (m) of this section first takes effect, the President may request that the Commission provide a report on the probable effect of the modification, reduction, or termination of the relief provided on the relevant industry. The Commission shall transmit such report to the President within 60 days of the request.
 
 (2) The President may, after receiving a report from the Commission under paragraph (1), take such action to modify, reduce, or terminate relief that the President determines is necessary to continue to prevent or remedy the market disruption at issue.
 

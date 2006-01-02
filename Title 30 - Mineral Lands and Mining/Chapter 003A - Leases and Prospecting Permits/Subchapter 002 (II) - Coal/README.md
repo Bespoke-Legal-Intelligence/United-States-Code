@@ -11,7 +11,7 @@
 - [&sect; 00201b - Omitted](%C2%A7%2000201b%20-%20Omitted.md)
 - [&sect; 00202 - Common carriers; limitations of lease or permit](%C2%A7%2000202%20-%20Common%20carriers%3B%20limitations%20of%20lease%20or%20permit.md)
 - [&sect; 00202a - Consolidation of coal leases into logical mining unit](%C2%A7%2000202a%20-%20Consolidation%20of%20coal%20leases%20into%20logical%20mining%20unit.md)
-- [&sect; 00203 - Additional contiguous or cornering lands allowed lessees; application of production or mining plan requirements and minimum royalty&#8230;](%C2%A7%2000203%20-%20Additional%20contiguous%20or%20cornering%20lands%20allowed%20lessees%3B%20application%20of%20production%20or%20mining%20plan%20requirements%20and%20minimum%20royalty%E2%80%A6.md)
+- [&sect; 00203 - Additional lands or deposits](%C2%A7%2000203%20-%20Additional%20lands%20or%20deposits.md)
 - [&sect; 00204 - Repealed. Pub. L. 94&#8211;377, &sect;13(a), Aug. 4, 1976, 90 Stat. 1090](%C2%A7%2000204%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93377%2C%20%C2%A713%28a%29%2C%20Aug.%204%2C%201976%2C%2090%20Stat.%201090.md)
 - [&sect; 00205 - Consolidation of leases](%C2%A7%2000205%20-%20Consolidation%20of%20leases.md)
 - [&sect; 00206 - Noncontiguous coal or phosphate tracts in single lease](%C2%A7%2000206%20-%20Noncontiguous%20coal%20or%20phosphate%20tracts%20in%20single%20lease.md)

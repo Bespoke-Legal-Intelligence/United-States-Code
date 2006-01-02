@@ -10,7 +10,7 @@ Judicial Procedures.—When a petition is filed under subsection (a) of this sec
 
 (c)
 
-Authority of Court.—When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, Under Secretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
+Authority of Court.—When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, UnderSecretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
 
 (d)
 
@@ -130,5 +130,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland SecurityReorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

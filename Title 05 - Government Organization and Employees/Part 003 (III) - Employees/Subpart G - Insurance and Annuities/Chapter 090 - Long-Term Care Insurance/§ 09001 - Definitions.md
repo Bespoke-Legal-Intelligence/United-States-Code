@@ -68,7 +68,7 @@ State.—The term “State” includes the District of Columbia.
 
 &emsp;(9)
 
-Qualified long-term care insurance contract.—The term “qualified long-termcare insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
+Qualified long-term care insurance contract.—The term “qualified long-term care insurance contract” has the meaning given such term by section 7702B of the Internal Revenue Code of 1986.
 
 &emsp;(10)
 

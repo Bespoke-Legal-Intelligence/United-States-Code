@@ -1,6 +1,6 @@
 ### §620h. Savings provision
 
-Nothing in sections 620 to 620j of this title, or regulations issued under sections 620 to 620j ofthis title, shall be construed to abrogate or affect any timber sale contract entered into before August 20, 1990.
+Nothing in sections 620 to 620j of this title, or regulations issued under sections 620 to 620j of this title, shall be construed to abrogate or affect any timber sale contract entered into before August 20, 1990.
 
 (Pub. L. 101–382, title IV, §497, Aug. 20, 1990, 104 Stat. 725.)
 

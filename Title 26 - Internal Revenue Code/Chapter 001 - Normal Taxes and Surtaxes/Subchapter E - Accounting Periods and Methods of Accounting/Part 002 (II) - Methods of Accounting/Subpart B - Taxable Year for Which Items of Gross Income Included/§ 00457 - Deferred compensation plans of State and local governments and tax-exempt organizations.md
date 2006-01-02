@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (A) Total amount payable is dollar limit or less
 
-&emsp;&emsp;The total amount payable to a participant under the plan shall not be treated as madeavailable merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant's consent) if—
+&emsp;&emsp;The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant's consent) if—
 
 &emsp;&emsp;&emsp;(i) the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D)) does not exceed the dollar limit under section 411(a)(11)(A), and
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (13) Special rule for churches
 
-&emsp;The term “eligible employer” shall not include a church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+&emsp;The term “eligible employer” shall not include a church (as defined in section3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
 
 #### (14) Treatment of qualified governmental excess benefit arrangements
 
@@ -242,7 +242,7 @@ $15,000.
 
 #### (B) Cost-of-living adjustments
 
-&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarterbeginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
 
 #### (16) Rollover amounts
 
@@ -466,7 +466,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by section 611(d)(3)(B), (e) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
+Amendment by section 611(d)(3)(B), (e) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001,see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
 
 Pub. L. 107–16, title VI, §615(b), June 7, 2001, 115 Stat. 102, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 2001.”
 
@@ -695,8 +695,4 @@ Qualified state judicial plan.—For purposes of subparagraph (A), the term ‘q
 &emsp;“(iv) the retirement payments of a judge under the plan are a percentage of the compensation of judges of that State holding similar positions, and
 
 &emsp;“(v) the plan during any year does not pay benefits with respect to any participant which exceed the limitations of section 415(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25B, 72, 219, 401, 402, 403, 408, 411, 414, 415, 818, 3121, 3401, 3405, 4973, 4974, 6051 of this title; title 4 section 114; title 11 section 101; title 12 section 1821; title 29 section 1053; title 42 section 409.
 

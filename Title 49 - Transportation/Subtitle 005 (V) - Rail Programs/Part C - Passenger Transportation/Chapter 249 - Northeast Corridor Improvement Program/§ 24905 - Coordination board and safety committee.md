@@ -92,5 +92,5 @@ In subsection (a)(3), the words “of opinions” and “(among or between the C
 
 In subsection (b)(1), the words “Within 30 days after the date of enactment of this Act . . . shall establish” are omitted as executed.
 
-In subsection (b)(3), the words “each Congress” are substituted for “the 103rd Congress, and biennially thereafter” to eliminate unnecessary words. The words“pursuant to the provisions of this section” are omitted as unnecessary.
+In subsection (b)(3), the words “each Congress” are substituted for “the 103rd Congress, and biennially thereafter” to eliminate unnecessary words. The words “pursuant to the provisions of this section” are omitted as unnecessary.
 

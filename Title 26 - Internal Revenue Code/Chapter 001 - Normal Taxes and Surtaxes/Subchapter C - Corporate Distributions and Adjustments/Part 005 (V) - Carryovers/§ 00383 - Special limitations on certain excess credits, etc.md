@@ -64,7 +64,7 @@ Pub. L. 97–34, §331(d)(1)(C)(i), in section 383, as amended by Pub. L. 94–4
 
 Pub. L. 97–34, §221(b)(1)(C)(ii), (D)(ii), in catchlines of sections 383, as related to section 382(a) of this title, before and after amendment by Pub. L. 94–455, §806(f)(2), inserted reference to research credits.
 
-Pub. L. 97–34, §221(b)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation which could otherwisebe carried forward under section 44F(g)(2),” after “section 44E(e)(2),”.
+Pub. L. 97–34, §221(b)(1)(D)(i), in section 383, as in effect prior to amendment by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation which could otherwise be carried forward under section 44F(g)(2),” after “section 44E(e)(2),”.
 
 Pub. L. 97–34, §221(b)(1)(C)(i), in section 383, as amended by Pub. L. 94–455, §806(f)(2), as related to section 382(a) of this title, inserted “to any unused credit of the corporation under section 44F(g)(2),” after “section 44E(e)(2),”.
 
@@ -117,8 +117,4 @@ Section 302(c) of Pub. L. 92–178 provided that: “The amendments made by this
 #### Delay in Effective Date of 1976 Amendment
 
 For election by taxpayer for application of prior law with respect to any acquisition or reorganization occurring before the end of the taxpayer's first taxable year beginning after June 30, 1978, see section 368 of Pub. L. 95–600, set out as a Delay in Effective Date of 1976 Amendment note under section 382 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 382, 384 of this title.
 

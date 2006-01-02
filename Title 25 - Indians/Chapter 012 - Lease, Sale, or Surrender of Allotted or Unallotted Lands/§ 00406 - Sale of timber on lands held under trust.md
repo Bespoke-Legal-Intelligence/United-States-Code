@@ -10,7 +10,7 @@ Upon the request of the owners of a majority Indian interest in land in which an
 
 #### (c) Unrestricted interests
 
-Upon the request of the owner of an undivided but unrestricted interest in land in which there are trust or restricted Indian interests, the Secretary of the Interior is authorized to include such unrestricted interest in a sale of the trust or restricted Indian interests in timber sold pursuant to this section, and to perform any functions required of him by the contract of sale for both the restricted and the unrestricted interests, including the collection and disbursement of payments for timber and the deduction from such payments of sums in lieu of administrative expenses.
+Upon the request of the owner of an undivided but unrestricted interest in land in which there are trust or restricted Indian interests, the Secretary of the Interior is authorized to include such unrestricted interest in a sale of the trustor restricted Indian interests in timber sold pursuant to this section, and to perform any functions required of him by the contract of sale for both the restricted and the unrestricted interests, including the collection and disbursement of payments for timber and the deduction from such payments of sums in lieu of administrative expenses.
 
 #### (d) Representation of minors and others
 
@@ -18,7 +18,7 @@ For the purposes of this Act, the Secretary of the Interior is authorized to rep
 
 #### (e) Emergency sales
 
-The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of theInterior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
+The timber on any Indian land held under a trust or other patent containing restrictions on alienations may be sold by the Secretary of the Interior without the consent of the owners when in his judgment such action is necessary to prevent loss of values resulting from fire, insects, disease, windthrow, or other natural catastrophes.
 
 #### (f) Change in status without affecting contractual obligations
 

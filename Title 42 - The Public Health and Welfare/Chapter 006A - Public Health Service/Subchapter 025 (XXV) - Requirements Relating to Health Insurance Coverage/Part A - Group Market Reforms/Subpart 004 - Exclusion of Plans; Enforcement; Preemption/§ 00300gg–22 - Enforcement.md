@@ -68,7 +68,7 @@
 
 #### (ii) Hearing procedure
 
-&emsp;&emsp;&emsp;If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within 30 days after the date of the decision of the judge. A final order which takes effect under this paragraph shall be subject to review only as provided under subparagraph (E).
+&emsp;&emsp;&emsp;If a hearing is requested, the initial agency decision shall be made by an administrative law judge, and such decision shall become the final order unless the Secretary modifies or vacates the decision. Notice of intent to modify or vacate the decision of the administrative law judge shall be issued to the parties within 30 days after the date of the decision of thejudge. A final order which takes effect under this paragraph shall be subject to review only as provided under subparagraph (E).
 
 #### (E) Judicial review
 

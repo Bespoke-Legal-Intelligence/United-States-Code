@@ -36,7 +36,7 @@ The clearinghouse under this section (as amended by section 103 of the Housing A
 
 #### References in Text
 
-The Housing Affordability Barrier Removal Act of 2000, referred to in subsec. (d), is title I of Pub. L. 106–569, Dec. 27, 2000, 114 Stat. 2946. Section 103 of the Act amended this section. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 12701 of this title and Tables.
+The Housing Affordability Barrier Removal Act of 2000, referred to in subsec. (d), is title I of Pub. L.106–569, Dec. 27, 2000, 114 Stat. 2946. Section 103 of the Act amended this section. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 12701 of this title and Tables.
 
 #### Codification
 

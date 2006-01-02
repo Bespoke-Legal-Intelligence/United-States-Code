@@ -8,7 +8,3 @@ The Secretary of a military department may develop, or authorize the development
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2394 of this title.
-

@@ -24,7 +24,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (A) In general
 
-&emsp;&emsp;Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
+&emsp;&emsp;Members of the Commission shall be selected among distinguished individualsnoted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
 
 #### (B) Security clearances
 

@@ -50,7 +50,7 @@ A prior section 2308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 131; Oct. 23, 1992
 
 #### Amendments
 
-2003—Subsec. (e)(2). Pub. L. 108–136 redesginated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means—
+2003—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means—
 
 &emsp;“(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 

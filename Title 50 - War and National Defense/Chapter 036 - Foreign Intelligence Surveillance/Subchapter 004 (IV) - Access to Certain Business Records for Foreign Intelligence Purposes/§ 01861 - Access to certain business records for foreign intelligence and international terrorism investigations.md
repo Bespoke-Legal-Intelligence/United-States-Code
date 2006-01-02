@@ -48,7 +48,7 @@ Executive Order No. 12333, referred to in subsec. (a)(2)(A), is set out as a not
 
 #### Prior Provisions
 
-A prior section 1861, Pub. L. 95–511, title V, §501, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2410, defined terms used in this subchapter, prior to repeal by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287.
+A prior section 1861, Pub. L. 95–511, title V, §501, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2410, defined terms used in this subchapter, priorto repeal by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287.
 
 #### Amendments
 

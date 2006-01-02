@@ -24,7 +24,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 &emsp;(4) The term “chief of mission” has the meaning given such term by section 3902(3) of this title.
 
-&emsp;(5) The term “foreign country” means any country or territory, excluding the United States, the Commonwealth of Puerto Rico, theCommonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, American Samoa, Guam, the Virgin Islands, and other territories or possessions of the United States.
+&emsp;(5) The term “foreign country” means any country or territory, excluding the United States, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, American Samoa, Guam, the Virgin Islands, and other territories or possessions of the United States.
 
 &emsp;(6) The term “personal property” means any item of personal property, including automobiles, computers, boats, audio and video equipment, and any other items acquired for personal use, but excluding items of minimal value as determined by regulation or policy issued pursuant to section 4343 of this title.
 

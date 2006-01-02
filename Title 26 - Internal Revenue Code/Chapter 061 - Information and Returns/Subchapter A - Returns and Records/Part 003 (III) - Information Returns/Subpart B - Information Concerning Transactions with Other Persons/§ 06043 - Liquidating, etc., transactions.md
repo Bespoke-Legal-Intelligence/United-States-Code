@@ -34,7 +34,7 @@ If—
 
 &emsp;&emsp;&emsp;<b>(2) a return under subsection (c), see section 6652(1).</b><b><sup>1</sup></b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 746; Pub. L. 91–172, title I, §101(j)(35), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 101–239, title VII, §7208(b)(1), (3)(A), (B), Dec. 19, 1989, 103 Stat. 2337, 2338; Pub. L. 104–188, title I, §1704(t)(17), Aug. 20, 1996, 110 Stat. 1888.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 746; Pub. L. 91–172, title I, §101(j)(35), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV,§1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 101–239, title VII, §7208(b)(1), (3)(A), (B), Dec. 19, 1989, 103 Stat. 2337, 2338; Pub. L. 104–188, title I, §1704(t)(17), Aug. 20, 1996, 110 Stat. 1888.)
 
 #### Amendments
 
@@ -65,10 +65,6 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 #### Effective Date of 1969 Amendment
 
 Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6033, 6652 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “6652(l).”</i>
 

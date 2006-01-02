@@ -18,7 +18,7 @@
 
 &emsp;(C) will allow parents to block a broad range of programs on a multichannel system as effectively and as easily as technology that allows parents to block programming based on common ratings,
 
-> the Commission shall amend the rules prescribed pursuant to section 303(x) of this title torequire that the apparatus described in such section be equipped with either the blocking technology described in such section or the alternative blocking technology described in this paragraph.
+> the Commission shall amend the rules prescribed pursuant to section 303(x) of this title to require that the apparatus described in such section be equipped with either the blocking technology described in such section or the alternative blocking technology described in this paragraph.
 
 (d) For the purposes of this section, and sections 303(s), 303(u), and 303(x) of this title—
 

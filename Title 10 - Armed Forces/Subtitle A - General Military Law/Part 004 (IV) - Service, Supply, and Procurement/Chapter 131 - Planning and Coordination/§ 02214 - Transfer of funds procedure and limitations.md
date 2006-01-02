@@ -2,7 +2,7 @@
 
 (a)
 
-Procedure for Transfer of Funds.—Whenever authority is provided in an appropriation Act to transfer amounts in working capital funds or to transfer amounts provided in appropriation Acts for military functions of the Department of Defense (other than military construction) between such funds or appropriations (or any subdivision thereof), amounts transferred under such authority shall be merged with and be available for the same purposes and for the same time period as the fund or appropriations to which transferred.
+Procedure for Transfer of Funds.—Whenever authority is provided in an appropriation Act to transfer amounts in working capitalfunds or to transfer amounts provided in appropriation Acts for military functions of the Department of Defense (other than military construction) between such funds or appropriations (or any subdivision thereof), amounts transferred under such authority shall be merged with and be available for the same purposes and for the same time period as the fund or appropriations to which transferred.
 
 (b)
 
@@ -29,8 +29,4 @@ Limitations on Requests to Congress for Reprogrammings.—Neither the Secretary 
 #### Effective Date
 
 Section effective Oct. 1, 1991, see section 1482(d) of Pub. L. 101–510, set out as an Effective Date of 1990 Amendment note under section 119 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2645, 9514 of this title.
 

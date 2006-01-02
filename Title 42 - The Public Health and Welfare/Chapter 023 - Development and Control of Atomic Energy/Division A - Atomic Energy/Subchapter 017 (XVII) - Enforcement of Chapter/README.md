@@ -13,7 +13,7 @@
 - [&sect; 02276 - Tampering with Restricted Data](%C2%A7%2002276%20-%20Tampering%20with%20Restricted%20Data.md)
 - [&sect; 02277 - Disclosure of Restricted Data](%C2%A7%2002277%20-%20Disclosure%20of%20Restricted%20Data.md)
 - [&sect; 02278 - Statute of limitations](%C2%A7%2002278%20-%20Statute%20of%20limitations.md)
-- [&sect; 02278a - Trespass upon Commission installations](%C2%A7%2002278a%20-%20Trespass%20upon%20Commission%20installations.md)
+- [&sect; 02278a - Trespass on Commission installations](%C2%A7%2002278a%20-%20Trespass%20on%20Commission%20installations.md)
 - [&sect; 02278b - Photographing, etc., of Commission installations; penalty](%C2%A7%2002278b%20-%20Photographing%2C%20etc.%2C%20of%20Commission%20installations%3B%20penalty.md)
 - [&sect; 02279 - Applicability of other laws](%C2%A7%2002279%20-%20Applicability%20of%20other%20laws.md)
 - [&sect; 02280 - Injunction proceedings](%C2%A7%2002280%20-%20Injunction%20proceedings.md)

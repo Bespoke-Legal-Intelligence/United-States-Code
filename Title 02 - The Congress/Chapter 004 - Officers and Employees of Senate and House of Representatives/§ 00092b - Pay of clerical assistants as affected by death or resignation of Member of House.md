@@ -10,7 +10,7 @@ Notwithstanding the provisions of section 92a of this title, in case of the deat
 
 1952—Joint Res. July 15, 1952, provided retirement credit to employees for time they were separated from employment following death or resignation of a Member and before election of his successor.
 
-1950—Joint Res. Apr. 24, 1950, struck out second sentence which limited continuance of clerical assistantsof deceased or resigned House Members on pay roll to six months.
+1950—Joint Res. Apr. 24, 1950, struck out second sentence which limited continuance of clerical assistants of deceased or resigned House Members on pay roll to six months.
 
 #### Effective Date
 

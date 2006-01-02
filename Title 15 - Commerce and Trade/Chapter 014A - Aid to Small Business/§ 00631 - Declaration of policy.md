@@ -108,7 +108,7 @@ In administering the disaster loan program authorized by section 636 of this tit
 
 &emsp;(A) vigorously promote the legitimate interests of small business concerns owned and controlled by women;
 
-&emsp;(B) remove, insofar as possible, the discriminatory barriers that are encountered bywomen in accessing capital and other factors of production; and
+&emsp;(B) remove, insofar as possible, the discriminatory barriers that are encountered by women in accessing capital and other factors of production; and
 
 &emsp;(C) require that the Government engage in a systematic and sustained effort to identify, define and analyze those discriminatory barriers facing women and that such effort directly involve the participation of women business owners in the public/private sector partnership.
 
@@ -250,7 +250,7 @@ Section 8014 of title VIII of Pub. L. 100–418 provided that: “This title \[a
 
 #### Effective Date of 1981 Amendment
 
-Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 of this title \[amending sections 633, 636, and 696 of this title\] shall be effective October 1, 1981, and section 1910 of this title \[amending section 636 of this title\] shall be effective as provided therein \[Oct. 1, 1985\]. All other provisions of this title \[amending sections 632, 633, 636, and 639 of this title, repealing section 636a of this title, enacting provisions set out as notes under this section and section 636 of this title, and amending provisions set out as notes under this section\] shall be effective immediately \[Aug. 13, 1981\] but shall not affect any financing made, obligated, or committed under the Small Business Act \[this chapter\] or the Small Business Investment Act of 1958 \[chapter 14B of this title\] prior to the effective date hereof.”
+Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 of this title \[amending sections 633, 636, and 696 of this title\] shall be effective October 1, 1981, and section 1910 of this title \[amending section 636of this title\] shall be effective as provided therein \[Oct. 1, 1985\]. All other provisions of this title \[amending sections 632, 633, 636, and 639 of this title, repealing section 636a of this title, enacting provisions set out as notes under this section and section 636 of this title, and amending provisions set out as notes under this section\] shall be effective immediately \[Aug. 13, 1981\] but shall not affect any financing made, obligated, or committed under the Small Business Act \[this chapter\] or the Small Business Investment Act of 1958 \[chapter 14B of this title\] prior to the effective date hereof.”
 
 #### Effective Date of 1980 Amendment
 
@@ -266,7 +266,7 @@ Pub. L. 107–50, §1, Oct. 15, 2001, 115 Stat. 263, provided that: “This Act 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(9) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–667, provided that: “This Act \[H.R. 5667, as enacted by section 1(a)(9) of Pub. L. 106–554, see Tablesfor classification\] may be cited as the ‘Small Business Reauthorization Act of 2000’.”
+Pub. L. 106–554, §1(a)(9) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–667, provided that: “This Act \[H.R. 5667, as enacted by section 1(a)(9) of Pub. L. 106–554, see Tables for classification\] may be cited as the ‘Small Business Reauthorization Act of 2000’.”
 
 Pub. L. 106–554, §1(a)(9) \[title I, §101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–668, provided that: “This title \[enacting sections 657d and 657e of this title, amending section 638 of this title, enacting provisions set out as notes under sections 638 and 657d of this title, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business Innovation Research Program Reauthorization Act of 2000’.”
 
@@ -300,7 +300,7 @@ Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. D, §1(a), Sept. 30, 1996, 110 Stat. 3009–724, provided that: “This division \[amending sections 80a–18, 632 to 634, 636, 638, 648, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, 694b, 696, 697, 697b, and 697f of this title and section 1431 of Title 12, Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under this section and sections 632 to 634, 636, 681, 683, 694b, and 695 of this title, amending provisions set out as notes under this section and section 644 of this title, and repealing provisions set out as a note under section 634 of this title\] may be cited as the ‘Small Business Programs Improvement Act of 1996’.”
+Pub. L. 104–208, div. D, §1(a), Sept. 30, 1996, 110 Stat. 3009–724, provided that: “This division \[amending sections 80a–18, 632 to 634, 636, 638, 648, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, 694b, 696, 697, 697b, and 697f of this title and section 1431 of Title 12, Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under this section and sections 632 to 634, 636, 681, 683, 694b, and 695 of this title, amending provisions set out as notes under thissection and section 644 of this title, and repealing provisions set out as a note under section 634 of this title\] may be cited as the ‘Small Business Programs Improvement Act of 1996’.”
 
 #### Short Title of 1995 Amendment
 
@@ -316,7 +316,7 @@ Pub. L. 103–81, §1(a), Aug. 13, 1993, 107 Stat. 780, provided that: “This A
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: “This Act \[amending sections 634, 636, 637, and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the ‘Small Business Research and Development Enhancement Act of 1992’.”
+Pub. L. 102–564, §1(a), Oct. 28, 1992, 106 Stat. 4249, provided that: “This Act \[amending sections 634, 636, 637, and 638 of this title and section 4124 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under this section and section 638 of this title, amending provisions set out as notes under sections 644 and 648 of this title, and repealing provisions set out as a note under section 638 of this title\] may be cited as the ‘Small Business Research and Development Enhancement Act of 1992’.”
 
 Pub. L. 102–564, title I, §101, Oct. 28, 1992, 106 Stat. 4249, provided that: “This title \[amending section 638 of this title and enacting provisions set out as notes under section 638 of this title\] may be cited as the ‘Small Business Innovation Research Program Reauthorization Act of 1992’.”
 
@@ -350,7 +350,7 @@ Section 1(a) of Pub. L. 100–590 provided that: “This Act \[enacting sections
 
 Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub. L. 100–533 “\[enacting chapter 97 of this title and section 417a of Title 41, Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and section 131 of Title 13, Census\] may be cited as the ‘Women's Business Ownership Act of 1988’.”
 
-Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
+Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
 
 #### Short Title of 1984 Amendments
 
@@ -420,7 +420,7 @@ Section 8013 of title VIII of Pub. L. 100–418 provided that: “Notwithstandin
 
 #### Separability
 
-Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this Act \[this chapter\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this Act \[this chapter\], or the applicationthereof to any person or circumstances, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 #### Authorization of Appropriations
 
@@ -492,7 +492,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 &emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $6,000,000,000, of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
 
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter into cooperative agreements for a total amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
+&emsp;&emsp;“(E) The Administration is authorized to make grants or enter into cooperative agreements for atotal amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
 
 &emsp;“(2)
 
@@ -520,7 +520,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 &emsp;&emsp;&emsp;“(ii) $110,000,000 in direct loans, as provided in 7(m).
 
-&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $25,050,000,000in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
+&emsp;&emsp;“(B) For the programs authorized by this Act, the Administration is authorized to make $25,050,000,000 in deferred participation loans and other financings. Of such sum, the Administration is authorized to make—
 
 &emsp;&emsp;&emsp;“(i) $17,000,000,000 in general business loans, as provided in section 7(a) \[section 636(a) of this title\];
 
@@ -600,7 +600,7 @@ Eligible veteran.—The term ‘eligible veteran’ means a disabled veteran (as
 
 &emsp;“(2)
 
-Small business concern owned and controlled by eligible veterans.—The term ‘small business concern owned and controlled by eligible veterans’ means a small business concern (as defined in section 3 of the Small Business Act \[15 U.S.C. 632\])—
+Small business concern owned and controlled by eligible veterans.—The term ‘small business concern owned and controlled by eligible veterans’ means a small business concern (as definedin section 3 of the Small Business Act \[15 U.S.C. 632\])—
 
 &emsp;&emsp;“(A) that is at least 51 percent owned by 1 or more eligible veterans, or in the case of a publicly owned business, at least 51 percent of the stock of which is owned by 1 or more eligible veterans; and
 
@@ -784,7 +784,7 @@ Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 1209
 
 #### Executive Order No. 12269
 
-Ex. Ord. No. 12269, Jan. 15, 1981, 46 F.R. 4673, which established a seven member President's Committee on Small Business Policy to advise the President on appropriate responses to the recommendations of the White House Conference on Small Business, designated the Administrator of the Small Business Administration to perform the functions of the President under Federal advisory committee provisions, and terminated the Committee on Dec. 31, 1982, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12269, Jan. 15, 1981, 46 F.R. 4673, which established a seven member President's Committee on Small Business Policy to advise the President on appropriate responses to the recommendations of the White House Conference on Small Business, designatedthe Administrator of the Small Business Administration to perform the functions of the President under Federal advisory committee provisions, and terminated the Committee on Dec. 31, 1982, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 12432. Minority Business Enterprise Development
 
@@ -968,7 +968,7 @@ Pub. L. 105–135, §2, Dec. 2, 1997, 111 Stat. 2593, provided that: “In this 
 
 &emsp;“(2) the term ‘Administrator’ means the Administrator of the Small Business Administration;
 
-&emsp;“(3) the term ‘Committees’ means the Committees on Small Business of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]; and
+&emsp;“(3) the term ‘Committees’ means the Committees on Small Business of the House of Representativesand the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\]; and
 
 &emsp;“(4) the term ‘small business concern’ has the meaning given the term in section 3 of the Small Business Act (15 U.S.C. 632).”
 

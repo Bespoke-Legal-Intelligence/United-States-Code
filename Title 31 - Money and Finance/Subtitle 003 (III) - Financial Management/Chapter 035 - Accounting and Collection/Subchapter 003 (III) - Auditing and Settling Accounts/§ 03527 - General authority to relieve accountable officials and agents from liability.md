@@ -100,7 +100,7 @@ In subsection (b)(2), the word “involved” is added for clarity because of Co
 
 In subsection (c), the words “or any officer of the General Accounting Office designated by the Comptroller General” are omitted as unnecessary because of section 731 of the revised title. The word “initiative” is substituted for “motion” for consistency. The words “findings and” and “concerned” are omitted as surplus. The words “or his designee” are omitted as unnecessary because of section 731 of the revised title. The words “in his discretion”, “of accountability and”, “official disbursing”, and “the making of” are omitted as surplus. The word “reasonable” is substituted for “due”, the words “the head of” are added, and the words “carry out” are substituted for “pursued”, for consistency.
 
-In subsection (d)(1), before clause (A), the words “restore or otherwise”, and the words “in . . . any amount” in 31:82a–2(c), are omitted as surplus. In clause (A), the words “to be charged” are substituted for “therefor” for clarity. In clause (B), the words “carried out” are substituted for “effected” for consistency.
+In subsection (d)(1), before clause (A), the words “restore or otherwise”, and the words “in . . . any amount” in 31:82a–2(c), are omitted as surplus. Inclause (A), the words “to be charged” are substituted for “therefor” for clarity. In clause (B), the words “carried out” are substituted for “effected” for consistency.
 
 Subsection (e) is substituted for 31:82a–2(b)(last sentence) and 95a(last sentence) to eliminate unnecessary words.
 

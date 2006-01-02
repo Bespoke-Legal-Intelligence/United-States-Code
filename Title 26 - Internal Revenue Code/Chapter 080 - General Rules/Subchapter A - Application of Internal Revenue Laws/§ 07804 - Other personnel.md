@@ -34,7 +34,7 @@ Pub. L. 105–206, title I, §1104(c), July 22, 1998, 112 Stat. 710, provided th
 
 #### Termination of Employment for Misconduct
 
-Pub. L. 105–206, title I, §1203, July 22, 1998, 112 Stat. 720, provided that:
+Pub. L. 105–206, title I, §1203, July 22, 1998, 112 Stat. 720, as amended by Pub. L. 108–357, title VIII, §881(d), Oct. 22, 2004, 118 Stat. 1627, provided that:
 
 “(a)
 
@@ -98,7 +98,11 @@ No appeal.—Any determination of the Commissioner of Internal Revenue under thi
 
 “(d)
 
-Definition.—For purposes of the provisions described in clauses (i), (ii), and (iv) of subsection (b)(3)(B), references to a program or activity receiving Federal financial assistance or an education program or activity receiving Federal financial assistance shall include any program or activity conducted by the Internal Revenue Service for a taxpayer.”
+Definition.—For purposes of the provisions described in clauses (i), (ii), and (iv) of subsection (b)(3)(B), references to a program or activity receiving Federal financial assistance or an education program or activity receiving Federal financial assistance shall include any program or activity conducted by the Internal Revenue Service for a taxpayer.
+
+“(e)
+
+Individuals Performing Services Under a Qualified Tax Collection Contract.—An individual shall cease to be permitted to perform any services under any qualified tax collection contract (as defined in section 6306(b) of the Internal Revenue Code of 1986) if there is a final determination by the Secretary of the Treasury under such contract that such individual committed any act or omission described under subsection (b) in connection with the performance of such services.”
 
 #### Employee Training Program
 
@@ -154,9 +158,15 @@ Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided th
 
 #### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 108–7, div. J, title I, §102, Feb. 20, 2003, 117 Stat. 437, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
+Pub. L. 109–115, div. A, title II, §202, Nov. 30, 2005, 119 Stat. 2438, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with taxpayers, and in cross-cultural relations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. H, title II, §202, Dec. 8, 2004, 118 Stat. 3240.
+
+Pub. L. 108–199, div. F, title II, §202, Jan. 23, 2004, 118 Stat. 318.
+
+Pub. L. 108–7, div. J, title I, §102, Feb. 20, 2003, 117 Stat. 437.
 
 Pub. L. 107–67, title I, §102, Nov. 12, 2001, 115 Stat. 523.
 
@@ -301,8 +311,4 @@ Definitions.—For purposes of this section—
 “(f)
 
 Authorization of Appropriations.—There are authorized to be appropriated for the purpose of carrying out the provisions of this section $2,500,000 for the fiscal year ending September 30, 1979, and $3,500,000 for the fiscal year ending September 30, 1980.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6344 of this title.
 

@@ -1,6 +1,6 @@
 ### §1437bbb. Purpose
 
-The purpose of this subchapter is to demonstrate the effectiveness of authorizing localgovernments and municipalities, in coordination with the public housing agencies for such jurisdictions—
+The purpose of this subchapter is to demonstrate the effectiveness of authorizing local governments and municipalities, in coordination with the public housing agencies for such jurisdictions—
 
 &emsp;(1) to receive and combine program allocations of covered housing assistance; and
 

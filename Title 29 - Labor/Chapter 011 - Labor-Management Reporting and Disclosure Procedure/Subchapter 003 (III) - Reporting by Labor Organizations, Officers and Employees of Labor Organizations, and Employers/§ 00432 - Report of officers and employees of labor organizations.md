@@ -18,7 +18,7 @@ Every officer of a labor organization and every employee of a labor organization
 
 #### (b) Report of certain bona fide investments
 
-The provisions of paragraphs (1), (2), (3), (4), and (5) of subsection (a) of this section shall not be construed to require any such officer or employee to report his bona fide investments in securities traded on a securities exchange registered as a national securities exchange under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], in shares in an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], or in securities of a public utility holding company registered under the Public Utility Holding Company Act of 1935 \[15 U.S.C. 79 et seq.\], or to report any income derived therefrom.
+The provisions of paragraphs (1), (2), (3), (4), and (5) of subsection (a) of this section shall not be construed to require any such officer or employee to report his bona fide investments in securities traded on a securities exchange registered as a national securities exchange under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], in shares in an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], or in securities of a public utility holding company registered under the Public Utility Holding Company Act of 1935, or to report any income derived therefrom.
 
 #### (c) Exemption from filing requirement
 
@@ -32,5 +32,5 @@ The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 
 
 The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 838, as amended, which is classified generally to chapter 20 (§79 et seq.) of Title 15. For complete classification of this Act to the Code, see section 79 of Title 15 and Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 

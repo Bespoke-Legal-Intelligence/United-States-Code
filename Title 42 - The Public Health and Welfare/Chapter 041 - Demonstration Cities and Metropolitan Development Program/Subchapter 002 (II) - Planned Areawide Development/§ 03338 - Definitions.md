@@ -4,7 +4,7 @@ As used in this subchapter—
 
 (1) “Areawide development” means all projects or programs for the acquisition, use, and development of open-space land; and the planning and construction of hospitals, libraries, airports, water supply and distribution facilities, sewerage facilities and waste treatment works, transportation facilities, highways, water development and land conservation, and other public works facilities.
 
-(2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8(e)\]; or under section 101(a)(1) <sup>1</sup> of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
+(2) “Areawide development project” means a project assisted or to be assisted under section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\]; section 606 of the Public Health Service Act \[42 U.S.C. 291f\]; section 8 <sup>1</sup> of the Federal Water Pollution Control Act \[33 U.S.C. 1158\]; section 120(a) of title 23; section 12 <sup>1</sup> of the Federal Airport Act; section 19 <sup>1</sup> of the Airport and Airway Development Act of 1970; section 5309 of title 49; title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\]; or section 5(e) of the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460<i>l</i>–8(e)\]; or under section101(a)(1) <sup>1</sup> of the Public Works and Economic Development Act of 1965 (for a project of a type which the Secretary determines to be eligible for assistance under any of the other provisions listed above).
 
 (3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or an agency or instrumentality of any of the foregoing.
 
@@ -56,11 +56,11 @@ In par. (2), “section 5309 of title 49” substituted for “section 3 of the 
 
 Par. (2). Pub. L. 90–448, §602(e)(1), substituted “Areawide development project” for “Metropolitan development project”.
 
-Par. (7). Pub. L. 90–448, §602(e)(2), substituted “official State, metropolitan, regional, or district agency” for “official State or metropolitan or regional agency”, and “in the case of areas” for “in the case of metropolitan areas”.
+Par. (7). Pub. L. 90–448, §602(e)(2), substituted “official State, metropolitan, regional, or district agency” for“official State or metropolitan or regional agency”, and “in the case of areas” for “in the case of metropolitan areas”.
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau ofthe Budget transferred to President of United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

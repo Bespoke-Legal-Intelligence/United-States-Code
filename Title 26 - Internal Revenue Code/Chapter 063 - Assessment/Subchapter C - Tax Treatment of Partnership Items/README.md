@@ -29,10 +29,6 @@
 
 1982—Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 648, added subchapter C heading and items 6221 to 6232.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 702, 6012, 6211, 6216, 6240, 6512 of this title.
-
 
 ---
 

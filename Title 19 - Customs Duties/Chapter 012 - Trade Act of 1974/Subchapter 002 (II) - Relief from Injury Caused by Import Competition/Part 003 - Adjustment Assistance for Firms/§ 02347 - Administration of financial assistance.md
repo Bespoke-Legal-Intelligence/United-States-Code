@@ -8,7 +8,7 @@ In making and administering guarantees and loans under section 2344 of this titl
 
 &emsp;(2) assign or sell at public or private sale, or otherwise dispose of, upon such terms and conditions and for such consideration as he shall determine to be reasonable, any evidence of debt, contract, claim, personal property, or security assigned to or held by him in connection with such guarantees or loans, and collect, compromise, and obtain deficiency judgments with respect to all obligations assigned to or held by him in connection with such guarantees or loans until such time as such obligations may be referred to the Attorney General for suit or collection;
 
-&emsp;(3) renovate, improve, modernize, complete, insure, rent, sell, or otherwise deal with, upon such terms and conditions and for such consideration as he shall determine to be reasonable, any real or personal property conveyed to or otherwise acquired by him in connection with such guarantees or loans;
+&emsp;(3) renovate, improve, modernize, complete, insure, rent, sell, or otherwise deal with, upon such terms and conditions and for such consideration as he shall determine to be reasonable, any real or personal property conveyed to orotherwise acquired by him in connection with such guarantees or loans;
 
 &emsp;(4) acquire, hold, transfer, release, or convey any real or personal property or any interest therein whenever deemed necessary or appropriate, and execute all legal documents for such purposes; and
 

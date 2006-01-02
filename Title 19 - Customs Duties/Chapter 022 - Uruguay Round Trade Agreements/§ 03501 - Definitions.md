@@ -62,5 +62,5 @@ Section 1(a) of Pub. L. 103–465 provided that: “This Act \[see Tables for cl
 
 #### Uruguay Round Agreements: Entry Into Force
 
-The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect tothe United States on Jan. 1, 1995. See note set out under section 3511 of this title.
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 

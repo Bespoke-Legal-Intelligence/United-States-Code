@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall determine, for each historic peanut producer, the average yieldfor peanuts on each farm on which the historic peanut producer planted peanuts for harvest for the 1998 through 2001 crop years, excluding any crop year in which the producer did not plant or was prevented from planting peanuts.
+&emsp;&emsp;The Secretary shall determine, for each historic peanut producer, the average yield for peanuts on each farm on which the historic peanut producer planted peanuts for harvest for the 1998 through 2001 crop years, excluding any crop year in which the producer did not plant or was prevented from planting peanuts.
 
 #### (B) Assigned yields
 

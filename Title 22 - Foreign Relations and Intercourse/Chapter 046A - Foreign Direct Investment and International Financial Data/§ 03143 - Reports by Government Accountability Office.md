@@ -6,7 +6,7 @@ The Comptroller General, to the extent permitted by law, including section 3144 
 
 #### (b) Reports
 
-Consistent with the provisions of this section, the Comptroller General may submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science, and Transportation of the Senate, and to the Joint Economic Committee of the Congress reports—
+Consistent with the provisions of this section, the Comptroller General may submit to the Committee on Energy and Commerce, the Committee on Ways and Means, and the Committee on Foreign Affairs of the House of Representatives, to the Committee on Commerce, Science,and Transportation of the Senate, and to the Joint Economic Committee of the Congress reports—
 
 &emsp;(1) analyzing reports issued by the Secretary of Commerce under section 3142 of this title;
 

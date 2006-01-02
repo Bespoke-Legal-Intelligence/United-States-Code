@@ -10,7 +10,7 @@
 | [3918\.](%C2%A7%2003918%20-%20Thirty%20years%20or%20more%20regular%20commissioned%20officers.md) | Thirty years or more: regular commissioned officers. |
 | \[3919. | Repealed.\] |
 | [3920\.](%C2%A7%2003920%20-%20More%20than%20thirty%20years%20permanent%20professors%20and%20the%20Director%20of%20Admissions%20of%20the%20United%20States%20Military%20Academy.md) | More than thirty years: permanent professors and the Director of Admissions of the United States Military Academy. |
-| [3921\.](%C2%A7%2003921%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Military%20Academy.md) | Mandatory retirement: Superintendent of the United States Military Academy. |
+| [3921\.](%C2%A7%2003921%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Military%20Academy%3B%20waiver%20authority.md) | Mandatory retirement: Superintendent of the United States Military Academy; waiver authority. |
 | \[3922, 3923. Repealed.\] |  |
 | [3924\.](%C2%A7%2003924%20-%20Forty%20years%20or%20more%20Army%20officers.md) | Forty years or more: Army officers. |
 | [3925\.](%C2%A7%2003925%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20enlisted%20members.md) | Computation of years of service: voluntary retirement; enlisted members. |
@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §541(c)(1)(B), Oct. 28, 2004, 118 Stat. 1904, inserted “; waiver authority” after “Academy” in item 3921.
 
 1999—Pub. L. 106–65, div. A, title V, §532(a)(4)(A), Oct. 5, 1999, 113 Stat. 603, added item 3921.
 
@@ -35,10 +37,6 @@ Pub. L. 96–343, §9(a)(3), Sept. 8, 1980, 94 Stat. 1128, struck out “regular
 1967—Pub. L. 90–130, §1(13), Nov. 8, 1967, 81 Stat. 376, struck out item 3915 “Twenty-five years: regular majors; Women's Army Corps, Army Nurse Corps and Army Medical Specialist Corps”.
 
 1957—Pub. L. 85–155, title I, §101(20), title IV, §401(3), Aug. 21, 1957, 71 Stat. 380, 390, included the Army Nurse Corps and the Army Medical Specialist Corps within item 3915, and struck out item 3912 “Twenty years or more: regular commissioned officers; Army Nurse Corps and Women's Medical Specialist Corps” and item 3928 “Computation of years of service: voluntary retirement; regular commissioned officers; Army Nurse Corps and Women's Medical Specialist Corps”.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in section 12741 of this title.
 
 
 ---
@@ -55,7 +53,7 @@ This chapter is referred to in section 12741 of this title.
 - [&sect; 03918 - Thirty years or more regular commissioned officers](%C2%A7%2003918%20-%20Thirty%20years%20or%20more%20regular%20commissioned%20officers.md)
 - [&sect; 03919 - Repealed. Pub. L. 96&#8211;513, title II, &sect;217(a), Dec. 12, 1980, 94 Stat. 2886](%C2%A7%2003919%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7217%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202886.md)
 - [&sect; 03920 - More than thirty years permanent professors and the Director of Admissions of the United States Military Academy](%C2%A7%2003920%20-%20More%20than%20thirty%20years%20permanent%20professors%20and%20the%20Director%20of%20Admissions%20of%20the%20United%20States%20Military%20Academy.md)
-- [&sect; 03921 - Mandatory retirement Superintendent of the United States Military Academy](%C2%A7%2003921%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Military%20Academy.md)
+- [&sect; 03921 - Mandatory retirement Superintendent of the United States Military Academy; waiver authority](%C2%A7%2003921%20-%20Mandatory%20retirement%20Superintendent%20of%20the%20United%20States%20Military%20Academy%3B%20waiver%20authority.md)
 - [&sect; 03922, 3923 - Repealed. Pub. L. 96&#8211;513, title II, &sect;217(a), Dec. 12, 1980, 94 Stat. 2886](%C2%A7%2003922%2C%203923%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93513%2C%20title%20II%2C%20%C2%A7217%28a%29%2C%20Dec.%2012%2C%201980%2C%2094%20Stat.%202886.md)
 - [&sect; 03924 - Forty years or more Army officers](%C2%A7%2003924%20-%20Forty%20years%20or%20more%20Army%20officers.md)
 - [&sect; 03925 - Computation of years of service voluntary retirement; enlisted members](%C2%A7%2003925%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement%3B%20enlisted%20members.md)

@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+�Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
+The Secretary shall not permit the election under section 1395w–21 of this title of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under section 1395w–23 of this title to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 #### (b) Minimum enrollment requirements
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this section with a Medicare+Choice organization unless the organization has—
+&emsp;Subject to paragraph (2), the Secretary may not enter into a contract under this sectionwith a Medicare+Choice organization unless the organization has—
 
 &emsp;&emsp;(A) at least 5,000 individuals (or 1,500 individuals in the case of an organization that is a provider-sponsored organization) who are receiving health benefits through the organization, or
 
@@ -60,7 +60,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) Periodic auditing
 
-&emsp;The Secretary shall provide for the annual auditing of the financial records (including data relating to medicare utilization, costs, and computation of the adjusted community rate) of at least one-third of the Medicare+�Choice organizations offering Medicare+�Choice plans under this part. The Comptroller General shall monitor auditing activities conducted under this subsection.
+&emsp;The Secretary shall provide for the annual auditing of the financial records (including data relating to medicare utilization and costs, including allowable costs under section 1395w–27a(c) of this title) of at least one-third of the Medicare+Choice organizations offering Medicare+Choice plans under this part. The Comptroller General shall monitor auditing activities conducted under this subsection.
 
 #### (2) Inspection and audit
 
@@ -132,29 +132,31 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization shall pay the fee established by the Secretary under subparagraph (B).
+&emsp;&emsp;A Medicare+Choice organization and a PDP sponsor under part D of this subchapter shall pay the fee established by the Secretary under subparagraph (B).
 
 #### (B) Authorization
 
-&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part that is equal to the organization's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information) and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
+&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D of this subchapter that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
 
 #### (C) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 an amount equal to $100,000,000, reduced by the amount of fees authorized to be collected under this paragraph for the fiscal year.
+&emsp;&emsp;There are authorized to be appropriated for the purposes described in subparagraph (B) for each fiscal year beginning with fiscal year 2001 and ending with fiscal year 2005 an amount equal to $100,000,000, and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000, reduced by the amount of fees authorized to be collected under this paragraph and section 1395w–112(b)(3)(D) of this title for the fiscal year.
 
 #### (D) Limitation
 
 &emsp;&emsp;In any fiscal year the fees collected by the Secretary under subparagraph (B) shall not exceed the lesser of—
 
-&emsp;&emsp;&emsp;(i) the estimated costs to be incurred by the Secretary in the fiscal year in carrying out the activities described in section 1395w–21 of this title and section 1395b–4 of this title; or
+&emsp;&emsp;&emsp;(i) the estimated costs to be incurred by the Secretary in the fiscal year in carrying out the activities described in section 1395w–21 of this title and section 1395w–101(c) of this title and section 1395b–4 of this title; or
 
 &emsp;&emsp;&emsp;(ii)(I) $200,000,000 in fiscal year 1998;
 
 &emsp;&emsp;&emsp;(II) $150,000,000 in fiscal year 1999;
 
-&emsp;&emsp;&emsp;(III) $100,000,000 in fiscal year 2000; and
+&emsp;&emsp;&emsp;(III) $100,000,000 in fiscal year 2000;
 
-&emsp;&emsp;&emsp;(IV) the Medicare+Choice portion (as defined in subparagraph (E)) of $100,000,000 in fiscal year 2001 and each succeeding fiscal year.
+&emsp;&emsp;&emsp;(IV) the Medicare+Choice portion (as defined in subparagraph (E)) of $100,000,000 infiscal year 2001 and each succeeding fiscal year before fiscal year 2006; and
+
+&emsp;&emsp;&emsp;(V) the applicable portion (as defined in subparagraph (F)) of $200,000,000 in fiscal year 2006 and each succeeding fiscal year.
 
 #### (E) Medicare+Choice portion defined
 
@@ -164,6 +166,24 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;&emsp;(ii) the average number of individuals entitled to benefits under part A of this subchapter, and enrolled under part B of this subchapter, during the fiscal year.
 
+#### (F) Applicable portion defined
+
+&emsp;&emsp;In this paragraph, the term “applicable portion” means, for a fiscal year—
+
+&emsp;&emsp;&emsp;(i) with respect to MA organizations, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made under this part (including payments under part D of this subchapter that are made to such organizations); or
+
+&emsp;&emsp;&emsp;(ii) with respect to PDP sponsors, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made to such sponsors under part D of this subchapter.
+
+#### (3) Agreements with federally qualified health centers
+
+#### (A) Payment levels and amounts
+
+&emsp;&emsp;A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the plan would make for such services if the services had been furnished by a entity providing similar services that was not a federally qualified health center.
+
+#### (B) Cost-sharing
+
+&emsp;&emsp;Under the written agreement referred to in subparagraph (A), a federally qualified health center must accept the payment amount referred to in such subparagraph plus the Federal payment provided for in section 1395<i>l</i>(a)(3)(B) of this title as payment in full for services covered by the agreement, except that such a health center may collect any amount of cost-sharing permitted under the contract under this section, so long as the amounts of any deductible, coinsurance, or copayment comply with the requirements under section 1395w–24(e) of this title.
+
 #### (f) Prompt payment by Medicare+Choice organization
 
 #### (1) Requirement
@@ -172,7 +192,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (2) Secretary's option to bypass noncomplying organization
 
-&emsp;In the case of a Medicare+Choice eligible organization which the Secretary determines, after notice and opportunity for a hearing, has failed to make payments of amounts in compliance with paragraph (1), the Secretary may provide for direct payment of the amountsowed to providers and suppliers (or, in the case of a Medicare+Choice private fee-for-service plan, amounts owed to the enrollees) for covered services and supplies furnished to individuals enrolled under this part under the contract. If the Secretary provides for the direct payments, the Secretary shall provide for an appropriate reduction in the amount of payments otherwise made to the organization under this part to reflect the amount of the Secretary's payments (and the Secretary's costs in making the payments).
+&emsp;In the case of a Medicare+Choice eligible organization which the Secretary determines, after notice and opportunity for a hearing, has failed to make payments of amounts in compliance with paragraph (1), the Secretary may provide for direct payment of the amounts owed to providers and suppliers (or, in the case of a Medicare+Choice private fee-for-service plan, amounts owed to the enrollees) for covered services and supplies furnished to individuals enrolled under this part under the contract. If the Secretary provides for the direct payments, the Secretary shall provide for an appropriate reduction in the amount of payments otherwise made to the organization under this part to reflect the amount of the Secretary's payments (and the Secretary's costs in making the payments).
 
 #### (g) Intermediate sanctions
 
@@ -242,63 +262,47 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (i) Medicare+Choice program compatibility with employer or union group health plans
 
-To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+#### (1) Contracts with MA organizations
+
+&emsp;To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+
+#### (2) Employer sponsored MA plans
+
+&emsp;To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (<i>l</i>)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372.)
 
-#### Amendment of Section
-
-<i>Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 223(a), Dec. 8, 2003, 117 Stat. 2205, 2207, provided that, applicable with respect to plan years beginning on or after Jan. 1, 2006, this section is amended—</i>
-
-<i>(1) in subsection (d)(1), by striking “, costs, and computation of the adjusted community rate” and inserting “and costs, including allowable costs under section 1395w–27a(c) of this title”;</i>
-
-<i>(2) in subsection (e)(2):</i>
-
-(A) in subparagraph (A), by inserting “and a PDP sponsor under part D of this subchapter” after “organization”;
-
-(B) in subparagraph (B), by inserting “and each PDP sponsor with a contract under part D of this subchapter” after “contract under this part”, “or sponsor's” after “organization's”, and “, section 1395w–101(c) of this title,” after “information)”;
-
-(C) in subparagraph (C), by inserting “and ending with fiscal year 2005” after “beginning with fiscal year 2001”, “and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000,” after “$100,000,000,”, and “and section 1395w–112(b)(3)(D) of this title” after “under this paragraph”;
-
-(D) in subparagraph (D), by inserting “and section 1395w–101(c) of this title” after “section 1395w–21 of this title” in clause (i), by striking “and” at the end of clause (ii)(III), by striking “each succeeding fiscal year.” and inserting “each succeeding fiscal year before fiscal year 2006; and” in clause (ii)(IV), and by adding at the end of clause (ii) the following new subclause:
-
-&emsp;&emsp;&emsp;<i>“(V) the applicable portion (as defined in subparagraph (F)) of $200,000,000 in fiscal year 2006 and each succeeding fiscal year.”; and</i>
-
-(E) by adding at the end the following new subparagraph:
-
-#### <i>“(F) Applicable portion defined</i>
-
-&emsp;&emsp;<i>“In this paragraph, the term ‘applicable portion’ means, for a fiscal year—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) with respect to MA organizations, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made under this part (including payments under part D of this subchapter that are made to such organizations); or</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) with respect to PDP sponsors, the Secretary's estimate of the total proportion of expenditures under this subchapter that are attributable to expenditures made to such sponsors under part D of this subchapter.”; and</i>
-
-<i>(3) in subsection (i), by designating the matter following the heading as a paragraph (1) with the heading “Contracts with MA organizations” and appropriate indentation, and by adding at the end the following new paragraph:</i>
-
-#### <i>“(2) Employer sponsored MA plans</i>
-
-&emsp;<i>“To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title, an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.”</i>
-
-<i>Pub. L. 108–173, title II, §237(c), (e), Dec. 8, 2003, 117 Stat. 2213, provided that, applicable to services provided on or after Jan. 1, 2006, and contract years beginning on or after such date, subsection (e) of this section is amended by adding at the end the following new paragraph:</i>
-
-#### <i>“(3) Agreements with federally qualified health centers</i>
-
-#### <i>“(A) Payment levels and amounts</i>
-
-&emsp;&emsp;<i>“A contract under this section with an MA organization shall require the organization to provide, in any written agreement described in section 1395w–23(a)(4) of this title between the organization and a federally qualified health center, for a level and amount of payment to the federally qualified health center for services provided by such health center that is not less than the level and amount of payment that the plan would make for such services if the services had been furnished by a entity providing similar services that was not a federally qualified health center.</i>
-
-#### <i>“(B) Cost-sharing</i>
-
-&emsp;&emsp;<i>“Under the written agreement referred to in subparagraph (A), a federally qualified health center must accept the payment amount referred to in such subparagraph plus the Federal payment provided for in section 1395l(a)(3)(B) of this title as payment in full for services covered by the agreement, except that such a health center may collect any amount of cost-sharing permitted under the contract under this section, so long as the amounts of any deductible, coinsurance, or copayment comply with the requirements under section 1395w–24(e) of this title.”</i>
-
 #### References in Text
+
+Part D of this subchapter, referred to in subsec. (e)(2)(A), (B), (F), is classified to section 1395w–101 et seq. of this title.
 
 Parts A and B of this subchapter, referred to in subsec. (e)(2)(E)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
 
-2003—Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §900(e)(1)(I), substituted “Secretary” for “Health Care Financing Administration”.
+2003—Subsec. (d)(1). Pub. L. 108–173, §222(<i>l</i>)(3)(C), substituted “and costs, including allowable costs under section 1395w–27a(c) of this title” for “, costs, and computation of the adjusted community rate”.
+
+Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §900(e)(1)(I), substituted “Secretary” for “Health Care Financing Administration”.
+
+Subsec. (e)(2)(A). Pub. L. 108–173, §222(k)(1), inserted “and a PDP sponsor under part D of this subchapter” after “organization”.
+
+Subsec. (e)(2)(B). Pub. L. 108–173, §222(k)(2), inserted “and each PDP sponsor with a contract under part D of this subchapter” after “contract under this part”, “or sponsor's” after “organization's”, and “, section 1395w–101(c) of this title,” after “information)”.
+
+Subsec. (e)(2)(C). Pub. L. 108–173, §222(k)(3), inserted “and ending with fiscal year 2005” after “beginning with fiscal year 2001”, “and for each fiscal year beginning with fiscal year 2006 an amount equal to $200,000,000,” after “$100,000,000,”, and “and section 1395w–112(b)(3)(D) of this title” after “under this paragraph”.
+
+Subsec. (e)(2)(D)(i). Pub. L. 108–173, §222(k)(4)(A), inserted “and section 1395w–101(c) of this title” after “section 1395w–21 of this title”.
+
+Subsec. (e)(2)(D)(ii)(III). Pub. L. 108–173, §222(k)(4)(B), struck out “and” at end.
+
+Subsec. (e)(2)(D)(ii)(IV). Pub. L. 108–173, §222(k)(4)(C), substituted “each succeeding fiscal year before fiscal year 2006; and” for “each succeeding fiscal year.”
+
+Subsec. (e)(2)(D)(ii)(V). Pub. L. 108–173, §222(k)(4)(D), added subcl. (V).
+
+Subsec. (e)(2)(F). Pub. L. 108–173, §222(k)(5), added subpar. (F).
+
+Subsec. (e)(3). Pub. L. 108–173, §237(c), added par. (3).
+
+Subsec. (i). Pub. L. 108–173, §222(j), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 2000—Subsec. (g)(3)(D). Pub. L. 106–554, §1(a)(6) \[title VI, §623(a)\], added subpar. (D).
 
@@ -340,7 +344,7 @@ Pub. L. 106–554, §1(a)(6) \[title VI, §623(b)\], Dec. 21, 2000, 114 Stat. 27
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §513(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, provided that: “The amendments made by this section \[amending this section\] apply to contract terminations occurring before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387, provided that: “The amendments made by subsection (a) \[amending this section\] apply to fees charged on or after January 1, 2001. The Secretary of Health and Human Services may not increase the fees charged under section 1857(e)(2) of the Social Security Act (42 U.S.C. 1395w–27(e)(2)) for the 3-month period beginning with October 2000 above the level in effect during the previous 9-month period.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §522(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387, provided that:“The amendments made by subsection (a) \[amending this section\] apply to fees charged on or after January 1, 2001. The Secretary of Health and Human Services may not increase the fees charged under section 1857(e)(2) of the Social Security Act (42 U.S.C. 1395w–27(e)(2)) for the 3-month period beginning with October 2000 above the level in effect during the previous 9-month period.”
 
 #### Construction Relating to Additional Exceptions
 

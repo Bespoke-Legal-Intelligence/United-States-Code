@@ -26,6 +26,10 @@ Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
 The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–59, title IV, §4001, Aug. 10, 2005, 119 Stat. 1714, provided that: “This title \[see Tables for classification\] may be cited as the ‘Motor Carrier Safety Reauthorization Act of 2005’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–414, §1, Nov. 1, 2000, 114 Stat. 1800, provided that: “This Act \[enacting section 30170 of this title, amending sections 30115, 30117, 30118, 30120, 30165, and 30166 of this title, and enacting provisions set out as notes under sections 30111, 30115, 30118, 30123, and 30127 of this title\] may be cited as the ‘Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act’.”
@@ -37,6 +41,56 @@ Pub. L. 105–178, title VII, §7101, June 9, 1998, 112 Stat. 465, provided that
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–152, §1, July 2, 1996, 110 Stat. 1384, provided that: “This Act \[amending sections 30501 to 30505 and 33109 of this title and enacting provisions set out as a note under section 30502 of this title\] may be cited as the ‘Anti-Car Theft Improvements Act of 1996’.”
+
+#### Side-Impact Crash Protection Rulemaking
+
+Pub. L. 109–59, title X, §10302, Aug. 10, 2005, 119 Stat. 1940, provided that:
+
+“(a)
+
+Rulemaking.—The Secretary \[of Transportation\] shall complete a rulemaking proceeding under chapter 301 of title 49, United States Code, to establish a standard designed to enhance passenger motor vehicle occupant protection, in all seating positions, in side impact crashes. The Secretary shall issue a final rule by July 1, 2008.
+
+“(b)
+
+Deadlines.—If the Secretary determines that the deadline for a final rule under this section cannot be met, the Secretary shall—
+
+&emsp;“(1) notify the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce and explain why that deadline cannot be met; and
+
+&emsp;“(2) establish a new deadline.”
+
+#### Vehicle Backover Avoidance Technology Study; Nontraffic Incident Data Collection
+
+Pub. L. 109–59, title X, §§10304, 10305, Aug. 10, 2005, 119 Stat. 1940, 1941, provided that:
+
+#### “SEC. 10304. VEHICLE BACKOVER AVOIDANCE TECHNOLOGY STUDY.
+
+“(a)
+
+In General.—The Administrator of the National Highway Traffic Safety Administration shall conduct a study of effective methods for reducing the incidence of injury and death outside of parked passenger motor vehicles with a gross vehicle weight rating of not more than 10,000 pounds attributable to movement of such vehicles. The Administrator shall complete the study within 1 year after the date of enactment of this Act \[Aug. 10, 2005\] and report its findings to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce not later than 15 months after the date of enactment of this Act.
+
+“(b)
+
+Specific Issues To Be Covered.—The study required by subsection (a) shall—
+
+&emsp;“(1) include an analysis of backover prevention technology;
+
+&emsp;“(2) identify, evaluate, and compare the available technologies for detecting people or objects behind a motor vehicle with a gross vehicle weight rating of not more than 10,000 pounds for their accuracy, effectiveness, cost, and feasibility for installation; and
+
+&emsp;“(3) provide an estimate of cost savings that would result from widespread use of backover prevention devices and technologies in motor vehicles with a gross vehicle weight rating of not more than 10,000 pounds, including savings attributable to the prevention of—
+
+&emsp;&emsp;“(A) injuries and fatalities; and
+
+&emsp;&emsp;“(B) damage to bumpers and other motor vehicle parts and damage to other objects.
+
+#### “SEC. 10305. NONTRAFFIC INCIDENT DATA COLLECTION.
+
+“(a)
+
+In General.—In conjunction with the study required in section 10304, the National Highway Traffic Safety Administration shall establish a method to collect and maintain data on the number and types of injuries and deaths involving motor vehicles with a gross vehicle weight rating of not more than 10,000 pounds in non-traffic incidents.
+
+“(b)
+
+Data Collection and Publication.—The Secretary of Transportation shall publish the data collected under subsection (a) no less frequently than biennially.”
 
 #### Study on Interior Device To Release Trunk Lid
 
@@ -94,7 +148,7 @@ Period.—Action under paragraphs (1) through (4) of section 2503 which was begu
 
 &emsp;&emsp;&emsp;“(ii)
 
-Action.—A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may include deferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register, together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\].
+Action.—A rulemaking under paragraphs (1) through (4) of section 2503 shall be considered completed when the Secretary promulgates a final rule or when the Secretary decides not to promulgate a rule (which decision may include deferral of the action or reinitiation of the action). The Secretary may not decide against promulgation of a final rule because of lack of time to complete rulemaking. Any such rulemaking actions shall be published in the Federal Register,together with the reasons for such decisions, consistent with chapter 5 of title 5, United States Code, and the National Traffic and Motor Vehicle Safety Act of 1966 \[formerly 15 U.S.C. 1381 et seq.\].
 
 &emsp;&emsp;&emsp;“(iii)
 

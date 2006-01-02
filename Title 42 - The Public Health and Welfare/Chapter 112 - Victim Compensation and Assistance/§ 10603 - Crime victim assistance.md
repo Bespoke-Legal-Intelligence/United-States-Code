@@ -52,21 +52,25 @@
 
 (2) Except as provided in paragraph (3), an eligible crime victim assistance program shall expend sums received under subsection (a) of this section only for providing services to victims of crime.
 
-(3) Not more than 5 percent of sums received under subsection (a) of this section may be used for the administration of the State crime victim assistance program receiving such sums.
+(3) Not more than 5 percent of sums received under subsection (a) of this section may be used for training purposes and the administration of the State crime victim assistance program receiving such sums.
 
 #### (c) Grants: purposes; distribution; duties of Director; reimbursement by Director
 
-(1) The Director,<sup>2</sup> shall make grants—
+(1) The Director shall make grants—
 
-&emsp;(A) for demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs; and
+&emsp;(A) for demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs;
 
-&emsp;(B) for the financial support of services to victims of Federal crime by eligible crime victim assistance programs.
+&emsp;(B) for the financial support of services to victims of Federal crime by eligible crime victim assistance programs; and
+
+&emsp;(C) for nonprofit neighborhood and community-based victim service organizations and coalitions to improve outreach and services to victims of crime.
 
 (2) Of the amount available for grants under this subsection—
 
-&emsp;(A) not less than 50 percent shall be used for grants under paragraph (1)(A); and
+&emsp;(A) not less than 50 percent shall be used for grants under paragraphs (1)(A) and (1)(C);
 
-&emsp;(B) not more than 50 percent shall be used for grants under paragraph (1)(B).
+&emsp;(B) not more than 50 percent shall be used for grants under paragraph (1)(B); and
+
+&emsp;(C) not more than $10,000 shall be used for any single grant under paragraph (1)(C).
 
 (3) The Director shall—
 
@@ -76,7 +80,7 @@
 
 &emsp;(C) coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations;
 
-&emsp;(D) perform such other functions related to the purposes of this title <sup>3</sup> as the Director deems appropriate; and
+&emsp;(D) perform such other functions related to the purposes of this title <sup>2</sup> as the Director deems appropriate; and
 
 &emsp;(E) use funds made available to the Director under this subsection—
 
@@ -118,7 +122,7 @@ As used in this section—
 
 &emsp;(5) the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
 
-(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5),Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, §623, Oct. 26, 2001, 115 Stat. 372.)
+(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, §623, Oct. 26, 2001, 115 Stat. 372; Pub. L. 109–162, title XI, §§1131, 1133(b), Jan. 5, 2006, 119 Stat. 3107, 3108.)
 
 #### References in Text
 
@@ -127,6 +131,16 @@ Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed a
 This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of title II to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
+
+2006—Subsec. (b)(3). Pub. L. 109–162, §1133(b), inserted “training purposes and” after “may be used for”.
+
+Subsec. (c)(1). Pub. L. 109–162, §1131(1)(A), struck out comma after “Director” in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 109–162, §1131(1)(B)–(D), added subpar. (C).
+
+Subsec. (c)(2)(A). Pub. L. 109–162, §1131(2)(A)(i), substituted “paragraphs (1)(A) and (1)(C)” for “paragraph (1)(A)”.
+
+Subsec. (c)(2)(C). Pub. L. 109–162, §1131(2)(A)(ii)–(2)(C), added subpar. (C).
 
 2001—Subsec. (a)(6). Pub. L. 107–56, §623(a), added par. (6).
 
@@ -198,7 +212,5 @@ Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–69
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

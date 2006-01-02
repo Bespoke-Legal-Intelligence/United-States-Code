@@ -30,7 +30,7 @@
 
 If a corporation described in section 501(c)(2)—
 
-&emsp;(1) pays any amount of its net income for a taxable year to an organization exempt from taxation under section 501(a) (or which would pay such an amount but for the fact that theexpenses of collecting its income exceed its income), and
+&emsp;(1) pays any amount of its net income for a taxable year to an organization exempt from taxation under section 501(a) (or which would pay such an amount but for the fact that the expenses of collecting its income exceed its income), and
 
 &emsp;(2) such corporation and such organization file a consolidated return for the taxable year,
 
@@ -111,8 +111,4 @@ Section 3 of Pub. L. 89–352 provided in part that: “The amendment made by se
 #### Effective Date of 1960 Amendment
 
 Amendment by Pub. L. 86–667 applicable to taxable years beginning after Dec. 31, 1959, see section 6 of Pub. L. 86–667, set out as a note under section 501 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 11, 12, 50, 168, 220, 223, 337, 408, 448, 501, 509, 512, 513, 514, 515, 527, 529, 530, 772, 856, 860E, 904, 995, 1201, 1245, 1250, 1443, 1563, 2651, 4940, 6654, 6655, 7611, 7871 of this title.
 

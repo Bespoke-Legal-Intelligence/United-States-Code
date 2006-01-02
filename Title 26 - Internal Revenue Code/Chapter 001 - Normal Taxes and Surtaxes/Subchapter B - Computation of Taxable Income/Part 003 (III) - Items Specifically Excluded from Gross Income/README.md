@@ -20,9 +20,8 @@
 | [110\.](%C2%A7%2000110%20-%20Qualified%20lessee%20construction%20allowances%20for%20short-term%20leases.md) | Qualified lessee construction allowances for short-term leases. |
 | [111\.](%C2%A7%2000111%20-%20Recovery%20of%20tax%20benefit%20items.md) | Recovery of tax benefit items. |
 | [112\.](%C2%A7%2000112%20-%20Certain%20combat%20zone%20compensation%20of%20members%20of%20the%20Armed%20Forces.md) | Certain combat zone compensation of members of the Armed Forces. |
-| \[113. | Repealed.\] |
-| [114\.](%C2%A7%2000114%20-%20Extraterritorial%20income.md) | Extraterritorial income. |
-| [115\.](%C2%A7%2000115%20-%20Income%20of%20States%2C%20municipalities%2C%20etc.md) | Income of States, municipalities, etc.<sup>1</sup> |
+| \[113, 114. | Repealed.\] |
+| [115\.](%C2%A7%2000115%20-%20Income%20of%20States%2C%20municipalities%2C%20etc.md) | Income of States, municipalities, etc. |
 | \[116. | Repealed.\] |
 | [117\.](%C2%A7%2000117%20-%20Qualified%20scholarships.md) | Qualified scholarships. |
 | [118\.](%C2%A7%2000118%20-%20Contributions%20to%20the%20capital%20of%20a%20corporation.md) | Contributions to the capital of a corporation. |
@@ -50,7 +49,7 @@
 | [135\.](%C2%A7%2000135%20-%20Income%20from%20United%20States%20savings%20bonds%20used%20to%20pay%20higher%20education%20tuition%20and%20fees.md) | Income from United States savings bonds used to pay higher education tuition and fees. |
 | [136\.](%C2%A7%2000136%20-%20Energy%20conservation%20subsidies%20provided%20by%20public%20utilities.md) | Energy conservation subsidies provided by public utilities. |
 | [137\.](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md) | Adoption assistance programs. |
-| [138\.](%C2%A7%2000138%20-%20Medicare%2BChoice%20MSA.md) | Medicare+Choice MSA. |
+| [138\.](%C2%A7%2000138%20-%20Medicare%20Advantage%20MSA.md) | Medicare Advantage MSA. |
 | [139\.](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md) | Disaster relief payments. |
 | [139A.](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md) | Federal subsidies for prescription drug plans. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
@@ -58,6 +57,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title I, §101(b)(3), Oct. 22, 2004, 118 Stat. 1423, struck out item 114 “Extraterritorial income”.
+
+Pub. L. 108–311, title IV, §408(a)(5)(G), Oct. 4, 2004, 118 Stat. 1191, substituted “Medicare Advantage MSA” for “Medicare+Choice MSA” in item 138.
 
 2003—Pub. L. 108–173, title XII, §1202(c), Dec. 8, 2003, 117 Stat. 2480, added item 139A.
 
@@ -73,7 +76,7 @@ Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added ite
 
 1992—Pub. L. 102–486, title XIX, §1912(b), Oct. 24, 1992, 106 Stat. 3016, added items 136 and 137 and struck out former item 136 “Cross references to other Acts”.
 
-1990—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item 114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
+1990—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
 
 1988—Pub. L. 100–647, title I, §1013(a)(37), title VI, §6009(c)(4), Nov. 10, 1988, 102 Stat. 3544, 3690, substituted “Interest on State and local bonds” for “Interest on certain governmental obligations” in item 103, struck out item 103A “Mortgage subsidy bonds”, added item 135 and redesignated former item 135 “Cross references to other Acts” as item 136.
 
@@ -157,10 +160,6 @@ In general.—This section shall apply to any amount received on or after Januar
 
 No inference.—Nothing in this Act \[see Tables for classification\] shall be construed to create any inference with respect to the proper tax treatment of any amount received before January 1, 2000.”
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 61 of this title.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 <i><sup>2</sup></i><i> Editorially supplied. Section 129 added by Pub. L. 97–34 without corresponding amendment of part analysis.</i>
@@ -184,7 +183,7 @@ This part is referred to in section 61 of this title.
 - [&sect; 00111 - Recovery of tax benefit items](%C2%A7%2000111%20-%20Recovery%20of%20tax%20benefit%20items.md)
 - [&sect; 00112 - Certain combat zone compensation of members of the Armed Forces](%C2%A7%2000112%20-%20Certain%20combat%20zone%20compensation%20of%20members%20of%20the%20Armed%20Forces.md)
 - [&sect; 00113 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(7), Nov. 5, 1990, 104 Stat. 1388&#8211;520](%C2%A7%2000113%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%287%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93520.md)
-- [&sect; 00114 - Extraterritorial income](%C2%A7%2000114%20-%20Extraterritorial%20income.md)
+- [&sect; 00114 - Repealed. Pub. L. 108&#8211;357, title I, &sect;101(a), Oct. 22, 2004, 118 Stat. 1423](%C2%A7%2000114%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93357%2C%20title%20I%2C%20%C2%A7101%28a%29%2C%20Oct.%2022%2C%202004%2C%20118%20Stat.%201423.md)
 - [&sect; 00115 - Income of States, municipalities, etc](%C2%A7%2000115%20-%20Income%20of%20States%2C%20municipalities%2C%20etc.md)
 - [&sect; 00116 - Repealed. Pub. L. 99&#8211;514, title VI, &sect;612(a), Oct. 22, 1986, 100 Stat. 2250](%C2%A7%2000116%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93514%2C%20title%20VI%2C%20%C2%A7612%28a%29%2C%20Oct.%2022%2C%201986%2C%20100%20Stat.%202250.md)
 - [&sect; 00117 - Qualified scholarships](%C2%A7%2000117%20-%20Qualified%20scholarships.md)
@@ -208,7 +207,7 @@ This part is referred to in section 61 of this title.
 - [&sect; 00135 - Income from United States savings bonds used to pay higher education tuition and fees](%C2%A7%2000135%20-%20Income%20from%20United%20States%20savings%20bonds%20used%20to%20pay%20higher%20education%20tuition%20and%20fees.md)
 - [&sect; 00136 - Energy conservation subsidies provided by public utilities](%C2%A7%2000136%20-%20Energy%20conservation%20subsidies%20provided%20by%20public%20utilities.md)
 - [&sect; 00137 - Adoption assistance programs](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md)
-- [&sect; 00138 - Medicare+Choice MSA](%C2%A7%2000138%20-%20Medicare%2BChoice%20MSA.md)
+- [&sect; 00138 - Medicare Advantage MSA](%C2%A7%2000138%20-%20Medicare%20Advantage%20MSA.md)
 - [&sect; 00139 - Disaster relief payments](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md)
 - [&sect; 00139A - Federal subsidies for prescription drug plans](%C2%A7%2000139A%20-%20Federal%20subsidies%20for%20prescription%20drug%20plans.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

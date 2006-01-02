@@ -36,7 +36,7 @@ As used in this chapter, the term—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–620, Nov. 8,1984, 98 Stat. 3336, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original “this title” meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note below and Tables.
 
 #### Amendments
 

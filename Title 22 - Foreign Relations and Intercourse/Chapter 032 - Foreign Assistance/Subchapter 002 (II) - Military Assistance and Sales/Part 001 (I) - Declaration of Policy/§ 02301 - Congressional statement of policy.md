@@ -1,6 +1,6 @@
 ### §2301. Congressional statement of policy
 
-The Congress of the United States reaffirms the policy of the United States to achieve international peace and security through the United Nations so that armed force shall not be used except for individual or collective self-defense. The Congress finds that the efforts of the United States and other friendly countries to promote peace and security continue to require measures of support based upon the principle of effective self-help and mutual aid. It is the purpose of subchapter II of this chapter to authorize measures in the common defense against internal and external aggression, including the furnishing of military assistance, upon request, to friendly countries and international organizations. In furnishing such military assistance, it remains the policy of the United States to continue to exert maximum efforts to achieve universal control of weapons of mass destruction and universal regulation and reduction of armaments, including armed forces, under adequate safeguards to protect complying countries against violation and evasion.
+The Congress of the United States reaffirms the policy of the United States to achieve international peace and security through the United Nations so that armed force shall not be used except for individual or collective self-defense. The Congress finds that the efforts of the United States and other friendly countries to promotepeace and security continue to require measures of support based upon the principle of effective self-help and mutual aid. It is the purpose of subchapter II of this chapter to authorize measures in the common defense against internal and external aggression, including the furnishing of military assistance, upon request, to friendly countries and international organizations. In furnishing such military assistance, it remains the policy of the United States to continue to exert maximum efforts to achieve universal control of weapons of mass destruction and universal regulation and reduction of armaments, including armed forces, under adequate safeguards to protect complying countries against violation and evasion.
 
 The Congress recognizes that the peace of the world and the security of the United States are endangered so long as hostile countries continue by threat of military action, by the use of economic pressure, and by internal subversion, or other means to attempt to bring under their domination peoples now free and independent and continue to deny the rights of freedom and self-government to peoples and countries once free but now subject to such domination.
 
@@ -46,7 +46,7 @@ Determination Regarding Transfers.—If the President determines, based on a pre
 
 “(b)
 
-Duration of Prohibition.—The period referred to in subsection (a) is the period commencing on thedate on which a notification of a determination under subsection (a) is submitted to the appropriate congressional committees and ending on the date that is two years after such date.
+Duration of Prohibition.—The period referred to in subsection (a) is the period commencing on the date on which a notification of a determination under subsection (a) is submitted to the appropriate congressional committees and ending on the date that is two years after such date.
 
 “(c)
 

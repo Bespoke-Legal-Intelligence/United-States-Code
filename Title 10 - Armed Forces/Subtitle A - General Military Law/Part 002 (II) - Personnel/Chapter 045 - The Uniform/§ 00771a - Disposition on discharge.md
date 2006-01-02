@@ -18,7 +18,3 @@
 
 1988—Subsec. (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 775 of this title.
-

@@ -8,7 +8,7 @@
 | [6324\.](%C2%A7%2006324%20-%20Officers%20creditable%20service.md) | Officers: creditable service. |
 | [6325\.](%C2%A7%2006325%20-%20Officers%20retired%20grade%20and%20pay.md) | Officers: retired grade and pay. |
 | [6326\.](%C2%A7%2006326%20-%20Enlisted%20members%2030%20years.md) | Enlisted members: 30 years. |
-| [6327\.](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md) | Officers and enlisted members of the Naval Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay. |
+| [6327\.](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Navy%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md) | Officers and enlisted members of the Navy Reserve and Marine Corps Reserve: 30 years; 20 years; retired pay. |
 | [6328\.](%C2%A7%2006328%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement.md) | Computation of years of service: voluntary retirement. |
 | [6329\.](%C2%A7%2006329%20-%20Officers%20not%20to%20be%20retired%20for%20misconduct.md) | Officers not to be retired for misconduct. |
 | [6330\.](%C2%A7%2006330%20-%20Enlisted%20members%20transfer%20to%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%3B%20retainer%20pay.md) | Enlisted members: transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay. |
@@ -23,6 +23,8 @@
 
 #### Amendments
 
+2006—Pub. L. 109–163, div. A, title V, §515(b)(4)(B), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 6327.
+
 1996—Pub. L. 104–201, div. A, title V, §532(b)(2), Sept. 23, 1996, 110 Stat. 2519, added item 6336.
 
 Pub. L. 104–106, div. A, title V, §561(d)(3)(B), Feb. 10, 1996, 110 Stat. 323, added item 6328.
@@ -35,10 +37,6 @@ Pub. L. 104–106, div. A, title V, §561(d)(3)(B), Feb. 10, 1996, 110 Stat. 323
 
 1967—Pub. L. 90–130, §1(23)(B), Nov. 8, 1967, 81 Stat. 380, struck out “Nurse Corps” before “Officers” in item 6324.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6371, 12741 of this title.
-
 
 ---
 
@@ -50,7 +48,7 @@ This chapter is referred to in sections 6371, 12741 of this title.
 - [&sect; 06324 - Officers creditable service](%C2%A7%2006324%20-%20Officers%20creditable%20service.md)
 - [&sect; 06325 - Officers retired grade and pay](%C2%A7%2006325%20-%20Officers%20retired%20grade%20and%20pay.md)
 - [&sect; 06326 - Enlisted members 30 years](%C2%A7%2006326%20-%20Enlisted%20members%2030%20years.md)
-- [&sect; 06327 - Officers and enlisted members of the Naval Reserve and Marine Corps Reserve 30 years; 20 years; retired pay](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Naval%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md)
+- [&sect; 06327 - Officers and enlisted members of the Navy Reserve and Marine Corps Reserve 30 years; 20 years; retired pay](%C2%A7%2006327%20-%20Officers%20and%20enlisted%20members%20of%20the%20Navy%20Reserve%20and%20Marine%20Corps%20Reserve%2030%20years%3B%2020%20years%3B%20retired%20pay.md)
 - [&sect; 06328 - Computation of years of service voluntary retirement](%C2%A7%2006328%20-%20Computation%20of%20years%20of%20service%20voluntary%20retirement.md)
 - [&sect; 06329 - Officers not to be retired for misconduct](%C2%A7%2006329%20-%20Officers%20not%20to%20be%20retired%20for%20misconduct.md)
 - [&sect; 06330 - Enlisted members transfer to Fleet Reserve and Fleet Marine Corps Reserve; retainer pay](%C2%A7%2006330%20-%20Enlisted%20members%20transfer%20to%20Fleet%20Reserve%20and%20Fleet%20Marine%20Corps%20Reserve%3B%20retainer%20pay.md)

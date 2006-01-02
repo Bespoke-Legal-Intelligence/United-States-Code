@@ -26,7 +26,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (1) Periodic statements; account records
 
-&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or similar instrument evidencing a deposit a notice that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money.
+&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or similar instrument evidencing a deposit a notice that the institution is not federally insured, and that if the institution fails, theFederal Government does not guarantee that depositors will get back their money.
 
 #### (2) Advertising; premises
 
@@ -132,7 +132,11 @@ For purposes of this section:
 
 Compliance with the requirements of this section, and any regulation prescribed or order issued under this section, shall be enforced under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] by the Federal Trade Commission.
 
-(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237.)
+(Sept. 21, 1950, ch. 967, §2\[43\], formerly §2\[40\], as added Pub. L. 102–242, title I, §151(a)(1), Dec. 19, 1991, 105 Stat. 2282; renumbered §2\[43\], Pub. L. 102–550, title XVI §1602(b), Oct. 28, 1992, 106 Stat. 4078; amended Pub. L. 103–325, title III, §340(a), Sept. 23, 1994, 108 Stat. 2237; Pub. L. 109–173, §2(c)(3), Feb. 15, 2006, 119 Stat. 3602.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 109–173, §2(c)(3), (e), Feb. 15, 2006, 119 Stat. 3602, 3605, provided that, effective Apr. 1, 2006, subsection (d) of this section is amended by striking “$100,000” and inserting “an amount equal to the standard maximum deposit insurance amount”.</i>
 
 #### References in Text
 
@@ -145,6 +149,10 @@ The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1
 #### Amendments
 
 1994—Subsec. (b)(3). Pub. L. 103–325 amended heading and text of subsec. (b)(3) generally. Prior to amendment, text read as follows: “Receive deposits only for the account of persons who have signed a written acknowledgment that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that they will get back their money.”
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Apr. 1, 2006, see section 2(e) of Pub. L. 109–173, set out as a note under section 1785 of this title.
 
 #### Effective Date of 1994 Amendment
 

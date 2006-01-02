@@ -32,7 +32,7 @@ For purposes of section 1161 of this title, the term “continuation coverage”
 
 &emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
-> &emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this part, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under section 1166(3) <sup>1</sup> of this title before the end of such 18 months.
+> &emsp;&emsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], to have been disabled at any time during the first 60 days of continuation coverage under this part, any reference in clause (i) or (ii) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under section 1166(3) <sup>1</sup> of this title before the end of such 18 months.
 
 #### (B) End of plan
 
@@ -90,7 +90,7 @@ Par. (2)(A)(v). Pub. L. 104–188 amended cl. (v) generally. Prior to amendment,
 
 “(v)
 
-Qualifying event involving medicare entitlement.—In the case of an event described in section 1163(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shallnot terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
+Qualifying event involving medicare entitlement.—In the case of an event described in section 1163(4) of this title (without regard to whether such event is a qualifying event), the period of coverage forqualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(b)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of this subtitle, or title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\])” before “, or” at end.
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 99–509 effective, except as otherwise provided, as if inc
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

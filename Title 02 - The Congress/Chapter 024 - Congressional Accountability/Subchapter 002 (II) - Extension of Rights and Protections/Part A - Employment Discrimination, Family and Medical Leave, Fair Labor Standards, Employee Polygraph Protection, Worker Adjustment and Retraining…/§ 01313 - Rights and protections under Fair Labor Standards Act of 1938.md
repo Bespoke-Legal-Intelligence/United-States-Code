@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The rights and protections established by subsections (a)(1) and (d) of section 6, section7, and section 12(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
+&emsp;The rights and protections established by subsections (a)(1) and (d) of section 6, section 7, and section 12(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 (a)(1) and (d), 207, 212(c)) shall apply to covered employees.
 
 #### (2) Interns
 

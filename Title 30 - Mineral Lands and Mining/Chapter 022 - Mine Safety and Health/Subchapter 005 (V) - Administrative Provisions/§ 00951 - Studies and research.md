@@ -24,7 +24,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services, as
 
 &emsp;(10) to develop new and improved underground equipment and other sources of power for such equipment which will provide greater safety;
 
-&emsp;(11) to determine, upon the written request by any operator or authorized representative of miners, specifying with reasonable particularity the grounds upon which such request is made, whether any substance normally found in a coal or other mine has potentially toxiceffects in the concentrations normally found in the coal or other mine or whether any physical agents or equipment found or used in a coal or other mine has potentially hazardous effects, and shall submit such determinations to both the operators and miners as soon as possible; and
+&emsp;(11) to determine, upon the written request by any operator or authorized representative of miners, specifying with reasonable particularity the grounds upon which such request is made, whether any substance normally found in a coal or other mine has potentially toxic effects in the concentrations normally found in the coal or other mine or whether any physical agents or equipment found or used in a coal or other mine has potentially hazardous effects, and shall submit such determinations to both the operators and miners as soon as possible; and
 
 &emsp;(12) for such other purposes as they deem necessary to carry out the purposes of this chapter.
 

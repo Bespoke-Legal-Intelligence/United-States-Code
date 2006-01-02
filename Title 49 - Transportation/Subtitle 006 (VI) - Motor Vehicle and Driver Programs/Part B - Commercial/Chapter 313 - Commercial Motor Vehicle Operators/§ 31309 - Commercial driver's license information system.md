@@ -14,13 +14,13 @@ Contents.—(1) At a minimum, the information system under this section shall in
 
 &emsp;(C) the social security account number of the operator or other number or information the Secretary considers appropriate to identify the operator;
 
-&emsp;(D) the name of the State that issued the license to the operator;
+&emsp;(D) the name of the State that issued the license or learner's permit to the operator;
 
-&emsp;(E) the dates between which the license is valid; and
+&emsp;(E) the dates between which the license or learner's permit is valid; and
 
-&emsp;(F) whether the operator had a commercial motor vehicle driver's license revoked, suspended, or canceled by a State, lost the right to operate a commercial motor vehicle in a State for any period, or has been disqualified from operating a commercial motor vehicle.
+&emsp;(F) whether the operator had a commercial motor vehicle driver's license or learner's permit revoked, suspended, or canceled by a State, lost the right to operate a commercial motor vehicle in a State for any period, or has been disqualified from operating a commercial motor vehicle.
 
-(2) The information system under this section must accommodate any unique identifiers required to minimize fraud or duplication of a commercial driver's license under section 31308(2).
+(2) The information system under this section must accommodate any unique identifiers required to minimize fraud or duplication of a commercial driver's license or learner's permit under section 31308(2).<sup>1</sup>
 
 (c)
 
@@ -30,7 +30,57 @@ Availability of Information.—Information in the information system shall be ma
 
 Fee System.—The Secretary may establish a fee system for using the information system. Fees collected under this subsection in a fiscal year shall equal as nearly as possible the costs of operating the information system in that fiscal year. The Secretary shall deposit fees collected under this subsection in the Highway Trust Fund (except the Mass Transit Account).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(d), June 9, 1998, 112 Stat. 407.)
+(e)
+
+Modernization Plan.—
+
+&emsp;(1)
+
+In general.—Not later than 120 days after the date of enactment of this subsection, the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that—
+
+&emsp;&emsp;(A) complies with applicable Federal information technology security standards;
+
+&emsp;&emsp;(B) provides for the electronic exchange of all information including the posting of convictions;
+
+&emsp;&emsp;(C) contains self auditing features to ensure that data is being posted correctly and consistently by the States;
+
+&emsp;&emsp;(D) integrates the commercial driver's license and the medical certificate; and
+
+&emsp;&emsp;(E) provides a schedule for modernization of the system.
+
+&emsp;(2)
+
+Consultation.—The plan shall be developed in consultation with representatives of the motor carrier industry, State safety enforcement agencies, and State licensing agencies designated by the Secretary.
+
+&emsp;(3)
+
+State funding of future efforts.—The plan shall specify that States will fund future efforts to modernize the commercial driver's information system.
+
+&emsp;(4)
+
+Deadline for state participation.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall establish in the plan a date by which all States must be operating commercial driver's license information systems that are compatible with the modernized information system under this section.
+
+&emsp;&emsp;(B)
+
+Factors to consider.—In establishing the date under subparagraph (A), the Secretary shall consider the following:
+
+&emsp;&emsp;&emsp;(i) Availability and cost of technology and equipment needed to comply with subparagraph (A).
+
+&emsp;&emsp;&emsp;(ii) Time necessary to install, and test the operation of, such technology and equipment.
+
+&emsp;(5)
+
+Implementation.—The Secretary shall implement the plan developed under subsection (a) and modernize the information system under this section to meet the requirements of the plan.
+
+(f)
+
+Funding.—At the Secretary's discretion, a State may use the funds made available to the State under section 31318 <sup>2</sup> to modernize its commercial driver's license information system to be compatible with the modernized information system under this section.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1020; Pub. L. 105–178, title IV, §4011(d), June 9, 1998, 112 Stat. 407; Pub. L. 109–59, title IV, §§4122(2)(E), 4123(a), Aug. 10, 2005, 119 Stat. 1734.)
 
 Historical and Revision Notes
 
@@ -86,7 +136,17 @@ In subsection (b), the text of 49 App.:2706(b)(1) is omitted as executed. The wo
 
 In subsection (f), the text of 49 App.:2706(g) and section 9105(b) of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat. 4530) is omitted as obsolete.
 
+#### References in Text
+
+Par. (2) of section 31308, referred to in subsec. (b)(2), was redesignated par. (3) and a new par. (2) was added by Pub. L. 109–59, title IV, §4122(2)(C), (D), Aug. 10, 2005, 119 Stat. 1734.
+
+The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
 #### Amendments
+
+2005—Subsec. (b)(1)(D) to (F), (2). Pub. L. 109–59, §4122(2)(E), inserted “or learner's permit” after “license”.
+
+Subsecs. (e), (f). Pub. L. 109–59, §4123(a), added subsecs. (e) and (f).
 
 1998—Subsec. (a). Pub. L. 105–178, §4011(d)(1), (2), substituted “maintain an information system” for “make an agreement under subsection (b) of this section for the operation of, or establish under subsection (c) of this section, an information system” and inserted “The system shall be coordinated with activities carried out under section 31106.” before “The Secretary shall consult”.
 
@@ -113,6 +173,58 @@ Pub. L. 105–178, §4011(d)(5), added subsec. (e) and struck out heading and te
 Subsec. (f). Pub. L. 105–178, §4011(d)(8), redesignated subsec. (f) as (d).
 
 Pub. L. 105–178, §4011(d)(6), (7), substituted “The Secretary may establish” for “If the Secretary establishes an information system under this section, the Secretary shall establish”.
+
+#### Grants for Modernization of Commercial Driver's License Information Systems
+
+Pub. L. 109–59, title IV, §4123(c)–(e), Aug. 10, 2005, 119 Stat. 1735, 1736, provided that:
+
+“(c)
+
+Grants.—
+
+&emsp;“(1)
+
+In general.—The Secretary \[of Transportation\] may make a grant to a State or organization representing agencies and officials of a State in a fiscal year to modernize the commercial driver's license information system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code, if the State is in substantial compliance with the requirements of section 31311 of such title and this section, as determined by the Secretary.
+
+&emsp;“(2)
+
+Criteria.—The Secretary shall establish criteria for the distribution of grants and notify each State annually of such criteria.
+
+&emsp;“(3)
+
+Use of grant.—A State may use a grant under this subsection only to implement improvements that are consistent with the modernization plan developed by the Secretary.
+
+&emsp;“(4)
+
+Government share.—A grant under this subsection to a State or organization may not be for more than 80 percent of the costs incurred by the State or organization in a fiscal year in modernizing the commercial driver's license information system of the State to be compatible with the modernized commercial driver's license information system under section 31309 of title 49, United States Code. In determining these costs, the Secretary shall include in-kind contributions of the State.
+
+“(d)
+
+Funding.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section—
+
+&emsp;“(1) $5,000,000 for fiscal year 2006;
+
+&emsp;“(2) $7,000,000 for fiscal year 2007;
+
+&emsp;“(3) $8,000,000 for fiscal year 2008; and
+
+&emsp;“(4) $8,000,000 for fiscal year 2009.
+
+“(e)
+
+Contract Authority and Availability.—
+
+&emsp;“(1)
+
+Period of availability.—The amounts made available under subsection (d) shall remain available until expended.
+
+&emsp;“(2)
+
+Initial date of availability.—Amounts authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) by subsection (d) shall be available for obligation on the date of their apportionment or allocation or on October 1 of the fiscal year for which they are authorized, whichever occurs first.
+
+&emsp;“(3)
+
+Contract authority.—Approval by the Secretary of a grant with funds made available undersubsection (d) imposes upon the United States a contractual obligation for payment of the Government's share of costs incurred in carrying out the objectives of the grant.”
 
 #### Improved Flow of Driver History Pilot Program
 
@@ -143,4 +255,8 @@ Completion date.—The pilot program shall end on the last day of the 18-month p
 “(b)
 
 Rulemaking.—After completion of the pilot program, the Secretary shall initiate, if appropriate, a rulemaking to revise the information system under section 31309 of title 49, United States Code, to take into account the results of the pilot program.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “31313”.</i>
 

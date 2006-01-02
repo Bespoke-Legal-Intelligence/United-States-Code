@@ -36,7 +36,7 @@ With respect to the frequencies made available for reallocation pursuant to sect
 
 #### (2) Contents
 
-&emsp;The plan prepared by the Commission under paragraph (1) shall consist of a schedule of allocation and assignment of those frequencies in accordance with section 309(j) of the 1934Act in time for the assignment of those licenses or permits by September 30, 2002.
+&emsp;The plan prepared by the Commission under paragraph (1) shall consist of a schedule of allocation and assignment of those frequencies in accordance with section 309(j) of the 1934 Act in time for the assignment of those licenses or permits by September 30, 2002.
 
 (Pub. L. 102–538, title I, §115, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 385; amended Pub. L. 105–33, title III, §3002(e)(4), Aug. 5, 1997, 111 Stat. 265.)
 

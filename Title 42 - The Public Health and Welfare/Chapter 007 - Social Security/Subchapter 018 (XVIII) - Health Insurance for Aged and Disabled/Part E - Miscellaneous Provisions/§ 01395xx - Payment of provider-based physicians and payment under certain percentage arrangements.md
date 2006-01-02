@@ -16,7 +16,7 @@
 
 #### (b) Prohibition of recognition of payments under certain percentage agreements
 
-(1) Except as provided in paragraph (2), in the case of a provider of services which is paid under this subchapter on a reasonable cost basis, or other basis related to costs that are reasonable, and which has entered into a contract for the purpose of having services furnished for or onbehalf of it, the Secretary may not include any cost incurred by the provider under the contract if the amount payable under the contract by the provider for that cost is determined on the basis of a percentage (or other proportion) of the provider's charges, revenues, or claim for reimbursement.
+(1) Except as provided in paragraph (2), in the case of a provider of services which is paid under this subchapter on a reasonable cost basis, or other basis related to costs that are reasonable, and which has entered into a contract for the purpose of having services furnished for or on behalf of it, the Secretary may not include any cost incurred by the provider under the contract if the amount payable under the contract by the provider for that cost is determined on the basis of a percentage (or other proportion) of the provider's charges, revenues, or claim for reimbursement.
 
 (2) Paragraph (1) shall not apply—
 

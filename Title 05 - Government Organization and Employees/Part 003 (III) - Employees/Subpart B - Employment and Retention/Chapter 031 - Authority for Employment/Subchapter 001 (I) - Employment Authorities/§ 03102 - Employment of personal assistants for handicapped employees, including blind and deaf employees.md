@@ -24,7 +24,7 @@
 
 > Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
-(2) A personal assistant, including a reading or interpreting assistant, employed under this subsection may receive pay for services performed by the assistant from the handicapped employee or a nonprofit organization, without regard to section 209 of title 18.
+(2) A personal assistant, including a reading or interpreting assistant, employed under this subsection may receive pay for services performedby the assistant from the handicapped employee or a nonprofit organization, without regard to section 209 of title 18.
 
 (c) The head of each agency may also employ or assign one or more personal assistants who the head of the agency determines are necessary to enable a handicapped employee of that agency to perform the employee's official duties. Such employment may include the employing of a reading assistant or assistants for a blind employee or an interpreting assistant or assistants for a deaf employee.
 
@@ -54,7 +54,7 @@ Historical and Revision Notes
 
 Aug. 29, 1962, Pub. L. 87–614, 76 Stat. 408.
 
-In subsection (a)(1), the word “agency” is substituted for “department”. The words “Executive agency” are coextensive with and substituted for “each executive department of the Federal Government, each agency or independent establishment in the executive branch ofsuch Government, each corporation wholly owned or controlled by such Government, and the General Accounting Office” in view of the definition of “Executive agency” in section 105.
+In subsection (a)(1), the word “agency” is substituted for “department”. The words “Executive agency” are coextensive with and substituted for “each executive department of the Federal Government, each agency or independent establishment in the executive branch of such Government, each corporation wholly owned or controlled by such Government, and the General Accounting Office” in view of the definition of “Executive agency” in section 105.
 
 In subsection (a)(3), the words “individual employed” are substituted for “employee” so as to include individuals employed by the government of the District of Columbia who are not employees as defined by section 2105.
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 95–454, §302(a)(4), added subsec. (d).
 
 #### Effective Date of 1980 Amendment
 
-Section 3 of Pub. L. 96–523 provided that: “The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
+Section 3 of Pub. L. 96–523 provided that: “The amendments made by this Act \[amending this section, section 7 of the Federal Advisory Committee Act, set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 ofTitle 39, Postal Service\] shall take effect sixty days after the date of the enactment of this Act \[Dec. 12, 1980\].”
 
 #### Effective Date of 1979 Amendment
 

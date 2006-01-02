@@ -112,7 +112,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1980 Amendment
 
-Section 6(c) of Pub. L. 96–471 provided: “The amendment made by section 4 \[amending this section\] shall apply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
+Section 6(c) of Pub. L. 96–471 provided: “The amendment made by section 4 \[amending this section\] shallapply to acquisitions of real property by the taxpayer after the date of the enactment of this Act \[Oct. 19, 1980\].”
 
 #### Effective Date of 1978 Amendment
 

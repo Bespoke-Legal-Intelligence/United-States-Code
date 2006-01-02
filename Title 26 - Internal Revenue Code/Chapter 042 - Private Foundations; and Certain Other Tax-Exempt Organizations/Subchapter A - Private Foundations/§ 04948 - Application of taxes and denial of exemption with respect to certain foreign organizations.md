@@ -22,23 +22,25 @@ Section 507 (relating to termination of private foundation status), section 508 
 
 &emsp;(A) Except as provided in subparagraph (B), a foreign organization described in subsection (b) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) for all taxable years beginning with the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction. The Secretary shall publish such notice in the Federal Register on the day on which he so notifies such foreign organization.
 
-&emsp;(B) Under regulations prescribed by the Secretary any foreign organization described in subsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason of any prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
+&emsp;(B) Under regulations prescribed by the Secretary any foreign organization described in subsection (b) which is denied exemption from taxation under section 501(a) by reason of paragraph (1) may, with respect to the second taxable year following the taxable year in which notice is given under subparagraph (A) (or any taxable year thereafter), file claim for exemption from taxation under section 501(a). If the Secretary is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall not, with respect to taxable years beginning with the taxable year with respect to which such claim is filed, be denied exemption from taxation under section 501(a) by reason ofany prohibited transaction which was engaged in before the date on which such notice was given under subparagraph (A).
 
 #### (4) Disallowance of certain charitable deductions
 
-&emsp;No gift or bequest shall be allowed as a deduction under section 170, 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if made—
+&emsp;No gift or bequest shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if made—
 
 &emsp;&emsp;(A) to a foreign organization described in subsection (b) after the date on which the Secretary publishes notice under paragraph (3)(A) that he has notified such organization that it has engaged in a prohibited transaction, and
 
 &emsp;&emsp;(B) in a taxable year of such organization for which it is not exempt from taxation under section 501(a) by reason of paragraph (1).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 518; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 518; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509.)
 
 #### Amendments
 
+2004—Subsec. (c)(4). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” in introductory provisions.
+
 1976—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
+#### Effective Date of 2004 Amendment
 
-This section is referred to in sections 170, 663, 681, 878, 1443, 2055, 2522 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 

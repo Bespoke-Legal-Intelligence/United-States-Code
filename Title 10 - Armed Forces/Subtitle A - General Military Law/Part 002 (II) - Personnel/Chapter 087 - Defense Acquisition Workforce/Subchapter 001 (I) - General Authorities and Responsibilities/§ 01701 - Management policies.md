@@ -6,7 +6,7 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Uniform Implementation.—The Secretary shall ensure that, to the maximum extent practicable, acquisition workforce policies and procedures established in accordance with thischapter are uniform in their implementation throughout the Department of Defense.
+Uniform Implementation.—The Secretary shall ensure that, to the maximum extent practicable, acquisition workforce policies and procedures established in accordance with this chapter are uniform in their implementation throughout the Department of Defense.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1638.)
 

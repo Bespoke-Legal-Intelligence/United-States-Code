@@ -1,6 +1,6 @@
 ### §288. “International organization” defined; authority of President
 
-For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
+For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendmentsmade by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
 
 (Dec. 29, 1945, ch. 652, title I, §1, 59 Stat. 669.)
 
@@ -44,6 +44,8 @@ African Development Bank, Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087.
 
 African Development Fund, Ex. Ord. No. 11977, Mar. 14, 1977, 42 F.R. 14671.
 
+African Union, Ex. Ord. No. 13377, Apr. 13, 2005, 70 F.R. 20263.
+
 Asian Development Bank, Ex. Ord. No. 11334, Mar. 7, 1967, 32 F.R. 3933.
 
 Border Environment Cooperation Commission, Ex. Ord. No. 12904, Mar. 16, 1994, 59 F.R. 13179.
@@ -67,6 +69,8 @@ European Central Bank, Ex. Ord. No. 13307, May 29, 2003, 68 F.R. 33338.
 European Space Agency, Ex. Ord. No. 11318, Dec. 5, 1966, 31 F.R. 15307; Ex. Ord. No. 11351, May 22, 1967, 32 F.R. 7561; Ex. Ord. No. 11760, Jan. 17, 1974, 39 F.R. 2343; Ex. Ord. No. 12766, June 18, 1991, 56 F.R. 28463.
 
 Food and Agriculture Organization, Ex. Ord. No. 9698, Feb. 19, 1946, 11 F.R. 1809.
+
+Global Fund to Fight AIDS, Tuberculosis and Malaria, Ex. Ord. No. 13395, Jan. 13, 2006, 71 F.R. 3203.
 
 Great Lakes Fishery Commission, Ex. Ord. No. 11059, Oct. 23, 1962, 27 F.R. 10405.
 
@@ -160,8 +164,6 @@ Organization for European Economic Cooperation (now known as the Organization fo
 
 Organization for the Prohibition of Chemical Weapons, Ex. Ord. No. 13049, June 11, 1997, 62 F.R. 32471.
 
-Organization of African Unity (OAU), Ex. Ord. No. 11767, Feb. 19, 1974, 39 F.R. 6603.
-
 Organization of American States (includes Pan American Union), Ex. Ord. No. 10533, June 3, 1954, 19 F.R. 3289.
 
 Organization of Eastern Caribbean States, Ex. Ord. No. 12669, Feb. 20, 1989, 54 F.R. 7753.
@@ -217,6 +219,8 @@ International Refugee Organization, Ex. Ord. No. 9887, Aug. 22, 1947, 12 F.R. 57
 International Telecommunications Satellite Consortium, Ex. Ord. No. 11277, Apr. 30, 1966, 31 F.R. 6609; revoked by Ex. Ord. No. 11718, May 14, 1973, 38 F.R. 12797.
 
 Lake Ontario Claims Tribunal, Ex. Ord. No. 11372, Sept. 18, 1967, 32 F.R. 13251; revoked by Ex. Ord. No. 11439, Dec. 7, 1968, 33 F.R. 18257.
+
+Organization of African Unity (OAU), Ex. Ord. No. 11767, Feb. 19, 1974, 39 F.R. 6603; revoked by Ex. Ord. No. 13377, §3, Apr. 13, 2005, 70 F.R. 20263.
 
 Southeast Asia Treaty Organization, Ex. Ord. No. 10866, Feb. 20, 1960, 25 F.R. 1584; revoked by Ex. Ord. No. 12033, Jan. 10, 1978, 43 F.R. 1915.
 

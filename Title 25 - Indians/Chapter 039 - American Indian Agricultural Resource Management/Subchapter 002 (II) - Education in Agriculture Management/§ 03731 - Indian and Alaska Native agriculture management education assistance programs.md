@@ -34,7 +34,7 @@
 
 &emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
-&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sourcesof commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
+&emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 
@@ -44,7 +44,7 @@
 
 &emsp;(B) is interested in a career with the Bureau, an Indian tribe or a tribal enterprise in the management of Indian rangelands, farmlands, or other natural resource assets.
 
-(5) A recipient of assistance under the cooperative education program under this subsection shall be required to enter into an obligated service agreement with the Secretary to serve as a professional in an agricultural resource related activity with the Bureau, or other Federal agency providing agricultural or related services to Indians or Indian tribes, or an Indian tribe for one year for each year for which the Secretary pays the recipients educational costs pursuant to paragraph (3).
+(5) A recipient of assistance under the cooperative education program under this subsection shall be required to enter into an obligated service agreement with the Secretary to serve as a professional in an agricultural resource relatedactivity with the Bureau, or other Federal agency providing agricultural or related services to Indians or Indian tribes, or an Indian tribe for one year for each year for which the Secretary pays the recipients educational costs pursuant to paragraph (3).
 
 #### (c) Scholarship program
 
@@ -288,7 +288,7 @@ Transition provisions.—
 
 &emsp;&emsp;“(A)
 
-Retention of annual and sick leave accrued before becoming subject to demonstration project.—Any individual becoming subject to a demonstration project under this Act shall, in a manner consistent with the requirements of section 6308 of title 5, United States Code, be credited with any annual leave and any sick leave standing to such individual's credit immediately before becoming subject to the project.
+Retention of annual and sick leave accrued before becoming subject to demonstrationproject.—Any individual becoming subject to a demonstration project under this Act shall, in a manner consistent with the requirements of section 6308 of title 5, United States Code, be credited with any annual leave and any sick leave standing to such individual's credit immediately before becoming subject to the project.
 
 &emsp;&emsp;“(B)
 

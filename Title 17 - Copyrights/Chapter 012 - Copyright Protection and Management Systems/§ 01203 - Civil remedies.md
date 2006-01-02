@@ -60,7 +60,7 @@ Nonprofit library, archives, educational institutions, or public broadcasting en
 
 &emsp;&emsp;&emsp;(i)
 
-Definition.—In this subparagraph, the term “public broadcasting entity” has the meaning given such term under section 118(g).<sup>1</sup>
+Definition.—In this subparagraph, the term “public broadcasting entity” hasthe meaning given such term under section 118(g).<sup>1</sup>
 
 &emsp;&emsp;&emsp;(ii)
 

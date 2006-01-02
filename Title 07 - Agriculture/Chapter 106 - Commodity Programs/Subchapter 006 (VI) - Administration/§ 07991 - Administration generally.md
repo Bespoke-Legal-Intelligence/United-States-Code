@@ -30,7 +30,7 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 #### (d) Treatment of advance payment option
 
-The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, asprovided by section 525 of Public <sup>2</sup> 106–170 (113 Stat. 1928; 7 U.S.C. 7212 note), shall also apply to the option to receive—
+The protection that was afforded producers that had an option to elect to accelerate the receipt of any payment under a production flexibility contract payable under the Federal Agriculture Improvement and Reform Act of 1996, as provided by section 525 of Public <sup>2</sup> 106–170 (113 Stat. 1928; 7 U.S.C. 7212 note), shall also apply to the option to receive—
 
 &emsp;(1) the advance payment of direct payments and counter-cyclical payments under subchapter I and subchapter III of this chapter; and
 

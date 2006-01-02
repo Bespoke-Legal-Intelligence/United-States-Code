@@ -5,6 +5,7 @@
 | [9801\.](%C2%A7%2009801%20-%20Increased%20portability%20through%20limitation%20on%20preexisting%20condition%20exclusions.md) | Increased portability through limitation on preexisting condition exclusions. |
 | [9802\.](%C2%A7%2009802%20-%20Prohibiting%20discrimination%20against%20individual%20participants%20and%20beneficiaries%20based%20on%20health%20status.md) | Prohibiting discrimination against individual participants and beneficiaries based on health status. |
 | [9803\.](%C2%A7%2009803%20-%20Guaranteed%20renewability%20in%20multiemployer%20plans%20and%20certain%20multiple%20employer%20welfare%20arrangements.md) | Guaranteed renewability in multiemployer plans and certain multiple employer welfare arrangements. |
+| \[9804–9806. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

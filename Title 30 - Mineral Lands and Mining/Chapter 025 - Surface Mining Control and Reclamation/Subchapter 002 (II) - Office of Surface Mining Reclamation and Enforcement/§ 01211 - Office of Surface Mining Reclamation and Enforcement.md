@@ -92,6 +92,8 @@ Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That no
 
 Similar provisions were contained in the following appropriations acts:
 
+Pub. L. 109–54, title I, Aug. 2, 2005, 119 Stat. 512.
+
 Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3054.
 
 Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1256.

@@ -26,5 +26,5 @@ Definitions.—In this section:
 
 #### Prior Provisions
 
-A prior section 4541, added Pub. L. 97–258, §2(b)(9)(B), Sept. 13, 1982, 96 Stat. 1056, authorized Secretary of the Army to accept gratuitous services of officers of the Army Reserve, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(d)(2), Nov. 30, 1993, 107 Stat. 1707. See section 10212 of this title.
+A prior section 4541, added Pub. L. 97–258, §2(b)(9)(B), Sept. 13, 1982, 96 Stat. 1056, authorized Secretary of theArmy to accept gratuitous services of officers of the Army Reserve, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(d)(2), Nov. 30, 1993, 107 Stat. 1707. See section 10212 of this title.
 

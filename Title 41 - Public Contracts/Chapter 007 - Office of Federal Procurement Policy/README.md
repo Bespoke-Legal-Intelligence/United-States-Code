@@ -186,6 +186,10 @@
 | (b) | Regulations. |
 | (c) | Report. |
 | (d) | Expiration. |
+| [438\.](%C2%A7%2000438%20-%20Civilian%20Board%20of%20Contract%20Appeals.md) | Civilian Board of Contract Appeals. |
+| (a) | Board established. |
+| (b) | Membership. |
+| (c) | Functions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -242,3 +246,4 @@
 - [&sect; 00435 - Levels of compensation of certain contractor personnel not allowable as costs under certain contracts](%C2%A7%2000435%20-%20Levels%20of%20compensation%20of%20certain%20contractor%20personnel%20not%20allowable%20as%20costs%20under%20certain%20contracts.md)
 - [&sect; 00436 - Protection of constitutional rights of contractors](%C2%A7%2000436%20-%20Protection%20of%20constitutional%20rights%20of%20contractors.md)
 - [&sect; 00437 - Incentives for efficient performance of services contracts](%C2%A7%2000437%20-%20Incentives%20for%20efficient%20performance%20of%20services%20contracts.md)
+- [&sect; 00438 - Civilian Board of Contract Appeals](%C2%A7%2000438%20-%20Civilian%20Board%20of%20Contract%20Appeals.md)

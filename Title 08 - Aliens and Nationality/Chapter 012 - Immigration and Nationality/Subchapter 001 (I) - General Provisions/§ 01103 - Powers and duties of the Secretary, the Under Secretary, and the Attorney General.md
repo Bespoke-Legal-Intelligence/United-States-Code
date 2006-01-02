@@ -44,7 +44,7 @@ The Commissioner shall be a citizen of the United States and shall be appointed 
 
 #### (d) Statistical information system
 
-(1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress andthe public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
+(1) The Commissioner, in consultation with interested academicians, government agencies, and other parties, shall provide for a system for collection and dissemination, to Congress and the public, of information (not in individually identifiable form) useful in evaluating the social, economic, environmental, and demographic impact of immigration laws.
 
 (2) Such information shall include information on the alien population in the United States, on the rates of naturalization and emigration of resident aliens, on aliens who have been admitted, paroled, or granted asylum, on nonimmigrants in the United States (by occupation, basis for admission, and duration of stay), on aliens who have not been admitted or have been removed from the United States, on the number of applications filed and granted for cancellation of removal, and on the number of aliens estimated to be present unlawfully in the United States in each fiscal year.
 
@@ -64,7 +64,7 @@ The Attorney General shall allocate to each State not fewer than 10 full-time ac
 
 #### (1) In general
 
-&emsp;The Attorney General shall have such authorities and functions under this chapter and all other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review, or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
+&emsp;The Attorney General shall have such authorities and functions under this chapter and all other laws relating to the immigration and naturalization of aliens as were exercised by the Executive Office for Immigration Review,or by the Attorney General with respect to the Executive Office for Immigration Review, on the day before the effective date of the Immigration Reform, Accountability and Security Enhancement Act of 2002.
 
 #### (2) Powers
 
@@ -130,7 +130,7 @@ Subsec. (d). Pub. L. 104–208, §102(d)(1)(A), redesignated subsec. (c) as (d).
 
 Subsec. (d)(2). Pub. L. 104–208, §308(e)(4), which directed amendment of subsec. (c)(2) by substituting “cancellation of removal” for “suspension of deportation”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
 
-Pub. L. 104–208, §308(d)(4)(C), which directed amendment of subsec. (c)(2) by substituting “not been admitted or have been removed” for “been excluded or deported”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
+Pub. L. 104–208, §308(d)(4)(C), which directed amendment of subsec. (c)(2) by substituting “not been admitted or have been removed” for “been excluded or deported”, was executed by making the substitution in subsec. (d)(2) to reflect the probable intent of Congressand the redesignation of subsec. (c) as (d) by Pub. L. 104–208, §102(d)(1)(A). See above.
 
 Subsec. (e). Pub. L. 104–208, §102(d)(2), substituted “subsection (d)” for “subsection (c)” in par. (1).
 
@@ -168,7 +168,7 @@ Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2448, provided in part: “
 
 #### Improvement of Barriers at Border
 
-Section 102(a)–(c) of div. C of Pub. L. 104–208 provided that:
+Pub. L. 104–208, div. C, title I, §102(a)–(c), Sept. 30, 1996, 110 Stat. 3009–554, 3009–555, as amended by Pub. L. 109–13, div. B, title I, §102, May 11, 2005, 119 Stat. 306, provided that:
 
 “(a)
 
@@ -196,7 +196,27 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 “(c)
 
-Waiver.—The provisions of the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] and the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] are waived to the extent the Attorney General determines necessary to ensure expeditious construction of the barriers and roads under this section \[amending this section\].”
+Waiver.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, the Secretary of Homeland Security shall have the authority to waive all legal requirements such Secretary, in such Secretary's sole discretion, determines necessary to ensure expeditious construction of the barriers and roads under this section \[amending this section\]. Any such decision by the Secretary shall be effective upon being published in the Federal Register.
+
+&emsp;“(2)
+
+Federal court review.—
+
+&emsp;&emsp;“(A)
+
+In general.—The district courts of the United States shall have exclusive jurisdiction to hear all causes or claims arising from any action undertaken, or any decision made, by the Secretary of Homeland Security pursuant to paragraph (1). A cause of action or claim may only be brought alleging a violation of the Constitution of the United States. The court shall not have jurisdiction to hear any claim not specified in this subparagraph.
+
+&emsp;&emsp;“(B)
+
+Time for filing of complaint.—Any cause or claim brought pursuant to subparagraph (A) shall be filed not later than 60 days after the date of the action or decision made by the Secretary of Homeland Security. A claim shall be barred unless it is filed within the time specified.
+
+&emsp;&emsp;“(C)
+
+Ability to seek appellate review.—An interlocutory or final judgment, decree, or order of the district court may be reviewed only upon petition for a writ of certiorari to the Supreme Court of the United States.”
 
 #### Improved Border Equipment and Technology
 

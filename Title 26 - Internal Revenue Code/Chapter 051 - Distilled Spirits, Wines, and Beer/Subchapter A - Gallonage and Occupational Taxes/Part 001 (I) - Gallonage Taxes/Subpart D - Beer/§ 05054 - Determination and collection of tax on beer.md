@@ -56,7 +56,7 @@ Subsecs. (c), (d). Pub. L. 94–455, §1905(a)(5), redesignated subsec. (d) as (
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates (see section 1421(c) of Pub. L. 105–34 set out as an Effective Date note under section 5418 of this title), see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates (see section 1421(c) of Pub. L.105–34 set out as an Effective Date note under section 5418 of this title), see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -73,10 +73,6 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 #### Effective Date of 1976 Amendment
 
 Amendment by section 1905(a)(5) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5051, 5061, 5413 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

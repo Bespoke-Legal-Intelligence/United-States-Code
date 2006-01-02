@@ -20,7 +20,7 @@ Availability.—Amounts in the Fund shall be available for paying insurance bene
 
 (d)
 
-Investment of Assets of Fund.—The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary of Defense required to meet current liabilities. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary of Defense, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to the Fund.
+Investment of Assets of Fund.—The Secretary of the Treasury shall invest such portionof the Fund as is not in the judgment of the Secretary of Defense required to meet current liabilities. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary of Defense, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to the Fund.
 
 (e)
 
@@ -33,8 +33,4 @@ Annual Accounting.—At the beginning of each fiscal year, the Secretary, in con
 &emsp;(3) The amount for that fiscal year (including any negative amount) of any cumulative actuarial gain or loss to the Fund.
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 302.)
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12521 of this title.
 

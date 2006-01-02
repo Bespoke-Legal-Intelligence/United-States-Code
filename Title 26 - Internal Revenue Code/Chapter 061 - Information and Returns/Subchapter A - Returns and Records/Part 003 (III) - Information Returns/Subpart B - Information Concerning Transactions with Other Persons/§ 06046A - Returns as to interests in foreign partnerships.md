@@ -48,7 +48,3 @@ Section 407(b) of Pub. L. 97–248 provided that: “The amendments made by sect
 
 For provision that this section is not applicable to certain international satellite partnerships, see section 406 of Pub. L. 97–248, set out as a note under section 6231 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6038B, 6501, 6679 of this title.
-

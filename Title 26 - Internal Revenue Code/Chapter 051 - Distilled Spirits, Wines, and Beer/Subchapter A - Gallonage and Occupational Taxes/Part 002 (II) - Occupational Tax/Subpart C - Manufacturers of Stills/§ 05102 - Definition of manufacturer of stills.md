@@ -30,7 +30,3 @@ Another prior section 5106, act Aug. 16, 1954, ch. 736, 68A Stat. 618, related t
 
 Section effective on first day of first calendar month which begins more than 90 days after July 18, 1984, see section 456(a) of Pub. L. 98–369, set out as a note under section 5101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5002 of this title.
-

@@ -26,7 +26,3 @@ Subsec. (d)(2). Pub. L. 104–106, §203(e)(1), struck out at end “The authori
 
 Section 203(e)(2) of Pub. L. 104–106 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of September 29, 1995.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2902 of this title.
-

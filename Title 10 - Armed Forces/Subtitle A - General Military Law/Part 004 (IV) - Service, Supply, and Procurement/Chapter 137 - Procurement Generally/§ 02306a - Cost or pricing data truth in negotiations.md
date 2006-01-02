@@ -74,6 +74,18 @@ Modifications of contracts and subcontracts for commercial items.—In the case 
 
 &emsp;&emsp;(B) the modification would not change the contract or subcontract, as the case may be, from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
 
+&emsp;(3)
+
+Noncommercial modifications of commercial items.—(A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than $500,000 or 5 percent of the total price of the contract, whichever is greater.
+
+&emsp;(B) In this paragraph, the term “noncommercial modification”, with respect to a commercial item, means a modification of such item that is not a modification described in section 4(12)(C)(i) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)(C)(i)).
+
+&emsp;(C) Nothing in subparagraph (A) shall be construed—
+
+&emsp;&emsp;(i) to limit the applicability of the exception in subparagraph (A) or (C) of paragraph (1) to cost or pricing data on a noncommercial modification of a commercial item; or
+
+&emsp;&emsp;(ii) to require the submission of cost or pricing data on any aspect of an acquisition of a commercial item other than the cost and pricing of noncommercial modifications of such item.
+
 (c)
 
 Cost or Pricing Data on Below-Threshold Contracts.—
@@ -110,7 +122,7 @@ Limitations on authority.—The Federal Acquisition Regulation shall include the
 
 (e)
 
-Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that such price was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
+Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (or change or modification to a prime contract) under which a certificate under subsection (a)(2) is required shall contain a provision that the price of the contract to the United States, including profit or fee, shall be adjusted to exclude any significant amount by which it may be determined by the head of the agency that suchprice was increased because the contractor (or any subcontractor required to make available such a certificate) submitted defective cost or pricing data.
 
 (B) For the purposes of this section, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
 
@@ -124,7 +136,7 @@ Price Reductions for Defective Cost or Pricing Data.—(1)(A) A prime contract (
 
 &emsp;&emsp;(ii) otherwise was in a superior bargaining position with respect to the property or services procured;
 
-&emsp;(B) the contracting officer should have known that the cost and pricing data in issuewere defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
+&emsp;(B) the contracting officer should have known that the cost and pricing data in issue were defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
 
 &emsp;(C) the contract was based on an agreement between the contractor and the United States about the total cost of the contract and there was no agreement about the cost of each item procured under such contract; or
 
@@ -176,7 +188,7 @@ Subcontract.—The term “subcontract” includes a transfer of commercial item
 
 Commercial item.—The term “commercial item” has the meaning provided such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085.)
+(Added Pub. L. 99–500, §101(c) \[title X, §952(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, §101(c) \[title X, §952(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, §952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §804(a), (b), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, §803(a)(1), (d), Nov. 5, 1990, 104 Stat. 1589, 1590; Pub. L. 102–25, title VII, §701(b), (f)(8), Apr. 6, 1991, 105 Stat. 113, 115; Pub. L. 102–190, div. A, title VIII, §804(a)–(c)(1), title X, §1061(a)(9), Dec. 5, 1991, 105 Stat. 1415, 1416, 1472; Pub. L. 103–355, title I, §§1201–1209, Oct. 13, 1994, 108 Stat. 3273–3277; Pub. L. 104–106, div. D, title XLII, §4201(a), title XLIII, §4321(a)(2), (b)(7), Feb. 10, 1996, 110 Stat. 649, 671, 672; Pub. L. 104–201, div. A, title X, §1074(a)(12), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 105–85, div. A, title X, §1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, §§805(a), 808(a), Oct. 17, 1998, 112 Stat. 2083, 2085; Pub. L. 108–375, div. A, title VIII, §818(a), Oct. 28, 2004, 118 Stat. 2015.)
 
 #### References in Text
 
@@ -189,6 +201,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+2004—Subsec. (b)(3). Pub. L. 108–375 added par. (3).
 
 1998—Subsec. (a)(5). Pub. L. 105–261, §805(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For purposes of paragraph (1)(C), a contractor or subcontractor granted a waiver under subsection (b)(1)(C) shall be considered as having been required to make available cost or pricing data under this section.”
 
@@ -318,6 +332,10 @@ Subsec. (e)(2). Pub. L. 100–180, §804(b)(2), amended par. (2) generally. Prio
 
 Subsec. (g). Pub. L. 100–180, §804(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In this section, the term ‘cost or pricing data’ means all information that is verifiable and that, as of the date of agreement on the price of a contract (or the price of a contract modification), a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.”
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–375, div. A, title VIII, §818(b), Oct. 28, 2004, 118 Stat. 2016, provided that: “Paragraph (3) \[of subsec. (b)\] of section 2306a of title 10, United States Code (asadded by subsection (a)), shall take effect on June 1, 2005, and shall apply with respect to offers submitted, and to modifications of contracts or subcontracts made, on or after that date.”
+
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by sections 4201(a) and 4321(b)(7) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
@@ -398,7 +416,7 @@ Definitions.—In this section:
 
 #### Defense Commercial Pricing Management Improvement
 
-Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title VIII, §823, Dec. 2, 2002, 116 Stat. 2615, provided that:
+Pub. L. 105–261, div. A, title VIII, §803, Oct. 17, 1998, 112 Stat. 2081, as amended by Pub. L. 106–65, div. A, titleX, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title VIII, §823, Dec. 2, 2002, 116 Stat. 2615, provided that:
 
 “(a)
 
@@ -432,7 +450,7 @@ Commercial Price Trend Analysis.—(1) The Secretary of Defense shall develop an
 
 &emsp;“(A) that are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends; and
 
-&emsp;“(B) for which there is a potential for the price paid to be significantly higher (on a percentage basis)than the prices previously paid in procurements of the same or similar items for the Department of Defense, as determined by the head of the procuring Department of Defense agency or the Secretary of the procuring military department on the basis of criteria prescribed by the Secretary of Defense.
+&emsp;“(B) for which there is a potential for the price paid to be significantly higher (on a percentage basis) than the prices previously paid in procurements of the same or similar items for the Department of Defense, as determined by the head of the procuring Department of Defense agency or the Secretary of the procuring military department on the basis of criteria prescribed by the Secretary of Defense.
 
 “(3) The head of a Department of Defense agency or the Secretary of a military department shall take appropriate action to address any unreasonable escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
 
@@ -445,8 +463,4 @@ Exempt Commercial Items Defined.—For the purposes of this section, the term �
 #### Review by Inspector General
 
 Section 803(b) of Pub. L. 101–510 provided that (1) after increase in threshold for submission of cost or pricing data under subsec. (a) of this section, as amended by section 803(a) of Pub. L. 101–510, had been in effect for three years, Inspector General of Department of Defense was to conduct review of effects of increase in threshold, (2) that such review was to address whether increasing threshold improved acquisition process in terms of reduced paperwork, financial or other savings to government, an increase in number of contractors participating in defense contracting process, and adequacy of information available to contracting officers in cases in which certified cost or pricing data were not required under this section, (3) that Inspector General was to submit to Secretary of Defense a report on review conducted under paragraph (1), with Secretary of Defense required to submit such report to Congress, along with appropriate comments, upon completion of report (and comments) but not later than date on which President submitted budget to Congress pursuant to section 1105 of Title 31, Money and Finance, for fiscal year 1996, prior to repeal by Pub. L. 103–355, title I, §1210, Oct. 13, 1994, 108 Stat. 3277.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2306, 2313, 2343, 2375, 2473 of this title; title 15 section 4602; title 41 section 423.
 

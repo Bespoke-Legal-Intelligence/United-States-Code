@@ -8,7 +8,7 @@ Each local educational agency receiving assistance under this part shall carry o
 
 The activities referred to in subsection (a) of this section are activities that increase coordination between the local educational agency and a Head Start agency and, if feasible, other entities carrying out early childhood development programs, such as the Early Reading First program, serving children who will attend the schools of the local educational agency, including—
 
-&emsp;(1) developing and implementing a systematic procedure for receiving records regarding such children, transferred with parental consent from a Head Start program or, where applicable, another early childhood development program such as the Early Reading First program;
+&emsp;(1) developing and implementing a systematic procedure for receiving records regardingsuch children, transferred with parental consent from a Head Start program or, where applicable, another early childhood development program such as the Early Reading First program;
 
 &emsp;(2) establishing channels of communication between school staff and their counterparts (including teachers, social workers, and health staff) in such Head Start agencies or other entities carrying out early childhood development programs such as the Early Reading First program, as appropriate, to facilitate coordination of programs;
 
@@ -26,7 +26,7 @@ The Secretary shall work with the Secretary of Health and Human Services to coor
 
 #### References in Text
 
-The Head Start Act, referred to in subsec. (c), is subchapter B (§§635–657) of chapter 8 of subtitle A of titleVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (c), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
 #### Prior Provisions
 

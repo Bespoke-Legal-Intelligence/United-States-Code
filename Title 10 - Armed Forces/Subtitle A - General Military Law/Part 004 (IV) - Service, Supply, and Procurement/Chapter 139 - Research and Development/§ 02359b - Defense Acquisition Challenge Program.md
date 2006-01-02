@@ -42,13 +42,13 @@ Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secre
 
 (e)
 
-Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(4) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, or system level.
+Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(4) with respect to an acquisition program shall be considered by the office carryingout the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, or system level.
 
 (2) The Under Secretary shall encourage the adoption of each challenge proposal referred to in paragraph (1) by providing suitable incentives to the office carrying out the acquisition program and the prime system contractor carrying out such program.
 
 (f)
 
-Access to Technical Resources.—(1) Under procedures established by the Under Secretary, the technical resources of the laboratories, research, development, and engineeringcenters, test and evaluation activities, and other elements of the Department may be called upon to support the activities of the Challenge Program.
+Access to Technical Resources.—(1) Under procedures established by the Under Secretary, the technical resources of the laboratories, research, development, and engineering centers, test and evaluation activities, and other elements of the Department may be called upon to support the activities of the Challenge Program.
 
 (2) Funds available to carry out this program may be used to compensate such laboratories, centers, activities, and elements for technical assistance provided to a Panel pursuant to paragraph (1).
 

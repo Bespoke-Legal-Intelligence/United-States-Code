@@ -48,7 +48,7 @@
 
 #### (ii) Period of assistance
 
-&emsp;&emsp;&emsp;The President may not provide direct assistance under clause (i) with respect to amajor disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
+&emsp;&emsp;&emsp;The President may not provide direct assistance under clause (i) with respect to a major disaster after the end of the 18-month period beginning on the date of the declaration of the major disaster by the President, except that the President may extend that period if the President determines that due to extraordinary circumstances an extension would be in the public interest.
 
 #### (iii) Collection of rental charges
 
@@ -80,7 +80,7 @@
 
 #### (B) Maximum amount of assistance
 
-&emsp;&emsp;The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+&emsp;&emsp;The amount of assistance provided to a household under this paragraph shall not exceed $10,000, as adjusted annually to reflectchanges in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 #### (C) Applicability of flood insurance requirement
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;(i) may be sold to any person; or
 
-&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing todisaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
+&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
 
 &emsp;&emsp;&emsp;&emsp;(I) to comply with the nondiscrimination provisions of section 5151 of this title; and
 

@@ -30,7 +30,7 @@ It shall be the duty of the Secretary to use available funds to stimulate and wi
 
 #### Amendments
 
-1954—Subsec. (e). Act Aug. 30, 1954, repealed subsec. (e) which required reports to Congress of the activities of, expenditures by, and donations to, the laboratories established pursuant to subsec. (a).
+1954—Subsec. (e). Act Aug. 30, 1954, repealed subsec. (e) which required reports to Congress of the activitiesof, expenditures by, and donations to, the laboratories established pursuant to subsec. (a).
 
 #### Wheat Research and Promotion Act
 

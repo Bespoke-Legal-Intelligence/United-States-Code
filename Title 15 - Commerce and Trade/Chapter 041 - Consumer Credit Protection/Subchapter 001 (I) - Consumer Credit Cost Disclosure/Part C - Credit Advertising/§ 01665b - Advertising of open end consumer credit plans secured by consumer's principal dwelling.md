@@ -22,7 +22,17 @@ If any advertisement to aid, promote, or assist, directly or indirectly, the ext
 
 #### (b) Tax deductibility
 
-If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
+#### (1) In general
+
+&emsp;If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
+
+#### (2) Credit in excess of fair market value
+
+&emsp;Each advertisement described in subsection (a) of this section that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+
+&emsp;&emsp;(A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
+
+&emsp;&emsp;(B) the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
 
 #### (c) Certain terms prohibited
 
@@ -32,7 +42,7 @@ No advertisement described in subsection (a) of this section with respect to any
 
 #### (1) In general
 
-&emsp;If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
+&emsp;If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by theindex or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
 
 #### (2) Quoted rate must be reasonably current
 
@@ -54,7 +64,15 @@ For purposes of this section and section 1637a of this title, the term “balloo
 
 &emsp;(2) the aggregate amount of the minimum periodic payments required would not fully amortize such outstanding balance by such date or at the end of such period.
 
-(Pub. L. 90–321, title I, §147, as added Pub. L. 100–709, §2(c), Nov. 23, 1988, 102 Stat. 4730.)
+(Pub. L. 90–321, title I, §147, as added Pub. L. 100–709, §2(c), Nov. 23, 1988, 102 Stat. 4730; amended Pub. L. 109–8, title XIII, §1302(a)(2), Apr. 20, 2005, 119 Stat. 208.)
+
+#### Amendments
+
+2005—Subsec. (b). Pub. L. 109–8 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date
 

@@ -116,5 +116,5 @@ Sense of the Congress.—It is the sense of the Congress that—
 
 &emsp;“(2) reaching a successful agreement on agriculture should be the top priority of United States negotiators; and
 
-&emsp;“(3) if by the conclusion of the negotiations, the primary agricultural competitors of the United States do not agree to reduce their trade distorting domestic supports and eliminate export subsidies in accordance with the negotiating objectives expressed in this section, the United States should take steps to increase the leverage of United States negotiators and level the playing field for United States producers.”
+&emsp;“(3) if by the conclusion of the negotiations, the primary agricultural competitors of the United States do not agree to reduce their trade distorting domestic supports and eliminate export subsidies inaccordance with the negotiating objectives expressed in this section, the United States should take steps to increase the leverage of United States negotiators and level the playing field for United States producers.”
 

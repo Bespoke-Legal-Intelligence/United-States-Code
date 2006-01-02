@@ -40,7 +40,7 @@ No grant of authority in this chapter shall be deemed to expand the exemption of
 
 Act of October 9, 1965, referred to in subsec. (f), is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, known as the National Park System Concessions Policy Act, which was classified generally to subchapter IV (§20 et seq.) of chapter 1 of this title prior to repeal by Pub. L. 105–391, title IV, §415(a), Nov. 13, 1998, 112 Stat. 3515.
 
-Section 10526(a)(9) of title 49, referred to in subsec. (g), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, “section 10526(a)(9) of title 49” was substituted for “section 203(b)(4) of the Interstate Commerce Act (49 U.S.C. 303(b)(4)” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
+Section 10526(a)(9) of title 49, referred to in subsec. (g), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Previously, “section 10526(a)(9) of title 49” was substituted for “section 203(b)(4) of the Interstate Commerce Act (49 U.S.C. 303(b)(4))” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49.
 
 #### Amendments
 

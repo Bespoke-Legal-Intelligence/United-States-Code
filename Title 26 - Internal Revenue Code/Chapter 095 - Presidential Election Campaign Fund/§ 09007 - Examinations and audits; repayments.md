@@ -8,7 +8,7 @@ After each presidential election, the Commission shall conduct a thorough examin
 
 (1) If the Commission determines that any portion of the payments made to the eligible candidates of a political party under section 9006 was in excess of the aggregate payments to which candidates were entitled under section 9004, it shall so notify such candidates, and such candidates shall pay to the Secretary of the Treasury an amount equal to such portion.
 
-(2) If the Commission determines that the eligible candidates of a political party and their authorized committees incurred qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party were entitled under section 9004, it shall notify such candidates of the amount of such excess and such candidates shall pay to the Secretary of the Treasury an amount equal to such amount.
+(2) If the Commission determines that the eligible candidates of a political party and theirauthorized committees incurred qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party were entitled under section 9004, it shall notify such candidates of the amount of such excess and such candidates shall pay to the Secretary of the Treasury an amount equal to such amount.
 
 (3) If the Commission determines that the eligible candidates of a major party or any authorized committee of such candidates accepted contributions (other than contributions to make up deficiencies in payments out of the fund on account of the application of section 9006(c)) to defray qualified campaign expenses (other than qualified campaign expenses with respect to which payment is required under paragraph (2)), it shall notify such candidates of the amount of the contributions so accepted, and such candidates shall pay to the Secretary of the Treasury an amount equal to such amount.
 
@@ -55,8 +55,4 @@ Amendment by Pub. L. 93–443 applicable with respect to taxable years beginning
 #### Effective Date of 1973 Amendment
 
 Amendment by Pub. L. 93–53 applicable with respect to taxable years beginning after Dec. 31, 1972, see section 6(d) of Pub. L. 93–53, set out as a note under section 6096 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9003, 9005, 9008, 9009, 9010 of this title.
 

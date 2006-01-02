@@ -20,7 +20,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 #### (d) Limitations on acquisition by investment companies of securities of other specific businesses
 
-(1)(A) It shall be unlawful for any registered investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issued by any other investment company (the “acquired company”), and for any investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issued by any registered investment company (the “acquired company”), if the acquiring company and any company or companies controlled by it immediately after such purchase or acquisition own in the aggregate—
+(1)(A) It shall be unlawful for any registered investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issued by any other investment company (the “acquired company”), and for any investment company (the “acquiring company”) and any company or companies controlled by such acquiring company to purchase or otherwise acquire any security issuedby any registered investment company (the “acquired company”), if the acquiring company and any company or companies controlled by it immediately after such purchase or acquisition own in the aggregate—
 
 &emsp;(i) more than 3 per centum of the total outstanding voting stock of the acquired company;
 
@@ -66,7 +66,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(III) with respect to—
 
-&emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and is not assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
+&emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and isnot assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
 
 &emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3\], or the Commission;
 
@@ -100,7 +100,7 @@ Notwithstanding any provisions of this subchapter, any registered investment com
 
 #### (f) Organization and ownership by one registered face-amount certificate company of all or part of capital stock of not more than two other face-amount certificate companies; limitations
 
-Notwithstanding any provisions of this chapter, any registered face-amount certificate company may organize not more than two face-amount certificate companies and acquire and own all or any part of the capital stock thereof only if such stock is acquired and held for investment: <i>Provided</i>, That the aggregate cost to such registered company of all such stock so acquired shall not exceed six times the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of section 80a–28 of this title for a face-amount company organized on or after March 15, 1940: <i>And</i><i>provided further</i>, That the aggregate cost to such registered company of all such capital stock issued by face-amount certificate companies organized or otherwise created under laws other than the laws of the United States or any State thereof shall not exceed twice the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of said section 80a–28 for a company organized on or after March 15, 1940. Nothing contained in this subsection shall be deemed to prevent the sale of any such stock to any other person if the original purchase was made by such registered face-amount certificate company in good faith for investment and not for resale.
+Notwithstanding any provisions of this chapter, any registered face-amount certificate company may organize not more than two face-amount certificate companies and acquire and own all or any part of the capital stock thereof only if such stock is acquired and held for investment: <i>Provided</i>, That the aggregate cost to such registered company of all such stock so acquired shall not exceed six times the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of section 80a–28 of this title for a face-amount company organized on or after March 15, 1940: <i>And provided further</i>, That the aggregate cost to such registered company of all such capital stock issued by face-amount certificate companies organized or otherwise created under laws other than the laws of the United States or any State thereof shall not exceed twice the amount of the minimum capital stock requirement provided in subdivision (1) of subsection (a) of said section 80a–28 for a company organized on or after March 15, 1940. Nothing contained in this subsection shall be deemed to prevent the sale of any such stock to any other person if the original purchase was made by such registered face-amount certificate company in good faith for investment and not for resale.
 
 #### (g) Exceptions to limitation on ownership by investment company of securities of insurance company
 
@@ -154,5 +154,5 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

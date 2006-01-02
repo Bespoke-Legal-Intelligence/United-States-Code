@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (1) Section 501(c)(3) organization
 
-&emsp;The term “section 501(c)(3) organization” means any organization which (without regard to any political expenditure) would be described in section 501(c)(3) and exempt from taxation under section 501(a).
+&emsp;The term “section 501(c)(3) organization” means any organization which (without regardto any political expenditure) would be described in section 501(c)(3) and exempt from taxation under section 501(a).
 
 #### (2) Organization manager
 
@@ -107,8 +107,4 @@ Binding contracts.—The amendments referred to in paragraph (1) shall not apply
 #### Effective Date
 
 Section 10712(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section and amending sections 4962, 4963, 6213, 6501, 6503, 6684, 7422, and 7454 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 22, 1987\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4912, 4962, 4963, 6033, 6213, 6852, 7409, 7422, 7454 of this title.
 

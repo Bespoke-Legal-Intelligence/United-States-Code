@@ -20,7 +20,7 @@ Based on title 28, U.S.C., 1940 ed., §653 (R.S. §875; Feb. 27, 1877, ch. 69, �
 
 Word “officer” was substituted for “commissioner” to obviate uncertainty as to the person to whom the letters or commissioned may be issued.
 
-The third sentence of section 653 of title 28, U.S.C., 1940 ed., providing for admission of testimony “so taken and returned” without objection as to the method of return, was omitted as unnecessary. Obviously, ifthe method designated by Congress is followed, it cannot be objected to.
+The third sentence of section 653 of title 28, U.S.C., 1940 ed., providing for admission of testimony “so taken and returned” without objection as to the method of return, was omitted as unnecessary. Obviously, if the method designated by Congress is followed, it cannot be objected to.
 
 The last sentence of section 653 of title 26, U.S.C., 1940 ed., relating to letters rogatory from courts of foreign countries, is incorporated in section 1782 of this title.
 

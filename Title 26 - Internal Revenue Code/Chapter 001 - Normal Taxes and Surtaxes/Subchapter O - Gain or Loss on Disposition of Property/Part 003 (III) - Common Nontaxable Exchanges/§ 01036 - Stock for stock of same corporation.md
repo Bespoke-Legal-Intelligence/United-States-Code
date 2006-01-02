@@ -24,7 +24,3 @@ For purposes of this section, nonqualified preferred stock (as defined in sectio
 
 Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transactions after June 8, 1997, see section 1014(f) of Pub. L. 105–34, set out as a note under section 351 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 83, 424, 1031 of this title.
-

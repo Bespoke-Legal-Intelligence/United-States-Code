@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 94–169, §106(22), substituted “surviving spouse”, �
 
 1967—Subsec. (a)(2). Pub. L. 90–77, §105, substituted ”$70” for “$65”.
 
-Subsec. (d). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenupital birth.
+Subsec. (d). Pub. L. 90–77, §101(a), qualified widow of a veteran for a pension by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
 #### Effective Date of 1975 Amendment
 

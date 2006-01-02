@@ -16,11 +16,23 @@
 
 (c) This section does not authorize legal counsel to be provided to represent a member or former member of the uniformed services described in subsection (a), or the dependent of such a member or former member, in a legal proceeding if the member or former member can afford legal fees for such representation without undue hardship.
 
-(d) The Secretary concerned shall define “dependent” for the purposes of this section.
+(d)(1) Notwithstanding any law regarding the licensure of attorneys, a judge advocate or civilian attorney who is authorized to provide military legal assistance is authorized to provide that assistance in any jurisdiction, subject to such regulations as may be prescribed by the Secretary concerned.
 
-(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108.)
+(2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State.
+
+(3) In this subsection, the term “military legal assistance” includes—
+
+&emsp;(A) legal assistance provided under this section; and
+
+&emsp;(B) legal assistance contemplated by sections 1044a, 1044b, 1044c, and 1044d of this title.
+
+(e) The Secretary concerned shall define “dependent” for the purposes of this section.
+
+(Added Pub. L. 98–525, title VI, §651(a), Oct. 19, 1984, 98 Stat. 2549; amended Pub. L. 104–201, div. A, title V, §583, Sept. 23, 1996, 110 Stat. 2538; Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 109–163, div. A, title V, §555, Jan. 6, 2006, 119 Stat. 3265.)
 
 #### Amendments
+
+2006—Subsecs. (d), (e). Pub. L. 109–163 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 2000—Subsec. (a)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §524(a)(2)\], added par. (4). Former par. (4) redesignated (5).
 
@@ -41,8 +53,4 @@ Subsec. (c). Pub. L. 104–201, §583(b), substituted “uniformed services desc
 #### Regulations
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §524(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108, provided that: “Regulations to implement the amendments made by this section \[amending this section\] shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1044a, 1044c, 1044d, 1052, 1588 of this title; title 14 section 514.
 

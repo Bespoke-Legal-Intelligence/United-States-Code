@@ -10,7 +10,7 @@ The Secretary shall promulgate regulations exempting from any labeling requireme
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulations to implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of thistitle, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
+Amendment by Pub. L. 101–535 effective six months after the date of the promulgation of final regulations to implement section 343(r) of this title, or if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations (Nov. 8, 1992), with exception for persons marketing food the brand name of which contains a term defined by the Secretary under section 343(r)(2)(A)(i) of this title, see section 10(a) of Pub. L. 101–535, set out as a note under section 343 of this title.
 
 #### Construction of Amendments by Pub. L. 101–535
 
@@ -18,5 +18,5 @@ Amendments by Pub. L. 101–535 not to be construed to alter authority of Secret
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 

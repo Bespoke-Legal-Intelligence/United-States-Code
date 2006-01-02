@@ -16,7 +16,7 @@ The Secretary, acting through the Forest Service and United States Geological Su
 
 &emsp;&emsp;(E) models to predict the occurrence, distribution, and impact of outbreaks of forest-damaging insects and associated diseases;
 
-&emsp;(2) to assist land managers in the development of treatments and strategies to improveforest health and reduce the susceptibility of forest ecosystems to severe infestations of forest-damaging insects and associated diseases on Federal land and State and private land; and
+&emsp;(2) to assist land managers in the development of treatments and strategies to improve forest health and reduce the susceptibility of forest ecosystems to severe infestations of forest-damaging insects and associated diseases on Federal land and State and private land; and
 
 &emsp;(3) to disseminate the results of the information gathering, treatments, and strategies.
 

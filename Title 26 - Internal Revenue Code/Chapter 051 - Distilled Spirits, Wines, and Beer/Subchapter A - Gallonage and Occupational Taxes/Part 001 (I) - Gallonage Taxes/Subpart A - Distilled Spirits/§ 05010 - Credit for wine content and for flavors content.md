@@ -66,15 +66,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 21/2 percent of the finished product.
 
-(Added Pub. L. 96–598, §6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, §27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, §5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, §11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415.)
+(Added Pub. L. 96–598, §6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, §27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, §5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, §11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 109–59, title XI, §11125(b)(14), Aug. 10, 2005, 119 Stat. 1956.)
+
+#### Amendment of Subsection (c)(2)(A)
+
+<i>Pub. L. 109–59, title XI, §11125(b)(14), (c), Aug. 10, 2005, 119 Stat. 1956, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, subsection (c)(2)(A) of this section is amended by substituting “section 5114” for “section 5134”.</i>
 
 #### Prior Provisions
 
 A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to miscellaneous stamp provisions, prior to the general revision of this chapter by Pub. L. 85–859.
-
-A prior section 5011, act Aug. 16, 1954, ch. 736, 68A Stat. 604, related to abatement, remission, refund and allowance for loss or destruction of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859.
-
-A prior section 5012, act Aug. 16, 1954, ch. 736, 68A Stat. 605, related to drawback on exportation of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
@@ -83,6 +83,10 @@ A prior section 5012, act Aug. 16, 1954, ch. 736, 68A Stat. 605, related to draw
 1988—Subsec. (c)(2)(B). Pub. L. 100–647 added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 1984—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
 
 #### Effective Date of 1990 Amendment
 

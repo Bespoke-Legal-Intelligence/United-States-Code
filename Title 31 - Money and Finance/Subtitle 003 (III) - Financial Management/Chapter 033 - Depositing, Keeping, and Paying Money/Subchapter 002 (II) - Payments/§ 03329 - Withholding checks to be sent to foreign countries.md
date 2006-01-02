@@ -1,6 +1,6 @@
 ### §3329. Withholding checks to be sent to foreign countries
 
-(a) The Secretary of the Treasury shall prohibit a check or warrant drawn on public money from being sent to a foreign country from the United States or from a territory or possession of the United States when the Secretary decides that postal, transportation, or banking facilitiesgenerally, or local conditions in the foreign country, do not reasonably ensure that the payee—
+(a) The Secretary of the Treasury shall prohibit a check or warrant drawn on public money from being sent to a foreign country from the United States or from a territory or possession of the United States when the Secretary decides that postal, transportation, or banking facilities generally, or local conditions in the foreign country, do not reasonably ensure that the payee—
 
 &emsp;(1) will receive the check or warrant; and
 

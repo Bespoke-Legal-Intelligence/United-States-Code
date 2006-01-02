@@ -70,7 +70,7 @@ Apportionment of Funds.—
 
 Factors in apportionment.—The Director shall apportion amounts appropriated for a fiscal year pursuant to the authorization of appropriations in subsection (b) for activities under subsection (a) among and within areas designated by the Director as high intensity drug trafficking areas based on the following factors:
 
-&emsp;&emsp;“(A) The number of methamphetamine manufacturing facilities and amphetamine manufacturingfacilities discovered by Federal, State, or local law enforcement officials in the previous fiscal year.
+&emsp;&emsp;“(A) The number of methamphetamine manufacturing facilities and amphetamine manufacturing facilities discovered by Federal, State, or local law enforcement officials in the previous fiscal year.
 
 &emsp;&emsp;“(B) The number of methamphetamine prosecutions and amphetamine prosecutions in Federal, State, or local courts in the previous fiscal year.
 

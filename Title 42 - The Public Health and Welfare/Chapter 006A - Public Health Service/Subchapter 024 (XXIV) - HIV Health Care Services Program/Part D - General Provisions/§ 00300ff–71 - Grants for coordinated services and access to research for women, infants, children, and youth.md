@@ -70,7 +70,7 @@ A grant under subsection (a) of this section may be made only if the applicant f
 
 &emsp;&emsp;(B) referrals for other social and support services, as appropriate.
 
-&emsp;(3) The applicant will provide the patient and the family of the patient with such transportation, child care, and other incidental services as may be necessary to enable the patient and the family to participate in the program established by the applicant pursuant to such subsection.
+&emsp;(3) The applicant will provide the patient and the family of the patient with such transportation, child care, and other incidentalservices as may be necessary to enable the patient and the family to participate in the program established by the applicant pursuant to such subsection.
 
 &emsp;(4) The applicant will provide individuals with information and education on opportunities to participate in HIV/AIDS-related clinical research.
 
@@ -128,7 +128,7 @@ The Secretary shall develop and implement a plan that provides for the coordinat
 
 #### (j) Training and technical assistance
 
-Of the amounts appropriated under subsection (j) of this section for a fiscal year, the Secretary may use not more than five percent to provide, directly or through contracts with public and private entities (which may include grantees under subsection (a) of this section), training and technical assistance to assist applicants and grantees under subsection (a) of this section in complying with the requirements of this section.
+Of the amounts appropriated under subsection (j) of this section for a fiscal year, the Secretarymay use not more than five percent to provide, directly or through contracts with public and private entities (which may include grantees under subsection (a) of this section), training and technical assistance to assist applicants and grantees under subsection (a) of this section in complying with the requirements of this section.
 
 #### (k) Authorization of appropriations
 
@@ -158,7 +158,7 @@ Subsec. (d)(4). Pub. L. 106–345, §401(b), added par. (4).
 
 Subsec. (f). Pub. L. 106–345, §401(c), substituted “Administration” for “Application” in subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-Subsec. (g). Pub. L. 106–345, §401(d), inserted at end “The Secretary acting through the Director of NIH, shall examine the distribution and availability of ongoing and appropriate HIV/AIDS-related research projects to existing sites under this section for purposes of enhancing and expanding voluntary access to HIV-related research, especially within communitiesthat are not reasonably served by such projects. Not later than 12 months after October 20, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the findings made by the Director and the manner in which the conclusions based on those findings can be addressed.”
+Subsec. (g). Pub. L. 106–345, §401(d), inserted at end “The Secretary acting through the Director of NIH, shall examine the distribution and availability of ongoing and appropriate HIV/AIDS-related research projects to existing sites under this section for purposes of enhancing and expanding voluntary access to HIV-related research, especially within communities that are not reasonably served by such projects. Not later than 12 months after October 20, 2000, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the findings made by the Director and the manner in which the conclusions based on those findings can be addressed.”
 
 Subsecs. (i), (j). Pub. L. 106–345, §401(e), added subsec. (i) and redesignated former subsec. (i) as (j). Former subsec. (j) redesignated (k).
 

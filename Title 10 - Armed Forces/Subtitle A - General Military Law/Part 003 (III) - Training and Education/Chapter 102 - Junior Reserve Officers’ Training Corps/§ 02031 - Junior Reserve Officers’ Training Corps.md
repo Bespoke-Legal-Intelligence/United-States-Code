@@ -30,7 +30,7 @@
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807,July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107.)
+(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107.)
 
 #### Amendments
 
@@ -89,8 +89,4 @@ Pub. L. 96–342, title VI, §602, Sept. 8, 1980, 94 Stat. 1087, as amended by P
 &emsp;“(2) the unit meets such other requirements (in addition to the requirements prescribed by section 2031(b) of title 10, United States Code) as may be established by the Secretary of the military department concerned.”
 
 \[Section 702(b) of Pub. L. 97–86 provided that: “The amendment made by subsection (a) \[substituting 1982 for 1981 above\] shall take effect as of August 31, 1981.”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2032 of this title.
 

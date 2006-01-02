@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) fromany purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
+&emsp;&emsp;Any profit realized by a director or executive officer referred to in paragraph (1) from any purchase, sale, or other acquisition or transfer in violation of this subsection shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such director or executive officer in entering into the transaction.
 
 #### (B) Actions to recover profits
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) does not include, under regulations which shall be prescribed by the Commission—
 
-&emsp;&emsp;&emsp;(i) a regularly scheduled period in which the participants and beneficiaries may not purchase, sell, or otherwise acquire or transfer an interest in any equity of such issuer, if such period is—
+&emsp;&emsp;&emsp;(i) a regularly scheduled period in which the participants and beneficiaries may not purchase, sell, or otherwise acquire ortransfer an interest in any equity of such issuer, if such period is—
 
 &emsp;&emsp;&emsp;&emsp;(I) incorporated into the individual account plan; and
 
@@ -72,5 +72,5 @@ For amendments made by this subsection and this section, referred to in subsecs.
 
 #### Codification
 
-Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amendedsection 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
+Section is comprised of section 306 of Pub. L. 107–204. Subsec. (b)(1) of section 306 of Pub. L. 107–204 amended section 1021 of Title 29, Labor, and another par. (3) of subsec. (b) amended section 1132 of Title 29.
 

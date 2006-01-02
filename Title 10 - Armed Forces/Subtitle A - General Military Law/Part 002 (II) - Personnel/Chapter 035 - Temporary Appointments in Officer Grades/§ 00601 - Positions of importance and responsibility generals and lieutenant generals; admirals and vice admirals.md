@@ -2,7 +2,7 @@
 
 (a) The President may designate positions of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral. The President may assign to any such position an officer of the Army, Navy, Air Force, or Marine Corps who is serving on active duty in any grade above colonel or, in the case of an officer of the Navy, any grade above captain. An officer assigned to any such position has the grade specified for that position if he is appointed to that grade by the President, by and with the advice and consent of the Senate. Except as provided in subsection (b), the appointment of an officer to a grade under this section for service in a position of importance and responsibility ends on the date of the termination of the assignment of the officer to that position.
 
-(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated undersubsection (a) or by law to carry that grade shall continue to hold that grade—
+(b) An officer who is appointed to the grade of general, admiral, lieutenant general, or vice admiral for service in a position designated under subsection (a) or by law to carry that grade shall continue to hold that grade—
 
 &emsp;(1) while serving in that position;
 
@@ -38,7 +38,7 @@ Subsec. (b)(4). Pub. L. 104–106, §403(c)(4), inserted “under subsection (a)
 
 1985—Subsec. (c)(2). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1984—Subsec. (b). Pub. L. 98–525 amended subsec. (b) generally, which prior to amendment had provided that if the assignment of an officer who was serving in a position designated to carry the grade of general, admiral, lieutenant general, or vice admiral was terminated (1) by the assignment of such officer to another position designated to carry one of those grades, such officers would hold, during the period beginning on the day of that termination and ending on the day before the day on which he assumed the other position, the grade that he had held on the day before the termination; (2) by the hospitalization of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day he was discharged from the hospital, but not for more than 180 days, the grade that he had held on the day before the termination; or (3) by the retirement of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day before his retirement, but not for more than 90 days, the grade that he had held on the day before the termination.
+1984—Subsec. (b). Pub. L. 98–525 amended subsec. (b) generally, which prior to amendment had provided that if the assignment of an officer who was serving in a position designated to carry the grade of general, admiral, lieutenant general, or vice admiral was terminated (1) by the assignment of such officer to another position designated to carry one of those grades, such officers would hold, during the period beginning on the dayof that termination and ending on the day before the day on which he assumed the other position, the grade that he had held on the day before the termination; (2) by the hospitalization of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day he was discharged from the hospital, but not for more than 180 days, the grade that he had held on the day before the termination; or (3) by the retirement of such officer, such officer would hold, during the period beginning on the day of that termination and ending on the day before his retirement, but not for more than 90 days, the grade that he had held on the day before the termination.
 
 1981—Subsec. (c)(2). Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
 
@@ -57,8 +57,4 @@ Chapter effective Sept. 15, 1981, but the authority to prescribe regulations und
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For provisions relating to temporary appointments of officers serving in grades above major general or rear admiral, see section 623 of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 164, 203, 441, 525, 720, 6325 of this title.
 

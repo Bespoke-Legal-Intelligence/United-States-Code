@@ -2,7 +2,7 @@
 
 #### (a) Assistance to U.S. firms
 
-In order to assist the Governments of the Federated States of Micronesia and of the Marshall Islands through private sector firms which may be awarded contracts for construction or major repair of capital infrastructure within the Federated States of Micronesia or the Republic of the Marshall Islands, the President shall consult with the Governments of the Federated States of Micronesia and the Marshall Islands with respect to any such contracts, and the President shall enter into agreements with such firms whereby such firms will, consistent with applicable requirements of such Governments—
+In order to assist the Governments of the Federated States of Micronesia and of the Marshall Islands through private sector firms which may be awarded contracts for construction or major repair of capital infrastructure within the Federated States of Micronesia or the Republic of the Marshall Islands, the President shall consult with the Governments of the Federated States of Micronesia and the Marshall Islands with respect to any such contracts, and the President shall enter into agreements with such firmswhereby such firms will, consistent with applicable requirements of such Governments—
 
 &emsp;(1) to the maximum extent possible, employ citizens of the Federated States of Micronesia and the Marshall Islands;
 

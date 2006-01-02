@@ -2,11 +2,11 @@
 
 #### (a) General authority
 
-The President is authorized to furnish, on such terms and conditions consistent with this part\(but whenever feasible on a reimbursable basis), education and training to appropriate military and civilian personnel of foreign countries for the purpose of enhancing the nonproliferation and export control capabilities of such personnel through their attendance in special courses of instruction conducted by the United States.
+The President is authorized to furnish, on such terms and conditions consistent with this part (but whenever feasible on a reimbursable basis), education and training to appropriate military and civilian personnel of foreign countries for the purpose of enhancing the nonproliferation and export control capabilities of such personnel through their attendance in special courses of instruction conducted by the United States.
 
 #### (b) Administration of courses
 
-The Secretary of State shall have overall responsibility for the development and conduct of international nonproliferation education and training programs under this section, and may utilize other departments and agencies of the United States, as appropriate, to recommend personnel for the education and training and to administer specific courses of instruction.
+The Secretary of State shall have overall responsibility for the development and conduct ofinternational nonproliferation education and training programs under this section, and may utilize other departments and agencies of the United States, as appropriate, to recommend personnel for the education and training and to administer specific courses of instruction.
 
 #### (c) Purposes
 

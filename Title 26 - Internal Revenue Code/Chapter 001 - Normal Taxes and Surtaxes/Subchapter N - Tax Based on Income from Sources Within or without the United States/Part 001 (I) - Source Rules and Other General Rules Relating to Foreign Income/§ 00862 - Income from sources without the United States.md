@@ -14,7 +14,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;(5) gains, profits, and income from the sale or exchange of real property located without the United States;
 
-&emsp;(6) gains, profits, and income derived from the purchase of inventory property (within themeaning of section 865(i)(1)) within the United States and its sale or exchange without the United States;
+&emsp;(6) gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) within the United States and its sale or exchange without the United States;
 
 &emsp;(7) underwriting income other than that derived from sources within the United States as provided in section 861(a)(7); and
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 104(b)(12) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 104(b)(12) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1211(b)(1)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
@@ -96,9 +96,5 @@ For rule governing allocation under subsec. (b) of this section of amounts allow
 
 #### Allocation Under Section 861 of Research and Experimental Expenditures
 
-For purposes of subsec. (b) of this section, all amounts allowable as a deduction for qualified researchand experimental expenditures are to be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States for taxable years beginning after Aug. 13, 1983, and on or before Aug. 1, 1986, see section 126 of Pub. L. 98–369, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 638, 818, 861, 863, 864, 865 of this title.
+For purposes of subsec. (b) of this section, all amounts allowable as a deduction for qualified research and experimental expenditures are to be allocated to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States for taxable years beginning after Aug. 13, 1983, and on or before Aug. 1, 1986, see section 126 of Pub. L. 98–369, set out as a note under section 861 of this title.
 

@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Comptroller General shall review provisions requiring financial or financial and compliance audits of recipients of Federal assistance that are contained in bills and resolutions reported by the committees of the Senate and the House of Representatives. If the Comptroller General determines that a bill or resolution contains provisions that are inconsistent with the requirements of thischapter, the Comptroller General shall, at the earliest practicable date, notify in writing—
+1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Comptroller General shall review provisions requiring financial or financial and compliance audits of recipients of Federal assistance that are contained in bills and resolutions reported by the committees of the Senate and the House of Representatives. If the Comptroller General determines that a bill or resolution contains provisions that are inconsistent with the requirements of this chapter, the Comptroller General shall, at the earliest practicable date, notify in writing—
 
 &emsp;“(1) the committee that reported such bill or resolution; and
 

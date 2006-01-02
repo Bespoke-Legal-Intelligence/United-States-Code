@@ -22,11 +22,11 @@ There is established in the executive branch of the Government an independent ag
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be six years, except that the terms of the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
+The term of office of each member of the Board shall be six years, except that the termsof the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
 
 #### (d) Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress
 
-The management of the Administration shall be vested in the Board. The Board shall adoptsuch rules as it sees fit for the transaction of its business and shall keep permanent and complete records and minutes of its acts and proceedings. A majority of the Board shall constitute a quorum. Not later than April 1 of each calendar year, and at such other times as the Congress shall determine, the Board shall make a report to the President and to the Congress. Such a report shall summarize the operations of the Administration and set forth such information as is necessary for the Congress to review the financial program approved by the Board.
+The management of the Administration shall be vested in the Board. The Board shall adopt such rules as it sees fit for the transaction of its business and shall keep permanent and complete records and minutes of its acts and proceedings. A majority of the Board shall constitute a quorum. Not later than April 1 of each calendar year, and at such other times as the Congress shall determine, the Board shall make a report to the President and to the Congress. Such a report shall summarize the operations of the Administration and set forth such information as is necessary for the Congress to review the financial program approved by the Board.
 
 #### (e) Functions of Chairman
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 Section 6 of Pub. L. 91–206 provided that:
 
-“(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred tothe National Credit Union Administration created by this Act \[which generally amended this chapter\].
+“(a) All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act \[which generally amended this chapter\].
 
 “(b) The Director of the Bureau of Federal Credit Unions in office on the date of enactment of this Act \[Mar. 10, 1970\] shall serve as acting Administrator of the National Credit Union Administration pending the appointment of an Administrator in accordance with section 3 of the Federal Credit Union Act as amended by this Act \[this section\].”
 

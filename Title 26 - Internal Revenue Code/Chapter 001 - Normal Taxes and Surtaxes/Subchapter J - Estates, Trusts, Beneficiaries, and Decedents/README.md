@@ -7,10 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 102, 511, 852, 2055 of this title.
-
 
 ---
 

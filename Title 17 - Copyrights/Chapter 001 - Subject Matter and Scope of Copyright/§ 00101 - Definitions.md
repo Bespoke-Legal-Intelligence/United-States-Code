@@ -72,6 +72,8 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Motion pictures” are audiovisual works consisting of a series of related images which, when shown in succession, impart an impression of motion, together with accompanying sounds, if any.
 
+&emsp;The term “motion picture exhibition facility” means a movie theater, screening room, or other venue that is being used primarily for the exhibition of a copyrighted motion picture, if such exhibition is open to the public or is made to an assembled group of viewers outside of a normal circle of a family and its social acquaintances.
+
 &emsp;To “perform” a work means to recite, render, play, dance, or act it, either directly or by means of any device or process or, in the case of a motion picture or other audiovisual work, to show its images in any sequence or to make the sounds accompanying it audible.
 
 &emsp;A “performing rights society” is an association, corporation, or other entity that licenses the public performance of nondramatic musical works on behalf of copyright owners of such works, such as the American Society of Composers, Authors and Publishers (ASCAP), Broadcast Music, Inc. (BMI), and SESAC, Inc.
@@ -90,9 +92,9 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) to perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
 
-&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
+&emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public,by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
 
-&emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the originalor the renewed and extended term of copyright.
+&emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the original or the renewed and extended term of copyright.
 
 &emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
 
@@ -156,7 +158,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) a work prepared by an employee within the scope of his or her employment; or
 
-&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords,afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
+&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
 
 > &emsp;In determining whether any work is eligible to be considered a work made for hire under paragraph (2), neither the amendment contained in section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, nor the deletion of the words added by that amendment—
 
@@ -168,7 +170,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, §13210(5), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, §4, Nov. 30, 2004, 118 Stat. 2361.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, §13210(5), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, §4, Nov. 30, 2004, 118 Stat. 2361; Pub. L. 109–9, title I, §102(c), Apr. 27, 2005, 119 Stat. 220.)
 
 #### Historical and Revision Notes
 
@@ -187,6 +189,8 @@ Section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000,
 Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “WTO Agreement” and “WTO member country”, is classified to section 3501 of Title 19, Customs Duties.
 
 #### Amendments
+
+2005—Pub. L. 109–9 inserted definition of “motion picture exhibition facility” after definition of “Motion pictures”.
 
 2004—Pub. L. 108–419 inserted definition of “Copyright Royalty Judge” after definition of “Copies”.
 
@@ -314,7 +318,7 @@ Section 102(g) of Pub. L. 102–307, as amended by Pub. L. 105–298, title I, �
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L.101–650, set out as an Effective Date note under section 106A of this title.
 
 Section 706 of title VII of Pub. L. 101–650 provided that: “The amendments made by this title \[enacting section 120 of this title and amending this section and sections 102, 106, and 301 of this title\], apply to—
 
@@ -333,6 +337,16 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 “(b)
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–9, §1, Apr. 27, 2005, 119 Stat. 218, provided that: “This Act \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705, 151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179<i>l</i> of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Family Entertainment and Copyright Act of 2005’.”
+
+Pub. L. 109–9, title I, §101, Apr. 27, 2005, 119 Stat. 218, provided that: “This title \[enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section, sections 408, 411, 412, and 506 of this title, and section 2319 of Title 18, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Artists’ Rights and Theft Prevention Act of 2005’ or the ‘ART Act’.”
+
+Pub. L. 109–9, title II, §201, Apr. 27, 2005, 119 Stat. 223, provided that: “This title \[amending section 110 of this title and section 1114 of Title 15, Commerce and Trade\] may be cited as the ‘Family Movie Act of 2005’.”
+
+Pub. L. 109–9, title IV, §401, Apr. 27, 2005, 119 Stat. 226, provided that: “This title \[amending section 108 of this title\] may be cited as the ‘Preservation of Orphan Works Act’.”
 
 #### Short Title of 2004 Amendments
 
@@ -386,7 +400,7 @@ Pub. L. 103–198, §1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Ac
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–563, §1, Oct. 28, 1992, 106 Stat. 4237, provided that: “This Act \[enacting chapter 10 of this title, amending this section, sections 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1001of this title\] may be cited as the ‘Audio Home Recording Act of 1992’.”
+Pub. L. 102–563, §1, Oct. 28, 1992, 106 Stat. 4237, provided that: “This Act \[enacting chapter 10 of this title, amending this section, sections 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1001 of this title\] may be cited as the ‘Audio Home Recording Act of 1992’.”
 
 Section 1 of Pub. L. 102–307 provided that: “This Act \[enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178<i>l</i> of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2\] may be cited as the ‘Copyright Amendments Act of 1992’.”
 
@@ -428,7 +442,7 @@ Pub. L. 106–379, §2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “I
 
 #### Construction of 1998 Amendment
 
-Pub. L. 105–298, title II, §206, Oct. 27, 1998, 112 Stat. 2834, provided that: “Except as otherwise provided in this title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\], nothing in this title shall be construed to relieve any performing rights society of any obligation under any State or local statute, ordinance, or law, or consent decree or other court order governing its operation, as such statute, ordinance, law, decree, or order is in effect on the date of the enactment of this Act \[Oct. 27, 1998\], as it may be amended after such date, or as it may be issued or agreed to after such date.”
+Pub. L. 105–298, title II, §206, Oct. 27, 1998, 112 Stat. 2834, provided that: “Except as otherwise provided in this title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\],nothing in this title shall be construed to relieve any performing rights society of any obligation under any State or local statute, ordinance, or law, or consent decree or other court order governing its operation, as such statute, ordinance, law, decree, or order is in effect on the date of the enactment of this Act \[Oct. 27, 1998\], as it may be amended after such date, or as it may be issued or agreed to after such date.”
 
 #### First Amendment Application
 
@@ -458,7 +472,7 @@ Relationship With Domestic Law.—The provisions of the Berne Convention—
 
 “(b)
 
-Certain Rights Not Affected.—The provisions of the Berne Convention, the adherence of the United States thereto, and satisfaction of United States obligations thereunder, do not expand or reduce any rightof an author of a work, whether claimed under Federal, State, or the common law—
+Certain Rights Not Affected.—The provisions of the Berne Convention, the adherence of the United States thereto, and satisfaction of United States obligations thereunder, do not expand or reduce any right of an author of a work, whether claimed under Federal, State, or the common law—
 
 &emsp;“(1) to claim authorship of the work; or
 

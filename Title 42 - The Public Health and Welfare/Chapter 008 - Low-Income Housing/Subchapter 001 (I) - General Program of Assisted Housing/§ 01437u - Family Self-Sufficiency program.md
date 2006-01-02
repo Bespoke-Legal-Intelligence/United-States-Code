@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of the Family Self-Sufficiency program established under this section is to promote the development of local strategies to coordinate use of public housing and assistance under the certificate and voucher programs under section 1437f of this title with public and private resources, to enable eligible families to achieve economic independence and self-sufficiency.
+The purpose of the Family Self-Sufficiency program established under this section is to promote the development of local strategies tocoordinate use of public housing and assistance under the certificate and voucher programs under section 1437f of this title with public and private resources, to enable eligible families to achieve economic independence and self-sufficiency.
 
 #### (b) Establishment of program
 
@@ -60,7 +60,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (5) Nonparticipation
 
-&emsp;Assistance under the certificate or voucher programs under section 1437f of this title for a family that elects not to participate in a local program shall not be delayed by reason of such election.
+&emsp;Assistance under the certificate or voucher programs under section 1437f of this title for a family that elects not to participate in a localprogram shall not be delayed by reason of such election.
 
 #### (c) Contract of participation
 
@@ -70,7 +70,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Supportive services
 
-&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall beprovided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
+&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall be provided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
 
 &emsp;&emsp;(A) child care;
 
@@ -108,7 +108,7 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 #### (2) Escrow savings accounts
 
-&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
+&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c) of this section, as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may makecertain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
 
 #### (3) Plan
 
@@ -168,7 +168,7 @@ Any increase in the earned income of a family during the participation of the fa
 
 #### (2) Performance funding system
 
-&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall includean estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
+&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall provide for inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall include an estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
 
 #### (i) Public housing agency incentive award allocation
 
@@ -272,7 +272,7 @@ Subsec. (b)(3). Pub. L. 105–276, §509(a)(1)(B), substituted “Subject to par
 
 Subsec. (b)(4), (5). Pub. L. 105–276, §509(a)(1)(C), (D), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d)(3). Pub. L. 105–276, §509(a)(2), struck out heading and text of par. (3) relating to use of escrow savings accounts. Text read as follows: “Notwithstanding paragraph (3), a family that uses assistance under section 1437f(y) of this title to purchase a dwelling may use up to 50 percent of the amount in its escrow account established under paragraph (3) for a downpayment on the dwelling. In addition, after the family purchases the dwelling, the family may use any amounts remaining in the escrow account to cover the costs of major repair and replacement needs of the dwelling. If a family defaults in connection with the loan to purchase a dwelling and the mortgage is foreclosed, the remaining amounts in the escrow account shall be recaptured by the Secretary.”
+Subsec. (d)(3). Pub. L. 105–276, §509(a)(2), struck out heading and text of par. (3) relating to use of escrow savings accounts. Text read as follows: “Notwithstanding paragraph (3), a family that uses assistance under section 1437f(y) of this title to purchase a dwelling mayuse up to 50 percent of the amount in its escrow account established under paragraph (3) for a downpayment on the dwelling. In addition, after the family purchases the dwelling, the family may use any amounts remaining in the escrow account to cover the costs of major repair and replacement needs of the dwelling. If a family defaults in connection with the loan to purchase a dwelling and the mortgage is foreclosed, the remaining amounts in the escrow account shall be recaptured by the Secretary.”
 
 Subsec. (f)(1). Pub. L. 105–276, §509(a)(3), inserted “carrying out a local program under this section” after “Each public housing agency”.
 

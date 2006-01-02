@@ -14,7 +14,3 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5505 of this title.
-

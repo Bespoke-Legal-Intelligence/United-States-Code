@@ -12,7 +12,7 @@
 
 #### (3) <sup>1</sup> Low power station carriage optional
 
-&emsp;No low power television station whose signals are provided under section 119(a)(14) oftitle 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
+&emsp;No low power television station whose signals are provided under section 119(a)(14) of title 17 shall be entitled to insist on carriage under this section, regardless of whether the satellite carrier provides secondary transmissions of the primary transmissions of other stations in the same local market pursuant to section 122 of such title, nor shall any such carriage be considered in connection with the requirements of subsection (c) of this section.
 
 #### (3) <sup>1</sup> Effective date
 
@@ -44,7 +44,7 @@
 
 #### (d) Channel positioning
 
-No satellite carrier shall be required to provide the signal of a local television broadcast station to subscribers in that station's local market on any particular channel number or to provide the signals in any particular order, except that the satellite carrier shall retransmit the signal of the local television broadcast stations to subscribers in the stations’ local market on contiguous channels and provide access to such station's signals at a nondiscriminatory price and in a nondiscriminatory manner on any navigational device, on-screen program guide, or menu.
+No satellite carrier shall be required to provide the signal of a local television broadcaststation to subscribers in that station's local market on any particular channel number or to provide the signals in any particular order, except that the satellite carrier shall retransmit the signal of the local television broadcast stations to subscribers in the stations’ local market on contiguous channels and provide access to such station's signals at a nondiscriminatory price and in a nondiscriminatory manner on any navigational device, on-screen program guide, or menu.
 
 #### (e) Compensation for carriage
 
@@ -126,7 +126,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (C) Transmission of notices
 
-&emsp;&emsp;Such regulations shall require that each satellite carrier shall transmit the noticesrequired by such regulation via certified mail to the address for such television station licensee listed in the consolidated database system maintained by the Commission.
+&emsp;&emsp;Such regulations shall require that each satellite carrier shall transmit the notices required by such regulation via certified mail to the address for such television station licensee listed in the consolidated database system maintained by the Commission.
 
 #### (i) Privacy rights of satellite subscribers
 
@@ -184,7 +184,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;A satellite carrier may disclose such information if the disclosure is—
 
-&emsp;&emsp;&emsp;(i) necessary to render, or conduct a legitimate business activity related to, a satellite service or other service provided by the satellite carrier to the subscriber;
+&emsp;&emsp;&emsp;(i) necessary to render, or conduct a legitimate business activity related to, asatellite service or other service provided by the satellite carrier to the subscriber;
 
 &emsp;&emsp;&emsp;(ii) subject to paragraph (9), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
 
@@ -206,7 +206,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (6) Destruction of information
 
-&emsp;A satellite carrier shall destroy personally identifiable information if the information isno longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under paragraph (5) or pursuant to a court order.
+&emsp;A satellite carrier shall destroy personally identifiable information if the information is no longer necessary for the purpose for which it was collected and there are no pending requests or orders for access to such information under paragraph (5) or pursuant to a court order.
 
 #### (7) Penalties
 
@@ -298,7 +298,7 @@ Subsec. (k)(4) to (8). Pub. L. 108–447, §203(b)(3), added par. (4) and redesi
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: “Section 338(i) ofthe Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\].”
+Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: “Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\].”
 
 #### Rural Local Television Signals
 

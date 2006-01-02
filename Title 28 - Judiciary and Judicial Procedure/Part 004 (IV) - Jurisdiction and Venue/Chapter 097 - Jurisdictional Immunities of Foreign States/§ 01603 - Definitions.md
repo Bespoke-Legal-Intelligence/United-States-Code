@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(2) which is an organ of a foreign state or political subdivision thereof, or a majority of whose shares or other ownership interest is owned by a foreign state or political subdivision thereof, and
 
-&emsp;&emsp;(3) which is neither a citizen of a State of the United States as defined in section 1332 (c) and (d) of this title, nor created under the laws of any third country.
+&emsp;&emsp;(3) which is neither a citizen of a State of the United States as defined in section 1332 (c) and (e) of this title, nor created under the laws of any third country.
 
 &emsp;(c) The “United States” includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 
@@ -18,5 +18,13 @@ For purposes of this chapter—
 
 &emsp;(e) A “commercial activity carried on in the United States by a foreign state” means commercial activity carried on by such state and having substantial contact with the United States.
 
-(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892.)
+(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 109–2, §4(b)(2), Feb. 18, 2005, 119 Stat. 12.)
+
+#### Amendments
+
+2005—Subsec. (b)(3). Pub. L. 109–2 substituted “(e)” for “(d)”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–2 applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as a note under section 1332 of this title.
 

@@ -1,6 +1,6 @@
 ### \[§§6372 to 6374. Repealed. Pub. L. 96–513, title III, §335, Dec. 12, 1980, 94 Stat. 2898\]
 
-Section 6372, act Aug. 10, 1956, ch. 1041, 70A Stat. 400, related to retirement and possible retention on active list of line rear admirals restricted in performance of duty and staff corps rear admirals in Regular Navy. See section 637 of this title.
+Section 6372, act Aug. 10, 1956, ch. 1041, 70A Stat. 400, related to retirement and possible retention on activelist of line rear admirals restricted in performance of duty and staff corps rear admirals in Regular Navy. See section 637 of this title.
 
 Section 6373, act Aug. 10, 1956, ch. 1041, 70A Stat. 400, related to retirement and possible retention on active list of major generals in Regular Marine Corps. See section 637 of this title.
 

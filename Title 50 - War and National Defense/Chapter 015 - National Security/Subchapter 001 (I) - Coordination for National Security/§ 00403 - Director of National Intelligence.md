@@ -34,6 +34,8 @@ Another prior section 403, acts July 26, 1947, ch. 343, title I, §102, 61 Stat.
 
 #### Effective Date
 
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 
 #### Presidential Guidelines on Implementation and Preservation of Authorities
@@ -102,7 +104,7 @@ Intelligence Community Defined.—In this section, the term ‘intelligence comm
 
 #### Report on Lessons Learned From Military Operations in Iraq
 
-Pub. L. 108–177, title III, §357, Dec. 13, 2003, 117 Stat. 2621, as amended by Pub. L. 108–458, title I,§1071(g)(3)(A)(vi), Dec. 17, 2004, 118 Stat. 3692, provided that:
+Pub. L. 108–177, title III, §357, Dec. 13, 2003, 117 Stat. 2621, as amended by Pub. L. 108–458, title I, §1071(g)(3)(A)(vi), Dec. 17, 2004, 118 Stat. 3692, provided that:
 
 “(a)
 

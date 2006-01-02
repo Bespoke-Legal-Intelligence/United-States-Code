@@ -40,7 +40,3 @@ Provisions similar to those in this section were contained in sections 3375, 837
 
 1996—Subsec. (b)(2)(B). Pub. L. 104–201 struck out “of the Air Force” after “reserve officer”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 12009 of this title.
-

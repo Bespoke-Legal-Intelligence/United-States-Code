@@ -8,7 +8,7 @@ The Secretary, in accordance with the recommendations of the Administrator of th
 
 &emsp;(2) the effect on oceanographic currents and wave patterns;
 
-&emsp;(3) the effect on alternate uses of the oceans and navigable waters, such as scientific study,fishing, and exploitation of other living and nonliving resources;
+&emsp;(3) the effect on alternate uses of the oceans and navigable waters, such as scientific study, fishing, and exploitation of other living and nonliving resources;
 
 &emsp;(4) the potential dangers to a deepwater port from waves, winds, weather, and geological conditions, and the steps which can be taken to protect against or minimize such dangers;
 

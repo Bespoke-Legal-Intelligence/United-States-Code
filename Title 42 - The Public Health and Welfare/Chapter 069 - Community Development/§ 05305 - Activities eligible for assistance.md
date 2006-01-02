@@ -18,7 +18,7 @@ Activities assisted under this chapter may include only—
 
 &emsp;(7) disposition (through sale, lease, donation, or otherwise) of any real property acquired pursuant to this chapter or its retention for public purposes;
 
-&emsp;(8) provision of public services, including but not limited to those concerned with employment, crime prevention, child care, health, drug abuse, education, energy conservation, welfare or recreation needs, if such services have not been provided by the unit of general local government (through funds raised by such unit, or received by such unit from the State in which it is located) during any part ofthe twelve-month period immediately preceding the date of submission of the statement with respect to which funds are to be made available under this chapter, and which are to be used for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the unit of general local government, except that not more than 15 per centum of the amount of any assistance to a unit of general local government (or in the case of nonentitled communities not more than 15 per centum statewide) under this chapter including program income may be used for activities under this paragraph unless such unit of general local government used more than 15 percent of the assistance received under this chapter for fiscal year 1982 or fiscal year 1983 for such activities (excluding any assistance received pursuant to Public Law 98–8), in which case such unit of general local government may use not more than the percentage or amount of such assistance used for such activities for such fiscal year, whichever method of calculation yields the higher amount, except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1993 through 2003 to the City of Los Angeles and County of Los Angeles, each such unit of general government may use not more than 25 percent in each such fiscal year for activities under this paragraph, and except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1999, 2000, and 2001, to the City of Miami, such city may use not more than 25 percent in each fiscal year for activities under this paragraph;
+&emsp;(8) provision of public services, including but not limited to those concerned with employment, crime prevention, child care, health, drug abuse, education, energy conservation, welfare or recreation needs, if such services have not been provided by the unit of general local government (through funds raised by such unit, or received by such unit from the State in which it is located) during any part of the twelve-month period immediately preceding the date of submission of the statement with respect to which funds are to be made available under this chapter, and which are to be used for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the unit of general local government, except that not more than 15 per centum of the amount of any assistance to a unit of general local government (or in the case of nonentitled communities not more than 15 per centum statewide) under this chapter including program income may be used for activities under this paragraph unless such unit of general local government used more than 15 percent of the assistance received under this chapter for fiscal year 1982 or fiscal year 1983 for such activities (excluding any assistance received pursuant to Public Law 98–8), in which case such unit of general local government may use not more than the percentage or amount of such assistance used for such activities for such fiscal year, whichever method of calculation yields the higher amount, except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1993 through 2003 to the City of Los Angeles and County of Los Angeles, each such unit of general government may use not more than 25 percent in each such fiscal year for activities under this paragraph, and except that of any amount of assistance under this chapter (including program income) in each of fiscal years 1999, 2000, and 2001, to the City of Miami, such city may use not more than 25 percent in each fiscal year for activities under this paragraph;
 
 &emsp;(9) payment of the non-Federal share required in connection with a Federal grant-in-aid program undertaken as part of activities assisted under this chapter;
 
@@ -26,7 +26,7 @@ Activities assisted under this chapter may include only—
 
 &emsp;(11) relocation payments and assistance for displaced individuals, families, businesses, organizations, and farm operations, when determined by the grantee to be appropriate;
 
-&emsp;(12) activities necessary (A) to develop a comprehensive community development plan, and (B) to develop a policy-planning-management capacity so that the recipient of assistance under this chapter may more rationally and effectively (i) determine its needs, (ii) set long-term goals and short-term objectives, (iii) devise programs and activities to meet these goals and objectives, (iv) evaluate the progress of such programs in accomplishing these goals and objectives, and (v) carry out management, coordination, and monitoring of activities necessary for effective planning implementation;
+&emsp;(12) activities necessary (A) to develop a comprehensive community development plan, and (B) to develop a policy-planning-management capacity so that the recipient of assistance under this chapter may more rationally and effectively (i) determine its needs, (ii) set long-term goals and short-term objectives, (iii) devise programs and activities to meet these goals and objectives, (iv) evaluate theprogress of such programs in accomplishing these goals and objectives, and (v) carry out management, coordination, and monitoring of activities necessary for effective planning implementation;
 
 &emsp;(13) payment of reasonable administrative costs related to establishing and administering federally approved enterprise zones and payment of reasonable administrative costs and carrying charges related to (A) administering the HOME program under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\]; and (B) the planning and execution of community development and housing activities, including the provision of information and resources to residents of areas in which community development and housing activities are to be concentrated with respect to the planning and execution of such activities, and including the carrying out of activities as described in section 701(e) of the Housing Act of 1954 <sup>1</sup> on August 12, 1981;
 
@@ -144,7 +144,7 @@ The Secretary shall implement, using funds recaptured pursuant to section 5318(<
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish, by regulation, guidelines to assist grant recipients under thischapter to evaluate and select activities described in subsection (a)(14), (15), and (17) of this section for assistance with grant amounts. The Secretary shall not base a determination of eligibility of the use of funds under this chapter for such assistance solely on the basis that the recipient fails to achieve one or more of the guidelines’ objectives as stated in paragraph (2).
+&emsp;The Secretary shall establish, by regulation, guidelines to assist grant recipients under this chapter to evaluate and select activities described in subsection (a)(14), (15), and (17) of this section for assistance with grant amounts. The Secretary shall not base a determination of eligibility of the use of funds under this chapter for such assistance solely on the basis that the recipient fails to achieve one or more of the guidelines’ objectives as stated in paragraph (2).
 
 #### (2) Project costs and financial requirements
 
@@ -176,7 +176,7 @@ In developing program requirements and providing assistance pursuant to paragrap
 
 &emsp;(1) take into account the special needs and limitations arising from the size of the entity; and
 
-&emsp;(2) not consider training, technical assistance, or other support services costs provided to small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) of this section or an administrative cost pursuant to subsection (a)(13) of this section.
+&emsp;(2) not consider training, technical assistance, or other support services costs providedto small businesses or microenterprises or to grantees and subgrantees to develop the capacity to provide such assistance, as a planning cost pursuant to subsection (a)(12) of this section or an administrative cost pursuant to subsection (a)(13) of this section.
 
 #### (h) Prohibition on use of assistance for employment relocation activities
 
@@ -208,7 +208,7 @@ In subsec. (a)(13), “August 12, 1981” substituted for “the date prior to t
 
 Subsec. (a)(23). Pub. L. 108–146, §2(2), which directed amendment of par. (23) by substituting a semicolon for period at end, could not be executed because par. (23) did not have a period at end.
 
-2003—Subsec. (a)(24). Pub. L. 108–146, §2(2), added par. (24) relating to tornado-safe shelters.
+Subsec. (a)(24). Pub. L. 108–146, §2(2), added par. (24) relating to tornado-safe shelters.
 
 2002—Subsec. (a)(8). Pub. L. 107–116 substituted “through 2003” for “through 2001”.
 
@@ -232,7 +232,7 @@ Subsec. (a)(19). Pub. L. 104–134, §101(e) \[title II, §225(3), (6)\], redesi
 
 Subsec. (a)(20). Pub. L. 104–134, §101(e) \[title II, §225(6)\], redesignated par. (21) relating to housing services as (20). Former par. (20) redesignated (19).
 
-Subsec. (a)(21). Pub. L. 104–134, §101(e) \[title II, §225(6)\], redesignated par. (22) as (21). Former par. (21), relating to housing services, redesignated (20). Another former par. (21), relating to lead-based paint hazard evaluation and reduction, redesignated (25).
+Subsec. (a)(21). Pub. L. 104–134, §101(e) \[title II, §225(6)\], redesignated par. (22) as (21). Former par. (21),relating to housing services, redesignated (20). Another former par. (21), relating to lead-based paint hazard evaluation and reduction, redesignated (25).
 
 Subsec. (a)(22). Pub. L. 104–134, §101(e) \[title II, §225(6)\], redesignated par. (23) as (22). Former par. (22) redesignated (21).
 
@@ -286,7 +286,7 @@ Subsec. (a)(17). Pub. L. 101–625, §907(a), amended par. (17) generally. Prior
 
 Subsec. (a)(20). Pub. L. 101–625, §907(b)(1), added par. (20).
 
-Subsec. (a)(23) to (25). Pub. L. 101–625, §907(b)(2), as amended by Pub. L. 102–550, §807(b)(3), directed the amendment of subsec. (a) by inserting “and” at end of par. (23), substituting a period for “; and” at end of par.\(24), and striking out par. (25). This amendment was not executed pursuant to Pub. L. 104–204 which provided that subsec. (a)(25) shall continue to be effective and the termination and conforming provisions of section 907(b)(2) of Pub. L. 101–625 shall not be effective. See Effective Date of 1990 Amendments note below.
+Subsec. (a)(23) to (25). Pub. L. 101–625, §907(b)(2), as amended by Pub. L. 102–550, §807(b)(3), directed the amendment of subsec. (a) by inserting “and” at end of par. (23), substituting a period for “; and” at end of par. (24), and striking out par. (25). This amendment was not executed pursuant to Pub. L. 104–204 which provided that subsec. (a)(25) shall continue to be effective and the termination and conforming provisions of section 907(b)(2) of Pub. L. 101–625 shall not be effective. See Effective Date of 1990 Amendments note below.
 
 1988—Subsec. (a)(15). Pub. L. 100–242, §504(a), substituted “assistance” for “grants” in two places.
 

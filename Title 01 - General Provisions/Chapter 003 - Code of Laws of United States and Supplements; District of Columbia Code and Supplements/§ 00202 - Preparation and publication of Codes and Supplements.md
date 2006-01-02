@@ -2,7 +2,7 @@
 
 There shall be prepared and published under the supervision of the Committee on the Judiciary of the House of Representatives—
 
-(a) Cumulative Supplements to Code of Laws of United States for each session of Congress.—A supplement for each session of the Congress to the then current edition of the Code of Laws of the United States, cumulatively embracing the legislation of the then current supplement, andcorrecting errors in such edition and supplement;
+(a) Cumulative Supplements to Code of Laws of United States for each session of Congress.—A supplement for each session of the Congress to the then current edition of the Code of Laws of the United States, cumulatively embracing the legislation of the then current supplement, and correcting errors in such edition and supplement;
 
 (b) Cumulative Supplement to District of Columbia Code for each session of Congress.—A supplement for each session of the Congress to the then current edition of the Code of the District of Columbia, cumulatively embracing the legislation of the then current supplement, and correcting errors in such edition and supplement;
 

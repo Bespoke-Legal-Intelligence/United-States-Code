@@ -34,7 +34,3 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Section applicable to gifts made after Dec. 31, 1981, see section 403(e)(2) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 2056 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2044, 2207A, 2523 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Cooperation between Federal Government and State fish and game departments; expenditure of funds
 
-The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournmentof the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
+The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other Stateagency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
 
 #### (b) Allocation of amounts by coastal States between marine fish projects and freshwater fish projects
 
@@ -48,6 +48,12 @@ Section 1014(b) of Pub. L. 98–369 provided that: “The amendments made by sub
 
 Section 13 of act Aug. 9, 1950, which provided that the effective date of this chapter was July 1, 1950, was repealed by Pub. L. 106–408, title I, §122(a)(1), Nov. 1, 2000, 114 Stat. 1772.
 
+#### Short Title of 2005 Amendments
+
+Pub. L. 109–74, §1, Sept. 29, 2005, 119 Stat. 2030, provided that: “This Act \[amending sections 777c and 777n of this title, section 9504 of Title 26, Internal Revenue Code, and section 13106 of Title 46, Shipping, enacting provisions set out as notes under section 777b of this title and section 9504 of Title 26, and repealing provisions set out as a note under section 777b of this title\] may be cited as the ‘Sportfishing and Recreational Boating Safety Amendments Act of 2005’.”
+
+Pub. L. 109–59, title X, §10101, Aug. 10, 2005, 119 Stat. 1926, provided that: “This subtitle \[subtitle A (§§10101–10143) of title X of Pub. L. 109–59, enacting section 777n of this title, amending sections 777b, 777c, 777g, 777g–1, 777h, 777k, and 777m of this title and sections 13102, 13104, and 13106 of Title 46, Shipping, enacting provisions set out as a note under section 777b of this title, and amending provisions set out as a note under this section and section 1322 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Sportfishing and Recreational Boating Safety Act of 2005’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–178, title VII, §7401(a), June 9, 1998, 112 Stat. 482, provided that: “This subtitle \[subtitle D (§§7401–7405) of title VII of Pub. L. 105–178, enacting section 777g–1 of this title and amending sections 777a, 777c, and 777g of this title and sections 13104 and 13106 of Title 46, Shipping\] may be cited as the ‘Sportfishing and Boating Safety Act of 1998’.”
@@ -58,7 +64,7 @@ Section 204 of title II of Pub. L. 91–503, Oct. 23, 1970, 84 Stat. 1104, provi
 
 #### Short Title
 
-Act Aug. 9, 1950, ch. 658, §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
+Act Aug. 9, 1950, ch. 658, §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Dingell-Johnson Sport Fish Restoration Act’.”
 
 Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the “Federal Aid in Fish Restoration Act” and the “Fish Restoration and Management Projects Act”.
 
@@ -188,7 +194,7 @@ Non-Federal Share.—The non-Federal share of the cost of development and implem
 
 “(b)
 
-Non-Federal Contributions.—The non-Federal participants in any project under the Program on land or at a facility that is not owned by the United States shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project.
+Non-Federal Contributions.—The non-Federal participants in any project under the Program on landor at a facility that is not owned by the United States shall provide all land, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project.
 
 “(c)
 

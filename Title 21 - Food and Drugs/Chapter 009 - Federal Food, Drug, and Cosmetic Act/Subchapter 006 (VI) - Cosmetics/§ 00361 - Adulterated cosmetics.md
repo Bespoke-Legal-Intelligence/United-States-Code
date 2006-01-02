@@ -12,7 +12,7 @@ A cosmetic shall be deemed to be adulterated—
 
 (e) If it is not a hair dye and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 379e(a) of this title.
 
-(June 25, 1938, ch. 675, §601, 52 Stat. 1054; Pub. L. 86–618, title I, §102(c)(1), July 12, 1960, 74 Stat. 398; Pub. L. 102–571, title I, §107(11), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(x), Aug. 13, 1993, 107 Stat. 778.)
+(June 25, 1938, ch. 675, §601, 52 Stat. 1054; Pub. L. 86–618, title I, §102(c)(1), July 12, 1960, 74 Stat.398; Pub. L. 102–571, title I, §107(11), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(x), Aug. 13, 1993, 107 Stat. 778.)
 
 #### Amendments
 

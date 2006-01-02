@@ -144,25 +144,9 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 #### Final Settlement of Accounts of Members Who Died Before January 1, 1960
 
-Section 29 of Pub. L. 85–861 provided that:
-
-“(a) In the settlement of the accounts of a member of the Army, Navy, Air Force, or Marine Corps who died before January 1, 1956, if a demand is not made by his legal representative, the General Accounting Office may allow any amount due, to the person highest on the following list living on the date of settlement:
-
-&emsp;“(1) Surviving spouse.
-
-&emsp;“(2) Children and their issue, per stirpes.
-
-&emsp;“(3) Father and mother in equal parts or, if either is dead, the survivor.
-
-&emsp;“(4) Brothers and sisters, and their children, per stirpes.
-
-“(b) Reimbursement for funeral expenses may be made from the amount due the decedent's estate, if the person who paid the expenses presents a claim for them before settlement by the General Accounting Office.”
+Pub. L. 85–861, §29, Sept. 2, 1958, 72 Stat. 1563, authorized the General Accounting Office, in the settlement of the accounts of a member of the Army, Navy, Air Force, or Marine Corps who died before Jan. 1, 1956, to allow any amount due to the person highest on a list of persons living on the date of settlement and to provide reimbursement for funeral expenses from the amount due the decedent's estate.
 
 #### Designation of Beneficiary Made Before January 1, 1956
 
-Section 31 of Pub. L. 85–861 provided that: “The designation of a beneficiary made for the purposes of any six months’ death gratuity, including the designation of a person whose right to the gratuity does not depend upon that designation, and received in the military department concerned, the Department of the Treasury, the Department of Commerce, or the Department of Health, Education, and Welfare, as the case may be, before January 1, 1956, is considered as the designation of a beneficiary for the purposes of section 2771 of title 10, United States Code \[this section\], section 714 of title 32, United States Code, and sections 3 and 4 of this Act \[amending section 857a of Title 33, and section 213a of Title 42\], in the absence of a designation under one of those sections, unless the member making the designation was missing, missing in action, in the hands of a hostile force, or interned in a foreign country any time after July 11, 1955, and before January 1, 1956.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1552 of this title; title 5 section 8316; title 24 section 420; title 32 section 714; title 33 section 3071; title 37 section 501; title 42 section 213a.
+Section 31 of Pub. L. 85–861 provided that: “The designation of a beneficiary made for the purposes of any six months’ death gratuity, including the designation of a person whose right to the gratuity does not depend upon that designation, and received in the military department concerned, the Department of the Treasury, the Department of Commerce, or the Department of Health, Education, and Welfare, as the case may be, before January 1, 1956, is considered as the designation of a beneficiary for the purposes of section 2771 of title 10, United States Code \[this section\], section 714 of title 32, United States Code, and sections 3 and 4 of this Act \[amending section 857a of Title 33, and section 213a of Title 42\], in the absence of a designation under one ofthose sections, unless the member making the designation was missing, missing in action, in the hands of a hostile force, or interned in a foreign country any time after July 11, 1955, and before January 1, 1956.”
 

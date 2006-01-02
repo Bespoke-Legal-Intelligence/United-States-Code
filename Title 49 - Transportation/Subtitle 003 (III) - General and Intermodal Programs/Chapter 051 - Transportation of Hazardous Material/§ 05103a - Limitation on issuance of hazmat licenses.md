@@ -6,7 +6,7 @@ Limitation.—
 
 &emsp;(1)
 
-Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary of Transportation has first determined, upon receipt of a notification under subsection (c)(1)(B), that the individual does not pose a security risk warranting denial of the license.
+Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless the Secretary has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license.
 
 &emsp;(2)
 
@@ -14,23 +14,23 @@ Renewals included.—For the purposes of this section, the term “issue”, wit
 
 (b)
 
-Hazardous Materials Described.—The limitation in subsection (a) shall apply with respect to—
-
-&emsp;(1) any material defined as a hazardous material by the Secretary of Transportation; and
-
-&emsp;(2) any chemical or biological material or agent determined by the Secretary of Health and Human Services or the Attorney General as being a threat to the national security of the United States.
+Hazardous Materials Described.—The limitation in subsection (a) shall apply with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce.
 
 (c)
+
+Recommendations on Chemical and Biological Materials.—The Secretary of Health and Human Services shall recommend to the Secretary of Transportation any chemical or biological material or agent for regulation as a hazardous material under section 5103(a) if the Secretary of Health and Human Services determines that such material or agent poses a significant risk to the health of individuals.
+
+(d)
 
 Background Records Check.—
 
 &emsp;(1)
 
-In general.—Upon the request of a State regarding issuance of a license described insubsection (a)(1) to an individual, the Attorney General—
+In general.—Upon the request of a State regarding issuance of a license described in subsection (a)(1) to an individual, the Attorney General—
 
 &emsp;&emsp;(A) shall carry out a background records check regarding the individual; and
 
-&emsp;&emsp;(B) upon completing the background records check, shall notify the Secretary of Transportation of the completion and results of the background records check.
+&emsp;&emsp;(B) upon completing the background records check, shall notify the Secretary of the completion and results of the background records check.
 
 &emsp;(2)
 
@@ -42,25 +42,143 @@ Scope.—A background records check regarding an individual under this subsectio
 
 &emsp;&emsp;(C) As appropriate, a check of the relevant international data bases through Interpol–U.S. National Central Bureau or other appropriate means.
 
-(d)
+(e)
 
-Reporting Requirement.—Each State shall submit to the Secretary of Transportation, at such time and in such manner as the Secretary may prescribe, the name, address, and such other information as the Secretary may require, concerning—
+Reporting Requirement.—Each State shall submit to the Secretary, at such time and in such manner as the Secretary may prescribe, the name, address, and such other information as the Secretary may require, concerning—
 
 &emsp;(1) each alien to whom the State issues a license described in subsection (a); and
 
 &emsp;(2) each other individual to whom such a license is issued, as the Secretary may require.
 
-(e)
+(f)
 
 Alien Defined.—In this section, the term “alien” has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act.
 
-(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396.)
+(g)
+
+Background Checks for Drivers Hauling Hazardous Materials.—
+
+&emsp;(1)
+
+In general.—
+
+&emsp;&emsp;(A)
+
+Employer notification.—Not later than 90 days after the date of enactment of this subsection, the Director of the Transportation Security Administration, after receiving comments from interested parties, shall develop and implement a process for notifying hazmat employers designated by an applicant of the results of the applicant's background record check, if—
+
+&emsp;&emsp;&emsp;(i) such notification is appropriate considering the potential security implications; and
+
+&emsp;&emsp;&emsp;(ii) the Director, in a final notification of threat assessment,<sup>1</sup> served on the applicant <sup>1</sup> determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
+
+&emsp;&emsp;(B)
+
+Relationship to other background records checks.—
+
+&emsp;&emsp;&emsp;(i)
+
+Elimination of redundant checks.—An individual with respect to whom the Transportation Security Administration—
+
+&emsp;&emsp;&emsp;&emsp;(I) has performed a security threat assessment under this section; and
+
+&emsp;&emsp;&emsp;&emsp;(II) has issued a final notification of no security threat,
+
+&emsp;&emsp;&nbsp;is deemed to have met the requirements of any other background check that is required for purposes of any Federal law applicable to transportation workers if that background check is equivalent to, or less stringent than, the background check required under this section.
+
+&emsp;&emsp;&emsp;(ii)
+
+Determination by director.—Not later than 60 days after the date of issuance of the report under paragraph (5), but no later than 120 days after the date of enactment of this Act, the Director shall initiate a rulemaking proceeding, including notice and opportunity for comment, to determine which background checks required for purposes of Federal laws applicable to transportation workers are equivalent to, or less stringent than, those required under this section.
+
+&emsp;&emsp;&emsp;(iii)
+
+Future rulemakings.—The Director shall make a determination under the criteria established under clause (ii) with respect to any rulemaking proceeding to establish or modify required background checks for transportation workers initiated after the date of enactment of this subsection.
+
+&emsp;(2)
+
+Appeals process for more stringent state procedures.—If a State establishes its own standards for applicants for a hazardous materials endorsement to a commercial driver's license, the State shall also provide—
+
+&emsp;&emsp;(A) an appeals process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may appeal that denial; and
+
+&emsp;&emsp;(B) a waiver process similar to and to the same extent as the process provided under part 1572 of title 49, Code of Federal Regulations, by which an applicant denied a hazardous materials endorsement to a commercial driver's license by that State may apply for a waiver.
+
+&emsp;(3)
+
+Clarification of term defined in regulations.—The term “transportation security incident”, as defined in part 1572 of title 49, Code of Federal Regulations, does not include a work stoppage or other nonviolent employee-related action resulting from an employer-employee dispute. Not later than 30 days after the date of enactment of this subsection, the Director shall modify the definition of that term to reflect the preceding sentence.
+
+&emsp;(4)
+
+Background check capacity.—Not later than October 1, 2005, the Director shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Homeland Security of the House of Representatives a report on the implementation of fingerprint-based security threat assessments and the adequacy of fingerprinting locations, personnel, and resources to accomplish the timely processing of fingerprint-based security threat assessments for individuals holding commercial driver's licenses who are applying to renew hazardous materials endorsements.
+
+&emsp;(5)
+
+Report.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 60 days after the date of enactment of this subsection, the Director shall transmit to the committees referred to in paragraph (4) a report on the Director's plans to reduce or eliminate redundant background checks for holders of hazardous materials endorsements performed under this section.
+
+&emsp;&emsp;(B)
+
+Contents.—The report shall—
+
+&emsp;&emsp;&emsp;(i) include a list of background checks and other security or threat assessment requirements applicable to transportation workers under Federal laws for which the Department of Homeland Security is responsible and the process by which the Secretary of Homeland Security will determine whether such checks or assessments are equivalent to, or less stringent than, the background check performed under this section; and
+
+&emsp;&emsp;&emsp;(ii) provide an analysis of how the Director plans to reduce or eliminate redundant background checks in a manner that will continue to ensure the highest level of safety and security.
+
+(h)
+
+Commercial Motor Vehicle Operators Registered to Operate in Mexico or Canada.—
+
+&emsp;(1)
+
+In general.—Beginning on the date that is 6 months after the date of enactment of this subsection, a commercial motor vehicle operator registered to operate in Mexico or Canada shall not operate a commercial motor vehicle transporting a hazardous material in commerce in the United States until the operator has undergone a background records check similar to the background records check required for commercial motor vehicle operators licensed in the United States to transport hazardous materials in commerce.
+
+&emsp;(2)
+
+Extension.—The Director of the Transportation Security Administration may extend the deadline established by paragraph (1) for a period not to exceed 6 months if the Director determines that such an extension is necessary.
+
+&emsp;(3)
+
+Commercial motor vehicle defined.—In this subsection, the term “commercial motor vehicle” has the meaning given that term by section 31101.
+
+(Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909.)
 
 #### References in Text
 
-Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec. (e), is classified to section 1101(a)(3) of Title 8, Aliens and Nationality.
+Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec. (f), is classified to section 1101(a)(3) of Title 8, Aliens and Nationality.
+
+The date of enactment of this subsection, referred to in subsecs. (g) and (h), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+The date of enactment of this Act, referred to in subsec. (g)(1)(B)(ii), probably means the date of enactment of Pub. L. 109–59, which enacted subsec. (g) of this section, and was approved Aug. 10, 2005.
+
+#### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+
+Pub. L. 109–59, §7104(c), substituted “subsection (d)(1)(B),” for “subsection (c)(1)(B),”.
+
+Subsec. (b). Pub. L. 109–59, §7104(a), substituted “with respect to any material defined as hazardous material by the Secretary for which the Secretary requires placarding of a commercial motor vehicle transporting that material in commerce” for “with respect to—
+
+&emsp;“(1) any material defined as a hazardous material by the Secretary of Transportation; and
+
+&emsp;“(2) any chemical or biological material or agent determined by the Secretary of Health and Human Services or the Attorney General as being a threat to the national security of the United States”.
+
+Subsec. (c). Pub. L. 109–59, §7104(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 109–59, §7104(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1)(B). Pub. L. 109–59, §7126, substituted “Secretary” for “Secretary of Transportation”.
+
+Subsec. (e). Pub. L. 109–59, §7126, substituted “submit to the Secretary” for “submit to the Secretary of Transportation” in introductory provisions.
+
+Pub. L. 109–59, §7104(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 109–59, §7104(b)(1), redesignated subsec. (e) as (f).
+
+Subsecs. (g), (h). Pub. L. 109–59, §7105, added subsecs. (g) and (h).
 
 #### Authorization of Appropriations
 
 Pub. L. 107–56, title X, §1012(c), Oct. 26, 2001, 115 Stat. 398, provided that: “There is authorized to be appropriated for the Department of Transportation and the Department of Justice such amounts as may be necessary to carry out section 5103a of title 49, United States Code, as added by subsection (a).”
+
+<i><sup>1</sup></i><i> So in original. Comma probably should appear after “applicant”.</i>
 

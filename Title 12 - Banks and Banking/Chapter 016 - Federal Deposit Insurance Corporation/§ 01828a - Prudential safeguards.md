@@ -24,7 +24,7 @@
 
 &emsp;The Board of Governors of the Federal Reserve System may, by regulation or order, impose restrictions or requirements on relationships or transactions—
 
-&emsp;&emsp;(A) between a depository institution subsidiary of a bank holding company and anyaffiliate of such depository institution (other than a subsidiary of such institution); or
+&emsp;&emsp;(A) between a depository institution subsidiary of a bank holding company and any affiliate of such depository institution (other than a subsidiary of such institution); or
 
 &emsp;&emsp;(B) between a State member bank and a subsidiary of such bank;
 
@@ -34,7 +34,7 @@
 
 &emsp;The Board of Governors of the Federal Reserve System may exercise authority under paragraph (1) if the Board finds that the exercise of such authority is—
 
-&emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
+&emsp;&emsp;(A) consistent with the purposes of this Act, the Bank Holding Company Act of 1956\[12 U.S.C. 1841 et seq.\], the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and other Federal law applicable to depository institution subsidiaries of bank holding companies or State member banks, as the case may be; and
 
 &emsp;&emsp;(B) appropriate to prevent an evasion of any provision of law referred to in subparagraph (A) or to avoid any significant risk to the safety and soundness of depository institutions or any Federal deposit insurance fund or other adverse effects, such as undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices.
 
@@ -72,7 +72,11 @@
 
 &emsp;&emsp;(B) modify or eliminate any such restriction or requirement the Corporation finds is no longer required for such purposes.
 
-(Pub. L. 106–102, title I, §114, Nov. 12, 1999, 113 Stat. 1369.)
+(Pub. L. 106–102, title I, §114, Nov. 12, 1999, 113 Stat. 1369; Pub. L. 109–173, §9(i), Feb. 15, 2006, 119 Stat. 3618.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §9(i), (j), Feb. 15, 2006, 119 Stat. 3618, provided that, effective Mar. 31, 2006, this section is amended by striking “any Federal deposit insurance fund” in subsections (a)(1)(B), (b)(2)(B), (4)(B), and (c)(1)(B), each place that term appears, and inserting “the Deposit Insurance Fund”.</i>
 
 #### References in Text
 
@@ -89,6 +93,10 @@ The Federal Deposit Insurance Act, referred to in subsec. (c)(1)(A), is act Sept
 #### Codification
 
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
 #### Effective Date
 

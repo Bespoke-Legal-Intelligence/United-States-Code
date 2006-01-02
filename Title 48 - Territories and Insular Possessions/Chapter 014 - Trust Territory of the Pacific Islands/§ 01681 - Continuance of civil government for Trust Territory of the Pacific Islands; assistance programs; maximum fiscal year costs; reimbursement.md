@@ -20,7 +20,7 @@ Section was formerly classified to section 1435 of this title.
 
 #### Notes Transferred
 
-For provisions relating to the Northern Mariana Islands, formerly set out as notes under this section, seechapter 17 (§1801 et seq.) of this title. For provisions relating to the Federated States of Micronesia, the Marshall Islands, and Palau, formerly set out as notes under this section, see chapter 18 (§1901 et seq.) of this title.
+For provisions relating to the Northern Mariana Islands, formerly set out as notes under this section, see chapter 17 (§1801 et seq.) of this title. For provisions relating to the Federated States of Micronesia, the Marshall Islands, and Palau, formerly set out as notes under this section, see chapter 18 (§1901 et seq.) of this title.
 
 #### Similar Provisions
 
@@ -58,5 +58,5 @@ Ex. Ord. No. 10265, eff. June 29, 1951, 16 F.R. 6419, which related to transfer 
 
 #### Executive Order No. 11021
 
-Ex. Ord. No. 11021, eff. May 7, 1962, 27 F.R. 4409, as amended by Ex. Ord. No. 11944, eff. Oct. 25, 1976, 41 F.R. 47215, which related to administration of Trust Territory of the Pacific Islands, was superseded by Ex. Ord.No. 12569, Oct. 16, 1986, 51 F.R. 37171, set out as a note under section 1901 of this title.
+Ex. Ord. No. 11021, eff. May 7, 1962, 27 F.R. 4409, as amended by Ex. Ord. No. 11944, eff. Oct. 25, 1976, 41 F.R. 47215, which related to administration of Trust Territory of the Pacific Islands, was superseded by Ex. Ord. No. 12569, Oct. 16, 1986, 51 F.R. 37171, set out as a note under section 1901 of this title.
 

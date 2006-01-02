@@ -2,7 +2,7 @@
 
 The Secretary of State may, under such regulations as he shall prescribe, and notwithstanding section 3324(a) and (b) of title 31 and section 5536 of title 5:
 
-&emsp;(1) Make available to the Representative of the United States to the United Nations and the Deputy Permanent Representative of the United States to the United Nations living quarters leased or rented by the United States\(for periods not exceeding ten years) and allowances for unusual expenses incident to the operation and maintenance of such living quarters similar to those and to be considered for all purposes as authorized by section 5913 of title 5.
+&emsp;(1) Make available to the Representative of the United States to the United Nations and the Deputy Permanent Representative of the United States to the United Nations living quarters leased or rented by the United States (for periods not exceeding ten years) and allowances for unusual expenses incident to the operation and maintenance of such living quarters similar to those and to be considered for all purposes as authorized by section 5913 of title 5.
 
 &emsp;(2) Make available in New York to no more than 30 foreign service employees of the staff of the United States Mission to the United Nations, other representatives, and no more than two employees who serve at the pleasure of the Representative, living quarters leased or rented by the United States (for periods not exceeding ten years). The number of employees to which such quarters will be made available shall be determined by the Secretary and shall reflect a significant reduction over the number of persons eligible for housing benefits as of October 1, 1988. No employee may occupy a unit under this provision if the unit is owned by the employee. The Secretary shall require that each employee occupying housing under this subsection contribute to the Department of State a percentage of his or her base salary, in an amount to be determined by the Secretary of State, toward the cost of such housing. The Secretary may reduce such payments to the extent of income taxes paid on the value of the leased or rented quarters any payments made by employees to the Department of State for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
 
@@ -10,7 +10,7 @@ The Secretary of State may, under such regulations as he shall prescribe, and no
 
 &emsp;(4) The Inspector General shall review the program established by this section no later than December 1989 and periodically thereafter with a view to increasing cost savings and making other appropriate recommendations.
 
-(Dec. 20, 1945, ch. 583, §9, as added Pub. L. 93–126, §15, Oct. 18, 1973, 87 Stat. 454; amended Pub. L. 98–164, title II, §215, Nov. 22, 1983, 97 Stat. 1035; Pub. L. 100–459, title III, §304(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 106–309, title IV, §405, Oct. 17, 2000, 114 Stat. 1098.)
+(Dec. 20, 1945, ch. 583, §9, as added Pub. L. 93–126, §15, Oct. 18, 1973, 87 Stat. 454; amended Pub. L.98–164, title II, §215, Nov. 22, 1983, 97 Stat. 1035; Pub. L. 100–459, title III, §304(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 106–309, title IV, §405, Oct. 17, 2000, 114 Stat. 1098.)
 
 #### Codification
 

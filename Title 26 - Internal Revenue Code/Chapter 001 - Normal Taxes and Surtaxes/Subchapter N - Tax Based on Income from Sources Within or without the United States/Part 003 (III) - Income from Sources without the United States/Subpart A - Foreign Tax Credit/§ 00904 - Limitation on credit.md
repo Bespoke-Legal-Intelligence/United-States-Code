@@ -68,7 +68,7 @@ The total amount of the credit taken under section 901(a) shall not exceed the s
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The rate differential portion of foreign source net capital gain, net capital gain,or the excess of net capital gain from sources within the United States over net capital gain, as the case may be, is the same proportion of such amount as—
+&emsp;&emsp;&emsp;The rate differential portion of foreign source net capital gain, net capital gain, or the excess of net capital gain from sources within the United States over net capital gain, as the case may be, is the same proportion of such amount as—
 
 &emsp;&emsp;&emsp;&emsp;(I) the excess of the highest applicable tax rate over the alternative tax rate, bears to
 
@@ -96,7 +96,7 @@ The total amount of the credit taken under section 901(a) shall not exceed the s
 
 #### (c) Carryback and carryover of excess tax paid
 
-Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the second preceding taxable year, in the first preceding taxable year, and in the first, second, third, fourth, or fifth succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States.
+Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States.
 
 #### (d) Separate application of section with respect to certain categories of income
 
@@ -112,7 +112,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;(D) shipping income,
 
-&emsp;&emsp;(E) in the case of a corporation, dividends from noncontrolled section 902 corporations out of earnings and profits accumulated in taxable years beginning before January 1, 2003,
+&emsp;&emsp;\[(E) Repealed. Pub. L. 108–357, title IV, §403(b)(1), Oct. 22, 2004, 118 Stat. 1493\]
 
 &emsp;&emsp;(F) dividends from a DISC or former DISC (as defined in section 992(a)) to the extent such dividends are treated as income from sources without the United States,
 
@@ -134,7 +134,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (ii) Certain amounts included
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), the term “passive income” includes any amount includible in gross income under section 551 or, except as provided in subparagraph (E)(iii) or paragraph (3)(I), section 1293 (relating to certain passive foreign investment companies).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), the term “passive income” includes, except as provided in subparagraph (E)(iii) <sup>1</sup> or paragraph (3)(I), any amount includible in gross income under section 1293 (relating to certain passive foreign investment companies).
 
 #### (iii) Exceptions
 
@@ -148,7 +148,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (iv) Clarification of application of section 864(d)(6)
 
-&emsp;&emsp;&emsp;In determining whether any income is of a kind which would be foreign personal holding company income, the rules of section 864(d)(6) shall apply only in the caseof income of a controlled foreign corporation.
+&emsp;&emsp;&emsp;In determining whether any income is of a kind which would be foreign personal holding company income, the rules of section 864(d)(6) shall apply only in the case of income of a controlled foreign corporation.
 
 #### (B) High withholding tax interest
 
@@ -198,33 +198,23 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;&emsp;The term “financial services income” does not include—
 
-&emsp;&emsp;&emsp;&emsp;(I) any high withholding tax interest,
+&emsp;&emsp;&emsp;&emsp;(I) any high withholding tax interest, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any dividend from a noncontrolled section 902 corporation out of earnings and profits accumulated in taxable years beginning before January 1, 2003, and
-
-&emsp;&emsp;&emsp;&emsp;(III) any export financing interest not described in clause (i)(III).
+&emsp;&emsp;&emsp;&emsp;(II) any export financing interest not described in clause (i)(III).
 
 #### (D) Shipping income
 
-&emsp;&emsp;The term “shipping income” means any income received or accrued by any person which is of a kind which would be foreign base company shipping income (as defined in section 954(f)). Such term does not include any dividend from a noncontrolled section 902 corporation out of earnings and profits accumulated in taxable years beginning before January 1, 2003 and does not include any financial services income.
+&emsp;&emsp;The term “shipping income” means any income received or accrued by any person which is of a kind which would be foreign base company shipping income (as defined in section 954(f)) as in effect before its repeal. Such term does not include any financial services income.
 
 #### (E) Noncontrolled section 902 corporation
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “noncontrolled section 902 corporation” means any foreign corporation with respect to which the taxpayer meets the stock ownership requirements of section 902(a) (or, for purposes of applying paragraph (3), the requirements of section 902(b)). A controlled foreign corporation shall not be treated as a noncontrolled section 902 corporation with respect to any distribution out of its earnings and profits for periods during which it was a controlled foreign corporation.
+&emsp;&emsp;&emsp;The term “noncontrolled section 902 corporation” means any foreign corporation with respect to which the taxpayer meets the stock ownership requirements of section 902(a) (or, for purposes of applying paragraph (3) or (4), the requirements of section 902(b)). A controlled foreign corporation shall not be treated as a noncontrolled section 902 corporation with respect to any distribution out of its earnings and profits for periods during which it was a controlled foreign corporation.
 
-#### (ii) Special rule for taxes on high-withholding tax interest
-
-&emsp;&emsp;&emsp;If a foreign corporation is a noncontrolled section 902 corporation with respect to the taxpayer, taxes on high withholding tax interest (to the extent imposed at a rate in excess of 5 percent) shall not be treated as foreign taxes for purposes of determining the amount of foreign taxes deemed paid by the taxpayer under section 902.
-
-#### (iii) Treatment of inclusions under section 1293
+#### (ii) Treatment of inclusions under section 1293
 
 &emsp;&emsp;&emsp;If any foreign corporation is a non-controlled section 902 corporation with respect to the taxpayer, any inclusion under section 1293 with respect to such corporation shall be treated as a dividend from such corporation.
-
-#### (iv) All non-PFICs treated as one
-
-&emsp;&emsp;&emsp;All noncontrolled section 902 corporations which are not passive foreign investment companies (as defined in section 1297) shall be treated as one noncontrolled section 902 corporation for purposes of paragraph (1).
 
 #### (F) High-taxed income
 
@@ -246,11 +236,27 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 > &emsp;&emsp;For purposes of clause (ii), the fair market value of any property imported into the United States shall be its appraised value, as determined by the Secretary under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its importation.
 
-#### (H) Related person
+#### (H) Treatment of income tax base differences
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles shall be treated as imposed on income described in paragraph (1)(B).
+
+#### (ii) Special rule for years before 2007
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;In the case of taxes paid or accrued in taxable years beginning after December 31, 2004, and before January 1, 2007, a taxpayer may elect to treat tax imposed under the law of a foreign country orpossession of the United States on an amount which does not constitute income under United States tax principles as tax imposed on income described in subparagraph (C) or (I) of paragraph (1).
+
+#### (II) Election irrevocable
+
+&emsp;&emsp;&emsp;&emsp;Any such election shall apply to the taxable year for which made and all subsequent taxable years described in subclause (I) unless revoked with the consent of the Secretary.
+
+#### (I) Related person
 
 &emsp;&emsp;For purposes of this paragraph, the term “related person” has the meaning given such term by section 954(d)(3), except that such section shall be applied by substituting “the person with respect to whom the determination is being made” for “controlled foreign corporation” each place it appears.
 
-#### (I) Transitional rule
+#### (J) Transitional rule
 
 &emsp;&emsp;For purposes of paragraph (1)—
 
@@ -290,7 +296,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (E) Look-thru applies only where subpart F applies
 
-&emsp;&emsp;If a controlled foreign corporation meets the requirements of section 954(b)(3)(A) (relating to de minimis rule) for any taxable year, for purposes of this paragraph, none of its foreign base company income (as defined in section 954(a) without regard to section 954(b)(5)) and none of its gross insurance income (as defined in section 954(b)(3)(C)) for such taxable year shall be treated as incomein a separate category, except that this sentence shall not apply to any income which (without regard to this sentence) would be treated as financial services income. Solely for purposes of applying subparagraph (D), passive income of a controlled foreign corporation shall not be treated as income in a separate category if the requirements of section 954(b)(4) are met with respect to such income.
+&emsp;&emsp;If a controlled foreign corporation meets the requirements of section 954(b)(3)(A) (relating to de minimis rule) for any taxable year, for purposes of this paragraph, none of its foreign base company income (as defined in section 954(a) without regard to section 954(b)(5)) and none of its gross insurance income (as defined in section 954(b)(3)(C)) for such taxable year shall be treated as income in a separate category, except that this sentence shall not apply to any income which (without regard to this sentence) would be treated as financial services income. Solely for purposes of applying subparagraph (D), passive income of a controlled foreign corporation shall not be treated as income in a separate category if the requirements of section 954(b)(4) are met with respect to such income.
 
 #### (F) Separate category
 
@@ -298,7 +304,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “separate category” means any category of income described in subparagraph (A), (B), (C), (D), or (E) of paragraph (1).
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “separate category” means any category of income described in subparagraph (A), (B), (C), or (D) of paragraph (1).
 
 #### (ii) Coordination with high-taxed income provisions
 
@@ -334,29 +340,21 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, any applicable dividend shall be treated as income in a separate category in proportion to the ratio of—
+&emsp;&emsp;For purposes of this subsection, any dividend from a noncontrolled section 902 corporation with respect to the taxpayer shall be treated as income described in a subparagraph of paragraph (1) in proportion to the ratio of—
 
-&emsp;&emsp;&emsp;(i) the portion of the earnings and profits described in subparagraph (B)(ii) attributable to income in such category, to
+&emsp;&emsp;&emsp;(i) the portion of earnings and profits attributable to income described in such subparagraph, to
 
-&emsp;&emsp;&emsp;(ii) the total amount of such earnings and profits.
+&emsp;&emsp;&emsp;(ii) the total amount of earnings and profits.
 
-#### (B) Applicable dividend
+#### (B) Earnings and profits of controlled foreign corporations
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable dividend” means any dividend—
-
-&emsp;&emsp;&emsp;(i) from a noncontrolled section 902 corporation with respect to the taxpayer, and
-
-&emsp;&emsp;&emsp;(ii) paid out of earnings and profits accumulated in taxable years beginning after December 31, 2002.
+&emsp;&emsp;In the case of any distribution from a controlled foreign corporation to a United States shareholder, rules similar to the rules of subparagraph (A) shall apply in determining the extent to which earnings and profits of the controlled foreign corporation which are attributable to dividends received from a noncontrolled section 902 corporation may be treated as income in a separate category.
 
 #### (C) Special rules
 
-#### (i) In general
+&emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;Rules similar to the rules of paragraph (3)(F) shall apply for purposes of this paragraph.
-
-#### (ii) Earnings and profits
-
-&emsp;&emsp;&emsp;For purposes of this paragraph and paragraph (1)(E)—
+#### (i) Earnings and profits
 
 #### (I) In general
 
@@ -364,7 +362,19 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (II) Regulations
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may prescribe regulations regarding the treatment of distributions out of earnings and profits for periods prior to the taxpayer's acquisition of such stock.
+&emsp;&emsp;&emsp;&emsp;The Secretary may prescribe regulations regarding the treatment of distributions out of earnings and profits for periods before the taxpayer's acquisition of the stock to which the distributions relate.
+
+#### (ii) Inadequate substantiation
+
+&emsp;&emsp;&emsp;If the Secretary determines that the proper subparagraph of paragraph (1) in which a dividend is described has not been substantiated, such dividend shall be treated as income described in paragraph (1)(A).
+
+#### (iii) Coordination with high-taxed income provisions
+
+&emsp;&emsp;&emsp;Rules similar to the rules of paragraph (3)(F) shall apply for purposes of this paragraph.
+
+#### (iv) Look-thru with respect to carryover of credit
+
+&emsp;&emsp;&emsp;Rules similar to subparagraph (A) also shall apply to any carryforward under subsection (c) from a taxable year beginning before January 1, 2003, of tax allocable to a dividend from a noncontrolled section 902 corporation with respect to the taxpayer. The Secretary may by regulations provide for the allocation of any carryback of tax allocable to a dividend from a noncontrolled section 902 corporation from a taxable year beginning on or after January 1, 2003, to a taxable year beginning before such date for purposes of allocating such dividend among the separate categories in effect for the taxable year to which carried.
 
 #### (5) Controlled foreign corporation; United States shareholder
 
@@ -444,6 +454,36 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;&emsp;(ii) a disposition of property to a domestic corporation in a distribution or transfer described in section 381(a).
 
+#### (D) Application to certain dispositions of stock in controlled foreign corporation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;This paragraph shall apply to an applicable disposition in the same manner as if it were a disposition of property described in subparagraph (A), except that the exception contained in subparagraph (C)(i) shall not apply.
+
+#### (ii) Applicable disposition
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “applicable disposition” means any disposition of any share of stock in a controlled foreign corporation in a transaction or series of transactions if, immediately before such transaction or series of transactions, the taxpayer owned more than 50 percent (by vote or value) of the stock of the controlled foreign corporation. Such term shall not include a disposition described in clause (iii) or (iv), except that clause (i) shall apply to any gain recognized on any such disposition.
+
+#### (iii) Exception for certain exchanges where ownership percentage retained
+
+&emsp;&emsp;&emsp;A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions—
+
+&emsp;&emsp;&emsp;&emsp;(I) to which section 351 or 721 applies, or under which the transferor receives stock in a foreign corporation in exchange for the stock in the controlled foreign corporation and the stock received is exchanged basis property (as defined in section 7701(a)(44)), and
+
+&emsp;&emsp;&emsp;&emsp;(II) immediately after which, the transferor owns (by vote or value) at least the same percentage of stock in the controlled foreign corporation (or, if the controlled foreign corporation is not in existence after such transaction or series of transactions, in another foreign corporation stock in <sup>2</sup> which was received by the transferor in exchange for stock in the controlled foreign corporation) as the percentage of stock in the controlled foreign corporation which the taxpayer owned immediately before such transaction or series of transactions.
+
+#### (iv) Exception for certain asset acquisitions
+
+&emsp;&emsp;&emsp;A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions in which the taxpayer (or any member of a controlled group of corporations filing a consolidated return under section 1501 which includes the taxpayer) acquires the assets of a controlled foreign corporation in exchange for the shares of the controlled foreign corporation in a liquidation described in section 332 or a reorganization described in section 368(a)(1).
+
+#### (v) Controlled foreign corporation
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “controlled foreign corporation” has the meaning given such term by section 957.
+
+#### (vi) Stock ownership
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, ownership of stock shall be determined under the rules of subsections (a) and (b) of section 958.
+
 #### (4) Accumulation distributions of foreign trust
 
 &emsp;For purposes of this chapter, in the case of amounts of income from sources without the United States which are treated under section 666 (without regard to subsections (b) and (c) thereof if the taxpayer chose to take a deduction with respect to the amounts described in such subsections under section 667(d)(1)(B)) as having been distributed by a foreign trust in a preceding taxable year, that portion of such amounts equal to the amount of any overall foreign loss sustained by the beneficiary in a year prior to the taxable year of the beneficiary in which such distribution is received from the trust shall be treated as income from sources within the United States (and not income from sources without the United States) to the extent that such loss was not used under this subsection in prior taxable years, or in the current taxable year, against other income of the beneficiary.
@@ -452,7 +492,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (A) In general
 
-&emsp;&emsp;The amount of the separate limitation losses for any taxable year shall reduce income from sources within the United States for such taxable year only to the extent the aggregate amount of such losses exceeds theaggregate amount of the separate limitation incomes for such taxable year.
+&emsp;&emsp;The amount of the separate limitation losses for any taxable year shall reduce income from sources within the United States for such taxable year only to the extent the aggregate amount of such losses exceeds the aggregate amount of the separate limitation incomes for such taxable year.
 
 #### (B) Allocation of losses
 
@@ -500,17 +540,15 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;(A) Any amount included in gross income under—
 
-&emsp;&emsp;&emsp;(i) section 951(a) (relating to amounts included in gross income of United States shareholders),
+&emsp;&emsp;&emsp;(i) section 951(a) (relating to amounts included in gross income of United States shareholders), or
 
-&emsp;&emsp;&emsp;(ii) section 551 (relating to foreign personal holding company income taxed to United States shareholders), or
-
-&emsp;&emsp;&emsp;(iii) section 1293 (relating to current taxation of income from qualified funds).
+&emsp;&emsp;&emsp;(ii) section 1293 (relating to current taxation of income from qualified funds).
 
 &emsp;&emsp;(B) Interest.
 
 &emsp;&emsp;(C) Dividends.
 
-#### (2) Subpart F and foreign personal holding or passive foreign investment company inclusions
+#### (2) Subpart F and passive foreign investment company inclusions
 
 &emsp;Any amount described in subparagraph (A) of paragraph (1) shall be treated as derived from sources within the United States to the extent such amount is attributable to income of the United States-owned foreign corporation from sources within the United States.
 
@@ -562,7 +600,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (7) Dividend
 
-&emsp;For purposes of this subsection, the term “dividend” includes any gain treated as ordinary income under section 1246 or as a dividend under section 1248.
+&emsp;For purposes of this subsection, the term “dividend” includes any gain treated as ordinary income under section 1246 <sup>3</sup> or as a dividend under section 1248.
 
 #### (8) Coordination with subsection (f)
 
@@ -604,7 +642,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (h) Coordination with nonrefundable personal credits
 
-In the case of an individual, for purposes of subsection (a), the tax against which the credit is taken is such tax reduced by the sum of the credits allowable under subpart A of part IV of subchapter A of this chapter (other than sections 23, 24, and 25B). This subsection shall not apply to taxable years beginning during 2000, 2001, 2002, or 2003.
+In the case of any taxable year of an individual to which section 26(a)(2) does not apply, for purposes of subsection (a), the tax against which the credit is taken is such tax reduced by the sum of the credits allowable under subpart A of part IV of subchapter A of this chapter (other than sections 23, 24, and 25B).
 
 #### (i) Limitation on use of deconsolidation to avoid foreign tax credit limitations
 
@@ -668,23 +706,253 @@ If 2 or more domestic corporations would be members of the same affiliated group
 
 &emsp;&emsp;<b>(2) For modification of limitation under subsection (a) for purposes of determining the amount of credit which can be taken against the alternative minimum tax, see section 59(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 287; Pub. L. 85–866, title I, §42(a), Sept. 2, 1958, 72 Stat. 1639; Pub. L. 86–780, §1, Sept. 14, 1960, 74 Stat. 1010; Pub. L. 87–834, §§10(a), 12(b)(2), Oct. 16, 1962, 76 Stat. 1002, 1031; Pub. L. 88–272, title II, §234(b)(6), Feb. 26, 1964, 78 Stat. 116; Pub. L. 89–809, title I, §106(c)(1), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 91–172, title V, §506(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 92–178, title V, §502(b)(2)–(4), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title V, §503(b)(1), title X, §§1031(a), 1032(a), 1034(a), 1051(e), title XIX, §1901(b)(10)(B), Oct. 4, 1976, 90 Stat. 1562, 1620, 1624, 1629, 1646, 1795; Pub. L. 95–30, title I, §102(b)(11), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §§403(c)(4), 421(e)(6), title VII, §701(q)(2), (u)(2)(A)–(C), (3)(A), (4)(A), (B), (8)(C), Nov. 6, 1978, 92 Stat. 2868, 2876, 2910, 2913, 2916; Pub. L. 96–222, title I, §104(a)(3)(D), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–248, title II, §211(c)(2), Sept. 3, 1982, 96 Stat. 449; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§121(a), 122(a), title IV, §474(r)(21), title VIII, §801(d)(2), July 18, 1984, 98 Stat. 638, 643, 843, 995; Pub. L. 99–514, title I, §104(b)(13), title VII, §701(e)(4)(H), title XII, §§1201(a), (b), (d)(1)–(3), 1203(a), 1211(b)(3), 1235(f)(4), title XVIII, §§1810(a)(1)(A), (b)(1)–(4)(A), 1876(d)(2), 1899A(24), Oct. 22, 1986, 100 Stat. 2105, 2343, 2520, 2525, 2531, 2536, 2575, 2821, 2823, 2899, 2959; Pub. L. 100–647, title I, §§1003(b)(2), 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12), (bb)(4)(A), title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3383, 3493–3497, 3517, 3521, 3525, 3534, 3606; Pub. L. 101–239, title VII, §§7402(a), 7811(i)(1), Dec. 19, 1989, 103 Stat. 2357, 2409; Pub. L. 101–508, title XI, §§11101(d)(5), 11801(a)(31), Nov. 5, 1990, 104 Stat. 1388–405, 1388–521; Pub. L. 103–66, title XIII, §§13227(d), 13235(a)(2), Aug. 10, 1993, 107 Stat. 494, 504; Pub. L. 104–188, title I, §§1501(b)(1), (12), 1703(i)(1), 1704(t)(36), Aug. 20, 1996, 110 Stat. 1825, 1826, 1876, 1889; Pub. L. 105–34, title III, §311(c)(3), title XI, §§1101(a), 1105(a), (b), 1111(b), 1163(b), Aug. 5, 1997, 111 Stat. 835, 963, 967, 969, 987; Pub. L. 106–170, title V, §501(b)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(b)(2)(G), 202(f)(2)(C), title VI, §618(b)(2)(D), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), title VI, §601(b)(1), Mar. 9, 2002, 116 Stat. 57, 59.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 287; Pub. L. 85–866, title I, §42(a), Sept. 2, 1958, 72 Stat. 1639; Pub. L. 86–780, §1, Sept. 14, 1960, 74 Stat. 1010; Pub. L. 87–834, §§10(a), 12(b)(2), Oct. 16, 1962, 76 Stat. 1002, 1031; Pub. L. 88–272, title II, §234(b)(6), Feb. 26, 1964, 78 Stat. 116; Pub. L. 89–809, title I, §106(c)(1), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 91–172, title V, §506(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 92–178, title V, §502(b)(2)–(4), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title V, §503(b)(1), title X, §§1031(a), 1032(a), 1034(a), 1051(e), title XIX, §1901(b)(10)(B), Oct. 4, 1976, 90 Stat. 1562, 1620, 1624, 1629, 1646, 1795; Pub. L. 95–30, title I, §102(b)(11), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §§403(c)(4), 421(e)(6), title VII, §701(q)(2), (u)(2)(A)–(C), (3)(A), (4)(A), (B), (8)(C), Nov. 6, 1978, 92 Stat. 2868, 2876, 2910, 2913, 2916; Pub. L. 96–222, title I, §104(a)(3)(D), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–248, title II, §211(c)(2), Sept. 3, 1982, 96 Stat. 449; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§121(a), 122(a), title IV, §474(r)(21), title VIII, §801(d)(2), July 18, 1984, 98 Stat. 638, 643, 843, 995; Pub. L. 99–514, title I, §104(b)(13), title VII, §701(e)(4)(H), title XII, §§1201(a), (b), (d)(1)–(3), 1203(a), 1211(b)(3), 1235(f)(4), title XVIII, §§1810(a)(1)(A), (b)(1)–(4)(A), 1876(d)(2), 1899A(24), Oct. 22, 1986, 100 Stat. 2105, 2343, 2520, 2525, 2531, 2536, 2575, 2821, 2823, 2899, 2959; Pub. L. 100–647, title I, §§1003(b)(2), 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12), (bb)(4)(A), title II, §2004(<i>l</i>), Nov. 10, 1988, 102 Stat. 3383, 3493–3497, 3517, 3521, 3525, 3534, 3606; Pub. L. 101–239, title VII, §§7402(a), 7811(i)(1), Dec. 19, 1989, 103 Stat. 2357, 2409; Pub. L. 101–508, title XI, §§11101(d)(5), 11801(a)(31), Nov. 5, 1990, 104 Stat. 1388–405, 1388–521; Pub. L. 103–66, title XIII, §§13227(d), 13235(a)(2), Aug. 10, 1993, 107 Stat. 494, 504; Pub. L. 104–188, title I, §§1501(b)(1), (12), 1703(i)(1), 1704(t)(36), Aug. 20, 1996, 110 Stat. 1825, 1826, 1876, 1889; Pub. L. 105–34, title III, §311(c)(3), title XI, §§1101(a), 1105(a), (b), 1111(b), 1163(b), Aug. 5, 1997, 111 Stat. 835, 963, 967, 969, 987; Pub. L. 106–170, title V, §501(b)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(b)(2)(G), 202(f)(2)(C), title VI, §618(b)(2)(D), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), title VI, §601(b)(1), Mar. 9, 2002, 116 Stat. 57, 59; Pub. L. 108–311, title III, §312(b)(1), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title IV, §§402(a), 403(a)–(b)(5), 404(a)–(f), 413(c)(14), (15), 417(a), title VIII, §895(a), Oct. 22, 2004, 118 Stat. 1491–1495, 1508, 1512, 1647; Pub. L. 109–135, title IV, §§402(i)(3)(G), 403(k), (<i>o</i>), Dec. 21, 2005, 119 Stat. 2614, 2625, 2626.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
+<i>Pub. L. 109–135, title IV, §403(k), (nn), Dec. 21, 2005, 119 Stat. 2625, 2632, provided that, effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, paragraph (2) of section 904(g) is amended to read as follows:</i>
+
+#### <i>“(2) Overall domestic loss</i>
+
+&emsp;<i>“For purposes of this subsection—</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The term ‘overall domestic loss’ means—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) with respect to any qualified taxable year, the domestic loss for such taxable year to the extent such loss offsets taxable income from sources without the United States for the taxable year or for any preceding qualified taxable year by reason of a carryback, and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) with respect to any other taxable year, the domestic loss for such taxable year to the extent such loss offsets taxable income from sources without the United States for any preceding qualified taxable year by reason of a carryback.</i>
+
+#### <i>“(B) Domestic loss</i>
+
+&emsp;&emsp;<i>“For purposes of subparagraph (A), the term ‘domestic loss’ means the amount by which the gross income for the taxable year from sources within the United States is exceeded by the sum of the deductions properly apportioned or allocated thereto (determined without regard to any carryback from a subsequent taxable year).</i>
+
+#### <i>“(C) Qualified taxable year</i>
+
+&emsp;&emsp;<i>“For purposes of subparagraph (A), the term ‘qualified taxable year’ means any taxable year for which the taxpayer chose the benefits of this subpart.”.</i>
+
+<i>Pub. L. 108–357, title IV, §404(a)–(d), (f)(1)–(5), (g), Oct. 22, 2004, 118 Stat. 1494–1497, provided that, applicable to taxable years beginning after Dec. 31, 2006, with transitional rule relating to income tax base difference, subsection (d) of this section is amended as follows:</i>
+
+<i>(1) by amending paragraph (1) to read as follows:</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“The provisions of subsections (a), (b), and (c) and sections 902, 907, and 960 shall be applied separately with respect to—</i>
+
+&emsp;&emsp;<i>“(A) passive category income, and</i>
+
+&emsp;&emsp;<i>“(B) general category income.”;</i>
+
+<i>(2) in paragraph (2), by striking subparagraph (B), by redesignating subparagraph (A) as (B), and by adding subparagraph (A) to read as follows:</i>
+
+#### <i>“(A) Categories</i>
+
+#### <i>“(i) Passive category income</i>
+
+&emsp;&emsp;&emsp;<i>“The term ‘passive category income’ means passive income and specified passive category income.</i>
+
+#### <i>“(ii) General category income</i>
+
+&emsp;&emsp;&emsp;<i>“The term ‘general category income’ means income other than passive category income.”;</i>
+
+<i>(3) in paragraph (2)(B)(iii), as so redesignated, by striking out subclause (I) and by redesignating subclauses (II) and (III) as (I) and (II), respectively;</i>
+
+<i>(4) in paragraph (2)(B), as so redesignated, by adding clause (v) to read as follows:</i>
+
+#### <i>“(v) Specified passive category income</i>
+
+&emsp;&emsp;&emsp;<i>“The term ‘specified passive category income’ means—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) dividends from a DISC or former DISC (as defined in section 992(a)) to the extent such dividends are treated as income from sources without the United States,</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) taxable income attributable to foreign trade income (within the meaning of section 923(b)), and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(III) distributions from a FSC (or a former FSC) out of earnings and profits attributable to foreign trade income (within the meaning of section 923(b)) or interest or carrying charges (as defined in section 927(d)(1)) derived from a transaction which results in foreign trade income (as defined in section 923(b)).”;</i>
+
+<i>(5) in paragraph (2), by striking out subparagraph (D), by redesignating subparagraph (C) as (D), and by adding subparagraph (C) to read as follows:</i>
+
+#### <i>“(C) Treatment of financial services income and companies</i>
+
+#### <i>“(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>“Financial services income shall be treated as general category income in the case of—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) a member of a financial services group, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) any other person if such person is predominantly engaged in the active conduct of a banking, insurance, financing, or similar business.</i>
+
+#### <i>“(ii) Financial services group</i>
+
+&emsp;&emsp;&emsp;<i>“The term ‘financial services group’ means any affiliated group (as defined in section 1504(a) without regard to paragraphs (2) and (3) of section 1504(b)) which is predominantly engaged in the active conduct of a banking, insurance, financing, or similar business. In determining whether such a group is so engaged, there shall be taken into account only the income of members of the group that are—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(I) United States corporations, or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) controlled foreign corporations in which such United States corporations own, directly or indirectly, at least 80 percent of the total voting power and value of the stock.</i>
+
+#### <i>“(iii) Pass-thru entities</i>
+
+&emsp;&emsp;&emsp;<i>“The Secretary shall by regulation specify for purposes of this subparagraph the treatment of financial services income received or accrued by partnerships and by other pass-thru entities which are not members of a financial services group.”;</i>
+
+<i>(6) in paragraph (2)(D)(i), as so redesignated, by inserting “or” at the end of subclause (I), by striking out subclauses (II) and (III), and by adding subclause (II) to read as follows:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>“(II) passive income (determined without regard to subparagraph (B)(iii)(II)).”;</i>
+
+<i>(7) in paragraph (2)(D), as so redesignated, by striking out clause (iii);</i>
+
+<i>(8) in paragraph (2), by adding subparagraph (K) to read as follows:</i>
+
+#### <i>“(K) Transitional rules for 2007 changes</i>
+
+&emsp;&emsp;<i>“For purposes of paragraph (1)—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) taxes carried from any taxable year beginning before January 1, 2007, to any taxable year beginning on or after such date, with respect to any item of income, shall be treated as described in the subparagraph of paragraph (1) in which such income would be described were such taxes paid or accrued in a taxable year beginning on or after such date, and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the Secretary may by regulations provide for the allocation of any carryback of taxes with respect to income from a taxable year beginning on or after January 1, 2007, to a taxable year beginning before such date for purposes of allocating such income among the separate categories in effect for the taxable year to which carried.”; and</i>
+
+<i>(9) by amending paragraph (3) to read as follows:</i>
+
+#### <i>“(3) Look-thru in case of controlled foreign corporations</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“Except as otherwise provided in this paragraph, dividends, interest, rents, and royalties received or accrued by the taxpayer from a controlled foreign corporation in which the taxpayer is a United States shareholder shall not be treated as passive category income.</i>
+
+#### <i>“(B) Subpart F inclusions</i>
+
+&emsp;&emsp;<i>“Any amount included in gross income under section 951(a)(1)(A) shall be treated as passive category income to the extent the amount so included is attributable to passive category income.</i>
+
+#### <i>“(C) Interest, rents, and royalties</i>
+
+&emsp;&emsp;<i>“Any interest, rent, or royalty which is received or accrued from a controlled foreign corporation in which the taxpayer is a United States shareholder shall be treated as passive category income to the extent it is properly allocable (under regulations prescribed by the Secretary) to passive category income of the controlled foreign corporation.</i>
+
+#### <i>“(D) Dividends</i>
+
+&emsp;&emsp;<i>“Any dividend paid out of the earnings and profits of any controlled foreign corporation in which the taxpayer is a United States shareholder shall be treated as passive category income in proportion to the ratio of—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) the portion of the earnings and profits attributable to passive category income, to</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the total amount of earnings and profits.</i>
+
+#### <i>“(E) Look-thru applies only where subpart F applies</i>
+
+&emsp;&emsp;<i>“If a controlled foreign corporation meets the requirements of section 954(b)(3)(A) (relating to de minimis rule) for any taxable year, for purposes of this paragraph, none of its foreign base company income (as defined in section 954(a) without regard to section 954(b)(5)) and none of</i><i>its gross insurance income (as defined in section 954(b)(3)(C)) for such taxable year shall be treated as passive category income, except that this sentence shall not apply to any income which (without regard to this sentence) would be treated as financial services income. Solely for purposes of applying subparagraph (D), passive income of a controlled foreign corporation shall not be treated as passive category income if the requirements of section 954(b)(4) are met with respect to such income.</i>
+
+#### <i>“(F) Coordination with high-taxed income provisions</i>
+
+&emsp;&emsp;<i>“(i) In determining whether any income of a controlled foreign corporation is passive category income, subclause (II) of paragraph (2)(B)(iii) shall not apply.</i>
+
+&emsp;&emsp;<i>“(ii) Any income of the taxpayer which is treated as passive category income under this paragraph shall be so treated notwithstanding any provision of paragraph (2); except that the determination of whether any amount is high-taxed income shall be made after the application of this paragraph.</i>
+
+#### <i>“(G) Dividend</i>
+
+&emsp;&emsp;<i>“For purposes of this paragraph, the term ‘dividend’ includes any amount included in gross income in section 951(a)(1)(B). Any amount included in gross income under section 78 to the extent attributable to amounts included in gross income in section 951(a)(1)(A) shall not be treated as a dividend but shall be treated as included in gross income under section 951(a)(1)(A).</i>
+
+#### <i>“(H) Look-thru applies to passive foreign investment company inclusion</i>
+
+&emsp;&emsp;<i>“If—</i>
+
+&emsp;&emsp;&emsp;<i>“(i) a passive foreign investment company is a controlled foreign corporation, and</i>
+
+&emsp;&emsp;&emsp;<i>“(ii) the taxpayer is a United States shareholder in such controlled foreign corporation,</i>
+
+> &emsp;&emsp;<i>any amount included in gross income under section 1293 shall be treated as income in a separate category to the extent such amount is attributable to income in such category.”</i>
+
+<i>Pub. L. 108–357, title IV, §402(a), (c), Oct. 22, 2004, 118 Stat. 1491, 1492, provided that, applicable to losses for taxable years beginning after Dec. 31, 2006, this section is amended by redesignating subsections (g) to (k) as (h) to (l), respectively, and by adding subsection (g) to read as follows:</i>
+
+#### <i>“(g) Recharacterization of overall domestic loss</i>
+
+#### <i>“(1) General rule</i>
+
+&emsp;<i>“For purposes of this subpart and section 936, in the case of any taxpayer who sustains an overall domestic loss for any taxable year beginning after December 31, 2006, that portion of the taxpayer's taxable income from sources within the United States for each succeeding taxable year which is equal to the lesser of—</i>
+
+&emsp;&emsp;<i>“(A) the amount of such loss (to the extent not used under this paragraph in prior taxable years), or</i>
+
+&emsp;&emsp;<i>“(B) 50 percent of the taxpayer's taxable income from sources within the United States for such succeeding taxable year,</i>
+
+> &emsp;<i>shall be treated as income from sources without the United States (and not as income from sources within the United States).</i>
+
+#### <i>“(2) Overall domestic loss defined</i>
+
+&emsp;<i>“For purposes of this subsection—</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“The term ‘overall domestic loss’ means any domestic loss to the extent such loss offsets taxable income from sources without the United States for the taxable year or for any preceding taxable year by reason of a carryback. For purposes of the preceding sentence, the term ‘domestic loss’ means the amount by which the gross income for the taxable year from sources within the United States is exceeded by the sum of the deductions properly apportioned or allocated thereto (determined without regard to any carryback from a subsequent taxable year).</i>
+
+#### <i>“(B) Taxpayer must have elected foreign tax credit for year of loss</i>
+
+&emsp;&emsp;<i>“The term ‘overall domestic loss’ shall not include any loss for any taxable year unless the taxpayer chose the benefits of this subpart for such taxable year.</i>
+
+#### <i>“(3) Characterization of subsequent income</i>
+
+#### <i>“(A) In general</i>
+
+&emsp;&emsp;<i>“Any income from sources within the United States that is treated as income from sources without the United States under paragraph (1) shall be allocated among and increase the income categories in proportion to the loss from sources within the United States previously allocated to those income categories.</i>
+
+#### <i>“(B) Income category</i>
+
+&emsp;&emsp;<i>“For purposes of this paragraph, the term ‘income category’ has the meaning given such term by subsection (f)(5)(E)(i).</i>
+
+#### <i>“(4) Coordination with subsection (f)</i>
+
+&emsp;<i>“The Secretary shall prescribe such regulations as may be necessary to coordinate the provisions of this subsection with the provisions of subsection (f).”</i>
+
+<i>Pub. L. 108–357, title IV, §404(f)(6), (g), Oct. 22, 2004, 118 Stat. 1497, provided that, applicable to taxable years beginning after Dec. 31, 2006, subsection (j)(3)(A)(i) of this section is amended by striking “subsection (d)(2)(A)” and inserting “subsection (d)(2)(B)”.</i>
+
 #### References in Text
 
 Sections 923 and 927, referred to in subsec. (d)(1)(G), (H), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
-The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (d)(2)(I), is the date of the enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
+Subparagraph (E)(iii) of subsection (d)(2) of this section, referred to in subsec. (d)(2)(A)(ii), was redesignated as subparagraph (E)(ii) by Pub. L. 108–357, title IV, §403(b)(4)(B), Oct. 22, 2004, 118 Stat. 1494.
+
+Section 954(f), referred to in subsec. (d)(2)(D), was repealed by Pub. L. 108–357, title IV, §415(a)(2), Oct. 22, 2004, 118 Stat. 1511.
+
+The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (d)(2)(J), is the date of the enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 Section 172(h), referred to in subsec. (f)(2)(B)(i), was repealed by Pub. L. 101–508, title XI, §11811(b)(1), Nov. 5, 1990, 104 Stat. 1388–532.
 
-The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (f)(2)(B)(i), is the date of enactment of Pub. L. 101–508, title XI, which was approved Nov. 5, 1990.
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (f)(2)(B)(i), isthe date of enactment of Pub. L. 101–508, title XI, which was approved Nov. 5, 1990.
+
+Section 1246, referred to in subsec. (g)(7), was repealed by Pub. L. 108–357, title IV, §413(a)(2), Oct. 22, 2004, 118 Stat. 1506.
 
 #### Amendments
+
+2005—Subsec. (d)(2)(D). Pub. L. 109–135, §403(<i>o</i>), inserted “as in effect before its repeal” after “section 954(f)”.
+
+Subsec. (h). Pub. L. 109–135, §402(i)(3)(G), (H), temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of an individual, for purposes of subsection (a), the tax against which the credit is taken is such tax reduced by the sum of the credits allowable under subpart A of part IV of subchapter A of this chapter (other than sections 23, 24, and 25B). This subsection shall not apply to taxable years beginning during 2000, 2001, 2002, 2003, 2004, or 2005.” See Codification note above and Effective and Termination Dates of 2005 Amendment note below.
+
+2004—Subsec. (c). Pub. L. 108–357, §417(a), struck out “in the second preceding taxable year,” before “in the first preceding taxable year” and substituted “and in any of the first 10” for “, and in the first, second, third, fourth, or fifth”.
+
+Subsec. (d)(1)(E). Pub. L. 108–357, §403(b)(1), struck out subpar. (E) which read as follows: “in the case of a corporation, dividends from noncontrolled section 902 corporations out of earnings and profits accumulated in taxable years beginning before January 1, 2003,”.
+
+Subsec. (d)(2)(A)(ii). Pub. L. 108–357, §413(c)(14), reenacted heading without change and amended text of cl. (ii) generally. Prior to amendment, text read as follows: “Except as provided in clause (iii), the term ‘passive income’ includes any amount includible in gross income under section 551 or, except as provided in subparagraph (E)(iii) or paragraph (3)(I), section 1293 (relating to certain passive foreign investment companies).”
+
+Subsec. (d)(2)(C)(iii). Pub. L. 108–357, §403(b)(2), inserted “and” at end of subcl. (I), redesignated subcl. (III) as (II), and struck out former subcl. (II) which read as follows: “any dividend from a noncontrolled section 902 corporation out of earnings and profits accumulated in taxable years beginning before January 1, 2003, and”.
+
+Subsec. (d)(2)(D). Pub. L. 108–357, §403(b)(3), substituted “Such term does not include any financial services income” for “Such term does not include any dividend from a noncontrolled section 902 corporation out of earnings and profits accumulated in taxable years beginning before January 1, 2003 and does not include any financial services income”.
+
+Subsec. (d)(2)(E)(i). Pub. L. 108–357, §403(b)(4)(A), inserted “or (4)” after “paragraph (3)”.
+
+Subsec. (d)(2)(E)(ii), (iii). Pub. L. 108–357, §403(b)(4)(B), redesignated cl. (iii) as (ii) and struck out heading and text of former cl. (ii). Text read as follows: “If a foreign corporation is a noncontrolled section 902 corporation with respect to the taxpayer, taxes on high withholding tax interest (to the extent imposed at a rate in excess of 5 percent) shall not be treated as foreign taxes for purposes of determining the amount of foreign taxes deemed paid by the taxpayer under section 902.”
+
+Subsec. (d)(2)(E)(iv). Pub. L. 108–357, §403(b)(4)(B), struck out heading and text of cl. (iv). Text read as follows: “All noncontrolled section 902 corporations which are not passive foreign investment companies (as defined in section 1297) shall be treated as one noncontrolled section 902 corporation for purposes of paragraph (1).”
+
+Subsec. (d)(2)(H) to (J). Pub. L. 108–357, §404(e), added subpar. (H) and redesignated former subpars. (H) and (I) as (I) and (J), respectively.
+
+Subsec. (d)(3)(F)(i). Pub. L. 108–357, §403(b)(5), substituted “or (D)” for “(D), or (E)”.
+
+Subsec. (d)(4). Pub. L. 108–357, §403(a), reenacted heading without change and amended text of par. (4) generally, substituting provisions relating to dividends from noncontrolled section 902 corporations, earnings and profits of controlled foreign corporations, and setting forth special rules, for provisions relating to treatment of applicable dividends, defining the term “applicable dividend”, and setting forth special rules.
+
+Subsec. (f)(3)(D). Pub. L. 108–357, §895(a), added subpar. (D).
+
+Subsec. (g)(1)(A). Pub. L. 108–357, §413(c)(15)(A), inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “section 551 (relating to foreign personal holding company income taxed to United States shareholders), or”.
+
+Subsec. (g)(2). Pub. L. 108–357, §413(c)(15)(B), struck out “foreign personal holding or” before “passive foreign investment” in heading.
+
+Subsec. (h). Pub. L. 108–311 substituted “2003, 2004, or 2005” for “or 2003”.
 
 2002—Subsec. (h). Pub. L. 107–147, §601(b)(1), substituted “during 2000, 2001, 2002, or 2003” for “during 2000 or 2001”.
 
@@ -796,7 +1064,7 @@ Subsec. (b)(3)(E), (F). Pub. L. 99–514, §1211(b)(3), redesignated former subp
 
 Subsec. (d). Pub. L. 99–514, §1201(d)(1), substituted “certain categories of income” for “certain interest income and income from DISC, former DISC, FSC, or former FSC” in heading.
 
-Subsec. (d)(1). Pub. L. 99–514, §1201(a), (d)(2), (3), inserted “and sections 902, 907, and 960” in introductory provisions, added subpars. (A) to (E), struck out former subpar. (A) which read “the interest income described in paragraph (2)”, redesignated former subpars. (B), (C), (D), and (E) as (F), (G), (H), and (I), respectively, and in subpar. (I), substituted “in any of the preceding subparagraphs” for “in subparagraph (A), (B), (C), or (D)”.
+Subsec. (d)(1). Pub. L. 99–514, §1201(a), (d)(2), (3), inserted “and sections 902, 907, and 960” in introductoryprovisions, added subpars. (A) to (E), struck out former subpar. (A) which read “the interest income described in paragraph (2)”, redesignated former subpars. (B), (C), (D), and (E) as (F), (G), (H), and (I), respectively, and in subpar. (I), substituted “in any of the preceding subparagraphs” for “in subparagraph (A), (B), (C), or (D)”.
 
 Pub. L. 99–514, §1899A(24), made technical correction clarifying heading. See 1984 Amendment note below.
 
@@ -828,7 +1096,7 @@ Subsec. (d)(3)(E). Pub. L. 99–514, §1810(b)(4)(A), inserted at end:
 
 Subsec. (d)(3)(I). Pub. L. 99–514, §1810(b)(2), redesignated subpar. (I) as (J) and added a new subpar. (I), interest and dividends from members of same affiliated group, which read as follows: “For purposes of this paragraph, dividends and interest received or accrued by the designated payor corporation from another member of the same affiliated group (determined under section 1504 without regard to subsection (b)(3) thereof) shall be treated as separate limitation interest if (and only if) such amounts are attributable (directly or indirectly) to separate limitation interest of any other member of such group.”
 
-Subsec. (d)(3)(J). Pub. L. 99–514, §1810(b)(2), redesignated subpar. (I) as (J) and struck out former subpar. (J), interest from members of same affiliated group, which read as follows: “For purposes of this paragraph, interest received or accrued by the designated payor corporation from another member of the same affiliated group (determined under section 1504 without regard to subsection (b)(3) thereof) shall not be treated asseparate limitation interest, unless such interest is attributable directly or indirectly to separate limitation interest of such other member.”
+Subsec. (d)(3)(J). Pub. L. 99–514, §1810(b)(2), redesignated subpar. (I) as (J) and struck out former subpar. (J), interest from members of same affiliated group, which read as follows: “For purposes of this paragraph, interest received or accrued by the designated payor corporation from another member of the same affiliated group (determined under section 1504 without regard to subsection (b)(3) thereof) shall not be treated as separate limitation interest, unless such interest is attributable directly or indirectly to separate limitation interest of such other member.”
 
 Subsec. (d)(4), (5). Pub. L. 99–514, §1201(b), added pars. (4) and (5).
 
@@ -922,11 +1190,55 @@ Subsecs. (e), (f). Pub. L. 86–780, §1(d), added subsecs. (e) and (f).
 
 1958—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
+#### Effective and Termination Dates of 2005 Amendment
+
+Amendment by section 402(i)(3)(G) of Pub. L. 109–135 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, in the same manner as the provisions of such Act to which such amendment relates, see section 402(i)(3)(H) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+Amendment by section 402(i)(3)(G) of Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which it relates and applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+
+Amendments by section 403(k), (<i>o</i>) of Pub. L. 109–135 effective as if included in the provisions of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which they relate, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+
+#### Effective Date of 2004 Amendments
+
+Amendment by section 402(a) of Pub. L. 108–357 applicable to losses for taxable years beginning after Dec. 31, 2006, see section 402(c) of Pub. L. 108–357, set out as a note under section 535 of this title.
+
+Amendment by section 403(a), (b)(1)–(5) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2002, see section 403(c) of Pub. L. 108–357, set out as a note under section 864 of this title.
+
+Amendment by section 403(a), (b)(1)–(5) of Pub. L. 108–357 not applicable to taxable years beginning after Dec. 31, 2002, and before Jan. 1, 2005, with a specific provision for application of subsec. (d)(4)(C)(iv) of this section, if taxpayer so elects, see section 403(d) of Pub. L. 108–357, set out as a note under section 864 of this title.
+
+Pub. L. 108–357, title IV, §404(g), Oct. 22, 2004, 118 Stat. 1497, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.
+
+“(2)
+
+Transitional rule relating to income tax base difference.—Section 904(d)(2)(H)(ii) of the Internal Revenue Code of 1986, as added by subsection (e), shall apply to taxable years beginning after December 31, 2004.”
+
+Amendment by section 413(c)(14), (15) of Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
+Pub. L. 108–357, title IV, §417(c), Oct. 22, 2004, 118 Stat. 1512, provided that:
+
+“(1)
+
+Carryback.—The amendments made by subsections (a)(1) and (b)(1) \[amending this section and section 907 of this title\] shall apply to excess foreign taxes arising in taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\].
+
+“(2)
+
+Carryover.—The amendments made by subsections (a)(2) and (b)(2) \[amending this section and section 907 of this title\] shall apply to excess foreign taxes which (without regard to the amendments made by this section \[amending this section and section 907 of this title\]) may be carried to any taxable year ending after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Pub. L. 108–357, title VIII, §895(b), Oct. 22, 2004, 118 Stat. 1648, provided that: “The amendment made by this section \[amending this section\] shall apply to dispositions after the date of the enactment of this Act \[Oct. 22, 2004\].”
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2003, see section 312(c) of Pub. L. 108–311, set out as a note under section 26 of this title.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by section 601(b)(1) of Pub. L. 107–147 applicable to taxable years beginning after Dec. 31, 2001, see section 601(c) of Pub. L. 107–147, set out as a note under section 26 of this title.
 
 #### Effective and Termination Dates of 2001 Amendment
+
+Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2004 or 2005, see section 312(b)(2) of Pub. L. 108–311, set out as a note under section 23 of this title.
 
 Amendment by sections 201(b), 202(f), and 618(b) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as a note under section 23 of this title.
 
@@ -978,7 +1290,7 @@ Amendment by section 7811(i)(1) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendment made by section 121 of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
+Section 1012(bb)(4)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall take effect as if included in the amendment made by section 121 of the Tax Reform Act of 1984 \[Pub. L. 98–369\].”
 
 Amendment by sections 1003(b)(2) and 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -988,7 +1300,7 @@ Amendment by section 2004(<i>l</i>) of Pub. L. 100–647 effective, except as ot
 
 Amendment by section 104(b)(13) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 701(e)(4)(H) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, seesection 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
+Amendment by section 701(e)(4)(H) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
 Section 1201(e) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1012(a)(5), Nov. 10, 1988, 102 Stat. 3495; Pub. L. 101–239, title VII, §7404(a), Dec. 19, 1989, 103 Stat. 2361, provided that:
 
@@ -1282,7 +1594,7 @@ Exception for certain mining operations.—In the case of a domestic corporation
 
 “(3)
 
-Exception for income from possessions.—In the case of gross income from sources within a possession of the United States (and the deductions properly apportioned or allocated thereto), the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978.
+Exception for income from possessions.—In the case of gross income from sources within a possessionof the United States (and the deductions properly apportioned or allocated thereto), the amendments made by this section \[amending this section and sections 243, 383, 901, 907, 960, 1351, 1503, 6038, and 6501 of this title\] shall apply to taxable years beginning after December 31, 1978.
 
 “(4)
 
@@ -1292,7 +1604,7 @@ Section 1032(c) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, 
 
 “(1)
 
-In general.—Except as provided in paragraphs (2), (3), and (5), the amendment made by subsection (a) \[amending this section\] shall apply to losses sustained in taxable years beginning after December 31, 1975. Theamendment made by subsection (b)(1) \[amending section 907 of this title\] shall apply to taxable years beginning after December 31, 1975. The amendment made by subsection (b)(2) \[amending section 907 of this title\] shall apply to losses sustained in taxable years ending after December 31, 1975.
+In general.—Except as provided in paragraphs (2), (3), and (5), the amendment made by subsection (a) \[amending this section\] shall apply to losses sustained in taxable years beginning after December 31, 1975. The amendment made by subsection (b)(1) \[amending section 907 of this title\] shall apply to taxable years beginning after December 31, 1975. The amendment made by subsection (b)(2) \[amending section 907 of this title\] shall apply to losses sustained in taxable years ending after December 31, 1975.
 
 “(2)
 
@@ -1380,7 +1692,7 @@ Section 42(c) of Pub. L. 85–866 provided that: “The amendments made by subse
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(a)(31) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801(a)(31) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -1422,9 +1734,9 @@ Section 1810(a)(4) of Pub. L. 99–514 provided that: “Section 904(g) of the I
 
 Section 1810(a)(5) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(g)(1), Nov. 10, 1988, 102 Stat. 3582, provided that: “For purposes of section 121(b)(5) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out above\] (relating to separate application of section 904 \[of the Internal Revenue Code of 1954 \[now 1986\]\] in case of income covered by transitional rules), any carryover under section 904(c) of the Internal Revenue Code of 1954 \[now 1986\] allowed to a taxpayer which was incorporated on August 31, 1962, attributable to taxes paid or accrued in taxable years beginning in 1981, 1982, 1983, or 1984, with respect to amounts included in gross income under section 951 of such Code in respect of a controlled foreign corporation which was incorporated on May 27, 1977, shall be treated as taxes paid or accrued on income separately treated under such section 121(b)(5).”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 30A, 56, 59, 245, 367, 383, 535, 552, 593, 667, 841, 864, 865, 901, 902, 906, 907, 936, 952, 954, 960, 988, 1291, 1373, 6038, 6501 of this title.
-
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

@@ -78,7 +78,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (1) Milestone demonstration
 
-&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that thearea has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
+&emsp;By March 31, 1996, each State in which all or part of a Serious Area is located shall submit to the Administrator a demonstration that the area has achieved a reduction in emissions of CO equivalent to the total of the specific annual emission reductions required by December 31, 1995. Such reductions shall be referred to in this subsection as the milestone.
 
 #### (2) Adequacy of demonstration
 
@@ -86,7 +86,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (3) Failure to meet emission reduction milestone
 
-&emsp;If a State fails to submit a demonstration under paragraph (1) within the required period, or if the Administrator notifies the State that the State has not met the milestone, the State shall, within 9 months after such a failure or notification, submit a plan revision to implement an economic incentive and transportation control program as described in section 7511a(g)(4) of this title. Such revision shall be sufficient to achieve the specific annual reductions in carbon monoxide emissions set forth in the plan by the attainment date.
+&emsp;If a State fails to submit a demonstration under paragraph (1) within the required period, or if the Administrator notifies the State thatthe State has not met the milestone, the State shall, within 9 months after such a failure or notification, submit a plan revision to implement an economic incentive and transportation control program as described in section 7511a(g)(4) of this title. Such revision shall be sufficient to achieve the specific annual reductions in carbon monoxide emissions set forth in the plan by the attainment date.
 
 #### (e) Multi-State CO nonattainment areas
 

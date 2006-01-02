@@ -24,3 +24,4 @@
 - [&sect; 00290g&#8211;14 - Additional authorization for payment of United States contribution](%C2%A7%2000290g%E2%80%9314%20-%20Additional%20authorization%20for%20payment%20of%20United%20States%20contribution.md)
 - [&sect; 00290g&#8211;15 - Sixth replenishment](%C2%A7%2000290g%E2%80%9315%20-%20Sixth%20replenishment.md)
 - [&sect; 00290g&#8211;16 - Ninth replenishment](%C2%A7%2000290g%E2%80%9316%20-%20Ninth%20replenishment.md)
+- [&sect; 00290g&#8211;17 - Tenth replenishment](%C2%A7%2000290g%E2%80%9317%20-%20Tenth%20replenishment.md)

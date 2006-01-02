@@ -76,7 +76,7 @@ Subsec. (a)(2)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §629(2)\], ad
 
 1987—Pub. L. 100–180 substituted semicolon for comma at end of par. (2)(A) and “; or” for “, or” at end of par. (2)(B).
 
-Pub. L. 100–26 substituted “A” for “a” at beginning of pars. (1) to (3), semicolon for comma at end of par. (1)(A), “; or” for “, or” at end of par. (1)(B), period for semicolon at end of par. (1)(C), and period for “; and” at end of par. (2); and directed substitution of semicolon for comma at end of par. (1)(B) which could not be executed because no comma appeared at end of par. (1)(B).
+Pub. L. 100–26 substituted “A” for “a” at beginning of pars. (1) to (3), semicolon for comma at end of par. (1)(A), “; or” for “, or” at end of par. (1)(B), period for semicolon at end of par. (1)(C), and period for “; and” at end of par. (2); and directed substitution of semicolon for comma at end of par. (1)(B) which could notbe executed because no comma appeared at end of par. (1)(B).
 
 1980—Pub. L. 96–284 substituted “Each” for “(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each”, struck out “beginning on or after October 1, 1977” after “active duty”, struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 

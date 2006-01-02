@@ -26,7 +26,7 @@ The following shall apply with respect to the standard of the American Society f
 
 #### (c) Revisions incorporated into standard D–4236; notice and hearing; amendment; opportunity for comment; transcript of proceedings
 
-If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) of this section as modified by subsection (b) of this section after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) of this section as modified by subsection (b) of this section is inadequate for the protection of the public interest, it shall promulgate an amendment to the standard which will adequately protect the public interest. Such final standard shall bepromulgated pursuant to section 553 of title 5, except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
+If the Commission determines that a revision proposed by the American Society for Testing and Materials is in the public interest, it shall incorporate the revision into the standard referred to in subsection (a) of this section as modified by subsection (b) of this section after providing notice and an opportunity for comment. If at any time the Commission finds that the standard referred to in subsection (a) of this section as modified by subsection (b) of this section is inadequate for the protection of the public interest, it shall promulgate an amendment to the standard which will adequately protect the public interest. Such final standard shall be promulgated pursuant to section 553 of title 5, except that the Commission shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 
 #### (d) Guidelines for determining chronically hazardous art materials; issuance; public hearing; scope of criteria; review; amendment
 
@@ -58,7 +58,7 @@ The Commission may bring an action under section 1267 of this title to enjoin th
 
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to theCode, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 

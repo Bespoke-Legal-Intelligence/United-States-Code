@@ -50,7 +50,7 @@ Adjustment of Pay.—In accordance with regulations prescribed by the Secretary,
 
 (h)
 
-Appointment to Additional Positions.—(1) The Secretary may use the authority of this subsection (subject to paragraph (2)) to establish the qualifications for, and appoint and advance an individual in the Department of Defense as—
+Appointment to Additional Positions.—(1) The Secretary may use the authority of thissubsection (subject to paragraph (2)) to establish the qualifications for, and appoint and advance an individual in the Department of Defense as—
 
 &emsp;(A) a clinical or counseling psychologist (if such psychologist holds a diploma as a diplomate in psychology from an accrediting authority approved by the Secretary);
 

@@ -30,7 +30,3 @@ The words “armed forces” are substituted for the words “land or naval forc
 
 Act Apr. 20, 1871, ch. 22, §3, 17 Stat. 14.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 6323.
-

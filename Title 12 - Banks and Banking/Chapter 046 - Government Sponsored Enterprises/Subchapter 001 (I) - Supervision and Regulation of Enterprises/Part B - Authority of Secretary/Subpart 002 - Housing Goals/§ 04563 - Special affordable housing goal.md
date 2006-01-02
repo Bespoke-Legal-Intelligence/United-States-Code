@@ -56,7 +56,7 @@
 
 #### (2) Exclusion
 
-&emsp;No credit toward the achievement of the special affordable housing goal may be given to the purchase or securitization of mortgages associated with the refinancing of the existing enterprise portfolios.
+&emsp;No credit toward the achievement of the special affordable housing goal may be given tothe purchase or securitization of mortgages associated with the refinancing of the existing enterprise portfolios.
 
 #### (c) Use of borrower and tenant income
 
@@ -80,7 +80,7 @@
 
 #### (1) FNMA mortgage purchases
 
-&emsp;Notwithstanding any other provision of this section, during the 2-year period beginning onJanuary 1, 1993, the special affordable housing goal for the Federal National Mortgage Association shall include mortgage purchases of not less than $2,000,000,000 (for such 2-year period), with one-half of such purchases consisting of mortgages on single family housing and one-half consisting of mortgages on multifamily housing.
+&emsp;Notwithstanding any other provision of this section, during the 2-year period beginning on January 1, 1993, the special affordable housing goal for the Federal National Mortgage Association shall include mortgage purchases of not less than $2,000,000,000 (for such 2-year period), with one-half of such purchases consisting of mortgages on single family housing and one-half consisting of mortgages on multifamily housing.
 
 #### (2) FHLMC mortgage purchases
 

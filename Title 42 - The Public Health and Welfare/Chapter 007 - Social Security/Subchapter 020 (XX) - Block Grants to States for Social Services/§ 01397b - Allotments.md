@@ -12,7 +12,7 @@ The allotment for any fiscal year for each State other than the jurisdictions of
 
 &emsp;(2) the total amount allotted to those jurisdictions for that fiscal year under subsection (a) of this section,
 
-> as the population of that State bears to the population of all the States (other than Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands) as determined by the Secretary (on the basis of the most recent data available from the Department of Commerce) and promulgated prior to the first day of the third month of the preceding fiscal year.
+> as the population of that State bears to the population of all the States (other than Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands) asdetermined by the Secretary (on the basis of the most recent data available from the Department of Commerce) and promulgated prior to the first day of the third month of the preceding fiscal year.
 
 #### (c) Appropriations
 
@@ -44,7 +44,7 @@ The amount specified for purposes of subsections (a) and (b) of this section sha
 
 #### Prior Provisions
 
-A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88Stat. 2343; amended Oct. 21, 1975, Pub. L. 94–120, §4(a), 89 Stat. 609; Oct. 25, 1977, Pub. L. 95–142, §3(d)(1), 91 Stat. 1179; June 9, 1980, Pub. L. 96–265, title IV, §403(b), 94 Stat. 462; June 17, 1980, Pub. L. 96–272, title II, §206(c), (d), 94 Stat. 525; Oct. 19, 1980, Pub. L. 96–473, §6(<i>l</i>), 94 Stat. 2266; Dec. 5, 1980, Pub. L. 96–499, title IX, §913(e), 94 Stat. 2620, related to State programs for social services assistance, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
+A prior section 1397b, act Aug. 14, 1935, ch. 531, title XX, §2003, as added Jan. 4, 1975, Pub. L. 93–647, §2, 88 Stat. 2343; amended Oct. 21, 1975, Pub. L. 94–120, §4(a), 89 Stat. 609; Oct. 25, 1977, Pub. L. 95–142, §3(d)(1), 91 Stat. 1179; June 9, 1980, Pub. L. 96–265, title IV, §403(b), 94 Stat. 462; June 17, 1980, Pub. L. 96–272, title II, §206(c), (d), 94 Stat. 525; Oct. 19, 1980, Pub. L. 96–473, §6(<i>l</i>), 94 Stat. 2266; Dec. 5, 1980, Pub. L. 96–499, title IX, §913(e), 94 Stat. 2620, related to State programs for social services assistance, prior to the general revision of this subchapter by section 2352(a) of Pub. L. 97–35.
 
 #### Amendments
 

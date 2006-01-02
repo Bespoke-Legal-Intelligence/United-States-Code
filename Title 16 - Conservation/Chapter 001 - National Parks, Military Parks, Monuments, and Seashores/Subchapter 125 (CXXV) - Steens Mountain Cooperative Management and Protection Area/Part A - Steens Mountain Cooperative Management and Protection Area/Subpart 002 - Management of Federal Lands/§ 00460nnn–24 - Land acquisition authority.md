@@ -22,7 +22,7 @@
 
 #### (2) Lands within Wilderness Area
 
-&emsp;If lands or interests in lands acquired under subsection (a) of this section or part F of thissubchapter are within the boundaries of the Wilderness Area, the acquired lands or interests in lands shall—
+&emsp;If lands or interests in lands acquired under subsection (a) of this section or part F of this subchapter are within the boundaries of the Wilderness Area, the acquired lands or interests in lands shall—
 
 &emsp;&emsp;(A) become part of the Wilderness Area; and
 

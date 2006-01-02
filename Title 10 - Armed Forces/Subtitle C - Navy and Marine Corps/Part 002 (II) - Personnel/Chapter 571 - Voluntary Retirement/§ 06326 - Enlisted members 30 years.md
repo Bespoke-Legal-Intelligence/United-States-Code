@@ -72,7 +72,7 @@ Subsection (d) is substituted for 34 U.S.C. 350i(e) as that section pertains to 
 
 #### Amendments
 
-1986—Subsec. (c). Pub. L. 99–348 substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of a person who firstbecame a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 75 percent of the basic pay of the pay grade in which he was serving on the day before retirement or, if he served as master chief petty officer of the Navy or as sergeant major of the Marine Corps, 75 percent of the highest basic pay to which he was entitled while so serving, if that rate was higher, or in the case of a person who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be computed by multiplying the monthly retired pay base computed under section 1407(d) by 75 percent.
+1986—Subsec. (c). Pub. L. 99–348 substituted provision that retired pay be computed under section 6333 for provision that retired pay, in the case of a person who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 75 percent of the basic pay of the pay grade in which he was serving on the day before retirement or, if he served as master chief petty officer of the Navy or as sergeant major of the Marine Corps, 75 percent of the highest basic pay to which he was entitled while so serving, if that rate was higher, or in the case of a person who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be computed by multiplying the monthly retired pay base computed under section 1407(d) by 75 percent.
 
 1980—Subsec. (c)(2). Pub. L. 96–513 substituted “September 8, 1980” for “the date of the enactment of the Department of Defense Authorization Act, 1981” wherever appearing, and “master chief petty officer” for “senior enlisted advisor”.
 
@@ -103,8 +103,4 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
 
 Amendment by Pub. L. 85–422 inapplicable to retired persons or to persons to whom retired pay is granted before May 31, 1958, see note set out under section 3991 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1406, 6333 of this title.
 

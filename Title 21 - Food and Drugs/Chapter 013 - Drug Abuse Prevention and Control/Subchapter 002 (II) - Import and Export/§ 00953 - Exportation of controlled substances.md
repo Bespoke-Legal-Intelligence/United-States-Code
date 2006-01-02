@@ -50,13 +50,37 @@ It shall be unlawful to export from the United States to any other country any n
 
 &emsp;(3) in the case of a nonnarcotic controlled substance in schedule IV or V which is also listed in schedule I or II of the Convention on Psychotropic Substances, it is exported pursuant to such export permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention.
 
-(Pub. L. 91–513, title III, §1003, Oct. 27, 1970, 84 Stat. 1286; Pub. L. 95–633, title I, §106, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §522, Oct. 12, 1984, 98 Stat. 2076.)
+#### (f) Exception for exportation for subsequent export
+
+Notwithstanding subsections (a)(4) and (c)(3) of this section, the Attorney General may authorize any controlled substance that is in schedule I or II, or is a narcotic drug in schedule III or IV, to be exported from the United States to a country for subsequent export from that country to another country, if each of the following conditions is met:
+
+&emsp;(1) Both the country to which the controlled substance is exported from the United States (referred to in this subsection as the “first country”) and the country to which the controlled substance is exported from the first country (referred to in this subsection as the “second country”) are parties to the Single Convention on Narcotic Drugs, 1961, and the Convention on Psychotropic Substances, 1971.
+
+&emsp;(2) The first country and the second country have each instituted and maintain, in conformity with such Conventions, a system of controls of imports of controlled substances which the Attorney General deems adequate.
+
+&emsp;(3) With respect to the first country, the controlled substance is consigned to a holder of such permits or licenses as may be required under the laws of such country, and a permit or license to import the controlled substance has been issued by the country.
+
+&emsp;(4) With respect to the second country, substantial evidence is furnished to the Attorney General by the person who will export the controlled substance from the United States that—
+
+&emsp;&emsp;(A) the controlled substance is to be consigned to a holder of such permits or licenses as may be required under the laws of such country, and a permit or license to import the controlled substance is to be issued by the country; and
+
+&emsp;&emsp;(B) the controlled substance is to be applied exclusively to medical, scientific, or other legitimate uses within the country.
+
+&emsp;(5) The controlled substance will not be exported from the second country.
+
+&emsp;(6) Within 30 days after the controlled substance is exported from the first country to the second country, the person who exported the controlled substance from the United States delivers to the Attorney General documentation certifying that such export from the first country has occurred.
+
+&emsp;(7) A permit to export the controlled substance from the United States has been issued by the Attorney General.
+
+(Pub. L. 91–513, title III, §1003, Oct. 27, 1970, 84 Stat. 1286; Pub. L. 95–633, title I, §106, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §522, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 109–57, §1(b), Aug. 2, 2005, 119 Stat. 592.)
 
 #### References in Text
 
 Schedules I, II, III, IV and V, referred to in text, are set out in section 812(c) of this title.
 
 #### Amendments
+
+2005—Subsec. (f). Pub. L. 109–57 added subsec. (f).
 
 1984—Subsec. (e). Pub. L. 98–473 in cl. (1) inserted provisions for consumption for medical, etc., purposes, added cls. (2) and (3), and struck out former cls. (2) to (4), respectively, relating to a special controlled substance invoice, two additional copies of the invoice, and exportation of a nonnarcotic controlled substance in schedule III, IV, or V, also listed in schedule I or II of the Convention.
 

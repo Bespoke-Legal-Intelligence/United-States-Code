@@ -14,7 +14,3 @@ For application to vinegar plants of provisions of prior section 5552 relating t
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5178, 5403, 5505, 5511 of this title.
-

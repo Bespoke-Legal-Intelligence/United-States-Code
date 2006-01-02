@@ -6,7 +6,7 @@ Notwithstanding any other provision of this subchapter, funds appropriated to ca
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 2288 of Title 50, Appendix, War andNational Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in section 2288 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 #### Non-Federal Cost Share
 

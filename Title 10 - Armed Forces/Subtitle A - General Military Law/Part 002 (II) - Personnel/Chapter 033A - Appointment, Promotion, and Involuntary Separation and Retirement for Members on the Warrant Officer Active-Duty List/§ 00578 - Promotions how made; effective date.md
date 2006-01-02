@@ -20,7 +20,3 @@
 
 1992—Pub. L. 102–484 substituted “Promotions:” for “Promotions;” in section catchline.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 628 of this title.
-

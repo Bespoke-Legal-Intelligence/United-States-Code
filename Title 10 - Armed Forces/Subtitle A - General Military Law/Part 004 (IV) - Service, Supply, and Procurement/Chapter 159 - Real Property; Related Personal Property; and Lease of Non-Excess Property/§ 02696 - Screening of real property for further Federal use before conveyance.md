@@ -72,7 +72,3 @@ Subsec. (e)(4). Pub. L. 106–65, §1066(a)(26)(C), substituted “November 18, 
 
 Section 2814(b) of Pub. L. 105–85 provided that: “Section 2696 of title 10, United States Code, as added by subsection (a) of this section, shall apply with respect to any real property authorized or required to be conveyed under a provision of law covered by such section that is enacted after December 31, 1997.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2814 of this title.
-

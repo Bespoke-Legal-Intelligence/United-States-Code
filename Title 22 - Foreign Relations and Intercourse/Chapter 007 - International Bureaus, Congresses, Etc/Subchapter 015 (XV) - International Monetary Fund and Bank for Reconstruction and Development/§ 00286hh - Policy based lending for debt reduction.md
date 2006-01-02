@@ -34,7 +34,7 @@ Not later than March 1, 1989, March 1, 1991, and March 1, 1993, respectively, th
 
 &emsp;(1) describes the long term strategy and lending programs of the International Bank for Reconstruction and Development for reducing and managing the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt Tables published by such bank, and summarize the long term strategy and lending programs of such bank for other seriously indebted countries;
 
-&emsp;(2) contains an explanation of the measures taken by such bank to facilitate the reduction of the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt tables <sup>1</sup> published by such bank;
+&emsp;(2) contains an explanation of the measures taken by such bank to facilitate the reduction of the debt burden of the countries designatedas “Highly Indebted Countries” in the 1987–1988 World Debt tables <sup>1</sup> published by such bank;
 
 &emsp;(3) describes the extent (if any) to which such bank has implemented the measures described in subsections (b) and (c) of this section; and
 

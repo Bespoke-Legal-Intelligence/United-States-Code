@@ -10,7 +10,7 @@ The term “Indian country” as used in this section does not include fee-paten
 
 #### 1948 Act
 
-Based on sections 241, 244, 244a, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. 2139; Feb. 27, 1877, ch. 69, §1, 19Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; May 25, 1918, ch. 86, §1, 40 Stat. 563; June 30, 1919, ch. 4, §1, 41 Stat. 4; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, §1, 52 Stat. 696).
+Based on sections 241, 244, 244a, 254 of title 25, U.S.C., 1940 ed., Indians (R.S. 2139; Feb. 27, 1877, ch. 69, §1, 19 Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; May 25, 1918, ch. 86, §1, 40 Stat. 563; June 30, 1919, ch. 4, §1, 41 Stat. 4; Mar. 5, 1934, ch. 43, 48 Stat. 396; June 27, 1934, ch. 846, 48 Stat. 1245; June 15, 1938, ch. 435, §1, 52 Stat. 696).
 
 The revision of section 244 of title 25, U.S.C., 1940 ed., Indians, conforms with the effect thereon of sections 241, 244a, and 254 of said title.
 

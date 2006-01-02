@@ -6,9 +6,9 @@ If—
 
 &emsp;(1) a United States person sells or exchanges stock in a foreign corporation, and
 
-&emsp;(2) such person owns, within the meaning of section 958(a), or is considered as owning by applying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such foreign corporation was a controlled foreign corporation (as defined in section 957),
+&emsp;(2) such person owns, within the meaning of section 958(a), or is considered as owning byapplying the rules of ownership of section 958(b), 10 percent or more of the total combined voting power of all classes of stock entitled to vote of such foreign corporation at any time during the 5-year period ending on the date of the sale or exchange when such foreign corporation was a controlled foreign corporation (as defined in section 957),
 
-> then the gain recognized on the sale or exchange of such stock shall be included in the gross income of such person as a dividend, to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stock sold or exchanged was held by such person while such foreign corporation was a controlled foreign corporation. For purposes of this section, aUnited States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.
+> then the gain recognized on the sale or exchange of such stock shall be included in the gross income of such person as a dividend, to the extent of the earnings and profits of the foreign corporation attributable (under regulations prescribed by the Secretary) to such stock which were accumulated in taxable years of such foreign corporation beginning after December 31, 1962, and during the period or periods the stock sold or exchanged was held by such person while such foreign corporation was a controlled foreign corporation. For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.
 
 #### (b) Limitation on tax applicable to individuals
 
@@ -70,11 +70,7 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 > &emsp;This paragraph shall not apply with respect to any item which is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States.
 
-#### (5) Amounts included in gross income under section 1247
-
-&emsp;If the United States person whose stock is sold or exchanged was a qualified shareholder (as defined in section 1247(c)) of a foreign corporation which was a foreign investment company (as described in section 1246(b)(1)), the earnings and profits of the foreign corporation for taxable years in which such person was a qualified shareholder.
-
-#### (6) Foreign trade income
+#### (5) Foreign trade income
 
 &emsp;Earnings and profits of the foreign corporation attributable to foreign trade income of a FSC other than foreign trade income which—
 
@@ -84,7 +80,7 @@ For purposes of this section, the following amounts shall be excluded, with resp
 
 > &emsp;For purposes of the preceding sentence, the terms “foreign trade income” and “exempt foreign trade income” have the respective meanings given such terms by section 923.<sup>1</sup>
 
-#### (7) Amounts included in gross income under section 1293
+#### (6) Amounts included in gross income under section 1293
 
 &emsp;Earnings and profits of the foreign corporation attributable to any amount previously included in the gross income of such person under section 1293 with respect to the stock sold or exchanged, but only to the extent the inclusion of such amount did not result in an exclusion of an amount under section 1293(c).
 
@@ -146,7 +142,7 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 #### (1) In general
 
-&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchangesstock of the 10-percent corporate shareholder for stock of the foreign corporation, such 10-percent corporate shareholder shall recognize gain in the same manner as if the stock of the foreign corporation received in such exchange had been—
+&emsp;If any shareholder of a 10-percent corporate shareholder of a foreign corporation exchanges stock of the 10-percent corporate shareholder for stock of the foreign corporation, such 10-percent corporate shareholder shall recognize gain in the same manner as if the stock of the foreign corporation received in such exchange had been—
 
 &emsp;&emsp;(A) issued to the 10-percent corporate shareholder, and
 
@@ -162,15 +158,17 @@ Unless the taxpayer establishes the amount of the earnings and profits of the fo
 
 &emsp;&emsp;<b>For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).</b>
 
-(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872.)
+(Added Pub. L. 87–834, §15(a), Oct. 16, 1962, 76 Stat. 1041; amended Pub. L. 89–809, title I, §104(k), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 91–172, title IV, §442(b)(2), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §§1022(a), 1042(b), (c)(1), (3), title XIV, §1402(b)(1)(Y), (2), title XIX, §§1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1619, 1636, 1637, 1732, 1793, 1800, 1834; Pub. L. 97–448, title I, §102(c)(1), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–369, div. A, title I, §133(a), (b)(2), (c), title VIII, §801(d)(6), title X, §1001(b)(22), (e), July 18, 1984, 98 Stat. 667, 668, 996, 1012; Pub. L. 99–514, title VI, §631(d)(2), title XVIII, §§1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, 100 Stat. 2272, 2829, 2897; Pub. L. 100–647, title I, §§1006(e)(14), 1012(p)(19), Nov. 10, 1988, 102 Stat. 3402, 3518; Pub. L. 104–188, title I, §1702(g)(1), Aug. 20, 1996, 110 Stat. 1872; Pub. L. 108–357, title IV, §413(c)(22), Oct. 22, 2004, 118 Stat. 1509.)
 
 #### References in Text
 
 The Tax Reduction Act of 1975, referred to in subsec. (d)(3), is Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, as amended. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 1 of this title and Tables.
 
-Sections 923 and 927, referred to in subsec. (d)(6), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
+Sections 923 and 927, referred to in subsec. (d)(5), were repealed by Pub. L. 106–519, §2, Nov. 15, 2000, 114 Stat. 2423.
 
 #### Amendments
+
+2004—Subsec. (d)(5) to (7). Pub. L. 108–357 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “If the United States person whose stock is sold or exchanged was a qualified shareholder (as defined in section 1247(c)) of a foreign corporation which was a foreign investment company (as described in section 1246(b)(1)), the earnings and profits of the foreign corporation for taxable years in which such person was a qualified shareholder.”
 
 1996—Subsec. (a). Pub. L. 104–188, §1702(g)(1)(A)(ii), in closing provisions inserted at end “For purposes of this section, a United States person shall be treated as having sold or exchanged any stock if, under any provision of this subtitle, such person is treated as realizing gain from the sale or exchange of such stock.”
 
@@ -204,7 +202,7 @@ Subsec. (e). Pub. L. 99–514, §631(d)(2)(A), substituted “Except as provided
 
 Subsec. (f). Pub. L. 99–514, §631(d)(2)(B), inserted “Except as provided in regulations prescribed by the Secretary—” after heading.
 
-Subsec. (g). Pub. L. 99–514, §1875(g)(1), inserted “or” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “gain realized on exchanges to which section 356 (relating to receipt of additional consideration in certain reorganizations) applies; or”.
+Subsec. (g). Pub. L. 99–514, §1875(g)(1), inserted “or” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “gain realizedon exchanges to which section 356 (relating to receipt of additional consideration in certain reorganizations) applies; or”.
 
 Subsec. (i)(1)(B). Pub. L. 99–514, §1810(i)(1), substituted “in redemption or liquidation (whichever is appropriate)” for “in redemption of his stock”.
 
@@ -254,6 +252,10 @@ Subsec. (h). Pub. L. 94–455, §1042(c)(1), (3)(C), redesignated former subsec.
 
 1966—Subsec. (d)(4). Pub. L. 89–809 provided that for taxable years beginning after December 31, 1966, the earnings and profits of the foreign corporation, for purposes of this section, is not to include income effectively connected with the conduct of a trade or business within the United States, and inserted provision that the exclusion does not apply to income which is exempt from tax or subject to a reduced rate of tax pursuant to a treaty.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
@@ -282,7 +284,7 @@ Amendment by section 1001(b)(22) of Pub. L. 98–369 applicable to property acqu
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in theprovision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -315,10 +317,6 @@ Section 1875(g)(3) of Pub. L. 99–514 provided that: “An exchange shall be tr
 &emsp;“(A) on or before such date, the taxpayer adopts a plan of reorganization to which section 356 \[of the Internal Revenue Code of 1986\] applies, and
 
 &emsp;“(B) such plan or reorganization is implemented and distributions pursuant to such plan are completed on or before the date of enactment of this Act \[Oct. 22, 1986\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 245, 338, 751, 865, 951, 953, 959, 964, 989, 1246, 1291, 4916 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

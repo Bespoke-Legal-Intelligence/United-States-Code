@@ -22,7 +22,7 @@ Except as provided in subsection (b), section 4221 shall not apply with respect 
 
 #### (5) Supplies for vessels or aircraft
 
-&emsp;Subsection (a) shall not apply to a sale of an article for use by the purchaser as supplies for any vessel or aircraft if such purchaser complies with such regulations relating to the use of exemption certificates in lieu of registration as the Secretary shall prescribe to carry out the purpose of this paragraph.
+&emsp;Subsection (a) shall not apply to a sale of an article for use by the purchaser as supplies forany vessel or aircraft if such purchaser complies with such regulations relating to the use of exemption certificates in lieu of registration as the Secretary shall prescribe to carry out the purpose of this paragraph.
 
 #### (c) Denial, revocation, or suspension of registration
 
@@ -56,7 +56,7 @@ A prior section 4222, act Aug. 16, 1954, ch. 736, 68 Stat. 495, related to exemp
 
 1993—Subsec. (d). Pub. L. 103–66 substituted “4001(d)” for “4002(b), 4003(c), 4004(a)”.
 
-1990—Subsec. (c). Pub. L. 101–508, §11212(b)(2), substituted “Denial, revocation, or suspension” for “Revocation or suspension” in heading, “denied, revoked, or suspended” for “revoked or suspended” in introductoryprovisions, and “denial, revocation, or suspension” for “revocation or suspension” in par. (2) and concluding provisions.
+1990—Subsec. (c). Pub. L. 101–508, §11212(b)(2), substituted “Denial, revocation, or suspension” for “Revocation or suspension” in heading, “denied, revoked, or suspended” for “revoked or suspended” in introductory provisions, and “denial, revocation, or suspension” for “revocation or suspension” in par. (2) and concluding provisions.
 
 Subsec. (d). Pub. L. 101–508, §11221(d)(3), substituted “sections 4001(c), 4002(b), 4003(c), 4004(a), 4053(a)(6)” for “sections 4053(a)(6)”.
 
@@ -137,8 +137,4 @@ Amendment by Pub. L. 92–178 applicable with respect to articles sold on or aft
 Amendment by section 208(e) of Pub. L. 89–44 applicable with respect to articles sold on or after June 22, 1965, except insofar as such amendments related to the taxes imposed by sections 4061(b), 4091, and 4131 and, as to such taxes, applicable with respect to articles sold on or after January 1, 1966, see section 701(a) of Pub. L. 89–44, set out as a note under section 4161 of this title.
 
 Amendment by section 802(c) of Pub. L. 89–44 applicable with respect to articles sold on or after July 1, 1965, see section 802(d)(1) of Pub. L. 89–44, set out as a note under section 4082 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4052, 4101 of this title.
 

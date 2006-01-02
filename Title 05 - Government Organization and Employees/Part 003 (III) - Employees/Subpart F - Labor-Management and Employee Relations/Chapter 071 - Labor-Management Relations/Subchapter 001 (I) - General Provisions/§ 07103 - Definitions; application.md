@@ -122,7 +122,7 @@
 
 &emsp;(B) the provisions of this chapter cannot be applied to that agency or subdivision in a manner consistent with national security requirements and considerations.
 
-(2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
+(2) The President may issue an order suspending any provision of this chapter with respect toany agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
 (Added Pub. L. 95–454, title VII, §701, Oct. 13, 1978, 92 Stat. 1192; amended Pub. L. 96–465, title II, §2314(g), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(j), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, §1634(a), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 105–220, title III, §341(e), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(1), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §139\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -170,7 +170,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -418,6 +418,8 @@ b. The Office of Special Operations, the Threat Analysis Group, the Enforcement 
 
 1–215. The Defense Mapping Agency Reston Center, Department of Defense.
 
+1–216. The Center for Federal Investigative Services, Office of Personnel Management.
+
 #### 1–3.
 
 Units Outside the 50
@@ -468,7 +470,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7103(b)(1) of title 5, United States Code, and in order to exempt certain subdivisions of the Department of Justice from coverage under the Federal Labor-Management Relations Program, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 7103(b)(1) of title 5, United States Code, and in order to exempt certain subdivisions of the Department of Justice from coverage under the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
 Section 1. <i>Determinations</i>. The subdivisions of the Department of Justice set forth in section 2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
 

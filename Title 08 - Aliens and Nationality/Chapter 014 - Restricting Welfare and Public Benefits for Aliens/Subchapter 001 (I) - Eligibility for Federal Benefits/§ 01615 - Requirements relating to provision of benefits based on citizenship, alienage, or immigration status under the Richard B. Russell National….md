@@ -14,7 +14,7 @@ Notwithstanding any other provision of this Act, an individual who is eligible t
 
 &emsp;The provisions of law described in this paragraph are the following:
 
-&emsp;&emsp;(A) Programs (other than the school lunch program and the school breakfast program) under the Richard B. Russell NationalSchool Lunch Act (42 U.S.C. 1751 et seq.) and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+&emsp;&emsp;(A) Programs (other than the school lunch program and the school breakfast program) under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
 &emsp;&emsp;(B) Section 4 of the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note).
 

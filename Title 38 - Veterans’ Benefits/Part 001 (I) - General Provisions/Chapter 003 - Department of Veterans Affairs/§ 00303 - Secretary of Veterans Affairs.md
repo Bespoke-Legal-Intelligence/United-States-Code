@@ -16,7 +16,7 @@ Pub. L. 105–368, title I, §103, Nov. 11, 1998, 112 Stat. 3322, provided that:
 
 Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences, or another appropriate independent organization, under which such entity shall assist in developing a plan for the establishment of a national center or national centers for the study of war-related illnesses and post-deployment health issues. The purposes of such a center may include—
 
-&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and prevention of war-related illnesses and post-deployment health issues; and
+&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and preventionof war-related illnesses and post-deployment health issues; and
 
 &emsp;“(2) promoting the development of appropriate health policies, including monitoring, medical recordkeeping, risk communication, and use of new technologies.
 
@@ -38,7 +38,7 @@ Pub. L. 100–687, div. B, title XIV, §1404, Nov. 18, 1988, 102 Stat. 4131, as 
 
 “(a)
 
-Budget Information.—In the documentation providing detailed information on the budgets for theDepartment of Veterans Affairs and the Department of Labor that the Secretary of Veterans Affairs and the Secretary of Labor, respectively, submit to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, United States Code, the Secretary of Veterans Affairs and the Secretary of Labor shall identify, to the maximum extent feasible, the estimated amount in each of the appropriation requests for Department of Veterans Affairs accounts and Department of Labor accounts, respectively, that is to be obligated for the furnishing of each of the following services or benefits only to, or with respect to, veterans who performed active military, naval, or air service in combat with the enemy or in a theatre of combat operations during a period of war or other hostilities:
+Budget Information.—In the documentation providing detailed information on the budgets for the Department of Veterans Affairs and the Department of Labor that the Secretary of Veterans Affairs and the Secretary of Labor, respectively, submit to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, United States Code, the Secretary of Veterans Affairs and the Secretary of Labor shall identify, to the maximum extent feasible, the estimated amount in each of the appropriation requests for Department of Veterans Affairs accounts and Department of Labor accounts, respectively, that is to be obligated for the furnishing of each of the following services or benefits only to, or with respect to, veterans who performed active military, naval, or air service in combat with the enemy or in a theatre of combat operations during a period of war or other hostilities:
 
 &emsp;“(1) Employment services and other employment benefits under programs administered by the Secretary of Labor.
 

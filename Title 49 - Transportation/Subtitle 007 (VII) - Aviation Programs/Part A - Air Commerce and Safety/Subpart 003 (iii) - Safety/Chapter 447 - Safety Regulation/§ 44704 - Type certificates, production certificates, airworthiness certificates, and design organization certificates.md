@@ -2,17 +2,29 @@
 
 (a)
 
-Type Certificates.—(1) The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
+Type Certificates.—
 
-(2) The Administrator may—
+&emsp;(1)
 
-&emsp;(A) specify in regulations those appliances that reasonably require a type certificate in the interest of safety;
+Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
 
-&emsp;(B) include in a type certificate terms required in the interest of safety; and
+&emsp;(2)
 
-&emsp;(C) record on the certificate a numerical specification of the essential factors related to the performance of the aircraft, aircraft engine, or propeller for which the certificate is issued.
+Specifications.—The Administrator may—
 
-(3) If the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
+&emsp;&emsp;(A) specify in regulations those appliances that reasonably require a type certificate in the interest of safety;
+
+&emsp;&emsp;(B) include in a type certificate terms required in the interest of safety; and
+
+&emsp;&emsp;(C) record on the certificate a numerical specification of the essential factors related to the performance of the aircraft, aircraft engine, or propeller for which the certificate is issued.
+
+&emsp;(3)
+
+Special rules for new aircraft and appliances.—Except as provided in paragraph (4), if the holder of a type certificate agrees to permit another person to use the certificate to manufacture a new aircraft, aircraft engine, propeller, or appliance, the holder shall provide the other person with written evidence, in a form acceptable to the Administrator, of that agreement. Such other person may manufacture a new aircraft, aircraft engine, propeller, or appliance based on a type certificate only if such other person is the holder of the type certificate or has permission from the holder.
+
+&emsp;(4)
+
+Limitation for aircraft manufactured before august 5, 2004.—Paragraph (3) shall not apply to a person who began the manufacture of an aircraft before August 5, 2004, and who demonstrates to the satisfaction of the Administrator that such manufacture began before August 5, 2004, if the name of the holder of the type certificate for the aircraft does not appear on the airworthiness certificate or identification plate of the aircraft. The holder of the type certificate for the aircraft shall not be responsible for the continued airworthiness of the aircraft. A person may invoke the exception provided by this paragraph with regard to the manufacture of only one aircraft.
 
 (b)
 
@@ -64,7 +76,7 @@ Public safety.—The Administrator shall include in a design organization certif
 
 No effect on power of revocation.—Nothing in this subsection affects the authority of the Secretary of Transportation to revoke a certificate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1188; Pub. L. 104–264, title IV, §403, Oct. 9, 1996, 110 Stat. 3256; Pub. L. 108–176, title II, §227(b)(2), (e)(1), title VIII, §811, Dec. 12, 2003, 117 Stat. 2531, 2532, 2590.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1188; Pub. L. 104–264, title IV, §403, Oct. 9, 1996, 110 Stat. 3256; Pub. L. 108–176, title II, §227(b)(2), (e)(1), title VIII, §811, Dec. 12, 2003, 117 Stat. 2531, 2532, 2590; Pub. L. 109–59, title IV, §4405, Aug. 10, 2005, 119 Stat. 1776.)
 
 Historical and Revision Notes
 
@@ -120,7 +132,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1655(c)(1).
 
-In subsections (a)–(c)(1), the word “Administrator” in section 603 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
+In subsections (a)–(c)(1), the word “Administrator” in section 603 of the Federal Aviation Act of 1958 (PublicLaw 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
 
 In subsection (a)(1), the text of 49 App.:1423(a)(2) (1st sentence 1st–16th words) and the words “in regulations” are omitted as surplus. The words “properly designed and manufactured, performs properly” are substituted for “of proper design, material, specification, construction, and performance for safe operation” to eliminate unnecessary words. The word “rules” is omitted as being synonymous with “regulations”. The words “under section 44701(a) of this title” and “for a type certificate” are added for clarity. The words “including flight tests and tests of raw materials or any part or appurtenance of such aircraft, aircraft engine, propeller, or appliance” are omitted as surplus.
 
@@ -130,7 +142,7 @@ In subsection (a)(2)(B), the words “the duration thereof and such other” are
 
 In subsection (a)(2)(C), the words “issued for aircraft, aircraft engines, or propellers” and “all of” are omitted as surplus. The word “specification” is substituted for “determination” for clarity.
 
-In subsection (b), the word “satisfactorily” is omitted as surplus. The words “shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate” are substituted for “shall make such inspection and may require such tests of any aircraft, aircraft engine, propeller, or appliance manufactured under a production certificate as may be necessary to assure manufacture of each unit in conformity with the type certificate or any amendmentor modification thereof” to eliminate unnecessary words. The words “the duration thereof and such other . . . conditions, and limitations” are omitted as surplus.
+In subsection (b), the word “satisfactorily” is omitted as surplus. The words “shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate” are substituted for “shall make such inspection and may require such tests of any aircraft, aircraft engine, propeller, or appliance manufactured under a production certificate as may be necessary to assure manufacture of each unit in conformity with the type certificate or any amendment or modification thereof” to eliminate unnecessary words. The words “the duration thereof and such other . . . conditions, and limitations” are omitted as surplus.
 
 In subsection (c)(1), the words “may apply to” are substituted for “may file with . . . an application” to eliminate unnecessary words. The words “in accordance with regulations prescribed by the Secretary of Transportation” are omitted because of 49:322(a). The words “the duration of such certificate, the type of service for which the aircraft may be used, and such other . . . conditions, and limitations” are omitted as surplus.
 
@@ -141,6 +153,10 @@ In subsection (c)(2), the words “having a property interest” are substituted
 The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+
+2005—Subsec. (a)(1) to (3). Pub. L. 109–59, §4405(1)–(3), (5), (6), inserted par. headings, realigned margins, and substituted “Except as provided in paragraph (4), if” for “If” in par. (3).
+
+Subsec. (a)(4). Pub. L. 109–59, §4405(4), added par. (4).
 
 2003—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which read as follows: “Type certificates, production certificates, and airworthiness certificates”.
 

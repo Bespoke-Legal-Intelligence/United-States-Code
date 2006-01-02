@@ -8,7 +8,7 @@ As used in this section, the term “pediatric studies” or “studies” means
 
 If, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), and such studies are completed within any such timeframe and the reports thereof submitted in accordance with subsection (d)(2) of this section or accepted in accordance with subsection (d)(3) of this section—
 
-&emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and insubsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
+&emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
 &emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
 
@@ -30,7 +30,7 @@ If the Secretary determines that information relating to the use of an approved 
 
 &emsp;(1)(A)(i) the period referred to in subsection (c)(3)(D)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(D)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
-&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
+&emsp;(ii) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, andin clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
 
 &emsp;(B) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
 
@@ -60,7 +60,7 @@ If the Secretary determines that information relating to the use of an approved 
 
 #### (2) Written protocols to meet the studies requirement
 
-&emsp;If the sponsor or holder and the Secretary agree upon written protocols for the studies, the studies requirement of subsection (b) or (c) of this section is satisfied upon the completion of the studies and submission of the reportsthereof in accordance with the original written request and the written agreement referred to in paragraph (1). In reaching an agreement regarding written protocols, the Secretary shall take into account adequate representation of children of ethnic and racial minorities. Not later than 60 days after the submission of the report of the studies, the Secretary shall determine if such studies were or were not conducted in accordance with the original written request and the written agreement and reported in accordance with the requirements of the Secretary for filing and so notify the sponsor or holder.
+&emsp;If the sponsor or holder and the Secretary agree upon written protocols for the studies, the studies requirement of subsection (b) or (c) of this section is satisfied upon the completion of the studies and submission of the reports thereof in accordance with the original written request and the written agreement referred to in paragraph (1). In reaching an agreement regarding written protocols, the Secretary shall take into account adequate representation of children of ethnic and racial minorities. Not later than 60 days after the submission of the report of the studies, the Secretary shall determine if such studies were or were not conducted in accordance with the original written request and the written agreement and reported in accordance with the requirements of the Secretary for filing and so notify the sponsor or holder.
 
 #### (3) Other methods to meet the studies requirement
 
@@ -108,7 +108,7 @@ If the Secretary determines that the acceptance or approval of an application un
 
 #### (f) Notice of determinations on studies requirement
 
-The Secretary shall publish a notice of any determination that the requirements of subsection (d) of this section have been met and that submissions and approvals under subsection (b)(2)or (j) of section 355 of this title for a drug will be subject to the provisions of this section.
+The Secretary shall publish a notice of any determination that the requirements of subsection (d) of this section have been met and that submissions and approvals under subsection (b)(2) or (j) of section 355 of this title for a drug will be subject to the provisions of this section.
 
 #### (g) Limitations
 
@@ -184,7 +184,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 #### (1) General rule
 
-&emsp;A drug for which an application has been submitted or approved under section 355(j) ofthis title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title.
+&emsp;A drug for which an application has been submitted or approved under section 355(j) of this title shall not be considered ineligible for approval under that section or misbranded under section 352 of this title on the basis that the labeling of the drug omits a pediatric indication or any other aspect of labeling pertaining to pediatric use when the omitted indication or other aspect is protected by patent or by exclusivity under clause (iii) or (iv) of section 355(j)(5)(F) of this title.
 
 #### (2) Labeling
 

@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, the Secretary is, subject to the pro
 
 #### (2) State remedies
 
-&emsp;The State shall be entitled to the same remedies listed in paragraph (1) of this subsectionin the courts of the State or of the United States.
+&emsp;The State shall be entitled to the same remedies listed in paragraph (1) of this subsection in the courts of the State or of the United States.
 
 #### (d) Time of transfer
 

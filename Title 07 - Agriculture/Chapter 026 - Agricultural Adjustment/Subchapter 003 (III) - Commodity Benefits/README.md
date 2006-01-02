@@ -10,7 +10,7 @@
 - [&sect; 00608a - Enforcement of chapter](%C2%A7%2000608a%20-%20Enforcement%20of%20chapter.md)
 - [&sect; 00608a&#8211;1 - Repealed. Sept. 1, 1937, ch. 898, title V, &sect;510, 50 Stat. 916](%C2%A7%2000608a%E2%80%931%20-%20Repealed.%20Sept.%201%2C%201937%2C%20ch.%20898%2C%20title%20V%2C%20%C2%A7510%2C%2050%20Stat.%20916.md)
 - [&sect; 00608b - Marketing agreements; exemption from anti-trust laws; inspection requirements for handlers not subject to agreements](%C2%A7%2000608b%20-%20Marketing%20agreements%3B%20exemption%20from%20anti-trust%20laws%3B%20inspection%20requirements%20for%20handlers%20not%20subject%20to%20agreements.md)
-- [&sect; 00608c - Orders regulating handling of commodity](%C2%A7%2000608c%20-%20Orders%20regulating%20handling%20of%20commodity.md)
+- [&sect; 00608c - Orders](%C2%A7%2000608c%20-%20Orders.md)
 - [&sect; 00608c&#8211;1 - Repealed. June 29, 1945, ch. 196, 59 Stat. 263](%C2%A7%2000608c%E2%80%931%20-%20Repealed.%20June%2029%2C%201945%2C%20ch.%20196%2C%2059%20Stat.%20263.md)
 - [&sect; 00608d - Books and records](%C2%A7%2000608d%20-%20Books%20and%20records.md)
 - [&sect; 00608e - Repealed. July 3, 1948, ch. 827, title III, &sect;302(d), 62 Stat. 1258](%C2%A7%2000608e%20-%20Repealed.%20July%203%2C%201948%2C%20ch.%20827%2C%20title%20III%2C%20%C2%A7302%28d%29%2C%2062%20Stat.%201258.md)

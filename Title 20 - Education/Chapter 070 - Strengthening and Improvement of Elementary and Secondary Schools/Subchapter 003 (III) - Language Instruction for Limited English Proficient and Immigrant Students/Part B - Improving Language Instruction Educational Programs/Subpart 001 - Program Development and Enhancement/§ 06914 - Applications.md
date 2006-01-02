@@ -14,7 +14,7 @@
 
 #### (1) Deadline
 
-&emsp;The State educational agency, not later than 45 days after receipt of an application under this section, shall review the application and submit the written comments of the agency regarding the application to the Secretary.
+&emsp;The State educational agency, not later than 45 days after receipt of an applicationunder this section, shall review the application and submit the written comments of the agency regarding the application to the Secretary.
 
 #### (2) Comments
 
@@ -148,7 +148,7 @@ An application for a grant under this subpart may be approved only if the Secret
 
 &emsp;(B) limited English proficient children with disabilities will be identified and served through the program in accordance with the requirements of the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\];
 
-&emsp;(4) Federal funds made available for the program will be used to supplement the State andlocal funds that, in the absence of such Federal funds, would be expended for special programs for children of limited English proficient individuals, and in no case to supplant such State and local funds, except that nothing in this paragraph shall be construed to preclude a local educational agency from using funds made available under this subpart—
+&emsp;(4) Federal funds made available for the program will be used to supplement the State and local funds that, in the absence of such Federal funds, would be expended for special programs for children of limited English proficient individuals, and in no case to supplant such State and local funds, except that nothing in this paragraph shall be construed to preclude a local educational agency from using funds made available under this subpart—
 
 &emsp;&emsp;(A) for activities carried out under an order of a Federal or State court respecting services to be provided to such children; or
 

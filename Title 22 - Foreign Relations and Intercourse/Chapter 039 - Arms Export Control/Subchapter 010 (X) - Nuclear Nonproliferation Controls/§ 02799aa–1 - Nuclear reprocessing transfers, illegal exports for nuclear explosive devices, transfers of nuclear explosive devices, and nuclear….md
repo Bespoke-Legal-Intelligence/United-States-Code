@@ -10,7 +10,7 @@
 
 > For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
-(2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relationsof the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
+(2) Notwithstanding paragraph (1) of this subsection, the President in any fiscal year may furnish assistance which would otherwise be prohibited under that paragraph if he determines and certifies in writing during that fiscal year to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that the termination of such assistance would be seriously prejudicial to the achievement of United States nonproliferation objectives or otherwise jeopardize the common defense and security. The President shall transmit with such certification a statement setting forth the specific reasons therefor.
 
 (3)(A) A certification under paragraph (2) of this subsection shall take effect on the date on which the certification is received by the Congress. However, if, within 30 calendar days after receiving this certification, the Congress enacts a joint resolution stating in substance that the Congress disapproves the furnishing of assistance pursuant to the certification, then upon the enactment of that resolution the certification shall cease to be effective and all deliveries of assistance furnished under the authority of that certification shall be suspended immediately.
 
@@ -46,7 +46,7 @@
 
 &emsp;(C) The United States Government shall terminate all foreign military financing for that country under this chapter.
 
-&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of the United States Government, except that the sanction of this subparagraph shall not apply—
+&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of theUnited States Government, except that the sanction of this subparagraph shall not apply—
 
 &emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] (relating to congressional oversight of intelligence activities),
 
@@ -68,7 +68,7 @@
 
 (4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
-(B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) ofthis subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
+(B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
 (C) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
@@ -88,7 +88,7 @@
 
 As used in this section, the term “non-nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627.)
+(Pub. L. 90–629, ch. 10, §102, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat.516; amended Pub. L. 105–194, §2(a)–(c), July 14, 1998, 112 Stat. 627.)
 
 #### References in Text
 
@@ -122,7 +122,7 @@ Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: “The a
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905,set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a)(2) of this section delegated to Secretary of State by section 1(a)(iii) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 

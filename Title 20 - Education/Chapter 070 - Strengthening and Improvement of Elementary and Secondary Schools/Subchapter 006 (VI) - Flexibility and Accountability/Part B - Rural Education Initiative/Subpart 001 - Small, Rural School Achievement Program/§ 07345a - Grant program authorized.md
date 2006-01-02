@@ -8,7 +8,7 @@ The Secretary is authorized to award grants to eligible local educational agenci
 
 &emsp;(2) Part A or D of subchapter II of this chapter.
 
-&emsp;(3)Subchapter III of this chapter.
+&emsp;(3) Subchapter III of this chapter.
 
 &emsp;(4) Part A or B of subchapter IV of this chapter.
 
@@ -22,7 +22,7 @@ The Secretary is authorized to award grants to eligible local educational agenci
 
 #### (2) Determination of initial amount
 
-&emsp;The initial amount referred to in paragraph (1) is equal to $100 multiplied by the totalnumber of students in excess of 50 students, in average daily attendance at the schools served by the local educational agency, plus $20,000, except that the initial amount may not exceed $60,000.
+&emsp;The initial amount referred to in paragraph (1) is equal to $100 multiplied by the total number of students in excess of 50 students, in average daily attendance at the schools served by the local educational agency, plus $20,000, except that the initial amount may not exceed $60,000.
 
 #### (3) Ratable adjustment
 
@@ -40,7 +40,7 @@ The Secretary shall disburse the funds awarded to a local educational agency und
 
 #### (d) Special eligibility rule
 
-A local educational agency that is eligible to receive a grant under this subpart for a fiscal year is not eligible to receive funds for such fiscal year under subpart 2 of this part.
+A local educational agency that is eligible to receive a grant under this subpart for a fiscalyear is not eligible to receive funds for such fiscal year under subpart 2 of this part.
 
 (Pub. L. 89–10, title VI, §6212, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1892.)
 

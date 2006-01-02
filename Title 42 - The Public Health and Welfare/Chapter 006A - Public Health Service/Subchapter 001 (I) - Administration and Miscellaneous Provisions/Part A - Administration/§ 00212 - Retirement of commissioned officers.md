@@ -16,7 +16,7 @@
 
 &emsp;(iii) the number of years of service with which he was entitled to be credited for purposes of basic pay on May 31, 1958, or (if higher) on any date prior thereto, reduced by any such year included under clause (i) and further reduced by any such year with which he was entitled to be credited under paragraphs (7) and (8) of section 205(a) of title 37 on any date before June 1, 1958;
 
-> except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service\(computed without the application of subsection (e) of this section), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Service, it shall, instead, be 50 per centum of such pay, and (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay.
+> except that (C) in the case of any officer whose retired pay, so computed, is less than 50 per centum of such basic pay, who retires pursuant to paragraph (1) of this subsection, who has not less than twelve whole years of active service (computed without the application of subsection (e) of this section), and who does not use, for purposes of a retirement annuity under subchapter III of chapter 83 of title 5, any service which is also creditable in computing his retired pay from the Service, it shall, instead, be 50 per centum of such pay, and (D) the retired pay of an officer shall in no case be more than 75 per centum of such basic pay.
 
 (5) With the approval of the President, a commissioned officer whose service as Surgeon General, Deputy Surgeon General, or Assistant Surgeon General has totaled four years or more and who has had not less than twenty-five years of active service in the Service may retire voluntarily at any time; and except as provided in paragraph (6), his retired pay shall be at the rate of 75 per centum of the basic pay of the highest grade held by him as such officer.
 
@@ -120,7 +120,7 @@ Senior Biomedical Research Service changed to Silvio O. Conte Senior Biomedical 
 
 #### Effective Date of 1990 Amendment
 
-Section 529 \[title III, §304(c)\] of Pub. L. 101–509 provided that: “Except as otherwise provided, the provisions of this section \[enacting section 237 of this title and amending this section\] shall be effective on the 90th day following the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 529 \[title III, §304(c)\] of Pub. L. 101–509 provided that: “Except as otherwise provided, the provisions of this section \[enacting section 237 of this titleand amending this section\] shall be effective on the 90th day following the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1983 Amendment
 
@@ -150,7 +150,7 @@ Section 8(c), (d) of Pub. L. 86–415 provided that:
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of allagencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 

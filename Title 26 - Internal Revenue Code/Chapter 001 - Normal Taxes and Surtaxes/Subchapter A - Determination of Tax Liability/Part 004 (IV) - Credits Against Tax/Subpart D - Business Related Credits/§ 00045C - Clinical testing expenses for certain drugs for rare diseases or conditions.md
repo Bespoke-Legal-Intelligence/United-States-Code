@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (D) Special rule
 
-&emsp;&emsp;For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after June 30, 2004.
+&emsp;&emsp;For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2005.
 
 #### (2) Clinical testing
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
 
-(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919.)
+(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178.)
 
 #### References in Text
 
@@ -103,6 +103,8 @@ Sections 505(b), (i) and 526 of the Federal Food, Drug, and Cosmetic Act, referr
 Section 351 of the Public Health Service Act, referred to in subsec. (b)(2)(A)(ii)(II), is classified to section 262 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2004—Subsec. (b)(1)(D). Pub. L. 108–311 substituted “December 31, 2005” for “June 30, 2004”.
 
 1999—Subsec. (b)(1)(D). Pub. L. 106–170 substituted “June 30, 2004” for “June 30, 1999”.
 
@@ -128,7 +130,7 @@ Subsec. (a). Pub. L. 104–188, §1205(d)(1), substituted “For purposes of sec
 
 Subsec. (b)(1)(D). Pub. L. 104–188, §1204(e), inserted “, and before July 1, 1996, and periods after May 31, 1997” after “June 30, 1995”.
 
-Subsec. (d)(2) to (5). Pub. L. 104–188, §1205(d)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, andstruck out former par. (2) which read as follows: “
+Subsec. (d)(2) to (5). Pub. L. 104–188, §1205(d)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “
 
 Limitation based on amount of tax.—The credit allowed by this section for any taxable year shall not exceed the excess (if any) of—
 
@@ -166,7 +168,7 @@ Subsec. (b)(2)(A)(ii)(II). Pub. L. 99–514, §1879(b)(1)(B), inserted “or, if
 
 Subsec. (c). Pub. L. 99–514, §231(d)(3)(A)(i), (ii), substituted “41” for “30” in pars. (1) and (2) and “41(b)” for “30(b)” in par. (2).
 
-Subsec. (d)(1). Pub. L. 99–514, §1879(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this section, the term ‘rare disease or condition’ means any disease or condition which occurs so infrequently in the United States that there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section 526 of the Federal Food, Drug, and Cosmetic Act.”
+Subsec. (d)(1). Pub. L. 99–514, §1879(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this section, the term ‘rare disease or condition’ means any disease or condition which occurs so infrequently in the United States that there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect toany drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section 526 of the Federal Food, Drug, and Cosmetic Act.”
 
 Subsec. (d)(2). Pub. L. 99–514, §701(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The credit allowed by this section for any taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and section 27.”
 
@@ -190,6 +192,10 @@ Pub. L. 98–369, §474(g)(2), amended par. (2) generally, substituting “shall
 
 Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted “section 30(f)” for “section 44F(f)”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to amounts paid or incurred after June 30, 2004, see section 301(b) of Pub. L. 108–311, set out as a note under section 41 of this title.
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to amounts paid or incurred after June 30, 1999, see section 502(a)(3) of Pub. L. 106–170, set out as a note under section 41 of this title.
@@ -208,7 +214,7 @@ Section 604(b) of Pub. L. 105–34 provided that: “The amendment made by subse
 
 Amendment by section 1204(e) of Pub. L. 104–188 applicable to taxable years ending after June 30, 1996, and not to be taken into account under section 6654 or 6655 of this title in determining amount of any installment required to be paid for a taxable year beginning in 1997, see section 1204(f) of Pub. L. 104–188, set out as a note under section 41 of this title.
 
-Amendment by section 1205(a)(1), (b), (d)(1), (2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+Amendment by section 1205(a)(1), (b), (d)(1), (2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -257,10 +263,6 @@ For applicability of amendment by section 701(c)(2) of Pub. L. 99–514 notwiths
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 39, 280C of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

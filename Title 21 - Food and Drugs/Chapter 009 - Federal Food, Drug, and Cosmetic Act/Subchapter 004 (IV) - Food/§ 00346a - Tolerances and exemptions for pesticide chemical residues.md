@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;For purposes of clause (ii), the conditions described in this clause with respect to a tolerance for an eligible pesticide chemical residue are the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) Use of the pesticide chemical that produces the residue protects consumersfrom adverse effects on health that would pose a greater risk than the dietary risk from the residue.
+&emsp;&emsp;&emsp;&emsp;(I) Use of the pesticide chemical that produces the residue protects consumers from adverse effects on health that would pose a greater risk than the dietary risk from the residue.
 
 &emsp;&emsp;&emsp;&emsp;(II) Use of the pesticide chemical that produces the residue is necessary to avoid a significant disruption in domestic production of an adequate, wholesome, and economical food supply.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) available information about consumption patterns among infants and children that are likely to result in disproportionately high consumption of foods containing or bearing such residue among infants and children in comparison to the general population;
 
-&emsp;&emsp;&emsp;&emsp;(II) available information concerning the special susceptibility of infants and children to the pesticide chemical residues, including neurological differences between infants and children and adults, and effects of in utero exposure to pesticide chemicals; and
+&emsp;&emsp;&emsp;&emsp;(II) available information concerning the special susceptibility of infants andchildren to the pesticide chemical residues, including neurological differences between infants and children and adults, and effects of in utero exposure to pesticide chemicals; and
 
 &emsp;&emsp;&emsp;&emsp;(III) available information concerning the cumulative effects on infants and children of such residues and other substances that have a common mechanism of toxicity; and
 
@@ -144,7 +144,7 @@
 
 &emsp;&emsp;&emsp;(v) available information concerning the cumulative effects of such residues and other substances that have a common mechanism of toxicity;
 
-&emsp;&emsp;&emsp;(vi) available information concerning the aggregate exposure levels of consumers (and major identifiable subgroups of consumers) to the pesticide chemical residue and to other related substances, including dietary exposure under the tolerance andall other tolerances in effect for the pesticide chemical residue, and exposure from other non-occupational sources;
+&emsp;&emsp;&emsp;(vi) available information concerning the aggregate exposure levels of consumers (and major identifiable subgroups of consumers) to the pesticide chemical residue and to other related substances, including dietary exposure under the tolerance and all other tolerances in effect for the pesticide chemical residue, and exposure from other non-occupational sources;
 
 &emsp;&emsp;&emsp;(vii) available information concerning the variability of the sensitivities of major identifiable subgroups of consumers;
 
@@ -208,7 +208,7 @@
 
 #### (ii) Determination of safety
 
-&emsp;&emsp;&emsp;The term “safe”, with respect to an exemption for a pesticide chemical residue,means that the Administrator has determined that there is a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue, including all anticipated dietary exposures and all other exposures for which there is reliable information.
+&emsp;&emsp;&emsp;The term “safe”, with respect to an exemption for a pesticide chemical residue, means that the Administrator has determined that there is a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue, including all anticipated dietary exposures and all other exposures for which there is reliable information.
 
 #### (B) Factors
 
@@ -360,7 +360,7 @@
 
 #### (B) Hearing
 
-&emsp;&emsp;An objection may include a request for a public evidentiary hearing upon the objection. The Administrator shall, upon the initiative of the Administrator or upon the request of an interested person and after due notice, hold a public evidentiary hearing if and to the extent the Administrator determines that such a public hearing is necessary to receive factual evidence relevant to material issues of fact raised by the objections. The presiding officer in such a hearing may authorize a party to obtain discovery from other persons and may upon a showing of good cause made by a party issue a subpoena to compel testimony or production of documents from any person. The presiding officer shall be governed by the Federal Rules of Civil Procedure in making any order for the protection of the witness or the content of documents produced and shall order the payment of reasonable fees and expenses as a condition to requiring testimony of the witness. On contest, such a subpoena may be enforced by a Federal district court.
+&emsp;&emsp;An objection may include a request for a public evidentiary hearing upon the objection. The Administrator shall, upon the initiative of the Administrator or upon the request of an interested person and after due notice, hold a public evidentiary hearing if and to the extent the Administrator determines that such a public hearing is necessary to receive factual evidence relevant to material issues of fact raised by the objections. The presiding officer in such a hearing may authorize a party to obtain discovery from other persons and may upon a showing of good cause made by a party issue a subpoena to compel testimony or production of documents from any person. The presiding officer shall be governed by the Federal Rules of Civil Procedure in making any order for the protection of the witness or the content of documents produced and shall order the payment of reasonable fees and expenses as a condition to requiring testimonyof the witness. On contest, such a subpoena may be enforced by a Federal district court.
 
 #### (C) Final decision
 
@@ -378,7 +378,7 @@
 
 #### (3) Additional evidence
 
-&emsp;If a party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce the evidence in the proceeding before the Administrator, the court may order that the additional evidence (and evidence in rebuttal thereof) shall be taken before the Administrator in the manner and upon the terms and conditions the court deems proper. The Administrator may modify prior findings as to the facts by reason of the additional evidenceso taken and may modify the order or regulation accordingly. The Administrator shall file with the court any such modified finding, order, or regulation.
+&emsp;If a party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce the evidence in the proceeding before the Administrator, the court may order that the additional evidence (and evidence in rebuttal thereof) shall be taken before the Administrator in the manner and upon the terms and conditions the court deems proper. The Administrator may modify prior findings as to the facts by reason of the additional evidence so taken and may modify the order or regulation accordingly. The Administrator shall file with the court any such modified finding, order, or regulation.
 
 #### (4) Final judgment; Supreme Court review
 
@@ -438,7 +438,7 @@
 
 If, on the day before August 3, 1996, a substance that is a pesticide chemical was, with respect to a particular pesticidal use of the substance and any resulting pesticide chemical residue in or on a particular food—
 
-&emsp;(1) regarded by the Administrator or the Secretary as generally recognized as safe foruse within the meaning of the provisions of subsection (a) of this section or section 321(s) of this title as then in effect; or
+&emsp;(1) regarded by the Administrator or the Secretary as generally recognized as safe for use within the meaning of the provisions of subsection (a) of this section or section 321(s) of this title as then in effect; or
 
 &emsp;(2) regarded by the Secretary as a substance described by section 321(s)(4) of this title;
 
@@ -480,7 +480,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 &emsp;&emsp;(B) the residue does not exceed a level that was authorized at the time of that application or use to be present on the food under a tolerance, exemption, food additive regulation, or other sanction then in effect under this chapter;
 
-> &emsp;unless, in the case of any tolerance or exemption revoked, suspended, or modified under this subsection or subsection (d) or (e) of thissection, the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
+> &emsp;unless, in the case of any tolerance or exemption revoked, suspended, or modified under this subsection or subsection (d) or (e) of this section, the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
 
 #### (6) Tolerance for use of pesticides under an emergency exemption
 
@@ -566,7 +566,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (6) Urgent petition procedure
 
-&emsp;Any State petition to the Administrator pursuant to paragraph (5) that demonstrates that consumption of a food containing such pesticide residue level during the period of the food's likely availability in the State will pose a significant public health threat from acute exposure shall be considered an urgent petition. If an order by the Administrator to grant or deny the requested authorization in an urgent petition is not made within 30 days of receipt of the petition, the petitioning State may establish and enforce a temporary regulatory limit on a qualifying pesticide chemical residue in or on the food. The temporary regulatory limit shall be validated or terminated by the Administrator's final order on the petition.
+&emsp;Any State petition to the Administrator pursuant to paragraph (5) that demonstrates that consumption of a food containing such pesticide residue level during the period of the food's likely availability in the State will pose a significant public health threat from acute exposure shall be considered an urgent petition. If an order by the Administrator to grant or deny the requested authorization in an urgent petition is not made within 30 days of receipt of the petition, the petitioning Statemay establish and enforce a temporary regulatory limit on a qualifying pesticide chemical residue in or on the food. The temporary regulatory limit shall be validated or terminated by the Administrator's final order on the petition.
 
 #### (7) Residues from lawful application
 
@@ -592,7 +592,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (1) Development
 
-&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, orsuch other endocrine effect as the Administrator may designate.
+&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effect as the Administrator may designate.
 
 #### (2) Implementation
 
@@ -656,7 +656,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (1) In general
 
-&emsp;The Administrator shall review tolerances and exemptions for pesticide chemical residues in effect on the day before August 3, 1996,as expeditiously as practicable, assuring that—
+&emsp;The Administrator shall review tolerances and exemptions for pesticide chemical residues in effect on the day before August 3, 1996, as expeditiously as practicable, assuring that—
 
 &emsp;&emsp;(A) 33 percent of such tolerances and exemptions are reviewed within 3 years of August 3, 1996;
 
@@ -682,7 +682,7 @@ The Administrator may, upon the request of any person who has obtained an experi
 
 Nothing in this section shall be construed to amend or modify the provisions of the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
-(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036.)
+(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub.L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036.)
 
 #### References in Text
 
@@ -732,7 +732,7 @@ Subsec. (g). Pub. L. 102–571 substituted “379e” for “376”.
 
 1958—Subsec. (i)(2). Pub. L. 85–791, §20(a), in first sentence, substituted “transmitted by the clerk of the court to the Secretary, or” for “served upon the Secretary, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in section 2112 of title 28”, and which, in second sentence, substituted “the filing of such petition” for “such filing”.
 
-Subsec. (i)(3). Pub. L. 85–791, §20(b), in first sentence, substituted “transmitted by the clerk of the court to the Secretary of Agriculture, or” for “served upon the Secretary of Agriculture, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in section 2112 of title 28”, and, in second sentence, substituted “the filing of such petition” for “such filing”.
+Subsec. (i)(3). Pub. L. 85–791, §20(b), in first sentence, substituted “transmitted by the clerk of the court to the Secretary of Agriculture, or” for “served upon theSecretary of Agriculture, or upon”, substituted “file in the court the record of the proceedings” for “certify and file in the court a transcript of the proceedings and the record”, and inserted “as provided in section 2112 of title 28”, and, in second sentence, substituted “the filing of such petition” for “such filing”.
 
 #### Effective Date of 1984 Amendment
 

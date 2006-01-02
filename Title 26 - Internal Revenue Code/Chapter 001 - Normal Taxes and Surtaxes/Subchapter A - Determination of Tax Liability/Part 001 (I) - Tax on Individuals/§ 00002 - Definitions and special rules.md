@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) whose spouse died during either of his two taxable years immediately preceding the taxable year, and
 
-&emsp;&emsp;(B) who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section 152) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section 151.
+&emsp;&emsp;(B) who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section 151.
 
 > &emsp;For purposes of this paragraph, an individual shall be considered as maintaining a household only if over half of the cost of maintaining the household during the taxable year is furnished by such individual.
 
@@ -36,7 +36,11 @@
 
 &emsp;&emsp;(A) maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of—
 
-&emsp;&emsp;&emsp;(i) a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer's taxable year, only if the taxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or
+&emsp;&emsp;&emsp;(i) a qualifying child of the individual (as defined in section 152(c), determined without regard to section 152(e)), but not if such child—
+
+&emsp;&emsp;&emsp;&emsp;(I) is married at the close of the taxpayer's taxable year, and
+
+&emsp;&emsp;&emsp;&emsp;(II) is not a dependent of such individual by reason of section 152(b)(2) or 152(b)(3), or both, or
 
 &emsp;&emsp;&emsp;(ii) any other person who is a dependent of the taxpayer, if the taxpayer is entitled to a deduction for the taxable year for such person under section 151, or
 
@@ -48,13 +52,11 @@
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) a legally adopted child of a person shall be considered a child of such person by blood;
+&emsp;&emsp;(A) an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married;
 
-&emsp;&emsp;(B) an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married;
+&emsp;&emsp;(B) a taxpayer shall be considered as not married at the close of his taxable year if at any time during the taxable year his spouse is a nonresident alien; and
 
-&emsp;&emsp;(C) a taxpayer shall be considered as not married at the close of his taxable year if at any time during the taxable year his spouse is a nonresident alien; and
-
-&emsp;&emsp;(D) a taxpayer shall be considered as married at the close of his taxable year if his spouse (other than a spouse described in subparagraph (C)) died during the taxable year.
+&emsp;&emsp;(C) a taxpayer shall be considered as married at the close of his taxable year if his spouse (other than a spouse described in subparagraph (B)) died during the taxable year.
 
 #### (3) Limitations
 
@@ -64,9 +66,9 @@
 
 &emsp;&emsp;(B) by reason of an individual who would not be a dependent for the taxable year but for—
 
-&emsp;&emsp;&emsp;(i) paragraph (9) of section 152(a), or
+&emsp;&emsp;&emsp;(i) subparagraph (H) of section 152(d)(2), or
 
-&emsp;&emsp;&emsp;(ii) subsection (c) of section 152.
+&emsp;&emsp;&emsp;(ii) paragraph (3) of section 152(d).
 
 #### (c) Certain married individuals living apart
 
@@ -80,9 +82,23 @@ In the case of a nonresident alien individual, the taxes imposed by sections 1 a
 
 &emsp;&emsp;<b>For definition of taxable income, see section 63.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title I, §112(b), Feb. 26, 1964, 78 Stat. 24; Pub. L.91–172, title VIII, §803(b), Dec. 30, 1969, 83 Stat. 682; Pub. L. 93–597, §3(b), Jan. 2, 1975, 88 Stat. 1951; Pub. L. 94–455, title XIX, §1901(a)(1), (b)(9), Oct. 4, 1976, 90 Stat. 1764, 1795; Pub. L. 94–569, §3(a), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(a), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–369, div. A, title IV, §423(c)(2), July 18, 1984, 98 Stat. 801; Pub. L. 99–514, title XIII, §1301(j)(10), title XVII, §1708(a)(1), Oct. 22, 1986, 100 Stat. 2658, 2782; Pub. L. 100–647, title I, §1007(g)(13)(A), Nov. 10, 1988, 102 Stat. 3436.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title I, §112(b), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title VIII, §803(b), Dec. 30, 1969, 83 Stat. 682; Pub. L. 93–597, §3(b), Jan. 2, 1975, 88 Stat. 1951; Pub. L. 94–455, title XIX, §1901(a)(1), (b)(9), Oct. 4, 1976, 90 Stat. 1764, 1795; Pub. L. 94–569, §3(a), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(a), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–369, div. A, title IV, §423(c)(2), July 18, 1984, 98 Stat. 801; Pub. L. 99–514, title XIII, §1301(j)(10), title XVII, §1708(a)(1), Oct. 22, 1986, 100 Stat. 2658, 2782; Pub. L. 100–647, title I, §1007(g)(13)(A), Nov. 10, 1988, 102 Stat. 3436; Pub. L. 108–311, title II, §§202, 207(1), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §412(a), Dec. 21, 2005, 119 Stat. 2636.)
 
 #### Amendments
+
+2005—Subsec. (b)(2)(C). Pub. L. 109–135 substituted “subparagraph (B)” for “subparagraph (C)”.
+
+2004—Subsec. (a)(1)(B)(i). Pub. L. 108–311, §207(1), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+Subsec. (b)(1)(A)(i). Pub. L. 108–311, §202(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer's taxable year, only if the taxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or”.
+
+Subsec. (b)(2). Pub. L. 108–311, §202(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “a legally adopted child of a person shall be considered a child of such person by blood;”.
+
+Subsec. (b)(3)(B)(i), (ii). Pub. L. 108–311, §202(b)(2), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
+
+“(i) paragraph (9) of section 152(a), or
+
+“(ii) subsection (c) of section 152.”
 
 1988—Subsec. (d). Pub. L. 100–647 substituted “the taxes imposed by sections 1 and 55” for “the tax imposed by section 1”.
 
@@ -120,6 +136,10 @@ Subsec. (e). Pub. L. 91–172 redesignated as subsec. (e) provisions of former s
 
 1964—Subsec. (a). Pub. L. 88–272 inserted reference to section 141.
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title II, §208, Oct. 4, 2004, 118 Stat. 1178, provided that: “The amendments made by this title \[amending this section and sections 21, 24, 25B, 32, 42, 51, 72, 105, 120, 125, 129, 132, 151 to 153, 170, 213, 220, 221, 529, 2032A, 2057, 7701, 7702B, and 7703 of this title\] shall apply to taxable years beginning after December 31, 2004.”
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
@@ -149,8 +169,4 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–272, except for purposes of section 21 of this title, effective with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1, 32, 63, 151, 3402, 6012, 6013 of this title; title 20 sections 1087nn, 1087<i>oo</i>, 1087qq; title 38 section 1503.
 

@@ -10,7 +10,7 @@ The Secretary may also designate officers and employees of any State or of any p
 
 #### (c) Warrants and other process for enforcement
 
-The judges of the district courts of the United States and the United States magistrate judgesmay, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
+The judges of the district courts of the United States and the United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process, including warrants or other process issued in admiralty proceedings in United States district courts, as may be required for enforcement of this subchapter and any regulations issued thereunder.
 
 #### (d) Execution of process; arrest; search; seizure
 
@@ -36,7 +36,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 (4) If with respect to any marine mammal or marine mammal product or other cargo so seized—
 
-&emsp;(A) a civil penalty is assessed under section 1375(a) of this title and no judicial action is commenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
+&emsp;(A) a civil penalty is assessed under section 1375(a) of this title and no judicial action iscommenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
 
 &emsp;(B) no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with <sup>1</sup> thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title.
 

@@ -20,11 +20,11 @@ The Director shall—
 
 &emsp;&emsp;(C) provide reliable national estimates for children and persons with special health care needs through the use of supplements or periodic expansions of the survey.
 
-> &emsp;In expanding the Medical Expenditure Panel Survey, as in existence on December 6, 1999, infiscal year 2001 to collect information on the quality of care, the Director shall take into account any outcomes measurements generally collected by private sector accreditation organizations.
+> &emsp;In expanding the Medical Expenditure Panel Survey, as in existence on December 6, 1999, in fiscal year 2001 to collect information on the quality of care, the Director shall take into account any outcomes measurements generally collected by private sector accreditation organizations.
 
 #### (2) Annual report
 
-&emsp;Beginning in fiscal year 2003, the Secretary, acting through the Director, shall submit to Congress an annual report on national trends in the quality of health care provided to the American people.
+&emsp;Beginning in fiscal year 2003, the Secretary, acting through the Director, shall submit to Congress an annual report on national trendsin the quality of health care provided to the American people.
 
 (July 1, 1944, ch. 373, title IX, §913, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1658.)
 

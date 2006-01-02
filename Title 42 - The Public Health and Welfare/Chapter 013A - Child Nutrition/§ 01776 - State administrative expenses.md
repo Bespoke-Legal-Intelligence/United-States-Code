@@ -76,7 +76,7 @@ If any State agency agrees to assume responsibility for the administration of fo
 
 #### (d) Unused funds; availability for obligation and expenditure, and reallocation to other States
 
-Notwithstanding any other provision of law, funds made available to each State under thissection shall remain available for obligation and expenditure by that State during the fiscal year immediately following the fiscal year for which such funds were made available. For each fiscal year the Secretary shall establish a date by which each State shall submit to the Secretary a plan for the disbursement of funds provided under this section for each such year, and the Secretary shall reallocate any unused funds, as evidenced by such plans, to other States as the Secretary considers appropriate.
+Notwithstanding any other provision of law, funds made available to each State under this section shall remain available for obligation and expenditure by that State during the fiscal year immediately following the fiscal year for which such funds were made available. For each fiscal year the Secretary shall establish a date by which each State shall submit to the Secretary a plan for the disbursement of funds provided under this section for each such year, and the Secretary shall reallocate any unused funds, as evidenced by such plans, to other States as the Secretary considers appropriate.
 
 #### (e) Plans for use of administrative expense funds
 
@@ -96,7 +96,7 @@ Notwithstanding any other provision of law, funds made available to each State u
 
 &emsp;&emsp;&emsp;(i) monitoring the nutrient content of meals served;
 
-&emsp;&emsp;&emsp;(ii) training local educational agencies, school food authorities, and schools in how to use technology and information management systems (including verifying eligibility for free or reduced price meals using program participation or income data gathered by State or local agencies); and
+&emsp;&emsp;&emsp;(ii) training local educational agencies, school food authorities, and schools in how to use technology and information management systems (including verifying eligibility for free or reduced price mealsusing program participation or income data gathered by State or local agencies); and
 
 &emsp;&emsp;&emsp;(iii) using electronic data to establish benchmarks to compare and monitor program integrity, program participation, and financial data.
 
@@ -182,7 +182,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry out this paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
+&emsp;&emsp;Subject to the availability of funds made available under paragraph (4) to carry outthis paragraph, the Secretary shall, on a competitive basis, provide funds to States to be used to provide grants to local educational agencies, school food authorities, and schools to defray the cost of purchasing or upgrading technology and information management systems for use in programs authorized by this chapter (other than section 1786 of this title) and the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
 #### (B) Infrastructure development plan
 
@@ -244,7 +244,7 @@ Subsec. (g). Pub. L. 105–336, §202(c), substituted “2003” for “1998”.
 
 1996—Subsec. (e). Pub. L. 104–193, §724(b), substituted “the initial fiscal year a plan” for “each year an annual plan” and inserted at end “After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.”
 
-Pub. L. 104–193, §724(a), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The State may use a portion of the funds available under this section to assist in the administration of the commodity distribution program.”
+Pub. L. 104–193, §724(a), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The State may use a portion of the funds availableunder this section to assist in the administration of the commodity distribution program.”
 
 Subsecs. (f), (g). Pub. L. 104–193, §724(a)(2), redesignated subsecs. (g) and (i) as (f) and (g), respectively. Former subsec. (f) redesignated (e).
 

@@ -20,9 +20,9 @@ An eligible grantee shall submit an application to the Attorney General that—
 
 In awarding grants under this subchapter, the Attorney General shall give priority to applicants that—
 
-&emsp;(1) do not currently provide for centralized handling of cases involving domestic violence by police, prosecutors, and courts;
+&emsp;(1) do not currently provide for centralized handling of cases involving domestic violence, dating violence, sexual assault, or stalking by police, prosecutors, and courts;
 
-&emsp;(2) demonstrate a commitment to strong enforcement of laws, and prosecution of cases, involving domestic violence, including the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions);
+&emsp;(2) demonstrate a commitment to strong enforcement of laws, and prosecution of cases, involving domestic violence, dating violence, sexual assault, or stalking, including the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions);
 
 &emsp;(3) have established cooperative agreements or can demonstrate effective ongoing collaborative arrangements with neighboring jurisdictions to facilitate the enforcement of protection orders from other States and jurisdictions (including tribal jurisdictions); and
 
@@ -32,9 +32,11 @@ In awarding grants under this subchapter, the Attorney General shall give priori
 
 The Attorney General shall annually compile and broadly disseminate (including through electronic publication) information about successful data collection and communication systems that meet the purposes described in this section. Such dissemination shall target States, State and local courts, Indian tribal governments, and units of local government.
 
-(Pub. L. 90–351, title I, §2102, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; amended Pub. L. 106–386, div. B, title I, §1101(a)(3), (b)(3), Oct. 28, 2000, 114 Stat. 1492, 1493.)
+(Pub. L. 90–351, title I, §2102, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1933; amended Pub. L. 106–386, div. B, title I, §1101(a)(3), (b)(3), Oct. 28, 2000, 114 Stat. 1492, 1493; Pub. L. 109–162, title I, §102(c), Jan. 5, 2006, 119 Stat. 2977.)
 
 #### Amendments
+
+2006—Subsec. (b)(1), (2). Pub. L. 109–162 inserted “, dating violence, sexual assault, or stalking” after “involving domestic violence”.
 
 2000—Subsec. (a)(1)(B). Pub. L. 106–386, §1101(b)(3), inserted before semicolon “or, in the case of the condition set forth in subsection 3796hh(c)(4) of this title, the expiration of the 2-year period beginning on October 28, 2000”.
 

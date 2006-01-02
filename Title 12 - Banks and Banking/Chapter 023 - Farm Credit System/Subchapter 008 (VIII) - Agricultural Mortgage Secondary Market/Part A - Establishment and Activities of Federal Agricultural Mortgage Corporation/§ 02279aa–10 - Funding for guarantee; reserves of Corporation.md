@@ -26,7 +26,7 @@ The Corporation shall provide guarantees for securities representing interests i
 
 #### (1) In general
 
-&emsp;So much of the fees assessed under this section as the Board determines to be necessaryshall be set aside by the Corporation in a segregated account as a reserve against losses arising out of the guarantee activities of the Corporation.
+&emsp;So much of the fees assessed under this section as the Board determines to be necessary shall be set aside by the Corporation in a segregated account as a reserve against losses arising out of the guarantee activities of the Corporation.
 
 #### (2) Exhaustion of reserve required
 

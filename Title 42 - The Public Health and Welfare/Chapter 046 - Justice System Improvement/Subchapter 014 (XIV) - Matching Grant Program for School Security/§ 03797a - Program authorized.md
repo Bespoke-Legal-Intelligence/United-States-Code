@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.
+The Attorney General, acting through the Office of Community Oriented Policing Services, is authorized to make grants to States, units of local government, and Indian tribes to provide improved security, including the placement and use of metal detectors and other deterrent measures, at schools and on school grounds.
 
 #### (b) Uses of funds
 
@@ -38,5 +38,9 @@ In awarding grants under this subchapter, the Attorney General shall ensure, to 
 
 The Attorney General may reserve not more than 2 percent from amounts appropriated to carry out this subchapter for administrative costs.
 
-(Pub. L. 90–351, title I, §2701, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1501.)
+(Pub. L. 90–351, title I, §2701, as added Pub. L. 106–386, div. B, title I, §1108(b), Oct. 28, 2000, 114 Stat. 1501; amended Pub. L. 109–162, title XI, §1169(b), Jan. 5, 2006, 119 Stat. 3122.)
+
+#### Amendments
+
+2006—Subsec. (a). Pub. L. 109–162 inserted “, acting through the Office of Community Oriented Policing Services,” after “The Attorney General”.
 

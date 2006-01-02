@@ -16,7 +16,7 @@ In each annual authorization and appropriation request, the Secretary shall iden
 
 #### (d) Consultations respecting coordination of programs
 
-The Secretary of Energy, after consultation with the Director, shall consult with the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Transportation, the Secretary of Commerce, the Administrator of the Community Services Administration, theAdministrator of the Environmental Protection Agency, or their appointed representatives, in order to coordinate the programs under the Director's responsibility with other programs within the Department of Energy and in such Federal agencies, which are related to the production of alcohol.
+The Secretary of Energy, after consultation with the Director, shall consult with the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Transportation, the Secretary of Commerce, the Administrator of the Community Services Administration, the Administrator of the Environmental Protection Agency, or their appointed representatives, in order to coordinate the programs under the Director's responsibility with other programs within the Department of Energy and in such Federal agencies, which are related to the production of alcohol.
 
 (Pub. L. 96–294, title II, §220, June 30, 1980, 94 Stat. 696.)
 

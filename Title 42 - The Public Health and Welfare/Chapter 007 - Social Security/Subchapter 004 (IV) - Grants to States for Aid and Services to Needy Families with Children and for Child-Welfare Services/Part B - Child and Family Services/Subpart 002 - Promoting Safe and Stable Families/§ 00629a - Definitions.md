@@ -22,7 +22,7 @@ As used in this subpart:
 
 &emsp;&emsp;(E) services designed to improve parenting skills (by reinforcing parents’ confidence in their strengths, and helping them to identify where improvement is needed and to obtain assistance in improving those skills) with respect to matters such as child development, family budgeting, coping with stress, health, and nutrition; and
 
-&emsp;&emsp;(F) infant safe haven programs to provide a way for a parent to safely relinquish a newborn infant at a safe haven designated pursuant to a State law.
+&emsp;&emsp;(F) infant safe haven programs to provide a way for a parent to safely relinquish anewborn infant at a safe haven designated pursuant to a State law.
 
 #### (2) Family support services
 

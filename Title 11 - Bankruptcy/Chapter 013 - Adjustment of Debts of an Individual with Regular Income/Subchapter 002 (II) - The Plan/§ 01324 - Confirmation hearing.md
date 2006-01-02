@@ -1,8 +1,10 @@
 ### §1324. Confirmation hearing
 
-After notice, the court shall hold a hearing on confirmation of the plan. A party in interest may object to confirmation of the plan.
+(a) Except as provided in subsection (b) and after notice, the court shall hold a hearing on confirmation of the plan. A party in interest may object to confirmation of the plan.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §529, July 10, 1984, 98 Stat. 389; Pub. L. 99–554, title II, §283(x), Oct. 27, 1986, 100 Stat. 3118.)
+(b) The hearing on confirmation of the plan may be held not earlier than 20 days and not later than 45 days after the date of the meeting of creditors under section 341(a), unless the court determines that it would be in the best interests of the creditors and the estate to hold such hearing at an earlier date and there is no objection to such earlier date.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2649; Pub. L. 98–353, title III, §529, July 10, 1984, 98 Stat. 389; Pub. L. 99–554, title II, §283(x), Oct. 27, 1986, 100 Stat. 3118; Pub. L. 109–8, title III, §317, Apr. 20, 2005, 119 Stat. 92.)
 
 #### Historical and Revision Notes
 
@@ -12,9 +14,15 @@ Any party in interest may object to the confirmation of a plan, as distinguished
 
 #### Amendments
 
+2005—Pub. L. 109–8 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) and after” for “After”, and added subsec. (b).
+
 1986—Pub. L. 99–554 struck out “the” after “object to”.
 
 1984—Pub. L. 98–353 struck out “the” before “confirmation of the plan”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

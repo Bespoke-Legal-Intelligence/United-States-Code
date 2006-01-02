@@ -38,7 +38,7 @@
 
 &emsp;(3) the effective and timely implementation of policy, program, and budget decisions and instructions of the President or the Secretary of Defense relating to the functions of the Department of the Air Force;
 
-&emsp;(4) carrying out the functions of the Department of the Air Force so as to fulfill the current and future operational requirements of the unified and specified combatant commands;
+&emsp;(4) carrying out the functions of the Department of the Air Force so as to fulfill the current and future operational requirements ofthe unified and specified combatant commands;
 
 &emsp;(5) effective cooperation and coordination between the Department of the Air Force and the other military departments and agencies of the Department of Defense to provide for more effective, efficient, and economical administration and to eliminate duplication;
 
@@ -76,11 +76,5 @@ Another prior section 8013 was renumbered section 8014 of this title and subsequ
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of Defense, see Ex. Ord. No. 13000, Apr. 24, 1996, 61 F.R. 18483, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Air Force, see Ex. Ord. No. 12909, Apr. 22, 1994, 59 F.R. 21909, set out as a note under section 3345 of Title 5.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 162, 8033, 10174 of this title.
 

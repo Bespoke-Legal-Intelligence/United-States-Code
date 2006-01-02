@@ -38,7 +38,7 @@
 
 #### (F) Consultation
 
-&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
+&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate,\(ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
 
 #### (2) Minimum State allocation
 
@@ -52,7 +52,7 @@
 
 #### (3) Minimum local allocation
 
-&emsp;The Secretary shall allocate funds available for formula allocation to units of general local government that, as of the end of the previous fiscal year, qualified as metropolitan cities,urban counties, and consortia approved by the Secretary in accordance with section 12746(2) of this title so that, when all such funds are initially allocated by formula, jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation. Prior to announcing initial allocations, the Secretary shall successively recalculate the allocations to jurisdictions under this subsection so that the maximum number of such jurisdictions can receive initial allocations, except as provided in paragraph (4).
+&emsp;The Secretary shall allocate funds available for formula allocation to units of general local government that, as of the end of the previous fiscal year, qualified as metropolitan cities, urban counties, and consortia approved by the Secretary in accordance with section 12746(2) of this title so that, when all such funds are initially allocated by formula, jurisdictions that are allocated an amount of $500,000 or more, and participating jurisdictions (other than consortia that fail to renew the membership of all of their member jurisdictions) that are allocated an amount less than $500,000, shall receive an allocation. Prior to announcing initial allocations, the Secretary shall successively recalculate the allocations to jurisdictions under this subsection so that the maximum number of such jurisdictions can receive initial allocations, except as provided in paragraph (4).
 
 #### (4) Threshold reduction
 
@@ -100,7 +100,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 &emsp;Unless otherwise specified in this part, any reallocation of funds from a State shall be made only among all participating States, and any reallocation of funds from units of general local government shall be made only among all participating units of general local government.
 
-(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752,3756; Pub. L. 104–330, title V, §505(a)(1), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 105–65, title II, §214, Oct. 27, 1997, 111 Stat. 1366.)
+(Pub. L. 101–625, title II, §217, Nov. 28, 1990, 104 Stat. 4105; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–230, §1, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–273, §1, Apr. 21, 1992, 106 Stat. 113; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1581; Pub. L. 102–550, title II, §§202(b), 203(b), 211(a)(2), Oct. 28, 1992, 106 Stat. 3751, 3752, 3756; Pub. L. 104–330, title V, §505(a)(1), Oct. 26, 1996, 110 Stat. 4044; Pub. L. 105–65, title II, §214, Oct. 27, 1997, 111 Stat. 1366.)
 
 #### Amendments
 
@@ -138,7 +138,7 @@ Pub. L. 102–550, §211(a)(2)(B), struck out par. (3), as added by Pub. L. 102�
 
 Subsec. (b)(1)(A). Pub. L. 102–550, §203(b)(1), (6), redesignated subpar. (B) as (A) and struck out former subpar. (A) which provided for a formula for allocation of funds for production of affordable rental housing through new construction or substantial rehabilitation.
 
-Pub. L. 102–273 added cl. (iii) reading as follows: “Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed.”
+Pub. L. 102–273 added cl. (iii) reading as follows: “Notwithstanding clauses (i) and (ii), any jurisdiction receiving amounts made available under such clause may, at the discretion of the jurisdiction, use such amounts for other eligible uses in accordance with section 12742 of this title if the jurisdiction determines that such use will better meet the housing needs within the jurisdiction. This clause shall be effective only with respect to funds provided under the Departmentsof Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 (Public Law 102–139; 105 Stat. 744), which suspends the requirement of contributions by participating jurisdictions, and shall become ineffective if such requirement is reimposed.”
 
 Subsec. (b)(1)(B), (C). Pub. L. 102–550, §203(b)(6), redesignated subpars. (C) and (D) as (B) and (C), respectively. Former subpar. (B) redesignated (A).
 

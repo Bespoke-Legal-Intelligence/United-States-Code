@@ -14,7 +14,7 @@ The Secretary shall not provide funds for the operation or maintenance of a proj
 
 (Pub. L. 102–575, title XVI, §1636, as added Pub. L. 108–233, §2(a), May 28, 2004, 118 Stat. 654.)
 
-#### Codification
+#### Prior Provisions
 
-Another section 1636 of Pub. L. 102–575 is classified to section 390h–17a of this title.
+Another section 1636 of Pub. L. 102–575 was renumbered 1637 and is classified to section 390h–19 of this title.
 

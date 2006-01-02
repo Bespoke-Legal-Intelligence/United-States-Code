@@ -104,7 +104,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 #### (1) Referral of complaint
 
-&emsp;If a complaint to the Commission alleges a violation of this section with respect to intrastate telecommunications relay services within a State and certification of the program of such State under subsection (f) of this section is in effect, the Commission shall refer such complaint to such State.
+&emsp;If a complaint to the Commission alleges a violation of this section with respect to intrastate telecommunications relay services within a State and certification of the program of such State under subsection (f) of this sectionis in effect, the Commission shall refer such complaint to such State.
 
 #### (2) Jurisdiction of Commission
 

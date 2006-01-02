@@ -36,7 +36,7 @@ Parts A and B of this subchapter, referred to in subsec. (a), are classified to 
 
 #### Amendments
 
-2003—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
+2003—Subsec. (b). Pub. L. 108–173 inserted at end “The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number aretransferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) of this section instead of the listing of numbers of individual contractors.”
 
 1997—Subsec. (c). Pub. L. 105–33 added subsec. (c).
 

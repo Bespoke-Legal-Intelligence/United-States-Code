@@ -1,6 +1,16 @@
 ### §1047. Allowance for civilian clothing
 
-The Secretary of the military department concerned may furnish civilian clothing, at a cost of not more than $40, to an enlisted member who is—
+(a)
+
+Members Traveling In Connection With Medical Evacuation.—The Secretary of the military department concerned may furnish civilian clothing to a member at a cost not to exceed $250, or reimburse a member for the purchase of civilian clothing in an amount not to exceed $250, in the case of a member who—
+
+&emsp;(1) is medically evacuated for treatment in a medical facility by reason of an illness or injury incurred or aggravated while on active duty; or
+
+&emsp;(2) after being medically evacuated as described in paragraph (1), is in an authorized travel status from a medical facility to another location approved by the Secretary.
+
+(b)
+
+Certain Enlisted Members.—The Secretary of the military department concerned may furnish civilian clothing, at a cost of not more than $40, to an enlisted member who is—
 
 &emsp;(1) discharged for misconduct or unsuitability or under conditions other than honorable;
 
@@ -10,7 +20,7 @@ The Secretary of the military department concerned may furnish civilian clothing
 
 &emsp;(4) discharged before completion of recruit training under honorable conditions for dependency, hardship, minority, or disability or for the convenience of the Government.
 
-(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2615.)
+(Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375, div. A, title V, §584(a), Oct. 28, 2004, 118 Stat. 1929.)
 
 #### Prior Provisions
 
@@ -133,6 +143,22 @@ Mar. 23, 1928, ch. 232, title I, 45 Stat. 332.
 Feb. 23, 1927, ch. 167, title I, 44 Stat. 1113.
 
 Apr. 15, 1926, ch. 146, title I, 44 Stat. 262.
+
+#### Amendments
+
+2004—Pub. L. 108–375 added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
+
+#### Effective Date of 2004 Amendment; Retroactive Application
+
+Pub. L. 108–375, div. A, title V, §584(b), (c), Oct. 28, 2004, 118 Stat. 1930, provided that:
+
+“(b)
+
+Effective Date.—Subsection (a) of section 1047 of title 10, United States Code, as added by subsection (a), shall take effect as of October 1, 2004, and (subject to subsection (c)) shall apply with respect to clothing furnished, and reimbursement for clothing purchased, on or after that date.
+
+“(c)
+
+Retroactive Application.—With respect to the period beginning on October 1, 2004, and ending on the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall provide for subsection (a) of section 1047 of title 10, United States Code, as added by subsection (a), to be applied as a continuation of the authority provided in section 1319 of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 571), as continued in effect during fiscal year 2004 by section 1103 of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 (Public Law 108–106; 117 Stat. 1214).”
 
 #### Effective Date
 

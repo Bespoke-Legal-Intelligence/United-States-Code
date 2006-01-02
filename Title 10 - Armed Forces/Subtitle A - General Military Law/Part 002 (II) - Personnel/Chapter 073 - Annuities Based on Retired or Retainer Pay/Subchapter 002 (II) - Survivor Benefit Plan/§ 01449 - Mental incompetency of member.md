@@ -10,7 +10,7 @@ Revocation of Election by Member.—
 
 &emsp;(1)
 
-Authority upon subsequent determination of mental competence.—If a person for whom the Secretary has made an election under subsection (a) is later determined to be mentally competent by an authority named in that subsection, that person may, within 180days after that determination, revoke that election.
+Authority upon subsequent determination of mental competence.—If a person for whom the Secretary has made an election under subsection (a) is later determined to be mentally competent by an authority named in that subsection, that person may, within 180 days after that determination, revoke that election.
 
 &emsp;(2)
 
@@ -29,8 +29,4 @@ Deductions from retired pay not to be refunded.—Any deduction made from retire
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuities payable by virtue of amendment for months beginning on or after such date, see section 210 of Pub. L. 95–397, set out as a note under section 1447 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1450, 1460a of this title.
 

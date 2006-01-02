@@ -60,7 +60,7 @@ Vesting of Title in the United States.—If a contract paid by a method authoriz
 
 (i)
 
-Action in Case of Fraud.—(1) In any case in which the remedy coordination official of an agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that agency is based on fraud, the remedy coordination official shall recommend that the head of the agency reduce or suspend further payments to such contractor.
+Action in Case of Fraud.—(1) In any case in which the remedy coordination official of an agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contractawarded by that agency is based on fraud, the remedy coordination official shall recommend that the head of the agency reduce or suspend further payments to such contractor.
 
 (2) The head of an agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the agency head may reduce or suspend further payments to the contractor under such contract.
 
@@ -106,7 +106,7 @@ Act
 
 Feb. 19, 1948, ch. 65, §5, 62 Stat. 23.
 
-In subsection (a), the words “and appropriate” are omitted as surplusage. The words “whether or not thecontract previously provided for such payments” are substituted for the words “heretofore or hereafter executed”.
+In subsection (a), the words “and appropriate” are omitted as surplusage. The words “whether or not the contract previously provided for such payments” are substituted for the words “heretofore or hereafter executed”.
 
 In subsection (b), the words “under subsection (a)” are inserted for clarity. The words “provide for” are substituted for the words “include as security provision for”. The words “United States” are substituted for the word “Government”.
 
@@ -152,7 +152,7 @@ Subsec. (e). Pub. L. 103–355, §2001(a)(7), redesignated subsec. (d) as (e). F
 
 Pub. L. 103–355, §2001(a)(6), inserted heading.
 
-Subsec. (e)(1). Pub. L. 103–355, §2001(e)(1), substituted “work accomplished that meets standards established under the contract” for “work, which meets standards of quality established under the contract, that has been accomplished”.
+Subsec. (e)(1). Pub. L. 103–355, §2001(e)(1), substituted “work accomplished that meets standards established under the contract” for “work, which meets standardsof quality established under the contract, that has been accomplished”.
 
 Subsec. (e)(3). Pub. L. 103–355, §2001(e)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection does not apply to any contract for an amount not in excess of the amount of the small purchase threshold.”
 
@@ -198,13 +198,9 @@ Section 2001(h) of Pub. L. 103–355 provided that: “The amendments made by th
 
 #### Limitations on Progress Payments
 
-Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
+Pub. L. 99–145, title IX, §916, Nov. 8, 1985, 99 Stat. 688, which required Secretary of Defense to ensure that any progress payment under a defense contract be commensurate with work accomplished at standard of quality in contract, that such payments be limited to 80 percent of work accomplished so long as contract terms are indefinite, that this provision be waived for small purchases, and that this provision apply only to contracts for which solicitations were issued on or after 150 days after Nov. 8, 1985, was repealed and restated in subsec. (e) of this section by Pub. L. 100–370, §1(f)(1), July 19, 1988, 102 Stat. 846.
 
 #### Obligations Entered Into Before November 16, 1973
 
 Section 807(e) of Pub. L. 93–155 provided that: “The amendments made by this section \[amending this section, section 1431 of Title 50, War and National Defense, and sections 468 and 2092 of Appendix to Title 50\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2310, 2323, 7362 of this title; title 50 section 403c.
 

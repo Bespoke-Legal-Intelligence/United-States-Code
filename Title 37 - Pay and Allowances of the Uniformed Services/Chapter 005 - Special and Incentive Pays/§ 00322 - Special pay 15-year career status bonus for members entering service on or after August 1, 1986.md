@@ -56,17 +56,13 @@ Notification of Eligibility.—(1) The Secretary concerned shall transmit to eac
 
 (f)
 
-Repayment of Bonus.—(1) If a person paid a bonus under this section fails to complete a period of active duty beginning on the date on which the election of the person under subsection (a)(1) is received and ending on the date on which the person completes 20 years of active-duty service as described in subsection (a)(2), the person shall refund to the United States the amount that bears the same ratio to the amount of the bonus payment as the uncompleted part of that period of active-duty service bears to the total period of such service.
+Repayment.—If a person paid a bonus under this section does not complete a period of active duty beginning on the date on which the election of the person under paragraph (1) of subsection (a) is received and ending on the date on which the person completes 20 years of active duty service as described in paragraph (2) of such subsection, the person shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(2) Subject to paragraph (3), an obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) The Secretary concerned may waive, in whole or in part, a refund required under paragraph (1) if the Secretary concerned determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
-
-(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under the agreement or this subsection.
-
-(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662; amended Pub. L.107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138.)
+(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138; Pub. L. 109–163, div. A, title VI, §687(b)(30), Jan. 6, 2006, 119 Stat. 3332.)
 
 #### Amendments
+
+2006—Subsec. (f). Pub. L. 109–163, amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when person elects to receive bonus to remain continuously on active duty until completion of 20 years but fails to complete total period.
 
 2001—Subsec. (d)(1). Pub. L. 107–107, §620(a)(1), substituted “equal to $30,000” for “paid in a single lump sum of $30,000”.
 
@@ -75,6 +71,10 @@ Subsec. (d)(2) to (4). Pub. L. 107–107, §620(a)(2), (3), added pars. (2) and 
 #### Effective Date
 
 Section effective Oct. 1, 1999, see section 644 of Pub. L. 106–65, set out as an Effective Date of 1999 Amendment note under section 1401a of Title 10, Armed Forces.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Application to Existing Agreements
 

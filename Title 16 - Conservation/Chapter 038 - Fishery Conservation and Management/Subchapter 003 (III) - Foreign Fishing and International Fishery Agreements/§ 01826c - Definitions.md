@@ -10,7 +10,7 @@ In sections 1826a to 1826c of this title, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “large-scale driftnet fishing”means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 #### (B) Exception
 

@@ -10,7 +10,7 @@ The State of Utah shall exercise civil and criminal jurisdiction with respect to
 
 #### (c) Plan for enlargement of reservation; negotiation; development; scope and approval
 
-Inasmuch as the Kanosh, Koosharem and Indian Peaks Bands of Paiute Indians lost land which had been their former reservations and the Cedar City Band of Paiute Indians had never had a reservation, the Secretary shall negotiate with the tribe or bands, or with representatives of the tribe chosen by the tribe or bands, concerning the enlargement of the reservation for the tribe established pursuant to subsection (a) of this section and shall within two years after April 3, 1980, develop a plan for the enlargement of the reservation for the tribe. The plan shall include acquisition of not to exceed a total of fifteen thousand acres of land to be selected from available public, State, or private lands within Beaver, Iron, Millard, Sevier, or Washington Counties, Utah. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 765 of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
+Inasmuch as the Kanosh, Koosharem and Indian Peaks Bands of Paiute Indians lost land which had been their former reservations and the Cedar Band of Paiute Indians had never had a reservation, the Secretary shall negotiate with the tribe or bands, or with representatives of the tribe chosen by the tribe or bands, concerning the enlargement of the reservation for the tribe established pursuant to subsection (a) of this section and shall within two years after April 3, 1980, develop a plan for the enlargement of the reservation for the tribe. The plan shall include acquisition of not to exceed a total of fifteen thousand acres of land to be selected from available public, State, or private lands within Beaver, Iron, Millard, Sevier, or Washington Counties, Utah. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 765 of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
 
 #### (d) Notification and consultative requirements for enlargement plan
 
@@ -34,7 +34,7 @@ Any plan developed under this section for the enlargement of the reservation for
 
 &emsp;(1) the enlargement of the reservation will not grant or restore to the tribe or any member of the tribe any hunting, fishing, or trapping right of any nature, including any indirect or procedural right or advantage, on such addition to the reservation;
 
-&emsp;(2) the Secretary shall not accept any real property in trust for the benefit of the tribe or bands unless such real property is located either within Beaver, Iron, Millard, Sevier, or Washington Counties, State of Utah;
+&emsp;(2) the Secretary shall not accept any real property in trust for the benefit of the tribe orbands unless such real property is located either within Beaver, Iron, Millard, Sevier, or Washington Counties, State of Utah;
 
 &emsp;(3) the transfer of any real property to the Secretary in trust for the benefit of the tribe or bands as an addition to the reservation shall be exempt from all Federal, State, and local taxation, and all such real property shall, as of the date of such transfer, be exempt from Federal, State, and local taxation; and
 
@@ -44,25 +44,95 @@ Any plan developed under this section for the enlargement of the reservation for
 
 The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed by subsection (d) of this section was carried out and shall include any written comments with respect to the enlargement of the reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
 
-(Pub. L. 96–227, §7, Apr. 3, 1980, 94 Stat. 320.)
+(Pub. L. 96–227, §7, Apr. 3, 1980, 94 Stat. 320; Pub. L. 109–126, §4, Dec. 7, 2005, 119 Stat. 2547.)
 
 #### References in Text
 
 Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79), referred to in subsecs. (b) and (e)(4), probably means section 7 of act Aug. 15, 1953, ch. 505, 67 Stat. 590, which was set out as a note under section 1360 of Title 28, Judiciary and Judicial Procedure, and was repealed by Pub. L. 90–284, title IV, §403(b), Apr. 11, 1968, 82 Stat. 79. For complete classification of this Act to the Code, see Tables.
 
+#### Amendments
+
+2005—Subsec. (c). Pub. L. 109–126 substituted “Cedar” for “Cedar City”.
+
+#### Conveyance of Land Held in Trust for Paiute Indian Tribe of Utah
+
+Pub. L. 109–126, Dec. 7, 2005, 119 Stat. 2546, provided that:
+
+#### “SECTION 1. LAND CONVEYANCE TO CITY.
+
+“(a)
+
+Authorization for Conveyance.—Not later than 90 days after the Secretary receives a request from the Tribe and the City to convey all right, title, and interest of the United States and the Tribe in and to the Property to the City, the Secretary shall take the Property out of trust status and convey the Property to the City.
+
+“(b)
+
+Terms and Conditions.—The conveyance under subsection (a) shall be subject to the following conditions:
+
+&emsp;“(1)
+
+Tribal resolution.—Prior to conveying the Property under subsection (a), the Secretary shall ensure that the terms of the sale have been approved by a tribal resolution of the Tribe.
+
+&emsp;“(2)
+
+Consideration.—Consideration given by the City for the Property shall be not less than the appraised fair market value of the Property.
+
+&emsp;“(3)
+
+No federal cost.—The City shall pay all costs related to the conveyance authorized under this section.
+
+“(c)
+
+Proceeds of Sale.—The proceeds from the conveyance of the Property under this section shall be given immediately to the Tribe.
+
+“(d)
+
+Failure to Make Conveyance.—If after the Secretary takes the Property out of trust status pursuant to subsection (a) the City or the Tribe elect not to carry out the conveyance under that subsection, the Secretary shall take the Property back into trust for the benefit of the Tribe.
+
+#### “SEC. 2. TRIBAL RESERVATION.
+
+“Land acquired by the United States in trust for the Tribe after February 17, 1984, shall be part of the Tribe's reservation.
+
+#### “SEC. 3. TRUST LAND FOR SHIVWITS OR KANOSH BANDS.
+
+“If requested to do so by a tribal resolution of the Tribe, the Secretary shall take land held in trust by the United States for the benefit of the Tribe out of such trust status and take that land into trust for the Shivwits or Kanosh Bands of the Paiute Indian Tribe of Utah, as so requested by the Tribe.
+
+#### “SEC. 4. CEDAR BAND OF PAIUTES TECHNICAL CORRECTION.
+
+“The Paiute Indian Tribe of Utah Restoration Act (25 U.S.C. 761 \[et seq.\]) is amended by striking ‘Cedar City’ each place it appears and inserting ‘Cedar’. Any reference in a law, map, regulation, document, paper, or other record of the United States to the ‘Cedar City Band of Paiute Indians’ shall be deemed to be a reference to the ‘Cedar Band of Paiute Indians’.
+
+#### “SEC. 5. DEFINITIONS.
+
+“For the purposes of this Act:
+
+&emsp;“(1)
+
+City.—The term ‘City’ means the City of Richfield, Utah.
+
+&emsp;“(2)
+
+Property.—The term ‘Property’ means the parcel of land held by the United States in trust for the Paiute Indian Tribe of Utah located in Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, Sevier County, Utah and more particularly described as follows: Beginning at a point on the East line of the Highway which is West 0.50 chains, more or less, and South 8° 21° West, 491.6 feet from the Northeast Corner of the Southwest Quarter of Section 2, Township 24 South, Range 3 West, Salt Lake Base and Meridian, and running thence South 81° 39° East, perpendicular to the highway, 528.0 feet; thence South 26° 31° West, 354.6 feet; thence North 63° 29° West, 439.3 feet to said highway; thence North 8° 21° East, along Easterly line of said highway 200.0 feet to the point of beginning, containing 3.0 acres more or less.
+
+&emsp;“(3)
+
+Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+
+&emsp;“(4)
+
+Tribe.—The term ‘Tribe’ means the Paiute Indian Tribe of Utah.”
+
 #### Reservation of Paiute Indian Tribe of Utah
 
-Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, provided that:
+Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, as amended by Pub. L. 109–126, §4, Dec. 7, 2005, 119 Stat. 2547, provided that:
 
 “Section 1. (a) Subject to subsection (d), all right, title, and interest of the United States in the lands described in subsection (b) (including all improvements thereon and appurtenances thereto) are declared to be held in trust by the United States for the benefit of the respective bands of the Paiute Indian Tribe of Utah, as provided in subsection (b), and are declared to be part of the reservation of the Paiute Indian Tribe of Utah.
 
-“(b) The lands subject to this section are parcels 1 through 5 of the lands depicted on the maps contained in the draft document entitled ‘Proposed Paiute Indian Tribe of Utah Reservation Plan’, dated January 24, 1982, and published by the United States Department of the Interior, Bureau of Indian Affairs. Upon enactment of this Act \[Feb. 17, 1984\], the Secretary shall publish in the Federal Register the legal description of the lands so depicted. The Secretary is authorized to correct any technical errors in the descriptions of the subject lands. Such lands shall be held as follows:
+“(b) The lands subject to this section are parcels 1 through 5 of the lands depicted on the maps contained in the draft document entitled ‘Proposed Paiute Indian Tribe of Utah Reservation Plan’, dated January 24, 1982, and published by the United States Department of the Interior, Bureau of Indian Affairs. Upon enactment of this Act \[Feb. 17, 1984\], the Secretary shall publish in the Federal Register the legal description of the lands so depicted. The Secretary is authorized to correct anytechnical errors in the descriptions of the subject lands. Such lands shall be held as follows:
 
 &emsp;“(1) To be held in trust for the Kanosh Band of the Paiute Tribe of Utah: Parcel numbered 2, figure 5, page 95, containing approximately five hundred and sixty acres; parcel numbered 3, figure 6, page 99, containing approximately five hundred and two acres.
 
 &emsp;“(2) To be held in trust for the Koosharem Band of the Paiute Tribe of Utah: Parcel numbered 4, figure 7, page 105, containing approximately five hundred and twenty acres; parcel numbered 5, figure 8, page 111, containing approximately seven hundred and fifteen acres.
 
-&emsp;“(3) To be held in trust for the Cedar City Band of the Paiute Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately two thousand forty-four acres.
+&emsp;“(3) To be held in trust for the Cedar Band of the Paiute Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately two thousand forty-four acres.
 
 &emsp;“(4) To be held in trust for the Indian Peaks Band of the Paiute Indian Tribe of Utah: That portion of parcel numbered 1, figure 4, page 85, containing approximately four hundred and twenty-four acres.
 
@@ -96,7 +166,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, provided that:
 
 “(2) Under no circumstances shall any part of the principal of the Fund be distributed to the tribe, or to any member of the tribe, nor shall income accruing to the Fund be used for per capita payments to any member of the tribe.
 
-“(3) The Secretary shall make available to the tribe in quarterly payments, without any deductions, any income received from the investment of each fund. The use of the income from the Tribal Government Fund shall be free of regulation by the Secretary. The use of the income from the Economic Development Fund shall be consistent with an economic development plan developed by the tribe and approved by the Secretary. The Secretary shall approve such plan within sixty days of its submission if he finds that it is reasonably related to the economic development of the tribe. If the Secretary does not approve such plan, he shall, at the time of his decision, set forth in writing the reasons for his disapproval. With the approval of the Secretary, the tribe may alter the economic development plan subject to the conditions set forth in this section.
+“(3) The Secretary shall make available to the tribe in quarterly payments, without any deductions, any income received from the investment of each fund. The use of the income from the Tribal Government Fund shall be free of regulation by the Secretary. The use of the income from the Economic Development Fund shall be consistent with an economic development plan developed by the tribe and approved by the Secretary. The Secretary shall approve such plan within sixty days of its submission if he finds that it is reasonably related to the economic development of the tribe. If the Secretary does not approve such plan, he shall, at the time of his decision, set forth in writing the reasons for his disapproval. With the approval of the Secretary, thetribe may alter the economic development plan subject to the conditions set forth in this section.
 
 “(c) There is authorized to be appropriated in fiscal year 1985 the sum of $2,500,000, which shall be deposited in the Fund. Not more than 5 per centum of any amount appropriated to the Fund under this section may be obligated or spent by the tribe under any contract or agreement relating to the employment of legal counsel.
 
@@ -104,7 +174,7 @@ Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11, provided that:
 
 “Sec. 5. For purposes of this Act—
 
-&emsp;“(1) the term ‘tribe’ means the Cedar City, Shivwits, Kanosh, Koosharem, and Indian Peaks Bands of Paiute Indians of Utah; and
+&emsp;“(1) the term ‘tribe’ means the Cedar, Shivwits, Kanosh, Koosharem, and Indian Peaks Bands of Paiute Indians of Utah; and
 
 &emsp;“(2) except where otherwise specified, the term ‘Secretary’ means the Secretary of the Interior.”
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and appointment of members
 
-There is established a commission to be known as the “National Commission on Crime Control and Prevention”. The Commission shall be composed of 28 members appointed as follows:
+There is established a commission to be known as the “National Commission on CrimeControl and Prevention”. The Commission shall be composed of 28 members appointed as follows:
 
 &emsp;(1) 10 persons by the President, not more than 6 of whom shall be of the same major political party.
 

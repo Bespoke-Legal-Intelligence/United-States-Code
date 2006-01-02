@@ -14,7 +14,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 > shall be dispensed only (i) upon a written prescription of a practitioner licensed by law to administer such drug, or (ii) upon an oral prescription of such practitioner which is reduced promptly to writing and filed by the pharmacist, or (iii) by refilling any such written or oral prescription if such refilling is authorized by the prescriber either in the original prescription or by oral order which is reduced promptly to writing and filed by the pharmacist. The act of dispensing a drug contrary to the provisions of this paragraph shall be deemed to be an act which results in the drug being misbranded while held for sale.
 
-(2) Any drug dispensed by filling or refilling a written or oral prescription of a practitioner licensed by law to administer such drug shall be exempt from the requirements of section 352 of this title, except paragraphs (a), (i)(2) and (3), (k), and (<i>l</i>), and the packaging requirements of paragraphs (g), (h), and (p), if the drug bears a label containing the name and address of the dispenser, the serial number and date of the prescription or of its filling, the name of the prescriber, and, if stated in the prescription, the name of the patient, and the directions for use and cautionary statements, if any, contained in such prescription. This exemption shall not apply to any drug dispensed in the course of the conduct of a business of dispensing drugs pursuant to diagnosis by mail, or to a drug dispensed in violation of paragraph (1) of this subsection.
+(2) Any drug dispensed by filling or refilling a written or oral prescription of a practitioner licensed by law to administer such drug shall be exempt from the requirements of section 352 of this title, except paragraphs (a), (i)(2) and (3), (k), and (<i>l</i>), and the packaging requirements of paragraphs (g), (h), and (p), if the drug bears a label containing the name and address of the dispenser, the serial number and date of the prescription or of its filling, the name of the prescriber, and, if stated in the prescription, the name of the patient, and the directions for use and cautionary statements, if any, contained in such prescription. This exemption shall not apply to any drug dispensed in the course of theconduct of a business of dispensing drugs pursuant to diagnosis by mail, or to a drug dispensed in violation of paragraph (1) of this subsection.
 
 (3) The Secretary may by regulation remove drugs subject to section 355 of this title from the requirements of paragraph (1) of this subsection when such requirements are not necessary for the protection of the public health.
 
@@ -94,7 +94,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(C) Drug manufacturers or authorized distributors of record shall conduct, at least annually, a complete and accurate inventory of all drug samples in the possession of representatives of the manufacturer or authorized distributor of record. Drug manufacturers or authorized distributors of record shall maintain lists of the names and address of each of their representatives who distribute drug samples and of the sites where drug samples are stored. Drug manufacturers or authorized distributors of record shall maintain records for at least 3 years of all drug samples distributed, destroyed, or returned to the manufacturer or authorized distributor of record, of all inventories maintained under this subparagraph, of all thefts or significant losses of drug samples, and of all requests made under subparagraph (A) for drug samples. Records and lists maintained under this subparagraph shall be made available by the drug manufacturer or authorized distributor of record to the Secretary upon request.
 
-&emsp;(D) Drug manufacturers or authorized distributors of record shall notify the Secretaryof any significant loss of drug samples and any known theft of drug samples.
+&emsp;(D) Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
 
 &emsp;(E) Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) of this section or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
 
@@ -122,7 +122,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;(i) because of its toxicity or other potentiality for harmful effect, or the method of its use, or the collateral measures necessary for its use, is not safe for animal use except under the professional supervision of a licensed veterinarian, or
 
-&emsp;(ii) is limited by an approved application under subsection (b) of section 360b of this title, a conditionally-approved application under section 360ccc of this title, or an index listing under section 360ccc–1 of this title to use under the professional supervision of a licensed veterinarian,
+&emsp;(ii) is limited by an approved application under subsection (b) of section 360b of thistitle, a conditionally-approved application under section 360ccc of this title, or an index listing under section 360ccc–1 of this title to use under the professional supervision of a licensed veterinarian,
 
 > shall be dispensed only by or upon the lawful written or oral order of a licensed veterinarian in the course of the veterinarian's professional practice.
 
@@ -150,7 +150,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (3) The Secretary may by regulation exempt drugs for animals other than man subject to section 360b, 360ccc, or 360ccc–1 of this title from the requirements of paragraph (1) when such requirements are not necessary for the protection of the public health.
 
-(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement “Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.”. A drug to which paragraph (1) doesnot apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
+(4) A drug which is subject to paragraph (1) shall be deemed to be misbranded if at any time prior to dispensing its label fails to bear the statement “Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.”. A drug to which paragraph (1) does not apply shall be deemed to be misbranded if at any time prior to dispensing its label bears the statement specified in the preceding sentence.
 
 #### (g) Regulation of combination products
 
@@ -178,7 +178,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 (E)(i) Any dispute regarding the timeliness of the premarket review of a combination product may be presented to the Office for resolution, unless the dispute is clearly premature.
 
-(ii) During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
+(ii) During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by theagency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
 
 (F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
 
@@ -206,7 +206,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 &emsp;&emsp;(iii) approval of a biologics license application under subsection (a) of section 262 of title 42.
 
-(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, titleI, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903.)
+(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903.)
 
 #### References in Text
 
@@ -242,7 +242,7 @@ Subsec. (g)(4)(B)(iii). Pub. L. 105–115, §123(e)(2), substituted “biologics
 
 1996—Subsec. (f)(1)(A). Pub. L. 104–250 inserted “, other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug,” after “other than man” in introductory provisions.
 
-1992—Subsec. (d)(1). Pub. L. 102–353, §4(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraphs (2) and (3), no representative of a drug manufacturer or distributor may distribute any drug sample.”
+1992—Subsec. (d)(1). Pub. L. 102–353, §4(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except as provided in paragraphs (2) and (3),no representative of a drug manufacturer or distributor may distribute any drug sample.”
 
 Subsec. (d)(2). Pub. L. 102–353, §4(2), substituted “authorized distributor of record” for “distributor” wherever appearing.
 
@@ -330,7 +330,7 @@ Amendment by act Oct. 26, 1951, effective six months after Oct. 26, 1951, see se
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Effective Medication Guides
 
@@ -338,7 +338,7 @@ Pub. L. 104–180, title VI, §601, Aug. 6, 1996, 110 Stat. 1593, provided that:
 
 “(a)
 
-In General.—Not later than 30 days after the date of enactment of this Act \[Aug. 6, 1996\], the Secretary of the Department of Health and Human Services shall request that national organizations representing health care professionals, consumer organizations, voluntary health agencies, the pharmaceutical industry, drug wholesalers, patient drug information database companies, and other relevant parties collaborate to develop a long-range comprehensive action plan to achieve goals consistent with the goals of the proposed rule of the Food and Drug Administration on ‘Prescription Drug Product Labeling: Medication Guide Requirements’ (60 Fed. Reg. 44182; relating to the provision of oral and written prescription information to consumers).
+In General.—Not later than 30 days after the date of enactment of this Act \[Aug. 6, 1996\], the Secretary of the Department of Health and Human Services shall request that national organizations representing health care professionals, consumer organizations, voluntary health agencies, the pharmaceutical industry, drug wholesalers, patient drug information database companies, and other relevant parties collaborate to develop a long-range comprehensive action plan to achieve goals consistent with the goals of the proposed rule of the Food and Drug Administration on‘Prescription Drug Product Labeling: Medication Guide Requirements’ (60 Fed. Reg. 44182; relating to the provision of oral and written prescription information to consumers).
 
 “(b)
 

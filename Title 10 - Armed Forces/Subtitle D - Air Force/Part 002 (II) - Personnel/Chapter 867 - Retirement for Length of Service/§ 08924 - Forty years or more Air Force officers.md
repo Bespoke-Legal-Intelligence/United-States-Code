@@ -42,7 +42,3 @@ In subsection (b), the applicability of 10:942 to warrant officers is based on a
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1406, 8926 of this title.
-

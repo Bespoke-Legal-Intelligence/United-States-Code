@@ -22,5 +22,5 @@ The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act M
 
 #### Codification
 
-Pub. L. 108–447, which directed amendment of the Securities Exchange Act of 1934 by adding this section atthe end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
+Pub. L. 108–447, which directed amendment of the Securities Exchange Act of 1934 by adding this section at the end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
 

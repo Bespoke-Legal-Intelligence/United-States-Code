@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The United States district courts shall have original and exclusive jurisdiction of any civil action brought in the United States by or against the Bank.
+The United States district courts shall have original and exclusive jurisdiction of any civilaction brought in the United States by or against the Bank.
 
 #### (b) Venue
 

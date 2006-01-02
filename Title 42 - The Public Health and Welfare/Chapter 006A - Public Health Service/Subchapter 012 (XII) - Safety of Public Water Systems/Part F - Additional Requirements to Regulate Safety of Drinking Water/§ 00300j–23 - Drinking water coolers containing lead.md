@@ -14,7 +14,7 @@ Any person who knowingly violates the prohibition contained in subsection (b) of
 
 #### (d) Civil penalty
 
-The Administrator may bring a civil action in the appropriate United States District Court (as determined under the provisions of title 28) toimpose a civil penalty on any person who violates subsection (b) of this section. In any such action the court may impose on such person a civil penalty of not more than $5,000 ($50,000 in the case of a second or subsequent violation).
+The Administrator may bring a civil action in the appropriate United States District Court (asdetermined under the provisions of title 28) to impose a civil penalty on any person who violates subsection (b) of this section. In any such action the court may impose on such person a civil penalty of not more than $5,000 ($50,000 in the case of a second or subsequent violation).
 
 (July 1, 1944, ch. 373, title XIV, §1463, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2885; amended Pub. L. 104–182, title V, §501(f)(9), Aug. 6, 1996, 110 Stat. 1692.)
 

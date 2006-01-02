@@ -24,7 +24,7 @@ Aug. 29, 1916, ch. 417 (proviso of 2d sentence in 1st paragraph under “Hospita
 
 Aug. 4, 1947, ch. 459, §302, 61 Stat. 738.
 
-The authority to transfer Navy personnel to the Hospital Corps and personnel of that Corps to otherbranches or designations in the Navy is omitted as unnecessary because transfers within the Navy are permitted under provisions which authorize the Secretary of the Navy to establish grades and ratings (34 U.S.C. 176) and to administer the Department (5 U.S.C. 171a(c)).
+The authority to transfer Navy personnel to the Hospital Corps and personnel of that Corps to other branches or designations in the Navy is omitted as unnecessary because transfers within the Navy are permitted under provisions which authorize the Secretary of the Navy to establish grades and ratings (34 U.S.C. 176) and to administer the Department (5 U.S.C. 171a(c)).
 
 The saving provision of 34 U.S.C. 34a which provided that no person would suffer any reduction in grade, rating, or pay, is omitted as executed. It pertained to personnel who, when the Hospital Corps was reorganized under the Act of August 4, 1947, ch. 459, §§301, 302, 61 Stat. 738, were in grades and ratings prescribed by prior laws.
 

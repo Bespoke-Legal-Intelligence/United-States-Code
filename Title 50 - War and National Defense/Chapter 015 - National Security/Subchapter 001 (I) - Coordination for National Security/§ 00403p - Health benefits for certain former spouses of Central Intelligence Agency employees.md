@@ -50,7 +50,7 @@ Notwithstanding subsections (a), (b), and (c) of this section and except as prov
 
 (1) Any former spouse who remarries before age fifty-five is not eligible to make an election under subsection (b)(1) of this section.
 
-(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section or to subsection (d) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of the thirty-one-day period beginning on the date of remarriage.
+(2) Any former spouse enrolled in a health benefits plan pursuant to an election under subsection (b)(1) of this section or to subsection (d) of this section may continue the enrollment under the conditions of eligibility which the Director of the Office of Personnel Management shall by regulation prescribe, except that any former spouse who remarries before age fifty-five shall not be eligible for continued enrollment under this section after the end of thethirty-one-day period beginning on the date of remarriage.
 
 (3)(A) A former spouse who is not eligible to enroll or to continue enrollment in a health benefits plan under this section solely because of remarriage before age fifty-five shall be restored to such eligibility on the date such remarriage is dissolved by death, annulment, or divorce.
 
@@ -95,6 +95,8 @@ Subsecs. (f), (g). Pub. L. 103–178, §203(c)(1)(A), redesignated subsecs. (d) 
 1991—Subsec. (c)(3). Pub. L. 102–88 added par. (3).
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

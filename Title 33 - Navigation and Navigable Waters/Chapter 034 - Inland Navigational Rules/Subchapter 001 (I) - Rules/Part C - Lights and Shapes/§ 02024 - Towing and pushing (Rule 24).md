@@ -72,7 +72,7 @@ Where from any sufficient cause it is impracticable for a vessel or object being
 
 #### (i) Western Rivers or other specified waters; exception
 
-Notwithstanding paragraph (c), on the Western Rivers (except below the Huey P. Long Bridge on the Mississippi River) and on waters specified by the Secretary, a power-driven vessel when pushing ahead or towing alongside, except as paragraph (b) applies, shall exhibit:
+Notwithstanding paragraph (c), on the Western Rivers (except below the Huey P. Long Bridge on the Mississippi River) and on waters specified by the Secretary, a power-driven vesselwhen pushing ahead or towing alongside, except as paragraph (b) applies, shall exhibit:
 
 &emsp;(i) sidelights; and
 

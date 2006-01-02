@@ -26,9 +26,9 @@ The proviso in section 250(1) of title 28, U.S.C., 1940 ed., relating to claims 
 
 The exception in section 250(1) of title 28, U.S.C., 1940 ed., as to pension claims appears in section 1501 of this title.
 
-Words “in respect of which claims the party would be entitled to redress against the United States either in a court of law, equity, or admiralty, if the United States were suable” were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940 ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
+Words “in respect of which claims the party would be entitled to redress against the United States either in a court of law, equity, or admiralty, if the United States were suable” were omitted as unnecessary since the Court of Claims manifestly, under this section willdetermine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940 ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
 
-For additional provisions respecting jurisdiction of the court of claims in war contract settlement casessee section 114b of Title 41, U.S.C., 1940 ed., Public Contracts.
+For additional provisions respecting jurisdiction of the court of claims in war contract settlement cases see section 114b of Title 41, U.S.C., 1940 ed., Public Contracts.
 
 Changes were made in phraseology.
 
@@ -104,7 +104,7 @@ Section 2 of Pub. L. 92–415 provided that: “This Act \[amending this section
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–350 applicable to claims and civil actions dismissed before or pending on July 23, 1970, if the claim or civil action was based upon a transaction, omission, or breach that occurred not more than six years prior to July 23, 1970, notwithstanding a determination or judgment made prior to July 23, 1970, that the United States district courts or the United States Court of Claims did not have jurisdiction to entertain a suit on an express or implied contract with a nonappropriated fund instrumentality of the United States, see section 2 of Pub. L. 91–350, set out as a note under section 1346 of this title.
+Amendment by Pub. L. 91–350 applicable to claims and civil actions dismissed before or pending on July23, 1970, if the claim or civil action was based upon a transaction, omission, or breach that occurred not more than six years prior to July 23, 1970, notwithstanding a determination or judgment made prior to July 23, 1970, that the United States district courts or the United States Court of Claims did not have jurisdiction to entertain a suit on an express or implied contract with a nonappropriated fund instrumentality of the United States, see section 2 of Pub. L. 91–350, set out as a note under section 1346 of this title.
 
 #### Savings Provision
 

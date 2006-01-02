@@ -52,7 +52,7 @@
 
 #### (4) Contract authority
 
-&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, area studies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 5 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods up to one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
+&emsp;The Secretary may enter into one or more contracts, with private national organizations having an expertise in foreign languages, area studies, counterproliferation studies, and other international fields, for the awarding of the scholarships, fellowships, and grants described in paragraph (1) in accordance with the provisions of this chapter. The Secretary may enter into such contracts without regard to section 5 of title 41 or any other provision of law that requires the use of competitive procedures. In addition, the Secretary may enter into personal service contracts for periods upto one year for program administration, except that not more than 10 such contracts may be in effect at any one time.
 
 #### (b) Service agreement
 
@@ -94,7 +94,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (1) The Secretary shall provide for the admission of award recipients to the Foreign Language Center of the Defense Language Institute (hereinafter in this subsection referred to as the “Center”). An award recipient may apply a portion of the applicable scholarship or fellowship award for instruction at the Center on a space-available basis as a Department of Defense sponsored program to defray the additive instructional costs.
 
-(2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the same regulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
+(2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the sameregulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
 
 (3) In this subsection, the term “award recipient” means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section who—
 
@@ -122,7 +122,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;(ii) to continue in the service of such department or agency, following completion by the employee of such training, for a period of two years for each year, or part of the year, of such training;
 
-&emsp;(iii) if, before the completion by the employee of such training, the employment ofthe employee is terminated by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States for the total cost of such training (excluding the employee's pay and allowances) provided to the employee; and
+&emsp;(iii) if, before the completion by the employee of such training, the employment of the employee is terminated by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States for the total cost of such training (excluding the employee's pay and allowances) provided to the employee; and
 
 &emsp;(iv) if, after the completion by the employee of such training but before the completion by the employee of the period of service required by clause (ii), the employment of the employee by such department or agency is terminated either by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States in an amount that bears the same ratio to the total cost of such training (excluding the employee's pay and allowances) provided to the employee as the unserved portion of such period of service bears to the total period of service required by clause (ii).
 
@@ -208,7 +208,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Construction
 
-Pub. L. 107–306, title III, §333(d), Nov. 27, 2002, 116 Stat. 2397, provided that: “Nothing in this section \[enacting section 1911 of this title, amending this section and section 1903 of this title, and enacting provisions set out as notes under this section\] shall be construed as affecting any program or project carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] as in effect on the date that precedes the date of the enactment of this Act \[Nov. 27, 2002\].”
+Pub. L. 107–306, title III, §333(d), Nov. 27, 2002, 116 Stat. 2397, provided that: “Nothing in this section \[enacting section 1911 of this title, amending this section and section 1903 of this title, and enacting provisionsset out as notes under this section\] shall be construed as affecting any program or project carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] as in effect on the date that precedes the date of the enactment of this Act \[Nov. 27, 2002\].”
 
 #### Increase in Number of Participating Educational Institutions
 

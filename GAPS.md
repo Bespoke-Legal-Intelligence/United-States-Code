@@ -14,3 +14,4 @@ left exactly as it was in its last available edition, and its changes appear in 
 | 2004 | USCODE-2004-title10 | not in govinfo (absent from GPO's sitemap for this edition) | the 2003 edition |
 | 2004 | USCODE-2004-title26 | not in govinfo (absent from GPO's sitemap for this edition) | the 2003 edition |
 | 2004 | USCODE-2004-title46 | not in govinfo (absent from GPO's sitemap for this edition) | the 2003 edition |
+| 2005 | USCODE-2005-title46 | not in govinfo (absent from GPO's sitemap for this edition) | the 2003 edition |

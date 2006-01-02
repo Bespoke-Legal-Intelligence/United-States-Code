@@ -10,7 +10,7 @@
 
 &emsp;(A) <sup>1</sup>
 
-Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; exceptthat the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
+Targeting.—Except as provided in paragraph (4), of the public housing dwelling units of a public housing agency made available for occupancy in any fiscal year by eligible families, not less than 40 percent shall be occupied by families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes.
 
 #### (3) Prohibition of concentration of low-income families
 
@@ -42,7 +42,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 &emsp;&emsp;Subject to subparagraph (C), the credit number under this subparagraph for a public housing agency for a fiscal year shall be the number by which—
 
-&emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistance under section 1437f of this title by the agency; exceeds
+&emsp;&emsp;&emsp;(i) the aggregate number of qualified families who, in such fiscal year, are initially provided tenant-based assistanceunder section 1437f of this title by the agency; exceeds
 
 &emsp;&emsp;&emsp;(ii) the number of qualified families that is required for the agency to comply with the percentage requirement under subsection (b)(1) of this section for such fiscal year.
 
@@ -126,7 +126,7 @@ Notwithstanding subsection (a)(2) or (b)(1) of this section, if approved by the 
 
 Notwithstanding any other provision of law, a public housing agency shall establish standards for occupancy in public housing dwelling units and assistance under section 1437f of this title that—
 
-&emsp;(1) permanently prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, anyperson who has been convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law; and
+&emsp;(1) permanently prohibit occupancy in any public housing dwelling unit by, and assistance under section 1437f of this title for, any person who has been convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law; and
 
 &emsp;(2) immediately and permanently terminate the tenancy in any public housing unit of, and the assistance under section 1437f of this title for, any person who is convicted of manufacturing or otherwise producing methamphetamine on the premises in violation of any Federal or State law.
 
@@ -152,7 +152,7 @@ October 1, 1981, referred to in subsec. (c)(1), (2), was in the original “the 
 
 1998—Subsecs. (a) to (d). Pub. L. 105–276, §513(a), as amended by Pub. L. 105–277, §123, added subsecs. (a) to (d) and struck out former subsecs. (a) to (d). Prior to amendment, subsec. (a) related to percentage availability under contracts prior to Oct. 1, 1981, subsec. (b) related to percentage availability under contracts on or after Oct. 1, 1981, subsec. (c) related to admission procedures implementing subsec. (b), and subsec. (d) related to applicability of admission procedures limitations.
 
-Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed public housing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
+Subsec. (e). Pub. L. 105–276, §576(d)(2), struck out heading and text of subsec. (e), which directed publichousing agency to establish standards to prohibit occupancy by and terminate tenancy of any person illegally using controlled substance or whose use of controlled substance or abuse of alcohol might interfere with peaceful enjoyment of premises by other residents, and authorized agency to consider rehabilitation of person in making determination to deny occupancy.
 
 Subsec. (f). Pub. L. 105–276, §428, added subsec. (f).
 

@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) deaf-blindness is among the most severe of all forms of disabilities, and there is a great and continuing need for services and training to help individuals who are deaf-blind attain the highest possible level of development;
 
-&emsp;(2) due to the rubella epidemic of the 1960's, the rapidly increasing number of older persons many of whom are experiencing significant losses of both vision and hearing, and recent advances in medical technology that have sustained the lives of many severely disabled individuals, including individuals who are deaf-blind, who might not otherwise have survived, the need for services for individuals who aredeaf-blind is even more pressing now than in the past;
+&emsp;(2) due to the rubella epidemic of the 1960's, the rapidly increasing number of older persons many of whom are experiencing significant losses of both vision and hearing, and recent advances in medical technology that have sustained the lives of many severely disabled individuals, including individuals who are deaf-blind, who might not otherwise have survived, the need for services for individuals who are deaf-blind is even more pressing now than in the past;
 
 &emsp;(3) helping individuals who are deaf-blind to become self-sufficient, independent, and employable by providing the services and training necessary to accomplish that end will benefit the Nation, both economically and socially;
 

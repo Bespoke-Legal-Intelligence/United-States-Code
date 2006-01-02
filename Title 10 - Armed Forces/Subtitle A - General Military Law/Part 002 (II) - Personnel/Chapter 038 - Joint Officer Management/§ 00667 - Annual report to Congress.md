@@ -8,7 +8,7 @@ The Secretary of Defense shall include in the annual report of the Secretary to 
 
 &emsp;(2) The number of officers with the joint specialty, shown by grade and branch or specialty and by education.
 
-&emsp;(3) The number of officers on the active-duty list with a military occupational specialtydesignated under section 661(c)(2) of this title as a critical occupational specialty who—
+&emsp;(3) The number of officers on the active-duty list with a military occupational specialty designated under section 661(c)(2) of this title as a critical occupational specialty who—
 
 &emsp;&emsp;(A) have been selected for the joint specialty;
 
@@ -157,8 +157,4 @@ Pub. L. 103–160, div. A, title IX, §931(e), Nov. 30, 1993, 107 Stat. 1734, pr
 &emsp;“(1) The degree of progress made toward meeting the requirements of section 619a of title 10, United States Code.
 
 &emsp;“(2) The compliance achieved with each of the plans developed pursuant to subsection (d) \[set out as a note under section 619a of this title\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 664 of this title.
 

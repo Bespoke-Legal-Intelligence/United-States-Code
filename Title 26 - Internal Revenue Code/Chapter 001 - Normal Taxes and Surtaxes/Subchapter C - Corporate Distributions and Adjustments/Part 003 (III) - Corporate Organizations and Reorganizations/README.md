@@ -14,10 +14,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 197, 301, 337 of this title.
-
 
 ---
 

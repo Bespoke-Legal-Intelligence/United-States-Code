@@ -48,13 +48,13 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (b)(1)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (b)(1)(D), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35\(§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (b)(1)(D), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Legal Services Corporation Act, referred to in subsec. (b)(1)(E), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Part C of the Developmental Disabilities Assistance and Bill of Rights Act.”
+2000—Subsec. (b)(1)(A). Pub. L. 106–402 added subpar. (A) and struck out heading and text of former subpar.\(A). Text read as follows: “Part C of the Developmental Disabilities Assistance and Bill of Rights Act.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or governmental entity”.</i>
 

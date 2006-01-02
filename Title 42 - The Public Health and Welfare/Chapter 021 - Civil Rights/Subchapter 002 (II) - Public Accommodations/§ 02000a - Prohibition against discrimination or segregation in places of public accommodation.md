@@ -14,7 +14,7 @@ Each of the following establishments which serves the public is a place of publi
 
 &emsp;(3) any motion picture house, theater, concert hall, sports arena, stadium or other place of exhibition or entertainment; and
 
-&emsp;(4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which isphysically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
+&emsp;(4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which is physically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
 
 #### (c) Operations affecting commerce; criteria; “commerce” defined
 
@@ -36,7 +36,7 @@ Pub. L. 102–411, §1, Oct. 14, 1992, 106 Stat. 2102, provided that: “This Ac
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–261, §1, Mar. 24, 1972, 86 Stat. 103, provided: “That this Act \[enacting sections 2000e–16 and 2000e–17 of this title, amending sections 5108 and 5314 to 5316 of Title 5, Government Organization and Employees, and sections 2000e to 2000e–6, 2000e–8, 2000e–9, 2000e–13, and 2000e–14 of this title, and enacting provisions set out as a note under section 2000e–5 of this title\] may be cited as the ‘Equal Employment Opportunity Act of 1972’.”
+Pub. L. 92–261, §1, Mar. 24, 1972, 86 Stat. 103, provided: “That this Act \[enacting sections 2000e–16 and 2000e–17 of this title, amending sections 5108 and 5314 to 5316 of Title 5, Government Organization and Employees, and sections 2000e to 2000e–6, 2000e–8, 2000e–9, 2000e–13, and 2000e–14 of this title, and enacting provisions set out asa note under section 2000e–5 of this title\] may be cited as the ‘Equal Employment Opportunity Act of 1972’.”
 
 #### Short Title
 

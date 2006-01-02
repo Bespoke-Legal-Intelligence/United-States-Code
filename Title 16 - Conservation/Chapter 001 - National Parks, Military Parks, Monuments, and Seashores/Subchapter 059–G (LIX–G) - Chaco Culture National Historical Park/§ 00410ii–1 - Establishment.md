@@ -86,7 +86,7 @@ Acres
 
 &emsp;&emsp;Jaquez
 
-66  
+66&nbsp;&nbsp;
 
 &emsp;&emsp;Kin Nizhoni
 

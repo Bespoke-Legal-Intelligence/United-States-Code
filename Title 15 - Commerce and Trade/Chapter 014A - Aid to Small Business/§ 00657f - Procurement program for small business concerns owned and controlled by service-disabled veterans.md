@@ -34,7 +34,7 @@ For purposes of this section, the term “contracting officer” has the meaning
 
 #### References in Text
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (c), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41,Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
+The Javits-Wagner-O'Day Act, referred to in subsec. (c), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 #### Prior Provisions
 

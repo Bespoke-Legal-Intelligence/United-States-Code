@@ -34,7 +34,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) the understanding of the optimal range and cost-effectiveness of community and institutional services for individuals with Alzheimer's disease and related dementias and their families, particularly with respect to the design, delivery, staffing, and mix of such services and the coordination of such services with other services, and with respect to the relationship of formal to informal support services;
 
-&emsp;&emsp;(D) the understanding of optimal methods to combine formal support services provided by health care professionals with informal support services provided by family, friends, and neighbors of individuals with Alzheimer's disease, and the identification of ways family caregivers can be sustained through interventions to reduce psychological and social problems and physical problems induced by stress;
+&emsp;&emsp;(D) the understanding of optimal methods to combine formal support services provided by health care professionals with informalsupport services provided by family, friends, and neighbors of individuals with Alzheimer's disease, and the identification of ways family caregivers can be sustained through interventions to reduce psychological and social problems and physical problems induced by stress;
 
 &emsp;&emsp;(E) existing data that are relevant to Alzheimer's disease and related dementias; and
 

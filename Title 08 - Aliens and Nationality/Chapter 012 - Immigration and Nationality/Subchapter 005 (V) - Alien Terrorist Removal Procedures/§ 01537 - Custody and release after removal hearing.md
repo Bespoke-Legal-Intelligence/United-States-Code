@@ -42,7 +42,7 @@
 
 #### (2) Maintenance of custody
 
-&emsp;Pending the commencement of any service of a sentence of confinement by an alien described in paragraph (1), such an alien shall remain in the custody of the Attorney General, unless the Attorney General determines that temporary release of the alien to the custody of State authorities for confinement in a State facility is appropriate and would not endanger national security or public safety.
+&emsp;Pending the commencement of any service of a sentence of confinement by an alien described in paragraph (1), such an alien shall remain in the custody of the Attorney General, unless the Attorney General determines thattemporary release of the alien to the custody of State authorities for confinement in a State facility is appropriate and would not endanger national security or public safety.
 
 #### (3) Subsequent removal
 

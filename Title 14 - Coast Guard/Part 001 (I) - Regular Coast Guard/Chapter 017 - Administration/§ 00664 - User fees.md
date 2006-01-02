@@ -6,7 +6,7 @@
 
 (c) In addition to the collection of fees and charges established under this section, the Secretary may recover from the person liable for the fee or charge the costs of collecting delinquent payments of the fee or charge, and enforcement costs associated with delinquent payments of the fees and charges.
 
-(d)(1) The Secretary may employ any Federal, State, or local agency or instrumentality, or any private enterprise or business, to collect a fee or charge established under this section.
+(d)(1) The Secretary may employ any Federal, State, or local agency or instrumentality, orany private enterprise or business, to collect a fee or charge established under this section.
 
 (2) A private enterprise or business employed by the Secretary to collect fees or charges—
 

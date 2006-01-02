@@ -10,7 +10,17 @@
 
 (5) Trial in a civil action under this subsection is in the judicial district in which the rail carrier has its principal operating office or in a district through which the railroad of the rail carrier runs.
 
-(b)(1)(A) If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A),<sup>1</sup> or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
+(b)
+
+Violations Relating to Commercial Motor Vehicle Safety Regulation and Operators.—
+
+&emsp;(1)
+
+Notice.—
+
+&emsp;&emsp;(A)
+
+In general.—If the Secretary finds that a violation of a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A),<sup>1</sup> or 31502 of this title, or a violation of a regulation issued under any of those provisions, has occurred, the Secretary shall issue a written notice to the violator. Such notice shall describe with reasonable particularity the nature of the violation found and the provision which has been violated. The notice shall specify the proposed civil penalty, if any, and suggest actions which might be taken in order to abate the violation. The notice shall indicate that the violator may, within 15 days of service, notify the Secretary of the violator's intention to contest the matter. In the event of a contested notice, the Secretary shall afford such violator an opportunity for a hearing, pursuant to section 554 of title 5, following which the Secretary shall issue an order affirming, modifying, or vacating the notice of violation.
 
 (B)
 
@@ -22,15 +32,15 @@ Civil Penalty.—
 
 &emsp;(A)
 
-In general.—Except as otherwise provided in this subsection, any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act that is a violation of regulations issued by the Secretary under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each offense. Notwithstanding any other provision of this section (except subparagraph (C)), no civil penalty shall be assessed under this section against an employee for a violation in an amount exceeding $2,500.
+In general.—Except as otherwise provided in this subsection, any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act that is a violation of regulations issued by the Secretary under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title shall be liable to the United States for a civil penalty in an amountnot to exceed $10,000 for each offense. Notwithstanding any other provision of this section (except subparagraph (C)), no civil penalty shall be assessed under this section against an employee for a violation in an amount exceeding $2,500.
 
 &emsp;(B)
 
 Recordkeeping and reporting violations.—A person required to make a report to the Secretary, answer a question, or make, prepare, or preserve a record under section 504 of this title or under any regulation issued by the Secretary pursuant to subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title about transportation by motor carrier, motor carrier of migrant workers, or motor private carrier, or an officer, agent, or employee of that person—
 
-&emsp;&emsp;(i) who does not make that report, does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, or does not make, prepare, or preserve that record in the form and manner prescribed by the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $500 for each offense, and each day of the violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses related to any single violation shall not exceed $5,000; or
+&emsp;&emsp;(i) who does not make that report, does not specifically, completely, and truthfully answer that question in 30 days from the date the Secretary requires the question to be answered, or does not make, prepare, or preserve that record in the form and manner prescribed by the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each offense, and each day of the violation shall constitute a separate offense, except that the total of all civil penalties assessed against any violator for all offenses related to any single violation shall not exceed $10,000; or
 
-&emsp;&emsp;(ii) who knowingly falsifies, destroys, mutilates, or changes a required report or record, knowingly files a false report with the Secretary, knowingly makes or causes or permits to be made a false or incomplete entry in that record about an operation or business fact or transaction, or knowingly makes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $5,000 for each violation, if any such action can be shown to have misrepresented a fact that constitutes a violation other than a reporting or recordkeeping violation.
+&emsp;&emsp;(ii) who knowingly falsifies, destroys, mutilates, or changes a required report or record, knowingly files a false report with the Secretary, knowingly makes or causes or permits to be made a false or incomplete entry in that record about an operation or business fact or transaction, or knowingly makes, prepares, or preserves a record in violation of a regulation or order of the Secretary, shall be liable to the United States for a civil penalty in an amount not to exceed $10,000 for each violation, if any such action can be shown to have misrepresented a fact that constitutes a violation other than a reporting or recordkeeping violation.
 
 &emsp;(C)
 
@@ -39,6 +49,10 @@ Violations pertaining to cdls.—Any person who is determined by the Secretary, 
 &emsp;(D)
 
 Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
+
+&emsp;(E)
+
+Copying of records and access to equipment, lands, and buildings.—A person subject to chapter 51 or a motor carrier, broker, freight forwarder, or owner or operator of a commercial motor vehicle subject to part B of subtitle VI who fails to allow promptly, upon demand, the Secretary (or an employee designated by the Secretary) to inspect and copy any record or inspect and examine equipment, lands, buildings and other property in accordance with sections 504(c), 5121(c), and 14122(b) shall be liable to the United States for a civil penalty not to exceed $1,000 for each offense. Each day the Secretary is denied the right to inspect and copy any record or inspect and examine equipment, lands, buildings and other property shall constitute a separate offense, except that the total of all civil penalties against any violator for all offenses related to a single violation shall not exceed $10,000. It shall be a defense to such penalty that the records did not exist at the time of the Secretary's request or could not be timely produced without unreasonable expense or effort. Nothing in this subparagraph amends or supersedes any remedy available to the Secretary under section 502(d), section 507(c), or any other provision of this title.
 
 (3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
 
@@ -54,7 +68,7 @@ Criminal Penalties.—
 
 &emsp;(A)
 
-In general.—Any person who knowingly and willfully violates any provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title, or a regulation issued under any of those provisions shall, upon conviction, be subject for each offense to a fine not to exceed $25,000 or imprisonment for a term not to exceed one year, or both, except that, if such violator is an employee, the violator shall only be subject to penalty if, while operating a commercial motor vehicle, the violator's activities have led or could have led to death or serious injury, in which case the violator shall be subject, upon conviction, to a fine not to exceed $2,500.
+In general.—Any person who knowingly and willfully violates any provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title, or a regulation issued under any of those provisions shall, upon conviction, be subject for each offense to a fine not to exceed $25,000 orimprisonment for a term not to exceed one year, or both, except that, if such violator is an employee, the violator shall only be subject to penalty if, while operating a commercial motor vehicle, the violator's activities have led or could have led to death or serious injury, in which case the violator shall be subject, upon conviction, to a fine not to exceed $2,500.
 
 &emsp;(B)
 
@@ -92,7 +106,7 @@ Regulations.—Not later than 12 months after the date of the enactment of this 
 
 (14) As used in this subsection, the terms “commercial motor vehicle”, “employee”, “employer”, and “State” have the meaning such terms have under section 31132 of this title.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411; Pub. L. 106–159, title II, §§206(b), 208, Dec. 9, 1999, 113 Stat. 1763, 1764.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(b), Oct. 30, 1984, 98 Stat. 2842; Pub. L. 99–570, title XII, §12012, Oct. 27, 1986, 100 Stat. 3207–184; Pub. L. 101–500, §15(e)(2), Nov. 3, 1990, 104 Stat. 1220; Pub. L. 102–548, §2(b), Oct. 28, 1992, 106 Stat. 3648; Pub. L. 103–272, §§4(j)(11)(D), 5(m)(11), July 5, 1994, 108 Stat. 1368, 1376; Pub. L. 104–287, §5(4), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title IV, §4015(a), (b), June 9, 1998, 112 Stat. 411; Pub. L. 106–159, title II, §§206(b), 208, Dec. 9, 1999, 113 Stat. 1763, 1764; Pub. L. 109–59, title IV, §§4102(a), 4103, Aug. 10, 2005, 119 Stat. 1715, 1716.)
 
 Historical and Revision Notes
 
@@ -135,13 +149,21 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b)(12), are set
 
 #### Amendments
 
+2005—Subsec. (b). Pub. L. 109–59, §4103(1), inserted headings for subsec. (b), par. (1), and subpar. (A).
+
+Subsec. (b)(2)(B). Pub. L. 109–59, §4102(a)(2), substituted “$10,000” for “$5,000” in cls. (i) and (ii).
+
+Subsec. (b)(2)(B)(i). Pub. L. 109–59, §4102(a)(1), substituted “$1,000” for “$500”.
+
+Subsec. (b)(2)(E). Pub. L. 109–59, §4103(2), added subpar. (E).
+
 1999—Subsec. (b)(5)(B). Pub. L. 106–159, §208, substituted “substantially increases the likelihood of” for “is likely to result in”.
 
 Subsec. (b)(8) to (14). Pub. L. 106–159, §206(b), added par. (8) and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
 1998—Subsec. (b)(1)(A). Pub. L. 105–178, §4015(a)(1), struck out “fix a reasonable time for abatement of the violation,” before “specify the proposed civil penalty”.
 
-Subsec. (b)(1)(B). Pub. L. 105–178, §4015(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary shall, not later than 60days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
+Subsec. (b)(1)(B). Pub. L. 105–178, §4015(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The Secretary shall, not later than 60 days after November 3, 1990, establish operational procedures to require a highway safety specialist or other appropriate representative of the Secretary to initiate, at the time of a safety review, compliance review, or other inspection or audit activity, or within a reasonable time thereafter, an enforcement action whenever any of the offenses referred to in paragraph (2)(A) and (B) can be documented, except recordkeeping violations not specified by the Secretary as serious. The procedures shall—
 
 &emsp;“(i) specify those serious recordkeeping violations for which an enforcement action shall be initiated, including instances in which the falsification of records of duty status or drivers’ medical certificates is required or permitted, and such other recordkeeping violations as the Secretary determines to be serious; and
 
@@ -179,7 +201,7 @@ Subsec. (b)(13). Pub. L. 103–272, §5(m)(11)(J), substituted “section 31132 
 
 1990—Subsec. (b)(1). Pub. L. 101–500 designated existing provisions as subpar. (A) and added subpar. (B).
 
-1986—Subsec. (b)(1). Pub. L. 99–570, §12012(a), inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
+1986—Subsec. (b)(1). Pub. L. 99–570, §12012(a), inserted “or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986”after “the Motor Carrier Safety Act of 1984” and substituted “such sections” for “such section”.
 
 Subsec. (b)(2). Pub. L. 99–570, §12012(b), (f)(1), inserted heading, designated existing provisions as subpars. (A) and (C) with corresponding headings, added subpar. (B), in subpar. (A) indented such subparagraph and aligned it with subpar. (B), and inserted exception relating to subpar. (B).
 

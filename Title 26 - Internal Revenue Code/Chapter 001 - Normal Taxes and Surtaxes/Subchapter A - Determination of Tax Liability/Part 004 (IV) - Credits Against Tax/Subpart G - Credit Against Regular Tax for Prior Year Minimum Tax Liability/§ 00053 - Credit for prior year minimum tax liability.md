@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-There shall be allowed as a credit against the tax imposed by this chapter for any taxable year an amount equal to the minimum tax credit for such taxable year.
+There shall be allowed as a credit against the tax imposed by this chapter for any taxable yearan amount equal to the minimum tax credit for such taxable year.
 
 #### (b) Minimum tax credit
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of the net minimum tax for such taxable year, reduced by
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount which would be the net minimum tax for such taxable year if the only adjustments and items of tax preference taken into account were those specified in clause (ii) and if section 59(a)(2) did not apply.
+&emsp;&emsp;&emsp;&emsp;(II) the amount which would be the net minimum tax for such taxable year if the only adjustments and items of tax preference taken into account were those specified in clause (ii).
 
 #### (ii) Specified items
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (iii) Special rule
 
-&emsp;&emsp;&emsp;The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).
+&emsp;&emsp;&emsp;The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).
 
 #### (iv) Credit allowable for exclusion preferences of corporations
 
@@ -64,13 +64,17 @@ For purposes of this section—
 
 &emsp;The term “tentative minimum tax” has the meaning given to such term by section 55(b).
 
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881.)
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012.)
 
 #### Prior Provisions
 
 A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments
+
+2005—Subsec. (d)(1)(B)(iii). Pub. L. 109–58 struck out “under section 29 (relating to credit for producing fuel from a nonconventional source) solely by reason of the application of section 29(b)(6)(B), or not allowed” before “under section 30”.
+
+2004—Subsec. (d)(1)(B)(i)(II). Pub. L. 108–357 struck out “and if section 59(a)(2) did not apply” before period at end.
 
 1996—Subsec. (d)(1)(B)(iii). Pub. L. 104–188, §1205(d)(5)(A), which directed that cl. (iii) be amended by striking out “or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” was executed by striking out “not allowed under section 28 solely by reason of the application of section 28(d)(2)(B),” after “29(b)(6)(B),”, to reflect the probable intent of Congress.
 
@@ -100,9 +104,17 @@ Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title IV, §421(b), Oct. 22, 2004, 118 Stat. 1514, provided that: “The amendments made by this section \[amending this section and section 59 of this title\] shall apply to taxable years beginning after December 31, 2004.”
+
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+Amendment by section 1205(d)(5) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 Section 1704(j)(1) of Pub. L. 104–188 provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1990.
 
@@ -139,8 +151,4 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For applicability of amendment by section 701(b) of Pub. L. 99–514 \[enacting this section\] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 55, 108, 381, 383, 772, 1374 of this title.
 

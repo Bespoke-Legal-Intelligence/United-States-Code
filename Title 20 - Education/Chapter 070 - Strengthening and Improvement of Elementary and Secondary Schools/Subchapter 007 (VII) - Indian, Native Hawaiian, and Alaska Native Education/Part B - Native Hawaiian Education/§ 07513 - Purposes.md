@@ -4,7 +4,7 @@ The purposes of this part are to—
 
 &emsp;(1) authorize and develop innovative educational programs to assist Native Hawaiians;
 
-&emsp;(2) provide direction and guidance to appropriate Federal, State, and local agencies to focus resources, including resources made available under this part, on Native Hawaiian education, and to provide periodic assessment and data collection;
+&emsp;(2) provide direction and guidance to appropriate Federal, State, and local agencies tofocus resources, including resources made available under this part, on Native Hawaiian education, and to provide periodic assessment and data collection;
 
 &emsp;(3) supplement and expand programs and authorities in the area of education to further the purposes of this subchapter; and
 

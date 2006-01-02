@@ -26,7 +26,7 @@ Each biennial report submitted under subsection (a) of this section after the fi
 
 &emsp;(9) An evaluation of data gaps and data duplication with respect to data collected under Federal environmental statutes.
 
-> In the report following the first biennial report provided for under this subsection, paragraphs\(3) through (9) may be included at the discretion of the Administrator.
+> In the report following the first biennial report provided for under this subsection, paragraphs (3) through (9) may be included at the discretion of the Administrator.
 
 (Pub. L. 101–508, title VI, §6608, Nov. 5, 1990, 104 Stat. 1388–326.)
 

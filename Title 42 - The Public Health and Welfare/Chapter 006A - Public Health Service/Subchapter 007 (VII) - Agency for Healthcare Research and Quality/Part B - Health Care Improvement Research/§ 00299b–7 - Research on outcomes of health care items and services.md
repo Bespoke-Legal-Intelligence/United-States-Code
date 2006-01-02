@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(A) not mandate national standards of clinical practice or quality health care standards; and
 
-&emsp;&emsp;(B) include in any recommendations resulting from projects funded and publishedby the Director, a corresponding reference to the prohibition described in subparagraph (A).
+&emsp;&emsp;(B) include in any recommendations resulting from projects funded and published by the Director, a corresponding reference to the prohibition described in subparagraph (A).
 
 #### (2) Requirement for implementation
 

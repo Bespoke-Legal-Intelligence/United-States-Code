@@ -21,6 +21,7 @@
 | (e) | Combating international sex tourism. |
 | (f) | Consultation requirement. |
 | (g) | Termination of certain grants, contracts and cooperative agreements. |
+| (h) | Prevention of trafficking in conjunction with post-conflict and humanitarian emergency assistance. |
 | [7105\.](%C2%A7%2007105%20-%20Protection%20and%20assistance%20for%20victims%20of%20trafficking.md) | Protection and assistance for victims of trafficking. |
 | (a) | Assistance for victims in other countries. |
 | (b) | Victims in the United States. |
@@ -51,6 +52,9 @@
 | (a) | Omitted. |
 | (b) | Amendment to the Sentencing Guidelines. |
 | [7109a.](%C2%A7%2007109a%20-%20Research%20on%20domestic%20and%20international%20trafficking%20in%20persons.md) | Research on domestic and international trafficking in persons. |
+| (a) | In general. |
+| (b) | Role of Human Smuggling and Trafficking Center. |
+| (c) | Definitions. |
 | [7110\.](%C2%A7%2007110%20-%20Authorizations%20of%20appropriations.md) | Authorizations of appropriations. |
 | (a) | Authorization of appropriations in support of the Task Force. |
 | (b) | Authorization of appropriations to the Secretary of Health and Human Services. |
@@ -59,6 +63,12 @@
 | (e) | Authorization of appropriations to President. |
 | (f) | Authorization of appropriations to the Secretary of Labor. |
 | (g) | Limitation on use of funds. |
+| (h) | Authorization of appropriations to Director of the FBI. |
+| (i) | Authorization of appropriations to the Secretary of Homeland Security. |
+| [7111\.](%C2%A7%2007111%20-%20Report%20by%20Secretary%20of%20State.md) | Report by Secretary of State. |
+| [7112\.](%C2%A7%2007112%20-%20Additional%20activities%20to%20monitor%20and%20combat%20forced%20labor%20and%20child%20labor.md) | Additional activities to monitor and combat forced labor and child labor. |
+| (a) | Activities of the Department of State. |
+| (b) | Activities of the Department of Labor. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -78,3 +88,5 @@
 - [&sect; 07109 - Strengthening prosecution and punishment of traffickers](%C2%A7%2007109%20-%20Strengthening%20prosecution%20and%20punishment%20of%20traffickers.md)
 - [&sect; 07109a - Research on domestic and international trafficking in persons](%C2%A7%2007109a%20-%20Research%20on%20domestic%20and%20international%20trafficking%20in%20persons.md)
 - [&sect; 07110 - Authorizations of appropriations](%C2%A7%2007110%20-%20Authorizations%20of%20appropriations.md)
+- [&sect; 07111 - Report by Secretary of State](%C2%A7%2007111%20-%20Report%20by%20Secretary%20of%20State.md)
+- [&sect; 07112 - Additional activities to monitor and combat forced labor and child labor](%C2%A7%2007112%20-%20Additional%20activities%20to%20monitor%20and%20combat%20forced%20labor%20and%20child%20labor.md)

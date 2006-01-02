@@ -16,7 +16,7 @@
 
 &emsp;(2) there were reasonable grounds for failure to adduce the evidence before the agency;
 
-> the court may order the additional evidence and any counterevidence the opposite party desires to offer to be taken by the agency. The agency may modify its findings of fact, or make new findings, by reason of the additional evidence so taken, and may modify or set aside its order, and shall file in the court the additional evidence, the modified findings or new findings, and the modified order or the order setting aside the original order.
+> the court may order the additional evidence and any counterevidence the opposite party desires to offer to be taken by the agency. The agency may modify its findings of fact, or make newfindings, by reason of the additional evidence so taken, and may modify or set aside its order, and shall file in the court the additional evidence, the modified findings or new findings, and the modified order or the order setting aside the original order.
 
 (Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 623.)
 

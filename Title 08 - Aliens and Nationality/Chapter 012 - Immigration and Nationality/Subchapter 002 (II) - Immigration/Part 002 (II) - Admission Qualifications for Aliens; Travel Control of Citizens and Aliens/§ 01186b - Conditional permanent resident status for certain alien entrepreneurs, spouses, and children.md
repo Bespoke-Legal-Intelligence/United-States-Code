@@ -4,7 +4,7 @@
 
 #### (1) Conditional basis for status
 
-&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse,and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1) of this section), alien spouse, and alien child (as defined in subsection (f)(2) of this section) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 #### (2) Notice of requirements
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
 
-> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever islater), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
+> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) of this section and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
 #### (B) Removal of conditional basis if favorable determination
 
@@ -300,7 +300,7 @@ Second determination.—
 
 &emsp;&emsp;“(A)
 
-Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alien in a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
+Authorization to consider investments in other commercial enterprises.—In determining under this paragraph whether to remove a conditional basis continued under paragraph (1)(F)(ii) with respect to an alien, the Attorney General shall consider any capital investment made by the alienin a commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation), in the United States, regardless of whether that investment was made before or after the determinations under paragraph (1) and regardless of whether the commercial enterprise is the same as that considered in the determinations under such paragraph, if facts and information with respect to the investment and the enterprise are included in the petition submitted under subparagraph (B).
 
 &emsp;&emsp;“(B)
 
@@ -388,7 +388,7 @@ In General.—With respect to each eligible alien described in subsection (b), t
 
 Eligible Aliens Described.—An alien is an eligible alien described in this subsection if the alien—
 
-&emsp;“(1) filed, under section 204(a)(1)(H) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(H)) (or any predecessor provision), a petition to accord the alien a status under section 203(b)(5) of such Act (8U.S.C. 1153(b)(5)) that was approved by the Attorney General after January 1, 1995, and before August 31, 1998;
+&emsp;“(1) filed, under section 204(a)(1)(H) of the Immigration and Nationality Act (8 U.S.C. 1154(a)(1)(H)) (or any predecessor provision), a petition to accord the alien a status under section 203(b)(5) of such Act (8 U.S.C. 1153(b)(5)) that was approved by the Attorney General after January 1, 1995, and before August 31, 1998;
 
 &emsp;“(2) pursuant to such approval, timely filed before the date of the enactment of this Act \[Nov. 2, 2002\] an application for adjustment of status under section 245 of such Act (8 U.S.C. 1255) or an application for an immigrant visa under section 203(b)(5) of such Act (8 U.S.C. 1153(b)(5)); and
 
@@ -454,7 +454,7 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 
 #### “SEC. 11033. REGULATIONS.
 
-“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov. 2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
+“The Immigration and Naturalization Service shall promulgate regulations to implement this chapter \[chapter 1 (§§11031–11034) of subtitle B of title I of div. C of Pub. L. 107–273, enacting this note\] not later than 120 days after the date of enactment of this Act \[Nov.2, 2002\]. Until such regulations are promulgated, the Attorney General shall not deny a petition filed or pending under section 216A(c)(1)(A) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)(A)) that relates to an eligible alien described in section 11031, or on an application filed or pending under section 245 of such Act (8 U.S.C. 1255) that relates to an eligible alien described in section 11032. Until such regulations are promulgated, the Attorney General shall not initiate or proceed with removal proceedings under section 240 of the Immigration and Nationality Act (8 U.S.C. 1229a) that relate to an eligible alien described in section 11031 or 11032.
 
 #### “SEC. 11034. DEFINITIONS.
 

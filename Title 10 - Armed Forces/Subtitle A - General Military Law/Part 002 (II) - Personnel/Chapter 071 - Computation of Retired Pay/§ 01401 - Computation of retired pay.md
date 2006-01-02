@@ -2,7 +2,7 @@
 
 (a)
 
-Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4, as modified by the applicable footnotes.
+Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—Themonthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, 3, and 4, as modified by the applicable footnotes.
 
 &nbsp;
 
@@ -14,7 +14,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 |  |  |  |  |  |  |
 | 4 | 580126312931305 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
 |  |  |  |  |  |  |
-| 5 | 6336346356361251 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
+| 5 | 63363463563612511252 | Retired pay base as computed under section 1406(b) or 1407. | The retired pay multiplier prescribed in section 1409(a) for the years of service credited to him under section 1405. | &nbsp; | &nbsp; |
 
 <sup>1</sup> Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month.
 
@@ -22,7 +22,7 @@ Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—The mo
 
 Use of Most Favorable Formula.—If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 106; Pub. L. 85–422, §§6(7), 11(a)(2), May 20, 1958, 72 Stat. 129, 131; Pub. L. 88–132, §5(h)(1), Oct. 2, 1963, 77 Stat. 214; Pub. L. 89–132, §6, Aug. 21, 1965, 79 Stat. 547; Pub. L. 90–207, §3(1), Dec. 16, 1967, 81 Stat. 653; Pub. L. 92–455, §1, Oct. 2, 1972, 86 Stat. 761; Pub. L. 96–342, title VIII, §813(b)(1), Sept. 8, 1980, 94 Stat. 1102; Pub. L. 96–513, title I, §113(a), title V, §511(49), Dec. 12, 1980, 94 Stat. 2876, 2924; Pub. L. 98–94, title IX, §§922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, 97 Stat. 641, 642; Pub. L. 98–557, §35(b), Oct. 30, 1984, 98 Stat. 2877; Pub. L. 99–348, title II, §201(a), July 1, 1986, 100 Stat. 691; Pub. L. 102–484, div. A, title X, §1052(18), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title XVI, §1662(j)(2), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 109–163, div. A, title V, §509(d)(1)(A), Jan. 6, 2006, 119 Stat. 3231.)
 
 Historical and Revision Notes
 
@@ -113,6 +113,8 @@ Footnotes 1 and 2 reflect the long-standing construction of those provisions dea
 In footnote 3, the words “and disregard a part of a year that is less than six months” are made applicable to formulas Nos. 1 and 2. The legislative history of the Career Compensation Act of 1949 (Hearings before the Committee on Armed Services of the Senate on H.R. 5007, 81st Congress, First Session, page 313, July 6, 1949) indicates that the provisions, upon which formulas Nos. 1 and 2 are based, should be construed to require that a fraction of less than one-half of a year be disregarded. It also indicates that other retirement laws that are also silent on this point should be similarly construed.
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163 in table inserted “1252” after “1251” in column under heading “For sections”.
 
 1994—Subsec. (a). Pub. L. 103–337 in table struck out formula number 3 which provided formula for computing retired pay under former section 1331 of this title.
 
@@ -232,11 +234,11 @@ Repeal of source law.—Section 8054 of the Department of Defense Appropriations
 
 “(5)
 
-Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of DefenseAuthorization Act, 1984 (Public Law 98–94) \[probably means section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\].”
+Cross reference.—For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of Defense Authorization Act, 1984 (Public Law 98–94) \[probably means section 923(g) of Pub. L. 98–94, set out as an Effective Date of 1983 Amendment note under section 1174 of this title\].”
 
 #### Limitation on Payment of Retired or Retainer Pay To Reflect Fractional Year Adjustments
 
-Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served, prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
+Pub. L. 98–473, title I, §101(h) \[title VIII, §8054\], Oct. 12, 1984, 98 Stat. 1904, 1933, prohibited, with certain exceptions, payment of retired pay or retainer pay of a member of the Armed Forces for any month who, on or after January 1, 1982, became entitled to retired or retainer pay, in an amount greater than the amount otherwise determined payable after reductions necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for part of a year of service to permit credit for a part of a year of service only for such month or months actually served,prior to repeal by Pub. L. 99–348, title III, §305(b)(4), July 1, 1986, 100 Stat. 705.
 
 #### Increase in Pay and Allowances of Certain Persons Who Served as Generals of the Army, Fleet Admirals of the Navy, General of the Marine Corps, or Admiral in the Coast Guard
 
@@ -289,8 +291,4 @@ Authority vested by this chapter in “military departments”, “the Secretary
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 580, 1201, 1202, 1204, 1205, 1210, 1403, 3991, 8991 of this title; title 5 section 5532; title 42 section 213a.
 

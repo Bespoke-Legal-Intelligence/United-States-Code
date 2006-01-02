@@ -48,7 +48,3 @@ Amendment by Pub. L. 97–35 effective, except as otherwise specifically provide
 
 Section effective Aug. 1, 1975, see section 101(f) of Pub. L. 93–647, set out as a note under section 651 of Title 42, the Public Health and Welfare.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 652.
-

@@ -22,7 +22,7 @@ If for any month prior to the month in which an individual attains the age of 65
 
 &emsp;(5) 80 per centum of his “average current earnings”, or
 
-&emsp;(6) the total of such individual's disability insurance benefits under section 423 of this title for such month and of any monthly insurance benefits under section 402 of this title for such month based on his wages and self-employment income, prior to reduction under this section.
+&emsp;(6) the total of such individual's disability insurance benefits under section 423 of thistitle for such month and of any monthly insurance benefits under section 402 of this title for such month based on his wages and self-employment income, prior to reduction under this section.
 
 > In no case shall the reduction in the total of such benefits under sections 423 and 402 of this title for a month (in a continuous period of months) reduce such total below the sum of—
 
@@ -112,7 +112,7 @@ Subsec. (a)(2)(B). Pub. L. 99–509 substituted “section 418(g)” for “sect
 
 Pub. L. 99–272, §12109(a)(2), substituted “all or substantially all of which” for “all or part of which” in cl. (iv).
 
-1981—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted “age of 65” for “age of 62”, in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted “such laws or plans” for “the workmen's compensation law or plan”.
+1981—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted “age of 65” for“age of 62”, in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted “such laws or plans” for “the workmen's compensation law or plan”.
 
 Subsec. (b). Pub. L. 97–35, §2208(a)(5), substituted “for a total or partial disability under a law or plan described in subsection (a)(2) of this section” for “under a workmen's compensation law or plan”.
 

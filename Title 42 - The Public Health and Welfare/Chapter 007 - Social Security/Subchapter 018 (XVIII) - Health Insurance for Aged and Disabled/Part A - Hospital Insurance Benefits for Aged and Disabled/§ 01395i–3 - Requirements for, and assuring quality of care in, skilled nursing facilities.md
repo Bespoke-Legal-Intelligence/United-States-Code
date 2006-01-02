@@ -164,7 +164,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (D) Re-training required
 
-&emsp;&emsp;For purposes of subparagraph (A), if, since an individual's most recent completion of a training and competency evaluation program, there has been a continuous period of 24 consecutive months during none of which the individual performed nursing or nursing-related services for monetary compensation, such individual shall complete a new training and competency evaluation program or a new competency evaluation program.
+&emsp;&emsp;For purposes of subparagraph (A), if, since an individual's most recent completion of atraining and competency evaluation program, there has been a continuous period of 24 consecutive months during none of which the individual performed nursing or nursing-related services for monetary compensation, such individual shall complete a new training and competency evaluation program or a new competency evaluation program.
 
 #### (E) Regular in-service education
 
@@ -194,7 +194,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (7) Required social services
 
-&emsp;In the case of a skilled nursing facility with more than 120 beds, the facility must have atleast one social worker (with at least a bachelor's degree in social work or similar professional qualifications) employed full-time to provide or assure the provision of social services.
+&emsp;In the case of a skilled nursing facility with more than 120 beds, the facility must have at least one social worker (with at least a bachelor's degree in social work or similar professional qualifications) employed full-time to provide or assure the provision of social services.
 
 #### (8) Information on nurse staffing
 
@@ -244,7 +244,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 #### (vi) Grievances
 
-&emsp;&emsp;&emsp;The right to voice grievances with respect to treatment or care that is (or fails to be) furnished, without discrimination or reprisal for voicing the grievances and the right to prompt efforts by the facility to resolve grievances the resident may have, including those with respect to the behavior of other residents.
+&emsp;&emsp;&emsp;The right to voice grievances with respect to treatment or care that is (or failsto be) furnished, without discrimination or reprisal for voicing the grievances and the right to prompt efforts by the facility to resolve grievances the resident may have, including those with respect to the behavior of other residents.
 
 #### (vii) Participation in resident and family groups
 
@@ -274,7 +274,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(i) inform each resident, orally and in writing at the time of admission to the facility, of the resident's legal rights during the stay at the facility;
 
-&emsp;&emsp;&emsp;(ii) make available to each resident, upon reasonable request, a written statement of such rights (which statement isupdated upon changes in such rights) including the notice (if any) of the State developed under section 1396r(e)(6) of this title; and
+&emsp;&emsp;&emsp;(ii) make available to each resident, upon reasonable request, a written statement of such rights (which statement is updated upon changes in such rights) including the notice (if any) of the State developed under section 1396r(e)(6) of this title; and
 
 &emsp;&emsp;&emsp;(iii) inform each other resident, in writing before or at the time of admission and periodically during the resident's stay, of services available in the facility and of related charges for such services, including any charges for services not covered under this subchapter or by the facility's basic per diem charge.
 
@@ -310,7 +310,7 @@ In this subchapter, the term “skilled nursing facility” means an institution
 
 &emsp;&emsp;&emsp;(vi) the facility ceases to operate.
 
-> &emsp;&emsp;In each of the cases described in clauses (i) through (v), the basis for the transfer or discharge must be documented in the resident's clinical record. In the cases described in clauses (i) and (ii), the documentation must be made by the resident's physician, and in the cases described in clauses (iii) and (iv) the documentation must be made by a physician.
+> &emsp;&emsp;In each of the cases described in clauses (i) through (v), the basis for the transfer or discharge must be documented in the resident's clinical record. In the cases described in clauses (i) and (ii), the documentation mustbe made by the resident's physician, and in the cases described in clauses (iii) and (iv) the documentation must be made by a physician.
 
 #### (B) Pre-transfer and pre-discharge notice
 
@@ -644,7 +644,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (C) Investigation of allegations of resident neglect and abuse and misappropriation of resident property
 
-&emsp;&emsp;The State shall provide, through the agency responsible for surveys and certification of nursing facilities under this subsection, for a process for the receipt and timely review and investigation of allegations of neglect and abuse and misappropriation of resident property by a nurse aide of a resident in a nursing facility or by another individual used by the facility in providing services to such a resident. The State shall, after providing the individual involved with a written notice of the allegations (including a statement of the availability of a hearing for the individual to rebut the allegations) and the opportunity for a hearing on the record, make a written finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority. A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.
+&emsp;&emsp;The State shall provide, through the agency responsible for surveys and certification of nursing facilities under this subsection, for a process for the receipt and timely review and investigation of allegations of neglect and abuse and misappropriation of resident property by a nurse aide of a resident in a nursing facility or by another individual used by the facility in providing services to such a resident. The State shall, after providing the individual involved with awritten notice of the allegations (including a statement of the availability of a hearing for the individual to rebut the allegations) and the opportunity for a hearing on the record, make a written finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority. A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.
 
 #### (D) Removal of name from nurse aide registry
 
@@ -670,7 +670,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (orcauses to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;&emsp;Each skilled nursing facility shall be subject to a standard survey, to be conducted without any prior notice to the facility. Any individual who notifies (or causes to be notified) a skilled nursing facility of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for the scheduling and conduct of standard surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (ii) Contents
 
@@ -736,7 +736,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (iii) Training
 
-&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federalsurveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey team unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
+&emsp;&emsp;&emsp;The Secretary shall provide for the comprehensive training of State and Federal surveyors in the conduct of standard and extended surveys under this subsection, including the auditing of resident assessments and plans of care. No individual shall serve as a member of a survey team unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
 
 #### (3) Validation surveys
 
@@ -800,7 +800,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (D) Access to fraud control units
 
-&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agencyresponsible for surveys and certifications under this subsection.
+&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agency responsible for surveys and certifications under this subsection.
 
 #### (h) Enforcement process
 
@@ -832,7 +832,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (i) Denial of payment
 
-&emsp;&emsp;&emsp;The Secretary may deny any further payments under this subchapter with respect to all individuals entitled to benefits under this subchapter in the facility or with respect to such individuals admitted to the facility after the effective date of the finding.
+&emsp;&emsp;&emsp;The Secretary may deny any further payments under this subchapter with respect to all individuals entitled to benefits under this subchapter in the facility or with respect to such individuals admittedto the facility after the effective date of the finding.
 
 #### (ii) Authority with respect to civil money penalties
 
@@ -886,7 +886,7 @@ The requirements, referred to in section 1395aa(d) of this title, with respect t
 
 #### (5) Construction
 
-&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>5</sup> and (iii) of paragraph (2)(B) may be imposed during the pendency of any hearing.
+&emsp;The remedies provided under this subsection are in addition to those otherwise available under State or Federal law and shall not be construed as limiting such other remedies, including any remedy available to an individual at common law. The remedies described in clauses (i),<sup>5</sup> and (iii) of paragraph (2)(B) maybe imposed during the pendency of any hearing.
 
 #### (6) Sharing of information
 
@@ -990,7 +990,7 @@ Subsec. (f)(2)(A)(iv). Pub. L. 101–508, §4008(h)(1)(E), struck out “and” 
 
 Subsec. (f)(2)(B). Pub. L. 101–508, §4008(h)(1)(G), inserted “(through subcontract or otherwise)” after “may not delegate” in second sentence.
 
-Subsec. (f)(2)(B)(iii)(I). Pub. L. 101–508, §4008(h)(1)(F)(i), amended subcl. (I) generally. Prior toamendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
+Subsec. (f)(2)(B)(iii)(I). Pub. L. 101–508, §4008(h)(1)(F)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “offered by or in a skilled nursing facility which has been determined to be out of compliance with the requirements of subsection (b), (c), or (d) of this section, within the previous 2 years, or”.
 
 Subsec. (g)(1)(C). Pub. L. 101–508, §4008(h)(2)(L), inserted at end “A State shall not make a finding that an individual has neglected a resident if the individual demonstrates that such neglect was caused by factors beyond the control of the individual.”
 
@@ -1036,7 +1036,7 @@ Subsec. (b)(5)(G). Pub. L. 100–360, §411(<i>l</i>)(2)(D)(iii), inserted “ph
 
 Subsec. (c)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(1)(A)(iv), as added by Pub. L. 100–485, §608(d)(27)(A), added subpar. (D).
 
-Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge may be imposed consistent with this subchapter and subchapter XIX of this chapter”.
+Subsec. (c)(2)(A)(v). Pub. L. 100–360, §411(<i>l</i>)(2)(F), substituted “for a stay at the facility” for “an allowable charge imposed by the facility for an item or service requested by the resident and for which a charge maybe imposed consistent with this subchapter and subchapter XIX of this chapter”.
 
 Subsec. (c)(6). Pub. L. 100–360, §411(<i>l</i>)(2)(G), substituted “upon the written” for “once the facility accepts the written” in subpar. (A)(ii), and “Upon written” for “Upon a facility's acceptance of written” in subpar. (B).
 
@@ -1068,7 +1068,7 @@ Subsec. (f)(7)(A). Pub. L. 100–360, §411(<i>l</i>)(2)(K), substituted “resi
 
 Subsec. (f)(7)(B). Pub. L. 100–360, §411(<i>l</i>)(2)(L)(i), substituted “shall include” for “shall not include”.
 
-Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after noticeto the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
+Subsec. (g)(1)(C). Pub. L. 100–360, §411(<i>l</i>)(5)(A)–(C), substituted “and timely review” for “, review,”, inserted “or by another individual used by the facility in providing services to such a resident” after “a nursing facility”, and substituted “The State shall, after notice to the individual involved and a reasonable opportunity for a hearing for the individual to rebut allegations, make a finding as to the accuracy of the allegations. If the State finds that a nurse aide has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding. If the State finds that any other individual used by the facility has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the appropriate licensure authority.” for “If the State finds, after notice to the nurse aide involved and a reasonable opportunity for a hearing for the nurse aide to rebut allegations, that a nurse aide whose name is contained in a nurse aide registry has neglected or abused a resident or misappropriated resident property in a facility, the State shall notify the nurse aide and the registry of such finding.”
 
 Subsec. (g)(1)(D). Pub. L. 100–360, §411(<i>l</i>)(5)(D), substituted “to issue regulations to carry out this subsection” for “to establish standards under subsection (f) of this section”.
 
@@ -1142,7 +1142,7 @@ Section 4008(h)(1)(H) of Pub. L. 101–508 provided that: “Except as provided 
 
 Section 4008(h)(2)(P) of Pub. L. 101–508 provided that: “The amendments made by this paragraph \[amending this section and sections 1395x and 1395yy of this title\] shall take effect as if they were included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
-Section 4206(e)(1) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) and (d)\[amending this section and sections 1395cc and 1395bbb of this title\] shall apply with respect to services furnished on or after the first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Section 4206(e)(1) of Pub. L. 101–508 provided that: “The amendments made by subsections (a) and (d) \[amending this section and sections 1395cc and 1395bbb of this title\] shall apply with respect to services furnished on or after the first day of the first month beginning more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
 #### Effective Date of 1989 Amendment
 
@@ -1188,7 +1188,7 @@ Enforcement.—(1) Except as otherwise specifically provided in section 1819 of 
 
 “(c)
 
-Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set out as notes under this section\] and implementing the amendments made by this part.”
+Waiver of Paperwork Reduction.—Chapter 35 of title 44, United States Code, shall not apply to information required for purposes of carrying out this part \[part 1 of subtitle C (§§4201–4206), enacting this section, amending this section and sections 1395x, 1395aa, 1395tt, and 1395yy of this title, and enacting provisions set outas notes under this section\] and implementing the amendments made by this part.”
 
 #### Review and Report on Current Standards of Practice for Pharmacy Services Provided to Patients in Nursing Facilities
 
@@ -1276,7 +1276,7 @@ Section 6901(b)(2) of Pub. L. 101–239 provided that: “The Secretary of Healt
 
 Section 6901(b)(4)(B)–(D) of Pub. L. 101–239 provided that:
 
-“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) were substituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
+“(B) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act \[subsec. (b)(5)(A) of this section and section 1396r(b)(5)(A) of this title\] (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act \[subsec. (e)(1)(A) of this section and section 1396r(e)(1)(A) of this title\]), if such aide would have satisfied such requirement as of July 1, 1989, if a number of hours (not less than 60 hours) weresubstituted for ‘75 hours’ in sections 1819(f)(2) and 1919(f)(2) of such Act \[subsec. (f)(2) of this section and section 1396r(f)(2) of this title\], respectively, and if such aide had received, before July 1, 1989, at least the difference in the number of such hours in supervised practical nurse aide training or in regular in-service nurse aide education.
 
 “(C) A nurse aide shall be considered to satisfy the requirement of sections 1819(b)(5)(A) and 1919(b)(5)(A) of the Social Security Act (of having completed a training and competency evaluation program approved by a State under section 1819(e)(1)(A) or 1919(e)(1)(A) of such Act), if such aide was found competent (whether or not by the State), before July 1, 1989, after the completion of a course of nurse aide training of at least 100 hours duration.
 

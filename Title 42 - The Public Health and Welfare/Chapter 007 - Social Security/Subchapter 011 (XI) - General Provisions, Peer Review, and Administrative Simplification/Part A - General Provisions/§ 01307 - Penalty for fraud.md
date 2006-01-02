@@ -8,7 +8,7 @@
 
 #### References in Text
 
-Subchapter E of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1631 to 1636 of the 1939 Code, and was repealed\(subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
+Subchapter E of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1631 to 1636 of the 1939 Code, and was repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.
 
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
 
@@ -20,7 +20,7 @@ Pub. L. 103–296, §108(b)(6), which directed that subsec. (b) be amended by su
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (a). Pub. L. 98–369, §2663(e)(2)(A), substituted “of chapter 2, 21, or 23 of the Internal Revenue Code of 1954, or of any provision of subtitle F of such Code which corresponds (within the meaning of section 7852(b) of such Code) to a provision contained in subchapter E of chapter 9 of the Internal Revenue Code of 1939,” for “subchapter E of chapter 1 or subchapter A, C, or E of chapter 9 of the Internal Revenue Code \[of 1939\]”.
+1984—Subsec. (a). Pub. L. 98–369, §2663(e)(2)(A), substituted “of chapter 2, 21, or 23 of the Internal Revenue Code of 1954, or of any provision of subtitle F of such Code which corresponds (within the meaning of section 7852(b) of such Code) to a provision contained in subchapter E of chapter 9 of the Internal Revenue Code of1939,” for “subchapter E of chapter 1 or subchapter A, C, or E of chapter 9 of the Internal Revenue Code \[of 1939\]”.
 
 Subsec. (b). Pub. L. 98–369, §2663(<i>l</i>)(1), substituted “Secretary” for “Administrator”.
 

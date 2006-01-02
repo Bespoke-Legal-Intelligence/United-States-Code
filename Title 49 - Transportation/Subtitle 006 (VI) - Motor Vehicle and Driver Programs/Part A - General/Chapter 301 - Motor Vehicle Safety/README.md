@@ -9,6 +9,7 @@
 | [30103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030103%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 | [30104\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030104%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [30105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030105%20-%20Restriction%20on%20lobbying%20activities.md) | Restriction on lobbying activities. |
+| [30106\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2030106%20-%20Rented%20or%20leased%20motor%20vehicle%20safety%20and%20responsibility.md) | Rented or leased motor vehicle safety and responsibility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,6 +34,7 @@
 | [30125\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030125%20-%20Schoolbuses%20and%20schoolbus%20equipment.md) | Schoolbuses and schoolbus equipment. |
 | [30126\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030126%20-%20Used%20motor%20vehicles.md) | Used motor vehicles. |
 | [30127\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030127%20-%20Automatic%20occupant%20crash%20protection%20and%20seat%20belt%20use.md) | Automatic occupant crash protection and seat belt use. |
+| [30128\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030128%20-%20Vehicle%20rollover%20prevention%20and%20crash%20mitigation.md) | Vehicle accident ejection protection.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,6 +70,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–59, title X, §10303(a), Aug. 10, 2005, 119 Stat. 1940, which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 109–59, title X, §10208(b), Aug. 10, 2005, 119 Stat. 1936, added item 30106.
 
 2000—Pub. L. 106–414, §5(b)(2), Nov. 1, 2000, 114 Stat. 1804, added item 30170.
 

@@ -18,7 +18,7 @@ Congress supports—
 
 &emsp;(8) establishing a United States-Sub-Saharan Africa Trade and Economic Cooperation Forum; and
 
-&emsp;(9) the accession of the countries in sub-Saharan Africa to the Organization for EconomicCooperation and Development (OECD) Convention on Combating Bribery of Foreign Public Officials in International Business Transactions.
+&emsp;(9) the accession of the countries in sub-Saharan Africa to the Organization for Economic Cooperation and Development (OECD) Convention on Combating Bribery of Foreign Public Officials in International Business Transactions.
 
 (Pub. L. 106–200, title I, §103, May 18, 2000, 114 Stat. 253.)
 

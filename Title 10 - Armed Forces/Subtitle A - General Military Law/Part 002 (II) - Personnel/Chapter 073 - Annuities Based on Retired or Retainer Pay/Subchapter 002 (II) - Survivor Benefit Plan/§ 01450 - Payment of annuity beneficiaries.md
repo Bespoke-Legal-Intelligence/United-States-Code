@@ -48,7 +48,7 @@ Required offset.—If, upon the death of a person to whom section 1448 of this t
 
 &emsp;(2)
 
-Effective date of offset.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
+Effective date of offset.—A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of paymentof such dependency and indemnity compensation under title 38.
 
 (d)
 
@@ -60,7 +60,7 @@ Refund of Amounts Deducted From Retired Pay When DIC Offset Is Applicable.—
 
 &emsp;(1)
 
-Full refund when dic greater than sbp annuity.—If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay of the deceased under section 1452 of this title shallbe refunded to the surviving spouse or former spouse.
+Full refund when dic greater than sbp annuity.—If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay of the deceased under section 1452 of this title shall be refunded to the surviving spouse or former spouse.
 
 &emsp;(2)
 
@@ -124,7 +124,7 @@ Copy of court order or other official statement.—Either—
 
 &emsp;&emsp;(B)
 
-Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to elect under section 1448(b) of this title to provide an annuity to a former spouse if—
+Persons required to make election.—A person shall be considered for purposes of subparagraph (A) to be required to electunder section 1448(b) of this title to provide an annuity to a former spouse if—
 
 &emsp;&emsp;&emsp;(i) the person enters, incident to a proceeding of divorce, dissolution, or annulment, into a written agreement to make such an election and the agreement (I) has been incorporated in or ratified or approved by a court order, or (II) has been filed with the court of appropriate jurisdiction in accordance with applicable State law; or
 
@@ -300,7 +300,7 @@ Subsec. (k)(1). Pub. L. 100–180 substituted “55 years of age” for “60 ye
 
 Subsec. (c). Pub. L. 99–661, §1343(a)(8)(C), substituted “entitled to dependency and indemnity compensation” for “entitled to compensation”.
 
-Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted “is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary written agreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
+Subsec. (f)(2). Pub. L. 99–661, §641(b)(2)(A), substituted “is required by a court order to elect under section 1448(b) of this title to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement,” for “enters into a voluntary writtenagreement to elect under section 1448(b) of this title to provide an annuity to a former spouse and who makes an election pursuant to such agreement”.
 
 Subsec. (f)(2)(A). Pub. L. 99–661, §641(b)(2)(B), substituted “in a case in which the election is required by a court order, or in which an agreement to make the election” for “in a case in which such agreement”.
 
@@ -420,6 +420,30 @@ Amendment by Pub. L. 95–397 effective Oct. 1, 1978, and applicable to annuitie
 
 Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L. 94–496, set out as a note under section 1447 of this title.
 
+#### Recomputation of Annuities
+
+Pub. L. 108–375, div. A, title VI, §644(c), Oct. 28, 2004, 118 Stat. 1961, provided that:
+
+“(1)
+
+Periodic recomputation required.—Effective on the first day of each month specified in paragraph (2)—
+
+&emsp;“(A) each annuity under section 1450 of title 10, United States Code, that commenced before that month, is computed under a provision of section 1451 of that title amended by subsection (a), and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that provision, as so amended, had been used for the initial computation of the annuity; and
+
+&emsp;“(B) each supplemental survivor annuity under section 1457 of such title that commenced before that month and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that section, as amended by this section, had been used for the initial computation of the supplemental survivor annuity.
+
+“(2)
+
+Time for recomputation.—The requirement under paragraph (1) for recomputation of certain annuities applies with respect to the following months:
+
+&emsp;“(A) October 2005.
+
+&emsp;“(B) April 2006.
+
+&emsp;“(C) April 2007.
+
+&emsp;“(D) April 2008.”
+
 #### Effectuation of Intended SBP Annuity for Former Spouse When Not Elected by Reason of Untimely Death of Retiree
 
 Pub. L. 106–65, div. A, title VI, §657, Oct. 5, 1999, 113 Stat. 668, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(D)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that:
@@ -441,8 +465,4 @@ Cases Not Covered by Existing Authority.—Paragraph (3) of section 1450(f) of t
 Adjusted Time Limit for Request by Former Spouse.—For the purposes of paragraph (3)(C) of section 1450(f) of title 10, United States Code, a court order or filing referred to in subsection (a)(1) of this section that is dated before October 19, 1984, shall be deemed to be dated on the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 \[Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that: “In the case of any former spouse to whom paragraph (3) of section 1450(f) of title 10, United States Code, applies by reason of the amendment made by paragraph (1)(D) \[amending section 657 of Pub. L. 106–65, set out above\], the provisions of subsection (b) of section 657 of the National Defense Authorization Act for Fiscal Year 2000 \[Pub. L. 106–65, set out above\] shall be applied by using the date of the enactment of this Act \[Oct. 30, 2000\], rather than the date of the enactment of that Act \[Oct. 5, 1999\].”\]
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1448, 1448a, 1451, 1452, 1455, 1457, 1458, 1460a of this title; title 38 section 1318.
 

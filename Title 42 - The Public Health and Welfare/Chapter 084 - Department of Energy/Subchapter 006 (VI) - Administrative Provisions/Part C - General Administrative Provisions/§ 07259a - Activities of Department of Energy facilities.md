@@ -20,7 +20,7 @@
 
 &emsp;(B) the overhead cost, including site-wide indirect costs, associated with such research and activities.
 
-(2)(A) Subject to subparagraph (B), the Secretary shall also impose on the department, agency, or person or entity concerned a Federal administrative charge (which includes any depreciation and imputed interest charges) in an amount not to exceed 3 percent of the full cost incurred in carrying out the research and activities concerned.
+(2)(A) Subject to subparagraph (B), the Secretary shall also impose on the department,agency, or person or entity concerned a Federal administrative charge (which includes any depreciation and imputed interest charges) in an amount not to exceed 3 percent of the full cost incurred in carrying out the research and activities concerned.
 
 (B) The Secretary may waive the imposition of the Federal administrative charge required by subparagraph (A) in the case of research and other activities conducted on behalf of small business concerns, institutions of higher education, non-profit entities, and State and local governments.
 
@@ -50,7 +50,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(A), is act Aug. 1, 
 
 The Energy Reorganization Act of 1974, referred to in subsec. (a)(2)(B), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(2)(C), isPub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(2)(C), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 #### Codification
 

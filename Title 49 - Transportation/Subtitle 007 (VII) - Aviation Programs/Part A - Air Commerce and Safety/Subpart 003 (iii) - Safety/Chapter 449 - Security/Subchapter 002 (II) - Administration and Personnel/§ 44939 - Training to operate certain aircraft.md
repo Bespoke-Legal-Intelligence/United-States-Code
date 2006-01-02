@@ -26,7 +26,7 @@ Interruption of Training.—If the Secretary of Homeland Security, more than 30 
 
 (c)
 
-Notification.—A person operating as a flight instructor, pilot school, or aviation training center or subject to regulation under this part may provide training in the operation of any aircraft having a maximum certificatedtakeoff weight of 12,500 pounds or less to an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))) or to any other individual specified by the Secretary of Homeland Security only if that person has notified the Secretary that the individual has requested such training and furnished the Secretary with that individual's identification in such form as the Secretary may require.
+Notification.—A person operating as a flight instructor, pilot school, or aviation training center or subject to regulation under this part may provide training in the operation of any aircraft having a maximum certificated takeoff weight of 12,500 pounds or less to an alien (as defined in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3))) or to any other individual specified by the Secretary of Homeland Security only if that person has notified the Secretary that the individual has requested such training and furnished the Secretary with that individual's identification in such form as the Secretary may require.
 
 (d)
 
@@ -34,7 +34,7 @@ Expedited Processing.—Not later than 60 days after the date of enactment of th
 
 &emsp;(1) holds an airman's certification of a foreign country that is recognized by an agency of the United States, including a military agency, that permits an individual to operate a multi-engine aircraft that has a certificated takeoff weight of more than 12,500 pounds;
 
-&emsp;(2) is employed by a foreign air carrier that is certified under part 129 of title 14, Code of Federal Regulations, and that has a security program approved under section 1546 of title 49, Code of Federal Regulations;
+&emsp;(2) is employed by a foreign air carrier that is certified under part 129 of title 14, Code of Federal Regulations, and that has a securityprogram approved under section 1546 of title 49, Code of Federal Regulations;
 
 &emsp;(3) is an individual that has unescorted access to a secured area of an airport designated under section 44936(a)(1)(A)(ii); or
 
@@ -108,7 +108,7 @@ Use of united states facilities.—If the Secretary of Homeland Security require
 
 #### Report
 
-Pub. L. 108–176, title VI, §612(d), Dec. 12, 2003, 117 Stat. 2574, provided that: “Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Secretary of Homeland Security shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the effectiveness of the activities carried out under section44939 of title 49, United States Code, in reducing risks to aviation security and national security.”
+Pub. L. 108–176, title VI, §612(d), Dec. 12, 2003, 117 Stat. 2574, provided that: “Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Secretary of Homeland Security shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the effectiveness of the activities carried out under section 44939 of title 49, United States Code, in reducing risks to aviation security and national security.”
 
 #### International Cooperation
 

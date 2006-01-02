@@ -10,7 +10,7 @@
 | [403b.](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md) | Cost-of-living allowance in the continental United States. |
 | [404\.](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md) | Travel and transportation allowances: general. |
 | [404a.](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md) | Travel and transportation allowances: temporary lodging expenses. |
-| [404b.](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20lodging%20expenses%20at%20temporary%20duty%20location%20for%20members%20on%20authorized%20leave.md) | Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave. |
+| [404b.](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20payment%20of%20lodging%20expenses%20at%20temporary%20duty%20location%20during%20authorized%20absence%20of%20member.md) | Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member. |
 | [405\.](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20continental%20United%20States.md) | Travel and transportation allowances: per diem while on duty outside the continental United States. |
 | [405a.](%C2%A7%2000405a%20-%20Travel%20and%20transportation%20allowances%20departure%20allowances.md) | Travel and transportation allowances: departure allowances. |
 | [406\.](%C2%A7%2000406%20-%20Travel%20and%20transportation%20allowances%20dependents%3B%20baggage%20and%20household%20effects.md) | Travel and transportation allowances: dependents; baggage and household effects. |
@@ -34,8 +34,9 @@
 | [411e.](%C2%A7%2000411e%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20certain%20emergencies%20for%20members%20performing%20temporary%20duty.md) | Travel and transportation allowances: transportation incident to certain emergencies for members performing temporary duty. |
 | [411f.](%C2%A7%2000411f%20-%20Travel%20and%20transportation%20allowances%20transportation%20for%20survivors%20of%20deceased%20member%20to%20attend%20the%20member%27s%20burial%20ceremonies.md) | Travel and transportation allowances: transportation for survivors of deceased member to attend the member's burial ceremonies. |
 | [411g.](%C2%A7%2000411g%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20voluntary%20extensions%20of%20overseas%20tours%20of%20duty.md) | Travel and transportation allowances: transportation incident to voluntary extensions of overseas tours of duty. |
-| [411h.](%C2%A7%2000411h%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20serious%20illness%20or%20injury%20of%20members.md) | Travel and transportation allowances: transportation of family members incident to the serious illness or injury of members. |
+| [411h.](%C2%A7%2000411h%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20illness%20or%20injury%20of%20members.md) | Travel and transportation allowances: transportation of family members incident to illness or injury of members. |
 | [411i.](%C2%A7%2000411i%20-%20Travel%20and%20transportation%20allowances%20parking%20expenses.md) | Travel and transportation allowances: parking expenses. |
+| [411j.](%C2%A7%2000411j%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20repatriation%20of%20members%20held%20captive.md) | Travel and transportation allowances: transportation of family members incident to the repatriation of members held captive. |
 | [412\.](%C2%A7%2000412%20-%20Appropriations%20for%20travel%20may%20not%20be%20used%20for%20attendance%20at%20certain%20meetings.md) | Appropriations for travel: may not be used for attendance at certain meetings. |
 | [413\.](%C2%A7%2000413%20-%20Chairman%20and%20Vice%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md) | Chairman and Vice Chairman of the Joint Chiefs of Staff. |
 | [414\.](%C2%A7%2000414%20-%20Personal%20money%20allowance.md) | Personal money allowance. |
@@ -61,10 +62,15 @@
 | [434\.](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md) | Subsistence reimbursement relating to escorts of foreign arms control inspection teams. |
 | [435\.](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md) | Funeral honors duty: allowance. |
 | [436\.](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md) | High-deployment allowance: lengthy or numerous deployments; frequent mobilizations. |
+| [437\.](%C2%A7%2000437%20-%20Allowance%20to%20cover%20portion%20of%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%E2%80%A6.md) | Allowance to cover portion of monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title VI, §§613(b), 651(b)(2), 653(b) Jan. 6, 2006, 119 Stat. 3292, 3311, 3313, added items 411j and 437 and substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in item 404b.
+
+2005—Pub. L. 109–13, div. A, title I, §1026(b)(2), May 11, 2005, 119 Stat. 254, substituted “illness or injury of members” for “the serious illness or injury of members” in item 411h.
 
 2004—Pub. L. 108–375, div. A, title VI, §605(b)(3), Oct. 28, 2004, 118 Stat. 1945, substituted “continental United States” for “United States or in Hawaii or Alaska” in item 405.
 
@@ -98,7 +104,7 @@ Pub. L. 100–26, §8(b)(1), Apr. 21, 1987, 101 Stat. 285, redesignated item 431
 
 1986—Pub. L. 99–661, div. A, title VI, §615(a)(2), Nov. 14, 1986, 100 Stat. 3880, added item 431 “Travel and transportation: members escorting certain dependents”.
 
-1985—Pub. L. 99–145, title VI, §§616(c)(2), 620(a)(2), title XIII, §§1302(b)(2), 1303(b)(7), Nov. 8, 1985, 99 Stat. 641, 643, 738, 740, substituted “allowances:” for “allowances;” initem 404 and “departure” for “evacuation” in item 405a, struck out “away from home port” after “inactivating” in item 406b, added item 411f, substituted “allowances” for “allowance” in item 425, and added item 431 “Benefits for certain members assigned to the Defense Intelligence Agency”.
+1985—Pub. L. 99–145, title VI, §§616(c)(2), 620(a)(2), title XIII, §§1302(b)(2), 1303(b)(7), Nov. 8, 1985, 99 Stat. 641, 643, 738, 740, substituted “allowances:” for “allowances;” in item 404 and “departure” for “evacuation” in item 405a, struck out “away from home port” after “inactivating” in item 406b, added item 411f, substituted “allowances” for “allowance” in item 425, and added item 431 “Benefits for certain members assigned to the Defense Intelligence Agency”.
 
 1984—Pub. L. 98–525, title VI, §§602(d)(2), 612(a)(2), Oct. 19, 1984, 98 Stat. 2536, 2539, struck out “; variable housing allowance” after “Basic allowance for quarters” in item 403, and added item 403a, and substituted “personal emergencies for certain members and dependents” for “certain emergencies for members performing temporary duty” in item 411d.
 
@@ -149,7 +155,7 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00403b - Cost-of-living allowance in the continental United States](%C2%A7%2000403b%20-%20Cost-of-living%20allowance%20in%20the%20continental%20United%20States.md)
 - [&sect; 00404 - Travel and transportation allowances general](%C2%A7%2000404%20-%20Travel%20and%20transportation%20allowances%20general.md)
 - [&sect; 00404a - Travel and transportation allowances temporary lodging expenses](%C2%A7%2000404a%20-%20Travel%20and%20transportation%20allowances%20temporary%20lodging%20expenses.md)
-- [&sect; 00404b - Travel and transportation allowances lodging expenses at temporary duty location for members on authorized leave](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20lodging%20expenses%20at%20temporary%20duty%20location%20for%20members%20on%20authorized%20leave.md)
+- [&sect; 00404b - Travel and transportation allowances payment of lodging expenses at temporary duty location during authorized absence of member](%C2%A7%2000404b%20-%20Travel%20and%20transportation%20allowances%20payment%20of%20lodging%20expenses%20at%20temporary%20duty%20location%20during%20authorized%20absence%20of%20member.md)
 - [&sect; 00405 - Travel and transportation allowances per diem while on duty outside the continental United States](%C2%A7%2000405%20-%20Travel%20and%20transportation%20allowances%20per%20diem%20while%20on%20duty%20outside%20the%20continental%20United%20States.md)
 - [&sect; 00405a - Travel and transportation allowances departure allowances](%C2%A7%2000405a%20-%20Travel%20and%20transportation%20allowances%20departure%20allowances.md)
 - [&sect; 00406 - Travel and transportation allowances dependents; baggage and household effects](%C2%A7%2000406%20-%20Travel%20and%20transportation%20allowances%20dependents%3B%20baggage%20and%20household%20effects.md)
@@ -168,8 +174,9 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00411e - Travel and transportation allowances transportation incident to certain emergencies for members performing temporary duty](%C2%A7%2000411e%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20certain%20emergencies%20for%20members%20performing%20temporary%20duty.md)
 - [&sect; 00411f - Travel and transportation allowances transportation for survivors of deceased member to attend the member's burial ceremonies](%C2%A7%2000411f%20-%20Travel%20and%20transportation%20allowances%20transportation%20for%20survivors%20of%20deceased%20member%20to%20attend%20the%20member%27s%20burial%20ceremonies.md)
 - [&sect; 00411g - Travel and transportation allowances transportation incident to voluntary extensions of overseas tours of duty](%C2%A7%2000411g%20-%20Travel%20and%20transportation%20allowances%20transportation%20incident%20to%20voluntary%20extensions%20of%20overseas%20tours%20of%20duty.md)
-- [&sect; 00411h - Travel and transportation allowances transportation of family members incident to the serious illness or injury of members](%C2%A7%2000411h%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20serious%20illness%20or%20injury%20of%20members.md)
+- [&sect; 00411h - Travel and transportation allowances transportation of family members incident to illness or injury of members](%C2%A7%2000411h%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20illness%20or%20injury%20of%20members.md)
 - [&sect; 00411i - Travel and transportation allowances parking expenses](%C2%A7%2000411i%20-%20Travel%20and%20transportation%20allowances%20parking%20expenses.md)
+- [&sect; 00411j - Travel and transportation allowances transportation of family members incident to the repatriation of members held captive](%C2%A7%2000411j%20-%20Travel%20and%20transportation%20allowances%20transportation%20of%20family%20members%20incident%20to%20the%20repatriation%20of%20members%20held%20captive.md)
 - [&sect; 00412 - Appropriations for travel may not be used for attendance at certain meetings](%C2%A7%2000412%20-%20Appropriations%20for%20travel%20may%20not%20be%20used%20for%20attendance%20at%20certain%20meetings.md)
 - [&sect; 00413 - Chairman and Vice Chairman of the Joint Chiefs of Staff](%C2%A7%2000413%20-%20Chairman%20and%20Vice%20Chairman%20of%20the%20Joint%20Chiefs%20of%20Staff.md)
 - [&sect; 00414 - Personal money allowance](%C2%A7%2000414%20-%20Personal%20money%20allowance.md)
@@ -195,3 +202,4 @@ Pub. L. 88–132, §11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 - [&sect; 00434 - Subsistence reimbursement relating to escorts of foreign arms control inspection teams](%C2%A7%2000434%20-%20Subsistence%20reimbursement%20relating%20to%20escorts%20of%20foreign%20arms%20control%20inspection%20teams.md)
 - [&sect; 00435 - Funeral honors duty allowance](%C2%A7%2000435%20-%20Funeral%20honors%20duty%20allowance.md)
 - [&sect; 00436 - High-deployment allowance lengthy or numerous deployments; frequent mobilizations](%C2%A7%2000436%20-%20High-deployment%20allowance%20lengthy%20or%20numerous%20deployments%3B%20frequent%20mobilizations.md)
+- [&sect; 00437 - Allowance to cover portion of monthly premium for Servicemembers&#8217; Group Life Insurance members serving in Operation Enduring Freedom or&#8230;](%C2%A7%2000437%20-%20Allowance%20to%20cover%20portion%20of%20monthly%20premium%20for%20Servicemembers%E2%80%99%20Group%20Life%20Insurance%20members%20serving%20in%20Operation%20Enduring%20Freedom%20or%E2%80%A6.md)

@@ -130,7 +130,7 @@ Section 735 of Pub. L. 103–160 provided that:
 
 “(a)
 
-Report Required.—The Secretary of Defense shall prepare a report evaluating the provision of primary and preventive health care services through military medical treatment facilities and the Civilian Health and Medical Program of the Uniformed Services to female members of the uniformed services and female covered beneficiaries eligible for health care under chapter 55 of title 10, United States Code.
+Report Required.—The Secretary of Defense shall prepare a report evaluating the provision of primary and preventive health care services through military medical treatment facilities and the Civilian Health and Medical Program of the Uniformed Servicesto female members of the uniformed services and female covered beneficiaries eligible for health care under chapter 55 of title 10, United States Code.
 
 “(b)
 
@@ -173,8 +173,4 @@ Definitions.—For purposes of this section:
 &emsp;“(1) The term ‘primary and preventive health care services for women’ has the meaning given that term in section 1074d(b) of title 10, United States Code, as added by section 701(a)).
 
 &emsp;“(2) The term ‘covered beneficiary’ has the meaning given that term in section 1072(5) of such title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1077 of this title.
 

@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (5) Expiration
 
-&emsp;No transfer made after December 31, 2005, shall be treated as a qualified transfer.
+&emsp;No transfer made after December 31, 2013, shall be treated as a qualified transfer.
 
 #### (c) Requirements of plans transferring assets
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The requirements of this paragraph are met if the plan provides that the accrued pension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
+&emsp;&emsp;The requirements of this paragraph are met if the plan provides that the accruedpension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
 
 #### (B) Special rule for 1990
 
@@ -140,7 +140,19 @@ For purposes of this section—
 
 #### (E) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to prevent an employer who significantly reduces retiree health coverage during the cost maintenance period from being treated as satisfying the minimum cost requirement of this subsection.
+
+#### (ii) Insignificant cost reductions permitted
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;An eligible employer shall not be treated as failing to meet the requirements of this paragraph for any taxable year if, in lieu of any reduction of retiree health coverage permitted under the regulations prescribed under clause (i), the employer reduces applicable employer cost by an amount not in excess of the reduction in costs which would have occurred if the employer had made the maximum permissible reduction in retiree health coverage under such regulations. In applying such regulations to any subsequent taxable year, any reduction in applicable employer cost under this clause shall be treated as if it were an equivalent reduction in retiree health coverage.
+
+#### (II) Eligible employer
+
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), an employer shall be treated as an eligible employer for any taxable year if, for the preceding taxable year, the qualified current retiree health liabilities of the employer were at least 5 percent of the gross receipts of the employer. For purposes of this subclause, the rules of paragraphs (2), (3)(B), and (3)(C) of section 448(c) shall apply in determining the amount of an employer's gross receipts.
 
 #### (d) Limitations on employer
 
@@ -162,7 +174,7 @@ For purposes of this title—
 
 #### (2) No contributions allowed
 
-&emsp;An employer may not contribute after December 31, 1990, any amount to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) with respect to qualified current retiree health liabilities for which transferred assets are required to be used under subsection (c)(1).
+&emsp;An employer may not contribute after December 31, 1990, any amount to a health benefits account or welfare benefit fund (as definedin section 419(e)(1)) with respect to qualified current retiree health liabilities for which transferred assets are required to be used under subsection (c)(1).
 
 #### (e) Definition and special rules
 
@@ -228,13 +240,17 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting “10 plan years” for “5 plan years”.
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934.)
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (b)(5). Pub. L. 108–218 substituted “2013” for “2005”.
+
+Subsec. (c)(3)(E). Pub. L. 108–357 designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
 1999—Subsec. (b)(1)(C)(iii). Pub. L. 106–170, §535(b)(2)(A), substituted “cost” for “benefits”.
 
@@ -244,7 +260,7 @@ Subsec. (c)(3). Pub. L. 106–170, §535(b)(1), amended heading and text of par.
 
 Subsec. (e)(1)(D). Pub. L. 106–170, §535(b)(2)(B), substituted “or in calculating applicable employer cost under subsection (c)(3)(B)” for “and shall not be subject to the minimum benefit requirements of subsection (c)(3)”.
 
-1996—Pub. L. 104–188, §1704(a), provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Section 12011(a) of title XII of Pub. L. 101–508 directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
+1996—Pub. L. 104–188, §1704(a), provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to bemade to a section or other provision of the Internal Revenue Code of 1986. Section 12011(a) of title XII of Pub. L. 101–508 directed the amendment of part I of subchapter D of chapter 1 by adding this subpart, including this section, without specifying that amendment was to the Internal Revenue Code of 1986.
 
 Subsec. (e)(1)(C). Pub. L. 104–188, §1704(t)(32), substituted “means” for “mean”.
 
@@ -257,6 +273,10 @@ Subsec. (c)(3). Pub. L. 103–465, §731(b), amended par. (3) generally, substit
 Subsec. (e)(1)(B). Pub. L. 103–465, §731(c)(2), reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows: “The amount determined under subparagraph (A) shall be reduced by any amount previously contributed to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) to pay for the qualified current retiree health liabilities. The portion of any reserves remaining as of the close of December 31, 1990, shall be allocated on a pro rata basis to qualified current retiree health liabilities.”
 
 Subsec. (e)(1)(D). Pub. L. 103–465, §731(c)(3), substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title VII, §709(b)(3), Oct. 22, 2004, 118 Stat. 1552, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -293,8 +313,4 @@ In general.—The amendments made by this section \[enacting this section and am
 “(2)
 
 Waiver of estimated tax penalties.—No addition to tax shall be made under section 6654 or section 6655 of the Internal Revenue Code of 1986 for the taxable year preceding the taxpayer's 1st taxable year beginning after December 31, 1990, with respect to any underpayment to the extent such underpayment was created or increased by reason of section 420(b)(4)(B) of such Code (as added by subsection (a)).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 401 of this title; title 29 sections 1021, 1082, 1103, 1108.
 

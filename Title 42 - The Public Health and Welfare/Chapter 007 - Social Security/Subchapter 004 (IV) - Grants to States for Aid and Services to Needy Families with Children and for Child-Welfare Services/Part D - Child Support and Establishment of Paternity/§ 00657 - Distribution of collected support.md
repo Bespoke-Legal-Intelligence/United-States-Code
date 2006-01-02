@@ -64,7 +64,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (II) Post-September 2000
 
-&emsp;&emsp;&emsp;&emsp;Unless, based on the report required by paragraph (5), the Congress determinesotherwise, with respect to the amount so collected on or after October 1, 2000 (or before such date, at the option of the State)—
+&emsp;&emsp;&emsp;&emsp;Unless, based on the report required by paragraph (5), the Congress determines otherwise, with respect to the amount so collected on or after October 1, 2000 (or before such date, at the option of the State)—
 
 #### (aa) In general
 
@@ -132,7 +132,7 @@ As used in subsection (a) of this section:
 
 &emsp;The term “assistance from the State” means—
 
-&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter orunder the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
+&emsp;&emsp;(A) assistance under the State program funded under part A of this subchapter or under the State plan approved under part A of this subchapter (as in effect on the day before August 22, 1996); and
 
 &emsp;&emsp;(B) foster care maintenance payments under the State plan approved under part E of this subchapter.
 
@@ -160,7 +160,7 @@ At State option, this section shall not apply to any amount collected on behalf 
 
 Notwithstanding the preceding provisions of this section, amounts collected by a State as child support for months in any period on behalf of a child for whom a public agency is making foster care maintenance payments under part E of this subchapter—
 
-&emsp;(1) shall be retained by the State to the extent necessary to reimburse it for the foster care maintenance payments made with respect to the child during such period (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing);
+&emsp;(1) shall be retained by the State to the extent necessary to reimburse it for the foster care maintenance payments made with respectto the child during such period (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing);
 
 &emsp;(2) shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child's future needs or making all or a part thereof available to the person responsible for meeting the child's day-to-day needs; and
 
@@ -190,7 +190,7 @@ Subsec. (d). Pub. L. 106–169, §301(c)(2), (4), redesignated subsec. (e) as (d
 
 &emsp;“(1) the State share of amounts collected in the fiscal year which could be retained to reimburse the State for amounts paid to families as assistance by the State is less than the State share of such amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on August 21, 1996); and
 
-&emsp;“(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded indetermining the amount or type of assistance provided under the program under part A of this subchapter; or
+&emsp;“(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded in determining the amount or type of assistance provided under the program under part A of this subchapter; or
 
 &emsp;“(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of the amounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
 
@@ -264,7 +264,7 @@ Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding p
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–169, title III, §301(b), Dec. 14, 1999, 113 Stat. 1857, provided that: “The amendment made bysubsection (a) \[amending this section\] shall be effective with respect to calendar quarters occurring during the period that begins on October 1, 1998, and ends on September 30, 2001.”
+Pub. L. 106–169, title III, §301(b), Dec. 14, 1999, 113 Stat. 1857, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective with respect to calendar quarters occurring during the period that begins on October 1, 1998, and ends on September 30, 2001.”
 
 Pub. L. 106–169, title III, §301(c), Dec. 14, 1999, 113 Stat. 1857, provided that the amendment made by section 301(c) is effective Oct. 1, 2001.
 
@@ -302,7 +302,7 @@ Section 1899(b) of Pub. L. 99–514 provided that: “The amendment made by this
 
 Section 7(b) of Pub. L. 98–378 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective October 1, 1984.”
 
-Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made on or after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
+Amendment by section 11(a) of Pub. L. 98–378 effective Oct. 1, 1984, and applicable to collections made onor after that date, see section 11(e) of Pub. L. 98–378, set out as a note under section 654 of this title.
 
 Section 2646 of Pub. L. 98–369 provided that: “Except as otherwise specifically provided in this subtitle \[subtitle B (§§2611–2646) of Pub. L. 98–369\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of Pub. L. 98–369, enacting section 1320b–6 of this title, amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and section 51 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and section 51 of Title 26\] and the amendments made thereby shall take effect on October 1, 1984.”
 

@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (A) Excess prepaid farm supplies
 
-&emsp;&emsp;The term “excess prepaid farm supplies” means the prepaid farm supplies for the taxable year to the extent the amount of suchsupplies exceeds 50 percent of the deductible farming expenses for the taxable year (other than prepaid farm supplies).
+&emsp;&emsp;The term “excess prepaid farm supplies” means the prepaid farm supplies for the taxable year to the extent the amount of such supplies exceeds 50 percent of the deductible farming expenses for the taxable year (other than prepaid farm supplies).
 
 #### (B) Prepaid farm supplies
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(8) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by section 803(b)(8) of Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repealby section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Section 404(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after March 1, 1986, in taxable years beginning after such date.”
 
@@ -173,8 +173,4 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 “(B)
 
 Transitional rule.—In the case of a farming syndicate in existence on December 31, 1975, and for which there was no change of membership throughout its taxable year beginning in 1976, the amendments made by this subsection shall apply to taxable years beginning after December 31, 1976.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 58, 461, 465, 1256, 1258 of this title.
 

@@ -12,7 +12,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 &emsp;&emsp;&emsp;(i) continued activity pursuant to such lease or permit would probably cause serious harm or damage to life (including fish and other aquatic life), to property, to any mineral (in areas leased or not leased), to the national security or defense, or to the marine, coastal, or human environment;
 
-&emsp;&emsp;&emsp;(ii) the threat of harm or damage will not disappear or decrease to an acceptable extent within a reasonable period of time; and
+&emsp;&emsp;&emsp;(ii) the threat of harm or damage will not disappear or decrease to an acceptableextent within a reasonable period of time; and
 
 &emsp;&emsp;&emsp;(iii) the advantages of cancellation outweigh the advantages of continuing such lease or permit force;
 
@@ -24,7 +24,7 @@ The Secretary shall administer the provisions of this subchapter relating to the
 
 &emsp;(4) for unitization, pooling, and drilling agreements;
 
-&emsp;(5) for the subsurface storage of oil and gas other than by the Federal Government;
+&emsp;(5) for the subsurface storage of oil and gas from any source other than by the Federal Government;
 
 &emsp;(6) for drilling or easements necessary for exploration, development, and production;
 
@@ -70,7 +70,7 @@ Rights-of-way through the submerged lands of the outer Continental Shelf, whethe
 
 #### (h) Federal action affecting outer Continental Shelf; notification; recommended changes
 
-The head of any Federal department or agency who takes any action which has a direct and significant effect on the outer Continental Shelf orits development shall promptly notify the Secretary of such action and the Secretary shall thereafter notify the Governor of any affected State and the Secretary may thereafter recommend such changes in such action as are considered appropriate.
+The head of any Federal department or agency who takes any action which has a direct and significant effect on the outer Continental Shelf or its development shall promptly notify the Secretary of such action and the Secretary shall thereafter notify the Governor of any affected State and the Secretary may thereafter recommend such changes in such action as are considered appropriate.
 
 #### (i) Flaring of natural gas
 
@@ -92,7 +92,7 @@ After September 18, 1978, no holder of any oil and gas lease issued or maintaine
 
 &emsp;The Secretary shall prevent, through the cooperative development of an area, the harmful effects of unrestrained competitive production of hydrocarbons from a common hydrocarbon-bearing area underlying the Federal and State boundary.
 
-(Aug. 7, 1953, ch. 345, §5, 67 Stat. 464; Pub. L. 95–372, title II, §204, Sept. 18, 1978, 92 Stat. 636; Pub. L. 101–380, title VI, §6004(a), Aug. 18, 1990, 104 Stat. 558.)
+(Aug. 7, 1953, ch. 345, §5, 67 Stat. 464; Pub. L. 95–372, title II, §204, Sept. 18, 1978, 92 Stat. 636; Pub. L. 101–380, title VI, §6004(a), Aug. 18, 1990, 104 Stat. 558; Pub. L. 109–58, title III, §321(a), Aug. 8, 2005, 119 Stat. 694.)
 
 #### References in Text
 
@@ -100,9 +100,11 @@ The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360,
 
 #### Amendments
 
+2005—Subsec. (a)(5). Pub. L. 109–58 inserted “from any source” after “oil and gas”.
+
 1990—Subsec. (j). Pub. L. 101–380 added subsec. (j).
 
-1978—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for the suspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
+1978—Subsec. (a). Pub. L. 95–372 expanded provisions formerly contained in subsec. (a)(1) so as to include the enforcement of safety and environmental laws and regulations, consultation with the Attorney General and the Federal Trade Commission, and regulations for thesuspension or temporary prohibition of any operation or activity including production, the cancellation of leases or permits, the prompt and efficient exploration and development of a lease area, and compliance with the national ambient air quality standards to the extent that activities authorized significantly affect the air quality of any State.
 
 Subsec. (b). Pub. L. 95–372 redesignated as subsec. (b) provisions formerly contained in subsec. (a)(2) conditioning the issuance and continuation of leases or of assignments or other transfers of leases upon compliance with regulations, and struck out provisions that had set a penalty of a fine of not more than $2,000 or imprisonment for not more than six months or both for the knowing and willful violation of rules or regulations promulgated by the Secretary. See section 1350 of this title.
 
@@ -130,7 +132,7 @@ Section 6004(b) of Pub. L. 101–380 provided that: “Section 5(j) of the Outer
 
 #### Key Largo Coral Reef Preserve
 
-Secretary of the Interior to prescribe rules and regulations governing the protection and conservation ofthe coral and other mineral resources in the area designated Key Largo Coral Reef Preserve, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
+Secretary of the Interior to prescribe rules and regulations governing the protection and conservation of the coral and other mineral resources in the area designated Key Largo Coral Reef Preserve, see Proc. No. 3339, Mar. 15, 1960, 25 F.R. 2352, set out as a note under section 461 of Title 16, Conservation.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

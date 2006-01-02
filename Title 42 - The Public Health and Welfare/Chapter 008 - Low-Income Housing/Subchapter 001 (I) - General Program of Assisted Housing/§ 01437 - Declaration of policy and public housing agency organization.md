@@ -140,7 +140,7 @@ Section 103(b) of Pub. L. 102–550 provided that:
 
 “(1)
 
-In general.—In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of sections 572, 573, and 574 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, amending this section andsections 1437a, 1437b to 1437d, 1437f, 1437g, 1437i, 1437j, 1437<i>l</i>, 1437n, 1437p, 1437r, 1437s, and 1437aa to 1437dd of this title, repealing section 1437<i>o</i> of this title, and enacting provisions set out as notes under section 1437a of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian Housing Authority.
+In general.—In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of sections 572, 573, and 574 of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, amending this section and sections 1437a, 1437b to 1437d, 1437f, 1437g, 1437i, 1437j, 1437<i>l</i>, 1437n, 1437p, 1437r, 1437s, and 1437aa to 1437dd of this title, repealing section 1437<i>o</i> of this title, and enacting provisions set out as notes under section 1437a of this title\] shall apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian Housing Authority.
 
 “(2)
 
@@ -158,9 +158,11 @@ Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided th
 
 #### Reports on Number and Cost of Federally Assisted Units
 
-Pub. L. 108–447, div. I, title II, §214, Dec. 8, 2004, 118 Stat. 3318, provided that: “The Secretary of Housing and Urban Development shall submit an annual report no later than August 30, 2005 and annually thereafter to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of these units to the Department of Housing and Urban Development.”
+Pub. L. 109–115, div. A, title III, §314, Nov. 30, 2005, 119 Stat. 2463, provided that: “The Secretary of Housing and Urban Development shall submit an annual report no later than August 30, 2006 and annually thereafter to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of these units to the Department of Housing and Urban Development.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. I, title II, §214, Dec. 8, 2004, 118 Stat. 3318.
 
 Pub. L. 108–199, div. G, title II, §213, Jan. 23, 2004, 118 Stat. 393.
 
@@ -212,7 +214,7 @@ Purposes.—The purpose of this title \[see Tables for classification\] is to pr
 
 &emsp;“(5) creating incentives and economic opportunities for residents of dwelling units assisted by public housing agencies to work, become self-sufficient, and transition out of public housing and federally assisted dwelling units;
 
-&emsp;“(6) consolidating the voucher and certificate programs for rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] into a single market-driven program that will assist in making tenant-based rental assistance under suchsection more successful at helping low-income families obtain affordable housing and will increase housing choice for low-income families; and
+&emsp;“(6) consolidating the voucher and certificate programs for rental assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] into a single market-driven program that will assist in making tenant-based rental assistance under such section more successful at helping low-income families obtain affordable housing and will increase housing choice for low-income families; and
 
 &emsp;“(7) remedying the problems of troubled public housing agencies and replacing or revitalizing severely distressed public housing projects.”
 

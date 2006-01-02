@@ -40,7 +40,7 @@ The terms “officer of the customs” and “customs officer” mean any office
 
 #### (j) Customs waters
 
-The term “customs waters” means, in the case of a foreign vessel subject to a treaty or other arrangement between a foreign government and the United States enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States, the waters within such distance of the coast of the United States as the said authorities are or may be so enabled or permitted by such treaty or arrangement and, in the case of every other vessel, the waters within four leagues of the coast of the United States.
+The term “customs waters” means, in the case of a foreign vessel subject to a treaty or other arrangement between a foreign government and the United States enabling or permitting the authorities of the United States to board, examine,search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States, the waters within such distance of the coast of the United States as the said authorities are or may be so enabled or permitted by such treaty or arrangement and, in the case of every other vessel, the waters within four leagues of the coast of the United States.
 
 #### (k) Hovering vessel
 
@@ -88,7 +88,7 @@ The term “import activity summary statement” refers to data or information t
 
 #### (s) Reconciliation
 
-The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information requiredby section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
+The term “reconciliation” means an electronic process, initiated at the request of an importer, under which the elements of an entry (other than those elements related to the admissibility of the merchandise) that are undetermined at the time the importer files or transmits the documentation or information required by section 1484(a)(1)(B) of this title, or the import activity summary statement, are provided to the Customs Service at a later time. A reconciliation is treated as an entry for purposes of liquidation, reliquidation, recordkeeping, and protest.
 
 #### (t) Reconfigured entry
 
@@ -108,7 +108,7 @@ Words “the Philippine Islands” formerly set out in subsec. (h) were omitted 
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §401, 42 Stat. 948, which superseded R.S. §§2766 and Section 401 of the 1922 act was superseded by section 401 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §401, 42Stat. 948, which superseded R.S. §§2766 and Section 401 of the 1922 act was superseded by section 401 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 Act.
 
 Section III of the Underwood Tariff Act of Oct. 3, 1913, ch. 16, 38 Stat. 181, amending the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 131, was repealed by section 643 of the act of Sept. 21, 1922, ch. 356, title IV, 42 Stat. 989.
 

@@ -120,7 +120,3 @@ Amendment by section 951(b) of Pub. L. 105–34 effective Aug. 5, 1997, except t
 
 Amendment by Pub. L. 104–188 applicable to individuals who begin work for the employer after Sept. 30, 1996, see section 1201(g) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 39, 51A, 196, 280C, 1397, 1400, 1400H of this title.
-

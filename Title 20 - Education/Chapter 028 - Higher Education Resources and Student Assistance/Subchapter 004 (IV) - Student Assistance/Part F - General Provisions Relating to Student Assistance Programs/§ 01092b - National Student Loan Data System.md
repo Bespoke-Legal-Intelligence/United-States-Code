@@ -72,7 +72,7 @@ The Secretary shall, not later than July 1, 1993—
 
 The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623;Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746.)
+(Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746.)
 
 #### References in Text
 

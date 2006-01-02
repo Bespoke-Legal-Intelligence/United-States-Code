@@ -15,10 +15,6 @@ Subpart C—Special Rules for Multiemployer Plans
 
 1980—Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1271, added subpart C heading “Special Rules for Multiemployer Plans” and items 418 to 418E.
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in title 29 section 1202.
-
 
 ---
 

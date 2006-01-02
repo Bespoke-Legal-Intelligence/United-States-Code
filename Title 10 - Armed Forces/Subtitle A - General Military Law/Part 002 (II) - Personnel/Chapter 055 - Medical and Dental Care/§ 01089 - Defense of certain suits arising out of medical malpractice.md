@@ -48,6 +48,10 @@ Subsec. (g)(3), (4). Pub. L. 98–94, §934(c)(3), added par. (3) and redesignat
 
 1981—Subsec. (a). Pub. L. 97–124 inserted “the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” after “armed forces,”.
 
+#### Change of Name
+
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.

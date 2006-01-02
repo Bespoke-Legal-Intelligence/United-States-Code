@@ -48,7 +48,7 @@
 
 (2) A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.
 
-(c)(1) Notwithstanding any other provision of this section (except subject to paragraph (3)), arule that would not take effect by reason of subsection (a)(3) may take effect, if the President makes a determination under paragraph (2) and submits written notice of such determination to the Congress.
+(c)(1) Notwithstanding any other provision of this section (except subject to paragraph (3)), a rule that would not take effect by reason of subsection (a)(3) may take effect, if the President makes a determination under paragraph (2) and submits written notice of such determination to the Congress.
 
 (2) Paragraph (1) applies to a determination made by the President by Executive order that the rule should take effect because such rule is—
 

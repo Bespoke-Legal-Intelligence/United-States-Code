@@ -14,7 +14,7 @@ Under such rules and regulations as the Commission may prescribe, every public u
 
 #### (d) Notice required for rate changes
 
-Unless the Commission otherwise orders, no change shall be made by any public utility inany such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after sixty days’ notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the sixty days’ notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
+Unless the Commission otherwise orders, no change shall be made by any public utility in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after sixty days’ notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the sixty days’ notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
 
 #### (e) Suspension of new rates; hearings; five-month period
 
@@ -53,12 +53,6 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 1978—Subsec. (d). Pub. L. 95–617, §207(a), substituted “sixty” for “thirty” in two places.
 
 Subsec. (f). Pub. L. 95–617, §208, added subsec. (f).
-
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions with regard to establishment, review, and enforcement of rates and charges for transmission or sale of electric energy, including determinations on construction work in progress under this subchapter transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(B) and 7293 of Title 42, The Public Health and Welfare.
-
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
 #### Study of Electric Rate Increases Under Federal Power Act
 

@@ -178,7 +178,7 @@ There are authorized to be appropriated through fiscal year 1991, such sums as m
 
 #### (<i>l</i>) Public surveys
 
-The Commission is authorized to conduct such public surveys as it deems necessary in support of its review of national issues affecting children and, in conducting such surveys, the Commission shall not be deemed to be an “agency” for the purpose of section 3502 of title 44.
+The Commission is authorized to conduct such public surveys as it deems necessary in supportof its review of national issues affecting children and, in conducting such surveys, the Commission shall not be deemed to be an “agency” for the purpose of section 3502 of title 44.
 
 (Aug. 14, 1935, ch. 531, title XI, §1139, as added Pub. L. 100–203, title IX, §9136, Dec. 22, 1987, 101 Stat. 1330–316; amended Pub. L. 100–647, title VIII, §8201, Nov. 10, 1988, 102 Stat. 3798; Pub. L. 101–45, title IV, §409, June 30, 1989, 103 Stat. 130; Pub. L. 101–239, title VI, §6221, Dec. 19, 1989, 103 Stat. 2255; Pub. L. 101–508, title IV, §4207(k)(6), formerly §4027(k)(6), title V, §5057, Nov. 5, 1990, 104 Stat. 1388–125, 1388–230; Pub. L. 103–432, title I, §160(d)(4), title II, §264(d), Oct. 31, 1994, 108 Stat. 4444, 4468.)
 

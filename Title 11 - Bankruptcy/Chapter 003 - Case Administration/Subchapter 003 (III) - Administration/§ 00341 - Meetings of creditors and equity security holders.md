@@ -4,7 +4,7 @@
 
 (b) The United States trustee may convene a meeting of any equity security holders.
 
-(c) The court may not preside at, and may not attend, any meeting under this section including any final meeting of creditors.
+(c) The court may not preside at, and may not attend, any meeting under this section including any final meeting of creditors. Notwithstanding any local court rule, provision of a State constitution, any otherwise applicable nonbankruptcy law, or any other requirement that representation at the meeting of creditors under subsection (a) be by an attorney, a creditor holding a consumer debt or any representative of the creditor (which may include an entity or an employee of an entity and may be a representative for more than 1 creditor) shall be permitted to appear at and participate in the meeting of creditors in a case under chapter 7 or 13, either alone or in conjunction with an attorney for the creditor. Nothing in this subsection shall be construed to require any creditor to be represented by an attorney at any meeting of creditors.
 
 (d) Prior to the conclusion of the meeting of creditors or equity security holders, the trustee shall orally examine the debtor to ensure that the debtor in a case under chapter 7 of this title is aware of—
 
@@ -16,13 +16,15 @@
 
 &emsp;(4) the effect of reaffirming a debt, including the debtor's knowledge of the provisions of section 524(d) of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 99–554, title II, §212, Oct. 27, 1986, 100 Stat. 3099; Pub. L. 103–394, title I, §115, Oct. 22, 1994, 108 Stat. 4118.)
+(e) Notwithstanding subsections (a) and (b), the court, on the request of a party in interest and after notice and a hearing, for cause may order that the United States trustee not convene a meeting of creditors or equity security holders if the debtor has filed a plan as to which the debtor solicited acceptances prior to the commencement of the case.
+
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 99–554, title II, §212, Oct. 27, 1986, 100 Stat. 3099; Pub. L. 103–394, title I, §115, Oct. 22, 1994, 108 Stat. 4118; Pub. L. 109–8, title IV, §§402, 413, Apr. 20, 2005, 119 Stat. 104, 107.)
 
 #### Historical and Revision Notes
 
 I74legislative statements
 
-Section 341(c) of the Senate amendment is deleted and a contrary provision is added indicating that the bankruptcy judge will not preside at or attend the first meeting of creditors or equity security holders but adischarge hearing for all individuals will be held at which the judge will preside.
+Section 341(c) of the Senate amendment is deleted and a contrary provision is added indicating that the bankruptcy judge will not preside at or attend the first meeting of creditors or equity security holders but a discharge hearing for all individuals will be held at which the judge will preside.
 
 #### senate report no. 95–989
 
@@ -34,6 +36,10 @@ Subsection (c) makes clear that the bankruptcy judge is to preside at the meetin
 
 #### Amendments
 
+2005—Subsec. (c). Pub. L. 109–8, §413, inserted at end “Notwithstanding any local court rule, provision of a State constitution, any otherwise applicable nonbankruptcy law, or any other requirement that representation at the meeting of creditors under subsection (a) be by an attorney, a creditor holding a consumer debt or any representative of the creditor (which may include an entity or an employee of an entity and may be a representative for more than 1 creditor) shall be permitted to appear at and participate in the meeting of creditors in a case under chapter 7 or 13, either alone or in conjunction with an attorney for the creditor. Nothing in this subsection shall be construed to require any creditor to be represented by an attorney at any meeting of creditors.”
+
+Subsec. (e). Pub. L. 109–8, §402, added subsec. (e).
+
 1994—Subsec. (d). Pub. L. 103–394 added subsec. (d).
 
 1986—Subsec. (a). Pub. L. 99–554, §212(1), substituted “the United States trustee shall convene and preside at a meeting of creditors” for “there shall be a meeting of creditors”.
@@ -41,6 +47,10 @@ Subsection (c) makes clear that the bankruptcy judge is to preside at the meetin
 Subsec. (b). Pub. L. 99–554, §212(2), substituted “United States trustee may convene” for “court may order”.
 
 Subsec. (c). Pub. L. 99–554, §212(3), inserted “including any final meeting of creditors”.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

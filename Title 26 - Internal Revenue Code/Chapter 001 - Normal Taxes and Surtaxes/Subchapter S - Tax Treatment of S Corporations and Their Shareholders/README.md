@@ -9,10 +9,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1366, 1379, 6037 of this title.
-
 
 ---
 

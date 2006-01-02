@@ -18,7 +18,7 @@ The Postal Service shall collect $10.00 for each stamp sold under the provisions
 
 #### Amendments
 
-1986—Subsec. (b). Pub. L. 99–645, §202(1), (2), in introductory provisions, substituted “$10.00 for each stampsold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if” for “$7.50 for each stamp sold under the provisions of this section for any hunting year if”.
+1986—Subsec. (b). Pub. L. 99–645, §202(1), (2), in introductory provisions, substituted “$10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if” for “$7.50 for each stamp sold under the provisions of this section for any hunting year if”.
 
 Pub. L. 99–625 and Pub. L. 99–645, §202(3), amended subsec. (b) identically, inserting “available for obligation” before “attributable to”.
 

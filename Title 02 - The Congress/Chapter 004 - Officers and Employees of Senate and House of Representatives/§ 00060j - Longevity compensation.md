@@ -58,7 +58,7 @@ Pub. L. 95–240 inserted reference to Deputy Chief Guide in par. (8).
 
 Subsec. (b). Pub. L. 95–391 substituted provisions setting forth requirements respecting the computation, except as provided in par. (2), of additional annual compensation for any employee to whom this section applies during any period of continuous creditable service, for provisions setting forth requirements respecting the computation of additional gross compensation for any employee to whom this section applies during any period of continuous service.
 
-1977—Subsec. (b). Figure “1,002” deemed to refer to the figure “1,074”, effective Oct. 1, 1977, pursuant toPub. L. 91–656, §4, see section 4(c) of Salary Directive of President pro tempore of the Senate, Sept. 29, 1977, set out as a note under section 60a–1 of this title.
+1977—Subsec. (b). Figure “1,002” deemed to refer to the figure “1,074”, effective Oct. 1, 1977, pursuant to Pub. L. 91–656, §4, see section 4(c) of Salary Directive of President pro tempore of the Senate, Sept. 29, 1977, set out as a note under section 60a–1 of this title.
 
 1976—Subsec. (b). Figure “954” deemed to refer to the figure “1,002”, effective Oct. 1, 1976, pursuant to Pub. L. 91–656, §4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, set out as a note under section 60a–1 of this title.
 

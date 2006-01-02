@@ -54,7 +54,7 @@
 
 (5) The Secretary of the Treasury in consultation with the Commissioner of Social Security and the Director of the Office of Management and Budget, may prescribe such rules, regulations, and procedures as the Secretary of the Treasury considers necessary to carry out this subsection. The Secretary shall consult with the heads of affected agencies in the development of such rules, regulations, and procedures.
 
-(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government,shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
+(6) Any Federal agency that is owed by a person a past due, legally enforceable nontax debt that is over 180 days delinquent, including nontax debt administered by a third party acting as an agent for the Federal Government, shall notify the Secretary of the Treasury of all such nontax debts for purposes of administrative offset under this subsection.
 
 (7)(A) The disbursing official conducting an administrative offset with respect to a payment to a payee shall notify the payee in writing of—
 
@@ -186,7 +186,7 @@ Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
 The Debt Collection Improvement Act of 1996, Public Law 104–134 \[§31001\] (110 Stat. 1321–358 <i>et seq</i>.) \[see Short Title of 1996 Amendment note set out under section 3701 of this title\], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
-The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
+The failure of some parents to meet their child support obligations threatens the health, education, andwell-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
 Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -208,7 +208,7 @@ Section 1. <i>Administrative Offsets</i>. (a)(1) The Secretary of the Treasury (
 
 (f) The Secretary shall, to the extent permitted by law, share with the Secretary of Health and Human Services any information contained in payment certification records of persons who are delinquent in child support obligations that would assist in the collection of such debts, whether or not an administrative offset is conducted.
 
-Sec. 2. <i>Denial of Federal Assistance</i>. (a) The Secretary shall, to the extent permitted by law, ensure that information concerning individuals whose payments are subject to administrative offset because of delinquent child support obligations is made available to the headof each executive department and agency that provides Federal financial assistance to individuals.
+Sec. 2. <i>Denial of Federal Assistance</i>. (a) The Secretary shall, to the extent permitted by law, ensure that information concerning individuals whose payments are subject to administrative offset because of delinquent child support obligations is made available to the head of each executive department and agency that provides Federal financial assistance to individuals.
 
 (b) In conformance with section 2(e) of this order, the head of each executive department and agency shall, with respect to any individuals whose payments are subject to administrative offset because of a delinquent child support obligation, promptly implement procedures to deny Federal financial assistance to such individuals.
 

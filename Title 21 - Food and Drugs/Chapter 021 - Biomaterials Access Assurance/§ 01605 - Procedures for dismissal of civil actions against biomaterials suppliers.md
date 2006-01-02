@@ -2,7 +2,7 @@
 
 #### (a) Motion to dismiss
 
-A defendant may, at any time during which a motion to dismiss may be filed under applicable law, move to dismiss an action against it on the grounds that the defendant is a biomaterials supplier and one or more of the following:
+A defendant may, at any time during which a motion to dismiss may be filed under applicablelaw, move to dismiss an action against it on the grounds that the defendant is a biomaterials supplier and one or more of the following:
 
 &emsp;(1) The defendant is not liable as a manufacturer, as provided in section 1604(b) of this title.
 
@@ -82,7 +82,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (B) Issues of material fact
 
-&emsp;&emsp;With respect to a finding made under subparagraph (A), the court shall consider a genuine issue of material fact to exist only if the evidence submitted by the claimant would be sufficient to allow a reasonable jury to reach a verdict for the claimant if the jury found the evidence to be credible.
+&emsp;&emsp;With respect to a finding made under subparagraph (A), the court shall consider a genuine issue of material fact to exist onlyif the evidence submitted by the claimant would be sufficient to allow a reasonable jury to reach a verdict for the claimant if the jury found the evidence to be credible.
 
 #### (2) Discovery made prior to a ruling on a motion for summary judgment
 
@@ -98,7 +98,7 @@ An order granting a motion to dismiss or for summary judgment pursuant to this s
 
 #### (f) Manufacturer conduct of litigation
 
-The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicablecontractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
+The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
 (Pub. L. 105–230, §6, Aug. 13, 1998, 112 Stat. 1526.)
 

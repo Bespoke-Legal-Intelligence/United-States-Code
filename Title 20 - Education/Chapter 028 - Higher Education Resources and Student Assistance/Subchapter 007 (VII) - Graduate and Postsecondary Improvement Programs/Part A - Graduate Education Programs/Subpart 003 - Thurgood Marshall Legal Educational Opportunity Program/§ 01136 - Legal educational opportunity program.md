@@ -64,7 +64,7 @@ The services described in subsection (d) of this section may be provided—
 
 #### (f) Subcontracts and subgrants
 
-For the purposes of planning, developing, or delivering one or more of the services describedin subsection (d) of this section, the Council on Legal Education Opportunity shall enter into subcontracts with, and make subgrants to, institutions of higher education, law schools, public and private agencies and organizations, and combinations of such institutions, schools, agencies, and organizations.
+For the purposes of planning, developing, or delivering one or more of the services described in subsection (d) of this section, the Council on Legal Education Opportunity shall enter into subcontracts with, and make subgrants to, institutions of higher education, law schools, public and private agencies and organizations, and combinations of such institutions, schools, agencies, and organizations.
 
 #### (g) Stipends
 

@@ -118,7 +118,7 @@ Small providers of services or suppliers.—In this section, the term ‘small p
 
 “(b)
 
-Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such as peer review organizations or entities described in section 1889(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
+Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such aspeer review organizations or entities described in section 1889(g)(2) of the Social Security Act \[subsec. (g)(2) of this section\], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
 
 “(c)
 

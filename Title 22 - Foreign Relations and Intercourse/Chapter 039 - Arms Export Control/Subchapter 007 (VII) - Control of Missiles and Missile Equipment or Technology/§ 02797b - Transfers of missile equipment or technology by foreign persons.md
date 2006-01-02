@@ -14,7 +14,7 @@
 
 (2) The sanctions which apply to a foreign person under paragraph (1) are the following:
 
-&emsp;(A) If the item involved in the export, transfer, or trade is within category II of the MTCRAnnex, then the President shall deny, for a period of 2 years—
+&emsp;(A) If the item involved in the export, transfer, or trade is within category II of the MTCR Annex, then the President shall deny, for a period of 2 years—
 
 &emsp;&emsp;(i) United States Government contracts relating to missile equipment or technology; and
 
@@ -56,7 +56,7 @@ Sanctions set forth in subsection (a) of this section may not be imposed under t
 
 #### (d) Advisory opinions
 
-The Secretary of State, in consultation with the Secretary of Defense and the Secretary of Commerce, may, upon the request of any person, issue an advisory opinion to that person as to whether a proposed activity by that person would subject that person to sanctions under this section. Any person who relies in good faith on such an advisory opinion which states that the proposed activity would not subject a person to such sanctions, and any person who thereafter engages in such activity, may not be made subject to such sanctions on account of such activity.
+The Secretary of State, in consultation with the Secretary of Defense and the Secretary ofCommerce, may, upon the request of any person, issue an advisory opinion to that person as to whether a proposed activity by that person would subject that person to sanctions under this section. Any person who relies in good faith on such an advisory opinion which states that the proposed activity would not subject a person to such sanctions, and any person who thereafter engages in such activity, may not be made subject to such sanctions on account of such activity.
 
 #### (e) Waiver and report to Congress
 
@@ -144,7 +144,7 @@ For delegation of certain functions of the President under this section, see Ex.
 
 #### Space Cooperation With Russian Persons
 
-Pub. L. 106–280, title VII, §708, Oct. 6, 2000, 114 Stat. 862, provided that:
+Pub. L. 106–280, title VII, §708, Oct. 6, 2000, 114 Stat. 862, as amended by Pub. L. 109–112, §4(e)(2), Nov. 22, 2005, 119 Stat. 2370, provided that:
 
 “(a)
 
@@ -152,7 +152,7 @@ Annual Certification.—
 
 &emsp;“(1)
 
-Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
+Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran and Syria Nonproliferation Act (Public Law 106–178) \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
 
 &emsp;“(2)
 
@@ -160,7 +160,7 @@ Applicability.—The certification requirement under paragraph (1) applies with 
 
 &emsp;“(3)
 
-Exemption.—No activity or transfer which specifically has been the subject of a Presidential determination pursuant to section 5(a)(1), (2), or (3) of the Iran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] shall cause a Russian person to be considered as having been identified in the reports submitted during the preceding calendar year under section 2 of that Act for the purposes of the certification required under paragraph (1).
+Exemption.—No activity or transfer which specifically has been the subject of a Presidential determination pursuant to section 5(a)(1), (2), or (3) of the Iran and Syria Nonproliferation Act (Public Law 106–178) \[50 U.S.C. 1701 note\] shall cause a Russian person to be considered as having been identified in the reports submitted during the preceding calendar year under section 2 of that Act for the purposes of the certification required under paragraph (1).
 
 &emsp;“(4)
 

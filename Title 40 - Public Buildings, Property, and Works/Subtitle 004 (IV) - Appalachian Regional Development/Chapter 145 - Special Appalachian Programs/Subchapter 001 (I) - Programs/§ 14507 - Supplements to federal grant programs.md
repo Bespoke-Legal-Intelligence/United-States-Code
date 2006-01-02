@@ -40,7 +40,7 @@ Certain sewage treatment works deemed constructed with federal grant assistance.
 
 (b)
 
-Purpose.—To enable the people, States, and local communities of the Appalachian region, including local development districts, to take maximum advantage of federal grant programs for which they are eligible but for which, because of their economic situation, they cannot supply the required matching share, or for which there are insufficient amounts available under the federal law authorizing the programs to meet pressing needs of the region, the Federal Cochairman may use amounts made available to carry out this section—
+Purpose.—To enable the people, States, and local communities of the Appalachian region, including local development districts, to take maximum advantage of federal grant programs for which they are eligible but for which, because of their economic situation, they cannot supply the required matching share, or forwhich there are insufficient amounts available under the federal law authorizing the programs to meet pressing needs of the region, the Federal Cochairman may use amounts made available to carry out this section—
 
 &emsp;(1) for any part of the basic federal contribution to projects or activities under the federal grant programs authorized by federal laws; and
 
@@ -138,7 +138,7 @@ The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)
 
 The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2), is act June 30, 1948, ch. 758,as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(1)(A)(vi), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VI of the Act is classified generally to subchapter IV (§291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 

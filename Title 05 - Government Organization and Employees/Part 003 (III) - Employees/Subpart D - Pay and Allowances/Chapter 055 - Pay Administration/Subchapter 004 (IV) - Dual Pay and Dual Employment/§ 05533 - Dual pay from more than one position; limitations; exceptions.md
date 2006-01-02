@@ -136,7 +136,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, set out as a note under section 60a–1 of Title 2, The Congress.
+2006—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2006, to the figure “$29,905”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 4, 2006, set out as a note under section 60a–1 of Title 2, The Congress.
+
+2005—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2005, to the figure “$29,289”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 3, 2005, formerly set out as a note under section 60a–1 of Title 2, The Congress.
 
 2004—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2004, to the figure “$28,574”, see section 9 of Salary Directive of President pro tempore of the Senate, Mar. 5, 2004, formerly set out as a note under section 60a–1 of Title 2.
 
@@ -152,7 +154,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 1998—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1998, to the figure “$23,698”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 1997, formerly set out as a note under section 60a–1 of Title 2.
 
-1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to the figure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under section 60a–1 of Title 2.
+1997—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1997, to thefigure “$23,165”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1996, formerly set out as a note under section 60a–1 of Title 2.
 
 1995—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1995, to the figure “$22,200”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 28, 1994, formerly set out as a note under section 60a–1 of Title 2.
 
@@ -192,7 +194,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 1971—The figure “7,724” in subsection (c)(1) of this section, deemed to refer, effective Feb. 1, 1971, to the figure “8,187”, see section 9 of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under section 60a–1 of Title 2.
 
-1970—Adjustment by President pro tempore of the Senate with respect to Senate, by Finance Clerk ofHouse with respect to House of Representatives, and by Architect of Capitol with respect to Office of Architect of Capitol, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of rates of pay of employees of legislative branch subject to section 214 of Pub. L. 90–206 with certain exceptions, by amounts of adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of this title, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, set out as a note under section 5332 of this title.
+1970—Adjustment by President pro tempore of the Senate with respect to Senate, by Finance Clerk of House with respect to House of Representatives, and by Architect of Capitol with respect to Office of Architect of Capitol, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, of rates of pay of employees of legislative branch subject to section 214 of Pub. L. 90–206 with certain exceptions, by amounts of adjustment for corresponding rates for employees subject to the General Schedule, set out in section 5332 of this title, which had been made by section 2 of Pub. L. 91–231 raising such rates by 6 percent, see Pub. L. 91–231, formerly set out as a note under section 5332 of this title.
 
 1969—The figure “6,662” in subsection (c)(1)(A) of this section, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “7,287”, see section 4(d) of Salary Directive of President pro tempore of the Senate, June 17, 1969, formerly set out as a note under section 60a–1 of Title 2.
 

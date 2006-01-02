@@ -32,5 +32,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Study of Agencies Engaged in Foreign Economic Activities
 
-Section 604 of Pub. L. 86–472, ch. VI, May 14, 1960, 74 Stat. 141, which related to study of agencies engaged in foreign economic activities, was repealed by Pub. L. 87–195, pt. III, §642(a)(8), Sept. 4, 1961, 75 Stat. 460.
+Section 604 of Pub. L. 86–472, ch. VI, May 14, 1960, 74 Stat. 141, which related to study of agencies engaged inforeign economic activities, was repealed by Pub. L. 87–195, pt. III, §642(a)(8), Sept. 4, 1961, 75 Stat. 460.
 

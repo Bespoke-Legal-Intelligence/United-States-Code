@@ -28,7 +28,3 @@ For purposes of this subchapter—
 
 A prior section 4472 was contained in subchapter C of this chapter prior to repeal by Pub. L. 89–44, title IV, §404, June 21, 1965, 79 Stat. 149.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 18 section 1081.
-

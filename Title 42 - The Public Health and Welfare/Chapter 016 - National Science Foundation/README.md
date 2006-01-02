@@ -79,7 +79,7 @@
 | (e) | National Academy of Sciences study on major research equipment and facilities construction. |
 | 1862n–5. | Board meetings; audits; reports; scholarship eligibility. |
 | (a) | Board meetings. |
-| (b), (c) | Omitted. |
+| (b),  (c) | Omitted. |
 | (d) | Scholarship eligibility. |
 | 1862n–6. | Undergraduate education reform. |
 | (a) | In general. |

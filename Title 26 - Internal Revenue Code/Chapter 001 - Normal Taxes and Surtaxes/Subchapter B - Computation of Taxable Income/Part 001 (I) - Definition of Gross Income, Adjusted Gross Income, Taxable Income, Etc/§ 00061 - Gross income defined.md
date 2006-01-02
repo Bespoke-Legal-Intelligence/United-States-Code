@@ -258,7 +258,3 @@ Prepublication Expenditures Defined.—For purposes of this section, the term �
 
 Pub. L. 86–780, §5, Sept. 14, 1960, 74 Stat. 1013, provided for the exclusion from gross income of any amount received after Dec. 31, 1949, and before Oct. 1, 1955, by employees of certain corporations as reimbursement for moving expenses, and the refund or credit of any overpayments.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 208A, 305, 351, 354, 355, 356, 408, 671, 707, 6103 of this title.
-

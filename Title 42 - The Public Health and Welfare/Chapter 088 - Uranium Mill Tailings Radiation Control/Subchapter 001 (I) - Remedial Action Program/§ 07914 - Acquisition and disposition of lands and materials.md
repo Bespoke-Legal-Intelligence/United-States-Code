@@ -6,9 +6,9 @@ Each cooperative agreement under section 7913 of this title shall require the St
 
 #### (b) Disposition and stabilization site for residual radioactive materials; Federal site available
 
-(1) If the Secretary with the concurrence of the Commission determines that removal of residual radioactive material from a processing site is appropriate, the cooperative agreement shall provide that the State shall acquire land (including, where appropriate, any interest therein) to be used as a site for the permanent disposition and stabilization of such residual radioactive materials in a safe and environmentally sound manner.
+(1) If the Secretary with the concurrence of the Commission determines that removal of residual radioactive material from a processing site is appropriate, the cooperative agreement shall provide that the State shall acquire land (including, where appropriate, any interest therein) to be used as a site for the permanentdisposition and stabilization of such residual radioactive materials in a safe and environmentally sound manner.
 
-(2) Acquisition by the State shall not be required under this subsection if a site located on land controlled by the Secretary or made available by the Secretary of the Interior pursuant to section 7916(2) of this title is designated by theSecretary, with the concurrence of the Commission, for such disposition and stabilization.
+(2) Acquisition by the State shall not be required under this subsection if a site located on land controlled by the Secretary or made available by the Secretary of the Interior pursuant to section 7916(2) of this title is designated by the Secretary, with the concurrence of the Commission, for such disposition and stabilization.
 
 #### (c) Boundary limitations
 
@@ -50,9 +50,9 @@ In the case of each processing site designated under this subchapter other than 
 
 #### (g) Reimbursement; fair market value; deposits in Treasury
 
-Each agreement under section 7913 of this title which permits any sale described in subsection (e)(1)(A) of this section shall provide for the prompt reimbursement to the Secretary from the proceeds of such sale. Such reimbursement shall be in an amount equal to the lesser of—
+Each agreement under section 7913 of this title which permits any sale described in subsection\(e)(1)(A) of this section shall provide for the prompt reimbursement to the Secretary from the proceeds of such sale. Such reimbursement shall be in an amount equal to the lesser of—
 
-&emsp;(1) that portion of the fair market value of the lands or interests therein which bears the same ratio to such fair market value as the Federal share of the costs of acquisition bythe State to such lands or interest therein bears to the total cost of such acquisition, or
+&emsp;(1) that portion of the fair market value of the lands or interests therein which bears the same ratio to such fair market value as the Federal share of the costs of acquisition by the State to such lands or interest therein bears to the total cost of such acquisition, or
 
 &emsp;(2) the total amount paid by the Secretary with respect to such acquisition.
 

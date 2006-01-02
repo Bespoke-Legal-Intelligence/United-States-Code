@@ -6,7 +6,7 @@ In order to carry out the policy described in section 5195 of this title, the Di
 
 #### (b) Federal emergency response plans and programs
 
-The Director may prepare Federal response plans and programs for the emergency preparedness of the United States and sponsor and direct such plans and programs. To prepare such plans and programs and coordinate such plans and programs with State efforts, the Director mayrequest such reports on State plans and operations for emergency preparedness as may be necessary to keep the President, Congress, and the States advised of the status of emergency preparedness in the United States.
+The Director may prepare Federal response plans and programs for the emergency preparedness of the United States and sponsor and direct such plans and programs. To prepare such plans and programs and coordinate such plans and programs with State efforts, the Director may request such reports on State plans and operations for emergency preparedness as may be necessary to keep the President, Congress, and the States advised of the status of emergency preparedness in the United States.
 
 #### (c) Delegation of emergency preparedness responsibilities
 
@@ -106,7 +106,7 @@ The Director may arrange for the sale or disposal of materials and facilities fo
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j)(8), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (k), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub.L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (k), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 

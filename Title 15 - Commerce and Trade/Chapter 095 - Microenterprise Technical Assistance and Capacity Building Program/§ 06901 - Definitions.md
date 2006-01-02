@@ -12,7 +12,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (3) Capacity building services
 
-&emsp;The term “capacity building services” means services provided to an organization that is, or that is in the process of becoming, a microenterprise development organization or program, for the purpose of enhancing its ability to provide training and services to disadvantaged entrepreneurs.
+&emsp;The term “capacity building services” means services provided to an organizationthat is, or that is in the process of becoming, a microenterprise development organization or program, for the purpose of enhancing its ability to provide training and services to disadvantaged entrepreneurs.
 
 #### (4) Collaborative
 
@@ -68,5 +68,5 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### Short Title
 
-Pub. L. 103–325, title I, §171, as added by Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1471, provided that: “This subtitle \[subtitle C (§§171–181) of titleI of Pub. L. 103–325, as added by Pub. L. 106–102, enacting this chapter\] may be cited as the ‘Program for Investment in Microentrepreneurs Act of 1999’, also referred to as the ‘PRIME Act’.”
+Pub. L. 103–325, title I, §171, as added by Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1471, provided that: “This subtitle \[subtitle C (§§171–181) of title I of Pub. L. 103–325, as added by Pub. L. 106–102, enacting this chapter\] may be cited as the ‘Program for Investment in Microentrepreneurs Act of 1999’, also referred to as the ‘PRIME Act’.”
 

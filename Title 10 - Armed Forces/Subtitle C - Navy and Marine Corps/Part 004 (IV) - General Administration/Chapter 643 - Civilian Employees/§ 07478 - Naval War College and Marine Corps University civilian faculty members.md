@@ -52,7 +52,3 @@ Subsecs. (a), (c). Pub. L. 105–85, §1109(a), substituted “of the Marine Cor
 
 “(c) The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 5 section 5102.
-

@@ -26,7 +26,7 @@ Preliminary injunctive relief.—In any civil action with respect to prison cond
 
 Prisoner release order.—(A) In any civil action with respect to prison conditions, no court shall enter a prisoner release order unless—
 
-&emsp;&emsp;(i) a court has previously entered an order for less intrusive relief that has failed to remedy the deprivation of the Federal right sought to be remedied through the prisoner release order; and
+&emsp;&emsp;(i) a court has previously entered an order for less intrusive relief that has failed to remedy the deprivation of the Federal rightsought to be remedied through the prisoner release order; and
 
 &emsp;&emsp;(ii) the defendant has had a reasonable amount of time to comply with the previous court orders.
 
@@ -110,7 +110,7 @@ Automatic stay.—Any motion to modify or terminate prospective relief made unde
 
 &emsp;(3)
 
-Postponement of automatic stay.—The court may postpone the effective date of an automatic stay specified in subsection (e)(2)(A) for not more than 60 days for good cause. No postponement shall be permissible because of general congestion of the court's calendar.
+Postponement of automatic stay.—The court may postpone the effective date of an automatic stay specified in subsection\(e)(2)(A) for not more than 60 days for good cause. No postponement shall be permissible because of general congestion of the court's calendar.
 
 &emsp;(4)
 
@@ -224,7 +224,7 @@ Section 101\[(a)\] \[title VIII, §810\] of Pub. L. 104–134 provided that: “
 
 #### Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: “None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of titleVIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: “None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996.”
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 

@@ -56,7 +56,3 @@
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3046.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9703, 9704 of this title.
-

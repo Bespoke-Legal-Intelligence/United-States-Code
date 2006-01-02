@@ -28,7 +28,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) or under section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
+&emsp;&emsp;&emsp;Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) orunder section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
 
 #### (ii) Exception
 
@@ -52,7 +52,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (G) Marriage fraud
 
-&emsp;&emsp;An alien shall be considered to be deportable as having procured a visa or other documentation by fraud (within the meaning of section 1182(a)(6)(C)(i) of this title) and to be in the United States in violation of thischapter (within the meaning of subparagraph (B)) if—
+&emsp;&emsp;An alien shall be considered to be deportable as having procured a visa or other documentation by fraud (within the meaning of section 1182(a)(6)(C)(i) of this title) and to be in the United States in violation of this chapter (within the meaning of subparagraph (B)) if—
 
 &emsp;&emsp;&emsp;(i) the alien obtains any admission into the United States with an immigrant visa or other documentation procured on the basis of a marriage entered into less than 2 years prior to such admission of the alien and which, within 2 years subsequent to any admission of the alien in the United States, shall be judicially annulled or terminated, unless the alien establishes to the satisfaction of the Attorney General that such marriage was not contracted for the purpose of evading any provisions of the immigration laws, or
 
@@ -86,7 +86,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Multiple criminal convictions
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of two or more crimes involving moral turpitude, not arising out of a single scheme of criminal misconduct, regardless of whether confined therefor and regardless of whether the convictions were in a single trial, is deportable.
+&emsp;&emsp;&emsp;Any alien who at any time after admission is convicted of two or more crimes involving moral turpitude, not arising out of a single scheme of criminal misconduct, regardless of whether confined thereforand regardless of whether the convictions were in a single trial, is deportable.
 
 #### (iii) Aggravated felony
 
@@ -192,7 +192,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (B) Terrorist activities
 
-&emsp;&emsp;Any alien who has engaged, is engaged, or at any time after admission engages in any terrorist activity (as defined in section 1182(a)(3)(B)(iv) of this title) is deportable.
+&emsp;&emsp;Any alien who is described in subparagraph (B) or (F) of section 1182(a)(3) of this title is deportable.
 
 #### (C) Foreign policy
 
@@ -208,17 +208,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;Any alien described in clause (i), (ii), or (iii) of section 1182(a)(3)(E) of this title is deportable.
 
-#### (E) <sup>1</sup> Recipient of military-type training
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Any alien who has received military-type training from or on behalf of any organization that, at the time the training was received, was a terrorist organization (as defined in subclause (I) or (II) of section 1182(a)(3)(B)(vi) of this title), is deportable.
-
-#### (ii) Definition
-
-&emsp;&emsp;&emsp;As used in this subparagraph, the term “military-type training” includes training in means or methods that can cause death or serious bodily injury, destroy or damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm, or other weapon, including any weapon of mass destruction (as defined in section 2332a(c)(2) of title 18).
-
-#### (E) <sup>1</sup> Participated in the commission of severe violations of religious freedom
+#### (E) Participated in the commission of severe violations of religious freedom
 
 &emsp;&emsp;Any alien described in section 1182(a)(2)(G) of this title is deportable.
 
@@ -244,7 +234,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;(i) upon a determination that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the alien was acting is <sup>2</sup> self-defense;
+&emsp;&emsp;&emsp;&emsp;(I) the alien was acting is <sup>1</sup> self-defense;
 
 &emsp;&emsp;&emsp;&emsp;(II) the alien was found to have violated a protection order intended to protect the alien; or
 
@@ -264,9 +254,9 @@ An alien, admitted as a nonimmigrant under the provision of either section 1101(
 
 #### (c) Waiver of grounds for deportation
 
-Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to aground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
+Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) of this section (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741.)
+(June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613, 2620; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470, 4473; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006, 5050, 5051, 5061, 5077, 5081; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745, 1755, 1756; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311, 4317; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270, 1274; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558, 3009–579, 3009–598, 3009–617, 3009–619 to 3009–622, 3009–637 to 3009–640, 3009–721, 3009–723; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525, 1526; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634, 1635; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736, 3737, 3740, 3741; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309, 310.)
 
 #### References in Text
 
@@ -292,13 +282,17 @@ A prior section 1227, acts June 27, 1952, ch. 477, title II, ch. 4, §237, 66 St
 
 #### Amendments
 
+2005—Subsec. (a)(4)(B). Pub. L. 109–13, §105(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any alien who has engaged, is engaged, or at any time afteradmission engages in any terrorist activity (as defined in section 1182(a)(3)(B)(iv) of this title) is deportable.”
+
+Subsec. (a)(4)(E). Pub. L. 109–13, §105(b), repealed Pub. L. 108–458, §5402. See 2004 Amendment note below.
+
 2004—Subsec. (a)(1)(B). Pub. L. 108–458, §5304(b), substituted “United States, or whose nonimmigrant visa (or other documentation authorizing admission into the United States as a nonimmigrant) has been revoked under section 1201(i) of this title, is” for “United States is”.
 
 Subsec. (a)(4)(D). Pub. L. 108–458, §5501(b), substituted “Participated in Nazi persecution, genocide, or the commission of any act of torture or extrajudicial killing” for “Assisted in Nazi persecution or engaged in genocide” in heading and “clause (i), (ii), or (iii)” for “clause (i) or (ii)” in text.
 
 Subsec. (a)(4)(E). Pub. L. 108–458, §5502(b), added subpar. (E) relating to participation in the commission of severe violations of religious freedom.
 
-Pub. L. 108–458, §5402, added subpar. (E) relating to recipient of military-type training.
+Pub. L. 108–458, §5402, which added subpar. (E) relating to recipient of military-type training, was repealed by Pub. L. 109–13, §105(b). See Effective Date of 2005 Amendment note below.
 
 2001—Subsec. (a)(4)(B). Pub. L. 107–56 substituted “section 1182(a)(3)(B)(iv) of this title” for “section 1182(a)(3)(B)(iii) of this title”.
 
@@ -464,6 +458,16 @@ Subsec. (g). Pub. L. 99–639, §2(b)(2), added subsec. (g).
 
 Subsec. (b). Act July 18, 1956, §301(c), inserted at end “The provisions of this subsection shall not apply in the case of any alien who is charged with being deportable from the United States under subsection (a)(11) of this section.”
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–13, div. B, title I, §105(a)(2), May 11, 2005, 119 Stat. 309, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\], and the amendment, and section 237(a)(4)(B) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(4)(B)), as amended by such paragraph, shall apply to—
+
+&emsp;“(A) removal proceedings instituted before, on, or after the date of the enactment of this division \[May 11, 2005\]; and
+
+&emsp;“(B) acts and conditions constituting a ground for inadmissibility, excludability, deportation, or removal occurring or existing before, on, or after such date.”
+
+Pub. L. 109–13, div. B, title I, §105(b), May 11, 2005, 119 Stat. 310, provided that: “Effective as of the date of the enactment of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[Dec. 17, 2004\], section 5402 of such Act \[amending this section\] is repealed, and the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall be applied as if such section had not been enacted.”
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 5304(b) of Pub. L. 108–458 effective Dec. 17, 2004, and applicable to revocations under sections 1155 and 1201(i) of this title made before, on, or after such date, see section 5304(d) of Pub. L. 108–458, set out as a note under section 1155 of this title.
@@ -480,7 +484,7 @@ Pub. L. 106–395, title II, §201(c)(3), Oct. 30, 2000, 114 Stat. 1635, provide
 
 #### Effective Date of 1996 Amendments
 
-Amendment by sections 301(d), 305(a)(2), and 308(d)(2)(A)–(C), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5)of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by sections 301(d), 305(a)(2), and 308(d)(2)(A)–(C), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Section 308(d)(2)(D) of div. C of Pub. L. 104–208 provided that the amendment made by that section is effective Sept. 30, 1996.
 
@@ -556,7 +560,7 @@ Amendment by act July 18, 1956, effective July 19, 1956, see section 401 of act 
 
 #### Savings Provision
 
-Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
+Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -566,7 +570,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Section 510 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §306(a)(8), (9), Dec. 12, 1991, 105 Stat. 1751, provided that the Attorney General was to submit to appropriate Committees of Congress, by not later than Dec. 1, 1991, a report describing efforts of Immigration and Naturalization Service to identify, apprehend, detain, and remove from the United States aliens who have been convicted of crimes in the United States and including a criminal alien census and removal plan.
 
-<i><sup>1</sup></i><i> So in original. Two subpars. (E) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “in”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “in”.</i>
 

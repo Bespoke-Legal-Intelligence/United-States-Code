@@ -120,7 +120,3 @@ Time and Manner for Making Election.—An election under this section shall be m
 
 Section 301(b) of Pub. L. 91–373, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 6157 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to payment of Federal unemployment tax on quarterly or other time period basis), in computing tax as required by subsections (a)(1) and (2) of such section, the percentage contained in subsection (b) of such section applicable with respect to wages paid in any calendar quarter in 1970 ending before the date of the enactment of this Act \[Aug. 10, 1970\] shall be treated as being 0.4 percent.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3510, 6201, 6317, 6513, 6601 of this title.
-

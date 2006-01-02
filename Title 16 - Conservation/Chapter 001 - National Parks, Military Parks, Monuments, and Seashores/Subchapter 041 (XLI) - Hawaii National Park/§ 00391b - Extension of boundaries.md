@@ -92,7 +92,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 #### Amendments
 
-2000—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation ofpublic moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
+2000—Pub. L. 106–510 substituted at end “park. Land (including the land depicted on the map entitled ‘NPS–PAC 1997HW’) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.” for “park: <i>Provided</i>, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds.”
 
 1998—Pub. L. 105–380 inserted before period at end “, except for the land depicted on the map entitled ‘NPS–PAC 1997HW’, which may be purchased with donated or appropriated funds”.
 

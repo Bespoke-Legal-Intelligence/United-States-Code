@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (B) Limitation
 
-&emsp;&emsp;The amount of the excess net passive income for any taxable year shall not exceed the amount of the corporation's taxable income for such taxable year as determined under section 63(a)—
+&emsp;&emsp;The amount of the excess net passive income for any taxable year shall not exceedthe amount of the corporation's taxable income for such taxable year as determined under section 63(a)—
 
 &emsp;&emsp;&emsp;(i) without regard to the deductions allowed by part VIII of subchapter B (other than the deduction allowed by section 248, relating to organization expenditures), and
 
@@ -56,13 +56,13 @@ No credit shall be allowed under part IV of subchapter A of this chapter (other 
 
 If the S corporation establishes to the satisfaction of the Secretary that—
 
-&emsp;(1) it determined in good faith that it had no subchapter C earnings and profits at the close of a taxable year, and
+&emsp;(1) it determined in good faith that it had no accumulated earnings and profits at the close of a taxable year, and
 
-&emsp;(2) during a reasonable period of time after it was determined that it did have subchapter C earnings and profits at the close of such taxable year such earnings and profits were distributed,
+&emsp;(2) during a reasonable period of time after it was determined that it did have accumulated earnings and profits at the close of such taxable year such earnings and profits were distributed,
 
 > the Secretary may waive the tax imposed by subsection (a) for such taxable year.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV, §474(r)(28), title VII, §721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, §632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, §1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, §1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV, §474(r)(28), title VII, §721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, §632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, §1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, §1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, §412(qq), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Prior Provisions
 
@@ -71,6 +71,8 @@ A prior section 1375, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 A prior section 1376, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1655, related to adjustment to basis of stock of, and indebtedness owing, shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
+
+2005—Subsec. (d)(1), (2). Pub. L. 109–135 substituted “accumulated” for “subchapter C”.
 
 1996—Pub. L. 104–188, §1311(b)(2)(C), substituted “accumulated” for “subchapter C” in section catchline.
 
@@ -116,9 +118,5 @@ Amendment by section 721(v) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date
 
-This section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, this section and sections 1362(d)(3) and 1366(f)(3) of this title shall apply, and section 1372(e)(5) of this title as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3) of Pub. L. 97–354, set out as a note under section 1361 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 26, 1366, 1374, 6655 of this title.
+This section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxableyear beginning during 1982, this section and sections 1362(d)(3) and 1366(f)(3) of this title shall apply, and section 1372(e)(5) of this title as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 

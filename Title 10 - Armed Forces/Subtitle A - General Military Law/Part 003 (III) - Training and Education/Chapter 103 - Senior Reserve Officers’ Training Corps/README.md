@@ -38,10 +38,6 @@
 
 1964—Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1064, added chapter heading and items 2101 to 2111.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 4342, 6954, 9342 of this title; title 5 section 8140; title 37 section 209.
-
 
 ---
 

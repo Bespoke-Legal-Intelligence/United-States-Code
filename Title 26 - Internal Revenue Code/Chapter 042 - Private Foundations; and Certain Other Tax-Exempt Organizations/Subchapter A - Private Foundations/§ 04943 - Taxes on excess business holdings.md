@@ -206,7 +206,3 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 Applicability of section to private foundations, see section 101(<i>l</i>)(4) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 150, 508, 537, 4946, 4947, 4963, 6213, 7422 of this title.
-

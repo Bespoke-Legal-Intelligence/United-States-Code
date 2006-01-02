@@ -22,9 +22,11 @@
 
 &emsp;&emsp;&emsp;(i) the portion of the basis of any qualified rehabilitated building attributable to qualified rehabilitation expenditures,
 
-&emsp;&emsp;&emsp;(ii) the basis of any energy property, and
+&emsp;&emsp;&emsp;(ii) the basis of any energy property,
 
-&emsp;&emsp;&emsp;(iii) the amortizable basis of any qualified timber property.
+&emsp;&emsp;&emsp;(iii) the basis of any property which is part of a qualifying advanced coal project under section 48A, and
+
+&emsp;&emsp;&emsp;(iv) the basis of any property which is part of a qualifying gasification project under section 48B.
 
 #### (D) Nonqualified nonrecourse financing
 
@@ -78,7 +80,7 @@
 
 #### (ii) Special rule for certain recourse financing of S corporation
 
-&emsp;&emsp;&emsp;A shareholder of an S corporation shall be treated as liable for his allocable shareof any financing provided by a qualified person to such corporation if—
+&emsp;&emsp;&emsp;A shareholder of an S corporation shall be treated as liable for his allocable share of any financing provided by a qualified person to such corporation if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such financing is recourse financing (determined at the corporate level), and
 
@@ -96,7 +98,7 @@
 
 #### (iv) Determination of allocable share
 
-&emsp;&emsp;&emsp;The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manner as the credit allowable by section 38 with respect to such property.
+&emsp;&emsp;&emsp;The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manneras the credit allowable by section 38 with respect to such property.
 
 #### (F) Special rules for energy property
 
@@ -140,7 +142,7 @@
 
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
-(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov.5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796.)
+(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006.)
 
 #### References in Text
 
@@ -151,6 +153,8 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I, §101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+
+2005—Subsec. (a)(1)(C)(iii), (iv). Pub. L. 109–58 added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the amortizable basis of any qualified timber property.”
 
 1998—Subsec. (b)(4). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
 
@@ -172,13 +176,17 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Pri
 
 &emsp;“(B) without regard to paragraph (4) thereof (relating to election of reduced credit in lieu of basis adjustment).”
 
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–58 applicable to periods after Aug. 8, 2005, under rules similar to the rules of section 48(m) of this title, as in effect on the day before Nov. 5, 1990, see section 1307(d) of Pub. L. 109–58, set out as a note under section 46 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -220,7 +228,7 @@ Additional exceptions.—
 
 &emsp;“(A) Subsections (c) and (d) of section 49 of the Internal Revenue Code of 1986 shall not apply to any continuous caster facility for slabs and blooms which is subject to a lease and which is part of a project the second phase of which is a continuous slab caster which was placed in service before December 31, 1985.
 
-&emsp;“(B) For purposes of determining whether an automobile manufacturing facility (including equipment and incidental appurtenances) is transition property within the meaning of section 49(e), property with respect to which the Board of Directors of an automobile manufacturer formally approved the plan forthe project on January 7, 1985 shall be treated as transition property and subsections (c) and (d) of section 49 of such Code shall not apply to such property, but only with respect to $70,000,000 of regular investment tax credits.
+&emsp;“(B) For purposes of determining whether an automobile manufacturing facility (including equipment and incidental appurtenances) is transition property within the meaning of section 49(e), property with respect to which the Board of Directors of an automobile manufacturer formally approved the plan for the project on January 7, 1985 shall be treated as transition property and subsections (c) and (d) of section 49 of such Code shall not apply to such property, but only with respect to $70,000,000 of regular investment tax credits.
 
 &emsp;“(C) Any solid waste disposal facility which will process and incinerate solid waste of one or more public or private entities including Dakota County, Minnesota, and with respect to which a bond carryforward from 1985 was elected in an amount equal to $12,500,000 shall be treated as transition property within the meaning of section 49(e) of the Internal Revenue Code of 1986.
 
@@ -236,7 +244,7 @@ Additional exceptions.—
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Normalization Rules
 
@@ -271,10 +279,6 @@ Section 211(d) of Pub. L. 99–514 provided that:
 &emsp;“(C) the limitation of section 168(f)(8)(D)(ii)(III) (as then in effect) shall be read by substituting ‘the lessee's original cost basis.’, for ‘the adjusted basis of the lessee at the time of the lease.’
 
 “(3) The aggregate amount of property to which this paragraph shall apply shall not exceed $60,000,000.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 29, 42, 43, 465, 773, 1371 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

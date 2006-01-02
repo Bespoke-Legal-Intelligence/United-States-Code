@@ -44,7 +44,3 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 91–258 effective July 1, 1970, see section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4222 of this title.
-

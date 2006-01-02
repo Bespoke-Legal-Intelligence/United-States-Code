@@ -42,7 +42,7 @@ In the case of any short-term obligation to which this section applies, for purp
 
 &emsp;&emsp;&emsp;(i) which begins with the first taxable year for which the ownership test of subparagraph (C) is met with respect to the pass-thru entity (or a predecessor), and
 
-&emsp;&emsp;&emsp;(ii) which ends with the first taxable year after the taxable year referred to inclause (i) for which the ownership test of subparagraph (C) is not met and with respect to which the Secretary consents to the termination of the required accrual period.
+&emsp;&emsp;&emsp;(ii) which ends with the first taxable year after the taxable year referred to in clause (i) for which the ownership test of subparagraph (C) is not met and with respect to which the Secretary consents to the termination of the required accrual period.
 
 #### (C) Ownership test
 
@@ -76,9 +76,5 @@ Section applicable to taxable years ending after July 18, 1984, and applicable t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263, 1282, 1283 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -4,5 +4,7 @@ Section, act July 26, 1947, ch. 343, title I, §111, formerly §121, as added Pu
 
 #### Effective Date of Repeal
 
+For Determination by President that repeal take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+
 Repeal effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

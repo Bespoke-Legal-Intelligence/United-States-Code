@@ -42,7 +42,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (3) Eligibility for allotments for statewide programs
 
-&emsp;To be eligible to receive an allotment under paragraph (1)(A) or (2)(A), an eligible agencyshall demonstrate that the proposed program is statewide in scope and represents a comprehensive and coordinated effort to alleviate hunger within the State.
+&emsp;To be eligible to receive an allotment under paragraph (1)(A) or (2)(A), an eligible agency shall demonstrate that the proposed program is statewide in scope and represents a comprehensive and coordinated effort to alleviate hunger within the State.
 
 #### (4) Minimum allotments for statewide programs
 
@@ -86,5 +86,5 @@ A prior section 681 of Pub. L. 97–35 was classified to section 9910 of this ti
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

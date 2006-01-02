@@ -21,10 +21,6 @@
 
 1976—Pub. L. 94–455, title XIX, §1901(b)(12)(B), Oct. 4, 1976, 90 Stat. 1795, struck out in table of subparts for part II of subchapter C of chapter 1 in subpart (C) “; foreign personal holding companies” after “corporations”.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 301, 306, 1445 of this title.
-
 
 ---
 

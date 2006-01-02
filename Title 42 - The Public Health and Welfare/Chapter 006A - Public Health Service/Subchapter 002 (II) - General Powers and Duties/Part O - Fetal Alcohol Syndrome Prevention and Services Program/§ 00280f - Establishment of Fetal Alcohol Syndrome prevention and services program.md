@@ -12,7 +12,7 @@ The Secretary shall establish a comprehensive Fetal Alcohol Syndrome and Fetal A
 
 &emsp;&emsp;(C) public and community awareness programs concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect; and
 
-&emsp;&emsp;(D) strategies to coordinate information and services across affected community agencies, including agencies providing social services such as foster care, adoption, and social work, medical and mental health services, and agencies involved in education, vocational training and civil and criminal justice;
+&emsp;&emsp;(D) strategies to coordinate information and services across affected communityagencies, including agencies providing social services such as foster care, adoption, and social work, medical and mental health services, and agencies involved in education, vocational training and civil and criminal justice;
 
 &emsp;(2) a prevention and diagnosis program to support clinical studies, demonstrations and other research as appropriate to—
 
@@ -88,7 +88,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) thousands more infants are born each year with Fetal Alcohol Effect, also known as Alcohol Related Neurobehavioral Disorder (ARND), a related and equally tragic syndrome;
 
-&emsp;“(4) children of women who use alcohol while pregnant have a significantly higher infant mortalityrate (13.3 per 1,000) than children of those women who do not use alcohol (8.6 per 1,000);
+&emsp;“(4) children of women who use alcohol while pregnant have a significantly higher infant mortality rate (13.3 per 1,000) than children of those women who do not use alcohol (8.6 per 1,000);
 
 &emsp;“(5) Fetal Alcohol Syndrome and Fetal Alcohol Effect are national problems which can impact any child, family, or community, but their threat to American Indians and Alaska Natives is especially alarming;
 

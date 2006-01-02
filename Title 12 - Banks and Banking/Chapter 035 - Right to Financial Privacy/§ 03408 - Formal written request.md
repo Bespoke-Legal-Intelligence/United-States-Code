@@ -28,7 +28,7 @@ A Government authority may request financial records under section 3402(5) of th
 
 > &emsp;If you do not follow the above procedures, upon the expiration of ten days from the date of service or fourteen days from the date of mailing of this notice, the records or information requested therein may be made available. These records may be transferred to other Government authorities for legitimate law enforcement inquiries, in which event you will be notified after the transfer;” and
 
-&emsp;(B) ten days have expired from the date of service or fourteen days from the date of mailing of the notice by the customer and within such time period the customer has not filed a sworn statement and an application to enjoin the Government authority in an appropriate court, or the customer challenge provisions of section 3410 of this title have been complied with.
+&emsp;(B) ten days have expired from the date of service or fourteen days from the date of mailing of the notice by the customer and within such time period the customer has not filed a sworn statement and an application to enjoin the Government authority in an appropriate court, or the customer challenge provisions ofsection 3410 of this title have been complied with.
 
 (Pub. L. 95–630, title XI, §1108, Nov. 10, 1978, 92 Stat. 3701.)
 

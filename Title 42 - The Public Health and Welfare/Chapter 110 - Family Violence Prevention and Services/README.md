@@ -84,7 +84,7 @@
 | (d) | Reports. |
 | (e) | Evaluation, monitoring, and administration. |
 | (f) | Authorization of appropriations. |
-| [10420\.](%C2%A7%2010420%20-%20Safe%20havens%20for%20children%20pilot%20program.md) | Safe havens for children pilot program. |
+| [10420\.](%C2%A7%2010420%20-%20Safe%20havens%20for%20children.md) | Safe havens for children. |
 | (a) | In general. |
 | (b) | Considerations. |
 | (c) | Applicant requirements. |
@@ -119,5 +119,5 @@
 - [&sect; 10417 - Repealed. Pub. L. 108&#8211;36, title IV, &sect;412, June 25, 2003, 117 Stat. 829](%C2%A7%2010417%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7412%2C%20June%2025%2C%202003%2C%20117%20Stat.%20829.md)
 - [&sect; 10418 - Demonstration grants for community initiatives](%C2%A7%2010418%20-%20Demonstration%20grants%20for%20community%20initiatives.md)
 - [&sect; 10419 - Transitional housing assistance](%C2%A7%2010419%20-%20Transitional%20housing%20assistance.md)
-- [&sect; 10420 - Safe havens for children pilot program](%C2%A7%2010420%20-%20Safe%20havens%20for%20children%20pilot%20program.md)
+- [&sect; 10420 - Safe havens for children](%C2%A7%2010420%20-%20Safe%20havens%20for%20children.md)
 - [&sect; 10421 - Definitions](%C2%A7%2010421%20-%20Definitions.md)

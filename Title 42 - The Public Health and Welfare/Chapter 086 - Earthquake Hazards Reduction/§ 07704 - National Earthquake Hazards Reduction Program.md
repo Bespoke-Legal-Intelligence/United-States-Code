@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) develop effective measures for earthquake hazards reduction;
 
-&emsp;&emsp;(B) promote the adoption of earthquake hazards reduction measures by Federal, State, and local governments, nationalstandards and model code organizations, architects and engineers, building owners, and others with a role in planning and constructing buildings, structures, and lifelines through—
+&emsp;&emsp;(B) promote the adoption of earthquake hazards reduction measures by Federal, State, and local governments, national standards and model code organizations, architects and engineers, building owners, and others with a role in planning and constructing buildings, structures, and lifelines through—
 
 &emsp;&emsp;&emsp;(i) grants, contracts, cooperative agreements, and technical assistance;
 
@@ -190,9 +190,9 @@
 
 &emsp;&emsp;(G) support regional seismic networks, which shall complement the National Seismic Network; and <sup>4</sup>
 
-&emsp;&emsp;(H) work with the National Science Foundation, the Federal Emergency Management Agency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner. <sup>5</sup>
+&emsp;&emsp;(H) work with the National Science Foundation, the Federal Emergency ManagementAgency, and the National Institute of Standards and Technology to develop a comprehensive plan for earthquake engineering research to effectively use existing testing facilities and laboratories (in existence at the time of the development of the plan), upgrade facilities and equipment as needed, and integrate new, innovative testing approaches to the research infrastructure in a systematic manner.<sup>5</sup>
 
-&emsp;&emsp;(I) work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts inother countries, to ensure that the Program benefits from relevant information and advances in those countries; and
+&emsp;&emsp;(I) work with other Program agencies to coordinate Program activities with similar earthquake hazards reduction efforts in other countries, to ensure that the Program benefits from relevant information and advances in those countries; and
 
 &emsp;&emsp;(J) maintain suitable seismic hazard maps in support of building codes for structures and lifelines, including additional maps needed for performance-based design approaches.
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;(C) states the portion of its request for appropriations allocated to each element of the Program.
 
-(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov.16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669.)
+(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669.)
 
 #### References in Text
 
@@ -316,7 +316,7 @@ Subsec. (b)(2)(F), (G). Pub. L. 99–105, §6, added subpar. (F) and redesignate
 
 Subsec. (b). Pub. L. 96–472, §101(b), substituted provisions setting forth the duties of the President and the Director of the Federal Emergency Management Agency with respect to the Program for provisions setting forth the duties of the President with respect to the program and plan.
 
-Subsec. (d). Pub. L. 96–472, §101(c), substituted “(1)(A)” for “(3)(B)”, “Department of Commerce” for“National Bureau of Standards”, and “Federal Emergency Management Agency” for “National Fire Prevention and Control Administration”.
+Subsec. (d). Pub. L. 96–472, §101(c), substituted “(1)(A)” for “(3)(B)”, “Department of Commerce” for “National Bureau of Standards”, and “Federal Emergency Management Agency” for “National Fire Prevention and Control Administration”.
 
 Subsec. (e)(6). Pub. L. 96–472, §101(d), substituted “potential” for “political”.
 
@@ -510,7 +510,7 @@ Sec. 2. Federally Leased, Assisted, or Regulated Buildings.
 
 The purposes of these requirements are to reduce risks to the lives of occupants of buildings leased for Federal uses or purchased or constructed with Federal assistance, to reduce risks to the lives of persons who would be affected by earthquake failures of federally assisted or regulated buildings, and to protect public investments, all in a cost-effective manner. The provisions of this order shall apply to all the new construction activities specified in the subsections below.
 
-(a) Space Leased for Federal Occupancy. Each Federal agency responsible for the construction and lease of a new building for Federal use shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all leased buildingprojects for which the agreement covering development of detailed plans and specifications is effected subsequent to the issuance of this order. Local building codes shall be used in design and construction by those concerned with such activities in accord with section 3(a) and 3(c) of this order and augmented when necessary to achieve appropriate seismic design and construction standards.
+(a) Space Leased for Federal Occupancy. Each Federal agency responsible for the construction and lease of a new building for Federal use shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all leased building projects for which the agreement covering development of detailed plans and specifications is effected subsequent to the issuance of this order. Local building codes shall be used in design and construction by those concerned with such activities in accord with section 3(a) and 3(c) of this order and augmented when necessary to achieve appropriate seismic design and construction standards.
 
 (b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
 

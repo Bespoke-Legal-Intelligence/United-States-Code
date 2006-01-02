@@ -74,7 +74,7 @@ Sec. 4. <i>Extent of treatment; retired ships’ officers and crew members</i>. 
 
 (2) Dental treatment shall be furnished to the extent that facilities and services at hospitals and outpatient clinics of the Service having full-time dental officers on duty are available to provide such treatment. At other Service facilities, dental treatment shall be limited to emergency measures necessary to relieve pain.
 
-Sec. 5. <i>Extent of treatment; dependent members of families; charges</i>. (a) Dependent members of families shall be furnished medical advice and outpatient treatment at hospitals, outpatient clinics, and outpatient offices of the Service and, if suitable accommodations are available, shall be furnished hospitalization at hospitals ofthe Service. The Service will not be responsible for defraying the cost of hospitalization, medical services, and supplies procured elsewhere.
+Sec. 5. <i>Extent of treatment; dependent members of families; charges</i>. (a) Dependent members of families shall be furnished medical advice and outpatient treatment at hospitals, outpatient clinics, and outpatient offices of the Service and, if suitable accommodations are available, shall be furnished hospitalization at hospitals of the Service. The Service will not be responsible for defraying the cost of hospitalization, medical services, and supplies procured elsewhere.
 
 (b) For the purpose of this section—
 

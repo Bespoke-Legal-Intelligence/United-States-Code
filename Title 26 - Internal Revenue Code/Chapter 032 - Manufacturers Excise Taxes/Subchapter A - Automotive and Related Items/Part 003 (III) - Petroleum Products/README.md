@@ -2,13 +2,14 @@
 
 | Subpart |  |
 | :--- | ---: |
-| A. | Gasoline and diesel fuel. |
-| B. | Aviation fuel. |
-| C. | Special provisions applicable to petroleum products. |
+| A. | Motor and aviation fuels. |
+| B. | Special provisions applicable to fuels tax. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title VIII, §853(d)(2)(R), Oct. 22, 2004, 118 Stat. 1614, amended analysis generally, substituting items for subparts A “Motor and aviation fuels” and B “Special provisions applicable to fuels tax” for former items for subparts A “Gasoline and diesel fuel”, B “Aviation fuel”, and C “Special provisions applicable to petroleum products”.
 
 1993—Pub. L. 103–66, title XIII, §13242(d)(43), Aug. 10, 1993, 107 Stat. 528, substituted “Gasoline and diesel fuel” for “Gasoline” in item for subpart A and “Aviation fuel” for “Diesel fuel and aviation fuel” in item for subpart B.
 
@@ -21,6 +22,5 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subpart A - Gasoline and Diesel Fuel](Subpart%20A%20-%20Gasoline%20and%20Diesel%20Fuel/README.md)
-- [Subpart B - Aviation Fuel](Subpart%20B%20-%20Aviation%20Fuel/README.md)
-- [Subpart C - Special Provisions Applicable to Petroleum Products](Subpart%20C%20-%20Special%20Provisions%20Applicable%20to%20Petroleum%20Products/README.md)
+- [Subpart A - Motor and Aviation Fuels](Subpart%20A%20-%20Motor%20and%20Aviation%20Fuels/README.md)
+- [Subpart B - Special Provisions Applicable to Fuels Tax](Subpart%20B%20-%20Special%20Provisions%20Applicable%20to%20Fuels%20Tax/README.md)

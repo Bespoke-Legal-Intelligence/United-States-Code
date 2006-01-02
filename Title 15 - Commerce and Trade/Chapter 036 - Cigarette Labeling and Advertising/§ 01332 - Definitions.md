@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;&emsp;(A) any roll of tobacco wrapped in paper or in any substance not containing tobacco, and
 
-&emsp;&emsp;(B) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, islikely to be offered to, or purchased by, consumers as a cigarette described in subparagraph (A).
+&emsp;&emsp;(B) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in subparagraph (A).
 
 &emsp;(2) The term “commerce” means (A) commerce between any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island and any place outside thereof; (B) commerce between points in any state, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island, but through any place outside thereof; or (C) commerce wholly within the District of Columbia, Guam, the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, or Johnston Island.
 

@@ -14,7 +14,7 @@ There are hereby made available, in accordance with the provisions of this part,
 
 &emsp;Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as “Federal Direct Stafford/Ford Loans”.
 
-(Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968.)
+(Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021,Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968.)
 
 #### Prior Provisions
 

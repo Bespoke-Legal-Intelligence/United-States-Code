@@ -84,7 +84,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;(A) Subject to subparagraphs (B) and (C), the Director may make an award under subsection (a) of this section only if, in the case of any authorized service that is available pursuant to the State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State involved—
 
-&emsp;&emsp;(i) the applicant for the award will provide the service directly, and the applicant has entered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
+&emsp;&emsp;(i) the applicant for the award will provide the service directly, and the applicant hasentered into a participation agreement under the State plan and is qualified to receive payments under such plan; or
 
 &emsp;&emsp;(ii) the applicant will enter into an agreement with a public or nonprofit private entity under which the entity will provide the service, and the entity has entered into such a participation agreement plan and is qualified to receive such payments.
 
@@ -152,7 +152,7 @@ The Director may make an award under subsection (a) of this section only if an a
 
 #### (m) Equitable allocation of awards
 
-In making awards under subsection (a) of this section, the Director shall ensure that the awards are equitably allocated among the principal geographic regions of the United States, subject to the availability of qualified applicants for the awards.
+In making awards under subsection (a) of this section, the Director shall ensure that theawards are equitably allocated among the principal geographic regions of the United States, subject to the availability of qualified applicants for the awards.
 
 #### (n) Duration of award
 
@@ -218,7 +218,7 @@ Section 108(b) of Pub. L. 102–321 provided that:
 
 Savings provision for completion of current projects.—
 
-&emsp;“(A) Subject to paragraph (2), in the case of any project for which a grant under former section 509F \[former 42 U.S.C. 290aa–13\] was provided for fiscal year 1992, the Secretary of Health and Human Services may continue in effect the grant for fiscal year 1993 and subsequent fiscal years, subject to the duration of any such grant not exceeding the period determined by the Secretary in first approving the grant. Subject to approval by the Administrator, such grants may be administered by the Center for Substance Abuse Prevention.
+&emsp;“(A) Subject to paragraph (2), in the case of any project for which a grant under former section 509F \[former 42 U.S.C. 290aa–13\] was provided for fiscal year 1992, the Secretary of Health and Human Services may continue in effect the grant for fiscal year 1993 and subsequent fiscal years, subject to the duration of any such grant not exceeding the period determined by the Secretary in first approving the grant. Subject to approval by the Administrator, suchgrants may be administered by the Center for Substance Abuse Prevention.
 
 &emsp;“(B) Subparagraph (A) shall apply with respect to a project notwithstanding that the project is not eligible to receive a grant under current section 508 or 509 \[42 U.S.C. 290bb–1, 290bb–2\].
 

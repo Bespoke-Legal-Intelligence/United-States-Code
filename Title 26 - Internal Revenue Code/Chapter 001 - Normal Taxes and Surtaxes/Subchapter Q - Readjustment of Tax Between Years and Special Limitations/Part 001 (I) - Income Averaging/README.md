@@ -10,7 +10,7 @@
 
 A prior part I consisted of sections 1301 to 1305, prior to repeal by Pub. L. 99–514, title I, §141(a), Oct. 22, 1986, 100 Stat. 2117.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text notes below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “provisions”.</i>
 

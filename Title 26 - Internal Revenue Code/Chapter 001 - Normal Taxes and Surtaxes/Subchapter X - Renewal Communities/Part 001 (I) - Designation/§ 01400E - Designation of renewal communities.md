@@ -58,7 +58,7 @@
 
 #### (B) Time limitations
 
-&emsp;&emsp;The Secretary of Housing and Urban Development may designate nominated areasas renewal communities only during the period beginning on the first day of the first month following the month in which the regulations described in subparagraph (A) are prescribed and ending on December 31, 2001.
+&emsp;&emsp;The Secretary of Housing and Urban Development may designate nominated areas as renewal communities only during the period beginning on the first day of the first month following the month in which the regulations described in subparagraph (A) are prescribed and ending on December 31, 2001.
 
 #### (C) Procedural rules
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;(i) the extent to which such area has a high incidence of crime, or
 
-&emsp;&emsp;&emsp;(ii) if such area has census tracts identified in the May 12, 1998, report of the General Accounting Office regarding the identification of economically distressed areas, and
+&emsp;&emsp;&emsp;(ii) if such area has census tracts identified in the May 12, 1998, report of the Government Accountability Office regarding the identification of economically distressed areas, and
 
 &emsp;&emsp;(B) with respect to 1 of the areas to be designated under subsection (a)(2)(B), may, in lieu of any criteria described in paragraph (3), take into account the existence of outmigration from the area.
 
@@ -182,7 +182,7 @@
 
 #### (B) Recognition of past efforts
 
-&emsp;&emsp;For purposes of this section, in evaluating the course of action agreed to by any State or local government, the Secretary of Housing and Urban Development shall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
+&emsp;&emsp;For purposes of this section, in evaluating the course of action agreed to by any State or local government, the Secretary of Housing and Urban Development shall take into account the past efforts of such State or local government in reducing the variousburdens borne by employers and employees in the area involved.
 
 #### (3) Economic growth promotion requirements
 
@@ -228,7 +228,47 @@ For purposes of this subchapter—
 
 &emsp;Population and poverty rate shall be determined by using 1990 census data.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–589.)
+#### (g) Expansion of designated area based on 2000 census
+
+#### (1) In general
+
+&emsp;At the request of all governments which nominated an area as a renewal community, the Secretary of Housing and Urban Development may expand the area of such community to include any census tract if—
+
+&emsp;&emsp;(A)(i) at the time such community was nominated, such community would have met the requirements of this section using 1990 census data even if such tract had been included in such community, and
+
+&emsp;&emsp;(ii) such tract has a poverty rate using 2000 census data which exceeds the poverty rate for such tract using 1990 census data, or
+
+&emsp;&emsp;(B)(i) such community would be described in subparagraph (A)(i) but for the failure to meet one or more of the requirements of paragraphs (2)(C)(i), (3)(C), and (3)(D) of subsection (c) using 1990 census data,
+
+&emsp;&emsp;(ii) such community, including such tract, has a population of not more than 200,000 using either 1990 census data or 2000 census data,
+
+&emsp;&emsp;(iii) such tract meets the requirement of subsection (c)(3)(C) using 2000 census data, and
+
+&emsp;&emsp;(iv) such tract meets the requirement of subparagraph (A)(ii).
+
+#### (2) Exception for certain census tracts with low population in 1990
+
+&emsp;In the case of any census tract which did not have a poverty rate determined by the Bureau of the Census using 1990 census data, paragraph (1)(B) shall be applied without regard to clause (iv) thereof.
+
+#### (3) Special rule for certain census tracts with low population in 2000
+
+&emsp;At the request of all governments which nominated an area as a renewal community, the Secretary of Housing and Urban Development may expand the area of such community to include any census tract if—
+
+&emsp;&emsp;(A) either—
+
+&emsp;&emsp;&emsp;(i) such tract has no population using 2000 census data, or
+
+&emsp;&emsp;&emsp;(ii) no poverty rate for such tract is determined by the Bureau of the Census using 2000 census data,
+
+&emsp;&emsp;(B) such tract is one of general distress, and
+
+&emsp;&emsp;(C) such community, including such tract, meets the requirements of subparagraphs (A) and (B) of subsection (c)(2).
+
+#### (4) Period in effect
+
+&emsp;Any expansion under this subsection shall take effect as provided in subsection (b).
+
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §101(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–589; amended Pub. L. 108–357, title II, §222(a), Oct. 22, 2004, 118 Stat. 1431; Pub. L. 109–135, title IV, §412(rr)(1), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### References in Text
 
@@ -236,13 +276,23 @@ The date of the enactment of this section, referred to in subsec. (a)(4)(A), is 
 
 Section 119(b)(2) of the Housing and Community Development Act of 1974, referred to in subsec. (c)(3)(D), is classified to section 5318(b)(2) of Title 42, The Public Health and Welfare.
 
+#### Amendments
+
+2005—Subsec. (c)(4)(A)(ii). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office”.
+
+2004—Subsec. (g). Pub. L. 108–357 added subsec. (g).
+
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §222(b), Oct. 22, 2004, 118 Stat. 1432, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 101 of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by section 1(a)(7) of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–587\].”
+
 #### Audit and Report
 
 Pub. L. 106–554, §1(a)(7) \[title I, §101(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599, provided that: “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the renewal community program established under section 1400E of the Internal Revenue Code of 1986 (as added by subsection (a)) and the empowerment zone and enterprise community program under subchapter U of chapter 1 of such Code, report to Congress on such program and its effect on poverty, unemployment, and economic growth within the designated renewal communities, empowerment zones, and enterprise communities.”
 
 #### Advisory Council on Community Renewal
 
-Pub. L. 106–554, §1(a)(7) \[title I, subtitle E, part II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–622, as amended by Pub. L. 107–147, title IV, §417(21), Mar. 9, 2002, 116 Stat. 57, provided that:
+Pub. L. 106–554, §1(a)(7) \[title I, subtitle E, part II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–622, as amended by Pub. L. 107–147, title IV, §417(21), Mar. 9, 2002, 116 Stat. 57; Pub. L. 108–311, title IV, §408(b)(1), Oct. 4, 2004, 118 Stat. 1192, provided that:
 
 #### “SEC. 151. SHORT TITLE.
 
@@ -320,7 +370,7 @@ Interim Reports.—The Advisory Council may submit to the Secretary such interim
 
 “(c)
 
-Final Report.—The Advisory Council shall transmit a final report to the Secretary not later \[than\] September 30, 2003. The final report shall contain a detailed statement of the findings and conclusions of the Advisory Council, together with any recommendations for legislative or administrative action that the Advisory Council considers appropriate.
+Final Report.—The Advisory Council shall transmit a final report to the Secretary not later than September 30, 2003. The final report shall contain a detailed statement of the findings and conclusions of the Advisory Council, together with any recommendations for legislative or administrative action that the Advisory Council considers appropriate.
 
 #### “SEC. 157. TERMINATION.
 
@@ -343,8 +393,4 @@ Extension.—Notwithstanding subsection (a), the Secretary may postpone the term
 #### “SEC. 160. EFFECTIVE DATE.
 
 “This part shall be effective 30 days after the date of its enactment \[Dec. 21, 2000\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1391 of this title.
 

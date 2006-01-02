@@ -24,7 +24,7 @@
 
 (3) A finding may not be made under paragraph (2)(A) of this subsection unless the award of the contract is otherwise likely to occur within 30 days after the making of such finding.
 
-(d)(1) A contractor awarded a Federal agency contract may, during the period described in paragraph (4), begin performance of the contract and engage in any related activities that result in obligations being incurred by the United States under the contract unless the contractingofficer responsible for the award of the contract withholds authorization to proceed with performance of the contract.
+(d)(1) A contractor awarded a Federal agency contract may, during the period described in paragraph (4), begin performance of the contract and engage in any related activities that result in obligations being incurred by the United States under the contract unless the contracting officer responsible for the award of the contract withholds authorization to proceed with performance of the contract.
 
 (2) The contracting officer may withhold an authorization to proceed with performance of the contract during the period described in paragraph (4) if the contracting officer determines in writing that—
 

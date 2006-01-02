@@ -1,10 +1,10 @@
 ### SUBCHAPTER XIV—MISCELLANEOUS
 
-<i><sup>1</sup></i><i> So in original. Pub. L. 103–322 does not contain a section 320925.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Pub. L. 103–322 does not contain a section 320930.</i>
+<i><sup>2</sup></i><i> So in original. Pub. L. 103–322 does not contain a section 320925.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. Pub. L. 103–322 does not contain a section 320930.</i>
 
 
 ---

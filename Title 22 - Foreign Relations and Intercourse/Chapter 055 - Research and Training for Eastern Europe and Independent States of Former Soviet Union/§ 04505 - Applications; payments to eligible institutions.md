@@ -4,7 +4,7 @@
 
 &emsp;(1) provide a description of the purposes for which the payments will be used in accordance with section 4504 of this title; and
 
-&emsp;(2) provide such fiscal control and such accounting procedures as may be necessary (A)to ensure a proper accounting of Federal funds paid under this chapter, and (B) to ensure the verification of the costs of the continuing education and research programs conducted under this chapter.
+&emsp;(2) provide such fiscal control and such accounting procedures as may be necessary (A) to ensure a proper accounting of Federal funds paid under this chapter, and (B) to ensure the verification of the costs of the continuing education and research programs conducted under this chapter.
 
 (b) Payments under this chapter may be made in installments, in advance, or by way of reimbursement, with necessary adjustments on account of overpayments and underpayments.
 

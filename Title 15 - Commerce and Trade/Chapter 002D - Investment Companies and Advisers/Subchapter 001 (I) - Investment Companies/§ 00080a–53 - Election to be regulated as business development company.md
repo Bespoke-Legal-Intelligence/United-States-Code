@@ -10,11 +10,11 @@ Any company defined in section 80a–2(a)(48)(A) and (B) of this title may elect
 
 #### (b) Form and manner of notification; effect
 
-The Commission may, by rule, prescribe the form and manner in which notification of election under this section shall be given. A business development company shall be deemed to be subject to sections 80a–54 through 80a–64 of this title upon receipt by the Commission of such notification of election.
+The Commission may, by rule, prescribe the form and manner in which notification of election under this section shall be given. A businessdevelopment company shall be deemed to be subject to sections 80a–54 through 80a–64 of this title upon receipt by the Commission of such notification of election.
 
 #### (c) Revocation or withdrawal of election
 
-Whenever the Commission finds, on its own motion or upon application, that a business development company which has filed a notification of election pursuant to subsection (a) of this section has ceased to engage in business, the Commission shall so declare by order revoking such company's election. Any business development company may voluntarily withdraw its election under subsection (a) of this section by filing a notice of withdrawal of election withthe Commission, in a form and manner which the Commission may, by rule, prescribe. Such withdrawal shall be effective immediately upon receipt by the Commission.
+Whenever the Commission finds, on its own motion or upon application, that a business development company which has filed a notification of election pursuant to subsection (a) of this section has ceased to engage in business, the Commission shall so declare by order revoking such company's election. Any business development company may voluntarily withdraw its election under subsection (a) of this section by filing a notice of withdrawal of election with the Commission, in a form and manner which the Commission may, by rule, prescribe. Such withdrawal shall be effective immediately upon receipt by the Commission.
 
 (Aug. 22, 1940, ch. 686, title I, §54, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2278; amended Pub. L. 100–181, title VI, §625, Dec. 4, 1987, 101 Stat. 1262.)
 

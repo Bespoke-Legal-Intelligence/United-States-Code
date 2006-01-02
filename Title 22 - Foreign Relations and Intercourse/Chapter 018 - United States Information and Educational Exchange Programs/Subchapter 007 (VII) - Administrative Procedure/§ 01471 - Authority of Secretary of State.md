@@ -1,6 +1,6 @@
 ### §1471. Authority of Secretary of State
 
-In carrying out the purposes of this chapter, the Secretary is authorized, in addition to and not in limitation of the authority otherwise vested in him—
+In carrying out the purposes of this chapter, the Secretary is authorized, in addition to andnot in limitation of the authority otherwise vested in him—
 
 &emsp;(1) In carrying out subchapter II of this chapter, to make grants of money, services, or materials to State and local governmental institutions in the United States, to governmental institutions in other countries, and to individuals and public or private nonprofit organizations both in the United States and in other countries;
 
@@ -108,7 +108,7 @@ Exception.—
 
 &emsp;&emsp;“(D) the statutes of a host foreign country prohibit the use of United States contractors on such projects within that country.
 
-&emsp;“(2) An exception under paragraph (1)(D) shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specificactions the Secretary has taken to urge the foreign country to permit the use of United States contractors on such projects.
+&emsp;“(2) An exception under paragraph (1)(D) shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions the Secretary has taken to urge the foreign country to permit the use of United States contractors on such projects.
 
 “(d) \[sic\]
 

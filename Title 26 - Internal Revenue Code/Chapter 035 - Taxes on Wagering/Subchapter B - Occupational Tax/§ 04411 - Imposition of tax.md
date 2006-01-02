@@ -40,7 +40,3 @@ Section 3(d)(2) of Pub. L. 93–499, as amended by Pub. L. 99–514, §2, Oct. 2
 
 &emsp;“(ii) registered under section 4412 of such Code (as in effect on July 1, 1974) for the year ending June 30, 1975, shall not be required to reregister under such section for such year.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4901, 4903, 4907 of this title.
-

@@ -206,7 +206,3 @@ Section 554(b) of Pub. L. 103–160, as amended by Pub. L. 103–337, div. A, ti
 
 Pub. L. 108–136, div. A, title V, §572(b)(2), Nov. 24, 2003, 117 Stat. 1485, provided that: “Policies under subsection (e)(2) of section 1059 of title 10, United States Code, as amended by paragraph (1), for the duration of transitional compensation payments under that section shall be prescribed under such subsection not later than six months after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1076 of this title; title 37 section 406; title 42 section 213a.
-

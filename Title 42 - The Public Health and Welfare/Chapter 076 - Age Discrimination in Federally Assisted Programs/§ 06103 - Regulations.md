@@ -14,7 +14,7 @@
 
 (3) Not later than ninety days after the Secretary publishes proposed regulations under paragraph (1), the Secretary shall publish in the Federal Register final general regulations to carry out the provisions of section 6102 of this title, after taking into consideration any comments received by the Secretary with respect to the regulations proposed under paragraph (1).
 
-(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Such regulations shall be consistent with the finalgeneral regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
+(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Such regulations shall be consistent with the final general regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
 
 (5) Notwithstanding any other provision of this section, no regulations issued pursuant to this section shall be effective before July 1, 1979.
 
@@ -26,7 +26,7 @@
 
 &emsp;(B) the differentiation made by such action is based upon reasonable factors other than age.
 
-(2) The provisions of this chapter shall not apply to any program or activity established under authority of any law which (A) provides any benefits or assistance to persons based upon the age of such persons; or (B) establishes criteria for participation in age-related terms or describes intended beneficiaries or target groups in such terms.
+(2) The provisions of this chapter shall not apply to any program or activity establishedunder authority of any law which (A) provides any benefits or assistance to persons based upon the age of such persons; or (B) establishes criteria for participation in age-related terms or describes intended beneficiaries or target groups in such terms.
 
 #### (c) Employment practices and labor-management joint apprenticeship training program exemptions; Age Discrimination in Employment Act unaffected
 

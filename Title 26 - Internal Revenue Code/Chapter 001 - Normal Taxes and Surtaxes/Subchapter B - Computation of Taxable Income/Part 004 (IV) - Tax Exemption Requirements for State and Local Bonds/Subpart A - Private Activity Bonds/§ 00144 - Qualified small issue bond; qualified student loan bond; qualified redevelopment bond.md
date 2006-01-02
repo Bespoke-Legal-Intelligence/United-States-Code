@@ -14,7 +14,7 @@
 
 &emsp;If—
 
-&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of eachsuch issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
+&emsp;&emsp;(A) the proceeds of 2 or more issues of bonds (whether or not the issuer of each such issue is the same) are or will be used primarily with respect to facilities located in the same incorporated municipality or located in the same county (but not in any incorporated municipality),
 
 &emsp;&emsp;(B) the principal user of such facilities is or will be the same person or 2 or more related persons, and
 
@@ -74,11 +74,15 @@
 
 #### (F) Aggregate amount of capital expenditures where there is urban development action grant
 
-&emsp;&emsp;In the case of any issue 95 percent or more of the net proceeds of which are to be used to provide facilities with respect to which an urban development action grant has been made under section 119 of the Housing and Community Development Act of 1974, capital expenditures of not to exceed $10,000,000 shall not be taken into account for purposes of applying subparagraph (A)(ii).
+&emsp;&emsp;In the case of any issue 95 percent or more of the net proceeds of which are to be used to provide facilities with respect to which an urban development action grant has been made under section 119 of the Housing and Community Development Act of 1974, capital expenditures of not to exceed $10,000,000 shall not be taken into account for purposes of applying subparagraph (A)(ii). This subparagraph shall not apply to bonds issued after September 30, 2009.
+
+#### (G) Additional capital expenditures not taken into account
+
+&emsp;&emsp;With respect to bonds issued after September 30, 2009, in addition to any capital expenditure described in subparagraph (C), capital expenditures of not to exceed $10,000,000 shall not be taken into account for purposes of applying subparagraph (A)(ii).
 
 #### (5) Issues for residential purposes
 
-&emsp;This subsection shall not apply to any bond issued as part of an issue 5 percent or more ofthe net proceeds of which are to be used directly or indirectly to provide residential real property for family units.
+&emsp;This subsection shall not apply to any bond issued as part of an issue 5 percent or more of the net proceeds of which are to be used directly or indirectly to provide residential real property for family units.
 
 #### (6) Limitations on treatment of bonds as part of the same issue
 
@@ -234,7 +238,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;&emsp;(II) would be authorized to be made with respect to loans under the program if such loans were not financed with the proceeds of tax-exempt bonds, or
 
-&emsp;&emsp;(B) a program of general application approved by the State if no loan under such program exceeds the difference between the total cost of attendance and other forms of student assistance (not including loans pursuant to section 428B(a)(1) of the Higher Education Act of 1965 (relating to parent loans) or subpart I <sup>1</sup> of part C of title VII of the Public Health Service Act (relating to student assistance)) for which the studentborrower may be eligible. A program shall not be treated as described in this subparagraph if such program is described in subparagraph (A).
+&emsp;&emsp;(B) a program of general application approved by the State if no loan under such program exceeds the difference between the total cost of attendance and other forms of student assistance (not including loans pursuant to section 428B(a)(1) of the Higher Education Act of 1965 (relating to parent loans) or subpart I <sup>1</sup> of part C of title VII of the Public Health Service Act (relating to student assistance)) for which the student borrower may be eligible. A program shall not be treated as described in this subparagraph if such program is described in subparagraph (A).
 
 > &emsp;A bond shall not be treated as a qualified student loan bond if the issue of which such bond is a part meets the private business tests of paragraphs (1) and (2) of section 141(b) (determined by treating 501(c)(3) organizations as governmental units with respect to their activities which do not constitute unrelated trades or businesses, determined by applying section 513(a)).
 
@@ -264,7 +268,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term “qualified redevelopment bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used for 1 or more redevelopment purposes in any designated blighted area.
+&emsp;The term “qualified redevelopment bond” means any bond issued as part of an issue 95percent or more of the net proceeds of which are to be used for 1 or more redevelopment purposes in any designated blighted area.
 
 #### (2) Additional requirements
 
@@ -328,7 +332,7 @@ For purposes of this part—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An area may be designated by a governmental unit as a blighted area only if the designation percentage with respect to such area, when added to the designation percentages of all other designated blighted areas within the jurisdiction of suchgovernmental unit, does not exceed 20 percent.
+&emsp;&emsp;&emsp;An area may be designated by a governmental unit as a blighted area only if the designation percentage with respect to such area, when added to the designation percentages of all other designated blighted areas within the jurisdiction of such governmental unit, does not exceed 20 percent.
 
 #### (ii) Designation percentage
 
@@ -350,7 +354,7 @@ For purposes of this part—
 
 #### (5) No additional charge requirements
 
-&emsp;The financed area with respect to any issue meets the requirements of this paragraph if, while any bond which is part of such issue is outstanding—
+&emsp;The financed area with respect to any issue meets the requirements of this paragraph if,while any bond which is part of such issue is outstanding—
 
 &emsp;&emsp;(A) no owner or user of property located in the financed area is subject to a charge or fee which similarly situated owners or users of comparable property located outside such area are not subject, and
 
@@ -374,7 +378,7 @@ For purposes of this part—
 
 &emsp;Section 147(c) (other than paragraphs (1)(B) and (2) thereof) shall not apply to any qualified redevelopment bond.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 108–357, title III, §340, Oct. 22, 2004, 118 Stat. 1485.)
 
 #### References in Text
 
@@ -388,9 +392,13 @@ The Public Health Service Act, referred to in subsec. (b)(1)(B), is act July 1, 
 
 #### Prior Provisions
 
-A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c),title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
+A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, Pub. L. 88–272, title I, §112(c), title II, §232(c), 78 Stat. 24, 110; Dec. 10, 1971, Pub. L. 92–178, title II, §206, title III, §301(c), 85 Stat. 511, 520; Oct. 4, 1976, Pub. L. 94–455, title V, §501(b)(3)–(5), title XIX, §1906(b)(13)(A), 90 Stat. 1558, 1559, 1834, related to method for electing to take standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+2004—Subsec. (a)(4)(F). Pub. L. 108–357, §340(b), inserted at end “This subparagraph shall not apply to bonds issued after September 30, 2009.”
+
+Subsec. (a)(4)(G). Pub. L. 108–357, §340(a), added subpar. (G).
 
 1993—Subsec. (a)(12)(B). Pub. L. 103–66 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
 
@@ -457,10 +465,6 @@ Section 1013(a)(4)(B)(iii) of Pub. L. 100–647 provided that: “A refunding bo
 #### Termination Date for Exemption for Certain Small Issues Under Section 103(b)(6)
 
 Section 1013(c)(12)(B) of Pub. L. 100–647 provided that: “The date applicable under section 144(a)(12)(B) of the 1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25, 142, 145, 147, 149, 269A, 414, 1394, 1396, 1397C, 4988, 7871 of this title; title 7 section 1929.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

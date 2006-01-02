@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2005, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—(1) A person who is a graduate of an accredited dental school and who, during the period beginning on September 23, 1996, and ending on December 31, 2006, executes a written agreement described in subsection (c) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (2) The amount of an accession bonus under paragraph (1) may not exceed $30,000.
 
@@ -20,21 +20,15 @@ Agreement.—The agreement referred to in subsection (a) shall provide that, con
 
 (d)
 
-Repayment.—(1) An officer who receives a payment under subsection (a) and who fails to become and remain certified or licensed as a dentist during the period for which the payment is made shall refund to the United States an amount equal to the full amount of such payment.
+Repayment.—A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(2) An officer who voluntarily terminates service on active duty before the end of the period agreed to be served under subsection (a) shall refund to the United States an amount that bears the same ratio to the amount paid to the officer as the unserved part of such period bears to the total period agreed to be served.
-
-(3) An obligation to reimburse the United States imposed under paragraph (1) or (2) is for all purposes a debt owed to the United States.
-
-(4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after the date of the enactment of this section.
-
-(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947.)
-
-#### References in Text
-
-The date of the enactment of this section, referred to in subsec. (d)(4), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
+(Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(f), 687(b)(11), Jan. 6, 2006, 119 Stat. 3294, 3329.)
 
 #### Amendments
+
+2006—Subsec. (a)(1). Pub. L. 109–163, §622(f), substituted “December 31, 2006” for “December 31, 2005”.
+
+Subsec. (d). Pub. L. 109–163, §687(b)(11), amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain certified or licensed as dentist or fails to complete total period of active duty.
 
 2004—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
@@ -43,4 +37,8 @@ The date of the enactment of this section, referred to in subsec. (d)(4), is the
 2002—Subsec. (a)(1). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
 2001—Subsec. (a)(1). Pub. L. 107–107 substituted “September 23, 1996, and ending on December 31, 2002” for “the date of the enactment of this section, and ending on September 30, 2002”.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

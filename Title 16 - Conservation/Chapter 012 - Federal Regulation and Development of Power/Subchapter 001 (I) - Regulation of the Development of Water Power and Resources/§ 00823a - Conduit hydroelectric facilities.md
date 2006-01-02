@@ -14,7 +14,7 @@ The Commission may not grant any exemption under subsection (a) of this section 
 
 #### (c) Consultation with Federal and State agencies
 
-In making the determination under subsection (a) of this section the Commission shall consult with the United States Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
+In making the determination under subsection (a) of this section the Commission shall consultwith the United States Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
 
 &emsp;(1) such terms and conditions as the Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 
@@ -49,10 +49,6 @@ Subsec. (e). Pub. L. 99–495, §7(c), added subsec. (e).
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
-
-#### Transfer of Functions
-
-The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Application of Subsection (c)
 

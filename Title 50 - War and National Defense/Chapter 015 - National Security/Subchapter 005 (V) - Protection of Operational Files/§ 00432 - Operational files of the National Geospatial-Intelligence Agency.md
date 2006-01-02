@@ -26,7 +26,9 @@
 
 &emsp;&emsp;(v) The Office of the Director of NGA.
 
-(4)(A) Files that are not exempted under paragraph (1) which contain information derived or disseminated from exempted operational files shall be subject to search and review.
+&emsp;&emsp;(vi) The Office of the Inspector General of the National Geospatial-Intelligence Agency.
+
+(4)(A) Files that are not exempted under paragraph (1) which contain information derived ordisseminated from exempted operational files shall be subject to search and review.
 
 (B) The inclusion of information from exempted operational files in files that are not exempted under paragraph (1) shall not affect the exemption under paragraph (1) of the originating operational files from search, review, publication, or disclosure.
 
@@ -64,11 +66,11 @@
 
 (3) A complainant that alleges that NGA has improperly withheld records because of failure to comply with this subsection may seek judicial review in the district court of the United States of the district in which any of the parties reside, or in the District of Columbia. In such a proceeding, the court's review shall be limited to determining the following:
 
-&emsp;(A) Whether NGA has conducted the review required by paragraph (1) before the expirationof the 10-year period beginning on December 3, 1999, or before the expiration of the 10-year period beginning on the date of the most recent review.
+&emsp;(A) Whether NGA has conducted the review required by paragraph (1) before the expiration of the 10-year period beginning on December 3, 1999, or before the expiration of the 10-year period beginning on the date of the most recent review.
 
 &emsp;(B) Whether NGA, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-(July 26, 1947, ch. 343, title VII, §702, formerly title I, §105B, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616; renumbered §105C, Pub. L. 107–56, title IX, §905(a)(1), Oct. 26, 2001, 115 Stat. 388; amended Pub. L. 107–306, title III, §353(b)(5), Nov. 27, 2002, 116 Stat. 2402; renumbered title VII, §702, and amended Pub. L. 108–136, div. A, title IX, §§921(e)(4), 922(c), (d)(1)(C), Nov. 24, 2003, 117 Stat. 1569, 1573, 1574; Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(DD)–(FF), Dec. 17, 2004, 118 Stat. 3689.)
+(July 26, 1947, ch. 343, title VII, §702, formerly title I, §105B, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616; renumbered §105C, Pub. L. 107–56, title IX, §905(a)(1), Oct. 26, 2001, 115 Stat. 388; amended Pub. L. 107–306, title III, §353(b)(5), Nov. 27, 2002, 116 Stat. 2402; renumbered title VII, §702, and amended Pub. L. 108–136, div. A, title IX, §§921(e)(4), 922(c), (d)(1)(C), Nov. 24, 2003, 117 Stat. 1569, 1573, 1574; Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(DD)–(FF), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 109–163, div. A, title IX, §933(b)(1), Jan. 6, 2006, 119 Stat. 3416.)
 
 #### References in Text
 
@@ -83,6 +85,8 @@ Section was formerly classified to section 403–5c of this title prior to renum
 A prior section 432, act July 26, 1947, ch. 343, title VII, §702, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2211; amended Pub. L. 108–136, div. A, title IX, §922(b)(2)(A), Nov. 24, 2003, 117 Stat. 1573, was transferred to section 431 of this title and redesignated as subsec. (g) by Pub. L. 108–136, div. A, title IX, §922(b)(2)(B), Nov. 24, 2003, 117 Stat. 1573.
 
 #### Amendments
+
+2006—Subsec. (a)(3)(C)(vi). Pub. L. 109–163 added cl. (vi).
 
 2004—Subsec. (a)(1). Pub. L. 108–458, §1071(a)(1)(DD), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
@@ -115,6 +119,8 @@ Subsec. (b)(3). Pub. L. 108–136, §921(e)(4)(B), substituted “NGA” for “
 “(ii) The Select Committee on Intelligence of the Senate.”
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

@@ -16,7 +16,7 @@ The failure of an exporter, seller or other person to comply with the provisions
 
 #### Prior Provisions
 
-A prior section 401 of Pub. L. 95–501 enacted sections 1765a to 1765h and 1769 of this title, amended section1766b of this title, and redesignated sections 1762(d), (f), and 1763, as sections 1766a to 1766c of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
+A prior section 401 of Pub. L. 95–501 enacted sections 1765a to 1765h and 1769 of this title, amended section 1766b of this title, and redesignated sections 1762(d), (f), and 1763, as sections 1766a to 1766c of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 
 #### Amendments
 

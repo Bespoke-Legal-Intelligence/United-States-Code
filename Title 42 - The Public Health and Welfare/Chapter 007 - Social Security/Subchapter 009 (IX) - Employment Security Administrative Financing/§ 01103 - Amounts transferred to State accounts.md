@@ -122,7 +122,17 @@
 
 (5) Transfers under this subsection shall be made within 10 days after March 9, 2002.
 
-(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31.)
+#### (e) Special transfer in fiscal year 2006
+
+Not later than 10 days after October 20, 2005, the Secretary of the Treasury shall transfer from the Federal unemployment account—
+
+&emsp;(1) $15,000,000 to the account of Alabama in the Unemployment Trust Fund;
+
+&emsp;(2) $400,000,000 to the account of Louisiana in the Unemployment Trust Fund; and
+
+&emsp;(3) $85,000,000 to the account of Mississippi in the Unemployment Trust Fund.
+
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31; Pub. L. 109–91, title II, §201, Oct. 20, 2005, 119 Stat. 2093.)
 
 #### References in Text
 
@@ -138,9 +148,11 @@ A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640,
 
 #### Amendments
 
+2005—Subsec. (e). Pub. L. 109–91 added subsec. (e).
+
 2002—Subsec. (a)(3). Pub. L. 107–147, §209(a)(1)(A), struck out par. (3) which related to disposition of excess amounts remaining in the employment security administration account as of the close of fiscal year 1999, 2000, or 2001.
 
-Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: “Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.”
+Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: “Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and maybe so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.”
 
 Subsec. (d). Pub. L. 107–147, §209(b), added subsec. (d).
 
@@ -186,7 +198,7 @@ Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fisc
 
 1963—Subsec. (c)(2). Pub. L. 88–31 substituted “nine preceding fiscal years” for “four preceding fiscal years”, “ten fiscal years” for “five fiscal years” in cl. (D), and “ninth preceding fiscal year” for “fourth preceding fiscal year” in last sentence.
 
-1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal yearunder section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
+1960—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
 
 Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transfer to such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
 
@@ -199,4 +211,8 @@ Section 5021(c) of Pub. L. 101–508 provided that: “The amendments made by th
 #### Effective Date of 1987 Amendment
 
 Section 9155(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+
+#### Regulations
+
+Pub. L. 109–91, title II, §203, Oct. 20, 2005, 119 Stat. 2094, provided that: “The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this title \[amending this section\] and any amendment made by this title.”
 

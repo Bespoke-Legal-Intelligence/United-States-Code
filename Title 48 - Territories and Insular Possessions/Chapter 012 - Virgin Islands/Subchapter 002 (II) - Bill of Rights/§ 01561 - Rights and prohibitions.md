@@ -48,7 +48,7 @@ The following provisions of and amendments to the Constitution of the United Sta
 
 All laws enacted by Congress with respect to the Virgin Islands and all laws enacted by the territorial legislature of the Virgin Islands which are inconsistent with the provisions of this subsection <sup>2</sup> are repealed to the extent of such inconsistency.
 
-(July 22, 1954, ch. 558, §3, 68 Stat. 497; Pub. L. 85–851, §1, Aug. 28, 1958, 72 Stat. 1094; Pub. L. 90–496, §11, Aug. 23, 1968, 82 Stat. 841; Pub. L. 98–213, §5(d), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–454, title VII, §701, Oct. 5, 1984, 98 Stat. 1737.)
+(July 22, 1954, ch. 558, §3, 68 Stat. 497; Pub. L. 85–851, §1, Aug. 28, 1958, 72 Stat. 1094; Pub. L.90–496, §11, Aug. 23, 1968, 82 Stat. 841; Pub. L. 98–213, §5(d), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–454, title VII, §701, Oct. 5, 1984, 98 Stat. 1737.)
 
 #### References in Text
 

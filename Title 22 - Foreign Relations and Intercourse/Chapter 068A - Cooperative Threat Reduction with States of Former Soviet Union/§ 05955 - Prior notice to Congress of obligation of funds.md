@@ -2,7 +2,7 @@
 
 #### (a) Notice of proposed obligation
 
-Not less than 15 days before obligation of any funds for programs under section 5952 of this title, the President shall transmit to the appropriate congressional committees as defined in section 5957 of this title a report on the proposed obligation. Each such report shall specify—
+Not less than 15 days before obligation of any funds for programs under section 5952 of thistitle, the President shall transmit to the appropriate congressional committees as defined in section 5957 of this title a report on the proposed obligation. Each such report shall specify—
 
 &emsp;(1) the activities and forms of assistance for which the President plans to obligate such funds;
 

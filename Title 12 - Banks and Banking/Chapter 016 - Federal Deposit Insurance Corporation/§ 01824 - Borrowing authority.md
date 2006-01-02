@@ -2,7 +2,7 @@
 
 #### (a) Borrowing from Treasury
 
-The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to theextent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
+The Corporation is authorized to borrow from the Treasury, and the Secretary of the Treasury is authorized and directed to loan to the Corporation on such terms as may be fixed by the Corporation and the Secretary, such funds as in the judgment of the Board of Directors of the Corporation are from time to time required for insurance purposes, not exceeding in the aggregate $30,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury: <i>Provided</i>, That the rate of interest to be charged in connection with any loan made pursuant to this subsection shall not be less than an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. For such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such loans. Any such loan shall be used by the Corporation solely in carrying out its functions with respect to such insurance. All loans and repayments under this subsection shall be treated as public-debt transactions of the United States. The Corporation may employ any funds obtained under this section for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this subsection.
 
 #### (b) Borrowing from Federal Financing Bank
 
@@ -86,7 +86,49 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 &emsp;In accounting for any investment in an obligation purchased from, or any loan made to, the Corporation for purposes of determining compliance with any capital standard and preparing any report required pursuant to section 1817(a) of this title, the amount of such investment or loan shall be treated as an asset.
 
-(Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493.)
+(Sept. 21, 1950, ch. 967, §2\[14\], 64 Stat. 890; Pub. L. 101–73, title II, §218, Aug. 9, 1989, 103 Stat. 261; Pub. L. 101–508, title II, §2005, Nov. 5, 1990, 104 Stat. 1388–16; Pub. L. 102–242, title I, §§101, 103(a), 105, Dec. 19, 1991, 105 Stat. 2236, 2237, 2239; Pub. L. 102–550, title XVI, §1603(a)(2), Oct. 28, 1992, 106 Stat. 4078; Pub. L. 103–204, §10, Dec. 17, 1993, 107 Stat. 2389; Pub. L. 104–208, div. A, title II, §2704(d)(14)(N)–(Q), Sept. 30, 1996, 110 Stat. 3009–493; Pub. L. 109–173, §8(a)(20)–(24), Feb. 15, 2006, 119 Stat. 3613, 3614.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §8(a)(20)–(24), (b), Feb. 15, 2006, 119 Stat. 3613, 3614, 3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in the fifth sentence of subsection (a), by striking “Bank Insurance Fund or the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund” and by striking “each such fund” and inserting “the Deposit Insurance Fund”;</i>
+
+<i>(2) in subsection (b), by striking “Bank Insurance Fund or Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”;</i>
+
+<i>(3) in subsection (c), by striking paragraph (3);</i>
+
+<i>(4) in subsection (d):</i>
+
+<i>(A) by striking the subsection heading and inserting “Borrowing for the Deposit Insurance Fund from insured depository institutions”;</i>
+
+<i>(B) in paragraph (1), by striking “Bank Insurance Fund members” and inserting “insured depository institutions” in two places in introductory provisions and by striking “Bank Insurance Fund” and inserting “Deposit Insurance Fund” in subparagraphs (A) and (B);</i>
+
+<i>(C) in paragraph (2)(D), by striking “Bank Insurance Fund member” and inserting “insured depository institution”;</i>
+
+<i>(D) in paragraph (3), by striking “BIF” and inserting “the Deposit Insurance Fund” in the paragraph heading and by striking “Bank Insurance Fund” and inserting “Deposit Insurance Fund” in text; and</i>
+
+<i>(E) in paragraph (5), by striking “BIF members” and inserting “insured depository institutions” in the paragraph heading and by striking “Bank Insurance Fund member” and inserting “insured depository institution” in subparagraphs (A) and (B); and</i>
+
+<i>(5) by adding at the end the following new subsection:</i>
+
+#### <i>“(e) Borrowing for the Deposit Insurance Fund from Federal home loan banks</i>
+
+#### <i>“(1) In general</i>
+
+&emsp;<i>“The Corporation may borrow from the Federal home loan banks, with the concurrence of the Federal Housing Finance Board, such funds as the Corporation considers necessary for the use of the Deposit Insurance Fund.</i>
+
+#### <i>“(2) Terms and conditions</i>
+
+&emsp;<i>“Any loan from any Federal home loan bank under paragraph (1) to the Deposit Insurance Fund shall—</i>
+
+&emsp;&emsp;<i>“(A) bear a rate of interest of not less than the current marginal cost of funds to that bank, taking into account the maturities involved;</i>
+
+&emsp;&emsp;<i>“(B) be adequately secured, as determined by the Federal Housing Finance Board;</i>
+
+&emsp;&emsp;<i>“(C) be a direct liability of the Deposit Insurance Fund; and</i>
+
+&emsp;&emsp;<i>“(D) be subject to the limitations of section 1825(c) of this title.”</i>
 
 #### References in Text
 
@@ -128,6 +170,10 @@ Subsec. (d). Pub. L. 102–242, §105, added subsec. (d).
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, set out as a note under section 1821 of this title.
@@ -138,5 +184,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Retirement and Cancellation of Capital Stock; Payments of Capital and Surplus to Secretary of the Treasury
 
-Section 1 of act Aug. 5, 1947, ch. 492, 61 Stat. 773, directed the Federal Deposit Insurance Corporation to retire its capital stock by paying the amount receivedtherefor (whether received from the Secretary of the Treasury or the Federal Reserve banks) to the Secretary of the Treasury, to be covered into the Treasury as miscellaneous receipts, with the Corporation to pay to the Secretary so much of its capital and surplus as is in excess of $1,000,000,000, the balance of the amount to be paid to the Secretary in units of $10,000,000 except that the last unit to be paid could be less than $10,000,000.
+Section 1 of act Aug. 5, 1947, ch. 492, 61 Stat. 773, directed the Federal Deposit Insurance Corporation to retire its capital stock by paying the amount received therefor (whether received from the Secretary of the Treasury or the Federal Reserve banks) to the Secretary of the Treasury, to be covered into the Treasury as miscellaneous receipts, with the Corporation to pay to the Secretary so much of its capital and surplus as is in excess of $1,000,000,000, the balance of the amount to be paid to the Secretary in units of $10,000,000 except that the last unit to be paid could be less than $10,000,000.
 

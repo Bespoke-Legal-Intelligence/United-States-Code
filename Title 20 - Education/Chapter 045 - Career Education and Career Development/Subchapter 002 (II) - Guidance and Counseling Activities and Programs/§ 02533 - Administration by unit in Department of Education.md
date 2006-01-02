@@ -22,7 +22,7 @@ The Secretary of Education may reserve an amount not to exceed 5 per centum of t
 
 #### Transfer of Functions
 
-“Secretary of Education” and “Department of Education” substituted in text for “Commissioner” and“Education Division”, respectively, pursuant to sections 301(a)(1), (b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1), (b)(2) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education and transferred Education Division to Department of Education.
+“Secretary of Education” and “Department of Education” substituted in text for “Commissioner” and “Education Division”, respectively, pursuant to sections 301(a)(1), (b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1), (b)(2) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education and transferred Education Division to Department of Education.
 
-For authority of Secretary of Education to consolidate, alter, or discontinue the administrative unit for guidance and counseling programs, or to reallocate any functions vested by statute in the administrative unit, see section 413 of Pub. L. 96–88, which is classified to section 3473 of this title.
+For authority of Secretary of Education to consolidate, alter, or discontinue the administrative unit for guidance and counseling programs, or to reallocate any functions vested by statute in the administrative unit,see section 413 of Pub. L. 96–88, which is classified to section 3473 of this title.
 

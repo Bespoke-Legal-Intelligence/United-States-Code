@@ -22,7 +22,15 @@ The provision of subsection (a) shall not apply to a State, to a political subdi
 
 &emsp;&emsp;<b>(3) For provisions relating to the preservation and inspection of records, and entry of premises for inspection, see section 5146.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1342; amended Pub. L. 94–455, title XIX, §§1905(c)(1), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1342; amended Pub. L. 94–455, title XIX, §§1905(c)(1), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 109–59, title XI, §11125(b)(5)(A), (B)(i), Aug. 10, 2005, 119 Stat. 1954.)
+
+#### Amendment and Redesignation of Section
+
+<i>Pub. L. 109–59, title XI, §11125(b)(3)(A), (5)(A), (B)(i), (c), Aug. 10, 2005, 119 Stat. 1953, 1954, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date:</i>
+
+<i>(1) this section is amended by substituting “§5432 \[probably should be 5121\]. Recordkeeping by wholesale dealers” for “§5114. Records” in section catchline and this section is transferred and inserted after the section analysis of subpart C of this part; and</i>
+
+<i>(2) section 5134 of this title is redesignated section 5114.</i>
 
 #### Prior Provisions
 

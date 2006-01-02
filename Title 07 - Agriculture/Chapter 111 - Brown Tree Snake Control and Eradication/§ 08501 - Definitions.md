@@ -32,7 +32,7 @@ In this chapter:
 
 #### (7) Technical Working Group
 
-&emsp;The term “Technical Working Group” means Brown Tree Snake Technical Working Group established under the authority of section 4728 of title 16.
+&emsp;The term “Technical Working Group” means Brown Tree Snake Technical WorkingGroup established under the authority of section 4728 of title 16.
 
 #### (8) Territorial
 

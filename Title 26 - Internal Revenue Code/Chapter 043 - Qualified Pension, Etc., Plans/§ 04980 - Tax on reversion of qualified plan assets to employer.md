@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409), such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if—
+&emsp;&emsp;If, upon an employer reversion from a qualified plan, any applicable amount is transferred from such plan to an employee stock ownership plan described in section 4975(e)(7) or a tax credit employee stock ownership plan (as described in section 409),such amount shall not be treated as an employer reversion for purposes of this section (or includible in the gross income of the employer) if—
 
 &emsp;&emsp;&emsp;(i) the requirements of subparagraphs (B), (C), and (D) are met, and
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) is transferred after March 31, 1985, and before January 1, 1989, or
 
-&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occursafter March 31, 1985, and before January 1, 1989.
+&emsp;&emsp;&emsp;(ii) is transferred after December 31, 1988, pursuant to a termination which occurs after March 31, 1985, and before January 1, 1989.
 
 #### (F) No credit or deduction allowed
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (ii) Reduction for increase in benefits
 
-&emsp;&emsp;&emsp;The amount determined under this clause is an amount equal to the present value of the aggregate increases in the accrued benefits under the terminated plan of any participants or beneficiaries pursuant to a plan amendment which—
+&emsp;&emsp;&emsp;The amount determined under this clause is an amount equal to the presentvalue of the aggregate increases in the accrued benefits under the terminated plan of any participants or beneficiaries pursuant to a plan amendment which—
 
 &emsp;&emsp;&emsp;&emsp;(I) is adopted during the 60-day period ending on the date of termination of the qualified plan, and
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount shall be allocated to the accounts of participants as of such date, except that any amount which may not be allocated by reason of any limitation under section 415 shall be allocated to the accounts of other participants, and
 
-&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treatedas an employer reversion to which this section applies.
+&emsp;&emsp;&emsp;&emsp;(II) if any portion of such amount may not be allocated to other participants under subclause (I) by reason of such limitation, such portion shall be treated as an employer reversion to which this section applies.
 
 #### (3) Pro rata benefit increases
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 #### Amendments
 
-1996—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever intitle XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
+1996—Subsecs. (a), (d). Pub. L. 104–188 provided that, except as otherwise expressly provided, whenever in title XII of Pub. L. 101–508 an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986. Sections 12001 and 12002(a) of title XII of Pub. L. 101–508 directed the amendment of this section without specifying that the amendment was to the Internal Revenue Code of 1986. See 1990 Amendment note below.
 
 1990—Subsec. (a). Pub. L. 101–508, §12001, which directed the substitution of “20 percent” for “15 percent” in “section 4980(a)” without specifying the Internal Revenue Code of 1986, was executed to subsec. (a) of this section. See 1996 Amendment note above.
 
@@ -294,7 +294,7 @@ Exception.—The amendments made by this subtitle shall not apply to any reversi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1011A(f)(1)–(3), (6), (7) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1011A(f)(1)–(3), (6), (7) of Pub. L. 100–647 effective, except as otherwise provided, as ifincluded in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Section 5072(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to reversions after December 31, 1988.”
 
@@ -360,7 +360,7 @@ Taxpayers to whom paragraph applies.—This paragraph shall apply to—
 
 &emsp;&emsp;“(iv) a corporation incorporated on April 23, 1956, which has its principal place of business in Dallas, Texas, and
 
-&emsp;&emsp;“(v) a corporation incorporated in the State of Nevada, the principal place of business of which is in Denver, Colorado, and which filed for relief fromcreditors under the United States Bankruptcy Code on August 28, 1986.
+&emsp;&emsp;“(v) a corporation incorporated in the State of Nevada, the principal place of business of which is in Denver, Colorado, and which filed for relief from creditors under the United States Bankruptcy Code on August 28, 1986.
 
 “(5)
 
@@ -385,8 +385,4 @@ Pub. L. 101–239, title VII, §7861(b), Dec. 19, 1989, 103 Stat. 2430, provided
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 420, 4972, 9705 of this title; title 29 sections 1104, 1344.
 

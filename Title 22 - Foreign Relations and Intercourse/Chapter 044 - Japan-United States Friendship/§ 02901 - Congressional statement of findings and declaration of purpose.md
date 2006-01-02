@@ -8,7 +8,7 @@
 
 &emsp;(3) the continuation of close United States-Japan friendship and cooperation will make a vital contribution to the prospects for peace, prosperity, and security in Asia and the world.
 
-(b) It is therefore the purpose of this chapter to provide for the use of an amount equal to a part of the total sum payable by Japan to the United States in connection with the reversion of Okinawa to Japanese administration and the remaining funds of the amount set aside in 1962 for educational and cultural exchange with Japan (known as the G.A.R.I.O.A. Account) to aid education and culture at the highest level inorder to enhance reciprocal people-to-people understanding and to support the close friendship and mutuality of interests between the United States and Japan.
+(b) It is therefore the purpose of this chapter to provide for the use of an amount equal to a part of the total sum payable by Japan to the United States in connection with the reversion of Okinawa to Japanese administration and the remaining funds of the amount set aside in 1962 for educational and cultural exchange with Japan (known as the G.A.R.I.O.A. Account) to aid education and culture at the highest level in order to enhance reciprocal people-to-people understanding and to support the close friendship and mutuality of interests between the United States and Japan.
 
 (Pub. L. 94–118, §2, Oct. 20, 1975, 89 Stat. 603.)
 

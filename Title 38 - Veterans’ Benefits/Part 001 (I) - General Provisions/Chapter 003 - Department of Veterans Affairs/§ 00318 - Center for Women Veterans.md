@@ -18,7 +18,7 @@
 
 &emsp;(5) Conduct and sponsor appropriate social and demographic research on the needs of veterans who are women and the extent to which programs authorized under this title meet the needs of those veterans, without regard to any law concerning the collection of information from the public.
 
-&emsp;(6) Analyze and evaluate complaints made by or on behalf of veterans who are women about the adequacy and timeliness of servicesprovided by the Department and advise the appropriate official of the Department of the results of such analysis or evaluation.
+&emsp;(6) Analyze and evaluate complaints made by or on behalf of veterans who are women about the adequacy and timeliness of services provided by the Department and advise the appropriate official of the Department of the results of such analysis or evaluation.
 
 &emsp;(7) Consult with, and provide assistance and information to, officials responsible for administering Federal, State, local, and private programs that assist veterans, to encourage those officials to adopt policies which promote the use of those programs by veterans who are women.
 
@@ -70,7 +70,7 @@ Prior sections 404, 410 to 418, and 421 to 423 were renumbered sections 1304, 13
 
 1996—Subsec. (b). Pub. L. 104–275, §501(a), inserted “career or” before “noncareer”.
 
-Subsec. (d)(10). Pub. L. 104–275, §501(d), substituted “(42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on” for “(relating to the inclusion of women and minorities in clinical research) and of”.
+Subsec. (d)(10). Pub. L. 104–275, §501(d), substituted “(42 U.S.C. 289a–2) with respect to the inclusion of women in clinical research and on” for “(relating tothe inclusion of women and minorities in clinical research) and of”.
 
 #### Assessment of Use by Women Veterans of Department of Veterans Affairs Health Services
 

@@ -14,7 +14,7 @@ The amount of contractor employee compensation under this part for the survivor 
 
 #### (2) Category two
 
-&emsp;The survivor shall receive the amount of $150,000, if paragraph (1) applies to the employee and the Secretary also determines that there was an aggregate period of not less than 10 years, before the employee attained normalretirement age (for purposes of the Social Security Act \[42 U.S.C. 301 et seq.\]), during which, as the result of any covered illness contracted by that employee through exposure to a toxic substance at a Department of Energy facility, the employee's annual wage did not exceed 50 percent of the average annual wage of that employee, as determined under section 7385s–2(a)(2)(A)(ii) of this title.
+&emsp;The survivor shall receive the amount of $150,000, if paragraph (1) applies to the employee and the Secretary also determines that there was an aggregate period of not less than 10 years, before the employee attained normal retirement age (for purposes of the Social Security Act \[42 U.S.C. 301 et seq.\]), during which, as the result of any covered illness contracted by that employee through exposure to a toxic substance at a Department of Energy facility, the employee's annual wage did not exceed 50 percent of the average annual wage of that employee, as determined under section 7385s–2(a)(2)(A)(ii) of this title.
 
 #### (3) Category three
 

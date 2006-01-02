@@ -30,7 +30,7 @@
 
 #### (b) Senior staff
 
-The Administrator, after consultation with the Board, may appoint an executive secretary and two additional staff members without regard to the provisions of title 5 governing appointments in the competitive service, and may pay such employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
+The Administrator, after consultation with the Board, may appoint an executive secretaryand two additional staff members without regard to the provisions of title 5 governing appointments in the competitive service, and may pay such employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no individual so appointed may receive pay in excess of the annual rate of basic pay payable for GS–18 of the General Schedule.
 
 #### (c) Other staff
 
@@ -44,13 +44,13 @@ The Administrator may appoint, fix the compensation, and remove additional emplo
 
 #### (e) Compensation
 
-Except as otherwise provided in subsection (a) of this section, the members of the Board whoare officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (d)(1) of this section, shall receive no additional compensation for services, but shall continue to be compensated by the employing Department or agency of such officer or employee. Each member of the Board appointed from private life shall receive compensation at a rate not to exceed the daily equivalent of the rate prescribed for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board. Individuals hired under subsection (d)(2) of this section may receive compensation at rates fixed by the Administrator, but not to exceed the daily equivalent of the rate prescribed for level V of the Federal Executive Salary Schedule under section 5316 of title 5 for each day (including travel time) in which such appointees are properly engaged in the actual performance of duties under this section. While serving away from homes or the regular place of business, Board members and other appointees serving on an intermittent basis under this section shall be allowed travel expenses in accordance with section 5703 of title 5.
+Except as otherwise provided in subsection (a) of this section, the members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (d)(1) of this section, shall receive no additional compensation for services, but shall continue to be compensated by the employing Department or agency of such officer or employee. Each member of the Board appointed from private life shall receive compensation at a rate not to exceed the daily equivalent of the rate prescribed for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board. Individuals hired under subsection (d)(2) of this section may receive compensation at rates fixed by the Administrator, but not to exceed the daily equivalent of the rate prescribed for level V of the Federal Executive Salary Schedule under section 5316 of title 5 for each day (including travel time) in which such appointees are properly engaged in the actual performance of duties under this section. While serving away from homes or the regular place of business, Board members and other appointees serving on an intermittent basis under this section shall be allowed travel expenses in accordance with section 5703 of title 5.
 
 #### (f) Cost accounting standards authority
 
 (1) The Board shall have the exclusive authority to make, promulgate, amend, and rescind cost accounting standards and interpretations thereof designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States.
 
-(2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of $500,000.
+(2)(A) Cost accounting standards promulgated under this section shall be mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the United States in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10, as such amount is adjusted in accordance with applicable requirements of law.
 
 (B) Subparagraph (A) does not apply to the following contracts or subcontracts:
 
@@ -78,7 +78,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 &emsp;(ii) would not otherwise be subject to the cost accounting standards under this section, as in effect on or after the effective date of this paragraph.
 
-(B) The head of an executive agency may also waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency. A determination to waive the applicability of the cost accounting standards under this subparagraph shall be set forth in writing and shall include a statement of the circumstances justifying the waiver.
+(B) The head of an executive agency may also waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency. A determination to waive the applicability of the cost accounting standards under this subparagraph shall be setforth in writing and shall include a statement of the circumstances justifying the waiver.
 
 (C) The head of an executive agency may not delegate the authority under subparagraph (A) or (B) to any official in the executive agency below the senior policymaking level in the executive agency.
 
@@ -150,7 +150,7 @@ For the purpose of determining whether a contractor or subcontractor has complie
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 93–400, §26, as added Pub. L. 100–679, §5(a), Nov. 17, 1988, 102 Stat. 4058; amended Pub. L. 103–355, title II, §2453, title VIII, §8301(d), Oct. 13, 1994, 108 Stat. 3326, 3397; Pub. L. 104–106, div. D, title XLII, §4205, title XLIII, §4321(h)(4), Feb. 10, 1996, 110 Stat. 656, 675; Pub. L. 106–65, div. A, title VIII, §802(a), (b), Oct. 5, 1999, 113 Stat. 701.)
+(Pub. L. 93–400, §26, as added Pub. L. 100–679, §5(a), Nov. 17, 1988, 102 Stat. 4058; amended Pub. L. 103–355, title II, §2453, title VIII, §8301(d), Oct. 13, 1994, 108 Stat. 3326, 3397; Pub. L. 104–106, div. D, title XLII, §4205, title XLIII, §4321(h)(4), Feb. 10, 1996, 110 Stat. 656, 675; Pub. L. 106–65, div. A, title VIII, §802(a), (b), Oct. 5, 1999, 113 Stat. 701; Pub. L. 109–163, div. A, title VIII, §822, Jan. 6, 2006, 119 Stat. 3386.)
 
 #### References in Text
 
@@ -171,6 +171,8 @@ The Inspector General Act of 1978, referred to in subsec. (k), is Pub. L. 95–4
 Subsec. (i) of this section, which required the Board to submit an annual report to Congress on the activities and operations of the Board under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 42 of House Document No. 103–7.
 
 #### Amendments
+
+2006—Subsec. (f)(2)(A). Pub. L. 109–163 substituted “the amount set forth in section 2306a(a)(1)(A)(i) of title 10, as such amount is adjusted in accordance with applicable requirements of law” for “$500,000”.
 
 1999—Subsec. (f)(2)(B)(iii), (iv). Pub. L. 106–65, §802(a), added cls. (iii) and (iv).
 
@@ -206,7 +208,7 @@ Regulation on Types of CAS Coverage.—(1) The Administrator for Federal Procure
 
 “(d)
 
-Implementation.—The Administrator for Federal Procurement Policy shall ensure that this section and the amendments made by this section \[amending this section\] are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliance with cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs from contracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards.
+Implementation.—The Administrator for Federal Procurement Policy shall ensure that this section and the amendments made by this section \[amending this section\] are implemented in a manner that ensures that the Federal Government can recover costs, as appropriate, in a case in which noncompliance with cost accounting standards, or a change in the cost accounting system of a contractor segment or subcontractor segment that is not determined to be desirable by the Federal Government, results in a shift of costs fromcontracts that are not covered by the cost accounting standards to contracts that are covered by the cost accounting standards.
 
 “(e)
 

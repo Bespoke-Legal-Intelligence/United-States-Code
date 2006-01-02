@@ -16,7 +16,7 @@
 
 #### (b) Rewards authorized
 
-In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section)and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
+In the sole discretion of the Secretary (except as provided in subsection (c)(2) of this section) and in consultation, as appropriate, with the Attorney General, the Secretary may pay a reward to any individual who furnishes information leading to—
 
 &emsp;(1) the arrest or conviction in any country of any individual for the commission of an act of international terrorism against a United States person or United States property;
 
@@ -168,7 +168,7 @@ As used in this section:
 
 #### (5) United States narcotics laws
 
-&emsp;The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21).
+&emsp;The term “United States narcotics laws” means the laws of the United States for theprevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21).
 
 #### (6) United States person
 
@@ -178,7 +178,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–447, div. B, title IV, §405(a)–(d), Dec. 8, 2004, 118 Stat. 2902, 2903.)
 
 #### References in Text
 
@@ -246,7 +246,7 @@ Subsecs. (h), (i). Pub. L. 99–399, §502(d), added subsecs. (h) and (i).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
+Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L.103–236, set out as an Effective Date note under section 6301 of this title.
 
 #### Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia or Rwanda
 
@@ -266,7 +266,7 @@ Authority.—In the sole discretion of the Secretary of State (except as provide
 
 Procedures.—
 
-&emsp;“(1) To ensure that the payment of rewards pursuant to this section does not duplicate or interfere with the payment of informants or the obtaining ofevidence or information, as authorized to the Department of Justice, subject to paragraph (3), the offering, administration, and payment of rewards under this section, including procedures for—
+&emsp;“(1) To ensure that the payment of rewards pursuant to this section does not duplicate or interfere with the payment of informants or the obtaining of evidence or information, as authorized to the Department of Justice, subject to paragraph (3), the offering, administration, and payment of rewards under this section, including procedures for—
 
 &emsp;&emsp;“(A) identifying individuals, organizations, and offenses with respect to which rewards will be offered;
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than one year after January 4, 2002, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs and experts in pediatric research,shall develop, prioritize, and publish an annual list of approved drugs for which—
+&emsp;Not later than one year after January 4, 2002, the Secretary, acting through the Director of the National Institutes of Health and in consultation with the Commissioner of Food and Drugs and experts in pediatric research, shall develop, prioritize, and publish an annual list of approved drugs for which—
 
 &emsp;&emsp;(A)(i) there is an approved application under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j));
 

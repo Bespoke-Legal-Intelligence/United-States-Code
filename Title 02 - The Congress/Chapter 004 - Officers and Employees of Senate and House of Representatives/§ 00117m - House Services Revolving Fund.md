@@ -12,6 +12,8 @@ There is hereby established in the Treasury of the United States a revolving fun
 
 &emsp;(4) The provision of mail services to entities which are not part of the House of Representatives.
 
+&emsp;(5) The payment of fees for the use of the exercise facility described in section 103(a).
+
 #### (b) Use of amounts in Fund
 
 Amounts in the Revolving Funds <sup>1</sup> shall be used for any purpose designated by the Chief Administrative Officer which is approved by the Committee on Appropriations of the House of Representatives.
@@ -42,15 +44,25 @@ house beauty shop” in the matter relating to administrative provisions for the
 
 This section shall take effect October 1, 2004, and shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, §105, Dec. 8, 2004, 118 Stat. 3175.)
+(Pub. L. 108–447, div. G, title I, §105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, §3401(b), May 11, 2005, 119 Stat. 272.)
 
 #### References in Text
 
-Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsec. (d)(2)(C),means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
+Section 103(a), referred to in subsec. (a)(5), means section 103(a) of Pub. L. 108–447, div. G, title I, Dec. 8, 2004, 118 Stat. 3174, which is not classified to the Code.
+
+Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsec. (d)(2)(C), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
 
 #### Codification
 
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
+
+#### Amendments
+
+2005—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–13, div. A, title III, §3401(c), May 11, 2005, 119 Stat. 272, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2005 \[Pub. L. 108–447, div. G\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Fund”.</i>
 

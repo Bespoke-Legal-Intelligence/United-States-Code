@@ -122,7 +122,7 @@
 
 #### (VI) Limitation
 
-&emsp;&emsp;&emsp;&emsp;In reserving amounts under subclause (V) and making grants under this clause for a fiscal year, the Secretary shall ensure for each State that the total of the grant under section 300ff–21 of this title for the State for the fiscal year and the grant under clause (i) for the State for the fiscal year is not less than such total for the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;In reserving amounts under subclause (V) and making grants under this clause for a fiscal year, the Secretary shall ensure for each State that the total of thegrant under section 300ff–21 of this title for the State for the fiscal year and the grant under clause (i) for the State for the fiscal year is not less than such total for the State for the preceding fiscal year.
 
 #### (3) Definitions
 
@@ -238,7 +238,7 @@ Subsec. (a)(1). Pub. L. 104–146, §6(c)(3)(A), which directed amendment of sub
 
 Subsec. (b)(1). Pub. L. 104–146, §6(c)(3)(B), which directed amendment of subsec. (b)(1) by substituting “section 300ff–77 of this title” for “section 300ff–30 of this title”, could not be executed because the words “section 300ff–30 of this title” did not appear subsequent to the general amendment of subsec. (b)(1) by Pub. L. 104–146, §5. See below.
 
-Pub. L. 104–146, §5, amended heading and text of par. (1) generally. Prior to amendment, text read as follows:“Subject to the extent of amounts made available under section 300ff–30 of this title, the amount of a grant to be made under this part for—
+Pub. L. 104–146, §5, amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Subject to the extent of amounts made available under section 300ff–30 of this title, the amount of a grant to be made under this part for—
 
 &emsp;“(A) each of the several States and the District of Columbia for a fiscal year shall be the greater of—
 

@@ -6,5 +6,5 @@ The cost of investigation, planning, and construction of the works and the deliv
 
 #### References in Text
 
-The reclamation laws, including the Act of June 17, 1902, 32 Stat. 388, and the Acts amendatory thereof and supplementary thereto, referred to in text, are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
+The reclamation laws, including the Act of June 17, 1902, 32 Stat. 388, and the Acts amendatory thereof andsupplementary thereto, referred to in text, are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
 

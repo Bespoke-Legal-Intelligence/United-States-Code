@@ -2,7 +2,7 @@
 
 #### (a) Real property
 
-The Secretary may acquire land or interests in land within the boundaries of the Park, fromwilling sellers only, by donation, purchase with donated or appropriated funds, or exchange.
+The Secretary may acquire land or interests in land within the boundaries of the Park, from willing sellers only, by donation, purchase with donated or appropriated funds, or exchange.
 
 #### (b) Boundary revision
 

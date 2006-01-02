@@ -60,7 +60,3 @@ Amendment by Pub. L. 91–53 applicable with respect to calendar years beginning
 
 Amendment by Pub. L. 89–809 effective Nov. 13, 1966, see section 105(f)(4) of Pub. L. 89–809, set out as a note under section 6501 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6511, 6531, 6611 of this title.
-

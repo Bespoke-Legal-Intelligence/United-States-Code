@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;For purposes of this title, there shall be included in the gross income of the holder of any debt instrument having original issue discount issued after July 1, 1982, an amount equal to the sum of the daily portions of the original issue discount for each day during the taxable year on which such holder held such debt instrument.
+&emsp;For purposes of this title, there shall be included in the gross income of the holder of any debt instrument having original issue discountissued after July 1, 1982, an amount equal to the sum of the daily portions of the original issue discount for each day during the taxable year on which such holder held such debt instrument.
 
 #### (2) Exceptions
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any debt instrument to which this paragraph applies, the daily portion of the original issue discount shall be determined by allocating to each day in anyaccrual period its ratable portion of the excess (if any) of—
+&emsp;&emsp;In the case of any debt instrument to which this paragraph applies, the daily portion of the original issue discount shall be determined by allocating to each day in any accrual period its ratable portion of the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the sum of (I) the present value determined under subparagraph (B) of all remaining payments under the debt instrument as of the close of such period, and (II) the payments during the accrual period of amounts included in the stated redemption price of the debt instrument, over
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iii) any pool of debt instruments the yield on which may be affected by reason of prepayments (or to the extent provided in regulations, by reason of other events).
 
-> &emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, in the case of a small business engaged in the trade or business of selling tangible personal property at retail, clause (iii) shall not apply to debt instruments incurred in the ordinary course of such trade or business while held by such business.
+> &emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, in the case of asmall business engaged in the trade or business of selling tangible personal property at retail, clause (iii) shall not apply to debt instruments incurred in the ordinary course of such trade or business while held by such business.
 
 #### (7) Reduction where subsequent holder pays acquisition premium
 
@@ -217,8 +217,4 @@ Section 1004(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxp
 &emsp;“(B) such change shall be treated as made with the consent of the Secretary of the Treasury, and
 
 &emsp;“(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account ratably over the 4-taxable year period beginning with such first taxable year.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 163, 171, 305, 483, 857, 860B, 860H, 871, 1271, 1275, 1276, 1278, 1286, 1288, 6049, 7872 of this title; title 31 section 3101.
 

@@ -6,7 +6,7 @@ Review of any regulation promulgated under this chapter may be had upon applicat
 
 #### (b) Jurisdiction; venue
 
-Except as provided in subsections (a) and (h) of this section, the United States district courts shall have exclusive original jurisdiction over all controversies arising under this chapter,without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the release or damages occurred, or in which the defendant resides, may be found, or has his principal office. For the purposes of this section, the Fund shall reside in the District of Columbia.
+Except as provided in subsections (a) and (h) of this section, the United States district courts shall have exclusive original jurisdiction over all controversies arising under this chapter, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the release or damages occurred, or in which the defendant resides, may be found, or has his principal office. For the purposes of this section, the Fund shall reside in the District of Columbia.
 
 #### (c) Controversies or other matters resulting from tax collection or tax regulation review
 
@@ -48,7 +48,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(B) The date on which regulations are promulgated under section 9651(c) of this title.
 
-> &emsp;With respect to any facility listed on the National Priorities List (NPL), any Federal facility identified under section 9620 of this title (relating to Federal facilities), or any vessel or facility at which a remedial action under this chapter is otherwise scheduled, an action for damages under this chapter must be commenced within 3 years after the completion of the remedial action (excluding operation and maintenance activities) in lieu of the dates referred to in subparagraph (A) or (B). In no event may an action for damages under this chapter with respect to such a vessel or facility be commenced (i) prior to 60 days after the Federal or State natural resource trustee provides to the President and the potentially responsible party a notice of intent to file suit, or (ii) before selection of the remedial action if the President is diligently proceeding with a remedial investigation and feasibility study under section 9604(b) of this title or section 9620 of this title (relating to Federal facilities). The limitation in the preceding sentence on commencing an action before giving notice or before selection of the remedial action does not apply to actions filed on or before October 17, 1986.
+> &emsp;With respect to any facility listed on the National Priorities List (NPL), any Federal facility identified under section 9620 of this title (relating to Federal facilities), or any vessel or facility at which a remedial action under this chapter is otherwise scheduled, an action for damages under this chapter must be commenced within 3 years after the completion of the remedial action (excluding operation andmaintenance activities) in lieu of the dates referred to in subparagraph (A) or (B). In no event may an action for damages under this chapter with respect to such a vessel or facility be commenced (i) prior to 60 days after the Federal or State natural resource trustee provides to the President and the potentially responsible party a notice of intent to file suit, or (ii) before selection of the remedial action if the President is diligently proceeding with a remedial investigation and feasibility study under section 9604(b) of this title or section 9620 of this title (relating to Federal facilities). The limitation in the preceding sentence on commencing an action before giving notice or before selection of the remedial action does not apply to actions filed on or before October 17, 1986.
 
 #### (2) Actions for recovery of costs
 
@@ -56,7 +56,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(A) for a removal action, within 3 years after completion of the removal action, except that such cost recovery action must be brought within 6 years after a determination to grant a waiver under section 9604(c)(1)(C) of this title for continued response action; and
 
-&emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, if the remedial action is initiated within 3 years after the completion of the removalaction, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
+&emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, if the remedial action is initiated within 3 years after the completion of the removal action, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
 
 > &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
 
@@ -100,7 +100,7 @@ No Federal court shall have jurisdiction under Federal law other than under sect
 
 #### (i) Intervention
 
-In any action commenced under this chapter or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] in a court of the United States, any person may intervene as a matter of right when such person claims an interest relating to the subject of the action and is so situated that the disposition of the action may, as a practical matter, impair or impede the person's ability to protect that interest, unless the President or the State shows that the person's interest is adequately represented by existing parties.
+In any action commenced under this chapter or under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] in a court of the United States, any person may intervene as a matter of right when such person claims an interest relating to the subject of the action and is so situated that the disposition of the action may, as a practical matter, impair or impede the person's ability toprotect that interest, unless the President or the State shows that the person's interest is adequately represented by existing parties.
 
 #### (j) Judicial review
 
@@ -118,7 +118,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (4) Procedural errors
 
-&emsp;In reviewing alleged procedural errors, the court may disallow costs or damages only ifthe errors were so serious and related to matters of such central relevance to the action that the action would have been significantly changed had such errors not been made.
+&emsp;In reviewing alleged procedural errors, the court may disallow costs or damages only if the errors were so serious and related to matters of such central relevance to the action that the action would have been significantly changed had such errors not been made.
 
 #### (k) Administrative record and participation procedures
 
@@ -164,7 +164,7 @@ Whenever any action is brought under this chapter in a court of the United State
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to 9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
+Subchapter II of this chapter, referred to in subsec. (c), was in the original “title II of this Act”, meaning title II of Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2796, known as the Hazardous Substance Response Revenue Act of 1980, which enacted subchapter II of this chapter and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code. Sections 221 to 223 and 232 of Pub. L. 96–510, which were classified to sections 9631 to9633 and 9641 of this title, comprising subchapter II of this chapter, were repealed by Pub. L. 99–499, title V, §§514(b), 517(c)(1), Oct. 17, 1986, 100 Stat. 1767, 1774. For complete classification of title II to the Code, see Short Title of 1980 Amendment note set out under section 1 of Title 26 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

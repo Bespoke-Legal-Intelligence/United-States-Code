@@ -38,7 +38,3 @@ In the case of mines, oil and gas wells, other natural deposits, and timber, the
 
 Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 57, 62, 167, 174, 263, 291, 613, 613A, 616, 617, 642, 691, 703, 776, 834, 901, 1082, 1254, 4940, 7704 of this title.
-

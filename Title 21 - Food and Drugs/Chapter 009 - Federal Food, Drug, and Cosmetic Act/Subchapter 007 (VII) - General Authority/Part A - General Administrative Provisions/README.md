@@ -8,7 +8,7 @@ Part A—General Administrative Provisions
 - [&sect; 00371 - Regulations and hearings](%C2%A7%2000371%20-%20Regulations%20and%20hearings.md)
 - [&sect; 00372 - Examinations and investigations](%C2%A7%2000372%20-%20Examinations%20and%20investigations.md)
 - [&sect; 00372a - Transferred](%C2%A7%2000372a%20-%20Transferred.md)
-- [&sect; 00373 - Records of interstate shipment](%C2%A7%2000373%20-%20Records%20of%20interstate%20shipment.md)
+- [&sect; 00373 - Records](%C2%A7%2000373%20-%20Records.md)
 - [&sect; 00374 - Inspection](%C2%A7%2000374%20-%20Inspection.md)
 - [&sect; 00374a - Inspections relating to food allergens](%C2%A7%2000374a%20-%20Inspections%20relating%20to%20food%20allergens.md)
 - [&sect; 00375 - Publicity](%C2%A7%2000375%20-%20Publicity.md)

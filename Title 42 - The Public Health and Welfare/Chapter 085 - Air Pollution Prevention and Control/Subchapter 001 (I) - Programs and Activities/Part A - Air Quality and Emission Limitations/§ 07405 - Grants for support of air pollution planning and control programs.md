@@ -32,7 +32,7 @@ The Administrator, with the concurrence of any recipient of a grant under this s
 
 No application by a State for a grant under this section may be disapproved by the Administrator without prior notice and opportunity for a public hearing in the affected State, and no commitment or obligation of any funds under any such grant may be revoked or reduced without prior notice and opportunity for a public hearing in the affected State (or in one of the affected States if more than one State is affected).
 
-(July 14, 1955, ch. 360, title I, §105, formerly §4, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 395; renumbered §104 and amended Pub. L. 89–272, title I, §101(2)–(4), Oct. 20, 1965, 79 Stat. 992; Pub. L. 89–675, §3, Oct. 15, 1966, 80 Stat. 954; renumbered §105 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 489; Pub. L. 91–604, §§3(a), (b)(1), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713; Pub. L. 95–95, title I, §102, title III, §305(b), Aug. 7, 1977, 91 Stat. 687, 776; Pub. L. 101–549, title VIII, §802(a)–(e), Nov. 15, 1990, 104 Stat. 2687, 2688.)
+(July 14, 1955, ch. 360, title I, §105, formerly §4, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 395; renumbered §104 and amended Pub. L.89–272, title I, §101(2)–(4), Oct. 20, 1965, 79 Stat. 992; Pub. L. 89–675, §3, Oct. 15, 1966, 80 Stat. 954; renumbered §105 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 489; Pub. L. 91–604, §§3(a), (b)(1), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713; Pub. L. 95–95, title I, §102, title III, §305(b), Aug. 7, 1977, 91 Stat. 687, 776; Pub. L. 101–549, title VIII, §802(a)–(e), Nov. 15, 1990, 104 Stat. 2687, 2688.)
 
 #### Codification
 

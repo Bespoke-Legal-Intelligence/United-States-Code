@@ -24,7 +24,7 @@
 
 (2) Except as provided in paragraph (3), amounts received by the United States as payment of interest under this subsection shall be deposited in the Treasury and credited as miscellaneous receipts.
 
-(3)(A) Amounts paid by a State under paragraph (1) as interest on funds paid to a Statefrom a trust fund for which the Secretary is the trustee shall be credited to such trust fund.
+(3)(A) Amounts paid by a State under paragraph (1) as interest on funds paid to a State from a trust fund for which the Secretary is the trustee shall be credited to such trust fund.
 
 (B) Notwithstanding any other provision of this section, amounts of interest paid by a State, on funds drawn from its account in the Unemployment Trust Fund, shall be deposited into that account and shall consist of actual interest earnings by the State, less related banking costs incurred by the State, for the period for which interest is calculated.
 
@@ -38,7 +38,7 @@
 
 (g) If the Federal Government makes a payment to a recipient under a Federal program, and a portion of the payment is an amount which the Federal Government is paying to such recipient on behalf of a State, such amount shall be considered to be a transfer of funds between the Federal Government and the State for purposes of this section.
 
-(h) A State may not be required by a law or regulation of the United States to deposit funds received by it in a separate bank account. However, a State shall account for funds made available to the State as United States Government funds in the accounts of the State. The head of the State agency concerned shall make periodic authenticated reports to the head of the appropriate Federal executive agency on the status and the application of the funds, the liabilities and obligations on hand, and other information required by the head of the executive agency. Records related to the funds received by the State shall be made available to the head of the executive agency, the Inspector General of the executive agency, and the Comptroller General for necessary audits.
+(h) A State may not be required by a law or regulation of the United States to deposit funds received by it in a separate bank account. However, a State shall account for funds made available to the State as United States Government funds in the accounts of the State. The head of the State agency concerned shall make periodic authenticated reports to the head of the appropriate Federal executive agency on the status and the application of the funds, the liabilities and obligations on hand, and other information required by the head of the executive agency. Records related to the funds received by theState shall be made available to the head of the executive agency, the Inspector General of the executive agency, and the Comptroller General for necessary audits.
 
 (i) The Secretary shall prescribe methods for the payment of interest under this section between the Federal Government and the States, including provisions for offsetting amounts owed by the respective parties. Such methods of payment shall require payment of interest on an annual basis and shall provide for comparable treatment in manner, technique, and timing for both the States and the Federal Government.
 
@@ -80,7 +80,7 @@ Section 5(e) of Pub. L. 101–453, as amended by Pub. L. 102–589, §2(2)(C), N
 
 #### Treatment of Compensation or Reimbursement Paid Pursuant to Other Laws
 
-Pub. L. 107–273, div. A, title II, §204(f), Nov. 2, 2002, 116 Stat. 1776, provided that: “No compensation or reimbursement paid pursuant to section 501(a) of Public Law 99–603 \[8 U.S.C. 1365(a)\] (100 Stat. 3443) or section 241(i) of the Act of June 27, 1952 \[8 U.S.C. 1231(i)\] (ch. 477) shall be subject to section 6503(d) of title 31, United States Code, and no funds available to the Attorney General may be used to pay any assessment made pursuant to such section 6503 with respect to any such compensation or reimbursement.”
+Pub. L. 107–273, div. A, title II, §204(f), Nov. 2, 2002, 116 Stat. 1776, as amended by Pub. L. 109–162, title XI, §1151(a), (b), Jan. 5, 2006, 119 Stat. 3112, provided that: “No compensation or reimbursement paid pursuant to the Southwest Border Prosecutor Initiative (as carried out pursuant to paragraph (3) (117 Stat. 64) under the heading relating to Community Oriented Policing Services of the Department of Justice Appropriations Act, 2003 (title I of division B of Public Law 108–7), or as carried out pursuant to any subsequent authority) or section 501(a) of Public Law 99–603 \[8 U.S.C. 1365(a)\] (100 Stat. 3443) or section 241(i) of the Act of June 27, 1952 \[8 U.S.C. 1231(i)\] (ch. 477) shall be subject to sections \[sic\] 3335(b) or 6503(d) of title 31, United States Code, and no funds available to the Attorney General may be used to pay any assessment made pursuant to such sections \[sic\] 3335(b) or 6503 with respect to any such compensation or reimbursement.”
 
 #### Agreements With States
 

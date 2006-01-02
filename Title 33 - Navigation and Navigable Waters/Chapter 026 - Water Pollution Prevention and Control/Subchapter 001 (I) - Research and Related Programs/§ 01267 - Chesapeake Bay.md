@@ -90,7 +90,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) In general
 
-&emsp;If a signatory jurisdiction has approved and committed to implement all or substantially all aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
+&emsp;If a signatory jurisdiction has approved and committed to implement all or substantiallyall aspects of the Chesapeake Bay Agreement, on the request of the chief executive of the jurisdiction, the Administrator—
 
 &emsp;&emsp;(A) shall make a grant to the jurisdiction for the purpose of implementing the management mechanisms established under the Chesapeake Bay Agreement, subject to such terms and conditions as the Administrator considers appropriate; and
 
@@ -112,7 +112,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (3) Approval
 
-&emsp;If the Administrator finds that the proposal is consistent with the Chesapeake Bay Agreement and the national goals established undersection 1251(a) of this title, the Administrator may approve the proposal for an award.
+&emsp;If the Administrator finds that the proposal is consistent with the Chesapeake Bay Agreement and the national goals established under section 1251(a) of this title, the Administrator may approve the proposal for an award.
 
 #### (4) Federal share
 

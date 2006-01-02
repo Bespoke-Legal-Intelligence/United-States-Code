@@ -52,7 +52,7 @@ Unless superseded by an Act of Congress, the authority provided by this section 
 
 #### Codification
 
-Section was enacted as part of the Energy and Water Development Appropriations Act, 1996, and not as partof the Bonneville Project Act of 1937 which comprises this chapter.
+Section was enacted as part of the Energy and Water Development Appropriations Act, 1996, and not as part of the Bonneville Project Act of 1937 which comprises this chapter.
 
 #### Voluntary Separation Incentives to Employees
 

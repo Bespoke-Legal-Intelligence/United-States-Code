@@ -70,7 +70,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(i) a net financial worth of not more than $6,000,000, as of the date on which assistance is provided under this chapter to that business concern; and
 
-&emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this chapter to that business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses) except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the businessconcern shall be determined by allowing a deduction in an amount equal to the sum of—
+&emsp;&emsp;&emsp;(ii) an average net income for the 2-year period preceding the date on which assistance is provided under this chapter to that business concern, of not more than $2,000,000, after Federal income taxes (excluding any carryover losses) except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
 
@@ -84,7 +84,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) funds directly or indirectly invested in any applicant or licensee by any Federal agency under a provision of law enacted after September 4, 1992, explicitly mandating the inclusion of those funds in the definition of the term “private capital”; and
 
-&emsp;&emsp;(C) funds invested in any applicant or licensee by one or more State or local government entities (including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent of the private capital of the applicant or licensee;
+&emsp;&emsp;(C) funds invested in any applicant or licensee by one or more State or local government entities (including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent ofthe private capital of the applicant or licensee;
 
 &emsp;(14) the terms “employee welfare benefit plan” and “pension plan” have the same meanings as in section 3 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002\], and are intended to include—
 
@@ -124,7 +124,7 @@ Par. (12)(A)(ii). Pub. L. 106–9, §2(c)(2), inserted before “; or”: “ex
 
 1997—Par. (9)(B)(iii). Pub. L. 105–135 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
-1996—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm,investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+1996—Par. (5). Pub. L. 104–208, §208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
 
 &emsp;“(A) shall not cause a business concern to be deemed not independently owned and operated;
 

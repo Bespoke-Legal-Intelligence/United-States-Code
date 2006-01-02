@@ -56,7 +56,3 @@ Subsec. (c). Pub. L. 99–145, §1224(a), added subsec. (c).
 
 Section 1224(d) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 473 of Title 50, Appendix, War and National Defense\] shall take effect 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 50 App. section 473.
-

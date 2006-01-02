@@ -22,10 +22,6 @@
 
 1975—Pub. L. 93–625, §7(d)(5), Jan. 3, 1975, 88 Stat. 2115, added item for subchapter C.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6226, 6242, 6247, 7801 of this title.
-
 
 ---
 

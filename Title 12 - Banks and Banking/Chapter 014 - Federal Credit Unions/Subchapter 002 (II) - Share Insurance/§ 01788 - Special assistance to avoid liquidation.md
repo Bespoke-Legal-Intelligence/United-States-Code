@@ -20,7 +20,7 @@
 
 For the protection of the Fund, the Board, without regard to the Federal Property and Administrative Services Act of 1949, may—
 
-&emsp;(1) deal with, complete, reconstruct, rent, renovate, modernize, insure, make contracts for the management of, sell for cash or credit, or lease, in its discretion, any real property acquired or held by it under this section; and
+&emsp;(1) deal with, complete, reconstruct, rent, renovate, modernize, insure, make contractsfor the management of, sell for cash or credit, or lease, in its discretion, any real property acquired or held by it under this section; and
 
 &emsp;(2) assign or sell at public or private sale, or otherwise dispose of, any evidence of debt, contract, claim, personal property, or security assigned to or held by it under this section.
 

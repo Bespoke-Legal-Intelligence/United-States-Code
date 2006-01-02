@@ -24,7 +24,7 @@ From the initial point A, distances in nautical miles, along direct courses betw
 
 &emsp;Southwestward approximately 0.22 mile to point I, a bound post on the shore of Haulover Bay marking a corner of the Virgin Islands National Park boundary as shown on drawing numbered NP–VI–7000 entitled “Acquisition Area Virgin Islands National Park”, approved November 15, 1956, by the acting Secretary of the Interior in accordance with sections 398 and 398a of this title, being also the southeasterly corner of estate Haulover 5a and 5c east end quarter as delineated on the municipality of Saint Thomas and Saint John drawing PW file numbered 9–24–T51 dated October 26, 1950;
 
-&emsp;Thence running generally westward along the Virgin Islands National Park northerlyboundary as it follows the northerly shore of the island of Saint John as shown on the said drawing numbered NP–VI–7000 and on drawing numbered NP–VI–7003 entitled “Land Ownership Cruz Bay Creek” depicting the boundary adjustment affected by the said order of designation to point A, the point of beginning.
+&emsp;Thence running generally westward along the Virgin Islands National Park northerly boundary as it follows the northerly shore of the island of Saint John as shown on the said drawing numbered NP–VI–7000 and on drawing numbered NP–VI–7003 entitled “Land Ownership Cruz Bay Creek” depicting the boundary adjustment affected by the said order of designation to point A, the point of beginning.
 
 The area described contains approximately 4,100 acres.
 

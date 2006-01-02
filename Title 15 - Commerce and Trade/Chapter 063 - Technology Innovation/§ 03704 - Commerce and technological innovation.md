@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department of Commerce a Technology Administration, which shall operate in accordance with the provisions,findings, and purposes of this chapter. The Technology Administration shall include—
+There is established in the Department of Commerce a Technology Administration, which shall operate in accordance with the provisions, findings, and purposes of this chapter. The Technology Administration shall include—
 
 &emsp;(1) the National Institute of Standards and Technology;
 
@@ -44,7 +44,7 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 &emsp;(11) encourage and assist the creation of centers and other joint initiatives by State or local governments, regional organizations, private businesses, institutions of higher education, nonprofit organizations, or Federal laboratories to encourage technology transfer, to stimulate innovation, and to promote an appropriate climate for investment in technology-related industries;
 
-&emsp;(12) propose and encourage cooperative research involving appropriate Federal entities, State or local governments, regional organizations, colleges or universities, nonprofit organizations, or private industry to promote the common use of resources, to improve training programs and curricula, to stimulate interest in high technology careers, and to encourage the effective dissemination of technology skills within the wider community;
+&emsp;(12) propose and encourage cooperative research involving appropriate Federal entities, State or local governments, regional organizations, colleges or universities, nonprofit organizations, or private industry to promote the common use of resources, to improve training programs and curricula, to stimulate interest in high technology careers, and to encouragethe effective dissemination of technology skills within the wider community;
 
 &emsp;(13) serve as a focal point for discussions among United States companies on topics of interest to industry and labor, including discussions regarding manufacturing and discussions regarding emerging technologies;
 
@@ -66,7 +66,7 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 > Activities undertaken pursuant to subparagraph (C) of this paragraph shall only be performed on a cost-reimbursable basis. Translations referred to in such subparagraph shall be performed only to the extent that they are not otherwise available from sources within the private sector in the United States.
 
-(2) Beginning in 1986, the Secretary shall prepare annual reports regarding important Japanese scientific discoveries and technical innovations in such areas as computers, semiconductors, biotechnology, and robotics and manufacturing. In preparing such reports, the Secretary shall consult with professional societies andbusinesses in the United States. The Secretary may, to the extent provided in advance by appropriation Acts, contract with private organizations to acquire and translate Japanese scientific and technical information relevant to the preparation of such reports.
+(2) Beginning in 1986, the Secretary shall prepare annual reports regarding important Japanese scientific discoveries and technical innovations in such areas as computers, semiconductors, biotechnology, and robotics and manufacturing. In preparing such reports, the Secretary shall consult with professional societies and businesses in the United States. The Secretary may, to the extent provided in advance by appropriation Acts, contract with private organizations to acquire and translate Japanese scientific and technical information relevant to the preparation of such reports.
 
 (3) The Secretary also shall encourage professional societies and private businesses in the United States to increase their efforts to acquire, screen, translate, and disseminate Japanese technical literature.
 
@@ -122,7 +122,7 @@ The Secretary, through the Under Secretary, as appropriate, shall—
 
 #### (A) In general
 
-&emsp;&emsp;In making awards under this subsection, the Secretary, acting through the Under Secretary, shall ensure that the awards are awarded on a competitive basis that includes a review of the merits of the activities that are the subject of the award.
+&emsp;&emsp;In making awards under this subsection, the Secretary, acting through the UnderSecretary, shall ensure that the awards are awarded on a competitive basis that includes a review of the merits of the activities that are the subject of the award.
 
 #### (B) Matching requirement
 

@@ -10,7 +10,7 @@ If any person manufactures, produces, or imports a tire taxable under section 40
 
 #### (c) Computation of tax
 
-Except as provided in section 4223(b), in any case in which a person is made liable for tax bythe preceding provisions of this section, the tax (if based on the price for which the article is sold) shall be computed on the price at which such or similar articles are sold, in the ordinary course of trade, by manufacturers, producers, or importers, thereof, as determined by the Secretary.
+Except as provided in section 4223(b), in any case in which a person is made liable for tax by the preceding provisions of this section, the tax (if based on the price for which the article is sold) shall be computed on the price at which such or similar articles are sold, in the ordinary course of trade, by manufacturers, producers, or importers, thereof, as determined by the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 11, 1955, ch. 805, §1(a), (b), 69 Stat. 689; Pub. L. 85–859, title I, §118, Sept. 2, 1958, 72 Stat. 1281; Pub. L. 86–418, §2(a), Apr. 8, 1960, 74 Stat. 38; Pub. L. 87–61, title II, §205(b), June 29, 1961, 75 Stat. 126; Pub. L. 89–44, title II, §208(c), June 21, 1965, 79 Stat. 141; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(1), Feb. 10, 1978, 92 Stat. 11; Pub. L. 98–369, div. A, title VII, §735(c)(7), July 18, 1984, 98 Stat. 983.)
 
@@ -42,7 +42,7 @@ Subsec. (b). Pub. L. 86–418, §2(a)(2), substituted “Except as provided in s
 
 Subsecs. (d), (e). Pub. L. 86–418, §2(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-1958—Pub. L. 85–859 amended section generally, striking out provisions which related to refrigerator components and to sales free of tax by virtue of section 4220 or 4224 of this title, and substituting provisions making manufacturers, producers and importers of parts or accessories taxable under section 4061(b), radio or television components taxable under section 4141, or camera lenses taxable under section 4171 liable for the tax if they use the parts or accessories otherwise than as material in the manufacture or production of, or as component parts of, any other article to be manufactured or produced by them, for provisions which made section inapplicable with respect to such parts if they were used by them as material in the manufacture or production of, or as a component part of, any article.
+1958—Pub. L. 85–859 amended section generally, striking out provisions which related to refrigerator components and to sales free of tax by virtue of section 4220 or 4224 of this title, and substituting provisions making manufacturers, producers and importers of parts or accessories taxable under section 4061(b), radio or television components taxable under section 4141, or camera lenses taxable under section 4171 liable for the tax if they use the parts or accessories otherwise than as material in the manufacture or production of, or as component parts of, any other article to be manufactured or produced by them, for provisions which madesection inapplicable with respect to such parts if they were used by them as material in the manufacture or production of, or as a component part of, any article.
 
 1955—Subsec. (a)(1). Act Aug. 11, 1955, §1(a), inserted as tax exempt articles under this chapter, automobile parts or accessories, refrigerator, radio, or television components, or camera lenses taxable under section 4061(b), 4111, or 4171, respectively, of this title.
 
@@ -75,8 +75,4 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 #### Effective Date of 1955 Amendment
 
 Amendment by act Aug. 11, 1955, effective on first day of first month which begins more than ten days after Aug. 11, 1955, see section 3 of act Aug. 11, 1955, set out as a note under section 6416 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 4223 of this title.
 

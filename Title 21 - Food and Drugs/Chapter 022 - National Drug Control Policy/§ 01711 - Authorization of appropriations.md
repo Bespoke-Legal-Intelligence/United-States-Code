@@ -12,6 +12,8 @@ There are authorized to be appropriated to carry out this chapter, to remain ava
 
 Provisions appropriating funds to carry out activities authorized by the Office of National Drug Control Policy Reauthorization Act of 1998, which enacted this chapter, notwithstanding section 1712 of this title, were contained in the following appropriation acts:
 
+Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2475.
+
 Pub. L. 108–447, div. H, title III, Dec. 8, 2004, 118 Stat. 3249, 3250.
 
 Pub. L. 108–199, div. F, title III, Jan. 23, 2004, 118 Stat. 324.

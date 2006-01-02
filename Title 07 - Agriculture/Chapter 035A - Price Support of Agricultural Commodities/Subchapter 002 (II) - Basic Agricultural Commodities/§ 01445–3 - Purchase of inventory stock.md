@@ -76,7 +76,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (ii) Such percentage shall be determined by dividing—
 
-&emsp;(I) the average net cigarettes manufactured by a manufacturer for use for the 12-month period immediately preceding the appropriate determination date (April 7, 1986, and annuallythereafter over the course of the respective buy-out periods specified in this subsection); by
+&emsp;(I) the average net cigarettes manufactured by a manufacturer for use for the 12-month period immediately preceding the appropriate determination date (April 7, 1986, and annually thereafter over the course of the respective buy-out periods specified in this subsection); by
 
 &emsp;(II) the aggregate average net cigarettes manufactured by all domestic cigarette manufacturers for use for such 12-month period.
 

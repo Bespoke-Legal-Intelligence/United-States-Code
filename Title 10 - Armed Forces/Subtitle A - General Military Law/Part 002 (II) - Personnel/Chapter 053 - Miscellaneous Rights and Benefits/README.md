@@ -40,10 +40,13 @@
 | [1059\.](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md) | Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits. |
 | [1060\.](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md) | Military service of retired members with newly democratic nations: consent of Congress. |
 | [1060a.](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md) | Special supplemental food program. |
+| [1060b.](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees%3B%20issuance%20of%20permanent%20ID%20card%20after%20attaining%2075%20years%20of%20age.md) | Military ID cards: dependents and survivors of retirees; issuance of permanent ID card after attaining 75 years of age. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–375, div. A, title V, §583(a)(2), Oct. 28, 2004, 118 Stat. 1929, added item 1060b.
 
 2003—Pub. L. 108–136, div. A, title XII, §1222(b), Nov. 24, 2003, 117 Stat. 1652, added item 1051b.
 
@@ -65,7 +68,7 @@ Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, 
 
 1993—Pub. L. 103–160, div. A, title V, §§551(a)(2), 574(b), title XIV, §1433(b)(2), Nov. 30, 1993, 107 Stat. 1662, 1675, 1834, added item 1044b and items 1058 “Responsibilities of military law enforcement officials at scenes of domestic violence” and 1058 “Military service of retired members with newly democratic nations: consent of Congress”.
 
-Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A,title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
+Pub. L. 103–160, div. A, title V, §554(a)(2), Nov. 30, 1993, 107 Stat. 1666, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(4), Oct. 5, 1994, 108 Stat. 2856, added item 1058 “Dependents of members separated for dependent abuse: transitional compensation”.
 
 1992—Pub. L. 102–484, div. A, title VI, §651(b), title X, §1080(b), Oct. 23, 1992, 106 Stat. 2426, 2514, added items 1046 and 1057.
 
@@ -158,3 +161,4 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 - [&sect; 01059 - Dependents of members separated for dependent abuse transitional compensation; commissary and exchange benefits](%C2%A7%2001059%20-%20Dependents%20of%20members%20separated%20for%20dependent%20abuse%20transitional%20compensation%3B%20commissary%20and%20exchange%20benefits.md)
 - [&sect; 01060 - Military service of retired members with newly democratic nations consent of Congress](%C2%A7%2001060%20-%20Military%20service%20of%20retired%20members%20with%20newly%20democratic%20nations%20consent%20of%20Congress.md)
 - [&sect; 01060a - Special supplemental food program](%C2%A7%2001060a%20-%20Special%20supplemental%20food%20program.md)
+- [&sect; 01060b - Military ID cards dependents and survivors of retirees; issuance of permanent ID card after attaining 75 years of age](%C2%A7%2001060b%20-%20Military%20ID%20cards%20dependents%20and%20survivors%20of%20retirees%3B%20issuance%20of%20permanent%20ID%20card%20after%20attaining%2075%20years%20of%20age.md)

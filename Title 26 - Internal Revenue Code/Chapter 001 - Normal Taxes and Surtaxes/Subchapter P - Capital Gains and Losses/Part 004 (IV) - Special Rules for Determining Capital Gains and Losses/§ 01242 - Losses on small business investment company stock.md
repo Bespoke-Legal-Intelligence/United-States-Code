@@ -24,5 +24,5 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date
 
-Section applicable with respect to taxable years beginning after Sept. 2, 1958, see section 57(d) of Pub. L.85–866, set out as an Effective Date of 1958 Amendment note under section 243 of this title.
+Section applicable with respect to taxable years beginning after Sept. 2, 1958, see section 57(d) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under section 243 of this title.
 

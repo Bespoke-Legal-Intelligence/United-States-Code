@@ -22,7 +22,7 @@ The application described in subsection (a) of this section shall include a plan
 
 &emsp;(2) includes the comments of the State on the plan, if any;
 
-&emsp;(3) contains information that is consistent with the information required to be submitted as part of a State plan in accordance with paragraphs (5) through (17) and paragraph (23) of section 6143(d) of this title;
+&emsp;(3) contains information that is consistent with the information required to be submitted as part of a State plan in accordance withparagraphs (5) through (17) and paragraph (23) of section 6143(d) of this title;
 
 &emsp;(4) designates a fiscal agent to receive and be accountable for funds under this section; and
 

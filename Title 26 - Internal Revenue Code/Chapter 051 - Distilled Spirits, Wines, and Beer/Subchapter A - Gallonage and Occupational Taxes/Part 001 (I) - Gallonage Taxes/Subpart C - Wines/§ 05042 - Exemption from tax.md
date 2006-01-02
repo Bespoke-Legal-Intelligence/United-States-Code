@@ -54,7 +54,3 @@ A prior section 5042, act Aug. 16, 1954, ch. 736, 68A Stat. 610, consisted of pr
 
 Section 2(c) of Pub. L. 95–458 provided that: “The amendments made by this section \[amending this section and sections 5051, 5053, 5054, 5092, 5222, and 5674 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Oct. 14, 1978\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5041, 5222, 5351 of this title.
-

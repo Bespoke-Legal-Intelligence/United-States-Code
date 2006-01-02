@@ -40,7 +40,3 @@ For purposes of this subpart, rules similar to the rules of section 51(k) and su
 
 A prior section 1397, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895, related to special rules applicable to an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1397C of this title.
-

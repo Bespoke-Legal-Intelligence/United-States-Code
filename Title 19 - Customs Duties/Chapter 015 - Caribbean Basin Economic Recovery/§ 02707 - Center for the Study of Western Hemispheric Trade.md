@@ -16,7 +16,7 @@ The Center shall be a year-round program operated by an institution located in t
 
 #### (c) Consultation; selection criteria
 
-The Commissioner of Customs shall consult with appropriate officials of the State of Texas and private sector authorities with respect to selecting, planning, and establishing the Center. In selecting the appropriate institution, the Commissioner of Customs shall give consideration to—
+The Commissioner of Customs shall consult with appropriate officials of the State of Texasand private sector authorities with respect to selecting, planning, and establishing the Center. In selecting the appropriate institution, the Commissioner of Customs shall give consideration to—
 
 &emsp;(1) the institution's ability to carry out the programs and activities described in this section; and
 

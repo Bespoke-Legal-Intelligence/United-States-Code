@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 R.S. §1753 (less last 16 words).
 
-The words “civil service in the executive branch” are substituted for “civil service of the United States” toconfirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
+The words “civil service in the executive branch” are substituted for “civil service of the United States” to confirm the grant of authority in view of the definition of “civil service” in section 2101. The word “will” is substituted for “may”. The words “for the employment sought” are substituted for “for the branch of service into which he seeks to enter” as the latter are archaic since there are no “branches” within the executive branch. The word “applicant” is substituted for “candidate”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -64,7 +64,7 @@ Policy.—It shall be the policy of the United States Government to—
 
 #### Temporary Measures To Facilitate Reemployment of Certain Displaced Federal Employees
 
-Pub. L. 102–484, div. D, title XLIV, §4432, Oct. 23, 1992, 106 Stat. 2720, directed executive agencies and the Department of Defense, in filling vacant positions, to give full consideration to the applications of certain individuals who became displaced employees before Oct. 1, 1997, before selecting any candidate from outside the agency for the position.
+Pub. L. 102–484, div. D, title XLIV, §4432, Oct. 23, 1992, 106 Stat. 2720, directed executive agencies and the Department of Defense, in filling vacant positions, to give full consideration to the applications of certain individuals who became displaced employees before Oct. 1,1997, before selecting any candidate from outside the agency for the position.
 
 #### National Advisory Council on the Public Service
 
@@ -132,7 +132,7 @@ Number and Appointment.—The Council shall be composed of 15 members as follows
 
 “(b)
 
-Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to aGovernment office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
+Continuation of Membership.—If any member of the Council whose appointment is based on that individual's holding a Government office or position leaves such office or position, or if any member of the Council under subsection (a)(4)(D) is appointed or elected to a Government office or position, that individual may continue to serve as such a member for not longer than the 90-day period beginning on the date of leaving that office or position, or entering into that office or position, as the case may be.
 
 “(c)
 
@@ -234,7 +234,7 @@ Section 2. Section 1 of this order shall become effective on January 1, 1942, ex
 
 Section 3. (a) Upon consideration of the report of the Committee on Civil Service Improvement (House Document No. 118, 77th Congress) appointed by Executive Order No. 8044 of January 31, 1939, it is hereby found and determined that the regulations and procedures hereinafter prescribed in this section with respect to attorney positions in the classified civil service are required by the conditions of good administration.
 
-(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalitiesof the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
+(b) There is hereby created in the Office of Personnel Management (hereinafter referred to as the Office) a board to be known as the Board of Legal Examiners (hereinafter referred to as the Board). The Board shall consist of the Solicitor General of the United States and the chief law officer of the Office of Personnel Management, as members <i>ex officio</i>, and nine members to be appointed by the President, four of whom shall be attorneys chosen from the chief officers of the Executive departments, agencies or corporate instrumentalities of the Government, two from the law-teaching profession, and three from attorneys engaged in private practice. The President shall designate the chairman of the Board. Five members shall constitute a quorum, and the Board may transact business notwithstanding vacancies thereon. Members of the Board shall receive no salary as such, but shall be entitled to necessary expenses incurred in the performance of their duties hereunder.
 
 (c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance with the general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
 
@@ -272,7 +272,7 @@ Ex. Ord. No. 9367, Aug. 4, 1943, 8 F.R. 11017, which prohibited, with certain ex
 
 #### Ex. Ord. No. 10577. Civil Service Rules
 
-Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10641, Oct. 26, 1955,20 F.R. 8137; Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327 Jan. 23, 1956; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 10869, Mar. 9, 1960, 25 F.R. 2073; Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729; Ex. Ord. No. 11839, Feb. 15, 1975, 40 F.R. 7351; Ex. Ord. No. 11856, May 7, 1975, 40 F.R. 20259; Ex. Ord. No. 11887, Nov. 4, 1975, 40 F.R. 51411; Ex. Ord. No. 11935; Sept. 2, 1976, 41 F.R. 37301; Ex. Ord. No. 12021, Nov. 30, 1977, 42 F.R. 61237; Ex. Ord. No. 12043, Mar. 7, 1978, 43 F.R. 9773; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683; Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521; Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515; Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519; Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103; Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853; provided:
+Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10641, Oct. 26, 1955, 20 F.R. 8137; Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327 Jan. 23, 1956; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 10869, Mar. 9, 1960, 25 F.R. 2073; Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729; Ex. Ord. No. 11839, Feb. 15, 1975, 40 F.R. 7351; Ex. Ord. No. 11856, May 7, 1975, 40 F.R. 20259; Ex. Ord. No. 11887, Nov. 4, 1975, 40 F.R. 51411; Ex. Ord. No. 11935; Sept. 2, 1976, 41 F.R. 37301; Ex. Ord. No. 12021, Nov. 30, 1977, 42 F.R. 61237; Ex. Ord. No. 12043, Mar. 7, 1978, 43 F.R. 9773; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683; Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521; Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515; Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519; Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103; Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853; provided:
 
 #### PART I—CIVIL SERVICE RULES
 
@@ -298,7 +298,7 @@ As used in these Rules:
 
 (c) “Competitive status” shall mean basic eligibility to be noncompetitively selected to fill a vacancy in a competitive position. A competitive status shall be acquired by career-conditional or career appointment through open competitive examination upon satisfactory completion of a probationary period, or may be granted by statute, executive order, or the Civil Service Rules without competitive examination. A person with competitive status may be promoted, transferred, reassigned, reinstated, or demoted without taking an open competitive examination, subject to the conditions prescribed by the Civil Service Rules and Regulations.
 
-(d) An employee shall be considered as being in the competitive service when he has a competitive status and occupies a competitive position unless he is serving under a temporary appointment: <i>Provided</i>, That an employee who is in the competitive service at the time his position is first listed under Schedule A, B, or C shall be considered as continuing in the competitive service as long as he continues to occupy such position.
+(d) An employee shall be considered as being in the competitive service when he has a competitive statusand occupies a competitive position unless he is serving under a temporary appointment: <i>Provided</i>, That an employee who is in the competitive service at the time his position is first listed under Schedule A, B, or C shall be considered as continuing in the competitive service as long as he continues to occupy such position.
 
 (e) “Tenure” shall mean the period of time an employee may reasonably expect to serve under his current appointment. Tenure shall be granted and governed by the type of appointment under which an employee is currently serving without regard to whether he has a competitive status or whether his appointment is to a competitive position or an excepted position.
 
@@ -398,7 +398,7 @@ The Director may secure effective implementation of the civil service laws, rule
 
 (a) The Director is authorized to ensure enforcement of the civil service laws, rules, and regulations, and all applicable Executive orders, by:
 
-(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
+(1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to theDirector's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
 (2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutorial jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 
@@ -464,7 +464,7 @@ Whenever the Office and any Federal agency having an established merit system de
 
 #### §6.8. Specified Exceptions
 
-(a) Positions in the Department of the Interior and in the Department of Commerce whose incumbents serve as the principal representative of the Secretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of the General Schedule, and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.
+(a) Positions in the Department of the Interior and in the Department of Commerce whose incumbents serveas the principal representative of the Secretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of the General Schedule, and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.
 
 (b) Positions in the Community Services Administration and ACTION \[now Corporation for National and Community Service\] whose incumbents serve as regional director or regional administrator shall be listed in Schedule C for grades not exceeding GS–15 of the General Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on November 29, 1977, in the competitive service shall not be affected by the foregoing provisions of this subsection.
 
@@ -496,7 +496,7 @@ In addition to authorizing the recruitment and appointment of persons to oversea
 
 #### §8.2. Appointment of United States Citizens
 
-United States citizens may be recruited overseas for appointment to overseas positions in the competitive service without regard to the competitive requirements of the Civil Service Act. Persons so recruited who meet the qualification standards and other requirements of the Office for overseas positions may be given appointments to be known as “overseas limited appointments.” Such appointments shall be of temporary or indefinite duration, and shall not confer the right to acquire a competitive status. The Office may authorize overseas limited appointments for United States citizens recruited within the continental limits of theUnited States whenever it determines that it is not feasible to appoint from a civil-service register. Persons serving under appointments made pursuant to this section are hereby excluded from the operation of the Civil Service Retirement Act of May 29, 1930, as amended \[section 8301 et seq. of this title\], unless eligible for retirement benefits by continuity of service or otherwise.
+United States citizens may be recruited overseas for appointment to overseas positions in the competitive service without regard to the competitive requirements of the Civil Service Act. Persons so recruited who meet the qualification standards and other requirements of the Office for overseas positions may be given appointments to be known as “overseas limited appointments.” Such appointments shall be of temporary or indefinite duration, and shall not confer the right to acquire a competitive status. The Office may authorize overseas limited appointments for United States citizens recruited within the continental limits of the United States whenever it determines that it is not feasible to appoint from a civil-service register. Persons serving under appointments made pursuant to this section are hereby excluded from the operation of the Civil Service Retirement Act of May 29, 1930, as amended \[section 8301 et seq. of this title\], unless eligible for retirement benefits by continuity of service or otherwise.
 
 #### §8.3. Appointment of Persons Not Citizens of the United States
 
@@ -782,7 +782,7 @@ Section 1. Civil Service Rule VI is amended by adding the following Section:
 
 #### “Section 6.8. Specified Exceptions
 
-“Positions in the Department of the Interior whose incumbents serve as the principal representative of the Secretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of the General Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.”
+“Positions in the Department of the Interior whose incumbents serve as the principal representative of theSecretary in their respective regions shall be listed in Schedule C for grades not exceeding grade GS–15 of the General Schedule and shall be designated Noncareer Executive Assignments for positions graded higher than GS–15. Incumbents of these positions who are, on February 15, 1975, in the competitive service shall not be affected by the foregoing provisions of this Section.”
 
 Sec. 2. Civil Service Rule IX is amended by adding the following:
 
@@ -826,7 +826,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Ex. Ord. No. 11955, Jan. 10, 1977, 42 F.R. 2499, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by section 3301 of title 5 of the United States Code \[this section\],and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 3301 of title 5 of the United States Code \[this section\], and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. The appointment of a Command Pilot, Pilot or Mission Specialist candidate to a position in the Space Shuttle Astronaut Program of the National Aeronautics and Space Administration, which is listed under Schedule B of the Schedule of Excepted Positions, may be converted to career or career-conditional appointment if:
 
@@ -988,7 +988,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12718, June 29, 1990, 55 F.R. 27451, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. The President's Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
 
@@ -1078,7 +1078,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. There is hereby constituted the Federal Career Intern Program (Program). The purpose of the Program is to attract exceptional men and women to the Federal workforce who have diverse professional experiences, academic training, and competencies, and to prepare them for careers in analyzing and implementing public programs. “Career Intern” is a generic term, and agencies may use occupational titles as appropriate.
 
-Sec. 2. The Program is another step in the Administration's effort to recruit the highest caliber people to the Federal Government, develop their professional abilities, and retain them in Federal departments and agencies. Cabinet secretaries and agency administrators should view the Program as complementary to existing programs that provide career enhancement opportunities for Federal employees, and departments and agencies are encouraged to identify and make use of those programs, as well as the new Program, to meet department and agency needs.
+Sec. 2. The Program is another step in the Administration's effort to recruit the highest caliber people to the Federal Government, develop their professional abilities, and retain them in Federal departments and agencies. Cabinet secretaries and agency administrators should view the Program as complementary to existing programs that provide career enhancement opportunities for Federal employees, and departments and agencies are encouraged to identify and make useof those programs, as well as the new Program, to meet department and agency needs.
 
 Sec. 3. (a) The Office of Personnel Management (OPM) shall develop appropriate merit-based procedures for the recruitment, screening, placement, and continuing career development of Career Interns.
 
@@ -1150,7 +1150,7 @@ Sec. 4. (a) Fellows shall be appointed to positions in either:
 
 (4) competitive civil service status may be granted to a fellow who satisfactorily completes the Program and meets such other requirements as the Director of OPM may prescribe. A fellow appointed by an agency excepted from the competitive service may also be appointed to a permanent position in an excepted service agency without further competition.
 
-Sec. 5. The Director of OPM shall provide for an orderly transition, including with respect to nominations, selection processes, and appointments, from the Presidential Management Intern Program established by Executive Order 12364 \[formerly set out above\] of May 24, 1982, to the Presidential Management Fellows Program established by this order. Until that transition is provided for, individuals who were selected or appointed under the provisions of Executive Order 12364 and who have not completed their scheduled periods of excepted service are hereby redesignated as Presidential Management Fellows, and continue their internships under the terms of Executive Order 12364.
+Sec. 5. The Director of OPM shall provide for an orderly transition, including with respect to nominations, selection processes, and appointments, from the Presidential Management Intern Program established by Executive Order 12364 \[formerly set out above\] of May 24, 1982, to the Presidential Management Fellows Program established by this order. Until that transition is provided for, individuals who were selected orappointed under the provisions of Executive Order 12364 and who have not completed their scheduled periods of excepted service are hereby redesignated as Presidential Management Fellows, and continue their internships under the terms of Executive Order 12364.
 
 Sec. 6. The Director of OPM shall prescribe such regulations as may be necessary to carry out the purposes of this order.
 

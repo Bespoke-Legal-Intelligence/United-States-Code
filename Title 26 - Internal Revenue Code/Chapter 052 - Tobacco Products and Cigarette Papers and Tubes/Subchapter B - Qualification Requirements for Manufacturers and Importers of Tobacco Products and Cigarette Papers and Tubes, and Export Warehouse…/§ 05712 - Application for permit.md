@@ -32,9 +32,5 @@ Amendment by section 1905(a)(27) of Pub. L. 94–455 effective on first day of f
 
 Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note under section 5001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 5713 of this title.
-
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

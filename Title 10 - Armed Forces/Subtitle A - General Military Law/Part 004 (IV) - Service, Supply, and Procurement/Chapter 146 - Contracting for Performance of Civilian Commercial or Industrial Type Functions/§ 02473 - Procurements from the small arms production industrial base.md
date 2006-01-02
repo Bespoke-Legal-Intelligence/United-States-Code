@@ -42,7 +42,7 @@ Submission of Certified Cost or Pricing Data.—If a procurement under subsectio
 
 Subsec. (b)(2). Pub. L. 106–65, §815(b)(2), inserted “such” after “Modifications of”.
 
-1998—Subsec. (a). Pub. L. 105–261, §809(a), substituted “Requirement” for “Authority” in heading and “In order to preserve the small arms production industrial base, the Secretary of Defense shall” for “To the extent that the Secretary of Defense determines necessary to preserve the small arms production industrial base, theSecretary may” in text, and inserted before period at end “, unless the Secretary determines, with regard to a particular procurement, that such requirement is not necessary to preserve the small arms production industrial base”.
+1998—Subsec. (a). Pub. L. 105–261, §809(a), substituted “Requirement” for “Authority” in heading and “In order to preserve the small arms production industrial base, the Secretary of Defense shall” for “To the extent that the Secretary of Defense determines necessary to preserve the small arms production industrial base, the Secretary may” in text, and inserted before period at end “, unless the Secretary determines, with regard to a particular procurement, that such requirement is not necessary to preserve the small arms production industrial base”.
 
 Subsec. (b). Pub. L. 105–261, §809(b), (c)(1), substituted “Subject to subsection (d), subsection” for “Subsection” in introductory provisions and inserted “, including repair parts consisting of barrels, receivers, and bolts” before period in par. (1).
 

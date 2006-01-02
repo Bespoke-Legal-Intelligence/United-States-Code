@@ -30,7 +30,7 @@
 
 #### (2) In school and grace period rules
 
-&emsp;(A) Notwithstanding the provisions of paragraph (1), but subject to paragraph (3), with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan forwhich the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
+&emsp;(A) Notwithstanding the provisions of paragraph (1), but subject to paragraph (3), with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after July 1, 1995, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -116,7 +116,7 @@
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct UnsubsidizedStafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;&emsp;(i) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -186,11 +186,11 @@
 
 #### (B) Accountability
 
-&emsp;&emsp;Prior to publishing regulations proposing repayment incentives, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the Committee on Labor and Human Resources of theSenate and the Committee on Education and the Workforce of the House of Representatives not less than 60 days prior to the publication of regulations proposing such reductions.
+&emsp;&emsp;Prior to publishing regulations proposing repayment incentives, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not less than 60 days prior to the publication of regulations proposing such reductions.
 
 #### (9) Publication
 
-&emsp;The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+&emsp;The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of theTreasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (c) Loan fee
 
@@ -314,7 +314,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (1) In general
 
-&emsp;Proceeds of loans to students under this part shall be applied to the student's account for tuition and fees, and, in the case of institutionally owned housing, to room and board. Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
+&emsp;Proceeds of loans to students under this part shall be applied to the student's account for tuition and fees, and, in the case of institutionally owned housing, to room and board.Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
 
 #### (2) Payment periods
 
@@ -390,7 +390,7 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal 
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2002 Amendment
 

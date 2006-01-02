@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, the Federal Housing Finance Board sh
 
 #### (5) Chairperson
 
-&emsp;The Chairperson of the Federal Housing Finance Board shall select the chairperson of theDirectorate from among the 3 members of the Directorate.
+&emsp;The Chairperson of the Federal Housing Finance Board shall select the chairperson of the Directorate from among the 3 members of the Directorate.
 
 #### (6) Staff
 
@@ -254,7 +254,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (6) No full faith and credit of the United States
 
-&emsp;Obligations of the Financing Corporation and the interest payable on such obligations shall not be obligations of, or guaranteed as to principal or interest by, the Federal Home Loan Banks, the United States, or the FSLIC Resolution Fund and the obligations shall so plainly state.
+&emsp;Obligations of the Financing Corporation and the interest payable on such obligations shall not be obligations of, or guaranteed as to principal or interest by, the Federal Home Loan Banks, the United States, or the FSLICResolution Fund and the obligations shall so plainly state.
 
 #### (7) Tax exempt status
 
@@ -276,7 +276,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (f) Sources of funds for interest payments; Financing Corporation assessment authority
 
-The Financing Corporation shall obtain funds for anticipated interest payments, issuancecosts, and custodial fees on obligations issued hereunder from the following sources:
+The Financing Corporation shall obtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued hereunder from the following sources:
 
 #### (1) Preenactment assessments
 
@@ -316,7 +316,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;(B) the total of the face amounts (the amount of principal payable at maturity) of which is approximately equal to the aggregate amount of principal on the obligations of the Financing Corporation,
 
-> &emsp;to assure the repayment of principal on obligations of the Financing Corporation. For purposes of the foregoing, the Financing Corporation shall be deemed to hold noninterest bearing instruments that it lends temporarily to primary United States Treasury dealers in order to enhance market liquidity and facilitate deliveries, provided that United States Treasury securities of equal or greater value have been delivered as collateral.
+> &emsp;to assure the repayment of principal on obligations of the Financing Corporation. For purposes of the foregoing, the Financing Corporation shall be deemed to hold noninterest bearing instruments that it lends temporarily toprimary United States Treasury dealers in order to enhance market liquidity and facilitate deliveries, provided that United States Treasury securities of equal or greater value have been delivered as collateral.
 
 #### (3) Dollar amount limitation on investment in zero coupon instruments for segregated account
 
@@ -404,13 +404,21 @@ For purposes of this section, the following definitions shall apply:
 
 #### (A) BIF-assessable deposits
 
-&emsp;&emsp;The term “BIF-assessable deposit” means a deposit that is subject to assessment for purposes of the Bank Insurance Fund under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)\]).
+&emsp;&emsp;The term “BIF-assessable deposit” means a deposit that is subject to assessment for purposes of the Bank Insurance Fund under the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of theFederal Deposit Insurance Act \[12 U.S.C. 1815(d)(3)\]).
 
 #### (B) SAIF-assessable deposit
 
 &emsp;&emsp;The term “SAIF-assessable deposit” has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996.
 
-(July 22, 1932, ch. 522, §21, as added Pub. L. 100–86, title III, §302, Aug. 10, 1987, 101 Stat. 585; amended Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, §104, title III, §302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, §1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, §2703(a), Sept. 30, 1996, 110 Stat. 3009–485.)
+(July 22, 1932, ch. 522, §21, as added Pub. L. 100–86, title III, §302, Aug. 10, 1987, 101 Stat. 585; amended Pub. L. 101–73, title V, §512, title VII, §§701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, §104, title III, §302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, §1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, §2703(a), Sept. 30, 1996, 110 Stat. 3009–485; Pub. L. 109–173, §9(d)(2), Feb. 15, 2006, 119 Stat. 3616.)
+
+#### Amendment of Section
+
+<i>Pub. L. 109–173, §9(d)(2), (j), Feb. 15, 2006, 119 Stat. 3616, 3618, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (f)(2), by striking “, except that” and all that follows through the end of the paragraph and inserting a period; and</i>
+
+<i>(2) in subsection (k), by striking paragraph (4).</i>
 
 #### References in Text
 
@@ -428,7 +436,7 @@ A prior section 1441, act July 22, 1932, ch. 522, §21, 47 Stat. 738, related to
 
 #### Amendments
 
-1996—Subsec. (f)(2). Pub. L. 104–208, §2703(a)(1)(A), in introductory provisions, substituted “In addition tothe amounts obtained pursuant to paragraph (1),” for “To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,”, “insured depository institution” for “Savings Association Insurance Fund member”, and “against such institutions” for “against such members”.
+1996—Subsec. (f)(2). Pub. L. 104–208, §2703(a)(1)(A), in introductory provisions, substituted “In addition to the amounts obtained pursuant to paragraph (1),” for “To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,”, “insured depository institution” for “Savings Association Insurance Fund member”, and “against such institutions” for “against such members”.
 
 Subsec. (f)(2)(A) to (C). Pub. L. 104–208, §2703(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -544,6 +552,10 @@ Subsec. (k)(3), (4). Pub. L. 101–73, §512(10), (17)(B), added par. (4) and re
 
 Subsec. (<i>l</i>). Pub. L. 101–73, §713, redesignated subsec. (<i>l</i>) as (k).
 
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
+
 #### Effective and Termination Dates of 1996 Amendment
 
 Section 2703(c) of Pub. L. 104–208 provided that:
@@ -566,7 +578,7 @@ Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided
 
 #### Effective Date of 1991 Amendment
 
-Section 318 of Pub. L. 102–233 provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 \[title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] shall be February 1, 1992.”
+Section 318 of Pub. L. 102–233 provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 \[title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix toTitle 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title\] shall be February 1, 1992.”
 
 #### Transfer of Functions
 

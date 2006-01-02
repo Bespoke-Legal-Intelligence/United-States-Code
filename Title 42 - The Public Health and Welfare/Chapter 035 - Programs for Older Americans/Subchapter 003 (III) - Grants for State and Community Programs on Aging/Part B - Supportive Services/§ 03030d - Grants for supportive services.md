@@ -66,7 +66,7 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 &emsp;(23) any other services necessary for the general welfare of older individuals;
 
-> if such services meet standards prescribed by the Assistant Secretary and are necessary for the general welfare of older individuals. For purposes of paragraph (5), the term “client assessment through case management” includes providing information relating to assistive technology.
+> if such services meet standards prescribed by the Assistant Secretary and are necessary forthe general welfare of older individuals. For purposes of paragraph (5), the term “client assessment through case management” includes providing information relating to assistive technology.
 
 #### (b) Existing facilities
 

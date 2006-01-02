@@ -42,7 +42,7 @@ The lien imposed by subsection (a) of this section arises on the date of termina
 
 #### (e) Release or subordination
 
-If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adversely affect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporation from the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
+If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adversely affect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporationfrom the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
 
 #### (f) Definitions
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;(2) The term “pre-tax profits” has the meaning provided in section 1362(d)(2) of this title.
 
-(Pub. L. 93–406, title IV, §4068, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 95–598, title III, §321(c), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 99–272, title XI, §11016(a)(6)(B), (c)(14), Apr. 7, 1986, 100 Stat. 271,275; Pub. L. 100–203, title IX, §9312(b)(2)(B)(i), (C)(ii), Dec. 22, 1987, 101 Stat. 1330–361, 1330–362; Pub. L. 101–239, title VII, §§7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451.)
+(Pub. L. 93–406, title IV, §4068, Sept. 2, 1974, 88 Stat. 1032; Pub. L. 95–598, title III, §321(c), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 99–272, title XI, §11016(a)(6)(B), (c)(14), Apr. 7, 1986, 100 Stat. 271, 275; Pub. L. 100–203, title IX, §9312(b)(2)(B)(i), (C)(ii), Dec. 22, 1987, 101 Stat. 1330–361, 1330–362; Pub. L. 101–239, title VII, §§7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451.)
 
 #### Codification
 

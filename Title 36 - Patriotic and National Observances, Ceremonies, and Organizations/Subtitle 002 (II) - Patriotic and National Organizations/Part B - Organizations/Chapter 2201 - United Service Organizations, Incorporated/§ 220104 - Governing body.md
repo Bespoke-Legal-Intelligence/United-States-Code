@@ -8,7 +8,7 @@ Board of Governors.—(1) The board of governors is the governing body of the co
 
 &emsp;(A) six members appointed by the President;
 
-&emsp;(B) the Secretary of State or the Secretary's designee; and
+&emsp;(B) the Secretary of State <sup>1</sup> or the Secretary's designee; and
 
 &emsp;(C) representatives of the civilian organizations listed in section 220102(4) of this title, and of the public at large, as provided in the bylaws.
 
@@ -49,4 +49,6 @@ In subsection (a)(1), the words “The board of governors is the governing body 
 In subsection (a)(2), the text of 36:1305(b) (2d sentence) and the word “Thereafter” are omitted as executed and obsolete.
 
 In subsection (b)(1), the word “offered” is substituted for “tendered” to use a more common word.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Secretary of Defense”.</i>
 

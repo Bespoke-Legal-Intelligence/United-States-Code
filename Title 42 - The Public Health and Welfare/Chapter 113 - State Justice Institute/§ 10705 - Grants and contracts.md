@@ -60,7 +60,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(5) to support State court planning and budgeting staffs and to provide technical assistance in resource allocation and service forecasting techniques;
 
-&emsp;(6) to support studies of the adequacy of court management systems in State and localcourts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
+&emsp;(6) to support studies of the adequacy of court management systems in State and local courts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
 
 &emsp;(7) to collect and compile statistical data and other information on the work of the courts and on the work of other agencies which relate to and affect the work of courts;
 

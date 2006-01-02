@@ -10,9 +10,9 @@ No benefit shall be paid under this subchapter—
 
 &emsp;(4) to any individual who would otherwise be entitled to a benefit under this subchapter if such individual's actions were a substantial contributing factor to the death or catastrophic injury of the public safety officer; or
 
-&emsp;(5) to any individual employed in a capacity other than a civilian capacity.
+&emsp;(5) with respect to any individual employed in a capacity other than a civilian capacity.
 
-(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099;amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834.)
+(Pub. L. 90–351, title I, §1202, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 101–647, title XIII, §1301(b), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 109–162, title XI, §1164(b), Jan. 5, 2006, 119 Stat. 3120.)
 
 #### Prior Provisions
 
@@ -23,6 +23,8 @@ Another prior section 3796a, Pub. L. 90–351, title I, §702, as added Pub. L. 
 A prior section 1202 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
+
+2006—Par. (5). Pub. L. 109–162 inserted “with respect” before “to any individual”.
 
 1990—Pars. (1) to (4). Pub. L. 101–647 inserted “or catastrophic injury” after “death” wherever appearing.
 

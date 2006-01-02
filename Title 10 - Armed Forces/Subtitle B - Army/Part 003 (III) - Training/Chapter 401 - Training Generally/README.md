@@ -44,10 +44,6 @@ Pub. L. 102–484, div. A, title III, §380(c)(2), Oct. 23, 1992, 106 Stat. 2391
 
 1974—Pub. L. 93–365, title VII, §708(a)(2), Aug. 5, 1974, 88 Stat. 407, added item 4314.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 18 section 925.
-
 
 ---
 

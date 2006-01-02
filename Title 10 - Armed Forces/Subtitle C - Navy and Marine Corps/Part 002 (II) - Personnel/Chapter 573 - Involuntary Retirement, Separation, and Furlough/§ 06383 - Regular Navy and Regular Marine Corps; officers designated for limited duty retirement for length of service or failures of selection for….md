@@ -6,7 +6,7 @@ Mandatory Retirement.—(1) Except as provided in subsection (k), each regular o
 
 (2) Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of commander, has failed of selection for promotion to the grade of captain for the second time, and is not on a list of officers recommended for promotion to the grade of captain shall—
 
-&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officeris considered as having failed for promotion to the grade of captain for a second time; or
+&emsp;(A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time; or
 
 &emsp;(B) if not eligible for retirement as a commissioned officer, be retired on the date requested by the officer and approved by the Secretary of the Navy after the officer becomes eligible for retirement as a commissioned officer, except that the date of retirement may not be later than the first day of the seventh calendar month beginning after the month in which the officer becomes eligible for retirement as a commissioned officer.
 
@@ -46,7 +46,7 @@ Year Retirement Sanctuary.—If an officer subject to discharge under subsection
 
 (g)
 
-Reenlistment for LDOs Appointed From Enlisted Grades.—(1) An officer subject to discharge under subsection (b), (d), or (e) who is described in paragraph (2) may, upon the officer's request and in the discretion of the Secretary ofthe Navy, be enlisted in a grade prescribed by the Secretary upon the officer's discharge pursuant to such subsection.
+Reenlistment for LDOs Appointed From Enlisted Grades.—(1) An officer subject to discharge under subsection (b), (d), or (e) who is described in paragraph (2) may, upon the officer's request and in the discretion of the Secretary of the Navy, be enlisted in a grade prescribed by the Secretary upon the officer's discharge pursuant to such subsection.
 
 (2) An officer described in this paragraph is an officer who—
 
@@ -234,7 +234,7 @@ Subsec. (c)(2). Pub. L. 96–513, §513(17), substituted “September 8, 1980”
 
 Pub. L. 96–342, designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
-Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of theNavy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
+Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
 
 Subsec. (e). Pub. L. 96–513, §336(d), designated existing provisions as par. (1), provided that Navy lieutenants (junior grade) designated for limited duty and Marine Corps first lieutenants similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection, and added par. (2).
 
@@ -271,8 +271,4 @@ Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 8
 #### Transition Provisions Under Defense Officer Personnel Management Act
 
 For transition provisions relating to limited-duty officers of the Regular Navy or Regular Marine Corps, see section 616 of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 631, 632, 633, 634, 1174, 1406, 6333 of this title.
 

@@ -170,11 +170,11 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revoke such election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
+&emsp;Notwithstanding subsection (e)(2), an individual who has filed an election to receive retired pay under subsection (d) may revokesuch election at any time before the first day on which retired pay (or compensation under subsection (c) in lieu of retired pay) would (but for such revocation) begin to accrue with respect to such individual.
 
 #### (2) Manner of revoking
 
-&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writingwith the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
+&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
 
 #### (3) Effect of revocation
 
@@ -297,8 +297,4 @@ Functions vested by statute in United States Civil Service Commission or Chairma
 #### Redepositing Funds in Civil Service Retirement and Disability Fund; Creditable Service
 
 Section 2(b) of Pub. L. 95–472, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] within one year after the date of enactment of this Act \[Oct. 17, 1978\] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7448 of this title; title 28 sections 178, 377.
 

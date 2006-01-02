@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the value of the old loss corporation is the value of the stock of such corporation (including any stock described in section 1504(a)(4)) immediately before the ownership change.
+&emsp;Except as otherwise provided in this subsection, the value of the old loss corporation isthe value of the stock of such corporation (including any stock described in section 1504(a)(4)) immediately before the ownership change.
 
 #### (2) Special rule in the case of redemption or other corporate contraction
 
@@ -168,7 +168,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) shall not be treated as having owned such stock during any prior period.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the term “50-percent shareholder” means any person owning 50 percent or more of the stock of the corporation at any time during the 3-year period ending on the last day of the taxable year with respect to which the stock was so treated.
+> &emsp;&emsp;For purposes of the preceding sentence, the term “50-percent shareholder” means any person owning 50 percent or more of thestock of the corporation at any time during the 3-year period ending on the last day of the taxable year with respect to which the stock was so treated.
 
 #### (h) Special rules for built-in gains and losses and section 338 gains
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 #### (B) Recognized built-in loss
 
-&emsp;&emsp;The term “recognized built-in loss” means any loss recognized during the recognitionperiod on the disposition of any asset except to the extent the new loss corporation establishes that—
+&emsp;&emsp;The term “recognized built-in loss” means any loss recognized during the recognition period on the disposition of any asset except to the extent the new loss corporation establishes that—
 
 &emsp;&emsp;&emsp;(i) such asset was not held by the old loss corporation immediately before the change date, or
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (ii) Cash and cash items not taken into account
 
-&emsp;&emsp;&emsp;In computing any net unrealized built-in gain or net unrealized built-in loss under clause (i), except as provided in regulations, there shall not be taken into account—
+&emsp;&emsp;&emsp;In computing any net unrealized built-in gain or net unrealized built-in loss underclause (i), except as provided in regulations, there shall not be taken into account—
 
 &emsp;&emsp;&emsp;&emsp;(I) any cash or cash item, or
 
@@ -354,7 +354,7 @@ For purposes of this section—
 
 #### (1) Loss corporation
 
-&emsp;The term “loss corporation” means a corporation entitled to use a net operating loss carryover or having a net operating loss for the taxable year in which the ownership change occurs. Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
+&emsp;The term “loss corporation” means a corporation entitled to use a net operating losscarryover or having a net operating loss for the taxable year in which the ownership change occurs. Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
 
 #### (2) Old loss corporation
 
@@ -416,7 +416,7 @@ For purposes of this section—
 
 #### (A) Coordination with section 172(b) carryover rules
 
-&emsp;&emsp;In the case of any pre-change loss for any taxable year (hereinafter in this subparagraph referred to as the “loss year”) subject to limitation under this section, for purposes of determining under the 2nd sentenceof section 172(b)(2) the amount of such loss which may be carried to any taxable year, taxable income for any taxable year shall be treated as not greater than—
+&emsp;&emsp;In the case of any pre-change loss for any taxable year (hereinafter in this subparagraph referred to as the “loss year”) subject to limitation under this section, for purposes of determining under the 2nd sentence of section 172(b)(2) the amount of such loss which may be carried to any taxable year, taxable income for any taxable year shall be treated as not greater than—
 
 &emsp;&emsp;&emsp;(i) the section 382 limitation for such taxable year, reduced by
 
@@ -502,7 +502,7 @@ For purposes of this section—
 
 #### (ii) Exception for certain investment entities
 
-&emsp;&emsp;&emsp;A regulated investment company to which part I of subchapter M applies, a real estate investment trust to which part II of subchapter M applies, a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
+&emsp;&emsp;&emsp;A regulated investment company to which part I of subchapter M applies, a real estate investment trust to which part II of subchapter M applies, or a REMIC to which part IV of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
 
 #### (C) Nonbusiness assets
 
@@ -618,13 +618,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) providing, in the case of any group of corporations described in section 1563(a) (determined by substituting “50 percent” for “80 percent” each place it appears and determined without regard to paragraph (4) thereof), appropriate adjustments to value, built-in gain or loss, and other items so that items are not omitted or taken into account more than once.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 129; Pub. L. 88–554, §4(b)(3), Aug. 31, 1964, 78 Stat. 763; Pub. L. 94–455, title VIII, §806(e), Oct. 4, 1976, 90 Stat. 1599; Pub. L. 96–589, §2(d), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 97–34, title II, §242, Aug. 13, 1981, 95 Stat. 255; Pub. L. 98–369, div. A, title I, §62(b)(1), July 18, 1984, 98 Stat. 583; Pub. L. 99–514, title VI, §621(a), (e)(1), Oct. 22, 1986, 100 Stat. 2254, 2266; Pub. L. 100–203, title X, §10225(a), (b), Dec. 22, 1987, 101 Stat. 1330–413; Pub. L. 100–647, title I, §1006(d)(1)(A)–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, §4012(a)(3), (b)(1)(B), title V, §5077(a), Nov. 10, 1988, 102 Stat. 3395–3400, 3426, 3656, 3657, 3683; Pub. L. 101–73, title XIV, §1401(a)(2), Aug. 9, 1989, 103 Stat. 548; Pub. L. 101–239, title VII, §§7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, 103 Stat. 2335, 2354, 2407, 2420, 2428; Pub. L. 103–66, title XIII, §13226(a)(2)(A), Aug. 10, 1993, 107 Stat. 487; Pub. L. 104–188, title I, §1621(b)(3), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(2), Oct. 22, 2004, 118 Stat. 1593.)
 
 #### References in Text
 
 Section 368(a)(3)(D), referred to in subsec. (<i>l</i>)(5)(F)(iii)(I), was amended generally by Pub. L. 99–514, title IX, §904(a), Oct. 22, 1986, 100 Stat. 2385, and, as so amended, does not contain a cl. (ii) or (iv).
 
 #### Amendments
+
+2004—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 108–357 substituted “or a REMIC to which part IV of subchapter M applies,” for “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies,”.
 
 1996—Subsec. (<i>l</i>)(4)(B)(ii). Pub. L. 104–188 substituted “a REMIC to which part IV of subchapter M applies, or a FASIT to which part V of subchapter M applies” for “or a REMIC to which part IV of subchapter M applies”.
 
@@ -734,7 +736,7 @@ Pub. L. 100–647, §1006(d)(1)(C), redesignated former par. (5) as (4).
 
 Subsec. (h)(2)(B). Pub. L. 100–203, §10225(b), inserted at end “Such term includes any amount allowable as depreciation, amortization, or depletion for any period within the recognition period except to the extent the new loss corporation establishes that the amount so allowable is not attributable to the excess described in clause (ii).”
 
-1986—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owningcorporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
+1986—Pub. L. 99–514, §621(a), in amending section generally, in subsec. (a), substituted provisions setting forth general rule that amount of taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed section 382 limitation for such year for provisions relating to change in ownership of corporation and change in its business, description of persons owning corporation, attribution of ownership, and definition of “purchase”, in subsec. (b), substituted provisions relating to section 382 limitation for provisions relating to change in ownership as result of reorganization, in subsec. (c), substituted provisions relating to disallowance of carryforwards if continuity of business requirements are not met for provisions defining stock as all shares except nonvoting stock which is limited and preferred as to dividends, and added subsecs. (d) to (m).
 
 Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e). See 1976 Amendment note below.
 
@@ -747,6 +749,10 @@ Pub. L. 99–514, §621(e)(1), repealed amendment by Pub. L. 94–455, §806(e).
 1976—Pub. L. 94–455, §806(e), which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by Pub. L. 99–514, §621(e)(1). See Effective Date of 1986 and 1976 Amendment notes below.
 
 1964—Subsec. (a)(3). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -862,7 +868,7 @@ Application of old rules to certain debt.—In the case of debt of a corporation
 
 &emsp;“(D)
 
-Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during 1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so in effect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
+Special rule for oil and gas well drilling business.—In the case of a Texas corporation incorporated on July 23, 1935, in applying section 382 of the Internal Revenue Code of 1986 (as in effect before and after the amendments made by subsections (a), (b), and (c)) to a loan restructuring agreement during 1985, section 382(a)(5)(C) of the Internal Revenue Code of 1954 (as added by the amendments made by subsections (e) and (f) of section 806 of the Tax Reform Act of 1976) shall be applied as if it were in effect with respect to such restructuring. For purposes of the preceding sentence, in applying section 382 (as so ineffect), if a person has a warrant to acquire stock, such stock shall be considered as owned by such person.
 
 “(3)
 
@@ -906,7 +912,7 @@ Ownership change of regulated air carrier.—The amendments made by subsections 
 
 &emsp;“(B) the acquisition (by or for such parent corporation) or retirement of the remaining common stock of such carrier is completed before the later of March 31, 1987, or 90 days after the requisite governmental approvals are finally granted,
 
-> but only if the ownership change occurs on or before the later of March 31, 1987, or such 90th day. The aggregate reduction in tax for any taxable year by reason of this paragraph shall not exceed $10,000,000. The testing period for determining whether a subsequent ownership change has occurred shall not begin before the 1st dayfollowing an ownership change to which this paragraph applies.
+> but only if the ownership change occurs on or before the later of March 31, 1987, or such 90th day. The aggregate reduction in tax for any taxable year by reason of this paragraph shall not exceed $10,000,000. The testing period for determining whether a subsequent ownership change has occurred shall not begin before the 1st day following an ownership change to which this paragraph applies.
 
 “(8) The amendments made by subsections (a), (b), and (c) shall not apply to any ownership change resulting from the conversion of a Minnesota mutual savings bank holding a Federal charter dated December 31, 1985, to a stock savings bank pursuant to the rules and regulations of the Federal Home Loan Bank Board, and from the issuance of stock pursuant to that conversion to a holding company incorporated in Delaware on February 21, 1984. For purposes of determining whether any ownership change occurs with respect to the holding company or any subsidiary thereof (whether resulting from the transaction described in the preceding sentence or otherwise), any issuance of stock made by such holding company in connection with the transaction described in the preceding sentence shall not be taken into account.
 
@@ -945,10 +951,6 @@ Pub. L. 95–600, title III, §368, Nov. 6, 1978, 92 Stat. 2857, provided for de
 #### Report on Depreciation and Built-In Deductions; Report on Bankruptcy Workouts
 
 Section 621(d) of Pub. L. 99–514 directed Secretary of the Treasury or his delegate to, not later than Jan. 1, 1989, conduct a study and report to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate with respect to treatment of depreciation, amortization, depletion, and other built-in deductions for purposes of sections 382 and 383 of this title, and, not later than Jan. 1, 1988, conduct a study and report to committees referred to above with respect to treatment of informal bankruptcy workouts for purposes of sections 108 and 382 of this title, prior to repeal by Pub. L. 101–508, title XI, §11832(3), Nov. 5, 1990, 104 Stat. 1388–559.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 56, 172, 318, 383, 384 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

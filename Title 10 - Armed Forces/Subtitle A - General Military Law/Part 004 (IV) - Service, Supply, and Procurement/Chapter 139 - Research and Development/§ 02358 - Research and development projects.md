@@ -78,7 +78,7 @@ In General.—Subject to approval by the President, the Secretary of Defense may
 
 “(b)
 
-Requirement of Potential Military Relationship.—Funds appropriated to the Department of Defense may not be used to finance any research project or study unless the project or study has, in the opinion of the Secretary of Defense, a potential relationship to a military function or operation.”
+Requirement of Potential Military Relationship.—Funds appropriated to the Department of Defense may not be used to finance any research project or study unless the project or study has, in the opinionof the Secretary of Defense, a potential relationship to a military function or operation.”
 
 1988—Pub. L. 100–370 designated existing provisions as subsec. (a), inserted heading, struck out “or his designee” after “Secretary of Defense” and “President, the Secretary”, and added subsec. (b).
 
@@ -87,6 +87,40 @@ Requirement of Potential Military Relationship.—Funds appropriated to the Depa
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Collaborative Program for Research and Development of Vacuum Electronics Technologies
+
+Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, provided that:
+
+“(a)
+
+Program Required.—The Secretary of Defense shall establish a program for research and development in advanced vacuum electronics to meet the requirements of Department of Defense systems.
+
+“(b)
+
+Description of Program.—The program under subsection (a) shall be carried out collaboratively by the Director of Defense Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense. The program shall include the following activities:
+
+&emsp;“(1) Activities needed for development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
+
+&emsp;“(2) Identification of legacy and developmental Department of Defense systems which may make use of advanced vacuum electronics under the program.
+
+“(c)
+
+Report.—Not later than January 31, 2005, the Director of Defense Research and Engineering shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the implementation of the program under subsection (a). The report shall include the following:
+
+&emsp;“(1) Identification of the organization to have lead responsibility for carrying out the program.
+
+&emsp;“(2) Assessment of the role of investing in vacuum electronics technologies as part of the overall strategy of the Department of Defense for investing in electronics technologies to meet the requirements of the Department.
+
+&emsp;“(3) The management plan and schedule for the program and any agreements relating to that plan.
+
+&emsp;“(4) Identification of the funding required for fiscal year 2006 and for the future-years defense program to carry out the program.
+
+&emsp;“(5) A list of program capability goals and objectives.
+
+&emsp;“(6) An outline of the role of basic and applied research in support of the development and maturation of advanced vacuum electronics technologies needed to meet the requirements of the Department of Defense.
+
+&emsp;“(7) Assessment of global capabilities in vacuum electronics technologies and the effect of those capabilities on the national security and economic competitiveness of the United States.”
 
 #### Department of Defense Program To Expand High-Speed, High-Bandwidth Capabilities for Network-Centric Operations
 
@@ -149,6 +183,94 @@ Report.—(1) The Secretary shall submit to the congressional defense committees
 &emsp;“(F) An assessment of the effect of additional resources on the ability to achieve the purposes described in subsection (b).
 
 &emsp;“(G) Such recommendations for additional activities under this section as the Secretary considers appropriate to meet the purposes described in subsection (b).”
+
+#### Research and Development of Defense Biomedical Countermeasures
+
+Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, provided that:
+
+“(a)
+
+In General.—The Secretary of Defense (in this section referred to as the ‘Secretary’) shall carry out a program to accelerate the research, development and procurement of biomedical countermeasures, including but not limited to therapeutics and vaccines, for the protection of the Armed Forces from attack by one or more biological, chemical, radiological, or nuclear agents.
+
+“(b)
+
+Interagency Cooperation.—(1) In carrying out the program under subsection (a), the Secretary may enter into interagency agreements and other collaborative undertakings with other Federal agencies.
+
+“(2) The Secretary, through regular, structured, and close consultation with the Secretary of Health and Human Services and the Secretary of Homeland Security, shall ensure that the activities of the Department of Defense in carrying out the program are coordinated with, complement, and do not unnecessarily duplicate activities of the Department of Health and Human Services or the Department of Homeland Security.
+
+“(c)
+
+Expedited Procurement Authority.—(1) For any procurement of property or services for use (as determined by the Secretary) in performing, administering, or supporting biomedical countermeasures research and development, the Secretary may, when appropriate, use streamlined acquisition procedures and other expedited procurement procedures authorized in—
+
+&emsp;“(A) section 32A of the Office of Federal Procurement Policy Act, as added by section 1443 of this Act \[41 U.S.C. 428a\]; and
+
+&emsp;“(B) section 2371 of title 10, United States Code, and section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
+
+“(2) Notwithstanding paragraph (1) and the provisions of law referred to in such paragraph, each of the following provisions shall apply to the procurements described in this subsection to the same extent that such provisions would apply to such procurements in the absence of paragraph (1):
+
+&emsp;“(A) Chapter 37 of title 40, United States Code (relating to contract work hours and safety standards).
+
+&emsp;“(B) Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b)).
+
+&emsp;“(C) Section 2313 of title 10, United States Code (relating to the examination of contractor records).
+
+“(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph (1), including requirements for documenting the justification for each use of such authority.
+
+“(d)
+
+Department of Defense Facilities Authority.—(1) If the Secretary determines that it is necessary to acquire, lease, construct, or improve laboratories, research facilities, and other real property of the Department of Defense in order to carry out the program under this section, the Secretary may do so using the procedures set forth in paragraphs (2), (3), (4), and (5).
+
+“(2) The Secretary shall use existing construction authorities provided by subchapter I of chapter 169 of title 10, United States Code, to the maximum extent possible.
+
+“(3)(A) If the Secretary determines that use of authorities in paragraph (2) would prevent the Department from meeting a specific facility requirement for the program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] advance notification, which shall include the following:
+
+&emsp;“(i) Certification by the Secretary that use of existing construction authorities would prevent the Department from meeting the specific facility requirement.
+
+&emsp;“(ii) A detailed explanation of the reasons why existing authorities cannot be used.
+
+&emsp;“(iii) A justification of the facility requirement.
+
+&emsp;“(iv) Construction project data and estimated cost.
+
+&emsp;“(v) Identification of the source or sources of the funds proposed to be expended.
+
+“(B) The facility project may be carried out only after the end of the 21-day period beginning on the date the notification is received by the congressional defense committees.
+
+“(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
+
+“(5) The Secretary shall submit to the congressional defense committees a quarterly report detailing any use of the authority provided by paragraph (4), including costs incurred or to be incurred by the United States as a result of the use of the authority.
+
+“(6) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
+
+“(7) In this subsection, the term ‘facility’ has the meaning given the term in section 2801(c) of title 10, United States Code.
+
+“(e)
+
+Authority for Personal Services Contracts.—(1) Subject to paragraph (2), the authority provided by section 1091 of title 10, United States Code, for personal services contracts to carry out health care responsibilities in medical treatment facilities of the Department of Defense shall also be available, subject to the same terms and conditions, for personal services contracts to carry out research and development activities under this section. The number of individuals whose personal services are obtained under this subsection may not exceed 30 at any time.
+
+“(2) The authority provided by such section 1091 may not be used for a personal services contract unless the contracting officer for the contract ensures that—
+
+&emsp;“(A) the services to be procured are urgent or unique; and
+
+&emsp;“(B) it would not be practicable for the Department of Defense to obtain such services by other measures.
+
+“(f)
+
+Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2721), section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 \[5 U.S.C. 3104 note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5\].
+
+“(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
+
+“(3) The Secretary shall institute appropriate internal controls for each use of the authority under paragraph (1).”
+
+Pub. L. 107–107, div. A, title X, §1044(a), Dec. 28, 2001, 115 Stat. 1219, provided that:
+
+“(1) The Secretary of Defense shall carry out a program to aggressively accelerate the research, development, testing, and licensure of new medical countermeasures for defense against the biological warfare agents that are the highest threat.
+
+“(2) The program shall include the following activities:
+
+&emsp;“(A) As the program's first priority, investment in multiple new technologies for medical countermeasures for defense against the biological warfare agents that are the highest threat, including for the prevention and treatment of anthrax.
+
+&emsp;“(B) Leveraging of ideas and technologies from the biological technology industry.”
 
 #### Vehicle Fuel Cell Program
 
@@ -254,7 +376,7 @@ Pub. L. 107–314, div. A, title X, §1032, Dec. 2, 2002, 116 Stat. 2643, as ame
 
 “(a)
 
-Annual Report.—Not later than April 1 of each year, the Secretary of Defense, the Secretary of Energy, and the Director of Central Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons to defeat hardened and deeply buried targets.
+Annual Report.—Not later than April 1 of each year, the Secretary of Defense, the Secretary of Energy, and the Director of Central Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of theHouse of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons to defeat hardened and deeply buried targets.
 
 “(b)
 
@@ -283,6 +405,8 @@ Termination.—No report is required under this section after the submission of 
 Integration Activities in Fiscal Year 2003
 
 With Respect to RNEP.—The report under subsection (a) that is due on April 1, 2004, shall include, in addition to the elements specified in subsection (b), a description of the integration and interoperability of the research and development, procurement, and other activities undertaken during fiscal year 2003 by the Department of Defense and the Department of Energy with respect to the Robust Nuclear Earth Penetrator.”
+
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.\]
 
 #### Pilot Programs for Revitalizing Laboratories and Test and Evaluation Centers of Department of Defense
 
@@ -450,11 +574,11 @@ Reports.—(1) Not later than March 1, 1999, the Secretary of Defense shall subm
 
 “(c)
 
-Commendation.—Congress commends the Secretary of Defense for the progress made by the science and technology laboratories and test and evaluation centers of the Department of Defense and encourages the Secretary to take the actions necessary to ensure continued progress for the laboratories and test and evaluation centers in developing cooperative relationships with universities and other private sector entitiesfor the performance of research and development functions.”
+Commendation.—Congress commends the Secretary of Defense for the progress made by the science and technology laboratories and test and evaluation centers of the Department of Defense and encourages the Secretary to take the actions necessary to ensure continued progress for the laboratories and test and evaluation centers in developing cooperative relationships with universities and other private sector entities for the performance of research and development functions.”
 
 #### Defense Experimental Program To Stimulate Competitive Research
 
-Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the 1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
+Pub. L. 105–18, title I, §307, June 12, 1997, 111 Stat. 169, provided that: “For the purposes of implementing the1997 Defense Experimental Program to Stimulate Competitive Research (DEPSCoR), the term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, Guam and the Virgin Islands of the United States, American Samoa and the Commonwealth of the Northern Mariana Islands.”
 
 Pub. L. 103–337, div. A, title II, §257, Oct. 5, 1994, 108 Stat. 2705, as amended by Pub. L. 104–106, div. A, title II, §273, Feb. 10, 1996, 110 Stat. 239; Pub. L. 104–201, div. A, title II, §264, Sept. 23, 1996, 110 Stat. 2465; Pub. L. 105–85, div. A, title II, §243, Nov. 18, 1997, 111 Stat. 1667; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title II, §247, Dec. 2, 2002, 116 Stat. 2502, provided that:
 
@@ -612,9 +736,5 @@ Pub. L. 91–441, title V, §510, Oct. 7, 1970, 84 Stat. 914.
 
 #### Federal Contract Research Centers; Officers’ Compensation; Notification to Congress
 
-Pub. L. 91–121, title IV, §407, Nov. 19, 1969, 83 Stat. 208, related to restrictions on use of appropriations for compensation of officers and employees of Federal contractresearch centers, and notice requirements respecting such payments, prior to repeal by Pub. L. 96–107, title VIII, §819(c), Nov. 9, 1979, 93 Stat. 819. See section 2359 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2371 of this title.
+Pub. L. 91–121, title IV, §407, Nov. 19, 1969, 83 Stat. 208, related to restrictions on use of appropriations for compensation of officers and employees of Federal contract research centers, and notice requirements respecting such payments, prior to repeal by Pub. L. 96–107, title VIII, §819(c), Nov. 9, 1979, 93 Stat. 819. See section 2359 of this title.
 

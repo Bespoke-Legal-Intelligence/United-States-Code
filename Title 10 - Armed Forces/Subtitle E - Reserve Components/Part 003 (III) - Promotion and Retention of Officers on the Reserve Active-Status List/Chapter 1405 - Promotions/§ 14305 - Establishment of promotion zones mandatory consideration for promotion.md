@@ -20,7 +20,3 @@ Factors in Determining Number in the Zone.—The Secretary's determination under
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2935.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14306 of this title.
-

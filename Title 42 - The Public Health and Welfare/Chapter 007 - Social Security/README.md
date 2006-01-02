@@ -3676,6 +3676,10 @@ Use of funds.
 
 Special transfer in fiscal year 2002.
 
+(e)
+
+Special transfer in fiscal year 2006.
+
 |  |  |
 | :--- | ---: |
 | [1104\.](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/%C2%A7%2001104%20-%20Unemployment%20Trust%20Fund.md) | Unemployment Trust Fund. |
@@ -6254,45 +6258,25 @@ Periodic interim payments.
 
 |  |  |
 | :--- | ---: |
-| [1395h.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20A%20-%20Hospital%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395h%20-%20Use%20of%20public%20or%20private%20agencies%20or%20organizations%20to%20facilitate%20payment%20to%20providers%20of%20services.md) | Use of public or private agencies or organizations to facilitate payment to providers of services. |
+| [1395h.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20A%20-%20Hospital%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395h%20-%20Provisions%20relating%20to%20the%20administration%20of%20part%20A.md) | Provisions relating to the administration of part A. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Authorization for agreement by Secretary for implementation; scope of agreement.
+In general.
 
 (b)
 
-Prerequisites for agreement or renewal of agreement by Secretary.
+Repealed.
 
 (c)
 
-Terms and conditions of agreements; prompt payment of claims.
+Prompt payment of claims.
 
-(d)
+(d) to (i)
 
-Nomination of agency or organization; withdrawal.
-
-(e)
-
-Assignment or reassignment of provider of services; designation of agency or organization to perform provider services and home health agency functions.
-
-(f)
-
-Development of standards, criteria, and procedures by Secretary for evaluation of agency or organization performance.
-
-(g)
-
-Termination of agreement; procedures applicable.
-
-(h)
-
-Bonding requirement under agreement for officers and employees of agency or organization.
-
-(i)
-
-Liability of certifying and disbursing officers designated under agreement for negligent, etc., payments.
+Repealed.
 
 (j)
 
@@ -6301,10 +6285,6 @@ Denial of claim; notification and reconsideration.
 (k)
 
 Annual reporting requirement on erroneous payment recovery.
-
-(<i>l</i>)
-
-No authority for activities carried out under Medicare Integrity Program.
 
 |  |  |
 | :--- | ---: |
@@ -6921,37 +6901,29 @@ Payments from Trust Fund of costs incurred by Railroad Retirement Board.
 |  |  |
 | :--- | ---: |
 | 1395t–1, 1395t–2. Repealed. |  |
-| [1395u.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395u%20-%20Use%20of%20carriers%20for%20administration%20of%20benefits.md) | Use of carriers for administration of benefits. |
+| [1395u.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20B%20-%20Supplementary%20Medical%20Insurance%20Benefits%20for%20Aged%20and%20Disabled/%C2%A7%2001395u%20-%20Provisions%20relating%20to%20the%20administration%20of%20part%20B.md) | Provisions relating to the administration of part B. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Authority of Secretary to enter into contracts with carriers.
+In general.
 
 (b)
 
-Applicability of competitive bidding provisions; findings as to financial responsibility, etc., of carrier; contractual duties imposed by contract.
+Determination of reasonable charges.
 
 (c)
 
-Advances of funds to carrier; prompt payment of claims.
+Prompt payment of claims.
 
-(d)
+(d) to (f)
 
-Surety bonds.
-
-(e)
-
-Liability of certifying or disbursing officers or carriers.
-
-(f)
-
-“Carrier” defined.
+Repealed.
 
 (g)
 
-Authority of Railroad Retirement Board to enter into contracts with carriers.
+Authority of Railroad Retirement Board to enter into contracts with medicare administrative contractors.
 
 (h)
 
@@ -7325,7 +7297,7 @@ Calculation of annual Medicare+Choice capitation rates.
 
 (d)
 
-“Medicare+Choice payment area” defined.
+MA payment area; MA local area; MA region defined.
 
 (e)
 
@@ -7347,15 +7319,19 @@ Special rule for hospice care.
 
 New entry bonus.
 
+(j)
+
+Computation of benchmark amounts.
+
 |  |  |
 | :--- | ---: |
-| 1395w–24. | Premiums. |
+| 1395w–24. | Premiums and bid amounts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Submission of proposed premiums and related information.
+Submission of proposed premiums, bid amounts, and related information.
 
 (b)
 
@@ -7363,7 +7339,7 @@ Monthly premium charged.
 
 (c)
 
-Uniform premium.
+Uniform premium and bid amounts.
 
 (d)
 
@@ -7375,7 +7351,7 @@ Limitation on enrollee liability.
 
 (f)
 
-Requirement for additional benefits.
+Requirement for additional benefits before 2006.
 
 (g)
 
@@ -9502,6 +9478,10 @@ Funding.
 (h)
 
 Report to Congress.
+
+(i)
+
+Limitation on review.
 
 #### SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS
 

@@ -135,7 +135,3 @@ Amendment by section 1905(c)(2) of Pub. L. 94–455 effective on first day of fi
 
 Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5001, 5002, 5003, 5004, 5005, 5008, 5066, 5173, 5181, 5211, 5244, 5271, 5273, 5275, 5314, 5607 of this title.
-

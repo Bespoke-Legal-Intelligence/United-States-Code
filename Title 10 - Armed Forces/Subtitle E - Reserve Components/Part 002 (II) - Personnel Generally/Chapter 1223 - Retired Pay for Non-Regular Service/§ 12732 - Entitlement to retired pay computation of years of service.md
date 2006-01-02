@@ -10,9 +10,9 @@
 
 &emsp;&emsp;(C) A federally recognized status in the National Guard before June 15, 1933.
 
-&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the National Guard, or his Federal recognition as an officer therein, to the date of his enlistment or appointment, as the case may be, in the National Guard of the United States, the Army National Guard of the United States, or the Air National Guard of the United States.
+&emsp;&emsp;(D) The National Guard after June 14, 1933, if his service therein was continuous from the date of his enlistment in the National Guard, or his Federal recognition as an officer therein, to the date of his enlistment orappointment, as the case may be, in the National Guard of the United States, the Army National Guard of the United States, or the Air National Guard of the United States.
 
-&emsp;&emsp;(E) The Naval Reserve Force.
+&emsp;&emsp;(E) The Navy Reserve Force.
 
 &emsp;&emsp;(F) The Naval Militia that conformed to the standards prescribed by the Secretary of the Navy.
 
@@ -62,7 +62,7 @@
 
 &emsp;(1) Service (other than active service) in an inactive section of the Organized Reserve Corps or of the Army Reserve, or in an inactive section of the officers’ section of the Air Force Reserve.
 
-&emsp;(2) Service (other than active service) after June 30, 1949, while on the Honorary Retired List of the Naval Reserve or of the Marine Corps Reserve.
+&emsp;(2) Service (other than active service) after June 30, 1949, while on the Honorary Retired List of the Navy Reserve or of the Marine Corps Reserve.
 
 &emsp;(3) Service in the inactive National Guard.
 
@@ -74,7 +74,7 @@
 
 &emsp;(7) Service in any status other than that as commissioned officer, warrant officer, nurse, flight officer, aviation midshipman, appointed aviation cadet, or enlisted member, and that described in clauses (I) and (J) of subsection (a)(1).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 106–65, div. A, title V, §578(h)(1), Oct. 5, 1999, 113 Stat. 628.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 102, §1332; Pub. L. 85–861, §33(a)(9), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 86–197, §1(1)–(3), Aug. 25, 1959, 73 Stat. 425; Pub. L. 88–636, §1, Oct. 8, 1964, 78 Stat. 1034; Pub. L. 93–545, §1, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–513, title V, §511(48), Dec. 12, 1980, 94 Stat. 2924; renumbered §12732 and amended Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998, 3000; Pub. L. 104–201, div. A, title V, §543(b)(1), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 106–65, div. A, title V, §578(h)(1), Oct. 5, 1999, 113 Stat. 628; Pub. L. 109–163, div. A, title V, §515(b)(1)(MM), Jan. 6, 2006, 119 Stat. 3234.)
 
 Historical and Revision Notes<br>1956
 
@@ -172,11 +172,13 @@ The word “full-time” is inserted for clarity. The other change reflects the 
 
 #### References in Text
 
-Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, whichamended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
+Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by section 53 of act Aug. 10, 1956, ch. 1041 70A Stat. 641.
 
 Women's Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See section 3070 of this title. See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
 #### Amendments
+
+2006—Subsecs. (a)(1)(E), (b)(2). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 1999—Subsec. (a)(2). Pub. L. 106–65 added subpar. (E) and substituted “, (D), and (E)” for “, and (D)” in concluding provisions.
 
@@ -253,8 +255,4 @@ Section 15 of Pub. L. 85–861 provided that:
 “(a) Notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a person is entitled to count his service as an Army field clerk or as a field clerk, Quartermaster Corps, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.
 
 “(b) notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a warrant officer is entitled to count classified service as an Army headquarters clerk or as a clerk of the Army Quartermaster Corps that he performed under any law in effect before August 29, 1916, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1063, 1176, 1209, 1414, 1482, 2126, 6389, 12308, 12503, 12642, 12646, 12731, 12731a, 12731b, 12733, 14704 of this title; title 5 section 3329; title 20 section 6673; title 32 section 115; title 37 section 203.
 

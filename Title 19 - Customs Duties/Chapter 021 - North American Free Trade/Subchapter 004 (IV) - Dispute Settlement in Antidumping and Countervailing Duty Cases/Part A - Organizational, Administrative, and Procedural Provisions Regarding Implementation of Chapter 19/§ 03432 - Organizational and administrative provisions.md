@@ -94,7 +94,7 @@
 
 #### (C) Consultation
 
-&emsp;&emsp;Upon submission of the preliminary candidate lists under subparagraph (B) to the appropriate Congressional Committees, the Trade Representative shall consult with such Committees with regard to the individuals included on the preliminary candidate lists.
+&emsp;&emsp;Upon submission of the preliminary candidate lists under subparagraph (B) to theappropriate Congressional Committees, the Trade Representative shall consult with such Committees with regard to the individuals included on the preliminary candidate lists.
 
 #### (D) Revision of lists
 
@@ -104,7 +104,7 @@
 
 #### (A) Submission of lists to Congressional Committees
 
-&emsp;&emsp;No later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on panels and committees convened under chapter 19 during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only ifsuch individual was included in the preliminary candidate list or if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to such Committees under this subparagraph.
+&emsp;&emsp;No later than March 31 of each calendar year, the Trade Representative shall submit to the appropriate Congressional Committees the final candidate lists of those individuals selected by the Trade Representative to be candidates eligible to serve on panels and committees convened under chapter 19 during the 1-year period beginning on April 1 of such calendar year. An individual may be included on a final candidate list only if such individual was included in the preliminary candidate list or if written notice of the addition of such individual to the preliminary candidate list was submitted to the appropriate Congressional Committees at least 15 days before the date on which that final candidate list is submitted to such Committees under this subparagraph.
 
 #### (B) Finality of lists
 

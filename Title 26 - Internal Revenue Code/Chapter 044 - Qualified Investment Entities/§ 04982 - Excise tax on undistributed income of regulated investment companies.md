@@ -188,7 +188,3 @@ Section 10104(b)(2) of Pub. L. 100–203 provided that: “The amendment made by
 
 Section 651(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section and amending sections 852 and 855 of this title\] shall apply to calendar years beginning after December 31, 1986.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 852 of this title.
-

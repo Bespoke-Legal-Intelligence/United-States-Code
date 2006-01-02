@@ -14,7 +14,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 > <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.
 
-(July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub.L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §2(c), Aug. 5, 1999, 113 Stat. 218.)
+(July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §2(c), Aug. 5, 1999, 113 Stat. 218.)
 
 #### References in Text
 

@@ -46,7 +46,7 @@
 
 (2) A determination referred to in paragraph (1) of this subsection may be used by the authority, but shall not require such authority, to commence any administrative or contractual action which is authorized by law.
 
-(3) In the case of an administrative or contractual action to suspend or debar any person who is eligible to enter into contracts with the Federal Government, a determination referred to in paragraph (1) of this subsection shall not be considered as a conclusive determination of suchperson's responsibility pursuant to Federal procurement laws and regulations.
+(3) In the case of an administrative or contractual action to suspend or debar any person who is eligible to enter into contracts with the Federal Government, a determination referred to in paragraph (1) of this subsection shall not be considered as a conclusive determination of such person's responsibility pursuant to Federal procurement laws and regulations.
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1937.)
 

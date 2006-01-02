@@ -8,17 +8,19 @@ If a generation-skipping transfer (other than a direct skip) occurs at the same 
 
 The aggregate amount allowed as a credit under this section with respect to any transfer shall not exceed 5 percent of the amount of the tax imposed by section 2601 on such transfer.
 
+#### (c) Termination
+
+This section shall not apply to the generation-skipping transfers after December 31, 2004.
+
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718; amended Pub. L. 107–16, title V, §532(c)(10), June 7, 2001, 115 Stat. 75.)
 
 #### Amendment of Section
 
-<i>Pub. L. 107–16, title V, §532(c)(10), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, this section is temporarily amended by adding at the end the following new subsection:</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
-#### <i>(c) Termination</i>
+#### Amendments
 
-<i>This section shall not apply to the generation-skipping transfers after December 31, 2004.</i>
-
-<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+2001—Subsec. (c). Pub. L. 107–16, §§532(c)(10), 901, temporarily added subsec. (c). See Effective and Termination Dates of 2001 Amendment note below.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -29,8 +31,4 @@ Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts 
 #### Effective Date
 
 Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 164, 2654 of this title.
 

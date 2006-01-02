@@ -2,7 +2,15 @@
 
 (a)
 
-In General.—The Secretary shall register, subject to section 13906(b), a person to be a broker for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary finds that the person is fit, willing, and able to be a broker for transportation and to comply with this part and applicable regulations of the Secretary.
+In General.—
+
+&emsp;(1)
+
+Household Goods.—The Secretary shall register, subject to section 13906(b), a person to be a broker of household goods for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary finds that the person is fit, willing, and able to be a broker of household goods for transportation and to comply with this part and applicable regulations of the Secretary.
+
+&emsp;(2)
+
+Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a broker (other than a broker of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board.
 
 (b)
 
@@ -24,9 +32,15 @@ Regulations To Protect Shippers.—Regulations of the Secretary applicable to br
 
 Bond and Insurance.—The Secretary may impose on brokers for motor carriers of passengers such requirements for bonds or insurance or both as the Secretary determines are needed to protect passengers and carriers dealing with such brokers.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 109–59, title IV, §4142(c), Aug. 10, 2005, 119 Stat. 1747.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10924 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59, §4142(c)(1), (3), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (a)(1). Pub. L. 109–59, §4142(c)(2), which directed amendment of par. (1) by inserting “of household goods” after “broker”, was executed by making the insertion in two places to reflect the probable intent of Congress.
 

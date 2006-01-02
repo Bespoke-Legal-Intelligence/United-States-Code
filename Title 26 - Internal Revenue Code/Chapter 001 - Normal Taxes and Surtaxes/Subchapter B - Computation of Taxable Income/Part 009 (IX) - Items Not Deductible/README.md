@@ -70,10 +70,6 @@
 
 1962—Pub. L. 87–834, §4(a)(2), Oct. 16, 1962, 76 Stat. 976, added item 274.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 161, 211 of this title.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 

@@ -16,7 +16,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 > that the wide diffusion of culture, and the education of humanity for justice and liberty and peace are indispensable to the dignity of man and constitute a sacred duty which all the nations must fulfill in a spirit of mutual assistance and concern;
 
-> that a peace based exclusively upon the political and economic arrangements of governments would not be a peace which could secure the unanimous, lasting and sincere support of the peoples of the world, and that the peace must therefore be founded, if it is not to fail, upon the intellectual and moral solidarity of mankind.
+> that a peace based exclusively upon the political and economic arrangements of governments would not be a peace which could secure the unanimous, lasting andsincere support of the peoples of the world, and that the peace must therefore be founded, if it is not to fail, upon the intellectual and moral solidarity of mankind.
 
 #### for these reasons,
 
@@ -60,7 +60,7 @@ I74the governments of the states parties to this constitution on behalf of their
 
 2\. Subject to the conditions of the agreement between this Organisation and the United Nations Organisation, approved pursuant to Article X of this Constitution, States not members of the United Nations Organisation may be admitted to membership of the Organisation, upon recommendation of the Executive Board, by a two-thirds majority vote of the General Conference.
 
-3\. Members of the Organisation which are suspended from the exercise of the rights and privileges of membership of the United Nations Organisation shall, uponthe request of the latter, be suspended from the rights and privileges of this Organisation.
+3\. Members of the Organisation which are suspended from the exercise of the rights and privileges of membership of the United Nations Organisation shall, upon the request of the latter, be suspended from the rights and privileges of this Organisation.
 
 4\. Members of the Organisation which are expelled from the United Nations Organisation shall automatically cease to be members of this Organisation.
 

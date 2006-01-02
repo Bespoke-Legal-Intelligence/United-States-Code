@@ -1,6 +1,6 @@
 ### §§853a to 853<i>l</i>. Repealed. Pub. L. 107–372, title II, §271(1), Dec. 19, 2002, 116 Stat. 3094
 
-Section 853a, acts June 3, 1948, ch. 390, §2, 62 Stat. 297; Pub. L. 87–233, §1(a), Sept. 14, 1961, 75 Stat. 506; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R.15627, 84 Stat. 2090; Pub. L. 105–384, title III, §307(a), Nov. 13, 1998, 112 Stat. 3457, related to authorized numbers of commissioned officers on the active list of the National Oceanic and Atmospheric Administration. See sections 3004 and 3005 of this title.
+Section 853a, acts June 3, 1948, ch. 390, §2, 62 Stat. 297; Pub. L. 87–233, §1(a), Sept. 14, 1961, 75 Stat. 506; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 105–384, title III, §307(a), Nov. 13, 1998, 112 Stat. 3457, related to authorized numbers of commissioned officers on the active list of the National Oceanic and Atmospheric Administration. See sections 3004 and 3005 of this title.
 
 Section 853b, act June 3, 1948, ch. 390, §3, 62 Stat. 298, related to promotion by selection to grades above lieutenant. See section 3024 of this title.
 

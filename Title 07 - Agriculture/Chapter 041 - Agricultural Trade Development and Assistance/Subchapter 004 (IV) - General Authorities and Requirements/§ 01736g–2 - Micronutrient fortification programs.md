@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) encourage the development of technologies for the fortification of grains and other commodities that are readily transferable to developing countries; and
 
-&emsp;&emsp;(C) assess and apply technologies and systems to improve and ensure the quality,shelf life, bioavailability, and safety of fortified food aid commodities, and products of those commodities, that are provided to developing countries, by using the same mechanism that was used to assess the micronutrient fortification program in the report entitled “Micronutrient Compliance Review of Fortified P.L. 480 Commodities”, published October 2001 with funds from the Bureau for Humanitarian Response of the United States Agency for International Development.
+&emsp;&emsp;(C) assess and apply technologies and systems to improve and ensure the quality, shelf life, bioavailability, and safety of fortified food aid commodities, and products of those commodities, that are provided to developing countries, by using the same mechanism that was used to assess the micronutrient fortification program in the report entitled “Micronutrient Compliance Review of Fortified P.L. 480 Commodities”, published October 2001 with funds from the Bureau for Humanitarian Response of the United States Agency for International Development.
 
 #### (b) Selection of participating countries
 

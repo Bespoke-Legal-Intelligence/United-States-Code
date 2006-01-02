@@ -4,7 +4,7 @@
 
 Establishment of Position of Assistant Secretary of Labor for Veterans’ Employment and Training.—(1) There is established within the Department of Labor an Assistant Secretary of Labor for Veterans’ Employment and Training, appointed by the President by and with the advice and consent of the Senate, who shall formulate and implement all departmental policies and procedures to carry out (A) the purposes of this chapter, chapter 42, and chapter 43 of this title, and (B) all other Department of Labor employment, unemployment, and training programs to the extent they affect veterans.
 
-(2) The employees of the Department of Labor administering chapter 43 of this title shall be administratively and functionally responsible tothe Assistant Secretary of Labor for Veterans’ Employment and Training.
+(2) The employees of the Department of Labor administering chapter 43 of this title shall be administratively and functionally responsible to the Assistant Secretary of Labor for Veterans’ Employment and Training.
 
 (3)(A) There shall be within the Department of Labor a Deputy Assistant Secretary of Labor for Veterans’ Employment and Training. The Deputy Assistant Secretary shall perform such functions as the Assistant Secretary of Labor for Veterans’ Employment and Training prescribes.
 
@@ -52,7 +52,7 @@ Conditions for Receipt of Funds.—(1) The distribution and use of funds under s
 
 &emsp;(iii) Such additional information as the Secretary may require to make a determination with respect to awarding a grant or contract to the State.
 
-(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount available under subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
+(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount available under subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary anamount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
 
 &emsp;(I) the total number of veterans residing in the State that are seeking employment; to
 
@@ -112,7 +112,7 @@ Establishment of Performance Standards and Outcomes Measures.—(1) By not later
 
 Authority to Provide Technical Assistance to States.—The Secretary may provide such technical assistance as the Secretary determines appropriate to any State that the Secretary determines has, or may have, an entered-employment rate in the State that is deficient, as determined under subsection (c)(3) with respect to a program year, including assistance in the development of a corrective action plan under that subsection.
 
-(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII,§702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673.)
+(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038; Pub. L. 108–183, title VII, §708(b)(1)(A), (2), Dec. 16, 2003, 117 Stat. 2673.)
 
 #### References in Text
 
@@ -192,7 +192,7 @@ Amendment by section 101(f) \[title VIII, §405(d)(29)(A)\] of Pub. L. 105–277
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–323 effective May 20, 1988, except that subsec. (b)(5) effective for all of fiscal year1988 and subsequent fiscal years, see section 16(a), (b)(1)(A) of Pub. L. 100–323, set out as a note under section 3104 of this title.
+Amendment by Pub. L. 100–323 effective May 20, 1988, except that subsec. (b)(5) effective for all of fiscal year 1988 and subsequent fiscal years, see section 16(a), (b)(1)(A) of Pub. L. 100–323, set out as a note under section 3104 of this title.
 
 #### Effective Date of 1980 Amendment
 

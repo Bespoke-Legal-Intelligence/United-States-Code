@@ -18,7 +18,7 @@
 
 #### References in Text
 
-This section, referred to in subsec. (a)(2), refers to section 5 of Pub. L. 93–100, which enacted this section and section 1469 of this title and amended sections 24 and 1464 of this title.
+This section, referred to in subsec. (a)(2), refers to section 5 of Pub. L. 93–100, which enacted this sectionand section 1469 of this title and amended sections 24 and 1464 of this title.
 
 This section and any Act amended by this section, referred to in subsec. (b), are this section and sections 24 par. Seventh, 1464(c), and 1469 of this title.
 

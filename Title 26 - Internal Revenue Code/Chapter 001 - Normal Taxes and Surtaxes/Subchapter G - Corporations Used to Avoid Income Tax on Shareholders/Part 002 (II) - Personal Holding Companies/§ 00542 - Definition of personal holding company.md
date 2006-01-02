@@ -10,7 +10,7 @@ For purposes of this subtitle, the term “personal holding company” means any
 
 #### (2) Stock ownership requirement
 
-&emsp;At any time during the last half of the taxable year more than 50 percent in value of its outstanding stock is owned, directly or indirectly, by or for not more than 5 individuals. For purposes of this paragraph, an organization described in section 401(a), 501(c)(17), or 509(a) or a portion of a trust permanently set aside or to be used exclusively for the purposes described in section 642(c) or a corresponding provision of a prior income tax law shall be considered an individual.
+&emsp;At any time during the last half of the taxable year more than 50 percent in value of its outstanding stock is owned, directly or indirectly, by or for not more than 5 individuals. For purposes of this paragraph, an organization described in section 401(a), 501(c)(17), or 509(a) or a portion of a trust permanently setaside or to be used exclusively for the purposes described in section 642(c) or a corresponding provision of a prior income tax law shall be considered an individual.
 
 #### (b) Corporations filing consolidated returns
 
@@ -56,7 +56,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;(4) a surety company;
 
-&emsp;(5) a foreign personal holding company as defined in section 552;
+&emsp;(5) a foreign corporation,<sup>1</sup>
 
 &emsp;(6) a lending or finance company if—
 
@@ -72,13 +72,9 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;&emsp;(D) the loans to a person who is a shareholder in such company during the taxable year by or for whom 10 percent or more in value of its outstanding stock is owned directly or indirectly (including, in the case of an individual, stock owned by members of his family as defined in section 544(a)(2)), outstanding at any time during such year do not exceed $5,000 in principal amount;
 
-&emsp;(7) a foreign corporation (other than a corporation which has income to which section 543(a)(7) applies for the taxable year), if all of its stock outstanding during the last half of the taxable year is owned by nonresident alien individuals, whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations;
+&emsp;(7) A <sup>2</sup> small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided by the investment company or 5 per centum or more in value of the outstanding stock of such concern; and
 
-&emsp;(8) A <sup>1</sup> small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided by the investment company or 5 per centum or more in value of the outstanding stock of such concern;
-
-&emsp;(9) a corporation which is subject to the jurisdiction of the court in a title 11 or similar case (within the meaning of section 368(a)(3)(A)) unless a major purpose of instituting or continuing such case is the avoidance of the tax imposed by section 541; and
-
-&emsp;(10) a passive foreign investment company (as defined in section 1297).
+&emsp;(8) a corporation which is subject to the jurisdiction of the court in a title 11 or similar case (within the meaning of section 368(a)(3)(A)) unless a major purpose of instituting or continuing such case is the avoidance of the tax imposed by section 541.
 
 #### (d) Special rules for applying subsection (c)(6)
 
@@ -130,13 +126,17 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L.97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506.)
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(8), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(5). Pub. L. 108–357, §413(b)(1)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “a foreign personal holding company as defined in section 552;”.
+
+Subsec. (c)(7) to (10). Pub. L. 108–357, §413(b)(1)(B)–(D), redesignated pars. (8) and (9) as (7) and (8), respectively, inserted “and” at end of par. (7), substituted period for “; and” at end of par. (8), and struck out former pars. (7) and (10) relating to foreign corporations whose outstanding stock during the last half of the taxable year is owned, directly or indirectly, by nonresident aliens and passive foreign investment companies, respectively.
 
 1997—Subsec. (c)(10). Pub. L. 105–34 substituted “section 1297” for “section 1296”.
 
@@ -180,6 +180,10 @@ Subsec. (d). Pub. L. 88–272, §225(c)(3), added subsec. (d).
 
 1955—Subsec. (a)(2). Act Aug. 12, 1955, §3, inserted sentence at end excepting from consideration as “individuals” certain charitable foundations created before July 1, 1950.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
@@ -208,7 +212,7 @@ and (c).—The amendments made by subsections (b) and (c) \[amending this sectio
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commenced after Dec. 31, 1980, with exception permitting the debtor to make the amendment applicable to such cases or judicial proceedings commenced after Sept. 30, 1979, seesection 7(d)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial proceedings commencedafter Dec. 31, 1980, with exception permitting the debtor to make the amendment applicable to such cases or judicial proceedings commenced after Sept. 30, 1979, see section 7(d)(1), (f) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -254,9 +258,7 @@ In general.—The last sentence of section 542(a)(2) of the Internal Revenue Cod
 
 Effective date.—The provisions of paragraph (1) shall apply with respect to taxable years beginning after December 31, 1976.”
 
-#### Section Referred to in Other Sections
+<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-This section is referred to in sections 41, 56, 170, 316, 447, 465, 532, 541, 544, 562, 852, 856, 992, 1362, 1504, 2057, 6662 of this title; title 43 section 1620.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

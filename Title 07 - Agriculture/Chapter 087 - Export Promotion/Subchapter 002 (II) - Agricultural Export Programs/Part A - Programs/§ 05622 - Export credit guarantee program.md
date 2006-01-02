@@ -18,7 +18,7 @@
 
 #### (B) Authorization of appropriations
 
-&emsp;&emsp;There are authorized to be appropriated such sums as are necessary to fund the additional costs attributable to the portion ofany guarantee issued under this paragraph to cover the repayment of credit beyond the initial 180-day period.
+&emsp;&emsp;There are authorized to be appropriated such sums as are necessary to fund the additional costs attributable to the portion of any guarantee issued under this paragraph to cover the repayment of credit beyond the initial 180-day period.
 
 #### (b) Intermediate-term credit guarantees
 
@@ -104,7 +104,7 @@ The Commodity Credit Corporation shall finance or guarantee under this section o
 
 #### (j) Conditions for fish and processed fish products
 
-In making available any guarantees of credit under this section in connection with sales offish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
+In making available any guarantees of credit under this section in connection with sales of fish and processed fish products, the Secretary shall make such guarantees available under terms and conditions that are comparable to the terms and conditions that apply to guarantees provided with respect to sales of other agricultural commodities under this section.
 
 #### (k) Processed and high-value products
 
@@ -136,7 +136,7 @@ A prior section 202 of Pub. L. 95–501 enacted section 1707c of this title prio
 
 Subsec. (k)(1). Pub. L. 107–171, §3102(b), substituted “through 2007” for “, 2001, and 2002”.
 
-Subsec. (<i>l</i>). Pub. L. 107–171, §3102(c), added subsec. (<i>l</i>)
+Subsec. (<i>l</i>). Pub. L. 107–171, §3102(c), added subsec. (<i>l</i>).
 
 1996—Subsec. (a). Pub. L. 104–127, §243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -272,7 +272,7 @@ Implementation.—The Secretary shall draw on the Department of Agriculture's ex
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) to review available agricultural information resources, to determine which would be useful for the purposes of this program;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to arrange for the exchange of persons associated with such agricultural institutionsand agribusinesses with experience or interest in the areas of need identified in clause (i);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) to arrange for the exchange of persons associated with such agricultural institutions and agribusinesses with experience or interest in the areas of need identified in clause (i);
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) to help establish contacts between agricultural entrepreneurs and businesses in the United States and emerging markets, which may include individuals and entities participating in the program established under paragraph (1), to facilitate cooperation and joint enterprises; and
 

@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;(3)
 
-Downstream producer.—The term “downstream producer” means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based on an increase in imports from, or a shift in production to, Canada or Mexico.
+Downstream producer.—The term “downstream producer” means a firm that performs additional, value-added production processes for a firm or subdivision, including a firm that performs final assembly or finishing, directly for another firm (or subdivision), for articles that were the basis for a certification of eligibility under subsection (a) of this section of a group of workers employed by such other firm, if the certification of eligibility under subsection (a) of this section is based onan increase in imports from, or a shift in production to, Canada or Mexico.
 
 &emsp;(4)
 

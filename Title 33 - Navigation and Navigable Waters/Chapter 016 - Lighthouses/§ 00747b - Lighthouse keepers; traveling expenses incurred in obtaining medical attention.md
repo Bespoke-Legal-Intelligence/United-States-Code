@@ -1,6 +1,6 @@
 ### §747b. Lighthouse keepers; traveling expenses incurred in obtaining medical attention
 
-On and after February 25, 1929, the appropriation, “General expenses, Coast Guard,” shall be available, under rules prescribed by the Secretary of Transportation, for paying the actualand necessary traveling expenses of lighthouse keepers at isolated stations incurred in obtaining medical attention.
+On and after February 25, 1929, the appropriation, “General expenses, Coast Guard,” shall be available, under rules prescribed by the Secretary of Transportation, for paying the actual and necessary traveling expenses of lighthouse keepers at isolated stations incurred in obtaining medical attention.
 
 (Feb. 25, 1929, ch. 313, §1, 45 Stat. 1261; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938.)
 

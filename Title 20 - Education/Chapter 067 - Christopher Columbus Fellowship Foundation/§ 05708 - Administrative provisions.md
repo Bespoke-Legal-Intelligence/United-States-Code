@@ -36,7 +36,7 @@ Executive Level V, referred to in subsec. (a)(2), probably means level V of the 
 
 #### Codification
 
-In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for reference to section 529 of title 31,United States Code, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for reference to section 529 of title 31, United States Code, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Termination of Reporting Requirements
 

@@ -88,6 +88,7 @@
 | [1978\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001978%20-%20Reinstatement.md) | Reinstatement. |
 | [1979\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001979%20-%20Incontestability.md) | Incontestability. |
 | [1980\.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001980%20-%20Option%20to%20receive%20accelerated%20death%20benefit.md) | Option to receive accelerated death benefit. |
+| [1980A.](Subchapter%20003%20%28III%29%20-%20Servicemembers%E2%80%99%20Group%20Life%20Insurance/%C2%A7%2001980A%20-%20Traumatic%20injury%20protection.md) | Traumatic injury protection. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -107,6 +108,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2005—Pub. L. 109–13, div. A, title I, §1032(b), May 11, 2005, 119 Stat. 259, added item 1980A.
 
 1998—Pub. L. 105–368, title III, §302(a)(2), Nov. 11, 1998, 112 Stat. 3333, added item 1980.
 

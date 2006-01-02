@@ -12,7 +12,7 @@
 
 (3) If the President approves an application under paragraph (2), each Federal agency concerned shall promptly issue, in accordance with applicable law, such rights-of-way, permits, licenses, leases, certificates, or other authorizations as are necessary with respect to the establishment of the system
 
-(4) If the President denies an application under paragraph (2), the applicant shall be deemed tohave exhausted his administrative remedies and may file suit in any appropriate Federal court to challenge such decision.
+(4) If the President denies an application under paragraph (2), the applicant shall be deemed to have exhausted his administrative remedies and may file suit in any appropriate Federal court to challenge such decision.
 
 #### (b) Agency action in cases involving section 3165 or wilderness areas
 

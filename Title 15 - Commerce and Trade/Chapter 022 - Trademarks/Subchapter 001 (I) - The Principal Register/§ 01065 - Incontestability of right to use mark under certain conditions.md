@@ -2,7 +2,7 @@
 
 Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the registrant to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
 
-&emsp;(1) there has been no final decision adverse to registrant's claim of ownership of such mark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and
+&emsp;(1) there has been no final decision adverse to registrant's claim of ownership of suchmark for such goods or services, or to registrant's right to register the same or to keep the same on the register; and
 
 &emsp;(2) there is no proceeding involving said rights pending in the Patent and Trademark Office or in a court and not finally disposed of; and
 

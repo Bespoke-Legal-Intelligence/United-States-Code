@@ -20,7 +20,7 @@ There shall be established in the Treasury of the United States a noncredit acco
 
 #### (d) Priority of funds used to discharge liabilities
 
-Any payments made to discharge liabilities under investment insurance or reinsurance issued under section 2194 of this title, under similar predecessor guaranty authority, or under section 2194b of this title shall be paid first out of the noncredit account revolving fund, as long as such fund remains available, and thereafter out of funds made available pursuant to subsection (f) of this section. Any payments madeto discharge liabilities under guaranties issued under section 2194(b) of this title or 2194(c) of this title shall be paid in accordance with the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\].
+Any payments made to discharge liabilities under investment insurance or reinsurance issued under section 2194 of this title, under similar predecessor guaranty authority, or under section 2194b of this title shall be paid first out of the noncredit account revolving fund, as long as such fund remains available, and thereafter out of funds made available pursuant to subsection (f) of this section. Any payments made to discharge liabilities under guaranties issued under section 2194(b) of this title or 2194(c) of this title shall be paid in accordance with the Federal Credit Reform Act of 1990 \[2 U.S.C. 661 et seq.\].
 
 #### (e) Reserves from predecessor guaranty authority
 
@@ -58,7 +58,7 @@ Subsec. (f). Pub. L. 108–158, §3(d), substituted “noncredit account revolvi
 
 Pub. L. 106–113 substituted “November 1, 2000” for “1999”.
 
-1997—Subsec. (a). Pub. L. 105–118 added heading and text of par. (1)(A), redesignated par. (2)(B) as subpar. (B) of par. (1), redesignated par. (3) as (2) and substituted “subsections (a), (b), and (c) of section 2194 ofthis title” for “subsections (a) and (b) of section 2194 of this title” and “September 30, 1999” for “September 30, 1997”, and struck out former pars. (1) and (2)(A) which read as follows:
+1997—Subsec. (a). Pub. L. 105–118 added heading and text of par. (1)(A), redesignated par. (2)(B) as subpar. (B) of par. (1), redesignated par. (3) as (2) and substituted “subsections (a), (b), and (c) of section 2194 of this title” for “subsections (a) and (b) of section 2194 of this title” and “September 30, 1999” for “September 30, 1997”, and struck out former pars. (1) and (2)(A) which read as follows:
 
 “(1)
 
@@ -146,7 +146,7 @@ Subsec. (a)(4). Pub. L. 95–268, §4(2), substituted “September 30, 1981” f
 
 1974—Subsec. (a)(4). Pub. L. 93–390, §2(3)(A), substituted “December 31, 1977” for “December 31, 1974”.
 
-Subsec. (d). Pub. L. 93–390, §2(3)(B), substituted “insurance or reinsurance issued under section 2194 of thistitle” for “insurance issued under section 2194(a) of this title”.
+Subsec. (d). Pub. L. 93–390, §2(3)(B), substituted “insurance or reinsurance issued under section 2194 of this title” for “insurance issued under section 2194(a) of this title”.
 
 Subsec. (f). Pub. L. 93–390, §2(3)(C), inserted provisions authorizing appropriations to discharge liabilities under reinsurance or obligations of the Corporation purchased by the Secretary of the Treasury, provisions relating to appropriations to augment the Insurance Reserve, and provisions relating to the issuance, sale, etc., of notes, debentures, bonds, or other obligations by the Corporation for purchase by the Secretary of the Treasury.
 

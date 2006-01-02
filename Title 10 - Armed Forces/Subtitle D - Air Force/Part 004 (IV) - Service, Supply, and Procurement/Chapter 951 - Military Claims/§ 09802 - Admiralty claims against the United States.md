@@ -50,7 +50,3 @@ In subsection (a), the words “consider, ascertain, adjust, determine, compromi
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9806 of this title.
-

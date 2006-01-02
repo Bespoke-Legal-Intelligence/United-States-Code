@@ -18,19 +18,21 @@ Eligible Resources.—An agreement entered into under subsection (a) may provide
 
 (c)
 
-Computation of Charges.—A covered beneficiary, with respect to care provided to such beneficiary in facilities of the uniformed services under a sharing agreement entered into under subsection (a), shall pay—
-
-&emsp;(1) in the case of a dependent, the charges prescribed by section 1078 of this title; and
-
-&emsp;(2) in the case of a member or former member entitled to retired or retainer pay, the charges prescribed by section 1075 of this title.
+Computation of Charges.—A covered beneficiary who is a dependent, with respect to care provided to such beneficiary in facilities of the uniformed services under a sharing agreement entered into under subsection (a), shall pay the charges prescribed by section 1078 of this title.
 
 (d)
 
-Reimbursement for License Fees.—In any case in which it is necessary for a member of the uniformed services to pay a professional license fee imposed by a government in order to provide health care services at a facility of a civilian health care provider pursuant to an agreement entered into under subsection (a), the Secretary of Defense may reimburse the member for up to $500 of the amount of the license fee paid by the member.
+Reimbursement for License Fees.—In any case in which it is necessary for a member of the uniformed services to pay a professional license fee imposed by a government in order to provide health care services at a facility of a civilianhealth care provider pursuant to an agreement entered into under subsection (a), the Secretary of Defense may reimburse the member for up to $500 of the amount of the license fee paid by the member.
 
-(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3894; amended Pub. L. 103–337, div. A, title VII, §712, Oct. 5, 1994, 108 Stat. 2801.)
+(Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3894; amended Pub. L. 103–337, div. A, title VII, §712, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 108–375, div. A, title VI, §607(b), Oct. 28, 2004, 118 Stat. 1946.)
 
 #### Amendments
+
+2004—Subsec. (c). Pub. L. 108–375 inserted “who is a dependent” after “covered beneficiary” and substituted “shall pay the charges prescribed by section 1078 of this title.” for “shall pay—
+
+&emsp;“(1) in the case of a dependent, the charges prescribed by section 1078 of this title; and
+
+&emsp;“(2) in the case of a member or former member entitled to retired or retainer pay, the charges prescribed by section 1075 of this title.”
 
 1994—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 

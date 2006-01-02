@@ -32,7 +32,3 @@ Subsec. (c). Pub. L. 105–206, §3442(a)(2), added subsec. (c).
 
 Pub. L. 105–206, title III, §3442(b), July 22, 1998, 112 Stat. 762, provided that: “The amendments made by this section \[amending this section\] shall apply to seizures occurring after the date of the enactment of this Act \[July 22, 1998\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6337 of this title.
-

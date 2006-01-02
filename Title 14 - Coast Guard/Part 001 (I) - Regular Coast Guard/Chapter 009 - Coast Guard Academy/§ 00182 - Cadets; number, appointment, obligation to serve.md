@@ -38,7 +38,9 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (b) only with the consent of the parent or guardian.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, §5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, §1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, §1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, §1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, §2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, §12, Sept. 28, 1988, 102 Stat. 1843.)
+(g) A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of section 303a(e) of title 37.
+
+(Aug. 4, 1949, ch. 393, 63 Stat. 508; Pub. L. 88–276, §5(b), Mar. 3, 1964, 78 Stat. 153; Pub. L. 89–444, §1(8), June 9, 1966, 80 Stat. 195; Pub. L. 91–278, §1(4), June 12, 1970, 84 Stat. 304; Pub. L. 94–572, §1, Oct. 21, 1976, 90 Stat. 2708; Pub. L. 97–295, §2(8), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 100–448, §12, Sept. 28, 1988, 102 Stat. 1843; Pub. L. 109–163, div. A, title VI, §687(d), Jan. 6, 2006, 119 Stat. 3336.)
 
 #### Historical and Revision Notes
 
@@ -53,6 +55,8 @@ The length of term of service as a cadet prior to graduation is added to the lis
 The period of required service after graduation is increased from 3 to 4 years, to attain uniformity with the other service academies. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+2006—Subsec. (g). Pub. L. 109–163 added subsec. (g).
 
 1988—Subsec. (a). Pub. L. 100–448, §12(1), struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
 
@@ -71,4 +75,8 @@ Subsecs. (b) to (f). Pub. L. 100–448, §12(2), added subsecs. (b) to (f) and s
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 
 Amendment by Pub. L. 88–276 effective only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after Mar. 3, 1964, see section 5(c) of Pub. L. 88–276, set out as a note under section 4348 of Title 10, Armed Forces.
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(d) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 

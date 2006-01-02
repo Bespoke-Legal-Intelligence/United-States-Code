@@ -1,22 +1,22 @@
 ### §1159. Adjustment of status of refugees
 
-#### (a) Criteria and procedures applicable for admission as immigrant; effect of adjustment
+#### (a) Inspection and examination by Department of Homeland Security
 
 (1) Any alien who has been admitted to the United States under section 1157 of this title—
 
-&emsp;(A) whose admission has not been terminated by the Attorney General pursuant to such regulations as the Attorney General may prescribe,
+&emsp;(A) whose admission has not been terminated by the Secretary of Homeland Security or the Attorney General pursuant to such regulations as the Secretary of Homeland Security or the Attorney General may prescribe,
 
 &emsp;(B) who has been physically present in the United States for at least one year, and
 
 &emsp;(C) who has not acquired permanent resident status,
 
-> shall, at the end of such year period, return or be returned to the custody of the Service for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1229a, and 1231 of this title.
+> shall, at the end of such year period, return or be returned to the custody of the Department of Homeland Security for inspection and examination for admission to the United States as an immigrant in accordance with the provisions of sections 1225, 1229a, and 1231 of this title.
 
 (2) Any alien who is found upon inspection and examination by an immigration officer pursuant to paragraph (1) or after a hearing before an immigration judge to be admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of the alien's inspection and examination shall, notwithstanding any numerical limitation specified in this chapter, be regarded as lawfully admitted to the United States for permanent residence as of the date of such alien's arrival into the United States.
 
-#### (b) Maximum number of adjustments; recordkeeping
+#### (b) Requirements for adjustment
 
-Not more than 10,000 of the refugee admissions authorized under section 1157(a) of this title in any fiscal year may be made available by the Attorney General, in the Attorney General's discretion and under such regulations as the Attorney General may prescribe, to adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—
+The Secretary of Homeland Security or the Attorney General, in the Secretary's or the Attorney General's discretion and under such regulations as the Secretary or the Attorney General may prescribe, may adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—
 
 &emsp;(1) applies for such adjustment,
 
@@ -28,15 +28,25 @@ Not more than 10,000 of the refugee admissions authorized under section 1157(a) 
 
 &emsp;(5) is admissible (except as otherwise provided under subsection (c) of this section) as an immigrant under this chapter at the time of examination for adjustment of such alien.
 
-> Upon approval of an application under this subsection, the Attorney General shall establish a record of the alien's admission for lawful permanent residence as of the date one year before the date of the approval of the application.
+> Upon approval of an application under this subsection, the Secretary of Homeland Security or the Attorney General shall establish a record of the alien's admission for lawful permanent residence as of the date one year before the date of the approval of the application.
 
-#### (c) Applicability of other Federal statutory requirements
+#### (c) Coordination with section 1182
 
-The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
+The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Secretary of Homeland Security or the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645; Pub. L. 109–13, div. B, title I, §101(g)(1), May 11, 2005, 119 Stat. 305.)
 
 #### Amendments
+
+2005—Subsec. (a)(1). Pub. L. 109–13, §101(g)(1)(A)(i), substituted “Department of Homeland Security” for “Service” in concluding provisions.
+
+Subsec. (a)(1)(A). Pub. L. 109–13, §101(g)(1)(A)(ii), substituted “Secretary of Homeland Security or the Attorney General” for “Attorney General” in two places.
+
+Subsec. (b). Pub. L. 109–13, §101(g)(1)(B)(ii), substituted “Secretary of Homeland Security or the Attorney General” for “Attorney General” in concluding provisions.
+
+Pub. L. 109–13, §101(g)(1)(B)(i), added introductory provisions and struck out former introductory provisions which read as follows: “Not more than 10,000 of the refugee admissions authorized under section 1157(a) of this title in any fiscal year may be made available by the Attorney General, in the Attorney General's discretion and under such regulations as the Attorney General may prescribe, to adjust to the status of an alien lawfully admitted for permanent residence the status of any alien granted asylum who—”.
+
+Subsec. (c). Pub. L. 109–13, §101(g)(1)(C), substituted “Secretary of Homeland Security or the Attorney General” for “Attorney General”.
 
 1996—Subsec. (a)(1). Pub. L. 104–208, §308(g)(3)(A), (4)(A), substituted “1229a” for “1226” and “1231” for “1227” in concluding provisions.
 
@@ -78,7 +88,7 @@ Section 104(c), (d) of Pub. L. 101–649, as amended by Pub. L. 104–208, div. 
 
 “(c)
 
-Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted under section 209(b) of the Immigration and Nationality Act\[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
+Waiver of Numerical Limitation for Certain Current Asylees.—The numerical limitation on the number of aliens whose status may be adjusted under section 209(b) of the Immigration and Nationality Act \[8 U.S.C. 1159(b)\] shall not apply to an alien described in subsection (d) or to an alien who has applied for adjustment of status under such section on or before June 1, 1990.
 
 “(d)
 

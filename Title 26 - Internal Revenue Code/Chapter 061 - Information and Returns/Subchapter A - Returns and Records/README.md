@@ -17,10 +17,6 @@
 
 1966—Pub. L. 89–809, title III, §302(b), Nov. 13, 1966, 80 Stat. 1588, added item VIII.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 6103, 6651 of this title.
-
 
 ---
 

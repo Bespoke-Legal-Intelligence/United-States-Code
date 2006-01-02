@@ -1,6 +1,6 @@
 ### §533. Service credit upon original appointment as a commissioned officer
 
-(a)(1) For the purpose of determining the grade and rank within grade of a person receiving an original appointment in a commissioned grade (other than a warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, orRegular Marine Corps, such person shall be credited at the time of such appointment with any active commissioned service (other than service as a commissioned warrant officer) that he performed in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service before such appointment.
+(a)(1) For the purpose of determining the grade and rank within grade of a person receiving an original appointment in a commissioned grade (other than a warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, such person shall be credited at the time of such appointment with any active commissioned service (other than service as a commissioned warrant officer) that he performed in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service before such appointment.
 
 (2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, to authorize the Secretary of the military department concerned to limit the amount of prior active commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b).
 
@@ -12,7 +12,7 @@
 
 &emsp;(ii) Credit for experience in a health profession (other than medicine or dentistry), if such experience will be directly used by the armed force concerned.
 
-&emsp;(C) Additional credit of (i) not more than one year for internship or equivalent graduate medical, dental, or other formal professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a specialty required by the armed forces.
+&emsp;(C) Additional credit of (i) not more than one year for internship or equivalent graduatemedical, dental, or other formal professional training required by the armed forces, and (ii) not more than one year for each additional year of such graduate-level training or experience creditable toward certification in a specialty required by the armed forces.
 
 &emsp;(D) Additional credit, in unusual cases, based on special experience in a particular field.
 
@@ -36,7 +36,7 @@
 
 (e) If the Secretary of Defense determines that the number of qualified judge advocates serving on active duty in the Army, Navy, Air Force, or Marine Corps in grades below major or lieutenant commander is critically below the number needed by such armed force in such grades, he may authorize the Secretary of the military department concerned to credit any person receiving an original appointment in the Judge Advocate General's Corps of the Army or Navy, or any person receiving an original appointment in the Air Force or Marine Corps with a view to designation as a judge advocate, with a period of constructive service in such an amount (in addition to any period of service credited such person under subsection (b)(1)) as will result in the grade of such person being that of captain or, in the case of an officer of the Navy, lieutenant and the date of rank of such person being junior to that of all other officers of the same grade serving on active duty.
 
-(f) A reserve officer (other than a warrant officer) who receives an original appointment as an officer (other than as a warrant officer) in theRegular Army, Regular Navy, Regular Air Force, or Regular Marine Corps shall—
+(f) A reserve officer (other than a warrant officer) who receives an original appointment as an officer (other than as a warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps shall—
 
 &emsp;(1) in the case of an officer on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank held by the officer on the active-duty list immediately before the appointment; and
 
@@ -71,8 +71,4 @@ Section 509(e) of Pub. L. 103–160 provided that: “To the extent that service
 #### Transition Provision Under Defense Officer Personnel Management Act
 
 For savings provision relating to constructive service previously granted, see section 625 of Pub. L. 96–513, set out as a note under section 611 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 531, 603 of this title; title 33 section 3071.
 

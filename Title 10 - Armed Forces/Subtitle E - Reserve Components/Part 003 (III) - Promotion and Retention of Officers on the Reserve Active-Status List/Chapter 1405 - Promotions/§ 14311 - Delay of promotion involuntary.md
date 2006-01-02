@@ -26,7 +26,7 @@ Notice to Officer.—(1) The appointment of an officer to a higher grade may not
 
 (d)
 
-Maximum Length of Delay in Promotion.—The appointment of an officer to a higher grade may not be delayed under subsection (a) or (b) for more than six months after the date on which the officer would otherwise have been promoted unless the Secretary concerned specifies a further period of delay. An officer's appointment may not be delayed more than 90 days after final action has been taken in any criminal case against the officer in a Federal or State court of competent jurisdiction or more than 90 days after final action has been taken in any court-martial case against the officer. Except for court action, a promotion maynot be delayed more than 18 months after the date on which the officer would otherwise have been promoted.
+Maximum Length of Delay in Promotion.—The appointment of an officer to a higher grade may not be delayed under subsection (a) or (b) for more than six months after the date on which the officer would otherwise have been promoted unless the Secretary concerned specifies a further period of delay. An officer's appointment may not be delayed more than 90 days after final action has been taken in any criminal case against the officer in a Federal or State court of competent jurisdiction or more than 90 days after final action has been taken in any court-martial case against the officer. Except for court action, a promotion may not be delayed more than 18 months after the date on which the officer would otherwise have been promoted.
 
 (e)
 
@@ -57,8 +57,4 @@ Section 1684(a) of title XVI of div. A of Pub. L. 103–337 provided that:
 “(1) A delay in a promotion that is in effect on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\] under the laws and regulations in effect on that date shall continue in effect on and after that date as if the promotion had been delayed under section 14311 of title 10, United States Code, as added by this title.
 
 “(2) The delay of the promotion of a reserve officer of the Army or the Air Force which was in effect solely to achieve compliance with limitations set out in section 524 of title 10, United States Code, or with regulations prescribed by the Secretary of Defense with respect to sections 3380(c) and 8380(c) of title 10, United States Code, as in effect on the day before the effective date of this title, shall continue in effect as if the promotion had been delayed under section 14311(e) of such title, as added by this title.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14308, 14316 of this title.
 

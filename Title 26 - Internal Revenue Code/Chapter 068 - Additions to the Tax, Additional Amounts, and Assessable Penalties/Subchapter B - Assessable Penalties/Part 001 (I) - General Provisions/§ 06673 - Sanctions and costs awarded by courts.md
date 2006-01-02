@@ -18,9 +18,9 @@
 
 &emsp;Whenever it appears to the Tax Court that any attorney or other person admitted to practice before the Tax Court has multiplied the proceedings in any case unreasonably and vexatiously, the Tax Court may require—
 
-&emsp;&emsp;(A) that such attorney or other person pay personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct, or
+&emsp;&emsp;(A) that such attorney or other person pay personally the excess costs, expenses, andattorneys’ fees reasonably incurred because of such conduct, or
 
-&emsp;&emsp;(B) if such attorney is appearing on behalf of the Commissioner of Internal Revenue,that the United States pay such excess costs, expenses, and attorneys’ fees in the same manner as such an award by a district court.
+&emsp;&emsp;(B) if such attorney is appearing on behalf of the Commissioner of Internal Revenue, that the United States pay such excess costs, expenses, and attorneys’ fees in the same manner as such an award by a district court.
 
 #### (b) Proceedings in other courts
 
@@ -67,8 +67,4 @@ Section 1552(b) of Pub. L. 99–514 provided that: “The amendment made by subs
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–248 applicable to any action or proceeding in the Tax Court commenced after Dec. 31, 1982, or pending in the Tax Court on the day 120 days after July 18, 1984, see section 292(e)(2) of Pub. L. 97–248, as amended, set out as an Effective Date note under section 7430 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6215, 7459 of this title.
 

@@ -14,7 +14,7 @@
 
 &emsp;(II) Whether the case is so unusual or so complex, due to the number of defendants, the nature of the prosecution, or the existence of novel questions of fact or law, that it is unreasonable to expect adequate briefing within the time limitations established by subparagraph (A).
 
-&emsp;(III) Whether the failure to allow a delay in a case that, taken as a whole, is not so unusual or so complex as described in subclause (II), but would otherwise deny the applicant reasonable time to obtain counsel, would unreasonably deny the applicant or the government continuity of counsel, or would deny counsel for the applicant or the government the reasonable time necessary for effective preparation, taking into account the exercise of due diligence.
+&emsp;(III) Whether the failure to allow a delay in a case that, taken as a whole, is not so unusual or so complex as described in subclause (II), but would otherwise deny the applicant reasonable time to obtain counsel, would unreasonably deny the applicant or the government continuity of counsel, or would deny counsel for the applicant or the government the reasonable time necessary for effectivepreparation, taking into account the exercise of due diligence.
 
 (iii) No delay in disposition shall be permissible because of general congestion of the court's calendar.
 

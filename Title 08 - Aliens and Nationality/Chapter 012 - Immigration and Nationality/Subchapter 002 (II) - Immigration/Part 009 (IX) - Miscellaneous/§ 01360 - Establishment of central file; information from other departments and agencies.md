@@ -30,7 +30,7 @@ Subsec. (c). Pub. L. 104–208, §414(a), amended subsec. (c) generally. Prior t
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(d)(4)(M) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(d)(4)(M) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
@@ -38,5 +38,5 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Fraudulent Use of Social Security Account Numbers
 
-Pub. L. 104–208, div. C, title IV, §414(b), Sept. 30, 1996, 110 Stat. 3009–669, as amended by Pub. L. 108–156, §3(d), Dec. 3, 2003, 117 Stat. 1945, directed the Commissioner of Social Security to transmit to the Secretary of Homeland Security, by not later than 1 year after Sept. 30, 1996, a report on the extent to which social security account numbers and cards were used by aliens for fraudulent purposes.
+Pub. L. 104–208, div. C, title IV, §414(b), Sept. 30, 1996, 110 Stat. 3009–669, as amended by Pub. L. 108–156, §3(d),Dec. 3, 2003, 117 Stat. 1945, directed the Commissioner of Social Security to transmit to the Secretary of Homeland Security, by not later than 1 year after Sept. 30, 1996, a report on the extent to which social security account numbers and cards were used by aliens for fraudulent purposes.
 

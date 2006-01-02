@@ -14,7 +14,7 @@ Premium.—A member of a uniformed service entitled to career sea pay under this
 
 (d)
 
-Regulations.—The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armed forces under the jurisdiction of the Secretary. The entitlements under this section shall be subject to the regulations.
+Regulations.—The Secretary concerned shall prescribe regulations for the administration of this section for the armed force or armed forces under the jurisdiction of the Secretary.The entitlements under this section shall be subject to the regulations.
 
 (e)
 

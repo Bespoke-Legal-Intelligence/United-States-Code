@@ -14,7 +14,7 @@ Duress.—The defendant was under unusual and substantial duress, regardless of 
 
 &emsp;(3)
 
-Minor participation.—The defendant is punishable as a principal in the offense, whichwas committed by another, but the defendant's participation was relatively minor, regardless of whether the participation was so minor as to constitute a defense to the charge.
+Minor participation.—The defendant is punishable as a principal in the offense, which was committed by another, but the defendant's participation was relatively minor, regardless of whether the participation was so minor as to constitute a defense to the charge.
 
 &emsp;(4)
 
@@ -60,7 +60,7 @@ Aggravating Factors for Homicide.—In determining whether a sentence of death i
 
 &emsp;(1)
 
-Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 (wrecking trains), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
+Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 (wreckingtrains), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
 
 &emsp;(2)
 
@@ -146,7 +146,7 @@ Aggravating Factors for Drug Offense Death Penalty.—In determining whether a s
 
 &emsp;(1)
 
-Previous conviction of offense for which a sentence of death or life imprisonment was authorized.—The defendant has previously been convicted of another Federal or State offense resulting in the death of a person, for which a sentence of life imprisonment or death was authorized by statute.
+Previous conviction of offense for which a sentence of death or life imprisonment was authorized.—The defendant haspreviously been convicted of another Federal or State offense resulting in the death of a person, for which a sentence of life imprisonment or death was authorized by statute.
 
 &emsp;(2)
 
@@ -178,7 +178,7 @@ Lethal adulterant.—The offense involved the importation, manufacture, or distr
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII,§728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810.)
+(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, §728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### References in Text
 

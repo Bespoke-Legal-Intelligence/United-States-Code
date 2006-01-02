@@ -102,7 +102,3 @@ July 2, 1942, ch. 477, §1, 56 Stat. 628.
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1051, 2165 of this title.
-

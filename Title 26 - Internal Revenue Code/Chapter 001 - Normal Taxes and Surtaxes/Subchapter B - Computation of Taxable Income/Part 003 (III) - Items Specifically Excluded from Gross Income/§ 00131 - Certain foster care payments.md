@@ -78,7 +78,7 @@ A prior section 131 was renumbered section 140 of this title.
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–147, §404(a), amended provisions preceding subpar. (B) generally. Prior to amendment, text of such provisions read as follows: “The term ‘qualified foster care payment’ means any amount—
+2002—Subsec. (b)(1). Pub. L. 107–147, §404(a), amended provisions preceding subpar. (B) generally. Prior toamendment, text of such provisions read as follows: “The term ‘qualified foster care payment’ means any amount—
 
 &emsp;“(A) which is paid by a State or political subdivision thereof or by a placement agency which is described in section 501(c)(3) and exempt from tax under section 501(a), and”.
 
@@ -108,7 +108,7 @@ Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment,
 
 &emsp;&emsp;“(ii) an organization which is licensed by a State (or political subdivision thereof) as a child-placing agency and which is described in section 501(c)(3) and exempt from tax under section 501(a).”
 
-Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, in par. (1)(A), substituted references to “qualified foster individual”, “such individual”, and “foster care provider” for references to “qualified foster child”, “such child”, and “foster parent”, respectively, and in par. (2) substituted “more than (A) 10 qualified foster individuals who have not attained age 19, and (B) 5 qualified foster individuals not describedin subparagraph (A)” for “more than 10 qualified foster children”.
+Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, in par. (1)(A), substituted references to “qualified foster individual”, “such individual”, and “foster care provider” for references to “qualified foster child”, “such child”, and “foster parent”, respectively, and in par. (2) substituted “more than (A) 10 qualified foster individuals who have not attained age 19, and (B) 5 qualified foster individuals not described in subparagraph (A)” for “more than 10 qualified foster children”.
 
 #### Effective Date of 2002 Amendment
 

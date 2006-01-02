@@ -44,7 +44,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(8) provides that the State agency will furnish such reports, containing such information, and participate in such evaluations, as the Secretary may require; and
 
-&emsp;(9) contains assurances that in administering and conducting service programs under theplan, the safety of the children to be served shall be of paramount concern.
+&emsp;(9) contains assurances that in administering and conducting service programs under the plan, the safety of the children to be served shall be of paramount concern.
 
 #### (b) Approval of plans
 
@@ -60,7 +60,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (B) Special rule
 
-&emsp;&emsp;Notwithstanding subparagraph (A) of this paragraph, the Secretary may not approve a plan of an Indian tribe under this subpart to which (but for this subparagraph) an allotment of less than $10,000 would be made under section 629c(a) of this title if allotments were made under section 629c(a) of this title to all Indian tribes with plans approved under this subpart with the same or larger numbers of children.
+&emsp;&emsp;Notwithstanding subparagraph (A) of this paragraph, the Secretary may not approve a plan of an Indian tribe under this subpart to which (but for this subparagraph) an allotment of less than $10,000 would be made under section 629c(a) of this title if allotments were made under section 629c(a) ofthis title to all Indian tribes with plans approved under this subpart with the same or larger numbers of children.
 
 (Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673.)
 

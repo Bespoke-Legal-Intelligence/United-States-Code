@@ -104,11 +104,11 @@ Labeling.—On and after January 1, 1991, a manufacturer selling or offering for
 
 “(e)
 
-Notification.—Effective on and after July 1, 1991, all manufacturers of automatic residential garage door openers shall, in consultation with the Consumer Product Safety Commission, notify the public of the potential for entrapment by garage doors equipped with automatic garage door openers and advise the public to test their openers for the entrapment protection feature or device required by subsection (b).
+Notification.—Effective on and after July 1, 1991, all manufacturers of automatic residential garage door openers shall, in consultation with the Consumer Product Safety Commission, notify the public of thepotential for entrapment by garage doors equipped with automatic garage door openers and advise the public to test their openers for the entrapment protection feature or device required by subsection (b).
 
 “(f)
 
-Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associatedwith automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
+Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
 
 “(g)
 

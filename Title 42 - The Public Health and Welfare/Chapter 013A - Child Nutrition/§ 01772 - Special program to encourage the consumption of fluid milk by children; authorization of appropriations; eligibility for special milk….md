@@ -10,7 +10,7 @@
 
 (5) Any school or nonprofit child care institution which does not participate in a meal service program authorized under this chapter or the Richard B. Russell National School Lunch Act shall receive the special milk program upon its request.
 
-(6) Children who qualify for free lunches under guidelines set forth by the Secretary shall, at the option of the school involved (or of the localeducational agency involved in the case of a public school) be eligible for free milk upon their request.
+(6) Children who qualify for free lunches under guidelines set forth by the Secretary shall, at the option of the school involved (or of the local educational agency involved in the case of a public school) be eligible for free milk upon their request.
 
 (7) For the fiscal year ending June 30, 1975, and for subsequent school years, the minimum rate of reimbursement for a half-pint of milk served in schools and other eligible institutions shall not be less than 5 cents per half-pint served to eligible children, and such minimum rate of reimbursement shall be adjusted on an annual basis each school year to reflect changes in the Producer Price Index for Fresh Processed Milk published by the Bureau of Labor Statistics of the Department of Labor.
 

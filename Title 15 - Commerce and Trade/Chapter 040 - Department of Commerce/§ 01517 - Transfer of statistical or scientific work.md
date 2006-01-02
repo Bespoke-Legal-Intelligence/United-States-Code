@@ -34,7 +34,7 @@ Pub. L. 98–52, title II, §202, July 15, 1983, 97 Stat. 285, as amended by Pub
 
 Pub. L. 97–324, title II, §201, Oct. 15, 1982, 96 Stat. 1601, as amended by Pub. L. 98–365, title VI, §608, July 17, 1984, 98 Stat. 466; Pub. L. 103–437, §5(b)(2), Nov. 2, 1994, 108 Stat. 4582, provided that:
 
-“(a) The Secretary of Commerce is authorized to plan and provide for the management and operation of civil remote-sensing space systems, which may include the Landsat 4 and 5 satellites and associated ground system equipment transferred from the National Aeronauticsand Space Administration; to provide for user fees; and to plan for the transfer of the operation of civil remote-sensing space systems to the private sector when in the national interest.
+“(a) The Secretary of Commerce is authorized to plan and provide for the management and operation of civil remote-sensing space systems, which may include the Landsat 4 and 5 satellites and associated ground system equipment transferred from the National Aeronautics and Space Administration; to provide for user fees; and to plan for the transfer of the operation of civil remote-sensing space systems to the private sector when in the national interest.
 
 “(b)(1) As part of his planning for the transfer of the ownership and operation of civil operational land remote sensing satellite systems to the private sector the Secretary shall—
 

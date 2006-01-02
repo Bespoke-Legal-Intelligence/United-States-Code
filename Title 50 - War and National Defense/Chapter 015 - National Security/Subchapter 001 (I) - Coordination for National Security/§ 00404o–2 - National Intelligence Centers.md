@@ -16,7 +16,7 @@ The Director of National Intelligence shall, to the extent appropriate and pract
 
 #### (d) Mission of centers
 
-Pursuant to the direction of the Director of National Intelligence, each national intelligence center under subsection (a) of this section may, in the area of intelligence responsibility assigned to such center—
+Pursuant to the direction of the Director of National Intelligence, each national intelligence center under subsection (a) of this section may,in the area of intelligence responsibility assigned to such center—
 
 &emsp;(1) have primary responsibility for providing all-source analysis of intelligence based upon intelligence gathered both domestically and abroad;
 
@@ -43,6 +43,8 @@ The Director of National Intelligence shall, as appropriate, include in the Nati
 (July 26, 1947, ch. 343, title I, §119B, as added Pub. L. 108–458, title I, §1023, Dec. 17, 2004, 118 Stat. 3676.)
 
 #### Effective Date
+
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

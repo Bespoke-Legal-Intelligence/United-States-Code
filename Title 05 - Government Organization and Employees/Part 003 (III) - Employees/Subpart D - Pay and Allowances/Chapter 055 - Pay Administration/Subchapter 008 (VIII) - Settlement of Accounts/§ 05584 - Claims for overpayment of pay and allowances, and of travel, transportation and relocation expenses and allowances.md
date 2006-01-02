@@ -42,9 +42,11 @@
 
 &emsp;(4) the Office of the Architect of the Capitol;
 
-&emsp;(5) the Botanic Garden; and
+&emsp;(5) the Botanic Garden;
 
-&emsp;(6) the Administrative Office of the United States Courts, the Federal Judicial Center, and any of the courts set forth in section 610 of title 28.
+&emsp;(6) the Administrative Office of the United States Courts, the Federal Judicial Center, and any of the courts set forth in section 610 of title 28; and
+
+&emsp;(7) the Congressional Budget Office.
 
 > For purposes of this section, the Director of the Administrative Office of the United States Courts shall be the head of the agency in the case of those entities set forth in paragraph (6) of this subsection.
 
@@ -54,9 +56,11 @@
 
 &emsp;(2) the Director of the Office of Management and Budget, with respect to any other agency or employee.
 
-(Added Pub. L. 90–616, §1(a), Oct. 21, 1968, 82 Stat. 1212; amended Pub. L. 92–453, §3(1), Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–359, §1, July 25, 1974, 88 Stat. 393; Pub. L. 96–54, §2(a)(35), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–224, §1(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–702, title X, §1009(a), Nov. 19, 1988, 102 Stat. 4667; Pub. L. 102–190, div. A, title VI, §657(a), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §103(d), Oct. 19, 1996, 110 Stat. 3828.)
+(Added Pub. L. 90–616, §1(a), Oct. 21, 1968, 82 Stat. 1212; amended Pub. L. 92–453, §3(1), Oct. 2, 1972, 86 Stat. 760; Pub. L. 93–359, §1, July 25, 1974, 88 Stat. 393; Pub. L. 96–54, §2(a)(35), Aug. 14, 1979, 93 Stat. 383; Pub. L. 99–224, §1(a), Dec. 28, 1985, 99 Stat. 1741; Pub. L. 100–702, title X, §1009(a), Nov. 19, 1988, 102 Stat. 4667; Pub. L. 102–190, div. A, title VI, §657(a), Dec. 5, 1991, 105 Stat. 1393; Pub. L. 104–316, title I, §103(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 109–55, title I, §1100(a), Aug. 2, 2005, 119 Stat. 577.)
 
 #### Amendments
+
+2005—Subsec. (g)(7). Pub. L. 109–55 added par. (7) in subsec. (g) defining “agency”.
 
 1996—Subsec. (a). Pub. L. 104–316, §103(d)(1), in par. (1) substituted “authorized official” for “Comptroller General of the United States”, and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “authorized official” for “Comptroller General”, and struck out former subpar. (B) which read as follows: “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable official; and”.
 
@@ -89,6 +93,10 @@ Subsec. (g). Pub. L. 93–359, §1(5), added subsec. (g).
 Subsec. (b)(2). Pub. L. 92–453 inserted “if application for waiver is received in his office” in cl. (2), and substituted “October 21, 1968” for “the effective date of this section.”
 
 Subsec. (b)(3). Pub. L. 92–453 added cl. (3).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–55, title I, §1100(b), Aug. 2, 2005, 119 Stat. 577, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2006 and each succeeding fiscal year.”
 
 #### Effective Date of 1996 Amendment
 

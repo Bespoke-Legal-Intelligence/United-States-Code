@@ -14,7 +14,7 @@ Based on sections 29, 72, 74, 80h, 103, 104, 117h, 117j, 132, 132a, 133, 175, 17
 
 Section consolidates provisions of sections 29, 72, 74, 80h, 103, 104, 117h, 117j, 132, 132a, 133, 175, 176, 198h, 198j, 204h, 204j, 256f, 256h, 379, 380, 395h, 395j, 403c–9, 403c–11, 403h–7, 403h–9, 404c–7, 404c–9, 408<i>o</i> and 408q of title 16, Conservation, relating to salary and fees of park commissioners with changes in arrangement and phraseology necessary to effect consolidation.
 
-The provisions of some of these sections that the park commissioner should be “paid an annual salary, as appropriated for by Congress, payable quarterly” were rewritten upon advice of the Judicial Conference Committee on the Revision of the Judicial Code appointed by the Chief Justice of the United States, in order to place administration supervision of commissioners upon the district court and the Judicial Conference of the United States.
+The provisions of some of these sections that the park commissioner should be “paid an annual salary, as appropriated for by Congress, payable quarterly”were rewritten upon advice of the Judicial Conference Committee on the Revision of the Judicial Code appointed by the Chief Justice of the United States, in order to place administration supervision of commissioners upon the district court and the Judicial Conference of the United States.
 
 The provisions of some of these sections for deposit of fees, costs, expenses, fines, and penalties with the clerk of district court were rewritten to provide merely that he shall account for the same as public moneys.
 
@@ -22,7 +22,7 @@ The provisions of some of these sections with reference to salaries of the Unite
 
 #### Senate Revision Amendment
 
-As finally enacted, section 158d of title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §4, 61Stat. 91, 92, was an additional source of this section and was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+As finally enacted, section 158d of title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §4, 61 Stat. 91, 92, was an additional source of this section and was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
 #### Amendments
 

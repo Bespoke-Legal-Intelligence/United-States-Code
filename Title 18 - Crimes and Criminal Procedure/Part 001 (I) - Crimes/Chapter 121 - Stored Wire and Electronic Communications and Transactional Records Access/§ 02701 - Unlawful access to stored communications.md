@@ -40,7 +40,7 @@ Exceptions.—Subsection (a) of this section does not apply with respect to cond
 
 #### Amendments
 
-2002—Subsec. (b)(1). Pub. L. 107–296, §225(j)(2)(A), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
+2002—Subsec. (b)(1). Pub. L. 107–296, §225(j)(2)(A), in introductory provisions, inserted “, or in furtheranceof any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
 
 Subsec. (b)(1)(A). Pub. L. 107–296, §225(j)(2)(B), substituted “5 years” for “one year”.
 
@@ -56,7 +56,7 @@ Subsec. (b)(2). Pub. L. 103–322, §330016(1)(K), substituted “under this tit
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 

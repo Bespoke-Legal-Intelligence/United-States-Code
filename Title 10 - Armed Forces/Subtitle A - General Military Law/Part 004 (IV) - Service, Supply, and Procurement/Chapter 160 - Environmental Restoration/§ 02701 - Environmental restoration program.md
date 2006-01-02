@@ -10,7 +10,7 @@ In general.—The Secretary of Defense shall carry out a program of environmenta
 
 &emsp;(2)
 
-Application of section 120 of cercla.—Activities of the program described in subsection (b)(1) shall be carried out subject to, and in a manner consistent with, section 120 (relating to Federal facilities) of CERCLA.
+Application of section 120 of cercla.—Activities of the program described in subsection (b)(1) shall be carried out subject to, and in a manner consistent with, section 120 (relating to Federal facilities) of CERCLA (42 U.S.C. 9620).
 
 &emsp;(3)
 
@@ -46,7 +46,7 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 
 &emsp;(2)
 
-Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 of CERCLA (relating to settlements).
+Other responsible parties.—Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA (42 U.S.C. 9622).
 
 &emsp;(3)
 
@@ -58,7 +58,7 @@ Services of Other Entities.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, or organization to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
+In general.—Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, any owner of covenant property, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, owner, or organization to assist the Secretary in carrying out any of the Secretary's responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary's jurisdiction.
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ Cross-fiscal year agreements.—An agreement with an agency under paragraph (1) 
 
 &emsp;(3)
 
-Limitation on reimbursable agreements.—An agreement with an agency under paragraph (1) may not provide for reimbursement of the agency for regulatory enforcement activities.
+Limitation on reimbursable agreements.—An agreement with an agency under paragraph (1) may not provide for reimbursement of the agency for regulatory enforcement activities. An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.
 
 &emsp;(4)
 
@@ -76,9 +76,15 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(B) The term “nonprofit conservation organization” means any non-governmental nonprofit organization whose primary purpose is conservation of open space or natural resources.
 
+&emsp;&emsp;(C) The term “owner of covenant property” means an owner of property subject to a covenant provided by the United States in accordance with the requirements of paragraphs (3) and (4) of section 120(h) of CERCLA (42 U.S.C. 9620(h)), so long as the covenant property is the site at which the services procured under paragraph (1) are to be performed.
+
+&emsp;(5)
+
+Savings clause.—Nothing in this subsection affects the applicability of section 120 of CERCLA (42 U.S.C. 6920) <sup>1</sup> to the Department of Defense or the obligations and responsibilities of the Department of Defense under subsection (h) of such section.
+
 (e)
 
-Response Action Contractors.—The provisions of section 119 of CERCLA apply to response action contractors (as defined in that section) who carry out response actions under this section.
+Response Action Contractors.—The provisions of section 119 of CERCLA (42 U.S.C. 9619) apply to response action contractors (as defined in that section) who carry out response actions under this section.
 
 (f)
 
@@ -86,7 +92,7 @@ Use of Appropriated Funds at Former DOD Sites.—Appropriations available to the
 
 (g)
 
-Removal of Unsafe Buildings and Debris Before Release From Federal Control.—In the case of property formerly used by the Department of Defense which is to be released from Federal Government control and at which there are unsafe buildings or debris of the Department of Defense, all actions necessary to comply with regulations of the General Services Administration on the transfer of property in a safe condition shall be completed before the property is released from Federal Government control, except in the case of property to be conveyed to an entity of State or local government or to a native corporation.
+Removal of Unsafe Buildings and Debris Before Release From Federal Control.—In the case of property formerly used by the Department of Defense which is to be released from Federal Government control and at which there are unsafe buildings or debris of the Department of Defense, all actions necessary to comply with regulations of the General Services Administration on the transfer of property in a safe condition shall be completed before the property is released from Federal Government control, except in the case of property to be conveyed to anentity of State or local government or to a native corporation.
 
 (h)
 
@@ -116,21 +122,19 @@ Nonpreemption.—Nothing in this section shall be construed as preempting, limit
 
 Applicability.—(1) Subsections (h) and (i) shall not apply to bonds executed before December 5, 1991.
 
-(2) Subsections (h) and (i) shall not apply to bonds to which section 119(g) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9619(g)) applies.
+(2) Subsections (h) and (i) shall not apply to bonds to which section 119(g) of CERCLA (42 U.S.C. 9619(g)) applies.
 
 (k) UXO
 
-Program Manager.—(1) The Secretary of Defense shall establish a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 <sup>1</sup> of this title) that pose a threat to human health or safety.
+Program Manager.—(1) The Secretary of Defense shall establish a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710 <sup>2</sup> of this title) that pose a threat to human health or safety.
 
 (2) The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.
 
-(3) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
+(3) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>2</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190.)
 
 #### References in Text
-
-Sections 119, 120, and 122 of CERCLA, referred to in subsecs. (a)(2), (c)(2), and (e), are classified to sections 9619, 9620, and 9622, respectively, of Title 42, The Public Health and Welfare.
 
 Section 2710 of this title, referred to in subsec. (k), was subsequently amended, and no longer defines the term “unexploded ordnance”.
 
@@ -141,6 +145,22 @@ Provisions similar to those in subsecs. (f) and (g) of this section were contain
 A prior section 2701 was renumbered section 2721 of this title.
 
 #### Amendments
+
+2006—Subsec. (d)(1). Pub. L. 109–163, §312(a)(1), inserted “any owner of covenant property,” after “any Indian tribe,” and “owner,” after “, Indian tribe,”.
+
+Subsec. (d)(3). Pub. L. 109–163, §312(a)(2), inserted “An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.” at end.
+
+Subsec. (d)(4)(C). Pub. L. 109–163, §312(a)(3), added subpar. (C).
+
+Subsec. (d)(5). Pub. L. 109–163, §312(a)(4), added par. (5).
+
+2004—Subsec. (a)(2). Pub. L. 108–375, §1084(d)(24)(A), inserted “(42 U.S.C. 9620)” before period at end.
+
+Subsec. (c)(2). Pub. L. 108–375, §1084(d)(24)(B), substituted “(relating to settlements) of CERCLA (42 U.S.C. 9622)” for “of CERCLA (relating to settlements)”.
+
+Subsec. (e). Pub. L. 108–375, §1084(d)(24)(C), inserted “(42 U.S.C. 9619)” after “CERCLA”.
+
+Subsec. (j)(2). Pub. L. 108–375, §1084(d)(24)(D), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980”.
 
 2002—Subsec. (a)(2). Pub. L. 107–314, §313(c)(2), substituted “CERCLA” for “the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this chapter referred to as ‘CERCLA’) (42 U.S.C. 9601 et seq.)”.
 
@@ -226,7 +246,7 @@ Effective Date.—The limitation in subsection (a) shall not take effect if befo
 
 Termination.—If the limitation in subsection (a) takes effect, the limitation shall cease to be in effect when both certifications referred to in subsection (b) have been submitted to the congressional defense committees.”
 
-Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated as a site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
+Pub. L. 106–65, div. C, title XXXI, §3131, Oct. 5, 1999, 113 Stat. 925, provided that: “Notwithstanding any other provision of law, no funds authorized to be appropriated or otherwise made available by this Act \[see Tables for classification\], or by any Act authorizing appropriations for the military activities of the Department of Defense or the defense activities of the Department of Energy for a fiscal year after fiscal year 2000, may be obligated or expended to conduct treatment, storage, or disposal activities at any site designated asa site under the Formerly Utilized Site Remedial Action Program as of the date of the enactment of this Act \[Oct. 5, 1999\].”
 
 Pub. L. 106–60, title VI, §611, Sept. 29, 1999, 113 Stat. 502, provided that:
 
@@ -324,7 +344,7 @@ Authority.—(1) The Secretary of Defense may, in consultation with the Administ
 
 Incentives Available for Sale.—(1) Under the pilot program, the Secretary may sell economic incentives for the reduction of emission of air pollutants attributable to a facility of a military department only if such incentives are not otherwise required for the activities or operations of the military department.
 
-“(2) The Secretary may not, under the pilot program, sell economic incentives attributable to the closure orrealignment of a military installation under a base closure law.
+“(2) The Secretary may not, under the pilot program, sell economic incentives attributable to the closure or realignment of a military installation under a base closure law.
 
 “(3) If the Secretary determines that additional sales of economic incentives are likely to result in amounts available for allocation under subsection (c)(2) in a fiscal year in excess of the limitation set forth in subparagraph (B) of that subsection, the Secretary shall not carry out such additional sales in that fiscal year.
 
@@ -424,7 +444,7 @@ Identification of Military Facilities With Environmental Training Expertise.—A
 
 #### Grants to Institutions of Higher Education To Provide Education and Training in Environmental Restoration to Dislocated Defense Workers and Young Adults
 
-Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, §102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(8), (f)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, provided that:
+Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(11), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–244, title I, §102(a)(2)(D), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(8), (f)(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430; Pub. L. 109–163, div. A, title X, §1056(a)(2), Jan. 6, 2006, 119 Stat. 3438, provided that:
 
 “(a)
 
@@ -492,7 +512,7 @@ Elements of Education and Training Program.—In establishing or conducting an e
 
 &emsp;“(5) To the extent practicable, the institution of higher education shall select instructors for the education and training program from institutions of higher education, appropriate community programs, and industry and labor.
 
-&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs and the education and training program conducted by the consortium.
+&emsp;“(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose ofachieving coordination between such programs and the education and training program conducted by the consortium.
 
 “(f)
 
@@ -528,15 +548,7 @@ Definitions.—For purposes of this section:
 
 &emsp;“(1)
 
-Base closure law.—The term ‘base closure law’ means the following:
-
-&emsp;&emsp;“(A) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
-
-&emsp;&emsp;“(B) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
-
-&emsp;&emsp;“(C) Section 2687 of title 10, United States Code.
-
-&emsp;&emsp;“(D) Any other similar law enacted after the date of the enactment of this Act \[Nov. 30, 1993\].
+Base closure law.—The term ‘base closure law’ has the meaning given such term in section 101(a)(17) of title 10, United States Code.
 
 &emsp;“(2)
 
@@ -714,7 +726,7 @@ Employment of Graduates.—In the case of eligible civilian employees of the Dep
 
 “(c)
 
-Eligible Employees.—Eligibility for selection to participate in the training program under subsection\(a) shall be limited to those civilian employees of the Department of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
+Eligible Employees.—Eligibility for selection to participate in the training program under subsection (a) shall be limited to those civilian employees of theDepartment of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
 
 “(d)
 
@@ -1118,5 +1130,7 @@ Report.—Not later than March 1, 1991, the Secretary of Defense shall submit to
 
 Pub. L. 101–165, title IX, §9038, Nov. 21, 1989, 103 Stat. 1137, which authorized appropriations available to the Department of Defense to be used at sites formerly used by the Department for removal of unsafe buildings or debris of the Department and required that removal be completed before the property is released from Federal Government control, was repealed and restated in subsecs. (f) and (g) of this section by Pub. L. 101–510, div. A, title XIV, §1481(i), Nov. 5, 1990, 104 Stat. 1708.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “9620)”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

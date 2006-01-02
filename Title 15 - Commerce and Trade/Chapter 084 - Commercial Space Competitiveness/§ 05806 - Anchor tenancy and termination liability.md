@@ -22,7 +22,7 @@ Subject to appropriations, the Administrator <sup>1</sup> or the Administrator 
 
 (2) Contracts that provide for the payment of termination liability, as described in paragraph (1), shall include a fixed schedule of such termination liability payments. Liability under such contracts shall not exceed the total payments which the Government would have made after the date of termination to purchase the good or service if the contract were not terminated.
 
-(3) Subject to appropriations, funds available for such termination liability payments may be used for purchase of the good or service upon successful delivery of the good or service pursuant to the contract. In such case, sufficient funds shall remain available to cover any remaining termination liability.
+(3) Subject to appropriations, funds available for such termination liability payments may beused for purchase of the good or service upon successful delivery of the good or service pursuant to the contract. In such case, sufficient funds shall remain available to cover any remaining termination liability.
 
 #### (c) Limitations
 

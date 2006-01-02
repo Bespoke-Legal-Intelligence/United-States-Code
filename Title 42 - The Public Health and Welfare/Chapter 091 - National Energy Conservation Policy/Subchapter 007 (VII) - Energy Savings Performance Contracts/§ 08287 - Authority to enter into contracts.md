@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years. Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
+(1) The head of a Federal agency may enter into contracts under this subchapter solely for the purpose of achieving energy savings and benefits ancillary to that purpose. Each such contract may, notwithstanding any other provision of law, be for a period not to exceed 25 years.Such contract shall provide that the contractor shall incur costs of implementing energy savings measures, including at least the costs (if any) incurred in making energy audits, acquiring and installing equipment, and training personnel, in exchange for a share of any energy savings directly resulting from implementation of such measures during the term of the contract.
 
 (2)(A) Contracts under this subchapter shall be energy savings performance contracts and shall require an annual energy audit and specify the terms and conditions of any Government payments and performance guarantees. Any such performance guarantee shall provide that the contractor is responsible for maintenance and repair services for any energy related equipment, including computer software systems.
 
@@ -46,15 +46,17 @@
 
 &emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
-(3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
+(3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by theboard of contract appeals of the General Services Administration.
 
 #### (c) Sunset requirements
 
-The authority to enter into new contracts under this section shall cease to be effective on October 1, 2006.
+The authority to enter into new contracts under this section shall cease to be effective on October 1, 2016.
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611.)
 
 #### Amendments
+
+2005—Subsec. (c). Pub. L. 109–58 substituted “2016” for “2006”.
 
 2004—Subsec. (c). Pub. L. 108–375 substituted “2006” for “2003”.
 
@@ -82,6 +84,8 @@ Pub. L. 108–375, div. A, title X, §1090(f), Oct. 28, 2004, 118 Stat. 2068, pr
 
 #### Extension of Authority
 
+Pub. L. 109–58, title I, §105(b), Aug. 8, 2005, 119 Stat. 611, provided that: “Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287) after October 1, 2003, and before the date of enactment of this Act \[Aug. 8, 2005\], shall be considered to have been entered into under that section.”
+
 Pub. L. 108–375, div. A, title X, §1090(g), Oct. 28, 2004, 118 Stat. 2068, provided that: “Any energy savings performance contract entered into under section 801 of the National Energy Conservation Policy Act (42 U.S.C. 8287) after October 1, 2003, and before the date of enactment of this Act \[Oct. 28, 2004\], shall be deemed to have been entered into pursuant to such section 801 as amended by subsection (a) of this section.”
 
 #### Energy Efficiency Incentive
@@ -96,7 +100,7 @@ Energy Conservation Incentive.—In order to provide additional incentive for th
 
 Authorized Uses of Savings.—The energy cost savings realized by the United States in each of the first five years under a contract may be used as follows:
 
-&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations undercontracts entered into under title VIII of the National Energy Conservation Policy Act.
+&emsp;“(1) One-half of the amount of such savings may be used for the acquisition of energy conserving measures for military installations, and such measures may be in addition to any such energy conserving measures acquired for military installations under contracts entered into under title VIII of the National Energy Conservation Policy Act.
 
 &emsp;“(2) One-half of the amount of such savings may be used for any morale, welfare, or recreation facility or service that is normally provided with appropriated funds, or for any minor military construction project (as defined in section 2805(a) of title 10, United States Code), that will enhance the quality of life of members of the Armed Forces at the military installation at which the energy cost savings were realized.
 

@@ -22,7 +22,7 @@
 
 #### (c) Insurance coverage
 
-As a condition to receiving grant amounts under this subchapter, the Director shall requireadequate insurance coverage for housing units that are owned or operated or assisted with grant amounts provided under this subchapter.
+As a condition to receiving grant amounts under this subchapter, the Director shall require adequate insurance coverage for housing units that are owned or operated or assisted with grant amounts provided under this subchapter.
 
 #### (d) Eligibility for admission
 

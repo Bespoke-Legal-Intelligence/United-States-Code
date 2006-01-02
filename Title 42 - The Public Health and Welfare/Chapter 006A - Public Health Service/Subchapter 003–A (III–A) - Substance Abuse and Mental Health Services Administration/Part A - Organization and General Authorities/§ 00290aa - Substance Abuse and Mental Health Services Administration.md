@@ -36,13 +36,13 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve the availability and quality of treatment, prevention and related services;
 
-&emsp;(5) support activities that will improve the provision of treatment, prevention and relatedservices, including the development of national mental health and substance abuse goals and model programs;
+&emsp;(5) support activities that will improve the provision of treatment, prevention and related services, including the development of national mental health and substance abuse goals and model programs;
 
 &emsp;(6) in cooperation with the National Institutes of Health, the Centers for Disease Control and the Health Resources and Services Administration develop educational materials and intervention strategies to reduce the risks of HIV or tuberculosis among substance abusers and individuals with mental illness and to develop appropriate mental health services for individuals with such illnesses;
 
 &emsp;(7) coordinate Federal policy with respect to the provision of treatment services for substance abuse utilizing anti-addiction medications, including methadone;
 
-&emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agency for Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
+&emsp;(8) conduct programs, and assure the coordination of such programs with activities of the National Institutes of Health and the Agencyfor Healthcare Research and Quality, as appropriate, to evaluate the process, outcomes and community impact of treatment and prevention services and systems of care in order to identify the manner in which such services can most effectively be provided;
 
 &emsp;(9) collaborate with the Director of the National Institutes of Health in the development of a system by which the relevant research findings of the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and, as appropriate, the Agency for Healthcare Research and Quality are disseminated to service providers in a manner designed to improve the delivery and effectiveness of treatment and prevention services;
 
@@ -146,7 +146,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (4) Definition
 
-&emsp;For purposes of this subsection, the term “women's substance abuse and mental healthconditions”, with respect to women of all age, ethnic, and racial groups, means all aspects of substance abuse and mental illness—
+&emsp;For purposes of this subsection, the term “women's substance abuse and mental health conditions”, with respect to women of all age, ethnic, and racial groups, means all aspects of substance abuse and mental illness—
 
 &emsp;&emsp;(A) unique to or more prevalent among women; or
 
@@ -286,7 +286,7 @@ Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
@@ -394,7 +394,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 “With the consent of the Secretary of Health and Human Services, the Administrator of the Substance Abuse and Mental Health Services Administration and the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health are authorized to utilize—
 
-&emsp;“(1) the services of such officers, employees, and other personnel of the Department with respect tofunctions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration and the Director of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle; and
+&emsp;“(1) the services of such officers, employees, and other personnel of the Department with respect to functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration and the Director of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle; and
 
 &emsp;“(2) funds appropriated to such functions for such period of time as may reasonably be needed to facilitate the orderly implementation of this subtitle.
 
@@ -452,7 +452,7 @@ Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United
 
 #### Alcohol and Drug Abuse and Mental Health Reports by the Secretary
 
-Section 3 of Pub. L. 98–24 directed Secretary of Health and Human Services to submit to Congress, onor before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
+Section 3 of Pub. L. 98–24 directed Secretary of Health and Human Services to submit to Congress, on or before Jan. 15, 1984, a report describing the extent to which Federal and State programs, departments, and agencies are concerned and are dealing effectively with problems of alcohol abuse and alcoholism, problems of drug abuse, and mental illness.
 
 #### Transfer of Balances in Working Capital Fund, Narcotic Hospitals, to Surplus Fund
 

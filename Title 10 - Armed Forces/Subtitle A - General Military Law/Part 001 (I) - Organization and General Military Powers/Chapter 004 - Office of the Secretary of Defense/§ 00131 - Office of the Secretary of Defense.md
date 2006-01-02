@@ -100,7 +100,7 @@ Section 901 of Pub. L. 104–106, as amended by Pub. L. 104–201, div. A, title
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) The statutory provisions that as of the date of the enactment of this Act \[Feb. 10, 1996\] govern the organization of the Office of the Secretary of Defense have evolved from enactment of a number of executive branch legislative proposals and congressional initiatives over a period of years.
+&emsp;“(1) The statutory provisions that as of the date of the enactment of this Act \[Feb. 10, 1996\] govern the organization of the Office of the Secretary of Defensehave evolved from enactment of a number of executive branch legislative proposals and congressional initiatives over a period of years.
 
 &emsp;“(2) The May 1995 report of the congressionally mandated Commission on Roles and Missions of the Armed Forces included a number of recommendations relating to the Office of the Secretary of Defense.
 
@@ -154,7 +154,7 @@ Secretary of Defense Study.—The Secretary of Defense shall conduct a study of 
 
 “(b)
 
-Service Secretaries Joint Study.—(1) The Secretaries of the military departments shall conduct a joint study of the functions and organization of the Office of the Secretary of Defense. The study shall be conducted independently of the study conducted by the Secretary of Defense under subsection (a). The Secretaries shall submit a joint report to the Secretary of Defense on such study at a time specified by the Secretary. Except as provided in paragraph (2), the reportshall include a discussion of and recommendations concerning each of the matters specified in subsection (d).
+Service Secretaries Joint Study.—(1) The Secretaries of the military departments shall conduct a joint study of the functions and organization of the Office of the Secretary of Defense. The study shall be conducted independently of the study conducted by the Secretary of Defense under subsection (a). The Secretaries shall submit a joint report to the Secretary of Defense on such study at a time specified by the Secretary. Except as provided in paragraph (2), the report shall include a discussion of and recommendations concerning each of the matters specified in subsection (d).
 
 “(2) The Secretary of Defense shall determine the extent to which, and prescribe the procedures under which, the Secretaries of the military departments shall study the matters specified in subsection (d)(1)(A) relating to contingency planning and military operations.
 
@@ -259,8 +259,4 @@ Report to Congress.—(1) The Secretary of Defense shall submit to Congress a re
 “(2) The Secretary shall include with the report a copy of the reports to the Secretary under subsections (b) and (c) and a copy of the report of the independent contractor under subsection (f), together with such comments on each such report as the Secretary considers appropriate.
 
 “(3) The report under this subsection shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 1, 1986\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 192 of this title.
 

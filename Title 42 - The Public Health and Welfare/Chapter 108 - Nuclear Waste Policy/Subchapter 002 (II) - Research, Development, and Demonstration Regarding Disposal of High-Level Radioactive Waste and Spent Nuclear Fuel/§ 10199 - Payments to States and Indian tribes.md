@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, the Secretary shall make payments to 
 
 #### (b) Limitation
 
-The Secretary shall make any payment to a State under subsection (a) of this section only if such State agrees to provide, to each unit of general local government within the jurisdictional boundaries of which the potential site or effectively selected site involved is located, at least one-tenth of the payments made by the Secretary to such State under such subsection. A State or affected Indian tribe receiving any payment under subsection (a) of this section shall otherwise have discretion to use such payment for whatever purpose it deems necessary, including the State or tribal activities pursuant to agreements entered into in accordance with section 10195 of this title. Annual payments shall be prorated on a 365-day basis to the specified dates.
+The Secretary shall make any payment to a State under subsection (a) of this section only ifsuch State agrees to provide, to each unit of general local government within the jurisdictional boundaries of which the potential site or effectively selected site involved is located, at least one-tenth of the payments made by the Secretary to such State under such subsection. A State or affected Indian tribe receiving any payment under subsection (a) of this section shall otherwise have discretion to use such payment for whatever purpose it deems necessary, including the State or tribal activities pursuant to agreements entered into in accordance with section 10195 of this title. Annual payments shall be prorated on a 365-day basis to the specified dates.
 
 (Pub. L. 97–425, title II, §219, Jan. 7, 1983, 96 Stat. 2253.)
 

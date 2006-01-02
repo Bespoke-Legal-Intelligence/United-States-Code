@@ -50,7 +50,3 @@ Section 961(b)(2) of Pub. L. 105–34 provided that: “In the case of any taxpa
 
 Pub. L. 97–34, title II, §238, Aug. 13, 1981, 95 Stat. 254, directed Secretary of the Treasury to conduct a study of methods of tax accounting for inventory with a view towards development of simplified methods and to report to Congress, not later than Dec. 31, 1982, prior to repeal by Pub. L. 100–647, title VI, §6252(a)(2), Nov. 10, 1988, 102 Stat. 3752.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 312, 472, 1363 of this title.
-

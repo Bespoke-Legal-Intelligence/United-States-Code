@@ -1,10 +1,12 @@
 ### §12203. Commissioned officers: appointment, how made; term
 
-(a) Appointments of reserve officers in commissioned grades above lieutenant colonel andcommander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
+(a) Appointments of reserve officers in commissioned grades above lieutenant colonel and commander or below, except commissioned warrant officer, shall be made by the President alone. Appointments of reserve officers in commissioned grades above lieutenant colonel and commander shall be made by the President, by and with the advice and consent of the Senate, except as provided in section 624, 12213, or 12214 of this title.
 
-(b) Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
+(b) Subject to the authority, direction, and control of the President, the Secretary concerned may appoint as a reserve commissioned officer any regular officer transferred from the active-duty list of an armed force to the reserve active-status list of a reserve component under section 647 of this title, notwithstanding the requirements of subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Pub. L. 85–861, §1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, §601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, §501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered §12203 and amended Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(6), Feb. 10, 1996, 110 Stat. 495.)
+(c) Appointments of Reserves in commissioned grades are for an indefinite term and are held during the pleasure of the President.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §593; Pub. L. 85–861, §1(10)(C), Sept. 2, 1958, 72 Stat. 1440; Pub. L. 92–129, title VI, §601, Sept. 28, 1971, 85 Stat. 361; Pub. L. 96–513, title V, §501(7), Dec. 12, 1980, 94 Stat. 2907; renumbered §12203 and amended Pub. L. 103–337, div. A, title XVI, §§1632, 1662(c)(2), 1675(b)(1), Oct. 5, 1994, 108 Stat. 2965, 2990, 3017; Pub. L. 104–106, div. A, title XV, §1501(a)(6), Feb. 10, 1996, 110 Stat. 495; Pub. L. 108–375, div. A, title V, §501(c)(4), Oct. 28, 2004, 118 Stat. 1874.)
 
 Historical and Revision Notes<br>1956
 
@@ -56,6 +58,8 @@ The exception is inserted to reflect section 3352(b) of title 10, United States 
 
 #### Amendments
 
+2004—Subsecs. (b), (c). Pub. L. 108–375 added subsec. (b) and redesignated former subsec. (b) as (c).
+
 1996—Subsec. (a). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1632. See 1994 Amendment note below.
 
 1994—Pub. L. 103–337, §1662(c)(2), renumbered section 593 of this title as this section.
@@ -70,6 +74,10 @@ Pub. L. 103–337, §1632, as amended by Pub. L. 104–106, substituted “reser
 
 1958—Subsec. (a). Pub. L. 85–861 inserted “, except as provided in section 3352 of this title” after “consent of the Senate”.
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
@@ -82,11 +90,11 @@ Amendment by sections 1662(c)(2) and 1675(b)(1) of Pub. L. 103–337 effective D
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Delegation of Functions
+
+For assignment of functions of President under first sentence of subsec. (a) of this section, see sections 1(b) and 2(b) of Ex. Ord. No. 13358, Sept. 28, 2004, 69 F.R. 58797, set out as a note under section 301 of Title 3, The President.
+
 #### Indefinite Appointments for Certain Reserve Officers
 
 Section 41 of act Aug. 10, 1956, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14308 of this title; title 14 section 271; title 37 section 205.
 

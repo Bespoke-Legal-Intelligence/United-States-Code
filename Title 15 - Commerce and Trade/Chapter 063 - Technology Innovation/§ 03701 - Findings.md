@@ -50,7 +50,7 @@ Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, pr
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–519, title II, §211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle \[subtitle B (§§211, 212) of title II of Pub. L. 100–519, enacting section 3704b of this title and amending section 3710 of this title\] may be cited as the ‘National Technical Information Act of 1988’.”
+Pub. L. 100–519, title II, §211, Oct. 24, 1988, 102 Stat. 2594, provided that: “This subtitle \[subtitle B (§§211,212) of title II of Pub. L. 100–519, enacting section 3704b of this title and amending section 3710 of this title\] may be cited as the ‘National Technical Information Act of 1988’.”
 
 #### Short Title of 1987 Amendment
 
@@ -160,7 +160,7 @@ Procedures.—(1) The chairman shall call the first meeting of the Commission wi
 
 “(3) The Commission may use such personnel detailed from Federal agencies as may be necessary to enable it to carry out its duties.
 
-“(4) Members of the Commission, other than full-time employees of the Federal Government, while attendingmeetings of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
+“(4) Members of the Commission, other than full-time employees of the Federal Government, while attending meetings of the Commission while away from their homes or regular places of business, shall be allowed travel expenses in accordance with subchapter I of chapter 57 of title 5, United States Code.
 
 “(e)
 

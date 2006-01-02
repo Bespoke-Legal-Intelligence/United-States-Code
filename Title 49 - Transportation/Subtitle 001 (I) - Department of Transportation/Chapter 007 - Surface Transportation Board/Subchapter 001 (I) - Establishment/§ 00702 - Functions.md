@@ -1,6 +1,6 @@
 ### §702. Functions
 
-Except as otherwise provided in the ICC Termination Act of 1995, or the amendments made thereby, the Board shall perform all functions that, immediately before January 1, 1996, were functions of the Interstate Commerce Commission or were performed by any officer or employee of the Interstate Commerce Commission in the capacity as such officer or employee.
+Except as otherwise provided in the ICC Termination Act of 1995, or the amendments madethereby, the Board shall perform all functions that, immediately before January 1, 1996, were functions of the Interstate Commerce Commission or were performed by any officer or employee of the Interstate Commerce Commission in the capacity as such officer or employee.
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 933; amended Pub. L. 104–287, §5(6), Oct. 11, 1996, 110 Stat. 3389.)
 

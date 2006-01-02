@@ -32,7 +32,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 > the Administrator may also issue an order under this subsection either assessing a civil penalty of not more than $5,000 for each day of violation for any past or current violation, up to a maximum administrative penalty of $125,000, or requiring compliance with such regulation or other requirement, or both.
 
-(3)(A) An order under this subsection shall be issued by the Administrator after opportunity (provided in accordance with this subparagraph) for a hearing. Before issuing the order, the Administrator shall give to the person to whom it is directed written notice of the Administrator's proposal to issue such order and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the order. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
+(3)(A) An order under this subsection shall be issued by the Administrator after opportunity (provided in accordance with this subparagraph)for a hearing. Before issuing the order, the Administrator shall give to the person to whom it is directed written notice of the Administrator's proposal to issue such order and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the order. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
 (B) The Administrator shall provide public notice of, and reasonable opportunity to comment on, any proposed order.
 
@@ -74,7 +74,7 @@ Nothing in this subchapter shall diminish any authority of a State or political 
 
 Subsec. (a)(1). Pub. L. 99–339, §202(a)(1), substituted provisions which related to issuance of an order of compliance or commencement of a civil action by the Administrator if the State has not commenced enforcement against the violator for provisions directing the Administrator to give public notice and request that the State report within 15 days thereafter as to steps taken to enforce compliance and authorizing the Administrator to commence a civil action upon failure by the State to comply timely.
 
-Subsec. (a)(2). Pub. L. 99–339, §202(a)(2), substituted provision that the Administrator issue an order under subsec. (c) of this section or commence a civil action under subsec. (b) of this section for provision that he commence a civil action under subsec. (b)(1) of this section.
+Subsec. (a)(2). Pub. L. 99–339, §202(a)(2), substituted provision that the Administrator issue an order under subsec. (c) of this section or commence a civil actionunder subsec. (b) of this section for provision that he commence a civil action under subsec. (b)(1) of this section.
 
 Subsec. (b). Pub. L. 99–339, §202(b), amended subsec. (b) generally, substituting provisions relating to jurisdiction of the appropriate Federal district court, entry of judgment, civil penalty of $25,000 per day, criminal liability and fine for willful violation for provisions which related to judicial determinations in appropriate Federal district courts, civil penalties of $5,000 per day, and fines of $10,000 per day for willful violations.
 

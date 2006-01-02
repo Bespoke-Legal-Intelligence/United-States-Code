@@ -16,7 +16,7 @@ The purposes of this chapter are—
 
 #### Transfer of Functions
 
-For transfer of duties, powers, and authority of Research and Special Programs Administration under thischapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
+For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.
 
 #### Congressional Findings
 

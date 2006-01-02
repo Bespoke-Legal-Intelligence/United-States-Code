@@ -10,7 +10,7 @@ For purposes of applying the provisions of this subtitle which relate to employe
 
 #### (b) 2-percent shareholder defined
 
-For purposes of this section, the term “2-percent shareholder” means any person who owns (or is considered as owning within the meaning of section 318) on any day during the taxable year of the S corporation more than 2 percent ofthe outstanding stock of such corporation or stock possessing more than 2 percent of the total combined voting power of all stock of such corporation.
+For purposes of this section, the term “2-percent shareholder” means any person who owns (or is considered as owning within the meaning of section 318) on any day during the taxable year of the S corporation more than 2 percent of the outstanding stock of such corporation or stock possessing more than 2 percent of the total combined voting power of all stock of such corporation.
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1682.)
 
@@ -21,8 +21,4 @@ A prior section 1372, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 #### Effective Date
 
 Section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, sections 1362(d)(3), 1366(f)(3), and 1375 of this title shall apply and subsec. (e)(5) of this section as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3), of Pub. L. 97–354, set out as a note under section 1361 of this title. For additional provisions relating to the treatment of existing fringe benefit plans and the application of this section, see section 6(d) of Pub. L. 97–354, set out as a note under section 1361 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 162 of this title.
 

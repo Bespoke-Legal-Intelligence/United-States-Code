@@ -44,7 +44,3 @@ No later than December 1 of each calendar year, the Secretary shall publish a no
 
 Subchapter applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as an Effective and Termination Dates of 2001 Amendments note under section 24 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 3201, 3211, 3221 of this title; title 45 sections 231u, 231v.
-

@@ -50,7 +50,7 @@ The term “United States attorney” was adopted in this section for “attorne
 
 At present, such officers are invariably designated as “United States attorneys” by Federal courts and the Department of Justice.
 
-Words “The President may appoint, by and with the advice and consent of the Senate,” were inserted to conform section with the Constitution. See article II, section 2, clause 2.
+Words “The President may appoint, by and with the advice and consent of the Senate,” were inserted toconform section with the Constitution. See article II, section 2, clause 2.
 
 Words “including the District of Columbia” were omitted, because the District is made a judicial district by section 88 of this title. District of Columbia Code, 1940 ed., §11–1001, provided for appointment of an “attorney of the United States for the District” by the President, subject to Senate confirmation.
 

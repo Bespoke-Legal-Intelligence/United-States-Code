@@ -2,7 +2,7 @@
 
 Sections 6201, 6202, and 6203 of this title shall not apply with respect to the following antitrust evidence:
 
-&emsp;(1) Antitrust evidence that is received by the Attorney General or the Commission under section 18a of this title. Nothing in this paragraph shall affect the ability of the AttorneyGeneral or the Commission to disclose to a foreign antitrust authority antitrust evidence that is obtained otherwise than under section 18a of this title.
+&emsp;(1) Antitrust evidence that is received by the Attorney General or the Commission under section 18a of this title. Nothing in this paragraph shall affect the ability of the Attorney General or the Commission to disclose to a foreign antitrust authority antitrust evidence that is obtained otherwise than under section 18a of this title.
 
 &emsp;(2) Antitrust evidence that is matter occurring before a grand jury and with respect to which disclosure is prevented by Federal law, except that for the purpose of applying Rule 6(e)(3)(C)(iv) of the Federal Rules of Criminal Procedure with respect to this section—
 

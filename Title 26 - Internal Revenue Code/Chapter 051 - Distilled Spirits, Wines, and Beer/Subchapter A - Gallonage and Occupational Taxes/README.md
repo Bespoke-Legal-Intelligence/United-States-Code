@@ -7,6 +7,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 109–59, title XI, §11125(b)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, the table of parts is amended by substituting “Miscellaneous provisions” for “Occupational tax” in item for part II.</i>
+
 
 ---
 

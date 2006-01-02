@@ -34,5 +34,5 @@ The Advisory Council on Historic Preservation shall prescribe regulations provid
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective on effective date of regulations implementing such amendments,see section 308(c) of Pub. L. 97–35, set out as a note under section 5318 of this title.
+Amendment by Pub. L. 97–35 effective on effective date of regulations implementing such amendments, see section 308(c) of Pub. L. 97–35, set out as a note under section 5318 of this title.
 

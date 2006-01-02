@@ -20,11 +20,11 @@ Loan Guarantees.—
 
 &emsp;(3) The Secretary shall establish such terms and conditions with respect to guarantees of loans under this subsection as the Secretary considers appropriate to protect the interests of the United States, including the rights and obligations of the United States with respect to such guarantees.
 
-&emsp;(4) The funds for the loan guarantees entered into under this section shall be held in the Coast Guard Housing Fund under section 687 of this title. The Secretary is authorized to purchase mortgage insurance to guarantee loans in lieu of guaranteeing loans directly against funds held in the Coast Guard Housing Fund.
+&emsp;(4) The funds for the loan guarantees entered into under this section shall be held in the Coast Guard Housing Fund under section 687 ofthis title. The Secretary is authorized to purchase mortgage insurance to guarantee loans in lieu of guaranteeing loans directly against funds held in the Coast Guard Housing Fund.
 
 (c)
 
-Limitation on Authority.—Direct loans and loan guarantees may be made under this section only to the extent that appropriations of budget authority to cover their cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a(5))) are made in advance, or authority is otherwise provided in appropriations Acts. If such appropriation or other authority is provided, there may be established a financing account (as defined in section 502(7) of such Act (2 U.S.C. 661a(7))) which shall be available for the disbursement of payment of claims for payment on loan guarantees under this section and for all other cash flows to andfrom the Government as a result of guarantees made under this section.
+Limitation on Authority.—Direct loans and loan guarantees may be made under this section only to the extent that appropriations of budget authority to cover their cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a(5))) are made in advance, or authority is otherwise provided in appropriations Acts. If such appropriation or other authority is provided, there may be established a financing account (as defined in section 502(7) of such Act (2 U.S.C. 661a(7))) which shall be available for the disbursement of payment of claims for payment on loan guarantees under this section and for all other cash flows to and from the Government as a result of guarantees made under this section.
 
 (Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3910; amended Pub. L. 108–293, title II, §207(b), Aug. 9, 2004, 118 Stat. 1034.)
 

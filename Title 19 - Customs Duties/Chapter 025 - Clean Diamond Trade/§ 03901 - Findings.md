@@ -18,7 +18,7 @@ Congress finds the following:
 
 &emsp;(8) Initiatives of the United States seek to resolve the regional conflicts in sub-Saharan Africa which facilitate the trade in conflict diamonds.
 
-&emsp;(9) The Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002, states that Participants will ensure that measures taken toimplement the Kimberley Process Certification Scheme for Rough Diamonds will be consistent with international trade rules.
+&emsp;(9) The Interlaken Declaration on the Kimberley Process Certification Scheme for Rough Diamonds of November 5, 2002, states that Participants will ensure that measures taken to implement the Kimberley Process Certification Scheme for Rough Diamonds will be consistent with international trade rules.
 
 (Pub. L. 108–19, §2, Apr. 25, 2003, 117 Stat. 631.)
 

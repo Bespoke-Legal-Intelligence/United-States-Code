@@ -36,7 +36,3 @@ In subsection (a) the words “Regular” and “holding a permanent appointment
 
 In subsection (b) the accepted meaning of the words “service of the United States” is spelled out for clarity. They have been consistently interpreted to include active service in the armed forces as defined in this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6325 of this title.
-

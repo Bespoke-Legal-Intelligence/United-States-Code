@@ -8,7 +8,7 @@ For purposes of this subchapter, the Director shall classify the enterprises acc
 
 &emsp;An enterprise shall be classified as adequately capitalized if the enterprise—
 
-&emsp;&emsp;(A) maintains an amount of total capital that is equal to or exceeds the risk-basedcapital level established for the enterprise under section 4611 of this title; and
+&emsp;&emsp;(A) maintains an amount of total capital that is equal to or exceeds the risk-based capital level established for the enterprise under section 4611 of this title; and
 
 &emsp;&emsp;(B) maintains an amount of core capital that is equal to or exceeds the minimum capital level established for the enterprise under section 4612 of this title.
 

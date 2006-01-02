@@ -1,6 +1,6 @@
 ### §2522. Armament retooling and manufacturing
 
-The Secretary of the Army is authorized by chapter 434 of this title to carry out programs for the support of armaments retooling and manufacturing in the national defense industrial and technology base.
+The Secretary of the Army is authorized by chapter 434 of this title to carry out programs for the support of armaments retooling andmanufacturing in the national defense industrial and technology base.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71.)
 

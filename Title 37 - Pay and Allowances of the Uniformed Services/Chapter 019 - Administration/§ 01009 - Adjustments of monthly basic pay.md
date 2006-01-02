@@ -38,7 +38,7 @@ Protection of Member's Total Compensation While Performing Certain Duty.—(1) T
 
 Presidential Determination of Need for Alternative Pay Adjustment.—(1) If, because of national emergency or serious economic conditions affecting the general welfare, the President considers the pay adjustment which would otherwise be required by this section in any year to be inappropriate, the President shall prepare and transmit to Congress before September 1 of the preceding year a plan for such alternative pay adjustments as the President considers appropriate, together with the reasons therefor.
 
-(2) In evaluating an economic condition affecting the general welfare under this subsection,the President shall consider pertinent economic measures including the Indexes of Leading Economic Indicators, the Gross Domestic Product, the unemployment rate, the budget deficit, the Consumer Price Index, the Producer Price Index, the Employment Cost Index, and the Implicit Price Deflator for Personal Consumption Expenditures.
+(2) In evaluating an economic condition affecting the general welfare under this subsection, the President shall consider pertinent economic measures including the Indexes of Leading Economic Indicators, the Gross Domestic Product, the unemployment rate, the budget deficit, the Consumer Price Index, the Producer Price Index, the Employment Cost Index, and the Implicit Price Deflator for Personal Consumption Expenditures.
 
 (3) The President shall include in the plan submitted to Congress under paragraph (1) an assessment of the impact that the alternative pay adjustments proposed in the plan would have on the Government's ability to recruit and retain well-qualified persons for the uniformed services.
 
@@ -108,6 +108,20 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Section 9 of Pub. L. 93–419 provided that: “This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\].”
 
+#### Increase in Basic Pay for Fiscal Year 2006
+
+Pub. L. 109–163, div. A, title VI, §601, Jan. 6, 2006, 119 Stat. 3286, provided that:
+
+“(a)
+
+Waiver of Section 1009
+
+Adjustment.—The adjustment to become effective during fiscal year 2006 required by section 1009 of title 37, United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made.
+
+“(b)
+
+Increase in Basic Pay.—Effective on January 1, 2006, the rates of monthly basic pay for members of the uniformed services are increased by 3.1 percent.”
+
 #### Increase in Basic Pay for Fiscal Year 2005
 
 Pub. L. 108–375, div. A, title VI, §601, Oct. 28, 2004, 118 Stat. 1943, provided that:
@@ -124,7 +138,7 @@ Increase in Basic Pay.—Effective on January 1, 2005, the rates of monthly basi
 
 #### Increase in Basic Pay for Fiscal Year 2004
 
-Pub. L. 108–136, div. A, title VI, §601, Nov. 24, 2003, 117 Stat. 1495, provided that:
+Pub. L. 108–136, div. A, title VI, §601, Nov. 24, 2003, 117 Stat. 1495, as amended by Pub. L. 109–148, div. A, title VIII, §8124(a)(1), Dec. 30, 2005, 119 Stat. 2727, provided that:
 
 “(a)
 
@@ -271,9 +285,11 @@ ENLISTED MEMBERS <sup>1</sup><br>Years of service computed under section 205 of
 
 <sup>1</sup> Notwithstanding the basic pay rates specified in this table, the actual rate of basic pay for enlisted members may not exceed the rate of pay for level V of the Executive Schedule.
 
-<sup>2</sup> Subject to the preceding footnote, the rate of basic pay for an enlisted member in this grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, is $6,090.90, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
+<sup>2</sup> Subject to the preceding footnote, the rate of basic pay for an enlisted member in this grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Master Chief Petty Officer of the Coast Guard, or Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, is $6,090.90, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
 
 <sup>3</sup> In the case of members in pay grade E–1 who have served less than 4 months on active duty, the rate of basic pay is $1,104.00.
+
+\[Pub. L. 109–148, div. A, title VIII, §8124(a)(2), Dec. 30, 2005, 119 Stat. 2727, provided that: “The amendment made by paragraph (1) \[amending section 601(b) of Pub. L. 108–136, set out above\] shall take effect on September 1, 2005, and shall apply with respect to months beginning on or after that date.”\]
 
 #### Increase in Basic Pay for Fiscal Year 2003
 
@@ -601,7 +617,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §602\], Oct. 30, 2000, 114 Stat.
 
 “(a)
 
-Minimum Pay Increases for Mid-Level Enlisted Grades.—(1) Subject to paragraph (2), effectiveon July 1, 2001, the rates of monthly basic pay for enlisted members of the Armed Forces in the pay grades E–7, E–6, and E–5 shall be as follows:
+Minimum Pay Increases for Mid-Level Enlisted Grades.—(1) Subject to paragraph (2), effective on July 1, 2001, the rates of monthly basic pay for enlisted members of the Armed Forces in the pay grades E–7, E–6, and E–5 shall be as follows:
 
 ENLISTED MEMBERS<br>Years of service computed under section 205 of title 37, United States Code
 
@@ -1087,7 +1103,7 @@ Pub. L. 98–94, title IX, §901, Sept. 24, 1983, 97 Stat. 634, provided that:
 
 “(2) The increase provided for in paragraph (1) shall not apply to enlisted members in pay grade E–1 with less than 4 months active duty.
 
-“(3) The President may allocate the percentage increase specified under paragraphs (1) and (2) in the same manner and to the same extent the President is authorized under subsections (c) and (d) of section 1009 of title 37, United States Code, to allocate any percentage increase described in subsection (b)(3) of section 1009 of such title.
+“(3) The President may allocate the percentage increase specified under paragraphs (1) and (2) in thesame manner and to the same extent the President is authorized under subsections (c) and (d) of section 1009 of title 37, United States Code, to allocate any percentage increase described in subsection (b)(3) of section 1009 of such title.
 
 “(c) Notwithstanding the effective date of April 1, 1984, prescribed in subsection (b) for the increase in compensation of members of the uniformed services, if an adjustment is made after the date of the enactment of this Act \[Sept. 24, 1983\] in the General Schedule \[5 U.S.C. 5332 note\] of compensation for Federal classified employees and such adjustment is to become effective before April 1, 1984, the increase in the compensation of members of the uniformed services provided for in subsection (b) shall become effective on the first day of the first pay period for members of the uniformed services which begins on or after the effective date of the adjustment made in the compensation of Federal classified employees.”
 
@@ -1135,598 +1151,15 @@ Section 7 of Pub. L. 93–419 provided that: “Until the effective date of the 
 
 Pub. L. 97–60, title I, §101, Oct. 14, 1981, 95 Stat. 989, as amended by Pub. L. 98–557, §35(a), (c), Oct. 30, 1984, 98 Stat. 2877, eff. Oct. 1, 1984; Pub. L. 100–180, div. A, title XIII, §1314(d)(3), (e)(2), Dec. 4, 1987, 101 Stat. 1176, eff. Oct. 1, 1986, set forth tables specifying the increased rates of monthly basic pay for members of the uniformed services, effective Oct. 1, 1981, and provided that the adjustment required by section 1009 of this title in certain elements of the compensation of members of the uniformed services which was to become effective on Oct. 1, 1981, should not be made, and no adjustment of the compensation of any member of a uniformed service should be made pursuant to such section for the period beginning on Oct. 1, 1981, and ending on Oct. 14, 1981.
 
-#### Adjustment of Pay Rates Effective January 1, 2005
+#### Adjustment of Pay Rates
 
-Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of pay rates under this section effective Jan. 1, 2005. See Schedule set out below:
-
-Schedule 8<br><i>Pay of the Uniformed Services</i><br>(Effective on January 1, 2005)
-
-part i—monthly basic pay<br>Years of Service (computed under 37 U.S.C. 205)<br>Commissioned Officers
-
-Pay Grade
-
-2 or less
-
-Over 2
-
-Over 3
-
-Over 4
-
-Over 6
-
-O–10 <sup>1</sup>
-
-O–9
-
-O–8
-
-$8,022.30
-
-$8,285.10
-
-$8,459.40
-
-$8,508.30
-
-$8,725.50
-
-O–7
-
-6,666.00
-
-6,975.60
-
-7,119.00
-
-7,233.00
-
-7,439.10
-
-O–6
-
-4,940.70
-
-5,427.90
-
-5,784.00
-
-5,784.00
-
-5,805.90
-
-O–5
-
-4,118.70
-
-4,639.80
-
-4,961.10
-
-5,021.40
-
-5,221.50
-
-O–4
-
-3,553.80
-
-4,113.90
-
-4,388.40
-
-4,449.60
-
-4,704.30
-
-O–3 <sup>2</sup>
-
-3,124.50
-
-3,542.10
-
-3,823.20
-
-4,168.20
-
-4,367.70
-
-O–2 <sup>2</sup>
-
-2,699.40
-
-3,074.70
-
-3,541.20
-
-3,660.90
-
-3,736.20
-
-O–1 <sup>2</sup>
-
-2,343.60
-
-2,439.00
-
-2,948.10
-
-2,948.10
-
-2,948.10
-
-&nbsp;
-
-Over 8
-
-Over 10
-
-Over 12
-
-Over 14
-
-Over 16
-
-O–10 <sup>1</sup>
-
-O–9
-
-O–8
-
-$9,089.40
-
-$9,173.70
-
-$9,519.00
-
-$9,618.00
-
-$9,915.30
-
-O–7
-
-7,642.50
-
-7,878.30
-
-8,113.50
-
-8,349.00
-
-9,089.40
-
-O–6
-
-6,054.90
-
-6,087.90
-
-6,087.90
-
-6,433.80
-
-7,045.50
-
-O–5
-
-5,341.80
-
-5,605.50
-
-5,799.00
-
-6,048.60
-
-6,431.10
-
-O–4
-
-4,977.60
-
-5,317.50
-
-5,582.70
-
-5,766.60
-
-5,872.20
-
-O–3 <sup>2</sup>
-
-4,586.70
-
-4,728.60
-
-4,962.00
-
-5,083.20
-
-5,083.20
-
-O–2 <sup>2</sup>
-
-3,736.20
-
-3,736.20
-
-3,736.20
-
-3,736.20
-
-3,736.20
-
-O–1 <sup>2</sup>
-
-2,948.10
-
-2,948.10
-
-2,948.10
-
-2,948.10
-
-2,948.10
-
-&nbsp;
-
-Over 18
-
-Over 20
-
-Over 22
-
-Over 24
-
-Over 26
-
-O–10 <sup>1</sup>
-
-\*$12,963.00
-
-\*$13,026.60
-
-\*$13,297.50
-
-\*$13,769.40
-
-O–9
-
-11,337.90
-
-11,501.10
-
-11,737.20
-
-12,149.10
-
-O–8
-
-$10,345.50
-
-10,742.40
-
-11,007.60
-
-11,007.60
-
-11,007.60
-
-O–7
-
-9,714.60
-
-9,714.60
-
-9,714.60
-
-9,714.60
-
-9,763.80
-
-O–6
-
-7,404.60
-
-7,763.40
-
-7,967.70
-
-8,174.10
-
-8,575.50
-
-O–5
-
-6,613.20
-
-6,793.20
-
-6,997.50
-
-6,997.50
-
-6,997.50
-
-O–4
-
-5,933.70
-
-5,933.70
-
-5,933.70
-
-5,933.70
-
-5,933.70
-
-O–3 <sup>2</sup>
-
-5,083.20
-
-5,083.20
-
-5,083.20
-
-5,083.20
-
-5,083.20
-
-O–2 <sup>2</sup>
-
-3,736.20
-
-3,736.20
-
-3,736.20
-
-3,736.20
-
-3,736.20
-
-O–1 <sup>2</sup>
-
-2,948.10
-
-2,948.10
-
-2,948.10
-
-2,948.10
-
-2,948.10
-
-<sup>1</sup> For officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or commander of a unified or specified combatant command (as defined in section 161(c) of title 10, United States Code), basic pay for this grade is calculated to be $15,146.40 per month, regardless of cumulative years of service computed under section 205 of title 37, United States Code. Nevertheless, actual basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,433.20 per month.
-
-<sup>2</sup> Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
-
-\* Basic pay for these officers is limited to the rate of basic pay for level III of the Executive Schedule, which is $12,433.20 per month.
-
-Commissioned officers with over 4 years active duty service as an enlisted member and/or warrant officer <sup>3</sup>
-
-| Pay Grade | Over 4 | Over 6 | Over 8 | Over 10 |
-| :--- | :---: | :---: | :---: | ---: |
-| O–3E | $4,168.20 | $4,367.70 | $4,586.70 | $4,728.60 |
-| O–2E | 3,660.90 | 3,736.20 | 3,855.30 | 4,055.70 |
-| O–1E | 2,948.10 | 3,148.80 | 3,264.90 | 3,383.70 |
-|  |  |  |  |  |
-| &nbsp; | Over 12 | Over 14 | Over 16 | Over 18 |
-|  |  |  |  |  |
-| O–3E | $4,962.00 | $5,158.50 | $5,271.00 | $5,424.60 |
-| O–2E | 4,211.10 | 4,326.60 | 4,326.60 | 4,326.60 |
-| O–1E | 3,500.70 | 3,660.90 | 3,660.90 | 3,660.90 |
-|  |  |  |  |  |
-| &nbsp; | Over 20 | Over 22 | Over 24 | Over 26 |
-|  |  |  |  |  |
-| O–3E | $5,424.60 | $5,424.60 | $5,424.60 | $5,424.60 |
-| O–2E | 4,326.60 | 4,326.60 | 4,326.60 | 4,326.60 |
-| O–1E | 3,660.90 | 3,660.90 | 3,660.90 | 3,660.90 |
-
-<sup>3</sup> Reservists with at least 1,460 points as an enlisted member and/or warrant officer which are creditable toward reserve retirement also qualify for these rates.
-
-Warrant Officers
-
-| Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
-| :--- | :---: | :---: | :---: | :---: | ---: |
-| W–5 |  |  |  |  |  |
-| W–4 | $3,228.60 | $3,473.40 | $3,573.30 | $3,671.40 | $3,840.30 |
-| W–3 | 2,948.40 | 3,071.70 | 3,197.40 | 3,238.80 | 3,371.10 |
-| W–2 | 2,593.50 | 2,741.70 | 2,871.30 | 2,965.50 | 3,046.20 |
-| W–1 | 2,290.20 | 2,477.70 | 2,603.10 | 2,684.40 | 2,900.40 |
-|  |  |  |  |  |  |
-| &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
-|  |  |  |  |  |  |
-| W–5 |  |  |  |  |  |
-| W–4 | $4,007.10 | $4,176.30 | $4,341.00 | $4,511.70 | $4,779.00 |
-| W–3 | 3,522.30 | 3,721.80 | 3,918.90 | 4,128.30 | 4,285.50 |
-| W–2 | 3,268.20 | 3,438.00 | 3,564.00 | 3,687.00 | 3,771.30 |
-| W–1 | 3,030.90 | 3,146.40 | 3,275.40 | 3,360.90 | 3,438.30 |
-|  |  |  |  |  |  |
-| &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
-|  |  |  |  |  |  |
-| W–5 |  | $5,548.20 | $5,738.40 | $5,929.20 | $6,121.20 |
-| W–4 | $4,950.00 | 5,117.40 | 5,290.80 | 5,461.80 | 5,636.40 |
-| W–3 | 4,442.10 | 4,509.30 | 4,578.90 | 4,730.10 | 4,881.30 |
-| W–2 | 3,842.40 | 3,977.40 | 4,111.50 | 4,247.40 | 4,247.40 |
-| W–1 | 3,564.30 | 3,659.70 | 3,659.70 | 3,659.70 | 3,659.70 |
-
-Enlisted Members
-
-| Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
-| :--- | :---: | :---: | :---: | :---: | ---: |
-| E–9 <sup>1</sup> |  |  |  |  |  |
-| E–8 |  |  |  |  |  |
-| E–7 | $2,220.00 | $2,423.10 | $2,515.80 | $2,638.80 | $2,734.50 |
-| E–6 | 1,920.30 | 2,112.60 | 2,205.90 | 2,296.50 | 2,391.00 |
-| E–5 | 1,759.50 | 1,877.10 | 1,967.70 | 2,060.70 | 2,205.30 |
-| E–4 | 1,612.80 | 1,695.60 | 1,787.10 | 1,877.70 | 1,957.80 |
-| E–3 | 1,456.20 | 1,547.70 | 1,641.00 | 1,641.00 | 1,641.00 |
-| E–2 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 |
-| E–1 <sup>2</sup> | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 |
-| E–1 <sup>3</sup> | 1,142.70 |  |  |  |  |
-|  |  |  |  |  |  |
-| &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
-|  |  |  |  |  |  |
-| E–9 <sup>1</sup> |  | $3,901.20 | $3,989.70 | $4,101.00 | $4,232.40 |
-| E–8 | $3,193.50 | 3,334.80 | 3,422.10 | 3,527.10 | 3,640.50 |
-| E–7 | 2,899.50 | 2,992.20 | 3,084.60 | 3,249.60 | 3,332.40 |
-| E–6 | 2,604.30 | 2,687.10 | 2,779.20 | 2,859.90 | 2,888.70 |
-| E–5 | 2,329.80 | 2,421.60 | 2,450.70 | 2,450.70 | 2,450.70 |
-| E–4 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 |
-| E–3 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 |
-| E–2 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 |
-| E–1 <sup>2</sup> | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 |
-| E–1 <sup>3</sup> |  |  |  |  |  |
-|  |  |  |  |  |  |
-| &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
-|  |  |  |  |  |  |
-| E–9 <sup>1</sup> | $4,364.10 | $4,575.90 | $4,755.00 | $4,943.70 | $5,231.70 |
-| E–8 | 3,845.40 | 3,949.20 | 4,125.90 | 4,224.00 | 4,465.20 |
-| E–7 | 3,410.70 | 3,458.70 | 3,620.40 | 3,725.10 | 3,990.00 |
-| E–6 | 2,908.20 | 2,908.20 | 2,908.20 | 2,908.20 | 2,908.20 |
-| E–5 | 2,450.70 | 2,450.70 | 2,450.70 | 2,450.70 | 2,450.70 |
-| E–4 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 | 1,957.80 |
-| E–3 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 | 1,641.00 |
-| E–2 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 | 1,384.50 |
-| E–1 <sup>2</sup> | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 | 1,235.10 |
-| E–1 <sup>3</sup> |  |  |  |  |  |
-
-<sup>1</sup> For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, or Sergeant Major of the Marine Corps, basic pay for this grade is $6,304.20 per month, regardless of cumulative years of service under section 205 of title 37, United States Code.
-
-<sup>2</sup> Applies to personnel who have served 4 months or more on active duty.
-
-<sup>3</sup> Applies to personnel who have served less than 4 months on active duty.
-
-part ii—rate of monthly cadet or midshipman pay
-
-The rate of monthly cadet or midshipman pay authorized by section 203(c) of title 37, United States Code, is $820.20.
-
-Note: As a result of the enactment of sections 602–694 \[604\] of Public Law 105–85 \[see Tables for classification\], the National Defense Authorization Act for Fiscal Year 1998, the Secretary of Defense now has the authority to adjust the rates of basic allowances for subsistence and housing. Therefore, these allowances are no longer adjusted by the President in conjunction with the adjustment of basic pay for members of the uniformed services. Accordingly, the tables of allowances included in previous orders are not included here.
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 11812
 
 Ex. Ord. No. 11812, Oct. 7, 1974, 39 F.R. 36307, which provided for the adjustment of pay rates effective Oct. 1, 1974, was superseded by Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091.
 
-#### Executive Order No. 11883
-
-Ex. Ord. No. 11883, Oct. 6, 1975, 40 F.R. 47091, which provided for the adjustment of pay rates effective Oct. 1, 1975, was superseded by Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43889, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
-
-#### Executive Order No. 11941
-
-Ex. Ord. No. 11941, Oct. 1, 1976, 41 F.R. 43899, as amended by Ex. Ord. No. 11943, Oct. 25, 1976, 41 F.R. 47213, which provided for the adjustment of pay rates effective Oct. 1, 1976, was superseded by Ex. Ord. No. 12010, Sept. 28, 1977, 42 F.R. 52365, formerly set out as a note under section 5332 of Title 5.
-
 #### Executive Order No. 11998
 
-Ex. Ord. No. 11998, June 27, 1977, 42 F.R. 33021, which related to the President's Commission on Military Compensation, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5.
-
-#### Executive Order No. 12010
-
-Ex. Ord. No. 12010, Sept. 28, 1977, 42 F.R. 52365, which provided for the adjustment of pay rates effective Oct. 1, 1977, was superseded by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12087
-
-Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, which provided for the adjustment of pay rates effective Oct. 1, 1978, was superseded by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12165
-
-Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 44 F.R. 16443, which provided for the adjustment of pay rates effective Oct. 1, 1979, was superseded by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12248
-
-Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, which provided for adjustment of pay rates effective Oct. 1, 1981, was superseded by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12330
-
-Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, which provided for adjustment of pay rates effective Oct. 1, 1981, was superseded by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12387
-
-Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for the adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12456
-
-Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12496
-
-Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for the adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12578
-
-Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustment of pay rates effective Jan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12622
-
-Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, which provided for the adjustment of pay rates effective Jan. 1, 1988, was superseded by Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12663
-
-Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791, which provided for the adjustment of pay rates effective Jan. 1, 1989, was superseded by Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12698
-
-Ex. Ord. No. 12698, Dec. 23, 1989, 54 F.R. 53473, which provided for adjustments of pay rates effective Jan. 1, 1990, and Feb. 1, 1990, was superseded by Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12736
-
-Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, which provided for the adjustment of pay rates effective Jan. 1, 1991, was superseded by Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12786
-
-Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for the adjustment of pay rates effective Jan. 1, 1992, was superseded by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12826
-
-Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, which provided for the adjustment of pay rates effective Jan. 1, 1993, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5. Previously §4 and schedule 8 of Ex. Ord. No. 12826 were superseded by Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12886
-
-Ex. Ord. No. 12886, Dec. 23, 1993, 58 F.R. 68709, which provided for the adjustment of pay rates effective Jan. 1, 1994, was superseded by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12944
-
-Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, which provided for the adjustment of pay rates effective Jan. 1, 1995, was superseded by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12984
-
-Ex. Ord. No. 12984, §4, schedule 8, Dec. 28, 1995, 61 F.R. 237, 243, which provided for the adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 12990, Feb. 29, 1996, 61 F.R. 8467, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 12990
-
-Ex. Ord. No. 12990, Feb. 29, 1996, 61 F.R. 8467, which provided for the adjustment of pay rates effective Jan. 1, 1996, was superseded by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13033
-
-Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, which provided for the adjustment of pay rates effective Jan. 1, 1997, was superseded by Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13071
-
-Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for the adjustment of pay rates effective Jan. 1, 1998, was superseded by Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13106
-
-Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for the adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13144
-
-Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for the adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13182
-
-Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for the adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13249
-
-Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for the adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13282
-
-Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, which provided for the adjustment of pay rates effective Jan. 1, 2003, was superseded by Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231.
-
-#### Executive Order No. 13322
-
-Ex. Ord. No. 13322, Dec. 30, 2003, 69 F.R. 231, which provided for the adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, formerly set out as a note under section 5332 of Title 5.
-
-#### Executive Order No. 13332
-
-Ex. Ord. No. 13332, Mar. 3, 2004, 69 F.R. 10891, which provided for the adjustment of pay rates effective Jan. 1, 2004, was superseded by Ex. Ord. No. 13368, Dec. 30, 2004, 70 F.R. 1147, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 11998, June 27, 1977, 42 F.R. 33021, which related to the President's Commission on MilitaryCompensation, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Appendix to Title 5.
 

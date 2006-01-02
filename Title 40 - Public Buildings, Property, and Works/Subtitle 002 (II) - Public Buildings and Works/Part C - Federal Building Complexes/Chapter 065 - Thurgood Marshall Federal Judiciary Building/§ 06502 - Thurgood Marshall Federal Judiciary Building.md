@@ -26,7 +26,7 @@ Size of building.—The Building (excluding parking facilities) may not exceed 5
 
 &emsp;(2)
 
-Height of building.—The height of the Building and other improvements shall be compatible with the height of surrounding Government and historic buildings and conform to the provisions of the Act of June 1, 1910 (ch. 263, 36 Stat. 452) (known as the Building Height Act of 1910).
+Height of building.—The height of the Building and other improvements shall becompatible with the height of surrounding Government and historic buildings and conform to the provisions of the Act of June 1, 1910 (ch. 263, 36 Stat. 452) (known as the Building Height Act of 1910).
 
 &emsp;(3)
 
@@ -128,5 +128,5 @@ The Building Height Act of 1910, referred to in subsec. (c)(2), is act June 1, 1
 
 #### Reference to the Thurgood Marshall Federal Judiciary Building
 
-Pub. L. 103–4, §2, Feb. 8, 1993, 107 Stat. 30, provided that: “Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 \[now40 U.S.C. 6502(a)\] shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
+Pub. L. 103–4, §2, Feb. 8, 1993, 107 Stat. 30, provided that: “Any reference in any law, map, regulation, document, paper, or other record of the United States to the Federal Judiciary Building referred to in section 1 \[now 40 U.S.C. 6502(a)\] shall be deemed to be a reference to the ‘Thurgood Marshall Federal Judiciary Building’.”
 

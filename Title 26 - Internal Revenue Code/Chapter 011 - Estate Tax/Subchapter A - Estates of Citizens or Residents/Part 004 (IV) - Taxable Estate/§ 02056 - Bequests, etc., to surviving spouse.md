@@ -214,7 +214,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable under subsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
+&emsp;&emsp;In the case of any property with respect to which a deduction would be allowable undersubsection (a) but for this subsection, the determination of whether a trust is a qualified domestic trust shall be made—
 
 &emsp;&emsp;&emsp;(i) as of the date on which the return of the tax imposed by this chapter is made, or
 
@@ -294,7 +294,7 @@ Subsec. (c)(2)(B). Pub. L. 94–455, §1902(a)(12)(A), struck out “Territory,�
 
 Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) as (d). Former subsec. (d), which related to disclaimers by the surviving spouse or by other persons, was struck out.
 
-1966—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
+1966—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if theperson does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
 #### Effective Date of 1997 Amendment
 
@@ -356,7 +356,7 @@ In general.—Except as otherwise provided in this subsection—
 
 “(2)
 
-Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax returnfiled before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
+Not to apply to extent inconsistent with prior return.—In the case of any estate or gift tax return filed before the date of the enactment of this Act \[Nov. 10, 1988\], the amendments made by this section \[amending this section and section 2523 of this title\] shall not apply to the extent such amendments would be inconsistent with the treatment of the annuity on such return unless the executor or donor (as the case may be) otherwise elects under this paragraph before the day 2 years after the date of the enactment of this Act.
 
 “(3)
 
@@ -382,7 +382,7 @@ Section 403(e) of Pub. L. 97–34, as amended by Pub. L. 97–448, title I, §10
 
 &emsp;“(A) the decedent dies after December 31, 1981,
 
-&emsp;“(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing that the spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
+&emsp;“(B) by reason of the death of the decedent property passes from the decedent or is acquired from the decedent under a will executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], or a trust created before such date, which contains a formula expressly providing thatthe spouse is to receive the maximum amount of property qualifying for the marital deduction allowable by Federal law,
 
 &emsp;“(C) the formula referred to in subparagraph (B) was not amended to refer specifically to an unlimited marital deduction at any time after the date which is 30 days after the date of enactment of this Act \[Aug. 13, 1981\], and before the death of the decedent, and
 
@@ -428,9 +428,5 @@ Section 7815(d)(14) of Pub. L. 101–239 provided that: “In the case of the es
 
 #### Disclaimer of Interest Arising From Estates of Persons Dying Before Oct. 4, 1966, Having Estate Tax Return Filing Date On or After Jan. 1, 1965
 
-Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which thedate prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2012, 2013, 2014, 2032, 2044, 2056A, 2106, 2206, 2207, 2519, 2523, 2652, 2701 of this title.
+Section 1(c) of Pub. L. 89–621 provided that in the case of a decedent dying before Oct. 4, 1966, for which the date prescribed for filing estate tax return was on or after Jan. 1, 1965, and as a result of a disclaimer, the surviving spouse became entitled to receive such interest, then such interest was to be considered as having passed from the decedent to the surviving spouse under certain conditions, with a limit on the amount of deductions allowed.
 

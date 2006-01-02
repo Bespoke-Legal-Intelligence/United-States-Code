@@ -2,7 +2,7 @@
 
 (a)(1) The Administrator shall establish a National Aeronautics and Space Administration Science and Technology Scholarship Program to award scholarships to individuals that is designed to recruit and prepare students for careers in the Administration.
 
-(2) Individuals shall be selected to receive scholarships under this section through a competitive process primarily on the basis of academic merit, with consideration given to financial need and the goal of promoting the participation of individuals identified in section 33 or 34 of the Science and Engineering Equal Opportunities Act.
+(2) Individuals shall be selected to receive scholarships under this section through a competitive process primarily on the basis of academic merit, with consideration given to financial need and the goal of promoting the participation of individuals identified in section 33 or 34 of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885a or 1885b).
 
 (3) To carry out the Program the Administrator shall enter into contractual agreements with individuals selected under paragraph (2) under which the individuals agree to serve as full-time employees of the Administration, for the period described in subsection (f)(1), in positions needed by the Administration and for which the individuals are qualified, in exchange for receiving a scholarship.
 
@@ -14,7 +14,7 @@
 
 &emsp;(3) at the time of the initial scholarship award, not be an employee (as defined in section 2105).
 
-(c) An individual seeking a scholarship under this section shall submit an application to the Administrator at such time, in such manner, and containing such information, agreements, or assurances as the Administrator may require.
+(c) An individual seeking a scholarship under this section shall submit an application to the Administrator at such time, in such manner, and containing such information, agreements, or assurances as the Administrator may require to carry out this section.
 
 (d) The Administrator shall make publicly available a list of academic programs and fields of study for which scholarships under the Program may be utilized and shall update the list as necessary.
 
@@ -28,7 +28,7 @@
 
 (5) The Administrator may enter into a contractual agreement with an institution of higher education under which the amounts provided for a scholarship under this section for tuition, fees, and other authorized expenses are paid directly to the institution with respect to which the scholarship is provided.
 
-(f)(1) The period of service for which an individual shall be obligated to serve as an employee of the Administration is, except as provided in subsection (h)(2), 24 months for each academic year for which a scholarship under this section is provided. Under no circumstances shall the total period of obligated service be more than 4 years.
+(f)(1) The period of service for which an individual shall be obligated to serve as an employee of the Administration is, except as provided in subsection (h)(2), 24 months for each academic year for which a scholarship under this section is provided.
 
 (2)(A) Except as provided in subparagraph (B), obligated service under paragraph (1) shall begin not later than 60 days after the individual obtains the educational degree for which the scholarship was provided.
 
@@ -40,9 +40,7 @@
 
 &emsp;(A) the total amount of scholarships received by such individual under this section; plus
 
-&emsp;(B) the interest on the amounts of such awards which would be payable if at the time the awards were received they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States,
-
-> multiplied by 3.
+&emsp;(B) the interest on the amounts of such awards which would be payable if at the time the awards were received they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
 
 (h)(1) Any obligation of an individual incurred under the Program (or a contractual agreement thereunder) for service or payment shall be canceled upon the death of the individual.
 
@@ -60,11 +58,19 @@
 
 (2) Amounts appropriated under this section shall remain available for 2 fiscal years.
 
-(Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 468.)
+(Added Pub. L. 108–201, §3(a), Feb. 24, 2004, 118 Stat. 468; amended Pub. L. 109–155, title VII, §703(a), Dec. 30, 2005, 119 Stat. 2936.)
 
 #### References in Text
 
-Section 33 or 34 of the Science and Engineering Equal Opportunities Act, referred to in subsec. (a)(2), are classified to sections 1885a and 1885b, respectively, of Title 42, The Public Health and Welfare.
-
 Sections 101(a) and 472 of the Higher Education Act of 1965, referred to in subsec. (i), are classified to sections 1001(a) and 1087<i>ll</i>, respectively, of Title 20, Education.
+
+#### Amendments
+
+2005—Subsec. (a)(2). Pub. L. 109–155, §703(a)(1), substituted “Act (42 U.S.C. 1885a or 1885b).” for “Act.”
+
+Subsec. (c). Pub. L. 109–155, §703(a)(2), substituted “require to carry out this section.” for “require.”
+
+Subsec. (f)(1). Pub. L. 109–155, §703(a)(3), struck out at end “Under no circumstances shall the total period of obligated service be more than 4 years.”
+
+Subsec. (g)(2). Pub. L. 109–155, §703(a)(4), substituted a period for a comma at end of subpar. (B) and struck out concluding provisions which read: “multiplied by 3.”
 

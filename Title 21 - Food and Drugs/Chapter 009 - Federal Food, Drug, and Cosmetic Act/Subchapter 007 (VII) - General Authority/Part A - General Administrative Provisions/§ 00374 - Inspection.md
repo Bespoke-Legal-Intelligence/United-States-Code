@@ -30,7 +30,7 @@ If the officer or employee making any such inspection of a factory, warehouse, o
 
 #### (d) Analysis of samples furnished owner
 
-Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertaining whether such food consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
+Whenever in the course of any such inspection of a factory or other establishment where food is manufactured, processed, or packed, the officer or employee making the inspection obtains a sample of any such food, and an analysis is made of such sample for the purpose of ascertainingwhether such food consists in whole or in part of any filthy, putrid, or decomposed substance, or is otherwise unfit for food, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
 #### (e) Accessibility of records
 
@@ -66,7 +66,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(E) The operations of such person shall be in accordance with generally accepted professional and ethical business practices, and such person shall agree in writing that at a minimum the person will—
 
-&emsp;&emsp;(i) certify that reported information accurately reflects data reviewed, inspection observations made, other matters that relateto or may influence compliance with this chapter, and recommendations made during an inspection or at an inspection's closing meeting;
+&emsp;&emsp;(i) certify that reported information accurately reflects data reviewed, inspection observations made, other matters that relate to or may influence compliance with this chapter, and recommendations made during an inspection or at an inspection's closing meeting;
 
 &emsp;&emsp;(ii) limit work to that for which competence and capacity are available;
 
@@ -112,7 +112,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 > The Secretary may make both such requests.
 
-(iii) The compliance data to be submitted by a device establishment under clause (ii) are data describing whether the quality controls of the establishment have been sufficient for ensuring consistent compliance with current good manufacturing practice within the meaning of section 351(h) of this title and with other applicable provisions of this chapter. Such data shall include complete reports of inspectional findings regarding good manufacturing practice or other quality control audits that, during the preceding two-year period, were conducted at the establishment by persons other than the owner or operator of the establishment, together with all other relevant compliance data the Secretary deems necessary. Data under the preceding sentence shall demonstrate to the Secretary whether the establishment has facilitated consistent compliance by promptly correcting any compliance problems identified in such inspections.
+(iii) The compliance data to be submitted by a device establishment under clause (ii) are data describing whether the quality controls of theestablishment have been sufficient for ensuring consistent compliance with current good manufacturing practice within the meaning of section 351(h) of this title and with other applicable provisions of this chapter. Such data shall include complete reports of inspectional findings regarding good manufacturing practice or other quality control audits that, during the preceding two-year period, were conducted at the establishment by persons other than the owner or operator of the establishment, together with all other relevant compliance data the Secretary deems necessary. Data under the preceding sentence shall demonstrate to the Secretary whether the establishment has facilitated consistent compliance by promptly correcting any compliance problems identified in such inspections.
 
 (iv)(I) Not later than 60 days after receiving compliance data under clause (iii) from a device establishment, the Secretary shall provide or deny clearance under subparagraph (A). The Secretary may deny clearance if the Secretary determines that the establishment has failed to demonstrate consistent compliance for purposes of clause (iii). The Secretary shall provide to the establishment a statement of such reasons for such determination. If the Secretary fails to provide such statement to the establishment within such 60-day period, the establishment is deemed to have such clearance.
 
@@ -132,7 +132,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (B) At a minimum, an inspection report under subparagraph (A) shall identify the persons responsible for good manufacturing practice compliance at the inspected device establishment, the dates of the inspection, the scope of the inspection, and shall describe in detail each observation identified by the accredited person, identify other matters that relate to or may influence compliance with this chapter, and describe any recommendations during the inspection or at the inspection's closing meeting.
 
-(C) An inspection report under subparagraph (A) shall be sent to the Secretary and to the designated representative of the inspected device establishment at the same time, but under no circumstances later than three weeks after the last day of the inspection. The report to the Secretary shall be accompanied by all written inspection observations previously provided to the designated representative of the establishment.
+(C) An inspection report under subparagraph (A) shall be sent to the Secretary and to the designated representative of the inspected device establishment at the same time, but under nocircumstances later than three weeks after the last day of the inspection. The report to the Secretary shall be accompanied by all written inspection observations previously provided to the designated representative of the establishment.
 
 (D) Any statement or representation made by an employee or agent of a device establishment to a person accredited under paragraph (2) to conduct inspections shall be subject to section 1001 of title 18.
 
@@ -184,7 +184,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (14) Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in section 383(b) of this title between the Secretary and a foreign country.
 
-(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573.)
+(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, titleII, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573.)
 
 #### Amendments
 
@@ -266,7 +266,7 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 203 of Pub. L
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Authority of Secretary Prior to October 10, 1962
 

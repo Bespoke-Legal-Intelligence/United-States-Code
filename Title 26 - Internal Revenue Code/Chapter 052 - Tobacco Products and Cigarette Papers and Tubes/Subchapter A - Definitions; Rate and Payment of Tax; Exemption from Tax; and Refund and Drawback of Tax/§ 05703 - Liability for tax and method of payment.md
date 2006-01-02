@@ -8,7 +8,7 @@
 
 #### (2) Transfer of liability
 
-&emsp;When tobacco products and cigarette papers and tubes are transferred, without payment of tax, pursuant to section 5704, the liability for tax shall be transferred in accordance with the provisions of this paragraph. When tobacco products and cigarette papers and tubes are transferred between the bonded premises of manufacturers and export warehouse proprietors, the transferee shall become liable for the tax upon receipt by him of such articles, and the transferor shall thereupon be relieved of his liability for such tax. When tobacco products and cigarette papers and tubes are released in bond from customs custody for transfer to the bonded premises of a manufacturer of tobacco products or cigarette papers and tubes, the transferee shall become liable for the tax on such articles upon release from customs custody, and the importer shall thereupon be relieved of his liability for such tax. All provisions of this chapter applicable to tobacco products and cigarette papers and tubes in bond shall be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
+&emsp;When tobacco products and cigarette papers and tubes are transferred, without payment of tax, pursuant to section 5704, the liability for tax shall be transferred in accordance with the provisions of this paragraph. When tobacco products and cigarette papers and tubes are transferred between the bonded premises of manufacturers and export warehouse proprietors, the transferee shall become liable for the tax upon receipt by him of such articles, and the transferor shall thereupon be relieved of his liability for such tax. When tobacco products and cigarette papers and tubes arereleased in bond from customs custody for transfer to the bonded premises of a manufacturer of tobacco products or cigarette papers and tubes, the transferee shall become liable for the tax on such articles upon release from customs custody, and the importer shall thereupon be relieved of his liability for such tax. All provisions of this chapter applicable to tobacco products and cigarette papers and tubes in bond shall be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
 
 #### (b) Method of payment of tax
 
@@ -66,7 +66,7 @@
 
 #### (3) Payment by electronic fund transfer
 
-&emsp;Any person who in any 12-month period, ending December 31, was liable for a gross amount equal to or exceeding $5,000,000 in taxes imposed on tobacco products and cigarette papers and tubes by section 5701 (or 7652) shall pay such taxes during the succeeding calendar year by electronic fund transfer (as defined in section 5061(e)(2)) to a Federal Reserve Bank. Rules similar to the rules of section 5061(e)(3) shall apply to the $5,000,000 amount specified in the preceding sentence.
+&emsp;Any person who in any 12-month period, ending December 31, was liable for a gross amount equal to or exceeding $5,000,000 in taxes imposed on tobacco products and cigarette papers and tubes by section 5701 (or 7652) shall pay such taxes during the succeeding calendar year by electronic fund transfer (as defined in section 5061(e)(2)) to a Federal Reserve Bank. Rules similar to the rules of section 5061(e)(3)shall apply to the $5,000,000 amount specified in the preceding sentence.
 
 #### (c) Use of government depositaries
 
@@ -86,7 +86,7 @@ Subsec. (b)(2)(E). Pub. L. 103–465, §712(c), redesignated subpar. (D) as (E),
 
 1988—Subsec. (b)(2)(B)(i), (ii), (C). Pub. L. 100–647 substituted “the 14th day after the last day of the semimonthly period during which” for “the 14th day after the date on which”.
 
-1986—Subsec. (b)(2). Pub. L. 99–509 amended par. (2) generally. Prior to amendment par. (2), time for making of return and payment of taxes, read as follows: “Inthe case of tobacco products and cigarette papers and tubes removed after December 31, 1982, under bond for deferred payment of tax, the last day for filing a return and paying any tax due for each return period shall be the last day of the first succeeding return period plus 10 days.”
+1986—Subsec. (b)(2). Pub. L. 99–509 amended par. (2) generally. Prior to amendment par. (2), time for making of return and payment of taxes, read as follows: “In the case of tobacco products and cigarette papers and tubes removed after December 31, 1982, under bond for deferred payment of tax, the last day for filing a return and paying any tax due for each return period shall be the last day of the first succeeding return period plus 10 days.”
 
 Subsec. (b)(3). Pub. L. 99–514 inserted last sentence.
 
@@ -147,8 +147,4 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6207, 6302 of this title.
 

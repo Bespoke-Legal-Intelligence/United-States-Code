@@ -6,7 +6,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (b) Authority regarding individual diseases
 
-With respect to diseases described in subsection (a) of this section, the Secretary shall, in making a grant under such subsection, specify the particular disease or diseases with respect to which the grant is to be made. The Secretary may not make the grant unless the applicant involved agrees to carry out this section only with respect to the disease or diseases so specified.
+With respect to diseases described in subsection (a) of this section, the Secretary shall, in making a grant under such subsection, specify the particular disease or diseases with respect to which the grant is to be made. The Secretarymay not make the grant unless the applicant involved agrees to carry out this section only with respect to the disease or diseases so specified.
 
 #### (c) Authorized activities
 
@@ -106,7 +106,7 @@ With respect to activities for which a grant under subsection (a) of this sectio
 
 #### (m) Duration of grant
 
-The period during which payments are made to an entity from a grant under subsection (a) ofthis section may not exceed 3 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
+The period during which payments are made to an entity from a grant under subsection (a) of this section may not exceed 3 years. The provision of such payments shall be subject to annual approval by the Secretary of the payments and subject to the availability of appropriations for the fiscal year involved to make the payments in such year. The preceding sentence may not be construed to establish a limitation on the number of grants under such subsection that may be made to an entity.
 
 #### (n) Technical assistance, and supplies and services in lieu of grant funds
 

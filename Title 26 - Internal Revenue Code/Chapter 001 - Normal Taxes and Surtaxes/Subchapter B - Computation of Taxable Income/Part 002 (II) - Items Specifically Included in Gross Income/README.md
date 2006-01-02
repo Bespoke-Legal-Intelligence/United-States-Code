@@ -23,7 +23,7 @@
 | :--- | ---: |
 | [85\.](%C2%A7%2000085%20-%20Unemployment%20compensation.md) | Unemployment compensation. |
 | [86\.](%C2%A7%2000086%20-%20Social%20security%20and%20tier%201%20railroad%20retirement%20benefits.md) | Social security and tier 1 railroad retirement benefits. |
-| [87\.](%C2%A7%2000087%20-%20Alcohol%20fuel%20credit.md) | Alcohol fuel credit. |
+| [87\.](%C2%A7%2000087%20-%20Alcohol%20and%20biodiesel%20fuels%20credits.md) | Alcohol and biodiesel fuels credits. |
 | [88\.](%C2%A7%2000088%20-%20Certain%20amounts%20with%20respect%20to%20nuclear%20decommissioning%20costs.md) | Certain amounts with respect to nuclear decommissioning costs. |
 | \[89. | Repealed.\] |
 | [90\.](%C2%A7%2000090%20-%20Illegal%20Federal%20irrigation%20subsidies.md) | Illegal Federal irrigation subsidies. |
@@ -31,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title III, §302(c)(1)(B), Oct. 22, 2004, 118 Stat. 1465, substituted “and biodiesel fuels credits” for “fuel credit” in item 87.
 
 1989—Pub. L. 101–239, title VII, §7822(c), Dec. 19, 1989, 103 Stat. 2425, substituted “Illegal Federal irrigation” for “Federal irrigation” in item 90.
 
@@ -62,10 +64,6 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 
 1962—Pub. L. 87–834, §9(d)(1), Oct. 16, 1962, 76 Stat. 1001, added item 78.
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 61 of this title.
-
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
@@ -89,7 +87,7 @@ This part is referred to in section 61 of this title.
 - [&sect; 00084 - Transfer of appreciated property to political organization](%C2%A7%2000084%20-%20Transfer%20of%20appreciated%20property%20to%20political%20organization.md)
 - [&sect; 00085 - Unemployment compensation](%C2%A7%2000085%20-%20Unemployment%20compensation.md)
 - [&sect; 00086 - Social security and tier 1 railroad retirement benefits](%C2%A7%2000086%20-%20Social%20security%20and%20tier%201%20railroad%20retirement%20benefits.md)
-- [&sect; 00087 - Alcohol fuel credit](%C2%A7%2000087%20-%20Alcohol%20fuel%20credit.md)
+- [&sect; 00087 - Alcohol and biodiesel fuels credits](%C2%A7%2000087%20-%20Alcohol%20and%20biodiesel%20fuels%20credits.md)
 - [&sect; 00088 - Certain amounts with respect to nuclear decommissioning costs](%C2%A7%2000088%20-%20Certain%20amounts%20with%20respect%20to%20nuclear%20decommissioning%20costs.md)
 - [&sect; 00089 - Repealed. Pub. L. 101&#8211;140, title II, &sect;202(a), Nov. 8, 1989, 103 Stat. 830](%C2%A7%2000089%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93140%2C%20title%20II%2C%20%C2%A7202%28a%29%2C%20Nov.%208%2C%201989%2C%20103%20Stat.%20830.md)
 - [&sect; 00090 - Illegal Federal irrigation subsidies](%C2%A7%2000090%20-%20Illegal%20Federal%20irrigation%20subsidies.md)

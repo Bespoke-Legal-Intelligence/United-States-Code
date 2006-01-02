@@ -30,7 +30,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (A) Best available controls
 
-&emsp;&emsp;The term “best available controls” means the degree of emissions reduction that the Administrator determines, on the basis of technological and economic feasibility, health, environmental, and energy impacts, is achievable through the application of the most effective equipment, measures, processes, methods, systems or techniques, including chemical reformulation, product or feedstock substitution, repackaging, and directions for use, consumption, storage, or disposal.
+&emsp;&emsp;The term “best available controls” means the degree of emissions reduction that theAdministrator determines, on the basis of technological and economic feasibility, health, environmental, and energy impacts, is achievable through the application of the most effective equipment, measures, processes, methods, systems or techniques, including chemical reformulation, product or feedstock substitution, repackaging, and directions for use, consumption, storage, or disposal.
 
 #### (B) Consumer or commercial product
 
@@ -90,7 +90,7 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (5) Special fund
 
-&emsp;Any amounts collected by the Administrator under such regulations shall be deposited in a special fund in the United States Treasury for licensing and other services, which thereafter shall be available until expended, subject to annual appropriation Acts, solely to carry out the activities of the Administrator for which such fees, charges, or collections are established or made.
+&emsp;Any amounts collected by the Administrator under such regulations shall be deposited in aspecial fund in the United States Treasury for licensing and other services, which thereafter shall be available until expended, subject to annual appropriation Acts, solely to carry out the activities of the Administrator for which such fees, charges, or collections are established or made.
 
 #### (6) Enforcement
 

@@ -34,7 +34,3 @@
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2410f of this title; title 33 section 569f; title 42 section 5206.
-

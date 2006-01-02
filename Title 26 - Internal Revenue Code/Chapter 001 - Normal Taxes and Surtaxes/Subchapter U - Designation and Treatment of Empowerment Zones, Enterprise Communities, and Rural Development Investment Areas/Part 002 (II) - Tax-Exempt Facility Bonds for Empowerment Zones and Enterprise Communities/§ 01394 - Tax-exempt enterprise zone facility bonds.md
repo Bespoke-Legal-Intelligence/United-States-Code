@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “enterprise zone facility” means any qualified zone property the principal userof which is an enterprise zone business, and any land which is functionally related and subordinate to such property.
+&emsp;The term “enterprise zone facility” means any qualified zone property the principal user of which is an enterprise zone business, and any land which is functionally related and subordinate to such property.
 
 #### (2) Qualified zone property
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (iii) Reduced requirements after testing period
 
-&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone or an enterprise community. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
+&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone or an enterprisecommunity. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
 
 #### (C) Definitions relating to subparagraph (B)
 
@@ -104,7 +104,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (3) Exception if zone ceases
 
-&emsp;Paragraphs (1) and (2) shall not apply solely by reason of the termination or revocation ofa designation as an empowerment zone or an enterprise community.
+&emsp;Paragraphs (1) and (2) shall not apply solely by reason of the termination or revocation of a designation as an empowerment zone or an enterprise community.
 
 #### (4) Exception for bankruptcy
 
@@ -144,7 +144,7 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 #### (ii) Current refunding not taken into account
 
-&emsp;&emsp;&emsp;In the case of a refunding (or series of refundings) of a bond designated under this paragraph, the refunding obligation shall be treated as designated under this paragraph (and shall not be taken into account in applying subparagraph (B)) if—
+&emsp;&emsp;&emsp;In the case of a refunding (or series of refundings) of a bond designated under thisparagraph, the refunding obligation shall be treated as designated under this paragraph (and shall not be taken into account in applying subparagraph (B)) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 
@@ -207,8 +207,4 @@ Section 955(c) of Pub. L. 105–34 provided that: “The amendments made by this
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1400A of this title.
 

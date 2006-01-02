@@ -10,7 +10,7 @@ Certification.—Each report under subsection (a) shall include a certification�
 
 &emsp;(1) that the board has carefully considered the record of each officer whose name was furnished to the board; and
 
-&emsp;(2) that, in the case of a promotion board convened under section 14101(a) of this title, in the opinion of a majority of the members of the board, the officers recommended for promotion by the board are best qualified for promotion to meet the needs of the armed forceconcerned (as noted in the guidelines or information furnished the board under section 14107 of this title) among those officers whose names were furnished to the selection board.
+&emsp;(2) that, in the case of a promotion board convened under section 14101(a) of this title, in the opinion of a majority of the members of the board, the officers recommended for promotion by the board are best qualified for promotion to meet the needs of the armed force concerned (as noted in the guidelines or information furnished the board under section 14107 of this title) among those officers whose names were furnished to the selection board.
 
 (c)
 
@@ -23,8 +23,4 @@ Show-Cause Recommendations.—(1) A promotion board convened under section 14101
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5897 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 14107, 14108, 14110, 14502 of this title.
 

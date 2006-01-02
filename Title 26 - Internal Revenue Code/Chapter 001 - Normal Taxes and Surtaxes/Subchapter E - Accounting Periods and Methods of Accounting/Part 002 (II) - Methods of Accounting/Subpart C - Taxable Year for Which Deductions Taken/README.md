@@ -17,14 +17,17 @@ Subpart C—Taxable Year for Which Deductions Taken
 | [468A.](%C2%A7%2000468A%20-%20Special%20rules%20for%20nuclear%20decommissioning%20costs.md) | Special rules for nuclear decommissioning costs. |
 | [468B.](%C2%A7%2000468B%20-%20Special%20rules%20for%20designated%20settlement%20funds.md) | Special rules for designated settlement funds. |
 | [469\.](%C2%A7%2000469%20-%20Passive%20activity%20losses%20and%20credits%20limited.md) | Passive activity losses and credits limited. |
+| [470\.](%C2%A7%2000470%20-%20Limitation%20on%20deductions%20allocable%20to%20property%20used%20by%20governments%20or%20other%20tax-exempt%20entities.md) | Limitation on deductions allocable to property used by governments or other tax-exempt entities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2004—Pub. L. 108–357, title VIII, §848(b), Oct. 22, 2004, 118 Stat. 1606, added item 470.
+
 1987—Pub. L. 100–203, title X, §10201(b)(7), Dec. 22, 1987, 101 Stat. 1330–387, struck out item 463 “Accrual of vacation pay”.
 
-1986—Pub. L. 99–514, title IV, §404(b)(2), title V, §501(b), title VIII, §823(b)(2), title XVIII, §§1807(a)(7)(B),1899A(71), Oct. 22, 1986, 100 Stat. 2224, 2241, 2374, 2815, 2963, substituted “for certain farming expenses” for “in case of farming syndicates” in item 464, struck out item 466 “Qualified discount coupons redeemed after close of taxable year”, inserted “the” before “use” in item 467, and added items 468B and 469.
+1986—Pub. L. 99–514, title IV, §404(b)(2), title V, §501(b), title VIII, §823(b)(2), title XVIII, §§1807(a)(7)(B), 1899A(71), Oct. 22, 1986, 100 Stat. 2224, 2241, 2374, 2815, 2963, substituted “for certain farming expenses” for “in case of farming syndicates” in item 464, struck out item 466 “Qualified discount coupons redeemed after close of taxable year”, inserted “the” before “use” in item 467, and added items 468B and 469.
 
 1984—Pub. L. 98–369, div. A, title I, §§91(b)(2), (c)(2), 92(b), July 18, 1984, 98 Stat. 604, 606, 612, added items 467, 468, and 468A.
 
@@ -56,3 +59,4 @@ Subpart C—Taxable Year for Which Deductions Taken
 - [&sect; 00468A - Special rules for nuclear decommissioning costs](%C2%A7%2000468A%20-%20Special%20rules%20for%20nuclear%20decommissioning%20costs.md)
 - [&sect; 00468B - Special rules for designated settlement funds](%C2%A7%2000468B%20-%20Special%20rules%20for%20designated%20settlement%20funds.md)
 - [&sect; 00469 - Passive activity losses and credits limited](%C2%A7%2000469%20-%20Passive%20activity%20losses%20and%20credits%20limited.md)
+- [&sect; 00470 - Limitation on deductions allocable to property used by governments or other tax-exempt entities](%C2%A7%2000470%20-%20Limitation%20on%20deductions%20allocable%20to%20property%20used%20by%20governments%20or%20other%20tax-exempt%20entities.md)

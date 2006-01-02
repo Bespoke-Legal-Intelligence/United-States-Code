@@ -150,11 +150,7 @@ Subsec. (e). Pub. L. 100–647, §1006(t)(18)(A), inserted at end “Such return
 
 #### Effective Date of 1988 Amendment
 
-Section 1006(t)(18)(B) of Pub. L. 100–647 provided that: “Unless the REMIC otherwise elects, the amendmentmade by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before the date of the enactment of this Act.”
+Section 1006(t)(18)(B) of Pub. L. 100–647 provided that: “Unless the REMIC otherwise elects, the amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before the date of the enactment of this Act.”
 
 Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 860D, 860L of this title.
 

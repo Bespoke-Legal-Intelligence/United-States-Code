@@ -30,7 +30,7 @@ Subsections (a) and (b) of this section shall apply to a child adopted by a Unit
 
 #### Amendments
 
-2002—Subsec. (a). Pub. L. 107–273, §11030B(1), in introductory provisions, inserted “(or, if the citizen parent has died during the preceding 5 years, a citizen grandparent or citizen legal guardian)” after “citizen of the United States” and substituted “such applicant” for “such parent”.
+2002—Subsec. (a). Pub. L. 107–273, §11030B(1), in introductory provisions, inserted “(or, if the citizen parenthas died during the preceding 5 years, a citizen grandparent or citizen legal guardian)” after “citizen of the United States” and substituted “such applicant” for “such parent”.
 
 Subsec. (a)(1). Pub. L. 107–273, §11030B(2), inserted “(or, at the time of his or her death, was)” after “parent”.
 

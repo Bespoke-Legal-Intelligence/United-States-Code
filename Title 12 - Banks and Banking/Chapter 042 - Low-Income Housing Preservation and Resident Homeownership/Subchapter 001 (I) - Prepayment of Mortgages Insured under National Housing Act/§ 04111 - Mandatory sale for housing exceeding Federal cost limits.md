@@ -12,7 +12,7 @@ With respect to any eligible low-income housing for which the aggregate preserva
 
 #### (2) Expression of interest
 
-&emsp;During the period under paragraph (1), priority purchasers shall have the opportunity to submit written notice to the owner and the Secretary stating their interest in acquiring the housing. Such written notice shall be in such form and include such information as the Secretary may prescribe.
+&emsp;During the period under paragraph (1), priority purchasers shall have the opportunity tosubmit written notice to the owner and the Secretary stating their interest in acquiring the housing. Such written notice shall be in such form and include such information as the Secretary may prescribe.
 
 #### (3) Information from Secretary
 
@@ -30,7 +30,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### (2) Additional assistance
 
-&emsp;From amounts made available under section 4124(b) of this title, the Secretary may make grants to assist in the completion of sales and transfers under this section to any qualified purchasers. Any grant under this paragraph shall be in an amount not exceeding the difference between the preservation value for thehousing (determined under section 4103(b)(2) of this title) and the level of assistance under paragraph (1) of this subsection.
+&emsp;From amounts made available under section 4124(b) of this title, the Secretary may make grants to assist in the completion of sales and transfers under this section to any qualified purchasers. Any grant under this paragraph shall be in an amount not exceeding the difference between the preservation value for the housing (determined under section 4103(b)(2) of this title) and the level of assistance under paragraph (1) of this subsection.
 
 #### (3) Securing State and local funding
 

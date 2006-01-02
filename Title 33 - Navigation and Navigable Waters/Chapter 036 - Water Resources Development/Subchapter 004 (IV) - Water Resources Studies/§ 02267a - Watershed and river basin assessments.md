@@ -62,7 +62,7 @@ In carrying out an assessment under subsection (a) of this section, the Secretar
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary may credit toward the non-Federal share ofan assessment under this section the cost of services, materials, supplies, or other in-kind contributions provided by the non-Federal interests for the assessment.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary may credit toward the non-Federal share of an assessment under this section the cost of services, materials, supplies, or other in-kind contributions provided by the non-Federal interests for the assessment.
 
 #### (B) Maximum amount of credit
 

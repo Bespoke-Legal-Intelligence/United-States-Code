@@ -17,10 +17,13 @@ Subpart F—Controlled Foreign Corporations
 | [962\.](%C2%A7%2000962%20-%20Election%20by%20individuals%20to%20be%20subject%20to%20tax%20at%20corporate%20rates.md) | Election by individuals to be subject to tax at corporate rates. |
 | \[963. | Repealed.\] |
 | [964\.](%C2%A7%2000964%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
+| [965\.](%C2%A7%2000965%20-%20Temporary%20dividends%20received%20deduction.md) | Temporary dividends received deduction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2004—Pub. L. 108–357, title IV, §422(c), Oct. 22, 2004, 118 Stat. 1519, added item 965.
 
 1996—Pub. L. 104–188, title I, §1501(c), Aug. 20, 1996, 110 Stat. 1826, which directed that the analysis for subpart F be amended by striking item 956A, could not be executed, because item 956A “Earnings invested in excess passive assets” had been editorially supplied.
 
@@ -29,10 +32,6 @@ Subpart F—Controlled Foreign Corporations
 1975—Pub. L. 94–12, title VI, §602(a)(3)(A), (c)(7), (d)(3)(B), Mar. 29, 1975, 89 Stat. 58, 60, 64, struck out existing item 955 and replaced it with an identical item 955 and struck out item 963 “Receipt of minimum distributions by domestic corporations”.
 
 1962—Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1006, added heading of subpart F, and items 951–964.
-
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in sections 848, 864, 898, 904, 951, 952, 954, 955, 970, 999, 1296, 1297, 1373, 6038, 6654, 6655 of this title.
 
 
 ---
@@ -54,3 +53,4 @@ This subpart is referred to in sections 848, 864, 898, 904, 951, 952, 954, 955, 
 - [&sect; 00962 - Election by individuals to be subject to tax at corporate rates](%C2%A7%2000962%20-%20Election%20by%20individuals%20to%20be%20subject%20to%20tax%20at%20corporate%20rates.md)
 - [&sect; 00963 - Repealed. Pub. L. 94&#8211;12, title VI, &sect;602(a)(1), Mar. 29, 1975, 89 Stat. 58](%C2%A7%2000963%20-%20Repealed.%20Pub.%20L.%2094%E2%80%9312%2C%20title%20VI%2C%20%C2%A7602%28a%29%281%29%2C%20Mar.%2029%2C%201975%2C%2089%20Stat.%2058.md)
 - [&sect; 00964 - Miscellaneous provisions](%C2%A7%2000964%20-%20Miscellaneous%20provisions.md)
+- [&sect; 00965 - Temporary dividends received deduction](%C2%A7%2000965%20-%20Temporary%20dividends%20received%20deduction.md)

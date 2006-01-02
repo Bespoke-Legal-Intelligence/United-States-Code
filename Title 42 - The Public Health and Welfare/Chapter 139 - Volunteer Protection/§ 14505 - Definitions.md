@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 #### (1) Economic loss
 
-&emsp;The term “economic loss” means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burialcosts, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
+&emsp;The term “economic loss” means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
 
 #### (2) Harm
 
@@ -12,7 +12,7 @@ For purposes of this chapter:
 
 #### (3) Noneconomic losses
 
-&emsp;The term “noneconomic losses” means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
+&emsp;The term “noneconomic losses” means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domesticservice), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
 
 #### (4) Nonprofit organization
 

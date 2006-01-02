@@ -54,7 +54,7 @@ The net proceeds received by the Directors from the sale of effects under subsec
 
 #### (e) Unclaimed property
 
-In the case of property delivered to the Retirement Home under section 2575 of title 10, the Director of the facility shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Director of the facility within two years after the delivery.
+In the case of property delivered to the Retirement Home under section 2575 of title 10, the Director of the facility shall deliver the propertyto the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Director of the facility within two years after the delivery.
 
 (Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 107–107, div. A, title XIV, §§1408, 1410(a)(3), Dec. 28, 2001, 115 Stat. 1265, 1266; Pub. L. 107–314, div. A, title X, §1062(f)(3), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title X, §1045(g), Nov. 24, 2003, 117 Stat. 1613.)
 

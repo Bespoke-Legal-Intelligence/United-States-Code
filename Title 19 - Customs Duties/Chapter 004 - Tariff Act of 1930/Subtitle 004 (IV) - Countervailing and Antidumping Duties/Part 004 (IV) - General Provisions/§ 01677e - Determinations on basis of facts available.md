@@ -34,7 +34,7 @@ If the administering authority or the Commission (as the case may be) finds that
 
 When the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
 
-(June 17, 1930, ch. 497, title VII, §776, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat.186; amended Pub. L. 98–573, title VI, §618, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 100–418, title I, §§1326(d)(1), 1331, Aug. 23, 1988, 102 Stat. 1204, 1207; Pub. L. 103–465, title II, §231(c), Dec. 8, 1994, 108 Stat. 4896.)
+(June 17, 1930, ch. 497, title VII, §776, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §618, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 100–418, title I, §§1326(d)(1), 1331, Aug. 23, 1988, 102 Stat. 1204, 1207; Pub. L. 103–465, title II, §231(c), Dec. 8, 1994, 108 Stat. 4896.)
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Subsec. (c). Pub. L. 100–418, §1331(1), redesignated former subsec. (b) as (c
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States \[Jan. 1, 1995\], and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -18,7 +18,3 @@ Amendment by Pub. L. 91–172 effective one year after Dec. 30, 1969, see sectio
 
 Authority of Tax Court to prescribe rules under this section unaffected by amendments of title IV of Pub. L. 100–702, see section 405 of Pub. L. 100–702, set out as a note under section 2071 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6110, 7436, 7463 of this title.
-

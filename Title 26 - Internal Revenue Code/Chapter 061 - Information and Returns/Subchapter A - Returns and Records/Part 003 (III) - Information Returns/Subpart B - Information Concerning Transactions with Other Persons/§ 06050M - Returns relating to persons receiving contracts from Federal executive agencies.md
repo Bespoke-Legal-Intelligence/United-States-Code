@@ -12,7 +12,7 @@ The head of every Federal executive agency which enters into any contract shall 
 
 For purposes of this section, the term “Federal executive agency” means—
 
-&emsp;(1) any Executive agency (as defined in section 105 of title 5, United States Code) other than the General Accounting Office,
+&emsp;(1) any Executive agency (as defined in section 105 of title 5, United States Code) other than the Government Accountability Office,
 
 &emsp;(2) any military department (as defined in section 102 of such title), and
 
@@ -52,9 +52,11 @@ This section shall not apply to contracts or licenses in any class which are bel
 
 &emsp;&emsp;(B) the head of such Federal executive agency (or his designee) pursuant to regulations issued by such agency determines, in writing, that filing the required return under this section would interfere with the effective conduct of a confidential law enforcement or foreign counterintelligence activity.
 
-(Added Pub. L. 99–514, title XV, §1522(a), Oct. 22, 1986, 100 Stat. 2747; amended Pub. L. 100–647, title I, §1015(f), Nov. 10, 1988, 102 Stat. 3570.)
+(Added Pub. L. 99–514, title XV, §1522(a), Oct. 22, 1986, 100 Stat. 2747; amended Pub. L. 100–647, title I, §1015(f), Nov. 10, 1988, 102 Stat. 3570; Pub. L. 109–135, title IV, §412(rr)(2), Dec. 21, 2005, 119 Stat. 2640.)
 
 #### Amendments
+
+2005—Subsec. (b)(1). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office”.
 
 1988—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
@@ -65,8 +67,4 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 #### Effective Date
 
 Section 1522(c) of Pub. L. 99–514 provided that: “The amendments made by this section \[enacting this section\] shall apply to contracts (and subcontracts) entered into, and licenses granted, before, on, or after January 1, 1987.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6041A, 6050P of this title.
 

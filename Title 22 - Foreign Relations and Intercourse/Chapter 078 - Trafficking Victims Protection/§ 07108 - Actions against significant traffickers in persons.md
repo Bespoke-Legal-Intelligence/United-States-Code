@@ -28,7 +28,7 @@
 
 #### (2) Removal of sanctions
 
-&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a)of this section, the President shall report to the committees described in paragraph (1) on such suspension or termination.
+&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a) of this section, the President shall report to the committees described in paragraph (1) on such suspension or termination.
 
 #### (3) Submission of classified information
 

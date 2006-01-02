@@ -35,8 +35,6 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) which is rated at 6,000 pounds unloaded gross vehicle weight or less.
 
-> &emsp;&emsp;In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).
-
 #### (B) Exception for certain vehicles
 
 &emsp;&emsp;The term “automobile” does not include any vehicle which is treated as a nonpassenger automobile under the rules which were prescribed by the Secretary of Transportation for purposes of section 32901 of title 49, United States Code, and which were in effect on the date of the enactment of this section.
@@ -97,7 +95,7 @@ For purposes of this section—
 
 &emsp;Testing and calculation procedures applicable to a model year, and any amendment to such procedures (other than a technical or clerical amendment), shall be promulgated not less than 12 months before the model year to which such procedures apply.
 
-(Added Pub. L. 95–618, title II, §201(a), Nov. 9, 1978, 92 Stat. 3180; amended Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(i), (ii), Oct. 22, 1986, 100 Stat. 2836; Pub. L. 101–508, title XI, §11216(a)–(d), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 103–272, §5(g)(1), July 5, 1994, 108 Stat. 1374.)
+(Added Pub. L. 95–618, title II, §201(a), Nov. 9, 1978, 92 Stat. 3180; amended Pub. L. 99–514, title XVIII, §1812(e)(1)(B)(i), (ii), Oct. 22, 1986, 100 Stat. 2836; Pub. L. 101–508, title XI, §11216(a)–(d), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 103–272, §5(g)(1), July 5, 1994, 108 Stat. 1374; Pub. L. 109–59, title XI, §11111(a), Aug. 10, 2005, 119 Stat. 1946.)
 
 #### References in Text
 
@@ -106,6 +104,8 @@ The date of enactment of this section, referred to in subsec. (b)(1)(B), is Nov.
 Section 206 of the Clean Air Act, referred to in subsec. (c)(1), is section 206 of act July 14, 1955, ch. 360, title II, as added Dec. 31, 1970, Pub. L. 91–604, §8(a), 84 Stat. 1694, which is classified to section 7525 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2005—Subsec. (b)(1)(A). Pub. L. 109–59 struck out concluding provisions which read as follows: “In the case of a limousine, the preceding sentence shall be applied without regard to clause (ii).”
 
 1994—Subsec. (b)(1)(B). Pub. L. 103–272 substituted “section 32901 of title 49, United States Code,” for “section 501 of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2001)”.
 
@@ -124,6 +124,10 @@ Subsec. (d). Pub. L. 101–508, §11216(d), struck out subsec. (d) which prescri
 1986—Subsec. (b)(1)(A)(ii). Pub. L. 99–514, §1812(e)(1)(B)(i), substituted “unloaded gross vehicle weight” for “gross vehicle weight”.
 
 Subsec. (b)(5). Pub. L. 99–514, §1812(e)(1)(B)(ii), amended par. (5) generally, designating existing provisions as subpar. (A), adding subpar. (A) heading, and adding subpar. (B).
+
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–59, title XI, §11111(b), Aug. 10, 2005, 119 Stat. 1946, provided that: “The amendment made by this section \[amending this section\] shall take effect on October 1, 2005.”
 
 #### Effective Date of 1990 Amendment
 
@@ -160,8 +164,4 @@ Section 201(g) of Pub. L. 95–618, as amended by Pub. L. 99–514, §2, Oct. 22
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1016, 4217, 4221, 4222, 4293, 6416 of this title; title 49 section 32908.
 

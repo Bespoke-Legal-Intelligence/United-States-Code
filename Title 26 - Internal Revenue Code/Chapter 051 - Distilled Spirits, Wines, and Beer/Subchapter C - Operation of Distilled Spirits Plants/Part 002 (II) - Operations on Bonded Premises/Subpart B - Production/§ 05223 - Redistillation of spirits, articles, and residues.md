@@ -24,7 +24,7 @@ All distilled spirits redistilled on bonded premises subsequent to production ga
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) and (d) of this section were contained in prior sectionsof act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
+Provisions similar to those comprising subsecs. (a) and (d) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
 &nbsp;
 
@@ -58,8 +58,4 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 #### Effective Date of 1965 Amendment
 
 Amendment by Pub. L. 89–44 effective Oct. 1, 1965, see section 805(g)(2) of Pub. L. 89–44, set out as a note under section 5004 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5004, 5005, 5211, 5607 of this title.
 

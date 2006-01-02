@@ -20,7 +20,7 @@ The Secretary may not construe the provisions of this section to take precedence
 
 #### (d) Congressional notice
 
-(1) The Secretary shall provide notice to the Committee on Education and Labor of the House of Representatives and to the Committee on Labor and Human Resources of the Senate of each joint funding agreement made with other Federal agencies not later than 60 days after the making of such agreements.
+(1) The Secretary shall provide notice to the Committee on Education and Labor of the Houseof Representatives and to the Committee on Labor and Human Resources of the Senate of each joint funding agreement made with other Federal agencies not later than 60 days after the making of such agreements.
 
 (2) Such notice shall include—
 

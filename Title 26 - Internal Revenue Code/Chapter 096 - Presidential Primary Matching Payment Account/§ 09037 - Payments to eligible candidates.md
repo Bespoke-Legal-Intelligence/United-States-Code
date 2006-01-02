@@ -14,7 +14,3 @@ Upon receipt of a certification from the Commission under section 9036, but not 
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in three places.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 9006, 9032, 9033, 9034, 9036, 9038, 9042 of this title.
-

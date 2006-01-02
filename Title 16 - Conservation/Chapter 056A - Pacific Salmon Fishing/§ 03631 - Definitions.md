@@ -60,7 +60,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 #### Short Title
 
-Section 1 of Pub. L. 99–5 provided: “That this Act \[enacting this chapter and repealing sections 776 to 776f ofthis title and provisions set out as notes under section 776 of this title\] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
+Section 1 of Pub. L. 99–5 provided: “That this Act \[enacting this chapter and repealing sections 776 to 776f of this title and provisions set out as notes under section 776 of this title\] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
 
 #### Territorial Sea of United States
 

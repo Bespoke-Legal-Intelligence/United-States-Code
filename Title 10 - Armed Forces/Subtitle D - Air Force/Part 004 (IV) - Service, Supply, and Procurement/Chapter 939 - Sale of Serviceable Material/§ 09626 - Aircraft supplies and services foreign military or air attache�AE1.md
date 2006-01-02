@@ -20,7 +20,3 @@ May 31, 1939, ch. 161 (less last sentence), 53 Stat. 795.
 
 The last sentence is substituted for the words “except for shelter for which no charge shall be made”. The words “and equipment” are omitted as covered by the word “supplies”. 22:259 (last 22 words of 2d sentence) is omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9629 of this title.
-

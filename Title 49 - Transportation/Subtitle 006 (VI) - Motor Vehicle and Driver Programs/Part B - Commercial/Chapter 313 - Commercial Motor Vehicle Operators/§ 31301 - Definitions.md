@@ -158,7 +158,57 @@ Par. (12)(D) to (G). Pub. L. 106–159, §201(c), added subpars. (D) to (F) and 
 
 Par. (4)(C)(ii). Pub. L. 105–178, §4011(a)(2), inserted “is” before “transporting” in two places and before “not otherwise regulated”.
 
+#### Grant Program for Commercial Motor Vehicle Operators
+
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, provided that:
+
+“(a)
+
+Establishment.—The Secretary \[of Transportation\] shall establish a grant program for persons to train operators of commercial motor vehicles (as defined in section 31301 of title 49, United States Code). The purpose of the program shall be to train operators and future operators in the safe use of such vehicles.
+
+“(b)
+
+Federal Share.—The Federal share of the cost for which a grant is made under this section shall be 80 percent.
+
+“(c)
+
+Funding.—From amounts made available under section 31104(i) of title 49, United States Code, the Secretary shall make available $1,000,000 for each of fiscal years 2005 through 2009 to carry out this section.”
+
+#### CDL Task Force
+
+Pub. L. 109–59, title IV, §4135, Aug. 10, 2005, 119 Stat. 1744, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Transportation\] shall convene a task force to study and address current impediments and foreseeable challenges to the commercial driver's license program's effectiveness and measures needed to realize the full safety potential of the commercial driver's license program, including such issues as—
+
+&emsp;“(1) State enforcement practices;
+
+&emsp;“(2) operational procedures to detect and deter fraud;
+
+&emsp;“(3) needed improvements for seamless information sharing between States;
+
+&emsp;“(4) effective methods for accurately sharing electronic data between States;
+
+&emsp;“(5) adequate proof of citizenship;
+
+&emsp;“(6) updated technology; and
+
+&emsp;“(7) timely notification from judicial bodies concerning traffic and criminal convictions of commercial driver's license holders.
+
+“(b)
+
+Membership.—Members of the task force should include State motor vehicle administrators, organizations representing government agencies or officials, members of the Judicial Conference, representatives of the trucking industry, representatives of labor organizations, safety advocates, and other significant stakeholders.
+
+“(c)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary, on behalf of the task force, shall complete a report of the task forces \[sic\] findings and recommendations for legislative, regulatory, and enforcement changes to improve the commercial drivers \[sic\] license program and submit such the \[sic\] report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+“(d)
+
+Funding.—From the funds amounts made available by section 4101(c)(1) \[119 Stat. 1715\], $200,000 shall be available for each of fiscal years 2006 and 2007 to carry out this section.”
+
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 
-For provisions relating to waiver of requirements of this chapter with respect to vehicles used for snow or ice removal, see section 345(a)(5) of Pub. L. 104–59, set out as a note under section 31136 of this title.
+For provisions relating to waiver of requirements of this chapter with respect to vehicles used for snow or ice removal, see section 229(a)(5) of Pub. L. 106–159, set out as a note under section 31136 of this title.
 

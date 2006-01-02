@@ -6,7 +6,7 @@ Under such regulations as the Secretary may prescribe, the amount of any interna
 
 #### (b) Drawback
 
-On the exportation of distilled spirits or wines manufactured, produced, bottled, or packaged in casks or other bulk containers in the United States on which an internal revenue tax has been paid or determined, and which are contained in any cask or other bulk container, or in bottles packed in cases or other containers, there shall be allowed, under regulations prescribed by the Secretary, a drawback equal in amount to the tax found to have been paid or determined on such distilled spirits or wines. In the case of distilled spirits, the preceding sentence shall not apply unless the claim for drawback is filed by the bottler or packager of the spirits and unless such spirits have been marked, especially for export, under regulations prescribed by the Secretary. The Secretary is authorized to prescribe regulations governing the determination and payment or crediting of drawback of internal revenue tax on spirits and wines eligible for drawback under this subsection, including the requirements of such notices, bonds, bills of lading, and other evidence indicating payment or determination of tax and exportation as shall be deemed necessary.
+On the exportation of distilled spirits or wines manufactured, produced, bottled, or packaged in casks or other bulk containers in the United States on which an internal revenue tax has been paid or determined, and which are contained in any cask or other bulk container, or in bottles packed in cases or other containers,there shall be allowed, under regulations prescribed by the Secretary, a drawback equal in amount to the tax found to have been paid or determined on such distilled spirits or wines. In the case of distilled spirits, the preceding sentence shall not apply unless the claim for drawback is filed by the bottler or packager of the spirits and unless such spirits have been marked, especially for export, under regulations prescribed by the Secretary. The Secretary is authorized to prescribe regulations governing the determination and payment or crediting of drawback of internal revenue tax on spirits and wines eligible for drawback under this subsection, including the requirements of such notices, bonds, bills of lading, and other evidence indicating payment or determination of tax and exportation as shall be deemed necessary.
 
 #### (c) Exportation of imported liquors
 
@@ -18,7 +18,7 @@ On the exportation of distilled spirits or wines manufactured, produced, bottled
 
 &emsp;At the option of the importer, such imported distilled spirits, wines, and beer, after return to customs custody, may be destroyed under customs supervision and the importer thereof granted relief in the same manner and to the same extent as provided in this subsection upon exportation.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1336; amended Pub. L. 88–539, §1, Aug. 31,1964, 78 Stat. 746; Pub. L. 89–44, title VIII, §805(f)(6), June 21, 1965, 79 Stat. 161; Pub. L. 90–630, §2(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §1, Nov. 14, 1977, 91 Stat. 1363; Pub. L. 98–369, div. A, title IV, §454(c)(1), July 18, 1984, 98 Stat. 820.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1336; amended Pub. L. 88–539, §1, Aug. 31, 1964, 78 Stat. 746; Pub. L. 89–44, title VIII, §805(f)(6), June 21, 1965, 79 Stat. 161; Pub. L. 90–630, §2(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §1, Nov. 14, 1977, 91 Stat. 1363; Pub. L. 98–369, div. A, title IV, §454(c)(1), July 18, 1984, 98 Stat. 820.)
 
 #### Prior Provisions
 
@@ -57,8 +57,4 @@ Amendment by Pub. L. 89–44 effective July 1, 1965, see section 805(g)(1) of Pu
 #### Effective Date of 1964 Amendment
 
 Section 2 of Pub. L. 88–539 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act \[Aug. 31, 1964\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5008, 5066 of this title.
 

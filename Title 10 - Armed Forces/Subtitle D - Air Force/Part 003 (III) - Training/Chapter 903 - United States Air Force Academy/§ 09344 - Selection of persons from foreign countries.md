@@ -78,7 +78,7 @@ Subsec. (d). Pub. L. 98–94, in amending section generally, added subsec. (d).
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments made by paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under section 9344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments madeby paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under section 9344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
 
@@ -101,8 +101,4 @@ Amendment by Pub. L. 98–94 effective one year after Sept. 24, 1983, and applic
 #### Persons From Countries Assisting U.S. in Vietnam; Air Force Academy Instruction; Benefits, Limitations, Restrictions, and Regulations; Oath of Trainees
 
 Air Force Academy instruction of persons from countries assisting U.S. in Vietnam, numerical limitation, prohibition against appointment of graduates to the Armed Forces, exemption from oath, etc., see Pub. L. 89–802, Nov. 9, 1966, 80 Stat. 1518, set out as a note under section 4344 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 9345 of this title; title 20 section 221a.
 

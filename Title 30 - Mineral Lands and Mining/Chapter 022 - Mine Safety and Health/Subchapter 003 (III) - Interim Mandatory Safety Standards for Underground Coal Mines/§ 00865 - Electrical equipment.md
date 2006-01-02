@@ -12,7 +12,7 @@
 
 &emsp;(D) all other electric face equipment which is taken into or used inby the last crosscut of any coal mine, except a coal mine referred to in paragraph (2) of this subsection, which has not been classified under any provision of law as a gassy mine prior to the operative date of this subchapter shall be permissible.
 
-(2) Effective four years after the operative date of this subchapter, all electric face equipment, other than equipment referred to in paragraph (1)(B) of this subsection, which is taken into or used inby the last open crosscut of any coal mine which is operated entirely in coal seams located above the watertable and which has not been classified under any provision of law as a gassy mine prior to the operative date of this subchapter and in which one or more openings were made prior to December 30, 1969, shall be permissible, except that any operator of such mine who is unable to comply with the provisions of this paragraph on such effective date may file with the Panel an application for a permit for noncompliance ninety days prior to such date. If the Panel determines, after notice to all interested persons and an opportunity for a public hearing under section 804 of this title, that such application satisfies the provisions of paragraph (10) of this subsection and that such operator, despite his diligent efforts, will be unable to comply with such provisions, the Panel may issue to such operator such a permit. Such permit shall entitle the permittee to an additional extension of time to comply with the provisions of this paragraph of not to exceed twenty-four months, as determined by the Panel, from such effective date.
+(2) Effective four years after the operative date of this subchapter, all electric face equipment, other than equipment referred to in paragraph (1)(B) of this subsection, which is taken into or used inby the last open crosscut of any coal mine which is operated entirely in coalseams located above the watertable and which has not been classified under any provision of law as a gassy mine prior to the operative date of this subchapter and in which one or more openings were made prior to December 30, 1969, shall be permissible, except that any operator of such mine who is unable to comply with the provisions of this paragraph on such effective date may file with the Panel an application for a permit for noncompliance ninety days prior to such date. If the Panel determines, after notice to all interested persons and an opportunity for a public hearing under section 804 of this title, that such application satisfies the provisions of paragraph (10) of this subsection and that such operator, despite his diligent efforts, will be unable to comply with such provisions, the Panel may issue to such operator such a permit. Such permit shall entitle the permittee to an additional extension of time to comply with the provisions of this paragraph of not to exceed twenty-four months, as determined by the Panel, from such effective date.
 
 (3) The operator of each coal mine shall maintain in permissible condition all electric face equipment required by this subsection to be permissible which is taken into or used inby the last open crosscut of any such mine.
 
@@ -26,7 +26,7 @@
 
 (8) Any permit or renewal thereof issued pursuant to this subsection shall entitle the permittee to use such nonpermissible electric face equipment specified in the permit during the term of such permit.
 
-(9) Permits for noncompliance issued under paragraphs (6) or (7) of this subsection shall, inthe aggregate, not extend the period of noncompliance more than forty-eight months after December 30, 1969.
+(9) Permits for noncompliance issued under paragraphs (6) or (7) of this subsection shall, in the aggregate, not extend the period of noncompliance more than forty-eight months after December 30, 1969.
 
 (10) Any application for a permit of noncompliance filed under this subsection shall contain a statement by the operator—
 
@@ -44,7 +44,7 @@
 
 #### (b) Notification of permits
 
-A copy of any permit granted under this section shall be mailed immediately to a representative of the miners of the mine to which it pertains, and to the public official or agency of the State charged with administering State laws relating to coal mine health and safety in such mine.
+A copy of any permit granted under this section shall be mailed immediately to a representative of the miners of the mine to which it pertains, and to the public official or agency of theState charged with administering State laws relating to coal mine health and safety in such mine.
 
 #### (c) Gassy mines; maintenance of equipment
 

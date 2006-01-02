@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The chief judge may, from time to time, appoint special trial judges who shall proceed under such rules and regulations as may be promulgated by the Tax Court.
+The chief judge may, from time to time, appoint special trial judges who shall proceedunder such rules and regulations as may be promulgated by the Tax Court.
 
 #### (b) Proceedings which may be assigned to special trial judges
 
@@ -73,8 +73,4 @@ New appointments not required.—Nothing in the amendments made by this section 
 #### Inconsistencies With Presidential Salary Recommendations
 
 Pub. L. 100–647, title I, §1015(j), Nov. 10, 1988, 102 Stat. 3571, provided that: “To the extent the salary recommendations submitted by the President on January 5, 1987, are inconsistent with the provisions of section 7443A(d)(1) of the 1986 Code, such recommendations shall not be effective for any period.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7471 of this title.
 

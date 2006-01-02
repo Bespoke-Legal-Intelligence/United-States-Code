@@ -66,7 +66,3 @@ Report.—Not later than March 31, 2005, the Secretary shall submit a report on 
 
 Section 4219 of Pub. L. 102–484, as amended by Pub. L. 103–35, title II, §202(a)(14), May 31, 1993, 107 Stat. 101, set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2198, 2410g, 2500, 2503, 2504 of this title; title 22 section 3142.
-

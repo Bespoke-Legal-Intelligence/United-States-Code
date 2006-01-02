@@ -60,7 +60,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 &emsp;The duty—
 
-&emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that thecarrier provides at retail to subscribers who are not telecommunications carriers; and
+&emsp;&emsp;(A) to offer for resale at wholesale rates any telecommunications service that the carrier provides at retail to subscribers who are not telecommunications carriers; and
 
 &emsp;&emsp;(B) not to prohibit, and not to impose unreasonable or discriminatory conditions or limitations on, the resale of such telecommunications service, except that a State commission may, consistent with regulations prescribed by the Commission under this section, prohibit a reseller that obtains at wholesale rates a telecommunications service that is available at retail only to a category of subscribers from offering such service to a different category of subscribers.
 
@@ -120,7 +120,7 @@ In addition to the duties contained in subsection (b) of this section, each incu
 
 #### (B) State termination of exemption and implementation schedule
 
-&emsp;&emsp;The party making a bona fide request of a rural telephone company for interconnection, services, or network elements shall submit a notice of its request to the State commission. The State commission shall conduct an inquiry for the purpose of determining whether to terminate the exemption under subparagraph (A). Within 120 days after the State commission receives notice of the request, the State commission shall terminate the exemption if the request is not unduly economically burdensome, is technically feasible, and is consistent with section 254 of this title (other than subsections (b)(7) and (c)(1)(D) thereof). Upon termination of the exemption, a State commission shall establish an implementation schedule for compliance with the request that is consistent in time and manner with Commission regulations.
+&emsp;&emsp;The party making a bona fide request of a rural telephone company for interconnection, services, or network elements shall submit a notice of its request to the State commission. The State commission shall conduct an inquiry for the purpose of determining whether to terminate the exemption under subparagraph (A). Within 120 days after the State commission receives noticeof the request, the State commission shall terminate the exemption if the request is not unduly economically burdensome, is technically feasible, and is consistent with section 254 of this title (other than subsections (b)(7) and (c)(1)(D) thereof). Upon termination of the exemption, a State commission shall establish an implementation schedule for compliance with the request that is consistent in time and manner with Commission regulations.
 
 #### (C) Limitation on exemption
 

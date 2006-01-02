@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) sheep and sheep products must be high quality, readily available, handled properly, and marketed efficiently to ensure that consumers have an adequate supply of sheep products;
 
-&emsp;(4) the maintenance and expansion of existing markets and development of new markets for sheep and sheep products are vital to thewelfare of sheep producers and persons concerned with marketing, using, and producing sheep and sheep products, as well as to the general economy of the United States, and necessary to ensure the ready availability and efficient marketing of sheep and sheep products;
+&emsp;(4) the maintenance and expansion of existing markets and development of new markets for sheep and sheep products are vital to the welfare of sheep producers and persons concerned with marketing, using, and producing sheep and sheep products, as well as to the general economy of the United States, and necessary to ensure the ready availability and efficient marketing of sheep and sheep products;
 
 &emsp;(5) there exist established State organizations conducting sheep and sheep product promotion, research, and industry and consumer education programs that are invaluable to the efforts of promoting the consumption of sheep and sheep products;
 

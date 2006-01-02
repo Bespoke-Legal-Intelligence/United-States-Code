@@ -30,7 +30,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 &emsp;In conducting investigations and hearings under this subsection—
 
-&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable accessto examine evidence of any person or entity being investigated,
+&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated,
 
 &emsp;&emsp;(B) administrative law judges, may, if necessary, compel by subpoena the attendance of witnesses and the production of evidence at any designated place or hearing, and
 
@@ -58,7 +58,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 &emsp;&emsp;(A) not less than $250 and not more than $2,000 for each document that is the subject of a violation under subsection (a) of this section, or
 
-&emsp;&emsp;(B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subject of a violation under subsection (a) of this section.
+&emsp;&emsp;(B) in the case of a person or entity previously subject to an order under this paragraph, not less than $2,000 and not more than $5,000 for each document that is the subjectof a violation under subsection (a) of this section.
 
 > &emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
@@ -82,7 +82,7 @@ Nothing in this section shall be construed to diminish or qualify any of the pen
 
 (1) Whoever, in any matter within the jurisdiction of the Service, knowingly and willfully fails to disclose, conceals, or covers up the fact that they have, on behalf of any person and for a fee or other remuneration, prepared or assisted in preparing an application which was falsely made (as defined in subsection (f) of this section) for immigration benefits, shall be fined in accordance with title 18, imprisoned for not more than 5 years, or both, and prohibited from preparing or assisting in preparing, whether or not for a fee or other remuneration, any other such application.
 
-(2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfullyprepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
+(2) Whoever, having been convicted of a violation of paragraph (1), knowingly and willfully prepares or assists in preparing an application for immigration benefits pursuant to this chapter, or the regulations promulgated thereunder, whether or not for a fee or other remuneration and regardless of whether in any matter within the jurisdiction of the Service, shall be fined in accordance with title 18, imprisoned for not more than 15 years, or both, and prohibited from preparing or assisting in preparing any other such application.
 
 #### (f) Falsely make
 
@@ -110,7 +110,7 @@ Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted “the final agency 
 
 Pub. L. 104–208, §379(a)(1), substituted “unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations” for “unless, within 30 days, the Attorney General modifies or vacates the decision and order”.
 
-Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted “withholding of removal under section 241(b)(3) of this title” for “withholding of deportation under section 1253(h) of this title”.
+Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted “withholding of removal under section 1231(b)(3) of this title” for “withholding of deportation under section 1253(h) of this title”.
 
 Pub. L. 104–208, §212(d), added par. (7).
 

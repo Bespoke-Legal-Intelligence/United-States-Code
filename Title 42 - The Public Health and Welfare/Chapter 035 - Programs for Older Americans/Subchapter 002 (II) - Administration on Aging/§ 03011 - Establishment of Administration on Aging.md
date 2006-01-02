@@ -126,7 +126,7 @@ Subsec. (c)(3). Pub. L. 103–171, §3(a)(2)(B)(ii), (D), substituted “Directo
 
 Subsec. (d)(2). Pub. L. 103–171, §3(a)(2)(C), (D), substituted “a Director of the Office of Long-Term Care Ombudsman Programs” for “an Associate Commissioner for Ombudsman Programs” in subpar. (A), “Director” for “Associate Commissioner” wherever appearing, and “Assistant Secretary” for “Commissioner” in two places in subpar. (A).
 
-Subsec. (d)(3). Pub. L. 103–171, §3(a)(2)(C)(ii), (D), substituted “Director” for “Associate Commissioner” in introductory provisions and “Assistant Secretary” for “Commissioner” in subpars. (B) to (F) and (H).
+Subsec. (d)(3). Pub. L. 103–171, §3(a)(2)(C)(ii), (D), substituted “Director” for “Associate Commissioner” inintroductory provisions and “Assistant Secretary” for “Commissioner” in subpars. (B) to (F) and (H).
 
 1992—Subsec. (a). Pub. L. 102–375, §§102(b)(2), 201(a), struck out “(hereinafter in this chapter referred to as the ‘Administration’)” after “Administration on Aging” and “(hereinafter in this chapter referred to as the ‘Commissioner’)” after “Commissioner on Aging” and inserted “(including the functions of the Commissioner carried out through regional offices)” after “functions of the Commissioner”.
 

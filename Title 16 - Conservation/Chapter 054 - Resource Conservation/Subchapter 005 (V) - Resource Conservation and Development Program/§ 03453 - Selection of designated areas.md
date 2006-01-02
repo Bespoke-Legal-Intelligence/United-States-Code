@@ -6,5 +6,5 @@ The Secretary shall select designated areas for assistance under this subchapter
 
 #### Prior Provisions
 
-A prior section 3453, Pub. L. 97–98, title XV, §1530, Dec. 22, 1981, 95 Stat. 1339, related to the establishment and scope of resource conservation and developmentprogram, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3453, Pub. L. 97–98, title XV, §1530, Dec. 22, 1981, 95 Stat. 1339, related to the establishment and scope of resource conservation and development program, prior to the general amendment of this subchapter by Pub. L. 107–171.
 

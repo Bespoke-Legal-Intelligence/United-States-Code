@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), a merger transaction may not be approved pursuant to paragraph (1) if the transaction involves a bank the home State of which has enacted a law after September 29, 1994, and before June 1, 1997, that—
+&emsp;&emsp;Notwithstanding paragraph (1), a merger transaction may not be approved pursuantto paragraph (1) if the transaction involves a bank the home State of which has enacted a law after September 29, 1994, and before June 1, 1997, that—
 
 &emsp;&emsp;&emsp;(i) applies equally to all out-of-State banks; and
 
@@ -82,7 +82,7 @@
 
 #### (B) Penalty for failure to comply
 
-&emsp;&emsp;The responsible agency may not approve an application for an interstate mergertransaction if the applicant materially fails to comply with subparagraph (A).
+&emsp;&emsp;The responsible agency may not approve an application for an interstate merger transaction if the applicant materially fails to comply with subparagraph (A).
 
 #### (2) Concentration limits
 

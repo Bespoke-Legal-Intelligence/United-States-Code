@@ -18,7 +18,7 @@ This section may be cited as the “HELP Commission Act”.
 
 &emsp;(D) results, including measuring improvements in human capacity instead of in purely economic terms.
 
-(3) An examination of these issues should present new approaches and ideas to ensure thatUnited States development assistance reaches and benefits its intended recipients.
+(3) An examination of these issues should present new approaches and ideas to ensure that United States development assistance reaches and benefits its intended recipients.
 
 #### (c) Establishment of Commission; responsibilities
 
@@ -146,7 +146,7 @@ The Commission shall terminate 30 days after the submission of its report under 
 
 (1) Not later than April 1, 2004, and April 1 of each third year thereafter, the President shall transmit to the Congress a report that analyzes, on a country-by-country basis, the impact and effectiveness of United States economic assistance furnished to each country during the preceding 3 fiscal years. The report shall include the following for each recipient country:
 
-&emsp;(A) An analysis of the impact of United States economic assistance during the preceding 3 fiscal years on economic development inthat country, with a discussion of the United States interests that were served by the assistance. The analysis shall be done on a sector-by-sector basis to the extent possible and shall identify any economic policy reforms that were promoted by the assistance. The analysis shall—
+&emsp;(A) An analysis of the impact of United States economic assistance during the preceding 3 fiscal years on economic development in that country, with a discussion of the United States interests that were served by the assistance. The analysis shall be done on a sector-by-sector basis to the extent possible and shall identify any economic policy reforms that were promoted by the assistance. The analysis shall—
 
 &emsp;&emsp;(i) include a description, quantified to the extent practicable, of the specific objectives the United States sought to achieve in providing economic assistance for that country; and
 

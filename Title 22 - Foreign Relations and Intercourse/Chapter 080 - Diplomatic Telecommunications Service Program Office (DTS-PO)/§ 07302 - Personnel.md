@@ -36,7 +36,7 @@
 
 #### (ii) Limitation on use of funds
 
-&emsp;&emsp;Of the funds available for DTS-PO on December 27, 2000, not more than 75 percent ofsuch funds may be obligated or expended until a CEO is appointed under this subsection and assumes such position.
+&emsp;&emsp;Of the funds available for DTS-PO on December 27, 2000, not more than 75 percent of such funds may be obligated or expended until a CEO is appointed under this subsection and assumes such position.
 
 #### (iii) May not be an officer or employee of Federal Government
 
@@ -68,7 +68,7 @@
 
 #### (i) Semiannual reports
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), beginning on August 1, 2001, and every 6 months thereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issues that hinder the ability of DTS-PO to fulfill its mandate.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), beginning on August 1, 2001, and every 6 months thereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issuesthat hinder the ability of DTS-PO to fulfill its mandate.
 
 #### (ii) Submittal date of reports to congressional intelligence committees
 

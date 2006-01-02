@@ -14,7 +14,3 @@ The public-land laws, referred to in text, are classified generally to Title 43,
 
 1935—Act Aug. 26, 1935, §211, amended section generally, inserting “for such purpose or purposes and under such restrictions as the commission may determine”, substituted “part” for “chapter” wherever appearing, and striking out from proviso “prior to June 10, 1920” after “made”.
 
-#### Transfer of Functions
-
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
-

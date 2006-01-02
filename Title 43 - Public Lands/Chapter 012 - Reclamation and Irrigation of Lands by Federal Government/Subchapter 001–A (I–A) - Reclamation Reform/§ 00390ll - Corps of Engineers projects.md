@@ -2,7 +2,7 @@
 
 #### (a) Applicability of Federal reclamation laws
 
-Notwithstanding any other provision of law, neither the ownership or pricing limitation provisions nor the other provisions of Federal reclamation law, including this subchapter, shall be applicable to lands receiving benefits from Federal water resources projects constructed by the United States Army Corps of Engineers, unless—
+Notwithstanding any other provision of law, neither the ownership or pricing limitation provisions nor the other provisions of Federal reclamation law, including this subchapter, shall be applicable to lands receiving benefits fromFederal water resources projects constructed by the United States Army Corps of Engineers, unless—
 
 &emsp;(1) the project has, by Federal statute, explicitly been designated, made a part of, or integrated with a Federal reclamation project; or
 

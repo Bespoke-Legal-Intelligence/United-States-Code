@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—A motor carrier may transport or cause to be transported by motor vehiclein commerce hazardous material only if the carrier holds a safety permit the Secretary of Transportation issues under this section authorizing the transportation and keeps a copy of the permit, or other proof of its existence, in the vehicle. The Secretary shall issue a permit if the Secretary finds the carrier is fit, willing, and able—
+Requirement.—A motor carrier may transport or cause to be transported by motor vehicle in commerce hazardous material only if the carrier holds a safety permit the Secretary issues under this section authorizing the transportation and keeps a copy of the permit, or other proof of its existence, in the vehicle. The Secretary shall issue a permit if the Secretary finds the carrier is fit, willing, and able—
 
 &emsp;(1) to provide the transportation to be authorized by the permit;
 
@@ -24,7 +24,7 @@ Applicable Transportation.—The Secretary shall prescribe by regulation the haz
 
 (c)
 
-Applications.—A motor carrier shall file an application with the Secretary for a safety permit to provide transportation under this section. The Secretary may approve any part of the application or deny the application. The application shall be under oath and contain information the Secretary requires by regulation.
+Applications.—A motor carrier shall file an application with the Secretary for a safetypermit to provide transportation under this section. The Secretary may approve any part of the application or deny the application. The application shall be under oath and contain information the Secretary requires by regulation.
 
 (d)
 
@@ -56,7 +56,7 @@ Conditions.—A motor carrier may provide transportation under a safety permit i
 
 Regulations.—The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 767.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 767; Pub. L. 109–59, title VII, §7126, Aug. 10, 2005, 119 Stat. 1909.)
 
 Historical and Revision Notes
 
@@ -111,4 +111,8 @@ In subsection (b), before clause (1), the word “all” is omitted as surplus.
 In subsection (e)(2), the word “conditions” is omitted as being included in “terms”.
 
 In subsection (h), the text of section 8(b) (words before semicolon of the Hazardous Materials Transportation Uniform Safety Act of 1990 (Public Law 101–615, 104 Stat. 3258) is omitted as obsolete.
+
+#### Amendments
+
+2005—Subsec. (a). Pub. L. 109–59 substituted “Secretary issues” for “Secretary of Transportation issues” in introductory provisions.
 

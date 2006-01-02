@@ -50,7 +50,91 @@ For transfer of functions, personnel, assets, and liabilities of the Domestic Em
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Organized Retail Theft
+
+Pub. L. 109–162, title XI, §1105, Jan. 5, 2006, 119 Stat. 3092, provided that:
+
+“(a)
+
+National Data.—(1) The Attorney General and the Federal Bureau of Investigation, in consultation with the retail community, shall establish a task force to combat organized retail theft and provide expertise to the retail community for the establishment of a national database or clearinghouse housed and maintained in the private sector to track and identify where organized retail theft type crimes are being committed in the United Sates \[sic\]. The national database shall allow Federal, State, and local law enforcement officials as well as authorized retail companies (and authorized associated retail databases) to transmit information into the database electronically and to review information that has been submitted electronically.
+
+“(2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to federal law enforcement agencies participating in the database project.
+
+“(3) The Attorney General through the Bureau of Justice Assistance in the Office of Justice may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base \[sic\] project.
+
+“(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated for each of fiscal years 2006 through 2009, $5,000,000 for educating and training federal law enforcement regarding organized retail theft, for investigating, apprehending and prosecuting individuals engaged in organized retail theft, and for working with the private sector to establish and utilize the database described in subsection (a).
+
+“(c)
+
+Definition of Organized Retail Theft.—For purposes of this section, ‘organized retail theft’ means—
+
+&emsp;“(1) the violation of a State prohibition on retail merchandise theft or shoplifting, if the violation consists of the theft of quantities of items that would not normally be purchased for personal use or consumption and for the purpose of reselling the items or for reentering the items into commerce;
+
+&emsp;“(2) the receipt, possession, concealment, bartering, sale, transport, or disposal of any property that is know \[sic\] or should be known to have been taken in violation of paragraph (1); or
+
+&emsp;“(3) the coordination, organization, or recruitment of persons to undertake the conduct described in paragraph (1) or (2).”
+
+#### United States-Mexico Border Violence Task Force
+
+Pub. L. 109–162, title XI, §1106, Jan. 5, 2006, 119 Stat. 3093, provided that:
+
+“(a)
+
+Task Force.—(1) The Attorney General shall establish the United States-Mexico Border Violence Task Force in Laredo, Texas, to combat drug and firearms trafficking, violence, and kidnapping along the border between the United States and Mexico and to provide expertise to the law enforcement and homeland security agencies along the border between the United States and Mexico. The Task Force shall include personnel from the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Immigration and Customs Enforcement, the Drug Enforcement Administration, Customs and Border Protection, other Federal agencies (as appropriate), the Texas Department of Public Safety, and local law enforcement agencies.
+
+“(2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to Federal, State, and local law enforcement agencies participating in the Task Force.
+
+“(b)
+
+Authorization of Appropriations.—There are authorized to be appropriated $10,000,000 for each of the fiscal years 2006 through 2009, for—
+
+&emsp;“(1) the establishment and operation of the United States-Mexico Border Violence Task Force; and
+
+&emsp;“(2) the investigation, apprehension, and prosecution of individuals engaged in drug and firearms trafficking, violence, and kidnapping along the border between the United States and Mexico.”
+
+#### Privacy Officer
+
+Pub. L. 109–162, title XI, §1174, Jan. 5, 2006, 119 Stat. 3124, provided that:
+
+“(a)
+
+In General.—The Attorney General shall designate a senior official in the Department of Justice to assume primary responsibility for privacy policy.
+
+“(b)
+
+Responsibilities.—The responsibilities of such official shall include advising the Attorney General regarding—
+
+&emsp;“(1) appropriate privacy protections, relating to the collection, storage, use, disclosure, and security of personally identifiable information, with respect to the Department's existing or proposed information technology and information systems;
+
+&emsp;“(2) privacy implications of legislative and regulatory proposals affecting the Department and involving the collection, storage, use, disclosure, and security of personally identifiable information;
+
+&emsp;“(3) implementation of policies and procedures, including appropriate training and auditing, to ensure the Department's compliance with privacy-related laws and policies, including section 552a of title 5, United States Code, and Section 208 of the E-Government Act of 2002 (Public Law 107–347) \[set out in a note under section 3501 of Title 44, Public Printing and Documents\];
+
+&emsp;“(4) ensuring that adequate resources and staff are devoted to meeting the Department's privacy-related functions and obligations;
+
+&emsp;“(5) appropriate notifications regarding the Department's privacy policies and privacy-related inquiry and complaint procedures; and
+
+&emsp;“(6) privacy-related reports from the Department to Congress and the President.
+
+“(c)
+
+Review of Privacy Related Functions, Resources, and Report.—Within 120 days of his designation, the privacy official shall prepare a comprehensive report to the Attorney General and to the Committees on the Judiciary of the House of Representatives and of the Senate, describing the organization and resources of the Department with respect to privacy and related information management functions, including access, security, and records management, assessing the Department's current and future needs relating to information privacy issues, and making appropriate recommendations regarding the Department's organizational structure and personnel.
+
+“(d)
+
+Annual Report.—The privacy official shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate on an annual basis on activities of the Department that affect privacy, including a summary of complaints of privacy violations, implementation of section 552a of title 5,United States Code, internal controls, and other relevant matters.”
+
+#### Report to Congress on Status of United States Persons or Residents Detained on Suspicion of Terrorism
+
+Pub. L. 109–162, title XI, §1176, Jan. 5, 2006, 119 Stat. 3125, provided that: “Not less often than once every 12 months, the Attorney General shall submit to Congress a report on the status of United States persons or residents detained, as of the date of the report, on suspicion of terrorism. The report shall—
+
+&emsp;“(1) specify the number of persons or residents so detained; and
+
+&emsp;“(2) specify the standards developed by the Department of Justice for recommending or determining that a person should be tried as a criminal defendant or should be designated as an enemy combatant.”
 
 #### Federal Bureau of Investigation Use of Translators
 
@@ -250,7 +334,7 @@ Appointment.—The Special Counsel shall be appointed by the President, by and w
 
 Responsibilities.—The Special Counsel shall—
 
-&emsp;“(1) supervise and coordinate investigations and prosecutions within the Department of Justice of fraud and other criminal activity in and against the financial services industry, including, to the extent consistent with the independent counsel provision of chapter 40 of title 28, United States Code, any suchactivity by any current or former elected official or high-level executive branch official or any member of the immediate family of any such official;
+&emsp;“(1) supervise and coordinate investigations and prosecutions within the Department of Justice of fraud and other criminal activity in and against the financial services industry, including, to the extent consistent with the independent counsel provision of chapter 40 of title 28, United States Code, any such activity by any current or former elected official or high-level executive branch official or any member of the immediate family of any such official;
 
 &emsp;“(2) ensure that Federal law relating to civil enforcement, asset seizure and forfeiture, money laundering, and racketeering are used to the fullest extent authorized to recover the proceeds of unlawful activities from persons who have committed crimes in and against the financial services industry; and
 
@@ -330,7 +414,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 &emsp;“(2) shall expire on December 31, 2004.
 
-“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
+“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the FederalGovernment to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -410,7 +494,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 &emsp;“(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
-“(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the Organized Crime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
+“(3) Any increase in full-time equivalent positions described under paragraph (2)(B) shall be exclusively used for asset forfeiture and civil enforcement and be assigned to appropriate field offices of the OrganizedCrime and Racketeering Section and the Organized Crime Drug Enforcement Task Forces.
 
 “(d)
 
@@ -496,7 +580,7 @@ Pub. L. 94–503, title II, §201, Oct. 15, 1976, 90 Stat. 2425, provided that:
 
 “(3) The provisions of sections 7512 and 7701 of title 5, United States Code, and otherwise applicable Executive orders, shall not apply with respect to actions taken by the Administrator under paragraph (1) or any reduction in rank or pay (under paragraph (2) or otherwise) of any individual in a position described in subsection (a).
 
-“(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basic pay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies.”
+“(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basicpay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies.”
 
 \[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
@@ -568,7 +652,7 @@ This separation of responsibilities—despite the relentless and dedicated effor
 
 For example, more than nine out of ten seizures of LSD made by the Bureau of Drug Abuse Control have also turned up marihuana—but that Bureau has no jurisdiction over marihuana.
 
-In many instances, we are confronted by well organized disciplined and resourceful criminals who reap huge profits at the expense of their unfortunate victims.
+In many instances, we are confronted by well organized disciplined and resourceful criminals who reaphuge profits at the expense of their unfortunate victims.
 
 The response of the Federal Government must be unified. And it must be total.
 
@@ -576,7 +660,7 @@ Today, in my Message on Crime, I recommended strong new laws to control dangerou
 
 I now propose that a single Bureau of Narcotics and Dangerous Drugs be established in the Department of Justice to administer those laws and to bring to the American people the most efficient and effective Federal enforcement machinery we can devise.
 
-Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcingthe Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
+Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcing the Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
 
 &emsp;—consolidate the authority and preserve the experience and manpower of the Bureau of Narcotics and the Bureau of Drug Abuse Control.
 
@@ -694,7 +778,7 @@ Funding for this effort has increased sevenfold during the past five years, from
 
 The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that “Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated.”
 
-More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
+More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. TheTreasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
@@ -746,7 +830,7 @@ No heroin or cocaine is produced within the United States; domestic availability
 
 At the present time, however, Federal responsibility for conducting port-of-entry inspections is awkwardly divided among several Cabinet departments. The principal agencies involved are the Treasury Department's Bureau of Customs, which inspects goods, and the Justice Department's Immigration and Naturalization Service, which inspects persons and their papers. The two utilize separate inspection procedures, hold differing views of inspection priorities, and employ dissimilar personnel management practices.
 
-To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested in Justice Department officials to inspect persons, or the documents of persons.
+To reduce the possibility that illicit drugs will escape detection at ports-of-entry because of divided responsibility, and to enhance the effectiveness of the Drug Enforcement Administration, the reorganization plan which I am proposing today would transfer to the Secretary of the Treasury all functions currently vested inJustice Department officials to inspect persons, or the documents of persons.
 
 When the plan takes effect, it is my intention to direct the Secretary of the Treasury to use the resources so transferred—including some 1,000 employees of the Immigration and Naturalization Service—to augment the staff and budget of the Bureau of Customs. The Bureau's primary responsibilities would then include:
 
@@ -860,7 +944,7 @@ Functions of the Council
 
 Litigation Notice System
 
-1–301. The Attorney General shall establish and maintain a litigation notice system that provides timely information about all civil litigation pending in thecourts in which the Federal Government is a party or has a significant interest.
+1–301. The Attorney General shall establish and maintain a litigation notice system that provides timely information about all civil litigation pending in the courts in which the Federal Government is a party or has a significant interest.
 
 1–302. The Attorney General shall issue rules to govern operation of the notice system. The rules shall include the following requirement:
 
@@ -940,7 +1024,7 @@ Sec. 3. <i>Functions</i>. Consistent with the constitutional authority of the Pr
 
 (a) provide direction for the investigation and prosecution of cases of securities fraud, accounting fraud, mail and wire fraud, money laundering, tax fraud based on such predicate offenses, and other related financial crimes committed by commercial entities and directors, officers, professional advisers, and employees thereof (hereinafter “financial crimes”), when such cases are determined by the Deputy Attorney General, for purposes of this order, to be significant;
 
-(b) provide recommendations to the Attorney General for allocation and reallocation of resources of the Department of Justice for investigation and prosecution of significant financial crimes, recovery of proceeds from such crimes to the extent permitted by law, and other matters determined by the Task Force from time to time to be of the highest priority in the investigation and prosecution of such crimes; and
+(b) provide recommendations to the Attorney General for allocation and reallocation of resources of the Department of Justice for investigation and prosecution of significant financial crimes, recovery of proceedsfrom such crimes to the extent permitted by law, and other matters determined by the Task Force from time to time to be of the highest priority in the investigation and prosecution of such crimes; and
 
 (c) make recommendations to the President, through the Attorney General, from time to time for:
 
@@ -950,7 +1034,7 @@ Sec. 3. <i>Functions</i>. Consistent with the constitutional authority of the Pr
 
 &emsp;(iii) changes in rules, regulations, or policy to improve the effective investigation and prosecution of significant financial crimes; and
 
-&emsp;(iv) recommendations to the Congress regarding such measures as the President may judge necessaryand expedient relating to significant financial crimes, or the investigation or prosecution thereof.
+&emsp;(iv) recommendations to the Congress regarding such measures as the President may judge necessary and expedient relating to significant financial crimes, or the investigation or prosecution thereof.
 
 Sec. 4. <i>Additional Participation for Specified Functions</i>. In the Task Force's performance of the functions set forth in subsection 3(c) of this order, and to the extent permitted by law, the following officers of the executive branch shall be members of the Task Force in addition to such other officers of the Federal Government as the Deputy Attorney General deems appropriate:
 

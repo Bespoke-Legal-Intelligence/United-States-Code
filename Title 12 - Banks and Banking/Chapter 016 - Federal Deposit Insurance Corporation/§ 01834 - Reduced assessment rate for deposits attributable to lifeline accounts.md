@@ -52,7 +52,23 @@
 
 The provisions of this section shall not take effect until appropriations are specifically provided in advance. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–242, title II, §232, Dec. 19, 1991, 105 Stat. 2308; Pub. L. 102–550, title XVI, §§1604(b)(1), 1605(a)(3), Oct. 28, 1992, 106 Stat. 4083, 4085; Pub. L. 102–558, title III, §§303(b)(1), (4), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 104–208, div. A, title II, §2704(d)(16), Sept. 30, 1996, 110 Stat. 3009–495.)
+(Pub. L. 102–242, title II, §232, Dec. 19, 1991, 105 Stat. 2308; Pub. L. 102–550, title XVI, §§1604(b)(1), 1605(a)(3), Oct. 28, 1992, 106 Stat. 4083, 4085; Pub. L. 102–558, title III, §§303(b)(1), (4), 305, Oct. 28, 1992, 106 Stat. 4224–4226; Pub. L. 104–208, div. A, title II, §2704(d)(16), Sept. 30, 1996, 110 Stat. 3009–495; Pub. L. 109–173, §3(a)(9), Feb. 15, 2006, 119 Stat. 3606.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 109–173, §3(a)(9), (b), Feb. 15, 2006, 119 Stat. 3606, provided that, effective Jan. 1, 2007, subsection (a) of this section is amended as follows:</i>
+
+<i>(1) in paragraph (2), by striking “the Board and” in introductory provisions and by striking “the Board” and inserting “the Corporation” in subparagraph (J); and</i>
+
+<i>(2) in paragraph (3):</i>
+
+<i>(A) by striking subparagraph (A) and inserting the following new subparagraph:</i>
+
+#### <i>“(A) Corporation</i>
+
+&emsp;&emsp;<i>“The term ‘Corporation’ means the Federal Deposit Insurance Corporation.”; and</i>
+
+<i>(B) in subparagraph (C), by striking “Board” and inserting “Corporation”.</i>
 
 #### Codification
 
@@ -67,6 +83,10 @@ Section is comprised of section 232 of Pub. L. 102–242. Subsec. (b) of section
 1992—Subsec. (a)(1). Pub. L. 102–558, §303(b)(4), substituted “section 1817(b)(2)(H)” for “section 1817(b)(10)”. Pub. L. 102–550, §1605(a)(3), which made an identical amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
 
 Subsec. (b). Pub. L. 102–558, §303(b)(1), made technical correction to directory language of subsec. (b)(1). See Codification note above. Pub. L. 102–550, §1604(b)(1), which made a similar amendment, was repealed, effective Oct. 28, 1992, by Pub. L. 102–558, §305, set out as a Repeal of Duplicative Provisions note under section 1815 of this title.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Jan. 1, 2007, see section 3(b) of Pub. L. 109–173, set out as a note under section 1817 of this title.
 
 #### Effective Date of 1996 Amendment
 

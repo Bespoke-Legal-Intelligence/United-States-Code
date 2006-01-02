@@ -8,18 +8,15 @@
 | [3404\.](%C2%A7%2003404%20-%20Return%20and%20payment%20by%20governmental%20employer.md) | Return and payment by governmental employer. |
 | [3405\.](%C2%A7%2003405%20-%20Special%20rules%20for%20pensions%2C%20annuities%2C%20and%20certain%20other%20deferred%20income.md) | Special rules for pensions, annuities, and certain other deferred income.<sup>1</sup> |
 | [3406\.](%C2%A7%2003406%20-%20Backup%20withholding.md) | Backup withholding. |
+| \[3451 to 3456. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-1983—Pub. L. 98–67, title I, §§102(a), 104(d)(4), Aug. 5, 1983, 97 Stat. 369, 380, added item 3406 and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
+1983—Pub. L. 98–67, title I, §§102(a), 104(d)(4), Aug. 5, 1983, 97 Stat. 369, 380, added item 3406 and repealedamendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
 1982—Pub. L. 97–248, title III, §§307(b)(4), 308(a), Sept. 3, 1982, 96 Stat. 590, 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the caption of chapter 24 is amended by striking out “ON WAGES”, items for subchapters A and B are added in analysis, and heading “Subchapter A—Withholding From Wages” is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
-
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 31, 274, 280F, 3121, 3231, 3306, 3502, 3507, 3509, 6011, 6013, 6051, 6103, 6302, 6414, 6501, 6513, 6682, 7654, 7872 of this title; title 5 section 5901; title 10 section 1174; title 42 sections 409, 653a; title 48 section 1421i.
 
 <i><sup>1</sup></i><i> Editorially supplied. Section 3405 added by Pub. L. 97–248 without corresponding amendment of analysis.</i>
 

@@ -34,7 +34,7 @@
 
 (6) The term “short-barreled shotgun” means a shotgun having one or more barrels less than eighteen inches in length and any weapon made from a shotgun (whether by alteration, modification or otherwise) if such a weapon as modified has an overall length of less than twenty-six inches.
 
-(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy ofan explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
+(7) The term “rifle” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
 
 (8) The term “short-barreled rifle” means a rifle having one or more barrels less than sixteen inches in length and any weapon made from a rifle (whether by alteration, modification, or otherwise) if such weapon, as modified, has an overall length of less than twenty-six inches.
 
@@ -88,7 +88,7 @@
 
 (21) The term “engaged in the business” means—
 
-&emsp;(A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured;
+&emsp;(A) as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through thesale or distribution of the firearms manufactured;
 
 &emsp;(B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
@@ -140,9 +140,9 @@
 
 (32) The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
 
-(33)(A) Except as provided in subparagraph (C), the term “misdemeanor crime of domestic violence” means an offense that—
+(33)(A) Except as provided in subparagraph (C),<sup>2</sup> the term “misdemeanor crime of domestic violence” means an offense that—
 
-&emsp;(i) is a misdemeanor under Federal or State law; and
+&emsp;(i) is a misdemeanor under Federal, State, or Tribal <sup>3</sup> law; and
 
 &emsp;(ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent, or guardian of the victim.
 
@@ -150,7 +150,7 @@
 
 &emsp;(I) the person was represented by counsel in the case, or knowingly and intelligently waived the right to counsel in the case; and
 
-&emsp;(II) in the case of a prosecution for an offense described in this paragraph for which a person was entitled to a jury trial in the jurisdiction in which the case was tried, either
+&emsp;(II) in the case of a prosecution for an offense described in this paragraph for which aperson was entitled to a jury trial in the jurisdiction in which the case was tried, either
 
 &emsp;&emsp;(aa) the case was tried by a jury, or
 
@@ -170,13 +170,15 @@
 
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083.)
 
 #### References in Text
 
 For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2006—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of “section 921(33)(A)(i) of title 18”, was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: “is a misdemeanor under Federal or State law; and”.
 
 2002—Subsec. (a)(4). Pub. L. 107–296, §1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
 
@@ -218,7 +220,7 @@ Subsec. (a)(22)(C)(iii). Pub. L. 103–322, §330021(1), substituted “kidnappi
 
 Subsec. (a)(30). Pub. L. 103–322, §110102(b), which added par. (30) defining “semiautomatic assault weapon”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (a)(31). Pub. L. 103–322, §110103(b), which added par. (31) defining “large capacity ammunition feeding device”, was repealed by Pub. L. 103–322,§110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (a)(32). Pub. L. 103–322, §110401(a), added par. (32).
 
@@ -298,13 +300,17 @@ Machinegun Prohibition.—Section 102(9) \[amending section 922 of this title\] 
 
 Section 105 of Pub. L. 90–618 provided that:
 
-“(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, as amended by section 102 of this title \[amending this chapter\], shall take effect on December 16, 1968.
+“(a) Except as provided in subsection (b), the provisions of chapter 44 of title 18, United States Code, asamended by section 102 of this title \[amending this chapter\], shall take effect on December 16, 1968.
 
-“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of thistitle shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i>), 925(a)(1), and 925(d).”
+“(b) The following sections of chapter 44 of title 18, United States Code, as amended by section 102 of this title shall take effect on the date of the enactment of this title \[Oct. 22, 1968\]: Sections 921, 922(<i>l</i>), 925(a)(1), and 925(d).”
 
 #### Effective Date
 
 Section 907 of title IV of Pub. L. 90–351 provided that: “The amendments made by this title \[enacting this chapter and provisions set out as notes under this section and repealing sections 901 to 910 of Title 15, Commerce and Trade\] shall become effective one hundred and eighty days after the date of its enactment \[June 19, 1968\]; except that repeal of the Federal Firearms Act \[sections 901 to 910 of Title 15\] shall not in itself terminate any valid license issued pursuant to that Act and any such license shall be deemed valid until it shall expire according to its terms unless it be sooner revoked or terminated pursuant to applicable provisions of law.”
+
+#### Short Title of 2005 Amendment
+
+Pub. L. 109–92, §5(a), Oct. 26, 2005, 119 Stat. 2099, provided that: “This section \[amending sections 922 and 924 of this title and enacting provisions set out as notes under section 922 of this title\] may be cited as the ‘Child Safety Lock Act of 2005’.”
 
 #### Short Title of 2004 Amendment
 
@@ -368,7 +374,7 @@ Section 1(b) of Pub. L. 99–308 provided that: “The Congress finds that—
 
 &emsp;“(2) additional legislation is required to reaffirm the intent of the Congress, as expressed in section 101 of the Gun Control Act of 1968 \[section 101 of Pub. L. 90–618, set out below\], that ‘it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes.’.”
 
-Section 101 of title I of Pub. L. 90–618 provided that: “The Congress hereby declares that the purposes of this title \[amending this chapter\] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intendedto discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
+Section 101 of title I of Pub. L. 90–618 provided that: “The Congress hereby declares that the purposes of this title \[amending this chapter\] is to provide support to Federal, State, and local law enforcement officials in their fight against crime and violence, and it is not the purpose of this title to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trapshooting, target shooting, personal protection, or any other lawful activity, and that this title is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title.”
 
 Section 901 of title IV of Pub. L. 90–351 provided that:
 
@@ -392,7 +398,7 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(9) that the existing licensing system under the Federal Firearms Act \[former sections 901 to 910 of Title 15, Commerce and Trade\] does not provide adequate license fees or proper standards for the granting or denial of licenses, and that this has led to licenses being issued to persons not reasonably entitled thereto, thus distorting the purposes of the licensing system.
 
-“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on lawabiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
+“(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on law-abiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
 
 #### Administration and Enforcement
 
@@ -420,7 +426,11 @@ Section 904 of title IV of Pub. L. 90–351, as amended by Pub. L. 99–514, §2
 
 #### Definition of “Handgun”
 
-Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
+Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. Theterm also includes any combination of parts from which a handgun can be assembled.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> So in original. No subparagraph (C) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 

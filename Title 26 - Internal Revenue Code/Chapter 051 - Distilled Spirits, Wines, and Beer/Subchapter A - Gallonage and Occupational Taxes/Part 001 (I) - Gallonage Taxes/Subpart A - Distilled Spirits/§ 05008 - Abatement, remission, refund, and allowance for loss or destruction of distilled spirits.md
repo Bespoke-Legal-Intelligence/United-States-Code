@@ -32,7 +32,7 @@
 
 #### (5) Applicability
 
-&emsp;The provisions of this subsection shall extend to and apply in respect of distilled spirits lost after the tax was determined and beforecompletion of the physical removal of the distilled spirits from the bonded premises.
+&emsp;The provisions of this subsection shall extend to and apply in respect of distilled spirits lost after the tax was determined and before completion of the physical removal of the distilled spirits from the bonded premises.
 
 #### (b) Voluntary destruction
 
@@ -160,9 +160,5 @@ Section 805(g)(1) of Pub. L. 89–44 provided that: “The amendments made by su
 
 #### Distilled Spirits Returned to Bonded Premises of Distilled Spirits Plant During 1980
 
-Subsec. (c)(1) of this section to be treated as including a reference to section 5041 of this title with respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, see section 808(d) of Pub. L. 96–39, set out as a note under section 5061 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 5003, 5005, 5006, 5215, 5373 of this title.
+Subsec. (c)(1) of this section to be treated as including a reference to section 5041 of this title with respectto distilled spirits returned to the bonded premises of distilled spirits plants during 1980, see section 808(d) of Pub. L. 96–39, set out as a note under section 5061 of this title.
 

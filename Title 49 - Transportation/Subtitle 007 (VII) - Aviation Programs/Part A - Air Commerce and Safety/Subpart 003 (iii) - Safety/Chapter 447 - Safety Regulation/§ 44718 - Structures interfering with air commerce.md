@@ -2,7 +2,7 @@
 
 (a)
 
-Notice.—By regulation or by order when necessary, the Secretary of Transportation shall require a person to give adequate public notice,in the form and way the Secretary prescribes, of the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill when the notice will promote—
+Notice.—By regulation or by order when necessary, the Secretary of Transportation shall require a person to give adequate public notice, in the form and way the Secretary prescribes, of the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill when the notice will promote—
 
 &emsp;(1) safety in air commerce; and
 

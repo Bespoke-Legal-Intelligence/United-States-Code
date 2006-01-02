@@ -28,7 +28,7 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 &emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 404 and 405 of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 406 and 409 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 406 and 409 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related servicesare less than the estimated aggregate per diem payments for the period of training.
 
 &emsp;&emsp;(C) Tuition and matriculation fees.
 

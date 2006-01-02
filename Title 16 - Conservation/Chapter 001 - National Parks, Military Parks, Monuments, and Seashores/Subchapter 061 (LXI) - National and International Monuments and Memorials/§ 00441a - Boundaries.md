@@ -26,7 +26,7 @@ Thence north one mile; thence east one mile; thence north one-half mile; thence 
 
 #### Extension of Boundaries
 
-Act June 26, 1936, ch. 842, title II, §1, 49 Stat. 1979, provided that the boundaries of the Badlands National Monument as established by this section shall be “extended to include such lands adjacent or contiguous thereto, in the State of South Dakota, including, but not being restricted to, lands designated as submarginal by the Resettlement Administration, as may be determined by the President, by proclamation, withinfive years following the approval of this Act, to be necessary for the proper rounding out of the boundaries of said Monument or the administration thereof, providing the entire area of such Monument shall not exceed 250,000 acres.”
+Act June 26, 1936, ch. 842, title II, §1, 49 Stat. 1979, provided that the boundaries of the Badlands National Monument as established by this section shall be “extended to include such lands adjacent or contiguous thereto, in the State of South Dakota, including, but not being restricted to, lands designated as submarginal by the Resettlement Administration, as may be determined by the President, by proclamation, within five years following the approval of this Act, to be necessary for the proper rounding out of the boundaries of said Monument or the administration thereof, providing the entire area of such Monument shall not exceed 250,000 acres.”
 
 #### Laws Applicable
 

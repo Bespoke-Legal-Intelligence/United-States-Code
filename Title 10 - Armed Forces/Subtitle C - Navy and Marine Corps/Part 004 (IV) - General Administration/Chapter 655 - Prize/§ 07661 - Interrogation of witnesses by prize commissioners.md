@@ -18,7 +18,3 @@ Historical and Revision Notes
 
 R.S. 4622 (as applicable to procedure for interrogating witnesses).
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7660 of this title.
-

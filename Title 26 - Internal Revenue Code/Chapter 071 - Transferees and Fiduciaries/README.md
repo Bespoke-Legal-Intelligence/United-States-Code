@@ -14,10 +14,6 @@
 
 1970—Pub. L. 91–614, title I, §101(e)(2), Dec. 31, 1970, 84 Stat. 1837, added item 6905.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6216, 6503, 6504, 7421, 7508, 7801 of this title.
-
 
 ---
 

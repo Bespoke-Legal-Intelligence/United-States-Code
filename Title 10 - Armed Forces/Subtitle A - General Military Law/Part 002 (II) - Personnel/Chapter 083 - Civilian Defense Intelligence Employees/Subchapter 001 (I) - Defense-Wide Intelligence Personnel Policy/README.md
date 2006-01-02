@@ -33,10 +33,6 @@
 
 1984—Pub. L. 98–618, title V, §501(b), Nov. 8, 1984, 98 Stat. 3302, added item 1604.
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in title 5 section 7511.
-
 
 ---
 

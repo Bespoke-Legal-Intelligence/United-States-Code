@@ -92,7 +92,3 @@ Pub. L. 108–177, title III, §361(n), Dec. 13, 2003, 117 Stat. 2626, provided 
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as a note under section 1593 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1612, 1613 of this title.
-

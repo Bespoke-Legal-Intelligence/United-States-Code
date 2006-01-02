@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) Four private individuals with interests in improving relations between the United States and eligible foreign states, designated by the Librarian of Congress.
 
-&emsp;&emsp;(E) The chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
+&emsp;&emsp;(E) The chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair) and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
 
 > &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
@@ -26,7 +26,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the Center is to establish, in accordance with the provisions of paragraph (2), a program to enable emerging political leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.
+&emsp;The purpose of the Center is to establish, in accordance with the provisions of paragraph\(2), a program to enable emerging political leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.
 
 #### (2) Grant program
 
@@ -132,13 +132,15 @@ In this section, the term “eligible foreign state” means—
 
 &emsp;(3) any other country that is designated by the Board, except that the Board shall notify the Committees on Appropriations of the Senate and the House of Representatives of the designation at least 90 days before the designation is to take effect.
 
-(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192.)
+(Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, §1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, §3402(b), May 11, 2005, 119 Stat. 272.)
 
 #### References in Text
 
 Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to in subsec. (g), is section 3011 of Pub. L. 106–31, which is set out as a note below.
 
 #### Amendments
+
+2005—Subsec. (a)(2)(E). Pub. L. 109–13 substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”.
 
 2004—Subsec. (a)(2). Pub. L. 108–447, §1502(1), substituted “11 members” for “nine members” in introductory provisions.
 
@@ -268,7 +270,7 @@ Membership.—The Advisory Board under paragraph (1) shall consist of—
 
 &emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate andone shall be designated by the Minority Leader of the Senate;
+&emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
 
 &emsp;&emsp;“(C) the Librarian of Congress;
 

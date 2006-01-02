@@ -20,7 +20,7 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 #### (2) Report on significant market opening
 
-&emsp;No later than May 1, 1994, and May 1, 1997, the Trade Representative shall submit to the President, and to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the “appropriate Congressional committees”), a report which lists those foreign countries—
+&emsp;No later than May 1, 1994, and May 1, 1997, the Trade Representative shall submit to thePresident, and to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the “appropriate Congressional committees”), a report which lists those foreign countries—
 
 &emsp;&emsp;(A) that—
 
@@ -36,7 +36,7 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 #### (4) Recommendations on future free trade area negotiations
 
-&emsp;No later than July 1, 1994, and July 1, 1997, the President shall submit to the appropriateCongressional committees a written report that contains—
+&emsp;No later than July 1, 1994, and July 1, 1997, the President shall submit to the appropriate Congressional committees a written report that contains—
 
 &emsp;&emsp;(A) recommendations for free trade area negotiations with each foreign country selected under paragraph (3);
 

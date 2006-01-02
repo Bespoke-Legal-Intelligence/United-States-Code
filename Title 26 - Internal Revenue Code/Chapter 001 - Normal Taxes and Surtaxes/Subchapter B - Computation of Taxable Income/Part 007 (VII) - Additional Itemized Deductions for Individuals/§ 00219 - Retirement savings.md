@@ -20,7 +20,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 #### (3) Plans under section 501(c)(18)
 
-&emsp;Notwithstanding paragraph (1), the amount allowable as a deduction under subsection (a) with respect to any contributions on behalf of an employee to a plan described in section 501(c)(18) shall not exceed the lesser of—
+&emsp;Notwithstanding paragraph (1), the amount allowable as a deduction under subsection (a)with respect to any contributions on behalf of an employee to a plan described in section 501(c)(18) shall not exceed the lesser of—
 
 &emsp;&emsp;(A) $7,000, or
 
@@ -242,7 +242,7 @@ For purposes of this section, the term “qualified retirement contribution” m
 
 &emsp;&emsp;&emsp;(i) after application of sections 86 and 469, and
 
-&emsp;&emsp;&emsp;(ii) without regard to sections 135, 137, 221, 222, and 911 or the deduction allowable under this section.
+&emsp;&emsp;&emsp;(ii) without regard to sections 135, 137, 199, 221, 222, and 911 or the deduction allowable under this section.
 
 #### (B) Applicable dollar amount
 
@@ -422,7 +422,7 @@ $50,000.
 
 &emsp;&emsp;<b>For failure to provide required reports, see section 6652(g).</b>
 
-(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120.)
+(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849,877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428.)
 
 #### Amendment of Section
 
@@ -433,6 +433,8 @@ $50,000.
 A prior section 219 was renumbered section 224 of this title.
 
 #### Amendments
+
+2004—Subsec. (g)(3)(A)(ii). Pub. L. 108–357 inserted “199,” before “221”.
 
 2001—Subsec. (b)(1)(A). Pub. L. 107–16, §§601(a)(1), 901, temporarily substituted “the deductible amount” for “$2,000”. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -498,13 +500,13 @@ Subsec. (g)(3)(A)(ii). Pub. L. 101–239, §7816(c)(1), made technical correctio
 
 Subsec. (g)(4). Pub. L. 100–647, §1011(a)(1), inserted “and living apart” after “filing separately” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of a married individual filing a separate return for any taxable year, paragraph (1) shall be applied without regard to whether such individual's spouse is an active participant for any plan year ending with or within such taxable year.”
 
-1986—Subsec. (b)(2). Pub. L. 99–514, §1108(g)(2), amended par. (2) generally, substituting provision that thissection shall not apply with respect to an employer contribution to a simplified employee pension for former provisions consisting of subpars. (A), (B), and (C) which set out detailed limits on deductibility of employer contributions.
+1986—Subsec. (b)(2). Pub. L. 99–514, §1108(g)(2), amended par. (2) generally, substituting provision that this section shall not apply with respect to an employer contribution to a simplified employee pension for former provisions consisting of subpars. (A), (B), and (C) which set out detailed limits on deductibility of employer contributions.
 
 Subsec. (b)(2)(C). Pub. L. 99–514, §1875(c)(6)(B), substituted “the dollar limitation in effect under section 415(c)(1)(A)” for “the $15,000 amount specified in subparagraph (A)(ii)”.
 
 Subsec. (b)(3). Pub. L. 99–514, §1109(b), added par. (3).
 
-Pub. L. 99–514, §1101(b)(2)(A), struck out par. (3), special rule for individual retirement plans, which read as follows: “If the individual has paid any qualified voluntary employee contributions for the taxable year, the amount of the qualified retirement contributions (other than employer contributions to a simplified employee pension) which are paid for the taxable year to an individual retirement plan and which are allowable as a deduction under subsection (a) for such taxable year shall not exceed—
+Pub. L. 99–514, §1101(b)(2)(A), struck out par. (3), special rule for individual retirement plans, which read as follows: “If the individual has paid any qualified voluntary employee contributions for the taxable year,the amount of the qualified retirement contributions (other than employer contributions to a simplified employee pension) which are paid for the taxable year to an individual retirement plan and which are allowable as a deduction under subsection (a) for such taxable year shall not exceed—
 
 &emsp;“(A) the amount determined under paragraph (1) for such taxable year, reduced by
 
@@ -564,11 +566,11 @@ Subsec. (f)(3)(B). Pub. L. 97–448, §103(c)(5), substituted “if the contribu
 
 Subsec. (b). Pub. L. 97–34, §311(a), in heading substituted “Maximum amount of deduction” for “Limitations and restrictions”.
 
-Subsec. (b)(1). Pub. L. 97–34, §311(a), amended par. (1) generally, substituting “In general” for “Maximum deduction” in heading and in text provision for allowance of a deduction not to exceed the lesser of (A) $2,000, or\(B) an amount equal to the compensation includible in the individual's gross income for such taxable year, for provision for an amount not to exceed amount equal to 15 percent of the compensation includible in gross income for the taxable year, or $1,500, whichever is less.
+Subsec. (b)(1). Pub. L. 97–34, §311(a), amended par. (1) generally, substituting “In general” for “Maximum deduction” in heading and in text provision for allowance of a deduction not to exceed the lesser of (A) $2,000, or (B) an amount equal to the compensation includible in the individual's gross income for such taxable year, for provision for an amount not to exceed amount equal to 15 percent of the compensation includible in gross income for the taxable year, or $1,500, whichever is less.
 
 Subsec. (b)(2)(A)(ii), (C). Pub. L. 97–34, §312(c)(1), substituted “$15,000” for “$7,500”.
 
-Pub. L. 97–34, §311(a), redesignated par. (7) as (2), substituted in heading “rules for employer contributions under” for “rules in case of”, substituted in subpar. (A) introductory text “an employee shall be allowed as a deduction under subsection (a) (in addition to the amount allowable under paragraph (1) an amount equal to the lesser of” for “the limitation under paragraph (1) shall be the lesser of”, inserted in subpar. (A)(i) “from such employer” before “includible” and substituted therein “without regard” for “with regard”, substituted in subpar. (A)(ii) “the amount contributed by such employer to the simplified employee pension and included in gross income (but not in excess of $7,500” for “the sum of—(I) the amount contributed by the employer to the simplified employee pension and included in gross income (but not in excess of $7,500), and (II) $1,500, reduced (but not below zero) by the amount described in subclause (I)”, and substituted in subpar. (B) “Paragraph (1) of this subsection and paragraph (1) of subsection (d)” for “Paragraphs (2) and (3)”. Former subsec. (b)(2) provisions which disallowed any deduction under subsec. (a) for an individual for the taxable year if for any part of such year (A) he was an active participant in (i) a plan described in section 401(a), (ii) an annuity plan described in section 403(a), (iii) a qualified bond purchase plan described in section 405(a), or (iv) a plan established for its employees by the United States, by a State or political subdivision thereof, or by an agency or instrumentality of any of the foregoing, or (B) amounts were contributed by his employer for an annuity contract described in section 403(b), are now covered by subsec. (e)(3) and (4) of this section.
+Pub. L. 97–34, §311(a), redesignated par. (7) as (2), substituted in heading “rules for employer contributions under” for “rules in case of”, substituted in subpar. (A) introductory text “an employee shall be allowed as a deduction under subsection (a) (in addition to the amount allowable under paragraph (1) an amount equal to the lesser of” for “the limitation under paragraph (1) shall be the lesser of”, inserted in subpar. (A)(i) “fromsuch employer” before “includible” and substituted therein “without regard” for “with regard”, substituted in subpar. (A)(ii) “the amount contributed by such employer to the simplified employee pension and included in gross income (but not in excess of $7,500” for “the sum of—(I) the amount contributed by the employer to the simplified employee pension and included in gross income (but not in excess of $7,500), and (II) $1,500, reduced (but not below zero) by the amount described in subclause (I)”, and substituted in subpar. (B) “Paragraph (1) of this subsection and paragraph (1) of subsection (d)” for “Paragraphs (2) and (3)”. Former subsec. (b)(2) provisions which disallowed any deduction under subsec. (a) for an individual for the taxable year if for any part of such year (A) he was an active participant in (i) a plan described in section 401(a), (ii) an annuity plan described in section 403(a), (iii) a qualified bond purchase plan described in section 405(a), or (iv) a plan established for its employees by the United States, by a State or political subdivision thereof, or by an agency or instrumentality of any of the foregoing, or (B) amounts were contributed by his employer for an annuity contract described in section 403(b), are now covered by subsec. (e)(3) and (4) of this section.
 
 Subsec. (b)(3) to (5). Pub. L. 97–34, §311(a), added pars. (3) and (4). Former pars. (3) to (5) redesignated subsec. (d)(1) to (3).
 
@@ -632,6 +634,10 @@ Subsec. (c)(3). Pub. L. 94–455, §1501(b)(4)(D), added par. (3).
 
 Subsec. (c)(4). Pub. L. 94–455, §1503(a), added par. (4).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 102(e) of Pub. L. 108–357, set out as a note under section 56 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
@@ -640,7 +646,7 @@ Pub. L. 107–16, title VI, §601(c), June 7, 2001, 115 Stat. 95, provided that:
 
 Amendment by section 641(e)(2) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
 
-Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010,and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -724,13 +730,13 @@ Section 147(d) of Pub. L. 98–369 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 408 of this title\] shall apply to contributions made after December 31, 1984.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 408 of this title\] shall apply to contributions made after December 31, 1984.
 
 “(2)
 
 Subsection (b).—The amendment made by subsection (b) \[amending section 6693 of this title\] shall apply to failures occurring after the date of the enactment of this Act \[July 18, 1984\].”
 
-Amendment by section 422(d)(1) of Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, with express provision for application of amendment to modification, see section 422(e)(1), (2) of Pub. L. 98–369, set out as a note under section 71 of this title.
+Amendment by section 422(d)(1) of Pub. L. 98–369 applicable with respect to divorce or separation instruments executed after Dec. 31, 1984, or executed before Jan. 1, 1985, but modified on or after Jan. 1, 1985, withexpress provision for application of amendment to modification, see section 422(e)(1), (2) of Pub. L. 98–369, set out as a note under section 71 of this title.
 
 Amendment by section 491(d)(6)–(8) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
@@ -828,11 +834,11 @@ Effective Date.—The provisions of subsection (a) shall apply to taxable years 
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -841,8 +847,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Transitional Rules for Allowable Deductions for First Taxable Year Beginning in 1978
 
 Section 157(b)(4)(B) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If, but for this subparagraph, an amount would be allowable as a deduction by reason of section 219(c)(5) or 220(c)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for a taxable year beginning before January 1, 1978, such amount shall be allowable only for the taxpayer's first taxable year beginning in 1978.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 25B, 62, 72, 86, 132, 135, 137, 220, 221, 222, 223, 408, 408A, 469, 501, 4973, 6047, 6652 of this title; title 29 section 1309.
 

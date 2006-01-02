@@ -1,6 +1,6 @@
 ### §12212. Officers: Air National Guard of the United States
 
-(a) Upon being federally recognized, an officer of the Air National Guard shall be appointed as a Reserve for service as a member of the Air National Guard of the United States in the grade that he holds in the Air National Guard. However, an officer of the Air Force Reserve who is federally recognized as an officer of the Air National Guard becomes an officer of the Air National Guard of the United States and ceases to be an officer of the Air Force Reserve. The acceptance of an appointment as a Reserve for service as a member of the Air National Guard of the United States by an officer of the Air National Guard does not vacate his office in the Air National Guard.
+(a) Upon being federally recognized, an officer of the Air National Guard shall be appointed as a Reserve for service as a member of the Air National Guard of the United States in the grade that he holds in the Air National Guard. However, an officer of the Air Force Reserve who isfederally recognized as an officer of the Air National Guard becomes an officer of the Air National Guard of the United States and ceases to be an officer of the Air Force Reserve. The acceptance of an appointment as a Reserve for service as a member of the Air National Guard of the United States by an officer of the Air National Guard does not vacate his office in the Air National Guard.
 
 (b) When an officer of the Air National Guard to whom temporary Federal recognition has been extended is appointed as a Reserve for service as a member of the Air National Guard of the United States, his appointment shall bear the date of the temporary recognition and shall be considered to have been accepted and effective on that date.
 
@@ -36,7 +36,7 @@ July 9, 1952, ch. 608, §§703 (less (a)), 704 (2d sentence), 705(a) (last 39 wo
 
 In subsection (a), the words “as a Reserve” are substituted for the words “as Reserve officers of the appropriate Armed Force of the United States” and “as a Reserve officer of the Armed Force of the United States concerned” in 50:1113(b). The words “federally recognized appointments” and “in the same grade and branch”, in 50:1113(b), are omitted as surplusage. The words “those officers who do not hold appointments as reserve officers of the appropriate Armed Force of the United States”, in 50:1113(b), are omitted as covered by the second sentence of the revised subsection.
 
-In subsection (c), the words “active duty” are substituted for the words “active military service of the United States”. The words “and branch” are omitted assurplusage. The words “of the Air National Guard of the United States” are inserted for clarity.
+In subsection (c), the words “active duty” are substituted for the words “active military service of the United States”. The words “and branch” are omitted as surplusage. The words “of the Air National Guard of the United States” are inserted for clarity.
 
 #### Amendments
 

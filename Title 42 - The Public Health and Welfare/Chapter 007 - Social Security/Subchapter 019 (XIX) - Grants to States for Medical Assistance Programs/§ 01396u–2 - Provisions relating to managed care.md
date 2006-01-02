@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements described in the succeeding paragraphs of this subsection are met; and
 
-&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entitiesunder the State plan if such restriction does not substantially impair access to services.
+&emsp;&emsp;&emsp;(ii) may restrict the number of provider agreements with managed care entities under the State plan if such restriction does not substantially impair access to services.
 
 #### (B) “Managed care entity” defined
 
@@ -232,7 +232,7 @@
 
 #### (6) Protecting enrollees against liability for payment
 
-&emsp;Each medicaid managed care organization shall provide that an individual eligible for medical assistance under the State plan under this subchapter who is enrolled with the organization may not be held liable—
+&emsp;Each medicaid managed care organization shall provide that an individual eligible for medical assistance under the State plan underthis subchapter who is enrolled with the organization may not be held liable—
 
 &emsp;&emsp;(A) for the debts of the organization, in the event of the organization's insolvency,
 
@@ -306,7 +306,7 @@
 
 #### (iv) Availability of results
 
-&emsp;&emsp;&emsp;The results of each external independent review conducted under this subparagraph shall be available to participating healthcare providers, enrollees, and potential enrollees of the organization, except that the results may not be made available in a manner that discloses the identity of any individual patient.
+&emsp;&emsp;&emsp;The results of each external independent review conducted under this subparagraph shall be available to participating health care providers, enrollees, and potential enrollees of the organization, except that the results may not be made available in a manner that discloses the identity of any individual patient.
 
 #### (B) Nonduplication of accreditation
 
@@ -378,11 +378,11 @@
 
 #### (E) Prohibition of “cold-call” marketing
 
-&emsp;&emsp;Each managed care entity shall not, directly or indirectly, conduct door-to-door, telephonic, or other “cold-call” marketing of enrollment under this subchapter.
+&emsp;&emsp;Each managed care entity shall not, directly or indirectly, conduct door-to-door,telephonic, or other “cold-call” marketing of enrollment under this subchapter.
 
 #### (3) State conflict-of-interest safeguards in medicaid risk contracting
 
-&emsp;A medicaid managed care organization may not enter into a contract with any State undersection 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) of this section that are at least as effective as the Federal safeguards provided under section 423 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
+&emsp;A medicaid managed care organization may not enter into a contract with any State under section 1396b(m) of this title unless the State has in effect conflict-of-interest safeguards with respect to officers and employees of the State with responsibilities relating to contracts with such organizations or to the default enrollment process described in subsection (a)(4)(C)(ii) of this section that are at least as effective as the Federal safeguards provided under section 423 of title 41, against conflicts of interest that apply with respect to Federal procurement officials with comparable responsibilities with respect to such contracts.
 
 #### (4) Use of unique physician identifier for participating physicians
 
@@ -444,7 +444,7 @@
 
 &emsp;&emsp;(C) Permitting individuals enrolled with the managed care entity to terminate enrollment without cause, and notifying such individuals of such right to terminate enrollment.
 
-&emsp;&emsp;(D) Suspension or default of all enrollment of individuals under this subchapter after the date the Secretary or the State notifies the entity of a determination of a violation of any requirement of section 1396b(m) of this title or this section.
+&emsp;&emsp;(D) Suspension or default of all enrollment of individuals under this subchapter afterthe date the Secretary or the State notifies the entity of a determination of a violation of any requirement of section 1396b(m) of this title or this section.
 
 &emsp;&emsp;(E) Suspension of payment to the entity under this subchapter for individuals enrolled after the date the Secretary or State notifies the entity of such a determination and until the Secretary or State is satisfied that the basis for such determination has been corrected and is not likely to recur.
 

@@ -108,7 +108,7 @@ Immunity From Warranty and Related Liability.—
 
 &emsp;(1)
 
-In general.—Any person who warrants, promises, or guarantees that a work does not violate an exclusive right granted in section 106 shall not be liable for legal, equitable, arbitral, or administrative relief if the warranty,promise, or guarantee is breached by virtue of the restoration of copyright under this section, if such warranty, promise, or guarantee is made before January 1, 1995.
+In general.—Any person who warrants, promises, or guarantees that a work does not violate an exclusive right granted in section 106 shall not be liable for legal, equitable, arbitral, or administrative relief if the warranty, promise, or guarantee is breached by virtue of the restoration of copyright under this section, if such warranty, promise, or guarantee is made before January 1, 1995.
 
 &emsp;(2)
 
@@ -160,7 +160,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;(4) The term “reliance party” means any person who—
 
-&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if the restored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
+&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if therestored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
 
 &emsp;&emsp;(B) before the source country of a particular work becomes an eligible country, makes or acquires 1 or more copies or phonorecords of that work; or
 
@@ -248,7 +248,7 @@ Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read a
 
 > a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.”
 
-Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
+Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the FederalRegister on an annual basis for the first 2 years after the applicable date of restoration.”
 
 Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 

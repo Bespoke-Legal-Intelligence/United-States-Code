@@ -34,7 +34,7 @@ The Assistance Board shall be a body corporate that shall have the power to—
 
 &emsp;(11) modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this subchapter;
 
-&emsp;(12) deposit its securities and its current funds with any member bank of the FederalReserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) and pay fees therefor and receive interest thereon as may be agreed; and
+&emsp;(12) deposit its securities and its current funds with any member bank of the Federal Reserve System or any insured State nonmember bank (within the meaning of section 1813 of this title) and pay fees therefor and receive interest thereon as may be agreed; and
 
 &emsp;(13) exercise other powers as set forth in this subchapter, and such other incidental powers as are necessary to carry out its powers, duties, and functions in accordance with this subchapter.
 

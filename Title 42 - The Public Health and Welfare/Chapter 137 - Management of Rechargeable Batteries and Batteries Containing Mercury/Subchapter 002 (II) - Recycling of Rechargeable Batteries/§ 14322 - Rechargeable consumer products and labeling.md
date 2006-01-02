@@ -90,7 +90,7 @@ After the effective dates of a requirement set forth in subsection (a), (b), or 
 
 #### (3) Renewal of exemption
 
-&emsp;A person granted an exemption under paragraph (2) may apply for a renewal of the exemption in accordance with the requirements and procedures described in paragraphs (1) and (2). The Administrator may grant a renewal of such an exemption for a period of not more than 2 years after the date of the granting of the renewal.
+&emsp;A person granted an exemption under paragraph (2) may apply for a renewal of the exemption in accordance with the requirements and procedures described in paragraphs (1) and (2). The Administrator may grant a renewal ofsuch an exemption for a period of not more than 2 years after the date of the granting of the renewal.
 
 (Pub. L. 104–142, title I, §103, May 13, 1996, 110 Stat. 1332.)
 

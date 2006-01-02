@@ -38,7 +38,7 @@
 
 For purposes of this section, a past-due obligation is any amount—
 
-&emsp;(1) owed by an individual to the United States by reason of a breach of a scholarship contract under section 338E of the Public Health Service Act \[42 U.S.C. 254<i>o</i>\] or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and which has not been paid by the deadline established by the Secretary pursuant to such respective section, and has not been canceled, waived, or suspended by the Secretary pursuant to such section; or
+&emsp;(1) owed by an individual to the United States by reason of a breach of a scholarship contract under section 338E of the Public Health Service Act \[42 U.S.C. 254<i>o</i>\] or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and which has not been paid by the deadline established by the Secretary pursuant to such respectivesection, and has not been canceled, waived, or suspended by the Secretary pursuant to such section; or
 
 &emsp;(2) owed by an individual to the United States by reason of a loan covered by Federal loan insurance under subpart I <sup>2</sup> of part C of title VII of the Public Health Service Act and payment for which has not been cancelled, waived, or suspended by the Secretary under such subpart.
 

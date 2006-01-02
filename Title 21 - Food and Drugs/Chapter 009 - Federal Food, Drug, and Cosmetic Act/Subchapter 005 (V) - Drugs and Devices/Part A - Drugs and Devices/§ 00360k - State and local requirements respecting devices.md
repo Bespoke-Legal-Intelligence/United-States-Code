@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, no State or political subd
 
 #### (b) Exempt requirements
 
-Upon application of a State or a political subdivision thereof, the Secretary may, by regulation promulgated after notice and opportunity for an oral hearing, exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, a requirement ofsuch State or political subdivision applicable to a device intended for human use if—
+Upon application of a State or a political subdivision thereof, the Secretary may, by regulation promulgated after notice and opportunity for an oral hearing, exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, a requirement of such State or political subdivision applicable to a device intended for human use if—
 
 &emsp;(1) the requirement is more stringent than a requirement under this chapter which would be applicable to the device if an exemption were not in effect under this subsection; or
 

@@ -54,7 +54,3 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Section applicable to sales after Aug. 5, 1997, see section 313(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 1016 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1016, 1223 of this title.
-

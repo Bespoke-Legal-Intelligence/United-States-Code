@@ -22,7 +22,7 @@ An entity that receives a grant under this section for activities described, in 
 
 &emsp;(1) contract with a carrier for the use of a toll-free telephone line;
 
-&emsp;(2) employ, train, and supervise personnel to answer incoming calls and provide counseling and referral services to callers on a 24-hour-a-day basis;
+&emsp;(2) employ, train (including technology training), and supervise personnel to answer incoming calls and provide counseling and referral services to callers on a 24-hour-a-day basis;
 
 &emsp;(3) assemble and maintain a current database of information relating to services for victims of domestic violence to which callers may be referred throughout the United States, including information on the availability of shelters that serve battered women; and
 
@@ -32,7 +32,7 @@ An entity that receives a grant under this section for activities described, in 
 
 #### (1) In general
 
-&emsp;An entity that receives a grant under this section for activities described, in whole or inpart, in subsection (a)(2) of this section shall use funds made available through the grant to provide grants for startup and operational costs associated with establishing and operating a highly secure Internet website.
+&emsp;An entity that receives a grant under this section for activities described, in whole or in part, in subsection (a)(2) of this section shall use funds made available through the grant to provide grants for startup and operational costs associated with establishing and operating a highly secure Internet website.
 
 #### (2) Availability
 
@@ -58,7 +58,7 @@ The Secretary may not award a grant under this section unless the Secretary appr
 
 &emsp;(2) in the case of an application for a grant to carry out activities described in subsection (a)(1) of this section, include a complete description of the applicant's plan for the operation of a national domestic violence hotline, including descriptions of—
 
-&emsp;&emsp;(A) the training program for hotline personnel;
+&emsp;&emsp;(A) the training program for hotline personnel, including technology training to ensure that all persons affiliated with the hotline are able to effectively operate any technological systems used by the hotline;
 
 &emsp;&emsp;(B) the hiring criteria for hotline personnel;
 
@@ -92,19 +92,25 @@ The Secretary may not award a grant under this section unless the Secretary appr
 
 #### (2) Conditions on appropriations
 
-&emsp;Notwithstanding paragraph (1), the Secretary shall make available a portion of the amounts appropriated under paragraph (1) to award grants under subsection (a)(2) of this section only for any fiscal year for which the amounts appropriated under paragraph (1) exceed $3,000,000.
+&emsp;Notwithstanding paragraph (1), the Secretary may make available a portion of the amounts appropriated under paragraph (1) to award grants under subsection (a)(2) of this section only for any fiscal year for which the amounts appropriated under paragraph (1) exceed $3,000,000.
 
 #### (3) Availability
 
 &emsp;Funds authorized to be appropriated under paragraph (1) shall remain available until expended.
 
-(Pub. L. 98–457, title III, §316, as added Pub. L. 103–322, title IV, §40211, Sept. 13, 1994, 108 Stat. 1925; amended Pub. L. 106–386, div. B, title II, §1204, Oct. 28, 2000, 114 Stat. 1507; Pub. L. 108–36, title IV, §411, June 25, 2003, 117 Stat. 827.)
+(Pub. L. 98–457, title III, §316, as added Pub. L. 103–322, title IV, §40211, Sept. 13, 1994, 108 Stat. 1925; amended Pub. L. 106–386, div. B, title II, §1204, Oct. 28, 2000, 114 Stat. 1507; Pub. L. 108–36, title IV, §411, June 25, 2003, 117 Stat. 827; Pub. L. 109–162, title II, §206, Jan. 5, 2006, 119 Stat. 3002.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (e)(4), was in the original “this Act” and was translated as reading “this title”, meaning title III of Pub. L. 98–457, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2006—Subsec. (d)(2). Pub. L. 109–162, §206(1), which directed insertion of “(including technology training)” after “train;”, was executed by making the insertion after “train”, to reflect the probable intent of Congress.
+
+Subsec. (f)(2)(A). Pub. L. 109–162, §206(2), inserted “, including technology training to ensure that all persons affiliated with the hotline are able to effectively operate any technological systems used by the hotline” after “hotline personnel”.
+
+Subsec. (g)(2). Pub. L. 109–162, §206(3), substituted “may” for “shall”.
 
 2003—Pub. L. 108–36 amended section generally, substituting provisions relating to a national toll-free telephone hotline and a highly secure Internet website to provide information and assistance to victims of domestic violence for provisions relating to a national domestic violence hotline.
 

@@ -17,10 +17,6 @@
 
 1998—Pub. L. 105–206, title III, §3306(b), July 22, 1998, 112 Stat. 744, added item for subchapter C.
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 7463, 7801 of this title.
-
 
 ---
 

@@ -160,7 +160,3 @@ Section 52(c) of Pub. L. 85–866 provided that: “The amendment made by subsec
 
 Section 2 of act Aug. 12, 1955, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the case of a short sale of property made by the taxpayer after such date.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1092, 1234, 1234B of this title.
-

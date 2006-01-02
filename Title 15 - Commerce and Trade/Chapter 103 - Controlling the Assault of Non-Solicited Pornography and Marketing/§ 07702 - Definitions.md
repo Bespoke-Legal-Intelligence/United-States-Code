@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;The term “affirmative consent”, when used with respect to a commercial electronic mail message, means that—
 
-&emsp;&emsp;(A) the recipient expressly consented to receive the message, either in response to aclear and conspicuous request for such consent or at the recipient's own initiative; and
+&emsp;&emsp;(A) the recipient expressly consented to receive the message, either in response to a clear and conspicuous request for such consent or at the recipient's own initiative; and
 
 &emsp;&emsp;(B) if the message is from a party other than the party to which the recipient communicated such consent, the recipient was given clear and conspicuous notice at the time the consent was communicated that the recipient's electronic mail address could be transferred to such other party for the purpose of initiating commercial electronic mail messages.
 
@@ -110,7 +110,7 @@ In this chapter:
 
 &emsp;&emsp;&nbsp;a subscription, membership, account, loan, or comparable ongoing commercial relationship involving the ongoing purchase or use by the recipient of products or services offered by the sender;
 
-&emsp;&emsp;&emsp;(iv) to provide information directly related to an employment relationship or related benefit plan in which the recipient is currently involved, participating, or enrolled; or
+&emsp;&emsp;&emsp;(iv) to provide information directly related to an employment relationship or related benefit plan in which the recipient iscurrently involved, participating, or enrolled; or
 
 &emsp;&emsp;&emsp;(v) to deliver goods or services, including product updates or upgrades, that the recipient is entitled to receive under the terms of a transaction that the recipient has previously agreed to enter into with the sender.
 

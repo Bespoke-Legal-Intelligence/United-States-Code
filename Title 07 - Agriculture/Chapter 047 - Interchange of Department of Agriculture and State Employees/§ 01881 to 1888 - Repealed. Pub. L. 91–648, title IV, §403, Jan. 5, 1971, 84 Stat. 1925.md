@@ -20,5 +20,5 @@ Section 1888, travel expenses of state employees. See section 3371 et seq. of Ti
 
 #### Effective Date of Repeal
 
-Repeal effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as an Effective Datenote under section 3371 of Title 5, Government Organization and Employees.
+Repeal effective sixty days after Jan. 5, 1971, see section 404 of Pub. L. 91–648, set out as an Effective Date note under section 3371 of Title 5, Government Organization and Employees.
 

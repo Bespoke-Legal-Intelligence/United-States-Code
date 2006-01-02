@@ -6,7 +6,7 @@ A principal United States negotiating objective under sections 2111 and 2112 of 
 
 #### (b) Conduct of negotiations on basis of appropriate product sectors of manufacturing
 
-As a means of achieving the negotiating objective set forth in subsection (a) of this section, to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of UnitedStates agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.
+As a means of achieving the negotiating objective set forth in subsection (a) of this section, to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.
 
 #### (c) Identification of appropriate product sectors of manufacturing
 

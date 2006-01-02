@@ -1,14 +1,14 @@
 ### §314. Adjutants general
 
-(a) There shall be an adjutant general in each State and Territory, Puerto Rico, and the District of Columbia. He shall perform the duties prescribed by the laws of that jurisdiction.
+(a) There shall be an adjutant general in each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands. He shall perform the duties prescribed by the laws of that jurisdiction.
 
 (b) The President shall appoint the adjutant general of the District of Columbia and prescribe his grade and qualifications.
 
 (c) The President may detail as adjutant general of the District of Columbia any retired commissioned officer of the Regular Army or the Regular Air Force recommended for that detail by the commanding general of the District of Columbia National Guard. An officer detailed under this subsection is entitled to the basic pay and allowances of his grade.
 
-(d) The adjutant general of each State and Territory, Puerto Rico, and the District of Columbia, and officers of the National Guard, shall make such returns and reports as the Secretary of the Army or the Secretary of the Air Force may prescribe, and shall make those returns and reports to the Secretary concerned or to any officer designated by him.
+(d) The adjutant general of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands, and officers of the National Guard, shall make such returns and reports as the Secretary of the Army or the Secretary of the Air Force may prescribe, and shall make those returns and reports to the Secretary concerned or to any officer designated by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 85–894, Sept. 2, 1958, 72 Stat. 1713; Pub. L. 100–456, div. A, title XII, §1234(b)(1), (5), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XIII, §1322(b), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title V, §553, Dec. 5, 1991, 105 Stat. 1371.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 604; Pub. L. 85–894, Sept. 2, 1958, 72 Stat. 1713; Pub. L. 100–456, div. A, title XII, §1234(b)(1), (5), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title XIII, §1322(b), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–190, div. A, title V, §553, Dec. 5, 1991, 105 Stat. 1371; Pub. L. 109–163, div. A, title X, §1057(b)(2), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes
 
@@ -53,6 +53,8 @@ The words “basic pay” are substituted for the words “active service pay”
 In subsection (d), the words “at such times and in such form” are omitted as covered by the words “such returns and reports as the Secretary \* \* \* may prescribe”.
 
 #### Amendments
+
+2006—Subsecs. (a), (d). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
 
 1991—Subsec. (b). Pub. L. 102–190 struck out “each Territory and” before “the District of Columbia” in first sentence, and struck out at end “To be eligible for appointment as adjutant general of a Territory, a person must be a citizen of that jurisdiction.”
 

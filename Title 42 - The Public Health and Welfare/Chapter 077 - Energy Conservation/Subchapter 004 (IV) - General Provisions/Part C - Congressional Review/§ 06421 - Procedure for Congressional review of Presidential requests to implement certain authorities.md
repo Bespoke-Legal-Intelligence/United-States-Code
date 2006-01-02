@@ -32,7 +32,7 @@ Under provisions contained in an energy action, a provision of such an action ma
 
 &emsp;(A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions described by paragraph (2) of this subsection; and it supersedes other rules only to the extent that it is inconsistent therewith; and
 
-&emsp;(B) with full recognition of the constitutional right of either House to change therules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
+&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
 (2) For purposes of this subsection, the term “resolution” means only a resolution of either House of Congress described in subparagraph (A) or (B) of this paragraph.
 

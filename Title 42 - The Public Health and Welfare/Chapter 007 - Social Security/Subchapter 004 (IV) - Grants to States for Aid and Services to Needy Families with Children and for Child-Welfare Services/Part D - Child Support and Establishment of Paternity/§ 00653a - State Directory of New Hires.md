@@ -60,7 +60,7 @@
 
 #### (c) Reporting format and method
 
-Each report required by subsection (b) of this section shall be made on a W–4 form or, at the option of the employer, an equivalent form, andmay be transmitted by 1st class mail, magnetically, or electronically.
+Each report required by subsection (b) of this section shall be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
 
 #### (d) Civil money penalties on noncomplying employers
 

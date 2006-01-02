@@ -24,7 +24,7 @@ Judicial review of the interim consumer product safety standard established in s
 
 (C)(i) No later than 45 days after receiving any notice under subparagraph (B), the Commission shall publish the revision, including such changes in the revision as it considers appropriate to make the revision suitable for promulgation as an amendment to the interim consumer product safety standard, in the Federal Register as a proposed amendment to the interim consumer product safety standard.
 
-(ii) The Commission may extend the 45-day period specified in clause (i) for an additional period of not more than 150 days if the Commission determines that such extension is necessary to study the technical and scientific basis for the revision involved, or to study the safety and economic consequences of such revision.
+(ii) The Commission may extend the 45-day period specified in clause (i) for an additional period of not more than 150 days if the Commission determines that such extension is necessary to study the technical and scientific basis for therevision involved, or to study the safety and economic consequences of such revision.
 
 (D)(i) Additional extensions of the 45-day period specified in subparagraph (C)(i) may be taken by the Commission if—
 
@@ -80,7 +80,7 @@ There are authorized to be appropriated, for each of the fiscal years 1978, 1979
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Congressional Statement of Findings and Purpose
 

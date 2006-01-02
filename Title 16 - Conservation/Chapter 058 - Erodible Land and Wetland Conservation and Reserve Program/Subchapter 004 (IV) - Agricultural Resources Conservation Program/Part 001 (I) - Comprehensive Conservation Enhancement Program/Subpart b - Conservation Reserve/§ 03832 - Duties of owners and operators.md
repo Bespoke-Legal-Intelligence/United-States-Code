@@ -10,7 +10,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(3) not to use the land for agricultural purposes, except as permitted by the Secretary;
 
-&emsp;(4) to establish approved vegetative cover (which may include emerging vegetation in water), water cover for the enhancement ofwildlife, or, where practicable, maintain existing cover on the land, except that—
+&emsp;(4) to establish approved vegetative cover (which may include emerging vegetation in water), water cover for the enhancement of wildlife, or, where practicable, maintain existing cover on the land, except that—
 
 &emsp;&emsp;(A) the water cover shall not include ponds for the purpose of watering livestock, irrigating crops, or raising fish for commercial purposes; and
 

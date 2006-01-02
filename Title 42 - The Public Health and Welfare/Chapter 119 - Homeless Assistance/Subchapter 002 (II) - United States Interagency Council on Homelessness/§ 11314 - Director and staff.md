@@ -6,7 +6,7 @@ The Council shall appoint an Executive Director, who shall be compensated at a r
 
 #### (b) Additional personnel
 
-With the approval of the Council, the Executive Director of the Council may appoint and fixthe compensation of such additional personnel as the Executive Director considers necessary to carry out the duties of the Council.
+With the approval of the Council, the Executive Director of the Council may appoint and fix the compensation of such additional personnel as the Executive Director considers necessary to carry out the duties of the Council.
 
 #### (c) Details from other agencies
 

@@ -8,7 +8,7 @@ For a State to be eligible to receive a grant under this part, the State educati
 
 Each application submitted under this section shall include the following:
 
-&emsp;(1) A description of how the activities to be carried out by the State educational agencyunder this subpart will be based on a review of scientifically based research and an explanation of why the activities are expected to improve student academic achievement.
+&emsp;(1) A description of how the activities to be carried out by the State educational agency under this subpart will be based on a review of scientifically based research and an explanation of why the activities are expected to improve student academic achievement.
 
 &emsp;(2) A description of how the State educational agency will ensure that a local educational agency receiving a subgrant to carry out subpart 2 of this part will comply with the requirements of such subpart.
 
@@ -30,7 +30,7 @@ Each application submitted under this section shall include the following:
 
 &emsp;(9) A description of the State educational agency's annual measurable objectives under section 6319(a)(2) of this title.
 
-&emsp;(10) A description of how the State educational agency will use funds under this part to meet the teacher and paraprofessional requirements of section 6319 of this title and how the State educational agency will hold local educational agencies accountable for meeting the annual measurable objectives described in section 6319(a)(2) of this title.
+&emsp;(10) A description of how the State educational agency will use funds under this part to meet the teacher and paraprofessional requirements of section 6319 of this title and howthe State educational agency will hold local educational agencies accountable for meeting the annual measurable objectives described in section 6319(a)(2) of this title.
 
 &emsp;(11) In the case of a State that has a charter school law that exempts teachers from State certification and licensing requirements, the specific portion of the State law that provides for the exemption.
 

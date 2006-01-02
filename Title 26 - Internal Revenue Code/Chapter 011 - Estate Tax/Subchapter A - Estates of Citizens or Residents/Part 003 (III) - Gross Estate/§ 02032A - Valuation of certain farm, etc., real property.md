@@ -82,7 +82,7 @@
 
 #### (C) Coordination with recapture
 
-&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) aremet with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
+&emsp;&emsp;For purposes of subsection (c)(6)(B)(i), if the requirements of paragraph (1)(C)(ii) are met with respect to any decedent by reason of subparagraph (A), the period ending on the date on which the continuous period taken into account under subparagraph (A) began shall be treated as the period immediately before the decedent's death.
 
 #### (5) Special rules for surviving spouses
 
@@ -122,7 +122,7 @@
 
 #### (B) Adjusted tax difference attributable to interest
 
-&emsp;&emsp;For purposes of subparagraph (A), the adjusted tax difference attributable to an interest is the amount which bears the same ratio to the adjusted tax difference with respect to the estate (determined under subparagraph (C)) as—
+&emsp;&emsp;For purposes of subparagraph (A), the adjusted tax difference attributable to an interest is the amount which bears the sameratio to the adjusted tax difference with respect to the estate (determined under subparagraph (C)) as—
 
 &emsp;&emsp;&emsp;(i) the excess of the value of such interest for purposes of this chapter (determined without regard to subsection (a)) over the value of such interest determined under subsection (a), bears to
 
@@ -212,7 +212,7 @@
 
 #### (D) Student
 
-&emsp;&emsp;For purposes of subparagraph (C), an individual shall be treated as a student with respect to periods during any calendar year if (and only if) such individual is a student (within the meaning of section 151(c)(4)) for such calendar year.
+&emsp;&emsp;For purposes of subparagraph (C), an individual shall be treated as a student with respect to periods during any calendar year if (and only if) such individual is a student (within the meaning of section 152(f)(2)) for such calendar year.
 
 #### (E) Certain rents treated as qualified use
 
@@ -230,7 +230,7 @@
 
 #### (2) Agreement
 
-&emsp;The agreement referred to in this paragraph is a written agreement signed by each person in being who has an interest (whether or notin possession) in any property designated in such agreement consenting to the application of subsection (c) with respect to such property.
+&emsp;The agreement referred to in this paragraph is a written agreement signed by each person in being who has an interest (whether or not in possession) in any property designated in such agreement consenting to the application of subsection (c) with respect to such property.
 
 #### (3) Modification of election and agreement to be permitted
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (11) Bond in lieu of personal liability
 
-&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax which may be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary (as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
+&emsp;If the qualified heir makes written application to the Secretary for determination of the maximum amount of the additional tax which may be imposed by subsection (c) with respect to the qualified heir's interest, the Secretary\(as soon as possible, and in any event within 1 year after the making of such application) shall notify the heir of such maximum amount. The qualified heir, on furnishing a bond in such amount and for such period as may be required, shall be discharged from personal liability for any additional tax imposed by subsection (c) and shall be entitled to a receipt or writing showing such discharge.
 
 #### (12) Active management
 
@@ -516,17 +516,19 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 &emsp;For purposes of this subsection, the term “qualified exchange property” means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
 
-(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045.)
+(Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997,111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178.)
 
-#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2004
+#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2006
 
-<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2004, see section 3.25 of Revenue Procedure 2003–85, set out as a note under section 1 of this title.</i>
+<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2006, see section 3.27 of Revenue Procedure 2005–70, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2004—Subsec. (c)(7)(D). Pub. L. 108–311 substituted “section 152(f)(2)” for “section 151(c)(4)”.
 
 1997—Subsec. (a)(3). Pub. L. 105–34, §501(b), added par. (3).
 
@@ -624,6 +626,10 @@ Subsec. (f)(1). Pub. L. 95–472, §4(c), inserted provision relating to the exp
 
 Subsec. (h). Pub. L. 95–472, §4(a), added subsec. (h).
 
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 31, 2004, see section 208 of Pub. L. 108–311, set out as a note under section 2 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 501(b) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
@@ -718,7 +724,7 @@ Section 2003(e) of Pub. L. 94–455 provided that: “The amendments made by thi
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Waiver of Statute of Limitation for Taxes on Certain Farm Valuations
 
@@ -760,9 +766,5 @@ Special Rule for Certain Estate.—Notwithstanding subsection (a)(2), the provis
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 
-Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to betreated, for purposes of this section, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 263A, 453, 453A, 469, 664, 1014, 1016, 1040, 1223, 1396, 1397C, 2013, 2031, 2035, 2056A, 2057, 2624, 2663, 6324B of this title.
+Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to be treated, for purposes of this section, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
 

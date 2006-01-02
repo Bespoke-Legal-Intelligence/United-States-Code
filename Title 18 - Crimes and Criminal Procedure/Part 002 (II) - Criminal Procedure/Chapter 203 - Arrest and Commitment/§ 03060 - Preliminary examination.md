@@ -8,7 +8,7 @@
 
 &emsp;(2) the twentieth day following the date of the initial appearance if the arrested person is released from custody under any condition other than a condition described in paragraph (1) of this subsection.
 
-(c) With the consent of the arrested person, the date fixed by the judge or magistrate judge for the preliminary examination may be a date later than that prescribed by subsection (b), or may be continued one or more times to a date subsequent to the date initially fixed therefor. In the absence of such consent of the accused, the date fixed for the preliminary hearing may be a date later than that prescribed by subsection (b), or may be continued to a date subsequent to the date initially fixed therefor, only upon the order of a judge of the appropriate United States district court after a finding that extraordinary circumstances exist, and that the delay of the preliminary hearing is indispensable to the interests of justice.
+(c) With the consent of the arrested person, the date fixed by the judge or magistrate judge for the preliminary examination may be a date later than that prescribed by subsection (b), or may be continued one or more times to a date subsequent to the date initially fixed therefor. In the absence of such consent of the accused, the judge or magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay.
 
 (d) Except as provided by subsection (e) of this section, an arrested person who has not been accorded the preliminary examination required by subsection (a) within the period of time fixed by the judge or magistrate judge in compliance with subsections (b) and (c), shall be discharged from custody or from the requirement of bail or any other condition of release, without prejudice, however, to the institution of further criminal proceedings against him upon the charge upon which he was arrested.
 
@@ -16,9 +16,11 @@
 
 (f) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the record of such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
-(June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, §303(a), Oct. 17, 1968, 82 Stat. 1117; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, §303(a), Oct. 17, 1968, 82 Stat. 1117; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–162, title XI, §1179, Jan. 5, 2006, 119 Stat. 3126.)
 
 #### Amendments
+
+2006—Subsec. (c). Pub. L. 109–162 substituted “In the absence of such consent of the accused, the judge or magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay.” for “In the absence of such consent of the accused, the date fixed for the preliminary hearing may be a date later than that prescribed by subsection (b), or may be continued to a date subsequent to the date initially fixed therefor, only upon the order of a judge of the appropriate United States district court after a finding that extraordinary circumstances exist, and that the delay of the preliminary hearing is indispensable to the interests of justice.”
 
 1968—Pub. L. 90–578 substituted provisions of subsecs. (a) to (f) of this section detailing preliminary examination content for prior provisions which directed attention to the rule in section catchline, and directed one to see Federal Rules of Criminal Procedure, including “Proceedings before commissioner, appearance, advice as to right to counsel, hearing, Rule 5.”.
 

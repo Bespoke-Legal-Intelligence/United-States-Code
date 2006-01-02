@@ -18,7 +18,7 @@ The Director shall have the following duties:
 
 &emsp;(8) Exercising such other powers and functions as may be vested in the Director pursuant to this chapter or by delegation of the Attorney General or Assistant Attorney General.
 
-(Pub. L. 90–351, title I, §402, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328; amended Pub. L. 101–647, title II, §241(b)(1), Nov. 29, 1990, 104 Stat. 4813.)
+(Pub. L. 90–351, title I, §402, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat.4328; amended Pub. L. 101–647, title II, §241(b)(1), Nov. 29, 1990, 104 Stat. 4813.)
 
 #### Prior Provisions
 

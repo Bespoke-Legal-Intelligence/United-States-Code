@@ -32,7 +32,7 @@ Congressional Notice-and-Wait Period.—(1) A transfer under this section may no
 
 &emsp;(B) any day on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die at the end of the first session of a Congress, shall be excluded in the computation of such 30-day period.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L.106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002, 116 Stat. 1297.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002, 116 Stat. 1297.)
 
 #### Prior Provisions
 
@@ -51,8 +51,4 @@ A prior section 7306, acts Aug. 10, 1956, ch. 1041, 70A Stat. 452; Nov. 8, 1965,
 &emsp;“(B) 60 days of continuous session of Congress have expired following the date on which such notice is sent to Congress.
 
 “(2) For purposes of paragraph (1)(B), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7316 of this title; title 42 section 6939d.
 

@@ -6,7 +6,7 @@
 
 &emsp;The Commission shall prescribe rules in accordance with this subsection to prohibit unfair and deceptive acts and practices in any advertisement for pay-per-call services. Such rules shall require that the person offering such pay-per-call services—
 
-&emsp;&emsp;(A) clearly and conspicuously disclose in any advertising the cost of the use of such telephone number, including the total cost or the cost per minute and any other fees for that service and for any other pay-per-call service to which the caller may be transferred;
+&emsp;&emsp;(A) clearly and conspicuously disclose in any advertising the cost of the use of such telephone number, including the total cost or the cost per minute and any other fees forthat service and for any other pay-per-call service to which the caller may be transferred;
 
 &emsp;&emsp;(B) in the case of an advertisement which offers a prize or award or a service or product at no cost or for a reduced cost, clearly and conspicuously disclose the odds of being able to receive such prize, award, service, or product at no cost or reduced cost, or, if such odds are not calculable in advance, disclose the factors determining such odds;
 
@@ -96,7 +96,7 @@
 
 #### (b) Rulemaking
 
-The Commission shall prescribe the rules under subsection (a) of this section within 270days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
+The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with section 553 of title 5.
 
 #### (c) Enforcement
 

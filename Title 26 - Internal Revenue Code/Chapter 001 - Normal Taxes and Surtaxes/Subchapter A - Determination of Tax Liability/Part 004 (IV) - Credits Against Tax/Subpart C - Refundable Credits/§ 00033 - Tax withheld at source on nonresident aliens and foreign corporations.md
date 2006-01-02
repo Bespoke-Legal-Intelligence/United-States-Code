@@ -18,7 +18,3 @@ Pub. L. 98–369, §474(j), amended section generally, striking out “and on ta
 
 Section 475(b) of Pub. L. 98–369 provided that: “The amendments made by subsections (j) and (r)(29) \[amending this section and sections 12, 164, 1441, 1442, 6049, and 7701 of this title and repealing section 1451 of this title\] shall not apply with respect to obligations issued before January 1, 1984.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 874, 882, 1446, 6211, 6401 of this title.
-

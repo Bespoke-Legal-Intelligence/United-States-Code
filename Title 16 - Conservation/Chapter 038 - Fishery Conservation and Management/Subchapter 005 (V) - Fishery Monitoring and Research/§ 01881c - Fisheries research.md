@@ -22,7 +22,7 @@ Within one year after October 11, 1996, and at least every 3 years thereafter, t
 
 Areas of research are as follows:
 
-&emsp;(1) Research to support fishery conservation and management, including but not limited to, biological research concerning the abundance and life history parameters of stocks of fish, the interdependence of fisheries or stocks of fish, the identification of essential fish habitat, the impact of pollution on fish populations, the impact of wetland and estuarine degradation, and other factors affecting the abundance and availability of fish.
+&emsp;(1) Research to support fishery conservation and management, including but not limited to, biological research concerning the abundance and life history parameters of stocks of fish, the interdependence of fisheries or stocks of fish, the identification of essential fishhabitat, the impact of pollution on fish populations, the impact of wetland and estuarine degradation, and other factors affecting the abundance and availability of fish.
 
 &emsp;(2) Conservation engineering research, including the study of fish behavior and the development and testing of new gear technology and fishing techniques to minimize bycatch and any adverse effects on essential fish habitat and promote efficient harvest of target species.
 

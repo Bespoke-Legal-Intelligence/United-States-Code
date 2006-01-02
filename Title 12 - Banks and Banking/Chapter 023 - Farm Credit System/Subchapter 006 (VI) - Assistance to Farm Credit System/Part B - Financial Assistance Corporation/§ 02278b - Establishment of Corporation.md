@@ -16,5 +16,5 @@ Section 206 of Pub. L. 100–233 provided that: “During the period beginning S
 
 &emsp;“(2) the total outstanding principal of debt obligations issued under section 6.26 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–6\]; and
 
-&emsp;“(3) the ability of each System institution to retire, at par value, preferred stock issued by the institution in accordance with section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\].”
+&emsp;“(3) the ability of each System institution to retire, at par value, preferred stock issued by the institutionin accordance with section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[12 U.S.C. 2278b–7\].”
 

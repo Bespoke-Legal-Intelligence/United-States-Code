@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [2191\.](%C2%A7%2002191%20-%20Graduate%20fellowships.md) | Graduate fellowships. |
 | [2192\.](%C2%A7%2002192%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20regarding%20education%20in%20science%2C%20mathematics%2C%20and%20engineering.md) | Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering. |
+| [2192a.](%C2%A7%2002192a%20-%20Science%2C%20Mathematics%2C%20and%20Research%20for%20Transformation%20%28SMART%29%20Defense%20Education%20Program.md) | Science, Mathematics, and Research for Transformation (SMART) Defense Education Program. |
 | [2193\.](%C2%A7%2002193%20-%20Improvement%20of%20education%20in%20technical%20fields%20grants%20for%20higher%20education%20in%20science%20and%20mathematics.md) | Improvement of education in technical fields: grants for higher education in science and mathematics. |
 | [2193a.](%C2%A7%2002193a%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%20and%E2%80%A6.md) | Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics. |
 | [2193b.](%C2%A7%2002193b%20-%20Improvement%20of%20education%20in%20technical%20fields%20program%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%2C%20mathematics%2C%20and%E2%80%A6.md) | Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology. |
@@ -17,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2006—Pub. L. 109–163, div. A, title XI, §1104(d)(2), Jan. 6, 2006, 119 Stat. 3450, added item 2192a.
 
 1999—Pub. L. 106–65, div. A, title V, §580(d)(3), Oct. 5, 1999, 113 Stat. 633, added items 2192, 2193, 2193a, and 2193b and struck out former items 2192 “Science, mathematics, and engineering education” and 2193 “Science and mathematics education improvement program”.
 
@@ -33,6 +36,7 @@
 
 - [&sect; 02191 - Graduate fellowships](%C2%A7%2002191%20-%20Graduate%20fellowships.md)
 - [&sect; 02192 - Improvement of education in technical fields general authority regarding education in science, mathematics, and engineering](%C2%A7%2002192%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20regarding%20education%20in%20science%2C%20mathematics%2C%20and%20engineering.md)
+- [&sect; 02192a - Science, Mathematics, and Research for Transformation (SMART) Defense Education Program](%C2%A7%2002192a%20-%20Science%2C%20Mathematics%2C%20and%20Research%20for%20Transformation%20%28SMART%29%20Defense%20Education%20Program.md)
 - [&sect; 02193 - Improvement of education in technical fields grants for higher education in science and mathematics](%C2%A7%2002193%20-%20Improvement%20of%20education%20in%20technical%20fields%20grants%20for%20higher%20education%20in%20science%20and%20mathematics.md)
 - [&sect; 02193a - Improvement of education in technical fields general authority for support of elementary and secondary education in science and&#8230;](%C2%A7%2002193a%20-%20Improvement%20of%20education%20in%20technical%20fields%20general%20authority%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%20and%E2%80%A6.md)
 - [&sect; 02193b - Improvement of education in technical fields program for support of elementary and secondary education in science, mathematics, and&#8230;](%C2%A7%2002193b%20-%20Improvement%20of%20education%20in%20technical%20fields%20program%20for%20support%20of%20elementary%20and%20secondary%20education%20in%20science%2C%20mathematics%2C%20and%E2%80%A6.md)

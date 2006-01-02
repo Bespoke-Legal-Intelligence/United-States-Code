@@ -46,7 +46,3 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 Section 1001(a)(2)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 12, 26, 30A, 111, 532, 534, 535, 536, 545, 556, 563, 936, 1298, 6601, 7518 of this title; title 46 App. section 1177.
-

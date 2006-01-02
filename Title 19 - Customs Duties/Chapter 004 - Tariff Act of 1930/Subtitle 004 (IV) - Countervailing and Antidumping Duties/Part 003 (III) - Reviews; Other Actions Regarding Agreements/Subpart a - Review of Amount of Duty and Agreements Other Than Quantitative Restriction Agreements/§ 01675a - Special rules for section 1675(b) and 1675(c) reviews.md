@@ -36,7 +36,7 @@
 
 #### (4) Impact on the industry
 
-&emsp;In evaluating the likely impact of imports of the subject merchandise on the industry if theorder is revoked or the suspended investigation is terminated, the Commission shall consider all relevant economic factors which are likely to have a bearing on the state of the industry in the United States, including, but not limited to—
+&emsp;In evaluating the likely impact of imports of the subject merchandise on the industry if the order is revoked or the suspended investigation is terminated, the Commission shall consider all relevant economic factors which are likely to have a bearing on the state of the industry in the United States, including, but not limited to—
 
 &emsp;&emsp;(A) likely declines in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,
 
@@ -52,7 +52,7 @@
 
 #### (6) Magnitude of margin of dumping and net countervailable subsidy; nature of countervailable subsidy
 
-&emsp;In making a determination under section 1675(b) or (c) of this title, the Commission may consider the magnitude of the margin of dumping or the magnitude of the net countervailable subsidy. If a countervailable subsidy is involved the Commission shall consider information regarding the nature of the countervailable subsidy and whether the subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement.
+&emsp;In making a determination under section 1675(b) or (c) of this title, the Commission may consider the magnitude of the margin ofdumping or the magnitude of the net countervailable subsidy. If a countervailable subsidy is involved the Commission shall consider information regarding the nature of the countervailable subsidy and whether the subsidy is a subsidy described in Article 3 or 6.1 of the Subsidies Agreement.
 
 #### (7) Cumulation
 
@@ -92,7 +92,7 @@
 
 #### (A) Treatment of zero and de minimis rates
 
-&emsp;&emsp;A net countervailable subsidy described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administeringauthority to determine that revocation of a countervailing duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of a countervailable subsidy.
+&emsp;&emsp;A net countervailable subsidy described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administering authority to determine that revocation of a countervailing duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of a countervailable subsidy.
 
 #### (B) Application of de minimis standards
 

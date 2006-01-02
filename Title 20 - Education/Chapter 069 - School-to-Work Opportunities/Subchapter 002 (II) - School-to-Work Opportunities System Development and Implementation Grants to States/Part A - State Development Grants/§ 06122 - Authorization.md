@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;On the application of the Governor on behalf of a State in accordance with section 6123 of this title, the Secretaries may provide a development grant to the State in such amounts as the Secretaries determine to be necessary to enable such State to complete planning and development of a comprehensive statewide School-to-Work Opportunities system.
+&emsp;On the application of the Governor on behalf of a State in accordance with section 6123 ofthis title, the Secretaries may provide a development grant to the State in such amounts as the Secretaries determine to be necessary to enable such State to complete planning and development of a comprehensive statewide School-to-Work Opportunities system.
 
 #### (2) Amount
 

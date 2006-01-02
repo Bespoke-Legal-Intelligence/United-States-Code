@@ -30,7 +30,7 @@
 
 &emsp;(B) such loan shall bear interest at a rate not in excess of the rate prescribed under subsection (a) of this section; and
 
-&emsp;(C) the principal of or interest on such loan shall, in accordance with the support loan agreement, be repayable, commencing at the end of the last 12-month period covered by the support loan, over a period not in excess of the period equal to the then remaining useful life of the project (as determined by the Secretary) or 15 years, whichever is shorter.
+&emsp;(C) the principal of or interest on such loan shall, in accordance with the support loanagreement, be repayable, commencing at the end of the last 12-month period covered by the support loan, over a period not in excess of the period equal to the then remaining useful life of the project (as determined by the Secretary) or 15 years, whichever is shorter.
 
 #### (c) Authority of Secretary of Energy with respect to guarantees for new projects; pricing determinations, etc.
 

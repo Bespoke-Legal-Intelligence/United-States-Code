@@ -74,13 +74,21 @@ The financial transactions of the Corporation shall be audited by the Government
 
 #### (f) Report of audit
 
-A report of each audit conducted under subsection (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report to the Congress shall set forth the scope of the audit and shall include a statement of assets and liabilities and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expenses; a statement of sources and application of funds and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction orundertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary of the Treasury, and to the Corporation at the time submitted to the Congress.
+A report of each audit conducted under subsection (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report to the Congress shall set forth the scope of the audit and shall include a statement of assets and liabilities and surplus or deficit; a statement of surplus or deficit analysis; a statement of income and expenses; a statement of sources and application of funds and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Corporation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President, to the Secretary of the Treasury, and to the Corporation at the time submitted to the Congress.
 
 #### (g) Assistance in audit; costs
 
 For the purpose of conducting such audit the Comptroller General is authorized in his discretion to employ by contract, without regard to section 5 of title 41, professional services of firms and organizations of certified public accountants, with the concurrence of the Corporation, for temporary periods or for special purposes. The Corporation shall reimburse the Government Accountability Office for the cost of any such audit as billed therefor by the Comptroller General, and the Government Accountability Office shall deposit the sums so reimbursed into the Treasury as miscellaneous receipts.
 
-(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Sept. 21, 1950, ch. 967, §2\[17\], 64 Stat. 890; Pub. L. 93–604, title VI, §602, Jan. 2, 1975, 88 Stat. 1963; Pub. L. 101–73, title II, §220(a), Aug. 9, 1989, 103 Stat. 263; Pub. L. 102–242, title IV, §427, Dec. 19, 1991, 105 Stat. 2378; Pub. L. 104–208, div. A, title II, §2704(d)(14)(S), (T), Sept. 30, 1996, 110 Stat. 3009–493, 3009–494; Pub. L. 106–569, title XI, §§1103(a), 1104(b), Dec. 27, 2000, 114 Stat. 3030, 3032; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–173, §8(a)(26), (27), Feb. 15, 2006, 119 Stat. 3614, 3615.)
+
+#### Amendment of Subsections (a) and (d)
+
+<i>Pub. L. 109–173, §8(a)(26), (27), (b), Feb. 15, 2006, 119 Stat. 3614–3616, provided that, effective Mar. 31, 2006, this section is amended as follows:</i>
+
+<i>(1) in subsection (a), by striking “BIF, SAIF,” and inserting “the Deposit Insurance Fund” in the subsection heading and, in paragraph (1), by striking “the Bank Insurance Fund, the Savings Association Insurance Fund,” and inserting “the Deposit Insurance Fund” in introductory provisions and subparagraph (E) and by striking “each insurance fund” and inserting “the Deposit Insurance Fund” in subparagraph (D); and</i>
+
+<i>(2) in subsection (d), by striking “, the Bank Insurance Fund, the Savings Association Insurance Fund,” each place that term appears and inserting “the Deposit Insurance Fund”.</i>
 
 #### References in Text
 
@@ -110,7 +118,11 @@ Subsecs. (b) to (g). Pub. L. 101–73, §220(a)(2), (3), added subsecs. (b) to (
 
 1975—Subsec. (b). Pub. L. 93–604, §602(a), inserted provisions that the Corporation shall be audited at least once in every three years.
 
-Subsec. (c). Pub. L. 93–604, §602(b), substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered by such audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
+Subsec. (c). Pub. L. 93–604, §602(b), substituted provisions that a report of each audit conducted under subsec. (b) of this section shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of previous year covered bysuch audit, for provisions that a report of the audit for each fiscal year ending on June 30 shall be made by the Comptroller General to the Congress not later than Jan. 15 following the close of such fiscal year.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 8(b) of Pub. L. 109–173, set out as a note under section 1813 of this title.
 
 #### Effective Date of 1996 Amendment
 

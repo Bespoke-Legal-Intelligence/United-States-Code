@@ -2,7 +2,7 @@
 
 (a)
 
-Recovery.—In addition to any other method of recovery provided by law, the Secretary concerned may authorize the recovery of any amount erroneously paid to a person under this subchapter by deduction from later payments to that person.
+Recovery.—In addition to any other method of recovery provided by law, the Secretary concerned may authorize the recovery of any amount erroneously paid to a person under thissubchapter by deduction from later payments to that person.
 
 (b)
 
@@ -19,8 +19,4 @@ Authority To Waive Recovery.—Recovery of an amount erroneously paid to a perso
 1996—Pub. L. 104–201 substituted “amounts” for “annuity” in section catchline and amended text generally. Prior to amendment, text read as follows: “In addition to other methods of recovery provided by law, the Secretary concerned may authorize the recovery, by deduction from later payments to a person, of any amount erroneously paid to him under this subchapter. However, recovery is not required if, in the judgment of the Secretary concerned and the Comptroller General, there has been no fault by the person to whom the amount was erroneously paid and recovery would be contrary to the purposes of this subchapter or against equity and good conscience.”
 
 Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “judgment of the Secretary concerned” in introductory provisions.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1460a of this title.
 

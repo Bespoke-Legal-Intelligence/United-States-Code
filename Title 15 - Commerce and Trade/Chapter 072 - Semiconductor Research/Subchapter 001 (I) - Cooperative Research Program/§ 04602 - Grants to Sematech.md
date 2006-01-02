@@ -6,7 +6,7 @@ The Secretary of Defense shall make grants, in accordance with section 6304 of t
 
 #### (b) Memorandum of understanding
 
-The Secretary of Defense shall enter into a memorandum of understanding with Sematech for the purposes of this subchapter. The memorandum of understanding shall require the following:
+The Secretary of Defense shall enter into a memorandum of understanding with Sematechfor the purposes of this subchapter. The memorandum of understanding shall require the following:
 
 &emsp;(1) That Sematech have—
 

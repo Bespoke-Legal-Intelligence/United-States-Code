@@ -24,7 +24,7 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;(A) 25 percent of the sum of—
 
-&emsp;&emsp;&emsp;(i) the claims incurred during the taxable year and liabilities incurred during the taxable year under cost-plus contracts, and
+&emsp;&emsp;&emsp;(i) the claims incurred during the taxable year and liabilities incurred duringthe taxable year under cost-plus contracts, and
 
 &emsp;&emsp;&emsp;(ii) the expenses incurred during the taxable year in connection with the administration, adjustment, or settlement of claims or in connection with the administration of cost-plus contracts, over
 
@@ -172,7 +172,7 @@ In general.—The amendments made by this section \[enacting this section and am
 
 “(2)
 
-Study of fraternal beneficiary associations.—The Secretary of the Treasury or his delegateshall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
+Study of fraternal beneficiary associations.—The Secretary of the Treasury or his delegate shall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
 
 “(3)
 
@@ -214,7 +214,7 @@ Other special rules.—
 
 &emsp;“(D) For purposes of this paragraph, the term ‘pension business’ means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 \[now 1986\] which includes a trust exempt from tax under section 501(a), any plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies.”
 
-\[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended to July 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559.\]
+\[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended toJuly 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559.\]
 
 #### Termination of Certain Exceptions From Rules Relating to Exempt Organizations Which Provide Commercial-Type Insurance
 
@@ -245,8 +245,4 @@ Regulations.—The Secretary of the Treasury or his delegate may prescribe rules
 #### Rules Providing Adjustments for Certain Taxpayers Affected by Section 1012 of Pub. L. 99–514
 
 Pub. L. 100–647, title I, §1010(b)(3), Nov. 10, 1988, 102 Stat. 3451, provided that: “The Secretary of the Treasury or his delegate may prescribe rules providing proper adjustments for taxpayers which become subject to subchapter L of chapter 1 of the 1986 Code by reason of the amendments made by section 1012 of the Reform Act \[Pub. L. 99–514, enacting this section and amending section 501 of this title\] with respect to short taxable years which begin during 1987 by reason of section 843 of such Code.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 56 of this title.
 

@@ -32,7 +32,7 @@ In determining whether to extend financial assistance under paragraph (1) or (2)
 
 #### (d) “Construction” defined
 
-As used in this section, the term “construction” includes the erection of new dwellings, and the rehabilitation, alteration, conversion, or improvement of existing structures.
+As used in this section, the term “construction” includes the erection of new dwellings,and the rehabilitation, alteration, conversion, or improvement of existing structures.
 
 #### (e) Establishment of appropriate criteria and procedures for determining eligibility of applicants
 
@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 98–181, §511(e), substituted “1985” for “1982” a
 
 1981—Subsec. (f). Pub. L. 97–35, §351(e)(1), substituted “1982” for “1981” in two places.
 
-Subsec. (g). Pub. L. 97–35, §351(e)(2)–(4), inserted provisions relating to availability in appropriation Acts, and substituted provisions relating to authorization of appropriations for fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
+Subsec. (g). Pub. L. 97–35, §351(e)(2)–(4), inserted provisions relating to availability in appropriation Acts,and substituted provisions relating to authorization of appropriations for fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for fiscal year ending Sept. 30, 1981.
 
 1980—Subsec. (b). Pub. L. 96–399, §507(e), inserted reference to Indian tribes in subpars. (1)(A) and (B), and in par. (2).
 
@@ -116,7 +116,7 @@ Subsec. (g). Pub. L. 96–399, §501(d)(2), substituted provisions authorizing a
 
 1979—Subsec. (b). Pub. L. 96–153, §505, redesignated existing par. (2) as (3) and added par. (2).
 
-Subsec. (f). Pub. L. 96–153, §501(d), substituted authorization of appropriation of $5,000,000 for fiscal year ending Sept. 30, 1980, for provisions containing authorization of appropriation for fiscal years commencing June30, 1968 to Oct. 1, 1978, and substituted “September 30, 1980” for “November 30, 1979”.
+Subsec. (f). Pub. L. 96–153, §501(d), substituted authorization of appropriation of $5,000,000 for fiscal year ending Sept. 30, 1980, for provisions containing authorization of appropriation for fiscal years commencing June 30, 1968 to Oct. 1, 1978, and substituted “September 30, 1980” for “November 30, 1979”.
 
 Pub. L. 96–105 substituted “December 1, 1979” and “November 30, 1979” for “November 1, 1979” and “October 31, 1979”, respectively.
 

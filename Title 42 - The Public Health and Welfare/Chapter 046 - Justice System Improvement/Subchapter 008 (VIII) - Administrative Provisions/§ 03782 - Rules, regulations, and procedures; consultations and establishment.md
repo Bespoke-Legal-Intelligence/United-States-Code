@@ -18,13 +18,13 @@ The Bureau of Justice Assistance shall, after consultation with the National Ins
 
 &emsp;(5) their implication for related programs.
 
-> In conducting evaluations described in this subsection, the Bureau of Justice Assistance shall, when practical, compare the effectiveness of programs conducted by similar applicants and different applicants. The Bureau of Justice Assistance shall also require applicants under part A of subchapter V of this chapter to submit an annual performance report concerning activities carried out pursuant to part A of subchapter V of this chapter together with an assessment by the applicant of the effectiveness of those activities in achieving the purposes of section 3751of this title and the relationships of those activities to the needs and objectives specified by the applicant in the application submitted pursuant to section 3753 of this title. The Bureau shall suspend funding for an approved application under part A of subchapter V of this chapter if an applicant fails to submit such an annual performance report.
+> In conducting evaluations described in this subsection, the Bureau of Justice Assistance shall, when practical, compare the effectiveness of programs conducted by similar applicants and different applicants. The Bureau of Justice Assistance shall also require applicants under part A of subchapter V of this chapter to submit an annual performance report concerning activities carried out pursuant to part A of subchapter V of this chapter together with an assessment by the applicant of the effectiveness of those activities in achieving the purposes of such part Aand the relationships of those activities to the needs and objectives specified by the applicant in the application submitted pursuant to section 3752 of this title. Such report shall include details identifying each applicant that used any funds to purchase any cruiser, boat, or helicopter and, with respect to such applicant, specifying both the amount of funds used by such applicant for each purchase of any cruiser, boat, or helicopter and a justification of each such purchase (and the Bureau of Justice Assistance shall submit to the Committee of the Judiciary of the House of Representatives and the Committee of the Judiciary of the Senate, promptly after preparation of such report a written copy of the portion of such report containing the information required by this sentence). The Bureau shall suspend funding for an approved application under part A of subchapter V of this chapter if an applicant fails to submit such an annual performance report.
 
 #### (c) Procedures for paperwork minimization and prevention of duplication and delays in award and expenditure of funds
 
 The procedures established to implement the provisions of this chapter shall minimize paperwork and prevent needless duplication and unnecessary delays in award and expenditure of funds at all levels of government.
 
-(Pub. L. 90–351, title I, §801, formerly §802, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1201; renumbered §801 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2091; Pub. L. 99–570, title I, §1552(b)(2), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(2), title VIII, §801(c)(1), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(1), title XXXIII, §330001(h)(7), Sept. 13, 1994, 108 Stat. 1934, 2139.)
+(Pub. L. 90–351, title I, §801, formerly §802, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1201; renumbered §801 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2091; Pub. L. 99–570, title I, §1552(b)(2), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(2), title VIII, §801(c)(1), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(1), title XXXIII, §330001(h)(7), Sept. 13, 1994, 108 Stat. 1934, 2139; Pub. L. 109–162, title XI, §1111(c)(2)(D), Jan. 5, 2006, 119 Stat. 3102.)
 
 #### Prior Provisions
 
@@ -33,6 +33,8 @@ A prior section 801 of Pub. L. 90–351 was classified to section 3781 of this t
 Another prior section 801 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat. 211, is set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2006—Subsec. (b). Pub. L. 109–162 substituted “the purposes of such part A” for “the purposes of section 3751 of this title” and “the application submitted pursuant to section 3752 of this title. Such report shall include details identifying each applicant that used any funds to purchase any cruiser, boat, or helicopter and, with respect to such applicant, specifying both the amount of funds used by such applicant for each purchase of any cruiser, boat, or helicopter and a justification of each such purchase (and the Bureau of Justice Assistance shall submit to the Committee of the Judiciary of the House of Representatives and the Committee of the Judiciary of the Senate, promptly after preparation of such report a written copy of the portion of such report containing the information required by this sentence)” for “the application submitted pursuant to section 3753 of this title” in concluding provisions.
 
 1994—Subsec. (b). Pub. L. 103–322, in introductory provisions substituted “subchapters” for “subchapters IV,” and “XII–C, and XII–I” for “and XII–C”, and in concluding provisions substituted “part A of subchapter V of this chapter” for “subchapter IV of this chapter” wherever appearing, “3751” for “3743(a)”, and “3753” for “3743”.
 
@@ -47,6 +49,10 @@ Pub. L. 101–647, §241(b)(2), substituted “XII–A, and XII–B” for “an
 Subsec. (b). Pub. L. 98–473 in amending subsec. (b) generally, substituted “Bureau of Justice Assistance” for “Law Enforcement Assistance Administration” wherever appearing; provided for consultations with the Office of Juvenile Justice and Delinquency Prevention; and struck out provisions respecting: rules, regulations, and procedures affecting national priority grant programs or projects; evaluations in addition to the requirements of former sections 3743 and 3744 of this title; and requirement for comparison of effectiveness of formula grant programs or projects of States or local units of government with similar national priority and discretionary grant programs or projects.
 
 Subsec. (c). Pub. L. 98–473 in amending section generally, reenacted subsec. (c) without change.
+
+#### Effective Date of 2006 Amendment
+
+Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 3750 of this title.
 
 #### Effective Date of 1984 Amendment
 

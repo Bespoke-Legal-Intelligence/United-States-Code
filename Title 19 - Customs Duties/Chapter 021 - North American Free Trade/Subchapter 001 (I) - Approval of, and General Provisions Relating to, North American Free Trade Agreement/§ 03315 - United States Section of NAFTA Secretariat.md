@@ -12,7 +12,7 @@ There are authorized to be appropriated for each fiscal year after fiscal year 1
 
 &emsp;(2) $2,000,000;
 
-> for the establishment and operations of the United States Section and for the payment ofthe United States share of the expenses of binational panels and extraordinary challenge committees convened under chapter 19, and of the expenses incurred in dispute settlement proceedings under chapter 20, of the Agreement.
+> for the establishment and operations of the United States Section and for the payment of the United States share of the expenses of binational panels and extraordinary challenge committees convened under chapter 19, and of the expenses incurred in dispute settlement proceedings under chapter 20, of the Agreement.
 
 #### (c) Reimbursement of certain expenses
 

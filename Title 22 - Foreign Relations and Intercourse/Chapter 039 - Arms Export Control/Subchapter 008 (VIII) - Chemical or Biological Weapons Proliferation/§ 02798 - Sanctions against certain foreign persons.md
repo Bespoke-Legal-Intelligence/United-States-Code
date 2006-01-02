@@ -4,7 +4,7 @@
 
 #### (1) Determination by the President
 
-&emsp;Except as provided in subsection (b)(2) of this section, the President shall impose both of the sanctions described in subsection (c) of this section if the President determines that a foreign person, on or after October 28, 1991, has knowingly and materially contributed—
+&emsp;Except as provided in subsection (b)(2) of this section, the President shall impose both of the sanctions described in subsection (c) of this section if the President determines that aforeign person, on or after October 28, 1991, has knowingly and materially contributed—
 
 &emsp;&emsp;(A) through the export from the United States of any goods or technology that are subject to the jurisdiction of the United States,
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) any foreign person that is a parent or subsidiary of that foreign person if that parent or subsidiary knowingly assisted in the activities which were the basis of that determination; and
 
-&emsp;&emsp;(D) any foreign person that is an affiliate of that foreign person if that affiliate knowingly assisted in the activities which werethe basis of that determination and if that affiliate is controlled in fact by that foreign person.
+&emsp;&emsp;(D) any foreign person that is an affiliate of that foreign person if that affiliate knowingly assisted in the activities which were the basis of that determination and if that affiliate is controlled in fact by that foreign person.
 
 #### (b) Consultations with and actions by foreign government of jurisdiction
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(ii) if the President determines that the person or other entity to which the sanctions would otherwise be applied is a sole source supplier of the defense articles or services, that the defense articles or services are essential, and that alternative sources are not readily or reasonably available; or
 
-&emsp;&emsp;&emsp;(iii) if the President determines that such articles or services are essential to the national security under defense coproduction agreements;
+&emsp;&emsp;&emsp;(iii) if the President determines that such articles or services are essential tothe national security under defense coproduction agreements;
 
 &emsp;&emsp;(B) to products or services provided under contracts entered into before the date on which the President publishes his intention to impose sanctions;
 

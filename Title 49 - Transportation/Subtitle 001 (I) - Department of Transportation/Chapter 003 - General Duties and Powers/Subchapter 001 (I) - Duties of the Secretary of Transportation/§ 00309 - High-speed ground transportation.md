@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation, in consultation with the Secretaries of Commerce, Energy, and Defense, the Administrator of the Environmental Protection Agency, the Assistant Secretary of the Army for Public Works, and the heads of other interested agencies, shall lead and coordinate Federal efforts in the research and development of high-speed ground transportation technologies in order to foster the implementation of magnetic levitation and high-speed steel wheel on rail transportation systems as alternatives to existing transportation systems.
 
-(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connectionwith grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
+(b)(1) The Secretary may award contracts and grants for demonstrations to determine the contributions that high-speed ground transportation could make to more efficient, safe, and economical intercity transportation systems. Such demonstrations shall be designed to measure and evaluate such factors as the public response to new equipment, higher speeds, variations in fares, improved comfort and convenience, and more frequent service. In connection with grants and contracts for demonstrations under this section, the Secretary shall provide for financial participation by private industry to the maximum extent practicable.
 
 (2)(A) In connection with the authority provided under paragraph (1), there is established a national high-speed ground transportation technology demonstration program, which shall be separate from the national magnetic levitation prototype development program established under section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991 and shall be managed by the Secretary of Transportation.
 
@@ -30,7 +30,7 @@
 
 (C) For the purposes of this paragraph, the term “eligible applicant” means any United States private business, State government, local government, organization of State or local government, or any combination thereof. The term does not include any business owned in whole or in part by the Federal Government.
 
-(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph to demonstrate a technology to be incorporated into a project or system located in a State that prohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
+(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph to demonstrate a technology to be incorporated into a project or system located in a State thatprohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
 
 (E) Recipients of grants or contracts made pursuant to this paragraph shall agree to submit a report to the Secretary detailing the results and benefits of the technology demonstration proposed, as required by the Secretary.
 
@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(i) the current transportation practices and trends in each market; and
 
-&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve thecurrent or anticipated congestion on other modes of transportation;
+&emsp;&emsp;(ii) the extent to which high-speed ground transportation systems would relieve the current or anticipated congestion on other modes of transportation;
 
 &emsp;(C) projections of the costs of designing, constructing, and operating high-speed ground transportation systems, the extent to which such systems can recover their costs (including capital costs), and the alternative methods available for private and public financing;
 
@@ -128,7 +128,7 @@ Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of Title 23, Highways.
 
 #### National Magnetic Levitation Prototype Development Program
 
@@ -156,7 +156,7 @@ Factors and conditions to be considered.—The Secretary and the Assistant Secre
 
 “(3)
 
-Phase two contracts.—Within 3 months of receiving the final reports of contract activities under paragraph (2), and based only on such reports and the recommendations of the program director, the Secretary and the Assistant Secretary shall select not more than 3 eligible applicants from among the contract recipients submitting reports under paragraph (2) to receive 18-month contracts for research and development leading to a detailed design for a prototype maglev system. The Secretary and the Assistant Secretary may only award contracts under this paragraph if—
+Phase two contracts.—Within 3 months of receiving the final reports of contract activities underparagraph (2), and based only on such reports and the recommendations of the program director, the Secretary and the Assistant Secretary shall select not more than 3 eligible applicants from among the contract recipients submitting reports under paragraph (2) to receive 18-month contracts for research and development leading to a detailed design for a prototype maglev system. The Secretary and the Assistant Secretary may only award contracts under this paragraph if—
 
 &emsp;“(A) they determine that the applicant has demonstrated technical merit for the conceptual design and the potential for further development of such design into an operational prototype as described in paragraph (4),
 

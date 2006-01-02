@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to provide a means for the co-owners of trust or restrictedinterests in a parcel of land to enter into surface leases of such parcel for certain purposes without approval of the Secretary.
+The purpose of this section is to provide a means for the co-owners of trust or restricted interests in a parcel of land to enter into surface leases of such parcel for certain purposes without approval of the Secretary.
 
 #### (b) Mineral interests
 

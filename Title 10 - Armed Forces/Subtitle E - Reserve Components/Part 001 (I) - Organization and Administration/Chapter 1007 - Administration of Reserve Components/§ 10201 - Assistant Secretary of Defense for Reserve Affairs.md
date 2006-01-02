@@ -12,7 +12,3 @@ As provided in section 138(b)(2) of this title, the official in the Department o
 
 Chapter effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 261 of this title.
-

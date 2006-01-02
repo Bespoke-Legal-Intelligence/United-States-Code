@@ -84,7 +84,3 @@ Pub. L. 95–30, title IV, §407, May 23, 1977, 91 Stat. 156, provided that:
 
 “(b) There are hereby authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this section.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1403, 7652, 7809 of this title.
-

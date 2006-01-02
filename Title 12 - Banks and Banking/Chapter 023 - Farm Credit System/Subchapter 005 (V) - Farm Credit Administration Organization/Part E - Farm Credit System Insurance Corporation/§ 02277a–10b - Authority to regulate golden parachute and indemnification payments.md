@@ -26,7 +26,7 @@ In this section:
 
 &emsp;&emsp;(C) does not include—
 
-&emsp;&emsp;&emsp;(i) a payment made under a retirement plan that is qualified (or is intended to be qualified) under section 401 of title 26 or other nondiscriminatory benefit plan;
+&emsp;&emsp;&emsp;(i) a payment made under a retirement plan that is qualified (or is intended to bequalified) under section 401 of title 26 or other nondiscriminatory benefit plan;
 
 &emsp;&emsp;&emsp;(ii) a payment made under a bona fide supplemental executive retirement plan, deferred compensation plan, or other arrangement that the Corporation determines, by regulation or order, to be permissible; or
 
@@ -66,7 +66,7 @@ In this section:
 
 &emsp;&emsp;(A) a direct or indirect transfer of any funds or any asset; and
 
-&emsp;&emsp;(B) any segregation of any funds or assets for the purpose of making, or under anagreement to make, any payment after the date on which the funds or assets are segregated, without regard to whether the obligation to make the payment is contingent on—
+&emsp;&emsp;(B) any segregation of any funds or assets for the purpose of making, or under an agreement to make, any payment after the date on which the funds or assets are segregated, without regard to whether the obligation to make the payment is contingent on—
 
 &emsp;&emsp;&emsp;(i) the determination, after that date, of the liability for the payment of the amount; or
 

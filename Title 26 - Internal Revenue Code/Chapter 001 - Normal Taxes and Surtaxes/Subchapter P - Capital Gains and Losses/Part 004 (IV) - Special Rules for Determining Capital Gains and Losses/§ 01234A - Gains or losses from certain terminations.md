@@ -12,7 +12,7 @@ Gain or loss attributable to the cancellation, lapse, expiration, or other termi
 
 #### Amendments
 
-2002—Pars. (1) to (3). Pub. L. 107–147 inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3) which read as follows: “a securities futures contract (as so defined) which is a capital asset in the hands of the taxpayer,”.
+2002—Pars. (1) to (3). Pub. L. 107–147 inserted “or” at end of par. (1), struck out “or” at end of par. (2), andstruck out par. (3) which read as follows: “a securities futures contract (as so defined) which is a capital asset in the hands of the taxpayer,”.
 
 2000—Par. (1). Pub. L. 106–554, §1(a)(7) \[title IV, §401(b)(1)\], inserted “(other than a securities futures contract, as defined in section 1234B)” after “right or obligation”.
 
@@ -20,7 +20,7 @@ Par. (3). Pub. L. 106–554, §1(a)(7) \[title IV, §401(b)(2)–(4)\], added pa
 
 1997—Par. (1). Pub. L. 105–34 substituted “property” for “personal property (as defined in section 1092(d)(1))”.
 
-1984—Pub. L. 98–369, §102(e)(9), inserted at end “The preceding sentence shall not apply to the retirement ofany debt instrument (whether or not through a trust or other participation arrangement).”
+1984—Pub. L. 98–369, §102(e)(9), inserted at end “The preceding sentence shall not apply to the retirement of any debt instrument (whether or not through a trust or other participation arrangement).”
 
 Par. (2). Pub. L. 98–369, §102(e)(4), substituted “a section 1256 contract” for “a regulated futures contract”.
 

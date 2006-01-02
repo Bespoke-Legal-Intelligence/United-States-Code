@@ -12,7 +12,7 @@
 
 (2) The Secretary of Transportation may not compromise for less than $500 a penalty under section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters.
 
-(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutualmistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
+(c) A compromise under this section is final and conclusive unless gotten by fraud, misrepresentation, presenting a false claim, or mutual mistake of fact. An accountable official is not liable for an amount paid or for the value of property lost or damaged if the amount or value is not recovered because of a compromise under this section.
 
 (d) The head of an executive, judicial, or legislative agency acts under—
 
@@ -266,7 +266,7 @@ July 19, 1966, Pub. L. 89–508, 80 Stat. 308, §3(d)(1)–(3); added Oct. 25, 1
 
 31 App.:952(d)(3).
 
-In subsection (f)(1), before clause (A), the word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the United States Code. The words “subsection (a) of this section, or under any other” are omitted as surplus. The word “law” is substituted for “statutory authority” to eliminate unnecessary words. In clause (A), the words “for the system of records” are omitted as surplus. In clause (C)(iii), the word “intended” is omitted as surplus. In clause (E)(ii), the words “as appropriate” and “any or all” are omitted as surplus. In clause (E)(iii), the words “all laws of the United States” are coextensive with and substituted for “the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) and any other Federal law”.
+In subsection (f)(1), before clause (A), the word “Government” is substituted for “United States” for consistency in the revised title and with other titles of the United States Code. The words “subsection (a) of this section, or under any other” are omitted as surplus. The word “law” is substituted for “statutory authority” to eliminate unnecessary words. In clause (A), the words “for the system of records” are omitted as surplus. In clause (C)(iii), the word “intended” is omittedas surplus. In clause (E)(ii), the words “as appropriate” and “any or all” are omitted as surplus. In clause (E)(iii), the words “all laws of the United States” are coextensive with and substituted for “the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.) and any other Federal law”.
 
 #### 1984 Act
 
@@ -346,7 +346,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Guidelines
 
-Section 31001(aa)(1) of Pub. L. 104–134 provided that: “The Secretary of the Treasury, in consultation with concerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
+Section 31001(aa)(1) of Pub. L. 104–134 provided that: “The Secretary of the Treasury, in consultation withconcerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
 
 #### Report
 

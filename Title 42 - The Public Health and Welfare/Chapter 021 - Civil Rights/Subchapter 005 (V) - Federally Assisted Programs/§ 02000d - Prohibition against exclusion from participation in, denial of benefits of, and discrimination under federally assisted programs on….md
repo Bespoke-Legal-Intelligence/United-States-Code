@@ -32,7 +32,7 @@ Sec. 2. <i>Definitions.</i>
 
 2–205. “Armed Forces” means the Armed Forces of the United States.
 
-2–206. “Status as a parent” refers to the status of an individual who, with respect to an individual who is under the age of 18 or who is 18 or older but is incapable of self-care because of a physical or mental disability, is:
+2–206. “Status as a parent” refers to the status of an individual who, with respect to an individual who isunder the age of 18 or who is 18 or older but is incapable of self-care because of a physical or mental disability, is:
 
 &emsp;(a) a biological parent;
 
@@ -66,7 +66,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 4–401. Any person who believes himself or herself to be aggrieved by a violation of this order or its implementing regulations, rules, policies, or guidance may, personally or through a representative, file a written complaint with the agency that such person believes is in violation of this order or its implementing regulations, rules, policies, or guidance. Pursuant to procedures to be established by the Attorney General, each executive department or agency shall conduct an investigation of any complaint by one of its employees alleging a violation of this Executive Order.
 
-4–402. (a) If the office within an executive department or agency that is designated to investigate complaints for violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance,such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
+4–402. (a) If the office within an executive department or agency that is designated to investigate complaints for violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance, such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 

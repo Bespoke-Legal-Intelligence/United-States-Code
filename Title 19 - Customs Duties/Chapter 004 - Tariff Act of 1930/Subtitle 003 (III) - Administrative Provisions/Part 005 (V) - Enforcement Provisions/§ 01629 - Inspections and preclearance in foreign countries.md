@@ -18,11 +18,11 @@ When authorized by treaty, agreement or foreign law, merchandise which is subjec
 
 #### (e) Stationing of foreign customs and agriculture inspection officers in the United States
 
-The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreigncountry authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
+The Secretary of State, in coordination with the Secretary and the Secretary of Agriculture, may enter into agreements with any foreign country authorizing the stationing in the United States of customs and agriculture inspection officials of that country (if similar privileges are extended by that country to United States officials) for the purpose of insuring that persons and merchandise going directly to that country from the United States, or that have gone directly from that country to the United States, comply with the customs and other laws of that country governing the importation or exportation of merchandise. Any foreign customs or agriculture inspection official stationed in the United States under this subsection may exercise such functions, perform such duties, and enjoy such privileges and immunities as United States officials may be authorized to perform or are afforded in that foreign country by treaty, agreement, or law.
 
 #### (f) Application of certain laws
 
-When customs officials of a foreign country are stationed in the United States in accordance with subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
+When customs officials of a foreign country are stationed in the United States in accordancewith subsection (e) of this section, and if similar provisions are applied to United States officials stationed in that country—
 
 &emsp;(1) sections 111 and 1114 of title 18 shall apply as if the officials were designated in those sections; and
 
@@ -94,7 +94,7 @@ Elements of the program.—Using the authority granted by this section and under
 
 &emsp;&emsp;“(B) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border are vested with the maximum authority to carry out their duties and enforce United States law;
 
-&emsp;&emsp;“(C) ensure that United States Customs officers stationed in any such IBIA on the Canadian side of the border shall possess the same immunity that they would possess if they were stationed in the United States; and
+&emsp;&emsp;“(C) ensure that United States Customs officers stationed in any such IBIA on the Canadian side ofthe border shall possess the same immunity that they would possess if they were stationed in the United States; and
 
 &emsp;&emsp;“(D) encourage appropriate officials of the United States to enter into an agreement with Canada permitting Canadian Customs officers stationed in any such IBIA on the United States side of the border to enjoy such immunities as permitted in Canada.”
 

@@ -6,7 +6,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (b) The term “firm” means any partnership, association, or other unincorporated business organization.
 
-(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his ownaccount or as an employee of another person, firm, or corporation.
+(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
 
 (d) The term “renderer” means any person, firm, or corporation engaged in the business of rendering carcasses or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines, except rendering conducted under inspection or exemption under this subchapter.
 
@@ -20,7 +20,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (i) The term “United States” means the States, the District of Columbia, and the Territories of the United States.
 
-(j) The term “meat food product” means any product capable of use as human food which is made wholly or in part from any meat or other portion of the carcass of any cattle, sheep, swine, or goats, excepting products which contain meat or other portions of such carcasses only in a relatively small proportion or historically have not been considered by consumers as products of the meat food industry, and which are exempted from definition as a meat food product by the Secretary under such conditions as he may prescribe to assure that the meat or other portions of such carcasses contained in such product are not adulterated and that such products are not represented as meat food products. This term as applied to food products of equines shall have a meaning comparable to that provided in this paragraph with respect to cattle, sheep, swine, and goats.
+(j) The term “meat food product” means any product capable of use as human food which ismade wholly or in part from any meat or other portion of the carcass of any cattle, sheep, swine, or goats, excepting products which contain meat or other portions of such carcasses only in a relatively small proportion or historically have not been considered by consumers as products of the meat food industry, and which are exempted from definition as a meat food product by the Secretary under such conditions as he may prescribe to assure that the meat or other portions of such carcasses contained in such product are not adulterated and that such products are not represented as meat food products. This term as applied to food products of equines shall have a meaning comparable to that provided in this paragraph with respect to cattle, sheep, swine, and goats.
 
 (k) The term “capable of use as human food” shall apply to any carcass, or part or product of a carcass, of any animal, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 
@@ -58,7 +58,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(2) if it is offered for sale under the name of another food;
 
-&emsp;(3) if it is an imitation of another food, unless its label bears, in type of uniform size andprominence, the word “imitation” and immediately thereafter, the name of the food imitated;
+&emsp;(3) if it is an imitation of another food, unless its label bears, in type of uniform size and prominence, the word “imitation” and immediately thereafter, the name of the food imitated;
 
 &emsp;(4) if its container is so made, formed, or filled as to be misleading;
 
@@ -66,7 +66,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
-&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
+&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definitionand standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 607 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 
@@ -94,7 +94,13 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (v) The term “official device” means any device prescribed or authorized by the Secretary for use in applying any official mark.
 
-(Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499.)
+(w) The term “amenable species” means—
+
+&emsp;(1) those species subject to the provisions of this chapter on the day before November 10, 2005; and
+
+&emsp;(2) any additional species of livestock that the Secretary considers appropriate.
+
+(Mar. 4, 1907, ch. 2907, title I, §1, as added Pub. L. 90–201, §2, Dec. 15, 1967, 81 Stat. 584; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, §107(14), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 109–97, title VII, §798\[(a)\](2), Nov. 10, 2005, 119 Stat. 2166.)
 
 #### References in Text
 
@@ -102,17 +108,23 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is a
 
 #### Amendments
 
-1992—Subsec. (m)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
+2005—Par. (w). Pub. L. 109–97 added par. (w).
+
+1992—Par. (m)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
 
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (n)(10) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
+#### Effective Date of 2005 Amendment
+
+Pub. L. 109–97, title VII, §798(b), Nov. 10, 2005, 119 Stat. 2166, provided that: “The amendments made by subsection (a) \[amending this section and sections 603 to 605, 608, 609, 615, and 617 to 621 of this title\] shall take effect on the day after the effective date of section 794 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006 \[section 794 of Pub. L. 109–97, 119 Stat. 2164, effective 120 days after Nov. 10, 2005\].”
+
 #### Effective Date
 
 Section 20 of Pub. L. 90–201 provided that: “This Act \[see Short Title note below\] shall become effective upon enactment \[Dec. 15, 1967\] except as provided in paragraphs (a) through (d):
 
-“(a) The provisions of paragraph (b)(1) and (c) of section 10 and the provisions of section 20 of the Federal Meat Inspection Act, as amended by sections 7 and 10 of this Act \[sections 610 and 620 of this title\], and the provisions of section 18 of this Act repealing paragraph (b) of section 306 of the Tariff Act of 1930 \[section 1306(b) of Title 19, Customs Duties\], shall become effective upon the expiration of sixty days after enactment \[Dec. 15, 1967\], hereof.
+“(a) The provisions of paragraph (b)(1) and (c) of section 10 and the provisions of section 20 of the Federal Meat Inspection Act, as amended by sections 7 and 10 of this Act \[sections 610 and 620 of this title\], and theprovisions of section 18 of this Act repealing paragraph (b) of section 306 of the Tariff Act of 1930 \[section 1306(b) of Title 19, Customs Duties\], shall become effective upon the expiration of sixty days after enactment \[Dec. 15, 1967\], hereof.
 
 “(b) The provisions of title I of the Federal Meat Inspection Act, as amended by this Act \[this subchapter\], shall become effective with respect to equines (other than horses) and their carcasses and parts thereof, meat, and meat food products thereof upon the expiration of sixty days after enactment \[Dec. 15, 1967\] hereof.
 

@@ -78,7 +78,7 @@ Any individual or entity convicted of a felony under this section or under secti
 
 &emsp;(C) who is granted special immigrant status under section 1101(a)(27)(I) of title 8,
 
-> shall not be subject to prosecution for any alleged conduct described in paragraph (6) or (7) of subsection (a) of this section if such conduct is alleged to have occurred prior to 60 days after November 5, 1990.
+> shall not be subject to prosecution for any alleged conduct described in paragraph (6) or (7) ofsubsection (a) of this section if such conduct is alleged to have occurred prior to 60 days after November 5, 1990.
 
 (2) Paragraph (1) shall not apply with respect to conduct (described in subsection (a)(7)(C) of this section) consisting of—
 
@@ -102,7 +102,7 @@ Chapters 2 and 21 and subtitle F of the Internal Revenue Code of 1954, referred 
 
 Section 1383a(b) of this title, referred to in subsec. (d), was redesignated section 1383a(c) of this title and amended by Pub. L. 108–203, title II, §209(c), Mar. 2, 2004, 118 Stat. 515.
 
-Section 902 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec.\(e)(1)(A), is section 902 of Pub. L. 100–204, which is set out as a note under section 1255a of Title 8, Aliens and Nationality.
+Section 902 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec. (e)(1)(A), is section 902 of Pub. L. 100–204, which is set out as a note under section 1255a of Title 8, Aliens and Nationality.
 
 Section 202 of the Immigration Reform and Control Act of 1986, referred to in subsec. (e)(1)(B)(i), is section 202 of Pub. L. 99–603, which is set out as a note under section 1255a of Title 8.
 
@@ -134,7 +134,7 @@ Pub. L. 101–508, §5130(a)(1), in the last undesignated paragraph substituted 
 
 1988—Pub. L. 100–690 substituted “under title 18” for “not more than $5,000” in first undesignated par., substituted “under title 18” for “not more than $25,000” in second undesignated par., and inserted provisions at end defining for purposes of subsec. (g) “social security number” and “social security account number”.
 
-1984—Pub. L. 98–460 inserted provisions imposing a penalty of $25,000 or imprisonment for not more than five years, or both, on any person or other entity convicted for a second or subsequent violation of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title, and also granting the court discretion, in any case, including a first offense, involving a willful misuse of funds, to require full or partial restitution, and prohibiting the certification of any individual or entity convicted of a felony under this section or under section 1383a(b) of this title.
+1984—Pub. L. 98–460 inserted provisions imposing a penalty of $25,000 or imprisonment for not more than five years, or both, on any person or other entity convicted for a second or subsequent violation of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a certified payee under section 405(j) of this title, and also granting the court discretion, in any case, including a first offense, involving a willful misuse of funds, to require full or partial restitution, and prohibiting the certification of any individual or entity convicted of afelony under this section or under section 1383a(b) of this title.
 
 Subsecs. (f) to (h). Pub. L. 98–369 realigned margins of subsecs. (f) to (h).
 
@@ -164,7 +164,7 @@ Pub. L. 108–203, title II, §209(d), Mar. 2, 2004, 118 Stat. 516, provided tha
 
 Pub. L. 106–554, §1(a)(4) \[div. A, §213(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, provided that: “The amendments made by this section \[amending this section, section 10601 of this title, and section 2709 of Title 22, Foreign Relations and Intercourse, repealing section 1320b–23 of this title, amending provisions set out as notes under sections 4001 and 4013 of Title 18, Crimes and Criminal Procedure, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as notes under this section and sections 1305 and 1320b–23 of this title\] shall take effect as if included in H.R. 4942 of the 106th Congress \[Pub. L. 106–553\] on the date of its enactment \[Dec. 21, 2000\].”
 
-Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117, which provided that the amendments made by §1(a)(2) \[title VI, §635(c)\] of Pub. L. 106–553, enacting section 1320b–23 of this title and amending this section, would apply with respect to violations occurring on and after the date that is 2 years after Dec. 21, 2000, was repealed by Pub. L. 106–554,§1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, see above.
+Pub. L. 106–553, §1(a)(2) \[title VI, §635(c)(2)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–117, which provided that the amendments made by §1(a)(2) \[title VI, §635(c)\] of Pub. L. 106–553, enacting section 1320b–23 of this title and amending this section, would apply with respect to violations occurring on and after the date that is 2 years after Dec. 21, 2000, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180, see above.
 
 #### Effective Date of 1994 Amendment
 

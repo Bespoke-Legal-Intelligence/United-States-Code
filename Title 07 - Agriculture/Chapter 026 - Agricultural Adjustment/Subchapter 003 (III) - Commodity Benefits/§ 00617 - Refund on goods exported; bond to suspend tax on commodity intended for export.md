@@ -4,7 +4,7 @@
 
 (b) Upon the giving of bond satisfactory to the Secretary of the Treasury for the faithful observance of the provisions of this chapter requiring the payment of taxes, any person shall be entitled, without payment of the tax, to process for such exportation any commodity with respect to which a tax is imposed by this chapter, or to hold for such exportation any article processed wholly or partly therefrom.
 
-(May 12, 1933, ch. 25, title I, §17, 48 Stat. 40; May 9, 1934, ch. 263, §§12, 13, 48 Stat. 676; Mar. 18, 1935, ch. 32, §11, 49 Stat. 48; Aug. 24, 1935, ch. 641, §28,49 Stat. 770; June 22, 1936, ch. 690, §601(a), 49 Stat. 1739; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, 60 Stat. 1352.)
+(May 12, 1933, ch. 25, title I, §17, 48 Stat. 40; May 9, 1934, ch. 263, §§12, 13, 48 Stat. 676; Mar. 18, 1935, ch. 32, §11, 49 Stat. 48; Aug. 24, 1935, ch. 641, §28, 49 Stat. 770; June 22, 1936, ch. 690, §601(a), 49 Stat. 1739; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, 60 Stat. 1352.)
 
 #### References in Text
 

@@ -58,7 +58,3 @@ A prior section 6113 was renumbered 6116 of this title.
 
 Section 10701(d) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting this section and section 6710 of this title and renumbering former section 6113 as section 6114 of this title\] shall apply to solicitations after January 31, 1988.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6710 of this title.
-

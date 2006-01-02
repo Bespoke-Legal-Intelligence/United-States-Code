@@ -36,13 +36,7 @@
 
 #### (B) Phaseout
 
-&emsp;&emsp;In the case of any qualified clean-fuel vehicle property placed in service after December 31, 2003, the limit otherwise applicable under subparagraph (A) shall be reduced by—
-
-&emsp;&emsp;&emsp;(i) 25 percent in the case of property placed in service in calendar year 2004,
-
-&emsp;&emsp;&emsp;(ii) 50 percent in the case of property placed in service in calendar year 2005, and
-
-&emsp;&emsp;&emsp;(iii) 75 percent in the case of property placed in service in calendar year 2006.
+&emsp;&emsp;In the case of any qualified clean-fuel vehicle property placed in service after December 31, 2005, the limit otherwise allowable under subparagraph (A) shall be reduced by 75 percent.
 
 #### (2) Qualified clean-fuel vehicle refueling property
 
@@ -148,7 +142,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this title, the basis of any property shall be reduced by the portion of the cost of such property taken into account under subsection (a).
+&emsp;&emsp;For purposes of this title, the basis of any property shall be reduced by the portion ofthe cost of such property taken into account under subsection (a).
 
 #### (B) Ordinary income recapture
 
@@ -156,11 +150,21 @@ For purposes of this section—
 
 #### (f) Termination
 
-This section shall not apply to any property placed in service after December 31, 2006.
+This section shall not apply to any property placed in service after December 31, 2005.
 
-(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016; amended Pub. L. 104–188, title I, §1704(j)(2), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 107–147, title VI, §606(a), Mar. 9, 2002, 116 Stat. 60.)
+(Added Pub. L. 102–486, title XIX, §1913(a)(1), Oct. 24, 1992, 106 Stat. 3016; amended Pub. L. 104–188, title I, §1704(j)(2), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 107–147, title VI, §606(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §319(a), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 109–58, title XIII, §1348, Aug. 8, 2005, 119 Stat. 1056.)
 
 #### Amendments
+
+2005—Subsec. (f). Pub. L. 109–58 substituted “December 31, 2005” for “December 31, 2006”.
+
+2004—Subsec. (b)(1)(B). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified clean-fuel vehicle property placed in service after December 31, 2003, the limit otherwise applicable under subparagraph (A) shall be reduced by—
+
+&emsp;“(i) 25 percent in the case of property placed in service in calendar year 2004,
+
+&emsp;“(ii) 50 percent in the case of property placed in service in calendar year 2005, and
+
+&emsp;“(iii) 75 percent in the case of property placed in service in calendar year 2006.”
 
 2002—Subsec. (b)(1)(B). Pub. L. 107–147, §606(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
 
@@ -174,6 +178,10 @@ Subsec. (f). Pub. L. 107–147, §606(a)(2), substituted “December 31, 2006”
 
 1996—Subsecs. (f), (g). Pub. L. 104–188 redesignated subsec. (g) as (f).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–311, title III, §319(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2003.”
+
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–147, title VI, §606(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2001.”
@@ -181,8 +189,4 @@ Pub. L. 107–147, title VI, §606(b), Mar. 9, 2002, 116 Stat. 60, provided that
 #### Effective Date
 
 Section applicable to property placed in service after June 30, 1993, see section 1913(c) of Pub. L. 102–486, set out as a note under section 30 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 62, 263, 280F, 312, 1016, 1245, 4001 of this title.
 

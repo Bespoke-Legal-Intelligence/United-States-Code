@@ -2,7 +2,7 @@
 
 (a)
 
-Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 2005, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
+Bonus Authorized.—An aviation officer described in subsection (b) who, during the period beginning on January 1, 1989, and ending on December 31, 2006, executes a written agreement to remain on active duty in aviation service for at least one year may, upon the acceptance of the agreement by the Secretary concerned, be paid a retention bonus as provided in this section.
 
 (b)
 
@@ -34,11 +34,7 @@ Additional Pay.—A retention bonus paid under this section is in addition to an
 
 (g)
 
-Repayment of Bonus.—(1) If an officer who has entered into a written agreement under subsection (a) and has received all or part of a retention bonus under this section fails to complete the total period of active duty specified in the agreement, the Secretary concerned may require the officer to repay the United States, on a pro rata basis and to the extent that the Secretary determines conditions and circumstances warrant, all sums paid under this section.
-
-(2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
-
-(3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of a written agreement entered into under subsection (a) does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1).
+Repayment.—An officer who does not complete the period of active duty specified in the agreement entered into under subsection (a) shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (h)
 
@@ -48,7 +44,7 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 
 Reports.—(1) Not later than February 15 of each year, the Secretaries concerned shall submit to the Secretary of Defense a report analyzing the effect of the provision of retention bonuses to aviation officers during the preceding fiscal year on the retention of qualified aviators.
 
-(2) Not later than March 15 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives copies of the reports submitted to the Secretary under paragraph (1) with regard to the preceding fiscal year, together with such comments and recommendations as the Secretary considers appropriate.
+(2) Not later than March 15 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and theCommittee on Armed Services of the House of Representatives copies of the reports submitted to the Secretary under paragraph (1) with regard to the preceding fiscal year, together with such comments and recommendations as the Secretary considers appropriate.
 
 (j)
 
@@ -58,9 +54,13 @@ Definitions.—In this section:
 
 &emsp;(2) The term “operational flying duty” has the meaning given such term in section 301a(a)(6)(B) of this title.
 
-(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div. A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29, 1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X, §1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(a), title XV, §1502(b), Feb. 10, 1996, 110 Stat. 359, 506; Pub. L. 104–201, div. A, title VI, §613(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(a), 616(a)–(d), Nov. 18, 1997, 111 Stat. 1786, 1787; Pub. L. 105–261, div. A, title VI, §§613(a), 615(a)(2), (c)(2), Oct. 17, 1998, 112 Stat. 2039–2041; Pub. L. 106–65, div. A, title VI, §§613(a), 615(a)–(f), title X, §1067(2), Oct. 5, 1999, 113 Stat. 650, 651, 774; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(a), title X, §1087(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, 1654A–291; Pub. L. 107–107, div. A, title VI, §§614(a), 616(a), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §614(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §614(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §614(a), Oct. 28, 2004, 118 Stat. 1947.)
+(Added Pub. L. 96–342, title VIII, §806(a)(i), Sept. 8, 1980, 94 Stat. 1095; amended Pub. L. 97–60, title I, §113, Oct. 14, 1981, 95 Stat. 995; Pub. L. 98–94, title IX, §904(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §622(a), Oct. 19, 1984, 98 Stat. 2540; Pub. L. 99–145, title VI, §636, Nov. 8, 1985, 99 Stat. 648; Pub. L. 99–661, div. A, title VI, §631(a), Nov. 14, 1986, 100 Stat. 3883; Pub. L. 100–180, div. A, title VI, §622(a), Dec. 4, 1987, 101 Stat. 1100; Pub. L. 101–189, div. A, title VI, §632(a), Nov. 29, 1989, 103 Stat. 1451; Pub. L. 102–190, div. A, title VI, §612(a)(1), Dec. 5, 1991, 105 Stat. 1376; Pub. L. 102–484, div. A, title VI, §612(c), title X, §1054(a)(1), Oct. 23, 1992, 106 Stat. 2421, 2502; Pub. L. 103–160, div. A, title VI, §613(a), Nov. 30, 1993, 107 Stat. 1681; Pub. L. 103–337, div. A, title VI, §613(a), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(a), title XV, §1502(b), Feb. 10, 1996, 110 Stat. 359, 506; Pub. L. 104–201, div. A, title VI, §613(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(a), 616(a)–(d), Nov. 18, 1997, 111 Stat. 1786, 1787; Pub. L. 105–261, div. A, title VI, §§613(a), 615(a)(2), (c)(2), Oct. 17, 1998, 112 Stat. 2039–2041; Pub. L. 106–65, div. A, title VI, §§613(a), 615(a)–(f), title X, §1067(2), Oct. 5, 1999, 113 Stat. 650, 651, 774; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(a), title X, §1087(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, 1654A–291; Pub. L. 107–107, div. A, title VI, §§614(a), 616(a), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §614(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §614(a), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §614(a), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§624(a), 687(b)(1), Jan. 6, 2006, 119 Stat. 3295, 3327.)
 
 #### Amendments
+
+2006—Subsec. (a). Pub. L. 109–163, §624(a), substituted “December 31, 2006” for “December 31, 2005”.
+
+Subsec. (g). Pub. L. 109–163, §687(b)(1), amended heading and text of subsec. (g) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment of bonus required when officer fails to complete total period of active duty.
 
 2004—Subsec. (a). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
 
@@ -206,7 +206,7 @@ Section 622(b) of Pub. L. 100–180 provided that:
 
 #### Effective Date of 1986 Amendment
 
-Section 631(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to payments made for periods beginning after the date of the enactment of this Act \[Nov. 14, 1986\] under agreements entered into under section 301b of title 37, United States Code.”
+Section 631(b) of Pub. L. 99–661 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments made for periods beginning after the date of the enactment of this Act \[Nov. 14, 1986\] under agreements entered into under section 301b of title 37, United States Code.”
 
 #### Effective Date of 1985 Amendment
 
@@ -219,6 +219,10 @@ Section 622(a) of Pub. L. 98–525 provided that the amendment made by that sect
 #### Effective Date
 
 Section 806(b) of Pub. L. 96–342 provided that: “Agreements may not be entered into under section 301b of title 37, United States Code, as added by subsection (a), before October 1, 1980.”
+
+#### Savings Provision
+
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Payment of Bonus to Aviation Officers Killed in Persian Gulf War Before Completion of Service
 
@@ -268,7 +272,7 @@ Section 612(j)(2) of Pub. L. 102–484 provided that:
 
 Section 612(a)(2) of Pub. L. 102–190 provided that:
 
-“(A) In the case of an officer described in subparagraph (B) who executes an agreement under section301b of such title \[37 U.S.C. 301b\] during the 90-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary concerned may treat such agreement as having been executed and accepted for purposes of such section on the first date on which the officer would have qualified for such an agreement had the amendment made by paragraph (1) \[amending this section\] taken effect on October 1, 1991.
+“(A) In the case of an officer described in subparagraph (B) who executes an agreement under section 301b of such title \[37 U.S.C. 301b\] during the 90-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary concerned may treat such agreement as having been executed and accepted for purposes of such section on the first date on which the officer would have qualified for such an agreement had the amendment made by paragraph (1) \[amending this section\] taken effect on October 1, 1991.
 
 “(B) An officer referred to in subparagraph (A) is an officer who, during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act, would have qualified for an agreement under such section had the amendment made by paragraph (1) taken effect on October 1, 1991.
 

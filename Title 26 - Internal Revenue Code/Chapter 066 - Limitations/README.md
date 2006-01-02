@@ -14,10 +14,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in sections 6037, 6207, 7422, 7801 of this title.
-
 
 ---
 

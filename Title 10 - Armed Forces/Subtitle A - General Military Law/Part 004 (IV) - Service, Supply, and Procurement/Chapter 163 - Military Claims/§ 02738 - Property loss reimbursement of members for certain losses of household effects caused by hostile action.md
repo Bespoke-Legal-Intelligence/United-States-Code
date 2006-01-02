@@ -10,7 +10,7 @@ Covered Losses.—This section applies with respect to a loss of household effec
 
 (c)
 
-Limitation.—The Secretary may provide reimbursement under this section for a loss described in subsection (b) only to the extent thatthe loss is not reimbursed under insurance or under the authority of another provision of law.
+Limitation.—The Secretary may provide reimbursement under this section for a loss described in subsection (b) only to the extent that the loss is not reimbursed under insurance or under the authority of another provision of law.
 
 (d)
 

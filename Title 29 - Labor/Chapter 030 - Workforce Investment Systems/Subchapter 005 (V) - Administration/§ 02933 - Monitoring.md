@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to monitor all recipients of financial assistance under this chapter to determine whether the recipients are complying with the provisions of this chapter, including the regulations issued under this chapter.
+The Secretary is authorized to monitor all recipients of financial assistance under this chapter to determine whether the recipients are complying with the provisions of this chapter,including the regulations issued under this chapter.
 
 #### (b) Investigations
 

@@ -12,13 +12,13 @@
 
 &emsp;(4) the debtor is not prohibited by law from taking any action necessary to carry out the plan;
 
-&emsp;(5) except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that on the effective date of the plan each holder of a claim of a kind specified in section 507(a)(1) of this title will receive on account of such claim cash equal to the allowed amount of such claim;
+&emsp;(5) except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that on the effective date of the plan each holder of a claim of a kind specified in section 507(a)(2) of this title will receive on account of such claim cash equal to the allowed amount of such claim;
 
 &emsp;(6) any regulatory or electoral approval necessary under applicable nonbankruptcy law in order to carry out any provision of the plan has been obtained, or such provision is expressly conditioned on such approval; and
 
 &emsp;(7) the plan is in the best interests of creditors and is feasible.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2624; Pub. L. 98–353, title III, §497, July 10, 1984, 98 Stat. 384; Pub. L. 100–597, §10, Nov. 3, 1988, 102 Stat. 3030.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2624; Pub. L. 98–353, title III, §497, July 10, 1984, 98 Stat. 384; Pub. L. 100–597, §10, Nov. 3, 1988, 102 Stat. 3030; Pub. L. 109–8, title XV, §1502(a)(6), Apr. 20, 2005, 119 Stat. 216.)
 
 #### Historical and Revision Notes
 
@@ -40,11 +40,17 @@ Section 103(e) of this title, referred to in subsec. (b)(1), was redesignated se
 
 #### Amendments
 
+2005—Subsec. (b)(5). Pub. L. 109–8 substituted “507(a)(2)” for “507(a)(1)”.
+
 1988—Subsec. (b)(6), (7). Pub. L. 100–597 added par. (6) and redesignated former par. (6) as (7).
 
 1984—Subsec. (b)(4). Pub. L. 98–353, §497(1), struck out “to be taken” after “necessary”.
 
-Subsec. (b)(5). Pub. L. 98–353, §497(2), substituted provisions requiring the plan to provide payment of cash in an amount equal to the allowed amount of a claim except to the extent that the holder of a particular claim has agreed to different treatment of such claim,for provisions which required the plan to provide for payment of property of a value equal to the allowed amount of such claim except to the extent that the holder of a particular claim has waived such payment on such claim.
+Subsec. (b)(5). Pub. L. 98–353, §497(2), substituted provisions requiring the plan to provide payment of cash in an amount equal to the allowed amount of a claim except to the extent that the holder of a particular claim has agreed to different treatment of such claim, for provisions which required the plan to provide for payment of property of a value equal to the allowed amount of such claim except to the extent that the holder of a particular claim has waived such payment on such claim.
+
+#### Effective Date of 2005 Amendment
+
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1988 Amendment
 

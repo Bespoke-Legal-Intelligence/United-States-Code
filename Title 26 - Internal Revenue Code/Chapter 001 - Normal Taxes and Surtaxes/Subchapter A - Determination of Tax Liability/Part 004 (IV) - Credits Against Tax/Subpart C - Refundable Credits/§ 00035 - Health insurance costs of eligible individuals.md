@@ -212,9 +212,9 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;Amounts taken into account under subsection (a) shall not be taken into account in determining any deduction allowed under section 162(<i>l</i>) or 213.
 
-#### (3) MSA distributions
+#### (3) Medical and health savings accounts
 
-&emsp;Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).
+&emsp;Amounts distributed from an Archer MSA (as defined in section 220(d)) or from a health savings account (as defined in section 223(d)) shall not be taken into account under subsection (a).
 
 #### (4) Denial of credit to dependents
 
@@ -254,7 +254,7 @@ For purposes of this section, an individual has other specified coverage for any
 
 &emsp;The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183.)
 
 #### References in Text
 
@@ -266,13 +266,21 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)
 
 Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(1)(C), is classified to section 300gg–44(c)(2) of Title 42, The Public Health and Welfare.
 
-The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchaptersXIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
 A prior section 35 was renumbered section 36 of this title.
 
 Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
+
+#### Amendments
+
+2004—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
+
+#### Effective Date of 2004 Amendment
+
+Amendment by Pub. L. 108–311 effective as if included in section 1201 of Pub. L. 108–173, see section 401(b) of Pub. L. 108–311, set out as a note under section 26 of this title.
 
 #### Effective Date
 
@@ -289,8 +297,4 @@ State high risk pools.—The amendment made by subsection (b) \[enacting section
 #### Construction
 
 Nothing in title II of Pub. L. 107–210 or the amendments by that title, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 4980B, 7527 of this title; title 19 section 2318; title 29 sections 1165, 2918; title 31 section 1324; title 42 section 300bb–5.
 

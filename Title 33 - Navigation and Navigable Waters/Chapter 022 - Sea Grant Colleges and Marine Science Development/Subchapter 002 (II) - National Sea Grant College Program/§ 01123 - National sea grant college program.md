@@ -48,7 +48,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;(A) facilitate and coordinate the development of a long-range strategic plan under subsection (c)(1) of this section;
 
-&emsp;(B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of such expertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
+&emsp;(B) advise the Secretary with respect to the expertise and capabilities which are available within or through the national sea grant college program and encourage the use of suchexpertise and capabilities, on a cooperative or other basis, by other offices and activities within the Administration, and other Federal departments and agencies;
 
 &emsp;(C) advise the Secretary on the designation of sea grant colleges and sea grant institutes, and, if appropriate, on the termination or suspension of any such designation; and
 
@@ -66,7 +66,7 @@ The national sea grant college program shall consist of the financial assistance
 
 &emsp;&emsp;(ii) encourage successful implementation of sea grant programs;
 
-&emsp;&emsp;(iii) to the maximum extent consistent with other provisions of this subchapter,provide a stable base of funding for sea grant colleges and institutes; and
+&emsp;&emsp;(iii) to the maximum extent consistent with other provisions of this subchapter, provide a stable base of funding for sea grant colleges and institutes; and
 
 &emsp;&emsp;(iv) encourage and promote coordination and cooperation between the research, education, and outreach programs of the Administration and those of academic institutions; and
 
@@ -144,7 +144,7 @@ Subsec. (i)(4)(A) to (C). Pub. L. 93–73, §1(5), substituted “Secretary” f
 
 Pub. L. 107–299, §3(b)(2), Nov. 26, 2002, 116 Stat. 2346, provided that:
 
-“(A) After 3 years after the date of the enactment of this Act \[Nov. 26, 2002\], the Secretary of Commerce,acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall contract with the National Academy of Sciences—
+“(A) After 3 years after the date of the enactment of this Act \[Nov. 26, 2002\], the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall contract with the National Academy of Sciences—
 
 &emsp;“(i) to review the effectiveness of the evaluation and rating system under the amendment made by paragraph (1) in determining the relative performance of programs of sea grant colleges and sea grant institutes;
 

@@ -46,7 +46,3 @@ Section 5(1) of Pub. L. 88–558 provided that the amendment made by that sectio
 
 The directory language of, but not the amendment made by, Pub. L. 88–558, Aug. 31, 1964, 78 Stat. 767, cited as a credit to this section and in the Effective Date of 1964 Amendment note above, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 33 section 3071.
-

@@ -14,7 +14,7 @@ Charges authorized to be made under this section shall be collected by the marke
 
 #### (d) Revocation of authorization or registration
 
-The Secretary may, if he deems it to be in the public interest, suspend, and after hearing, revoke any authorization and registration issued under the provisions of this section or any similar authorization and registration issued under any other provision of law. The order of the Secretary suspending or revoking any such authorization and registration shall not be subject to review.
+The Secretary may, if he deems it to be in the public interest, suspend, and after hearing, revoke any authorization and registration issued under the provisions of this section or any similar authorization and registration issued underany other provision of law. The order of the Secretary suspending or revoking any such authorization and registration shall not be subject to review.
 
 (Aug. 15, 1921, ch. 64, title III, §317, as added June 19, 1942, ch. 421, 56 Stat. 372.)
 

@@ -12,7 +12,7 @@ The Administrator, in coordination with the Director and with the Director of th
 
 &emsp;(A) A written agreement between local law enforcement, social service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
 
-&emsp;(B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse andneglect and nonoffending family members (referred to as the “counseling center”).
+&emsp;(B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse and neglect and nonoffending family members (referred to as the “counseling center”).
 
 &emsp;(C) Referral of all sexual and serious physical abuse and neglect cases to the counseling center not later than 24 hours after notification of an incident of abuse.
 

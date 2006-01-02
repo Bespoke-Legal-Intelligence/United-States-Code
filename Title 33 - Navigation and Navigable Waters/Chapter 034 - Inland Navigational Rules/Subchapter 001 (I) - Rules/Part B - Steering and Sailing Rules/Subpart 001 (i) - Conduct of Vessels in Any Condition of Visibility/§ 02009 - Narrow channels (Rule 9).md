@@ -20,7 +20,7 @@ A vessel shall not cross a narrow channel or fairway if such crossing impedes th
 
 #### (e) Overtaking vessels
 
-(i) In a narrow channel or fairway when overtaking, the power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c) and take steps topermit safe passing. The power-driven vessel being overtaken, if in agreement, shall sound the same signal and may, if specifically agreed to <sup>1</sup> take steps to permit safe passing. If in doubt she shall sound the danger signal prescribed in Rule 34(d).
+(i) In a narrow channel or fairway when overtaking, the power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c) and take steps to permit safe passing. The power-driven vessel being overtaken, if in agreement, shall sound the same signal and may, if specifically agreed to <sup>1</sup> take steps to permit safe passing. If in doubt she shall sound the danger signal prescribed in Rule 34(d).
 
 (ii) This Rule does not relieve the overtaking vessel of her obligation under Rule 13.
 

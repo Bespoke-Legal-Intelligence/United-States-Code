@@ -20,7 +20,7 @@
 
 &emsp;(3) a person participating with the carrier in a violation may be joined in the civil action without regard to the residence of the person.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(a), Oct. 30, 1984, 98 Stat. 2841; Pub. L. 103–272, §5(m)(10), July 5, 1994, 108 Stat. 1376.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2435; Pub. L. 98–554, title II, §213(a), Oct. 30, 1984, 98 Stat. 2841; Pub. L. 103–272, §5(m)(10), July 5, 1994, 108 Stat. 1376.)
 
 Historical and Revision Notes
 

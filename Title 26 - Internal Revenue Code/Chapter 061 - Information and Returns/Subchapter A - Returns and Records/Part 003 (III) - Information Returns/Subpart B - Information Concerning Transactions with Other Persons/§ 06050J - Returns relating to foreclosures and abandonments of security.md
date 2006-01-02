@@ -8,7 +8,7 @@ Any person who, in connection with a trade or business conducted by such person,
 
 &emsp;(2) has reason to know that the property in which such person has a security interest has been abandoned,
 
-> shall make a return described in subsection (c) with respect to each of such acquisitions or abandonments, at such time as the Secretary may by regulations prescribe.
+> shall make a return described in subsection (c) with respect to each of such acquisitions orabandonments, at such time as the Secretary may by regulations prescribe.
 
 #### (b) Exception
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (e) Statements to be furnished to persons with respect to whom information is required to be furnished
 
-Every person required to make a return under subsection (a) shall furnish to each person whosename is required to be set forth in such return a written statement showing the name, address, and phone number of the information contact of the person required to make such return. The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made.
+Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing the name, address, and phone number of the information contact of the person required to make such return. The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made.
 
 #### (f) Treatment of other dispositions
 
@@ -73,8 +73,4 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 #### Effective Date
 
 Section 148(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to acquisitions of property and abandonments of property after December 31, 1984.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 6721, 6722, 6724 of this title.
 

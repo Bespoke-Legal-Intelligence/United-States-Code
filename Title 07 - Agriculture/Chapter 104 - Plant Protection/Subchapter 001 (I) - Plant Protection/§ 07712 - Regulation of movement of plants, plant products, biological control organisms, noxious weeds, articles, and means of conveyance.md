@@ -10,7 +10,7 @@ The Secretary shall ensure that processes used in developing regulations under t
 
 #### (c) Regulations
 
-The Secretary may issue regulations to implement subsection (a) of this section, includingregulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
+The Secretary may issue regulations to implement subsection (a) of this section, including regulations requiring that any plant, plant product, biological control organism, noxious weed, article, or means of conveyance imported, entered, to be exported, or moved in interstate commerce—
 
 &emsp;(1) be accompanied by a permit issued by the Secretary prior to the importation, entry, exportation, or movement in interstate commerce;
 
@@ -46,7 +46,7 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 
 #### (2) Participation by scientists
 
-&emsp;In conducting the study the Secretary shall ensure participation by scientists from State departments of agriculture, colleges and universities, the private sector, and the Agricultural Research Service.
+&emsp;In conducting the study the Secretary shall ensure participation by scientists from Statedepartments of agriculture, colleges and universities, the private sector, and the Agricultural Research Service.
 
 #### (3) Report
 

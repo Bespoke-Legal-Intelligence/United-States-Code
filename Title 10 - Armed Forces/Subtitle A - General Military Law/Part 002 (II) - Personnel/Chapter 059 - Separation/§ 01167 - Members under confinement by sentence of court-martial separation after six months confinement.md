@@ -12,7 +12,3 @@ A prior section 1167, acts Aug. 10, 1956, ch. 1041, 70A Stat. 91; June 28, 1962,
 
 1996—Pub. L. 104–201 substituted “member has served” for “person has served”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1161 of this title.
-

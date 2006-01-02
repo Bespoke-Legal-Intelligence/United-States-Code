@@ -60,7 +60,7 @@
 
 #### (1) Depreciation
 
-&emsp;If any listed property is not predominantly used in a qualified business use for any taxable year, the deduction allowed under section 168 with respect to such property for such taxable year and any subsequent taxable year shall be determined under section 168(g) (relating to alternative depreciation system).
+&emsp;If any listed property is not predominantly used in a qualified business use for any taxableyear, the deduction allowed under section 168 with respect to such property for such taxable year and any subsequent taxable year shall be determined under section 168(g) (relating to alternative depreciation system).
 
 #### (2) Recapture
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (B) Exception for certain computers
 
-&emsp;&emsp;The term “listed property” shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
+&emsp;&emsp;The term “listed property” shall not include any computer or peripheral equipment\(as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
 
 #### (C) Exception for property used in business of transporting persons or property
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 #### (9) All taxpayers holding interests in passenger automobile treated as 1 taxpayer
 
-&emsp;All taxpayers holding interests in any passenger automobile shall be treated as 1 taxpayer for purposes of applying subsection (a) to such automobile, and the limitations of subsection (a) shall be allocated among such taxpayers in proportion to their interests in such automobile.
+&emsp;All taxpayers holding interests in any passenger automobile shall be treated as 1 taxpayer for purposes of applying subsection (a)to such automobile, and the limitations of subsection (a) shall be allocated among such taxpayers in proportion to their interests in such automobile.
 
 #### (10) Special rule for property acquired in nonrecognition transactions
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -426,13 +426,9 @@ Compliance provisions.—The amendments made by subsection (b) \[amending sectio
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 168, 274 of this title.
 

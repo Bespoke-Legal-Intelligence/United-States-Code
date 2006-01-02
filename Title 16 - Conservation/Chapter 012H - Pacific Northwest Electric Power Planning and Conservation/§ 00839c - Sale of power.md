@@ -12,7 +12,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 &emsp;(B) such other resources as such entity determines, pursuant to contracts under this chapter, will be used to serve its firm load in the region.
 
-> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firm load under such subparagraphs shall be treated as continuing to be so used, unless such use is discontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
+> In determining the resources which are used to serve a firm load, for purposes of subparagraphs (A) and (B), any resources used to serve a firm load under such subparagraphs shall be treated as continuing to be so used, unless such use isdiscontinued with the consent of the Administrator, or unless such use is discontinued because of obsolescence, retirement, loss of resource, or loss of contract rights.
 
 (2) Contracts with investor-owned utilities shall provide that the Administrator may reduce his obligations under such contracts in accordance with section 5(a) of the Bonneville Project Act of 1937 \[16 U.S.C. 832d(a)\].
 
@@ -142,7 +142,7 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 (6) Initial contracts offered public body, cooperative and Federal agency customers in accordance with this subsection shall provide that during a period of insufficiency declared in accordance with subsection (b) of this section each customer's contractual entitlement shall, to the extent of its requirements on the Administrator, be no less than the amount of firm power received from the Administrator in the year immediately preceding the period of insufficiency.
 
-(7) The Administrator shall be deemed to have sufficient resources for the purpose of enteringinto the initial contracts specified in paragraph (1)(A) through (D).
+(7) The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
 
 (Pub. L. 96–501, §5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, §1, Sept. 22, 2000, 114 Stat. 802.)
 

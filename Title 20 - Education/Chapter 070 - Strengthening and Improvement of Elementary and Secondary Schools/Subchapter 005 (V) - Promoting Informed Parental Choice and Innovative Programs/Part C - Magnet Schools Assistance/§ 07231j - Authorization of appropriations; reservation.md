@@ -6,7 +6,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### (b) Availability of funds for grants to agencies not previously assisted
 
-In any fiscal year for which the amount appropriated pursuant to subsection (a) of this section exceeds $75,000,000, the Secretary shall give priority in using such amounts in excess of$75,000,000 to awarding grants to local educational agencies or consortia of such agencies that did not receive a grant under this part in the preceding fiscal year.
+In any fiscal year for which the amount appropriated pursuant to subsection (a) of this section exceeds $75,000,000, the Secretary shall give priority in using such amounts in excess of $75,000,000 to awarding grants to local educational agencies or consortia of such agencies that did not receive a grant under this part in the preceding fiscal year.
 
 (Pub. L. 89–10, title V, §5311, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1810.)
 

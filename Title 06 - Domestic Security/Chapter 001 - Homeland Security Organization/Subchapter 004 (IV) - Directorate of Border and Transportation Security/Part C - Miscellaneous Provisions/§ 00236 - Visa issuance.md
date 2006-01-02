@@ -66,7 +66,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (2) Construction regarding delegation of authority
 
-&emsp;Nothing in this section shall be construed to affect any delegation of authority to the Secretary of State by the President pursuant to any proclamation issued under section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)), consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law.
+&emsp;Nothing in this section shall be construed to affect any delegation of authority to the Secretary of State by the President pursuant toany proclamation issued under section 212(f) of the Immigration and Nationality Act (8 U.S.C. 1182(f)), consistent with the Secretary of Homeland Security's authority to refuse visas in accordance with law.
 
 #### (e) Assignment of Homeland Security employees to diplomatic and consular posts
 
@@ -140,11 +140,11 @@ Nothing in this section shall be construed to create or authorize a private righ
 
 #### (2) Report
 
-&emsp;Not later than 1 year after November 25, 2002, the Secretary shall submit a report containing the findings of the study conducted under paragraph (1) to the Committee on the Judiciary, the Committee on International Relations, and the Committee on Government Reform of the House of Representatives, and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Government Affairs of the Senate.
+&emsp;Not later than 1 year after November 25, 2002, the Secretary shall submit a report containing the findings of the study conducted under paragraph (1) to the Committee on the Judiciary, the Committee on International Relations, and the Committee on Government Reform of the House of Representatives, and the Committee on the Judiciary, the Committee on Foreign Relations, and the Committee on Government <sup>4</sup> Affairs of the Senate.
 
 #### (h) Report
 
-Not later than 120 days after November 25, 2002, the Director of the Office of Science and Technology Policy shall submit to Congress a report on how the provisions of this section will affect procedures for the issuance of student visas.
+Not later than 120 days after November 25, 2002, the Director of the Office of Science andTechnology Policy shall submit to Congress a report on how the provisions of this section will affect procedures for the issuance of student visas.
 
 #### (i) Visa issuance program for Saudi Arabia
 
@@ -166,9 +166,13 @@ Section 568 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of this title.
 
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “ ‘consular officer’ ”.</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be “Governmental”.</i>
 

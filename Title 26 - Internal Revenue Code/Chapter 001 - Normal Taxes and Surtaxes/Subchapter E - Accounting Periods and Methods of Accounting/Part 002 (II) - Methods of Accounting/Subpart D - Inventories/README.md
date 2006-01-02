@@ -20,6 +20,8 @@ Subpart D—Inventories
 
 1980—Pub. L. 96–223, title IV, §403(a)(2), Apr. 2, 1980, 94 Stat. 304, added item 473.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A)(ii)”.</i>
+
 
 ---
 

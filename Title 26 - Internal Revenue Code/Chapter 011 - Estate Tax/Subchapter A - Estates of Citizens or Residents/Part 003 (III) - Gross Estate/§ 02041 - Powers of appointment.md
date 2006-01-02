@@ -48,7 +48,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;(i) If the power is not exercisable by the decedent except in conjunction with the creator of the power—such power shall not be deemed a general power of appointment.
 
-&emsp;&emsp;&emsp;(ii) If the power is not exercisable by the decedent except in conjunction with a person having a substantial interest in the property, subject to the power, which is adverse to exercise of the power in favor of the decedent—such power shall not be deemed a general power of appointment. For the purposes of this clause a person who, after the death of the decedent, may be possessed of a power of appointment (with respect to the property subject to the decedent's power) which he may exercise in his own favor shall be deemed as having an interest in the property and such interest shall be deemed adverse to such exercise of the decedent's power.
+&emsp;&emsp;&emsp;(ii) If the power is not exercisable by the decedent except in conjunction with a person having a substantial interest in the property, subject to the power, which is adverse to exercise of the power in favor of the decedent—such power shall not bedeemed a general power of appointment. For the purposes of this clause a person who, after the death of the decedent, may be possessed of a power of appointment (with respect to the property subject to the decedent's power) which he may exercise in his own favor shall be deemed as having an interest in the property and such interest shall be deemed adverse to such exercise of the decedent's power.
 
 &emsp;&emsp;&emsp;(iii) If (after the application of clauses (i) and (ii)) the power is a general power of appointment and is exercisable in favor of such other person—such power shall be deemed a general power of appointment only in respect of a fractional part of the property subject to such power, such part to be determined by dividing the value of such property by the number of such persons (including the decedent) in favor of whom such power is exercisable.
 
@@ -81,8 +81,4 @@ Amendment by Pub. L. 94–455 applicable to transfers creating an interest in pe
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct. 16, 1962, except as otherwise provided, see section 18(b) of Pub. L. 87–834, set out as a note under section 2031 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2013, 2037, 2043, 2045, 2055, 2106, 2207, 6324 of this title.
 

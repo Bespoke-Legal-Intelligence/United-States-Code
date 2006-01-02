@@ -5,7 +5,7 @@
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>21.</b>](Subpart%20A%20-%20General%20Provisions/Chapter%20021%20-%20Definitions/README.md) | <b>Definitions</b> | <b>2101</b> |
-| [<b>23.</b>](Subpart%20A%20-%20General%20Provisions/Chapter%20023%20-%20Merit%20System%20Principles/README.md) | <b>Merit system principles</b> | <b>2301</b> |
+| [<b>23.</b>](Subpart%20A%20-%20General%20Provisions/Chapter%20023%20-%20Merit%20System%20Principles/README.md) | <b>Merit System Principles</b> | <b>2301</b> |
 | [<b>29.</b>](Subpart%20A%20-%20General%20Provisions/Chapter%20029%20-%20Commissions%2C%20Oaths%2C%20Records%2C%20and%20Reports/README.md) | <b>Commissions, Oaths, Records, and Reports</b> | <b>2901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 | :--- | :---: | ---: |
 | [<b>31.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20031%20-%20Authority%20for%20Employment/README.md) | <b>Authority for Employment</b> | <b>3101</b> |
 | [<b>33.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20033%20-%20Examination%2C%20Selection%2C%20and%20Placement/README.md) | <b>Examination, Selection, and Placement</b> | <b>3301</b> |
-| [<b>34.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20034%20-%20Part-Time%20Career%20Employment%20Opportunities/README.md) | <b>Part-time career employment opportunities</b> | <b>3401</b> |
+| [<b>34.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20034%20-%20Part-Time%20Career%20Employment%20Opportunities/README.md) | <b>Part-Time Career Employment Opportunities</b> | <b>3401</b> |
 | [<b>35.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20035%20-%20Retention%20Preference%2C%20Voluntary%20Separation%20Incentive%20Payments%2C%20Restoration%2C%20and%20Reemployment/README.md) | <b>Retention Preference, Restoration, and Reemployment </b><b><sup>1</sup></b> | <b>3501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -142,7 +142,7 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 
 1984—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
 
-1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
+1978—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in headingof subpart F “Labor-Management and” before “Employee”.
 
 
 ---

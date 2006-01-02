@@ -54,7 +54,3 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 1075, 1079, 1080, 1086, 1096 of this title; title 42 section 253a.
-

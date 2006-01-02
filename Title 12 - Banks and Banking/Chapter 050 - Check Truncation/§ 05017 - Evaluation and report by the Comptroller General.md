@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-During the 5-year period beginning on October 28, 2003, the Comptroller General of the United States shall evaluate the implementation and administration of this chapter, including—
+During the 5-year period beginning on October 28, 2003, the Comptroller General of the UnitedStates shall evaluate the implementation and administration of this chapter, including—
 
 &emsp;(1) an estimate of the gains in economic efficiency made possible from check truncation;
 

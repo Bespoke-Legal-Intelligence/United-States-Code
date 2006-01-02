@@ -24,7 +24,7 @@ The Secretary, in accordance with this part, shall exercise authority over the d
 
 Subsec. (b). Pub. L. 106–469, §103(7)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary, not later than December 15, 1976, shall prepare and transmit to the Congress, in accordance with section 6421 of this title, a Strategic Petroleum Reserve Plan. Such Plan shall comply with the provisions of this section and shall detail the Secretary's proposals for designing, constructing, and filling the storage and related facilities of the Reserve.”
 
-Subsecs. (c) to (e). Pub. L. 106–469, §103(7)(C), struck out subsecs. (c) to (e) which related to the levels ofcrude oil to be stored, plan objectives, and plan provisions.
+Subsecs. (c) to (e). Pub. L. 106–469, §103(7)(C), struck out subsecs. (c) to (e) which related to the levels of crude oil to be stored, plan objectives, and plan provisions.
 
 1998—Subsec. (f). Pub. L. 105–177 added subsec. (f).
 

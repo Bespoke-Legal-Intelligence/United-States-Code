@@ -10,7 +10,7 @@ In order to—
 
 &emsp;(3) provide a means for keeping the Director fully and currently informed about problems and deficiencies relating to the administration of such programs and operations, and the necessity for and the progress of corrective actions; and
 
-&emsp;(4) in the manner prescribed by this section, ensure that the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence (hereafter in this section referred to collectively as the “intelligence committees”) are kept similarly informed of significant problems and deficiencies as well as the necessity for and the progress of corrective actions,
+&emsp;(4) in the manner prescribed by this section, ensure that the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence (hereafter in thissection referred to collectively as the “intelligence committees”) are kept similarly informed of significant problems and deficiencies as well as the necessity for and the progress of corrective actions,
 
 > there is hereby established in the Agency an Office of Inspector General (hereafter in this section referred to as the “Office”).
 
@@ -36,7 +36,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(2) to keep the Director fully and currently informed concerning violations of law and regulations, fraud and other serious problems, abuses and deficiencies that may occur in such programs and operations, and to report the progress made in implementing corrective action;
 
-&emsp;(3) to take due regard for the protection of intelligence sources and methods in the preparation of all reports issued by the Office, and,to the extent consistent with the purpose and objective of such reports, take such measures as may be appropriate to minimize the disclosure of intelligence sources and methods described in such reports; and
+&emsp;(3) to take due regard for the protection of intelligence sources and methods in the preparation of all reports issued by the Office, and, to the extent consistent with the purpose and objective of such reports, take such measures as may be appropriate to minimize the disclosure of intelligence sources and methods described in such reports; and
 
 &emsp;(4) in the execution of his responsibilities, to comply with generally accepted government auditing standards.
 
@@ -54,7 +54,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(E) a description of the exercise of the subpoena authority under subsection (e)(5) of this section by the Inspector General during the reporting period; and
 
-&emsp;(F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect and eliminate fraud and abuse in such programs and operations.
+&emsp;(F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect andeliminate fraud and abuse in such programs and operations.
 
 (2) The Inspector General shall report immediately to the Director whenever he becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of programs or operations. The Director shall transmit such report to the intelligence committees within seven calendar days, together with any comments he considers appropriate.
 
@@ -116,7 +116,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;&emsp;(II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
-&emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of this section in response to an employee's reporting an urgent concern in accordance with this paragraph.
+&emsp;&emsp;(III) An action, including a personnel action described in section 2302(a)(2)(A) of title 5, constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) of thissection in response to an employee's reporting an urgent concern in accordance with this paragraph.
 
 &emsp;(ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
@@ -140,7 +140,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (C) The Inspector General may not issue a subpoena for or on behalf of any other element or component of the Agency.
 
-(D) In the case of contumacy or refusal to obey a subpoena issued under this paragraph,the subpoena shall be enforceable by order of any appropriate district court of the United States.
+(D) In the case of contumacy or refusal to obey a subpoena issued under this paragraph, the subpoena shall be enforceable by order of any appropriate district court of the United States.
 
 (6) The Inspector General shall be provided with appropriate and adequate office space at central and field office locations, together with such equipment, office supplies, maintenance services, and communications facilities and services as may be necessary for the operation of such offices.
 
@@ -217,6 +217,8 @@ Subsec. (e)(6). Pub. L. 103–359, §402(6), substituted “the Inspector Genera
 1989—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
 
 #### Effective Date of 2004 Amendment
+
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
 

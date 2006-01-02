@@ -42,7 +42,7 @@ In carrying out this section, the Secretary shall review the current status of S
 
 #### (2) Limitation
 
-&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscal year involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costs of otherwise providing therapeutics described in subsection (a) of this section.
+&emsp;The authority established in paragraph (1) applies only to the extent that, for the fiscalyear involved, the costs of the health insurance or plans to be purchased or maintained under such paragraph do not exceed the costs of otherwise providing therapeutics described in subsection (a) of this section.
 
 (July 1, 1944, ch. 373, title XXVI, §2616, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 104–146, §3(c)(3), May 20, 1996, 110 Stat. 1355; Pub. L. 106–345, title II, §204, Oct. 20, 2000, 114 Stat. 1332.)
 

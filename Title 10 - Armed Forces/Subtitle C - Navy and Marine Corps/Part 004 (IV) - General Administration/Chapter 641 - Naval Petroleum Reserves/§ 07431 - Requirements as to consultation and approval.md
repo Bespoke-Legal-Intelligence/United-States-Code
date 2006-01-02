@@ -62,7 +62,3 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
 Pub. L. 101–45, title I, §501, June 30, 1989, 103 Stat. 103, provided that no funds appropriated or made available under Pub. L. 101–45 or any other Act were to be used by the executive branch to contract with organizations outside Department of Energy to perform studies of potential transfer out of Federal ownership, management or control by sale, lease, or other disposition, in whole or in part, of facilities and functions of Naval Petroleum Reserve Numbered 1 (Elk Hills) and Naval Petroleum Reserve Numbered 3 (Teapot Dome), and prohibited negotiation of changes to unit plan contract with Chevron which governed operation of Elk Hills, where purpose of changes was to prepare for divestiture of the Reserve, prior to repeal by Pub. L. 104–134, title I, §101(c) \[title II\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 7430 of this title; title 43 section 1601.
-

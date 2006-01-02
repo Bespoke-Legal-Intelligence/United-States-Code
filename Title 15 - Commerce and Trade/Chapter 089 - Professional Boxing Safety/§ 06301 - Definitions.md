@@ -32,7 +32,7 @@ For purposes of this chapter:
 
 #### (8) Professional boxing match
 
-&emsp;The term “professional boxing match” means a boxing contest held in the UnitedStates between individuals for financial compensation. Such term does not include a boxing contest that is regulated by an amateur sports organization.
+&emsp;The term “professional boxing match” means a boxing contest held in the United States between individuals for financial compensation. Such term does not include a boxing contest that is regulated by an amateur sports organization.
 
 #### (9) Promoter
 

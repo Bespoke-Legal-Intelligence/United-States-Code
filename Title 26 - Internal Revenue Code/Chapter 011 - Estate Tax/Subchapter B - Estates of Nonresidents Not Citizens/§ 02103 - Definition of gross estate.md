@@ -4,7 +4,3 @@ For the purpose of the tax imposed by section 2101, the value of the gross estat
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 397.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 2102, 2106, 2107 of this title.
-

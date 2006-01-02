@@ -168,7 +168,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(iii) support the drafting of a new criminal code, civil code, and bankruptcy law;
 
-&emsp;&emsp;“(iv) develop a legal and regulatory framework for the Russian Federation's equivalent of the United States Securities and Exchange Commission;
+&emsp;&emsp;“(iv) develop a legal and regulatory framework for the Russian Federation's equivalent of theUnited States Securities and Exchange Commission;
 
 &emsp;&emsp;“(v) support Russian law schools;
 
@@ -236,7 +236,7 @@ Assistance Programs.—In providing assistance to the Russian Federation under c
 
 &emsp;“(2) establish civic education programs relating to democracy, public policy, the rule of law, and the importance of independent media, including the establishment of ‘American Centers’ and public policy schools at Russian universities and encourage cooperative programs with universities in the United States to offer courses through Internet-based off-site learning centers at Russian universities; and
 
-&emsp;“(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions ofthe Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
+&emsp;“(3) support the Regional Initiatives (RI) program, which provides targeted assistance in those regions of the Russian Federation that have demonstrated a commitment to reform, democracy, and the rule of law, and which promotes the concept of such programs as a model for all regions of the Russian Federation.
 
 “(b)
 

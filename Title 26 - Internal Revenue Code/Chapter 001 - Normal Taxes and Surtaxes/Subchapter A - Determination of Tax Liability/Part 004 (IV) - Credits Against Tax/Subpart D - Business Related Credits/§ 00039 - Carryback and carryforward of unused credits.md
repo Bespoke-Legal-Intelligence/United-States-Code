@@ -6,7 +6,7 @@
 
 &emsp;If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the “unused credit year”), such excess (to the extent attributable to the amount of the current year business credit) shall be—
 
-&emsp;&emsp;(A) a business credit carryback to each of the 1 taxable years <sup>1</sup> preceding the unused credit year, and
+&emsp;&emsp;(A) a business credit carryback to the taxable year preceding the unused credit year, and
 
 &emsp;&emsp;(B) a business credit carryforward to each of the 20 taxable years following the unused credit year,
 
@@ -22,6 +22,20 @@
 
 &emsp;&emsp;The amount of the unused credit for the unused credit year shall be carried to each of the other 20 taxable years to the extent that such unused credit may not be taken into account under section 38(a) for a prior taxable year because of the limitations of subsections (b) and (c).
 
+#### (3) 5-year carryback for marginal oil and gas well production credit
+
+&emsp;Notwithstanding subsection (d), in the case of the marginal oil and gas well production credit—
+
+&emsp;&emsp;(A) this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit),
+
+&emsp;&emsp;(B) paragraph (1) shall be applied by substituting “each of the 5 taxable years” for “the taxable year” in subparagraph (A) thereof, and
+
+&emsp;&emsp;(C) paragraph (2) shall be applied—
+
+&emsp;&emsp;&emsp;(i) by substituting “25 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
+
+&emsp;&emsp;&emsp;(ii) by substituting “24 taxable years” for “20 taxable years” in subparagraph (B) thereof.
+
 #### (b) Limitation on carrybacks
 
 The amount of the unused credit which may be taken into account under section 38(a)(3) for any preceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of—
@@ -32,65 +46,13 @@ The amount of the unused credit which may be taken into account under section 38
 
 #### (c) Limitation on carryforwards
 
-The amount of the unused credit which may be taken into account under section 38(a)(1) for any succeeding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of the amounts which, by reason of this section, are carried to such taxable year and are attributable to taxable years preceding the unused credit year.
+The amount of the unused credit which may be taken into account under section 38(a)(1) for any succeeding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sumof the amounts which, by reason of this section, are carried to such taxable year and are attributable to taxable years preceding the unused credit year.
 
-#### (d) Transitional rules
+#### (d) Transitional rule
 
-#### (1) No carryback of enhanced oil recovery credit before 1991
+No portion of the unused business credit for any taxable year which is attributable to a credit specified in section 38(b) or any portion thereof may be carried back to any taxable year before the first taxable year for which such specified credit or such portion is allowable (without regard to subsection (a)).
 
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the credit determined under section 43(a) (relating to enhanced oil recovery credit) may be carried to a taxable year beginning before January 1, 1991.
-
-#### (2) No carryback of section 44 credit before enactment
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the disabled access credit determined under section 44 may be carried to a taxable year ending before the date of the enactment of section 44.
-
-#### (3) No carryback of renewable electricity production credit before effective date
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the credit determined under section 45 (relating to electricity produced from certain renewable resources) may be carried back to any taxable year ending before January 1, 1993 (before January 1, 1994, to the extent such credit is attributable to wind as a qualified energy resource).
-
-#### (4) Empowerment zone employment credit
-
-&emsp;No portion of the unused business credit which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit) may be carried to any taxable year ending before January 1, 1994.
-
-#### (5) No carryback of section 45A credit before enactment
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the Indian employment credit determined under section 45A may be carried to a taxable year ending before the date of the enactment of section 45A.
-
-#### (6) No carryback of section 45B credit before enactment
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the employer social security credit determined under section 45B may be carried back to a taxable year ending before the date of the enactment of section 45B.
-
-#### (7) No carryback of section 45C credit before July 1, 1996
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the orphan drug credit determined under section 45C may be carried back to a taxable year ending before July 1, 1996.
-
-#### (8) No carryback of DC Zone credits before effective date
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the credits allowable under subchapter U by reason of section 1400 may be carried back to a taxable year ending before the date of the enactment of section 1400.
-
-#### (9) No carryback of new markets tax credit before January 1, 2001
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the credit under section 45D may be carried back to a taxable year ending before January 1, 2001.
-
-#### (10) No carryback of small employer pension plan startup cost credit before January 1, 2002
-
-&emsp;No portion of the unused business credit for any taxable year which is attributable to the small employer pension plan startup cost credit determined under section 45E may be carried back to a taxable year beginning before January 1, 2002.
-
-(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(<i>l</i>)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L.103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110.)
-
-#### Amendment of Section
-
-<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
-
-#### References in Text
-
-The date of the enactment of section 44, referred to in subsec. (d)(2), means the date of the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
-
-The date of the enactment of section 45A, referred to in subsec. (d)(5), means the date of the enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
-
-The date of the enactment of section 45B, referred to in subsec. (d)(6), means the date of the enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
-
-The date of the enactment of section 1400, referred to in subsec. (d)(8), means the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
+(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(<i>l</i>)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637.)
 
 #### Prior Provisions
 
@@ -99,6 +61,14 @@ A prior section 39 was renumbered section 34 of this title.
 Another prior section 39 was renumbered section 36 of this title.
 
 #### Amendments
+
+2005—Subsec. (a)(1)(A). Pub. L. 109–135, §412(g)(1), substituted “the taxable year” for “each of the 1 taxable years”.
+
+Subsec. (a)(3)(B). Pub. L. 109–135, §412(g)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “paragraph (1) shall be applied by substituting ‘5 taxable years’ for ‘1 taxable years’ in subparagraph (A) thereof, and”.
+
+2004—Subsec. (a)(3). Pub. L. 108–357, §341(c), added par. (3).
+
+Subsec. (d). Pub. L. 108–357, §245(b)(1), amended heading and text of subsec. (d) generally, substituting provisions prohibiting carryback of the unused business credit attributable to a credit specified in section 38(b) for provisions prohibiting carryback of the enhanced oil recovery credit before 1991, sections 44, 45A, and 45B credits before their enactments, the renewable electricity production credit before its effective date, the empowerment zone employment credit, section 45C credit before July 1, 1996, DC Zone credits before their effective date, the new markets tax credit before Jan. 1, 2001, and the small employer pension plan startup cost credit before Jan. 1, 2002.
 
 2001—Subsec. (d)(10). Pub. L. 107–16, §§619(c)(1), 901, temporarily added par. (10). See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -140,6 +110,14 @@ Subsec. (d)(2)(B). Pub. L. 99–514, §1846(2), substituted “as defined in sec
 
 Subsec. (d)(3). Pub. L. 99–514, §231(d)(3)(C)(i), added par. (3).
 
+#### Effective Date of 2004 Amendment
+
+Pub. L. 108–357, title II, §245(b)(2), Oct. 22, 2004, 118 Stat. 1448, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to taxable years ending after December 31, 2003.”
+
+Amendment by section 245(b) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 245(e) of Pub. L. 108–357, set out as a note under section 38 of this title.
+
+Amendment by section 341(c) of Pub. L. 108–357 applicable to production in taxable years beginning after Dec. 31, 2004, see section 341(e) of Pub. L. 108–357, set out as a note under section 38 of this title.
+
 #### Effective and Termination Dates of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans first effective after such date, see section 619(d) of Pub. L. 107–16, as amended, set out as a note under section 38 of this title.
@@ -152,7 +130,7 @@ Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 200
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -162,7 +140,7 @@ Section 1083(b) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1205(c) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 29 of this title.
+Amendment by section 1205(c) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
 Section 1703(<i>o</i>) of Pub. L. 104–188 provided that: “Any amendment made by this section \[amending this section and sections 40, 59, 108, 117, 135, 143, 163, 904, 956A, 958, 1017, 1044, 1201, 1245, 1297, 1394, 1397B, 1561, 4001, 6033, 6427, 6501, 6655, and 9502 of this title, renumbering section 6714 of this title as section 6715, and amending provisions set out as notes under sections 38, 42, 197, and 1258 of this title and section 401 of Title 42, The Public Health and Welfare\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1993 \[Pub. L. 103–66, title XIII, ch. I, §§13001–13444\] to which such amendment relates.”
 
@@ -170,7 +148,7 @@ Section 1703(<i>o</i>) of Pub. L. 104–188 provided that: “Any amendment made
 
 Amendment by section 13322(d) of Pub. L. 103–66 applicable to wages paid or incurred after Dec. 31, 1993, see section 13322(f) of Pub. L. 103–66, set out as a note under section 38 of this title.
 
-Amendment by section 13443(b)(2) of Pub. L. 103–66 applicable with respect to taxes paid after Dec. 31, 1993,with respect to services performed before, on, or after such date, see section 13443(d) of Pub. L. 103–66, as amended, set out as a note under section 38 of this title.
+Amendment by section 13443(b)(2) of Pub. L. 103–66 applicable with respect to taxes paid after Dec. 31, 1993, with respect to services performed before, on, or after such date, see section 13443(d) of Pub. L. 103–66, as amended, set out as a note under section 38 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -198,15 +176,9 @@ Section applicable to taxable years beginning after Dec. 31, 1983, and to carryb
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(a)(2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801(a)(2) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in sections 38, 40, 41, 42, 45A, 45D, 45F, 48, 50, 196, 383, 1374, 6411, 6511 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

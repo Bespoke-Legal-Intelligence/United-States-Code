@@ -2,7 +2,7 @@
 
 In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:
 
-&emsp;(1) “Territory” means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, “Territory” includes Guam and the Virgin Islands.
+&emsp;(1) For purposes of other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the term “Territory” includes Guam and the Virgin Islands.
 
 &emsp;(2) “Armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
 
@@ -56,7 +56,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;(19) “Full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of this title for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 596; Pub. L. 85–861, §2(1), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 86–70, §27, June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §22, July 12, 1960, 74 Stat. 417; Pub. L. 92–492, §2(a), Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title V, §507(a), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 96–600, §3(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 98–525, title IV, §414(b)(1), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 596; Pub. L. 85–861, §2(1), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 86–70, §27, June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §22, July 12, 1960, 74 Stat. 417; Pub. L. 92–492, §2(a), Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title V, §507(a), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 96–600, §3(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 98–525, title IV, §414(b)(1), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(1), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes<br>1956
 
@@ -203,6 +203,8 @@ In clause (2), the term “armed forces” is defined for legislative convenienc
 The definition in clause (18) reflects the adoption of terminology which, though undefined in the source statutes restated in this title, represents the closest practicable approximation of the ways in which the term has been commonly used.
 
 #### Amendments
+
+2006—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “ ‘Territory’ means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, ‘Territory’ includes Guam and the Virgin Islands.”
 
 1988—Cls. (4), (6). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 

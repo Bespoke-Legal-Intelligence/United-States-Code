@@ -6,6 +6,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 109–59, title XI, §11125(b)(20)(D), (c), Aug. 10, 2005, 119 Stat. 1957, provided that, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, the table of sections is amended by adding at the end the following:</i>
+
+|  |  |
+| :--- | ---: |
+| <i>5732.</i> | <i>Payment of tax.</i> |
+| <i>5733.</i> | <i>Provisions relating to liability for occupational taxes.</i> |
+| <i>5734.</i> | <i>Application of State laws.</i> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Prior Provisions
 
 A prior subchapter D, relating to records of manufacturers and importers of tobacco products, etc., was redesignated subchapter E by Pub. L. 100–203, title X, §10512(f)(1), Dec. 22, 1987, 101 Stat. 1330–449.

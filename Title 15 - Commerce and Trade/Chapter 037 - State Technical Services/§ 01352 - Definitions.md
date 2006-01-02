@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 &emsp;(2) providing a reference service to identify sources of engineering and other scientific expertise; and
 
-&emsp;(3) sponsoring industrial workshops, seminars, training programs, extension courses, demonstrations, and field visits designed toencourage the more effective application of scientific and engineering information.
+&emsp;(3) sponsoring industrial workshops, seminars, training programs, extension courses, demonstrations, and field visits designed to encourage the more effective application of scientific and engineering information.
 
 (b) “Designated agency” means the institution or agency which has been designated as administrator of the program for any State or States under section 1353 or 1357 of this title.
 
@@ -32,5 +32,5 @@ For the purposes of this chapter—
 
 “Secretary of Education” substituted for “United States Commissioner of Education” and “Commissioner” in subsec. (c) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of Title 20, Education, and which transferred all functions of Commissioner of Education to Secretary of Education.
 
-Except as otherwise provided in Reorg. Plan No. 3 of 1967, eff. Aug. 11, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
+Except as otherwise provided in Reorg. Plan No. 3 of 1967, eff. Aug. 11, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24,1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 
